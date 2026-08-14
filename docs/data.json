@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-15 00:13:04",
-  "count": 15340,
+  "updated": "2026-08-15 00:17:02",
+  "count": 15342,
   "items": [
+    {
+      "id": "mkt:01a0010e-9e51-7aab-9042-aefc126ed265",
+      "time": "2026-08-15 00:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HEZBOLLAH leader Naim Qassem said the Lebanese government should assume responsibility for rebuilding the south and ensuring the security of displaced persons."
+    },
+    {
+      "id": "mkt:01a0010e-71e3-7aab-9042-a51ca5939dae",
+      "time": "2026-08-15 00:15:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Hezbollah leader Naim Qassem said he will never yield to pressure or aggression from the Israeli regime."
+    },
+    {
+      "id": "te:markets:575520",
+      "time": "2026-08-15 00:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Wheat Soars as Black Sea Supply Risks Mount — Wheat prices climbed more than 3% to above $6.70 a bushel on Friday, bringing weekly gains to over 5%, the strongest performance since mid-July. The rally was driven by growing concerns over disruptions to Black Sea exports amid the Russia-Ukraine conflict. Russia and Ukraine remain critical to the global wheat market, together accounting for almost 30% of projected world wheat exports in the 2026/27 season, leaving prices particularly vulnerable to prolonged interruptions. Supply concerns intensified after Russia halted grain loadings at its main Black Sea and Azov Sea ports. Operations at all three major terminals in Novorossiysk have now been suspended following Ukrainian drone attacks earlier in the week. The disruptions could force Russia to reduce exports further this month, tightening global availability. However, there were signs of a possible diplomatic opening, with Ukraine reportedly proposing that both sides stop attacks on civilian targets in the Black Sea."
+    },
+    {
+      "id": "mkt:01a0010d-3c21-7aab-9042-9ecdc14b88db",
+      "time": "2026-08-15 00:13:59",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "Prosecutors said they will seek life imprisonment for Mangione in the shooting of UnitedHealth Group's former CEO."
+    },
+    {
+      "id": "te:markets:575518",
+      "time": "2026-08-15 00:12:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Ends Week Lower — The FTSE 100 fell on Friday, extending its losses for a fifth consecutive session, as weakness across mining and pharmaceutical stocks weighed on the index. Lower industrial metal prices pressured miners, with Antofagasta falling more than 4%, Glencore dropping 2%, and Anglo American and Rio Tinto falling more than 1%. Meanwhile, Fresnillo and Endeavour recovered from sharp losses to close nearly flat as gold and silver rebounded. Pharmaceutical stocks were similarly weak, with AstraZeneca and GSK both losing more than 2%. On the other hand, Shell rose 1% as oil prices remained supported. Aviva added nearly 2% after reporting a 24% increase in first-half profit compared with the previous year. The company said it remained on track to meet its three-year group targets, providing some support to its shares. For the week, the UK index went down around 1.4%."
+    },
     {
       "id": "te:markets:575517",
       "time": "2026-08-15 00:12:17",
@@ -140303,34 +140355,6 @@
         "NKE.N"
       ],
       "text": "Senator Warren (D) has pressed Apple (AAPL.O), Amazon (AMZN.O) and Nike (NKE.N) over refunds of tariffs collected under the Trump administration, urging in a letter that they refund tariff charges to consumers."
-    },
-    {
-      "id": "5031427",
-      "time": "2026-08-08 00:16:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃倫在信函中敦促企業向消費者退還關稅款項。"
-    },
-    {
-      "id": "5031426",
-      "time": "2026-08-08 00:15:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果、亞馬遜、耐克遭沃倫參議員就關稅退款事宜問詢。"
-    },
-    {
-      "id": "te:markets:573867",
-      "time": "2026-08-08 00:14:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Hits Record High — The CAC 40 edged up 0.2% to close at a record 8,715 on Friday, supported by better-than-expected trade data and gains in US technology stocks. France's trade deficit narrowed more than expected to €5.8 billion in June from €7.9 billion in May, as exports rose 2.6% month-on-month to €54.5 billion. Industrial stocks advanced, with Airbus up 0.5%, Safran adding 0.6%, and Sanofi gaining 1.3%. Technology shares also moved higher, with STMicroelectronics rising 3.2% and Schneider Electric advancing 1% amid sector gains on Wall Street. In contrast, luxury stocks mostly declined, with LVMH down 0.3% and Kering and L'Oréal both falling 1.1% as Middle East tensions weighed on risk appetite. TotalEnergies also slipped 0.6% amid volatile oil prices. Broader sectors were mixed as France's unemployment rate rose to 8.3% in Q2 2026 from 8.1% in the previous quarter, reaching its highest level since Q3 2020."
     }
   ]
 }

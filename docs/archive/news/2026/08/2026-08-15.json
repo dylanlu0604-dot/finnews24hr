@@ -1,7 +1,59 @@
 {
   "date": "2026-08-15",
-  "count": 19,
+  "count": 24,
   "items": [
+    {
+      "id": "mkt:01a0010e-9e51-7aab-9042-aefc126ed265",
+      "time": "2026-08-15 00:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HEZBOLLAH leader Naim Qassem said the Lebanese government should assume responsibility for rebuilding the south and ensuring the security of displaced persons."
+    },
+    {
+      "id": "mkt:01a0010e-71e3-7aab-9042-a51ca5939dae",
+      "time": "2026-08-15 00:15:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Hezbollah leader Naim Qassem said he will never yield to pressure or aggression from the Israeli regime."
+    },
+    {
+      "id": "te:markets:575520",
+      "time": "2026-08-15 00:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Wheat Soars as Black Sea Supply Risks Mount — Wheat prices climbed more than 3% to above $6.70 a bushel on Friday, bringing weekly gains to over 5%, the strongest performance since mid-July. The rally was driven by growing concerns over disruptions to Black Sea exports amid the Russia-Ukraine conflict. Russia and Ukraine remain critical to the global wheat market, together accounting for almost 30% of projected world wheat exports in the 2026/27 season, leaving prices particularly vulnerable to prolonged interruptions. Supply concerns intensified after Russia halted grain loadings at its main Black Sea and Azov Sea ports. Operations at all three major terminals in Novorossiysk have now been suspended following Ukrainian drone attacks earlier in the week. The disruptions could force Russia to reduce exports further this month, tightening global availability. However, there were signs of a possible diplomatic opening, with Ukraine reportedly proposing that both sides stop attacks on civilian targets in the Black Sea."
+    },
+    {
+      "id": "mkt:01a0010d-3c21-7aab-9042-9ecdc14b88db",
+      "time": "2026-08-15 00:13:59",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "Prosecutors said they will seek life imprisonment for Mangione in the shooting of UnitedHealth Group's former CEO."
+    },
+    {
+      "id": "te:markets:575518",
+      "time": "2026-08-15 00:12:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Ends Week Lower — The FTSE 100 fell on Friday, extending its losses for a fifth consecutive session, as weakness across mining and pharmaceutical stocks weighed on the index. Lower industrial metal prices pressured miners, with Antofagasta falling more than 4%, Glencore dropping 2%, and Anglo American and Rio Tinto falling more than 1%. Meanwhile, Fresnillo and Endeavour recovered from sharp losses to close nearly flat as gold and silver rebounded. Pharmaceutical stocks were similarly weak, with AstraZeneca and GSK both losing more than 2%. On the other hand, Shell rose 1% as oil prices remained supported. Aviva added nearly 2% after reporting a 24% increase in first-half profit compared with the previous year. The company said it remained on track to meet its three-year group targets, providing some support to its shares. For the week, the UK index went down around 1.4%."
+    },
     {
       "id": "te:markets:575517",
       "time": "2026-08-15 00:12:17",
