@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-15 00:41:27",
-  "count": 15352,
+  "updated": "2026-08-15 00:45:21",
+  "count": 15348,
   "items": [
+    {
+      "id": "5041844",
+      "time": "2026-08-15 00:43:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲暫停準備金管理國庫券購買出人意料 華爾街料至少暫停至10月】美聯儲表示下一操作期內不會出於準備金管理目的買入美國國庫券後，華爾街策略師正在調整對其未來月度國庫券購買規模的預期。美聯儲這一決定意味著，自準備金管理購買(RMP)計劃於2025年12月啟動以來，首次暫停此類購買，暫停期為截至9月14日的月度操作期。美聯儲表示，期間仍計劃進行約170億美元的再投資購買。這一舉措令策略師感到意外。此前市場普遍預計，美聯儲政策制定者會將準備金管理購買規模維持在100億美元，美國銀行甚至認為存在增至150億美元的可能。如今，從美國銀行到富國銀行和道明證券的策略師都預計，準備金管理購買的暫停至少會持續到10月，之後才可能恢復。"
+    },
+    {
+      "id": "mkt:01a00126-2ea5-7aab-9043-1b026995ce95",
+      "time": "2026-08-15 00:41:14",
+      "tags": [
+        "MKT News",
+        "COF.N"
+      ],
+      "text": "An SEC filing shows SoftBank Group increased its stake in Capital One Financial Corporation (COF.N) to 276,811 shares."
+    },
     {
       "id": "5041842",
       "time": "2026-08-15 00:40:06",
@@ -140433,54 +140451,6 @@
         "MKT News"
       ],
       "text": "Lebanon's president said he is preparing an economic conference to be held in Washington."
-    },
-    {
-      "id": "5031443",
-      "time": "2026-08-08 00:44:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "秘魯經濟部長表示，在秘魯國家石油公司近期董事會重組後，不會對該國企推行私有化。"
-    },
-    {
-      "id": "mkt:019fdd1c-7be4-7aab-8fbe-5904eacedca4",
-      "time": "2026-08-08 00:44:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's economy minister ruled out privatizing state-owned oil company Petroperú after a recent board reshuffle."
-    },
-    {
-      "id": "mkt:019fdd1c-5ff2-7aab-8fbe-50653be914ac",
-      "time": "2026-08-08 00:44:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's president said private discussions with Trump were constructive, with Trump expressing understanding of Lebanon's situation and opening many doors. He said the talks have already resulted in the lifting of U.S. restrictions on American carriers operating flights to Lebanon."
-    },
-    {
-      "id": "mkt:019fdd1a-3c3c-7aab-8fbe-4d7b55f50eef",
-      "time": "2026-08-08 00:41:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI will provide recommended safety controls to third-party testing partners to ensure higher-risk evaluations and workloads can run safely."
-    },
-    {
-      "id": "mkt:019fdd1a-2143-7aab-8fbe-477d74b935a7",
-      "time": "2026-08-08 00:41:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI is implementing tighter safety controls for higher-capability models and related activities, including use of isolated testing environments."
-    },
-    {
-      "id": "5031442",
-      "time": "2026-08-08 00:41:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將與相關政府機構及精選人工智慧安全機構合作，對 Astra 的各項能力開展測試。"
     }
   ]
 }
