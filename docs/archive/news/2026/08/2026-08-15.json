@@ -1,7 +1,61 @@
 {
   "date": "2026-08-15",
-  "count": 153,
+  "count": 158,
   "items": [
+    {
+      "id": "mkt:01a0018b-9c03-7aab-9044-6edc123b2a36",
+      "time": "2026-08-15 02:32:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $82.40 a barrel, up $1.15 or 1.42%."
+    },
+    {
+      "id": "5041894",
+      "time": "2026-08-15 02:31:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet旗下自動駕駛公司Waymo： 加州公用事業委員會批准其在舊金山、洛杉磯擴大自動駕駛網約車服務。"
+    },
+    {
+      "id": "mkt:01a0018a-eebb-7aab-9044-64a0c6d5f7b9",
+      "time": "2026-08-15 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 0.60% to 952 yuan/gram; Shanghai silver main contract rose 0.57% to 15,841 yuan/kg; SC crude oil main contract rose 2.60% to 569 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a0018a-213d-7aab-9044-5ab79dfd7294",
+      "time": "2026-08-15 02:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.99% at 948.91 yuan/gram in the evening session on Friday, Aug 14. Shanghai Gold Exchange silver T+D closed up 1.06% at 15,780.0 yuan/kg in the evening session on Friday, Aug 14."
+    },
+    {
+      "id": "5041893",
+      "time": "2026-08-15 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.38%，報558.10元人民幣/桶。滬金夜盤收漲0.60%，滬銀收漲0.57%。"
+    },
     {
       "id": "te:markets:575533",
       "time": "2026-08-15 02:28:11",

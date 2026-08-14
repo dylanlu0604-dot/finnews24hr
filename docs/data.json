@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-15 02:28:53",
-  "count": 15331,
+  "updated": "2026-08-15 02:32:45",
+  "count": 15332,
   "items": [
+    {
+      "id": "mkt:01a0018b-9c03-7aab-9044-6edc123b2a36",
+      "time": "2026-08-15 02:32:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $82.40 a barrel, up $1.15 or 1.42%."
+    },
+    {
+      "id": "5041894",
+      "time": "2026-08-15 02:31:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet旗下自動駕駛公司Waymo： 加州公用事業委員會批准其在舊金山、洛杉磯擴大自動駕駛網約車服務。"
+    },
+    {
+      "id": "mkt:01a0018a-eebb-7aab-9044-64a0c6d5f7b9",
+      "time": "2026-08-15 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 0.60% to 952 yuan/gram; Shanghai silver main contract rose 0.57% to 15,841 yuan/kg; SC crude oil main contract rose 2.60% to 569 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a0018a-213d-7aab-9044-5ab79dfd7294",
+      "time": "2026-08-15 02:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.99% at 948.91 yuan/gram in the evening session on Friday, Aug 14. Shanghai Gold Exchange silver T+D closed up 1.06% at 15,780.0 yuan/kg in the evening session on Friday, Aug 14."
+    },
+    {
+      "id": "5041893",
+      "time": "2026-08-15 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.38%，報558.10元人民幣/桶。滬金夜盤收漲0.60%，滬銀收漲0.57%。"
+    },
     {
       "id": "te:markets:575533",
       "time": "2026-08-15 02:28:11",
@@ -140234,47 +140288,6 @@
         "國際"
       ],
       "text": "【PNC：日本不太可能為干預而出售中期美債 長端收益率影響有限】PNC利率研究主管Isfar Munir在報告中表示，日本財務省未來若需為匯市干預籌資，連中期美國國債都不太可能出售，因此長期美債收益率所受影響料有限。儘管上週出現日元干預跡象之際，30年期美國國債同步遭到拋售，但30年期互換利差同期負值收窄。如果長端美債的走勢是在反映匯市干預，互換利差的負值理應進一步擴大。後續干預如果真的會對較長期收益率產生影響，可能是透過某種“市場認知渠道”傳導，不過，這可能需要市場將干預解讀為未來較長時期內美債需求減少的訊號。"
-    },
-    {
-      "id": "mkt:019fdd7f-3eb1-7aab-8fc0-3d77e52c2e4d",
-      "time": "2026-08-08 02:32:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 1.53% to 942 yuan/gram; SHFE silver main contract rose 1.66% to 15,451 yuan/kg; SC crude main contract rose 1.44% to 534 yuan/barrel."
-    },
-    {
-      "id": "mkt:019fdd7f-35dd-7aab-8fc0-3433a8046ee6",
-      "time": "2026-08-08 02:32:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 1.33% to 938.8 yuan/gram at the close of the Aug. 7 night session. Shanghai Gold Exchange Silver T+D rose 1.1% to 15,400 yuan/kg at the same close."
-    },
-    {
-      "id": "5031491",
-      "time": "2026-08-08 02:31:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 9月原油期貨收報78.18美元/桶。NYMEX 9月天然氣期貨收報2.6620美元/百萬英熱單位。NYMEX 9月汽油期貨收報2.9853美元/加侖，NYMEX 9月取暖油期貨收報3.9024美元/加侖。"
-    },
-    {
-      "id": "5031490",
-      "time": "2026-08-08 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲1.44%，報533.60元人民幣/桶。滬金夜盤收漲1.53%，滬銀收漲1.66%。"
     }
   ]
 }
