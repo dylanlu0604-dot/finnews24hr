@@ -1,7 +1,27 @@
 {
   "date": "2026-08-15",
-  "count": 347,
+  "count": 349,
   "items": [
+    {
+      "id": "5042012",
+      "time": "2026-08-15 05:49:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "秘魯國家石油公司稱，奧爾諾斯管道再度遇襲引發原油洩漏。"
+    },
+    {
+      "id": "mkt:01a0023f-4a21-7aab-9046-79a7ade4b3a4",
+      "time": "2026-08-15 05:48:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras reported oil and gas shows in an exploration well in block FZA-M-59 in the Amazon River mouth basin."
+    },
     {
       "id": "5042011",
       "time": "2026-08-15 05:42:28",

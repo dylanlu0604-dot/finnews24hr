@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15 05:45:53",
-  "count": 15299,
+  "updated": "2026-08-15 05:49:45",
+  "count": 15300,
   "items": [
+    {
+      "id": "5042012",
+      "time": "2026-08-15 05:49:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "秘魯國家石油公司稱，奧爾諾斯管道再度遇襲引發原油洩漏。"
+    },
+    {
+      "id": "mkt:01a0023f-4a21-7aab-9046-79a7ade4b3a4",
+      "time": "2026-08-15 05:48:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras reported oil and gas shows in an exploration well in block FZA-M-59 in the Amazon River mouth basin."
+    },
     {
       "id": "5042011",
       "time": "2026-08-15 05:42:28",
@@ -140061,14 +140081,6 @@
         "國際"
       ],
       "text": "根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日公開市場出售41,957股強生股票，成交平均價格為每股258.056美元。"
-    },
-    {
-      "id": "5031662",
-      "time": "2026-08-08 05:47:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫敦促貨幣監理署撤銷聯合得克薩斯銀行的特許牌照。"
     }
   ]
 }
