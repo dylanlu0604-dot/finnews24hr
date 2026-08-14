@@ -1,7 +1,25 @@
 {
   "date": "2026-08-15",
-  "count": 203,
+  "count": 205,
   "items": [
+    {
+      "id": "5041920",
+      "time": "2026-08-15 03:41:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國代理海軍部長 ：美國“亞伯拉罕·林肯”號航空母艦將按計劃很快返航。"
+    },
+    {
+      "id": "mkt:01a001ca-3ced-7aab-9045-132bc0ccd887",
+      "time": "2026-08-15 03:40:26",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Oracle (ORCL.N) pared losses, down 3.52% after earlier falling as much as 4.65%."
+    },
     {
       "id": "5041919",
       "time": "2026-08-15 03:38:26",
