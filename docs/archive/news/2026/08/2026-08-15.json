@@ -1,7 +1,78 @@
 {
   "date": "2026-08-15",
-  "count": 12,
+  "count": 19,
   "items": [
+    {
+      "id": "te:markets:575517",
+      "time": "2026-08-15 00:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.20% Lower — The FTSE MIB Index dropped 110 points or 0.20 percent on Friday to close at 53584 points. Losses were led by Enel (-2.00%), Prysmian (-1.95%) and STMicroelectronics (-1.84%). Offsetting the fall, top gainers were Fincantieri (3.20%), Amplifon (2.48%) and Lottomatica (1.64%)."
+    },
+    {
+      "id": "5041825",
+      "time": "2026-08-15 00:12:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "路易吉·曼吉奧內案檢察官：我們力求判處最嚴厲刑罰。"
+    },
+    {
+      "id": "te:markets:575516",
+      "time": "2026-08-15 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.53% Higher — The DAX Index went up by 141 points or 0.53 percent on Friday to close at 26440 points. The rise was led by Scout24 (3.98%), Rheinmetall (2.86%) and SAP (2.75%). On the downside, the weakerst performers were E.ON (-4.38%), Merck (-2.92%) and Vonovia (-1.71%)."
+    },
+    {
+      "id": "5041824",
+      "time": "2026-08-15 00:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮副國家安全顧問Baker據悉將離職 曾參與伊朗談判】據一位知情人士透露，白宮副國家安全顧問Andy Baker計劃在未來幾周離職，這將使特朗普政府失去一位外交政策決策者。Baker還曾擔任副總統JD·萬斯的國家安全顧問。Baker離職之際正值美國深陷中東戰爭僵局。知情人士稱，Baker希望有更多時間陪家人，且任職時間已超過原先計劃。今年夏季早些時候接替Baker加入萬斯團隊的Cliff Sims將繼續擔任現職。國務卿兼代理國家安全顧問魯比奧的長期助手Mike Needham將繼續擔任副國家安全顧問。知情人士稱，Baker此前留任是為了協助完成交接。Baker曾親自參與伊朗談判。由於有關重新開放霍爾木茲海峽的磋商未取得進展，談判目前陷入停滯。在持續近六個月的戰爭之後，特朗普表示，美國將重點透過經濟施壓和繼續海上封鎖來迫使伊朗屈服。"
+    },
+    {
+      "id": "te:markets:575515",
+      "time": "2026-08-15 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.18% Lower — The CAC 40 Index fell 16 points or 0.18 percent on Friday to close at 8635 points. Leading the losses are STMicroelectronics (-1.87%), ENGIE (-1.57%) and Sanofi (-1.19%). Top gainers were Dassault Systemes (3.63%), TP (3.04%) and Edenred (2.18%)."
+    },
+    {
+      "id": "mkt:01a00108-ce78-7aab-9042-93502e6684cb",
+      "time": "2026-08-15 00:09:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "CENTCOM said as of Aug 14 its forces had forced 62 commercial vessels to divert course, disabled three ships and boarded and inspected two to ensure compliance with blockade measures."
+    },
+    {
+      "id": "5041823",
+      "time": "2026-08-15 00:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至 8 月 14 日，中央司令部部隊已迫使 62 艘商船改道，癱瘓 3 艘船隻，並登檢 2 艘，確保相關船隻遵守封鎖規定。"
+    },
     {
       "id": "5041822",
       "time": "2026-08-15 00:07:23",
