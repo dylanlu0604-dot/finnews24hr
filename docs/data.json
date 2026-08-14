@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-14 19:11:18",
-  "count": 15339,
+  "updated": "2026-08-14 19:15:13",
+  "count": 15340,
   "items": [
+    {
+      "id": "5041370",
+      "time": "2026-08-14 19:14:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報喜鳥：2026年上半年營收26.29億元 淨利潤同比增47.71%】報喜鳥公告稱，2026年上半年，公司實現營業收入26.29億元，同比增長9.96%；歸屬於上市公司股東的淨利潤2.91億元，同比增長47.71%；扣除非經常性損益的淨利潤2.03億元，同比增長25.11%；經營活動產生的現金流量淨額3.06億元，同比增長223.42%。報告期末，公司總資產69.93億元，較上年度末減少2.16%；歸屬於上市公司股東的淨資產46.83億元，較上年度末增加0.94%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5041369",
+      "time": "2026-08-14 19:14:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "SAFRAS：截至8月12日，巴西2026/27年度咖啡採收完成90%。"
+    },
+    {
+      "id": "te:economy:575465",
+      "time": "2026-08-14 19:14:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Israel Inflation Slows Further — Israel’s annual inflation rate eased to 1.5% in July 2026, down from 1.6% in June and remaining comfortably within the central bank’s 1%-3% target range. The latest reading marked the lowest inflation rate since May 2021, as price pressures moderated across several categories. Inflation slowed for food, including vegetables (1.4% vs 1.6%), housing (3.9% vs 4.2%), dwelling maintenance (1.6% vs 1.8%), health (1.6% vs 1.8%), and education, culture and entertainment (1.3% vs 1.4%). Meanwhile, deflation deepened for transport (-0.4% vs -0.3%), furnishings (-4.1% vs -3.7%), and clothing and footwear (-6.3% vs -5.9%). On a monthly basis, consumer prices rose 0.3%, following a flat reading in June."
+    },
+    {
+      "id": "5041368",
+      "time": "2026-08-14 19:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星網銳捷：擬以3.96億元現金收購廣州芯德46%股權】星網銳捷公告，公司擬以現金方式收購陳春明、饒東盛、蔣曉敏合計持有的廣州芯德通訊科技有限公司46%股權，交易價格確定為3.96億元。本次交易完成後，公司將持有廣州芯德67%的股權，廣州芯德成為公司控股子公司。交易設定業績承諾，業績承諾方承諾2026年、2027年目標公司扣非後歸母淨利潤分別不低於7500萬元、8000萬元。"
+    },
+    {
+      "id": "5041367",
+      "time": "2026-08-14 19:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼金融監管機構：新商品交易所實施細則將於9月17日完成，新交易所旨在減少轉讓定價行為。"
+    },
+    {
+      "id": "5041366",
+      "time": "2026-08-14 19:11:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達實智慧：2026年上半年淨利潤虧損1819.83萬元】達實智慧公告，2026年上半年營業收入10.92億元，同比增長10.24%。歸屬於上市公司股東的淨利潤虧損1819.83萬元，上年同期虧損8876.33萬元，虧損幅度收窄。"
+    },
+    {
+      "id": "5041365",
+      "time": "2026-08-14 19:11:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛航股份：2026年上半年淨利潤7258.67萬元，同比增33.92%】盛航股份公告，2026年上半年營業收入8.02億元，同比增長12.51%。歸屬於上市公司股東的淨利潤7258.67萬元，同比增長33.92%，上年同期淨利潤5420.24萬元。"
+    },
+    {
+      "id": "5041364",
+      "time": "2026-08-14 19:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“白海豚”殘餘環流仍有影響 今夜到明天多地有大到暴雨】“白海豚”殘餘環流將逐漸東移入海，今天夜間到明天，江蘇、上海、浙江、福建、廣東等地仍將有強降雨，明天夜間開始降雨減弱。同時，今天末伏開啟，新疆、四川盆地高溫頻繁，17日後副熱帶高壓西伸增強，江南等地高溫天氣也將增多。"
+    },
+    {
+      "id": "5041363",
+      "time": "2026-08-14 19:10:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會：線上債券平臺服務商框架迎來調整。"
+    },
     {
       "id": "5041362",
       "time": "2026-08-14 19:10:08",
@@ -140502,76 +140578,6 @@
         "公司"
       ],
       "text": "【晶華微：2026年上半年淨利潤虧損201.94萬元】晶華微公告，2026年上半年營業收入1.07億元，同比增長36.31%。歸屬於上市公司股東的淨利潤虧損201.94萬元，上年同期淨利潤虧損2296.17萬元。"
-    },
-    {
-      "id": "mkt:019fdbee-227e-7aab-8fb8-06462b3ac433",
-      "time": "2026-08-07 19:14:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "CSI300"
-      ],
-      "text": "【Shenzhen, Shanghai exchanges propose LOF delisting rules to curb high‑premium speculation】The Shenzhen and Shanghai stock exchanges have opened a consultation to tighten LOF arrangements, proposing classified triggers and procedures for terminating LOF listings. Under authorization of the Fund Law, the exchanges would supplement the Fund Listing Rules to specify delisting cases, procedures, risk‑disclosure requirements and institutional responsibilities, aimed at addressing high‑premium on‑exchange speculation in LOFs. Market estimates indicate roughly 125 LOFs could be affected, with combined on‑exchange AUM around 26 bln yuan; about 91 are small‑scale LOFs with combined on‑exchange size near 300 mln yuan, so the overall number and scale appear limited. Exchanges note delisting does not equate to fund liquidation, will not alter normal investment operations, and does not affect off‑exchange holders’ subscription/redemption rights. On‑exchange holders can transfer to off‑exchange custody during a transition or redeem/sell on‑exchange; after delisting holders can still redeem via on‑ or off‑exchange distribution channels. The exchanges say delisting will not involve funds net‑selling underlying equities and should have limited direct impact on underlying markets."
-    },
-    {
-      "id": "5031005",
-      "time": "2026-08-07 19:13:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝：“葉門武裝部隊預計將發表宣告，宣佈一項獨特的軍事行動。”"
-    },
-    {
-      "id": "5031004",
-      "time": "2026-08-07 19:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普:“加密貨幣是大事件。” “我看到越來越多的人用比特幣付款。他們甚至不再瞭解現金了。”"
-    },
-    {
-      "id": "5031003",
-      "time": "2026-08-07 19:13:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部啟動浙江海洋災害三級應急響應】自然資源部8月7日下午召開臺風“白海豚”海洋和地質災害防禦排程會議，傳達學習國家防總專題會商會議精神，聽取部東海局、浙江省自然資源廳、福建省自然資源廳等單位防禦部署情況彙報，通報此次颱風過程可能引發海洋和地質災害情況，全面部署災害防範應對工作。會議強調要全力做好海洋災害預警報和防禦工作，一要提高政治站位，深刻認識海洋災害防禦工作形勢；二要加強會商研判，提前預報預警；三要加強地方指導，注重聯防聯控；四要加強海上船舶，確保作業生產安全；五要加強科普宣傳，提升避險救災能力。會議要求全力做好強降雨引發地質災害風險防範應對，一是堅持下沉一線和靠前指揮，二是強化駐縣包鄉和技術支撐，三是強化趨勢研判和預報預警，四是強化臨災預警和轉移避險，五是加強值班值守和資訊報送。針對此次颱風過程，自然資源部已啟動浙江海洋災害三級應急響應，江蘇、上海、福建海洋災害四級應急響應，浙江、福建地質災害防禦IV級響應，派出專家組指導地方開展巡查排查、監測預警、會商研判，災情調查等災害防範應對工作。 (央視新聞)"
-    },
-    {
-      "id": "5031002",
-      "time": "2026-08-07 19:12:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK電訊有限公司：正繼續就人工智慧資料中心業務審議戰略選項，尚未作出任何決定。"
-    },
-    {
-      "id": "5031001",
-      "time": "2026-08-07 19:12:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特外長髮布《沙烏地阿拉伯王國、土耳其共和國和巴基斯坦伊斯蘭共和國麥加聯合防禦峰會聯合宣告》。"
-    },
-    {
-      "id": "mkt:019fdbeb-f00b-7aab-8fb7-fa8c7986b7c9",
-      "time": "2026-08-07 19:11:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Spain threatened retaliatory measures against Italy over its immigration restrictions."
-    },
-    {
-      "id": "5031000",
-      "time": "2026-08-07 19:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙就移民管控問題威脅將對義大利採取報復措施。"
     }
   ]
 }
