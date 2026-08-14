@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-15 00:25:03",
-  "count": 15341,
+  "updated": "2026-08-15 00:33:33",
+  "count": 15345,
   "items": [
+    {
+      "id": "5041833",
+      "time": "2026-08-15 00:32:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團：持股變動資料截至 2026 年 6 月 30 日，對比基準為 2026 年 3 月 31 日結束的上一季度。"
+    },
+    {
+      "id": "mkt:01a0011d-7658-7aab-9042-db672f906a7e",
+      "time": "2026-08-15 00:31:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi media Alhadath reports a fire at Maihe Port following a Houthi missile strike."
+    },
+    {
+      "id": "mkt:01a0011c-4506-7aab-9042-d7795b42f105",
+      "time": "2026-08-15 00:30:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi outlet Alhadath reports Yemeni government forces say Houthi fighters again attacked Mokha port with missiles."
+    },
+    {
+      "id": "te:markets:575523",
+      "time": "2026-08-15 00:29:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Swing Lower — US stocks swung lower on Friday as macroeconomic headwinds weighed against signs of tech optimism from earlier in the week. The S&P 500 eased 0.2% from its record high, while the Dow and the Nasdaq 100 fell up to 0.5%. Long-maturity Treasury yields swung higher amid concerns that the Federal Reserve could be complacent of higher inflation, despite the seemingly cool price data released this week. Alphabet, Amazon, Broadcom, and Oracle swung to losses. Meanwhile, Applied Materials dropped 5% despite beating forecast estimates. On the other hand, memory producers extended their strong gains from earlier in the week, with Sandisk adding more than 5% following its 14% surge yesterday, while Micron jumped 4% on bullish recommendations from analysts and brokers. The fresh wave of long positions on AI infrastructure were also underpinned by signals of more spending by hyperscalers, with both OpenAI and Anthropic aiming for IPOs this year, while the latter moved to acquire Decart."
+    },
+    {
+      "id": "mkt:01a0011a-a209-7aab-9042-cd72031a2708",
+      "time": "2026-08-15 00:28:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "SEC filings show SoftBank Group cut its stake in TSMC (TSM.N) by 71.5% to 565,000 depositary receipts."
+    },
+    {
+      "id": "mkt:01a00119-c17e-7aab-9042-c126fabc98b5",
+      "time": "2026-08-15 00:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian Defence Ministry says a second drone was found near Romania's border with Ukraine."
+    },
+    {
+      "id": "5041832",
+      "time": "2026-08-15 00:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部表示，該國靠近烏克蘭邊境的領土境內發現第二架無人機。"
+    },
+    {
+      "id": "5041831",
+      "time": "2026-08-15 00:26:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "檔案顯示軟銀將其在臺積電的持股削減71.5%至565000ADS。"
+    },
+    {
+      "id": "5041830",
+      "time": "2026-08-15 00:26:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "CAPRICORN INVESTMENT 持有 SpaceX 1.208 億股股份， 價值 206.4 億美元。"
+    },
     {
       "id": "mkt:01a00115-cd5c-7aab-9042-b97ad9fcbe22",
       "time": "2026-08-15 00:23:21",
@@ -140298,51 +140387,6 @@
         "國際"
       ],
       "text": "Blossomhill Therapeutics Inc.（BLSM）美國IPO首日開盤報15.75美元，此前給出的IPO發行價為每股16美元。"
-    },
-    {
-      "id": "5031434",
-      "time": "2026-08-08 00:32:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 以網路攻擊能力為由放緩 Astra 模型的釋出。"
-    },
-    {
-      "id": "5031433",
-      "time": "2026-08-08 00:29:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克武裝部隊發言人表示，沙特尚未提供任何證據，用以佐證其關於伊拉克領土遭襲擊的相關說法。"
-    },
-    {
-      "id": "5031432",
-      "time": "2026-08-08 00:29:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數和標普500指數漲幅收窄。"
-    },
-    {
-      "id": "mkt:019fdd0d-d8d9-7aab-8fbe-259b6b97de9d",
-      "time": "2026-08-08 00:28:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Bessent: Strait of Hormuz will lose importance】U.S. Treasury Secretary Bessent said the Strait of Hormuz will never return to its prior status because Iran has used it as a chokepoint. He expects the strait to gradually lose importance over the next two years and become a routine waterway, with more than 50%—possibly up to 70%—of energy now transported through it shifting to pipelines."
-    },
-    {
-      "id": "5031431",
-      "time": "2026-08-08 00:26:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：不存在所謂的自由貿易，我們追求的是公平貿易。歐盟對我方汽車徵收 10% 關稅，而我們對歐盟汽車僅徵收 3% 關稅。這何談公平？因此我們正在下調關稅，消除非關稅貿易壁壘，抵制補貼勞工現象，並把就業崗位帶回本國。"
     }
   ]
 }
