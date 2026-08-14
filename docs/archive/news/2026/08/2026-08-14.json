@@ -1,7 +1,122 @@
 {
   "date": "2026-08-14",
-  "count": 1997,
+  "count": 2010,
   "items": [
+    {
+      "id": "5041180",
+      "time": "2026-08-14 17:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合工會：泰雷茲員工獲得高於通脹4.3%的薪酬方案，追溯至1月生效。"
+    },
+    {
+      "id": "5041179",
+      "time": "2026-08-14 17:58:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中油工程：2026年1-7月累計新籤合同額973億元，同比增長19.37%】中油工程公告，2026年1-7月公司累計實現新籤合同額973億元，同比增長19.37%。其中7月份新籤合同額48.29億元。按市場區域劃分，國內市場新籤合同額567.97億元，佔比58.37%；國外市場新籤合同額405.03億元，佔比41.63%。按專業領域劃分，油氣田地面工程業務新籤合同額427.2億元，管道與儲運工程業務203.61億元，煉油與化工工程業務92.72億元，新興業務與未來產業234.12億元，專案管理等其他業務15.35億元。2026年7月，公司無新簽單筆合同額10億元以上工程專案合同。"
+    },
+    {
+      "id": "mkt:019fffb5-48ae-7aab-903c-28522fd7f16a",
+      "time": "2026-08-14 17:58:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "0656.HK",
+        "Impact bullish"
+      ],
+      "text": "【Guangdong governor meets Fosun chairman; Fosun pledges expanded investment in biomedicine, healthcare, tourism and finance】Guangdong Governor Meng Fanli met Fosun International chairman Guo Guangchang in Guangzhou on Aug. 14. Guo said Fosun will align with Guangdong’s development needs and leverage the Guangdong-Hong Kong-Macao Greater Bay Area’s openness and innovation to expand cooperation and investment, prioritising biomedicine, international medical services and inbound medical tourism, tourism and elderly-care industries, and accelerating collaboration on fund investment, insurance and financial services to support Guangdong’s high-quality development. Meng asked Fosun to deepen cooperation in pharmaceuticals, health and eldercare, tourism and finance ahead of the 15th Five-Year Plan and said Guangdong will provide a first-class business environment and industry ecosystem to facilitate Fosun’s growth in the province."
+    },
+    {
+      "id": "mkt:019fffb5-45a5-7aab-903c-2559044b08dc",
+      "time": "2026-08-14 17:58:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister said exports have reached 2.0 mln bpd since August."
+    },
+    {
+      "id": "5041178",
+      "time": "2026-08-14 17:58:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合工會：泰雷茲旗下超300名工人在採取產業行動的威脅下，敲定了新的薪資協議。"
+    },
+    {
+      "id": "5041177",
+      "time": "2026-08-14 17:57:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "伊拉克石油部長表示，自8月以來石油出口已達到每日200萬桶。"
+    },
+    {
+      "id": "5041176",
+      "time": "2026-08-14 17:57:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙版傳媒：2026年上半年淨利潤6.46億元，同比降4.45%】浙版傳媒公告，2026年上半年營業收入46.07億元，同比下降9.54%。歸屬於上市公司股東的淨利潤6.46億元，同比下降4.45%。扣非淨利潤5.62億元，同比下降5.08%。擬每10股派發現金股利1元（含稅）。"
+    },
+    {
+      "id": "5041175",
+      "time": "2026-08-14 17:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫談及烏克蘭問題：我們將大幅強化自身手段，摧毀所有為烏克蘭戰爭機器提供助力的西方相關設施。"
+    },
+    {
+      "id": "5041173",
+      "time": "2026-08-14 17:57:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西典新能：2026年上半年淨利潤8379.47萬元，同比下降39.73%】西典新能公告，2026年上半年營業收入11.9億元，同比下降14.48%。歸屬於上市公司股東的淨利潤8379.47萬元，同比下降39.73%；歸屬於上市公司股東的扣除非經常性損益的淨利潤8121.36萬元，同比下降41.13%。公司擬向全體股東每10股派發現金紅利2.6元（含稅），共計派發4098.71萬元。"
+    },
+    {
+      "id": "5041172",
+      "time": "2026-08-14 17:56:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【孟凡利會見覆星國際郭廣昌一行】據廣東省人民政府入口網站，8月14日，廣東省委副書記、省長孟凡利在廣州會見覆星國際董事長郭廣昌一行。郭廣昌表示，復星將積極對接廣東發展需求，充分發揮粵港澳大灣區開放程度高、經濟活力強、創新能力突出的優勢，進一步開展更多的合作和投資，更大力度參與發展生物醫藥產業，加強國際醫療服務和國際遊客匯入，積極探討廣東旅遊、養老產業發展中的合作機會，加快基金投資、保險、金融等領域合作，積極助力廣東高質量發展。孟凡利說，面向“十五五”，希望復星充分發揮優勢，在醫藥、健康養老、旅遊、金融等方面與廣東進一步加強合作。廣東將打造一流營商環境和產業生態，為復星在粵發展做好服務保障。"
+    },
+    {
+      "id": "5041171",
+      "time": "2026-08-14 17:56:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年我國機床工具行業呈現恢復向好趨勢】中國機床工具工業協會資料顯示，今年上半年，我國機床工具行業呈現恢復向好趨勢，行業完成營業收入5309億元，同比增長7.6%。（新華社）"
+    },
+    {
+      "id": "5041170",
+      "time": "2026-08-14 17:55:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蠟筆小新休閒食品：預計2026年上半年由盈轉虧，虧損約1800萬元】蠟筆小新休閒食品公告，預計截至2026年6月30日止6個月將錄得收益總額約人民幣6.28億元，較2025年同期的約人民幣5.16億元有所增加；但將錄得虧損淨額約人民幣1800萬元，而2025年同期溢利淨額約人民幣300萬元，由盈轉虧。虧損主要由於廣告及推廣開支以及物流成本增加，以及期內收購的附屬公司產生虧損所致。"
+    },
+    {
+      "id": "5041169",
+      "time": "2026-08-14 17:55:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐倫電氣：2026年半年度淨利潤1.63億元，同比增8.60%】歐倫電氣公告，2026年半年度營業收入15.25億元，同比增長22.74%。歸母淨利潤1.63億元，同比增長8.60%。扣非淨利潤1.6億元，同比增長9.65%。基本每股收益3.04元。半年度權益分派預案為每10股派現5元（含稅）。"
+    },
     {
       "id": "5041168",
       "time": "2026-08-14 17:54:48",
