@@ -1,7 +1,72 @@
 {
   "date": "2026-08-14",
-  "count": 1005,
+  "count": 1012,
   "items": [
+    {
+      "id": "5040496",
+      "time": "2026-08-14 11:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將賽峰目標股價從330歐元上調至340歐元。"
+    },
+    {
+      "id": "5040495",
+      "time": "2026-08-14 11:45:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音等入股未來不遠機器人】天眼查工商資訊顯示，近日，上海未來不遠機器人科技有限公司發生工商變更，新增抖音旗下北京量子躍動科技有限公司、納愛斯浙江投資有限公司等為股東，同時，註冊資本由約628萬人民幣增資約769萬人民幣。該公司成立於2022年9月，法定代表人為陳奕荃，經營範圍包括智慧機器人的研發、人工智慧基礎軟體開發、工業機器人制造等。"
+    },
+    {
+      "id": "5040494",
+      "time": "2026-08-14 11:44:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嵐圖汽車隧道大回環穿越影片涉嫌造假？客服回應】嵐圖汽車近日在官微放出一段嵐圖追光S 360° 隧道大回環穿越成功的影片，但引發了部分網友影片造假的質疑。嵐圖汽車銷售服務有限公司副總經理李博曉在影片評論區強調，“不是廣告創意，是實測！”根據嵐圖汽車官方釋出的訊息，本次挑戰全程採用無特效實車實錄模式，在真實封閉隧道場景內，車輛依託自身效能完成隧道壁360°滾動旋轉高難度動作。不過，也有網友在評論區曬出了疑似嵐圖追光S測試該專案時的影片，影片中車輛出現了失誤，因此質疑嵐圖汽車該宣傳影片涉嫌造假。針對此事，截至發稿前，嵐圖汽車官方暫無回應。嵐圖汽車客服則表示，以官方釋出資訊為準。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ffe5f-5c20-7aab-9034-a4cf40f307e9",
+      "time": "2026-08-14 11:44:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Markets bet RESERVE BANK OF AUSTRALIA will hike in November to combat inflation】Speculative investors increasingly price a RESERVE BANK OF AUSTRALIA hike in November as inflation remains above the bank’s 2%-3% target. Swap-market pricing now implies roughly a 45% chance of a 25bps RBA hike in November, up from about 38% before Tuesday’s rate decision. Turnover in ASX-traded interbank cash rate futures for November 2026 rose to its highest in over three months, signalling increased speculative activity. The moves suggest markets doubt the tightening cycle is over. Policymakers held rates steady this week; traders will watch upcoming inflation and jobs data for clues on whether another hike will be required this year."
+    },
+    {
+      "id": "mkt:019ffe5e-249e-7aab-9034-9e157cb3d647",
+      "time": "2026-08-14 11:43:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O"
+      ],
+      "text": "【Xpeng chairman He says new autonomous-driving standard will target firms' weaknesses】Xpeng chairman He Xiaopeng said Xpeng participated in drafting China’s new mandatory standards for traction batteries and L3/L4 autonomous driving. He said Xpeng and other new EV makers brought highway-assist to China and overseas circa 2020. With many manufacturers treating driver-assistance as standard and consumers unable to distinguish capability levels, He called for a more comprehensive, systematic stricter standard that not only codifies firms' strengths but identifies and remedies autonomous-driving shortfalls and mid-tier gaps."
+    },
+    {
+      "id": "5040493",
+      "time": "2026-08-14 11:42:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將馬士基目標價從9200丹麥克朗上調至10000丹麥克朗。"
+    },
+    {
+      "id": "te:markets:575252",
+      "time": "2026-08-14 11:42:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Rises — The South Korean won rose to around 1,413 per dollar, approaching a more than ten-month high, as soft US inflation data eased expectations for further Federal Reserve tightening and boosted risk appetite. US producer prices were unchanged month-on-month in July, easing concerns over renewed inflation pressures. Markets now price in around a 35% chance of a rate hike in September, down from 55% a week earlier, limiting upward pressure on the dollar. Additionally, persistent dollar-selling flows and renewed foreign demand for Korean assets helped lift the won. The conversion of SK hynix’s ADR proceeds into won remained one of the key factors behind its sharp appreciation in recent weeks. Foreign investors’ return to Korean equities has also increased demand for the local currency, while Korea’s strengthening economic recovery, underpinned by strong exports and improving consumption, provides an additional positive backdrop for the won."
+    },
     {
       "id": "mkt:019ffe5c-c56d-7aab-9034-96c551c67f06",
       "time": "2026-08-14 11:42:00",
