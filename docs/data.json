@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-15 00:57:22",
-  "count": 15340,
+  "updated": "2026-08-15 01:01:21",
+  "count": 15341,
   "items": [
+    {
+      "id": "5041854",
+      "time": "2026-08-15 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.47%，滬銅收漲0.49%，滬鋁收漲0.08%，滬鋅收漲0.41%，滬鉛收跌0.22%，滬鎳收漲0.07%，滬錫收漲0.36%。氧化鋁夜盤收跌0.19%，鋁合金收漲0.24%。不鏽鋼夜盤收跌0.49%。"
+    },
+    {
+      "id": "5041853",
+      "time": "2026-08-15 00:59:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通出於監管方面的顧慮，終止了與 Polymarket 的銀行業務合作。"
+    },
+    {
+      "id": "mkt:01a00136-35c6-7aab-9043-4cc43dae5fa8",
+      "time": "2026-08-15 00:58:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【GOOLSBEE: Needs more evidence to confirm disinflation】Chicago Fed President GOOLSBEE said recent CPI prints are encouraging but inflation remained elevated in May and June; he would need 3-4 months of June-like momentum to be confident prices are returning to a 2% target. He supports holding policy rates in July, called inflation the biggest concern and said the economy and labor market are largely stable. He warned sustained retail weakness would be worrying given consumption’s role in the US economy. He flagged concern about a recent slowdown in productivity growth and said if AI-driven gains prove unsustainable the narrative linking AI and monetary policy would need reassessment. On reducing the number of policy meetings he has no strong view and will wait for a working-group recommendation."
+    },
+    {
+      "id": "5041852",
+      "time": "2026-08-15 00:58:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國司法部、商品期貨交易委員會正在調查鐵礦石貿易商 Radiant World 的交易業務。"
+    },
+    {
+      "id": "5041851",
+      "time": "2026-08-15 00:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲12美元，報14160美元/噸。LME期鋁收跌6美元，報3252美元/噸。LME期鋅收漲5美元，報3756美元/噸。LME期鉛收漲8美元，報1895美元/噸。LME期鎳收漲39美元，報16815美元/噸。LME期錫收漲340美元，報56194美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:01a00135-3441-7aab-9043-42780cb92ea5",
+      "time": "2026-08-15 00:57:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US stocks fell; S&P 500 down 0.23%, Nasdaq Composite down 0.45%, Dow Jones Industrial Average down 0.26%."
+    },
     {
       "id": "5041850",
       "time": "2026-08-15 00:56:05",
@@ -140344,53 +140406,6 @@
         "國際"
       ],
       "text": "美國8月7日當週總鑽井數 588，前值 588。\n美國8月7日當週天然氣鑽井數 124，前值 127。"
-    },
-    {
-      "id": "5031454",
-      "time": "2026-08-08 01:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月7日當週石油鑽井數 454，前值 451。"
-    },
-    {
-      "id": "mkt:019fdd2b-e05b-7aab-8fbe-c43486d218c9",
-      "time": "2026-08-08 01:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【US media: Trump moves to remove Fed Governor Cook, formally opens proceedings citing \"serious dereliction\"】ABC News reported sources say President Trump is pushing to remove Federal Reserve Governor Lisa Cook. The White House this week sent Cook a letter saying Trump is \"considering\" removing her and asked her to respond within three weeks. The move follows a June Supreme Court ruling that upheld limits on presidential removal of Fed members. After the ruling Trump said he would \"immediately take appropriate action\" to remove Cook; this week he formally opened removal proceedings, citing mortgage‑fraud allegations not yet tried in court and alleging \"serious dereliction.\" The letter was signed by White House deputy chief of staff Dan Scavino, who said even if the allegations do not amount to crimes her conduct constitutes dereliction. Cook's lawyer Lowell said the allegations are baseless and they will challenge this latest pretext."
-    },
-    {
-      "id": "5031453",
-      "time": "2026-08-08 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.11%，滬銅收跌0.80%，滬鋁收跌0.13%，滬鋅收跌1.54%，滬鉛收跌0.29%，滬鎳收漲0.52%，滬錫收跌1.51%。氧化鋁夜盤收跌0.04%，鋁合金收跌0.09%。不鏽鋼夜盤收漲0.21%。"
-    },
-    {
-      "id": "5031452",
-      "time": "2026-08-08 00:58:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院絕大多數議員支援由已故參議員格雷厄姆牽頭的對俄全面能源制裁法案，投票仍在進行。"
-    },
-    {
-      "id": "te:economy:573869",
-      "time": "2026-08-08 00:57:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Seychelles",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Seychelles Annual Inflation Accelerates in July — The annual inflation rate in Seychelles rose to 0.78% in July 2026, accelerating from 0.43% in the prior month and reaching its highest level since January 2025. Fish prices rose 4.87%, easing from 5.62% in the prior month, while other food products' inflation rose to 0.14% from 0.09%, driven by higher prices in oil and fats (5.47%), vegetabels (2.84%) and non-alcoholic beverages (2.7%). Meanwhile, non-food inflation accelerated to 0.81% from 0.4%, driven by higher prices in alcoholic beverages (4.17%), restaurants and hotels (3.43%), education (2.49%) and transport (2.48%), while prices declined for health (-3.18%), recreation and culture (-2.92%), clothing and footwear (-2.61%) and tobacco (-0.57%). On a monthly basis, consumer prices rose 0.52%, accelerating from 0.07% in the prior month."
     }
   ]
 }

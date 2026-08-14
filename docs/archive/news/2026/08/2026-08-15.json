@@ -1,7 +1,69 @@
 {
   "date": "2026-08-15",
-  "count": 70,
+  "count": 76,
   "items": [
+    {
+      "id": "5041854",
+      "time": "2026-08-15 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.47%，滬銅收漲0.49%，滬鋁收漲0.08%，滬鋅收漲0.41%，滬鉛收跌0.22%，滬鎳收漲0.07%，滬錫收漲0.36%。氧化鋁夜盤收跌0.19%，鋁合金收漲0.24%。不鏽鋼夜盤收跌0.49%。"
+    },
+    {
+      "id": "5041853",
+      "time": "2026-08-15 00:59:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通出於監管方面的顧慮，終止了與 Polymarket 的銀行業務合作。"
+    },
+    {
+      "id": "mkt:01a00136-35c6-7aab-9043-4cc43dae5fa8",
+      "time": "2026-08-15 00:58:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【GOOLSBEE: Needs more evidence to confirm disinflation】Chicago Fed President GOOLSBEE said recent CPI prints are encouraging but inflation remained elevated in May and June; he would need 3-4 months of June-like momentum to be confident prices are returning to a 2% target. He supports holding policy rates in July, called inflation the biggest concern and said the economy and labor market are largely stable. He warned sustained retail weakness would be worrying given consumption’s role in the US economy. He flagged concern about a recent slowdown in productivity growth and said if AI-driven gains prove unsustainable the narrative linking AI and monetary policy would need reassessment. On reducing the number of policy meetings he has no strong view and will wait for a working-group recommendation."
+    },
+    {
+      "id": "5041852",
+      "time": "2026-08-15 00:58:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國司法部、商品期貨交易委員會正在調查鐵礦石貿易商 Radiant World 的交易業務。"
+    },
+    {
+      "id": "5041851",
+      "time": "2026-08-15 00:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲12美元，報14160美元/噸。LME期鋁收跌6美元，報3252美元/噸。LME期鋅收漲5美元，報3756美元/噸。LME期鉛收漲8美元，報1895美元/噸。LME期鎳收漲39美元，報16815美元/噸。LME期錫收漲340美元，報56194美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:01a00135-3441-7aab-9043-42780cb92ea5",
+      "time": "2026-08-15 00:57:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US stocks fell; S&P 500 down 0.23%, Nasdaq Composite down 0.45%, Dow Jones Industrial Average down 0.26%."
+    },
     {
       "id": "5041850",
       "time": "2026-08-15 00:56:05",
