@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:34:04_
-_本檔包含 2805 則快訊，約 602899 字_
+_更新時間：2026-08-15 04:59:00_
+_本檔包含 2798 則快訊，約 602231 字_
+
+---
+
+### 2026-08-10 17:18:45  #公司
+
+【奧浦邁：持股5%以上股東減持股份，持股比例降至5%以下】奧浦邁公告稱，持股5%以上股東上海磐信於2026年6月4日至8月7日，透過集中競價交易減持1,231,494股，佔總股本0.86606%。變動後，上海磐信持股7,109,664股，佔比降至4.99997%。本次減持系實施已披露計劃，不觸及要約收購，未導致控股股東和實際控制人變化，減持計劃尚未實施完畢。
+
+---
+
+### 2026-08-10 17:18:40  #公司
+
+【大千生態：持股8.06%股東擬減持不超1%股份】大千生態公告稱，截至公告披露日，持股8.06%的股東安徽新華髮行（集團）控股有限公司，出於自身經營發展需要，計劃於2026年9月1日至11月30日，透過集中競價方式減持不超過135.72萬股，即不超過公司總股本的1%。本次減持不會對公司治理及經營產生重大影響，也不會使公司控制權發生變更。減持時間、數量和價格存在不確定性，提醒投資者注意風險。
+
+---
+
+### 2026-08-10 17:18:34  #公司
+
+【宇通客車：2026年上半年淨利潤18.67億元，同比降3.52%】宇通客車公告，2026年上半年營業收入167.19億元，同比增長3.65%。歸屬於上市公司股東的淨利潤18.67億元，同比下降3.52%。歸屬於上市公司股東的扣除非經常性損益的淨利潤17.96億元，同比增長15.83%。上年同期淨利潤19.36億元。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-10 17:18:22  #公司
+
+【贛粵高速：上半年淨利潤同比下降72.81%】贛粵高速(600269)8月10日披露半年報，公司2026年上半年實現營業收入26.6億元，同比下降13.66%；歸母淨利潤2.08億元，同比下降72.81%；基本每股收益0.09元。報告期內，公司實現通行服務收入18.07億元，同比增加0.62%。
+
+---
+
+### 2026-08-10 17:18:12  #Trading Economics #Economy #Iceland #Balance of Trade #Importance 1
+
+Iceland Trade Deficit Narrows to 4-Month Low — Iceland posted a trade deficit of ISK 40.6 billion in July 2026, narrowing from ISK 44 billion in the corresponding month of the previous year and marking the lowest deficit since March. Exports rose 19% year-on-year to ISK 86.5 billion, lifted by higher shipments of farmed fish (+62%), manufacturing products (+34%), and agricultural products (+1%), which offset declines in marine products (-5%) and other products (-8%). Meanwhile, imports grew by 9% to ISK 127.1 billion, driven largely by higher purchases of capital goods (+29%), food and beverages (+13%), and industrial supplies (+3%), while imports of fuels and lubricants (-1%), transport equipment (-7%), and consumer goods (-1%) declined. Over the last twelve months, Iceland’s trade deficit totaled ISK 441.9 billion, moderating from ISK 504.8 billion a year earlier. Exports were flat at ISK 949.5 billion, while imports fell by 5%.
+
+---
+
+### 2026-08-10 17:17:43  #MKT News
+
+E Fund Nasdaq ETF to halt trading from market open on Aug 11, 2026; trading scheduled to resume at 10:30 on the same day.
+
+---
+
+### 2026-08-10 17:17:26  #Trading Economics #Markets #Commodity #Importance 2
+
+Brent Rises for 4th Session — Brent crude oil rose above $84 per barrel on Monday, extending gains for a fourth consecutive session as uncertainty over the Strait of Hormuz continued to support prices. Iran and Oman have yet to finalize an agreement to reopen the strategic waterway, while conflicting signals from Tehran and Washington have raised doubts over how quickly a deal could be reached. Iranian Foreign Minister Abbas Araghchi said Tehran is not currently holding direct talks with the US and reiterated that reopening Hormuz would require Washington to lift its blockade of Iranian shipping and provide compensation for damages. This contrasts with earlier US indications that an agreement could be close, while President Donald Trump said Washington was now “low-keying it.” Elsewhere, Iran-backed Houthi militants in Yemen claimed an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in Hormuz over the weekend.
+
+---
+
+### 2026-08-10 17:17:11  #公司 #市場
+
+【納指ETF匯添富：提示二級市場交易價格溢價風險】納指ETF匯添富公告稱，2026年8月10日，本基金二級市場收盤價為2.402元，收盤時基金份額參考淨值（IOPV）為2.1984元，交易價格明顯高於淨值，出現較大幅度溢價。提醒投資者關注溢價風險，審慎投資。若8月11日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。
+
+---
+
+### 2026-08-10 17:17:05  #公司
+
+【太陽能：子公司部分募集資金賬戶被凍結 涉資0.79萬元】太陽能公告稱，下屬子公司關嶺公司、冊亨公司募集資金賬戶被凍結，截至2026年8月6日，被凍結金額為0.79萬元。凍結原因系廣州鵬輝起訴水電十局及關嶺、冊亨等公司支付裝置款，二審判決關嶺等公司承擔責任。《執行裁定書》要求凍結資金4409.0874萬元，佔公司相關指標比例較小，暫未對募投專案及日常經營產生重大不利影響。公司已申請再審並另案訴訟，保薦人將持續關注。
+
+---
+
+### 2026-08-10 17:16:47  #國際
+
+【無視當地政府要求 駐日美軍在約定地區外進行傘降訓練】總檯記者當地時間10日獲悉，駐日美軍當天在位於日本沖繩縣的嘉手納基地實施了傘降訓練。這是自2025年12月，伊江島輔助機場（伊江村）作為日美達成共識的訓練場地恢復使用以來，駐日美軍第七次在約定地區外的嘉手納基地開展傘降訓練。根據日美相關協議，除了例外情況，傘降訓練應在沖繩縣伊江島輔助機場實施。當地政府此前曾多次向日本外務省和防衛省遞交抗議書，稱美軍訓練噪音極大，嚴重擾民，強烈要求美軍停止在嘉手納基地的相關訓練。（央視新聞）
+
+---
+
+### 2026-08-10 17:16:27  #公司 #市場
+
+【納指ETF易方達：交易價格溢價提示風險並實施停復牌】納指ETF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月10日收盤價為2.061元，收盤時基金份額參考淨值為1.8725元。為保護投資者利益，基金於8月11日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月11日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-08-10 17:16:09  #國際
+
+市場訊息：印度尋求限制各邦對礦產資源和礦山徵稅的權力。
+
+---
+
+### 2026-08-10 17:16:03  #其他
+
+【新型奈米材料有望助力治療膠質母細胞瘤】澳大利亞悉尼科技大學等機構研究人員近日報告開發出一種新型奈米材料，它可在動物實驗中幫助研究人員更精準識別並切除膠質母細胞瘤，還可透過術後光療清除殘留腫瘤細胞，從而降低復發風險。(新華社)
+
+---
+
+### 2026-08-10 17:15:51  #其他
+
+【江蘇崑山市升級防汛應急響應為一級】江蘇崑山氣象暴雨紅色預警持續中，根據全市雨情、水情，經綜合研判，崑山市防汛抗旱指揮部決定於8月10日15時30分起，升級防汛應急響應為一級。各區鎮、各有關部門按照預案要求，全力做好各項工作。（央視新聞）
+
+---
+
+### 2026-08-10 17:15:32  #公司
+
+【方正電機：全資子公司出資1365萬元設立合資公司，持股39%】方正電機公告，公司全資子公司上海海能汽車電子有限公司與廣西聚控產業投資有限公司簽訂《合資協議》，共同出資設立合資公司，註冊資本3500萬元。其中廣西聚控出資2135萬元佔61%，上海海能出資1365萬元佔39%。合資公司暫定名“廣西桂芯智控科技有限公司”，將從事發動機電子控制系統、燃氣噴射系統等產品的研發、製造及銷售。本次對外投資事項已於2026年8月10日經公司第九屆第二次董事會審議透過。
 
 ---
 
@@ -16810,137 +16900,5 @@ DigitalBridge 投資的 Switch 計劃 11 月進行 IPO。
 ### 2026-08-08 04:59:08  #市場 #國際
 
 【國際金價在非農日漲約2.4%，本週累漲約7.3%】週五（8月7日）紐約尾盤，現貨黃金漲2.37%，報4339.75美元/盎司，亞太盤初以來平滑地持續走高、北京時間20:30釋出美國非農就業資料時加速上漲——從4320美元下方拉昇至4360美元一線，本週累計上漲7.27%，8月3-4日持平於4050美元附近、5-7日持續上揚。本週，COMEX黃金期貨累漲7.16%，報4400.70美元/盎司。現貨白銀漲3.11%，報63.4555美元/盎司，本週累漲10.29%，整體持續走高。COMEX白銀期貨累漲10.29%，報63.720美元/盎司。COMEX銅期貨跌1.83%，報6.586美元/磅，本週累漲1.85%，8月6日歐市早盤曾達到6.8665美元。現貨鉑金漲1.33%，報1749.38美元/盎司，本週累漲6.14%；現貨鈀金漲0.64%，報1382.91美元/盎司，本週累漲7.37%。本週，在美股時段交易的費城金銀指數累漲19.70%，報368.56點，整體持續走高。在全球市場全天交易的紐約證交所ARCA金礦開採商指數累漲20.16%，報2570.44點，整體持續走高。在美股時段交易的原材料指數累漲7.44%，報249.68點。在美股時段交易的金屬與礦業指數累漲7.98%，報295.29點。
-
----
-
-### 2026-08-08 04:56:43  #市場 #央行 #國際
-
-【美日聯手干預見效 對沖基金大幅削減日元空倉】美國和日本當局協同出手穩定了日元后，對沖基金大幅減少了做空押注。商品期貨交易委員會週五公佈的資料顯示，截至8月4日，期貨和期權市場的槓桿基金將日元淨空頭頭寸削減了約一半至6.36萬份合約。這意味著空倉和6月底相比出現了大幅回撤，當時押注日元進一步貶值的倉位激增至近13.8萬份合約，達到2007年以來之最。在美日利差擴大的影響下，日元一度跌至1986年以來的最低水平，刺激投機者加大了做空力度。美日兩國政府聯手干預後交易員開始減少空倉，日元也迎來反彈。儘管日本央行維持基準利率不變，但隔夜指數互換顯示其9月加息的機率約在60%。美國週五公佈的不及預期非農就業資料也令美元承壓，降低了市場對美聯儲收緊貨幣政策的押注。交易員目前認為美國央行下個月上調利率的機率約為40%，遠低於報告發布前的60%左右。
-
----
-
-### 2026-08-08 04:53:45  #國際
-
-特朗普：希望參議院能夠透過《保護大學體育法案》。
-
----
-
-### 2026-08-08 04:52:03  #公司 #觀點 #國際
-
-摩根大通不動產專屬基金：美國證券交易委員會檔案顯示，該基金已提交S類、A類、I類股份發行申請，發行規模未披露。
-
----
-
-### 2026-08-08 04:49:35  #公司 #國際
-
-【8月8日美股成交額前20：SpaceX將自建發電廠保障電力供應】週五美股成交額第1名SpaceX收高15.83%，成交300.16億美元。據報道，SpaceX計劃建設自己的發電設施，為其與特斯拉在美國得州共同開發的大型半導體制造工廠提供電力支援。本週早些時候，SpaceX負責能源和資料中心開發業務的Riley Trettel在得州格萊姆斯縣（Grimes County）的一場公開會議上表示：“我們將自行供電。我們會建設燃氣發電廠，同時也會建設規模非常龐大的電池陣列，用於儲存能源。我們幾乎會立即啟動這個專案。我們需要開始進行土建工作，需要著手建設基礎設施和地基，我們會馬上推進。”這一表態為馬斯克旗下兩大公司正在推進的新工廠計劃提供了更多細節，該專案名為“Terafab”。
-
----
-
-### 2026-08-08 04:49:11  #國際
-
-特朗普稱：美國聯邦檢察官珍妮娜·皮羅應重新考慮她倉促作出的決定。
-
----
-
-### 2026-08-08 04:45:38  #公司 #國際
-
-美國證交會檔案：昆特資本有限責任公司報告持有SPACEX公司835股A類股份。
-
----
-
-### 2026-08-08 04:45:00  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls on Earnings Weakness — The Ibovespa fell 1.7% to close at 177,513 on Friday amid another batch of second-quarter 2026 earnings reports. Petrobras shed 3%, erasing earlier gains despite delivering one of its strongest earnings reports in recent quarters and beating expectations, as much of the strong performance had already been priced in and uncertainty remained over its sustainability. Localiza also fell 0.8% despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Magazine Luiza dropped 3.7% following weak results and concerns over profitability, while Renner plunged 8.1% after cutting its guidance amid concerns about sales. Elsewhere, Vale fell 0.6% despite higher iron ore prices. Banks also declined broadly, led by Bradesco, down 2.2%, and Itaú Unibanco, which fell 2.6% ahead of the release of the Copom minutes on Tuesday, which are expected to provide further insight into the monetary authority's outlook for the Selic rate.
-
----
-
-### 2026-08-08 04:41:50  #公司 #國際
-
-特朗普媒體與科技集團：Crypto.com、特朗普媒體、Yorkville America已共同同意不再推進此前宣佈的合作關係。
-
----
-
-### 2026-08-08 04:40:45  #公司 #國際
-
-特朗普媒體與科技集團已終止與Crypto.com的業務合併協議，於2026年8月7日生效。
-
----
-
-### 2026-08-08 04:40:29  #公司 #國際
-
-特朗普媒體與科技集團：YORKVILLE AMERICA的業務及其現有和未來ETF產品的計劃保持不變。
-
----
-
-### 2026-08-08 04:38:49  #公司 #國際
-
-特朗普媒體與科技集團：將調整協議方向，面向Truth Social使用者群體推廣Crypto.com的預測市場業務。
-
----
-
-### 2026-08-08 04:38:05  #公司 #國際
-
-市場訊息：加密貨幣平臺Crypto.com與特朗普傳媒科技集團將整合合作伙伴關係調整為營銷協議。
-
----
-
-### 2026-08-08 04:36:53  #其他
-
-穆迪關於貝南的評級觀點：根深蒂固的信貸約束將持續存在，包括與同類經濟體相比，貝南的收入水平和政府財政收入均處於低位。
-
----
-
-### 2026-08-08 04:36:28  #其他
-
-穆迪評級將貝南評級上調至 Ba3，展望調整為穩定。
-
----
-
-### 2026-08-08 04:36:24  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Rises but Posts Weekly Loss on Hormuz Uncertainty — Brent crude oil rose above $83 per barrel on Friday, but still recorded a more than 7% decline over the week. Prices remained highly sensitive to developments surrounding a potential Iran-Oman agreement to restore shipping through the Strait of Hormuz, which could return millions of barrels of Middle Eastern oil to global markets. Oil reversed some gains in post-settlement trading after reports that the US could lift its naval blockade once commercial shipping through the strait resumes without restrictions. However, uncertainty persisted, with Abu Dhabi National Oil Co. reporting attacks on three vessels transiting Hormuz and Iran reportedly targeting vessels it considers hostile. President Donald Trump maintained that negotiations were progressing, but differences remain over conditions for reopening the waterway. Meanwhile, Iran-backed Houthis claimed a large-scale attack against Saudi-aligned forces in Yemen.
-
----
-
-### 2026-08-08 04:36:07  #其他
-
-穆迪評級確認羅馬尼亞 Baa3 評級。
-
----
-
-### 2026-08-08 04:36:02  #其他
-
-穆迪：本次上調評級反映出過去幾年貝南信用狀況各方面逐步改善。
-
----
-
-### 2026-08-08 04:35:52  #其他
-
-穆迪對貝南的評級展望：穩定展望反映出我們預期貝南的政策以及政府改革議程將保持連續性。
-
----
-
-### 2026-08-08 04:35:46  #其他
-
-Expion360：仍按計劃於2026年下半年推出首款下一代鋰電池。
-
----
-
-### 2026-08-08 04:35:18  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Rises but Posts Weekly Loss on Hormuz Uncertainty — Crude oil rose about 1% to settle at $78.18 per barrel on Friday, but still recorded a more than 7% decline over the week. Prices remained highly sensitive to developments surrounding a potential Iran-Oman agreement to restore shipping through the Strait of Hormuz, which could return millions of barrels of Middle Eastern oil to global markets. Oil reversed some gains in post-settlement trading after reports that the US could lift its naval blockade once commercial shipping through the strait resumes without restrictions. However, uncertainty persisted, with Abu Dhabi National Oil Co. reporting attacks on three vessels transiting Hormuz and Iran reportedly targeting vessels it considers hostile. President Donald Trump maintained that negotiations were progressing, but differences remain over conditions for reopening the waterway. Meanwhile, Iran-backed Houthis claimed a large-scale attack against Saudi-aligned forces in Yemen.
-
----
-
-### 2026-08-08 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.28% Higher — The Dow Jones Index gained 152 points or 0.28 percent on Friday to close at 54037 points. Gains were led by Salesforce (2.47%), Nvidia (2.33%) and Honeywell International (2.28%). Biggest losers were Visa (-2.20%), Chevron (-1.49%) and Caterpillar (-1.46%).
-
----
-
-### 2026-08-08 04:34:16  #國際
-
-美國中央司令部：一名美國水兵在梅森號導彈驅逐艦（DDG‑87）的作戰資訊中心值守，該艦正在區域海域航行，執行美國針對伊朗港口及沿岸地區的封鎖任務。截至 8 月 XX 日，中央司令部部隊已調轉 51 艘商船航向，使 2 艘船隻喪失行動能力，並登檢 2 艘船隻，確保相關規定得到遵守。”
 
 ---

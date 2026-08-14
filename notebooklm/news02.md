@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:34:04_
-_本檔包含 3085 則快訊，約 602968 字_
+_更新時間：2026-08-15 04:59:00_
+_本檔包含 3089 則快訊，約 602900 字_
+
+---
+
+### 2026-08-14 00:07:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.70% Lower — The FTSE 100 Index decreased 76 points or 0.70 percent on Thursday to close at 10757 points. The decline was led by Antofagasta (-6.78%), Fresnillo (-5.07%) and Rio Tinto (-4.72%). On the upside, the strongest performers were Lion Finance Group (2.67%), British American Tobacco (2.25%) and Persimmon (2.01%).
+
+---
+
+### 2026-08-14 00:07:00  #市場
+
+墨西哥主要股指下跌1%。
+
+---
+
+### 2026-08-14 00:06:45  #MKT News
+
+OpenAI said Dennis Dreiser will leave after a transition period to pursue other opportunities.
+
+---
+
+### 2026-08-14 00:06:33  #MKT News
+
+OpenAI has formed a strategic partnership with Chad Pitts and RPT Partners.
+
+---
+
+### 2026-08-14 00:05:35  #公司
+
+【葉門胡塞武裝稱使用無人機襲擊沙特煉油廠】葉門胡塞武裝13日稱，該組織當天使用無人機襲擊了位於沙烏地阿拉伯西南部吉贊地區的一座沙特阿美公司煉油廠。據胡塞武裝控制的薩巴通訊社訊息，胡塞武裝使用兩架無人機襲擊這座煉油廠，襲擊非常“精準”。本月9日，葉門胡塞武裝表示，該組織使用無人機對位於吉讚的沙特阿美公司煉油廠發動了“精準打擊”。（央視新聞）
+
+---
+
+### 2026-08-14 00:05:13  #MKT News
+
+OpenAI appoints Dali Lajic as chief revenue officer.
+
+---
+
+### 2026-08-14 00:04:39  #其他
+
+OPENAI：Denise Dresser將在過渡期結束後離開OPENAI，尋求其他發展機會。
+
+---
+
+### 2026-08-14 00:03:30  #其他
+
+OPENAI：還與CHAD PEETS和RPT PARTNERS建立了戰略合作伙伴關係。
+
+---
+
+### 2026-08-14 00:02:47  #其他
+
+OPENAI任命DALI RAJIC為首席營收官。
+
+---
+
+### 2026-08-14 00:02:31  #公司
+
+【私募信貸上演“搶鹽大戰”：“什麼都行，就是別碰軟體”】一份最近在業內流傳的、帶有調侃意味的私募信貸術語表中，通常代表資產支援證券(asset-backed securities)的縮寫ABS，被戲稱為“Anything But Software” —— “什麼都行，就是別碰軟體”。軟體公司曾經是市場寵兒，如今卻備受冷落，因為人工智慧可能徹底顛覆它們的商業模式。雖然大量融資活動已經轉向支援AI基礎設施建設熱潮，但重資產、傳統經濟企業也越來越受到私募信貸市場青睞。以American Rock Salt為例，這家公司開採和銷售道路用鹽以及其他氯化鈉產品。儘管其信用評級屬於垃圾級，貸款機構目前卻在激烈爭搶這筆生意。
+
+---
+
+### 2026-08-14 00:00:53  #MKT News
+
+U.S. mortgage rates ticked down slightly, the first decline in six weeks.
+
+---
+
+### 2026-08-14 00:00:45  #MKT News
+
+Fannie Mae said the U.S. 30-year fixed-rate mortgage averaged 6.67% in the week of Aug. 13, down from 6.69% the prior week.
+
+---
+
+### 2026-08-14 00:00:35  #國際
+
+市場訊息：美國抵押貸款利率六週來首次小幅回落。
+
+---
+
+### 2026-08-14 00:00:20  #國際
+
+房地美：截至8月13日當週，美國30年期固定抵押貸款平均利率為6.67%，前一週為6.69%。
+
+---
+
+### 2026-08-14 00:00:13  #Trading Economics #Economy #Poland #Balance of Trade #Importance 0
+
+Poland Trade Deficit Widens in June — Poland’s trade deficit widened sharply to €1.47 billion in June 2026, from €0.13 billion in the same month a year earlier. Imports increased 16.9% year-on-year to €33.47 billion, driven mainly by higher purchases of supplies and capital goods, while rising fuel prices also contributed to the increase. The continued growth in computer hardware exports was reflected in stronger imports of related parts and components. Meanwhile, exports rose 12.3% to €32 billion, supported by significant increases in sales of computer equipment, raw silver and refined copper. However, exports from the automotive and furniture industries declined.
+
+---
+
+### 2026-08-13 23:58:11  #市場
+
+洲際交易所9月柴油期貨結算價為每噸1250.75美元。
+
+---
+
+### 2026-08-13 23:56:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 1.2% and 1.7%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 6%, Rio Tinto dropped 4.7% and Anglo American declined 3.5%. Precious-metal miners Fresnillo (-5.1%) and Endeavour (-4.2%) also fell sharply. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations.
+
+---
+
+### 2026-08-13 23:56:13  #公司
+
+利比亞國家石油公司負責人：蘇爾特石油公司已將哈蒂巴油田的一口新氣井投產，日增天然氣產能500萬立方英尺。
+
+---
+
+### 2026-08-13 23:55:37  #MKT News
+
+OpenAI appointed a new chief revenue officer less than a year after its previous appointment.
+
+---
+
+### 2026-08-13 23:55:23  #其他
+
+市場訊息：OpenAI不到一年便聘任新任首席營收官。
+
+---
+
+### 2026-08-13 23:55:21  #MKT News #AMD.O #Impact bullish
+
+AI chipmaker Cerebras says demand for its joint product with AMD is huge.
+
+---
+
+### 2026-08-13 23:54:07  #其他
+
+【葉門政府軍基地遭胡塞武裝襲擊 致3死15傷】葉門政府軍一名訊息人士13日對記者說，胡塞武裝當天使用無人機襲擊了葉門東南部哈德拉毛省一處政府軍基地，造成至少3名政府軍士兵死亡、15人受傷。（新華社）
+
+---
+
+### 2026-08-13 23:54:02  #MKT News
+
+【Houthi drone strike on Yemen government base in Hadramawt kills three, wounds 15】An unnamed Yemeni military officer said Houthi drones hit a government army base in the Abur area of Hadramawt province in southeast Yemen, near the Saudi border, killing at least three soldiers and wounding 15, several seriously. The officer said multiple drones struck the third brigade of the National Shield force; casualties could rise. The Houthi movement had not responded.
+
+---
+
+### 2026-08-13 23:53:30  #公司
+
+CEREBRAS執行長表示，市場對AMD聯合產品的需求巨大。
+
+---
+
+### 2026-08-13 23:51:53  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts.
+
+---
+
+### 2026-08-13 23:50:52  #公司
+
+CEREBRAS執行長：公司業務將以驚人的速度增長。資料中心對所有人來說都是一個挑戰。
+
+---
+
+### 2026-08-13 23:50:18  #MKT News #Market Themes #AI Revolution
+
+AI chipmaker Cerebras says its business will grow at an exceptional pace.
+
+---
+
+### 2026-08-13 23:50:12  #MKT News #Market Themes #AI Revolution
+
+AI chipmaker Cerebras says data centers pose a challenge for everyone.
 
 ---
 
@@ -18435,149 +18603,5 @@ ECB documents show integration is expected to be "challenging and persistent" an
 ### 2026-08-12 21:43:05  #MKT News #Market Regions #Europe & UK #UCG.MI #Impact bullish
 
 Documents show the European Central Bank has provisionally ruled there is no reason to oppose UniCredit's acquisition of a German commercial bank.
-
----
-
-### 2026-08-12 21:42:39  #MKT News #UCG.MI #Impact bullish #CBK.DE #Impact bearish #DAX #Impact mixed
-
-Documents show the ECB is inclined to approve an acquisition offer from Italy's UniCredit for Germany's Commerzbank despite governance and integration concerns.
-
----
-
-### 2026-08-12 21:42:31  #央行 #國際
-
-檔案顯示，歐洲央行初步認定，沒有理由反對裕信銀行收購德國商業銀行。
-
----
-
-### 2026-08-12 21:42:22  #央行 #國際
-
-一份檔案顯示，歐洲央行認為受緊張局勢與各類差異影響，歐元一體化程序將“充滿挑戰且耗時漫長”。
-
----
-
-### 2026-08-12 21:42:16  #公司 #央行 #國際
-
-德國監管機構在歐洲央行檔案中就裕信銀行的公司治理問題發出警示。
-
----
-
-### 2026-08-12 21:42:09  #其他
-
-馬士基：萊茵河低水位狀況可能進一步惡化，屆時駁船運輸將不再具備運營可行性。
-
----
-
-### 2026-08-12 21:42:02  #央行 #國際
-
-市場訊息：檔案顯示，儘管存在治理與整合方面的擔憂，歐洲央行仍傾向於批准裕信銀行收購德國商業銀行的要約。
-
----
-
-### 2026-08-12 21:41:56  #MKT News #06158.HK #Impact bearish
-
-【Zhenro Properties proposes 6.614 bln yuan onshore bond restructure; options include 8.5-year extension or buyback at 8% of remaining face value】Zhenro Properties (06158.HK) has proposed restructuring nine onshore corporate bonds and asset-backed securities totaling 6.614 bln yuan; bondholder meetings are scheduled Aug 13–27 to vote on the plan and procedural waivers. Under the extension option, using July 31, 2026 as the base date, all outstanding principal would have its maturity extended by 8.5 years to a new final maturity of Jan 31, 2035. From the base date, capitalized interest would no longer be treated as principal; remaining principal would accrue simple interest at 1.0% p.a., with interest paid when principal is repaid. Principal would be repaid in eight installments between Apr 30, 2033 and Jan 31, 2035 in proportions of 5%, 5%, 10%, 10%, 15%, 15%, 20% and 20%; each installment would also settle interest accrued to the base date and subsequent interest for that tranche. The proposal reportedly also offers alternative options, including a buyback at 8% of remaining face value.
-
----
-
-### 2026-08-12 21:41:14  #公司
-
-【北京年內最貴涉宅用地成交：中國金茂97.61億元競得海淀四季青地塊】8月12日，北京集中出讓3宗涉宅用地，其中，海淀四季青鎮地塊歷經130輪現場舉牌，由中國金茂旗下北京廣茂置業有限公司以97.61億元競得，成為年內涉宅用地總價“地王”。
-
----
-
-### 2026-08-12 21:40:51  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish
-
-【Market analysis: CPI report insufficient to shift Fed policy】Karen Manna, head of fixed income at Federated Hermes, said the CPI print, which was in line with expectations, does not provide enough new information or a compelling reason for the Fed to change policy. The report leaves a Q4 rate hike possible, but the Fed would likely need further evidence that inf is re-accelerating before acting.
-
----
-
-### 2026-08-12 21:40:37  #市場
-
-【Yardeni將標普500指數目標位上調至華爾街最高 維持2029年一萬點目標】Yardeni Research總裁兼首席投資策略師Ed Yardeni在企業盈利表現“非常出色”後，將標普500指數目標位上調至8400點，創下華爾街最高水平。他此前給出的8250點目標位也已是業內最高。Yardeni維持標普500指數2029年達到10000點的目標不變。他同時上調標普500指數每股收益預期，將2026年預期從330美元提高至375美元，2027年從375美元提高至415美元。Yardeni寫道：“我們認為，任何回撥，甚至暴跌，都會是買入機會，也不會引發類似1999至2000年科技泡沫及其破裂時期的經濟衰退或熊市”。他表示：“我們仍然認為，經濟衰退並引發熊市的機率為20%”。
-
----
-
-### 2026-08-12 21:40:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.27% Higher — The Dow Jones Index is gaining 147 points or 0.27 percent on Wednesday. Leading the gains are Cisco Systems (2.04%), Caterpillar (1.79%) and Nvidia (1.70%). Top losers are McDonalds (-1.11%), IBM (-1.01%) and Microsoft (-0.98%).
-
----
-
-### 2026-08-12 21:40:08  #公司
-
-【榮耀CEO李健：很多人找我要Robot Phone的優購碼，有人直接想要20臺】在榮耀Robot Phone新品釋出會後，榮耀CEO李健、榮耀產品線總裁方飛、榮耀硬體工程部總裁劉洋、榮耀AI與軟體部總裁孫建發等高管與媒體對話。他表示，很多人找自己要Robot Phone的優購碼，有一位著名導演一口氣想要14臺，還有喜歡攝影的企業家想要10臺，在國外甚至還有人想要20臺。“創新帶來的喜悅，是值得我們開心的。榮耀一定要走年輕化、高階化的道路。”他說。李健還透露，除了Robot Phone之外，榮耀未來還會有更多的新終端、新形態，會不斷探索。（新浪科技）
-
----
-
-### 2026-08-12 21:40:04  #其他
-
-市場訊息：蘋果計劃實現一項功能：能夠證明某張照片拍攝於你的 iPhone，且大機率未經後期篡改。
-
----
-
-### 2026-08-12 21:39:34  #MKT News #Star Stocks #Tencent #0700.HK #Impact bullish
-
-【Tencent says WorkBuddy paid-user gross margins healthy; AI token costs well below market estimates】At its 2026 Q2 earnings call, Tencent Chief Strategy Officer James Mitchell said domestic token prices for the company’s AI cloud business are low but token production costs are far lower than market expectations, allowing the token business to remain gross-margin positive. He said WorkBuddy’s paid-user gross margin and margins on Tencent’s model services are already comparable with Tencent Cloud overall. WorkBuddy’s aggregate margin is lower because Tencent is subsidizing free users to grow share, but the paid cohort is generating healthy gross margins.
-
----
-
-### 2026-08-12 21:39:12  #其他
-
-標普全球評級將醫療地產信託下調至 “選擇性違約” 評級。
-
----
-
-### 2026-08-12 21:38:55  #其他
-
-【河南699家A級景區臨時閉園 120家等級民宿關閉】8月10日起，河南多地迎來強降雨大風天氣，涉山、涉水、涉峽谷區域山洪與地質災害風險升高。記者從河南省文化和旅遊廳瞭解到，截至8月12日，河南全省859家A級旅遊景區中，已有699家臨時閉園、暫停接待遊客，閉園比例超八成。在閉園景區中，涉山、涉峽谷類共129家。鄭州市所有A級景區和部分文博場館暫停執行；周口市所有A級旅遊景區已全部關閉；濮陽市共有A級景區27家，已全部閉園；開封市25家A級景區已全部閉園。此外，全省120家等級旅遊民宿關閉停業。（央視新聞）
-
----
-
-### 2026-08-12 21:38:39  #公司
-
-【騰訊高管談AI業務利潤：WorkBuddy付費使用者毛利率相當不錯】8月12日，在騰訊2026Q2財報業績電話會上，騰訊首席戰略官James Mitchell在談及騰訊AI雲業務的利潤表現時表示，國內的 Token 價格確實很低，但國內的 Token 生產成本也極低，遠低於外界的普遍認知和預估。所以在 Token 業務上，即便價格低也能保持正毛利。他提到，WorkBuddy 付費使用者的毛利率，以及騰訊模型服務的毛利率，已經可以和騰訊雲整體的毛利率相媲美。WorkBuddy 整體來看毛利率相對低一些，因為其中有一部分免費使用者，騰訊在用這部分來補貼使用者以拉動市場份額增長，但付費部分已經產生了相當不錯的毛利率。
-
----
-
-### 2026-08-12 21:38:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-【Analyst: Fed has more time to wait】Northlight Asset Management CIO Chris Zaccarelli said the latest US CPI matched expectations and, importantly, inflation did not re-accelerate. Coupled with recent weak employment data, this gives the Fed more time to remain on the sidelines.
-
----
-
-### 2026-08-12 21:37:53  #公司
-
-【正榮地產66億元境內債重組方案：選項包括展期8.5年，按剩餘面值8%購回等】正榮地產（06158.HK）擬對旗下境內債券進行重組。據悉，8月13日至8月27日，“H20正榮2”等九隻、存續金額66.14億元的公司債券及資產支援證券將召開債券持有人會議審議重組方案和豁免多項會議程式兩項議案。關於本息兌付安排調整（展期留債），議案顯示，以2026年7月31日為基準日，債券全部未償本金兌付期限調整為自基準日起8.5年，新到期日為2035年1月31日。同時，自基準日起，資本化利息不再計入本金，剩餘本金按年利率1%單利計息，利隨本清。本金分8期兌付，最晚兌付日從2033年4月30日至2035年1月31日，各期本金兌付比例分別為5%、5%、10%、10%、15%、15%、20%、20%。每期兌付本金時，同時結清該筆本金對應的截至基準日利息及基準日後新利息。（澎湃新聞）
-
----
-
-### 2026-08-12 21:36:53  #市場
-
-美股光通訊板塊走強，Lumentum漲5%，Coherent漲6%，邁威爾科技和康寧漲約5%。
-
----
-
-### 2026-08-12 21:36:16  #公司
-
-【同星科技：目前公司與宇樹機器人暫無業務合作】同星科技8月12日在互動平臺表示，目前公司與宇樹機器人暫無業務合作。公司具身智慧機器人業務覆蓋人形機器人精密元件及溫控模組。
-
----
-
-### 2026-08-12 21:36:05  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-A Russian governor said a Ukrainian strike on Novorossiysk port killed three people and wounded 24.
-
----
-
-### 2026-08-12 21:35:56  #國際
-
-澤連斯基表示，自今年1月以來，烏克蘭已重新控制26個村莊。
-
----
-
-### 2026-08-12 21:35:53  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Ukrainian President Zelenskiy said Ukraine has liberated 745 sq km of territory since January.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:34:04_
-_本檔包含 3085 則快訊，約 602996 字_
+_更新時間：2026-08-15 04:59:00_
+_本檔包含 3085 則快訊，約 603048 字_
+
+---
+
+### 2026-08-12 21:42:39  #MKT News #UCG.MI #Impact bullish #CBK.DE #Impact bearish #DAX #Impact mixed
+
+Documents show the ECB is inclined to approve an acquisition offer from Italy's UniCredit for Germany's Commerzbank despite governance and integration concerns.
+
+---
+
+### 2026-08-12 21:42:31  #央行 #國際
+
+檔案顯示，歐洲央行初步認定，沒有理由反對裕信銀行收購德國商業銀行。
+
+---
+
+### 2026-08-12 21:42:22  #央行 #國際
+
+一份檔案顯示，歐洲央行認為受緊張局勢與各類差異影響，歐元一體化程序將“充滿挑戰且耗時漫長”。
+
+---
+
+### 2026-08-12 21:42:16  #公司 #央行 #國際
+
+德國監管機構在歐洲央行檔案中就裕信銀行的公司治理問題發出警示。
+
+---
+
+### 2026-08-12 21:42:09  #其他
+
+馬士基：萊茵河低水位狀況可能進一步惡化，屆時駁船運輸將不再具備運營可行性。
+
+---
+
+### 2026-08-12 21:42:02  #央行 #國際
+
+市場訊息：檔案顯示，儘管存在治理與整合方面的擔憂，歐洲央行仍傾向於批准裕信銀行收購德國商業銀行的要約。
+
+---
+
+### 2026-08-12 21:41:56  #MKT News #06158.HK #Impact bearish
+
+【Zhenro Properties proposes 6.614 bln yuan onshore bond restructure; options include 8.5-year extension or buyback at 8% of remaining face value】Zhenro Properties (06158.HK) has proposed restructuring nine onshore corporate bonds and asset-backed securities totaling 6.614 bln yuan; bondholder meetings are scheduled Aug 13–27 to vote on the plan and procedural waivers. Under the extension option, using July 31, 2026 as the base date, all outstanding principal would have its maturity extended by 8.5 years to a new final maturity of Jan 31, 2035. From the base date, capitalized interest would no longer be treated as principal; remaining principal would accrue simple interest at 1.0% p.a., with interest paid when principal is repaid. Principal would be repaid in eight installments between Apr 30, 2033 and Jan 31, 2035 in proportions of 5%, 5%, 10%, 10%, 15%, 15%, 20% and 20%; each installment would also settle interest accrued to the base date and subsequent interest for that tranche. The proposal reportedly also offers alternative options, including a buyback at 8% of remaining face value.
+
+---
+
+### 2026-08-12 21:41:14  #公司
+
+【北京年內最貴涉宅用地成交：中國金茂97.61億元競得海淀四季青地塊】8月12日，北京集中出讓3宗涉宅用地，其中，海淀四季青鎮地塊歷經130輪現場舉牌，由中國金茂旗下北京廣茂置業有限公司以97.61億元競得，成為年內涉宅用地總價“地王”。
+
+---
+
+### 2026-08-12 21:40:51  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish
+
+【Market analysis: CPI report insufficient to shift Fed policy】Karen Manna, head of fixed income at Federated Hermes, said the CPI print, which was in line with expectations, does not provide enough new information or a compelling reason for the Fed to change policy. The report leaves a Q4 rate hike possible, but the Fed would likely need further evidence that inf is re-accelerating before acting.
+
+---
+
+### 2026-08-12 21:40:37  #市場
+
+【Yardeni將標普500指數目標位上調至華爾街最高 維持2029年一萬點目標】Yardeni Research總裁兼首席投資策略師Ed Yardeni在企業盈利表現“非常出色”後，將標普500指數目標位上調至8400點，創下華爾街最高水平。他此前給出的8250點目標位也已是業內最高。Yardeni維持標普500指數2029年達到10000點的目標不變。他同時上調標普500指數每股收益預期，將2026年預期從330美元提高至375美元，2027年從375美元提高至415美元。Yardeni寫道：“我們認為，任何回撥，甚至暴跌，都會是買入機會，也不會引發類似1999至2000年科技泡沫及其破裂時期的經濟衰退或熊市”。他表示：“我們仍然認為，經濟衰退並引發熊市的機率為20%”。
+
+---
+
+### 2026-08-12 21:40:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.27% Higher — The Dow Jones Index is gaining 147 points or 0.27 percent on Wednesday. Leading the gains are Cisco Systems (2.04%), Caterpillar (1.79%) and Nvidia (1.70%). Top losers are McDonalds (-1.11%), IBM (-1.01%) and Microsoft (-0.98%).
+
+---
+
+### 2026-08-12 21:40:08  #公司
+
+【榮耀CEO李健：很多人找我要Robot Phone的優購碼，有人直接想要20臺】在榮耀Robot Phone新品釋出會後，榮耀CEO李健、榮耀產品線總裁方飛、榮耀硬體工程部總裁劉洋、榮耀AI與軟體部總裁孫建發等高管與媒體對話。他表示，很多人找自己要Robot Phone的優購碼，有一位著名導演一口氣想要14臺，還有喜歡攝影的企業家想要10臺，在國外甚至還有人想要20臺。“創新帶來的喜悅，是值得我們開心的。榮耀一定要走年輕化、高階化的道路。”他說。李健還透露，除了Robot Phone之外，榮耀未來還會有更多的新終端、新形態，會不斷探索。（新浪科技）
+
+---
+
+### 2026-08-12 21:40:04  #其他
+
+市場訊息：蘋果計劃實現一項功能：能夠證明某張照片拍攝於你的 iPhone，且大機率未經後期篡改。
+
+---
+
+### 2026-08-12 21:39:34  #MKT News #Star Stocks #Tencent #0700.HK #Impact bullish
+
+【Tencent says WorkBuddy paid-user gross margins healthy; AI token costs well below market estimates】At its 2026 Q2 earnings call, Tencent Chief Strategy Officer James Mitchell said domestic token prices for the company’s AI cloud business are low but token production costs are far lower than market expectations, allowing the token business to remain gross-margin positive. He said WorkBuddy’s paid-user gross margin and margins on Tencent’s model services are already comparable with Tencent Cloud overall. WorkBuddy’s aggregate margin is lower because Tencent is subsidizing free users to grow share, but the paid cohort is generating healthy gross margins.
+
+---
+
+### 2026-08-12 21:39:12  #其他
+
+標普全球評級將醫療地產信託下調至 “選擇性違約” 評級。
+
+---
+
+### 2026-08-12 21:38:55  #其他
+
+【河南699家A級景區臨時閉園 120家等級民宿關閉】8月10日起，河南多地迎來強降雨大風天氣，涉山、涉水、涉峽谷區域山洪與地質災害風險升高。記者從河南省文化和旅遊廳瞭解到，截至8月12日，河南全省859家A級旅遊景區中，已有699家臨時閉園、暫停接待遊客，閉園比例超八成。在閉園景區中，涉山、涉峽谷類共129家。鄭州市所有A級景區和部分文博場館暫停執行；周口市所有A級旅遊景區已全部關閉；濮陽市共有A級景區27家，已全部閉園；開封市25家A級景區已全部閉園。此外，全省120家等級旅遊民宿關閉停業。（央視新聞）
+
+---
+
+### 2026-08-12 21:38:39  #公司
+
+【騰訊高管談AI業務利潤：WorkBuddy付費使用者毛利率相當不錯】8月12日，在騰訊2026Q2財報業績電話會上，騰訊首席戰略官James Mitchell在談及騰訊AI雲業務的利潤表現時表示，國內的 Token 價格確實很低，但國內的 Token 生產成本也極低，遠低於外界的普遍認知和預估。所以在 Token 業務上，即便價格低也能保持正毛利。他提到，WorkBuddy 付費使用者的毛利率，以及騰訊模型服務的毛利率，已經可以和騰訊雲整體的毛利率相媲美。WorkBuddy 整體來看毛利率相對低一些，因為其中有一部分免費使用者，騰訊在用這部分來補貼使用者以拉動市場份額增長，但付費部分已經產生了相當不錯的毛利率。
+
+---
+
+### 2026-08-12 21:38:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+【Analyst: Fed has more time to wait】Northlight Asset Management CIO Chris Zaccarelli said the latest US CPI matched expectations and, importantly, inflation did not re-accelerate. Coupled with recent weak employment data, this gives the Fed more time to remain on the sidelines.
+
+---
+
+### 2026-08-12 21:37:53  #公司
+
+【正榮地產66億元境內債重組方案：選項包括展期8.5年，按剩餘面值8%購回等】正榮地產（06158.HK）擬對旗下境內債券進行重組。據悉，8月13日至8月27日，“H20正榮2”等九隻、存續金額66.14億元的公司債券及資產支援證券將召開債券持有人會議審議重組方案和豁免多項會議程式兩項議案。關於本息兌付安排調整（展期留債），議案顯示，以2026年7月31日為基準日，債券全部未償本金兌付期限調整為自基準日起8.5年，新到期日為2035年1月31日。同時，自基準日起，資本化利息不再計入本金，剩餘本金按年利率1%單利計息，利隨本清。本金分8期兌付，最晚兌付日從2033年4月30日至2035年1月31日，各期本金兌付比例分別為5%、5%、10%、10%、15%、15%、20%、20%。每期兌付本金時，同時結清該筆本金對應的截至基準日利息及基準日後新利息。（澎湃新聞）
+
+---
+
+### 2026-08-12 21:36:53  #市場
+
+美股光通訊板塊走強，Lumentum漲5%，Coherent漲6%，邁威爾科技和康寧漲約5%。
+
+---
+
+### 2026-08-12 21:36:16  #公司
+
+【同星科技：目前公司與宇樹機器人暫無業務合作】同星科技8月12日在互動平臺表示，目前公司與宇樹機器人暫無業務合作。公司具身智慧機器人業務覆蓋人形機器人精密元件及溫控模組。
+
+---
+
+### 2026-08-12 21:36:05  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+A Russian governor said a Ukrainian strike on Novorossiysk port killed three people and wounded 24.
+
+---
+
+### 2026-08-12 21:35:56  #國際
+
+澤連斯基表示，自今年1月以來，烏克蘭已重新控制26個村莊。
+
+---
+
+### 2026-08-12 21:35:53  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+Ukrainian President Zelenskiy said Ukraine has liberated 745 sq km of territory since January.
 
 ---
 
@@ -18485,149 +18629,5 @@ REUTERS SURVEY: US 10-year Treasury yield expected to fall to 4.50% in three mon
 ### 2026-08-11 19:51:17  #市場 #國際
 
 路透調查：預計美國2年期國債收益率三個月後將降至4.07%，六個月後降至3.92%，一年後降至3.80%（7月調查對應預期分別為4.00%、3.90%、3.85%）
-
----
-
-### 2026-08-11 19:50:57  #國際
-
-【國合署發言人：中國願向哥倫比亞提供人道主義地震救災援助】2026年8月11日，國家國際發展合作署新聞發言人湯瑛表示，哥倫比亞近日發生強震，造成重大人員傷亡和財產損失。中方密切關注地震災害，願根據哥方需要，以適當方式提供力所能及的幫助，支援哥地震救災。（新華社）
-
----
-
-### 2026-08-11 19:50:40  #公司
-
-【廣聚能源：修正2026年上半年業績預告 淨利潤同比大增】廣聚能源公告稱，修正2026年半年度業績預告，預計歸屬於上市公司股東的淨利潤為6555.96 - 6856.42萬元，同比增長603.02% - 635.24%；扣非淨利潤為6401.19 - 6701.65萬元，同比增長3247.38% - 3404.50%。業績同向上升主要因參股企業媽灣電力提前分紅，增加投資收益4039.04萬元。此外，公司全資子公司重大貿易合同風險調查仍在進行，若需補充計提減值損失，或影響業績。
-
----
-
-### 2026-08-11 19:47:01  #其他 #焦點
-
-【報道稱SK海力士重啟中國NAND快閃記憶體生產基地2號工廠建設 將產能擴大約50%】據報道，SK海力士重啟了中國大連NAND快閃記憶體生產基地2號工廠的建設，將產能擴大約50%。大連2號工廠於4年前動工，但受儲存器行業低迷影響，工程長期處於停滯狀態。SK海力士計劃在今年年底前引入半導體生產裝置，並於明年上半年正式投產。 (中新經緯)
-
----
-
-### 2026-08-11 19:45:31  #其他
-
-【聯合國工業發展組織與寧德時代簽署《聯合宣言》】據寧德時代訊息，8月11日，聯合國工業發展組織與寧德時代在北京簽署《聯合宣言》。雙方就迴圈經濟與先進電池領域的綠色工業發展等達成合作意願，並在促進全球工業可持續發展方面達成深度共識。
-
----
-
-### 2026-08-11 19:45:20  #公司
-
-SUBGEN AI集團任命弗雷德裡克·倫德奎斯特為首席財務官。
-
----
-
-### 2026-08-11 19:44:56  #MKT News #300750.SZ #Impact bullish
-
-【CATL and Longzhou sign strategic cooperation on city battery-swap networks】CATL said on Aug 11 it signed a strategic cooperation agreement with Longzhou. The agreement focuses on vehicle aftermarket services, construction of city-level battery-swap networks, and battery swapping for buses and passenger transport vehicles to support regional transport decarbonization.
-
----
-
-### 2026-08-11 19:44:47  #公司
-
-【紅豆股份：控股股東及其一致行動人持股比例降至57.85%】紅豆股份公告，公司控股股東紅豆集團有限公司及其一致行動人因司法拍賣、被動減持、一致行動人範圍調整等原因，持股比例由64.30%減少至57.85%，權益變動跨越5%整數倍。其中，紅豆集團所持8150萬股公司股份被司法拍賣，成交價格2.3億元，已於2026年8月7日完成過戶登記。
-
----
-
-### 2026-08-11 19:44:28  #公司 #市場
-
-【華東數控：股票交易異常波動 不存在應披露未披露事項】華東數控公告稱，截至2026年8月11日，公司股票連續2個交易日（8月10日、11日）收盤價格漲幅偏離值累計達20.89%，屬異常波動。經自查，公司前期披露資訊無需更正補充，生產經營正常，控股股東及實控人無應披露未披露重大事項，且未在異常波動期間買賣公司股票。公司提醒投資者注意交易風險。
-
----
-
-### 2026-08-11 19:44:26  #宏觀 #焦點
-
-【8月11日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.習近平就哥倫比亞發生強烈地震向哥倫比亞總統致慰問電； 2.【新思想引領新徵程】織就更密更暖的社會保障安全網； 3.文獻紀錄片《江澤民》今晚開始播出； 4.各地搶抓農時做好田間管理； 5.“十五五”時期我國生態質量將穩步改善； 6.我國將加快打造現代煤炭產業體系； 7.各地各部門積極應對“白海豚”影響； 8.【黨旗在基層一線高高飄揚】風雨中的暖心守護； 9.【文化中國行】古文字工程揭開上古歷史面紗； 10.國內聯播快訊： （1）上半年規模以上網際網路企業完成網際網路業務收入超萬億元； （2）“十五五”時期我國將建立國家不可移動文物資源總目錄； （3）市場監管總局釋出338項國家標準； （4）深化掃黑除惡專項鬥爭第一輪集中收網 抓獲犯罪嫌疑人8200餘名； （5）前7個月中老鐵路進出口貨值同比增長29.9%； （6）世界首臺500兆瓦衝擊式水電機組轉子成功吊裝； （7）第38屆大眾電影百花獎揭曉； 11.哥倫比亞發生7.5級強震 進入“國家災難狀態”； 12.美稱完全控制霍爾木茲海峽 伊朗批評美封鎖阻礙海峽恢復通航 伊朗最高領袖簽署多份高層軍事人員任命令； 13.資料顯示美國7月平均氣溫達新高 歐洲多國遭遇大範圍乾旱 林火肆虐； 14.國際聯播快訊： （1）聯合國特使警告葉門衝突升級； （2）以媒稱約旦河西岸以定居者襲擊事件飆升； （3）日元對美元匯率再次大幅下跌； （4）三大洲足聯再批國際足聯。
-
----
-
-### 2026-08-11 19:44:24  #宏觀 #公司
-
-【波長光電：根據財政部要求變更會計政策】波長光電公告稱，根據財政部發布的《企業會計準則解釋第20號》要求，公司自2026年1月1日起變更會計政策。變更前，公司執行財政部相關準則及規定；變更後，按《企業會計準則解釋第20號》執行。此次變更對2026年上半年及可比期間財務報表無影響，不會對公司財務狀況、經營成果和現金流量產生重大影響，無需提交董事會、股東會審議。
-
----
-
-### 2026-08-11 19:44:20  #公司
-
-【太陽電纜：持股5%以上股東減持股份觸及1%及5%整數倍】太陽電纜公告稱，公司持股5%以上股東億力集團於2026年8月10日透過集中競價方式減持285.85萬股，佔總股本0.4%。本次減持前，億力集團持股比例為10.4%；減持後，持股比例降至10%，權益變動觸及1%及5%整數倍。本次減持與此前披露的減持計劃一致，減持計劃尚未實施完畢，且不會導致公司控股股東及實控人變化。
-
----
-
-### 2026-08-11 19:43:56  #公司
-
-【寧德時代與龍洲股份簽署戰略合作協議】據寧德時代訊息，8月11日，寧德時代與龍洲股份簽署戰略合作協議。雙方將圍繞車輛後市場服務、城市級換電網路搭建與公交及客運車輛換電方面加強合作，攜手推動區域交通低碳轉型。
-
----
-
-### 2026-08-11 19:43:49  #MKT News
-
-Pakistan auto sales rose to 17,216 units in July.
-
----
-
-### 2026-08-11 19:43:37  #MKT News
-
-A Securities and Exchange Board of India consultation paper proposes widening foreign investor access to non‑agricultural commodity derivatives by allowing trading in physically settled contracts.
-
----
-
-### 2026-08-11 19:43:29  #MKT News
-
-【Jilin governor Hu Yuting chairs meeting on deepening state-farm reform】On Aug. 11 Jilin Governor Hu Yuting chaired a meeting on deepening reform of state-owned agricultural reclamation (state farms). He ordered corporatized governance and market-oriented operation, creation of regional state-farm groups segmented by planting, livestock and processing, and a one-company-one-policy approach to product positioning, input–output and business models. He pushed expanded partnerships with private/social capital and leading agribusinesses to boost internal dynamism and competitiveness. He also called for improving state land-use and management rules, promoting intensive, efficient and unified use of farm land and accelerating appropriate-scale operations to raise agriculture sector returns.
-
----
-
-### 2026-08-11 19:42:59  #其他
-
-巴基斯坦7月份汽車銷量增至17216輛。
-
----
-
-### 2026-08-11 19:42:44  #市場
-
-【本月伺服器DDR5價格上漲15%至23%】隨著三季度原廠價格進一步上行，本月伺服器DDR5價格上漲15%至23%，32GB/64GB/96GB DDR5 RDIMM分別上漲至900/1590/2650美金。現貨伺服器RDIMM市場上，貿易端32GB D5介於1800~2100美金，64GB D5介於3000~3200美金，96GB D5介於3800~4100美金，合約與現貨DDR5尤其是96GB的價差呈現收窄趨勢。原廠DDR5供應依然維持供不應求，不過隨著合約價逐季上漲，伺服器大客戶對記憶體成本的上漲更為敏感，加之長協相繼落地，大客戶D5供應得到一定保障，DDR5漲幅預計將更加溫和。（快閃記憶體市場）
-
----
-
-### 2026-08-11 19:42:26  #公司 #國際
-
-【潤邦股份：子公司籤28億-33億元造船合同】潤邦股份公告稱，近日全資子公司潤邦海洋與歐洲某知名船東簽訂《造船合同》，將為其建造6艘4500立方米活魚運輸船（含選擇權船舶訂單），合同總金額摺合人民幣約28億元至33億元。合同生效後第29個月開始分批次交付，滿足收到買方首筆付款等條件後生效。該合同預計對公司未來業績有積極影響，但存在不能執行、匯率、不能生效、選擇權履行不確定等風險。
-
----
-
-### 2026-08-11 19:42:12  #公司
-
-【胡玉亭主持召開深化農墾改革發展專題會議】據“吉林釋出”，8月11日，吉林省委副書記、省長鬍玉亭主持召開深化農墾改革發展專題會議。胡玉亭強調，要堅持公司化治理、企業化運營，科學謀劃佈局區域性農墾集團，圍繞種植類、養殖類、加工類功能屬性，“一企一策”確定產品定位、投入產出、經營模式，強化與社會資本、龍頭企業合作，增強農墾內生動力、發展活力、整體實力。要完善國有土地資源使用經營管理制度，穩妥推進農墾土地資源集約高效利用，提升統一經營、統一管理水平，加快實現多種形式適度規模經營，提升農業產業綜合效益。
-
----
-
-### 2026-08-11 19:42:05  #觀點
-
-市場訊息：花旗聘請摩根士丹利資深銀行家Jean-Baptiste Charlet負責法國業務。
-
----
-
-### 2026-08-11 19:41:05  #公司
-
-【北新建材與法國阿雷蒙集團開展座談交流】據北新建材訊息，近日，法國阿雷蒙集團GSBU建築總監Nicolas Petitfils一行到訪北新建材。雙方重點圍繞將工業領域成熟的快速連線安裝技術引入裝配式建築領域展開交流。
-
----
-
-### 2026-08-11 19:40:33  #公司
-
-【利比亞主要煉油廠一儲油罐遭襲起火】的黎波里訊息：利比亞國家石油公司10日晚釋出宣告說，位於利比亞西部扎維亞煉油廠的一處儲油罐遭襲，引發嚴重火災並完全坍塌。目前尚無人員傷亡報告。 宣告說，遭襲儲油罐儲存有約450萬升汽油，消防和安全小組正在努力控制火勢。當地媒體報道稱，儲油罐是遭無人機襲擊，火災已持續12小時。 宣告還說，該事件是近期發生的多起扎維亞石油設施遭襲事件中的最新一起。如襲擊持續發生，利比亞國家石油公司可能宣佈遭遇“不可抗力”並全面停止扎維亞煉油廠運營。 扎維亞煉油廠日加工能力約12萬桶，是利比亞西部最大煉油廠之一，也是利比亞國內重要燃料供應樞紐。(新華社)
-
----
-
-### 2026-08-11 19:40:27  #公司
-
-【科德教育：擬1億-2億元回購股份用於激勵計劃】科德教育公告稱，公司擬使用銀行專項貸款、自有資金和/或自籌資金回購股份，資金總額不低於1億元且不超過2億元，回購價格不超過23.27元/股。預計可回購股份429.74萬股至859.48萬股，約佔公司總股本的0.93%-1.87%，用於股權激勵或員工持股計劃。若36個月內未使用完畢，未使用股份將登出。回購期限自股東會審議透過之日起12個月內。
-
----
-
-### 2026-08-11 19:39:25  #MKT News #DAX #Impact bullish #EURUSD
-
-Germany's transport minister said he convened a crisis meeting and has taken measures, including suspending state-level driving restrictions on public holidays, to keep supply chains moving.
 
 ---

@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:34:04_
-_本檔包含 3162 則快訊，約 602915 字_
+_更新時間：2026-08-15 04:59:00_
+_本檔包含 3156 則快訊，約 603190 字_
+
+---
+
+### 2026-08-15 04:58:18  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canadian Yields Rise on Strong Macroeconomic Data — Canada’s 10-year government bond yield rose to 3.68%, approaching the over-two-month high of 3.72% touched on August 10th, following stronger-than-expected manufacturing sales data. Canadian factory sales rose 0.1% in June from May, beating expectations for a decline and marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Recent data also showed a stronger Canadian labor market, while Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast. The strong macroeconomic data raised expectations for a potential BoC rate hike if energy prices remain elevated. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery.
+
+---
+
+### 2026-08-15 04:53:59  #其他
+
+市場訊息：APACHE 伺服器暫停執行狀態將持續生效，直至崩潰原因查明。
+
+---
+
+### 2026-08-15 04:53:42  #MKT News
+
+【Lula says Brazil will decide after October election whether to accept Trump ambassador nominee】President Lula said on the 14th Brazil will decide after October’s presidential election whether to accept US President Trump’s nomination of Daniel Perez as ambassador to Brazil. In a media interview he accused the US of attempting to interfere, noting the nomination came 45 days before the vote after the post had been vacant for more than a year and saying the timing suggested electoral meddling.
+
+---
+
+### 2026-08-15 04:52:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【White House official says unaware of any plan to extend US‑Iran ceasefire】Politico reports the one‑month US‑Iran ceasefire expires next Monday; if not extended, the near six‑month conflict could resume. A White House official said talks were 'stalled' as of Friday afternoon and they had not heard of any extension plan, adding distance is irrelevant — the key is whether Iran will return to the table, and so far it has not. Negotiations are hampered by fragmented power in Iran — the IRGC, clerical authorities and the government hold divergent positions and all factions must sign off — with key disputes on sanctions, frozen assets and passage of the Strait of Hormuz; US officials say any fees or transit control are 'unacceptable.' The Trump administration says it reserves 'all options' if Iran refuses a deal and that sanctions and a blockade have severely damaged Iran's economy; sources say the US may be underestimating Iran's endurance and would need rapid action to stabilise the situation ahead of the midterm elections.
+
+---
+
+### 2026-08-15 04:52:05  #市場 #國際
+
+【特朗普：永遠不會因為戰爭導致美國汽油價格上漲而道歉】美國總統特朗普表示，他不會因為伊朗戰爭導致美國人承擔更高汽油價格而道歉。特朗普在長島的一場活動上作出上述表態。特朗普還表示，美國人需要為汽油“多付那麼一點點”。他說：“我永遠不會道歉。我做了正確的事”。
+
+---
+
+### 2026-08-15 04:51:10  #其他
+
+市場訊息：美軍陸軍在發生致命墜機事故後，下令阿帕奇直升機臨時停飛。
+
+---
+
+### 2026-08-15 04:48:29  #國際
+
+【盧拉：巴西將在大選後決定是否接受美駐巴大使提名】巴西總統盧拉14日表示，巴西政府將在今年10月大選結束後，再決定是否認可美國總統特朗普提名的丹尼爾·佩雷斯作為美駐巴西大使人選。盧拉當天在接受巴西媒體採訪時批評美國政府試圖干涉巴西內政。他說，美國在巴西舉行總統選舉前45天突然提出大使任命，而此前一年多該職位一直空缺。盧拉認為美方此舉具有干涉選舉的意圖。（新華社）
+
+---
+
+### 2026-08-15 04:47:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Extends Seven-Month Low — The Ibovespa shed 0.1% to close at 166,934 on Friday, extending its seven-month low. Oil and gas prices gained as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares as bond yields moved higher. Bradesco lost 0.7%, Itaúsa shed 0.4% and B3 fell 0.6%, while Itaú (+1.8%) and Banco do Brasil (+0.9%) bucked the trend. Utilities also traded lower, with Sabesp down over 2% and CPFL losing over 4.5% after reporting earnings, as growth in its industrial sector was modest and net debt rose 19.2%. Renner shed 2.6% after UBS BB abandoned its buy recommendation and cut its price target. Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Vale (-0.8%), Ambev (-1.1%) and Rede D’Or (-2.5%) also weighed on the index. On the upside, Petrobras rose 0.4% on higher oil prices, while Embraer added 2.4% after JPMorgan raised its price target.
+
+---
+
+### 2026-08-15 04:46:55  #MKT News
+
+Market sources said Canada's head of U.S. trade and chief negotiator will remain in Washington over the weekend to continue talks.
+
+---
+
+### 2026-08-15 04:45:16  #MKT News #AMD.O
+
+SEC filings show AMD (AMD.O) holds 3.3 mln Class A shares of SpaceX (SPCX.O).
+
+---
+
+### 2026-08-15 04:45:15  #公司 #國際
+
+美國證券交易委員會檔案顯示，AMD(AMD.O)持有330萬股SpaceX(SPCX.O)A類股份。
+
+---
+
+### 2026-08-15 04:45:02  #其他
+
+市場訊息：加拿大負責對美雙邊貿易事務的部長及加拿大首席貿易談判代表本週末將留駐華盛頓開展會談。
+
+---
+
+### 2026-08-15 04:39:57  #資料
+
+市場訊息：DIANA SHIPPING撤回了對GENCO SHIPPING的收購要約。
+
+---
+
+### 2026-08-15 04:39:33  #MKT News
+
+Harvard University disclosed a US$2.2 billion holding in SpaceX (SPCX.O).
+
+---
+
+### 2026-08-15 04:39:00  #公司 #國際
+
+美國證券交易委員會檔案顯示，英特爾(INTC.O)CEO陳立武於8月11日在公開市場以平均每股95美元的價格購買了105,263股英特爾股票。
+
+---
+
+### 2026-08-15 04:38:39  #MKT News #INTC.O #Impact bullish
+
+SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 105,263 shares in the open market on Aug. 11 at an average price of $95 per share.
+
+---
+
+### 2026-08-15 04:35:12  #公司 #國際
+
+【索羅斯第二季度新建Nebius等頭寸】索羅斯在第二季度新建了美國電力（AEP）、Nebius集團（NBIS）、Apogee Therapeutics（APGE）、DigitalBridge集團（DBRG）、Taylor Morrison住宅（TMHC）的頭寸；清倉了賽富時（CRM）、Penumbra（PEN）、Select Medical控股（SEM）、格芯（GFS）、Clear Channel戶外廣告（CCO）。
+
+---
+
+### 2026-08-15 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index dropped 108 points or 0.20 percent on Friday to close at 53732 points. Losses were led by Salesforce (-2.25%), Cisco Systems (-1.67%) and Amgen (-1.28%). Offsetting the fall, top gainers were Walt Disney (2.05%), Chevron (1.16%) and UnitedHealth (0.61%).
+
+---
+
+### 2026-08-15 04:34:39  #國際
+
+美國國家颶風中心預測，拉拉颶風將於週六給夏威夷大島帶來颶風天氣。
+
+---
+
+### 2026-08-15 04:34:22  #其他
+
+哈佛大學披露持有SpaceX價值22億美元的股權。
+
+---
+
+### 2026-08-15 04:34:15  #國際
+
+美國國家颶風中心表示，颶風赫爾南幾乎停滯不前，並減弱為熱帶低氣壓。
+
+---
+
+### 2026-08-15 04:33:58  #國際
+
+【美媒：美對古戰略側重經濟制裁而非軍事選項】據美國彭博社14日報道，特朗普政府對古巴的戰略正日益側重於加大經濟制裁和施壓，而非部署軍事力量。報道援引不願透露姓名的知情人士的話說，美方目前關注重點在於切斷古巴政權的所有收入來源，而不是採取類似今年1月針對委內瑞拉總統馬杜羅的那種軍事行動，並稱該戰略“旨在製造內部分裂，為談判創造空間”。（新華社）
 
 ---
 
@@ -18893,173 +19025,5 @@ Mexico's main stock index fell 1%.
 ### 2026-08-14 00:07:45  #MKT News #WTI #Impact bullish #Brent
 
 【Houthi rebels say they used drones to hit ARAMCO refinery in Jizan, Saudi Arabia】Yemeni Houthi rebels said on the 13th they used two drones to attack an ARAMCO refinery in Jizan in southwest Saudi Arabia, calling the strikes "precise", the Houthi-controlled Saba news agency reported. On the 9th this month the Houthis also said they carried out a "precise strike" on the Jizan refinery.
-
----
-
-### 2026-08-14 00:07:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.70% Lower — The FTSE 100 Index decreased 76 points or 0.70 percent on Thursday to close at 10757 points. The decline was led by Antofagasta (-6.78%), Fresnillo (-5.07%) and Rio Tinto (-4.72%). On the upside, the strongest performers were Lion Finance Group (2.67%), British American Tobacco (2.25%) and Persimmon (2.01%).
-
----
-
-### 2026-08-14 00:07:00  #市場
-
-墨西哥主要股指下跌1%。
-
----
-
-### 2026-08-14 00:06:45  #MKT News
-
-OpenAI said Dennis Dreiser will leave after a transition period to pursue other opportunities.
-
----
-
-### 2026-08-14 00:06:33  #MKT News
-
-OpenAI has formed a strategic partnership with Chad Pitts and RPT Partners.
-
----
-
-### 2026-08-14 00:05:35  #公司
-
-【葉門胡塞武裝稱使用無人機襲擊沙特煉油廠】葉門胡塞武裝13日稱，該組織當天使用無人機襲擊了位於沙烏地阿拉伯西南部吉贊地區的一座沙特阿美公司煉油廠。據胡塞武裝控制的薩巴通訊社訊息，胡塞武裝使用兩架無人機襲擊這座煉油廠，襲擊非常“精準”。本月9日，葉門胡塞武裝表示，該組織使用無人機對位於吉讚的沙特阿美公司煉油廠發動了“精準打擊”。（央視新聞）
-
----
-
-### 2026-08-14 00:05:13  #MKT News
-
-OpenAI appoints Dali Lajic as chief revenue officer.
-
----
-
-### 2026-08-14 00:04:39  #其他
-
-OPENAI：Denise Dresser將在過渡期結束後離開OPENAI，尋求其他發展機會。
-
----
-
-### 2026-08-14 00:03:30  #其他
-
-OPENAI：還與CHAD PEETS和RPT PARTNERS建立了戰略合作伙伴關係。
-
----
-
-### 2026-08-14 00:02:47  #其他
-
-OPENAI任命DALI RAJIC為首席營收官。
-
----
-
-### 2026-08-14 00:02:31  #公司
-
-【私募信貸上演“搶鹽大戰”：“什麼都行，就是別碰軟體”】一份最近在業內流傳的、帶有調侃意味的私募信貸術語表中，通常代表資產支援證券(asset-backed securities)的縮寫ABS，被戲稱為“Anything But Software” —— “什麼都行，就是別碰軟體”。軟體公司曾經是市場寵兒，如今卻備受冷落，因為人工智慧可能徹底顛覆它們的商業模式。雖然大量融資活動已經轉向支援AI基礎設施建設熱潮，但重資產、傳統經濟企業也越來越受到私募信貸市場青睞。以American Rock Salt為例，這家公司開採和銷售道路用鹽以及其他氯化鈉產品。儘管其信用評級屬於垃圾級，貸款機構目前卻在激烈爭搶這筆生意。
-
----
-
-### 2026-08-14 00:00:53  #MKT News
-
-U.S. mortgage rates ticked down slightly, the first decline in six weeks.
-
----
-
-### 2026-08-14 00:00:45  #MKT News
-
-Fannie Mae said the U.S. 30-year fixed-rate mortgage averaged 6.67% in the week of Aug. 13, down from 6.69% the prior week.
-
----
-
-### 2026-08-14 00:00:35  #國際
-
-市場訊息：美國抵押貸款利率六週來首次小幅回落。
-
----
-
-### 2026-08-14 00:00:20  #國際
-
-房地美：截至8月13日當週，美國30年期固定抵押貸款平均利率為6.67%，前一週為6.69%。
-
----
-
-### 2026-08-14 00:00:13  #Trading Economics #Economy #Poland #Balance of Trade #Importance 0
-
-Poland Trade Deficit Widens in June — Poland’s trade deficit widened sharply to €1.47 billion in June 2026, from €0.13 billion in the same month a year earlier. Imports increased 16.9% year-on-year to €33.47 billion, driven mainly by higher purchases of supplies and capital goods, while rising fuel prices also contributed to the increase. The continued growth in computer hardware exports was reflected in stronger imports of related parts and components. Meanwhile, exports rose 12.3% to €32 billion, supported by significant increases in sales of computer equipment, raw silver and refined copper. However, exports from the automotive and furniture industries declined.
-
----
-
-### 2026-08-13 23:58:11  #市場
-
-洲際交易所9月柴油期貨結算價為每噸1250.75美元。
-
----
-
-### 2026-08-13 23:56:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 1.2% and 1.7%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 6%, Rio Tinto dropped 4.7% and Anglo American declined 3.5%. Precious-metal miners Fresnillo (-5.1%) and Endeavour (-4.2%) also fell sharply. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations.
-
----
-
-### 2026-08-13 23:56:13  #公司
-
-利比亞國家石油公司負責人：蘇爾特石油公司已將哈蒂巴油田的一口新氣井投產，日增天然氣產能500萬立方英尺。
-
----
-
-### 2026-08-13 23:55:37  #MKT News
-
-OpenAI appointed a new chief revenue officer less than a year after its previous appointment.
-
----
-
-### 2026-08-13 23:55:23  #其他
-
-市場訊息：OpenAI不到一年便聘任新任首席營收官。
-
----
-
-### 2026-08-13 23:55:21  #MKT News #AMD.O #Impact bullish
-
-AI chipmaker Cerebras says demand for its joint product with AMD is huge.
-
----
-
-### 2026-08-13 23:54:07  #其他
-
-【葉門政府軍基地遭胡塞武裝襲擊 致3死15傷】葉門政府軍一名訊息人士13日對記者說，胡塞武裝當天使用無人機襲擊了葉門東南部哈德拉毛省一處政府軍基地，造成至少3名政府軍士兵死亡、15人受傷。（新華社）
-
----
-
-### 2026-08-13 23:54:02  #MKT News
-
-【Houthi drone strike on Yemen government base in Hadramawt kills three, wounds 15】An unnamed Yemeni military officer said Houthi drones hit a government army base in the Abur area of Hadramawt province in southeast Yemen, near the Saudi border, killing at least three soldiers and wounding 15, several seriously. The officer said multiple drones struck the third brigade of the National Shield force; casualties could rise. The Houthi movement had not responded.
-
----
-
-### 2026-08-13 23:53:30  #公司
-
-CEREBRAS執行長表示，市場對AMD聯合產品的需求巨大。
-
----
-
-### 2026-08-13 23:51:53  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts.
-
----
-
-### 2026-08-13 23:50:52  #公司
-
-CEREBRAS執行長：公司業務將以驚人的速度增長。資料中心對所有人來說都是一個挑戰。
-
----
-
-### 2026-08-13 23:50:18  #MKT News #Market Themes #AI Revolution
-
-AI chipmaker Cerebras says its business will grow at an exceptional pace.
-
----
-
-### 2026-08-13 23:50:12  #MKT News #Market Themes #AI Revolution
-
-AI chipmaker Cerebras says data centers pose a challenge for everyone.
 
 ---
