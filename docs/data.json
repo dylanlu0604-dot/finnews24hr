@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-14 11:50:07",
-  "count": 15495,
+  "updated": "2026-08-14 11:53:55",
+  "count": 15501,
   "items": [
+    {
+      "id": "5040508",
+      "time": "2026-08-14 11:52:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "普拉博沃：預計國有企業今年將派發200萬億印尼盾股息。"
+    },
+    {
+      "id": "5040507",
+      "time": "2026-08-14 11:52:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "普拉博沃：希望印尼鷹航 2027 年初實現盈利。"
+    },
+    {
+      "id": "5040506",
+      "time": "2026-08-14 11:52:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金山辦公“靈犀”接入DeepSeek-V4-Pro正式版，已向使用者開放】金山辦公旗下AI辦公智慧體靈犀專業版宣佈接入DeepSeek-V4-Pro正式版。使用者在靈犀專業版內切換至該模型即可直接使用，無需額外配置。 據DeepSeek官方文件及公佈的評測資料，V4-Pro-0813是DeepSeek最新旗艦模型，原生支援100萬token超長上下文，單次最大輸出達38.4萬token，相關基準測試成績較此前的Preview版本全面提升。（新浪科技）"
+    },
+    {
+      "id": "5040505",
+      "time": "2026-08-14 11:51:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時耘科技首批人形機器人產品下線】據天津發布，8月13日，在天津市河西區空天數字產業園，數月前剛落址園區的時耘科技，實現首批人形機器人產品下線。據瞭解，這款工業級的人形機器人身高174CM，可無縫適配人類作業環境，可廣泛適配電力巡檢、安防巡邏、工業運維、應急勘查、場站值守等多元場景，在高危、高強度、高重複的專業作業領域發揮作用，不僅開箱即用，還能在室內外場站、廠區、野外實現全域導航、無縫切換。時耘科技CEO曹克乾表示，隨著首批人形機器人產品RD3 Ultra的正式下線，公司今年計劃落地10個標準化應用場景，並預計在2027年實現產品的規模化交付。"
+    },
+    {
+      "id": "5040504",
+      "time": "2026-08-14 11:51:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【月之暗面增資至224萬 增幅約47%】天眼查工商資訊顯示，近日，北京月之暗面科技股份有限公司發生工商變更，註冊資本由約152萬人民幣增至約224萬人民幣，增幅約47%。該公司成立於2023年4月，法定代表人為楊植麟，經營範圍包括軟體開發、軟體銷售、人工智慧基礎軟體開發等。"
+    },
+    {
+      "id": "5040503",
+      "time": "2026-08-14 11:50:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正帆科技在浙江成立科技公司】企查查APP顯示，近日，浙江正帆百泰科技有限公司成立，法定代表人為李曉帆，註冊資本為1000萬元，經營範圍包含生物化工產品技術研發；製藥專用裝置製造；氣體、液體分離及純淨裝置製造等。企查查股權穿透顯示，該公司由正帆科技間接全資持股。"
+    },
+    {
+      "id": "5040502",
+      "time": "2026-08-14 11:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼的目標是在年底前節省700萬億印尼盾的預算開支。"
+    },
+    {
+      "id": "5040501",
+      "time": "2026-08-14 11:49:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中企簽約阿爾及利亞港口設施建設專案】阿爾及利亞安納巴港口設施二期專案簽約儀式12日在該國首都阿爾及爾舉行。該專案由中國港灣工程有限責任公司承建，是阿爾及利亞磷酸鹽一體化專案的重要組成部分。中國港灣母公司、中國交通建設集團有限公司副總經理陳重表示，企業將與業主密切配合，統籌推進兩期專案的建設，充分發揮工程組織、專業技術和本地化經營等優勢，確保專案高標準建設、高質量交付。（新華社）"
+    },
+    {
+      "id": "5040500",
+      "time": "2026-08-14 11:49:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱日聯金融集團副董事長稱將加強亞洲財富管理服務。"
+    },
+    {
+      "id": "5040499",
+      "time": "2026-08-14 11:49:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瓜子二手車與上海協通集團簽署戰略合作】近日，上海協通集團與瓜子二手車正式簽署戰略合作協議。公開資訊顯示，上海協通集團是一家享有進出口經營權的跨行業、跨地區綜合性大型股份制集團，旗下佈局汽車、外貿、酒店、金融和招商五大產業板塊。其中，汽車服務板塊擁有多家上海通用、大眾、豐田、福特、凱迪拉克等品牌授權的4S專營店，立足上海、輻射整個長三角，掌握著區域內海量的優質二手車置換車源。（新浪科技）"
+    },
     {
       "id": "te:markets:575254",
       "time": "2026-08-14 11:49:00",
@@ -141778,42 +141858,6 @@
         "市場"
       ],
       "text": "【8月7日午間漲停分析】創業板指縮量上漲1.75%，醫藥、算力硬體股持續爆發。寶鼎科技、雲南鍺業、匯綠生態、沃格光電、百花醫藥均4連板，一圖看懂>>"
-    },
-    {
-      "id": "5030004",
-      "time": "2026-08-07 11:53:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大興機場臨空經濟區中歐班列服務中心正式啟用】今天（7日），大興機場臨空經濟區中歐班列服務中心正式啟用，北京與河北實現臨空經濟區與中歐班列集結中心業務貫通，打造出一條空陸多式聯運新通道。"
-    },
-    {
-      "id": "5030003",
-      "time": "2026-08-07 11:53:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳市投資促進局：對符合條件的在深跨國公司中國區總部、亞太區總部、事業部全球總部，一次性給予最高800萬元的能級獎勵】深圳市投資促進局釋出關於受理2026年利用外資獎勵計劃（廣東省跨國公司總部能級獎勵）的通知。支援物件：在深圳市內依法登記設立的跨國公司承擔總部管理職能的外商投資企業或其分支機構，經廣東省商務主管部門認定，符合跨國公司中國區總部、亞太區總部，以及事業部全球總部有關標準的市場主體，不含金融業、房地產業企業。支援標準：對符合條件的在深跨國公司中國區總部、亞太區總部、事業部全球總部，一次性給予最高800萬元的能級獎勵。"
-    },
-    {
-      "id": "te:markets:573590",
-      "time": "2026-08-07 11:51:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Indian Rupee Falls on Higher Crude — The Indian rupee fell to around 95.25 per dollar, retreating from four-week highs as a rebound in oil prices revived concerns over India's import bill and inflation outlook. Brent crude rebounded above $83 a barrel, extending gains for a third straight session after rising about 4% on Thursday. The move followed a proposal by Iran and Oman to restrict vessels deemed hostile, stoking fears over supply disruptions. Investors also turned cautious ahead of the US July nonfarm payrolls report, with economists expecting 80,000 jobs to have been added after 57,000 in June and the unemployment rate to remain at 4.2%, as the data could influence expectations for further Federal Reserve rate hikes. Meanwhile, traders monitored the Reserve Bank of India, whose recent dollar sales had helped lift the rupee to a one-month high, though persistent underlying demand for dollars suggested the currency's near-term direction would continue to depend on the extent of RBI support."
-    },
-    {
-      "id": "mkt:019fda57-cf3a-7aab-8faf-323fc49bac04",
-      "time": "2026-08-07 11:50:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Haichen Energy Storage's Wang Pengcheng: driving global lithium long-duration storage into large-scale delivery era】Haichen Energy Storage’s Heze plant has begun mass production, completing a full-chain rollout from materials and cells to modules, systems and delivery. The base, with total investment exceeding 13 billion yuan, targets annual output at full capacity of 30 GWh of 1,175 Ah long-duration cells and 20 GWh of systems built from 6.25 MWh units. The facility uses fifth-generation smart manufacturing lines and, the company says, has achieved an industry-first single-line capacity above 15 GWh. Haichen, which focuses on 4–8 hour applications, said its scale will push global lithium long-duration energy storage into large-scale deliveries."
     }
   ]
 }
