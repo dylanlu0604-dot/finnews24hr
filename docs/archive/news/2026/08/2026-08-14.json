@@ -1,7 +1,103 @@
 {
   "date": "2026-08-14",
-  "count": 821,
+  "count": 831,
   "items": [
+    {
+      "id": "mkt:019ffe04-7306-7aab-9033-01a789cfef9c",
+      "time": "2026-08-14 10:05:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "PHILIPPINE C.BANK governor said growth and inf data mean more convincing trends are needed before policy can be eased."
+    },
+    {
+      "id": "mkt:019ffe04-42d7-7aab-9032-fa23509cfc94",
+      "time": "2026-08-14 10:05:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "981.HK",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs: SMIC Q2 results beat expectations, sets HK$135 target price】Goldman Sachs says SMIC reported Q2 revenue of $3.0bn, up 36% YoY and 20% QoQ, above Goldman and market forecasts and exceeding management's QoQ guide of 14–16%. Gross margin was 25.3% versus Goldman/market expectations of 21%/21.4% and management guidance of 20–22%. Goldman attributes the QoQ revenue lift to higher wafer shipments and average selling prices; management links margin improvement to better product mix and higher ASPs. Q3 guidance: revenue +2–4% QoQ, in line with Goldman and the market; gross margin guide 26–28%, above Goldman/market expectations. Goldman maintains a buy rating on SMIC, cites long‑term growth from domestic fabless demand and AI‑related opportunities, and sets a HK$135 target price."
+    },
+    {
+      "id": "5040375",
+      "time": "2026-08-14 10:05:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷莫洛納：我們需要先降低通貨膨脹才能放鬆政策。"
+    },
+    {
+      "id": "5040374",
+      "time": "2026-08-14 10:04:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國家電網資料顯示：託內斯2號核反應堆停運後已恢復併網發電。"
+    },
+    {
+      "id": "mkt:019ffe03-2f59-7aab-9032-f36fbab3bfac",
+      "time": "2026-08-14 10:04:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share defense sector jumped; Chengfei Integration surged to the daily limit, Yaxing Anchor Chain earlier hit its limit, and Chenxi Aviation, Jianglong Shipbuilding, Guoke Military and AVIC Chengfei also advanced."
+    },
+    {
+      "id": "te:markets:575236",
+      "time": "2026-08-14 10:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Set for Mixed Weekly Finish — The Shanghai Composite edged down 0.1% to 3,921 on Friday, while the Shenzhen Component rose 0.4% to 14,345, and was on track for a mixed weekly finish as investors weighed fresh US trade measures targeting China's technology sector. The US imposed a 100% tariff on drone imports and related components, while smaller drones deemed to pose limited security risks will face a 25% tariff. The measures are expected to pressure China's drone industry, where Shenzhen-based DJI Technologies holds about 70% of the US commercial drone market. However, losses were capped by strength in technology and chip stocks after Semiconductor Manufacturing International Corp. (SMIC) reported that its Q2 profit more than tripled from a year earlier, significantly exceeding expectations amid robust demand for AI-related semiconductors. SMIC climbed 3.5%, GigaDevice Semiconductor rose 3.6%, Cambricon Technologies gained 1.3%, Zhongji Innolight advanced 1.0%, and Eoptolink Technology added 1.3%."
+    },
+    {
+      "id": "5040373",
+      "time": "2026-08-14 10:03:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星輝環材成立新公司 含AI及物聯網相關業務】企查查APP顯示，近日，星輝九識（淮安）科技有限公司成立，經營範圍包含人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發；物聯網技術服務；物聯網裝置製造；智慧機器人銷售；智慧機器人的研發等。企查查股權穿透顯示，該公司由星輝環材間接全資持股。"
+    },
+    {
+      "id": "mkt:019ffe02-8c3a-7aab-9032-efcd3c579e69",
+      "time": "2026-08-14 10:03:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHILIPPINE C.BANK governor said he was disappointed by the latest growth data but judged it was not that bad."
+    },
+    {
+      "id": "5040372",
+      "time": "2026-08-14 10:03:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長：對最新增長資料感到失望，但情況並沒有那麼糟糕。"
+    },
+    {
+      "id": "5040371",
+      "time": "2026-08-14 10:02:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長雷莫洛納：經濟增長並不像表面看起來那麼疲軟。"
+    },
     {
       "id": "mkt:019ffe01-5ab2-7aab-9032-e3a8c11ac1e8",
       "time": "2026-08-14 10:02:09",
