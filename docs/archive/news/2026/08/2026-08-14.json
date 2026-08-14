@@ -1,7 +1,109 @@
 {
   "date": "2026-08-14",
-  "count": 1911,
+  "count": 1923,
   "items": [
+    {
+      "id": "5041103",
+      "time": "2026-08-14 17:28:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "技嘉：上半年淨利潤118.7億元新臺幣。"
+    },
+    {
+      "id": "5041102",
+      "time": "2026-08-14 17:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯金股份：終止籌劃收購庫珀新能20%股權重大資產重組】匯金股份公告，公司於2025年8月29日披露籌劃以現金方式購買庫珀新能源股份有限公司20%股權，並受託或受讓不少於31%表決權。鑑於交易各方未能就核心條款達成一致，經一致同意終止本次重大資產重組事項，公司承諾自公告披露之日起至少一個月內不再籌劃重大資產重組。"
+    },
+    {
+      "id": "5041101",
+      "time": "2026-08-14 17:27:44",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【榮盛石化：今年以來硫磺價格中樞持續上移，對公司硫磺業務帶來了積極影響】榮盛石化8月14日在互動平臺表示，公司現有光伏級EVA設計產能60萬噸/年，公司根據市場需求靈活統籌生產安排。另外，公司旗下子公司浙石化及中金石化合計擁有硫磺設計產能約121萬噸/年，產能位居全國前列。今年以來硫磺價格中樞持續上移，對公司硫磺業務帶來了積極影響。未來公司將繼續關注市場動態，最佳化資源配置。"
+    },
+    {
+      "id": "5041100",
+      "time": "2026-08-14 17:26:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁為股份：特定股東減持計劃期限屆滿 累計減持155.61萬股】邁為股份公告稱，特定股東東運創投減持計劃期限（2026年5月14日至8月13日）已屆滿。其以集中競價方式累計減持155.61萬股，佔剔除回購股份後總股本的0.5590%，減持後持有公司股份937.20萬股，佔比3.3664%。本次減持符合相關規定，未超計劃減持數量，不會導致公司控制權變更，不影響公司治理結構及持續經營。"
+    },
+    {
+      "id": "5041099",
+      "time": "2026-08-14 17:25:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天潤乳業：獲政府補助548萬元 預計增2026年淨利潤505.95萬元】天潤乳業公告稱，2026年8月13日，公司及子公司新疆天潤生物科技股份有限公司、阿拉爾新農乳業有限責任公司共收到政府補助548萬元，均為與收益相關的政府補助，佔2025年度經審計歸屬於上市公司股東淨利潤的13.21%。預計將增加公司2026年度歸屬上市公司股東的淨利潤505.95萬元，具體以審計結果為準。"
+    },
+    {
+      "id": "mkt:019fff97-5dfa-7aab-903b-d8a122162754",
+      "time": "2026-08-14 17:25:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China travel: Hangzhou YTD foreign inbound visitors +12% through Aug 14】As of Aug 14, year-to-date passenger traffic at Hangzhou ports of entry exceeded 3.0 mln, broadly flat YoY. Foreign inbound visitors topped 270k, up >12% YoY; visa-free arrivals exceeded 160k, up >20% YoY. Main source markets: South Korea, Vietnam, Singapore and Malaysia."
+    },
+    {
+      "id": "5041098",
+      "time": "2026-08-14 17:25:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【劍橋科技：股票交易異常波動 不存在應披露未披露重大資訊】劍橋科技公告稱，公司A股股票於2026年8月12日、8月13日和8月14日連續三個交易日內日收盤價格漲幅偏離值累計達20%，屬於異常波動。經核查，公司日常經營、市場環境、行業政策未發生重大變化，控股股東、實控人及其一致行動人不存在應披露而未披露的重大資訊。截至公告披露日，不存在影響股價異常波動的重大事宜，相關人員未在異常波動期間買賣公司股票。公司提示投資者關注市場交易和生產經營風險。"
+    },
+    {
+      "id": "5041097",
+      "time": "2026-08-14 17:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：為保護國家利益，我們將對雙重國籍政策採取審慎篩選、分階段實施的做法，並開展誠信審查。"
+    },
+    {
+      "id": "5041096",
+      "time": "2026-08-14 17:25:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：閃迪長期盈利目標超預期 HBF有望開啟AI儲存新空間】高盛在最新研報中表示，閃迪投資者日釋放出強於預期的長期盈利和股東回報訊號，同時HBF（高頻寬快閃記憶體）技術為AI儲存帶來額外增長空間。該行維持“買入”評級及2200美元目標價。"
+    },
+    {
+      "id": "5041095",
+      "time": "2026-08-14 17:25:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“China Travel”持續升溫 今年杭州入境外籍旅客同比增長超12%】2026年暑運進入高峰期，截至今日（8月14日），今年杭州口岸出入境客流量突破300萬人次，口岸流量同比基本持平。其中，入境外籍旅客超27萬人次，同比增長超12%，免簽入境外籍旅客超16萬人次，同比增長超20%，入境外籍旅客主要來自韓國、越南、新加坡、馬來西亞等。（央視新聞）"
+    },
+    {
+      "id": "5041094",
+      "time": "2026-08-14 17:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：政府今日提出修訂法律，允許擁有特殊才幹的印尼人在有限範圍內保留雙重國籍。"
+    },
+    {
+      "id": "te:economy:575424",
+      "time": "2026-08-14 17:24:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Euro Area Posts Surprise Trade Surplus — The Euro Area recorded a trade surplus of €8.6 billion in June 2026, up from €4.8 billion in June 2025 and better than market expectations of a €2.2 billion gap. This was the largest monthly trade surplus since February, as goods exports surged by 14.4% to an over one-year high of €272.5 billion while imports rose at a slower 13.1% to €264 billion. The latest figure represented an improvement of €3.8 billion compared to the same period a year ago, supported primarily by a stronger surplus in chemicals and related products and additional surpluses in other manufactured goods and food and drink, which more than offset the larger energy deficit. The machinery and vehicles surplus also registered a modest improvement."
+    },
     {
       "id": "5041093",
       "time": "2026-08-14 17:24:17",
