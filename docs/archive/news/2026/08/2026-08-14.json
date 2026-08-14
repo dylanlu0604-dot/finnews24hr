@@ -1,7 +1,128 @@
 {
   "date": "2026-08-14",
-  "count": 694,
+  "count": 706,
   "items": [
+    {
+      "id": "mkt:019ffddd-e77b-7aab-9031-d6e863770052",
+      "time": "2026-08-14 09:23:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09698.HK",
+        "Impact bullish"
+      ],
+      "text": "Wanguo Data (09698.HK) shares opened 9.28% higher after the company reported Q2 net profit of 838 mln yuan, reversing a year-earlier loss."
+    },
+    {
+      "id": "5040292",
+      "time": "2026-08-14 09:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度一在建隧道塌方 已致至少7人死亡】當地時間13日，印度北阿坎德邦一在建隧道發生塌方。據當地警方和救援人員透露，事故造成至少7人死亡，另有多人受傷，救援工作還在繼續。"
+    },
+    {
+      "id": "5040291",
+      "time": "2026-08-14 09:22:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放3480億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608143841306065",
+      "time": "2026-08-14 09:21:59",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:019ffddc-82db-7aab-9031-cc412e453010",
+      "time": "2026-08-14 09:21:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "09618.HK",
+        "Impact bearish"
+      ],
+      "text": "JD.com (09618.HK) shares opened down 6.5% after earnings; Q2 2026 net profit CNY 7.1 bln, net margin 2.1%."
+    },
+    {
+      "id": "5040290",
+      "time": "2026-08-14 09:21:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:019ffddc-51bd-7aab-9031-c71563b9d3ac",
+      "time": "2026-08-14 09:21:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Foreign Ministry comments on Ecuador President Noboa's upcoming China visit】China's Foreign Ministry said Ecuador President Daniel Noboa will make his first state visit to China and will hold talks with President Xi Jinping; he will also meet Premier Li Qiang and NPC Standing Committee chairman Zhao Leji. Beijing described Ecuador as a major Latin American partner and a comprehensive strategic partner; the two countries have signed Belt and Road cooperation documents and a free trade agreement. The visit coincides with the 10th anniversary of the comprehensive strategic partnership and is aimed at consolidating political trust and advancing bilateral cooperation."
+    },
+    {
+      "id": "5040289",
+      "time": "2026-08-14 09:21:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "京東港股開盤跌6.5%。"
+    },
+    {
+      "id": "mkt:019ffddb-cf42-7aab-9031-bbd682347802",
+      "time": "2026-08-14 09:21:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "PBOC says, based on primary dealers' demand in open market operations, the 7-day reverse repo on Aug 14, 2026 was zero."
+    },
+    {
+      "id": "mkt:019ffddb-c8ec-7aab-9031-b23de2fdd0ea",
+      "time": "2026-08-14 09:21:07",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong open Aug 14 (Fri): HSI opened down 177.36 pts (-0.7%) at 25,219.15; Hang Seng Tech opened down 28.63 pts (-0.6%) at 4,763.76; Hang Seng China Enterprises Index (HSCEI) opened down 50.02 pts (-0.59%) at 8,376.47; Red Chip Index opened up 2.43 pts (+0.06%) at 4,091.63."
+    },
+    {
+      "id": "5040288",
+      "time": "2026-08-14 09:21:05",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.7％，國企指數跌0.59％，科指開跌0.6%，中芯國際績後開漲4.74%。"
+    },
+    {
+      "id": "mkt:019ffddb-a5c2-7aab-9031-aa559b40b8b1",
+      "time": "2026-08-14 09:20:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong stocks opened lower: the Hang Seng Index fell 0.7% and the Hang Seng Tech Index dropped 0.6%. SMIC (00981.HK) opened up 4.74% post-earnings, guiding Q3 revenue +2–4% QoQ and gross margin of 26–28%."
+    },
     {
       "id": "5040287",
       "time": "2026-08-14 09:19:15",
