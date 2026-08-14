@@ -1,7 +1,54 @@
 {
   "date": "2026-08-14",
-  "count": 1197,
+  "count": 1202,
   "items": [
+    {
+      "id": "5040619",
+      "time": "2026-08-14 13:47:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季淨利潤為臺幣7067.8億元，上年同期為臺幣3974.9億元。"
+    },
+    {
+      "id": "mkt:019ffece-b7e6-7aab-9036-5c027dce94c1",
+      "time": "2026-08-14 13:46:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "300017.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share compute-power leasing sector jumped intraday: DataPort hit limit-up, Wangsu Technology neared limit-up; Caixun, Xingyun Technology, Aofei Data and Litong Electronics also advanced."
+    },
+    {
+      "id": "mkt:019ffece-67a9-7aab-9036-506a37447f67",
+      "time": "2026-08-14 13:46:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations."
+    },
+    {
+      "id": "mkt:019ffecd-fe23-7aab-9036-4ff4d2e06f45",
+      "time": "2026-08-14 13:45:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Interfax reports the Russian defence ministry said it sank two escort vessels that were accompanying ships transporting weapons to Ukraine."
+    },
+    {
+      "id": "5040618",
+      "time": "2026-08-14 13:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "算力租賃概念探底回升，網宿科技漲超17%，行雲科技漲超10%，資料港、奧飛資料、利通電子跟漲。"
+    },
     {
       "id": "5040617",
       "time": "2026-08-14 13:44:36",
