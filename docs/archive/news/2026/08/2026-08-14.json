@@ -1,7 +1,239 @@
 {
   "date": "2026-08-14",
-  "count": 2412,
+  "count": 2434,
   "items": [
+    {
+      "id": "mkt:01a00040-b9cb-7aab-903e-764ea60b2146",
+      "time": "2026-08-14 20:30:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【US retail sales unexpectedly fall m/m】US retail sales -0.6% m/m in July, the largest decline since May last year, below consensus +0.1%."
+    },
+    {
+      "id": "5041530",
+      "time": "2026-08-14 20:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內漲0.45%。"
+    },
+    {
+      "id": "te:markets:575474",
+      "time": "2026-08-14 20:30:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Chinese Yuan Hits 3-1/2-year High — The Chinese Yuan touched 6.74 against the USD, the highest since February 2023. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.41%, and in the last 12 months, it decreased 6.22%."
+    },
+    {
+      "id": "mkt:01a00040-7cdc-7aab-903e-69633592d369",
+      "time": "2026-08-14 20:30:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US July retail sales control group fell 0.4% MoM vs +0.3% expected; June revised down to +0.4% from +0.5%."
+    },
+    {
+      "id": "5041529",
+      "time": "2026-08-14 20:30:21",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大6月批發銷售月率 2.8%，預期2.7%，前值0.00%。\n加拿大6月製造業裝船月率 0.1%，預期-0.1%，前值1.30%。"
+    },
+    {
+      "id": "mkt:01a00040-7444-7aab-903e-6148fdfbf475",
+      "time": "2026-08-14 20:30:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US July core retail sales -0.3% MoM vs +0.2% expected; prior -0.2%."
+    },
+    {
+      "id": "mkt:01a00040-6768-7aab-903e-5abbe0ef233f",
+      "time": "2026-08-14 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada June wholesale sales +2.8% MoM, versus est +2.7%; May unchanged at 0.0%."
+    },
+    {
+      "id": "5041528",
+      "time": "2026-08-14 20:30:12",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國零售銷售月率意外負增長】美國7月零售銷售月率 -0.6%，預期0.1%，前值0.20%。"
+    },
+    {
+      "id": "mkt:01a00040-569d-7aab-903e-52965642870a",
+      "time": "2026-08-14 20:30:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June manufacturing shipments MoM +0.1% (consensus -0.1%); prior +1.3%."
+    },
+    {
+      "id": "mkt:01a00040-562f-7aab-903e-4d187818bebb",
+      "time": "2026-08-14 20:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. July retail sales MoM -0.6% (consensus +0.1%), prior +0.2%."
+    },
+    {
+      "id": "mkt:01a00040-55d1-7aab-903e-4456bd8aa464",
+      "time": "2026-08-14 20:30:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core Retail Sales (MoM) (Jul) | actual -0.3% | consensus 0.20% | previous -0.20%"
+    },
+    {
+      "id": "mkt:01a00040-475d-7aab-903e-3d041a663a7b",
+      "time": "2026-08-14 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (Jun) | actual 2.8% | consensus 2.7% | previous 0.00%"
+    },
+    {
+      "id": "te:markets:575473",
+      "time": "2026-08-14 20:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 4-week High — GBPUSD increased to 1.35, the highest since July 2026. Over the past 4 weeks, British Pound US Dollar gained 0.02%, and in the last 12 months, it decreased 0.02%."
+    },
+    {
+      "id": "mkt:01a00040-34a8-7aab-903e-3241532e5684",
+      "time": "2026-08-14 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Sales (MoM) (Jun) | actual 0.1% | consensus -0.1% | previous 1.30%"
+    },
+    {
+      "id": "mkt:01a00040-31a9-7aab-903e-283d6b1847b4",
+      "time": "2026-08-14 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (MoM) (Jul) | actual -0.6% | consensus 0.1% | previous 0.20%"
+    },
+    {
+      "id": "mkt:01a00040-27e6-7aab-903e-2747b03caa92",
+      "time": "2026-08-14 20:29:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver traded above $65/oz, up 0.85% on the day."
+    },
+    {
+      "id": "5041526",
+      "time": "2026-08-14 20:29:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將2027年能源補貼設定為273萬億印尼盾。"
+    },
+    {
+      "id": "5041524",
+      "time": "2026-08-14 20:28:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尚比亞因暴力事件暫停大選計票】尚比亞選舉委員會14日宣佈，因部分投票站計票過程中發生暴力事件，選舉委員會決定暫停計票。（新華社）"
+    },
+    {
+      "id": "5041523",
+      "time": "2026-08-14 20:28:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安理財上半年實現淨利潤5.53億元】8月14日晚，平安銀行釋出2026年半年度報告顯示，截至2026年6月末，該行全資子公司——平安理財上半年實現淨利潤5.53億元，總資產為148.91億元，淨資產為144.89億元。管理規模方面，該公司存續理財產品餘額為9783.89億元。"
+    },
+    {
+      "id": "5041522",
+      "time": "2026-08-14 20:27:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "龍湖集團上半年核心盈利初步資料5,000萬元人民幣至1.00億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0003d-8208-7aab-903e-1d463649482a",
+      "time": "2026-08-14 20:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX completes acquisition of Cursor."
+    },
+    {
+      "id": "mkt:01a0003d-7919-7aab-903e-15ca8eb820fe",
+      "time": "2026-08-14 20:27:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Ukraine's agriculture minister said Odesa port may remain closed through November, creating a storage-capacity shortfall for farmers of up to 11 million tonnes."
+    },
     {
       "id": "mkt:01a0003d-3cfd-7aab-903e-08fde7c44d82",
       "time": "2026-08-14 20:26:48",
