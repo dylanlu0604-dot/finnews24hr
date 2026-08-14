@@ -1,7 +1,80 @@
 {
   "date": "2026-08-14",
-  "count": 555,
+  "count": 562,
   "items": [
+    {
+      "id": "5040200",
+      "time": "2026-08-14 08:14:07",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日經指數上漲1.8% 電子和科技股領漲】隨著對美聯儲可能加息的擔憂緩解，日本股市在早盤交易中走高。電子和科技股領漲。松下控股上漲4.5%，軟銀集團上漲6%。美元報159.46日元，週四東京股市收盤時為159.39日元。投資者正密切關注伊朗衝突的任何進展以及原油價格。日經指數上漲1.8%，報69,523.56點。"
+    },
+    {
+      "id": "5040199",
+      "time": "2026-08-14 08:13:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股大幅上漲， 鎧俠股價上漲6.9%，軟銀集團上漲6.2%，愛德萬測試上漲6.5%。"
+    },
+    {
+      "id": "5040198",
+      "time": "2026-08-14 08:11:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沈曉明走訪調研藍思科技股份有限公司】據湖南日報，8月13日，湖南省委書記沈曉明在長沙走訪調研藍思科技股份有限公司，瞭解企業規劃佈局，面對面聽取意見建議。他指出，要加強產業鏈協同，構建創新聯合體，著力打造更具競爭力的產業叢集，為推動湖南高質量發展作出更大貢獻。"
+    },
+    {
+      "id": "5040197",
+      "time": "2026-08-14 08:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲縮短工期，100天造一座資料中心】8月12日，阿里雲靈駿真武M890超節點例項正式上線。首發地，就選在烏蘭察布。記者深入烏蘭察布，現場走訪了阿里巴巴資料中心。其作為阿里雲五大超級資料中心之一，綠電佔比約90%，可為高密度算力提供更低碳的執行環境。記者獲悉，在當地，阿里雲透過全模組化設計架構，已將大型AIDC資料中心的交付工期，縮短至100天。（21財經）"
+    },
+    {
+      "id": "te:markets:575212",
+      "time": "2026-08-14 08:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Semiconductor Manufacturing International earnings above expectations at 0.40 CNY — Semiconductor Manufacturing International (688981) released earnings per share at 0.40 CNY, compared to market expectations of 0.26 CNY."
+    },
+    {
+      "id": "te:markets:575211",
+      "time": "2026-08-14 08:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Semiconductor Manufacturing International earnings above expectations at 0.06 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.06 USD, compared to market expectations of 0.04 USD."
+    },
+    {
+      "id": "te:markets:575210",
+      "time": "2026-08-14 08:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "China Mobile earnings above expectations at 1.84 HKD — China Mobile (941) released earnings per share at 1.84 HKD, compared to market expectations of 1.38 HKD."
+    },
     {
       "id": "mkt:019ffd9b-ba8d-7aab-9030-45c21f8952a4",
       "time": "2026-08-14 08:11:09",

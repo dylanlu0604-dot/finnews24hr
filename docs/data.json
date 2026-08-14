@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-14 08:12:10",
-  "count": 15460,
+  "updated": "2026-08-14 08:16:13",
+  "count": 15459,
   "items": [
+    {
+      "id": "5040200",
+      "time": "2026-08-14 08:14:07",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日經指數上漲1.8% 電子和科技股領漲】隨著對美聯儲可能加息的擔憂緩解，日本股市在早盤交易中走高。電子和科技股領漲。松下控股上漲4.5%，軟銀集團上漲6%。美元報159.46日元，週四東京股市收盤時為159.39日元。投資者正密切關注伊朗衝突的任何進展以及原油價格。日經指數上漲1.8%，報69,523.56點。"
+    },
+    {
+      "id": "5040199",
+      "time": "2026-08-14 08:13:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股大幅上漲， 鎧俠股價上漲6.9%，軟銀集團上漲6.2%，愛德萬測試上漲6.5%。"
+    },
+    {
+      "id": "5040198",
+      "time": "2026-08-14 08:11:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沈曉明走訪調研藍思科技股份有限公司】據湖南日報，8月13日，湖南省委書記沈曉明在長沙走訪調研藍思科技股份有限公司，瞭解企業規劃佈局，面對面聽取意見建議。他指出，要加強產業鏈協同，構建創新聯合體，著力打造更具競爭力的產業叢集，為推動湖南高質量發展作出更大貢獻。"
+    },
+    {
+      "id": "5040197",
+      "time": "2026-08-14 08:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲縮短工期，100天造一座資料中心】8月12日，阿里雲靈駿真武M890超節點例項正式上線。首發地，就選在烏蘭察布。記者深入烏蘭察布，現場走訪了阿里巴巴資料中心。其作為阿里雲五大超級資料中心之一，綠電佔比約90%，可為高密度算力提供更低碳的執行環境。記者獲悉，在當地，阿里雲透過全模組化設計架構，已將大型AIDC資料中心的交付工期，縮短至100天。（21財經）"
+    },
+    {
+      "id": "te:markets:575212",
+      "time": "2026-08-14 08:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Semiconductor Manufacturing International earnings above expectations at 0.40 CNY — Semiconductor Manufacturing International (688981) released earnings per share at 0.40 CNY, compared to market expectations of 0.26 CNY."
+    },
+    {
+      "id": "te:markets:575211",
+      "time": "2026-08-14 08:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Semiconductor Manufacturing International earnings above expectations at 0.06 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.06 USD, compared to market expectations of 0.04 USD."
+    },
+    {
+      "id": "te:markets:575210",
+      "time": "2026-08-14 08:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "China Mobile earnings above expectations at 1.84 HKD — China Mobile (941) released earnings per share at 1.84 HKD, compared to market expectations of 1.38 HKD."
+    },
     {
       "id": "mkt:019ffd9b-ba8d-7aab-9030-45c21f8952a4",
       "time": "2026-08-14 08:11:09",
@@ -141444,78 +141517,6 @@
         "中國"
       ],
       "text": "【上半年規模以上工業中小企業增加值同比增長5.8%】據工業和資訊化部訊息，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。今年上半年，規模以上工業中小企業增加值同比增長5.8%，營業收入同比增長7.7%，為2023年以來同期最高水平，利潤總額同比增長16.9%，為2022年以來同期最高水平，生產經營穩步向好，盈利能力持續增強。"
-    },
-    {
-      "id": "5029725",
-      "time": "2026-08-07 08:15:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華民股份與華川半導體簽署戰略合作協議】據華民股份訊息，8月6日，華民股份與華川半導體正式簽署戰略合作協議，雙方將在半導體刻蝕裝置核心矽部件領域展開深度合作，依託各自技術優勢、產業優勢及資源優勢，共同推動半導體裝置自主化與國產替代程序。"
-    },
-    {
-      "id": "5029724",
-      "time": "2026-08-07 08:15:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年規模以上工業中小企業增加值同比增長5.8%】記者今天（7日）從工業和資訊化部瞭解到，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。今年上半年，規模以上工業中小企業增加值同比增長5.8%，營業收入同比增長7.7%，為2023年以來同期最高水平，利潤總額同比增長16.9%，為2022年以來同期最高水平，生產經營穩步向好，盈利能力持續增強。分行業看，31個製造業大類行業中18個行業規模以上中小企業利潤總額保持增長，計算機及通訊電子裝置、有色金屬冶煉和壓延加工業、化學原料和化學制品製造業增速較快，上游及高技術行業利潤高速增長，拉動作用明顯。資料顯示，6月份，中小企業出口指數為52.8%，連續27個月處於擴張區間，其中，專精特新“小巨人”企業表現亮眼，上半年出口交貨值同比增長21.1%，綜合競爭力進一步增強。"
-    },
-    {
-      "id": "5029723",
-      "time": "2026-08-07 08:14:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年規模以上工業中小企業增加值同比增長5.8%】記者今天（7日）從工業和資訊化部瞭解到，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。"
-    },
-    {
-      "id": "mkt:019fd992-ac0e-7aab-8faa-d7c9ee78238a",
-      "time": "2026-08-07 08:14:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "【Above-designated-size industrial SMEs value added +5.8% YoY in 1H】China's Ministry of Industry and Information Technology said on the 7th that in 1H value added of industrial small- and medium-sized enterprises above designated size rose 5.8% YoY. Operating revenue increased 7.7% YoY, the strongest same-period reading since 2023, and total profits rose 16.9% YoY, the strongest since 2022. MIIT said main indicators showed rapid growth and enterprise profitability continued to improve."
-    },
-    {
-      "id": "5029722",
-      "time": "2026-08-07 08:14:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "浦項制鐵未來材料：2027年至2032年間將供應超過19萬噸磷酸鐵鋰正極材料。"
-    },
-    {
-      "id": "5029721",
-      "time": "2026-08-07 08:13:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加0.57噸】截至2026年08月06日，全球最大的黃金ETF SPDR Gold Trust持倉量為1014.72噸，較前一個交易日增加0.57噸。"
-    },
-    {
-      "id": "5029720",
-      "time": "2026-08-07 08:13:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【MiniMax入港股通首日獲內資青睞 淨買入近27億港元位列活躍股首位】資料顯示，在被調入港股通後的第一天交易日，MiniMax獲南向資金淨買入近27億港元，在成交活躍股中位列淨買入首位。MiniMax週四收漲逾17%。南向資金週四也買入建滔積層板、長飛光纖光纜等。南向資金週四整體淨賣出14.6億港元港股，騰訊控股、阿里巴巴、中芯國際等淨賣出額居前。"
-    },
-    {
-      "id": "5029719",
-      "time": "2026-08-07 08:12:58",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金：跨境電商景氣向上 頭部賣家或迎經營反轉】中金公司研報稱，2026年跨境電商景氣向上，跨境電商頭部賣家或迎經營反轉。2020年—2023年疫情背景下海外電商滲透率提升，疊加歐美消費補貼、國內平臺出海等多重催化，跨境電商賣家加速湧入，推動行業競爭加劇；2024年起中美貿易摩擦制約海外業務拓展，加之電商平臺規則收緊、流量扶持退坡、跨境稅收申報及物流監管趨嚴等，行業經營壓力持續抬升，中小賣家壓力凸顯。2026年起，隨貿易環境趨於平穩、庫存壓力消化及尾部企業出清，頭部跨境賣家經營或迎底部反轉，頭部賣家或強者愈強。"
     }
   ]
 }
