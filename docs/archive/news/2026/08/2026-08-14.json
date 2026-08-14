@@ -1,7 +1,59 @@
 {
   "date": "2026-08-14",
-  "count": 2509,
+  "count": 2515,
   "items": [
+    {
+      "id": "5041574",
+      "time": "2026-08-14 20:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白糖期貨連漲三週】倫敦白糖期貨價格料連續第三週上漲，推高煉糖利潤，因市場對供應趨緊的擔憂持續成為焦點。最活躍合約週五下跌，但本週仍有望上漲逾2%，此前在本週早些時候觸及2025年4月以來最高水平。"
+    },
+    {
+      "id": "te:economy:575485",
+      "time": "2026-08-14 20:53:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10 Year Treasury Note Yield at 4.65percent — The yield on the 10-year US Treasury note was at 4.65% on Friday, dropping after testing 19-month highs of 4.75% on Tuesday as recent economic data limited the urgency for the Federal Reserve to raise interest rates. Producer prices were firmly under expectations in July and consumer inflation slowed for a second consecutive month, suggesting that the rebound in energy prices had limited impact on higher price growth. In turn, retail sales unexpectedly contracted in the period, driving part of the market to consider momentary weakness for consumers. Still, the drop in yields were more muted in the longer end of the curve as lingering risks on energy supply maintained inflationary risks in the near term. This was magnified by the trend of a weakening Japanese yen, risking selling pressure from the largest foreign holder of US Treasury notes should the country intervene in the foreign exchange market. Such concerns were reflected by a a sharp tail in the latest 30-year bote auction."
+    },
+    {
+      "id": "5041573",
+      "time": "2026-08-14 20:53:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾艾精工：控股股東簽署補充協議，股份轉讓及要約價格調整為27.54元/股】艾艾精工公告，控股股東蔡瑞美與上海譽升簽署《股份轉讓協議之補充協議》《預受要約協議之補充協議》。因2025年度利潤分配方案實施完畢，本次股份轉讓價格及要約收購價格均由每股人民幣27.62元調整為每股人民幣27.54元；股份轉讓總價款由人民幣10.82億元調整為人民幣10.79億元。目前盡職調查工作已經完成，出讓方已收到繼續推進交易的通知。"
+    },
+    {
+      "id": "mkt:01a00055-17f6-7aab-903f-692e8873ee1b",
+      "time": "2026-08-14 20:52:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【London white sugar futures up third week; refining margins widen】London white sugar futures rose for a third consecutive week, trimming a Friday dip and finishing the week more than 2% higher after earlier hitting the strongest level since April 2025. The move has widened the refined-vs-raw sugar premium, a key indicator of refining profitability; a spread above $100/t is typically a strong incentive to process. Refined supplies are expected to tighten in the 2026-27 season beginning in October as smaller crops in Europe and India curb exports, and Czarnikow warns the global deficit could widen further in 2027-28 if cane and beet area falls. Open interest climbed with prices, suggesting fresh buying rather than only short-covering, according to Paris broker Deepcore. Offsetting factors: Brazilian raw sugar supply remains ample and weak import demand keeps near-term availability comfortable, while the current white sugar premium to ethanol could encourage mills to produce more sugar."
+    },
+    {
+      "id": "5041572",
+      "time": "2026-08-14 20:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【布魯塞爾中央火車站附近發生爆炸 3人受傷】當地時間14日，比利時首都布魯塞爾中央火車站附近發生爆炸，已致3人受傷，近百人被疏散。（央視新聞）"
+    },
+    {
+      "id": "5041571",
+      "time": "2026-08-14 20:50:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華髮股份：向特定物件發行股票申請獲上交所受理】華髮股份公告，公司於2026年8月14日收到上海證券交易所出具的《關於受理珠海華髮實業股份有限公司滬市主機板上市公司發行證券申請的通知》。上交所對公司報送的滬市主機板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為該項申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。公司本次向特定物件發行股票事項尚需透過上交所稽核，並獲得中國證監會做出同意註冊的決定後方可實施。"
+    },
     {
       "id": "5041570",
       "time": "2026-08-14 20:50:25",

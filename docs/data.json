@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-14 20:51:51",
-  "count": 15327,
+  "updated": "2026-08-14 21:00:40",
+  "count": 15311,
   "items": [
+    {
+      "id": "5041574",
+      "time": "2026-08-14 20:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白糖期貨連漲三週】倫敦白糖期貨價格料連續第三週上漲，推高煉糖利潤，因市場對供應趨緊的擔憂持續成為焦點。最活躍合約週五下跌，但本週仍有望上漲逾2%，此前在本週早些時候觸及2025年4月以來最高水平。"
+    },
+    {
+      "id": "te:economy:575485",
+      "time": "2026-08-14 20:53:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10 Year Treasury Note Yield at 4.65percent — The yield on the 10-year US Treasury note was at 4.65% on Friday, dropping after testing 19-month highs of 4.75% on Tuesday as recent economic data limited the urgency for the Federal Reserve to raise interest rates. Producer prices were firmly under expectations in July and consumer inflation slowed for a second consecutive month, suggesting that the rebound in energy prices had limited impact on higher price growth. In turn, retail sales unexpectedly contracted in the period, driving part of the market to consider momentary weakness for consumers. Still, the drop in yields were more muted in the longer end of the curve as lingering risks on energy supply maintained inflationary risks in the near term. This was magnified by the trend of a weakening Japanese yen, risking selling pressure from the largest foreign holder of US Treasury notes should the country intervene in the foreign exchange market. Such concerns were reflected by a a sharp tail in the latest 30-year bote auction."
+    },
+    {
+      "id": "5041573",
+      "time": "2026-08-14 20:53:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾艾精工：控股股東簽署補充協議，股份轉讓及要約價格調整為27.54元/股】艾艾精工公告，控股股東蔡瑞美與上海譽升簽署《股份轉讓協議之補充協議》《預受要約協議之補充協議》。因2025年度利潤分配方案實施完畢，本次股份轉讓價格及要約收購價格均由每股人民幣27.62元調整為每股人民幣27.54元；股份轉讓總價款由人民幣10.82億元調整為人民幣10.79億元。目前盡職調查工作已經完成，出讓方已收到繼續推進交易的通知。"
+    },
+    {
+      "id": "mkt:01a00055-17f6-7aab-903f-692e8873ee1b",
+      "time": "2026-08-14 20:52:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【London white sugar futures up third week; refining margins widen】London white sugar futures rose for a third consecutive week, trimming a Friday dip and finishing the week more than 2% higher after earlier hitting the strongest level since April 2025. The move has widened the refined-vs-raw sugar premium, a key indicator of refining profitability; a spread above $100/t is typically a strong incentive to process. Refined supplies are expected to tighten in the 2026-27 season beginning in October as smaller crops in Europe and India curb exports, and Czarnikow warns the global deficit could widen further in 2027-28 if cane and beet area falls. Open interest climbed with prices, suggesting fresh buying rather than only short-covering, according to Paris broker Deepcore. Offsetting factors: Brazilian raw sugar supply remains ample and weak import demand keeps near-term availability comfortable, while the current white sugar premium to ethanol could encourage mills to produce more sugar."
+    },
+    {
+      "id": "5041572",
+      "time": "2026-08-14 20:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【布魯塞爾中央火車站附近發生爆炸 3人受傷】當地時間14日，比利時首都布魯塞爾中央火車站附近發生爆炸，已致3人受傷，近百人被疏散。（央視新聞）"
+    },
+    {
+      "id": "5041571",
+      "time": "2026-08-14 20:50:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華髮股份：向特定物件發行股票申請獲上交所受理】華髮股份公告，公司於2026年8月14日收到上海證券交易所出具的《關於受理珠海華髮實業股份有限公司滬市主機板上市公司發行證券申請的通知》。上交所對公司報送的滬市主機板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為該項申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。公司本次向特定物件發行股票事項尚需透過上交所稽核，並獲得中國證監會做出同意註冊的決定後方可實施。"
+    },
     {
       "id": "5041570",
       "time": "2026-08-14 20:50:25",
@@ -140051,238 +140103,6 @@
         "其他"
       ],
       "text": "Susquehanna將西部資料股票目標價格從500美元上調至525美元。"
-    },
-    {
-      "id": "5031212",
-      "time": "2026-08-07 21:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯7月份外匯儲備降至7203.5億美元。"
-    },
-    {
-      "id": "mkt:019fdc4f-520c-7aab-8fba-fd079299f55d",
-      "time": "2026-08-07 21:00:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Night session open: China's most-active futures contracts were mostly higher. Shanghai silver rose over 4% and Shanghai gold gained more than 2%. Ethylene glycol and stainless steel advanced over 1%; Shanghai nickel and tin up about 1%. Shanghai zinc and SC crude fell nearly 1%."
-    },
-    {
-      "id": "mkt:019fdc4f-4ee4-7aab-8fba-f66a563b7055",
-      "time": "2026-08-07 21:00:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungarian Prime Minister Magyar said the expansion cost of the Paks II nuclear power plant is now twice the original estimate."
-    },
-    {
-      "id": "5031211",
-      "time": "2026-08-07 21:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲1%，現報893.00元。"
-    },
-    {
-      "id": "5031210",
-      "time": "2026-08-07 21:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛約爾表示，保克什二號核電站擴建專案目前的造價已是最初預估的兩倍。"
-    },
-    {
-      "id": "mkt:019fdc4f-3afc-7aab-8fba-e8c5a8d59d8d",
-      "time": "2026-08-07 21:00:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【July global food price index highest since Jan 2023】The UN Food and Agriculture Organization said in a July 7 report its global food price index rose 0.6% MoM to 131.1 in July, the highest since January 2023 and 18.2% below the March 2022 peak. The cereals index climbed 3.4% MoM: wheat +5.8% on Black Sea export disruptions and heat in major producing areas; maize +3.6% amid US heat/drought and firmer energy prices; rice was broadly stable. The vegetable oils index gained 2.0% MoM to a high not seen since June 2022 as palm and soybean oil tracked higher crude; sugar rose 5.6% MoM on European heat and drought. Meat and dairy prices fell 2.8% and 0.7% MoM, respectively."
-    },
-    {
-      "id": "5031209",
-      "time": "2026-08-07 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲4%，現報15878.00元。"
-    },
-    {
-      "id": "5031208",
-      "time": "2026-08-07 21:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】白銀連續漲4.49%，多晶矽連續漲2.95%，黃金連續漲2.45%，工業矽連續漲1.91%，雞蛋連續漲1.72%。"
-    },
-    {
-      "id": "5031207",
-      "time": "2026-08-07 20:59:37",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【疲弱就業資料削弱美聯儲加息押注，美國國債上漲】美國僱主7月意外削減就業崗位，表明勞動力市場面臨挑戰，可能影響美聯儲加息的意願，美國國債隨之上漲。對美聯儲貨幣政策短期調整較為敏感的兩年期美國國債收益率週五下跌8個基點，至4.16%，因市場削減了對未來幾個月加息的押注。10年期美債收益率下跌6個基點，至4.62%。美國勞工統計局週五公佈的資料顯示，7月非農就業人數減少2.3萬人，此前兩個月的資料也遭大幅下修。失業率降至4.1%，與此同時勞動參與率繼續下降。資料表明，在今年早些時候表現出乎意料強勁後，勞動力市場可能正面臨挑戰。“就業報告的總體數字為負，完全令人震驚，”Mischler金融集團Tom di Galoma表示，“我猜美聯儲9月份不會收緊政策了。”"
-    },
-    {
-      "id": "mkt:019fdc4e-bc99-7aab-8fba-e301cecdcd7c",
-      "time": "2026-08-07 20:59:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Weak jobs data cuts Fed rate-hike bets; U.S. Treasuries rally】U.S. employers unexpectedly cut payrolls in July, denting expectations for further Fed tightening and sending Treasuries higher. The two-year Treasury yield, most sensitive to Fed policy, fell 8bp to 4.16% on Friday as markets trimmed odds of near-term hikes. The 10-year yield declined 6bp to 4.62%. BLS data showed nonfarm payrolls fell 23,000 in July, with substantial downward revisions to the prior two months. The unemployment rate eased to 4.1% while the labor force participation rate continued to decline. Market participants said the report reduced the likelihood of a Fed rate increase in September."
-    },
-    {
-      "id": "mkt:019fdc4e-ac8e-7aab-8fba-d842e3535f3b",
-      "time": "2026-08-07 20:59:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "New York Times economics reporter Ben Casselman says July saw employer job cuts and May–June payrolls were revised down. The earlier hiring surge this year appears to have largely evaporated; the three-month average payroll gain is just 20,000 jobs per month."
-    },
-    {
-      "id": "5031206",
-      "time": "2026-08-07 20:59:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，8月6日美國實際有效聯邦基金利率為3.63%，當日交易額為1130億美元；8月5日有效聯邦基金利率同樣為3.63%，當日交易額為1140億美元。"
-    },
-    {
-      "id": "5031205",
-      "time": "2026-08-07 20:58:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日元匯率再次突然跳漲】最新訊息：今天（8月7日），在疲軟的美國就業資料公佈後，日元兌美元匯率再次突然跳漲：美元一度下跌1.1%，至1美元兌156.68日元。目前尚不清楚是什麼推動了這一市場波動，也不確定日本是否再次入市干預。 日本財務大臣片山皋月和美國財長貝森特8月3日確認，日美於美東時間7月31日聯合干預外匯市場，支撐日元匯率。干預後，日元匯率一度升至1美元兌換155日元區間，但今天早些時候已回落至1美元兌換158日元區間。（CCTV國際時訊）"
-    },
-    {
-      "id": "5031204",
-      "time": "2026-08-07 20:57:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報告：DOGE宣稱為美國納稅人節省1100億美元缺乏依據】埃隆・馬斯克牽頭的政府效率部（DOGE）去年啟動削減聯邦政府開支工作時，同步上線了一個網站，用以展示該部門所稱、為納稅人節省的資金規模。 美國政府問責局（GAO）最新審查報告指出，該網站宣稱已經為納稅人節省1100億美元的說法嚴重誇大，資料缺乏可信度。 報告顯示，對於其公示的、撤銷各類補助所產生的節約金額中，96%的專案，政府效率部無法提供充分資料予以核實。 報告稱，儘管該部門承諾保持資訊透明，但約半數公示節約金額，並未按照其對外宣稱的統計方法進行核算。"
-    },
-    {
-      "id": "te:economy:573816",
-      "time": "2026-08-07 20:57:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Fall Sharply After Weak Jobs Report — The yield on the US 10-year Treasury note fell sharply by 7 basis points to 4.6% on Friday after a weaker-than-expected jobs report scaled back bets on Fed rate hikes. Nonfarm payrolls unexpectedly declined by 23,000 last month, while figures for May and June were also revised sharply lower by a combined 103,000. Meanwhile, the unemployment rate fell to 4.1% from 4.2%, suggesting the labor market is facing renewed challenges after showing surprising strength earlier this year. The odds of a Fed rate hike in September fell to 42%, from 58% yesterday, while expectations for rate increases by December declined to 28 basis points from 32 basis points earlier. On Thursday, a Financial Times report said Fed Chair Warsh is set to stick with the central bank’s lean messaging despite the market backlash. Still, he would be prepared to raise rates in September if inflation readings released in the coming weeks come in hot, the FT reported."
-    },
-    {
-      "id": "mkt:019fdc4c-792c-7aab-8fba-d1c763786d94",
-      "time": "2026-08-07 20:57:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Pressure to hike shifts to Aug. 12 U.S. CPI report】The Federal Reserve's next focal point is the U.S. consumer price index due Aug. 12. An unexpectedly hot print would intensify debate over a rate hike at the Fed's mid-September meeting."
-    },
-    {
-      "id": "5031203",
-      "time": "2026-08-07 20:56:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本二季度3次干預匯市，未能扭轉日元頹勢】8月7日，日本財務省公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。（澎湃）"
-    },
-    {
-      "id": "te:markets:573815",
-      "time": "2026-08-07 20:55:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Sterling Strengthens to Over 3-Week High — The British pound rose to $1.350 on Friday, its highest level since July 15, while the dollar weakened sharply as investors reduced expectations of a Federal Reserve rate hike in September following a weaker-than-expected US jobs report. Also, easing oil prices reduced concerns over inflation and the potential impact of higher energy costs on the UK economy. President Donald Trump said negotiations between Iran and Oman over the Strait of Hormuz were “moving along,” although a deal has yet to be finalized as details remain under discussion in Tehran. A reopening of the strategic waterway could support energy flows and potentially pave the way for broader talks to end the conflict. Lower energy prices have reinforced expectations that the Bank of England will maintain a gradual approach to monetary policy. At its latest meeting, the BoE left rates unchanged, while Governor Andrew Bailey said the disinflation process remained on track despite ongoing external uncertainties."
-    },
-    {
-      "id": "5031202",
-      "time": "2026-08-07 20:55:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“白海豚”單日最多影響25個機場】颱風“白海豚”將沿“臺灣北部—浙江沿海—安徽內陸”移動，根據航班管家DAST颱風預測資料，8月9日至11日為主要影響時段，單日最多或有25個機場進入影響範圍。其中8月8日影響12個機場，以浙江、臺灣為主；8月9日增至24個，影響向安徽擴充套件； 8月10日影響25個機場，浙江、安徽最集中；8月11日覆蓋範圍最廣，波及8省，安徽7個機場受影響，南昌、武漢也將進入影響範圍； 8月12日颱風減弱，影響縮減至15個機場，主要集中在安徽及周邊。重點關注杭州、寧波、溫州、上海浦東、上海虹橋、南京等千萬級機場。其中杭州、寧波、溫州及上海浦東預計連續受影響3天。（第一財經）"
-    },
-    {
-      "id": "5031201",
-      "time": "2026-08-07 20:55:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利特米：預計2026年上半年淨利潤逾700萬令吉，同比增加】利特米公告，預計截至2026年6月30日止六個月，公司權益擁有人應占溢利將增加至逾700萬令吉，相對截至2025年6月30日止六個月約為520萬令吉。董事會認為，有關改善主要受惠於成功推出一系列新產品帶動收益增加、毛利隨銷售增加而上升以及毛利率改善，及與海南省文昌市之投資有關的專案支出減少。"
-    },
-    {
-      "id": "mkt:019fdc49-1cdb-7aab-8fba-cb3194311090",
-      "time": "2026-08-07 20:53:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungary's prime minister magyar said the government will launch a tender for 700 MW of wind power capacity before Aug. 31."
-    },
-    {
-      "id": "5031200",
-      "time": "2026-08-07 20:52:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【創系列指數矩陣擴容！16家公募上報創業板算力、金融科技ETF】證監會官網顯示，多家基金管理人集中上報了創業板算力基礎設施ETF及創業板金融科技ETF產品。其中，申報創業板算力ETF的有易方達、華夏、南方、廣發、富國、國泰、嘉實、天弘、鵬華和大成基金；申報創業板金融科技ETF的則有景順長城、華泰柏瑞、萬家、東財、長城和建信基金。"
     }
   ]
 }
