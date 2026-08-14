@@ -1,7 +1,95 @@
 {
   "date": "2026-08-15",
-  "count": 287,
+  "count": 297,
   "items": [
+    {
+      "id": "5041983",
+      "time": "2026-08-15 04:39:57",
+      "tags": [
+        "資料"
+      ],
+      "text": "市場訊息：DIANA SHIPPING撤回了對GENCO SHIPPING的收購要約。"
+    },
+    {
+      "id": "mkt:01a00200-5ff0-7aab-9045-e2644f757c41",
+      "time": "2026-08-15 04:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvard University disclosed a US$2.2 billion holding in SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5041982",
+      "time": "2026-08-15 04:39:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案顯示，英特爾(INTC.O)CEO陳立武於8月11日在公開市場以平均每股95美元的價格購買了105,263股英特爾股票。"
+    },
+    {
+      "id": "mkt:01a001ff-896d-7aab-9045-de1176f3c3bd",
+      "time": "2026-08-15 04:38:39",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 105,263 shares in the open market on Aug. 11 at an average price of $95 per share."
+    },
+    {
+      "id": "5041981",
+      "time": "2026-08-15 04:35:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【索羅斯第二季度新建Nebius等頭寸】索羅斯在第二季度新建了美國電力（AEP）、Nebius集團（NBIS）、Apogee Therapeutics（APGE）、DigitalBridge集團（DBRG）、Taylor Morrison住宅（TMHC）的頭寸；清倉了賽富時（CRM）、Penumbra（PEN）、Select Medical控股（SEM）、格芯（GFS）、Clear Channel戶外廣告（CCO）。"
+    },
+    {
+      "id": "te:markets:575541",
+      "time": "2026-08-15 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index dropped 108 points or 0.20 percent on Friday to close at 53732 points. Losses were led by Salesforce (-2.25%), Cisco Systems (-1.67%) and Amgen (-1.28%). Offsetting the fall, top gainers were Walt Disney (2.05%), Chevron (1.16%) and UnitedHealth (0.61%)."
+    },
+    {
+      "id": "5041980",
+      "time": "2026-08-15 04:34:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心預測，拉拉颶風將於週六給夏威夷大島帶來颶風天氣。"
+    },
+    {
+      "id": "5041979",
+      "time": "2026-08-15 04:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈佛大學披露持有SpaceX價值22億美元的股權。"
+    },
+    {
+      "id": "5041978",
+      "time": "2026-08-15 04:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風赫爾南幾乎停滯不前，並減弱為熱帶低氣壓。"
+    },
+    {
+      "id": "5041977",
+      "time": "2026-08-15 04:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美對古戰略側重經濟制裁而非軍事選項】據美國彭博社14日報道，特朗普政府對古巴的戰略正日益側重於加大經濟制裁和施壓，而非部署軍事力量。報道援引不願透露姓名的知情人士的話說，美方目前關注重點在於切斷古巴政權的所有收入來源，而不是採取類似今年1月針對委內瑞拉總統馬杜羅的那種軍事行動，並稱該戰略“旨在製造內部分裂，為談判創造空間”。（新華社）"
+    },
     {
       "id": "mkt:01a001f9-62a0-7aab-9045-d2c8025ec6c9",
       "time": "2026-08-15 04:31:55",

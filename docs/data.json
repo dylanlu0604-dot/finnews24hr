@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-15 04:34:04",
-  "count": 15285,
+  "updated": "2026-08-15 04:43:19",
+  "count": 15280,
   "items": [
+    {
+      "id": "5041983",
+      "time": "2026-08-15 04:39:57",
+      "tags": [
+        "資料"
+      ],
+      "text": "市場訊息：DIANA SHIPPING撤回了對GENCO SHIPPING的收購要約。"
+    },
+    {
+      "id": "mkt:01a00200-5ff0-7aab-9045-e2644f757c41",
+      "time": "2026-08-15 04:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvard University disclosed a US$2.2 billion holding in SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5041982",
+      "time": "2026-08-15 04:39:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案顯示，英特爾(INTC.O)CEO陳立武於8月11日在公開市場以平均每股95美元的價格購買了105,263股英特爾股票。"
+    },
+    {
+      "id": "mkt:01a001ff-896d-7aab-9045-de1176f3c3bd",
+      "time": "2026-08-15 04:38:39",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 105,263 shares in the open market on Aug. 11 at an average price of $95 per share."
+    },
+    {
+      "id": "5041981",
+      "time": "2026-08-15 04:35:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【索羅斯第二季度新建Nebius等頭寸】索羅斯在第二季度新建了美國電力（AEP）、Nebius集團（NBIS）、Apogee Therapeutics（APGE）、DigitalBridge集團（DBRG）、Taylor Morrison住宅（TMHC）的頭寸；清倉了賽富時（CRM）、Penumbra（PEN）、Select Medical控股（SEM）、格芯（GFS）、Clear Channel戶外廣告（CCO）。"
+    },
+    {
+      "id": "te:markets:575541",
+      "time": "2026-08-15 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index dropped 108 points or 0.20 percent on Friday to close at 53732 points. Losses were led by Salesforce (-2.25%), Cisco Systems (-1.67%) and Amgen (-1.28%). Offsetting the fall, top gainers were Walt Disney (2.05%), Chevron (1.16%) and UnitedHealth (0.61%)."
+    },
+    {
+      "id": "5041980",
+      "time": "2026-08-15 04:34:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心預測，拉拉颶風將於週六給夏威夷大島帶來颶風天氣。"
+    },
+    {
+      "id": "5041979",
+      "time": "2026-08-15 04:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈佛大學披露持有SpaceX價值22億美元的股權。"
+    },
+    {
+      "id": "5041978",
+      "time": "2026-08-15 04:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風赫爾南幾乎停滯不前，並減弱為熱帶低氣壓。"
+    },
+    {
+      "id": "5041977",
+      "time": "2026-08-15 04:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美對古戰略側重經濟制裁而非軍事選項】據美國彭博社14日報道，特朗普政府對古巴的戰略正日益側重於加大經濟制裁和施壓，而非部署軍事力量。報道援引不願透露姓名的知情人士的話說，美方目前關注重點在於切斷古巴政權的所有收入來源，而不是採取類似今年1月針對委內瑞拉總統馬杜羅的那種軍事行動，並稱該戰略“旨在製造內部分裂，為談判創造空間”。（新華社）"
+    },
     {
       "id": "mkt:01a001f9-62a0-7aab-9045-d2c8025ec6c9",
       "time": "2026-08-15 04:31:55",
@@ -139772,141 +139860,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Falls on Earnings Weakness — The Ibovespa fell 1.7% to close at 177,513 on Friday amid another batch of second-quarter 2026 earnings reports. Petrobras shed 3%, erasing earlier gains despite delivering one of its strongest earnings reports in recent quarters and beating expectations, as much of the strong performance had already been priced in and uncertainty remained over its sustainability. Localiza also fell 0.8% despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Magazine Luiza dropped 3.7% following weak results and concerns over profitability, while Renner plunged 8.1% after cutting its guidance amid concerns about sales. Elsewhere, Vale fell 0.6% despite higher iron ore prices. Banks also declined broadly, led by Bradesco, down 2.2%, and Itaú Unibanco, which fell 2.6% ahead of the release of the Copom minutes on Tuesday, which are expected to provide further insight into the monetary authority's outlook for the Selic rate."
-    },
-    {
-      "id": "5031631",
-      "time": "2026-08-08 04:41:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團：Crypto.com、特朗普媒體、Yorkville America已共同同意不再推進此前宣佈的合作關係。"
-    },
-    {
-      "id": "5031630",
-      "time": "2026-08-08 04:40:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團已終止與Crypto.com的業務合併協議，於2026年8月7日生效。"
-    },
-    {
-      "id": "5031629",
-      "time": "2026-08-08 04:40:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團：YORKVILLE AMERICA的業務及其現有和未來ETF產品的計劃保持不變。"
-    },
-    {
-      "id": "5031628",
-      "time": "2026-08-08 04:38:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團：將調整協議方向，面向Truth Social使用者群體推廣Crypto.com的預測市場業務。"
-    },
-    {
-      "id": "5031627",
-      "time": "2026-08-08 04:38:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：加密貨幣平臺Crypto.com與特朗普傳媒科技集團將整合合作伙伴關係調整為營銷協議。"
-    },
-    {
-      "id": "5031626",
-      "time": "2026-08-08 04:36:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪關於貝南的評級觀點：根深蒂固的信貸約束將持續存在，包括與同類經濟體相比，貝南的收入水平和政府財政收入均處於低位。"
-    },
-    {
-      "id": "5031625",
-      "time": "2026-08-08 04:36:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級將貝南評級上調至 Ba3，展望調整為穩定。"
-    },
-    {
-      "id": "te:markets:573884",
-      "time": "2026-08-08 04:36:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises but Posts Weekly Loss on Hormuz Uncertainty — Brent crude oil rose above $83 per barrel on Friday, but still recorded a more than 7% decline over the week. Prices remained highly sensitive to developments surrounding a potential Iran-Oman agreement to restore shipping through the Strait of Hormuz, which could return millions of barrels of Middle Eastern oil to global markets. Oil reversed some gains in post-settlement trading after reports that the US could lift its naval blockade once commercial shipping through the strait resumes without restrictions. However, uncertainty persisted, with Abu Dhabi National Oil Co. reporting attacks on three vessels transiting Hormuz and Iran reportedly targeting vessels it considers hostile. President Donald Trump maintained that negotiations were progressing, but differences remain over conditions for reopening the waterway. Meanwhile, Iran-backed Houthis claimed a large-scale attack against Saudi-aligned forces in Yemen."
-    },
-    {
-      "id": "5031624",
-      "time": "2026-08-08 04:36:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級確認羅馬尼亞 Baa3 評級。"
-    },
-    {
-      "id": "5031623",
-      "time": "2026-08-08 04:36:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪：本次上調評級反映出過去幾年貝南信用狀況各方面逐步改善。"
-    },
-    {
-      "id": "5031622",
-      "time": "2026-08-08 04:35:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪對貝南的評級展望：穩定展望反映出我們預期貝南的政策以及政府改革議程將保持連續性。"
-    },
-    {
-      "id": "5031621",
-      "time": "2026-08-08 04:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Expion360：仍按計劃於2026年下半年推出首款下一代鋰電池。"
-    },
-    {
-      "id": "te:markets:573883",
-      "time": "2026-08-08 04:35:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rises but Posts Weekly Loss on Hormuz Uncertainty — Crude oil rose about 1% to settle at $78.18 per barrel on Friday, but still recorded a more than 7% decline over the week. Prices remained highly sensitive to developments surrounding a potential Iran-Oman agreement to restore shipping through the Strait of Hormuz, which could return millions of barrels of Middle Eastern oil to global markets. Oil reversed some gains in post-settlement trading after reports that the US could lift its naval blockade once commercial shipping through the strait resumes without restrictions. However, uncertainty persisted, with Abu Dhabi National Oil Co. reporting attacks on three vessels transiting Hormuz and Iran reportedly targeting vessels it considers hostile. President Donald Trump maintained that negotiations were progressing, but differences remain over conditions for reopening the waterway. Meanwhile, Iran-backed Houthis claimed a large-scale attack against Saudi-aligned forces in Yemen."
-    },
-    {
-      "id": "te:markets:573882",
-      "time": "2026-08-08 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.28% Higher — The Dow Jones Index gained 152 points or 0.28 percent on Friday to close at 54037 points. Gains were led by Salesforce (2.47%), Nvidia (2.33%) and Honeywell International (2.28%). Biggest losers were Visa (-2.20%), Chevron (-1.49%) and Caterpillar (-1.46%)."
-    },
-    {
-      "id": "5031620",
-      "time": "2026-08-08 04:34:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一名美國水兵在梅森號導彈驅逐艦（DDG‑87）的作戰資訊中心值守，該艦正在區域海域航行，執行美國針對伊朗港口及沿岸地區的封鎖任務。截至 8 月 XX 日，中央司令部部隊已調轉 51 艘商船航向，使 2 艘船隻喪失行動能力，並登檢 2 艘船隻，確保相關規定得到遵守。”"
     }
   ]
 }
