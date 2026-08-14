@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-14 11:04:32",
-  "count": 15479,
+  "updated": "2026-08-14 11:08:19",
+  "count": 15481,
   "items": [
+    {
+      "id": "mkt:019ffe3c-9f4e-7aab-9033-f02253a0db9e",
+      "time": "2026-08-14 11:06:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon."
+    },
+    {
+      "id": "5040452",
+      "time": "2026-08-14 11:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。"
+    },
+    {
+      "id": "5040451",
+      "time": "2026-08-14 11:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。"
+    },
+    {
+      "id": "5040450",
+      "time": "2026-08-14 11:05:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。"
+    },
+    {
+      "id": "te:markets:575248",
+      "time": "2026-08-14 11:05:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week."
+    },
+    {
+      "id": "5040449",
+      "time": "2026-08-14 11:05:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對具有影片功能的電子裝置的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定具有影片功能的電子裝置（Certain Video-Capable Electronic Devices，調查編碼：337-TA-1481）作出337部分終裁：對本案行政法官於2026年7月17日作出的初裁（No.18）不予複審，即基於仲裁協議（arbitration agreement），終止本案調查。"
+    },
+    {
+      "id": "5040448",
+      "time": "2026-08-14 11:04:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對開放式耳機的337部分終裁】據中國貿易救濟資訊網訊息，2026年8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定開放式耳機（Certain Open-Ear Earpiece Devices，調查編碼：337-TA-1470）作出337部分終裁：對本案行政法官於2026年7月15日作出的初裁（No.15）不予複審，即基於申請方撤回，部分終止本案對無法聯絡的應訴方（the“Unreachable Respondents”）的調查。"
+    },
     {
       "id": "mkt:019ffe39-5230-7aab-9033-eee2139f5511",
       "time": "2026-08-14 11:03:17",
@@ -141642,47 +141705,6 @@
         "其他"
       ],
       "text": "本田中國1-7月汽車銷量230870輛，同比下降35.9%。"
-    },
-    {
-      "id": "5029961",
-      "time": "2026-08-07 11:08:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【臺積電研發二維電晶體新技術，突破先進半導體材料介面瓶頸】臺灣陽明交通大學與臺積電企業研發團隊在二維半導體領域取得新進展，提出一種原子級介面工程技術，可在縮小電晶體尺寸的同時保持高電氣效能，有望推動下一代低功耗半導體技術發展。相關研究成果發表於《自然·電子學》。研究團隊表示，二維半導體材料僅有單原子厚度，具備優異電學特性，被視為超越矽基晶片限制的潛在材料。但在製造電晶體時，超薄絕緣層與半導體之間的介面容易產生缺陷，導致電子散射，使電晶體效能提升面臨瓶頸。研究人員透過在單層二硫化鉬（MoS₂）半導體表面構建超薄氧化鋁介面層，再結合高介電常數氧化鉿柵介質，改善材料介面質量，使電晶體同時實現更強電控能力和較高載流子遷移效能。"
-    },
-    {
-      "id": "5029960",
-      "time": "2026-08-07 11:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田中國7月汽車銷量25052輛，同比下降44.1%。"
-    },
-    {
-      "id": "5029959",
-      "time": "2026-08-07 11:06:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量523億元。"
-    },
-    {
-      "id": "5029958",
-      "time": "2026-08-07 11:05:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張朝陽：人更需要出來交流，AI讓內容產生了塑膠感】搜狐創始人、董事局主席兼執行長張朝陽在接受採訪時表示，真人互動與真實內容是AI永遠替代不了的。資訊獲取和真人的溝通是兩回事，AI目前取代不了人類交流。在資訊海洋裡，人更需要出來交流。AI時代，真實互動的環境更加難能可貴。聊到內容從業者的AI焦慮，他用一個比喻做了回應：“現在AI產生的東西，讓媒體和內容產生了塑膠的感覺。就像化肥催出來的西紅柿，看著光鮮，吃著一點味道都沒有；帶點泥的胡蘿蔔，看著不是那麼好看，但是很好吃、有味道。”（介面新聞）"
-    },
-    {
-      "id": "mkt:019fda2e-a9fd-7aab-8fae-ca481ee6def2",
-      "time": "2026-08-07 11:05:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Reported detention of ex-ultimate controller Ai Luming; SanTe Cableway says unaware, operations normal】SanTe Cableway said it is unaware of reports that former ultimate controller Ai Luming has been criminally detained, that Ai has no control or controlled relationship with the company, and that operations are normal. The company said all non-operating fund occupancies, together with corresponding interest, were repaid in cash in April 2022. SanTe Cableway returned to state ownership in 2023 and has reported three consecutive years of net profit growth. Media reports on Aug. 5 cited a lawyer saying Ai was detained on suspicion of illegally absorbing public deposits; the lawyer’s post has been deleted."
     }
   ]
 }

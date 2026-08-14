@@ -1,7 +1,70 @@
 {
   "date": "2026-08-14",
-  "count": 939,
+  "count": 946,
   "items": [
+    {
+      "id": "mkt:019ffe3c-9f4e-7aab-9033-f02253a0db9e",
+      "time": "2026-08-14 11:06:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon."
+    },
+    {
+      "id": "5040452",
+      "time": "2026-08-14 11:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。"
+    },
+    {
+      "id": "5040451",
+      "time": "2026-08-14 11:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。"
+    },
+    {
+      "id": "5040450",
+      "time": "2026-08-14 11:05:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。"
+    },
+    {
+      "id": "te:markets:575248",
+      "time": "2026-08-14 11:05:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week."
+    },
+    {
+      "id": "5040449",
+      "time": "2026-08-14 11:05:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對具有影片功能的電子裝置的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定具有影片功能的電子裝置（Certain Video-Capable Electronic Devices，調查編碼：337-TA-1481）作出337部分終裁：對本案行政法官於2026年7月17日作出的初裁（No.18）不予複審，即基於仲裁協議（arbitration agreement），終止本案調查。"
+    },
+    {
+      "id": "5040448",
+      "time": "2026-08-14 11:04:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對開放式耳機的337部分終裁】據中國貿易救濟資訊網訊息，2026年8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定開放式耳機（Certain Open-Ear Earpiece Devices，調查編碼：337-TA-1470）作出337部分終裁：對本案行政法官於2026年7月15日作出的初裁（No.15）不予複審，即基於申請方撤回，部分終止本案對無法聯絡的應訴方（the“Unreachable Respondents”）的調查。"
+    },
     {
       "id": "mkt:019ffe39-5230-7aab-9033-eee2139f5511",
       "time": "2026-08-14 11:03:17",
