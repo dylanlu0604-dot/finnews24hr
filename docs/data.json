@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-15 00:21:00",
-  "count": 15342,
+  "updated": "2026-08-15 00:25:03",
+  "count": 15341,
   "items": [
+    {
+      "id": "mkt:01a00115-cd5c-7aab-9042-b97ad9fcbe22",
+      "time": "2026-08-15 00:23:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency reported Israeli forces again crossed into Syrian territory."
+    },
+    {
+      "id": "5041829",
+      "time": "2026-08-15 00:22:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社：以色列軍隊地面侵入敘利亞南部庫奈特拉郊區後，設立檢查站並開始盤查敘利亞民眾。"
+    },
+    {
+      "id": "mkt:01a00115-4bd4-7aab-9042-b5fe4579a9d2",
+      "time": "2026-08-15 00:22:47",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "【Suspect in UnitedHealth executive killing pleads guilty to federal charges】On Aug. 14 local time, Luigi Mangione pleaded guilty in federal court to killing UnitedHealth insurance CEO Brian Thompson. A federal judge set sentencing for Dec. 18. Mangione admitted the shooting as part of the plea, which will avoid a federal trial and could enable him to seek dismissal of New York state murder charges and delay a state trial scheduled for Sept. 8. He faces both federal and state charges; a New York second-degree murder conviction carries 25 years to life."
+    },
+    {
+      "id": "5041828",
+      "time": "2026-08-15 00:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：以色列軍方再次侵犯敘利亞領土。"
+    },
     {
       "id": "5041827",
       "time": "2026-08-15 00:19:48",
@@ -140306,50 +140343,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：不存在所謂的自由貿易，我們追求的是公平貿易。歐盟對我方汽車徵收 10% 關稅，而我們對歐盟汽車僅徵收 3% 關稅。這何談公平？因此我們正在下調關稅，消除非關稅貿易壁壘，抵制補貼勞工現象，並把就業崗位帶回本國。"
-    },
-    {
-      "id": "mkt:019fdd09-62d8-7aab-8fbe-1c9fc4478fcb",
-      "time": "2026-08-08 00:23:27",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "The U.S. State Department said the U.S. Treasury today took action to dismantle a network of money exchangers and shell companies that helped Iran secretly move hundreds of millions of dollars through the international financial system. The network funneled oil revenues to Tehran and used front companies to launder funds and evade sanctions aimed at curbing its destabilizing activities."
-    },
-    {
-      "id": "5031430",
-      "time": "2026-08-08 00:23:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談及霍爾木茲海峽：該海峽再也回不到過去的狀態，因為伊朗已經將其用作，或試圖將其用作咽喉要道。未來兩年我們將看到，這條海峽的重要性將會不復存在。它將僅僅成為一片普通水域。我認為，目前經由該海峽運輸的能源中，超過 50% 至 70% 將會轉由地下管道輸送。"
-    },
-    {
-      "id": "mkt:019fdd08-2a87-7aab-8fbe-1646d31d83d5",
-      "time": "2026-08-08 00:22:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said he and his team have arrived in Serbia and will meet Serbian President Vucic and minister Juraj Matusek today and tomorrow to discuss expanding bilateral economic ties, relations with the EU and security affairs."
-    },
-    {
-      "id": "mkt:019fdd07-8752-7aab-8fbe-0bdd65c3f517",
-      "time": "2026-08-08 00:21:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's new economy minister expects Peru's economy to grow 3.5% in 2026."
-    },
-    {
-      "id": "5031429",
-      "time": "2026-08-08 00:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 我已攜團隊抵達塞爾維亞。今明兩日我們安排了重要會晤， 我們將探討擴大兩國經濟聯絡、對歐盟關係、其他惠及兩國人民的議題以及安全相關事務。"
     }
   ]
 }

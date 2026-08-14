@@ -1,7 +1,44 @@
 {
   "date": "2026-08-15",
-  "count": 27,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:01a00115-cd5c-7aab-9042-b97ad9fcbe22",
+      "time": "2026-08-15 00:23:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency reported Israeli forces again crossed into Syrian territory."
+    },
+    {
+      "id": "5041829",
+      "time": "2026-08-15 00:22:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社：以色列軍隊地面侵入敘利亞南部庫奈特拉郊區後，設立檢查站並開始盤查敘利亞民眾。"
+    },
+    {
+      "id": "mkt:01a00115-4bd4-7aab-9042-b5fe4579a9d2",
+      "time": "2026-08-15 00:22:47",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "【Suspect in UnitedHealth executive killing pleads guilty to federal charges】On Aug. 14 local time, Luigi Mangione pleaded guilty in federal court to killing UnitedHealth insurance CEO Brian Thompson. A federal judge set sentencing for Dec. 18. Mangione admitted the shooting as part of the plea, which will avoid a federal trial and could enable him to seek dismissal of New York state murder charges and delay a state trial scheduled for Sept. 8. He faces both federal and state charges; a New York second-degree murder conviction carries 25 years to life."
+    },
+    {
+      "id": "5041828",
+      "time": "2026-08-15 00:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：以色列軍方再次侵犯敘利亞領土。"
+    },
     {
       "id": "5041827",
       "time": "2026-08-15 00:19:48",
