@@ -1,7 +1,75 @@
 {
   "date": "2026-08-15",
-  "count": 211,
+  "count": 219,
   "items": [
+    {
+      "id": "mkt:01a001d4-101f-7aab-9045-2456de57e4ae",
+      "time": "2026-08-15 03:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US has earned substantial revenue from tariffs."
+    },
+    {
+      "id": "5041933",
+      "time": "2026-08-15 03:50:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "犀牛比特幣公司公佈最新計劃：擬完成美國證交會申報檔案並強化獨立治理，以提升透明度併為潛在交易所升級上市做準備。"
+    },
+    {
+      "id": "5041932",
+      "time": "2026-08-15 03:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們靠關稅賺了大錢。"
+    },
+    {
+      "id": "5041931",
+      "time": "2026-08-15 03:50:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Stripe、Advent洽談收購PayPal】據知情人士透露，PayPal Holdings正在與包括Stripe和私募股權公司Advent International在內的財團洽談出售事宜。Stripe與Advent於今年7月提出以每股60.50美元收購PayPal，但PayPal認為該報價過低。雙方目前正就可能更高的價格進行談判。"
+    },
+    {
+      "id": "5041930",
+      "time": "2026-08-15 03:49:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：PayPal認為每股60.50美元的報價不夠理想。"
+    },
+    {
+      "id": "mkt:01a001d2-bfca-7aab-9045-186fc3c77c0e",
+      "time": "2026-08-15 03:49:43",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "Paramount (PSKY.O) and Warner Bros. Discovery (WBD.O) have met all regulatory conditions under their merger agreement."
+    },
+    {
+      "id": "5041929",
+      "time": "2026-08-15 03:48:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：PayPal談判或敲定更高收購報價。"
+    },
+    {
+      "id": "5041928",
+      "time": "2026-08-15 03:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Stripe與Advent的交易可能於未來數週內敲定。"
+    },
     {
       "id": "5041927",
       "time": "2026-08-15 03:47:12",
