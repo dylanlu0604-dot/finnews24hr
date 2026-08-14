@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-15 04:30:04",
-  "count": 15284,
+  "updated": "2026-08-15 04:34:04",
+  "count": 15285,
   "items": [
+    {
+      "id": "mkt:01a001f9-62a0-7aab-9045-d2c8025ec6c9",
+      "time": "2026-08-15 04:31:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "SEC filing shows NVIDIA (NVDA.O) holds 122.8 mln Class A common shares of SpaceX (SPCX.O), valued at about $21.0 bln."
+    },
+    {
+      "id": "5041976",
+      "time": "2026-08-15 04:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在紐約的活動上結束講話。"
+    },
+    {
+      "id": "te:markets:575538",
+      "time": "2026-08-15 04:30:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Retreats From Record High — The S&P/TSX Composite Index shed 0.1% to close at 36,730 on Friday, retreating slightly from the record reached in the prior session amid losses in the technology and retail sectors. The technology sector tracked weakness among Wall Street-listed hyperscalers, with Shopify losing 3%, Constellation Software down 2.3% and Celestica tumbling 4%. Meanwhile, Canadian retailers traded lower amid disappointing US data pointing to a slowdown in the sector. ATD shed 0.7% and Loblaw lost 1.1%. The industrial sector was also mostly lower, with Enbridge down 1.2% despite fresh data showing growth in Canada’s factory sales. Financials traded mostly higher despite energy-driven inflationary pressures, as signs of macroeconomic headwinds in the US supported expectations of a Fed rate hold at the next FOMC meeting. TD Bank added 0.5% and CIBC gained 0.8%. Gold prices rose on expectations for US monetary policy, lifting miners. Agnico Eagle rose 2.9%, while WPM and Barrick gained 1.3%."
+    },
     {
       "id": "5041975",
       "time": "2026-08-15 04:29:12",
@@ -139875,26 +139907,6 @@
         "國際"
       ],
       "text": "美國中央司令部：一名美國水兵在梅森號導彈驅逐艦（DDG‑87）的作戰資訊中心值守，該艦正在區域海域航行，執行美國針對伊朗港口及沿岸地區的封鎖任務。截至 8 月 XX 日，中央司令部部隊已調轉 51 艘商船航向，使 2 艘船隻喪失行動能力，並登檢 2 艘船隻，確保相關規定得到遵守。”"
-    },
-    {
-      "id": "te:markets:573881",
-      "time": "2026-08-08 04:32:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Hits Record as Gold Miners Rally — The S&P/TSX Composite Index rose 0.7% to a record close of 36,381 on Friday, led by a rally in mining stocks. Gold prices surged after weaker-than-expected US labor data and lower energy prices reduced expectations of a Federal Reserve rate hike this year. The US economy unexpectedly lost jobs in July, easing concerns that labor market strength could fuel inflation. Agnico Eagle climbed 5.9%, Barrick gained 5%, and WPM jumped 6.6%, while other gold miners advanced between 2.6% and 14%. Tech stocks also benefited from the positive sentiment on Wall Street, with Shopify rising 2.4%. In contrast, financials underperformed after stronger-than-expected Canadian jobs data increased the likelihood that the Bank of Canada could resume tightening if inflation pressures persist. RBC fell 0.7% and TD Bank lost 0.4%."
-    },
-    {
-      "id": "5031619",
-      "time": "2026-08-08 04:31:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【西班牙將對來自義大利的旅客實施臨時邊境檢查】當地時間8月7日，西班牙政府宣佈，將對來自義大利的航空和海運旅客實施邊境檢查，8日零時正式生效，持續至9月7日。西班牙政府表示，相關措施主要包括核查旅客身份和國籍；對非歐盟國家公民，還將查驗簽證或居留許可。當天早些時候，西班牙政府要求義大利在8月9日前取消針對性邊檢，否則將採取“對等且相稱”的回應措施。義大利政府隨後表示，出於國家安全和邊境管控需要，意方不會撤銷針對經西班牙入境第三國公民暫停適用申根協定的決定，相關措施將至少持續至8月15日。因大批非法移民此前從摩洛哥方向進入休達，義大利總理梅洛尼7月31日晚表示，義大利政府決定暫停與西班牙的申根自由通行機制、恢復邊境檢查。對此，西班牙政府在宣告中表示，近日非法進入西班牙飛地休達的人員無法自由進入申根區，因為休達實行特殊制度，前往西班牙本土仍需接受警方檢查。目前，幾乎所有進入休達的非法移民都已返回摩洛哥。休達位於非洲西北部、直布羅陀海峽附近的地中海沿岸，與摩洛哥接壤。日前，大批非法移民從摩洛哥方向進入休達，引發近年來西班牙最嚴重的邊境移民危機。（央視新聞）"
     }
   ]
 }
