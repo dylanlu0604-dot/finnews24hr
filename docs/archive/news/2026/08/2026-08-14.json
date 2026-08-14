@@ -1,7 +1,96 @@
 {
   "date": "2026-08-14",
-  "count": 2680,
+  "count": 2689,
   "items": [
+    {
+      "id": "mkt:01a0009b-4b44-7aab-9040-a8b74c1ee4e8",
+      "time": "2026-08-14 22:09:32",
+      "tags": [
+        "MKT News",
+        "CSCO.O",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut Cisco (CSCO.O) price target to $120 from $137 and downgraded its rating to Hold from Buy."
+    },
+    {
+      "id": "5041707",
+      "time": "2026-08-14 22:08:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近岸蛋白：公司股價持續上漲積累了較多的獲利調整風險】近岸蛋白8月14日公告，公司股票於8月12日、8月13日、8月14日連續3個交易日內日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。近期，公司股價累計漲幅超過大部分同行業公司股價漲幅且顯著高於科創綜指、科創50、上證綜指等相關指數漲幅，公司股價持續上漲積累了較多的獲利調整風險。特別提醒廣大投資者注意二級市場交易風險，理性決策，審慎投資。"
+    },
+    {
+      "id": "5041706",
+      "time": "2026-08-14 22:08:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊持續走強 閃迪漲超9％】希捷科技漲7.2％，西部資料漲4.5％，美光科技、sk海力士均漲超3.5％。"
+    },
+    {
+      "id": "mkt:01a00099-8405-7aab-9040-a77a7087cee1",
+      "time": "2026-08-14 22:07:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【US consumer sentiment down ~8% in August; Republicans hit hardest】University of Michigan consumer sentiment fell about 8% in August, ending a two-month improvement, survey director Joanne Hsu said. Views of personal finances deteriorated only slightly, but business-condition expectations plunged, with short-run expectations down 11% and long-run expectations down 17%. Declines were broad across political groups; Republicans posted the largest monthly drop and are now 19% below their level before the Iran conflict, at their weakest since the 2024 election. Weakness was concentrated among older, lower-income and non-college consumers, groups most exposed to inflation-driven purchasing-power losses. Only 8% of consumers expect their incomes to outpace inflation over the next year, down from 18% in December 2024. One-year inflation expectations rose to 4.3% in August from 4.2% in July, above the pre-conflict February reading of 3.4% and above all 2024 readings; long-run inflation expectations held at 3.3% for a third month, slightly above the 2024 range of 2.8–3.2%."
+    },
+    {
+      "id": "te:economy:575499",
+      "time": "2026-08-14 22:06:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Confidence",
+        "Importance 3"
+      ],
+      "text": "US Consumer Sentiment Falls in August — The University of Michigan’s consumer sentiment index fell to 51 in early August 2026, down from 55.2 in July and below market expectations of 54.5, ending two consecutive months of improvement. Both major components weakened, with the current conditions index declining to 51.8 and the expectations measure falling to 50.6. The deterioration was broad-based across political and demographic groups, with particularly sharp declines among older, lower-income and less-educated consumers, who are more exposed to rising prices. Expectations for business conditions also worsened significantly, falling 11% over the next year and 17% over the longer term. Inflation concerns increased slightly, with year-ahead expectations rising to 4.3% from 4.2%, while the long-term outlook remained unchanged at 3.3%. Only 8% of consumers now expect their incomes to grow faster than inflation, down from 18% in December 2024."
+    },
+    {
+      "id": "5041705",
+      "time": "2026-08-14 22:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東高速集團與威海市政府簽署戰略合作協議】據山東高速集團訊息，8月14日，山東高速集團與威海市人民政府簽署戰略合作協議。山東高速集團董事長王其峰表示，下一步，山東高速集團將進一步發揮全產業鏈優勢，深化雙方在交通基礎設施建設、新能源開發、低空經濟、對外貿易、產融結合等領域合作。"
+    },
+    {
+      "id": "5041704",
+      "time": "2026-08-14 22:06:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rokos 旗下對沖基金著手鎖定客戶更長週期資金。"
+    },
+    {
+      "id": "5041703",
+      "time": "2026-08-14 22:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想再自研晶片，仍採用資料流架構】從多個信源處獲悉，理想汽車正在探索自研雲端推理晶片，將採用與智駕晶片相同的資料流架構，專案還在早期階段。AI 資料中心普遍使用 GPU 完成模型訓練和推理，也有資料中心部署雲端推理晶片。一位晶片行業人士說，雲端推理晶片可以承接部分原本在 GPU 上執行的推理任務，例如智駕模型的資料處理、測試、模擬，以及大語言模型的請求處理。模型訓練中涉及引數更新的部分仍需訓練晶片。（晚點）"
+    },
+    {
+      "id": "te:economy:575498",
+      "time": "2026-08-14 22:05:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Year-Ahead Inflation Expectations Inch Higher — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, inched higher to 4.3% in August of 2026 from 4.2% in the previous month, according to a preliminary estimate. The result was mostly owed to the impact of higher energy prices as the war in Iran limited oil and fuel supply from the Middle East. Longer-run inflation expectations, measured by expectations of inflation in a five-year outlook, were at 3.3% for the third month."
+    },
     {
       "id": "5041702",
       "time": "2026-08-14 22:03:37",

@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-14 22:06:10",
-  "count": 15325,
+  "updated": "2026-08-14 22:10:09",
+  "count": 15322,
   "items": [
+    {
+      "id": "mkt:01a0009b-4b44-7aab-9040-a8b74c1ee4e8",
+      "time": "2026-08-14 22:09:32",
+      "tags": [
+        "MKT News",
+        "CSCO.O",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut Cisco (CSCO.O) price target to $120 from $137 and downgraded its rating to Hold from Buy."
+    },
+    {
+      "id": "5041707",
+      "time": "2026-08-14 22:08:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近岸蛋白：公司股價持續上漲積累了較多的獲利調整風險】近岸蛋白8月14日公告，公司股票於8月12日、8月13日、8月14日連續3個交易日內日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。近期，公司股價累計漲幅超過大部分同行業公司股價漲幅且顯著高於科創綜指、科創50、上證綜指等相關指數漲幅，公司股價持續上漲積累了較多的獲利調整風險。特別提醒廣大投資者注意二級市場交易風險，理性決策，審慎投資。"
+    },
+    {
+      "id": "5041706",
+      "time": "2026-08-14 22:08:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊持續走強 閃迪漲超9％】希捷科技漲7.2％，西部資料漲4.5％，美光科技、sk海力士均漲超3.5％。"
+    },
+    {
+      "id": "mkt:01a00099-8405-7aab-9040-a77a7087cee1",
+      "time": "2026-08-14 22:07:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【US consumer sentiment down ~8% in August; Republicans hit hardest】University of Michigan consumer sentiment fell about 8% in August, ending a two-month improvement, survey director Joanne Hsu said. Views of personal finances deteriorated only slightly, but business-condition expectations plunged, with short-run expectations down 11% and long-run expectations down 17%. Declines were broad across political groups; Republicans posted the largest monthly drop and are now 19% below their level before the Iran conflict, at their weakest since the 2024 election. Weakness was concentrated among older, lower-income and non-college consumers, groups most exposed to inflation-driven purchasing-power losses. Only 8% of consumers expect their incomes to outpace inflation over the next year, down from 18% in December 2024. One-year inflation expectations rose to 4.3% in August from 4.2% in July, above the pre-conflict February reading of 3.4% and above all 2024 readings; long-run inflation expectations held at 3.3% for a third month, slightly above the 2024 range of 2.8–3.2%."
+    },
+    {
+      "id": "te:economy:575499",
+      "time": "2026-08-14 22:06:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Confidence",
+        "Importance 3"
+      ],
+      "text": "US Consumer Sentiment Falls in August — The University of Michigan’s consumer sentiment index fell to 51 in early August 2026, down from 55.2 in July and below market expectations of 54.5, ending two consecutive months of improvement. Both major components weakened, with the current conditions index declining to 51.8 and the expectations measure falling to 50.6. The deterioration was broad-based across political and demographic groups, with particularly sharp declines among older, lower-income and less-educated consumers, who are more exposed to rising prices. Expectations for business conditions also worsened significantly, falling 11% over the next year and 17% over the longer term. Inflation concerns increased slightly, with year-ahead expectations rising to 4.3% from 4.2%, while the long-term outlook remained unchanged at 3.3%. Only 8% of consumers now expect their incomes to grow faster than inflation, down from 18% in December 2024."
+    },
+    {
+      "id": "5041705",
+      "time": "2026-08-14 22:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東高速集團與威海市政府簽署戰略合作協議】據山東高速集團訊息，8月14日，山東高速集團與威海市人民政府簽署戰略合作協議。山東高速集團董事長王其峰表示，下一步，山東高速集團將進一步發揮全產業鏈優勢，深化雙方在交通基礎設施建設、新能源開發、低空經濟、對外貿易、產融結合等領域合作。"
+    },
+    {
+      "id": "5041704",
+      "time": "2026-08-14 22:06:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rokos 旗下對沖基金著手鎖定客戶更長週期資金。"
+    },
+    {
+      "id": "5041703",
+      "time": "2026-08-14 22:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想再自研晶片，仍採用資料流架構】從多個信源處獲悉，理想汽車正在探索自研雲端推理晶片，將採用與智駕晶片相同的資料流架構，專案還在早期階段。AI 資料中心普遍使用 GPU 完成模型訓練和推理，也有資料中心部署雲端推理晶片。一位晶片行業人士說，雲端推理晶片可以承接部分原本在 GPU 上執行的推理任務，例如智駕模型的資料處理、測試、模擬，以及大語言模型的請求處理。模型訓練中涉及引數更新的部分仍需訓練晶片。（晚點）"
+    },
+    {
+      "id": "te:economy:575498",
+      "time": "2026-08-14 22:05:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Year-Ahead Inflation Expectations Inch Higher — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, inched higher to 4.3% in August of 2026 from 4.2% in the previous month, according to a preliminary estimate. The result was mostly owed to the impact of higher energy prices as the war in Iran limited oil and fuel supply from the Middle East. Longer-run inflation expectations, measured by expectations of inflation in a five-year outlook, were at 3.3% for the third month."
+    },
     {
       "id": "5041702",
       "time": "2026-08-14 22:03:37",
@@ -140148,109 +140237,6 @@
         "其他"
       ],
       "text": "【上海市委書記陳吉寧檢查排程颱風防禦工作】颱風“白海豚”對上海風雨影響逐漸增強，全市各方面迅速行動起來，加強值班值守、做好充分準備。今天（8月7日）下午，上海市委書記陳吉寧在市防汛指揮部檢查排程颱風防禦工作時指出，要緊扣此次颱風“風長雨強”特點，抓實抓細防汛應急搶險救災各項準備和防禦措施，江河堤防要加強巡查排險，低窪易澇點等風險隱患要及時整治消除，河網和排水管網要做好預降、騰出調蓄庫容，防汛物資要加緊補齊備足，應急力量要科學配置排班，市場供應要確保正常運轉，公共服務要保持“不斷檔”。"
-    },
-    {
-      "id": "mkt:019fdc8f-49d0-7aab-8fbc-52914d863629",
-      "time": "2026-08-07 22:10:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Federal Reserve's Barkin said the labor market is in a weakly balanced state."
-    },
-    {
-      "id": "5031323",
-      "time": "2026-08-07 22:10:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：勞動力市場處於“弱平衡狀態”"
-    },
-    {
-      "id": "5031322",
-      "time": "2026-08-07 22:08:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【展芯股份登陸創業板，上海科創基金投資組合IPO數量增至233家】8月7日，上海科創基金子基金華控三期投資企業——江蘇展芯半導體技術股份有限公司在創業板掛牌上市，上海科創基金投資組合IPO數量增至233家。"
-    },
-    {
-      "id": "mkt:019fdc8d-d899-7aab-8fbc-4c39bd07cd8f",
-      "time": "2026-08-07 22:08:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House National Economic Council director Hassett said Trump and Walsh constantly discuss economic issues."
-    },
-    {
-      "id": "5031321",
-      "time": "2026-08-07 22:08:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：特朗普詢問沃什有關就業資料的情況很正常。"
-    },
-    {
-      "id": "mkt:019fdc8d-3e27-7aab-8fbc-4142c1af73af",
-      "time": "2026-08-07 22:07:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "White House National Economic Council director Hassett said he believes President Trump will not give Fed chair Warsh advice on interest rates."
-    },
-    {
-      "id": "5031320",
-      "time": "2026-08-07 22:07:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司（ADNOC）表示，商業航運在國際航道內的航行自由以及安全不受干擾的通行必須得到尊重和保護。"
-    },
-    {
-      "id": "5031319",
-      "time": "2026-08-07 22:07:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：我確信特朗普不會給沃什提供利率建議。"
-    },
-    {
-      "id": "mkt:019fdc8c-be18-7aab-8fbc-3cd14b5e63f7",
-      "time": "2026-08-07 22:07:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ADNOC said freedom of navigation in international waterways must be respected and commercial shipping kept safe and unobstructed."
-    },
-    {
-      "id": "5031318",
-      "time": "2026-08-07 22:07:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：特朗普和沃什“總是”談論經濟問題。"
-    },
-    {
-      "id": "mkt:019fdc8c-4a19-7aab-8fbc-37344a24629a",
-      "time": "2026-08-07 22:06:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE's Abu Dhabi National Oil Co (ADNOC) said it is coordinating with relevant authorities to protect employees, assets and operations and to meet customer needs where possible."
-    },
-    {
-      "id": "5031317",
-      "time": "2026-08-07 22:06:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司（ADNOC）表示，正與有關部門共同採取措施，保障員工、資產與業務運營安全，並儘可能滿足客戶需求。"
     }
   ]
 }
