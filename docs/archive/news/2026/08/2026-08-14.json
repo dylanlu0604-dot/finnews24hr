@@ -1,7 +1,18 @@
 {
   "date": "2026-08-14",
-  "count": 1164,
+  "count": 1165,
   "items": [
+    {
+      "id": "mkt:019ffebe-c9a0-7aab-9035-f3c778c5a83f",
+      "time": "2026-08-14 13:29:03",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share banking sector rallied in the afternoon session; Shanghai Rural Commercial Bank rose over 3%, with Shanghai Bank, Suzhou Bank and Chongqing Rural Commercial Bank also higher."
+    },
     {
       "id": "5040598",
       "time": "2026-08-14 13:23:51",
