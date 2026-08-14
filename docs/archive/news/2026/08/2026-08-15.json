@@ -1,7 +1,18 @@
 {
   "date": "2026-08-15",
-  "count": 329,
+  "count": 330,
   "items": [
+    {
+      "id": "mkt:01a00220-f0d5-7aab-9046-526c7cab221d",
+      "time": "2026-08-15 05:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Preliminary Q2 2026 revenue at ANTHROPIC exceeded $11.5 billion; company reported positive adjusted operating profit."
+    },
     {
       "id": "5042000",
       "time": "2026-08-15 05:13:47",

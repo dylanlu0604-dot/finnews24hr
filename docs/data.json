@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-15 05:14:40",
+  "updated": "2026-08-15 05:18:35",
   "count": 15294,
   "items": [
+    {
+      "id": "mkt:01a00220-f0d5-7aab-9046-526c7cab221d",
+      "time": "2026-08-15 05:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Preliminary Q2 2026 revenue at ANTHROPIC exceeded $11.5 billion; company reported positive adjusted operating profit."
+    },
     {
       "id": "5042000",
       "time": "2026-08-15 05:13:47",
@@ -140002,14 +140013,6 @@
         "公司"
       ],
       "text": "南方天然氣公司削減 6 個管段輸送能力。"
-    },
-    {
-      "id": "5031649",
-      "time": "2026-08-08 05:15:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【離岸人民幣兌美元較週四紐約尾盤漲47點】週五（8月7日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7429元，較週四紐約尾盤漲47點，日內整體交投於6.75-6.7401元區間。"
     }
   ]
 }
