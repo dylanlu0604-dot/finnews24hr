@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 169,
+  "count": 172,
   "items": [
+    {
+      "id": "mkt:01a001a6-95b8-7aab-9044-a6ded9b22561",
+      "time": "2026-08-15 03:01:29",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.61% at 25,247, trading 130 points above the cash index."
+    },
+    {
+      "id": "5041901",
+      "time": "2026-08-15 03:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：DOT AI宣佈收到退市通知，並表示將提起上訴。"
+    },
+    {
+      "id": "5041900",
+      "time": "2026-08-15 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.62%，報25250.28點，高水133.43點。"
+    },
     {
       "id": "mkt:01a001a4-5344-7aab-9044-996c6a58abe6",
       "time": "2026-08-15 02:59:01",
