@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 05:53:42_
-_本檔包含 3083 則快訊，約 603177 字_
+_更新時間：2026-08-15 06:34:45_
+_本檔包含 3088 則快訊，約 604125 字_
+
+---
+
+### 2026-08-12 21:53:21  #其他
+
+惠譽擬對斯泰蘭蒂斯金融地板計劃汽車主所有者信託 2026 系列進行評級。
+
+---
+
+### 2026-08-12 21:53:09  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
+
+【Timiraos: Cooling inflation eases near-term Fed hike risk, hawks still present】Nick Timiraos said July CPI roughly matched expectations, easing pressure for a Fed rate hike next month but leaving hawkish voices intact. He noted some Fed officials still expect inflation to drift back to 2% without further tightening, while others now favor maintaining higher rates and could join a hawkish minority if incoming data undermines current projections. Officials attribute persistent inflation more to external shocks — tariffs, lingering Middle East energy risks — and a surge in AI-driven demand that is lifting tech-equipment and software prices, rather than overly loose policy, supporting the view that current rates may already be restrictive.
+
+---
+
+### 2026-08-12 21:53:03  #資料 #央行 #國際
+
+【美聯儲“傳聲筒”：通脹降溫緩解加息壓力 鷹派聲音仍未消退】“美聯儲傳聲筒”Nick Timiraos表示：“7月通脹報告與市場預期基本一致，緩解了美聯儲下個月加息的壓力。華爾街尤其關注今天公佈的CPI資料，因為美聯儲官員也釋放訊號稱，他們正在更加密切地關注這一資料。過去一年裡，美聯儲官員一直預計，在無需進一步加息的情況下，通脹將回落至2%的目標水平，但如今一些官員認為，有必要維持更高利率。另一些官員表示，如果更多資料令當前預測變得難以維持，他們也可能加入這一鷹派少數陣營。這一預測建立在這樣一種觀點之上：當前利率水平已經足夠具有限制性，而通脹居高不下的原因在於外部衝擊，而非貨幣政策過於寬鬆。此前的判斷是，關稅只會一次性推高成本，隨後影響將逐漸消退；隨著中東緊張局勢緩和，能源價格也將跟隨原油價格回落。但實際情況是，這些衝擊持續存在，而且如今與人工智慧建設熱潮帶來的需求激增相互疊加，後者正在推高科技裝置和軟體價格。”
+
+---
+
+### 2026-08-12 21:52:55  #公司 #國際
+
+市場訊息：通用電氣印度電力公司獲得沙烏地阿拉伯 55 億盧比訂單。
+
+---
+
+### 2026-08-12 21:52:37  #國際
+
+市場訊息：印度‑南部非洲關稅同盟貿易談判即將啟動。
+
+---
+
+### 2026-08-12 21:52:36  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+JP Morgan expects the Federal Reserve to keep interest rates unchanged, citing eased concerns as inflation appears non-sticky.
+
+---
+
+### 2026-08-12 21:52:06  #其他
+
+市場訊息：北美建築貿易工會聯合會與 Meta 宣佈建立新合作，投資技能工種領域。
+
+---
+
+### 2026-08-12 21:51:58  #市場
+
+【美股儲存板塊高開高走 SK海力士、美光均漲超7%】費城半導體指數上漲3.3%，美股儲存板塊高開高走，美光科技上漲7.03%，SK海力士上漲7.72%，閃迪上漲7.16%，西部資料上漲6.63%，希捷科技上漲7.60%，鎧俠ADR上漲7.82%。
+
+---
+
+### 2026-08-12 21:51:50  #國際
+
+市場訊息：印度‑南部非洲關稅同盟商定職權範圍協議。
+
+---
+
+### 2026-08-12 21:50:59  #國際
+
+市場訊息：美國正考慮成立一個由多國官員組成的委員會，以監督黎巴嫩框架協議的執行情況。
+
+---
+
+### 2026-08-12 21:50:31  #MKT News
+
+Market sources say the US is considering forming a committee of officials from multiple countries to oversee implementation of the Lebanon framework agreement.
+
+---
+
+### 2026-08-12 21:50:26  #國際
+
+【普京：西伯利亞環形光子源首批研究站年底前啟用】俄羅斯總統普京11日稱，西伯利亞環形光子源（SKIF）首批研究站將於今年年底前投入使用。
+
+---
+
+### 2026-08-12 21:49:13  #其他
+
+【天馬微電子為榮耀Robot Phone獨家供應螢幕】據天馬微電子訊息，8月12日，榮耀正式釋出榮耀Robot Phone。作為榮耀長期戰略合作伙伴，天馬微電子為該款機型獨家供應螢幕，深度定製天馬天工屏高階OLED顯示方案，這是天工屏首次應用於具備具身互動能力的AI終端，適配機器人手機的創作、隨行互動等場景。
+
+---
+
+### 2026-08-12 21:49:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazil Stocks Extend Selloff — The Ibovespa edged lower to trade below 168,000 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Crude oil remained volatile amid conflicting signals over a potential US-Iran agreement, keeping inflation concerns elevated. Most financial stocks traded near the flatline, while B3 fell nearly 1% after reporting a 15.5% year-on-year increase in expenses on Tuesday. Banco do Brasil (-0.3%), Rede D’Or (-0.5%), CSN (+1.5%) and Sabesp (-0.3%) are among the scheduled to release their second-quarter 2026 results after the market close. Vale shed more than 1% as iron ore prices declined, while steelmakers posted gains. Petrobras fell 1% as oil prices turned lower. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target.
 
 ---
 
@@ -18563,59 +18647,5 @@ IBM (IBM.N) signed a multi-year $240 million agreement with Together AI to deplo
 ### 2026-08-11 20:00:56  #其他
 
 【多部門聯合印發《生態保護“十五五”規劃》】生態環境部、自然資源部等部門日前聯合印發的《生態保護“十五五”規劃》提出，到2030年，生態空間格局持續最佳化，生態質量穩步改善，生物多樣性喪失趨勢得到有效緩解，優質生態產品供給更加豐富，生態系統多樣性穩定性持續性不斷提升，生態保護與修復監管制度進一步完善，國家生態安全得到有效保障。 這是記者11日從生態環境部獲悉的。 這份規劃還提出“十五五”時期的多項具體目標，包括自然保護地陸域面積佔陸域國土面積比例不低於18%，生態質量指數（EQI）提升到86.5，水土保持率達到74%以上，森林覆蓋率達到25.8%。 規劃提出，持續最佳化生態空間格局，明確生態保護與修復監管重點區域基本覆蓋生態保護紅線、自然保護地、重要生態功能區、國家重點生態功能區、生物多樣性保護優先區域及“三北”工程區等。 在統籌推進生態系統保護與修復方面，規劃部署了推行自然生態系統休養生息，推進生態系統修復和提升城鄉生態宜居品質三方面任務。規劃對草原、森林、河湖、溼地等保護作出規定，並提出加強原生荒漠保護，推進冰川雪山凍土系統保護，加強典型海洋生態系統保護，嚴格管控圍填海等。同時，規劃要求完善城市綠地系統，推動公園綠地開放共享，加強城市溼地生態和水環境修復，加強農村小微水體水環境治理，保護鄉村山體田園、河湖溼地原生風貌，深入實施鄉村綠化美化，優先採用鄉土樹種。 (新華社)
-
----
-
-### 2026-08-11 20:00:50  #公司
-
-ROCKET DOCTOR AI 公司：ROCKET DOCTOR 在紐約州為超過 10 萬名符合條件的會員擴大了網路內就診範圍。
-
----
-
-### 2026-08-11 20:00:28  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange's gold T+D rose 0.59% to 946.69 yuan/gram and silver T+D rose 0.81% to 15,678.0 yuan/kg at the open of the Aug. 11 (Tuesday) evening session.
-
----
-
-### 2026-08-11 20:00:15  #市場
-
-巴西7月消費者價格指數同比上漲4.44%；此前預期為上漲4.40%。
-
----
-
-### 2026-08-11 19:59:44  #國際
-
-8月10日美國擔保隔夜融資利率為3.63%，而8月7日為3.62%。
-
----
-
-### 2026-08-11 19:59:09  #市場 #央行 #國際
-
-【美股期貨小幅走高 美銀策略師稱企業盈利的強勁增長勢頭歷史罕見】美國股指期貨小幅走高，美債收窄跌幅。市場對美國與伊朗可能達成協議的樂觀情緒升溫，推動此前上漲的原油價格轉而下跌。紐約時間7:27，標普500指數期貨上漲0.2%，納斯達克100指數期貨上漲0.4%，道指期貨上漲0.1%。10年期美國國債收益率基本持平於4.71%。布倫特原油回吐此前漲幅，轉而下跌0.4%，報每桶約87美元。巴基斯坦國防部長的表態提振了風險偏好。他表示，近幾日出現的訊號顯示，美國和伊朗“接近達成某種安排”。此前，美國總統特朗普向伊朗提出一系列新的全面要求，令外界對達成協議、重新開放霍爾木茲海峽的希望降溫。除中東局勢外，投資者還在等待週三公佈的美國消費者價格指數，以尋找有關美聯儲利率路徑的新線索。上週五公佈的就業資料弱於預期，令市場降低了對美聯儲立即加息的押注。
-
----
-
-### 2026-08-11 19:58:11  #其他
-
-CSN：CSN INOVA的收購要約已收到價值10億美元的有效提案。
-
----
-
-### 2026-08-11 19:58:00  #公司
-
-【*ST步森：完成董事改選，王波任董事長兼總經理】*ST步森公告稱，公司2026年第二次臨時股東會完成《公司章程》修訂、董事會席位調整及董事改選。8月11日第七屆董事會第十四次會議選舉王波為董事長，法定代表人變更為王波；設立戰略、薪酬與考核等四個專門委員會；聘任王波為總經理。本次董事改選後，第七屆董事會由7名董事組成，含5名新任董事。
-
----
-
-### 2026-08-11 19:57:40  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Rebound — Futures tracking US equity indices pared losses as markets gauged energy prices and their impact on the Federal Reserve's policy outlook. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields trimmed their jump and lent respite to financial stocks, with major banks trading higher premarket. Also, Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month.
-
----
-
-### 2026-08-11 19:57:36  #國際
-
-【中俄舉行第二十四輪領事磋商】外交部領事司司長龍舟同俄羅斯外交部領事司司長克利莫夫在北京共同主持中俄第二十四輪領事磋商。雙方重點就領事工作形勢和中俄領事關係、便利人員往來、維護各自公民和機構安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事領域溝通協作，為兩國各領域務實合作和人文交流創造安全、便利的條件，推動雙邊關係繼續向更高水平、更高質量發展。
 
 ---

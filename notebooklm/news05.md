@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 05:53:42_
-_本檔包含 2781 則快訊，約 602955 字_
+_更新時間：2026-08-15 06:34:45_
+_本檔包含 2780 則快訊，約 603690 字_
+
+---
+
+### 2026-08-10 17:24:17  #國際
+
+【俄石化重鎮遭烏無人機襲擊 俄偵委稱以恐襲立案偵查】當地時間8月10日，俄羅斯聯邦偵查委員會通報稱，已經以恐怖襲擊對下卡姆斯克市遭無人機襲擊一事立案偵查。俄偵委會表示，遭襲目標均為與軍事行動無關的平民，死者中有一名兒童。截至目前，據俄韃靼斯坦共和國官方通報，烏克蘭方面對下卡姆斯克市的無人機襲擊已造成13人死亡。烏克蘭方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-08-10 17:23:59  #公司 #國際
+
+【德銀Q2增持美光科技 英偉達位列第一重倉股】根據美國證監會(SEC)披露，德意志銀行二季度持倉總市值達3440億美元，上一季度總市值為3030億美元，環比增長13.5%。在前十大重倉股中：英偉達躍居第一位，持倉9195.4萬股，持倉市值約183.99億美元，佔投資組合比重為5.34%。從持倉比例變化來看，前五大買入標的分別是：美光科技、谷歌-A、邁威爾科技、谷歌-C、亞馬遜。
+
+---
+
+### 2026-08-10 17:23:13  #宏觀
+
+【國務院任免國家工作人員：免去羅文的國家市場監督管理總局局長職務】國務院任免國家工作人員。任命孫碩鵬為民政部副部長；任命蔣瑋（女）為中國老齡協會會長。免去羅文的國家市場監督管理總局局長職務；免去孫碩鵬的中國老齡協會會長職務。(央視新聞)
+
+---
+
+### 2026-08-10 17:23:03  #市場
+
+Raysearch公佈訂單最新情況後股價上漲4.7%。
+
+---
+
+### 2026-08-10 17:22:46  #公司
+
+【盟固利：1.87億股限售股8月12日上市流通】盟固利公告稱，本次解除限售的股份為首次公開發行部分限售股份，解除限售股東共4戶，數量為1.87億股，佔公司總股本的40.6475%，限售期36個月，上市流通日期為2026年8月12日。截至公告出具日，股東均嚴格履行承諾，不存在相關承諾未履行影響限售股上市流通的情況。此外，公司控股股東及其一致行動人在2025年度向特定物件發行股票事項中有相關減持承諾，該發行正在履行註冊程式。
+
+---
+
+### 2026-08-10 17:22:20  #MKT News #Market Regions #Japan & APAC
+
+Singapore's Straits Times Index closed up 1.05% at 5,698.43 points.
+
+---
+
+### 2026-08-10 17:21:29  #公司
+
+【曙光股份：2026年7月產銷資料公佈 部分產品增減明顯】曙光股份公告稱，2026年7月，整車產量合計-10輛，同比降102.44%，本年累計822輛，同比降40.13%；銷量合計21輛，同比降70.00%，本年累計541輛，同比降32.04%。其中，新能源客車產量6輛，去年同期為0，本年累計45輛，同比增2150.00%；銷量6輛，去年同期為0，本年累計39輛。汽車零部件方面，車橋產量73233支，同比降20.24%，本年累計476019支，同比降37.20%；銷量85853支，同比降13.92%，本年累計522577支，同比降34.94%。
+
+---
+
+### 2026-08-10 17:21:24  #公司
+
+【三友聯眾：完成4000.38萬元股份回購 用於股權激勵】三友聯眾公告稱，截至8月7日，公司完成股份回購，實際回購時間為7月14日至8月7日，累計回購474.14萬股，佔總股本1.0580%，最高成交價9.95元/股，最低7.99元/股，成交總金額4000.38萬元。本次回購符合方案及法規要求，不會對公司財務等產生重大影響，回購股份將用於股權激勵，若三年內未實施，未使用部分將登出減資。
+
+---
+
+### 2026-08-10 17:20:45  #公司
+
+【順絡電子：股東恆順通解除質押422萬股股份】順絡電子公告稱，近日股東恆順通將持有的422萬股公司股份辦理解除質押業務，佔其所持股份比例7.60%，佔公司總股本比例0.52%，起始日為2025年12月22日，解除日期為2026年8月7日，質權人為深圳市高新投集團有限公司。截至公告披露日，恆順通及其一致行動人累計質押股份3253.4萬股，佔其所持股份比例35.03%，佔公司總股本比例4.03%。本次解質對公司生產經營等無實質性影響。
+
+---
+
+### 2026-08-10 17:20:41  #MKT News
+
+【Yaoshi Technology 1H net profit up 37.17% to 99.44 mln yuan; proposes 0.10 yuan/share dividend】Yaoshi Technology 1H revenue rose 15.19% YoY to 1.059 bln yuan. Net profit attributable to shareholders was 99.4449 mln yuan, up 37.17% YoY; basic EPS 0.43 yuan. Board proposes cash dividend of 1.00 yuan per 10 shares (0.10 yuan/share), amount stated inclusive of tax. Company said integrated CRDMO service strength and steady progress of client projects drove revenue growth.
+
+---
+
+### 2026-08-10 17:20:36  #公司
+
+【裕太微：變更公司主要辦公地址】裕太微公告稱，因經營管理和公司發展需要，公司近日對部分主要辦公地址進行調整，由江蘇省蘇州市高新區金山東路78號202室（郵編215011 ）變更為江蘇省蘇州市虎丘區光啟路與科鴻路交叉口（光啟路66號，郵編215163 ）。公司其他主要辦公地址、投資者聯絡電話及郵箱等均保持不變。
+
+---
+
+### 2026-08-10 17:20:33  #Trading Economics #Economy #Malta #Balance of Trade #Importance 1
+
+Malta Trade Deficit Highest Since July 2025 — Malta’s trade deficit narrowed to €408 million in June 2026 from an upwardly revised €472.4 million a year earlier, although marking the largest deficit since July 2025. Exports surged 17.9%, driven mainly by higher shipments of mineral fuels, lubricants and related materials (34.69%) and machinery and transport equipment (32.05%), partly offset by a 23.56% decline in chemicals. Meanwhile, imports edged up 0.4%, supported by increased purchases of mineral fuels, lubricants and related materials (10.10%), which offset lower imports of machinery and transport equipment (-3.97%), chemicals (-7.46%) and semi-manufactured goods (-5.52%). In the second quarter of 2026, the trade deficit widened to €1,195.8 million from €714.3 million in Q1. In the first half of 2026, however, the deficit narrowed sharply to €177.4 million from €1,910.2 million a year earlier.
 
 ---
 
@@ -16720,83 +16792,5 @@ Agricultural Commodities Updates: Sugar Soars by 5.85% — Top commodity gainers
 ### 2026-08-08 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Silver Gains by 3.36% — Top commodity gainers are Silver (3.36%), Gold (2.44%) and Silicon (1.48%). Biggest losers are Copper (-1.73%) and Iron Ore (-0.87%).
-
----
-
-### 2026-08-08 06:30:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Falls by 2.58% — Top commodity losers are Natural Gas EU (-2.58%), Natural Gas UK (-0.70%), Crude Oil WTI (-0.27%) and Brent Crude Oil (-0.27%). Gains are led by Ethanol (1.42%), Methanol (1.26%) and Natural gas (1.17%).
-
----
-
-### 2026-08-08 06:22:40  #國際
-
-【中央氣象臺釋出颱風橙色預警】中央氣象臺8月8日06時釋出颱風橙色預警：今年第13號颱風“白海豚”（強颱風級）的中心今天（8日）早晨5點鐘位於浙江省溫州市東偏南方大約600公里的東海南部海面上，就是北緯26.8度、東經126.6度，中心附近最大風力有14級（45米/秒），中心最低氣壓為950百帕，七級風圈半徑為420-450公里，十級風圈半徑為220-250公里，十二級風圈半徑為100公里。預計，“白海豚”將以每小時10-15公里的速度向西偏北方向移動，強度變化不大或略有增強，將於9日晚上至10日早晨在浙江舟山到福建福鼎一帶沿海登陸（38-45米/秒，13-14級，颱風級或強颱風級），登陸後繼續向西偏北方向移動，強度逐漸減弱。大風預報：8日08時至9日08時，黃海南部、長江口、杭州灣、東海大部及釣魚島附近海域、臺灣以東洋麵、巴士海峽、江蘇沿海、上海沿海、浙江沿海、福建東北部沿海、臺灣島北部沿海將有6-8級大風、陣風9-10級，其中東海大部及釣魚島附近海域、浙江沿海將有9-12級大風、陣風11-14級，“白海豚”中心經過的附近海域風力有13-15級，陣風15-17級。降雨預報：8日08時至9日08時，臺灣島北部和浙江中東部的部分地區有大到暴雨，局地大暴雨（100-150毫米）。
-
----
-
-### 2026-08-08 06:19:37  #市場 #國際
-
-【南非蘭特非農日漲超1.3%，本週累漲超2.3%】週五（8月7日）紐約尾盤，歐元兌美元漲0.28%，報1.1558，北京時間20:30釋出美國非農就業報告帶來一波短線拉昇行情，本週累計上漲0.27%，整體呈現出W形走勢。英鎊兌美元漲0.28%，報1.3492，本週累漲0.75%。美元兌瑞郎跌0.53%，報0.8080，本週漲0.06%。商品貨幣對中，澳元兌美元漲0.50%、本週累漲0.68%，紐元兌美元漲0.39%、本週累漲0.23%，美元兌加元跌0.52%、本週累跌0.56%。瑞典克朗兌美元漲0.01%、本週累漲0.26%，挪威克朗兌美元漲0.37%、本週累跌0.43%，丹麥克朗兌美元漲0.28%、本週累漲0.27%。波蘭茲羅提兌美元漲0.39%、本週累漲0.53%，美元兌匈牙利福林跌0.88%、本週累跌0.77%。土耳其里拉兌美元跌0.13%、本週累跌0.40%，南非蘭特兌美元漲1.34%、本週累漲2.32%，墨西哥比索兌美元漲0.56%、本週累漲1.19%，巴西雷亞爾兌美元漲0.56%、本週累跌0.23%呈現出V形走勢。
-
----
-
-### 2026-08-08 06:18:59  #宏觀 #國際
-
-美國財政部對標普全球關鍵礦產基準指數表示歡迎。
-
----
-
-### 2026-08-08 06:17:17  #國際
-
-市場訊息：以色列炮兵炮擊黎巴嫩阿里・塔希爾高地。
-
----
-
-### 2026-08-08 06:15:05  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Appreciates by 1.14% — Top currency gainers are South Korean Won (1.14%), Brazilian Real (0.81%), Swedish Krona (0.55%), Japanese Yen (0.42%), Euro (0.22%) and British Pound (0.17%). Biggest loser is Dollar Index (-0.33%).
-
----
-
-### 2026-08-08 06:06:53  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Take Two Interactive Software earnings in line with market expectations at 0.33 USD — Take Two Interactive Software (TTWO) released earnings per share at 0.33 USD, in line with market expectations.
-
----
-
-### 2026-08-08 06:00:09  #市場 #焦點
-
-暗盤金價突破4300美元/盎司，日內漲幅2%。
-
----
-
-### 2026-08-08 06:00:09  #市場 #焦點
-
-暗盤金價（人民幣）日內漲超2%，現報941.6635元/克。
-
----
-
-### 2026-08-08 05:59:09  #國際
-
-【美國一消防直升機在猶他州墜毀】美國聯邦航空局當地時間8月7日證實，一架西科斯基S-64直升機當天在猶他州里奇菲爾德一處野火現場附近作業時墜毀，機上兩名乘員目前狀況不明。（央視新聞）
-
----
-
-### 2026-08-08 05:58:11  #觀點
-
-【大摩對日元轉向偏空，干預影響逐漸消退】摩根士丹利外匯策略師對日元轉向偏空，他們認為，隨著事實證明美日當局支撐日元匯率的措施效果短暫，日元將逐步走弱。當局聯手支撐日元僅短暫提振了日元需求，並未扭轉其長期下行趨勢。因此，策略師在維持中性立場的同時，轉為偏空傾向。“除非再次聯合干預匯市，否則我們預計美元/日元將逐步走高，”David Adams、Andrew Watrous和Molly Nickolin週五寫道。
-
----
-
-### 2026-08-08 05:56:38  #公司 #國際
-
-根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日在公開市場出售6523股強生股票，成交均價為每股258.739美元。
-
----
-
-### 2026-08-08 05:55:19  #公司 #國際
-
-根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日公開市場出售41,957股強生股票，成交平均價格為每股258.056美元。
 
 ---

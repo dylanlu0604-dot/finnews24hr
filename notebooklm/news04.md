@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 05:53:42_
-_本檔包含 3165 則快訊，約 604599 字_
+_更新時間：2026-08-15 06:34:45_
+_本檔包含 3162 則快訊，約 603658 字_
+
+---
+
+### 2026-08-11 20:00:50  #公司
+
+ROCKET DOCTOR AI 公司：ROCKET DOCTOR 在紐約州為超過 10 萬名符合條件的會員擴大了網路內就診範圍。
+
+---
+
+### 2026-08-11 20:00:28  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange's gold T+D rose 0.59% to 946.69 yuan/gram and silver T+D rose 0.81% to 15,678.0 yuan/kg at the open of the Aug. 11 (Tuesday) evening session.
+
+---
+
+### 2026-08-11 20:00:15  #市場
+
+巴西7月消費者價格指數同比上漲4.44%；此前預期為上漲4.40%。
+
+---
+
+### 2026-08-11 19:59:44  #國際
+
+8月10日美國擔保隔夜融資利率為3.63%，而8月7日為3.62%。
+
+---
+
+### 2026-08-11 19:59:09  #市場 #央行 #國際
+
+【美股期貨小幅走高 美銀策略師稱企業盈利的強勁增長勢頭歷史罕見】美國股指期貨小幅走高，美債收窄跌幅。市場對美國與伊朗可能達成協議的樂觀情緒升溫，推動此前上漲的原油價格轉而下跌。紐約時間7:27，標普500指數期貨上漲0.2%，納斯達克100指數期貨上漲0.4%，道指期貨上漲0.1%。10年期美國國債收益率基本持平於4.71%。布倫特原油回吐此前漲幅，轉而下跌0.4%，報每桶約87美元。巴基斯坦國防部長的表態提振了風險偏好。他表示，近幾日出現的訊號顯示，美國和伊朗“接近達成某種安排”。此前，美國總統特朗普向伊朗提出一系列新的全面要求，令外界對達成協議、重新開放霍爾木茲海峽的希望降溫。除中東局勢外，投資者還在等待週三公佈的美國消費者價格指數，以尋找有關美聯儲利率路徑的新線索。上週五公佈的就業資料弱於預期，令市場降低了對美聯儲立即加息的押注。
+
+---
+
+### 2026-08-11 19:58:11  #其他
+
+CSN：CSN INOVA的收購要約已收到價值10億美元的有效提案。
+
+---
+
+### 2026-08-11 19:58:00  #公司
+
+【*ST步森：完成董事改選，王波任董事長兼總經理】*ST步森公告稱，公司2026年第二次臨時股東會完成《公司章程》修訂、董事會席位調整及董事改選。8月11日第七屆董事會第十四次會議選舉王波為董事長，法定代表人變更為王波；設立戰略、薪酬與考核等四個專門委員會；聘任王波為總經理。本次董事改選後，第七屆董事會由7名董事組成，含5名新任董事。
+
+---
+
+### 2026-08-11 19:57:40  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Rebound — Futures tracking US equity indices pared losses as markets gauged energy prices and their impact on the Federal Reserve's policy outlook. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields trimmed their jump and lent respite to financial stocks, with major banks trading higher premarket. Also, Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month.
+
+---
+
+### 2026-08-11 19:57:36  #國際
+
+【中俄舉行第二十四輪領事磋商】外交部領事司司長龍舟同俄羅斯外交部領事司司長克利莫夫在北京共同主持中俄第二十四輪領事磋商。雙方重點就領事工作形勢和中俄領事關係、便利人員往來、維護各自公民和機構安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事領域溝通協作，為兩國各領域務實合作和人文交流創造安全、便利的條件，推動雙邊關係繼續向更高水平、更高質量發展。
 
 ---
 
@@ -19000,77 +19054,5 @@ Greece Industrial Production Expands for 10th Month — Industrial output in Gre
 ### 2026-08-10 17:24:30  #公司
 
 【海螺水泥：8月10日回購85萬股 耗資1518.45萬元】海螺水泥公告稱，8月10日，公司透過上海證券交易所回購85萬股股份，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.0215%，每股回購價在17.83-17.94元之間，付出的價格總額為1518.45萬元，回購股份將被持作庫存股份。截至8月10日，公司庫存股份為2721.98萬股。
-
----
-
-### 2026-08-10 17:24:17  #國際
-
-【俄石化重鎮遭烏無人機襲擊 俄偵委稱以恐襲立案偵查】當地時間8月10日，俄羅斯聯邦偵查委員會通報稱，已經以恐怖襲擊對下卡姆斯克市遭無人機襲擊一事立案偵查。俄偵委會表示，遭襲目標均為與軍事行動無關的平民，死者中有一名兒童。截至目前，據俄韃靼斯坦共和國官方通報，烏克蘭方面對下卡姆斯克市的無人機襲擊已造成13人死亡。烏克蘭方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-08-10 17:23:59  #公司 #國際
-
-【德銀Q2增持美光科技 英偉達位列第一重倉股】根據美國證監會(SEC)披露，德意志銀行二季度持倉總市值達3440億美元，上一季度總市值為3030億美元，環比增長13.5%。在前十大重倉股中：英偉達躍居第一位，持倉9195.4萬股，持倉市值約183.99億美元，佔投資組合比重為5.34%。從持倉比例變化來看，前五大買入標的分別是：美光科技、谷歌-A、邁威爾科技、谷歌-C、亞馬遜。
-
----
-
-### 2026-08-10 17:23:13  #宏觀
-
-【國務院任免國家工作人員：免去羅文的國家市場監督管理總局局長職務】國務院任免國家工作人員。任命孫碩鵬為民政部副部長；任命蔣瑋（女）為中國老齡協會會長。免去羅文的國家市場監督管理總局局長職務；免去孫碩鵬的中國老齡協會會長職務。(央視新聞)
-
----
-
-### 2026-08-10 17:23:03  #市場
-
-Raysearch公佈訂單最新情況後股價上漲4.7%。
-
----
-
-### 2026-08-10 17:22:46  #公司
-
-【盟固利：1.87億股限售股8月12日上市流通】盟固利公告稱，本次解除限售的股份為首次公開發行部分限售股份，解除限售股東共4戶，數量為1.87億股，佔公司總股本的40.6475%，限售期36個月，上市流通日期為2026年8月12日。截至公告出具日，股東均嚴格履行承諾，不存在相關承諾未履行影響限售股上市流通的情況。此外，公司控股股東及其一致行動人在2025年度向特定物件發行股票事項中有相關減持承諾，該發行正在履行註冊程式。
-
----
-
-### 2026-08-10 17:22:20  #MKT News #Market Regions #Japan & APAC
-
-Singapore's Straits Times Index closed up 1.05% at 5,698.43 points.
-
----
-
-### 2026-08-10 17:21:29  #公司
-
-【曙光股份：2026年7月產銷資料公佈 部分產品增減明顯】曙光股份公告稱，2026年7月，整車產量合計-10輛，同比降102.44%，本年累計822輛，同比降40.13%；銷量合計21輛，同比降70.00%，本年累計541輛，同比降32.04%。其中，新能源客車產量6輛，去年同期為0，本年累計45輛，同比增2150.00%；銷量6輛，去年同期為0，本年累計39輛。汽車零部件方面，車橋產量73233支，同比降20.24%，本年累計476019支，同比降37.20%；銷量85853支，同比降13.92%，本年累計522577支，同比降34.94%。
-
----
-
-### 2026-08-10 17:21:24  #公司
-
-【三友聯眾：完成4000.38萬元股份回購 用於股權激勵】三友聯眾公告稱，截至8月7日，公司完成股份回購，實際回購時間為7月14日至8月7日，累計回購474.14萬股，佔總股本1.0580%，最高成交價9.95元/股，最低7.99元/股，成交總金額4000.38萬元。本次回購符合方案及法規要求，不會對公司財務等產生重大影響，回購股份將用於股權激勵，若三年內未實施，未使用部分將登出減資。
-
----
-
-### 2026-08-10 17:20:45  #公司
-
-【順絡電子：股東恆順通解除質押422萬股股份】順絡電子公告稱，近日股東恆順通將持有的422萬股公司股份辦理解除質押業務，佔其所持股份比例7.60%，佔公司總股本比例0.52%，起始日為2025年12月22日，解除日期為2026年8月7日，質權人為深圳市高新投集團有限公司。截至公告披露日，恆順通及其一致行動人累計質押股份3253.4萬股，佔其所持股份比例35.03%，佔公司總股本比例4.03%。本次解質對公司生產經營等無實質性影響。
-
----
-
-### 2026-08-10 17:20:41  #MKT News
-
-【Yaoshi Technology 1H net profit up 37.17% to 99.44 mln yuan; proposes 0.10 yuan/share dividend】Yaoshi Technology 1H revenue rose 15.19% YoY to 1.059 bln yuan. Net profit attributable to shareholders was 99.4449 mln yuan, up 37.17% YoY; basic EPS 0.43 yuan. Board proposes cash dividend of 1.00 yuan per 10 shares (0.10 yuan/share), amount stated inclusive of tax. Company said integrated CRDMO service strength and steady progress of client projects drove revenue growth.
-
----
-
-### 2026-08-10 17:20:36  #公司
-
-【裕太微：變更公司主要辦公地址】裕太微公告稱，因經營管理和公司發展需要，公司近日對部分主要辦公地址進行調整，由江蘇省蘇州市高新區金山東路78號202室（郵編215011 ）變更為江蘇省蘇州市虎丘區光啟路與科鴻路交叉口（光啟路66號，郵編215163 ）。公司其他主要辦公地址、投資者聯絡電話及郵箱等均保持不變。
-
----
-
-### 2026-08-10 17:20:33  #Trading Economics #Economy #Malta #Balance of Trade #Importance 1
-
-Malta Trade Deficit Highest Since July 2025 — Malta’s trade deficit narrowed to €408 million in June 2026 from an upwardly revised €472.4 million a year earlier, although marking the largest deficit since July 2025. Exports surged 17.9%, driven mainly by higher shipments of mineral fuels, lubricants and related materials (34.69%) and machinery and transport equipment (32.05%), partly offset by a 23.56% decline in chemicals. Meanwhile, imports edged up 0.4%, supported by increased purchases of mineral fuels, lubricants and related materials (10.10%), which offset lower imports of machinery and transport equipment (-3.97%), chemicals (-7.46%) and semi-manufactured goods (-5.52%). In the second quarter of 2026, the trade deficit widened to €1,195.8 million from €714.3 million in Q1. In the first half of 2026, however, the deficit narrowed sharply to €177.4 million from €1,910.2 million a year earlier.
 
 ---

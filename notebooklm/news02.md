@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 05:53:42_
-_本檔包含 3094 則快訊，約 604320 字_
+_更新時間：2026-08-15 06:34:45_
+_本檔包含 3093 則快訊，約 603844 字_
+
+---
+
+### 2026-08-14 00:29:38  #MKT News
+
+Saskatchewan premier said negotiations between Canada and the United States have visibly intensified in recent weeks as the Aug. 19 tariff deadline approaches.
+
+---
+
+### 2026-08-14 00:29:27  #MKT News
+
+Saskatchewan premier said Canada-US trade talks should retain a broader objective: reviewing and updating the CUSMA (Canada–United States–Mexico Agreement).
+
+---
+
+### 2026-08-14 00:29:23  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #EURUSD #US10Y
+
+【U.S. mortgage rates dip slightly for first time in six weeks】Freddie Mac said the average U.S. 30-year fixed mortgage rate fell to 6.67% from 6.69% a week earlier, ending five consecutive weekly rises but remaining at its highest level in over a year. Data show the U.S. labor market cooling and July price gains slowing for a second month, with energy, gasoline and food down MoM and core inflation measures at five-year lows; markets cut the odds of a 25bp Fed hike in September to 38% from 48%. Stalled negotiations over the Strait of Hormuz keep upside risk to oil prices, while high rates and economic uncertainty continue to weigh on housing demand: U.S. July existing home sales fell 4.1% from June to the weakest level in nearly two years.
+
+---
+
+### 2026-08-14 00:28:06  #市場 #央行 #國際
+
+【美國房貸利率六週來首次小幅下降】房地美表示，美國30年期固定抵押貸款平均利率從一週前的6.69%降至6.67%，結束連續五週上漲，但仍處於一年多來的最高水平。最新資料顯示，美國就業市場正在降溫，伊朗戰爭對通脹的影響可能弱於此前預期。7月美國價格漲幅連續第二個月放緩，能源、汽油和食品價格均較上月下降，基礎通脹指標降至五年來低位。結合就業報告，市場認為美國經濟資料正在減輕美聯儲未來幾個月加息壓力，投資者預計9月加息25個基點機率從48%降至38%。不過，霍爾木茲海峽談判停滯引發油價維持高位擔憂，高利率和經濟不確定性繼續抑制房地產需求。資料顯示，美國7月房屋銷售量較6月下降4.1%，降至近兩年來最低水平。
+
+---
+
+### 2026-08-14 00:27:56  #國際
+
+薩斯喀徹溫省省長表示，在8月19日關稅截止日期前的最後幾周，加拿大與美國的談判已進入白熱化階段。
+
+---
+
+### 2026-08-14 00:27:26  #其他
+
+薩斯喀徹溫省省長斯科特·莫伊表示，談判中存在若干敏感議題，乳製品便是其中之一，並稱磋商進展令人鼓舞。
+
+---
+
+### 2026-08-14 00:27:04  #其他
+
+哥倫比亞災害管理部門稱，地震死亡人數升至273人，仍有377人失蹤。
+
+---
+
+### 2026-08-14 00:26:49  #其他
+
+加拿大主要產糧省份薩斯喀徹溫省省長斯科特·莫伊就加美貿易談判表示，我們需要保持更廣泛的目標，即審查並更新《美墨加協定》。
+
+---
+
+### 2026-08-14 00:25:33  #公司
+
+【英國一客運列車脫軌】當地時間8月13日下午，英國東薩塞克斯郡的劉易斯火車站附近發生客運列車脫軌事故。警方、急救人員及消防隊已趕赴現場處置。目前尚未確認人員傷亡情況及事故具體原因。 位於劉易斯鎮‌的這處火車站是英國南部鐵路網路中的重要站點，主要服務於‌英國南方鐵路公司‌運營的線路。英國鐵路網公司及南方鐵路公司表示已知悉脫軌事故，將在獲取更多資訊後及時公佈。（CCTV國際時訊）
+
+---
+
+### 2026-08-14 00:20:01  #國際
+
+【以軍空襲打死加沙市警察局長】當地時間13日，巴勒斯坦加沙地帶內政部門發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。（央視新聞）
+
+---
+
+### 2026-08-14 00:18:20  #市場
+
+鈀金期貨日內跌4%，現報1318.54美元/盎司。
+
+---
+
+### 2026-08-14 00:17:57  #市場 #焦點
+
+紐約期金失守4410美元/盎司，日內跌1.33%。
+
+---
+
+### 2026-08-14 00:17:55  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
+
+US Mortgage Rates Break Five-Week Rising Streak — US 30-year fixed mortgage rates edged down to 6.67% as of August 13, 2026, from 6.69% the previous week, ending a streak of five consecutive weekly increases. Freddie Mac Chief Economist Sam Khater said mortgage rates remained relatively stable, while improved housing affordability and recent increases in purchase and refinance applications suggest borrowers continue to respond to modest rate changes. A year earlier, the 30-year fixed-rate mortgage averaged 6.58%. Meanwhile, the 15-year fixed mortgage rate fell to 5.96% from 6.01% a week earlier.
 
 ---
 
@@ -18549,89 +18627,5 @@ Meta Platforms (META.O) and North America’s Building Trades Unions (NABTU) ann
 ### 2026-08-12 21:53:24  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish
 
 【World's largest single-unit AI compute center commissioned at Ulanqab Xinghe; 1 kWh of green power equals ~30s of AI text-to-video】China has commissioned the Ulanqab Xinghe base, described as the world’s largest single-unit intelligent computing center, spanning roughly 20 football fields with 160 MW of power capacity. The facility is built with on-site wind generation and a dedicated transmission line to supply about 80% direct green power, uses AI-driven power management and storage, and supports parallel capacity on the order of one million accelerator cards and P-level compute scale. Operators say one kWh of onsite green power can be converted into roughly 30 seconds of AI text-to-video output.
-
----
-
-### 2026-08-12 21:53:21  #其他
-
-惠譽擬對斯泰蘭蒂斯金融地板計劃汽車主所有者信託 2026 系列進行評級。
-
----
-
-### 2026-08-12 21:53:09  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
-
-【Timiraos: Cooling inflation eases near-term Fed hike risk, hawks still present】Nick Timiraos said July CPI roughly matched expectations, easing pressure for a Fed rate hike next month but leaving hawkish voices intact. He noted some Fed officials still expect inflation to drift back to 2% without further tightening, while others now favor maintaining higher rates and could join a hawkish minority if incoming data undermines current projections. Officials attribute persistent inflation more to external shocks — tariffs, lingering Middle East energy risks — and a surge in AI-driven demand that is lifting tech-equipment and software prices, rather than overly loose policy, supporting the view that current rates may already be restrictive.
-
----
-
-### 2026-08-12 21:53:03  #資料 #央行 #國際
-
-【美聯儲“傳聲筒”：通脹降溫緩解加息壓力 鷹派聲音仍未消退】“美聯儲傳聲筒”Nick Timiraos表示：“7月通脹報告與市場預期基本一致，緩解了美聯儲下個月加息的壓力。華爾街尤其關注今天公佈的CPI資料，因為美聯儲官員也釋放訊號稱，他們正在更加密切地關注這一資料。過去一年裡，美聯儲官員一直預計，在無需進一步加息的情況下，通脹將回落至2%的目標水平，但如今一些官員認為，有必要維持更高利率。另一些官員表示，如果更多資料令當前預測變得難以維持，他們也可能加入這一鷹派少數陣營。這一預測建立在這樣一種觀點之上：當前利率水平已經足夠具有限制性，而通脹居高不下的原因在於外部衝擊，而非貨幣政策過於寬鬆。此前的判斷是，關稅只會一次性推高成本，隨後影響將逐漸消退；隨著中東緊張局勢緩和，能源價格也將跟隨原油價格回落。但實際情況是，這些衝擊持續存在，而且如今與人工智慧建設熱潮帶來的需求激增相互疊加，後者正在推高科技裝置和軟體價格。”
-
----
-
-### 2026-08-12 21:52:55  #公司 #國際
-
-市場訊息：通用電氣印度電力公司獲得沙烏地阿拉伯 55 億盧比訂單。
-
----
-
-### 2026-08-12 21:52:37  #國際
-
-市場訊息：印度‑南部非洲關稅同盟貿易談判即將啟動。
-
----
-
-### 2026-08-12 21:52:36  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-JP Morgan expects the Federal Reserve to keep interest rates unchanged, citing eased concerns as inflation appears non-sticky.
-
----
-
-### 2026-08-12 21:52:06  #其他
-
-市場訊息：北美建築貿易工會聯合會與 Meta 宣佈建立新合作，投資技能工種領域。
-
----
-
-### 2026-08-12 21:51:58  #市場
-
-【美股儲存板塊高開高走 SK海力士、美光均漲超7%】費城半導體指數上漲3.3%，美股儲存板塊高開高走，美光科技上漲7.03%，SK海力士上漲7.72%，閃迪上漲7.16%，西部資料上漲6.63%，希捷科技上漲7.60%，鎧俠ADR上漲7.82%。
-
----
-
-### 2026-08-12 21:51:50  #國際
-
-市場訊息：印度‑南部非洲關稅同盟商定職權範圍協議。
-
----
-
-### 2026-08-12 21:50:59  #國際
-
-市場訊息：美國正考慮成立一個由多國官員組成的委員會，以監督黎巴嫩框架協議的執行情況。
-
----
-
-### 2026-08-12 21:50:31  #MKT News
-
-Market sources say the US is considering forming a committee of officials from multiple countries to oversee implementation of the Lebanon framework agreement.
-
----
-
-### 2026-08-12 21:50:26  #國際
-
-【普京：西伯利亞環形光子源首批研究站年底前啟用】俄羅斯總統普京11日稱，西伯利亞環形光子源（SKIF）首批研究站將於今年年底前投入使用。
-
----
-
-### 2026-08-12 21:49:13  #其他
-
-【天馬微電子為榮耀Robot Phone獨家供應螢幕】據天馬微電子訊息，8月12日，榮耀正式釋出榮耀Robot Phone。作為榮耀長期戰略合作伙伴，天馬微電子為該款機型獨家供應螢幕，深度定製天馬天工屏高階OLED顯示方案，這是天工屏首次應用於具備具身互動能力的AI終端，適配機器人手機的創作、隨行互動等場景。
-
----
-
-### 2026-08-12 21:49:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Brazil Stocks Extend Selloff — The Ibovespa edged lower to trade below 168,000 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Crude oil remained volatile amid conflicting signals over a potential US-Iran agreement, keeping inflation concerns elevated. Most financial stocks traded near the flatline, while B3 fell nearly 1% after reporting a 15.5% year-on-year increase in expenses on Tuesday. Banco do Brasil (-0.3%), Rede D’Or (-0.5%), CSN (+1.5%) and Sabesp (-0.3%) are among the scheduled to release their second-quarter 2026 results after the market close. Vale shed more than 1% as iron ore prices declined, while steelmakers posted gains. Petrobras fell 1% as oil prices turned lower. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target.
 
 ---

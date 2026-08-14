@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 05:53:42_
-_本檔包含 3177 則快訊，約 603916 字_
+_更新時間：2026-08-15 06:34:45_
+_本檔包含 3178 則快訊，約 603992 字_
+
+---
+
+### 2026-08-15 06:30:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Gains by 2.62% — Top commodity gainers are Methanol (2.62%), Naphtha (2.05%), Brent Crude Oil (1.75%) and Crude Oil WTI (1.42%).
+
+---
+
+### 2026-08-15 06:22:28  #國際
+
+【黎方要求明確以撤軍時間 真主黨重申拒絕框架協議】黎巴嫩總理納瓦夫·薩拉姆表示，應擴大黎南部“試點區域”，並明確以色列撤出黎領土的時間表。黎真主黨領導人納伊姆·卡西姆當天重申，真主黨拒絕接受在美國斡旋下達成的黎以美三方框架協議。據黎巴嫩方面訊息，薩拉姆當天會見美國駐黎巴嫩大使米歇爾·伊薩和美國“黎巴嫩軍事協調小組”負責人約瑟夫·克利爾菲爾德時作出上述表述。雙方會談重點討論框架協議的軍事層面事務以及黎南部最新局勢。據悉，卡西姆當天在紀念2006年黎以戰爭結束20週年的活動上發表講話，指責美國縱容以色列在黎巴嫩採取軍事行動，稱如果沒有美國支援，以色列不會實施“所有這些侵略行為”。他表示，真主黨將繼續抵抗。 (央視新聞)
+
+---
+
+### 2026-08-15 06:15:14  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Appreciates by 0.72% — Top currency gainers are New Zealand Dollar (0.72%), Norwegian Krone (0.71%), Swedish Krona (0.43%), British Pound (0.38%), Euro (0.35%) and Japanese Yen (0.11%). Biggest losers are Dollar Index (-0.33%) and Indian Rupee (-0.26%).
+
+---
+
+### 2026-08-15 06:12:03  #國際
+
+【印尼弗洛勒斯島附近海域附近發生7.7級左右地震】中國地震臺網自動測定：08月15日05時58分在印尼弗洛勒斯島附近海域附近（南緯8.46度，東經121.42度）發生7.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-15 06:10:47  #國際
+
+歐洲地中海地震中心(EMSC)將印度尼西亞弗洛勒斯地區地震震級從6.9修正為7.5。
+
+---
+
+### 2026-08-15 06:10:25  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為67.5%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為67.5%，累計加息25個基點的機率為32.5%。美聯儲到10月維持利率不變的機率為53.3%，累計加息25個基點的機率為39.8%，累計加息50個基點的機率為6.8%。
+
+---
+
+### 2026-08-15 06:07:33  #市場 #焦點
+
+暗盤金價（人民幣）突破950元/克，日內漲幅0.5%。
+
+---
+
+### 2026-08-15 06:07:18  #MKT News
+
+EMSC revised the magnitude of an earthquake in Indonesia's Flores region down from 7.4 to 6.9.
+
+---
+
+### 2026-08-15 06:06:01  #國際
+
+歐洲地中海地震中心(EMSC)將印尼弗洛勒斯地區地震震級從7.4修正為6.9。
+
+---
+
+### 2026-08-15 06:05:52  #國際
+
+德國地學研究中心（GFZ）：印度尼西亞弗洛勒斯地區發生6.8級地震。
+
+---
+
+### 2026-08-15 06:05:14  #MKT News
+
+EMSC reports a magnitude-7.4 earthquake in Indonesia's Flores region.
+
+---
+
+### 2026-08-15 06:04:15  #國際
+
+歐洲地中海地震中心(EMSC)表示，印尼弗洛勒斯地區發生7.4級地震。
+
+---
+
+### 2026-08-15 06:03:39  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
+
+【US defense primes race to develop lower-cost interceptors】Pressure on Patriot interceptor inventories after the US–Iran conflict has pushed Boeing, Lockheed Martin, Northrop Grumman and Raytheon to race to field cheaper, faster-to-produce missiles. Years of adding advanced seekers and propulsion have driven per-unit prices above $4m and production lead times of years. The Pentagon has warned firms to change or be left behind, seeking lower-cost options to counter cheap threats such as drones. Lockheed has introduced a low-cost ACE interceptor at roughly $2m a unit—under half the cost of an enhanced PAC-3 MSE. Boeing is developing an “ultra-low-cost” seeker to reduce guidance cost share. Northrop unveiled a new raid/hunter system and Raytheon is expanding applications of its low-cost Coyote counter‑UAS missile. The Army says not all targets require the most advanced interceptors, but most low-cost concepts still need several years to reach mass production.
+
+---
+
+### 2026-08-15 05:57:28  #公司
+
+【伯克希爾增持達美航空和Alphabet 新CEO開始動用鉅額現金儲備】隨著Greg Abel開始動用伯克希爾龐大的現金儲備，該公司增持達美航空和谷歌母公司Alphabet。根據週五的監管檔案，在Abel接替董事長沃倫·巴菲特出任執行長後的第二個完整季度，伯克希爾增持1,750萬股達美航空股票，截至6月底持倉價值增至53.7億美元。Abel還增持4810萬股Alphabet股票，使其成為伯克希爾第三大持倉，年中持倉價值達到378億美元。伯克希爾上週公佈第二季度業績時表示，該季度還斥資約45億美元回購自身股票，同時淨買入近200億美元其他股票。截至年中，公司持有現金3655億美元，低於3月底創紀錄的3970億美元。
 
 ---
 
@@ -19073,83 +19157,5 @@ USGS reported a magnitude 5.4 earthquake near the Kermadec Islands.
 ### 2026-08-14 00:29:45  #MKT News
 
 Canada's Saskatchewan premier said talks involve several sensitive issues, including dairy, but progress so far has been encouraging.
-
----
-
-### 2026-08-14 00:29:38  #MKT News
-
-Saskatchewan premier said negotiations between Canada and the United States have visibly intensified in recent weeks as the Aug. 19 tariff deadline approaches.
-
----
-
-### 2026-08-14 00:29:27  #MKT News
-
-Saskatchewan premier said Canada-US trade talks should retain a broader objective: reviewing and updating the CUSMA (Canada–United States–Mexico Agreement).
-
----
-
-### 2026-08-14 00:29:23  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #EURUSD #US10Y
-
-【U.S. mortgage rates dip slightly for first time in six weeks】Freddie Mac said the average U.S. 30-year fixed mortgage rate fell to 6.67% from 6.69% a week earlier, ending five consecutive weekly rises but remaining at its highest level in over a year. Data show the U.S. labor market cooling and July price gains slowing for a second month, with energy, gasoline and food down MoM and core inflation measures at five-year lows; markets cut the odds of a 25bp Fed hike in September to 38% from 48%. Stalled negotiations over the Strait of Hormuz keep upside risk to oil prices, while high rates and economic uncertainty continue to weigh on housing demand: U.S. July existing home sales fell 4.1% from June to the weakest level in nearly two years.
-
----
-
-### 2026-08-14 00:28:06  #市場 #央行 #國際
-
-【美國房貸利率六週來首次小幅下降】房地美表示，美國30年期固定抵押貸款平均利率從一週前的6.69%降至6.67%，結束連續五週上漲，但仍處於一年多來的最高水平。最新資料顯示，美國就業市場正在降溫，伊朗戰爭對通脹的影響可能弱於此前預期。7月美國價格漲幅連續第二個月放緩，能源、汽油和食品價格均較上月下降，基礎通脹指標降至五年來低位。結合就業報告，市場認為美國經濟資料正在減輕美聯儲未來幾個月加息壓力，投資者預計9月加息25個基點機率從48%降至38%。不過，霍爾木茲海峽談判停滯引發油價維持高位擔憂，高利率和經濟不確定性繼續抑制房地產需求。資料顯示，美國7月房屋銷售量較6月下降4.1%，降至近兩年來最低水平。
-
----
-
-### 2026-08-14 00:27:56  #國際
-
-薩斯喀徹溫省省長表示，在8月19日關稅截止日期前的最後幾周，加拿大與美國的談判已進入白熱化階段。
-
----
-
-### 2026-08-14 00:27:26  #其他
-
-薩斯喀徹溫省省長斯科特·莫伊表示，談判中存在若干敏感議題，乳製品便是其中之一，並稱磋商進展令人鼓舞。
-
----
-
-### 2026-08-14 00:27:04  #其他
-
-哥倫比亞災害管理部門稱，地震死亡人數升至273人，仍有377人失蹤。
-
----
-
-### 2026-08-14 00:26:49  #其他
-
-加拿大主要產糧省份薩斯喀徹溫省省長斯科特·莫伊就加美貿易談判表示，我們需要保持更廣泛的目標，即審查並更新《美墨加協定》。
-
----
-
-### 2026-08-14 00:25:33  #公司
-
-【英國一客運列車脫軌】當地時間8月13日下午，英國東薩塞克斯郡的劉易斯火車站附近發生客運列車脫軌事故。警方、急救人員及消防隊已趕赴現場處置。目前尚未確認人員傷亡情況及事故具體原因。 位於劉易斯鎮‌的這處火車站是英國南部鐵路網路中的重要站點，主要服務於‌英國南方鐵路公司‌運營的線路。英國鐵路網公司及南方鐵路公司表示已知悉脫軌事故，將在獲取更多資訊後及時公佈。（CCTV國際時訊）
-
----
-
-### 2026-08-14 00:20:01  #國際
-
-【以軍空襲打死加沙市警察局長】當地時間13日，巴勒斯坦加沙地帶內政部門發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。（央視新聞）
-
----
-
-### 2026-08-14 00:18:20  #市場
-
-鈀金期貨日內跌4%，現報1318.54美元/盎司。
-
----
-
-### 2026-08-14 00:17:57  #市場 #焦點
-
-紐約期金失守4410美元/盎司，日內跌1.33%。
-
----
-
-### 2026-08-14 00:17:55  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
-
-US Mortgage Rates Break Five-Week Rising Streak — US 30-year fixed mortgage rates edged down to 6.67% as of August 13, 2026, from 6.69% the previous week, ending a streak of five consecutive weekly increases. Freddie Mac Chief Economist Sam Khater said mortgage rates remained relatively stable, while improved housing affordability and recent increases in purchase and refinance applications suggest borrowers continue to respond to modest rate changes. A year earlier, the 30-year fixed-rate mortgage averaged 6.58%. Meanwhile, the 15-year fixed mortgage rate fell to 5.96% from 6.01% a week earlier.
 
 ---
