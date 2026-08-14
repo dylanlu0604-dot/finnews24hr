@@ -1,7 +1,380 @@
 {
-  "updated": "2026-08-14 16:29:16",
-  "count": 15341,
+  "updated": "2026-08-14 16:33:12",
+  "count": 15360,
   "items": [
+    {
+      "id": "mkt:019fff66-d448-7aab-903a-55f66306810e",
+      "time": "2026-08-14 16:32:36",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's year-to-date new yuan loans through July totaled 10.38 tln yuan, below the 10.62 tln yuan expected and down from 10.72 tln yuan previously."
+    },
+    {
+      "id": "5040907",
+      "time": "2026-08-14 16:32:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼總統：預算提案基於2027年盧比兌美元平均匯率為17500比1的假設。"
+    },
+    {
+      "id": "5040906",
+      "time": "2026-08-14 16:32:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【前七個月社會融資規模增量累計為22.25萬億元】初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。其中，對實體經濟發放的人民幣貸款增加10.17萬億元，同比少增2.14萬億元；對實體經濟發放的外幣貸款摺合人民幣增加1694億元，同比多增2419億元；委託貸款減少810億元，同比多減121億元；信託貸款減少672億元，同比多減2264億元；未貼現的銀行承兌匯票減少1786億元，同比少減410億元；企業債券淨融資2.52萬億元，同比多1.1萬億元；政府債券淨融資7.76萬億元，同比少1.15萬億元；非金融企業境內股票融資4061億元，同比多1847億元。（央行）"
+    },
+    {
+      "id": "mkt:019fff66-7552-7aab-903a-4d4b6bc09e98",
+      "time": "2026-08-14 16:32:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China aggregate social financing YTD through July was 22.25 tln yuan, versus 21.93 tln expected and 20.84 tln prior."
+    },
+    {
+      "id": "5040905",
+      "time": "2026-08-14 16:32:06",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：前七個月人民幣貸款增加10.38萬億元，前七個月人民幣存款增加17.79萬億元。"
+    },
+    {
+      "id": "5040904",
+      "time": "2026-08-14 16:32:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：理想情況下，財政赤字應越小越好，我們的目標是實現預算平衡。"
+    },
+    {
+      "id": "te:economy:575383",
+      "time": "2026-08-14 16:32:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Taiwan Q2 GDP Growth Revised Slightly Higher — Taiwan's economy expanded 12.93% year-on-year in the second quarter of 2026, slightly higher than the preliminary estimate of 12.92% but easing from 15.43% in the previous quarter. The reading marked the slowest annual expansion since the third quarter of 2025, as the loss of momentum in external demand weighed on the overall economy. Exports of goods and services slowed sharply to 21.24% from 35.41% in the first quarter, while imports also decelerated to 18.25% from 25.41%. In contrast, domestic demand strengthened, growing to 8.83% from 5.73%, driven by stronger household consumption (5.91% vs 4.83%) and gross fixed capital formation (11.45% vs 8.04%), which more than offset slower growth in government spending (3.24% vs 4.29%). On a seasonally adjusted quarterly basis, the economy grew 1.39%, slowing from 2.46% in the previous three months and marking the weakest quarterly expansion since the first quarter of 2025."
+    },
+    {
+      "id": "mkt:019fff66-4aa0-7aab-903a-420c4f3e3669",
+      "time": "2026-08-14 16:32:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC said Jan-Jul RMB loans rose 10.38 trillion yuan; RMB deposits rose 17.79 trillion yuan."
+    },
+    {
+      "id": "5040903",
+      "time": "2026-08-14 16:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國香港將2026年GDP增長預期下調至3.5%至4.5%；此前預期為2.5%至3.5%。"
+    },
+    {
+      "id": "mkt:019fff66-1eea-7aab-903a-3a629161796f",
+      "time": "2026-08-14 16:31:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China July M0 money supply YoY 11.6% vs 11.8% prior."
+    },
+    {
+      "id": "mkt:019fff66-0778-7aab-903a-3486098fd9a9",
+      "time": "2026-08-14 16:31:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M0 Money Supply (YoY) (Jul) | actual 11.6% | previous 11.8%"
+    },
+    {
+      "id": "5040902",
+      "time": "2026-08-14 16:31:43",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "中國7月M2貨幣供應年率 7.7%，預期7.9%，前值8%。"
+    },
+    {
+      "id": "mkt:019fff66-04f7-7aab-903a-291e397e8c14",
+      "time": "2026-08-14 16:31:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China July M1 money supply YoY 4.0% (expected 3.9%; prior 4.0%)."
+    },
+    {
+      "id": "mkt:019fff65-f7bb-7aab-903a-2119aecff265",
+      "time": "2026-08-14 16:31:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "PBOC: End-July broad money (M2) 355.51 tln yuan, +7.7% YoY. Narrow money (M1) 115.46 tln yuan, +4.0% YoY. Currency in circulation (M0) 14.82 tln yuan, +11.6% YoY. Net cash injections Jan–Jul totaled 725.5 bln yuan."
+    },
+    {
+      "id": "5040901",
+      "time": "2026-08-14 16:31:38",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。狹義貨幣（M1）餘額115.46萬億元，同比增長4%。流通中貨幣（M0）餘額14.82萬億元，同比增長11.6%。前七個月淨投放現金7255億元。"
+    },
+    {
+      "id": "mkt:019fff65-ed17-7aab-903a-1e6bd54001bc",
+      "time": "2026-08-14 16:31:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M1 Money Supply (YoY) (Jul) | actual 4% | consensus 3.9% | previous 4%"
+    },
+    {
+      "id": "mkt:019fff65-ec67-7aab-903a-159b844c3e33",
+      "time": "2026-08-14 16:31:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China July M2 money supply YoY 7.7%, below forecast 7.9% and down from prior 8.0%."
+    },
+    {
+      "id": "5040900",
+      "time": "2026-08-14 16:31:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將 2027 年國家收入目標設定為 3426 萬億印尼盾。"
+    },
+    {
+      "id": "mkt:019fff65-d46f-7aab-903a-0e9dda1536f2",
+      "time": "2026-08-14 16:31:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M2 Money Supply (YoY) (Jul) | actual 7.7% | consensus 7.9% | previous 8%"
+    },
+    {
+      "id": "mkt:019fff65-b722-7aab-903a-00a845ffff2d",
+      "time": "2026-08-14 16:31:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "PBOC preliminary data show cumulative new total social financing (TSF) in Jan–Jul 2026 at 22.25 tln yuan, down 1.74 tln yuan YoY."
+    },
+    {
+      "id": "5040899",
+      "time": "2026-08-14 16:31:21",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。"
+    },
+    {
+      "id": "mkt:019fff65-a627-7aab-9039-fd1e36c0718c",
+      "time": "2026-08-14 16:31:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president targets 2027 revenue at IDR 3,426 tln; projects a 2027 budget deficit of 2.4% of GDP."
+    },
+    {
+      "id": "mkt:019fff65-a5e6-7aab-9039-f628bbdd1b24",
+      "time": "2026-08-14 16:31:19",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7421 per USD at 16:30 on Aug 14, up 30 pips from the previous trading day."
+    },
+    {
+      "id": "5040898",
+      "time": "2026-08-14 16:31:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將把 2027 年國家支出目標定為 4097.2 萬億印尼盾。"
+    },
+    {
+      "id": "5040897",
+      "time": "2026-08-14 16:31:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港第二季度GDP季率終值 -0.6%，預期-0.6%，前值-0.60%。"
+    },
+    {
+      "id": "5040896",
+      "time": "2026-08-14 16:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數回升，最新上漲0.01%。"
+    },
+    {
+      "id": "te:economy:575382",
+      "time": "2026-08-14 16:30:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan GDP Growth Slows in H1 2026 — Kazakhstan’s economy expanded 4.1% in the first half of 2026, slowing from 6.2% growth in the same period a year earlier. Services production increased 3.6%, accounting for just over half of total output, led by wholesale and retail trade and the repair of motor vehicles and motorcycles, which rose 5.7%. Real estate activity increased 1%, while transport and warehousing grew 7.1%. Meanwhile, goods production rose 5.1%, accounting for 36.4% of total output, supported by gains in manufacturing (9.8%) and electricity, gas, steam, hot water and air-conditioning supply (10.5%). Construction recorded the strongest growth, rising 15.2%. In contrast, mining and quarrying output declined 4%."
+    },
+    {
+      "id": "5040895",
+      "time": "2026-08-14 16:30:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7421，較上一交易日上漲30點。"
+    },
+    {
+      "id": "5040894",
+      "time": "2026-08-14 16:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國香港2季度GDP終值同比增長4.3%; 預估為+4.3%。"
+    },
+    {
+      "id": "mkt:019fff64-c340-7aab-9039-eaa98e29a77d",
+      "time": "2026-08-14 16:30:21",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong SAR Q2 GDP final YoY 4.3%, matching 4.3% forecast; prior 4.3%."
+    },
+    {
+      "id": "mkt:019fff64-c276-7aab-9039-e19503bc93f1",
+      "time": "2026-08-14 16:30:21",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong Q2 GDP (q/q, final) -0.6%; consensus -0.6%; preliminary -0.6%."
+    },
+    {
+      "id": "te:markets:575381",
+      "time": "2026-08-14 16:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Drops by 1.10% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.10% decrease."
+    },
+    {
+      "id": "mkt:019fff64-a07d-7aab-9039-dc1de1e00f58",
+      "time": "2026-08-14 16:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | GDP (QoQ) (Q2) | actual -0.6% | consensus -0.6% | previous -0.60%"
+    },
+    {
+      "id": "mkt:019fff64-a07b-7aab-9039-d68e3b9dbc1e",
+      "time": "2026-08-14 16:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | GDP (YoY) (Q2) | actual 4.3% | consensus 4.3% | previous 4.30%"
+    },
+    {
+      "id": "5040893",
+      "time": "2026-08-14 16:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華銳精密：2026年上半年淨利潤2.38億元，同比增長178.32%】華銳精密公告，2026年上半年營業收入6.21億元，同比增長19.70%。歸屬於上市公司股東的淨利潤2.38億元，同比增長178.32%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.37億元，同比增長182.45%。"
+    },
+    {
+      "id": "5040892",
+      "time": "2026-08-14 16:29:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：必須加強高價值領域的經濟轉型。"
+    },
+    {
+      "id": "5040891",
+      "time": "2026-08-14 16:29:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST雲城：重大資產重組已收回52.02億元 部分未完成工商登記】ST雲城公告稱，公司以公開掛牌方式對外出售多家子公司股權。截至目前，已收回昆明城海等12家標的公司全部股權款和債權款，合計約52.02億元，並與受讓方完成股權交割，其中10家公司已完成工商變更登記。剩餘台州商業等4家公司暫未完成工商變更登記，其中海南天利發展、寧波奉化未完成股權交割。公司已將台州商業、杭州西溪的股權管理權轉移給受讓方，不再是控股股東。公司將繼續推進後續實施工作。"
+    },
+    {
+      "id": "5040890",
+      "time": "2026-08-14 16:28:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省攝影家協會：楊某宇一幅作品確非本人原創，取消入展資格】江蘇省攝影家協會8月14日通報，近日，“幸福鄉村  文藝賦美”江蘇省文聯文藝賦能鄉村振興影像展覽開幕。據影友反映，該展覽入選作品組照《美麗鄉村樂消遊》（作者楊某宇）中有一幅作品與網上已公佈的其他賽事中入圍的、署名為他人的作品畫面高度相似。江蘇省攝協對此高度重視，立即啟動緊急核查。經查實，作者楊某宇的組照《美麗鄉村樂消遊》其中一幅作品確非本人原創作品。對於在省攝協質詢時楊某宇提出的“誤操作”投稿解釋，省攝協經研判後不予認可。基於此，決定取消該作品的入選資格。鑑於該作者在投稿、調圖、核查期間的行為違反了誠信原則，經研究決定同時取消其在本次賽事中投稿的另一幅作品《煙雨中鄉村美景》的入選資格。"
+    },
     {
       "id": "5040889",
       "time": "2026-08-14 16:28:28",
@@ -140355,182 +140728,6 @@
         "MKT News"
       ],
       "text": "【SAMR: Over 6,600 policy measures revised or adjusted in 1H】SAMR said its special action to implement the Fair Competition Review System has produced phased results: in 1H national market regulators reviewed more than 30,000 policy measures and guided revisions to over 6,600. Launched in April to push forward a unified national market, SAMR is accelerating revisions to the Implementing Measures for the Fair Competition Review Regulation and aims to issue them soon. It will soon conduct 2026 spot checks of fair competition reviews to correct a batch of institutional barriers in market access, factor access, qualification recognition and bidding/tendering."
-    },
-    {
-      "id": "5030544",
-      "time": "2026-08-07 16:33:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【宇瞳光學：持股5%以上股東部分股份解除質押675萬股】宇瞳光學公告稱，持股5%以上股東張品光於2026年8月6日將其質押給國金證券的部分股份辦理解除質押業務，合計解除質押675萬股，佔其所持股份比例11.99%，佔公司總股本比例1.29%。截至公告披露日，張品光及其一致行動人累計質押股份17,015,100股，佔公司總股本比例3.25%，質押股份不存在平倉風險，風險可控。"
-    },
-    {
-      "id": "mkt:019fdb59-c79b-7aab-8fb4-5f51d9a0d6b6",
-      "time": "2026-08-07 16:32:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium was up 2.00% intraday, trading at $1,401.76/oz."
-    },
-    {
-      "id": "mkt:019fdb59-b249-7aab-8fb4-54ee738a84ba",
-      "time": "2026-08-07 16:31:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Onshore yuan (CNY) closed at 6.7501 per U.S. dollar at 16:30 on Aug. 7, up 14 pips from the previous trading day."
-    },
-    {
-      "id": "5030543",
-      "time": "2026-08-07 16:31:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【富煌鋼構：公司及相關人員因信披違規等被出具警示函】富煌鋼構公告，公司及相關人員近日收到安徽證監局出具的行政監管措施決定書，因公司存在2025年半年度報告、三季度報告錯報，2024年個別資訊披露不規範及內控管理不到位等問題，安徽證監局決定對公司及鄭茂榮、李漢兵、楊俊斌、曹靖、竇明採取出具警示函的行政監管措施，並記入證券期貨市場誠信檔案。"
-    },
-    {
-      "id": "5030542",
-      "time": "2026-08-07 16:31:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4360美元/盎司，日內漲1.40%。"
-    },
-    {
-      "id": "5030541",
-      "time": "2026-08-07 16:31:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元北京時間16:30官方收報6.7501，較上一交易日官方收盤價漲14點，較上日夜盤收盤漲16點。"
-    },
-    {
-      "id": "5030540",
-      "time": "2026-08-07 16:31:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西壯族自治區北海市人大常委會原副主任蔣同根被“雙開”】中央紀委國家監委網站8月7日通報，據廣西壯族自治區紀委監委訊息：經廣西壯族自治區黨委批准，廣西壯族自治區紀委監委對北海市人大常委會原黨組成員、副主任蔣同根嚴重違紀違法問題進行了立案審查調查。經查，蔣同根喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；違背組織原則，隱瞞不報個人有關事項；廉潔底線失守，違規收受禮品禮金和消費卡，接受可能影響公正執行公務的宴請；私慾膨脹，將公權力異化為謀取私利的工具，大搞權錢交易，利用職務便利在專案承攬、專案推進等方面為他人謀利，並非法收受鉅額財物。蔣同根嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經自治區紀委常委會會議研究並報自治區黨委批准，決定給予蔣同根開除黨籍處分；由自治區監委給予其開除公職處分；終止其北海市第十二次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5030539",
-      "time": "2026-08-07 16:31:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【全球食品價格升至三年來的最高水平】由於對關鍵糧食出口通道的擔憂加劇，加之全球主要產區遭遇惡劣天氣，全球食品價格7月小幅上漲，達到三年多來的最高水平。聯合國糧農組織週五釋出的報告顯示，7月份聯合國食品商品價格指數環比上漲0.6%，其中糧食、糖和植物油價格漲幅居前。全球糧食市場的關注點已從美伊戰爭初期引發的動盪，轉向收成疲軟、貿易不確定性和持續的天氣擔憂。俄烏之間升級的襲擊行動，加劇了市場對黑海這一關鍵糧食出口地區供應的擔憂，推動小麥價格在6月份升至兩年來的最高水平。與此同時，極端高溫導致作物受損，歐洲正面臨有記錄以來最嚴重的糧食減產之一，而美國主要產區的乾旱也威脅著玉米和大豆的產量。伊朗衝突導致化肥供應中斷和能源成本上漲，再加上厄爾尼諾現象異常強勁 ，意味著全球食品市場正面臨新一輪的生產和貿易風險。"
-    },
-    {
-      "id": "5030538",
-      "time": "2026-08-07 16:30:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國香港7月外匯儲備 4478億美元，前值4459億美元。"
-    },
-    {
-      "id": "mkt:019fdb58-b1b9-7aab-8fb4-4ccda5863db4",
-      "time": "2026-08-07 16:30:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Global food prices hit highest in over three years】The UN Food and Agriculture Organization said its food price index rose 0.6% MoM in July to the highest level in more than three years, led by gains in cereals, sugar and vegetable oils. Market focus has shifted to weak harvests, trade uncertainty and extreme weather. Escalating attacks in the Russia‑Ukraine war have intensified supply concerns for Black Sea exports, lifting wheat to a two‑year high in June. Extreme heat has damaged European crops and US drought threatens corn and soybean yields. Iran‑related fighting has disrupted fertilizer supplies and pushed energy costs higher, and a strong El Nifio raises further production and trade risks for global food markets."
-    },
-    {
-      "id": "5030537",
-      "time": "2026-08-07 16:30:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度食品監管機構不會更改要求飲料巨頭撤下“能量飲料”標識的90天最後期限。"
-    },
-    {
-      "id": "mkt:019fdb58-5c6f-7aab-8fb4-445ed4285362",
-      "time": "2026-08-07 16:30:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【UAE's ADNOC spends $1.3bn on tankers as crude exports surge】Abu Dhabi National Oil Company (ADNOC) has spent $1.3bn to expand its tanker fleet to capitalise on a surge in crude exports after the country left OPEC. ADNOC is routing more oil via the contentious Strait of Hormuz. Its shipping unit has nearly doubled VLCCs to 14 from 8, each carrying about 2 million barrels, and bought five gas carriers. Despite most shipping lanes through the Strait being cut off by the US–Iran war, ADNOC’s crude shipments in the past two months exceeded those of any other producer."
-    },
-    {
-      "id": "mkt:019fdb58-53f3-7aab-8fb4-3ff569eee9d2",
-      "time": "2026-08-07 16:30:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hong Kong's foreign exchange reserves in July were USD 447.8 billion, up from USD 445.9 billion previously (increase of USD 1.9 billion)."
-    },
-    {
-      "id": "mkt:019fdb58-2c80-7aab-8fb4-37902af60718",
-      "time": "2026-08-07 16:30:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Hong Kong | Foreign Exchange Reserves (Jul) | actual 447800000000B | previous 445900000000B"
-    },
-    {
-      "id": "5030536",
-      "time": "2026-08-07 16:30:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家市場監督管理總局：上半年修改調整政策措施6600餘件】記者今天（8月7日）從國家市場監督管理總局瞭解到，“貫徹落實公平競爭審查制度專項行動”取得階段性成果。今年上半年，全國市場監管部門共審查政策措施3萬餘件，指導修改調整6600餘件。為縱深推進全國統一大市場建設，國家市場監督管理總局於今年4月份部署開展了貫徹落實公平競爭審查制度專項行動，取得階段性成果。（央視新聞）"
-    },
-    {
-      "id": "te:markets:573726",
-      "time": "2026-08-07 16:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 1.08% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.08% decrease."
-    },
-    {
-      "id": "5030535",
-      "time": "2026-08-07 16:29:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博眾精工：控股股東及董高減持股份計劃提前終止】博眾精工公告稱，2026年4月25日公司披露減持計劃，控股股東及一致行動人、董事、高階管理人員擬減持股份。截至8月7日，博眾集團減持446.65萬股，佔比1.00%；蘇州眾二減持893.30萬股，佔比2.00%；蔣健減持2.89萬股，佔比0.0065%；黃良之減持2.61萬股，佔比0.0058%；韓傑未減持。博眾集團、蘇州眾二、蔣健減持計劃已實施完畢，黃良之剩餘5652股不再減持，本次減持計劃提前終止。"
-    },
-    {
-      "id": "5030534",
-      "time": "2026-08-07 16:29:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "閃迪美股盤前漲4%，西部資料漲3.3%，美光科技漲2.4%。"
-    },
-    {
-      "id": "5030533",
-      "time": "2026-08-07 16:29:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【涉43名學生失蹤案 墨西哥前州長被捕】墨西哥聯邦檢方6日宣佈逮捕格雷羅州前州長安赫爾·阿吉雷·裡韋羅，指控其涉嫌下令銷燬2014年43名學生失蹤案的相關證據。有訊息援引墨西哥聯邦總檢察長埃內斯蒂娜·戈多伊·拉莫斯的說法稱，阿吉雷面臨妨礙司法和強迫失蹤指控。她說，今年1月和5月，一名檢方合作者和一名受保護證人提供的新證詞顯示，在州政府高層官員會議上，阿吉雷涉嫌下令銷燬與學生失蹤當晚相關的證據。她未說明會議具體召開時間及證據細節。（央視新聞）"
     }
   ]
 }

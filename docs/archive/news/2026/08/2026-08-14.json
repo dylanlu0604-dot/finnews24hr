@@ -1,7 +1,380 @@
 {
   "date": "2026-08-14",
-  "count": 1607,
+  "count": 1645,
   "items": [
+    {
+      "id": "mkt:019fff66-d448-7aab-903a-55f66306810e",
+      "time": "2026-08-14 16:32:36",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's year-to-date new yuan loans through July totaled 10.38 tln yuan, below the 10.62 tln yuan expected and down from 10.72 tln yuan previously."
+    },
+    {
+      "id": "5040907",
+      "time": "2026-08-14 16:32:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼總統：預算提案基於2027年盧比兌美元平均匯率為17500比1的假設。"
+    },
+    {
+      "id": "5040906",
+      "time": "2026-08-14 16:32:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【前七個月社會融資規模增量累計為22.25萬億元】初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。其中，對實體經濟發放的人民幣貸款增加10.17萬億元，同比少增2.14萬億元；對實體經濟發放的外幣貸款摺合人民幣增加1694億元，同比多增2419億元；委託貸款減少810億元，同比多減121億元；信託貸款減少672億元，同比多減2264億元；未貼現的銀行承兌匯票減少1786億元，同比少減410億元；企業債券淨融資2.52萬億元，同比多1.1萬億元；政府債券淨融資7.76萬億元，同比少1.15萬億元；非金融企業境內股票融資4061億元，同比多1847億元。（央行）"
+    },
+    {
+      "id": "mkt:019fff66-7552-7aab-903a-4d4b6bc09e98",
+      "time": "2026-08-14 16:32:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China aggregate social financing YTD through July was 22.25 tln yuan, versus 21.93 tln expected and 20.84 tln prior."
+    },
+    {
+      "id": "5040905",
+      "time": "2026-08-14 16:32:06",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：前七個月人民幣貸款增加10.38萬億元，前七個月人民幣存款增加17.79萬億元。"
+    },
+    {
+      "id": "5040904",
+      "time": "2026-08-14 16:32:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：理想情況下，財政赤字應越小越好，我們的目標是實現預算平衡。"
+    },
+    {
+      "id": "te:economy:575383",
+      "time": "2026-08-14 16:32:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Taiwan Q2 GDP Growth Revised Slightly Higher — Taiwan's economy expanded 12.93% year-on-year in the second quarter of 2026, slightly higher than the preliminary estimate of 12.92% but easing from 15.43% in the previous quarter. The reading marked the slowest annual expansion since the third quarter of 2025, as the loss of momentum in external demand weighed on the overall economy. Exports of goods and services slowed sharply to 21.24% from 35.41% in the first quarter, while imports also decelerated to 18.25% from 25.41%. In contrast, domestic demand strengthened, growing to 8.83% from 5.73%, driven by stronger household consumption (5.91% vs 4.83%) and gross fixed capital formation (11.45% vs 8.04%), which more than offset slower growth in government spending (3.24% vs 4.29%). On a seasonally adjusted quarterly basis, the economy grew 1.39%, slowing from 2.46% in the previous three months and marking the weakest quarterly expansion since the first quarter of 2025."
+    },
+    {
+      "id": "mkt:019fff66-4aa0-7aab-903a-420c4f3e3669",
+      "time": "2026-08-14 16:32:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC said Jan-Jul RMB loans rose 10.38 trillion yuan; RMB deposits rose 17.79 trillion yuan."
+    },
+    {
+      "id": "5040903",
+      "time": "2026-08-14 16:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國香港將2026年GDP增長預期下調至3.5%至4.5%；此前預期為2.5%至3.5%。"
+    },
+    {
+      "id": "mkt:019fff66-1eea-7aab-903a-3a629161796f",
+      "time": "2026-08-14 16:31:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China July M0 money supply YoY 11.6% vs 11.8% prior."
+    },
+    {
+      "id": "mkt:019fff66-0778-7aab-903a-3486098fd9a9",
+      "time": "2026-08-14 16:31:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M0 Money Supply (YoY) (Jul) | actual 11.6% | previous 11.8%"
+    },
+    {
+      "id": "mkt:019fff66-04f7-7aab-903a-291e397e8c14",
+      "time": "2026-08-14 16:31:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China July M1 money supply YoY 4.0% (expected 3.9%; prior 4.0%)."
+    },
+    {
+      "id": "5040902",
+      "time": "2026-08-14 16:31:43",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "中國7月M2貨幣供應年率 7.7%，預期7.9%，前值8%。"
+    },
+    {
+      "id": "mkt:019fff65-f7bb-7aab-903a-2119aecff265",
+      "time": "2026-08-14 16:31:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "PBOC: End-July broad money (M2) 355.51 tln yuan, +7.7% YoY. Narrow money (M1) 115.46 tln yuan, +4.0% YoY. Currency in circulation (M0) 14.82 tln yuan, +11.6% YoY. Net cash injections Jan–Jul totaled 725.5 bln yuan."
+    },
+    {
+      "id": "5040901",
+      "time": "2026-08-14 16:31:38",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。狹義貨幣（M1）餘額115.46萬億元，同比增長4%。流通中貨幣（M0）餘額14.82萬億元，同比增長11.6%。前七個月淨投放現金7255億元。"
+    },
+    {
+      "id": "mkt:019fff65-ed17-7aab-903a-1e6bd54001bc",
+      "time": "2026-08-14 16:31:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M1 Money Supply (YoY) (Jul) | actual 4% | consensus 3.9% | previous 4%"
+    },
+    {
+      "id": "mkt:019fff65-ec67-7aab-903a-159b844c3e33",
+      "time": "2026-08-14 16:31:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China July M2 money supply YoY 7.7%, below forecast 7.9% and down from prior 8.0%."
+    },
+    {
+      "id": "mkt:019fff65-d46f-7aab-903a-0e9dda1536f2",
+      "time": "2026-08-14 16:31:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M2 Money Supply (YoY) (Jul) | actual 7.7% | consensus 7.9% | previous 8%"
+    },
+    {
+      "id": "5040900",
+      "time": "2026-08-14 16:31:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將 2027 年國家收入目標設定為 3426 萬億印尼盾。"
+    },
+    {
+      "id": "mkt:019fff65-b722-7aab-903a-00a845ffff2d",
+      "time": "2026-08-14 16:31:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "PBOC preliminary data show cumulative new total social financing (TSF) in Jan–Jul 2026 at 22.25 tln yuan, down 1.74 tln yuan YoY."
+    },
+    {
+      "id": "5040899",
+      "time": "2026-08-14 16:31:21",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "央行：初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。"
+    },
+    {
+      "id": "mkt:019fff65-a627-7aab-9039-fd1e36c0718c",
+      "time": "2026-08-14 16:31:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president targets 2027 revenue at IDR 3,426 tln; projects a 2027 budget deficit of 2.4% of GDP."
+    },
+    {
+      "id": "mkt:019fff65-a5e6-7aab-9039-f628bbdd1b24",
+      "time": "2026-08-14 16:31:19",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7421 per USD at 16:30 on Aug 14, up 30 pips from the previous trading day."
+    },
+    {
+      "id": "5040898",
+      "time": "2026-08-14 16:31:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將把 2027 年國家支出目標定為 4097.2 萬億印尼盾。"
+    },
+    {
+      "id": "5040897",
+      "time": "2026-08-14 16:31:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港第二季度GDP季率終值 -0.6%，預期-0.6%，前值-0.60%。"
+    },
+    {
+      "id": "5040896",
+      "time": "2026-08-14 16:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數回升，最新上漲0.01%。"
+    },
+    {
+      "id": "te:economy:575382",
+      "time": "2026-08-14 16:30:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan GDP Growth Slows in H1 2026 — Kazakhstan’s economy expanded 4.1% in the first half of 2026, slowing from 6.2% growth in the same period a year earlier. Services production increased 3.6%, accounting for just over half of total output, led by wholesale and retail trade and the repair of motor vehicles and motorcycles, which rose 5.7%. Real estate activity increased 1%, while transport and warehousing grew 7.1%. Meanwhile, goods production rose 5.1%, accounting for 36.4% of total output, supported by gains in manufacturing (9.8%) and electricity, gas, steam, hot water and air-conditioning supply (10.5%). Construction recorded the strongest growth, rising 15.2%. In contrast, mining and quarrying output declined 4%."
+    },
+    {
+      "id": "5040895",
+      "time": "2026-08-14 16:30:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7421，較上一交易日上漲30點。"
+    },
+    {
+      "id": "5040894",
+      "time": "2026-08-14 16:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國香港2季度GDP終值同比增長4.3%; 預估為+4.3%。"
+    },
+    {
+      "id": "mkt:019fff64-c340-7aab-9039-eaa98e29a77d",
+      "time": "2026-08-14 16:30:21",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong SAR Q2 GDP final YoY 4.3%, matching 4.3% forecast; prior 4.3%."
+    },
+    {
+      "id": "mkt:019fff64-c276-7aab-9039-e19503bc93f1",
+      "time": "2026-08-14 16:30:21",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong Q2 GDP (q/q, final) -0.6%; consensus -0.6%; preliminary -0.6%."
+    },
+    {
+      "id": "te:markets:575381",
+      "time": "2026-08-14 16:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Drops by 1.10% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.10% decrease."
+    },
+    {
+      "id": "mkt:019fff64-a07d-7aab-9039-dc1de1e00f58",
+      "time": "2026-08-14 16:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | GDP (QoQ) (Q2) | actual -0.6% | consensus -0.6% | previous -0.60%"
+    },
+    {
+      "id": "mkt:019fff64-a07b-7aab-9039-d68e3b9dbc1e",
+      "time": "2026-08-14 16:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | GDP (YoY) (Q2) | actual 4.3% | consensus 4.3% | previous 4.30%"
+    },
+    {
+      "id": "5040893",
+      "time": "2026-08-14 16:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華銳精密：2026年上半年淨利潤2.38億元，同比增長178.32%】華銳精密公告，2026年上半年營業收入6.21億元，同比增長19.70%。歸屬於上市公司股東的淨利潤2.38億元，同比增長178.32%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.37億元，同比增長182.45%。"
+    },
+    {
+      "id": "5040892",
+      "time": "2026-08-14 16:29:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：必須加強高價值領域的經濟轉型。"
+    },
+    {
+      "id": "5040891",
+      "time": "2026-08-14 16:29:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST雲城：重大資產重組已收回52.02億元 部分未完成工商登記】ST雲城公告稱，公司以公開掛牌方式對外出售多家子公司股權。截至目前，已收回昆明城海等12家標的公司全部股權款和債權款，合計約52.02億元，並與受讓方完成股權交割，其中10家公司已完成工商變更登記。剩餘台州商業等4家公司暫未完成工商變更登記，其中海南天利發展、寧波奉化未完成股權交割。公司已將台州商業、杭州西溪的股權管理權轉移給受讓方，不再是控股股東。公司將繼續推進後續實施工作。"
+    },
+    {
+      "id": "5040890",
+      "time": "2026-08-14 16:28:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省攝影家協會：楊某宇一幅作品確非本人原創，取消入展資格】江蘇省攝影家協會8月14日通報，近日，“幸福鄉村  文藝賦美”江蘇省文聯文藝賦能鄉村振興影像展覽開幕。據影友反映，該展覽入選作品組照《美麗鄉村樂消遊》（作者楊某宇）中有一幅作品與網上已公佈的其他賽事中入圍的、署名為他人的作品畫面高度相似。江蘇省攝協對此高度重視，立即啟動緊急核查。經查實，作者楊某宇的組照《美麗鄉村樂消遊》其中一幅作品確非本人原創作品。對於在省攝協質詢時楊某宇提出的“誤操作”投稿解釋，省攝協經研判後不予認可。基於此，決定取消該作品的入選資格。鑑於該作者在投稿、調圖、核查期間的行為違反了誠信原則，經研究決定同時取消其在本次賽事中投稿的另一幅作品《煙雨中鄉村美景》的入選資格。"
+    },
     {
       "id": "5040889",
       "time": "2026-08-14 16:28:28",

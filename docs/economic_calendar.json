@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 16:29:23",
+  "updated": "2026-08-14 16:33:19",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -6294,298 +6294,8 @@
         },
         {
           "date": "2026-08-13",
-          "count": 56,
+          "count": 51,
           "events": [
-            {
-              "id": "capital:1185121",
-              "fid": "1185121",
-              "interval": "this_week",
-              "date": "2026-08-13",
-              "time": "00:00",
-              "datetime": "2026-08-13 00:00:00",
-              "display_time": "08/13 00:00",
-              "country": "中國",
-              "title": "中國7月M0貨幣供應年率",
-              "importance": 1,
-              "previous": "11.8 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185121",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/15",
-                  "actual": "11.8",
-                  "forecast": "-",
-                  "previous": "11.9"
-                },
-                {
-                  "date": "06/12",
-                  "actual": "11.9",
-                  "forecast": "-",
-                  "previous": "12.2"
-                },
-                {
-                  "date": "05/14",
-                  "actual": "12.2",
-                  "forecast": "-",
-                  "previous": "12.5"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "12.5",
-                  "forecast": "-",
-                  "previous": "14.1"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "14.1",
-                  "forecast": "-",
-                  "previous": "2.7"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "2.7",
-                  "forecast": "-",
-                  "previous": "10.2"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-13 12:03:16"
-            },
-            {
-              "id": "capital:1185120",
-              "fid": "1185120",
-              "interval": "this_week",
-              "date": "2026-08-13",
-              "time": "00:00",
-              "datetime": "2026-08-13 00:00:00",
-              "display_time": "08/13 00:00",
-              "country": "中國",
-              "title": "中國7月M1貨幣供應年率",
-              "importance": 1,
-              "previous": "4 %",
-              "forecast": "3.9 %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185120",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/15",
-                  "actual": "4",
-                  "forecast": "4.9",
-                  "previous": "5.5"
-                },
-                {
-                  "date": "06/12",
-                  "actual": "5.5",
-                  "forecast": "5",
-                  "previous": "5"
-                },
-                {
-                  "date": "05/14",
-                  "actual": "5",
-                  "forecast": "5.2",
-                  "previous": "5.1"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "5.1",
-                  "forecast": "4.2",
-                  "previous": "5.9"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "5.9",
-                  "forecast": "5.1",
-                  "previous": "4.9"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "4.9",
-                  "forecast": "3.6",
-                  "previous": "3.8"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-13 12:03:16"
-            },
-            {
-              "id": "capital:1185119",
-              "fid": "1185119",
-              "interval": "this_week",
-              "date": "2026-08-13",
-              "time": "00:00",
-              "datetime": "2026-08-13 00:00:00",
-              "display_time": "08/13 00:00",
-              "country": "中國",
-              "title": "中國7月M2貨幣供應年率",
-              "importance": 2,
-              "previous": "8 %",
-              "forecast": "7.9 %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185119",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/15",
-                  "actual": "8",
-                  "forecast": "8.5",
-                  "previous": "8.6"
-                },
-                {
-                  "date": "06/12",
-                  "actual": "8.6",
-                  "forecast": "8.6",
-                  "previous": "8.6"
-                },
-                {
-                  "date": "05/14",
-                  "actual": "8.6",
-                  "forecast": "8.5",
-                  "previous": "8.5"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "8.5",
-                  "forecast": "8.9",
-                  "previous": "9"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "9",
-                  "forecast": "8.9",
-                  "previous": "9"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "9",
-                  "forecast": "8.3",
-                  "previous": "8.5"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-13 12:03:16"
-            },
-            {
-              "id": "capital:1185125",
-              "fid": "1185125",
-              "interval": "this_week",
-              "date": "2026-08-13",
-              "time": "00:00",
-              "datetime": "2026-08-13 00:00:00",
-              "display_time": "08/13 00:00",
-              "country": "中國",
-              "title": "中國7月今年迄今新增人民幣貸款(億元)",
-              "importance": 1,
-              "previous": "107200",
-              "forecast": "106200",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185125",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/15",
-                  "actual": "107200",
-                  "forecast": "110600",
-                  "previous": "91100"
-                },
-                {
-                  "date": "06/12",
-                  "actual": "91100",
-                  "forecast": "90400",
-                  "previous": "85900"
-                },
-                {
-                  "date": "05/14",
-                  "actual": "85900",
-                  "forecast": "89500",
-                  "previous": "86000"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "86000",
-                  "forecast": "90600",
-                  "previous": "56100"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "56100",
-                  "forecast": "55760",
-                  "previous": "47100"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "47100",
-                  "forecast": "50000",
-                  "previous": "162700"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-13 12:03:16"
-            },
-            {
-              "id": "capital:1185124",
-              "fid": "1185124",
-              "interval": "this_week",
-              "date": "2026-08-13",
-              "time": "00:00",
-              "datetime": "2026-08-13 00:00:00",
-              "display_time": "08/13 00:00",
-              "country": "中國",
-              "title": "中國7月今年迄今社會融資規模增量(億元)",
-              "importance": 1,
-              "previous": "208400",
-              "forecast": "219250",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185124",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/15",
-                  "actual": "208400",
-                  "forecast": "211900",
-                  "previous": "174800"
-                },
-                {
-                  "date": "06/12",
-                  "actual": "174800",
-                  "forecast": "171500",
-                  "previous": "154500"
-                },
-                {
-                  "date": "05/14",
-                  "actual": "154500",
-                  "forecast": "161420",
-                  "previous": "148300"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "148300",
-                  "forecast": "151745",
-                  "previous": "96000"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "96000",
-                  "forecast": "92454",
-                  "previous": "72200"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "72200",
-                  "forecast": "70850",
-                  "previous": "356000"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-13 12:03:16"
-            },
             {
               "id": "capital:1174529",
               "fid": "1174529",
@@ -9548,8 +9258,298 @@
         },
         {
           "date": "2026-08-14",
-          "count": 51,
+          "count": 56,
           "events": [
+            {
+              "id": "capital:1185121",
+              "fid": "1185121",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "00:00",
+              "datetime": "2026-08-14 00:00:00",
+              "display_time": "08/14 00:00",
+              "country": "中國",
+              "title": "中國7月M0貨幣供應年率",
+              "importance": 1,
+              "previous": "11.8 %",
+              "forecast": "-- %",
+              "actual": "11.6 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185121",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "11.8",
+                  "forecast": "-",
+                  "previous": "11.9"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "11.9",
+                  "forecast": "-",
+                  "previous": "12.2"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "12.2",
+                  "forecast": "-",
+                  "previous": "12.5"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "12.5",
+                  "forecast": "-",
+                  "previous": "14.1"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "14.1",
+                  "forecast": "-",
+                  "previous": "2.7"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "2.7",
+                  "forecast": "-",
+                  "previous": "10.2"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-13 12:03:16"
+            },
+            {
+              "id": "capital:1185120",
+              "fid": "1185120",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "00:00",
+              "datetime": "2026-08-14 00:00:00",
+              "display_time": "08/14 00:00",
+              "country": "中國",
+              "title": "中國7月M1貨幣供應年率",
+              "importance": 1,
+              "previous": "4 %",
+              "forecast": "3.9 %",
+              "actual": "4 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185120",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "4",
+                  "forecast": "4.9",
+                  "previous": "5.5"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "5.5",
+                  "forecast": "5",
+                  "previous": "5"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "5",
+                  "forecast": "5.2",
+                  "previous": "5.1"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "5.1",
+                  "forecast": "4.2",
+                  "previous": "5.9"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "5.9",
+                  "forecast": "5.1",
+                  "previous": "4.9"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "4.9",
+                  "forecast": "3.6",
+                  "previous": "3.8"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-13 12:03:16"
+            },
+            {
+              "id": "capital:1185119",
+              "fid": "1185119",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "00:00",
+              "datetime": "2026-08-14 00:00:00",
+              "display_time": "08/14 00:00",
+              "country": "中國",
+              "title": "中國7月M2貨幣供應年率",
+              "importance": 2,
+              "previous": "8 %",
+              "forecast": "7.9 %",
+              "actual": "7.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185119",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "8",
+                  "forecast": "8.5",
+                  "previous": "8.6"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "8.6",
+                  "forecast": "8.6",
+                  "previous": "8.6"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "8.6",
+                  "forecast": "8.5",
+                  "previous": "8.5"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "8.5",
+                  "forecast": "8.9",
+                  "previous": "9"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "9",
+                  "forecast": "8.9",
+                  "previous": "9"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "9",
+                  "forecast": "8.3",
+                  "previous": "8.5"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-13 12:03:16"
+            },
+            {
+              "id": "capital:1185125",
+              "fid": "1185125",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "00:00",
+              "datetime": "2026-08-14 00:00:00",
+              "display_time": "08/14 00:00",
+              "country": "中國",
+              "title": "中國7月今年迄今新增人民幣貸款(億元)",
+              "importance": 1,
+              "previous": "107200",
+              "forecast": "106200",
+              "actual": "103800",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185125",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "107200",
+                  "forecast": "110600",
+                  "previous": "91100"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "91100",
+                  "forecast": "90400",
+                  "previous": "85900"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "85900",
+                  "forecast": "89500",
+                  "previous": "86000"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "86000",
+                  "forecast": "90600",
+                  "previous": "56100"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "56100",
+                  "forecast": "55760",
+                  "previous": "47100"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "47100",
+                  "forecast": "50000",
+                  "previous": "162700"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-13 12:03:16"
+            },
+            {
+              "id": "capital:1185124",
+              "fid": "1185124",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "00:00",
+              "datetime": "2026-08-14 00:00:00",
+              "display_time": "08/14 00:00",
+              "country": "中國",
+              "title": "中國7月今年迄今社會融資規模增量(億元)",
+              "importance": 1,
+              "previous": "208400",
+              "forecast": "219250",
+              "actual": "222500",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185124",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "208400",
+                  "forecast": "211900",
+                  "previous": "174800"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "174800",
+                  "forecast": "171500",
+                  "previous": "154500"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "154500",
+                  "forecast": "161420",
+                  "previous": "148300"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "148300",
+                  "forecast": "151745",
+                  "previous": "96000"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "96000",
+                  "forecast": "92454",
+                  "previous": "72200"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "72200",
+                  "forecast": "70850",
+                  "previous": "356000"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-13 12:03:16"
+            },
             {
               "id": "capital:1185220",
               "fid": "1185220",
@@ -10896,8 +10896,8 @@
               "title": "中國香港第二季度GDP季率終值",
               "importance": 1,
               "previous": "-0.6 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "-0.6 %",
+              "actual": "-0.6 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174584",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -10954,8 +10954,8 @@
               "title": "中國香港第二季度GDP年率終值",
               "importance": 1,
               "previous": "4.3 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "4.3 %",
+              "actual": "4.3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174585",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -32616,296 +32616,6 @@
       "history_checked_at": "2026-08-02 00:04:22"
     },
     {
-      "id": "capital:1185121",
-      "fid": "1185121",
-      "interval": "this_week",
-      "date": "2026-08-13",
-      "time": "00:00",
-      "datetime": "2026-08-13 00:00:00",
-      "display_time": "08/13 00:00",
-      "country": "中國",
-      "title": "中國7月M0貨幣供應年率",
-      "importance": 1,
-      "previous": "11.8 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185121",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/15",
-          "actual": "11.8",
-          "forecast": "-",
-          "previous": "11.9"
-        },
-        {
-          "date": "06/12",
-          "actual": "11.9",
-          "forecast": "-",
-          "previous": "12.2"
-        },
-        {
-          "date": "05/14",
-          "actual": "12.2",
-          "forecast": "-",
-          "previous": "12.5"
-        },
-        {
-          "date": "04/13",
-          "actual": "12.5",
-          "forecast": "-",
-          "previous": "14.1"
-        },
-        {
-          "date": "03/13",
-          "actual": "14.1",
-          "forecast": "-",
-          "previous": "2.7"
-        },
-        {
-          "date": "02/13",
-          "actual": "2.7",
-          "forecast": "-",
-          "previous": "10.2"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-13 12:03:16"
-    },
-    {
-      "id": "capital:1185120",
-      "fid": "1185120",
-      "interval": "this_week",
-      "date": "2026-08-13",
-      "time": "00:00",
-      "datetime": "2026-08-13 00:00:00",
-      "display_time": "08/13 00:00",
-      "country": "中國",
-      "title": "中國7月M1貨幣供應年率",
-      "importance": 1,
-      "previous": "4 %",
-      "forecast": "3.9 %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185120",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/15",
-          "actual": "4",
-          "forecast": "4.9",
-          "previous": "5.5"
-        },
-        {
-          "date": "06/12",
-          "actual": "5.5",
-          "forecast": "5",
-          "previous": "5"
-        },
-        {
-          "date": "05/14",
-          "actual": "5",
-          "forecast": "5.2",
-          "previous": "5.1"
-        },
-        {
-          "date": "04/13",
-          "actual": "5.1",
-          "forecast": "4.2",
-          "previous": "5.9"
-        },
-        {
-          "date": "03/13",
-          "actual": "5.9",
-          "forecast": "5.1",
-          "previous": "4.9"
-        },
-        {
-          "date": "02/13",
-          "actual": "4.9",
-          "forecast": "3.6",
-          "previous": "3.8"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-13 12:03:16"
-    },
-    {
-      "id": "capital:1185119",
-      "fid": "1185119",
-      "interval": "this_week",
-      "date": "2026-08-13",
-      "time": "00:00",
-      "datetime": "2026-08-13 00:00:00",
-      "display_time": "08/13 00:00",
-      "country": "中國",
-      "title": "中國7月M2貨幣供應年率",
-      "importance": 2,
-      "previous": "8 %",
-      "forecast": "7.9 %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185119",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/15",
-          "actual": "8",
-          "forecast": "8.5",
-          "previous": "8.6"
-        },
-        {
-          "date": "06/12",
-          "actual": "8.6",
-          "forecast": "8.6",
-          "previous": "8.6"
-        },
-        {
-          "date": "05/14",
-          "actual": "8.6",
-          "forecast": "8.5",
-          "previous": "8.5"
-        },
-        {
-          "date": "04/13",
-          "actual": "8.5",
-          "forecast": "8.9",
-          "previous": "9"
-        },
-        {
-          "date": "03/13",
-          "actual": "9",
-          "forecast": "8.9",
-          "previous": "9"
-        },
-        {
-          "date": "02/13",
-          "actual": "9",
-          "forecast": "8.3",
-          "previous": "8.5"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-13 12:03:16"
-    },
-    {
-      "id": "capital:1185125",
-      "fid": "1185125",
-      "interval": "this_week",
-      "date": "2026-08-13",
-      "time": "00:00",
-      "datetime": "2026-08-13 00:00:00",
-      "display_time": "08/13 00:00",
-      "country": "中國",
-      "title": "中國7月今年迄今新增人民幣貸款(億元)",
-      "importance": 1,
-      "previous": "107200",
-      "forecast": "106200",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185125",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/15",
-          "actual": "107200",
-          "forecast": "110600",
-          "previous": "91100"
-        },
-        {
-          "date": "06/12",
-          "actual": "91100",
-          "forecast": "90400",
-          "previous": "85900"
-        },
-        {
-          "date": "05/14",
-          "actual": "85900",
-          "forecast": "89500",
-          "previous": "86000"
-        },
-        {
-          "date": "04/13",
-          "actual": "86000",
-          "forecast": "90600",
-          "previous": "56100"
-        },
-        {
-          "date": "03/13",
-          "actual": "56100",
-          "forecast": "55760",
-          "previous": "47100"
-        },
-        {
-          "date": "02/13",
-          "actual": "47100",
-          "forecast": "50000",
-          "previous": "162700"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-13 12:03:16"
-    },
-    {
-      "id": "capital:1185124",
-      "fid": "1185124",
-      "interval": "this_week",
-      "date": "2026-08-13",
-      "time": "00:00",
-      "datetime": "2026-08-13 00:00:00",
-      "display_time": "08/13 00:00",
-      "country": "中國",
-      "title": "中國7月今年迄今社會融資規模增量(億元)",
-      "importance": 1,
-      "previous": "208400",
-      "forecast": "219250",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185124",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/15",
-          "actual": "208400",
-          "forecast": "211900",
-          "previous": "174800"
-        },
-        {
-          "date": "06/12",
-          "actual": "174800",
-          "forecast": "171500",
-          "previous": "154500"
-        },
-        {
-          "date": "05/14",
-          "actual": "154500",
-          "forecast": "161420",
-          "previous": "148300"
-        },
-        {
-          "date": "04/13",
-          "actual": "148300",
-          "forecast": "151745",
-          "previous": "96000"
-        },
-        {
-          "date": "03/13",
-          "actual": "96000",
-          "forecast": "92454",
-          "previous": "72200"
-        },
-        {
-          "date": "02/13",
-          "actual": "72200",
-          "forecast": "70850",
-          "previous": "356000"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-13 12:03:16"
-    },
-    {
       "id": "capital:1174529",
       "fid": "1174529",
       "interval": "this_week",
@@ -35864,6 +35574,296 @@
       "history_checked_at": "2026-08-02 00:09:39"
     },
     {
+      "id": "capital:1185121",
+      "fid": "1185121",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "00:00",
+      "datetime": "2026-08-14 00:00:00",
+      "display_time": "08/14 00:00",
+      "country": "中國",
+      "title": "中國7月M0貨幣供應年率",
+      "importance": 1,
+      "previous": "11.8 %",
+      "forecast": "-- %",
+      "actual": "11.6 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185121",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "11.8",
+          "forecast": "-",
+          "previous": "11.9"
+        },
+        {
+          "date": "06/12",
+          "actual": "11.9",
+          "forecast": "-",
+          "previous": "12.2"
+        },
+        {
+          "date": "05/14",
+          "actual": "12.2",
+          "forecast": "-",
+          "previous": "12.5"
+        },
+        {
+          "date": "04/13",
+          "actual": "12.5",
+          "forecast": "-",
+          "previous": "14.1"
+        },
+        {
+          "date": "03/13",
+          "actual": "14.1",
+          "forecast": "-",
+          "previous": "2.7"
+        },
+        {
+          "date": "02/13",
+          "actual": "2.7",
+          "forecast": "-",
+          "previous": "10.2"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-13 12:03:16"
+    },
+    {
+      "id": "capital:1185120",
+      "fid": "1185120",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "00:00",
+      "datetime": "2026-08-14 00:00:00",
+      "display_time": "08/14 00:00",
+      "country": "中國",
+      "title": "中國7月M1貨幣供應年率",
+      "importance": 1,
+      "previous": "4 %",
+      "forecast": "3.9 %",
+      "actual": "4 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185120",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "4",
+          "forecast": "4.9",
+          "previous": "5.5"
+        },
+        {
+          "date": "06/12",
+          "actual": "5.5",
+          "forecast": "5",
+          "previous": "5"
+        },
+        {
+          "date": "05/14",
+          "actual": "5",
+          "forecast": "5.2",
+          "previous": "5.1"
+        },
+        {
+          "date": "04/13",
+          "actual": "5.1",
+          "forecast": "4.2",
+          "previous": "5.9"
+        },
+        {
+          "date": "03/13",
+          "actual": "5.9",
+          "forecast": "5.1",
+          "previous": "4.9"
+        },
+        {
+          "date": "02/13",
+          "actual": "4.9",
+          "forecast": "3.6",
+          "previous": "3.8"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-13 12:03:16"
+    },
+    {
+      "id": "capital:1185119",
+      "fid": "1185119",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "00:00",
+      "datetime": "2026-08-14 00:00:00",
+      "display_time": "08/14 00:00",
+      "country": "中國",
+      "title": "中國7月M2貨幣供應年率",
+      "importance": 2,
+      "previous": "8 %",
+      "forecast": "7.9 %",
+      "actual": "7.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185119",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "8",
+          "forecast": "8.5",
+          "previous": "8.6"
+        },
+        {
+          "date": "06/12",
+          "actual": "8.6",
+          "forecast": "8.6",
+          "previous": "8.6"
+        },
+        {
+          "date": "05/14",
+          "actual": "8.6",
+          "forecast": "8.5",
+          "previous": "8.5"
+        },
+        {
+          "date": "04/13",
+          "actual": "8.5",
+          "forecast": "8.9",
+          "previous": "9"
+        },
+        {
+          "date": "03/13",
+          "actual": "9",
+          "forecast": "8.9",
+          "previous": "9"
+        },
+        {
+          "date": "02/13",
+          "actual": "9",
+          "forecast": "8.3",
+          "previous": "8.5"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-13 12:03:16"
+    },
+    {
+      "id": "capital:1185125",
+      "fid": "1185125",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "00:00",
+      "datetime": "2026-08-14 00:00:00",
+      "display_time": "08/14 00:00",
+      "country": "中國",
+      "title": "中國7月今年迄今新增人民幣貸款(億元)",
+      "importance": 1,
+      "previous": "107200",
+      "forecast": "106200",
+      "actual": "103800",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185125",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "107200",
+          "forecast": "110600",
+          "previous": "91100"
+        },
+        {
+          "date": "06/12",
+          "actual": "91100",
+          "forecast": "90400",
+          "previous": "85900"
+        },
+        {
+          "date": "05/14",
+          "actual": "85900",
+          "forecast": "89500",
+          "previous": "86000"
+        },
+        {
+          "date": "04/13",
+          "actual": "86000",
+          "forecast": "90600",
+          "previous": "56100"
+        },
+        {
+          "date": "03/13",
+          "actual": "56100",
+          "forecast": "55760",
+          "previous": "47100"
+        },
+        {
+          "date": "02/13",
+          "actual": "47100",
+          "forecast": "50000",
+          "previous": "162700"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-13 12:03:16"
+    },
+    {
+      "id": "capital:1185124",
+      "fid": "1185124",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "00:00",
+      "datetime": "2026-08-14 00:00:00",
+      "display_time": "08/14 00:00",
+      "country": "中國",
+      "title": "中國7月今年迄今社會融資規模增量(億元)",
+      "importance": 1,
+      "previous": "208400",
+      "forecast": "219250",
+      "actual": "222500",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185124",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "208400",
+          "forecast": "211900",
+          "previous": "174800"
+        },
+        {
+          "date": "06/12",
+          "actual": "174800",
+          "forecast": "171500",
+          "previous": "154500"
+        },
+        {
+          "date": "05/14",
+          "actual": "154500",
+          "forecast": "161420",
+          "previous": "148300"
+        },
+        {
+          "date": "04/13",
+          "actual": "148300",
+          "forecast": "151745",
+          "previous": "96000"
+        },
+        {
+          "date": "03/13",
+          "actual": "96000",
+          "forecast": "92454",
+          "previous": "72200"
+        },
+        {
+          "date": "02/13",
+          "actual": "72200",
+          "forecast": "70850",
+          "previous": "356000"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-13 12:03:16"
+    },
+    {
       "id": "capital:1185220",
       "fid": "1185220",
       "interval": "this_week",
@@ -37209,8 +37209,8 @@
       "title": "中國香港第二季度GDP季率終值",
       "importance": 1,
       "previous": "-0.6 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "-0.6 %",
+      "actual": "-0.6 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174584",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -37267,8 +37267,8 @@
       "title": "中國香港第二季度GDP年率終值",
       "importance": 1,
       "previous": "4.3 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "4.3 %",
+      "actual": "4.3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174585",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
