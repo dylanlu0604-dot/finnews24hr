@@ -1,7 +1,415 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 03:51:46_
-_本檔包含 3155 則快訊，約 602555 字_
+_更新時間：2026-08-15 04:34:04_
+_本檔包含 3162 則快訊，約 602915 字_
+
+---
+
+### 2026-08-15 04:31:55  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+SEC filing shows NVIDIA (NVDA.O) holds 122.8 mln Class A common shares of SpaceX (SPCX.O), valued at about $21.0 bln.
+
+---
+
+### 2026-08-15 04:31:33  #國際
+
+特朗普在紐約的活動上結束講話。
+
+---
+
+### 2026-08-15 04:30:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Retreats From Record High — The S&P/TSX Composite Index shed 0.1% to close at 36,730 on Friday, retreating slightly from the record reached in the prior session amid losses in the technology and retail sectors. The technology sector tracked weakness among Wall Street-listed hyperscalers, with Shopify losing 3%, Constellation Software down 2.3% and Celestica tumbling 4%. Meanwhile, Canadian retailers traded lower amid disappointing US data pointing to a slowdown in the sector. ATD shed 0.7% and Loblaw lost 1.1%. The industrial sector was also mostly lower, with Enbridge down 1.2% despite fresh data showing growth in Canada’s factory sales. Financials traded mostly higher despite energy-driven inflationary pressures, as signs of macroeconomic headwinds in the US supported expectations of a Fed rate hold at the next FOMC meeting. TD Bank added 0.5% and CIBC gained 0.8%. Gold prices rose on expectations for US monetary policy, lifting miners. Agnico Eagle rose 2.9%, while WPM and Barrick gained 1.3%.
+
+---
+
+### 2026-08-15 04:29:12  #其他
+
+市場訊息：英偉達在SpaceX的持股價值約210億美元。
+
+---
+
+### 2026-08-15 04:27:50  #公司
+
+市場訊息：阿波羅債務解決方案公司將最高收購股東提交的2900萬股要約股份。
+
+---
+
+### 2026-08-15 04:26:37  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US President Trump said Iran still has missiles and drones, but not many remain.
+
+---
+
+### 2026-08-15 04:25:58  #MKT News
+
+U.S. President Trump said no one knows how successful we have been in Iran, and that Iran knows best how well we have done.
+
+---
+
+### 2026-08-15 04:25:06  #MKT News #Commodities #Energy #WTI #Brent
+
+President Trump said the US draws millions of barrels of oil from Venezuela each week.
+
+---
+
+### 2026-08-15 04:24:58  #國際
+
+特朗普：伊朗貨幣毫無價值。
+
+---
+
+### 2026-08-15 04:24:43  #國際
+
+特朗普：伊朗仍然擁有導彈和無人機，但不多。
+
+---
+
+### 2026-08-15 04:24:37  #國際
+
+特朗普重申伊朗已無防禦力量。
+
+---
+
+### 2026-08-15 04:23:57  #國際
+
+特朗普：我們在伊朗問題上取得了重大勝利。
+
+---
+
+### 2026-08-15 04:23:35  #國際
+
+特朗普：每週從委內瑞拉獲取數百萬桶石油。
+
+---
+
+### 2026-08-15 04:21:19  #MKT News #XAUUSD #Impact bearish #WTI #DXY
+
+Trump said the U.S. has the capability to destroy Iran but does not want to do so.
+
+---
+
+### 2026-08-15 04:20:56  #國際
+
+特朗普發言吹捧美國股市。
+
+---
+
+### 2026-08-15 04:20:12  #MKT News #Important
+
+Politico reports a White House official said the U.S.-Iran situation is unchanged and there is no word yet on an extension of the U.S.-Iran ceasefire agreement.
+
+---
+
+### 2026-08-15 04:19:57  #公司
+
+索羅斯基金管理有限責任公司將亞馬遜持股削減39.2%，至120萬股。
+
+---
+
+### 2026-08-15 04:18:24  #公司
+
+索羅斯基金管理有限責任公司增持蘋果公司股份5.8%，至529,538股。
+
+---
+
+### 2026-08-15 04:18:04  #公司
+
+【伯克希爾·哈撒韋第二季度增持谷歌】伯克希爾·哈撒韋在第二季度清倉了星座品牌（STZ）；減持了克羅格（KR）、第一資本金融（COF）、紐柯鋼鐵（NUE）、Ally金融（ALLY）、達維塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、達美航空（DAL）、萊納房屋（LEN）、梅西百貨（M）。
+
+---
+
+### 2026-08-15 04:18:01  #公司 #市場
+
+受伯克希爾哈撒韋公司13F檔案顯示增持股份影響，梅西百貨股價上漲1.2%。
+
+---
+
+### 2026-08-15 04:17:51  #國際
+
+特朗普：美國有能力摧毀伊朗，但我們不想那樣做。
+
+---
+
+### 2026-08-15 04:17:11  #其他
+
+市場訊息：有報道稱美伊停火協議目前暫無延期計劃。
+
+---
+
+### 2026-08-15 04:16:33  #其他
+
+市場訊息：白宮官員稱美伊局勢“穩定”。
+
+---
+
+### 2026-08-15 04:16:08  #國際
+
+美國銀行存款從前一週的19.368萬億美元增至19.496萬億美元。
+
+---
+
+### 2026-08-15 04:14:14  #Trading Economics #Economy #Paraguay #Consumer Confidence #Importance 0
+
+Paraguay Consumer Confidence Edges Higher — Paraguay’s Consumer Confidence Index rose to 42.99 in July 2026 from 41.23 in June, although it remained below the neutral threshold. The Economic Situation Index increased 2.17 points to 32.42, while the Economic Expectations Index rose 1.34 points to 53.55. Meanwhile, 13.50% of respondents said they were willing to save, down 1.50 percentage points from the previous month. Regarding willingness to purchase durable goods, intentions to buy houses and motorcycles increased, while those for household appliances and automobiles declined.
+
+---
+
+### 2026-08-15 04:14:04  #MKT News #GOOGL.O #Impact bullish #GOOG.O
+
+SEC filing shows Berkshire Hathaway raised its stake in Alphabet (GOOG.O) Class A shares by 45.2% to 78.8 mln shares; Class C holdings rose to 27.2 mln shares.
+
+---
+
+### 2026-08-15 04:13:20  #市場
+
+D.R. HORTON股價盤後上漲3.3%。
+
+---
+
+### 2026-08-15 04:12:38  #公司
+
+APPALOOSA第二季度減持阿里巴巴、惠而浦、高通、AMD和美光。
+
+---
+
+### 2026-08-15 04:12:07  #公司 #國際
+
+美國國家鐵路客運公司（Amtrak）：新建中西部維修設施預計將在約18個月的開發建設階段創造約3000個就業崗位。
+
+---
+
+### 2026-08-15 04:11:53  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump says he will soon declare Strait of Hormuz "U.S. territory"】Trump said he will soon declare the Strait of Hormuz "U.S. territory" after defeating Iran. He called a blockade of Iran "unstoppable" and a "wall of steel," and said the U.S. is fully prepared to respond to Iran, will not allow Iran to continue related actions or to acquire nuclear weapons. He said U.S. consumers would pay only a very small price for higher gasoline, said he did not care about hitting Iran's economy before the midterms, and said the U.S. has made a lot of money from tariffs.
+
+---
+
+### 2026-08-15 04:11:11  #公司 #國際
+
+美國鐵路公司(Amtrak)：獲得最高5.72億美元及最高8700萬美元的撥款，將用於解決芝加哥長期存在的鐵路基礎設施需求。
+
+---
+
+### 2026-08-15 04:11:03  #公司
+
+伯克希爾哈撒韋公司增持達美航空股份44.0%，至5,730萬股。
+
+---
+
+### 2026-08-15 04:10:45  #其他
+
+COATUE MANAGEMENT LLC將微軟持股增加18.4%至290萬股。
+
+---
+
+### 2026-08-15 04:08:55  #公司
+
+維京全球投資公司清倉谷歌母公司Alphabet Inc A類普通股股份。增持META PLATFORMS INC A類股股份75.8%，至190萬股。
+
+---
+
+### 2026-08-15 04:08:33  #公司
+
+市場訊息：維京全球投資公司減持微軟公司股份36.8%，至150萬股。
+
+---
+
+### 2026-08-15 04:08:04  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Gains for Third Straight Week — The Canadian dollar strengthened to 1.39 per USD, posting a third consecutive weekly gain as yield spreads narrowed. Domestic factory data supported the recent narrowing in the gap between US and Canadian bond yields. The spread between Canada’s 2-year yield and the US equivalent has narrowed by about 17 basis points this month. Canadian factory sales rose 0.1% in June from May, marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Meanwhile, US retail sales unexpectedly fell in July by the most in more than a year. Recent data also showed a stronger Canadian labor market and weaker US employment, reducing expectations for a Federal Reserve rate hike this year while raising the prospect of a BoC hike if energy prices remain elevated. Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast.
+
+---
+
+### 2026-08-15 04:07:56  #公司
+
+市場訊息：維京全球投資公司清倉蘋果公司股份。
+
+---
+
+### 2026-08-15 04:05:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall on Signs of Economic Cooling — US stock indices closed lower on Friday as macroeconomic headwinds weighed. The S&P 500 eased 0.2% from its record high, while the Dow shed 108 points and the Nasdaq 100 fell 0.1%. The University of Michigan’s preliminary August sentiment index fell to 51, below forecasts of 55. Meanwhile, retail sales dropped in July by the most in over a year. The data, alongside weak jobs figures and soft inflation, suggested that the economy is showing signs of cooling. A slowdown in consumer spending could weigh on corporate profits and the stock market. Hyperscalers, including Meta (-0.9%), Oracle (-3.8%) and Amazon (-0.9%), posted losses. Heavyweight chipmakers closed mixed, with Broadcom down 5.9%, Intel losing 2%, and Nvidia edging lower, while AMD (+6.5%) and memory producers extended their strong gains from earlier in the week. Micron added 2.3% on bullish recommendations from analysts and brokers, while Sandisk jumped 7.4% following its 14% surge on Thursday.
+
+---
+
+### 2026-08-15 04:04:36  #MKT News #S&P500 #Impact bullish #Dow #Impact bearish
+
+This week the S&P 500 rose 0.4%, the Dow Jones Industrial Average fell 0.6%, and the Nasdaq Composite rose 0.1%.
+
+---
+
+### 2026-08-15 04:04:12  #MKT News
+
+Fitch affirms Brazil's Rio de Janeiro state rating at 'BB'; outlook stable.
+
+---
+
+### 2026-08-15 04:04:09  #MKT News
+
+U.S. banking regulators have conditionally approved a bank charter for World Liberty Trust Co., an entity affiliated with the Trump family, according to a letter.
+
+---
+
+### 2026-08-15 04:04:07  #國際
+
+【特朗普聲稱將宣佈霍爾木茲海峽為“美國領土”】美國總統特朗普14日在白宮發表講話談及伊朗問題時，宣稱“很快就會宣佈霍爾木茲海峽成為美國的領土”。（新華社）
+
+---
+
+### 2026-08-15 04:03:48  #市場
+
+本週，標普500指數上漲0.4%，道指下跌0.6%，納斯達克指數上漲0.1%。
+
+---
+
+### 2026-08-15 04:03:43  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+On Friday, Aug. 14, U.S. equities closed lower: the Dow Jones Industrial Average fell 107.46 points (0.20%) to 53,732.53; the S&P 500 fell 13.30 points (0.17%) to 7,785.69; the Nasdaq Composite fell 73.86 points (0.28%) to 26,729.16.
+
+---
+
+### 2026-08-15 04:03:00  #MKT News #Important #AVGO.O #Impact bearish #S&P500
+
+【US close: major indices lower; Broadcom down nearly 6%】US stocks posted a preliminary close lower on Friday: Dow Jones -0.20%, S&P 500 -0.17%, Nasdaq -0.28%. Drone-tech Unusual Machines (UMAC.N) jumped 24.83%. Storage names extended gains: SanDisk (SNDK.O) +7.39%, Micron Technology (MU.O) +2.3%. Semiconductors were mixed: AMD (AMD.O) +6.5%, Broadcom (AVGO.O) -5.94%, Applied Materials (AMAT.O) -5.12%. The Nasdaq Golden Dragon China Index rose 0.6%.
+
+---
+
+### 2026-08-15 04:01:53  #公司 #國際
+
+市場訊息：美國銀行監管機構向與特朗普有關聯的世界自由信託公司有條件批准其銀行牌照。
+
+---
+
+### 2026-08-15 04:00:58  #公司 #市場
+
+維京集團股價收盤下跌7.7%，創下自2025年4月以來最大跌幅。
+
+---
+
+### 2026-08-15 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.17%，納指跌0.28%。博通跌5.94%，GoDaddy跌5.59%，應用材料跌5.12%，Strategy跌4.18%，羅賓漢跌3.83%。“七姐妹”方面：特斯拉漲0.68%，蘋果漲0.22%，英偉達跌0.06%，谷歌跌0.12%，微軟跌0.30%，Meta Platforms跌0.86%，亞馬遜跌0.94%。
+
+---
+
+### 2026-08-15 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.54%】嘉楠科技漲6.03%，鬥魚漲4.22%，中進醫療漲3.99%，搜狐漲3.87%，華住酒店集團漲3.38%。
+
+---
+
+### 2026-08-15 03:58:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said the blockade of Iran is unstoppable and constitutes a wall of steel.
+
+---
+
+### 2026-08-15 03:58:06  #MKT News #Market Themes #The Trump Trade #Commodities #Energy
+
+Trump said U.S. gasoline prices would rise slightly as a result.
+
+---
+
+### 2026-08-15 03:57:51  #MKT News
+
+Trump on Iran: the United States is fully prepared.
+
+---
+
+### 2026-08-15 03:57:20  #市場
+
+PAYPAL股價放量上漲，此前有報道其正與Stripe和Advent International進行交易談判。
+
+---
+
+### 2026-08-15 03:56:58  #MKT News #WTI #Impact bullish #Brent #DXY
+
+President Trump said the U.S. will not allow Iran to continue its current actions.
+
+---
+
+### 2026-08-15 03:56:36  #國際
+
+特朗普：封鎖勢不可擋。
+
+---
+
+### 2026-08-15 03:56:21  #國際
+
+特朗普談伊朗：美國只需為汽油付出一點點代價。
+
+---
+
+### 2026-08-15 03:56:16  #MKT News
+
+US President Trump said the United States will not allow Iran to possess nuclear weapons.
+
+---
+
+### 2026-08-15 03:56:15  #其他
+
+【葉門摩卡港遭導彈襲擊 胡塞武裝稱打擊沙特目標】當地時間14日，葉門胡塞武裝發言人葉海亞稱，胡塞武裝在摩卡地區發射多枚彈道導彈，打擊沙特方面的軍事集結點、武器裝備及其控制的軍艦。葉海亞稱，襲擊命中目標，摧毀軍艦裝備，造成數十名武裝人員死傷，並表示將持續打擊沙特軍事集結目標。（央視新聞）
+
+---
+
+### 2026-08-15 03:56:08  #國際
+
+【特朗普稱將在經濟上對伊朗實施嚴厲打擊】當地時間8月14日，美國總統特朗普在接受媒體採訪時表示，美國將在經濟上對伊朗實施嚴厲打擊。（央視新聞）
+
+---
+
+### 2026-08-15 03:55:40  #MKT News #WTI #Impact bullish #Brent #S&P500 #Impact bearish
+
+【Houthis say ballistic missiles struck Saudi military targets at Mokha port】On the 14th local time, Houthi spokesperson Yahya said the group fired multiple ballistic missiles in the Mokha area of Yemen, striking Saudi military assembly points, weapons and equipment, and a Saudi-controlled warship. He said the strikes hit their targets, destroyed equipment on the ship, caused dozens of casualties among armed personnel, and that the Houthis will continue to strike Saudi military assembly targets.
+
+---
+
+### 2026-08-15 03:55:29  #國際
+
+特朗普談伊朗：我們已經做好充分準備。
+
+---
+
+### 2026-08-15 03:55:11  #國際
+
+特朗普：我們不能讓伊朗繼續下去。
+
+---
+
+### 2026-08-15 03:54:30  #國際
+
+特朗普重申，美國不能讓伊朗擁有核武器。
+
+---
+
+### 2026-08-15 03:54:05  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Trump said on Iran he will soon declare the Strait of Hormuz U.S. territory.
+
+---
+
+### 2026-08-15 03:53:50  #MKT News #SPCX.O
+
+Balyasny Asset Management disclosed a holding of 3.4 million shares in SpaceX (SPCX.O).
+
+---
+
+### 2026-08-15 03:53:40  #焦點 #國際
+
+特朗普談伊朗：我很快將宣佈霍爾木茲海峽為美國領土。
+
+---
+
+### 2026-08-15 03:53:27  #國際
+
+特朗普談及伊朗：伊朗正遭到慘重挫敗。
+
+---
+
+### 2026-08-15 03:52:07  #MKT News
+
+Leveraged funds have raised bullish bets on the Mexican peso to the highest level since 2024.
 
 ---
 
@@ -18653,371 +19061,5 @@ AI chipmaker Cerebras says its business will grow at an exceptional pace.
 ### 2026-08-13 23:50:12  #MKT News #Market Themes #AI Revolution
 
 AI chipmaker Cerebras says data centers pose a challenge for everyone.
-
----
-
-### 2026-08-13 23:49:01  #公司
-
-【荷蘭警方確認鹿特丹港爆炸系工作事故】荷蘭鹿特丹警方13日初步確認，當天發生在鹿特丹港一家能源公司廠區的爆炸屬於工作事故。警方在宣告中說，目前來看爆炸是一起工作事故。荷蘭社會事務與就業部將對事故進行繼續調查，並負責處理後續事宜。（新華社）
-
----
-
-### 2026-08-13 23:47:50  #MKT News #Important
-
-The Washington Post reports that about 25% of US "Reaper" drones were shot down during the Iran war.
-
----
-
-### 2026-08-13 23:47:23  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Chip Producers Return to Market Lead — US stocks remained mostly higher on Thursday after soft price data consolidated bets of a Federal Reserve rate hold next month. The S&P 500 rose 0.5% to a new record and the Nasdaq jumped 0.8%. Headline and core producer prices were lower than expected in July, aligned with the tame CPI report from yesterday and limiting recent concerns of hawkish signals by FOMC members. Chip stocks extended gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and is aiming to acquire Decart AI for $6 billion continued to underpin the outlook for compute expenditures. Micron, Intel, and Marvel rose more than 6%, while Sandisk surged 15%. In turn, Cisco slumped 8% after it projected a slowdown in sales tied to AI data centers for this fiscal year. Also, bank holdings and industrial companies pulled back with Bank of America and RTX each dropping 1.5%, pressuring the Dow to below the flatline.
-
----
-
-### 2026-08-13 23:47:13  #其他
-
-巴西國家統計局表示，部分客戶沒有可用的資料中心。
-
----
-
-### 2026-08-13 23:46:04  #國際
-
-市場訊息：美國在伊朗戰爭中損失了約25%的“死神”無人機。
-
----
-
-### 2026-08-13 23:45:28  #市場
-
-智利中央銀行以平均每份913.00智利比索的價格賣出7300萬美元外匯遠期合約。
-
----
-
-### 2026-08-13 23:44:57  #MKT News #Important #WTI #Impact bullish
-
-【Iran supreme leader adviser says Tehran may escalate conflict if demands unmet】On the 13th an adviser to Iran's supreme leader posted on social media that if Iran's conditions are not met the supreme leader has made a strategic decision to respond by escalating the conflict. He said recent events show the United States lacks the ability to protect its Persian Gulf allies and urged advancing the "Hormuz Economic Security Mechanism" as the most durable path to a new regional order and to reduce reliance on U.S. military guarantees.
-
----
-
-### 2026-08-13 23:44:38  #國際
-
-【伊朗最高領袖顧問：若條件得不到滿足 或升級衝突】伊朗最高領袖顧問穆赫貝爾13日在社交媒體上發文說，如果伊朗提出的條件得不到滿足，最高領袖已明確作出戰略決策，將採取升級衝突的方式予以回應。穆赫貝爾說，當前局勢已證明美國缺乏保護其波斯灣盟友的能力。他還表示，建立地區新秩序最為持久的路徑，在於推動實施“霍爾木茲經濟安全機制”，以擺脫對美國軍事保障的依賴。（新華社）
-
----
-
-### 2026-08-13 23:43:57  #公司
-
-【億萬富豪阿克曼旗下Pershing將推出首支風險投資基金 押注IPO前企業】對沖基金億萬富豪比爾·阿克曼旗下投資公司正在籌備一項新的投資工具，讓投資者能夠投資首次公開募股（IPO）前的公司，成為又一家推出新基金、為投資者提供高增長初創企業投資敞口的公司。阿克曼和公司首席投資官Ryan Israel週三在致股東信中表示，Pershing Square Inc.已啟動Pershing Square Ventures Ltd.基金的籌備工作。這是一種常青型永久資本投資工具，在所投企業上市後仍可繼續持有其股份。
-
----
-
-### 2026-08-13 23:43:37  #MKT News
-
-Billionaire Bill Ackman's Pershing Square plans to launch its first venture-capital fund to invest in pre-IPO companies.
-
----
-
-### 2026-08-13 23:43:20  #MKT News #WDC.O #Impact bullish
-
-SanDisk top executive said the company expects to deliver first high-bandwidth flash (HBF) samples for AI inference devices to customers next year and has completed tape-out of its initial HBF chip.
-
----
-
-### 2026-08-13 23:42:55  #焦點 #國際
-
-【美媒：美國將向中東部署“華盛頓”號航母】美國《華爾街日報》13日援引美官員的話報道，美國正準備將“喬治·華盛頓”號航母部署到中東，以替換“亞伯拉罕·林肯”號航母。（新華社）
-
----
-
-### 2026-08-13 23:42:20  #其他
-
-【尼泊爾西部發生山體滑坡 已致10人死亡】近日，尼泊爾西部羅爾帕地區連降暴雨並引發山體滑坡。當地警方表示，截至當地時間13日，災害已造成至少10人死亡。當地警方通報稱，此次山體滑坡掩埋了多棟建築。救援人員和醫療衛生工作組已趕赴災區現場。（央視新聞）
-
----
-
-### 2026-08-13 23:41:26  #市場
-
-洲際交易所英國9月天然氣期貨結算價為148.48便士/撒姆。
-
----
-
-### 2026-08-13 23:40:12  #公司
-
-閃迪高管稱公司預計明年向客戶交付首批用於推理裝置的HBF樣品。
-
----
-
-### 2026-08-13 23:38:52  #公司
-
-閃迪高管稱公司已完成首款高頻寬快閃記憶體晶片的流片。
-
----
-
-### 2026-08-13 23:38:42  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-On Thursday, August 13, major European bourses closed: Germany's DAX fell 37.69 points (0.14%) to 26,308.60; the UK FTSE 100 dropped 63.95 points (0.59%) to 10,769.20; France's CAC 40 lost 24.38 points (0.28%) to 8,650.56; the Euro STOXX 50 rose 13.96 points (0.21%) to 6,547.95; Spain's IBEX 35 slipped 25.25 points (0.12%) to 20,179.15; Italy's FTSE MIB ticked up 26.34 points (0.05%) to 53,725.00.
-
----
-
-### 2026-08-13 23:37:23  #宏觀
-
-【工業旅遊市場有望突破3000億元】七部門出臺政策扶持工業旅遊，開放產線觀摩、手工體驗等多元業態。2025年國內工業旅遊總收入1200億元，同比增長10%。研究機構預測，中國工業旅遊年均增速達18%，2029年市場有望突破3000億元，產業增長空間廣闊。（央視財經）
-
----
-
-### 2026-08-13 23:36:44  #公司
-
-巴西CSN公司首席財務官稱，該公司仍在為旗下鋼鐵業務分析戰略可能性，這些可能性"將提升該業務的現金創造能力"。
-
----
-
-### 2026-08-13 23:36:01  #公司 #市場 #國際
-
-【報道稱AMD擬透過債券發行融資高達50億美元】據報道，AMD擬透過債券發行融資高達50億美元，或為該公司史上最大規模投資級債券發行，加入AI熱潮驅動的企業發債浪潮。據知情人士透露，此次發行的最終規模尚未確定，可能根據需求進行調整。另一位知情人士表示，AMD將分四批發行票據，期限從3年到10年不等。最長期限品種的初始價格指引為較美國國債收益率溢價1.15個百分點。
-
----
-
-### 2026-08-13 23:35:53  #公司
-
-【高爭民爆：上半年淨利潤同比下降53.11%】高爭民爆公告顯示，2026年上半年營業收入7.32億元，同比下降5.16%；淨利潤3245.04萬元，同比下降53.11%。其中，第二季度淨利潤環比第一季度增長142%。
-
----
-
-### 2026-08-13 23:35:46  #公司
-
-市場訊息：馬克·沃爾特質押古根海姆股份，用以快速獲取貸款。
-
----
-
-### 2026-08-13 23:35:12  #MKT News
-
-【Industrial tourism market could exceed 300 bln yuan】Seven government departments rolled out policies to support industrial tourism, opening factory-line visits and hands-on experiences. Domestic industrial tourism revenue is projected at 120 bln yuan in 2025, up 10% YoY. A research institute forecasts ~18% annual growth, projecting the market could surpass 300 bln yuan by 2029.
-
----
-
-### 2026-08-13 23:35:10  #MKT News
-
-A U.S. judge dismissed the Trump administration's lawsuit alleging Harvard failed to protect Jewish students.
-
----
-
-### 2026-08-13 23:34:44  #公司 #觀點 #央行 #國際
-
-【高盛副董事長稱美聯儲7月未加息絕對正確 或可“拖一拖”觀察更多訊號】高盛集團副董事長、前達拉斯聯儲銀行行長Robert Kaplan表示，美聯儲7月沒有加息“絕對”是正確的決定，並呼籲決策者在9月前保持開放態度。Kaplan認為，當前推升和壓低通脹的力量相互交織，過於僵化的前瞻指引反而可能適得其反。“如果我看到有切實的改善，我可能願意拖一拖，什麼都不做，”Kaplan表示。“但在作出判斷前，我希望充分利用從現在到9月的每一點時間，避免過於僵化或提前確定立場。”
-
----
-
-### 2026-08-13 23:34:28  #MKT News #Macro & Rates #US10Y #Impact bullish #XAUUSD #DXY #Impact bearish
-
-U.S. 8-week Treasury bill auction on Aug. 13: stop-out yield 3.665%, prior 3.71%.
-
----
-
-### 2026-08-13 23:34:16  #MKT News #Economic Calendar
-
-United States | 8-Week Bill Auction High Yield Rate (Aug.13) | actual 3.665% | previous 3.71%
-
----
-
-### 2026-08-13 23:34:15  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-US 8-week Treasury bill auction to Aug 13: percentage allocated at the stop-out yield 36.84% (prior 17.93%).
-
----
-
-### 2026-08-13 23:34:05  #國際
-
-市場訊息：美國大使館稱已在墨西哥米卻肯州恢複相關活動。
-
----
-
-### 2026-08-13 23:33:59  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 8-week Treasury auction bid-cover ratio 2.85 on Aug 13, versus 2.74 previously.
-
----
-
-### 2026-08-13 23:33:46  #MKT News #Economic Calendar
-
-United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.85 | previous 2.74
-
----
-
-### 2026-08-13 23:33:46  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-US 4-week Treasury bill auction for Aug. 13: share of allotment awarded at the stop-out yield 79.23% vs 72.82% prior.
-
----
-
-### 2026-08-13 23:33:42  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 4-week Treasury auction as of Aug. 13, bid-cover ratio 2.77; prior 2.68.
-
----
-
-### 2026-08-13 23:33:39  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-U.S. 4-week Treasury auction to Aug. 13: stop-out yield 3.625%, prior 3.64%.
-
----
-
-### 2026-08-13 23:33:30  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.77 | previous 2.68
-
----
-
-### 2026-08-13 23:33:30  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction High Yield Rate (Aug.13) | actual 79.23% | previous 72.82%
-
----
-
-### 2026-08-13 23:33:30  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction Accepted at High (Aug.13) | actual 3.625% | previous 3.64%
-
----
-
-### 2026-08-13 23:33:14  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【USS Washington to relieve USS Lincoln in Middle East; lawmakers cite crew fatigue】US officials told the Wall Street Journal the carrier USS Washington will rotate into the Middle East to relieve USS Lincoln under a planned swap. Lincoln has been on an extended deployment since November with few port calls and was redeployed to the region in January ahead of operations against Iran. The carrier and its air wing were central to the US 'Epic of Fury' bombing campaign and later participated in a blockade of Iranian ports. Lawmakers say the sustained high operational tempo and prolonged deployment have strained crew welfare and are pressing the Pentagon for more information on living conditions and mental-health issues.
-
----
-
-### 2026-08-13 23:33:10  #國際
-
-【華盛頓號赴中東換防 林肯號艦員身心俱疲遭議員問責】據報道，知情美國官員稱，美國正準備按此前計劃好的輪換方案，派遣“華盛頓”號航空母艦前往中東接替“林肯”號。“林肯”號已執行了漫長的部署任務，停靠港口次數極少，引發國會議員對艦上生活條件的擔憂。“林肯”號於去年11月開始按計劃部署，並於今年1月在對伊開戰前被調往中東。該航母及其搭載的飛機在美國“史詩之怒”轟炸行動中發揮了關鍵作用，此後還參與了美國對伊朗港口的封鎖。據國會議員稱，高強度的作戰節奏和長時間部署帶來的壓力已令艦員不堪重負。他們正向五角大樓施壓，要求提供更多關於艦上生活條件和心理健康問題的資訊。
-
----
-
-### 2026-08-13 23:32:57  #Trading Economics #Economy #Colombia #Consumer Confidence #Importance 1
-
-Colombia Consumer Confidence Weakens in July — Colombia’s Consumer Confidence Index fell 3.6 percentage points to 20.7% in July 2026 from 24.3% in June. The decline was driven by a 7.4-point drop in the Economic Conditions Index to 6.4%, while the Consumer Expectations Index fell 1.1 points to 30.3%. The share of respondents expecting “good economic times” over the next 12 months declined to 24.8% from 31.3%. Meanwhile, expectations for an improvement in the national economy rose to 24.3% from 22.5%, while households reported a better outlook for their current financial situation, with the indicator rising to 41.8% from 40.2%. The share of respondents reporting a deterioration in their household’s financial condition fell slightly to 11.1% from 11.5%. Meanwhile, willingness to purchase durable goods slumped to 1.7% from 16.1%.
-
----
-
-### 2026-08-13 23:32:29  #國際
-
-市場訊息：美國八週期國庫券的投標/承銷比率為2.85，高於上一次拍賣的2.74。
-
----
-
-### 2026-08-13 23:31:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-Bank of England chief economist Pill said recent UK GDP data make him more confident the economy will avoid a sharp downturn.
-
----
-
-### 2026-08-13 23:31:44  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
-
-SanDisk (SNDK.O) top executive said Meta Platforms (META.O) will join an industry group to co-develop open standards for high-bandwidth flash (HBF).
-
----
-
-### 2026-08-13 23:31:24  #其他
-
-市場訊息：新的航空母艦將取代林肯號航母。
-
----
-
-### 2026-08-13 23:31:09  #市場 #國際
-
-歐洲STOXX指數上漲0.18%；歐元區藍籌股上漲0.16%。
-
----
-
-### 2026-08-13 23:31:04  #市場
-
-法國CAC 40指數下跌0.29%；西班牙IBEX指數下跌0.1%。
-
----
-
-### 2026-08-13 23:31:00  #市場
-
-英國富時100指數下跌0.69%；德國DAX指數下跌0.15%。
-
----
-
-### 2026-08-13 23:30:44  #MKT News #HII.O #Impact bullish
-
-Wall Street Journal reports a new aircraft carrier will replace the Lincoln.
-
----
-
-### 2026-08-13 23:30:43  #國際
-
-市場訊息：美國法官駁回特朗普政府指控哈佛大學未能保護猶太學生的訴訟。
-
----
-
-### 2026-08-13 23:30:34  #其他
-
-閃迪高管稱，Meta將加入聯盟，共同制定高頻寬快閃記憶體開放標準。
-
----
-
-### 2026-08-13 23:30:26  #市場 #國際
-
-京東在美國上市的股票跌幅擴大，最新下跌7.9%。
-
----
-
-### 2026-08-13 23:29:51  #市場 #焦點
-
-納斯達克中國金龍指數跌超2%，京東跌7.87%，盛豐物流跌6.28%，中比能源跌4.81%，Tims中國跌4.71%，滿幫跌4.64%。
-
----
-
-### 2026-08-13 23:29:16  #央行 #其他
-
-英國央行貨幣政策委員會委員就英國GDP資料發表看法：這朝著讓我確信我們並未陷入急劇衰退的方向發展。
-
----
-
-### 2026-08-13 23:29:11  #MKT News #Important #WTI #Impact bullish #Brent #S&P500 #Impact bearish
-
-The U.S. will deploy a new aircraft carrier to the Middle East.
-
----
-
-### 2026-08-13 23:28:52  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
-
-Reports of a Houthi attack on an ARAMCO refinery pushed diesel crack spreads above $98, their highest on record.
-
----
-
-### 2026-08-13 23:28:31  #國際
-
-市場訊息：美國將向中東派遣新型航空母艦。
-
----
-
-### 2026-08-13 23:26:42  #其他
-
-柴油裂解價差<HOc1-CLc1>升至每桶98美元上方，創歷史新高，此前有報道稱葉門胡塞武裝襲擊了沙烏地阿拉伯的阿美煉油廠。
-
----
-
-### 2026-08-13 23:25:15  #MKT News #Important #AMD.O
-
-AMD plans to raise up to $5 billion through a bond offering.
-
----
-
-### 2026-08-13 23:24:44  #MKT News #Important #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) continues to rally; gains widen to 15%.
-
----
-
-### 2026-08-13 23:24:39  #其他
-
-閃迪(SNDK.O)持續走高，漲幅擴大至15%。
-
----
-
-### 2026-08-13 23:24:10  #其他
-
-市場訊息：AMD擬透過發債募資至多50億美元。
 
 ---

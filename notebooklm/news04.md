@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 03:51:46_
-_本檔包含 3133 則快訊，約 602400 字_
+_更新時間：2026-08-15 04:34:04_
+_本檔包含 3148 則快訊，約 602724 字_
+
+---
+
+### 2026-08-11 19:39:11  #MKT News
+
+Germany's transport minister said the country is not yet facing a supply crisis and supply chains remain operational, but some regions are experiencing isolated price spikes.
+
+---
+
+### 2026-08-11 19:39:08  #宏觀
+
+【涉及電風扇、玩具等產品 市場監管總局撤銷764張CCC認證證書】記者今天瞭解到，市場監管總局通報2025年度認證（強制性產品認證目錄內產品）有效性抽查結果。對強制性產品認證領域（電風扇、玩具、載重車輛、家用燃氣灶具、電動腳踏車、電線電纜等39種產品）的2483批次產品實施了認證有效性抽查，認證機構覆蓋率為41.18%。市場監管總局已將抽查發現不符合認證要求的獲證生產企業和產品資訊通報至有關認證機構，並部署認證機構開展認證質量追溯和風險排查，要求以問題為導向，進一步落實獲證生產企業質量安全主體責任，強化對認證活動的質量管控，提高認證有效性。認證機構已依據相關規定對不符合認證要求的獲證生產企業和產品共計作出撤銷764張認證證書的處理。（央視新聞）
+
+---
+
+### 2026-08-11 19:39:01  #MKT News #Brent #Impact bullish #WTI #EURUSD #Impact bearish
+
+Germany's transport minister said the government is monitoring a surge in fuel prices; this summer's extreme heat has lowered water levels and already pushed up prices in some regions.
+
+---
+
+### 2026-08-11 19:38:18  #公司
+
+【紅豆股份：控股股東及其一致行動人權益變動跨越5%整數倍】紅豆股份公告稱，控股股東紅豆集團及其一致行動人權益變動，比例從64.30%減至57.85%，跨越5%整數倍。變動涉及減持、增持、限制性股票回購登出、一致行動人範圍調整及司法拍賣等。如2026年7月3 - 4日，紅豆集團8150萬股被司法拍賣，8月7日完成過戶。此次變動不影響控股權和公司經營，符合法規要求。
+
+---
+
+### 2026-08-11 19:37:50  #其他
+
+科思創表示，儘管採取了廣泛的應對措施，但在當前嚴重低水位情況下，運力不足的問題仍無法完全彌補。
+
+---
+
+### 2026-08-11 19:37:33  #其他
+
+【批覆同意 雲南將建設這個風電場專案】日前，雲南省發展和改革委員會作出批覆，同意建設紅河哈尼族彝族自治州彌勒市永寧風電場（五期）專案。專案總裝機容量5.4萬千瓦，主要建設9颱風電機組。專案總投資26303.40萬元，其中專案資本金為5260.68萬元，佔專案總投資的比例為20%，由專案單位自籌解決；其餘資金由專案單位申請銀行貸款解決。（雲南釋出）
+
+---
+
+### 2026-08-11 19:36:49  #公司
+
+【寮國水電首經中老500千伏通道送達粵港澳大灣區】記者從南方電網瀾湄國際能源有限責任公司瞭解到，近日，寮國水電首次經中老500千伏聯網工程接入雲南後送達粵港澳大灣區，本次送電工作預計持續到10月底，輸送總量約6億千瓦時，相關電量同步參與南方區域電力市場交易。 中老500千伏聯網工程於4月20日正式投運，寮國北部清潔能源基地的光伏電能當日即透過該通道送入雲南。此次寮國水電成功送達粵港澳大灣區，進一步拓寬了跨境清潔能源的消納範圍，推動形成“光伏+水電”互補的跨境清潔能源輸送格局。 南網瀾湄國際公司市場交易部副總經理嚴明輝表示，2026年透過中老500千伏聯網工程輸送的光伏和水電參與市場化交易電量預計可達15億千瓦時，下一步將持續發揮中老500千伏聯網工程與“西電東送”大通道的協同效能，促進兩國能源優勢互補，提升瀾湄區域能源資源配置效率，推進“一帶一路”能源合作走深走實。 據瞭解，中老電力聯網合作已走過十餘年曆程。2009年，南方電網首次透過115千伏線路向寮國北部地區供電；2022年，中老雙向電力貿易透過115千伏線路正式啟動；中老500千伏聯網工程投運後，兩國電力合作正式邁入更高電壓等級、更大輸送規模的新階段。(新華社)
+
+---
+
+### 2026-08-11 19:36:38  #國際
+
+據伊朗媒體11日報道，巴基斯坦內政部長穆赫辛·納克維當天抵達伊朗首都德黑蘭，將與伊朗官員舉行會談。（新華國際）
+
+---
+
+### 2026-08-11 19:36:16  #市場
+
+【本週行業市場SSD和記憶體條價格持平】隨著原廠積極推動PC OEM匯入驗證QLC cSSD，QLC在PC終端的應用正不斷擴大。原廠基於採用QLC新資源生產的相對應SSD給予一定的價格傾斜而更具價格優勢，仍在原廠供應範疇的頭部PC OEM亦將此作為其採購價格衡量標準之一。另外，從個別原廠Q3 PC NAND初步合約報價來看，價格漲幅也較Q2明顯溫和且低於市場預期，導致市場雜音正不斷動搖行業客戶採購意願，甚至部分中小客戶目標價位逐漸下移，買賣雙方價格持續拉鋸。本週行業市場SSD和記憶體條價格持平。（CFM快閃記憶體市場）
+
+---
+
+### 2026-08-11 19:35:58  #公司 #市場 #國際
+
+【Beyond Meat美股盤前一度跌近21%，公司董事會批准按1:30比例進行反向股票分割】Beyond Meat美股盤前一度跌近21%，Beyond Meat董事會已選定以1比30的比例對其普通股進行反向股票分割，自2026年8月13日晚上11:59（美國東部時間）起生效，此舉旨在重新達到納斯達克的合規要求。
+
+---
+
+### 2026-08-11 19:35:47  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Indian Stocks Close at August Low — Indian stocks closed firmly lower on Tuesday, their lowest so far this month as the risk of a prolonged Middle East conflict deteriorated the Indian macroeconomic backdrop. The S&P/BSE Sensex fell 0.5% to 78,154 and the NSE Nifty 50 dropped 0.5% to 24,472. Crude oil and refined fuel prices extended their increase during the session after US President Trump hardened his stance on Iran and reiterated that the US can force a deal by waiting until Iran's economy worsens further. Higher oil prices raise costs for India's major import and magnify capital outflows to pressure the rupee, denting demand for domestic assets for foreign investors. Higher energy prices also pressure the RBI to tighten policy. Financial companies closed lower with InduSind Bank, Axis Bank, and Bajaj Finance dropping more than 1%. Energy dependent consumer goods companies also fell with Neste and Hindustan Unilever falling over 1%.
+
+---
+
+### 2026-08-11 19:35:45  #公司
+
+【ST長園：多項訴訟案件處於執行、上訴或重審階段】ST長園公告稱，公司多項訴訟有新進展。建設工程施工合同類訴訟中，兩起案件已判決生效，子公司申請強制執行；股權交易類訴訟中，一起案件子公司上訴未判決，另一起被髮回重審；山東至博訴公司證券虛假陳述責任糾紛案件處於二審審理階段，涉案金額約5.72億元，公司已按一審判決付款。本次訴訟對淨利潤的最終影響以審計結果為準。
+
+---
+
+### 2026-08-11 19:35:11  #公司
+
+【完美世界：擬5億元認購投資基金份額】完美世界公告稱，公司於2026年8月10日召開董事會，審議透過以自有資金5億元認購深圳市機智登月貳號創業投資企業（有限合夥）基金份額的議案。該基金暫定規模35億元，公司擬認繳比例為14.2857%，主要投向新興科技領域。本次投資不構成重大資產重組和關聯交易，預計對公司財務和業績無重大影響，不過基金實施存在不確定性，公司將持續關注並及時披露。
+
+---
+
+### 2026-08-11 19:35:01  #公司
+
+【強瑞技術：擬定增募資不超10.5億元用於AI伺服器精密液冷部件產品等專案】強瑞技術(301128.SZ)公告稱，公司董事會審議透過2026年度向特定物件發行股票方案，擬募資總額不超過10.5億元，用於AI伺服器精密液冷部件產品及伺服器自動化組裝、檢測裝置研發與製造專案、高階半導體裝置精密零部件生產製造專案、龍華區總部基地建設專案及補充流動資金。
+
+---
+
+### 2026-08-11 19:34:45  #MKT News
+
+【Colombia quake death toll rises to 169】Colombian authorities said on the 11th a strong earthquake has killed 169 people.
+
+---
+
+### 2026-08-11 19:34:44  #其他
+
+【哥倫比亞強震死亡人數升至169人】哥倫比亞方面11日最新通報說，在該國發生的強震已造成169人死亡。（新華社）
+
+---
+
+### 2026-08-11 19:34:35  #其他
+
+【本週嵌入eMMC價格基本不變】儘管上月以來儲存廠商已對64GB eMMC產品小幅讓價，但刺激需求的力度十分有限，基於當前市場普遍交易平淡且買方採購意願並不積極，而資源成本維持高位，短期記憶體儲廠商已不願頻繁調價，本週嵌入eMMC價格基本不變。不過，若後期為追求業績而加速出貨，一旦更多的儲存廠商跟進降價求售，那麼64GB eMMC價格將繼續下探，屆時64GB與32GB及以下容量嵌入式eMMC產品的價格將形成倒掛。（CFM快閃記憶體市場）
+
+---
+
+### 2026-08-11 19:33:31  #國際
+
+印度證券交易委員會(SEBI)釋出通知，即日起放寬市政債券發行規則。
+
+---
+
+### 2026-08-11 19:32:51  #其他
+
+市場訊息：TARGET稱加強了人工智慧和使用者體驗能力。
+
+---
+
+### 2026-08-11 19:31:51  #MKT News
+
+【Zhejiang Water Resources Department adjusts water-and-drought (typhoon) emergency response to Level II】Zhejiang Water Resources Department said Typhoon Baihaitun’s center has moved out of Zhejiang. China’s Central Meteorological Observatory ceased numbering the storm at 17:00 on Aug 11. The provincial flood-control command had set the typhoon emergency response at Level III; under the provincial water-and-drought emergency plan the Water Resources Department at 19:00 on Aug 11 adjusted the water-and-drought (typhoon) emergency response to Level II.
+
+---
+
+### 2026-08-11 19:31:47  #其他
+
+Grandstand推出專為高限額場景打造的簽帳金融卡。
+
+---
+
+### 2026-08-11 19:31:36  #公司 #國際
+
+【山西暴雨藍色預警釋出 部分列車停運景區閉園】8月11日，山西省氣象臺釋出暴雨藍色預警，預計11日、12日，長治、晉城、晉中東部、陽泉降雨量將達50毫米以上。受降雨天氣影響，8月11日—14日，山西部分列車臨時停運，包括陽泉東至太原南D1095次和太原南至陽泉東D1096次等。鐵路部門提醒市民和旅客留意12306簡訊通知和車站公告，以免耽誤行程。同時，受颱風“白海豚”影響，太行山大峽谷景區、通天峽景區臨時閉園。（央視新聞）
+
+---
+
+### 2026-08-11 19:31:26  #其他
+
+RIVER AI：本輪融資獲英偉達、AMD風投部門出資。
+
+---
+
+### 2026-08-11 19:30:55  #公司 #市場
+
+【德國基金行業管理的資產規模首次突破5萬億歐元 ETF需求強勁】在交易所交易基金(ETF)需求的推動下，德國基金行業管理的資產規模首次突破5萬億歐元（5.8萬億美元）。德國基金業協會BVI週二在一份公告中表示，今年上半年，全行業資產管理規模增加3480億歐元，達到5.2萬億歐元。資產市值上漲貢獻了大部分增幅，同時ETF投資也帶來相當可觀的增長。在全行業總計740億歐元的淨流入中，ETF吸引了近400億歐元新增資金。
+
+---
+
+### 2026-08-11 19:30:37  #其他
+
+RIVER AI獲GENERAL CATALYST和AMP PBC領投11億美元融資，用於構建開放式人工智慧技術棧。
+
+---
+
+### 2026-08-11 19:30:31  #公司 #市場
+
+ACV AUCTIONS股價上漲15%，此前有訊息稱該公司正在考慮出售。
+
+---
+
+### 2026-08-11 19:30:31  #MKT News #Market Regions #Europe & UK
+
+Germany's fund industry assets under management topped €5 trillion for the first time.
+
+---
+
+### 2026-08-11 19:30:14  #其他
+
+市場訊息：ACV拍賣行據稱在收購意向中探索出售。
+
+---
+
+### 2026-08-11 19:29:46  #其他
+
+【浙江省水利廳調整水旱災害防禦（防颱）應急響應至Ⅱ級】浙江省水利廳訊息，颱風“白海豚”中心已移出浙江省，今日（8月11日）17時中央氣象臺對其停止編號，省防指已將防颱風應急響應等級調整至Ⅲ級（三級）。根據《浙江省水利廳水旱災害防禦應急工作預案》，省水利廳決定於今日19時將水旱災害防禦（防颱）應急響應調整至Ⅱ級（二級）。當前部分江河湖庫仍在高水位執行，相關地區水利部門要繼續保持高度警惕，密切監視水情工情，繼續科學排程水利工程，加強安全管理，做好後續水旱災害防禦工作。
+
+---
+
+### 2026-08-11 19:29:21  #公司
+
+【欣興工具：簽訂募集資金三方監管協議 募資淨額7.58億元】欣興工具公告稱，公司首次公開發行2500萬股，發行價33.58元/股，募集資金總額8.395億元，扣除發行費用後，實際募資淨額7.58億元，已於7月24日全部到位。公司及保薦機構華泰聯合證券與工商銀行、寧波銀行等五家銀行簽訂《募集資金三方監管協議》，明確了各方在募資儲存、使用、監督等方面的權利義務，以規範募資管理，保護投資者權益。
+
+---
+
+### 2026-08-11 19:29:11  #其他
+
+【海軍“絲路方舟”號醫院船在南海某海域開展實戰化衛勤演訓】近日，海軍“絲路方舟”號醫院船奔赴南海某海域，開展海上衛勤實戰化演訓。此次演訓圍繞小艇換乘、應急處突、批次傷病員救治等課目展開，錘鍊遠海衛勤保障能力。抵達預定海域後，醫院船隨即轉入戰鬥部署。艙面保障人員快速完成小艇吊放、物資裝載等作業，透過小艇換乘方式靈活接收“傷員”。（央視新聞）
+
+---
+
+### 2026-08-11 19:28:27  #公司
+
+【鴻利智匯與深圳市人工智慧產業協會簽署戰略合作框架協議】據鴻利智匯訊息，8月11日，鴻利智匯與深圳市人工智慧產業協會簽署戰略合作框架協議。雙方將建立緊密的戰略合作伙伴關係，推動公司LED半導體及相關產業與人工智慧技術的深度融合，助力產業智慧化升級與生態共建。
+
+---
+
+### 2026-08-11 19:27:25  #宏觀 #國際
+
+印度市場監管機構釋出關於2015年市政債券證券發行與上市規定的通知。
+
+---
+
+### 2026-08-11 19:27:17  #其他
+
+瑞士議員：仍希望秋季將銀行業法案提交議會表決，但上議院委員會將於月底再次開會。
+
+---
+
+### 2026-08-11 19:26:54  #其他
+
+【孟凡利主持召開加快推進專案建設工作會議強調 堅決抓好下半年專案建設和投資工作】據廣東省人民政府入口網站，8月11日，廣東省委副書記、省長孟凡利主持召開加快推進專案建設工作會議，強調要堅持目標導向、問題導向、結果導向，堅決抓好下半年專案建設和投資工作。孟凡利強調，要面向長遠，突出重點、全面梳理、科學謀劃，儘快形成可能的、可行的、近期可操作的專案儲備庫，為“十五五”和更長遠的經濟社會發展打下堅實基礎。全面梳理所有可能的專案，對照水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網“六張網”，綜合立體交通設施、低空基礎設施、“人工智慧+”、教育醫療等公共服務設施、消費基礎設施等五個重點領域，農業農村、新型工業化、科技創新、城市更新、防災減災等五方面重點工作，逐個領域、逐個環節深入摸查，結合地方實際，找準需求所在、潛力所在。全面梳理所有可行的專案，首先要把重點放在市場可行上，有穩定可行的商業模式，同時，對政府需要參與的要充分研究論證合規性、合理性和能負擔得起。當前重中之重是抓緊落實一批近期可操作的專案，爭取儘快開工、形成有效投資。
+
+---
+
+### 2026-08-11 19:26:44  #MKT News #Star Stocks #Xiaomi #01810.HK #Impact bullish
+
+HKEX filing: Xiaomi Group (01810.HK) repurchased 1.9 mln Class B shares on Aug 11 for HKD50.0 mln, average HKD26.32 per share.
+
+---
+
+### 2026-08-11 19:26:24  #公司
+
+港交所披露檔案顯示，小米於8月11日回購190萬股B類股份，總金額為5000萬港元。
+
+---
+
+### 2026-08-11 19:26:11  #公司
+
+阿格斯研究公司將波音評級從持有上調至買入。
+
+---
+
+### 2026-08-11 19:24:22  #公司 #市場
+
+雷蒙德詹姆斯將巴里克黃金公司目標價從58美元下調至56美元。
+
+---
+
+### 2026-08-11 19:21:36  #市場
+
+百思買股價盤前上漲2.2%，此前Truist Securities上調其評級至“買入”。
+
+---
+
+### 2026-08-11 19:21:25  #公司 #市場
+
+【何小鵬談“速成車”：高品質、高安全、全球化一定是造車底線，是高於一切的硬性標準】在小鵬G9L全球首秀暨預售釋出會上，小鵬集團董事長、CEO何小鵬發表演講。何小鵬表示，小鵬G9L定位黃金大五座科技旗艦，作為一款全球車型具備全球品質，符合全球64個國家及地區超3000項法規條目。歷時三年測試，跨越26個國家及地區，累計測試里程突破674萬公里。他還提到，行業關於“速成車”有很多討論，小鵬G9L要經過3年左右的完整的開發週期，這款車有674萬公里的真實路測，將車身的結構、底盤、電池每一項都經過了更多更嚴格的測試，才會真正的釋出。“我們相信高品質、高安全、全球化一定是造車的底線，是高於一切的硬性的標準。”他說。（新浪科技）
+
+---
+
+### 2026-08-11 19:19:22  #公司 #市場
+
+【大摩：予老鋪黃金“增持”評級 目標價降至505港元】大摩釋出研報稱，將老鋪黃金目標價由590港元下調至505港元，予“增持”評級，調整主因是基於較預期較弱的2026年第二季業績，以及黃金價格環境下降，導致公司收入與盈利預測增量。大摩將老鋪黃金2026年預測收入及盈利削減14%，以及2027-28年預測收入及盈利削減11-12%，以反映在較低金價環境下2026年第二季業績弱於預期。
+
+---
+
+### 2026-08-11 19:17:41  #公司
+
+【錦龍股份：股東1650萬股股份司法拍賣因和解撤回】錦龍股份公告稱，此前公司披露股東朱鳳廉和楊志茂合計持有的1650萬股公司股份將於8月13 - 14日在京東網司法拍賣平臺公開拍賣。現接到股東函告，相關當事人達成執行和解協議，本次拍賣已撤回。公司將及時披露相關進展。
+
+---
+
+### 2026-08-11 19:16:53  #國際
+
+【中印尼兩國海軍艦艇將位臺島以東海域開展通航演練】記者11日從國防部獲悉，中國海軍紅河艦將於8月中旬與印度尼西亞海軍“萊”號護衛艦位臺島以東海域舉行通航演練，重點開展通訊操演、海上補給等科目演練，旨在提升兩國海軍聯合行動能力，深化雙方務實合作，共同維護地區和平穩定。（新華社）
+
+---
+
+### 2026-08-11 19:16:53  #Trading Economics #Economy #South Africa #Industrial Production #Importance 1
+
+South Africa Factory Activity Contracts for 3rd Month — South Africa’s manufacturing production fell 1.7% year-on-year in June 2026, easing from a downwardly revised 4.4% decline in May and remaining in contraction for a third consecutive month. The decline in food and beverages (-3.9% vs -5.8%) and wood, wood products, paper, publishing and printing (-8.9% vs -12.9%) softened. Meanwhile, output rebounded for glass and non-metallic products (1.2% vs -8.3%), basic iron and steel, non-ferrous metal products, metal products and machinery (0.1% vs -5.8%), and radio, television and communication equipment and professional equipment (3.3% vs -4.5%). Growth in petroleum, chemical products, rubber and plastics slowed to 1.2% from 2.3%. On a seasonally adjusted monthly basis, manufacturing output rose 0.9%, following a revised 1% increase in May. For the first half of the year, output shrank 1.7% compared to a year earlier.
 
 ---
 
@@ -18700,185 +18970,5 @@ Brent Rises for 4th Session — Brent crude oil rose above $84 per barrel on Mon
 ### 2026-08-10 17:15:32  #公司
 
 【方正電機：全資子公司出資1365萬元設立合資公司，持股39%】方正電機公告，公司全資子公司上海海能汽車電子有限公司與廣西聚控產業投資有限公司簽訂《合資協議》，共同出資設立合資公司，註冊資本3500萬元。其中廣西聚控出資2135萬元佔61%，上海海能出資1365萬元佔39%。合資公司暫定名“廣西桂芯智控科技有限公司”，將從事發動機電子控制系統、燃氣噴射系統等產品的研發、製造及銷售。本次對外投資事項已於2026年8月10日經公司第九屆第二次董事會審議透過。
-
----
-
-### 2026-08-10 17:14:24  #其他
-
-香港交易所資訊顯示，紐約梅隆銀行在中際旭創H股的持股比例於08月06日從5.61%降至3.94%。
-
----
-
-### 2026-08-10 17:14:08  #公司
-
-【浙江榮泰：2026年上半年淨利潤1.5億元 同比增21.67%】浙江榮泰公告，2026年上半年營業收入8.98億元，同比增長56.93%。歸屬於上市公司股東的淨利潤1.5億元，同比增長21.67%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.46億元，同比增長31.08%。
-
----
-
-### 2026-08-10 17:14:05  #公司
-
-【新五豐：7月生豬銷量57.88萬頭，同比增65.18%】新五豐公告，2026年7月銷售生豬57.88萬頭，同比增65.18%；其中銷售商品豬24.17萬頭，商品豬銷價10.38元/公斤。1-7月累計銷售生豬333.9萬頭，累計銷售商品豬181.99萬頭。
-
----
-
-### 2026-08-10 17:13:57  #公司 #觀點
-
-【上交所終止陽光集團發行上市稽核】因山西陽光焦化集團股份有限公司及其保薦人中信證券股份有限公司撤回發行上市申請，根據《上海證券交易所股票發行上市稽核規則》第六十三條有關規定，上交所終止其發行上市稽核。
-
----
-
-### 2026-08-10 17:12:56  #MKT News
-
-Market sources: India seeks to limit state governments' power to levy taxes on mineral resources and mines.
-
----
-
-### 2026-08-10 17:12:30  #公司
-
-【元徵科技：2026年中期淨利潤1.77億元，同比下降10%】元徵科技公告，2026年上半年營業收入10.71億元，同比增長9%。淨利潤1.77億元，上年同期淨利潤1.96億元，同比下降10%。每股盈利0.426元，派發中期股息每股0.29元。
-
----
-
-### 2026-08-10 17:11:50  #國際
-
-印度外交部：譴責斯洛維尼亞境內印度大使館館舍遭汙損。
-
----
-
-### 2026-08-10 17:11:31  #MKT News
-
-Emirates News Agency said the UAE thwarted cyberattacks targeting the aviation, energy and education sectors.
-
----
-
-### 2026-08-10 17:11:25  #其他
-
-阿聯酋訊息，阿聯酋挫敗了針對航空、能源與教育領域的網路攻擊。
-
----
-
-### 2026-08-10 17:11:06  #公司
-
-【廣東鈳銳鍶數控技術股份有限公司首發申請8月17日上會】上海證券交易所上市稽核委員會定於2026年8月17日召開2026年第47次上市稽核委員會審議會議。審議廣東鈳銳鍶數控技術股份有限公司的首發申請。
-
----
-
-### 2026-08-10 17:11:04  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Russian Defence Ministry said over the past 24 hours its air defences shot down 1,134 drones and 11 precision-guided aerial bombs. It said Russian forces struck Ukrainian energy and transport infrastructure, logistics hubs and drone assembly and storage facilities in the area of the special military operation.
-
----
-
-### 2026-08-10 17:10:51  #其他
-
-【上海：完善與積體電路產業配套的服務貿易】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》，建設方案提出，完善與積體電路產業配套的服務貿易。推動積體電路“設計+製造”融合，在臨港新片區建設國際聯合設計中心。支援積體電路企業實現全產業鏈突破，培育一批具有國際競爭力的領軍企業。按規定對綜合保稅區內進口檢測用消耗性材料根據實際檢測耗用核銷，對綜合保稅區外開展“兩頭在外”的積體電路檢測業務試點實施保稅監管。支援積體電路企業開展國際貿易分撥業務。
-
----
-
-### 2026-08-10 17:09:36  #公司
-
-【宏達電子：放棄參股公司46.75%股權轉讓優先購買權】宏達電子公告稱，公司於8月10日召開董事會，審議透過放棄參股公司宏訊微46.75%股權轉讓優先購買權暨關聯交易的議案。宏芯創融擬1486萬元將該部分股權轉給公司原董事胥遷均，公司持股29.75%不變。宏訊微2026年上半年營收861.59萬元、淨虧損423.67萬元。年初至公告披露日，公司與胥遷均另有超千萬元關聯交易。本次放棄優先購買權不影響合併報表範圍，對財務和經營無重大不利影響。
-
----
-
-### 2026-08-10 17:09:33  #公司
-
-【美的、光峰科技等成立創業投資合夥企業 出資額9286萬】天眼查App顯示，近日，寧波美和南旅創業投資合夥企業（有限合夥）成立，執行事務合夥人為美的創業投資管理有限公司，出資額9286萬人民幣，經營範圍為創業投資，由江西南旅投資集團有限公司、深圳光峰科技股份有限公司等共同出資。
-
----
-
-### 2026-08-10 17:09:30  #公司
-
-【*ST利源：駁回北信瑞豐訴訟請求 多起訴訟有新進展】*ST利源公告稱，近日收到法院送達的法律文書，駁回原告北信瑞豐基金管理有限公司的訴訟請求，此前原告已將訴請金額由6352.81萬元變更為2.09億元。此外，新增分期付款買賣合同糾紛等多起訴訟仲裁事項，涉及金額從3.28萬元到1386.39萬元不等。截至2026年8月7日，公司及控股子公司累計被凍結銀行賬戶32個，累計被申請凍結金額9254.80萬元，實際被凍結金額590.68萬元。
-
----
-
-### 2026-08-10 17:09:05  #MKT News #Market Themes #AI Revolution
-
-【Shanghai to expand cross‑border compute use and back export of base-model AI products】Shanghai Municipal Commission of Commerce and six other departments issued a plan to build a national service‑trade innovation demonstration zone. The plan aims to attract AI R&D centers, open‑source platforms and joint labs. It calls for expanding cross‑border invocation of computing power and base large models and explicitly supports export of model products, including intelligent agents and multimodal generation systems. The plan encourages embodied‑intelligence and smart‑terminal firms to roll out full‑lifecycle service models and promotes AI adoption in healthcare, education and professional services. It also backs hosting the World Artificial Intelligence Conference and global developer events, accelerating a World AI Cooperation Organization headquarters, designating Pudong as an AI innovation application pilot zone, and supporting Xuhui district’s “Mosu Space” large‑model innovation community. The plan includes exploring a global AI governance framework.
-
----
-
-### 2026-08-10 17:08:28  #公司 #市場
-
-【*ST威領：股票交易異常波動 不存在應披露未披露事項】*ST威領公告稱，公司股票在2026年8月6日、8月7日、8月10日連續3個交易日收盤價格漲幅累計偏離值達20%，屬於異常波動。經核查，公司2025年度經審計淨資產為負，股票被實施退市及其他風險警示；存在重大訴訟、銀行賬戶被凍結、子公司資產將司法拍賣等情況；對相關會計差錯進行更正。公司生產經營正常，不存在應披露未披露重大事項，控股股東及實控人期間未買賣公司股票。
-
----
-
-### 2026-08-10 17:08:16  #公司
-
-【康尼機電：證券虛假陳述糾紛部分案件二審判決結果公佈】康尼機電公告稱，近日收到江蘇高院送達的2名機構投資者訴公司證券虛假陳述責任糾紛案件的二審《民事判決書》。其中一案駁回上訴，維持原判，公司負擔二審案件受理費87,733元；另一案撤銷一審判決，公司需賠償上訴人投資損失9979.93萬元，國泰海通等相關方承擔連帶責任，公司合計負擔案件受理費104.11萬元。本次判決為終審判決，公司已履行部分賠付，前期已計提預計負債，對利潤無重大影響。剩餘3名自然人投資者索賠訴訟正在二審中。
-
----
-
-### 2026-08-10 17:08:01  #其他
-
-【上海：支援企業研發的創新藥、現代中藥和高階醫療器械全球註冊認證並在當地實現銷售】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》。其中指出，支援生物醫藥產業創新發展。支援企業研發的創新藥、現代中藥和高階醫療器械全球註冊認證並在當地實現銷售。擴大生物醫藥創新成果國際合作業務。支援具有成熟生產經驗的合同研發生產組織和生產企業承接委託生產活動。在自貿試驗區開展基因診斷與治療技術開發和應用擴大開放試點。在虹橋國際中央商務區、東方樞紐國際商務合作區建設國際醫療器械展覽、培訓、交易相關平臺。重點佈局浦東新區、閔行區、嘉定區，加快建設世界級生物醫藥產業叢集。
-
----
-
-### 2026-08-10 17:07:57  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
-
-【Shanghai to Back Integrated Circuit Firms in Achieving Full Industry-Chain Breakthroughs, Cultivate Internationally Competitive Leaders】Shanghai issued a plan to develop a national service-trade innovation demonstration zone, calling for stronger service-trade support for the integrated circuit sector. It will promote design+manufacturing integration and build an international joint design center in the Lingang New Area. The plan backs IC firms to achieve full industry‑chain breakthroughs and to cultivate internationally competitive leading companies. Customs and trade measures include allowing write‑off of imported consumable testing materials in comprehensive bonded zones based on actual consumption, piloting bonded supervision for IC testing operations with cross‑border inputs and outputs conducted outside comprehensive bonded zones, and supporting IC companies to operate international trade/distribution services.
-
----
-
-### 2026-08-10 17:07:42  #公司 #國際
-
-【甘李藥業：與Menarini簽署博凡格魯肽授權許可協議，首付款6200萬歐元】甘李藥業公告，公司近日與Menarini達成獨家許可協議，授予Menarini在歐盟27國及英國等39個歐洲國家和地區對博凡格魯肽超重或肥胖適應症的上市註冊及商業化權利。Menarini將支付不可退還的首付款6200萬歐元，累計最高可達6.64億歐元的里程碑付款，以及按最高雙位數比例支付的梯度特許權使用費。
-
----
-
-### 2026-08-10 17:07:23  #MKT News #CNH #Impact bullish
-
-PBOC said under the Memorandum between the People's Bank of China and the Deutsche Bundesbank it has authorized Deutsche Bank AG to serve as the renminbi clearing bank in Frankfurt.
-
----
-
-### 2026-08-10 17:07:17  #公司
-
-根據《中國人民銀行與德意志聯邦銀行備忘錄》，中國人民銀行決定授權德意志銀行股份有限公司擔任法蘭克福人民幣清算行。
-
----
-
-### 2026-08-10 17:07:02  #MKT News #Market Themes #AI Revolution #XAUUSD #Impact bullish #DXY #Nasdaq100 #Impact bearish
-
-【Senator Sanders urges AI firms to pause development, warns Congress may act】Axios reports Senator Bernie Sanders has sent letters to OpenAI CEO Sam Altman, ANTHROPIC CEO Dario Amodei and Mark Zuckerberg urging a pause in AI development and warning that lawmakers will intervene if they do not. Sanders wrote: “At a time when we have already seen humans lose control and produce potentially dangerous viruses, your companies are still racing—pouring tens of billions of dollars into a technology no one can fully understand, predict or control.” Axios adds that major AI legislation, particularly progressive-led efforts, is unlikely to pass this Congress; expect symbolic bills and public pressure now, but if Democrats retake either chamber Congress could pursue investigations and subpoenas of tech CEOs.
-
----
-
-### 2026-08-10 17:06:22  #其他
-
-【上海：推動算力和基礎大模型擴大境外呼叫 支援智慧體、多模態生成等模型產品出口】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》。其中指出，佈局與人工智慧產業協同發展的服務貿易。吸引企業和機構設立人工智慧研發中心、開源平臺和合作實驗室。推動算力和基礎大模型擴大境外呼叫，支援智慧體、多模態生成等模型產品出口。推動具身智慧等智慧終端企業拓展全週期服務新模式。支援人工智慧賦能醫療、教育、專業服務等行業。辦好世界人工智慧大會和全球開發者活動，加快世界人工智慧合作組織總部建設。支援浦東新區建設人工智慧創新應用先導區，支援徐彙區建設“模速空間”大模型創新生態社群。探索建立人工智慧全球治理體系。
-
----
-
-### 2026-08-10 17:06:20  #Trading Economics #Economy #Czech Republic #Unemployment Rate #Importance 1
-
-Czech Unemployment Rate Rises to 5% in July — Czech Republic’s unemployment rate rose to 5.0% in July 2026 from 4.8% in June, exceeding market expectations of 4.9% and marking the highest level in recent months. The number of unemployed increased by 7,162 from the previous month and by 2,896 year-on-year to 367,000. Women accounted for 54.5% of the total, while men represented 45.5%. Meanwhile, 35,386 applicants left the records, 6,768 fewer than in June but 5,720 more than a year earlier. A total of 23,975 applicants found new jobs. At the end of July, employment offices registered 16,379 school graduates and young people, accounting for 4.5% of total unemployment, up from 4.4% in June and 3.9% a year earlier. Job vacancies rose by 1,078 to 100,932.
-
----
-
-### 2026-08-10 17:06:11  #公司
-
-【芳源股份：2026年上半年營收14.66億元 同比增長62.87%】芳源股份公告稱，2026年上半年，公司實現營業收入14.66億元，同比增長62.87%；綜合毛利率達11.14%，較2025年末增長4.96個百分點。分產品線來看，前驅體、碳酸鋰產品出貨量增長，硫酸鹽類產品出貨量有降有升，高純電子化學品尚處初期。公司已實現戰略轉型，上半年回收料採購總量約2萬噸，佔主原料採購金額比重提升至約80%。此外，公司新增授權發明專利3項、發明專利申請2項，積極與投資者溝通，未來將探索多元化回報路徑。
-
----
-
-### 2026-08-10 17:06:00  #公司 #國際
-
-市場訊息：美國獨立參議員桑德斯敦促領先的人工智慧公司CEO們暫停人工智慧開發，並警告說，如果不採取行動，立法者將介入。
-
----
-
-### 2026-08-10 17:05:15  #市場 #國際
-
-馬來西亞富時吉隆坡綜合指數收盤基本持平，報1735.37點。
-
----
-
-### 2026-08-10 17:05:05  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【Shanghai targets services trade above $300 billion by 2030】Shanghai Municipal Commission of Commerce and six other municipal departments issued a plan to build a national services-trade innovation demonstration zone, coordinating the city's 'five centers' construction and prioritizing demand-led measures, reform, technology enablement and greater openness to expand, upgrade and internationalize services trade. The plan sets a citywide services-trade target of $270 billion by 2027 and above $300 billion by 2030, and calls for a more optimized trade structure, greater concentration of trade participants, freer factor mobility and stronger international competitiveness of service brands as part of positioning Shanghai as a national demonstration and a global services-trade hub.
 
 ---
