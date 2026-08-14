@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-14 08:51:44",
-  "count": 15466,
+  "updated": "2026-08-14 08:55:40",
+  "count": 15474,
   "items": [
+    {
+      "id": "mkt:019ffdc4-1b41-7aab-9030-d16d8b165796",
+      "time": "2026-08-14 08:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SMIC co-CEO Zhao Haijun: Q2 wafer ASP +5.7% QoQ】China's SMIC said Q2 wafer shipments rose 14.4% QoQ and wafer average selling price increased 5.7% QoQ, lifting single-quarter revenue above $3bn and delivering strong YoY and QoQ gains across core operating metrics; SMIC attributed shipment growth to AI-driven demand for supporting chips and customer pull‑ins. The company added capacity equivalent to 8,000 12‑inch wafers per month in the quarter; capacity utilization was 93.7%, up 0.6 ppt QoQ."
+    },
+    {
+      "id": "mkt:019ffdc3-423e-7aab-9030-c8206f15bea8",
+      "time": "2026-08-14 08:54:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump authorizes US Navy to build ships overseas】White House on Aug. 14 said President Trump has authorized the US Navy to construct ships overseas and ordered the Navy to abandon the electromagnetic aircraft-launch system (EMALS) on new carriers, reverting to steam catapults. A national security memorandum directs a design change to the fourth Ford-class carrier to drop EMALS used on the first three ships; the change is estimated to cost several hundred mln dlr."
+    },
+    {
+      "id": "5040241",
+      "time": "2026-08-14 08:53:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：二季度晶圓平均銷售單價環比提升5.7%】8月14日上午，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度，公司晶圓量價齊升，單季收入突破三十億美元，各項核心經營資料同比與環比均實現了大幅增長。其中，出貨量環比增加了14.4%，晶圓平均銷售單價環比提升了5.7%；出貨量的增加主要源於人工智慧對配套晶片需求的激增與客戶的提拉出貨。當季公司新增晶圓8000片摺合12英寸月產能；產能利用率為93.7%，環比增長0.6個百分點。"
+    },
+    {
+      "id": "mkt:019ffdc2-7a71-7aab-9030-c5c15cd9a6b5",
+      "time": "2026-08-14 08:53:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable."
+    },
+    {
+      "id": "5040240",
+      "time": "2026-08-14 08:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。"
+    },
+    {
+      "id": "5040239",
+      "time": "2026-08-14 08:52:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。"
+    },
+    {
+      "id": "te:markets:575220",
+      "time": "2026-08-14 08:52:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far."
+    },
+    {
+      "id": "mkt:019ffdc1-1e55-7aab-9030-be8317f4db7d",
+      "time": "2026-08-14 08:51:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization."
+    },
+    {
+      "id": "5040238",
+      "time": "2026-08-14 08:51:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。"
+    },
     {
       "id": "mkt:019ffdc0-8e62-7aab-9030-b5cd8d18e90a",
       "time": "2026-08-14 08:51:22",
@@ -26,6 +110,14 @@
         "其他"
       ],
       "text": "中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。"
+    },
+    {
+      "id": "5040235",
+      "time": "2026-08-14 08:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。"
     },
     {
       "id": "mkt:019ffdbe-cd20-7aab-9030-a9b5bb970b7e",
@@ -141550,30 +141642,6 @@
         "國際"
       ],
       "text": "【市場分析：日本可能已經用完了今年的干預次數額度】日本財務省4月至6月期間的外匯市場資料顯示，共有三個交易日買入了日元；再加上上週的干預行動，這可能意味著日本當局已用盡了國際貨幣基金組織(IMF)規則下允許的2026年度干預額度。在與美國財政部聯手買入日元后，未來六個月的干預計時器已被重置。這實際上意味著日本直至2027年初之前將無法採取干預行動。這對希望重新參與套息交易的匯市交易員而言是個好訊息。不過，一些投資者會質疑，在特朗普時代，舊有的基於規則的體系是否還有實際約束力。"
-    },
-    {
-      "id": "5029760",
-      "time": "2026-08-07 08:55:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數走低 軟銀估值擔憂壓過任天堂利好】週五日本股市走弱。相較於任天堂釋出的穩健財報，投資者更為擔憂軟銀的估值壓力。軟銀財報釋出後的交易日已連續四日收跌。此外，Lasertec 公司不及預期的業績，導致其早盤股價大幅下挫超9%，也帶來負面市場觀感。日經指數自上月低點以來的上漲勢頭似乎正在減弱，目前跌至6月至7月跌幅的50%回撤位下方。這或將使得趨勢交易資金在一段時間內繼續保持觀望。"
-    },
-    {
-      "id": "mkt:019fd9b6-d932-7aab-8fab-2a083fa9f7bd",
-      "time": "2026-08-07 08:54:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【US outlet MS NOW: Iran and Oman reach fee-free temporary framework to reopen Strait of Hormuz】US outlet MS NOW reports Oman and Iran have agreed a temporary framework to reopen the Strait of Hormuz without transit fees. Under the proposed corridor, commercial vessels would enter the Persian Gulf via Iran-controlled routes and exit via Oman-controlled routes. Iranian officials say the arrangement is fee-free and will be presented as a temporary measure that could pave the way for a Washington‑Tehran ceasefire announcement and revival of nuclear talks; the IMO and the US are expected to join a formal announcement. Gulf Cooperation Council members have reportedly endorsed the plan. Timing has not been disclosed. US support will depend on final details; a US official said Washington only backs a temporary reopening that is unimpeded and fee‑free."
     }
   ]
 }
