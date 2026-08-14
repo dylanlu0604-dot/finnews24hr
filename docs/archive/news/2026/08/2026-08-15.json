@@ -1,7 +1,39 @@
 {
   "date": "2026-08-15",
-  "count": 343,
+  "count": 346,
   "items": [
+    {
+      "id": "mkt:01a00237-ba11-7aab-9046-70d4c7035c15",
+      "time": "2026-08-15 05:40:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Barclays maintains 2026 Brent crude price forecast at $96/bbl."
+    },
+    {
+      "id": "5042010",
+      "time": "2026-08-15 05:39:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊：維持2026年布倫特原油價格預測為每桶96美元。"
+    },
+    {
+      "id": "mkt:01a00236-4304-7aab-9046-6ec360cad766",
+      "time": "2026-08-15 05:38:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ADNOC said one of its vessels was attacked while transiting the Strait of Hormuz on Aug. 14 local time. No injuries were reported and the situation is under control."
+    },
     {
       "id": "5042009",
       "time": "2026-08-15 05:37:26",
