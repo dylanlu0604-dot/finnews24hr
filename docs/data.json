@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 01:57:34",
-  "count": 15345,
+  "updated": "2026-08-15 02:01:30",
+  "count": 15344,
   "items": [
+    {
+      "id": "5041882",
+      "time": "2026-08-15 02:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通股價跌幅擴大至6.7%，創6月5日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a0016e-2adf-7aab-9044-26887408ed9a",
+      "time": "2026-08-15 01:59:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sources: Chilean state-owned copper firm Codelco has appointed a vice president to oversee operations at the El Teniente mine."
+    },
+    {
+      "id": "5041881",
+      "time": "2026-08-15 01:58:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：智利國家銅業公司（Codelco）將關停丘基卡馬塔銅礦與阿萊斯部長銅礦。"
+    },
     {
       "id": "mkt:01a00169-e45e-7aab-9044-1d1076cef6c9",
       "time": "2026-08-15 01:55:11",
@@ -140378,46 +140404,6 @@
         "其他"
       ],
       "text": "市場訊息：五角大樓為機密 “金穹” 太空計劃劃撥預算並制定時間安排。"
-    },
-    {
-      "id": "mkt:019fdd62-10d1-7aab-8fbf-9e614cf02f3c",
-      "time": "2026-08-08 02:00:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Saudi outlet Alhadath, citing the Israel Broadcasting Corporation, reports Israel has not signed an agreement permitting international stabilization forces to enter the Gaza Strip."
-    },
-    {
-      "id": "5031477",
-      "time": "2026-08-08 01:59:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "福特汽車打算新推四個版本的Mustang四門車型。"
-    },
-    {
-      "id": "te:economy:573876",
-      "time": "2026-08-08 01:59:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Dominican Republic",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Dominican Republic Inflation Eases Slightly — The annual inflation rate in the Dominican Republic eased slightly to 5.47% in July 2026 from 5.67% in June. The strongest price pressures were recorded in restaurants and hotels (8.15%), transport (7.95%), food and non-alcoholic beverages (6.75%), education (6.52%), and alcoholic beverages and tobacco (5.1%). In contrast, prices fell for clothing and footwear (-1.29%) and communications (-1.4%). On a monthly basis, consumer prices rose 0.19%, slowing from a 0.51% increase in June. Year-to-date inflation reached 2.21%, while core inflation stood at 4.96% year-on-year."
-    },
-    {
-      "id": "5031476",
-      "time": "2026-08-08 01:57:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX ：回收團隊仍在印度洋進行第13次飛行任務的星艦回收工作。 回收團隊正克服惡劣環境與愈發洶湧的海面，嘗試將這艘 52 米長的航天器引導至港口。"
     }
   ]
 }

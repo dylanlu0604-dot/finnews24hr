@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 130,
+  "count": 133,
   "items": [
+    {
+      "id": "5041882",
+      "time": "2026-08-15 02:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通股價跌幅擴大至6.7%，創6月5日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a0016e-2adf-7aab-9044-26887408ed9a",
+      "time": "2026-08-15 01:59:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sources: Chilean state-owned copper firm Codelco has appointed a vice president to oversee operations at the El Teniente mine."
+    },
+    {
+      "id": "5041881",
+      "time": "2026-08-15 01:58:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：智利國家銅業公司（Codelco）將關停丘基卡馬塔銅礦與阿萊斯部長銅礦。"
+    },
     {
       "id": "mkt:01a00169-e45e-7aab-9044-1d1076cef6c9",
       "time": "2026-08-15 01:55:11",
