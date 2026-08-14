@@ -1,7 +1,17 @@
 {
   "date": "2026-08-14",
-  "count": 1202,
+  "count": 1203,
   "items": [
+    {
+      "id": "mkt:019ffed3-63c8-7aab-9036-606de951e9f6",
+      "time": "2026-08-14 13:51:34",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan."
+    },
     {
       "id": "5040619",
       "time": "2026-08-14 13:47:44",

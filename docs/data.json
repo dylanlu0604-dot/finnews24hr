@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-14 13:49:15",
-  "count": 15512,
+  "updated": "2026-08-14 13:53:07",
+  "count": 15509,
   "items": [
+    {
+      "id": "mkt:019ffed3-63c8-7aab-9036-606de951e9f6",
+      "time": "2026-08-14 13:51:34",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan."
+    },
     {
       "id": "5040619",
       "time": "2026-08-14 13:47:44",
@@ -141935,41 +141945,6 @@
         "國際"
       ],
       "text": "日本央行審議委員增一行將在9月政策會議前發表講話。"
-    },
-    {
-      "id": "5030119",
-      "time": "2026-08-07 13:51:40",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【貴金屬板塊震盪走高 招金黃金漲停】午後貴金屬板塊震盪走高，招金黃金漲停，盛達資源、豫光金鉛、興業銀錫、中金黃金、湖南白銀等跟漲。"
-    },
-    {
-      "id": "5030118",
-      "time": "2026-08-07 13:50:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報62.84美元/盎司。"
-    },
-    {
-      "id": "mkt:019fdac5-8970-7aab-8fb0-878159715ddd",
-      "time": "2026-08-07 13:50:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "UK July Halifax seasonally adjusted house price index m/m, Germany June seasonally adjusted industrial production m/m and trade balance due in 10 minutes."
-    },
-    {
-      "id": "5030117",
-      "time": "2026-08-07 13:49:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本5年期國債收益率上升5個基點至2.075%。"
     }
   ]
 }
