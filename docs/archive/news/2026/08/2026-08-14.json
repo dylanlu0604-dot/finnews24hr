@@ -1,7 +1,86 @@
 {
   "date": "2026-08-14",
-  "count": 2696,
+  "count": 2704,
   "items": [
+    {
+      "id": "5041717",
+      "time": "2026-08-14 22:17:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，中進醫療漲3.94%，世紀互聯漲3.83%，鬥魚漲3.33%，金山雲漲2.98%，騰訊音樂漲2.71%。"
+    },
+    {
+      "id": "mkt:01a000a1-6600-7aab-9040-d7c6ac131742",
+      "time": "2026-08-14 22:16:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【U.S. natural gas edges up as heat-driven demand rises】U.S. natural gas futures rose after forecasts showed late-summer heat, particularly across the South, likely boosting air‑conditioning use and gas-fired power demand. Flows to Gulf Coast LNG export terminals also increased, tightening domestic supply. EBW Analytics Group senior analyst Eli Rubin said in a client note that gains may be capped by rising output, with production readings higher in Texas, the Northeast and the Rockies. At 9:42 a.m. ET, NYMEX September natural gas was up 3.4 cents, +1.3%, at $2.761/MMBtu."
+    },
+    {
+      "id": "mkt:01a000a1-4a46-7aab-9040-cabddbee4484",
+      "time": "2026-08-14 22:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiaxing upgrades heavy-rain alert to red】Jiaxing meteorological observatory issued a heavy-rain yellow warning at 21:25 on Aug 14, 2026, reporting over 30 mm in the past hour at Xincheng Town, Xiuzhou District. At 21:40 the observatory upgraded the warning to heavy-rain red, forecasting continued intense rain over the next three hours in Wangjiangjing and Xincheng towns (Xiuzhou District) with cumulative totals expected to exceed 50 mm."
+    },
+    {
+      "id": "mkt:01a000a0-c56b-7aab-9040-c3cc10b90750",
+      "time": "2026-08-14 22:15:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico President Sheinbaum said U.S. visa revocations are being used as a political tool."
+    },
+    {
+      "id": "mkt:01a000a0-b2e3-7aab-9040-bc803dcaeedc",
+      "time": "2026-08-14 22:15:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. consumer confidence slips for first time in three months; inflation concerns rise】University of Michigan preliminary August consumer sentiment index fell to 51 from July’s final 55.2, below a median forecast of 55. One-year inflation expectations rose to 4.3% (up slightly month-on-month and notably above pre-February Iran-conflict levels); five- to ten-year inflation expectations held at 3.3% annually. Sentiment on both near- and long-term economic prospects deteriorated after two months of improvement; labor-market expectations were little changed. Survey responses were collected July 28–Aug 10, a period when U.S. national gasoline prices averaged above $4/gal. Separately, U.S. July retail sales posted their largest monthly decline in over a year as consumers cut auto and online spending."
+    },
+    {
+      "id": "5041716",
+      "time": "2026-08-14 22:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "辛鮑姆：美國撤銷簽證正被當作政治工具使用。"
+    },
+    {
+      "id": "5041715",
+      "time": "2026-08-14 22:14:34",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國8月消費者信心指數初值降至51.0】當地時間8月14日，美國密歇根大學公佈2026年8月份消費者信心指數初值為51.0，低於7月的55.2，環比下降7.6%，同比下降12.4%。（央視新聞）"
+    },
+    {
+      "id": "te:markets:575500",
+      "time": "2026-08-14 22:13:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Holds Near Record High — The S&P/TSX Composite Index was flat at the 36,800 mark on Friday, a record high, amid gains for gold miners. Gold prices rebounded after earlier losses, lending support to mining stocks. Agnico Eagle rose over 2%, while Barrick and WPM added 1.5% each. Meanwhile, financials traded mostly below the flatline as energy-driven inflationary pressures weighed on credit-sensitive shares. The US threatened an indefinite naval blockade on Iran, reviving concerns about disruptions to crude supplies from the region and pushing oil prices higher. On the earnings front, Bird Construction (+3%) beat second-quarter profit estimates. Air Canada (+2%) is likely to post record revenue for September and October, according to a senior executive. Canadian Tire edged up after beating estimates for both EPS and revenue. Onex (-1%) said its second quarter showed progress toward several strategic goals but did not provide EPS figures."
+    },
     {
       "id": "5041714",
       "time": "2026-08-14 22:13:18",

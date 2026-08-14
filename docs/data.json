@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-14 22:14:07",
-  "count": 15313,
+  "updated": "2026-08-14 22:18:13",
+  "count": 15311,
   "items": [
+    {
+      "id": "5041717",
+      "time": "2026-08-14 22:17:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，中進醫療漲3.94%，世紀互聯漲3.83%，鬥魚漲3.33%，金山雲漲2.98%，騰訊音樂漲2.71%。"
+    },
+    {
+      "id": "mkt:01a000a1-6600-7aab-9040-d7c6ac131742",
+      "time": "2026-08-14 22:16:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【U.S. natural gas edges up as heat-driven demand rises】U.S. natural gas futures rose after forecasts showed late-summer heat, particularly across the South, likely boosting air‑conditioning use and gas-fired power demand. Flows to Gulf Coast LNG export terminals also increased, tightening domestic supply. EBW Analytics Group senior analyst Eli Rubin said in a client note that gains may be capped by rising output, with production readings higher in Texas, the Northeast and the Rockies. At 9:42 a.m. ET, NYMEX September natural gas was up 3.4 cents, +1.3%, at $2.761/MMBtu."
+    },
+    {
+      "id": "mkt:01a000a1-4a46-7aab-9040-cabddbee4484",
+      "time": "2026-08-14 22:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiaxing upgrades heavy-rain alert to red】Jiaxing meteorological observatory issued a heavy-rain yellow warning at 21:25 on Aug 14, 2026, reporting over 30 mm in the past hour at Xincheng Town, Xiuzhou District. At 21:40 the observatory upgraded the warning to heavy-rain red, forecasting continued intense rain over the next three hours in Wangjiangjing and Xincheng towns (Xiuzhou District) with cumulative totals expected to exceed 50 mm."
+    },
+    {
+      "id": "mkt:01a000a0-c56b-7aab-9040-c3cc10b90750",
+      "time": "2026-08-14 22:15:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico President Sheinbaum said U.S. visa revocations are being used as a political tool."
+    },
+    {
+      "id": "mkt:01a000a0-b2e3-7aab-9040-bc803dcaeedc",
+      "time": "2026-08-14 22:15:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. consumer confidence slips for first time in three months; inflation concerns rise】University of Michigan preliminary August consumer sentiment index fell to 51 from July’s final 55.2, below a median forecast of 55. One-year inflation expectations rose to 4.3% (up slightly month-on-month and notably above pre-February Iran-conflict levels); five- to ten-year inflation expectations held at 3.3% annually. Sentiment on both near- and long-term economic prospects deteriorated after two months of improvement; labor-market expectations were little changed. Survey responses were collected July 28–Aug 10, a period when U.S. national gasoline prices averaged above $4/gal. Separately, U.S. July retail sales posted their largest monthly decline in over a year as consumers cut auto and online spending."
+    },
+    {
+      "id": "5041716",
+      "time": "2026-08-14 22:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "辛鮑姆：美國撤銷簽證正被當作政治工具使用。"
+    },
+    {
+      "id": "5041715",
+      "time": "2026-08-14 22:14:34",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國8月消費者信心指數初值降至51.0】當地時間8月14日，美國密歇根大學公佈2026年8月份消費者信心指數初值為51.0，低於7月的55.2，環比下降7.6%，同比下降12.4%。（央視新聞）"
+    },
+    {
+      "id": "te:markets:575500",
+      "time": "2026-08-14 22:13:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Holds Near Record High — The S&P/TSX Composite Index was flat at the 36,800 mark on Friday, a record high, amid gains for gold miners. Gold prices rebounded after earlier losses, lending support to mining stocks. Agnico Eagle rose over 2%, while Barrick and WPM added 1.5% each. Meanwhile, financials traded mostly below the flatline as energy-driven inflationary pressures weighed on credit-sensitive shares. The US threatened an indefinite naval blockade on Iran, reviving concerns about disruptions to crude supplies from the region and pushing oil prices higher. On the earnings front, Bird Construction (+3%) beat second-quarter profit estimates. Air Canada (+2%) is likely to post record revenue for September and October, according to a senior executive. Canadian Tire edged up after beating estimates for both EPS and revenue. Onex (-1%) said its second quarter showed progress toward several strategic goals but did not provide EPS figures."
+    },
     {
       "id": "5041714",
       "time": "2026-08-14 22:13:18",
@@ -140043,95 +140122,6 @@
         "市場"
       ],
       "text": "洲際交易所原糖期貨價格漲幅超3%，報每磅16.15美分。"
-    },
-    {
-      "id": "5031340",
-      "time": "2026-08-07 22:17:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "西門子股份公司：透過逾2億美元的美國製造業投資，強化其在人工智慧基礎設施領域的領先地位"
-    },
-    {
-      "id": "5031339",
-      "time": "2026-08-07 22:17:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子股份公司：透過新建兩座工廠擴大製造產能，生產人工智慧基礎設施所需的關鍵電力主幹裝置。"
-    },
-    {
-      "id": "5031338",
-      "time": "2026-08-07 22:16:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "BLOSSOMHILL股票預計每股開盤價為16美元，IPO價格為16美元。"
-    },
-    {
-      "id": "mkt:019fdc95-6c9c-7aab-8fbc-838d2d80dab9",
-      "time": "2026-08-07 22:16:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SpaceX (SPCX.O) extended gains, up nearly 8.5%."
-    },
-    {
-      "id": "5031337",
-      "time": "2026-08-07 22:16:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊進一步擴大跌幅 SK海力士跌超6%】美股儲存板塊進一步擴大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，閃迪下跌5.21%，西部資料下跌5.86%，希捷科技下跌10.01%，鎧俠ADR下跌5.3%。"
-    },
-    {
-      "id": "5031336",
-      "time": "2026-08-07 22:15:25",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "市場訊息：美國眾議員加西亞敦促高盛與前首席律師斷絕關係。"
-    },
-    {
-      "id": "5031335",
-      "time": "2026-08-07 22:15:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價繼續上漲，漲幅高達8.3%。"
-    },
-    {
-      "id": "te:markets:573837",
-      "time": "2026-08-07 22:14:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Hits Record High on Mining Rally — The S&P/TSX Composite Index rose over 0.5% to trade above 36,000 on Friday, reaching a fresh record as mining stocks rallied. Gold prices surged as weaker US labor data and lower energy prices reduced expectations of a Federal Reserve rate hike this year. The US economy unexpectedly shed jobs in July, while oil prices wavered amid uncertainty over a potential US-Iran deal to restore exports through the Strait of Hormuz. Agnico Eagle and WPM jumped over 7%, while Barrick gained 5.5% and other gold miners rose between 4% and 10%. In contrast, banking and broader sectors weakened as strong Canadian employment data raised the prospect of a BoC rate hike if energy prices remain elevated. Canada's unemployment rate fell 0.1 percentage point to 6.4%, slightly below forecasts of 6.5%, while employment increased by 75,000, well above expectations for a 15,000 gain. RBC and TD Bank both shed about 0.5%."
-    },
-    {
-      "id": "5031334",
-      "time": "2026-08-07 22:14:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "隨著油價從盤中低點反彈，美國國債漲幅收窄。"
-    },
-    {
-      "id": "5031333",
-      "time": "2026-08-07 22:14:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度AGS HEALTH提交480億盧比首次公開募股申請。"
     }
   ]
 }
