@@ -1,7 +1,50 @@
 {
   "date": "2026-08-14",
-  "count": 922,
+  "count": 927,
   "items": [
+    {
+      "id": "mkt:019ffe36-7118-7aab-9033-c6b8eba5783b",
+      "time": "2026-08-14 11:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June L-money supply YoY 9.4%; prior unchanged at 9.2%."
+    },
+    {
+      "id": "mkt:019ffe36-5074-7aab-9033-bc866cd5749e",
+      "time": "2026-08-14 11:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | L Money Supply (YoY) (Jun) | actual 9.4% | previous 9.2%"
+    },
+    {
+      "id": "5040441",
+      "time": "2026-08-14 10:59:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟通動力與廣西電信簽署戰略協議 圍繞產業智慧化、AI基礎設施等方向展開深度合作】軟通動力訊息，8月12日，軟通動力與中國電信股份有限公司廣西分公司（簡稱“廣西電信”）在南寧正式簽署戰略合作協議。雙方將圍繞產業智慧化、AI基礎設施及東盟市場聯合拓展等方向展開深度合作，以激發區域數字經濟新動能，助力中資企業揚帆出海。"
+    },
+    {
+      "id": "5040440",
+      "time": "2026-08-14 10:59:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。"
+    },
+    {
+      "id": "mkt:019ffe35-a6a0-7aab-9033-b56a51e0c8ad",
+      "time": "2026-08-14 10:59:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC deputy governor Zou Lan attended BRICS finance ministers and central bank governors meeting in Jaipur】On Aug 12-13, 2026, PBOC deputy governor Zou Lan attended this year’s first BRICS finance ministers and central bank governors meeting in Jaipur, India. Delegates discussed global economic development and governance, enhancements to the Contingent Reserve Arrangement (CRA), and stepped-up BRICS cooperation on cross-border payments, sustainable finance, information security and fintech."
+    },
     {
       "id": "5040439",
       "time": "2026-08-14 10:56:14",
