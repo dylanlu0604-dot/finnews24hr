@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 05:30:18",
-  "count": 15296,
+  "updated": "2026-08-15 05:34:10",
+  "count": 15297,
   "items": [
+    {
+      "id": "5042007",
+      "time": "2026-08-15 05:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic二季度營收超115億美元 較去年同期增長至少14倍】據報道，Anthropic第二季度初步營收超過115億美元，較上年同期的7.87億美元增長了至少14倍，也高於今年第一季度的47.3億美元，公司當季已實現調整後營業利潤為正。Anthropic曾一度在AI競賽中處於追趕位置，但得益於越來越多專業人士使用其軟體來簡化程式設計等工作流程，公司業務增長明顯提速。今年5月，Anthropic的年化營收已突破470億美元。作為對比，OpenAI此前披露的年化營收超過400億美元，但兩者的計算口徑可能不完全一致。人工智慧賽道競爭升溫，今年迄今IPO融資已達2564億美元，創2021年來新高（不含SPAC等金融工具）。"
+    },
+    {
+      "id": "mkt:01a00230-681a-7aab-9046-60c35309175b",
+      "time": "2026-08-15 05:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Canada’s trade minister told an advisory committee that Canada and the US are \"quite far\" from reaching an agreement."
+    },
+    {
+      "id": "mkt:01a0022f-ce8a-7aab-9046-5b2386161baa",
+      "time": "2026-08-15 05:31:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic Q2 revenue tops $11.5bn; adjusted operating profit positive】Preliminary figures show Anthropic's Q2 revenue exceeded $11.5bn, up at least 14x YoY from $787m and ahead of Q1's $4.73bn; adjusted operating profit was positive in the quarter. Annualized revenue surpassed $47bn as of May. OpenAI's disclosed annualized revenue exceeds $40bn, though reporting bases may differ. AI-sector IPO proceeds YTD reached $256.4bn, the largest since 2021 excluding SPACs."
+    },
     {
       "id": "5042006",
       "time": "2026-08-15 05:28:10",
@@ -140018,22 +140044,6 @@
         "其他"
       ],
       "text": "【哥倫比亞新任總統德拉埃斯普列亞宣誓就職】當地時間8月7日，哥倫比亞當選總統阿韋拉多·德拉埃斯普列亞在該國第三大城市卡利宣誓就職，任期四年。阿韋拉多·德拉埃斯普列亞現年47歲，是哥倫比亞律師、企業家和右翼政治人物，長期活躍於公共事務領域。他此前在競選時主張以強硬手段打擊犯罪，推行自由市場經濟政策。（央視新聞）"
-    },
-    {
-      "id": "5031656",
-      "time": "2026-08-08 05:30:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西將於 8 月 10 日拍賣至多 5 萬份外匯互換合約。"
-    },
-    {
-      "id": "5031655",
-      "time": "2026-08-08 05:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞國會為德・拉・埃斯普列拉舉行總統就職宣誓。"
     }
   ]
 }
