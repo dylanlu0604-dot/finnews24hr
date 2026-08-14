@@ -1,7 +1,52 @@
 {
   "date": "2026-08-14",
-  "count": 2832,
+  "count": 2837,
   "items": [
+    {
+      "id": "mkt:01a000e2-cc8b-7aab-9042-2fa1a7570428",
+      "time": "2026-08-14 23:27:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's president said fuel subsidies will remain in place for three months."
+    },
+    {
+      "id": "5041805",
+      "time": "2026-08-14 23:27:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總統：燃油補貼將持續三個月。"
+    },
+    {
+      "id": "mkt:01a000e1-ebb8-7aab-9042-259876c557c1",
+      "time": "2026-08-14 23:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's economy minister said fuel subsidies will begin on Saturday, applying to drivers in designated regions and to specified vehicle types."
+    },
+    {
+      "id": "5041804",
+      "time": "2026-08-14 23:26:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯經濟部長：燃油補貼將於週六啟動，補貼適用於特定區域及特定型別司機。"
+    },
+    {
+      "id": "mkt:01a000e1-65cc-7aab-9042-1b08c3219662",
+      "time": "2026-08-14 23:26:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "US Department of Justice says Amazon has agreed to pay $2.25 mln and accept injunctive relief to resolve alleged violations of the Fair Credit Reporting Act."
+    },
     {
       "id": "te:markets:575504",
       "time": "2026-08-14 23:22:48",
