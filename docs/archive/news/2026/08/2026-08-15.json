@@ -1,7 +1,49 @@
 {
   "date": "2026-08-15",
-  "count": 309,
+  "count": 313,
   "items": [
+    {
+      "id": "5041991",
+      "time": "2026-08-15 05:01:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長就特朗普宣稱將把霍爾木茲海峽宣佈為美國領土一事作出表態 ：伊朗不會被美國的威脅或武力炫耀所嚇倒。"
+    },
+    {
+      "id": "mkt:01a00213-9ee5-7aab-9046-15ce9594e119",
+      "time": "2026-08-15 05:00:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Deputy Foreign Minister Karibabadi said the opening or closure of the Strait of Hormuz can only be decided by Iran."
+    },
+    {
+      "id": "5041990",
+      "time": "2026-08-15 05:00:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報88.89美元/桶。"
+    },
+    {
+      "id": "mkt:01a00212-b815-7aab-9046-0e674b25dbcb",
+      "time": "2026-08-15 04:59:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Soros Fund Management disclosed it increased its Apple (AAPL.O) holding by 29,004 shares to 529,538 shares."
+    },
     {
       "id": "te:economy:575543",
       "time": "2026-08-15 04:58:18",
