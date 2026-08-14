@@ -1,7 +1,50 @@
 {
   "date": "2026-08-14",
-  "count": 2816,
+  "count": 2821,
   "items": [
+    {
+      "id": "mkt:01a000d5-fa2d-7aab-9041-f00b32216bbc",
+      "time": "2026-08-14 23:13:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Canada's ban on U.S. alcoholic beverages must be resolved."
+    },
+    {
+      "id": "5041798",
+      "time": "2026-08-14 23:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：加拿大針對美國酒類的禁令必須予以解決。"
+    },
+    {
+      "id": "mkt:01a000d4-d2d0-7aab-9041-e8473b2b069d",
+      "time": "2026-08-14 23:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Canada seeks a more conciliatory approach."
+    },
+    {
+      "id": "mkt:01a000d4-c06a-7aab-9041-e66bffbfac42",
+      "time": "2026-08-14 23:12:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Senior US official's comments underscore White House focus on midterms】US national average gasoline price has topped $4/gal, the highest for this time of year. Vice President Vance said lowering oil prices takes precedence over preventing Iran from acquiring nuclear weapons, reflecting the Trump administration's growing focus on the midterm elections. The comment signals a strategic White House recalibration that places oil-price stability ahead of denuclearization goals."
+    },
+    {
+      "id": "5041797",
+      "time": "2026-08-14 23:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：我的感覺是，加拿大希望採取更為和解的態度。"
+    },
     {
       "id": "mkt:01a000d3-e9f3-7aab-9041-dae6744e3ca8",
       "time": "2026-08-14 23:11:22",

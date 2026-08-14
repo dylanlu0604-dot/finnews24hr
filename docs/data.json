@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-14 23:12:24",
-  "count": 15327,
+  "updated": "2026-08-14 23:16:27",
+  "count": 15328,
   "items": [
+    {
+      "id": "mkt:01a000d5-fa2d-7aab-9041-f00b32216bbc",
+      "time": "2026-08-14 23:13:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Canada's ban on U.S. alcoholic beverages must be resolved."
+    },
+    {
+      "id": "5041798",
+      "time": "2026-08-14 23:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：加拿大針對美國酒類的禁令必須予以解決。"
+    },
+    {
+      "id": "mkt:01a000d4-d2d0-7aab-9041-e8473b2b069d",
+      "time": "2026-08-14 23:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Canada seeks a more conciliatory approach."
+    },
+    {
+      "id": "mkt:01a000d4-c06a-7aab-9041-e66bffbfac42",
+      "time": "2026-08-14 23:12:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Senior US official's comments underscore White House focus on midterms】US national average gasoline price has topped $4/gal, the highest for this time of year. Vice President Vance said lowering oil prices takes precedence over preventing Iran from acquiring nuclear weapons, reflecting the Trump administration's growing focus on the midterm elections. The comment signals a strategic White House recalibration that places oil-price stability ahead of denuclearization goals."
+    },
+    {
+      "id": "5041797",
+      "time": "2026-08-14 23:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：我的感覺是，加拿大希望採取更為和解的態度。"
+    },
     {
       "id": "mkt:01a000d3-e9f3-7aab-9041-dae6744e3ca8",
       "time": "2026-08-14 23:11:22",
@@ -140179,42 +140222,6 @@
         "國際"
       ],
       "text": "市場訊息：烏克蘭襲擊克里米亞致兩人死亡。"
-    },
-    {
-      "id": "te:markets:573854",
-      "time": "2026-08-07 23:16:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Rises on Strong Labor Market — The Canadian dollar strengthened to an eight-week high of 1.39 per USD as stronger-than-expected domestic employment data narrowed yield differentials between Canada and the US. Canadian employment rose by 75,100 jobs in July, far exceeding expectations for a 15,000 gain, while the unemployment rate fell to a two-year low of 6.4%. Meanwhile, the US economy unexpectedly shed jobs in July, and previous nonfarm payrolls were revised sharply lower. The stronger Canadian labor market raised the prospect of a BoC rate hike if energy prices remain elevated, while weaker US employment data reduced expectations of a Federal Reserve hike this year. Meanwhile, recent data suggests Canada's economy expanded an annualized 3.4% in the second quarter. Well above the Bank of Canada's expectation of a 2.5% growth rate."
-    },
-    {
-      "id": "5031405",
-      "time": "2026-08-07 23:15:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）東南部中資企業鈷產品鈾含量超標？大使館及相關協會：報道不實】剛果（金）中資礦業企業協會當地時間8月5日晚間釋出澄清宣告，明確指出近期網路及行業渠道出現關於剛果（金）東南部中資企業礦山生產的鈷產品鈾含量超標的“不實報道”，相關言論誤導市場認知、擾亂行業正常經營秩序，對在剛中資礦業企業聲譽及鈷產品國際貿易口碑造成不良影響。宣告表示，經協會全面核查，剛果（金）東南部區域所有正常生產運營的中資礦業企業，其開採、加工、外銷的全部鈷產品，均不存在鈾含量超標情況。各會員企業嚴格遵守剛果（金）礦業監管法規及國際貿易通用檢測規範。8月6日凌晨，中國駐剛果民主共和國大使館亦對外發布了該澄清宣告。"
-    },
-    {
-      "id": "5031404",
-      "time": "2026-08-07 23:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔：空襲警報已解除。"
-    },
-    {
-      "id": "mkt:019fdcc8-def4-7aab-8fbd-6436d4c3d80f",
-      "time": "2026-08-07 23:12:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Commodity Futures Trading Commission (CFTC) warned prediction markets about risks posed by American-style odds."
     }
   ]
 }
