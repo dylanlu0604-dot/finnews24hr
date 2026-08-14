@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-15 04:14:42",
-  "count": 15271,
+  "updated": "2026-08-15 04:18:30",
+  "count": 15272,
   "items": [
+    {
+      "id": "5041963",
+      "time": "2026-08-15 04:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國有能力摧毀伊朗，但我們不想那樣做。"
+    },
+    {
+      "id": "5041962",
+      "time": "2026-08-15 04:17:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：有報道稱美伊停火協議目前暫無延期計劃。"
+    },
+    {
+      "id": "5041961",
+      "time": "2026-08-15 04:16:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮官員稱美伊局勢“穩定”。"
+    },
+    {
+      "id": "5041960",
+      "time": "2026-08-15 04:16:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款從前一週的19.368萬億美元增至19.496萬億美元。"
+    },
+    {
+      "id": "te:economy:575536",
+      "time": "2026-08-15 04:14:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Paraguay Consumer Confidence Edges Higher — Paraguay’s Consumer Confidence Index rose to 42.99 in July 2026 from 41.23 in June, although it remained below the neutral threshold. The Economic Situation Index increased 2.17 points to 32.42, while the Economic Expectations Index rose 1.34 points to 53.55. Meanwhile, 13.50% of respondents said they were willing to save, down 1.50 percentage points from the previous month. Regarding willingness to purchase durable goods, intentions to buy houses and motorcycles increased, while those for household appliances and automobiles declined."
+    },
     {
       "id": "mkt:01a001e9-07be-7aab-9045-a2ae1bbcdc9b",
       "time": "2026-08-15 04:14:04",
@@ -139745,39 +139789,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列地面部隊入侵敘利亞南部某村莊。"
-    },
-    {
-      "id": "5031614",
-      "time": "2026-08-08 04:18:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空公司：根據其提交給美國證券交易委員會（SEC）的檔案顯示，鮑勃·喬丹的基本工資為123萬美元，長期激勵目標倍數為1200%，短期激勵目標倍數為200%。"
-    },
-    {
-      "id": "5031613",
-      "time": "2026-08-08 04:17:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "UBER：定期貸款信貸協議將過渡信貸承諾縮減40億歐元。"
-    },
-    {
-      "id": "5031612",
-      "time": "2026-08-08 04:16:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款從前一週的 19.400 萬億美元降至 19.363 萬億美元。"
-    },
-    {
-      "id": "5031611",
-      "time": "2026-08-08 04:15:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）披露檔案：alphabet提交檔案申請發行最高額度250億美元的分系列中期票據。"
     }
   ]
 }
