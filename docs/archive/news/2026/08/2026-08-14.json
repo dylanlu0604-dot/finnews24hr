@@ -1,7 +1,59 @@
 {
   "date": "2026-08-14",
-  "count": 2726,
+  "count": 2731,
   "items": [
+    {
+      "id": "mkt:01a000ac-95c6-7aab-9041-0d8e2fd7912d",
+      "time": "2026-08-14 22:28:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Dollar set for sixth weekly drop as rate-hike bets cool】DXY slid to its lowest since May after U.S. retail sales unexpectedly weakened, prompting traders to pare back expectations for a rate hike this year. Bond traders also pulled back wagers that the Fed will raise rates in 2026—a tightening narrative that had supported the dollar. The move leaves the dollar poised for its sixth weekly decline in seven weeks; last Friday’s soft labor market report and this week’s mild inflation prints added to the weakness."
+    },
+    {
+      "id": "5041737",
+      "time": "2026-08-14 22:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國檢察官珍妮·皮羅宣佈逮捕一名涉嫌在華盛頓特區破壞二戰紀念碑的嫌疑人，她在社交媒體帖子中表示，她的辦公室對一名女性提起了兩項重罪指控，刑罰為“最高十年監禁”。"
+    },
+    {
+      "id": "mkt:01a000ab-e041-7aab-9041-01107b9db324",
+      "time": "2026-08-14 22:27:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Weak retail sales dent Fed hike bets; short-dated USTs rally】Short-dated U.S. Treasuries rallied after weak July retail sales further eroded market expectations for Fed rate hikes in coming months, pushing the two-year yield briefly below 4.10%, its lowest since June 30. The move was concentrated in the policy-sensitive short end; 10- and 30-year yields ticked slightly higher. BMO Capital Markets U.S. rates strategist Ian Lyngen called the print a troubling update on consumer health and said it strengthens the case for the Fed to pause next month. Short-term rate contracts show traders scaling back bets on a September hike and on more than one hike by mid-2027. The pullback in tightening expectations accelerated over the past week after weak July payrolls on Aug. 7 and was reinforced this week by moderate July CPI and PPI readings."
+    },
+    {
+      "id": "5041736",
+      "time": "2026-08-14 22:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列媒體：內塔尼亞胡無法贏得選舉】記者表示，根據民調，內塔尼亞胡將在選舉中落敗，而且特朗普也並未表現出預期中的支援。"
+    },
+    {
+      "id": "5041735",
+      "time": "2026-08-14 22:25:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益生股份2026年度累計引進祖代白羽肉種雞達6萬套】據益生股份訊息，8月14日，益生股份再次從法國引進1萬套祖代白羽肉種雞。至此，益生股份2026年度累計引進祖代白羽肉種雞已達6萬套。"
+    },
     {
       "id": "5041734",
       "time": "2026-08-14 22:25:36",
