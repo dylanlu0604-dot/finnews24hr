@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 02:01:30_
-_本檔包含 3160 則快訊，約 605068 字_
+_更新時間：2026-08-15 03:08:04_
+_本檔包含 3164 則快訊，約 604021 字_
+
+---
+
+### 2026-08-15 03:07:13  #其他
+
+【葉門政府軍稱胡塞武裝發射6枚彈道導彈襲擊摩卡港】當地時間14日，葉門政府軍表示，葉門胡塞武裝向葉門西南部摩卡港發射6枚彈道導彈，並以當地民用和國家設施為襲擊目標，企圖對民眾實施封鎖、加劇民眾困境。當天，葉門衛生部發表宣告，強烈譴責葉門胡塞武裝襲擊摩卡港，並警告此舉將產生嚴重的衛生和人道主義後果。宣告指出，西部沿海本就面臨嚴峻的營養不良和流離失所問題，港口受損、物資受阻將直接危及食品、藥品及衛生服務供應，增加兒童、婦女、流離失所者等脆弱群體的風險。（央視新聞）
+
+---
+
+### 2026-08-15 03:05:07  #其他
+
+夏威夷航空：因熱帶風暴拉拉，取消明日卡胡盧伊與檀香山之間的一趟航班。
+
+---
+
+### 2026-08-15 03:04:54  #其他
+
+Waymo：我們已獲得加州公用事業委員會批准，將在舊金山灣區、洛杉磯擴大服務，並於薩克拉門託、聖地亞哥推出服務。
+
+---
+
+### 2026-08-15 03:04:30  #其他
+
+夏威夷航空：因熱帶風暴拉拉，週六暫停希洛機場運營。
+
+---
+
+### 2026-08-15 03:04:19  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bearish
+
+【Broadcom shares drop nearly 7% on concerns over AI financing platform】Broadcom shares fell nearly 7% intraday on Friday as investors flagged risks in the financing model for its AI infrastructure expansion. BofA analysts estimate the financing vehicle for Broadcom’s AI‑chip customers could accumulate up to $370bn of senior debt by mid‑2029, with about $150bn of new issuance in 2027, assuming a 20 GW data‑centre buildout. The debt would sit on the platform rather than Broadcom’s balance sheet, but Broadcom has provided lease‑payment guarantees for some customers; the first guaranteed transaction is about $29bn. The financing structure began in June, when Apollo Global Management and Blackstone led a $35bn funding package for Broadcom’s AIXPV platform; initial proceeds will support Anthropic’s build of more than 1 GW of compute and the platform targets over 20 GW by 2028. Market attention will focus on Broadcom’s potential future guarantee exposure as AI infrastructure scales.
+
+---
+
+### 2026-08-15 03:03:51  #市場
+
+洲際交易所10月布倫特原油期貨結算價報每桶88.52美元。
+
+---
+
+### 2026-08-15 03:01:29  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.61% at 25,247, trading 130 points above the cash index.
+
+---
+
+### 2026-08-15 03:00:30  #其他
+
+市場訊息：DOT AI宣佈收到退市通知，並表示將提起上訴。
+
+---
+
+### 2026-08-15 03:00:02  #市場
+
+恒指期貨夜盤收漲0.62%，報25250.28點，高水133.43點。
+
+---
+
+### 2026-08-15 02:59:01  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $88.52/bbl, up $1.45, or 1.67%.
+
+---
+
+### 2026-08-15 02:58:50  #MKT News #Market Themes #The Trump Trade
+
+Market sources say U.S. President Trump is expected to attend a meeting on prediction markets.
+
+---
+
+### 2026-08-15 02:57:45  #公司
+
+市場訊息：COINBASE、A16Z、KALSHI等公司將參加在白宮舉行的會議。
+
+---
+
+### 2026-08-15 02:56:33  #國際
+
+市場訊息：特朗普預計將參加預測市場相關會議。
+
+---
+
+### 2026-08-15 02:53:00  #公司
+
+【老虎環球Q2建倉SpaceX和AMD 減持谷歌、臺積電、英偉達等】老虎環球基金二季度大規模調倉。減持方面：博通削減51.1%至180萬股，谷歌A削減45.4%至580萬股A類股，臺積電削減12.3%至490萬份ADS，微軟削減9.3%至230萬股，Meta Platforms削減8.5%至280萬股A類股，英偉達削減6.8%至1120萬股，京東削減41.5%至20.15萬份ADS。增持方面，英特爾增持至430萬股。新建倉AMD67.4萬股以及SpaceX37.5萬股。清倉奈飛。
+
+---
+
+### 2026-08-15 02:48:21  #MKT News #Star Stocks #NVIDIA #Alphabet #Microsoft #Meta Platforms #JD.com #Market Themes #Magnificent 7 #AMD.O #Impact bullish #GOOGL.O #Impact bearish #NVDA.O
+
+【Tiger Global Q2 builds SpaceX, AMD; trims Alphabet, TSMC, NVIDIA and others】Tiger Global in Q2 opened positions in SpaceX (SPCX.O) 375.0k shares and AMD (AMD.O) 674.0k shares, and increased Intel (INTC.O) to 4.3 mln shares. It cut Broadcom (AVGO.O) 51.1% to 1.8 mln shares, Alphabet Class A (GOOGL.O) 45.4% to 5.8 mln shares, TSMC ADS (TSM.N) 12.3% to 4.9 mln ADS, Microsoft (MSFT.O) 9.3% to 2.3 mln shares, Meta Platforms Class A (META.O) 8.5% to 2.8 mln shares, NVIDIA (NVDA.O) 6.8% to 11.2 mln shares and JD.com ADS (JD.O) 41.5% to 201.5k ADS. The fund fully exited Netflix (NFLX.O).
+
+---
+
+### 2026-08-15 02:41:56  #MKT News #Market Themes #Crypto Concepts #JPM.N
+
+Wall Street Journal reports JP Morgan (JPM.N) has terminated its banking relationship with Polymarket, citing regulatory concerns.
+
+---
+
+### 2026-08-15 02:39:43  #觀點
+
+市場訊息：摩根大通終止與POLYMARKET的銀行業務關係。
+
+---
+
+### 2026-08-15 02:38:25  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+Alphabet's self-driving unit Waymo said the California Public Utilities Commission also approved its service in Sacramento and San Diego.
+
+---
+
+### 2026-08-15 02:37:48  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+Waymo, Alphabet’s autonomous driving unit, said the California Public Utilities Commission approved expansion of its driverless ride-hailing service in San Francisco and Los Angeles.
+
+---
+
+### 2026-08-15 02:36:52  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-08-15 02:32:01  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude futures settled at $82.40 a barrel, up $1.15 or 1.42%.
+
+---
+
+### 2026-08-15 02:31:54  #公司
+
+Alphabet旗下自動駕駛公司Waymo： 加州公用事業委員會批准其在舊金山、洛杉磯擴大自動駕駛網約車服務。
+
+---
+
+### 2026-08-15 02:31:17  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
+
+【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 0.60% to 952 yuan/gram; Shanghai silver main contract rose 0.57% to 15,841 yuan/kg; SC crude oil main contract rose 2.60% to 569 yuan/barrel.
+
+---
+
+### 2026-08-15 02:30:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.99% at 948.91 yuan/gram in the evening session on Friday, Aug 14. Shanghai Gold Exchange silver T+D closed up 1.06% at 15,780.0 yuan/kg in the evening session on Friday, Aug 14.
+
+---
+
+### 2026-08-15 02:30:02  #市場
+
+上期所原油期貨夜盤收漲1.38%，報558.10元人民幣/桶。滬金夜盤收漲0.60%，滬銀收漲0.57%。
+
+---
+
+### 2026-08-15 02:28:11  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Gilead Sciences Stock Price Hits 4-week High — Gilead Sciences shares increased to 138.33 USD, the highest since July 2026. Over the past 4 weeks, Gilead Sciences gained 5%, and in the last 12 months, it increased 16.83%.
+
+---
+
+### 2026-08-15 02:27:36  #公司
+
+迪士尼執行副總裁：約 40% 的 Disney + 使用者使用過豎版影片功能。
+
+---
+
+### 2026-08-15 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Gains by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.27%). Biggest losers are Rice (-1.34%), Sugar (-1.31%) and Lumber (-0.61%).
+
+---
+
+### 2026-08-15 02:22:33  #國際
+
+據以色列第 13 頻道訊息：據悉以色列原本計劃在敘利亞發動新一輪打擊，但遭到特朗普介入阻止。
+
+---
+
+### 2026-08-15 02:20:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Gains by 2.71% — Top commodity gainers are Lithium Carbonate (2.71%), Silicon (2.27%), Platinum (1.30%) and Gold (0.67%).
+
+---
+
+### 2026-08-15 02:19:48  #公司
+
+Tiger Global披露二季度13F持倉：減持Alphabet、博通、Spotify、Meta等；同時新建AMD、希捷、Visa、丹納赫等倉位。增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。
+
+---
+
+### 2026-08-15 02:19:46  #MKT News
+
+【German Farmers' Association: heat and drought may cut or wipe out crops in some regions】On the 14th the German Farmers' Association said persistent high temperatures and drought could cause significant crop shortfalls this year. Chairman Joachim Rukwied said wheat and rapeseed yields are expected to be below average, and autumn crops including corn and soybeans may suffer large reductions. Southern Germany is particularly affected, with some crops at risk of complete failure. He added sustained heat and drought have reduced fodder production, weighing on the livestock sector.
+
+---
+
+### 2026-08-15 02:15:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Rises by 2.62% — Top commodity gainers are Methanol (2.62%), Germany Natural Gas THE (1.48%), Gasoline (1.45%), Brent Crude Oil (1.31%) and Crude Oil WTI (1.22%).
+
+---
+
+### 2026-08-15 02:14:11  #MKT News
+
+White House press secretary Leavitt said the administration has additional tools available to pressure Iran.
+
+---
+
+### 2026-08-15 02:12:43  #MKT News
+
+【SoftBank sharply cuts TSMC stake, buys Capital One Financial】SoftBank Group said in a US SEC filing that in Q2 it bought 276,811 shares of Capital One Financial, leaving a quarter‑end position valued at about $55.5 mln. The group trimmed its Taiwan Semiconductor Manufacturing Co (TSMC) holding by 71.5%, selling roughly 1.4 mln shares and raising approximately $269.8 mln. SoftBank also modestly increased its Life360 stake by 10,718 shares, a position worth about $488,500 at quarter‑end.
+
+---
+
+### 2026-08-15 02:12:33  #國際
+
+白宮新聞秘書萊維特：美國可以繼續制裁伊朗，重創其經濟。
+
+---
+
+### 2026-08-15 02:12:05  #國際
+
+白宮新聞秘書萊維特：（談及對伊朗施壓）我們手上還有更多可用手段。
+
+---
+
+### 2026-08-15 02:11:24  #公司
+
+加拿大汽車工人工會表示，已收到斯特蘭蒂斯集團通知，該集團正認真考慮關閉並出售安大略省布蘭普頓工廠。
+
+---
+
+### 2026-08-15 02:10:08  #國際
+
+烏克蘭總統澤連斯基：與埃及總統討論了黑海局勢。
+
+---
+
+### 2026-08-15 02:10:06  #MKT News
+
+Zelenskiy said he discussed the Black Sea situation with Egypt's president.
+
+---
+
+### 2026-08-15 02:08:52  #MKT News #AVGO.O #Impact bearish
+
+Broadcom (AVGO.O) shares extended losses to 6.85% and hit an intraday low, marking the largest single-day decline since June 5.
+
+---
+
+### 2026-08-15 02:08:42  #其他
+
+英國政府釋出關於野火風險的嚴重警報，稱發生野火的風險極高。
+
+---
+
+### 2026-08-15 02:08:27  #MKT News
+
+UK government issued a severe wildfire alert, saying the risk of wildfires is extremely high.
+
+---
+
+### 2026-08-15 02:07:00  #公司
+
+老虎環球管理有限責任公司披露持有 SpaceX 375000 股 A 類股份。
+
+---
+
+### 2026-08-15 02:04:44  #其他
+
+【德國農民協會：高溫乾旱或致部分地區農作物減產甚至絕收】當地時間14日，德國農民協會表示，受持續高溫乾旱影響，今年德國農業可能出現明顯減產。德國農民協會主席約阿希姆·魯克維德表示，今年小麥和油菜籽的產量預計將低於平均水平，玉米、大豆等秋季作物也可能出現較大幅度減產。魯克維德說，德國南部受乾旱影響尤為嚴重，農作物面臨絕收的風險。他還指出，持續高溫和乾旱還導致飼料作物減產，畜牧業也受到影響。（央視新聞）
 
 ---
 
@@ -18803,251 +19073,5 @@ FX Updates: Swedish Krona Appreciates by 0.37% — Top currency gainers are Swed
 ### 2026-08-13 22:59:19  #公司
 
 【傑瑞股份：上半年獲取新增訂單100.46億元 同比增長1.67%】傑瑞股份(002353.SZ)釋出投資者關係活動記錄表公告，訂單方面，公司上半年獲取新增訂單100.46億元，同比增長1.67%；截至報告期末存量訂單139.95億元，同比增長13.00%。7月，公司控股子公司J&FPowerSystemsLLC與某國際知名雲服務提供商簽署燃氣輪機發電機組供應合同，並接受客戶下達的採購訂單，訂單金額為14.65億美元。截止目前，公司已收到該訂單的首筆預付款。
-
----
-
-### 2026-08-13 22:57:03  #MKT News
-
-Dutch outlet BNR reports a Russian hacker group claims it breached Shell and Philips. Philips confirmed it experienced a cyberattack and said customers were not affected. A Shell spokesperson said the incident is under investigation.
-
----
-
-### 2026-08-13 22:56:26  #其他
-
-【淘寶閃購“等燈加時”將在北京、上海落地】淘寶閃購“等燈加時”服務將在北京、上海探索落地。據介紹，在該功能下，騎士所配送訂單增加累計等燈時間，確保等燈時間不被計入考核。此前，這一功能已在多地試點多時，並在蘇州等地落地。淘寶閃購方面還表示，將繼續升級行業首創的騎士AI助手，擴大騎士智慧AI裝置覆蓋，積極開展協商對話，進一步推動演算法向上向善、透明化，持續加強騎士保障。（新浪科技）
-
----
-
-### 2026-08-13 22:55:36  #其他
-
-殼牌發言人證實正在對該事件開展調查。
-
----
-
-### 2026-08-13 22:55:31  #其他
-
-飛利浦發現有網路攻擊企圖，未對客戶造成影響。
-
----
-
-### 2026-08-13 22:55:12  #公司 #國際
-
-市場訊息：俄羅斯駭客團伙宣稱已入侵殼牌、飛利浦公司系統。
-
----
-
-### 2026-08-13 22:54:37  #市場
-
-潘多拉股價上漲高達8%，觸及盤中最高點。
-
----
-
-### 2026-08-13 22:54:08  #國際
-
-以色列國防軍訊息：以軍在黎巴嫩南部安全區搜出大量武器，包含火箭助推榴彈及其他各類軍械。
-
----
-
-### 2026-08-13 22:53:55  #國際
-
-美國駐墨西哥大使館訊息：美國恢復在米卻肯州相關活動。
-
----
-
-### 2026-08-13 22:53:24  #國際
-
-若敘利亞大馬士革當局介入黎巴嫩戰事，伊朗威脅將打擊大馬士革境內 100 處戰略設施。
-
----
-
-### 2026-08-13 22:52:56  #國際
-
-報道稱，俄羅斯武裝部隊摧毀了敖德薩港內的燃料儲罐以及用於解除安裝軍事物資的裝置。
-
----
-
-### 2026-08-13 22:52:35  #市場
-
-小麥期貨抹去漲幅，跌幅高達1.2%。
-
----
-
-### 2026-08-13 22:52:17  #公司 #市場 #國際
-
-【油價轉跌 市場觀望霍爾木茲海峽石油通行規模】油價終結近期上漲行情，伊朗衝突相關協議進展有限，交易商密切關注霍爾木茲海峽石油通行量。西德克薩斯輕質原油（WTI）跌至每桶81美元下方，此前五個交易日累計上漲10%。期貨市場對白宮就該航道發表的言論敏感度不斷下降；在近期價格衝高後，週四市場出現獲利了結跡象。加拿大帝國商業銀行私人財富集團資深能源交易員麗貝卡·巴賓表示：“今早行情更像是買方觀望，而非市場真正篤定看空。疊加昨日美國原油庫存大幅增加，當下幾乎沒有利好因素吸引買方入場。”交易商正在評估當前霍爾木茲海峽的石油通行規模。美國能源部長克里斯·賴特週二稱，過去一週海峽石油日均通行量為900萬桶，遠高於多家行業機構預估，令市場對供應缺口規模產生新的疑問。與此同時，美國能源資訊署資料顯示，上週原油庫存增加1740萬桶，或在短期內對油價形成一定緩衝。
-
----
-
-### 2026-08-13 22:50:57  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Oil Drops Below $87 — Brent crude oil fell below $87 a barrel on Thursday, after five consecutive sessions of gains, as investors shifted attention toward weakening demand prospects and continued disruption around the Strait of Hormuz. Traders are closely monitoring how much oil is moving through the key waterway, as diplomatic efforts to end the Iran war and restore normal shipping remain stalled. Meanwhile, major producers including Saudi Arabia and the UAE are seeking alternative ways to maintain exports, with some vessels reportedly switching off transponders while navigating the strait. The International Energy Agency lowered its global oil demand outlook, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. The agency estimates the global market could face a supply deficit of 1.8 million barrels per day this quarter, more than twice its previous forecast. US crude inventories also surged by 17.4 million barrels last week.
-
----
-
-### 2026-08-13 22:50:13  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Pulls Back on Thursday — Crude oil fell below $81 a barrel on Thursday, after five consecutive sessions of gains, as investors shifted attention toward weakening demand prospects and continued disruption around the Strait of Hormuz. Traders are closely monitoring how much oil is moving through the key waterway, as diplomatic efforts to end the Iran war and restore normal shipping remain stalled. Meanwhile, major producers including Saudi Arabia and the UAE are seeking alternative ways to maintain exports, with some vessels reportedly switching off transponders while navigating the strait. The International Energy Agency lowered its global oil demand outlook, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. The agency estimates the global market could face a supply deficit of 1.8 million barrels per day this quarter, more than twice its previous forecast. US crude inventories also surged by 17.4 million barrels last week.
-
----
-
-### 2026-08-13 22:49:54  #公司 #央行 #國際
-
-【美聯儲巴爾金：勞動力市場並不像資料顯示的那樣強勁】美聯儲巴爾金表示，企業對企業銷售的公司對定價能力充滿信心；企業對消費者銷售的公司則不太確定能否轉嫁成本，美聯儲目前並未處於“前瞻性指引”狀態。他認為勞動力市場並不像資料顯示的那樣強勁，認為其較為脆弱，確實擔心低端消費者支出能維持多久。巴爾金表示，確實相信如果幫助人們理解反應函式，有助於市場發揮其作用，但也認為過於謹慎的指引會導致約束。巴爾金稱，企業通常不喜歡裁員，即使對招聘持謹慎態度，也更傾向於避免裁員。巴爾金表示，糾結於應關注通脹已逾五年高於目標，還是應關注其經歷兩輪跳升後正在放緩。整體通脹持續放緩的程度越高，就越有助於控制通脹預期。許多人工智慧應用案例似乎尚未成熟到足以導致員工人數大幅減少。人工智慧對就業的淨影響，不如其可能引發的就業崗位重新分配問題更值得關注。巴爾金表示，鑑於任何模型都存在標準誤差，很難判斷政策是否具有限制性。
-
----
-
-### 2026-08-13 22:48:22  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Barkin said many AI applications currently appear insufficiently mature to trigger large-scale layoffs.
-
----
-
-### 2026-08-13 22:48:02  #MKT News #Market Themes #AI Revolution
-
-Fed Governor Barkin said the net impact of AI on total employment is not the main concern; the greater market-relevant issue is the potential reallocation of jobs across occupations.
-
----
-
-### 2026-08-13 22:47:56  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact mixed #US10Y #Impact bearish #DXY #Impact bullish
-
-Fed's Barkin said firms selling to corporate clients are confident in their pricing power, while consumer-facing firms are less certain they can pass rising costs on to consumers.
-
----
-
-### 2026-08-13 22:47:32  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Barkin said the Fed is not currently in a position to provide "forward guidance".
-
----
-
-### 2026-08-13 22:47:16  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-Federal Reserve's Barkin said he is concerned about how long consumer spending among low‑income households can be sustained.
-
----
-
-### 2026-08-13 22:47:06  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Barkin said helping market participants understand the Fed's reaction function helps markets function, but overly cautious guidance will lead to constraints.
-
----
-
-### 2026-08-13 22:46:53  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-Barkin said if overall inflation continues to slow it would help keep expectations stable.
-
----
-
-### 2026-08-13 22:46:49  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed's Barkin said firms generally dislike layoffs and tend to avoid them, even if they remain cautious about hiring.
-
----
-
-### 2026-08-13 22:46:48  #市場 #國際
-
-泛歐交易所九月小麥期貨轉跌，此前漲幅悉數回吐，此前有報道稱烏克蘭就針對民用目標實施黑海休戰提出提議。
-
----
-
-### 2026-08-13 22:46:43  #公司
-
-【聯想伺服器儲備訂單3600億元，楊元慶：AI需求剛開始，儲存供應緊張會延續至明年】8月13日，聯想集團（0992.HK）董事長、CEO楊元慶在聯想集團第一財季業績釋出會上表示，相信AI的需求是剛剛開始，還有很大增長空間，儲存的供應緊張今年和明年都會延續。聯想集團基礎設施業務集團（ISG）業務尤其亮眼，伺服器業務大爆發。截至2026年6月末，聯想ISG第一財季營收實現579億元人民幣，同比增長98%；運營利潤約53億元人民幣，同比增98%；運營利潤率為9.1%，同比提升11.1個百分點，環比提升5.5個百分點。同時，AI伺服器儲備訂單從上一財季的1400億元，大幅提高至3600億元。這意味著ISG已正式成長為聯想集團利潤與增長雙引擎。（澎湃）
-
----
-
-### 2026-08-13 22:46:34  #MKT News
-
-Barkin said he is torn between two views: on one hand, inf has exceeded the target for more than five years; on the other, inf surged in two distinct episodes and is now moderating.
-
----
-
-### 2026-08-13 22:46:03  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-Fed's Barkin said he does not believe the labor market is as strong as the data suggest.
-
----
-
-### 2026-08-13 22:45:57  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Barkin said markets' understanding of the Fed's thinking would aid policy implementation.
-
----
-
-### 2026-08-13 22:45:56  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Barkin: Excessive forward guidance limits the Fed's flexibility.
-
----
-
-### 2026-08-13 22:45:50  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Barkin said it is difficult to judge whether interest rates are at restrictive levels.
-
----
-
-### 2026-08-13 22:45:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Barkin said the U.S. labor market remains broadly balanced but vulnerabilities persist.
-
----
-
-### 2026-08-13 22:45:35  #央行 #國際
-
-美聯儲巴爾金： 勞動力市場實際強度不及資料表現。
-
----
-
-### 2026-08-13 22:45:27  #央行 #國際
-
-巴爾金：過度前瞻指引會束縛美聯儲。
-
----
-
-### 2026-08-13 22:45:14  #國際
-
-【以軍空襲打死加沙市警察局長】巴勒斯坦加沙地帶內政部門13日發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。 當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。(新華社)
-
----
-
-### 2026-08-13 22:44:32  #公司
-
-【元立光電北交所IPO將於8月20日上會】8月13日，據北交所網站披露，北交所上市委員會定於8月20日上午9時召開2026年第77次審議會議，屆時將審議東莞市元立光電股份有限公司的首發事項。
-
----
-
-### 2026-08-13 22:43:21  #其他
-
-OpenAI：前 10% 的企業使用外掛的頻率是典型企業的兩倍，使用技能的頻率是六倍。
-
----
-
-### 2026-08-13 22:43:19  #Trading Economics #Markets #Commodity #Importance 2
-
-US Natgas Prices Fall by Over 2% — US natural gas prices fell more than 2% to around $2.73 per million British thermal units on Thursday, as strong production and ample inventories outweighed continued weather-driven demand. Energy companies added 36 billion cubic feet of gas to storage in the week ended August 7, above market expectations and the five-year average of 33 bcf. Production in the Lower 48 states averaged a record 111.2 bcfd in August, up from 110.7 bcfd in July, helping keep inventories above their five-year average since March. However, hotter-than-normal weather is expected to persist through August 28, supporting electricity demand for air conditioning and limiting the downside for gas prices. Meanwhile, around 490,000 homes and businesses remained without power after severe storms hit the US Midwest. Gas flows to the nine major US LNG export facilities eased to 17.1 bcfd in August, below July’s 17.2 bcfd and June’s monthly record of 17.4 bcfd.
-
----
-
-### 2026-08-13 22:42:47  #公司 #市場 #國際
-
-PSQ HOLDINGS股價上漲33.5%，此前小唐納德·特朗普與PILOT家族牽頭為公司進行130萬美元私募融資。
-
----
-
-### 2026-08-13 22:42:43  #國際
-
-美國國家颶風中心（NHC）表示，颶風“埃爾南”強度略有增強。
-
----
-
-### 2026-08-13 22:42:37  #其他
-
-【《歡迎來龍餐館》聯名套餐賣爆了 龍餐館聯名漢堡一週狂賣超300萬份】今天，2026暑期檔電影票房突破92億元。《歡迎來龍餐館》上映不到三天，票房已超4億元，顯示出暑期檔電影市場後勁十足。電影《歡迎來龍餐館》中的美食，也受到不少觀眾追捧。記者發現，有餐廳已經推出了十幾款電影《歡迎來龍餐館》的聯名套餐，這也讓餐廳的銷量增加了不少。某餐飲品牌還設計了電影周邊產品搭配套餐一起售賣，其中一款周邊產品，在外賣平臺上線僅3天，銷量就超過備貨總量的50%。相關負責人表示：“截止到8月13日，聯名活動上線第一週，電影款‘徐福牛堡’的銷售總量，就超過了310萬份，市場表現非常積極。” （央視財經）
-
----
-
-### 2026-08-13 22:41:48  #MKT News #000858.SZ
-
-【Wuliangye moves to stabilise prices】About a week ago Wuliangye notified dealers it has cancelled certain prior channel policies and set a floor: shipment price for 8th‑generation Wuliangye must not be below 800 yuan per bottle. The brand warned it will impose penalties, including fines, for low‑price cross‑region sales and dumping, with measures scaled to severity. Dealers say in practice penalties are unlikely unless there is large‑scale, malicious channel‑jumping.
 
 ---
