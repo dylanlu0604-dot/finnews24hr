@@ -1,7 +1,45 @@
 {
   "date": "2026-08-14",
-  "count": 574,
+  "count": 578,
   "items": [
+    {
+      "id": "5040209",
+      "time": "2026-08-14 08:26:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4400美元/盎司，日內跌0.56%。"
+    },
+    {
+      "id": "5040208",
+      "time": "2026-08-14 08:25:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中國電動卡車在南亞與東南亞銷量飆升】在伊朗戰爭推高燃料成本、加速區域電氣化程序之際，中國對其他亞洲國家的電動卡車出口大幅攀升。在美國與以色列於2月28日發動戰爭後的四個月內，中國重型電動卡車出口較去年同期增加逾一倍，達16,823輛。其中一半銷往南亞與東南亞，對南亞出口增加至原來的五倍以上，對東南亞出口增長至原來的近三倍。GlobalPetrolPrices.com資料顯示，自戰爭爆發以來，斯里蘭卡柴油價格上漲48%，菲律賓上漲57%"
+    },
+    {
+      "id": "mkt:019ffda8-f234-7aab-9030-684c8e8e84b9",
+      "time": "2026-08-14 08:25:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Yen steady; BOJ rate-hike bets may provide support】The yen was largely rangebound against other G10 and Asian currencies, but expectations of Bank of Japan tightening could lend support. Commonwealth Bank economist and FX strategist Carol Kong noted media reports that a government faction led by Sanae Takaichi supports near-term BOJ hikes, while Takaichi’s preference for lower rates is widely seen as constraining the BOJ’s pace. Markets assign about a 70% probability to a 25bp BOJ hike at the September meeting. USD/JPY was around 159.41, little changed."
+    },
+    {
+      "id": "5040207",
+      "time": "2026-08-14 08:25:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.57噸】截至2026年08月13日，全球最大的黃金ETF SPDR Gold Trust持倉量為1023.24噸，較前一個交易日減少2.57噸。"
+    },
     {
       "id": "5040206",
       "time": "2026-08-14 08:23:27",
