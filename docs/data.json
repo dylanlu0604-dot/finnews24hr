@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-14 18:51:47",
-  "count": 15345,
+  "updated": "2026-08-14 18:55:44",
+  "count": 15349,
   "items": [
+    {
+      "id": "5041318",
+      "time": "2026-08-14 18:54:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週多晶矽市場價格上漲】本週多晶矽價格指數為39.47元/千克，N型多晶矽復投料報價37.9-41元/千克，顆粒矽報價39-40元/千克。本週多晶矽市場價格出現上漲，主要還是在於報價上漲。目前部分頭部企業嘗試對外報價，但下游對處在觀望態度，目前廠家對廠家成交量極少。近期成本及能耗相關會議頻開，多數廠家對政策執行還處於摸索狀態。下游部分報價也已經順勢上漲，後續繼續觀望政策執行情況。 (上海有色網)"
+    },
+    {
+      "id": "mkt:019fffe8-e5fe-7aab-903c-aedd3741e247",
+      "time": "2026-08-14 18:54:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Shell loses five-year legal fight as South African court blocks offshore exploration renewal】South Africa’s Constitutional Court on Friday ruled Shell cannot renew its offshore exploration rights near the Wild Coast in the Indian Ocean, ending a five‑year legal dispute with environmental activists. The litigation began in 2021 after activists opposed seismic surveys by Shell and a local partner in waters frequented by whales. The decision arrives as other South African offshore projects face legal challenges and neighbouring Namibia advances development of an oil discovery near the maritime border, and may further embolden activists who have won multiple suits against oil explorers."
+    },
+    {
+      "id": "5041317",
+      "time": "2026-08-14 18:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【靈康藥業：2026年上半年實現扭虧為盈，淨利潤2111.27萬元】靈康藥業公告，2026年上半年營業收入2.57億元，同比增長50.03%。歸屬於上市公司股東的淨利潤2111.27萬元，上年同期淨利潤-3573.37萬元，實現扭虧為盈。歸屬於上市公司股東的扣除非經常性損益的淨利潤1842.08萬元。公司半年度不進行利潤分配或資本公積轉增股本。"
+    },
+    {
+      "id": "mkt:019fffe8-0822-7aab-903c-a4c83ea5ea47",
+      "time": "2026-08-14 18:53:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【India closing-auction revamp raises liquidity concerns; regulator holds urgent talks】SEBI has accelerated consultations with high-frequency traders, market makers, domestic mutual funds and brokers after a revamped closing-auction system launched on Aug. 3 prompted concern, sources said. The mechanism, designed to improve price discovery and deter manipulation, has disrupted trading: HFT firms report they cannot borrow sufficient stock in India’s underdeveloped securities lending market, limiting auction participation. Some brokers have proposed reverting to the prior mechanism on passive-fund rebalance days until liquidity improves, and brokers executing for foreign funds warned the system may struggle to handle flows during the MSCI quarterly rebalancing later this month."
+    },
+    {
+      "id": "te:markets:575458",
+      "time": "2026-08-14 18:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures at Over 1-Week Low — Arabica coffee futures traded around $3.10 per pound, near the lowest since early August, as drier conditions in Brazil supported the harvest and raised expectations of increased near-term supplies. This is particularly important as ICE arabica inventories remain tight, currently at a 2.75-year low of 236,430 bags. Meanwhile, Cecafé data showed that the country shipped 3.03 million 60-kg bags of coffee in July, the first month of the 2026/27 crop year, up 9.9% from a year earlier. Attention remains focused on weather conditions amid concerns over Brazil’s 2027 crop, with the effects of El Niño posing potential risks to crop development. Elsewhere, Colombia, the world’s second-largest producer of Arabica coffee, has partially resumed coffee exports through Buenaventura, its main coffee-export port, although traffic remains intermittent and limited. Exporters said the earthquake caused no significant damage to coffee processing or milling facilities."
+    },
+    {
+      "id": "5041316",
+      "time": "2026-08-14 18:53:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST英飛：全資子公司起訴追款，涉案金額超1.14億元】*ST英飛公告稱，2026年8月13日，公司全資子公司新普互聯收到深圳市中級人民法院出具的《受理案件通知書》。新普互聯對掌酷公司享有整體剩餘債權1.09億元且已逾期，劉肇懷曾以7000萬股公司股票為部分債權提供質押擔保，目前剩餘8626.43萬元。新普互聯請求判令掌酷公司退還本金等暫計1.14億元，且有權就劉肇懷7000萬股股票折價等所得價款在8626.43萬元內優先受償。案件尚未開庭，影響待定。"
+    },
+    {
+      "id": "5041315",
+      "time": "2026-08-14 18:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黑海港口運營受阻，烏克蘭糧食出口大幅下滑】烏克蘭表示，由於俄羅斯空襲導致敖德薩大區剩餘黑海港口實際陷入停擺，該國農業出口目標或將減半，這給全球糧食供應帶來風險。烏克蘭農業部長塔拉斯・維索茨基週五對記者稱：“自 8 月初以來，沒有任何船舶駛入敖德薩港口，迫使烏克蘭啟用替代運輸通道。” 他表示，本月迄今糧食出口量驟降至僅 59 萬噸，僅為應出口規模的 30%。"
+    },
+    {
+      "id": "mkt:019fffe6-b1a5-7aab-903c-9f2876ef329f",
+      "time": "2026-08-14 18:52:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "【Boeing gets turnaround boost as Wall Street turns broadly bullish】Boeing's bullishness among analysts hit its strongest level in nearly four years after Argus Research and BNP Paribas upgraded the stock within ten days, pushing the share of buy ratings to the highest since October 2022. Of 32 analysts tracked, none recommend sell. The optimism follows FAA certification of the long‑awaited 737 Max 7, ending an approval process stretched nearly a decade by two fatal crashes and quality lapses. CEO Stephanie Pope called the move \"a key moment in Boeing's recovery.\" Boeing shares are roughly flat year‑to‑date, up about 6%, versus about a 13% rise in the broader market and roughly an 8% gain in Airbus' Paris‑listed stock over the same period."
+    },
+    {
+      "id": "5041314",
+      "time": "2026-08-14 18:51:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【顧家家居：調整募投專案金額及主體 向實施主體增資9.17億元】顧家家居公告稱，公司本次向特定物件發行股票，募集資金淨額18.63億元。公司調整部分募投專案擬投入募集資金金額，“功能鐵架生產線擴建專案”調整後投入3098.20萬元，“AI及零售數字化轉型專案”調整後投入3.80億元，不足部分將自籌解決。“品牌建設數字化提升專案”和補充流動資金增加實施主體。此外，公司向各募投專案實施主體總增資額為9.17億元。"
+    },
+    {
+      "id": "5041313",
+      "time": "2026-08-14 18:51:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈投股份：2026年上半年淨利潤4.04億元，同比增6.33%】哈投股份公告，2026年上半年營業總收入15.73億元，同比增長6.62%；歸屬於上市公司股東的淨利潤4.04億元，同比增長6.33%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.96億元，同比增長9.73%。"
+    },
+    {
+      "id": "5041312",
+      "time": "2026-08-14 18:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浪潮資訊：參與投資基金完成備案，認繳出資1億元】浪潮資訊公告稱，公司於2026年7月23日披露以自有資金1億元認繳出資，參與投資設立合肥浩瀾潮智創業投資合夥企業（有限合夥）。近日收到通知，該基金已在中國證券投資基金業協會完成備案手續，並取得《私募投資基金備案證明》，備案日期為2026年8月14日。公司將跟進投資進展並依規披露資訊。"
+    },
+    {
+      "id": "5041311",
+      "time": "2026-08-14 18:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月金融資料出爐：信貸市場供強需弱，貸款利率保持歷史低位】8月13日，中國人民銀行公佈的2026年7月金融統計資料包告顯示，初步統計，前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元；前七個月人民幣貸款增加10.38萬億元。業內專家指出，目前社會融資規模和廣義貨幣M2等金融總量指標保持合理增長，社會融資成本持續處於低位，總體融資環境是比較寬鬆的。業內專家分析，利率下行的走勢表明當前信貸供給充分滿足了市場需求，貨幣政策適度寬鬆。價格是反映供需關係的基礎性訊號。如果價格持續下降，表明商品處於供過於求的狀態。信貸也是如此，在信貸市場供需兩個方面的力量共同作用下，貸款利率呈現下行態勢，表明信貸投放已較為充分，滿足了市場需求。（第一財經）"
+    },
     {
       "id": "5041310",
       "time": "2026-08-14 18:50:45",
@@ -140563,79 +140670,6 @@
         "其他"
       ],
       "text": "【三部門向陝西增加調撥3.2萬件中央救災物資 支援做好救災救助工作】8月7日，國家防災減災救災委員會辦公室、應急管理部針對陝西多地暴雨洪澇災害影響，根據災區救災救助需要，在前期調撥6.5萬件中央救災物資基礎上，會同國家糧食和物資儲備局向陝西增加調撥帳篷、場地照明燈、摺疊床、摺疊桌椅、雨衣雨靴、家庭應急包等3.2萬件中央救災物資，支援地方妥善做好受災群眾緊急轉移安置和救災救助工作。（央視新聞）"
-    },
-    {
-      "id": "5030956",
-      "time": "2026-08-07 18:55:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST實達：因2023年半年報涉嫌信披違規被證監會立案】*ST實達公告，公司於2026年8月7日收到中國證監會《立案告知書》（證監立案字0262026007號），因公司2023年半年報涉嫌資訊披露違法違規，中國證監會決定對公司立案。本次立案調查不涉及其他年度，對公司經營不會造成影響，目前公司經營情況一切正常。"
-    },
-    {
-      "id": "5030955",
-      "time": "2026-08-07 18:53:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年7月份中國二手車經理人指數為40.1%】2026年8月3日，中國汽車流通協會發布新一期“中國二手車經理人指數”（UCMI）。本期UCMI調查顯示，7月份二手車經理人指數為40.1%，同比下降1.6個百分點，環比下降3.4個百分點，較上月有明顯所回落，二手車市場整體仍處於不景氣區間。從二手車經理人指數走勢看，2026 年上半年二手車經理人指數呈 “先穩後降” 的季節性波動，始終未突破榮枯線，新車價格擠壓、需求偏弱是行業景氣度低迷的核心因素。"
-    },
-    {
-      "id": "te:economy:573775",
-      "time": "2026-08-07 18:53:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Portugal",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Portugal Trade Gap Widens in June — Portugal’s trade deficit widened to €3.63 billion in June 2026, up €1.12 billion from a year earlier, as imports grew significantly faster than exports. Imports surged 19.6% year-on-year, driven mainly by a 50.7% increase in fuels and lubricants, particularly crude oil from Brazil, reflecting higher prices. Industrial supplies also contributed strongly, rising 23.5%. Imports from Brazil, the Netherlands and Germany recorded particularly sharp increases. Exports, meanwhile, rose 10% year-on-year, supported by a 69.3% jump in fuels and lubricants and a 13.4% increase in industrial supplies, particularly base metals. Exports to Spain (13.2%) and Germany (6.2%) strengthened. In the second quarter, exports increased 10.3% year-on-year, while imports rose 8.7%. During the first half of 2026, exports were up 1.7% from a year earlier, compared with a 6.3% increase in imports."
-    },
-    {
-      "id": "mkt:019fdbda-edb1-7aab-8fb7-8ff833800161",
-      "time": "2026-08-07 18:53:05",
-      "tags": [
-        "MKT News",
-        "NET.O",
-        "Impact bullish"
-      ],
-      "text": "Mizuho raised its PT on Cloudflare (NET.N) to $375 from $310."
-    },
-    {
-      "id": "mkt:019fdbda-a067-7aab-8fb7-817ef9b9821d",
-      "time": "2026-08-07 18:52:45",
-      "tags": [
-        "MKT News",
-        "ABNB.O",
-        "Impact bullish"
-      ],
-      "text": "MIZUHO raises its PT on Airbnb (ABNB.O) to $200 from $175."
-    },
-    {
-      "id": "5030954",
-      "time": "2026-08-07 18:52:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【帝奧微：完成董事會換屆選舉及高管、證券事務代表聘任】帝奧微公告稱，2026年8月7日，公司完成董事會換屆選舉，鞠建宏、周健華等5人當選第三屆董事會董事，鞠建宏當選董事長。同日，公司聘任鞠建宏為總經理，鄧少民為副總經理，成曉鳴為財務總監，王建波為董事會秘書，繆寒為證券事務代表。此外，周健軍不再擔任獨立董事，陳悅不再擔任董事會秘書及副總經理。控股股東、實際控制人鞠建宏兼任董事長和總經理，公司稱該安排合理且已構建有效治理制衡體系。"
-    },
-    {
-      "id": "mkt:019fdbda-5f5e-7aab-8fb7-7d436c5c91d6",
-      "time": "2026-08-07 18:52:29",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "U.S. SEC filings show Temasek Holdings reported holding 9.8 million Class A shares of SpaceX (SPCX.O)."
-    },
-    {
-      "id": "5030953",
-      "time": "2026-08-07 18:52:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗將Airbnb目標股價從175美元上調至200美元。"
     }
   ]
 }
