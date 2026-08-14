@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-14 13:06:35",
-  "count": 15522,
+  "updated": "2026-08-14 13:10:29",
+  "count": 15518,
   "items": [
+    {
+      "id": "5040584",
+      "time": "2026-08-14 13:09:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1.1%，報9,092.20點，為8月4日以來最低。"
+    },
+    {
+      "id": "5040583",
+      "time": "2026-08-14 13:08:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本千葉縣強降雨8人死 】據日本廣播協會（NHK）電視臺今天（8月14日）最新報道稱，昨天開始的強降雨已造成日本千葉縣8人死亡。 據日本氣象廳訊息，千葉縣自8月13日傍晚以後持續出現強降雨。其中，千葉市截至當地時間今天凌晨1點的12小時累計降雨量達到347毫米，為有記錄以來的最高值。半天內的降雨量已接近往年8月整個月平均降雨量的3倍。"
+    },
+    {
+      "id": "mkt:019ffeaa-44cd-7aab-9035-c487c0bfd182",
+      "time": "2026-08-14 13:06:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "Meituan",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09618.HK",
+        "03690.HK"
+      ],
+      "text": "Hang Seng TECH Index extended losses to 2% as tech and internet stocks came under pressure. JD.com (09618.HK) dropped more than 10%; Meituan (03690.HK) fell nearly 6%."
+    },
+    {
+      "id": "5040582",
+      "time": "2026-08-14 13:06:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2％，恒生指數現跌1.09％，科網股多數承壓。"
+    },
     {
       "id": "5040581",
       "time": "2026-08-14 13:05:49",
@@ -141980,74 +142021,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4330美元/盎司，日內漲0.71%。"
-    },
-    {
-      "id": "5030073",
-      "time": "2026-08-07 13:10:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聯想集團漲幅擴大至5%】港股聯想集團午後拉昇，漲幅擴大至5%，報27.24港元/股。"
-    },
-    {
-      "id": "5030072",
-      "time": "2026-08-07 13:08:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多支創新藥ETF漲超5%】醫療服務、CRO概念持續走強，十餘隻相關個股漲停。科創創新藥ETF國泰（589720）、 科創創新藥ETF匯添富（589120）、創新藥ETF易方達（516080）等多隻ETF漲超5%"
-    },
-    {
-      "id": "5030071",
-      "time": "2026-08-07 13:08:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胖東來鄭州二店？於東來剛剛首提弘坊專案】8月7日上午，胖東來創始人於東來在直播中提到鄭州專案時，首次提及“弘坊”專案。話音剛落，評論區便被“弘坊”刷屏。這意味著，繼鄭州東站之後，胖東來在鄭州再添新專案。（大河財立方）"
-    },
-    {
-      "id": "mkt:019fda9f-0515-7aab-8faf-ff5868c38ae7",
-      "time": "2026-08-07 13:08:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【2026 China summer box office tops 8.0 bln yuan】Online platform data showed the 2026 China summer box office, including presales, exceeded 8.0 bln yuan as of Aug 7."
-    },
-    {
-      "id": "5030070",
-      "time": "2026-08-07 13:07:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PET銅箔板塊再度走高，銅冠銅箔觸及20cm漲停】PET銅箔板塊再度走高，銅冠銅箔觸及20cm漲停，此前泰金新能、江南新材、諾德股份等多股漲停。"
-    },
-    {
-      "id": "5030069",
-      "time": "2026-08-07 13:07:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【暑期檔票房破80億】據網路平臺資料，截至8月7日，2026年暑期檔總票房（含預售）突破80億元。"
-    },
-    {
-      "id": "5030068",
-      "time": "2026-08-07 13:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍在黑海擊中三艘載有烏克蘭軍用物資的船隻。"
-    },
-    {
-      "id": "mkt:019fda9e-4914-7aab-8faf-f5ca4ee83a66",
-      "time": "2026-08-07 13:07:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reported the Russian defence ministry said Russian forces struck three vessels in the Black Sea carrying Ukrainian military cargo."
     }
   ]
 }

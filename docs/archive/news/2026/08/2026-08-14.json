@@ -1,7 +1,48 @@
 {
   "date": "2026-08-14",
-  "count": 1139,
+  "count": 1143,
   "items": [
+    {
+      "id": "5040584",
+      "time": "2026-08-14 13:09:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1.1%，報9,092.20點，為8月4日以來最低。"
+    },
+    {
+      "id": "5040583",
+      "time": "2026-08-14 13:08:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本千葉縣強降雨8人死 】據日本廣播協會（NHK）電視臺今天（8月14日）最新報道稱，昨天開始的強降雨已造成日本千葉縣8人死亡。 據日本氣象廳訊息，千葉縣自8月13日傍晚以後持續出現強降雨。其中，千葉市截至當地時間今天凌晨1點的12小時累計降雨量達到347毫米，為有記錄以來的最高值。半天內的降雨量已接近往年8月整個月平均降雨量的3倍。"
+    },
+    {
+      "id": "mkt:019ffeaa-44cd-7aab-9035-c487c0bfd182",
+      "time": "2026-08-14 13:06:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "Meituan",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09618.HK",
+        "03690.HK"
+      ],
+      "text": "Hang Seng TECH Index extended losses to 2% as tech and internet stocks came under pressure. JD.com (09618.HK) dropped more than 10%; Meituan (03690.HK) fell nearly 6%."
+    },
+    {
+      "id": "5040582",
+      "time": "2026-08-14 13:06:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2％，恒生指數現跌1.09％，科網股多數承壓。"
+    },
     {
       "id": "5040581",
       "time": "2026-08-14 13:05:49",
