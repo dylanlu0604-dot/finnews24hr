@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-14 23:36:38",
-  "count": 15338,
+  "updated": "2026-08-14 23:40:38",
+  "count": 15339,
   "items": [
+    {
+      "id": "mkt:01a000ed-0961-7aab-9042-4c4d1798fd1b",
+      "time": "2026-08-14 23:38:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alibaba open-sources Qwen3.8 series】Alibaba announced today it has open-sourced the Qwen3.8 model series; developers, research institutions and companies can freely download, deploy and use the models. The newly released Qwen3.8-27B is a native multimodal dense model with 27 billion parameters and is said to outperform Qwen3.7-Plus."
+    },
+    {
+      "id": "te:economy:575509",
+      "time": "2026-08-14 23:38:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits 17-year High — France 10 Year Government Bond Yield increased to 4.05%, the highest since June 2009. Over the past 4 weeks, France 10Y Bond Yield gained 11.99 basis points, and in the last 12 months, it increased 55.96 basis points."
+    },
+    {
+      "id": "5041813",
+      "time": "2026-08-14 23:37:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪士尼執行長：迪士尼為維護新聞操守對抗聯邦通訊委員會（FCC）。"
+    },
+    {
+      "id": "5041812",
+      "time": "2026-08-14 23:37:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【報道：特斯拉最快本月展示具“飛行”能力的Roadster跑車】據The Information援引三名知情人士報道，特斯拉計劃最快本月釋出一款新的Roadster設計，其中將包括“飛行”能力。報道稱，釋出活動將安排一場精心設計的特技演示，展示Roadster限量版車型的飛行能力。該車型由特斯拉與SpaceX合作開發。演示預計將在SpaceX位於德克薩斯州McGregor的測試場進行。不過，報道指出，特斯拉最終會在活動上展示什麼仍存在不確定性。據報道，馬斯克近幾周曾告訴部分特斯拉員工，這項演示難度很高，也可能出現意外，但無論結果如何都會很有娛樂性。"
+    },
     {
       "id": "5041811",
       "time": "2026-08-14 23:35:44",
@@ -140281,36 +140321,6 @@
         "觀點"
       ],
       "text": "花旗：美伊談判反覆拉鋸，因此將 2026 年第三季度布倫特原油均價市價重估至每桶 80 美元，2026 年第四季度維持 70 美元，2027 年為 65 美元。"
-    },
-    {
-      "id": "mkt:019fdce1-93c3-7aab-8fbd-9a94c1190476",
-      "time": "2026-08-07 23:39:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina presidency: President MILEI met Israel's foreign minister and reaffirmed Argentina's firm support for Israel's right to lawful self‑defense under international law. He condemned Iran and its affiliated groups' attacks on Israeli territory, saying they pose a serious threat to regional security and stability."
-    },
-    {
-      "id": "5031416",
-      "time": "2026-08-07 23:38:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國上訴法院維持對白宮宴會廳改造專案的暫停令】美國哥倫比亞特區聯邦巡迴上訴法院7日裁定，維持對白宮宴會廳改造專案的暫停令。上訴法院以2比1的投票結果，維持下級法院應美國文物保護組織國家歷史保護信託基金會要求頒佈的初步禁令。但上訴法院的裁決將暫緩14天執行，以便特朗普政府有時間向最高法院提出上訴。（新華社）"
-    },
-    {
-      "id": "mkt:019fdcdf-c79a-7aab-8fbd-9712d103db40",
-      "time": "2026-08-07 23:38:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Euro STOXX 50"
-      ],
-      "text": "European equities on Aug 7 (Fri) — Germany's DAX +163.94 pts (+0.63%) to 26,329.17; UK FTSE 100 +35.52 pts (+0.33%) to 10,903.41; France's CAC 40 +15.22 pts (+0.17%) to 8,714.93; Euro STOXX 50 +22.09 pts (+0.34%) to 6,524.65; Spain's IBEX 35 -16.42 pts (-0.08%) to 20,163.98; Italy's FTSE MIB +59.28 pts (+0.11%) to 53,742.00."
     }
   ]
 }
