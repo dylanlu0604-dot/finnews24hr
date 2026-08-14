@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-14 22:18:13",
-  "count": 15311,
+  "updated": "2026-08-14 22:22:15",
+  "count": 15308,
   "items": [
+    {
+      "id": "5041725",
+      "time": "2026-08-14 22:21:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州蘇州揚州公積金有大變化】央視財經訊息，今年以來，多地公積金使用門檻大幅降低，使用範圍不斷擴大。 廣州推出的公積金新政，全面上調住房公積金貸款額度，精準支援育兒家庭，多種上浮條件還可以疊加比例計算。例如新婚家庭生育一個孩子，可享受公積金貸款額度10%的上浮；二孩、三孩及以上家庭上浮40%-50%。 江蘇蘇州自6月起實施了新一輪公積金新政，上調了個人及家庭公積金貸款最高額度、實現多場景貸款額度上浮，還能用來支付購房契稅。眼下，新政在房屋消費上的積極作用也正在顯現。 今年7月15日起，江蘇揚州的住房公積金政策也進行了升級，參加住房公積金繳存的市民足不出戶，透過手機操作，即可提取公積金進行物業費的繳納。（央視財經）"
+    },
+    {
+      "id": "5041724",
+      "time": "2026-08-14 22:20:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "KKR的BRIDGEBIO股份出售計劃將近60%的股份分配給了五家公司。"
+    },
+    {
+      "id": "mkt:01a000a5-b8e9-7aab-9040-e856a9eedd7b",
+      "time": "2026-08-14 22:20:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russia said it struck Ukraine's Odesa and Pivdennyi ports."
+    },
+    {
+      "id": "5041723",
+      "time": "2026-08-14 22:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 俄羅斯稱打擊了烏克蘭敖德薩、皮夫傑尼港口。"
+    },
+    {
+      "id": "mkt:01a000a4-e4ad-7aab-9040-e20b0aee60a0",
+      "time": "2026-08-14 22:20:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "Broadcom Inc (AVGO.O) shares fell 5%, the largest decline among S&P 500 constituents."
+    },
+    {
+      "id": "5041722",
+      "time": "2026-08-14 22:19:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美科技巨頭財報“水分”顯現：股權投資浮盈成盈利增長主要推手】分析指出，部分頭部企業的利潤暴增在很大程度上依賴於股權投資帶來的賬面浮盈，而非核心業務的實質性增長，這增加了投資者評估企業真實經營狀況的難度。資料顯示，Alphabet（谷歌母公司）上季度高達71%的利潤來源於“其他收入”，主要得益於其對SpaceX和Anthropic等初創企業股權投資的重新估值。同樣，Amazon（亞馬遜）上季度利潤中有66%也來自“其他收入”，核心驅動力是其對AI初創公司Anthropic的投資收益。分析人士指出，這類因股權價值波動產生的一次性收益，掩蓋了企業核心業務的真實盈利能力。對於投資者而言，在科技巨頭普遍加大AI基礎設施投資的背景下，如何從繁雜的財報中剝離非經常性損益，準確甄別核心業務的真實盈利水平，已成為當前市場面臨的重要挑戰。"
+    },
+    {
+      "id": "mkt:01a000a4-b687-7aab-9040-deb395484897",
+      "time": "2026-08-14 22:19:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Senator Warren asks Bessent to justify yen intervention】Senator Warren has asked Treasury Secretary Bessent to explain the rationale for the Trump administration's intervention in the yen, continuing her review of the administration's FX policy. In an Aug. 13 letter she said the government has not provided a detailed rationale or disclosed how much taxpayer funds were used to buy yen. After the July 31 action Bessent confirmed media reports that the US and Japan jointly intervened to support the yen—the first coordinated intervention since 1998—but has not disclosed the size of the intervention."
+    },
+    {
+      "id": "5041721",
+      "time": "2026-08-14 22:19:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "博通股價下跌5%，領跌標普500指數。"
+    },
+    {
+      "id": "5041720",
+      "time": "2026-08-14 22:18:48",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通上調閃迪評級至“增持”：AI推理需求驅動儲存結構性增長】摩根大通（JPMorgan）8月14日宣佈，將快閃記憶體巨頭閃迪（SanDisk）的投資評級由“中性”上調至“增持”，並給出2250美元的12個月目標價。該目標價較閃迪前一交易日收盤價隱含約47%的上漲空間。摩根大通分析師哈蘭·瑟（Harlan Sur）在報告中指出，閃迪在當前的市場環境中具備獨特的競爭優勢，有望充分把握由人工智慧（AI）推理需求快速增長所驅動的NAND快閃記憶體結構性需求拐點。今年以來，隨著AI技術的加速普及，全球市場對高效能儲存和資料中心基礎設施的需求激增，甚至引發了供應短缺。受此利好推動，閃迪股價年內累計漲幅已高達544%。分析認為，AI大模型推理對海量資料吞吐和持久化儲存的依賴，正在重塑傳統儲存晶片的供需格局。閃迪憑藉其在企業級快閃記憶體領域的技術積累，有望在這一輪由AI算力基礎設施擴張帶來的結構性紅利中持續獲益。"
+    },
+    {
+      "id": "5041719",
+      "time": "2026-08-14 22:17:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家牛肉協會執行長表示，牛市週期中最糟糕的時期已經過去。"
+    },
+    {
+      "id": "5041718",
+      "time": "2026-08-14 22:17:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【華爾街投行NewStreet上調美光科技評級至“買入”，目標價定為1250美元】華爾街知名投行NewStreet Research於8月14日（週五）宣佈，將美國儲存晶片巨頭美光科技（Micron Technology）的投資評級由此前上調至“買入”，併為其設定了1250美元的12個月目標價。受此利好訊息提振，美光科技股價在週四收盤時上漲4%，報949.83美元。NewStreet Research分析師皮埃爾·費拉古（Pierre Ferragu）在發給客戶的報告中指出，儲存晶片行業具有高度週期性，利潤率波動劇烈，這往往會給科技供應鏈的下游客戶帶來困擾。為了更準確地評估該公司的內在價值，NewStreet採用了“企業價值與銷貨成本之比（EV/COGS）”這一指標，該指標能夠有效過濾掉因市場供需變化引起的利潤率短期波動噪音。費拉古表示，基於對2028年和2030年銷貨成本的預期，NewStreet測算得出美光科技未來12個月的合理目標價為1250美元。分析認為，這一評級上調反映了華爾街對美光科技在AI算力需求驅動下長期盈利能力的看好。"
+    },
     {
       "id": "5041717",
       "time": "2026-08-14 22:17:04",
@@ -139998,130 +140106,6 @@
         "國際"
       ],
       "text": "美聯儲巴爾金：贊同沃什的觀點，即通脹必須迴歸目標水平。"
-    },
-    {
-      "id": "5031350",
-      "time": "2026-08-07 22:21:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：美聯儲將把通脹降至2%的目標水平。"
-    },
-    {
-      "id": "5031349",
-      "time": "2026-08-07 22:21:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內漲3%，現報965.00元。"
-    },
-    {
-      "id": "5031348",
-      "time": "2026-08-07 22:21:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲2%，現報902.00元。"
-    },
-    {
-      "id": "5031347",
-      "time": "2026-08-07 22:21:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院暫停阻止宴會廳專案的命令14天，以便特朗普政府向美國最高法院提起上訴。"
-    },
-    {
-      "id": "5031346",
-      "time": "2026-08-07 22:20:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴爾金談通貨膨脹：如果逆風而行，就得勒緊褲腰帶。"
-    },
-    {
-      "id": "mkt:019fdc98-e593-7aab-8fbc-9be38affa4bf",
-      "time": "2026-08-07 22:20:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Barkin said the world may be entering a period of greater instability."
-    },
-    {
-      "id": "mkt:019fdc98-68b1-7aab-8fbc-9147fce9d06b",
-      "time": "2026-08-07 22:20:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "White House National Economic Council Director Hassett said the White House is aware that natural gas prices are very high."
-    },
-    {
-      "id": "5031345",
-      "time": "2026-08-07 22:20:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：我們很清楚汽油價格高企的事實。"
-    },
-    {
-      "id": "5031344",
-      "time": "2026-08-07 22:19:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利表示，在西班牙提出相關要求後，本國不接受最後通牒。"
-    },
-    {
-      "id": "mkt:019fdc97-d92c-7aab-8fbc-8f273950154f",
-      "time": "2026-08-07 22:19:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. appeals court blocked Trump’s $400 million White House ballroom project, a court ruling showed."
-    },
-    {
-      "id": "te:economy:573838",
-      "time": "2026-08-07 22:19:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Canada Ivey PMI Signals Slower Expansion — Canada's Ivey PMI fell to 55.1 in July 2026 from 56.2 in June, slightly below market expectations of 55.5, but remained in expansionary territory. The reading marked the second consecutive monthly decline and the lowest level since March. The employment index eased to 52.2 from 53.6, although it continued to signal job growth. Meanwhile, the prices index accelerated to 75.5 from 73.7, indicating stronger cost pressures. The supplier deliveries index rose to 45.9 from 44.3 after remaining broadly stable around 44 since April, while the inventories index increased to 54.9 from 50.9, staying in expansionary territory."
-    },
-    {
-      "id": "5031343",
-      "time": "2026-08-07 22:19:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：我們或許正進入一個波動性更高的環境。"
-    },
-    {
-      "id": "5031342",
-      "time": "2026-08-07 22:18:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國上訴法院叫停特朗普擬推進的4億美元白宮宴會廳專案。"
-    },
-    {
-      "id": "5031341",
-      "time": "2026-08-07 22:18:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所原糖期貨價格漲幅超3%，報每磅16.15美分。"
     }
   ]
 }
