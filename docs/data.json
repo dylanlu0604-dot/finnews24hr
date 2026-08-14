@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-15 00:53:21",
-  "count": 15343,
+  "updated": "2026-08-15 00:57:22",
+  "count": 15340,
   "items": [
+    {
+      "id": "5041850",
+      "time": "2026-08-15 00:56:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫： OPFI 存在 “掠奪性放貸前科”，引發擔憂。"
+    },
+    {
+      "id": "5041849",
+      "time": "2026-08-15 00:54:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議員沃倫在致聯邦存款保險公司的信函中對 OPFI 收購 BNC 一事提出質疑。"
+    },
+    {
+      "id": "mkt:01a00131-ae0b-7aab-9043-3b2c6a10b799",
+      "time": "2026-08-15 00:53:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said inadequate power supply and difficulty obtaining approvals for ground infrastructure mean orbital computing (space-based computing platforms) may be the only viable path to scale AI by around 2029."
+    },
     {
       "id": "mkt:01a0012e-754b-7aab-9043-31a698e59936",
       "time": "2026-08-15 00:50:16",
@@ -140366,54 +140391,6 @@
         "Importance 0"
       ],
       "text": "Seychelles Annual Inflation Accelerates in July — The annual inflation rate in Seychelles rose to 0.78% in July 2026, accelerating from 0.43% in the prior month and reaching its highest level since January 2025. Fish prices rose 4.87%, easing from 5.62% in the prior month, while other food products' inflation rose to 0.14% from 0.09%, driven by higher prices in oil and fats (5.47%), vegetabels (2.84%) and non-alcoholic beverages (2.7%). Meanwhile, non-food inflation accelerated to 0.81% from 0.4%, driven by higher prices in alcoholic beverages (4.17%), restaurants and hotels (3.43%), education (2.49%) and transport (2.48%), while prices declined for health (-3.18%), recreation and culture (-2.92%), clothing and footwear (-2.61%) and tobacco (-0.57%). On a monthly basis, consumer prices rose 0.52%, accelerating from 0.07% in the prior month."
-    },
-    {
-      "id": "5031451",
-      "time": "2026-08-08 00:57:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院正在就俄羅斯制裁法案進行表決。"
-    },
-    {
-      "id": "5031450",
-      "time": "2026-08-08 00:56:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯制裁法案有望在參議院獲得透過。"
-    },
-    {
-      "id": "5031449",
-      "time": "2026-08-08 00:56:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩、以色列敲定可派遣部隊核實真主黨解除武裝事宜的候選國家短名單。"
-    },
-    {
-      "id": "mkt:019fdd27-16e4-7aab-8fbe-b9aa7cccbae9",
-      "time": "2026-08-08 00:55:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Information reports legal-AI startup Harvey is in talks to raise financing at a $15.5 billion valuation."
-    },
-    {
-      "id": "mkt:019fdd26-c677-7aab-8fbe-b68568e4911c",
-      "time": "2026-08-08 00:55:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Lebanon and Israel have agreed on a candidate list of countries that could deploy forces to monitor Hezbollah's disarmament."
-    },
-    {
-      "id": "mkt:019fdd26-840d-7aab-8fbe-ae918f25f6b2",
-      "time": "2026-08-08 00:55:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said two federal appeals court judges appointed by Obama and Biden voted against an urgently needed military center, calling the ruling a serious abuse of discretion and saying the center is necessary for Washington, D.C., and U.S. national security."
     }
   ]
 }

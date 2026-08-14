@@ -1,7 +1,32 @@
 {
   "date": "2026-08-15",
-  "count": 67,
+  "count": 70,
   "items": [
+    {
+      "id": "5041850",
+      "time": "2026-08-15 00:56:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫： OPFI 存在 “掠奪性放貸前科”，引發擔憂。"
+    },
+    {
+      "id": "5041849",
+      "time": "2026-08-15 00:54:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議員沃倫在致聯邦存款保險公司的信函中對 OPFI 收購 BNC 一事提出質疑。"
+    },
+    {
+      "id": "mkt:01a00131-ae0b-7aab-9043-3b2c6a10b799",
+      "time": "2026-08-15 00:53:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said inadequate power supply and difficulty obtaining approvals for ground infrastructure mean orbital computing (space-based computing platforms) may be the only viable path to scale AI by around 2029."
+    },
     {
       "id": "mkt:01a0012e-754b-7aab-9043-31a698e59936",
       "time": "2026-08-15 00:50:16",
