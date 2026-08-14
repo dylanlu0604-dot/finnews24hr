@@ -1,7 +1,35 @@
 {
   "date": "2026-08-15",
-  "count": 340,
+  "count": 343,
   "items": [
+    {
+      "id": "5042009",
+      "time": "2026-08-15 05:37:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋阿布扎比國家石油公司(ADNOC)稱未接到人員傷亡報告，局勢已得到控制。"
+    },
+    {
+      "id": "5042008",
+      "time": "2026-08-15 05:37:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋阿布扎比國家石油公司(ADNOC)稱，其一艘船隻8月14日在透過霍爾木茲海峽時遭到襲擊。"
+    },
+    {
+      "id": "te:markets:575546",
+      "time": "2026-08-15 05:36:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Weakens to One-Month Low — The Brazilian real weakened to 5.21 per USD, reaching its weakest level in more than a month in mid-August as investors continued to reduce their exposure to Brazilian assets. The market is pricing in uncertainty over the next government and its economic agenda. The perception that the next government will struggle to implement a consistent fiscal adjustment is beginning to translate into a higher risk premium in asset prices. Concerns are increasing as elections approach and foreign capital outflows accelerate. Banks and brokerages have also reduced their exposure to the real, unwinding currency positions in favor of other emerging-market currencies. The move intensified following a more pessimistic view of the local market from JPMorgan. The bank downgraded its recommendation on Brazilian assets from overweight to neutral, citing the Selic easing cycle, the electoral outlook and deteriorating credit conditions."
+    },
     {
       "id": "5042007",
       "time": "2026-08-15 05:32:56",
