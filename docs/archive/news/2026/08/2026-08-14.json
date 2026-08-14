@@ -1,7 +1,104 @@
 {
   "date": "2026-08-14",
-  "count": 2746,
+  "count": 2756,
   "items": [
+    {
+      "id": "mkt:01a000b8-fcb5-7aab-9041-47d768d39147",
+      "time": "2026-08-14 22:41:58",
+      "tags": [
+        "MKT News",
+        "PLTR.N",
+        "Impact bullish"
+      ],
+      "text": "SEC filing: UAE's Mubadala Investment Company increased its stake in Palantir (PLTR.N) class A shares by 40.4% to 95,656 shares."
+    },
+    {
+      "id": "5041755",
+      "time": "2026-08-14 22:41:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中東阿曼沿岸出現大規模油汙，英企受聘處理油輪漏油】中東阿曼沿岸近日出現大規模油汙，半沉的油輪“卡羅琳·別津吉”號停泊在阿曼西南部吉卜利耶島外海，船身持續滲漏，13日的衛星影像顯示海面大片油汙隨季風擴散，黑色油帶延伸數百平方公里，油汙已擴散至邁德賴凱角海岸，預料還會北上至馬西拉島。 英國海上安保公司“安布里”受聘處理漏油事故，人員在阿曼空軍的協助下登船，評估油輪狀況。環保團體“綠色和平組織”警告，若船隻完全破裂，超過80萬桶原油恐引發多年難以修復的生態災難。 與此同時，在伊朗霍爾木茲海峽，油汙也漂抵格什姆島汙染紅樹林及沙灘。伊朗外交部要求國際社會承擔責任並提供賠償，但12日有衛星影像顯示，油汙懷疑源自伊朗早前攻擊貨輪所致。有專家憂慮中東海域正面臨近年最嚴重的環境生態危機。"
+    },
+    {
+      "id": "mkt:01a000b8-7fed-7aab-9041-3bd461bca885",
+      "time": "2026-08-14 22:41:26",
+      "tags": [
+        "MKT News",
+        "AMAT.O",
+        "Impact bullish"
+      ],
+      "text": "BERNSTEIN raises PT on Applied Materials (AMAT.O) to $700 from $675."
+    },
+    {
+      "id": "mkt:01a000b8-5f3d-7aab-9041-32a2ae5c25fd",
+      "time": "2026-08-14 22:41:17",
+      "tags": [
+        "MKT News",
+        "CRM.N"
+      ],
+      "text": "U.S. SEC filing shows UAE's Mubadala Investment Company has fully divested its stake in Salesforce (CRM.N)."
+    },
+    {
+      "id": "5041754",
+      "time": "2026-08-14 22:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心預測，拉拉颶風在接近夏威夷大島時將增強為颶風。"
+    },
+    {
+      "id": "mkt:01a000b7-0d95-7aab-9041-2eeb634b0286",
+      "time": "2026-08-14 22:39:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "SEC filing shows UAE sovereign investor Mubadala Investment Co. has disposed of its holdings in Apple (AAPL.O) and reports a 65,326-share position in NVIDIA (NVDA.O)."
+    },
+    {
+      "id": "5041753",
+      "time": "2026-08-14 22:39:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "穆巴達拉投資公司提交給美國證監會的檔案顯示，該公司已清倉所持蘋果公司股份。"
+    },
+    {
+      "id": "5041752",
+      "time": "2026-08-14 22:38:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案披露：穆巴達拉投資公司（Mubadala Investment Co PJSC）持有英偉達公司（NVIDIA Corporation）65,326股股份。"
+    },
+    {
+      "id": "5041751",
+      "time": "2026-08-14 22:38:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "NHC：HERNAN 觀察到對流略有增強。"
+    },
+    {
+      "id": "5041750",
+      "time": "2026-08-14 22:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家鑄幣廠：第二季度營收為3.06億加元，虧損1530萬加元。"
+    },
     {
       "id": "5041749",
       "time": "2026-08-14 22:37:14",
