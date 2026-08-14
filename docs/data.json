@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-14 14:25:45",
+  "updated": "2026-08-14 14:29:38",
   "count": 15479,
   "items": [
+    {
+      "id": "mkt:019ffef5-9cfb-7aab-9037-47cc023fe012",
+      "time": "2026-08-14 14:28:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share electronic chemicals sector extended gains: Haixing Co. hit the daily upper trading limit, Zhongshi Technology was earlier locked at the limit. Siquan New Materials and Longchen Technology rose more than 10%; Fangbang, Guoci Materials, Tongyu New Materials, Tiancheng Technology and Jinhong Gas also advanced."
+    },
+    {
+      "id": "5040675",
+      "time": "2026-08-14 14:28:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報5784.00元。"
+    },
+    {
+      "id": "5040674",
+      "time": "2026-08-14 14:28:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子化學品板塊持續走高，海星股份漲停】電子化學品板塊持續走高，海星股份漲停，中石科技此前封板, 思泉新材、龍辰科技漲超10%，方邦股份、國瓷材料、同宇新材、天承科技、金宏氣體等跟漲。"
+    },
+    {
+      "id": "5040672",
+      "time": "2026-08-14 14:27:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲1.07%。"
+    },
+    {
+      "id": "mkt:019ffef4-0ff7-7aab-9037-3df2c5fd8bba",
+      "time": "2026-08-14 14:27:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition."
+    },
+    {
+      "id": "te:markets:575307",
+      "time": "2026-08-14 14:27:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Halts Gains, Retreats from Near 6-Week High — The TAIEX, Taiwan’s benchmark stock index, dropped 210 points, or 0.5%, to close at 45,811, reversing gains in morning trade and halting a four-session winning streak, weighed down by electronic technology. The broader index retreated from its highest level since July 6, reached a day earlier, with electronic technology falling 1.1%, reversing a 1.5% rise in the previous session. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.6% after gaining 0.8% on Thursday. Declines were also seen in MediaTek (-0.4%), Hon Hai Precision Industry (-1.0%), and ASE Technology Holding (-1.6%). Nanya Technology, a major Taiwanese memory chip maker, also shed 0.4%. An upbeat session on Wall Street overnight limited the fall as bets on the Fed hiking interest rates at its September meeting eased amid softer inflation. For the week, however, the index posted a 3.6% surge, the second straight weekly gain."
+    },
+    {
+      "id": "mkt:019ffef4-0326-7aab-9037-35525e1e3a98",
+      "time": "2026-08-14 14:27:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl."
+    },
+    {
+      "id": "5040671",
+      "time": "2026-08-14 14:26:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報87.96美元/桶。"
+    },
+    {
+      "id": "5040670",
+      "time": "2026-08-14 14:25:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度文庫網盤GenFlow官宣中文名“庫庫AI”】8月14日，在百度AI Day開放日上，百度文庫網盤通用智慧體GenFlow官宣中文名“庫庫AI”。GenFlow月活使用者已突破1億，目前AI辦公MAU超過2500萬。同時，文庫網盤宣佈上線“庫庫AI”獨立端，包括庫庫AI辦公PC客戶端、庫庫AI網頁端、小程式及庫庫AI企業版等。"
+    },
     {
       "id": "mkt:019ffef2-48b9-7aab-9037-1920bde3e324",
       "time": "2026-08-14 14:25:18",
@@ -141625,93 +141713,6 @@
         "Importance 1"
       ],
       "text": "The Nikkei 225 Index Closes 0.28% Lower — The Nikkei 225 Index dropped 183 points or 0.28 percent on Friday to close at 65500 points. Losses were led by M3 (-17.95%), Fujifilm (-17.02%) and Lasertec Corp (-11.68%). Offsetting the fall, top gainers were Fujikura (13.66%), Bandai Namco Holdings (10.01%) and Resonac Holdings (8.22%)."
-    },
-    {
-      "id": "5030195",
-      "time": "2026-08-07 14:29:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月7日：“農產品批發價格200指數”比昨天上升0.26個點】據農業農村部監測，8月7日“農產品批發價格200指數”為113.92，比昨天上升0.26個點，“菜籃子”產品批發價格指數為114.14，比昨天上升0.31個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.80元/公斤，與昨天持平；牛肉67.44元/公斤，比昨天上升0.3%；羊肉64.36元/公斤，比昨天下降0.4%；雞蛋9.89元/公斤，比昨天上升0.5%；白條雞17.30元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.45元/公斤，比昨天上升0.9%；重點監測的6種水果平均價格為6.93元/公斤，比昨天下降2.5%。鯽魚19.98元/公斤，比昨天下降2.8%；鯉魚14.34元/公斤，比昨天上升1.1%；白鰱魚10.50元/公斤，比昨天下降2.0%；大帶魚41.56元/公斤，比昨天下降1.3%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是萵筍、生菜、西葫蘆、菠菜和黃瓜，幅度分別為4.1%、2.6%、2.4%、2.3%和2.0%；價格降幅前五名的是巨峰葡萄、菠蘿、鯽魚、白鰱魚和香蕉，幅度分別為6.1%、2.9%、2.8%、2.0%和1.5%。"
-    },
-    {
-      "id": "5030194",
-      "time": "2026-08-07 14:28:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胖東來生活廣場店將閉店】8月7日，於東來直播宣佈，開業24年的生活廣場店將於2026年12月關閉。他表示，品質不達標的關店！（頂端新聞）"
-    },
-    {
-      "id": "5030193",
-      "time": "2026-08-07 14:28:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股“藥王”盤中股價創歷史新高】8月7日下午兩點多，港股市值最大的藥企藥明康德盤中股價一度達到193港元/股，創下歷史新高，股價漲幅超過7%。上一次，藥明康德股價創新高是在新冠疫情間的2021年12月底。當前，藥明康德港股市值突破5700億港元。（第一財經）"
-    },
-    {
-      "id": "te:economy:573658",
-      "time": "2026-08-07 14:28:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Lithuania Trade Gap Widens in June — Lithuania posted a trade deficit of EUR 713.1 million in June 2026, widening from EUR 404.0 million in the corresponding month a year earlier. Exports increased 18.5% year-on-year to EUR 3,546.5 million, driven by higher shipments of mineral fuels, mineral oils and products of their distillation (52.5%), plastics and articles thereof (19.2%), and iron and steel (2.4%). Meanwhile, imports climbed 25.4% to EUR 4,259.6 million, mainly reflecting stronger purchases of mineral fuels, mineral oils and products of their distillation (2.1%), ground vehicles and parts thereof (20.3%), and electrical machinery, equipment and parts thereof (23.9%). Over the first six months of the year, the country's trade deficit widened to EUR 3,526 million from EUR 3,239 million, as imports (6.0%) continued to outpace exports (5.5%). Exports increased to Latvia (13.9%), Poland (26.2%), and the Netherlands (14.5%), while imports also rose from Poland (6.0%), Germany (2.5%), Latvia (9.0%), and Norway (90.9%)."
-    },
-    {
-      "id": "5030192",
-      "time": "2026-08-07 14:27:39",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【機構前瞻美國7月季調後非農就業人口（前值：+5.7萬 ）】\n1. 先鋒領航：+1.0萬人；貝倫貝格銀行：+4.0萬人；豐業銀行：+5.0萬人；穆迪分析：+5.0萬人；\n2. 加皇銀行：+6.3萬人；德意志銀行：+6.5萬人；北歐斯安銀行：+6.5萬人；瑞銀集團：+7.0萬人；\n3. 道明證券：+7.0萬人；丹斯克銀行：+7.0萬人；摩根士丹利：+7.0萬人；滙豐控股：+7.0萬人；\n4. 法巴銀行：+7.5萬人；荷蘭國際：+7.5萬人；蒙特利爾銀行：+7.5萬人；高盛集團：+7.5萬人；\n5. 摩根大通：+7.5萬人；大和資本：+7.5萬人；西太平洋銀行：+7.5萬人；渣打銀行：+7.5萬人；\n6. 潘森宏觀：+7.5萬人；合眾銀行：+7.5萬人；帝國商業銀行：+7.5萬人；高頻經濟：+7.8萬人；\n7. 三井住友：+7.8萬人；牛津經濟：+8.0萬人；澳洲聯邦銀行：+8.0萬人；美銀美林：+8.0萬人；\n8. 澳新銀行：+8.0萬人；勞埃德銀行：+8.0萬人；國民西敏寺：+8.5萬人；凱投宏觀：+9.0萬人；\n9. 富國銀行：+9.5萬人；巴克萊銀行：+10.0萬人；德商銀行：+10.0萬人；法興銀行：+10.5萬人；\n10. 花旗集團：+11.5萬人；瑞穗證券：+11.5萬人；野村證券：+13.0萬人；[路透預期：+8.0萬人]"
-    },
-    {
-      "id": "mkt:019fdae7-e889-7aab-8fb1-6f600a2412a6",
-      "time": "2026-08-07 14:27:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Institutions' preview: U.S. July seasonally adjusted nonfarm payrolls (prior +57k)】Forecasts range from +10k to +130k, with a heavy cluster at +75k–+80k (numerous forecasts at +75k). Reuters preview +80k. Prior (June) +57k."
-    },
-    {
-      "id": "5030191",
-      "time": "2026-08-07 14:27:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯昌電子7月營收為1230萬新臺幣，去年同期為3250萬新臺幣。"
-    },
-    {
-      "id": "5030190",
-      "time": "2026-08-07 14:26:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“AI教父”拉響警報：人類可能無法戰勝下一代AI模型】在業內有“人工智慧教父”之稱的電腦科學家傑弗裡·辛頓（Geoffrey Hinton）週三表示，隨著人工智慧（AI）技術在代際之間不斷發展，人類可能無法繼續保持對大型語言模型的統治地位。 辛頓在拉斯維加斯舉行的Ai4峰會上發表講話後告訴媒體：“現在的情況是，這些東西變得越來越智慧。我認為隨著它們變得越來越智慧，我們將看到它們擁有越來越複雜的意圖，以及越來越強的逃脫控制的能力。” “我不認為我們能像過去那樣，僅僅透過簡單設法讓他們無法逃脫來控制他們。”他後來補充道。 此前，這位諾貝爾獎得主、前谷歌高管、深度學習奠基人已多次發出類似的警告：人類在面對下一代超級智慧模型時，可能無法透過傳統手段“戰勝”或“關閉”它們。"
-    },
-    {
-      "id": "5030189",
-      "time": "2026-08-07 14:26:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【威剛：儲存價格上漲趨勢延續至明年上半年，明年DRAM供應更缺】據報道，威剛近日在法說會上表示，在需求增加、價格走高及貨源穩定的三大有利因素帶動下，預期第3季度營運將優於第2季度，並進一步擴大全年營運成果。公司看好第4季度到2027年上半年的DRAM和NAND Flash價格有望維持上升趨勢。目前儲存市場供給持續緊張，預計2027年DRAM供給將較2026年更吃緊。隨著PC和伺服器平臺持續升級，DDR5已成為市場主流，長期而言，DDR5將比DDR4更緊缺。"
     }
   ]
 }

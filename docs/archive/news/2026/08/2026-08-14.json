@@ -1,7 +1,95 @@
 {
   "date": "2026-08-14",
-  "count": 1278,
+  "count": 1287,
   "items": [
+    {
+      "id": "mkt:019ffef5-9cfb-7aab-9037-47cc023fe012",
+      "time": "2026-08-14 14:28:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share electronic chemicals sector extended gains: Haixing Co. hit the daily upper trading limit, Zhongshi Technology was earlier locked at the limit. Siquan New Materials and Longchen Technology rose more than 10%; Fangbang, Guoci Materials, Tongyu New Materials, Tiancheng Technology and Jinhong Gas also advanced."
+    },
+    {
+      "id": "5040675",
+      "time": "2026-08-14 14:28:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報5784.00元。"
+    },
+    {
+      "id": "5040674",
+      "time": "2026-08-14 14:28:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子化學品板塊持續走高，海星股份漲停】電子化學品板塊持續走高，海星股份漲停，中石科技此前封板, 思泉新材、龍辰科技漲超10%，方邦股份、國瓷材料、同宇新材、天承科技、金宏氣體等跟漲。"
+    },
+    {
+      "id": "5040672",
+      "time": "2026-08-14 14:27:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲1.07%。"
+    },
+    {
+      "id": "mkt:019ffef4-0ff7-7aab-9037-3df2c5fd8bba",
+      "time": "2026-08-14 14:27:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition."
+    },
+    {
+      "id": "te:markets:575307",
+      "time": "2026-08-14 14:27:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Halts Gains, Retreats from Near 6-Week High — The TAIEX, Taiwan’s benchmark stock index, dropped 210 points, or 0.5%, to close at 45,811, reversing gains in morning trade and halting a four-session winning streak, weighed down by electronic technology. The broader index retreated from its highest level since July 6, reached a day earlier, with electronic technology falling 1.1%, reversing a 1.5% rise in the previous session. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.6% after gaining 0.8% on Thursday. Declines were also seen in MediaTek (-0.4%), Hon Hai Precision Industry (-1.0%), and ASE Technology Holding (-1.6%). Nanya Technology, a major Taiwanese memory chip maker, also shed 0.4%. An upbeat session on Wall Street overnight limited the fall as bets on the Fed hiking interest rates at its September meeting eased amid softer inflation. For the week, however, the index posted a 3.6% surge, the second straight weekly gain."
+    },
+    {
+      "id": "mkt:019ffef4-0326-7aab-9037-35525e1e3a98",
+      "time": "2026-08-14 14:27:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl."
+    },
+    {
+      "id": "5040671",
+      "time": "2026-08-14 14:26:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報87.96美元/桶。"
+    },
+    {
+      "id": "5040670",
+      "time": "2026-08-14 14:25:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度文庫網盤GenFlow官宣中文名“庫庫AI”】8月14日，在百度AI Day開放日上，百度文庫網盤通用智慧體GenFlow官宣中文名“庫庫AI”。GenFlow月活使用者已突破1億，目前AI辦公MAU超過2500萬。同時，文庫網盤宣佈上線“庫庫AI”獨立端，包括庫庫AI辦公PC客戶端、庫庫AI網頁端、小程式及庫庫AI企業版等。"
+    },
     {
       "id": "mkt:019ffef2-48b9-7aab-9037-1920bde3e324",
       "time": "2026-08-14 14:25:18",
