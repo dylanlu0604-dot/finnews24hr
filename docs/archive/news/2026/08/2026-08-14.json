@@ -1,7 +1,70 @@
 {
   "date": "2026-08-14",
-  "count": 1146,
+  "count": 1153,
   "items": [
+    {
+      "id": "mkt:019ffeb4-1c55-7aab-9035-dfde9bde76bf",
+      "time": "2026-08-14 13:17:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's ChiNext index turned negative in the afternoon after rising more than 1% in the morning."
+    },
+    {
+      "id": "5040590",
+      "time": "2026-08-14 13:17:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭板塊午後異動拉昇 淮北礦業、盤江股份等由跌轉漲】煤炭板塊午後異動拉昇，淮北礦業、盤江股份等多股由跌轉漲。"
+    },
+    {
+      "id": "5040589",
+      "time": "2026-08-14 13:17:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全球資金謹慎重返韓國股市】韓國股市有望迎來4月初以來最大單週外資淨流入，這表明，在經歷一輪歷史性拋售之後，全球投資者正重新迴流這個規模達4.1萬億美元的股票市場。資料顯示，本週截至週四，海外資金淨買入20億美元韓國股票。週五外資有望繼續淨買入超10億美元韓國綜合指數成分股。此前數月，韓國股市幾乎持續遭遇資金流出，年內撤資規模已超1000億美元。外資迴流推動基準股指韓國綜合指數本週每個交易日均上漲，累計漲幅超10%。隨著AI板塊擁擠交易中的槓桿頭寸被出清，市場極端波動階段顯現緩和跡象。"
+    },
+    {
+      "id": "5040588",
+      "time": "2026-08-14 13:15:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿聯酋稱該國兩艘油輪透過霍爾木茲海峽時遭襲】阿聯酋外交部14日凌晨發表宣告稱，阿布扎比國家石油公司兩艘油輪透過霍爾木茲海峽時遭伊朗襲擊。 宣告還稱，伊朗的襲擊對地區穩定、民眾安全以及全球能源安全造成威脅。 阿布扎比國家石油公司14日凌晨釋出訊息稱，襲擊發生於13日晚，未造成人員傷亡。 阿布扎比國家石油公司是阿聯酋國有石油和天然氣企業。阿聯酋方面近期多次聲稱該國船隻在透過霍爾木茲海峽時遭襲。(新華社)"
+    },
+    {
+      "id": "te:markets:575283",
+      "time": "2026-08-14 13:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Appreciates by 0.28% — Top currency gainers are New Zealand Dollar (0.28%), South Korean Won (0.25%), Japanese Yen (0.11%), Euro (0.10%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.10%)."
+    },
+    {
+      "id": "mkt:019ffeb1-479b-7aab-9035-d399a2ba47c9",
+      "time": "2026-08-14 13:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TrendForce: Global LED general lighting market to reach $60.94 bln by 2030】TrendForce says the global LED general lighting market could reach $60.94 bln by 2030, with a 2025–2030 CAGR of 2.6%. Short-term demand remains in an adjustment phase as slow macro recovery, geopolitical tensions and conservative corporate capex weigh on Europe, the US and China. Energy‑efficiency rules, retrofit programmes and net‑zero/ESG targets are pushing manufacturers away from price competition toward higher‑value smart lighting and specialised professional applications, prompting a product‑mix and application upgrade across the industry."
+    },
+    {
+      "id": "5040587",
+      "time": "2026-08-14 13:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓賣出首臺手機，售價超20萬元！創始人曾稱要與蘋果、三星三分天下】8月13日，追覓手機負責人在朋友圈透露，公司已正式交付001號AURORA手機。據其透露，3萬美金（約合人民幣20.23萬元）交易款項已全部到賬，其中首付款1萬美金，尾款21184美金。其稱，這是“中國智慧手機歷史上迄今為止賣出去單臺售價最高的旗艦智慧手機”。（紅星資本局 ）"
+    },
     {
       "id": "5040586",
       "time": "2026-08-14 13:13:27",
