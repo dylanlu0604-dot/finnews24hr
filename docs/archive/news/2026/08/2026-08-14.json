@@ -1,7 +1,134 @@
 {
   "date": "2026-08-14",
-  "count": 1549,
+  "count": 1561,
   "items": [
+    {
+      "id": "mkt:019fff54-7a7a-7aab-9039-79ed4accc892",
+      "time": "2026-08-14 16:12:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou Haizhu launches 'Eight Token Measures'】Guangzhou’s Haizhu district issued eight measures to support tokens across production, service aggregation, distribution hubs, application scenarios, OPC cultivation, industry upgrade, financial services and overseas expansion, covering the token production–circulation–consumption–value-add chain. On the production side, large-model firms are encouraged to raise token output per chip via technical tuning; eligible firms may receive subsidies of up to 50% of actual investment, capped at 1.5 mln yuan per firm per year. On the industrial platform side, the district will subsidize firms providing heterogeneous-compute token packaging, multimodal model aggregation access and one-stop settlement services, with support up to 4 mln yuan for qualifying firms; it will also fund token-calling hubs that connect across models, modalities and heterogeneous platforms, with up to 4 mln yuan in support."
+    },
+    {
+      "id": "5040854",
+      "time": "2026-08-14 16:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭報道：由於俄羅斯在7月的襲擊，烏克蘭至少有437名平民喪生，2610人受傷。"
+    },
+    {
+      "id": "te:markets:575370",
+      "time": "2026-08-14 16:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 2.01% — Top commodity gainers are Rice (2.01%), Wheat (1.78%) and Canola (1.27%)."
+    },
+    {
+      "id": "5040853",
+      "time": "2026-08-14 16:09:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪能股份：2026年上半年淨利潤1.88億元同比增2.19%】豪能股份公告，2026年上半年營業收入14.95億元，同比增長19.31%。歸屬於上市公司股東的淨利潤1.88億元，同比增長2.19%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.84億元，同比增長7.29%。"
+    },
+    {
+      "id": "mkt:019fff51-c498-7aab-9039-71832d83c5fc",
+      "time": "2026-08-14 16:09:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "Aluminium",
+        "Impact bullish",
+        "Nickel",
+        "Impact mixed"
+      ],
+      "text": "【LME on- and canceled-warrants daily】LME on warrants and canceled warrants: Copper on warrants 94,875 t, up 2,700 t; canceled warrants 110,100 t, down 5,450 t. Aluminium on warrants 244,475 t, down 100 t; canceled warrants 3,825 t, down 1,600 t. Zinc on warrants 74,525 t, unchanged; canceled warrants 13,475 t, down 4,550 t. Nickel on warrants 255,690 t, down 498 t; canceled warrants 9,042 t, up 498 t. Lead on warrants 360,125 t, down 300 t; canceled warrants 52,550 t, down 1,400 t. Tin on warrants 4,680 t, down 5 t; canceled warrants 805 t, down 45 t."
+    },
+    {
+      "id": "5040852",
+      "time": "2026-08-14 16:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大港股份：多名高管及董事變動 聘任新管理層】大港股份公告稱，近日總經理李維波、副總經理王棟彬、職工代表董事方磊因工作調整或調動辭職，李維波仍任董事長，其餘兩人不再任職。8月14日公司召開董事會，同意聘任毛文明為總經理、夏蓉為副總經理，提名毛文明為非獨立董事候選人，後者尚需股東會審議。上述人員原定任期大多至2027年10月27日。"
+    },
+    {
+      "id": "5040851",
+      "time": "2026-08-14 16:09:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST沈化：2026年上半年營收31.28億元 淨利潤同比增24.66%】ST沈化公告稱，2026年上半年營收31.28億元，同比增長21.75%；歸屬於上市公司股東的淨利潤7780.76萬元，同比增長24.66%。報告期內，公司多項財務指標向好。此外，公司於2026年4月透過中化東大（泉州）有限公司8萬噸/年高階特種聚醚多元醇專案投資方案；獨立董事陶勝洋申請辭職，待補選新任獨立董事後生效。"
+    },
+    {
+      "id": "mkt:019fff51-99eb-7aab-9039-6a19484cd857",
+      "time": "2026-08-14 16:09:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Zinc",
+        "Lead"
+      ],
+      "text": "【LME base metals daily inventory】LME base metals stocks: Copper 204,975 t, down 2,750 t; Aluminum 248,300 t, down 1,700 t; Zinc 88 t, down 92,462 t; Nickel 264,732 t, unchanged; Lead 412,675 t, down 1,700 t; Tin 5,485 t, down 50 t."
+    },
+    {
+      "id": "mkt:019fff51-8fad-7aab-9039-62314cf09f73",
+      "time": "2026-08-14 16:09:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong launches first token-economy finance product Token Loan in Guangzhou Haizhu】Aug 14 — Guangdong launched its first token-economy specialist finance product, Token Loan, in Haizhu district, Guangzhou. Bank of China’s Guangzhou branch has introduced a compute-Token loan for Haizhu small-and-micro compute-capacity firms, with credit limits set by contract or Token consumption; collateral options include unsecured credit, accounts-receivable pledges and order financing, and combinations of guarantees and mortgages to expand limits. New firms can seek order-based financing if they provide continuous-operation evidence from an existing operator or offer guarantees. Initial pilot credit allocated by Bank of China reached 28 mln yuan."
+    },
+    {
+      "id": "mkt:019fff51-88aa-7aab-9039-58a6e1daa948",
+      "time": "2026-08-14 16:09:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "JD.com",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "09618.HK"
+      ],
+      "text": "Hong Kong stocks closed lower: the Hang Seng Index fell 1.10% and the Hang Seng Tech Index dropped 1.77%. JD.com (09618.HK) slid 10.41% after earnings, and Huahong Hongli (01347.HK) fell 11.55% post-results."
+    },
+    {
+      "id": "5040850",
+      "time": "2026-08-14 16:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌1.101%，恒生科技指數跌1.769%】老鋪黃金跌3.811%，美團-W跌4.438%，長實集團跌6.237%，京東集團-SW跌10.407%，華虹宏力跌11.481%，MINIMAX-W跌11.730%，京東物流跌13.338%。"
+    },
+    {
+      "id": "mkt:019fff51-3793-7aab-9039-50c0b580ca59",
+      "time": "2026-08-14 16:09:00",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk (SNDK.O) rose 4.6% in pre-market U.S. trading."
+    },
     {
       "id": "mkt:019fff50-ce8f-7aab-9039-4cd2f39485e5",
       "time": "2026-08-14 16:08:33",

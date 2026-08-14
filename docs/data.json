@@ -1,7 +1,134 @@
 {
-  "updated": "2026-08-14 16:09:23",
-  "count": 15357,
+  "updated": "2026-08-14 16:13:17",
+  "count": 15354,
   "items": [
+    {
+      "id": "mkt:019fff54-7a7a-7aab-9039-79ed4accc892",
+      "time": "2026-08-14 16:12:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou Haizhu launches 'Eight Token Measures'】Guangzhou’s Haizhu district issued eight measures to support tokens across production, service aggregation, distribution hubs, application scenarios, OPC cultivation, industry upgrade, financial services and overseas expansion, covering the token production–circulation–consumption–value-add chain. On the production side, large-model firms are encouraged to raise token output per chip via technical tuning; eligible firms may receive subsidies of up to 50% of actual investment, capped at 1.5 mln yuan per firm per year. On the industrial platform side, the district will subsidize firms providing heterogeneous-compute token packaging, multimodal model aggregation access and one-stop settlement services, with support up to 4 mln yuan for qualifying firms; it will also fund token-calling hubs that connect across models, modalities and heterogeneous platforms, with up to 4 mln yuan in support."
+    },
+    {
+      "id": "5040854",
+      "time": "2026-08-14 16:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭報道：由於俄羅斯在7月的襲擊，烏克蘭至少有437名平民喪生，2610人受傷。"
+    },
+    {
+      "id": "te:markets:575370",
+      "time": "2026-08-14 16:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 2.01% — Top commodity gainers are Rice (2.01%), Wheat (1.78%) and Canola (1.27%)."
+    },
+    {
+      "id": "5040853",
+      "time": "2026-08-14 16:09:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪能股份：2026年上半年淨利潤1.88億元同比增2.19%】豪能股份公告，2026年上半年營業收入14.95億元，同比增長19.31%。歸屬於上市公司股東的淨利潤1.88億元，同比增長2.19%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.84億元，同比增長7.29%。"
+    },
+    {
+      "id": "mkt:019fff51-c498-7aab-9039-71832d83c5fc",
+      "time": "2026-08-14 16:09:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "Aluminium",
+        "Impact bullish",
+        "Nickel",
+        "Impact mixed"
+      ],
+      "text": "【LME on- and canceled-warrants daily】LME on warrants and canceled warrants: Copper on warrants 94,875 t, up 2,700 t; canceled warrants 110,100 t, down 5,450 t. Aluminium on warrants 244,475 t, down 100 t; canceled warrants 3,825 t, down 1,600 t. Zinc on warrants 74,525 t, unchanged; canceled warrants 13,475 t, down 4,550 t. Nickel on warrants 255,690 t, down 498 t; canceled warrants 9,042 t, up 498 t. Lead on warrants 360,125 t, down 300 t; canceled warrants 52,550 t, down 1,400 t. Tin on warrants 4,680 t, down 5 t; canceled warrants 805 t, down 45 t."
+    },
+    {
+      "id": "5040852",
+      "time": "2026-08-14 16:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大港股份：多名高管及董事變動 聘任新管理層】大港股份公告稱，近日總經理李維波、副總經理王棟彬、職工代表董事方磊因工作調整或調動辭職，李維波仍任董事長，其餘兩人不再任職。8月14日公司召開董事會，同意聘任毛文明為總經理、夏蓉為副總經理，提名毛文明為非獨立董事候選人，後者尚需股東會審議。上述人員原定任期大多至2027年10月27日。"
+    },
+    {
+      "id": "5040851",
+      "time": "2026-08-14 16:09:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST沈化：2026年上半年營收31.28億元 淨利潤同比增24.66%】ST沈化公告稱，2026年上半年營收31.28億元，同比增長21.75%；歸屬於上市公司股東的淨利潤7780.76萬元，同比增長24.66%。報告期內，公司多項財務指標向好。此外，公司於2026年4月透過中化東大（泉州）有限公司8萬噸/年高階特種聚醚多元醇專案投資方案；獨立董事陶勝洋申請辭職，待補選新任獨立董事後生效。"
+    },
+    {
+      "id": "mkt:019fff51-99eb-7aab-9039-6a19484cd857",
+      "time": "2026-08-14 16:09:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Zinc",
+        "Lead"
+      ],
+      "text": "【LME base metals daily inventory】LME base metals stocks: Copper 204,975 t, down 2,750 t; Aluminum 248,300 t, down 1,700 t; Zinc 88 t, down 92,462 t; Nickel 264,732 t, unchanged; Lead 412,675 t, down 1,700 t; Tin 5,485 t, down 50 t."
+    },
+    {
+      "id": "mkt:019fff51-8fad-7aab-9039-62314cf09f73",
+      "time": "2026-08-14 16:09:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong launches first token-economy finance product Token Loan in Guangzhou Haizhu】Aug 14 — Guangdong launched its first token-economy specialist finance product, Token Loan, in Haizhu district, Guangzhou. Bank of China’s Guangzhou branch has introduced a compute-Token loan for Haizhu small-and-micro compute-capacity firms, with credit limits set by contract or Token consumption; collateral options include unsecured credit, accounts-receivable pledges and order financing, and combinations of guarantees and mortgages to expand limits. New firms can seek order-based financing if they provide continuous-operation evidence from an existing operator or offer guarantees. Initial pilot credit allocated by Bank of China reached 28 mln yuan."
+    },
+    {
+      "id": "mkt:019fff51-88aa-7aab-9039-58a6e1daa948",
+      "time": "2026-08-14 16:09:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "JD.com",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "09618.HK"
+      ],
+      "text": "Hong Kong stocks closed lower: the Hang Seng Index fell 1.10% and the Hang Seng Tech Index dropped 1.77%. JD.com (09618.HK) slid 10.41% after earnings, and Huahong Hongli (01347.HK) fell 11.55% post-results."
+    },
+    {
+      "id": "5040850",
+      "time": "2026-08-14 16:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌1.101%，恒生科技指數跌1.769%】老鋪黃金跌3.811%，美團-W跌4.438%，長實集團跌6.237%，京東集團-SW跌10.407%，華虹宏力跌11.481%，MINIMAX-W跌11.730%，京東物流跌13.338%。"
+    },
+    {
+      "id": "mkt:019fff51-3793-7aab-9039-50c0b580ca59",
+      "time": "2026-08-14 16:09:00",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk (SNDK.O) rose 4.6% in pre-market U.S. trading."
+    },
     {
       "id": "mkt:019fff50-ce8f-7aab-9039-4cd2f39485e5",
       "time": "2026-08-14 16:08:33",
@@ -140524,137 +140651,6 @@
         "Impact bearish"
       ],
       "text": "【China SAFE: FX reserves $3.419 tln at end-July 2026】China's State Administration of Foreign Exchange said FX reserves were $3,418.8 bln at end-July 2026, up $2.5 bln from end-June (+0.07%). SAFE said a July decline in the dollar index and mixed global asset-price moves, together with exchange-rate conversion and asset-price effects, lifted reserves. SAFE added that China's economic momentum and improving structure support the basic stability of reserves."
-    },
-    {
-      "id": "5030486",
-      "time": "2026-08-07 16:12:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廈門鎢業：參股公司暫停運營寮國勐康稀土專案】廈門鎢業公告，公司參股公司赤金廈鎢為響應稀土資源開發相關政策要求，決定暫停運營其位於寮國川壙省勐康縣的勐康稀土礦專案。該專案目前處於試生產階段，2025年度生產稀土產品998.56噸，赤金廈鎢歸母淨利潤-10659.31萬元。暫停運營後，赤金廈鎢將繼續推進礦權證照續期工作，並尋求解決方案。"
-    },
-    {
-      "id": "te:markets:573717",
-      "time": "2026-08-07 16:12:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Higher — The FTSE MIB edged higher to around 53,700 on Friday, remaining close to record levels, as markets digested fresh financial-sector earnings while assessing the next phase of industry consolidation. Monte dei Paschi rose 0.4% after reporting better-than-expected Q2 profit and evaluating strategic alternatives amid Intesa Sanpaolo’s takeover bid. Unipol reported a 42% year-on-year increase in first-half net profit, supported by strong performance in its insurance business, although its shares fell more than 1%. Larger lenders UniCredit and Intesa Sanpaolo advanced 0.5% and 0.7%, respectively. Outside the financial sector, defense stocks were among the strongest performers, with Leonardo and Avio advancing more than 2% and 5%, respectively. For the week, the benchmark index is heading for its best week in five."
-    },
-    {
-      "id": "5030485",
-      "time": "2026-08-07 16:12:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊茵金屬執行長：“拳擊手”裝甲車專案目前不存在任何阻礙；與德國的合同預計將於2026年底前簽署；萊茵金屬的份額為124億歐元。"
-    },
-    {
-      "id": "mkt:019fdb47-b96a-7aab-8fb3-de344740023d",
-      "time": "2026-08-07 16:12:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Natural Resources activates Level IV geological-disaster response for Zhejiang, Fujian as Typhoon No.13 \"Bailudun\" approaches】Meteorological forecasts and the ministry's geological-disaster technical center judge Typhoon No.13 Bailudun (White Dolphin) will produce heavy rainfall in Zhejiang and Fujian over the next week. Most of Zhejiang and northern Fujian face elevated risk of geological disasters. The Ministry of Natural Resources activated a Level IV geological-disaster defense response for Zhejiang and Fujian at 15:00 on Aug. 7."
-    },
-    {
-      "id": "5030484",
-      "time": "2026-08-07 16:12:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家外匯管理局公佈2026年7月末外匯儲備規模資料】國家外匯管理局統計資料顯示，截至2026年7月末，我國外匯儲備規模為34188億美元，較6月末上升25億美元，升幅為0.07%。2026年7月，受全球宏觀形勢、主要經濟體貨幣政策等因素影響，美元指數下跌，全球主要金融資產價格漲跌互現。匯率折算和資產價格變化等因素綜合作用，當月外匯儲備規模上升。我國經濟呈現動能向新、結構向優的發展態勢，展現出強大韌性和活力，有利於外匯儲備規模保持基本穩定。"
-    },
-    {
-      "id": "5030483",
-      "time": "2026-08-07 16:12:02",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "萊茵金屬執行長：與洛克希德·馬丁在德國合作生產ATACMS導彈，將助力補充因伊朗戰爭消耗的美軍彈藥儲備。"
-    },
-    {
-      "id": "5030482",
-      "time": "2026-08-07 16:11:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊茵金屬執行長：預計從2028年起，德國聯合生產的ATACMS陸軍戰術導彈將開始產生初始收入。"
-    },
-    {
-      "id": "5030481",
-      "time": "2026-08-07 16:11:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽力斯旗下重慶鳳凰技術公司增資至5.5億 增幅1000%】天眼查App顯示，近日，重慶鳳凰技術有限公司發生工商變更，註冊資本從5000 萬人民幣增至5.5億人民幣，增幅1000%。該公司成立於2025年3月，法定代表人為朱乾勇，經營範圍包括人工智慧基礎軟體開發、智慧機器人的研發、汽車零部件研發、工業機器人制造等，由賽力斯集團股份有限公司全資持股。"
-    },
-    {
-      "id": "5030480",
-      "time": "2026-08-07 16:11:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長信科技持股公司成立伺服器製造公司】企查查APP顯示，近日，蕪湖長信伺服器製造有限公司成立，法定代表人為陳偉達，註冊資本為2000萬元，經營範圍包含：人工智慧應用軟體開發；雲端計算裝置銷售；雲端計算裝置製造；電子元器件批發；光電子器件銷售等。企查查股權穿透顯示，該公司由長信科技持股的蕪湖長信智算科技有限公司全資持股。"
-    },
-    {
-      "id": "5030479",
-      "time": "2026-08-07 16:11:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應對臺風“白海豚”，自然資源部對浙江福建啟動地質災害防禦Ⅳ級響應】據氣象部門預測和部地質災害技術指導中心研判，受第13號颱風“白海豚”影響，未來一週，浙江、福建有強降雨過程，浙江大部、福建北部發生地質災害的風險較高。自然資源部於8月7日15時對浙江、福建啟動地質災害防禦IV級響應。"
-    },
-    {
-      "id": "5030478",
-      "time": "2026-08-07 16:10:54",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【電子坐便器、電熱毯等產品CCC認證實施要求調整】為嚴格強制性產品認證（CCC認證）監管，強化源頭治理，切實保障人民群眾生命財產安全，市場監管總局（國家認監委）近日釋出《關於釋出電子坐便器、電熱毯、電熱墊及類似柔性發熱器具強制性產品認證實施規則的公告》（以下簡稱《公告》），以更細要求、更嚴舉措規範認證實施，築牢產品質量安全底線。《公告》對企業實施更科學的分類管理，覆蓋電子坐便器、電熱毯、電熱墊及類似柔性發熱器具CCC認證全鏈條，壓緊壓實認證活動各相關方主體責任。《公告》還對新版認證實施規則過渡期進行明確，規定自2026年10月1日起，應當按照新版認證實施規則開展CCC認證活動，已經頒發的有效CCC認證證書可繼續使用。"
-    },
-    {
-      "id": "5030477",
-      "time": "2026-08-07 16:10:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙大網新：持股5%以上股東減持310萬股 持股降至6%】浙大網新公告稱，2026年6月17日至8月6日，股東浙江網新集團有限公司透過集中競價方式減持公司股份310萬股，持股比例由6.30%降至6.00%，權益變動觸及1%。本次減持是履行此前減持計劃，截至公告披露日，減持計劃尚未實施完畢。網新集團非控股股東和實控人，本次權益變動不影響控制權，對公司治理、股權結構及經營無影響。"
-    },
-    {
-      "id": "5030476",
-      "time": "2026-08-07 16:10:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中力股份：擬5000萬-1億元回購股份用於員工激勵】中力股份公告稱，公司擬以集中競價交易方式回購股份，金額不低於5000萬元且不超過1億元，價格不超50元/股，數量為100萬股-200萬股，佔總股本的0.25%-0.50%，用於員工持股計劃或股權激勵。回購期限自董事會審議透過預案之日（2026年7月27日）起12個月內。截至該日，相關股東及董高在未來3個月、6個月無減持計劃。本次回購存在價格、資金、政策等風險。"
-    },
-    {
-      "id": "5030475",
-      "time": "2026-08-07 16:10:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中東局勢擾動供油 日本煉廠大幅轉向美墨原油採購】受伊朗衝突引發供應中斷影響，日本煉油企業正越來越多地轉向波斯灣以外的原油來源，其中包括美國。這標誌採購策略出現重大轉變。日本最大煉油商 ENEOS 控股首席財務官田中聰一郎於週五財報會後簡報會上表示，該公司 8 月所需原油已落實，採購來源包含美國原油，同時選用避開霍爾木茲海峽的中東運輸航線；9 月原油貨輪也計劃沿用類似方式完成採購。競爭對手科斯莫能源控股則將大量中東原油替換為美國、墨西哥等國貨源，已儲備可供用到 10 月的原油。該公司高階執行官員巖井智樹週四在新聞釋出會上稱，目前其原油約半數來自北美與中美洲。上述表態印證，隨著中東衝突重塑全球原油流向，日本煉油商已調整採購策略。除霍爾木茲海峽持續面臨運輸擾動外，近幾周受伊朗支援的葉門胡塞武裝襲擊影響，經由紅海運輸的沙特原油貨運可靠性也有所下降。"
-    },
-    {
-      "id": "te:markets:573716",
-      "time": "2026-08-07 16:10:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Gains by 1.30% — Top commodity gainers are Sugar (1.30%), Rice (0.92%) and Wheat (0.65%). Biggest loser is Palm Oil (-0.55%)."
     }
   ]
 }
