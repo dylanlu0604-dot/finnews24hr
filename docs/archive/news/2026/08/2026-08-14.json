@@ -1,7 +1,130 @@
 {
   "date": "2026-08-14",
-  "count": 527,
+  "count": 539,
   "items": [
+    {
+      "id": "mkt:019ffd94-f815-7aab-9030-24ed93050b66",
+      "time": "2026-08-14 08:03:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A former senior Japanese foreign-exchange diplomat said the Bank of Japan may seek to eventually raise policy rates to about 1.5-1.75%."
+    },
+    {
+      "id": "5040187",
+      "time": "2026-08-14 08:03:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲6%。"
+    },
+    {
+      "id": "5040186",
+      "time": "2026-08-14 08:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數開盤下跌0.6%，報9,130.50點。"
+    },
+    {
+      "id": "mkt:019ffd94-1524-7aab-9030-1cf0b2b3a47c",
+      "time": "2026-08-14 08:02:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "A former senior Japanese foreign-exchange diplomat said if the yen returns to levels prevailing before the end-July coordinated action, Japan and the United States may intervene again."
+    },
+    {
+      "id": "5040185",
+      "time": "2026-08-14 08:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【厄瓜多總統諾沃亞將訪華】外交部發言人宣佈：應國家主席習近平邀請，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛將於8月16日至23日對中國進行國事訪問。"
+    },
+    {
+      "id": "mkt:019ffd93-1fd6-7aab-9030-12ee7a02202f",
+      "time": "2026-08-14 08:01:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened 438.23 points higher, up 0.64%, at 68,746.82 on Aug. 14 (Fri)."
+    },
+    {
+      "id": "5040184",
+      "time": "2026-08-14 08:01:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本前高階外匯外交官表示，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。"
+    },
+    {
+      "id": "5040183",
+      "time": "2026-08-14 08:00:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.7%，至6995.67點。"
+    },
+    {
+      "id": "mkt:019ffd92-4ccc-7aab-9030-0a6afc6fafbb",
+      "time": "2026-08-14 08:00:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korean stocks opened higher: KOSPI +2.68% at the open; Samsung Electronics +2%; SK Hynix +6%."
+    },
+    {
+      "id": "5040182",
+      "time": "2026-08-14 08:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報68811.17點，漲幅0.74％。韓國綜合股價指數（KOSPI）開盤上漲2.7％，至6995.67點。三星電子漲2%，海力士漲6%。"
+    },
+    {
+      "id": "mkt:019ffd91-bc04-7aab-9030-0505e90d0c11",
+      "time": "2026-08-14 08:00:14",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CITIC Securities: PBOC likely to step up financial support to the real economy】CITIC Securities says the PBOC's Q2 2026 monetary report sets domestic tone as \"stable operation, shifting to new and better quality\" and flags geopolitical risks and AI on the external front. The report calls for \"comprehensive use and timely adjustment of monetary policy tools,\" indicating a slightly more active policy bias. It urges guiding short-term funding rates to trade around the policy rate and promotes diversification of loan pricing benchmarks to lower financing costs. CITIC concludes the PBOC may continue to increase financial support for the real economy in the next phase."
+    },
+    {
+      "id": "mkt:019ffd91-8ecf-7aab-902f-fe7a7c5297c7",
+      "time": "2026-08-14 08:00:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield fell 2.5 bps to 2.845%."
+    },
     {
       "id": "5040181",
       "time": "2026-08-14 07:59:39",

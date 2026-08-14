@@ -1,7 +1,130 @@
 {
-  "updated": "2026-08-14 08:00:17",
-  "count": 15456,
+  "updated": "2026-08-14 08:04:15",
+  "count": 15459,
   "items": [
+    {
+      "id": "mkt:019ffd94-f815-7aab-9030-24ed93050b66",
+      "time": "2026-08-14 08:03:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A former senior Japanese foreign-exchange diplomat said the Bank of Japan may seek to eventually raise policy rates to about 1.5-1.75%."
+    },
+    {
+      "id": "5040187",
+      "time": "2026-08-14 08:03:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲6%。"
+    },
+    {
+      "id": "5040186",
+      "time": "2026-08-14 08:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數開盤下跌0.6%，報9,130.50點。"
+    },
+    {
+      "id": "mkt:019ffd94-1524-7aab-9030-1cf0b2b3a47c",
+      "time": "2026-08-14 08:02:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "A former senior Japanese foreign-exchange diplomat said if the yen returns to levels prevailing before the end-July coordinated action, Japan and the United States may intervene again."
+    },
+    {
+      "id": "5040185",
+      "time": "2026-08-14 08:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【厄瓜多總統諾沃亞將訪華】外交部發言人宣佈：應國家主席習近平邀請，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛將於8月16日至23日對中國進行國事訪問。"
+    },
+    {
+      "id": "mkt:019ffd93-1fd6-7aab-9030-12ee7a02202f",
+      "time": "2026-08-14 08:01:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened 438.23 points higher, up 0.64%, at 68,746.82 on Aug. 14 (Fri)."
+    },
+    {
+      "id": "5040184",
+      "time": "2026-08-14 08:01:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本前高階外匯外交官表示，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。"
+    },
+    {
+      "id": "5040183",
+      "time": "2026-08-14 08:00:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.7%，至6995.67點。"
+    },
+    {
+      "id": "mkt:019ffd92-4ccc-7aab-9030-0a6afc6fafbb",
+      "time": "2026-08-14 08:00:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korean stocks opened higher: KOSPI +2.68% at the open; Samsung Electronics +2%; SK Hynix +6%."
+    },
+    {
+      "id": "5040182",
+      "time": "2026-08-14 08:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報68811.17點，漲幅0.74％。韓國綜合股價指數（KOSPI）開盤上漲2.7％，至6995.67點。三星電子漲2%，海力士漲6%。"
+    },
+    {
+      "id": "mkt:019ffd91-bc04-7aab-9030-0505e90d0c11",
+      "time": "2026-08-14 08:00:14",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CITIC Securities: PBOC likely to step up financial support to the real economy】CITIC Securities says the PBOC's Q2 2026 monetary report sets domestic tone as \"stable operation, shifting to new and better quality\" and flags geopolitical risks and AI on the external front. The report calls for \"comprehensive use and timely adjustment of monetary policy tools,\" indicating a slightly more active policy bias. It urges guiding short-term funding rates to trade around the policy rate and promotes diversification of loan pricing benchmarks to lower financing costs. CITIC concludes the PBOC may continue to increase financial support for the real economy in the next phase."
+    },
+    {
+      "id": "mkt:019ffd91-8ecf-7aab-902f-fe7a7c5297c7",
+      "time": "2026-08-14 08:00:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield fell 2.5 bps to 2.845%."
+    },
     {
       "id": "5040181",
       "time": "2026-08-14 07:59:39",
@@ -141382,93 +141505,6 @@
         "市場"
       ],
       "text": "任天堂股價在公佈第一季度業績後上漲2.4%。"
-    },
-    {
-      "id": "mkt:019fd988-da20-7aab-8faa-bcdc85cebaea",
-      "time": "2026-08-07 08:04:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: DRC copper concentrate export ban could accelerate copper past $15,000/tonne】CITIC Securities says news of a Democratic Republic of Congo copper concentrate export ban could further fuel bullish sentiment and push copper prices above $15,000/tonne. With cooling US rate‑hike expectations, frequent mine‑side disruptions and continued US draws on global copper inventories, CITIC expects valuation and earnings rerating across the copper sector and recommends producers with high‑quality copper assets and clear production‑growth trajectories."
-    },
-    {
-      "id": "5029706",
-      "time": "2026-08-07 08:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【船舶避風、水上專案停工 多地全力防範颱風“白海豚”】隨著颱風“白海豚”逐漸靠近，上海金山海事局指導轄區船舶搶抓視窗期離港避風，全方位築牢轄區水上交通安全防線。隨著颱風“白海豚”靠近，福建海事局重點加強寧德、福州海域船舶防禦颱風工作。針對受颱風影響海域，加快引導在港船舶向南疏散，不再安排大型船舶、危險品船舶進港作業，停止船舶海上活動。為確保安全，截至6日14時，福建沿海已有70個水上施工專案停工。福建海事部門還加強對臺灣海峽過往船舶的預警叫應，引導船舶避開受颱風影響區域。（央視）"
-    },
-    {
-      "id": "mkt:019fd987-594e-7aab-8faa-b5a592551cfe",
-      "time": "2026-08-07 08:02:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "【Japanese and South Korean stocks open higher】Japan's Nikkei 225 opened up 194.71 points, or 0.30%, at 65,877.97 on Aug 7 (Fri). South Korea's KOSPI opened up 62.22 points, or 0.99%, at 6,358.6. SK Hynix rose 1%; Samsung Electronics rose 2%."
-    },
-    {
-      "id": "5029705",
-      "time": "2026-08-07 08:01:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【滙豐出售東京總部 計劃遷至新大樓 】據報道，滙豐控股已出售位於東京日本的總部大樓，並計劃遷入東京站附近一座預計於2029年完工的新大樓。資料顯示，金融服務公司三菱HC資本旗下子公司已於今年3月收購滙豐東京大樓。"
-    },
-    {
-      "id": "5029704",
-      "time": "2026-08-07 08:01:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特稱胡塞武裝襲擊造成11名平民受傷】沙烏地阿拉伯主導的多國聯軍7日凌晨發表宣告說，葉門胡塞武裝6日發動襲擊，在沙特南部奈季蘭省造成11名平民受傷。聯軍發言人圖爾基·馬利基在宣告中說，傷者中有7人是沙特公民，包括一名4歲兒童；其餘4名傷者來自埃及、葉門和巴基斯坦。馬利基譴責胡塞武裝此次襲擊違反國際人道法。他說，多國聯軍將繼續採取威懾措施，應對此類襲擊、確保平民安全。（新華社）"
-    },
-    {
-      "id": "5029703",
-      "time": "2026-08-07 08:01:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "任天堂股票暫未交易，預計上漲；第一季度營業收入超出預期。"
-    },
-    {
-      "id": "te:economy:573508",
-      "time": "2026-08-07 08:00:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Foreign Exchange Reserves",
-        "Importance 1"
-      ],
-      "text": "Japan Forex Reserves Hit 16-Month Low — Japan’s foreign reserves fell by USD 0.38 billion to a sixteen-month low of USD 1.287 trillion at the end of July 2026 from USD 1.288 trillion in June, extending the previous month’s decline. Foreign currency reserves stood at USD 1.090 trillion, consisting of USD 927.33 billion in securities and USD 162.29 billion in deposits. Of the deposits, USD 161.85 billion were held with foreign central banks and the Bank for International Settlements (BIS), while deposits with banks headquartered in Japan totaled USD 407 million and those with banks headquartered outside Japan amounted to USD 25 million. Japan's IMF reserve position stood at USD 11.38 billion, SDR holdings were valued at USD 60.73 billion, and gold reserves totaled USD 109.52 billion. Other reserve assets amounted to USD 15.86 billion, while other foreign currency assets stood at USD 33.92 billion."
-    },
-    {
-      "id": "5029702",
-      "time": "2026-08-07 08:00:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.1%，至6365.07點。"
-    },
-    {
-      "id": "5029701",
-      "time": "2026-08-07 08:00:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報65746.13點，漲幅0.10%。"
     }
   ]
 }
