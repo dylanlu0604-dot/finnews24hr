@@ -1,7 +1,117 @@
 {
   "date": "2026-08-14",
-  "count": 779,
+  "count": 791,
   "items": [
+    {
+      "id": "mkt:019ffdf2-eb55-7aab-9032-a17aba4b1a63",
+      "time": "2026-08-14 09:46:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian National Armed Forces said on X that Latvia has lifted an air-threat alert after allied fighter jets shot down a drone in Latvian airspace."
+    },
+    {
+      "id": "5040348",
+      "time": "2026-08-14 09:46:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【高位人氣股大面積走弱 秦安股份等多股跌停】早盤高位人氣股大面積走弱，秦安股份、同力天啟、皇氏集團、寶鷹股份、德龍匯能跌停，風範股份、華東數控、一鳴食品、京投發展等跟跌。"
+    },
+    {
+      "id": "5040347",
+      "time": "2026-08-14 09:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州：謀劃建設天然氣交易中心】貴州省人民政府辦公廳近日印發《貴州省非常規天然氣增儲上產三年攻堅行動方案（2026—2028年）》，其中提出，謀劃建設天然氣交易中心。推動區域產銷協同試點建設，有效銜接上下游資源。謀劃建設貴州省天然氣交易中心，強化資源配置，促進上游產能釋放、下游市場拓展，提高貴州省天然氣資源價格話語權和市場競爭力。"
+    },
+    {
+      "id": "mkt:019ffdf2-8c9d-7aab-9032-99cb2c7ac2e9",
+      "time": "2026-08-14 09:45:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner to visit Israel next week for Gaza peace-plan talks】Jared Kushner, U.S. President Donald Trump’s son-in-law and Middle East peace envoy, will visit Israel next week to discuss Gaza, a U.S. official said. The trip is part of a renewed U.S. push to advance a long-delayed peace plan after Israeli Prime Minister Netanyahu rejected a 15-point roadmap issued late last month. The roadmap proposed disarming Hamas, transferring Gaza administration to a new Palestinian government and withdrawal of Israeli forces. The U.S. and Israel have agreed on target outcomes for Gaza and will continue cooperation; Kushner may also visit other regional partners to discuss the plan."
+    },
+    {
+      "id": "5040346",
+      "time": "2026-08-14 09:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州印發非常規天然氣增儲上產三年攻堅行動方案】貴州省人民政府辦公廳印發《貴州省非常規天然氣增儲上產三年攻堅行動方案（2026—2028年）》，總體要求為，非常規天然氣2026年產量超9億立方米，2027年產量超17億立方米，2028年產量超22億立方米、自給率超40%，2030年自給率達到60%，2035年基本實現自給自足。"
+    },
+    {
+      "id": "5040345",
+      "time": "2026-08-14 09:45:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞武裝部隊在X平臺發文表示，拉脫維亞已解除空中威脅警報，盟軍戰鬥機在拉脫維亞領空擊落了一架無人機。"
+    },
+    {
+      "id": "mkt:019ffdf1-f737-7aab-9032-9640db6688df",
+      "time": "2026-08-14 09:45:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative drug sector showed pockets of strength: Boji Pharma, Huasen Pharmaceutical and Zhongyuan Xiehe hit their daily trading limits; Xuantai Pharmaceutical, Guanhao Biotech, Zhongqi Co., Tigermed and Baiaotai also rose."
+    },
+    {
+      "id": "te:economy:575233",
+      "time": "2026-08-14 09:45:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Home Loans",
+        "Importance 1"
+      ],
+      "text": "Australia Q2 Housing Lending Hits 3-Quarter Low — The value of new owner-occupier loan commitments for dwellings in Australia fell 1.9% quarter-on-quarter to AUD 60.5 billion in Q2 2026, the lowest in three quarters, easing from a downwardly revised 3.5% decline in Q1. First-home buyer demand edged up 0.2%, reversing a 4.8% contraction in the previous quarter, while lending to non-first-home buyers declined 3.1%, moderating from a 3.9% fall. On an annual basis, owner-occupier lending rose 0.6%. Meanwhile, investment lending for housing tumbled 10.2% to AUD 37.1 billion, its lowest level in a year, deepening from a 3.2% decline in Q1. Despite the quarterly weakness, investment loan values remained 8.1% higher year-on-year."
+    },
+    {
+      "id": "5040344",
+      "time": "2026-08-14 09:45:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量668億元。"
+    },
+    {
+      "id": "5040343",
+      "time": "2026-08-14 09:45:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5040342",
+      "time": "2026-08-14 09:44:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊區域性走高，博濟醫藥漲停】創新藥板塊區域性走高，博濟醫藥、華森製藥、中源協和漲停，宣泰醫藥、冠昊生物、中旗股份、泰格醫藥、百奧泰跟漲。"
+    },
+    {
+      "id": "5040341",
+      "time": "2026-08-14 09:43:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪下挫 城地香江跌停】早盤算力租賃概念震盪下挫，城地香江跌停，鴻博股份觸及跌停，甘諮詢、群興玩具、中鼎股份、立昂技術等快速跟跌。"
+    },
     {
       "id": "te:markets:575231",
       "time": "2026-08-14 09:42:47",
