@@ -1,7 +1,62 @@
 {
   "date": "2026-08-15",
-  "count": 219,
+  "count": 225,
   "items": [
+    {
+      "id": "5041936",
+      "time": "2026-08-15 03:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申，美國不能讓伊朗擁有核武器。"
+    },
+    {
+      "id": "mkt:01a001d6-bc36-7aab-9045-3f2bee373281",
+      "time": "2026-08-15 03:54:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said on Iran he will soon declare the Strait of Hormuz U.S. territory."
+    },
+    {
+      "id": "mkt:01a001d6-8486-7aab-9045-3766eb41e06b",
+      "time": "2026-08-15 03:53:50",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "Balyasny Asset Management disclosed a holding of 3.4 million shares in SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5041935",
+      "time": "2026-08-15 03:53:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我很快將宣佈霍爾木茲海峽為美國領土。"
+    },
+    {
+      "id": "5041934",
+      "time": "2026-08-15 03:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：伊朗正遭到慘重挫敗。"
+    },
+    {
+      "id": "mkt:01a001d4-f23a-7aab-9045-28bed38c0ccb",
+      "time": "2026-08-15 03:52:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Leveraged funds have raised bullish bets on the Mexican peso to the highest level since 2024."
+    },
     {
       "id": "mkt:01a001d4-101f-7aab-9045-2456de57e4ae",
       "time": "2026-08-15 03:51:09",
