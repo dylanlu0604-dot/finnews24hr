@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-14 08:20:10",
-  "count": 15458,
+  "updated": "2026-08-14 08:24:06",
+  "count": 15459,
   "items": [
+    {
+      "id": "5040206",
+      "time": "2026-08-14 08:23:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【關志鷗在九州通醫藥集團調研時強調 更大力度促進民營經濟健康發展高質量發展 為加快建成支點提供堅實支撐】據湖北釋出，8月13日下午，湖北省委書記關志鷗到九州通醫藥集團股份有限公司調研民營經濟和產業發展工作，聽取意見建議。他強調，要持之以恆最佳化營商環境，更大力度促進全省民營經濟健康發展、高質量發展，為加快建成中部地區崛起的重要戰略支點提供堅實支撐。"
+    },
+    {
+      "id": "5040205",
+      "time": "2026-08-14 08:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古1—7月出口機電產品126億元】昨天（8月13日），一批由內蒙古鄂爾多斯本土企業研發的智慧寬體礦用車，經二連浩特口岸陸續出口蒙古國，二連浩特海關、邊檢針對超高超寬重型成套裝備，開通大件貨物專屬通關通道，保障高階裝備高效順利出國。據呼和浩特海關資料顯示，今年前7個月，內蒙古出口機電產品達126億元，同比增長4.3%，智慧工程機械等高附加值產品出口勢頭強勁。"
+    },
+    {
+      "id": "te:markets:575214",
+      "time": "2026-08-14 08:22:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies After Pulling Back — Silver steadied around $64.5 an ounce on Friday after pulling back in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures."
+    },
+    {
+      "id": "mkt:019ffda5-c3d0-7aab-9030-66225ed3ea6a",
+      "time": "2026-08-14 08:22:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Economic Daily: Targeted countermeasures help maintain normal competitive order】MOFCOM and other agencies announced retaliatory measures against recent US actions by the Federal Communications Commission and Department of Homeland Security, including tightened export controls on drone-related dual-use items bound for the US and placing six US entities, including Applied DNA Sciences, on a countermeasure list. Beijing said the package is legally grounded and intended to defend national interests; China reaffirmed commitment to stable US-China ties but warned that if the US implements further restrictive measures, it will impose additional countermeasures."
+    },
+    {
+      "id": "5040204",
+      "time": "2026-08-14 08:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油加入大型石油企業重返委內瑞拉的行列。英國石油已獲得加拉加斯方面頒發的許可，將勘探開發委內瑞拉近海一處氣田，這是該大型石油企業重返當地的最新訊號。"
+    },
+    {
+      "id": "te:markets:575213",
+      "time": "2026-08-14 08:20:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies After Sharp Drop — Gold steadied around $4,350 an ounce on Friday after falling sharply in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures."
+    },
+    {
+      "id": "5040203",
+      "time": "2026-08-14 08:20:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.4%，英國富時指數期貨上漲0.4%。"
+    },
     {
       "id": "mkt:019ffda2-df7a-7aab-9030-5e3297675673",
       "time": "2026-08-14 08:18:57",
@@ -141465,58 +141535,6 @@
         "國際"
       ],
       "text": "【美國眾議員馬克斯.米勒將向競選團隊提供100萬美元貸款，無視退選呼聲】身陷風波的眾議員馬克斯.米勒(Max Miller)將向自己的競選團隊提供100萬美元貸款。米勒正在俄亥俄州一場競爭激烈的選戰中尋求再次當選，眼下因家庭暴力指控面臨退選壓力；此舉是這位已任兩屆的國會議員決意留在選戰中的最新跡象。米勒說，他計劃分兩筆、每筆50萬美元向競選團隊劃撥100萬美元。“我以各種方式投入了這場選舉，也會把資源投入我的競選，以贏得勝利，”他在宣告中說。這筆貸款將讓米勒相對其民主黨對手擁有顯著資金優勢；與此同時，米勒因這些虐待指控面臨共和黨人的退選壓力，但他否認相關指控。“我準備堅持到底，”米勒說。“我知道眼下有些人擔心我贏下這場選戰的能力，但我不這麼看。”一位瞭解特朗普言論的人士說，特朗普私下告訴一些顧問，他認為米勒應當退選。"
-    },
-    {
-      "id": "mkt:019fd99a-4f3b-7aab-8faa-dfaf8649d65c",
-      "time": "2026-08-07 08:23:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 20-year government bond yield rose 2 bps to 3.660%."
-    },
-    {
-      "id": "5029735",
-      "time": "2026-08-07 08:22:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗擬禁止敵對方通行霍爾木茲海峽 對違規者重罰】伊朗議會主席團成員薩利米公開伊方擬議的霍爾木茲海峽戰略管理方案初步文字細節，內容包括禁止敵對方面透過海峽等，違反規定者將被處以最高達貨物價值20%的罰款。該方案顯示，美國、以色列等國的船隻將被禁止透過霍爾木茲海峽；與以色列有關的軍用和民用貨物不得透過該區域；參與針對“抵抗陣線”行動的船隻或貨物也將被禁止通行。方案還規定，對伊朗造成損失的國家和個人，在完成損失賠償前將無法獲得透過霍爾木茲海峽和波斯灣的許可。根據方案，對於違反相關規定者，擬處以最高相當於貨物價值20%的罰款等處罰。伊朗政府將與武裝部隊合作，承擔航行引導、船舶通行監管以及維護波斯灣安全等職責。薩利米說，這一初步文字正在議會國家安全與外交政策委員會審議，議會已邀請有關專家提出意見和建議，以進一步完善該方案。(新華社)"
-    },
-    {
-      "id": "5029734",
-      "time": "2026-08-07 08:22:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數下跌0.7% 受晶片相關股票拖累】隨著對中東衝突和能源成本的不確定性持續存在，日本股市早盤走低。晶片相關股票領跌。Lasertec下跌9.8%，軟銀集團下跌6.1%，Screen Holdings下跌4.2%。美元報158.49日元，週四東京股市收盤時為157.81日元。投資者正關注企業盈利，普利司通定於週五晚些時候公佈季度業績。日經指數下跌0.7%，報65,210.13點。"
-    },
-    {
-      "id": "5029733",
-      "time": "2026-08-07 08:21:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲2.0個基點，至3.660%。"
-    },
-    {
-      "id": "5029732",
-      "time": "2026-08-07 08:21:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "“2026年春節過後，我幾乎沒有短劇可拍了。”一位中部短劇男演員向中國證券報記者感慨道。AI生成影片技術的爆發式應用正重塑短劇行業生產邏輯。Wind資料顯示，短劇遊戲概念指數7月27日以來累計上漲超17%。分析人士認為，在行業產能高速擴張與內容同質化加劇的背景下，短劇行業正從流量驅動轉向內容驅動，具備AI影片生成技術、IP儲備和精品內容製作能力的產業鏈龍頭有望率先受益。"
-    },
-    {
-      "id": "5029731",
-      "time": "2026-08-07 08:20:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【磷化銦景氣度高漲 3只概念股獲機構積極關注】近期，磷化銦價格顯著上漲。上海有色網資料顯示，4英寸磷化銦襯底8月6日均價達到6250元/片，較年初上漲約45%。磷化銦價格上漲還疊加著上游原料銦的同步暴漲，Wind資料顯示，截至8月6日，精銦報價5430元/千克，較年初的2980元/千克上漲超80%。受AI浪潮拉動，光模組對磷化銦襯底的需求急劇擴張，推動磷化銦價格攀升。磷化銦主要用在AIDC高速光模組器件中，近年來光模組速率從800G向1.6T、3.2T趨勢演進，促進磷化銦襯底持續改進，供需缺口進一步擴大。據證券時報·資料寶統計，A股中佈局磷化銦產業鏈的個股共有18只，其中12股已公佈半年度報告或業績預告，按半年報淨利潤、業績預告淨利潤下限計算，9股淨利潤實現同比增長，其中博傑股份、株冶集團、興業銀錫、雲南鍺業增幅超過100%，其他還有歐萊新材扭虧為盈。從機構關注度來看，9股獲3家及以上機構評級，佔比為總數的一半，中國鋁業、興業銀錫、華錫有色3股獲機構積極關注，評級機構家數分別為10家、7家、7家。"
     }
   ]
 }
