@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-15 04:10:54",
-  "count": 15269,
+  "updated": "2026-08-15 04:14:42",
+  "count": 15271,
   "items": [
+    {
+      "id": "mkt:01a001e9-07be-7aab-9045-a2ae1bbcdc9b",
+      "time": "2026-08-15 04:14:04",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "SEC filing shows Berkshire Hathaway raised its stake in Alphabet (GOOG.O) Class A shares by 45.2% to 78.8 mln shares; Class C holdings rose to 27.2 mln shares."
+    },
+    {
+      "id": "5041959",
+      "time": "2026-08-15 04:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "D.R. HORTON股價盤後上漲3.3%。"
+    },
+    {
+      "id": "5041958",
+      "time": "2026-08-15 04:12:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "APPALOOSA第二季度減持阿里巴巴、惠而浦、高通、AMD和美光。"
+    },
+    {
+      "id": "5041957",
+      "time": "2026-08-15 04:12:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家鐵路客運公司（Amtrak）：新建中西部維修設施預計將在約18個月的開發建設階段創造約3000個就業崗位。"
+    },
+    {
+      "id": "mkt:01a001e7-09d0-7aab-9045-9c3b3fe6d20c",
+      "time": "2026-08-15 04:11:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he will soon declare Strait of Hormuz \"U.S. territory\"】Trump said he will soon declare the Strait of Hormuz \"U.S. territory\" after defeating Iran. He called a blockade of Iran \"unstoppable\" and a \"wall of steel,\" and said the U.S. is fully prepared to respond to Iran, will not allow Iran to continue related actions or to acquire nuclear weapons. He said U.S. consumers would pay only a very small price for higher gasoline, said he did not care about hitting Iran's economy before the midterms, and said the U.S. has made a lot of money from tariffs."
+    },
+    {
+      "id": "5041956",
+      "time": "2026-08-15 04:11:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鐵路公司(Amtrak)：獲得最高5.72億美元及最高8700萬美元的撥款，將用於解決芝加哥長期存在的鐵路基礎設施需求。"
+    },
+    {
+      "id": "5041955",
+      "time": "2026-08-15 04:11:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋公司增持達美航空股份44.0%，至5,730萬股。"
+    },
+    {
+      "id": "5041954",
+      "time": "2026-08-15 04:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "COATUE MANAGEMENT LLC將微軟持股增加18.4%至290萬股。"
+    },
     {
       "id": "5041953",
       "time": "2026-08-15 04:08:55",
@@ -139702,54 +139778,6 @@
         "國際"
       ],
       "text": "根據美國證券交易委員會（SEC）披露檔案：alphabet提交檔案申請發行最高額度250億美元的分系列中期票據。"
-    },
-    {
-      "id": "5031610",
-      "time": "2026-08-08 04:14:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：確認維德角 B+/B 評級；展望維持正面。"
-    },
-    {
-      "id": "5031609",
-      "time": "2026-08-08 04:14:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：正面展望反映預期喬治亞將延續強勁經濟表現與審慎財政管理。"
-    },
-    {
-      "id": "5031608",
-      "time": "2026-08-08 04:14:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：該展望反映出，我們預期喬治亞的對外頭寸將透過持續積累外匯儲備進一步改善。"
-    },
-    {
-      "id": "5031607",
-      "time": "2026-08-08 04:13:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "Palantir收漲10.32%，報172.01美元，本週累計上漲39.78%。"
-    },
-    {
-      "id": "5031606",
-      "time": "2026-08-08 04:12:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：喬治亞政府因信用基本面改善，展望上調至正面；確認 BB/B 評級。"
-    },
-    {
-      "id": "5031605",
-      "time": "2026-08-08 04:11:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普全球評級將喬治亞展望調整為正面；確認 BB/B 評級。"
     }
   ]
 }
