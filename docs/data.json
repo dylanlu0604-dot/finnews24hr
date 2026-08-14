@@ -1,7 +1,236 @@
 {
-  "updated": "2026-08-14 21:57:43",
-  "count": 15327,
+  "updated": "2026-08-14 22:01:49",
+  "count": 15338,
   "items": [
+    {
+      "id": "5041698",
+      "time": "2026-08-14 22:00:18",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月商業庫存月率 0%，預期0.1%，前值由0.30%修正為0.4%。"
+    },
+    {
+      "id": "mkt:01a00092-d4c8-7aab-9040-95e79ac78da1",
+      "time": "2026-08-14 22:00:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Aug initial 5-10y inflation expectations 3.3pct; consensus 3.3pct; prior 3.30pct."
+    },
+    {
+      "id": "5041697",
+      "time": "2026-08-14 22:00:15",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國8月密歇根大學消費者信心指數初值 51，預期54.5，前值55.2。"
+    },
+    {
+      "id": "mkt:01a00092-cce3-7aab-9040-89c7f2abb813",
+      "time": "2026-08-14 22:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US preliminary one-year inflation expectations for August 4.3% vs 4.2% expected; prior 4.20%."
+    },
+    {
+      "id": "mkt:01a00092-c10f-7aab-9040-86d59bd3a2f3",
+      "time": "2026-08-14 22:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US preliminary Aug U. of Michigan consumer sentiment index 51, versus 54.5 expected and 55.2 prior."
+    },
+    {
+      "id": "5041696",
+      "time": "2026-08-14 22:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月一年期通脹率預期初值 4.3%，預期4.2%，前值4.20%。"
+    },
+    {
+      "id": "mkt:01a00092-b3bb-7aab-9040-767763257e16",
+      "time": "2026-08-14 22:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Aug University of Michigan preliminary current conditions index 51.8 vs estimate 55.0; prior 54.8."
+    },
+    {
+      "id": "mkt:01a00092-b3c9-7aab-9040-7c3ebd4a5e65",
+      "time": "2026-08-14 22:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. University of Michigan preliminary August consumer expectations index 50.6, est. 55.2, prior 55.4."
+    },
+    {
+      "id": "mkt:01a00092-b292-7aab-9040-69147165e2b0",
+      "time": "2026-08-14 22:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US June business inventories unchanged MoM at 0.0% vs 0.1% expected; May revised up from 0.3% to 0.4%."
+    },
+    {
+      "id": "mkt:01a00092-9660-7aab-9040-5ec9294f49cc",
+      "time": "2026-08-14 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Five Years (Aug) | actual 3.3% | consensus 3.3% | previous 3.30%"
+    },
+    {
+      "id": "mkt:01a00092-9664-7aab-9040-659011bb5665",
+      "time": "2026-08-14 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Year (Aug) | actual 4.3% | consensus 4.2% | previous 4.20%"
+    },
+    {
+      "id": "mkt:01a00092-90fc-7aab-9040-548f19831be8",
+      "time": "2026-08-14 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Expectations Index Flash (Aug) | actual 50.6 | consensus 55.2 | previous 55.4"
+    },
+    {
+      "id": "mkt:01a00092-90fb-7aab-9040-48426266e64e",
+      "time": "2026-08-14 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Current Conditions Index Flash (Aug) | actual 51.8 | consensus 55 | previous 54.8"
+    },
+    {
+      "id": "mkt:01a00092-90fa-7aab-9040-403deb584983",
+      "time": "2026-08-14 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Sentiment Index Flash (Aug) | actual 51 | consensus 54.5 | previous 55.2"
+    },
+    {
+      "id": "mkt:01a00092-90a9-7aab-9040-399bb33dc371",
+      "time": "2026-08-14 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Business Inventories (MoM) (Jun) | actual 0% | consensus 0.1% | previous 0.30%"
+    },
+    {
+      "id": "5041695",
+      "time": "2026-08-14 21:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國野火九成火情由人為引發】法國內政部14日宣佈，自7月以來，全國已有474人因涉嫌蓄意或過失引發野火被捕，其中包括183名未成年人。 據官方初步統計，今年入夏以來，法國各地野火過火面積累計已達約12萬公頃。九成火情由人為引發。目前，西南部朗德省、西北部伊勒－維萊訥省等地的新發野火仍未撲滅。 入夏後接連來襲的熱浪也助長了野火的發生。當前法國正遭受新一輪極端高溫天氣，14日，本土96個省中有75個省釋出高溫橙色警報。 連續作業令法國消防力量不足的問題凸顯。本月13日，9個法國消防員工會聯合號召消防員罷工，要求法國政府解決消防資金不足、人手短缺、消防員職業健康缺乏保障等問題。（新華社）"
+    },
+    {
+      "id": "5041694",
+      "time": "2026-08-14 21:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫談俄羅斯的影子船隊： 歐盟很久以前就發明了這個概念。它未出現在任何法律檔案中。 他們實質上禁止了與俄羅斯能源資源的貿易，所有拒絕服從歐盟的船隻，無論其懸掛何種旗幟，都被宣佈為“影子船隊”的一部分。 他們實質上不僅允許自己攔截和檢查這些船隻，還允許扣押其貨物、出售貨物，並將所得款項轉給烏克蘭，以便其繼續加強其政權。"
+    },
+    {
+      "id": "mkt:01a00091-2196-7aab-9040-30570587fe3c",
+      "time": "2026-08-14 21:58:26",
+      "tags": [
+        "MKT News",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【CATL named exclusive supplier to Australia’s largest operating battery storage project in NEM】CATL said Quinbrook’s Supernode energy storage Phase II has entered commercial operation and Phase III’s A$469m financing has closed. Phases I–II (520MW/1,858MWh) are now fully commercial; after Phase III the project’s total capacity will exceed 3GWh, making it the largest operating battery storage asset in Australia’s National Electricity Market (NEM). CATL is the project’s sole supplier; Phase III will exclusively deploy CATL’s Tianheng storage system and CATL and Quinbrook will jointly develop 8‑hour long-duration storage solutions. CATL has installed a unified standardized technical platform at the site to remove multi-phase equipment compatibility risks and support full-cycle safety and efficient operations."
+    },
+    {
+      "id": "5041693",
+      "time": "2026-08-14 21:58:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嘉興升級釋出暴雨紅色預警】嘉興市氣象臺2026年08月14日21時40分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：目前秀洲區新塍鎮思古橋村站降雨已達60毫米以上，預計未來2小時秀洲區新塍鎮強降雨將持續，累計雨量將達到80-100毫米，請加強防範。"
+    },
+    {
+      "id": "5041692",
+      "time": "2026-08-14 21:57:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元上漲至三個月高點1.3561。"
+    },
+    {
+      "id": "mkt:01a00090-62e5-7aab-9040-2c0abbc637de",
+      "time": "2026-08-14 21:57:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD climbed to a three-month high of 1.3561."
+    },
+    {
+      "id": "5041691",
+      "time": "2026-08-14 21:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【整治修復海岸線207千米 北海區海洋生態保護修復公報釋出】8月14日，自然資源部北海局正式釋出《2025年北海區海洋生態保護修復公報》。公報顯示，“十四五”期間，北海區累計完成整治修復海岸線207千米、濱海溼地超2.7萬公頃。據介紹，公報由北海局會同三省一市及兩個計劃單列市自然資源（海洋）主管部門聯合編制。（央視新聞）"
+    },
     {
       "id": "mkt:01a0008e-fbcd-7aab-9040-21da43a84efc",
       "time": "2026-08-14 21:56:05",
@@ -140146,104 +140375,6 @@
         "Importance 0"
       ],
       "text": "Daimler Truck Holding AG earnings below expectations at 0.15 EUR — Daimler Truck Holding AG (DTG) released earnings per share at 0.15 EUR, compared to market expectations of 0.83 EUR."
-    },
-    {
-      "id": "5031304",
-      "time": "2026-08-07 22:01:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲2%，現報4831.00元。"
-    },
-    {
-      "id": "te:markets:573828",
-      "time": "2026-08-07 22:01:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Vistra Corp earnings below expectations at 1.68 USD — Vistra Corp (VST) released earnings per share at 1.68 USD, compared to market expectations of 2.05 USD."
-    },
-    {
-      "id": "5031303",
-      "time": "2026-08-07 22:01:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊進一步擴大跌幅，SK海力士下跌5%】8月7日，美股儲存板塊進一步擴大跌幅，美光科技下跌1.64%，SK海力士下跌5%，閃迪下跌2.71%，西部資料下跌4.01%，希捷科技下跌7.29%，鎧俠ADR下跌1.91%。"
-    },
-    {
-      "id": "5031302",
-      "time": "2026-08-07 22:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西7月汽車出口量增至39251輛。巴西7月新車銷量增至279,544輛。巴西7月汽車產量增至253,860輛。"
-    },
-    {
-      "id": "5031301",
-      "time": "2026-08-07 22:00:11",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大7月Ivey未季調PMI 54.1，前值59.7。加拿大7月Ivey季調後PMI 55.1，前值56.2。"
-    },
-    {
-      "id": "mkt:019fdc86-3854-7aab-8fbb-f7e6847df8e8",
-      "time": "2026-08-07 22:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada July Ivey PMI (unadjusted) 54.1; prior 59.7."
-    },
-    {
-      "id": "mkt:019fdc86-2bff-7aab-8fbb-ebba3c6ebe4f",
-      "time": "2026-08-07 22:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's seasonally adjusted Ivey PMI fell to 55.1 in July from 56.2 previously."
-    },
-    {
-      "id": "5031300",
-      "time": "2026-08-07 22:00:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“白海豚”將影響部分地區週末交通出行】今年第13號颱風“白海豚”正在向我國東部海域移動。受其影響，8月7日至12日，颱風“白海豚”將給我國東部地區帶來大範圍強風雨天氣，對公路、鐵路、水運等綜合交通產生影響。公路方面，9日至10日，江蘇、浙江、福建、江西等地境內的瀋海、京滬、長深、京臺、連霍、滬陝、滬渝、杭瑞、滬昆、福銀、泉南、廈蓉、濟廣、大廣等高速公路部分路段，11日至12日，湖北、湖南、山東、河北等地境內的瀋海、榮烏、京滬、青銀、青蘭、長深、京哈、大廣、泉南等高速公路部分路段將有暴雨或大暴雨，上述路段需注意防範道路溼滑、積水、低能見度以及可能誘發的次生災害對交通出行的不利影響。"
-    },
-    {
-      "id": "mkt:019fdc86-0cfd-7aab-8fbb-e5c2d351e601",
-      "time": "2026-08-07 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Ivey PMI SA (Jul) | actual 55.1 | previous 56.2"
-    },
-    {
-      "id": "mkt:019fdc86-0cbc-7aab-8fbb-d814494e1765",
-      "time": "2026-08-07 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Ivey PMI NSA (Jul) | actual 54.1 | previous 59.7"
-    },
-    {
-      "id": "5031299",
-      "time": "2026-08-07 21:58:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中國信達獲批參股中金公司】國家金融監督管理總局網站日前釋出批覆，同意中國信達資產管理股份有限公司以不超過人民幣5億元（含）現金收購信達證券股份有限公司相關中小股東所持的股權。同意中國信達資產管理股份有限公司將收購的信達證券股份有限公司相關中小股東所持股權，以及現持有的全部信達證券股份有限公司股權，一併置換為中國國際金融股份有限公司股權。"
     }
   ]
 }
