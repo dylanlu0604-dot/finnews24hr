@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-15 02:48:22",
-  "count": 15327,
+  "updated": "2026-08-15 02:52:14",
+  "count": 15326,
   "items": [
+    {
+      "id": "mkt:01a0019a-9157-7aab-9044-8ce06ad1b322",
+      "time": "2026-08-15 02:48:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Microsoft",
+        "Meta Platforms",
+        "JD.com",
+        "Market Themes",
+        "Magnificent 7",
+        "AMD.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "Impact bearish",
+        "NVDA.O"
+      ],
+      "text": "【Tiger Global Q2 builds SpaceX, AMD; trims Alphabet, TSMC, NVIDIA and others】Tiger Global in Q2 opened positions in SpaceX (SPCX.O) 375.0k shares and AMD (AMD.O) 674.0k shares, and increased Intel (INTC.O) to 4.3 mln shares. It cut Broadcom (AVGO.O) 51.1% to 1.8 mln shares, Alphabet Class A (GOOGL.O) 45.4% to 5.8 mln shares, TSMC ADS (TSM.N) 12.3% to 4.9 mln ADS, Microsoft (MSFT.O) 9.3% to 2.3 mln shares, Meta Platforms Class A (META.O) 8.5% to 2.8 mln shares, NVIDIA (NVDA.O) 6.8% to 11.2 mln shares and JD.com ADS (JD.O) 41.5% to 201.5k ADS. The fund fully exited Netflix (NFLX.O)."
+    },
     {
       "id": "mkt:01a00194-b064-7aab-9044-8674733aff8e",
       "time": "2026-08-15 02:41:56",
@@ -140233,26 +140254,6 @@
         "Brent"
       ],
       "text": "Mehr news agency reported Iranian President PEZESHKIAN said the United States and Israel, through plots and recent wars, have sought to drive a wedge between Iran and Persian Gulf littoral states, but Iran has settled many issues with numerous neighbors."
-    },
-    {
-      "id": "mkt:019fdd91-75fa-7aab-8fc0-76718060ad3a",
-      "time": "2026-08-08 02:52:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr News Agency: Iranian President PEZESHKIAN said Iran will not yield to coercion but does not seek war or aggression."
-    },
-    {
-      "id": "mkt:019fdd91-3c1c-7aab-8fc0-690fab42232e",
-      "time": "2026-08-08 02:51:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Mehr news agency reported Iranian President Pezeshkian said the US is conducting attacks against Iran from the territory of regional states and Iran must defend itself."
     }
   ]
 }
