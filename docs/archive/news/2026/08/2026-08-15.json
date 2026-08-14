@@ -1,7 +1,51 @@
 {
   "date": "2026-08-15",
-  "count": 158,
+  "count": 162,
   "items": [
+    {
+      "id": "5041896",
+      "time": "2026-08-15 02:39:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通終止與POLYMARKET的銀行業務關係。"
+    },
+    {
+      "id": "mkt:01a00191-7776-7aab-9044-79b771632e33",
+      "time": "2026-08-15 02:38:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet's self-driving unit Waymo said the California Public Utilities Commission also approved its service in Sacramento and San Diego."
+    },
+    {
+      "id": "mkt:01a00190-e872-7aab-9044-74a3a6dde5f6",
+      "time": "2026-08-15 02:37:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Waymo, Alphabet’s autonomous driving unit, said the California Public Utilities Commission approved expansion of its driverless ride-hailing service in San Francisco and Los Angeles."
+    },
+    {
+      "id": "5041895",
+      "time": "2026-08-15 02:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
     {
       "id": "mkt:01a0018b-9c03-7aab-9044-6edc123b2a36",
       "time": "2026-08-15 02:32:01",

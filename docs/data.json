@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-15 02:36:40",
-  "count": 15331,
+  "updated": "2026-08-15 02:40:37",
+  "count": 15332,
   "items": [
+    {
+      "id": "5041896",
+      "time": "2026-08-15 02:39:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通終止與POLYMARKET的銀行業務關係。"
+    },
+    {
+      "id": "mkt:01a00191-7776-7aab-9044-79b771632e33",
+      "time": "2026-08-15 02:38:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet's self-driving unit Waymo said the California Public Utilities Commission also approved its service in Sacramento and San Diego."
+    },
+    {
+      "id": "mkt:01a00190-e872-7aab-9044-74a3a6dde5f6",
+      "time": "2026-08-15 02:37:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Waymo, Alphabet’s autonomous driving unit, said the California Public Utilities Commission approved expansion of its driverless ride-hailing service in San Francisco and Los Angeles."
+    },
+    {
+      "id": "5041895",
+      "time": "2026-08-15 02:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
     {
       "id": "mkt:01a0018b-9c03-7aab-9044-6edc123b2a36",
       "time": "2026-08-15 02:32:01",
@@ -140251,34 +140295,6 @@
         "其他"
       ],
       "text": "馬斯克：遺憾的是，目前星艦回收情況不容樂觀。儘管如此，我們已獲取隔熱罩與發動機關鍵部位的特寫照片，用於後續迭代升級。"
-    },
-    {
-      "id": "5031493",
-      "time": "2026-08-08 02:40:17",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國財政部引發關於縮減拍賣規模以抑制收益率的爭論】美國財政部引發了關於政府票據和債券拍賣的爭論——政府票據和債券的拍賣規模只會越來越大，而這長期以來一直是全球最大債券市場的一項”鐵律”。財政部對其季度債務發行政策宣告進行了微調，將正在評估附息證券拍賣的”潛在未來增加”改為”潛在未來調整”。部分交易商推測，官員們可能會考慮縮減最長期限債務的拍賣規模，並將未來任何發行增量集中在成本更低的短期和中期品種上。"
-    },
-    {
-      "id": "mkt:019fdd86-9220-7aab-8fc0-48e9aa5c2686",
-      "time": "2026-08-08 02:40:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said recovery of the Starship from its 13th flight is not optimistic, but teams obtained close-up images of the heat shield and critical engine areas to guide future upgrades."
-    },
-    {
-      "id": "mkt:019fdd83-9a6b-7aab-8fc0-4047f12c8fb9",
-      "time": "2026-08-08 02:36:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The US added 13 entities to its Iran-related sanctions list."
     }
   ]
 }
