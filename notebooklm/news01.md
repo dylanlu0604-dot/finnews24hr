@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 06:34:45_
-_本檔包含 3178 則快訊，約 603992 字_
+_更新時間：2026-08-15 06:54:07_
+_本檔包含 3176 則快訊，約 604098 字_
+
+---
+
+### 2026-08-15 06:48:11  #國際
+
+【印尼發生7.7級地震 已觸發海嘯預警】據印度尼西亞氣象、氣候和地球物理局訊息，當地時間8月15日4時58分，印尼東努沙登加拉省姆拜鎮東北36公里處發生7.7級地震，震源深度15公里，當局釋出海嘯預警。（央視新聞）
+
+---
+
+### 2026-08-15 06:40:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Rises by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.26%). Biggest losers are Rice (-1.37%) and Sugar (-1.25%).
+
+---
+
+### 2026-08-15 06:35:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Gains by 2.71% — Top commodity gainers are Lithium Carbonate (2.71%), Silicon (2.27%), Platinum (1.42%) and Gold (0.60%).
+
+---
+
+### 2026-08-15 06:35:11  #國際
+
+日本防衛大臣小泉進次郎今天參拜靖國神社。 (CCTV國際時訊)
 
 ---
 
@@ -19121,41 +19145,5 @@ CENTCOM announced the launch of its first multi-domain, multinational attack-dro
 ### 2026-08-14 00:42:32  #Trading Economics #Markets #Commodity #Importance 0
 
 Lumber Extends Decline Amid Tariff Uncertainty — Lumber prices fell below $570 per thousand board feet as tariff uncertainty continued to weigh on demand. Canada’s minister responsible for US trade relations said the country remains committed to negotiations, although reports indicated Canadian officials were dissatisfied with the latest US offer and continued to push for zero tariffs on softwood lumber. Earlier, the US imposed tariffs on several Canadian lumber-related products, while Canadian softwood lumber was excluded. Still, US demand for Canadian lumber fell 1.7% in the first half of the year, while its share of the US market declined slightly. Shipments to markets outside the US also fell 3%. Meanwhile, mortgage rates rose to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July. Construction spending on lumber-intensive single-family housing fell 3.3% year-on-year in June, adding to demand concerns.
-
----
-
-### 2026-08-14 00:42:09  #MKT News
-
-US President Trump will visit the Nassau County Police Academy in New York tomorrow.
-
----
-
-### 2026-08-14 00:39:13  #國際
-
-市場訊息：特朗普將於明日訪問拿騷縣警察學院。
-
----
-
-### 2026-08-14 00:36:21  #MKT News
-
-USGS reported a magnitude 5.4 earthquake near the Kermadec Islands.
-
----
-
-### 2026-08-14 00:34:52  #公司 #國際
-
-市場訊息：伊根-瓊斯評級公司回應美國證交會決定並闡述其註冊路徑。
-
----
-
-### 2026-08-14 00:33:24  #國際
-
-美國地質調查局：克馬德克群島地區發生5.4級地震。
-
----
-
-### 2026-08-14 00:29:45  #MKT News
-
-Canada's Saskatchewan premier said talks involve several sensitive issues, including dairy, but progress so far has been encouraging.
 
 ---

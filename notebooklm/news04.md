@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 06:34:45_
-_本檔包含 3162 則快訊，約 603658 字_
+_更新時間：2026-08-15 06:54:07_
+_本檔包含 3162 則快訊，約 603976 字_
+
+---
+
+### 2026-08-11 20:01:06  #MKT News
+
+IBM (IBM.N) signed a multi-year $240 million agreement with Together AI to deploy NVIDIA HGX B300 GPU clusters on IBM Cloud.
+
+---
+
+### 2026-08-11 20:00:56  #其他
+
+【多部門聯合印發《生態保護“十五五”規劃》】生態環境部、自然資源部等部門日前聯合印發的《生態保護“十五五”規劃》提出，到2030年，生態空間格局持續最佳化，生態質量穩步改善，生物多樣性喪失趨勢得到有效緩解，優質生態產品供給更加豐富，生態系統多樣性穩定性持續性不斷提升，生態保護與修復監管制度進一步完善，國家生態安全得到有效保障。 這是記者11日從生態環境部獲悉的。 這份規劃還提出“十五五”時期的多項具體目標，包括自然保護地陸域面積佔陸域國土面積比例不低於18%，生態質量指數（EQI）提升到86.5，水土保持率達到74%以上，森林覆蓋率達到25.8%。 規劃提出，持續最佳化生態空間格局，明確生態保護與修復監管重點區域基本覆蓋生態保護紅線、自然保護地、重要生態功能區、國家重點生態功能區、生物多樣性保護優先區域及“三北”工程區等。 在統籌推進生態系統保護與修復方面，規劃部署了推行自然生態系統休養生息，推進生態系統修復和提升城鄉生態宜居品質三方面任務。規劃對草原、森林、河湖、溼地等保護作出規定，並提出加強原生荒漠保護，推進冰川雪山凍土系統保護，加強典型海洋生態系統保護，嚴格管控圍填海等。同時，規劃要求完善城市綠地系統，推動公園綠地開放共享，加強城市溼地生態和水環境修復，加強農村小微水體水環境治理，保護鄉村山體田園、河湖溼地原生風貌，深入實施鄉村綠化美化，優先採用鄉土樹種。 (新華社)
 
 ---
 
@@ -19042,17 +19054,5 @@ Foxconn's electric-vehicle unit Foxtron reported a Jan–June net loss of NT$2.0
 ### 2026-08-10 17:25:21  #Trading Economics #Economy #Greece #Industrial Production #Importance 1
 
 Greece Industrial Production Expands for 10th Month — Industrial output in Greece rose by 1.1% from the previous year in June of 2026, slowing from the downwardly revised 3.7% in the previous month. Still, it marked ten consecutive months of growth despite turbulent macroeconomic conditions in the period due to the war in the Middle East and its impact on higher energy prices for goods producers. Growth was supported by manufacturing (2.4%) amid higher output for machinery and equipment (5%), fabricated metal products (2.2%), printing and reproduction of recorded products (8.1%), textiles (2.2%), and food (2.2%). In turn, production fell for mining and quarrying (-3%), electricity supply (-3.8%), and water supply (-2.6%). From the previous month, industrial production eased by 0.4%.
-
----
-
-### 2026-08-10 17:25:12  #公司
-
-【依頓電子：控股股東九洲集團首次增持330萬股】依頓電子公告，控股股東四川九洲投資控股集團有限公司於2026年8月10日透過上海證券交易所集中競價交易方式首次增持公司股份330萬股，佔公司總股本比例約為0.33%，增持金額為人民幣3784.25萬元。根據此前披露的增持計劃，九洲集團擬自2026年8月8日起3個月內增持公司股份，累計增持數量不低於總股本的1%且不超過總股本的2%。本次增持前，九洲集團持有公司股份3億股，佔公司總股本的30.00000%。
-
----
-
-### 2026-08-10 17:24:30  #公司
-
-【海螺水泥：8月10日回購85萬股 耗資1518.45萬元】海螺水泥公告稱，8月10日，公司透過上海證券交易所回購85萬股股份，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.0215%，每股回購價在17.83-17.94元之間，付出的價格總額為1518.45萬元，回購股份將被持作庫存股份。截至8月10日，公司庫存股份為2721.98萬股。
 
 ---
