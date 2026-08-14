@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-15 02:01:30",
-  "count": 15344,
+  "updated": "2026-08-15 02:05:25",
+  "count": 15341,
   "items": [
+    {
+      "id": "5041883",
+      "time": "2026-08-15 02:04:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國農民協會：高溫乾旱或致部分地區農作物減產甚至絕收】當地時間14日，德國農民協會表示，受持續高溫乾旱影響，今年德國農業可能出現明顯減產。德國農民協會主席約阿希姆·魯克維德表示，今年小麥和油菜籽的產量預計將低於平均水平，玉米、大豆等秋季作物也可能出現較大幅度減產。魯克維德說，德國南部受乾旱影響尤為嚴重，農作物面臨絕收的風險。他還指出，持續高溫和乾旱還導致飼料作物減產，畜牧業也受到影響。（央視新聞）"
+    },
     {
       "id": "5041882",
       "time": "2026-08-15 02:00:18",
@@ -140369,41 +140377,6 @@
         "XAUUSD"
       ],
       "text": "Saudi Arabia's Al Arabiya TV cited Israeli media reporting that the US is pressing for a two-week ceasefire in Gaza to enable disarmament of Hamas."
-    },
-    {
-      "id": "mkt:019fdd65-a5ce-7aab-8fbf-b0a225c09aac",
-      "time": "2026-08-08 02:04:13",
-      "tags": [
-        "MKT News",
-        "F.N",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal reports Ford Motor Co (F.N) plans to launch an all-new four-door Mustang model."
-    },
-    {
-      "id": "mkt:019fdd65-a522-7aab-8fbf-aeb894f926e8",
-      "time": "2026-08-08 02:04:13",
-      "tags": [
-        "MKT News",
-        "F.O"
-      ],
-      "text": "Wall Street Journal reports Ford Motor (F.N) debuted a four-door Mustang at a dealer event this week; the model is expected to reach the market before the end of the decade."
-    },
-    {
-      "id": "mkt:019fdd65-6c40-7aab-8fbf-a5156b2ae0e8",
-      "time": "2026-08-08 02:03:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pentagon allocates funding and establishes a timetable for the classified \"Golden Dome\" space program."
-    },
-    {
-      "id": "5031478",
-      "time": "2026-08-08 02:02:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：五角大樓為機密 “金穹” 太空計劃劃撥預算並制定時間安排。"
     }
   ]
 }
