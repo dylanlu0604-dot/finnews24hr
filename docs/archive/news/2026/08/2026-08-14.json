@@ -1,7 +1,62 @@
 {
   "date": "2026-08-14",
-  "count": 593,
+  "count": 599,
   "items": [
+    {
+      "id": "5040228",
+      "time": "2026-08-14 08:42:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美聯新材：公司控股企業輝虹科技的EX電子材料銷量穩步增長】美聯新材(300586)8月14日在互動平臺表示，隨著下游需求增加，目前公司控股企業輝虹科技的EX電子材料銷量穩步增長。"
+    },
+    {
+      "id": "5040227",
+      "time": "2026-08-14 08:42:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "mkt:019ffdb7-e5f8-7aab-9030-7ec93acc318f",
+      "time": "2026-08-14 08:41:55",
+      "tags": [
+        "MKT News",
+        "HESAI-W.HK",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Stock Exchange said Hesai-W will be removed from the Hong Kong Stock Connect eligible securities list, effective Aug 14."
+    },
+    {
+      "id": "5040226",
+      "time": "2026-08-14 08:41:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所：禾賽－Ｗ被調出港股通標的證券名單】深交所公告，港股通標的證券名單發生調整並自2026年08月14日起生效，禾賽－Ｗ被調出。"
+    },
+    {
+      "id": "5040225",
+      "time": "2026-08-14 08:41:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率下跌1個基點至1.635%。"
+    },
+    {
+      "id": "te:markets:575219",
+      "time": "2026-08-14 08:39:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index jumped 1.7% to above 69,400, while the broader Topix Index gained 0.5% to 4,196 on Friday, with Japanese shares extending their rally and following a strong lead from Wall Street as subdued US inflation data prompted traders to scale back expectations for a Federal Reserve rate hike in September. Markets are now pricing in around a 35% chance of a 25 basis point Fed rate hike in September, down from 55% a week earlier. Domestically, investors are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weak yen could add to inflationary pressures. Technology stocks led the gains, including Kioxia Holdings (5.2%), Advantest (5.1%) and SoftBank Group (5.5%). The Nikkei and Topix are on track to rise 6% and 3.5% for the week, respectively."
+    },
     {
       "id": "5040224",
       "time": "2026-08-14 08:38:41",
