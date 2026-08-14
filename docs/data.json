@@ -1,7 +1,134 @@
 {
-  "updated": "2026-08-14 09:28:09",
-  "count": 15498,
+  "updated": "2026-08-14 09:31:59",
+  "count": 15501,
   "items": [
+    {
+      "id": "5040308",
+      "time": "2026-08-14 09:31:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行公佈資料顯示，7月韓國銀行業對家庭的淨新增貸款為5.4萬億韓元，6月該項資料為淨新增7.6萬億韓元。"
+    },
+    {
+      "id": "5040307",
+      "time": "2026-08-14 09:31:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌0.5個基點，至4.005%。"
+    },
+    {
+      "id": "5040306",
+      "time": "2026-08-14 09:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亮源新創完成數億元Pre-A輪融資】8月14日，亮源新創（Light Origins）宣佈完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資，資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設、軟硬體全棧平臺研發以及高人才密度的團隊擴張。"
+    },
+    {
+      "id": "5040305",
+      "time": "2026-08-14 09:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國7月家庭貸款增至1194.8萬億韓元。"
+    },
+    {
+      "id": "mkt:019ffde4-19e9-7aab-9032-1475912c28e3",
+      "time": "2026-08-14 09:30:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shenzhen Stock Exchange halted trading in Yuhe convertible bond (123277) from 09:30:00 today after its intraday traded price first rose 30% or more above the issue price; trading resumed at 14:57:00."
+    },
+    {
+      "id": "5040304",
+      "time": "2026-08-14 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.23%，成分股中，中芯國際漲3.52%，佰維儲存漲2.63%，晶合整合漲2.55%，芯原股份漲2.34%。"
+    },
+    {
+      "id": "5040303",
+      "time": "2026-08-14 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.10%， 10年期主力合約基本持平， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5040302",
+      "time": "2026-08-14 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.09%， 滬深300指數期貨連續跌0.04%， 中證500指數期貨連續跌0.04%， 上證50指數期貨連續跌0.08%。"
+    },
+    {
+      "id": "5040301",
+      "time": "2026-08-14 09:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普允許美海軍海外建造艦船 要求棄用電磁彈射系統】白宮當地時間8月13日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射系統。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。"
+    },
+    {
+      "id": "5040300",
+      "time": "2026-08-14 09:29:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“玉禾轉債”盤中臨時停牌】深交所公告，“玉禾轉債”（123277）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "5040299",
+      "time": "2026-08-14 09:27:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准1款創新藥上市】近日，國家藥品監督管理局批准天境生物藥業（杭州）股份有限公司申報的注射用菲澤妥單抗（商品名：境斐）上市，該品種聯合來那度胺和地塞米松用於既往至少接受過一線治療的多發性骨髓瘤成年患者。該品種的上市為相關患者提供了新的治療選擇。"
+    },
+    {
+      "id": "mkt:019ffde2-0b4a-7aab-9032-0ee2d40368e4",
+      "time": "2026-08-14 09:27:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0981.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【SMIC co-CEO Zhao Haijun: Chinese internet firms’ hardware spending exceeds expectations; compute and supporting chips in short supply】SMIC co-CEO Zhao Haijun said at the company earnings meeting that Chinese internet companies have materially ramped hardware investment beyond SMIC’s prior forecasts; customers’ expected future volumes are far above earlier projections. Demand tied to data-center circuit boards and compute modules, and supporting chips — including logic, BCD power devices and optical-module transceivers — is outstripping supply."
+    },
+    {
+      "id": "te:economy:575227",
+      "time": "2026-08-14 09:27:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Credit Rating",
+        "Importance 1"
+      ],
+      "text": "Fitch Affirms U.S. at AA+ Amid Fiscal Strains — Fitch affirmed the U.S. sovereign credit rating at AA+ with a stable outlook, highlighting the country’s large economy, high per-capita income, and the dollar’s global reserve status. Despite tariffs, spending cuts, tighter border controls, and policy uncertainty, the economy has shown resilience and flexibility. Growth is projected to slow to 1.9% in 2026-2027 from 2.8% in 2025, with weaker labor demand and slower job creation. Inflation remains elevated, averaging 3.4% in 2026, above the Fed’s 2% target, partly due to tariffs on core goods. The fiscal outlook is pressured, with the deficit expected to widen to 7.4% of GDP in 2026-2027, the highest among AA-rated peers, driven by military, interest, Medicare, and Social Security costs. Moody's credit rating for the United States was last set at Aa1 with stable outlook. DBRS' credit rating for the United States was last reported at AAA with stable outlook."
+    },
+    {
+      "id": "5040298",
+      "time": "2026-08-14 09:27:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊高開，中石科技20cm漲停】CPO板塊高開，中石科技20cm漲停，阿萊德、飛榮達、天洋新材紛紛高開。"
+    },
     {
       "id": "5040297",
       "time": "2026-08-14 09:27:33",
@@ -141794,108 +141921,6 @@
         "MKT News"
       ],
       "text": "【All ferry routes and projects suspended as Zhejiang launches coastal Level‑II typhoon emergency response】Citing the trajectory and development of this year’s No.13 typhoon \"White Dolphin\", the Zhejiang Maritime Safety Administration initiated a coastal Level‑II typhoon emergency response at 08:00 on Aug. 7. As of 08:00, all 162 passenger ferry routes in Zhejiang are suspended, 193 marine engineering projects have been halted, and 474 construction vessels have moved to safe storm‑shelter waters."
-    },
-    {
-      "id": "mkt:019fd9d8-f6df-7aab-8fab-fa9003b88ada",
-      "time": "2026-08-07 09:31:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares BC battery sector surged: Tongwei Co. rose nearly 8% and Huamin Co. gained over 7%; Dongcai Technology, Trina Solar and LONGi Green Energy also advanced."
-    },
-    {
-      "id": "mkt:019fd9d8-97a3-7aab-8fab-f203416776b2",
-      "time": "2026-08-07 09:31:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【China government bond futures open】China government bond futures opened the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) down 0.01%; 10-year (T) down 0.01%; 30-year (TL) down 0.08%."
-    },
-    {
-      "id": "mkt:019fd9d8-8c32-7aab-8fab-eac50c1876ba",
-      "time": "2026-08-07 09:31:15",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Onshore index futures morning open】Onshore index futures at the morning open: CSI 300 (IF) main contract +0.27%; SSE 50 (IH) main contract -0.15%; CSI 500 (IC) main contract +0.24%; CSI 1000 (IM) main contract +0.20%."
-    },
-    {
-      "id": "5029810",
-      "time": "2026-08-07 09:31:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%】能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%，華友鈷業、融捷股份、永杉鋰業、天齊鋰業、贛鋒鋰業跟漲。"
-    },
-    {
-      "id": "5029809",
-      "time": "2026-08-07 09:31:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.02%，現報3551.393點；上證指數跌0.18%，現報3893.252點；深證成指漲0.61%，現報14196.560點。"
-    },
-    {
-      "id": "mkt:019fd9d8-3021-7aab-8fab-e68ee69a3ff1",
-      "time": "2026-08-07 09:30:51",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share explosives-related stocks rose in early trade after the Ministry of Industry and Information Technology issued the '15th Five-Year Plan' for safe development of the civil explosives industry. Gaozheng Minbao jumped over 8%, Poly United gained more than 4%; Yipuli, Xuefeng Technology and Yahua Group also advanced."
-    },
-    {
-      "id": "5029808",
-      "time": "2026-08-07 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "5029807",
-      "time": "2026-08-07 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.11%， 滬深300指數期貨連續漲0.22%， 中證500指數期貨連續漲0.11%， 上證50指數期貨連續漲0.12%。"
-    },
-    {
-      "id": "5029806",
-      "time": "2026-08-07 09:29:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.08%。山石轉債、福新轉債、鼎通轉債、茂萊轉債、永吉轉債漲幅居前，分別漲3.77%、3.38%、3.35%、1.94%、1.70%。普聯轉債、火星轉債、久吾轉02、江農轉債、路維轉債跌幅居前，分別跌1.58%、1.35%、1.02%、0.60%、0.60%。"
-    },
-    {
-      "id": "mkt:019fd9d6-bbf4-7aab-8fab-dbd6a5f469ff",
-      "time": "2026-08-07 09:29:16",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares CPO sector active in early trade; Tongyu Communication hit the daily limit, Jingwang Electronics up >8%, Woge Optoelectronics up >7%; Yidun Electronics, Tonghui Electronics and Huilv Ecology also rose."
-    },
-    {
-      "id": "5029805",
-      "time": "2026-08-07 09:28:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【合源生物啟動IPO輔導】合源生物科技股份有限公司獲上市輔導備案登記，擬在A股IPO，輔導機構為中信建投。該公司從事CAR-T細胞治療藥物研發。"
     }
   ]
 }
