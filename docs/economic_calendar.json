@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-14 17:28:58",
+  "updated": "2026-08-14 17:32:51",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 456,
+  "count": 458,
   "history_summary": {
     "cached": 456,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 219,
+      "count": 221,
       "dates": [
         {
           "date": "2026-08-09",
@@ -9258,7 +9258,7 @@
         },
         {
           "date": "2026-08-14",
-          "count": 56,
+          "count": 58,
           "events": [
             {
               "id": "capital:1185121",
@@ -11233,6 +11233,64 @@
               "history_checked_at": "2026-08-02 00:09:39"
             },
             {
+              "id": "capital:1183850",
+              "fid": "1183850",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "17:00",
+              "datetime": "2026-08-14 17:00:00",
+              "display_time": "08/14 17:00",
+              "country": "歐元區",
+              "title": "歐元區第二季度季調後就業人數季率初值",
+              "importance": 2,
+              "previous": "0.1 %",
+              "forecast": "0.1 %",
+              "actual": "0.1 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183850",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/13",
+                  "actual": "0.1",
+                  "forecast": "0.1",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "11/14",
+                  "actual": "0.1",
+                  "forecast": "0.1",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "08/14",
+                  "actual": "0.1",
+                  "forecast": "0.1",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "05/15",
+                  "actual": "0.3",
+                  "forecast": "0.1",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "02/14",
+                  "actual": "0.1",
+                  "forecast": "0.1",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "11/14",
+                  "actual": "0.2",
+                  "forecast": "0.1",
+                  "previous": "0.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-14 17:32:49"
+            },
+            {
               "id": "capital:1174590",
               "fid": "1174590",
               "interval": "this_week",
@@ -11289,6 +11347,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-02 00:09:39"
+            },
+            {
+              "id": "capital:1183851",
+              "fid": "1183851",
+              "interval": "this_week",
+              "date": "2026-08-14",
+              "time": "17:00",
+              "datetime": "2026-08-14 17:00:00",
+              "display_time": "08/14 17:00",
+              "country": "歐元區",
+              "title": "歐元區第二季度季調後就業人數年率初值",
+              "importance": 1,
+              "previous": "0.5 %",
+              "forecast": "0.6 %",
+              "actual": "0.5 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183851",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/13",
+                  "actual": "0.5",
+                  "forecast": "0.5",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "11/14",
+                  "actual": "0.5",
+                  "forecast": "0.5",
+                  "previous": "0.6"
+                },
+                {
+                  "date": "08/14",
+                  "actual": "0.7",
+                  "forecast": "0.6",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "05/15",
+                  "actual": "0.8",
+                  "forecast": "0.8",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "02/14",
+                  "actual": "0.6",
+                  "forecast": "0.8",
+                  "previous": "1"
+                },
+                {
+                  "date": "11/14",
+                  "actual": "1",
+                  "forecast": "0.8",
+                  "previous": "0.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-14 17:32:49"
             },
             {
               "id": "capital:1174591",
@@ -37546,6 +37662,64 @@
       "history_checked_at": "2026-08-02 00:09:39"
     },
     {
+      "id": "capital:1183850",
+      "fid": "1183850",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "datetime": "2026-08-14 17:00:00",
+      "display_time": "08/14 17:00",
+      "country": "歐元區",
+      "title": "歐元區第二季度季調後就業人數季率初值",
+      "importance": 2,
+      "previous": "0.1 %",
+      "forecast": "0.1 %",
+      "actual": "0.1 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183850",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/13",
+          "actual": "0.1",
+          "forecast": "0.1",
+          "previous": "0.2"
+        },
+        {
+          "date": "11/14",
+          "actual": "0.1",
+          "forecast": "0.1",
+          "previous": "0.1"
+        },
+        {
+          "date": "08/14",
+          "actual": "0.1",
+          "forecast": "0.1",
+          "previous": "0.2"
+        },
+        {
+          "date": "05/15",
+          "actual": "0.3",
+          "forecast": "0.1",
+          "previous": "0.1"
+        },
+        {
+          "date": "02/14",
+          "actual": "0.1",
+          "forecast": "0.1",
+          "previous": "0.2"
+        },
+        {
+          "date": "11/14",
+          "actual": "0.2",
+          "forecast": "0.1",
+          "previous": "0.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-14 17:32:49"
+    },
+    {
       "id": "capital:1174590",
       "fid": "1174590",
       "interval": "this_week",
@@ -37602,6 +37776,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-02 00:09:39"
+    },
+    {
+      "id": "capital:1183851",
+      "fid": "1183851",
+      "interval": "this_week",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "datetime": "2026-08-14 17:00:00",
+      "display_time": "08/14 17:00",
+      "country": "歐元區",
+      "title": "歐元區第二季度季調後就業人數年率初值",
+      "importance": 1,
+      "previous": "0.5 %",
+      "forecast": "0.6 %",
+      "actual": "0.5 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183851",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/13",
+          "actual": "0.5",
+          "forecast": "0.5",
+          "previous": "0.7"
+        },
+        {
+          "date": "11/14",
+          "actual": "0.5",
+          "forecast": "0.5",
+          "previous": "0.6"
+        },
+        {
+          "date": "08/14",
+          "actual": "0.7",
+          "forecast": "0.6",
+          "previous": "0.7"
+        },
+        {
+          "date": "05/15",
+          "actual": "0.8",
+          "forecast": "0.8",
+          "previous": "0.7"
+        },
+        {
+          "date": "02/14",
+          "actual": "0.6",
+          "forecast": "0.8",
+          "previous": "1"
+        },
+        {
+          "date": "11/14",
+          "actual": "1",
+          "forecast": "0.8",
+          "previous": "0.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-14 17:32:49"
     },
     {
       "id": "capital:1174591",

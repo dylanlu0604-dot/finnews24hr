@@ -1,7 +1,135 @@
 {
   "date": "2026-08-14",
-  "count": 1923,
+  "count": 1938,
   "items": [
+    {
+      "id": "mkt:019fff9d-79f2-7aab-903b-f28d87fc95fd",
+      "time": "2026-08-14 17:32:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Southbound funds net sold CNY 1.316 bln today. Via Shanghai–Hong Kong Stock Connect, Alibaba-W and Meituan-W were net sold HKD 879m and HKD 788m respectively; Tencent was top net buy at HKD 1.127bn. Via Shenzhen–Hong Kong Stock Connect, Huahong Hongli and Lenovo Group were net sold HKD 783m and HKD 293m respectively; top net buy was HKD 630m."
+    },
+    {
+      "id": "mkt:019fff9c-f0d3-7aab-903b-e88c80c9f718",
+      "time": "2026-08-14 17:31:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【BofA: Republican midterm win would extend bull market; Democratic upset would amplify risk】BofA strategists led by Michael Hartnett say a strong Republican showing on Nov. 3 — including the party holding the Senate and Greg Abbott winning reelection as Texas governor — would extend the US equity rally, with AI-related names particularly favoured and markets potentially moving toward ‘bubble-like’ 2027 dynamics. By contrast, BofA warns a Democratic pickup of the Senate and an Abbott defeat would trigger a greater-than-10% equity selloff and push the dollar and Treasury yields lower into year-end. Separately, Goldman strategist Snider recommends buying index volatility in the months ahead of the election."
+    },
+    {
+      "id": "5041115",
+      "time": "2026-08-14 17:31:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福瑞達：擬與財務公司籤金融服務協議 最高存款額20億】福瑞達公告稱，公司擬與山東省商業集團財務有限公司簽訂《金融服務協議》，期限至2028年12月31日。財務公司為公司第一大股東獨資公司，本次交易構成關聯交易。協議約定，2026 - 2028年每日最高存款餘額分別為19億元、19.5億元、20億元，綜合授信額度40億元。存款利率高於四大行同期同類平均利率，貸款利率至少低10個基點。該協議已透過董事會審議，尚需股東會批准。"
+    },
+    {
+      "id": "5041114",
+      "time": "2026-08-14 17:31:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紫金礦業今日大宗交易平價成交470萬股，成交額1.53億元】8月14日，紫金礦業大宗交易成交470萬股，成交額1.53億元，佔當日總成交額的2.38%，成交價32.53元，較市場收盤價32.53元持平。"
+    },
+    {
+      "id": "mkt:019fff9c-563c-7aab-903b-e10da451f401",
+      "time": "2026-08-14 17:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports OpenAI replaced a top executive ahead of an IPO."
+    },
+    {
+      "id": "5041113",
+      "time": "2026-08-14 17:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：當事各方已達成和解，滙豐銀行將支付94500英鎊的罰金，該金額因提前和解從13.5萬英鎊下調。"
+    },
+    {
+      "id": "5041112",
+      "time": "2026-08-14 17:30:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北汽藍谷：近12個月涉25起訴訟仲裁 涉案總金額9513.73萬元】北汽藍谷公告稱，公司及控股子公司近12個月累計發生訴訟、仲裁案件25個，涉案總金額9513.73萬元，佔公司最近一期經審計淨資產的10.02%。其中，本次仲裁由常熟泰山友因買賣合同糾紛起訴北汽新能源、藍谷麥格納，涉案金額480.30萬元。因案件尚處立案受理階段，未開庭審理或裁決，對公司本期或期後利潤影響不確定，以最終判決或裁決為準。"
+    },
+    {
+      "id": "5041111",
+      "time": "2026-08-14 17:30:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國東航：2026年7月客運運力、旅客週轉量同比上升】中國東航公告稱，2026年7月，公司客運運力投入同比上升4.24%；旅客週轉量同比上升7.13%；客座率為87.11%，同比上升2.35個百分點；貨郵週轉量同比上升2.77%。國內新開上海浦東 - 昭蘇等航線，國際和地區新開上海浦東 - 第比利斯等航線。7月引進2架飛機、退出2架，截至7月末運營833架飛機。此外，公告提醒運營資料未經審計，存在調整可能，投資者應注意風險。"
+    },
+    {
+      "id": "5041110",
+      "time": "2026-08-14 17:30:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "洲際交易所：洲際交易所歐洲期貨部門已對滙豐銀行採取紀律處分並完成相關處置流程。"
+    },
+    {
+      "id": "5041109",
+      "time": "2026-08-14 17:29:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香飄飄：2026年上半年實現扭虧為盈，淨利潤1085.97萬元】香飄飄公告，2026年上半年營業收入12.77億元，同比增長23.31%。歸屬於上市公司股東的淨利潤1085.97萬元，上年同期淨利潤虧損9739.09萬元。"
+    },
+    {
+      "id": "5041108",
+      "time": "2026-08-14 17:29:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長進光子：股價異動，經自查不存在應披露而未披露重大資訊】長進光子公告，公司股票於2026年8月12日、8月13日、8月14日連續三個交易日內日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動。經公司自查並向控股股東及實際控制人核實，截至公告披露日，公司生產經營正常，經營情況未發生重大變化，不存在應披露而未披露的重大資訊。公司收盤價為355.55元/股，最新市盈率305.47倍，顯著高於行業平均市盈率68.33倍。"
+    },
+    {
+      "id": "5041107",
+      "time": "2026-08-14 17:29:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST葫蘆娃：收到警示函整改報告，關聯交易已補充審議披露】ST葫蘆娃公告，公司於2026年7月17日收到海南證監局警示函，指出2023年至2025年與關聯方中旺醫療的交易未按規定履行審議程式和披露。公司已完成整改，將相關交易補充確認為關聯交易並履行追認審議程式，整改報告獲董事會7票同意透過。"
+    },
+    {
+      "id": "5041106",
+      "time": "2026-08-14 17:29:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【影石：全景影像已在多個行業跑通完整工作流，正與多傢俱身智慧企業推進深度合作】影石行業應用負責人表示，影石Insta360全景影像在B端行業應用上已跑通“採集-處理-應用”的完整工作流，正從單點工具向空間數字化基礎設施升級。據介紹，目前全景影像已在媒體與紀錄片、教育、房產、文旅、工業製造、安防應急等多個行業實現落地。（新浪科技）"
+    },
+    {
+      "id": "5041105",
+      "time": "2026-08-14 17:28:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠海控：2026年7月7日至8月14日累計回購股份約2976萬股】中遠海控公告稱，2026年7月7日至8月14日，公司累計回購股份約2976萬股。其中，8月14日回購108.03萬股，每股回購價在15.37 - 15.4元之間，付出價格總額約1663.61萬元。"
+    },
+    {
+      "id": "5041104",
+      "time": "2026-08-14 17:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "技嘉：上半年營業利潤155.3億元新臺幣。"
+    },
     {
       "id": "5041103",
       "time": "2026-08-14 17:28:19",
