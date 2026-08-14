@@ -1,7 +1,136 @@
 {
   "date": "2026-08-14",
-  "count": 1576,
+  "count": 1589,
   "items": [
+    {
+      "id": "5040872",
+      "time": "2026-08-14 16:20:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深高速：控股子公司2026年中期營收4.02億元】深高速公告稱，其控股子公司灣區發展於2026年8月14日釋出2026年中期業績。上半年，灣區發展營收約4.02億元，稅前利潤約3.96億元，歸屬股東淨利潤約2.83億元。截至6月30日，總資產約143.74億元，淨資產約83.63億元。同時，灣區發展建議派發2026年中期股息約2.83億元，每股8.50分（含稅）。"
+    },
+    {
+      "id": "5040871",
+      "time": "2026-08-14 16:20:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保稅科技：上半年歸母淨利潤4785.69萬元，同比下降1.67%】保稅科技8月14日披露半年報，公司上半年實現營業收入3.71億元，同比下降11.80%；歸屬於上市公司股東的淨利潤4785.69萬元，同比下降1.67%；基本每股收益0.04元/股。"
+    },
+    {
+      "id": "mkt:019fff5b-5a63-7aab-9039-c84a0dd9c2a1",
+      "time": "2026-08-14 16:20:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Acting Bryansk regional governor said Ukrainian armed forces launched a missile attack on Bryansk; authorities are working to mitigate the consequences."
+    },
+    {
+      "id": "mkt:019fff5a-a5fb-7aab-9039-c2db7e53cc3e",
+      "time": "2026-08-14 16:19:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said it struck trains carrying Ukrainian military equipment in the Odesa, Zaporizhia and Sumy regions."
+    },
+    {
+      "id": "5040870",
+      "time": "2026-08-14 16:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開勒股份：終止收購東莞市科盛機電不低於50%股權】開勒股份公告稱，公司於2025年10月22日披露擬現金收購科盛機電股東黃漢樂、李軒、李細柳持有的該公司不低於50%股權。自簽署意向協議後，公司積極推進相關工作，但因交易雙方未能就關鍵條款達成一致，結合公司發展戰略及經營情況，決定終止本次股權收購意向事項，並簽署《關於<收購意向協議>之終止協議》。本次收購尚處籌劃階段，終止不會對公司財務和經營狀況產生重大影響。"
+    },
+    {
+      "id": "mkt:019fff5a-0585-7aab-9039-bb51327134d1",
+      "time": "2026-08-14 16:18:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00981.HK",
+        "Impact bullish",
+        "09618.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng down 1.1% as tech stocks weaken】Hong Kong stocks fell; the Hang Seng Index closed down 1.1% at 25,116.85 and the Hang Seng Tech Index slipped 1.77% to 4,707.62. Turnover was HKD 254.18 bln, versus HKD 263.71 bln the prior session. Tech names underperformed all day—the tech index briefly fell over 2% intraday—and AI application stocks plunged in the afternoon. Semiconductors rallied early then gave back gains; nonferrous metals led sector advances. Post-results movers: China Gold International (02099.HK) +14.64%, GDS (09698.HK) +10.31%, SMIC (00981.HK) +4.81%, Hua Hong Hongli (01347.HK) -11.55%, JD.com (09618.HK) -10.41%."
+    },
+    {
+      "id": "5040869",
+      "time": "2026-08-14 16:18:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峽旅遊：子公司招標選定關聯方 涉1.31億元船舶建造等專案】三峽旅遊公告稱，公司控股子公司的全資子公司三峽遊輪公司就主題遊輪、微度假遊輪建造專案招標，確定鑫匯船舶為中標人，中標金額分別為3736.27萬元、7512.26萬元；全資子公司茅坪港公司就茅坪港水陸一體化運營建設專案水域部分招標，鑫匯船舶中標，金額1800萬元。鑫匯船舶為公司關聯方，交易已透過董事會審議，無需股東會審議和相關部門審批。年初至6月30日，公司與該關聯方累計關聯交易9026.15萬元。"
+    },
+    {
+      "id": "5040868",
+      "time": "2026-08-14 16:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證指數公司：釋出中證全指電子元件指數】中證指數有限公司將於2026年8月17日正式釋出中證全指電子元件指數，為市場提供更豐富的投資標的。 中證全指電子元件指數從中證全指樣本中選取屬於電子元件行業（中證三級行業）的上市公司證券作為指數樣本，反映電子元件行業的整體表現。"
+    },
+    {
+      "id": "mkt:019fff59-ad18-7aab-9039-b014cae3454e",
+      "time": "2026-08-14 16:18:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Sanctions create 'Red Sea paradox': compliant Urals tankers forced to round Cape of Good Hope?】Russian Urals crude from west Russian ports to Asia normally transits the Red Sea. Compliant tankers operating under Western constraints depend on P&I clubs and war-risk cover; rising Red Sea risk has prompted insurers to tighten cover and in some cases require insured ships to avoid the Bab el-Mandeb. Sanctioned \"shadow fleet\" vessels, which use little Western insurance or maritime services, are not bound by those insurer no-sail constraints and can continue to use the shorter Red Sea route. The split is imposing higher insurance and rerouting costs on compliant ships—detours around the Cape of Good Hope add several weeks to voyages and materially raise freight—giving sanctioned vessels a marked transport-cost advantage."
+    },
+    {
+      "id": "mkt:019fff59-8731-7aab-9039-aeedf97b7e4f",
+      "time": "2026-08-14 16:18:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【ING: EUR/USD appears undervalued; modest appreciation over coming weeks】ING analyst Francesco Pesole says EUR/USD appears undervalued and should appreciate modestly over the next few weeks. His model puts short-term fair value at 1.1600–1.1650, driven primarily by a narrowing 2yr swap spread. He cautions EUR/USD is unlikely to clear 1.16 in the next few days unless the Fed acts to suppress market rate‑hike bets."
+    },
+    {
+      "id": "5040867",
+      "time": "2026-08-14 16:18:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金祿電子：2026年上半年淨利潤5563.48萬元，同比增長6.26%】金祿電子公告，2026年上半年營業收入13.39億元，同比增長43.47%。淨利潤5563.48萬元，同比增長6.26%；扣非淨利潤5423.41萬元，同比增長16.63%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5040866",
+      "time": "2026-08-14 16:17:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世嘉科技：2026年上半年淨利潤虧損4070.09萬元】世嘉科技公告，2026年上半年營業收入4.08億元，同比下降0.72%。淨利潤虧損4070.09萬元，上年同期淨利潤虧損4460.86萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5040865",
+      "time": "2026-08-14 16:17:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順威股份：定增申請獲深交所受理】順威股份公告，公司近日收到深交所出具的《受理通知》（深證上審〔2026〕246號），深交所對公司報送的以簡易程式向特定物件發行股票的申請檔案進行了核對，認為申請檔案齊備，決定予以受理。該事項尚需經深交所稽核透過，並獲中國證監會同意註冊的批覆後方可實施，最終能否透過及時間仍存在不確定性。"
+    },
     {
       "id": "5040863",
       "time": "2026-08-14 16:16:23",
