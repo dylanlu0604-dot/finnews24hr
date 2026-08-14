@@ -1,7 +1,66 @@
 {
   "date": "2026-08-15",
-  "count": 186,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:01a001be-7be2-7aab-9044-e483c54a53f6",
+      "time": "2026-08-15 03:27:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he does not care about damaging Iran's economy ahead of the midterm elections."
+    },
+    {
+      "id": "mkt:01a001bc-59ca-7aab-9044-dbc4ce416d59",
+      "time": "2026-08-15 03:25:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.3% to 99.667 on 14th】The dollar index (DXY), which tracks the US dollar against six major currencies, fell 0.3% to 99.667 at the New York FX close. EUR/USD rose to 1.1566 from 1.1529; GBP/USD to 1.3533 from 1.3485. USD/JPY eased to 159.38 from 159.51; USD/CHF to 0.8131 from 0.8139; USD/CAD to 1.3877 from 1.3936; USD/SEK to 9.5246 from 9.5684."
+    },
+    {
+      "id": "5041913",
+      "time": "2026-08-15 03:25:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數14日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.3%，在匯市尾市收於99.667。截至紐約匯市尾市，1歐元兌換1.1566美元，高於前一交易日的1.1529美元；1英鎊兌換1.3533美元，高於前一交易日的1.3485美元。1美元兌換159.38日元，低於前一交易日的159.51日元；1美元兌換0.8131瑞士法郎，低於前一交易日的0.8139瑞士法郎；1美元兌換1.3877加元，低於前一交易日的1.3936加元；1美元兌換9.5246瑞典克朗，低於前一交易日的9.5684瑞典克朗。"
+    },
+    {
+      "id": "5041912",
+      "time": "2026-08-15 03:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示：不在乎是否在中期選舉前打擊伊朗經濟。"
+    },
+    {
+      "id": "5041911",
+      "time": "2026-08-15 03:24:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約正朝著糟糕的方向發展，我要改變它。"
+    },
+    {
+      "id": "mkt:01a001bb-fd0a-7aab-9044-d3eb58cd930d",
+      "time": "2026-08-15 03:24:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil futures rise on 14th】At the close on the 14th, NYMEX September light sweet crude futures rose $1.15 to $82.40 per barrel, up 1.42%. ICE Brent October futures rose $1.45 to $88.52 per barrel, up 1.67%."
+    },
     {
       "id": "5041910",
       "time": "2026-08-15 03:23:50",
