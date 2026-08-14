@@ -1,7 +1,26 @@
 {
   "date": "2026-08-15",
-  "count": 144,
+  "count": 146,
   "items": [
+    {
+      "id": "te:markets:575530",
+      "time": "2026-08-15 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rises by 2.62% — Top commodity gainers are Methanol (2.62%), Germany Natural Gas THE (1.48%), Gasoline (1.45%), Brent Crude Oil (1.31%) and Crude Oil WTI (1.22%)."
+    },
+    {
+      "id": "mkt:01a0017b-4717-7aab-9044-4fea626edd53",
+      "time": "2026-08-15 02:14:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House press secretary Leavitt said the administration has additional tools available to pressure Iran."
+    },
     {
       "id": "mkt:01a00179-f0b0-7aab-9044-450a49a5c36c",
       "time": "2026-08-15 02:12:43",

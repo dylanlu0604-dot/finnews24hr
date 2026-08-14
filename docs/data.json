@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-15 02:13:20",
-  "count": 15343,
+  "updated": "2026-08-15 02:17:14",
+  "count": 15338,
   "items": [
+    {
+      "id": "te:markets:575530",
+      "time": "2026-08-15 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rises by 2.62% — Top commodity gainers are Methanol (2.62%), Germany Natural Gas THE (1.48%), Gasoline (1.45%), Brent Crude Oil (1.31%) and Crude Oil WTI (1.22%)."
+    },
+    {
+      "id": "mkt:01a0017b-4717-7aab-9044-4fea626edd53",
+      "time": "2026-08-15 02:14:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House press secretary Leavitt said the administration has additional tools available to pressure Iran."
+    },
     {
       "id": "mkt:01a00179-f0b0-7aab-9044-450a49a5c36c",
       "time": "2026-08-15 02:12:43",
@@ -140317,69 +140336,6 @@
         "ITA"
       ],
       "text": "【Pentagon plans year-end test of space missile interceptor, advancing Golden Dome programme】Sources say the Pentagon plans a first test of its space-based missile-intercept project before year-end and a flight demonstration in 2027 for the unproven technology. The milestones feed into President Trump’s $185 billion Golden Dome defence programme. The administration has allocated $3.2 billion to develop a weaponised satellite prototype capable of destroying missiles, and related contracts could total several tens of billions of dollars."
-    },
-    {
-      "id": "mkt:019fdd70-399b-7aab-8fbf-f7810c8f2a72",
-      "time": "2026-08-08 02:15:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Pentagon plans to conduct the first test of its futuristic space-based missile-defense program before year-end."
-    },
-    {
-      "id": "5031484",
-      "time": "2026-08-08 02:15:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院投票確認戴維·卡明斯（David Cummins）出任美國運輸安全管理局局長，確認菲蘭（Phelan）擔任經濟顧問委員會主席。"
-    },
-    {
-      "id": "te:markets:573877",
-      "time": "2026-08-08 02:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Rises by 1.53% — Top commodity gainers are Gasoline (1.53%), Methanol (1.46%), Natural gas (1.45%), Brent Crude Oil (1.23%) and Crude Oil WTI (1.22%). Biggest loser is Natural Gas UK (-0.70%)."
-    },
-    {
-      "id": "mkt:019fdd6f-7066-7aab-8fbf-e8b6c5c67ecc",
-      "time": "2026-08-08 02:14:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Senate voted to confirm David Cummins as administrator of the Transportation Security Administration and Phelan as chair of the Council of Economic Advisers."
-    },
-    {
-      "id": "mkt:019fdd6e-f4e4-7aab-8fbf-e56a25dd015c",
-      "time": "2026-08-08 02:14:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign minister Araghchi said Iran's armed forces have demonstrated their readiness, capability and strength when facing the world's most expensive military force."
-    },
-    {
-      "id": "5031483",
-      "time": "2026-08-08 02:13:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長表示，面對全球軍費開支最高的軍隊，伊朗實力強大的武裝部隊已展現出自身的備戰狀態、作戰能力與軍事力量。"
-    },
-    {
-      "id": "5031482",
-      "time": "2026-08-08 02:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院確認BRETT MATSUMOTO擔任勞工統計局局長。"
     }
   ]
 }
