@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 07:32:08_
-_本檔包含 3171 則快訊，約 603430 字_
+_更新時間：2026-08-15 07:55:40_
+_本檔包含 3169 則快訊，約 603890 字_
+
+---
+
+### 2026-08-11 20:11:59  #MKT News
+
+【China-Indonesia local government cooperation dialogue held in Yogyakarta】A China–Indonesia local government cooperation dialogue took place in Yogyakarta on the 11th, co-hosted by the Chinese People's Association for Friendship with Foreign Countries, the Chinese consulate in Surabaya, UCLG-ASPAC and the Yogyakarta city government. Delegates exchanged on governance, poverty reduction, practical cooperation, cultural exchange and local governance, signing multiple cooperation agreements and issuing a joint declaration.
+
+---
+
+### 2026-08-11 20:11:52  #國際
+
+【中國-印度尼西亞地方政府合作對話會在日惹舉行】由中國人民對外友好協會、中國駐泗水總領館、世界城市和地方政府聯合組織亞太區和印度尼西亞日惹市政府共同主辦的中國-印尼地方政府合作對話會11日在日惹市政廳成功舉行。中國人民對外友好協會會長楊萬明、中國駐泗水總領事葉素和來自中國12個省（區、市）的27個地方政府和18家企業代表，以及世界城市和地方政府聯合組織亞太區秘書長伯納迪婭·詹德拉德維和來自印尼15個地方政府的主要負責人和代表，印尼對華友好組織、企業、高校代表等近200人出席。（新華社）
+
+---
+
+### 2026-08-11 20:10:52  #公司
+
+【於穎銳任中國核動力研究設計院總工程師】據中國核動力研究設計院（簡稱“核動力院”）微信公眾號訊息，2026年8月11日，受中核集團人力資源部委託，中國核動力研究設計院召開幹部宣佈會。會議宣佈，集團公司決定，聘任於穎銳為核動力院總工程師。（澎湃）
+
+---
+
+### 2026-08-11 20:10:25  #其他
+
+【國家防總、應急管理部針對山西啟動防汛四級應急響應】據氣象部門預報，未來三天，受颱風“白海豚”殘餘環流和冷空氣共同影響，山西東部有暴雨或大暴雨。中央氣象臺8月11日18時釋出暴雨橙色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月11日19時針對山西啟動防汛四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-11 20:10:12  #公司 #國際
+
+【特朗普媒體科技集團上半年鉅虧超6億美元：放棄加密貨幣，豪賭核聚變】據英國《金融時報》訊息，美國總統特朗普的媒體公司第二季度虧損嚴重。該公司放棄了加密貨幣交易，推動出售快速獲取其“真相社交”(Truth Social)帖子許可權的計劃，並將重點轉向商業化前景尚未得到驗證的核聚變領域。該公司表示，今年將繼續推進與TAE科技達成的這項規模超過60億美元的合併交易。這家能源公司目前尚未從聚變業務中獲得任何收入，但計劃於2031年讓一座工廠投入運營。（中新經緯）
+
+---
+
+### 2026-08-11 20:09:05  #公司 #市場
+
+【芝商所白銀24小時全天候交易將於9月11日啟動】芝商所（CME）今日宣佈，旗下100盎司白銀期貨合約將於2026年9月11日起擴充套件至全天候交易，尚待監管稽核。芝加哥商品交易所集團董事總經理兼金屬業務全球主管Jin Hennig表示：“白銀連線著貴金屬與工業金屬兩大世界，對投資者而言既是多元化配置工具，又同時響應宏觀經濟訊息和實體需求，我們的零售客戶對1盎司黃金期貨在隨時需要時均可交易表現出強烈需求，因此我們現在將同樣的全天候交易許可權延伸至白銀，幫助參與者管理風險並把握機會。”自7月24日1盎司黃金期貨推出全天候交易以來，新增的週末交易時段累計成交逾5.3萬份合約，名義價值約2.19億美元，已成為黃金期貨週末交易中流動性最充裕的市場。
+
+---
+
+### 2026-08-11 20:08:21  #宏觀 #公司
+
+【小菜園回應“顧客用餐盤投餵寵物狗”】8月11日，小菜園釋出關於小菜園長沙嶽麓王府井店顧客用餐盤投餵寵物狗的情況說明。近日，有媒體報道公司（小菜園長沙嶽麓王府井店），有顧客使用餐具投餵寵物的相關情況。事件發生後公司高度重視，第一時間成立工作小組進行調查處置，目前已進行了妥善處理。事件發生後，當值服務人員第一時間按照食品安全級別事件向店長進行了彙報，店長、區域經理按食品安全預案向公司相關部門進行報告，公司立即啟動食品安全相關預案，向市場監管部門進行報備後指導門店第一時間封存並銷燬全部餐具。於8月10日在長沙嶽麓王府井店涉事時間段用餐的所有顧客，全部退還當餐餐費，並進行十倍餐費補償。其他具體補償措施，公司將與當日相關時段用餐的顧客逐一取得聯絡，並達成顧客滿意。
+
+---
+
+### 2026-08-11 20:08:00  #MKT News #Important #Commodities #Precious Metals
+
+【CME to extend 24/7 trading to 100‑oz silver futures from Sept. 11, 2026 (pending approval)】CME said it will extend 24/7 trading to its 100‑ounce silver futures effective Sept. 11, 2026, pending regulatory approval. Jin Hennig, managing director and global head of metals at CME Group, said silver sits between precious and industrial metals and clients have sought the same round‑the‑clock access as 1‑ounce gold futures. Since the July 24 rollout of 24/7 trading for 1‑ounce gold futures, added weekend sessions have traded over 53,000 contracts, with nominal value about $219m, making it the most liquid market for gold futures weekend trading.
+
+---
+
+### 2026-08-11 20:07:59  #其他
+
+波羅的海航空公佈轉型及債務削減計劃。
+
+---
+
+### 2026-08-11 20:06:49  #MKT News #Commodities #Precious Metals #XAUUSD
+
+CME Group said since launching on July 24, weekend trading turnover in 1-ounce gold futures has exceeded $200 million.
+
+---
+
+### 2026-08-11 20:06:46  #MKT News
+
+【Shanghai neutral-atom quantum computing firm Buchou Quantum raises several hundred million yuan in A round; cumulative funding near 1 bln yuan】Buchou Quantum, a Shanghai neutral-atom quantum computing company, said it has completed an A round of several hundred million yuan, bringing total financing to nearly 1 billion yuan. Investors include Guotai Haitong, Jinding Capital, Zhongxin Juyuan, Shanghai Sci‑Tech Innovation Group, a CITIC-affiliated fund, TCL Ventures and other strategic and industrial backers. Proceeds will be used for core neutral-atom quantum computing R&D, engineering and productization of full systems and key modules, core team build-out, and expansion of the quantum computing application ecosystem.
 
 ---
 
@@ -19031,91 +19097,5 @@ Rwanda Annual Inflation Accelerates Further — Rwanda’s annual inflation rate
 ### 2026-08-10 17:34:23  #Trading Economics #Economy #Mongolia #Inflation Rate #Importance 1
 
 Mongolia Inflation Rate Hits Over 3-Year High — The annual inflation rate in Mongolia rose to 13.0% year-on-year in July 2026 from 12.0% in the previous month, reaching its highest level since December 2022. Prices accelerated for food and non-alcoholic beverages (25.5% vs 24.8% in June), alcoholic beverages and tobacco (12.6% vs 12.0%), transport (10.0% vs 5.7%), clothing and footwear (7.2% vs 7.0%), furnishings, household equipment and tools (8.7% vs 8.0%), health (7.5% vs 7.2%), recreation and culture (6.6% vs 5.5%), restaurants and hotels (16.2% vs 15.2%), and miscellaneous goods and services (9.8% vs 9.1%). Meanwhile, inflation eased slightly for housing and utilities (5.1% vs 5.3%) while remaining unchanged for communication (1.6%), education (12.8%), and insurance and financial services (17.0%). On a monthly basis, consumer prices rose 0.9% in July, edging down from 1.0% in the previous month.
-
----
-
-### 2026-08-10 17:33:43  #宏觀
-
-【市場監管總局批准釋出一批重要國家標準】近日，市場監管總局（國家標準委）批准釋出338項重要國家標準。其中，強制性國家標準15項，推薦性國家標準323項，涉及高新技術領域、傳統產業、安全生產、百姓生活等方面。該批標準釋出後將在推動產業高質量發展、提升人民群眾生活品質、保障生命財產安全等方面發揮重要作用。
-
----
-
-### 2026-08-10 17:33:13  #MKT News
-
-【India proposes law to limit state mining taxes, centralise regulation】The Modi government has introduced a bill in parliament to restrict states' powers to regulate or tax mineral rights and mineral-bearing land and to impose nationwide, uniform mining rules. Under the draft legislation New Delhi would be able to set conditions and caps on taxes and other charges levied by regional authorities, saying cumulative levies should not be disproportionate to a mine's economic value and profitability. The proposal notes that despite adequate domestic resources, domestic mineral supply has become costly and there is a risk of rising imports. The move could curtail a material revenue source for mineral-rich states and heighten tensions between New Delhi and state governments.
-
----
-
-### 2026-08-10 17:32:42  #公司 #市場
-
-【上海期貨交易所：對部分客戶採取限制開倉監管措施】上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告：2026年8月10日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。
-
----
-
-### 2026-08-10 17:32:20  #資料 #央行 #國際
-
-【美銀：7月CPI重要性高於就業報告 仍預計美聯儲9月啟動加息】美國銀行在最新研報中表示，7月就業報告整體略偏“鴿派”，但不足以改變美聯儲的政策路徑，接下來公佈的7月消費者價格指數（CPI）將成為更重要的政策訊號。該行維持美聯儲從9月開始、累計加息75個基點的預測。
-
----
-
-### 2026-08-10 17:32:19  #MKT News #Brent #Impact bullish #WTI
-
-Ukrainian military says it struck the Taneco refinery in Russia's Republic of Tatarstan.
-
----
-
-### 2026-08-10 17:32:05  #央行 #美聯儲
-
-【美銀：7月CPI重要性高於就業報告 仍預計美聯儲9月啟動加息】美國銀行在最新研報中表示，7月就業報告整體略偏“鴿派”，但不足以改變美聯儲的政策路徑，接下來公佈的7月消費者價格指數（CPI）將成為更重要的政策訊號。該行維持美聯儲從9月開始、累計加息75個基點的預測。
-
----
-
-### 2026-08-10 17:32:01  #MKT News
-
-Southbound Stock Connect net inflow CNY 2.021 bln today. Via Shanghai Connect, one stock and Zhipu net bought HKD 833 mln and HKD 560 mln respectively; SMIC was the largest net seller at HKD 139 mln. Via Shenzhen Connect, GenScript Biotech and Xiaomi Corp -W net bought HKD 472 mln and HKD 195 mln respectively; SMIC led net selling with HKD 313 mln.
-
----
-
-### 2026-08-10 17:31:54  #央行 #國際
-
-【今日特朗普要聞】
-1、伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”
-2、特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。
-3、近日，美國白宮國家經濟委員會主任凱文·哈西特在接受採訪時證實，美國總統特朗普與新任美聯儲主席凱文·沃什經常通話討論經濟問題。
-4、以色列總理本傑明·內塔尼亞胡拒絕了由美國支援的調解方提出的哈馬斯解除武裝提議，此前他對以色列應以分階段從加沙撤軍作為回應的建議表示了疑慮，此後其立場進一步強硬。
-5、美國媒體9日援引一名美國高階官員的話報道稱，白宮“並不在意”以色列總理內塔尼亞胡拒絕接受加沙和平計劃，並稱他的這一表態是出於選舉週期中的“政治需要”。
-6、北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。
-7、特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！
-8、特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。
-
----
-
-### 2026-08-10 17:31:09  #市場
-
-【合盛矽業今日大宗交易溢價成交359.77萬股，成交額1.29億元】8月10日，合盛矽業大宗交易成交359.77萬股，成交額1.29億元，佔當日總成交額的28.34%，成交價35.95元，較市場收盤價35.53元溢價1.18%。
-
----
-
-### 2026-08-10 17:31:02  #公司
-
-市場訊息： 國際石油公司公佈常規發行人要約收購結果。
-
----
-
-### 2026-08-10 17:30:39  #公司
-
-【ST東時：“東時轉債”到期違約 面臨多項風險及訴訟】ST東時公告稱，“東時轉債”於2026年4月8日到期，公司無法按時償付本息，構成違約。公司還面臨持續經營、債務逾期、破產重整不確定、行政處罰等風險，股票已被疊加實施其他風險警示。此外，公司及子公司涉及多起訴訟，如孫公司東方時尚民權機場被訴償還6220萬元借款及利息；公司起訴北京山興園林綠化等退還多支付土地使用費、賠償經濟損失等。相關訴訟結果存在不確定性。
-
----
-
-### 2026-08-10 17:30:22  #其他
-
-【上海：加快培育工業軟體領軍企業 支援企業積極拓展境外市場】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》。《方案》提出：創新發展電信、計算機和資訊服務。加快培育工業軟體領軍企業，支援企業積極拓展境外市場。
-
----
-
-### 2026-08-10 17:29:43  #公司
-
-【永和智控：兩起訴訟案件取得進展，涉案金額共638.59萬元】永和智控公告稱，前期已披露累計訴訟、仲裁事項中，2項案件取得新進展。其中，達州醫科腫瘤醫院有限公司等與重慶近水生物科技有限公司的合同糾紛案件，涉案金額620萬元，原告已撤訴；江蘇森標科技有限公司對公司的訴訟，涉案金額18.59萬元，已當庭對公司撤訴。部分訴訟案件尚未結案，對公司利潤影響不確定。
 
 ---

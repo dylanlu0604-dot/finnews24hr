@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 07:32:08_
-_本檔包含 3085 則快訊，約 603523 字_
+_更新時間：2026-08-15 07:55:40_
+_本檔包含 3088 則快訊，約 602899 字_
+
+---
+
+### 2026-08-12 22:12:04  #國際
+
+巴勒斯坦總統抵達土耳其，與土耳其總統埃爾多安舉行會談。
+
+---
+
+### 2026-08-12 22:11:41  #其他
+
+市場訊息：喬希・庫什納、鮑勃・艾格擬以 120 億美元收購湖人隊。
+
+---
+
+### 2026-08-12 22:10:27  #其他
+
+SK海力士股價漲幅擴大至8.25%，報153.335美元/股，總市值報1.12萬億美元。
+
+---
+
+### 2026-08-12 22:10:19  #國際
+
+【韓國前總統尹錫悅面臨新指控】據韓聯社12日報道，韓國第二綜合特別檢察組當天以傳播“緊急戒嚴正當化資訊”為由，起訴前總統尹錫悅和前國家安保室長申源湜。尹錫悅先後所涉刑事訴訟案件增至9起。 特檢組表示，尹錫悅涉嫌在宣佈“12·3”緊急戒嚴後，立即透過國家安保室和外交部，指示向美國、英國、日本、歐盟等方面傳達有關“緊急戒嚴是正當的”的資訊，涉嫌濫用職權妨礙權利行使罪，即濫用職權令公務員從事非義務工作。 特檢組還表示，申源湜被查明於戒嚴次日與前國家安保室第一次長金泰孝一起，向國家情報院提出“向友邦國家說明緊急戒嚴背景”的要求，並傳達了尹錫悅的資訊。特檢組認為，申源湜上述行為讓國家安保室和外交部等部門所屬公務員從事了他們沒有義務承擔的工作。 截至此次案件，尹錫悅已先後身陷9起刑事訴訟，其中1起已完成終審判決，但系列案件中最核心的尹錫悅涉內亂頭目案目前仍在首爾高等法院二審審理中。(新華社)
+
+---
+
+### 2026-08-12 22:08:57  #MKT News
+
+Google will add an insulin-trend tracking feature to Watch5 and Fitbit Air.
+
+---
+
+### 2026-08-12 22:08:25  #MKT News
+
+Death toll from Colombia earthquake reaches 202.
+
+---
+
+### 2026-08-12 22:07:46  #Trading Economics #Markets #Euro Area #Currency #Importance 0
+
+Euro Near 2-Month Highs — The euro has been trading around $1.15 in August, near two-month highs, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September.
+
+---
+
+### 2026-08-12 22:07:07  #其他
+
+世界衛生組織總幹事：我們在應對埃博拉疫情方面仍處於追趕狀態。
+
+---
+
+### 2026-08-12 22:05:43  #市場 #焦點
+
+玻璃連續主力合約日內跌2%，現報870.00元。
+
+---
+
+### 2026-08-12 22:04:37  #MKT News #Star Stocks #Tencent #0700.HK #Impact bearish
+
+【Tencent says new AI products cut non‑GAAP operating profit by CNY10.5bn in 2026 Q2, president says】Tencent’s 2026 Q2 results show new AI products — Hunyuan, Yuanbao, WorkBuddy, CodeBuddy and XiaoWei — reduced non‑GAAP operating profit by CNY10.5bn, a marked increase from Q1. President Liu Zhiping said investment allocations are highly dynamic: Tencent will be cautious until it sees a clear breakout, then scale up spending. He said WorkBuddy is currently prioritized due to explosive growth, lowering priority for other AI projects. Liu added economic benefits should emerge over time and the company could switch to a compute‑rental model — which he said would be profitable — as a fallback, giving Tencent confidence.
+
+---
+
+### 2026-08-12 22:04:23  #其他
+
+世界衛生組織總幹事就埃博拉疫情召開新聞釋出會。
+
+---
+
+### 2026-08-12 22:04:08  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+Alphabet (GOOG.O) shares hit an intraday low, down 0.5%, after Google raised prices on its new phones.
+
+---
+
+### 2026-08-12 22:03:47  #市場
+
+ALPHABET股價觸及盤中低點，下跌0.5%。
+
+---
+
+### 2026-08-12 22:03:36  #公司
+
+【二季度新AI產品影響105億利潤，騰訊總裁劉熾平回應】8月12日，騰訊釋出的2026Q2財報顯示，該季度混元、元寶、WorkBuddy、CodeBuddy、小微等AI產品對Non-GAAP營業利潤的影響為105億元，相較於一季度明顯增加。騰訊總裁劉熾平在談及騰訊如何分配AI產品投入時表示，目前情況非常動態。在看到真正爆發的機會之前，騰訊的投資會比較謹慎，一旦看到機會就會加大投入，整體會著眼於長遠進行投資。例如，WorkBuddy 正在爆發式增長，所以當下優先投入了WorkBuddy，也降低了其他一些產品的優先順序。隨著時間推移，經濟效益會逐漸顯現，到某個時候自然能實現盈利。他強調，如果騰訊把商業模式直接改成單純出租算力，那不僅不會虧損，反而會盈利。騰訊始終有這個備選方案，這也讓騰訊“比較有底氣”。
 
 ---
 
@@ -18554,71 +18638,5 @@ Mexico Industrial Activity Rises More Than Expected — Mexico’s industrial pr
 ### 2026-08-11 20:12:10  #公司
 
 【快手釋出關於違規微短劇的治理公告】根據國家廣播電視總局和北京市廣播電視局的部署要求，平臺持續強化微短劇稽核巡檢與日常管理，對片名低俗、內容粗劣等問題，以及危害未成年人身心健康、美化畸形婚戀關係、宣揚極端暴力等違規內容，持續加大治理力度；對違規劇集以“換馬甲”方式反覆傳播的行為予以嚴厲打擊。同時，進一步加強對兒童類微短劇的管理，圍繞兒童角色成人化、物慾化，情節設定低俗化、極端化等重點問題，持續深化治理。近期，依照網路視聽管理相關要求及社群規則，平臺累計前置攔截、整改、下架違規微短劇（含動畫微短劇）四百餘部，並處置了一批違規賬號。
-
----
-
-### 2026-08-11 20:11:59  #MKT News
-
-【China-Indonesia local government cooperation dialogue held in Yogyakarta】A China–Indonesia local government cooperation dialogue took place in Yogyakarta on the 11th, co-hosted by the Chinese People's Association for Friendship with Foreign Countries, the Chinese consulate in Surabaya, UCLG-ASPAC and the Yogyakarta city government. Delegates exchanged on governance, poverty reduction, practical cooperation, cultural exchange and local governance, signing multiple cooperation agreements and issuing a joint declaration.
-
----
-
-### 2026-08-11 20:11:52  #國際
-
-【中國-印度尼西亞地方政府合作對話會在日惹舉行】由中國人民對外友好協會、中國駐泗水總領館、世界城市和地方政府聯合組織亞太區和印度尼西亞日惹市政府共同主辦的中國-印尼地方政府合作對話會11日在日惹市政廳成功舉行。中國人民對外友好協會會長楊萬明、中國駐泗水總領事葉素和來自中國12個省（區、市）的27個地方政府和18家企業代表，以及世界城市和地方政府聯合組織亞太區秘書長伯納迪婭·詹德拉德維和來自印尼15個地方政府的主要負責人和代表，印尼對華友好組織、企業、高校代表等近200人出席。（新華社）
-
----
-
-### 2026-08-11 20:10:52  #公司
-
-【於穎銳任中國核動力研究設計院總工程師】據中國核動力研究設計院（簡稱“核動力院”）微信公眾號訊息，2026年8月11日，受中核集團人力資源部委託，中國核動力研究設計院召開幹部宣佈會。會議宣佈，集團公司決定，聘任於穎銳為核動力院總工程師。（澎湃）
-
----
-
-### 2026-08-11 20:10:25  #其他
-
-【國家防總、應急管理部針對山西啟動防汛四級應急響應】據氣象部門預報，未來三天，受颱風“白海豚”殘餘環流和冷空氣共同影響，山西東部有暴雨或大暴雨。中央氣象臺8月11日18時釋出暴雨橙色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月11日19時針對山西啟動防汛四級應急響應。（央視新聞）
-
----
-
-### 2026-08-11 20:10:12  #公司 #國際
-
-【特朗普媒體科技集團上半年鉅虧超6億美元：放棄加密貨幣，豪賭核聚變】據英國《金融時報》訊息，美國總統特朗普的媒體公司第二季度虧損嚴重。該公司放棄了加密貨幣交易，推動出售快速獲取其“真相社交”(Truth Social)帖子許可權的計劃，並將重點轉向商業化前景尚未得到驗證的核聚變領域。該公司表示，今年將繼續推進與TAE科技達成的這項規模超過60億美元的合併交易。這家能源公司目前尚未從聚變業務中獲得任何收入，但計劃於2031年讓一座工廠投入運營。（中新經緯）
-
----
-
-### 2026-08-11 20:09:05  #公司 #市場
-
-【芝商所白銀24小時全天候交易將於9月11日啟動】芝商所（CME）今日宣佈，旗下100盎司白銀期貨合約將於2026年9月11日起擴充套件至全天候交易，尚待監管稽核。芝加哥商品交易所集團董事總經理兼金屬業務全球主管Jin Hennig表示：“白銀連線著貴金屬與工業金屬兩大世界，對投資者而言既是多元化配置工具，又同時響應宏觀經濟訊息和實體需求，我們的零售客戶對1盎司黃金期貨在隨時需要時均可交易表現出強烈需求，因此我們現在將同樣的全天候交易許可權延伸至白銀，幫助參與者管理風險並把握機會。”自7月24日1盎司黃金期貨推出全天候交易以來，新增的週末交易時段累計成交逾5.3萬份合約，名義價值約2.19億美元，已成為黃金期貨週末交易中流動性最充裕的市場。
-
----
-
-### 2026-08-11 20:08:21  #宏觀 #公司
-
-【小菜園回應“顧客用餐盤投餵寵物狗”】8月11日，小菜園釋出關於小菜園長沙嶽麓王府井店顧客用餐盤投餵寵物狗的情況說明。近日，有媒體報道公司（小菜園長沙嶽麓王府井店），有顧客使用餐具投餵寵物的相關情況。事件發生後公司高度重視，第一時間成立工作小組進行調查處置，目前已進行了妥善處理。事件發生後，當值服務人員第一時間按照食品安全級別事件向店長進行了彙報，店長、區域經理按食品安全預案向公司相關部門進行報告，公司立即啟動食品安全相關預案，向市場監管部門進行報備後指導門店第一時間封存並銷燬全部餐具。於8月10日在長沙嶽麓王府井店涉事時間段用餐的所有顧客，全部退還當餐餐費，並進行十倍餐費補償。其他具體補償措施，公司將與當日相關時段用餐的顧客逐一取得聯絡，並達成顧客滿意。
-
----
-
-### 2026-08-11 20:08:00  #MKT News #Important #Commodities #Precious Metals
-
-【CME to extend 24/7 trading to 100‑oz silver futures from Sept. 11, 2026 (pending approval)】CME said it will extend 24/7 trading to its 100‑ounce silver futures effective Sept. 11, 2026, pending regulatory approval. Jin Hennig, managing director and global head of metals at CME Group, said silver sits between precious and industrial metals and clients have sought the same round‑the‑clock access as 1‑ounce gold futures. Since the July 24 rollout of 24/7 trading for 1‑ounce gold futures, added weekend sessions have traded over 53,000 contracts, with nominal value about $219m, making it the most liquid market for gold futures weekend trading.
-
----
-
-### 2026-08-11 20:07:59  #其他
-
-波羅的海航空公佈轉型及債務削減計劃。
-
----
-
-### 2026-08-11 20:06:49  #MKT News #Commodities #Precious Metals #XAUUSD
-
-CME Group said since launching on July 24, weekend trading turnover in 1-ounce gold futures has exceeded $200 million.
-
----
-
-### 2026-08-11 20:06:46  #MKT News
-
-【Shanghai neutral-atom quantum computing firm Buchou Quantum raises several hundred million yuan in A round; cumulative funding near 1 bln yuan】Buchou Quantum, a Shanghai neutral-atom quantum computing company, said it has completed an A round of several hundred million yuan, bringing total financing to nearly 1 billion yuan. Investors include Guotai Haitong, Jinding Capital, Zhongxin Juyuan, Shanghai Sci‑Tech Innovation Group, a CITIC-affiliated fund, TCL Ventures and other strategic and industrial backers. Proceeds will be used for core neutral-atom quantum computing R&D, engineering and productization of full systems and key modules, core team build-out, and expansion of the quantum computing application ecosystem.
 
 ---

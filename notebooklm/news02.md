@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 07:32:08_
-_本檔包含 3087 則快訊，約 603792 字_
+_更新時間：2026-08-15 07:55:40_
+_本檔包含 3092 則快訊，約 603175 字_
+
+---
+
+### 2026-08-14 01:03:04  #市場 #焦點 #國際
+
+美國30年期國債拍賣收益率創2001年以來新高。
+
+---
+
+### 2026-08-14 01:02:36  #市場 #國際
+
+美國30年期國債收益率下降5.216%，低於預售時的5.212%。
+
+---
+
+### 2026-08-14 01:02:31  #其他
+
+市場訊息：Anthropic首席財務官的相關會議並未涉及估值談判。
+
+---
+
+### 2026-08-14 01:01:51  #其他 #焦點
+
+OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客戶群體開放有限預覽。
+
+---
+
+### 2026-08-14 01:01:31  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) to offer GEMINI 3.7 Flash at limited-time promotional pricing through year-end: input $0.75 per 1M tokens; output $3.75 per 1M tokens.
+
+---
+
+### 2026-08-14 01:01:03  #公司
+
+谷歌：3.7 Flash模型將以每百萬輸入token0.75美元、每百萬輸出token3.75美元的推介價格提供，直至年底。
+
+---
+
+### 2026-08-14 01:00:54  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) launches the Gemini 3.7 Flash model.
+
+---
+
+### 2026-08-14 01:00:46  #公司
+
+谷歌：推出GEMINI 3.7 FLASH。
+
+---
+
+### 2026-08-14 01:00:34  #國際
+
+美國聯邦儲備理事會(FED)資料顯示，8月12日當週，經非季節性調整的美國商業票據未償還金額減少11億美元。
+
+---
+
+### 2026-08-14 01:00:28  #央行 #國際
+
+美國聯邦儲備理事會(美聯儲/FED)資料顯示，8月12日當週，經非季節性調整的美國外國金融商業票據未償還餘額增加109億美元。。
+
+---
+
+### 2026-08-14 01:00:23  #國際
+
+美國聯邦儲備理事會(FED)資料顯示，8月12日當週經季節調整的美國商業票據未償還餘額增加16億美元。
+
+---
+
+### 2026-08-14 01:00:16  #國際
+
+美國機器人吸塵器品牌MATIC新增全語音控制選項。
+
+---
+
+### 2026-08-14 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收跌0.03%，滬鋁收跌0.62%，滬鋅收跌0.04%，滬鉛收跌0.81%，滬鎳收跌0.88%，滬錫收漲0.07%。氧化鋁夜盤收漲0.26%，鋁合金收跌0.90%。不鏽鋼夜盤收跌0.83%。
+
+---
+
+### 2026-08-14 00:59:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US forms first multinational UAS task force to bolster Middle East strike capability】CENTCOM announced on Aug. 13 it has formed a multi-domain, multinational unmanned systems strike task force, Falcon Strike, to integrate unmanned combat capability across the Middle East. Falcon Strike will field air, surface and subsurface one-way attack unmanned systems operated jointly by US and regional partner forces. The unit follows CENTCOM’s first dedicated UAS strike task force, Scorpion Strike, stood up nine months earlier; Scorpion achieved milestones including the first ship-launched aerial attack UAS in December and deployments in Operation Epic Anger and July strikes on Iranian port facilities. CENTCOM commander Brad Cooper said Falcon Strike will build on Scorpion Strike’s experience to integrate new US and partner capabilities into a unified multi-domain, multinational deterrent.
+
+---
+
+### 2026-08-14 00:56:39  #其他
+
+義大利內政部長：只有在西班牙北非飛地休達面臨的大規模移民湧入風險徹底化解後，義大利才會取消對西班牙的申根邊境臨時管控。
+
+---
+
+### 2026-08-14 00:55:04  #MKT News
+
+Italy's interior minister said Italy will only lift temporary Schengen border controls on Spain after the risk of a large-scale migrant influx into Ceuta, Spain's North African enclave, is fully resolved.
+
+---
+
+### 2026-08-14 00:53:50  #國際
+
+【烏軍稱襲擊俄西南部一大型煉油廠】當地時間13日，烏克蘭武裝部隊總參謀部在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。（央視新聞）
+
+---
+
+### 2026-08-14 00:53:32  #市場
+
+倫敦金屬交易所（LME）3個月期鎳期貨收盤下跌172美元，報每噸16,776美元。倫敦金屬交易所（LME）3個月期錫期貨收盤上漲36美元，報每噸55,854美元。
+
+---
+
+### 2026-08-14 00:52:44  #市場
+
+倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。
 
 ---
 
@@ -18507,89 +18621,5 @@ The US has launched a plan to accelerate trade in AI products among allied count
 ### 2026-08-12 22:13:29  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Extends Record Run — The S&P/TSX Composite Index edged higher to trade above 36,500, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC, TD Bank and BMO gaining more than 0.5%, while CIBC and Scotiabank rose nearly 1%. Most miners advanced amid higher gold prices, with Agnico Eagle and Barrick up more than 1.5%. Franco-Nevada fell 3% after missing earnings expectations. Constellation Software tumbled near 7% after revenue came in slightly below forecasts despite an EPS beat. Hydro One gained 2% after reporting higher profit, while Metro fell 2% after reporting weaker adjusted earnings in fiscal Q3.
-
----
-
-### 2026-08-12 22:12:04  #國際
-
-巴勒斯坦總統抵達土耳其，與土耳其總統埃爾多安舉行會談。
-
----
-
-### 2026-08-12 22:11:41  #其他
-
-市場訊息：喬希・庫什納、鮑勃・艾格擬以 120 億美元收購湖人隊。
-
----
-
-### 2026-08-12 22:10:27  #其他
-
-SK海力士股價漲幅擴大至8.25%，報153.335美元/股，總市值報1.12萬億美元。
-
----
-
-### 2026-08-12 22:10:19  #國際
-
-【韓國前總統尹錫悅面臨新指控】據韓聯社12日報道，韓國第二綜合特別檢察組當天以傳播“緊急戒嚴正當化資訊”為由，起訴前總統尹錫悅和前國家安保室長申源湜。尹錫悅先後所涉刑事訴訟案件增至9起。 特檢組表示，尹錫悅涉嫌在宣佈“12·3”緊急戒嚴後，立即透過國家安保室和外交部，指示向美國、英國、日本、歐盟等方面傳達有關“緊急戒嚴是正當的”的資訊，涉嫌濫用職權妨礙權利行使罪，即濫用職權令公務員從事非義務工作。 特檢組還表示，申源湜被查明於戒嚴次日與前國家安保室第一次長金泰孝一起，向國家情報院提出“向友邦國家說明緊急戒嚴背景”的要求，並傳達了尹錫悅的資訊。特檢組認為，申源湜上述行為讓國家安保室和外交部等部門所屬公務員從事了他們沒有義務承擔的工作。 截至此次案件，尹錫悅已先後身陷9起刑事訴訟，其中1起已完成終審判決，但系列案件中最核心的尹錫悅涉內亂頭目案目前仍在首爾高等法院二審審理中。(新華社)
-
----
-
-### 2026-08-12 22:08:57  #MKT News
-
-Google will add an insulin-trend tracking feature to Watch5 and Fitbit Air.
-
----
-
-### 2026-08-12 22:08:25  #MKT News
-
-Death toll from Colombia earthquake reaches 202.
-
----
-
-### 2026-08-12 22:07:46  #Trading Economics #Markets #Euro Area #Currency #Importance 0
-
-Euro Near 2-Month Highs — The euro has been trading around $1.15 in August, near two-month highs, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September.
-
----
-
-### 2026-08-12 22:07:07  #其他
-
-世界衛生組織總幹事：我們在應對埃博拉疫情方面仍處於追趕狀態。
-
----
-
-### 2026-08-12 22:05:43  #市場 #焦點
-
-玻璃連續主力合約日內跌2%，現報870.00元。
-
----
-
-### 2026-08-12 22:04:37  #MKT News #Star Stocks #Tencent #0700.HK #Impact bearish
-
-【Tencent says new AI products cut non‑GAAP operating profit by CNY10.5bn in 2026 Q2, president says】Tencent’s 2026 Q2 results show new AI products — Hunyuan, Yuanbao, WorkBuddy, CodeBuddy and XiaoWei — reduced non‑GAAP operating profit by CNY10.5bn, a marked increase from Q1. President Liu Zhiping said investment allocations are highly dynamic: Tencent will be cautious until it sees a clear breakout, then scale up spending. He said WorkBuddy is currently prioritized due to explosive growth, lowering priority for other AI projects. Liu added economic benefits should emerge over time and the company could switch to a compute‑rental model — which he said would be profitable — as a fallback, giving Tencent confidence.
-
----
-
-### 2026-08-12 22:04:23  #其他
-
-世界衛生組織總幹事就埃博拉疫情召開新聞釋出會。
-
----
-
-### 2026-08-12 22:04:08  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet (GOOG.O) shares hit an intraday low, down 0.5%, after Google raised prices on its new phones.
-
----
-
-### 2026-08-12 22:03:47  #市場
-
-ALPHABET股價觸及盤中低點，下跌0.5%。
-
----
-
-### 2026-08-12 22:03:36  #公司
-
-【二季度新AI產品影響105億利潤，騰訊總裁劉熾平回應】8月12日，騰訊釋出的2026Q2財報顯示，該季度混元、元寶、WorkBuddy、CodeBuddy、小微等AI產品對Non-GAAP營業利潤的影響為105億元，相較於一季度明顯增加。騰訊總裁劉熾平在談及騰訊如何分配AI產品投入時表示，目前情況非常動態。在看到真正爆發的機會之前，騰訊的投資會比較謹慎，一旦看到機會就會加大投入，整體會著眼於長遠進行投資。例如，WorkBuddy 正在爆發式增長，所以當下優先投入了WorkBuddy，也降低了其他一些產品的優先順序。隨著時間推移，經濟效益會逐漸顯現，到某個時候自然能實現盈利。他強調，如果騰訊把商業模式直接改成單純出租算力，那不僅不會虧損，反而會盈利。騰訊始終有這個備選方案，這也讓騰訊“比較有底氣”。
 
 ---
