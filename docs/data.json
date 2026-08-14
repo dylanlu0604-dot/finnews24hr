@@ -1,7 +1,128 @@
 {
-  "updated": "2026-08-15 03:55:36",
-  "count": 15271,
+  "updated": "2026-08-15 03:59:24",
+  "count": 15279,
   "items": [
+    {
+      "id": "mkt:01a001db-16f2-7aab-9045-6f30c7a5e5ab",
+      "time": "2026-08-15 03:58:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the blockade of Iran is unstoppable and constitutes a wall of steel."
+    },
+    {
+      "id": "mkt:01a001da-69a2-7aab-9045-6376eb619c11",
+      "time": "2026-08-15 03:58:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Trump said U.S. gasoline prices would rise slightly as a result."
+    },
+    {
+      "id": "mkt:01a001da-2f06-7aab-9045-5d5565c80df3",
+      "time": "2026-08-15 03:57:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran: the United States is fully prepared."
+    },
+    {
+      "id": "5041943",
+      "time": "2026-08-15 03:57:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "PAYPAL股價放量上漲，此前有報道其正與Stripe和Advent International進行交易談判。"
+    },
+    {
+      "id": "mkt:01a001d9-619c-7aab-9045-50c6d670638a",
+      "time": "2026-08-15 03:56:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "President Trump said the U.S. will not allow Iran to continue its current actions."
+    },
+    {
+      "id": "5041942",
+      "time": "2026-08-15 03:56:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：封鎖勢不可擋。"
+    },
+    {
+      "id": "5041941",
+      "time": "2026-08-15 03:56:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：美國只需為汽油付出一點點代價。"
+    },
+    {
+      "id": "mkt:01a001d8-be2b-7aab-9045-4e6c2b65894f",
+      "time": "2026-08-15 03:56:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the United States will not allow Iran to possess nuclear weapons."
+    },
+    {
+      "id": "5041940",
+      "time": "2026-08-15 03:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門摩卡港遭導彈襲擊 胡塞武裝稱打擊沙特目標】當地時間14日，葉門胡塞武裝發言人葉海亞稱，胡塞武裝在摩卡地區發射多枚彈道導彈，打擊沙特方面的軍事集結點、武器裝備及其控制的軍艦。葉海亞稱，襲擊命中目標，摧毀軍艦裝備，造成數十名武裝人員死傷，並表示將持續打擊沙特軍事集結目標。（央視新聞）"
+    },
+    {
+      "id": "5041939",
+      "time": "2026-08-15 03:56:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將在經濟上對伊朗實施嚴厲打擊】當地時間8月14日，美國總統特朗普在接受媒體採訪時表示，美國將在經濟上對伊朗實施嚴厲打擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a001d8-311f-7aab-9045-47b788e75604",
+      "time": "2026-08-15 03:55:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Houthis say ballistic missiles struck Saudi military targets at Mokha port】On the 14th local time, Houthi spokesperson Yahya said the group fired multiple ballistic missiles in the Mokha area of Yemen, striking Saudi military assembly points, weapons and equipment, and a Saudi-controlled warship. He said the strikes hit their targets, destroyed equipment on the ship, caused dozens of casualties among armed personnel, and that the Houthis will continue to strike Saudi military assembly targets."
+    },
+    {
+      "id": "5041938",
+      "time": "2026-08-15 03:55:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們已經做好充分準備。"
+    },
+    {
+      "id": "5041937",
+      "time": "2026-08-15 03:55:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不能讓伊朗繼續下去。"
+    },
     {
       "id": "5041936",
       "time": "2026-08-15 03:54:30",
@@ -139707,52 +139828,6 @@
         "國際"
       ],
       "text": "SILA獲美國國防部提供14億美元有條件貸款承諾，以加快本土電池技術製造程序。"
-    },
-    {
-      "id": "mkt:019fddcf-0b61-7aab-8fc1-9b046a0df873",
-      "time": "2026-08-08 03:59:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to CNN, US President Trump will hold a phone rally next Monday for Darlene Graham, sister of the late Senator Lindsey Graham."
-    },
-    {
-      "id": "5031582",
-      "time": "2026-08-08 03:59:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普提名的Brett Matsumoto獲參議院確認 將出任美國勞工統計局局長】美國參議院確認Brett Matsumoto出任美國勞工統計局局長。特朗普去年突然解僱前任局長後，這一關鍵職位如今終於得到填補。參議院週五以51票贊成、47票反對確認了一批提名，其中包括Matsumoto。此前，參議院衛生、教育、勞工和養老金委員會舉行了提名聽證會，並於7月15日按黨派立場表決透過Matsumoto的提名，將其提交參議院全院審議。Matsumoto將領導這一負責釋出美國就業和通脹報告的資料機構，任期四年；其釋出的部分資料對全球金融市場影響重大。這個約有2,000名員工、強調自身獨立和無黨派立場的機構中，局長是唯一的政治任命官員。"
-    },
-    {
-      "id": "5031581",
-      "time": "2026-08-08 03:58:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "ASHLAND股價上漲7%，此前有報道稱該公司正在考慮出售。"
-    },
-    {
-      "id": "5031580",
-      "time": "2026-08-08 03:57:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "據悉，ASHLAND收到收購意向後，正在探索出售事宜。"
-    },
-    {
-      "id": "mkt:019fddcc-fa0b-7aab-8fc1-915aba82e9e8",
-      "time": "2026-08-08 03:57:05",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact bullish",
-        "Copper",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "California will offer first-time electric-vehicle buyers rebates of up to $3,500 for new EVs and $1,750 for used EVs, Governor Newsom said."
     }
   ]
 }
