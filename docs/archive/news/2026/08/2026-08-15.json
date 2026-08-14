@@ -1,7 +1,18 @@
 {
   "date": "2026-08-15",
-  "count": 365,
+  "count": 366,
   "items": [
+    {
+      "id": "te:markets:575552",
+      "time": "2026-08-15 06:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Rises by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.26%). Biggest losers are Rice (-1.37%) and Sugar (-1.25%)."
+    },
     {
       "id": "te:markets:575551",
       "time": "2026-08-15 06:35:15",

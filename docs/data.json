@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-15 06:38:38",
+  "updated": "2026-08-15 06:42:33",
   "count": 15301,
   "items": [
+    {
+      "id": "te:markets:575552",
+      "time": "2026-08-15 06:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Rises by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.26%). Biggest losers are Rice (-1.37%) and Sugar (-1.25%)."
+    },
     {
       "id": "te:markets:575551",
       "time": "2026-08-15 06:35:15",
@@ -140073,17 +140084,6 @@
         "焦點"
       ],
       "text": "美銅暗盤跌破6.7美元，日內跌幅1.6%。"
-    },
-    {
-      "id": "te:markets:573896",
-      "time": "2026-08-08 06:40:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Soars by 5.85% — Top commodity gainers are Sugar (5.85%), Coffee (2.47%) and Barley (2.02%). Biggest loser is Cocoa (-0.83%)."
     }
   ]
 }
