@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 03:29:01",
-  "count": 15279,
+  "updated": "2026-08-15 03:32:50",
+  "count": 15272,
   "items": [
+    {
+      "id": "5041915",
+      "time": "2026-08-15 03:31:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚帕特爾。"
+    },
+    {
+      "id": "5041914",
+      "time": "2026-08-15 03:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：布蘭奇將成為傳奇。"
+    },
     {
       "id": "mkt:01a001be-7be2-7aab-9044-e483c54a53f6",
       "time": "2026-08-15 03:27:35",
@@ -139738,93 +139754,6 @@
         "Impact mixed"
       ],
       "text": "CFTC data: In the week to Aug. 4, speculators in CBOT U.S. Treasury futures cut net short positions by 41,225 contracts to 176,272. 2‑year net shorts fell by 120,346 contracts to 1,004,228, while 5‑year net shorts rose by 179,319 contracts to 1,325,719. Ultra‑long Treasury net shorts declined by 5,723 contracts to 314,985."
-    },
-    {
-      "id": "5031553",
-      "time": "2026-08-08 03:32:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，紐約商品交易所（NYMEX）、洲際交易所（ICE）四大主要天然氣市場中，投機者將淨空頭頭寸增加28093手，至89090手。"
-    },
-    {
-      "id": "mkt:019fddb6-6daf-7aab-8fc1-5e53f9f76d44",
-      "time": "2026-08-08 03:32:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC said speculators' net short positions in natural gas across the four major NYMEX and ICE markets rose by 28,093 contracts to 89,090 in the week to Aug. 4."
-    },
-    {
-      "id": "mkt:019fddb5-ce1a-7aab-8fc1-579ff638939a",
-      "time": "2026-08-08 03:31:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "CFTC: Speculators reduced net-long WTI crude positions by 4,683 contracts to 101,824 in the week to Aug. 4."
-    },
-    {
-      "id": "mkt:019fddb5-98fa-7aab-8fc1-4a82835d77d4",
-      "time": "2026-08-08 03:31:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "CFTC: For the week ended Aug. 4, speculative net long positions on COMEX rose across base and precious metals — gold net longs increased 12,070 contracts to 132,398; silver net longs rose 2,679 contracts to 11,067; copper net longs rose 11,307 contracts to 77,796."
-    },
-    {
-      "id": "5031552",
-      "time": "2026-08-08 03:30:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，石油投機客將西德克薩斯中質原油（WTI）的淨多頭頭寸減少4683手，至101824手。"
-    },
-    {
-      "id": "5031551",
-      "time": "2026-08-08 03:30:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至8月4日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸增加2679手，至11067手。"
-    },
-    {
-      "id": "5031550",
-      "time": "2026-08-08 03:30:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，紐約商品交易所（COMEX）黃金投機者將淨多頭頭寸增加12,070手，至132,398手。"
-    },
-    {
-      "id": "5031549",
-      "time": "2026-08-08 03:29:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：貝萊德 TCP 資產出售事件不會對其評級造成影響。"
-    },
-    {
-      "id": "5031548",
-      "time": "2026-08-08 03:29:03",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通上調科技債發行預期 今年發債規模將超過5000億美元】摩根大通預計，今年科技相關企業債券發行規模將超過5000億美元。該行將2026年科技、媒體和電信行業債務發行規模預期從此前的4500億美元上調至5400億美元，理由是大型科技企業增加支出正在引領人工智慧投資週期。摩根大通策略師埃麗卡·斯皮爾領銜的團隊週五在報告認為，以晶片為支援的融資將成為支援AI基礎設施建設的“下一個主要前沿領域”，到本十年末，其規模可能“擴大至數萬億美元”。摩根大通已識別出七個除目前已完成融資的六個專案之外的投資級資料中心融資機會，其中四個預計將來自甲骨文和OpenAI。該行預計，Meta Platforms將在公佈第三季度財報後重返債券市場，而微軟則被視為“最大的不確定因素”，可能自2017年以來首次向債券投資者融資。"
     }
   ]
 }
