@@ -1,7 +1,74 @@
 {
   "date": "2026-08-14",
-  "count": 2825,
+  "count": 2832,
   "items": [
+    {
+      "id": "te:markets:575504",
+      "time": "2026-08-14 23:22:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Extends Gains for 2nd Week — Gold rose above $4,380 an ounce on Friday, recovering from earlier losses and securing a second consecutive weekly gain as investors assessed the outlook for US monetary policy. Recent US CPI and PPI data showed inflation pressures remaining contained, suggesting that the impact of higher energy prices linked to the Iran conflict eased in July and reducing expectations of an aggressive Federal Reserve stance. Markets now see roughly a one-in-three chance of a rate hike in September, although upcoming employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium could influence expectations. Geopolitical risks remain another key factor, as renewed tensions could push energy prices higher and revive inflation concerns. Meanwhile, strong central-bank demand continues to support gold, with China adding around 20 tonnes to its reserves in July, marking its 21st consecutive month of purchases."
+    },
+    {
+      "id": "5041803",
+      "time": "2026-08-14 23:22:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "秘魯總統：因燃油價格上漲，宣佈向運輸司機提供 15%‑20% 的補貼。"
+    },
+    {
+      "id": "mkt:01a000de-0081-7aab-9042-169dbe0d9959",
+      "time": "2026-08-14 23:22:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's president announced a 15–20% subsidy for transport drivers to offset rising fuel prices."
+    },
+    {
+      "id": "5041802",
+      "time": "2026-08-14 23:21:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗環境署：格什姆島海灘受到原油汙染】據伊朗塔斯尼姆通訊社14日援引伊朗環境署訊息報道，初步評估顯示，伊朗格什姆島沿岸3.2公頃海灘和9公頃近岸水域受到原油汙染。報道援引伊朗環境署一名官員的話說，汙染源據信來自海上，在洋流和季風的作用下漂向海岸。這名官員表示，監測、控制和清理工作仍在進行中。（新華社）"
+    },
+    {
+      "id": "5041801",
+      "time": "2026-08-14 23:20:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：如果沒有人能向我證明博彩平臺的存在具備社會合理性，我們就必須關停這類平臺。"
+    },
+    {
+      "id": "mkt:01a000dc-5d29-7aab-9042-09fcec9cb9a8",
+      "time": "2026-08-14 23:20:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's 30-year Bund yield rose 8bps to 3.72%, its highest level since 2011."
+    },
+    {
+      "id": "5041800",
+      "time": "2026-08-14 23:20:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國30年期國債收益率上漲8個基點至3.72%，創2011年以來新高。"
+    },
     {
       "id": "mkt:01a000da-7dd2-7aab-9042-04905ff8c5f8",
       "time": "2026-08-14 23:18:34",

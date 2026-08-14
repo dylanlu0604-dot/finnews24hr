@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-14 23:20:26",
-  "count": 15327,
+  "updated": "2026-08-14 23:24:31",
+  "count": 15329,
   "items": [
+    {
+      "id": "te:markets:575504",
+      "time": "2026-08-14 23:22:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Extends Gains for 2nd Week — Gold rose above $4,380 an ounce on Friday, recovering from earlier losses and securing a second consecutive weekly gain as investors assessed the outlook for US monetary policy. Recent US CPI and PPI data showed inflation pressures remaining contained, suggesting that the impact of higher energy prices linked to the Iran conflict eased in July and reducing expectations of an aggressive Federal Reserve stance. Markets now see roughly a one-in-three chance of a rate hike in September, although upcoming employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium could influence expectations. Geopolitical risks remain another key factor, as renewed tensions could push energy prices higher and revive inflation concerns. Meanwhile, strong central-bank demand continues to support gold, with China adding around 20 tonnes to its reserves in July, marking its 21st consecutive month of purchases."
+    },
+    {
+      "id": "5041803",
+      "time": "2026-08-14 23:22:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "秘魯總統：因燃油價格上漲，宣佈向運輸司機提供 15%‑20% 的補貼。"
+    },
+    {
+      "id": "mkt:01a000de-0081-7aab-9042-169dbe0d9959",
+      "time": "2026-08-14 23:22:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's president announced a 15–20% subsidy for transport drivers to offset rising fuel prices."
+    },
+    {
+      "id": "5041802",
+      "time": "2026-08-14 23:21:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗環境署：格什姆島海灘受到原油汙染】據伊朗塔斯尼姆通訊社14日援引伊朗環境署訊息報道，初步評估顯示，伊朗格什姆島沿岸3.2公頃海灘和9公頃近岸水域受到原油汙染。報道援引伊朗環境署一名官員的話說，汙染源據信來自海上，在洋流和季風的作用下漂向海岸。這名官員表示，監測、控制和清理工作仍在進行中。（新華社）"
+    },
+    {
+      "id": "5041801",
+      "time": "2026-08-14 23:20:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：如果沒有人能向我證明博彩平臺的存在具備社會合理性，我們就必須關停這類平臺。"
+    },
+    {
+      "id": "mkt:01a000dc-5d29-7aab-9042-09fcec9cb9a8",
+      "time": "2026-08-14 23:20:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's 30-year Bund yield rose 8bps to 3.72%, its highest level since 2011."
+    },
+    {
+      "id": "5041800",
+      "time": "2026-08-14 23:20:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國30年期國債收益率上漲8個基點至3.72%，創2011年以來新高。"
+    },
     {
       "id": "mkt:01a000da-7dd2-7aab-9042-04905ff8c5f8",
       "time": "2026-08-14 23:18:34",
@@ -140158,60 +140225,6 @@
         "Importance 1"
       ],
       "text": "Canada 10-Year Yield Climbs on Strong Jobs Data — Canada's 10-year government bond yield rose to 3.65%, approaching the three-month high of 3.66% reached on July 31st, following stronger-than-expected employment data. Canadian employment increased by 75,100 jobs in July, well above expectations for a 15,000 gain, while the unemployment rate fell to a two-year low of 6.4%. The stronger labor market raised expectations of a potential BoC rate hike if energy prices remain elevated. Meanwhile, recent data suggests Canada's economy expanded an annualized 3.4% in the second quarter. Well above the Bank of Canada's expectation of a 2.5% growth rate. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery."
-    },
-    {
-      "id": "5031410",
-      "time": "2026-08-07 23:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Celsius Holdings Inc.（CELH）漲幅迅速擴大至9.7%。"
-    },
-    {
-      "id": "mkt:019fdcd2-bc78-7aab-8fbd-8320e999f67e",
-      "time": "2026-08-07 23:23:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PBR.N",
-        "Impact bullish"
-      ],
-      "text": "Petrobras CEO said Q2 oil production exceeded targets by 200,000 bpd."
-    },
-    {
-      "id": "5031409",
-      "time": "2026-08-07 23:22:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄駭客稱獲取北約直接參與襲擊俄領土證據】據俄羅斯方面7日訊息，有匿名俄羅斯駭客稱，已獲取北約直接參與襲擊俄領土的書面證據。相關內容涉及烏克蘭武裝部隊2026年7月襲擊俄列寧格勒州和加里寧格勒州石油碼頭的事件。該匿名駭客透露，其獲取的書面證據顯示，受僱於北約情報部門的專家巴特·德瓦赫特向烏克蘭國家安全域性提供了列寧格勒州和加里寧格勒州石油碼頭以及俄羅斯天然氣工業股份公司一艘液化天然氣運輸船的座標情報。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fdcd0-e68b-7aab-8fbd-791bb7bd1008",
-      "time": "2026-08-07 23:21:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "TASS reported that a Ukrainian attack on Crimea killed two people."
-    },
-    {
-      "id": "mkt:019fdcd0-5b50-7aab-8fbd-737ba08f8f52",
-      "time": "2026-08-07 23:21:10",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【NY Fed survey: US consumers more optimistic on jobs; one-year inflation expectation slips to 3.6%】A New York Fed survey released Friday showed US consumers in July became more optimistic about finding work and marginally lowered near-term inflation expectations. Respondents’ perceived probability of finding a new job if unemployed rose to 46.2%, the highest this year, with gains concentrated among those with high-school-or-lower education and households earning under $50,000. One-year inflation expectations fell to 3.6% from 3.7%; three-year and five-year expectations remained at 3.3% and 3.0%, respectively. Despite the improvement in job-finding odds, the average probability respondents assign to a rising unemployment rate over the next year increased across age and income groups; perceived personal risk of job loss ticked up slightly but remains below the 12-month average."
     }
   ]
 }
