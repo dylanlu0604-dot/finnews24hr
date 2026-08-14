@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-14 08:08:14",
-  "count": 15458,
+  "updated": "2026-08-14 08:12:10",
+  "count": 15460,
   "items": [
+    {
+      "id": "mkt:019ffd9b-ba8d-7aab-9030-45c21f8952a4",
+      "time": "2026-08-14 08:11:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 53.3 points (-0.58%) at 9,135.2 on Aug 14 (Fri)."
+    },
+    {
+      "id": "mkt:019ffd9b-869a-7aab-9030-3946c207146c",
+      "time": "2026-08-14 08:10:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. denies reports of crew deaths, suicide surge aboard USS Abraham Lincoln】U.S. Central Command (CENTCOM) said on social media that multiple media reports in the past 48 hours about the USS Abraham Lincoln's Middle East deployment were \"false.\" CENTCOM said claims that seven sailors died in a shipboard brawl and that onboard suicide ideation had surged were \"fabricated,\" and that there have been no deaths aboard the carrier; a sailor who went overboard on Aug. 3 was rapidly and safely rescued. CENTCOM added the Lincoln has one of the Navy's highest re-enlistment rates and, after more than 260 days at sea, roughly 10,000 sorties and 1.5 million pounds of ordnance, the carrier strike group's sailors and Marines remain \"resolute\" with \"high morale.\""
+    },
+    {
+      "id": "5040196",
+      "time": "2026-08-14 08:10:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【早間公告：盛新鋰能向特定物件發行股票申請獲深交所受理】早間公告：①盛新鋰能：向特定物件發行股票申請獲深交所受理。②英可瑞：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。③天奇股份：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。④華天科技：發行股份及支付現金購買資產並募集配套資金暨關聯交易事項獲深交所併購重組稽核委員會稽核透過。"
+    },
+    {
+      "id": "te:markets:575209",
+      "time": "2026-08-14 08:09:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Arab Emirates",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Abu Dhabi National Energy earnings in line with market expectations at 0.02 AED — Abu Dhabi National Energy (TAQA) released earnings per share at 0.02 AED."
+    },
+    {
+      "id": "5040195",
+      "time": "2026-08-14 08:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美否認林肯號水兵鬥毆致死自殺激增】美軍中央司令部今天（8月14日）在社交媒體平臺發帖稱，過去48小時內，多家媒體就“林肯”號航母部署中東期間的情況釋出了“虛假報道”。其中一則報道稱“有7名水兵在艦上鬥毆中喪生”，另一些報道則暗示“艦上水兵自殺念頭激增”——這些報道“純屬捏造”。美軍中央司令部稱，“林肯”號在所有美軍航母中，一直保持著“最高的人員續約率之一（84.4%）”。在海上連續部署超過260天、執行1萬架次飛行任務、投擲150萬磅彈藥之後，“林肯”號航母打擊群的海軍及海軍陸戰隊官兵依然“意志堅定、士氣高昂”。艦上“並無任何軍人死亡”，8月3日那名落水的水兵也已被迅速且安全地救起。（CCTV國際時訊）"
+    },
+    {
+      "id": "5040194",
+      "time": "2026-08-14 08:09:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本財務省前財務官古澤滿宏：日本央行可能於9月加息，隨後於12月或明年1月再次加息】日本財務省前財務官古澤滿宏稱，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。日美協調幹預日元的行動隨時可能再次發生。如果日元再度回到7月底日美聯合干預前的水平，日本和美國可能再次進行干預。日本央行可能於9月加息，隨後於12月或明年1月再次加息。日本央行最終可能希望將利率提高至1.5%-1.75%左右。"
+    },
+    {
+      "id": "5040193",
+      "time": "2026-08-14 08:08:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：隨著國產手術機器人與通用人形機器人的快速發展 行業有望迎來系統性降本】中信證券研報表示，機器人手術效益顯著，是醫學發展新趨勢，但高昂的手術費用導致滲透率長期偏低。中信證券認為隨著國產手術機器人與通用人形機器人的快速發展，行業有望迎來系統性降本，大幅提高滲透率。人形機器人或將從兩個方面推動行業發展：1.帶動上游供應鏈國產化+規模化，惠及下游大幅降本；2.Nature、Science等頂級期刊發表研究，人形機器人或能直接操縱器械進行外科手術，搭配具身智慧、物理世界AI，有望帶來新一輪手術革命。中信證券認為國產機器人有望在全球競爭中脫穎而出，或能孕育千億龍頭，建議關注能降本、有創新的機器人企業。同時中信證券也關注到器械龍頭在該領域的頻繁併購，或將帶來額外投資機遇。"
+    },
     {
       "id": "5040192",
       "time": "2026-08-14 08:05:26",
@@ -60,6 +123,15 @@
         "Impact mixed"
       ],
       "text": "A former senior Japanese foreign-exchange diplomat says the Bank of Japan may raise rates in September and again in December or January."
+    },
+    {
+      "id": "em:qqyh_rbyh:202608143841064481",
+      "time": "2026-08-14 08:03:49",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本前高階外匯外交官：日本央行可能希望最終將利率提高至約1.5%至1.75%】日本前高階外匯外交官稱，如果日元回到7月底協調行動前的水平，日本和美國可能會再次干預。日本央行可能希望最終將利率提高至約1.5%至1.75%。"
     },
     {
       "id": "mkt:019ffd94-f815-7aab-9030-24ed93050b66",
@@ -141444,62 +141516,6 @@
         "國際"
       ],
       "text": "【中金：跨境電商景氣向上 頭部賣家或迎經營反轉】中金公司研報稱，2026年跨境電商景氣向上，跨境電商頭部賣家或迎經營反轉。2020年—2023年疫情背景下海外電商滲透率提升，疊加歐美消費補貼、國內平臺出海等多重催化，跨境電商賣家加速湧入，推動行業競爭加劇；2024年起中美貿易摩擦制約海外業務拓展，加之電商平臺規則收緊、流量扶持退坡、跨境稅收申報及物流監管趨嚴等，行業經營壓力持續抬升，中小賣家壓力凸顯。2026年起，隨貿易環境趨於平穩、庫存壓力消化及尾部企業出清，頭部跨境賣家經營或迎底部反轉，頭部賣家或強者愈強。"
-    },
-    {
-      "id": "5029718",
-      "time": "2026-08-07 08:11:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "浦項制鐵未來材料公司：獲得韓國大型電池生產商磷酸鐵鋰正極材料長期供應訂單。"
-    },
-    {
-      "id": "mkt:019fd98f-2969-7aab-8faa-ca42d75a00b7",
-      "time": "2026-08-07 08:11:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 33.30 points (-0.36%) at 9,238.30 on Aug 7 (Fri)."
-    },
-    {
-      "id": "5029717",
-      "time": "2026-08-07 08:10:31",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：交運板塊標的配置價值凸顯】中信建投研報表示，交運板塊配置價值凸顯。政府背景資金在股息率6%—8%時強力託底，劃出“估值底”，核心標的股票屬性向債券靠攏，成為震盪避風港，並吸引險資社保跟進，形成“政府背景資金領頭+險資跟進”合力。板塊最大利空是缺資金而非基本面，主動基金交運配置已至歷史低位，資金約束正邊際改善。重點關注以交運煤炭板塊為代表的HALO資產標的。"
-    },
-    {
-      "id": "5029716",
-      "time": "2026-08-07 08:10:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【敏實集團：美國阿拉巴馬州新工廠舉行奠基儀式】敏實集團（00425.HK）釋出自願公告，宣佈於2026年8月3日與美國阿拉巴馬州加茲登市共同舉行位於該市的新生產工廠奠基儀式。該專案選址原RepublicSteel及GulfStatesSteel佔地約400英畝的廠區，預計分階段總投資約4.30億美元。專案建成後將成為集團全球最大面積生產基地，預計創造超1,300個就業崗位，並於2027年實現第一期產能投產。"
-    },
-    {
-      "id": "te:economy:573509",
-      "time": "2026-08-07 08:09:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "China Escalates Trade Tensions With New Measures Against U.S. — China unveiled new countermeasures against the U.S., tightening export controls on drones bound for the U.S. and banning transactions with six American firms. The move, framed as retaliation for fresh U.S. restrictions, comes ahead of a planned September meeting between Presidents Xi Jinping and Donald Trump, despite recent signs of thaw following May talks in Beijing. The measures respond to the U.S. Federal Communications Commission's ban on imports of Chinese drones and the Department of Homeland Security's addition of 43 Chinese firms to the Uyghur Forced Labor Prevention Act entity list. The Commerce Ministry accused Washington of “seriously violating consensus” reached by the two leaders and “severely damaging China’s legitimate rights. It urged the U.S. to reverse course and warned further measures could trigger additional sanctions."
-    },
-    {
-      "id": "5029715",
-      "time": "2026-08-07 08:08:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數抹去早前漲幅。"
     }
   ]
 }
