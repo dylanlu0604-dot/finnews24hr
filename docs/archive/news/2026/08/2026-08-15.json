@@ -1,7 +1,28 @@
 {
   "date": "2026-08-15",
-  "count": 332,
+  "count": 334,
   "items": [
+    {
+      "id": "te:economy:575544",
+      "time": "2026-08-15 05:24:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Nears One-Month High — Brazil’s 10-year government bond yield rose to 14.9% in mid-August, nearing a one-month high following a rise in US Treasury yields. US Treasury yields increased amid elevated inflation expectations. Worsening risk perception as Brazil’s October presidential election approaches also contributed to the rise, with markets pricing in uncertainty surrounding the next government and its economic agenda. Concerns that the next government could face difficulties implementing a consistent fiscal adjustment are beginning to translate into a higher risk premium in asset prices. Fiscal concerns persist amid signals of higher government spending and pressure on revenues from new US tariffs. Meanwhile, the Copom signaled a cautious approach to further interest rate cuts. Brazil also created a net 145,161 formal jobs in June, well above expectations for 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive."
+    },
+    {
+      "id": "5042003",
+      "time": "2026-08-15 05:22:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據美國證券交易委員會檔案顯示， THIRD POINT LLC將其持有的亞馬遜公司股份減持9.8%，減持後持股數為180萬股。"
+    },
     {
       "id": "5042002",
       "time": "2026-08-15 05:20:27",
