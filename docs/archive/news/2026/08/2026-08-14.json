@@ -1,7 +1,120 @@
 {
   "date": "2026-08-14",
-  "count": 1985,
+  "count": 1997,
   "items": [
+    {
+      "id": "5041168",
+      "time": "2026-08-14 17:54:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大恆科技：2025年度差異化分紅方案獲法律認可】大恆科技公告稱，公司第九屆董事會第十六次會議及2025年年度股東會透過2025年度利潤分配預案，擬向全體股東每10股派現金股利0.24元（含稅）。後因公司回購503.01萬股，已回購股份不參與利潤分配，需進行差異化分紅特殊除權除息處理。調整後，每10股派發現金紅利0.243元（含稅），合計擬派1049.20萬元（含稅）。律所認為，本次差異化分紅符合相關規定，不存在損害公司和全體股東利益的情形。"
+    },
+    {
+      "id": "5041167",
+      "time": "2026-08-14 17:54:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開爾新材：2026年上半年營收9907.68萬元 淨虧損121.19萬元】開爾新材公告稱，2026年上半年，公司營收9907.68萬元，同比減少12.98%；歸屬於上市公司股東的淨利潤虧損121.19萬元，同比減少110.43%；扣除非經常性損益的淨利潤虧損1506.68萬元，同比減少1436.76%。經營活動產生的現金流量淨額83.66萬元，同比減少96.55%。報告期末，公司總資產13.12億元，較上年度末增加0.15%；歸屬於上市公司股東的淨資產11.24億元，較上年度末減少0.03%。"
+    },
+    {
+      "id": "mkt:019fffb1-45f9-7aab-903c-186165d45aa2",
+      "time": "2026-08-14 17:53:55",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Experts: monitor credit supply–demand via interest rates】PBOC data on Aug. 14 showed July corporate new-loan weighted-average rate just under 3.0%, about 20bps lower YoY. Experts note that in the current easing cycle policy rates have been cut about 1.15 percentage points while corporate loan averages have fallen roughly 2.6 percentage points, a larger move. Compared with the U.S. during its zero-rate period (average loan rates ~4.3%), Chinese loan rates are already low. Experts say future assessment of credit supply–demand should rely mainly on interest-rate signals; with China’s M2/GDP ratio elevated and credit supply able to meet real-economy financing needs, policy emphasis should shift from credit scale to price — i.e., market-rate changes."
+    },
+    {
+      "id": "te:economy:575439",
+      "time": "2026-08-14 17:53:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Croatia Inflation Rate Lowest in 5 Months — The annual inflation rate in Croatia eased to 3.9% in July 2026 from 4.5% in the previous month, marking the lowest reading since February and confirming preliminary estimates. Price growth moderated for alcoholic beverages and tobacco (3.7% vs 7.1% in June), health (4.9% vs 5.2%), transport (8.2% vs 8.6%), recreation, sport and culture (2.8% vs 4.1%), and personal care, social protection, and miscellaneous goods and services (3.2% vs 3.3%). At the same time, costs declined for food and non-alcoholic beverages (-0.1% vs 0.8%) and furnishings, household equipment and routine maintenance (-1.1% vs -0.2%), while deflation deepened for clothing and footwear (-4.2% vs -2.8%) and education (-2.0% vs -1.9%). In contrast, prices accelerated in housing and utilities (12.2% vs 12.0%), information and communication (3.0% vs 2.9%), and restaurants and accommodation services (6.3% vs 5.8%). On a monthly basis, consumer prices fell 0.2% in July, following a 0.4% decline in the previous month."
+    },
+    {
+      "id": "5041166",
+      "time": "2026-08-14 17:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中疾控：新冠在部分省份已出現下降趨勢】中國疾控中心網站日前釋出《全國急性呼吸道傳染病哨點監測情況（2026年第32周）》。監測結果顯示，當前處於本次疫情波動的高峰平臺期，總體上處於中流行水平，主要流行株仍為NB.1.8.1變異株譜系，部分省份已出現下降趨勢。新冠病毒感染乙類乙管以來，已成為常見多發的呼吸道傳染病，疾病嚴重程度未發生變化。 監測結果還顯示，目前流感活動強度處於低流行水平波動；鼻病毒、腸道病毒檢測陽性率波動下降；人偏肺病毒、副流感病毒檢測陽性率波動下降。其他監測的呼吸道病原體陽性率處於低水平。(新華社)"
+    },
+    {
+      "id": "5041165",
+      "time": "2026-08-14 17:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：布魯克菲爾德與三菱聯合收購 MHBF 獲得歐盟批准。"
+    },
+    {
+      "id": "mkt:019fffb0-6ff1-7aab-903c-13a27a84b546",
+      "time": "2026-08-14 17:53:00",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【Experts: Differences between China M2 and TSF growth, and between loan and deposit growth, are normal】Industry experts say China’s M2 and total social financing (TSF) are different statistics with distinct scopes; a faster M2 growth rate versus TSF does not by itself indicate funds are idling in the banking system and has no clear policy implication. They caution that deposit growth exceeding loan growth is normal under a more diversified financing structure: historically loans were the primary channel for deposit creation, but bonds and other instruments now substitute for loans in creating deposits. As a result, slower loan growth amid faster deposit or bond issuance is not anomalous. Market participants should assess financial conditions using broader aggregates such as M2 and TSF rather than relying solely on loan growth or loan flows."
+    },
+    {
+      "id": "te:economy:575438",
+      "time": "2026-08-14 17:52:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kyrgyzstan",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Kyrgyzstan Industrial Output Growth Rises to 6.3% — Industrial production in Kyrgyzstan rose 6.3% year-on-year in July 2026, up from 5.0% in the previous month. Production rebounded in mining and quarrying (38.5% vs -13.8% in June), while output continued to increase in electricity, gas, steam, and air conditioning supply (4.7% vs 2.3%), as well as water supply, waste treatment, and recovery of secondary raw materials (20.3% vs 19.7%). In contrast, manufacturing growth eased sharply (0.4% vs 9.6%), weighed down by declines in wood, paper products, and printing activities (-29.2% vs 92.3%), pharmaceutical products (-75.9% vs 96.0%), and other production, repair, and installation of machinery and equipment (-13.8% vs 11.6%). Over the January–July period, industrial output expanded 11.2%, slowing from 12.6% in the same period last year."
+    },
+    {
+      "id": "5041164",
+      "time": "2026-08-14 17:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：斯特恩辭去以色列議會議員職務。"
+    },
+    {
+      "id": "mkt:019fffaf-e739-7aab-903c-0dec1d0e147e",
+      "time": "2026-08-14 17:52:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【\"One-word\" limit-up then plunge; Qunxing Toys says prior compute-power leasing cooperation proceeding normally】Aug 14 — China-listed Qunxing Toys shares fell sharply, closing at 5.61 yuan, down 7.73% after a one-day \"one-word\" limit-up in the prior session. The company said secondary-market moves reflected multiple factors and yesterday's limit-up was mainly driven by interest in the compute-power sector; the firm's core business remains liquor sales (Moutai, Wuliangye) and continues to be the revenue base. On the Tencent compute-power leasing cooperation, the company said the previously signed leasing arrangement is progressing normally; any renewal will be disclosed if it meets information-disclosure thresholds."
+    },
+    {
+      "id": "5041163",
+      "time": "2026-08-14 17:52:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【“一字板”漲停後股價大跌，群興玩具回應：前期簽訂的算力租賃合作業務仍在正常推進中】8月14日，群興玩具股價大跌。截至收盤，公司股價報5.61元/股，收盤跌幅為7.73%。此前一個交易日，群興玩具股價“一字板”漲停。對於股價大跌，群興玩具方面回應稱，二級市場股價受多重因素影響，公司股價昨日“一字板”漲停主要受算力板塊影響，但公司主業還是酒類銷售，主要銷售的是茅臺、五糧液等品牌。目前，酒類銷售仍然是公司的基本盤。對於市場關心的與騰訊算力業務租賃業務是否續簽的問題，群興玩具方面告訴記者，前期簽訂的算力租賃合作業務仍在正常推進中。對於後續是否續簽，如果達到資訊披露標準，公司會及時披露。（中證金牛座）"
+    },
+    {
+      "id": "5041162",
+      "time": "2026-08-14 17:51:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬士基盤前股價漲幅進一步擴大，目前累計上漲6.8%，觸及2022年8月以來的最高點位。"
+    },
     {
       "id": "5041161",
       "time": "2026-08-14 17:50:47",

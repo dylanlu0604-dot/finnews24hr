@@ -1,7 +1,120 @@
 {
-  "updated": "2026-08-14 17:51:50",
-  "count": 15400,
+  "updated": "2026-08-14 17:55:39",
+  "count": 15394,
   "items": [
+    {
+      "id": "5041168",
+      "time": "2026-08-14 17:54:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大恆科技：2025年度差異化分紅方案獲法律認可】大恆科技公告稱，公司第九屆董事會第十六次會議及2025年年度股東會透過2025年度利潤分配預案，擬向全體股東每10股派現金股利0.24元（含稅）。後因公司回購503.01萬股，已回購股份不參與利潤分配，需進行差異化分紅特殊除權除息處理。調整後，每10股派發現金紅利0.243元（含稅），合計擬派1049.20萬元（含稅）。律所認為，本次差異化分紅符合相關規定，不存在損害公司和全體股東利益的情形。"
+    },
+    {
+      "id": "5041167",
+      "time": "2026-08-14 17:54:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開爾新材：2026年上半年營收9907.68萬元 淨虧損121.19萬元】開爾新材公告稱，2026年上半年，公司營收9907.68萬元，同比減少12.98%；歸屬於上市公司股東的淨利潤虧損121.19萬元，同比減少110.43%；扣除非經常性損益的淨利潤虧損1506.68萬元，同比減少1436.76%。經營活動產生的現金流量淨額83.66萬元，同比減少96.55%。報告期末，公司總資產13.12億元，較上年度末增加0.15%；歸屬於上市公司股東的淨資產11.24億元，較上年度末減少0.03%。"
+    },
+    {
+      "id": "mkt:019fffb1-45f9-7aab-903c-186165d45aa2",
+      "time": "2026-08-14 17:53:55",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Experts: monitor credit supply–demand via interest rates】PBOC data on Aug. 14 showed July corporate new-loan weighted-average rate just under 3.0%, about 20bps lower YoY. Experts note that in the current easing cycle policy rates have been cut about 1.15 percentage points while corporate loan averages have fallen roughly 2.6 percentage points, a larger move. Compared with the U.S. during its zero-rate period (average loan rates ~4.3%), Chinese loan rates are already low. Experts say future assessment of credit supply–demand should rely mainly on interest-rate signals; with China’s M2/GDP ratio elevated and credit supply able to meet real-economy financing needs, policy emphasis should shift from credit scale to price — i.e., market-rate changes."
+    },
+    {
+      "id": "te:economy:575439",
+      "time": "2026-08-14 17:53:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Croatia Inflation Rate Lowest in 5 Months — The annual inflation rate in Croatia eased to 3.9% in July 2026 from 4.5% in the previous month, marking the lowest reading since February and confirming preliminary estimates. Price growth moderated for alcoholic beverages and tobacco (3.7% vs 7.1% in June), health (4.9% vs 5.2%), transport (8.2% vs 8.6%), recreation, sport and culture (2.8% vs 4.1%), and personal care, social protection, and miscellaneous goods and services (3.2% vs 3.3%). At the same time, costs declined for food and non-alcoholic beverages (-0.1% vs 0.8%) and furnishings, household equipment and routine maintenance (-1.1% vs -0.2%), while deflation deepened for clothing and footwear (-4.2% vs -2.8%) and education (-2.0% vs -1.9%). In contrast, prices accelerated in housing and utilities (12.2% vs 12.0%), information and communication (3.0% vs 2.9%), and restaurants and accommodation services (6.3% vs 5.8%). On a monthly basis, consumer prices fell 0.2% in July, following a 0.4% decline in the previous month."
+    },
+    {
+      "id": "5041166",
+      "time": "2026-08-14 17:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中疾控：新冠在部分省份已出現下降趨勢】中國疾控中心網站日前釋出《全國急性呼吸道傳染病哨點監測情況（2026年第32周）》。監測結果顯示，當前處於本次疫情波動的高峰平臺期，總體上處於中流行水平，主要流行株仍為NB.1.8.1變異株譜系，部分省份已出現下降趨勢。新冠病毒感染乙類乙管以來，已成為常見多發的呼吸道傳染病，疾病嚴重程度未發生變化。 監測結果還顯示，目前流感活動強度處於低流行水平波動；鼻病毒、腸道病毒檢測陽性率波動下降；人偏肺病毒、副流感病毒檢測陽性率波動下降。其他監測的呼吸道病原體陽性率處於低水平。(新華社)"
+    },
+    {
+      "id": "5041165",
+      "time": "2026-08-14 17:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：布魯克菲爾德與三菱聯合收購 MHBF 獲得歐盟批准。"
+    },
+    {
+      "id": "mkt:019fffb0-6ff1-7aab-903c-13a27a84b546",
+      "time": "2026-08-14 17:53:00",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【Experts: Differences between China M2 and TSF growth, and between loan and deposit growth, are normal】Industry experts say China’s M2 and total social financing (TSF) are different statistics with distinct scopes; a faster M2 growth rate versus TSF does not by itself indicate funds are idling in the banking system and has no clear policy implication. They caution that deposit growth exceeding loan growth is normal under a more diversified financing structure: historically loans were the primary channel for deposit creation, but bonds and other instruments now substitute for loans in creating deposits. As a result, slower loan growth amid faster deposit or bond issuance is not anomalous. Market participants should assess financial conditions using broader aggregates such as M2 and TSF rather than relying solely on loan growth or loan flows."
+    },
+    {
+      "id": "te:economy:575438",
+      "time": "2026-08-14 17:52:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kyrgyzstan",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Kyrgyzstan Industrial Output Growth Rises to 6.3% — Industrial production in Kyrgyzstan rose 6.3% year-on-year in July 2026, up from 5.0% in the previous month. Production rebounded in mining and quarrying (38.5% vs -13.8% in June), while output continued to increase in electricity, gas, steam, and air conditioning supply (4.7% vs 2.3%), as well as water supply, waste treatment, and recovery of secondary raw materials (20.3% vs 19.7%). In contrast, manufacturing growth eased sharply (0.4% vs 9.6%), weighed down by declines in wood, paper products, and printing activities (-29.2% vs 92.3%), pharmaceutical products (-75.9% vs 96.0%), and other production, repair, and installation of machinery and equipment (-13.8% vs 11.6%). Over the January–July period, industrial output expanded 11.2%, slowing from 12.6% in the same period last year."
+    },
+    {
+      "id": "5041164",
+      "time": "2026-08-14 17:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：斯特恩辭去以色列議會議員職務。"
+    },
+    {
+      "id": "mkt:019fffaf-e739-7aab-903c-0dec1d0e147e",
+      "time": "2026-08-14 17:52:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【\"One-word\" limit-up then plunge; Qunxing Toys says prior compute-power leasing cooperation proceeding normally】Aug 14 — China-listed Qunxing Toys shares fell sharply, closing at 5.61 yuan, down 7.73% after a one-day \"one-word\" limit-up in the prior session. The company said secondary-market moves reflected multiple factors and yesterday's limit-up was mainly driven by interest in the compute-power sector; the firm's core business remains liquor sales (Moutai, Wuliangye) and continues to be the revenue base. On the Tencent compute-power leasing cooperation, the company said the previously signed leasing arrangement is progressing normally; any renewal will be disclosed if it meets information-disclosure thresholds."
+    },
+    {
+      "id": "5041163",
+      "time": "2026-08-14 17:52:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【“一字板”漲停後股價大跌，群興玩具回應：前期簽訂的算力租賃合作業務仍在正常推進中】8月14日，群興玩具股價大跌。截至收盤，公司股價報5.61元/股，收盤跌幅為7.73%。此前一個交易日，群興玩具股價“一字板”漲停。對於股價大跌，群興玩具方面回應稱，二級市場股價受多重因素影響，公司股價昨日“一字板”漲停主要受算力板塊影響，但公司主業還是酒類銷售，主要銷售的是茅臺、五糧液等品牌。目前，酒類銷售仍然是公司的基本盤。對於市場關心的與騰訊算力業務租賃業務是否續簽的問題，群興玩具方面告訴記者，前期簽訂的算力租賃合作業務仍在正常推進中。對於後續是否續簽，如果達到資訊披露標準，公司會及時披露。（中證金牛座）"
+    },
+    {
+      "id": "5041162",
+      "time": "2026-08-14 17:51:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬士基盤前股價漲幅進一步擴大，目前累計上漲6.8%，觸及2022年8月以來的最高點位。"
+    },
     {
       "id": "5041161",
       "time": "2026-08-14 17:50:47",
@@ -140968,157 +141081,6 @@
         "MKT News"
       ],
       "text": "Bernstein raised its price target on Cloudflare (NET.N) to $164 from $136."
-    },
-    {
-      "id": "5030793",
-      "time": "2026-08-07 17:55:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【因嚴重違紀違法，金融監管總局原局長李雲澤被罷免全國人大代表】因嚴重違紀違法，國家金融監督管理總局原黨委書記、局長李雲澤被罷免第十四屆全國人民代表大會代表職務。近日，四川省人大常委會在其2026年第三號公報中通報了這一事項。該通報顯示，2026年5月27日，四川省第十四屆人民代表大會常務委員會第二十七次會議，透過了對李雲澤的這一罷免案，同時該結果還報第十四屆全國人民代表大會常務委員會備案、公告。2026年6月26日，全國人大常委會公告了李雲澤被罷免之事。（第一財經）"
-    },
-    {
-      "id": "mkt:019fdba6-2499-7aab-8fb6-10eadab3843f",
-      "time": "2026-08-07 17:55:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Mainstream mortgage rates still above 3%; sub-3% '2.x%' offers limited to a few banks】Reports of mortgage rates below 3% in some cities reflect targeted, limited promotions from a small number of foreign banks, not a nationwide trend. Bank and real-estate agent checks show China’s mainstream mortgage rates remain around 3.0–3.1%. Zhaolian chief economist Dong Ximiao says sub-3% deals (around 2.7%) are competitive outliers tied to specific cooperation channels and strict eligibility checks, not broad downward pressure on mortgage pricing."
-    },
-    {
-      "id": "5030792",
-      "time": "2026-08-07 17:55:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主流房貸利率仍未跌破3% “2”字頭僅是少數銀行在部分地區行為】近期，一些城市傳出房貸利率跌破3%、進入“2字頭”的訊息。今日從銀行、房產中介等多方瞭解到，低於3%的房貸利率只是少數外資銀行在部分地區推出的專屬優惠，當前全國主流房貸利率仍穩定在3.0%至3.1%區間。招聯首席經濟學家董希淼分析稱，這一低利率主要面向特定合作渠道且需透過嚴苛資質審批，多數普通購房者能申請到的仍是3%左右的主流市場利率。因此，2.7%左右的房貸利率是競爭“特例”，體現外資銀行的靈活經營優勢，而非房貸利率普遍下行訊號。（中新經緯）"
-    },
-    {
-      "id": "mkt:019fdba5-aa50-7aab-8fb6-0845a88c80b4",
-      "time": "2026-08-07 17:54:55",
-      "tags": [
-        "MKT News",
-        "LMT.N",
-        "Impact bullish"
-      ],
-      "text": "Bernstein raised its price target on Lockheed Martin (LMT.N) to $629 from $614."
-    },
-    {
-      "id": "5030791",
-      "time": "2026-08-07 17:54:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田：熊本摩托車工廠成品整車生產將在8月17日後繼續暫停，最終逐步恢復運營."
-    },
-    {
-      "id": "5030790",
-      "time": "2026-08-07 17:54:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光電源：首次回購股份47.18萬股 成交金額近5000萬元】陽光電源公告稱，公司於2026年8月6日首次實施股份回購，透過集中競價交易方式回購471,800股，佔公司目前總股本的0.0228%，最高成交價106.64元/股，最低成交價105.26元/股，成交總金額4999.38萬元（不含交易費用）。本次回購符合相關規定，後續將按計劃繼續實施回購並及時披露資訊。"
-    },
-    {
-      "id": "5030789",
-      "time": "2026-08-07 17:54:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦：將SpaceX目標價從239美元上調至248美元。"
-    },
-    {
-      "id": "5030788",
-      "time": "2026-08-07 17:53:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金新農：2026年7月生豬銷量10.71萬頭，同比變動34.92%】金新農公告，2026年7月生豬銷量10.71萬頭（其中商品豬4.31萬頭、仔豬6.39萬頭、種豬0.01萬頭），同比變動34.92%，環比變動5.47%；商品豬銷售均價11.94元/公斤，同比變動-20.31%，環比變動19.91%；生豬銷售收入7368.06萬元，同比變動-23.83%，環比變動46.76%。本年累計生豬銷量97.71萬頭，累計銷售收入7.2億元。"
-    },
-    {
-      "id": "mkt:019fdba4-a714-7aab-8fb6-01693d05f8bd",
-      "time": "2026-08-07 17:53:48",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "Bernstein raises SpaceX (SPCX.O) PT to $248 from $239."
-    },
-    {
-      "id": "5030787",
-      "time": "2026-08-07 17:53:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巨人網路：控股股東及其一致行動人權益變動比例觸及1%】巨人網路公告稱，公司第二大股東騰澎投資與控股股東巨人投資為一致行動人。騰澎投資原持有公司股份1.96億股，佔總股本10.29%，原計劃減持不超5680.70萬股。2026年7月16日至8月7日，騰澎投資透過集中競價減持1893.56萬股，佔總股本0.9963%，集中競價部分減持完成。本次減持後，二者合計持股降至7.41億股，佔總股本38.9803%，權益變動觸及1%整數倍，不影響公司控制權。"
-    },
-    {
-      "id": "5030786",
-      "time": "2026-08-07 17:53:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫整合：募投專案結項 3.00億元節餘資金擬永久補流】協鑫整合公告稱，截至2026年7月31日，“合肥協鑫整合15GW光伏元件專案”及“蕪湖協鑫20GW（一期10GW）高效電池片製造專案”均已達預定可使用狀態，滿足結項條件。公司擬將節餘募集資金3.00億元永久補充流動資金，用於日常生產經營。公司將在股東會審議前，歸還3.00億元臨時補流資金至專戶，並登出相關募集資金賬戶。該事項已透過董事會審議，尚需股東會審議。"
-    },
-    {
-      "id": "5030785",
-      "time": "2026-08-07 17:53:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五礦資本：擬與實控人簽訂21億元永續債協議】五礦資本公告稱，公司擬與實際控制人中國五礦簽訂《永續債協議》，由中國五礦向公司進行21億元永續債權投資，期限為5 + N年，該筆資金已透過前期《內部借款協議》發放。本次交易構成關聯交易，不構成重大資產重組，尚需公司股東會審議透過。交易完成後，公司負債將減少、淨資產將增加，資產負債率有所降低，對淨利潤不構成重大影響。"
-    },
-    {
-      "id": "5030784",
-      "time": "2026-08-07 17:52:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "據稱DREAM FINDERS同意以每股33.50美元的價格收購BEAZER HOMES。"
-    },
-    {
-      "id": "mkt:019fdba3-abb5-7aab-8fb5-ff31af47d474",
-      "time": "2026-08-07 17:52:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Trump says data centers could be more important than oil】Trump told Punchbowl News he had seen signs Texas appears to be opposing data-center construction and said that would be a mistake. He added he was not taking a formal position but noted communities that welcome data centers draw substantial capital inflows, that some data centers are striking buildings, and that they are economically important; if Texas says no, he said, it would be an error because data centers may be more important than oil."
-    },
-    {
-      "id": "5030783",
-      "time": "2026-08-07 17:52:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福元醫藥：洛索洛芬鈉貼劑獲藥品註冊證書，累計研發投入1170.65萬元】福元醫藥公告，公司近日收到國家藥監局頒發的洛索洛芬鈉貼劑《藥品註冊證書》，批准該藥品生產。該藥品用於骨關節炎、肌肉痛、外傷導致的腫脹或疼痛的消炎和鎮痛。公司於2024年4月24日獲得申報受理通知書，截至公告日累計研發投入為人民幣1170.65萬元（未經審計）。"
-    },
-    {
-      "id": "5030782",
-      "time": "2026-08-07 17:52:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福元醫藥：布瑞哌唑口崩片獲得藥品註冊證書，累計研發投入573.41萬元】福元醫藥公告，公司近日收到國家藥監局頒發的布瑞哌唑口崩片（規格：2mg；1mg）《藥品註冊證書》，批准該藥品生產。該藥品用於治療成人精神分裂症，原研暫未在中國上市。公司於2025年1月7日獲得申報受理通知書，並於近日獲批。本次獲得《藥品註冊證書》視同透過一致性評價。截至本公告日，公司針對該藥品累計研發投入為人民幣573.41萬元。"
-    },
-    {
-      "id": "5030781",
-      "time": "2026-08-07 17:52:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福元醫藥：利塞膦酸鈉片獲藥品註冊證書，批准生產】福元醫藥公告，公司近日收到國家藥監局頒發的利塞膦酸鈉片（規格：35mg）藥品註冊證書（證書編號：2026S02842），批准該藥品生產。該藥品用於治療和預防絕經後婦女的骨質疏鬆症，註冊分類為化學藥品3類，藥品批准文號為國藥準字H20265470。本次獲得藥品註冊證書視同透過一致性評價。截至公告日，公司針對該藥品累計研發投入為800.26萬元。"
-    },
-    {
-      "id": "5030780",
-      "time": "2026-08-07 17:52:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯源微：4名董高擬合計減持不超0.0313%股份】芯源微公告，董事張新超、汪明波、程虎、劉書傑因個人資金需求，計劃自2026年8月28日至2026年11月27日，透過集中競價方式合計減持不超過63093股，佔公司總股本比例不超過0.0313%。其中，張新超擬減持不超過8990股（佔比不超過0.0045%），汪明波擬減持不超過20232股（佔比不超過0.0100%），程虎擬減持不超過22199股（佔比不超過0.0110%），劉書傑擬減持不超過11672股（佔比不超過0.0058%）。"
     }
   ]
 }
