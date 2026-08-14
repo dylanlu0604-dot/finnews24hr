@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-14 21:49:16",
-  "count": 15329,
+  "updated": "2026-08-14 21:53:24",
+  "count": 15327,
   "items": [
+    {
+      "id": "5041684",
+      "time": "2026-08-14 21:52:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元日內漲幅達0.5%，現報1.1584。"
+    },
+    {
+      "id": "mkt:01a0008a-f76b-7aab-9040-13b04fb18aa0",
+      "time": "2026-08-14 21:51:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EUR/USD rose 0.50% intraday to 1.1584."
+    },
+    {
+      "id": "te:markets:575497",
+      "time": "2026-08-14 21:51:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips Amid Middle East Tensions — The Ibovespa shed near 1% to below 166,000 on Friday, extending its seven-month low as the impasse in negotiations to end the war in the Middle East pushed oil prices higher. Oil and gas prices were on track for strong weekly gains as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares. Banco do Brasil, B3 and Caixa Econômica shed near 1%, while Itaúsa lost 0.5%. Utilities also traded lower, with Sabesp down over 1% and CPFL losing over 3% despite reporting an 21.3% annual rise in net profit, as growth in its industrial sector was modest and net debt rose 19.2%. Meanwhile, Cemig gained nearly 3% after reporting an 8.8% rise in EBITDA. Elsewhere, Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Braskem (+3%) reported net income of R$3.33 billion, reversing a loss. MBRF (+5%) reported net income of R$69 million in 2Q26."
+    },
+    {
+      "id": "5041682",
+      "time": "2026-08-14 21:50:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方紅資產管理即將發售首隻ETF產品】8月14日晚，東方紅資產管理釋出公告稱，東方紅資產管理旗下的首隻ETF產品東方紅中證雲端計算50ETF將於8月20日正式發售。東方紅資產管理是繼興證全球基金、交銀施羅德基金之後，又一家正式入局ETF的以主動權益見長的基金管理人。隨著8月4日中歐基金完成首隻ETF的申報，國內非貨公募排名前列的主動管理公司基本已補齊被動投資拼圖。有業內人士指出，這一佈局並非行業跟風，而是基於機構的戰略定位和客戶端日益多元化的配置需求。對於基金管理人而言，佈局ETF一方面是完善公司產品線戰略佈局的必然操作，透過被動工具提升服務客戶的廣度與深度，另一方面，在可預期的創新產品規劃中，ETF已成為未來越來越多基金公司競爭新產品的“入場券”，為企業下一階段探索多元化策略、佈局更多創新業務奠定堅實基石。（中證報）"
+    },
+    {
+      "id": "mkt:01a00089-87af-7aab-9040-0af6fdab7147",
+      "time": "2026-08-14 21:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Jun business inventories MoM, preliminary Aug University of Michigan consumer sentiment index and preliminary 1-year inflation expectations will be released in 10 minutes."
+    },
+    {
+      "id": "5041681",
+      "time": "2026-08-14 21:49:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府正在針對聯邦政府中的另一項DEI政策採取行動。"
+    },
     {
       "id": "5041679",
       "time": "2026-08-14 21:48:25",
@@ -140182,73 +140248,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Edges Lower on Corporate Results — The Ibovespa edged lower to hover near 175,000 on Friday amid another batch of 2Q26 earnings reports. Localiza edged lower despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Renner slumped 10% after cutting its 2026 net revenue guidance as sales slowed sharply during the World Cup period. Magazine Luiza also fell nearly 5% after reporting a net loss in 2Q26 almost three times larger than in 2Q25. BB Seguridade dropped 6% after its dividend cutoff date passed on Thursday, with shares now trading ex-dividend. Bradesco BBI said the company is likely to continue facing a challenging environment after its pension business disappointed, reflecting weaker financial results. In contrast, Petrobras gained over 0.5% after beating expectations, as supply disruptions linked to the US-Iran conflict lifted second-quarter prices for crude, gasoline, and diesel. Its EBITDA rose 80% year-on-year."
-    },
-    {
-      "id": "5031295",
-      "time": "2026-08-07 21:53:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股黃金礦業板塊走高】8月7日，美股黃金礦業板塊走高，金田漲超10%，哈莫尼黃金漲超10%，科爾黛倫礦業漲超8%，紐曼礦業漲超6%，金羅斯黃金漲超6%。"
-    },
-    {
-      "id": "5031294",
-      "time": "2026-08-07 21:53:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【崑崙萬維旗下天工短劇工作臺接入Seedance 2.5】8月7日，崑崙萬維旗下SkyProduction天工短劇工作臺正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支援單段最長30秒影片直出，可使用50個參考素材，並支援10餘種語言。此外，天工短劇工作臺即將推出全新的“智慧畫布”創作模式，支援長影片生成。"
-    },
-    {
-      "id": "5031293",
-      "time": "2026-08-07 21:52:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：加拿大與美國正商討以貿易讓步換取部分關稅減免。"
-    },
-    {
-      "id": "5031292",
-      "time": "2026-08-07 21:52:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "LATIGO BIOTHERAPEUTICS 預計開盤價 20 美元，IPO 價格 18 美元。"
-    },
-    {
-      "id": "5031291",
-      "time": "2026-08-07 21:51:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "哈塞特：預計柴油或汽油價格不會上漲。"
-    },
-    {
-      "id": "mkt:019fdc7e-23b6-7aab-8fbb-c62c8cf77220",
-      "time": "2026-08-07 21:51:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House National Economic Council Director Hassett said he does not expect diesel or gasoline prices to rise."
-    },
-    {
-      "id": "mkt:019fdc7d-0768-7aab-8fbb-bf1830b14b99",
-      "time": "2026-08-07 21:50:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is due to speak in 10 minutes."
-    },
-    {
-      "id": "mkt:019fdc7c-666c-7aab-8fbb-b6da759f024e",
-      "time": "2026-08-07 21:49:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Magyar said Hungary's drought and frost losses in 2026 will exceed 500 billion forint."
     }
   ]
 }

@@ -1,7 +1,73 @@
 {
   "date": "2026-08-14",
-  "count": 2638,
+  "count": 2644,
   "items": [
+    {
+      "id": "5041684",
+      "time": "2026-08-14 21:52:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元日內漲幅達0.5%，現報1.1584。"
+    },
+    {
+      "id": "mkt:01a0008a-f76b-7aab-9040-13b04fb18aa0",
+      "time": "2026-08-14 21:51:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EUR/USD rose 0.50% intraday to 1.1584."
+    },
+    {
+      "id": "te:markets:575497",
+      "time": "2026-08-14 21:51:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips Amid Middle East Tensions — The Ibovespa shed near 1% to below 166,000 on Friday, extending its seven-month low as the impasse in negotiations to end the war in the Middle East pushed oil prices higher. Oil and gas prices were on track for strong weekly gains as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares. Banco do Brasil, B3 and Caixa Econômica shed near 1%, while Itaúsa lost 0.5%. Utilities also traded lower, with Sabesp down over 1% and CPFL losing over 3% despite reporting an 21.3% annual rise in net profit, as growth in its industrial sector was modest and net debt rose 19.2%. Meanwhile, Cemig gained nearly 3% after reporting an 8.8% rise in EBITDA. Elsewhere, Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Braskem (+3%) reported net income of R$3.33 billion, reversing a loss. MBRF (+5%) reported net income of R$69 million in 2Q26."
+    },
+    {
+      "id": "5041682",
+      "time": "2026-08-14 21:50:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方紅資產管理即將發售首隻ETF產品】8月14日晚，東方紅資產管理釋出公告稱，東方紅資產管理旗下的首隻ETF產品東方紅中證雲端計算50ETF將於8月20日正式發售。東方紅資產管理是繼興證全球基金、交銀施羅德基金之後，又一家正式入局ETF的以主動權益見長的基金管理人。隨著8月4日中歐基金完成首隻ETF的申報，國內非貨公募排名前列的主動管理公司基本已補齊被動投資拼圖。有業內人士指出，這一佈局並非行業跟風，而是基於機構的戰略定位和客戶端日益多元化的配置需求。對於基金管理人而言，佈局ETF一方面是完善公司產品線戰略佈局的必然操作，透過被動工具提升服務客戶的廣度與深度，另一方面，在可預期的創新產品規劃中，ETF已成為未來越來越多基金公司競爭新產品的“入場券”，為企業下一階段探索多元化策略、佈局更多創新業務奠定堅實基石。（中證報）"
+    },
+    {
+      "id": "mkt:01a00089-87af-7aab-9040-0af6fdab7147",
+      "time": "2026-08-14 21:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Jun business inventories MoM, preliminary Aug University of Michigan consumer sentiment index and preliminary 1-year inflation expectations will be released in 10 minutes."
+    },
+    {
+      "id": "5041681",
+      "time": "2026-08-14 21:49:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府正在針對聯邦政府中的另一項DEI政策採取行動。"
+    },
     {
       "id": "5041679",
       "time": "2026-08-14 21:48:25",
