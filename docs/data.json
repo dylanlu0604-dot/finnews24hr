@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-15 05:57:35",
-  "count": 15298,
+  "updated": "2026-08-15 06:07:17",
+  "count": 15299,
   "items": [
+    {
+      "id": "5042017",
+      "time": "2026-08-15 06:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心(EMSC)將印尼弗洛勒斯地區地震震級從7.4修正為6.9。"
+    },
+    {
+      "id": "5042016",
+      "time": "2026-08-15 06:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地學研究中心（GFZ）：印度尼西亞弗洛勒斯地區發生6.8級地震。"
+    },
+    {
+      "id": "mkt:01a0024e-d0aa-7aab-9046-8d81155b1c4c",
+      "time": "2026-08-15 06:05:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a magnitude-7.4 earthquake in Indonesia's Flores region."
+    },
+    {
+      "id": "5042014",
+      "time": "2026-08-15 06:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心(EMSC)表示，印尼弗洛勒斯地區發生7.4級地震。"
+    },
+    {
+      "id": "mkt:01a0024d-5cf2-7aab-9046-841fc11b050c",
+      "time": "2026-08-15 06:03:39",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【US defense primes race to develop lower-cost interceptors】Pressure on Patriot interceptor inventories after the US–Iran conflict has pushed Boeing, Lockheed Martin, Northrop Grumman and Raytheon to race to field cheaper, faster-to-produce missiles. Years of adding advanced seekers and propulsion have driven per-unit prices above $4m and production lead times of years. The Pentagon has warned firms to change or be left behind, seeking lower-cost options to counter cheap threats such as drones. Lockheed has introduced a low-cost ACE interceptor at roughly $2m a unit—under half the cost of an enhanced PAC-3 MSE. Boeing is developing an “ultra-low-cost” seeker to reduce guidance cost share. Northrop unveiled a new raid/hunter system and Raytheon is expanding applications of its low-cost Coyote counter‑UAS missile. The Army says not all targets require the most advanced interceptors, but most low-cost concepts still need several years to reach mass production."
+    },
+    {
+      "id": "5042013",
+      "time": "2026-08-15 05:57:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伯克希爾增持達美航空和Alphabet 新CEO開始動用鉅額現金儲備】隨著Greg Abel開始動用伯克希爾龐大的現金儲備，該公司增持達美航空和谷歌母公司Alphabet。根據週五的監管檔案，在Abel接替董事長沃倫·巴菲特出任執行長後的第二個完整季度，伯克希爾增持1,750萬股達美航空股票，截至6月底持倉價值增至53.7億美元。Abel還增持4810萬股Alphabet股票，使其成為伯克希爾第三大持倉，年中持倉價值達到378億美元。伯克希爾上週公佈第二季度業績時表示，該季度還斥資約45億美元回購自身股票，同時淨買入近200億美元其他股票。截至年中，公司持有現金3655億美元，低於3月底創紀錄的3970億美元。"
+    },
     {
       "id": "5042012",
       "time": "2026-08-15 05:49:07",
@@ -140017,52 +140069,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: South Korean Won Appreciates by 1.14% — Top currency gainers are South Korean Won (1.14%), Brazilian Real (0.81%), Swedish Krona (0.55%), Japanese Yen (0.42%), Euro (0.22%) and British Pound (0.17%). Biggest loser is Dollar Index (-0.33%)."
-    },
-    {
-      "id": "te:markets:573892",
-      "time": "2026-08-08 06:06:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Take Two Interactive Software earnings in line with market expectations at 0.33 USD — Take Two Interactive Software (TTWO) released earnings per share at 0.33 USD, in line with market expectations."
-    },
-    {
-      "id": "5031668",
-      "time": "2026-08-08 06:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價突破4300美元/盎司，日內漲幅2%。"
-    },
-    {
-      "id": "5031667",
-      "time": "2026-08-08 06:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤金價（人民幣）日內漲超2%，現報941.6635元/克。"
-    },
-    {
-      "id": "5031666",
-      "time": "2026-08-08 05:59:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國一消防直升機在猶他州墜毀】美國聯邦航空局當地時間8月7日證實，一架西科斯基S-64直升機當天在猶他州里奇菲爾德一處野火現場附近作業時墜毀，機上兩名乘員目前狀況不明。（央視新聞）"
-    },
-    {
-      "id": "5031665",
-      "time": "2026-08-08 05:58:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩對日元轉向偏空，干預影響逐漸消退】摩根士丹利外匯策略師對日元轉向偏空，他們認為，隨著事實證明美日當局支撐日元匯率的措施效果短暫，日元將逐步走弱。當局聯手支撐日元僅短暫提振了日元需求，並未扭轉其長期下行趨勢。因此，策略師在維持中性立場的同時，轉為偏空傾向。“除非再次聯合干預匯市，否則我們預計美元/日元將逐步走高，”David Adams、Andrew Watrous和Molly Nickolin週五寫道。"
     }
   ]
 }
