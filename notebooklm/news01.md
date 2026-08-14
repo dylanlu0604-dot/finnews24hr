@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 06:54:07_
-_本檔包含 3176 則快訊，約 604098 字_
+_更新時間：2026-08-15 07:32:08_
+_本檔包含 3182 則快訊，約 603549 字_
+
+---
+
+### 2026-08-15 07:30:28  #其他
+
+英偉達縮減對OpenAI資料中心專案提供2500億美元擔保的計劃。
+
+---
+
+### 2026-08-15 07:30:11  #公司
+
+【訂單飽滿結構升級 CXO企業半年度業績釋放回暖訊號】近期，多家CXO上市公司陸續釋出半年度經營情況，在手訂單增長、新分子業務加快放量成為行業共性特徵。有醫藥行業專家在接受記者採訪時表示，本輪CXO行業復甦呈現更為積極的特徵，隨著創新藥出海步伐加快，下半年行業景氣度有望延續。（上證報）
+
+---
+
+### 2026-08-15 07:25:47  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、寧夏水預算管理實現全覆蓋 精打細算，像管錢一樣管水（經濟新方位）
+2、“追火箭”，帶火濱海小城文旅（新場景新動能）
+3、差異化供給回應消費新需求（專家點評）
+4、“十五五”時期首條千萬噸級原油管道 連儀原油管道工程連淮段成功投產
+
+---
+
+### 2026-08-15 07:25:40  #宏觀 #其他 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“讓中國式現代化的底色更加亮麗”——從四張成績單看美麗中國建設新圖景
+2、推動經濟持續向新向優向好發展
+3、遼寧撫順持續推動學雷鋒活動融入日常、化作經常——雷鋒精神代代傳承（牢記初心使命 奮進復興征程）
+4、前7月 快遞業務量同比增長4.8%
+5、截至6月底 電動汽車充電基礎設施總數同比增長43.2%
+
+---
+
+### 2026-08-15 07:25:06  #公司 #國際
+
+美國商務部長盧特尼克：蘋果兌現了其將先進製造業帶回美國的承諾。 在美國投資了6000億美元。在德克薩斯州製造Mac mini。
+
+---
+
+### 2026-08-15 07:24:31  #其他
+
+【安徽滁州襄河口閘上水位超警 累計洩洪水量將達6000萬立方米】受降雨影響，滁河中游水位持續高位執行，安徽滁州襄河口閘上水位超警戒水位。今早（15日）6時，襄河口閘上水位12.72米，超警戒水位1.72米。襄河口閘自9日開始洩洪，預計到今早8時，累計洩洪水量將達到6000萬立方米。目前，滁州市轄區通航水域仍在交通管制中，滁河流域滁州境內通航水域渡口全部停渡、渡船停航，境內水上水下施工作業一律停工等，解除時間將另行通告。（央視新聞）
+
+---
+
+### 2026-08-15 07:22:53  #公司
+
+【攤餘成本法債基再度“開閘” 中小型公募獲重點扶持】8月14日晚間，中國證監會官網顯示，15家基金公司已經上報新一批攤餘成本法債基。此次上報的攤餘成本法債基為63個月封閉式的債券型基金，上報的基金公司主要包括朱雀基金、易米基金、國融基金、興合基金、鵬安基金等中小型基金公司，同時還包括了貝萊德基金、路博邁基金、安聯基金、聯博基金等外資機構。（上證報）
+
+---
+
+### 2026-08-15 07:22:31  #公司
+
+【AI算力持續虹吸先進產能 儲存超級週期或將轉向結構性行情】2026年，儲存晶片行業迎來一輪集中漲價行情，龍頭公司業績集體爆發。記者調研發現，本輪景氣週期並非全品類需求共振，AI算力持續虹吸先進產能，使得HBM高階儲存供需持續緊張，行業結構性特徵凸顯。受訪專家認為，伴隨漲價節奏逐步趨緩，細分賽道分化行情或將持續演繹，由AI驅動的儲存超級週期正邁入全新發展階段。（上證報）
+
+---
+
+### 2026-08-15 07:21:47  #國際
+
+【高市早苗向靖國神社供奉祭品】今天（8月15日），日本首相高市早苗向靖國神社供奉“玉串料”（祭祀費）。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 07:16:31  #央行 #中國央行
+
+【央行明確新訊號 利率端改革多點推進】從“月底見”到“月初見”“月中見”，隔夜逆回購操作頻率正在增加，進一步暢通政策利率向市場利率的傳導；從海南首批落地到多地逐步鋪開，DR（存款類金融機構債券回購利率）基準利率貸款正快速走向市場，推動貸款定價告別單一錨定LPR（貸款市場報價利率）的傳統模式……
+
+---
+
+### 2026-08-15 07:16:11  #國際
+
+【印尼7.7級地震引發海嘯】印尼氣象、氣候與地球物理局最新通報顯示，今天（8月15日）凌晨7.7級地震引發的海嘯已經在多個地點被監測到，最高0.36米。與此同時，震中附近仍在發生強烈震動。印尼氣象、氣候與地球物理局資料顯示，當地時間5時28分（北京時間6時28分）左右又發生6.2級地震。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 07:13:56  #公司 #資料 #焦點 #國際
+
+【8月15日隔夜要聞一覽】
+1、美國總統特朗普在接受媒體採訪時表示，美國將在經濟上對伊朗實施嚴厲打擊。此外，特朗普在談及伊朗時表示，他“很快將宣佈霍爾木茲海峽成為美國領土”。
+2、黎巴嫩總理納瓦夫·薩拉姆表示，應擴大黎南部“試點區域”，並明確以色列撤出黎領土的時間表。黎真主黨領導人納伊姆·卡西姆當天重申，真主黨拒絕接受在美國斡旋下達成的黎以美三方框架協議。
+3、美國總統特朗普在接受媒體採訪時表示，美國將在經濟上對伊朗實施嚴厲打擊。
+4、知情人士稱，特朗普政府對古巴的策略正越來越側重於加強制裁和經濟施壓，而不是透過軍事力量推翻古巴共產黨領導層。
+5、路易吉·曼吉奧內就槍殺聯合健康保險執行長布賴恩·湯普森（Brian Thompson）一案正式認罪。聯邦法官將路易吉·曼吉奧內的量刑日期定於12月18日。
+6、美國密歇根大學公佈2026年8月份消費者信心指數初值為51.0，低於7月的55.2，環比下降7.6%，同比下降12.4%。
+7、Anthropic2026年第二季度初步營收超115億美元，同時報告實現調整後營業利潤為正。
+8、Jane Street據悉在7月份大約虧損了150億美元。
+ 9、伯克希爾截至6月底持有約1.06億股Alphabet股票，價值379億美元。該持倉規模在最新季度躍升83%，使Alphabet成為其按市值計算的第三大美國上市股票持倉，僅次於蘋果和美國運通。
+
+---
+
+### 2026-08-15 07:09:59  #公司
+
+【近十年來首次單月失血 Jane Street在AI股大跌中鉅虧150億美元】據一位知情人士透露，由於主投人工智慧的對沖基金Situational Awareness折戟並拖累整個股票市場的資產價格，Jane Street近十年來首次蒙受單月虧損且金額高達約150億美元。股市的動盪令投資Situational Awareness和人工智慧公司的Jane Street遭受了罕見而嚴重的虧損。一位不願公開身份的知情人士表示，該公司對上述衝基金的投資以及在亞洲股市的錯誤押注是造成部分損失的原因。“7月是個糟糕的月份，” Jane Street合夥人Turner Batty在一份內部備忘錄中說。儘管如此，這位知情人士透露該公司年迄今產生的淨交易收入已逾400億美元，超過了它在2025年全年創下的華爾街最高紀錄。
+
+---
+
+### 2026-08-15 07:08:05  #國際
+
+市場訊息：泰國總理將於8月17‑20日訪問澳大利亞。
+
+---
+
+### 2026-08-15 07:05:59  #國際
+
+市場訊息：美國下令維持密歇根州燃煤電廠的運營。
+
+---
+
+### 2026-08-15 07:03:32  #國際
+
+市場訊息：美國宣佈向哥倫比亞地震提供1100萬美元援助。
+
+---
+
+### 2026-08-15 06:53:47  #國際
+
+【日自民黨高層首次集體參拜靖國神社】最新訊息：今天（8月15日），日本自民黨幹事長鈴木俊一、總務會長有村治子以及選舉對策委員長西村康稔參拜靖國神社。這是日本自民黨高層首次集體參拜。（CCTV國際時訊）
 
 ---
 
@@ -19079,71 +19199,5 @@ Italy's interior minister said Italy will only lift temporary Schengen border co
 ### 2026-08-14 00:52:44  #市場
 
 倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。
-
----
-
-### 2026-08-14 00:50:59  #MKT News
-
-CENTCOM has initiated consultations with regional partners and has formally invited them to join the process.
-
----
-
-### 2026-08-14 00:50:47  #其他
-
-【哥倫比亞強震已致273人遇難】當地時間13日，哥倫比亞國家災害風險管理局公佈最新資料顯示，該國日前發生的強震已造成273人遇難、3824人受傷，另有377人失蹤。據中國地震臺網正式測定，北京時間10日晚上，哥倫比亞當地時間10日上午，哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。（央視新聞）
-
----
-
-### 2026-08-14 00:50:12  #公司
-
-【OpenAI營收部門二度換帥 加速營收增長為上市鋪路】OpenAI不到一年內任命第二位首席營收官，顯示該公司正努力加強銷售增長，為備受期待的華爾街上市做準備。OpenAI已聘請達利·拉季奇擔任新的首席營收官，拉季奇此前擔任Alphabet旗下網路安全公司Wiz總裁兼營運長，將接替去年12月加入OpenAI的丹尼斯·德雷瑟。德雷瑟將在完成過渡期後離開公司。這一任命也發生在OpenAI高管團隊持續調整之際，近期已有布拉德·萊特卡普、菲吉·西莫和凱文·韋爾等高管離開公司。OpenAI總裁格雷格·布洛克曼表示，公司下一階段需要持續證明客戶每投入一美元人工智慧成本，都能帶來“可衡量的商業價值”。他透露，OpenAI年度營收執行率7月環比增長超過20%，企業客戶業務增長達到32%。上月，OpenAI表示其每週活躍使用者已突破10億。
-
----
-
-### 2026-08-14 00:50:02  #MKT News
-
-CENTCOM announced the launch of its first multi-domain, multinational attack-drone task force.
-
----
-
-### 2026-08-14 00:49:48  #公司 #市場 #國際
-
-【倫敦股市13日下跌】英國倫敦股市《金融時報》100種股票平均價格指數13日報收於10772.67點，較前一交易日下跌60.48點，跌幅為0.56%。歐洲三大股指當天全線下跌。當天倫敦股市成分股中位於漲幅前五位的個股分別為：獅子金融集團有限公司股價上漲5.19%，英美菸草股價上漲2.75%，邦瑞地產股價上漲2.37%，資訊科技服務公司康普塔森特股價上漲2.28%，房地產商珀西蒙公司股價上漲2.22%。（新華社）
-
----
-
-### 2026-08-14 00:49:15  #國際
-
-美國：該部隊將使用美國及夥伴國的攻擊型無人機。
-
----
-
-### 2026-08-14 00:48:09  #MKT News #Market Regions #Wall Street (US) #Market Themes #AI Revolution
-
-【OpenAI replaces revenue chief again as it accelerates revenue ahead of anticipated IPO】OpenAI has appointed Dali Rajic as chief revenue officer, its second CRO in under a year, signalling a push to boost sales ahead of an anticipated Wall Street listing. Rajic joins from Alphabet-backed cybersecurity firm Wiz, where he was president and COO; he will replace the CRO who joined last December and will depart after a transition. The move comes amid wider senior executive turnover, including departures of Brad Lightcap, Fidji Simo and Kevin Weil. President Greg Brockman said the company must keep proving each dollar of AI spend delivers measurable commercial value; OpenAI said its annualized revenue run rate rose more than 20% MoM in July and enterprise customer revenue grew 32%. OpenAI also reported weekly active users topped 1 billion last month.
-
----
-
-### 2026-08-14 00:46:25  #國際
-
-美國：成立新無人機特遣隊。
-
----
-
-### 2026-08-14 00:46:20  #國際
-
-美國非競爭性投標以9540萬美元的價格競購30年期債券。
-
----
-
-### 2026-08-14 00:43:41  #市場 #國際
-
-【曼哈頓租金創新高，有人豪擲4000美元只為搶看“隱藏房源”】曼哈頓租金7月飆升至紀錄最高水平，可出租房源出現歷史性萎縮，同時又恰逢夏季租房旺季，供需矛盾進一步加劇。根據房地產評估機構Miller Samuel Inc.和The Real Deal的最新資料，7月新籤租約的租金中位數達到5,000美元，同比上漲6.4%。這一漲幅是全美住房成本漲幅的兩倍。美國勞工統計局資料顯示，全美住房價格指標同比上漲3.2%。租金大漲的同時，房源供應急劇減少。上個月，曼哈頓掛牌出租房源同比驟降逾39%，降幅之大在過去十年中也屬罕見。這一趨勢也蔓延至東河另一側。布魯克林7月租金中位數同樣創下歷史新高，達到4,500美元，而掛牌房源數量較去年同期減少27%。
-
----
-
-### 2026-08-14 00:42:32  #Trading Economics #Markets #Commodity #Importance 0
-
-Lumber Extends Decline Amid Tariff Uncertainty — Lumber prices fell below $570 per thousand board feet as tariff uncertainty continued to weigh on demand. Canada’s minister responsible for US trade relations said the country remains committed to negotiations, although reports indicated Canadian officials were dissatisfied with the latest US offer and continued to push for zero tariffs on softwood lumber. Earlier, the US imposed tariffs on several Canadian lumber-related products, while Canadian softwood lumber was excluded. Still, US demand for Canadian lumber fell 1.7% in the first half of the year, while its share of the US market declined slightly. Shipments to markets outside the US also fell 3%. Meanwhile, mortgage rates rose to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July. Construction spending on lumber-intensive single-family housing fell 3.3% year-on-year in June, adding to demand concerns.
 
 ---

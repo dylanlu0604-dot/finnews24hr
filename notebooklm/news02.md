@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 06:54:07_
-_本檔包含 3099 則快訊，約 604207 字_
+_更新時間：2026-08-15 07:32:08_
+_本檔包含 3087 則快訊，約 603792 字_
+
+---
+
+### 2026-08-14 00:50:59  #MKT News
+
+CENTCOM has initiated consultations with regional partners and has formally invited them to join the process.
+
+---
+
+### 2026-08-14 00:50:47  #其他
+
+【哥倫比亞強震已致273人遇難】當地時間13日，哥倫比亞國家災害風險管理局公佈最新資料顯示，該國日前發生的強震已造成273人遇難、3824人受傷，另有377人失蹤。據中國地震臺網正式測定，北京時間10日晚上，哥倫比亞當地時間10日上午，哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。（央視新聞）
+
+---
+
+### 2026-08-14 00:50:12  #公司
+
+【OpenAI營收部門二度換帥 加速營收增長為上市鋪路】OpenAI不到一年內任命第二位首席營收官，顯示該公司正努力加強銷售增長，為備受期待的華爾街上市做準備。OpenAI已聘請達利·拉季奇擔任新的首席營收官，拉季奇此前擔任Alphabet旗下網路安全公司Wiz總裁兼營運長，將接替去年12月加入OpenAI的丹尼斯·德雷瑟。德雷瑟將在完成過渡期後離開公司。這一任命也發生在OpenAI高管團隊持續調整之際，近期已有布拉德·萊特卡普、菲吉·西莫和凱文·韋爾等高管離開公司。OpenAI總裁格雷格·布洛克曼表示，公司下一階段需要持續證明客戶每投入一美元人工智慧成本，都能帶來“可衡量的商業價值”。他透露，OpenAI年度營收執行率7月環比增長超過20%，企業客戶業務增長達到32%。上月，OpenAI表示其每週活躍使用者已突破10億。
+
+---
+
+### 2026-08-14 00:50:02  #MKT News
+
+CENTCOM announced the launch of its first multi-domain, multinational attack-drone task force.
+
+---
+
+### 2026-08-14 00:49:48  #公司 #市場 #國際
+
+【倫敦股市13日下跌】英國倫敦股市《金融時報》100種股票平均價格指數13日報收於10772.67點，較前一交易日下跌60.48點，跌幅為0.56%。歐洲三大股指當天全線下跌。當天倫敦股市成分股中位於漲幅前五位的個股分別為：獅子金融集團有限公司股價上漲5.19%，英美菸草股價上漲2.75%，邦瑞地產股價上漲2.37%，資訊科技服務公司康普塔森特股價上漲2.28%，房地產商珀西蒙公司股價上漲2.22%。（新華社）
+
+---
+
+### 2026-08-14 00:49:15  #國際
+
+美國：該部隊將使用美國及夥伴國的攻擊型無人機。
+
+---
+
+### 2026-08-14 00:48:09  #MKT News #Market Regions #Wall Street (US) #Market Themes #AI Revolution
+
+【OpenAI replaces revenue chief again as it accelerates revenue ahead of anticipated IPO】OpenAI has appointed Dali Rajic as chief revenue officer, its second CRO in under a year, signalling a push to boost sales ahead of an anticipated Wall Street listing. Rajic joins from Alphabet-backed cybersecurity firm Wiz, where he was president and COO; he will replace the CRO who joined last December and will depart after a transition. The move comes amid wider senior executive turnover, including departures of Brad Lightcap, Fidji Simo and Kevin Weil. President Greg Brockman said the company must keep proving each dollar of AI spend delivers measurable commercial value; OpenAI said its annualized revenue run rate rose more than 20% MoM in July and enterprise customer revenue grew 32%. OpenAI also reported weekly active users topped 1 billion last month.
+
+---
+
+### 2026-08-14 00:46:25  #國際
+
+美國：成立新無人機特遣隊。
+
+---
+
+### 2026-08-14 00:46:20  #國際
+
+美國非競爭性投標以9540萬美元的價格競購30年期債券。
+
+---
+
+### 2026-08-14 00:43:41  #市場 #國際
+
+【曼哈頓租金創新高，有人豪擲4000美元只為搶看“隱藏房源”】曼哈頓租金7月飆升至紀錄最高水平，可出租房源出現歷史性萎縮，同時又恰逢夏季租房旺季，供需矛盾進一步加劇。根據房地產評估機構Miller Samuel Inc.和The Real Deal的最新資料，7月新籤租約的租金中位數達到5,000美元，同比上漲6.4%。這一漲幅是全美住房成本漲幅的兩倍。美國勞工統計局資料顯示，全美住房價格指標同比上漲3.2%。租金大漲的同時，房源供應急劇減少。上個月，曼哈頓掛牌出租房源同比驟降逾39%，降幅之大在過去十年中也屬罕見。這一趨勢也蔓延至東河另一側。布魯克林7月租金中位數同樣創下歷史新高，達到4,500美元，而掛牌房源數量較去年同期減少27%。
+
+---
+
+### 2026-08-14 00:42:32  #Trading Economics #Markets #Commodity #Importance 0
+
+Lumber Extends Decline Amid Tariff Uncertainty — Lumber prices fell below $570 per thousand board feet as tariff uncertainty continued to weigh on demand. Canada’s minister responsible for US trade relations said the country remains committed to negotiations, although reports indicated Canadian officials were dissatisfied with the latest US offer and continued to push for zero tariffs on softwood lumber. Earlier, the US imposed tariffs on several Canadian lumber-related products, while Canadian softwood lumber was excluded. Still, US demand for Canadian lumber fell 1.7% in the first half of the year, while its share of the US market declined slightly. Shipments to markets outside the US also fell 3%. Meanwhile, mortgage rates rose to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July. Construction spending on lumber-intensive single-family housing fell 3.3% year-on-year in June, adding to demand concerns.
 
 ---
 
@@ -18525,143 +18591,5 @@ ALPHABET股價觸及盤中低點，下跌0.5%。
 ### 2026-08-12 22:03:36  #公司
 
 【二季度新AI產品影響105億利潤，騰訊總裁劉熾平回應】8月12日，騰訊釋出的2026Q2財報顯示，該季度混元、元寶、WorkBuddy、CodeBuddy、小微等AI產品對Non-GAAP營業利潤的影響為105億元，相較於一季度明顯增加。騰訊總裁劉熾平在談及騰訊如何分配AI產品投入時表示，目前情況非常動態。在看到真正爆發的機會之前，騰訊的投資會比較謹慎，一旦看到機會就會加大投入，整體會著眼於長遠進行投資。例如，WorkBuddy 正在爆發式增長，所以當下優先投入了WorkBuddy，也降低了其他一些產品的優先順序。隨著時間推移，經濟效益會逐漸顯現，到某個時候自然能實現盈利。他強調，如果騰訊把商業模式直接改成單純出租算力，那不僅不會虧損，反而會盈利。騰訊始終有這個備選方案，這也讓騰訊“比較有底氣”。
-
----
-
-### 2026-08-12 22:02:49  #MKT News #Star Stocks #Tencent #TCEHY.O #Impact bearish
-
-Tencent Holdings ADRs fell as much as about 4% in early U.S. trading.
-
----
-
-### 2026-08-12 22:02:43  #國際
-
-多國呼籲伊朗傾聽民眾呼聲，採取切實措施確保人權得到尊重。
-
----
-
-### 2026-08-12 22:02:33  #國際
-
-法國外長：歐盟及26個國家發表聯合宣告，譴責伊朗處決抗議者。
-
----
-
-### 2026-08-12 22:02:08  #國際
-
-【北美建築貿易工會聯合會與 Meta 公佈全新合作，投資技術工種領域】Meta 與北美建築貿易工會聯合會（NABTU）宣佈建立合作關係，為人工智慧時代的技術工種領域投入資源。該合作體現雙方的共同長期承諾：確保參與建設美國人工智慧基礎設施的勞動者與相關社群能夠直接從中獲益。Meta 與北美建築貿易工會聯合會計劃逐步擴大投資規模，推進相關工作落地。Meta 總裁兼副董事長迪娜・鮑威爾・麥考密克表示：“這是一個重要時刻，正是這些技術工種從業者在搭建美國所需的基礎設施。”
-
----
-
-### 2026-08-12 22:01:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O
-
-Google launches Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold smartphones.
-
----
-
-### 2026-08-12 22:01:28  #其他
-
-騰訊控股ADR盤初一度跌近4%，其第二季度營收2,047.9億元，同比增長11%；經營活動所產生的現金淨額人民幣527億元，超出預期。
-
----
-
-### 2026-08-12 22:01:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google announced an upgraded Pixel Watch 5 with a starting price of $399.
-
----
-
-### 2026-08-12 22:01:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact mixed
-
-Google (GOOG.O) raised prices on its new phones citing a severe memory shortage. The new smartphone starts at $899 and the foldable is priced at $1,899, $100 above the prior generation.
-
----
-
-### 2026-08-12 22:01:06  #公司
-
-谷歌新款手機較上一代機型漲價 100 美元。
-
----
-
-### 2026-08-12 22:01:02  #公司
-
-谷歌推出 Pixel 11、11 Pro、11 Pro XL、11 Pro Fold 系列手機。
-
----
-
-### 2026-08-12 22:00:41  #公司
-
-谷歌釋出升級版 Pixel Watch 5，起售價 399 美元。
-
----
-
-### 2026-08-12 22:00:37  #公司
-
-受嚴重記憶體供應短缺影響，谷歌上調新款手機售價。
-
----
-
-### 2026-08-12 22:00:17  #公司
-
-谷歌可穿戴裝置將實現胰島素抵抗監測，屬該品類首創 。
-
----
-
-### 2026-08-12 21:58:26  #國際
-
-美國國家颶風中心（NHC）表示，位於百慕大東北偏東約1050英里的風暴在未來48小時內發展為氣旋的機率為80%。
-
----
-
-### 2026-08-12 21:57:28  #公司
-
-【26皮城G1：2.60億元綠色公司債券一期票面利率確定為1.84%】26皮城G1公告稱，公司發行不超15億元公司債券已獲證監註冊，2026年面向專業投資者公開發行綠色公司債券（第一期）擬發行規模不超2.60億元。8月12日詢價後，確定本期債券票面利率為1.84%，將於8月13日至14日面向專業機構投資者網下發行。
-
----
-
-### 2026-08-12 21:56:35  #其他
-
-【到2030年6萬億度綠電奔湧入網 東數西算撬動萬億級社會投資】當AI融入日常，算力的胃口驚人：一個“萬卡叢集”一天至少吞掉20萬度電。據測算，到2030年全國算力用電量將達到8000億千瓦時。人工智慧的未來，不僅是“算”的比拼，更是“電”的競賽。算力在狂奔，綠電在託底。截至6月底，我國非化石能源發電裝機容量25.2億千瓦，佔總裝機容量比重的62.4%。我國新增用電需求幾乎全部由綠電滿足。東數西算八大樞紐內，大型綠色算力叢集綠電使用率持續攀升。內蒙古和林格爾、甘肅慶陽等地新建資料中心的綠電消費佔比已超80%，全國172個算力中心透過綠色低碳4A認證。如今，東數西算工程已撬動萬億級社會投資，有效解決算力高能耗、新能源發電波動等問題，綠色能源底座正在託舉中國AI全球競爭力。（央視財經）
-
----
-
-### 2026-08-12 21:56:12  #MKT News
-
-Market sources: India and the Southern African Customs Union (SACU) signed a terms-of-reference to launch negotiations on a preferential trade agreement.
-
----
-
-### 2026-08-12 21:55:19  #市場 #央行 #國際
-
-【新興市場貨幣走強，美國通脹緩解市場對美聯儲加息的擔憂】美國核心通脹資料顯示 7 月潛在物價壓力維持溫和，新興市場貨幣延續漲勢。通脹資料公佈後美元走弱，多數發展中國家貨幣走高，智利比索與南非蘭特領漲。受亞洲晶片製造商大漲帶動，新興市場股市上行；人工智慧基建企業業績向好，重新提振市場對科技股的投資意願。
-
----
-
-### 2026-08-12 21:55:14  #MKT News #Market Themes #China Tech Giants #000050.SZ #Impact bullish
-
-【Tianma Microelectronics to exclusively supply screens for Honor Robot Phone】China's Tianma Microelectronics said on Aug. 12 that Honor launched the Robot Phone. As a long-term strategic partner, Tianma will be the exclusive supplier of a deeply customized, high-end TianGong OLED display for the model, marking the first deployment of the TianGong screen in an AI device with embodied interaction capability.
-
----
-
-### 2026-08-12 21:55:01  #市場
-
-諾基亞股價上漲，分析師指出Lumentum優於預期的季度展望帶來積極聯動效應。
-
----
-
-### 2026-08-12 21:53:48  #宏觀 #資料 #市場 #央行 #國際
-
-【美國通脹資料並未解開華爾街的疑問 美債市場認為9月加息機率約五成】美國通脹資料表現溫和後，交易員仍保留對沖美聯儲可能在9月會議上加息的頭寸，目前市場定價顯示加息機率約為50%。週三公佈的消費者價格指數符合預期，幫助美國國債維持漲勢。對美聯儲政策變化最敏感的兩年期美債收益率下跌3個基點至4.18%，基準10年期收益率同樣下跌3個基點至4.65%。當天晚些時候，美國財政部將進行420億美元10年期國債拍賣。利率互換顯示，經濟資料公佈後，交易員將10月加息機率從前一天的約75%下調至約60%。市場已完全計入美聯儲將在12月採取下一步行動。Aviva Investors高階固定收益投資組合經理Steve Ryder表示：“雖然這份資料應能讓9月加息預期繼續存在，但也沒有給美聯儲立即行動帶來太大緊迫性。決策者可能會更加重視下一份CPI報告和勞動力市場資料，然後再決定今年晚些時候是否需要進一步收緊政策。”法國外貿銀行北美首席美國經濟學家Christopher Hodge表示：“近期每次美聯儲會議都需要計入出現意外的可能性，但我們仍認為，在通脹緩慢且逐步向目標回落、消費降溫以及就業前景更加脆弱的背景下，美聯儲可能會勉強避免加息。”
-
----
-
-### 2026-08-12 21:53:44  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) and North America’s Building Trades Unions (NABTU) announced a collaboration to support tech workers.
-
----
-
-### 2026-08-12 21:53:24  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish
-
-【World's largest single-unit AI compute center commissioned at Ulanqab Xinghe; 1 kWh of green power equals ~30s of AI text-to-video】China has commissioned the Ulanqab Xinghe base, described as the world’s largest single-unit intelligent computing center, spanning roughly 20 football fields with 160 MW of power capacity. The facility is built with on-site wind generation and a dedicated transmission line to supply about 80% direct green power, uses AI-driven power management and storage, and supports parallel capacity on the order of one million accelerator cards and P-level compute scale. Operators say one kWh of onsite green power can be converted into roughly 30 seconds of AI text-to-video output.
 
 ---

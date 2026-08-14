@@ -1,7 +1,160 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 06:54:07_
-_本檔包含 3162 則快訊，約 603976 字_
+_更新時間：2026-08-15 07:32:08_
+_本檔包含 3171 則快訊，約 603430 字_
+
+---
+
+### 2026-08-11 20:06:38  #市場
+
+JOBY航空股下跌幅度高達7.7%。
+
+---
+
+### 2026-08-11 20:06:32  #國際
+
+巴西外交部：杜里根將於當地時間下午4點與盧拉會面。
+
+---
+
+### 2026-08-11 20:06:02  #公司
+
+【上海量子計算企業不籌量子宣佈完成數億元A輪融資】8月11日訊息，不籌量子宣佈近日完成A輪融資，截至目前公司累計融資近10億元。本輪融資由國泰海通、金鼎資本、中芯聚源、上海科創集團、頭部產投方、中信旗下基金、TCL創投、金浦智慧、道禾長期投資、元禾控股、楊浦夢航、上海產業智慧財產權基金、川創投等投資機構及產業方共同參與。本輪融資將主要用於中性原子量子計算核心技術研發、整機及關鍵模組的工程化與產品化、核心團隊建設，以及量子計算應用生態拓展。
+
+---
+
+### 2026-08-11 20:05:47  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #IBM.O
+
+IBM said under a multi-year $240m agreement it plans to deploy a large number of NVIDIA HGX B300 systems on IBM Cloud, with availability expected in Q1 2027.
+
+---
+
+### 2026-08-11 20:05:29  #市場
+
+【立訊精密今日大宗交易平價成交476.63萬股，成交額2.65億元】8月11日，立訊精密大宗交易成交476.63萬股，成交額2.65億元，佔當日總成交額的5.34%，成交價55.63元，較市場收盤價55.63元持平。
+
+---
+
+### 2026-08-11 20:05:07  #MKT News #NVDA.O #Impact bearish
+
+【Dan Bin says Changjiang Oriental Harbour Fund No.2 stayed fully invested in July drawdown; only minimal structural tweaks】Dan Bin, chairman of Oriental Harbour, told investors Changjiang Oriental Harbour Fund No.2 remained fully invested heading into July’s deep pullback and was heavily exposed to AI industry-chain names. The fund, which captured NVIDIA-led global AI gains in 2023 but only began large-scale A-share AI allocations in 2026, suffered a significant drawdown with the AI sector and did not carry out material de-risking—only very small, structural micro-adjustments.
+
+---
+
+### 2026-08-11 20:05:07  #MKT News #Important
+
+US ADP weekly employment change for week ended July 25 due in 10 minutes.
+
+---
+
+### 2026-08-11 20:04:49  #公司
+
+【三安光電：為子公司6.5億元借款展期提供連帶責任擔保】三安光電公告稱，全資子公司湖南三安此前向農業銀行申請的10億元綜合授信額度融資，剩餘借款本金6.5億元原到期日為2026年8月11日。近期，三方簽訂《借款展期協議》，借款本金展期至2028年8月11日，公司為該筆借款展期提供連帶責任擔保，保證期間為借款展期到期日起三年。截至公告日，公司實際對外擔保總額為114.93億元，佔2025年末經審計淨資產的32.95%，無逾期對外擔保。
+
+---
+
+### 2026-08-11 20:04:29  #公司 #市場
+
+【華智數媒：股票交易異常波動 不存在應披露未披露重大資訊】華智數媒公告稱，公司股票於2026年8月10日、8月11日連續2個交易日收盤價格漲幅偏離值累計超30%，屬於異常波動。經自查及問詢控股股東和實控人，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大資訊，控股股東和實控人在異常波動期間無買賣公司股票情形。提醒投資者注意交易風險。
+
+---
+
+### 2026-08-11 20:04:19  #公司
+
+【青海首開寮國國際班列 尿素實現自營出口】8月11日，裝載1150噸青海雲天化國際化肥有限公司自產尿素的中老鐵路國際貨物列車，從青藏鐵路西寧雙寨物流中心啟程開往寮國永珍。這是青海首趟直達寮國永珍的國際貨運班列，青海自產尿素首次實現自營出口，標誌著青海面向東盟的國際物流通道建設迎來新突破。（新華社）
+
+---
+
+### 2026-08-11 20:04:14  #宏觀
+
+【但斌回應投資人質疑：東方港灣在7月深度回撥中沒有大幅減倉 僅極小比例結構性微調】東方港灣董事長但斌回應投資人質疑稱，長江東方港灣2號目前依舊保持滿倉狀態，在7月本輪深度回撥之前，該基金重倉AI產業鏈標的，一路堅持、未做大規模減倉，本輪跟隨AI賽道出現了較大幅度回撤。東方港灣在2023年把握了英偉達為代表的全球AI核心機會，對A股本土AI產業鏈的佈局啟動偏晚，直到2026年才全面全力以赴重倉。本輪7月大跌行情中，東方港灣沒有恐慌割肉、沒有大幅減倉，僅做了極小比例的結構性微調。
+
+---
+
+### 2026-08-11 20:03:52  #公司 #市場 #焦點
+
+芝商所集團將把全天候交易範圍擴大至100盎司白銀期貨。
+
+---
+
+### 2026-08-11 20:03:45  #國際
+
+NOVO表示，AWIQLI現已在美國上市。
+
+---
+
+### 2026-08-11 20:03:09  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact mixed #DXY
+
+CME Group will expand 24-hour trading to its 100-oz silver futures.
+
+---
+
+### 2026-08-11 20:02:54  #市場
+
+波羅的海乾散貨運價指數下跌1.2%，至3046點。
+
+---
+
+### 2026-08-11 20:02:54  #MKT News
+
+Baltic Dry Index (BDI) fell 1.2% to 3,046.
+
+---
+
+### 2026-08-11 20:02:49  #公司
+
+洋基全球與阿波羅旗下公司簽署26億美元融資協議。
+
+---
+
+### 2026-08-11 20:02:37  #MKT News #Important #Commodities #Precious Metals
+
+CME Group to begin 24-hour trading in silver on Sept. 11.
+
+---
+
+### 2026-08-11 20:02:24  #國際
+
+【伊拉克政府計劃由安全部隊接管朱爾夫塞赫爾地區】伊拉克政府訊息人士當地時間11日稱，伊拉克總理扎伊迪已就下一階段國家武器管控提出方案，並計劃將巴格達以南朱爾夫塞赫爾地區置於伊拉克安全部隊的控制之下。朱爾夫塞赫爾位於伊拉克巴比倫省北部、巴格達以南，地處巴格達通往卡爾巴拉等伊南部城市的重要通道。近年來，該地區被外界普遍視為伊拉克什葉派民兵組織“真主旅”的重要據點，美國也曾多次對當地武裝設施實施打擊。（央視新聞）
+
+---
+
+### 2026-08-11 20:02:11  #公司
+
+【聯創電子：控股股東補充質押192萬股 累計質押比例超80%】聯創電子公告稱，近日，控股股東江西鑫盛將192萬股進行補充質押，佔其所持股份2.10%，佔公司總股本0.18%，質押期限至2027年8月10日。截至公告披露日，江西鑫盛及其一致行動人累計質押股份7800萬股，佔其所持股份83.97%，佔公司總股本7.38%。江西鑫盛未來半年內到期質押股份5500萬股，對應融資額2.88億元；未來一年（不含半年內）到期1700萬股，對應融資額5540萬元。其質押風險可控，不會對公司產生實質性影響。
+
+---
+
+### 2026-08-11 20:01:52  #其他
+
+【保險業快速應對臺風“白海豚” 已賠付3409萬元】今年第13號颱風“白海豚”9日在浙江登陸。記者從國家金融監督管理總局獲悉，截至8月11日12時，浙江、上海、江蘇、江西等地保險機構共接報案近10萬件，估損12億元，已賠付（含預賠付）3409萬元。入汛以來，金融監管總局持續指導各地金融監管局和保險業切實增強責任意識，推動做好防汛救災等金融服務工作。截至8月11日12時，針對近期多地區出現的強降雨、颱風、地震、山洪等重大自然災害，廣西等22省份保險業累計接報案67萬件，估損132億元，已賠付76億元，有力補償重大自然災害損失。（新華社）
+
+---
+
+### 2026-08-11 20:01:36  #其他
+
+IBM與Together AI簽署為期多年的2.4億美元合作協議。
+
+---
+
+### 2026-08-11 20:01:31  #其他
+
+市場訊息：IBM將在IBM雲部署英偉達HGX B300叢集。
+
+---
+
+### 2026-08-11 20:01:20  #宏觀 #公司 #市場 #央行 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨齊漲，道指期貨漲0.06%，標普500指數期貨漲0.17%，納指期貨漲0.33%。
+②德國DAX指數漲0.05%，英國富時100指數漲0.03%，法國CAC40指數漲0.06%，歐洲斯托克50指數漲0.31%。
+③WTI原油漲0.12%，報82.23美元/桶。布倫特原油跌0.05%，報87.68美元/桶。
+④本週伊始，美國國債收益率小幅走低。投資者將迎來密集經濟資料周，市場焦點集中在等待7 月核心通脹資料。
+⑤日本央行或在9月加息以應對通脹風險。
+⑥特朗普密集發聲涵蓋霍爾木茲控制權、對伊策略與美聯儲溝通，中東局勢與內政外交交織。
+⑦美國財政部長貝森特建議採取不設上限的方式幫助日本拯救日元。
+⑧中概股南茂科技盤前大幅上漲10.67%，公司剛剛釋出了2026年第二季度財報，核心資料全面超預期。
+⑨比特幣礦業公司Riot Platforms盤前飆升20.1%，有媒體援引知情人士透露，Anthropic已與Riot Platforms Inc.達成一項價值91億美元的協議。
 
 ---
 
@@ -18964,95 +19117,5 @@ Southbound Stock Connect net inflow CNY 2.021 bln today. Via Shanghai Connect, o
 ### 2026-08-10 17:29:43  #公司
 
 【永和智控：兩起訴訟案件取得進展，涉案金額共638.59萬元】永和智控公告稱，前期已披露累計訴訟、仲裁事項中，2項案件取得新進展。其中，達州醫科腫瘤醫院有限公司等與重慶近水生物科技有限公司的合同糾紛案件，涉案金額620萬元，原告已撤訴；江蘇森標科技有限公司對公司的訴訟，涉案金額18.59萬元，已當庭對公司撤訴。部分訴訟案件尚未結案，對公司利潤影響不確定。
-
----
-
-### 2026-08-10 17:29:26  #其他
-
-【上海：深化建設國家區塊鏈網路上海樞紐 加強電子單證在航運、貿易、金融等多場景使用】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》。《方案》提出：深化建設國家區塊鏈網路上海樞紐，加強電子單證在航運、貿易、金融等多場景使用。
-
----
-
-### 2026-08-10 17:28:19  #公司
-
-【大北農：2026年7月商品肥豬銷售收入3.19億元 同比降15.83%】大北農公告稱，2026年7月公司商品肥豬銷售23.89萬頭，銷售收入3.19億元，銷售均價11.04元/公斤。銷售數量環比降23.77%、同比增13.87%，銷售收入環比降12.84%、同比降15.83%。1-7月累計銷售商品肥豬234.05萬頭，同比增25.02%；累計銷售收入29.98億元，同比降11.77%。7月銷售數量環比降低是調整出欄節奏所致。
-
----
-
-### 2026-08-10 17:28:14  #其他
-
-【天津市擬於8月11日上午啟動防汛二級應急響應】天津市防辦提示：天津市擬於8月11日上午啟動防汛二級應急響應，請廣大公眾關注臨近天氣預報，強降雨期間減少外出，如需外出儘量遠離道橋涵洞等易積水片區以及低窪路段，遇到積水路段不要涉水，不要在低窪路段和區域停放車輛；降雨前後避免前往山區，也不要在山谷逗留；遠離河道及海岸邊。（央視新聞）
-
----
-
-### 2026-08-10 17:27:18  #國際
-
-市場訊息：烏克蘭稱打擊了俄羅斯韃靼斯坦的塔內科煉油廠。
-
----
-
-### 2026-08-10 17:27:18  #Trading Economics #Economy #Cyprus #Balance of Trade #Importance 1
-
-Cyprus Trade Deficit Widens in June — Cyprus’ trade deficit widened to EUR 826.3 million in June 2026 from EUR 638.1 million in the same month a year earlier, preliminary estimates showed. Imports rose 11.9% year-on-year to EUR 1,289.3 million, driven by higher purchases from both EU countries (18.8%) and non-EU countries (4.0%). Imports included the transfer of economic ownership of vessels valued at EUR 117.8 million, up from EUR 55.8 million in June last year. Meanwhile, exports fell 9.9% to EUR 463.0 million, weighed down by a decline in shipments to non-EU countries (-31.3%), while exports to third countries grew 42.3%. Vessel and aircraft transfers were valued at EUR 77.3 million, up from EUR 68.5 million. For the January-June period, the trade shortfall widened to EUR 4,679.1 million from EUR 4,055.1 million in the same period last year.
-
----
-
-### 2026-08-10 17:27:07  #MKT News #WTI #Impact bullish #Brent
-
-【Ukraine intensifies strikes on Russian refineries】Drones struck Russia's petrochemical hub Nizhnekamsk, killing 13 people, including a child, and injuring about 40, foreign media report. Ukraine has stepped up attacks on Russian oil-processing facilities this month after a lull in late July when refineries carried out repairs and boosted nationwide fuel output to ease shortages. Last week Kyiv struck five Russian refineries, adding fresh pressure on domestic gasoline and diesel supplies.
-
----
-
-### 2026-08-10 17:26:58  #公司
-
-【中交設計：閒置募集資金現金管理部分到期贖回 獲本息4.51億元】中交設計公告稱，公司於2026年5月8日購買的華夏銀行和交通銀行“3個月定期存款”已贖回，共獲本金及收益45,113.16萬元，其中華夏銀行產品贖回35,087.60萬元、收益87.60萬元，交通銀行產品贖回10,025.56萬元、收益25.56萬元。截至公告日，公司最近12個月現金管理已收回全部本金，收益816.02萬元，使用餘額為0，未超董事會授權範圍，無逾期未收回情況，未使用額度10億元。
-
----
-
-### 2026-08-10 17:26:54  #公司
-
-【惠威科技：截至8月7日回購股份151.59萬股 耗資2451.23萬元】惠威科技公告稱，公司於2026年7月23日擬以4000萬-8000萬元自有資金回購股份，用於維護公司價值及股東權益（出售），回購價不超18.5元/股，期限3個月。截至8月7日，公司已回購1,515,900股，佔總股本1.03%，最高成交價17.65元/股，最低14.70元/股，支付總金額24,512,255元。後續將繼續實施回購並依規披露。
-
----
-
-### 2026-08-10 17:26:29  #公司 #市場
-
-【海鷗股份：2025年資料中心冷卻塔營業收入佔比不足1.5%，核電領域未形成收入】海鷗股份公告，公司股票於2026年8月6日、8月7日、8月10日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司下游主要客戶涵蓋石化化工、火電等領域；2025年度，公司來自資料中心領域冷卻塔業務營業收入佔比不足1.5%，金額佔比較小；來自核電領域冷卻塔業務未形成收入。此外，金敖大減持計劃尚未實施完畢，2026年8月5日已減持285.49萬股。
-
----
-
-### 2026-08-10 17:26:15  #公司
-
-【興齊眼藥：完成240.50萬股回購股份登出 總股本減少】興齊眼藥公告稱，公司本次登出回購股份240.50萬股，佔登出前總股本的0.67%，涉及金額約1億元。經稽核，回購股份登出事宜於2026年8月7日生效。登出完成後，公司總股本由3.57億股減至3.55億股。本次回購股份登出不會對公司產生重大影響，後續將辦理註冊資本變更等相關工作。
-
----
-
-### 2026-08-10 17:26:06  #公司
-
-【天士力：部分董事及高管變更，席凱擬任總經理，蔡金勇任董事長】天士力公告稱，因工作調整，鍾江不再擔任公司第九屆董事會非獨立董事，在股東會選舉產生新任董事前繼續履職；席凱不再擔任職工代表董事，擬被增補為非獨立董事，同時被聘任為公司總經理；蔡金勇不再擔任總經理，被推舉為公司第九屆董事會董事長。上述人員任期至第九屆董事會屆滿。截至公告日，三人未持有公司股票，無未履行承諾事項。
-
----
-
-### 2026-08-10 17:25:52  #公司
-
-【海優新材：擬向全資子公司泰州海優威增資4500萬元】海優新材公告，公司擬以自有資金或自籌資金向全資子公司泰州海優威應用材料有限公司增資人民幣4500萬元。本次增資事項已經公司第四屆董事會第三十八次會議審議透過，無需提交公司股東會審議。增資完成後泰州海優威註冊資本將由人民幣1.5億元增至1.95億元，公司持股比例保持100%。本次增資不構成關聯交易，亦不構成重大資產重組。
-
----
-
-### 2026-08-10 17:25:31  #央行 #國際
-
-歐洲央行稱，各銀行向其存入2萬億歐元隔夜存款。
-
----
-
-### 2026-08-10 17:25:31  #MKT News #2317.TW #Impact bearish
-
-Foxconn's electric-vehicle unit Foxtron reported a Jan–June net loss of NT$2.01 billion, or a NT$1.15 loss per share.
-
----
-
-### 2026-08-10 17:25:21  #Trading Economics #Economy #Greece #Industrial Production #Importance 1
-
-Greece Industrial Production Expands for 10th Month — Industrial output in Greece rose by 1.1% from the previous year in June of 2026, slowing from the downwardly revised 3.7% in the previous month. Still, it marked ten consecutive months of growth despite turbulent macroeconomic conditions in the period due to the war in the Middle East and its impact on higher energy prices for goods producers. Growth was supported by manufacturing (2.4%) amid higher output for machinery and equipment (5%), fabricated metal products (2.2%), printing and reproduction of recorded products (8.1%), textiles (2.2%), and food (2.2%). In turn, production fell for mining and quarrying (-3%), electricity supply (-3.8%), and water supply (-2.6%). From the previous month, industrial production eased by 0.4%.
 
 ---
