@@ -1,7 +1,147 @@
 {
   "date": "2026-08-14",
-  "count": 1673,
+  "count": 1693,
   "items": [
+    {
+      "id": "mkt:019fff6d-cfad-7aab-903a-aafbb4ca2fd7",
+      "time": "2026-08-14 16:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president said the government must stop agencies from independently procuring identical goods and maintain fiscal discipline."
+    },
+    {
+      "id": "5040932",
+      "time": "2026-08-14 16:40:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我們必須停止對同種商品採購不協調的行為，維持財政紀律。"
+    },
+    {
+      "id": "5040931",
+      "time": "2026-08-14 16:39:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東家裝在四川成立新公司 註冊資本1000萬元】天眼查App顯示，近日，京東家裝（四川）有限公司成立。該公司註冊資本1000 萬元人民幣，法定代表人為石永剛，登記狀態存續，屬有限責任公司（非自然人投資或控股的法人獨資），經營範圍含住宅室內裝飾裝修、建設工程施工、第一類增值電信業務、專業設計服務、工業工程設計服務、工程管理服務、市場營銷策劃等。股權結構上，該公司由京東家裝集團有限公司全額出資1000萬元，持股比例100%。"
+    },
+    {
+      "id": "te:economy:575387",
+      "time": "2026-08-14 16:39:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Confirms Q2 GDP Growth at 4.3% — Hong Kong's economy expanded 4.3% year-on-year in the second quarter of 2026, matching preliminary estimates but slowing from 5.9% in the previous quarter. The moderation was driven by softer domestic demand, with household consumption growth easing to 2.8% from 4.9% in the first quarter. Government spending was flat after rising 2.8%, while gross fixed capital formation slowed sharply to 4.4% from 18.3%. In contrast, external demand remained the primary engine of growth. Exports of goods accelerated to 28.9% from 23.8%, while exports of services edged up to 3.4% from 3.3%. Meanwhile, growth in imports of goods eased slightly to 29.3% from 29.9%, while imports of services slowed to 3.0% from 3.8%. On a seasonally adjusted quarterly basis, the economy tumbled 0.6%, reversing a 2.9% expansion in the previous three months and marking Hong Kong's first quarter-on-quarter economic contraction since the second quarter of 2022."
+    },
+    {
+      "id": "mkt:019fff6d-3471-7aab-903a-a1f8f1d868ed",
+      "time": "2026-08-14 16:39:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【July loan rates remain low】Year-to-date Chinese loan rates have stayed low and extended their decline into July. In July the weighted-average rate on new corporate loans was just under 3%, about 20bps lower YoY; the weighted-average rate on new home mortgages was about 3.1%, broadly unchanged YoY."
+    },
+    {
+      "id": "5040930",
+      "time": "2026-08-14 16:39:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【7月貸款利率保持低位水平】今年以來，我國貸款利率保持低位水平，7月延續下行態勢。7月份，企業新發放貸款加權平均利率略低於3%，比上年同期低約0.2個百分點；個人住房新發放貸款加權平均利率約3.1%，與上年同期基本持平。（新華社）"
+    },
+    {
+      "id": "5040929",
+      "time": "2026-08-14 16:39:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士因可交換債換股及股價上漲確認3.98萬億韓元損失】根據監管檔案，SK海力士在2026年上半年確認與2023年4月發行的可交換債券相關的衍生品交易損失3.98萬億韓元。該損失源於相關債券持有人行使換股權，以及SK海力士在韓國上市股票價格上漲。SK海力士表示，上述會計損失不會導致實際現金流出；同時，當可交換債券轉換為股份時確認的庫存股處置收益，已基本抵消相關損失。"
+    },
+    {
+      "id": "5040927",
+      "time": "2026-08-14 16:38:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冀衡醫藥：2026年上半年營收2.41億元 淨虧損2013.85萬元】冀衡醫藥公告稱，2026年上半年營收2.41億元，同比下降50.51%；淨虧損2013.85萬元，虧損幅度較上年同期收窄84.62%。經營活動產生的現金流量淨額為-6692.55萬元，同比下降1035.96%。此外，公司向浦發銀行等申請的借款本息合計3.26億元將不予留債清償，子公司已就可能承擔的連帶擔保責任確認負債1.36億元。公司持有的遼源市百康藥業、重慶春瑞醫藥化工部分股權質押借款，截至6月30日，借款餘額分別為6557.48萬元、4.03億元。"
+    },
+    {
+      "id": "5040926",
+      "time": "2026-08-14 16:37:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安泰科技中標1億元核聚變採購專案】8月14日，安徽公共資源交易集團網站顯示，安泰科技為“遮蔽包層系統第一壁採購-2標段”的中標人，中標價為1.09億元，該專案採購人為聚變新能（安徽）有限公司。"
+    },
+    {
+      "id": "mkt:019fff6b-8e2a-7aab-903a-9a18d26b9a6b",
+      "time": "2026-08-14 16:37:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Antai Technology wins CNY109 mln fusion procurement contract】Aug 14 — Anhui Public Resource Trading Group posted that Antai Technology won the Lot 2 contract to supply the first wall of a shielding/blanket system for Fusion New Energy (Anhui) Co., at CNY109 mln."
+    },
+    {
+      "id": "5040925",
+      "time": "2026-08-14 16:37:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受 2027 年預算赤字目標影響，印尼 10 年期國債收益率延續跌勢。"
+    },
+    {
+      "id": "5040924",
+      "time": "2026-08-14 16:37:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐控股8月13日於香港交易所回購34萬股股份，斥資5520萬港元。"
+    },
+    {
+      "id": "mkt:019fff6a-a711-7aab-903a-904a1bc19abc",
+      "time": "2026-08-14 16:36:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC: July cross‑border renminbi current‑account settlements 1.75 tln yuan】The PBOC said cross‑border renminbi settlements under the current account totaled 1.75 tln yuan in July, with goods trade at 1.32 tln yuan and services/other current items at 0.43 tln yuan. Cross‑border renminbi settlements for direct investment were 0.63 tln yuan, split into 0.22 tln yuan outbound direct investment and 0.41 tln yuan inbound foreign direct investment."
+    },
+    {
+      "id": "5040923",
+      "time": "2026-08-14 16:36:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【承德露露：2026年上半年淨利潤2.98億元，同比增15.28%】承德露露公告，2026年上半年營業收入15.4億元，同比增長11.29%。歸屬於上市公司股東的淨利潤2.98億元，同比增長15.28%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.96億元，同比增長14.51%。經營活動產生的現金流量淨額-1.86億元，同比下降524.34%。基本每股收益0.29元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5040922",
+      "time": "2026-08-14 16:36:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港上半年實質本地生產總值按年增長5.1%】香港特區政府今日（14日）發表《2026年半年經濟報告》和2026年第二季度的本地生產總值修訂數字。特區政府經濟顧問範婉兒闡述2026年第二季度的經濟表現，以及最新的2026年全年本地生產總值和物價預測。受對外貿易蓬勃和內部需求強韌所支援，香港經濟在2026第二季度繼續蓬勃擴張。實質本地生產總值在第二季按年增長4.3%，上一季增長5.9%。2026年上半年，實質本地生產總值按年增長5.1%，是近五年來最強勁的半年度表現。（大灣區之聲）"
+    },
     {
       "id": "5040921",
       "time": "2026-08-14 16:36:30",
@@ -9,6 +149,15 @@
         "公司"
       ],
       "text": "【證監會：截至2026年4月30日，共5517家上市公司披露了2025年年度財務報告】中國證監會發布上市公司2025年年度財務報告會計監管報告。截至2026年4月30日，共5,517家上市公司披露了2025年年度財務報告，其中主機板3,201家、創業板1,397家、科創板608家、北交所311家。按期披露年度財務報告的上市公司中，214家被出具非標準審計意見，其中被出具帶強調事項段或持續經營事項段的無保留意見109家，保留意見87家，無法表示意見18家。"
+    },
+    {
+      "id": "5040920",
+      "time": "2026-08-14 16:36:26",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【證監會：針對市場熱點難點會計實務問題加強實踐指導】中國證監會組織專門力量抽樣審閱了上市公司2025年年度財務報告，在此基礎上形成了《上市公司2025年年度財務報告會計監管報告》。總體而言，上市公司能夠較好地理解並執行企業會計準則和財務資訊披露規則，但仍有部分上市公司在收入、金融工具、長期股權投資與企業合併、資產減值、研發支出等方面，存在會計處理或財務資訊披露錯誤。針對上述問題，中國證監會下一步將重點推進以下工作：一是深入貫徹落實黨中央、國務院各項決策部署，不斷完善上市公司財務資訊披露監管工作機制，持續提升監管效能。二是持續跟進上市公司財務報告審閱發現的各類問題，依法依規做好後續監管處理。三是圍繞監管工作發現的重點共性問題，強化監管協調，統一監管口徑。四是針對市場熱點難點會計實務問題加強實踐指導，不斷增強資本市場執行企業會計準則與財務資訊披露規則的一致性、有效性。"
     },
     {
       "id": "mkt:019fff6a-4e95-7aab-903a-8cb974f71c77",
@@ -108,6 +257,42 @@
         "市場"
       ],
       "text": "【中國黃金：2026年上半年計提減值、確認損益及收益增利194.47萬元】中國黃金公告稱，2026年半年度，公司計提壞賬準備-53.11萬元、存貨跌價準備53,800.80萬元；確認公允價值變動損益26,221.90萬元、投資收益27,720.26萬元，合計增加公司合併報表利潤總額194.47萬元。金價波動對當期整體損益影響有限，本次計提後能更公允反映公司狀況，不影響主營盈利能力與長期穩定性。資料為初步測算，以審計確認資料為準。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608143841764733",
+      "time": "2026-08-14 16:34:10",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：前七個月人民幣存款增加17.79萬億元】8月14日，央行資料顯示，7月末，本外幣存款餘額354.49萬億元，同比增長8.1%。月末人民幣存款餘額346.47萬億元，同比增長8.1%。前七個月人民幣存款增加17.79萬億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608143841764733",
+      "time": "2026-08-14 16:34:10",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【央行：前七個月人民幣存款增加17.79萬億元】8月14日，央行資料顯示，7月末，本外幣存款餘額354.49萬億元，同比增長8.1%。月末人民幣存款餘額346.47萬億元，同比增長8.1%。前七個月人民幣存款增加17.79萬億元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608143841764975",
+      "time": "2026-08-14 16:33:59",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：7月份經常項下跨境人民幣結算金額為1.75萬億元】央行資料顯示，7月份，經常項下跨境人民幣結算金額為1.75萬億元，其中貨物貿易、服務貿易及其他經常專案分別為1.32萬億元、0.43萬億元；直接投資跨境人民幣結算金額為0.63萬億元，其中對外直接投資、外商直接投資分別為0.22萬億元、0.41萬億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608143841764975",
+      "time": "2026-08-14 16:33:59",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【央行：7月份經常項下跨境人民幣結算金額為1.75萬億元】央行資料顯示，7月份，經常項下跨境人民幣結算金額為1.75萬億元，其中貨物貿易、服務貿易及其他經常專案分別為1.32萬億元、0.43萬億元；直接投資跨境人民幣結算金額為0.63萬億元，其中對外直接投資、外商直接投資分別為0.22萬億元、0.41萬億元。"
     },
     {
       "id": "5040913",
