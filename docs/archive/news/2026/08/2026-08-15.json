@@ -1,7 +1,18 @@
 {
   "date": "2026-08-15",
-  "count": 360,
+  "count": 361,
   "items": [
+    {
+      "id": "te:markets:575548",
+      "time": "2026-08-15 06:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Appreciates by 0.72% — Top currency gainers are New Zealand Dollar (0.72%), Norwegian Krone (0.71%), Swedish Krona (0.43%), British Pound (0.38%), Euro (0.35%) and Japanese Yen (0.11%). Biggest losers are Dollar Index (-0.33%) and Indian Rupee (-0.26%)."
+    },
     {
       "id": "5042021",
       "time": "2026-08-15 06:12:03",
