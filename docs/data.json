@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-14 23:48:29",
-  "count": 15337,
+  "updated": "2026-08-14 23:52:26",
+  "count": 15333,
   "items": [
+    {
+      "id": "te:markets:575511",
+      "time": "2026-08-14 23:51:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips as Middle East Tensions Persist — The CAC 40 shed 0.2% to close at 8,637 on Friday amid stalled negotiations to end the conflict in the Middle East. Persistent geopolitical tensions continued to fuel concerns over supply disruptions and inflation risks, with US President Donald Trump renewing calls for tougher economic pressure on Iran, while Tehran reportedly adopted a more assertive military posture. Annual inflation rose to 2.1% in July from 1.8% in June, confirming preliminary estimates and reinforcing expectations that price pressures remain elevated. Bond yields moved higher on energy-driven inflation concerns as oil prices rose, pressuring credit-sensitive stocks. Luxury shares posted losses amid higher risk aversion, with LVMH down 0.3%, L’Oréal shedding 0.9% and Kering losing 1%. Financials closed mixed, with Société Générale down 0.5% and BNP Paribas edging lower, while AXA and Crédit Agricole each added 0.6%. STMicroelectronics declined 1.7%, tracking weakness in US tech shares."
+    },
     {
       "id": "5041816",
       "time": "2026-08-14 23:45:18",
@@ -140254,57 +140266,6 @@
         "國際"
       ],
       "text": "【歐洲天然氣期貨本週跌約7%】週五（8月7日）歐市尾盤，ICE英國天然氣期貨跌0.9%，報135.680便士/千卡，本週累計下跌5.96%。TTF基準荷蘭天然氣期貨跌5.03%，報55.380歐元/兆瓦時，本週累跌6.88%，整體呈現出M形走勢、絕大部分時間處於下跌狀態。ICE歐盟碳排放交易許可（期貨價格）漲1.82%，報82.85歐元/噸，本週累漲2.60%。"
-    },
-    {
-      "id": "mkt:019fdcec-dcd8-7aab-8fbd-dda3c14cebfb",
-      "time": "2026-08-07 23:52:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CEO of a Brazilian oil company said oil production is likely to exceed current expectations."
-    },
-    {
-      "id": "5031422",
-      "time": "2026-08-07 23:52:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英國10年期國債收益率本週跌超13個基點】週五（8月7日）歐市尾盤，英國10年期國債收益率跌2.3個基點，報4.915%，北京時間20:30釋出美國非農就業報告時從4.94%附近跳水至接近4.9%的水平，本週累計下跌13.3個基點。兩年期英債收益率跌2.2個基點，報4.276%，非農就業報告出爐時從4.3%附近跳水至4.25%附近，本週累跌12.5個基點。本週，30年期英債收益率累跌11.6個基點，50年期英債收益率累跌9.4個基點。2/10年期英債收益率利差累跌0.922個基點，報+63.880個基點。"
-    },
-    {
-      "id": "5031421",
-      "time": "2026-08-07 23:52:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗德黑蘭市長扎卡尼：威脅伊朗的國家在支付賠償之前無權使用這條海峽。"
-    },
-    {
-      "id": "mkt:019fdcec-5511-7aab-8fbd-d4ea43d14e82",
-      "time": "2026-08-07 23:51:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CEO of a Brazilian oil company said the firm has reduced the annual production decline rate of its mature oilfields from 12% to 4%."
-    },
-    {
-      "id": "5031420",
-      "time": "2026-08-07 23:49:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗德黑蘭市長扎卡尼：想透過霍爾木茲海峽，必須取消制裁並支付賠償。伊朗不會放棄追求正義，直到對罪犯實施最終懲罰。"
     }
   ]
 }
