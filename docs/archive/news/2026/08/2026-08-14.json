@@ -1,7 +1,55 @@
 {
   "date": "2026-08-14",
-  "count": 791,
+  "count": 796,
   "items": [
+    {
+      "id": "mkt:019ffdf6-4c1d-7aab-9032-b01d55d20e0f",
+      "time": "2026-08-14 09:50:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Popular high-flyers in the A-share market weakened broadly in early trade. Qin'an, Tongli Tianqi, Huangshi Group, Baoying and Delong Huineng hit the daily down limit; Fengfan, Huadong CNC, Yiming Food and Jingtou Development also slid."
+    },
+    {
+      "id": "5040351",
+      "time": "2026-08-14 09:49:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "稀土永磁板塊異動拉昇，金田股份觸及漲停，中國稀土漲超8%，華宏科技、中稀有色、九菱科技、北方稀土跟漲。"
+    },
+    {
+      "id": "5040350",
+      "time": "2026-08-14 09:49:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中鐵等在海南成立物流集團國際控股公司】企查查APP顯示，近日，海南物流集團國際控股有限公司成立，經營範圍包含海上國際貨物運輸代理；陸路國際貨物運輸代理；航空國際貨物運輸代理；園區管理服務等。企查查股權穿透顯示，該公司由海南省物流集團有限公司、中國中鐵全資子公司中鐵廣州工程局集團有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019ffdf3-ab65-7aab-9032-a89e06a58bb3",
+      "time": "2026-08-14 09:47:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Guizhou plans natural gas trading center】Guizhou provincial government issued a 2026–28 unconventional natural gas three-year action plan targeting production of >0.9 bln cubic meters in 2026, >1.7 bln in 2027 and >2.2 bln in 2028; self-sufficiency targeted at >40% by 2028, 60% by 2030 and near full self-sufficiency by 2035. The plan calls for a provincial natural gas trading center and regional production‑to‑sales coordination pilots to link upstream and downstream, aiming to unlock upstream capacity, expand downstream markets, strengthen resource allocation and boost Guizhou’s gas pricing power and market competitiveness."
+    },
+    {
+      "id": "5040349",
+      "time": "2026-08-14 09:46:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元跌至32.036，創7月8日以來新低。"
+    },
     {
       "id": "mkt:019ffdf2-eb55-7aab-9032-a17aba4b1a63",
       "time": "2026-08-14 09:46:23",
