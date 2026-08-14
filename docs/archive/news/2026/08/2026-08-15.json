@@ -1,7 +1,59 @@
 {
   "date": "2026-08-15",
-  "count": 172,
+  "count": 178,
   "items": [
+    {
+      "id": "5041906",
+      "time": "2026-08-15 03:07:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍稱胡塞武裝發射6枚彈道導彈襲擊摩卡港】當地時間14日，葉門政府軍表示，葉門胡塞武裝向葉門西南部摩卡港發射6枚彈道導彈，並以當地民用和國家設施為襲擊目標，企圖對民眾實施封鎖、加劇民眾困境。當天，葉門衛生部發表宣告，強烈譴責葉門胡塞武裝襲擊摩卡港，並警告此舉將產生嚴重的衛生和人道主義後果。宣告指出，西部沿海本就面臨嚴峻的營養不良和流離失所問題，港口受損、物資受阻將直接危及食品、藥品及衛生服務供應，增加兒童、婦女、流離失所者等脆弱群體的風險。（央視新聞）"
+    },
+    {
+      "id": "5041905",
+      "time": "2026-08-15 03:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "夏威夷航空：因熱帶風暴拉拉，取消明日卡胡盧伊與檀香山之間的一趟航班。"
+    },
+    {
+      "id": "5041904",
+      "time": "2026-08-15 03:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo：我們已獲得加州公用事業委員會批准，將在舊金山灣區、洛杉磯擴大服務，並於薩克拉門託、聖地亞哥推出服務。"
+    },
+    {
+      "id": "5041903",
+      "time": "2026-08-15 03:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "夏威夷航空：因熱帶風暴拉拉，週六暫停希洛機場運營。"
+    },
+    {
+      "id": "mkt:01a001a9-2fa2-7aab-9044-abe64baa3a22",
+      "time": "2026-08-15 03:04:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact bearish"
+      ],
+      "text": "【Broadcom shares drop nearly 7% on concerns over AI financing platform】Broadcom shares fell nearly 7% intraday on Friday as investors flagged risks in the financing model for its AI infrastructure expansion. BofA analysts estimate the financing vehicle for Broadcom’s AI‑chip customers could accumulate up to $370bn of senior debt by mid‑2029, with about $150bn of new issuance in 2027, assuming a 20 GW data‑centre buildout. The debt would sit on the platform rather than Broadcom’s balance sheet, but Broadcom has provided lease‑payment guarantees for some customers; the first guaranteed transaction is about $29bn. The financing structure began in June, when Apollo Global Management and Blackstone led a $35bn funding package for Broadcom’s AIXPV platform; initial proceeds will support Anthropic’s build of more than 1 GW of compute and the platform targets over 20 GW by 2028. Market attention will focus on Broadcom’s potential future guarantee exposure as AI infrastructure scales."
+    },
+    {
+      "id": "5041902",
+      "time": "2026-08-15 03:03:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所10月布倫特原油期貨結算價報每桶88.52美元。"
+    },
     {
       "id": "mkt:01a001a6-95b8-7aab-9044-a6ded9b22561",
       "time": "2026-08-15 03:01:29",
