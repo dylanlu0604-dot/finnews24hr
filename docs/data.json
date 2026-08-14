@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 01:40:39",
-  "count": 15345,
+  "updated": "2026-08-15 01:44:32",
+  "count": 15342,
   "items": [
+    {
+      "id": "mkt:01a0015f-a1e8-7aab-9043-eb1685bdaca4",
+      "time": "2026-08-15 01:43:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iran's Mehr News Agency, Yemeni military sources said the Houthi attack was in response to \"Saudi enemy warplanes\" violating Yemen's sovereignty and entering airspace over northeast Saada province."
+    },
+    {
+      "id": "mkt:01a0015c-fe78-7aab-9043-e6469adbe31b",
+      "time": "2026-08-15 01:41:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceXAI said it launched its Grok 4.6 model in GitHub Copilot."
+    },
+    {
+      "id": "5041875",
+      "time": "2026-08-15 01:40:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI： 在 GitHub Copilot 中上線 Grok 4.6 模型。"
+    },
     {
       "id": "5041874",
       "time": "2026-08-15 01:39:50",
@@ -140382,58 +140408,6 @@
         "Impact bearish"
       ],
       "text": "ICE: For the week to Aug. 4, speculative traders cut Brent crude net longs by 20,361 contracts to 164,722; diesel speculative net longs rose by 1,163 contracts to 88,357."
-    },
-    {
-      "id": "5031472",
-      "time": "2026-08-08 01:44:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所布倫特原油：截至 8 月 4 日當週，投機者淨多頭頭寸減少 20361 份合約，降至 164722 份。"
-    },
-    {
-      "id": "mkt:019fdd53-72ca-7aab-8fbf-67faaaa34e89",
-      "time": "2026-08-08 01:44:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Refinitiv reports the White House sent a letter dated Aug. 5 to Fed governor Cook requesting a written response within 21 days about her statements."
-    },
-    {
-      "id": "5031471",
-      "time": "2026-08-08 01:43:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國白宮 8 月 5 日致美聯儲理事庫克的信函，要求其在 21 日內就自身相關言論提交書面答覆。"
-    },
-    {
-      "id": "5031470",
-      "time": "2026-08-08 01:43:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，原糖投機者淨多頭頭寸增加 2752 手，至 55261 手。 飼料小麥投機者淨多頭頭寸增加 281 手，達到 281 手。"
-    },
-    {
-      "id": "5031469",
-      "time": "2026-08-08 01:41:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國白宮致美聯儲理事庫克的信件稱，特朗普正考慮解除其美聯儲理事職務。"
-    },
-    {
-      "id": "5031468",
-      "time": "2026-08-08 01:41:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，羅布斯塔咖啡投機者將淨多頭頭寸削減 1591 手，至 37968 手。"
     }
   ]
 }
