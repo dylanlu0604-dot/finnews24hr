@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-15 04:51:13",
-  "count": 15282,
+  "updated": "2026-08-15 04:55:08",
+  "count": 15285,
   "items": [
+    {
+      "id": "5041989",
+      "time": "2026-08-15 04:53:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：APACHE 伺服器暫停執行狀態將持續生效，直至崩潰原因查明。"
+    },
+    {
+      "id": "mkt:01a0020d-539c-7aab-9046-079f8a902a31",
+      "time": "2026-08-15 04:53:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lula says Brazil will decide after October election whether to accept Trump ambassador nominee】President Lula said on the 14th Brazil will decide after October’s presidential election whether to accept US President Trump’s nomination of Daniel Perez as ambassador to Brazil. In a media interview he accused the US of attempting to interfere, noting the nomination came 45 days before the vote after the post had been vacant for more than a year and saying the timing suggested electoral meddling."
+    },
+    {
+      "id": "mkt:01a0020c-3995-7aab-9045-ff0f5762894e",
+      "time": "2026-08-15 04:52:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【White House official says unaware of any plan to extend US‑Iran ceasefire】Politico reports the one‑month US‑Iran ceasefire expires next Monday; if not extended, the near six‑month conflict could resume. A White House official said talks were 'stalled' as of Friday afternoon and they had not heard of any extension plan, adding distance is irrelevant — the key is whether Iran will return to the table, and so far it has not. Negotiations are hampered by fragmented power in Iran — the IRGC, clerical authorities and the government hold divergent positions and all factions must sign off — with key disputes on sanctions, frozen assets and passage of the Strait of Hormuz; US officials say any fees or transit control are 'unacceptable.' The Trump administration says it reserves 'all options' if Iran refuses a deal and that sanctions and a blockade have severely damaged Iran's economy; sources say the US may be underestimating Iran's endurance and would need rapid action to stabilise the situation ahead of the midterm elections."
+    },
+    {
+      "id": "5041988",
+      "time": "2026-08-15 04:52:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普：永遠不會因為戰爭導致美國汽油價格上漲而道歉】美國總統特朗普表示，他不會因為伊朗戰爭導致美國人承擔更高汽油價格而道歉。特朗普在長島的一場活動上作出上述表態。特朗普還表示，美國人需要為汽油“多付那麼一點點”。他說：“我永遠不會道歉。我做了正確的事”。"
+    },
+    {
+      "id": "5041987",
+      "time": "2026-08-15 04:51:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美軍陸軍在發生致命墜機事故後，下令阿帕奇直升機臨時停飛。"
+    },
     {
       "id": "5041986",
       "time": "2026-08-15 04:48:29",
@@ -139858,24 +139903,6 @@
         "國際"
       ],
       "text": "【美日聯手干預見效 對沖基金大幅削減日元空倉】美國和日本當局協同出手穩定了日元后，對沖基金大幅減少了做空押注。商品期貨交易委員會週五公佈的資料顯示，截至8月4日，期貨和期權市場的槓桿基金將日元淨空頭頭寸削減了約一半至6.36萬份合約。這意味著空倉和6月底相比出現了大幅回撤，當時押注日元進一步貶值的倉位激增至近13.8萬份合約，達到2007年以來之最。在美日利差擴大的影響下，日元一度跌至1986年以來的最低水平，刺激投機者加大了做空力度。美日兩國政府聯手干預後交易員開始減少空倉，日元也迎來反彈。儘管日本央行維持基準利率不變，但隔夜指數互換顯示其9月加息的機率約在60%。美國週五公佈的不及預期非農就業資料也令美元承壓，降低了市場對美聯儲收緊貨幣政策的押注。交易員目前認為美國央行下個月上調利率的機率約為40%，遠低於報告發布前的60%左右。"
-    },
-    {
-      "id": "5031636",
-      "time": "2026-08-08 04:53:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望參議院能夠透過《保護大學體育法案》。"
-    },
-    {
-      "id": "5031635",
-      "time": "2026-08-08 04:52:03",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通不動產專屬基金：美國證券交易委員會檔案顯示，該基金已提交S類、A類、I類股份發行申請，發行規模未披露。"
     }
   ]
 }
