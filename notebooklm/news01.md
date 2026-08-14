@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 01:05:16_
-_本檔包含 3160 則快訊，約 605699 字_
+_更新時間：2026-08-15 02:01:30_
+_本檔包含 3160 則快訊，約 605068 字_
+
+---
+
+### 2026-08-15 02:00:18  #其他
+
+博通股價跌幅擴大至6.7%，創6月5日以來最大單日跌幅。
+
+---
+
+### 2026-08-15 01:59:52  #MKT News #Commodities #Industrial Metals
+
+Sources: Chilean state-owned copper firm Codelco has appointed a vice president to oversee operations at the El Teniente mine.
+
+---
+
+### 2026-08-15 01:58:00  #公司
+
+市場訊息：智利國家銅業公司（Codelco）將關停丘基卡馬塔銅礦與阿萊斯部長銅礦。
+
+---
+
+### 2026-08-15 01:55:11  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+Cboe VIX continued to fall, touching an intrday low not seen since Dec. 30 last year.
+
+---
+
+### 2026-08-15 01:53:27  #MKT News #Commodities #Energy
+
+An official Indian order says India will cut the diesel export windfall tax to 24 rupees per litre from 25.5 rupees per litre, effective Aug. 15.
+
+---
+
+### 2026-08-15 01:53:17  #MKT News
+
+India ordered a cut in the export windfall tax on aviation turbine fuel to 19.5 rupees per litre from 22 rupees per litre, effective Aug. 15.
+
+---
+
+### 2026-08-15 01:52:47  #國際
+
+印度自 8 月 15 日起，將柴油出口暴利稅由每升 25.5 盧比下調至每升 24 盧比。
+
+---
+
+### 2026-08-15 01:52:29  #MKT News #WTI #Impact bearish #Brent
+
+According to an Indian government order, India will cut the windfall tax on gasoline exports from 3.5 rupees per litre to zero, effective Aug. 15.
+
+---
+
+### 2026-08-15 01:52:28  #國際
+
+印度自 8 月 15 日起，將航空渦輪燃料出口暴利稅由每升 22 盧比下調至每升 19.5 盧比。
+
+---
+
+### 2026-08-15 01:51:54  #國際
+
+印度自 8 月 15 日起，將汽油出口暴利稅從每升 3.5 盧比下調至 0。
+
+---
+
+### 2026-08-15 01:50:40  #市場
+
+VIX 指數持續下行，創 12 月 30 日以來盤中最低水平。
+
+---
+
+### 2026-08-15 01:49:23  #MKT News
+
+【French Constitutional Council strikes down social-media ban for under-15s】On the 14th the French Constitutional Council ruled Article 1 of a law passed by Parliament last month to protect minors from social-media risks unconstitutional and struck it down. The clause would have barred under-15s from accessing social media.
+
+---
+
+### 2026-08-15 01:47:05  #MKT News #Market Themes #The Trump Trade
+
+【U.S. reported to shift Cuba strategy toward tougher sanctions as military option recedes】Sources say the Trump administration is increasingly prioritizing tougher sanctions and economic pressure on Cuba rather than military action to overthrow the Communist Party. The current focus is on cutting off all revenue streams to the Cuban government rather than military or special‑forces operations similar to January’s raid to seize Venezuela’s leader Maduro.
+
+---
+
+### 2026-08-15 01:46:19  #其他
+
+【法國憲法委員會否決15歲以下社媒禁令 】法國憲法委員會14日作出裁定，法國議會上月透過的《保護未成年人免受使用社交媒體所帶來風險的法律》第1條款違反憲法，予以否決。該條款禁止15歲以下未成年人訪問社交媒體。（新華社）
+
+---
+
+### 2026-08-15 01:45:03  #Trading Economics #Economy #United States #Calendar #Importance 2
+
+Week Ahead - Aug 17th — The ongoing standstill between Iran and the US should continue to dictate energy prices and influence global interest rates, after the US prolonged its economic pressure on Iran instead of signaling efforts of diplomacy. Rates will also take the spotlight with minutes from a divisive meeting from the Federal Reserve, which included three dissents. The ECB will also post meeting accounts. Data from the US will be headlined by flash S&P PMIs, building permits, trade terms, and industrial production. PMIs will also be published for the Eurozone, Japan, Australia, India, and the UK. Meanwhile, both the UK and Canada will release inflation and retail sales. The Eurozone and Germany will release ZEW Economic Sentiment indices. Japan will release its Q2 GDP, trade balance, and inflation rate. In the meantime, China will publish industrial production, retail sales, housing prices, and join Australia, the UK, and Canada in unveiling unemployment figures. Sveriges Riksbank will set rates.
+
+---
+
+### 2026-08-15 01:43:59  #MKT News
+
+According to Iran's Mehr News Agency, Yemeni military sources said the Houthi attack was in response to "Saudi enemy warplanes" violating Yemen's sovereignty and entering airspace over northeast Saada province.
+
+---
+
+### 2026-08-15 01:41:06  #MKT News #Market Themes #AI Revolution
+
+SpaceXAI said it launched its Grok 4.6 model in GitHub Copilot.
+
+---
+
+### 2026-08-15 01:40:15  #其他
+
+SpaceXAI： 在 GitHub Copilot 中上線 Grok 4.6 模型。
+
+---
+
+### 2026-08-15 01:39:50  #國際
+
+【美被曝對古巴策略轉向強化制裁 軍事選項淡出】當地時間14日獲悉，知情人士稱，特朗普政府對古巴的策略正越來越側重於加強制裁和經濟施壓，而不是透過軍事力量推翻古巴共產黨領導層。知情人士表示，美國目前的重點是切斷古巴政府的所有收入來源，而非採取類似今年1月突襲並強行控制委內瑞拉領導人馬杜羅的軍事或特種部隊行動。（央視新聞）
+
+---
+
+### 2026-08-15 01:39:27  #其他
+
+X產品負責人尼基塔·比爾：上週我們創下了歷史最高下載量，iOS端月活躍使用者數也超過了以往任何一年。X是當前規模下增長最快的社交網路。
+
+---
+
+### 2026-08-15 01:39:23  #市場
+
+洲際交易所柴油：截至 8 月 11 日當週，投機者淨多頭頭寸增加 2358 手，至 90715 手合約。
+
+---
+
+### 2026-08-15 01:39:17  #MKT News
+
+ICE: For the week ended Aug 11, speculative net-long positions in natural gas rose by 2,358 contracts to 90,715 contracts.
+
+---
+
+### 2026-08-15 01:36:10  #MKT News
+
+X product head said the platform posted its highest-ever downloads last week, iOS monthly active users exceeded any prior year, and X is the fastest-growing social network at its current scale.
+
+---
+
+### 2026-08-15 01:35:08  #其他
+
+薩巴通訊社援引軍方訊息：此次襲擊是葉門方面對沙特戰機闖入薩達省東北部領空、侵犯本國主權行為作出的回應。
+
+---
+
+### 2026-08-15 01:34:31  #市場
+
+洲際交易所布倫特原油：截至 8 月 11 日當週，投機者淨多頭頭寸增加 76026 手，至 240748 手合約。
+
+---
+
+### 2026-08-15 01:34:24  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+ICE data: speculators' net long positions in Brent crude rose by 76,026 contracts to 240,748 in the week to Aug. 11.
+
+---
+
+### 2026-08-15 01:33:45  #國際
+
+【報道：加拿大與美國貿易談判涉及關鍵礦產和國防問題】加拿大《環球郵報》援引瞭解談判情況的三名加方訊息人士和一名美方訊息人士報道稱，加拿大和美國在持續進行的貿易談判中討論了關鍵礦產和國防問題。一名加方訊息人士和一名美方訊息人士對該報表示，美國要求獲得加拿大關鍵礦產的優先購買選擇權，要求加拿大完成F-35戰鬥機的採購，要求加拿大購買雷達飛機等美國技術，作為加入美國總統特朗普“金穹”導彈防禦系統的一部分，而且美國還要求就未來石油和天然氣供應獲得某種保障。上述美方訊息人士表示，一個可能的方案是，加拿大私下作出完成F-35採購的非正式承諾，正式宣佈則推遲至第二階段協議達成時。
+
+---
+
+### 2026-08-15 01:27:17  #MKT News #Macro & Rates #US Economy
+
+US President Trump said the economy is performing incredibly well.
+
+---
+
+### 2026-08-15 01:26:43  #MKT News #Market Themes #The Trump Trade
+
+US President Trump departed Joint Base Andrews and is en route to Garden City, New York.
+
+---
+
+### 2026-08-15 01:26:04  #國際
+
+美國總統唐納德・特朗普離開安德魯斯聯合基地，啟程前往紐約州加登城。
+
+---
+
+### 2026-08-15 01:22:49  #MKT News
+
+Russian Defence Ministry said its air-defence systems shot down 221 Ukrainian fixed-wing drones in the past 12 hours over several oblasts and in the Black Sea and Sea of Azov.
+
+---
+
+### 2026-08-15 01:22:18  #國際
+
+俄羅斯國防部：莫斯科時間當日 8 時至 20 時，俄軍值班防空系統在別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州、奧廖爾州、圖拉州、莫斯科州、克拉斯諾達爾邊疆區、克里米亞共和國上空，以及亞速海、黑海海域上空，共攔截並摧毀 221 架烏克蘭固定翼無人機。
+
+---
+
+### 2026-08-15 01:16:43  #國際
+
+【以色列總理稱英國為伊斯蘭共和國】近日，以色列總理內塔尼亞胡在以色列軍方電臺的一檔播客節目中，將英國稱為“英國伊斯蘭共和國”。他還稱英國是“首個擁有核武器的伊斯蘭共和國”，強調“以色列要確保不出現第二個（擁有核武器的伊斯蘭共和國），也就是伊朗”。 內塔尼亞胡是在談及英國前首相丘吉爾身為記者的兒子、孫子與以色列的交往時發表這一言論的。他稱，這二人對1967年第三次中東戰爭的報道對以色列有利，可如今這樣的媒體聲音在“英國伊斯蘭共和國”已不復存在。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 01:16:31  #MKT News
+
+The Federal Reserve accepted $250 mln from one counterparty in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-15 01:16:16  #國際
+
+特朗普：經濟形勢好得令人難以置信。
+
+---
+
+### 2026-08-15 01:15:26  #國際
+
+特朗普談及亞伯拉罕・林肯號航母：那艘艦艇正在行動。
+
+---
+
+### 2026-08-15 01:14:52  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump arrived at Joint Base Andrews in Maryland.
+
+---
+
+### 2026-08-15 01:14:43  #國際
+
+特朗普稱讚股市。
+
+---
+
+### 2026-08-15 01:14:13  #MKT News #Important #WTI #Impact bullish #Brent
+
+Saba news agency, controlled by Yemen's Houthi movement, said the Houthis used drones to strike an ARAMCO facility in Najran province in southern Saudi Arabia.
+
+---
+
+### 2026-08-15 01:14:08  #其他
+
+【尚比亞恢復大選計票】尚比亞選舉委員會於14日18時左右宣佈解除此前的大選計票暫停措施。贊選舉委員會在首都盧薩卡召開新聞釋出會表示，經與安全部門協商，該委員會決定解除計票暫停措施。目前，安全形勢已得到控制，相關部門已採取必要措施，確保選舉工作人員和選票安全。（新華社）
+
+---
+
+### 2026-08-15 01:12:38  #其他 #焦點 #國際
+
+葉門胡塞武裝控制的薩巴通訊社援引軍方訊息稱，該組織使用無人機襲擊了沙特阿美位於奈季蘭的設施。
+
+---
+
+### 2026-08-15 01:11:46  #國際
+
+美國總統唐納德・特朗普抵達安德魯斯聯合基地。
+
+---
+
+### 2026-08-15 01:10:24  #MKT News #Commodities #Industrial Metals
+
+The US Department of Justice (DOJ) and the Commodity Futures Trading Commission (CFTC) are investigating trades by iron-ore trader Radiant World.
+
+---
+
+### 2026-08-15 01:08:52  #Trading Economics #Economy #Colombia #Retail Sales YoY #Importance 1
+
+Colombia Retail Sales Beat Expectations — Colombia’s real retail sales rose 14.7% year-on-year in June 2026, slightly above market expectations of 13.6% and accelerating from 11.7% in May. Seventeen merchandise lines recorded positive changes, while two declined. The largest increases were recorded in motor vehicles and motorcycles, mainly for household use (49.8%), other motor vehicles and motorcycles (52.4%), and sound and video equipment and appliances (89.9%). Meanwhile, sales of footwear, leather goods and leather substitutes fell 1.6%, while food sales declined 1.2%.
+
+---
+
+### 2026-08-15 01:06:18  #其他
+
+【德國萊茵河考布水位創歷史新低 航運或被“截斷”】德國萊茵河中游考布河段水位降至約8釐米，創下歷史新低，此前最低紀錄為2018年10月的25釐米。考布河段位於萊茵蘭‑普法爾茨州科布倫茨與美因茨之間，是衡量萊茵河航運狀況的重要參考點。德國內河航運協會警告，如果考布水位降至個位數，萊茵河可能無法保持全線通航，南北航運甚至可能被“截斷”。目前考布以南航運已嚴重受限，預報週末水位將進一步跌至5至6釐米。 (央視新聞)
+
+---
+
+### 2026-08-15 01:05:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Baker Hughes said the U.S. oil and gas rig count rose to its highest level since March 2025.
 
 ---
 
@@ -18773,281 +19049,5 @@ PSQ HOLDINGS股價上漲33.5%，此前小唐納德·特朗普與PILOT家族牽�
 ### 2026-08-13 22:41:48  #MKT News #000858.SZ
 
 【Wuliangye moves to stabilise prices】About a week ago Wuliangye notified dealers it has cancelled certain prior channel policies and set a floor: shipment price for 8th‑generation Wuliangye must not be below 800 yuan per bottle. The brand warned it will impose penalties, including fines, for low‑price cross‑region sales and dumping, with measures scaled to severity. Dealers say in practice penalties are unlikely unless there is large‑scale, malicious channel‑jumping.
-
----
-
-### 2026-08-13 22:40:49  #國際
-
-受港口管制影響，俄羅斯7月海運穀物出口同比下降20%。
-
----
-
-### 2026-08-13 22:40:01  #MKT News
-
-【World's first corporate FTZ offshore bond issued in Shanghai】On Aug. 12, China Central Depository and Clearing supported Shanghai Electric Group’s offshore unit Shanghai Electric Global Capital Co. in issuing a RMB 1.5 bln China free-trade-zone (FTZ) offshore bond. The three-year note carries a 1.8% coupon. The deal is the world’s first corporate FTZ offshore bond, the first FTZ offshore bond listed on the Hong Kong Stock Exchange and the largest single issuance in the FTZ offshore bond market; it attracted orders from investors across Hong Kong and Macau, Southeast Asia, the Middle East and Europe.
-
----
-
-### 2026-08-13 22:39:33  #公司 #國際
-
-【全球首單企業類自貿離岸債在上海發行】8月12日，中央結算公司支援上海電氣集團股份有限公司境外子公司上海電氣環球資本有限公司成功發行15億元人民幣自貿離岸債，期限3年，票面利率1.8%。本次發行取得多項創新突破，是全球首單企業類自貿離岸債、首單香港交易所掛牌自貿離岸債，創自貿離岸債市場單筆發行規模最大紀錄，受到市場廣泛關注，吸引來自港澳、東南亞、中東、歐洲等地區投資者積極參與認購。本次發行是自貿離岸債市場建設取得的又一重要進展，標誌著市場發行主體由金融機構向優質實體企業拓展，進一步豐富了市場主體型別和產品供給。（央視新聞）
-
----
-
-### 2026-08-13 22:38:50  #公司 #觀點 #央行 #國際
-
-【高盛：美聯儲7月按兵不動絕對正確 9月前應保持開放】高盛集團分析師Robert Kaplan表示，美聯儲7月不加息的決定“絕對”正確，並敦促政策制定者在9月之前保持開放態度，理由是影響通脹的因素錯綜複雜，僵化的前瞻性指引會適得其反。
-
----
-
-### 2026-08-13 22:38:46  #國際
-
-美國國家颶風中心（NHC）表示熱帶風暴拉拉已生成，夏威夷大島已釋出颶風觀察預警。
-
----
-
-### 2026-08-13 22:38:21  #Trading Economics #Economy #United States #Natural Gas Stocks Change #Importance 1
-
-US Natural Gas Stocks Rise More Than Expected — US energy firms added 36 billion cubic feet of natural gas into storage in the week ending August 7, above market expectations of 31 bcf. It compares with an injection of 49 bcf during the same week a year ago and an average increase for that week of 33 bcf over the past five years (2021-2025). Stockpiles increased to 3.153 trillion cubic feet, 0.8% below the same week a year ago and about 6.7% above the five-year average for the week. In the prior week ended July 31, energy firms added 33 bcf of gas into storage.
-
----
-
-### 2026-08-13 22:38:19  #國際
-
-烏克蘭稱自 7 月以來已有 218 艘以上船隻遭襲；俄羅斯對敖德薩附近運糧船發動襲擊，基本切斷了烏克蘭海上出口通道。
-
----
-
-### 2026-08-13 22:38:08  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Former Dallas Fed president Kaplan said the Fed was "absolutely" right not to hike rates in July.
-
----
-
-### 2026-08-13 22:38:06  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-【Goldman says Fed's July pause 'absolutely' correct; stay open until September】Goldman analyst Robert Kaplan said the Fed’s decision to hold in July was “absolutely” correct and urged policymakers to stay open-minded through September, arguing complex, offsetting inflation drivers make rigid forward guidance counterproductive. He cited inflationary pressure from AI build-out, tariffs, labor constraints and oil-price spikes, while AI applications are working the other way and accelerating disinflation. Kaplan said he could remain on hold if he sees meaningful improvement but wants to use the interval before September to reassess rather than lock in a view. He urged Fed speakers to use this month’s Jackson Hole symposium to briefly explain the July pause rather than give a purely “philosophical” speech. Kaplan said he is more worried about the long end of the US Treasury curve than the fed funds rate, attributing the global rise in long yields to a structural supply–demand imbalance driven by persistently loose fiscal deficits rather than Fed policy.
-
----
-
-### 2026-08-13 22:37:47  #MKT News
-
-Canada’s minister for Canada-U.S. bilateral trade will meet U.S. Trade Representative Greer on Thursday afternoon.
-
----
-
-### 2026-08-13 22:37:34  #國際
-
-加拿大負責對美雙邊貿易事務的部長將於週四下午會見美國貿易代表。
-
----
-
-### 2026-08-13 22:36:56  #其他
-
-費城半導體指數漲超2%，超微電腦漲超10%，英特爾漲近5%，美光科技漲超4%，閃迪漲近6%。
-
----
-
-### 2026-08-13 22:36:41  #國際
-
-阿根廷表示，小規模召回事件後，該國對美國牛肉出口已恢復正常。
-
----
-
-### 2026-08-13 22:36:15  #MKT News
-
-【Explosion at military factory near Rome】Italian authorities reported on the 13th that a blast hit a military factory near Rome. No casualties reported so far.
-
----
-
-### 2026-08-13 22:35:56  #其他
-
-【遭制裁油輪在阿曼近海原油洩漏，油汙已蔓延至陸地】據報道，受損油輪 “卡羅琳・貝曾吉” 號在阿曼海岸外發生原油洩漏，油汙擴散面積約 1300 平方公里（500 平方英里），並且已經抵達陸地。綠色和平組織活動人士哈嫩・凱斯表示，衛星影象分析顯示，洩漏油汙並未形成連片油膜，而是裂解成多處油汙斑塊。阿曼方面尚未確認實際受汙染總面積。
-
----
-
-### 2026-08-13 22:35:35  #MKT News #Brent #Impact bullish #WTI
-
-UKMTO says Iran's Islamic Revolutionary Guard Corps continues to harass and surveil merchant vessels, though there were no confirmed attacks in the latest reporting period.
-
----
-
-### 2026-08-13 22:35:26  #公司 #國際
-
-【比亞迪“海獺”，在日本訂單已超1000輛】喊出“全球第一”目標後，比亞迪正直指豐田汽車的“大本營”——日本市場。挑大樑的產品，是比亞迪日本分公司於7月底向授權經銷商開放銷售的輕型純電動車——海獺RACCO。“截至8月10日，海獺在日本市場的訂單超過1000輛。”8月12日，比亞迪方面向《每日經濟新聞》記者透露，到2026年底，海獺的訂單目標是1萬輛。據全球市場研究機構Research and Markets預測，日本新能源汽車市場規模（主要聚焦純電動車）2026年將達到19.9億美元，2030年將達到26.8億美元。（每經）
-
----
-
-### 2026-08-13 22:35:19  #MKT News #WTI #Impact bullish #Brent
-
-UKMTO: commercial traffic in the Strait of Hormuz remains constrained.
-
----
-
-### 2026-08-13 22:34:53  #MKT News
-
-Market sources: India has received 20 bids to establish magnet manufacturing plants.
-
----
-
-### 2026-08-13 22:34:27  #國際
-
-烏克蘭已向俄羅斯提議，雙方停止襲擊黑海區域的民用目標，目前尚未得到俄方回應。
-
----
-
-### 2026-08-13 22:34:22  #MKT News
-
-Sources say Ukraine's proposal was relayed to Russia via a third party, but no response has been received.
-
----
-
-### 2026-08-13 22:34:15  #MKT News #Brent #Impact bearish #S&P500 #Impact bullish #DXY
-
-Sources say Ukraine has proposed to Russia that both sides cease strikes on civilian targets in the Black Sea.
-
----
-
-### 2026-08-13 22:34:04  #國際
-
-【希臘西尼羅病毒感染病例激增】希臘國家公共衛生組織12日說，希臘過去兩週感染西尼羅病毒的人數激增，感染病例總數增至110例。據法新社13日報道，義大利、西班牙、北馬其頓和羅馬尼亞等歐洲國家也發現西尼羅病毒感染病例。(新華社)
-
----
-
-### 2026-08-13 22:34:01  #國際
-
-印度收到20份建設磁鐵製造工廠的投標。
-
----
-
-### 2026-08-13 22:33:57  #公司
-
-哥本哈根基礎設施合夥人公司與蒂蘭德公司獲丹麥養老金（PensionDanmark）出資支援，在丹麥啟動能源一體化資料中心建設。
-
----
-
-### 2026-08-13 22:33:15  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England chief economist Pill: UK economic growth strengthens case for rate hikes.
-
----
-
-### 2026-08-13 22:33:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Ukraine says it struck large refinery in Russia's southwest】Ukraine's General Staff said on social media on the 13th that Ukrainian forces struck a large refinery in the Republic of Bashkortostan in Russia's southwest in the early hours, triggering a fire. The General Staff said the target was about 1,300 km from the Ukraine–Russia border and said Kyiv would continue strikes on Russian critical infrastructure to systematically degrade its combat capability. The refinery was reported to belong to Salavat Petrochemical Company, described as one of Russia's largest refining and petrochemical complexes with annual refining capacity of about 10 mln tonnes.
-
----
-
-### 2026-08-13 22:32:41  #公司 #國際
-
-【烏軍稱襲擊俄西南部一大型煉油廠】烏克蘭武裝部隊總參謀部13日在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。 烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。 據報道，遭襲的煉油廠屬於俄氣薩拉瓦特石油化工公司，該公司是俄最大煉油和石化綜合體之一，年煉油能力達1000萬噸。(新華社)
-
----
-
-### 2026-08-13 22:32:17  #MKT News #Commodities #Energy
-
-U.S. natural gas futures extended losses, down 3.0% after the EIA reported inventories rose more than expected.
-
----
-
-### 2026-08-13 22:32:16  #市場 #國際
-
-美國能源資訊署公佈天然氣庫存增幅超預期後，美國天然氣期貨延續跌勢，跌幅達3.0%。
-
----
-
-### 2026-08-13 22:32:05  #國際
-
-美國能源資訊署(EIA)：上週美國天然氣庫存環比上升1.15%。
-
----
-
-### 2026-08-13 22:30:43  #國際
-
-美國能源資訊署（EIA）：美國鹽穴儲氣庫天然氣庫存減少60億立方英尺。
-
----
-
-### 2026-08-13 22:30:37  #國際
-
-美國能源資訊署（EIA）資料：美國中南部天然氣庫存增加30億立方英尺。
-
----
-
-### 2026-08-13 22:30:35  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,360/oz, down 1.12% intraday.
-
----
-
-### 2026-08-13 22:30:34  #國際
-
-美國能源資訊署（EIA）資料：美國太平洋地區天然氣庫存減少40億立方英尺。
-
----
-
-### 2026-08-13 22:30:30  #國際
-
-美國能源資訊署（EIA）資料：美國中西部天然氣庫存增加20億立方英尺。
-
----
-
-### 2026-08-13 22:30:23  #市場
-
-現貨黃金日內跌1%，現報4359.12美元/盎司。
-
----
-
-### 2026-08-13 22:30:23  #市場 #焦點
-
-現貨黃金失守4360美元/盎司，日內跌1.12%。
-
----
-
-### 2026-08-13 22:30:22  #MKT News #Important
-
-EIA weekly natural gas report: Working gas in U.S. storage for the week ended Aug. 7 was 3,153 bcf, up 36 bcf week-on-week, down 25 bcf YoY (-0.8%), and 198 bcf above the 5-year average (+6.7%).
-
----
-
-### 2026-08-13 22:30:17  #MKT News #Market Regions #Greater China
-
-【Bank wealth-management market surpasses 35 tln yuan】China's bank wealth-management market hit a record in July, topping 35 tln yuan, driven by deposit rollovers into wealth products and quarter-end deposit flows returning to wealth management. An industry compilation shows 14 wealth managers with AUM above 1 tln yuan (six state-owned bank platforms, eight joint-stock bank platforms), representing roughly 80% of the market, net-added about 1.7 tln yuan in the first seven months; fixed-income+ product AUM rose by about 1.66 tln yuan. Those 14 firms had combined outstanding AUM of 27.1 tln yuan at end-July. The Banking Wealth-Management Registration and Custody Center reports total market outstanding at 33.66 tln yuan at end-June.
-
----
-
-### 2026-08-13 22:30:14  #市場 #焦點
-
-紐約期金失守4420美元/盎司，日內跌1.17%。
-
----
-
-### 2026-08-13 22:30:12  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #SNDK.O #000660.KS
-
-Nasdaq gains widened to 1%; SanDisk (SNDK.O) and SK Hynix rose more than 4%.
-
----
-
-### 2026-08-13 22:30:10  #MKT News #Important #Commodities #Energy
-
-U.S. EIA weekly natural gas storage injection for week to Aug. 7: 36 Bcf vs. 32 Bcf expected; prior 33 Bcf.
-
----
-
-### 2026-08-13 22:30:09  #國際
-
-美國至8月7日當週EIA天然氣庫存 360億立方英尺，預期320億立方英尺，前值330億立方英尺。
-
----
-
-### 2026-08-13 22:30:04  #市場 #焦點
-
-美國天然氣期貨跌超3.00%，現報2.717美元/百萬英熱。
-
----
-
-### 2026-08-13 22:30:01  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Natural Gas Storage Change (Aug.7) | actual 36000000000B | consensus 32000000000B | previous 33000000000B
 
 ---

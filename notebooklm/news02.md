@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 01:05:16_
-_本檔包含 3043 則快訊，約 605787 字_
+_更新時間：2026-08-15 02:01:30_
+_本檔包含 3057 則快訊，約 604698 字_
+
+---
+
+### 2026-08-13 22:40:49  #國際
+
+受港口管制影響，俄羅斯7月海運穀物出口同比下降20%。
+
+---
+
+### 2026-08-13 22:40:01  #MKT News
+
+【World's first corporate FTZ offshore bond issued in Shanghai】On Aug. 12, China Central Depository and Clearing supported Shanghai Electric Group’s offshore unit Shanghai Electric Global Capital Co. in issuing a RMB 1.5 bln China free-trade-zone (FTZ) offshore bond. The three-year note carries a 1.8% coupon. The deal is the world’s first corporate FTZ offshore bond, the first FTZ offshore bond listed on the Hong Kong Stock Exchange and the largest single issuance in the FTZ offshore bond market; it attracted orders from investors across Hong Kong and Macau, Southeast Asia, the Middle East and Europe.
+
+---
+
+### 2026-08-13 22:39:33  #公司 #國際
+
+【全球首單企業類自貿離岸債在上海發行】8月12日，中央結算公司支援上海電氣集團股份有限公司境外子公司上海電氣環球資本有限公司成功發行15億元人民幣自貿離岸債，期限3年，票面利率1.8%。本次發行取得多項創新突破，是全球首單企業類自貿離岸債、首單香港交易所掛牌自貿離岸債，創自貿離岸債市場單筆發行規模最大紀錄，受到市場廣泛關注，吸引來自港澳、東南亞、中東、歐洲等地區投資者積極參與認購。本次發行是自貿離岸債市場建設取得的又一重要進展，標誌著市場發行主體由金融機構向優質實體企業拓展，進一步豐富了市場主體型別和產品供給。（央視新聞）
+
+---
+
+### 2026-08-13 22:38:50  #公司 #觀點 #央行 #國際
+
+【高盛：美聯儲7月按兵不動絕對正確 9月前應保持開放】高盛集團分析師Robert Kaplan表示，美聯儲7月不加息的決定“絕對”正確，並敦促政策制定者在9月之前保持開放態度，理由是影響通脹的因素錯綜複雜，僵化的前瞻性指引會適得其反。
+
+---
+
+### 2026-08-13 22:38:46  #國際
+
+美國國家颶風中心（NHC）表示熱帶風暴拉拉已生成，夏威夷大島已釋出颶風觀察預警。
+
+---
+
+### 2026-08-13 22:38:21  #Trading Economics #Economy #United States #Natural Gas Stocks Change #Importance 1
+
+US Natural Gas Stocks Rise More Than Expected — US energy firms added 36 billion cubic feet of natural gas into storage in the week ending August 7, above market expectations of 31 bcf. It compares with an injection of 49 bcf during the same week a year ago and an average increase for that week of 33 bcf over the past five years (2021-2025). Stockpiles increased to 3.153 trillion cubic feet, 0.8% below the same week a year ago and about 6.7% above the five-year average for the week. In the prior week ended July 31, energy firms added 33 bcf of gas into storage.
+
+---
+
+### 2026-08-13 22:38:19  #國際
+
+烏克蘭稱自 7 月以來已有 218 艘以上船隻遭襲；俄羅斯對敖德薩附近運糧船發動襲擊，基本切斷了烏克蘭海上出口通道。
+
+---
+
+### 2026-08-13 22:38:08  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Former Dallas Fed president Kaplan said the Fed was "absolutely" right not to hike rates in July.
+
+---
+
+### 2026-08-13 22:38:06  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【Goldman says Fed's July pause 'absolutely' correct; stay open until September】Goldman analyst Robert Kaplan said the Fed’s decision to hold in July was “absolutely” correct and urged policymakers to stay open-minded through September, arguing complex, offsetting inflation drivers make rigid forward guidance counterproductive. He cited inflationary pressure from AI build-out, tariffs, labor constraints and oil-price spikes, while AI applications are working the other way and accelerating disinflation. Kaplan said he could remain on hold if he sees meaningful improvement but wants to use the interval before September to reassess rather than lock in a view. He urged Fed speakers to use this month’s Jackson Hole symposium to briefly explain the July pause rather than give a purely “philosophical” speech. Kaplan said he is more worried about the long end of the US Treasury curve than the fed funds rate, attributing the global rise in long yields to a structural supply–demand imbalance driven by persistently loose fiscal deficits rather than Fed policy.
+
+---
+
+### 2026-08-13 22:37:47  #MKT News
+
+Canada’s minister for Canada-U.S. bilateral trade will meet U.S. Trade Representative Greer on Thursday afternoon.
+
+---
+
+### 2026-08-13 22:37:34  #國際
+
+加拿大負責對美雙邊貿易事務的部長將於週四下午會見美國貿易代表。
+
+---
+
+### 2026-08-13 22:36:56  #其他
+
+費城半導體指數漲超2%，超微電腦漲超10%，英特爾漲近5%，美光科技漲超4%，閃迪漲近6%。
+
+---
+
+### 2026-08-13 22:36:41  #國際
+
+阿根廷表示，小規模召回事件後，該國對美國牛肉出口已恢復正常。
+
+---
+
+### 2026-08-13 22:36:15  #MKT News
+
+【Explosion at military factory near Rome】Italian authorities reported on the 13th that a blast hit a military factory near Rome. No casualties reported so far.
+
+---
+
+### 2026-08-13 22:35:56  #其他
+
+【遭制裁油輪在阿曼近海原油洩漏，油汙已蔓延至陸地】據報道，受損油輪 “卡羅琳・貝曾吉” 號在阿曼海岸外發生原油洩漏，油汙擴散面積約 1300 平方公里（500 平方英里），並且已經抵達陸地。綠色和平組織活動人士哈嫩・凱斯表示，衛星影象分析顯示，洩漏油汙並未形成連片油膜，而是裂解成多處油汙斑塊。阿曼方面尚未確認實際受汙染總面積。
+
+---
+
+### 2026-08-13 22:35:35  #MKT News #Brent #Impact bullish #WTI
+
+UKMTO says Iran's Islamic Revolutionary Guard Corps continues to harass and surveil merchant vessels, though there were no confirmed attacks in the latest reporting period.
+
+---
+
+### 2026-08-13 22:35:26  #公司 #國際
+
+【比亞迪“海獺”，在日本訂單已超1000輛】喊出“全球第一”目標後，比亞迪正直指豐田汽車的“大本營”——日本市場。挑大樑的產品，是比亞迪日本分公司於7月底向授權經銷商開放銷售的輕型純電動車——海獺RACCO。“截至8月10日，海獺在日本市場的訂單超過1000輛。”8月12日，比亞迪方面向《每日經濟新聞》記者透露，到2026年底，海獺的訂單目標是1萬輛。據全球市場研究機構Research and Markets預測，日本新能源汽車市場規模（主要聚焦純電動車）2026年將達到19.9億美元，2030年將達到26.8億美元。（每經）
+
+---
+
+### 2026-08-13 22:35:19  #MKT News #WTI #Impact bullish #Brent
+
+UKMTO: commercial traffic in the Strait of Hormuz remains constrained.
+
+---
+
+### 2026-08-13 22:34:53  #MKT News
+
+Market sources: India has received 20 bids to establish magnet manufacturing plants.
+
+---
+
+### 2026-08-13 22:34:27  #國際
+
+烏克蘭已向俄羅斯提議，雙方停止襲擊黑海區域的民用目標，目前尚未得到俄方回應。
+
+---
+
+### 2026-08-13 22:34:22  #MKT News
+
+Sources say Ukraine's proposal was relayed to Russia via a third party, but no response has been received.
+
+---
+
+### 2026-08-13 22:34:15  #MKT News #Brent #Impact bearish #S&P500 #Impact bullish #DXY
+
+Sources say Ukraine has proposed to Russia that both sides cease strikes on civilian targets in the Black Sea.
+
+---
+
+### 2026-08-13 22:34:04  #國際
+
+【希臘西尼羅病毒感染病例激增】希臘國家公共衛生組織12日說，希臘過去兩週感染西尼羅病毒的人數激增，感染病例總數增至110例。據法新社13日報道，義大利、西班牙、北馬其頓和羅馬尼亞等歐洲國家也發現西尼羅病毒感染病例。(新華社)
+
+---
+
+### 2026-08-13 22:34:01  #國際
+
+印度收到20份建設磁鐵製造工廠的投標。
+
+---
+
+### 2026-08-13 22:33:57  #公司
+
+哥本哈根基礎設施合夥人公司與蒂蘭德公司獲丹麥養老金（PensionDanmark）出資支援，在丹麥啟動能源一體化資料中心建設。
+
+---
+
+### 2026-08-13 22:33:15  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England chief economist Pill: UK economic growth strengthens case for rate hikes.
+
+---
+
+### 2026-08-13 22:33:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Ukraine says it struck large refinery in Russia's southwest】Ukraine's General Staff said on social media on the 13th that Ukrainian forces struck a large refinery in the Republic of Bashkortostan in Russia's southwest in the early hours, triggering a fire. The General Staff said the target was about 1,300 km from the Ukraine–Russia border and said Kyiv would continue strikes on Russian critical infrastructure to systematically degrade its combat capability. The refinery was reported to belong to Salavat Petrochemical Company, described as one of Russia's largest refining and petrochemical complexes with annual refining capacity of about 10 mln tonnes.
+
+---
+
+### 2026-08-13 22:32:41  #公司 #國際
+
+【烏軍稱襲擊俄西南部一大型煉油廠】烏克蘭武裝部隊總參謀部13日在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。 烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。 據報道，遭襲的煉油廠屬於俄氣薩拉瓦特石油化工公司，該公司是俄最大煉油和石化綜合體之一，年煉油能力達1000萬噸。(新華社)
+
+---
+
+### 2026-08-13 22:32:17  #MKT News #Commodities #Energy
+
+U.S. natural gas futures extended losses, down 3.0% after the EIA reported inventories rose more than expected.
+
+---
+
+### 2026-08-13 22:32:16  #市場 #國際
+
+美國能源資訊署公佈天然氣庫存增幅超預期後，美國天然氣期貨延續跌勢，跌幅達3.0%。
+
+---
+
+### 2026-08-13 22:32:05  #國際
+
+美國能源資訊署(EIA)：上週美國天然氣庫存環比上升1.15%。
+
+---
+
+### 2026-08-13 22:30:43  #國際
+
+美國能源資訊署（EIA）：美國鹽穴儲氣庫天然氣庫存減少60億立方英尺。
+
+---
+
+### 2026-08-13 22:30:37  #國際
+
+美國能源資訊署（EIA）資料：美國中南部天然氣庫存增加30億立方英尺。
+
+---
+
+### 2026-08-13 22:30:35  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,360/oz, down 1.12% intraday.
+
+---
+
+### 2026-08-13 22:30:34  #國際
+
+美國能源資訊署（EIA）資料：美國太平洋地區天然氣庫存減少40億立方英尺。
+
+---
+
+### 2026-08-13 22:30:30  #國際
+
+美國能源資訊署（EIA）資料：美國中西部天然氣庫存增加20億立方英尺。
+
+---
+
+### 2026-08-13 22:30:23  #市場
+
+現貨黃金日內跌1%，現報4359.12美元/盎司。
+
+---
+
+### 2026-08-13 22:30:23  #市場 #焦點
+
+現貨黃金失守4360美元/盎司，日內跌1.12%。
+
+---
+
+### 2026-08-13 22:30:22  #MKT News #Important
+
+EIA weekly natural gas report: Working gas in U.S. storage for the week ended Aug. 7 was 3,153 bcf, up 36 bcf week-on-week, down 25 bcf YoY (-0.8%), and 198 bcf above the 5-year average (+6.7%).
+
+---
+
+### 2026-08-13 22:30:17  #MKT News #Market Regions #Greater China
+
+【Bank wealth-management market surpasses 35 tln yuan】China's bank wealth-management market hit a record in July, topping 35 tln yuan, driven by deposit rollovers into wealth products and quarter-end deposit flows returning to wealth management. An industry compilation shows 14 wealth managers with AUM above 1 tln yuan (six state-owned bank platforms, eight joint-stock bank platforms), representing roughly 80% of the market, net-added about 1.7 tln yuan in the first seven months; fixed-income+ product AUM rose by about 1.66 tln yuan. Those 14 firms had combined outstanding AUM of 27.1 tln yuan at end-July. The Banking Wealth-Management Registration and Custody Center reports total market outstanding at 33.66 tln yuan at end-June.
+
+---
+
+### 2026-08-13 22:30:14  #市場 #焦點
+
+紐約期金失守4420美元/盎司，日內跌1.17%。
+
+---
+
+### 2026-08-13 22:30:12  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #SNDK.O #000660.KS
+
+Nasdaq gains widened to 1%; SanDisk (SNDK.O) and SK Hynix rose more than 4%.
+
+---
+
+### 2026-08-13 22:30:10  #MKT News #Important #Commodities #Energy
+
+U.S. EIA weekly natural gas storage injection for week to Aug. 7: 36 Bcf vs. 32 Bcf expected; prior 33 Bcf.
+
+---
+
+### 2026-08-13 22:30:09  #國際
+
+美國至8月7日當週EIA天然氣庫存 360億立方英尺，預期320億立方英尺，前值330億立方英尺。
+
+---
+
+### 2026-08-13 22:30:04  #市場 #焦點
+
+美國天然氣期貨跌超3.00%，現報2.717美元/百萬英熱。
+
+---
+
+### 2026-08-13 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Natural Gas Storage Change (Aug.7) | actual 36000000000B | consensus 32000000000B | previous 33000000000B
 
 ---
 
@@ -18135,197 +18411,5 @@ NEBIUS集團高管：第二季度簽署的人工智慧雲協議，每兆瓦年�
 ### 2026-08-12 20:53:23  #其他
 
 【影石釋出全景相機X6】8月12日晚，影石Insta360釋出全景相機X6，現已在全球市場同步發售，中國大陸地區售價3999元起。
-
----
-
-### 2026-08-12 20:53:06  #資料 #市場 #央行 #國際
-
-【美國7月CPI同比上漲3.4%】美國勞工部8月12日釋出的資料顯示，美國7月消費者價格指數（CPI）同比上漲3.4%，剔除食品和能源價格後，美國7月核心CPI同比上漲2.5%。 分析人士指出，受美伊衝突階段性緩和、油價大幅下跌等因素影響，美國6月通脹超預期下行。但7月原油價格再度震盪上行，紐商所原油期貨主力合約全月反彈超20%，地緣風險重新給通脹帶來上行壓力。目前美國通脹水平仍遠高於美聯儲2%的目標，對於美聯儲接下來可能的利率路徑，芝商所“美聯儲觀察工具”顯示，美聯儲在9月的議息會議上維持利率不變的機率為54.1%，加息25個基點的機率為45.9%。路透社指出，高企的生活成本削弱了不少美國民眾對特朗普政府的信心，通脹壓力可能在11月中期選舉中對共和黨選情形成不利影響。（央視財經）
-
----
-
-### 2026-08-12 20:52:00  #公司
-
-【兆日科技：擬發行股份及支付現金收購佰內科技控制權，發行價6.07元/股】兆日科技公告，公司擬透過發行股份及支付現金方式購買深圳市佰內科技有限責任公司部分股權並取得其控制權，同時擬向不超過35名特定投資者發行股份募集配套資金。本次發行股份購買資產發行價格為6.07元/股，不低於定價基準日前20個交易日股票交易均價的80%。交易對方為上海拾內企業管理有限公司、馬瑞。本次交易預計構成關聯交易，不構成重組上市。本次交易實施以公司控制權變更完成為前提，控股股東晁駿投資擬將所持4765.89萬股股份（佔總股本14.18%）協議轉讓給璟和珩。截至預案簽署日，標的資產審計、評估工作尚未完成，交易價格尚未確定。
-
----
-
-### 2026-08-12 20:51:31  #其他
-
-據哥倫比亞媒體12日報道，哥倫比亞宣佈全國哀悼3天，以悼念地震遇難者。哥倫比亞西部地區10日發生7.4級強震，目前已造成188人死亡、1600多人受傷。（新華社）
-
----
-
-### 2026-08-12 20:51:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Analyst: relief from easing energy prices unlikely to persist】Analyst David Uberti said the recent cooling in inf was partly driven by a small drop in gasoline prices, but the situation is likely to change in August. U.S. Labor Department data show July gasoline down 2.9% MoM and fuel oil down 1.7% MoM.
-
----
-
-### 2026-08-12 20:51:07  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-【CNBC: Energy-driven inflationary pressure easing】BLS: July CPI up 0.1% MoM SA; core CPI (ex food and energy) up 0.2% MoM. YoY headline CPI +3.4%, core +2.5%. CNBC reports the modest monthly prints, following a similarly soft June, indicate the earlier energy-driven pickup in inflation is easing and could reduce the Fed’s near-term rate-hike urgency. Inflation remains materially above the Fed’s 2% target, price moves are volatile and remain exposed to developments in the Middle East.
-
----
-
-### 2026-08-12 20:50:51  #Trading Economics #Economy #Canada #Building Permits MoM #Importance 1
-
-Canadian Building Permits Beat Forecasts — Canada’s building permits rose 18.5% month-over-month to C$14.9 billion in June 2026, rebounding sharply from a 1.7% decline in May and far exceeding forecasts for a 0.8% increase. This marks the highest reading in over two years. The value of non-residential building permits increased by C$1.8 billion to C$6.8 billion, led by the institutional component, which rose C$1.5 billion to C$3.2 billion. Industrial and commercial permits also increased, by C$268.8 million and C$67.9 million, respectively. Residential construction intentions climbed C$479.7 million, or 6.3%, to C$8.1 billion, driven by multi-unit projects, which rose C$283.7 million to C$5.3 billion, and single-family homes, up C$196 million to C$2.8 billion. In Q2 2026, the total value of building permits increased 3.7% quarter-over-quarter to C$40.4 billion.
-
----
-
-### 2026-08-12 20:50:49  #MKT News
-
-Secretary of Iran's Supreme National Security Council says Iran and Pakistan are each other's "strategic assets".
-
----
-
-### 2026-08-12 20:50:46  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Rises Toward 10-Week High — Gold rose above $4,420 an ounce on Wednesday, approaching a 10-week high as investors weighed US inflation data, Federal Reserve policy expectations and developments surrounding the Strait of Hormuz. US consumer prices rose broadly in line with forecasts in July, easing concerns over an imminent Fed rate hike. Following last week’s weak jobs report, the softer inflation picture encouraged investors to reduce expectations for a September increase, supporting demand for gold. Geopolitical uncertainty also remained a key driver, with Pakistan’s defense minister saying the US and Iran were “close to some sort of arrangement” to reopen Hormuz, while President Donald Trump claimed the US had “total control” of the waterway. Meanwhile, central-bank buying continued to underpin gold demand. China’s central bank added around 20 tonnes to its reserves in July, marking its 21st consecutive month of purchases. Global central banks bought an estimated 289 tonnes in the second quarter.
-
----
-
-### 2026-08-12 20:50:24  #資料 #市場 #國際
-
-【由於交易員下調加息預期，收益率和美元走低】在CPI資料符合預期後，美國國債收益率和美元走低的趨勢更加明顯，而SOFR期貨收益率當日下跌4-5個基點。顯然，交易員此前已做好迎接高於預期資料的準備。交易員仍然預期今年會加息，但持續降低9月份加息的可能性。
-
----
-
-### 2026-08-12 20:49:35  #國際
-
-【全球eSIM連線總量破13億 中國市場迎來“無卡化”拐點】日前，中國資訊通訊研究院（以下簡稱“中國信通院”）釋出《eSIM產業發展研究報告（2026年）》。報告顯示，截至2026年第一季度，全球累計eSIM連線總量已突破13億，全球eSIM產業正從早期試點逐步進入規模化部署週期。其中，北美市場預計佔全球39%，歐洲市場維持在27%—28%左右；隨著中國智慧手機eSIM試商用落地，中國市場佔比預計提升至13%。 報告指出，從全球來看，eSIM產業正在迎來一個重要轉折點：過去由運營商推動的網路側建設已經逐漸成熟，產業競爭開始從“有沒有eSIM”轉向“如何讓更多終端、使用者和場景使用eSIM”。中國市場則成為這一輪產業變化中的重要變數。 通訊分析師周桂軍向《中國經營報》記者表示，與全球市場相比，中國eSIM仍處於從“試商用”走向“規模化”的關鍵階段。終端適配、安全監管、使用者遷移以及運營商業務模式等問題，仍將決定這項技術究竟能夠多快變成智慧終端的標配功能。（中國經營報）
-
----
-
-### 2026-08-12 20:49:03  #市場 #國際
-
-【能源可能在8月重新點燃通脹 】能源價格下跌幫助7月份通脹降溫，汽油環比下降2.9%，燃料油下跌1.7%。 但這種緩解可能是暫時的。 原油價格上漲和強勁的煉油利潤率已經開始推高燃料成本。 美國汽油現平均每加侖4.03美元，比一個月前的3.87美元上漲，這表明能源可能對8月通脹施加新的上行壓力。
-
----
-
-### 2026-08-12 20:48:48  #市場
-
-彭博美元指數下跌0.1%，至日內低點。
-
----
-
-### 2026-08-12 20:48:40  #公司 #國際
-
-【印度客機機長被曝“毒駕” 航班空中驟降傷數十人】印度航空公司一架客機上週在空中高度驟降，造成20名乘客和4名機組人員受傷。印度媒體披露，涉事機長接受藥檢，結果顯示為大麻陽性。 這架空中客車A320型客機4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。在飛行途中，客機突然下降約90米。 印度航空事故調查局11日釋出宣告說，正在調查這一事件，分析技術、醫學、人為因素等方面的證據。多家媒體援引訊息人士的話報道，機長在檢測中被查出大麻陽性，第二次毒檢依舊沒透過。（新華社）
-
----
-
-### 2026-08-12 20:47:56  #Trading Economics #Economy #United States #Energy Inflation #Importance 0
-
-US Energy Inflation Slows to 4-Month Low — US energy inflation moderated to 14.7% year-over-year in July 2026, the softest since March, down from 15.7% in the prior month. Prices slowed down further for energy commodities such as gasoline (24.6% vs 27.1% in June) and fuel oil (39.1% vs 42.9%). On the other hand, prices rose faster for piped gas service (4.3% vs 3%) and electricity (4.2% vs 4%). On a monthly basis, energy prices fell by 1.5%, after a 5.7% decline in the previous month.
-
----
-
-### 2026-08-12 20:47:48  #公司
-
-加拿大鎳業公司宣佈進行非經紀私募配售，總融資額為1500萬加元。
-
----
-
-### 2026-08-12 20:47:12  #MKT News #Important #XAUUSD #Impact bullish #DXY #Impact bearish #S&P500
-
-Goldman Sachs said U.S. July CPI was "encouraging".
-
----
-
-### 2026-08-12 20:46:55  #央行 #其他
-
-智利央行購入2500萬美元。
-
----
-
-### 2026-08-12 20:46:47  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-NATO allies convened a meeting to discuss airspace incursions into Poland and Romania.
-
----
-
-### 2026-08-12 20:46:44  #國際
-
-北約盟國召開會議，商討波蘭、羅馬尼亞領空事宜。
-
----
-
-### 2026-08-12 20:46:30  #市場
-
-彭博美元現貨指數下跌0.1%，至當日低點。
-
----
-
-### 2026-08-12 20:46:23  #其他
-
-據燈塔專業版，《歡迎來龍餐館》今日上映第2天，單日票房已超過昨天上映首日，實現工作日單日票房逆跌！
-
----
-
-### 2026-08-12 20:46:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Lebanese military said Israel continues to "violate and breach" existing agreements.
-
----
-
-### 2026-08-12 20:46:18  #市場 #國際
-
-美國生菜價格環比下跌 16.4%。
-
----
-
-### 2026-08-12 20:45:44  #國際
-
-【美軍航母超長部署狀態越來越差】據美國“戰區”網站近日報道，美軍11艘現役航母中，目前部署海外的僅3艘，剩下的有4艘在港休整，還有4艘正維修保養。而“出外勤”的美軍航母，整體狀態也越來越差。外媒援引“林肯”號水兵及家屬的話稱，該艦已出海近9個月，最近5個月一直巡弋在阿拉伯海參與對伊朗的封鎖、打擊行動。超長的部署時間，導致艦上洗衣機損壞、淋浴間發黴，廁所一度無法使用，而艦載機超1萬次的頻繁起降，竟然把飛行甲板磨出了洞。由於後勤保障不利，“林肯”號還多次實行物資限量配給制，艦上水兵抱怨不僅食物匱乏，很少吃到新鮮果蔬，而且連牙膏、肥皂都嚴重短缺。（中國新聞網）
-
----
-
-### 2026-08-12 20:45:39  #MKT News #Market Themes #China Tech Giants
-
-Honor launched its first Robot Phone, priced from 9,999 yuan to 12,999 yuan.
-
----
-
-### 2026-08-12 20:45:15  #Trading Economics #Economy #United States #Inflation Rate MoM #Importance 0
-
-US CPI Rebounds in July — The CPI in the US edged up 0.1% month-over-month in July 2026 as expected, rebounding from a 0.4% decline in June, which marked the first monthly drop since May 2020. The index for shelter rose 0.1%, accounting for roughly two-thirds of the monthly total increase. Food prices also were up 0.1% and other increases were seen for medical care (0.4%), airline fares (2.2%), communication (0.6%), education (0.5%), and recreation (0.2%). In contrast, gasoline prices decreased 2.9% and motor vehicle insurance was down 0.3%.
-
----
-
-### 2026-08-12 20:45:03  #其他
-
-【首款機器人手機榮耀Robot Phone價格公佈 9999元起】8月12日晚，首款機器人手機榮耀Robot Phone正式釋出，價格9999元起，最高12999元。
-
----
-
-### 2026-08-12 20:45:01  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Extend Rise After CPI — Futures tracking US stocks rose further on Wednesday amid strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.5% to test its record, while the Dow gained 150 points and Nasdaq 100 rose 0.9%. CoreWeave surged up to 20% premarket after posting stronger than expected sales results. Similarly, SMCI advanced nearly 10% after its revenue forecast was higher than expected by analysts. Hyperscalers and chip producers also gained from strong results from Tencent, while Temasek took fresh stakes on SK Hynix and Samsung. The results injected fresh optimism on AI infrastructure stocks amid their volatile start to the third quarter. Nvidia, Oracle, and Amazon were up. Meanwhile, new inflation data showed relatively stable core inflation to ease pressure on the FOMC to raise interest rates. Still, uncertainty on the return of energy supply from the Middle East maintained inflationary concerns.
-
----
-
-### 2026-08-12 20:44:48  #其他
-
-【“阿里最年輕P10”林俊暘創業：語用科技落戶模速空間，估值超百億元】就在當天，他宣佈，在上海創立Pragmatik Labs（語用科技）並落戶模速空間，研究方向是“橫跨數字世界與物理世界的下一代Agent”，高榕創投與紅杉中國聯合領投，騰訊和上海未來產業基金參與支援。據瞭解，語用科技估值已超百億人民幣。（澎湃）
-
----
-
-### 2026-08-12 20:44:47  #MKT News #Important #Nasdaq100 #Impact bullish #S&P500
-
-Nasdaq-100 futures rose 1%; S&P 500 futures rose 0.5%.
-
----
-
-### 2026-08-12 20:44:28  #市場
-
-納斯達克100指數期貨上漲1%；標普500指數期貨上漲0.5%。
-
----
-
-### 2026-08-12 20:44:25  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #Commodities #Energy #DXY #Impact mixed #XAUUSD #Impact bullish #WTI
-
-【Gasoline slump cools US inflation; July CPI YoY 3.4%】US July CPI eased to 3.4% YoY from 3.5% in June, the Bureau of Labor Statistics said on Wednesday, matching economists' expectations. Core CPI (ex-food and energy) fell to 2.5% YoY from 2.6%. The moderation was driven largely by lower energy prices; gasoline was 2.9% lower in July versus June despite a sharp late‑July spike linked to tensions with Iran. Knock‑on effects from Trump’s war on Iran continue to hit the US economy. The report arrives as markets press the Fed to raise rates to counter inflation risks from war‑related energy supply disruptions, alongside tariff impacts and price pressures associated with an AI boom.
 
 ---

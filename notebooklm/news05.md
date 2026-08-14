@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 01:05:16_
-_本檔包含 2887 則快訊，約 605518 字_
+_更新時間：2026-08-15 02:01:30_
+_本檔包含 2889 則快訊，約 604563 字_
+
+---
+
+### 2026-08-10 16:32:54  #市場
+
+【在岸人民幣兌美元收盤報6.7442】8月10日訊息，在岸人民幣兌美元收盤報6.7442，較上一交易日上漲59點。
+
+---
+
+### 2026-08-10 16:32:51  #MKT News #Star Stocks #Alibaba #BABA.O #Impact bullish #9988.HK
+
+【Alibaba Cloud plans to more than double global data center capacity】Alibaba Cloud said it has cut delivery time for large AIDC data centers to 100 days using a full modular design, while reducing overall construction costs by more than 10% despite the faster build. The company plans to expand global capacity of its modular data centers by more than twofold this year.
+
+---
+
+### 2026-08-10 16:32:12  #公司
+
+【臺華新材：擬4000萬至8000萬元回購股份用於激勵】臺華新材公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於4000萬元且不超過8000萬元，回購價格不超12.7元/股，預計回購數量314.96萬股至629.92萬股，佔總股本0.35%至0.71%。回購股份擬用於員工持股計劃或股權激勵，若36個月內未使用完畢則登出。回購期限自董事會審議透過之日起12個月內。公司董監高、控股股東等未來3個月、6個月暫不存在減持計劃。本次回購存在多種實施風險。
+
+---
+
+### 2026-08-10 16:32:06  #公司
+
+【亞通精工：1.10億股首發限售股8月17日上市流通】亞通精工公告稱，本次上市流通的限售股為首次公開發行限售股，涉及焦召明等4名股東，數量為1.10億股，佔公司目前總股本（1.74億股）的63.34%，將於2026年8月17日起上市流通。原鎖定期36個月，因上市後股價表現，股東自願延長6個月。截至核查意見出具日，股東嚴格履行承諾，公司不存在控股股東及其關聯方佔用資金情況。
+
+---
+
+### 2026-08-10 16:31:54  #公司 #市場
+
+【*ST帥電：股價異常波動 擬4.1億元購惠嘉科技100%股權】*ST帥電公告稱，公司股票於2026年8月6日、7日、10日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。公司擬4.1億元現金購買惠嘉科技股東李連強、斯應昌持有的100%股權，已籤協議。2026年一季度，公司營收2349.88萬元，同比降51.99%；淨虧損720.14萬元，同比增虧591.30萬元。本次交易尚需股東會審議及主管部門審批，存在不確定性。
+
+---
+
+### 2026-08-10 16:31:47  #其他
+
+【阿里雲計劃將全球資料中心產能提升兩倍以上】8月10日，記者獲悉，基於全模組化設計架構，阿里雲已將大型AIDC資料中心的交付工期縮短至100天。據瞭解，在大幅縮短工期的同時，阿里雲資料中心整體建設成本反而降低10%以上。今年，阿里雲正計劃將模組化資料中心的全球產能提升兩倍以上。
+
+---
+
+### 2026-08-10 16:31:41  #公司
+
+【陝鼓動力：擬發行股份購秦風氣體36.06%股權 股票已復牌】陝鼓動力公告稱，公司擬發行股份購買秦風氣體少數股東持有的合計36.06%股權，交易構成關聯交易，預計不構成重大資產重組及重組上市。公司股票6月29日起停牌，7月13日起復牌。截至公告披露日，相關審計、評估等工作正穩步推進，交易方案尚需公司董事會、股東會及監管機構批准，能否獲批及時間存在不確定性。
+
+---
+
+### 2026-08-10 16:31:26  #MKT News
+
+Iran's foreign ministry spokesman said Iran is holding talks with all regional countries to build trust and develop homegrown security mechanisms.
+
+---
+
+### 2026-08-10 16:31:15  #MKT News #CNH #Impact bullish
+
+Onshore yuan (CNY) closed at 6.7442 per dollar at 16:30 on Aug 10, up 59 pips from the previous trading day.
+
+---
+
+### 2026-08-10 16:30:53  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Foreign Ministry spokesperson said Tehran does not accept reports about US military strength, positive or negative, and that Iran's priority is to maintain maximum combat readiness.
+
+---
+
+### 2026-08-10 16:30:52  #資料
+
+歐元區8月Sentix投資者信心指數 0.9，預期-0.5，前值-3.1。
+
+---
+
+### 2026-08-10 16:30:27  #經濟數據 #歐元區
+
+【歐元區8月Sentix投資者信心指數為0.9 預期-0.5】歐元區8月Sentix投資者信心指數為0.9，預期-0.5，前值-3.1。
+
+---
+
+### 2026-08-10 16:30:07  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+Eurozone Sentix investor confidence index for August 0.9, versus consensus -0.5 and July -3.1.
+
+---
+
+### 2026-08-10 16:30:00  #MKT News #Economic Calendar #Important
+
+Eurozone | Sentix Investor Confidence Index (Aug) | actual 0.9 | consensus -0.5 | previous -3.1
+
+---
+
+### 2026-08-10 16:29:59  #MKT News #DXY #Impact mixed #WTI #XAUUSD
+
+【CBA expects RBA to keep rates unchanged for remainder of year】Commonwealth Bank of Australia expects the Reserve Bank of Australia to leave the cash rate unchanged for the rest of the year while keeping hawkish language. That hold-without-a-dovish-pivot limits the rate decision's near-term directional signal for the AUD; more market-relevant will be forecast revisions. CBA expects the RBA to raise its unemployment projection and lower both headline and core inflation forecasts — a material downward revision to inflation would be interpreted by markets as opening the door to later easing even if rhetoric stays hawkish. Escalation in the Middle East could add cost pass-through in Q3, an uncertainty that may force the RBA into a more hawkish stance than data alone imply.
+
+---
+
+### 2026-08-10 16:29:51  #公司
+
+【雲維股份：重大資產重組工作仍在推進 能否實施存不確定性】雲維股份公告稱，公司擬透過發行股份及支付現金方式購買雲能（紅河）發電有限公司100%股權，該交易構成關聯交易及重大資產重組，不會導致公司實際控制人變更。公司股票於2024年12月9日起停牌，12月23日起復牌。截至公告披露日，公司正積極推進相關工作，但交易各方尚未簽署正式協議，尚需履行必要程式並獲監管批准，能否實施存在重大不確定性。
+
+---
+
+### 2026-08-10 16:29:47  #國際
+
+伊朗外交部發言人：無論是談判秘密進行還是公開進行，伊朗人都是高明的“棋手”。
+
+---
+
+### 2026-08-10 16:29:44  #MKT News
+
+Iranian Foreign Ministry spokesman said whether negotiations are held secretly or publicly, Iranians are skilled "chess players".
+
+---
+
+### 2026-08-10 16:29:42  #國際
+
+俄羅斯：“根據中央選舉委員會的資料，將在152個國家開設319個投票站，以便海外公民能夠在國家杜馬選舉中投票。”
+
+---
+
+### 2026-08-10 16:29:35  #行業 #其他
+
+【《天津市智慧機器人產業創新發展行動方案（2026—2028年）》印發 2028年全市智慧機器人產業核心產值突破200億元】今天，市工業和資訊化局、市發展改革委、市科技局聯合印發《天津市智慧機器人產業創新發展行動方案（2026—2028年）》（以下簡稱《行動方案》），提出到2028年底，全市智慧機器人產業核心產值突破200億元，產值年均增速超過15%，京津冀區域配套率提升至60%以上，形成“研發—製造—應用—服務”全環節、“決策及控制—本體—核心零部件—整合服務”全鏈條產業生態。屆時，全市將建成1個智慧機器人創新聯合體，爭創1至2家國家級創新平臺，攻關智慧機器人主控晶片、作業系統、減速器、伺服電機等方面核心技術，形成20項技術產品；培育產值超10億元企業3家以上、國家級專精特新“小巨人”企業20家；建設天津市智慧機器人創新中心、天津市智慧機器人敏捷智造中心，打造一批展示體驗中心；建設不少於20個實景實訓空間，在工業製造、特種作業、民生服務等領域形成100個以上示範應用場景。
+
+---
+
+### 2026-08-10 16:27:27  #宏觀
+
+【孫碩鵬任民政部副部長】據人社部網站2026年8月10日訊息，國務院任免國家工作人員。任命孫碩鵬為民政部副部長；任命蔣瑋（女）為中國老齡協會會長。免去羅文的國家市場監督管理總局局長職務；免去孫碩鵬的中國老齡協會會長職務。（澎湃新聞）
+
+---
+
+### 2026-08-10 16:26:40  #公司
+
+【凱眾股份：累計回購股份佔總股本1.05% 金額近2800萬元】凱眾股份公告稱，截至2026年8月7日，公司以集中競價交易方式累計回購股份279.9398萬股，佔總股本的1.05%，較上次披露增加0.61%。回購價格在9.59元/股至10.30元/股之間，已支付總金額約2797.32萬元。公司於2026年7月21日透過回購議案，預計回購金額3000萬元（含）至6000萬元（含），回購期限至2027年7月20日，回購股份用於員工持股計劃或股權激勵。
+
+---
+
+### 2026-08-10 16:26:05  #公司
+
+【浙江榮泰增資至4.7億 增幅約30%】天眼查App顯示，近日，浙江榮泰電工器材股份有限公司發生工商變更，註冊資本由約3.6億人民幣增至約4.7億人民幣，增幅約30%。該公司成立於1998年4月，法定代表人為曹梅盛，經營範圍包括汽車零部件及配件製造、雲母製品製造、隔熱和隔音材料製造等。
+
+---
+
+### 2026-08-10 16:25:48  #公司
+
+【濰柴重機：2025年度利潤分配方案將實施 每10股派1.16元】濰柴重機公告稱，2025年度利潤分配方案已獲2026年6月29日股東會透過，將以總股本4.64億股為基數，向全體股東每10股派發現金紅利1.16元（含稅），不送紅股，不轉增股本。股權登記日為2026年8月17日，除權除息日為8月18日。委託中國結算深圳分公司代派的A股股東現金紅利將於8月18日到賬，濰柴控股集團等2家A股股東現金紅利由公司自行派發。
+
+---
+
+### 2026-08-10 16:25:25  #MKT News
+
+Iranian foreign ministry spokesperson said the closure of the Strait of Hormuz was not caused by a dispute between Iran and Oman.
+
+---
+
+### 2026-08-10 16:24:36  #公司
+
+【濰柴重機：擬投資5.38億元建設電力能源高階裝備製造基地專案】濰柴重機公告，公司擬投資建設電力能源高階裝備製造基地專案，投資預算金額約為5.38億元，專案位於濰柴重機濰坊濱海工業園，建設週期不超過18個月，將擴大公司大功率發電機組產能。
+
+---
+
+### 2026-08-10 16:24:34  #公司
+
+【精工科技：“5000噸級DMSO原絲裝備及工藝”透過科技成果鑑定】精工科技公告稱，2026年8月9日，公司聯合多方開發的“5000噸級DMSO幹噴溼紡高效能PAN基原絲成套裝備及工藝”專案透過科技成果鑑定。該專案在聚合反應釜、原液分配、DMSO回收等方面取得技術突破，相關技術獲發明專利2件、實用新型專利22件，申請發明專利19件，主導編制1項國家標準。鑑定結論顯示，裝備整體技術達國際先進水平，部分指標國際領先。此次鑑定標誌國內高效能PAN基原絲製備取得重大突破，將推動公司核心業務發展及行業高質量發展。
+
+---
+
+### 2026-08-10 16:22:51  #公司 #市場
+
+【滬上阿姨股價大跌近24%，此前剛釋出股東自願延遲減持公告】8月10日，截至港股收盤，知名奶茶品牌滬上阿姨股價大跌23.4%，收盤價為89.85港元，市值94.52億港元。對於該情況，新浪財經問詢了滬上阿姨，截至發稿前未能接通。訊息面上，日前，滬上阿姨再度釋出有關股東自願延長禁售期的自願性公告。據瞭解，該公告顯示若干公司首發前股東自願承諾：自其第一次禁售期延長屆滿之日(即8月7日)起至11月7日，僅有序、小幅減持公司股份。經核算，相關股東擬於上述期間內合計減持不超過3684228股，僅佔公司發行股份數約3.50%。此前，滬上阿姨於4月19日透過公告表示，控股股東陣營在原禁售期(5月7日屆滿)基礎上延長6個月至11月7日，其他首發前股東延長3個月至8月7日。（新浪科技）
+
+---
+
+### 2026-08-10 16:22:21  #公司
+
+【全通教育：聘任蔡興倫為公司副總經理、財務總監】全通教育公告稱，公司於2026年8月10日召開董事會會議，同意聘任蔡興倫為公司副總經理、財務總監，任期至第四屆董事會換屆完成之日止。蔡興倫1991年出生，曾任德勤華永會計師事務所高階審計員等職，2026年4月加入公司。公司副總經理朱偉源不再代行財務總監職責。
+
+---
+
+### 2026-08-10 16:22:16  #其他
+
+歐足聯、亞足聯、中北美及加勒比海足聯要求對世界盃股權出售提案進行“完全獨立的第三方審查”。
+
+---
+
+### 2026-08-10 16:22:10  #MKT News
+
+UEFA, the Asian Football Confederation and CONCACAF said FIFA did not acknowledge that the proposal itself contained fundamental errors.
+
+---
+
+### 2026-08-10 16:21:46  #公司
+
+【晶片通脹壓力下蘋果尋求採購長鑫科技晶片？公司回應：以公告披露為準】8月10日，據《華爾街日報》訊息，受人工智慧投資熱潮引發的“晶片通脹（Chipflation）”成本壓力影響，蘋果將目光投向國產儲存半導體。對此，財聞致電長鑫科技證券部，相關人士回應稱：公司對外所有重大合作、產能進度等資訊，以公司公告、招股書、以及後續的中期報告為主；至於DDR6產能規劃、量產進度等，出於資訊合規管理要求，暫不方便對外透露。關於市場傳聞等，公司將會嚴格遵照上市資訊披露規則，結合實際情況推進相關信披工作。（財聞）
+
+---
+
+### 2026-08-10 16:21:44  #市場 #焦點
+
+【人民幣對美元即期匯率創42個月新高】8月10日，人民幣對美元即期匯率盤中最高升至6.7439，創下2023年2月6日以來的3年多新高。工銀亞洲在展望下半年人民幣走勢時認為，人民幣匯率大機率延續波動、緩步走升態勢，主要影響因素包括：一是下半年預計出口延續韌性增長，關注地緣風險及關稅政策對出口產品和地區結構、量價關係分化等影響；二是國際資金增配人民幣資產，資金淨流入支援人民幣中樞走強；三是美元對人民幣中間價相機調整。中國民生銀行首席經濟學家團隊指出，今年以來，支撐人民幣匯率走強的主要因素是出口的高景氣，目前來看，在貿易結構持續最佳化下，出口高增速有望延續，貿易順差也有望維持高位執行。總的來看，我國經濟在外部形勢複雜多變與國內新舊發展動能轉換的環境下展現出較強韌性，同時外匯市場執行穩健，為人民幣匯率保持在合理均衡水平上基本穩定奠定堅實基礎。預計8月份人民幣匯率將在6.75附近維持平穩雙向波動格局。（澎湃新聞）
+
+---
+
+### 2026-08-10 16:21:21  #公司
+
+【皖維高新：間接控股股東變更完成 海螺集團成新間接控股股東】皖維高新公告稱，海螺集團擬現金增資49.78億元持有皖維集團60%股權，間接控制公司18.24%股份；省投資集團、省國控集團擬無償劃轉分別取得皖維集團20%股權、公司7.50%股份，三者為一致行動人，海螺集團合計擁有公司33.24%表決權股份。近日，皖維集團已完成工商變更登記，海螺集團成為公司間接控股股東，實際控制人仍為安徽省國資委。本次收購不影響公司主營、治理及持續經營。
+
+---
+
+### 2026-08-10 16:21:16  #其他
+
+歐足聯、亞足聯、中北美及加勒比海足聯表示，國際足聯並未承認該提案本身存在固有錯誤。
+
+---
+
+### 2026-08-10 16:20:47  #國際
+
+【阿里雲將資料中心交付週期縮短至100天，全球領先】基於首創全模組化設計架構，阿里雲已將大型AIDC資料中心的交付工期縮短至100天，全球領先。同樣的工期，國內傳統交付週期為6至12個月，美國為12至18個月。在大幅縮短工期的同時，阿里雲資料中心整體建設成本反而降低10%以上。今年，阿里雲正計劃將模組化資料中心的全球產能提升兩倍以上。
+
+---
+
+### 2026-08-10 16:20:27  #公司
+
+【中國銀河：執行董事屈豔萍因到齡退休辭職】中國銀河8月10日公告，董事會當天收到公司執行董事屈豔萍的書面辭職報告。屈豔萍因到齡退休辭去公司第五屆董事會執行董事、合規與風險管理委員會委員等職務，其辭任自辭職報告送達公司董事會之日起生效。
+
+---
+
+### 2026-08-10 16:20:19  #公司 #市場
+
+【*ST萃華：多因素疊加致股票存在終止上市風險】*ST萃華公告稱，公司未在2026年4月30日披露2025年年度報告和2026年第一季度報告，股票於5月6日起停牌，7月7日起被實施退市風險警示，若警示之日起兩個月內仍未披露相關報告，將被終止上市。此外，公司已被證監會立案調查，初步查明部分年度財務資訊涉嫌虛假記載，可能觸及重大違法強制退市情形。8月6日，公司收盤總市值為4.82億元，首次低於5億元，也存在被終止上市風險。
+
+---
+
+### 2026-08-10 16:20:03  #MKT News #Important #EURUSD #Impact mixed #DXY #DAX
+
+Euro-area Sentix investor confidence index for August due in 10 minutes.
+
+---
+
+### 2026-08-10 16:20:00  #Trading Economics #Economy #Kazakhstan #Current Account #Importance 1
+
+Kazakhstan Current Account Swings to Surplus in Q2 — Kazakhstan’s current account recorded a surplus of USD 3.0 billion in the second quarter of 2026, shifting from a USD 2.5 billion deficit in the corresponding period of the previous year, preliminary estimates showed. The trade surplus widened to USD 11.0 billion in Q2 2026 from USD 2.9 billion in the same period last year, as exports climbed 38.8%, while imports increased at a softer pace of 2.4%. Meanwhile, the services account deficit narrowed to USD 0.2 billion from USD 0.3 billion. The secondary income account deficit also narrowed to USD 21.6 million from USD 106.1 million. In contrast, the primary income account deficit widened to USD 7.7 billion from USD 5.0 billion.
+
+---
+
+### 2026-08-10 16:19:56  #公司
+
+【招商證券：非執行董事李德林因工作變動原因辭職】招商證券8月10日公告，公司董事會當天收到公司非執行董事李德林遞交的書面辭職報告。因工作變動原因，李德林申請辭去公司第八屆董事會非執行董事及董事會戰略與可持續發展委員會委員、董事會風險管理委員會召集人及委員、董事會薪酬與考核委員會委員職務。李德林的辭任自其辭職報告送達公司董事會時生效。
+
+---
+
+### 2026-08-10 16:19:42  #公司
+
+【快意電梯：控股股東向實控人轉讓7.5%股份完成過戶】快意電梯公告，公司控股股東東莞市快意股權投資有限公司向實際控制人羅愛文女士協議轉讓2525.16萬股（佔公司總股本7.5%）的股份，已於2026年8月7日完成過戶登記手續。本次轉讓價款總額為人民幣3.12億元，轉讓完成後公司控股股東及實際控制人未發生變化。
+
+---
+
+### 2026-08-10 16:19:41  #其他
+
+【飛豬旅行釋出新一代AI產品飛豬幫幫，國慶前將接入淘寶閃購】今日，飛豬旅行正式釋出新一代AI產品飛豬幫幫。據瞭解，透過原生AI能力，此款產品可以“想你所想、真實可達、全程陪伴”，覆蓋機票、酒店、民宿等場景。這也是繼早期的AI“問一問”之後，飛豬面向從OTA到“Omni-Intelligence Travel Agent”的最新探索。據悉，在國慶假期前，飛豬幫幫還會落地更多能力，具體包括：支援多人出遊、一同規劃能力；在使用者授權下監控航班資訊，並在特殊情況下形成合理的替代方案；接入淘寶閃購等生活服務類場景。（新浪科技）
+
+---
+
+### 2026-08-10 16:18:49  #公司 #國際
+
+【日本顯示器千葉工廠收到多份收購報價】日本顯示器公司（JDI）週一表示，已收到多家制造企業以及資料中心運營商的正式收購要約，標的為該公司位於東京東側千葉縣的顯示面板工廠。執行長赤間潤在財報電話會上稱，公司正與潛在合作方開展盡職調查。首席財務官表示，JDI 力爭在明年 3 月前完成工廠出售，以此改善自身財務狀況。至於是否有可能在美國新建一座顯示面板工廠，該事項取決於美日兩國政府的態度。
+
+---
+
+### 2026-08-10 16:18:48  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Zinc #Impact mixed
+
+【LME on- and canceled warrants daily】LME on warrants and canceled warrants: Copper on warrants 89,975 t, down 4,250 t; canceled warrants 128,325 t, down 4,100 t. Aluminum on warrants 244,650 t, unchanged; canceled warrants 10,250 t, down 3,000 t. Zinc on warrants 74,725 t, up 900 t; canceled warrants 22,400 t, down 1,250 t. Nickel on warrants 255,888 t, unchanged; canceled warrants 8,556 t, unchanged. Lead on warrants 361,525 t, unchanged; canceled warrants 60,275 t, down 6,625 t. Tin on warrants 4,785 t, down 20 t; canceled warrants 0 t, down 66 t.
 
 ---
 
@@ -17176,263 +17446,5 @@ Pentagon allocates funding and establishes a timetable for the classified "Golde
 ### 2026-08-08 02:02:45  #其他
 
 市場訊息：五角大樓為機密 “金穹” 太空計劃劃撥預算並制定時間安排。
-
----
-
-### 2026-08-08 02:00:19  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Saudi outlet Alhadath, citing the Israel Broadcasting Corporation, reports Israel has not signed an agreement permitting international stabilization forces to enter the Gaza Strip.
-
----
-
-### 2026-08-08 01:59:42  #其他
-
-福特汽車打算新推四個版本的Mustang四門車型。
-
----
-
-### 2026-08-08 01:59:18  #Trading Economics #Economy #Dominican Republic #Inflation Rate #Importance 1
-
-Dominican Republic Inflation Eases Slightly — The annual inflation rate in the Dominican Republic eased slightly to 5.47% in July 2026 from 5.67% in June. The strongest price pressures were recorded in restaurants and hotels (8.15%), transport (7.95%), food and non-alcoholic beverages (6.75%), education (6.52%), and alcoholic beverages and tobacco (5.1%). In contrast, prices fell for clothing and footwear (-1.29%) and communications (-1.4%). On a monthly basis, consumer prices rose 0.19%, slowing from a 0.51% increase in June. Year-to-date inflation reached 2.21%, while core inflation stood at 4.96% year-on-year.
-
----
-
-### 2026-08-08 01:57:58  #國際
-
-SpaceX ：回收團隊仍在印度洋進行第13次飛行任務的星艦回收工作。 回收團隊正克服惡劣環境與愈發洶湧的海面，嘗試將這艘 52 米長的航天器引導至港口。
-
----
-
-### 2026-08-08 01:56:41  #宏觀 #央行 #國際
-
-【白宮顧問稱特朗普與沃什經常談經濟 總統尊重美聯儲獨立性】白宮國家經濟委員會主任凱文·哈塞特表示，總統唐納德·特朗普與美聯儲主席凱文·沃什經常討論經濟。這位白宮最高經濟顧問週五的表態進一步透露了沃什5月就任美聯儲主席以來與特朗普通話的內容和範圍。哈塞特表示，他並未參與這些通話，但堅稱自己“確信”總統不會就利率決定向這位美聯儲主席施壓。“凱文·沃什和總統長期以來關係非常密切，兩人在紐約和佛羅里達都有來往，他們一直都會討論經濟，”哈塞特接受採訪時表示，“我也會和凱文交流，斯科特·貝森特也會，所以這其實算不上什麼新聞。”哈塞特表示，特朗普“尊重美聯儲的獨立性”。歷任總統和美聯儲主席也曾通話和會面，但並不常見。通常情況下，美聯儲主席與政府之間的主要聯絡人是財政部長，兩人幾乎每週都會共進早餐。美聯儲主席也會定期與國家經濟委員會主任溝通。“事實是，現在美聯儲有一位總統百分之百確信會根據資料作出正確決定、而不會玩黨派政治的人，”哈塞特表示。
-
----
-
-### 2026-08-08 01:56:30  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) recovery team remains in the Indian Ocean conducting recovery operations for Starship's 13th flight.
-
----
-
-### 2026-08-08 01:51:11  #MKT News
-
-Pacific Energy president says Middle Eastern buyers are considering Canadian LNG as an alternative supply source and a hedge against geopolitical turmoil.
-
----
-
-### 2026-08-08 01:49:50  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-【BESSENT: Nonfarm payrolls report underestimates US economic potential】BESSENT wrote on social media that the July nonfarm payrolls report understates the underlying strength of the US economy. He noted goods-producing employment rose for a fifth consecutive month in July and that goods-producing industries have added 105,000 jobs year-to-date, the strongest seven-month start since 2023. He said Q2 productivity growth ran at more than twice expectations, creating conditions for sustained growth and real wage gains, and that strong Q3 growth forecasts point to further acceleration. Higher domestic output and rising productivity, he added, will bolster wages, corporate strength and consumer choice and support expansion driven by supply-side capacity that can help lower inflation rather than rely on temporary stimulus.
-
----
-
-### 2026-08-08 01:48:06  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-US Treasury Secretary Bessent said the US economy is likely to accelerate.
-
----
-
-### 2026-08-08 01:47:53  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-U.S. Treasury Secretary Bessent said today's jobs report underestimated the U.S. economy's underlying strength.
-
----
-
-### 2026-08-08 01:47:16  #國際
-
-美國財長貝森特：經濟具備加速發展的條件。
-
----
-
-### 2026-08-08 01:46:58  #國際
-
-美國財長貝森特：就業資料低估了實體經濟的強勁程度。
-
----
-
-### 2026-08-08 01:44:37  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-ICE: For the week to Aug. 4, speculative traders cut Brent crude net longs by 20,361 contracts to 164,722; diesel speculative net longs rose by 1,163 contracts to 88,357.
-
----
-
-### 2026-08-08 01:44:30  #市場
-
-洲際交易所布倫特原油：截至 8 月 4 日當週，投機者淨多頭頭寸減少 20361 份合約，降至 164722 份。
-
----
-
-### 2026-08-08 01:44:21  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Refinitiv reports the White House sent a letter dated Aug. 5 to Fed governor Cook requesting a written response within 21 days about her statements.
-
----
-
-### 2026-08-08 01:43:28  #央行 #國際
-
-美國白宮 8 月 5 日致美聯儲理事庫克的信函，要求其在 21 日內就自身相關言論提交書面答覆。
-
----
-
-### 2026-08-08 01:43:17  #國際
-
-洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，原糖投機者淨多頭頭寸增加 2752 手，至 55261 手。 飼料小麥投機者淨多頭頭寸增加 281 手，達到 281 手。
-
----
-
-### 2026-08-08 01:41:59  #央行 #國際
-
-美國白宮致美聯儲理事庫克的信件稱，特朗普正考慮解除其美聯儲理事職務。
-
----
-
-### 2026-08-08 01:41:22  #國際
-
-洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，羅布斯塔咖啡投機者將淨多頭頭寸削減 1591 手，至 37968 手。
-
----
-
-### 2026-08-08 01:36:11  #MKT News #Important #WTI #Impact bearish #Brent #DXY
-
-Axios reports a diplomat from the mediation country said Iranian negotiators are awaiting final approval from Iran's Supreme National Security Council for an agreement with Oman and the United States; "we expect to receive this approval soon."
-
----
-
-### 2026-08-08 01:34:32  #國際
-
-據Axios記者：某斡旋國一名外交官向我透露，伊朗談判代表正等待伊朗最高國家安全委員會就伊朗與阿曼、美國達成的協議作出最終批准。該外交官稱：“我們預計很快就能拿到這項批准。”
-
----
-
-### 2026-08-08 01:31:42  #公司
-
-英特爾：任命迪恩·賈納克（Dean Jarnac）為執行副總裁兼首席銷售官。格雷格·恩斯特（Greg Ernst）將在任職27年後離開英特爾。
-
----
-
-### 2026-08-08 01:31:23  #宏觀 #國際
-
-美國財政部：財政部制裁為伊朗伊斯蘭革命衛隊提供資金、助長非法金融活動的加密貨幣交易所。
-
----
-
-### 2026-08-08 01:30:53  #MKT News
-
-Intel (INTC.O) appointed Dean Jarnac as executive vice president and chief sales officer.
-
----
-
-### 2026-08-08 01:30:28  #國際
-
-據俄羅斯國防部通報：過去一日內，俄防空系統在俄聯邦多個地區、黑海以及亞速海上空擊落 75 架烏克蘭無人機。
-
----
-
-### 2026-08-08 01:29:49  #其他
-
-監測資料：地震過後，委內瑞拉拉瓜伊拉港船舶裝卸作業量出現回升。
-
----
-
-### 2026-08-08 01:29:07  #MKT News #Market Regions #Europe & UK
-
-Lebanese official says France has been excluded from the list of countries slated to send troops to oversee Hezbollah's disarmament.
-
----
-
-### 2026-08-08 01:23:37  #MKT News #Important
-
-U.S. Senate passed a comprehensive Russia energy sanctions bill 86-11 and sent it to the House for consideration.
-
----
-
-### 2026-08-08 01:22:49  #國際
-
-美國參議院透過對俄製裁法案。
-
----
-
-### 2026-08-08 01:22:34  #Trading Economics #Markets #Commodity #Importance 0
-
-Palladium Steadies Near 7-Week High — Palladium futures held near $1,370 per ounce, remaining near a seven-week high as weaker-than-expected US jobs data reduced expectations of further Fed tightening, while Middle East tensions capped gains. US nonfarm payrolls unexpectedly declined in July, prompting markets to lower expectations of a near-term Fed rate hike to 43.9% from 57% before the report. However, President Donald Trump stated he believed the war would end soon, while attacks by Iran and Iran-backed Houthi militants continued to fuel concerns over energy supply disruptions and inflation. Meanwhile, US consumers continued to favor hybrid vehicles over battery-electric models in the first half of 2026, supporting demand for palladium used in catalytic converters. However, broader demand remained under pressure as Chinese EV sales rose for a third straight month in July. Nornickel, the world's largest palladium producer, expects a global palladium market surplus in 2026 as rising EV adoption weakens long-term demand.
-
----
-
-### 2026-08-08 01:18:57  #Trading Economics #Markets #Commodity #Importance 0
-
-Platinum Holds Near 7-Week High — Platinum futures held near $1,750 per ounce, hovering around a seven-week high as weaker-than-expected US jobs data reduced expectations of further Federal Reserve tightening, while Middle East tensions capped gains. US nonfarm payrolls unexpectedly declined in July, prompting markets to lower the probability of a near-term Fed rate hike to 43.9% from 57% before the report. However, President Donald Trump stated he believed the war would end soon, while attacks by Iran and Iran-backed Houthi militants continued to fuel concerns over energy supply disruptions and inflation. Meanwhile, South Africa's Valterra Platinum, the world's largest primary platinum producer, reported a sharp rise in interim profit, supported by higher platinum-group metal prices. The company also expects AI-related infrastructure to drive demand higher, while the platinum market is projected to remain in supply deficit for another year.
-
----
-
-### 2026-08-08 01:18:54  #MKT News #BA.O #Impact bearish
-
-【U.S. FAA issues airworthiness directive requiring inspections on certain Boeing jets】The U.S. Federal Aviation Administration on Aug. 6 issued an airworthiness directive covering three Boeing models, estimated to affect 471 U.S.-registered aircraft. The FAA said it received reports of fuselage cracks on some aircraft that could adversely affect structural integrity and is requiring inspections. The directive takes effect Sept. 10.
-
----
-
-### 2026-08-08 01:18:34  #國際
-
-【特朗普稱將就上訴法院涉白宮宴會廳專案裁決提起上訴】當地時間8月7日，美國總統特朗普在社交平臺“真實社交”發文稱，將立即就聯邦上訴法院阻止白宮宴會廳專案的裁決向美國最高法院提出上訴，並稱該裁決“出於政治動機且違法”。特朗普援引聯邦上訴法院法官內奧米·拉奧的反對意見稱，原告美國國家歷史保護信託基金會不具備阻止白宮施工的訴訟資格，地區法院無權介入該專案，且政府在國家安全方面的利益應得到優先考慮。特朗普稱，該專案不僅包括宴會廳，還包括防空洞、醫院及醫療設施、機密軍事設施、防導彈鋼結構、防無人機屋頂、軍用通風系統以及防彈、防爆玻璃等，屬於一個整體性的國家安全和軍事設施專案。他還表示，相關專案由其本人及其他美國私人捐助者出資，不會由納稅人承擔費用，並稱上訴法院裁決將威脅白宮工作人員、未來美國總統及其家屬和到訪外國政要的安全。（央視新聞）
-
----
-
-### 2026-08-08 01:18:25  #MKT News
-
-【Trump says he will immediately appeal appellate court ruling on White House ballroom project to US Supreme Court】On Aug. 7 Trump posted on Truth Social that he will immediately appeal a federal appeals court decision blocking the White House ballroom project to the US Supreme Court, calling the ruling "politically motivated and illegal." He cited Judge Naomi Rao's dissent arguing plaintiff the National Trust for Historic Preservation lacks standing, the district court exceeded its authority, and government national-security interests should take precedence. Trump said the project includes not only a ballroom but also a bunker, hospital and medical facilities, classified military facilities, an anti-missile steel structure, an anti-drone roof, military-grade ventilation systems and bulletproof and blast-resistant glass, and constitutes an integrated national-security/military facility project.
-
----
-
-### 2026-08-08 01:18:11  #國際
-
-【美聯邦航空局釋出適航指令 要求檢查部分波音客機】美國聯邦航空局當地時間8月6日釋出適航指令，適用於三個型號的波音客機，估計影響471架在美國註冊的飛機。美國聯邦航空局表示，此前收到報告稱，部分客機機身出現裂紋，相關問題可能對飛機結構完整性產生不利影響。指令要求對這些飛機進行檢查。該指令將於9月10日生效。（央視新聞）
-
----
-
-### 2026-08-08 01:17:31  #央行 #國際
-
-週五（8月7日），美聯儲隔夜逆回購協議（RRP）使用規模為14.50億美元（交易對手2家），上個交易日報14.29億美元。
-
----
-
-### 2026-08-08 01:17:09  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $1.45 billion from two counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-08 01:16:55  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Hassett says Trump and Fed chair Kevin Warsh regularly discuss the economy】White House National Economic Council director Hassett said on Friday President Trump and Fed chair Kevin Warsh regularly discuss economic issues. Hassett said he does not sit in on those calls but is confident the president would not press Warsh on rate decisions. He said the two have a long-standing, close relationship from New York and Florida and routinely talk about the economy; such regular calls are unusual historically and have prompted concern about presidential influence on Fed policy. Hassett added Trump respects the Fed’s independence.
-
----
-
-### 2026-08-08 01:15:15  #Trading Economics #Economy #United States #Calendar #Importance 2
-
-Week Ahead - Aug 10th — Negotiations between Iran, the US, and GCC states on access to the Strait of Hormuz will continue to set energy prices and interest rate outlooks for the global economy. In the meantime, updates on the AI trade, which is undergoing heightened volatility, will feature earnings from Applied Materials, Cisco, and CoreWeave. The US will publish consumer inflation data as both the FOMC and financial markets are split on the Fed's rate decision next month. The US will also post the PPI, retail sales, and the Michigan Consumer Confidence Index. In Europe, the UK and Switzerland will post Q2 GDP figures, while the Eurozone will publish industrial production data. In Asia, Chinese monetary aggregates will be in focus, while Taiwan's GDP will unveil concrete figures on global chip production. Also, China and India will post inflation rates. For G10 monetary policy, rate decisions are due in Australia and Norway, while the BoJ will post July's Summary of Opinions.
-
----
-
-### 2026-08-08 01:12:33  #MKT News
-
-FITCH affirms Uganda's sovereign rating at 'B'; outlook stable.
-
----
-
-### 2026-08-08 01:10:14  #MKT News
-
-Cook's lawyer said they will challenge the latest pretext and defend Cook's position and duties at the Federal Reserve.
-
----
-
-### 2026-08-08 01:10:05  #央行 #國際
-
-美聯儲理事庫克的律師：不存在罷免庫克理事的正當理由。我們將對最新的藉口提出挑戰，並維護庫克在美聯儲的職位和職責。
-
----
-
-### 2026-08-08 01:09:59  #MKT News
-
-The lawyer for Fed Governor Cook said there is no valid basis to remove him from office.
 
 ---
