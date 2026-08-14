@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-14 12:58:39",
+  "updated": "2026-08-14 13:02:46",
   "count": 15527,
   "items": [
+    {
+      "id": "mkt:019ffea6-0baf-7aab-9035-b7cd2f3fbb2a",
+      "time": "2026-08-14 13:02:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 20-year government bond yield rose 0.5 bps to 3.745%."
+    },
+    {
+      "id": "5040577",
+      "time": "2026-08-14 13:01:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲0.5個基點，至3.745%。"
+    },
+    {
+      "id": "mkt:019ffea5-f6c8-7aab-9035-a936486e3614",
+      "time": "2026-08-14 13:01:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Philippine president said it is difficult to make a decision now and it is too early to say whether he will back any candidate."
+    },
+    {
+      "id": "mkt:019ffea5-bef7-7aab-9035-a7b5f4656e5d",
+      "time": "2026-08-14 13:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine president says he has not yet discussed the 2028 election with anyone."
+    },
+    {
+      "id": "5040576",
+      "time": "2026-08-14 13:01:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統馬科斯：我們一定會在2028年推選出最合適的候選人。"
+    },
+    {
+      "id": "mkt:019ffea5-44a6-7aab-9035-9f6fc6fba80b",
+      "time": "2026-08-14 13:01:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02618.HK",
+        "09618.HK"
+      ],
+      "text": "Hang Seng Index extended afternoon losses, down more than 1%, led by JD Logistics (02618.HK) and JD.com (09618.HK)."
+    },
+    {
+      "id": "5040575",
+      "time": "2026-08-14 13:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25138.529點；恒生科技指數現跌1.865%。"
+    },
+    {
+      "id": "5040574",
+      "time": "2026-08-14 13:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼269名學生集體食物中毒】據印度尼西亞媒體14日報道，該國北蘇門答臘省卡羅縣13日發生集體食物中毒事件，5所中學的至少269名學生出現中毒症狀並被送醫治療。當地教育部門負責人對媒體表示，一些學生在13日午餐後陸續出現中毒症狀，截至13日晚，已有269名學生被送醫接受治療。目前，所有送醫學生情況穩定，暫無死亡報告。（新華社）"
+    },
+    {
+      "id": "5040573",
+      "time": "2026-08-14 12:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統馬科斯：將在2028年總統選舉中公開支援候選人。"
+    },
+    {
+      "id": "5040572",
+      "time": "2026-08-14 12:59:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東：七鮮咖啡首家24小時智慧化無人咖啡店將落地北京】8月16日，京東集團旗下現制飲品品牌七鮮咖啡首家24小時智慧化無人咖啡店將正式開業，落地北京市朝陽區銀河SOHO。該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。                                （ 介面新聞 ）"
+    },
+    {
+      "id": "mkt:019ffea3-3576-7aab-9035-93e34115384f",
+      "time": "2026-08-14 12:58:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk: Try Grok 4.6's image and video understanding capabilities; this is a major upgrade."
+    },
+    {
+      "id": "5040571",
+      "time": "2026-08-14 12:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾擎機器人等成立科技公司 含智慧無人飛行器製造業務】企查查APP顯示，近日，上海星意擎坤科技有限公司成立，法定代表人為呂學敏，註冊資本為6120萬元，經營範圍包含人工智慧基礎軟體開發；智慧機器人的研發；智慧機器人銷售；工業機器人銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司、上海傲意資訊科技有限公司等共同持股。"
+    },
     {
       "id": "5040570",
       "time": "2026-08-14 12:57:53",
@@ -141996,124 +142107,6 @@
         "Impact bullish"
       ],
       "text": "China's Ministry of Industry and Information Technology published the 89th batch of its Directory of energy-saving new-energy vehicle models eligible for vehicle and vessel tax reductions/exemptions, adding models including BYD Fangchengbao Titanium 9 and SERES Wenjie M8."
-    },
-    {
-      "id": "5030060",
-      "time": "2026-08-07 13:01:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東佛山：已叫停季華中學教師招聘工作，開展全面核查】8月7日，廣東佛山市教育局釋出情況通報：針對網傳佛山市季華中學教師招聘有關情況，佛山市教育局已叫停學校招聘工作，成立專門調查組，開展全面核查，調查情況將向社會通報。感謝廣大網民的監督，我們將依法依規處置，努力營造公平公正的選人用人環境。"
-    },
-    {
-      "id": "mkt:019fda98-bfcf-7aab-8faf-d98e7b9ecb98",
-      "time": "2026-08-07 13:01:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's June coincident index (preliminary) 118.2, versus 118.1 expected and 117.9 prior."
-    },
-    {
-      "id": "mkt:019fda98-a43c-7aab-8faf-d19607914643",
-      "time": "2026-08-07 13:01:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan June leading economic index (preliminary) 116.4, vs 116.5 expected and 116.5 prior."
-    },
-    {
-      "id": "mkt:019fda98-9a49-7aab-8faf-cb5accf98f1f",
-      "time": "2026-08-07 13:01:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Coincident Index Flash (Jun) | actual 118.2 | consensus 118.1 | previous 117.9"
-    },
-    {
-      "id": "mkt:019fda98-878d-7aab-8faf-c257d47b767e",
-      "time": "2026-08-07 13:00:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Leading Index Flash (Jun) | actual 116.4 | consensus 116.5 | previous 116.5"
-    },
-    {
-      "id": "5030059",
-      "time": "2026-08-07 13:00:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
-    },
-    {
-      "id": "5030058",
-      "time": "2026-08-07 13:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "安聯保險仍然預測全年營業利潤164億歐元至184億歐元。"
-    },
-    {
-      "id": "5030057",
-      "time": "2026-08-07 13:00:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "安聯保險第二季度營收456億歐元。安聯保險第二季度營業利潤48.7億歐元，預估45.8億歐元。"
-    },
-    {
-      "id": "mkt:019fda97-c7e9-7aab-8faf-be1e555b8dfe",
-      "time": "2026-08-07 13:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan preliminary June leading index MoM 0.0% (prev 0.4%)."
-    },
-    {
-      "id": "mkt:019fda97-c70c-7aab-8faf-b0c14b5750d7",
-      "time": "2026-08-07 13:00:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan coincident index preliminary m/m +0.3% in June; prior -0.2%."
-    },
-    {
-      "id": "mkt:019fda97-aaff-7aab-8faf-a4ab4a1559e2",
-      "time": "2026-08-07 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Coincident Index Flash (MoM) (Jun) | actual 0.3% | previous -0.2%"
-    },
-    {
-      "id": "mkt:019fda97-ab09-7aab-8faf-abdcb14e0735",
-      "time": "2026-08-07 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Leading Index Flash (MoM) (Jun) | actual 0% | previous 0.4%"
     }
   ]
 }
