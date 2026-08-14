@@ -1,7 +1,60 @@
 {
   "date": "2026-08-14",
-  "count": 2644,
+  "count": 2650,
   "items": [
+    {
+      "id": "mkt:01a0008e-fbcd-7aab-9040-21da43a84efc",
+      "time": "2026-08-14 21:56:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Consumer Financial Protection Bureau (CFPB) will stop publishing unverified consumer complaint narratives."
+    },
+    {
+      "id": "mkt:01a0008e-bd62-7aab-9040-1c0e35e4884e",
+      "time": "2026-08-14 21:55:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Gates in talks with SK and HD Hyundai on SMRs, targeting AI power demand】Bill Gates, founder of TerraPower, held meetings on the 14th with SK Group and HD Hyundai leaders to discuss cooperation on small modular reactors (SMRs) and power supply for AI data centers. In talks with SK’s chairman he focused on addressing rising electricity demand from AI data centers, next‑generation nuclear industry development and potential U.S.-Korea nuclear cooperation. SK and SK Innovation jointly invested $250m in TerraPower in 2022 and are TerraPower’s second-largest shareholders; SK Innovation on the same day signed a cooperation deal with TerraPower on a sodium‑cooled SMR. Gates also met HD Hyundai’s chairman and the CEO of Hyundai Engineering to review progress on previously signed commercial agreements; in May the three firms agreed to jointly commercialize sodium‑cooled SMRs and establish a division of labor."
+    },
+    {
+      "id": "5041690",
+      "time": "2026-08-14 21:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代獨供澳大利亞國家電力市場規模最大的在運電池儲能專案，三期採用天恆儲能系統】寧德時代8月14日釋出訊息，近日，由Quinbrook開發的澳大利亞Supernode儲能專案二期正式投入商業運營，三期4.69億澳元融資同步完成交割。至此，專案一、二期（520MW/1858MWh）已全面商業化運營。三期建成後，總儲能規模將突破3GWh，成為澳大利亞國家電力市場（NEM）規模最大的在運電池儲能專案。"
+    },
+    {
+      "id": "5041689",
+      "time": "2026-08-14 21:55:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【盛弘股份：充換電業務近年來保持穩定增長 海外市場是業務持續拓展的重要增長曲線之一】盛弘股份8月14日接受機構調研時表示，公司充換電業務近年來保持穩定增長，海外市場是業務持續拓展的重要增長曲線之一。目前公司已在歐洲、東南亞等區域形成一定市場積累，產品已陸續透過多地區的認證，為進入更多海外市場打下基礎。公司會積極拓展其他新興市場，並在部分海外重點市場設立子公司及本地服務團隊，提升產品本地化適配能力和售後響應速度。隨著新能源車出口資料的不斷提升，海外新能源車的存量不斷提升，對充電基礎設施的需求也日益增長。伴隨著海外相關政策和補貼的持續落地，公司會圍繞海外客戶需求加快推出適配產品，穩步擴大海外市場覆蓋範圍和業務規模。"
+    },
+    {
+      "id": "5041688",
+      "time": "2026-08-14 21:55:08",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金： 本輪迴調的本質，是AI產業趨勢、美元流動性和中國經濟這三大變數由推動轉為約束 】中金公司釋出研報稱，7月以來AI產業鏈引領全球股市回撥，市場對牛市的分歧加大。2026年上半年全球股票市場強勁上漲，但7月以來AI產業鏈引領全球股市共振回撥，市場對於牛市持續性的質疑聲音明顯增多。我們認為本輪迴調的本質，是AI產業趨勢、美元流動性和中國經濟這三大變數，從此前相對積極的“三重支撐”階段性變為不利於市場的“三重約束”，市場開始重新檢驗此前的樂觀假設。本篇報告我們將重點解析“三重約束”未來的演變方向，以及對於市場的展望，並提出當下在市場驗證期的應對策略。"
+    },
+    {
+      "id": "5041687",
+      "time": "2026-08-14 21:53:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國債跌幅擴大，10年期國債收益率上升5個基點至3.18%。"
+    },
     {
       "id": "5041684",
       "time": "2026-08-14 21:52:21",
