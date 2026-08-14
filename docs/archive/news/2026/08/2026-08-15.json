@@ -1,7 +1,45 @@
 {
   "date": "2026-08-15",
-  "count": 165,
+  "count": 169,
   "items": [
+    {
+      "id": "mkt:01a001a4-5344-7aab-9044-996c6a58abe6",
+      "time": "2026-08-15 02:59:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $88.52/bbl, up $1.45, or 1.67%."
+    },
+    {
+      "id": "mkt:01a001a4-2a4d-7aab-9044-97667856f995",
+      "time": "2026-08-15 02:58:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources say U.S. President Trump is expected to attend a meeting on prediction markets."
+    },
+    {
+      "id": "5041899",
+      "time": "2026-08-15 02:57:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：COINBASE、A16Z、KALSHI等公司將參加在白宮舉行的會議。"
+    },
+    {
+      "id": "5041898",
+      "time": "2026-08-15 02:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普預計將參加預測市場相關會議。"
+    },
     {
       "id": "5041897",
       "time": "2026-08-15 02:53:00",

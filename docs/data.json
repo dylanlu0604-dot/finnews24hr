@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-15 02:56:07",
-  "count": 15324,
+  "updated": "2026-08-15 02:59:54",
+  "count": 15323,
   "items": [
+    {
+      "id": "mkt:01a001a4-5344-7aab-9044-996c6a58abe6",
+      "time": "2026-08-15 02:59:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $88.52/bbl, up $1.45, or 1.67%."
+    },
+    {
+      "id": "mkt:01a001a4-2a4d-7aab-9044-97667856f995",
+      "time": "2026-08-15 02:58:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources say U.S. President Trump is expected to attend a meeting on prediction markets."
+    },
+    {
+      "id": "5041899",
+      "time": "2026-08-15 02:57:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：COINBASE、A16Z、KALSHI等公司將參加在白宮舉行的會議。"
+    },
+    {
+      "id": "5041898",
+      "time": "2026-08-15 02:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普預計將參加預測市場相關會議。"
+    },
     {
       "id": "5041897",
       "time": "2026-08-15 02:53:00",
@@ -140192,47 +140230,6 @@
         "國際"
       ],
       "text": "以色列國防軍發言人：以色列國防軍基於客觀考量與局勢評估向公眾釋出資訊。經評估若相關資訊會對我方在作戰區域執行任務的部隊造成損害，以色列國防軍發言人將不予披露。"
-    },
-    {
-      "id": "mkt:019fdd98-99d9-7aab-8fc0-8d6fcb7df616",
-      "time": "2026-08-08 02:59:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Democratic Senator Warren said she will oppose Trump's attempt to remove Federal Reserve governor Cook."
-    },
-    {
-      "id": "5031503",
-      "time": "2026-08-08 02:59:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希其揚：伊朗無意將鄰國作為打擊目標，但被用來發起針對伊朗襲擊的地點本身或將成為打擊物件。"
-    },
-    {
-      "id": "mkt:019fdd97-6013-7aab-8fc0-853913ea7821",
-      "time": "2026-08-08 02:58:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IDF spokesman said the military will release information to the public based on objective assessments and will not disclose information that, in its view, could endanger forces operating in the theater."
-    },
-    {
-      "id": "5031502",
-      "time": "2026-08-08 02:58:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希其揚：在與法國為阻止快速恢復制裁機制而開展的談判中，我們曾達成共識，但遭到美國阻撓。歐洲沒有作出獨立決策的許可權。"
-    },
-    {
-      "id": "5031501",
-      "time": "2026-08-08 02:57:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國參議員沃倫：將反對特朗普罷免美聯儲理事庫克的企圖。"
     }
   ]
 }
