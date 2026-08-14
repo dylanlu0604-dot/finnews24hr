@@ -1,7 +1,87 @@
 {
   "date": "2026-08-15",
-  "count": 242,
+  "count": 250,
   "items": [
+    {
+      "id": "te:markets:575534",
+      "time": "2026-08-15 04:05:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall on Signs of Economic Cooling — US stock indices closed lower on Friday as macroeconomic headwinds weighed. The S&P 500 eased 0.2% from its record high, while the Dow shed 108 points and the Nasdaq 100 fell 0.1%. The University of Michigan’s preliminary August sentiment index fell to 51, below forecasts of 55. Meanwhile, retail sales dropped in July by the most in over a year. The data, alongside weak jobs figures and soft inflation, suggested that the economy is showing signs of cooling. A slowdown in consumer spending could weigh on corporate profits and the stock market. Hyperscalers, including Meta (-0.9%), Oracle (-3.8%) and Amazon (-0.9%), posted losses. Heavyweight chipmakers closed mixed, with Broadcom down 5.9%, Intel losing 2%, and Nvidia edging lower, while AMD (+6.5%) and memory producers extended their strong gains from earlier in the week. Micron added 2.3% on bullish recommendations from analysts and brokers, while Sandisk jumped 7.4% following its 14% surge on Thursday."
+    },
+    {
+      "id": "mkt:01a001e0-5edf-7aab-9045-95974c79d75a",
+      "time": "2026-08-15 04:04:36",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "This week the S&P 500 rose 0.4%, the Dow Jones Industrial Average fell 0.6%, and the Nasdaq Composite rose 0.1%."
+    },
+    {
+      "id": "mkt:01a001e0-01ec-7aab-9045-8b8d5e2c4e8e",
+      "time": "2026-08-15 04:04:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch affirms Brazil's Rio de Janeiro state rating at 'BB'; outlook stable."
+    },
+    {
+      "id": "mkt:01a001df-f462-7aab-9045-8042ac1d76ca",
+      "time": "2026-08-15 04:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. banking regulators have conditionally approved a bank charter for World Liberty Trust Co., an entity affiliated with the Trump family, according to a letter."
+    },
+    {
+      "id": "5041950",
+      "time": "2026-08-15 04:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普聲稱將宣佈霍爾木茲海峽為“美國領土”】美國總統特朗普14日在白宮發表講話談及伊朗問題時，宣稱“很快就會宣佈霍爾木茲海峽成為美國的領土”。（新華社）"
+    },
+    {
+      "id": "5041949",
+      "time": "2026-08-15 04:03:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週，標普500指數上漲0.4%，道指下跌0.6%，納斯達克指數上漲0.1%。"
+    },
+    {
+      "id": "mkt:01a001df-8faa-7aab-9045-7a66331d5b99",
+      "time": "2026-08-15 04:03:43",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "On Friday, Aug. 14, U.S. equities closed lower: the Dow Jones Industrial Average fell 107.46 points (0.20%) to 53,732.53; the S&P 500 fell 13.30 points (0.17%) to 7,785.69; the Nasdaq Composite fell 73.86 points (0.28%) to 26,729.16."
+    },
+    {
+      "id": "mkt:01a001de-e8a4-7aab-9045-74bc582ccf74",
+      "time": "2026-08-15 04:03:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AVGO.O",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【US close: major indices lower; Broadcom down nearly 6%】US stocks posted a preliminary close lower on Friday: Dow Jones -0.20%, S&P 500 -0.17%, Nasdaq -0.28%. Drone-tech Unusual Machines (UMAC.N) jumped 24.83%. Storage names extended gains: SanDisk (SNDK.O) +7.39%, Micron Technology (MU.O) +2.3%. Semiconductors were mixed: AMD (AMD.O) +6.5%, Broadcom (AVGO.O) -5.94%, Applied Materials (AMAT.O) -5.12%. The Nasdaq Golden Dragon China Index rose 0.6%."
+    },
     {
       "id": "5041948",
       "time": "2026-08-15 04:01:53",
