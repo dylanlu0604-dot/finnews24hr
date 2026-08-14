@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15 04:47:19",
+  "updated": "2026-08-15 04:51:13",
   "count": 15282,
   "items": [
+    {
+      "id": "5041986",
+      "time": "2026-08-15 04:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧拉：巴西將在大選後決定是否接受美駐巴大使提名】巴西總統盧拉14日表示，巴西政府將在今年10月大選結束後，再決定是否認可美國總統特朗普提名的丹尼爾·佩雷斯作為美駐巴西大使人選。盧拉當天在接受巴西媒體採訪時批評美國政府試圖干涉巴西內政。他說，美國在巴西舉行總統選舉前45天突然提出大使任命，而此前一年多該職位一直空缺。盧拉認為美方此舉具有干涉選舉的意圖。（新華社）"
+    },
+    {
+      "id": "te:markets:575542",
+      "time": "2026-08-15 04:47:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Extends Seven-Month Low — The Ibovespa shed 0.1% to close at 166,934 on Friday, extending its seven-month low. Oil and gas prices gained as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares as bond yields moved higher. Bradesco lost 0.7%, Itaúsa shed 0.4% and B3 fell 0.6%, while Itaú (+1.8%) and Banco do Brasil (+0.9%) bucked the trend. Utilities also traded lower, with Sabesp down over 2% and CPFL losing over 4.5% after reporting earnings, as growth in its industrial sector was modest and net debt rose 19.2%. Renner shed 2.6% after UBS BB abandoned its buy recommendation and cut its price target. Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Vale (-0.8%), Ambev (-1.1%) and Rede D’Or (-2.5%) also weighed on the index. On the upside, Petrobras rose 0.4% on higher oil prices, while Embraer added 2.4% after JPMorgan raised its price target."
+    },
     {
       "id": "mkt:01a00207-1abe-7aab-9045-f2dde5d10880",
       "time": "2026-08-15 04:46:55",
@@ -139856,23 +139876,6 @@
         "國際"
       ],
       "text": "摩根大通不動產專屬基金：美國證券交易委員會檔案顯示，該基金已提交S類、A類、I類股份發行申請，發行規模未披露。"
-    },
-    {
-      "id": "5031634",
-      "time": "2026-08-08 04:49:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【8月8日美股成交額前20：SpaceX將自建發電廠保障電力供應】週五美股成交額第1名SpaceX收高15.83%，成交300.16億美元。據報道，SpaceX計劃建設自己的發電設施，為其與特斯拉在美國得州共同開發的大型半導體制造工廠提供電力支援。本週早些時候，SpaceX負責能源和資料中心開發業務的Riley Trettel在得州格萊姆斯縣（Grimes County）的一場公開會議上表示：“我們將自行供電。我們會建設燃氣發電廠，同時也會建設規模非常龐大的電池陣列，用於儲存能源。我們幾乎會立即啟動這個專案。我們需要開始進行土建工作，需要著手建設基礎設施和地基，我們會馬上推進。”這一表態為馬斯克旗下兩大公司正在推進的新工廠計劃提供了更多細節，該專案名為“Terafab”。"
-    },
-    {
-      "id": "5031633",
-      "time": "2026-08-08 04:49:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱：美國聯邦檢察官珍妮娜·皮羅應重新考慮她倉促作出的決定。"
     }
   ]
 }
