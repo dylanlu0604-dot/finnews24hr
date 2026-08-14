@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-14 13:41:31",
-  "count": 15506,
+  "updated": "2026-08-14 13:45:24",
+  "count": 15515,
   "items": [
+    {
+      "id": "5040617",
+      "time": "2026-08-14 13:44:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【臺灣多個黨派團體集會反對日本右翼擴軍與干涉臺灣問題】臺灣多個黨派團體14日在臺北舉行“反對日本軍國主義復辟”共同行動，嚴正反對日本右翼擴軍與干涉臺灣問題，絕不容許軍國主義復辟。集會活動在“日本臺灣交流協會”臺北事務所門前進行。活動發表宣告表示，臺灣問題純屬中國內政，絕不容許昔日侵略者說三道四。歷史不應遺忘，強烈譴責日本軍國主義死灰復燃，堅決反對日本右翼勾結“臺獨”分裂勢力。 (央視新聞)"
+    },
+    {
+      "id": "5040616",
+      "time": "2026-08-14 13:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱其襲擊了兩艘為向烏克蘭運送武器的船隻護航的船隻。"
+    },
+    {
+      "id": "mkt:019ffecc-629c-7aab-9036-436250608032",
+      "time": "2026-08-14 13:43:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish",
+        "02577.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks recovered in the afternoon. Semiconductor Manufacturing International Corp. (SMIC, 00981.HK) extended gains, up more than 6%; 02577.HK rose over 3%, while 02676.HK and GigaDevice Semiconductor (03986.HK) also advanced."
+    },
+    {
+      "id": "mkt:019ffecc-38d5-7aab-9036-3b3f65c0660a",
+      "time": "2026-08-14 13:43:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Interfax reported the Russian defence ministry said it struck a rail station inside Ukraine's Izmail port that was being used to transport military supplies."
+    },
+    {
+      "id": "5040615",
+      "time": "2026-08-14 13:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱其襲擊了烏克蘭伊茲梅爾港的火車站，該港口用於軍事貨物運輸。"
+    },
+    {
+      "id": "5040614",
+      "time": "2026-08-14 13:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "B. RILEY將應用材料目標價從790美元下調至700美元。"
+    },
+    {
+      "id": "mkt:019ffeca-39fe-7aab-9036-3714c8732665",
+      "time": "2026-08-14 13:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 5-year government bond yield rose 1 bp to 2.130%."
+    },
+    {
+      "id": "mkt:019ffeca-2175-7aab-9036-2b26c1c55954",
+      "time": "2026-08-14 13:41:27",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY slid more than 10 pips intraday to 159.24."
+    },
+    {
+      "id": "mkt:019ffec9-e078-7aab-9036-21131d0ae729",
+      "time": "2026-08-14 13:41:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhipu (02513.HK) releases GLM-5.3, flags coding and long‑horizon gains】Zhipu (02513.HK) said it released GLM-5.3 today, using the same base model as GLM-5.2 and attributing all performance gains to post‑training optimization. The company said GLM-5.3 improves performance on complex coding and long‑horizon tasks, delivering a 50% uplift versus GLM-5.2 on its internal Z.ai code benchmark. Zhipu called GLM-5.3 the most capable open‑source weight model and said network‑capability gains during scaled post‑training deployment exceeded expectations. On the CyberGym platform, GLM-5.3 led vulnerability discovery tests, with improvements concentrated in later stages of exploit chains and more than double the exploitation‑benchmark performance of GLM-5.2. Pending security evaluation and hardening, Zhipu plans to publish the model weights two weeks after release."
+    },
+    {
+      "id": "5040613",
+      "time": "2026-08-14 13:41:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲1個基點，至2.130%。"
+    },
+    {
+      "id": "5040612",
+      "time": "2026-08-14 13:40:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【訊息人士稱日本央行考慮9月加息，並加快緊縮步伐】據三位知情人士透露，日本央行最早可能在9月份加息，並考慮在此之後以比目前每年約兩次的頻率更積極的方式加息。此舉反映出日本央行對中東衝突帶來的價格壓力、強勁的全球人工智慧需求以及日元持續下跌趨勢日益增長的擔憂。儘管上個月日美罕見地聯合干預，日元的下跌趨勢依然持續。其中一位訊息人士表示：“提前加息已成定局”，這表明日本央行極有可能在9月17日至18日的下次政策會議上加息。另一位訊息人士也表達了類似的觀點，該訊息人士還表示：“日本央行也可能加快加息步伐。”"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608143841626094",
+      "time": "2026-08-14 13:40:55",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【訊息人士稱日本央行最早將於9月加息】訊息人士稱，日本央行最早將於9月加息，並考慮此後加快加息步伐。"
+    },
     {
       "id": "mkt:019ffec9-6189-7aab-9036-1d61ed5491bd",
       "time": "2026-08-14 13:40:38",
@@ -141883,31 +142000,6 @@
         "公司"
       ],
       "text": "【市北高新、東方證券等成立私募投資基金】企查查APP顯示，近日，上海東證新靜界私募投資基金合夥企業（有限合夥）成立，出資額5200萬元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由市北高新(600604)、東方證券(600958)全資子公司上海東方證券資本投資有限公司等共同持股。"
-    },
-    {
-      "id": "5030112",
-      "time": "2026-08-07 13:45:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國交易所將推出ETF盤後交易業務】據報道，儘管業內對近期槓桿類產品波動存在擔憂，韓國交易所仍將於9月14日正式開啟交易所交易基金（ETF）盤後交易。韓國交易所意在與另類交易系統Nextrade以及全天候加密貨幣交易所展開競爭。資管機構警示，缺少實時基金淨值估算，可能會擴大ETF的價格偏離幅度；行業此前已呼籲韓國交易所推遲該業務上線。個股槓桿型ETF將不納入盤後交易的交易標的範圍。"
-    },
-    {
-      "id": "5030111",
-      "time": "2026-08-07 13:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國第二季度失業率升至2020年底以來最高水平】法國失業率持續攀升，觸及近六年來最高水平。法國國家統計機構Insee公佈的資料顯示，第二季度失業率為8.3%，高於前一季度的8.1%。這一數字也高於經濟學家預估中值8.2%。"
-    },
-    {
-      "id": "mkt:019fdabe-72f0-7aab-8fb0-75e15ae1ba65",
-      "time": "2026-08-07 13:42:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot silver rose $1 intraday to $62.53/oz, up 1.64%."
     }
   ]
 }
