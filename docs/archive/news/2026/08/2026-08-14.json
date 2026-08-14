@@ -1,7 +1,75 @@
 {
   "date": "2026-08-14",
-  "count": 988,
+  "count": 995,
   "items": [
+    {
+      "id": "mkt:019ffe55-76dc-7aab-9034-809bfd3f8b55",
+      "time": "2026-08-14 11:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Policies fail to cool hot property market; South Korea's Lee approval hits record low】South Korea's Lee's approval rating fell to a record low of 44% in a Gallup Korea poll released Friday, down 7 percentage points from July, reflecting growing public discontent with housing policy that has not cooled an overheated property market. Support among voters in their 20s dropped to 30%. The ruling Democratic Party's support slipped 3 points to 41%, while the main opposition People Power Party rose to 25% from 23%. Proposed property tax reforms have also raised market concern."
+    },
+    {
+      "id": "5040484",
+      "time": "2026-08-14 11:33:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鑫科技旗下公司近期接連增資】據媒體報道，截至8月13日收盤，長鑫科技市值已超越騰訊控股。8月14日早盤，長鑫科技市值約等於工商銀行和中國平安的市值。 天眼查App顯示，長鑫科技集團股份有限公司成立於2016年6月，法定代表人為趙綸，註冊資本約601.93億人民幣，經營範圍包括積體電路設計、製造、加工等。值得一提的是，近期，該公司旗下長鑫儲存技術有限公司、長鑫芯聚股權投資（安徽）有限公司均發生增資。"
+    },
+    {
+      "id": "mkt:019ffe53-8f19-7aab-9034-7b86d81b3b22",
+      "time": "2026-08-14 11:31:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning close】2-year bond futures (TS) main contract unchanged; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) down 0.05% at the morning session close."
+    },
+    {
+      "id": "mkt:019ffe53-6154-7aab-9034-77fe7a6b101b",
+      "time": "2026-08-14 11:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the morning close, China's main futures contracts were mostly higher. Rapeseed oil and lithium carbonate rose over 2%. Industrial silicon, Soybean No.1, low‑sulfur fuel oil (LU), fuel oil, live hogs, synthetic rubber, polysilicon and coking coal gained more than 1%. On the downside, palladium fell over 3%; SHFE silver and platinum dropped more than 2%; stainless steel (SS) and SHFE gold declined about 2%."
+    },
+    {
+      "id": "5040483",
+      "time": "2026-08-14 11:31:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【午評：滬指衝高回落跌0.21%，電子化學品、CPO、非金屬材料板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.21%，深證成指漲0.08%，創業板指漲0.65%，北證50跌0.84%，科創50指數跌0.57%。全市場成交額13964億元，較上日縮量2034億元，全市場超3400只個股下跌。板塊題材上，電子化學品、非金屬材料、CPO、光纖概念、元件板塊漲幅居前；影視院線、電力、文化傳媒、遊戲、乳業板塊跌幅居前。盤面上，電子化學品高開高走，中石科技20cm漲停，思泉新材、海星股份、龍辰科技、廣鋼氣體、中巨芯漲幅居前。CPO板塊表現活躍，阿萊德、共進股份、天洋新材漲停，金戈新材、富信科技、麥捷科技漲幅居前。稀土永磁板塊衝高回落，金田股份漲停，中國稀土、華宏科技、三祥新材漲幅居前。影視院線板塊震盪走低，中廣天擇、儒意電影、華智數媒跌幅居前。電力板塊大幅下挫，梅雁吉祥、華銀電力盤中一度逼近跌停，京能電力、粵電力A、豫能控股均大幅下跌。"
+    },
+    {
+      "id": "5040482",
+      "time": "2026-08-14 11:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家能源局釋出2026年上半年光伏發電建設情況。"
+    },
+    {
+      "id": "mkt:019ffe53-29a3-7aab-9034-6dce033dc660",
+      "time": "2026-08-14 11:31:30",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Index futures morning session close】Chinese equity index futures morning session close: CSI 300 (IF) front contract fell 0.49%; SSE 50 (IH) fell 0.66%; CSI 500 (IC) fell 0.62%; CSI 1000 (IM) fell 0.22%."
+    },
     {
       "id": "5040481",
       "time": "2026-08-14 11:30:04",

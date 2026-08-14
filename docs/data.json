@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-14 11:31:02",
-  "count": 15487,
+  "updated": "2026-08-14 11:34:52",
+  "count": 15488,
   "items": [
+    {
+      "id": "mkt:019ffe55-76dc-7aab-9034-809bfd3f8b55",
+      "time": "2026-08-14 11:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Policies fail to cool hot property market; South Korea's Lee approval hits record low】South Korea's Lee's approval rating fell to a record low of 44% in a Gallup Korea poll released Friday, down 7 percentage points from July, reflecting growing public discontent with housing policy that has not cooled an overheated property market. Support among voters in their 20s dropped to 30%. The ruling Democratic Party's support slipped 3 points to 41%, while the main opposition People Power Party rose to 25% from 23%. Proposed property tax reforms have also raised market concern."
+    },
+    {
+      "id": "5040484",
+      "time": "2026-08-14 11:33:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鑫科技旗下公司近期接連增資】據媒體報道，截至8月13日收盤，長鑫科技市值已超越騰訊控股。8月14日早盤，長鑫科技市值約等於工商銀行和中國平安的市值。 天眼查App顯示，長鑫科技集團股份有限公司成立於2016年6月，法定代表人為趙綸，註冊資本約601.93億人民幣，經營範圍包括積體電路設計、製造、加工等。值得一提的是，近期，該公司旗下長鑫儲存技術有限公司、長鑫芯聚股權投資（安徽）有限公司均發生增資。"
+    },
+    {
+      "id": "mkt:019ffe53-8f19-7aab-9034-7b86d81b3b22",
+      "time": "2026-08-14 11:31:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning close】2-year bond futures (TS) main contract unchanged; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) down 0.05% at the morning session close."
+    },
+    {
+      "id": "mkt:019ffe53-6154-7aab-9034-77fe7a6b101b",
+      "time": "2026-08-14 11:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the morning close, China's main futures contracts were mostly higher. Rapeseed oil and lithium carbonate rose over 2%. Industrial silicon, Soybean No.1, low‑sulfur fuel oil (LU), fuel oil, live hogs, synthetic rubber, polysilicon and coking coal gained more than 1%. On the downside, palladium fell over 3%; SHFE silver and platinum dropped more than 2%; stainless steel (SS) and SHFE gold declined about 2%."
+    },
+    {
+      "id": "5040483",
+      "time": "2026-08-14 11:31:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【午評：滬指衝高回落跌0.21%，電子化學品、CPO、非金屬材料板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.21%，深證成指漲0.08%，創業板指漲0.65%，北證50跌0.84%，科創50指數跌0.57%。全市場成交額13964億元，較上日縮量2034億元，全市場超3400只個股下跌。板塊題材上，電子化學品、非金屬材料、CPO、光纖概念、元件板塊漲幅居前；影視院線、電力、文化傳媒、遊戲、乳業板塊跌幅居前。盤面上，電子化學品高開高走，中石科技20cm漲停，思泉新材、海星股份、龍辰科技、廣鋼氣體、中巨芯漲幅居前。CPO板塊表現活躍，阿萊德、共進股份、天洋新材漲停，金戈新材、富信科技、麥捷科技漲幅居前。稀土永磁板塊衝高回落，金田股份漲停，中國稀土、華宏科技、三祥新材漲幅居前。影視院線板塊震盪走低，中廣天擇、儒意電影、華智數媒跌幅居前。電力板塊大幅下挫，梅雁吉祥、華銀電力盤中一度逼近跌停，京能電力、粵電力A、豫能控股均大幅下跌。"
+    },
+    {
+      "id": "5040482",
+      "time": "2026-08-14 11:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家能源局釋出2026年上半年光伏發電建設情況。"
+    },
+    {
+      "id": "mkt:019ffe53-29a3-7aab-9034-6dce033dc660",
+      "time": "2026-08-14 11:31:30",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Index futures morning session close】Chinese equity index futures morning session close: CSI 300 (IF) front contract fell 0.49%; SSE 50 (IH) fell 0.66%; CSI 500 (IC) fell 0.62%; CSI 1000 (IM) fell 0.22%."
+    },
     {
       "id": "5040481",
       "time": "2026-08-14 11:30:04",
@@ -141684,67 +141752,6 @@
         "國際"
       ],
       "text": "【泰國校園槍擊事件造成至少4人受傷】據泰國媒體7日報道，泰國暖武裡府一所學校當天發生槍擊事件，造成至少4人受傷，初步調查顯示槍手為學生。（新華社）"
-    },
-    {
-      "id": "5029993",
-      "time": "2026-08-07 11:32:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局：加大關鍵電力裝備自主研發 推動電力晶片、特高壓組部件等關鍵技術突破】國家能源局印發《電力安全生產“十五五”行動計劃》，其中提出，加強“人工智慧+”安全治理，創新裝置高精度故障預測及健康管理方法，推動人工智慧技術嵌入智慧安全工器具，研究基於人工智慧大模型的電力安全生產輔助決策技術。加大關鍵電力裝備自主研發，加強新型防護材料研發，設立電力裝備核心部件技術攻關專項計劃，推動電力晶片、特高壓組部件等關鍵技術突破。推動電力建設工程安全質量管控技術創新，研究建設電力建設工程智慧化監管體系，運用人工智慧、大資料等手段加強重點電力工程非現場監管和質量監督工作。"
-    },
-    {
-      "id": "mkt:019fda47-b922-7aab-8faf-1f4c8ea0fcdc",
-      "time": "2026-08-07 11:32:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Traders say the Reserve Bank of India may sell dollars to limit rupee depreciation."
-    },
-    {
-      "id": "mkt:019fda46-9507-7aab-8faf-134884dde650",
-      "time": "2026-08-07 11:31:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Bond futures morning session close】At the morning close, main contracts: 2-year bond futures (TS) flat; 5-year (TF) +0.02%; 10-year (T) +0.03%; 30-year (TL) +0.21%."
-    },
-    {
-      "id": "mkt:019fda46-851b-7aab-8faf-0802434fa36a",
-      "time": "2026-08-07 11:31:22",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Index futures morning session close】CSI 300 index futures (IF) front-month contract up 0.79%; SSE 50 index futures (IH) up 0.90%; CSI 500 index futures (IC) up 1.27%; CSI 1000 index futures (IM) up 1.16%."
-    },
-    {
-      "id": "5029992",
-      "time": "2026-08-07 11:31:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國校園槍擊2人傷】據泰國警方訊息，今天（8月7日），泰國首都曼谷以北暖武裡府一所學校發生槍擊，造成2人受傷。當地政府官員稱，槍手是一名學生。"
-    },
-    {
-      "id": "5029991",
-      "time": "2026-08-07 11:31:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【午評：創業板指高開高走漲1.75%，算力硬體股、創新藥板塊領漲市場】三大指數早盤集體上漲，截至午盤，上證指數漲0.49%，深證成指漲1.31%，創業板指漲1.75%，北證50漲0.61%，科創50指數漲1.02%。全市場成交額16887億元，較上日縮量764億元，全市場超3000只個股下跌。板塊題材上，元件、醫療服務、PCB概念、電子化學品、PET銅箔板塊漲幅居前；數字貨幣、軟體開發、跨境支付、資料安全、遊戲板塊跌幅居前，盤面上，PCB概念板塊高開高走，一博科技、紅板科技、景旺電子、寶鼎科技、博敏電子等十餘股盤中漲停，銅冠銅箔、吉和昌、德福科技漲幅居前。創新藥板塊低開高走，百花醫藥、哈藥股份、百普賽斯等多股漲停，貝達藥業、瑞康醫藥、皓元醫藥漲幅居前。CPO板塊表現活躍，泰金新能、通宇通訊、沃格光電等股漲停，武漢凡谷、仕佳光子、鵬鼎控股跟漲。數字貨幣板塊表現低迷，吉大正元、飛天誠信、四方精創跌幅居前。遊戲板塊區域性回撥，大晟文化跌停，凱撒文化、盛天網路、中青寶跌幅居前。"
     }
   ]
 }
