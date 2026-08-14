@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-15 01:09:17",
-  "count": 15343,
+  "updated": "2026-08-15 01:13:10",
+  "count": 15342,
   "items": [
+    {
+      "id": "5041860",
+      "time": "2026-08-15 01:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統唐納德・特朗普抵達安德魯斯聯合基地。"
+    },
+    {
+      "id": "mkt:01a00140-e0ef-7aab-9043-97760c648855",
+      "time": "2026-08-15 01:10:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "The US Department of Justice (DOJ) and the Commodity Futures Trading Commission (CFTC) are investigating trades by iron-ore trader Radiant World."
+    },
+    {
+      "id": "te:economy:575528",
+      "time": "2026-08-15 01:08:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Retail Sales Beat Expectations — Colombia’s real retail sales rose 14.7% year-on-year in June 2026, slightly above market expectations of 13.6% and accelerating from 11.7% in May. Seventeen merchandise lines recorded positive changes, while two declined. The largest increases were recorded in motor vehicles and motorcycles, mainly for household use (49.8%), other motor vehicles and motorcycles (52.4%), and sound and video equipment and appliances (89.9%). Meanwhile, sales of footwear, leather goods and leather substitutes fell 1.6%, while food sales declined 1.2%."
+    },
     {
       "id": "5041859",
       "time": "2026-08-15 01:06:18",
@@ -140390,39 +140420,6 @@
         "Importance 2"
       ],
       "text": "Week Ahead - Aug 10th — Negotiations between Iran, the US, and GCC states on access to the Strait of Hormuz will continue to set energy prices and interest rate outlooks for the global economy. In the meantime, updates on the AI trade, which is undergoing heightened volatility, will feature earnings from Applied Materials, Cisco, and CoreWeave. The US will publish consumer inflation data as both the FOMC and financial markets are split on the Fed's rate decision next month. The US will also post the PPI, retail sales, and the Michigan Consumer Confidence Index. In Europe, the UK and Switzerland will post Q2 GDP figures, while the Eurozone will publish industrial production data. In Asia, Chinese monetary aggregates will be in focus, while Taiwan's GDP will unveil concrete figures on global chip production. Also, China and India will post inflation rates. For G10 monetary policy, rate decisions are due in Australia and Norway, while the BoJ will post July's Summary of Opinions."
-    },
-    {
-      "id": "mkt:019fdd36-582e-7aab-8fbf-1c2cbc30c1fd",
-      "time": "2026-08-08 01:12:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH affirms Uganda's sovereign rating at 'B'; outlook stable."
-    },
-    {
-      "id": "mkt:019fdd34-3649-7aab-8fbf-14c22bf94da3",
-      "time": "2026-08-08 01:10:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cook's lawyer said they will challenge the latest pretext and defend Cook's position and duties at the Federal Reserve."
-    },
-    {
-      "id": "5031458",
-      "time": "2026-08-08 01:10:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克的律師：不存在罷免庫克理事的正當理由。我們將對最新的藉口提出挑戰，並維護庫克在美聯儲的職位和職責。"
-    },
-    {
-      "id": "mkt:019fdd33-fd7f-7aab-8fbf-0b4a7e37a7f9",
-      "time": "2026-08-08 01:09:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The lawyer for Fed Governor Cook said there is no valid basis to remove him from office."
     }
   ]
 }

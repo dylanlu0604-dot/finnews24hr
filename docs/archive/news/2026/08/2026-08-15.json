@@ -1,7 +1,37 @@
 {
   "date": "2026-08-15",
-  "count": 89,
+  "count": 92,
   "items": [
+    {
+      "id": "5041860",
+      "time": "2026-08-15 01:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統唐納德・特朗普抵達安德魯斯聯合基地。"
+    },
+    {
+      "id": "mkt:01a00140-e0ef-7aab-9043-97760c648855",
+      "time": "2026-08-15 01:10:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "The US Department of Justice (DOJ) and the Commodity Futures Trading Commission (CFTC) are investigating trades by iron-ore trader Radiant World."
+    },
+    {
+      "id": "te:economy:575528",
+      "time": "2026-08-15 01:08:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Retail Sales Beat Expectations — Colombia’s real retail sales rose 14.7% year-on-year in June 2026, slightly above market expectations of 13.6% and accelerating from 11.7% in May. Seventeen merchandise lines recorded positive changes, while two declined. The largest increases were recorded in motor vehicles and motorcycles, mainly for household use (49.8%), other motor vehicles and motorcycles (52.4%), and sound and video equipment and appliances (89.9%). Meanwhile, sales of footwear, leather goods and leather substitutes fell 1.6%, while food sales declined 1.2%."
+    },
     {
       "id": "5041859",
       "time": "2026-08-15 01:06:18",
