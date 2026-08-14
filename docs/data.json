@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-14 13:02:46",
-  "count": 15527,
+  "updated": "2026-08-14 13:06:35",
+  "count": 15522,
   "items": [
+    {
+      "id": "5040581",
+      "time": "2026-08-14 13:05:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "LG集團與英偉達聯合開發人形機器人；人形機器人將於2027年第一季度亮相。"
+    },
+    {
+      "id": "mkt:019ffea8-d173-7aab-9035-be2a438e902e",
+      "time": "2026-08-14 13:05:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported that online retailer Wildberries' warehouse in Russia's Tver region was damaged in a drone attack."
+    },
+    {
+      "id": "5040580",
+      "time": "2026-08-14 13:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "算力租賃概念震盪回升，網宿科技漲超10%，資料港、利通電子、宏景科技、行雲科技、雲賽智聯等跟漲。"
+    },
+    {
+      "id": "5040579",
+      "time": "2026-08-14 13:03:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：智譜將釋出GLM-5.3模型，其程式設計能力與FABLE 5相當。"
+    },
+    {
+      "id": "5040578",
+      "time": "2026-08-14 13:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜家擬處置上海寶山商場物業，已委託仲量聯行代理】宜家中國近日就上海寶山商場物業後續安排釋出說明。英格卡集團(Ingka Group)已正式委託仲量聯行，代理旗下中國市場部分已停運商場自持物業的處置工作，上海寶山商場物業在列。 宜家上海寶山商場2013年開業，2026年停運，接待訪客近3000萬人次。宜家中國表示，該自持物業位於上海市寶山區，總建築面積約10.5萬平方米，目前資產已全面清空、產權清晰，可按現狀即時交付。專案未來可探索改造為社群商業綜合體、融合文旅元素的體驗式消費空間或其他創新業態。"
+    },
     {
       "id": "mkt:019ffea6-0baf-7aab-9035-b7cd2f3fbb2a",
       "time": "2026-08-14 13:02:02",
@@ -142008,105 +142048,6 @@
         "MKT News"
       ],
       "text": "Interfax reported the Russian defence ministry said Russian forces struck three vessels in the Black Sea carrying Ukrainian military cargo."
-    },
-    {
-      "id": "te:economy:573621",
-      "time": "2026-08-07 13:06:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Japan Leading Index Holds Near 5-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, stood at 116.4 in June 2026, unchanged from May’s revised figure, amid uncertain global conditions, according to preliminary estimates. The reading remained the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, unemployment stood at 2.5% in June, remaining at its lowest level since July 2025, pointing to resilient labor market conditions, though employment was at its three-month low. Consumer confidence also improved to a five-month high, amid optimism about employment prospects and income growth."
-    },
-    {
-      "id": "5030066",
-      "time": "2026-08-07 13:05:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國總理阿努廷對校園槍擊事件深感震驚和悲痛，他強調這正是政府拒絕續發槍支許可證的原因，並已責成相關官員對事件展開調查。（CCTV國際時訊）"
-    },
-    {
-      "id": "5030065",
-      "time": "2026-08-07 13:05:21",
-      "tags": [
-        "央行"
-      ],
-      "text": "【機構：澳大利亞央行會議仍可能提振澳元】澳大利亞金融市場反映的預期是，澳大利亞央行下週的政策會議上幾乎沒有上調利率的可能。澳新銀行外匯研究主管Mahjabeen Zaman表示，不過，該央行仍有可能釋放偏緊縮的訊號，這可能會轉化為澳元的一些上行動力。她補充說，與此同時，幾乎沒有什麼言論或行動能推動出現比市場已經反映的預期更偏寬鬆的結果。主要的意外因素可能是投票分歧。Zaman說，任何支援加息的異議都可能略微增加對偏緊縮的預期。"
-    },
-    {
-      "id": "5030064",
-      "time": "2026-08-07 13:05:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "工信部公佈《享受車船稅減免優惠的節約能源使用新能源汽車車型目錄》（第八十九批），比亞迪方程豹鈦9、賽力斯問界M8等多款車型在列。"
-    },
-    {
-      "id": "mkt:019fda9b-b126-7aab-8faf-ed8e5c362f01",
-      "time": "2026-08-07 13:04:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share biopharma sector spiked intraday; Yiqiao Shenzhou surged to the daily limit in a straight-line move. Earlier Jin'an Protein and Baipusais hit limit-up; Nuoweizan, Wufan Biotech, Rongchang Biotech and Changchun Gaoxin also rose."
-    },
-    {
-      "id": "5030063",
-      "time": "2026-08-07 13:04:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【兆易創新A股成交額超200億元】兆易創新A股日內成交額超200億元，現漲7.27%。"
-    },
-    {
-      "id": "te:economy:573620",
-      "time": "2026-08-07 13:04:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Coincident Index",
-        "Importance 1"
-      ],
-      "text": "Japan Coincident Index Notches 6-Year Peak — Japan's coincident economic index, a key gauge of current economic conditions based on indicators such as industrial production, employment, and retail sales, edged up to 118.2 in June 2026 from 117.9 in the prior month, preliminary data showed. The reading was the highest since May 2019, pointing to a continued moderate economic recovery. Private consumption strengthened as improving employment and income conditions supported household spending, while consumer sentiment showed signs of stabilizing. External demand also improved, with exports rising amid subdued imports, although the outlook remained uncertain due to developments in the Middle East and other global risks. Fiscal policy continued to underpin the economy following Japan's approval of a second consecutive record-high state budget. Meanwhile, the Bank of Japan maintained an accommodative policy stance despite raising its short-term policy rate by 25bps to 1.0% in June, the highest level since September 1995."
-    },
-    {
-      "id": "5030062",
-      "time": "2026-08-07 13:03:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【里昂證券日本策略師據悉辭職 先前已有多名主管離職】據知情人士透露，資深日本證券分析師Nicholas Smith已從里昂證券辭職。根據Smith的領英資料顯示，他於2011年加入里昂證券。他以每週釋出的“Benthos”策略報告而聞名，該報告專注於日本的價值導向投資。"
-    },
-    {
-      "id": "5030061",
-      "time": "2026-08-07 13:03:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【生物製品板塊短線衝高，義翹神州直線漲停】生物製品板塊短線衝高，義翹神州直線漲停，此前近岸蛋白、百普賽斯漲停，諾唯贊、吳帆生物、榮昌生物、長春高新跟漲。"
-    },
-    {
-      "id": "mkt:019fda9a-989e-7aab-8faf-e5dd239bc33a",
-      "time": "2026-08-07 13:03:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China EV Leaders",
-        "1211.HK",
-        "Impact bullish"
-      ],
-      "text": "China's Ministry of Industry and Information Technology published the 89th batch of its Directory of energy-saving new-energy vehicle models eligible for vehicle and vessel tax reductions/exemptions, adding models including BYD Fangchengbao Titanium 9 and SERES Wenjie M8."
     }
   ]
 }
