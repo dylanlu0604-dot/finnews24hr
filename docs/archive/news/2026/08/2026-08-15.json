@@ -1,7 +1,79 @@
 {
   "date": "2026-08-15",
-  "count": 92,
+  "count": 100,
   "items": [
+    {
+      "id": "mkt:01a00146-7c0f-7aab-9043-af75f8ef6eed",
+      "time": "2026-08-15 01:16:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Federal Reserve accepted $250 mln from one counterparty in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5041865",
+      "time": "2026-08-15 01:16:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：經濟形勢好得令人難以置信。"
+    },
+    {
+      "id": "5041864",
+      "time": "2026-08-15 01:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及亞伯拉罕・林肯號航母：那艘艦艇正在行動。"
+    },
+    {
+      "id": "mkt:01a00144-faa8-7aab-9043-a145e42614ca",
+      "time": "2026-08-15 01:14:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump arrived at Joint Base Andrews in Maryland."
+    },
+    {
+      "id": "5041863",
+      "time": "2026-08-15 01:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚股市。"
+    },
+    {
+      "id": "mkt:01a00144-617d-7aab-9043-9c7b30494b1a",
+      "time": "2026-08-15 01:14:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saba news agency, controlled by Yemen's Houthi movement, said the Houthis used drones to strike an ARAMCO facility in Najran province in southern Saudi Arabia."
+    },
+    {
+      "id": "5041862",
+      "time": "2026-08-15 01:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尚比亞恢復大選計票】尚比亞選舉委員會於14日18時左右宣佈解除此前的大選計票暫停措施。贊選舉委員會在首都盧薩卡召開新聞釋出會表示，經與安全部門協商，該委員會決定解除計票暫停措施。目前，安全形勢已得到控制，相關部門已採取必要措施，確保選舉工作人員和選票安全。（新華社）"
+    },
+    {
+      "id": "5041861",
+      "time": "2026-08-15 01:12:38",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝控制的薩巴通訊社援引軍方訊息稱，該組織使用無人機襲擊了沙特阿美位於奈季蘭的設施。"
+    },
     {
       "id": "5041860",
       "time": "2026-08-15 01:11:46",
