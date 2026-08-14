@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-14 08:32:02",
-  "count": 15457,
+  "updated": "2026-08-14 08:36:03",
+  "count": 15456,
   "items": [
+    {
+      "id": "5040217",
+      "time": "2026-08-14 08:34:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Reddit將被納入標普500指數】當地時間8月13日，Reddit宣佈公司將於8月18日開盤前正式納入標普500指數。"
+    },
+    {
+      "id": "5040216",
+      "time": "2026-08-14 08:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞任命梅琳達・奇倫託（ MELINDA CILENTO）為澳大利亞儲備銀行理事會兼職委員。"
+    },
+    {
+      "id": "5040215",
+      "time": "2026-08-14 08:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：因財政與債務管理改善，將厄瓜多信用評級從B-上調至B，展望穩定。"
+    },
+    {
+      "id": "5040214",
+      "time": "2026-08-14 08:31:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將厄瓜多評級上調至“B”級；展望穩定。"
+    },
     {
       "id": "5040213",
       "time": "2026-08-14 08:30:36",
@@ -141460,55 +141493,6 @@
         "國際"
       ],
       "text": "據英國金融時報，歐洲央行僅在交易完成後才得知美國拋售歐元買入日元。"
-    },
-    {
-      "id": "te:markets:573510",
-      "time": "2026-08-07 08:34:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies Amid Hormuz Tensions — Gold held above $4,200 an ounce on Friday, pausing a recent rally as renewed tensions in the Strait of Hormuz pushed oil prices higher, reigniting concerns about inflation and the prospect of a near-term Federal Reserve interest rate hike. Reports indicated that Iran struck what it described as “hostile targets” in the strait following explosions near Qeshm Island. Tehran is also seeking to bar US and Israeli vessels from transiting Hormuz while requiring countries it considers hostile to pay compensation before being allowed passage. Meanwhile, Fed officials have increasingly signaled they are prepared to raise interest rates soon amid rising inflationary risks, with markets pricing in a 25-basis-point hike in September. Separately, data from clearing institutions showed that institutional investors in China continued to build long positions in gold-backed assets as a hedge against volatility in technology stocks, bolstered by central bank buying."
-    },
-    {
-      "id": "mkt:019fd9a3-c834-7aab-8fab-0fb2662b2f78",
-      "time": "2026-08-07 08:33:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: Two Mossad senior officials dismissed after secret Iran operation plan failed】On the 6th, Israeli sources said Mossad dismissed two senior officials after a secret operation plan targeting Iran failed to be implemented. The officials were the agency’s intelligence chief and the head of Iran affairs; they were identified as the plan’s principal architects and core leaders. The plot sought to undermine Iran’s current leadership by leveraging domestic ethnic minorities and to promote alternative Iranian figures, but it ran into setbacks and was not carried out."
-    },
-    {
-      "id": "mkt:019fd9a3-c34f-7aab-8fab-03d0d16b27ad",
-      "time": "2026-08-07 08:33:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 10-year government bond yield rose 2 bps to 2.780%."
-    },
-    {
-      "id": "5029743",
-      "time": "2026-08-07 08:33:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上升2.0個基點，至2.780%。"
-    },
-    {
-      "id": "5029742",
-      "time": "2026-08-07 08:32:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "富士膠片股價下跌18%；因公司正在考慮分拆部分業務。"
     }
   ]
 }
