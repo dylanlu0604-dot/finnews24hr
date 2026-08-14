@@ -1,7 +1,308 @@
 {
   "date": "2026-08-14",
-  "count": 1765,
+  "count": 1797,
   "items": [
+    {
+      "id": "5041003",
+      "time": "2026-08-14 17:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：天竺葵‑4 尋的無人機襲擊了布羅瓦雷附近一處後勤中心。"
+    },
+    {
+      "id": "5041002",
+      "time": "2026-08-14 17:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 白宮國家安全顧問貝克即將離職。"
+    },
+    {
+      "id": "5041001",
+      "time": "2026-08-14 17:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘陽地產：提早重組支援協議費用期限延至9月11日，基礎延至9月25日】弘陽地產公告，由於若干債權人需要額外時間完成加入重組支援協議的內部程式，公司已行使酌情權，將提早重組支援協議費用期限由2026年8月14日下午五時正（香港時間）進一步延長至2026年9月11日下午五時正（香港時間），並將基礎重組支援協議費用期限由2026年8月28日下午五時正（香港時間）延長至2026年9月25日下午五時正（香港時間）。除上述修改外，重組支援協議的所有其他條款及條件維持不變。公司將於適當時就建議重組的進展刊發進一步公告。"
+    },
+    {
+      "id": "5041000",
+      "time": "2026-08-14 17:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：目標是與議會討論有關交易所的法規，並儘快在最早時間釋出。"
+    },
+    {
+      "id": "mkt:019fff81-fa11-7aab-903b-87ec9802f8d5",
+      "time": "2026-08-14 17:02:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Euro area June seasonally adjusted trade balance €1.8 bln, prior -€5.0 bln."
+    },
+    {
+      "id": "5040999",
+      "time": "2026-08-14 17:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贊宇科技：原持股5%以上股東減持100萬股計劃實施完成】贊宇科技公告稱，原持股5%以上股東方銀軍在2026年8月3日至13日，以集中競價方式累計減持公司股份100萬股，佔總股本比例0.21%，減持計劃已實施完成。減持後，其持股降至2280.184萬股，佔總股本4.85%。本次減持符合規定，不會導致公司控制權變更，也不影響公司經營。"
+    },
+    {
+      "id": "mkt:019fff81-d3b7-7aab-903b-799ca2dcb45e",
+      "time": "2026-08-14 17:02:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Trade Balance (Jun) | actual 1800000000B | previous -5000000000B"
+    },
+    {
+      "id": "5040998",
+      "time": "2026-08-14 17:02:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【合生創展集團：2026年7月總合約銷售額3.47億元，1-7月累計37.73億元】合生創展集團公告，截至2026年7月31日止7個月的未經稽核營運資料顯示，本集團及其合營公司及聯營公司總合約銷售金額約37.73億元，其中物業合約銷售約32.61億元，裝修合約銷售約5.12億元；物業合約銷售面積約18.73萬平方米，平均售價約每平方米17410元。2026年7月單月總合約銷售金額約3.47億元，其中物業合約銷售約2.92億元，裝修合約銷售約0.55億元。合生代建管理物業7個月合約銷售面積約15723平方米，金額約9.4億元；7月單月面積約1533平方米，金額約1.19億元。"
+    },
+    {
+      "id": "5040997",
+      "time": "2026-08-14 17:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：礦產與戰略大宗商品交易所將於2027年1月1日起啟動運營。"
+    },
+    {
+      "id": "mkt:019fff81-ad7c-7aab-903b-74b2ad21459a",
+      "time": "2026-08-14 17:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【SAFE: China current account surplus 2.62 tln yuan in 1H 2026】SAFE reported China posted a current account surplus of 2.62 tln yuan in 1H 2026. Breakdown: goods trade surplus 3.63 tln yuan; services trade deficit 772 bln yuan; primary (first) income deficit 309 bln yuan; secondary income surplus 69.5 bln yuan. The capital and financial account (including Q2 net errors and omissions) registered a deficit of 2.64 tln yuan."
+    },
+    {
+      "id": "mkt:019fff81-ac9e-7aab-903b-69d7ead08eff",
+      "time": "2026-08-14 17:01:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "Euro area Q2 seasonally adjusted employment rose 0.1% QoQ (final), matching consensus and the prior 0.1% reading."
+    },
+    {
+      "id": "5040996",
+      "time": "2026-08-14 17:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首都機場高速將進行擴容改造 12月底前完成主體施工】8月14日，記者從北京市交通委獲悉，為進一步增強首都機場高速通行效能、補強道路安全韌性，全面提升交通服務水平，北京市將於8月21日23時正式啟動首都機場高速擴容改造提升工程，預計12月底前完成主體施工。首都機場高速南起東三環，北至首都機場，主線全長18.4公里，是連線首都核心區與機場的重要迎賓通道，也是展示首都形象的重要視窗。隨著城市交通需求持續增長，現狀道路在通行能力、景觀風貌、智慧化水平以及設施狀態等方面已顯現明顯短板，亟需實施系統性升級改造。本次擴容改造提升工程秉持“安全暢通、四季多彩、數字賦能”的建設理念，以“系統化設計、精細化施工、智慧化管控”標準，統籌推進道路品質、景觀風貌、智慧交通，全面提升道路綜合服務水平。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fff81-82e2-7aab-903b-64c914edfa24",
+      "time": "2026-08-14 17:01:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Employment Growth (QoQ) (Q2) | actual 0.1% | consensus 0.1% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019fff81-6dab-7aab-903b-5d19e162858b",
+      "time": "2026-08-14 17:01:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Euro area Q2 seasonally adjusted employment, YoY final 0.5% (exp 0.6%; prior 0.5%)."
+    },
+    {
+      "id": "5040995",
+      "time": "2026-08-14 17:01:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯麗B：2026年上半年營收626.24萬元 淨利潤同比降92.32%】匯麗B公告稱，2026年上半年，公司營業收入626.24萬元，同比下降17.98%；利潤總額451.81萬元，同比下降91.99%；歸屬於上市公司股東的淨利潤323.54萬元，同比下降92.32%。報告期內，子公司上海匯麗地板製品有限公司調減廠房租金標準，預計2026年度營收較原計劃減少約280.85萬元、淨利潤減少約209.38萬元。"
+    },
+    {
+      "id": "mkt:019fff81-492e-7aab-903b-50ac6c7cde4e",
+      "time": "2026-08-14 17:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【SAFE: China Q2 current account surplus 1.33 trillion yuan; inward FDI net inflow】State Administration of Foreign Exchange said China’s Q2 current account posted a surplus of 1.33 trillion yuan. Goods trade surplus 1.91 trillion yuan; services trade deficit 358.4 billion yuan; primary income deficit 257.2 billion yuan; secondary income surplus 42.8 billion yuan. Capital and financial account (including net errors and omissions) showed a 1.33 trillion yuan deficit, with inward direct investment remaining a net inflow."
+    },
+    {
+      "id": "mkt:019fff81-469c-7aab-903b-49de55935394",
+      "time": "2026-08-14 17:01:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Employment Growth (YoY) (Q2) | actual 0.5% | consensus 0.6% | previous 0.50%"
+    },
+    {
+      "id": "5040994",
+      "time": "2026-08-14 17:01:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST三六五：2026年上半年扭虧為盈，淨利潤258.5萬元】*ST三六五公告，2026年上半年營業收入7019.12萬元，同比增長62.60%。歸屬於上市公司股東的淨利潤258.5萬元，上年同期虧損822.65萬元。扣非淨利潤220.03萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5040993",
+      "time": "2026-08-14 17:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數收盤上漲 0.5%，報 21644.01 點。"
+    },
+    {
+      "id": "mkt:019fff81-31e2-7aab-903b-43784d0c5cb0",
+      "time": "2026-08-14 17:01:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Eurozone Q2 GDP revised to 1.0% YoY, in line with expectations and the prior 1.0%."
+    },
+    {
+      "id": "5040992",
+      "time": "2026-08-14 17:01:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我們理解市場機制，我們不接受不合理定價。"
+    },
+    {
+      "id": "mkt:019fff80-fe99-7aab-903b-390a7a7a2bc4",
+      "time": "2026-08-14 17:01:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | GDP Revised (YoY) (Q2) | actual 1% | consensus 1% | previous 1.00%"
+    },
+    {
+      "id": "5040991",
+      "time": "2026-08-14 17:01:08",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家外匯管理局公佈2026年二季度及上半年我國國際收支平衡表初步數】2026年二季度，我國經常賬戶順差13337億元，其中，貨物貿易順差19065億元，服務貿易逆差3584億元，初次收入逆差2572億元，二次收入順差428億元。資本和金融賬戶（含當季淨誤差與遺漏）逆差13337億元，其中來華直接投資保持淨流入。2026年上半年，我國經常賬戶順差26174億元，其中，貨物貿易順差36284億元，服務貿易逆差7720億元，初次收入逆差3086億元，二次收入順差695億元。資本和金融賬戶中（含二季度淨誤差與遺漏）逆差26439億元。按美元計值，2026年二季度，我國經常賬戶順差1951億美元，其中，貨物貿易順差2789億美元，服務貿易逆差524億美元，初次收入逆差376億美元，二次收入順差63億美元。資本和金融賬戶（含當季淨誤差與遺漏）逆差1951億美元。按美元計值，2026年上半年，我國經常賬戶順差3794億美元，其中，貨物貿易順差5263億美元，服務貿易逆差1120億美元，初次收入逆差451億美元，二次收入順差101億美元。資本和金融賬戶（含二季度淨誤差與遺漏）逆差3832億美元。按SDR計值，2026年二季度，我國經常賬戶順差1428億SDR，其中，貨物貿易順差2040億SDR，服務貿易逆差383億SDR，初次收入逆差275億SDR，二次收入順差46億SDR。資本和金融賬戶（含當季淨誤差與遺漏）逆差1428億SDR。按SDR計值，2026年上半年，我國經常賬戶順差2773億SDR，其中，貨物貿易順差3847億SDR，服務貿易逆差818億SDR，初次收入逆差330億SDR，二次收入順差74億SDR。資本和金融賬戶（含二季度淨誤差與遺漏）逆差2800億SDR。（國家外匯管理局）"
+    },
+    {
+      "id": "mkt:019fff80-dcbb-7aab-903b-32ff0716c936",
+      "time": "2026-08-14 17:01:02",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Euro area Q2 GDP revised QoQ +0.4% (expected +0.4%; preliminary +0.4%)."
+    },
+    {
+      "id": "mkt:019fff80-bc30-7aab-903b-286e94045a4e",
+      "time": "2026-08-14 17:00:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | GDP Revised (QoQ) (Q2) | actual 0.4% | consensus 0.4% | previous 0.40%"
+    },
+    {
+      "id": "5040990",
+      "time": "2026-08-14 17:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省溫州市人大常委會原副主任梁超接受審查調查】據浙江省紀委監委訊息：浙江省溫州市人大常委會原黨組成員、副主任梁超涉嫌嚴重違紀違法，主動投案，目前正接受浙江省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5040989",
+      "time": "2026-08-14 17:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區6月未季調貿易帳 86億歐元，前值 -78億歐元。"
+    },
+    {
+      "id": "5040988",
+      "time": "2026-08-14 17:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區第二季度GDP環比增長0.4%；預期為0.4%。"
+    },
+    {
+      "id": "te:markets:575404",
+      "time": "2026-08-14 17:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Increases by 0.54% — Top currency gainers are Norwegian Krone (0.54%), New Zealand Dollar (0.45%), Brazilian Real (0.42%), British Pound (0.28%), Euro (0.24%) and Japanese Yen (0.20%). Biggest loser is Dollar Index (-0.24%)."
+    },
+    {
+      "id": "mkt:019fff80-1c06-7aab-903b-212523e3bdff",
+      "time": "2026-08-14 17:00:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Euro area June non-seasonally adjusted trade surplus 8.6 bln euros; May balance revised from -7.8 bln to -9.0 bln."
+    },
+    {
+      "id": "5040987",
+      "time": "2026-08-14 17:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區第二季度經濟同比增長1.0%；預期為1.0%。"
+    },
+    {
+      "id": "mkt:019fff7f-ec0d-7aab-903b-1ced30ebbef3",
+      "time": "2026-08-14 17:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Unadjusted Trade Balance (Jun) | actual 8600000000B | previous -7800000000B"
+    },
     {
       "id": "5040985",
       "time": "2026-08-14 16:59:45",
