@@ -1,7 +1,80 @@
 {
   "date": "2026-08-14",
-  "count": 1287,
+  "count": 1294,
   "items": [
+    {
+      "id": "te:markets:575310",
+      "time": "2026-08-14 14:32:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Hits 9-week High — The Canadian Dollar touched 1.39 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar lost 0.94%, and in the last 12 months, it increased 0.66%."
+    },
+    {
+      "id": "mkt:019ffef8-961d-7aab-9037-59f4ce95074b",
+      "time": "2026-08-14 14:32:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index closed 164.0 points higher, up 2.41%, at 6,977.34 on Aug 14 (Friday)."
+    },
+    {
+      "id": "5040677",
+      "time": "2026-08-14 14:31:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲0.59%，報68713.80點。韓國綜指收漲2.41%，報6977.34點。"
+    },
+    {
+      "id": "5040676",
+      "time": "2026-08-14 14:31:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【里昂：上調長江基建目標價至67港元，維持“跑贏大市”評級】里昂發表研報指，長江基建受惠於出售資產後累積的充足資金、穩定派息及監管重置帶來的順風，成為市場上相對安全的避風港。該行將公司目標價由63港元上調至67港元，維持“跑贏大市”評級。該行表示，長建上半年列賬純利213億港元，同比升389%。即使撇除一次性專案，上半年核心純利仍然穩健。中期息同比升2.7%至每股0.75港元，延續自1996年上市以來每年增加派息的紀錄。該行上調長建今年純利預測155%，以反映上半年出售資產收益，但由於相關資產出售後貢獻減少，下調明年預測15%。"
+    },
+    {
+      "id": "mkt:019ffef7-6922-7aab-9037-53128b056143",
+      "time": "2026-08-14 14:30:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index closed up 405.21 points, or 0.59%, at 68,713.80 on Friday, Aug. 14."
+    },
+    {
+      "id": "mkt:019ffef7-60f2-7aab-9037-4a5cfa33e62d",
+      "time": "2026-08-14 14:30:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Motorcycle Association: July fuel motorcycle sales 1.8996 mln, up 18.85% YoY】China Motorcycle Association data: In July fuel motorcycle production was 1.9384 mln vehicles and sales 1.8996 mln, up 5.13% and 2.97% MoM and 22.32% and 18.85% YoY respectively. Electric motorcycle production was 0.3311 mln and sales 0.3212 mln, down 21.21% and 20.87% MoM but up 10.37% and 9.5% YoY. Total motorcycle production and sales were 2.2696 mln and 2.2208 mln, production +0.24% MoM, sales -1.33% MoM, YoY +20.42% and +17.4%. Domestic motorcycle sales were 0.8012 mln (-8.15% MoM, +7.6% YoY); domestic fuel motorcycle sales were 0.4849 mln (+0.79% MoM, +6.03% YoY)."
+    },
+    {
+      "id": "te:markets:575309",
+      "time": "2026-08-14 14:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.63% Higher — The Nikkei 225 Index gained 432 points or 0.63 percent on Friday to close at 68741 points. Gains were led by Nintendo Co (6.80%), Sony (5.38%) and Furukawa (5.33%). Biggest losers were Isetan Mitsukoshi (-3.92%), DIC (-3.84%) and Toppan (-3.52%)."
+    },
     {
       "id": "mkt:019ffef5-9cfb-7aab-9037-47cc023fe012",
       "time": "2026-08-14 14:28:57",
