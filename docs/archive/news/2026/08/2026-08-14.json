@@ -1,7 +1,285 @@
 {
   "date": "2026-08-14",
-  "count": 2599,
+  "count": 2629,
   "items": [
+    {
+      "id": "mkt:01a00080-de7f-7aab-9040-0159eb3fe0b5",
+      "time": "2026-08-14 21:40:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OMB Director Vought said US naval shipyards are operating at full capacity and face a significant backlog."
+    },
+    {
+      "id": "mkt:01a00080-c7e9-7aab-903f-fd892b8390ae",
+      "time": "2026-08-14 21:40:34",
+      "tags": [
+        "MKT News",
+        "HII.O",
+        "Impact bearish"
+      ],
+      "text": "OMB Director Vought said US Ford-class aircraft carriers are too costly and take too long to build."
+    },
+    {
+      "id": "5041669",
+      "time": "2026-08-14 21:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【15家中小公募上報攤餘成本法債基】8月14日晚，中國證監會網站顯示，15家中小公募機構上報攤餘成本法債基，分別為尚正基金、紅土創新基金、百嘉基金、朱雀基金、國融基金、華西基金、易米基金、興合基金、興華基金、鵬安基金、財信基金，以及外資公募中的貝萊德基金、路博邁基金、聯博基金、安聯基金，上報的均為63個月封閉式債券基金。"
+    },
+    {
+      "id": "te:markets:575495",
+      "time": "2026-08-14 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Euro Hits 8-week High — EURUSD increased to 1.16, the highest since June 2026. Over the past 4 weeks, Euro US Dollar gained 1.01%, and in the last 12 months, it decreased 1.04%."
+    },
+    {
+      "id": "te:markets:575494",
+      "time": "2026-08-14 21:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.07% Lower — The Dow Jones Index is losing 37 points. Losses were led by Home Depot (-1.14%), Merck (-0.91%) and Sherwin-Williams (-0.76%). Offsetting the fall, top gainers were Chevron (0.92%), UnitedHealth (0.78%) and Walt Disney (0.75%)."
+    },
+    {
+      "id": "5041668",
+      "time": "2026-08-14 21:39:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【貝森特被要求解釋沃倫在信中干預日元的理由】參議員 伊麗莎白·沃倫 財政部長 斯科特·貝森特 解釋特朗普政府幹預日元的理由，延續了這位資深民主黨人審查特朗普政府外匯政策的慣例。沃倫在8月13日的信中寫道：“迄今為止，本屆政府尚未對其干預行動提供詳細的理由，也沒有正式披露有多少納稅人的資金被用於購買日元。”貝森特證實了媒體關於美日兩國自1998年以來首次聯合干預日元匯率的報道，但並未透露具體動用了多少資金。他表示，此次行動動用了財政部外匯穩定基金（ESF）中的歐元。沃倫在談到ESF的使用時表示：“國會希望這些權力得到審慎運用，以增進國家利益。”她要求政府在8月28日前作出答覆，並表示“請提供政府使用ESF的法律分析”。參議院銀行委員會首席民主黨議員沃倫還要求貝森特概述美國納稅人預計要承擔的成本，以及“目前正在考慮的美國對日本的財政支援的規模和條件”。"
+    },
+    {
+      "id": "5041667",
+      "time": "2026-08-14 21:39:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "COINBASE GLOBAL INC：使用者透過COINBASE ONRAMP使用APPLE PAY完成交易時可能會遇到問題。"
+    },
+    {
+      "id": "5041666",
+      "time": "2026-08-14 21:38:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "YORK SPACE SYSTEMS股價下跌14%，此前CO下調全年營收預期。"
+    },
+    {
+      "id": "5041665",
+      "time": "2026-08-14 21:38:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【當年內“翻倍基”批次縮水，近70只基金悄然創下淨值新高】2026年下半年，A股市場風格驟然切換。7月，科技股深度回撥，資金轉向低估值防禦品種；進入8月，市場迎來超跌反彈行情，板塊輪動依舊頻繁。高波動的市場環境恰好是檢驗主動權益基金風險駕馭能力的有效場景。據Wind統計，8月以來，近70只（僅統計主份額；已剔除成立不滿一年的產品，下同）主動權益基金的單位淨值創下自成立以來新高。21世紀經濟報道記者進一步梳理發現，在這批淨值創新高的基金中，不乏三年期業績亮眼且淨值波動相對平穩的穩健型選手。這類基金之所以能夠穿越市場波動，根源在於嚴格的風控紀律與持續迭代的選股框架。（21財經）"
+    },
+    {
+      "id": "mkt:01a0007e-b390-7aab-903f-f5f93cf7d860",
+      "time": "2026-08-14 21:38:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold is up more than 1.00% intraday, trading at $4,394.59/oz."
+    },
+    {
+      "id": "5041664",
+      "time": "2026-08-14 21:37:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4394.83美元/盎司。"
+    },
+    {
+      "id": "5041663",
+      "time": "2026-08-14 21:37:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會重啟對五礦資源（MMG）與英美資源集團（Anglo American）交易的調查，並將新的裁決截止日期設定為11月30日。"
+    },
+    {
+      "id": "5041660",
+      "time": "2026-08-14 21:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐約期金站上4450美元/盎司】紐約期金站上4450美元/盎司，日內漲0.7%。"
+    },
+    {
+      "id": "5041659",
+      "time": "2026-08-14 21:36:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【LME鋅主力合約漲超1%】LME鋅主力合約漲超1%，現報3782.5美元/噸。"
+    },
+    {
+      "id": "5041658",
+      "time": "2026-08-14 21:36:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國零售銷售創一年多來最大降幅 不及上半年的強勁表現】由於消費者減少了在網上商店和汽車經銷商處的消費，美國7月份零售銷售創出一年多來最大降幅。美國普查局週五公佈的資料顯示，未經通脹調整的零售銷售額下降0.6%，為2025年5月份以來最大降幅。剔除汽車和汽油後，零售銷售額下降0.2%。這份報告表明，在2026年上半年表現強勁之後，消費者上個月暫時放緩了支出。不過，一些分析師也警告稱，這些資料可能受到消費提前的影響，因為亞馬遜今年將Prime Day促銷活動從去年的7月份提前到了6月份。"
+    },
+    {
+      "id": "5041657",
+      "time": "2026-08-14 21:36:38",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通將福克斯公司評級上調至增持後，該公司B類普通股股價上漲4.3%。"
+    },
+    {
+      "id": "5041656",
+      "time": "2026-08-14 21:36:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "薩普託公司<股票程式碼：SAP.TO>在公司同意出售其英國業務後，股價上漲幅度最高達5%。"
+    },
+    {
+      "id": "te:markets:575493",
+      "time": "2026-08-14 21:35:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500 Holds Recent Rise — US stock indices were little changed on Friday as optimism from recent tech earnings weighed against macroeconomic risks. The S&P 500 was flat near its record high, while the Nasdaq 100 and Dow also hovered with little movement. Chip producers extended their strong gains from earlier in the week, with Sandisk adding more than 5% following its 14% surge yesterday, while Micron jumped 4% on bullish recommendations from analysts and brokers. The fresh wave of long positions on AI infrastructure were also underpinned by signals of more spending by hyperscalers, with both OpenAI and Anthropic aiming for IPOs this year, while the latter moved to acquire Decart. Still, inflationary risks maintained some bets that the Federal Reserve may raise rates this year, with President Trump stating economic pressure on Iran will remain for longer, halting oil exports from the region. Industrials and banks continued to underperform. Also, Applied Materials dropped 5% despite beating forecast estimates."
+    },
+    {
+      "id": "5041655",
+      "time": "2026-08-14 21:35:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯 7 月盧布實際有效匯率環比下跌 4.7% 。"
+    },
+    {
+      "id": "5041654",
+      "time": "2026-08-14 21:35:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "奧裡厄斯綠道控股上漲6.6%，克拉託斯防禦安全解決方案上漲5.4%。"
+    },
+    {
+      "id": "5041653",
+      "time": "2026-08-14 21:35:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4450美元/盎司，日內漲0.67%。"
+    },
+    {
+      "id": "5041652",
+      "time": "2026-08-14 21:35:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "優諾森機器（Unusual Machines）股價上漲19.9%，紅貓控股（Red Cat Holdings）上漲11.2%， Aerovironment（航空環境公司）上漲6.7%。"
+    },
+    {
+      "id": "5041651",
+      "time": "2026-08-14 21:35:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普政府擬對進口無人機加徵關稅，美國部分無人機企業股價上漲。"
+    },
+    {
+      "id": "5041649",
+      "time": "2026-08-14 21:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍擬將約旦河西岸“民事執法權”移交以警方】以色列國防部長卡茨辦公室14日發表宣告稱，已指示以軍擬定一項計劃，將約旦河西岸地區的“民事執法權”從軍方移交給警方。宣告稱，鑑於古斯拉村發生的“極端主義騷亂”，國防部長正探討一項計劃，將針對在約旦河西岸地區實施犯罪的以色列人的執法工作移交給以警方。宣告表示，由於現任政府批准在西岸建立更多新定居點，預計定居者人數將“大幅增加”，而應對這些暴力行為並非以軍職責，以軍也沒有能力處理那裡的民事問題。猶太人定居者自本月9日以來持續對約旦河西岸城市納布盧斯以南古斯拉村的民房實施“封鎖”，阻止巴勒斯坦居民進出。（新華社）"
+    },
+    {
+      "id": "5041648",
+      "time": "2026-08-14 21:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：秘魯運輸工人在阿雷基帕重啟罷工。"
+    },
+    {
+      "id": "5041647",
+      "time": "2026-08-14 21:34:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲0.92%。"
+    },
+    {
+      "id": "5041646",
+      "time": "2026-08-14 21:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "銅價差加劇，倫敦金屬交易所（LME）主要價差觸及2021年以來最高水平。"
+    },
+    {
+      "id": "mkt:01a00079-5316-7aab-903f-e87bddcb63af",
+      "time": "2026-08-14 21:32:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold traded above $4,390/oz, up 0.9% on the day."
+    },
+    {
+      "id": "5041644",
+      "time": "2026-08-14 21:32:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST長園：申請撤銷其他風險警示，尚需上交所稽核】ST長園公告，公司觸及的其他風險警示情形已消除，且不存在觸及其他風險警示的情形，公司向上海證券交易所申請撤銷對公司股票實施其他風險警示。本次申請撤銷尚需經上交所稽核，能否獲得批准尚存在不確定性，最終以上交所稽核意見為準。"
+    },
+    {
+      "id": "5041643",
+      "time": "2026-08-14 21:31:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "摩羯座治療公司股價上漲65%，此前美國食品藥品監督管理局同意稽核其杜氏肌營養不良新藥的最新資料。"
+    },
     {
       "id": "mkt:01a00078-a32d-7aab-903f-e5d7c0d459a0",
       "time": "2026-08-14 21:31:41",
