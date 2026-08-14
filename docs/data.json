@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-14 23:28:32",
-  "count": 15333,
+  "updated": "2026-08-14 23:32:31",
+  "count": 15334,
   "items": [
+    {
+      "id": "5041807",
+      "time": "2026-08-14 23:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國 10 年期國債收益率上行 10 個基點至 4.04%，創 2009 年以來新高。"
+    },
+    {
+      "id": "mkt:01a000e6-3898-7aab-9042-30a7920ad86a",
+      "time": "2026-08-14 23:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France 10-year government bond yield rose 10bps to 4.04%, the highest since 2009."
+    },
+    {
+      "id": "5041806",
+      "time": "2026-08-14 23:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：本週，我與印度總理莫迪又進行了一次十分友好的會談。印度對以色列的支援力度巨大。我們正將這份支援轉化為安全與經濟層面的雙邊關係。"
+    },
+    {
+      "id": "te:markets:575505",
+      "time": "2026-08-14 23:30:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Rises More than 2% This Week — Silver rebounded to around $65 an ounce on Friday after falling 1.4% in the previous session, bringing its weekly gain to more than 2%. Softer-than-expected US inflation data suggested that the impact of energy-price shocks linked to the Iran conflict eased in July, reducing pressure on the Federal Reserve to adopt a more aggressive monetary stance. Investors will now focus on upcoming US employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium later this month. Meanwhile, renewed tensions in the Middle East could push energy prices higher and revive inflation concerns, creating uncertainty for precious metals. Beyond monetary policy and geopolitical developments, silver continues to benefit from strong industrial demand, particularly from solar-panel production and investment in electricity grids. Chinese imports of silver-bearing ores surged 62.5% year-on-year in June to 219,000 tonnes."
+    },
     {
       "id": "mkt:01a000e2-cc8b-7aab-9042-2fa1a7570428",
       "time": "2026-08-14 23:27:38",
@@ -140233,31 +140273,6 @@
         "國際"
       ],
       "text": "【烏克蘭石油公司設施遭遇大規模襲擊】烏克蘭石油天然氣公司7日說，該公司旗下烏克蘭石油公司遭遇了近幾個月來最大規模的襲擊。烏克蘭石油天然氣公司在官網釋出訊息說，俄方過去一晚襲擊了烏克蘭石油公司7處石油和天然氣生產設施，導致公司關鍵生產裝置受損、油氣產量大幅下降。襲擊未造成人員傷亡。（新華社）"
-    },
-    {
-      "id": "5031413",
-      "time": "2026-08-07 23:30:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國股市本週漲超2%】德國DAX 30指數初步收漲0.87%，報26368.48點，本週累計上漲大約2.8%。法國股指初步收漲0.38%，義大利股指初步收漲0.11%、銀行指數跌0.17%，英國股指初步收漲0.44%。"
-    },
-    {
-      "id": "5031412",
-      "time": "2026-08-07 23:30:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐元區藍籌股指在非農日漲約0.4%，本週漲超4%】歐洲STOXX 600指數初步收漲0.42%，報660.97點，本週累計上漲大約1.8%。歐元區STOXX 50指數初步收漲0.45%，報6531.80點，非農就業報告發布後一度達到6559.99點，本週累漲約4.2%。富時泛歐績優300指數初步收漲0.43%，報2641.28點。"
-    },
-    {
-      "id": "5031411",
-      "time": "2026-08-07 23:29:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄安全部門取締多個與烏克蘭有關的加密貨幣兌換點 】俄羅斯聯邦安全域性7日釋出通報說，該局與俄內務部日前開展聯合行動，在莫斯科取締9個未經註冊的加密貨幣兌換點。烏克蘭呼叫中心利用這些兌換點，針對俄公民實施遠端詐騙。（新華社）"
     }
   ]
 }

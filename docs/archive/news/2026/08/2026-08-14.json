@@ -1,7 +1,47 @@
 {
   "date": "2026-08-14",
-  "count": 2837,
+  "count": 2841,
   "items": [
+    {
+      "id": "5041807",
+      "time": "2026-08-14 23:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國 10 年期國債收益率上行 10 個基點至 4.04%，創 2009 年以來新高。"
+    },
+    {
+      "id": "mkt:01a000e6-3898-7aab-9042-30a7920ad86a",
+      "time": "2026-08-14 23:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France 10-year government bond yield rose 10bps to 4.04%, the highest since 2009."
+    },
+    {
+      "id": "5041806",
+      "time": "2026-08-14 23:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：本週，我與印度總理莫迪又進行了一次十分友好的會談。印度對以色列的支援力度巨大。我們正將這份支援轉化為安全與經濟層面的雙邊關係。"
+    },
+    {
+      "id": "te:markets:575505",
+      "time": "2026-08-14 23:30:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Rises More than 2% This Week — Silver rebounded to around $65 an ounce on Friday after falling 1.4% in the previous session, bringing its weekly gain to more than 2%. Softer-than-expected US inflation data suggested that the impact of energy-price shocks linked to the Iran conflict eased in July, reducing pressure on the Federal Reserve to adopt a more aggressive monetary stance. Investors will now focus on upcoming US employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium later this month. Meanwhile, renewed tensions in the Middle East could push energy prices higher and revive inflation concerns, creating uncertainty for precious metals. Beyond monetary policy and geopolitical developments, silver continues to benefit from strong industrial demand, particularly from solar-panel production and investment in electricity grids. Chinese imports of silver-bearing ores surged 62.5% year-on-year in June to 219,000 tonnes."
+    },
     {
       "id": "mkt:01a000e2-cc8b-7aab-9042-2fa1a7570428",
       "time": "2026-08-14 23:27:38",
