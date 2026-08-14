@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-15 01:44:32",
-  "count": 15342,
+  "updated": "2026-08-15 01:48:29",
+  "count": 15340,
   "items": [
+    {
+      "id": "mkt:01a00162-7885-7aab-9043-f2f333d6b57c",
+      "time": "2026-08-15 01:47:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【U.S. reported to shift Cuba strategy toward tougher sanctions as military option recedes】Sources say the Trump administration is increasingly prioritizing tougher sanctions and economic pressure on Cuba rather than military action to overthrow the Communist Party. The current focus is on cutting off all revenue streams to the Cuban government rather than military or special‑forces operations similar to January’s raid to seize Venezuela’s leader Maduro."
+    },
+    {
+      "id": "5041876",
+      "time": "2026-08-15 01:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國憲法委員會否決15歲以下社媒禁令 】法國憲法委員會14日作出裁定，法國議會上月透過的《保護未成年人免受使用社交媒體所帶來風險的法律》第1條款違反憲法，予以否決。該條款禁止15歲以下未成年人訪問社交媒體。（新華社）"
+    },
+    {
+      "id": "te:economy:575529",
+      "time": "2026-08-15 01:45:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Aug 17th — The ongoing standstill between Iran and the US should continue to dictate energy prices and influence global interest rates, after the US prolonged its economic pressure on Iran instead of signaling efforts of diplomacy. Rates will also take the spotlight with minutes from a divisive meeting from the Federal Reserve, which included three dissents. The ECB will also post meeting accounts. Data from the US will be headlined by flash S&P PMIs, building permits, trade terms, and industrial production. PMIs will also be published for the Eurozone, Japan, Australia, India, and the UK. Meanwhile, both the UK and Canada will release inflation and retail sales. The Eurozone and Germany will release ZEW Economic Sentiment indices. Japan will release its Q2 GDP, trade balance, and inflation rate. In the meantime, China will publish industrial production, retail sales, housing prices, and join Australia, the UK, and Canada in unveiling unemployment figures. Sveriges Riksbank will set rates."
+    },
     {
       "id": "mkt:01a0015f-a1e8-7aab-9043-eb1685bdaca4",
       "time": "2026-08-15 01:43:59",
@@ -140349,65 +140379,6 @@
         "Impact bearish"
       ],
       "text": "【BESSENT: Nonfarm payrolls report underestimates US economic potential】BESSENT wrote on social media that the July nonfarm payrolls report understates the underlying strength of the US economy. He noted goods-producing employment rose for a fifth consecutive month in July and that goods-producing industries have added 105,000 jobs year-to-date, the strongest seven-month start since 2023. He said Q2 productivity growth ran at more than twice expectations, creating conditions for sustained growth and real wage gains, and that strong Q3 growth forecasts point to further acceleration. Higher domestic output and rising productivity, he added, will bolster wages, corporate strength and consumer choice and support expansion driven by supply-side capacity that can help lower inflation rather than rely on temporary stimulus."
-    },
-    {
-      "id": "mkt:019fdd56-e2d3-7aab-8fbf-79a9f731ec86",
-      "time": "2026-08-08 01:48:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US Treasury Secretary Bessent said the US economy is likely to accelerate."
-    },
-    {
-      "id": "mkt:019fdd56-ae2f-7aab-8fbf-75c52c7246d4",
-      "time": "2026-08-08 01:47:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said today's jobs report underestimated the U.S. economy's underlying strength."
-    },
-    {
-      "id": "5031474",
-      "time": "2026-08-08 01:47:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：經濟具備加速發展的條件。"
-    },
-    {
-      "id": "5031473",
-      "time": "2026-08-08 01:46:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：就業資料低估了實體經濟的強勁程度。"
-    },
-    {
-      "id": "mkt:019fdd53-b1f0-7aab-8fbf-6f6488cbdcd1",
-      "time": "2026-08-08 01:44:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "ICE: For the week to Aug. 4, speculative traders cut Brent crude net longs by 20,361 contracts to 164,722; diesel speculative net longs rose by 1,163 contracts to 88,357."
     }
   ]
 }
