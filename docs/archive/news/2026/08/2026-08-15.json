@@ -1,7 +1,115 @@
 {
   "date": "2026-08-15",
-  "count": 76,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:01a0013a-afe1-7aab-9043-81e9a19d39e5",
+      "time": "2026-08-15 01:03:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes said U.S. energy companies added drilling rigs for the second time in three weeks."
+    },
+    {
+      "id": "5041858",
+      "time": "2026-08-15 01:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然發生 5 級地震。"
+    },
+    {
+      "id": "5041857",
+      "time": "2026-08-15 01:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行：發行 25 億美元、票息 5.243% 的固定 / 浮動利率高階無抵押債券，到期日 2032 年。"
+    },
+    {
+      "id": "mkt:01a00139-2eb6-7aab-9043-7efe5f02f321",
+      "time": "2026-08-15 01:01:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. gas rigs totaled 128 in the week to Aug. 14, up from 124 the prior week."
+    },
+    {
+      "id": "mkt:01a00139-178b-7aab-9043-77176eeb2060",
+      "time": "2026-08-15 01:01:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rig count 455 in week to Aug 14, previous 454."
+    },
+    {
+      "id": "mkt:01a00139-0b8d-7aab-9043-68880bd99285",
+      "time": "2026-08-15 01:01:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Aug.14) | actual 128 | previous 124"
+    },
+    {
+      "id": "mkt:01a00138-fc1b-7aab-9043-6139346b421a",
+      "time": "2026-08-15 01:01:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Aug.14) | actual 455 | previous 454"
+    },
+    {
+      "id": "mkt:01a00138-d2c4-7aab-9043-58d4f9e2f04d",
+      "time": "2026-08-15 01:01:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total rig count for week ended Aug 14: 593 rigs, up from 588 the prior week."
+    },
+    {
+      "id": "5041856",
+      "time": "2026-08-15 01:01:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月14日當週天然氣鑽井數 128，前值 124。\n美國8月14日當週石油鑽井數 455，前值 454。"
+    },
+    {
+      "id": "mkt:01a00138-b354-7aab-9043-55bd796d575c",
+      "time": "2026-08-15 01:01:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Aug.14) | actual 593 | previous 588"
+    },
+    {
+      "id": "5041855",
+      "time": "2026-08-15 01:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月14日當週總鑽井數 593，前值 588。"
+    },
     {
       "id": "5041854",
       "time": "2026-08-15 01:00:02",

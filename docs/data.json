@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-15 01:01:21",
+  "updated": "2026-08-15 01:05:16",
   "count": 15341,
   "items": [
+    {
+      "id": "mkt:01a0013a-afe1-7aab-9043-81e9a19d39e5",
+      "time": "2026-08-15 01:03:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes said U.S. energy companies added drilling rigs for the second time in three weeks."
+    },
+    {
+      "id": "5041858",
+      "time": "2026-08-15 01:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然發生 5 級地震。"
+    },
+    {
+      "id": "5041857",
+      "time": "2026-08-15 01:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行：發行 25 億美元、票息 5.243% 的固定 / 浮動利率高階無抵押債券，到期日 2032 年。"
+    },
+    {
+      "id": "mkt:01a00139-2eb6-7aab-9043-7efe5f02f321",
+      "time": "2026-08-15 01:01:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. gas rigs totaled 128 in the week to Aug. 14, up from 124 the prior week."
+    },
+    {
+      "id": "mkt:01a00139-178b-7aab-9043-77176eeb2060",
+      "time": "2026-08-15 01:01:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rig count 455 in week to Aug 14, previous 454."
+    },
+    {
+      "id": "mkt:01a00139-0b8d-7aab-9043-68880bd99285",
+      "time": "2026-08-15 01:01:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Aug.14) | actual 128 | previous 124"
+    },
+    {
+      "id": "mkt:01a00138-fc1b-7aab-9043-6139346b421a",
+      "time": "2026-08-15 01:01:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Aug.14) | actual 455 | previous 454"
+    },
+    {
+      "id": "mkt:01a00138-d2c4-7aab-9043-58d4f9e2f04d",
+      "time": "2026-08-15 01:01:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total rig count for week ended Aug 14: 593 rigs, up from 588 the prior week."
+    },
+    {
+      "id": "5041856",
+      "time": "2026-08-15 01:01:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月14日當週天然氣鑽井數 128，前值 124。\n美國8月14日當週石油鑽井數 455，前值 454。"
+    },
+    {
+      "id": "mkt:01a00138-b354-7aab-9043-55bd796d575c",
+      "time": "2026-08-15 01:01:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Aug.14) | actual 593 | previous 588"
+    },
+    {
+      "id": "5041855",
+      "time": "2026-08-15 01:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月14日當週總鑽井數 593，前值 588。"
+    },
     {
       "id": "5041854",
       "time": "2026-08-15 01:00:02",
@@ -140294,118 +140402,6 @@
         "MKT News"
       ],
       "text": "The lawyer for Fed Governor Cook said there is no valid basis to remove him from office."
-    },
-    {
-      "id": "5031457",
-      "time": "2026-08-08 01:03:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝稱，其襲擊了馬裡卜境內受沙特支援的部隊、彈藥庫及軍事裝備。"
-    },
-    {
-      "id": "mkt:019fdd2e-555d-7aab-8fbf-001d290ef609",
-      "time": "2026-08-08 01:03:48",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Houthi armed group said its forces will respond to any escalation with escalation and vowed to strike any Saudi forces mobilized to continue the blockade."
-    },
-    {
-      "id": "mkt:019fdd2d-f9c3-7aab-8fbe-f8d919aae499",
-      "time": "2026-08-08 01:03:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Houthi movement said Yemen’s armed forces struck Saudi forces massing and hit ammunition depots, vehicles and military equipment at the Saḥn al-Jinn camp."
-    },
-    {
-      "id": "5031456",
-      "time": "2026-08-08 01:02:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：法律人工智慧初創企業 Harvey 正在洽談融資，擬至少募資 5 億美元，含本輪投資在內估值達 155 億美元。"
-    },
-    {
-      "id": "mkt:019fdd2c-7261-7aab-8fbe-f294b0983694",
-      "time": "2026-08-08 01:01:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US gas-directed rig count was 124 in the week to Aug. 7, down from 127 the prior week."
-    },
-    {
-      "id": "mkt:019fdd2c-5886-7aab-8fbe-ef66a4b2da62",
-      "time": "2026-08-08 01:01:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US total rig count for the week to Aug. 7: 588, unchanged from the previous week."
-    },
-    {
-      "id": "mkt:019fdd2c-5618-7aab-8fbe-e04d6bd4310f",
-      "time": "2026-08-08 01:01:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Aug.7) | actual 124 | previous 127"
-    },
-    {
-      "id": "mkt:019fdd2c-4497-7aab-8fbe-d8f41f0bf3c9",
-      "time": "2026-08-08 01:01:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. oil rig count rose to 454 in the week to Aug. 7 from 451 a week earlier."
-    },
-    {
-      "id": "mkt:019fdd2c-3c19-7aab-8fbe-d68c17f07ccf",
-      "time": "2026-08-08 01:01:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Aug.7) | actual 588 | previous 588"
-    },
-    {
-      "id": "mkt:019fdd2c-2765-7aab-8fbe-c99f2fba3bd4",
-      "time": "2026-08-08 01:01:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Aug.7) | actual 454 | previous 451"
-    },
-    {
-      "id": "5031455",
-      "time": "2026-08-08 01:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月7日當週總鑽井數 588，前值 588。\n美國8月7日當週天然氣鑽井數 124，前值 127。"
     }
   ]
 }
