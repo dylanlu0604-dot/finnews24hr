@@ -1,7 +1,240 @@
 {
   "date": "2026-08-14",
-  "count": 2310,
+  "count": 2337,
   "items": [
+    {
+      "id": "mkt:01a00027-2ee7-7aab-903d-7bd3ba1f27a6",
+      "time": "2026-08-14 20:02:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Initial trades in the Shanghai Gold Exchange evening session on Aug 14 (Fri) showed gold T+D up 0.82% at 947.5 yuan/gram and silver T+D up 1.19% at 15,800 yuan/kg."
+    },
+    {
+      "id": "5041462",
+      "time": "2026-08-14 20:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港將2026年經濟增長預測上調為3.5%至4.5%】香港特區政府14日表示，由於今年上半年實際經濟表現好於預期以及短期前景向好，將2026年全年實質本地生產總值增長預測由2.5%至3.5%上調為3.5%至4.5%。 特區政府表示，得益於對外貿易蓬勃和內部需求強韌，二季度香港經濟繼續蓬勃擴張。二季度香港實質本地生產總值同比增長4.3%，一季度同比增長5.9%。上半年，香港實質本地生產總值同比增長5.1%，為近5年來最強勁的半年度表現。 出口方面，二季度香港整體貨物出口增速加快，同比實質增長28.9%；服務輸出同比實質增長3.4%，所有主要服務組別的輸出均持續增長。（新華社）"
+    },
+    {
+      "id": "5041461",
+      "time": "2026-08-14 20:02:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：印度6月經常賬戶餘額為逆差62億美元。"
+    },
+    {
+      "id": "5041460",
+      "time": "2026-08-14 20:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度4月至6月經常賬戶赤字31億美元。"
+    },
+    {
+      "id": "mkt:01a00026-39b5-7aab-903d-70620a2bde07",
+      "time": "2026-08-14 20:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index rose 0.67% to 2,863 points."
+    },
+    {
+      "id": "5041459",
+      "time": "2026-08-14 20:01:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲0.67%，至2863點。"
+    },
+    {
+      "id": "5041458",
+      "time": "2026-08-14 20:01:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大養老金計劃投資委員會（CPP Investments）：第一季度淨資產增加703億加元，其中602億加元來自淨收益，101億加元來自加拿大養老金計劃的淨轉入資金。"
+    },
+    {
+      "id": "5041457",
+      "time": "2026-08-14 20:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【太湖流域發生流域性較大洪水，水利部針對太湖流域洪水防禦應急響應提升至Ⅲ級】受第13號颱風“白海豚”殘餘環流帶來的強降雨影響，8月14日15時40分，太湖水位漲至4.20米，超過警戒水位（3.80米）0.40米，依據《全國流域性洪水劃分規定（試行）》，太湖流域發生流域性較大洪水。據預報，流域未來2天仍將有中到大雨，預計太湖最高水位可能超過4.30米，周邊河網部分水位將超過警戒水位。國家防總副總指揮、水利部部長李國英連續組織會商，分析研判太湖、淮河等重點流域雨情水情汛情，細化部署監測預報預警、水工程排程、工程巡查防守等各項防禦工作。水利部於8月14日18時將針對太湖流域的洪水防禦Ⅳ級應急響應提升至Ⅲ級。水利部太湖流域管理局會同江蘇、浙江兩省水利部門，強化流域水利工程聯合排程，8月6日至13日，排程太湖攔蓄洪水19.5億立方米。水利部工作組仍在浙江防汛一線指導。"
+    },
+    {
+      "id": "5041455",
+      "time": "2026-08-14 20:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【月之暗面：不存在“朋友基金”或“特殊渠道”】8月14日，月之暗面法務部發布宣告。"
+    },
+    {
+      "id": "mkt:01a00025-2ae0-7aab-903d-6c9da679e9fe",
+      "time": "2026-08-14 20:00:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold breached $4,370/oz, up 0.44% intraday."
+    },
+    {
+      "id": "5041453",
+      "time": "2026-08-14 20:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲0.46%。"
+    },
+    {
+      "id": "5041452",
+      "time": "2026-08-14 20:00:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復旦張江：2026年上半年淨利潤3689.5萬元，同比增長545.57%】復旦張江公告，2026年上半年營業收入3.72億元，同比下降4.58%。歸屬於上市公司股東的淨利潤3689.5萬元，同比增長545.57%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2169.86萬元，上年同期為-949.19萬元。基本每股收益0.04元。"
+    },
+    {
+      "id": "5041451",
+      "time": "2026-08-14 19:59:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明微電子：2026年上半年實現扭虧為盈，淨利潤8498.28萬元】明微電子公告，2026年上半年營業收入4.84億元，同比增長69.26%。歸屬於上市公司股東的淨利潤8498.28萬元，上年同期淨利潤虧損3535.59萬元。公司擬向全體股東每10股派發現金紅利5元（含稅），合計擬派發現金紅利5326.23萬元（含稅）。"
+    },
+    {
+      "id": "5041450",
+      "time": "2026-08-14 19:59:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯朋微：2026年上半年淨利潤1.58億元，同比增74.13%】芯朋微公告，2026年上半年營業收入6.65億元，同比增長4.57%。歸屬於上市公司股東的淨利潤1.58億元，同比增長74.13%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3196.06萬元，同比下降53.30%。"
+    },
+    {
+      "id": "5041449",
+      "time": "2026-08-14 19:59:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國移民執法人員擬配備電擊手套】據美聯社8月11日報道，移民與海關執法局探員可能很快就會配備可以實施痛苦電擊的手套，以制服好鬥的人。根據國土安全部10日釋出的一份通知，移民與海關執法局計劃在明年3月之前花費高達2000萬美元的資金為探員購買大量“導電式注意力分散與衝突降級裝置”。據報道，這種裝置全稱為“生成式低輸出電壓發射器”，由肯塔基州列剋星敦的康普萊恩特科技公司製造。近年來，一些監獄和警察局也在使用這種裝置。（參考訊息）"
+    },
+    {
+      "id": "5041448",
+      "time": "2026-08-14 19:59:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印航客機空中險情，液壓系統一度全部失靈】據多家媒體8月14日披露，本月初發生空中急墜險情的印度航空公司一架客機的液壓系統一度全部失靈，飛機發出失速告警。印航2379航班空中客車A320客機本月4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。飛行途中，客機突然急速下墜約90米，20名乘客和4名機組人員受傷。客機最終安全落地，而機長藥檢結果顯示為大麻陽性。（新華社）"
+    },
+    {
+      "id": "mkt:01a00023-2ae4-7aab-903d-6388d0bdabc9",
+      "time": "2026-08-14 19:58:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Brazilian federal police executed a search warrant against former Rio de Janeiro governor Claudio Castro."
+    },
+    {
+      "id": "te:economy:575470",
+      "time": "2026-08-14 19:58:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Costa Rica Growth Hits Lowest Level Since Q1 2021 — Costa Rica’s economy expanded 3.4% year-on-year in Q2 2026, slowing from 4% growth in the previous quarter and marking the weakest expansion since Q1 2021. Growth moderated across several sectors, with manufacturing output declining 0.8%, reversing a 2.6% increase in Q1, while agriculture and fishing growth slowed sharply to 0.5% from 2.3%. Further slowdowns were recorded in transport and storage (3.9% vs 4.7%), mining and quarrying (3.1% vs 3.5%), accommodation and food services (3.5% vs 3.8%), telecommunications and information services (3.4% vs 4.7%), real estate (3.1% vs 3.2%), administrative and support services (4.2% vs 4.8%), and education services (2.7% vs 3.1%). Meanwhile, growth strengthened in utilities (4% vs 3.5%) and construction (8.9% vs 7.7%)."
+    },
+    {
+      "id": "5041447",
+      "time": "2026-08-14 19:57:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX美股盤前漲超2%】SpaceX美股盤前漲超2%，現報144.139美元。"
+    },
+    {
+      "id": "5041446",
+      "time": "2026-08-14 19:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊控股：本公司於二零二六年八月十四日，根據購股權計劃的條款向僱員參與者授予1,952,440份購股權，以認購股份（惟須待獲授人接納後方可作實）。"
+    },
+    {
+      "id": "mkt:01a00022-09de-7aab-903d-5df7d87e5171",
+      "time": "2026-08-14 19:57:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine said Kharkiv was struck in an attack, damaging more than ten apartment buildings."
+    },
+    {
+      "id": "5041445",
+      "time": "2026-08-14 19:56:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【甘諮詢：股票連續3日跌幅偏離值超20% 不存在應披露未披露事項】甘諮詢公告稱，公司股票8月12日至14日連續3個交易日收盤價格跌幅偏離值累計超20%，屬異常波動。經自查及與控股股東、實控人核實，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營及內外部環境正常，不存在應披露未披露或籌劃中的重大事項，控股股東和實控人期間未買賣公司股票，也無增減持計劃，不存在資訊披露違規。提醒投資者注意風險。"
+    },
+    {
+      "id": "5041444",
+      "time": "2026-08-14 19:56:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南模生物：擬出資5900萬元參設鹽城場景創投基金】南模生物(688265)8月14日公告，公司擬作為有限合夥人參與設立鹽城市場景創新應用產業投資基金合夥企業（有限合夥）（簡稱“鹽城場景創投基金”）。鹽城場景創投基金總規模為3億元，主要在鹽城市圍繞人工智慧和生物醫藥產業進行投資。公司擬以自有資金認繳出資5900萬元，投資完成後將持有鹽城場景創投基金約19.67%的財產份額。"
+    },
+    {
+      "id": "5041443",
+      "time": "2026-08-14 19:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）提議對實體為解決監管違規行為需繳納的罰款進行合理化調整。"
+    },
+    {
+      "id": "mkt:01a00020-cf2a-7aab-903d-5576607bf14c",
+      "time": "2026-08-14 19:55:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China outlines preparations for third APEC senior officials' meeting in Dalian】China will host the third APEC senior officials' meeting and related sessions in Dalian, Liaoning, Aug. 17-28, as host of APEC 2026. Organisers say it will be the largest senior officials' meeting to date, with roughly 130 sessions covering trade, transport, food, customs, technology, energy, health, disaster reduction and anti-corruption. About 2,300 delegates are expected from APEC economies, the APEC Secretariat, the APEC Business Advisory Council and the Pacific Economic Cooperation Council. The meeting aims to secure cooperation outcomes across APEC mechanisms to prepare for the November leaders' meeting."
+    },
+    {
+      "id": "5041439",
+      "time": "2026-08-14 19:54:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國汽車行業就業人數降至21年來最低】德國聯邦統計局14日釋出的資料顯示，德國汽車行業就業人數持續減少，今年上半年已降至2005年以來最低水平。截至今年上半年，德國汽車行業共有約69.15萬名就業人員，比一年前減少4.23萬人，降幅為5.8%。據德新社報道，汽車行業是德國各工業部門中就業人員減少最快的部門。德國汽車行業中，汽車零部件及配件供應商裁員最多，就業人數同比減少7.6%；汽車製造商就業人數減少6.1%。德國其他工業部門就業人數也有所減少，但降幅相對較小。同時期，德國製造業整體就業人數同比下降2.7%，至529萬人。（新華社）"
+    },
+    {
+      "id": "5041438",
+      "time": "2026-08-14 19:54:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東莞優邦材料科技股份有限公司首發申請8月21日上會】深圳證券交易所上市稽核委員會定於2026年8月21日召開2026年第53次上市稽核委員會審議會議。審議東莞優邦材料科技股份有限公司的首發申請。"
+    },
     {
       "id": "mkt:01a0001f-24f9-7aab-903d-48b4401334a6",
       "time": "2026-08-14 19:53:56",
