@@ -1,7 +1,181 @@
 {
-  "updated": "2026-08-14 21:28:19",
-  "count": 15322,
+  "updated": "2026-08-14 21:32:25",
+  "count": 15328,
   "items": [
+    {
+      "id": "mkt:01a00078-a32d-7aab-903f-e5d7c0d459a0",
+      "time": "2026-08-14 21:31:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "On Friday Aug 14, the Dow Jones Industrial Average opened down 102.25 points (-0.19%) at 53,737.74; the S&P 500 opened up 2.88 points (+0.04%) at 7,802.07; the Nasdaq Composite opened up 57.50 points (+0.21%) at 26,860.53."
+    },
+    {
+      "id": "5041642",
+      "time": "2026-08-14 21:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：推動積體電路、民用航空、智慧汽車、高階裝備等主導產業積厚成勢】今天（8月14日），上海市委書記陳吉寧用一整天時間在中國（上海）自由貿易試驗區臨港新片區調研並主持召開座談會。陳吉寧指出，臨港新片區要始終把先進製造業擺在突出位置，堅定不移提升能級和核心競爭力。搶抓數智化綠色化機遇，在抓好專案落地同時更加註重培育產業生態，注重培育龍頭企業和高成長企業，注重佈局產業平臺、提升服務能力，增強產業發展的韌性和黏性，推動積體電路、民用航空、智慧汽車、高階裝備等主導產業積厚成勢。"
+    },
+    {
+      "id": "5041641",
+      "time": "2026-08-14 21:31:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "NU HOLDINGS股價飆升14%，創一年來最大單日漲幅。"
+    },
+    {
+      "id": "5041640",
+      "time": "2026-08-14 21:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "特殊機械裝置類股飆升25%，AEROVIRONMENT股價上漲8.1%。"
+    },
+    {
+      "id": "5041639",
+      "time": "2026-08-14 21:31:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "應用材料公司股價下跌7%，創7月29日以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a00078-24e9-7aab-903f-d823d2593962",
+      "time": "2026-08-14 21:31:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reddit shares rose 12% after the company was added to the S&P 500."
+    },
+    {
+      "id": "5041638",
+      "time": "2026-08-14 21:31:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "REDDIT股價上漲12%，此前該公司宣佈其股票將加入標普500指數。"
+    },
+    {
+      "id": "5041637",
+      "time": "2026-08-14 21:30:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數開盤上漲0.1%，納指100上漲0.3%。"
+    },
+    {
+      "id": "mkt:01a00077-e5a0-7aab-903f-d26b76fb910a",
+      "time": "2026-08-14 21:30:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "AMAT.O",
+        "Impact bearish"
+      ],
+      "text": "At the US open, the Dow fell 0.1%, the S&P 500 rose 0.1% and the Nasdaq rose 0.16%. SanDisk (SNDK.O) rose 7% after saying it expects fiscal 2028-2030 revenue to grow in the mid-to-high double digits. Western Digital Corp (WDC.O) and Micron (MU.O) gained about 4%. Applied Materials (AMAT.O) fell about 5% after reporting results."
+    },
+    {
+      "id": "5041636",
+      "time": "2026-08-14 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.11%，標普500指數漲0.07%，納指漲0.16%。閃迪漲6.52%，21世紀福克斯漲4.13%，西部資料漲4.08%，應用材料跌5.46%，Strategy跌3.10%。“七姐妹”方面：特斯拉漲1.41%，英偉達漲0.71%，Meta Platforms漲0.66%，蘋果漲0.19%，谷歌漲0.14%，微軟跌0.21%，亞馬遜跌0.21%。"
+    },
+    {
+      "id": "5041635",
+      "time": "2026-08-14 21:30:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票交易所S&P/TSX綜合指數<.GSPTSE>開盤上漲18.68點，漲幅0.05%，報36777.97點。"
+    },
+    {
+      "id": "te:markets:575492",
+      "time": "2026-08-14 21:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UnitedHealth Stock Price Hits 9-week Low — UnitedHealth shares decreased to 397.30 USD, the lowest since June 2026. Over the past 4 weeks, UnitedHealth lost 6.52%, and in the last 12 months, it increased 46.4%."
+    },
+    {
+      "id": "5041634",
+      "time": "2026-08-14 21:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【段永平丟擲1億元“十年之約”，但斌回應“時間是最公平的裁判”】知名投資人段永平丟擲1億元投資約定：以十年為期，重倉貴州茅臺，公開挑戰國內基金。8月13日晚，東方港灣董事長但斌在社交媒體發文進行了回應，“看到雪球不少朋友艾特我，提到段總借鑑巴菲特經典賭局，提出以龍頭白酒十年持有收益為基準，向國內私募基金髮起億元對賭的話題，希望我應戰。”“無需賭局、無需噱頭，時間就是最公平的裁判。”（澎湃）"
+    },
+    {
+      "id": "5041633",
+      "time": "2026-08-14 21:29:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泓毅股份北交所IPO過會，公司與奇瑞汽車交易的公允性遭追問】8月14日晚間，北交所官網顯示，安徽泓毅汽車技術股份有限公司（以下簡稱“泓毅股份”）IPO於當日上會獲得透過。據瞭解，泓毅股份的主營業務為汽車零部件、工裝裝備的設計、研發、生產和銷售，主要產品為汽車衝焊件、汽車被動安全件、模具鑄件等。公司本次衝擊上市擬募集資金約8.18億元。在上市委會議現場，上市委要求泓毅股份結合與奇瑞汽車之間的合作背景、股權關係、採購與銷售政策、採購金額與銷售金額變動趨勢等情況，說明公司與奇瑞汽車交易的公允性。（北京商報）"
+    },
+    {
+      "id": "5041632",
+      "time": "2026-08-14 21:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市委書記陳吉寧調研臨港新片區並主持召開座談會】據“上海釋出”，今天（8月14日），上海市委書記陳吉寧用一整天時間在中國（上海）自由貿易試驗區臨港新片區調研並主持召開座談會。陳吉寧指出，臨港新片區要始終把先進製造業擺在突出位置，堅定不移提升能級和核心競爭力。搶抓數智化綠色化機遇，在抓好專案落地同時更加註重培育產業生態，注重培育龍頭企業和高成長企業，注重佈局產業平臺、提升服務能力，增強產業發展的韌性和黏性，推動積體電路、民用航空、智慧汽車、高階裝備等主導產業積厚成勢。把握製造業場景豐富優勢，促進工業數智化轉型，在生產製造、裝置運維等關鍵環節加大工業機器人、垂類模型和智慧體應用，帶動工業設計、中試驗證、檢驗檢測、營銷運營等全流程體系化轉型。最佳化營商環境、做好為企服務，加快培育世界一流企業。深化開發區管理制度改革，圍繞功能定位、空間整合、專業服務、考核評價等關鍵環節，細化完善改革方案。"
+    },
+    {
+      "id": "5041631",
+      "time": "2026-08-14 21:28:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東航在大興機場推出應用智慧機器人矩陣】從東航北京分公司獲悉，東航北京分公司於8月13日在大興機場東航高階值機區推出應用智慧服務機器人矩陣。據瞭解，此次投用的智慧機器人矩陣，涵蓋“人形互動”“便民服務”“四足巡檢”三大服務機型，透過多裝置協同聯動，融入旅客地面出行全流程。"
+    },
+    {
+      "id": "5041630",
+      "time": "2026-08-14 21:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國憲法委員會否決15歲以下未成年人使用社交媒體禁令】當地時間8月14日，法國憲法委員會宣佈，否決一項禁止15歲以下未成年人使用社交媒體的法案，認為相關規定對錶達和通訊自由構成“不成比例的侵犯”。法國憲法委員會指出，該禁令可能適用於尚未證實會對未成年人健康和安全造成風險的網路服務，同時沒有考慮未成年人的年齡、家庭狀況和成熟程度，也沒有規定家長在符合兒童利益的情況下解除或調整限制的條件。此外，憲法委員會認為，該法案實際上要求包括成年人在內的所有使用者證明年齡，但沒有對年齡驗證方式和範圍提供足夠的法律保障，可能侵犯隱私權。法國議會7月21日最終透過該法案，原計劃今年9月起實施。禁止15歲以下未成年人使用社交媒體是法國總統馬克龍推動的措施之一。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00075-94ee-7aab-903f-ccf267c64252",
+      "time": "2026-08-14 21:28:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola outbreak spreads to six provinces】DRC Health Ministry said on the 14th that as of the 12th the latest Ebola outbreak had reached six of the country’s 26 provinces, with 4,665 confirmed cases and 2,184 deaths. The outbreak has affected Ituri, North Kivu, South Kivu, Haut-Uele, Bas-Uele and Tshopo; Ituri remains the epicenter."
+    },
+    {
+      "id": "5041629",
+      "time": "2026-08-14 21:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情範圍已擴大至6省】剛果（金）衛生部14日公佈的資料顯示，截至12日，該國本輪埃博拉疫情傳播範圍已擴大至全國26個省中的6個，累計報告確診病例4665例，其中死亡2184例。剛果（金）衛生部14日說，埃博拉疫情已傳播至該國北部的下韋萊省，目前共波及伊圖裡、北基伍、南基伍、上韋萊、下韋萊和喬波6個省，其中伊圖裡省仍是疫情“震中”。（新華社）"
+    },
     {
       "id": "5041628",
       "time": "2026-08-14 21:26:27",
@@ -140060,131 +140234,6 @@
         "市場"
       ],
       "text": "瑞思邁公佈第四季度業績後股價下跌7.7%。"
-    },
-    {
-      "id": "5031260",
-      "time": "2026-08-07 21:32:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "TRADE DESK股價跌27%，創2025年8月以來最大跌幅。"
-    },
-    {
-      "id": "5031259",
-      "time": "2026-08-07 21:32:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西7月IGP-DI通脹率同比上漲2.77%；預期為上漲2.65%。"
-    },
-    {
-      "id": "5031258",
-      "time": "2026-08-07 21:32:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西7月IGP-DI通脹率環比下降0.86%；預期為下降0.97%。"
-    },
-    {
-      "id": "5031257",
-      "time": "2026-08-07 21:31:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "赫茲股價開盤飆升23%，有望實現兩日60%的漲幅。"
-    },
-    {
-      "id": "mkt:019fdc6c-682e-7aab-8fbb-846e72225fec",
-      "time": "2026-08-07 21:31:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "At the open on Friday, Aug. 7, the Dow Jones Industrial Average rose 33.60 points, or 0.06%, to 53,918.70; the S&P 500 gained 21.41 points, or 0.28%, to 7,731.39; the Nasdaq Composite added 200.51 points, or 0.76%, to 26,548.86."
-    },
-    {
-      "id": "mkt:019fdc6c-522e-7aab-8fbb-7cacced46b76",
-      "time": "2026-08-07 21:31:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "【July nonfarm payrolls unexpectedly weak; Nasdaq opens up 0.74%】US stocks opened after weak July nonfarm payrolls: Dow +0.23%, S&P 500 +0.31%, Nasdaq +0.74%. Optical-communications names led gains: Applied Optoelectronics (AAOI.O) +12.46%, Lumentum (LITE.O) +4.0%, Corning (GLW.N) +3.7%. Solar sector broadly higher: FTC Solar (FTCI.O) +1.8%, First Solar (FSLR) +4.5%."
-    },
-    {
-      "id": "5031256",
-      "time": "2026-08-07 21:31:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "CLOUDFLARE股價開盤飆升12%，創歷史新高。"
-    },
-    {
-      "id": "5031255",
-      "time": "2026-08-07 21:30:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "ATLASSIAN股價飆升33%，創2015年12月以來最大單日漲幅。"
-    },
-    {
-      "id": "5031254",
-      "time": "2026-08-07 21:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "INSTACART股價開盤飆升11%，創2月以來最大漲幅。"
-    },
-    {
-      "id": "5031253",
-      "time": "2026-08-07 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.10%，標普500指數漲0.36%，納指漲0.77%。微芯科技漲10.19%，愛彼迎漲9.98%，Coherent Corp漲9.74%，紐曼礦業漲5.81%，雅保化工漲5.40%。“七姐妹”方面：特斯拉漲1.12%，英偉達漲1.05%，亞馬遜漲0.52%，微軟漲0.24%，蘋果漲0.19%，谷歌漲0.14%，Meta Platforms漲0.03%。"
-    },
-    {
-      "id": "5031252",
-      "time": "2026-08-07 21:30:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國土安全部擴大H-1B簽證費用範圍，以資助美國生物識別篩查。"
-    },
-    {
-      "id": "5031251",
-      "time": "2026-08-07 21:29:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【儒意電影：新增2026年度日常關聯交易預計金額不超5.2億元】儒意電影公告稱，因公司董事陳洪濤擔任大連萬達商管和珠海萬達商管董事，公司與上述公司成為關聯方。8月7日公司董事會同意新增2026年度與上述關聯方日常關聯交易預計金額不超5.2億元，其中接受大連萬達商管勞務預計1.6億元，接受珠海萬達商管及其子公司勞務預計3.6億元。該議案尚需提交股東會審議。"
-    },
-    {
-      "id": "mkt:019fdc69-c89d-7aab-8fbb-75db34c49803",
-      "time": "2026-08-07 21:29:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Nick Timiraos: July payrolls give no clear signal; inflation key to Fed rate path】WSJ’s Nick Timiraos says July’s US jobs report will be hard to interpret. Evidence that the labour market has not re-accelerated could reduce urgency for a next-month hike, but outcomes hinge on fresher inflation data. A drop in unemployment will keep markets focused on price trends; whether price pressures rise or fall will determine if more officials conclude they cannot meet the inflation target with rates left unchanged. Two months of milder inflation would strengthen the case to hold rates as a trend signal rather than noise; stronger inflation would revive hawkish forecasts and could give officials favoring further tightening a path to secure a pivotal fourth vote."
     }
   ]
 }
