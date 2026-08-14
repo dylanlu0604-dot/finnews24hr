@@ -1,7 +1,43 @@
 {
   "date": "2026-08-14",
-  "count": 2821,
+  "count": 2825,
   "items": [
+    {
+      "id": "mkt:01a000da-7dd2-7aab-9042-04905ff8c5f8",
+      "time": "2026-08-14 23:18:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Luigi Manzione told a court hearing he intends to plead guilty to murdering the CEO of United Health Insurance Company."
+    },
+    {
+      "id": "te:markets:575503",
+      "time": "2026-08-14 23:17:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Cisco Systems Stock Price Hits 4-week Low — Cisco Systems shares decreased to 110.65 USD, the lowest since July 2026. Over the past 4 weeks, Cisco Systems lost 0.95%, and in the last 12 months, it increased 67.24%."
+    },
+    {
+      "id": "mkt:01a000d9-8a95-7aab-9041-f89bdf22d11b",
+      "time": "2026-08-14 23:17:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SK Group chairman Chey Tae-won appeals 944 bln won divorce settlement ruling】YONHAP reports SK Group chairman Chey Tae-won has filed a further appeal against a court order to pay 944 billion won (about $668 million) in a divorce property settlement. Chey submitted the appeal on the 14th to the Family Division 1 of the Seoul High Court, which was directed to rehear the case after the Supreme Court in October overturned the original judgment and remanded it. Legal circles say a reversal of the remand outcome is unlikely; some observers say the renewed appeal appears aimed at buying time to raise the payment and avoid late-payment interest."
+    },
+    {
+      "id": "5041799",
+      "time": "2026-08-14 23:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "路易吉・曼喬內在庭審聽證會上表示，打算就殺害醫保企業高管的聯邦案件認罪。"
+    },
     {
       "id": "mkt:01a000d5-fa2d-7aab-9041-f00b32216bbc",
       "time": "2026-08-14 23:13:38",
