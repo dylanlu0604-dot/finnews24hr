@@ -1,7 +1,26 @@
 {
   "date": "2026-08-15",
-  "count": 363,
+  "count": 365,
   "items": [
+    {
+      "id": "te:markets:575551",
+      "time": "2026-08-15 06:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.71% — Top commodity gainers are Lithium Carbonate (2.71%), Silicon (2.27%), Platinum (1.42%) and Gold (0.60%)."
+    },
+    {
+      "id": "5042023",
+      "time": "2026-08-15 06:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防衛大臣小泉進次郎今天參拜靖國神社。 (CCTV國際時訊)"
+    },
     {
       "id": "te:markets:575549",
       "time": "2026-08-15 06:30:14",

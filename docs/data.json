@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-15 06:34:45",
+  "updated": "2026-08-15 06:38:38",
   "count": 15301,
   "items": [
+    {
+      "id": "te:markets:575551",
+      "time": "2026-08-15 06:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.71% — Top commodity gainers are Lithium Carbonate (2.71%), Silicon (2.27%), Platinum (1.42%) and Gold (0.60%)."
+    },
+    {
+      "id": "5042023",
+      "time": "2026-08-15 06:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防衛大臣小泉進次郎今天參拜靖國神社。 (CCTV國際時訊)"
+    },
     {
       "id": "te:markets:575549",
       "time": "2026-08-15 06:30:14",
@@ -140065,26 +140084,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Sugar Soars by 5.85% — Top commodity gainers are Sugar (5.85%), Coffee (2.47%) and Barley (2.02%). Biggest loser is Cocoa (-0.83%)."
-    },
-    {
-      "id": "5031673",
-      "time": "2026-08-08 06:36:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤日內漲超1%，現報2.6763美元。"
-    },
-    {
-      "id": "te:markets:573895",
-      "time": "2026-08-08 06:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 3.36% — Top commodity gainers are Silver (3.36%), Gold (2.44%) and Silicon (1.48%). Biggest losers are Copper (-1.73%) and Iron Ore (-0.87%)."
     }
   ]
 }
