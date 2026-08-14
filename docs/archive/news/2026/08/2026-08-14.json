@@ -1,7 +1,21 @@
 {
   "date": "2026-08-14",
-  "count": 2861,
+  "count": 2862,
   "items": [
+    {
+      "id": "mkt:01a000fc-dd7c-7aab-9042-6e5c49f81035",
+      "time": "2026-08-14 23:56:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK long-term gilt yields rose to a three-week high, with 20- and 30-year yields up 10 basis points on the day."
+    },
     {
       "id": "5041817",
       "time": "2026-08-14 23:55:47",
