@@ -1,7 +1,262 @@
 {
   "date": "2026-08-14",
-  "count": 1797,
+  "count": 1827,
   "items": [
+    {
+      "id": "te:economy:575409",
+      "time": "2026-08-14 17:07:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Bond Yield Holds Near 0.38% — Switzerland’s 10-year government bond yield has traded around 0.38% since early August, as uncertainty over the Middle East conflict keeps attention on economic growth, inflation and monetary policy. Swiss economic growth, excluding sports, accelerated sharply to 1.5% in Q2 2026. Meanwhile, inflation slowed to 0.4% in July, its lowest level in four months. Both readings point to limited pass-through from higher energy prices linked to geopolitical tensions, contrasting with the SNB’s expectations of moderating growth and rising inflation. Foreign exchange interventions supported exporters by limiting safe-haven flows and preventing excessive appreciation. However, US trade policy remains a key uncertainty. The SNB kept rates at 0% at its latest meeting and is expected to hold them there through 2027, with further cuts viewed as a contingency rather than the base case. Most economists expect the first rate hike in early 2028, while markets are pricing in one as early as March 2027."
+    },
+    {
+      "id": "te:economy:575408",
+      "time": "2026-08-14 17:07:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "Unemployment Rate",
+        "Importance 0"
+      ],
+      "text": "Kazakhstan Jobless Rate Steady at Record Low — The unemployment rate in Kazakhstan remained at 4.5% in the second quarter of 2026, matching the previous quarter’s lowest level since at least records began in the first quarter of 2000. The number of employed people rose by 99.5 thousand year-on-year to 9.40 million, driven mainly by an increase in hired workers. Hired employment accounted for 7.25 million, or 77.2% of total employment, while self-employed workers totaled 2.15 million. The labor force reached 9.84 million, while the employment rate stood at 64.3% of the population aged 15 and over. The largest shares of employment were recorded in trade (16.8%), education (13.3%), industry (12.4%), and agriculture (10.5%). Youth unemployment among those aged 15-34 stood at 2.9%, down from 3% in the previous quarter, while the NEET rate was 5.7%."
+    },
+    {
+      "id": "mkt:019fff86-a0cf-7aab-903b-a9bc260932de",
+      "time": "2026-08-14 17:07:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russia says it cannot restore the 2022-23 Black Sea Grain Initiative."
+    },
+    {
+      "id": "5041022",
+      "time": "2026-08-14 17:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱，黑海糧食外運倡議不可能再恢復到2022-2023年的原有安排。"
+    },
+    {
+      "id": "mkt:019fff86-7d76-7aab-903b-a2cbf5c7012f",
+      "time": "2026-08-14 17:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia says it has not received a formal proposal from Turkey on a Black Sea–Ukraine ceasefire."
+    },
+    {
+      "id": "5041021",
+      "time": "2026-08-14 17:06:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯表示，尚未收到土耳其就烏克蘭黑海停火事宜提交的正式提案。"
+    },
+    {
+      "id": "5041020",
+      "time": "2026-08-14 17:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗東南部科納拉克縣有關部門表示，針對戰爭遺留未爆彈及其他彈藥的排爆作業將於週五下午持續至 8 月 17 日。"
+    },
+    {
+      "id": "5041019",
+      "time": "2026-08-14 17:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠地控股：7-8月新增逾期債務20.71億元 新增訴訟1275件】綠地控股公告稱，2026年7月14日至8月12日，公司及控股子公司新增逾期債務20.71億元，涉及訴訟的逾期債務8.88億元，累計逾期債務309.42億元。7月26日至8月12日，新增訴訟1275件，涉訴金額39.02億元，已結案1213件，結案金額15.91億元。公司表示，所處行業仍在調整，將統籌推進訴訟化解與債務壓降，但後續訴訟及債務存在不確定性，部分案件對後期利潤影響也不確定，將及時披露相關資訊。"
+    },
+    {
+      "id": "mkt:019fff85-de2f-7aab-903b-9889058cd89c",
+      "time": "2026-08-14 17:06:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's president says he aims to build a deep, transparent, liquid and trustworthy market to serve global investors; trading data will be published and the scope for market manipulation will narrow."
+    },
+    {
+      "id": "5041018",
+      "time": "2026-08-14 17:06:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST清越：股票或因股價及違法問題被強制退市】*ST清越公告稱，8月14日公司股票收盤價為0.92元，首次低於1元，若連續20個交易日均低於1元，將觸及交易類強制退市，且交易類強制退市股票不進入退市整理期。此外，公司因涉嫌定期報告等財務資料虛假記載被立案調查，可能觸及重大違法強制退市。截至公告日，尚未收到正式處罰決定。"
+    },
+    {
+      "id": "mkt:019fff85-9c65-7aab-903b-979f427c796c",
+      "time": "2026-08-14 17:06:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports White House Deputy National Security Advisor Andy Beck will leave the administration in the coming weeks."
+    },
+    {
+      "id": "te:economy:575406",
+      "time": "2026-08-14 17:06:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Euro Area GDP Annual Growth Rate Confirmed at 1% in Q2 — The Eurozone economy grew 1.0% year-on-year in the second quarter of 2026, accelerating from an upwardly revised 0.5% in the previous quarter, according to second estimates. Strong AI-related investment, resilient government spending, and one-off factors helped offset the impact of the conflict in Iran and higher energy prices. Among the largest euro area economies, Spain remained the standout performer, with annual GDP growth of 2.7%, followed by the Netherlands (1.3%), Italy (1.0%), Germany (0.9%), and France (0.7%). On a quarterly basis, the Eurozone economy expanded 0.4%, its strongest pace since the first quarter of 2025."
+    },
+    {
+      "id": "5041016",
+      "time": "2026-08-14 17:05:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞嘉士伯啤酒廠集團：正主動監控並管控中東局勢緊張引發的任何潛在供應鏈風險。"
+    },
+    {
+      "id": "5041015",
+      "time": "2026-08-14 17:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大布魯克菲爾德投資 1000 億日元佈局日本住宅市場。"
+    },
+    {
+      "id": "5041014",
+      "time": "2026-08-14 17:05:21",
+      "tags": [
+        "觀點"
+      ],
+      "text": "香港交易所資訊顯示，摩根士丹利在壁仞科技H股的持股比例於08月11日從5.10%降至4.95%。"
+    },
+    {
+      "id": "5041013",
+      "time": "2026-08-14 17:05:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時吉隆坡綜合指數收盤下跌 0.4%，報 1727.39 點。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608143841795687",
+      "time": "2026-08-14 17:05:09",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【兩部門：決定在全國範圍內推廣跨國公司本外幣跨境資金集中運營業務】中國人民銀行、國家外匯管理局決定在全國範圍內推廣跨國公司本外幣跨境資金集中運營業務。境內全部成員企業上年度本外幣國際收支規模合計金額不低於等值7億元人民幣；或境內全部成員企業上年度營業收入合計金額不低於10億元人民幣且境外全部成員企業上年度營業收入合計金額不低於等值2億元人民幣。"
+    },
+    {
+      "id": "mkt:019fff84-8063-7aab-903b-8ad1b17b3234",
+      "time": "2026-08-14 17:05:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC, SAFE to promote nationwide cross-border onshore-offshore currency centralized cash management for multinationals】PBOC and the State Administration of Foreign Exchange will roll out nationwide a cross-border centralized cash-management service covering onshore and offshore currencies for multinational groups. Eligibility: either combined last-year cross-border receipts and payments in domestic and foreign currencies of all onshore member firms ≥ 700 million yuan equivalent; or combined last-year revenue of onshore members ≥ 1 billion yuan and combined last-year revenue of offshore members ≥ 200 million yuan equivalent."
+    },
+    {
+      "id": "5041012",
+      "time": "2026-08-14 17:04:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼總統：我們將繼續推進資本市場改革，包括印尼證券交易所的公司化改制。"
+    },
+    {
+      "id": "5041011",
+      "time": "2026-08-14 17:04:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【炬光科技：股票交易異常波動 多項業務及募資存不確定性】炬光科技公告稱，公司股票於2026年8月12 - 14日連續3個交易日內日收盤價格漲幅偏離值累計超30%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大資訊。2026年上半年淨利潤仍為負，新興業務收入佔比低，傳統業務有下滑壓力。2026年度向特定物件發行A股股票尚處預案階段，審批結果、募投專案收益及發行後每股收益均存不確定性。"
+    },
+    {
+      "id": "5041010",
+      "time": "2026-08-14 17:04:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：交易資料將可查，操縱空間將壓縮。"
+    },
+    {
+      "id": "5041009",
+      "time": "2026-08-14 17:04:18",
+      "tags": [
+        "央行",
+        "公司",
+        "焦點"
+      ],
+      "text": "【中國人民銀行、國家外匯管理局：在全國範圍內推廣跨國公司本外幣跨境資金集中運營業務】為進一步便利跨國公司集團資金歸集使用，深化高水平金融開放，支援實體經濟高質量發展，中國人民銀行、國家外匯管理局決定在全國範圍內推廣跨國公司本外幣跨境資金集中運營業務。(央行)"
+    },
+    {
+      "id": "te:economy:575405",
+      "time": "2026-08-14 17:04:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Euro Area GDP Growth Unrevised at 0.4% — The Eurozone economy expanded by 0.4% in the second quarter of 2026, in line with flash data and accelerating from flat growth in the previous quarter, second estimates showed. It marked the bloc's strongest quarterly expansion since the first quarter of 2025, as robust AI-related investment, solid government spending, and one-off factors helped offset the impact of the conflict in Iran and higher energy costs. Among the largest euro area economies, Spain once again led growth, with GDP rising 0.7%, up from 0.6% in the first quarter and above forecasts. The Netherlands expanded by 0.4%, twice the expected pace, while France returned to growth with a 0.2% increase after a 0.1% contraction. Germany and Italy also grew by 0.2%, easing slightly from the previous quarter but exceeding market expectations. Year-over-year, the Eurozone economic growth accelerated to 1% in the second quarter from a revised 0.5% three months earlier, also the same as in the flash estimate."
+    },
+    {
+      "id": "5041008",
+      "time": "2026-08-14 17:04:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【回盛生物：2026年上半年淨利潤2.06億元，同比增長75.59%】回盛生物公告，2026年上半年營業收入8.65億元，同比增長5.20%。歸屬於上市公司股東的淨利潤2.06億元，同比增長75.59%，2025年同期淨利潤1.17億元。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.42億元，同比增長43.26%。公司利潤分配預案為：以公司現有總股本2.02億股剔除已回購股份137.09萬股後的2億股為基數，向全體股東每10股派發現金紅利3元（含稅），送紅股0股（含稅），不以公積金轉增股本。"
+    },
+    {
+      "id": "5041007",
+      "time": "2026-08-14 17:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我們希望為全球打造一個深度充足、透明、高流動性且值得信賴的市場。"
+    },
+    {
+      "id": "5041006",
+      "time": "2026-08-14 17:03:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：印尼交易所將為本國主要出口大宗商品制定基準價格。"
+    },
+    {
+      "id": "5041005",
+      "time": "2026-08-14 17:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST美晨：武安二建訴子公司賽石園林等建設工程施工合同糾紛，涉案1386.48萬元】ST美晨公告，公司全資子公司杭州賽石園林集團有限公司（以下簡稱“賽石園林”）近日收到黎城縣人民法院送達的《起訴狀》等訴訟材料。因建設工程施工合同糾紛，武安市二建集團有限公司向黎城縣人民法院提起民事訴訟，被告包括賽石園林、黎城賽石美景建設有限公司及黎城縣城鄉建設和交通局，涉案金額1386.48萬元。案件處於已受理階段，上市公司所處當事人地位為被告；目前尚未開庭，該訴訟事項對公司本期利潤或期後利潤的具體影響尚存在一定不確定性。"
+    },
+    {
+      "id": "5041004",
+      "time": "2026-08-14 17:03:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東惠州大亞灣：未經批准，禁止任何單位和個人非法停靠、登陸無居民海島】大亞灣釋出官微8月14日訊息，日前，大亞灣開發區管委會發布關於加強海島保護的通告，嚴格無居民海島保護，規範有居民海島開發建設，加強自然保護區內海島保護，同時強化安全風險防範、規定法律責任。船舶擅自搭載遊客停靠無居民海島的，船舶當事人將面臨罰款，登島遊玩的遊客也將被勸離。《通告》宣告，“無居民海島屬於國家所有，國家實行海島保護規劃制度”，並明確了三條保護原則：未經批准維持現狀、嚴格限制樣本採集、嚴禁非法登島活動。其中“嚴禁非法登島活動”包括：未經批准，禁止任何單位和個人使用遊艇、小艇、鄉鎮（街道辦事處）船舶、漁船等各類船舶非法停靠、登陸無居民海島；未經批准，禁止任何人員前往無居民海島開展潛水、釣魚、游泳、觀賞、露營等休閒、體育、旅遊活動。"
+    },
     {
       "id": "5041003",
       "time": "2026-08-14 17:03:19",
@@ -193,6 +448,24 @@
         "Europe & UK"
       ],
       "text": "Eurozone Q2 GDP revised to 1.0% YoY, in line with expectations and the prior 1.0%."
+    },
+    {
+      "id": "em:jjsj_zgsj:202608143841794753",
+      "time": "2026-08-14 17:01:24",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家外匯局：2026年二季度我國經常賬戶順差13337億元】國家外匯管理局公告，2026年二季度，我國經常賬戶順差13337億元，其中，貨物貿易順差19065億元，服務貿易逆差3584億元，初次收入逆差2572億元，二次收入順差428億元。資本和金融賬戶（含當季淨誤差與遺漏）逆差13337億元，其中來華直接投資保持淨流入。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608143841793084",
+      "time": "2026-08-14 17:01:16",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區第二季度GDP同比增長1.0% 預期為1.0%】歐元區第二季度GDP同比增長1.0%，預期為1.0%；環比增長0.4%，預期為0.4%。"
     },
     {
       "id": "5040992",
