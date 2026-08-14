@@ -1,7 +1,59 @@
 {
   "date": "2026-08-14",
-  "count": 796,
+  "count": 802,
   "items": [
+    {
+      "id": "5040355",
+      "time": "2026-08-14 09:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG與英偉達簽署機器人、人工智慧工廠和移動出行領域的合作備忘錄。"
+    },
+    {
+      "id": "5040354",
+      "time": "2026-08-14 09:53:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "京東港股下跌9%。"
+    },
+    {
+      "id": "mkt:019ffdf8-ff07-7aab-9032-c4a53166eef9",
+      "time": "2026-08-14 09:53:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Taiwan dollar fell to NT$32.036 per US$, its weakest level since July 8."
+    },
+    {
+      "id": "mkt:019ffdf8-f34f-7aab-9032-bf9d2d3ba4f0",
+      "time": "2026-08-14 09:52:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share rare-earth permanent-magnet sector strengthened in the morning session; China Rare Earth approached its daily limit-up, with Zhongxi Nonferrous, Jiuling Technology, Zhongke Magnetic and Northern Rare Earth also rising."
+    },
+    {
+      "id": "5040353",
+      "time": "2026-08-14 09:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月新增新冠確診52.2萬例死亡1例，中疾控：當前處於本次疫情高峰平臺期】中國疾控中心公佈7月份全國新型冠狀病毒感染疫情情況。資料顯示，2026年7月1日-7月31日，全國31個省（自治區、直轄市）及新疆生產建設兵團報告新增確診病例52.2萬例，其中重症病例487例、死亡病例1例（新冠病毒感染導致呼吸功能衰竭死亡），報告病例數呈波動上升趨勢。中疾控指出，新冠病毒感染乙類乙管以來，已成為常見多發呼吸道傳染病，我國每年均發生1-2次疫情波動。此次疫情上升仍屬週期性波動，強度與前兩年相當，上升趨勢已明顯趨緩，當前處於本次疫情波動的高峰平臺期。"
+    },
+    {
+      "id": "5040352",
+      "time": "2026-08-14 09:52:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "10年期國債收益率降至2025年7月以來最低。"
+    },
     {
       "id": "mkt:019ffdf6-4c1d-7aab-9032-b01d55d20e0f",
       "time": "2026-08-14 09:50:04",
