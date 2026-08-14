@@ -1,7 +1,43 @@
 {
   "date": "2026-08-14",
-  "count": 1181,
+  "count": 1185,
   "items": [
+    {
+      "id": "mkt:019ffec9-6189-7aab-9036-1d61ed5491bd",
+      "time": "2026-08-14 13:40:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Sources say the Bank of Japan could raise interest rates as early as September and is considering accelerating subsequent hikes."
+    },
+    {
+      "id": "mkt:019ffec9-1c9b-7aab-9036-17d17ffddede",
+      "time": "2026-08-14 13:40:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PHILIPPINE C.BANK governor signals less aggressive rate hikes as growth slows】PHILIPPINE C.BANK Governor Eli Remolona said slowing economic growth means the bank will not pursue as aggressive a pace of rate hikes, but policymakers still need to see a more convincing decline in inf before easing policy. The Philippines now has among Southeast Asia’s weakest growth and highest inf; a recent corruption scandal has dented market confidence and the Iran conflict has added to price pressures."
+    },
+    {
+      "id": "5040611",
+      "time": "2026-08-14 13:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天海防務等成立智慧船港航股權投資基金】企查查APP顯示，近日，九江市智慧船港航股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天海防務等共同出資。"
+    },
+    {
+      "id": "5040610",
+      "time": "2026-08-14 13:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜釋出GLM-5.3】8月14日，智譜正式釋出GLM-5.3。據介紹，與GLM-5.2相比，GLM-5.3基座模型未變，但透過極致的後訓練Scaling大大提高了模型的智慧上界。GLM-5.3擁有更強的程式設計能力，在內部自建體感評測中較GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam (CLI)在內的公開基準測試中取得開源第一。智譜還表示，將在釋出兩週後開放模型權重。"
+    },
     {
       "id": "5040609",
       "time": "2026-08-14 13:36:21",

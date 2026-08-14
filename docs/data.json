@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-14 13:37:33",
-  "count": 15509,
+  "updated": "2026-08-14 13:41:31",
+  "count": 15506,
   "items": [
+    {
+      "id": "mkt:019ffec9-6189-7aab-9036-1d61ed5491bd",
+      "time": "2026-08-14 13:40:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Sources say the Bank of Japan could raise interest rates as early as September and is considering accelerating subsequent hikes."
+    },
+    {
+      "id": "mkt:019ffec9-1c9b-7aab-9036-17d17ffddede",
+      "time": "2026-08-14 13:40:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PHILIPPINE C.BANK governor signals less aggressive rate hikes as growth slows】PHILIPPINE C.BANK Governor Eli Remolona said slowing economic growth means the bank will not pursue as aggressive a pace of rate hikes, but policymakers still need to see a more convincing decline in inf before easing policy. The Philippines now has among Southeast Asia’s weakest growth and highest inf; a recent corruption scandal has dented market confidence and the Iran conflict has added to price pressures."
+    },
+    {
+      "id": "5040611",
+      "time": "2026-08-14 13:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天海防務等成立智慧船港航股權投資基金】企查查APP顯示，近日，九江市智慧船港航股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天海防務等共同出資。"
+    },
+    {
+      "id": "5040610",
+      "time": "2026-08-14 13:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜釋出GLM-5.3】8月14日，智譜正式釋出GLM-5.3。據介紹，與GLM-5.2相比，GLM-5.3基座模型未變，但透過極致的後訓練Scaling大大提高了模型的智慧上界。GLM-5.3擁有更強的程式設計能力，在內部自建體感評測中較GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam (CLI)在內的公開基準測試中取得開源第一。智譜還表示，將在釋出兩週後開放模型權重。"
+    },
     {
       "id": "5040609",
       "time": "2026-08-14 13:36:21",
@@ -141872,70 +141908,6 @@
         "MKT News"
       ],
       "text": "Spot silver rose $1 intraday to $62.53/oz, up 1.64%."
-    },
-    {
-      "id": "5030110",
-      "time": "2026-08-07 13:41:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄電商巨頭“野莓”再次通報倉庫遭襲起火】俄羅斯電商巨頭“野莓”（Wildberries）7日通報稱，其在葉卡捷琳堡市的倉庫因襲擊起火，消防人員正在撲救。收貨已臨時受限，物資被分流至其他設施。俄羅斯總統駐烏拉爾聯邦區全權代表若加隨後稱，該市一座倉庫遭無人機襲擊，800人被疏散，無傷亡。斯維爾德洛夫斯克州州長帕斯列爾通報指出，3架無人機殘骸落在被襲倉庫屋頂。據他介紹，共有8架無人機被摧毀。"
-    },
-    {
-      "id": "te:economy:573626",
-      "time": "2026-08-07 13:41:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "France Jobless Rate Rises to Highest Since 2020 — The unemployment rate in France rose to 8.3% in the second quarter of 2026 from 8.1% in the previous quarter, topping market forecasts of 8.2%. This was the highest level since the third quarter of 2020, with the number of unemployed people rising by 62,000 to 2.7 million. The jobless rate was also 0.7 percentage points higher than in the same period last year."
-    },
-    {
-      "id": "5030109",
-      "time": "2026-08-07 13:39:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量66億元。"
-    },
-    {
-      "id": "5030108",
-      "time": "2026-08-07 13:39:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外貿總局：執行機構由印度儲備銀行移交至印度進出口銀行。"
-    },
-    {
-      "id": "5030107",
-      "time": "2026-08-07 13:38:19",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【貴金屬板塊震盪走高，招金黃金漲超7%】貴金屬板塊震盪走高，招金黃金漲超7%，株冶集團、興業銀錫、中金黃金、山金國際跟漲。"
-    },
-    {
-      "id": "5030106",
-      "time": "2026-08-07 13:38:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國電力公司將聖阿爾班1號反應堆的輸出功率從1335兆瓦削減至260兆瓦，將特里卡斯廷4號反應堆的輸出功率從915兆瓦削減至180兆瓦。"
-    },
-    {
-      "id": "5030105",
-      "time": "2026-08-07 13:38:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.01%，成分股中，萬源通漲5.47%，諾思蘭德漲5.01%，則成電子漲4.56%，錦波生物漲4.23%。"
     }
   ]
 }
