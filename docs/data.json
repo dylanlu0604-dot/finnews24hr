@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-14 11:15:54",
-  "count": 15488,
+  "updated": "2026-08-14 11:19:42",
+  "count": 15490,
   "items": [
+    {
+      "id": "5040466",
+      "time": "2026-08-14 11:19:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天津允新海河創業投資基金登記成立 出資額1億】天眼查App顯示，近日，天津允新海河創業投資基金合夥企業（有限合夥）成立，出資額1億人民幣，執行事務合夥人為公能日新（天津）私募股權投資基金管理有限公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，由允公聚能（天津）新能源集團有限公司、天津市天使投資引導基金合夥企業（有限合夥）、天津津鑠鼎和金匯投資有限公司、公能日新（天津）私募股權投資基金管理有限公司等共同出資。"
+    },
+    {
+      "id": "mkt:019ffe47-03d3-7aab-9034-37e65fc07931",
+      "time": "2026-08-14 11:18:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【Australia housing market cools; Q2 new home lending posts biggest drop in over three years】New home loans in Australia fell 5.2% QoQ in the three months to June, the largest quarterly decline since end-2022. Investor lending fell over 10% while owner-occupier loans dropped 1.9%. The fall aligns with major banks' reports of sharply lower mortgage applications. Reduced tax incentives for investors and continued house-price declines are prompting buyers to wait for a market bottom, suggesting housing demand may remain weak. The concurrent drop in prices and lending indicates Albanese's recent tax reforms to curb an unaffordable housing market have begun to take effect."
+    },
+    {
+      "id": "5040465",
+      "time": "2026-08-14 11:17:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "跨境支付公司XTransfer：全球企業客戶數量突破百萬。"
+    },
+    {
+      "id": "mkt:019ffe45-2e71-7aab-9034-2fdc137487d2",
+      "time": "2026-08-14 11:16:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "02099.HK",
+        "Impact bullish",
+        "03330.HK",
+        "02899.HK"
+      ],
+      "text": "Hong Kong-listed gold miners firmed; China Gold International (02099.HK) jumped over 12% after reporting results, Lingbao Gold (03330.HK) rose more than 4%, and Chifeng Gold (06693.HK) and Zijin Mining (02899.HK) also gained."
+    },
+    {
+      "id": "mkt:019ffe44-8a3d-7aab-9034-20404b30dece",
+      "time": "2026-08-14 11:15:32",
+      "tags": [
+        "MKT News",
+        "HON.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cuts Honeywell price target to $255 from $262."
+    },
     {
       "id": "mkt:019ffe44-6dc2-7aab-9034-1fd1cf6943d0",
       "time": "2026-08-14 11:15:25",
@@ -141733,34 +141786,6 @@
         "公司"
       ],
       "text": "瀘溪河釋出桃酥出現金屬牙冠調查結論：消費者已澄清所發影片情況不屬實。"
-    },
-    {
-      "id": "5029973",
-      "time": "2026-08-07 11:19:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲5%，現報535.30元。"
-    },
-    {
-      "id": "5029971",
-      "time": "2026-08-07 11:19:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲1%至6404.25點。"
-    },
-    {
-      "id": "5029970",
-      "time": "2026-08-07 11:18:29",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【多家光伏龍頭回應美國加徵關稅】當地時間8月6日，美國總統特朗普簽署行政令，依據《1962年貿易擴充套件法》第232條，對進口多晶矽及其衍生產品採取最低進口價格和額外關稅措施，以支援美國國內多晶矽、半導體和太陽能供應鏈。記者7日早間就加徵關稅相關事項致電晶科能源董秘辦。晶科能源工作人員稱，對美國剛出的新政策還需要做進一步的研判，待研判成熟後可進一步溝通，也可以參考第三方機構的分析。同日，天合光能工作人員對記者表示，公司銷售元件為主，多晶矽只是元件生產的一種原料，是產業鏈的一環。另外，公司在北美出口比較少，且出貨主要透過合作伙伴，暫時影響不大。記者7日還嘗試聯絡晶澳科技董秘辦，但電話未獲接通。（中新經緯）"
     }
   ]
 }
