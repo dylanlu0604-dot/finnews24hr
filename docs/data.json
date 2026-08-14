@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-15 02:24:59",
-  "count": 15334,
+  "updated": "2026-08-15 02:28:53",
+  "count": 15331,
   "items": [
+    {
+      "id": "te:markets:575533",
+      "time": "2026-08-15 02:28:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Gilead Sciences Stock Price Hits 4-week High — Gilead Sciences shares increased to 138.33 USD, the highest since July 2026. Over the past 4 weeks, Gilead Sciences gained 5%, and in the last 12 months, it increased 16.83%."
+    },
+    {
+      "id": "5041892",
+      "time": "2026-08-15 02:27:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪士尼執行副總裁：約 40% 的 Disney + 使用者使用過豎版影片功能。"
+    },
+    {
+      "id": "te:markets:575532",
+      "time": "2026-08-15 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Gains by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.27%). Biggest losers are Rice (-1.34%), Sugar (-1.31%) and Lumber (-0.61%)."
+    },
     {
       "id": "5041891",
       "time": "2026-08-15 02:22:33",
@@ -140244,60 +140275,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收漲1.44%，報533.60元人民幣/桶。滬金夜盤收漲1.53%，滬銀收漲1.66%。"
-    },
-    {
-      "id": "mkt:019fdd7b-966c-7aab-8fc0-29c0f6881a66",
-      "time": "2026-08-08 02:28:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Claude will change Claude Code's default permission mode to automatic for Pro, Max and Team users from Aug. 14. The automatic mode uses a separate classifier to review shell commands and operations. In tests the classifier detected 89% of dangerous commands versus 14% detected under manual approval mode."
-    },
-    {
-      "id": "5031489",
-      "time": "2026-08-08 02:27:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 取消 Claude Code 使用者的分類器附加費用。"
-    },
-    {
-      "id": "5031488",
-      "time": "2026-08-08 02:26:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美參議院透過一項對俄能源領域制裁法案】當地時間8月7日，美國國會參議院以86票贊成、11票反對的投票結果，透過一項針對俄羅斯能源領域的廣泛制裁法案，並將法案送交眾議院審議。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fdd79-c21c-7aab-8fc0-2257aad890f5",
-      "time": "2026-08-08 02:26:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. Senate passes sanctions bill targeting Russian energy sector】On Aug. 7 local time, the U.S. Senate approved a broad sanctions bill targeting Russia's energy sector by an 86-11 vote and sent the measure to the House for consideration."
-    },
-    {
-      "id": "te:markets:573879",
-      "time": "2026-08-08 02:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Rallies by 5.91% — Top commodity gainers are Sugar (5.91%), Coffee (2.47%) and Canola (1.43%). Biggest losers are Cocoa (-0.90%) and Lumber (-0.78%)."
-    },
-    {
-      "id": "5031487",
-      "time": "2026-08-08 02:25:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：自 8 月 14 日起，Claude Code 將預設啟用自動模式。"
     }
   ]
 }
