@@ -1,7 +1,150 @@
 {
-  "updated": "2026-08-14 16:13:17",
-  "count": 15354,
+  "updated": "2026-08-14 16:17:12",
+  "count": 15350,
   "items": [
+    {
+      "id": "5040863",
+      "time": "2026-08-14 16:16:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【福耀玻璃：成功發行5億元2026年度第三期超短期融資券】福耀玻璃公告稱，公司於2026年8月12日在全國銀行間市場公開發行2026年度第三期超短期融資券，簡稱“26福耀玻璃SCP003”，程式碼012682027，發行總額5億元，期限267天，發行價格100元，發行利率1.45%。主承銷商和簿記管理人為興業銀行，聯席主承銷商為招商銀行，起息日為8月13日，兌付方式為到期一次性還本付息。募集資金用於償還金融機構借款。"
+    },
+    {
+      "id": "mkt:019fff57-ecbe-7aab-9039-a692047360f2",
+      "time": "2026-08-14 16:16:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Interfax: Russian Foreign Minister Lavrov said Russia has asked the U.S. State Department to comment on alleged U.S. involvement in Ukrainian attacks on Russian territory."
+    },
+    {
+      "id": "5040862",
+      "time": "2026-08-14 16:16:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "拉夫羅夫稱，俄羅斯已要求美國國務院就所謂美國參與烏克蘭對俄羅斯境內發動襲擊一事作出回應。"
+    },
+    {
+      "id": "te:economy:575374",
+      "time": "2026-08-14 16:16:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Q2 GDP Growth at Over 1-Year Low — The Bulgarian economy grew 2.7% year-on-year in the second quarter of 2026, easing from 2.9% in the previous quarter, according to preliminary estimates. This marked the weakest pace of growth since Q1 2024, as final consumption growth slowed to 7.6% from 8.0%, while gross fixed capital formation eased to 8.0% from 8.5%. Within net external demand, exports continued to decline but at a softer pace, falling 2.8% compared with a 7.3% contraction, while imports rose 6.9%, moderating from 8.2%. On a quarterly basis, the economy grew 0.6% in the second quarter, down slightly from 0.7% in the previous quarter and marking the weakest growth since Q1 2025."
+    },
+    {
+      "id": "mkt:019fff57-2fce-7aab-9039-9e39abae217d",
+      "time": "2026-08-14 16:15:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local officials said Ukraine struck a residential building in Bryansk, Russia, killing one person."
+    },
+    {
+      "id": "5040860",
+      "time": "2026-08-14 16:15:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋼研納克：2026年上半年營收6.10億元 淨利潤同比增32.02%】鋼研納克公告稱，2026年上半年，公司實現營業收入6.10億元，同比增長22.16%；歸屬於上市公司股東的淨利潤7692.14萬元，同比增長32.02%；扣非淨利潤3965.61萬元，同比增長6.96%；經營活動產生的現金流量淨額2745.01萬元，同比增長4596.55%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:markets:575373",
+      "time": "2026-08-14 16:15:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Nearly Flat — The FTSE MIB was flat to slightly lower around 53,600 on Friday, remaining range-bound after scaling record highs earlier this week. Sentiment remained cautious as markets continued to assess developments in the Middle East after the US threatened an indefinite naval blockade of Iran, reviving concerns about crude supply. Losses across the bourse were led by declines in utilities and technology shares, with Enel down 1.9%, Terna falling 1.4% and Italgas declining 1.3%. Technology stocks also declined, led by STMicroelectronics, which fell 1.7%, while Prysmian lost 1.0%. Meanwhile, banking shares were mostly lower, with UniCredit down 0.4%, Banco BPM falling 0.5%, BPER Banca losing 0.5% and Banca Mediolanum declining 0.3%, while Intesa Sanpaolo edged up 0.2% and Monte dei Paschi was nearly flat. For the week, the benchmark index is heading for a modest decline."
+    },
+    {
+      "id": "mkt:019fff57-0a06-7aab-9039-9334875f9cc1",
+      "time": "2026-08-14 16:15:21",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Taiwan Q2 GDP final annualized growth 12.93%, vs. 12.9% consensus and 12.92% preliminary."
+    },
+    {
+      "id": "5040859",
+      "time": "2026-08-14 16:15:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東誠藥業：山西核藥生產中心獲許可投入運營】東誠藥業公告稱，全資子公司安迪科旗下山西安迪科藥業有限公司收到山西省藥監局下發的《放射性藥品生產許可證》，山西晉中核藥生產中心獲批投入運營，藥品為氟[F]脫氧葡糖注射液。該中心投產將利於安迪科開拓市場、提升收入，完善全國核藥網路化佈局。"
+    },
+    {
+      "id": "mkt:019fff56-c413-7aab-9039-8b79554842f0",
+      "time": "2026-08-14 16:15:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Final Annual GDP (Q2) | actual 12.93% | consensus 12.9% | previous 12.92%"
+    },
+    {
+      "id": "5040858",
+      "time": "2026-08-14 16:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方訊息稱，烏克蘭襲擊了俄羅斯布良斯克的一棟居民樓，造成1人死亡。"
+    },
+    {
+      "id": "5040857",
+      "time": "2026-08-14 16:14:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Coach母公司Tapestry 2026財年營收80億美元，同比增長14%】當地時間8月13日，Coach母公司Tapestry公佈2026財年第四季度及全年業績。第四季度營收18.77億美元，同比增長9%；營業利潤4.42億美元，上年同期營業虧損5.84億美元。全年營收80.04億美元，同比增長14%；營業利潤19.14億美元，上年同期為4.15億美元；稀釋後每股收益7.27美元，上年同期為0.82美元。按品牌看，Coach全年營收69.15億美元，同比增長24%；Kate Spade營收10.75億美元，同比下降10%。Tapestry預計2027財年營收84億至85億美元，同比增長中個位數，每股收益7.80至7.90美元。公司董事會同時批准將股息提高16%。"
+    },
+    {
+      "id": "5040856",
+      "time": "2026-08-14 16:13:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州海珠落地“詞元八條”】8月14日，廣州海珠區釋出“詞元八條”。政策從詞元產出效率、服務聚合、分發中樞延伸到應用場景、OPC培育、行業升級、金融服務和出海，基本覆蓋詞元“生產—流通—消費—增值”的主要環節。在詞元生產端，鼓勵大模型企業透過技術調優提高單位晶片的詞元產出效率，對符合條件的企業按實際投入給予最高不超過50%的扶持，單個企業每年最高150萬元。在產業平臺端，支援企業開展異構算力詞元化封裝、多模態模型聚合接入、一站式結算等業務，對符合條件的企業給予最高400萬元扶持；支援建設跨模型、跨模態、多異構平臺接入的詞元呼叫中樞，最高給予400萬元扶持。在應用端，海珠將推動大模型與新型工業化、遊戲、時尚、營銷、交通、醫療、金融、具身智慧、低空等領域融合，符合條件的專案最高可獲500萬元扶持。"
+    },
+    {
+      "id": "5040855",
+      "time": "2026-08-14 16:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：2025年南海區海洋生態狀況總體穩定】8月14日，自然資源部南海局正式釋出《2025年南海區海洋生態預警監測公報》和《2025年南海區海洋生態保護修復公報》。《預警監測公報》顯示，2025年南海區海洋生態狀況總體穩定。近岸海域水體環境和生物多樣性均處在常年波動範圍內，總體保持穩定。紅樹林、海草床生態系統整體狀況優良，紅樹林蓋度在75%以上，植被群落穩定，生物多樣性水平高，構成一道綿延數千裡的“海上綠色長城”。珊瑚礁、濱海鹽沼生態系統狀況以中等為主，各監測區域的活珊瑚覆蓋率均有所升高。河口、海灣生態系統基本穩定，西中南沙島礁生態狀況總體優良。《保護修復公報》顯示，2025年，南海區共實施海洋生態修復工程專案66個，總投入資金近50億元。截至2025年底，南海區共劃定海洋生態保護紅線面積約266萬公頃、海洋自然保護地面積約700萬公頃。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fff54-bfa1-7aab-9039-8210d31b0464",
+      "time": "2026-08-14 16:12:51",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Aug 14 (Fri) close: Hang Seng Index (HSI) fell 279.66 pts (-1.10%) to 25,116.85; Hang Seng TECH Index fell 84.77 pts (-1.77%) to 4,707.62; Hang Seng China Enterprises Index (HSCEI) fell 85.66 pts (-1.02%) to 8,340.83; Hang Seng Red Chip Index rose 43.49 pts (+1.06%) to 4,132.69."
+    },
     {
       "id": "mkt:019fff54-7a7a-7aab-9039-79ed4accc892",
       "time": "2026-08-14 16:12:34",
@@ -140466,191 +140609,6 @@
         "Impact bullish"
       ],
       "text": "【Analysts: India FX reserves set to near record】Analysts say strong capital inflows driven by Reserve Bank of India measures should push India’s foreign exchange reserves close to a record within weeks. RBI data show reserves rose $10.5bn in the week to July 31 to $692.9bn, the largest weekly gain since end‑January and close to the February peak of $728.5bn. Since early June RBI actions have attracted about $40.8bn via non‑resident Indian foreign‑currency deposits and overseas borrowings; reserves have climbed for five straight weeks. Rising reserves boost the RBI’s capacity to defend the rupee, which has recovered about 1.8% from its May low."
-    },
-    {
-      "id": "5030498",
-      "time": "2026-08-07 16:16:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粉筆教育回應名師出走】8月7日，粉筆教育釋出關於粉筆名師出走的說明，針對外界關注的名師離職一事作出回應。粉筆方面表示，部分名師離職確為客觀事實，公司尊重老師們的個人選擇。粉筆稱，企業已經吸取相關教訓，切實提升教師待遇；同時並不排除後續仍會有老師離職的可能性，但目前機構整體師資隊伍已經趨於穩定。"
-    },
-    {
-      "id": "5030497",
-      "time": "2026-08-07 16:16:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天馬科技：控股股東及其一致行動人合計減持0.81%股份】天馬科技公告稱，2026年8月5日至8月6日，控股股東、實際控制人陳慶堂及其一致行動人陳慶昌透過集中競價交易方式合計減持公司股份407.3825萬股，佔總股本的0.81%。其中，陳慶堂減持207.9913萬股，佔比0.41%；陳慶昌減持199.3912萬股，佔比0.39%。本次權益變動後，其合計持股比例由31.72%降至30.91%，未違反相關計劃和承諾，不會導致控股股東、實控人變化。"
-    },
-    {
-      "id": "te:economy:573719",
-      "time": "2026-08-07 16:16:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Taiwan Trade Surplus Widens in July — Taiwan's trade surplus widened to USD 17.2 billion in July 2026 from USD 14.4 billion a year earlier, exceeding market expectations of USD 16.5 billion. Exports rose 32.9% year-on-year to USD 75.3 billion, supported by robust demand for machinery and equipment (37.1%), led by electronic parts (50.5%) and information, communication and audio products (29.5%). The US remained the largest export market, accounting for 31% of total shipments, with exports rising 25.2%, followed by Mainland China and Hong Kong, where exports increased 33.4%. Imports increased 37.4% to USD 58.3 billion, driven by purchases of machinery and equipment (55.8%), particularly electronic parts (61.5%) and information, communication and audio products (18.8%). Mainland China and Hong Kong remained the largest source of imports, accounting for 19.9% of the total, followed by South Korea at 13.6%. In the first seven months of 2026, Taiwan's trade surplus widened 63.5% year-on-year to USD 114.4 billion."
-    },
-    {
-      "id": "5030496",
-      "time": "2026-08-07 16:16:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華正新材：股價短期漲幅大 提示多項投資風險】華正新材公告稱，公司股票8月4 - 7日連續4個交易日價格漲幅達45.03%，短期波動幅度較大，可能存在下跌風險。目前生產經營活動正常，無應披露未披露重大事項。公司應用於AI算力領域的高階覆銅板在總營收中佔比有限，且研發認證不確定性大。此外，2026年度向特定物件發行A股股票事項尚需稽核註冊，能否實施及時間不確定。提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "mkt:019fdb4b-59b7-7aab-8fb4-02da04d7f9f1",
-      "time": "2026-08-07 16:16:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold topped $4,300/oz, up 1.41% intraday."
-    },
-    {
-      "id": "5030495",
-      "time": "2026-08-07 16:16:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長纜科技：第一、二期員工持股計劃存續期即將屆滿】長纜科技公告稱，公司第一期員工持股計劃存續期將於2027年2月9日屆滿，截至公告披露日，持有公司股票268萬股，佔總股本1.39%；第二期員工持股計劃存續期將於2027年1月2日屆滿，截至公告披露日，持有公司股票146萬股，佔總股本0.76%。2026年1月13日，公司已審議透過提前終止兩期員工持股計劃的議案。後續將由管理委員會負責清算和財產分配，公司會依規及時披露進展。"
-    },
-    {
-      "id": "5030494",
-      "time": "2026-08-07 16:16:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "*【宇樹科技王興興：上市有壓力更有動力 將以良好的業績回報股東】8月7日，宇樹科技首次公開發行股票並在科創板上市網上投資者交流會在上海證券報·中國證券網、上證路演中心舉行。在回答“公司上市後，管理層是否有壓力”這一投資者提問時，宇樹科技董事長、總經理兼技術長王興興表示：“有壓力更有動力！公司將運用好募集資金，加快募集資金專案的實施，按照計劃產生效益，以良好的業績回報股東。”（上證報）"
-    },
-    {
-      "id": "mkt:019fdb4a-fde3-7aab-8fb3-fac7a2ff6dbc",
-      "time": "2026-08-07 16:15:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "02513.HK",
-        "02126.HK"
-      ],
-      "text": "【Hong Kong close: HSI +0.54%, Hang Seng Tech +0.78%】At the close in Hong Kong the Hang Seng Index rose 0.54% and the Hang Seng Tech Index gained 0.78%. Market turnover was HKD 259.7 bln. Sector winners included PCB names, biopharma, gold and semiconductors; online education and optical communications underperformed. Notable moves: Nasen Technology (first trading day) +64%; 02513.HK +14%; 02126.HK +13%; 02476.HK +11%; 01888.HK +10%. Laggards: 02589.HK -5%, 00020.HK -4%, 09660.HK -3%."
-    },
-    {
-      "id": "5030493",
-      "time": "2026-08-07 16:15:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大商所修改焦炭期貨業務細則】8月7日，大連商品交易所釋出公告，《大連商品交易所焦炭期貨業務細則》的修改已由大連商品交易所第五屆理事會第四次會議審議透過，現予公佈，自2027年8月第1個交易日起實施。"
-    },
-    {
-      "id": "5030492",
-      "time": "2026-08-07 16:15:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【十四項黃河流域用水定額強制性國家標準實施】記者今天瞭解到，市場監管總局（國家標準委）、水利部聯合制定14項黃河流域工業服務業用水定額強制性國家標準，自8月1日起實施。這是我國首次針對黃河流域制定的高耗水行業用水定額強制性國家標準，標準明確了黃河流域相關行業強制性用水定額的計算方法、指標值和管理要求，將為黃河流域實施取水許可制度、實行計劃用水管理和開展水資源論證、節水評價提供重要技術依據，對強化用水定額管理、推動高耗水行業節水改造、加強水資源節約集約利用具有重要意義，有力推動了黃河流域綠色低碳發展和生態環境保護。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fdb4a-3272-7aab-8fb3-f55b17ab71c6",
-      "time": "2026-08-07 16:15:00",
-      "tags": [
-        "MKT News",
-        "MCHP.O",
-        "Impact bullish"
-      ],
-      "text": "Microchip Technology (MCHP.O) rose about 9% in pre-market trading after the company guided Q2 revenue and earnings above expectations."
-    },
-    {
-      "id": "5030491",
-      "time": "2026-08-07 16:14:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家網信辦：大型個人資訊處理者應當採取加密、去標識化等措施保障所處理個人資訊保安】國家網信辦就《大型個人資訊處理者個人資訊保護規定（徵求意見稿）》公開徵求意見。徵求意見稿提到，大型個人資訊處理者應當採取加密、去標識化、訪問控制、匿名化等措施保障所處理個人資訊保安，可以應用國家網路身份認證公共服務，鼓勵使用資料標籤標識技術、透過個人資訊保護認證等，提高個人資訊保護水平。鼓勵大型個人資訊處理者開展個人資訊保護相關技術、產品、服務創新，積極參與個人資訊保護相關國際標準和規則制定，推動與其他國家、地區之間的個人資訊保護規則、標準協調互認。"
-    },
-    {
-      "id": "5030490",
-      "time": "2026-08-07 16:14:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "微芯科技股票盤前上漲9%，此前該公司公佈的第二季度收入與利潤預測均高於市場預期。"
-    },
-    {
-      "id": "5030489",
-      "time": "2026-08-07 16:14:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4300美元/盎司，日內漲1.40%。"
-    },
-    {
-      "id": "mkt:019fdb49-477d-7aab-8fb3-ee3ff6bfbe2c",
-      "time": "2026-08-07 16:14:00",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed up 137.75 points, or 0.54%, at 25,668.03 on Friday, Aug. 7. The Hang Seng Tech Index closed up 37.51 points, or 0.78%, at 4,858.29. The Hang Seng China Enterprises Index (HSCEI) closed up 32.85 points, or 0.39%, at 8,531.58. The Red Chip Index closed down 1.31 points, or 0.03%, at 4,121.01."
-    },
-    {
-      "id": "5030488",
-      "time": "2026-08-07 16:13:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興欣新材：取得金融機構不超9000萬元回購股票專項融資支援】興欣新材(001358)8月7日公告，近日，公司取得中信銀行股份有限公司紹興上虞支行出具的《貸款承諾函》，貸款額度不超過9000萬元，貸款期限不超過36個月，貸款專項用於回購公司股票。"
-    },
-    {
-      "id": "5030487",
-      "time": "2026-08-07 16:13:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY金融服務指數跌幅擴大，最新下跌1.5%。"
-    },
-    {
-      "id": "te:economy:573718",
-      "time": "2026-08-07 16:13:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bulgaria",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Bulgaria Retail Sales Growth Slows in June — Retail sales in Bulgaria eased by 7.1% year-on-year in June from a 7.9% growth in the previous month. Activity slowed for automotive fuels in specialized stores (3.1% vs. 13.7%) and food, beverages, and tobacco (4.1% vs. 4.7%). Meanwhile, non-food products excluding fuel accelerated to 9.9% from 8.3%, supported by stronger sales in non-specialized stores (10.6% vs. 10.2%), mail-order and internet retail (26.4% vs. 19.1%), and textiles, clothing, and footwear (22.5% vs. 23.0%). However, growth also eased in household appliances, furniture, and other household goods (9.0% vs. 11.2%) and computer and communications equipment (8.0% vs. 4.0%), while pharmaceutical and medical goods, cosmetics, and toiletries returned to growth (1.0% vs. -2.5%). On a monthly basis, retail sales rose 0.5% in June, easing from a revised 0.7% increase in May."
-    },
-    {
-      "id": "mkt:019fdb48-b803-7aab-8fb3-e3ddcf709916",
-      "time": "2026-08-07 16:13:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【China SAFE: FX reserves $3.419 tln at end-July 2026】China's State Administration of Foreign Exchange said FX reserves were $3,418.8 bln at end-July 2026, up $2.5 bln from end-June (+0.07%). SAFE said a July decline in the dollar index and mixed global asset-price moves, together with exchange-rate conversion and asset-price effects, lifted reserves. SAFE added that China's economic momentum and improving structure support the basic stability of reserves."
     }
   ]
 }
