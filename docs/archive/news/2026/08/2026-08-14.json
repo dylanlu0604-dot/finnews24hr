@@ -1,7 +1,23 @@
 {
   "date": "2026-08-14",
-  "count": 2814,
+  "count": 2816,
   "items": [
+    {
+      "id": "mkt:01a000d3-e9f3-7aab-9041-dae6744e3ca8",
+      "time": "2026-08-14 23:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Suzhou Water Affairs Bureau at 22:00 on the 14th upgraded and issued a red flood warning for the Suzhou section of the Beijing-Hangzhou Grand Canal."
+    },
+    {
+      "id": "5041796",
+      "time": "2026-08-14 23:08:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇州升級釋出京杭運河蘇州段洪水紅色預警】蘇州市水務局14日22時升級釋出京杭運河蘇州段洪水紅色預警。提醒影響區域各級政府及有關部門做好防汛工作；社會公眾做好避災避險。（央視新聞）"
+    },
     {
       "id": "5041795",
       "time": "2026-08-14 23:06:42",
