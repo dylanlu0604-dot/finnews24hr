@@ -1,7 +1,69 @@
 {
   "date": "2026-08-15",
-  "count": 267,
+  "count": 274,
   "items": [
+    {
+      "id": "mkt:01a001ef-ae98-7aab-9045-b5ee1cd0727a",
+      "time": "2026-08-15 04:21:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Trump said the U.S. has the capability to destroy Iran but does not want to do so."
+    },
+    {
+      "id": "5041968",
+      "time": "2026-08-15 04:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發言吹捧美國股市。"
+    },
+    {
+      "id": "mkt:01a001ee-a8b7-7aab-9045-acbde87e5f97",
+      "time": "2026-08-15 04:20:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Politico reports a White House official said the U.S.-Iran situation is unchanged and there is no word yet on an extension of the U.S.-Iran ceasefire agreement."
+    },
+    {
+      "id": "5041967",
+      "time": "2026-08-15 04:19:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "索羅斯基金管理有限責任公司將亞馬遜持股削減39.2%，至120萬股。"
+    },
+    {
+      "id": "5041966",
+      "time": "2026-08-15 04:18:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "索羅斯基金管理有限責任公司增持蘋果公司股份5.8%，至529,538股。"
+    },
+    {
+      "id": "5041965",
+      "time": "2026-08-15 04:18:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伯克希爾·哈撒韋第二季度增持谷歌】伯克希爾·哈撒韋在第二季度清倉了星座品牌（STZ）；減持了克羅格（KR）、第一資本金融（COF）、紐柯鋼鐵（NUE）、Ally金融（ALLY）、達維塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、達美航空（DAL）、萊納房屋（LEN）、梅西百貨（M）。"
+    },
+    {
+      "id": "5041964",
+      "time": "2026-08-15 04:18:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受伯克希爾哈撒韋公司13F檔案顯示增持股份影響，梅西百貨股價上漲1.2%。"
+    },
     {
       "id": "5041963",
       "time": "2026-08-15 04:17:51",
