@@ -1,7 +1,74 @@
 {
   "date": "2026-08-14",
-  "count": 2841,
+  "count": 2848,
   "items": [
+    {
+      "id": "5041811",
+      "time": "2026-08-14 23:35:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿里開源Qwen3.8，千問大模型全球下載超30億次】8月14日晚，阿里千問正式開源Qwen3.8系列模型，所有開發者、科研機構和企業均可自由下載、部署和使用。全新開源的Qwen3.8-27B，系原生多模態稠密（Dense）模型，僅270億引數規模，整體水平便超越了Qwen3.7-Plus，在程式設計及辦公的真實場景中表現出色。新模型響應速度快，完成質量高，部署便捷，量化後在“消費級”顯示卡上即可流暢執行，是最受全球AI社群期待的開源模型。Qwen3.8-27B採用寬鬆的Apache2.0協議開源，有望成為本地部署的主力模型。"
+    },
+    {
+      "id": "5041810",
+      "time": "2026-08-14 23:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "真主黨秘書長髮表講話。"
+    },
+    {
+      "id": "te:markets:575508",
+      "time": "2026-08-14 23:34:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Extends Gains to 5% This Week — Crude oil rose to $81.8 a barrel on Friday, gaining nearly 5% this week as the US increased economic pressure on Iran to reopen the Strait of Hormuz. Treasury Secretary Scott Bessent said Washington would impose unprecedented economic measures while maintaining its naval blockade of Iranian ports, with further announcements expected next week. The International Energy Agency also warned of a deeper global supply deficit, forecasting the widest shortfall in 2026 in five years. Meanwhile, Iran and Oman have yet to reach an agreement on reopening Hormuz, despite earlier optimism that a deal was close. US officials said American forces are increasing their ability to escort vessels through the strait, although shipping remains risky, with some tankers switching off transponders. In the Red Sea, Iran-backed Houthi militants also targeted Saudi Arabia’s Jazan refinery. Meanwhile, additional Middle Eastern crude is expected to reach the US, offering some relief to low inventories."
+    },
+    {
+      "id": "5041809",
+      "time": "2026-08-14 23:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪士尼執行長：沒有分拆 ESPN 或 ABC 的計劃。"
+    },
+    {
+      "id": "5041808",
+      "time": "2026-08-14 23:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：菲利普斯66與馬拉松的合併談判破裂。"
+    },
+    {
+      "id": "mkt:01a000e7-2734-7aab-9042-4486867518a9",
+      "time": "2026-08-14 23:32:23",
+      "tags": [
+        "MKT News",
+        "PSX.O",
+        "Impact bearish",
+        "MPC.O"
+      ],
+      "text": "Semafor reports merger talks between Phillips 66 and Marathon have broken down."
+    },
+    {
+      "id": "mkt:01a000e7-0ffa-7aab-9042-3aaaef808902",
+      "time": "2026-08-14 23:32:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PSX.N",
+        "Impact mixed",
+        "MPC.N"
+      ],
+      "text": "U.S. business outlet Semafor reports energy firms Phillips 66 and Marathon Petroleum held merger talks earlier this year."
+    },
     {
       "id": "5041807",
       "time": "2026-08-14 23:31:36",
