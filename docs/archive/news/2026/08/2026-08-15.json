@@ -1,7 +1,35 @@
 {
   "date": "2026-08-15",
-  "count": 58,
+  "count": 61,
   "items": [
+    {
+      "id": "5041846",
+      "time": "2026-08-15 00:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國據稱更傾向於對古巴施加經濟壓力，而不是動用軍事手段。"
+    },
+    {
+      "id": "te:economy:575525",
+      "time": "2026-08-15 00:48:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rebounds Toward 19-Month High — The yield on the 10-Year US Treasury note swung higher to the 4.7% mark on Friday, not far from the 19-month high of 4.75% tested earlier in the week on renewed aversion to bonds on the long end of the curve. Year-ahead inflation expectations compiled by the University of Michigan rose in August, a fifth month above the 4% level. This was aligned with lingering concerns that the Federal Reserve may be complacent to inflationary risks in the US economy, recently exacerbated by the surge in energy prices due to the war in the Middle East. Signals from Fed Chair Warsh that a rate hike may not be his preferred instrument against inflation drove long-dated yields to surge, with the 30-year bond rising to a 19-year high. Treasuries were also pressured by concerns that Japan could sell some of their ample reserves should the Ministry of Finance defend against a weak yen again. Treasuries undercame selling pressure despite softer-than-expected producer prices and weak retail sales data."
+    },
+    {
+      "id": "5041845",
+      "time": "2026-08-15 00:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大外長阿南德：加拿大對五名伊朗人實施額外製裁，實施制裁系因霍爾木茲海峽航運遭阻撓。"
+    },
     {
       "id": "5041844",
       "time": "2026-08-15 00:43:41",
