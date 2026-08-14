@@ -1,7 +1,463 @@
 {
   "date": "2026-08-14",
-  "count": 1043,
+  "count": 1092,
   "items": [
+    {
+      "id": "mkt:019ffe90-9755-7aab-9035-559de24a2604",
+      "time": "2026-08-14 12:38:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldman trader: market has flipped from fearing rate hikes to 'either outcome is bullish'; complacency rising】Goldman derivatives trader Shawn Tuteja says US equity sentiment reversed in two weeks from fearing the Fed, higher long‑end yields, geopolitics and supply to a 'either outcome is bullish' view on the September FOMC. Market reads a dovish‑leaning hike as stabilising the long end, and no hike as confirmation that strong earnings will broaden gains beyond AI. Client net exposures are at the 67th percentile over the past five years and total exposures at the 89th; SPX single‑day call volume hit a record ~4.0m contracts. Tuteja does not predict a large index decline but warns that when both policy outcomes are pre‑priced as positive, market cushioning against a hawkish surprise or renewed long‑yield upside is reduced, raising complacency risk."
+    },
+    {
+      "id": "te:markets:575274",
+      "time": "2026-08-14 12:38:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Falls to Over 2-Week Low — India’s BSE Sensex fell about 0.4% to 77,772 on Friday, reversing gains in the last session and reaching its lowest level since July 29, as investors remained cautious amid persistent Middle East tensions and elevated crude oil prices. Investor sentiment was also weighed by weakness in financial stocks after the Reserve Bank of India proposed loan-pricing changes that could reduce banks’ pricing flexibility and pressure loan yields and margins. Among individual stocks, Tata Motors Passenger Vehicles was under pressure, falling about 4.7% after the automaker reported an 80% drop in first-quarter profit, hurt by higher costs, foreign-exchange losses and weakness at Jaguar Land Rover. Meanwhile, LG Electronics India climbed about 6.8% after reporting a more than 27% rise in first-quarter profit and retaining its full-year revenue growth target, helped by strong summer demand for air conditioners and refrigerators. The benchmark is on track for a weekly decline of about 0.9%."
+    },
+    {
+      "id": "mkt:019ffe8f-fcd8-7aab-9035-4a803b431179",
+      "time": "2026-08-14 12:37:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were 286,000 tonnes and via Novorossiysk were 360,000 tonnes."
+    },
+    {
+      "id": "te:economy:575273",
+      "time": "2026-08-14 12:37:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Malaysia Current Account Surplus Widens in Q2 — Malaysia’s current account surplus widened sharply to MYR 10.8 billion in the second quarter of 2026 from MYR 2.7 billion a year earlier, driven primarily by a substantial increase in the goods surplus. The goods surplus more than doubled to MYR 40.7 billion from MYR 16.0 billion a year ago, reflecting stronger external trade performance. Meanwhile, the services deficit rose slightly to MYR 0.7 billion from MYR 0.5 billion, mainly due to higher net outflows in travel, manufacturing services on physical inputs owned by others, and telecommunications, computer and information services, which more than offset increases in transport, insurance and pension services, and other business services. The primary income deficit widened sharply to MYR 27.2 billion from MYR 9.5 billion, as both investment income and compensation of employees recorded larger declines. The secondary income deficit narrowed to MYR 2.1 billion from MYR 3.2 billion."
+    },
+    {
+      "id": "5040546",
+      "time": "2026-08-14 12:37:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "哈薩克輸油公司KazTransOil：7月哈薩克經裡海管道財團（CPC）管道出口石油27.1萬噸；7月哈薩克經俄羅斯烏斯季-盧加港出口石油28.6萬噸，經俄羅斯新羅西斯克港出口石油36萬噸；7月哈薩克經巴庫-第比利斯-傑伊漢（BTC）管道出口石油15.5萬噸。"
+    },
+    {
+      "id": "mkt:019ffe8f-4080-7aab-9035-426fb18411fa",
+      "time": "2026-08-14 12:37:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "KAZTRANSOIL said Kazakhstan's oil exports via the Baku-Tbilisi-Ceyhan pipeline were 155,000 tonnes in July."
+    },
+    {
+      "id": "mkt:019ffe8e-ec77-7aab-9035-3894ad11375a",
+      "time": "2026-08-14 12:36:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "KAZTRANSOIL said Kazakhstan's oil exports via the CPC pipeline reached 271,000 tonnes in July."
+    },
+    {
+      "id": "mkt:019ffe8e-e7ab-7aab-9035-3228745a4cbe",
+      "time": "2026-08-14 12:36:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dingdong Maicai to enter Hefei; plans 100+ new front warehouses in Yangtze River Delta by 2026】Dingdong Maicai will enter the Hefei market, opening three front warehouses in Baohe, Shushan and Yaohai districts. The company is densifying its Yangtze River Delta warehouse network and plans to add more than 100 front warehouses in the region by 2026."
+    },
+    {
+      "id": "5040545",
+      "time": "2026-08-14 12:35:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【叮咚買菜：將進駐合肥市場 今年長三角地區計劃新增超百個前置倉】8月14日，記者從公司獲悉，叮咚買菜將進駐合肥，首批3個前置倉同步落地包河、蜀山、瑤海三大城區。據介紹，叮咚買菜持續加密長三角倉網體系，2026年計劃再新增超100個前置倉。"
+    },
+    {
+      "id": "5040544",
+      "time": "2026-08-14 12:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【閃迪預計到2030財年底將實現強勁增長】根據本週投資者日公佈的目標，閃迪預計到2030財年底，收入的年增長率將達到10%區間中高段水平。這家儲存晶片製造商概述了一項雄心勃勃的長期財務計劃，預測在2028財年至2030財年期間，平均毛利率約為80%，營業利潤率接近75%。預計調整後自由現金流利潤率約為50%，而資本支出預計將保持在佔收入中等個位數的百分比水平。閃迪表示，計劃優先發展更可靠的大批次業務，同時重點關注重視其產品的戰略客戶。"
+    },
+    {
+      "id": "5040543",
+      "time": "2026-08-14 12:34:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【調查：新加坡7月份出口可能提速】根據接受媒體調查的五位經濟學家的預期中位數，新加坡7月份非石油國內出口可能增長26.50%，較6月份的20.7%有所加快。星展經濟學家在一份報告中表示，在對儲存晶片和伺服器相關產品強勁的人工智慧相關需求的支撐下，出口增長應會繼續由電子產品出貨量主導。他們補充說，在有利的基數效應下，非電子產品出口可能出現反彈，不過由於霍爾木茲海峽的持續干擾，石化產品出貨量預計將保持疲軟。該資料將於下週一公佈。"
+    },
+    {
+      "id": "5040542",
+      "time": "2026-08-14 12:33:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌創電機：公司訂單已排到2028年】據南京釋出，一個“小圓盤”正在全球動力市場掀起巨浪，它叫“軸向磁通電機”，最近在中國實現首次規模化量產。在南京市江寧湯山度假區，剛成立4年的南京凌創電機技術有限公司（簡稱“凌創電機”），自主研發的軸向磁通電機也迎來新進展。目前，公司訂單已排到2028年，產品在手訂單金額突破1000萬元，一條自動化軸向磁通電機產線預計年底投用。據悉，隨著年底自動化軸向磁通電機產線的投用，公司電機產能將增加至2萬臺，預計到2028年迎來大規模生產，電機年產能預計達到10萬臺。"
+    },
+    {
+      "id": "5040541",
+      "time": "2026-08-14 12:32:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：北約擊落一架進入拉脫維亞領空的無人機。"
+    },
+    {
+      "id": "mkt:019ffe88-799e-7aab-9035-2c8799d58b87",
+      "time": "2026-08-14 12:29:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC conducts 1 trillion yuan buyback reverse repo; experts say stance is prudent, mildly accommodative】The PBOC on Aug. 14 conducted a 1 trillion yuan buyback reverse repo via a fixed-amount, rate-bidding, multi-price tender. An equal 1 trillion yuan of six-month buyback reverse repos matured the same day, leaving outstanding buyback reverse repos at 6.3 trillion yuan. Oriental Jincheng chief macro analyst Wang Qing noted overnight money market rates (DR001) have traded below policy rates since Aug. 4, which may explain the decision not to expand the August 6M operation. CITIC Securities’ chief economist Mingming’s team said the large 6M rollover, combined with follow-up overnight reverse repos to protect liquidity, signals a prudent, mildly accommodative monetary policy orientation."
+    },
+    {
+      "id": "5040540",
+      "time": "2026-08-14 12:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統李在明：政府將負責確保恢復“慰安婦”受害者名譽】8月14日是世界“慰安婦”紀念日，韓國總統李在明當天在韓政府舉行的紀念儀式上表示，“直到現在，否定歷史、損害受害者名譽的反人權行為仍在繼續”，韓國政府“將始終負責到底，確保每一位受害者的名譽和尊嚴得到完整恢復”。韓國政府當天在位於首爾龍山區的白凡金九紀念館舉行了“慰安婦”紀念日紀念儀式，韓國總統秘書室室長姜勳植在儀式上宣讀了李在明的致辭。李在明在致辭中指出，“銘記真相，守護受害者尊嚴，創造一個不再讓此類悲劇重演的世界，這是我們這些生活在當下的人所能給予的最大敬意”。（央視）"
+    },
+    {
+      "id": "5040539",
+      "time": "2026-08-14 12:28:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1%，至9095.80。"
+    },
+    {
+      "id": "5040538",
+      "time": "2026-08-14 12:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾西部山體滑坡致10人死亡2人失蹤 】尼泊爾西部羅爾帕縣警方13日通報，持續強降雨引發的山體滑坡造成10人死亡，另有2人下落不明。通報說，滑坡12日晚發生在羅爾帕縣一處偏遠丘陵地帶，當地一個小村落幾乎被夷為平地。當地警方發言人什雷斯塔告訴新華社記者，救援人員在滑坡現場找到5具遇難者遺體，另有5具遺體在數公里外的比烏坦縣被發現。警方表示，搜救工作仍在進行中，因受災區域位置偏遠，相關工作面臨較大困難。"
+    },
+    {
+      "id": "5040537",
+      "time": "2026-08-14 12:26:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈薩克石油運輸公司：7月份向UST-LUGA的原油出口量下降16.9%。"
+    },
+    {
+      "id": "5040536",
+      "time": "2026-08-14 12:25:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果專門針對中國市場訓練了一款AI模型，該AI模型的訓練得到阿里巴巴的支援。蘋果未來幾個月將在中國發布一套AI工具。"
+    },
+    {
+      "id": "5040535",
+      "time": "2026-08-14 12:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今明兩天南方部分地區降雨持續 浙江成為強降雨中心】中央氣象臺預計，今天南方地區降雨範圍廣，強降雨分佈較為分散，中央氣象臺今天上午10時繼續釋出暴雨黃色預警。預計，今天14時至明天14時，江蘇、安徽、上海、浙江、湖北等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨；上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。明天，華東地區普遍為中到大雨，浙江成為強降雨中心，局地有暴雨或大暴雨。"
+    },
+    {
+      "id": "5040534",
+      "time": "2026-08-14 12:23:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "西聯匯款與Intermex：已收到加州金融保護與創新部（DPFI）信函，暫停批准該項收購的延期申請。"
+    },
+    {
+      "id": "5040533",
+      "time": "2026-08-14 12:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本防衛大臣將於8月17日至21日訪問澳大利亞和印度。"
+    },
+    {
+      "id": "te:economy:575268",
+      "time": "2026-08-14 12:21:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Malaysia Q2 GDP Growth Stronger Than Initially Thought — Malaysia’s economy expanded by 6% year-on-year in Q2 2026, higher than the initially estimated 5.8% and picking up from 5.4% growth in Q1. Activity strongly rebounded in mining and quarrying (9.2% vs -2.1% in Q1), mainly driven by a sharp expansion in natural gas production (19.3%). Output also rose faster in manufacturing (7.3% vs 5.9%) and services (5.9% vs 5.6%). On the other hand, output growth slowed in construction (6.5% vs 7.7%), while agriculture contracted (-3.7% vs 2.6%), primarily due to declines in oil palm (-9.5%) and fishing (-4.4%). On the expenditure side, growth picked up in household consumption (4.8% vs 4.7%) and government spending (7.6% vs 4.1%). Net trade also contributed positively to GDP, as exports climbed 17% (vs 5.2%), while imports rose at a softer 13.9% (vs 4.6%). Meanwhile, growth slowed in gross fixed capital formation (4.6% vs 7.3%). On a quarterly basis, GDP expanded 2.5%, the strongest growth since Q2 2020, after stagnating in Q1."
+    },
+    {
+      "id": "5040532",
+      "time": "2026-08-14 12:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，蘋果已專門針對中國市場訓練人工智慧模型。"
+    },
+    {
+      "id": "te:economy:575267",
+      "time": "2026-08-14 12:19:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Peru Trade Surplus Expands in June — Peru’s trade surplus widened to USD 3,169 million in June from USD 2,795 million in the corresponding month of the previous year. Exports grew 23.4% year-on-year to USD 8,906 million, driven by higher sales of traditional products (30.2%), non-traditional products (1.2%), and other products (157.6%). Imports surged 29.7% to USD 5,737 million, led by increases in consumer goods (23.1%), supplies (27.1%), and capital goods (39.2%), while imports of other goods declined 30.7%. In the first half of the year, Peru recorded a trade surplus of USD 22,756 million, expanding sharply from USD 13,306 million in the same period last year. Exports totaled USD 56,438 million, 37.6% higher than a year earlier, while imports amounted to USD 33,682 million, an increase of 21.5%."
+    },
+    {
+      "id": "5040531",
+      "time": "2026-08-14 12:19:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK海力士考慮合資建儲存晶片工廠 降低資本支出和產能過剩風險】SK集團董事長崔泰源接受媒體採訪時表示，SK海力士正考慮以合資方式建設新的儲存晶片工廠，以降低傳統行業盛衰週期下鉅額資本支出和產能過剩帶來的風險。崔泰源還警告稱，目前儲存晶片供應緊張的局面將在2027年進一步加劇。"
+    },
+    {
+      "id": "5040530",
+      "time": "2026-08-14 12:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "據知情人士透露，亞洲私募股權公司Trustar Capital正接近達成收購阿里巴巴集團遊戲業務的交易。上述人士表示，Trustar已擊敗包括其他遊戲開發商在內的多家競購方，成為收購靈犀互娛（Lingxi Games）最有可能的買家。由於資訊敏感，這些人士要求匿名。此次交易可能使該工作室估值超過15億美元。他們還表示，目前相關談判仍在進行中，尚未做出最終決定。"
+    },
+    {
+      "id": "te:markets:575264",
+      "time": "2026-08-14 12:17:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Rises on Improving Fundamentals — Iron ore futures climbed above CNY 710 per ton, recovering modestly from multi-month lows as signs of tightening supply and improving steel demand in top consumer China provided support. Industry data showed iron ore inventories at major Chinese ports edged down to around 156.8 million tons, pointing to potentially tighter supply conditions in the coming weeks. Daily hot metal production at Chinese steel mills also increased to 2.38 million tons, up 0.17 million tons from the previous week, while mill profitability improved to 33.77%, rising 1.74 percentage points from the previous month. Meanwhile, the People’s Bank of China is set to conduct a 1 trillion yuan reverse repurchase operation, which could provide additional support to economic activity by improving liquidity and credit availability."
+    },
+    {
+      "id": "mkt:019ffe7c-875b-7aab-9035-20f51f5cddcc",
+      "time": "2026-08-14 12:16:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "Hang Seng Index",
+        "Impact bearish",
+        "09618.HK",
+        "00001.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng slips 0.93% as JD.com falls over 10% post-results】Hang Seng Index extended weakness, opening about 200 points down, briefly cutting losses to under 100 before resuming decline; at the midday close the index fell 0.93% to 25,160.25. Hang Seng Tech Index lost 1.79% to 4,706.73. Market turnover was HKD 135.7 bln. Sector flows: gold and nonferrous metals outperformed, optical communications and memory-chip names popped then faded, while internet and innovative-drug stocks weakened. Notable movers: China Gold International (02099.HK) +12.93%, GigaDevice Semiconductor (03986.HK) +2.30%, SMIC (00981.HK) +1.92% after results, JD.com (09618.HK) -10.08% post-results, CK Hutchison (00001.HK) -5.12% post-results, Akeso (09926.HK) -6.08%."
+    },
+    {
+      "id": "mkt:019ffe7b-f057-7aab-9035-1a29d625b244",
+      "time": "2026-08-14 12:16:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "GS.O"
+      ],
+      "text": "【Goldman in talks to join NVIDIA $500 billion AI financing plan - sources】Goldman Sachs is negotiating with potential investors to participate in NVIDIA’s roughly $500 billion third‑party capital raise for AI infrastructure, people familiar with the matter said. Sources said U.S. insurers, asset managers and banks are expected to form the core investor group, and asset managers plan to take a large share. NVIDIA on Aug. 10 said it had partnered with six major financial firms, including Goldman, to launch a computing platform aimed at raising over $500 billion for AI infrastructure. One source said Goldman Asset Management could supply subordinated capital and private credit, while Goldman’s investment banking arm could help allocate debt to private credit funds and ultimately into the public bond market."
+    },
+    {
+      "id": "te:economy:575262",
+      "time": "2026-08-14 12:15:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Foreign Direct Investment",
+        "Importance 1"
+      ],
+      "text": "Malaysia Q2 FDI Inflows Fall to One-Year Low — Malaysia’s foreign direct investment (FDI) inflows dropped sharply to MYR 7.4 billion in Q2 2026 from MYR 22.8 billion in the previous quarter, marking the lowest level since Q2 2025. The sharp quarterly drop suggested that Malaysia’s FDI performance remained vulnerable to a more cautious global investment environment. By sector, FDI was mainly channelled into services, particularly the information & communication subsector, while manufacturing and construction were the next-largest recipients. Investment was led by China, Hong Kong and Singapore."
+    },
+    {
+      "id": "5040529",
+      "time": "2026-08-14 12:14:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南漣源市楊梅山煤礦發生一起瓦斯突出事故 7人失聯】2026年8月14日5時08分，湖南漣源市楊梅山煤礦發生一起瓦斯突出事故。初步查明，當班入井作業人員52人，安全出井44人，失聯7人，1人正在搶救。目前，市縣兩級已組織應急、衛健等相關部門現場開展應急救援處置工作，事故原因正在進一步調查。"
+    },
+    {
+      "id": "5040528",
+      "time": "2026-08-14 12:14:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元最新報95.40，較前收盤價95.44微幅走強。"
+    },
+    {
+      "id": "5040527",
+      "time": "2026-08-14 12:14:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行可能賣出美元以支撐盧比。"
+    },
+    {
+      "id": "mkt:019ffe79-67be-7aab-9035-12a699a76e6f",
+      "time": "2026-08-14 12:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Financial Times, the head of U.S. asset manager T Rowe Price said reversing large fund outflows will take \"several years\", as competition from passive investing continues to put downward pressure on fees for active managers."
+    },
+    {
+      "id": "5040526",
+      "time": "2026-08-14 12:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【淮河防總、淮委針對河南省淮北支流沙潁河、洪汝河水系提升防汛應急響應至二級】目前沙潁河、洪汝河部分河段超警、超保執行，預計高水位行洪仍將維持較長時間，堤防防守壓力大。根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委定於8月14日10時將河南省淮北支流沙潁河、洪汝河水系的防汛應急響應提升至二級、洪水防禦應急響應提升至Ⅱ級。"
+    },
+    {
+      "id": "5040525",
+      "time": "2026-08-14 12:11:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：我決心以高效、改進的方式繼續推行免費餐食計劃。"
+    },
+    {
+      "id": "5040524",
+      "time": "2026-08-14 12:11:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原山東鋼鐵集團房地產有限公司董事長王文學接受紀律審查和監察調查】8月14日，莒縣紀委監委通報，原山東鋼鐵集團房地產有限公司黨委書記、董事長、總經理王文學涉嫌嚴重違紀違法，目前正接受山東鋼鐵集團有限公司紀委紀律審查和莒縣監察委員會監察調查。"
+    },
+    {
+      "id": "5040523",
+      "time": "2026-08-14 12:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "西聯匯款與INTERMEX將與加州金融保護與創新部接洽，尋求恢復批准。"
+    },
+    {
+      "id": "5040522",
+      "time": "2026-08-14 12:10:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普要五角大樓重振美國艦船工業 】美國白宮網站13日釋出訊息說，總統特朗普當天簽署一份國家安全總統備忘錄，指示國防部重振艦船工業，解決艦船製造和維護方面的長期問題，並恢復產能和競爭力。備忘錄要求國防部以“芬蘭模式”為基礎，對美國造船業的工業基礎加大直接投資。白宮表示，“芬蘭模式”首先被美國海岸警衛隊的中型破冰船專案所採用。根據這一模式，如外國造船商對美國造船廠進行大量持久的投資，且由此創造工作崗位並培訓美國勞動力，那麼這些外國造船商將被暫時允許在其位於美國境外的母公司為美方建造最多兩艘船。這些船將被快速交付以填補空缺，而美國防部訂單中的其他船隻將在“恢復活力”後的美國造船廠建造。備忘錄還指示國防部建立第五座海軍造船廠，以提升潛艇和航空母艦的維修能力。這將是美國80多年來第一次新建海軍造船廠。備忘錄還要求建立一個部件維修中心，以儲存和翻新關鍵的潛艇部件。"
+    },
+    {
+      "id": "5040521",
+      "time": "2026-08-14 12:09:53",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【京東擴大跌幅至逾10% 此前錄得上市以來首次季度營收下滑】京東周五在香港一度擴大跌幅至逾10%，股價重新整理一個月以來的低點。公司週四釋出的財報顯示第二季度營收下降2.9%，是京東自2014年在美國上市以來首次出現季度營收下滑。截至午間收盤，京東港股(9618 HK)下挫10.08%，報110.60港元；香港恒生指數跌0.9%。"
+    },
+    {
+      "id": "mkt:019ffe75-a921-7aab-9035-0fcdc024dccf",
+      "time": "2026-08-14 12:09:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Negara Malaysia said El Niño effects typically lag and it expects to see greater impact next year."
+    },
+    {
+      "id": "mkt:019ffe75-8962-7aab-9035-035733e3b1cc",
+      "time": "2026-08-14 12:09:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank Negara Malaysia said El Niño impacts are typically lagged and it expects more pronounced effects next year."
+    },
+    {
+      "id": "te:markets:575260",
+      "time": "2026-08-14 12:08:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hang Seng Falls to 3-Week Low — The Hang Seng Index fell about 0.9% to 25,160 on Friday, marking its fourth consecutive session of losses and hitting its lowest level since July 24, as technology stocks remained under pressure and investors stayed cautious amid lingering geopolitical uncertainty. Meituan fell 1.4%, while Alibaba and Tencent dropped 1.1% and 2.9%, respectively. Lenovo retreated 4.2% after reaching an all-time high in the previous session. In the broader market, JD.com plunged 6.5% at the open after the e-commerce giant reported a decline in interim profit, making it the worst-performing blue-chip stock, adding to pressure on tech sector. On the upside, Semiconductor Manufacturing rose 4.7% after reporting a sharp increase in second-quarter profit, making it the strongest-performing Hang Seng constituent at the open, while Shanghai Iluvatar rose 3.6%. On the data front, Hong Kong’s annual GDP growth rate for Q2 is due later today, with expectations of 4.3%, easing from 5.9% in the prior quarter."
+    },
+    {
+      "id": "5040520",
+      "time": "2026-08-14 12:07:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：厄爾尼諾現象的影響通常存在滯後性，預計其影響明年會進一步顯現。"
+    },
+    {
+      "id": "5040519",
+      "time": "2026-08-14 12:07:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.93%，恒生科技指數跌1.79%】港股午間收盤，恒生指數跌0.93%，恒生科技指數跌1.79%。恒指港股通ETF銀華（159318）跌0.76%，港股通科技ETF鵬華（159751）跌1.21%。板塊方面，冶鋼原料、航空貨運板塊漲幅靠前；人力資源服務、藥店板塊跌幅靠前。個股方面，中國黃金國際漲12.93%，萬國資料-SW漲12.69%，邁富時漲11.42%，布魯可漲9.3%，納芯微漲8.66%；京東物流跌12.91%，龍旗科技跌12.57%，華虹宏力跌12.3%，京東集團-SWR跌10.29%，京東集團-SW跌10.08%。"
+    },
+    {
+      "id": "5040518",
+      "time": "2026-08-14 12:07:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受日元干預擔憂影響 外國投資者連續第二週淨賣出日股】在截至8月8日止的一週，外國投資者連續第二週拋售日本股票，因市場預期當局將進一步採取支撐日元的措施，這削弱了投資人對日本股市的買盤意願。日本財務省資料顯示，該周外國投資者淨賣出價值3,685億日元（合23.1億美元）的日本股票，此前一週為淨賣出3,925億日元。上週，日本財務省表示，美國與日本已協同進行買入日元的干預行動，並將毫不猶豫地採取進一步措施。在干預行動後，日元上週一度觸及155.21日元兌1美元的近三個月高點。最新交易價為159.43日元兌1美元。日元升值會提高外國投資人所持日本資產的美元價值，但同時也會降低他們以美元購買新股的購買力。"
+    },
+    {
+      "id": "5040517",
+      "time": "2026-08-14 12:05:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "據英國金融時報報導，摩根大通去年因監管擔憂終止了與Polymarket的銀行業務關係。"
+    },
+    {
+      "id": "5040516",
+      "time": "2026-08-14 12:05:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛上調閃迪、應用材料目標價】加拿大皇家銀行將應用材料公司目標價從520美元上調至600美元；將閃迪目標股價從1300美元上調至1600美元。"
+    },
     {
       "id": "mkt:019ffe71-d11e-7aab-9034-fb37e209d87b",
       "time": "2026-08-14 12:04:59",
