@@ -1,7 +1,43 @@
 {
   "date": "2026-08-14",
-  "count": 1318,
+  "count": 1333,
   "items": [
+    {
+      "id": "mkt:019fff0a-c466-7aab-9037-dea1c3d6ef5c",
+      "time": "2026-08-14 14:52:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "RIA reported Russian drones destroyed a Ukrainian drone-assembly workshop in the Kherson region."
+    },
+    {
+      "id": "5040695",
+      "time": "2026-08-14 14:51:55",
+      "tags": [
+        "行業"
+      ],
+      "text": "【告別長租時代：六成高管認為AI讓未來辦公需求難以預測，企業加速擁抱靈活辦公已成共識】8月14日，IWG集團針對企業核心高管（CEO與CFO）的最新調查顯示，人工智慧（AI）正在以前所未有的速度重塑商業形態，88%的受訪CEO稱，面對AI帶來的劇烈技術變革，組織在辦公空間和地產策略上必須保持極高的靈活性。其中，超過半數（57%）的高管正在加碼投資混合辦公安排。具體而言，55%正考慮在員工居住地附近鋪設辦公網點，52%正在推行去中心化的辦公模式。"
+    },
+    {
+      "id": "5040694",
+      "time": "2026-08-14 14:50:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【稀土板塊午後走強！稀土ETF易方達（159715）漲2.53%，中國稀土漲停、北方稀土漲超3%】截至2026年08月14日14:30，稀土ETF易方達（159715）上漲2.53%，報1.216元，盤中最高觸及1.222元，創日內新高，半日成交額達7408.59萬元，量能較前一交易日明顯放大。"
+    },
+    {
+      "id": "5040693",
+      "time": "2026-08-14 14:49:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中石化旗下長城燃氣投資公司增資至8.2億 增幅約715%】天眼查工商資訊顯示，近日，中石化長城燃氣投資有限公司發生工商變更，註冊資本由1億人民幣增至約8.2億人民幣，增幅約715%。該公司成立於2017年10月，法定代表人為董賢勇，經營範圍包括燃氣經營、專案投資、貨物進出口等，由中國石油化工股份有限公司全資持股。"
+    },
     {
       "id": "5040692",
       "time": "2026-08-14 14:47:51",
@@ -9,6 +45,16 @@
         "公司"
       ],
       "text": "【亞星錨鏈在海南成立船舶公司】企查查APP顯示，海南亞星一號船舶有限公司成立，法定代表人為劉斌，經營範圍包含從事國際集裝箱船、普通貨船運輸；國際船舶管理業務；國際班輪運輸等。企查查股權穿透顯示，該公司由亞星錨鏈間接全資持股。"
+    },
+    {
+      "id": "mkt:019fff06-af6f-7aab-9037-d03033de5860",
+      "time": "2026-08-14 14:47:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Romania's prime minister said assessments indicate the national electricity supply would not be affected by a full shutdown of the nuclear power plant."
     },
     {
       "id": "5040691",
@@ -44,6 +90,36 @@
       "text": "【深汕特別合作區解除雷電預警和暴雨黃色預警訊號】雷雨雲團已減弱，強降雨趨於結束，深圳市氣象臺2026年08月14日14時45分解除深汕特別合作區、深汕海域雷電預警和暴雨黃色預警訊號。市民仍需注意遠離河道和危險邊坡等。"
     },
     {
+      "id": "mkt:019fff05-bd4c-7aab-9037-cf59ef5e0db9",
+      "time": "2026-08-14 14:46:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France July CPI final MoM 0.6% vs 0.6% expected; June 0.60%."
+    },
+    {
+      "id": "mkt:019fff05-a1bf-7aab-9037-c595be616a98",
+      "time": "2026-08-14 14:46:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | CPI (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608143841682735",
+      "time": "2026-08-14 14:45:59",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "法國7月CPI同比增長2.1%，預期2.1%。"
+    },
+    {
       "id": "5040687",
       "time": "2026-08-14 14:45:52",
       "tags": [
@@ -53,12 +129,78 @@
       "text": "【南亞據報將再調漲20%銅箔基板基材售價 公司回應】今日市場流傳，南亞向客戶發出漲價函，因應銅箔、玻纖布、樹脂等原材料成本大幅上漲，基板和基材售價將分別調漲20%，自9月1日起生效。南亞今日表示，漲價屬實，今年以來已多次因應材料成本上漲，與客戶協商調整產品價格。不過，該份檔案並非公司正式對外發出的漲價通知，公司並未全面性、一次性向客戶調漲20%價格。"
     },
     {
+      "id": "mkt:019fff04-ef07-7aab-9037-bb995ae01928",
+      "time": "2026-08-14 14:45:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France July CPI final YoY 2.1% (consensus 2.1%); June 2.1%."
+    },
+    {
+      "id": "mkt:019fff04-cf56-7aab-9037-b0762854f28f",
+      "time": "2026-08-14 14:45:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | CPI (YoY) (Jul) | actual 2.1% | consensus 2.1% | previous 2.10%"
+    },
+    {
+      "id": "mkt:019fff04-b33a-7aab-9037-ac2f0a3c66cf",
+      "time": "2026-08-14 14:45:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Central Command denies push for new strikes on Iran】US Central Command (CENTCOM) spokesman Tim Hawkins denied reports in the Jerusalem Post on the 14th that CENTCOM commander Brad Cooper was pushing for a new round of strikes on Iran, calling the reports \"pure fabrication\" and \"not true\"."
+    },
+    {
       "id": "5040686",
       "time": "2026-08-14 14:45:22",
       "tags": [
         "資料"
       ],
       "text": "法國7月CPI環比終值 0.6%，預期 0.6%，初值 0.6%。\n法國7月CPI同比終值 2.1%，預期 2.1%，初值 2.1%。\n法國7月調和CPI環比終值 0.6%，預期 0.6%，初值 0.6%。"
+    },
+    {
+      "id": "mkt:019fff04-6ce1-7aab-9037-a169e1b2612a",
+      "time": "2026-08-14 14:45:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France July harmonized consumer price index (HICP) final YoY 2.4%; consensus 2.4%; prior 2.4%."
+    },
+    {
+      "id": "mkt:019fff04-6c46-7aab-9037-9e40dfd6503f",
+      "time": "2026-08-14 14:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France July harmonized CPI final, MoM +0.6% (expected +0.6%; June +0.60%)."
+    },
+    {
+      "id": "mkt:019fff04-4f17-7aab-9037-94cf23cf8548",
+      "time": "2026-08-14 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | HICP (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019fff04-4ef9-7aab-9037-8fd990f8c548",
+      "time": "2026-08-14 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | HICP (YoY) (Jul) | actual 2.4% | consensus 2.4% | previous 2.40%"
     },
     {
       "id": "te:economy:575318",
