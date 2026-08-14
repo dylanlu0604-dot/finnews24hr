@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 325,
+  "count": 328,
   "items": [
+    {
+      "id": "mkt:01a0021b-fba9-7aab-9046-4884b0282964",
+      "time": "2026-08-15 05:09:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to the Iranian Students' News Agency (ISNA), Iranian foreign minister Araghchi said Iran has not decided whether to resume talks with the United States. Qatar and Pakistan, acting as coordinators, are exchanging information with Iran, but that does not mean the US and Iran have entered negotiations."
+    },
+    {
+      "id": "5041999",
+      "time": "2026-08-15 05:08:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "ANTHROPICO公司在IPO前夕，初步預測2026年第二季度營收將超過115億美元。"
+    },
+    {
+      "id": "5041998",
+      "time": "2026-08-15 05:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊稱，調解方卡達和巴基斯坦正與伊朗交換資訊，但這並不意味著進行談判。"
+    },
     {
       "id": "5041997",
       "time": "2026-08-15 05:05:57",

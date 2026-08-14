@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 05:06:45",
-  "count": 15293,
+  "updated": "2026-08-15 05:10:41",
+  "count": 15295,
   "items": [
+    {
+      "id": "mkt:01a0021b-fba9-7aab-9046-4884b0282964",
+      "time": "2026-08-15 05:09:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to the Iranian Students' News Agency (ISNA), Iranian foreign minister Araghchi said Iran has not decided whether to resume talks with the United States. Qatar and Pakistan, acting as coordinators, are exchanging information with Iran, but that does not mean the US and Iran have entered negotiations."
+    },
+    {
+      "id": "5041999",
+      "time": "2026-08-15 05:08:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "ANTHROPICO公司在IPO前夕，初步預測2026年第二季度營收將超過115億美元。"
+    },
+    {
+      "id": "5041998",
+      "time": "2026-08-15 05:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊稱，調解方卡達和巴基斯坦正與伊朗交換資訊，但這並不意味著進行談判。"
+    },
     {
       "id": "5041997",
       "time": "2026-08-15 05:05:57",
@@ -139993,14 +140019,6 @@
         "市場"
       ],
       "text": "週五（8月7日）紐約尾盤，標普500股指期貨最終漲0.56%，道指期貨漲0.24%，納斯達克100股指期貨漲1.16%。羅素2000股指期貨漲1.07%。"
-    },
-    {
-      "id": "5031646",
-      "time": "2026-08-08 05:07:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國俄勒岡州州長蒂娜·科特克表示：支援地方層面暫停資料中心開發專案，直至諮詢委員會的相關建議可供審議。"
     }
   ]
 }
