@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-15 00:01:06",
-  "count": 15332,
+  "updated": "2026-08-15 00:05:07",
+  "count": 15335,
   "items": [
+    {
+      "id": "mkt:01a00103-cddc-7aab-9042-7ca4173bb991",
+      "time": "2026-08-15 00:03:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zambia's Electoral Commission resumes vote counting."
+    },
+    {
+      "id": "5041820",
+      "time": "2026-08-15 00:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "受政治擔憂影響，巴西雷亞爾跌至 3 月以來最低水平。"
+    },
+    {
+      "id": "mkt:01a00102-e138-7aab-9042-75bf04095f79",
+      "time": "2026-08-15 00:02:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TASS reports Russia says farmers have adequate fuel supplies for harvest operations."
+    },
+    {
+      "id": "5041819",
+      "time": "2026-08-15 00:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯表示農民擁有充足燃料用於收割作業。"
+    },
+    {
+      "id": "5041818",
+      "time": "2026-08-15 00:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "利物浦足球俱樂部向含貝索斯在內的財團出售約 30% 股份。"
+    },
     {
       "id": "mkt:01a000fc-dd7c-7aab-9042-6e5c49f81035",
       "time": "2026-08-14 23:56:06",
@@ -140239,26 +140281,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 0.39% Higher — The FTSE 100 Index gained 42 points or 0.39 percent on Friday to close at 10910 points. Gains were led by Fresnillo (5.33%), Endeavour (4.06%) and Diageo (3.23%). Biggest losers were Burberry (-1.30%), Glencore (-1.14%) and Shell (-1.13%)."
-    },
-    {
-      "id": "mkt:019fdcf7-2fb7-7aab-8fbd-efb2bd846d80",
-      "time": "2026-08-08 00:03:34",
-      "tags": [
-        "MKT News",
-        "GD.O"
-      ],
-      "text": "A unit of General Dynamics signed an agreement with the U.S. General Services Administration to provide enterprise IT and cybersecurity services to the Army National Guard and other federal partners."
-    },
-    {
-      "id": "mkt:019fdcf5-4dfd-7aab-8fbd-e117ee0667a6",
-      "time": "2026-08-08 00:01:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran deputy foreign minister: Persian Gulf security should be maintained by regional states】On Aug. 7 local time, Iran’s deputy foreign minister said Persian Gulf security should be maintained by regional states and urged resolving regional security issues without external interference. He said Iran has submitted and recorded evidence with the UN Security Council showing some attacks on Iran originated from other countries’ territory, including several direct strikes. Based on current information, he added, regional states now recognize that escalation and continued military operations would seriously threaten their security, and conditions are ripe to resume security talks among Persian Gulf states."
     }
   ]
 }

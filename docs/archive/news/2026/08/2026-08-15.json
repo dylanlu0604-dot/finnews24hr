@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-15",
+  "count": 5,
+  "items": [
+    {
+      "id": "mkt:01a00103-cddc-7aab-9042-7ca4173bb991",
+      "time": "2026-08-15 00:03:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zambia's Electoral Commission resumes vote counting."
+    },
+    {
+      "id": "5041820",
+      "time": "2026-08-15 00:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "受政治擔憂影響，巴西雷亞爾跌至 3 月以來最低水平。"
+    },
+    {
+      "id": "mkt:01a00102-e138-7aab-9042-75bf04095f79",
+      "time": "2026-08-15 00:02:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TASS reports Russia says farmers have adequate fuel supplies for harvest operations."
+    },
+    {
+      "id": "5041819",
+      "time": "2026-08-15 00:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯表示農民擁有充足燃料用於收割作業。"
+    },
+    {
+      "id": "5041818",
+      "time": "2026-08-15 00:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "利物浦足球俱樂部向含貝索斯在內的財團出售約 30% 股份。"
+    }
+  ]
+}
