@@ -1,7 +1,55 @@
 {
   "date": "2026-08-14",
-  "count": 2561,
+  "count": 2566,
   "items": [
+    {
+      "id": "mkt:01a0006d-7b09-7aab-903f-aebcf2bddd96",
+      "time": "2026-08-14 21:19:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On Islamic Resistance Day, Iran deputy foreign minister Gharibabadi said the observance underscores resisting aggression and defeating calculations based on force, and that regional developments again show popular resistance remains a decisive factor in the regional order."
+    },
+    {
+      "id": "te:markets:575489",
+      "time": "2026-08-14 21:18:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Estonia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Estonia Hit Near 5-year High — Tallinn increased to 2161.00 Index Points, the highest since September 2021. Over the past 4 weeks, Estonia Stock Market Index (Tallinn) gained 1.66%, and in the last 12 months, it increased 5.85%."
+    },
+    {
+      "id": "5041618",
+      "time": "2026-08-14 21:17:55",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗銀行在新興市場套利籃子中用蘭特替代巴西雷亞爾】花旗集團在其新興市場套利組合中用南非蘭特取代巴西雷亞爾，理由是南美國家面臨選舉風險以及黃金價格上漲。包括德克·威勒在內的策略師在給客戶的報告中寫道。他們寫道：“我們預計，在首輪選舉前，巴西資產將出現適度的風險溢價。”預計美聯儲更為鴿派的貨幣政策調整將支撐金價，儘管伊朗風險使金價上漲的勢頭更加強勁。“蘭特在黃金價格上漲期間表現顯著優於其他貨幣”預計南非儲備銀行將進一步加息，這也將支撐蘭特匯率。策略師們最近紛紛做多南非蘭特。"
+    },
+    {
+      "id": "5041617",
+      "time": "2026-08-14 21:16:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩洛哥發生涉中國留學生人身傷害案 我使館啟動應急處置機制】中國駐摩洛哥使館14日通報，當地時間13日晚，摩洛哥拉巴特發生一起涉中國留學生人身傷害案件。我使館接到求助後，第一時間啟動領事保護應急處置機制，已安排領事官員前往醫院探望受傷留學生，向當事人提供必要協助，積極協調摩相關部門依法立案偵查。根據通報，相關留學生目前正在接受治療，身體情況穩定。摩警方正在偵辦此案。我使館將密切關注案件進展，切實維護中國公民在摩合法權益。（央視新聞）"
+    },
+    {
+      "id": "5041616",
+      "time": "2026-08-14 21:15:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛麗捨宮：法國政府將繼續推進社交媒體改革相關工作。"
+    },
     {
       "id": "5041614",
       "time": "2026-08-14 21:15:21",

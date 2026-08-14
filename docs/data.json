@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-14 21:16:28",
+  "updated": "2026-08-14 21:20:22",
   "count": 15326,
   "items": [
+    {
+      "id": "mkt:01a0006d-7b09-7aab-903f-aebcf2bddd96",
+      "time": "2026-08-14 21:19:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On Islamic Resistance Day, Iran deputy foreign minister Gharibabadi said the observance underscores resisting aggression and defeating calculations based on force, and that regional developments again show popular resistance remains a decisive factor in the regional order."
+    },
+    {
+      "id": "te:markets:575489",
+      "time": "2026-08-14 21:18:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Estonia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Estonia Hit Near 5-year High — Tallinn increased to 2161.00 Index Points, the highest since September 2021. Over the past 4 weeks, Estonia Stock Market Index (Tallinn) gained 1.66%, and in the last 12 months, it increased 5.85%."
+    },
+    {
+      "id": "5041618",
+      "time": "2026-08-14 21:17:55",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗銀行在新興市場套利籃子中用蘭特替代巴西雷亞爾】花旗集團在其新興市場套利組合中用南非蘭特取代巴西雷亞爾，理由是南美國家面臨選舉風險以及黃金價格上漲。包括德克·威勒在內的策略師在給客戶的報告中寫道。他們寫道：“我們預計，在首輪選舉前，巴西資產將出現適度的風險溢價。”預計美聯儲更為鴿派的貨幣政策調整將支撐金價，儘管伊朗風險使金價上漲的勢頭更加強勁。“蘭特在黃金價格上漲期間表現顯著優於其他貨幣”預計南非儲備銀行將進一步加息，這也將支撐蘭特匯率。策略師們最近紛紛做多南非蘭特。"
+    },
+    {
+      "id": "5041617",
+      "time": "2026-08-14 21:16:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩洛哥發生涉中國留學生人身傷害案 我使館啟動應急處置機制】中國駐摩洛哥使館14日通報，當地時間13日晚，摩洛哥拉巴特發生一起涉中國留學生人身傷害案件。我使館接到求助後，第一時間啟動領事保護應急處置機制，已安排領事官員前往醫院探望受傷留學生，向當事人提供必要協助，積極協調摩相關部門依法立案偵查。根據通報，相關留學生目前正在接受治療，身體情況穩定。摩警方正在偵辦此案。我使館將密切關注案件進展，切實維護中國公民在摩合法權益。（央視新聞）"
+    },
+    {
+      "id": "5041616",
+      "time": "2026-08-14 21:15:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛麗捨宮：法國政府將繼續推進社交媒體改革相關工作。"
+    },
     {
       "id": "5041614",
       "time": "2026-08-14 21:15:21",
@@ -140179,54 +140227,6 @@
         "國際"
       ],
       "text": "美國食品藥品監督管理局（FDA）已批准Clik Extra傷口噴霧可用於多個動物物種的緊急使用授權。"
-    },
-    {
-      "id": "mkt:019fdc61-b1f6-7aab-8fbb-3e90cb47f28a",
-      "time": "2026-08-07 21:20:17",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan's finance minister Satsuki Katayama: US and Japan in close contact, will intervene again if needed】Japan's finance minister Satsuki Katayama told NHK that Tokyo and Washington have been in close contact and would not hesitate to intervene in the FX market again if necessary. She said both sides view recent yen weakness as largely driven by years of yen-arbitrage and speculative flows rather than demand-driven transactions. Katayama added both governments are prepared to act without hesitation and that Japan will explain how its macro and micro policies support a stronger yen."
-    },
-    {
-      "id": "5031239",
-      "time": "2026-08-07 21:19:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：期限為3至5年的新增海外外匯存款預付款，在計算優先行業貸款目標的調整後銀行淨信貸時將予以豁免。"
-    },
-    {
-      "id": "5031237",
-      "time": "2026-08-07 21:17:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西ALPARGATAS公司第二季度盈利超預期，股價飆升14%。"
-    },
-    {
-      "id": "5031236",
-      "time": "2026-08-07 21:16:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【宏碁7月營收創下近13年來同期新高】8月7日，宏碁公佈，2026年7月合併營收新臺幣269.04億元，同比增長21.9%；今年前7月營收新臺幣1846.31億元、同比增長23.1%，皆創下近13年來同期新高。"
-    },
-    {
-      "id": "te:economy:573819",
-      "time": "2026-08-07 21:16:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Used Car Prices MoM",
-        "Importance 1"
-      ],
-      "text": "US Used Car Prices Fall in July — The Manheim Used Vehicle Value Index, a widely followed measure of wholesale used-vehicle prices in the US market, decreased 1.4% month-over-month in July 2026, the first decline in three months, after edging up 0.1% in June. EV prices decreased 2.1% and non-EV were down 1.1%. Year-on-year, used-vehicle prices increased 1.3%, the smallest annual gain so far this year, led by rises in EVs (10.5%) and compact cars (4.1%). Prices also increased slightly for non-EVs (0.4%) and luxury (0.8%). In contrast, decreases were seen for pickups (-2.3%), SUVs (-1.7%) and midsize cars (-1.4%). “Wholesale values kept normalizing through July, continuing the pattern since the spring bounce peaked in March\", according to Jonathan Gregory, Senior Director, Cox Automotive. \"Gas prices reversed course and moved higher again as July went on, after briefly easing in June. That’s kept demand for used EVs firm even as the broader market cools\", he added."
     }
   ]
 }
