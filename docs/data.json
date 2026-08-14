@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-14 21:20:22",
-  "count": 15326,
+  "updated": "2026-08-14 21:24:15",
+  "count": 15318,
   "items": [
+    {
+      "id": "mkt:01a00071-22ee-7aab-903f-b3cc91b9b4f4",
+      "time": "2026-08-14 21:23:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner will meet Israeli Prime Minister Netanyahu during a visit to Israel."
+    },
+    {
+      "id": "5041622",
+      "time": "2026-08-14 21:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西經濟部官員：針對美國關稅的反制措施不一定會推出。"
+    },
+    {
+      "id": "5041621",
+      "time": "2026-08-14 21:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普女婿庫什納將在訪問以色列期間與內塔尼亞胡會面。"
+    },
+    {
+      "id": "5041620",
+      "time": "2026-08-14 21:22:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "油輪追蹤機構訊息：今日，一艘伊朗國家油輪公司的超大型油輪在伊朗哈爾格島的阿扎爾帕德碼頭裝載 200 萬桶原油。儘管這是 7 月末以來該島嶼觀測到的首次裝油作業，但伊朗仍在其他碼頭持續開展油輪裝貨。即便如此，伊朗石油產量大致與該國煉廠加工量（國內消費）持平，這意味著該國或無需大量出口原油。"
+    },
+    {
+      "id": "5041619",
+      "time": "2026-08-14 21:20:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國“是否完全控制霍爾木茲海峽”？美能源部長閃爍其詞】當地時間8月13日，在美國福克斯新聞臺一檔節目中，主持人就“美國是否完全控制霍爾木茲海峽”提問。然而，美國能源部長克里斯·賴特卻花了近40秒，先是指責伊朗“試圖綁架世界經濟”，然後又否定伊朗的戰略，回答過程中還多次自問自答，卻始終沒有正面回答“是”或“否”。#美能源部長說不出完全控制霍爾木茲# 賴特只是稱，伊朗在霍爾木茲海峽製造麻煩的能力在減弱，美國護送並運出貨物的能力在變強。聽完這洋洋灑灑的發言，主持人最終下結論：“我覺得這聽起來不像是完全掌控。” （CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a0006d-7b09-7aab-903f-aebcf2bddd96",
       "time": "2026-08-14 21:19:29",
@@ -140106,127 +140147,6 @@
         "其他"
       ],
       "text": "【中國志願服務基金會啟動南水北調水源地保護專項基金】中國志願服務基金會南水北調水源地保護專項基金7日啟動。中國志願服務基金會理事長徐福順介紹，南水北調水源地保護專項基金將用於丹江口庫區生態基建、民生公共服務、公益宣傳教育、特色志願服務、全域綠色轉型五大領域，全方位支援丹江口庫區守水護水與經濟社會協同發展。記者從在湖北十堰舉辦的啟動儀式上獲悉，專項基金啟動當天，南水北調中線工程已累計調水超800億立方米。作為中線工程核心水源地，丹江口水庫水質常年穩定保持Ⅱ類及以上標準，一庫碧水正持續滋養沿線多個大中城市，超過1億人受益。（新華社）"
-    },
-    {
-      "id": "5031247",
-      "time": "2026-08-07 21:23:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "哈塞特談加息：就業資料緩解美聯儲壓力。"
-    },
-    {
-      "id": "mkt:019fdc64-af2a-7aab-8fbb-5a4f7cd16ff0",
-      "time": "2026-08-07 21:23:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "Beijing cuts the required social security and individual income tax payment period for non-Beijing households to one year to qualify for home purchases."
-    },
-    {
-      "id": "5031246",
-      "time": "2026-08-07 21:23:24",
-      "tags": [
-        "宏觀",
-        "其他",
-        "焦點"
-      ],
-      "text": "【北京：非京籍家庭購房社保個稅繳納年限下調為一年】北京市住房和城鄉建設委員會、北京市規劃和自然資源委員會、北京住房公積金管理中心7日晚聯合印發《關於進一步最佳化調整本市房地產政策的通知》，明確非京籍家庭購買五環內商品住房的社保或個稅繳納年限由“2年”，調減為“1年”。調整後，非京籍家庭在全市範圍內購買商品住房的社保或個稅繳納年限統一為“1年”，購買商品住房的套數保持不變。即：社保或個稅繳納滿1年的非京籍家庭，在五環內可購買1套商品住房，多子女家庭可再多購買1套；在五環外，不限購買套數。《通知》自8日起實施。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fdc64-1b60-7aab-8fbb-50c375ee72d6",
-      "time": "2026-08-07 21:22:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "White House National Economic Council director Hassett said government employment and World Cup-related jobs are partly responsible for weak employment."
-    },
-    {
-      "id": "mkt:019fdc63-7ce5-7aab-8fbb-4b8ba7637f17",
-      "time": "2026-08-07 21:22:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House National Economic Council Director Hassett said the baby-boom generation is retiring."
-    },
-    {
-      "id": "5031245",
-      "time": "2026-08-07 21:22:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度電力金融公司一季度總成本808.2億盧比，同比下降2.2%。"
-    },
-    {
-      "id": "te:economy:573822",
-      "time": "2026-08-07 21:21:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Chile Trade Surplus Widens Below Expectations — Chile's trade surplus widened to $1.99 billion in July 2026 from $297 million a year earlier, but fell short of forecasts for a $2.38 billion surplus. Exports rose 20.1% to $10.25 billion, driven by a 29.1% increase in mining shipments, including a 22.7% rise in copper exports. Silver exports surged 166.4%, while gold and lithium carbonate shipments jumped 73.3% and 134.5%, respectively. Exports of agricultural, forestry, and fishing products increased 15.6%, while industrial exports rose 6%. Meanwhile, imports edged up 0.2% to $8.26 billion, with consumer goods purchases rising 6.3% and intermediate goods increasing 0.2%, while capital goods imports fell 6.1%. Among consumer goods, imports of motor vehicles, cellphones, meat, and computers rose 49.7%, 32.6%, 34.4%, and 24.3%, respectively."
-    },
-    {
-      "id": "mkt:019fdc62-d9a3-7aab-8fbb-456f2a9368af",
-      "time": "2026-08-07 21:21:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "White House National Economic Council Director Hassett said he sees the labor force participation rate slightly weak."
-    },
-    {
-      "id": "5031244",
-      "time": "2026-08-07 21:21:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：政府僱員、世界盃相關崗位反彈是就業資料走弱的部分成因。"
-    },
-    {
-      "id": "5031243",
-      "time": "2026-08-07 21:21:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：嬰兒潮一代現在正在退休。"
-    },
-    {
-      "id": "5031242",
-      "time": "2026-08-07 21:21:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特談就業：看到一些參與度疲軟的跡象。"
-    },
-    {
-      "id": "5031241",
-      "time": "2026-08-07 21:20:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "泰坦公司高管：莫迪總理呼籲抑制購金後，黃金交易所經歷三週飆升後恢復正常。"
-    },
-    {
-      "id": "5031240",
-      "time": "2026-08-07 21:20:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）已批准Clik Extra傷口噴霧可用於多個動物物種的緊急使用授權。"
     }
   ]
 }
