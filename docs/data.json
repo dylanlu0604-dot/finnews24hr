@@ -1,7 +1,585 @@
 {
-  "updated": "2026-08-14 10:17:58",
-  "count": 15516,
+  "updated": "2026-08-14 10:53:04",
+  "count": 15470,
   "items": [
+    {
+      "id": "5040434",
+      "time": "2026-08-14 10:51:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念股走強 杭電股份、金時科技漲停】光纖概念股短線走強，杭電股份、金時科技漲停，亨通光電、中天科技、長飛光纖等股跟漲。"
+    },
+    {
+      "id": "mkt:019ffe2e-a2d5-7aab-9033-a4f7f152d4c7",
+      "time": "2026-08-14 10:51:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【LG to launch next-generation humanoid robot with NVIDIA in Q1 2027】LG Electronics said it plans to launch a next-generation bipedal humanoid robot in Q1 2027 built on NVIDIA’s robotics platform. The unit will use an NVIDIA Jetson Thor robotic chip module, be based on NVIDIA’s Isaac GR00T humanoid foundation model and run the Holoscan for Robotics safety system. LG will integrate technology from its subsidiaries — actuators from LG Electronics, sensors from LG Innotek and batteries from LG Energy Solution. The two companies said they will also collaborate across robotics, AI factory solutions and mobility."
+    },
+    {
+      "id": "5040433",
+      "time": "2026-08-14 10:50:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌1%至1747.88點。"
+    },
+    {
+      "id": "mkt:019ffe2d-34c3-7aab-9033-9ddc4813c910",
+      "time": "2026-08-14 10:50:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Qingdao Jan–Jul trade 554.87 bln yuan, +6.4% YoY】Qingdao Customs: Jan–Jul goods trade totaled 554.87 bln yuan, accounting for 26.1% of Shandong’s trade, up 6.4% YoY — 2.1pp faster than the province. Exports were 337.71 bln yuan, +8.3% YoY; imports 217.16 bln yuan, +3.5% YoY. July trade was 87.75 bln yuan, +10.5% YoY; exports 56.01 bln yuan, +16.3% YoY; imports 31.74 bln yuan, +1.5% YoY."
+    },
+    {
+      "id": "mkt:019ffe2c-656d-7aab-9033-977acf121ba9",
+      "time": "2026-08-14 10:49:10",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share power sector extended losses; Huayin Power and Meiyan Jixiang approached limit-down, while Li New Energy, HENAN YUNENG HOLDINGS, Guangdong Electric Power A and Jingneng Power fell sharply."
+    },
+    {
+      "id": "5040432",
+      "time": "2026-08-14 10:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永福股份簽約阿爾及利亞1406.017MW燃機電站設計專案】永福股份公眾號訊息，8月13日，永福股份與中國電力工程有限公司在福州正式簽署阿爾及利亞特貝薩1406.017MW燃氣電站專案設計服務合同。此專案為永福股份在阿爾及利亞市場的首個專案，也是公司迄今為止海外單機容量最大的燃氣電站專案。此次簽約標誌著公司國際化戰略在北非地區實現重要突破。該專案為阿爾及利亞國家級重點電力基礎設施工程，規劃新建兩套“二拖一”聯合迴圈機組，每套配置2臺GE 9F.04燃氣輪發電機組、2臺餘熱鍋爐、1臺汽輪發電機組及1臺空冷凝汽器，永福股份承擔本專案設計及管理服務工作。"
+    },
+    {
+      "id": "5040431",
+      "time": "2026-08-14 10:48:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青島今年前7個月進出口5548.7億元，同比增長6.4%】據青島海關統計，今年前7個月，青島市進出口5548.7億元，佔全省進出口總值的26.1%；同比增長6.4%，高於全省2.1個百分點。其中，出口3377.1億元，同比增長8.3%；進口2171.6億元，同比增長3.5%。7月份當月，青島市進出口877.5億元，同比增長10.5%。其中，出口560.1億元，同比增長16.3%；進口317.4億元，同比增長1.5%。"
+    },
+    {
+      "id": "5040430",
+      "time": "2026-08-14 10:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣達：AI伺服器需求強勁 訂單可見度延續至2028年】廣達首席財務官楊俊烈表示，AI伺服器的需求強勁，訂單可見度將延續至2028年。廣達正大力投資擴大生產以滿足客戶需求，計劃到2026年底，新的AI伺服器容量預計將比去年翻一番，到2028年容量將再次翻倍。廣達還將今年資本支出從原先的300億新臺幣提高至400億新臺幣，增長超過33%。"
+    },
+    {
+      "id": "5040429",
+      "time": "2026-08-14 10:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【小馬智行：擬擴大歐洲、中東運營範圍】8月14日，小馬智行與Uber宣佈，雙方將在歐洲五個城市部署超過2000輛小馬智行Robotaxi。此次合作將在克羅埃西亞薩格勒布現有商業化Robotaxi運營的基礎上，擴充套件至包括薩格勒布在內的5個歐洲城市，各城市具體落地計劃將在後續分階段公佈。雙方同時宣佈，薩格勒布服務即將接入Uber平臺。除歐洲外，雙方還將深化中東地區合作，擴大全球運營版圖。"
+    },
+    {
+      "id": "mkt:019ffe2a-2e0f-7aab-9033-8a2004c84ae2",
+      "time": "2026-08-14 10:46:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【China set for fifth fuel-price cut of year as pricing window opens Aug 14】China's domestic retail refined-fuel pricing window will open at 24:00 on Aug 14, with market consensus pointing to the year's fifth price cut. Longzhong analyst Liu Bingjuan says that as of Aug 12 the cycle reference crude averaged $82.14/bbl, down 4.90% from the prior period, implying an approximate theoretical reduction of 210 yuan/ton for refined fuels (about 0.15 yuan/liter); a 70‑liter tank fill would save roughly 11 yuan."
+    },
+    {
+      "id": "5040428",
+      "time": "2026-08-14 10:46:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加滿一箱油或少花約11元 油價將迎來年內第五次下調】國內成品油新一輪調價視窗將於8月14日24時開啟。綜合機構觀點，成品油價將迎來年內第五次下調。隆眾資訊成品油分析師劉炳娟介紹，截至8月12日，週期內參考原油均價為82.14美元/桶，較上一週期下調4.90%，預計調價視窗開啟時，對應成品油下調理論幅度在210元/噸附近，摺合升價大約0.15元，以70升的油箱來計算，私家車主加滿一箱油將少花約11元。（中新經緯）"
+    },
+    {
+      "id": "5040427",
+      "time": "2026-08-14 10:43:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【期貨及衍生品策略私募產品7月平均收益率為-2.22%】私募排排網資料顯示，有業績記錄的1403只期貨及衍生品策略私募產品，7月平均收益率為-2.22%，今年以來收益率為2.80%，在五大策略中領跑。"
+    },
+    {
+      "id": "te:markets:575247",
+      "time": "2026-08-14 10:43:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Shares Track First Weekly Decline in a Month — Indonesia's IDX Composite slipped 23 points or 0.4% to 6,282 in early Friday trade, extending weakness from the prior session as transport, healthcare, and financials weighed on sentiment. Traders stayed guarded ahead of President Prabowo’s address to parliament on the 2027 budget later today, expected to lean on consumption despite sliding approval and investor unease over commodity export curbs. Focus also turned to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo’s sudden departure, following a cumulative 100bps of hikes between May and June. Meanwhile, MSCI’s August review kept pressure on equities after confirming no new inclusions and 11 deletions effective after August 31. Mitra Adiperkasa (-2.3%), Indika Energy (-1.6%), Bank Central Asia (-1.2%) and Bumi Resources (-1.1%) led decliners. For the week, local shares are set to break a three-week winning streak, down about 0.4% so far."
+    },
+    {
+      "id": "5040426",
+      "time": "2026-08-14 10:43:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞國家石油煉化公司（Petronas PRefChem）煉油廠的燃料油自2023年以來首次運往美國。"
+    },
+    {
+      "id": "mkt:019ffe26-0b6c-7aab-9033-85bfbe6ae0b1",
+      "time": "2026-08-14 10:42:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Equity-strategy private funds post average July return of -9.50%】Data from a private fund ranking site show 8,162 equity-strategy private funds with performance records posted an average July return of -9.50% and a year-to-date return of 0.12%."
+    },
+    {
+      "id": "5040425",
+      "time": "2026-08-14 10:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南清潩河鄢陵縣倉頭村段發生潰口險情】從河南省防汛抗旱指揮部瞭解到，受近期連續強降雨影響，清潩河水位持續高位執行，8月13日，清潩河鄢陵縣倉頭村段發生潰口險情。情況發生後，鄢陵縣第一時間啟動應急響應，組織專門力量全力做好人員轉移和風險防範工作，目前無人員傷亡。"
+    },
+    {
+      "id": "mkt:019ffe25-3ac4-7aab-9033-7ed1421f436c",
+      "time": "2026-08-14 10:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Average return for bond‑strategy private funds -0.91% in July】Private fund platform SimuPaipai reported that 1,043 bond‑strategy private funds with performance records averaged -0.91% in July; year‑to‑date average return is +0.80%."
+    },
+    {
+      "id": "5040424",
+      "time": "2026-08-14 10:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【債券策略私募產品7月平均收益率為-0.91%】私募排排網資料顯示，有業績記錄的1043只債券策略私募產品，7月平均收益率為-0.91%，今年以來平均收益率為0.80%。"
+    },
+    {
+      "id": "5040423",
+      "time": "2026-08-14 10:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票策略私募產品7月平均收益率為-9.50%】私募排排網資料顯示，有業績記錄的8162只股票策略私募產品，7月平均收益率為-9.50%，今年以來收益率為0.12%。"
+    },
+    {
+      "id": "5040422",
+      "time": "2026-08-14 10:40:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【四連板后皇氏集團跌停 公司回應】記者以投資者身份致電皇氏集團董秘辦，相關工作人員表示目前並未監控到市場有相關利空訊息，公司也沒有內部訊息需要披露。當被問及是否和前一日披露的風險提示公告有關，該工作人員稱，公司前兩天（8月11日晚）也發了一份股票交易異常波動公告，內容基本一致。“這兩天也沒有別的突發事情。”（中新經緯）"
+    },
+    {
+      "id": "5040421",
+      "time": "2026-08-14 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：大唐發電淨賣出超10億】截至目前，今日主力資金淨流出153.73億；淨流入光通訊、通訊裝置、通訊等板塊，其中光通訊板塊淨流入41.49億；淨流出轉融券標的、融資融券、深股通等板塊，其中轉融券標的板塊淨流出145.65億。\n  \n個股方面，長鑫科技淨買入13.13億元位居首位，亨通光電、蓮花控股、中國巨石主力資金淨流入居前；大唐發電淨賣出10.77億元位居首位，東方財富、勝宏科技、華虹宏力淨流出額居前。"
+    },
+    {
+      "id": "5040420",
+      "time": "2026-08-14 10:38:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華創證券：PX和純苯供給擴張趨緩 地緣擾動不改修復邏輯】華創證券釋出研報稱，PX與純苯行業盈利處於底部修復階段，具備較高的彈性。PX交易邏輯已由成本抬升逐步切換至供應收縮，價格韌性強於原料;純苯對外依存度持續提升，現貨支撐強勁，結構性偏強格局正在形成。若通航與原料供應改善，低位價差有望修復，一體化大煉化企業憑藉原料保障和成本協同優勢，盈利韌性及修復彈性相對更強。"
+    },
+    {
+      "id": "5040419",
+      "time": "2026-08-14 10:37:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤邦股份子公司承接兩大海上風電鋼管樁訂單】據潤邦股份公眾號訊息，近日，子公司潤邦海洋先後與國內兩大頭部能源企業達成深度合作，成功承接海上風電鋼管樁製造訂單。本次合作訂單單體直徑大，單件重量約2400噸，重新整理潤邦海洋現有製造紀錄。產品適配大功率海上風電機組建設需求，專案技術標準高、市場含金量足、交付週期緊，整體制造總量突破萬噸。"
+    },
+    {
+      "id": "5040418",
+      "time": "2026-08-14 10:37:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念震盪反彈 長盈通漲超10%】光纖概念盤中震盪反彈，長盈通漲超10%，杭電股份、亨通光電、中天科技、長飛光纖、特發資訊、通鼎互聯等跟漲。"
+    },
+    {
+      "id": "5040417",
+      "time": "2026-08-14 10:36:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國雄安集團成立資產運營公司】企查查APP顯示，近日，雄安鑫城資產運營有限公司成立，法定代表人為李煒，註冊資本為10億元，經營範圍包含以自有資金從事投資活動；非居住房地產租賃；住房租賃；物業管理；商業綜合體管理服務等。企查查股權穿透顯示，該公司由中國雄安集團有限公司旗下中國雄安集團投資管理有限公司全資持股。"
+    },
+    {
+      "id": "5040416",
+      "time": "2026-08-14 10:36:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本外相將於8月17日起訪問沙烏地阿拉伯和阿曼。"
+    },
+    {
+      "id": "mkt:019ffe20-d475-7aab-9033-748ba1c7a8b9",
+      "time": "2026-08-14 10:36:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's state reserve website said a central reserve rotational release auction will be held on 19 Aug 2026, offering 9,700 tonnes of domestically produced frozen pork for bidding."
+    },
+    {
+      "id": "5040415",
+      "time": "2026-08-14 10:36:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【通訊裝置板塊拉昇 共進股份、大唐電信漲停】通訊裝置板塊拉昇，共進股份、大唐電信漲停，長盈通、太辰光、長芯博創等漲幅居前。"
+    },
+    {
+      "id": "5040414",
+      "time": "2026-08-14 10:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中亦科技中標兩家省級農村信用社聯合社技術服務專案】中亦科技公眾號訊息，中亦科技中標兩家省級農村信用社聯合社技術服務專案——山東農信資料庫服務專案、湖北農信資料中心支援服務專案。"
+    },
+    {
+      "id": "5040413",
+      "time": "2026-08-14 10:36:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【為農作物“解渴” 甘肅累計調水近7億立方米】甘肅省水利廳已協調黑河上游黃藏寺水庫補水超過3000萬立方米，適時加大水庫日均出庫流量，全力保障中游灌溉用水需求。截至8月上旬，全省已統籌調配抗旱應急水量近7億立方米，其中張掖市1.2億立方米。"
+    },
+    {
+      "id": "mkt:019ffe20-617f-7aab-9033-6c34e8c1aa60",
+      "time": "2026-08-14 10:36:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China State Reserves website posted a notice that a central reserve rotational release auction of frozen pork will be held on Aug 18, 2026, listing 12,000 tonnes of domestic frozen pork."
+    },
+    {
+      "id": "5040412",
+      "time": "2026-08-14 10:34:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "朝日集團：計劃在2027財年恢復並超越2024財年的盈利水平。"
+    },
+    {
+      "id": "5040411",
+      "time": "2026-08-14 10:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東北證券：引種缺口催化景氣上行 蛋白替代拓長期空間】東北證券釋出研報稱，豬肉依舊是我國第一大肉類消費來源，但人均消費量增速放緩、消費佔比逐年下行，而禽類消費佔比則快速提升。白羽肉雞憑藉極致養殖效率成為國內禽肉供給核心品種。白羽肉雞行業具備清晰的產業鏈週期執行特徵，週期核心驅動源自上游祖代種源供給波動。白羽雞行業長期成長邏輯清晰，長期維度重點看好下游深加工帶來的持續增量空間。"
+    },
+    {
+      "id": "5040410",
+      "time": "2026-08-14 10:33:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲0.8%，東證指數漲0.7%。"
+    },
+    {
+      "id": "mkt:019ffe1d-ee0c-7aab-9033-658c701de820",
+      "time": "2026-08-14 10:33:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-shares CPO concept stocks extended intraday gains, led by optical-module cooling names. Alaide, Zhongshi Technology and Fuxin Technology hit daily limit-up; Jinge New Materials surged over 17%. Jianqiao Technology, Dingtong Technology, Taichen Guang, Zhongci Electronics and Changxin Bochuang were among the top gainers."
+    },
+    {
+      "id": "5040409",
+      "time": "2026-08-14 10:32:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念持續走高 阿萊德20cm漲停】CPO概念盤中持續走高，光模組散熱方向領漲，阿萊德20cm漲停，此前中石科技、富信科技20cm漲停，金戈新材漲超17%，劍橋科技、鼎通科技、太辰光、中瓷電子、長芯博創等漲幅靠前。"
+    },
+    {
+      "id": "5040408",
+      "time": "2026-08-14 10:32:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旺旺董事長蔡衍明全員信：公司面臨重大經營危機 沒有貢獻就要被淘汰】近日，旺旺集團董事長蔡衍明發布《致全體旺旺人的一封信》。蔡衍明在信中表示，“因為2026財年第一季度中國旺旺業績及利潤表現未達預期，公司於7月26日傍晚在香港聯交所網站公佈了一份自願性公告，就經營現況及未來展望做了一次說明。我希望全體旺旺人一定要高度重視公司這次的重大經營危機。”信中內容稱，“今天的苦果，是我們過去幾年來因循怠惰、未能及時採取正本清源的做法所致。所以，我們一定要切實反思自己，不是怪市場、怪客戶、抱怨大環境。”蔡衍明還強調，如果是不能有所貢獻的幹部，那就要被淘汰。“集團現在要的是能有貢獻、有功勞的旺旺人！沒有產出、沒有功勞的，都會需要被淘汰！”（新浪科技）"
+    },
+    {
+      "id": "mkt:019ffe1d-13b7-7aab-9033-5c1cc585913f",
+      "time": "2026-08-14 10:32:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say LG will launch a next-generation humanoid robot built on NVIDIA's ISAAC GR00T platform (NVDA.O)."
+    },
+    {
+      "id": "5040407",
+      "time": "2026-08-14 10:32:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "朝日集團上半財年營業利潤為1441億日元，而上年同期為923億日元。"
+    },
+    {
+      "id": "5040406",
+      "time": "2026-08-14 10:31:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報151600元/噸，較上日16:30價格上漲2250元/噸。"
+    },
+    {
+      "id": "5040405",
+      "time": "2026-08-14 10:31:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "朝日集團：仍預計本財年營業利潤為2970億日元，仍預計全年淨利潤為1940億日元。"
+    },
+    {
+      "id": "5040404",
+      "time": "2026-08-14 10:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車：理想L6累計交付突破40萬輛。"
+    },
+    {
+      "id": "mkt:019ffe1b-4283-7aab-9033-505e068e9401",
+      "time": "2026-08-14 10:30:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "YONHAP: South Korea's Blue House said parliamentary debate on a constitutional amendment would be beneficial."
+    },
+    {
+      "id": "mkt:019ffe1b-32eb-7aab-9033-4f55e659c186",
+      "time": "2026-08-14 10:30:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea's Blue House said public acceptance is high for a multi-term, four-year presidential system and for strengthening the National Assembly's powers."
+    },
+    {
+      "id": "5040403",
+      "time": "2026-08-14 10:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "華儲網釋出通知稱，2026年8月18日開展中央儲備凍豬肉輪換出庫競價交易，本次出庫競價交易掛牌國產凍豬肉12000噸。"
+    },
+    {
+      "id": "5040402",
+      "time": "2026-08-14 10:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油集團董事長戴厚良到遼陽石化調研】據中國石油報，8月12日、13日，中國石油集團董事長、黨組書記戴厚良到遼陽石化調研。戴厚良先後到聚酯部控制室、PEN新型材料建設現場及中試裝置、尼龍66專案、塑膠加工平臺、PX裝置、EDH中試裝置等現場調研，強調要堅持技術立企，以科技創新賦能煉化轉型升級，持續最佳化工藝和技術路線，認真論證改擴建方案的可行性，做好高附加值產品研發和市場預銷售，加強產品數質量管理，嚴守安全環保底線，確保裝置經濟效益最佳和“安穩長滿優”執行。"
+    },
+    {
+      "id": "5040401",
+      "time": "2026-08-14 10:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺稱國會討論修憲是好事。"
+    },
+    {
+      "id": "5040400",
+      "time": "2026-08-14 10:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺表示，若將總統任期改為可連任的四年制、同時強化國會權力，該方案能獲得較高的公眾接受度。"
+    },
+    {
+      "id": "5040399",
+      "time": "2026-08-14 10:27:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇啟動沿江地區防汛Ⅳ級應急響應】據新華日報，江蘇省防汛抗旱指揮部決定，2026年8月14日10時起，因省氣象臺釋出暴雨藍色預警，啟動沿江地區防汛Ⅳ級應急響應。相關地區各級政府及有關部門要密切關注雨水情，加強應急值守和分析研判，強化風險管控，做好防洪排澇應急處置準備，果斷組織風險區域群眾轉移避險。"
+    },
+    {
+      "id": "5040398",
+      "time": "2026-08-14 10:27:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1552億元。"
+    },
+    {
+      "id": "5040397",
+      "time": "2026-08-14 10:26:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【淮委水文局升級釋出沙潁河界首站洪水橙色預警】從水利部淮河水利委員會水文局瞭解到，14日8時，淮委水文局升級釋出沙潁河界首站洪水橙色預警。 據介紹，沙潁河是淮河一級支流。受颱風“白海豚”殘餘環流影響，位於安徽省阜陽市的沙潁河界首站14日7時36分水位漲至37.81米，超警戒水位0.81米，預計水位繼續上漲。淮委水文局根據《淮河流域水情預警釋出管理辦法（試行）》升級釋出洪水橙色預警，受影響區域包括河南省周口市與安徽省阜陽市。 淮委水文局提示相關區域有關單位及社會公眾密切關注雨水情變化，加強防範，積極應對。"
+    },
+    {
+      "id": "mkt:019ffe17-f3c6-7aab-9033-435f683d8e95",
+      "time": "2026-08-14 10:26:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Hang Seng Index"
+      ],
+      "text": "【South Korea July ICT exports surge 140.6% on AI chip demand; semiconductors +178.8%】South Korea's Ministry of Science and ICT said Friday July ICT product exports rose 140.6% YoY to $53.4 bln, a July record, driven by strong AI-related chip demand. Imports climbed 37.3% YoY to $18.3 bln, producing a $35.1 bln trade surplus. By product, semiconductor exports jumped 178.8% YoY to $41.0 bln and have expanded for 17 consecutive months; computer and communications equipment rose 353.9% to $4.9 bln; mobile phone exports increased 62.6% to $1.6 bln. By destination, exports to China and Hong Kong combined rose 194.7% YoY; to the US +187%; to the EU +202%; to Vietnam +115.7%; to India +128.2%."
+    },
+    {
+      "id": "te:economy:575245",
+      "time": "2026-08-14 10:26:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Decline — The 10-year US Treasury yield hovered around 4.65% on Friday, holding a recent decline as softer-than-expected inflation data led investors to reduce expectations for a Federal Reserve rate hike in September. Figures released Thursday showed US producer prices were flat in July, reinforcing Wednesday’s subdued CPI report and suggesting that inflationary pressures remain contained. As a result, the Fed faces less urgency to tighten monetary policy in the near term, with markets now assigning around a 35% probability to a 25 basis point rate increase in September, compared with 55% a week earlier. The data also indicated that the initial inflationary effects of the Middle East conflict and higher energy prices could be losing momentum. Still, uncertainty surrounding efforts to end the conflict and reopen the Strait of Hormuz remains a key risk to the inflation outlook."
+    },
+    {
+      "id": "5040396",
+      "time": "2026-08-14 10:26:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【但斌回覆段永平1億賭局：國內不適合公開對賭，大機率沒有百億私募應戰】近日，段永平表示，從沒賣過一股泡泡瑪特，我敢抱著茅臺跟任何基金賭一個億。有網友建議但斌應戰。8月13日晚，但斌發文回應此事。但斌明確表示，國內環境不適合進行此類公開金錢對賭，大機率沒有百億私募會出面應戰。此外他還強調，對龍頭白酒的觀點從未改變。"
+    },
+    {
+      "id": "mkt:019ffe15-436f-7aab-9033-38b0d7b6d43d",
+      "time": "2026-08-14 10:23:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey plans lunar probe launch in early 2027】Turkey plans to launch a lunar probe in early 2027 equipped with a domestically developed hybrid propulsion system, government officials said."
+    },
+    {
+      "id": "5040395",
+      "time": "2026-08-14 10:23:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鼎股份等成立芯創智慧科技公司】企查查APP顯示，近日，深圳中鼎芯創智慧科技有限公司成立，經營範圍包含新型金屬功能材料銷售；金屬製品研發；金屬基複合材料和陶瓷基複合材料銷售；有色金屬合金銷售等。企查查股權穿透顯示，該公司由中鼎股份等共同持股。"
+    },
+    {
+      "id": "5040394",
+      "time": "2026-08-14 10:22:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元升破32關口，為七月以來首見。"
+    },
+    {
+      "id": "te:markets:575243",
+      "time": "2026-08-14 10:22:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Heads for Weekly Drop — The Japanese yen traded around 159.4 per dollar on Friday and was on track to lose about 1% for the week, as the absence of follow-up intervention from authorities encouraged speculators to continue betting against the currency. The yen has now retraced roughly half of the gains made in late July and early August, when Tokyo and Washington carried out record joint intervention. The currency remained under pressure from longer-term fundamentals, including wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. Meanwhile, markets are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weaker yen will fuel inflation. US Treasury Secretary Scott Bessent also said Japan should reinforce currency intervention with policies and economic fundamentals that support the yen."
+    },
+    {
+      "id": "mkt:019ffe14-2fcb-7aab-9033-342336368bd2",
+      "time": "2026-08-14 10:22:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "YONHAP: Driven by sustained demand for AI chips, South Korea's ICT exports rose 140% in July."
+    },
+    {
+      "id": "5040393",
+      "time": "2026-08-14 10:21:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其擬明年初發射月球探測器】據土耳其阿納多盧通訊社13日援引政府官員的話報道，該國計劃於2027年初發射月球探測器，探測器將配備土耳其自主研發的混合動力推進系統。"
+    },
+    {
+      "id": "5040392",
+      "time": "2026-08-14 10:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼北蘇門答臘省發生集體中毒事件 255名學生被送醫】據印尼北蘇門答臘省政府官員14日釋出的訊息，該省卡羅縣5所學校13日發生集體中毒事件，共有255名學生出現食物中毒症狀並被送醫治療。目前暫無人員死亡報告。當地有關部門正在對中毒原因展開調查。"
+    },
+    {
+      "id": "mkt:019ffe11-9720-7aab-9033-2c4453c57c93",
+      "time": "2026-08-14 10:19:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi attacks escalate — pressure on Riyadh or pre-emption ahead of ground war?】Houthi forces have mounted some of their deadliest strikes in weeks, raising concern Yemen may slide into full-scale war as the conflict spreads across the Middle East. The Houthis accuse Saudi Arabia of resupplying Yemeni government forces via Mocha port and say Riyadh and Yemeni allies are planning operations against Houthi-held areas. Since January, Yemeni government forces have moved toward unified command and demonstrated stronger air-strike capability. The Houthis’ recent escalation appears aimed at disrupting government preparations, degrading capabilities and forcing a defensive posture, while shaping the rules of any future confrontation. Analysts note a Saudi-led large-scale ground invasion is not inevitable: air campaigns alone have failed to defeat the Houthis over the past decade, Yemen’s mountainous terrain makes ground operations costly, and Saudi Arabia lacks appetite for a protracted war. Consequently, a Saudi-backed offensive by Yemeni government forces is judged more likely than direct large-scale Saudi ground involvement."
+    },
+    {
+      "id": "5040391",
+      "time": "2026-08-14 10:18:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【芯擎科技加速晶片“天工100”量產交付】據“武漢經開區”訊息，8月12日，芯擎科技宣佈，其自研的車規級7奈米AI加速晶片“天工100”已全面量產，並同步向整車廠、一級供應商等生態夥伴批次供貨。這款晶片無需更換整車主控晶片、不用改動原有軟硬體，僅透過插卡式硬體形態即可為汽車提供獨立的大模型算力，被視為國產端側AI算力擴容的一次重要突破。"
+    },
+    {
+      "id": "5040390",
+      "time": "2026-08-14 10:17:37",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國7月ICT出口達534億美元，同比飆升140.6%】韓國政府週五公佈的資料顯示，受全球對人工智慧（AI）持續投資的推動，韓國7月份資訊通訊技術（ICT）產品出口額同比增長140.6%，達到534億美元，創歷史同月最高。其中，半導體出口額同比增長178.8%，達到410億美元，連續17個月增長。"
+    },
     {
       "id": "5040389",
       "time": "2026-08-14 10:17:16",
@@ -141028,1062 +141606,6 @@
         "國際"
       ],
       "text": "【菲律賓地震首都馬尼拉有震感】據菲律賓火山地震研究所訊息，今天（8月7日）上午10點38分左右，菲律賓西民都洛省附近發生5.8級地震，震源深度10公里。目擊者稱，首都馬尼拉有震感。（CCTV國際時訊）"
-    },
-    {
-      "id": "5029946",
-      "time": "2026-08-07 10:52:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天鐵科技等成立智算科技新公司 含AI相關業務】企查查APP顯示，近日，杭州天鐵智算科技有限公司成立，經營範圍包含人工智慧硬體銷售；基於雲平臺的業務外包服務；人工智慧基礎資源與技術平臺；積體電路晶片設計及服務；積體電路銷售等。企查查股權穿透顯示，該公司由天鐵科技(300587)等共同持股。"
-    },
-    {
-      "id": "5029945",
-      "time": "2026-08-07 10:51:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇：上半年省重大專案投資完成率58.8%】從江蘇省發展改革委獲悉，截至6月底，550個省重大專案完成投資3909億元，同比增加302億元，投資完成率58.8%，較去年同期高出3.5個百分點；269個計劃新開工專案已開工222個，開工率82.5%，順利完成“上半年開工率75%、投資過半”的階段性目標。產業、民生環保、基礎設施專案投資完成率分別達64%、57.7%、54.3%，均實現進度“過半”。"
-    },
-    {
-      "id": "te:economy:573554",
-      "time": "2026-08-07 10:51:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "China Trade Surplus Exceeds Forecasts — China’s trade surplus widened to USD 112.5 billion in July 2026, up from USD 97.70 billion a year earlier and exceeding forecasts of USD 107 billion, as exports grew more than expected, fueled by soaring chip prices and global demand for AI data center hardware. Exports jumped 23.9% from a year earlier to $397.85 billion, while imports surged 27.7% to $285.35 billion. China’s trade surplus with the US slightly declined to $28.03 billion in July from $28.9 billion in June. In the first seven months of 2026, China’s trade surplus reached USD 687.37 billion, up from USD 683.5 billion a year earlier, with exports and imports rising 18.5% and 26.7%, respectively."
-    },
-    {
-      "id": "mkt:019fda22-33cb-7aab-8fae-b1c6ec355ba5",
-      "time": "2026-08-07 10:51:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported a magnitude-5.8 earthquake hit near Occidental Mindoro at about 10:38 a.m. local time on Aug. 7, with a focal depth of 10 km."
-    },
-    {
-      "id": "5029944",
-      "time": "2026-08-07 10:51:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年上海海關監管進出口航空貨運量超200萬噸，創歷史新高】者從上海海關獲悉，今年上半年上海海關累計監管進出口航空貨運量203.51萬噸，創歷史新高，同比增長15.76%。（澎湃新聞）"
-    },
-    {
-      "id": "5029943",
-      "time": "2026-08-07 10:51:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【澳大利亞AI基礎設施公司Firmus完成20億美元融資，英偉達、黑石等參投】8月7日，澳大利亞人工智慧基礎設施公司Firmus宣佈完成20億美元戰略股權融資，投資方包括英偉達、Coatue，以及由黑石集團管理的基金和其他黑石投資工具，全球交易與科技公司Jane Street也參與投資。Firmus表示，此輪融資將用於加速其“Southgate AI Factory”專案在澳大利亞的佈局，併為未來拓展亞太其他市場做準備。"
-    },
-    {
-      "id": "mkt:019fda20-6ce9-7aab-8fae-aefd5c638968",
-      "time": "2026-08-07 10:49:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TSMC, National Yang Ming Chiao Tung University develop single-layer MoS2 top-gated transistor】TSMC and researchers from National Yang Ming Chiao Tung University developed a high‑performance single‑layer molybdenum disulfide (MoS2) top‑gated transistor, which could help extend transistor scaling beyond Moore’s Law limits. Findings published in Nature Electronics."
-    },
-    {
-      "id": "5029942",
-      "time": "2026-08-07 10:49:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【臺積電等研發出單層MoS2頂柵電晶體】臺積電在下一代技術領域取得了突破，其與陽明交大團隊成功開發出高效能單層二硫化鉬（MoS2）頂柵極電晶體，有助於突破摩爾定律極限。相關成果發表在《NatureElectronics》期刊。"
-    },
-    {
-      "id": "mkt:019fda20-3c00-7aab-8fae-a5616ddf3136",
-      "time": "2026-08-07 10:49:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Chinese research team resolves speed–fidelity trade-off in superconducting quantum computing】Anhui Quantum Computing Chip Key Laboratory says a joint team from Benyuan Quantum and the University of Science and Technology of China proposed a parameter-space-extended controlled-phase gate (PSE-CZ) that addresses the long-standing speed versus fidelity constraint in superconducting quantum computing, enabling faster two-qubit gates with substantially higher precision. The results are published in Physical Review Letters and were experimentally validated on China’s domestically developed superconducting quantum computer \"Benyuan Wukong\"."
-    },
-    {
-      "id": "5029941",
-      "time": "2026-08-07 10:48:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "中際旭創A股日內成交額達200億元，現漲近4%。"
-    },
-    {
-      "id": "te:economy:573551",
-      "time": "2026-08-07 10:48:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "China Export Growth Beats Estimates — China’s exports surged 23.9% year-on-year to USD 397.85 billion in July 2026, surpassing forecasts of a 22.7% rise but easing from June’s 27.0% growth. The increase was driven by strong demand for AI-related technology products and a rush by manufacturers to ship goods to the US ahead of potential new tariffs. The US applied a new 12.5% levy on Chinese products in late July, replacing a temporary 10% levy that had lapsed. Exports of semiconductors almost doubled in value terms from last year, and overall high-tech product exports soared 40.7%. By contrast, exports of ceramics slumped 28.3%, highlighting the economy's uneven development, where advanced manufacturers are riding the AI boom while more traditional industries struggle with weak demand. Among its trading partners, outbound shipments advanced to the US (17.05%), the EU (15.95%), and ASEAN (38.36%). For the first seven months of the year, total exports climbed 18.5% year-on-year to USD 2.52 trillion."
-    },
-    {
-      "id": "5029940",
-      "time": "2026-08-07 10:47:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【海南將分階段發放500萬元電影惠民消費券】海南“跟著電影去旅遊”電影惠民促消費活動在今天正式啟動。即日起，海南將分階段發放500萬元電影惠民消費券，覆蓋上百家影院，市民和遊客均可領取。本次電影消費券分兩個階段推進：第一階段從8月7日至10月7日，覆蓋暑期和國慶黃金週；第二階段從11月1日至12月31日，覆蓋第八屆海南島國際電影節展映活動。"
-    },
-    {
-      "id": "mkt:019fda1d-f7cb-7aab-8fae-98d015d605df",
-      "time": "2026-08-07 10:47:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "00100.HK",
-        "Impact bullish",
-        "02513.HK"
-      ],
-      "text": "Hong Kong-listed large AI-model concept stocks continued to rally; MINIMAX-W (00100.HK) jumped nearly 25%, Zhipu (02513.HK) rose more than 17%."
-    },
-    {
-      "id": "5029939",
-      "time": "2026-08-07 10:46:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網宿科技與趨境科技達成戰略合作】據網宿科技訊息，近日，網宿科技與趨境科技宣佈達成深度戰略合作。雙方將面向企業級AI推理市場，整合技術與資源優勢，共同打造高價效比、高品質、高可靠的AI Token生產體系，助力AI應用向更多行業、更深場景規模化落地。"
-    },
-    {
-      "id": "5029938",
-      "time": "2026-08-07 10:46:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股大模型概念股持續拉昇，MINIMAX-W漲近25%，智譜漲超18%。"
-    },
-    {
-      "id": "mkt:019fda1b-bc2a-7aab-8fae-9655ea397e53",
-      "time": "2026-08-07 10:44:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "WTI",
-        "Copper"
-      ],
-      "text": "China's imports in July totaled 1.9454 trillion yuan, down from 1.9616 trillion yuan in June."
-    },
-    {
-      "id": "5029937",
-      "time": "2026-08-07 10:44:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國7月進口總額 19454.4億元，前值19616.2億元。"
-    },
-    {
-      "id": "5029936",
-      "time": "2026-08-07 10:44:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國7月出口總額 27125.1億元，前值28206.7億元。"
-    },
-    {
-      "id": "mkt:019fda1b-9bdc-7aab-8fae-8fad7e5d1c8f",
-      "time": "2026-08-07 10:44:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Imports in CNY (Jul) | actual 1945440000000B | previous 1961620000000B"
-    },
-    {
-      "id": "mkt:019fda1b-7ebf-7aab-8fae-828532828748",
-      "time": "2026-08-07 10:44:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "China's July exports totaled CNY 2.7125 trillion, down from CNY 2.8207 trillion previously."
-    },
-    {
-      "id": "5029935",
-      "time": "2026-08-07 10:44:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒：部件發現裂紋，美國下令排查數百架波音客機】據美國有線電視新聞網（CNN）當地時間6日報道，美國聯邦航空局下令對數百架波音737 MAX系列客機進行裂紋檢查，並警告稱如果有損傷而未被發現，飛機的結構完整性可能會降低。美國聯邦航空局表示，部分客機機身右側前服務艙門周圍的結構加韌體發現存在裂紋。航空公司必須根據每架飛機的使用情況按相應時間表對相關區域進行檢查，並在客機恢復運營前修復所有裂紋。這項新的適航指令預計涉及約471架在美國註冊的波音737 MAX 8、MAX 9和MAX 8200型飛機。波音公司在一份宣告中表示，公司已經開展工程分析，以確定裂紋產生的原因，並正在研究工程設計改進，以防止未來再次出現類似問題。（環球網）"
-    },
-    {
-      "id": "mkt:019fda1b-529e-7aab-8fae-7d77e47c5556",
-      "time": "2026-08-07 10:44:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Exports in CNY (Jul) | actual 2712510000000B | previous 2820670000000B"
-    },
-    {
-      "id": "5029934",
-      "time": "2026-08-07 10:42:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【DeepSeek呼叫量達OpenAI三倍，打折無效後的OpenAI選擇免費】當地時間8月6日，OpenAI宣佈免費使用者預設模型升級為GPT-5.6 Luna，並開放無限量文字聊天，全球約十億ChatGPT使用者將直接受益。昨日，DeepSeek釋出公告，宣佈計劃近期整體上調API服務定價，預計漲幅較大。一放一收的差異，反映國產開源模型的崛起正在倒逼全球AI定價體系重構。（第一財經）"
-    },
-    {
-      "id": "5029933",
-      "time": "2026-08-07 10:42:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【MINIMAX-W港股漲超21%】MINIMAX-W港股漲21.47%，報360.40港元。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834960725",
-      "time": "2026-08-07 10:42:39",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【中國7月大豆進口1147.7萬噸 同比下降1.6%】中國7月鐵礦砂及其精礦進口10,808.5萬噸，同比增長3.3%；中國7月原油進口3,572.6萬噸，同比下降24.3%；中國7月大豆進口1,147.7萬噸，同比下降1.6%。"
-    },
-    {
-      "id": "te:economy:573549",
-      "time": "2026-08-07 10:42:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "China Import Growth Slows from Five-Year High — China's imports rose 27.5% year-on-year to USD 285.35 billion in July 2026, broadly in line with market expectations of 27.9%. The latest reading followed June's 36.0% surge, the strongest annual growth since June 2021, but pointed to some moderation in domestic demand, partly reflecting weather and logistics disruptions. Authorities at a late-July policy meeting pledged to support the slowing economy through a faster fiscal rollout and timely monetary easing, though they stopped short of announcing concrete measures to boost household consumption. The data also came as Beijing and Washington exchanged a fresh round of retaliatory measures in recent days, rekindling trade tensions and clouding the outlook for September's bilateral summit. In the first seven months of 2026, imports grew 26.7% to USD 1.83 trillion. Imports of natural gas dipped 3% during the period, while those of crude oil dropped 13.2%, customs data showed."
-    },
-    {
-      "id": "5029932",
-      "time": "2026-08-07 10:42:32",
-      "tags": [
-        "央行",
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【美國拋售歐元干預日元令歐洲措手不及】據知情人士稱，美國上週出人意料地對歐洲央行進行了歷史性的貨幣干預，以幫助日本，直到拋售歐元買入日元后才通知法蘭克福的同行。知情人士透露，一些歐洲央行高階官員認為，美國使用歐元而不是美元，是對西方貨幣當局之間長期合作慣例的史無前例的違反。此次操作旨在幫助日本支撐日元匯率，此前日元匯率跌至40年來的最低點。上週，東京方面透過拋售美元買入日元進入外匯市場。美國拋售歐元而不是拋售美元來幫助日本，這進一步表明華盛頓不希望看到干預導致美國國債遭到拋售，從而推高美國國債收益率。"
-    },
-    {
-      "id": "5029931",
-      "time": "2026-08-07 10:40:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻纖概念震盪走強 國際復材漲超10%】玻纖概念震盪走強，國際復材漲超10%，中國巨石、宏和科技、山東玻纖、中材科技跟漲。"
-    },
-    {
-      "id": "5029930",
-      "time": "2026-08-07 10:40:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：兆易創新淨買入超15億】截至目前，今日主力資金淨流入80.53億；淨流入年度強勢、晶片概念、昨日高振幅等板塊，其中年度強勢板塊淨流入102.15億；淨流出人工智慧、央企央資、計算機等板塊，其中人工智慧板塊淨流出38.01億。\n  \n個股方面，兆易創新淨買入15.65億元位居首位，生益科技、哈藥股份、亨通光電主力資金淨流入居前；長電科技淨賣出9.04億元位居首位，長鑫科技、金山辦公、泛微網路淨流出額居前。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834960655",
-      "time": "2026-08-07 10:38:48",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "據海關總署，中國7月汽車（包括底盤）出口109.2萬輛，6月106.9萬輛。"
-    },
-    {
-      "id": "mkt:019fda16-3611-7aab-8fae-71f47a85c06f",
-      "time": "2026-08-07 10:38:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "Impact mixed",
-        "CSI300"
-      ],
-      "text": "【China Customs: zero-tariff policy now covers 63 countries】China Customs said imports of bulk commodities rose 3% YoY in the first seven months of the year; metal ore imports rose 8.2% YoY. Imports of mechanical and electrical products totaled 5.31 trillion yuan, up 29.7% YoY and accounting for 41.9% of total import value. China has implemented a zero-tariff policy covering 63 countries to date; its import volume has ranked second globally for 17 consecutive years."
-    },
-    {
-      "id": "mkt:019fda15-db68-7aab-8fae-6c1fa0b4aed2",
-      "time": "2026-08-07 10:38:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CUSTOMS: China's rare-earth imports 9,451.3 tonnes in July, 6,261.5 tonnes in June."
-    },
-    {
-      "id": "mkt:019fda15-d1df-7aab-8fae-62efc9377457",
-      "time": "2026-08-07 10:38:10",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "CUSTOMS: China exported 1.092 mln vehicles (including chassis) in July, up from 1.069 mln in June."
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834960469",
-      "time": "2026-08-07 10:38:06",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "據海關總署，中國7月手機出口4926.8萬臺，6月5326.1萬臺。"
-    },
-    {
-      "id": "te:markets:573548",
-      "time": "2026-08-07 10:37:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Stocks on Course for Fifth Weekly Rise — Indonesian shares rose 33 points, or 0.5%, to 6,377 in Friday morning trade, rebounding from a modest dip in the prior session amid sectoral gains led by energy, property, and infrastructure. The advance was tempered, however, by softer U.S. stock futures ahead of the July jobs report, while geopolitical risks lingered after Iran reportedly sought to restrict U.S. and Israeli vessels from transiting Hormuz and impose compensation demands on nations it deems hostile. Caution also grew ahead of July trade data in top trading partner China later today, with expectations of weaker exports and imports due to weather disruptions. Early standouts included Indosat (6.8%), Mitra Keluarga (4.7%), and Bumi Resources (2.8%). For the week, markets remain on track for a fifth straight gain, lifted by buying interest linked to governance reforms under President Prabowo’s flagship program. Meanwhile, July headline inflation hit a three-month low, reinforcing views that cost pressures are contained."
-    },
-    {
-      "id": "mkt:019fda15-9ee7-7aab-8fae-58fa94a083c7",
-      "time": "2026-08-07 10:37:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Customs: China's Jan–Jul automobile exports, including chassis, totaled 6.399 million units."
-    },
-    {
-      "id": "mkt:019fda15-9619-7aab-8fae-56d6f273f47e",
-      "time": "2026-08-07 10:37:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CUSTOMS: China imported 63,323 tonnes of rare earths in January–July."
-    },
-    {
-      "id": "te:markets:573547",
-      "time": "2026-08-07 10:37:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Holds Firm at Multi-Year High — The offshore yuan held firm around 6.74 per dollar on Friday, remaining at its strongest level since early February 2023, as Beijing's efforts to accelerate the yuan's internationalization continued to bolster the currency. A growing number of Chinese commercial banks have added roughly a dozen currencies to their direct yuan settlement and clearing networks, including the Thai baht, Brazilian real, and Kazakhstani tenge. The latest move is expected to help Chinese firms further reduce their dependence on the US dollar as the country's trade ties and overseas investments continue to expand, while also supporting President Xi Jinping's ambition to build a \"powerful currency.\" Meanwhile, investors awaited upcoming trade data after China unveiled fresh retaliatory measures against the US, including tighter drone export controls, sanctions on seven American firms, and its first national security probe linked to foreign trade."
-    },
-    {
-      "id": "mkt:019fda15-727d-7aab-8fae-4968009315f5",
-      "time": "2026-08-07 10:37:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Customs: China imported 10.54 mln tonnes of natural gas in July, versus 10.931 mln tonnes in June."
-    },
-    {
-      "id": "mkt:019fda15-710b-7aab-8fae-42a4a3d455d2",
-      "time": "2026-08-07 10:37:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China Customs reported July mobile-phone exports of 49.268 mln units, down from 53.261 mln in June."
-    },
-    {
-      "id": "5029929",
-      "time": "2026-08-07 10:37:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.07%，成分股中，生益電子漲8.32%，源傑科技漲5.93%，華虹宏力漲4.99%，華海清科漲4.97%。"
-    },
-    {
-      "id": "mkt:019fda15-2f96-7aab-8fae-3d824a0df047",
-      "time": "2026-08-07 10:37:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CUSTOMS reports China imported 67.923 mln t of natural gas in Jan–Jul."
-    },
-    {
-      "id": "mkt:019fda15-2bd7-7aab-8fae-34edc31ae529",
-      "time": "2026-08-07 10:37:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "China Customs said July exports of unwrought aluminium and aluminium products were 643,000 tonnes, down from 711,000 tonnes in June."
-    },
-    {
-      "id": "mkt:019fda14-f1d2-7aab-8fae-29d98f5145d6",
-      "time": "2026-08-07 10:37:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CUSTOMS: China imported 2.477 mln tonnes of refined oil in July, compared with 1.737 mln tonnes in June."
-    },
-    {
-      "id": "mkt:019fda14-e857-7aab-8fae-216aa9b06bf2",
-      "time": "2026-08-07 10:37:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CUSTOMS: China July steel exports 10.121 mln tonnes, down from June's 10.32 mln tonnes."
-    },
-    {
-      "id": "mkt:019fda14-dbcd-7aab-8fae-1881cfcb96c8",
-      "time": "2026-08-07 10:37:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CUSTOMS: China imported 19.908 mln tonnes of refined petroleum products in Jan-Jul."
-    },
-    {
-      "id": "mkt:019fda14-b9c7-7aab-8fae-10b800670bc7",
-      "time": "2026-08-07 10:36:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China exported 64.995 mln tonnes of steel in Jan–Jul, Customs data showed."
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834960922",
-      "time": "2026-08-07 10:36:49",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "中國7月以美元計價進口同比增長27.5%，出口同比增長23.9%。"
-    },
-    {
-      "id": "mkt:019fda14-8a96-7aab-8fae-0d092e4add0e",
-      "time": "2026-08-07 10:36:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "China's July trade balance was 767.07 billion yuan, down from 859.05 billion yuan previously."
-    },
-    {
-      "id": "mkt:019fda14-796c-7aab-8fae-06b6acadd699",
-      "time": "2026-08-07 10:36:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China's crude oil imports were 35.726 mln tonnes in July, up from 29.272 mln tonnes in June, Customs said."
-    },
-    {
-      "id": "mkt:019fda14-6f11-7aab-8fad-fec0c4ebd568",
-      "time": "2026-08-07 10:36:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SK Hynix cash hoard quietly becomes major buyer in Korea bond market】SK Hynix has expanded purchases of South Korea's domestic corporate bonds; credit analysts and market participants estimate this year’s purchases at about 10–40 tln won (~$7–28 bln), with the upper range including commercial paper. A recent job posting for a role to manage, strategize and hedge company funds — including fixed-income investments across government bonds, corporate bonds and short-term debt — signals stepped-up market activity. Cash and cash equivalents stood at 88 tln won at end-Q2, up roughly 62% QoQ; despite higher capex, investable cash continues to accumulate, providing an incremental source of demand in a market usually dominated by institutional investors."
-    },
-    {
-      "id": "mkt:019fda14-613d-7aab-8fad-f6a34034a87d",
-      "time": "2026-08-07 10:36:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Trade Balance in CNY (Jul) | actual 767070000000B | previous 859050000000B"
-    },
-    {
-      "id": "mkt:019fda14-5b4f-7aab-8fad-ea541605725a",
-      "time": "2026-08-07 10:36:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "China July exports YoY 17.8%, down from 20.8% previously."
-    },
-    {
-      "id": "mkt:019fda14-59ca-7aab-8fad-e42cc250e26a",
-      "time": "2026-08-07 10:36:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "CUSTOMS: China exported 4,223.5 tonnes of rare earths in July, down from 5,104.8 tonnes in June."
-    },
-    {
-      "id": "mkt:019fda14-3e67-7aab-8fad-db64778130b0",
-      "time": "2026-08-07 10:36:27",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Exports in CNY (YoY) (Jul) | actual 17.8% | previous 20.80%"
-    },
-    {
-      "id": "mkt:019fda14-1c60-7aab-8fad-d173d20501bb",
-      "time": "2026-08-07 10:36:18",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "WTI"
-      ],
-      "text": "China July imports YoY 21.2%, down from 29.4% previously."
-    },
-    {
-      "id": "mkt:019fda14-18f9-7aab-8fad-c9ca5d987579",
-      "time": "2026-08-07 10:36:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "CUSTOMS: China imported 283.33 mln tonnes of crude oil in Jan–Jul."
-    },
-    {
-      "id": "mkt:019fda14-04ed-7aab-8fad-c7a7defdec0a",
-      "time": "2026-08-07 10:36:12",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Imports in CNY (YoY) (Jul) | actual 21.2% | previous 29.40%"
-    },
-    {
-      "id": "mkt:019fda13-ecb4-7aab-8fad-be2717d178f0",
-      "time": "2026-08-07 10:36:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CUSTOMS: China imported 42.728 mln tonnes of coal and lignite in July, down from 42.779 mln tonnes in June."
-    },
-    {
-      "id": "5029928",
-      "time": "2026-08-07 10:36:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "mkt:019fda13-be1c-7aab-8fad-b7d416b2161c",
-      "time": "2026-08-07 10:35:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Customs: China imported 268.109 million tonnes of coal and lignite in Jan–Jul."
-    },
-    {
-      "id": "te:markets:573546",
-      "time": "2026-08-07 10:35:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Drops to Over 3-Month Low — US natural gas prices dropped to $2.62 per MMBtu, the lowest level since April, pressured by a larger-than-expected build-up in storage. The EIA report showed energy firms injected 33 bcf of gas into storage in the week ended July 31, exceeding forecasts of a 31 bcf increase, last year’s 13 bcf build, and the five-year average rise of 23 bcf. On top of that, production remained near record highs despite a slight easing, with Lower 48 dry gas output averaging 110.6 bcfd so far in August, compared with a record 110.7 bcfd in July. LNG feedgas demand also continued to weaken, with average flows to the nine major LNG export plants falling to 16.9 bcfd so far this month from 17.2 bcfd in July, due partly to reduced operations at Freeport LNG in Texas and the single operating liquefaction train at Golden Pass. These factors more than offset support from expectations of higher weather-driven demand, with forecasts pointing to mostly above-normal temperatures through August 21."
-    },
-    {
-      "id": "mkt:019fda13-8d66-7aab-8fad-af5a0b617ddc",
-      "time": "2026-08-07 10:35:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "CUSTOMS: China exported 34,706.3 tonnes of rare earths in Jan-Jul."
-    },
-    {
-      "id": "mkt:019fda13-8926-7aab-8fad-a4716609a595",
-      "time": "2026-08-07 10:35:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "Customs: China imported 108.085 mln tonnes of iron ore and concentrates in July, down from 112.689 mln tonnes in June."
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834955580",
-      "time": "2026-08-07 10:35:37",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【今年前7個月我國民營企業進出口17.16萬億元 增長17.2%】海關統計資料顯示，今年前7個月我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。"
-    },
-    {
-      "id": "mkt:019fda13-6946-7aab-8fad-9c852684e97d",
-      "time": "2026-08-07 10:35:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "WTI"
-      ],
-      "text": "China July imports in USD terms rose 27.5% YoY, vs 27.7% est; June +36.0%."
-    },
-    {
-      "id": "5029927",
-      "time": "2026-08-07 10:35:31",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國7月以美元計算進口年率 27.5%，預期27.70%，前值36.00%。"
-    },
-    {
-      "id": "5029926",
-      "time": "2026-08-07 10:35:23",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國7月以美元計算出口年率 23.9%，預期22.1%，前值27.00%。"
-    },
-    {
-      "id": "5029925",
-      "time": "2026-08-07 10:35:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國7月以美元計算貿易帳 1125億美元，預期1070億美元，前值1256.2億美元。"
-    },
-    {
-      "id": "te:economy:573545",
-      "time": "2026-08-07 10:34:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.68% on Friday after rising more than 5 basis points in the previous session, as investors awaited the closely watched July jobs report for fresh clues on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Additionally, Treasury yields were supported by a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns about inflation and the interest rate outlook."
-    },
-    {
-      "id": "te:economy:573544",
-      "time": "2026-08-07 10:34:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "GDP Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Philippine Economy Grows 0.6% QoQ — The Philippine economy expanded 0.6% quarter-on-quarter in Q2 2026, below market expectations and Q1’s 0.9% growth. Among the major sectors, agriculture, forestry, and fishing posted the fastest growth at 2.7%, followed by services at 1.3%. Meanwhile, industry contracted 1.8%, primarily driven by declines in construction and mining and quarrying. Education; wholesale and retail trade; repair of motor vehicles and motorcycles; and public administration and defense were the top contributors to overall GDP growth. On the expenditure side, household consumption grew 0.8%."
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834955465",
-      "time": "2026-08-07 10:34:28",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【海關總署：截至目前已對63個國家實施了零關稅政策】海關總署今天公佈統計資料顯示，今年前7個月，我國大宗商品進口量同比增長了3%，其中：金屬礦砂進口量增加8.2%。同期，進口機電產品5.31萬億元，增長29.7%，佔我國進口總值的41.9%。我國積極擴大自主開放，主動擴大進口，推動進出口平衡發展。截至目前，已對63個國家實施了零關稅政策，進口規模連續17年穩居全球第二。今年前7個月，我國進口增速快於出口8個百分點，全球更多優質產品進入中國市場，共享中國機遇。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834952946",
-      "time": "2026-08-07 10:33:53",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【今年前7個月我國出口機電產品11.12萬億元 增長21.2%】海關總署今天公佈統計資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。我國已成為全球創新力上升最快的國家之一。"
-    },
-    {
-      "id": "5029924",
-      "time": "2026-08-07 10:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "今年前7個月，我國以水路、航空、公路、鐵路運輸方式進出口分別增長6.9%、34.6%、40.7%、17.2%。隨著我國多元化國際運輸通道體系不斷健全，跨境貨物運輸更加便捷高效，外貿企業的選擇更趨多元靈活。前7個月，我國空運和陸運進出口貨值佔四成，增長超三成。（海關總署）"
-    },
-    {
-      "id": "5029923",
-      "time": "2026-08-07 10:33:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "今年前7個月，我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。（海關總署）"
-    },
-    {
-      "id": "5029922",
-      "time": "2026-08-07 10:32:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長17.3% 】今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。7月當月，進出口4.66萬億元，同比增長19.2%。其中，出口2.71萬億元，增長17.8%，進口1.95萬億元，增長21.2%。今年以來，我國經濟頂壓前行、向新向優，對外貿進出口增長形成有力支撐。7月份，我國外貿延續上半年良好增長態勢，增速較上半年加快了2.3個百分點，進出口規模連續5個月超過4萬億元。出口產品結構向新向綠今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。我國已成為全球創新力上升最快的國家之一。科技創新和產業創新深度融合，不斷轉化為外貿競爭新優勢和增長新動能。7月份，我國高技術產品出口增長超五成，貢獻了近六成的出口增量，電動汽車、鋰電池等綠色低碳產品出口連續17個月兩位數增長。進口增速繼續快於出口今年前7個月，我國大宗商品進口量同比增長了3%，其中：金屬礦砂進口量增加8.2%。同期，進口機電產品5.31萬億元，增長29.7%，佔我國進口總值的41.9%。我國積極擴大自主開放，主動擴大進口，推動進出口平衡發展。截至目前，已對63個國家實施了零關稅政策，進口規模連續17年穩居全球第二。今年前7個月，我國進口增速快於出口8個百分點，全球更多優質產品進入中國市場，共享中國機遇。（央視）"
-    },
-    {
-      "id": "5029921",
-      "time": "2026-08-07 10:32:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲3%，現報5832.00元。"
-    },
-    {
-      "id": "5029920",
-      "time": "2026-08-07 10:32:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲2%，現報8149.00元。"
-    },
-    {
-      "id": "5029919",
-      "time": "2026-08-07 10:32:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前7個月我國出口機電產品11.12萬億元，增長21.2%】海關總署資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。（央視新聞）"
-    },
-    {
-      "id": "5029918",
-      "time": "2026-08-07 10:31:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "5029917",
-      "time": "2026-08-07 10:31:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數上漲1%至4,697.91點。"
-    },
-    {
-      "id": "5029916",
-      "time": "2026-08-07 10:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【周新群已任中央政策研究室副主任】據“閩東日報”訊息，8月5日，中央黨的建設工作領導小組秘書組2026年聯絡點工作暨課題研究成果交流座談會在寧德召開。中央黨的建設工作領導小組秘書組組長、中央政策研究室主任唐方裕就樹立和踐行正確政績觀談了認識體會，同大家交流。福建省委副書記、福州市委書記郭寧寧致辭，交流了黨建工作經驗。中央政策研究室副主任周新群主持。福建省委常委、組織部部長苗延紅，天津市委常委、濱海新區區委書記連茂君和寧德市委領匯出席。上述訊息顯示，周新群已任中央政策研究室副主任。公開報道顯示，周新群曾任中央黨的建設工作領導小組秘書組副局長，中央政策研究室黨建研究局局長等職。（白鷺洲知政）"
-    },
-    {
-      "id": "5029915",
-      "time": "2026-08-07 10:31:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報7808.00點。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834947059",
-      "time": "2026-08-07 10:31:08",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【超30萬億元！今年前7月我國貨物貿易進出口延續增長態勢】海關總署今天公佈統計資料顯示，今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608073834949752",
-      "time": "2026-08-07 10:31:07",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本二季度三次干預未改日元貶值趨勢】日本財務省7日公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元長期貶值趨勢。"
-    },
-    {
-      "id": "5029914",
-      "time": "2026-08-07 10:31:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報141800元/噸，較上日16:30價格持平。"
-    },
-    {
-      "id": "5029913",
-      "time": "2026-08-07 10:30:52",
-      "tags": [
-        "宏觀",
-        "資料",
-        "焦點"
-      ],
-      "text": "【超30萬億元！今年前7月我國貨物貿易進出口延續增長態勢】海關總署今天公佈統計資料顯示，今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608073834939916",
-      "time": "2026-08-07 10:30:46",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本實際家庭消費連續7個月同比下滑】日本總務省7日公佈的調查結果顯示，日本家庭消費持續疲軟，6月實際家庭消費支出同比、環比均出現下滑，已連續第7個月同比下滑。"
-    },
-    {
-      "id": "5029912",
-      "time": "2026-08-07 10:30:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【遏制非法新增！市場監管總局完善食用植物油人工增香物質檢驗技術】為築牢食品安全防線，有力打擊食用植物油非法新增行為，近日，市場監管總局釋出《食品補充檢驗方法 食用植物油中乙基麥芽酚的測定》（BJS202604）。 食用植物油是群眾日常膳食的必需品，其質量安全直接關係群眾身體健康和民生福祉。乙基麥芽酚是人工合成的食品增香新增劑，長期攝入違規新增的乙基麥芽酚，存在食品安全風險。根據我國食品新增劑使用標準規定，乙基麥芽酚嚴禁在食用植物油中新增使用。但是，在高額利益驅動下，不法商家在劣質植物油、過期翻新油脂中非法新增乙基麥芽酚，掩蓋油脂氧化變質產生的哈喇異味，偽造芝麻油、花生油等高階油品的醇厚香氣，達到以次充好、以假亂真，獲取高額不法收益的目的。新發布的補充檢驗方法最佳化了檢測流程，適配大豆油、花生油、芝麻油等主流食用植物油品類，具備檢出限低、抗干擾性強、結果穩定可靠的優勢，可實現對乙基麥芽酚的精準定性與定量檢測。 下一步，市場監管部門將強化方法應用，嚴厲打擊食用植物油非法新增、摻雜摻假違法行為，倒逼生產經營者落實食品安全主體責任，守護人民群眾“舌尖上的安全”。"
-    },
-    {
-      "id": "5029911",
-      "time": "2026-08-07 10:30:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞航空公司將在近期發生毒品事件後對所有飛行員進行強制性藥物篩查。"
-    },
-    {
-      "id": "5029910",
-      "time": "2026-08-07 10:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：通貨膨脹將繼續呈下降趨勢。"
-    },
-    {
-      "id": "5029909",
-      "time": "2026-08-07 10:28:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：若我們的公共建築工程能實現零增長，經濟增速本可再提高1個百分點。"
-    },
-    {
-      "id": "5029908",
-      "time": "2026-08-07 10:26:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股光通訊股多數走強 海光芯正漲超12%】截至發稿，海光芯正(01191.HK)漲12.27%，劍橋科技(6166.HK)漲7.29%，中際旭創(03308.HK)漲5.82%。"
-    },
-    {
-      "id": "5029907",
-      "time": "2026-08-07 10:26:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股大模型概念股持續拉昇，MINIMAX-W、智譜雙雙漲超15%。"
-    },
-    {
-      "id": "5029906",
-      "time": "2026-08-07 10:25:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【上證50股指期貨(IH)主力合約日內漲超1%】上證50股指期貨(IH)主力合約日內漲超1%，現報2920.4點。"
-    },
-    {
-      "id": "5029905",
-      "time": "2026-08-07 10:24:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中電鑫龍簽約淮安漣水國際機場航站區改擴建專案】據中電鑫龍訊息，近日，中電鑫龍簽訂淮安漣水國際機場航站區改擴建工程專案合同。此次合作，公司將為新建T2航站樓提供高品質的智慧型低壓配電成套裝置。"
-    },
-    {
-      "id": "5029904",
-      "time": "2026-08-07 10:24:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念持續走高 方邦股份等十餘股漲停】PCB概念盤中持續擴大漲幅，方邦股份20cm漲停，此前一博科技、華正新材寶鼎科技、紅板科技等多股漲停，生益科技、方正科技逼近漲停，銅冠銅箔、威爾高、逸豪新材均漲超10%。"
-    },
-    {
-      "id": "5029903",
-      "time": "2026-08-07 10:24:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：我們目前經歷的緩慢增長只是過渡階段。"
-    },
-    {
-      "id": "5029902",
-      "time": "2026-08-07 10:24:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Fable 不可用於專業藥物研發。"
-    },
-    {
-      "id": "5029901",
-      "time": "2026-08-07 10:23:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：醫療行業專業人士將獲得更多 Fable 5 技術支援。"
-    },
-    {
-      "id": "5029900",
-      "time": "2026-08-07 10:23:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Fable 5 版本的調整大幅降低誤報。"
-    },
-    {
-      "id": "5029899",
-      "time": "2026-08-07 10:23:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲2％，上證指數漲0.32％，深證成指漲1.26％。PCB概念、CRO概念、CPO板塊漲幅居前。"
-    },
-    {
-      "id": "5029898",
-      "time": "2026-08-07 10:22:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Fable 5 使用者現在遇到回退攔截的情況將會減少 。"
-    },
-    {
-      "id": "5029897",
-      "time": "2026-08-07 10:22:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：將 Fable 5 生物學相關回退觸發量削減約 85%。"
-    },
-    {
-      "id": "5029896",
-      "time": "2026-08-07 10:21:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：改進Fable 5 模型的生物學安全防護機制。"
-    },
-    {
-      "id": "te:economy:573540",
-      "time": "2026-08-07 10:21:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "AUS 10Y Yield Rises Toward Multi-Week Highs — Australia’s 10-year government bond yield rose around 5%, moving toward multi-week highs as renewed tensions in the Middle East revived inflation concerns. Oil prices climbed following reports of Iranian attacks in the Strait of Hormuz and a lack of clarity on an agreement to reopen the crucial waterway. Tehran is seeking to restrict US and Israeli vessels from using the waterway while demanding compensation from countries it considers hostile. Higher energy prices reignited inflation concerns and reinforced expectations that global interest rates could remain higher for longer. In Australia, after three rate hikes this year, markets are pricing in virtually no chance of a rate increase at the Reserve Bank's policy meeting next week following softer-than-expected second-quarter inflation data. Investors are also assigning little chance of a move in September, while pricing roughly a 60% probability of a rate hike in November if third-quarter inflation proves stronger than expected."
-    },
-    {
-      "id": "5029895",
-      "time": "2026-08-07 10:20:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電子化學品板塊持續走高，方邦股份20cm漲停】電子化學品板塊持續走高，方邦股份20cm漲停，天承科技、三孚新科、萊爾科技、光華科技、菲沃泰跟漲。"
-    },
-    {
-      "id": "5029894",
-      "time": "2026-08-07 10:19:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "科技記者馬克·古爾曼：我一生中從未從蘋果公司拿過一分錢，在整個職業生涯中也從未持有過 AAPL 股票。"
-    },
-    {
-      "id": "5029893",
-      "time": "2026-08-07 10:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：政府各部門間的信心建設正不斷增強。"
-    },
-    {
-      "id": "te:markets:573539",
-      "time": "2026-08-07 10:18:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed as Trade Data Looms — The Shanghai Composite fell 0.3% to 3,890 on Friday, while the Shenzhen Component rose 0.6% to 14,195, extending a mixed performance for a second straight session as investors awaited China's upcoming trade data release. China posted its second-largest trade surplus on record in June, with both exports and imports reaching all-time highs. However, concerns over Sino-US trade relations persisted after Beijing unveiled retaliatory measures, including stricter controls on drone and related tech exports, sanctions against seven US firms, and a first-ever national security investigation connected to foreign trade. Financial stocks weighed on the market, led lower by Industrial and Commercial Bank of China (-0.9%), Agricultural Bank of China (-0.9%), and China Construction Bank (-1.3%). In contrast, Zhongji Innolight (2.8%), Eoptolink Technology (3.4%), and NAURA Technology (1.1%) advanced. Despite the mixed session, both benchmarks remained on track for weekly gains."
     }
   ]
 }
