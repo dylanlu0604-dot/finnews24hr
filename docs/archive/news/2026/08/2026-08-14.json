@@ -1,7 +1,118 @@
 {
   "date": "2026-08-14",
-  "count": 2337,
+  "count": 2350,
   "items": [
+    {
+      "id": "5041472",
+      "time": "2026-08-14 20:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暴雨橙色預警！江蘇無錫啟動防汛二級應急響應】江蘇無錫市氣象臺8月14日18時27分升級釋出暴雨橙色預警訊號，預計今天夜裡到明天上午，無錫市大部分地區尤其是宜興南部、梁溪區黃巷街道惠山街道、新吳區華莊街道太湖街道等地將出現暴雨，局地大暴雨，部分地區24小時累計雨量200毫米以上，請注意防範。按照《無錫市防汛抗旱應急預案》規定，經市防指綜合研判，決定於8月14日18時啟動全市防汛二級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5041471",
+      "time": "2026-08-14 20:06:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦外長呼籲落實美伊諒解備忘錄】巴基斯坦外交部14日發表宣告說，巴副總理兼外交部長達爾當天會見了美國駐巴基斯坦臨時代辦納塔莉·貝克，呼籲落實美伊諒解備忘錄。達爾重申巴方對維護地區和平與安全的承諾，強調對話與外交對於實現持久和平的重要性。他說，真正落實伊斯蘭堡諒解備忘錄是推進問題解決的唯一途徑。巴基斯坦外交部的宣告說，貝克讚賞巴基斯坦在促進地區和平與穩定方面所發揮的建設性作用。（新華社）"
+    },
+    {
+      "id": "5041470",
+      "time": "2026-08-14 20:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申萬宏源總經理黃昊辭職 聘任黃建軍為總經理】8月14日晚間，申萬宏源公告稱，公司於8月14日收到黃昊遞交的書面辭呈。因工作安排原因，黃昊申請辭去公司第六屆董事會副董事長、董事、董事會戰略與ESG委員會成員、董事會風險控制委員會成員以及總經理、執行委員會副主任、成員等職務。"
+    },
+    {
+      "id": "5041469",
+      "time": "2026-08-14 20:05:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大華股份：擬409.92萬元受讓控股子公司8.2%股權】大華股份公告稱，公司擬以409.9225萬元受讓杭州華甄、杭州華探持有的控股子公司華視智檢8.2%股權。公司實控人及董事陳愛玲為轉讓方執行事務合夥人，該交易構成關聯交易。交易後，公司持股比例升至53.20%，不會導致合併報表範圍變更。華視智檢2026年上半年營收1.48億元、淨虧損2963.50萬元。年初至公告披露日，公司與實控人夫婦及其控制企業累計關聯交易2196.06萬元。"
+    },
+    {
+      "id": "mkt:01a00029-5ed1-7aab-903d-93cd7bc3a941",
+      "time": "2026-08-14 20:05:06",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish",
+        "RTX.O"
+      ],
+      "text": "Pentagon said it reached agreements with Boeing and Raytheon to boost production of missile components."
+    },
+    {
+      "id": "5041468",
+      "time": "2026-08-14 20:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "五角大樓宣佈與波音公司和RTX公司達成導彈攔截器交易。"
+    },
+    {
+      "id": "5041467",
+      "time": "2026-08-14 20:04:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓：達成協議，提高導彈部件產量。"
+    },
+    {
+      "id": "5041466",
+      "time": "2026-08-14 20:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“國泰航空一航班因失聯遭北約戰機警告”一事調查結果出爐，為機組人員操作失誤】此前備受關注的“國泰航空一航班在歐洲上空短暫失聯，遭到北約戰機升空作目視警告”一事，如今被證實為機組人員的操作失誤。8月14日，香港民航處公開表示，已收到並完成審視國泰航空提交的全面調查報告。報告顯示，涉事航機內通訊裝置運作正常，涉事航班機組人員錯誤回應空管人員對另一航班發出的指示，繼而將無線電調校至不正確的頻率，其後相關機組人員亦未能察覺通訊中斷。（每經）"
+    },
+    {
+      "id": "mkt:01a00028-037f-7aab-903d-8ee55f1ee1be",
+      "time": "2026-08-14 20:03:37",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【CNY 93.5 bln flows into China’s embodied intelligence sector in 1H26】Financing into China’s embodied intelligence sector exceeded 93.5 bln yuan in 1H26, a fivefold YoY increase. Robotics are accelerating factory deployment and investors deployed substantial capital into the space."
+    },
+    {
+      "id": "mkt:01a00027-ea4b-7aab-903d-8429106ed0ef",
+      "time": "2026-08-14 20:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Water Resources raises Taihu basin flood-defense emergency response to Level III】Heavy rain from the residual circulation of Typhoon No.13 White Dolphin drove Taihu water level to 4.20 m at 15:40 on Aug.14, 0.40 m above the 3.80 m warning level; under national watershed flood classification this constitutes a relatively large basin flood. Forecasts show moderate-to-heavy rain over the basin for the next two days, with peak Taihu levels possibly exceeding 4.30 m and parts of the surrounding river network expected to surpass warning levels. The Ministry of Water Resources upgraded the Taihu basin flood-defense emergency response from Level IV to Level III at 18:00 on Aug.14."
+    },
+    {
+      "id": "5041465",
+      "time": "2026-08-14 20:03:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西媒：巴西啟動行政程式反制美國】據埃菲社8月13日報道，巴西政府8月13日宣佈啟動一項行政程式，旨在針對美國對該國徵收的關稅採取對等措施。報道稱，巴西此舉是對華盛頓方面決定的回應。此前美方以巴西存在所謂“不公平”貿易行為及其生產鏈中使用強迫勞動為由，對大量巴西產品加徵12.5%至25%的額外關稅。巴西的回應依據是《經濟對等法》，該法規定可採取與華盛頓方面所實施措施類似的貿易反制措施。（參考訊息）"
+    },
+    {
+      "id": "5041464",
+      "time": "2026-08-14 20:02:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2026年上半年超935億元湧入具身智慧賽道 具身智慧賽道融資總額飆漲500%】機器人正在加速“進廠打工”，資本也在用真金白銀押注這一賽道。2026年上半年，國內具身智慧賽道融資總額突破935億元，同比增長5倍。 (央視財經)"
+    },
+    {
+      "id": "5041463",
+      "time": "2026-08-14 20:02:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4430美元/盎司，日內漲0.22%。"
+    },
     {
       "id": "mkt:01a00027-2ee7-7aab-903d-7bd3ba1f27a6",
       "time": "2026-08-14 20:02:42",
