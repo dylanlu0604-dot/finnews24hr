@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-14 19:42:52",
-  "count": 15348,
+  "updated": "2026-08-14 19:46:51",
+  "count": 15347,
   "items": [
+    {
+      "id": "mkt:01a00018-003e-7aab-903d-2cb63f325e19",
+      "time": "2026-08-14 19:46:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says oil pollution off Qeshm Island caused by foreign military aggression】On the 14th, Iran deputy foreign minister Kazem Gharibabadi said on social media that oil pollution off Qeshm Island was the result of foreign military aggression. He said the damage to the Persian Gulf coastline underscores the need for Iran, as a littoral state, to establish and implement a Strait of Hormuz management mechanism. Iranian authorities earlier reported oil had reached Qeshm’s vulnerable mangroves and spread along the island’s southern coast."
+    },
+    {
+      "id": "te:markets:575468",
+      "time": "2026-08-14 19:46:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Near Peaks — Futures tracking US equities were muted on Friday as the view on strong earnings for the tech sector remained conflicted against risks of macroeconomic headwinds. The S&P 500 was flat near its record high, while the Nasdaq 100 and Dow also hovered with little movement. Chip producers extended their strong gains from earlier in the week, with Sandisk adding more than 5% premarket following its 14% surge yesterday, while Micron and Seagate were also higher. The fresh wave of long positions on AI infrastructure were underpinned by signals of more spending by hyperscalers, with both OpenAI and Anthropic aiming for IPOs this year, while the latter moved to acquire Decart. Still, inflationary risks maintained some bets that the Federal Reserve may raise rates this year, with President Trump stating economic pressure on Iran will remain for longer, halting oil exports from the region. Industrials and banks continued to underperform."
+    },
     {
       "id": "5041422",
       "time": "2026-08-14 19:41:50",
@@ -140614,34 +140638,6 @@
         "國際"
       ],
       "text": "Natixis 首席經濟學家 Chris Hodge表示，當前美國勞動力市場可以概括為 “穩定但並不火熱”，就業平衡並非源於企業大力招人的，而是需求與供給同步放緩。（新華財經）"
-    },
-    {
-      "id": "5031056",
-      "time": "2026-08-07 19:44:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港交所五年期國債期貨首周成交逾1.3萬手】港交所推出的五年期中國國債期貨合約於本週正式掛牌交易，上市首周執行平穩，成交活躍，吸引了境內外眾多機構投資者的積極參與。據港交所公佈資料顯示，五年期中國國債期貨合約上市首周累計成交13270手，日均成交量逾2000手。業內人士表示，港交所離岸國債期貨與在岸國債收益率走勢保持高度聯動，合約價格發現功能初步顯現，同時充分反映了離岸市場的流動性特徵和投資者預期。一位外資券商固收交易員表示：\"港交所五年期國債期貨的推出填補了離岸市場中期利率風險管理工具的重要空白。合約設計兼顧了國際慣例與中國市場特色，為我們管理人民幣債券組合的久期風險提供了高效、透明的解決方案。\"（新華財經）"
-    },
-    {
-      "id": "mkt:019fdc0a-64fe-7aab-8fb8-51828bde5432",
-      "time": "2026-08-07 19:44:56",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【HKEX five-year China government bond futures trade 13,270 contracts in debut week】HKEX’s new five-year China government bond futures recorded cumulative turnover of 13,270 contracts in its first week, with average daily volume above 2,000 contracts, drawing heavy domestic and international institutional participation. Trading was orderly and market participants say the offshore contract is tracking onshore bond yields closely, is beginning to serve a price-discovery role, and reflects offshore liquidity and investor expectations. A foreign broker fixed-income trader said the contract fills a gap in offshore medium-term rate hedging and provides an efficient, transparent tool for managing duration in RMB bond portfolios."
-    },
-    {
-      "id": "mkt:019fdc09-1923-7aab-8fb8-49797531e55c",
-      "time": "2026-08-07 19:43:31",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "ARGUS Research upgraded SpaceX (SPCX.O) from Hold to Buy."
     }
   ]
 }

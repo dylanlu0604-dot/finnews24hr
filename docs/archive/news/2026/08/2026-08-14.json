@@ -1,7 +1,31 @@
 {
   "date": "2026-08-14",
-  "count": 2288,
+  "count": 2290,
   "items": [
+    {
+      "id": "mkt:01a00018-003e-7aab-903d-2cb63f325e19",
+      "time": "2026-08-14 19:46:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says oil pollution off Qeshm Island caused by foreign military aggression】On the 14th, Iran deputy foreign minister Kazem Gharibabadi said on social media that oil pollution off Qeshm Island was the result of foreign military aggression. He said the damage to the Persian Gulf coastline underscores the need for Iran, as a littoral state, to establish and implement a Strait of Hormuz management mechanism. Iranian authorities earlier reported oil had reached Qeshm’s vulnerable mangroves and spread along the island’s southern coast."
+    },
+    {
+      "id": "te:markets:575468",
+      "time": "2026-08-14 19:46:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Near Peaks — Futures tracking US equities were muted on Friday as the view on strong earnings for the tech sector remained conflicted against risks of macroeconomic headwinds. The S&P 500 was flat near its record high, while the Nasdaq 100 and Dow also hovered with little movement. Chip producers extended their strong gains from earlier in the week, with Sandisk adding more than 5% premarket following its 14% surge yesterday, while Micron and Seagate were also higher. The fresh wave of long positions on AI infrastructure were underpinned by signals of more spending by hyperscalers, with both OpenAI and Anthropic aiming for IPOs this year, while the latter moved to acquire Decart. Still, inflationary risks maintained some bets that the Federal Reserve may raise rates this year, with President Trump stating economic pressure on Iran will remain for longer, halting oil exports from the region. Industrials and banks continued to underperform."
+    },
     {
       "id": "5041422",
       "time": "2026-08-14 19:41:50",
