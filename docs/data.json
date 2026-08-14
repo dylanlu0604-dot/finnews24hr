@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-14 11:12:08",
-  "count": 15487,
+  "updated": "2026-08-14 11:15:54",
+  "count": 15488,
   "items": [
+    {
+      "id": "mkt:019ffe44-6dc2-7aab-9034-1fd1cf6943d0",
+      "time": "2026-08-14 11:15:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran crisis disrupts energy markets, uncertainty drives surge in Japan power futures】Japanese firms are increasingly using power futures to hedge fuel-price risk as the Iran crisis roils energy markets. On the European Energy Exchange (EEX), combined July daytime, weekend and weekly volumes nearly doubled YoY to just over 10,000 contracts, a second consecutive monthly record. EEX accounted for about 97% of the Japanese power futures market in 2025. Intraday contract prices hit record highs in June and July. Leo Takai, EEX research and management manager, said the Iran crisis has made fuel markets unpredictable, prompting participants to shift trading toward futures—particularly intraday contracts."
+    },
+    {
+      "id": "5040464",
+      "time": "2026-08-14 11:13:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【守護美麗中國 生態環境法典8月15日起施行】8月15日是第四個全國生態日。繼民法典之後我國第二部以“法典”命名的法律——《中華人民共和國生態環境法典》將自15日起施行，標誌著我國生態環境法治建設邁入新境界，為實現人與自然和諧共生的現代化進一步築牢法治根基。"
+    },
+    {
+      "id": "5040463",
+      "time": "2026-08-14 11:12:29",
+      "tags": [
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【美聯儲FIMA回購機制上週仍未被使用 表明日本沒有動用該工具支撐日元】美聯儲一項鮮少使用的流動性工具上週沒有進行任何操作，再次表明日本在最近一次支撐日元的行動中沒有使用該工具。與此同時，海外貨幣當局向美聯儲存入了更多現金。根據美聯儲最新資料，截至8月12日當週，外國和國際貨幣當局回購機制(FIMA)的平均餘額為零。同期美聯儲的外國逆回購資金池的使用規模增加約400億美元，至3570億美元，為11月5日以來最高，也是自2022年11月以來最大的單週增幅。非美國實體可在該資金池存放隔夜資金，並按市場利率獲得收益，目前利率為3.5%。"
+    },
     {
       "id": "mkt:019ffe41-00a7-7aab-9034-1098f193b261",
       "time": "2026-08-14 11:11:40",
@@ -9,6 +35,15 @@
         "MKT News"
       ],
       "text": "【China launches drafting of national testing standards for humanoid robots】Aug 13, Optics Valley — China has launched drafting of a national standards series for humanoid robot testing, initiating seven draft standards including general rules, environmental perception, decision and planning, and motion control. More than 200 industry and academic representatives attended, including Unitree Robotics, Xiaomi Robotics, Magic Atom, ZTE, CloudMinds, Horizon Robotics, Lingxin Qiaoshou and other domestic robotics firms, plus Wuhan University, Huazhong University of Science and Technology, Nanjing University of Aeronautics and Astronautics, Northwestern Polytechnical University, China Jiliang University and University of Bamberg. Hubei provincial electronic information standardization committee unveiled a Humanoid Robot and Embodied Intelligence standards working group; the first 29 members include the Hubei Humanoid Robot Innovation Center, Hubei Institute of Metrology and Testing Technology, Wuhan University and HUST."
+    },
+    {
+      "id": "5040462",
+      "time": "2026-08-14 11:11:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.00%，成分股中，華虹宏力跌8.75%，中科飛測跌5.15%，中控技術跌3.68%，百利天恆跌3.30%。"
     },
     {
       "id": "mkt:019ffe40-a5fd-7aab-9034-0dc85fd7df11",
@@ -141726,32 +141761,6 @@
         "國際"
       ],
       "text": "【多家光伏龍頭回應美國加徵關稅】當地時間8月6日，美國總統特朗普簽署行政令，依據《1962年貿易擴充套件法》第232條，對進口多晶矽及其衍生產品採取最低進口價格和額外關稅措施，以支援美國國內多晶矽、半導體和太陽能供應鏈。記者7日早間就加徵關稅相關事項致電晶科能源董秘辦。晶科能源工作人員稱，對美國剛出的新政策還需要做進一步的研判，待研判成熟後可進一步溝通，也可以參考第三方機構的分析。同日，天合光能工作人員對記者表示，公司銷售元件為主，多晶矽只是元件生產的一種原料，是產業鏈的一環。另外，公司在北美出口比較少，且出貨主要透過合作伙伴，暫時影響不大。記者7日還嘗試聯絡晶澳科技董秘辦，但電話未獲接通。（中新經緯）"
-    },
-    {
-      "id": "5029969",
-      "time": "2026-08-07 11:13:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國債期貨拉昇 30年期主力合約漲0.2%】國債期貨拉昇，30年期主力合約盤中漲0.20%，現報115.630元。10年期漲0.03%，現報109.415元。5年期漲0.01%，現報106.51元。2年期跌0.01%，現報102.618元。"
-    },
-    {
-      "id": "5029968",
-      "time": "2026-08-07 11:13:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥、CRO概念漲勢擴大 十餘隻成分股漲停】創新藥、CRO概念盤中持續擴大漲幅，畢得醫藥、藥康生物、百普賽斯、凱萊英、百花醫藥等十餘股漲停，近岸蛋白、博騰股份、皓元醫藥、美迪西等多股漲超10%。"
-    },
-    {
-      "id": "5029967",
-      "time": "2026-08-07 11:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉確診病例超4000例】剛果（金）衛生部6日公佈的資料顯示，該國本輪埃博拉疫情累計確診病例已達4053例。非洲疾病預防控制中心主任卡塞亞當天表示，實際感染人數可能高於已報告病例數。剛果（金）衛生部公佈的資料顯示，截至5日，該國累計報告埃博拉確診病例4053例，其中死亡1850例，累計治癒793例。卡塞亞6日線上上記者會上說，實際感染人數或高於現有統計。本輪疫情嚴重程度前所未有，有關方面將開展研究，弄清病毒是否發生變異，以便有針對性地調整應對措施。(新華社)"
     }
   ]
 }
