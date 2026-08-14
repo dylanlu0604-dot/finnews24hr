@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-15 04:43:19",
-  "count": 15280,
+  "updated": "2026-08-15 04:47:19",
+  "count": 15282,
   "items": [
+    {
+      "id": "mkt:01a00207-1abe-7aab-9045-f2dde5d10880",
+      "time": "2026-08-15 04:46:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said Canada's head of U.S. trade and chief negotiator will remain in Washington over the weekend to continue talks."
+    },
+    {
+      "id": "mkt:01a00205-98be-7aab-9045-e98b9aeb7933",
+      "time": "2026-08-15 04:45:16",
+      "tags": [
+        "MKT News",
+        "AMD.O"
+      ],
+      "text": "SEC filings show AMD (AMD.O) holds 3.3 mln Class A shares of SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5041985",
+      "time": "2026-08-15 04:45:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案顯示，AMD(AMD.O)持有330萬股SpaceX(SPCX.O)A類股份。"
+    },
+    {
+      "id": "5041984",
+      "time": "2026-08-15 04:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加拿大負責對美雙邊貿易事務的部長及加拿大首席貿易談判代表本週末將留駐華盛頓開展會談。"
+    },
     {
       "id": "5041983",
       "time": "2026-08-15 04:39:57",
@@ -139839,27 +139873,6 @@
         "國際"
       ],
       "text": "特朗普稱：美國聯邦檢察官珍妮娜·皮羅應重新考慮她倉促作出的決定。"
-    },
-    {
-      "id": "5031632",
-      "time": "2026-08-08 04:45:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證交會檔案：昆特資本有限責任公司報告持有SPACEX公司835股A類股份。"
-    },
-    {
-      "id": "te:markets:573891",
-      "time": "2026-08-08 04:45:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Earnings Weakness — The Ibovespa fell 1.7% to close at 177,513 on Friday amid another batch of second-quarter 2026 earnings reports. Petrobras shed 3%, erasing earlier gains despite delivering one of its strongest earnings reports in recent quarters and beating expectations, as much of the strong performance had already been priced in and uncertainty remained over its sustainability. Localiza also fell 0.8% despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Magazine Luiza dropped 3.7% following weak results and concerns over profitability, while Renner plunged 8.1% after cutting its guidance amid concerns about sales. Elsewhere, Vale fell 0.6% despite higher iron ore prices. Banks also declined broadly, led by Bradesco, down 2.2%, and Itaú Unibanco, which fell 2.6% ahead of the release of the Copom minutes on Tuesday, which are expected to provide further insight into the monetary authority's outlook for the Selic rate."
     }
   ]
 }

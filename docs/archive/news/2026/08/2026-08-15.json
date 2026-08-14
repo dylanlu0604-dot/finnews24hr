@@ -1,7 +1,41 @@
 {
   "date": "2026-08-15",
-  "count": 297,
+  "count": 301,
   "items": [
+    {
+      "id": "mkt:01a00207-1abe-7aab-9045-f2dde5d10880",
+      "time": "2026-08-15 04:46:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said Canada's head of U.S. trade and chief negotiator will remain in Washington over the weekend to continue talks."
+    },
+    {
+      "id": "mkt:01a00205-98be-7aab-9045-e98b9aeb7933",
+      "time": "2026-08-15 04:45:16",
+      "tags": [
+        "MKT News",
+        "AMD.O"
+      ],
+      "text": "SEC filings show AMD (AMD.O) holds 3.3 mln Class A shares of SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5041985",
+      "time": "2026-08-15 04:45:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案顯示，AMD(AMD.O)持有330萬股SpaceX(SPCX.O)A類股份。"
+    },
+    {
+      "id": "5041984",
+      "time": "2026-08-15 04:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加拿大負責對美雙邊貿易事務的部長及加拿大首席貿易談判代表本週末將留駐華盛頓開展會談。"
+    },
     {
       "id": "5041983",
       "time": "2026-08-15 04:39:57",
