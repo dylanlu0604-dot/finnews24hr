@@ -1,7 +1,131 @@
 {
   "date": "2026-08-14",
-  "count": 1693,
+  "count": 1709,
   "items": [
+    {
+      "id": "mkt:019fff71-8ac7-7aab-903a-c10eeaf696b7",
+      "time": "2026-08-14 16:44:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel Defense Forces killed Hamas commander Mohammed Mustaha, i24News reports."
+    },
+    {
+      "id": "te:economy:575390",
+      "time": "2026-08-14 16:44:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Slovenia Q2 GDP Growth Hits 4-Year High — Slovenia’s gross domestic product expanded at an annual rate of 5.0% in the second quarter of 2026, following an upwardly revised 3.2% rise in the previous quarter. This marked the strongest economic growth since the first quarter of 2022, driven by an increase in consumer spending (3.4% vs 2.8% in Q1), while the decline in changes in inventories eased (-0.1% vs -1.5%). Moreover, gross fixed capital formation remained unchanged (at 13.2%). Meanwhile, growth in government spending eased (5.2% vs 5.6%). Net trade also contributed negatively, as imports rose by 7.6%, outpacing the 6.4% increase in exports. On the production side, activity recorded notable growth in agriculture (1.8% vs 1.1%), construction (15.9% vs 14.3%), trade, transportation, and storage (5.2% vs 2.1%), and financial and insurance activities (8.3% vs 6.6%). On a seasonally adjusted quarterly basis, GDP grew by 1.8% in Q2, following a revised 1.1% increase in the previous period."
+    },
+    {
+      "id": "5040943",
+      "time": "2026-08-14 16:44:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精測電子：發行股份等購資產事項正推進 尚需多環節審批】精測電子公告稱，公司擬透過發行股份、可轉債及支付現金購買上海精測半導體技術有限公司41.17%股權並募集配套資金，預計構成重大資產重組且為關聯交易。公司股票7月9日開市起停牌，7月16日開市起復牌。截至公告披露日，交易涉及的審計、評估等工作未完成，待完成後將再開董事會審議。本次交易尚需公司董事會、股東會及監管機構批准，能否透過存在不確定性。"
+    },
+    {
+      "id": "5040941",
+      "time": "2026-08-14 16:43:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信立泰：創新藥注射用SAL012臨床試驗申請獲受理】信立泰公告，公司及全資子公司收到國家藥品監督管理局受理通知書，自主研發的1類新藥注射用SAL012用於治療晚期實體瘤的臨床試驗申請獲得受理，受理號CXSL2600858。自受理之日起60日內未收到否定或質疑意見的，可按照提交方案開展臨床試驗。"
+    },
+    {
+      "id": "5040940",
+      "time": "2026-08-14 16:43:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳捷網路：上半年歸母淨利潤6.94億元，同比增長53.54%】銳捷網路8月14日披露半年報，公司上半年實現營業收入88.32億元，同比增長32.83%；歸屬於上市公司股東的淨利潤6.94億元，同比增長53.54%；基本每股收益0.6234元/股。"
+    },
+    {
+      "id": "5040939",
+      "time": "2026-08-14 16:43:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：政府將透過一箇中央採購機構整合所有同類商品的採購。"
+    },
+    {
+      "id": "mkt:019fff70-46aa-7aab-903a-bdc8bd224677",
+      "time": "2026-08-14 16:42:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai Stock Exchange issued a supervisory letter to Changzhou Juhe New Materials Co., Ltd."
+    },
+    {
+      "id": "5040938",
+      "time": "2026-08-14 16:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "上交所釋出關於常州聚和新材料股份有限公司的監管工作函。"
+    },
+    {
+      "id": "5040937",
+      "time": "2026-08-14 16:42:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中紡標：持股5%以上股東中紡院（天津）擬減持不超過1.9839%股份】中紡標公告，持股5.53%的股東中紡院（天津）科技發展有限公司（系控股股東一致行動人）擬自本公告披露之日起15個交易日後的3個月內，透過集中競價方式減持不超過183萬股，佔公司總股本比例1.9839%。減持價格根據減持時市場價格確定，減持原因為經營發展需要。"
+    },
+    {
+      "id": "5040936",
+      "time": "2026-08-14 16:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅能化：籌劃發行股份購買資產交易 審計評估正推進】甘肅能化公告稱，公司擬以發行股份及支付現金方式購買甘肅能源化工投資集團持有的甘肅能化金昌能源化工開發有限公司100%股權，並擬募資配套資金。公司股票和可轉債於4月2日起停牌、暫停轉股，4月17日起復牌、恢復轉股。截至公告披露日，交易審計、評估工作正推進，後續將召開董事會、股東會審議議案，交易尚需交易所稽核透過、證監會註冊，能否獲批及時間存在不確定性。"
+    },
+    {
+      "id": "mkt:019fff6f-9652-7aab-903a-b1c46a51f356",
+      "time": "2026-08-14 16:42:10",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact mixed"
+      ],
+      "text": "【SK Hynix records KRW 3.98 trillion derivative loss from exchangeable-bond conversions and share rally】According to a regulatory filing, SK Hynix booked a KRW 3.98 trillion derivative trading loss in 1H 2026 tied to exchangeable bonds issued in April 2023. The loss stemmed from bondholders exercising conversion rights and a rise in SK Hynix’s Korean-listed share price. The company said the accounting loss does not involve cash outflow and that gains on disposal of treasury shares recognized when the bonds converted have largely offset the loss."
+    },
+    {
+      "id": "5040935",
+      "time": "2026-08-14 16:41:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案披露，渣打銀行8月13日在其他交易所合計回購365,335股股份，總金額為820萬英鎊。"
+    },
+    {
+      "id": "5040934",
+      "time": "2026-08-14 16:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：合併採購可將預算效率提高30%。"
+    },
+    {
+      "id": "5040933",
+      "time": "2026-08-14 16:40:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織發言人：蘇丹境內 37% 的醫療機構已無法投入使用。"
+    },
     {
       "id": "mkt:019fff6d-cfad-7aab-903a-aafbb4ca2fd7",
       "time": "2026-08-14 16:40:14",
@@ -71,6 +195,14 @@
         "國際"
       ],
       "text": "【SK海力士因可交換債換股及股價上漲確認3.98萬億韓元損失】根據監管檔案，SK海力士在2026年上半年確認與2023年4月發行的可交換債券相關的衍生品交易損失3.98萬億韓元。該損失源於相關債券持有人行使換股權，以及SK海力士在韓國上市股票價格上漲。SK海力士表示，上述會計損失不會導致實際現金流出；同時，當可交換債券轉換為股份時確認的庫存股處置收益，已基本抵消相關損失。"
+    },
+    {
+      "id": "5040928",
+      "time": "2026-08-14 16:38:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安妮股份：控股股東變更為晟世天安 實控人變為李寧和王磊】安妮股份公告稱，2026年8月13日，公司原控股股東林旭曦、張傑向晟世天安協議轉讓9229.15萬股（佔總股本15.92%）的過戶登記手續辦理完畢，控股股東變更為晟世天安，實際控制人變為李寧和王磊。同時，張傑放棄2887.16萬股（佔總股本4.98%）表決權。晟世天安承諾在協議轉讓股份過戶登記完成之日起36個月內，不轉讓受讓股份。本次控制權變更不會對公司持續經營產生不利影響。"
     },
     {
       "id": "5040927",
@@ -188,6 +320,15 @@
         "Impact mixed"
       ],
       "text": "【PBOC: RMB deposits up 17.79 tln yuan Jan–Jul; end‑July RMB deposits 346.47 tln yuan, +8.1% YoY】PBOC data: end‑July total deposits (RMB and foreign currency) 354.49 tln yuan, up 8.1% YoY. End‑July RMB deposits 346.47 tln yuan, up 8.1% YoY. Jan–Jul RMB deposits increased 17.79 tln yuan — household deposits +6.95 tln, non‑financial corporate deposits +1.57 tln, fiscal deposits +1.95 tln, non‑bank financial institution deposits +5.76 tln. End‑July foreign‑currency deposits $1.18 tln, up 17.9% YoY; Jan–Jul foreign‑currency deposits rose $121.2 bln."
+    },
+    {
+      "id": "5040918",
+      "time": "2026-08-14 16:36:16",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【違法違規收集使用個人資訊 75款移動應用被點名】根據中央網信辦、工業和資訊化部、公安部聯合釋出的《關於開展2026年個人資訊保護系列專項行動的公告》，依據《網路安全法》《個人資訊保護法》《網路資料安全管理條例》《App違法違規收集使用個人資訊行為認定方法》等法律法規和有關規定，經國家計算機病毒應急處理中心檢測，75款移動應用存在一項或者多項違法違規收集使用個人資訊情況。（央視新聞）"
     },
     {
       "id": "mkt:019fff6a-1b93-7aab-903a-7e87e065ac6e",
