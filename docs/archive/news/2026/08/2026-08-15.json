@@ -1,7 +1,45 @@
 {
   "date": "2026-08-15",
-  "count": 178,
+  "count": 182,
   "items": [
+    {
+      "id": "mkt:01a001ae-b9e3-7aab-9044-c367b8224a47",
+      "time": "2026-08-15 03:10:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Yemen government forces say Houthi militants fired six ballistic missiles at Mokha port】On the 14th local time Yemen government forces said Houthi militants fired six ballistic missiles at Mokha port in southwest Yemen, striking civilian and state facilities and seeking to blockade and exacerbate civilian hardship. Yemen’s Health Ministry condemned the strikes, warned of serious health and humanitarian consequences, and urged the UN, international organizations and aid agencies to denounce the attacks, protect critical civilian infrastructure, ensure continued delivery of supplies and humanitarian aid, and scale up emergency health and nutrition assistance to the western coast and other affected areas."
+    },
+    {
+      "id": "mkt:01a001ad-3e88-7aab-9044-b9b18a45e5e6",
+      "time": "2026-08-15 03:08:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Chile's state-owned copper miner Codelco confirmed changes among top executives."
+    },
+    {
+      "id": "5041907",
+      "time": "2026-08-15 03:08:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數主連夜盤收漲0.61%。恒生科技指數主連夜盤收漲0.81%。"
+    },
+    {
+      "id": "mkt:01a001ac-a1eb-7aab-9044-b5a0cfad2a37",
+      "time": "2026-08-15 03:08:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's health ministry said a Houthi missile strike on the port town of Mocha tonight killed one civilian and wounded eight."
+    },
     {
       "id": "5041906",
       "time": "2026-08-15 03:07:13",

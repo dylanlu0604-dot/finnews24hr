@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-15 03:08:04",
+  "updated": "2026-08-15 03:11:55",
   "count": 15308,
   "items": [
+    {
+      "id": "mkt:01a001ae-b9e3-7aab-9044-c367b8224a47",
+      "time": "2026-08-15 03:10:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Yemen government forces say Houthi militants fired six ballistic missiles at Mokha port】On the 14th local time Yemen government forces said Houthi militants fired six ballistic missiles at Mokha port in southwest Yemen, striking civilian and state facilities and seeking to blockade and exacerbate civilian hardship. Yemen’s Health Ministry condemned the strikes, warned of serious health and humanitarian consequences, and urged the UN, international organizations and aid agencies to denounce the attacks, protect critical civilian infrastructure, ensure continued delivery of supplies and humanitarian aid, and scale up emergency health and nutrition assistance to the western coast and other affected areas."
+    },
+    {
+      "id": "mkt:01a001ad-3e88-7aab-9044-b9b18a45e5e6",
+      "time": "2026-08-15 03:08:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Chile's state-owned copper miner Codelco confirmed changes among top executives."
+    },
+    {
+      "id": "5041907",
+      "time": "2026-08-15 03:08:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數主連夜盤收漲0.61%。恒生科技指數主連夜盤收漲0.81%。"
+    },
+    {
+      "id": "mkt:01a001ac-a1eb-7aab-9044-b5a0cfad2a37",
+      "time": "2026-08-15 03:08:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's health ministry said a Houthi missile strike on the port town of Mocha tonight killed one civilian and wounded eight."
+    },
     {
       "id": "5041906",
       "time": "2026-08-15 03:07:13",
@@ -140044,38 +140082,6 @@
         "國際"
       ],
       "text": "美國國務院：美國對六家實體及一名個人實施制裁。"
-    },
-    {
-      "id": "5031522",
-      "time": "2026-08-08 03:10:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏互襲對方黑海船隻等軍事目標】 據烏克蘭和俄羅斯7日分別釋出訊息，烏克蘭在過去兩天打擊黑海和亞速海上的6艘俄羅斯船隻，俄羅斯武裝部隊當天打擊了烏克蘭在黑海的軍用油料罐和乾貨船。烏克蘭無人系統部隊司令羅伯特·布拉烏季在社交媒體釋出訊息說，過去48小時內，烏克蘭無人系統部隊共打擊102個俄方目標，其中包括黑海和亞速海的6艘“影子艦隊”船隻，分別為兩艘油輪和4艘乾貨船。烏方還打擊了俄方8個運輸裝卸點、兩座燃料和彈藥庫、兩套雷達系統、一套“山毛櫸”防空導彈系統等目標。同日，俄羅斯國防部發布通報說，俄武裝部隊當天動用陸基高精度武器和攻擊型無人機，打擊烏克蘭黑海港口內供烏軍使用的油料罐，以及黑海水域兩艘運送軍備的烏克蘭乾貨船。另據俄新社同日援引土耳其相關訊息源報道，一艘懸掛土耳其國旗的乾貨船當天在俄羅斯的黑海港口遭無人機襲擊，暫無人員傷亡。烏克蘭是此次襲擊“幕後方”。（新華社）"
-    },
-    {
-      "id": "mkt:019fdda1-8177-7aab-8fc0-d6631a706437",
-      "time": "2026-08-08 03:09:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars news agency reported Iranian President PEZESHKIAN said he has never resigned and will never resign."
-    },
-    {
-      "id": "5031521",
-      "time": "2026-08-08 03:09:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數上漲0.5%，納斯達克100指數上漲1%。"
-    },
-    {
-      "id": "5031520",
-      "time": "2026-08-08 03:08:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普主持美國礦業圓桌會議開始。"
     }
   ]
 }
