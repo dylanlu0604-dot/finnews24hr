@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-15 00:37:32",
-  "count": 15354,
+  "updated": "2026-08-15 00:41:27",
+  "count": 15352,
   "items": [
+    {
+      "id": "5041842",
+      "time": "2026-08-15 00:40:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Rokos效仿多策略基金 將客戶完全贖回期限延長至三年】Chris Rokos正將部分投資者從其宏觀對沖基金中贖回全部資金所需的時間延長至原來的三倍，效仿規模更大的多策略基金，將客戶資金鎖定更長時間。據知情人士透露，總部位於倫敦的Rokos Capital Management正在引入一項每季度8.33%的投資者層面贖回限制，這意味著投資者完全贖回資金最長需要三年。相比之下，目前的安排是最長一年，每季度可贖回25%。知情人士表示，此舉旨在逐步將基金的資本結構轉向期限更長的資金。"
+    },
+    {
+      "id": "mkt:01a00123-6c10-7aab-9043-1629026dda61",
+      "time": "2026-08-15 00:38:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Goolsbee said if productivity continues to decline, expectations about AI will need to be reassessed."
+    },
+    {
+      "id": "5041841",
+      "time": "2026-08-15 00:37:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【古爾斯比尋求更多通脹降溫的證據】芝加哥聯邦儲備銀行行長古爾斯比表示，美國通脹近期的改善令他受到鼓舞，但還需要連續數月出現同類資料，才能確信通脹正持續向美聯儲 2% 的目標回落。他稱通脹是自己首要關切，同時表示美國經濟在增長與勞動力市場方面 “基本保持穩定”。古爾斯比在 7 月議息會議上支援維持利率不變，鑑於通脹長期高於目標水平，他依舊持謹慎態度。\n近期通脹資料走弱、7 月零售銷售疲軟以及就業增長相對平淡，已經使得投資者下調美聯儲加息預期。目前市場預計 9 月加息機率約 30%，而一個月前市場對此的預期要高得多。古爾斯比同時警告，人工智慧等技術帶來的生產率提升，並不天然支援下調利率，因為大規模投資支出最終可能造成經濟過熱。"
+    },
     {
       "id": "mkt:01a00122-20af-7aab-9043-08aa9b9ae644",
       "time": "2026-08-15 00:36:48",
@@ -140452,50 +140481,6 @@
         "其他"
       ],
       "text": "OpenAI：將與相關政府機構及精選人工智慧安全機構合作，對 Astra 的各項能力開展測試。"
-    },
-    {
-      "id": "mkt:019fdd18-e272-7aab-8fbe-39deba28424f",
-      "time": "2026-08-08 00:40:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign ministry spokesman said that, so far, 'Iran's spoils' are nothing more than a paper trophy symbolizing a victory not yet achieved."
-    },
-    {
-      "id": "mkt:019fdd18-d011-7aab-8fbe-318d7d412ff2",
-      "time": "2026-08-08 00:40:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's economy minister said the government aims to cut the poverty rate to 15% within five years."
-    },
-    {
-      "id": "5031441",
-      "time": "2026-08-08 00:39:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯經濟部長稱，政府目標是五年內將貧困率降至 15%。"
-    },
-    {
-      "id": "mkt:019fdd18-68ac-7aab-8fbe-29a2f6bec444",
-      "time": "2026-08-08 00:39:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran foreign ministry spokesman said Trump vowed the US would apply to Iran the same approach used against Venezuela. He warned Washington cannot claim 'war spoils' without winning the war, and risks a stalemate, dwindling weapons stockpiles and loss of credibility if it fails to achieve its claimed (malicious) objectives."
-    },
-    {
-      "id": "5031440",
-      "time": "2026-08-08 00:39:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：依據我方預備框架評估，目前無法排除 Astra 模型具備關鍵網路攻擊能力。"
     }
   ]
 }
