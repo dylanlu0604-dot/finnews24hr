@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 101,
+  "count": 103,
   "items": [
+    {
+      "id": "mkt:01a0014c-3f7e-7aab-9043-b0136734dc38",
+      "time": "2026-08-15 01:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said its air-defence systems shot down 221 Ukrainian fixed-wing drones in the past 12 hours over several oblasts and in the Black Sea and Sea of Azov."
+    },
+    {
+      "id": "5041867",
+      "time": "2026-08-15 01:22:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：莫斯科時間當日 8 時至 20 時，俄軍值班防空系統在別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州、奧廖爾州、圖拉州、莫斯科州、克拉斯諾達爾邊疆區、克里米亞共和國上空，以及亞速海、黑海海域上空，共攔截並摧毀 221 架烏克蘭固定翼無人機。"
+    },
     {
       "id": "5041866",
       "time": "2026-08-15 01:16:43",

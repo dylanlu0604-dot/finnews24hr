@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 01:21:01",
-  "count": 15342,
+  "updated": "2026-08-15 01:24:57",
+  "count": 15341,
   "items": [
+    {
+      "id": "mkt:01a0014c-3f7e-7aab-9043-b0136734dc38",
+      "time": "2026-08-15 01:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said its air-defence systems shot down 221 Ukrainian fixed-wing drones in the past 12 hours over several oblasts and in the Black Sea and Sea of Azov."
+    },
+    {
+      "id": "5041867",
+      "time": "2026-08-15 01:22:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：莫斯科時間當日 8 時至 20 時，俄軍值班防空系統在別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州、奧廖爾州、圖拉州、莫斯科州、克拉斯諾達爾邊疆區、克里米亞共和國上空，以及亞速海、黑海海域上空，共攔截並摧毀 221 架烏克蘭固定翼無人機。"
+    },
     {
       "id": "5041866",
       "time": "2026-08-15 01:16:43",
@@ -140386,34 +140402,6 @@
         "Europe & UK"
       ],
       "text": "Lebanese official says France has been excluded from the list of countries slated to send troops to oversee Hezbollah's disarmament."
-    },
-    {
-      "id": "mkt:019fdd40-7946-7aab-8fbf-46f99f1796f5",
-      "time": "2026-08-08 01:23:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Senate passed a comprehensive Russia energy sanctions bill 86-11 and sent it to the House for consideration."
-    },
-    {
-      "id": "5031462",
-      "time": "2026-08-08 01:22:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院透過對俄製裁法案。"
-    },
-    {
-      "id": "te:markets:573873",
-      "time": "2026-08-08 01:22:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Steadies Near 7-Week High — Palladium futures held near $1,370 per ounce, remaining near a seven-week high as weaker-than-expected US jobs data reduced expectations of further Fed tightening, while Middle East tensions capped gains. US nonfarm payrolls unexpectedly declined in July, prompting markets to lower expectations of a near-term Fed rate hike to 43.9% from 57% before the report. However, President Donald Trump stated he believed the war would end soon, while attacks by Iran and Iran-backed Houthi militants continued to fuel concerns over energy supply disruptions and inflation. Meanwhile, US consumers continued to favor hybrid vehicles over battery-electric models in the first half of 2026, supporting demand for palladium used in catalytic converters. However, broader demand remained under pressure as Chinese EV sales rose for a third straight month in July. Nornickel, the world's largest palladium producer, expects a global palladium market surplus in 2026 as rising EV adoption weakens long-term demand."
     }
   ]
 }
