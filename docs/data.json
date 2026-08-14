@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-14 09:24:19",
-  "count": 15495,
+  "updated": "2026-08-14 09:28:09",
+  "count": 15498,
   "items": [
+    {
+      "id": "5040297",
+      "time": "2026-08-14 09:27:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "儲存晶片板塊開盤活躍，阿萊德漲超10%，聯芸科技、普冉股份、兆易創新、德明利、長鑫科技等集體高開。"
+    },
+    {
+      "id": "5040296",
+      "time": "2026-08-14 09:27:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：中國網際網路公司硬體投資超預期 算力及配套晶片供不應求】中芯國際聯合CEO趙海軍在業績會上表示，中國網際網路公司大幅提高硬體投資在公司此前預測之外，能夠明顯感受到客戶在跟公司談以後的合作時，後續下線量都遠遠超過原來的預期。直接相關的需求，以及資料中心的電路板跟算力板相關的配套晶片，比如邏輯電路、BCD、光模組傳送接收，都供不應求。"
+    },
+    {
+      "id": "mkt:019ffde1-9475-7aab-9032-01428ceb2c5a",
+      "time": "2026-08-14 09:27:26",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite opened up 3.06 points (+0.08%) at 3,930.02 on Friday, Aug. 14; Shenzhen Composite opened up 45.97 points (+0.32%) at 14,335.41; CSI 300 opened up 9.02 points (+0.19%) at 4,672.98; ChiNext Index opened up 24.15 points (+0.67%) at 3,610.19; STAR 50 Index opened up 21.07 points (+1.23%) at 1,738.82."
+    },
+    {
+      "id": "mkt:019ffde1-7d2c-7aab-9031-fbd64b8ac6b8",
+      "time": "2026-08-14 09:27:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "981.HK",
+        "Impact bullish"
+      ],
+      "text": "China A-share storage chip sector opened higher; Alaide up >11%, Lianyun Technology up >5%; GigaDevice, SMIC and Demingli also gained."
+    },
+    {
+      "id": "mkt:019ffde1-7bd1-7aab-9031-f2220e09f6c0",
+      "time": "2026-08-14 09:27:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Retail cash yield snapshot: Licaitong, WeChat Lingqian Tong, Alipay Yu'e Bao】Licaitong (Tencent) current+7-day annualized yield: 0.6990%–1.0740%. WeChat Lingqian Tong 7-day annualized yield: 0.9010%–1.0010%. Alipay Yu'e Bao 7-day annualized yield: 0.9010%–1.0100%."
+    },
+    {
+      "id": "5040295",
+      "time": "2026-08-14 09:26:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "中芯國際：2026年折舊成本將達到50億美元，2027年將繼續增加。"
+    },
+    {
+      "id": "mkt:019ffde0-f618-7aab-9031-ee75419a4571",
+      "time": "2026-08-14 09:26:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "PBOC conducted 349 billion yuan of overnight reverse repo operations today."
+    },
+    {
+      "id": "5040294",
+      "time": "2026-08-14 09:25:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.08％，深成指漲0.32％，創業板漲0.67％。"
+    },
+    {
+      "id": "mkt:019ffddf-c3e1-7aab-9031-e19690f258e4",
+      "time": "2026-08-14 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite rose 0.08%, the Shenzhen Composite Index rose 0.32% and the ChiNext Index rose 0.67%."
+    },
+    {
+      "id": "5040293",
+      "time": "2026-08-14 09:25:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣達電腦與Quantinuum宣佈合作，為大規模量子計算構建產業基礎。"
+    },
+    {
+      "id": "mkt:019ffddf-40ea-7aab-9031-dd9c71ea82f2",
+      "time": "2026-08-14 09:24:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY 1.001 tln drain via reverse repos today; CNY 1.0985 tln net drain this week】Today the PBOC did not conduct new reverse repos; CNY 1.0 bln of 7-day reverse repos and CNY 1.0 tln of outright reverse-repo maturities led to a CNY 1.001 tln net drain. This week the PBOC injected CNY 18 bln of 7-day reverse repos while CNY 116.5 bln of 7-day maturities and CNY 1.0 tln of outright reverse-repo maturities rolled off, producing a CNY 1.0985 tln weekly net drain."
+    },
     {
       "id": "mkt:019ffddd-e77b-7aab-9031-d6e863770052",
       "time": "2026-08-14 09:23:26",
@@ -141780,84 +141896,6 @@
         "觀點"
       ],
       "text": "【合源生物啟動IPO輔導】合源生物科技股份有限公司獲上市輔導備案登記，擬在A股IPO，輔導機構為中信建投。該公司從事CAR-T細胞治療藥物研發。"
-    },
-    {
-      "id": "mkt:019fd9d5-29ed-7aab-8fab-d4a79295c803",
-      "time": "2026-08-07 09:27:33",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "At the open on Aug 7 (Fri), China's Shanghai Composite Index fell 3.87 pts (-0.10%) to 3,896.49; Shenzhen Composite rose 42.66 pts (+0.30%) to 14,152.78; the CSI 300 Index rose 4.79 pts (+0.10%) to 4,656.10; ChiNext gained 21.88 pts (+0.62%) to 3,537.44; the STAR 50 (Sci‑Tech Innovation 50) fell 3.92 pts (-0.23%) to 1,697.37."
-    },
-    {
-      "id": "5029804",
-      "time": "2026-08-07 09:26:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海博思創投資成立新能源科技公司】企查查APP顯示，近日，博清智濱（無棣）新能源科技有限公司成立，經營範圍包含風力發電技術服務；資訊科技諮詢服務；儲能技術服務；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由海博思創(688411)全資持股。"
-    },
-    {
-      "id": "mkt:019fd9d4-49eb-7aab-8fab-cee30de661ce",
-      "time": "2026-08-07 09:26:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【10th BRICS Ministers of Industry meeting held in Jaipur, India】On Aug 6, the 10th BRICS Ministers of Industry meeting convened in Jaipur, India. China's Ministry of Industry and Information Technology chief engineer Wang Weiming attended. Ministers and UNIDO representatives exchanged on SMEs, photovoltaic industry transition, startup support and logistics system development. The meeting adopted a joint declaration and approved a photovoltaic industry working-group mandate and action plan, an SME working-group cooperation framework and a startups action plan."
-    },
-    {
-      "id": "5029803",
-      "time": "2026-08-07 09:25:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲4%，現報4768.00元。"
-    },
-    {
-      "id": "5029802",
-      "time": "2026-08-07 09:25:35",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指跌0.1％，深成指漲0.3％，創業板漲0.62％。"
-    },
-    {
-      "id": "mkt:019fd9d3-2cf3-7aab-8fab-c65ed63f790f",
-      "time": "2026-08-07 09:25:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "At the A-share open, the Shanghai Composite fell 0.1%, the Shenzhen Composite Index rose 0.3% and the ChiNext gained 0.62%; gold-related and rare-earth permanent magnet sectors led declines."
-    },
-    {
-      "id": "5029801",
-      "time": "2026-08-07 09:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第十屆金磚國家工業部長會議在印度齋浦爾召開】8月6日，第十屆金磚國家工業部長會議在印度齋浦爾召開，中國工業和資訊化部總工程師王衛明出席會議併發言。金磚各國工業主管部門及聯合國工業發展組織代表圍繞中小企業發展、光伏產業轉型、初創企業賦能、物流體系建設等議題深入交流。本次會議透過了《第十屆金磚國家工業部長會議聯合宣言》，批准了光伏產業工作組職責檔案和行動計劃、中小企業工作組合作框架、初創企業行動計劃。"
-    },
-    {
-      "id": "5029800",
-      "time": "2026-08-07 09:24:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SK海力士股價跌幅擴大至4.6%，三星電子股價上漲0.4%。"
     }
   ]
 }
