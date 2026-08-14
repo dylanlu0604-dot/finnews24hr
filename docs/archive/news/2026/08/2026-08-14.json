@@ -1,7 +1,140 @@
 {
   "date": "2026-08-14",
-  "count": 647,
+  "count": 660,
   "items": [
+    {
+      "id": "mkt:019ffdd0-2fa3-7aab-9031-3cc1023b4ea6",
+      "time": "2026-08-14 09:08:27",
+      "tags": [
+        "MKT News",
+        "UBER.N",
+        "Impact bullish",
+        "02026.HK"
+      ],
+      "text": "Pony.ai-W (02026.HK): Uber (UBER.N) expands cooperation with Pony.ai, planning to deploy over 2,000 robotaxis across five European cities."
+    },
+    {
+      "id": "mkt:019ffdd0-1916-7aab-9031-3208f78ea37c",
+      "time": "2026-08-14 09:08:21",
+      "tags": [
+        "MKT News",
+        "02026.HK",
+        "Impact bullish",
+        "UBER.O"
+      ],
+      "text": "Pony.ai-W (02026.HK) to expand cooperation with Uber and deploy more than 2,000 autonomous taxis in Europe."
+    },
+    {
+      "id": "5040266",
+      "time": "2026-08-14 09:07:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國小馬智行與優步將聯合在歐洲部署2,000多輛機器人計程車】中國自動駕駛公司小馬智行週五宣佈，計劃在與優步（Uber） 擴大合作框架下，在歐洲部署超過2,000輛自動駕駛計程車。據該公司宣告稱，這項始於2025年5月的合作將從目前在克羅埃西亞首都薩格勒布運營的商用自動駕駛計程車服務，擴充套件至歐洲的四個未公開名稱的城市。宣告未透露該部署計劃的具體完成時間表。宣告稱，此次合作擴充套件計劃還包括中東地區，但未提供進一步細節。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608143841215436",
+      "time": "2026-08-14 09:07:44",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【今年前7月蘇州工業園區進出口值首破萬億元】據新華日報，記者8月13日從蘇州工業園區海關獲悉，今年前7個月，蘇州工業園區外貿進出口值歷史首次突破1萬億元大關，達1.02萬億元，同比增長126.8%，規模超2025年全年。其中，儲存器、光模組等AI算力硬體產品佔比過半。"
+    },
+    {
+      "id": "mkt:019ffdcf-26a1-7aab-9031-2f9b3b41103f",
+      "time": "2026-08-14 09:07:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose above $86/bbl, up 0.18% on the day."
+    },
+    {
+      "id": "mkt:019ffdce-af7c-7aab-9031-27653409d0a8",
+      "time": "2026-08-14 09:06:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers."
+    },
+    {
+      "id": "5040262",
+      "time": "2026-08-14 09:06:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓華海洋股價大漲，特朗普備忘錄為外國船廠建造美國海軍艦艇開啟口子】韓國韓華海洋週五早盤股價最高上漲 9.6%，創下六週盤中新高。美國總統特朗普指示美國戰爭部推進採購方案：外國造船企業若在美國本土船廠投資，最多可在其母公司船廠建造兩艘美軍艦艇，該計劃旨在擴大美國造船產能。該政策載於週四簽署的總統備忘錄及配套情況說明書，適用於兩類外國企業：在美國新建船廠，或是收購現有美國船廠、取得其多數股權的企業；後續艦艇則必須在美國本土建造。"
+    },
+    {
+      "id": "mkt:019ffdce-07d7-7aab-9031-1b7274d83044",
+      "time": "2026-08-14 09:06:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SMIC co-CEO Zhao Haijun: Q2 saw return of overseas orders; localized manufacturing strengthened】At SMIC's Q2 earnings meeting, co-CEO Zhao Haijun said sales by region were China 90%, the US 8% and Eurasia 2%. Revenues rose in all regions; China led with a 22% increase driven by strong demand for AI-related chips, return of overseas orders and expanded localized manufacturing. Wafer revenue by diameter was 12‑inch 78% and 8‑inch 22%; 12‑inch wafer revenue rose 24% QoQ and 8‑inch wafer revenue rose 11% QoQ."
+    },
+    {
+      "id": "5040261",
+      "time": "2026-08-14 09:06:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢威科技等在上海成立智聯科技新公司】人民財訊8月14日電，企查查APP顯示，近日，上海漢宸智聯科技有限公司成立，經營範圍包含智慧儀器儀表銷售；工業自動控制系統裝置銷售；儀器儀表銷售；貨物進出口等。企查查股權穿透顯示，該公司由漢威科技等共同持股。"
+    },
+    {
+      "id": "mkt:019ffdcd-6caa-7aab-9031-1384d335960b",
+      "time": "2026-08-14 09:05:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $63.81/oz."
+    },
+    {
+      "id": "5040260",
+      "time": "2026-08-14 09:05:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌0.49%。"
+    },
+    {
+      "id": "5040259",
+      "time": "2026-08-14 09:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "小馬智行與優步擴大合作，將在歐洲部署超2000輛自動駕駛計程車。"
+    },
+    {
+      "id": "5040258",
+      "time": "2026-08-14 09:04:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷士照明與星網天合達成戰略合作 ，共建智慧空間一體化解決方案】國內照明行業品牌雷士照明與全球ICT+AIoT智慧空間解決方案提供商星網天合正式簽署戰略合作協議。雙方將圍繞智慧家居與智慧商用兩大板塊，以健康好光、AI與IoT能力的融合，推動智慧空間從單點裝置聯動走向一體化交付，從“連線空間”走向“理解人”，打造主動服務的智慧生活體驗。星網天合是星網銳捷的控股子公司。星網天合深耕智慧家庭、社群、園區等領域，與超100家知名房企達成合作，智慧社群批次前裝市場份額穩居前三。雷士照明擁有源自中國航天照明科技實驗室的伴生適然光技術，2026年4月啟動健康光源共享計劃，將核心健康光技術向全行業開放共享。（新浪科技）"
+    },
     {
       "id": "mkt:019ffdcc-5cf3-7aab-9031-0a40085c2916",
       "time": "2026-08-14 09:04:16",

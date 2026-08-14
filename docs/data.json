@@ -1,7 +1,140 @@
 {
-  "updated": "2026-08-14 09:05:12",
-  "count": 15475,
+  "updated": "2026-08-14 09:09:02",
+  "count": 15481,
   "items": [
+    {
+      "id": "mkt:019ffdd0-2fa3-7aab-9031-3cc1023b4ea6",
+      "time": "2026-08-14 09:08:27",
+      "tags": [
+        "MKT News",
+        "UBER.N",
+        "Impact bullish",
+        "02026.HK"
+      ],
+      "text": "Pony.ai-W (02026.HK): Uber (UBER.N) expands cooperation with Pony.ai, planning to deploy over 2,000 robotaxis across five European cities."
+    },
+    {
+      "id": "mkt:019ffdd0-1916-7aab-9031-3208f78ea37c",
+      "time": "2026-08-14 09:08:21",
+      "tags": [
+        "MKT News",
+        "02026.HK",
+        "Impact bullish",
+        "UBER.O"
+      ],
+      "text": "Pony.ai-W (02026.HK) to expand cooperation with Uber and deploy more than 2,000 autonomous taxis in Europe."
+    },
+    {
+      "id": "5040266",
+      "time": "2026-08-14 09:07:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國小馬智行與優步將聯合在歐洲部署2,000多輛機器人計程車】中國自動駕駛公司小馬智行週五宣佈，計劃在與優步（Uber） 擴大合作框架下，在歐洲部署超過2,000輛自動駕駛計程車。據該公司宣告稱，這項始於2025年5月的合作將從目前在克羅埃西亞首都薩格勒布運營的商用自動駕駛計程車服務，擴充套件至歐洲的四個未公開名稱的城市。宣告未透露該部署計劃的具體完成時間表。宣告稱，此次合作擴充套件計劃還包括中東地區，但未提供進一步細節。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608143841215436",
+      "time": "2026-08-14 09:07:44",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【今年前7月蘇州工業園區進出口值首破萬億元】據新華日報，記者8月13日從蘇州工業園區海關獲悉，今年前7個月，蘇州工業園區外貿進出口值歷史首次突破1萬億元大關，達1.02萬億元，同比增長126.8%，規模超2025年全年。其中，儲存器、光模組等AI算力硬體產品佔比過半。"
+    },
+    {
+      "id": "mkt:019ffdcf-26a1-7aab-9031-2f9b3b41103f",
+      "time": "2026-08-14 09:07:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose above $86/bbl, up 0.18% on the day."
+    },
+    {
+      "id": "mkt:019ffdce-af7c-7aab-9031-27653409d0a8",
+      "time": "2026-08-14 09:06:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers."
+    },
+    {
+      "id": "5040262",
+      "time": "2026-08-14 09:06:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓華海洋股價大漲，特朗普備忘錄為外國船廠建造美國海軍艦艇開啟口子】韓國韓華海洋週五早盤股價最高上漲 9.6%，創下六週盤中新高。美國總統特朗普指示美國戰爭部推進採購方案：外國造船企業若在美國本土船廠投資，最多可在其母公司船廠建造兩艘美軍艦艇，該計劃旨在擴大美國造船產能。該政策載於週四簽署的總統備忘錄及配套情況說明書，適用於兩類外國企業：在美國新建船廠，或是收購現有美國船廠、取得其多數股權的企業；後續艦艇則必須在美國本土建造。"
+    },
+    {
+      "id": "mkt:019ffdce-07d7-7aab-9031-1b7274d83044",
+      "time": "2026-08-14 09:06:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SMIC co-CEO Zhao Haijun: Q2 saw return of overseas orders; localized manufacturing strengthened】At SMIC's Q2 earnings meeting, co-CEO Zhao Haijun said sales by region were China 90%, the US 8% and Eurasia 2%. Revenues rose in all regions; China led with a 22% increase driven by strong demand for AI-related chips, return of overseas orders and expanded localized manufacturing. Wafer revenue by diameter was 12‑inch 78% and 8‑inch 22%; 12‑inch wafer revenue rose 24% QoQ and 8‑inch wafer revenue rose 11% QoQ."
+    },
+    {
+      "id": "5040261",
+      "time": "2026-08-14 09:06:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢威科技等在上海成立智聯科技新公司】人民財訊8月14日電，企查查APP顯示，近日，上海漢宸智聯科技有限公司成立，經營範圍包含智慧儀器儀表銷售；工業自動控制系統裝置銷售；儀器儀表銷售；貨物進出口等。企查查股權穿透顯示，該公司由漢威科技等共同持股。"
+    },
+    {
+      "id": "mkt:019ffdcd-6caa-7aab-9031-1384d335960b",
+      "time": "2026-08-14 09:05:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $63.81/oz."
+    },
+    {
+      "id": "5040260",
+      "time": "2026-08-14 09:05:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌0.49%。"
+    },
+    {
+      "id": "5040259",
+      "time": "2026-08-14 09:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "小馬智行與優步擴大合作，將在歐洲部署超2000輛自動駕駛計程車。"
+    },
+    {
+      "id": "5040258",
+      "time": "2026-08-14 09:04:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷士照明與星網天合達成戰略合作 ，共建智慧空間一體化解決方案】國內照明行業品牌雷士照明與全球ICT+AIoT智慧空間解決方案提供商星網天合正式簽署戰略合作協議。雙方將圍繞智慧家居與智慧商用兩大板塊，以健康好光、AI與IoT能力的融合，推動智慧空間從單點裝置聯動走向一體化交付，從“連線空間”走向“理解人”，打造主動服務的智慧生活體驗。星網天合是星網銳捷的控股子公司。星網天合深耕智慧家庭、社群、園區等領域，與超100家知名房企達成合作，智慧社群批次前裝市場份額穩居前三。雷士照明擁有源自中國航天照明科技實驗室的伴生適然光技術，2026年4月啟動健康光源共享計劃，將核心健康光技術向全行業開放共享。（新浪科技）"
+    },
     {
       "id": "mkt:019ffdcc-5cf3-7aab-9031-0a40085c2916",
       "time": "2026-08-14 09:04:16",
@@ -141580,68 +141713,6 @@
         "國際"
       ],
       "text": "【梅德韋傑夫批高市早苗不提當年是誰轟炸廣島和長崎：真是恥辱】“真是恥辱。”對於日本首相高市早苗在有關場合不提美國在廣島和長崎遭原子彈轟炸事件中的角色，俄羅斯聯邦安全會議副主席梅德韋傑夫6日作出這樣的表態。梅德韋傑夫當天在社交平臺上發帖稱，“近日，在回顧廣島和長崎遭核爆事件時，日本首相或其他任何日本官員竟然一次都沒有提當年是誰炸的，真是恥辱”。梅德韋傑夫還稱，“日本是美國的附庸”。（環球網）"
-    },
-    {
-      "id": "5029779",
-      "time": "2026-08-07 09:08:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "為應對臺風影響，寧波海事部門持續加強重點航道、錨地和橋區巡航，目前沿海46個涉水工程已全部停工，施工船舶有序避風，100餘艘應急船舶在港口布防。舟山海事部門則依託“VTS+無人機+海巡艇”對轄區內錨地、避風水域加強立體巡查。截至8月6日20時，舟山72條客渡運航線已全部停航。"
-    },
-    {
-      "id": "5029778",
-      "time": "2026-08-07 09:08:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“白海豚”逼近 寧波、舟山啟動沿海Ⅱ級防颱應急響應】今年，第13號颱風“白海豚”持續逼近。8月7日5時，颱風中心距離寧波約852公里，中心最大風力14級，正以每小時15至20公里的速度向西移動。根據颱風動態，寧波和舟山兩地海事部門已於8月7日8時將沿海防颱應急響應提升至Ⅱ級。"
-    },
-    {
-      "id": "5029777",
-      "time": "2026-08-07 09:07:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【RWE與美國內政部達成12.2億美元和解，放棄三處海上風電租約】當地時間8月6日，德國能源企業RWE旗下美國海上風電業務已與美國內政部達成和解協議，美國政府支付12.2億美元和解資金，RWE將放棄位於紐約灣、加州近海和路易斯安那州近海的海上風電租賃權益。RWE表示，公司此前從美國政府獲得相關海上風電租約，並已投入超過10億美元用於租約及專案開發。經過評估，公司認為這些專案在可預見未來無法獲得許可推進，此次和解將解決RWE對美國政府提出的相關法律索賠，並使公司能夠將資本重新投入可推進的能源專案。"
-    },
-    {
-      "id": "mkt:019fd9c2-90d5-7aab-8fab-72c73d588fa8",
-      "time": "2026-08-07 09:07:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: Moonshot AI is requiring partners to accept revenue sharing of up to 30% for KIMI K3."
-    },
-    {
-      "id": "5029776",
-      "time": "2026-08-07 09:06:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱月之暗面要求合作伙伴同意KIMI K3收入分成最高達30%。"
-    },
-    {
-      "id": "mkt:019fd9c1-2702-7aab-8fab-6e34b1f241fd",
-      "time": "2026-08-07 09:05:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bullish"
-      ],
-      "text": "Sources say Alibaba plans to seek revenue-sharing arrangements for the next-generation open-source Qianwen AI model."
-    },
-    {
-      "id": "mkt:019fd9c0-c72f-7aab-8fab-675260a180f9",
-      "time": "2026-08-07 09:05:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【Short-term retail money-market yield snapshot】Tencent Licaitong (current + 7-day annualized) yields ranged 0.7320%–1.1730%. WeChat Wallet Lingqiantong 7-day annualized yield ranged 0.9010%–1.0270%. Alipay Yu’e Bao 7-day annualized yield ranged 0.9030%–1.0290%."
     }
   ]
 }
