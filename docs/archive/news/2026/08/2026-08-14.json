@@ -1,7 +1,156 @@
 {
   "date": "2026-08-14",
-  "count": 751,
+  "count": 766,
   "items": [
+    {
+      "id": "mkt:019ffdec-290a-7aab-9032-710fe4838ac2",
+      "time": "2026-08-14 09:39:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share food processing and manufacturing sector briefly slid; Anji Foods hit the daily limit-down, with Baihe, Gaishi Food, Haoxiangni and Haixin Food also falling."
+    },
+    {
+      "id": "5040332",
+      "time": "2026-08-14 09:38:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電力板塊走低 梅雁吉祥跌超8%】電力板塊走低，梅雁吉祥跌超8%，華銀電力、豫能控股、京能電力等跌幅居前。"
+    },
+    {
+      "id": "mkt:019ffdeb-fad9-7aab-9032-6bea6a9e6d04",
+      "time": "2026-08-14 09:38:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext index opened more than 1% higher, led by gains in storage-chip and CPO stocks."
+    },
+    {
+      "id": "mkt:019ffdeb-b08c-7aab-9032-635ea085fbec",
+      "time": "2026-08-14 09:38:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-shares liquid-cooled server names rallied: Kangsheng hit the daily trading limit, Alade rose over 15%, and Jiebang Technology, Jintian, Jingyan Technology and Siquan New Materials also advanced."
+    },
+    {
+      "id": "5040331",
+      "time": "2026-08-14 09:38:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.00%，現報3621.990點；上證指數跌0.08%，現報3923.875點；深證成指漲0.53%，現報14365.766點。"
+    },
+    {
+      "id": "5040330",
+      "time": "2026-08-14 09:38:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念股拉昇 阿萊德漲超14%】儲存晶片概念股拉昇，阿萊德漲超14%，藍箭電子、中巨芯、恆爍股份等股跟漲。"
+    },
+    {
+      "id": "5040329",
+      "time": "2026-08-14 09:37:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "華虹宏力A股下跌8%，港股跌近10%"
+    },
+    {
+      "id": "mkt:019ffdea-8a4d-7aab-9032-5911f33d2440",
+      "time": "2026-08-14 09:37:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01347.HK",
+        "Impact bearish"
+      ],
+      "text": "Huahong Hongli (01347.HK) shares plunged after results, opening down nearly 10%. The company guided 2026 Q3 revenue at about $770m–$780m and a gross margin of 16–18%, versus market consensus of 16.6%."
+    },
+    {
+      "id": "5040328",
+      "time": "2026-08-14 09:37:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI智慧體概念盤初走強，彩訊股份等多股漲停】AI智慧體概念盤初走強，彩訊股份、石基資訊、久其軟體漲停，漢得資訊、康力源、星環科技-U、每日互動、華盛昌等跟漲。"
+    },
+    {
+      "id": "5040327",
+      "time": "2026-08-14 09:36:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【食品加工製造板塊短線走低，安記食品觸及跌停】食品加工製造板塊短線走低，安記食品觸及跌停，百合股份、蓋世食品、好想你、海欣食品跟跌。"
+    },
+    {
+      "id": "mkt:019ffde9-e668-7aab-9032-5043c31df9b0",
+      "time": "2026-08-14 09:36:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "JD.com",
+        "Meituan",
+        "09618.HK",
+        "Impact bearish",
+        "03690.HK"
+      ],
+      "text": "Hang Seng Tech Index fell more than 1% in early trade as internet and tech names weakened; JD.com (09618.HK) slid over 8%, Meituan (03690.HK) dropped over 3%."
+    },
+    {
+      "id": "5040326",
+      "time": "2026-08-14 09:36:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI應用方向開盤拉昇，理工能科2連板，石基資訊、久其軟體直線漲停，大恆科技、合合資訊、達夢資料跟漲。"
+    },
+    {
+      "id": "5040325",
+      "time": "2026-08-14 09:36:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超節點概念反覆活躍 共進股份2連板】超節點概念反覆活躍，共進股份2連板，星網銳捷、紫光股份、海達爾、菲菱科思、銳捷網路跟漲。"
+    },
+    {
+      "id": "mkt:019ffde9-1a2a-7aab-9032-4fb47bfce173",
+      "time": "2026-08-14 09:35:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share dairy sector slid intraday; Huangshi Group and Yiming Food hit limit-down, Pinwo Food, Huanlejia and Panda Dairy also declined."
+    },
+    {
+      "id": "5040324",
+      "time": "2026-08-14 09:35:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4744.310點；恒生指數現跌0.889%。"
+    },
     {
       "id": "mkt:019ffde8-dbad-7aab-9032-41aaf3133fe1",
       "time": "2026-08-14 09:35:23",

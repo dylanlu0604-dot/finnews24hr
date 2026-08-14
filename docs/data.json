@@ -1,7 +1,156 @@
 {
-  "updated": "2026-08-14 09:35:48",
-  "count": 15510,
+  "updated": "2026-08-14 09:39:36",
+  "count": 15517,
   "items": [
+    {
+      "id": "mkt:019ffdec-290a-7aab-9032-710fe4838ac2",
+      "time": "2026-08-14 09:39:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share food processing and manufacturing sector briefly slid; Anji Foods hit the daily limit-down, with Baihe, Gaishi Food, Haoxiangni and Haixin Food also falling."
+    },
+    {
+      "id": "5040332",
+      "time": "2026-08-14 09:38:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電力板塊走低 梅雁吉祥跌超8%】電力板塊走低，梅雁吉祥跌超8%，華銀電力、豫能控股、京能電力等跌幅居前。"
+    },
+    {
+      "id": "mkt:019ffdeb-fad9-7aab-9032-6bea6a9e6d04",
+      "time": "2026-08-14 09:38:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext index opened more than 1% higher, led by gains in storage-chip and CPO stocks."
+    },
+    {
+      "id": "5040331",
+      "time": "2026-08-14 09:38:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.00%，現報3621.990點；上證指數跌0.08%，現報3923.875點；深證成指漲0.53%，現報14365.766點。"
+    },
+    {
+      "id": "mkt:019ffdeb-b08c-7aab-9032-635ea085fbec",
+      "time": "2026-08-14 09:38:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-shares liquid-cooled server names rallied: Kangsheng hit the daily trading limit, Alade rose over 15%, and Jiebang Technology, Jintian, Jingyan Technology and Siquan New Materials also advanced."
+    },
+    {
+      "id": "5040330",
+      "time": "2026-08-14 09:38:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念股拉昇 阿萊德漲超14%】儲存晶片概念股拉昇，阿萊德漲超14%，藍箭電子、中巨芯、恆爍股份等股跟漲。"
+    },
+    {
+      "id": "5040329",
+      "time": "2026-08-14 09:37:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "華虹宏力A股下跌8%，港股跌近10%"
+    },
+    {
+      "id": "mkt:019ffdea-8a4d-7aab-9032-5911f33d2440",
+      "time": "2026-08-14 09:37:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01347.HK",
+        "Impact bearish"
+      ],
+      "text": "Huahong Hongli (01347.HK) shares plunged after results, opening down nearly 10%. The company guided 2026 Q3 revenue at about $770m–$780m and a gross margin of 16–18%, versus market consensus of 16.6%."
+    },
+    {
+      "id": "5040328",
+      "time": "2026-08-14 09:37:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI智慧體概念盤初走強，彩訊股份等多股漲停】AI智慧體概念盤初走強，彩訊股份、石基資訊、久其軟體漲停，漢得資訊、康力源、星環科技-U、每日互動、華盛昌等跟漲。"
+    },
+    {
+      "id": "5040327",
+      "time": "2026-08-14 09:36:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【食品加工製造板塊短線走低，安記食品觸及跌停】食品加工製造板塊短線走低，安記食品觸及跌停，百合股份、蓋世食品、好想你、海欣食品跟跌。"
+    },
+    {
+      "id": "mkt:019ffde9-e668-7aab-9032-5043c31df9b0",
+      "time": "2026-08-14 09:36:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "JD.com",
+        "Meituan",
+        "09618.HK",
+        "Impact bearish",
+        "03690.HK"
+      ],
+      "text": "Hang Seng Tech Index fell more than 1% in early trade as internet and tech names weakened; JD.com (09618.HK) slid over 8%, Meituan (03690.HK) dropped over 3%."
+    },
+    {
+      "id": "5040326",
+      "time": "2026-08-14 09:36:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI應用方向開盤拉昇，理工能科2連板，石基資訊、久其軟體直線漲停，大恆科技、合合資訊、達夢資料跟漲。"
+    },
+    {
+      "id": "5040325",
+      "time": "2026-08-14 09:36:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超節點概念反覆活躍 共進股份2連板】超節點概念反覆活躍，共進股份2連板，星網銳捷、紫光股份、海達爾、菲菱科思、銳捷網路跟漲。"
+    },
+    {
+      "id": "mkt:019ffde9-1a2a-7aab-9032-4fb47bfce173",
+      "time": "2026-08-14 09:35:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share dairy sector slid intraday; Huangshi Group and Yiming Food hit limit-down, Pinwo Food, Huanlejia and Panda Dairy also declined."
+    },
+    {
+      "id": "5040324",
+      "time": "2026-08-14 09:35:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4744.310點；恒生指數現跌0.889%。"
+    },
     {
       "id": "mkt:019ffde8-dbad-7aab-9032-41aaf3133fe1",
       "time": "2026-08-14 09:35:23",
@@ -141927,81 +142076,6 @@
         "焦點"
       ],
       "text": "【光伏矽料八巨頭簽署倡議：不得低於成本價銷售】記者從簽約企業處獲悉，8月6日晚，在7月31日市場監管總局對光伏行業開展價格合規指導後僅一週，國內八大多晶矽企業在上海共同簽署反內卷《倡議書》。八家企業合計佔據國內多晶矽有效產能超過90%，包括四家上市公司通威股份、協鑫科技、大全能源、新特能源，以及亞洲矽業（青海）股份有限公司、新疆東方希望新能源有限公司、青海麗豪清能股份有限公司、新疆戈恩斯能源科技有限公司。企業共同承諾：所有光伏產品銷售價格（含招投標報價）均不得低於依據團體標準《光伏行業成本核算模型通則》核算的對應成本。低於完全成本價銷售的必須立即制止和糾正，並自覺接受各級市場監督管理部門的監督檢查。企業要加強互相監督，當發現低於成本銷售的違法行為時，要及時向行業協會和市場監管總局反映和舉報。此外，企業承諾嚴格落實能耗新標準，主動出清高耗能落後產能。（上海證券報）"
-    },
-    {
-      "id": "mkt:019fd9df-564f-7aab-8fac-37ba9a8027e7",
-      "time": "2026-08-07 09:38:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share storage chip sector jumped in early trade; Woge Optoelectronics rose over 9%, Youyan New Materials, Hongban Technology and Goke Microelectronics climbed over 8%, while Guangli Technology, Zhengfan Technology and Shengyi Technology also advanced."
-    },
-    {
-      "id": "5029821",
-      "time": "2026-08-07 09:37:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股PCB股走強 芯碁微裝漲超6%】截至發稿，芯碁微裝(09630.HK)漲6.45%，建滔積層板(01888.HK)漲3.44%，勝宏科技(02476.HK)漲3.29%。"
-    },
-    {
-      "id": "mkt:019fd9de-0d29-7aab-8fac-2ca7eb2364d2",
-      "time": "2026-08-07 09:37:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "A-share gaming stocks plunged intraday; Dasheng Culture hit the limit-down, while Caesar Culture, Shengtian Network, Zhongqingbao and Dianhun Network fell."
-    },
-    {
-      "id": "5029820",
-      "time": "2026-08-07 09:36:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6G概念延續強勢 通宇通訊5天4板】早盤6G概念延續強勢，武漢凡谷2連板，此前通宇通訊5天4板，廣哈通訊漲超10%，盛路通訊、燦勤科技、信維通訊、本川智慧漲幅靠前。"
-    },
-    {
-      "id": "5029819",
-      "time": "2026-08-07 09:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“白海豚”逼近 寧波、舟山啟動沿海Ⅱ級防颱應急響應】今年，第13號颱風“白海豚”持續逼近。8月7日5時，颱風中心距離寧波約852公里，中心最大風力14級，正以每小時15至20公里的速度向西移動。根據颱風動態，寧波和舟山兩地海事部門已於8月7日8時將沿海防颱應急響應提升至Ⅱ級。為應對臺風影響，寧波海事部門持續加強重點航道、錨地和橋區巡航，目前沿海46個涉水工程已全部停工，施工船舶有序避風，100餘艘應急船舶在港口布防。舟山海事部門則依託“VTS+無人機+海巡艇”對轄區內錨地、避風水域加強立體巡查。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fd9dc-fe04-7aab-8fac-24d3b9f90c26",
-      "time": "2026-08-07 09:36:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share medical services sector rose in early trade; Baihua Pharmaceutical hit the daily limit-up, while Wanbang Pharmaceutical, Pharmaron and WuXi AppTec advanced."
-    },
-    {
-      "id": "5029818",
-      "time": "2026-08-07 09:36:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【民爆概念盤初走強，保利聯合漲停】民爆概念盤初走強，保利聯合漲停，高爭民爆、廣東宏大、江南化工、金奧博、雪峰科技、盛景微等跟漲。"
-    },
-    {
-      "id": "5029817",
-      "time": "2026-08-07 09:35:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化學制藥板塊短線拉昇，哈藥股份漲停】化學制藥板塊短線拉昇，冀衡醫藥、哈藥股份漲停，永安藥業、海南海藥、新贛江、津藥藥業、貝達藥業等紛紛走高。"
     }
   ]
 }
