@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-15 03:32:50",
-  "count": 15272,
+  "updated": "2026-08-15 03:36:38",
+  "count": 15269,
   "items": [
+    {
+      "id": "mkt:01a001c6-4686-7aab-9044-fd0759f59a40",
+      "time": "2026-08-15 03:36:06",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Speculators' net short in CBOT 5-year Treasury futures fell by 84,963 contracts to 1,240,756 in the week to Aug. 11, the CFTC said. Net short positions in CBOT ultra-long Treasury futures rose by 11,798 contracts to 326,783, while net shorts in CBOT Treasury futures increased by 3,335 contracts to 179,607."
+    },
+    {
+      "id": "5041918",
+      "time": "2026-08-15 03:35:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：木星專案仍按計劃推進，我們繼續與合作伙伴緊密協作以推動專案進展。"
+    },
+    {
+      "id": "mkt:01a001c5-5d30-7aab-9044-f72976a050ea",
+      "time": "2026-08-15 03:35:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC weekly data to Aug. 11: speculators' net short in CBOT U.S. 2‑year Treasury futures rose 16,815 contracts to 1,021,043; speculators' net short in CBOT U.S. 10‑year Treasury futures fell 64,190 contracts to 915,053."
+    },
+    {
+      "id": "mkt:01a001c4-4f9b-7aab-9044-e82b735c421e",
+      "time": "2026-08-15 03:33:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: For the week to Aug. 11, COMEX speculative net long positions — gold +9,470 contracts to 141,868; silver -755 contracts to 10,312; copper +3,085 contracts to 80,880."
+    },
+    {
+      "id": "5041917",
+      "time": "2026-08-15 03:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦譴責以方定居點“民事執法權”移交計劃】巴勒斯坦副總統侯賽因·謝赫14日譴責以色列擬將約旦河西岸猶太人定居點的“民事執法權”從以軍移交至以警方，指責這一計劃意在鞏固以方對巴方被佔領土的非法吞併。謝赫發表宣告說，任何形式的定居點活動均屬非法。對被佔巴方領土的任何部分，以色列均不擁有主權。謝赫指出，以色列的做法公然違反國際法和聯合國相關決議，意在將以色列法律和主權強加於包括東耶路撒冷在內的約旦河西岸地區，進一步鞏固對巴勒斯坦領土的非法吞併。（新華社）"
+    },
+    {
+      "id": "5041916",
+      "time": "2026-08-15 03:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFTC：原油投機客在截至8月11日當週將WTI淨多頭倉位增加4,034口，至105,860口。"
+    },
     {
       "id": "5041915",
       "time": "2026-08-15 03:31:26",
@@ -139670,90 +139730,6 @@
         "國際"
       ],
       "text": "【伊朗官員稱已與阿曼就霍爾木茲海峽通行問題明確總體框架】總檯記者當地時間7日獲悉，伊朗議會國家安全與外交政策委員會發言人哈桑·卡什卡維表示，伊朗與阿曼已明確霍爾木茲海峽航運相關的諒解備忘錄的總體框架，最終文字及具體細節將於近期對外公佈。8月6日，伊朗方面公開擬議的霍爾木茲海峽戰略管理方案初步文字細節，內容包括禁止敵對方面透過海峽等，違反規定者將被處以最高達貨物價值20%的罰款。伊朗近期多次強調，霍爾木茲海峽相關安排應僅由伊朗和阿曼協商決定，絕不接受任何外部勢力介入。而美國總統特朗普6日表示，美方正參與有關霍爾木茲海峽的談判。（央視新聞）"
-    },
-    {
-      "id": "5031560",
-      "time": "2026-08-08 03:35:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至8月4日當週，投機者將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭頭寸減少41,225份合約，至176,272份合約。將CBOT美國2年期國債期貨淨空頭頭寸減少120,346份合約，至1,004,228份合約。將CBOT美國5年期國債期貨淨空頭頭寸增加179,319份合約，至1,325,719份合約。將CBOT美國2年期國債期貨淨空頭頭寸減少120,346份合約，至1,004,228份合約。將CBOT美國超長期國債期貨淨空頭頭寸減少5,723份合約，至314,985份合約。"
-    },
-    {
-      "id": "5031559",
-      "time": "2026-08-08 03:35:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：干預行動後，對沖基金日元空頭押注減半。"
-    },
-    {
-      "id": "5031558",
-      "time": "2026-08-08 03:35:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：在本屆政府的領導下，我們已同其他國家簽署 27 份關鍵礦產協議。"
-    },
-    {
-      "id": "5031557",
-      "time": "2026-08-08 03:34:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【CFTC：截至8月4日當週 日元淨空頭頭寸為45473份合約】據美國商品期貨交易委員會（CFTC）：截至8月4日當週，日元淨空頭頭寸為45,473份合約。歐元淨空頭頭寸為58,091份合約。英鎊淨空頭頭寸為57,814份合約。瑞郎淨空頭頭寸為32,822份合約。"
-    },
-    {
-      "id": "5031556",
-      "time": "2026-08-08 03:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們對美國參議院以及所有支援烏克蘭的人士深表感謝。正竭盡全力四處搜尋愛國者導彈來保衛本國。"
-    },
-    {
-      "id": "mkt:019fddb8-2ad0-7aab-8fc1-6ebedb05ba05",
-      "time": "2026-08-08 03:34:22",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "GBPUSD"
-      ],
-      "text": "CFTC weekly report, week to Aug 4: Japanese yen net short 45,473 contracts; euro net short 58,091 contracts; British pound net short 57,814 contracts; Swiss franc net short 32,822 contracts."
-    },
-    {
-      "id": "5031555",
-      "time": "2026-08-08 03:33:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國防部向西拉奈米技術公司簽署 14 億美元附條件貸款協議。"
-    },
-    {
-      "id": "5031554",
-      "time": "2026-08-08 03:33:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，股票基金經理將芝商所（CME）標普500淨多頭頭寸削減2008手，至937107手。"
-    },
-    {
-      "id": "mkt:019fddb6-eca1-7aab-8fc1-6600c78ac8ae",
-      "time": "2026-08-08 03:33:00",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "CFTC data: In the week to Aug. 4, speculators in CBOT U.S. Treasury futures cut net short positions by 41,225 contracts to 176,272. 2‑year net shorts fell by 120,346 contracts to 1,004,228, while 5‑year net shorts rose by 179,319 contracts to 1,325,719. Ultra‑long Treasury net shorts declined by 5,723 contracts to 314,985."
     }
   ]
 }

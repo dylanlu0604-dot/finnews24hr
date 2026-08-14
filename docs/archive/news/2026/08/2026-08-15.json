@@ -1,7 +1,67 @@
 {
   "date": "2026-08-15",
-  "count": 194,
+  "count": 200,
   "items": [
+    {
+      "id": "mkt:01a001c6-4686-7aab-9044-fd0759f59a40",
+      "time": "2026-08-15 03:36:06",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Speculators' net short in CBOT 5-year Treasury futures fell by 84,963 contracts to 1,240,756 in the week to Aug. 11, the CFTC said. Net short positions in CBOT ultra-long Treasury futures rose by 11,798 contracts to 326,783, while net shorts in CBOT Treasury futures increased by 3,335 contracts to 179,607."
+    },
+    {
+      "id": "5041918",
+      "time": "2026-08-15 03:35:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：木星專案仍按計劃推進，我們繼續與合作伙伴緊密協作以推動專案進展。"
+    },
+    {
+      "id": "mkt:01a001c5-5d30-7aab-9044-f72976a050ea",
+      "time": "2026-08-15 03:35:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC weekly data to Aug. 11: speculators' net short in CBOT U.S. 2‑year Treasury futures rose 16,815 contracts to 1,021,043; speculators' net short in CBOT U.S. 10‑year Treasury futures fell 64,190 contracts to 915,053."
+    },
+    {
+      "id": "mkt:01a001c4-4f9b-7aab-9044-e82b735c421e",
+      "time": "2026-08-15 03:33:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: For the week to Aug. 11, COMEX speculative net long positions — gold +9,470 contracts to 141,868; silver -755 contracts to 10,312; copper +3,085 contracts to 80,880."
+    },
+    {
+      "id": "5041917",
+      "time": "2026-08-15 03:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦譴責以方定居點“民事執法權”移交計劃】巴勒斯坦副總統侯賽因·謝赫14日譴責以色列擬將約旦河西岸猶太人定居點的“民事執法權”從以軍移交至以警方，指責這一計劃意在鞏固以方對巴方被佔領土的非法吞併。謝赫發表宣告說，任何形式的定居點活動均屬非法。對被佔巴方領土的任何部分，以色列均不擁有主權。謝赫指出，以色列的做法公然違反國際法和聯合國相關決議，意在將以色列法律和主權強加於包括東耶路撒冷在內的約旦河西岸地區，進一步鞏固對巴勒斯坦領土的非法吞併。（新華社）"
+    },
+    {
+      "id": "5041916",
+      "time": "2026-08-15 03:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFTC：原油投機客在截至8月11日當週將WTI淨多頭倉位增加4,034口，至105,860口。"
+    },
     {
       "id": "5041915",
       "time": "2026-08-15 03:31:26",
