@@ -1,7 +1,189 @@
 {
   "date": "2026-08-14",
-  "count": 731,
+  "count": 751,
   "items": [
+    {
+      "id": "mkt:019ffde8-dbad-7aab-9032-41aaf3133fe1",
+      "time": "2026-08-14 09:35:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cenc automatic detection: Aug 14 09:33 local time — M3.4 (approx.) quake near Longchang, Neijiang, Sichuan (29.24°N, 105.24°E). Final result pending formal bulletin."
+    },
+    {
+      "id": "5040323",
+      "time": "2026-08-14 09:34:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【乳業板塊短線走低，一鳴食品、皇氏集團觸及跌停】乳業板塊短線走低，皇氏集團、一鳴食品觸及跌停，品渥食品、歡樂家、熊貓乳品跟跌。"
+    },
+    {
+      "id": "5040321",
+      "time": "2026-08-14 09:33:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股延續漲勢 智譜漲超5%】截至發稿，智譜(02513.HK)漲5.39%，MINIMAX-W(00100.HK)漲3.72%，迅策(03317.HK)漲2.38%。"
+    },
+    {
+      "id": "5040320",
+      "time": "2026-08-14 09:33:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊盤初走強 富信科技漲超8%】半導體板塊盤初走強，富信科技漲超8%，聯芸科技、普冉股份等漲幅居前。"
+    },
+    {
+      "id": "mkt:019ffde7-1150-7aab-9032-3c6b16aefefe",
+      "time": "2026-08-14 09:33:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share pharmaceutical distribution sector slipped intraday; Yaoyigou fell more than 7%, with Ruikang Pharmaceutical, Kaikai Industrial, Shuyu Pingmin and Huaren Health also down."
+    },
+    {
+      "id": "5040319",
+      "time": "2026-08-14 09:33:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵建簽約羅馬尼亞大型光伏電站專案】中國鐵建公眾號訊息，近日，中國鐵建與羅馬尼亞奧爾特尼亞能源集團聯合體正式簽署商務合同，標誌著羅馬尼亞戈爾日縣四座光伏電站EPC及運維專案全面落地。該專案位於羅馬尼亞西南部戈爾日縣，最大亮點為“火電舊址再造新能源”——四座光伏電站均選址於業主兩座火電廠原有灰渣堆場，實現傳統工業遺址向綠色能源基地的轉型升級。"
+    },
+    {
+      "id": "5040318",
+      "time": "2026-08-14 09:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：8月上旬液化石油氣為5790.9元/噸，環比下降3.5%】據國家統計局，8月上旬流通領域重要生產資料市場價格中液化石油氣為5790.9元/噸，環比下降3.5%；螺紋鋼為3062.7元/噸，環比下降1.9%；電解銅為107498.3元/噸，環比增長1.7%；液化天然氣為5539.5元/噸，環比增長0.3%；生豬（外三元）為10.4元/千克，環比持平；複合肥為3640.0元/噸，環比持平。"
+    },
+    {
+      "id": "5040317",
+      "time": "2026-08-14 09:32:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "京東物流股價在第二季度業績公佈後下跌7.2%，至13.15港元。"
+    },
+    {
+      "id": "5040316",
+      "time": "2026-08-14 09:32:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.18%。玉禾轉債、炬申轉債、特寶轉債、申能轉債、錫振轉債漲幅居前，分別漲30.00%、20.00%、13.80%、4.90%、4.45%。曙26轉債、金25轉債、歐晶轉債、皓元轉債、明新轉債跌幅居前，分別跌1.03%、0.52%、0.47%、0.46%、0.41%。"
+    },
+    {
+      "id": "mkt:019ffde6-5549-7aab-9032-324effb54dab",
+      "time": "2026-08-14 09:32:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share supercapacitor sector spiked intraday; Kangsheng hit its daily up-limit. Jinshi Technology, Yifei Laser, Kangpeng Technology, Shangluo Electronics and Dongyangguang also advanced."
+    },
+    {
+      "id": "5040315",
+      "time": "2026-08-14 09:32:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4370美元/盎司，日內跌1.14%。"
+    },
+    {
+      "id": "mkt:019ffde6-46d6-7aab-9032-2d0e1aa2f4b2",
+      "time": "2026-08-14 09:32:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【Bond futures open — morning session】2-year bond futures (TS) main contract unchanged at the open; 5-year (TF) unchanged; 10-year (T) unchanged; 30-year (TL) down 0.06%."
+    },
+    {
+      "id": "mkt:019ffde6-3c28-7aab-9032-217514c43aeb",
+      "time": "2026-08-14 09:32:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Chinese stock index futures open lower】China stock index futures opened lower in the morning session: CSI 300 (IF) main contract down 0.13%, SSE 50 (IH) main contract down 0.12%, CSI 500 (IC) main contract down 0.15%, CSI 1000 (IM) main contract down 0.04%."
+    },
+    {
+      "id": "5040314",
+      "time": "2026-08-14 09:32:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超級電容板塊短線拉昇，康盛股份漲停】超級電容板塊短線拉昇，康盛股份漲停，金時科技、逸飛鐳射、康鵬科技、商絡電子、東陽光等紛紛走高。"
+    },
+    {
+      "id": "mkt:019ffde6-3b82-7aab-9032-1eb3ff89cb24",
+      "time": "2026-08-14 09:32:31",
+      "tags": [
+        "MKT News",
+        "00001.HK",
+        "Impact bearish"
+      ],
+      "text": "CK Hutchison (00001.HK) slid further after results, dropping more than 5% at the open; 1H underlying net profit HKD 12.592 bln, up 6% YoY."
+    },
+    {
+      "id": "5040313",
+      "time": "2026-08-14 09:32:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5040312",
+      "time": "2026-08-14 09:32:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股半導體股走強 中芯國際漲近5%】截至發稿，中芯國際(00981.HK)漲4.74%，兆易創新(03986.HK)漲4.09%，天數智芯(.HK)漲3.64%。"
+    },
+    {
+      "id": "5040311",
+      "time": "2026-08-14 09:31:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【醫藥商業板塊短線走低，藥易購跌超7%】醫藥商業板塊短線走低，藥易購跌超7%，瑞康醫藥、開開實業、漱玉平民、華人健康等跟跌。"
+    },
+    {
+      "id": "5040310",
+      "time": "2026-08-14 09:31:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞二季度整體住房融資額季度環比下降5.4%。"
+    },
+    {
+      "id": "5040309",
+      "time": "2026-08-14 09:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞第二季度經季節調整後的住房貸款價值環比下降5.2%"
+    },
     {
       "id": "5040308",
       "time": "2026-08-14 09:31:14",
