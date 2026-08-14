@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:59:00_
-_本檔包含 3156 則快訊，約 603190 字_
+_更新時間：2026-08-15 05:34:10_
+_本檔包含 3170 則快訊，約 604200 字_
+
+---
+
+### 2026-08-15 05:32:56  #公司
+
+【Anthropic二季度營收超115億美元 較去年同期增長至少14倍】據報道，Anthropic第二季度初步營收超過115億美元，較上年同期的7.87億美元增長了至少14倍，也高於今年第一季度的47.3億美元，公司當季已實現調整後營業利潤為正。Anthropic曾一度在AI競賽中處於追趕位置，但得益於越來越多專業人士使用其軟體來簡化程式設計等工作流程，公司業務增長明顯提速。今年5月，Anthropic的年化營收已突破470億美元。作為對比，OpenAI此前披露的年化營收超過400億美元，但兩者的計算口徑可能不完全一致。人工智慧賽道競爭升溫，今年迄今IPO融資已達2564億美元，創2021年來新高（不含SPAC等金融工具）。
+
+---
+
+### 2026-08-15 05:32:01  #MKT News
+
+Sources: Canada’s trade minister told an advisory committee that Canada and the US are "quite far" from reaching an agreement.
+
+---
+
+### 2026-08-15 05:31:22  #MKT News #Market Themes #AI Revolution
+
+【Anthropic Q2 revenue tops $11.5bn; adjusted operating profit positive】Preliminary figures show Anthropic's Q2 revenue exceeded $11.5bn, up at least 14x YoY from $787m and ahead of Q1's $4.73bn; adjusted operating profit was positive in the quarter. Annualized revenue surpassed $47bn as of May. OpenAI's disclosed annualized revenue exceeds $40bn, though reporting bases may differ. AI-sector IPO proceeds YTD reached $256.4bn, the largest since 2021 excluding SPACs.
+
+---
+
+### 2026-08-15 05:28:10  #國際
+
+一位直接瞭解相關言論的訊息人士稱，負責美加雙邊貿易的加拿大部長告知諮詢委員會，加拿大與美國距離達成協議仍相當遙遠。
+
+---
+
+### 2026-08-15 05:27:50  #市場 #國際
+
+週五（8月7日）紐約尾盤，美國10年期基準國債收益率上行5.14個基點，報4.690%，北京時間20:30釋出美國7月零售銷售資料時從日低點4.628%快速拉昇上行。兩年期美債收益率升2.88個基點，報4.169%，本週累跌2.40個基點。20年期美債收益率上行5.22個基點，本週累漲5.10個基點，報5.257%；30年期美債收益率累漲5.96個基點，報5.259%。
+
+---
+
+### 2026-08-15 05:26:48  #公司
+
+巴西國家石油公司(Petrobras)：截至目前已從政府燃料補貼計劃中獲得69億雷亞爾。
+
+---
+
+### 2026-08-15 05:24:25  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
+
+Brazil 10-Year Yield Nears One-Month High — Brazil’s 10-year government bond yield rose to 14.9% in mid-August, nearing a one-month high following a rise in US Treasury yields. US Treasury yields increased amid elevated inflation expectations. Worsening risk perception as Brazil’s October presidential election approaches also contributed to the rise, with markets pricing in uncertainty surrounding the next government and its economic agenda. Concerns that the next government could face difficulties implementing a consistent fiscal adjustment are beginning to translate into a higher risk premium in asset prices. Fiscal concerns persist amid signals of higher government spending and pressure on revenues from new US tariffs. Meanwhile, the Copom signaled a cautious approach to further interest rate cuts. Brazil also created a net 145,161 formal jobs in June, well above expectations for 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive.
+
+---
+
+### 2026-08-15 05:22:35  #公司 #國際
+
+據美國證券交易委員會檔案顯示， THIRD POINT LLC將其持有的亞馬遜公司股份減持9.8%，減持後持股數為180萬股。
+
+---
+
+### 2026-08-15 05:20:27  #公司 #國際
+
+根據美國證券交易委員會檔案：Third Point LLC已出售其持有的全部英偉達股份。
+
+---
+
+### 2026-08-15 05:18:20  #其他
+
+市場訊息：簡街資本7月錄得約150億美元虧損。
+
+---
+
+### 2026-08-15 05:15:08  #MKT News #Important #Market Themes #AI Revolution
+
+Preliminary Q2 2026 revenue at ANTHROPIC exceeded $11.5 billion; company reported positive adjusted operating profit.
+
+---
+
+### 2026-08-15 05:13:47  #國際
+
+【特朗普：擊敗伊朗後會宣佈霍爾木茲海峽為美國領土】美國總統特朗普14日聲稱，“擊敗伊朗後”他很快就會“宣佈霍爾木茲海峽為美國領土”。特朗普當天在紐約州長島舉行的活動上發表講話時說，伊朗正遭受慘敗，“在我們徹底擊敗伊朗後，很快我就會宣佈霍爾木茲海峽為美國領土”。他說出這句話時輕笑了一下，並補充道：“這是真的。”特朗普還稱，與阻止伊朗獲得核武器相比，高油價只是一個小問題，並稱他“永遠不會道歉。我做了正確的事”。特朗普12日在社交媒體發文稱，“美國完全控制著霍爾木茲海峽……伊朗對此束手無策”。而據伊朗伊斯蘭共和國通訊社13日報道，伊朗武裝部隊哈塔姆安比亞中央總部發言人在一份宣告中表示，霍爾木茲海峽處於伊朗“完全掌控”中，未經伊朗許可，任何船隻都無法安全透過。（新華社）
+
+---
+
+### 2026-08-15 05:09:43  #MKT News #Important
+
+According to the Iranian Students' News Agency (ISNA), Iranian foreign minister Araghchi said Iran has not decided whether to resume talks with the United States. Qatar and Pakistan, acting as coordinators, are exchanging information with Iran, but that does not mean the US and Iran have entered negotiations.
+
+---
+
+### 2026-08-15 05:08:18  #公司 #焦點
+
+ANTHROPICO公司在IPO前夕，初步預測2026年第二季度營收將超過115億美元。
+
+---
+
+### 2026-08-15 05:07:23  #國際
+
+伊朗外長阿拉格齊稱，調解方卡達和巴基斯坦正與伊朗交換資訊，但這並不意味著進行談判。
+
+---
+
+### 2026-08-15 05:05:57  #其他
+
+惠譽：預計英國政府總體赤字將持續收窄，2028年降至GDP的4.2%。英國政府總體債務佔GDP比重到2028年底將升至106%。
+
+---
+
+### 2026-08-15 05:05:51  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+FITCH says the UK prime minister's position within Labour has strengthened and approval ratings have risen, which will help maintain political stability for the remainder of the parliamentary term.
+
+---
+
+### 2026-08-15 05:05:33  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
+
+Fitch projects the UK general government debt-to-GDP ratio will rise to 106% by end-2028.
+
+---
+
+### 2026-08-15 05:05:23  #其他
+
+惠譽：英國首相在工黨內部地位“更具主導性”，更高的支援率將有助於本屆議會剩餘任期內實現更大的政治穩定。
+
+---
+
+### 2026-08-15 05:05:12  #其他
+
+市場訊息：查理・厄根同意取得 MobileX 控股權。
+
+---
+
+### 2026-08-15 05:04:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+Fitch expects the UK's current-account deficit to widen modestly this year due to higher energy imports.
+
+---
+
+### 2026-08-15 05:04:00  #MKT News
+
+Fitch expects the UK general government deficit to continue narrowing, falling to 4.2% of GDP by 2028.
+
+---
+
+### 2026-08-15 05:03:54  #其他
+
+惠譽確認英國評級為“AA-”，展望穩定。
+
+---
+
+### 2026-08-15 05:03:52  #其他
+
+惠譽就英國發表看法：預計今年因能源進口增加，經常專案赤字將溫和擴大。
+
+---
+
+### 2026-08-15 05:03:25  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+Fitch affirms the United Kingdom's sovereign rating at AA-; outlook stable.
+
+---
+
+### 2026-08-15 05:03:14  #其他
+
+Quaest 民調：大選第二輪模擬投票，盧拉支援率 43%，弗拉維奧・博索納羅 40%。
+
+---
+
+### 2026-08-15 05:02:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran deputy foreign minister said Tehran will not be intimidated by US threats or displays of force, responding to Trump’s remark that he would declare the Strait of Hormuz US territory.
+
+---
+
+### 2026-08-15 05:01:31  #國際
+
+伊朗副外長就特朗普宣稱將把霍爾木茲海峽宣佈為美國領土一事作出表態 ：伊朗不會被美國的威脅或武力炫耀所嚇倒。
+
+---
+
+### 2026-08-15 05:00:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Deputy Foreign Minister Karibabadi said the opening or closure of the Strait of Hormuz can only be decided by Iran.
+
+---
+
+### 2026-08-15 05:00:11  #市場
+
+布倫特原油日內漲2%，現報88.89美元/桶。
+
+---
+
+### 2026-08-15 04:59:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Soros Fund Management disclosed it increased its Apple (AAPL.O) holding by 29,004 shares to 529,538 shares.
 
 ---
 
@@ -18923,107 +19109,5 @@ FTSE MIB Closes Flat — The FTSE MIB closed little changed at 53,693 on Thursda
 ### 2026-08-14 00:17:45  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 DAX Falls for 2nd Day — The DAX 40 moved into the red to close marginally down at 26,292 on Thursday, the second day of losses, despite remaining close to recent record highs. Falling oil prices and reduced concerns over interest rates provided support, but uncertainty over the Iran conflict kept investors cautious. Meanwhile, attention remained focused on corporate earnings as the reporting season drew to a close. Among key movers, BASF (-2%), Mercedes-Benz Group (-1.5%) and Volkswagen (-1.3%) posted the biggest declines. On the upside, Continental emerged as the top performer, rising around 3%. RWE gained 2.5% after reporting better-than-expected first-half profit, helped by a Dutch compensation payment and stronger energy trading, while reaffirming its 2026 dividend and long-term profit targets.
-
----
-
-### 2026-08-14 00:17:18  #MKT News #WTI #Impact bearish #Brent
-
-Ukraine proposed a ceasefire to Russia in the Black Sea.
-
----
-
-### 2026-08-14 00:16:45  #MKT News
-
-Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them.
-
----
-
-### 2026-08-14 00:16:42  #其他
-
-市場訊息，義大利部長烏爾索預計西西里島將迎來資料中心投資。
-
----
-
-### 2026-08-14 00:16:14  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-STOXX 50 Closes at Record High — European stocks closed mostly higher on Thursday with support strong earnings results across multiple sectors. The Euro STOXX 50 gained 0.2% to 6,544 and the STOXX Europe 600 inched down to 659. ASML added 2.7%, closing sharply higher for a second session and tracking the AI infrastructure sector in the US and Asia on the sector's respite. On top of that, Adyen surged 16.4% after raising its revenue forecast for the current year. Danish shipping giant Maersk surged 9.4% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations.
-
----
-
-### 2026-08-14 00:16:05  #其他
-
-訊息人士稱，底特律汽車製造商將向白宮表示，修訂後的北美貿易協定可能令它們損失數十億美元。
-
----
-
-### 2026-08-14 00:15:37  #MKT News #Market Regions #Emerging Markets
-
-Moody's vice president says Moody's expects to raise its forecast for Peru's 2026 GDP growth from 3.0% to 3.5%.
-
----
-
-### 2026-08-14 00:15:03  #其他
-
-市場訊息：沙烏地阿拉伯國防部長會見伊拉克武裝部隊總司令辦公室主任，討論軍事和防務領域的關係。
-
----
-
-### 2026-08-14 00:14:51  #MKT News
-
-Saudi defense minister met the director of the Office of the Commander of the Iraqi Armed Forces to discuss military and defense ties, Saudi media Alhadath reported.
-
----
-
-### 2026-08-14 00:14:44  #其他
-
-市場訊息：穆迪擬將秘魯2026年GDP增長預估從3.0%上調至3.5%。
-
----
-
-### 2026-08-14 00:13:55  #MKT News
-
-【Chang'e-6 lunar soil study yields new evidence on Moon near and far side differences】The China Geological Survey (Ministry of Natural Resources) said researchers at the Institute of Geology, Chinese Academy of Geological Sciences have made progress analysing Chang'e-6 lunar soil samples, providing new evidence on the pronounced compositional differences between the Moon's near and far sides.
-
----
-
-### 2026-08-14 00:13:16  #公司
-
-【Citadel甚至對部分分析師也施加了為期兩年的競業禁止協議】Ken Griffin 的 Citadel 公司要求投資人員（包括一些分析師）簽署長達兩年的競業禁止協議。員工的競業禁止期與員工的總薪酬掛鉤，投資組合經理或分析師的收入越高，競業禁止期就越長。該公司的競業禁止協議可能會對員工的職業生涯產生影響，一位招聘人員表示，被禁賽兩年“實際上會毀掉他們的職業生涯”。
-
----
-
-### 2026-08-14 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 5 points or 0.01 percent on Thursday to close at 53693 points. The decline was led by Unipol Gruppo (-1.41%), Infrastrutture Wire (-1.32%) and Assicurazioni Generali (-1.13%). On the upside, the strongest performers were Saipem (3.27%), Fincantieri (2.52%) and Nexi (2.46%).
-
----
-
-### 2026-08-14 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.12% Lower — The DAX Index fell 31 points or 0.12 percent on Thursday to close at 26300 points. Leading the losses are Porsche Automobil (-2.20%), BASF (-2.15%) and Mercedes-Benz AG (-1.61%). Top gainers were RWE (2.99%), Continental (2.95%) and Fresenius (2.55%).
-
----
-
-### 2026-08-14 00:11:05  #其他
-
-【為月球正反面差異提供科學證據 嫦娥六號月壤研究取得新進展】記者近日從自然資源部中國地質調查局瞭解到，中國地質科學院地質研究所研究團隊對嫦娥六號月壤樣品的研究取得新進展，為破解月球正反面存在巨大差異的謎題提供了新證據。（央視新聞）
-
----
-
-### 2026-08-14 00:10:08  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.29% Lower — The CAC 40 Index dropped 25 points or 0.29 percent on Thursday to close at 8650 points. Losses were led by Dassault Systemes (-2.24%), Safran (-1.90%) and STMicroelectronics (-1.67%). Offsetting the fall, top gainers were Danone (1.43%), Sanofi (1.24%) and Edenred (0.94%).
-
----
-
-### 2026-08-14 00:08:03  #MKT News
-
-Mexico's main stock index fell 1%.
-
----
-
-### 2026-08-14 00:07:45  #MKT News #WTI #Impact bullish #Brent
-
-【Houthi rebels say they used drones to hit ARAMCO refinery in Jizan, Saudi Arabia】Yemeni Houthi rebels said on the 13th they used two drones to attack an ARAMCO refinery in Jizan in southwest Saudi Arabia, calling the strikes "precise", the Houthi-controlled Saba news agency reported. On the 9th this month the Houthis also said they carried out a "precise strike" on the Jizan refinery.
 
 ---

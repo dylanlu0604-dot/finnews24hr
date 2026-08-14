@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:59:00_
-_本檔包含 3157 則快訊，約 603796 字_
+_更新時間：2026-08-15 05:34:10_
+_本檔包含 3161 則快訊，約 603625 字_
+
+---
+
+### 2026-08-11 19:54:17  #MKT News
+
+Egypt's prime minister said the government's debt-to-GDP ratio has fallen to 81.8–82% and is expected to drop below 80% next year.
+
+---
+
+### 2026-08-11 19:54:17  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Analyst: escalation in settler attacks linked to end‑October Israeli election】Ubay Abdi, former executive director of the Bisan Center for Research and Development, said recent escalation in Israeli settler attacks on Palestinians appears backed by officials and is closely tied to the end‑October Israeli election. He said politicians in the current government are relaxing constraints on settlers and at times encouraging large-scale attacks to secure votes; settlers, fearing a post‑October cabinet will be less tolerant, are accelerating efforts aimed at displacing Palestinians from their homes. Abdi added that through government policy and support for settler militias Israel has long sought to drive Palestinians off their land and render them refugees.
+
+---
+
+### 2026-08-11 19:54:03  #國際
+
+埃及總理：埃及債務佔GDP比率降至81.8%-82%，預計明年債務佔GDP比重降至80%以下。
+
+---
+
+### 2026-08-11 19:53:45  #公司
+
+【江蘇省與中國大唐集團簽署戰略合作協議】據新華日報，8月11日，江蘇省與中國大唐集團簽署戰略合作協議。江蘇省委書記信長星、省長劉小濤會見中國大唐集團董事長呂軍、總經理李向良。信長星說，希望雙方以此次簽約為新起點，更加緊密攜手，加快重大能源專案建設，提高綠電供給能力，推動能源科技創新和產業發展，更好服務全國發展大局。呂軍、李向良表示，大唐集團與江蘇合作基礎良好，將認真落實國家新型能源體系和新型電力系統建設“十五五”規劃，緊扣江蘇發展所需，持續深化務實合作，為江蘇高質量發展注入新動能。
+
+---
+
+### 2026-08-11 19:53:32  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish
+
+【Glenmede: Fed has ample time to assess whether energy-driven inflation is contained】Glenmede strategist said investors expect a relatively mild July US CPI, forecasting headline CPI up 3.4% YoY and core price pressures remaining contained. Rising US–Iran tensions lifted oil in July, creating upside risk from energy, but market reaction has been muted after policy responses and strategic reserve releases stabilized supply. The Fed has ample time before its next meeting to assess two inflation prints and judge whether energy pressure is sustainably contained or beginning to broaden, a distinction likely to influence policy direction.
+
+---
+
+### 2026-08-11 19:52:40  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #EURUSD #Impact bearish
+
+REUTERS SURVEY: 18 of 22 bond strategists say the US 10-year Treasury yield is more likely to be higher than expected over the next three months than lower.
+
+---
+
+### 2026-08-11 19:52:30  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+Reuters survey: US 2-year Treasury yield is forecast to fall to 4.07% in three months, 3.92% in six months and 3.80% in one year, versus July survey forecasts of 4.00%, 3.90% and 3.85%.
+
+---
+
+### 2026-08-11 19:52:03  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
+
+REUTERS SURVEY: US 10-year Treasury yield expected to fall to 4.50% in three months, remain at that level through six months, and decline to 4.34% in one year. July survey: 4.48%, 4.48% and 4.39%.
+
+---
+
+### 2026-08-11 19:51:39  #市場 #國際
+
+路透調查：22位債券策略師中有18位表示，未來三個月美國10年期國債收益率更有可能高於預期，而非低於預期。
+
+---
+
+### 2026-08-11 19:51:31  #市場 #國際
+
+路透調查：預計美國10年期國債收益率三個月後將降至4.50%，隨後三個月維持該水平，一年後降至4.34%（7月調查對應預期分別為4.48%、4.48%、4.39%）
+
+---
+
+### 2026-08-11 19:51:23  #其他
+
+【分析：伊美透過外交途徑達成和解的可能性愈發渺茫】半島電視臺表示，種種跡象表明雙方分歧持續拉大，透過外交方式達成和解的可能性正變得越來越小。當前局勢雖暫時處於類似停火的狀態，但無法排除新一輪衝突爆發的風險。美伊雙方持續進行軍事姿態展示，進一步增加了再度對峙的機率。
+
+---
+
+### 2026-08-11 19:51:17  #市場 #國際
+
+路透調查：預計美國2年期國債收益率三個月後將降至4.07%，六個月後降至3.92%，一年後降至3.80%（7月調查對應預期分別為4.00%、3.90%、3.85%）
 
 ---
 
@@ -18976,53 +19048,5 @@ Singapore's Straits Times Index closed up 1.05% at 5,698.43 points.
 ### 2026-08-10 17:20:33  #Trading Economics #Economy #Malta #Balance of Trade #Importance 1
 
 Malta Trade Deficit Highest Since July 2025 — Malta’s trade deficit narrowed to €408 million in June 2026 from an upwardly revised €472.4 million a year earlier, although marking the largest deficit since July 2025. Exports surged 17.9%, driven mainly by higher shipments of mineral fuels, lubricants and related materials (34.69%) and machinery and transport equipment (32.05%), partly offset by a 23.56% decline in chemicals. Meanwhile, imports edged up 0.4%, supported by increased purchases of mineral fuels, lubricants and related materials (10.10%), which offset lower imports of machinery and transport equipment (-3.97%), chemicals (-7.46%) and semi-manufactured goods (-5.52%). In the second quarter of 2026, the trade deficit widened to €1,195.8 million from €714.3 million in Q1. In the first half of 2026, however, the deficit narrowed sharply to €177.4 million from €1,910.2 million a year earlier.
-
----
-
-### 2026-08-10 17:20:29  #公司
-
-【濱海能源：與控股股東籤商標使用許可協議 屬關聯交易】濱海能源公告稱，公司控股股東旭陽集團已與公司簽訂《商標使用許可協議》，授權公司及子公司無償使用其已註冊有效的商標及企業標識。本次交易構成關聯交易，不構成重大資產重組、重組上市，由總經理辦公會批准。許可期限自協議簽署起，在公司作為關聯公司期間持續有效。自年初至公告日，公司與旭陽集團及其一致行動人累計關聯交易金額43222萬元。此次授權利於公司業務拓展。
-
----
-
-### 2026-08-10 17:20:18  #公司
-
-【四維圖新：中標南方電網數字電網科技（廣東）有限公司專項採購專案】據四維圖新訊息，近日，四維圖新再度中標南方電網數字電網科技（廣東）有限公司專項採購專案，中標金額1688.5萬元。這是繼今年2月中標南方電網相關專案後，雙方合作的又一次深化。
-
----
-
-### 2026-08-10 17:19:25  #其他
-
-【自然資源部對河北河南湖北啟動地質災害防禦Ⅳ級響應】據氣象部門預測和自然資源部地質災害技術指導中心研判，受今年第13號颱風“白海豚”影響，未來三天，河北、河南、湖北有強降雨過程，河北南部、河南西部和北部、湖北西部等部分地區發生地質災害的風險較高。自然資源部於8月10日9時對河北、河南、湖北啟動地質災害防禦IV級響應。 自然資源部要求河北、河南、湖北省自然資源主管部門增強風險意識和憂患意識，強化底線思維和極限思維，高度重視強降雨引發地質災害防範應對，及時組織開展巡查排查，切實做好監測預警、會商研判、災情險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和專家排程，全力協助地方做好地質災害防禦工作。（自然資源部）
-
----
-
-### 2026-08-10 17:19:05  #MKT News #Important #Market Themes #Chip Wars
-
-【South Korea to launch KRW5 trillion chip fund, provide KRW5 trillion trade financing】Reuters: South Korea will launch a KRW5 trillion ($3.52 bln) semiconductor fund to invest in chip materials, components and fabless firms, presidential chief of staff Kang Hoon-sik said. The government will also supply KRW5 trillion in trade financing to support export-oriented suppliers. Seoul aims to pass the Super-Large Special Industrial Park Act within the year to speed permitting, environmental reviews and infrastructure build-out. Authorities plan to guarantee 650,000 tonnes of water for Honam semiconductor projects by 2030, and to provide 14.7 GW of planned power to the Yongin semiconductor cluster by 2041.
-
----
-
-### 2026-08-10 17:19:03  #其他
-
-【西班牙韋爾瓦省山火持續蔓延 已燒燬超8000公頃土地】當地時間8月10日，西班牙安達盧西亞自治區森林火災防護當局釋出的訊息顯示，該自治區韋爾瓦省自6日起發生的山林火災仍在蔓延，截至目前已經燒燬超過8000公頃土地，導致474名居民撤離。當局報告稱，10日清晨起共有約150名消防人員和11輛消防車輛參與本次火災的滅火工作，當地複雜的天氣狀況使滅火工作變得更加困難。（央視新聞）
-
----
-
-### 2026-08-10 17:18:48  #公司 #市場
-
-【先導基電：股價異常波動 提示多項投資風險】先導基電公告稱，公司股票於2026年8月5 - 7日連續三個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動，8月10日漲停，股價顯著偏離大盤，或存在市場情緒過熱、非理性炒作風險。截至8月7日，公司市淨率3.64倍，高於房地產業平均的0.82倍，存在估值較高風險。此外，公司目前無磷化銦襯底業務及相關收入利潤，提醒投資者注意投資風險。
-
----
-
-### 2026-08-10 17:18:48  #MKT News #1808.HK #Impact mixed
-
-HKEX filings show Morgan Stanley's long position in Zhongji Xuchuang H-shares rose to 6.23% on Aug 4 from 5.92%; JP Morgan's long position fell to 14.93% on Aug 5 from 15.02%.
-
----
-
-### 2026-08-10 17:18:46  #Trading Economics #Markets #Commodity #Importance 0
-
-Crude Oil Extends Gains — Crude oil rose to around $79 per barrel on Monday, extending gains from last week as uncertainty over the Strait of Hormuz continued to support prices. Iran and Oman have yet to finalize an agreement to reopen the strategic waterway, while conflicting signals from Tehran and Washington have raised doubts over how quickly a deal could be reached. Iranian Foreign Minister Abbas Araghchi said Tehran is not currently holding direct talks with the US and reiterated that reopening Hormuz would require Washington to lift its blockade of Iranian shipping and provide compensation for damages. This contrasts with earlier US indications that an agreement could be close, while President Donald Trump said Washington was now “low-keying it.” Elsewhere, Iran-backed Houthi militants in Yemen claimed an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in Hormuz over the weekend.
 
 ---

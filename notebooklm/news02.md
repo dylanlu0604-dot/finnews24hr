@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:59:00_
-_本檔包含 3089 則快訊，約 602900 字_
+_更新時間：2026-08-15 05:34:10_
+_本檔包含 3094 則快訊，約 603593 字_
+
+---
+
+### 2026-08-14 00:17:18  #MKT News #WTI #Impact bearish #Brent
+
+Ukraine proposed a ceasefire to Russia in the Black Sea.
+
+---
+
+### 2026-08-14 00:16:45  #MKT News
+
+Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them.
+
+---
+
+### 2026-08-14 00:16:42  #其他
+
+市場訊息，義大利部長烏爾索預計西西里島將迎來資料中心投資。
+
+---
+
+### 2026-08-14 00:16:14  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+STOXX 50 Closes at Record High — European stocks closed mostly higher on Thursday with support strong earnings results across multiple sectors. The Euro STOXX 50 gained 0.2% to 6,544 and the STOXX Europe 600 inched down to 659. ASML added 2.7%, closing sharply higher for a second session and tracking the AI infrastructure sector in the US and Asia on the sector's respite. On top of that, Adyen surged 16.4% after raising its revenue forecast for the current year. Danish shipping giant Maersk surged 9.4% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations.
+
+---
+
+### 2026-08-14 00:16:05  #其他
+
+訊息人士稱，底特律汽車製造商將向白宮表示，修訂後的北美貿易協定可能令它們損失數十億美元。
+
+---
+
+### 2026-08-14 00:15:37  #MKT News #Market Regions #Emerging Markets
+
+Moody's vice president says Moody's expects to raise its forecast for Peru's 2026 GDP growth from 3.0% to 3.5%.
+
+---
+
+### 2026-08-14 00:15:03  #其他
+
+市場訊息：沙烏地阿拉伯國防部長會見伊拉克武裝部隊總司令辦公室主任，討論軍事和防務領域的關係。
+
+---
+
+### 2026-08-14 00:14:51  #MKT News
+
+Saudi defense minister met the director of the Office of the Commander of the Iraqi Armed Forces to discuss military and defense ties, Saudi media Alhadath reported.
+
+---
+
+### 2026-08-14 00:14:44  #其他
+
+市場訊息：穆迪擬將秘魯2026年GDP增長預估從3.0%上調至3.5%。
+
+---
+
+### 2026-08-14 00:13:55  #MKT News
+
+【Chang'e-6 lunar soil study yields new evidence on Moon near and far side differences】The China Geological Survey (Ministry of Natural Resources) said researchers at the Institute of Geology, Chinese Academy of Geological Sciences have made progress analysing Chang'e-6 lunar soil samples, providing new evidence on the pronounced compositional differences between the Moon's near and far sides.
+
+---
+
+### 2026-08-14 00:13:16  #公司
+
+【Citadel甚至對部分分析師也施加了為期兩年的競業禁止協議】Ken Griffin 的 Citadel 公司要求投資人員（包括一些分析師）簽署長達兩年的競業禁止協議。員工的競業禁止期與員工的總薪酬掛鉤，投資組合經理或分析師的收入越高，競業禁止期就越長。該公司的競業禁止協議可能會對員工的職業生涯產生影響，一位招聘人員表示，被禁賽兩年“實際上會毀掉他們的職業生涯”。
+
+---
+
+### 2026-08-14 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 5 points or 0.01 percent on Thursday to close at 53693 points. The decline was led by Unipol Gruppo (-1.41%), Infrastrutture Wire (-1.32%) and Assicurazioni Generali (-1.13%). On the upside, the strongest performers were Saipem (3.27%), Fincantieri (2.52%) and Nexi (2.46%).
+
+---
+
+### 2026-08-14 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.12% Lower — The DAX Index fell 31 points or 0.12 percent on Thursday to close at 26300 points. Leading the losses are Porsche Automobil (-2.20%), BASF (-2.15%) and Mercedes-Benz AG (-1.61%). Top gainers were RWE (2.99%), Continental (2.95%) and Fresenius (2.55%).
+
+---
+
+### 2026-08-14 00:11:05  #其他
+
+【為月球正反面差異提供科學證據 嫦娥六號月壤研究取得新進展】記者近日從自然資源部中國地質調查局瞭解到，中國地質科學院地質研究所研究團隊對嫦娥六號月壤樣品的研究取得新進展，為破解月球正反面存在巨大差異的謎題提供了新證據。（央視新聞）
+
+---
+
+### 2026-08-14 00:10:08  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.29% Lower — The CAC 40 Index dropped 25 points or 0.29 percent on Thursday to close at 8650 points. Losses were led by Dassault Systemes (-2.24%), Safran (-1.90%) and STMicroelectronics (-1.67%). Offsetting the fall, top gainers were Danone (1.43%), Sanofi (1.24%) and Edenred (0.94%).
+
+---
+
+### 2026-08-14 00:08:03  #MKT News
+
+Mexico's main stock index fell 1%.
+
+---
+
+### 2026-08-14 00:07:45  #MKT News #WTI #Impact bullish #Brent
+
+【Houthi rebels say they used drones to hit ARAMCO refinery in Jizan, Saudi Arabia】Yemeni Houthi rebels said on the 13th they used two drones to attack an ARAMCO refinery in Jizan in southwest Saudi Arabia, calling the strikes "precise", the Houthi-controlled Saba news agency reported. On the 9th this month the Houthis also said they carried out a "precise strike" on the Jizan refinery.
 
 ---
 
@@ -18531,77 +18633,5 @@ Brazil Stocks Extend Selloff — The Ibovespa edged lower to trade below 168,000
 ### 2026-08-12 21:48:30  #Trading Economics #Markets #Commodity #Importance 1
 
 Baltic Dry Index Down for 3rd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for a third session on Wednesday, dropping about 3.5% to its lowest since August 4 at 2,939 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped by 5.8% to 4,712 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, snapped a ten-session winning run, falling 0.4% to 2,302 points. Among smaller vessels, the supramax index went up by 0.2% to 1,603 points.
-
----
-
-### 2026-08-12 21:48:19  #MKT News #Market Themes #AI Revolution
-
-【Cambricon outlines AI-chip roadmap, says intelligent-computing demand rising after 1H results】Cambricon said accelerating large-model technology is driving sustained growth in intelligent-computing demand and will continue to focus on AI chip design innovation to bolster competitiveness, expand market share and accelerate scenario deployment. For internet customers it is prioritizing large models, multimodal and search/recommendation applications, and is optimizing compute performance, communication efficiency and framework capabilities to improve integrated performance in typical internet workloads. The company said 1H2026 hardware work includes a new-generation processor microarchitecture and instruction set under development, with optimizations targeting large-model training and inference and aiming to improve programmability, ease of use, performance, power consumption and silicon area.
-
----
-
-### 2026-08-12 21:48:01  #央行 #國際
-
-【消費者物價指數緩解美聯儲加息壓力】記者表示，7 月消費者物價指數基本符合預期，降低了美聯儲 9 月加息的壓力。美聯儲認為，當前利率水平已具備足夠限制性，無需進一步加息即可推動通脹向 2% 目標回落。但持續存在的關稅、能源方面的壓力，以及人工智慧帶動下科技裝置與軟體的需求，正令上述前景變得複雜。就目前而言，這份消費者物價指數報告為政策制定者維持利率不變提供了更大操作空間。
-
----
-
-### 2026-08-12 21:46:27  #公司
-
-【公佈“炸裂”業績後，寒武紀回應市場關切】寒武紀8月12日召開2026年半年度業績說明會。針對市場關注的算力需求、供應鏈備貨、新產品研發等問題，寒武紀董事長、總經理陳天石表示，在大模型技術加速革新的行業背景下，智慧計算需求持續攀升，公司將持續聚焦人工智慧晶片設計領域技術創新，提升核心競爭力，積極拓展市場份額，加速場景落地。
-
----
-
-### 2026-08-12 21:45:38  #公司 #觀點
-
-【何海峰履新中信建投證券全球首席經濟學家】8月12日，據中信建投研究所訊息，何海峰正式擔任中信建投證券全球首席經濟學家。據記者瞭解，未來，何海峰將覆蓋全球宏觀研判，著力支援中信建投香港子公司及外資客戶的宏觀研究需求，承接相關部委和機構的政策諮詢，以樹立中信建投智庫的學術形象，提升內外資機構認可度。
-
----
-
-### 2026-08-12 21:45:01  #其他
-
-【榮耀Magic9將首發純血Agentic OS】8月12日，據榮耀手機訊息，榮耀直板旗艦Magic9系列將首發“純血”Agentic OS，新機將在影像、AI能力等方面進一步升級。目前已開啟盲約，定檔9月釋出。
-
----
-
-### 2026-08-12 21:44:51  #公司
-
-【遼寧省掛牌督辦朝陽市3人中毒死亡事故】遼寧省安全生產委員會近日釋出《較大生產安全事故查處掛牌督辦通知書》披露，遼寧省朝陽市建平縣萬壽街道老西店村的建平縣鑫隆泰牧業有限公司，8月5日19時3分許，發生一起中毒事故，造成3人死亡。建平縣有關方面12日確認，這起事故是企業在操作化糞池附近的積液池閥門時發生的。根據《遼寧省較大事故查處掛牌督辦辦法》，遼寧省安委會決定對該起較大事故查處實行掛牌督辦。要求朝陽市依照有關法律法規及規章規定，抓緊組織開展事故調查，迅速查明事故原因，嚴格按事故調查規定要求研究提出處理意見。（新華社）
-
----
-
-### 2026-08-12 21:44:25  #MKT News #MAERSK-B.CO #Impact bearish #DAX #EURUSD
-
-Maersk warned that low Rhine water levels could worsen to the point that barge transport becomes impossible.
-
----
-
-### 2026-08-12 21:43:57  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-【Market analysis: July CPI barely meets threshold for Fed to hold rates in September】Bill Adams, chief U.S. economist at Fifth Third Commercial Bank, said: "The July CPI report barely meets the threshold for the Fed to hold rates at its September meeting. Fed policymakers signaled in July that to avoid a rate hike, core inflation must improve between now and the September meeting."
-
----
-
-### 2026-08-12 21:43:56  #資料 #央行 #國際
-
-【市場分析：7月CPI勉強達到美聯儲9月按兵不動門檻】Fifth Third Commercial Bank首席美國經濟學家Bill Adams表示：“7月CPI報告勉強達到足以推動美聯儲在9月下一次會議上維持利率不變的門檻。美聯儲政策制定者在7月已經釋放訊號，若要避免加息，那麼從現在到9月會議期間，核心通脹必須有所改善。”
-
----
-
-### 2026-08-12 21:43:47  #MKT News #UCG.MI #Impact bearish
-
-A German regulator flagged governance issues at UniCredit in European Central Bank documents.
-
----
-
-### 2026-08-12 21:43:38  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB documents show integration is expected to be "challenging and persistent" and note existing tensions and divisions.
-
----
-
-### 2026-08-12 21:43:05  #MKT News #Market Regions #Europe & UK #UCG.MI #Impact bullish
-
-Documents show the European Central Bank has provisionally ruled there is no reason to oppose UniCredit's acquisition of a German commercial bank.
 
 ---

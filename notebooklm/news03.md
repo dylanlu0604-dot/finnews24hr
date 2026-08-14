@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:59:00_
-_本檔包含 3085 則快訊，約 603048 字_
+_更新時間：2026-08-15 05:34:10_
+_本檔包含 3085 則快訊，約 603122 字_
+
+---
+
+### 2026-08-12 21:48:19  #MKT News #Market Themes #AI Revolution
+
+【Cambricon outlines AI-chip roadmap, says intelligent-computing demand rising after 1H results】Cambricon said accelerating large-model technology is driving sustained growth in intelligent-computing demand and will continue to focus on AI chip design innovation to bolster competitiveness, expand market share and accelerate scenario deployment. For internet customers it is prioritizing large models, multimodal and search/recommendation applications, and is optimizing compute performance, communication efficiency and framework capabilities to improve integrated performance in typical internet workloads. The company said 1H2026 hardware work includes a new-generation processor microarchitecture and instruction set under development, with optimizations targeting large-model training and inference and aiming to improve programmability, ease of use, performance, power consumption and silicon area.
+
+---
+
+### 2026-08-12 21:48:01  #央行 #國際
+
+【消費者物價指數緩解美聯儲加息壓力】記者表示，7 月消費者物價指數基本符合預期，降低了美聯儲 9 月加息的壓力。美聯儲認為，當前利率水平已具備足夠限制性，無需進一步加息即可推動通脹向 2% 目標回落。但持續存在的關稅、能源方面的壓力，以及人工智慧帶動下科技裝置與軟體的需求，正令上述前景變得複雜。就目前而言，這份消費者物價指數報告為政策制定者維持利率不變提供了更大操作空間。
+
+---
+
+### 2026-08-12 21:46:27  #公司
+
+【公佈“炸裂”業績後，寒武紀回應市場關切】寒武紀8月12日召開2026年半年度業績說明會。針對市場關注的算力需求、供應鏈備貨、新產品研發等問題，寒武紀董事長、總經理陳天石表示，在大模型技術加速革新的行業背景下，智慧計算需求持續攀升，公司將持續聚焦人工智慧晶片設計領域技術創新，提升核心競爭力，積極拓展市場份額，加速場景落地。
+
+---
+
+### 2026-08-12 21:45:38  #公司 #觀點
+
+【何海峰履新中信建投證券全球首席經濟學家】8月12日，據中信建投研究所訊息，何海峰正式擔任中信建投證券全球首席經濟學家。據記者瞭解，未來，何海峰將覆蓋全球宏觀研判，著力支援中信建投香港子公司及外資客戶的宏觀研究需求，承接相關部委和機構的政策諮詢，以樹立中信建投智庫的學術形象，提升內外資機構認可度。
+
+---
+
+### 2026-08-12 21:45:01  #其他
+
+【榮耀Magic9將首發純血Agentic OS】8月12日，據榮耀手機訊息，榮耀直板旗艦Magic9系列將首發“純血”Agentic OS，新機將在影像、AI能力等方面進一步升級。目前已開啟盲約，定檔9月釋出。
+
+---
+
+### 2026-08-12 21:44:51  #公司
+
+【遼寧省掛牌督辦朝陽市3人中毒死亡事故】遼寧省安全生產委員會近日釋出《較大生產安全事故查處掛牌督辦通知書》披露，遼寧省朝陽市建平縣萬壽街道老西店村的建平縣鑫隆泰牧業有限公司，8月5日19時3分許，發生一起中毒事故，造成3人死亡。建平縣有關方面12日確認，這起事故是企業在操作化糞池附近的積液池閥門時發生的。根據《遼寧省較大事故查處掛牌督辦辦法》，遼寧省安委會決定對該起較大事故查處實行掛牌督辦。要求朝陽市依照有關法律法規及規章規定，抓緊組織開展事故調查，迅速查明事故原因，嚴格按事故調查規定要求研究提出處理意見。（新華社）
+
+---
+
+### 2026-08-12 21:44:25  #MKT News #MAERSK-B.CO #Impact bearish #DAX #EURUSD
+
+Maersk warned that low Rhine water levels could worsen to the point that barge transport becomes impossible.
+
+---
+
+### 2026-08-12 21:43:57  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+【Market analysis: July CPI barely meets threshold for Fed to hold rates in September】Bill Adams, chief U.S. economist at Fifth Third Commercial Bank, said: "The July CPI report barely meets the threshold for the Fed to hold rates at its September meeting. Fed policymakers signaled in July that to avoid a rate hike, core inflation must improve between now and the September meeting."
+
+---
+
+### 2026-08-12 21:43:56  #資料 #央行 #國際
+
+【市場分析：7月CPI勉強達到美聯儲9月按兵不動門檻】Fifth Third Commercial Bank首席美國經濟學家Bill Adams表示：“7月CPI報告勉強達到足以推動美聯儲在9月下一次會議上維持利率不變的門檻。美聯儲政策制定者在7月已經釋放訊號，若要避免加息，那麼從現在到9月會議期間，核心通脹必須有所改善。”
+
+---
+
+### 2026-08-12 21:43:47  #MKT News #UCG.MI #Impact bearish
+
+A German regulator flagged governance issues at UniCredit in European Central Bank documents.
+
+---
+
+### 2026-08-12 21:43:38  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+ECB documents show integration is expected to be "challenging and persistent" and note existing tensions and divisions.
+
+---
+
+### 2026-08-12 21:43:05  #MKT News #Market Regions #Europe & UK #UCG.MI #Impact bullish
+
+Documents show the European Central Bank has provisionally ruled there is no reason to oppose UniCredit's acquisition of a German commercial bank.
 
 ---
 
@@ -18557,77 +18629,5 @@ US Futures Rebound — Futures tracking US equity indices pared losses as market
 ### 2026-08-11 19:54:44  #公司
 
 【鵬飛綠能：控股子公司獲413.57萬元政府補助】鵬飛綠能公告稱，公司控股子公司於2026年8月11日收到政府補助款413.57萬元，佔公司最近一期經審計歸屬於上市公司股東淨利潤的10.77%。該補助為現金形式，與日常經營活動有關，不具可持續性。依據會計準則，補助將全部計入其他收益，最終以審計結果為準。
-
----
-
-### 2026-08-11 19:54:17  #MKT News
-
-Egypt's prime minister said the government's debt-to-GDP ratio has fallen to 81.8–82% and is expected to drop below 80% next year.
-
----
-
-### 2026-08-11 19:54:17  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Analyst: escalation in settler attacks linked to end‑October Israeli election】Ubay Abdi, former executive director of the Bisan Center for Research and Development, said recent escalation in Israeli settler attacks on Palestinians appears backed by officials and is closely tied to the end‑October Israeli election. He said politicians in the current government are relaxing constraints on settlers and at times encouraging large-scale attacks to secure votes; settlers, fearing a post‑October cabinet will be less tolerant, are accelerating efforts aimed at displacing Palestinians from their homes. Abdi added that through government policy and support for settler militias Israel has long sought to drive Palestinians off their land and render them refugees.
-
----
-
-### 2026-08-11 19:54:03  #國際
-
-埃及總理：埃及債務佔GDP比率降至81.8%-82%，預計明年債務佔GDP比重降至80%以下。
-
----
-
-### 2026-08-11 19:53:45  #公司
-
-【江蘇省與中國大唐集團簽署戰略合作協議】據新華日報，8月11日，江蘇省與中國大唐集團簽署戰略合作協議。江蘇省委書記信長星、省長劉小濤會見中國大唐集團董事長呂軍、總經理李向良。信長星說，希望雙方以此次簽約為新起點，更加緊密攜手，加快重大能源專案建設，提高綠電供給能力，推動能源科技創新和產業發展，更好服務全國發展大局。呂軍、李向良表示，大唐集團與江蘇合作基礎良好，將認真落實國家新型能源體系和新型電力系統建設“十五五”規劃，緊扣江蘇發展所需，持續深化務實合作，為江蘇高質量發展注入新動能。
-
----
-
-### 2026-08-11 19:53:32  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish
-
-【Glenmede: Fed has ample time to assess whether energy-driven inflation is contained】Glenmede strategist said investors expect a relatively mild July US CPI, forecasting headline CPI up 3.4% YoY and core price pressures remaining contained. Rising US–Iran tensions lifted oil in July, creating upside risk from energy, but market reaction has been muted after policy responses and strategic reserve releases stabilized supply. The Fed has ample time before its next meeting to assess two inflation prints and judge whether energy pressure is sustainably contained or beginning to broaden, a distinction likely to influence policy direction.
-
----
-
-### 2026-08-11 19:52:40  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #EURUSD #Impact bearish
-
-REUTERS SURVEY: 18 of 22 bond strategists say the US 10-year Treasury yield is more likely to be higher than expected over the next three months than lower.
-
----
-
-### 2026-08-11 19:52:30  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-Reuters survey: US 2-year Treasury yield is forecast to fall to 4.07% in three months, 3.92% in six months and 3.80% in one year, versus July survey forecasts of 4.00%, 3.90% and 3.85%.
-
----
-
-### 2026-08-11 19:52:03  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-REUTERS SURVEY: US 10-year Treasury yield expected to fall to 4.50% in three months, remain at that level through six months, and decline to 4.34% in one year. July survey: 4.48%, 4.48% and 4.39%.
-
----
-
-### 2026-08-11 19:51:39  #市場 #國際
-
-路透調查：22位債券策略師中有18位表示，未來三個月美國10年期國債收益率更有可能高於預期，而非低於預期。
-
----
-
-### 2026-08-11 19:51:31  #市場 #國際
-
-路透調查：預計美國10年期國債收益率三個月後將降至4.50%，隨後三個月維持該水平，一年後降至4.34%（7月調查對應預期分別為4.48%、4.48%、4.39%）
-
----
-
-### 2026-08-11 19:51:23  #其他
-
-【分析：伊美透過外交途徑達成和解的可能性愈發渺茫】半島電視臺表示，種種跡象表明雙方分歧持續拉大，透過外交方式達成和解的可能性正變得越來越小。當前局勢雖暫時處於類似停火的狀態，但無法排除新一輪衝突爆發的風險。美伊雙方持續進行軍事姿態展示，進一步增加了再度對峙的機率。
-
----
-
-### 2026-08-11 19:51:17  #市場 #國際
-
-路透調查：預計美國2年期國債收益率三個月後將降至4.07%，六個月後降至3.92%，一年後降至3.80%（7月調查對應預期分別為4.00%、3.90%、3.85%）
 
 ---

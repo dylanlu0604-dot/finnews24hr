@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 04:59:00_
-_本檔包含 2798 則快訊，約 602231 字_
+_更新時間：2026-08-15 05:34:10_
+_本檔包含 2787 則快訊，約 603566 字_
+
+---
+
+### 2026-08-10 17:20:29  #公司
+
+【濱海能源：與控股股東籤商標使用許可協議 屬關聯交易】濱海能源公告稱，公司控股股東旭陽集團已與公司簽訂《商標使用許可協議》，授權公司及子公司無償使用其已註冊有效的商標及企業標識。本次交易構成關聯交易，不構成重大資產重組、重組上市，由總經理辦公會批准。許可期限自協議簽署起，在公司作為關聯公司期間持續有效。自年初至公告日，公司與旭陽集團及其一致行動人累計關聯交易金額43222萬元。此次授權利於公司業務拓展。
+
+---
+
+### 2026-08-10 17:20:18  #公司
+
+【四維圖新：中標南方電網數字電網科技（廣東）有限公司專項採購專案】據四維圖新訊息，近日，四維圖新再度中標南方電網數字電網科技（廣東）有限公司專項採購專案，中標金額1688.5萬元。這是繼今年2月中標南方電網相關專案後，雙方合作的又一次深化。
+
+---
+
+### 2026-08-10 17:19:25  #其他
+
+【自然資源部對河北河南湖北啟動地質災害防禦Ⅳ級響應】據氣象部門預測和自然資源部地質災害技術指導中心研判，受今年第13號颱風“白海豚”影響，未來三天，河北、河南、湖北有強降雨過程，河北南部、河南西部和北部、湖北西部等部分地區發生地質災害的風險較高。自然資源部於8月10日9時對河北、河南、湖北啟動地質災害防禦IV級響應。 自然資源部要求河北、河南、湖北省自然資源主管部門增強風險意識和憂患意識，強化底線思維和極限思維，高度重視強降雨引發地質災害防範應對，及時組織開展巡查排查，切實做好監測預警、會商研判、災情險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和專家排程，全力協助地方做好地質災害防禦工作。（自然資源部）
+
+---
+
+### 2026-08-10 17:19:05  #MKT News #Important #Market Themes #Chip Wars
+
+【South Korea to launch KRW5 trillion chip fund, provide KRW5 trillion trade financing】Reuters: South Korea will launch a KRW5 trillion ($3.52 bln) semiconductor fund to invest in chip materials, components and fabless firms, presidential chief of staff Kang Hoon-sik said. The government will also supply KRW5 trillion in trade financing to support export-oriented suppliers. Seoul aims to pass the Super-Large Special Industrial Park Act within the year to speed permitting, environmental reviews and infrastructure build-out. Authorities plan to guarantee 650,000 tonnes of water for Honam semiconductor projects by 2030, and to provide 14.7 GW of planned power to the Yongin semiconductor cluster by 2041.
+
+---
+
+### 2026-08-10 17:19:03  #其他
+
+【西班牙韋爾瓦省山火持續蔓延 已燒燬超8000公頃土地】當地時間8月10日，西班牙安達盧西亞自治區森林火災防護當局釋出的訊息顯示，該自治區韋爾瓦省自6日起發生的山林火災仍在蔓延，截至目前已經燒燬超過8000公頃土地，導致474名居民撤離。當局報告稱，10日清晨起共有約150名消防人員和11輛消防車輛參與本次火災的滅火工作，當地複雜的天氣狀況使滅火工作變得更加困難。（央視新聞）
+
+---
+
+### 2026-08-10 17:18:48  #公司 #市場
+
+【先導基電：股價異常波動 提示多項投資風險】先導基電公告稱，公司股票於2026年8月5 - 7日連續三個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動，8月10日漲停，股價顯著偏離大盤，或存在市場情緒過熱、非理性炒作風險。截至8月7日，公司市淨率3.64倍，高於房地產業平均的0.82倍，存在估值較高風險。此外，公司目前無磷化銦襯底業務及相關收入利潤，提醒投資者注意投資風險。
+
+---
+
+### 2026-08-10 17:18:48  #MKT News #1808.HK #Impact mixed
+
+HKEX filings show Morgan Stanley's long position in Zhongji Xuchuang H-shares rose to 6.23% on Aug 4 from 5.92%; JP Morgan's long position fell to 14.93% on Aug 5 from 15.02%.
+
+---
+
+### 2026-08-10 17:18:46  #Trading Economics #Markets #Commodity #Importance 0
+
+Crude Oil Extends Gains — Crude oil rose to around $79 per barrel on Monday, extending gains from last week as uncertainty over the Strait of Hormuz continued to support prices. Iran and Oman have yet to finalize an agreement to reopen the strategic waterway, while conflicting signals from Tehran and Washington have raised doubts over how quickly a deal could be reached. Iranian Foreign Minister Abbas Araghchi said Tehran is not currently holding direct talks with the US and reiterated that reopening Hormuz would require Washington to lift its blockade of Iranian shipping and provide compensation for damages. This contrasts with earlier US indications that an agreement could be close, while President Donald Trump said Washington was now “low-keying it.” Elsewhere, Iran-backed Houthi militants in Yemen claimed an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in Hormuz over the weekend.
 
 ---
 
@@ -16786,119 +16834,5 @@ Take Two Interactive Software earnings in line with market expectations at 0.33 
 ### 2026-08-08 05:36:31  #其他
 
 【哥倫比亞新任總統德拉埃斯普列亞宣誓就職】當地時間8月7日，哥倫比亞當選總統阿韋拉多·德拉埃斯普列亞在該國第三大城市卡利宣誓就職，任期四年。阿韋拉多·德拉埃斯普列亞現年47歲，是哥倫比亞律師、企業家和右翼政治人物，長期活躍於公共事務領域。他此前在競選時主張以強硬手段打擊犯罪，推行自由市場經濟政策。（央視新聞）
-
----
-
-### 2026-08-08 05:30:48  #市場
-
-巴西將於 8 月 10 日拍賣至多 5 萬份外匯互換合約。
-
----
-
-### 2026-08-08 05:30:24  #其他
-
-哥倫比亞國會為德・拉・埃斯普列拉舉行總統就職宣誓。
-
----
-
-### 2026-08-08 05:23:10  #觀點 #央行 #國際
-
-【大摩：預計美聯儲資產負債表將縮減1.5萬億美元】摩根士丹利經濟學家Seth Carpenter和Michael Gapen在報告中表示，該行的基準預測是，美聯儲將在大約兩年內把資產負債表規模縮減約1.5萬億美元，最早可能從2027年第一季度開始；合理的縮減區間為6,000億至2.5萬億美元。
-
----
-
-### 2026-08-08 05:22:40  #其他
-
-DigitalBridge 投資的 Switch 計劃 11 月進行 IPO。
-
----
-
-### 2026-08-08 05:22:31  #市場
-
-富時A50期指連續夜盤收漲0.23%，報15079點。
-
----
-
-### 2026-08-08 05:22:10  #其他
-
-市場訊息：資料中心企業 Switch 據稱已秘密提交 IPO 申請。
-
----
-
-### 2026-08-08 05:19:13  #公司
-
-南方天然氣公司削減 6 個管段輸送能力。
-
----
-
-### 2026-08-08 05:15:59  #市場
-
-【離岸人民幣兌美元較週四紐約尾盤漲47點】週五（8月7日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7429元，較週四紐約尾盤漲47點，日內整體交投於6.75-6.7401元區間。
-
----
-
-### 2026-08-08 05:12:31  #公司 #國際
-
-據稱日本能源巨頭ENEOS 將以 13 億美元企業價值收購 TPC 集團。
-
----
-
-### 2026-08-08 05:11:22  #市場
-
-週五（8月7日）紐約尾盤，標普500股指期貨最終漲0.56%，道指期貨漲0.24%，納斯達克100股指期貨漲1.16%。羅素2000股指期貨漲1.07%。
-
----
-
-### 2026-08-08 05:07:46  #國際
-
-美國俄勒岡州州長蒂娜·科特克表示：支援地方層面暫停資料中心開發專案，直至諮詢委員會的相關建議可供審議。
-
----
-
-### 2026-08-08 05:05:02  #市場
-
-【國際貴金屬期貨普遍收漲 COMEX白銀期貨本週累漲超10%】國際貴金屬期貨普遍收漲，COMEX黃金期貨漲2.37%，報4401.3美元/盎司，本週累漲超7%；COMEX白銀期貨漲3.56%，報63.8美元/盎司，本週累漲超10%。
-
----
-
-### 2026-08-08 05:03:19  #國際
-
-惠譽：我們預計伊朗戰爭將拖累科威特經濟活動，拖累主要來自石油產量下降。
-
----
-
-### 2026-08-08 05:03:15  #國際
-
-本週美國股市市值增加 2.8 萬億美元。
-
----
-
-### 2026-08-08 05:03:01  #國際
-
-惠譽評級：中東衝突將持續影響科威特的石油出口能力，原因在於科威特石油出口依賴霍爾木茲海峽。
-
----
-
-### 2026-08-08 05:01:50  #其他
-
-惠譽確認科威特評級為 AA‑；展望穩定。
-
----
-
-### 2026-08-08 05:00:37  #其他
-
-盧卡拉鑽石二季度營收 4100 萬美元，同比下降 6.2%。
-
----
-
-### 2026-08-08 04:59:27  #其他
-
-【FOF迎來發行大年 年內首募規模已超1300億元】FOF迎來前所未有的發行大年。截至8月上旬，FOF年內的新發規模已超過1300億元，創出單年度FOF募資歷史新高。然而，FOF發行火熱的背後，行業卻在上演結構性分化：新品募資如火如荼，存量FOF卻遭遇贖回與清盤的困境。
-
----
-
-### 2026-08-08 04:59:08  #市場 #國際
-
-【國際金價在非農日漲約2.4%，本週累漲約7.3%】週五（8月7日）紐約尾盤，現貨黃金漲2.37%，報4339.75美元/盎司，亞太盤初以來平滑地持續走高、北京時間20:30釋出美國非農就業資料時加速上漲——從4320美元下方拉昇至4360美元一線，本週累計上漲7.27%，8月3-4日持平於4050美元附近、5-7日持續上揚。本週，COMEX黃金期貨累漲7.16%，報4400.70美元/盎司。現貨白銀漲3.11%，報63.4555美元/盎司，本週累漲10.29%，整體持續走高。COMEX白銀期貨累漲10.29%，報63.720美元/盎司。COMEX銅期貨跌1.83%，報6.586美元/磅，本週累漲1.85%，8月6日歐市早盤曾達到6.8665美元。現貨鉑金漲1.33%，報1749.38美元/盎司，本週累漲6.14%；現貨鈀金漲0.64%，報1382.91美元/盎司，本週累漲7.37%。本週，在美股時段交易的費城金銀指數累漲19.70%，報368.56點，整體持續走高。在全球市場全天交易的紐約證交所ARCA金礦開採商指數累漲20.16%，報2570.44點，整體持續走高。在美股時段交易的原材料指數累漲7.44%，報249.68點。在美股時段交易的金屬與礦業指數累漲7.98%，報295.29點。
 
 ---
