@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-14 08:36:03",
-  "count": 15456,
+  "updated": "2026-08-14 08:40:00",
+  "count": 15460,
   "items": [
+    {
+      "id": "5040224",
+      "time": "2026-08-14 08:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026年上半年中國智慧眼鏡市場銷量同比增長85.5%】 洛圖科技釋出的報告顯示，2026年上半年，中國智慧眼鏡市場的全渠道銷量為90.9萬臺，同比增長85.5%；銷售額為18.8億元，同比增長98.7%。2026年上半年，中國智慧眼鏡市場各細分品類的市場表現存在一定分化：AR眼鏡與拍攝眼鏡實現了大幅增長，AI音訊眼鏡的增長趨緩。"
+    },
+    {
+      "id": "5040223",
+      "time": "2026-08-14 08:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國迎來今夏第五輪熱浪 高溫與乾旱疊加影響持續 】 近日，英國迎來今年夏天以來的第五輪熱浪。 英國大部分地區正在經歷高溫天氣和乾旱。英國今年已經有四天氣溫超過36攝氏度，為1884年有氣象記錄以來最多。英國氣象局稱，今年夏天或將成為有記錄以來最熱的夏天。此外，英格蘭和威爾士地區經歷了190年來最乾旱的7月，約有4500萬人受影響，2700萬人面臨用水限制。英國衛生部門上個月估計，今年英國已經有2877人死於高溫相關原因。"
+    },
+    {
+      "id": "5040222",
+      "time": "2026-08-14 08:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國安全應急裝備重點領域產業規模突破1萬億元 】 從中國電子資訊產業發展研究院瞭解到，“十四五”以來，我國安全應急裝備產業快速發展。2025年重點領域產業規模突破1萬億元，形成了覆蓋安全防範、應急處置和安全應急服務的產業體系。"
+    },
+    {
+      "id": "mkt:019ffdb3-d8bc-7aab-9030-77f3131dc244",
+      "time": "2026-08-14 08:37:29",
+      "tags": [
+        "MKT News",
+        "CSI300"
+      ],
+      "text": "【A-share valuation gauge: indicators enter volatile phase】Buffett indicator (CSI 300 market cap/GDP) fell to 92.59% on Aug 13. CSI 300 equity risk premium (ERP) was 5.26%, oscillating around 5.2% since July and sitting at the lower end of its range since Oct 2024, suggesting the market’s yield advantage over government bonds is modest. Historical thresholds: Buffett indicator 70–100% is typically viewed as normal (below = undervalued; above = overvalued). Over a 10-year sample the CSI 300 ERP is inversely correlated with the index; ERP ≥6% has coincided with market lows and stronger investment value, while ERP ≤4% has typically coincided with cyclical highs and reduced investment appeal, raising pullback risk."
+    },
+    {
+      "id": "5040221",
+      "time": "2026-08-14 08:36:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【截至6月30日，馬斯克持有SpaceX 48.4%股權】 據媒體報道，監管檔案顯示，截至6月30日，埃隆・馬斯克持有SpaceX 48.4%的股份，按當前市價計算，該部分股權價值超9000億美元。檔案顯示，馬斯克持有64.2億股股份，並對這些股份擁有單獨投票權及處置權。自IPO以來，他掌握SpaceX超過82%的投票權，凸顯其對這家公司的巨大影響力。本月早些時候，SpaceX公佈了自上市以來的首份季度財報，顯示營收增長超過90%，資本支出呈指數級增長。"
+    },
+    {
+      "id": "5040220",
+      "time": "2026-08-14 08:35:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據稱KKR以每股最高80美元的價格出售BridgeBio Pharma股票】 當地時間8月13日，據報道，知情人士透露，私募股權投資公司KKR的一家關聯公司正以每股78至80美元的價格出售生物技術公司BridgeBio Pharma的股票。"
+    },
+    {
+      "id": "5040219",
+      "time": "2026-08-14 08:35:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局印發《檢驗類醫療服務價格專案立項指南（試行）》】 為貫徹落實《深化醫療服務價格改革試點方案》，推進全國醫療服務價格專案規範編制工作，按照“成熟一批、釋出一批”的工作思路，近日國家醫保局編制印發《檢驗類醫療服務價格專案立項指南（試行）》及其對映關係表，將已有價格專案規範整合為662個主專案、114個加收項、7個擴充套件項。下一步，國家醫保局將指導各省醫保局參考《檢驗類醫療服務價格專案立項指南（試行）》，制定全省統一的價格基準，由具有價格管理許可權的統籌地區對照全省價格基準，上下浮動確定實際執行的價格水平。"
+    },
     {
       "id": "5040217",
       "time": "2026-08-14 08:34:10",
@@ -141466,33 +141523,6 @@
         "國際"
       ],
       "text": "據英國金融時報報道，歐洲央行是在上週五美國拋售歐元兌換日元的交易完成後才獲悉美國這一操作的。歐洲央行行長拉加德和美國財長貝森特週六談到了干預行動。"
-    },
-    {
-      "id": "mkt:019fd9a8-9f1c-7aab-8fab-15a0a76a8c03",
-      "time": "2026-08-07 08:38:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shenzhen Stock Exchange added Jinghe Integration to the list of securities eligible for Hong Kong Stock Connect, effective Aug 7."
-    },
-    {
-      "id": "5029745",
-      "time": "2026-08-07 08:38:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "深交所公告，港股通標的證券名單調入晶合整合，自2026年08月07日起生效。"
-    },
-    {
-      "id": "5029744",
-      "time": "2026-08-07 08:38:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據英國金融時報，歐洲央行僅在交易完成後才得知美國拋售歐元買入日元。"
     }
   ]
 }
