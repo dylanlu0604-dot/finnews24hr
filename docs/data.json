@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-14 13:29:49",
-  "count": 15510,
+  "updated": "2026-08-14 13:33:42",
+  "count": 15507,
   "items": [
+    {
+      "id": "mkt:019ffec2-8442-7aab-9036-035ddaf263a9",
+      "time": "2026-08-14 13:33:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Jiangsu backs leading rocket and satellite systems and payload firms in accessing capital markets, speeding listings】Jiangsu province published a Three-Year Action Plan for high-quality commercial space development (2026-2028). It directs support for leading rocket and satellite systems and satellite-payload firms to connect with capital markets and accelerate listings. The plan targets core suppliers — including telemetry/control communication payloads, satellite laser communications and satellite power systems — for development into single-product market leaders and specialized, innovative \"little giant\" SMEs. It also pledges to nurture innovative SMEs in satellite applications, aerospace new materials and fundamental components. The province will form an aerospace industry development working group to strengthen cross-department coordination and seek national ministry support on launch-permit approvals, frequency and orbital resource coordination, constellation-operation qualifications and major project approvals."
+    },
+    {
+      "id": "5040603",
+      "time": "2026-08-14 13:32:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【江蘇：支援火箭衛星總體、衛星載荷等領域龍頭企業對接資本市場，加快上市步伐】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，推動企業躍升發展。支援火箭衛星總體、衛星載荷等領域龍頭企業對接資本市場，加快上市步伐。支援測控通訊載荷、衛星鐳射通訊、衛星電源系統等核心配套企業成長為單項冠軍和專精特新“小巨人”企業。在衛星應用服務、航天新材料、基礎元器件等領域培育一批創新型中小企業；建立工作機制。組建省航空航天產業發展工作專班，加強跨部門協作，積極爭取國家部委在發射許可審批、頻率軌道資源協調、星座運營資質、重大專案核准等方面政策支援。"
+    },
+    {
+      "id": "5040602",
+      "time": "2026-08-14 13:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本國際協力銀行與美國實體Japan Invest 4 LLC簽署約8.01億美元貸款協議。"
+    },
+    {
+      "id": "te:economy:575288",
+      "time": "2026-08-14 13:31:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Estonia Unemployment Rate Drops to 6.6% in Q2 — Estonia’s unemployment rate fell to 6.6% in the second quarter of 2026 from 7.8% in the corresponding period last year, marking the lowest second-quarter reading since 2023. The number of unemployed persons declined by 10.2 thousand from a year ago to 49 thousand, comprising 24.6 thousand men and 24.4 thousand women. Unemployment among women decreased to 6.6% from 7.2%, while the rate for men fell to 6.6% from 8.4% in the same period a year ago. Across age groups, the youth unemployment rate, aged 15 to 24, decreased to 22.4% from 25.4%, while the rate for those aged 25–49 fell to 5.3% from 6.7% and for those aged 50–74 declined to 4.8% from 5.6%. The number of people not participating in the labor force, or economically inactive increased 13.1 thousand compared to a year ago. Meanwhile, employment decreased by 5.7 thousand to 691.6 thousand and the labor force participation rate fell by 1.4 percentage points to 73.4%."
+    },
+    {
+      "id": "5040601",
+      "time": "2026-08-14 13:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯堪斯卡：獲得價值9.57億美元的美國輕軌交通建設合同。"
+    },
+    {
+      "id": "te:markets:575287",
+      "time": "2026-08-14 13:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indonesian Rupiah Inches Up, Set for Second Weekly Gain — The Indonesian rupiah edged higher to around IDR 17,830 per U.S. dollar around midday Friday, ending a three-session losing streak and heading for a second straight weekly advance. Sentiment was lifted by President Prabowo’s Independence Day address to parliament, in which he projected GDP growth could reach 6% by year-end, citing continued investment realisation and job creation. The government also plans to reclaim part of state-owned companies’ dividends to build a fiscal buffer and accelerate debt reduction, potentially strengthening fiscal credibility. Focus now turns to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo stepped down last month. Acting Governor Destry Damayanti, now the sole nominee to lead BI, is expected to provide policy continuity. BI has raised its policy rate by 100bps since May to support the rupiah. Globally, the dollar remained subdued as softer U.S. inflation data prompted traders to scale back bets on a Fed rate hike in September."
+    },
+    {
+      "id": "mkt:019ffec0-46a7-7aab-9035-fa4042e8d21d",
+      "time": "2026-08-14 13:30:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China coking coal main futures contract rose over 3% to 1,361.5 yuan/ton."
+    },
+    {
+      "id": "5040600",
+      "time": "2026-08-14 13:30:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報63.68美元/盎司。"
+    },
+    {
+      "id": "5040599",
+      "time": "2026-08-14 13:30:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報15561.00元。"
+    },
     {
       "id": "mkt:019ffebe-c9a0-7aab-9035-f3c778c5a83f",
       "time": "2026-08-14 13:29:03",
@@ -141832,131 +141918,6 @@
         "其他"
       ],
       "text": "普利司通第二財季營收1.208萬億日元，同比增長14%。"
-    },
-    {
-      "id": "mkt:019fdab6-4df7-7aab-8fb0-6630f9bc1717",
-      "time": "2026-08-07 13:33:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share storage-chip sector remained active; GigaDevice rose over 9%, with broad gains across smaller memory-related names."
-    },
-    {
-      "id": "5030100",
-      "time": "2026-08-07 13:32:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念午後活躍 兆易創新逼近漲停】儲存晶片概念午後活躍，兆易創新逼近漲停，普冉股份、江波龍、德明利、北京君正、朗科科技、佰維儲存、夏農芯創跟漲。"
-    },
-    {
-      "id": "mkt:019fdab4-4e20-7aab-8fb0-5facf6eb6c4b",
-      "time": "2026-08-07 13:31:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China's Shenzhen Component Index up 2.00%; Shanghai Composite up 0.72%."
-    },
-    {
-      "id": "mkt:019fdab3-f836-7aab-8fb0-528bbd674138",
-      "time": "2026-08-07 13:30:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Polysilicon most-active contract up more than 6.00% intraday, trading at 38,150 yuan/ton."
-    },
-    {
-      "id": "5030099",
-      "time": "2026-08-07 13:30:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.01%，現報14393.720點；上證指數漲0.71%，現報3928.044點；創業板指漲2.78%，現報3613.465點。"
-    },
-    {
-      "id": "5030098",
-      "time": "2026-08-07 13:30:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲5%，現報4814.00元。"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202608073835065829",
-      "time": "2026-08-07 13:30:39",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "法國第二季度ILO失業率為8.3%，預期8.2%，前值8.10%。"
-    },
-    {
-      "id": "5030097",
-      "time": "2026-08-07 13:30:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國第二季度失業率升至8.3%。"
-    },
-    {
-      "id": "5030096",
-      "time": "2026-08-07 13:30:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲6%，現報38150.00元。"
-    },
-    {
-      "id": "mkt:019fdab3-3c8c-7aab-8fb0-498ce4f898e6",
-      "time": "2026-08-07 13:30:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "France Q2 ILO unemployment rate 8.3% (expected 8.2%; prior 8.1%)."
-    },
-    {
-      "id": "5030095",
-      "time": "2026-08-07 13:30:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "長鑫科技成交額超200億元，現漲2.06%。"
-    },
-    {
-      "id": "mkt:019fdab3-2217-7aab-8fb0-44fdffcae1c5",
-      "time": "2026-08-07 13:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | ILO Unemployment Rate (Q2) | actual 8.3% | consensus 8.2% | previous 8.10%"
     }
   ]
 }
