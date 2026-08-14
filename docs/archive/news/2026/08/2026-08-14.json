@@ -1,7 +1,175 @@
 {
   "date": "2026-08-14",
-  "count": 2515,
+  "count": 2534,
   "items": [
+    {
+      "id": "mkt:01a0005e-eb82-7aab-903f-8ecf988c62dd",
+      "time": "2026-08-14 21:03:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceX completes $60 bln acquisition of Cursor, expands AI footprint】SpaceX has completed a $60 billion acquisition of AI coding startup Cursor, effective Aug. 14, filings show, roughly two months after the companies announced a deal. The purchase, one of the largest tech transactions on record, is intended to accelerate development of advanced AI tools to automate tasks including software coding. The move is described as a key step in Musk’s effort to catch up with rivals Anthropic and OpenAI. SpaceX’s AI arm has been renamed SpaceXAI; it had limited commercial applications and recently underwent layoffs and restructuring. Cursor launched its AI coding assistant in 2023 to help developers write and debug code and was among the fastest-growing startups during the surge in demand for chat-driven programming tools."
+    },
+    {
+      "id": "5041589",
+      "time": "2026-08-14 21:03:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：截至7月1日，俄羅斯外債規模為3133億美元。"
+    },
+    {
+      "id": "5041588",
+      "time": "2026-08-14 21:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【穆迪：高溫與水資源風險侵蝕多行業資產估值，或形成永久性風險】穆迪表示，極端高溫和不穩定的水資源供應正威脅著越來越多行業的資產估值，從勞動生產率到能源成本等方方面面均受到影響。高溫和水資源不再是沿著不同時間線演變的獨立風險，對投資者而言這兩種風險都轉化為運營風險、盈利波動和擱淺資產敞口。高溫和水資源風險正開始“拖累”歐洲房地產行業的資產價值。此類影響若未被定價，可能悄無聲息地侵蝕農業、服裝製造和半導體等行業企業的現金流和投資組合回報。投資者現在需要適應極端天氣條件所創造的“全新風險格局”，高溫和水資源短缺的影響正演變為永久性風險特徵。在美國，約15.9萬個水資源密集型設施的樣本顯示，近4.9萬個設施在未來數十年內可能面臨高或極高水資源壓力。"
+    },
+    {
+      "id": "5041587",
+      "time": "2026-08-14 21:02:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報925.00元。"
+    },
+    {
+      "id": "5041586",
+      "time": "2026-08-14 21:01:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州南粵城市發展投資基金被監管採取責令改正措施】8月14日，廣東證監局披露，經查，廣州南粵城市發展投資基金管理有限公司在開展私募投資基金管理業務過程中，存在以下違規行為：一是管理廣州南科淮江產業投資基金合夥企業（有限合夥）過程中未謹慎勤勉履行私募基金管理人責任，存在資金募集、投資運作等工作由第三方機構負責的情形；二是管理的廣州南粵晨星股權投資基金合夥企業（有限合夥）募集完畢後，未向中國證券投資基金業協會辦理基金備案手續；三是法定代表人發生變更後未及時向中基協報告；四是未妥善儲存2只私募基金的投資者適當性材料。廣東證監局決定，對該公司採取責令改正的行政監管措施，並要求該公司應高度重視，採取切實有效的措施，對存在的問題進行整改，對相關責任人員進行問責，並在收到決定書之日起30日內向監管提交書面整改報告。"
+    },
+    {
+      "id": "mkt:01a0005c-dd79-7aab-903f-8454004d68f4",
+      "time": "2026-08-14 21:01:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up 1.00% intraday at $65.11/oz."
+    },
+    {
+      "id": "5041585",
+      "time": "2026-08-14 21:01:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "Reddit將被納入標普500指數。"
+    },
+    {
+      "id": "mkt:01a0005c-40b1-7aab-903f-7a6e2a1041d6",
+      "time": "2026-08-14 21:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Since June, India has mobilized over $50 billion through measures to attract overseas capital, giving the central bank greater room to rebuild foreign-exchange reserves and support the weak rupee."
+    },
+    {
+      "id": "5041584",
+      "time": "2026-08-14 21:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橫琴創夢瑞通投資管理有限公司被監管採取責令改正措施】8月14日，廣東證監局披露，經查，橫琴創夢瑞通投資管理有限公司在開展私募投資基金管理業務過程中，存在以下違規行為：一是不具備與管理規模相適應的運營資金；二是未向中國證券基金業協會（簡稱“中基協”）報送真實的員工、辦公場所資訊，在向中基協報送的旗下基金的審計報告、定期報告與財務報告中，未正確披露基金對外投資的公允價值。廣東證監局決定對該公司採取責令改正的行政監管措施，並要求該公司應高度重視，採取切實有效的措施，對存在的問題進行整改，對相關責任人員進行問責，並在收到決定書之日起30日內向監管提交書面整改報告。"
+    },
+    {
+      "id": "5041583",
+      "time": "2026-08-14 21:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國最高法院否決針對青少年的社交媒體禁令。"
+    },
+    {
+      "id": "mkt:01a0005b-f92e-7aab-903f-71363b12f6b2",
+      "time": "2026-08-14 21:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Energy"
+      ],
+      "text": "China night session opened: main domestic futures mostly higher; coking coal, PTA, low-sulfur fuel oil (LU), benzene, styrene (EB) and para-xylene rose more than 1%, while glass fell more than 1% and caustic soda slipped nearly 1%."
+    },
+    {
+      "id": "5041582",
+      "time": "2026-08-14 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1022.00元。"
+    },
+    {
+      "id": "5041581",
+      "time": "2026-08-14 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續漲3.30%，鈀連續跌3.25%，多晶矽連續漲2.39%，工業矽連續漲2.27%，鉑連續跌1.79%。"
+    },
+    {
+      "id": "5041580",
+      "time": "2026-08-14 20:59:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報65.09美元/盎司。"
+    },
+    {
+      "id": "5041579",
+      "time": "2026-08-14 20:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長謝爾蓋·拉夫羅夫在莫斯科會見泰國外長。"
+    },
+    {
+      "id": "5041578",
+      "time": "2026-08-14 20:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週五偕聯邦執法高層官員前往紐約州拿騷縣，與當地警察舉行集會，並宣揚其辦公室所稱的全國暴力犯罪出現歷史性下降。"
+    },
+    {
+      "id": "5041577",
+      "time": "2026-08-14 20:56:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇州升級釋出京杭運河蘇州段洪水黃色預警】蘇州市水務局2026年8月14日20時升級釋出京杭運河蘇州段洪水黃色預警。提醒影響區域各級政府及有關部門做好防汛工作；社會公眾做好避災避險。"
+    },
+    {
+      "id": "5041576",
+      "time": "2026-08-14 20:55:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在真相社交平臺發文：“我們莊嚴的二戰紀念碑剛剛遭到塗鴉破壞者的噴塗。這是對二戰中犧牲的美國英雄莫大的侮辱。先是倒影池，現在又發生這種事。我們正在追查這些人！這些敗類究竟來自何方？？？”"
+    },
+    {
+      "id": "5041575",
+      "time": "2026-08-14 20:55:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太辰光：擬投資建設坪山生產基地專案】太辰光(300570)8月14日公告，公司擬購買土地使用權並投資建設深圳太辰光通訊股份有限公司坪山生產基地專案，該專案投資總額計劃約7.2億元。"
+    },
     {
       "id": "5041574",
       "time": "2026-08-14 20:53:34",
