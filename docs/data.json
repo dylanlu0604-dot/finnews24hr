@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-15 03:11:55",
-  "count": 15308,
+  "updated": "2026-08-15 03:21:23",
+  "count": 15290,
   "items": [
+    {
+      "id": "5041909",
+      "time": "2026-08-15 03:19:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價14日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲1.15美元，收於每桶82.40美元，漲幅為1.42%；10月交貨的倫敦布倫特原油期貨價格上漲1.45美元，收於每桶88.52美元，漲幅為1.67%。（新華社）"
+    },
+    {
+      "id": "mkt:01a001b6-a15a-7aab-9044-cf18b6cfa36d",
+      "time": "2026-08-15 03:19:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fox News reports President Trump said the US will impose severe economic measures on Iran."
+    },
+    {
+      "id": "5041908",
+      "time": "2026-08-15 03:18:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普表示，美國將對伊朗實施嚴厲經濟打擊。"
+    },
     {
       "id": "mkt:01a001ae-b9e3-7aab-9044-c367b8224a47",
       "time": "2026-08-15 03:10:23",
@@ -139897,191 +139926,6 @@
         "其他"
       ],
       "text": "Cursor 品牌名稱或將逐步淘汰。"
-    },
-    {
-      "id": "5031535",
-      "time": "2026-08-08 03:21:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：伊方未在涉諒解備忘錄的談判中作任何讓步】當地時間7日，伊朗總統佩澤希齊揚在就職兩週年之際發表講話，就地區局勢、外交談判及國內政治等多個問題闡述立場。佩澤希齊揚強調，伊朗從未尋求戰爭或擴張，但必將堅定捍衛國家主權與安全。他指出，美國與以色列意圖透過近期衝突在伊朗與波斯灣鄰國之間挑撥離間，美軍利用其位於地區國家的基地對伊朗發動襲擊，伊朗被迫採取自衛行動。他同時呼籲伊斯蘭國家加強團結與信任。談及近期伊美停火諒解備忘錄，他透露伊朗未在談判中作出任何讓步，停火協議原定由美國總統特朗普簽署以確保履行，但美方在不足24小時內徹底改變了立場。針對外交與核問題談判，佩澤希齊揚表示，伊朗此前曾與法國就取消“快速恢復制裁機制”達成共識，但由於美國干涉以及歐洲缺乏獨立決策權而未能落實。佩澤希齊揚還駁斥了有關政府與軍方存在分歧的說法，強調政府、議會、司法機構及武裝力量保持高度統一，成功打亂了敵方企圖造成伊朗內部崩潰的預判。此外，佩澤希齊揚明確澄清了有關其辭職的傳聞，強調絕不會辭職，將繼續履行服務人民的職責。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fddac-0a69-7aab-8fc1-17cba01df392",
-      "time": "2026-08-08 03:21:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump announced a series of mining projects valued at $3 billion."
-    },
-    {
-      "id": "mkt:019fddab-f936-7aab-8fc1-0be7d381eec5",
-      "time": "2026-08-08 03:21:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Information reports SpaceX (SPCX.O) could close as early as next weekend on a $60 billion acquisition of programming startup Cursor. Cursor will be integrated into SpaceX's AI team."
-    },
-    {
-      "id": "5031534",
-      "time": "2026-08-08 03:20:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將宣佈一批總價值30億美元的礦業專案。"
-    },
-    {
-      "id": "5031533",
-      "time": "2026-08-08 03:19:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cursor 稱SpaceX或很快完成收購。"
-    },
-    {
-      "id": "5031532",
-      "time": "2026-08-08 03:19:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX最早可於下週末完成對編碼初創企業Cursor 價值600億美元的收購。"
-    },
-    {
-      "id": "mkt:019fddaa-9a90-7aab-8fc1-0292015f4e9f",
-      "time": "2026-08-08 03:19:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump announced $100 million in funding for U.S. mining colleges to train the next generation of mining engineers, citing widespread retirements in the sector and a shortage of graduates."
-    },
-    {
-      "id": "5031531",
-      "time": "2026-08-08 03:19:23",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普政府將向電池及材料企業撥付 20 億美元】特朗普政府已同意為電池及關鍵礦產生產企業提供超 20 億美元資金，進一步加碼政府資金投入，目標是擺脫美國對中國供應商的依賴。一名白宮官員透露，特朗普總統計劃在週五與礦業高管舉行的圓桌會議上宣佈，國防部已承諾向下一代電池企業西拉奈米技術公司提供 14 億美元貸款，並與另外三家企業簽署協議。從無人機到執行人工智慧模型的資料中心，各類裝置都需要效能更強的電池，因此政府將本土生產列為優先事項。美國擔憂五角大樓所需武器裝備的關鍵零部件依賴其他國家，這推動政府開啟了數百億美元的大規模放貸。國防部設有專門辦公室，配備銀行從業人員及其他專業人員，負責將資金精準投放至合適專案。週五這場於美國國務院舉辦的圓桌會議，核心議題是擴大電池與金屬的本土產能，國務卿魯比奧預計將出席會議。"
-    },
-    {
-      "id": "mkt:019fddaa-1ea2-7aab-8fc0-ff0881a39c09",
-      "time": "2026-08-08 03:19:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath cites sources saying Italy, the UK, Switzerland and Indonesia may join a mechanism to verify Hezbollah's disarmament."
-    },
-    {
-      "id": "mkt:019fdda9-b329-7aab-8fc0-f0062f99a2d8",
-      "time": "2026-08-08 03:18:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "MP",
-        "Impact bullish"
-      ],
-      "text": "US President Trump said the US government has made \"historic\" investments in the US critical minerals supply chain, including taking direct equity stakes in producers. The government's $400 mln investment in MP Materials is now worth nearly $1.2 bln."
-    },
-    {
-      "id": "5031530",
-      "time": "2026-08-08 03:18:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普盛讚 MP 材料公司獲得政府注資。"
-    },
-    {
-      "id": "mkt:019fdda9-3202-7aab-8fc0-ec43f2e27748",
-      "time": "2026-08-08 03:18:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "WSJ reports the Trump administration will provide over $2bn to four battery and critical‑minerals firms. Battery start-up Sila Nanotechnologies has secured a $1.4bn Pentagon loan; Australia’s Sunrise Energy Metals has agreed a $400m Pentagon loan to fund scandium production."
-    },
-    {
-      "id": "5031529",
-      "time": "2026-08-08 03:17:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府擬向電池及材料企業撥付 20 億美元。"
-    },
-    {
-      "id": "mkt:019fdda8-4aef-7aab-8fc0-e7f25ebaf2fc",
-      "time": "2026-08-08 03:17:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump told a mining roundtable the US has achieved energy independence and is now pursuing economic independence, and said the US must mine, refine and manufacture critical minerals domestically."
-    },
-    {
-      "id": "5031528",
-      "time": "2026-08-08 03:16:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞爾維亞境內多瑙河水位已降至近百年來最低】受持續熱浪和乾旱影響，塞爾維亞境內多瑙河水位持續下降。塞爾維亞副總理兼內務部長達契奇7日表示，塞境內多瑙河水位已降至近100年來最低水平，與此同時，塞爾維亞境內還有9起野火在燃燒。達契奇表示，目前塞爾維亞水文和氣象形勢依然嚴峻，低水位已對內河航運以及能源領域等造成影響。相關部門正採取措施，保障水資源的供應和基礎設施的正常執行。雖然目前情況較前幾日有所改善，但預計高溫天氣仍將持續，因此危機尚未結束。針對水資源緊張問題，達契奇呼籲各方採取節水措施。（央視新聞）"
-    },
-    {
-      "id": "5031527",
-      "time": "2026-08-08 03:15:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在奪回美國作為全球礦產超級大國應有的地位。"
-    },
-    {
-      "id": "mkt:019fdda6-d0d0-7aab-8fc0-da589470ffd7",
-      "time": "2026-08-08 03:15:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath cites sources saying no agreement has yet been reached on which countries will take part in verifying a mechanism to disarm Hezbollah."
-    },
-    {
-      "id": "5031526",
-      "time": "2026-08-08 03:14:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：制裁系因伊朗在海峽襲擊船隻所致。"
-    },
-    {
-      "id": "5031525",
-      "time": "2026-08-08 03:14:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥豆粕期貨本週跌約2.2%，大豆油漲超1.2%】週五（8月7日）紐約尾盤，彭博穀物分類指數漲0.50%，報30.9791點，本週累計下跌0.31%，週一紐約中午至週二顯著地衝高回落，後續大致持平。本週，CBOT玉米期貨累跌0.54%，報4.6150美元/蒲式耳，週二亞太盤初曾達到4.7525美元。CBOT小麥期貨累漲0.15%，報6.5650美元/蒲式耳。CBOT大豆期貨累跌0.97%，報11.76美元/蒲式耳，豆粕期貨跌2.18%，豆油期貨漲1.22%。CBOT瘦肉豬期貨累跌3.21%，活牛期貨跌0.81%，飼牛期貨漲0.38%。"
-    },
-    {
-      "id": "5031524",
-      "time": "2026-08-08 03:13:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：與鄰國的關係已“明顯改善”】伊朗總統馬蘇德·佩澤希齊揚在電視採訪中表示，“我們已經解決了與鄰國之間的許多問題，我們的關係已明顯改善。”“以色列和美國正試圖聯合該地區的國家對抗我們，我們正在努力阻止這種情況發生，”佩澤希齊揚表示。“我們現在與鄰國的關係比過去好得多”“我們不想打擊他們，我們只針對那些對我們發動打擊的地點。”“我們將戰鬥，不會退縮，也不會屈服。”佩澤希齊揚還表示，政府與武裝力量之間“絕無分歧。”"
-    },
-    {
-      "id": "5031523",
-      "time": "2026-08-08 03:13:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美國對六家實體及一名個人實施制裁。"
     }
   ]
 }

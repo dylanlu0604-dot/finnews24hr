@@ -1,7 +1,36 @@
 {
   "date": "2026-08-15",
-  "count": 182,
+  "count": 185,
   "items": [
+    {
+      "id": "5041909",
+      "time": "2026-08-15 03:19:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價14日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲1.15美元，收於每桶82.40美元，漲幅為1.42%；10月交貨的倫敦布倫特原油期貨價格上漲1.45美元，收於每桶88.52美元，漲幅為1.67%。（新華社）"
+    },
+    {
+      "id": "mkt:01a001b6-a15a-7aab-9044-cf18b6cfa36d",
+      "time": "2026-08-15 03:19:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fox News reports President Trump said the US will impose severe economic measures on Iran."
+    },
+    {
+      "id": "5041908",
+      "time": "2026-08-15 03:18:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普表示，美國將對伊朗實施嚴厲經濟打擊。"
+    },
     {
       "id": "mkt:01a001ae-b9e3-7aab-9044-c367b8224a47",
       "time": "2026-08-15 03:10:23",
