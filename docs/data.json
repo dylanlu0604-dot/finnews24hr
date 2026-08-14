@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-15 01:24:57",
-  "count": 15341,
+  "updated": "2026-08-15 01:28:56",
+  "count": 15344,
   "items": [
+    {
+      "id": "mkt:01a00150-57de-7aab-9043-c2c5f8b99339",
+      "time": "2026-08-15 01:27:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said the economy is performing incredibly well."
+    },
+    {
+      "id": "mkt:01a0014f-d278-7aab-9043-bf4d22f8a1c6",
+      "time": "2026-08-15 01:26:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump departed Joint Base Andrews and is en route to Garden City, New York."
+    },
+    {
+      "id": "5041868",
+      "time": "2026-08-15 01:26:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統唐納德・特朗普離開安德魯斯聯合基地，啟程前往紐約州加登城。"
+    },
     {
       "id": "mkt:01a0014c-3f7e-7aab-9043-b0136734dc38",
       "time": "2026-08-15 01:22:49",
