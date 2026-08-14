@@ -1,7 +1,88 @@
 {
   "date": "2026-08-14",
-  "count": 2499,
+  "count": 2509,
   "items": [
+    {
+      "id": "5041570",
+      "time": "2026-08-14 20:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交易員徹底放棄今年加息的預期】零售銷售資料不及預期，交易員徹底放棄今年加息的預期。市場目前完全定價加息將在明年1月落地，這與數週前的情形大相徑庭——當時市場愈發預期到2027年3月前會有兩次25個基點的加息。"
+    },
+    {
+      "id": "5041569",
+      "time": "2026-08-14 20:49:21",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【黃金價格企穩 投資者權衡美聯儲決策】黃金從早盤一波獲利回吐行情中企穩，站穩每盎司4300美元上方，投資者結合美國溫和通脹資料權衡美國貨幣政策的後續走向。倫敦午盤，現貨黃金價格基本持平，維持在每盎司4350美元上方。美國通脹資料表現平淡後，金價自週四創下的10周高點出現回落。美國消費者物價指數顯示，7月來自伊朗衝突的能源價格衝擊影響有所消退，緩解了美聯儲實施更為激進貨幣政策的壓力。萬拓市場高階分析師赫柏·陳表示：“金價在一輪強勢上漲後進入休整階段，交易商選擇部分落袋為安。金價衝高至兩個月高點，給投資者提供了兌現收益的契機，尤其是美國CPI、PPI資料走弱後，諸多利好因素已經充分反映在本輪上漲行情當中。”"
+    },
+    {
+      "id": "5041568",
+      "time": "2026-08-14 20:47:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉信理財7月核心新增淨資產達581億美元，較2025年7月增長24%。"
+    },
+    {
+      "id": "5041567",
+      "time": "2026-08-14 20:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "貴州茅臺上半年茅臺酒基酒產量41000噸。"
+    },
+    {
+      "id": "5041566",
+      "time": "2026-08-14 20:46:04",
+      "tags": [
+        "行業",
+        "觀點"
+      ],
+      "text": "【機構：新房成交同比降幅收窄，二手房高位韌性凸顯】據克而瑞研究中心，2026年7月，房地產市場步入傳統季節性淡季，整體呈現“新房淡季回撥、二手房韌性持穩”的執行特徵，重點城市新房供求環比同步走弱，市場熱度較6月半年末衝量明顯回落。與此同時，二手房在置換需求支撐與“以價換量”帶動下保持高位執行、同比延續正增。預計8月新房市場供應、成交大機率延續環比走弱態勢；二手房依託置換需求保持高位，但環比或延續小幅回落。"
+    },
+    {
+      "id": "mkt:01a0004e-c058-7aab-903f-672b659c2998",
+      "time": "2026-08-14 20:45:56",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "Kweichow Moutai said 1H base-liquor output was 41,000 tonnes for Moutai and 31,000 tonnes for its series brands; production cycles are more distinct and the product mix better balanced, with high-quality, stable output maintained."
+    },
+    {
+      "id": "5041565",
+      "time": "2026-08-14 20:44:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "據孟加拉國媒體14日報道，該國東南部吉大港地區一家拆船廠當天發生有毒氣體洩漏，造成9名工人死亡、多人受傷。 事故發生在一艘正在拆解的液化天然氣運輸船內。當地警方和消防部門說，事發後多名工人被送往醫院，事故具體原因仍在調查中。（新華社）"
+    },
+    {
+      "id": "mkt:01a0004c-adf8-7aab-903f-59efcc6dd2b1",
+      "time": "2026-08-14 20:43:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "Kweichow Moutai said in 1H 2026 its iMoutai digital marketing platform generated tax-exclusive liquor revenue of 40.26 billion yuan."
+    },
+    {
+      "id": "5041563",
+      "time": "2026-08-14 20:43:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翔港科技：2026年上半年淨利潤8258.55萬元，同比增長5.45%】翔港科技公告，2026年上半年營業收入5.38億元，同比增長4.48%。歸屬於上市公司股東的淨利潤8258.55萬元，同比增長5.45%；歸屬於上市公司股東的扣除非經常性損益的淨利潤5955.97萬元，同比下降22.01%。"
+    },
     {
       "id": "5041562",
       "time": "2026-08-14 20:43:19",
@@ -166,6 +247,14 @@
         "Importance 1"
       ],
       "text": "TSX Futures Edge Lower on Mideast Tensions — Futures tracking Canadian stocks edged lower on Friday amid heightened uncertainty in the Middle East. The US threatened an indefinite naval blockade of Iran, reviving concerns about disruptions to crude supplies from the region. Oil prices moved higher, fueling inflationary pressures and weighing on financials and other credit-sensitive shares. Meanwhile, gold prices rebounded after earlier losses, lending support to mining stocks. On the earnings front, Bird Construction beat second-quarter profit estimates, prompting at least three brokerages to raise their price targets on the stock. Air Canada’s revenue for September and October is likely to reach records for the two months as more premium travelers avoid the heat and summer crowds in Europe and Japan, according to a senior executive. Canadian Tire beat estimates for both EPS and revenue in the second quarter. Onex said its second quarter showed progress toward several strategic goals."
+    },
+    {
+      "id": "5041553",
+      "time": "2026-08-14 20:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長稱美媒報道完全歪曲事實】針對多家媒體曝出的“由於高強度作戰節奏和長期部署存在生活條件和心理健康問題，美軍‘林肯’號航母上有多人精神崩潰試圖跳海”，美國國防部長赫格塞思當地時間8月13日稱，相關說法“完全歪曲了事實”。但美國民主黨籍聯邦眾議員邁克·萊文在同一天指出，一旦真相不利於自身，赫格塞思就做不到據實以告。邁克·萊文還表示，他當然“不指望航母能有假日酒店的標準，但至少應具備基本條件”。他說，作為眾議院撥款委員會的成員，他完全不理解為何擁有上萬億美元軍費的美軍無法滿足艦上士兵的基本生活需求。（CCTV國際時訊）"
     },
     {
       "id": "5041551",
