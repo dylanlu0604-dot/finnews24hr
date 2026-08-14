@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-15 02:21:07",
-  "count": 15336,
+  "updated": "2026-08-15 02:24:59",
+  "count": 15334,
   "items": [
+    {
+      "id": "5041891",
+      "time": "2026-08-15 02:22:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列第 13 頻道訊息：據悉以色列原本計劃在敘利亞發動新一輪打擊，但遭到特朗普介入阻止。"
+    },
     {
       "id": "te:markets:575531",
       "time": "2026-08-15 02:20:02",
@@ -140290,32 +140298,6 @@
         "其他"
       ],
       "text": "Anthropic：自 8 月 14 日起，Claude Code 將預設啟用自動模式。"
-    },
-    {
-      "id": "mkt:019fdd78-a315-7aab-8fc0-1fa10c078f1f",
-      "time": "2026-08-08 02:24:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Senate confirms Brett Matsumoto as Bureau of Labor Statistics director】The Senate on Friday confirmed career economist Brett Matsumoto as director of the Bureau of Labor Statistics by a 51-47 vote. Matsumoto, nominated by President Trump to replace Erica McEntarfer after her dismissal last August amid weak jobs data, joined the BLS in 2015 and has served at the White House Council of Economic Advisers. Longtime deputy William Viatroski is currently acting director. At his June confirmation hearing Matsumoto pledged to uphold the BLS's integrity and independence; the appointment could help ease concerns about the agency's credibility."
-    },
-    {
-      "id": "5031486",
-      "time": "2026-08-08 02:24:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：自烏干達或南蘇丹返回美國的美國公民及國民，若抵達美國 21 天內，必須經由指定機場入境，接受強化篩查。"
-    },
-    {
-      "id": "mkt:019fdd75-37f4-7aab-8fc0-14cd1c8d6ee1",
-      "time": "2026-08-08 02:21:14",
-      "tags": [
-        "MKT News",
-        "AVAV.O",
-        "Impact bullish"
-      ],
-      "text": "AeroVironment is expected to win a $400m U.S. Army contract to supply a counter-UAS system."
     }
   ]
 }
