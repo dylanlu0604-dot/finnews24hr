@@ -1,7 +1,115 @@
 {
   "date": "2026-08-14",
-  "count": 660,
+  "count": 672,
   "items": [
+    {
+      "id": "5040273",
+      "time": "2026-08-14 09:12:10",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【光大期貨：通脹預期下行，黃金不漲反跌】隔夜黃金震盪走弱，倫敦現貨黃金下跌1.34%，SHFE黃金下跌1.24%。美PPI資料公佈，能源價格下跌成為PPI降溫的主要推動力，通脹壓力下行，美股出現走高，風險情緒升溫，進一步打壓金價。短線黃金震盪，重點關注今晚美銷售零售資料、美伊局勢進展。美9月甚至年內加息機率接連下降，但金價走勢不漲反跌，一是有利多落地獲利了結的可能，二是或與日央行加息預期引起的市場流動性恐慌有一定關係。金價走勢在關鍵位置受阻，分歧有所加大，不過整體來看，美聯儲9月加息預期下降下或整體仍維持高位震盪走勢。"
+    },
+    {
+      "id": "mkt:019ffdd3-616c-7aab-9031-66d2d32e19d5",
+      "time": "2026-08-14 09:11:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Latvian armed forces posted an air threat alert on social media."
+    },
+    {
+      "id": "mkt:019ffdd3-09c5-7aab-9031-5ea461a23241",
+      "time": "2026-08-14 09:11:33",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Yemen fighting intensifies; Saudi shifts to more proactive security posture】Escalating attacks have prompted Saudi Arabia to adopt a more proactive security posture in Yemen and the wider region, driven by the prospect that Houthi forces could eventually block the Bab el-Mandeb strait and threaten the Red Sea shipping lane that is an alternative to the Strait of Hormuz. Riyadh is especially sensitive after recent tensions around Hormuz, since a closure of Bab el-Mandeb would put Red Sea routes — previously a viable complement to Saudi east–west pipelines bypassing Hormuz — at direct risk. Last month Saudi Arabia announced an international coalition to protect Red Sea shipping with 13 participating countries, while deepening defence agreements with Pakistan and Turkey and increasing coordination with the United States. Saudi defence officials recently met the US vice president, and media reports say the crown prince has US backing for potential military action against the Houthis. On the ground, Riyadh has shifted tactics — intervening late last year against the UAE-backed Southern Transitional Council to help consolidate anti-Houthi forces around the Yemeni government — and analysts say Saudi policy now appears aimed at driving the Houthis off the coastline rather than attempting to retake Sanaa."
+    },
+    {
+      "id": "5040271",
+      "time": "2026-08-14 09:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞國家武裝部隊在X平臺上表示，拉脫維亞釋出空中威脅警報。"
+    },
+    {
+      "id": "mkt:019ffdd2-a025-7aab-9031-5464f09a6c77",
+      "time": "2026-08-14 09:11:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai gold main contract fell 2.00% intraday to 940.10 yuan/gram."
+    },
+    {
+      "id": "5040270",
+      "time": "2026-08-14 09:11:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元上漲0.3%至32.070。"
+    },
+    {
+      "id": "5040269",
+      "time": "2026-08-14 09:11:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內跌0.95%。"
+    },
+    {
+      "id": "mkt:019ffdd2-07d7-7aab-9031-4a9025d6d7d1",
+      "time": "2026-08-14 09:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SMIC co-CEO Zhao Haijun: customer pull-ins offset part of end-market downturn】On Aug. 14 at the Q2 results meeting, SMIC co-CEO Zhao Haijun said wafer revenue by end-market in Q2 was smartphones 17%, PCs & tablets 16%, consumer electronics 44%, connectivity & wearables 7%, and industrial & automotive 17%, with absolute revenue levels rising sequentially. The company shifted capacity to tight-demand areas, producing roughly 40% QoQ growth in AI-related, PC & tablet, and industrial & automotive revenue. Elsewhere, customer pull-ins partly offset end-market weakness, delivering QoQ absolute revenue gains of 8% for smartphones, 16% for consumer electronics and 13% for connectivity & wearables."
+    },
+    {
+      "id": "5040268",
+      "time": "2026-08-14 09:10:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股停牌提示：4股今日停牌】Wind資料顯示，8月14日，鴻特科技、瓦軸B、愛麗家居等4只個股停牌。"
+    },
+    {
+      "id": "mkt:019ffdd1-cba4-7aab-9031-417f4ab7acb9",
+      "time": "2026-08-14 09:10:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Front-month coking coal futures rose more than 2.0% intraday to 1,347 yuan/ton."
+    },
+    {
+      "id": "5040267",
+      "time": "2026-08-14 09:08:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：客戶提前拉貨抵消了部分終端下行影響】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季晶圓收入以應用來看，智慧手機、電腦與平板、消費電子、互聯與可穿戴、工業與汽車收入佔比分別為17%、16%、44%、7%、17%，絕對值環比均有所提升。公司將產能更多調配給需求緊缺的領域，使得人工智慧配套、電腦與平板、工業與汽車收入絕對值環比增長在四成左右。其他應用，雖然終端整體下行，但客戶的提前拉貨抵消了部分影響，使得手機、消費、互聯與可穿戴收入絕對值實現了8%、16%和13%的成長。"
+    },
     {
       "id": "mkt:019ffdd0-2fa3-7aab-9031-3cc1023b4ea6",
       "time": "2026-08-14 09:08:27",
@@ -66,6 +174,14 @@
         "Impact bullish"
       ],
       "text": "SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers."
+    },
+    {
+      "id": "5040263",
+      "time": "2026-08-14 09:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【小馬智行與Uber擴大合作，計劃在歐洲5城部署超2000輛Robotaxi】8月14日，小馬智行與全球出行平臺Uber宣佈，雙方進一步擴大戰略合作，將在歐洲5個城市部署超過2000輛小馬智行Robotaxi。"
     },
     {
       "id": "5040262",
