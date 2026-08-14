@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-14 14:21:51",
-  "count": 15488,
+  "updated": "2026-08-14 14:25:45",
+  "count": 15479,
   "items": [
+    {
+      "id": "mkt:019ffef2-48b9-7aab-9037-1920bde3e324",
+      "time": "2026-08-14 14:25:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Global funds accelerate into China; China equity funds net $50.82bn in past month】As of Aug. 5, global capital accelerated into Chinese equities: China equity funds recorded $50.82bn net inflows in the past month, roughly 60% of total emerging-market inflows, while overseas-listed China ETFs also expanded. Several foreign asset managers point to corporate earnings recovery and industrial upgrading as drivers for a sustained valuation rerating and identify semiconductors, internet, power and healthcare as preferred overweight sectors."
+    },
+    {
+      "id": "5040669",
+      "time": "2026-08-14 14:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球資金加速湧入 中國股票基金近一個月吸金逾500億美元】近期，國際資金正加速佈局中國權益資產。最新資金流向資料顯示，截至8月5日的近一個月，中國股票基金淨流入508.2億美元，佔新興市場總額近六成；海外上市的中國ETF規模同步擴張。近期，多家外資機構也密集發聲，認為中國企業盈利修復與產業升級將驅動估值重估行情延續，半導體、網際網路、電力及醫療等板塊被其視為核心配置方向。(上海證券報)"
+    },
+    {
+      "id": "5040668",
+      "time": "2026-08-14 14:23:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國信證券：資金再平衡驅動板塊反彈 黃金珠寶迎來預期雙重修復】國信證券釋出研報稱，維持板塊“優於大市”評級。短期外圍宏觀環境的複雜化並未改變內需的韌性，同時具備全球化佈局視野、深度擁抱AI技術實現全鏈路升級，以及憑藉強產品力精準契合消費者需求的龍頭公司，正加速兌現長期配置價值。大眾珠寶品牌Q2實際動銷不差，股價回撥系外部金價因素擾動，目前多數迴歸歷史估值下限，股息率也相對較高，未來金價企穩則股價反彈可期。跨境電商關稅中報景氣度比較優勢明顯，同時核心公司自身經營調整為企業帶來盈利端增量。"
+    },
+    {
+      "id": "5040667",
+      "time": "2026-08-14 14:23:17",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "A股三大股指持續回升，滬指午後再度翻紅，創業板指漲逾1%。"
+    },
+    {
+      "id": "mkt:019ffef0-4dcd-7aab-9037-1742b048f20d",
+      "time": "2026-08-14 14:23:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share benchmark indices extended gains; Shanghai Composite turned positive in the afternoon, while the ChiNext index climbed more than 1%."
+    },
+    {
+      "id": "5040666",
+      "time": "2026-08-14 14:22:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【浙江：對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 打造科技創新和產業協同發展高地。加快構建以杭州為核心，寧波新型材料研發製造、溫州臨床應用示範、嘉興關鍵零部件製造、紹興晶片先進製造及封裝測試為支撐的“一核四基地”腦機介面產業佈局。 加大企業培育力度。梯次培育初創型、成長型、領軍型腦機介面企業，給予產品研發、人才引進、金融供給等方面組合支援。鼓勵有條件的地方實施企業研發投入獎補政策，對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助。 支援產業化落地。支援腦機介面產業化專案申報中央預算內投資專案、超長期特別國債專案等。鼓勵腦機介面創新專案申報新興產業強鏈補鏈、未來產業先導區攻堅任務、首臺（套）產品等專案，並按規定給予支援。"
+    },
     {
       "id": "te:markets:575299",
       "time": "2026-08-14 14:21:18",
@@ -23,6 +79,15 @@
         "國際"
       ],
       "text": "【高盛：印度不太可能因人工智慧出現大規模失業】高盛集團首席印度經濟學家桑塔努・森古普塔週五表示，印度勞動力不太可能因人工智慧出現大規模失業，但服務業部分崗位或將受到影響。森古普塔在接受採訪時稱，相較於許多其他國家，人工智慧對印度的影響將較為有限。他表示：“主要原因在於印度勞動力規模龐大，大量勞動者從事機械性或體力類工作。”他稱，建築業和零售業吸納了印度約 40% 的勞動力，“目前基本不會受到人工智慧衝擊，受影響的主要是服務業。” 高盛估算，若有序推進人工智慧落地應用，衝擊有望得到緩解，同時未來十年整體生產力或將提升 0.4 個百分點。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608143841641492",
+      "time": "2026-08-14 14:20:40",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行加息或提速！美元對日元急跌 市場擔心潛在流動性衝擊】在“近期有必要加息”上，日本政府與央行形成了共識，下一次加息視窗指向9月18日或10月29~30日的央行會議。市場人士認為，日本政府的表態意味著，他們也已意識到單靠外匯干預無法持久支撐日元，日本央行加息步調才是日元能否企穩的關鍵。"
     },
     {
       "id": "mkt:019ffeed-b7dc-7aab-9037-0837796c27da",
@@ -141647,157 +141712,6 @@
         "市場"
       ],
       "text": "【威剛：儲存價格上漲趨勢延續至明年上半年，明年DRAM供應更缺】據報道，威剛近日在法說會上表示，在需求增加、價格走高及貨源穩定的三大有利因素帶動下，預期第3季度營運將優於第2季度，並進一步擴大全年營運成果。公司看好第4季度到2027年上半年的DRAM和NAND Flash價格有望維持上升趨勢。目前儲存市場供給持續緊張，預計2027年DRAM供給將較2026年更吃緊。隨著PC和伺服器平臺持續升級，DDR5已成為市場主流，長期而言，DDR5將比DDR4更緊缺。"
-    },
-    {
-      "id": "5030188",
-      "time": "2026-08-07 14:25:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【CBO預警特朗普黃金艦隊造價或達2750億美元，且美國造船廠產能不足】美國國會預算辦公室（CBO）於當地時間5日釋出報告稱，美國海軍計劃建造的15艘核動力“特朗普級”（Trump-class）戰列艦，從研發到採購的總費用可能高達2750億美元，為美國有史以來最昂貴的水面戰艦專案之一。 根據CBO的初步估算，首艦造價約234億美元，後續14艘平均每艘約180億美元。報告稱，這些戰艦滿載排水量約3.5萬噸，長度約840至880英尺，將成為二戰以來美國海軍建造的最大水面戰鬥艦。 （第一財經）"
-    },
-    {
-      "id": "mkt:019fdae6-009c-7aab-8fb1-60ccd71e8f6d",
-      "time": "2026-08-07 14:25:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed down 10.10 points (-0.11%) at 9,261.50 on Friday, Aug 7."
-    },
-    {
-      "id": "te:economy:573656",
-      "time": "2026-08-07 14:25:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Finland Trade Surplus Hits Record High — Finland's trade surplus widened to EUR 1.89 billion in June 2026 from EUR 0.88 billion in the corresponding month of 2025, according to preliminary estimates. This marked the largest trade surplus ever recorded, as exports rose faster than imports. Exports rose 39.6% year-on-year to EUR 9.0 billion, supported by higher shipments to both EU countries (12.8%) and non-EU countries (10.5%). Among Finland's major trading partners, exports surged to the US (338.2%) and also increased to China (54.1%), Sweden (20.7%), and Germany (12.0%). Meanwhile, imports climbed 17.6% to EUR 7.15 billion. It should be noted that imports from EU countries are now compiled using a new methodology starting January 2026, so only total values are comparable with those of 2025. For the January–June period, Finland posted a trade deficit of EUR 1.10 billion, widening from a EUR 0.65 billion deficit in the same period of 2025."
-    },
-    {
-      "id": "5030187",
-      "time": "2026-08-07 14:24:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車：2026年截至目前已向82家客戶完成418架飛機交付。"
-    },
-    {
-      "id": "mkt:019fdae4-fc99-7aab-8fb1-5844bd2e171f",
-      "time": "2026-08-07 14:24:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Wang Xingxing: listing a new start; to develop humanoids, quadrupeds and powered exoskeletons】Yushu Technology Co., Ltd. chairman, general manager and CTO Wang Xingxing said in an online roadshow that the company’s listing on the capital markets marks a new starting point. Management said it will prioritize commercialization of general embodied-intelligence robots and continue R&D on key software and hardware: embodied large models, scene data collection and analysis, reinforcement learning, embodied body models, in-house core components and high-performance actuators. The company will actively develop product lines including humanoid robots, quadrupeds and powered exoskeletons aimed at taking on high‑intensity, high‑risk physical work."
-    },
-    {
-      "id": "5030186",
-      "time": "2026-08-07 14:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴姆勒卡車首席財務官預計第三季度北美卡車業務的利潤率將處於11%至13%之間。"
-    },
-    {
-      "id": "5030185",
-      "time": "2026-08-07 14:24:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "海灣合作委員會秘書長：我們譴責胡塞武裝對納季蘭地區的恐怖襲擊。"
-    },
-    {
-      "id": "5030184",
-      "time": "2026-08-07 14:23:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【黃金有望創1月以來最佳單週表現 非農資料成為關鍵焦點】黃金價格有望錄得自今年1月以來最大單週漲幅。油價走弱為金價提供支撐，同時投資者正等待美國非農就業資料，以尋找美國利率前景的線索。StoneX高階分析師馬特·辛普森表示，中東和平前景改善令市場通脹預期下降，推動黃金價格從此前持續數週、位於4000美元上方的盤整區間中進一步上漲。美國勞工部將於今晚公佈非農就業報告。辛普森補充道：“無論非農就業資料如何，4000美元已被證明是一個穩固的支撐位——我懷疑多頭正在等待回撥，以便抓住機會，推動金價反彈至4600美元。非農就業資料短期內可能會帶來一些波動，但價格走勢已經表明了方向，黃金似乎想要上漲。”"
-    },
-    {
-      "id": "5030183",
-      "time": "2026-08-07 14:23:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王興興：登陸資本市場是全新的起點，積極探索人形機器人、機甲等更多產品形態】8月7日，宇樹科技股份有限公司（688836，宇樹科技）董事長、總經理兼技術長王興興在網上路演時表示，本次登陸資本市場，是宇樹科技全新的起點。“未來我們將恪守初心，踏實打磨關鍵技術，持續深耕通用具身智慧機器人核心技術研發與產業落地，讓智慧機器人更早、更好地為全社會服務。”\n\n王興興表示，宇樹科技最近幾年經營業績穩步增長，2025年在扣非後淨利潤迅速增長的同時，實現了人形機器人出貨量全球第一。“公司深知，當前成績只是起點，當下具身智慧行業整體仍處在發展早期，類似於早年家用電腦的起步階段，裝置適配陌生環境的泛化能力仍需要全行業從業者攜手共同提升。”\n\n王興興提到，宇樹科技將持續攻堅具身大模型、場景資料採集與分析、強化學習、具身本體模型、核心零部件自研與高效能執行機構等軟、硬體關鍵技術，並將積極探索人形機器人、四足機器人、機甲等更多的產品形態和型號，推動機器人承接高強度、高風險體力勞動，釋放人類的創造力，推進機器人技術造福社會。（澎湃）"
-    },
-    {
-      "id": "mkt:019fdae4-0c20-7aab-8fb1-52dca5d7b16d",
-      "time": "2026-08-07 14:23:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK"
-      ],
-      "text": "【Zhu Hexin meets Mingxun Bank chair Stephanie Eckermann, Deutsche Börse executive】Aug 5, 2026 — Zhu Hexin, PBOC deputy governor and director of the State Administration of Foreign Exchange (SAFE), met with visiting Mingxun Bank chair and Deutsche Börse Group executive board member Stephanie Eckermann. They exchanged views on the global economic and financial outlook and on deepening exchanges and cooperation."
-    },
-    {
-      "id": "5030182",
-      "time": "2026-08-07 14:23:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺塑股份公佈，7月營收同比增長4.77%，達新臺幣152.9億元。"
-    },
-    {
-      "id": "te:markets:573655",
-      "time": "2026-08-07 14:22:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Lower Open — European equity markets were set to open lower on Friday as persistent concerns over massive artificial intelligence spending and uncertainty surrounding the reopening of the Strait of Hormuz weighed on global sentiment. Oil prices rose for a second straight session following renewed hostilities in the waterway, while the proposed Iran-Oman agreement governing Hormuz appeared more restrictive than markets had anticipated. In Europe, investors will assess trade data from Germany and France, France’s unemployment rate, and UK house price figures. On the corporate front, earnings are due from Allianz, Munich RE, Diageo, Daimler Truck and Aurubis, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.1%."
-    },
-    {
-      "id": "te:economy:573654",
-      "time": "2026-08-07 14:22:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "Danish Manufacturing Output Growth at 3-Month High — Denmark’s manufacturing production jumped 6.4% month-on-month in June 2026, rebounding from an upwardly revised 3.5% fall in the previous month. This marked the highest reading in three months, as output recovered most industries, particularly food, beverages, and tobacco (3.1% vs -1.2% in May), textiles, clothing, and leather (11.7% vs -12.3%), pharmaceutical products (7.3% vs -7.8%), metal and metal products (12.8% vs -8.4%), electronics (25.9% vs -1.7%), electrical equipment (3.4% vs -0.9%), machinery (13.1% vs -7.6%), and transport (26.7% vs -23.7%). On the other hand, production growth slowed in wood, paper, and printing (0.3% vs 1.5%), while activity declined in rubber, plastic, and glass (-1.6% vs 0.0%) and mineral oil and chemicals (-4.4% vs 4.0%). On a seasonally adjusted annual basis, manufacturing activity rose by 9.7% in June, following a downwardly revised 4.7% increase in the preceding period."
-    },
-    {
-      "id": "5030181",
-      "time": "2026-08-07 14:22:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀘溪河食品此前抽檢均合格】據媒體報道，近日，瀘溪河牙冠事件迎來反轉，涉事消費者日前已公開致歉，相關話題引發熱議。天眼查App顯示，瀘溪河食品（集團）有限公司成立於2020年1月，法定代表人為黃進，註冊資本約2.4億人民幣。對外投資資訊顯示，該公司近期成立瀘溪河（上海）商貿有限公司。經營資訊顯示，該公司此前抽檢均合格。"
-    },
-    {
-      "id": "te:economy:573652",
-      "time": "2026-08-07 14:22:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "German Export Growth Exceeds Forecasts — Germany's exports rose 0.9% month-on-month to €139.3 billion in June 2026, easing from an upwardly revised 1.1% increase in the previous month but beating market expectations of a 0.2% gain. Shipments to EU member states climbed 1.3% to €79.3 billion, driven by a 1.2% rise in exports to the euro area (€55.3 billion) and a 1.8% increase to non-euro area countries (€24.1 billion). Elsewhere, exports to third countries edged up 0.3% to €60.0 billion, as stronger demand from the UK (7.7%) helped offset weaker shipments to the US (-14.2%) and China (-0.3%). In the first half of 2026, German exports increased 3.7% from the corresponding period a year earlier, totaling €816.6 billion."
-    },
-    {
-      "id": "5030180",
-      "time": "2026-08-07 14:21:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朱鶴新局長會見明訊銀行董事長、德意志交易所集團執行委員會成員斯蒂芬妮•埃克兒曼】2026年8月5日，中國人民銀行副行長、國家外匯管理局局長朱鶴新會見來訪的明訊銀行董事長、德意志交易所集團執行委員會成員斯蒂芬妮·埃克兒曼（Stephanie Eckermann）。雙方就全球經濟金融形勢、深化交流合作等議題進行了交流。"
     }
   ]
 }
