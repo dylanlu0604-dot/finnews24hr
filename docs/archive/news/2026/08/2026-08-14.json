@@ -1,7 +1,69 @@
 {
   "date": "2026-08-14",
-  "count": 2265,
+  "count": 2272,
   "items": [
+    {
+      "id": "5041408",
+      "time": "2026-08-14 19:33:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝科奈米：定增申請獲上交所受理】勝科奈米公告，公司於2026年8月14日收到上海證券交易所出具的受理通知，上交所認為公司報送的科創板上市公司發行證券申請檔案齊備，決定予以受理並依法稽核。公司本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "mkt:01a0000b-ef59-7aab-903d-1e75559c64b3",
+      "time": "2026-08-14 19:32:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian government says even if all alternative routes are used, agricultural exports can reach at most 30 million tonnes this quarter, and a further 30 million tonnes will be unable to reach global markets."
+    },
+    {
+      "id": "mkt:01a0000b-cc42-7aab-903d-12309aa6f73e",
+      "time": "2026-08-14 19:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian government says no vessels have entered the port of Odesa since early August, forcing Ukraine to use alternative routes."
+    },
+    {
+      "id": "mkt:01a0000b-9cf3-7aab-903d-0a06f7d52a61",
+      "time": "2026-08-14 19:32:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian government says remaining Black Sea ports in the Greater Odesa region are effectively closed by Russian airstrikes; planned agricultural exports could be halved, posing risks to global food supply."
+    },
+    {
+      "id": "5041406",
+      "time": "2026-08-14 19:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀登中心釋出宣告：有不法分子冒用銀登名義開展違法違規活動，謹防上當受騙】近期，我們發現有不法分子（機構）冒用銀登中心（或銀登）名義開展違法違規活動，嚴重侵害銀登中心和廣大市民合法權益。為避免誤導社會公眾，消除不良影響，銀登中心鄭重宣告如下：銀登中心全稱“銀行業信貸資產登記流轉中心有限公司”，是經國家金融監督管理總局批准設立的信貸資產登記流轉平臺，註冊於北京市，唯一官網網址為www.yindeng.com.cn，唯一微信公眾號為“銀登中心”，唯一移動應用程式為“銀登通”APP，該官網、微信公眾號和移動應用程式是銀登中心對外發布資訊的合規渠道。"
+    },
+    {
+      "id": "5041405",
+      "time": "2026-08-14 19:30:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海洋王：股票交易異常波動 不存在應披露未披露事項】海洋王公告稱，公司股票在2026年8月13日、8月14日連續兩個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司未發現前期資訊需更正補充，近期經營正常，內外部環境無重大變化，公司、控股股東及實控人無應披露未披露重大事項，實控人在異常波動期間無買賣公司股票情形。公司提醒投資者注意交易、業績等風險。"
+    },
+    {
+      "id": "5041404",
+      "time": "2026-08-14 19:30:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【和而泰：子公司2162.50萬元認購基金60.98%份額】和而泰公告稱，全資子公司和而泰國際近日出資2500萬港幣（摺合人民幣約2162.50萬元），認購標的基金Dream’ee JuneBeast Fund L類股60.98%的份額，該基金L類股總規模4100萬港幣（摺合人民幣約3546.50萬元）。本次交易不構成關聯交易和重大資產重組，無需審議。投資可拓展公司渠道，目前處於籌備階段，存在不確定性和投資收益不達預期等風險。"
+    },
     {
       "id": "5041403",
       "time": "2026-08-14 19:30:25",
