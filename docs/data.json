@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-15 01:48:29",
-  "count": 15340,
+  "updated": "2026-08-15 01:57:34",
+  "count": 15345,
   "items": [
+    {
+      "id": "mkt:01a00169-e45e-7aab-9044-1d1076cef6c9",
+      "time": "2026-08-15 01:55:11",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Cboe VIX continued to fall, touching an intrday low not seen since Dec. 30 last year."
+    },
+    {
+      "id": "mkt:01a00168-4dcf-7aab-9044-153f041a6bc7",
+      "time": "2026-08-15 01:53:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "An official Indian order says India will cut the diesel export windfall tax to 24 rupees per litre from 25.5 rupees per litre, effective Aug. 15."
+    },
+    {
+      "id": "mkt:01a00168-26ce-7aab-9044-089d494a9555",
+      "time": "2026-08-15 01:53:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India ordered a cut in the export windfall tax on aviation turbine fuel to 19.5 rupees per litre from 22 rupees per litre, effective Aug. 15."
+    },
+    {
+      "id": "5041880",
+      "time": "2026-08-15 01:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度自 8 月 15 日起，將柴油出口暴利稅由每升 25.5 盧比下調至每升 24 盧比。"
+    },
+    {
+      "id": "mkt:01a00167-69d2-7aab-9044-07ead40a558c",
+      "time": "2026-08-15 01:52:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to an Indian government order, India will cut the windfall tax on gasoline exports from 3.5 rupees per litre to zero, effective Aug. 15."
+    },
+    {
+      "id": "5041879",
+      "time": "2026-08-15 01:52:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度自 8 月 15 日起，將航空渦輪燃料出口暴利稅由每升 22 盧比下調至每升 19.5 盧比。"
+    },
+    {
+      "id": "5041878",
+      "time": "2026-08-15 01:51:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度自 8 月 15 日起，將汽油出口暴利稅從每升 3.5 盧比下調至 0。"
+    },
+    {
+      "id": "5041877",
+      "time": "2026-08-15 01:50:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "VIX 指數持續下行，創 12 月 30 日以來盤中最低水平。"
+    },
+    {
+      "id": "mkt:01a00164-91fe-7aab-9043-f9b9b8be6aec",
+      "time": "2026-08-15 01:49:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French Constitutional Council strikes down social-media ban for under-15s】On the 14th the French Constitutional Council ruled Article 1 of a law passed by Parliament last month to protect minors from social-media risks unconstitutional and struck it down. The clause would have barred under-15s from accessing social media."
+    },
     {
       "id": "mkt:01a00162-7885-7aab-9043-f2f333d6b57c",
       "time": "2026-08-15 01:47:05",
@@ -140337,48 +140418,6 @@
         "國際"
       ],
       "text": "SpaceX ：回收團隊仍在印度洋進行第13次飛行任務的星艦回收工作。 回收團隊正克服惡劣環境與愈發洶湧的海面，嘗試將這艘 52 米長的航天器引導至港口。"
-    },
-    {
-      "id": "5031475",
-      "time": "2026-08-08 01:56:41",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【白宮顧問稱特朗普與沃什經常談經濟 總統尊重美聯儲獨立性】白宮國家經濟委員會主任凱文·哈塞特表示，總統唐納德·特朗普與美聯儲主席凱文·沃什經常討論經濟。這位白宮最高經濟顧問週五的表態進一步透露了沃什5月就任美聯儲主席以來與特朗普通話的內容和範圍。哈塞特表示，他並未參與這些通話，但堅稱自己“確信”總統不會就利率決定向這位美聯儲主席施壓。“凱文·沃什和總統長期以來關係非常密切，兩人在紐約和佛羅里達都有來往，他們一直都會討論經濟，”哈塞特接受採訪時表示，“我也會和凱文交流，斯科特·貝森特也會，所以這其實算不上什麼新聞。”哈塞特表示，特朗普“尊重美聯儲的獨立性”。歷任總統和美聯儲主席也曾通話和會面，但並不常見。通常情況下，美聯儲主席與政府之間的主要聯絡人是財政部長，兩人幾乎每週都會共進早餐。美聯儲主席也會定期與國家經濟委員會主任溝通。“事實是，現在美聯儲有一位總統百分之百確信會根據資料作出正確決定、而不會玩黨派政治的人，”哈塞特表示。"
-    },
-    {
-      "id": "mkt:019fdd5e-9386-7aab-8fbf-92330892005b",
-      "time": "2026-08-08 01:56:30",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) recovery team remains in the Indian Ocean conducting recovery operations for Starship's 13th flight."
-    },
-    {
-      "id": "mkt:019fdd59-b567-7aab-8fbf-8abefe08b864",
-      "time": "2026-08-08 01:51:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pacific Energy president says Middle Eastern buyers are considering Canadian LNG as an alternative supply source and a hedge against geopolitical turmoil."
-    },
-    {
-      "id": "mkt:019fdd58-793d-7aab-8fbf-82cf54e73f45",
-      "time": "2026-08-08 01:49:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【BESSENT: Nonfarm payrolls report underestimates US economic potential】BESSENT wrote on social media that the July nonfarm payrolls report understates the underlying strength of the US economy. He noted goods-producing employment rose for a fifth consecutive month in July and that goods-producing industries have added 105,000 jobs year-to-date, the strongest seven-month start since 2023. He said Q2 productivity growth ran at more than twice expectations, creating conditions for sustained growth and real wage gains, and that strong Q3 growth forecasts point to further acceleration. Higher domestic output and rising productivity, he added, will bolster wages, corporate strength and consumer choice and support expansion driven by supply-side capacity that can help lower inflation rather than rely on temporary stimulus."
     }
   ]
 }
