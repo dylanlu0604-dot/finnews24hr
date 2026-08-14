@@ -1,7 +1,58 @@
 {
   "date": "2026-08-14",
-  "count": 562,
+  "count": 567,
   "items": [
+    {
+      "id": "mkt:019ffda2-df7a-7aab-9030-5e3297675673",
+      "time": "2026-08-14 08:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI intraday gain narrowed to 2.00%."
+    },
+    {
+      "id": "5040202",
+      "time": "2026-08-14 08:18:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合股價指數連續第五個交易日上漲 跟隨美國股市漲勢】受美國晶片股上漲的帶動，韓國綜合股價指數（KOSPI）一度上漲2.9%，短暫突破7000點大關。SK海力士股價上漲超過6%，帶動股指走高，三星電子和SK Square也緊隨其後上漲。外國基金在早盤交易中買入KOSPI股票，而本地基金則賣出。該基準指數本週已上漲超過11%。韓國創業板小盤股指數上漲幅度高達2%。"
+    },
+    {
+      "id": "mkt:019ffda1-c108-7aab-9030-51804b6e8105",
+      "time": "2026-08-14 08:17:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "9984.T",
+        "Impact bullish",
+        "6857.T"
+      ],
+      "text": "Japanese chip-related stocks surged; Kioxia rose 6.9%, SoftBank Group gained 6.2% and Advantest rose 6.5%."
+    },
+    {
+      "id": "5040201",
+      "time": "2026-08-14 08:17:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美股無人機概念股Unusual Machines夜盤漲超8%，Ondas漲超2%。美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。"
+    },
+    {
+      "id": "mkt:019ffda1-43e5-7aab-9030-4fdbbec0a401",
+      "time": "2026-08-14 08:17:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Former senior Japanese FX diplomat, ex-IMF deputy says yen intervention could recur; Bank of Japan likely to hike in September】A former senior Japanese foreign-exchange diplomat and ex-IMF deputy managing director said the yen is noticeably weak and rising import costs are damaging the economy. He warned that if the yen returns to levels seen before last month’s coordinated intervention, Japan and the US could jointly intervene in the FX market again at any time, and any action would not be tied to specific levels such as JPY160 or JPY162. He said intervention only buys time; the fundamental remedy is faster Bank of Japan tightening. He expects a BoJ hike in September, a follow-up in December or January, and a terminal policy rate around 1.5–1.75% based on a neutral rate estimate of 1.1–2.5%. Further hikes could follow in the fiscal year starting April 2027 if growth persists."
+    },
     {
       "id": "5040200",
       "time": "2026-08-14 08:14:07",

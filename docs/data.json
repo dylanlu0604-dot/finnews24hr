@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-14 08:16:13",
-  "count": 15459,
+  "updated": "2026-08-14 08:20:10",
+  "count": 15458,
   "items": [
+    {
+      "id": "mkt:019ffda2-df7a-7aab-9030-5e3297675673",
+      "time": "2026-08-14 08:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI intraday gain narrowed to 2.00%."
+    },
+    {
+      "id": "5040202",
+      "time": "2026-08-14 08:18:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合股價指數連續第五個交易日上漲 跟隨美國股市漲勢】受美國晶片股上漲的帶動，韓國綜合股價指數（KOSPI）一度上漲2.9%，短暫突破7000點大關。SK海力士股價上漲超過6%，帶動股指走高，三星電子和SK Square也緊隨其後上漲。外國基金在早盤交易中買入KOSPI股票，而本地基金則賣出。該基準指數本週已上漲超過11%。韓國創業板小盤股指數上漲幅度高達2%。"
+    },
+    {
+      "id": "mkt:019ffda1-c108-7aab-9030-51804b6e8105",
+      "time": "2026-08-14 08:17:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "9984.T",
+        "Impact bullish",
+        "6857.T"
+      ],
+      "text": "Japanese chip-related stocks surged; Kioxia rose 6.9%, SoftBank Group gained 6.2% and Advantest rose 6.5%."
+    },
+    {
+      "id": "5040201",
+      "time": "2026-08-14 08:17:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美股無人機概念股Unusual Machines夜盤漲超8%，Ondas漲超2%。美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。"
+    },
+    {
+      "id": "mkt:019ffda1-43e5-7aab-9030-4fdbbec0a401",
+      "time": "2026-08-14 08:17:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Former senior Japanese FX diplomat, ex-IMF deputy says yen intervention could recur; Bank of Japan likely to hike in September】A former senior Japanese foreign-exchange diplomat and ex-IMF deputy managing director said the yen is noticeably weak and rising import costs are damaging the economy. He warned that if the yen returns to levels seen before last month’s coordinated intervention, Japan and the US could jointly intervene in the FX market again at any time, and any action would not be tied to specific levels such as JPY160 or JPY162. He said intervention only buys time; the fundamental remedy is faster Bank of Japan tightening. He expects a BoJ hike in September, a follow-up in December or January, and a terminal policy rate around 1.5–1.75% based on a neutral rate estimate of 1.1–2.5%. Further hikes could follow in the fiscal year starting April 2027 if growth persists."
+    },
     {
       "id": "5040200",
       "time": "2026-08-14 08:14:07",
@@ -141466,57 +141517,6 @@
         "市場"
       ],
       "text": "【磷化銦景氣度高漲 3只概念股獲機構積極關注】近期，磷化銦價格顯著上漲。上海有色網資料顯示，4英寸磷化銦襯底8月6日均價達到6250元/片，較年初上漲約45%。磷化銦價格上漲還疊加著上游原料銦的同步暴漲，Wind資料顯示，截至8月6日，精銦報價5430元/千克，較年初的2980元/千克上漲超80%。受AI浪潮拉動，光模組對磷化銦襯底的需求急劇擴張，推動磷化銦價格攀升。磷化銦主要用在AIDC高速光模組器件中，近年來光模組速率從800G向1.6T、3.2T趨勢演進，促進磷化銦襯底持續改進，供需缺口進一步擴大。據證券時報·資料寶統計，A股中佈局磷化銦產業鏈的個股共有18只，其中12股已公佈半年度報告或業績預告，按半年報淨利潤、業績預告淨利潤下限計算，9股淨利潤實現同比增長，其中博傑股份、株冶集團、興業銀錫、雲南鍺業增幅超過100%，其他還有歐萊新材扭虧為盈。從機構關注度來看，9股獲3家及以上機構評級，佔比為總數的一半，中國鋁業、興業銀錫、華錫有色3股獲機構積極關注，評級機構家數分別為10家、7家、7家。"
-    },
-    {
-      "id": "5029730",
-      "time": "2026-08-07 08:19:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "日股日經指數抹去漲幅，跌幅擴大至0.75%。"
-    },
-    {
-      "id": "5029729",
-      "time": "2026-08-07 08:18:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天賜材料：用於資料中心的氟化液產品仍處於實驗室小試階段】天賜材料(002709)8月7日在互動平臺表示，公司用於資料中心的氟化液產品，目前仍處於實驗室小試階段。從下游電芯廠客戶的反饋看，鋰電池行業仍處於穩定發展階段，目前公司電解液產品訂單飽滿，市場份額穩定，但公司股價波動受宏觀經濟、行業週期、市場情緒等多重因素影響，請注意投資風險。"
-    },
-    {
-      "id": "5029728",
-      "time": "2026-08-07 08:18:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【我海軍83艦編隊結束對印度尼西亞友好訪問】6日上午，中國海軍83艦編隊駛離印度尼西亞泗水丹戎佩拉港，圓滿結束為期4天的友好訪問，繼續執行遠海綜合實習訪問任務。 中國駐泗水總領館工作人員，當地華人華僑、中資機構及留學生代表，以及印尼海軍官兵代表到碼頭送行。編隊實習學員在甲板分割槽列隊，向歡送人群致意。 在印尼訪問期間，編隊指揮員拜會了印尼軍政領導，出訪學員和官兵赴印尼海軍學院參加友誼運動會，與印尼海軍學員共同開展文化沙龍。雙方還組織了艦艇互訪、座談交流等活動。編隊靠泊丹戎佩拉港期間，當地民眾、華人華僑、印尼軍方代表登上戚繼光艦和崑崙山艦參觀，近距離了解中國海軍艦艇和航海文化。一系列交流活動搭建起互學互鑑平臺，推動中印尼兩軍關係繼續走深走實，進一步鞏固兩國傳統友誼。 應印尼海軍邀請，編隊駛離丹戎佩拉港後，與印尼海軍開展了海上聯合訓練。"
-    },
-    {
-      "id": "5029727",
-      "time": "2026-08-07 08:17:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價下跌6.3%。"
-    },
-    {
-      "id": "5029726",
-      "time": "2026-08-07 08:17:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日元回吐美日聯合干預帶來的近半數漲幅】日元臨近本週末，已經回吐干預行動催生的近半數漲幅，交易員紛紛猜測當局或將再度入市。週五早盤日元兌美元交投於 158.45 附近，較週一觸及的高點 155.23 明顯回落。在上週，日元一度逼近 1 美元兌 164 日元的四十年低位，隨後美日自 1998 年以來首次實施聯合買入日元操作。此番回落凸顯出干預手段難以扭轉日元長期跌勢。日美之間巨大的利差、日本高額債務負擔以及地緣政治不確定性持續壓制日元匯率。與此同時，受油價上行推動，美元週四錄得兩週以來最大單日漲幅，反映出市場對中東局勢緩和的樂觀情緒正在消退。美日官員已向投資者發出警示，必要時將堅決捍衛日元匯率。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608073834492821",
-      "time": "2026-08-07 08:16:54",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【上半年規模以上工業中小企業增加值同比增長5.8%】據工業和資訊化部訊息，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。今年上半年，規模以上工業中小企業增加值同比增長5.8%，營業收入同比增長7.7%，為2023年以來同期最高水平，利潤總額同比增長16.9%，為2022年以來同期最高水平，生產經營穩步向好，盈利能力持續增強。"
     }
   ]
 }
