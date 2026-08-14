@@ -1,7 +1,289 @@
 {
   "date": "2026-08-14",
-  "count": 2434,
+  "count": 2464,
   "items": [
+    {
+      "id": "mkt:01a00044-7208-7aab-903e-deb6b53e0cae",
+      "time": "2026-08-14 20:34:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (Jun) | actual 1.61% | previous 1.61%"
+    },
+    {
+      "id": "mkt:01a00044-66ef-7aab-903e-d2661f3f3e88",
+      "time": "2026-08-14 20:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada wholesale inventories YoY, June +0.6%; prior +5.6%."
+    },
+    {
+      "id": "te:economy:575475",
+      "time": "2026-08-14 20:34:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Retail Sales MoM",
+        "Importance 3"
+      ],
+      "text": "US Retail Sales Unexpectedly Fall — Retail sales in the US fell 0.6% mom in July 2026, missing expectations of a 0.1% gain and following a 0.2% rise in June. It marked the first decline since October 2025, due to falling sales at nonstore retailers, motor vehicle & parts dealer, and gasoline stations. The data is not adjusted for inflation. Meanwhile, sales excluding food services, auto dealers, building materials stores and gasoline stations, which are used to calculate GDP, were down 0.4%."
+    },
+    {
+      "id": "mkt:01a00044-4ccc-7aab-903e-c907bbd9cd7b",
+      "time": "2026-08-14 20:34:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (YoY) (Jun) | actual 0.6% | previous 5.6%"
+    },
+    {
+      "id": "mkt:01a00044-4182-7aab-903e-c748e9a03190",
+      "time": "2026-08-14 20:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June manufacturing unfilled orders MoM +1.2% (prior +6.7%)."
+    },
+    {
+      "id": "mkt:01a00044-2775-7aab-903e-bcdd75477a23",
+      "time": "2026-08-14 20:34:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Unfilled Orders (MoM) (Jun) | actual 1.2% | previous 6.7%"
+    },
+    {
+      "id": "mkt:01a00043-fa25-7aab-903e-b000304aa7d9",
+      "time": "2026-08-14 20:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June manufacturing new orders MoM -6.8%, prior +9.5%."
+    },
+    {
+      "id": "mkt:01a00043-d919-7aab-903e-ac2471bca428",
+      "time": "2026-08-14 20:34:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing New Orders (MoM) (Jun) | actual -6.8% | previous 9.5%"
+    },
+    {
+      "id": "5041543",
+      "time": "2026-08-14 20:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國零售資料公佈後，彭博美元指數跌幅擴大。"
+    },
+    {
+      "id": "5041542",
+      "time": "2026-08-14 20:32:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員減少了對美聯儲在2027年中期之前加息不止一次的押注。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608143841969479",
+      "time": "2026-08-14 20:32:49",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國零售銷售月率意外負增長】美國7月零售銷售月率錄得-0.6%，為去年5月以來最大降幅，低於市場預期的+0.1%。"
+    },
+    {
+      "id": "5041541",
+      "time": "2026-08-14 20:32:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率進一步下行，最新下跌4個基點，報4.099%。"
+    },
+    {
+      "id": "5041540",
+      "time": "2026-08-14 20:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生益科技：2026年上半年營收190.26億元 同比增長50.05%】生益科技公告稱，2026年上半年，公司營收190.26億元，同比增長50.05%；利潤總額42.21億元，同比增長129.33%；歸屬於上市公司股東的淨利潤32.87億元，同比增長130.42%。截至報告期末，公司總資產423.98億元，較上年度末增長29.38%；歸屬於上市公司股東的淨資產185.02億元，較上年度末增長10.63%。"
+    },
+    {
+      "id": "5041539",
+      "time": "2026-08-14 20:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【浙江啟動防汛Ⅳ級應急響應】浙江應急管理官微訊息，受連續強降雨影響，東苕溪、杭嘉湖平原河網等流域主要江河代表站水位普遍超警戒，部分超保證。據氣象預報，8月14-15日浙江省仍有大範圍降雨，浙北和沿海地區部分50~70毫米，區域性90~150毫米，水文預報苕溪、杭嘉湖平原河網水位將繼續上漲。根據《浙江省防汛防颱抗旱應急預案》，經研判會商，省防指決定於8月14日20時啟動防汛Ⅳ級應急響應。"
+    },
+    {
+      "id": "5041538",
+      "time": "2026-08-14 20:32:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "零售銷售資料公佈後，標普500指數期貨升至盤中高點。"
+    },
+    {
+      "id": "5041537",
+      "time": "2026-08-14 20:32:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國零售銷售資料公佈後，美國國債收益率延續跌勢；10年期國債收益率最新報4.629%，跌幅擴大。"
+    },
+    {
+      "id": "5041536",
+      "time": "2026-08-14 20:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數跌0.15%，報99.62點。"
+    },
+    {
+      "id": "mkt:01a00041-8e04-7aab-903e-a15dfcc90817",
+      "time": "2026-08-14 20:31:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "The US dollar index fell to a one-week low of 99.506."
+    },
+    {
+      "id": "mkt:01a00041-7510-7aab-903e-9c1d59c39b6d",
+      "time": "2026-08-14 20:31:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. will impose unprecedented economic isolation on Iran."
+    },
+    {
+      "id": "5041535",
+      "time": "2026-08-14 20:31:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "7月零售銷售意外下滑後，美國國債價格上漲。"
+    },
+    {
+      "id": "mkt:01a00041-696c-7aab-903e-979b9f2b4124",
+      "time": "2026-08-14 20:31:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US core retail sales for July $622.18 bln, prior $625.02 bln."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608143841971346",
+      "time": "2026-08-14 20:31:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月扣除汽車的零售銷售較前月減少0.3% 市場預估為增加0.2%】美國7月扣除汽車的零售銷售較前月減少0.3%，市場預估為增加0.2%。"
+    },
+    {
+      "id": "5041534",
+      "time": "2026-08-14 20:31:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊上漲0.43%，報1.3546美元。"
+    },
+    {
+      "id": "mkt:01a00041-4283-7aab-903e-8e421bfe8b01",
+      "time": "2026-08-14 20:31:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core Retail Sales (Jul) | actual 622176000000B | previous 625024000000B"
+    },
+    {
+      "id": "5041533",
+      "time": "2026-08-14 20:31:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國零售銷售資料公佈後，美元延續跌勢，美元兌日元最新下跌0.48%，報158.72。"
+    },
+    {
+      "id": "mkt:01a00041-3571-7aab-903e-804aa3c8c99e",
+      "time": "2026-08-14 20:31:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US July retail sales $763.60 bln, down from $768.55 bln previously."
+    },
+    {
+      "id": "5041532",
+      "time": "2026-08-14 20:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元上漲0.43%，報1.1578美元。"
+    },
+    {
+      "id": "mkt:01a00041-0cfc-7aab-903e-7a8257556eea",
+      "time": "2026-08-14 20:30:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (Jul) | actual 763602000000B | previous 768553000000B"
+    },
+    {
+      "id": "5041531",
+      "time": "2026-08-14 20:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：外匯互換工具適用於 8 月 31 日之前的存款。"
+    },
+    {
+      "id": "em:jjsj_jndsj:202608143841971149",
+      "time": "2026-08-14 20:30:42",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大6月批發銷售環比增長2.8% 預期2.7%】加拿大6月批發銷售環比增長2.8%，預期2.7%，前值0.00%。"
+    },
     {
       "id": "mkt:01a00040-b9cb-7aab-903e-764ea60b2146",
       "time": "2026-08-14 20:30:36",
