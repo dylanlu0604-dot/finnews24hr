@@ -1,7 +1,18 @@
 {
   "date": "2026-08-15",
-  "count": 162,
+  "count": 163,
   "items": [
+    {
+      "id": "mkt:01a00194-b064-7aab-9044-8674733aff8e",
+      "time": "2026-08-15 02:41:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "JPM.N"
+      ],
+      "text": "Wall Street Journal reports JP Morgan (JPM.N) has terminated its banking relationship with Polymarket, citing regulatory concerns."
+    },
     {
       "id": "5041896",
       "time": "2026-08-15 02:39:43",

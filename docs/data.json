@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-15 02:40:37",
-  "count": 15332,
+  "updated": "2026-08-15 02:44:30",
+  "count": 15329,
   "items": [
+    {
+      "id": "mkt:01a00194-b064-7aab-9044-8674733aff8e",
+      "time": "2026-08-15 02:41:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "JPM.N"
+      ],
+      "text": "Wall Street Journal reports JP Morgan (JPM.N) has terminated its banking relationship with Polymarket, citing regulatory concerns."
+    },
     {
       "id": "5041896",
       "time": "2026-08-15 02:39:43",
@@ -140258,43 +140269,6 @@
         "MKT News"
       ],
       "text": "Musk said the company is working to make Grok Build very easy to use for non-technical users."
-    },
-    {
-      "id": "mkt:019fdd89-5d5c-7aab-8fc0-5b446ed234d1",
-      "time": "2026-08-08 02:43:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior executive at Brazil's state oil company Petrobras said the firm's 2027–31 investment plan aims to make Brazil self-sufficient in diesel production."
-    },
-    {
-      "id": "5031495",
-      "time": "2026-08-08 02:43:10",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【里士滿聯儲行長稱美國勞動力市場是“弱平衡”】里士滿聯邦儲備銀行行長Tom Barkin表示，美國勞動力市場似乎處於“弱平衡”狀態，延續了過去一年來的低招聘環境。“我認為這跟我對勞動力市場的觀察非常一致，就是既不寬鬆也不緊張，差不多是一種弱平衡，” Barkin週五在全國商業經濟協會主辦的網路研討會上說，他目前沒有看到薪資上漲，也不認為勞動力市場在加劇價格壓力。Barkin明年將獲得貨幣政策表決權。他週五將抗通脹比作航海，暗示如果價格壓力加速上升，決策層就可能不得不提高利率。“要知道，當帆開啟而且順風的時候，航行容易得多，” 他說，“要是逆風，你就得收緊一些了，這可能就是我們現在所處的環境。”"
-    },
-    {
-      "id": "mkt:019fdd89-0729-7aab-8fc0-54b48510ef9d",
-      "time": "2026-08-08 02:42:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "European Commission President von der Leyen welcomed the US Senate's passage of sanctions targeting Russian energy."
-    },
-    {
-      "id": "5031494",
-      "time": "2026-08-08 02:41:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：遺憾的是，目前星艦回收情況不容樂觀。儘管如此，我們已獲取隔熱罩與發動機關鍵部位的特寫照片，用於後續迭代升級。"
     }
   ]
 }
