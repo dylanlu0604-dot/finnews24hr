@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-15 00:49:18",
+  "updated": "2026-08-15 00:53:21",
   "count": 15343,
   "items": [
+    {
+      "id": "mkt:01a0012e-754b-7aab-9043-31a698e59936",
+      "time": "2026-08-15 00:50:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI"
+      ],
+      "text": "U.S. oil rig count for the week to Aug. 14 due in 10 minutes."
+    },
+    {
+      "id": "5041848",
+      "time": "2026-08-15 00:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：受地面電力供給與審批許可問題制約，到 2029 年前後，軌道計算或將成為人工智慧實現規模擴張的唯一途徑。"
+    },
+    {
+      "id": "mkt:01a0012e-6a9f-7aab-9043-2bb18748451b",
+      "time": "2026-08-15 00:50:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Global Affairs Canada announced additional sanctions on Iranian individuals for obstructing freedom of navigation in the Strait of Hormuz and adjacent waters."
+    },
+    {
+      "id": "te:economy:575526",
+      "time": "2026-08-15 00:50:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.56 basis points, and in the last 12 months, it increased 43.23 basis points."
+    },
+    {
+      "id": "mkt:01a0012d-2c36-7aab-9043-203af09f8728",
+      "time": "2026-08-15 00:48:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Mail reports Canada and the United States held talks on critical minerals and defense issues."
+    },
+    {
+      "id": "5041847",
+      "time": "2026-08-15 00:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加美會談探討關鍵礦產與防務議題。"
+    },
     {
       "id": "5041846",
       "time": "2026-08-15 00:48:29",
@@ -140356,60 +140414,6 @@
         "MKT News"
       ],
       "text": "Trump said two federal appeals court judges appointed by Obama and Biden voted against an urgently needed military center, calling the ruling a serious abuse of discretion and saying the center is necessary for Washington, D.C., and U.S. national security."
-    },
-    {
-      "id": "mkt:019fdd22-95a2-7aab-8fbe-a796b860ce57",
-      "time": "2026-08-08 00:50:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the U.S. will immediately file an appeal with the U.S. Supreme Court."
-    },
-    {
-      "id": "mkt:019fdd22-8a4b-7aab-8fbe-983633836b34",
-      "time": "2026-08-08 00:50:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the court ruling on the ballroom project must be overturned in full by the Supreme Court."
-    },
-    {
-      "id": "5031448",
-      "time": "2026-08-08 00:50:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：最高法院必須徹底推翻法院就宴會廳案作出的裁決。 我們將立即向美國最高法院提起上訴。"
-    },
-    {
-      "id": "mkt:019fdd21-cecd-7aab-8fbe-912b2620a6c6",
-      "time": "2026-08-08 00:50:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI"
-      ],
-      "text": "U.S. oil rig count for the week to Aug. 7 due in 10 minutes."
-    },
-    {
-      "id": "5031447",
-      "time": "2026-08-08 00:50:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證券交易委員會檔案：貝萊德公司截至 6 月 30 日持有SpaceX 5100 萬股 A 類普通股。"
-    },
-    {
-      "id": "mkt:019fdd21-3ed5-7aab-8fbe-8d11572134c0",
-      "time": "2026-08-08 00:49:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "ABC News reports Trump, after a setback at the Supreme Court, is continuing efforts to remove Federal Reserve governor Lisa Cook."
     }
   ]
 }

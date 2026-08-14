@@ -1,7 +1,65 @@
 {
   "date": "2026-08-15",
-  "count": 61,
+  "count": 67,
   "items": [
+    {
+      "id": "mkt:01a0012e-754b-7aab-9043-31a698e59936",
+      "time": "2026-08-15 00:50:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI"
+      ],
+      "text": "U.S. oil rig count for the week to Aug. 14 due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0012e-6a9f-7aab-9043-2bb18748451b",
+      "time": "2026-08-15 00:50:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Global Affairs Canada announced additional sanctions on Iranian individuals for obstructing freedom of navigation in the Strait of Hormuz and adjacent waters."
+    },
+    {
+      "id": "5041848",
+      "time": "2026-08-15 00:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：受地面電力供給與審批許可問題制約，到 2029 年前後，軌道計算或將成為人工智慧實現規模擴張的唯一途徑。"
+    },
+    {
+      "id": "te:economy:575526",
+      "time": "2026-08-15 00:50:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.56 basis points, and in the last 12 months, it increased 43.23 basis points."
+    },
+    {
+      "id": "mkt:01a0012d-2c36-7aab-9043-203af09f8728",
+      "time": "2026-08-15 00:48:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Mail reports Canada and the United States held talks on critical minerals and defense issues."
+    },
+    {
+      "id": "5041847",
+      "time": "2026-08-15 00:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加美會談探討關鍵礦產與防務議題。"
+    },
     {
       "id": "5041846",
       "time": "2026-08-15 00:48:29",
