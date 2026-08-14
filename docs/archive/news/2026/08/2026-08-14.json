@@ -1,7 +1,62 @@
 {
   "date": "2026-08-14",
-  "count": 995,
+  "count": 1001,
   "items": [
+    {
+      "id": "5040489",
+      "time": "2026-08-14 11:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統普拉博沃：並非反對市場，但市場可能被操縱。"
+    },
+    {
+      "id": "5040488",
+      "time": "2026-08-14 11:37:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將思科目標股價從145美元上調至150美元。"
+    },
+    {
+      "id": "5040487",
+      "time": "2026-08-14 11:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：所有補貼商品將透過村級合作社進行分配。"
+    },
+    {
+      "id": "5040486",
+      "time": "2026-08-14 11:35:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "朝日集團股價扭轉跌勢，一度上漲2.2%。"
+    },
+    {
+      "id": "mkt:019ffe56-34f5-7aab-9034-8a0f34913138",
+      "time": "2026-08-14 11:34:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "【A-shares midday: ChiNext up 0.65%; CPO and fiber-optic sectors lead gains】Mainland Chinese shares diverged in the morning session. By the midday close the ChiNext Index was up 0.65% after intraday gains exceeding 1%; the Shanghai Composite fell 0.21% after testing the 3,900 level; the Shenzhen Composite Index rose 0.08%. Combined turnover on both boards exceeded 1.3 trillion yuan. More than 3,100 stocks declined and several high-flyers fell. Compute-hardware-related sectors led gains—fiber-optic, CPO, semiconductors, lithography machines and telecom equipment—while food & beverage saw patchy volatility, pharmaceuticals were active, rare-earth permanent magnets spiked then pulled back, and power utilities and cinema chains weakened."
+    },
+    {
+      "id": "5040485",
+      "time": "2026-08-14 11:34:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：我們已經建立並運營了1萬個鄉村合作社，目標是在年底前達到3萬個。"
+    },
     {
       "id": "mkt:019ffe55-76dc-7aab-9034-809bfd3f8b55",
       "time": "2026-08-14 11:34:01",

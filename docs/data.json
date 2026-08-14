@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-14 11:34:52",
-  "count": 15488,
+  "updated": "2026-08-14 11:38:41",
+  "count": 15490,
   "items": [
+    {
+      "id": "5040489",
+      "time": "2026-08-14 11:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統普拉博沃：並非反對市場，但市場可能被操縱。"
+    },
+    {
+      "id": "5040488",
+      "time": "2026-08-14 11:37:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將思科目標股價從145美元上調至150美元。"
+    },
+    {
+      "id": "5040487",
+      "time": "2026-08-14 11:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：所有補貼商品將透過村級合作社進行分配。"
+    },
+    {
+      "id": "5040486",
+      "time": "2026-08-14 11:35:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "朝日集團股價扭轉跌勢，一度上漲2.2%。"
+    },
+    {
+      "id": "mkt:019ffe56-34f5-7aab-9034-8a0f34913138",
+      "time": "2026-08-14 11:34:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "【A-shares midday: ChiNext up 0.65%; CPO and fiber-optic sectors lead gains】Mainland Chinese shares diverged in the morning session. By the midday close the ChiNext Index was up 0.65% after intraday gains exceeding 1%; the Shanghai Composite fell 0.21% after testing the 3,900 level; the Shenzhen Composite Index rose 0.08%. Combined turnover on both boards exceeded 1.3 trillion yuan. More than 3,100 stocks declined and several high-flyers fell. Compute-hardware-related sectors led gains—fiber-optic, CPO, semiconductors, lithography machines and telecom equipment—while food & beverage saw patchy volatility, pharmaceuticals were active, rare-earth permanent magnets spiked then pulled back, and power utilities and cinema chains weakened."
+    },
+    {
+      "id": "5040485",
+      "time": "2026-08-14 11:34:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：我們已經建立並運營了1萬個鄉村合作社，目標是在年底前達到3萬個。"
+    },
     {
       "id": "mkt:019ffe55-76dc-7aab-9034-809bfd3f8b55",
       "time": "2026-08-14 11:34:01",
@@ -141710,48 +141765,6 @@
         "其他"
       ],
       "text": "【香港保險業聯會回應 “內地對境外保單收益徵收20%個人所得稅”傳聞 ：有關部門尚未釋出正式政策檔案，港險市場仍具競爭力】針對近日市場熱議的“內地對境外保單收益徵收20%個人所得稅”傳聞，香港保險業聯會（HKFI）今日作出回應。保聯表示，截至目前為止，有關部門尚未釋出正式政策檔案或執行細則，保聯正持續瞭解及密切關注相關發展。因此，對有關討論及傳聞，保聯暫不作揣測或評論。保聯在回應中強調，預期客戶對保障、財富傳承及資產配置的需求仍然殷切。香港作為國際金融中心，保險產品具備產品設計靈活、多元貨幣配置、財富傳承規劃及服務專業到位等優勢。保聯認為，對有相關需求的客戶而言，香港保險市場整體仍具吸引力及競爭力。（第一財經）"
-    },
-    {
-      "id": "te:markets:573580",
-      "time": "2026-08-07 11:37:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Philippines",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Philippine Peso Falls Back Toward 61 Mark — The Philippine peso weakened back toward the 61-per-dollar mark in early August after briefly touching a six-week high earlier this week, as markets reassessed the country’s economic outlook amid slowing growth and persistent inflation pressures. Philippine GDP expanded 2.3% year-on-year in Q2, the slowest pace since Q4 2009 excluding the COVID-19 period, as the economy faced an energy shock stemming from the Iran war and the fallout from a major corruption scandal. The weaker-than-expected growth came after the government’s DBCC revised down its 2026 growth target in June. Meanwhile, inflation remained elevated at 6.2% in July despite easing for a third consecutive month, staying above the BSP’s 3% target and keeping expectations for further tightening intact. The BSP has raised rates by 50 bps since April, with analysts expecting another 50 bps of hikes this year via two 25 bps increases at the August and October meetings."
-    },
-    {
-      "id": "5029995",
-      "time": "2026-08-07 11:36:45",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：海外倉模式將取代直郵成為主流 具全鏈條能力端到端整合者將最終勝出】中信建投釋出研報稱，跨境電商物流正經歷從“跨境”到“本地化”的深刻轉變。海外倉模式預計在2026年首次反超直郵，成為主流，其驅動力主要來自歐美關稅新政(美國取消800美元免稅、歐盟取消150歐元免稅)對直郵價效比的衝擊，倒逼平臺和賣家採用本地化履約。此外，美國尾程配送因傳統巨頭(UPS/FedEx/USPS)戰略性撤退而出現結構性缺口，已成為跨境電商物流的核心競爭壁壘。未來，單一環節的物流商將面臨壓力，具備“中國段直郵+海外倉+本土末端”全鏈條能力的端到端整合者將最終勝出。"
-    },
-    {
-      "id": "mkt:019fda4a-a5b4-7aab-8faf-23fd7a697f5e",
-      "time": "2026-08-07 11:35:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【A-share midday: ChiNext +1.75%; rare-earth permanent magnets, PCB sectors rally】Markets rose in morning trade. At midday, Shanghai Composite +0.49%, Shenzhen Composite Index +1.31%, ChiNext +1.75%. CRO stocks led gains with Baihua Pharmaceuticals posting a fourth consecutive daily limit-up. PCB names saw multiple limit-ups, including Jingwang Electronics and Hongban Technology. Rare-earth permanent-magnet names were active, with China Rare Earth hitting the daily limit. CPO, minor metals, components and electronic chemicals outperformed. Digital currency, grain, property, coal and gaming sectors lagged. About 3,000 stocks declined and half-day turnover exceeded 1.6 trillion yuan."
-    },
-    {
-      "id": "5029994",
-      "time": "2026-08-07 11:35:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國校園槍擊事件造成至少4人受傷】據泰國媒體7日報道，泰國暖武裡府一所學校當天發生槍擊事件，造成至少4人受傷，初步調查顯示槍手為學生。（新華社）"
     }
   ]
 }
