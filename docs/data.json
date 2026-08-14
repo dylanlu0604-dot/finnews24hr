@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-15 04:07:04",
-  "count": 15270,
+  "updated": "2026-08-15 04:10:54",
+  "count": 15269,
   "items": [
+    {
+      "id": "5041953",
+      "time": "2026-08-15 04:08:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "維京全球投資公司清倉谷歌母公司Alphabet Inc A類普通股股份。增持META PLATFORMS INC A類股股份75.8%，至190萬股。"
+    },
+    {
+      "id": "5041952",
+      "time": "2026-08-15 04:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：維京全球投資公司減持微軟公司股份36.8%，至150萬股。"
+    },
+    {
+      "id": "te:markets:575535",
+      "time": "2026-08-15 04:08:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Gains for Third Straight Week — The Canadian dollar strengthened to 1.39 per USD, posting a third consecutive weekly gain as yield spreads narrowed. Domestic factory data supported the recent narrowing in the gap between US and Canadian bond yields. The spread between Canada’s 2-year yield and the US equivalent has narrowed by about 17 basis points this month. Canadian factory sales rose 0.1% in June from May, marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Meanwhile, US retail sales unexpectedly fell in July by the most in more than a year. Recent data also showed a stronger Canadian labor market and weaker US employment, reducing expectations for a Federal Reserve rate hike this year while raising the prospect of a BoC hike if energy prices remain elevated. Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast."
+    },
+    {
+      "id": "5041951",
+      "time": "2026-08-15 04:07:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：維京全球投資公司清倉蘋果公司股份。"
+    },
     {
       "id": "te:markets:575534",
       "time": "2026-08-15 04:05:54",
@@ -139714,48 +139750,6 @@
         "其他"
       ],
       "text": "標普全球評級將喬治亞展望調整為正面；確認 BB/B 評級。"
-    },
-    {
-      "id": "5031604",
-      "time": "2026-08-08 04:10:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯倫貝謝申請撤回 S‑4 註冊檔案。"
-    },
-    {
-      "id": "5031603",
-      "time": "2026-08-08 04:08:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "週五（8月7日），美股行業ETF多數收漲，生物科技指數ETF漲2.46%，網路股指數ETF漲2.09%，半導體ETF漲1.96%，科技行業ETF、全球科技股指數ETF至多漲1.42%，銀行業ETF、全球航空業ETF、區域銀行ETF至多跌0.37%，能源業ETF跌1.17%。"
-    },
-    {
-      "id": "5031602",
-      "time": "2026-08-08 04:08:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認奧地利 AA+/A‑1 + 評級；展望穩定。"
-    },
-    {
-      "id": "5031601",
-      "time": "2026-08-08 04:08:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普媒體集團退出與Crypto.com的兩項交易】臨時執行長凱文・麥格恩透露，Truth Social 的母公司特朗普媒體科技集團正在退出與Crypto.com的兩項合作。公司新任管理層希望將這家科技企業的業務重心放在旗下媒體板塊，以及與核聚變企業 TAE 待完成的合併交易上。此次戰略調整背離了前任管理層的發展路線。2025 年加密貨幣國庫業務鼎盛時期，前任管理層曾大舉佈局加密貨幣與金融服務賽道。麥格恩表示：“我們希望聚焦主業。” 他提到，過去一年數字資產國庫類企業的市場已經趨於飽和。"
-    },
-    {
-      "id": "5031600",
-      "time": "2026-08-08 04:07:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體集團退出與Crypto.com的兩項交易。"
     }
   ]
 }

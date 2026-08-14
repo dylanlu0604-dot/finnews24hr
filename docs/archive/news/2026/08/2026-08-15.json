@@ -1,7 +1,43 @@
 {
   "date": "2026-08-15",
-  "count": 250,
+  "count": 254,
   "items": [
+    {
+      "id": "5041953",
+      "time": "2026-08-15 04:08:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "維京全球投資公司清倉谷歌母公司Alphabet Inc A類普通股股份。增持META PLATFORMS INC A類股股份75.8%，至190萬股。"
+    },
+    {
+      "id": "5041952",
+      "time": "2026-08-15 04:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：維京全球投資公司減持微軟公司股份36.8%，至150萬股。"
+    },
+    {
+      "id": "te:markets:575535",
+      "time": "2026-08-15 04:08:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Gains for Third Straight Week — The Canadian dollar strengthened to 1.39 per USD, posting a third consecutive weekly gain as yield spreads narrowed. Domestic factory data supported the recent narrowing in the gap between US and Canadian bond yields. The spread between Canada’s 2-year yield and the US equivalent has narrowed by about 17 basis points this month. Canadian factory sales rose 0.1% in June from May, marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Meanwhile, US retail sales unexpectedly fell in July by the most in more than a year. Recent data also showed a stronger Canadian labor market and weaker US employment, reducing expectations for a Federal Reserve rate hike this year while raising the prospect of a BoC hike if energy prices remain elevated. Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast."
+    },
+    {
+      "id": "5041951",
+      "time": "2026-08-15 04:07:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：維京全球投資公司清倉蘋果公司股份。"
+    },
     {
       "id": "te:markets:575534",
       "time": "2026-08-15 04:05:54",
