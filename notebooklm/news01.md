@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 03:08:04_
-_本檔包含 3164 則快訊，約 604021 字_
+_更新時間：2026-08-15 03:51:46_
+_本檔包含 3155 則快訊，約 602555 字_
+
+---
+
+### 2026-08-15 03:51:09  #MKT News
+
+President Trump said the US has earned substantial revenue from tariffs.
+
+---
+
+### 2026-08-15 03:50:42  #公司 #國際
+
+犀牛比特幣公司公佈最新計劃：擬完成美國證交會申報檔案並強化獨立治理，以提升透明度併為潛在交易所升級上市做準備。
+
+---
+
+### 2026-08-15 03:50:15  #國際
+
+特朗普：我們靠關稅賺了大錢。
+
+---
+
+### 2026-08-15 03:50:10  #公司
+
+【Stripe、Advent洽談收購PayPal】據知情人士透露，PayPal Holdings正在與包括Stripe和私募股權公司Advent International在內的財團洽談出售事宜。Stripe與Advent於今年7月提出以每股60.50美元收購PayPal，但PayPal認為該報價過低。雙方目前正就可能更高的價格進行談判。
+
+---
+
+### 2026-08-15 03:49:47  #其他
+
+市場訊息：PayPal認為每股60.50美元的報價不夠理想。
+
+---
+
+### 2026-08-15 03:49:43  #MKT News #PSKY.O #Impact bullish #WBD.O
+
+Paramount (PSKY.O) and Warner Bros. Discovery (WBD.O) have met all regulatory conditions under their merger agreement.
+
+---
+
+### 2026-08-15 03:48:36  #其他
+
+市場訊息：PayPal談判或敲定更高收購報價。
+
+---
+
+### 2026-08-15 03:48:04  #其他
+
+市場訊息：Stripe與Advent的交易可能於未來數週內敲定。
+
+---
+
+### 2026-08-15 03:47:12  #其他
+
+派拉蒙：敦促12個州總檢察長秉持誠意開展溝通。
+
+---
+
+### 2026-08-15 03:46:00  #市場
+
+PAYPAL股價上漲2.8%，創下盤中新高。
+
+---
+
+### 2026-08-15 03:45:51  #其他
+
+市場訊息：Stripe與Advent正洽談收購PayPal。
+
+---
+
+### 2026-08-15 03:45:13  #其他
+
+市場訊息：槓桿基金將看漲墨西哥比索的押注升至2024年以來的最高水平。
+
+---
+
+### 2026-08-15 03:44:55  #其他
+
+市場訊息：派拉蒙‑華納兄弟探索已滿足合併協議項下全部監管條件。
+
+---
+
+### 2026-08-15 03:44:36  #國際
+
+特朗普：紐約州州長在打擊犯罪方面做得不好。
+
+---
+
+### 2026-08-15 03:41:12  #國際
+
+美國代理海軍部長 ：美國“亞伯拉罕·林肯”號航空母艦將按計劃很快返航。
+
+---
+
+### 2026-08-15 03:40:26  #MKT News #ORCL.N #Impact bearish
+
+Oracle (ORCL.N) pared losses, down 3.52% after earlier falling as much as 4.65%.
+
+---
+
+### 2026-08-15 03:38:26  #市場
+
+甲骨文股價放量擴大跌幅，最新下跌3.8%至150.21美元。
+
+---
+
+### 2026-08-15 03:38:11  #MKT News #Market Themes #AI Revolution #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) said its Jupiter AI data-center campus project remains on schedule and the company will continue close cooperation with partners to advance the project.
+
+---
+
+### 2026-08-15 03:36:31  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+CFTC: For week ended Aug 11, speculative traders increased WTI net longs by 4,034 contracts to 105,860. Across the four major NYMEX and ICE gas contracts, speculative net shorts fell 18,848 contracts to 70,241.
+
+---
+
+### 2026-08-15 03:36:06  #MKT News #US10Y #Impact mixed
+
+Speculators' net short in CBOT 5-year Treasury futures fell by 84,963 contracts to 1,240,756 in the week to Aug. 11, the CFTC said. Net short positions in CBOT ultra-long Treasury futures rose by 11,798 contracts to 326,783, while net shorts in CBOT Treasury futures increased by 3,335 contracts to 179,607.
+
+---
+
+### 2026-08-15 03:35:48  #公司
+
+甲骨文公司：木星專案仍按計劃推進，我們繼續與合作伙伴緊密協作以推動專案進展。
+
+---
+
+### 2026-08-15 03:35:06  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+CFTC weekly data to Aug. 11: speculators' net short in CBOT U.S. 2‑year Treasury futures rose 16,815 contracts to 1,021,043; speculators' net short in CBOT U.S. 10‑year Treasury futures fell 64,190 contracts to 915,053.
+
+---
+
+### 2026-08-15 03:33:57  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper
+
+CFTC: For the week to Aug. 11, COMEX speculative net long positions — gold +9,470 contracts to 141,868; silver -755 contracts to 10,312; copper +3,085 contracts to 80,880.
+
+---
+
+### 2026-08-15 03:33:30  #國際
+
+【巴勒斯坦譴責以方定居點“民事執法權”移交計劃】巴勒斯坦副總統侯賽因·謝赫14日譴責以色列擬將約旦河西岸猶太人定居點的“民事執法權”從以軍移交至以警方，指責這一計劃意在鞏固以方對巴方被佔領土的非法吞併。謝赫發表宣告說，任何形式的定居點活動均屬非法。對被佔巴方領土的任何部分，以色列均不擁有主權。謝赫指出，以色列的做法公然違反國際法和聯合國相關決議，意在將以色列法律和主權強加於包括東耶路撒冷在內的約旦河西岸地區，進一步鞏固對巴勒斯坦領土的非法吞併。（新華社）
+
+---
+
+### 2026-08-15 03:32:42  #其他
+
+CFTC：原油投機客在截至8月11日當週將WTI淨多頭倉位增加4,034口，至105,860口。
+
+---
+
+### 2026-08-15 03:31:26  #國際
+
+特朗普稱讚帕特爾。
+
+---
+
+### 2026-08-15 03:30:44  #國際
+
+特朗普：布蘭奇將成為傳奇。
+
+---
+
+### 2026-08-15 03:27:35  #MKT News
+
+U.S. President Trump said he does not care about damaging Iran's economy ahead of the midterm elections.
+
+---
+
+### 2026-08-15 03:25:15  #MKT News #Macro & Rates #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index down 0.3% to 99.667 on 14th】The dollar index (DXY), which tracks the US dollar against six major currencies, fell 0.3% to 99.667 at the New York FX close. EUR/USD rose to 1.1566 from 1.1529; GBP/USD to 1.3533 from 1.3485. USD/JPY eased to 159.38 from 159.51; USD/CHF to 0.8131 from 0.8139; USD/CAD to 1.3877 from 1.3936; USD/SEK to 9.5246 from 9.5684.
+
+---
+
+### 2026-08-15 03:25:11  #市場
+
+【美元指數14日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.3%，在匯市尾市收於99.667。截至紐約匯市尾市，1歐元兌換1.1566美元，高於前一交易日的1.1529美元；1英鎊兌換1.3533美元，高於前一交易日的1.3485美元。1美元兌換159.38日元，低於前一交易日的159.51日元；1美元兌換0.8131瑞士法郎，低於前一交易日的0.8139瑞士法郎；1美元兌換1.3877加元，低於前一交易日的1.3936加元；1美元兌換9.5246瑞典克朗，低於前一交易日的9.5684瑞典克朗。
+
+---
+
+### 2026-08-15 03:25:05  #國際
+
+特朗普表示：不在乎是否在中期選舉前打擊伊朗經濟。
+
+---
+
+### 2026-08-15 03:24:53  #國際
+
+特朗普：紐約正朝著糟糕的方向發展，我要改變它。
+
+---
+
+### 2026-08-15 03:24:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil futures rise on 14th】At the close on the 14th, NYMEX September light sweet crude futures rose $1.15 to $82.40 per barrel, up 1.42%. ICE Brent October futures rose $1.45 to $88.52 per barrel, up 1.67%.
+
+---
+
+### 2026-08-15 03:23:50  #公司 #國際
+
+【美國醫保高管被槍殺案嫌疑人對跟蹤指控表示認罪】美國聯合健康保險公司執行長布賴恩·湯普森被槍殺一案的嫌疑人路易吉·曼焦內14日就聯邦跟蹤指控表示認罪。曼焦內當天在紐約一家聯邦法院供述時承認自己槍殺了湯普森。聯邦法官將其量刑日期定於12月18日。曼焦內目前面臨聯邦指控和州指控，媒體認為其此番認罪意在尋求撤銷紐約州一級的謀殺指控，並推遲審判程序。（新華社）
+
+---
+
+### 2026-08-15 03:19:26  #市場
+
+【國際油價14日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲1.15美元，收於每桶82.40美元，漲幅為1.42%；10月交貨的倫敦布倫特原油期貨價格上漲1.45美元，收於每桶88.52美元，漲幅為1.67%。（新華社）
+
+---
+
+### 2026-08-15 03:19:01  #MKT News #Important #WTI #Impact bullish #Brent
+
+Fox News reports President Trump said the US will impose severe economic measures on Iran.
+
+---
+
+### 2026-08-15 03:18:38  #焦點 #國際
+
+特朗普表示，美國將對伊朗實施嚴厲經濟打擊。
+
+---
+
+### 2026-08-15 03:10:23  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Yemen government forces say Houthi militants fired six ballistic missiles at Mokha port】On the 14th local time Yemen government forces said Houthi militants fired six ballistic missiles at Mokha port in southwest Yemen, striking civilian and state facilities and seeking to blockade and exacerbate civilian hardship. Yemen’s Health Ministry condemned the strikes, warned of serious health and humanitarian consequences, and urged the UN, international organizations and aid agencies to denounce the attacks, protect critical civilian infrastructure, ensure continued delivery of supplies and humanitarian aid, and scale up emergency health and nutrition assistance to the western coast and other affected areas.
+
+---
+
+### 2026-08-15 03:08:45  #MKT News #Commodities #Industrial Metals
+
+Chile's state-owned copper miner Codelco confirmed changes among top executives.
+
+---
+
+### 2026-08-15 03:08:38  #市場
+
+恒生指數主連夜盤收漲0.61%。恒生科技指數主連夜盤收漲0.81%。
+
+---
+
+### 2026-08-15 03:08:05  #MKT News
+
+Yemen's health ministry said a Houthi missile strike on the port town of Mocha tonight killed one civilian and wounded eight.
 
 ---
 
@@ -18773,305 +19019,5 @@ SanDisk (SNDK.O) continues to rally; gains widen to 15%.
 ### 2026-08-13 23:24:10  #其他
 
 市場訊息：AMD擬透過發債募資至多50億美元。
-
----
-
-### 2026-08-13 23:21:52  #MKT News
-
-U.S. Defense Secretary Hegseth said reports about the situation aboard the USS Abraham Lincoln are misinformation.
-
----
-
-### 2026-08-13 23:21:27  #MKT News #Important #WTI #Impact bullish #Brent
-
-U.S. Defense Secretary Hegseth said the United States can sustain a blockade of Iran for as long as necessary.
-
----
-
-### 2026-08-13 23:21:08  #國際
-
-美國國防部長赫格塞斯稱，關於“亞伯拉罕·林肯”號航母上狀況的報道存在失實陳述。
-
----
-
-### 2026-08-13 23:20:23  #市場 #國際
-
-美國原油期貨<CLc1>和布蘭特原油期貨<LCOc1>縮減跌幅，下跌1美元，此前有報導稱，胡塞武裝用兩架無人機襲擊了沙特阿美在吉讚的煉油廠。
-
----
-
-### 2026-08-13 23:19:47  #焦點 #國際
-
-美國國防部長赫格塞思就伊朗問題表態：美國可根據需要長時間實施封鎖。
-
----
-
-### 2026-08-13 23:19:00  #其他
-
-哥倫比亞Cerrejon煤礦稱，週四早些時候其位於拉瓜希拉省的鐵路基礎設施遭襲，未接獲人員傷亡報告。
-
----
-
-### 2026-08-13 23:18:23  #MKT News
-
-Market sources: Musk is shifting to natural gas to power AI operations.
-
----
-
-### 2026-08-13 23:17:11  #市場 #國際
-
-歐洲斯托克600指數<.STOXX>轉跌，最新報跌0.03%。
-
----
-
-### 2026-08-13 23:17:11  #MKT News #Market Regions #Europe & UK
-
-STOXX Europe 600 turned negative, down 0.03%.
-
----
-
-### 2026-08-13 23:16:18  #MKT News #Important #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) gains widened to 11% after the company earlier outlined revenue-growth expectations for fiscal 2028–2030.
-
----
-
-### 2026-08-13 23:14:16  #MKT News #AZN.O #Impact bearish #BMY.N
-
-Semafor reports an adviser to the UK prime minister phoned AstraZeneca about its proposed merger with Bristol-Myers Squibb.
-
----
-
-### 2026-08-13 23:13:54  #Trading Economics #Markets #United States #stocks #Importance 1
-
-TJX Companies Stock Price Hits 4-week Low — TJX Companies shares decreased to 151.97 USD, the lowest since July 2026. Over the past 4 weeks, TJX Companies gained 1.12%, and in the last 12 months, it increased 14.35%.
-
----
-
-### 2026-08-13 23:13:53  #其他
-
-閃迪股價漲幅超過10%。
-
----
-
-### 2026-08-13 23:13:43  #其他
-
-市場訊息：飛利浦發現並遏制了一次網路安全入侵企圖。
-
----
-
-### 2026-08-13 23:13:11  #其他
-
-市場訊息：英國首相顧問就布里斯托爾併購案聯絡阿斯利康。
-
----
-
-### 2026-08-13 23:12:32  #其他
-
-傑富瑞將加拿大航空目標價從26加元上調至31加元。
-
----
-
-### 2026-08-13 23:11:57  #其他
-
-【AI安全攻防測評 國內高校團隊低成本位列全球第二】8月13日，記者獲悉，國際AI安全基準測試平臺CyberGym釋出最新榜單，復旦大學團隊研發的白澤智慧體Whitzard以91.2%的真實漏洞攻防成功率位列全球第二、高校第一，超過Anthropic面向網路安全打造的前沿模型Claude Mythos，以及微軟、Google旗下Wiz等國際頭部團隊。該測試覆蓋188個大型開源專案的1507個真實漏洞，要求智慧體在完整程式碼庫中自主完成漏洞定位、攻擊構造和驗證。（央視新聞）
-
----
-
-### 2026-08-13 23:11:08  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Fitch: US private credit 12-month default rate hits record 6.1% in July】Fitch said its sample of 1,300 US private credit borrowers recorded a 12-month rolling default rate of 6.1% in July, up from 6.0% in June and the highest since Fitch began tracking the series in August 2024. For the 300 private issuers Fitch rates for insurers, the 12-month default rate fell to 8.6% in July from 9.4% in June. Fitch logged three private credit defaults in July — one new borrower and two repeat defaulters — and 83 borrowers triggered 105 default events in the 12 months to July 2026.
-
----
-
-### 2026-08-13 23:10:41  #公司 #國際
-
-【惠譽：美國私募信貸違約率7月升至紀錄新高】惠譽評級週四釋出報告稱，其追蹤的1300家美國私募信貸借款人的違約率在7月升至紀錄新高。惠譽自2024年8月開始追蹤該資料，按過去12個月滾動計算，這一借款人群體的違約率7月升至6.1%，高於6月的6%。對於惠譽為保險公司提供私募評級的300家發行人，違約率則由6月的9.4%降至7月的8.6%。在上述1300傢俬募信貸借款人中，惠譽7月記錄了3起私募信貸違約事件，涉及1家新增違約借款人和2家再次違約借款人。截至2026年7月的12個月，有83家借款人發生違約，合計觸發105起違約事件。
-
----
-
-### 2026-08-13 23:09:23  #市場
-
-赫茲全球股價下跌高達13%，創6月以來最大跌幅。
-
----
-
-### 2026-08-13 23:09:21  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) targets roughly a 50% adjusted free cash flow margin in fiscal years 2028 to 2030.
-
----
-
-### 2026-08-13 23:09:04  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Saba news agency, controlled by Yemen's Houthi movement, said the group struck ARAMCO's Jazan refinery in Saudi Arabia with two drones.
-
----
-
-### 2026-08-13 23:08:56  #其他
-
-標普：網路安全提供商SOPHOS因再融資風險被列入負面信用觀察名單。
-
----
-
-### 2026-08-13 23:08:21  #其他
-
-葉門胡塞武裝稱，該組織用兩架無人機襲擊了沙烏地阿拉伯吉讚的阿美煉油廠。
-
----
-
-### 2026-08-13 23:08:19  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) expects revenue growth of about 15-19% for FY2028-FY2030.
-
----
-
-### 2026-08-13 23:07:11  #MKT News #Commodities #Industrial Metals
-
-【Baltic Dry Index extends decline; Supramax edges up】Baltic Dry Index (BDI) fell for a fourth session, down 95 points (3.2%) to 2,844 after touching its highest level since June 3 last Friday. Capesize index (BCI) dropped 243 points (5.2%) to 4,469; capesize daily earnings fell $2,212 to $37,025 — capesizes typically carry about 150,000 tonnes of iron ore and coal. Panamax index (BPI) slipped 40 points (1.7%) to 2,262; panamax daily earnings declined $355 to $20,361, ending a 10-session rally. Supramax index (BSI) rose 10 points (0.6%) to 1,613. Handysize index (BHSI) eased 2 points to 865.
-
----
-
-### 2026-08-13 23:06:13  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) shares up 6.3%.
-
----
-
-### 2026-08-13 23:05:26  #市場
-
-閃迪股價漲幅進一步擴大，最新上漲6.3%。
-
----
-
-### 2026-08-13 23:04:58  #MKT News
-
-A Canadian pension fund posted a six-month return of 5.1%, underperforming its internal benchmark.
-
----
-
-### 2026-08-13 23:04:35  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) said it will return excess cash after investing in its business.
-
----
-
-### 2026-08-13 23:04:20  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) expects to return 100% of excess cash to shareholders.
-
----
-
-### 2026-08-13 23:04:11  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) expects non-GAAP operating margin of about 75% for fiscal years 2028–2030.
-
----
-
-### 2026-08-13 23:04:09  #其他
-
-閃迪：預計將把全部超額現金返還給股東。
-
----
-
-### 2026-08-13 23:03:45  #MKT News
-
-SanDisk (SNDK.O) expects non-GAAP gross margin of about 80% in fiscal 2028–2030.
-
----
-
-### 2026-08-13 23:03:31  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-Fitch says U.S. private credit default rate rose to a record high in July.
-
----
-
-### 2026-08-13 23:03:23  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Holds Near 2-Month High — Platinum futures held near $1,730 per ounce after reaching a two-month high, as traders assessed the outlook for demand. Rising hybrid vehicle production has provided near-term support for autocatalyst consumption, although markets remain cautious about the broader shift toward electric vehicles, which recorded a fifth consecutive monthly increase in July. Meanwhile, uncertainty over shipments through the Strait of Hormuz kept industrial buyers cautious. On the supply side, concerns over power disruptions and maintenance bottlenecks at South African mines continued to underpin prices, with the platinum market expected to remain in deficit. Additional support came from plans by the world’s largest jeweler to replace some sterling-silver jewelry with platinum-plated alternatives. Meanwhile, AI and data-center expansion are emerging as potential new sources of demand, with South Africa’s Valterra Platinum estimating AI-related demand could grow fivefold by 2030.
-
----
-
-### 2026-08-13 23:02:22  #其他
-
-密歇根州衛生部門：截至8月13日，314例報告的環孢子蟲病病例顯示已住院治療。
-
----
-
-### 2026-08-13 23:02:14  #央行 #其他
-
-秘魯央行貨幣政策主管表示，央行認為目前無需加息，當前對通脹的影響是暫時性的。
-
----
-
-### 2026-08-13 23:02:07  #其他
-
-閃迪：28‑30財年非通用會計準則營業利潤率約75%。
-
----
-
-### 2026-08-13 23:01:52  #其他
-
-閃迪預計28財年至30財年非通用會計準則毛利率約為80%。
-
----
-
-### 2026-08-13 23:01:20  #公司
-
-閃迪首席財務官表示，公司預計將在合同期內從8家客戶處獲得總合同額939億美元。
-
----
-
-### 2026-08-13 23:00:55  #MKT News #Important #Commodities #Industrial Metals
-
-At the 23:00 close, China’s main futures contracts were mostly higher. Coking coal, pulp, Soybean No.1, glass and soda ash gained over 1%; coated paper rose nearly 1%. On the downside, 20# rubber and PTA slipped more than 1%; low-sulfur fuel oil (LU) and the broader rubber contract fell about 1%.
-
----
-
-### 2026-08-13 23:00:50  #公司 #國際
-
-以色列散居猶太事務部長稱：對敘利亞開戰幾乎已成定局。 利庫德集團官員阿米哈伊·奇克利重申，他認為與敘利亞的軍事對抗不可避免，將這個鄰國形容為“加強版的加沙”。
-
----
-
-### 2026-08-13 23:00:30  #公司
-
-閃迪公司預計2028財年至2030財年調整後自由現金流利潤率將維持在50%。
-
----
-
-### 2026-08-13 23:00:08  #其他
-
-閃迪預計將把100%的過剩現金返還給股東。
-
----
-
-### 2026-08-13 23:00:05  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swedish Krona Appreciates by 0.37% — Top currency gainers are Swedish Krona (0.37%), Euro (0.16%), Japanese Yen (0.16%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.19%).
-
----
-
-### 2026-08-13 23:00:02  #市場
-
-【夜盤期貨收盤】焦煤連續漲1.77%，紙漿連續漲1.33%，豆一連續漲1.32%，玻璃連續漲1.15%，20號膠連續跌1.08%。
-
----
-
-### 2026-08-13 22:59:50  #國際
-
-法官批准慧與（HPE）就瞻博網路收購案與美國司法部達成的和解協議。
-
----
-
-### 2026-08-13 22:59:40  #國際
-
-【中東多國興建石油輸送繞行通道】霍爾木茲海峽長期以來是波斯灣石油出口最重要、最便捷的通道。但受美伊戰事影響，霍爾木茲海峽的運力遭到重創。據美國《紐約時報》8月12日報道，波斯灣多國正斥資數十億美元建設繞開霍爾木茲海峽的輸油管道，以降低地緣風險。（CCTV國際時訊）
-
----
-
-### 2026-08-13 22:59:19  #公司
-
-【傑瑞股份：上半年獲取新增訂單100.46億元 同比增長1.67%】傑瑞股份(002353.SZ)釋出投資者關係活動記錄表公告，訂單方面，公司上半年獲取新增訂單100.46億元，同比增長1.67%；截至報告期末存量訂單139.95億元，同比增長13.00%。7月，公司控股子公司J&FPowerSystemsLLC與某國際知名雲服務提供商簽署燃氣輪機發電機組供應合同，並接受客戶下達的採購訂單，訂單金額為14.65億美元。截止目前，公司已收到該訂單的首筆預付款。
 
 ---
