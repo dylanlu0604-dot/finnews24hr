@@ -1,7 +1,300 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 00:01:06_
-_本檔包含 2919 則快訊，約 604975 字_
+_更新時間：2026-08-15 01:05:16_
+_本檔包含 2887 則快訊，約 605518 字_
+
+---
+
+### 2026-08-10 16:18:35  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+【LME non-ferrous metals inventory daily】LME stocks: Copper 218,300 t, down 8,350 t; Aluminium 254,900 t, down 3,000 t; Zinc 97,125 t, down 350 t; Nickel 264,444 t, unchanged; Lead 421,800 t, down 6,625 t; Tin 5,590 t, down 205 t.
+
+---
+
+### 2026-08-10 16:18:07  #公司
+
+【小牛電動二季度營收14.4億元，AI賦能力推中國市場銷量增26%】8月10日，小牛電動（NASDAQ: NIU）釋出2026年第二季度財報。報告期內，公司實現營業收入14.404億元人民幣；整車銷量達434,687輛，同比增長24.2%。其中中國市場表現尤為突出，整車銷量同比增長26.2%至402,202輛。小牛電動預計2026年第三季度營業收入在18.63億元至20.33億元之間，對應同比增長10%至20%。截至2026年6月30日，小牛電動國內門店數量達4,570家。
+
+---
+
+### 2026-08-10 16:17:43  #其他
+
+歐足聯、亞足聯、中北美及加勒比海足聯釋出聯合宣告稱，國際足聯主席因凡蒂諾在世界盃權益出售提案中“透過欺騙行為”破壞了信任。
+
+---
+
+### 2026-08-10 16:17:41  #MKT News
+
+Russian central bank advised creditors to support entrepreneurs affected by terrorist attacks.
+
+---
+
+### 2026-08-10 16:17:37  #央行 #國際
+
+俄羅斯央行表示，已建議債權人對受恐怖襲擊影響的企業提供支援。
+
+---
+
+### 2026-08-10 16:17:16  #MKT News
+
+UEFA, the Asian Football Confederation and CONCACAF issued a joint statement accusing FIFA president Gianni Infantino of betraying their trust "through deception" in a proposal to sell World Cup shares.
+
+---
+
+### 2026-08-10 16:17:03  #其他
+
+【兩部門：煤層氣勘探開發】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中《煤層氣（煤礦瓦斯）開發利用方案》提到兩個重點任務：
+（一）煤層氣勘探開發
+1.推動沁水盆地煤層氣產業基地穩產增產
+實施晉城礦區、鄭莊、潘莊等在產區塊老區綜合治理，開展滾動評價和縱向挖潛，加密佈置新井，推進精細開發，穩定煤層氣產量。加快沁南、馬必東、馬必合作、柿莊北等區塊開發建設，推動煤層氣產量較快提升。加大和順橫嶺、法中、中峪、和順馬坊東等區塊勘探力度，擴大增產空間。
+2.推進鄂爾多斯盆地東部煤層氣產業基地快速上產
+聚焦深層煤層氣資源，加快大寧—吉縣、米脂北、神府、石樓西、臨興中、大牛地、宜川、佳縣、延川南等區塊有利區資源動用，大力推進新增產能建設。積極開展三交北、臨興西、臨興東、安河—南河溝、石樓北、柳林石西、綏德等區塊初步建產和試驗試採，儘快形成有效產能。推動保德、三交—磧口、柳林、韓城等區塊產量穩中有升。
+3.加快新疆煤層氣產業化發展
+創新央企與地方合作模式，堅持中淺層、深層統籌謀劃，推動塔里木盆地庫拜區域煤層氣資源高效開發。紮實做好準噶爾盆地阜康等區塊擴邊勘探開發，力爭取得新發現；加快準噶爾盆地沙灣—齊古、和什托洛蓋—烏倫古、伊犁盆地尼勒克、三塘湖盆地淖毛湖等區域煤層氣資源勘查，科學實施有利區資源評價和試驗試採。
+4.積極拓展其他資源開發區域
+加大黔西盆地、四川盆地試驗開發，擴大勘探開發規模；推進南華北盆地、松遼盆地、海拉爾盆地、二連盆地、渤海灣盆地等區域煤層氣資源勘查，爭取獲得新探明資源。
+
+---
+
+### 2026-08-10 16:16:16  #MKT News #Market Regions #Greater China
+
+【China Index Academy: Local SOE-backed long-term rental apartment openings steady with modest increase】China Index Academy’s July 2026 housing rental enterprise scale ranking shows TOP30 centralized long-term rental apartment operators had 1.471 mln opened units in July, up 23,000 MoM. Local state-owned enterprise–backed chains’ share within the TOP30 rose to 30%. Graduation-season leasing demand widened the MoM increase in 50-city average residential rents in July.
+
+---
+
+### 2026-08-10 16:15:28  #其他
+
+【中指研究院：地方國企系長租公寓開業規模穩中有增】中指研究院最新發布《2026年7月中國住房租賃企業規模排行榜》，據中指研究院統計，2026年7月，TOP30集中式長租公寓企業累計開業房源量為147.1萬間，較6月增加2.3萬間；具體來看，地方國企系開業規模穩中有增，在TOP30中的規模佔比提升至30%。市場執行方面，受畢業季租賃需求持續釋放影響，2026年7月50城住宅平均租金環比漲幅有所擴大。
+
+---
+
+### 2026-08-10 16:14:56  #公司
+
+【招商港口：2025年度第二期超短期融資券到期兌付20億元】招商港口公告稱，公司2025年11月12日發行的2025年度第二期超短期融資券（“25招商局港SCP002”），發行規模20億元，期限267天，票面利率1.58%。該融資券已於2026年8月7日到期，公司已在到期日兌付本息。
+
+---
+
+### 2026-08-10 16:14:33  #國際
+
+馬來西亞總理醫療團隊表示，總理目前正在醫學專家的監督下接受物理治療。
+
+---
+
+### 2026-08-10 16:13:47  #國際
+
+馬來西亞總理醫療團隊表示：總理安瓦爾已成功完成擇期腹腔鏡手術，治療臍旁疝。
+
+---
+
+### 2026-08-10 16:13:20  #其他
+
+【兩部門：有序拓展煤炭原料化利用】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，強化煤種分類管理，因地制宜推進煉焦煤、富油煤等分質利用，推動煤炭向燃料和原料並重轉變。科學規劃煤制油氣產能和佈局，有序推進內蒙古鄂爾多斯、陝西榆林、新疆準東、新疆哈密等煤制油氣戰略基地建設，加強煤制油氣產能和技術儲備。推進煤制芳烴、煤基生物可降解材料等實現產業化突破。
+
+---
+
+### 2026-08-10 16:12:54  #其他
+
+【兩部門：加強煤層氣（煤礦瓦斯）規模化開發利用】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，鞏固拓展沁水盆地、鄂爾多斯盆地東部兩大煤層氣產業基地建設成效，實施重點區域煤層氣增儲上產工作方案，穩定淺層、中層成熟區塊產量，推動深層煤層氣區塊快速上產。推廣煤礦瓦斯井上下聯合抽採，加大地面預抽力度，提高井下抽採瓦斯濃度和穩定性。加強瓦斯全濃度利用，因地制宜發展發電、供熱等利用方式。穩步推進煤炭行業甲烷控排。
+
+---
+
+### 2026-08-10 16:12:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #Hang Seng Index
+
+【Hong Kong close: Hang Seng up 1.05%; livestock, precious metals lead】Hong Kong stocks closed higher. Hang Seng Index +1.05% at 25,937.49; Hang Seng Tech Index +1.26% at 4,919.46. Market turnover HKD 240.3 bln, down from HKD 259.7 bln on prior session. Precious metals and livestock sectors led gains; coal also strong. Innovative-drug names spiked then retreated; new-consumer stocks firmed in the afternoon. Compute-hardware, optical-communications and storage sectors underperformed. Selected movers: 06181.HK +12.39%, 06885.HK +20.00%, 02714.HK +5.18%, 02259.HK +5.03%, 02359.HK +2.96%; 03308.HK -6.94%, 03986.HK -5.11%.
+
+---
+
+### 2026-08-10 16:12:31  #其他
+
+【8月11日傍晚至13日白天 北京局地將有大暴雨特大暴雨】8月10日上午，北京市氣象臺釋出暴雨橙色預警訊號，房山、大興、通州、門頭溝、懷柔、豐臺、經開區已釋出暴雨紅色預警訊號。北京全市擬於11日上午啟動防汛二級應急響應。北京市氣象臺預報員介紹，根據最新資料研判，受“白海豚”外圍偏南水汽輸送和高空槽冷空氣共同影響，北京地區11日傍晚至13日白天將有一次明顯的降雨過程，最強降雨時段為12日凌晨至夜間。預計本次累計降雨量將達到暴雨，其中，南部、西部北部山區將達到大暴雨，房山、大興、通州、門頭溝部分地區將達到特大暴雨。（央視新聞）
+
+---
+
+### 2026-08-10 16:12:24  #Trading Economics #Economy #Bulgaria #Construction Output #Importance 1
+
+Bulgaria Construction Output Growth Picks Up in June — Construction output in Bulgaria rose 4.4% year-on-year in June 2026, following a downwardly revised 4% gain in the previous month, which marked the weakest growth since January. Growth in building construction picked up (11.9% vs 9.6% in May), while it remained steady for civil engineering (at 3.6%). On a seasonally adjusted monthly basis, construction output increased 0.9%.
+
+---
+
+### 2026-08-10 16:11:31  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Firms at Over 3-Week High — The euro remained above $1.155, close to a three-week high, as investors weighed mixed signals from the US and Iran over the prospects for reopening the Strait of Hormuz. Iran’s Foreign Minister said an agreement with Oman to establish a shipping route through the strait was “very close,” but cautioned that it would not immediately restore shipping flows. Meanwhile, the Euro Area outlook has improved, with recent economic resilience prompting analysts to become more optimistic about growth. Second estimates later this week are expected to confirm the Eurozone economy expanded by 0.4% in Q2, the most since early 2025. Looking ahead, growth is projected to moderate in the near term before gradually gaining momentum. On the monetary policy front, the European Central Bank left interest rates unchanged in July following a 25bps increase in June, its first hike in three years, while expectations of a near-term Federal Reserve rate hike eased following weaker-than-expected employment data.
+
+---
+
+### 2026-08-10 16:11:21  #MKT News #Market Regions #Greater China #HSI #Impact bullish #HSTECH #HSCEI
+
+Hong Kong's Hang Seng Index (HSI) closed up 269.46 points (+1.05%) at 25,937.49 on Monday, Aug. 10. The Hang Seng Tech Index closed up 61.17 points (+1.26%) at 4,919.46. The Hang Seng China Enterprises Index (HSCEI) closed up 90.26 points (+1.06%) at 8,621.84, and the Hang Seng Red Chip Index closed up 21.84 points (+0.53%) at 4,142.85.
+
+---
+
+### 2026-08-10 16:10:51  #其他
+
+【兩部門：積極推動煤炭清潔替代】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，以碳達峰碳中和為牽引，在保障能源安全供應前提下，推動煤炭消費順利達峰。推進煤炭消費轉型升級，重點保障國家重大戰略、重大專案等用煤需要，有效滿足電煤合理增量需求。加快推進重點用煤行業節能降耗，推動燃煤鍋爐、工業窯爐關停整合或清潔能源替代，加快推廣餘熱餘壓供暖，推廣可再生能源供熱供暖。提升煤炭集中化利用水平，壓減散煤使用。推動原料燃料用煤替代減量，在鋼鐵、建材等行業推廣電鋼爐、電鍋爐、電窯爐、電加熱等技術，提升電力替代燃煤比例。
+
+---
+
+### 2026-08-10 16:10:33  #其他
+
+【ALO入華首日成績單：官宣入駐天貓6小時，僅售出2筆預售訂單】今日，淘寶官方賬號發文表示：“今天，我們迎來一位新夥伴：ALO。ALO天貓官方旗艦店即日開啟預售，8月12日正式開業。作為ALO在中國的獨家官方電商平臺，天貓將與品牌全球同步上新，首批商品涵蓋明星同款系列、爆款單品ALO SUNSET德訓鞋等。”據瞭解，這也是ALO進入中國市場後正式開業售賣的第一家官方店鋪，也是其在中國內地唯一的官方電商渠道。值得關注的是，自今日上午10時淘寶官方賬號發文官宣以來，截至發稿已過去6小時，但ALO此次上線的約320件單品僅錄得2筆預售訂單，且均為消費者支付的定金訂單，尾款支付視窗將於8月12日00:30開啟。（貴圈）
+
+---
+
+### 2026-08-10 16:10:32  #其他
+
+【兩部門：加快實施煤電轉型升級】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，持續推進新一代煤電升級專項行動，積極有序推進現役及新建機組實施新一代煤電改造建設。大力推動煤電節能降碳改造，推廣高效燃燒、餘熱利用、智慧調控等技術，加快風機、熱泵、鍋爐、汽輪機、變壓器等用能裝置更新升級。推動現役煤電機組透過耦合新能源、摻燒生物質、建設儲能（儲熱）設施等方式實施低碳化改造，降低煤電機組碳排放水平。鼓勵煤電與新能源融合發展，實現新能源和煤電優勢互補。
+
+---
+
+### 2026-08-10 16:10:22  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
+
+【CHINA STATE PLANNER, National Energy Administration push AI+ in coal sector; mandate coal AI data aggregation】CHINA STATE PLANNER and the National Energy Administration released the coal industry's 15th Five-Year Plan, directing an accelerated rollout of AI+ across the coal sector. The plan mandates strengthened aggregation of coal-sector AI data and systematic AI deployment in exploration and design, construction and production, operations and maintenance, and safety management. It calls for fast-tracked R&D and deployment of coal-specific large models, targeting breakthroughs in intelligent sensing, autonomous decision-making and intelligent control. Authorities will build AI-integrated pilot mines to raise safety standards, accelerate intelligent retrofits of disaster-prone and major-accident mines, and promote robotic replacement of hazardous, high-risk roles.
+
+---
+
+### 2026-08-10 16:10:07  #其他
+
+【兩部門：加強煤礦職業健康防護】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，完善煤礦職業病危害防治體系，圍繞煤礦企業重點環節、重點崗位、重點人員，加強職業健康危害源頭防控，全面落實職業健康監護制度。推動企業落實粉塵防治主體責任，改善煤礦作業環境，建立完善職工職業健康檔案，保障職工工傷保險待遇，健全職業健康管理機構與制度體系，切實維護煤礦從業人員安全健康權益。
+
+---
+
+### 2026-08-10 16:09:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Rises by 2.66% — Top commodity gainers are Oat (2.66%), Wheat (2.36%) and Palm Oil (0.77%). Biggest losers are Sugar (-0.55%) and Rapeseed (-0.55%).
+
+---
+
+### 2026-08-10 16:09:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry spokesman said Iran is prepared to step up its capabilities at any time to respond to any eventuality.
+
+---
+
+### 2026-08-10 16:09:48  #其他
+
+【兩部門：深化煤礦重大災害防治】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，強化煤礦隱蔽致災因素動態普查，實施重大災害專項設計、分割槽治理、超前管控，提高安全生產風險防範水平。深入推進重大災害治理，加快淘汰高風險技術工藝和落後技術裝備，推廣應用智慧化防控與先進治災技術，加強露天煤礦邊坡穩定性監測與滑坡防治，增強源頭防控能力。開展煤礦衝擊地壓機理研究，健全完善衝擊地壓防治技術體系。推動多災種協同治理，全面提升重大災害防治能力。
+
+---
+
+### 2026-08-10 16:09:35  #MKT News #Commodities #Energy
+
+【CHINA STATE PLANNER, National Energy Administration roll out coal industry 15th Five-Year plan — orderly release of advanced capacity】CHINA STATE PLANNER and the National Energy Administration issued the Coal Industry 15th Five-Year Plan, directing stronger measures to stabilise coal production and supply, optimise production organisation and orderly release advanced capacity. The plan calls for studying a coordinated-production mechanism among key coal provinces to smooth market functioning, strengthening supply-demand monitoring and production dispatch, and enforcing signing and performance of mid-to-long-term power-coal contracts. It mandates enhanced regional mutual aid and multi-energy complementarity to raise peak summer and winter supply capacity, stabilise supply in the Two Lakes and One River region, the Northeast and the Southwest, deepen supply‑demand linkages and strategic cooperation between producing and consuming areas, optimise coal reserve-base layout, lift power-plant coal stocks and prioritise household coal needs.
+
+---
+
+### 2026-08-10 16:09:27  #其他
+
+市場訊息：萊茵金屬與波音將就戰鬥機能力問題開展合作。萊茵金屬將在德國建立MQ-28飛機獨立系統整合中心，可立即開展國家層面的能力研發、測試和整合工作。
+
+---
+
+### 2026-08-10 16:09:20  #公司
+
+【永茂泰：擬以1.5億元-3億元回購公司股份】永茂泰公告，擬以1.5億元-3億元回購公司股份，回購價格不超過22.8元/股。回購股份的用途為維護公司價值及股東權益，將在披露回購結果暨股份變動公告12個月後採用集中競價交易方式全部出售。回購資金來源為公司自有資金和自籌資金，其中公司已取得中國銀行上海長三角一體化示範區分行不超過2.7億元的貸款承諾函。回購期限為董事會審議透過之日起3個月。
+
+---
+
+### 2026-08-10 16:09:08  #其他
+
+【河南省濮陽市人大常委會原副主任馬宜品被開除黨籍】中央紀委國家監委網站8月10日通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對濮陽市人大常委會原副主任馬宜品嚴重違紀違法問題進行了立案審查調查。經查，馬宜品喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品；違背組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題，利用職權為他人謀取人事利益；廉潔底線失守，透過民間借貸獲取大額回報，違規從事營利活動，違規使用商人車輛；喪失紀法底線，大搞權錢交易，利用職務便利為他人在企業改制、專案建設等方面謀取利益，非法收受鉅額財物。馬宜品嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄、鉅額財產來源不明犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議研究並報中共河南省委批准，決定給予馬宜品開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
+
+---
+
+### 2026-08-10 16:09:04  #國際
+
+【伊朗：已收到巴基斯坦對伊朗外長阿拉格齊和伊朗議會議長卡利巴夫的邀請】伊朗外交部發言人：作為關係密切且不斷發展的兩個鄰國，伊朗與巴基斯坦之間的互訪和會晤是完全自然的事情。就此，近日，伊朗工業、科學和內政部長已赴巴基斯坦，就各項專業議題進行了磋商。已收到巴基斯坦對伊朗外長阿拉格齊和伊朗議會議長卡利巴夫的邀請，訪問將在適當的時候進行。德黑蘭與伊斯蘭堡之間的雙邊關係，特別是在近幾個月來，變得越來越重要，這些互訪是兩國鄰邦關係不斷發展過程中自然而然的一部分。
+
+---
+
+### 2026-08-10 16:09:03  #市場 #焦點
+
+【港股收盤：恒生指數漲1.050%，恒生科技指數漲1.259%】老鋪黃金漲12.614%，周大福漲6.628%，翰森製藥漲5.103%，農夫山泉漲4.823%，申洲國際漲4.065%，康師傅控股漲3.625%，吉利汽車漲3.420%。
+
+---
+
+### 2026-08-10 16:08:53  #MKT News #RHM.DE #Impact bullish
+
+Market sources: Rheinmetall will establish an independent MQ-28 systems-integration center in Germany, enabling immediate national-level capability R&D, testing and integration.
+
+---
+
+### 2026-08-10 16:08:47  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #02714.HK
+
+Hong Kong stocks closed higher. Hang Seng Index rose 1.05% and the Hang Seng TECH Index gained 1.26%. Livestock/breeding sector led gains; Muyuan Foods (02714.HK) advanced 5.18%.
+
+---
+
+### 2026-08-10 16:08:33  #MKT News #Important #Commodities #Energy
+
+【China State Planner, National Energy Administration push orderly exit of backward coal capacity under 15th Five-Year Plan】China State Planner and the National Energy Administration issued the 15th Five-Year Plan for coal industry development, calling for accelerated structural upgrades and orderly withdrawal of backward and inefficient coal capacity. The agencies require an establish-before-shutdown approach, coordinating mine closures with regional supply security and implementing exits under market-based, rule-of-law principles. Regional measures: western China to optimize production and speed removal of mines with outdated technology or overlapping ecologically sensitive areas; east-central China to prudently withdraw disaster-prone mines that cannot be effectively remediated and exhausted deposits while addressing legacy liabilities and worker resettlement; southwest and northeast to set region-specific standards to steer small, low-resource, low-safety mines out and use policy guidance and market measures to ensure long-term suspended or halted mines are exited.
+
+---
+
+### 2026-08-10 16:08:26  #其他
+
+【兩部門：積極開展國際交流合作】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，充分利用國際國內兩個市場、兩種資源，鞏固完善進口通道格局。加強國際煤炭生產及貿易趨勢研究。擴大技術諮詢服務貿易。搭建國際合作交流平臺，分享煤炭綠色低碳轉型經驗
+
+---
+
+### 2026-08-10 16:08:24  #其他
+
+【寧夏回族自治區第十一屆人大常委會原委員張志敏接受審查調查】中央紀委國家監委網站8月10日通報，據寧夏回族自治區紀委監委訊息：寧夏回族自治區第十一屆人大常委會原委員張志敏涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-10 16:08:15  #其他
+
+【兩部門：促進煤炭企業改革發展】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，深化煤炭行業國資國企改革。支援煤炭企業發揮自身優勢，與電力、新能源、化工等企業重組整合，培育戰略性新興產業和未來產業，建設一流綜合能源生產服務商。支援民營企業公平參與煤炭資源開發，規範開展股權合作與資源整合。深入推進行業精神文明建設，打造特色文化品牌，豐富職工精神文化生活。
+
+---
+
+### 2026-08-10 16:08:01  #其他
+
+【國家發展改革委 國家能源局有關負責同志就《煤炭工業發展“十五五”規劃》答記者問】問：《規劃》將《煤層氣（煤礦瓦斯）開發利用方案》作為附件一併印發，請介紹一下“十五五”時期煤層氣（煤礦瓦斯）開發利用的總體考慮？
+
+答：開發利用煤層氣（煤礦瓦斯）具有保障煤礦安全生產、增加清潔能源供應、減少溫室氣體排放等多重效益。為加快推進煤層氣勘探開發、煤礦瓦斯抽採利用，按照既往工作慣例，專門編制《煤層氣（煤礦瓦斯）開發利用方案》（以下簡稱《方案》）作為規劃附件。《方案》統籌能源安全穩定供應和綠色低碳轉型，大力推動煤層氣產業基地增產提效，持續深化煤礦瓦斯治理方式創新，積極構建瓦斯利用與甲烷控排協同推進局面，為煤炭高質量發展提供有力支撐，助力新型能源體系建設和能源強國目標實現。《方案》提出，到2030年，煤層氣產量260億立方米，瓦斯利用量65億立方米。
+
+《方案》提出四個方面重點任務。在煤層氣勘探開發方面，推動沁水盆地煤層氣產業基地穩產增產，推進鄂爾多斯盆地東部煤層氣產業基地快速上產，加快新疆煤層氣產業化發展，積極拓展其他資源開發區域。在煤礦瓦斯抽採利用方面，深化煤炭與煤礦瓦斯共採，強化煤礦瓦斯全濃度利用，穩步推進煤炭行業甲烷控排。在產業科技創新方面，加強煤層氣勘探開發技術攻關，加快煤礦瓦斯抽採利用技術攻關，完善科技創新協同推進機制。在煤層氣外輸管網建設方面，銜接天然氣“全國一張網”規劃佈局，統籌規劃建設各區域煤層氣輸氣管網。
+
+---
+
+### 2026-08-10 16:07:57  #宏觀 #公司
+
+【兩部門：健全行業管理制度體系】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，積極推進煤炭法修訂，完善煤炭行業標準（MT）體系。強化煤炭礦區總體規劃管理，嚴格落實礦區總體規劃確定的開發方案，提高資源集約高效開發水平。加強產能“一本賬”管理，適時調整完善產能置換政策，強化產能登記公告管理，促進建設生產平穩有序。強化煤礦關閉退出計劃管理，引導企業平穩轉型，穩妥做好人員安置、債務處置、生態修復等工作。健全煤炭產供儲銷統計體系，強化能源、安監、稅務等部門資訊共享和協同監管，加強煤炭生產監督管理，嚴厲打擊煤礦超產行為，規範煤炭市場秩序。研究出臺規範煤炭產能管理長效機制。健全完善行業教育培訓體系，加強專業技術人才培養，提升從業人員能力素質。
+
+---
+
+### 2026-08-10 16:07:50  #其他
+
+【國家發展改革委 國家能源局有關負責同志就《煤炭工業發展“十五五”規劃》答記者問】問：《規劃》部署了哪些重點任務？
+
+答：《規劃》統籌能源安全與綠色轉型，聚焦建設現代煤炭產業體系這一主線，提出九個方面重點任務。一是最佳化煤炭開發空間佈局。鞏固最佳化東中西梯級開發格局，有序推進接續產能建設，協調推動重點區域資源開發，完善煤炭跨區調運格局。二是加快煤炭產業結構最佳化升級。提高資源開發准入標準，積極發展優質先進產能，推動落後無效產能退出，穩慎推進深部資源開採。三是加強煤炭產供儲銷體系建設。持續加強穩產穩供，最佳化完善煤炭運輸體系，加快儲備能力建設，提升應急保障水平。四是推動煤礦智慧化迭代升級。分類分級縱深推進智慧化建設，加快人工智慧場景化應用，提升煤礦智慧化執行效能。五是加快煤炭綠色低碳轉型。提高資源綠色開採水平，強化全過程節能降碳，加強煤層氣（煤礦瓦斯）規模化開發利用，促進煤炭與新能源融合發展。六是加強煤炭清潔高效利用。積極推動煤炭清潔替代，大力提升商品煤質量，加快實施煤電轉型升級，有序拓展煤炭原料化利用。七是增強煤炭科技創新能力。加強產業應用基礎研究，推動先進技術裝備研發應用，完善煤炭科技創新體系。八是強化煤炭安全生產管理。夯實煤礦安全生產基礎，深化煤礦重大災害防治，加強煤礦職業健康防護。九是提升行業治理現代化水平。持續推進現代煤炭市場建設，健全行業管理制度體系，促進煤炭企業改革發展，積極開展國際交流合作。
+
+同時，《規劃》注重發揮“三個重大”牽引帶動作用，部署了煤炭供應保障基地建設、煤礦智慧化建設迭代升級、煤炭與新能源融合發展、商品煤質量提升、煤炭技術裝備創新等5方面重大工程，作為推動規劃落地實施的重要載體和有效舉措；提出強化煤炭礦區總體規劃管理、加強產能“一本賬”管理、完善煤炭行業標準體系、完善煤炭價格區間調控政策等多項重大政策和重大改革，有力支撐規劃目標實現。
+
+---
+
+### 2026-08-10 16:07:42  #行業 #其他 #焦點
+
+【兩部門：持續推進現代煤炭市場建設】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，積極發展全國統一煤炭交易市場，完善基礎制度和規則，健全資訊共享機制，進一步發揮全國煤炭交易中心作用。完善電煤保供中長期合同制度，推進煤炭交易合同規範化標準化，加強合同簽約履約監管。健全煤炭市場價格形成機制，結合市場形勢和成本變化適時完善煤炭價格區間調控政策，規範價格指數行為。
+
+---
+
+### 2026-08-10 16:07:20  #MKT News #Commodities #Energy
+
+【China State Planner, National Energy Administration: New coal-mine capacity must strictly follow capacity replacement policy】China State Planner and the National Energy Administration issued the coal industry '15th Five-Year' plan requiring orderly continuation of replacement-capacity construction, stepped-up resource exploration and reserve upgrades to secure coal continuity. They tighten total capacity control, aligning new capacity with resource potential and regional supply–demand balance, and confine new builds mainly to five major supply bases while prioritizing upstream–downstream integrated projects and cross-regional supply-security schemes. During the '15th Five-Year' period, new capacity must be entered into the central capacity ledger before implementation; all types of coal mines must strictly comply with the capacity replacement policy.
+
+---
+
+### 2026-08-10 16:07:16  #MKT News #BA.N #RHM.DE
+
+Rheinmetall and Boeing will cooperate on fighter capability issues, market sources say.
+
+---
+
+### 2026-08-10 16:07:12  #MKT News
+
+【Ukraine may face severe grain-storage shortfall this autumn】Ukraine's agriculture ministry said on Monday that with Black Sea port exports effectively stalled, the country may face a severe grain storage shortfall this autumn. Black Sea ports previously handled about 90% of Ukraine's grain export shipments. The ministry estimated the storage gap could reach 11 mln t and has asked the US for help procuring equipment for temporary on-farm grain storage.
 
 ---
 
@@ -17141,474 +17434,5 @@ Cook's lawyer said they will challenge the latest pretext and defend Cook's posi
 ### 2026-08-08 01:09:59  #MKT News
 
 The lawyer for Fed Governor Cook said there is no valid basis to remove him from office.
-
----
-
-### 2026-08-08 01:03:56  #其他
-
-葉門胡塞武裝稱，其襲擊了馬裡卜境內受沙特支援的部隊、彈藥庫及軍事裝備。
-
----
-
-### 2026-08-08 01:03:48  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Houthi armed group said its forces will respond to any escalation with escalation and vowed to strike any Saudi forces mobilized to continue the blockade.
-
----
-
-### 2026-08-08 01:03:25  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Houthi movement said Yemen’s armed forces struck Saudi forces massing and hit ammunition depots, vehicles and military equipment at the Saḥn al-Jinn camp.
-
----
-
-### 2026-08-08 01:02:19  #其他
-
-市場訊息：法律人工智慧初創企業 Harvey 正在洽談融資，擬至少募資 5 億美元，含本輪投資在內估值達 155 億美元。
-
----
-
-### 2026-08-08 01:01:45  #MKT News #Commodities #Energy
-
-US gas-directed rig count was 124 in the week to Aug. 7, down from 127 the prior week.
-
----
-
-### 2026-08-08 01:01:38  #MKT News #Commodities #Energy
-
-US total rig count for the week to Aug. 7: 588, unchanged from the previous week.
-
----
-
-### 2026-08-08 01:01:38  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Natural Gas Rig Count (Aug.7) | actual 124 | previous 127
-
----
-
-### 2026-08-08 01:01:33  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. oil rig count rose to 454 in the week to Aug. 7 from 451 a week earlier.
-
----
-
-### 2026-08-08 01:01:31  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Rig Count (Aug.7) | actual 588 | previous 588
-
----
-
-### 2026-08-08 01:01:26  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Oil Rig Count (Aug.7) | actual 454 | previous 451
-
----
-
-### 2026-08-08 01:01:21  #國際
-
-美國8月7日當週總鑽井數 588，前值 588。
-美國8月7日當週天然氣鑽井數 124，前值 127。
-
----
-
-### 2026-08-08 01:01:14  #國際
-
-美國8月7日當週石油鑽井數 454，前值 451。
-
----
-
-### 2026-08-08 01:01:07  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-【US media: Trump moves to remove Fed Governor Cook, formally opens proceedings citing "serious dereliction"】ABC News reported sources say President Trump is pushing to remove Federal Reserve Governor Lisa Cook. The White House this week sent Cook a letter saying Trump is "considering" removing her and asked her to respond within three weeks. The move follows a June Supreme Court ruling that upheld limits on presidential removal of Fed members. After the ruling Trump said he would "immediately take appropriate action" to remove Cook; this week he formally opened removal proceedings, citing mortgage‑fraud allegations not yet tried in court and alleging "serious dereliction." The letter was signed by White House deputy chief of staff Dan Scavino, who said even if the allegations do not amount to crimes her conduct constitutes dereliction. Cook's lawyer Lowell said the allegations are baseless and they will challenge this latest pretext.
-
----
-
-### 2026-08-08 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌1.11%，滬銅收跌0.80%，滬鋁收跌0.13%，滬鋅收跌1.54%，滬鉛收跌0.29%，滬鎳收漲0.52%，滬錫收跌1.51%。氧化鋁夜盤收跌0.04%，鋁合金收跌0.09%。不鏽鋼夜盤收漲0.21%。
-
----
-
-### 2026-08-08 00:58:16  #國際
-
-美國參議院絕大多數議員支援由已故參議員格雷厄姆牽頭的對俄全面能源制裁法案，投票仍在進行。
-
----
-
-### 2026-08-08 00:57:28  #Trading Economics #Economy #Seychelles #Inflation Rate #Importance 0
-
-Seychelles Annual Inflation Accelerates in July — The annual inflation rate in Seychelles rose to 0.78% in July 2026, accelerating from 0.43% in the prior month and reaching its highest level since January 2025. Fish prices rose 4.87%, easing from 5.62% in the prior month, while other food products' inflation rose to 0.14% from 0.09%, driven by higher prices in oil and fats (5.47%), vegetabels (2.84%) and non-alcoholic beverages (2.7%). Meanwhile, non-food inflation accelerated to 0.81% from 0.4%, driven by higher prices in alcoholic beverages (4.17%), restaurants and hotels (3.43%), education (2.49%) and transport (2.48%), while prices declined for health (-3.18%), recreation and culture (-2.92%), clothing and footwear (-2.61%) and tobacco (-0.57%). On a monthly basis, consumer prices rose 0.52%, accelerating from 0.07% in the prior month.
-
----
-
-### 2026-08-08 00:57:06  #國際
-
-美國參議院正在就俄羅斯制裁法案進行表決。
-
----
-
-### 2026-08-08 00:56:30  #國際
-
-俄羅斯制裁法案有望在參議院獲得透過。
-
----
-
-### 2026-08-08 00:56:10  #國際
-
-市場訊息：黎巴嫩、以色列敲定可派遣部隊核實真主黨解除武裝事宜的候選國家短名單。
-
----
-
-### 2026-08-08 00:55:54  #MKT News
-
-The Information reports legal-AI startup Harvey is in talks to raise financing at a $15.5 billion valuation.
-
----
-
-### 2026-08-08 00:55:33  #MKT News
-
-Market sources: Lebanon and Israel have agreed on a candidate list of countries that could deploy forces to monitor Hezbollah's disarmament.
-
----
-
-### 2026-08-08 00:55:16  #MKT News
-
-Trump said two federal appeals court judges appointed by Obama and Biden voted against an urgently needed military center, calling the ruling a serious abuse of discretion and saying the center is necessary for Washington, D.C., and U.S. national security.
-
----
-
-### 2026-08-08 00:50:58  #MKT News
-
-President Trump said the U.S. will immediately file an appeal with the U.S. Supreme Court.
-
----
-
-### 2026-08-08 00:50:56  #MKT News
-
-President Trump said the court ruling on the ballroom project must be overturned in full by the Supreme Court.
-
----
-
-### 2026-08-08 00:50:52  #國際
-
-特朗普：最高法院必須徹底推翻法院就宴會廳案作出的裁決。 我們將立即向美國最高法院提起上訴。
-
----
-
-### 2026-08-08 00:50:08  #MKT News #Important #WTI
-
-U.S. oil rig count for the week to Aug. 7 due in 10 minutes.
-
----
-
-### 2026-08-08 00:50:00  #公司 #國際
-
-美國證券交易委員會檔案：貝萊德公司截至 6 月 30 日持有SpaceX 5100 萬股 A 類普通股。
-
----
-
-### 2026-08-08 00:49:31  #MKT News #Important #Market Themes #The Trump Trade
-
-ABC News reports Trump, after a setback at the Supreme Court, is continuing efforts to remove Federal Reserve governor Lisa Cook.
-
----
-
-### 2026-08-08 00:48:51  #央行 #國際
-
-市場訊息：特朗普繼續推進解僱美聯儲理事麗莎·庫克的計劃。
-
----
-
-### 2026-08-08 00:48:27  #MKT News #SPCX.O
-
-According to SEC filings, BlackRock (BLK.N) disclosed it held 51 million Class A common shares of SpaceX (SPCX.O) as of June 30.
-
----
-
-### 2026-08-08 00:48:05  #MKT News
-
-Iraq's prime minister said the country will not allow its territory to be used for actions against other countries, the prime minister's office said.
-
----
-
-### 2026-08-08 00:47:54  #其他
-
-伊拉克總理辦公室：伊拉克總理表示，不允許本國領土被用於針對他國的行動。
-
----
-
-### 2026-08-08 00:47:08  #MKT News
-
-Iraq's prime minister met with the head of Saudi intelligence to discuss coordination on developments in regional security.
-
----
-
-### 2026-08-08 00:46:53  #MKT News #Brent #Impact bullish #WTI
-
-【Yemen navy says it thwarted attempted attack on oil tanker in Red Sea】Yemen’s navy said it foiled an attempt to attack an oil tanker in the Red Sea using a boat laden with explosives, Al Jazeera reported. Naval patrols found the vessel near the Mocha power plant that evening and, according to military-linked media, took “necessary measures”; the explosive boat detonated before reaching the tanker. The navy blamed the Houthi movement for the incident.
-
----
-
-### 2026-08-08 00:46:36  #其他
-
-伊拉克總理接見沙烏地阿拉伯總情報局局長，雙方就地區安全域性勢的協同事宜展開磋商。
-
----
-
-### 2026-08-08 00:45:22  #MKT News
-
-Lebanon's president said he is preparing an economic conference to be held in Washington.
-
----
-
-### 2026-08-08 00:44:20  #公司
-
-秘魯經濟部長表示，在秘魯國家石油公司近期董事會重組後，不會對該國企推行私有化。
-
----
-
-### 2026-08-08 00:44:19  #MKT News
-
-Peru's economy minister ruled out privatizing state-owned oil company Petroperú after a recent board reshuffle.
-
----
-
-### 2026-08-08 00:44:11  #MKT News
-
-Lebanon's president said private discussions with Trump were constructive, with Trump expressing understanding of Lebanon's situation and opening many doors. He said the talks have already resulted in the lifting of U.S. restrictions on American carriers operating flights to Lebanon.
-
----
-
-### 2026-08-08 00:41:51  #MKT News
-
-OpenAI will provide recommended safety controls to third-party testing partners to ensure higher-risk evaluations and workloads can run safely.
-
----
-
-### 2026-08-08 00:41:44  #MKT News
-
-OpenAI is implementing tighter safety controls for higher-capability models and related activities, including use of isolated testing environments.
-
----
-
-### 2026-08-08 00:41:29  #其他
-
-OpenAI：將與相關政府機構及精選人工智慧安全機構合作，對 Astra 的各項能力開展測試。
-
----
-
-### 2026-08-08 00:40:23  #MKT News
-
-Iranian foreign ministry spokesman said that, so far, 'Iran's spoils' are nothing more than a paper trophy symbolizing a victory not yet achieved.
-
----
-
-### 2026-08-08 00:40:18  #MKT News
-
-Peru's economy minister said the government aims to cut the poverty rate to 15% within five years.
-
----
-
-### 2026-08-08 00:39:53  #其他
-
-秘魯經濟部長稱，政府目標是五年內將貧困率降至 15%。
-
----
-
-### 2026-08-08 00:39:52  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Iran foreign ministry spokesman said Trump vowed the US would apply to Iran the same approach used against Venezuela. He warned Washington cannot claim 'war spoils' without winning the war, and risks a stalemate, dwindling weapons stockpiles and loss of credibility if it fails to achieve its claimed (malicious) objectives.
-
----
-
-### 2026-08-08 00:39:21  #其他
-
-OpenAI：依據我方預備框架評估，目前無法排除 Astra 模型具備關鍵網路攻擊能力。
-
----
-
-### 2026-08-08 00:36:44  #其他
-
-OpenAI：已對 Astra 所有智慧代理應用中的風險行為與目標偏差實施全域監控。
-
----
-
-### 2026-08-08 00:36:18  #其他
-
-OpenAI：為高效能模型及相關業務落實更嚴格的安全管控，其中包括隔離測試環境。將向第三方測試合作方提供建議性安全管控措施，以安全開展高風險評估與相關任務。
-
----
-
-### 2026-08-08 00:35:53  #其他
-
-OpenAI ：Astra 是一款尚未釋出的模型，並未參與攻擊 Hugging Face。暫停 Astra 相關尚未滿足這些強化安全管控要求的內部活動。
-
----
-
-### 2026-08-08 00:33:57  #市場 #國際
-
-Blossomhill Therapeutics Inc.（BLSM）美國IPO首日開盤報15.75美元，此前給出的IPO發行價為每股16美元。
-
----
-
-### 2026-08-08 00:32:31  #其他
-
-市場訊息：OpenAI 以網路攻擊能力為由放緩 Astra 模型的釋出。
-
----
-
-### 2026-08-08 00:29:34  #其他
-
-伊拉克武裝部隊發言人表示，沙特尚未提供任何證據，用以佐證其關於伊拉克領土遭襲擊的相關說法。
-
----
-
-### 2026-08-08 00:29:07  #市場
-
-納斯達克100指數和標普500指數漲幅收窄。
-
----
-
-### 2026-08-08 00:28:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Bessent: Strait of Hormuz will lose importance】U.S. Treasury Secretary Bessent said the Strait of Hormuz will never return to its prior status because Iran has used it as a chokepoint. He expects the strait to gradually lose importance over the next two years and become a routine waterway, with more than 50%—possibly up to 70%—of energy now transported through it shifting to pipelines.
-
----
-
-### 2026-08-08 00:26:22  #國際
-
-美國財長貝森特：不存在所謂的自由貿易，我們追求的是公平貿易。歐盟對我方汽車徵收 10% 關稅，而我們對歐盟汽車僅徵收 3% 關稅。這何談公平？因此我們正在下調關稅，消除非關稅貿易壁壘，抵制補貼勞工現象，並把就業崗位帶回本國。
-
----
-
-### 2026-08-08 00:23:27  #MKT News #DXY #Impact bullish #WTI #Brent
-
-The U.S. State Department said the U.S. Treasury today took action to dismantle a network of money exchangers and shell companies that helped Iran secretly move hundreds of millions of dollars through the international financial system. The network funneled oil revenues to Tehran and used front companies to launder funds and evade sanctions aimed at curbing its destabilizing activities.
-
----
-
-### 2026-08-08 00:23:03  #國際
-
-美國財長貝森特談及霍爾木茲海峽：該海峽再也回不到過去的狀態，因為伊朗已經將其用作，或試圖將其用作咽喉要道。未來兩年我們將看到，這條海峽的重要性將會不復存在。它將僅僅成為一片普通水域。我認為，目前經由該海峽運輸的能源中，超過 50% 至 70% 將會轉由地下管道輸送。
-
----
-
-### 2026-08-08 00:22:07  #MKT News
-
-ZELENSKIY said he and his team have arrived in Serbia and will meet Serbian President Vucic and minister Juraj Matusek today and tomorrow to discuss expanding bilateral economic ties, relations with the EU and security affairs.
-
----
-
-### 2026-08-08 00:21:25  #MKT News
-
-Peru's new economy minister expects Peru's economy to grow 3.5% in 2026.
-
----
-
-### 2026-08-08 00:21:07  #國際
-
-烏克蘭總統澤連斯基： 我已攜團隊抵達塞爾維亞。今明兩日我們安排了重要會晤， 我們將探討擴大兩國經濟聯絡、對歐盟關係、其他惠及兩國人民的議題以及安全相關事務。
-
----
-
-### 2026-08-08 00:20:18  #其他
-
-秘魯新任經濟部長稱，預計該國 2026 年經濟增長 3.5%。
-
----
-
-### 2026-08-08 00:18:26  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close at Records — European stocks closed higher on Friday, tracking similar developments in major equity markets amid a rebound for industrial and tech stocks. The Euro STOXX 50 added 0.4% to 6,530 and the STOXX Europe 600 rose 0.4% to 661. Software producers and AI-related infrastructure manufacturers rose for a second session, tracking US counterparts with SAP gaining 4.1%, while Infineon and Siemens rose nearly 3% each. Meanwhile, Sanofi and Argenx each gained 1.3% to close a strong weak for the European pharmaceutical sector. On the other hand, Allianz fell 1.6% despite generating a record profit on both its insurance and asset management business in the second quarter. Likewise, Munich Re dropped 1.5% despite reporting higher profits in the period.
-
----
-
-### 2026-08-08 00:17:54  #MKT News #Market Themes #The Trump Trade #AAPL.O #AMZN.O #NKE.N
-
-Senator Warren (D) has pressed Apple (AAPL.O), Amazon (AMZN.O) and Nike (NKE.N) over refunds of tariffs collected under the Trump administration, urging in a letter that they refund tariff charges to consumers.
-
----
-
-### 2026-08-08 00:16:27  #其他
-
-沃倫在信函中敦促企業向消費者退還關稅款項。
-
----
-
-### 2026-08-08 00:15:06  #公司
-
-蘋果、亞馬遜、耐克遭沃倫參議員就關稅退款事宜問詢。
-
----
-
-### 2026-08-08 00:14:07  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Hits Record High — The CAC 40 edged up 0.2% to close at a record 8,715 on Friday, supported by better-than-expected trade data and gains in US technology stocks. France's trade deficit narrowed more than expected to €5.8 billion in June from €7.9 billion in May, as exports rose 2.6% month-on-month to €54.5 billion. Industrial stocks advanced, with Airbus up 0.5%, Safran adding 0.6%, and Sanofi gaining 1.3%. Technology shares also moved higher, with STMicroelectronics rising 3.2% and Schneider Electric advancing 1% amid sector gains on Wall Street. In contrast, luxury stocks mostly declined, with LVMH down 0.3% and Kering and L'Oréal both falling 1.1% as Middle East tensions weighed on risk appetite. TotalEnergies also slipped 0.6% amid volatile oil prices. Broader sectors were mixed as France's unemployment rate rose to 8.3% in Q2 2026 from 8.1% in the previous quarter, reaching its highest level since Q3 2020.
-
----
-
-### 2026-08-08 00:12:09  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.06% Higher — The FTSE MIB Index gained 34 points or 0.06 percent on Friday to close at 53717 points. Gains were led by STMicroelectronics (2.99%), Prysmian (1.73%) and Diasorin (1.26%). Biggest losers were Brunello Cucinelli (-2.60%), Fincantieri (-2.57%) and Nexi (-1.99%).
-
----
-
-### 2026-08-08 00:11:09  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.69% Higher — The DAX Index went up by 179 points or 0.69 percent on Friday to close at 26319 points. The rise was led by SAP (4.30%), Scout24 (3.52%) and Infineon (3.23%). On the downside, the weakerst performers were Daimler Truck Holding AG (-2.81%), Zalando (-2.11%) and Allianz (-1.63%).
-
----
-
-### 2026-08-08 00:10:52  #國際
-
-市場訊息：烏克蘭總統澤連斯基抵達塞爾維亞，開啟首次訪問。
-
----
-
-### 2026-08-08 00:10:09  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.33% Higher — The CAC 40 Index rose 29 points or 0.33 percent on Friday to close at 8728 points. Leading the gains are STMicroelectronics (2.92%), Dassault Systemes (2.39%) and Pernod Ricard (1.91%). Top losers were ArcelorMittal (-1.35%), Bouygues (-1.12%) and Vinci (-0.99%).
-
----
-
-### 2026-08-08 00:09:31  #MKT News
-
-Serbian broadcaster N1 reported Ukrainian President Zelenskiy has arrived in Serbia on his first visit to the country.
-
----
-
-### 2026-08-08 00:09:05  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Holds Near Record Highs — The FTSE MIB closed little changed at 53,717 on Friday, remaining at record highs over the week, as financial shares weighed on the index amid corporate earnings and banking consolidation developments. Intesa Sanpaolo rose 0.4%, while BMPS added 0.2% after lifting its 2026 profit outlook following better-than-expected quarterly results and saying it was evaluating options to counter a takeover bid from Intesa. Unipol slipped 0.8% as the firm aims to hold more than a 30% stake in a future banking group combining BPER Banca (-1.0%) and assets carved out of BMPS. Banco BPM fell 1.0%, while UniCredit lost 0.4% amid delays in merger talks with Commerzbank. Elsewhere, STMicroelectronics (3.1%) and Prysmian (1.2%) led gains on optimism over AI investments. DiaSorin and Recordati also advanced over 1%. Utilities benefited from lower European gas prices. On the downside, Stellantis fell 1.7% after Bernstein downgraded the stock. Brunello Cucinelli, Fincantieri and Nexi each lost more than 2%.
-
----
-
-### 2026-08-08 00:08:54  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Closes at Record High — The DAX 40 extended early gains to close about 0.7% firmer at 26,355 on Friday, setting a fresh record high and booking a 2.8% weekly gain. Market sentiment remained supported by an upbeat earnings season, while investors awaited developments in US-Iran negotiations to reopen the Strait of Hormuz. Germany's stronger-than-expected industrial production and export data further reinforced the positive market tone. Technology shares rallied, with strength across software and semiconductor stocks. SAP climbed 4.1% and Infineon Technologies advanced 2.9%. Scout24, Siemens, BMW and Deutsche Borse also performed well, rising between 1.7% and 3.6%. On the flip side, Daimler Truck (-2.8%) led losses after reporting an 18% drop in Q2 profit, despite raising full-year adjusted EBIT guidance. Munchener Ruck fell 1.4% even after a suprise 6% increase in net profit. Allianz fell 0.6%, as non-life insurance growth disappointed despite record operating profit.
-
----
-
-### 2026-08-08 00:08:20  #MKT News
-
-Punchbowl reports Senate Armed Services Committee chair Roger Wicker will meet later today with PENTAGON policy chief Elbridge Colby to discuss the PENTAGON’s European force-posture assessment and "other matters." The PENTAGON formally launched the assessment at the end of July.
-
----
-
-### 2026-08-08 00:07:10  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.39% Higher — The FTSE 100 Index gained 42 points or 0.39 percent on Friday to close at 10910 points. Gains were led by Fresnillo (5.33%), Endeavour (4.06%) and Diageo (3.23%). Biggest losers were Burberry (-1.30%), Glencore (-1.14%) and Shell (-1.13%).
-
----
-
-### 2026-08-08 00:03:34  #MKT News #GD.O
-
-A unit of General Dynamics signed an agreement with the U.S. General Services Administration to provide enterprise IT and cybersecurity services to the Army National Guard and other federal partners.
-
----
-
-### 2026-08-08 00:01:31  #MKT News #WTI #Impact bullish #Brent
-
-【Iran deputy foreign minister: Persian Gulf security should be maintained by regional states】On Aug. 7 local time, Iran’s deputy foreign minister said Persian Gulf security should be maintained by regional states and urged resolving regional security issues without external interference. He said Iran has submitted and recorded evidence with the UN Security Council showing some attacks on Iran originated from other countries’ territory, including several direct strikes. Based on current information, he added, regional states now recognize that escalation and continued military operations would seriously threaten their security, and conditions are ripe to resume security talks among Persian Gulf states.
 
 ---

@@ -1,7 +1,523 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 00:01:06_
-_本檔包含 3063 則快訊，約 605172 字_
+_更新時間：2026-08-15 01:05:16_
+_本檔包含 3043 則快訊，約 605787 字_
+
+---
+
+### 2026-08-13 22:29:54  #國際
+
+以色列國防軍： 部署尚需時日，但經過本週之後，黎巴嫩方向的戰事氛圍愈發迫近。
+
+---
+
+### 2026-08-13 22:29:26  #市場 #焦點
+
+納指漲1.00%，現報26854.719點；道指漲0.46%，現報54020.238點；標普500指數漲0.86%，現報7814.930點。
+
+---
+
+### 2026-08-13 22:29:17  #公司
+
+【銀行理財市場規模站上35萬億！兩萬億級理財公司已有7席】受存款到期再配置、季末時點過去存款迴流理財等因素驅動下，銀行理財市場規模在剛剛過去的7月創出新高，突破了35萬億。8月13日，記者從業內可信渠道彙總的獨家資料顯示，管理規模超過1萬億元的14家理財公司（含6家國有行理財、8家股份行理財公司，約佔市場份額的八成）今年前7個月淨增規模達1.7萬億元，其中“固收+”產品規模新增約1.66萬億元；7月末上述14家理財公司合計存續規模為27.1萬億元。銀行業理財登記託管中心資料顯示，今年6月末全市場存續規模達33.66萬億元。而據記者獨家資料測算，僅今年7月份單月，上述14家理財公司合計規模增長約1.46萬億元。也就是說，若僅計入14家理財公司7月增量，理財市場總規模已達到約35.11萬億元。在經歷6月規模“失血”、7月規模大幅回升的起伏後，理財市場規模座次再度生變。截至7月末，規模超2萬億元的理財公司重新回升至7家：股份行理財公司佔據前三席，農銀理財躋身第四，按規模排名前7席分別為招銀理財、信銀理財、興銀理財、農銀理財、光大理財、工銀理財和中銀理財。（證券時報）
+
+---
+
+### 2026-08-13 22:29:03  #其他
+
+【中國郵政與福建省政府簽署戰略合作框架協議】據中國郵政訊息，8月11日，中國郵政與福建省政府簽署戰略合作框架協議。根據協議，雙方將在郵政基礎設施建設、金融服務、鄉村振興、跨境電商、文旅宣傳、數字政務建設等方面深化開展合作。
+
+---
+
+### 2026-08-13 22:28:51  #公司 #國際
+
+負責監管燃料進口的馬來西亞國有機構執行長透露，貨物總量 6.3 萬立方米，燃料源自亞洲，由馬達加斯加與奈及利亞撒哈拉集團協商採購。
+
+---
+
+### 2026-08-13 22:28:43  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Treasury Yields #Commodities #Energy #US10Y #Impact bearish #WTI
+
+【Signs US inflation may have peaked; markets no longer fully pricing Fed hike this year】Signs US inflation have strengthened and bond traders are no longer fully pricing a Federal Reserve rate hike this year. A U.S. Treasury rally sent yields down as much as 9bp across maturities; the 30-year yield fell 8bp ahead of a new 30-year issue expected to price at the highest yield for that tenor since 2001. Benchmark oil dropped over 3% on Thursday — oil, the chief driver of UST moves since a late‑February US strike on Iran sparked a supply shock, is reinforcing views that US inflation has peaked. US data showed July PPI slowed and Wednesday’s CPI indicated inflation eased for a second consecutive month. Short-dated interest-rate contracts rallied, lowering implied policy rates and signalling traders are scaling back Fed hike bets.
+
+---
+
+### 2026-08-13 22:28:25  #市場 #央行 #國際
+
+【通脹見頂訊號增強 市場不再完全定價美聯儲今年加息】隨著油價回落強化了通脹前景的樂觀情緒，債券交易員已不再完全定價美聯儲今年將加息。美債市場反彈使各期限收益率下跌多達9個基點，其中30年期收益率在週四該期限新債發行前下跌8個基點。該筆發行料將創下2001年以來30年期國債發行的最高收益率。基準油價週四下跌逾3%，油價自2月底美國攻擊伊朗引發供應衝擊以來一直是美債收益率的主要驅動力，交易員正就持續衝突釋放的訊號進行解讀。油價的下跌強化了美國通脹已見頂的樂觀情緒。週四公佈的美國政府資料顯示7月生產者價格放緩，此前一天公佈的消費者價格報告也連續第二個月檢測到通脹放緩。短期利率合約上漲推動利率水平走低，表明交易員正在縮減對美聯儲加息的押注。
+
+---
+
+### 2026-08-13 22:27:52  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Down for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for a fourth session on Thursday, dropping about 3.2% to its lowest since August 3 at 2,844 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped further, down about 5.2% to 4,469 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1.7% to 2,262 points, marking the second session of decreases. Among smaller vessels, the supramax index went up by 0.6% to 1,613 points.
+
+---
+
+### 2026-08-13 22:27:15  #公司 #市場 #央行 #國際
+
+【美聯儲的哈馬克稱三個領域可能影響金融穩定 包括美債市場的高槓杆】美國克利夫蘭聯儲銀行行長貝絲·哈馬克表示，她目前重點關注三個可能影響美國金融穩定的領域，包括美國國債市場的槓桿水平。哈馬克週四在俄亥俄州Dayton出席活動時表示：“我們有大量未償債務，而這些債務是用大量槓桿來購買的。”她說：“這些債務的買家實際上也是借錢來買債，因此從這個角度看，這可能會在金融體系中造成一些不穩定。”她還表示，從國會目前的情況來看，“我看不到財政紀律大幅迴歸的跡象”。哈馬克稱，私人信貸的增長也是另一個需要關注的領域。她表示，從某些方面看，這是一件好事，因為私人信貸擁有較為穩定的資本來源，不會像銀行那樣面臨存款擠兌式的贖回壓力。不過，她指出：“我們缺乏足夠的透明度，也不知道這些機構在發放部分貸款時採用的信貸標準是什麼。”她補充稱，這意味著這一領域可能存在更多高風險貸款。哈馬克表示，她關注的第三個方面是人工智慧的發展。她說：“短時間內有大量資本投入這一領域，這讓人聯想到上世紀90年代的電信基礎設施建設熱潮。我們是否正在進入泡沫？”她還表示：“我們看到這些超大規模科技公司開始透過借款為投資融資。如果這些投資最終沒有他們預期的那麼賺錢，是否可能出現回撤？”哈馬克總結稱，這三方面都是她正在關注的問題，以觀察它們可能如何影響金融體系。
+
+---
+
+### 2026-08-13 22:26:32  #其他
+
+馬達加斯加進口柴油貨物以應對能源緊急狀況。
+
+---
+
+### 2026-08-13 22:26:31  #MKT News
+
+Hungary's prime minister said the environmental permit for the Paks II nuclear power plant is uncertain due to concerns over Danube water levels.
+
+---
+
+### 2026-08-13 22:26:02  #宏觀 #公司 #國際
+
+美國國務院表示，已與BAE系統公司達成3600萬美元和解協議，解決其出口違規問題。
+
+---
+
+### 2026-08-13 22:25:58  #其他
+
+匈牙利總理表示，受多瑙河水位影響，帕克斯二號核電站環境許可存變數。
+
+---
+
+### 2026-08-13 22:25:42  #其他
+
+【意媒稱羅馬附近一軍工廠發生爆炸】據義大利媒體13日報道，義大利首都羅馬附近一家軍工廠當天發生爆炸。目前尚無人員傷亡報告。（新華社）
+
+---
+
+### 2026-08-13 22:25:21  #市場 #國際
+
+受接近紀錄高位的產量影響，且每週庫存報告即將公佈，美國天然氣價格下跌2%。
+
+---
+
+### 2026-08-13 22:25:11  #其他
+
+匈牙利總理稱，該國仍在審議帕克斯核電站擴建專案。
+
+---
+
+### 2026-08-13 22:24:52  #公司
+
+【四川4家銀行“抱團”衝理財牌照：專項工作組落地，聯合申設模式首次試水】日前，據媒體報道，由四川農商聯合銀行牽頭，聯合四川銀行、成都銀行、成都農商銀行共同發起設立銀行理財公司的籌備工作取得關鍵進展。多位接近專案組的人士透露，專項工作組已於近期正式組建完成，4家機構均已抽調理財條線核心業務人員入駐，場地選址、制度設計、申報材料撰寫等落地籌備工作全面啟動。記者注意到，這是自2023年12月浙銀理財獲批籌建以來，首次有銀行理財公司申設專案進入實質操作階段。若最終獲批，這家擬設機構將成為國內首家由多家城商行、農商行聯合出資設立的理財子公司，同時也將填補四川省無本土持牌理財公司的空白。（每經網）
+
+---
+
+### 2026-08-13 22:22:29  #市場
+
+Robinhood Ventures Fund II以22.50美元開盤，IPO發行價為25美元。
+
+---
+
+### 2026-08-13 22:21:49  #公司
+
+【沈銘權會見中國大唐集團董事長呂軍一行】據“寧波釋出”，8月13日下午，寧波市委副書記、市長沈銘權會見了中國大唐集團黨組書記、董事長呂軍一行，就深化能源合作、加強投資佈局進行深入交流。沈銘權說，希望大唐集團持續加碼在甬產業佈局，推進現有煤電專案節能改造，持續加大在甬新能源開發投資力度，穩步提升在甬新能源裝機規模，打造多能互補的綜合能源示範基地；加大在甬科技研發投入，成立區域科技研發中心或者科研子站點，助力我市綠色低碳轉型發展。寧波將全力支援大唐集團以烏沙山電廠為核心載體，深化“火電+新能源+儲能”一體化模式探索，努力為大唐集團在甬佈局發展做好服務保障、提供良好環境。
+
+---
+
+### 2026-08-13 22:21:33  #Trading Economics #Markets #Commodity #Importance 1
+
+Palladium Falls From 2-Month High — Palladium futures slipped below $1,330 per ounce after hovering near a two-month high, weighed by concerns over the long-term impact of growing electric vehicle demand. Although rising hybrid vehicle demand has provided near-term support for autocatalyst consumption, markets remain cautious amid the broader shift in demand toward EVs, which recorded a fifth consecutive monthly increase in July, as the palladium market could still record a global surplus. On the other hand, concerns over power supply disruptions and maintenance bottlenecks at South African mines, alongside uncertainty surrounding Russian exports, continued to underpin prices. Meanwhile, market expectations that the Federal Reserve will keep borrowing costs unchanged at the next meeting increased following weaker-than-expected jobs and inflation data, generally supporting non-yielding precious metals.
+
+---
+
+### 2026-08-13 22:20:32  #公司
+
+【國家外匯管理局深圳市分局：辦理外匯業務不收取任何形式的“備案費”】8月13日，國家外匯管理局深圳市分局釋出關於警惕冒用國家外匯管理局深圳市分局名義收取費用的公告。近期，有不法分子假冒國家外匯管理局深圳市分局名義，以紙質檔案等形式向個人傳送偽造的“繳費通知”，要求按跨境資金總額的一定比例繳納所謂“備案費”。現就有關情況公告如下：一、國家外匯管理局深圳市分局從未以紙質檔案、郵件或電話等形式向任何企業、個人等主體傳送要求繳納“備案費”等通知。國家外匯管理局深圳市分局辦理外匯業務，不收取任何形式的“備案費”。二、所謂傳送要求繳納“備案費”等檔案、郵件或電話的行為涉嫌詐騙。請廣大企業和個人收到類似檔案、郵件或電話後提高警惕，認真核實，切勿輕信，妥善保護好自身資訊和財產安全。一旦發現違法犯罪線索或遭遇損失，請及時向公安機關報案反映情況，積極提供線索，配合公安機關案件偵查，盡力挽回損失。
+
+---
+
+### 2026-08-13 22:20:18  #MKT News
+
+Databricks completed a $5.0 bln funding round at a $190.0 bln valuation.
+
+---
+
+### 2026-08-13 22:20:04  #國際
+
+據報道，哈馬斯警察部隊加沙城地區一名指揮官在加沙城區域的襲擊中身亡。
+
+---
+
+### 2026-08-13 22:20:04  #MKT News #Important #Commodities #Energy
+
+U.S. EIA weekly natural gas storage for the week to Aug. 7 due in 10 minutes.
+
+---
+
+### 2026-08-13 22:20:02  #MKT News
+
+Market sources: Explosion at KNDS factory in Colleferro, Italy.
+
+---
+
+### 2026-08-13 22:19:27  #其他
+
+目前恐懼貪婪指數為67分（滿分100）。
+
+---
+
+### 2026-08-13 22:19:14  #其他
+
+義大利科爾費羅的 KNDS 工廠發生爆炸。
+
+---
+
+### 2026-08-13 22:18:31  #其他
+
+據燈塔專業版，影片《奧德賽》總票房預測8.795億，有望重新整理諾蘭導演電影內地最高票房紀錄。
+
+---
+
+### 2026-08-13 22:18:00  #公司
+
+【京東過去3年已累計回購17%的流通股】京東高管今年在財報業績會表示，自2023年以來，京東已經回購了17%的流通股，透過分紅和回購的方式回饋股東約130億美元，今年上半年回購約6990萬普通股，此前3年50億美元的回購計劃剩餘10億美金的額度，未來會持續投入業務運營與供應鏈能力提升長期競爭力，透過多元化的方式回饋股東。
+
+---
+
+### 2026-08-13 22:17:50  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+Texas governor says Microsoft will comply with data center standards.
+
+---
+
+### 2026-08-13 22:17:17  #其他
+
+雅培稱微軟將遵守資料中心相關標準。
+
+---
+
+### 2026-08-13 22:16:59  #其他
+
+Databricks：年化營收已突破70億美元。
+
+---
+
+### 2026-08-13 22:16:50  #公司
+
+【Databricks完成50億美元融資，估值飆升至1900億美元】Databricks週四宣佈完成一輪50億美元融資，投後估值達1900億美元。該公司表示，其年化營收已突破70億美元，第二季度同比增幅超80%。Databricks稱，這筆資金將用於強化企業人工智慧相關能力，涵蓋Unity AI閘道器管控工具以及Genie智慧代理工具。距離這傢俬有資料分析軟體企業上一輪融資僅過去六個月，當時該公司完成50億美元股權融資外加20億美元新增債務額度，估值為1340億美元。受私募市場充裕融資渠道影響，越來越多企業選擇推遲上市，Databricks便是其中一員。
+
+---
+
+### 2026-08-13 22:16:02  #央行 #美聯儲
+
+【交易員已不再充分消化美聯儲今年加息的情景】交易員已不再充分消化美聯儲今年加息的情景。今日公佈的美國7月PPI增速放緩幅度超預期。
+
+---
+
+### 2026-08-13 22:15:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+Markets are no longer fully pricing Fed rate hikes this year.
+
+---
+
+### 2026-08-13 22:14:23  #市場 #國際
+
+美國股市漲幅擴大，納斯達克綜合指數上漲1.00%。
+
+---
+
+### 2026-08-13 22:13:58  #公司
+
+【衛龍美味上半年營收增長6.7% 派息比例達90%】衛龍美味（09985.HK）8月13日晚公佈2026年中期業績，上半年營收37.15億元，同比增長6.7%；期內淨利潤7.66億元，同比增長4.0%；每股盈利0.32元；毛利率提升至47.8%，淨利潤率為20.6%。公司董事會決議派發中期股息每股0.19元及特別股息每股0.09元，合計每股0.28元，派息比例達90%。
+
+---
+
+### 2026-08-13 22:13:45  #央行 #焦點 #國際
+
+交易員們已不再完全消化美聯儲今年加息的預期。
+
+---
+
+### 2026-08-13 22:13:06  #Trading Economics #Markets #South Africa #Currency #Importance 0
+
+South African Rand Hovers at 5-Month High — The South African rand traded around 16.1 per US dollar, holding close to its highest since early March, as softer US economic data strengthened expectations of a Fed pause and weakened the dollar. This encouraged demand for higher-yielding emerging-market assets, supporting the rand, while lower oil prices also eased inflation concerns. The curency has been recovering since hitting a three-month low against the dollar following the SARB’s surprise rate hold on July 23. Meanwhile, persistent Middle East tensions remained a source of market uncertainty.
+
+---
+
+### 2026-08-13 22:12:54  #其他
+
+Databricks完成50億美元融資，估值達1900億美元。
+
+---
+
+### 2026-08-13 22:12:53  #Trading Economics #Economy #Brazil #Business Confidence #Importance 1
+
+Brazil Industrial Confidence Improves in August — Brazil’s Industrial Business Confidence Index rose 1.9 points to 46.3 in August 2026 from 44.4 in July, ending a two-month streak of consecutive declines. Despite the improvement, the index remained below the 50-point threshold, marking the 20th consecutive month of lack of confidence. The Current Conditions Index rose 1.1 points to 42.7 as negative assessments became less intense and widespread. The improvement reflected better assessments of Brazil’s current economic conditions, which rose 1.9 points to 36.6, and companies’ own conditions, which increased 0.6 point to 45.7. The Expectations Index rose 2.3 points to 48.1, recovering part of the 3.1-point decline recorded in July and indicating that expectations for the next six months remained negative, although pessimism eased. Expectations for the Brazilian economy rose 2.5 points to 39.7, while expectations for companies’ own businesses increased 2.2 points to 52.3, signaling a return to optimism.
+
+---
+
+### 2026-08-13 22:12:51  #MKT News
+
+Databricks completed a $5 billion financing, valuing the company at $190 billion.
+
+---
+
+### 2026-08-13 22:12:43  #公司
+
+【貢沃爾集團稱鹿特丹港發生事故致一人死亡】當地有關部門訊息，週四，貢沃爾集團位於荷蘭鹿特丹港的一處作業場地發生爆炸，造成一人死亡。貢沃爾集團表示，事故發生於當地時間上午 11 時，另有六人受傷。該集團稱，現場已完成管控，調查工作已經啟動。港口管理部門與警方證實發生了爆炸。
+
+---
+
+### 2026-08-13 22:11:54  #國際
+
+8月13日，全球基金淨賣出51.1億印度盧比的印度股票。
+
+---
+
+### 2026-08-13 22:11:40  #其他
+
+截至2026年8月7日，巴基斯坦外匯儲備為171億美元。
+
+---
+
+### 2026-08-13 22:11:21  #MKT News
+
+HKEX filing shows Hunan Junxin Environmental Protection Co. has filed an application to list.
+
+---
+
+### 2026-08-13 22:11:20  #國際
+
+【以軍稱打死一名哈馬斯下屬軍事武裝成員】當地時間13日，以色列國防軍證實，當天早些時候，以軍在加沙地帶汗尤尼斯發動空襲，打死一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）下屬軍事武裝的連長。以軍稱，該人員計劃襲擊在加沙地帶作戰的以軍部隊。哈馬斯方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-08-13 22:11:04  #宏觀 #國際
+
+美國國務院已成立專項工作組打擊生育旅遊。
+
+---
+
+### 2026-08-13 22:10:35  #市場
+
+英國國債價格上漲，英國10年期國債收益率下跌5個基點至4.92%。
+
+---
+
+### 2026-08-13 22:10:28  #其他
+
+【美團AI安全助手“團寶”上線，騎手希望最佳化反饋功能】美團騎手安全產品負責人介紹，在去年舉辦的多場騎手懇談會上，有不少騎手關注安全出行產品升級需求。基於此，美團面向騎手推出AI安全助手“團寶”，搭載交通安全地圖功能同步上線，為騎手提供等燈提示、事故多發路段提示、智慧速度提醒、逆行識別等功能。例如，對過去騎手無法主動檢視身邊的風險路段，安全地圖支援查詢“事故多發路段”“非機動車禁行路段”和“違章高發路段”。當騎手經過風險路段或出現風險行為時，該功能會主動彈出預警提醒安全駕駛。此外，“團寶”還可透過圖片導航幫騎手快速找到商家門面、入口位置、樓層資訊等，減少末端兜圈時間。（第一財經）
+
+---
+
+### 2026-08-13 22:08:21  #公司 #觀點
+
+湖南軍信環保股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、中信證券。
+
+---
+
+### 2026-08-13 22:07:58  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Shanghai crude (SC) main futures fell across the board: SC crude down 1.80% at 544.2 yuan/barrel; low-sulfur fuel oil (LU) down 1.85% at 4,560 yuan/ton; fuel oil down 0.72% at 3,741 yuan/ton; asphalt down 0.02% at 4,310 yuan/ton.
+
+---
+
+### 2026-08-13 22:07:44  #國際
+
+惠譽評級預測，2026年7月美國私人信貸違約率仍將維持在歷史高位。
+
+---
+
+### 2026-08-13 22:06:34  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Holds Record on Earnings and Lower Oil — The S&P/TSX Composite Index traded near flat above 36,500, holding onto yesterday's record amid a fresh batch of corporate earnings and lower oil prices. Brookfield (+0.5%) reported higher second-quarter distributable earnings per share. Hydro One (+1%) reported higher profit and EPS of C$0.62, beating forecasts. Metro (+1%) posted 4.1% sales growth and 8.8% adjusted EPS growth, although same-store food sales remained modest and fiscal third-quarter adjusted earnings were weaker. CCL Industries (-1.2%) posted 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver (-7%) reported 38% revenue growth and strong free cash flow, although EPS of $0.73 came in below expectations. . Meanwhile, oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC and TD Bank added 0.5%, while CICB gained 1%. Miners fell on lower gold prices, with Agnico Eagle down 1.5%.
+
+---
+
+### 2026-08-13 22:06:08  #市場 #央行 #國際
+
+【機構：7 月 PCE 通脹預期為 3.6%】牛津經濟研究院預計，美聯儲青睞的通脹指標 —— 整體個人消費支出物價指數 (PCE) 7 月同比上漲 3.6%，較 6 月的 3.7% 小幅回落。鑑於服務業通脹降溫，勞動力市場幾乎沒有過熱跡象，牛津經濟研究院預計美聯儲 2026 年剩餘時間將維持利率不變。
+
+---
+
+### 2026-08-13 22:04:21  #觀點 #其他 #焦點
+
+美銀全球研究將2030年伺服器CPU總可用市場規模預測從之前的1700億美元上調至2100億美元以上。
+
+---
+
+### 2026-08-13 22:04:14  #MKT News
+
+Carney says Canada’s sovereignty is rooted in a strong, secure North.
+
+---
+
+### 2026-08-13 22:04:05  #資料
+
+哥倫比亞7月消費者信心指數為20.7。
+
+---
+
+### 2026-08-13 22:03:52  #公司
+
+【行雲科技：公司所有核心長單無集中兌現風險 業績釋放平穩可持續】行雲科技8月13日接受機構調研時表示，公司所有核心長單均採用按月交付、按月回款、逐月確認收入的常態化模式，無集中兌現風險，業績釋放平穩可持續。2026年下半年，三筆核心訂單中V客戶的首批交付已經完成驗收和逐月租金收入確認，其他兩個客戶的首批交付也預計在8月份完成驗收並開始確認收入，預計年內也有部分Token分成收入，算力板塊營收與利潤將實現顯著環比提升；2027年所有長單將進入全面穩定結算週期，高毛利算力業務及Token分成營收佔比持續提升，成為公司核心增長支柱。疊加公司已獲批180.24億元綜合授信、102.64億元落地授信，疊加破產重整募集資金（約10億元）、股權激勵增發融資（約20億元）及預留償債股票（約5000萬股），未來三年可用自有資金體量較大，充沛資金可完全支撐訂單履約與產能擴張，中長期業績增長確定性較強。
+
+---
+
+### 2026-08-13 22:03:24  #公司 #國際
+
+小唐納德·特朗普與派勒特家族牽頭完成PSQ控股公司130萬美元私募配售。
+
+---
+
+### 2026-08-13 22:03:08  #市場 #焦點
+
+布倫特原油失守86美元/桶，日內跌3.36%。
+
+---
+
+### 2026-08-13 22:02:35  #公司 #市場 #國際
+
+【去年標普 500 企業執行長平均薪酬達到 3.401 億美元】研究顯示，埃隆・馬斯克超高的企業薪酬方案，為其他標普 500 成分企業的執行長獲取鉅額報酬開啟了口子。美國勞工聯合會‑產業工會聯合會將於週四晚些時候公佈的資料顯示，即便剔除特斯拉以及 SpaceX的執行長，2025 年標普 500 企業執行長平均薪酬仍大漲 21%，達到 2280 萬美元，創下這家美國頂級勞工組織自上世紀 90 年代開始統計該資料以來的最高水平。根據美國勞聯‑產聯廣受關注的年度《薪酬觀察》報告，計入該筆薪酬後，去年標普 500 企業執行長平均薪酬達到 3.401 億美元。憑藉在衛星及人工智慧企業 SpaceX 所持股份，馬斯克也成為全球首位萬億富豪。
+
+---
+
+### 2026-08-13 22:02:09  #市場 #國際
+
+美國原油期貨、布蘭特原油期貨跌幅擴大，最新下跌逾3%，因投資者評估海灣地區供應與石油需求。
+
+---
+
+### 2026-08-13 22:01:38  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
+
+Brent crude fell below $85/bbl, down 2.57% intraday.
+
+---
+
+### 2026-08-13 22:01:31  #MKT News #Important
+
+Research shows S&P 500 CEOs' compensation reached a record high.
+
+---
+
+### 2026-08-13 22:00:52  #公司 #市場
+
+奈飛股價上漲3.7%，此前阿克曼將該公司列入其大規模投資組合重組後的六項新投資之中。
+
+---
+
+### 2026-08-13 21:59:57  #市場
+
+布倫特原油日內跌3%，現報86.26美元/桶。
+
+---
+
+### 2026-08-13 21:59:40  #其他
+
+【非洲豬瘟持續 芬蘭擬擴大疫情“核心區” 】芬蘭食品管理局12日說，因發現更多因感染非洲豬瘟病毒而死亡的野豬，將擴大此前劃定的疫情核心區，禁止在這一區域內進行狩獵等活動，以防止疫情進一步擴散。（新華社）
+
+---
+
+### 2026-08-13 21:59:19  #市場
+
+標普500指數首次突破7800點，日內漲幅擴大至0.66%。
+
+---
+
+### 2026-08-13 21:59:10  #其他
+
+【今年前7個月海口海關累計簽發各類原產地證書15588份】據海口海關統計，2026年1—7月，海口海關累計簽發各類原產地證書15588份，簽證總貨值75.97億元，分別同比增長76.14%、47.89%。從簽證型別看，中國—東盟自貿協定證書在優惠類原產地證書中佔據主體地位，是海南企業開拓東南亞市場的重要抓手。（央視新聞）
+
+---
+
+### 2026-08-13 21:59:08  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bullish
+
+S&P 500 breached 7,800 for the first time; intraday gain widened to 0.66%.
+
+---
+
+### 2026-08-13 21:57:40  #MKT News #Macro & Rates #Treasury Yields #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+US 2-year Treasury yield extended its decline to the lowest since mid-July; last 4.136%, down 6.2bp.
+
+---
+
+### 2026-08-13 21:57:07  #市場 #國際
+
+美國兩年期國債收益率延續跌勢，觸及7月中旬以來的低位；最新下跌6.2個基點，報4.136%。
+
+---
+
+### 2026-08-13 21:56:31  #其他
+
+阿根廷能源秘書處：該國瓦卡穆爾塔頁岩構造可開採石油儲量估值較此前上調89%。
+
+---
+
+### 2026-08-13 21:56:23  #MKT News
+
+ENTSO-E said Germany's solar generation rose to a record 58.6 GW on Thursday.
+
+---
+
+### 2026-08-13 21:56:15  #公司 #市場
+
+國際商業機器公司（IBM）股價上漲1%，此前該公司宣佈與OpenAI達成合作。
+
+---
+
+### 2026-08-13 21:55:54  #其他
+
+德國太陽能發電量週四創下58.6吉瓦的歷史新高。
+
+---
+
+### 2026-08-13 21:55:41  #MKT News #S&P500 #Impact bullish
+
+S&P 500 hit an intraday record high, rising 0.6%.
+
+---
+
+### 2026-08-13 21:55:33  #市場
+
+標普500指數日內創下歷史新高。
+
+---
+
+### 2026-08-13 21:55:07  #其他
+
+【暴雨橙色預警！江西升級預警級別 多地將有強降水】記者從氣象部門瞭解到，江西省氣象臺2026年8月13日20時45分變更暴雨橙色預警訊號：預計未來3小時內，九江市和南昌、宜春兩市北部的部分地區降水可達50毫米以上；預計未來6小時內，吉安、贛州兩市西部的部分地區降水可達50毫米以上。上述地區可能伴有短時強降水、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。（央視新聞）
+
+---
+
+### 2026-08-13 21:54:58  #國際
+
+據報道，俄羅斯與烏克蘭在白俄羅斯再次交換平民。
+
+---
+
+### 2026-08-13 21:54:45  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rebounds From Seven-Month Low — The Ibovespa rose about 0.5% to trade above 168,000 on Thursday, rebounding from a seven-month low amid a fresh batch of earnings reports and falling oil prices. Rede D’Or added 5% after reporting a 9.7% year-on-year increase in net profit. CSN gained 2% despite reporting a net loss, as the loss was smaller than expected and revenue grew 6%. Meanwhile, Banco do Brasil shed 0.5% after reporting below-expectation profits in the second quarter. Sabesp tumbled over 2.5% after reporting an 11.2% year-on-year drop in net profit. Crude prices pulled back as signs of weaker demand offset the stalemate in peace negotiations involving Iran. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. Major banks were mostly higher, with Bradesco adding 0.5%, while utilities also gained, with Axia rising 1%.
+
+---
+
+### 2026-08-13 21:54:41  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
+
+Brent crude fell 2.00% intraday to $85.50/bbl. WTI slipped 2.07% intraday to below $80.00/bbl.
+
+---
+
+### 2026-08-13 21:54:34  #公司 #國際
+
+【印尼鎳礦商協會：將有選擇地發放2026年鎳礦石額外生產配額】據報道，印尼鎳礦商協會週四表示，印尼政府將僅針對原料庫存偏低的冶煉廠，有選擇地批准額外的鎳礦石生產配額。當前市場正等待今年配額調整方案的明確資訊。該協會在宣告中指出，總體鎳礦石生產配額將維持在約2.6億至2.7億噸，而2025年的配額為3.79億噸。今年1月至7月，國內鎳礦石消費量已達1.4296億噸，約佔年度配額的53%至55%。印尼政府為所有礦產設定年度生產配額。該協會建議，應允許礦商今年再額外生產3000萬噸鎳礦石作為戰略緩衝，使總量達到約3億噸。此次增產是為了滿足預計於2026年投產的新增冶煉產能需求。印尼現有約80家鎳冶煉廠，若全部滿負荷運轉，年消耗礦石量約為3.15億噸。該協會同時呼籲政府在制定生產配額時提高透明度。協會秘書長表示：“若無透明且基於規則的修訂框架，全球市場將持續對個別公司配額的傳聞或決策過度反應，8月初倫敦金屬交易所（LME）的價格波動已充分印證這一點。”印尼能源與礦產資源部未就增產數量立即回應，但重申政府旨在保障本國資源的可持續性並支撐價格。
+
+---
+
+### 2026-08-13 21:54:28  #MKT News #Important #Commodities #Industrial Metals
+
+【Indonesian miners group: govt to selectively grant 2026 nickel ore quotas to smelters with low stocks】Indonesia’s nickel miners association said the government will selectively approve additional 2026 nickel ore production quotas only for smelters with low raw-material inventories, as markets await clarity on this year’s quota adjustments. The association expects overall 2026 quotas to be held at about 260–270 mln tonnes versus 379 mln tonnes in 2025. Domestic nickel ore consumption from Jan–Jul reached 142.96 mln tonnes, roughly 53–55% of the annual quota. The group recommended permitting an extra 30 mln tonnes this year as a strategic buffer to lift supply toward ~300 mln tonnes and meet smelter capacity expected to start in 2026; Indonesia’s ~80 smelters would consume about 315 mln tonnes a year at full load. The association urged greater transparency in quota-setting, warning that opaque revisions prompt market overreactions — citing early-August LME price volatility. The Energy and Mineral Resources Ministry did not immediately specify volumes, reiterating policy aims to safeguard resource sustainability and support prices.
+
+---
+
+### 2026-08-13 21:54:24  #國際
+
+【iPhone Ultra或優先供應美國市場】ChannelNews 援引一位匿名零部件供應商訊息，稱蘋果首款摺疊屏手機 iPhone Ultra 有限的首批貨源可能會優先供應美國市場，隨後再陸續進入包括中國在內的其他主要市場。 事實上，此前就已經有多份訊息稱 iPhone Ultra 初期產能可能非常有限。如果供應情況確實如此緊張，那麼蘋果採取美國市場優先、隨後逐步擴大銷售範圍的策略也並非沒有可能。 此前訊息顯示，蘋果 iPhone Ultra 配備 7.8 英寸內屏、5.5 英寸外屏，合上時的厚度為 9mm，比 iPhone 17 Pro Max 的 8.75mm 略厚，整機一共配備 4 枚攝像頭，其中外屏、內屏各帶有一顆前攝，背面則配備兩顆後置攝像頭。
 
 ---
 
@@ -17811,641 +18327,5 @@ Nasdaq-100 futures rose 1%; S&P 500 futures rose 0.5%.
 ### 2026-08-12 20:44:25  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #Commodities #Energy #DXY #Impact mixed #XAUUSD #Impact bullish #WTI
 
 【Gasoline slump cools US inflation; July CPI YoY 3.4%】US July CPI eased to 3.4% YoY from 3.5% in June, the Bureau of Labor Statistics said on Wednesday, matching economists' expectations. Core CPI (ex-food and energy) fell to 2.5% YoY from 2.6%. The moderation was driven largely by lower energy prices; gasoline was 2.9% lower in July versus June despite a sharp late‑July spike linked to tensions with Iran. Knock‑on effects from Trump’s war on Iran continue to hit the US economy. The report arrives as markets press the Fed to raise rates to counter inflation risks from war‑related energy supply disruptions, alongside tariff impacts and price pressures associated with an AI boom.
-
----
-
-### 2026-08-12 20:44:06  #公司
-
-【欣旺達：擬400萬元參設合資公司 佔股40%】欣旺達公告稱，公司於2026年8月11日審議透過議案，擬與點鏈科技、深圳鋰安、欣程致遠共同投資1000萬元設立欣程數字。其中，公司擬認繳400萬元，佔比40%。因深圳鋰安為公司關聯方，本次投資構成關聯交易，不構成重大資產重組，無需提交股東會審議和有關部門批准。各方將按合資公司資金需求實繳，最遲不遲於成立之日起五年內繳足。
-
----
-
-### 2026-08-12 20:43:51  #公司
-
-【寶鋼股份與冶金工業資訊標準研究院簽署戰略合作協議】據寶鋼股份訊息，8月10日，寶鋼股份與冶金工業資訊標準院簽署戰略合作協議。雙方認為，此次簽約是合作的全新起點。面向未來，雙方將深化標準化落地、數字化賦能、綠色化轉型等多領域合作，加快技術成果轉化應用，夯實行業標準引領地位。
-
----
-
-### 2026-08-12 20:43:48  #國際
-
-【普京：歐盟“扣船越貨”如“海盜”，俄將反制】新華社北京8月12日電 歐盟最近透過新一輪對俄羅斯制裁，允許其成員國售賣他們扣留的所謂俄“影子艦隊”船隻所運石油和其他貨物。俄羅斯總統普京12日就此回應說，俄方將“被迫”作出反制措施，“對等”扣留歐洲商船。普京當天在俄遠東地區檢閱海軍演習時說：“我們將被迫作出對等回應……我們將以我們認為必要和合適的方式行動。”多個歐洲國家近來在其水域攔截多艘所謂俄“影子艦隊”船隻。西方國家指責俄羅斯利用油輪等商用船隻逃避西方制裁，將這些商用船隻稱為“影子艦隊”。（新華社）
-
----
-
-### 2026-08-12 20:43:40  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #EURUSD
-
-【U.S. July CPI in line with expectations, clouds Fed September decision】U.S. consumer prices rose 0.1% MoM in July after a 0.4% decline in June, the Labor Department's Bureau of Labor Statistics said. The softer July print, coming after last week's surprise payrolls decline, could reduce market odds of a Fed rate hike in September; policymakers will still have August CPI and jobs data before the meeting. Economists expect August CPI may accelerate on recent oil gains and that payrolls will likely rebound as seasonal distortions fade. Despite cooler inflation, wage growth still lags price gains, keeping consumer cost pressures elevated. High living costs are weighing on Trump’s standing and could affect GOP prospects in the November midterms, which will determine control of Congress for the next two years.
-
----
-
-### 2026-08-12 20:43:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【Analyst: CPI improves but unlikely to spark major move; August nonfarm payrolls are decisive】Analyst Jersey said the CPI print matched expectations and, while still well above the Fed’s target, is slowly moving in the right direction. Given market inflation expectations over the next year, Jersey said it is hard to see this data triggering any sizable market rebound. The Fed has another month of data to consider, so near-term summer volatility may be subdued. Jackson Hole remains a policy focal point, but August nonfarm payrolls are the key near-term data risk.
-
----
-
-### 2026-08-12 20:42:42  #市場
-
-【阿斯麥美股盤前漲超2%】阿斯麥美股盤前漲超2%，現報1835.873美元。
-
----
-
-### 2026-08-12 20:42:39  #資料 #市場 #央行 #國際
-
-【溫和的CPI報告或將延續黃金漲勢】由於溫和的通脹資料沒有出現重大意外，緩解了美聯儲官員加快加息的壓力，黃金價格觸及盤中高點。的確， 核心CPI 年增長率2.5%仍然高於目標。但是， 月度 0.2%的加息幅度更符合央行的目標，也為央行留出了一定的操作空間。美國國債當日的走勢最終將取決於下午2點公佈的聯邦預算更新。在此之前，利率和美元走低足以推動黃金價格上漲。
-
----
-
-### 2026-08-12 20:42:18  #國際
-
-【國際能源署下調2026年全球石油需求預期】國際能源署12日釋出最新月度石油報告說，受霍爾木茲海峽持續封鎖和燃料價格高企影響，全球石油消費繼續受到抑制，預計2026年全球石油需求將日均減少160萬桶，較上月報告預測的降幅擴大51萬桶，2027年全球石油需求有望日均增加240萬桶。報告指出，7月海灣地區石油供應復甦勢頭隨中東形勢逆轉，基準原油價格一度升至兩個月高點。受衝突重燃及外交局勢驟變影響，油價在約40美元的寬幅區間內劇烈震盪。供應方面，7月全球石油供應量日均增加240萬桶，達到1.015億桶，但仍較去年同期低630萬桶。報告預計，2026年全球石油供應量將日均減少430萬桶，2027年則有望反彈，日均增加830萬桶，達到1.103億桶。（新華社）
-
----
-
-### 2026-08-12 20:42:04  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Up on Earnings and US CPI — The S&P/TSX Composite Index futures inched higher on Wednesday amid a fresh batch of corporate earnings reports and July's US inflation data. Constellation Software reported higher second-quarter net income and beat EPS estimates. Franco-Nevada posted second-quarter profit of $354 million and adjusted earnings of $1.81 per share, missing expectations. Markets also awaited quarterly results from Metro, Hydro One and other companies. Headline US inflation eased slightly to 3.4% in July from 3.5% in June, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading could support expectations for a more dovish Fed, benefiting credit-sensitive North American equities. Meanwhile, the Bank of Canada is widely expected to keep interest rates unchanged at its September meeting.
-
----
-
-### 2026-08-12 20:42:02  #國際
-
-【索馬利亞譴責哥倫比亞承認以色列對戈蘭高地的“主權”】當地時間8月12日，索馬利亞外交與國際合作部發表宣告稱，索馬利亞聯邦政府譴責哥倫比亞承認以色列對被佔領的格蘭高地擁有“主權”的決定，並稱這種承認無效且不具法律效力，違反了國際法以及《聯合國憲章》。宣告稱，戈蘭高地是被佔領的敘利亞領土，索馬利亞支援透過對話以及聯合國相關決議來解決以色列與敘利亞之間的爭端。索馬利亞政府呼籲包括哥倫比亞在內的所有國家維護國際法，尊重領土完整，並拒絕承認被佔領的領土。（央視新聞）
-
----
-
-### 2026-08-12 20:41:44  #其他
-
-【土耳其空軍一架F16訓練時墜毀】據土耳其媒體報道，土耳其空軍的一架F-16戰機今天（8月12日）在訓練飛行期間墜毀，飛行員已成功跳傘逃生。（CCTV國際時訊）
-
----
-
-### 2026-08-12 20:41:30  #資料 #央行 #國際
-
-【美國7月CPI資料公佈後，交易員略微降低9月份美聯儲加息的賭注】美國7月CPI資料公佈後，交易員略微降低9月份美聯儲加息的壓注，最新機率為45%，公佈前為47%。
-
----
-
-### 2026-08-12 20:41:04  #公司
-
-【鋒龍股份：擬3400萬元轉讓子公司100%股權並接受關聯擔保】鋒龍股份公告稱，8月11日公司與錦昌電氣簽署協議，擬3400萬元轉讓全資子公司麥勝機械100%股權，轉讓後其不再納入合併報表。公司持股5%以上股東董劍剛為協議履行提供無償連帶責任擔保。8月12日，該議案獲董事會審議透過，尚需股東會審議。本次交易預計產生處置收益，對財務狀況和經營成果有積極影響。
-
----
-
-### 2026-08-12 20:40:51  #其他
-
-【榮耀Robot Phone正式上市：首發YOYO Pro模式，售價9999元起】在今日的榮耀Robot Phone新品釋出會上，這款機器人手機正式迎來上市。據介紹，榮耀Robot Phone行業首創鈦合金靈巧雲臺，擁有機器人級4DoF自由度。榮耀Robot Phone首發YOYO Pro模式，同時，榮耀還聯合阿里巴巴“千問大模型”深度共創了面向手機場景最佳化的終端大模型解決方案。售價方面，12GB RAM+512GB ROM版本售價9999元，16GB RAM+1TB ROM版本售價12999元。（新浪科技）
-
----
-
-### 2026-08-12 20:40:46  #其他
-
-【辛巴威船隻傾覆已致44人死亡】辛巴威警方12日表示，該國北部卡里巴湖11日下午發生的船隻傾覆事故已造成44人死亡。辛巴威政府發表宣告說，事故發生時，船上載有119名成人，另有數量不明的兒童。目前，搜救工作仍在進行中。辛巴威總統姆南加古瓦已宣佈這起事故為“國家災難”。辛巴威《先驅報》的報道說，事故船隻因遭遇強風發生傾覆。（新華社）
-
----
-
-### 2026-08-12 20:40:22  #公司 #國際
-
-【中歐班列中通道今年以來班列通行量突破3000列】記者8月12日從中國鐵路呼和浩特局集團有限公司獲悉，當日滿載貨物的1295次中歐班列從二連浩特鐵路口岸駛出，標誌著中歐班列中通道今年以來班列通行量突破3000列。中國鐵路呼和浩特局集團有限公司二連站排程車間副主任張立平介紹，二連浩特鐵路口岸與蒙古國扎門烏德站實施國境站“兩站一體化”作業模式，建立“日對話、月會晤”常態化溝通機制，共享兩站車流結構及站存情況，優先保障中歐班列接入、取送、換裝等作業，確保中歐班列快進快出。截至8月11日，二連浩特鐵路口岸今年進出口貨物283.22萬噸，同比增長26.74%。經此口岸執行的中歐班列線路達76條，通達德國、波蘭等10餘個國家的70餘個樞紐站點。（新華社）
-
----
-
-### 2026-08-12 20:39:48  #公司
-
-【易明醫藥：原持股5%以上股東周戰減持計劃實施完成】易明醫藥公告稱，原持股5%以上股東周戰於2026年7月30日和8月11日，透過大宗交易分別減持1,241,100股、658,900股，合計減持1,900,000股，佔總股本0.996%。本次減持後，其持股降至8,874,925股，佔總股本4.6544%。該減持計劃符合法規，未違反承諾，不會導致控制權變化及影響公司經營。
-
----
-
-### 2026-08-12 20:39:44  #公司
-
-【*ST啟環：重整投資協議生效 預重整及上市仍存風險】*ST啟環公告稱，2026年8月12日收到三峽至喜公司通知，已獲宜昌市國資委批覆同意參與公司重整投資事宜，《重整投資協議》已生效。不過，協議存在被解除、終止風險，重整投資人履約情況也不確定。此外，公司預重整不代表重整申請被受理，後續能否進入重整程式不確定。公司股票已被實施退市風險和其他風險警示，若2026年出現規定情形，或被終止上市。重整若失敗，公司股票也將面臨終止上市風險。
-
----
-
-### 2026-08-12 20:39:18  #市場
-
-消費者物價指數資料公佈後美元走弱，美元/日元最新下跌0.21%，報158.93<JPY=>。
-
----
-
-### 2026-08-12 20:39:17  #Trading Economics #Markets #United States #Currency #Importance 1
-
-DXY Retreats After Inflation Data — The dollar index eased to around 99.9 on Wednesday after US consumer prices rose broadly in line with expectations in July, easing concerns over imminent Federal Reserve rate hikes. Core consumer prices, excluding food and energy, rose 0.2% month-on-month and 2.5% year-on-year, matching the slowest annual pace since March 2021. Overall, consumer prices increased 0.1% from June and 3.4% from a year earlier. The moderation in inflation, following last week’s weaker-than-expected jobs report, could ease pressure on the Fed as policymakers balance price stability against risks to employment. The latest figures also provided some relief amid elevated oil prices and geopolitical uncertainty. Meanwhile, tensions over the Strait of Hormuz remained high, with President Donald Trump claiming the US had “total control” of the waterway as Washington and Tehran remained locked in negotiations over its reopening.
-
----
-
-### 2026-08-12 20:39:13  #市場
-
-英鎊上漲0.2%，報1.3536美元 <GBP=>。
-
----
-
-### 2026-08-12 20:39:07  #市場
-
-歐元上漲0.08%，報1.1552美元<EUR=>。
-
----
-
-### 2026-08-12 20:38:52  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【Analyst: July U.S. inflation gives Fed official temporary reprieve】Market analyst Chris Anstey said July U.S. CPI and core CPI fully met expectations; the monthly prints do not trigger inflation alarms and are broadly consistent with the Fed’s objectives. That gives a Fed official temporary breathing room, but Anstey said August’s inflation report will need to show similar readings — it’s still too early to be confident.
-
----
-
-### 2026-08-12 20:38:08  #市場
-
-【Coherent美股盤前漲超10%】Coherent美股盤前漲超10%，現報362.99美元。
-
----
-
-### 2026-08-12 20:37:47  #國際
-
-8月12日，全球基金淨賣出100億印度盧比的印度股票。
-
----
-
-### 2026-08-12 20:37:40  #市場 #國際
-
-美國國債收益率跌勢進一步擴大，10年期國債收益率最新下跌2.4個基點，報4.659%；2年期國債收益率下跌2.9個基點，報4.189%。
-
----
-
-### 2026-08-12 20:37:22  #公司 #國際
-
-【中國貿促會副會長林紅紅會見美國蘋果公司大中華區政府事務總經理範勇】8月12日，中國貿促會副會長林紅紅在京會見美國蘋果公司大中華區政府事務總經理範勇一行。雙方圍繞促進外資企業更好在華髮展、參與2026年APEC系列工商界活動、加強產業鏈供應鏈合作等議題進行交流。（中國貿促）
-
----
-
-### 2026-08-12 20:37:15  #其他
-
-市場訊息：OpenAI企業客戶的年化營收增長率指標在7月環比增長32%。
-
----
-
-### 2026-08-12 20:37:15  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Traders continue to price a 45% chance of a Fed rate hike in September.
-
----
-
-### 2026-08-12 20:37:00  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-U.S. Bureau of Labor Statistics: In July, healthcare, airfares, communication, education and recreation prices rose MoM; motor vehicle insurance prices fell MoM.
-
----
-
-### 2026-08-12 20:36:59  #MKT News #AAPL.O
-
-【China trade body vice chair meets Apple Greater China government affairs head】On Aug. 12 in Beijing, Lin Honghong, vice chair of the China Council for the Promotion of International Trade, met with Fan Yong, general manager of government affairs, Greater China, Apple. They discussed measures to facilitate foreign companies’ operations in China, Apple’s participation in 2026 APEC business events, and stepped-up industry and supply‑chain cooperation.
-
----
-
-### 2026-08-12 20:36:48  #市場
-
-【SpaceX美股盤前漲超2%】SpaceX美股盤前漲超2%，現報136.042美元。
-
----
-
-### 2026-08-12 20:36:46  #市場 #國際
-
-【歐佩克下調今年全球石油需求增長預期】石油輸出國組織（歐佩克）當地時間今天（8月12日）釋出8月《月度石油市場報告》。報告稱，受全球經濟形勢等因素影響，歐佩克小幅下調2026年全球石油需求增長預期至每天60萬桶，上月報告為80萬桶/日。報告同時上調2027年全球石油需求增長預期至每天220萬桶。報告顯示，7月歐佩克一攬子原油平均價格為每桶82.99美元，環比下降6.76美元；布倫特原油期貨近月合約均價為每桶83.97美元，環比下降0.46美元；美國西得克薩斯中質原油期貨近月合約均價為每桶79.22美元，環比下降2.57美元。 報告指出，地緣政治風險以及對短期供應可獲得性的擔憂，為近月原油期貨合約價格提供支撐，石油市場基本面保持穩健。（CCTV國際時訊）
-
----
-
-### 2026-08-12 20:36:26  #央行 #國際
-
-交易員們認為美聯儲9月份加息的可能性為45%。
-
----
-
-### 2026-08-12 20:36:20  #資料 #市場 #國際
-
-7月CPI變化與預期相符，美國國債維持漲勢。
-
----
-
-### 2026-08-12 20:36:20  #Trading Economics #Economy #United States #Core Inflation Rate #Importance 1
-
-US Annual Core Inflation Matches Forecasts at 2.5% — The US core inflation rate, excluding volatile food and fuel costs, eased for the second month to 2.5% in July 2026, the lowest in five months, matching market forecasts. On a monthly basis, core consumer prices rose by 0.2% in July, after being flat in the prior month and in line with market expectations.
-
----
-
-### 2026-08-12 20:36:17  #Trading Economics #Markets #Commodity #commodity #Importance 0
-
-HRC Steel Hits 3-year High — HRC Steel increased to 1211.00 USD/T, the highest since March 2023. Over the past 4 weeks, Hot-Rolled Coil Steel gained 2.55%, and in the last 12 months, it increased 45.15%.
-
----
-
-### 2026-08-12 20:36:10  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #US2Y
-
-US 2-yr/10-yr Treasury yield curve briefly flattened after the CPI print and has since steepened; spread 47 bps.
-
----
-
-### 2026-08-12 20:35:51  #MKT News #US10Y #Impact bullish #DXY #Impact bearish #WTI
-
-U.S. Bureau of Labor Statistics: In July the shelter inflation index rose 0.1% MoM, accounting for about two-thirds of that month’s overall CPI increase. The food index rose 0.1% MoM, with food away from home up 0.3% MoM. The energy index fell 1.5% MoM.
-
----
-
-### 2026-08-12 20:35:44  #其他
-
-【上半年廣州結婚登記52435對，同比增長3.4%】近日，廣東省民政廳釋出《廣東民政事業統計季報（2026年第二季度）》。資料顯示，今年上半年，廣東全省結婚登記28.8萬對，離婚登記10.8萬對。其中，廣州市民政局統計資料顯示，今年上半年廣州結婚登記52435對，較去年同期的50715對，同比增長3.4%。此外，2025年全年，廣東結婚登記61.4萬對，同比增加10.2萬對，增長19.92%。 （廣州日報）
-
----
-
-### 2026-08-12 20:35:43  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #S&P500 #DXY #Impact bearish
-
-【US July core inflation subdued, likely eases Fed rate‑hike pressure】US core CPI was subdued in July, likely reducing pressure on the Fed to raise rates. The Bureau of Labor Statistics said core CPI, excluding food and energy, rose 0.2% MoM and 2.5% YoY in July — the YoY increase matched the weakest since March 2021. Headline CPI rose 0.1% MoM and 3.4% YoY.
-
----
-
-### 2026-08-12 20:35:37  #央行 #美聯儲
-
-美國7月CPI資料公佈後，交易員略微降低9月份美聯儲加息的賭注。
-
----
-
-### 2026-08-12 20:35:27  #資料 #市場 #央行 #國際
-
-【美國 7 月 CPI 符合預期 通脹持續降溫，暫緩美聯儲即刻加息壓力】美國週三公佈的一項關鍵通脹資料顯示，各類商品與服務價格漲幅放緩，或削弱央行立刻加息的緊迫性。美國勞工統計局資料顯示，作為美聯儲通脹監測核心指標的消費者價格指數（CPI）7 月環比上漲 0.1%，符合道瓊斯調查市場一致預期。剔除食品和能源的核心 CPI 環比上升 0.2%，同樣與預期持平。同比口徑來看，整體通脹同比 3.4%，核心通脹同比 2.5%，兩項資料均符合華爾街預期。儘管通脹水平仍顯著高於美聯儲 2% 的目標，但是連續兩個月（6 月、7 月）溫和的月度資料表明，今年早些時候由能源價格推動的通脹衝高態勢正在消退。
-
----
-
-### 2026-08-12 20:35:23  #MKT News #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
-
-The yen against the dollar held gains after the US CPI release, rising 0.1% to 159.
-
----
-
-### 2026-08-12 20:35:22  #資料 #市場 #國際
-
-美國國債2年期/10年期收益率曲線在CPI資料公佈後短暫走平，目前正在陡化，最新利差為47個基點。
-
----
-
-### 2026-08-12 20:35:00  #市場 #國際
-
-美國短期利率期貨在通脹資料公佈後小幅上漲。
-
----
-
-### 2026-08-12 20:35:00  #經濟數據 #美國
-
-美國7月實際平均時薪同比下降0.2%。
-
----
-
-### 2026-08-12 20:34:34  #市場 #國際
-
-美國10年期國債收益率小幅上升，最新下跌2.2個基點至4.661%。
-
----
-
-### 2026-08-12 20:34:31  #市場 #國際
-
-歐洲斯托克600指數目前上漲0.2%。
-
----
-
-### 2026-08-12 20:34:18  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rebounded to $4,418/oz after slipping to $4,382/oz following a data release.
-
----
-
-### 2026-08-12 20:34:04  #Trading Economics #Economy #United States #Core Inflation Rate MoM #Importance 1
-
-US Core Consumer Prices Rise as Expected — Core consumer prices in the United States, which exclude food and energy, rose by 0.2% from the previous month in July of 2026, gaining traction from the hold in the previous month, and in line with market expectations. Prices rose sharply for medical care devices (0.6% vs -0.1% in June), transportation services (0.3% vs -0.3%), and used cars and trucks (0.4% vs -0.2%). Meanwhile, inflation was softer for shelter (0.1% vs 0.1%). From the previous year, core consumer prices rose by 2.5%.
-
----
-
-### 2026-08-12 20:34:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 10-year Treasury yield fell 2.2 bps to 4.661%.
-
----
-
-### 2026-08-12 20:33:51  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-Stoxx Europe 600 up 0.2%.
-
----
-
-### 2026-08-12 20:33:34  #MKT News #Macro & Rates #US Economy
-
-【US July core CPI YoY in line with expectations】US July not-seasonally-adjusted core CPI YoY rose 2.5%, the smallest increase since February, in line with market expectations.
-
----
-
-### 2026-08-12 20:33:31  #資料 #國際
-
-美國CPI資料公佈後，新興市場貨幣維持漲幅；南非蘭特、智利比索領漲。
-
----
-
-### 2026-08-12 20:33:23  #資料 #市場
-
-日元兌美元匯率在美股CPI資料公佈後維持漲勢，上漲0.1%至159日元。
-
----
-
-### 2026-08-12 20:33:18  #市場
-
-【閃迪美股盤前漲超5%】閃迪美股盤前漲超5%，現報1335.36美元。
-
----
-
-### 2026-08-12 20:32:40  #公司
-
-市場訊息：THRIVE控股完成新一輪融資，籌得資金20億美元，公司估值達120億美元。
-
----
-
-### 2026-08-12 20:32:33  #MKT News
-
-Swiss National Bank welcomes measures to strengthen "too big to fail" oversight.
-
----
-
-### 2026-08-12 20:32:19  #資料 #市場 #國際
-
-現貨黃金<XAU=>在美國CPI資料公佈後回吐漲幅，最新上漲0.5%，報每盎司4388.89美元。
-
----
-
-### 2026-08-12 20:31:59  #MKT News #Macro & Rates #US Economy #DXY
-
-US seasonally adjusted core CPI rose 0.2% MoM in July, up from the prior month and matching market expectations.
-
----
-
-### 2026-08-12 20:31:54  #資料
-
-彭博美元現貨指數在CPI資料與預期相符後變化不大。
-
----
-
-### 2026-08-12 20:31:50  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-Dollar index (DXY) rose 0.20 points intraday to 99.82.
-
----
-
-### 2026-08-12 20:31:46  #市場
-
-現貨白銀短線下挫1美元，現報65.89美元/盎司。現貨黃金短線跳水50美元，現報4399美元/盎司。
-
----
-
-### 2026-08-12 20:31:45  #Trading Economics #Economy #United States #Inflation Rate #Importance 3
-
-US Inflation Rate Slows as Expected — The annual inflation rate in the US slowed for a second consecutive month to 3.4% in July 2026, from 3.5% in June, in line with market expectations and easing further from the 2023 high of 4.2% reached in May. On a monthly basis, the CPI rose 0.1%, rebounding from a 0.4% decline in June, which marked the first monthly drop since May 2020, also as expected. The index for shelter rose 0.1%, accounting for roughly two-thirds of the monthly all items increase. In contrast, energy prices were down 1.5%. Core consumer prices went up 0.2%, following a flat reading in June, while the annual core inflation rate eased to 2.5% from 2.6% in the previous month, matching forecasts.
-
----
-
-### 2026-08-12 20:31:20  #MKT News #Macro & Rates #US Economy
-
-【US July CPI MoM in line with expectations】US July seasonally adjusted CPI rose 0.1% MoM, returning to positive growth and matching market expectations.
-
----
-
-### 2026-08-12 20:31:18  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver dropped $1 intraday to $65.89/oz.
-
----
-
-### 2026-08-12 20:30:55  #經濟數據 #美國
-
-【美國7月未季調核心CPI環比增長2.5% 符合預期】美國7月未季調核心CPI環比增長2.5%，預期2.50%，前值2.60%。環比增長0.2%，預期0.20%，前值0.00%。
-
----
-
-### 2026-08-12 20:30:53  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-US July housing inflation, not seasonally adjusted, YoY 3.2% vs 3.3% prior.
-
----
-
-### 2026-08-12 20:30:47  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
-
-US July not seasonally adjusted used cars and trucks inflation YoY -1.9%, prior -1.8%.
-
----
-
-### 2026-08-12 20:30:46  #MKT News #Economic Calendar
-
-United States | Shelter Inflation Rate (YoY) (Jul) | actual 3.2% | previous 3.3%
-
----
-
-### 2026-08-12 20:30:43  #MKT News #Macro & Rates #US Economy
-
-US July not seasonally adjusted new-vehicle inflation 0.5% YoY; prior 0.5%.
-
----
-
-### 2026-08-12 20:30:41  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold dropped $50 intraday to $4,399/oz.
-
----
-
-### 2026-08-12 20:30:41  #MKT News #Economic Calendar
-
-United States | Used Car and Truck Inflation Rate (YoY) (Jul) | actual -1.9% | previous -1.8%
-
----
-
-### 2026-08-12 20:30:37  #MKT News #Important #Macro & Rates #US Economy
-
-【US July CPI YoY in line with expectations】US July unadjusted CPI rose 3.4% YoY, the smallest increase since March and in line with market expectations.
-
----
-
-### 2026-08-12 20:30:37  #MKT News #Economic Calendar
-
-United States | New Vehicle Inflation Rate (YoY) (Jul) | actual 0.5% | previous 0.5%
-
----
-
-### 2026-08-12 20:30:36  #資料 #市場 #國際
-
-美國7月核心CPI環比上漲0.2%；預期上漲0.2%。
-
----
-
-### 2026-08-12 20:30:34  #MKT News #Macro & Rates #US Economy
-
-US July food inflation, not seasonally adjusted, YoY 3%, unchanged from June (3%).
-
----
-
-### 2026-08-12 20:30:28  #MKT News #Commodities #Energy #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-U.S. July unadjusted energy inflation YoY 14.7%, down from 15.7% in June.
-
----
-
-### 2026-08-12 20:30:27  #市場 #國際
-
-美國7月消費者物價指數同比上漲3.4%；預期上漲3.4%。
-
----
-
-### 2026-08-12 20:30:27  #MKT News #Economic Calendar
-
-United States | Food Inflation Rate (YoY) (Jul) | actual 3% | previous 3%
-
----
-
-### 2026-08-12 20:30:21  #MKT News #Economic Calendar
-
-United States | Energy Inflation Rate (YoY) (Jul) | actual 14.7% | previous 15.7%
-
----
-
-### 2026-08-12 20:30:20  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish
-
-US real personal income m/m 0%; prior revised to 0.7% from 0.8%.
-
----
-
-### 2026-08-12 20:30:19  #市場 #國際
-
-美國7月消費者物價指數環比上漲0.1%；預期上漲0.1%。
-
----
-
-### 2026-08-12 20:30:18  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-US July CPI (not seasonally adjusted) 333.918, consensus 333.993, prior 333.952.
-
----
-
-### 2026-08-12 20:30:16  #MKT News
-
-Canada building permits rose 18.5% MoM in June; May revised from -1.7% to -3.0%.
-
----
-
-### 2026-08-12 20:30:15  #MKT News #Important #Macro & Rates #US Economy #XAUUSD #Impact bullish #DXY #Impact bearish #S&P500
-
-U.S. July core CPI (not seasonally adjusted) YoY 2.5% vs. 2.5% expected; prior 2.6%.
-
----
-
-### 2026-08-12 20:30:15  #MKT News #Important #XAUUSD #DXY #US10Y
-
-US July CPI YoY (not seasonally adjusted) 3.4% vs 3.4% consensus; June 3.50%.
-
----
-
-### 2026-08-12 20:30:13  #資料 #市場 #國際
-
-美國7月核心CPI同比上漲2.5%；預計+2.5%。
-
----
-
-### 2026-08-12 20:30:11  #市場 #焦點
-
-現貨黃金突破4430美元/盎司，日內漲1.46%。
-
----
-
-### 2026-08-12 20:30:11  #MKT News #Important
-
-US July core CPI (seasonally adjusted) MoM +0.2% vs 0.20% expected; prior 0.0%.
-
----
-
-### 2026-08-12 20:30:11  #MKT News #Important #Macro & Rates #US Economy
-
-US July seasonally adjusted CPI MoM 0.1% vs 0.1% expected; prior -0.4%.
-
----
-
-### 2026-08-12 20:30:05  #MKT News #Economic Calendar #Important
-
-Canada | Building Permits (MoM) (Jun) | actual 18.5% | previous -1.70%
-
----
-
-### 2026-08-12 20:30:04  #MKT News #Economic Calendar #Important
-
-United States | Real Earnings All Private Workers (MoM) (Jul) | actual 0% | previous 0.8%
-
----
-
-### 2026-08-12 20:30:03  #MKT News #Economic Calendar #Important
-
-United States | CPI (Jul) | actual 333.918 | consensus 333.993 | previous 333.952
-
----
-
-### 2026-08-12 20:30:03  #MKT News #Economic Calendar #Important
-
-United States | CPI excluding Food and Energy (YoY) (Jul) | actual 2.5% | consensus 2.50% | previous 2.60%
-
----
-
-### 2026-08-12 20:30:03  #MKT News #Economic Calendar #Important
-
-United States | CPI excluding Food and Energy (MoM) (Jul) | actual 0.2% | consensus 0.20% | previous 0.00%
-
----
-
-### 2026-08-12 20:30:03  #MKT News #Economic Calendar #Important
-
-United States | CPI (MoM) (Jul) | actual 0.1% | consensus 0.1% | previous -0.40%
-
----
-
-### 2026-08-12 20:30:02  #市場 #焦點
-
-紐約期金突破4490美元/盎司，日內漲1.10%。
-
----
-
-### 2026-08-12 20:30:02  #MKT News #Economic Calendar #Important
-
-United States | CPI (YoY) (Jul) | actual 3.4% | consensus 3.4% | previous 3.50%
-
----
-
-### 2026-08-12 20:30:00  #央行 #其他
-
-智利央行交易員調查顯示，預計12個月後該國基準利率將為4.5%。
-
----
-
-### 2026-08-12 20:30:00  #經濟數據 #美國
-
-【美國7月CPI同比增長3.4% 符合市場預期】美國7月消費者價格指數（CPI）同比增長3.4%，預估為3.4%，前值為3.5%。美國7月CPI環比增長0.1%，預估為增長0.1%，前值為下降0.4%。美國7月未季調核心CPI環比增長2.5%，預期2.50%，前值2.60%。環比增長0.2%，預期0.20%，前值0.00%。
-
----
-
-### 2026-08-12 20:29:26  #MKT News
-
-Morocco vows to take tough measures to crack down on illegal immigration.
-
----
-
-### 2026-08-12 20:29:24  #公司
-
-市場訊息：一架軍用飛機在土耳其西北部進行訓練飛行時墜毀。
-
----
-
-### 2026-08-12 20:28:46  #其他
-
-【“零關稅”落地3個月，廣州海關關區自非洲進口享惠貨值超7.3億元】以廣州海關關區為例，截至7月31日，該關自53個非洲建交國進口享惠貨值超7.3億元，企業享受稅款減讓超0.8億元。
-
----
-
-### 2026-08-12 20:28:32  #其他
-
-摩洛哥承諾對非正常移民採取嚴厲措施。
 
 ---

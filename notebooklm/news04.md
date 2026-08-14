@@ -1,7 +1,499 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 00:01:06_
-_本檔包含 3092 則快訊，約 605505 字_
+_更新時間：2026-08-15 01:05:16_
+_本檔包含 3128 則快訊，約 605206 字_
+
+---
+
+### 2026-08-11 18:20:17  #公司
+
+【賽意資訊：首次回購股份54.91萬股，支付1500.57萬元】賽意資訊公告，公司此前審議透過回購方案，擬以不低於3000萬元且不超過6000萬元的自有或自籌資金回購公司股份，回購價格不超過40元/股，用於實施股權激勵或員工持股計劃。2026年8月11日，公司首次透過集中競價交易方式回購股份54.91萬股，佔公司總股本的0.1344%，最高成交價格27.4元/股，最低成交價格27.23元/股，成交總金額1500.57萬元（不含交易費用）。
+
+---
+
+### 2026-08-11 18:19:14  #其他
+
+【預告：2026中國算力大會將於9月11日至13日在河北廊坊舉行】2026中國算力大會將於9月11日至13日在河北省廊坊市舉行，大會主題為“共織算力網 智啟新未來”。大會首次舉辦“算力首創首發釋出會”，設定技術、產業兩大單元，將集中釋出一批首創首發算力軟硬體新品，重點展示國產算力晶片、智慧體、綠色算力等突破性成果。
+
+---
+
+### 2026-08-11 18:18:40  #公司
+
+【東望時代：股東新嶺科技減持332.06萬股 持股降至3%】東望時代公告稱，股東新嶺科技於2026年7月7日至8月11日，透過集中競價及大宗交易方式合計減持公司股份332.06萬股，佔總股本的0.39%，減持總金額為1285.25萬元。本次權益變動後，其持股比例由3.39%降至3.00%，觸及1%刻度。本次減持與此前計劃一致，不觸及要約收購，未實施完畢，不會導致公司實控人變化及對經營產生重大影響。
+
+---
+
+### 2026-08-11 18:18:37  #Trading Economics #Markets #Serbia #Stock Market #Importance 0
+
+Stocks in Serbia Hit Near 18-year High — BELEX 15 increased to 1302.00 Index Points, the highest since September 2008. Over the past 4 weeks, Belgrade Stock Exchange 15 gained 6.19%, and in the last 12 months, it increased 5.49%.
+
+---
+
+### 2026-08-11 18:18:28  #公司
+
+【行雲科技：至今未發生任何算力裝置及相關商品被海關扣留、滯留等無法通關的情形】行雲科技(300209.SZ)公告稱，公司關注到網路平臺出現“算力卡被卡在海關”等不實言論，經核查確認相關傳言均不屬實。公司所有算力裝置海外採購及進口清關均嚴格遵守法律法規，未發生被海關扣留或滯留情形，供應鏈穩定有序。截至公告日，公司在手算力長期訂單規模約150.82億元，均按合同正常履約。公司已啟動資訊溯源核查並報警，將依法追究法律責任。
+
+---
+
+### 2026-08-11 18:18:27  #MKT News
+
+Sony will appoint the joint venture's representative director.
+
+---
+
+### 2026-08-11 18:18:19  #公司
+
+【繼Seed、Flow後，位元組又成立一個AI一級部門，直指“資料”】從多個獨立信源處獲悉，位元組跳動近期成立了一個新的一級部門——AI資料與安全，與Seed、Flow、抖音等部門平行，負責人為王贏磊（Adam Wang）。這是繼2023年底成立Seed和Flow兩個AI一級部門後，位元組圍繞AI業務成立的又一個一級部門。負責人王贏磊此前為TikTok平臺責任負責人和TikTok直播負責人。“王贏磊負責的直播業務曾是TikTok最主要的營收來源之一，在位元組內部有過赫赫戰功。”一位接近位元組的人士表示。就上述訊息向位元組求證，截止發稿，暫無回覆。（36氪）
+
+---
+
+### 2026-08-11 18:17:44  #公司 #市場 #國際
+
+【日元跌向1美元兌160重要關口 干預憂慮進一步升溫】日元小幅走弱，兌美元逼近一個關鍵水平，可能加劇市場對日本當局再次出手支撐日元的猜測。由於東京市場週二因假日休市，市場波動較為溫和，但交易員正為日元跌向1美元兌160日元做準備。160是一個關鍵水平，過去曾對日元進一步貶值形成制約。倫敦交易時段，日元一度下跌0.1%，至1美元兌159.39。週一，日元創2月中旬以來最大單日跌幅，下跌1%，當日美元兌多數十國集團貨幣走強。日元目前已經抹去7月31日以來近一半的漲幅。當時，日本和美國實施了自1998年以來首次協調幹預，以支撐日元。瑞穗銀行高階策略師Masayuki Nakajima在一份報告中寫道：“如果美元/日元明確突破具有重要心理意義的160關口，市場對干預的擔憂可能進一步升溫。”
+
+---
+
+### 2026-08-11 18:17:20  #宏觀
+
+【貴陽市破獲特大製售偽劣醬香白酒案】貴陽市場監管官微8月11日訊息，7月1日，隨著法槌落下，一場歷時近兩年、橫跨省市區三級市場監管部門、公安機關深度參與的特大製售偽劣醬香型白酒案件在貴陽市花溪區人民法院迎來終審。主犯韓某被判處有期徒刑十二年，並處罰金217萬元；胡某被判處有期徒刑七年，罰金26萬元；彭某被判處有期徒刑一年、緩刑二年，罰金10萬元。全案共查扣假冒偽劣產品近2萬件，涉案貨值約800萬元，銷售網路覆蓋廣東、天津、浙江、上海等15個省市。韓某等人以20元至30元一件的低端酒精“串酒”，冒充正品系列醬香型白酒，在直播間以399元的價格銷售。鉅額利潤的背後，是對消費者權益的嚴重損害，更是對貴州醬香白酒品牌形象和市場秩序的嚴重破壞。
+
+---
+
+### 2026-08-11 18:16:52  #其他
+
+【招商銀行零售AUM突破18萬億元】2026年招商銀行財富合作伙伴論壇在廣州舉行。記者獲悉，招商銀行宣佈該行管理零售客戶總資產（AUM）突破18萬億元。此前，招行2025年年報顯示，去年末該行管理零售客戶總資產（AUM）為17.08萬億元。（南方財經）
+
+---
+
+### 2026-08-11 18:16:45  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Al Jazeera reports Israeli forces advancing near Aita al-Jabbar village in southern Lebanon.
+
+---
+
+### 2026-08-11 18:16:30  #MKT News
+
+Lebanese president said the Lebanese are united on Israeli withdrawal, the release of prisoners of war and reconstruction, and vowed never to allow Israel to occupy an inch of Lebanese territory.
+
+---
+
+### 2026-08-11 18:16:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Container ship attacked in Gulf of Oman, crew report】On the 11th a seafarer said a container ship on the eastern edge of the Gulf of Oman came under attack; crew issued a distress call, prepared to abandon ship, and said the vessel, with 17 crew aboard, was reportedly attacked by a helicopter. UK Maritime Trade Operations also reported on the 11th an incident in the Gulf of Oman involving a container ship and military forces.
+
+---
+
+### 2026-08-11 18:15:42  #其他
+
+【一艘集裝箱船在阿曼灣遇襲】一名海員11日告訴新華社記者，一艘集裝箱船在阿曼灣海域遇襲，船員緊急呼叫救援並準備棄船。據這名海員透露，被襲船隻上的船員透過船舶間無線電公共頻道通報，事發地點位於阿曼灣東部邊緣，船上共17人，疑似被“直升機襲擊”。英國海上貿易行動辦公室11日也釋出通報說，阿曼灣海域發生一起涉及集裝箱船與軍方力量的事件。（新華社）
+
+---
+
+### 2026-08-11 18:15:06  #公司
+
+【華曙高科：2026年上半年淨利潤843.48萬元，同比增長87.09%】華曙高科公告，2026年上半年營業收入3.41億元，同比增長42.27%。歸屬於上市公司股東的淨利潤843.48萬元，同比增長87.09%。扣除非經常性損益的淨利潤366.45萬元，同比增長115.78%。
+
+---
+
+### 2026-08-11 18:15:03  #公司
+
+【九聯科技：核心技術人員調整 新增吳開鋼、鄧崇旺】九聯科技公告稱，公司於2026年8月10日對核心技術人員進行調整。原核心技術人員許華、何雲華因工作內容調整，不再認定為核心技術人員，但仍繼續在公司任職；新增認定吳開鋼、鄧崇旺為核心技術人員。調整後，公司核心技術人員共4名。此次調整不存在職務發明專利權屬糾紛，不會對公司產生實質不利影響，新增人員有助於推進研發專案。
+
+---
+
+### 2026-08-11 18:15:02  #MKT News #Brent #Impact bullish #WTI
+
+Maritime security sources said a container ship in the Gulf of Oman off Pakistan was reportedly struck by a suspected missile.
+
+---
+
+### 2026-08-11 18:14:57  #公司
+
+【九聯科技：2026年上半年淨利潤3511.02萬元，實現扭虧為盈】九聯科技公告，2026年上半年營業收入14.42億元，同比增長30.92%。歸屬於上市公司股東的淨利潤3511.02萬元，上年同期淨利潤虧損1.23億元，實現扭虧為盈。
+
+---
+
+### 2026-08-11 18:14:50  #其他
+
+英國海事貿易行動辦公室（UKMTO）稱，已將阿曼灣涉事船隻型別從油輪更正為集裝箱船。
+
+---
+
+### 2026-08-11 18:14:43  #MKT News
+
+UK Maritime Trade Operations said it has reclassified the vessel involved in the Gulf of Oman incident from an oil tanker to a container ship.
+
+---
+
+### 2026-08-11 18:14:05  #公司 #國際
+
+【李開復說中國開源模型讓美國擔憂】零一萬物創始人兼執行長、創新工場董事長李開復近日在北大國發院釋出新書《AI未來已來》時表示，在中美人工智慧競賽中，憑藉低廉的成本和接近美國先進閉源模型的能力，越來越多美國公司開始用中國的開源產品，中國的開源模型正讓美國人感到擔憂。（北京日報）
+
+---
+
+### 2026-08-11 18:13:47  #其他
+
+北陸電力最佳化海龍海上風電專案債務融資，專案債務融資規模增加9億美元。
+
+---
+
+### 2026-08-11 18:13:39  #MKT News #CNH #Impact bullish
+
+【China-Laos railway Jan–Jul import-export cargo value up 29.9% YoY】Cargo value moved on the China-Laos railway in Jan–Jul exceeded 20 billion yuan, up 29.9% YoY. Since opening in 2021 the line has carried over 94 billion yuan of cross-border goods across more than 3,900 product types to 19 countries and regions.
+
+---
+
+### 2026-08-11 18:13:34  #公司
+
+【漢邦科技：持股5%以上股東合計持股比例降至8%】漢邦科技公告稱，2026年8月7日至11日，股東杭州清科致盛投資合夥企業（有限合夥）透過集中競價交易減持283,138股，佔總股本0.25%。本次權益變動後，其與一致行動人上海清科共創投資合夥企業（有限合夥）、倪正東合計持股比例由8.25%降至8.00%，觸及1%刻度。此次減持系履行此前計劃，尚未實施完畢，不會導致實控人變化，對公司無重大影響。
+
+---
+
+### 2026-08-11 18:13:26  #公司 #市場
+
+【一鳴食品：股票交易異常波動 提醒投資者注意風險】一鳴食品公告稱，公司股票在2026年8月7日、8月10日、8月11日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司經營正常，無應披露未披露重大事項。近三個交易日換手率分別為10.0625%、7.7402%、10.3738%，累計28.1765%，交易量大幅增加。公司市盈率、市淨率均明顯高於行業水平，提醒投資者注意交易、估值、產品質量、門店經營、原材料價格波動等風險。
+
+---
+
+### 2026-08-11 18:13:16  #公司 #市場
+
+【立新能源：電力現貨及中長期市場價格受供需和競價機制影響，電價短期呈下降態勢】立新能源釋出異動公告，公司股票於2026年8月10日、8月11日連續兩個交易日收盤價格漲幅偏離值累計超過20%，根據《深圳證券交易所交易規則》的相關規定，屬於股票交易異常波動的情形。受電力體制改革深化及可再生能源補貼退坡等政策因素影響，新能源電力已全面進入電力市場交易，市場化交易電量佔比持續提升，電力現貨及中長期市場價格受供需和競價機制影響，電價短期呈下降態勢。若未來市場化交易規模進一步擴大、電價持續下行，公司平均上網電價存在下滑風險，進而對經營業績產生不利影響。近期公司股價波動主要受市場資金炒作、迎峰度夏用電預期等情緒因素驅動，公司日常生產經營、內外經營環境未發生重大實質性變化，股價存在快速回撥、大幅震盪的風險。
+
+---
+
+### 2026-08-11 18:12:35  #MKT News
+
+Lebanon's president said the scale of Israeli attacks on Lebanon has declined since the signing of a framework agreement.
+
+---
+
+### 2026-08-11 18:12:07  #其他
+
+【前7個月中老鐵路進出口貨值同比增長29.9%】記者從昆明海關獲悉，今年前7個月，中老鐵路進出口貨值超200億元，同比增長29.9%。自2021年開通以來，中老鐵路累計運輸跨境貨物貨值超940億元，貨物品種3900餘種，輻射19個國家和地區，持續賦能區域經貿合作發展。（央視新聞）
+
+---
+
+### 2026-08-11 18:11:41  #公司
+
+【利揚晶片：定增申請獲上交所受理】利揚晶片公告，公司於2026年8月11日收到上海證券交易所出具的《關於受理廣東利揚晶片測試股份有限公司科創板上市公司發行證券申請的通知》，上交所認為申請檔案齊備，符合法定形式，決定予以受理並依法稽核。公司本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會同意註冊的決定後方可實施。
+
+---
+
+### 2026-08-11 18:11:15  #其他
+
+Coinbase在阿布扎比設立代幣化中心。
+
+---
+
+### 2026-08-11 18:10:48  #其他
+
+奧羅蘇爾礦業：哥倫比亞地震造成影響輕微，預計不會造成運營延誤。
+
+---
+
+### 2026-08-11 18:10:35  #公司
+
+【基金募集宣傳違規！財經大V和旗下百億私募被監管責令改正】記者獲悉，近日海南證監局釋出了一則關於對齊傢俬募基金管理（海南）有限公司（以下簡稱齊家基金）、齊俊傑採取責令改正措施的決定。該決定顯示，齊家基金在開展私募基金業務過程中，存在透過實際控制人齊俊傑（未註冊為齊家基金的基金從業人員）、齊俊傑控制的相關主體開展私募基金募集宣傳推介的情形，違反了相關法律法規的規定。監管決定對該機構和齊俊傑本人採取責令改正的行政監管措施，並記入資本市場誠信檔案資料庫。公開資料顯示，齊俊傑是一名財經大V，其賬戶“齊俊傑”在微博上擁有近百萬粉絲，還在多個社交平臺擁有粉絲數不低的賬戶。此外，他在知識星球還有多個賬戶，按當前的會員年費和成員數量測算，收入不菲。而根據中基協備案資訊，齊家基金的最新規模在100億元以上，屬於不折不扣的百億私募。（每經）
+
+---
+
+### 2026-08-11 18:10:20  #其他
+
+【博濟醫藥與長春中醫藥大學附屬醫院達成戰略合作】據博濟醫藥訊息，今日（8月11日），博濟醫藥與長春中醫藥大學附屬醫院舉行戰略合作簽約儀式，雙方正式締結戰略合作伙伴關係。根據協議，雙方將圍繞藥物及醫療器械臨床試驗、臨床研究人才培養、中醫藥科研成果轉化等板塊開展全方位合作，共同助力中醫藥創新研發高質量發展。
+
+---
+
+### 2026-08-11 18:10:04  #國際
+
+【波及十餘省份！“白海豚”殘渦疊加冷空氣帶來持續強降雨】今天（8月11日）17時前後，今年第13號颱風“白海豚”已停止編號，但其殘餘雲系依然龐大，還將和冷空氣結合，保持超強的造雨能力。降雨將波及江蘇、安徽、湖北、河南等10餘省份，並持續至本週末，河南中東部、山東西部、安徽西北部需警惕極端降雨。
+
+---
+
+### 2026-08-11 18:09:26  #其他
+
+【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局8月11日18時聯合釋出紅色山洪災害氣象預警：預計，8月11日20時至12日20時，河北西南部、山西東部、浙江東部、河南中西部等地部分地區發生山洪災害可能性大（橙色預警），其中，河南中部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）
+
+---
+
+### 2026-08-11 18:08:56  #公司 #國際
+
+【聯邦制藥：UBT48128片獲美國FDA臨床試驗批准】聯邦制藥公告，公司全資附屬公司聯邦生物科技（珠海橫琴）有限公司自主研發的1類創新藥UBT48128片，關於超重或肥胖適應症及2型糖尿病適應症的新藥臨床試驗註冊申請（IND）獲美國食品藥品監督管理局（FDA）批准。
+
+---
+
+### 2026-08-11 18:08:46  #公司
+
+【東星醫療與上海交大鄧子新團隊簽約 預計2027年實現兩款菌株投產】東星醫療(301290)訊息，該公司與上海交大鄧子新院士團隊簽約，推進重組人源化膠原蛋白研發產業化。依託鄧子新團隊的技術與平臺，東星醫療重組人源化III型短鏈、重組人源化III型全長單鏈菌株已完成研發，並建成10噸級發酵產線，預計該兩款菌株將於2027年1月正式投產。
+
+---
+
+### 2026-08-11 18:08:38  #公司 #市場 #國際
+
+【英偉達盤前領漲科技七巨頭 英偉達為AI基礎設施籌5000億美元融資】英偉達在盤前交易中領漲科技七巨頭。此前，這家晶片製造商邀請包括阿波羅全球管理、黑石集團、貝萊德和博楓資產管理在內的美國投資巨頭參與，為人工智慧基礎設施籌措5000億美元融資。科技七巨頭盤前表現：英偉達上漲1.1%，Meta上漲0.2%，蘋果上漲0.2%，特斯拉上漲0.1%；微軟下跌0.3%，亞馬遜下跌0.3%，Alphabet下跌0.2%。
+
+---
+
+### 2026-08-11 18:08:28  #其他
+
+杜克能源根據申報檔案披露，已將3500萬股權益單位定價為每股50美元，發行總規模達17.5億美元。
+
+---
+
+### 2026-08-11 18:08:17  #國際
+
+【哥倫比亞強震：最貧困省份和咖啡產區受災】哥倫比亞西部10日發生7.4級地震，震中位於通常被視為這個南美國家最貧困地區的喬科省，主要咖啡產區之一里薩拉爾達省也遭到廣泛破壞。據官方訊息，截至當晚，強震已造成至少132人死亡。除了喬科省，地震造成的相當大一部分破壞集中在哥倫比亞“咖啡三角區”之一里薩拉爾達省。按照哥倫比亞全國首府協會的說法，僅該省首府佩雷拉就有至少60人死亡。（新華社）
+
+---
+
+### 2026-08-11 18:07:36  #Trading Economics #Economy #United States #NFIB Business Optimism Index #Importance 2
+
+US Small Business Optimism Hits Highest Level in Nearly a Year — The US NFIB Small Business Optimism Index jumped to 99.8 in July 2026, the highest since August last year, compared to 97.4 in June and beating forecasts of 97.5. Of the 10 Optimism Index components, eight increased, and two decreased. Hiring plans improved substantially and contributed most to the rise in the Index. Real sales expectations and reports of inventory levels as “too low” both fell by 2 points. The Uncertainty Index rose 2 points from June to 91, remaining well above its historical average of 68. The rise was driven by an increase in owners reporting uncertainty about whether it is a good time to expand and capital expenditure plans.
+
+---
+
+### 2026-08-11 18:07:10  #焦點 #國際
+
+【2026年8月11日外交部發言人郭嘉昆答記者問】《讀賣新聞》記者：今年5月，兩名日本公民在遼寧大連因涉嫌“走私國家禁止進出口貨物罪”被拘留。請問目前司法程式進展如何？兩人是否已被起訴？有媒體報道稱，另有多名日本企業的日籍高管因類似案件被扣押，請問是否屬實？（朝日新聞、日本廣播協會、共同社亦問及）郭嘉昆：我們此前已就相關問題作了回應，中方主管部門依法查處違法犯罪案件。
+
+---
+
+### 2026-08-11 18:06:30  #國際
+
+【外交部：敦促太平洋島國論壇秘書處恪守一箇中國原則】法新社記者：據瞭解，太平洋島國論壇一名官員稱，臺灣代表將出席8月30日至9月4日在帛琉舉行的太平洋島國論壇領導人會議。去年因中方抗議，臺灣方面被禁止參加索羅門群島主辦的太平洋島國論壇領導人會議。中方對此有何評論？郭嘉昆：在中國臺灣地區參與國際組織活動問題上，中方立場是一貫、明確的，即必須按照一箇中國原則處理，這也是聯合國大會第2758號決議確認的國際關係基本準則和國際社會普遍共識。中方敦促太平洋島國論壇秘書處恪守一箇中國原則，妥善處理涉臺問題，避免影響中國和論壇關係健康穩定發展。（新華社）
+
+---
+
+### 2026-08-11 18:06:22  #國際
+
+【太缺人！美國招2000名遊戲玩家當空中交通管制員】美國政府正在嘗試招募電子遊戲玩家，以解決空中交通管制員缺乏的問題。據雅虎新聞網11日報道，美國交通部近日表示，已有超過2000名電子遊戲玩家進入空中交通管制員招聘流程。 美國交通部長肖恩·達菲當地時間9日在社交媒體X上發文稱，“4月，我們啟動了一項新的招聘活動，招募電子遊戲玩家成為空中交通管制員，並全面最佳化招聘流程，以便更快吸引優秀人才。”他提到，超過2000名“最優秀、最聰明”的候選人正在相關流程中。 目前，該崗位招聘目標已完成94%，同時創造了單年度招聘人數最多的紀錄。（環球網）
+
+---
+
+### 2026-08-11 18:05:29  #市場 #國際
+
+泰國SET指數收盤下跌0.7%，報1612.62點。
+
+---
+
+### 2026-08-11 18:05:18  #其他
+
+愛爾蘭7月份車輛登記量為25,521輛。
+
+---
+
+### 2026-08-11 18:05:08  #MKT News
+
+【US small-business optimism hits highest since Aug 2025; hiring plans drive gain】NFIB small-business optimism index rose 2.4 points to 99.8 in July, the highest reading since Aug 2025. Eight of 10 subcomponents increased, two declined; hiring plans improved most and contributed the most to the index gain. NFIB chief economist Bill Dunkelberg said optimism rose as the share of owners expecting to hire climbed and capex plans strengthened, though uncertainty remains. Looking ahead, 20% of owners plan to add jobs in the next three months, 25% plan capex in the next six months, and 14% view inf as their biggest business problem.
+
+---
+
+### 2026-08-11 18:05:06  #其他
+
+【美小企業信心衝頂一年來新高 招聘回暖顯信心】全美獨立企業聯合會（NFIB）小企業樂觀指數7月上升2.4點至99.8，創2025年8月以來最高水平。在樂觀指數10個分項中，8項上升，2項下降。招聘計劃顯著改善，對該指數上升貢獻最大。NFIB首席經濟學家Bill Dunkelberg表示：“7月小企業樂觀情緒再次上升，預期招聘的企業主顯著增加，資本支出計劃也有所改善。儘管當前不確定性較高，但預計經營環境將繼續向好。”展望未來，20%的企業主計劃未來三個月內新增就業崗位，14%的企業主將通脹視為最大經營難題，25%的小企業主計劃未來六個月內進行資本支出。
+
+---
+
+### 2026-08-11 18:05:03  #其他
+
+Venture Global：第二季度調整後淨利潤13.5億美元，市場預期13.2億美元；第二季度營收45.8億美元，同比增長48%。
+
+---
+
+### 2026-08-11 18:04:25  #公司 #市場
+
+VENTURE GLOBAL股價在釋出第二季度財報後盤前下跌12%。
+
+---
+
+### 2026-08-11 18:04:12  #其他
+
+加拿大H&R 房地產投資信託基金將被收購，對價為每單位 12.01 加元。
+
+---
+
+### 2026-08-11 18:03:51  #其他
+
+【上半年海關總署稽核透過智慧財產權海關保護備案1.5萬件】記者從海關總署獲悉，今年上半年，全國海關共查扣侵權嫌疑貨物1.3萬批次、3609萬件，海關總署稽核透過智慧財產權海關保護備案1.5萬件，辦理智慧財產權海關保護總擔保165件。（央視新聞）
+
+---
+
+### 2026-08-11 18:03:49  #MKT News #GOOG.O
+
+Google (GOOG.O) said it will expand its global network infrastructure in the Americas by adding three subsea cable systems: Alisios, Canoa and Olaluz.
+
+---
+
+### 2026-08-11 18:03:35  #公司
+
+谷歌宣佈將在美洲擴建全球網路基礎設施，部署阿爾西西奧斯（Alisios）、卡諾亞（Canoa）與奧拉圖茲（Olaluz）三套全新海底光纜系統。
+
+---
+
+### 2026-08-11 18:03:04  #公司 #市場
+
+【義翹神州：股票交易異常波動 不存在應披露未披露事項】義翹神州公告稱，公司股票於2026年8月7日、8月10日、8月11日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核實，公司前期披露資訊無更正補充，未發現公共傳媒報道未公開重大資訊，經營及內外部環境無重大變化，控股股東、實控人無應披露未披露重大事項，期間無買賣公司股票情形，無違反公平資訊披露規定。公司已預約8月26日披露半年報。
+
+---
+
+### 2026-08-11 18:03:00  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10Y Bond Yield Hits 26-month High — Canada 10 Year Government Bond Yield increased to 3.75%, the highest since May 2024. Over the past 4 weeks, Canada 10Y Bond Yield gained 15.60 basis points, and in the last 12 months, it increased 32.50 basis points.
+
+---
+
+### 2026-08-11 18:02:11  #其他
+
+【兩人內幕交易被罰近1480萬】監管部門持續加大對內幕交易違法行為的打擊與曝光力度。 近日，證監會公佈了兩份行政處罰決定書，對兩起內幕交易案件開出罰單。兩名當事人均因涉嫌內幕交易被查，最終各被處以“沒一罰三”，合計罰沒金額近1480萬元。 第一財經注意到，其中一名當事人公茂江，與原平安銀行上海分行、上海自貿試驗區分行行長公茂江同名，第一財經透過簡訊聯絡後者，並未獲得回覆，電話亦無人接聽。（第一財經）
+
+---
+
+### 2026-08-11 18:02:01  #MKT News
+
+【Nationz Technologies to raise prices on certain products 10%-20% from Oct 1, 2026】Nationz Technologies said it will raise prices on certain products by 10%–20% effective Oct. 1, 2026, citing AI-driven demand, global supply-chain restructuring and higher semiconductor costs and lead times. The company said MCU products face structural pressure from stronger demand versus constrained supply, prompting the adjustment.
+
+---
+
+### 2026-08-11 18:01:14  #市場 #國際
+
+印度Nifty 50指數收盤下跌0.46%。
+
+---
+
+### 2026-08-11 18:01:06  #市場 #國際
+
+印度盧比兌美元收跌0.14%，報1美元兌95.4350盧比；前一交易日收盤價為95.30。
+
+---
+
+### 2026-08-11 18:00:50  #國際
+
+【中央氣象臺8月11日10時繼續釋出暴雨橙色預警】預計，8月11日14時至12日14時，浙江東部、上海、江蘇西部和南部、安徽中北部、河南、湖北中西部、湖南北部、山東西部、河北西部和中南部、北京、天津、山西北部和東南部及內蒙古中部、黑龍江西部、雲南西部等地部分地區有大到暴雨，其中，山東西南部、河南中東部和南部、安徽北部、江蘇中北部、湖北西北部等地部分地區有大暴雨，山東西南部、河南中東部等地部分地區有特大暴雨(250-350毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。
+
+---
+
+### 2026-08-11 18:00:35  #其他
+
+中央氣象臺8月11日18時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-08-11 18:00:19  #經濟數據 #美國
+
+美國7月NFIB小型企業信心指數為99.8，前值97.4。
+
+---
+
+### 2026-08-11 18:00:09  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+US July NFIB Small Business Optimism Index 99.8, prior 97.4.
+
+---
+
+### 2026-08-11 18:00:04  #國際
+
+美國7月NFIB中小企業樂觀程度指數 99.8%，前值 97.4%。
+
+---
+
+### 2026-08-11 18:00:00  #MKT News #Economic Calendar #Important
+
+United States | NFIB Small Business Confidence Index (Jul) | actual 99.8 | previous 97.4
+
+---
+
+### 2026-08-11 17:59:47  #央行 #國際
+
+俄羅斯央行將比特幣、以太坊以及泰達幣（USDT）納入本國交易所可公開交易的加密貨幣清單。
+
+---
+
+### 2026-08-11 17:59:43  #公司
+
+【超達裝備：原持股5%以上股東減持計劃實施完成】超達裝備公告稱，股東濟南泉興環能投資合夥企業（有限合夥）此前計劃減持不超161.10萬股（佔剔除回購專用賬戶中股份後總股本比例2.00%）。因權益分派、可轉債轉股等，可減持數量調整為不超174.80萬股。截至8月11日，其減持計劃實施完成，透過集中競價和大宗交易合計減持132.79萬股，佔總股本1.62%。減持後，該股東持股比例降至4.99995%。此次減持不會導致公司控制權變更，對公司無不利影響。
+
+---
+
+### 2026-08-11 17:59:03  #公司 #國際
+
+【擔憂儲存晶片行業見頂 三星、SK海力士目標價遭韓國券商猛砍約30%】據韓國《中央日報》中文網11日報道，韓國Kiwoom證券同步下調了三星電子與SK海力士的目標股價。近期，市場對通用儲存晶片行業景氣度已過頂峰(Peak-out)的擔憂升溫，越來越多證券公司開始下調對韓國股市“兩大龍頭”三星電子及SK海力士的目標股價預期。據韓國金融投資業界11日訊息，Kiwoom證券前一天將三星電子目標股價從原先的39萬韓元下調至35萬韓元，將SK海力士目標股價從220萬韓元下調至210萬韓元，但對兩隻個股的投資意見均維持“買入”。未來資產證券、新韓投資證券、三星證券等主要券商，已相繼將兩隻個股的目標價下調約30%左右。 (中新經緯)
+
+---
+
+### 2026-08-11 17:58:09  #公司
+
+【黑牡丹：全資子公司之間進行股權內部轉讓】黑牡丹公告稱，公司十屆十三次董事會會議審議透過全資子公司間股權轉讓議案。黑牡丹發展（香港）有限公司將持有的牡丹匯都12.2093%股權、常州達輝建設有限公司將持有的1.1860%股權，分別作價9680.46萬元及940.35萬元，轉讓給黑牡丹置業。轉讓完成後，黑牡丹置業將持有牡丹匯都100%股權。此次轉讓屬內部調整，不影響合併報表範圍，不構成關聯交易及重大資產重組，對財務和經營成果無重大影響。
+
+---
+
+### 2026-08-11 17:57:55  #公司
+
+【聖暉整合：可轉債發行獲證監會同意註冊批覆】聖暉整合公告，公司近日收到中國證券監督管理委員會出具的《關於同意聖暉系統整合集團股份有限公司向不特定物件發行可轉換公司債券註冊的批覆》（證監許可〔2026〕1824號），同意公司向不特定物件發行可轉換公司債券的註冊申請。該批覆自同意註冊之日起12個月內有效。
+
+---
+
+### 2026-08-11 17:57:13  #其他
+
+英國首相伯納姆敦促英國司法大臣加快落實監獄擴容計劃。
+
+---
+
+### 2026-08-11 17:56:56  #公司
+
+【理奇智慧：擬以2500萬元與專業投資機構共同投資常徵五號】理奇智慧公告，公司擬與專業投資機構招商致遠資本投資有限公司及其他有限合夥人共同投資，作為有限合夥人以自有資金2500萬元人民幣參與認購廣東致遠常徵五號創業投資合夥企業（有限合夥）基金份額。該基金全體合夥人擬認繳出資總金額為5600萬元人民幣，其中公司認繳出資2500萬元，認繳比例44.643%。本次投資不構成關聯交易，亦不構成重大資產重組，無需提交董事會及股東會審議。
+
+---
+
+### 2026-08-11 17:56:15  #公司 #市場
+
+【恆尚節能：股價異常波動 收購金勝電子存不確定性】恆尚節能公告稱，公司股票於2026年8月7日、8月10日、8月11日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。除已披露的以不超6億元收購金勝電子100%股權並募資事項外，無應披露未披露重大事項。2025年公司淨虧損3502.43萬元，2026年Q1營收2.53億元，同比降42.56%。本次交易存審批、整合、業績波動等風險。
+
+---
+
+### 2026-08-11 17:55:23  #公司
+
+【*ST春興：因借款合同糾紛被訴，涉案金額1.66億元及利息】*ST春興公告，公司及子公司金寨春興精工有限公司於近日收到安徽省金寨縣人民法院應訴通知書，因借款合同糾紛被金寨匯金投資有限公司起訴。涉案金額合計借款本金1.66億元及相應利息，公司作為被告2對債務承擔連帶擔保責任。該案件法院已受理，尚未開庭審理。
+
+---
+
+### 2026-08-11 17:55:19  #公司 #國際
+
+【阿達尼集團獲約8億美元海外貸款，加碼資料中心業務】據知情人士透露，印度綜合企業阿達尼集團已從多家海外貸款機構獲得約 8 億美元貸款，用於推進資料中心業務佈局。知情人士稱，這筆貸款由其與 EdgeConneX 成立的合資企業 AdaniConneX 取得，放款機構包括星展集團、三菱日聯金融集團以及新加坡的克利福德資本。因資訊尚未公開，知情人士要求匿名。該筆貸款期限 18 個月，綜合融資成本較擔保隔夜融資利率（SOFR）上浮約 200 個基點。本次融資是該集團在美國相關法律糾紛逐步平息之後規模最大的融資專案之一，凸顯全球投資者信心有所修復。紐約一名聯邦地區法官於週一永久撤銷針對創始人高塔姆・阿達尼及其侄子薩加爾的證券及電信欺詐指控，了結了自 2024 年起就困擾這家橫跨能源港口領域大型集團的案件。
+
+---
+
+### 2026-08-11 17:55:01  #MKT News
+
+ADANI secured an $800m loan for a data center after the U.S. dropped allegations.
+
+---
+
+### 2026-08-11 17:54:46  #MKT News #Commodities #Industrial Metals
+
+【Fubao Info: Spot lithium carbonate up 2,400 yuan/ton; battery-grade 143,650 yuan/ton】Fubao electric-carbon spot basis index at -950 yuan/ton (unchanged). Battery-grade lithium carbonate 143,650 yuan/ton (+2,400 yuan/ton). Industrial-grade lithium carbonate (composite) 141,050 yuan/ton (+2,400). Premium battery-grade lithium carbonate 144,750 yuan/ton (+2,500). Lithium hydroxide index 130,833.33 yuan/ton (+2,500). Metallic lithium index 975,000 yuan/ton (unchanged). Fubao brine (lithium sulfate) discount factor 75% (-1).
+
+---
+
+### 2026-08-11 17:54:23  #市場
+
+【富寶資訊：碳酸鋰現貨價格上漲2400元/噸，富寶電池級碳酸鋰報143650元/噸】富寶資訊資料顯示，今日富寶電碳現貨基差指數為-950元/噸（持平）；電池級碳酸鋰報143650元/噸（+2400元/噸）；工業級碳酸鋰（綜合）報141050元/噸（+2400元/噸）；優質電池級碳酸鋰報價144750元/噸（+2500元/噸）；氫氧化鋰指數報130833.33元/噸（+2500元/噸）；金屬鋰指數報975000元/噸（持平）；富寶滷水（硫酸鋰）折扣係數報75%（-1）。
+
+---
+
+### 2026-08-11 17:54:11  #其他
+
+Uniper首席財務官表示：鑑於水位波動不定，我們正考慮提前減少售電量，以從價格波動中獲利。
+
+---
+
+### 2026-08-11 17:53:56  #公司
+
+【江河集團：2026年上半年淨利潤4.41億元，同比增長34.34%】江河集團公告，2026年上半年營業收入108.24億元，同比增長15.90%。歸屬於上市公司股東的淨利潤4.41億元，同比增長34.34%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4.48億元，同比增長34.09%。2026年半年度利潤分配預案為：以公司總股本11.33億股為基數，按每10股派發現金紅利2.5元（含稅）。
+
+---
+
+### 2026-08-11 17:53:47  #其他
+
+【曝位元組Seed AI資料安全負責人將離職 官方暫無回應】據市場訊息，位元組Seed AI資料與安全負責人傅越（Yuyi）將於近期離職，其職位將由TikTok平臺責任團隊負責人、原TikTok直播負責人王贏磊（Adam Wang）接任。對此訊息，位元組方面暫無官方回應。訊息稱，傅越在位元組Seed直接彙報給吳永輝，之前負責Global Data，目前是AI資料與安全的一號位。公開資料顯示，傅越本科畢業於北京大學，之後分別取得麻省理工學院-斯隆管理學院工商管理碩士和哈佛大學肯尼迪學院公共管理碩士。2018年，傅越加入位元組，先後在TikTok信任與安全部門、TikTok電商運營部門擔任要職。2022年，傅越曾離職創業，不過2023年10月又迴歸位元組，擔任位元組訓練資料負責人。（新浪科技）
 
 ---
 
@@ -18357,298 +18849,5 @@ Kazakhstan Current Account Swings to Surplus in Q2 — Kazakhstan’s current ac
 ### 2026-08-10 16:18:48  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Zinc #Impact mixed
 
 【LME on- and canceled warrants daily】LME on warrants and canceled warrants: Copper on warrants 89,975 t, down 4,250 t; canceled warrants 128,325 t, down 4,100 t. Aluminum on warrants 244,650 t, unchanged; canceled warrants 10,250 t, down 3,000 t. Zinc on warrants 74,725 t, up 900 t; canceled warrants 22,400 t, down 1,250 t. Nickel on warrants 255,888 t, unchanged; canceled warrants 8,556 t, unchanged. Lead on warrants 361,525 t, unchanged; canceled warrants 60,275 t, down 6,625 t. Tin on warrants 4,785 t, down 20 t; canceled warrants 0 t, down 66 t.
-
----
-
-### 2026-08-10 16:18:35  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【LME non-ferrous metals inventory daily】LME stocks: Copper 218,300 t, down 8,350 t; Aluminium 254,900 t, down 3,000 t; Zinc 97,125 t, down 350 t; Nickel 264,444 t, unchanged; Lead 421,800 t, down 6,625 t; Tin 5,590 t, down 205 t.
-
----
-
-### 2026-08-10 16:18:07  #公司
-
-【小牛電動二季度營收14.4億元，AI賦能力推中國市場銷量增26%】8月10日，小牛電動（NASDAQ: NIU）釋出2026年第二季度財報。報告期內，公司實現營業收入14.404億元人民幣；整車銷量達434,687輛，同比增長24.2%。其中中國市場表現尤為突出，整車銷量同比增長26.2%至402,202輛。小牛電動預計2026年第三季度營業收入在18.63億元至20.33億元之間，對應同比增長10%至20%。截至2026年6月30日，小牛電動國內門店數量達4,570家。
-
----
-
-### 2026-08-10 16:17:43  #其他
-
-歐足聯、亞足聯、中北美及加勒比海足聯釋出聯合宣告稱，國際足聯主席因凡蒂諾在世界盃權益出售提案中“透過欺騙行為”破壞了信任。
-
----
-
-### 2026-08-10 16:17:41  #MKT News
-
-Russian central bank advised creditors to support entrepreneurs affected by terrorist attacks.
-
----
-
-### 2026-08-10 16:17:37  #央行 #國際
-
-俄羅斯央行表示，已建議債權人對受恐怖襲擊影響的企業提供支援。
-
----
-
-### 2026-08-10 16:17:16  #MKT News
-
-UEFA, the Asian Football Confederation and CONCACAF issued a joint statement accusing FIFA president Gianni Infantino of betraying their trust "through deception" in a proposal to sell World Cup shares.
-
----
-
-### 2026-08-10 16:17:03  #其他
-
-【兩部門：煤層氣勘探開發】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中《煤層氣（煤礦瓦斯）開發利用方案》提到兩個重點任務：
-（一）煤層氣勘探開發
-1.推動沁水盆地煤層氣產業基地穩產增產
-實施晉城礦區、鄭莊、潘莊等在產區塊老區綜合治理，開展滾動評價和縱向挖潛，加密佈置新井，推進精細開發，穩定煤層氣產量。加快沁南、馬必東、馬必合作、柿莊北等區塊開發建設，推動煤層氣產量較快提升。加大和順橫嶺、法中、中峪、和順馬坊東等區塊勘探力度，擴大增產空間。
-2.推進鄂爾多斯盆地東部煤層氣產業基地快速上產
-聚焦深層煤層氣資源，加快大寧—吉縣、米脂北、神府、石樓西、臨興中、大牛地、宜川、佳縣、延川南等區塊有利區資源動用，大力推進新增產能建設。積極開展三交北、臨興西、臨興東、安河—南河溝、石樓北、柳林石西、綏德等區塊初步建產和試驗試採，儘快形成有效產能。推動保德、三交—磧口、柳林、韓城等區塊產量穩中有升。
-3.加快新疆煤層氣產業化發展
-創新央企與地方合作模式，堅持中淺層、深層統籌謀劃，推動塔里木盆地庫拜區域煤層氣資源高效開發。紮實做好準噶爾盆地阜康等區塊擴邊勘探開發，力爭取得新發現；加快準噶爾盆地沙灣—齊古、和什托洛蓋—烏倫古、伊犁盆地尼勒克、三塘湖盆地淖毛湖等區域煤層氣資源勘查，科學實施有利區資源評價和試驗試採。
-4.積極拓展其他資源開發區域
-加大黔西盆地、四川盆地試驗開發，擴大勘探開發規模；推進南華北盆地、松遼盆地、海拉爾盆地、二連盆地、渤海灣盆地等區域煤層氣資源勘查，爭取獲得新探明資源。
-
----
-
-### 2026-08-10 16:16:16  #MKT News #Market Regions #Greater China
-
-【China Index Academy: Local SOE-backed long-term rental apartment openings steady with modest increase】China Index Academy’s July 2026 housing rental enterprise scale ranking shows TOP30 centralized long-term rental apartment operators had 1.471 mln opened units in July, up 23,000 MoM. Local state-owned enterprise–backed chains’ share within the TOP30 rose to 30%. Graduation-season leasing demand widened the MoM increase in 50-city average residential rents in July.
-
----
-
-### 2026-08-10 16:15:28  #其他
-
-【中指研究院：地方國企系長租公寓開業規模穩中有增】中指研究院最新發布《2026年7月中國住房租賃企業規模排行榜》，據中指研究院統計，2026年7月，TOP30集中式長租公寓企業累計開業房源量為147.1萬間，較6月增加2.3萬間；具體來看，地方國企系開業規模穩中有增，在TOP30中的規模佔比提升至30%。市場執行方面，受畢業季租賃需求持續釋放影響，2026年7月50城住宅平均租金環比漲幅有所擴大。
-
----
-
-### 2026-08-10 16:14:56  #公司
-
-【招商港口：2025年度第二期超短期融資券到期兌付20億元】招商港口公告稱，公司2025年11月12日發行的2025年度第二期超短期融資券（“25招商局港SCP002”），發行規模20億元，期限267天，票面利率1.58%。該融資券已於2026年8月7日到期，公司已在到期日兌付本息。
-
----
-
-### 2026-08-10 16:14:33  #國際
-
-馬來西亞總理醫療團隊表示，總理目前正在醫學專家的監督下接受物理治療。
-
----
-
-### 2026-08-10 16:13:47  #國際
-
-馬來西亞總理醫療團隊表示：總理安瓦爾已成功完成擇期腹腔鏡手術，治療臍旁疝。
-
----
-
-### 2026-08-10 16:13:20  #其他
-
-【兩部門：有序拓展煤炭原料化利用】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，強化煤種分類管理，因地制宜推進煉焦煤、富油煤等分質利用，推動煤炭向燃料和原料並重轉變。科學規劃煤制油氣產能和佈局，有序推進內蒙古鄂爾多斯、陝西榆林、新疆準東、新疆哈密等煤制油氣戰略基地建設，加強煤制油氣產能和技術儲備。推進煤制芳烴、煤基生物可降解材料等實現產業化突破。
-
----
-
-### 2026-08-10 16:12:54  #其他
-
-【兩部門：加強煤層氣（煤礦瓦斯）規模化開發利用】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，鞏固拓展沁水盆地、鄂爾多斯盆地東部兩大煤層氣產業基地建設成效，實施重點區域煤層氣增儲上產工作方案，穩定淺層、中層成熟區塊產量，推動深層煤層氣區塊快速上產。推廣煤礦瓦斯井上下聯合抽採，加大地面預抽力度，提高井下抽採瓦斯濃度和穩定性。加強瓦斯全濃度利用，因地制宜發展發電、供熱等利用方式。穩步推進煤炭行業甲烷控排。
-
----
-
-### 2026-08-10 16:12:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #Hang Seng Index
-
-【Hong Kong close: Hang Seng up 1.05%; livestock, precious metals lead】Hong Kong stocks closed higher. Hang Seng Index +1.05% at 25,937.49; Hang Seng Tech Index +1.26% at 4,919.46. Market turnover HKD 240.3 bln, down from HKD 259.7 bln on prior session. Precious metals and livestock sectors led gains; coal also strong. Innovative-drug names spiked then retreated; new-consumer stocks firmed in the afternoon. Compute-hardware, optical-communications and storage sectors underperformed. Selected movers: 06181.HK +12.39%, 06885.HK +20.00%, 02714.HK +5.18%, 02259.HK +5.03%, 02359.HK +2.96%; 03308.HK -6.94%, 03986.HK -5.11%.
-
----
-
-### 2026-08-10 16:12:31  #其他
-
-【8月11日傍晚至13日白天 北京局地將有大暴雨特大暴雨】8月10日上午，北京市氣象臺釋出暴雨橙色預警訊號，房山、大興、通州、門頭溝、懷柔、豐臺、經開區已釋出暴雨紅色預警訊號。北京全市擬於11日上午啟動防汛二級應急響應。北京市氣象臺預報員介紹，根據最新資料研判，受“白海豚”外圍偏南水汽輸送和高空槽冷空氣共同影響，北京地區11日傍晚至13日白天將有一次明顯的降雨過程，最強降雨時段為12日凌晨至夜間。預計本次累計降雨量將達到暴雨，其中，南部、西部北部山區將達到大暴雨，房山、大興、通州、門頭溝部分地區將達到特大暴雨。（央視新聞）
-
----
-
-### 2026-08-10 16:12:24  #Trading Economics #Economy #Bulgaria #Construction Output #Importance 1
-
-Bulgaria Construction Output Growth Picks Up in June — Construction output in Bulgaria rose 4.4% year-on-year in June 2026, following a downwardly revised 4% gain in the previous month, which marked the weakest growth since January. Growth in building construction picked up (11.9% vs 9.6% in May), while it remained steady for civil engineering (at 3.6%). On a seasonally adjusted monthly basis, construction output increased 0.9%.
-
----
-
-### 2026-08-10 16:11:31  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Firms at Over 3-Week High — The euro remained above $1.155, close to a three-week high, as investors weighed mixed signals from the US and Iran over the prospects for reopening the Strait of Hormuz. Iran’s Foreign Minister said an agreement with Oman to establish a shipping route through the strait was “very close,” but cautioned that it would not immediately restore shipping flows. Meanwhile, the Euro Area outlook has improved, with recent economic resilience prompting analysts to become more optimistic about growth. Second estimates later this week are expected to confirm the Eurozone economy expanded by 0.4% in Q2, the most since early 2025. Looking ahead, growth is projected to moderate in the near term before gradually gaining momentum. On the monetary policy front, the European Central Bank left interest rates unchanged in July following a 25bps increase in June, its first hike in three years, while expectations of a near-term Federal Reserve rate hike eased following weaker-than-expected employment data.
-
----
-
-### 2026-08-10 16:11:21  #MKT News #Market Regions #Greater China #HSI #Impact bullish #HSTECH #HSCEI
-
-Hong Kong's Hang Seng Index (HSI) closed up 269.46 points (+1.05%) at 25,937.49 on Monday, Aug. 10. The Hang Seng Tech Index closed up 61.17 points (+1.26%) at 4,919.46. The Hang Seng China Enterprises Index (HSCEI) closed up 90.26 points (+1.06%) at 8,621.84, and the Hang Seng Red Chip Index closed up 21.84 points (+0.53%) at 4,142.85.
-
----
-
-### 2026-08-10 16:10:51  #其他
-
-【兩部門：積極推動煤炭清潔替代】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，以碳達峰碳中和為牽引，在保障能源安全供應前提下，推動煤炭消費順利達峰。推進煤炭消費轉型升級，重點保障國家重大戰略、重大專案等用煤需要，有效滿足電煤合理增量需求。加快推進重點用煤行業節能降耗，推動燃煤鍋爐、工業窯爐關停整合或清潔能源替代，加快推廣餘熱餘壓供暖，推廣可再生能源供熱供暖。提升煤炭集中化利用水平，壓減散煤使用。推動原料燃料用煤替代減量，在鋼鐵、建材等行業推廣電鋼爐、電鍋爐、電窯爐、電加熱等技術，提升電力替代燃煤比例。
-
----
-
-### 2026-08-10 16:10:33  #其他
-
-【ALO入華首日成績單：官宣入駐天貓6小時，僅售出2筆預售訂單】今日，淘寶官方賬號發文表示：“今天，我們迎來一位新夥伴：ALO。ALO天貓官方旗艦店即日開啟預售，8月12日正式開業。作為ALO在中國的獨家官方電商平臺，天貓將與品牌全球同步上新，首批商品涵蓋明星同款系列、爆款單品ALO SUNSET德訓鞋等。”據瞭解，這也是ALO進入中國市場後正式開業售賣的第一家官方店鋪，也是其在中國內地唯一的官方電商渠道。值得關注的是，自今日上午10時淘寶官方賬號發文官宣以來，截至發稿已過去6小時，但ALO此次上線的約320件單品僅錄得2筆預售訂單，且均為消費者支付的定金訂單，尾款支付視窗將於8月12日00:30開啟。（貴圈）
-
----
-
-### 2026-08-10 16:10:32  #其他
-
-【兩部門：加快實施煤電轉型升級】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，持續推進新一代煤電升級專項行動，積極有序推進現役及新建機組實施新一代煤電改造建設。大力推動煤電節能降碳改造，推廣高效燃燒、餘熱利用、智慧調控等技術，加快風機、熱泵、鍋爐、汽輪機、變壓器等用能裝置更新升級。推動現役煤電機組透過耦合新能源、摻燒生物質、建設儲能（儲熱）設施等方式實施低碳化改造，降低煤電機組碳排放水平。鼓勵煤電與新能源融合發展，實現新能源和煤電優勢互補。
-
----
-
-### 2026-08-10 16:10:22  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
-
-【CHINA STATE PLANNER, National Energy Administration push AI+ in coal sector; mandate coal AI data aggregation】CHINA STATE PLANNER and the National Energy Administration released the coal industry's 15th Five-Year Plan, directing an accelerated rollout of AI+ across the coal sector. The plan mandates strengthened aggregation of coal-sector AI data and systematic AI deployment in exploration and design, construction and production, operations and maintenance, and safety management. It calls for fast-tracked R&D and deployment of coal-specific large models, targeting breakthroughs in intelligent sensing, autonomous decision-making and intelligent control. Authorities will build AI-integrated pilot mines to raise safety standards, accelerate intelligent retrofits of disaster-prone and major-accident mines, and promote robotic replacement of hazardous, high-risk roles.
-
----
-
-### 2026-08-10 16:10:07  #其他
-
-【兩部門：加強煤礦職業健康防護】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，完善煤礦職業病危害防治體系，圍繞煤礦企業重點環節、重點崗位、重點人員，加強職業健康危害源頭防控，全面落實職業健康監護制度。推動企業落實粉塵防治主體責任，改善煤礦作業環境，建立完善職工職業健康檔案，保障職工工傷保險待遇，健全職業健康管理機構與制度體系，切實維護煤礦從業人員安全健康權益。
-
----
-
-### 2026-08-10 16:09:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Rises by 2.66% — Top commodity gainers are Oat (2.66%), Wheat (2.36%) and Palm Oil (0.77%). Biggest losers are Sugar (-0.55%) and Rapeseed (-0.55%).
-
----
-
-### 2026-08-10 16:09:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry spokesman said Iran is prepared to step up its capabilities at any time to respond to any eventuality.
-
----
-
-### 2026-08-10 16:09:48  #其他
-
-【兩部門：深化煤礦重大災害防治】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，強化煤礦隱蔽致災因素動態普查，實施重大災害專項設計、分割槽治理、超前管控，提高安全生產風險防範水平。深入推進重大災害治理，加快淘汰高風險技術工藝和落後技術裝備，推廣應用智慧化防控與先進治災技術，加強露天煤礦邊坡穩定性監測與滑坡防治，增強源頭防控能力。開展煤礦衝擊地壓機理研究，健全完善衝擊地壓防治技術體系。推動多災種協同治理，全面提升重大災害防治能力。
-
----
-
-### 2026-08-10 16:09:35  #MKT News #Commodities #Energy
-
-【CHINA STATE PLANNER, National Energy Administration roll out coal industry 15th Five-Year plan — orderly release of advanced capacity】CHINA STATE PLANNER and the National Energy Administration issued the Coal Industry 15th Five-Year Plan, directing stronger measures to stabilise coal production and supply, optimise production organisation and orderly release advanced capacity. The plan calls for studying a coordinated-production mechanism among key coal provinces to smooth market functioning, strengthening supply-demand monitoring and production dispatch, and enforcing signing and performance of mid-to-long-term power-coal contracts. It mandates enhanced regional mutual aid and multi-energy complementarity to raise peak summer and winter supply capacity, stabilise supply in the Two Lakes and One River region, the Northeast and the Southwest, deepen supply‑demand linkages and strategic cooperation between producing and consuming areas, optimise coal reserve-base layout, lift power-plant coal stocks and prioritise household coal needs.
-
----
-
-### 2026-08-10 16:09:27  #其他
-
-市場訊息：萊茵金屬與波音將就戰鬥機能力問題開展合作。萊茵金屬將在德國建立MQ-28飛機獨立系統整合中心，可立即開展國家層面的能力研發、測試和整合工作。
-
----
-
-### 2026-08-10 16:09:20  #公司
-
-【永茂泰：擬以1.5億元-3億元回購公司股份】永茂泰公告，擬以1.5億元-3億元回購公司股份，回購價格不超過22.8元/股。回購股份的用途為維護公司價值及股東權益，將在披露回購結果暨股份變動公告12個月後採用集中競價交易方式全部出售。回購資金來源為公司自有資金和自籌資金，其中公司已取得中國銀行上海長三角一體化示範區分行不超過2.7億元的貸款承諾函。回購期限為董事會審議透過之日起3個月。
-
----
-
-### 2026-08-10 16:09:08  #其他
-
-【河南省濮陽市人大常委會原副主任馬宜品被開除黨籍】中央紀委國家監委網站8月10日通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對濮陽市人大常委會原副主任馬宜品嚴重違紀違法問題進行了立案審查調查。經查，馬宜品喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品；違背組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題，利用職權為他人謀取人事利益；廉潔底線失守，透過民間借貸獲取大額回報，違規從事營利活動，違規使用商人車輛；喪失紀法底線，大搞權錢交易，利用職務便利為他人在企業改制、專案建設等方面謀取利益，非法收受鉅額財物。馬宜品嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄、鉅額財產來源不明犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議研究並報中共河南省委批准，決定給予馬宜品開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-08-10 16:09:04  #國際
-
-【伊朗：已收到巴基斯坦對伊朗外長阿拉格齊和伊朗議會議長卡利巴夫的邀請】伊朗外交部發言人：作為關係密切且不斷發展的兩個鄰國，伊朗與巴基斯坦之間的互訪和會晤是完全自然的事情。就此，近日，伊朗工業、科學和內政部長已赴巴基斯坦，就各項專業議題進行了磋商。已收到巴基斯坦對伊朗外長阿拉格齊和伊朗議會議長卡利巴夫的邀請，訪問將在適當的時候進行。德黑蘭與伊斯蘭堡之間的雙邊關係，特別是在近幾個月來，變得越來越重要，這些互訪是兩國鄰邦關係不斷發展過程中自然而然的一部分。
-
----
-
-### 2026-08-10 16:09:03  #市場 #焦點
-
-【港股收盤：恒生指數漲1.050%，恒生科技指數漲1.259%】老鋪黃金漲12.614%，周大福漲6.628%，翰森製藥漲5.103%，農夫山泉漲4.823%，申洲國際漲4.065%，康師傅控股漲3.625%，吉利汽車漲3.420%。
-
----
-
-### 2026-08-10 16:08:53  #MKT News #RHM.DE #Impact bullish
-
-Market sources: Rheinmetall will establish an independent MQ-28 systems-integration center in Germany, enabling immediate national-level capability R&D, testing and integration.
-
----
-
-### 2026-08-10 16:08:47  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #02714.HK
-
-Hong Kong stocks closed higher. Hang Seng Index rose 1.05% and the Hang Seng TECH Index gained 1.26%. Livestock/breeding sector led gains; Muyuan Foods (02714.HK) advanced 5.18%.
-
----
-
-### 2026-08-10 16:08:33  #MKT News #Important #Commodities #Energy
-
-【China State Planner, National Energy Administration push orderly exit of backward coal capacity under 15th Five-Year Plan】China State Planner and the National Energy Administration issued the 15th Five-Year Plan for coal industry development, calling for accelerated structural upgrades and orderly withdrawal of backward and inefficient coal capacity. The agencies require an establish-before-shutdown approach, coordinating mine closures with regional supply security and implementing exits under market-based, rule-of-law principles. Regional measures: western China to optimize production and speed removal of mines with outdated technology or overlapping ecologically sensitive areas; east-central China to prudently withdraw disaster-prone mines that cannot be effectively remediated and exhausted deposits while addressing legacy liabilities and worker resettlement; southwest and northeast to set region-specific standards to steer small, low-resource, low-safety mines out and use policy guidance and market measures to ensure long-term suspended or halted mines are exited.
-
----
-
-### 2026-08-10 16:08:26  #其他
-
-【兩部門：積極開展國際交流合作】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，充分利用國際國內兩個市場、兩種資源，鞏固完善進口通道格局。加強國際煤炭生產及貿易趨勢研究。擴大技術諮詢服務貿易。搭建國際合作交流平臺，分享煤炭綠色低碳轉型經驗
-
----
-
-### 2026-08-10 16:08:24  #其他
-
-【寧夏回族自治區第十一屆人大常委會原委員張志敏接受審查調查】中央紀委國家監委網站8月10日通報，據寧夏回族自治區紀委監委訊息：寧夏回族自治區第十一屆人大常委會原委員張志敏涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-10 16:08:15  #其他
-
-【兩部門：促進煤炭企業改革發展】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，深化煤炭行業國資國企改革。支援煤炭企業發揮自身優勢，與電力、新能源、化工等企業重組整合，培育戰略性新興產業和未來產業，建設一流綜合能源生產服務商。支援民營企業公平參與煤炭資源開發，規範開展股權合作與資源整合。深入推進行業精神文明建設，打造特色文化品牌，豐富職工精神文化生活。
-
----
-
-### 2026-08-10 16:08:01  #其他
-
-【國家發展改革委 國家能源局有關負責同志就《煤炭工業發展“十五五”規劃》答記者問】問：《規劃》將《煤層氣（煤礦瓦斯）開發利用方案》作為附件一併印發，請介紹一下“十五五”時期煤層氣（煤礦瓦斯）開發利用的總體考慮？
-
-答：開發利用煤層氣（煤礦瓦斯）具有保障煤礦安全生產、增加清潔能源供應、減少溫室氣體排放等多重效益。為加快推進煤層氣勘探開發、煤礦瓦斯抽採利用，按照既往工作慣例，專門編制《煤層氣（煤礦瓦斯）開發利用方案》（以下簡稱《方案》）作為規劃附件。《方案》統籌能源安全穩定供應和綠色低碳轉型，大力推動煤層氣產業基地增產提效，持續深化煤礦瓦斯治理方式創新，積極構建瓦斯利用與甲烷控排協同推進局面，為煤炭高質量發展提供有力支撐，助力新型能源體系建設和能源強國目標實現。《方案》提出，到2030年，煤層氣產量260億立方米，瓦斯利用量65億立方米。
-
-《方案》提出四個方面重點任務。在煤層氣勘探開發方面，推動沁水盆地煤層氣產業基地穩產增產，推進鄂爾多斯盆地東部煤層氣產業基地快速上產，加快新疆煤層氣產業化發展，積極拓展其他資源開發區域。在煤礦瓦斯抽採利用方面，深化煤炭與煤礦瓦斯共採，強化煤礦瓦斯全濃度利用，穩步推進煤炭行業甲烷控排。在產業科技創新方面，加強煤層氣勘探開發技術攻關，加快煤礦瓦斯抽採利用技術攻關，完善科技創新協同推進機制。在煤層氣外輸管網建設方面，銜接天然氣“全國一張網”規劃佈局，統籌規劃建設各區域煤層氣輸氣管網。
-
----
-
-### 2026-08-10 16:07:57  #宏觀 #公司
-
-【兩部門：健全行業管理制度體系】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，積極推進煤炭法修訂，完善煤炭行業標準（MT）體系。強化煤炭礦區總體規劃管理，嚴格落實礦區總體規劃確定的開發方案，提高資源集約高效開發水平。加強產能“一本賬”管理，適時調整完善產能置換政策，強化產能登記公告管理，促進建設生產平穩有序。強化煤礦關閉退出計劃管理，引導企業平穩轉型，穩妥做好人員安置、債務處置、生態修復等工作。健全煤炭產供儲銷統計體系，強化能源、安監、稅務等部門資訊共享和協同監管，加強煤炭生產監督管理，嚴厲打擊煤礦超產行為，規範煤炭市場秩序。研究出臺規範煤炭產能管理長效機制。健全完善行業教育培訓體系，加強專業技術人才培養，提升從業人員能力素質。
-
----
-
-### 2026-08-10 16:07:50  #其他
-
-【國家發展改革委 國家能源局有關負責同志就《煤炭工業發展“十五五”規劃》答記者問】問：《規劃》部署了哪些重點任務？
-
-答：《規劃》統籌能源安全與綠色轉型，聚焦建設現代煤炭產業體系這一主線，提出九個方面重點任務。一是最佳化煤炭開發空間佈局。鞏固最佳化東中西梯級開發格局，有序推進接續產能建設，協調推動重點區域資源開發，完善煤炭跨區調運格局。二是加快煤炭產業結構最佳化升級。提高資源開發准入標準，積極發展優質先進產能，推動落後無效產能退出，穩慎推進深部資源開採。三是加強煤炭產供儲銷體系建設。持續加強穩產穩供，最佳化完善煤炭運輸體系，加快儲備能力建設，提升應急保障水平。四是推動煤礦智慧化迭代升級。分類分級縱深推進智慧化建設，加快人工智慧場景化應用，提升煤礦智慧化執行效能。五是加快煤炭綠色低碳轉型。提高資源綠色開採水平，強化全過程節能降碳，加強煤層氣（煤礦瓦斯）規模化開發利用，促進煤炭與新能源融合發展。六是加強煤炭清潔高效利用。積極推動煤炭清潔替代，大力提升商品煤質量，加快實施煤電轉型升級，有序拓展煤炭原料化利用。七是增強煤炭科技創新能力。加強產業應用基礎研究，推動先進技術裝備研發應用，完善煤炭科技創新體系。八是強化煤炭安全生產管理。夯實煤礦安全生產基礎，深化煤礦重大災害防治，加強煤礦職業健康防護。九是提升行業治理現代化水平。持續推進現代煤炭市場建設，健全行業管理制度體系，促進煤炭企業改革發展，積極開展國際交流合作。
-
-同時，《規劃》注重發揮“三個重大”牽引帶動作用，部署了煤炭供應保障基地建設、煤礦智慧化建設迭代升級、煤炭與新能源融合發展、商品煤質量提升、煤炭技術裝備創新等5方面重大工程，作為推動規劃落地實施的重要載體和有效舉措；提出強化煤炭礦區總體規劃管理、加強產能“一本賬”管理、完善煤炭行業標準體系、完善煤炭價格區間調控政策等多項重大政策和重大改革，有力支撐規劃目標實現。
-
----
-
-### 2026-08-10 16:07:42  #行業 #其他 #焦點
-
-【兩部門：持續推進現代煤炭市場建設】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，積極發展全國統一煤炭交易市場，完善基礎制度和規則，健全資訊共享機制，進一步發揮全國煤炭交易中心作用。完善電煤保供中長期合同制度，推進煤炭交易合同規範化標準化，加強合同簽約履約監管。健全煤炭市場價格形成機制，結合市場形勢和成本變化適時完善煤炭價格區間調控政策，規範價格指數行為。
-
----
-
-### 2026-08-10 16:07:20  #MKT News #Commodities #Energy
-
-【China State Planner, National Energy Administration: New coal-mine capacity must strictly follow capacity replacement policy】China State Planner and the National Energy Administration issued the coal industry '15th Five-Year' plan requiring orderly continuation of replacement-capacity construction, stepped-up resource exploration and reserve upgrades to secure coal continuity. They tighten total capacity control, aligning new capacity with resource potential and regional supply–demand balance, and confine new builds mainly to five major supply bases while prioritizing upstream–downstream integrated projects and cross-regional supply-security schemes. During the '15th Five-Year' period, new capacity must be entered into the central capacity ledger before implementation; all types of coal mines must strictly comply with the capacity replacement policy.
-
----
-
-### 2026-08-10 16:07:16  #MKT News #BA.N #RHM.DE
-
-Rheinmetall and Boeing will cooperate on fighter capability issues, market sources say.
-
----
-
-### 2026-08-10 16:07:12  #MKT News
-
-【Ukraine may face severe grain-storage shortfall this autumn】Ukraine's agriculture ministry said on Monday that with Black Sea port exports effectively stalled, the country may face a severe grain storage shortfall this autumn. Black Sea ports previously handled about 90% of Ukraine's grain export shipments. The ministry estimated the storage gap could reach 11 mln t and has asked the US for help procuring equipment for temporary on-farm grain storage.
 
 ---
