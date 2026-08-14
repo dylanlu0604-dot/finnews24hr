@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-14 10:14:04",
-  "count": 15523,
+  "updated": "2026-08-14 10:17:58",
+  "count": 15516,
   "items": [
+    {
+      "id": "5040389",
+      "time": "2026-08-14 10:17:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【模擬晶片概念震盪走強 敏芯股份漲超10%】模擬晶片概念盤中震盪走強，敏芯股份漲超10%，思瑞浦、納芯微、晶豐明源、聖邦股份、傑華特等漲幅靠前。"
+    },
+    {
+      "id": "5040388",
+      "time": "2026-08-14 10:16:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【建築裝飾板塊震盪走弱，寶鷹股份跌停】建築裝飾板塊震盪走弱，寶鷹股份跌停，恆尚節能盤中觸及跌停，豪爾賽、廣田集團、全築股份、科新發展、堅朗五金、*ST美芝等跟跌。"
+    },
+    {
+      "id": "te:markets:575239",
+      "time": "2026-08-14 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Appreciates by 0.26% — Top currency gainer is South Korean Won (0.26%). Meanwhile Japanese Yen was little changed."
+    },
     {
       "id": "5040387",
       "time": "2026-08-14 10:11:07",
@@ -142055,91 +142084,6 @@
         "Importance 1"
       ],
       "text": "China Stocks Mixed as Trade Data Looms — The Shanghai Composite fell 0.3% to 3,890 on Friday, while the Shenzhen Component rose 0.6% to 14,195, extending a mixed performance for a second straight session as investors awaited China's upcoming trade data release. China posted its second-largest trade surplus on record in June, with both exports and imports reaching all-time highs. However, concerns over Sino-US trade relations persisted after Beijing unveiled retaliatory measures, including stricter controls on drone and related tech exports, sanctions against seven US firms, and a first-ever national security investigation connected to foreign trade. Financial stocks weighed on the market, led lower by Industrial and Commercial Bank of China (-0.9%), Agricultural Bank of China (-0.9%), and China Construction Bank (-1.3%). In contrast, Zhongji Innolight (2.8%), Eoptolink Technology (3.4%), and NAURA Technology (1.1%) advanced. Despite the mixed session, both benchmarks remained on track for weekly gains."
-    },
-    {
-      "id": "5029892",
-      "time": "2026-08-07 10:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：公共建設大幅下滑是投資下降的主要原因。"
-    },
-    {
-      "id": "5029891",
-      "time": "2026-08-07 10:17:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國漁船救起5名獅子山漁民】日前，中水集團遠洋股份有限公司漁船“遠漁708”輪在獅子山海域救起5名獅子山漁民。"
-    },
-    {
-      "id": "5029890",
-      "time": "2026-08-07 10:17:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海辰儲能全球首個長時儲能一體化產業園量產下線】8月7日，海辰儲能山東長時儲能一體化產業園在菏澤魯西新區量產下線。該產業園為全球首個專注長時儲能的一體化產業園，總投資超130億元，達產後年產30 GWh 1175 Ah長時儲能電芯和20 GWh 6.25 MWh系統。海辰儲能指出，依託規模化產能，公司將推動全球鋰電長時儲能進入大規模交付時代。目前，國內普遍共識，滿功率放電≥4小時，即為長時儲能。（介面新聞記者 高菁）"
-    },
-    {
-      "id": "5029889",
-      "time": "2026-08-07 10:17:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中證500股指期貨(IC)主力合約日內漲超1%】中證500股指期貨(IC)主力合約日內漲超1%，現報7790.8點。"
-    },
-    {
-      "id": "5029888",
-      "time": "2026-08-07 10:17:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆工精密等成立智慧科技公司 含AI及機器人業務】企查查APP顯示，近日，恆工博元智慧科技（蘇州）有限公司成立，經營範圍包含智慧機器人銷售；智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧硬體銷售；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由恆工精密(301261)等共同持股。"
-    },
-    {
-      "id": "5029887",
-      "time": "2026-08-07 10:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東莞市投資控股集團有限公司原黨委書記、董事長陳照星主動投案接受紀律審查和監察調查】據“廉潔東莞”，東莞市投資控股集團有限公司原黨委書記、董事長陳照星涉嫌嚴重違紀違法，主動投案，目前正接受東莞市紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5029886",
-      "time": "2026-08-07 10:16:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千問APP更新 推出五項新功能】千問APP和PC端功能上新，推出思考研究、定時任務、辦公助理、智慧體廣場、語音通話等多項新功能，同時支援阿里最新旗艦模型Qwen3.8-MAX。上述功能所有使用者均可免費使用。“思考研究”在原“深度思考”基礎上升級，具備更強推理和資訊整合能力。辦公助理能夠解決各類複雜辦公任務，可以自主拆解目標、呼叫工具並交付成果，支援手機與PC跨端協同。面向專業使用者，辦公助理還將支援付費獲取更多使用額度。（千問APP）"
-    },
-    {
-      "id": "5029885",
-      "time": "2026-08-07 10:15:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.00%，現報14251.476點；上證指數漲0.22%，現報3909.011點；創業板指漲1.57%，現報3570.780點。"
-    },
-    {
-      "id": "te:markets:573538",
-      "time": "2026-08-07 10:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Rises by 0.28% — Top currency gainers are South Korean Won (0.28%) and Japanese Yen (0.06%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5029884",
-      "time": "2026-08-07 10:14:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟部長：復甦基礎正在形成。"
     }
   ]
 }

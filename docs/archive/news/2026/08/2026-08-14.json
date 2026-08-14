@@ -1,7 +1,36 @@
 {
   "date": "2026-08-14",
-  "count": 849,
+  "count": 852,
   "items": [
+    {
+      "id": "5040389",
+      "time": "2026-08-14 10:17:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【模擬晶片概念震盪走強 敏芯股份漲超10%】模擬晶片概念盤中震盪走強，敏芯股份漲超10%，思瑞浦、納芯微、晶豐明源、聖邦股份、傑華特等漲幅靠前。"
+    },
+    {
+      "id": "5040388",
+      "time": "2026-08-14 10:16:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【建築裝飾板塊震盪走弱，寶鷹股份跌停】建築裝飾板塊震盪走弱，寶鷹股份跌停，恆尚節能盤中觸及跌停，豪爾賽、廣田集團、全築股份、科新發展、堅朗五金、*ST美芝等跟跌。"
+    },
+    {
+      "id": "te:markets:575239",
+      "time": "2026-08-14 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Appreciates by 0.26% — Top currency gainer is South Korean Won (0.26%). Meanwhile Japanese Yen was little changed."
+    },
     {
       "id": "5040387",
       "time": "2026-08-14 10:11:07",
