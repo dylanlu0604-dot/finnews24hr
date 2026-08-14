@@ -1,7 +1,343 @@
 {
   "date": "2026-08-14",
-  "count": 2464,
+  "count": 2499,
   "items": [
+    {
+      "id": "5041562",
+      "time": "2026-08-14 20:43:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX完成收購Cursor】8月14日，SpaceX提交監管檔案稱，公司與程式碼編輯工具Cursor的合併交易已完成。根據交易安排，Cursor股東獲得合計約3.89億股SpaceX A類普通股，對應Cursor隱含股權價值600億美元。此外，Cursor已歸屬限制性股票單位轉換為約175萬股SpaceX A類普通股，未歸屬限制性股票單位和股票期權則分別轉換為約2913萬份限制性股票單位和4437萬份股票期權。此次交易以發行SpaceX A類普通股作為主要對價，未涉及公開發行。"
+    },
+    {
+      "id": "mkt:01a0004c-15e7-7aab-903f-52d76474b81f",
+      "time": "2026-08-14 20:43:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S: Investors must adapt to a \"new risk landscape\" created by extreme weather; heat and water scarcity are evolving into permanent risk features."
+    },
+    {
+      "id": "mkt:01a0004c-146c-7aab-903f-4d25308defbf",
+      "time": "2026-08-14 20:43:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S: In the United States, a sample of about 159,000 water‑intensive facilities shows nearly 49,000 may face high or extreme water stress over the coming decades."
+    },
+    {
+      "id": "mkt:01a0004b-d102-7aab-903f-459530d7948a",
+      "time": "2026-08-14 20:42:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Moody's: heat and water-resource risks are beginning to drag on European real estate asset values; if these risks remain unpriced they could quietly erode cash flows and portfolio returns at firms in agriculture, apparel manufacturing and semiconductors."
+    },
+    {
+      "id": "5041561",
+      "time": "2026-08-14 20:42:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州茅臺：2026年上半年營收907.03億元 淨利潤445.17億元】貴州茅臺公告稱，2026年上半年，公司營收907.03億元，同比增長1.47%；利潤總額614.38億元，同比下降2.13%；淨利潤445.17億元，同比下降1.95%。經營活動產生的現金流量淨額706.91億元，同比增長438.84%。報告期內，公司透過“i茅臺”數字營銷平臺實現酒類不含稅收入402.64億元。國內經銷商減少46個，國外減少7個。"
+    },
+    {
+      "id": "5041560",
+      "time": "2026-08-14 20:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州茅臺：董事會透過多項議案 擬劃轉i茅臺平臺資產】貴州茅臺公告稱，8月13日召開的第五屆董事會2026年度第三次會議，審議透過《2026年半年度報告》《關於將i茅臺數字營銷平臺相關資產無償劃轉至愛茅臺數字科技公司的議案》《2026年度“提質增效重回報”行動方案半年度評估報告》。公司將以無償劃轉方式，向全資子公司數科公司劃轉i茅臺相關資訊系統及域名等，並轉授權使用“MOUTAI”等商標。"
+    },
+    {
+      "id": "5041559",
+      "time": "2026-08-14 20:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上緯新材：2026年上半年營收8.03億元 淨虧損1.67億元】上緯新材公告稱，2026年半年度公司營收80,273.09萬元，同比增長2.42%；淨虧損16,653.69萬元，同比減少656.97%；扣非淨虧損16,901.18萬元，同比減少749.01%。公司消費級具身智慧機器人業務處研發及應用場景驗證階段，量產及市場推廣有不確定性。此外，公司外部流通盤小、市盈率顯著高於行業平均，還面臨安全合規、市場經營、供應鏈及成本等風險。"
+    },
+    {
+      "id": "5041558",
+      "time": "2026-08-14 20:42:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州茅臺：將於8月21日召開2026年半年度業績說明會】貴州茅臺公告稱，公司已披露《2026年半年度報告》，為使投資者深入瞭解公司經營情況，將於8月21日15:00-16:00在上證路演中心以網路文字互動方式召開2026年半年度業績說明會。參加人員有董事長陳華、董事王莉等。投資者可在當天線上參與，也可在8月20日前將問題發至指定郵箱。說明會結束後可透過上證路演中心檢視情況及內容。"
+    },
+    {
+      "id": "te:economy:575480",
+      "time": "2026-08-14 20:42:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing Sales",
+        "Importance 1"
+      ],
+      "text": "Canada Manufacturing Sales Edge Higher in June — Canada’s manufacturing sales rose 0.1% month-on-month to C$78.8 billion in June 2026, following a 1.3% increase in May and beating estimates for a 0.1% decline. Sales increased in 15 of the 21 subsectors surveyed. Chemical sales rose 6.0%, marking a fourth consecutive monthly gain and reaching their highest level since October 2022, driven largely by higher sales of pharmaceutical products, resin, synthetic rubber, and artificial and synthetic fibres and filaments. Sales in the transportation equipment subsector increased 2.8%, extending its monthly growth streak to five months, led by gains in motor vehicle parts (6.2%) and aerospace products and parts (6.0%). Meanwhile, sales of petroleum and coal products fell 14.1% after three consecutive monthly increases, driven by lower prices for petroleum and energy products."
+    },
+    {
+      "id": "mkt:01a0004b-2ecb-7aab-903f-3e0dc88e2f4b",
+      "time": "2026-08-14 20:42:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "Impact mixed",
+        "Copper"
+      ],
+      "text": "MOODY'S: Heat and water risks no longer evolve on separate timelines; for investors both have become operational risks and drivers of earnings volatility and stranded-asset exposure."
+    },
+    {
+      "id": "mkt:01a0004b-219e-7aab-903f-3008dc0b7b82",
+      "time": "2026-08-14 20:41:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Hormuz MoU deadline nears as US and Iran remain deadlocked】A 60-day memorandum of understanding signed on June 17 expires this Sunday, yet US and Iranian positions on control and passage through the Strait of Hormuz remain deadlocked. Iran's military says no vessel may transit without authorization and rejects US claims that shipping is \"normal.\" The US has taken a hard line: the defense secretary said it could sustain a maritime blockade of Iran \"indefinitely\" and the treasury warned of \"unprecedented\" economic measures. Kpler data show commodity ship transits ticked up on Thursday but remain well below the pre-war daily average of about 130 vessels. Iran is not negotiating directly with the US and is instead talking with Oman on new maritime arrangements aimed at joint management; Pakistan's interior minister flew to Tehran Tuesday to mediate. Analysts say an Iran-Oman agreement could provide a route out of the stalemate and potentially open the door to longer-term US-Iran ceasefire talks."
+    },
+    {
+      "id": "5041557",
+      "time": "2026-08-14 20:41:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【資料洩露通知數量已遠超去年全年 人工智慧影響持續擴大】身份盜竊資源中心（ITRC）是一家幫助身份被盜受害者、跟蹤公開披露資料洩露事件的非營利機構。其最新報告顯示，2026年上半年，各類資料洩露事件累計發出超4.71億份受害者通知。教育平臺Canvas發生的網路安全事件就貢獻了其中超過一半，涉及2.75億條通知。 ITRC報告資料顯示，2025年全年發出的洩露通知總量為2.975億份，僅今年上半年就已經超過該數值。今年上半年共發生1803起安全事件，高於2025年同期的1732起。若下半年事件發生頻率與上半年持平，2026年全年事件總數將超過去年的3321起。"
+    },
+    {
+      "id": "5041556",
+      "time": "2026-08-14 20:41:58",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "貴州茅臺上半年淨利潤445.2億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0004a-df89-7aab-903f-2f7a1206c491",
+      "time": "2026-08-14 20:41:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Moody's says extreme heat and unstable water supply are increasingly threatening asset valuations across industries, impacting labor productivity, energy costs and other operational inputs."
+    },
+    {
+      "id": "5041555",
+      "time": "2026-08-14 20:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長與奧地利外長通電話 指責美以加劇海峽危機】伊朗外交部：週四下午，奧地利外交部長同伊朗外交部長通電話。通話期間，兩國外長就雙邊關係以及地區和國際局勢交換意見。伊朗外交部長介紹地區最新局勢，包括伊朗與阿曼為搭建霍爾木茲海峽未來管控機制舉行的會談，並強調，當前局勢源於美國及猶太復國主義政權對伊朗實施的非法侵略。他指出，儘管伊朗秉持誠意參與外交程序，且雙方已於6月28日簽署停火協議，但美方違反協議條款，對伊朗施加海上制裁，並大規模襲擊伊朗軍事及民用目標，致使霍爾木茲海峽緊張加劇、局勢動盪。"
+    },
+    {
+      "id": "5041554",
+      "time": "2026-08-14 20:41:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "隔夜指數互換目前定價顯示，9 月美聯儲會議僅預期約 8 個基點的加息幅度，全年加息預期約 20 個基點，此前為 23 個基點。"
+    },
+    {
+      "id": "te:markets:575478",
+      "time": "2026-08-14 20:40:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower on Mideast Tensions — Futures tracking Canadian stocks edged lower on Friday amid heightened uncertainty in the Middle East. The US threatened an indefinite naval blockade of Iran, reviving concerns about disruptions to crude supplies from the region. Oil prices moved higher, fueling inflationary pressures and weighing on financials and other credit-sensitive shares. Meanwhile, gold prices rebounded after earlier losses, lending support to mining stocks. On the earnings front, Bird Construction beat second-quarter profit estimates, prompting at least three brokerages to raise their price targets on the stock. Air Canada’s revenue for September and October is likely to reach records for the two months as more premium travelers avoid the heat and summer crowds in Europe and Japan, according to a senior executive. Canadian Tire beat estimates for both EPS and revenue in the second quarter. Onex said its second quarter showed progress toward several strategic goals."
+    },
+    {
+      "id": "5041551",
+      "time": "2026-08-14 20:40:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚傑微纖：全資子公司1.86億元購買土地及廠房交易完成】聚傑微纖公告，公司全資子公司聚傑公司購買正隆紙業位於蘇州市高新區泰山路162號的土地使用權及地上建築物已完成過戶登記手續，總價款為人民幣1.86億元，聚傑公司已支付全部交易對價款。本次交易完成標誌著聚傑公司“高階電子布建設專案”已獲得專案需用的土地及廠房。"
+    },
+    {
+      "id": "5041550",
+      "time": "2026-08-14 20:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州金達投資基金被監管採取責令改正措施】8月14日，廣東證監局披露，經查，廣州金達投資基金管理有限公司向中國證券投資基金業協會提交的廣州金達宏銘股權投資合夥企業（有限合夥）的備案資訊中，未如實反映投資者代他人持有私募投資基金份額的情況，投資者資訊存在虛假記載。廣東證監局決定，對該公司採取責令改正的行政監管措施，並要求該公司應高度重視，採取切實有效的措施，對存在的問題進行整改，對相關責任人員進行問責，並在收到決定書之日起30日內向監管提交書面整改報告。"
+    },
+    {
+      "id": "mkt:01a00048-8307-7aab-903f-26d7759b560e",
+      "time": "2026-08-14 20:39:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June wholesale inventories MoM +1.2%, prior -1.1%."
+    },
+    {
+      "id": "mkt:01a00048-7531-7aab-903f-1dbef9d110c6",
+      "time": "2026-08-14 20:39:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【US retail sales fall 0.6% in July; autos and online purchases weigh】US retail sales fell 0.6% in July on a nominal basis, the largest monthly decline in over a year, as weaker auto and online-store purchases pulled spending lower. Excluding autos and gasoline, sales declined 0.2%. The report suggests consumers lost some momentum after a strong 1H 2026; economists remain cautious after large one-off tax refunds early in 2026 and June’s personal saving rate fell to a four-year low."
+    },
+    {
+      "id": "mkt:01a00048-6389-7aab-903f-15b6742cc35b",
+      "time": "2026-08-14 20:38:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (MoM) (Jun) | actual 1.2% | previous -1.1%"
+    },
+    {
+      "id": "5041549",
+      "time": "2026-08-14 20:38:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近岸蛋白：股價異常波動 2026 年半年度預虧 2650 - 2950 萬元】近岸蛋白公告稱，公司股票 8 月 12 - 14 日連續 3 個交易日內日收盤價格漲幅偏離值累計超 30%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大資訊。2025 年營收 14643.95 萬元，同比升 14.80%，淨虧損 7778.34 萬元；2026 年一季度營收 3724.67 萬元，同比升 11.37%，淨虧損 1060.44 萬元。2026 年半年度預計淨虧損 2650 - 2950 萬元，較去年同期增虧。此外，截至 8 月 14 日收盤，公司市銷率高於同行業可比公司，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:01a00047-e8d9-7aab-903f-08de9fa6d5ae",
+      "time": "2026-08-14 20:38:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada wholesale sales +9.0% YoY in June, prior 7.4%."
+    },
+    {
+      "id": "mkt:01a00047-cd41-7aab-903f-064ba42ae0f6",
+      "time": "2026-08-14 20:38:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (YoY) (Jun) | actual 9% | previous 7.4%"
+    },
+    {
+      "id": "5041548",
+      "time": "2026-08-14 20:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國7月零售銷售速評】美國7月零售銷售環比下降0.6%，預期為增長0.1%，前值為增長0.2%。美國7月零售銷售創下一年多來最大降幅，因消費者減少了對汽車和線上商店的購買。該報告表明，在2026年上半年表現較為強勁之後，消費者在上個月有所降溫。經濟學家普遍對消費支出前景保持謹慎，此前2026年年初的超大額退稅帶來了一次性提振，而6月個人儲蓄率已降至四年低點。"
+    },
+    {
+      "id": "te:economy:575477",
+      "time": "2026-08-14 20:37:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wholesale Sales",
+        "Importance 1"
+      ],
+      "text": "Canada Wholesale Sales Rise Most in 3 Years — Wholesale sales in Canada, excluding petroleum and hydrocarbon products, jumped by 2.8% from the previous month in June of 2026, revised marginally higher from the preliminary expectations of 2.7%, to mark the sharpest increase since May of 2023. Machinery sales surged 4.8% in the period to C$20.1 billion, driven by farm, lawn, and gardening machinery and equipment, which rose 25.9% to C$3.1 billion. Meanwhile, sales also rose sharply for food, beverage, and tobacco (2.8% to C$16.4 billion). Wholesale inventories, also excluding hydrocarbons, rose 1.2% to C$140.4 billion."
+    },
+    {
+      "id": "mkt:01a00046-ef5a-7aab-903e-fe5036ec6adb",
+      "time": "2026-08-14 20:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June manufacturing inventories +0.6% MoM, prior +0.5%."
+    },
+    {
+      "id": "mkt:01a00046-d76e-7aab-903e-f20f094b5e0e",
+      "time": "2026-08-14 20:37:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventories (MoM) (Jun) | actual 0.6% | previous 0.5%"
+    },
+    {
+      "id": "5041546",
+      "time": "2026-08-14 20:36:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【印度央行：外匯存款互換工具將於8月末截止】印度儲備銀行在宣告中表示，FCNR‑B存款互換工具將於8月31日關閉，該工具項下互換業務可辦理至9月11日。截至目前，銀行在外匯存款募集專項計劃下累計籌集568.5億美元，其中523億美元來自FCNR‑B存款。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608143841971469",
+      "time": "2026-08-14 20:35:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國7月零售銷售意外下滑後，交易員減少對美聯儲在2027年中期前加息超過一次的押注。"
+    },
+    {
+      "id": "mkt:01a00045-9d57-7aab-903e-ee867c685ed7",
+      "time": "2026-08-14 20:35:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Market pricing shows the probability that the Fed will deliver more than one rate hike before mid-2027 has declined."
+    },
+    {
+      "id": "5041545",
+      "time": "2026-08-14 20:35:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元在經濟資料公佈後延續漲勢，上漲0.4%，觸及1.3868加元兌1美元，為6月5日以來最高水平。"
+    },
+    {
+      "id": "5041544",
+      "time": "2026-08-14 20:35:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元上漲0.6%，報158.60日元。"
+    },
+    {
+      "id": "mkt:01a00044-eae6-7aab-903e-e162450258dc",
+      "time": "2026-08-14 20:35:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada June manufacturing inventory-to-shipments ratio unchanged at 1.61% (prior 1.61%)."
+    },
     {
       "id": "mkt:01a00044-7208-7aab-903e-deb6b53e0cae",
       "time": "2026-08-14 20:34:40",
