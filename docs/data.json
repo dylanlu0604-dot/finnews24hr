@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-14 13:18:16",
-  "count": 15516,
+  "updated": "2026-08-14 13:22:06",
+  "count": 15518,
   "items": [
+    {
+      "id": "mkt:019ffeb6-b3eb-7aab-9035-e84f59bfd81f",
+      "time": "2026-08-14 13:20:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local officials said \"all situations\" at Russia's Ust-Luga port in the Leningrad region following a drone attack have been handled."
+    },
+    {
+      "id": "5040595",
+      "time": "2026-08-14 13:20:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮威家越07首秀：Momenta最新R7世界模型上車，正式開啟盲訂】榮威與火山引擎深度合作的AI原生第一車——家越07正式迎來全球首秀，定位面向中國家庭打造的新能源大五座SUV，即日起正式開啟盲訂。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ffeb6-6413-7aab-9035-e239bb6419c5",
+      "time": "2026-08-14 13:19:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Jingtou Development hit an intraday limit-down and traded both limit-down and limit-up levels during the session; turnover nearly CNY 1 bln."
+    },
+    {
+      "id": "5040594",
+      "time": "2026-08-14 13:19:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2328億元。"
+    },
+    {
+      "id": "te:economy:575284",
+      "time": "2026-08-14 13:18:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Inflation Rate Steady in July — The annual inflation rate in Finland stood at 2.1% in July 2026, unchanged from the previous two months and remaining at its highest level since March 2024. Price growth accelerated for housing and utilities (2.1% vs 1.9% in June), alcoholic beverages and tobacco (4.6% vs 3.4%), information and communication (3.7% vs 1.5%), recreation and culture (1.4% vs 1.2%), and restaurants and accommodation services (2.2% vs 2.1%). In addition, inflation was unchanged for food and non-alcoholic beverages (0.7%) and education (11.5%), while deflation eased for insurance and financial services (-0.5% vs -1.6%). On the other hand, prices moderated for transport (5.8% vs 6.2%), furnishings, household equipment and routine household maintenance (3.3% vs 3.5%), and health (3.5% vs 4.0%). Prices also slipped for clothing and footwear (-1.6% vs 0.8%). On a monthly basis, consumer prices rose 0.2%, rebounding from a 0.2% decline in the previous month."
+    },
+    {
+      "id": "5040593",
+      "time": "2026-08-14 13:18:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【京投發展上演“天地板”】京投發展盤中跌停，上演“天地板”，現報11.64元，成交額9.26億元。"
+    },
+    {
+      "id": "5040592",
+      "time": "2026-08-14 13:18:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深藍航天與艾美依航空簽署戰略合作協議】據深藍航天訊息，2026年8月，江蘇深藍航天有限公司與杭州艾美依航空製造裝備有限公司在杭州艾美依航空園區正式簽署戰略合作協議。此次雙方攜手合作是深藍航天構建回收複用液體火箭供應鏈產業生態的重要舉措，也是艾美依依託在航空裝備方面積累優勢進入商業航天製造領域的首個重要合作專案。雙方將重點圍繞液體運載火箭複合材料關鍵結構件製造，以及自動化裝配工藝裝備及生產線兩大方向開展聯合研發，實現技術互補與產業協同。"
+    },
+    {
+      "id": "5040591",
+      "time": "2026-08-14 13:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭稱挫敗俄針對一烏裔美籍公民暗殺圖謀 】波蘭總理唐納德·圖斯克13日稱，俄羅斯計劃在波蘭首都華沙殺害一名烏克蘭裔美國公民，這一圖謀被波蘭方面挫敗。據華沙警方通報，一名涉嫌被俄羅斯招募的嫌疑人已於7日被波蘭有關方面逮捕。圖斯克說，這是受俄方指使人員首次試圖在美國以外的北約成員國境內襲擊美國公民。"
+    },
     {
       "id": "mkt:019ffeb4-1c55-7aab-9035-dfde9bde76bf",
       "time": "2026-08-14 13:17:24",
@@ -141957,59 +142028,6 @@
         "國際"
       ],
       "text": "日本能源巨頭ENEOS首席財務官表示：將與日本政府密切協作，增強石油供應鏈韌性。"
-    },
-    {
-      "id": "5030086",
-      "time": "2026-08-07 13:21:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內首臺單核心大冷量稀釋製冷機問世】近日，在中國科學院量子資訊與量子科技創新研究院（以下簡稱“量子創新研究院”）的授權指導下，國盾量子成功完成稀釋製冷機ez-Q F1500的工程化開發，實現首臺下線。ez-Q F1500在100毫開爾文（mK）溫度下實現1700微瓦（μW）製冷量，在20mK溫度下實現48μW製冷量，單核心製冷量達到國際領先水平。產品將於今年下半年啟動交付，為我國後續千位元可糾錯超導量子計算機的研製奠定基礎。（安徽日報）"
-    },
-    {
-      "id": "mkt:019fdaab-4eec-7aab-8fb0-182b07efcafa",
-      "time": "2026-08-07 13:21:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【South Korea plans to cut reliance on Middle East crude to 60% or below】South Korea's government on the 7th is reviewing a draft Resource Security Basic Plan that would cap Middle East crude imports at 60% or below to diversify supply sources. The move follows disruptions in the Strait of Hormuz in 1H tied to the Middle East conflict that pushed crude and refined fuel prices higher. South Korea's dependence on Middle East crude was about 70% last year."
-    },
-    {
-      "id": "5030085",
-      "time": "2026-08-07 13:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本能源巨頭ENEOS首席財務官表示：伊朗戰爭結束後，我們需要中長期內擴大石油儲備，並實現原油採購來源多元化。"
-    },
-    {
-      "id": "mkt:019fdaaa-6e67-7aab-8fb0-1030c8d23071",
-      "time": "2026-08-07 13:20:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "30-year government bond futures (TL) most-active contract rose more than 0.30% intraday to 115.74 yuan."
-    },
-    {
-      "id": "mkt:019fdaaa-0a1f-7aab-8fb0-0bdcfd59466f",
-      "time": "2026-08-07 13:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "France Q2 ILO unemployment rate due in 10 minutes."
-    },
-    {
-      "id": "5030084",
-      "time": "2026-08-07 13:19:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月07日13時08分在四川宜賓市高縣（北緯28.51度，東經104.67度）發生4.9級地震，震源深度6千米。"
     }
   ]
 }
