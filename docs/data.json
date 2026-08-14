@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 06:11:18",
-  "count": 15302,
+  "updated": "2026-08-15 06:15:15",
+  "count": 15303,
   "items": [
+    {
+      "id": "5042021",
+      "time": "2026-08-15 06:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼弗洛勒斯島附近海域附近發生7.7級左右地震】中國地震臺網自動測定：08月15日05時58分在印尼弗洛勒斯島附近海域附近（南緯8.46度，東經121.42度）發生7.7級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5042020",
+      "time": "2026-08-15 06:10:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心(EMSC)將印度尼西亞弗洛勒斯地區地震震級從6.9修正為7.5。"
+    },
     {
       "id": "5042019",
       "time": "2026-08-15 06:10:25",
@@ -140084,17 +140100,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列炮兵炮擊黎巴嫩阿里・塔希爾高地。"
-    },
-    {
-      "id": "te:markets:573893",
-      "time": "2026-08-08 06:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Appreciates by 1.14% — Top currency gainers are South Korean Won (1.14%), Brazilian Real (0.81%), Swedish Krona (0.55%), Japanese Yen (0.42%), Euro (0.22%) and British Pound (0.17%). Biggest loser is Dollar Index (-0.33%)."
     }
   ]
 }
