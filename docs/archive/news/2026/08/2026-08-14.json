@@ -1,7 +1,129 @@
 {
   "date": "2026-08-14",
-  "count": 766,
+  "count": 779,
   "items": [
+    {
+      "id": "te:markets:575231",
+      "time": "2026-08-14 09:42:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Near 2-Week Low — The New Zealand dollar steadied around $0.585 but remained near a two-week low as soft economic data raised fresh questions over the extent to which the Reserve Bank may continue tightening policy. New Zealand's manufacturing PMI fell to 54.3 in July from June's 60.1, with a majority of business comments turning negative. This followed data showing that one-year inflation expectations fell to 2.6% from 3.4% in the previous quarter, while the two-year measure, which the RBNZ watches most closely, eased to 2.3% from 2.5%. This signaled that inflation expectations remain contained and that there is a lower risk of higher oil prices spilling over into broader inflation. Still, traders continue to see a high probability of a September rate hike as the central bank repeatedly stressed the need to withdraw some of its policy support. The kiwi is down 0.6% so far this week, putting it on track to snap a two-week winning streak."
+    },
+    {
+      "id": "5040340",
+      "time": "2026-08-14 09:42:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超訊科技成立智算科技公司 含多項AI業務】企查查APP顯示，近日，超訊智算（廣西）科技有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；網路技術服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由超訊科技全資持股。"
+    },
+    {
+      "id": "mkt:019ffdef-91d4-7aab-9032-8fdf4a6dd78f",
+      "time": "2026-08-14 09:42:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share property sector opened lower; Jingtou Development fell over 7%, while Rongfeng Holdings, Huafa and Shoukai shares also slipped at the open."
+    },
+    {
+      "id": "5040339",
+      "time": "2026-08-14 09:42:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲葉門各方保持冷靜剋制 避免局勢升級】當地時間13日，聯合國安理會舉行葉門問題公開會。中國常駐聯合國副代表孫磊表示，最近一個多月，葉門局勢驟然升溫，衝突烈度達到2022年4月停火協議簽署以來的最高水平。與此同時，紅海航道安全風險上升，引發國際社會廣泛擔憂。當前葉門緊張事態升級，是在中東整體局勢加劇動盪的背景下發生的，是地區衝突負面效應外溢的結果。當務之急是推動局勢降溫，防止衝突持續擴大，所有當事方都應保持冷靜剋制，避免局勢升級。"
+    },
+    {
+      "id": "mkt:019ffdef-062b-7aab-9032-84448a463e89",
+      "time": "2026-08-14 09:42:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share components sector surged; Huazheng New Materials and Aihua Group hit daily trading limits, while Zhongying Technology, Weiergao, Nanya New Materials, Zecheng Electronics and Zhongfu Circuit also advanced."
+    },
+    {
+      "id": "5040338",
+      "time": "2026-08-14 09:41:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊回撥 京投發展跌超7%】房地產板塊回撥，京投發展跌超7%，榮豐控股、華髮股份、首開股份等紛紛下跌。"
+    },
+    {
+      "id": "5040337",
+      "time": "2026-08-14 09:41:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念反覆走強 博濟醫藥20cm2連板】CRO概念反覆走強，博濟醫藥20cm2連板，蘭衛醫學漲超10%，和元生物、宣泰醫藥、近岸蛋白、皓元醫藥跟漲。"
+    },
+    {
+      "id": "te:markets:575230",
+      "time": "2026-08-14 09:41:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Rally — The benchmark KOSPI rose nearly 1% to around 6,870 on Friday, extending gains to its highest level in more than three weeks, as strength in US stocks and semiconductor shares lifted investor sentiment. The S&P 500 reached a fresh record high after US producer prices were unchanged in July, below expectations for an increase, easing concerns over accelerating inflation and reducing expectations for further Federal Reserve tightening. The improved risk sentiment supported Asian technology stocks, with SK hynix jumping more than 3%. Other notable performers included SK Square (1.7%), Hyundai Motor (5.5%), HD Hyundai Heavy Industries (1.8%), Kia Corporation (2.1%), and Hyundai Mobis (3.5%). Meanwhile, the US imposed a 15% tariff on South Korean drones and components and identified South Korea as a Tier 1 economy exposed to transshipment risks involving China-linked goods, adding a potential headwind for exporters."
+    },
+    {
+      "id": "5040336",
+      "time": "2026-08-14 09:41:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：二季度毛利率增加主要因為銷售單價提升與產能利用率好於預期】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度公司毛利率為25.3%，環比增加5.2個百分點，主要因為平均銷售單價上升與產能利用率好於預期，抵消了折舊增加對毛利率的拖累。從息稅折舊及攤銷前利潤率來看，環比提升近13個百分點，達到了70%。"
+    },
+    {
+      "id": "mkt:019ffdee-43db-7aab-9032-7806175f5d88",
+      "time": "2026-08-14 09:41:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan 20-year bond yield fell 1bp to 3.730%."
+    },
+    {
+      "id": "5040335",
+      "time": "2026-08-14 09:40:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌1個基點，至3.730%。"
+    },
+    {
+      "id": "5040334",
+      "time": "2026-08-14 09:39:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊衝高，華正新材、艾華集團漲停】元件板塊衝高，華正新材、艾華集團漲停，中英科技、威爾高、南亞新材、則成電子、中富電路跟漲。"
+    },
+    {
+      "id": "5040333",
+      "time": "2026-08-14 09:39:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念持續走強，華正新材漲停】先進封裝概念持續走強，華正新材漲停，藍箭電子漲超10%，驕成超聲、頎中科技、華海誠科、佰維儲存、光力科技等跟漲。"
+    },
     {
       "id": "mkt:019ffdec-290a-7aab-9032-710fe4838ac2",
       "time": "2026-08-14 09:39:00",
