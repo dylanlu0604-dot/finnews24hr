@@ -1,7 +1,35 @@
 {
   "date": "2026-08-15",
-  "count": 24,
+  "count": 27,
   "items": [
+    {
+      "id": "5041827",
+      "time": "2026-08-15 00:19:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合健康集團：對湯普森一案兇手被繩之以法深表欣慰，感謝執法部門伸張正義。"
+    },
+    {
+      "id": "te:markets:575521",
+      "time": "2026-08-15 00:17:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Ease Off Records — European stocks closed marginally lower on Friday as tech stocks pulled back and pharmaceuticals retreated. The STOXX Europe 50 eased by 0.1% form yesterday's record high to 6,541 and the STOXX Europe eased 0.2% to 658. ASML dropped 0.2% to trim its sharp advance this week as markets continued to assess spending on AI infrastructure by hyperscalers, with both Anthropic and OpenAI set to undergo IPOs this year. Likewise, Infineon dropped 1.3%. Meanwhile, a negative session for European drug manufacturers saw Argenx and Sanofi fall 3.2% and 1.2%, respectively. In turn, banks and insurers were mostly higher despite a surge in European sovereign yields, especially in the long end of the curve, as the rhetoric that the Federal Reserve could allow higher inflation rates regained ground. Deutsche Bank and Intesa Sanpaolo gained nearly 1%, while Allianz and Munich Re jumped over 1% for the insurers."
+    },
+    {
+      "id": "5041826",
+      "time": "2026-08-15 00:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨領導人納伊姆·卡西姆：絕不會屈服於以色列政權的壓力和侵略。黎巴嫩政府應承擔重建南部和保障流離失所者安全的責任。"
+    },
     {
       "id": "mkt:01a0010e-9e51-7aab-9042-aefc126ed265",
       "time": "2026-08-15 00:15:30",

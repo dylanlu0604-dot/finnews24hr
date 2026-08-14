@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-15 00:17:02",
+  "updated": "2026-08-15 00:21:00",
   "count": 15342,
   "items": [
+    {
+      "id": "5041827",
+      "time": "2026-08-15 00:19:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合健康集團：對湯普森一案兇手被繩之以法深表欣慰，感謝執法部門伸張正義。"
+    },
+    {
+      "id": "te:markets:575521",
+      "time": "2026-08-15 00:17:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Ease Off Records — European stocks closed marginally lower on Friday as tech stocks pulled back and pharmaceuticals retreated. The STOXX Europe 50 eased by 0.1% form yesterday's record high to 6,541 and the STOXX Europe eased 0.2% to 658. ASML dropped 0.2% to trim its sharp advance this week as markets continued to assess spending on AI infrastructure by hyperscalers, with both Anthropic and OpenAI set to undergo IPOs this year. Likewise, Infineon dropped 1.3%. Meanwhile, a negative session for European drug manufacturers saw Argenx and Sanofi fall 3.2% and 1.2%, respectively. In turn, banks and insurers were mostly higher despite a surge in European sovereign yields, especially in the long end of the curve, as the rhetoric that the Federal Reserve could allow higher inflation rates regained ground. Deutsche Bank and Intesa Sanpaolo gained nearly 1%, while Allianz and Munich Re jumped over 1% for the insurers."
+    },
+    {
+      "id": "5041826",
+      "time": "2026-08-15 00:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨領導人納伊姆·卡西姆：絕不會屈服於以色列政權的壓力和侵略。黎巴嫩政府應承擔重建南部和保障流離失所者安全的責任。"
+    },
     {
       "id": "mkt:01a0010e-9e51-7aab-9042-aefc126ed265",
       "time": "2026-08-15 00:15:30",
@@ -140322,39 +140350,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基： 我已攜團隊抵達塞爾維亞。今明兩日我們安排了重要會晤， 我們將探討擴大兩國經濟聯絡、對歐盟關係、其他惠及兩國人民的議題以及安全相關事務。"
-    },
-    {
-      "id": "5031428",
-      "time": "2026-08-08 00:20:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯新任經濟部長稱，預計該國 2026 年經濟增長 3.5%。"
-    },
-    {
-      "id": "te:markets:573868",
-      "time": "2026-08-08 00:18:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close at Records — European stocks closed higher on Friday, tracking similar developments in major equity markets amid a rebound for industrial and tech stocks. The Euro STOXX 50 added 0.4% to 6,530 and the STOXX Europe 600 rose 0.4% to 661. Software producers and AI-related infrastructure manufacturers rose for a second session, tracking US counterparts with SAP gaining 4.1%, while Infineon and Siemens rose nearly 3% each. Meanwhile, Sanofi and Argenx each gained 1.3% to close a strong weak for the European pharmaceutical sector. On the other hand, Allianz fell 1.6% despite generating a record profit on both its insurance and asset management business in the second quarter. Likewise, Munich Re dropped 1.5% despite reporting higher profits in the period."
-    },
-    {
-      "id": "mkt:019fdd04-4c15-7aab-8fbe-06b5cf502a55",
-      "time": "2026-08-08 00:17:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "AAPL.O",
-        "AMZN.O",
-        "NKE.N"
-      ],
-      "text": "Senator Warren (D) has pressed Apple (AAPL.O), Amazon (AMZN.O) and Nike (NKE.N) over refunds of tariffs collected under the Trump administration, urging in a letter that they refund tariff charges to consumers."
     }
   ]
 }
