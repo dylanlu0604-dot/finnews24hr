@@ -1,7 +1,37 @@
 {
   "date": "2026-08-14",
-  "count": 1302,
+  "count": 1305,
   "items": [
+    {
+      "id": "mkt:019fff00-301c-7aab-9037-8715b5a76115",
+      "time": "2026-08-14 14:40:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Goldman Sachs economist: large-scale AI job losses in India unlikely】Goldman Sachs' India chief economist Santanu Sengupta said India is unlikely to see widespread unemployment from AI, though some service-sector roles could be affected. He cited India's very large labor force and the high share employed in manual or physical jobs; construction and retail account for roughly 40% of the workforce and so far AI has had limited impact on those sectors. Goldman Sachs estimates that pacing AI deployment could mitigate employment shocks and that AI might raise aggregate productivity by about 0.4 percentage points over the next 10 years."
+    },
+    {
+      "id": "mkt:019ffeff-1fa7-7aab-9037-7bd684dd5995",
+      "time": "2026-08-14 14:39:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs says some roles in India’s services sector could be affected by AI, but widespread unemployment of the Indian workforce is unlikely."
+    },
+    {
+      "id": "te:markets:575313",
+      "time": "2026-08-14 14:37:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Slides 1.6% Over Week — The ASX 200 slipped 73 points, or 0.8%, to close at 9,115 on Friday, marking its third straight retreat and lowest finish in over a week. Sentiment weakened as U.S. futures fell after President Trump imposed fresh tariffs on drone imports, with analysts pointing to China as the main target. Meanwhile, US Treasury Secretary Bessent Thursday warned of unprecedented measures against Iran, promising “economic isolation like the world has never seen. Locally, Q2 housing lending in Australia dropped to a three-quarter low, though the pace of decline eased from the prior period. Attention now turns to July labor data due next week, following June’s steady jobless rate. Heavy losses hit transport, industrials, healthcare, and non-energy minerals. BHP and Rio Tinto shed 3.4% and 2.9%, while three of the four major banks also pulled back. Gold miners lagged, with Evolution Mining down 4.0% and Northern Star off 3.2%. For the week, the market fell 1.6%, erasing gains from the prior three weeks."
+    },
     {
       "id": "5040680",
       "time": "2026-08-14 14:36:32",

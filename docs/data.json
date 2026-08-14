@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-14 14:37:22",
-  "count": 15467,
+  "updated": "2026-08-14 14:41:17",
+  "count": 15460,
   "items": [
+    {
+      "id": "mkt:019fff00-301c-7aab-9037-8715b5a76115",
+      "time": "2026-08-14 14:40:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Goldman Sachs economist: large-scale AI job losses in India unlikely】Goldman Sachs' India chief economist Santanu Sengupta said India is unlikely to see widespread unemployment from AI, though some service-sector roles could be affected. He cited India's very large labor force and the high share employed in manual or physical jobs; construction and retail account for roughly 40% of the workforce and so far AI has had limited impact on those sectors. Goldman Sachs estimates that pacing AI deployment could mitigate employment shocks and that AI might raise aggregate productivity by about 0.4 percentage points over the next 10 years."
+    },
+    {
+      "id": "mkt:019ffeff-1fa7-7aab-9037-7bd684dd5995",
+      "time": "2026-08-14 14:39:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs says some roles in India’s services sector could be affected by AI, but widespread unemployment of the Indian workforce is unlikely."
+    },
+    {
+      "id": "te:markets:575313",
+      "time": "2026-08-14 14:37:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Slides 1.6% Over Week — The ASX 200 slipped 73 points, or 0.8%, to close at 9,115 on Friday, marking its third straight retreat and lowest finish in over a week. Sentiment weakened as U.S. futures fell after President Trump imposed fresh tariffs on drone imports, with analysts pointing to China as the main target. Meanwhile, US Treasury Secretary Bessent Thursday warned of unprecedented measures against Iran, promising “economic isolation like the world has never seen. Locally, Q2 housing lending in Australia dropped to a three-quarter low, though the pace of decline eased from the prior period. Attention now turns to July labor data due next week, following June’s steady jobless rate. Heavy losses hit transport, industrials, healthcare, and non-energy minerals. BHP and Rio Tinto shed 3.4% and 2.9%, while three of the four major banks also pulled back. Gold miners lagged, with Evolution Mining down 4.0% and Northern Star off 3.2%. For the week, the market fell 1.6%, erasing gains from the prior three weeks."
+    },
     {
       "id": "5040680",
       "time": "2026-08-14 14:36:32",
@@ -141517,99 +141547,6 @@
         "Impact bearish"
       ],
       "text": "A top executive at INPEX, one of Japan's largest energy developers, said Abu Dhabi crude's importance remains unchanged and the company will continue investing to increase output in the region."
-    },
-    {
-      "id": "5030220",
-      "time": "2026-08-07 14:40:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "夏普：已在業績預測中納入樹脂、燃料成本上漲帶來的影響。"
-    },
-    {
-      "id": "5030219",
-      "time": "2026-08-07 14:40:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓7月底外匯儲備降至1034億美元。"
-    },
-    {
-      "id": "5030218",
-      "time": "2026-08-07 14:40:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊持續走高，泓博醫藥觸及漲停】創新藥板塊持續走高，泓博醫藥觸及漲停，昭衍新藥、普洛藥業、珍寶島等十餘股漲停，藥石科技、皓元醫藥、益諾思等多股漲超10%、"
-    },
-    {
-      "id": "5030217",
-      "time": "2026-08-07 14:40:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX特斯拉擬建地表最大晶片廠】當地時間6日，美國企業家馬斯克旗下的太空探索技術公司SpaceX與特斯拉公司聯合宣佈，名為Terafab的大型晶片製造中心將落戶得克薩斯州的格賴姆斯縣，專案首期投資額達168億美元。 據瞭解，Terafab專案由SpaceX與特斯拉兩家馬斯克旗下公司聯合推進，旨在打造全球規模最大的晶片製造設施。按照規劃，工廠將集設計、製造、封裝和測試於一體，以實現馬斯克高階晶片內部自主供應的目標，降低對外部供應商的依賴。公告並未明確Terafab初期階段的產能目標，僅重申Terafab最終要年產“1太瓦算力”，1太瓦相當於1000吉瓦。這些算力將被用於特斯拉自動駕駛系統、“擎天柱”人形機器人及太空資料中心等場景使用。（央視財經）"
-    },
-    {
-      "id": "5030216",
-      "time": "2026-08-07 14:39:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國發生客車相撞事故 致8死25傷】孟加拉國警方證實，當地時間7日7時30分左右，該國達卡-錫爾赫特公路上發生一起嚴重車禍，兩輛客車迎頭相撞，造成至少8人死亡、25人受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fdaf1-fc0c-7aab-8fb1-b28182f43415",
-      "time": "2026-08-07 14:38:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【NVIDIA doubles Jetson AGX Orin price; Ligong Leike unveils domestic Shanhai edge AI modules】NVIDIA raised prices across its Jetson series; the Jetson AGX Orin module increased from $899 to $1,799, a 100% rise. Chinese firm Ligong Leike launched the Shanhai smart-compute module series as a domestic alternative for edge AI, built on local CPU and GPU platforms and advertised to deliver high-performance AI inference, multi-task parallel processing, extensive I/O and long-term stable operation in complex environments."
-    },
-    {
-      "id": "5030215",
-      "time": "2026-08-07 14:38:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "查理・哈徹擊敗田納西州共和黨眾議員安迪・奧格爾斯，贏得田納西州第 5 國會選區共和黨眾議院提名。"
-    },
-    {
-      "id": "mkt:019fdaf1-4992-7aab-8fb1-ab2097a2a2bb",
-      "time": "2026-08-07 14:37:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Roundup: Institutional forecasts for US July unemployment rate (prior 4.2%)】National Bank of Canada is the lone 4.1% outlier. Nineteen institutions forecast 4.2% — including Deutsche Bank, Mizuho, HSBC, RBC, BNP Paribas, Wells Fargo, Berenberg, Commonwealth Bank of Australia, Oxford Economics, Pantheon Macroeconomics, Nordea, SocGen, Moody’s Analytics, Nomura, BMO, Barclays, TD Securities and High Frequency Economics. Nineteen institutions forecast 4.3% — including Sumitomo Mitsui, Morgan Stanley, JP Morgan, Daiwa Capital Markets, Lloyds, Scotiabank, Standard Chartered, Westpac, ING, Capital Economics, Citigroup, NatWest, Commerzbank, Goldman Sachs, UBS, CIBC, Bank of America and U.S. Bancorp. Reuters expectation: 4.2%."
-    },
-    {
-      "id": "5030214",
-      "time": "2026-08-07 14:37:47",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【機構前瞻美國7月失業率（前值：+4.2%）】\n1. 加拿大國民銀行：+4.1%；德意志銀行：+4.2%；瑞穗證券：+4.2%；滙豐控股：+4.2%；\n2. 加拿大皇家銀行：+4.2%；丹斯克銀行：+4.2%；法巴銀行：+4.2%；富國銀行：+4.2%；\n3. 貝倫貝格銀行：+4.2%；澳洲聯邦銀行：+4.2%；牛津經濟：+4.2%；潘森宏觀：+4.2%；\n4. 北歐斯安銀行：+4.2%；法國興業銀行：+4.2%；穆迪分析：+4.2%；野村證券：+4.2%；\n5. 蒙特利爾銀行：+4.2%；巴克萊銀行：+4.2%；道明證券：+4.2%；高頻經濟：+4.2%；\n6. 三井住友銀行：+4.3%；摩根士丹利：+4.3%；摩根大通：+4.3%；先鋒領航：+4.3%；\n7. 大和資本市場：+4.3%；勞埃德銀行：+4.3%；豐業銀行：+4.3%；渣打銀行：+4.3%；\n8. 西太平洋銀行：+4.3%；荷蘭國際：+4.3%；凱投宏觀：+4.3%；花旗集團：+4.3%；\n9. 國民西敏寺銀行：+4.3%；德商銀行：+4.3%；高盛集團：+4.3%；瑞銀集團：+4.3%；\n10. 加拿大帝商銀行：+4.3%；美銀美林：+4.3%；合眾銀行：+4.3%；[路透預期：4.2%]"
-    },
-    {
-      "id": "5030213",
-      "time": "2026-08-07 14:37:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達Jetson大幅漲價 理工雷科推出“山海”智算模組提供國產替代方案】理工雷科今日官微訊息，近日，英偉達Jetson系列產品價格出現顯著調整。其中，Jetson AGX Orin模組價格由899美元上調至1799美元，漲幅100%。事實上，受邊緣AI應用需求快速擴張以及上游部分元器件供應收緊影響，Jetson系列部分型號自去年起便已出現供貨趨緊的情況。核心計算平臺的價格異動與供應波動，直接影響企業產品BOM成本、交付節奏。理工雷科面向邊緣AI場景推出“山海”系列智算模組。該系列產品基於國產CPU與GPU構建，具備高效能AI推理、多工並行處理及豐富介面擴充套件能力，可在複雜環境下實現長期穩定執行。山海T100提供最高240 TOPS INT8 AI算力，FP32浮點算力達17.4 Tflops，可支撐複雜深度學習模型部署及大規模併發推理任務。儲存配置方面，128GB eMMC本地儲存有效降低對外部儲存的依賴，提升裝置整合度與部署靈活性。"
     }
   ]
 }
