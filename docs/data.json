@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-14 20:19:28",
-  "count": 15376,
+  "updated": "2026-08-14 20:23:28",
+  "count": 15378,
   "items": [
+    {
+      "id": "5041507",
+      "time": "2026-08-14 20:21:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行與對沖基金QRT的交易額增至超過1000億美元。"
+    },
+    {
+      "id": "5041506",
+      "time": "2026-08-14 20:21:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Lam Research：投資超30億美元擴建全球研發實驗室網路，實驗容量提升超 50%】美國半導體裝置製造商Lam Research宣佈，計劃在未來五年內投資超過30億美元，用於擴建其全球研發（R&D）實驗室網路。此次多站點擴建計劃預計將新增基礎設施與實驗能力，使該司實驗容量提升超過50%。"
+    },
+    {
+      "id": "5041505",
+      "time": "2026-08-14 20:21:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青鳥智控：上半年歸母淨利潤同比下降12.54%】青鳥智控8月14日披露半年報，公司上半年實現營業收入20.21億元，同比下降6.01%；歸屬於上市公司股東的淨利潤1.39億元，上年同期1.59億元，同比下降12.54%；基本每股收益0.1323元/股。"
+    },
+    {
+      "id": "5041504",
+      "time": "2026-08-14 20:20:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富樂德：擬募資不超11.76億元投建7專案】富樂德公告稱，公司擬向不特定物件發行可轉換公司債券，募資不超11.76億元（含本數），扣除發行費用後，用於大連、上海、深圳等地7個專案。專案總投資15.87億元，其中擬使用募集資金11.76億元。專案實施可提升業務規模、增強技術與服務能力，強化競爭優勢。截至報告出具日，除上海臨港和深圳專案備案尚在辦理外，其餘專案均已取得備案，環評手續尚在推進。"
+    },
+    {
+      "id": "5041503",
+      "time": "2026-08-14 20:20:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華強北AI眼鏡銷量暴漲100%】今年前7個月，華強北AI產品全品類銷售額同比增長55%以上，其中AI眼鏡銷量激增100%，無人機、機器人銷量增長60%至70%。翻譯耳機、3D列印裝置、智慧穿戴等高新科技產品，成為吸引海內外遊客的閃亮名片。目前，華強北跑出了“上午設計、下午打樣、次日量產、一週出海”的科創速度。最新資料顯示，華強北電子產品出口覆蓋全球190多個國家和地區，全年發出的超10億件快遞中，四成發往海外。（央視財經）"
+    },
+    {
+      "id": "mkt:01a00037-34af-7aab-903d-f55f8aa90f91",
+      "time": "2026-08-14 20:20:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huaqiangbei AI glasses sales surge 100%】Huaqiangbei AI product sales rose over 55% YoY in the first seven months; AI glasses sales surged 100% YoY, while drones and robots increased 60–70%. Translation earbuds, 3D printers and smart wearables also saw strong demand from domestic and international buyers. Huaqiangbei's production cycle now runs: design in the morning, prototype in the afternoon, mass production next day and export within a week. Electronics from Huaqiangbei ship to more than 190 countries and regions; annual parcel volume exceeds 1 billion, with about 40% sent overseas."
+    },
+    {
+      "id": "mkt:01a00037-18f4-7aab-903d-eee5524c1f9e",
+      "time": "2026-08-14 20:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US July retail sales m/m and Canada June wholesale sales m/m due in 10 minutes."
+    },
+    {
+      "id": "5041502",
+      "time": "2026-08-14 20:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "1—7月份，全國二手房交易網籤面積48218萬平方米，同比增長10.2％。"
+    },
+    {
+      "id": "5041501",
+      "time": "2026-08-14 20:18:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美年健康：5%以上股東減持 3575.09 萬股，持股降至 7%】美年健康公告稱，5%以上股東杭州灝月企業管理有限公司於 2026 年 7 月 27 日至 8 月 13 日透過集中競價及大宗交易累計減持 3575.09 萬股，減持比例 0.91%。減持後，杭州灝月及其一致行動人合計持股比例由 7.91%降至 7.00%。本次減持不會導致公司控制權變更，不影響持續性經營，且與此前減持計劃一致，減持計劃尚未履行完畢。"
+    },
     {
       "id": "5041500",
       "time": "2026-08-14 20:17:28",
@@ -140821,73 +140902,6 @@
         "國際"
       ],
       "text": "市場訊息： 大眾汽車在美國戰略調整中計劃推出皮卡車型。"
-    },
-    {
-      "id": "mkt:019fdc2c-7d1b-7aab-8fb8-b58fbe8660b0",
-      "time": "2026-08-07 20:22:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Saudi foreign ministry official said the Mecca defense pact will not affect Riyadh’s relations with Gulf states, other Arab countries or the international community and does not threaten any country in the region."
-    },
-    {
-      "id": "5031116",
-      "time": "2026-08-07 20:22:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "TAKE-TWO高管表示：\"目前使用者獲取方面無疑面臨一定壓力，我認為這種情況在市場上時有起伏，但我們完全不覺得消費者需求在減弱。\""
-    },
-    {
-      "id": "5031115",
-      "time": "2026-08-07 20:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "TAKE-TWO高管表示，業績受到了《Color Block Jam》與去年同期表現對比的影響。"
-    },
-    {
-      "id": "5031114",
-      "time": "2026-08-07 20:21:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨齊漲，道指期貨漲0.12%，標普500指數期貨漲0.26%，納指期貨漲0.60%。\n②德國DAX指數漲0.87%，英國富時100指數漲0.75%，法國CAC40指數漲0.42%，歐洲斯托克50指數漲0.66%。\n③WTI原油跌0.19%，報77.14美元/桶。布倫特原油跌0.51%，報82.07美元/桶。\n④週五，市場靜待關鍵就業資料公佈，美國國債收益率小幅走低。 作為房貸、汽車貸款、信用卡利率核心定價基準的10 年期美債收益率下行超 1 個基點，報 4.656%。\n⑤官方資料顯示，8月4日標普500指數看漲期權成交量達到4023796張合約，創下歷史新高，策略師瑞安・德特里茨提醒投資者要為 8‑9 月這 “表現最差的兩個月” 做好心理準備。\n⑥距離美日聯合出手、拯救持續承壓的日元匯市已經過去一週，日元短暫拉昇後的反彈行情逐漸消退，匯率再度走低。\n⑦美股光通訊股AAOI盤前漲超15%，公司管理層在業績電話會上釋放積極訊號，表示AI基礎設施需求強勁，客戶需求較其當前供應能力高出約20%至40%。\n⑧微芯科技股票盤前上漲9%，此前該公司公佈的第二季度收入與利潤預測均高於市場預期。\n⑨廣告交易平臺Trade Desk股價盤前下跌27%，此前該公司公佈第三季度收入預測低於市場預期。"
-    },
-    {
-      "id": "5031113",
-      "time": "2026-08-07 20:20:10",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "捷藍航空股價在盤前交易中下跌1.5%，此前花旗集團將其評級從中性下調至賣出。"
-    },
-    {
-      "id": "mkt:019fdc2a-99a1-7aab-8fb8-ab8145cceac7",
-      "time": "2026-08-07 20:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "U.S. July seasonally adjusted nonfarm payrolls, unemployment rate and average hourly earnings (MoM and YoY), and Canada’s July employment due in 10 minutes."
-    },
-    {
-      "id": "mkt:019fdc2a-6a72-7aab-8fb8-a6e454a24415",
-      "time": "2026-08-07 20:19:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Saudi Foreign Ministry official told Saudi outlet Hadas the Mecca joint defense agreement is not related to any nuclear program or an arms race."
     }
   ]
 }
