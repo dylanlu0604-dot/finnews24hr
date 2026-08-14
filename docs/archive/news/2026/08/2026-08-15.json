@@ -1,7 +1,55 @@
 {
   "date": "2026-08-15",
-  "count": 138,
+  "count": 144,
   "items": [
+    {
+      "id": "mkt:01a00179-f0b0-7aab-9044-450a49a5c36c",
+      "time": "2026-08-15 02:12:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SoftBank sharply cuts TSMC stake, buys Capital One Financial】SoftBank Group said in a US SEC filing that in Q2 it bought 276,811 shares of Capital One Financial, leaving a quarter‑end position valued at about $55.5 mln. The group trimmed its Taiwan Semiconductor Manufacturing Co (TSMC) holding by 71.5%, selling roughly 1.4 mln shares and raising approximately $269.8 mln. SoftBank also modestly increased its Life360 stake by 10,718 shares, a position worth about $488,500 at quarter‑end."
+    },
+    {
+      "id": "5041889",
+      "time": "2026-08-15 02:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：美國可以繼續制裁伊朗，重創其經濟。"
+    },
+    {
+      "id": "5041888",
+      "time": "2026-08-15 02:12:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：（談及對伊朗施壓）我們手上還有更多可用手段。"
+    },
+    {
+      "id": "5041887",
+      "time": "2026-08-15 02:11:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大汽車工人工會表示，已收到斯特蘭蒂斯集團通知，該集團正認真考慮關閉並出售安大略省布蘭普頓工廠。"
+    },
+    {
+      "id": "5041886",
+      "time": "2026-08-15 02:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與埃及總統討論了黑海局勢。"
+    },
+    {
+      "id": "mkt:01a00177-8902-7aab-9044-3831f1a9ef92",
+      "time": "2026-08-15 02:10:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said he discussed the Black Sea situation with Egypt's president."
+    },
     {
       "id": "mkt:01a00176-6990-7aab-9044-36c4e8e11752",
       "time": "2026-08-15 02:08:52",
