@@ -1,7 +1,43 @@
 {
   "date": "2026-08-15",
-  "count": 280,
+  "count": 284,
   "items": [
+    {
+      "id": "5041975",
+      "time": "2026-08-15 04:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英偉達在SpaceX的持股價值約210億美元。"
+    },
+    {
+      "id": "5041974",
+      "time": "2026-08-15 04:27:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿波羅債務解決方案公司將最高收購股東提交的2900萬股要約股份。"
+    },
+    {
+      "id": "mkt:01a001f4-8843-7aab-9045-caf2f4deb74d",
+      "time": "2026-08-15 04:26:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran still has missiles and drones, but not many remain."
+    },
+    {
+      "id": "mkt:01a001f3-edfe-7aab-9045-c71f4b961717",
+      "time": "2026-08-15 04:25:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said no one knows how successful we have been in Iran, and that Iran knows best how well we have done."
+    },
     {
       "id": "mkt:01a001f3-2298-7aab-9045-bc11c698d957",
       "time": "2026-08-15 04:25:06",
