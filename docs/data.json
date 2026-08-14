@@ -1,7 +1,396 @@
 {
-  "updated": "2026-08-14 13:53:07",
-  "count": 15509,
+  "updated": "2026-08-14 14:10:14",
+  "count": 15499,
   "items": [
+    {
+      "id": "5040640",
+      "time": "2026-08-14 14:08:35",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：微升新秀麗目標價至16.3港元，美國雙重上市為潛在重估催化劑】花旗發表研報指，新秀麗第二季經調整純利優於預期，經調整EBITDA利潤率16.1%，若扣除美國關稅退款則為14.1%，相較首季13.1%及去年同期的16.3%。收入則遜預期，按固定匯率計同比跌1.7%至8.52億美元。管理層預期第三季按固定匯率計淨銷售增長與第二季相若，遜於市場預測。在消費信心疲弱及環球旅遊需求放緩下，下半年收入及利潤率或持續受壓。花旗微調公司盈測，目標價由16港元微升至16.3港元，續予“買入”評級。公司仍有意在條件改善下於今年完成美國雙重上市，該行視之為潛在估值重估催化劑。"
+    },
+    {
+      "id": "mkt:019ffee1-cd3e-7aab-9036-f3169012fac1",
+      "time": "2026-08-14 14:07:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude's intraday gain widened to 1.00%, trading at $81.25/bbl."
+    },
+    {
+      "id": "5040639",
+      "time": "2026-08-14 14:07:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊震盪走強 敏芯股份、富信科技漲停】半導體板塊震盪走強，敏芯股份、富信科技漲停，優迅股份、明微電子等漲幅居前。"
+    },
+    {
+      "id": "5040638",
+      "time": "2026-08-14 14:07:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【成品油：今晚24時零售價遇年內第五次下調】本週期中東地緣局勢反覆發酵，國內原油變化率負值波動。8月14日24時零售限價兌現下調，汽、柴油零售限價每噸分別下調230、220元，摺合升價92#汽油、95#汽油、0#柴油分別下調0.18、0.19、0.19元。短期霍爾木茲海峽重開前景不明朗，國際油價或維持高位偏強波動，新一輪原油變化率正值開局，首日對應上調幅度150元/噸，下輪調價視窗在8月28日24時。（卓創資訊）"
+    },
+    {
+      "id": "mkt:019ffee1-4eb5-7aab-9036-e993270d4a02",
+      "time": "2026-08-14 14:06:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Fuel retail prices cut at 24:00 tonight; fifth reduction this year】China will lower retail price caps for gasoline and diesel at 24:00 on Aug 14, the fifth cut this year. Retail ceilings fall by 230 yuan/tonne for gasoline and 220 yuan/tonne for diesel, equivalent to per‑litre cuts of 92‑octane -0.18 yuan/litre, 95‑octane -0.19 yuan/litre and 0# diesel -0.19 yuan/litre. During the pricing cycle Middle East tensions intensified and China’s crude-price change rate swung negative. Short-term prospects for reopening of the Strait of Hormuz are unclear, keeping international oil prices biased high and volatile. A new round of crude-price change rate has opened in positive territory; the opening day's equivalent upward adjustment would be 150 yuan/tonne. Next pricing window is 24:00 on Aug 28."
+    },
+    {
+      "id": "5040637",
+      "time": "2026-08-14 14:06:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報82.10美元/桶。"
+    },
+    {
+      "id": "mkt:019ffedf-b013-7aab-9036-e69aa9dc43bb",
+      "time": "2026-08-14 14:05:00",
+      "tags": [
+        "MKT News",
+        "AMAT.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises PT on Applied Materials (AMAT.O) to $660 from $515."
+    },
+    {
+      "id": "5040636",
+      "time": "2026-08-14 14:04:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將應用材料目標價從515美元上調至660美元。"
+    },
+    {
+      "id": "mkt:019ffede-f8ae-7aab-9036-dd4b6ade73ad",
+      "time": "2026-08-14 14:04:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose 1.0% intraday to $82.03 per barrel."
+    },
+    {
+      "id": "5040635",
+      "time": "2026-08-14 14:03:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜GLM-5.3已上線京東雲MaaS平臺】據京東雲訊息，8月14日，京東雲接入智譜最新開源旗艦模型GLM-5.3，並已在模型服務平臺完成適配上線。"
+    },
+    {
+      "id": "mkt:019ffede-4b7b-7aab-9036-d52ba9e98d2b",
+      "time": "2026-08-14 14:03:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "00100.HK",
+        "Impact bearish",
+        "02513.HK",
+        "02498.HK"
+      ],
+      "text": "Hong Kong AI application stocks extended afternoon losses: MINIMAX-W (00100.HK) fell over 10%, Zhipu AI (02513.HK) dropped nearly 6%; Suteng Juchuang (02498.HK) and Youjia Innovation (02431.HK) also fell."
+    },
+    {
+      "id": "5040634",
+      "time": "2026-08-14 14:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股AI應用板塊午後跌幅擴大，MINIMAX-W(00100.HK)跌超10%，智譜(02513.HK)跌近6%，速騰聚創(02498.HK)、佑駕創新(02431.HK)等跟跌。"
+    },
+    {
+      "id": "5040633",
+      "time": "2026-08-14 14:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：日本外匯事務負責人三村淳8月21日將在東京與韓國同行會面。"
+    },
+    {
+      "id": "mkt:019ffedd-9a6c-7aab-9036-ce4fc19d97cd",
+      "time": "2026-08-14 14:02:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Finance said its top foreign-exchange official will meet the South Korean counterpart in Tokyo on Aug. 21."
+    },
+    {
+      "id": "mkt:019ffedd-5b68-7aab-9036-c17c8c1444d7",
+      "time": "2026-08-14 14:02:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active coking coal futures rose more than 5% to 1,387.5 yuan/ton, the highest since June 12."
+    },
+    {
+      "id": "mkt:019ffedd-308b-7aab-9036-bb025ab9d932",
+      "time": "2026-08-14 14:02:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro STOXX 50 futures up 0.26%, Germany's DAX futures up 0.42%, France's CAC 40 futures up 0.05%, Britain's FTSE 100 futures up 0.32%."
+    },
+    {
+      "id": "mkt:019ffedc-a42e-7aab-9036-b563d5e82b40",
+      "time": "2026-08-14 14:01:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "20-year Japanese government bond yield rose 1.5 bps to 3.755%."
+    },
+    {
+      "id": "mkt:019ffedc-81d6-7aab-9036-ab300054fd50",
+      "time": "2026-08-14 14:01:31",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share gaming sector extended gains; Xunyou Technology and Century Huatong rose more than 6%, while Kaiying Network, Zhongqingbao and 37 Interactive Entertainment also advanced."
+    },
+    {
+      "id": "5040632",
+      "time": "2026-08-14 14:01:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念板塊走高，亨通光電漲停】光纖概念板塊走高，亨通光電漲停，長芯博創、中天科技、太辰光、長飛光纖、鼎通科技。"
+    },
+    {
+      "id": "5040631",
+      "time": "2026-08-14 14:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念再度拉昇 金戈新材30cm漲停】午後CPO概念再度拉昇，金戈新材30cm漲停，此前中石科技、富信科技、阿萊德、劍橋科技漲停，長芯博創、中瓷電子、太辰光、新易盛、中際旭創、天孚通訊等紛紛衝高。"
+    },
+    {
+      "id": "5040630",
+      "time": "2026-08-14 14:00:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.26%，德國DAX指數期貨上漲0.42%，法國CAC 40指數期貨上漲0.05%，英國富時期貨上漲0.32%。"
+    },
+    {
+      "id": "5040629",
+      "time": "2026-08-14 14:00:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內漲0.92%。"
+    },
+    {
+      "id": "mkt:019ffedb-86a5-7aab-9036-a3c826cfb4a9",
+      "time": "2026-08-14 14:00:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures touched $82.00/bbl, up 0.97% intraday."
+    },
+    {
+      "id": "5040628",
+      "time": "2026-08-14 14:00:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月批發物價指數月率 0.2%，前值-0.7%。德國7月批發物價指數年率 5.3%，前值4.9%。"
+    },
+    {
+      "id": "mkt:019ffedb-4b98-7aab-9036-9d8a029ffcbe",
+      "time": "2026-08-14 14:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany July wholesale price index YoY 5.3% vs 4.9% prior."
+    },
+    {
+      "id": "mkt:019ffedb-4b10-7aab-9036-9293dbf46c44",
+      "time": "2026-08-14 14:00:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July wholesale price index (MoM) +0.2%; prior -0.7%."
+    },
+    {
+      "id": "mkt:019ffedb-2d93-7aab-9036-8dadcf26fe05",
+      "time": "2026-08-14 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Wholesale Price Index (YoY) (Jul) | actual 5.3% | previous 4.9%"
+    },
+    {
+      "id": "mkt:019ffedb-2d90-7aab-9036-8565528ba4c9",
+      "time": "2026-08-14 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Wholesale Price Index (MoM) (Jul) | actual 0.2% | previous -0.7%"
+    },
+    {
+      "id": "te:markets:575291",
+      "time": "2026-08-14 13:59:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX Erases Losses, Posts 2nd Weekly Gain — New Zealand's stocks rose 29 points, or 0.2%, to close at 13,854 on Friday, reversing morning weakness and extending gains from the previous session, tracking a rise on Wall Street overnight as bets on a Fed interest rate hike at the September meeting eased following soft inflation data. Moderating oil prices also lifted sentiment as inflation concerns eased and expectations grew that the RBNZ would slow the pace of monetary policy tightening. The latest data also supported sentiment, as New Zealand's factory activity grew for the 21st consecutive month in July, though at a softer rate. However, traders were cautious ahead of food inflation data and China's interest rate decision due next week. Energy, tech, consumer discretionary, and industrials mainly drove the index, with notable gains including Colonial Motor (9.2%), ANZ Group (1.6%), Henderson Far East Income (1.2%), and Mainfreight (1.1%). For the week, the index rose 0.2%, marking the second consecutive weekly gain."
+    },
+    {
+      "id": "5040625",
+      "time": "2026-08-14 13:59:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遊戲板塊持續走高，迅遊科技、世紀華通漲超6%】遊戲板塊持續走高，迅遊科技、世紀華通漲超6%，愷英網路、中青寶、三七互娛跟漲。"
+    },
+    {
+      "id": "5040624",
+      "time": "2026-08-14 13:56:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲4%，現報1525.00元。"
+    },
+    {
+      "id": "5040623",
+      "time": "2026-08-14 13:56:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本折扣零售業巨頭特里亞控股（Trial Holdings）年營收首次突破1萬億日元大關。"
+    },
+    {
+      "id": "mkt:019ffed7-b1ff-7aab-9036-7ed3e496fc80",
+      "time": "2026-08-14 13:56:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Bank of Japan could raise rates as soon as September, sources say】Three people familiar with Bank of Japan policy thinking told foreign media the central bank could raise rates as soon as September and is considering a more aggressive tightening path than the current roughly two hikes per year. The prospective move reflects growing concern about price pressure from the Middle East conflict, strong global AI-driven demand and persistent yen weakness despite a rare Japan‑US coordinated FX intervention last month. One source said a rate hike \"has entered the view,\" implying a likely move at the Sept. 17-18 policy meeting. The source added the bank may speed up the pace of hikes; a second source gave a similar account."
+    },
+    {
+      "id": "mkt:019ffed7-80c7-7aab-9036-75102d682405",
+      "time": "2026-08-14 13:56:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude traded above $81/bbl, up 0.7% on the day."
+    },
+    {
+      "id": "5040622",
+      "time": "2026-08-14 13:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【信達生物聯合美團買藥探索即時零售 首發小規格新品】8月11日—16日，第十九屆健康產業生態大會（2026西普會）在海南博鰲舉行。會議期間，信達生物聯合美團買藥探索即時零售，釋出2mg 1支裝瑪仕度肽新品。"
+    },
+    {
+      "id": "5040621",
+      "time": "2026-08-14 13:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐日本大使稱，美國支援日本在北方爭議領土問題上的立場。"
+    },
+    {
+      "id": "5040620",
+      "time": "2026-08-14 13:53:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交通銀行推動全市場首單企業自貿離岸債業務落地】近日，作為主承銷團成員之一，交銀集團助力上海電氣發行全市場首單企業自貿離岸債，總額15億元，這也是自貿離岸債首次在香港交易所掛牌。本次發行是上海自貿試驗區離岸金融創新的重要進展，也是2026陸家嘴論壇《上海國際金融中心發展離岸金融行動方案》釋出後自貿離岸債領域的標誌性成果。（上證報）"
+    },
+    {
+      "id": "mkt:019ffed4-9f62-7aab-9036-68d347f26943",
+      "time": "2026-08-14 13:52:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 2-year JGB yield rose 0.5 bps to 1.650%; 5-year JGB yield rose 1.5 bps to 2.135%."
+    },
     {
       "id": "mkt:019ffed3-63c8-7aab-9036-606de951e9f6",
       "time": "2026-08-14 13:51:34",
@@ -141500,451 +141889,6 @@
         "市場"
       ],
       "text": "【平安證券：偉星新材未來發展仍值得看好，維持“推薦”評級】平安證券研報指出，偉星新材投資收益增厚業績，海外業務增長良好。2026年上半年實現營收19.0億元，同比降8.7%，歸母淨利潤3.9億元，同比增長43.9%。投資收益增厚上半年業績，毛利率同比改善。各產品毛利率相對平穩，海外收入增長良好。總體相對平穩，在上半年油價上漲背景下實屬不易。考慮公司品牌、服務、渠道競爭力強，“同心圓”戰略拓寬成長空間，管理團隊能力突出，分紅慷慨，未來發展仍值得看好，維持“推薦”評級。"
-    },
-    {
-      "id": "te:economy:573640",
-      "time": "2026-08-07 14:10:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "House Price Index YoY",
-        "Importance 2"
-      ],
-      "text": "UK House Price Growth Lowest Since 2023 — The Lloyds House Price Index showed UK house prices rose 0.1% year-on-year in July 2026, slowing from a revised 0.7% increase in June and below expectations for a 0.4% gain. This marked the weakest annual growth since November 2023. Monthly, house prices were unchanged after rising 0.2% in June, leaving the average property price at £299,253. Amanda Bryden, Head of Mortgages at Lloyds, said prices have remained relatively stable for almost two years despite a more uncertain economic backdrop. Affordability remained challenging, while mortgage rates edged higher following recent Middle East events after easing earlier in the summer. Lloyds expects prices and activity to remain stable through year-end, with the outlook shaped by mortgage rates, inflation and household confidence. Regionally, Northern Ireland recorded the strongest annual growth at 7.4%, followed by Scotland at 3.6%, the North East at 2.8%, and the North West at 2.1%."
-    },
-    {
-      "id": "5030145",
-      "time": "2026-08-07 14:10:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：融資融券板塊淨流入超250億】截至目前，今日主力資金淨流入259.34億；淨流入融資融券、轉融券標的、大盤等板塊，其中融資融券板塊淨流入250.38億；淨流出人工智慧、超大盤、破淨股等板塊，其中人工智慧板塊淨流出29.75億。\n  \n個股方面，兆易創新淨買入19.22億元位居首位，光迅科技、生益科技、勝宏科技主力資金淨流入居前；中際旭創淨賣出16.83億元位居首位，長電科技、紫光股份、寧德時代淨流出額居前。"
-    },
-    {
-      "id": "5030144",
-      "time": "2026-08-07 14:09:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "大眾卡車製造商Traton法蘭克福早盤交易中股價下跌3.3%。"
-    },
-    {
-      "id": "mkt:019fdad6-ef7b-7aab-8fb1-2051e7902728",
-      "time": "2026-08-07 14:09:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose 1.00% intraday to $4,282.87/oz."
-    },
-    {
-      "id": "5030143",
-      "time": "2026-08-07 14:09:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "保時捷控股公司呼籲大眾汽車迅速採取行動以提升競爭力。"
-    },
-    {
-      "id": "5030142",
-      "time": "2026-08-07 14:08:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非與亞投行簽署5億美元貸款協議，用於氣候韌性服務專案。"
-    },
-    {
-      "id": "5030141",
-      "time": "2026-08-07 14:07:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "保時捷控股目標財季淨債務預期區間為47億歐元至52億歐元。"
-    },
-    {
-      "id": "5030140",
-      "time": "2026-08-07 14:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "保時捷控股維持全年業績預期。"
-    },
-    {
-      "id": "5030139",
-      "time": "2026-08-07 14:06:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "保時捷控股：大眾集團必須做出迅速且堅定的決策。"
-    },
-    {
-      "id": "5030138",
-      "time": "2026-08-07 14:05:49",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【大摩：預計SpaceX明年中目標價為300美元】SpaceX在週四迎來第一批股份解禁，市場預期大規模的股票進入流通將打擊SpaceX股價，但該股週四卻錄得小幅上漲。相較於悲觀人士，摩根士丹利分析師Adam Jonas認為，SpaceX股份禁售期結束是一個入場點，而不是利空警告。他認為，SpaceX是一家罕見的世代複合型企業，能夠將能源大規模地轉化為群體智慧，其擁有資源去構建在能效、成本和速度上領先業界的算力業務。Jonas維持了對SpaceX的增持評級，並預計到明年年中該股目標價為300美元，這意味著該股可能較目前水平上漲近兩倍。"
-    },
-    {
-      "id": "5030137",
-      "time": "2026-08-07 14:05:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將北歐半導體目標股價從185挪威克朗下調至175挪威克朗。"
-    },
-    {
-      "id": "mkt:019fdad3-9326-7aab-8fb1-1f85201a18e8",
-      "time": "2026-08-07 14:05:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Nifty Financial Services index fell 1%."
-    },
-    {
-      "id": "5030136",
-      "time": "2026-08-07 14:05:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "芬蘭航空集團中東航線運力已降至零。"
-    },
-    {
-      "id": "mkt:019fdad3-3700-7aab-8fb1-11f85d0a4a9c",
-      "time": "2026-08-07 14:05:02",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK July Halifax seasonally adjusted house price index YoY 0.1%, below consensus 0.4% and down from a prior 0.6%."
-    },
-    {
-      "id": "mkt:019fdad3-163b-7aab-8fb1-0ca66b26497f",
-      "time": "2026-08-07 14:04:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Halifax House Price Index (YoY) (Jul) | actual 0.1% | consensus 0.4% | previous 0.6%"
-    },
-    {
-      "id": "mkt:019fdad2-f76a-7aab-8fb1-04103080abc9",
-      "time": "2026-08-07 14:04:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Some CCC-designated labs' business scopes revoked across nine product categories】The National Certification and Accreditation Administration recently carried out capability checks on previously designated CCC laboratories covering nine product areas — fuses, small electric motors, automotive safety glass, seat belts, external vehicle lighting and light-signalling devices, indirect vision devices for motor vehicles, car seats and headrests, vehicle driving recorders, and vehicle reflective markings."
-    },
-    {
-      "id": "5030135",
-      "time": "2026-08-07 14:04:44",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國7月Halifax季調後房價指數月率 0%，預期0.1%，前值0.2%。"
-    },
-    {
-      "id": "mkt:019fdad2-a946-7aab-8fb0-fd8c933cab69",
-      "time": "2026-08-07 14:04:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Halifax seasonally adjusted house price index MoM 0% in July (exp 0.1%, prior 0.2%)."
-    },
-    {
-      "id": "mkt:019fdad2-8fbe-7aab-8fb0-f2af4c208a2b",
-      "time": "2026-08-07 14:04:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Halifax House Price Index (MoM) (Jul) | actual 0% | consensus 0.1% | previous 0.2%"
-    },
-    {
-      "id": "5030134",
-      "time": "2026-08-07 14:04:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4340美元/盎司，日內漲0.94%。"
-    },
-    {
-      "id": "5030133",
-      "time": "2026-08-07 14:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美科學家首次用AI設計出新型病毒】斯坦福大學的研究人員據悉開發了一款名為“Evo 2”的生成式AI程式，該程式能夠編寫新的基因組——即編碼在DNA中的生命遺傳指令。他們利用該程式設計並製造了16種合成噬菌體，這是一種能夠感染細菌的小型病毒，有時可替代抗生素來殺滅致病細菌。該研究成果於週四發表在了《科學》雜誌上。"
-    },
-    {
-      "id": "mkt:019fdad2-08ac-7aab-8fb0-ef31c0c485dd",
-      "time": "2026-08-07 14:03:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK July seasonally adjusted Halifax house price index has not yet been released."
-    },
-    {
-      "id": "mkt:019fdad0-f892-7aab-8fb0-e51afb250e7f",
-      "time": "2026-08-07 14:02:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South-to-North Water Diversion middle route transfers exceed 80 billion cubic metres】China South-to-North Water Diversion Group said as of Aug 7 the middle-route project has cumulatively transferred more than 80 billion cubic metres to northern China, benefiting about 118 million people in Henan, Hebei, Tianjin and Beijing and supplying 27 large- and medium-sized cities and 243 counties, county-level cities and districts along the route."
-    },
-    {
-      "id": "5030132",
-      "time": "2026-08-07 14:02:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【涉9種產品領域 部分CCC認證指定實驗室業務範圍被登出】國家認監委近日對熔斷體、小功率電動機、汽車安全玻璃、汽車安全帶、機動車外部照明及光訊號裝置、機動車輛間接視野裝置、汽車座椅及座椅頭枕、汽車行駛記錄儀、車身反游標識等9種產品領域原有指定實驗室進行了能力核查。按照《中華人民共和國認證認可條例》《強制性產品認證機構和實驗室管理辦法》等規定，釋出熔斷體等9種產品領域原有指定實驗室能力核查結果，包括CCC認證指定實驗室名單和登出部分CCC認證指定實驗室業務範圍名單。"
-    },
-    {
-      "id": "mkt:019fdad0-3aad-7aab-8fb0-dee7334c9451",
-      "time": "2026-08-07 14:01:47",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "S&P500"
-      ],
-      "text": "Germany June industrial production, working-day adjusted, -0.1% YoY vs +0.1% expected; prior 0.0%."
-    },
-    {
-      "id": "mkt:019fdad0-1714-7aab-8fb0-d1056a2518fb",
-      "time": "2026-08-07 14:01:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Industrial Production (Workday Adjusted) (YoY) (Jun) | actual -0.1% | consensus 0.1% | previous 0.00%"
-    },
-    {
-      "id": "5030131",
-      "time": "2026-08-07 14:01:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "南水北調中線工程調水突破800億立方米。（新華社）"
-    },
-    {
-      "id": "5030130",
-      "time": "2026-08-07 14:00:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "保時捷上半年調整後稅後利潤9.49億歐元，同比下降15%。"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202608073835092562",
-      "time": "2026-08-07 14:00:30",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "德國6月季調後貿易帳154億歐元，預期174億歐元，前值191億歐元。"
-    },
-    {
-      "id": "mkt:019fdace-e779-7aab-8fb0-ca3e21d05376",
-      "time": "2026-08-07 14:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany's June seasonally adjusted trade surplus €15.4bln, below forecast €17.4bln and down from €19.1bln in May."
-    },
-    {
-      "id": "5030129",
-      "time": "2026-08-07 14:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國6月季調後貿易帳 154億歐元，預期174億歐元，前值191億歐元。"
-    },
-    {
-      "id": "mkt:019fdace-d4e0-7aab-8fb0-c0ddfbcb0847",
-      "time": "2026-08-07 14:00:15",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany's seasonally adjusted exports rose 0.9% MoM in June, vs 0.2% est.; prior 0.9%."
-    },
-    {
-      "id": "mkt:019fdace-cfa6-7aab-8fb0-bccbd1318786",
-      "time": "2026-08-07 14:00:14",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Germany seasonally adjusted imports, June +4.4% MoM; consensus +1.0%, prior -2.5%."
-    },
-    {
-      "id": "mkt:019fdace-cf5d-7aab-8fb0-b347b3010fb9",
-      "time": "2026-08-07 14:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany June industrial production (seasonally adjusted) +0.2% MoM vs +0.1% consensus; May +0.9%."
-    },
-    {
-      "id": "5030128",
-      "time": "2026-08-07 14:00:11",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國6月季調後工業產出月率 0.2%，預期0.1%，前值0.90%。"
-    },
-    {
-      "id": "mkt:019fdace-aeef-7aab-8fb0-ae957bf012e8",
-      "time": "2026-08-07 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Trade Balance SA (Jun) | actual 15400000000B | consensus 17400000000B | previous 19100000000B"
-    },
-    {
-      "id": "mkt:019fdace-aee5-7aab-8fb0-a2f091311353",
-      "time": "2026-08-07 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Imports SA (MoM) (Jun) | actual 4.4% | consensus 1% | previous -2.50%"
-    },
-    {
-      "id": "mkt:019fdace-aea2-7aab-8fb0-9d7f2e1a37c7",
-      "time": "2026-08-07 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Exports SA (MoM) (Jun) | actual 0.9% | consensus 0.2% | previous 0.90%"
-    },
-    {
-      "id": "mkt:019fdace-9fb0-7aab-8fb0-96881c0cb237",
-      "time": "2026-08-07 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Industrial Production (Seasonally Adjusted) (MoM) (Jun) | actual 0.2% | consensus 0.1% | previous 0.90%"
-    },
-    {
-      "id": "5030127",
-      "time": "2026-08-07 13:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國校園槍擊7死15傷】今天（8月7日）上午，泰國首都曼谷以北的暖武裡府一所中學發生槍擊。據泰國政府方面訊息，槍擊造成學生和教師共4人死亡，此外還有十多人受傷。而泰國警方稱，槍擊造成包括嫌疑人在內共7人死亡，受傷人數為15人。 警方稱嫌疑人飲彈自盡。據泰國媒體報道，嫌疑人為一名學生，身穿紫色運動服，攜帶一個黑色斜挎包，持手槍在學校內開了數十槍。"
-    },
-    {
-      "id": "5030126",
-      "time": "2026-08-07 13:58:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4280美元/盎司，日內漲0.94%。"
-    },
-    {
-      "id": "mkt:019fdacc-77c6-7aab-8fb0-888ac1457efe",
-      "time": "2026-08-07 13:57:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose to $4,280/oz, up 0.94% intraday. Spot silver advanced 2.00% intraday to $62.76/oz."
-    },
-    {
-      "id": "5030125",
-      "time": "2026-08-07 13:57:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金站上4280美元/盎司，日內漲0.94%。"
-    },
-    {
-      "id": "5030124",
-      "time": "2026-08-07 13:56:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報62.77美元/盎司。"
-    },
-    {
-      "id": "5030123",
-      "time": "2026-08-07 13:56:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破63美元/盎司，日內漲2.26%。"
-    },
-    {
-      "id": "5030122",
-      "time": "2026-08-07 13:56:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "中際旭創A股成交額超300億元，現漲0.31%。"
-    },
-    {
-      "id": "5030121",
-      "time": "2026-08-07 13:55:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽省天然氣銷售有限公司原總經理張玲接受紀律審查和監察調查】安徽紀檢監察網8月7日通報，安徽省天然氣銷售有限公司原總經理張玲涉嫌嚴重違紀違法，目前正接受安徽省能源集團有限公司紀委紀律審查；經安徽省監委指定管轄，接受太和縣監委監察調查。"
-    },
-    {
-      "id": "5030120",
-      "time": "2026-08-07 13:54:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員增一行將在9月政策會議前發表講話。"
     }
   ]
 }
