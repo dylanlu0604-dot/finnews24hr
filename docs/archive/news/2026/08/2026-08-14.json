@@ -1,7 +1,67 @@
 {
   "date": "2026-08-14",
-  "count": 2281,
+  "count": 2288,
   "items": [
+    {
+      "id": "5041422",
+      "time": "2026-08-14 19:41:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【敏芯股份：與關聯人共同出資200萬元設立合夥企業】敏芯股份公告稱，公司及全資子公司敏芯致遠擬與控股股東李剛共同出資200萬元設立蘇州昶睿企業管理諮詢合夥企業（有限合夥）。其中，敏芯股份認繳108萬元，佔比54%；敏芯致遠認繳2萬元，佔比1%；李剛認繳90萬元，佔比45%。本次交易構成關聯交易，不構成重大資產重組，已透過董事會審議，無需提交股東會。合夥企業業務未開展，存在市場、經營等風險。"
+    },
+    {
+      "id": "5041421",
+      "time": "2026-08-14 19:41:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【敏芯股份：2026年上半年淨利潤虧損2061.55萬元】敏芯股份公告，2026年上半年營業收入2.47億元，同比下降18.72%。歸屬於上市公司股東的淨利潤虧損2061.55萬元，上年同期淨利潤2519.08萬元。"
+    },
+    {
+      "id": "5041420",
+      "time": "2026-08-14 19:40:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卡萊特：2026年上半年淨利潤1253.78萬元，同比增長55.11%】卡萊特公告，2026年上半年營業收入3.17億元，同比增長16.16%。歸屬於上市公司股東的淨利潤1253.78萬元，同比增長55.11%。歸屬於上市公司股東的扣除非經常性損益的淨利潤548.4萬元，上年同期為-1253.61萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5041419",
+      "time": "2026-08-14 19:40:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太辰光：擬以不超過5000萬元設全資子公司】太辰光公告，公司於2026年8月13日召開第五屆董事會第十六次會議，審議透過《關於對外投資設立全資子公司的議案》。公司擬使用自有資金不超過5000萬元在廣東省深圳市設立全資子公司“深圳太辰光技術有限公司”（暫定名），出資完成後，太辰光技術將成為公司的全資子公司。本次對外投資不構成關聯交易，亦不構成重大資產重組。公司表示，本次投資旨在透過更清晰的主體劃分實現業務專業化運作與管理，併為未來資源整合及業務協同預留空間。"
+    },
+    {
+      "id": "5041418",
+      "time": "2026-08-14 19:40:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太辰光：2026年半年度淨利潤1.76億元，同比增1.71%】太辰光公告，2026年半年度營業收入10.01億元，同比增長20.81%。歸屬於上市公司股東的淨利潤1.76億元，同比增長1.71%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.64億元，同比下降2.55%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5041417",
+      "time": "2026-08-14 19:40:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱格什姆島沿岸石油汙染系外國軍事侵略所致】當地時間8月14日，伊朗外交部副部長卡澤姆·加里布阿巴迪在社交媒體上發文表示：“格什姆島沿岸的石油汙染是該地區遭外國軍事侵略的結果。”加里布阿巴迪還表示：“波斯灣沿岸環境遭受如此破壞，進一步凸顯了伊朗作為沿海國家制定和實施霍爾木茲海峽管理機制的必要性。”伊朗當局此前報告稱，石油已流入格什姆島脆弱的紅樹林，並擴散到該島南部海岸。（央視新聞）"
+    },
+    {
+      "id": "te:economy:575466",
+      "time": "2026-08-14 19:39:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Egypt Jobless Rate Hits Record Low — Egypt’s unemployment rate fell to 5.8% in Q2 2026, down from 6% in the previous quarter, reaching a record low. The labor force increased 0.6% to around 35.64 million, as the number of unemployed declined 2.4% to approximately 2.08 million, and employment rose 0.8% to 33.6 million, the highest level on record, suggesting an improved capacity of the economy to absorb new labor market entrants, despite persistent gender disparities in labor market participation. The unemployment rate among men fell to 3.4% from 3.6%, while female unemployment stood at 14.4%. By sector, agriculture and fishing accounted for the largest share of employment at 18.6%, followed by wholesale and retail trade (17.2%), manufacturing (13.5%), construction (11.8%), and transportation and storage (9.3%)."
+    },
     {
       "id": "5041416",
       "time": "2026-08-14 19:37:50",
