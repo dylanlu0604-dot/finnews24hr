@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-14 23:40:38",
-  "count": 15339,
+  "updated": "2026-08-14 23:44:33",
+  "count": 15338,
   "items": [
+    {
+      "id": "5041815",
+      "time": "2026-08-14 23:43:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數收盤跌0.1%，德國DAX指數漲0.5%，英國富時100指數跌0.3%，法國CAC 40指數跌0.2%。"
+    },
+    {
+      "id": "mkt:01a000f1-4727-7aab-9042-58f2c3ec6fa6",
+      "time": "2026-08-14 23:43:27",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "Luigi Mangione formally pleaded guilty to federal charges in the shooting of former UnitedHealth CEO Brian Thompson."
+    },
+    {
+      "id": "te:economy:575510",
+      "time": "2026-08-14 23:43:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Production Rebounds in June — Colombia’s industrial production rose 4.1% year-on-year in June 2026, rebounding from a 0.4% decline in May and beating forecasts of 2.1%. Of the 39 industrial activities covered by the survey, 24 recorded positive changes. The largest increases were recorded in the manufacture of other transport equipment (22.0%), motor vehicle bodies and trailers (19.2%), luggage, handbags and similar leather goods (16.2%), motor vehicles and their engines (16.5%), and beverages (15.3%). Real sales rose 3.9%, while employment fell 1.1%."
+    },
+    {
+      "id": "mkt:01a000ef-b41f-7aab-9042-51faed2b8839",
+      "time": "2026-08-14 23:41:44",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "Suspect in UnitedHealth CEO shooting, Luigi Mangione, said he shot former UnitedHealth CEO Brian Thompson and traveled to New York to kill Thompson."
+    },
+    {
+      "id": "5041814",
+      "time": "2026-08-14 23:40:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "路易吉·曼吉奧內在法庭上承認，他槍擊了聯合健康保險原執行長布萊恩・湯普森。"
+    },
     {
       "id": "mkt:01a000ed-0961-7aab-9042-4c4d1798fd1b",
       "time": "2026-08-14 23:38:49",
@@ -140265,62 +140312,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社：報道顯示，葉門武裝部隊發動導彈襲擊後，葉門被佔馬裡卜地區內沙特支援武裝的據點發生多起爆炸。"
-    },
-    {
-      "id": "mkt:019fdce5-445c-7aab-8fbd-becd6436bda3",
-      "time": "2026-08-07 23:44:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "Petrobras CFO said there is potential to increase production capacity by 270,000 b/d in H2 2026."
-    },
-    {
-      "id": "mkt:019fdce4-b1a5-7aab-8fbd-b61c2f667414",
-      "time": "2026-08-07 23:43:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump has nominated lawyer Danielle Tuman Seavers to serve as a commissioner of the US Federal Communications Commission (FCC)."
-    },
-    {
-      "id": "mkt:019fdce4-473f-7aab-8fbd-affc1c2f488e",
-      "time": "2026-08-07 23:42:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA: Iran's deputy foreign minister said security in the Gulf should be ensured by regional states without external intervention."
-    },
-    {
-      "id": "5031418",
-      "time": "2026-08-07 23:42:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家通訊社（IRNA）： 伊朗副外長加里巴巴迪表示，海灣安全必須由地區國家自行保障，不得有外部勢力介入。"
-    },
-    {
-      "id": "mkt:019fdce3-acef-7aab-8fbd-a66d1ec4f48e",
-      "time": "2026-08-07 23:42:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Citigroup said US-Iran negotiations remain erratic and adjusted its Brent crude forecasts to an average of $80/bbl for Q3, $70/bbl for Q4 and $65/bbl for 2027."
-    },
-    {
-      "id": "5031417",
-      "time": "2026-08-07 23:41:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗：美伊談判反覆拉鋸，因此將 2026 年第三季度布倫特原油均價市價重估至每桶 80 美元，2026 年第四季度維持 70 美元，2027 年為 65 美元。"
     }
   ]
 }

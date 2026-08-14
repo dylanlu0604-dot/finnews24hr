@@ -1,7 +1,54 @@
 {
   "date": "2026-08-14",
-  "count": 2852,
+  "count": 2857,
   "items": [
+    {
+      "id": "5041815",
+      "time": "2026-08-14 23:43:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數收盤跌0.1%，德國DAX指數漲0.5%，英國富時100指數跌0.3%，法國CAC 40指數跌0.2%。"
+    },
+    {
+      "id": "mkt:01a000f1-4727-7aab-9042-58f2c3ec6fa6",
+      "time": "2026-08-14 23:43:27",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "Luigi Mangione formally pleaded guilty to federal charges in the shooting of former UnitedHealth CEO Brian Thompson."
+    },
+    {
+      "id": "te:economy:575510",
+      "time": "2026-08-14 23:43:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Production Rebounds in June — Colombia’s industrial production rose 4.1% year-on-year in June 2026, rebounding from a 0.4% decline in May and beating forecasts of 2.1%. Of the 39 industrial activities covered by the survey, 24 recorded positive changes. The largest increases were recorded in the manufacture of other transport equipment (22.0%), motor vehicle bodies and trailers (19.2%), luggage, handbags and similar leather goods (16.2%), motor vehicles and their engines (16.5%), and beverages (15.3%). Real sales rose 3.9%, while employment fell 1.1%."
+    },
+    {
+      "id": "mkt:01a000ef-b41f-7aab-9042-51faed2b8839",
+      "time": "2026-08-14 23:41:44",
+      "tags": [
+        "MKT News",
+        "UNH.O"
+      ],
+      "text": "Suspect in UnitedHealth CEO shooting, Luigi Mangione, said he shot former UnitedHealth CEO Brian Thompson and traveled to New York to kill Thompson."
+    },
+    {
+      "id": "5041814",
+      "time": "2026-08-14 23:40:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "路易吉·曼吉奧內在法庭上承認，他槍擊了聯合健康保險原執行長布萊恩・湯普森。"
+    },
     {
       "id": "mkt:01a000ed-0961-7aab-9042-4c4d1798fd1b",
       "time": "2026-08-14 23:38:49",
