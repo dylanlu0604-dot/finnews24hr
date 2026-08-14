@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-15 02:52:14",
-  "count": 15326,
+  "updated": "2026-08-15 02:56:07",
+  "count": 15324,
   "items": [
+    {
+      "id": "5041897",
+      "time": "2026-08-15 02:53:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【老虎環球Q2建倉SpaceX和AMD 減持谷歌、臺積電、英偉達等】老虎環球基金二季度大規模調倉。減持方面：博通削減51.1%至180萬股，谷歌A削減45.4%至580萬股A類股，臺積電削減12.3%至490萬份ADS，微軟削減9.3%至230萬股，Meta Platforms削減8.5%至280萬股A類股，英偉達削減6.8%至1120萬股，京東削減41.5%至20.15萬份ADS。增持方面，英特爾增持至430萬股。新建倉AMD67.4萬股以及SpaceX37.5萬股。清倉奈飛。"
+    },
     {
       "id": "mkt:01a0019a-9157-7aab-9044-8ce06ad1b322",
       "time": "2026-08-15 02:48:21",
@@ -140225,35 +140233,6 @@
         "國際"
       ],
       "text": "美國參議員沃倫：將反對特朗普罷免美聯儲理事庫克的企圖。"
-    },
-    {
-      "id": "5031499",
-      "time": "2026-08-08 02:55:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：與鄰國的關係已 “顯著改善”。"
-    },
-    {
-      "id": "5031498",
-      "time": "2026-08-08 02:54:30",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什6月日程未顯示與特朗普有任何通話或會談】美聯儲主席凱文·沃什上任後首個完整月份的日程顯示，他曾與議員、白宮官員和私營部門經濟學家通話或會談，但沒有顯示與美國總統唐納德·特朗普有任何通話或會談。有過通話或會談的議員包括美國眾議院金融服務委員會主席French Hill、內華達州民主黨參議員Catherine Cortez Masto，以及賓夕法尼亞州共和黨眾議員Dan Meuser。日程顯示，沃什與美國財政部長斯科特·貝森特有過三次早餐會。"
-    },
-    {
-      "id": "mkt:019fdd93-0b1e-7aab-8fc0-786d8d6ccbeb",
-      "time": "2026-08-08 02:53:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Mehr news agency reported Iranian President PEZESHKIAN said the United States and Israel, through plots and recent wars, have sought to drive a wedge between Iran and Persian Gulf littoral states, but Iran has settled many issues with numerous neighbors."
     }
   ]
 }
