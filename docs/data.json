@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-15 03:36:38",
+  "updated": "2026-08-15 03:40:25",
   "count": 15269,
   "items": [
+    {
+      "id": "5041919",
+      "time": "2026-08-15 03:38:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價放量擴大跌幅，最新下跌3.8%至150.21美元。"
+    },
+    {
+      "id": "mkt:01a001c8-2ef5-7aab-9045-09f99e4d2eb9",
+      "time": "2026-08-15 03:38:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) said its Jupiter AI data-center campus project remains on schedule and the company will continue close cooperation with partners to advance the project."
+    },
+    {
+      "id": "mkt:01a001c6-aa4d-7aab-9045-06ea0484911a",
+      "time": "2026-08-15 03:36:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For week ended Aug 11, speculative traders increased WTI net longs by 4,034 contracts to 105,860. Across the four major NYMEX and ICE gas contracts, speculative net shorts fell 18,848 contracts to 70,241."
+    },
     {
       "id": "mkt:01a001c6-4686-7aab-9044-fd0759f59a40",
       "time": "2026-08-15 03:36:06",
@@ -139702,34 +139734,6 @@
         "國際"
       ],
       "text": "美國郵政署長警告稱，國會新增郵政編碼的立法可能會使郵政署耗資8億美元。"
-    },
-    {
-      "id": "5031562",
-      "time": "2026-08-08 03:40:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國進出口銀行正為IVANHOE ELECTRIC電氣專案籌備超 10 億美元融資。"
-    },
-    {
-      "id": "mkt:019fddbc-8ac2-7aab-8fc1-73954e7c974b",
-      "time": "2026-08-08 03:39:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran says framework agreed with Oman on Strait of Hormuz navigation MoU】Hassan Kashkavi, spokesman for Iran’s parliament National Security and Foreign Policy Committee, said Iran and Oman have agreed the overall framework of a memorandum of understanding on navigation through the Strait of Hormuz; the final text and specifics will be published shortly. A preliminary Iranian draft published Aug. 6 outlines a strategic management plan that would bar hostile parties from transiting the strait and impose fines of up to 20% of cargo value for violations. Iran says arrangements should be negotiated only with Oman and rejects external involvement; U.S. President Trump said on Aug. 6 the U.S. is participating in talks."
-    },
-    {
-      "id": "5031561",
-      "time": "2026-08-08 03:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員稱已與阿曼就霍爾木茲海峽通行問題明確總體框架】總檯記者當地時間7日獲悉，伊朗議會國家安全與外交政策委員會發言人哈桑·卡什卡維表示，伊朗與阿曼已明確霍爾木茲海峽航運相關的諒解備忘錄的總體框架，最終文字及具體細節將於近期對外公佈。8月6日，伊朗方面公開擬議的霍爾木茲海峽戰略管理方案初步文字細節，內容包括禁止敵對方面透過海峽等，違反規定者將被處以最高達貨物價值20%的罰款。伊朗近期多次強調，霍爾木茲海峽相關安排應僅由伊朗和阿曼協商決定，絕不接受任何外部勢力介入。而美國總統特朗普6日表示，美方正參與有關霍爾木茲海峽的談判。（央視新聞）"
     }
   ]
 }

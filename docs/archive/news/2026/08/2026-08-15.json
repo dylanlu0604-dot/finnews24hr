@@ -1,7 +1,39 @@
 {
   "date": "2026-08-15",
-  "count": 200,
+  "count": 203,
   "items": [
+    {
+      "id": "5041919",
+      "time": "2026-08-15 03:38:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文股價放量擴大跌幅，最新下跌3.8%至150.21美元。"
+    },
+    {
+      "id": "mkt:01a001c8-2ef5-7aab-9045-09f99e4d2eb9",
+      "time": "2026-08-15 03:38:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N) said its Jupiter AI data-center campus project remains on schedule and the company will continue close cooperation with partners to advance the project."
+    },
+    {
+      "id": "mkt:01a001c6-aa4d-7aab-9045-06ea0484911a",
+      "time": "2026-08-15 03:36:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For week ended Aug 11, speculative traders increased WTI net longs by 4,034 contracts to 105,860. Across the four major NYMEX and ICE gas contracts, speculative net shorts fell 18,848 contracts to 70,241."
+    },
     {
       "id": "mkt:01a001c6-4686-7aab-9044-fd0759f59a40",
       "time": "2026-08-15 03:36:06",
