@@ -1,7 +1,34 @@
 {
   "date": "2026-08-15",
-  "count": 146,
+  "count": 149,
   "items": [
+    {
+      "id": "te:markets:575531",
+      "time": "2026-08-15 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.71% — Top commodity gainers are Lithium Carbonate (2.71%), Silicon (2.27%), Platinum (1.30%) and Gold (0.67%)."
+    },
+    {
+      "id": "5041890",
+      "time": "2026-08-15 02:19:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "Tiger Global披露二季度13F持倉：減持Alphabet、博通、Spotify、Meta等；同時新建AMD、希捷、Visa、丹納赫等倉位。增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。"
+    },
+    {
+      "id": "mkt:01a00180-65f7-7aab-9044-52b6fbe2606a",
+      "time": "2026-08-15 02:19:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German Farmers' Association: heat and drought may cut or wipe out crops in some regions】On the 14th the German Farmers' Association said persistent high temperatures and drought could cause significant crop shortfalls this year. Chairman Joachim Rukwied said wheat and rapeseed yields are expected to be below average, and autumn crops including corn and soybeans may suffer large reductions. Southern Germany is particularly affected, with some crops at risk of complete failure. He added sustained heat and drought have reduced fodder production, weighing on the livestock sector."
+    },
     {
       "id": "te:markets:575530",
       "time": "2026-08-15 02:15:03",
