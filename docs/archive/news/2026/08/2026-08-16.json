@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 71,
+  "count": 72,
   "items": [
+    {
+      "id": "mkt:01a00717-1928-7aab-904a-fa03da68e41f",
+      "time": "2026-08-16 04:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit."
+    },
     {
       "id": "5042428",
       "time": "2026-08-16 04:17:50",
