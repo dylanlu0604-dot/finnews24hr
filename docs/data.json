@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15 20:48:15",
+  "updated": "2026-08-15 20:52:16",
   "count": 15289,
   "items": [
+    {
+      "id": "5042332",
+      "time": "2026-08-15 20:50:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱已與阿曼就霍爾木茲海峽通行方案達成協議】伊朗外交部發言人巴加埃表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。"
+    },
+    {
+      "id": "mkt:01a00577-6997-7aab-9049-3fc124175bca",
+      "time": "2026-08-15 20:48:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "HEZBOLLAH said Israel's attacks in southern Lebanon will be met with a corresponding response."
+    },
     {
       "id": "mkt:01a00574-ac38-7aab-9049-3075b2b4cd8a",
       "time": "2026-08-15 20:45:27",
@@ -139939,22 +139959,6 @@
         "MKT News"
       ],
       "text": "【Sources: If Democrats win House, plan probes of Trump business and financial network rather than immediate impeachment】Sources say House Democrats are preparing, if they retake the House, to pursue broad investigations targeting Trump’s business and financial network rather than immediate impeachment. Senior House Democrats and committee staff have discussed using hearings, subpoenas and document requests to obtain records from entities tied to Trump’s political and commercial circle. Planners expect probing private companies and external financial actors will be more effective than directly confronting a White House likely to resist oversight. Democrats envision deploying House investigative powers after the mid-November election to review government decision-making and examine whether Trump used office to benefit himself, allies or donors."
-    },
-    {
-      "id": "mkt:019fe16b-136d-7aab-8fc4-785e393abb8f",
-      "time": "2026-08-08 20:48:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Thailand school shooting death toll rises to nine】Local time on the 8th, the school in Nonthaburi province posted on social media mourning a female student killed in the shooting; authorities say the death toll has risen to nine. The attack occurred on the morning of the 7th at a secondary school north of Bangkok; Thai police said the gunman first killed his grandparents at home, then went to the campus, fired 26 rounds before shooting himself, and carried additional ammunition in his bag."
-    },
-    {
-      "id": "5031980",
-      "time": "2026-08-08 20:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院將於9月15日對《清晰法案》進行投票。"
     }
   ]
 }
