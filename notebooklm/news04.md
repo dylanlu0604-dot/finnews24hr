@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:27:56_
-_本檔包含 3196 則快訊，約 604303 字_
+_更新時間：2026-08-16 03:51:14_
+_本檔包含 3202 則快訊，約 604290 字_
+
+---
+
+### 2026-08-12 00:06:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA Short-Term Energy Outlook projects U.S. crude oil production will rise 210,000 b/d in 2026, revised up from a prior estimate of 190,000 b/d.
+
+---
+
+### 2026-08-12 00:06:07  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA Short-Term Energy Outlook: forecasts 2027 U.S. crude oil demand growth of 170,000 b/d, up from 90,000 b/d previously.
+
+---
+
+### 2026-08-12 00:06:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA Short-Term Energy Outlook: forecasts US crude oil production will rise 350,000 b/d in 2027, up from a prior projection of 250,000 b/d.
+
+---
+
+### 2026-08-12 00:05:58  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+EIA Short-Term Energy Outlook projects 2026 WTI at $80.88/bbl, up from a prior forecast of $76.26/bbl.
+
+---
+
+### 2026-08-12 00:05:56  #MKT News #Commodities #Energy
+
+EIA Short-Term Energy Outlook projects 2027 natural gas price at $3.44 per barrel, down from a prior forecast of $3.63 per barrel.
+
+---
+
+### 2026-08-12 00:05:52  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+EIA Short-Term Energy Outlook projects 2027 WTI crude at $65.39/bbl, up from a prior forecast of $60.76/bbl.
+
+---
+
+### 2026-08-12 00:05:51  #焦點 #國際
+
+美國能源部長：目前霍爾木茲海峽石油外運的七日均值接近900萬桶/日。
+
+---
+
+### 2026-08-12 00:05:49  #MKT News #Commodities #Energy
+
+EIA Short‑Term Energy Outlook projects U.S. natural gas consumption in 2026 at 92.0 bcf/d, down from a prior forecast of 92.1 bcf/d.
+
+---
+
+### 2026-08-12 00:05:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA Short-Term Energy Outlook projects 2027 US crude oil production at 14.15 mln bpd, up from a prior forecast of 14.03 mln bpd.
+
+---
+
+### 2026-08-12 00:05:40  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA Short-Term Energy Outlook projects U.S. crude oil demand growth of 20,000 b/d in 2026, down from a prior estimate of 90,000 b/d.
 
 ---
 
@@ -19230,29 +19290,5 @@ US Futures Stable Near Records — Futures tracking US equity indices were muted
 ### 2026-08-10 20:17:29  #MKT News
 
 【Avita says VP remark on Huawei was misread, denies rejecting cooperation】Avita denied media reports that Vice‑President Yong Jun called cooperation with Huawei “non‑essential.” On Aug. 10 Avita said Yong was referring only to a model where Huawei would build an exclusive intelligent‑driving version, not to the value of cooperation itself. The company said it and Huawei now follow a joint‑creation model, jointly defining and developing products across the full process, and that Avita is the second‑largest shareholder of Yinwang.
-
----
-
-### 2026-08-10 20:17:13  #國際
-
-【德意志銀行獲授權擔任法蘭克福人民幣清算行 創歐洲本土銀行首例】德意志銀行8月10日宣佈，已獲得中國人民銀行授權，擔任法蘭克福人民幣清算行，作為連通中國支付系統的區域樞紐，為歐洲金融機構及企業提供人民幣跨境交易的全流程清算與結算綜合服務。
-
----
-
-### 2026-08-10 20:16:59  #其他
-
-【德國已獲刑“殺人護士”疑涉另外上百起案件】去年11月，德國西部城市亞琛一名男護士因謀殺10名患者和謀殺27人未遂而被判處終身監禁。當地檢察機關10日說，這名護士可能牽涉另外120起案件，檢方正在調查。亞琛檢察機關一名發言人告訴德新社，為調查該護士牽涉的其他案件，亞琛檢方下令挖出已下葬的39名疑似受害者遺體以確認他們的死因。去年11月，這名時年44歲的德國男子被判謀殺和謀殺未遂罪名成立。檢方資訊顯示，該男子2023年12月至2024年5月在亞琛附近一家診所工作期間，在值夜班時給老年重症患者注射過量鎮靜劑或止痛劑。這名男子自2020年起在上述診所工作，亞琛檢方目前調查的另外120起案件可追溯至2022年9月。亞琛檢方說，預計會在明年對該男子提起新的指控，後續可能還會發現更多他所牽涉的案件。這名男子2020年之前在科隆一家醫院工作。科隆檢方也在調查該男子涉嫌殺人案件，已挖出7具疑似受害者屍體。科隆檢方一名發言人說，調查工作非常複雜，需要花費相當長時間。2019年，德國另一名男護士因謀殺80多名患者被判終身監禁，媒體把那起案件稱作二戰後德國死亡人數最多、性質最嚴重的連環謀殺案。在該案中，男護士隨機選擇作案物件，給他們注射致命藥物，再以復甦術“施救”，以享受被當成“救人英雄”的變態快感。（新華社）
-
----
-
-### 2026-08-10 20:15:52  #國際
-
-【韓國總統李在明支援率降至新低】韓國一項最新民意調查結果顯示，總統李在明支援率降至43.3%，為其去年6月上任以來新低。民調機構分析，韓國政府近期推行多項爭議性政策是導致李在明支援率下滑的主要原因。受《能源經濟新聞》委託，韓國民調機構“真實計量器”3日至7日就李在明施政情況對全國2514名成年人展開調查。10日釋出的民調結果顯示，李在明支援率為43.3%，較一週前資料下降2.6個百分點，連續4周呈下滑趨勢；不支援率為53%，較一週前資料上升2.5個百分點。據“真實計量器”分析，李在明支援率下降受多重因素影響，包括政府推行房地產新規、國會透過《刑事訴訟法》修正案取消檢察官偵查權、加快整合軍事院校等舉措。此外，民眾不滿政府對高溫天氣的應對，以及經濟不確定性加劇，也是其支援率走低的原因。從地區來看，李在明在首爾的支援率下滑最為嚴重，減少5.9個百分點；從年齡層來看，70歲以上老年群體對其支援率下降最多，減少5.6個百分點。“真實計量器”10日釋出的另一項民調結果顯示，執政黨共同民主黨支援率為44.6%，而最大在野黨國民力量黨的支援率為37.6%。（新華社）
-
----
-
-### 2026-08-10 20:15:12  #國際
-
-伊朗總統佩澤希齊揚表示，與最高領袖討論了制裁和團結問題。
 
 ---

@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:27:56_
-_本檔包含 3092 則快訊，約 604276 字_
+_更新時間：2026-08-16 03:51:14_
+_本檔包含 3086 則快訊，約 603996 字_
+
+---
+
+### 2026-08-13 07:33:52  #其他
+
+【國際首個成功開展的太赫茲增強腦意識臨床試驗在北京完成】記者近日獲悉國防科技創新研究院常超團隊聯合首都醫科大學附屬北京天壇醫院何江弘團隊、楊藝團隊，完成意識障礙患者太赫茲波修復腦功能臨床試驗。該試驗也是國際範圍內首個成功開展的太赫茲增強腦意識臨床試驗，為意識障礙患者促醒、腦創傷認知修復提供了全新技術方案，填補了該領域臨床應用空白。（人民日報）
+
+---
+
+### 2026-08-13 07:33:05  #觀點
+
+【中信建投：“十五五”低碳轉型進入系統性落地階段，全球ESG治理趨向標準化】中信建投研報指出，綠色低碳轉型正進入政策、標準與資本三重力量協同發力的落地深化階段。國內層面，"十五五"碳達峰行動方案及配套機制進入系統實施，零碳園區、碳市場與轉型融資的制度框架逐步成型，綠電、綠證與碳核算銜接不斷深化，轉型正由頂層設計走向可操作的落地路徑；全球層面，ESG標準趨同與淨零約束並行演進，為企業低碳投資提供了日益清晰的預期座標。市場資金方面，國內ESG債券月度發行規模創年內新高，海外ESG基金維持淨流入並回升至3.7萬億元。
+
+---
+
+### 2026-08-13 07:33:00  #觀點
+
+【中信建投：中國軍工產業已從過去依賴國內單一需求的模式，演進為三輪驅動的新發展格局】中信建投研報認為，中國軍工產業已從過去依賴國內單一需求的模式，演進為三輪驅動的新發展格局，增長動能更加多元和可持續。“內需築基、外貿擴張、民用反哺”的格局正在深刻重塑我國軍工產業的面貌和邊界。行業從“週期成長”轉向“全面成長”。第一曲線國內軍工需求（基本盤）：聚焦“備戰打仗”和裝備現代化，需求來自國防預算穩定增長及裝備升級換代（如“十四五”期間重點型號批產）。強威懾高精尖+體系化無人化低成本是主要增長方向。第二曲線軍貿出海（新引擎）：憑藉價效比優勢、體系化作戰能力和地緣戰略合作（“一帶一路”），中國軍貿份額持續提升，成為全球重要供應方，實現戰略影響力與經濟效益雙贏。第三曲線軍用技術民用化（新邊界）：尖端軍工技術向民用領域溢位，催生商業航天、低空經濟、未來能源、深海科技、大飛機等萬億級新產業，拉動新工藝、新材料、新器件發展，形成“軍技民用，反哺軍工”的良性迴圈。
+
+---
+
+### 2026-08-13 07:32:31  #公司
+
+新秀麗國際將以1.785億美元現金收購Beis公司85%的股份。
 
 ---
 
@@ -18641,65 +18665,5 @@ EIA Short-Term Energy Outlook forecasts U.S. dry natural gas production at 111.2
 ### 2026-08-12 00:06:14  #MKT News #WTI #Impact bearish #Brent
 
 EIA Short-Term Energy Outlook projects U.S. crude oil consumption in 2026 at 20.63 mln bpd, down from a prior forecast of 20.70 mln bpd.
-
----
-
-### 2026-08-12 00:06:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA Short-Term Energy Outlook projects U.S. crude oil production will rise 210,000 b/d in 2026, revised up from a prior estimate of 190,000 b/d.
-
----
-
-### 2026-08-12 00:06:07  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA Short-Term Energy Outlook: forecasts 2027 U.S. crude oil demand growth of 170,000 b/d, up from 90,000 b/d previously.
-
----
-
-### 2026-08-12 00:06:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA Short-Term Energy Outlook: forecasts US crude oil production will rise 350,000 b/d in 2027, up from a prior projection of 250,000 b/d.
-
----
-
-### 2026-08-12 00:05:58  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-EIA Short-Term Energy Outlook projects 2026 WTI at $80.88/bbl, up from a prior forecast of $76.26/bbl.
-
----
-
-### 2026-08-12 00:05:56  #MKT News #Commodities #Energy
-
-EIA Short-Term Energy Outlook projects 2027 natural gas price at $3.44 per barrel, down from a prior forecast of $3.63 per barrel.
-
----
-
-### 2026-08-12 00:05:52  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-EIA Short-Term Energy Outlook projects 2027 WTI crude at $65.39/bbl, up from a prior forecast of $60.76/bbl.
-
----
-
-### 2026-08-12 00:05:51  #焦點 #國際
-
-美國能源部長：目前霍爾木茲海峽石油外運的七日均值接近900萬桶/日。
-
----
-
-### 2026-08-12 00:05:49  #MKT News #Commodities #Energy
-
-EIA Short‑Term Energy Outlook projects U.S. natural gas consumption in 2026 at 92.0 bcf/d, down from a prior forecast of 92.1 bcf/d.
-
----
-
-### 2026-08-12 00:05:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA Short-Term Energy Outlook projects 2027 US crude oil production at 14.15 mln bpd, up from a prior forecast of 14.03 mln bpd.
-
----
-
-### 2026-08-12 00:05:40  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA Short-Term Energy Outlook projects U.S. crude oil demand growth of 20,000 b/d in 2026, down from a prior estimate of 90,000 b/d.
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:27:56_
-_本檔包含 3115 則快訊，約 603533 字_
+_更新時間：2026-08-16 03:51:14_
+_本檔包含 3116 則快訊，約 604221 字_
+
+---
+
+### 2026-08-14 08:53:59  #公司
+
+【中芯國際趙海軍：二季度晶圓平均銷售單價環比提升5.7%】8月14日上午，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度，公司晶圓量價齊升，單季收入突破三十億美元，各項核心經營資料同比與環比均實現了大幅增長。其中，出貨量環比增加了14.4%，晶圓平均銷售單價環比提升了5.7%；出貨量的增加主要源於人工智慧對配套晶片需求的激增與客戶的提拉出貨。當季公司新增晶圓8000片摺合12英寸月產能；產能利用率為93.7%，環比增長0.6個百分點。
+
+---
+
+### 2026-08-14 08:53:28  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable.
+
+---
+
+### 2026-08-14 08:53:26  #國際
+
+【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
+
+---
+
+### 2026-08-14 08:52:59  #公司
+
+中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。
+
+---
+
+### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
 
 ---
 
@@ -18736,29 +18766,5 @@ Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year i
 ### 2026-08-13 07:34:14  #市場 #觀點
 
 【中信建投：AI仍是中期景氣主線，但高位算力硬體進入分化階段，資金逐步向AI應用端擴散】中信建投研報指出，本週市場風格由成長進一步向低位消費和價值方向切換，傳媒、社會服務、商貿零售、美容護理、食品飲料及房地產等行業表現較強，通訊、電子等前期強勢板塊明顯調整；華為、人工智慧、機器人、儲能、新能源汽車及數字經濟等概念漲停活躍度仍居前，週五市場情緒明顯修復。AI仍是中期景氣主線，但高位算力硬體進入分化階段，資金逐步向AIGC、文化傳媒、資料要素等AI應用端擴散，後續需更加關注業績兌現和擁擠度風險。機器人受政策支援和產業化進展催化，仍具主題彈性。新能源圍繞儲能、新能源汽車、鋰電池和光伏輪動，反內卷及供需改善邏輯延續。有色金屬多重利好共振，工業金屬開啟超跌復甦。創新藥政策和出海邏輯仍在，但短期熱度有所下降；消費、地產及順週期方向出現低位修復，持續性仍需觀察基本面改善情況。
-
----
-
-### 2026-08-13 07:33:52  #其他
-
-【國際首個成功開展的太赫茲增強腦意識臨床試驗在北京完成】記者近日獲悉國防科技創新研究院常超團隊聯合首都醫科大學附屬北京天壇醫院何江弘團隊、楊藝團隊，完成意識障礙患者太赫茲波修復腦功能臨床試驗。該試驗也是國際範圍內首個成功開展的太赫茲增強腦意識臨床試驗，為意識障礙患者促醒、腦創傷認知修復提供了全新技術方案，填補了該領域臨床應用空白。（人民日報）
-
----
-
-### 2026-08-13 07:33:05  #觀點
-
-【中信建投：“十五五”低碳轉型進入系統性落地階段，全球ESG治理趨向標準化】中信建投研報指出，綠色低碳轉型正進入政策、標準與資本三重力量協同發力的落地深化階段。國內層面，"十五五"碳達峰行動方案及配套機制進入系統實施，零碳園區、碳市場與轉型融資的制度框架逐步成型，綠電、綠證與碳核算銜接不斷深化，轉型正由頂層設計走向可操作的落地路徑；全球層面，ESG標準趨同與淨零約束並行演進，為企業低碳投資提供了日益清晰的預期座標。市場資金方面，國內ESG債券月度發行規模創年內新高，海外ESG基金維持淨流入並回升至3.7萬億元。
-
----
-
-### 2026-08-13 07:33:00  #觀點
-
-【中信建投：中國軍工產業已從過去依賴國內單一需求的模式，演進為三輪驅動的新發展格局】中信建投研報認為，中國軍工產業已從過去依賴國內單一需求的模式，演進為三輪驅動的新發展格局，增長動能更加多元和可持續。“內需築基、外貿擴張、民用反哺”的格局正在深刻重塑我國軍工產業的面貌和邊界。行業從“週期成長”轉向“全面成長”。第一曲線國內軍工需求（基本盤）：聚焦“備戰打仗”和裝備現代化，需求來自國防預算穩定增長及裝備升級換代（如“十四五”期間重點型號批產）。強威懾高精尖+體系化無人化低成本是主要增長方向。第二曲線軍貿出海（新引擎）：憑藉價效比優勢、體系化作戰能力和地緣戰略合作（“一帶一路”），中國軍貿份額持續提升，成為全球重要供應方，實現戰略影響力與經濟效益雙贏。第三曲線軍用技術民用化（新邊界）：尖端軍工技術向民用領域溢位，催生商業航天、低空經濟、未來能源、深海科技、大飛機等萬億級新產業，拉動新工藝、新材料、新器件發展，形成“軍技民用，反哺軍工”的良性迴圈。
-
----
-
-### 2026-08-13 07:32:31  #公司
-
-新秀麗國際將以1.785億美元現金收購Beis公司85%的股份。
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:27:56_
-_本檔包含 3113 則快訊，約 605019 字_
+_更新時間：2026-08-16 03:51:14_
+_本檔包含 3111 則快訊，約 604648 字_
+
+---
+
+### 2026-08-16 03:47:12  #其他
+
+羅賓漢進一步深耕私募市場，設立規模2.255億美元的基金，允許個人投資者押注Y Combinator孵化的早期初創企業。
+
+---
+
+### 2026-08-16 03:46:55  #MKT News
+
+【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet "shadow liabilities" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions.
+
+---
+
+### 2026-08-16 03:28:19  #MKT News
+
+Al Arabiya TV cited Hamas sources saying a delegation led by Khaled al-Hayya will travel to Cairo tonight for consultations.
 
 ---
 
@@ -18732,35 +18750,5 @@ At the morning open, China’s main futures contracts were mixed. Coking coal, N
 ### 2026-08-14 08:54:19  #MKT News
 
 【Trump authorizes US Navy to build ships overseas】White House on Aug. 14 said President Trump has authorized the US Navy to construct ships overseas and ordered the Navy to abandon the electromagnetic aircraft-launch system (EMALS) on new carriers, reverting to steam catapults. A national security memorandum directs a design change to the fourth Ford-class carrier to drop EMALS used on the first three ships; the change is estimated to cost several hundred mln dlr.
-
----
-
-### 2026-08-14 08:53:59  #公司
-
-【中芯國際趙海軍：二季度晶圓平均銷售單價環比提升5.7%】8月14日上午，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度，公司晶圓量價齊升，單季收入突破三十億美元，各項核心經營資料同比與環比均實現了大幅增長。其中，出貨量環比增加了14.4%，晶圓平均銷售單價環比提升了5.7%；出貨量的增加主要源於人工智慧對配套晶片需求的激增與客戶的提拉出貨。當季公司新增晶圓8000片摺合12英寸月產能；產能利用率為93.7%，環比增長0.6個百分點。
-
----
-
-### 2026-08-14 08:53:28  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable.
-
----
-
-### 2026-08-14 08:53:26  #國際
-
-【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
-
----
-
-### 2026-08-14 08:52:59  #公司
-
-中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。
-
----
-
-### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
 
 ---
