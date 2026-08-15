@@ -1,7 +1,27 @@
 {
   "date": "2026-08-15",
-  "count": 787,
+  "count": 789,
   "items": [
+    {
+      "id": "5042384",
+      "time": "2026-08-15 23:02:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲黎巴嫩 造成11人死亡】據黎巴嫩公共衛生部緊急行動中心當地時間15日下午釋出的宣告，當天以色列對納巴提耶區代爾扎赫拉尼和安薩爾鎮的空襲共造成11人死亡，另有19人受傷。"
+    },
+    {
+      "id": "mkt:01a005f0-6f35-7aab-9049-a5a7eb9b35c4",
+      "time": "2026-08-15 23:00:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israel Defense Forces said it killed a commander in Hezbollah's Radwan unit."
+    },
     {
       "id": "5042383",
       "time": "2026-08-15 22:48:56",
