@@ -1,7 +1,24 @@
 {
   "date": "2026-08-15",
-  "count": 510,
+  "count": 512,
   "items": [
+    {
+      "id": "mkt:01a0037a-b6a9-7aab-9047-4a20544a7577",
+      "time": "2026-08-15 11:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said Iran has not yet decided to resume talks with the US."
+    },
+    {
+      "id": "5042148",
+      "time": "2026-08-15 11:32:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長表示，德黑蘭尚未決定恢復與美國的談判。"
+    },
     {
       "id": "mkt:01a00375-d1a1-7aab-9047-41fa76118d98",
       "time": "2026-08-15 11:27:28",
