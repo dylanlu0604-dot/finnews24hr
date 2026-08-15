@@ -1,7 +1,39 @@
 {
   "date": "2026-08-16",
-  "count": 89,
+  "count": 93,
   "items": [
+    {
+      "id": "mkt:01a0076c-5c10-7aab-904b-505d165e25b7",
+      "time": "2026-08-16 05:55:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Admiral Brad Cooper met with sailors and Marines aboard the USS Abraham Lincoln at sea, his second such meeting this year."
+    },
+    {
+      "id": "mkt:01a0076b-9ed6-7aab-904b-4d14e804e1a1",
+      "time": "2026-08-16 05:54:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Admiral Brad Cooper met senior military and political leaders in Bahrain, Iraq, Israel, Jordan, Saudi Arabia and the UAE and visited U.S. service members stationed there. More than 50,000 U.S. service members are currently carrying out missions across the Middle East."
+    },
+    {
+      "id": "mkt:01a0076b-15fc-7aab-904b-42fcff27d7ce",
+      "time": "2026-08-16 05:54:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said its commander ended a 10-day Middle East visit on Aug. 15, during which he visited six countries and inspected a U.S. Navy aircraft carrier operating in the Arabian Sea."
+    },
+    {
+      "id": "5042438",
+      "time": "2026-08-16 05:53:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中央司令部指揮官完成為期10天的中東之行】美國中央司令部指揮官於8月15日結束為期10天的中東行程，此行到訪六個國家，並登上部署於阿拉伯海的美國海軍航空母艦。布拉德·庫珀上將先後會見巴林、伊拉克、以色列、約旦、沙烏地阿拉伯、阿聯酋的軍政高層，同時慰問駐外美軍。目前有超5萬名美軍部署在中東地區，執行多項任務。"
+    },
     {
       "id": "5042437",
       "time": "2026-08-16 05:42:43",
