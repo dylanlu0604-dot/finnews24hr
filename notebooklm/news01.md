@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 09:46:00_
-_本檔包含 3117 則快訊，約 603860 字_
+_更新時間：2026-08-15 11:00:18_
+_本檔包含 3103 則快訊，約 604262 字_
+
+---
+
+### 2026-08-15 10:54:20  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #Nikkei 225 #Impact bearish
+
+【Foreign Ministry spokeswoman comments on Japanese officials' visits to Yasukuni Shrine enshrining Class-A war criminals】China strongly condemned Japanese officials' visits to Yasukuni Shrine and has lodged stern representations and strong protests with Japan. The Foreign Ministry said Yasukuni is a spiritual instrument and symbol of Japanese militarism and that the shrine's enshrinement of 14 Class-A war criminals — the principal architects of wartime aggression — makes it effectively a war-criminal shrine. Beijing warned the visits amount to historical revisionism, risk accelerating remilitarization, challenge the postwar international order and undermine regional trust, and urged Japan to deeply reflect, sever ties with militarism and take concrete steps to reassure Asian neighbors and the international community. The statement noted this year marks the 80th anniversary of the Tokyo Trials.
+
+---
+
+### 2026-08-15 10:53:50  #國際
+
+印度總理莫迪：印度需要吸引更多全球遊客。
+
+---
+
+### 2026-08-15 10:53:42  #國際
+
+印度總理莫迪：印度必須實現國防自力更生。
+
+---
+
+### 2026-08-15 10:53:33  #國際
+
+印度總理莫迪：印度應力爭成為全球國防供應商。
+
+---
+
+### 2026-08-15 10:53:09  #焦點 #國際
+
+【外交部發言人就日本政要參拜供奉甲級戰犯的靖國神社答記者問】問：8月15日是日本戰敗投降日。今天日本首相高市早苗向靖國神社供奉祭祀費，還有個別內閣成員參拜靖國神社。中方對此有何評論？
+
+答：中方強烈譴責日方涉靖國神社消極動向，已向日方提出嚴正交涉、強烈抗議。
+
+日本二戰時期發動對外侵略戰爭，犯下慘無人道罪行。所謂“靖國神社”是日本軍國主義的精神工具和象徵，其供奉的14名甲級戰犯是發動侵略戰爭的罪魁禍首，是事實上的“戰犯神社”。無論日本政客編造何種理由，都無法隱藏其為戰犯翻案、掩蓋戰爭罪責、歪曲歷史事實，為加速“再軍事化”鋪路的真實企圖。有關錯誤行徑是對歷史正義的褻瀆，對文明底線的挑戰，對戰後國際秩序的挑釁，國際社會一致堅決反對。
+
+今年是東京審判開庭80週年。正確認識和對待歷史，是日本戰後重返國際社會的重要前提，是日本同周邊國家發展關係的政治基礎，更是檢驗日本能否恪守和平發展承諾的重要標準。我們敦促日方深刻反省侵略歷史，同軍國主義徹底切割，以實際行動取信於亞洲鄰國和國際社會。
+
+---
+
+### 2026-08-15 10:52:47  #市場 #焦點
+
+美國天然氣暗盤跌破2.8美元，日內跌幅0.3%。
+
+---
+
+### 2026-08-15 10:50:53  #國際
+
+【美以官員披露：白宮敦促內塔尼亞胡公開譴責以色列定居者“封鎖”巴勒斯坦民房行為】據路透社報道，美國與以色列官員當地時間14日表示，美國希望以色列總理內塔尼亞胡公開譴責以色列定居者對約旦河西岸一個巴勒斯坦村莊實施圍困的行為。此前，以色列定居者對約旦河西岸城市納布盧斯以南古斯拉村的三處民房實施“封鎖”，阻止居民進出，並切斷水電供應。一名美國官員和一位以色列官員14日透露，白宮官員正敦促內塔尼亞胡公開譴責此次圍困事件。這兩位要求匿名的官員表示，華盛頓方面在得知一名巴勒斯坦裔美國人的住宅也被圍困後，開始提出抗議。內塔尼亞胡尚未就此次圍困事件發表評論。以總理辦公室和白宮均未立即回應置評請求。（環球網）
+
+---
+
+### 2026-08-15 10:50:36  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CSI300 #CNH
+
+【China rail passenger trips 2.8 bln Jan–Jul, +4.1% YoY】China State Railway Group said national rail passenger trips totalled 2.8 billion in January–July, up 4.1% YoY and a record for the period.
+
+---
+
+### 2026-08-15 10:48:53  #國際
+
+印度總理莫迪：印度必須成為創新中心。
+
+---
+
+### 2026-08-15 10:46:56  #國際
+
+印度總理莫迪：印度工廠應該保持競爭力，維持質量。
+
+---
+
+### 2026-08-15 10:45:19  #國際
+
+印度總理莫迪：印度將邁向下一階段改革。
+
+---
+
+### 2026-08-15 10:45:08  #其他
+
+【委內瑞拉政府釋放131名被監禁人員】委內瑞拉新聞和通訊部14日在社交媒體釋出政府公報稱，該國釋放131名被監禁人員。公報顯示，上述人員此前因涉嫌或被證實參與委內瑞拉法律體系規定的犯罪活動而被監禁。（新華社）
+
+---
+
+### 2026-08-15 10:42:43  #國際
+
+印度總理莫迪：印度需要加快改革步伐。
+
+---
+
+### 2026-08-15 10:42:23  #國際
+
+【日本防衛大臣拜鬼後又稱和平】今天（8月15日），日本防衛大臣小泉進次郎就參拜靖國神社一事在社交媒體平臺上發帖，宣稱“在宣誓永不再戰的同時，我再次堅定了今後繼續履行日本戰後作為和平國家不斷走和平道路的責任。”（CCTV國際時訊）
+
+---
+
+### 2026-08-15 10:39:16  #其他
+
+【內蒙古自治區人大財政經濟委員會主任委員馮玉臻接受審查調查】中央紀委國家監委網站8月15日通報，據內蒙古自治區紀委監委訊息：內蒙古自治區人大財政經濟委員會主任委員馮玉臻涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-15 10:37:51  #市場
+
+【第二屆世界人形機器人運動會賽事門票發售 開幕式多種票型緊俏】第二屆世界人形機器人運動會將於8月22日在北京開幕。昨天（14日），賽事各類門票已全面發售。目前，開幕式多種票型已售罄，僅剩少量餘票；週末場、晚間黃金場及多人套票需求持續走高。（央視新聞）
+
+---
+
+### 2026-08-15 10:36:37  #其他
+
+【2026暑期檔電影票房超95億】據網路平臺資料，截至目前，2026年暑期檔電影票房（含預售）突破95億元。連續36天單日票房過億。2026年度電影總票房（含預售）突破252億元。
+
+---
+
+### 2026-08-15 10:36:03  #國際
+
+【古巴外長譴責美國對古實施極限施壓和經濟扼殺政策】古巴外交部長羅德里格斯14日譴責美國政府對古巴實施極限施壓和經濟扼殺政策，指出美方行徑意在削弱古巴政府提供基本商品和服務的能力，以引發社會動盪。羅德里格斯當天在社交媒體發文說，美方蓄意打擊古巴主要的外匯收入來源，企圖激化民眾不滿、引發社會動盪並改變古巴憲法秩序。羅德里格斯列舉了美方近年來在銀行和金融領域採取的多項制裁措施，包括將古巴重新列入所謂“支援恐怖主義國家”名單、制裁古巴金融機構等。（新華社）
+
+---
+
+### 2026-08-15 10:34:01  #公司
+
+【1至7月全國鐵路傳送旅客28億人次】記者今天（15日）從國鐵集團獲悉，今年1至7月，全國鐵路傳送旅客28億人次、同比增長4.1%，再創歷史同期新高。前七個月，全國鐵路累計傳送外籍旅客1485.2萬人次、同比增長32.5%。廣深港高鐵傳送跨境旅客2004.9萬人次，中老鐵路傳送跨境旅客21.4萬人次，同比分別增長11.5%、38.2%。中蒙、中俄、中越、中朝國際旅客列車穩定開行，有效助力“跨境遊”。（央視新聞）
+
+---
+
+### 2026-08-15 10:33:42  #國際
+
+【高市早苗前往千鳥淵戰歿者公墓獻花】日本首相高市早苗今天（8月15日）在出席日本政府組織的“全國戰歿者追悼儀式”前，前往東京千代田區的千鳥淵戰歿者公墓獻花哀悼。千鳥淵戰歿者公墓收存超過數十萬具第二次世界大戰期間死於海外、身份不明的日本人屍骨，其中主要是軍人。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 10:31:05  #國際
+
+印度總理莫迪：印度必須尋求替代能源。
+
+---
+
+### 2026-08-15 10:28:54  #MKT News
+
+【CITIC Securities: Q2 fund duration-extension trades persist, but ultra-long end risk-reward has shifted】CITIC Securities says funds' Q2 pattern of extending duration has continued, but the risk-reward at the ultra-long end has shifted marginally. The 30Y-10Y yield spread has tightened further since end-Q2 to about 47bp; trading activity in Chinese government bonds beyond 10 years remains at high historical percentiles. With limited remaining room for further spread compression, if long-end absolute yields lack further downward momentum marginal buying from funds and broker-dealers could weaken, increasing the risk of a phased pullback from crowded positions.
+
+---
+
+### 2026-08-15 10:28:42  #國際
+
+印度總理莫迪：印度計劃啟動5座核反應堆。
+
+---
+
+### 2026-08-15 10:26:10  #國際
+
+印度總理莫迪：印度計劃到2047年實現100吉瓦核能裝機容量。
+
+---
+
+### 2026-08-15 10:25:38  #國際
+
+印度總理莫迪：印度將在7-8年內新增至多8家晶片工廠。
+
+---
+
+### 2026-08-15 10:25:24  #國際
+
+【特朗普再批美國文物保護組織國家歷史保護信託基金會】特朗普在社交媒體發文稱：“美國文物保護組織國家歷史保護信託基金會” 聽上去名頭光鮮，但連這個名字都帶有誤導性。在名稱末尾加上 “美國” 二字後，很容易讓人誤以為它是政府機構，可事實並非如此。早在 2005 年，美國聯邦政府就因嚴重不認同該機構的宗旨與目標，終止了對其撥款。這個基金會對我們國家危害極大：它阻撓大量具備價值的專案落地，還損害諸多相關方利益。這一次，他們試圖叫停一處關乎國家安全、保障美國曆任總統（現任及未來）、其家屬、幕僚與內閣成員安全的關鍵設施專案。（注：該基金會要求叫停白宮宴會廳改造專案，並表示該專案是非法的。）
+
+---
+
+### 2026-08-15 10:20:35  #公司 #觀點 #國際
+
+【中信證券：建議關注海外暖通企業商用訂單兌現和北美戶用需求修復】中信證券研報指出，2026Q2海外家電公司收入穩健增長，盈利能力受關稅及原材料成本影響有所波動。分割槽域看，北美商用暖通景氣延續，其中資料中心訂單高增；北美白電與戶用暖通需求環比修復但同比仍有壓力；歐洲暖通需求有所改善，白電需求平穩；亞太、拉美需求保持穩健增長，而中東需求受地緣因素擾動。展望後續，建議關注海外暖通企業商用訂單兌現和北美戶用需求修復。
+
+---
+
+### 2026-08-15 10:20:13  #市場 #觀點
+
+【中信證券：二季度基金拉久期的交易特徵在此後仍有延續，但超長端的風險收益比已發生邊際變化】中信證券研報指出，二季度基金拉久期的交易特徵在此後仍有延續，但超長端的風險收益比已發生邊際變化。30Y-10Y期限利差較二季度末進一步壓縮至約47bp，基金對10年以上國債的成交活躍度仍處較高歷史分位，期限利差剩餘空間收窄與交易熱度偏高並存。若後續長端絕對利率缺乏進一步下行動力，基金和券商邊際買盤趨弱，需關注交易擁擠後的階段性回撤風險。
+
+---
+
+### 2026-08-15 10:19:32  #觀點 #國際
+
+【中信證券：民主黨拿下眾議院、共和黨守住參議院是當前最可能的結果】中信證券研報指出，2026年中期選舉程序過半，兩黨的主要博弈策略逐步明確。中信證券逐州分析後認為，民主黨拿下眾議院、共和黨守住參議院是當前最可能的結果。兩院分治會增加特朗普的執政摩擦，但只要共和黨保住參議院，在涉及最高法院、調查彈劾、選舉爭議等問題上壓力就有限，中選對特朗普的“TACO”約束可能弱於此前市場預期，因此建議更多觀察金融條件和資產價格的變化。
+
+---
+
+### 2026-08-15 10:16:41  #國際
+
+印度總理莫迪：決心到2047年將印度建設成為發達國家。
+
+---
+
+### 2026-08-15 10:16:17  #國際
+
+【日本學者：反對以任何形式參拜靖國神社】15日，是日本宣佈無條件投降81週年的日子，而就在今天，日本首相高市早苗卻向靖國神社供奉了“玉串料”，也就是祭祀費。針對有日方官員向靖國神社供奉祭品、前往參拜一事。中國外交部曾多次表示，靖國神社供奉有二戰甲級戰犯，是日本軍國主義對外發動侵略戰爭的精神工具和象徵，中方堅決反對日方有關靖國神社的消極動向。日本學者表示，無論是間接參拜還是直接參拜，都大錯特錯，日本應正視侵略歷史，不要在錯誤道路上越走越遠。（央視新聞）
+
+---
+
+### 2026-08-15 10:07:58  #公司 #市場
+
+【QFII調倉動向曝光 13只績優股獲大幅加倉】截至8月14日收盤，A股市場已有330餘家公司披露2026年半年報。從合格境外機構投資者（QFII，或稱外資機構）持倉來看，截至2026年6月末，獲得QFII持倉的個股接近百隻，持股市值合計超過230億元。從QFII持股比例來看，截至2026年6月末，14股獲QFII持股比例超過2%，中蘭環保、恆申新材、宏發股份獲QFII持股比例均超過4%，大湖股份、波長光電、德石股份等獲QFII持股比例均超過2.5%。從持股變動來看，與一季度末對比，QFII持股比例環比增加的個股有62只，持股比例環比增加超過1個百分點（含新進）的個股有20只，中蘭環保、波長光電、宏發股份等5股持股比例環比增加均超過2個百分點。進一步來看，上述20只個股中，今年上半年實現盈利且淨利潤同比增長的個股共計13只（含扭虧為盈標的）。
+
+---
+
+### 2026-08-15 10:06:07  #其他
+
+【深圳市解除雷電預警訊號】雷暴雲團已減弱，深圳市氣象臺2026年08月15日10時05分解除全市雷電預警訊號。
+
+---
+
+### 2026-08-15 10:05:59  #其他
+
+【河南周口：進入緊急防汛期】8月14日，河南省周口市防汛抗旱指揮部發布關於宣佈進入緊急防汛期的通告：8月10日以來，受颱風“白海豚”影響，我市遭遇極端強降雨疊加上游來水，河道水位持續高位執行，新北環跨賈魯河大橋左岸堤防出現險情，洪水外溢風險較大，為保護好您和家人的生命財產安全，依據《中華人民共和國防洪法》第四十一條和第四十五條規定，經市防汛抗旱指揮部緊急會商研判，決定自即日起，我市進入緊急防汛期。
+
+---
+
+### 2026-08-15 10:04:19  #國際
+
+【美國陸軍暫停所有“阿帕奇”直升機訓練任務】美國陸軍14日發表宣告說，在一架“阿帕奇”軍用直升機日前墜毀致兩名士兵喪生後，美國陸軍決定暫停所有“阿帕奇”直升機訓練任務。宣告說，陸軍高層已下令暫停AH-64“阿帕奇”直升機的訓練任務，“停飛令將持續生效，直至我們對事故的根本原因有更深入瞭解”。（新華社）
+
+---
+
+### 2026-08-15 10:03:04  #MKT News
+
+【China Consumers Association issues green consumption guide with 50 action recommendations across four sectors】On National Ecology Day (15), the China Consumers Association published the 2026 edition of its Green Consumption Guide. Framed around China’s ‘3060’ carbon peak and neutrality targets, the guide offers 50 actionable recommendations across four consumer sectors — food, transport, energy and daily goods — aimed at raising green-consumption knowledge, confidence and sustainable lifestyles. Measures highlighted include promoting the clean-plate campaign, reducing single-use tableware, advocating low-carbon travel and prioritising public transport, cycling or walking.
+
+---
+
+### 2026-08-15 10:00:34  #其他
+
+【中消協釋出綠色消費指南 涵蓋四大領域50條行動建議】今天（15日）是第四個全國生態日，中國消費者協會今天釋出《中國消費者綠色消費指南（2026版）》。指南重點圍繞“3060”碳達峰碳中和目標，以日常生活為基礎，幫助消費者增加綠色消費知識，提升綠色消費信心，培養可持續生活方式。指南立足於我國社會文化背景與居民日常生活場景，系統性提出50條行動建議，內容涵蓋飲食、出行、能源、日用品四大消費領域，包括倡導“光碟行動”、減少一次性餐具使用，倡導低碳出行，鼓勵優先選擇公共交通、騎行或步行等。（央視新聞）
+
+---
+
+### 2026-08-15 10:00:15  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli media: Iran rebuilding ballistic missile stockpile faster than Israeli estimates】Israeli media report Iran is rebuilding its ballistic missile arsenal far faster than the Israeli military and Mossad had projected. Israeli officials say the pace of replenishment after the Iran war has been shocking.
+
+---
+
+### 2026-08-15 09:48:34  #國際
+
+【印尼7.7級地震已致2人死亡 海嘯預警解除】印度尼西亞弗洛勒斯島附近海域15日清晨發生7.7級地震，已造成2人死亡。根據印尼氣象、氣候和地球物理局最新通報，地震引發的海嘯預警已解除。（新華社）
 
 ---
 
@@ -18497,323 +18737,5 @@ SEC filing shows Musk held a 48.4% passive stake in SpaceX (SPCX.O) as of June 3
 ### 2026-08-14 04:10:09  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow.
-
----
-
-### 2026-08-14 04:07:10  #國際
-
-Axios援引 5 位知情人士訊息：賈裡德・庫什納計劃下週訪問以色列，就加沙問題展開磋商。
-
----
-
-### 2026-08-14 04:06:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Applied Materials earnings above expectations at 3.50 USD — Applied Materials (AMAT) released earnings per share at 3.50 USD, compared to market expectations of 3.40 USD.
-
----
-
-### 2026-08-14 04:05:48  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-Aug 13 (Thu) close — Dow Jones Industrial Average +69.81 pts (+0.13%) at 53,840.08; S&P 500 +50.65 pts (+0.65%) at 7,799.15; Nasdaq Composite +214.54 pts (+0.81%) at 26,803.03.
-
----
-
-### 2026-08-14 04:05:44  #MKT News
-
-Axios reports Kushner plans to visit Israel next week for talks on Gaza.
-
----
-
-### 2026-08-14 04:05:09  #其他
-
-PETMED 第一季度銷售額4,100萬美元。
-
----
-
-### 2026-08-14 04:04:44  #MKT News #SPCX.O
-
-SEC filing shows Vanguard Portfolio Management Co. reported holding 10.2 million Class A shares of SpaceX (SPCX.O).
-
----
-
-### 2026-08-14 04:04:41  #公司 #國際
-
-美國證券交易委員會檔案：先鋒資本管理有限責任公司披露持有 SpaceX 2660 萬股 A 類股份。
-
----
-
-### 2026-08-14 04:04:26  #MKT News
-
-SEC filings show Vanguard Capital Management reported holding 26.6 mln Class A shares of SpaceX (SPCX.O).
-
----
-
-### 2026-08-14 04:04:11  #其他
-
-市場訊息：白宮將於下週三舉辦加密貨幣和預測專家會議。
-
----
-
-### 2026-08-14 04:03:22  #MKT News #MU.O
-
-Micron Technology (MU.O): Micron Ventures' total committed capital increased to $550 mln.
-
----
-
-### 2026-08-14 04:03:10  #其他
-
-應用材料第三季度調整後每股收益3.50美元，預期3.42美元。
-
----
-
-### 2026-08-14 04:03:02  #MKT News
-
-Spot palladium fell more than 4.0% intraday, trading at $1,309.61/oz.
-
----
-
-### 2026-08-14 04:02:04  #MKT News #Market Themes #AI Revolution
-
-Micron Ventures launches $250m fund to invest in next-generation artificial intelligence technologies.
-
----
-
-### 2026-08-14 04:01:59  #其他
-
-美光科技：美光風投基金總承諾出資規模增至 5.5 億美元。
-
----
-
-### 2026-08-14 04:01:18  #MKT News #Important
-
-【US close: major indices rise as memory stocks rally】US stocks closed higher on Thursday: the Dow Jones Industrial Average rose 0.13%, the S&P 500 gained 0.65% and the Nasdaq Composite climbed 0.8%. Memory-sector names led gains — Micron +4%, SanDisk +13.6%, SK Hynix +7% — while the Nasdaq Golden Dragon China Index fell 1.85%; Alibaba declined 2% and JD.com dropped 7%.
-
----
-
-### 2026-08-14 04:01:05  #市場
-
-WORKDAY股價收盤上漲18%，創2016年以來最佳單日表現。
-
----
-
-### 2026-08-14 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.13%，標普500指數漲0.65%，納指漲0.82%。工時公司漲17.78%，閃迪漲13.67%，GoDaddy漲9.41%，科斯塔漲8.36%，The Trade Desk漲7.93%。“七姐妹”方面：特斯拉漲3.80%，Meta Platforms漲2.74%，蘋果漲1.01%，微軟漲0.90%，英偉達漲0.56%，谷歌漲0.44%，亞馬遜跌0.80%。
-
----
-
-### 2026-08-14 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。
-
----
-
-### 2026-08-14 03:55:21  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Merck Stock Price Hits 54-year High — Merck shares increased to 135.11 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 11.72%, and in the last 12 months, it increased 63.04%.
-
----
-
-### 2026-08-14 03:52:40  #國際
-
-【伊朗官員重申霍爾木茲海峽處於關閉狀態】當地時間13日晚，伊朗伊斯蘭革命衛隊海軍司令阿里·阿茲馬伊表示，目前霍爾木茲海峽處於關閉狀態，伊方對海峽內相關動向保持“全面、堅決掌控”，任何活動都不會脫離伊朗伊斯蘭革命衛隊海軍的監控。（央視新聞）
-
----
-
-### 2026-08-14 03:51:43  #公司
-
-截至8月13日，已有30餘家北交所上市公司披露2026年半年報，企業成長成色初現。總體來看，已披露半年報的公司業績表現搶眼，約三分之一企業上半年歸母淨利潤同比增長超80%。算力服務、新能源、半導體等高景氣賽道成為拉動業績增長的核心引擎，凸顯北交所“專精特新”企業的成長活力。（經濟參考報）
-
----
-
-### 2026-08-14 03:51:27  #國際
-
-市場訊息：法院駁回針對特朗普 “戰時” 驅逐政策的訴訟請求。
-
----
-
-### 2026-08-14 03:49:30  #MKT News
-
-New York appellate court says New York City's "second-home tax" may proceed for now.
-
----
-
-### 2026-08-14 03:48:54  #資料 #市場 #國際
-
-【美國PPI資料公佈日，美債收益率普遍下挫】週四（8月13日）紐約尾盤，美國10年期國債收益率下跌4.57個基點，美國PPI資料公佈後快速下行。兩年期美債收益率跌4.82個基點，亞太盤初以來橫盤小幅震盪，PPI資料公佈後同樣快速下行。30年期美債收益率跌4.28個基點，報5.214%。10年期通脹保值國債（TIPS）收益率跌4.16個基點，至2.378%；30年期TIPS收益率跌3.20個基點，至2.985%。
-
----
-
-### 2026-08-14 03:47:14  #國際
-
-【美媒：“華盛頓”號航母將前往中東接替“林肯”號】據美國《華爾街日報》13日報道，美國準備派遣“華盛頓”號航母前往中東，接替艦上生活條件、船員心理健康等遭質疑的“林肯”號航母。報道援引美國官員的話說，該輪換計劃在人們對“林肯”號航母生活條件提出擔憂之前就已制定。據美國海軍學會新聞網報道，以日本為基地的“華盛頓”號航母打擊群於5月離開日本橫須賀基地。該航母本月13日在一艘巡洋艦和一艘驅逐艦的伴隨下，透過新加坡海峽後進入了馬六甲海峽。（新華社）
-
----
-
-### 2026-08-14 03:46:55  #MKT News #WDAY.O #Impact bullish
-
-【Talks with Silver Lake send Workday shares up nearly 30%】Workday shares jumped as much as ~30% intraday on Thursday, triggering multiple temporary trading halts, after reports that Silver Lake is in acquisition talks; sources say discussions have been ongoing. The rally pushed Workday’s market value above $50.0 bln. The stock had been under longer-term pressure on worries that AI will reshape the software sector; a successful buyout would signal renewed private-capital interest in software assets. Jefferies analyst Til said CEO Aneel Bhusri’s close ties to Silver Lake make a deal plausible. Workday beat estimates in its May quarter, raised guidance, and said AI trends are producing tangible benefits.
-
----
-
-### 2026-08-14 03:46:21  #其他
-
-上訴法院裁定：紐約市豪宅閒置稅目前可繼續執行。
-
----
-
-### 2026-08-14 03:34:38  #國際
-
-【美國法院裁定特朗普可以暫停對低價商品的關稅豁免】美國一家貿易法院駁回了針對特朗普暫停低價值進口商品關稅豁免的訴訟。該法院週四作出裁決，拒絕推翻總統特朗普過去一年釋出的行政命令。這些行政命令取消了針對零售價值不超過800美元商品的所謂“小額豁免”。據美國海關與邊境保護局稱，截至2025年底，特朗普暫停這一豁免已帶來超過10億美元的關稅繳款。
-
----
-
-### 2026-08-14 03:31:27  #MKT News #WTI #Impact bearish #Brent
-
-【International oil prices fall on 13th】NYMEX September light sweet crude fell $2.02 to $81.25 a barrel, down 2.43%. Brent October fell $1.91 to $87.07 a barrel, down 2.15%.
-
----
-
-### 2026-08-14 03:31:17  #市場
-
-【國際油價13日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.02美元，收於每桶81.25美元，跌幅為2.43%；10月交貨的倫敦布倫特原油期貨價格下跌1.91美元，收於每桶87.07美元，跌幅為2.15%。
-
----
-
-### 2026-08-14 03:24:29  #MKT News
-
-BOC: Canadian Investment Markets Association (CIMPA) and CDS have launched a pilot "failure fee framework" for Canadian government securities trades.
-
----
-
-### 2026-08-14 03:21:23  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index down on 13th】The dollar index, measuring the dollar against six major currencies, fell 0.05% to 99.964 at the New York close on the 13th. EUR/USD 1.1529, up from 1.1521; GBP/USD 1.3485, down from 1.3488. USD/JPY 159.51, up from 159.49; USD/CHF 0.8139, up from 0.8137. USD/CAD 1.3936, down from 1.3947; USD/SEK 9.5684, down from 9.5858.
-
----
-
-### 2026-08-14 03:20:52  #市場
-
-【美元指數13日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.05%，在匯市尾市收於99.964。截至紐約匯市尾市，1歐元兌換1.1529美元，高於前一交易日的1.1521美元；1英鎊兌換1.3485美元，低於前一交易日的1.3488美元。1美元兌換159.51日元，高於前一交易日的159.49日元；1美元兌換0.8139瑞士法郎，高於前一交易日的0.8137瑞士法郎；1美元兌換1.3936加元，低於前一交易日的1.3947加元；1美元兌換9.5684瑞典克朗，低於前一交易日的9.5858瑞典克朗。
-
----
-
-### 2026-08-14 03:19:27  #MKT News #WTI #Impact bullish #Brent
-
-【IRGC navy says Strait of Hormuz closed】IRNA quoted the IRGC naval commander saying the Strait of Hormuz is closed and that Iran exercises full, firm control; all movements in the strait are monitored by IRGC naval forces. He said the truth will be determined on the battlefield rather than by US announcements.
-
----
-
-### 2026-08-14 03:17:09  #國際
-
-伊朗革命衛隊海軍司令週四表示，霍爾木茲海峽現已關閉，該部隊完全掌控這條水道的通行活動。
-
----
-
-### 2026-08-14 03:16:10  #MKT News #Commodities #Energy
-
-BP said it will partner with XRG, ADNOC’s International Energy Investments company and UCC Oil & Gas Holdings, with each party holding an equal working interest.
-
----
-
-### 2026-08-14 03:16:01  #公司
-
-英國石油公司：與阿布扎比國家石油公司旗下國際能源投資平臺 XRG 以及 UCC 油氣控股達成合作，各方持有均等的作業權益份額。
-
----
-
-### 2026-08-14 03:15:59  #MKT News #Commodities #Energy #BP.N #Impact bullish
-
-Venezuela has granted BP a Phase II exploration and production license for the Luolan oilfield in the Delta Plateau region; BP will be the field developer and operator.
-
----
-
-### 2026-08-14 03:14:52  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
-
-ICI: US money market fund assets rose to $7.93 trillion.
-
----
-
-### 2026-08-14 03:14:18  #公司
-
-英國石油公司：獲委內瑞拉玻利瓦爾共和國政府授予三角洲平臺地區洛蘭油田二期勘探開採許可。
-
----
-
-### 2026-08-14 03:14:11  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.40%。
-
----
-
-### 2026-08-14 03:14:05  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,350/oz, down 1.33% intraday.
-
----
-
-### 2026-08-14 03:13:08  #國際
-
-據ICI統計，美國貨幣市場基金資產增至7.93萬億美元。
-
----
-
-### 2026-08-14 03:12:16  #國際
-
-【俄外長：將扣押西方國家船隻作為對等反制】俄羅斯外交部長拉夫羅夫13日對俄媒表示，俄方將“自行決定”扣押哪些西方國家船隻，作為對西方國家扣押俄船隻行為的反制。拉夫羅夫說，西方國家把“強盜行徑和海盜行為”當作官方政策，俄羅斯將從服務於西方國家利益的船隻中自主選擇扣押目標，至於如何處理“將由俄方自行決定”。西方國家指責俄羅斯利用油輪等商用船隻逃避西方制裁，將這些商用船隻稱為“影子艦隊”。歐洲多國近來在相關水域攔截多艘所謂俄“影子艦隊”船隻。拉夫羅夫表示，所有不遵從歐盟要求的船隻，無論懸掛何種旗幟，都被歐盟劃定為“影子艦隊”。歐盟這一“非法決定”意在遏制俄羅斯在全球市場獲利。這種做法“極其危險”。（新華社）
-
----
-
-### 2026-08-14 03:12:05  #MKT News
-
-Saudi Arabia's Ministry of Defence said 15 countries have signed a joint declaration and 13 have completed domestic procedures and signed the alliance charter, formally joining the alliance.
-
----
-
-### 2026-08-14 03:08:37  #其他
-
-沙烏地阿拉伯國防部：多國海上防禦聯盟第三次規劃會議于吉達召開，共有 39 個國家參與。
-
----
-
-### 2026-08-14 03:08:06  #MKT News
-
-Saudi Arabia's defense ministry said 39 countries participated in the third planning meeting of a multinational maritime defense coalition held in Jeddah.
-
----
-
-### 2026-08-14 03:05:36  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7450元，較上一交易日夜盤收盤漲9個基點。
-
----
-
-### 2026-08-14 03:05:11  #央行 #其他
-
-紐約聯儲：交易臺計劃進行約170億美元的再投資購買；8月14日至9月14日期間不進行儲備管理購買。
-
----
-
-### 2026-08-14 03:05:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed
-
-New York Fed trading desk plans roughly $17 bln of reinvestment purchases; will not conduct reserve-management purchases from Aug. 14 through Sept. 14.
-
----
-
-### 2026-08-14 03:05:07  #國際
-
-法院裁定，特朗普可終止低價商品的關稅豁免。
-
----
-
-### 2026-08-14 03:03:09  #市場
-
-阿根廷國家統計局：7月消費者價格指數環比上漲2.1%。阿根廷7月滾動12個月通脹率達33.8%。
-
----
-
-### 2026-08-14 03:02:47  #MKT News
-
-Argentina's national statistics bureau reported the 12-month rolling inflation rate for July at 33.8%.
 
 ---

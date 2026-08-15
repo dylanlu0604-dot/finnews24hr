@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 09:46:00_
-_本檔包含 3116 則快訊，約 603492 字_
+_更新時間：2026-08-15 11:00:18_
+_本檔包含 3110 則快訊，約 603781 字_
+
+---
+
+### 2026-08-12 23:05:32  #公司 #觀點
+
+【澤璟製藥遞表港交所】據港交所檔案，8月12日，蘇州澤璟生物製藥股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。
+
+---
+
+### 2026-08-12 23:03:57  #MKT News
+
+U.S. President Trump was indicted over plans to sell expedited access to posts on his social-media platform Truth Social.
+
+---
+
+### 2026-08-12 23:03:17  #國際
+
+特朗普因計劃出售真相社交帖子的優先快速訪問許可權遭起訴。
+
+---
+
+### 2026-08-12 23:01:02  #MKT News #Important
+
+As of the 23:00 close, China’s main futures contracts were mostly higher: pulp, synthetic rubber and fuel oil rose over 1%; rapeseed oil and short-fiber futures gained about 1%. On the downside, glass fell more than 2%, while soda ash and coking coal declined over 1%.
+
+---
+
+### 2026-08-12 23:00:16  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Drops by 0.35% — Top currency loser is South Korean Won (-0.35%). Meanwhile, Japanese Yen and British Pound were little changed.
+
+---
+
+### 2026-08-12 23:00:03  #市場
+
+【夜盤期貨收盤】玻璃連續跌2.25%，純鹼連續跌1.41%，紙漿連續漲1.22%，燃料油連續漲0.84%，短纖連續漲0.71%。
+
+---
+
+### 2026-08-12 22:59:51  #MKT News #WTI #Impact mixed #Brent
+
+【U.S.-Iran memorandum set to expire at 60-day deadline; key clauses disputed】The U.S. and Iran signed a 14-point memorandum of understanding on June 17 establishing a ceasefire and a 60-day window to negotiate a permanent end to hostilities. The MoU, which declared a halt to hostile acts and sought to reopen the Strait of Hormuz to commercial shipping, has shown cracks as fighting resumed and its wording remains ambiguous; both sides accuse the other of breaches. Key disputed provisions: Article 5 (Strait of Hormuz) — the text guarantees commercial freedom of passage but is contested: Tehran says it implies U.S. recognition of Iranian authority over the waterway and that Iran agreed only to two months of fee-free transit; Washington says the provision only requires Iran to ensure safe passage and to refrain from coercive restrictions or taxation. Article 10 (oil and sanctions waivers) — the U.S. agreed to grant waivers enabling Iran to export crude, petroleum products and related services, including access to international banking, insurance and shipping support. Article 11 (unfreezing assets) — the U.S. committed to make frozen funds and restricted assets fully available, with implementation mechanisms to be negotiated. With no direct diplomatic talks and limited near-term prospects for a final settlement, the MoU’s status after the 60-day deadline remains uncertain.
+
+---
+
+### 2026-08-12 22:58:27  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bullish #WTI #Impact bearish
+
+【JP Morgan: Inflation to ease gradually; Fed need not hike】David Kelly, chief global strategist at JP Morgan Asset Management, said the Fed should hold rates and does not need to raise them, expecting inflation to taper gradually as evidence mounts that a persistent wage‑price spiral is unlikely. After July’s CPI showed moderate core inflation, US Treasuries extended gains. Kelly cited three disinflationary forces: tariff-related costs should fall on a year‑on‑year basis; oil prices are likely to retreat as markets grow optimistic the Iran war will end; and wage growth continues to lag inflation, weakening the feedback loop that would sustain price pressures. He added markets are highly leveraged, so even small rate rises could trigger asset repricing.
+
+---
+
+### 2026-08-12 22:56:38  #宏觀 #國際
+
+【美國佈局AI供應鏈 巴拿馬試點平臺加速關鍵商品流通】特朗普政府宣佈啟動一項新計劃，旨在加快美國與最親密貿易伙伴之間，被認為對發展人工智慧至關重要的商品運輸。美國國務院週三表示，將在巴拿馬建立一個試點平臺，作為美國主導的“矽基和平計劃”的一部分，以加速人工智慧關鍵產品的貿易流通。該倡議旨在加強盟友之間的供應鏈合作。美國國務院在宣告中表示，將投入最多5000萬美元的對外援助資金，用於開發和部署這一平臺，該平臺將利用人工智慧技術加快物流流程。美國國務院負責經濟事務的副國務卿Jacob Helberg在一封電子郵件中表示：“預計該專案將加快物流和合規操作流程。該專案重點是幫助巴拿馬以及其他參與經濟體，追蹤並加速來自可信供應商的高價值貨物運輸，這些貨物涉及人工智慧基礎設施、半導體以及關鍵礦產，覆蓋整個AI供應鏈。”
+
+---
+
+### 2026-08-12 22:56:15  #市場
+
+溫蒂漢堡股價恢復交易後上漲11%。
+
+---
+
+### 2026-08-12 22:56:13  #MKT News #Market Themes #AI Revolution
+
+【US launches Panama pilot to speed AI‑critical goods flows】The US State Department said on Wednesday it will launch a pilot platform in Panama, under a US‑led Silicon‑Based Peace Initiative, to accelerate trade in goods deemed critical for AI development. Washington will provide up to $50m in foreign assistance to develop and deploy an AI‑driven platform to speed logistics and compliance, prioritising high‑value shipments from trusted suppliers of AI infrastructure, semiconductors and critical minerals across the AI supply chain and to strengthen allied supply‑chain cooperation. Jacob Helberg, deputy secretary for economic affairs, said the project is expected to accelerate logistics and compliance operations.
+
+---
+
+### 2026-08-12 22:55:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA report: U.S. crude imports from Venezuela rose in the latest week to their highest level since September 2024.
+
+---
+
+### 2026-08-12 22:55:42  #國際
+
+根據美國能源資訊署（EIA）可追溯至該時段的歷史資料，最新一週美國從委內瑞拉進口的原油量攀升至2024年9月以來最高水平。
+
+---
+
+### 2026-08-12 22:54:27  #公司 #觀點
+
+【港股IPO：蘇州澤璟生物遞表港交所】蘇州澤璟生物製藥股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。
+
+---
+
+### 2026-08-12 22:53:30  #國際
+
+【特朗普政府將停止支援核心北極氣候報告】據一位瞭解該決議內情的訊息人士透露，美國國家海洋和大氣管理局（NOAA）將取消對《北極報告卡》的直接支援。這份旗艦報告專門評估全球升溫最快區域的氣候變化狀況。這位訊息人士稱，報告編輯團隊及參與專案的NOAA工作人員已於週一接到通知。訊息人士表示，專案工作組並未收到該項調整的相關解釋。NOAA在一封郵件中證實，該局不再牽頭編制2026年度《北極報告卡》，但同時說明，該局以往向這份報告提供的所有資料仍會對外公開。
+
+---
+
+### 2026-08-12 22:52:47  #市場 #央行 #國際
+
+【摩根資產管理：美國的“特氟龍式通脹”黏不住 美聯儲無需加息】摩根資產管理首席全球策略師David Kelly表示，美聯儲應維持利率不變，並預計隨著越來越多證據顯示持續性的工資-物價螺旋不會形成，通脹將逐步回落。Kelly週三在美國7月消費者價格指數公佈後接受採訪時表示：“他們絕對應該按兵不動，而且我其實認為他們也會這麼做。”報告顯示，美國7月基礎通脹表現溫和，美國國債在資料公佈後維持漲幅。Kelly指出，三股力量正在共同推動通脹明顯回落：關稅成本按同比計算將下降；市場對伊朗戰爭結束的樂觀情緒推動油價下跌；以及工資增速持續落後於通脹。他補充稱，最後這一點意味著物價壓力缺乏自我強化所需的動力，也降低了迫使美聯儲加息的可能性。他說：“美國現在基本上是‘特氟龍式通脹’，它黏不住。”他表示，沒有必要試圖加快這一過程，“就像受傷一樣，只能慢慢恢復。如果試圖加速，反而會把事情搞糟。”他還稱：“如果工資沒有反應，就不可能形成工資-物價螺旋。”
+
+---
+
+### 2026-08-12 22:52:39  #MKT News #WTI #Impact bearish
+
+EIA said U.S. weekly crude oil imports from Canada rose to their highest level since March 2025.
+
+---
+
+### 2026-08-12 22:52:13  #國際
+
+美國國家颶風中心表示，熱帶風暴“克里斯托瓦爾”目前位於亞速爾群島以西約880英里（1420公里）處；最大持續風速為每小時45英里（75公里）。
+
+---
+
+### 2026-08-12 22:52:02  #公司
+
+【嘉耀控股：收購目標公司80%股份，最高代價4.3億港元】 嘉耀控股公告，於2026年8月12日（聯交所交易時段後），公司作為買方與賣方及擔保人訂立買賣協議，擬收購目標公司已發行股份總數的80%，最高代價為4.3億港元，將由公司按發行價每股21港元向賣方配發及發行最多2050萬股代價股份支付。目標集團主要從事AI驅動的網際網路遊戲開發及發行，以及企業級AI應用技術相關的開發、諮詢及服務提供。完成後目標公司將成為公司附屬公司，其財務業績將綜合計入本集團業績。代價股份相當於公司於公告日期現有已發行股本約3.42%，以及經配發及發行代價股份擴大後已發行股本約3.30%。
+
+---
+
+### 2026-08-12 22:51:38  #市場 #焦點
+
+納斯達克中國金龍指數跌超2%，海天網路跌6.39%，中比能源跌4.87%，騰訊音樂跌4.42%，知乎跌4.09%，360數科跌4.02%。
+
+---
+
+### 2026-08-12 22:51:12  #其他
+
+【農業農村部：全力以赴抓好糧食等重要農產品穩產保供，持續推進生豬產能綜合調控】8月9日—12日，農業農村部黨組書記、部長張柱在重慶、四川調研強調。張柱強調，當前正值秋糧產量形成關鍵期，要把糧食生產擺在突出位置，高質量推進高標準農田建設，落實落細各項防災減災、穩產增產措施，為奪取全年糧食豐收作出更多川渝貢獻。要持續推進生豬產能綜合調控，穩定重要農畜產品生產和價格。在四川省涼山州西昌市玉米種業現代農業園區，張柱與科研人員深入交流熱區玉米制種，在重慶市畜牧科學院，他聽取生豬種業創新、飼料營養研究等介紹，勉勵科研人員發揮自身優勢，聚焦重點品種做深基礎研究，圍繞區域產業需求加強關鍵核心技術研發推廣，把成果寫在大地上。
+
+---
+
+### 2026-08-12 22:50:54  #市場
+
+受收購訊息影響，溫迪漢堡股價大漲 13% 後停牌。
+
+---
+
+### 2026-08-12 22:50:04  #其他
+
+市場訊息：投資者納爾遜・佩爾茨準備對溫迪漢堡發起收購。
+
+---
+
+### 2026-08-12 22:49:50  #市場
+
+【英偉達股價上漲3.35%】8月12日訊息，英偉達股價上漲3.35%，報224.8美元/股，為2個月以來最高水平，總市值報5.44萬億美元。
+
+---
+
+### 2026-08-12 22:49:40  #其他
+
+法國巴黎銀行將Lumentum目標股價從1300美元上調至1380美元。
+
+---
+
+### 2026-08-12 22:49:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Ukraine attacks on energy facilities push Russian crude below OPEC+ quota】Russia's July crude output averaged 8.887 mln bpd, roughly 0.94 mln bpd below its OPEC+ quota of 9.824 mln bpd, the OPEC monthly report showed. The figure was only 6,000 bpd lower than the revised June average, but near-daily Ukrainian strikes on oil infrastructure — targeting refineries, tankers and other facilities — are disrupting processing and threatening exports. The sector faces these disruptions while global energy markets remain under pressure from the Middle East conflict.
+
+---
+
+### 2026-08-12 22:49:15  #市場 #國際
+
+【烏克蘭持續襲擊能源設施 俄羅斯原油產量跌破配額】俄羅斯7月原油產量較其歐佩克+配額低近100萬桶/日，原因是烏克蘭幾乎每天都在襲擊俄羅斯石油基礎設施。根據歐佩克月度報告，俄羅斯上月原油日產量平均為888.7萬桶。儘管這一水平較6月修正後的平均產量僅減少6000桶/日，但7月日均產量明顯低於俄羅斯根據與盟友達成的協議所對應的982.4萬桶月度目標。這一資料公佈之際，俄羅斯石油行業正面臨烏克蘭持續不斷的襲擊。上個月，基輔方面將目標從煉油廠到油輪等多個設施，襲擊重點不斷變化，令俄羅斯原油加工量和出口規模面臨威脅，而此時全球能源市場本已因中東衝突而承壓。
+
+---
+
+### 2026-08-12 22:48:32  #國際
+
+【伊朗多個駐外使館駁斥特朗普索賠論】美國總統特朗普8月10日突然向伊朗提出索賠，要求伊朗“為數十年來美軍士兵的死亡支付賠償”。對此，伊朗多個駐外使館予以駁斥，他們列舉出美國犯下的多重罪行，並表示應該承擔賠償責任的理應是美國。（CCTV國際時訊）
+
+---
+
+### 2026-08-12 22:47:58  #MKT News
+
+Washington Post reports the U.S. will stop supporting a major Arctic climate report.
+
+---
+
+### 2026-08-12 22:47:52  #國際
+
+美國能源資訊署（EIA）資料顯示，上週美國商業原油進口量攀升，創2024年11月以來新高。
+
+---
+
+### 2026-08-12 22:46:57  #國際
+
+市場訊息：美國將停止支援一份關鍵北極氣候報告。
+
+---
+
+### 2026-08-12 22:46:06  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 2
+
+US Crude Stocks Surge Last Week: EIA — US crude inventories rose by 17.422 million barrels to 424.4 million barrels in the week ended August 7, the most since January 2023 and compared with market expectations for a 1.4 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 1.768 million barrels in the week. Refinery crude runs increased by 26 thousand barrels per day. Gasoline stocks fell by 0.968 million barrels to 208.7 million barrels, compared with expectations for a 1.2 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, were little changed at 107.2 million barrels, versus expectations for a 1.3 million-barrel fall. Net US crude imports increased by 1.768 million barrels per day.
 
 ---
 
@@ -18579,233 +18771,5 @@ United States | Redbook Retail Sales (YoY) (Aug.8) | actual 8.3% | previous 8.7%
 ### 2026-08-11 20:53:46  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
 
 LME spot copper is trading at a near-$200/tonne premium to the three-month forward, the largest premium in almost 10 months, underscoring acute tightness in physical supply.
-
----
-
-### 2026-08-11 20:53:14  #其他
-
-【國航將新開北京至羅馬尼亞、克羅埃西亞航線】據國航訊息，國航將於9月4日起新開北京至羅馬尼亞首都布加勒斯特、克羅埃西亞首都薩格勒布航線。
-
----
-
-### 2026-08-11 20:53:01  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Steady as Oil Stabilizes — Futures tracking Canadian stocks were little changed on Tuesday after a record in the previous session, as energy prices held off from rebounding further. Oil prices traded near flat after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Risks of a hawkish BoC remained after the strong domestic labor data released last week. Meanwhile, Franco Nevada took the spotlight among the miners ahead of its earnings after the bell, while markets continued to digest Barrick's earnings report yesterday.
-
----
-
-### 2026-08-11 20:52:44  #國際
-
-8月11日，全球基金淨買入25.9億印度盧比的印度股票。國內基金淨買入2.477億印度盧比的印度股票。
-
----
-
-### 2026-08-11 20:52:03  #MKT News #Star Stocks #NVIDIA #Apple #Microsoft #Palantir #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #AAPL.O #MSFT.O
-
-【Swiss National Bank U.S. equity holdings hit record; Nvidia, Apple, Microsoft top three】A 13F-HR filed with the U.S. SEC on Tuesday showed Swiss National Bank U.S. equity holdings in its FX reserves rose more than 10% in Q2 to a record. As of June 30 the SNB held positions in over 2,300 U.S.-listed firms valued at $191.4bn. Equities make up slightly more than a quarter of its FX reserves, with part allocated to U.S. stocks; the top three holdings are Nvidia, Apple and Microsoft. The SNB also holds a $716.6m stake in defense-software firm Palantir and rejected activist demands to sell roughly $1.1bn of Palantir stock.
-
----
-
-### 2026-08-11 20:51:23  #MKT News
-
-Al Jazeera reports Oman and Bahrain leaders held consultations on matters of mutual concern.
-
----
-
-### 2026-08-11 20:50:34  #MKT News #Market Regions #Wall Street (US)
-
-As of June 30 the Swiss National Bank held stakes in more than 2,300 U.S.-listed companies worth US$191.4 billion.
-
----
-
-### 2026-08-11 20:50:30  #公司 #國際
-
-EXPO ENGINEERING AND PROJECTS：從印度石油公司獲得價值1.851億盧比的工程訂單。
-
----
-
-### 2026-08-11 20:48:36  #公司
-
-【古麒絨材：擬使用1000萬元超募資金永久補充流動資金】古麒絨材公告稱，公司於2026年8月10日召開董事會，審議透過使用部分超募資金永久補充流動資金的議案，該議案尚需股東會審議。公司首次公開發行股票後，實際募資淨額5.35億元，超募資金3373.94萬元。此次擬用1000萬元超募資金永久補充流動資金，佔超募資金總額的29.64%，用於日常經營。該方案未違反相關規定，符合公司及股東利益。
-
----
-
-### 2026-08-11 20:48:30  #其他
-
-小鵬汽車：小鵬G9L正式開啟預售，25.98萬元。
-
----
-
-### 2026-08-11 20:47:39  #MKT News
-
-Norway's sovereign wealth fund CEO said financial markets continue to rise despite challenges and described the current situation as abnormal. He warned it is not impossible that the fund's entire value could be lost at some future date.
-
----
-
-### 2026-08-11 20:47:11  #MKT News #Brent #Impact bullish #XAUUSD
-
-【Iran acting defence minister vows not to yield; Malaysia says it witnessed Iran's strength】Iran’s acting defence minister told Malaysia’s defence minister in a phone call that Iran seeks regional peace but will not accept illegal demands or imposed wills and will not allow pressure or coercion to erase the gains of its resistance. He said Iranians have paid a heavy price to defend independence, security and territorial integrity, and blamed the Zionist regime’s crimes and aggression as a primary cause of regional instability and unrest in the Muslim world. Malaysia’s defence minister said Malaysia had witnessed Iran’s strength and dignity and seen how Iran resists attacks with force and unity.
-
----
-
-### 2026-08-11 20:46:52  #MKT News
-
-【Jucan Optoelectronics signs strategic cooperation with Unilumin Technology】Jucan Optoelectronics and Unilumin Technology signed a long-term strategic cooperation to secure stable supply, technical collaboration and joint quality development for Mini direct-view chips. Unilumin guarantees minimum purchases of no less than 50 million yuan in 2026; minimum annual purchase floors thereafter will be set by mutual agreement at each preceding year-end. Jucan, a long-standing LED-chip supplier, says its Mini direct-view chips are currently at full production and fully sold.
-
----
-
-### 2026-08-11 20:46:48  #公司
-
-【盈方微：披露發行股份購買資產稽核問詢函的回覆】盈方微公告稱，公司擬以發行股份及支付現金方式購買上海肖克利資訊科技股份有限公司100%股份並募集配套資金。7月14日，公司收到深交所稽核問詢函，會同中介機構核查後，已對相關問題進行回覆。本次交易尚需深交所稽核透過、中國證監會同意註冊等，能否獲批及獲批時間存在不確定性。
-
----
-
-### 2026-08-11 20:46:40  #央行 #其他
-
-市場訊息：智利央行購入2500萬美元。
-
----
-
-### 2026-08-11 20:46:29  #其他
-
-【聚燦光電與洲明科技簽署戰略合作協議】近日，聚燦光電(300708)與洲明科技(300232)簽署戰略合作協議。雙方將圍繞Mini直顯晶片穩定供應、技術協同與品質共建，建立長期戰略合作關係。根據協議，洲明科技承諾2026年度給予聚燦光電不低於5000萬元保底採購額，後續每年保底額度於前一年底雙方協商確定。聚燦光電深耕LED晶片領域多年，目前Mini直顯晶片已滿產滿銷。
-
----
-
-### 2026-08-11 20:45:51  #公司 #市場
-
-挪威主權財富基金CEO：儘管面臨挑戰，金融市場仍持續上漲。
-
----
-
-### 2026-08-11 20:45:44  #公司
-
-【*ST東智：向關聯方出售資產合計2219.13萬元】*ST東智公告，公司擬向關聯方科翔高新出售未來城建設100%股權、未來城物業100%股權、未來城興華100%股權及裝修資產，三項股權轉讓價款合計1749.86萬元，裝修資產轉讓價款469.27萬元，交易價款合計2219.13萬元。本次交易系落實此前控制權轉讓協議中資產置出安排，已獲董事會審議透過，無需提交股東會審議。
-
----
-
-### 2026-08-11 20:45:34  #其他
-
-【受降雨影響 全國14個地區公路交通存在高風險】記者從交通運輸部瞭解到，根據交通運輸部與中國氣象局會商研判，結合氣象部門降雨資料，截至今天，湖北、安徽2個省份的2個縣區出現了降水天數15天以上、累計降雨量600毫米以上或累計降雨量300毫米以上且超過常年同期水平3倍的情況；安徽、廣東、廣西的12個縣區出現了降水天數15天以上、累計降雨量300毫米以上且超過常年同期水平2倍的情況，公路交通存在高風險。（央視新聞）
-
----
-
-### 2026-08-11 20:45:16  #公司
-
-【部分國際廠商交貨週期拉長、國產替代需求增加，國民技術部分高效能MCU漲價10%至20%】8月11日，介面新聞記者從國民技術方面瞭解到，公司將自2026年10月1日起對部分產品價格上調10%至20%，此次調價主要涉及高效能MCU，相關產品主要應用於工業、AI電源、數字電源等領域。國民技術向記者表示，近期部分國際友商相關產品交期也普遍拉長，市場出現缺貨，客戶尋求國產替代需求也在增加。與此同時，隨著AI相關需求增長，部分上游產能受到擠佔，供需格局發生變化。（介面新聞記者）
-
----
-
-### 2026-08-11 20:44:58  #公司
-
-挪威主權財富基金CEO：我們目前處於異常狀況。
-
----
-
-### 2026-08-11 20:44:53  #MKT News
-
-Malaysia's defense minister said he had witnessed Iran and its people's strength and dignity and seen how Iran, with strong force and unity, withstood attacks.
-
----
-
-### 2026-08-11 20:44:20  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iran's acting defense minister said the Zionist regime (Israel) is the principal source of unrest in the region and the Muslim world, and that its continued crimes and aggressive actions are a major driver of regional instability and insecurity.
-
----
-
-### 2026-08-11 20:44:08  #MKT News
-
-Iran's acting defense minister said Iranians had paid a heavy price to defend the country's independence, security and territorial integrity, and would not allow pressure or coercion to erase the gains of that resistance.
-
----
-
-### 2026-08-11 20:43:47  #MKT News
-
-Iran's acting defense minister said Tehran seeks to establish peace and stability in the region, but that such peace should not entail accepting illegal demands or submission to others' will.
-
----
-
-### 2026-08-11 20:43:35  #其他
-
-音樂流媒體平臺Spotify表示，有聲書提示播放列表功能正在面向七個市場的Premium使用者推出測試版。
-
----
-
-### 2026-08-11 20:41:57  #公司
-
-【佰維儲存：作廢處理2023、2025年部分限制性股票共16.2044萬股】佰維儲存公告稱，8月10日召開董事會會議，審議透過作廢處理2023、2025年限制性股票激勵計劃部分限制性股票的議案。2023年因5人離職、18人不滿足考核要求，合計作廢4.85萬股；2025年因23人離職、11人不滿足考核要求、3人自願放棄認購，合計作廢11.3544萬股。本次作廢不會對公司財務、經營及核心團隊穩定性產生實質影響，也不影響股權激勵計劃繼續實施。
-
----
-
-### 2026-08-11 20:41:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran foreign minister says Iran shattered US expectation of unconditional surrender】Aug 11 — Iran's foreign minister said no one expected Iran could withstand the US, and Tehran has not bowed to pressure from the US, Israel and other Western countries. He said Iran's resistance has destroyed US hopes of unconditional surrender and that 20 days after the war began Washington started seeking negotiations.
-
----
-
-### 2026-08-11 20:41:31  #公司
-
-【佰維儲存：擬以2億元-2.5億元回購公司股份】佰維儲存公告，擬以不低於2億元（含）且不超過2.5億元（含）的自有資金及或自籌資金（含回購專項貸款資金）回購公司股份，回購價格不超過468.24元/股（含），回購股份將用於減少公司註冊資本。本次回購方案尚需提交公司股東會審議。
-
----
-
-### 2026-08-11 20:41:19  #國際
-
-【伊朗外長稱伊朗讓美國幻想破滅】今天（8月11日），伊朗外長阿拉格齊表示，沒有人認為伊朗能夠抵抗住美國，面對美國、以色列以及其他西方國家的壓力，伊朗並沒有低頭。此外，伊朗的抵抗打破了美國在戰爭初期讓伊朗“無條件投降”的幻想，戰爭開始20天后，美國就開始乞求談判。（CCTV國際時訊）
-
----
-
-### 2026-08-11 20:41:15  #其他
-
-ALCON首席財務官在電話會議中表示 - 由於關稅退稅，第三季度毛利率可能會更高，但第四季度可能會回落。
-
----
-
-### 2026-08-11 20:40:30  #公司
-
-【鵬翎股份：公司在液冷領域已取得階段性進展】鵬翎股份8月11日在互動平臺表示，公司在液冷領域已取得階段性進展：儲能液冷業務已實現交付；算力中心及伺服器液冷方面，部分技術對接已結項並達成初步合作意向。公司現有汽車管路產線可相容生產部分液冷產品，三元乙丙橡膠+丁基橡膠組合方案可滿足冷板式液冷系統要求，具備工藝鏈自制能力，生產成本相對較低。公司將加速推進客戶驗證與合同簽訂。
-
----
-
-### 2026-08-11 20:39:40  #公司
-
-【徵和工業：向特定物件發行股票申請獲深交所稽核透過】徵和工業公告稱，公司於2026年8月11日收到深交所上市稽核中心意見告知函，深交所認為公司向特定物件發行股票申請符合發行、上市條件和資訊披露要求，後續將報中國證監會履行註冊程式。該事項尚需獲中國證監會同意註冊方可實施，最終結果及時間存在不確定性。
-
----
-
-### 2026-08-11 20:39:14  #公司 #國際
-
-印度航空CEO表示，已向印度政府通報普吉島航班事件調查進展。
-
----
-
-### 2026-08-11 20:38:14  #國際
-
-ONDAS INC：獲選為以色列打造新一代軍用戰術攻擊無人機。
-
----
-
-### 2026-08-11 20:37:57  #公司 #市場
-
-Upwork股價盤前下跌17%，此前公司預計2026年營收和利潤低於預期。
-
----
-
-### 2026-08-11 20:37:50  #國際
-
-ONDAS：獲以色列國防部授予數百萬美元戰略招標。
-
----
-
-### 2026-08-11 20:37:36  #公司
-
-【森麒麟：持續督導保薦代表人變更 葛龍龍接替葉盛蔭】森麒麟公告稱，公司收到國泰海通出具的更換持續督導保薦代表人的函。原保薦代表人葉盛蔭因工作變動，無法繼續履職，國泰海通委派葛龍龍接替。截至公告披露日，2020年首次公開發行股票和2023年向特定物件發行股票專案法定督導期已屆滿，但仍需就2026年度募集資金情況出具核查報告。更換後，持續督導保薦代表人為陳軼超、葛龍龍。
-
----
-
-### 2026-08-11 20:37:09  #其他
-
-【小鵬動力總成負責人顧捷：小鵬G9L不挑油品，能加92號汽油】在小鵬G9L全球首秀暨預售釋出會上，小鵬動力總成負責人顧捷發表演講。他介紹，小鵬G9L推出純電與超級增程兩種能源形式；搭載5C超充大電池，充電9分鐘CLTC續航增加450km。超級增程標配四驅，綜合續航1602km、純電續航435km；純電版共3個版本，755km | 702km | 660km。能耗表現方面，超級增程每度電可以支援車輛行駛6.8公里，純電版最高可達7.6公里。超級增程版本四驅零百加速4.95秒，純電版本四驅零百加速4.45秒。他還提到，透過ENC主動降噪和增程器主動停缸等靜音設計，打造純電般無感增程體驗。不挑油品，能加92號汽油，自駕到偏遠地區也不存在補能焦慮。（新浪科技）
 
 ---

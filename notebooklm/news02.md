@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 09:46:00_
-_本檔包含 3119 則快訊，約 604094 字_
+_更新時間：2026-08-15 11:00:18_
+_本檔包含 3140 則快訊，約 603211 字_
+
+---
+
+### 2026-08-14 04:07:10  #國際
+
+Axios援引 5 位知情人士訊息：賈裡德・庫什納計劃下週訪問以色列，就加沙問題展開磋商。
+
+---
+
+### 2026-08-14 04:06:52  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Applied Materials earnings above expectations at 3.50 USD — Applied Materials (AMAT) released earnings per share at 3.50 USD, compared to market expectations of 3.40 USD.
+
+---
+
+### 2026-08-14 04:05:48  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Aug 13 (Thu) close — Dow Jones Industrial Average +69.81 pts (+0.13%) at 53,840.08; S&P 500 +50.65 pts (+0.65%) at 7,799.15; Nasdaq Composite +214.54 pts (+0.81%) at 26,803.03.
+
+---
+
+### 2026-08-14 04:05:44  #MKT News
+
+Axios reports Kushner plans to visit Israel next week for talks on Gaza.
+
+---
+
+### 2026-08-14 04:05:09  #其他
+
+PETMED 第一季度銷售額4,100萬美元。
+
+---
+
+### 2026-08-14 04:04:44  #MKT News #SPCX.O
+
+SEC filing shows Vanguard Portfolio Management Co. reported holding 10.2 million Class A shares of SpaceX (SPCX.O).
+
+---
+
+### 2026-08-14 04:04:41  #公司 #國際
+
+美國證券交易委員會檔案：先鋒資本管理有限責任公司披露持有 SpaceX 2660 萬股 A 類股份。
+
+---
+
+### 2026-08-14 04:04:26  #MKT News
+
+SEC filings show Vanguard Capital Management reported holding 26.6 mln Class A shares of SpaceX (SPCX.O).
+
+---
+
+### 2026-08-14 04:04:11  #其他
+
+市場訊息：白宮將於下週三舉辦加密貨幣和預測專家會議。
+
+---
+
+### 2026-08-14 04:03:22  #MKT News #MU.O
+
+Micron Technology (MU.O): Micron Ventures' total committed capital increased to $550 mln.
+
+---
+
+### 2026-08-14 04:03:10  #其他
+
+應用材料第三季度調整後每股收益3.50美元，預期3.42美元。
+
+---
+
+### 2026-08-14 04:03:02  #MKT News
+
+Spot palladium fell more than 4.0% intraday, trading at $1,309.61/oz.
+
+---
+
+### 2026-08-14 04:02:04  #MKT News #Market Themes #AI Revolution
+
+Micron Ventures launches $250m fund to invest in next-generation artificial intelligence technologies.
+
+---
+
+### 2026-08-14 04:01:59  #其他
+
+美光科技：美光風投基金總承諾出資規模增至 5.5 億美元。
+
+---
+
+### 2026-08-14 04:01:18  #MKT News #Important
+
+【US close: major indices rise as memory stocks rally】US stocks closed higher on Thursday: the Dow Jones Industrial Average rose 0.13%, the S&P 500 gained 0.65% and the Nasdaq Composite climbed 0.8%. Memory-sector names led gains — Micron +4%, SanDisk +13.6%, SK Hynix +7% — while the Nasdaq Golden Dragon China Index fell 1.85%; Alibaba declined 2% and JD.com dropped 7%.
+
+---
+
+### 2026-08-14 04:01:05  #市場
+
+WORKDAY股價收盤上漲18%，創2016年以來最佳單日表現。
+
+---
+
+### 2026-08-14 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.13%，標普500指數漲0.65%，納指漲0.82%。工時公司漲17.78%，閃迪漲13.67%，GoDaddy漲9.41%，科斯塔漲8.36%，The Trade Desk漲7.93%。“七姐妹”方面：特斯拉漲3.80%，Meta Platforms漲2.74%，蘋果漲1.01%，微軟漲0.90%，英偉達漲0.56%，谷歌漲0.44%，亞馬遜跌0.80%。
+
+---
+
+### 2026-08-14 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。
+
+---
+
+### 2026-08-14 03:55:21  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Merck Stock Price Hits 54-year High — Merck shares increased to 135.11 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 11.72%, and in the last 12 months, it increased 63.04%.
+
+---
+
+### 2026-08-14 03:52:40  #國際
+
+【伊朗官員重申霍爾木茲海峽處於關閉狀態】當地時間13日晚，伊朗伊斯蘭革命衛隊海軍司令阿里·阿茲馬伊表示，目前霍爾木茲海峽處於關閉狀態，伊方對海峽內相關動向保持“全面、堅決掌控”，任何活動都不會脫離伊朗伊斯蘭革命衛隊海軍的監控。（央視新聞）
+
+---
+
+### 2026-08-14 03:51:43  #公司
+
+截至8月13日，已有30餘家北交所上市公司披露2026年半年報，企業成長成色初現。總體來看，已披露半年報的公司業績表現搶眼，約三分之一企業上半年歸母淨利潤同比增長超80%。算力服務、新能源、半導體等高景氣賽道成為拉動業績增長的核心引擎，凸顯北交所“專精特新”企業的成長活力。（經濟參考報）
+
+---
+
+### 2026-08-14 03:51:27  #國際
+
+市場訊息：法院駁回針對特朗普 “戰時” 驅逐政策的訴訟請求。
+
+---
+
+### 2026-08-14 03:49:30  #MKT News
+
+New York appellate court says New York City's "second-home tax" may proceed for now.
+
+---
+
+### 2026-08-14 03:48:54  #資料 #市場 #國際
+
+【美國PPI資料公佈日，美債收益率普遍下挫】週四（8月13日）紐約尾盤，美國10年期國債收益率下跌4.57個基點，美國PPI資料公佈後快速下行。兩年期美債收益率跌4.82個基點，亞太盤初以來橫盤小幅震盪，PPI資料公佈後同樣快速下行。30年期美債收益率跌4.28個基點，報5.214%。10年期通脹保值國債（TIPS）收益率跌4.16個基點，至2.378%；30年期TIPS收益率跌3.20個基點，至2.985%。
+
+---
+
+### 2026-08-14 03:47:14  #國際
+
+【美媒：“華盛頓”號航母將前往中東接替“林肯”號】據美國《華爾街日報》13日報道，美國準備派遣“華盛頓”號航母前往中東，接替艦上生活條件、船員心理健康等遭質疑的“林肯”號航母。報道援引美國官員的話說，該輪換計劃在人們對“林肯”號航母生活條件提出擔憂之前就已制定。據美國海軍學會新聞網報道，以日本為基地的“華盛頓”號航母打擊群於5月離開日本橫須賀基地。該航母本月13日在一艘巡洋艦和一艘驅逐艦的伴隨下，透過新加坡海峽後進入了馬六甲海峽。（新華社）
+
+---
+
+### 2026-08-14 03:46:55  #MKT News #WDAY.O #Impact bullish
+
+【Talks with Silver Lake send Workday shares up nearly 30%】Workday shares jumped as much as ~30% intraday on Thursday, triggering multiple temporary trading halts, after reports that Silver Lake is in acquisition talks; sources say discussions have been ongoing. The rally pushed Workday’s market value above $50.0 bln. The stock had been under longer-term pressure on worries that AI will reshape the software sector; a successful buyout would signal renewed private-capital interest in software assets. Jefferies analyst Til said CEO Aneel Bhusri’s close ties to Silver Lake make a deal plausible. Workday beat estimates in its May quarter, raised guidance, and said AI trends are producing tangible benefits.
+
+---
+
+### 2026-08-14 03:46:21  #其他
+
+上訴法院裁定：紐約市豪宅閒置稅目前可繼續執行。
+
+---
+
+### 2026-08-14 03:34:38  #國際
+
+【美國法院裁定特朗普可以暫停對低價商品的關稅豁免】美國一家貿易法院駁回了針對特朗普暫停低價值進口商品關稅豁免的訴訟。該法院週四作出裁決，拒絕推翻總統特朗普過去一年釋出的行政命令。這些行政命令取消了針對零售價值不超過800美元商品的所謂“小額豁免”。據美國海關與邊境保護局稱，截至2025年底，特朗普暫停這一豁免已帶來超過10億美元的關稅繳款。
+
+---
+
+### 2026-08-14 03:31:27  #MKT News #WTI #Impact bearish #Brent
+
+【International oil prices fall on 13th】NYMEX September light sweet crude fell $2.02 to $81.25 a barrel, down 2.43%. Brent October fell $1.91 to $87.07 a barrel, down 2.15%.
+
+---
+
+### 2026-08-14 03:31:17  #市場
+
+【國際油價13日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.02美元，收於每桶81.25美元，跌幅為2.43%；10月交貨的倫敦布倫特原油期貨價格下跌1.91美元，收於每桶87.07美元，跌幅為2.15%。
+
+---
+
+### 2026-08-14 03:24:29  #MKT News
+
+BOC: Canadian Investment Markets Association (CIMPA) and CDS have launched a pilot "failure fee framework" for Canadian government securities trades.
+
+---
+
+### 2026-08-14 03:21:23  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index down on 13th】The dollar index, measuring the dollar against six major currencies, fell 0.05% to 99.964 at the New York close on the 13th. EUR/USD 1.1529, up from 1.1521; GBP/USD 1.3485, down from 1.3488. USD/JPY 159.51, up from 159.49; USD/CHF 0.8139, up from 0.8137. USD/CAD 1.3936, down from 1.3947; USD/SEK 9.5684, down from 9.5858.
+
+---
+
+### 2026-08-14 03:20:52  #市場
+
+【美元指數13日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.05%，在匯市尾市收於99.964。截至紐約匯市尾市，1歐元兌換1.1529美元，高於前一交易日的1.1521美元；1英鎊兌換1.3485美元，低於前一交易日的1.3488美元。1美元兌換159.51日元，高於前一交易日的159.49日元；1美元兌換0.8139瑞士法郎，高於前一交易日的0.8137瑞士法郎；1美元兌換1.3936加元，低於前一交易日的1.3947加元；1美元兌換9.5684瑞典克朗，低於前一交易日的9.5858瑞典克朗。
+
+---
+
+### 2026-08-14 03:19:27  #MKT News #WTI #Impact bullish #Brent
+
+【IRGC navy says Strait of Hormuz closed】IRNA quoted the IRGC naval commander saying the Strait of Hormuz is closed and that Iran exercises full, firm control; all movements in the strait are monitored by IRGC naval forces. He said the truth will be determined on the battlefield rather than by US announcements.
+
+---
+
+### 2026-08-14 03:17:09  #國際
+
+伊朗革命衛隊海軍司令週四表示，霍爾木茲海峽現已關閉，該部隊完全掌控這條水道的通行活動。
+
+---
+
+### 2026-08-14 03:16:10  #MKT News #Commodities #Energy
+
+BP said it will partner with XRG, ADNOC’s International Energy Investments company and UCC Oil & Gas Holdings, with each party holding an equal working interest.
+
+---
+
+### 2026-08-14 03:16:01  #公司
+
+英國石油公司：與阿布扎比國家石油公司旗下國際能源投資平臺 XRG 以及 UCC 油氣控股達成合作，各方持有均等的作業權益份額。
+
+---
+
+### 2026-08-14 03:15:59  #MKT News #Commodities #Energy #BP.N #Impact bullish
+
+Venezuela has granted BP a Phase II exploration and production license for the Luolan oilfield in the Delta Plateau region; BP will be the field developer and operator.
+
+---
+
+### 2026-08-14 03:14:52  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
+
+ICI: US money market fund assets rose to $7.93 trillion.
+
+---
+
+### 2026-08-14 03:14:18  #公司
+
+英國石油公司：獲委內瑞拉玻利瓦爾共和國政府授予三角洲平臺地區洛蘭油田二期勘探開採許可。
+
+---
+
+### 2026-08-14 03:14:11  #市場 #焦點
+
+現貨黃金失守4350美元/盎司，日內跌1.40%。
+
+---
+
+### 2026-08-14 03:14:05  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,350/oz, down 1.33% intraday.
+
+---
+
+### 2026-08-14 03:13:08  #國際
+
+據ICI統計，美國貨幣市場基金資產增至7.93萬億美元。
+
+---
+
+### 2026-08-14 03:12:16  #國際
+
+【俄外長：將扣押西方國家船隻作為對等反制】俄羅斯外交部長拉夫羅夫13日對俄媒表示，俄方將“自行決定”扣押哪些西方國家船隻，作為對西方國家扣押俄船隻行為的反制。拉夫羅夫說，西方國家把“強盜行徑和海盜行為”當作官方政策，俄羅斯將從服務於西方國家利益的船隻中自主選擇扣押目標，至於如何處理“將由俄方自行決定”。西方國家指責俄羅斯利用油輪等商用船隻逃避西方制裁，將這些商用船隻稱為“影子艦隊”。歐洲多國近來在相關水域攔截多艘所謂俄“影子艦隊”船隻。拉夫羅夫表示，所有不遵從歐盟要求的船隻，無論懸掛何種旗幟，都被歐盟劃定為“影子艦隊”。歐盟這一“非法決定”意在遏制俄羅斯在全球市場獲利。這種做法“極其危險”。（新華社）
+
+---
+
+### 2026-08-14 03:12:05  #MKT News
+
+Saudi Arabia's Ministry of Defence said 15 countries have signed a joint declaration and 13 have completed domestic procedures and signed the alliance charter, formally joining the alliance.
+
+---
+
+### 2026-08-14 03:08:37  #其他
+
+沙烏地阿拉伯國防部：多國海上防禦聯盟第三次規劃會議于吉達召開，共有 39 個國家參與。
+
+---
+
+### 2026-08-14 03:08:06  #MKT News
+
+Saudi Arabia's defense ministry said 39 countries participated in the third planning meeting of a multinational maritime defense coalition held in Jeddah.
+
+---
+
+### 2026-08-14 03:05:36  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7450元，較上一交易日夜盤收盤漲9個基點。
+
+---
+
+### 2026-08-14 03:05:11  #央行 #其他
+
+紐約聯儲：交易臺計劃進行約170億美元的再投資購買；8月14日至9月14日期間不進行儲備管理購買。
+
+---
+
+### 2026-08-14 03:05:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed
+
+New York Fed trading desk plans roughly $17 bln of reinvestment purchases; will not conduct reserve-management purchases from Aug. 14 through Sept. 14.
+
+---
+
+### 2026-08-14 03:05:07  #國際
+
+法院裁定，特朗普可終止低價商品的關稅豁免。
+
+---
+
+### 2026-08-14 03:03:09  #市場
+
+阿根廷國家統計局：7月消費者價格指數環比上漲2.1%。阿根廷7月滾動12個月通脹率達33.8%。
+
+---
+
+### 2026-08-14 03:02:47  #MKT News
+
+Argentina's national statistics bureau reported the 12-month rolling inflation rate for July at 33.8%.
 
 ---
 
@@ -18590,197 +18908,5 @@ Market sources: Bank of America hedge-fund clients continued to add to US equiti
 ### 2026-08-12 23:06:09  #國際
 
 據伊朗塔斯尼姆通訊社報道，葉門胡塞武裝威脅將打擊索馬利亞及其周邊區域內的所有以色列相關目標。
-
----
-
-### 2026-08-12 23:05:32  #公司 #觀點
-
-【澤璟製藥遞表港交所】據港交所檔案，8月12日，蘇州澤璟生物製藥股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。
-
----
-
-### 2026-08-12 23:03:57  #MKT News
-
-U.S. President Trump was indicted over plans to sell expedited access to posts on his social-media platform Truth Social.
-
----
-
-### 2026-08-12 23:03:17  #國際
-
-特朗普因計劃出售真相社交帖子的優先快速訪問許可權遭起訴。
-
----
-
-### 2026-08-12 23:01:02  #MKT News #Important
-
-As of the 23:00 close, China’s main futures contracts were mostly higher: pulp, synthetic rubber and fuel oil rose over 1%; rapeseed oil and short-fiber futures gained about 1%. On the downside, glass fell more than 2%, while soda ash and coking coal declined over 1%.
-
----
-
-### 2026-08-12 23:00:16  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Drops by 0.35% — Top currency loser is South Korean Won (-0.35%). Meanwhile, Japanese Yen and British Pound were little changed.
-
----
-
-### 2026-08-12 23:00:03  #市場
-
-【夜盤期貨收盤】玻璃連續跌2.25%，純鹼連續跌1.41%，紙漿連續漲1.22%，燃料油連續漲0.84%，短纖連續漲0.71%。
-
----
-
-### 2026-08-12 22:59:51  #MKT News #WTI #Impact mixed #Brent
-
-【U.S.-Iran memorandum set to expire at 60-day deadline; key clauses disputed】The U.S. and Iran signed a 14-point memorandum of understanding on June 17 establishing a ceasefire and a 60-day window to negotiate a permanent end to hostilities. The MoU, which declared a halt to hostile acts and sought to reopen the Strait of Hormuz to commercial shipping, has shown cracks as fighting resumed and its wording remains ambiguous; both sides accuse the other of breaches. Key disputed provisions: Article 5 (Strait of Hormuz) — the text guarantees commercial freedom of passage but is contested: Tehran says it implies U.S. recognition of Iranian authority over the waterway and that Iran agreed only to two months of fee-free transit; Washington says the provision only requires Iran to ensure safe passage and to refrain from coercive restrictions or taxation. Article 10 (oil and sanctions waivers) — the U.S. agreed to grant waivers enabling Iran to export crude, petroleum products and related services, including access to international banking, insurance and shipping support. Article 11 (unfreezing assets) — the U.S. committed to make frozen funds and restricted assets fully available, with implementation mechanisms to be negotiated. With no direct diplomatic talks and limited near-term prospects for a final settlement, the MoU’s status after the 60-day deadline remains uncertain.
-
----
-
-### 2026-08-12 22:58:27  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bullish #WTI #Impact bearish
-
-【JP Morgan: Inflation to ease gradually; Fed need not hike】David Kelly, chief global strategist at JP Morgan Asset Management, said the Fed should hold rates and does not need to raise them, expecting inflation to taper gradually as evidence mounts that a persistent wage‑price spiral is unlikely. After July’s CPI showed moderate core inflation, US Treasuries extended gains. Kelly cited three disinflationary forces: tariff-related costs should fall on a year‑on‑year basis; oil prices are likely to retreat as markets grow optimistic the Iran war will end; and wage growth continues to lag inflation, weakening the feedback loop that would sustain price pressures. He added markets are highly leveraged, so even small rate rises could trigger asset repricing.
-
----
-
-### 2026-08-12 22:56:38  #宏觀 #國際
-
-【美國佈局AI供應鏈 巴拿馬試點平臺加速關鍵商品流通】特朗普政府宣佈啟動一項新計劃，旨在加快美國與最親密貿易伙伴之間，被認為對發展人工智慧至關重要的商品運輸。美國國務院週三表示，將在巴拿馬建立一個試點平臺，作為美國主導的“矽基和平計劃”的一部分，以加速人工智慧關鍵產品的貿易流通。該倡議旨在加強盟友之間的供應鏈合作。美國國務院在宣告中表示，將投入最多5000萬美元的對外援助資金，用於開發和部署這一平臺，該平臺將利用人工智慧技術加快物流流程。美國國務院負責經濟事務的副國務卿Jacob Helberg在一封電子郵件中表示：“預計該專案將加快物流和合規操作流程。該專案重點是幫助巴拿馬以及其他參與經濟體，追蹤並加速來自可信供應商的高價值貨物運輸，這些貨物涉及人工智慧基礎設施、半導體以及關鍵礦產，覆蓋整個AI供應鏈。”
-
----
-
-### 2026-08-12 22:56:15  #市場
-
-溫蒂漢堡股價恢復交易後上漲11%。
-
----
-
-### 2026-08-12 22:56:13  #MKT News #Market Themes #AI Revolution
-
-【US launches Panama pilot to speed AI‑critical goods flows】The US State Department said on Wednesday it will launch a pilot platform in Panama, under a US‑led Silicon‑Based Peace Initiative, to accelerate trade in goods deemed critical for AI development. Washington will provide up to $50m in foreign assistance to develop and deploy an AI‑driven platform to speed logistics and compliance, prioritising high‑value shipments from trusted suppliers of AI infrastructure, semiconductors and critical minerals across the AI supply chain and to strengthen allied supply‑chain cooperation. Jacob Helberg, deputy secretary for economic affairs, said the project is expected to accelerate logistics and compliance operations.
-
----
-
-### 2026-08-12 22:55:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA report: U.S. crude imports from Venezuela rose in the latest week to their highest level since September 2024.
-
----
-
-### 2026-08-12 22:55:42  #國際
-
-根據美國能源資訊署（EIA）可追溯至該時段的歷史資料，最新一週美國從委內瑞拉進口的原油量攀升至2024年9月以來最高水平。
-
----
-
-### 2026-08-12 22:54:27  #公司 #觀點
-
-【港股IPO：蘇州澤璟生物遞表港交所】蘇州澤璟生物製藥股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。
-
----
-
-### 2026-08-12 22:53:30  #國際
-
-【特朗普政府將停止支援核心北極氣候報告】據一位瞭解該決議內情的訊息人士透露，美國國家海洋和大氣管理局（NOAA）將取消對《北極報告卡》的直接支援。這份旗艦報告專門評估全球升溫最快區域的氣候變化狀況。這位訊息人士稱，報告編輯團隊及參與專案的NOAA工作人員已於週一接到通知。訊息人士表示，專案工作組並未收到該項調整的相關解釋。NOAA在一封郵件中證實，該局不再牽頭編制2026年度《北極報告卡》，但同時說明，該局以往向這份報告提供的所有資料仍會對外公開。
-
----
-
-### 2026-08-12 22:52:47  #市場 #央行 #國際
-
-【摩根資產管理：美國的“特氟龍式通脹”黏不住 美聯儲無需加息】摩根資產管理首席全球策略師David Kelly表示，美聯儲應維持利率不變，並預計隨著越來越多證據顯示持續性的工資-物價螺旋不會形成，通脹將逐步回落。Kelly週三在美國7月消費者價格指數公佈後接受採訪時表示：“他們絕對應該按兵不動，而且我其實認為他們也會這麼做。”報告顯示，美國7月基礎通脹表現溫和，美國國債在資料公佈後維持漲幅。Kelly指出，三股力量正在共同推動通脹明顯回落：關稅成本按同比計算將下降；市場對伊朗戰爭結束的樂觀情緒推動油價下跌；以及工資增速持續落後於通脹。他補充稱，最後這一點意味著物價壓力缺乏自我強化所需的動力，也降低了迫使美聯儲加息的可能性。他說：“美國現在基本上是‘特氟龍式通脹’，它黏不住。”他表示，沒有必要試圖加快這一過程，“就像受傷一樣，只能慢慢恢復。如果試圖加速，反而會把事情搞糟。”他還稱：“如果工資沒有反應，就不可能形成工資-物價螺旋。”
-
----
-
-### 2026-08-12 22:52:39  #MKT News #WTI #Impact bearish
-
-EIA said U.S. weekly crude oil imports from Canada rose to their highest level since March 2025.
-
----
-
-### 2026-08-12 22:52:13  #國際
-
-美國國家颶風中心表示，熱帶風暴“克里斯托瓦爾”目前位於亞速爾群島以西約880英里（1420公里）處；最大持續風速為每小時45英里（75公里）。
-
----
-
-### 2026-08-12 22:52:02  #公司
-
-【嘉耀控股：收購目標公司80%股份，最高代價4.3億港元】 嘉耀控股公告，於2026年8月12日（聯交所交易時段後），公司作為買方與賣方及擔保人訂立買賣協議，擬收購目標公司已發行股份總數的80%，最高代價為4.3億港元，將由公司按發行價每股21港元向賣方配發及發行最多2050萬股代價股份支付。目標集團主要從事AI驅動的網際網路遊戲開發及發行，以及企業級AI應用技術相關的開發、諮詢及服務提供。完成後目標公司將成為公司附屬公司，其財務業績將綜合計入本集團業績。代價股份相當於公司於公告日期現有已發行股本約3.42%，以及經配發及發行代價股份擴大後已發行股本約3.30%。
-
----
-
-### 2026-08-12 22:51:38  #市場 #焦點
-
-納斯達克中國金龍指數跌超2%，海天網路跌6.39%，中比能源跌4.87%，騰訊音樂跌4.42%，知乎跌4.09%，360數科跌4.02%。
-
----
-
-### 2026-08-12 22:51:12  #其他
-
-【農業農村部：全力以赴抓好糧食等重要農產品穩產保供，持續推進生豬產能綜合調控】8月9日—12日，農業農村部黨組書記、部長張柱在重慶、四川調研強調。張柱強調，當前正值秋糧產量形成關鍵期，要把糧食生產擺在突出位置，高質量推進高標準農田建設，落實落細各項防災減災、穩產增產措施，為奪取全年糧食豐收作出更多川渝貢獻。要持續推進生豬產能綜合調控，穩定重要農畜產品生產和價格。在四川省涼山州西昌市玉米種業現代農業園區，張柱與科研人員深入交流熱區玉米制種，在重慶市畜牧科學院，他聽取生豬種業創新、飼料營養研究等介紹，勉勵科研人員發揮自身優勢，聚焦重點品種做深基礎研究，圍繞區域產業需求加強關鍵核心技術研發推廣，把成果寫在大地上。
-
----
-
-### 2026-08-12 22:50:54  #市場
-
-受收購訊息影響，溫迪漢堡股價大漲 13% 後停牌。
-
----
-
-### 2026-08-12 22:50:04  #其他
-
-市場訊息：投資者納爾遜・佩爾茨準備對溫迪漢堡發起收購。
-
----
-
-### 2026-08-12 22:49:50  #市場
-
-【英偉達股價上漲3.35%】8月12日訊息，英偉達股價上漲3.35%，報224.8美元/股，為2個月以來最高水平，總市值報5.44萬億美元。
-
----
-
-### 2026-08-12 22:49:40  #其他
-
-法國巴黎銀行將Lumentum目標股價從1300美元上調至1380美元。
-
----
-
-### 2026-08-12 22:49:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Ukraine attacks on energy facilities push Russian crude below OPEC+ quota】Russia's July crude output averaged 8.887 mln bpd, roughly 0.94 mln bpd below its OPEC+ quota of 9.824 mln bpd, the OPEC monthly report showed. The figure was only 6,000 bpd lower than the revised June average, but near-daily Ukrainian strikes on oil infrastructure — targeting refineries, tankers and other facilities — are disrupting processing and threatening exports. The sector faces these disruptions while global energy markets remain under pressure from the Middle East conflict.
-
----
-
-### 2026-08-12 22:49:15  #市場 #國際
-
-【烏克蘭持續襲擊能源設施 俄羅斯原油產量跌破配額】俄羅斯7月原油產量較其歐佩克+配額低近100萬桶/日，原因是烏克蘭幾乎每天都在襲擊俄羅斯石油基礎設施。根據歐佩克月度報告，俄羅斯上月原油日產量平均為888.7萬桶。儘管這一水平較6月修正後的平均產量僅減少6000桶/日，但7月日均產量明顯低於俄羅斯根據與盟友達成的協議所對應的982.4萬桶月度目標。這一資料公佈之際，俄羅斯石油行業正面臨烏克蘭持續不斷的襲擊。上個月，基輔方面將目標從煉油廠到油輪等多個設施，襲擊重點不斷變化，令俄羅斯原油加工量和出口規模面臨威脅，而此時全球能源市場本已因中東衝突而承壓。
-
----
-
-### 2026-08-12 22:48:32  #國際
-
-【伊朗多個駐外使館駁斥特朗普索賠論】美國總統特朗普8月10日突然向伊朗提出索賠，要求伊朗“為數十年來美軍士兵的死亡支付賠償”。對此，伊朗多個駐外使館予以駁斥，他們列舉出美國犯下的多重罪行，並表示應該承擔賠償責任的理應是美國。（CCTV國際時訊）
-
----
-
-### 2026-08-12 22:47:58  #MKT News
-
-Washington Post reports the U.S. will stop supporting a major Arctic climate report.
-
----
-
-### 2026-08-12 22:47:52  #國際
-
-美國能源資訊署（EIA）資料顯示，上週美國商業原油進口量攀升，創2024年11月以來新高。
-
----
-
-### 2026-08-12 22:46:57  #國際
-
-市場訊息：美國將停止支援一份關鍵北極氣候報告。
-
----
-
-### 2026-08-12 22:46:06  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 2
-
-US Crude Stocks Surge Last Week: EIA — US crude inventories rose by 17.422 million barrels to 424.4 million barrels in the week ended August 7, the most since January 2023 and compared with market expectations for a 1.4 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 1.768 million barrels in the week. Refinery crude runs increased by 26 thousand barrels per day. Gasoline stocks fell by 0.968 million barrels to 208.7 million barrels, compared with expectations for a 1.2 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, were little changed at 107.2 million barrels, versus expectations for a 1.3 million-barrel fall. Net US crude imports increased by 1.768 million barrels per day.
 
 ---
