@@ -1,7 +1,15 @@
 {
   "date": "2026-08-15",
-  "count": 448,
+  "count": 449,
   "items": [
+    {
+      "id": "mkt:01a0030d-0be7-7aab-9046-fbd29c6d1eda",
+      "time": "2026-08-15 09:33:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【7.7 quake near Indonesia's Flores island kills one】On Aug 15 local time Indonesia's rescue agency reported one fatality after a 7.7-magnitude earthquake. cenc recorded the quake at 05:58 on Aug 15 near Flores island (8.40°S, 121.40°E) with a focal depth of 20 km."
+    },
     {
       "id": "mkt:01a0030a-53be-7aab-9046-f262bb462cdb",
       "time": "2026-08-15 09:30:03",
