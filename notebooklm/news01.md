@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 01:47:12_
-_本檔包含 3106 則快訊，約 605119 字_
+_更新時間：2026-08-16 02:42:29_
+_本檔包含 3111 則快訊，約 604591 字_
+
+---
+
+### 2026-08-16 02:41:49  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Qatar's foreign ministry said an Iranian pilot's aircraft violated Qatari airspace and failed to respond to Doha's attempts to make contact.
+
+---
+
+### 2026-08-16 02:41:11  #國際
+
+卡達否認扣押伊朗飛行員。
+
+---
+
+### 2026-08-16 02:40:18  #MKT News
+
+Qatar's foreign ministry denies detaining an Iranian pilot.
+
+---
+
+### 2026-08-16 02:35:17  #國際
+
+黎巴嫩媒體：以色列對塔盧薩鎮發動猛烈空襲。
+
+---
+
+### 2026-08-16 02:29:15  #國際
+
+伊朗外交部：以色列必須停止在黎巴嫩南部的侵略行動，並從被佔領地區撤出。
+
+---
+
+### 2026-08-16 02:29:04  #MKT News
+
+Iran's foreign ministry said it reiterated calls to halt Israeli aggression in southern Lebanon and for Israeli forces to withdraw from occupied territories.
+
+---
+
+### 2026-08-16 02:17:25  #MKT News
+
+Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front.
+
+---
+
+### 2026-08-16 02:17:22  #公司 #國際
+
+海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。
+
+---
+
+### 2026-08-16 02:16:33  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon.
+
+---
+
+### 2026-08-16 02:14:46  #國際
+
+以色列媒體：地方當局已通知上加利利居民，夜間會聽到爆炸聲，這是以軍在黎巴嫩開展軍事行動造成。
+
+---
+
+### 2026-08-16 02:04:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemeni sources said a fourth explosion struck Marib, caused by shelling from Houthi forces.
+
+---
+
+### 2026-08-16 02:04:04  #其他
+
+葉門：馬裡卜遭胡塞武裝炮擊，發生第四起爆炸。
+
+---
+
+### 2026-08-16 02:03:31  #國際
+
+【受美國海上封鎖影響，伊朗實際上已經停止汽油進口】伊朗議會能源委員會發言人禮薩·塞帕萬週六表示，受美國海上封鎖影響，伊朗實際上已經停止汽油進口。“我們目前面臨海上封鎖，汽油進口已經中斷。”塞帕萬警告，如果推行擬議中的國民身份證燃油配給方案，政府後續或將被迫按照國際市場及波斯灣離岸價進口汽油，進而推高成本，擴大財政赤字。他稱，受機動車保有量影響，伊朗正遭遇燃油供應難題。塞帕萬表示，伊朗汽油日產量已達峰值1.3億升，但日消耗量為1.37億升。他稱：“即便達到這一產出水平，我們依舊面臨燃油供應缺口。”
+
+---
+
+### 2026-08-16 01:59:47  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation.
+
+---
+
+### 2026-08-16 01:59:28  #MKT News #Brent #Impact bullish #WTI #DXY
+
+Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz.
+
+---
+
+### 2026-08-16 01:55:23  #MKT News
+
+Tajikistan’s energy and water resources minister and transport minister visited Tehran for talks with Iranian counterparts and met Iranian foreign minister Araghchi on Saturday evening, the Iranian foreign ministry said. Araghchi urged leveraging the countries’ existing diversified potential to develop and strengthen bilateral relations, particularly in economic and trade cooperation.
+
+---
+
+### 2026-08-16 01:54:57  #國際
+
+加沙和平委員會認為，在特朗普特使庫什納訪問以色列前夕，加沙相關協議已觸手可及。
 
 ---
 
@@ -18648,77 +18750,5 @@ Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; 
 ### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
 
 【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
-
----
-
-### 2026-08-14 08:46:47  #其他
-
-【兩市融資餘額較上日增加23.89億元】截至8月13日，上交所融資餘額報13563.08億元，較前一交易日增加10.72億元；深交所融資餘額報12850.60億元，較前一交易日增加13.17億元；兩市合計26413.68億元，較前一交易日增加23.89億元。
-
----
-
-### 2026-08-14 08:46:15  #公司
-
-【維珍銀河新一代Delta級飛船首飛推遲至2027年】維珍銀河宣佈，其新一代Delta級亞軌道太空飛船的首次商業飛行將推遲至2027年2月。此前的計劃是在2026年第四季度開始商業運營。維珍銀河CEO邁克爾·科爾格拉齊爾表示，此次推遲並非由單一重大問題導致，而是在新飛船的組裝過程中遇到了“數百個相對較小但重要的安裝任務”的工期延長。
-
----
-
-### 2026-08-14 08:45:52  #MKT News
-
-Saudi outlet Hadas, citing Yemeni military sources, said Houthi forces used drones to strike the Huohe and Muha districts in western Yemen. Government forces said they successfully repelled a Houthi attack on the Bahh front east of Mocha.
-
----
-
-### 2026-08-14 08:44:48  #央行 #資料 #市場 #國際
-
-【中信期貨：白銀短線高位震盪執行，關注油價走勢和美國7月零售資料指引】日內白銀整體震盪偏弱執行，跌幅大於黃金，海內外銀價跌幅均超1%，其中COMEX白銀跌破65美元/盎司。美國7月PPI、核心PPI整體走軟幅度超市場預期，推動美元和美債收益率下行。而聯儲官員哈瑪克表示不確信通脹會繼續改善，疊加海峽持續封鎖，伊朗最高領袖顧問威脅若條件得不到滿足、或升級衝突，通脹前景充滿不確定性，引發部分資金獲利離場。據新華社報道，當地時間12日，伊朗“波斯灣海峽管理局”表示，霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。13日伊朗最高領袖顧問表態，若條件得不到滿足，或升級衝突。
-
----
-
-### 2026-08-14 08:43:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Crude ETF holdings report live; USO and BNO positions decline】Aug 13 — WTI (USO) nominal exposure ~22.248 mln barrels, down 3.571 mln barrels on the day; Brent (BNO) futures positions ~7.576 mln barrels, down 56,000 barrels.
-
----
-
-### 2026-08-14 08:43:39  #其他
-
-【上半年我國航空物流發展保持韌性】中國物流與採購聯合會近日釋出上半年航空物流發展情況分析報告。據介紹，今年以來，我國航空貨運展現了極強的抗週期韌性，航空物流貨物結構發生深刻變化，以人工智慧硬體為代表的高階製造業成為新的增長極。上半年，我國航空貨郵運輸量實現6.0%的正增長，特別是國際航線，上半年完成貨郵運輸量232萬噸，同比大幅增長13.9%，增速顯著高於全行業平均水平。國際航線在整體業務中的佔比持續攀升，不僅穩住了行業基本盤，更成為拉動我國航空物流逆勢上揚的核心引擎。
-
----
-
-### 2026-08-14 08:42:52  #公司
-
-【美聯新材：公司控股企業輝虹科技的EX電子材料銷量穩步增長】美聯新材(300586)8月14日在互動平臺表示，隨著下游需求增加，目前公司控股企業輝虹科技的EX電子材料銷量穩步增長。
-
----
-
-### 2026-08-14 08:42:02  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-08-14 08:41:55  #MKT News #HESAI-W.HK #Impact bearish
-
-Shenzhen Stock Exchange said Hesai-W will be removed from the Hong Kong Stock Connect eligible securities list, effective Aug 14.
-
----
-
-### 2026-08-14 08:41:24  #公司
-
-【深交所：禾賽－Ｗ被調出港股通標的證券名單】深交所公告，港股通標的證券名單發生調整並自2026年08月14日起生效，禾賽－Ｗ被調出。
-
----
-
-### 2026-08-14 08:41:01  #市場 #國際
-
-2年期日本國債收益率下跌1個基點至1.635%。
-
----
-
-### 2026-08-14 08:39:47  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index jumped 1.7% to above 69,400, while the broader Topix Index gained 0.5% to 4,196 on Friday, with Japanese shares extending their rally and following a strong lead from Wall Street as subdued US inflation data prompted traders to scale back expectations for a Federal Reserve rate hike in September. Markets are now pricing in around a 35% chance of a 25 basis point Fed rate hike in September, down from 55% a week earlier. Domestically, investors are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weak yen could add to inflationary pressures. Technology stocks led the gains, including Kioxia Holdings (5.2%), Advantest (5.1%) and SoftBank Group (5.5%). The Nikkei and Topix are on track to rise 6% and 3.5% for the week, respectively.
 
 ---

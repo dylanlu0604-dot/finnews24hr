@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 01:47:12_
-_本檔包含 3192 則快訊，約 604472 字_
+_更新時間：2026-08-16 02:42:29_
+_本檔包含 3192 則快訊，約 604762 字_
+
+---
+
+### 2026-08-12 00:03:13  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+US EIA August forecast: average WTI price for the year $80.88/bbl, prior $76.26/bbl.
+
+---
+
+### 2026-08-12 00:03:10  #國際
+
+美國能源資訊署（EIA）預計2026年美國石油需求量為2060萬桶/日，此前預測值為2070萬桶/日；預計2027年需求量為2080萬桶/日，此前預測值同樣為2080萬桶/日。
+
+---
+
+### 2026-08-12 00:02:43  #國際
+
+美國能源資訊署（EIA）資料顯示：8月美國天然氣產量日均為1226億立方英尺，7月為日均1220億立方英尺；9月預計日均產量為1232億立方英尺。
+
+---
+
+### 2026-08-12 00:02:39  #國際
+
+美國能源資訊署（EIA）：8月美國石油產量平均為1383萬桶/日，7月為1382萬桶/日；9月平均產量將為1377萬桶/日。
+
+---
+
+### 2026-08-12 00:02:23  #宏觀 #國際
+
+美國國務院：魯比奧會見奧地利外長，討論確保歐洲安全與維護國家主權的途徑。
+
+---
+
+### 2026-08-12 00:02:16  #公司 #焦點 #國際
+
+【英特爾增發股票前曾尋求美國政府的批准】英特爾執行長陳立武在公司增發股票前，曾尋求美國政府的批准。英特爾上週準備宣佈股票發行計劃之際，陳立武致電美國商務部長霍華德·盧特尼克。美國政府最終決定不參與此次股票發行，但盧特尼克批准了這一計劃。
+
+---
+
+### 2026-08-12 00:01:01  #MKT News
+
+Iranian media outlet Fars News quoted an IRGC spokesman saying there were no US warships stationed in the Persian Gulf today.
+
+---
+
+### 2026-08-12 00:00:47  #國際
+
+伊朗革命衛隊發言人：倘若伊朗再度遭遇威脅，數十萬英里能源管道、數千座發電廠、全部美製及非美製系統，以及接入網際網路的全球基礎設施，都將面臨風險。
+
+---
+
+### 2026-08-11 23:59:47  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Retreats From Record High — The CAC 40 edged 0.1% lower to close at 8,715 on Tuesday, retreating from the record high reached in the previous session amid renewed geopolitical tensions. US President Donald Trump called on Iran to compensate victims of conflicts involving Tehran, following Iranian demands for reparations over damage caused by recent US and Israeli strikes. The escalating rhetoric reduced expectations of a near-term breakthrough and dimmed hopes for the reopening of the Strait of Hormuz, fueling concerns over continued energy supply disruptions and energy-driven inflation. Luxury stocks declined amid increased risk aversion, with LVMH down 0.8% and L’Oréal losing 1.2%. Industrial shares also fell, with Airbus shedding 1% and Safran down 0.5%, while financials weakened, led by a 1% decline in BNP Paribas. In contrast, TotalEnergies advanced 1.4% on higher oil prices.
+
+---
+
+### 2026-08-11 23:59:40  #國際
+
+伊朗革命衛隊發言人：今日波斯灣海域沒有美國軍艦部署。
+
+---
+
+### 2026-08-11 23:57:46  #國際
+
+歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。
+
+---
+
+### 2026-08-11 23:55:16  #其他
+
+【霍爾木茲海峽重開預期升溫，卡達加大液化天然氣裝船作業】卡達液化天然氣裝船量攀升至3月以來最高水平，預示該國正在為霍爾木茲海峽可能重新開放做準備。拉斯拉凡港液化天然氣日均裝船量約8萬噸，但該規模仍較去年同期下降約60%。卡達14條液化天然氣生產線中有7條顯現開工跡象，表明受戰事幹擾後的生產正在逐步恢復。但出口能否全面復甦仍取決於霍爾木茲海峽航運通行，目前相關外交談判正在推進，但無法保證能夠達成協議。
+
+---
+
+### 2026-08-11 23:54:18  #公司 #焦點
+
+【中國人保：提名譚炯為執行董事候選人並選舉其為董事長】中國人保告稱，公司董事會審議透過議案，提名譚炯為第五屆董事會執行董事候選人，並選舉其為公司董事長。
+
+---
+
+### 2026-08-11 23:52:36  #國際
+
+卡達外交部表示，伊朗與阿曼就霍爾木茲海峽問題的會談已進入關鍵階段。
+
+---
+
+### 2026-08-11 23:51:30  #MKT News #Market Regions #Japan & APAC
+
+【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951.
 
 ---
 
@@ -19149,95 +19239,5 @@ USD/JPY briefly fell about 40 pips to a low of 158.41, now trading at 158.67.
 ### 2026-08-10 20:11:55  #MKT News #Market Regions #Greater China
 
 【Multiple 'Sorry' ransomware attacks detected in China】The National Computer Virus Emergency Response Center and the National Engineering Laboratory for Computer Virus Prevention and Control, via the national computer virus collaborative analysis platform (https://virus.cverc.org.cn), have detected multiple 'Sorry' ransomware incidents in China. Victims' important files are encrypted and renamed with a .sorry suffix; attackers leave ransom notes demanding victims download an encrypted communication tool to contact them.
-
----
-
-### 2026-08-10 20:11:32  #MKT News
-
-Iran's president said a meeting with the supreme leader lasted 7-8 hours.
-
----
-
-### 2026-08-10 20:11:21  #公司
-
-【匯成真空：擬定增募資不超過9.55億元用於超精密半導體及連續式PVD裝置產業化等專案】匯成真空公告，公司2026年度擬向特定物件發行A股股票，募集資金總額不超過人民幣9.55億元（含本數），扣除發行費用後擬全部用於超精密半導體及連續式PVD裝置產業化專案（擬投入66,861.68萬元）及補充流動資金（擬投入28,638.32萬元）。本次發行物件不超過35名，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，發行股票數量不超過3000萬股（含本數），即不超過發行前公司總股本的30%。
-
----
-
-### 2026-08-10 20:11:11  #市場 #央行 #國際
-
-【日媒：植田暗示9月加息促成美日聯合買入日元】多位日本政府官員10日透露，日美兩國政府於美國東部時間7月31日實施了一次異乎尋常的聯合日元買入干預，這是28年來首次此類行動。其決定性因素在於，日本央行行長植田和男在當日（7月31日）的記者會上強烈暗示，將在9月及之後儘早提高政策利率。植田明確表示，如有必要將“加快加息步伐”。美方對此給予積極評價，雙方在阻止日元過度貶值方面步調一致。這是因為美國擔憂，日本加息遲緩已導致日元過度貶值，進而引發物價進一步上漲和長期利率攀升，這可能波及全球金融市場。一位日本政府高官透露：“植田行長的表態對美方極具說服力。同時，這也意味著日本央行在（9月17-18日的）下次政策會議上，除了加息已別無選擇。”
-
----
-
-### 2026-08-10 20:09:53  #其他
-
-【警惕！我國境內發現多起“Sorry”勒索病毒攻擊事件】近日，國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）在我國境內發現多起使用者遭“Sorry”勒索病毒攻擊事件。使用者重要檔案被加密後檔名被更改為原檔名+“.sorry”字尾字串，攻擊者還在使用者主機上留下勒索信，要求使用者下載加密通訊工具與其聯絡。（央視新聞）
-
----
-
-### 2026-08-10 20:09:00  #公司
-
-ARCHER：波音同意交易完成後對價股份實施12個月禁售期。
-
----
-
-### 2026-08-10 20:08:08  #MKT News #Important #USDJPY #Impact bearish #DXY #Impact mixed
-
-KYODO reports that signals the Bank of Japan may raise rates in September prompted U.S. intervention.
-
----
-
-### 2026-08-10 20:08:01  #央行 #焦點 #國際
-
-市場訊息：日本央行9月加息訊號促成美日聯合干預匯市。
-
----
-
-### 2026-08-10 20:07:31  #其他
-
-【上海：高快速路解除管控，東海大橋繼續封閉，長江大橋限速60公里/小時】據“上海釋出”微信公眾號8月10日19時36分訊息，市公安局交通管理總隊介紹，當前暴雨、颱風更新為藍色預警。公安交管部門針對上海市高快速路解除管控措施，恢復正常通行。東海大橋風力9級以上，繼續採取封閉措施。長江大橋風力7-8級，限速60公里/小時。
-
----
-
-### 2026-08-10 20:06:41  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) supports Texas Governor Abbott's scrutiny of data centers.
-
----
-
-### 2026-08-10 20:06:21  #其他
-
-Meta支援阿博特州長對得克薩斯州資料中心開展審查。
-
----
-
-### 2026-08-10 20:04:50  #其他
-
-【滬浙皖蘇已啟動颱風“白海豚”損失保險理賠】據浙江、安徽、江蘇、上海三省一市金融監管部門訊息，各地保險業在臺風“白海豚”造成的災害發生後，已第一時間啟動了保險理賠。（央視新聞）
-
----
-
-### 2026-08-10 20:04:39  #公司
-
-ARCHER航空擬收購波音旗下威斯克航空、SkyGrid 以及因西圖公司。
-
----
-
-### 2026-08-10 20:03:56  #MKT News #Important #Market Regions #Greater China
-
-【Korean investors lead net buying of Zhongji Xuchuang H-shares】Korea Securities Depository (KSD) unit SEIBro shows Korean investors settled USD 45.07m in buys and USD 1.67m in sells of Zhongji Xuchuang H-shares from July 8–Aug 7, for a net buy of USD 43.39m (about HKD 340m), the largest net inflow into a Hong Kong stock by Korean investors over the period. Zhongji Xuchuang H-shares began trading on July 30; in seven trading days its net buy was almost four times that of the second-ranked stock.
-
----
-
-### 2026-08-10 20:03:40  #其他
-
-Finster AI 獲得瑞銀投資，用於投行業務人工智慧專案。
-
----
-
-### 2026-08-10 20:03:34  #公司
-
-【原力靈機完成股份制改造 估值已破200億】8月10日，具身智慧大模型企業原力靈機正式完成股份制改造，更名為"原力靈機（重慶）智慧科技股份有限公司"，標誌著其上市籌備進入實質性階段。記者獲悉，公司最新估值已突破200億元，其投資方涵蓋阿里巴巴、啟明創投、蔚來資本、智譜等頭部機構和頭部大模型企業。（科創板日報）
 
 ---

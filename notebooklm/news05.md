@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 01:47:12_
-_本檔包含 2755 則快訊，約 604469 字_
+_更新時間：2026-08-16 02:42:29_
+_本檔包含 2749 則快訊，約 604041 字_
+
+---
+
+### 2026-08-10 20:11:32  #MKT News
+
+Iran's president said a meeting with the supreme leader lasted 7-8 hours.
+
+---
+
+### 2026-08-10 20:11:21  #公司
+
+【匯成真空：擬定增募資不超過9.55億元用於超精密半導體及連續式PVD裝置產業化等專案】匯成真空公告，公司2026年度擬向特定物件發行A股股票，募集資金總額不超過人民幣9.55億元（含本數），扣除發行費用後擬全部用於超精密半導體及連續式PVD裝置產業化專案（擬投入66,861.68萬元）及補充流動資金（擬投入28,638.32萬元）。本次發行物件不超過35名，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，發行股票數量不超過3000萬股（含本數），即不超過發行前公司總股本的30%。
+
+---
+
+### 2026-08-10 20:11:11  #市場 #央行 #國際
+
+【日媒：植田暗示9月加息促成美日聯合買入日元】多位日本政府官員10日透露，日美兩國政府於美國東部時間7月31日實施了一次異乎尋常的聯合日元買入干預，這是28年來首次此類行動。其決定性因素在於，日本央行行長植田和男在當日（7月31日）的記者會上強烈暗示，將在9月及之後儘早提高政策利率。植田明確表示，如有必要將“加快加息步伐”。美方對此給予積極評價，雙方在阻止日元過度貶值方面步調一致。這是因為美國擔憂，日本加息遲緩已導致日元過度貶值，進而引發物價進一步上漲和長期利率攀升，這可能波及全球金融市場。一位日本政府高官透露：“植田行長的表態對美方極具說服力。同時，這也意味著日本央行在（9月17-18日的）下次政策會議上，除了加息已別無選擇。”
+
+---
+
+### 2026-08-10 20:09:53  #其他
+
+【警惕！我國境內發現多起“Sorry”勒索病毒攻擊事件】近日，國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）在我國境內發現多起使用者遭“Sorry”勒索病毒攻擊事件。使用者重要檔案被加密後檔名被更改為原檔名+“.sorry”字尾字串，攻擊者還在使用者主機上留下勒索信，要求使用者下載加密通訊工具與其聯絡。（央視新聞）
+
+---
+
+### 2026-08-10 20:09:00  #公司
+
+ARCHER：波音同意交易完成後對價股份實施12個月禁售期。
+
+---
+
+### 2026-08-10 20:08:08  #MKT News #Important #USDJPY #Impact bearish #DXY #Impact mixed
+
+KYODO reports that signals the Bank of Japan may raise rates in September prompted U.S. intervention.
+
+---
+
+### 2026-08-10 20:08:01  #央行 #焦點 #國際
+
+市場訊息：日本央行9月加息訊號促成美日聯合干預匯市。
+
+---
+
+### 2026-08-10 20:07:31  #其他
+
+【上海：高快速路解除管控，東海大橋繼續封閉，長江大橋限速60公里/小時】據“上海釋出”微信公眾號8月10日19時36分訊息，市公安局交通管理總隊介紹，當前暴雨、颱風更新為藍色預警。公安交管部門針對上海市高快速路解除管控措施，恢復正常通行。東海大橋風力9級以上，繼續採取封閉措施。長江大橋風力7-8級，限速60公里/小時。
+
+---
+
+### 2026-08-10 20:06:41  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) supports Texas Governor Abbott's scrutiny of data centers.
+
+---
+
+### 2026-08-10 20:06:21  #其他
+
+Meta支援阿博特州長對得克薩斯州資料中心開展審查。
+
+---
+
+### 2026-08-10 20:04:50  #其他
+
+【滬浙皖蘇已啟動颱風“白海豚”損失保險理賠】據浙江、安徽、江蘇、上海三省一市金融監管部門訊息，各地保險業在臺風“白海豚”造成的災害發生後，已第一時間啟動了保險理賠。（央視新聞）
+
+---
+
+### 2026-08-10 20:04:39  #公司
+
+ARCHER航空擬收購波音旗下威斯克航空、SkyGrid 以及因西圖公司。
+
+---
+
+### 2026-08-10 20:03:56  #MKT News #Important #Market Regions #Greater China
+
+【Korean investors lead net buying of Zhongji Xuchuang H-shares】Korea Securities Depository (KSD) unit SEIBro shows Korean investors settled USD 45.07m in buys and USD 1.67m in sells of Zhongji Xuchuang H-shares from July 8–Aug 7, for a net buy of USD 43.39m (about HKD 340m), the largest net inflow into a Hong Kong stock by Korean investors over the period. Zhongji Xuchuang H-shares began trading on July 30; in seven trading days its net buy was almost four times that of the second-ranked stock.
+
+---
+
+### 2026-08-10 20:03:40  #其他
+
+Finster AI 獲得瑞銀投資，用於投行業務人工智慧專案。
+
+---
+
+### 2026-08-10 20:03:34  #公司
+
+【原力靈機完成股份制改造 估值已破200億】8月10日，具身智慧大模型企業原力靈機正式完成股份制改造，更名為"原力靈機（重慶）智慧科技股份有限公司"，標誌著其上市籌備進入實質性階段。記者獲悉，公司最新估值已突破200億元，其投資方涵蓋阿里巴巴、啟明創投、蔚來資本、智譜等頭部機構和頭部大模型企業。（科創板日報）
 
 ---
 
@@ -16506,131 +16596,5 @@ CENTCOM said the US Navy conducted maintenance on an F/A-18E Super Hornet on the
 ### 2026-08-09 02:42:31  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
 
 【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament.
-
----
-
-### 2026-08-09 02:40:34  #國際
-
-【黑海遇襲商船停靠土耳其港口】當地時間3日，與土耳其相關的商船“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。土耳其方面對商船在黑海海域遇襲已表示嚴重關切，警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。8月8日，在黑海遭到無人機襲擊、船體受損的商船“娜代日達”號停靠在土耳其薩姆松港。
-
----
-
-### 2026-08-09 02:30:31  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
-
-Zelenskiy says Ukraine will receive from the US "very strong" security guarantees after the war ends.
-
----
-
-### 2026-08-09 02:30:07  #央行 #國際
-
-伊朗央行行長：遭美國製裁的加密貨幣交易所與伊朗並無關聯，德黑蘭轉移的資金仍處於本國掌控之下。
-
----
-
-### 2026-08-09 02:29:43  #MKT News #Market Regions #Europe & UK
-
-Ukrainian President Zelenskiy said Serbia is a sovereign state and should be encouraged to integrate into the EU wherever possible.
-
----
-
-### 2026-08-09 02:29:41  #國際
-
-澤連斯基：衝突結束後，烏克蘭將獲得來自美國的 “力度極強” 的安全保障。
-
----
-
-### 2026-08-09 02:29:35  #MKT News
-
-Ukrainian President Zelenskiy said Serbia is not a 'Little Russia,' calling the label Russian political rhetoric.
-
----
-
-### 2026-08-09 02:28:49  #MKT News
-
-ZELENSKIY said he believes Serbia is on a path to rebuild its independence and break free from Russian influence.
-
----
-
-### 2026-08-09 02:23:18  #國際
-
-美國官員：儘管參謀長聯席會議主席就彈藥問題發出警告，特朗普仍決意發動戰爭，並預期戰事會迅速結束。
-
----
-
-### 2026-08-09 02:23:02  #國際
-
-美國五角大樓發言人：有關武器短缺的報道並不屬實，我們擁有開展任何打擊行動所需的全部物資。
-
----
-
-### 2026-08-09 02:22:34  #MKT News
-
-A State Duma lawmaker said the Middle East is gradually freeing itself from Western control and becoming part of a broader Eurasian security architecture.
-
----
-
-### 2026-08-09 02:17:03  #MKT News
-
-【M5.6 earthquake offshore Iwate, Japan; no tsunami expected】Japan Meteorological Agency said a magnitude-5.6 earthquake struck offshore Iwate Prefecture at 02:58 JST on the 9th (01:58 Beijing). Epicenter was near 40.1N, 142.4E with a focal depth of about 40 km. The agency said there is no tsunami threat.
-
----
-
-### 2026-08-09 02:16:51  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-【Vance: Iran told U.S. it has no plan to levy Strait of Hormuz transit fees】U.S. Vice President JD Vance told Fox News Iran has informed Washington it currently has no plan to impose transit fees on the Strait of Hormuz. He said some within the Iranian establishment discuss levies, but Tehran has denied any plan. Vance added Washington expects Gulf oil and gas exports to return to pre-war levels, that Gulf states share that objective, and that the U.S. will judge actions rather than words.
-
----
-
-### 2026-08-09 02:15:50  #國際
-
-【日本巖手縣近海發生5.6級地震】據日本氣象廳訊息，日本巖手縣近海9日凌晨發生5.6級地震。日本氣象廳說，地震發生於當地時間9日2時58分（北京時間9日1時58分）左右，震中位於北緯40.1度、東經142.4度，震源深度約40公里。日本氣象廳說，目前無需擔心發生海嘯災害。（新華社）
-
----
-
-### 2026-08-09 02:05:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli Channel 13 reports Israel is preparing for the possibility of independently resuming strikes on Iran without US support.
-
----
-
-### 2026-08-09 02:05:42  #國際
-
-美國副總統萬斯稱，伊朗告知美國，並無在霍爾木茲海峽徵收通行費的計劃。
-
----
-
-### 2026-08-09 02:02:56  #公司
-
-市場資訊：亞馬遜雲科技（AWS）要求工程師減少CPU資源浪費，算力需求激增造成EC2算力資源緊張。部分工程師申請伺服器，過去數小時即可到位，如今需要等待數日。
-
----
-
-### 2026-08-09 01:59:04  #國際
-
-美國官員：受伊朗戰爭影響彈藥庫存急劇消耗，美國正調回原本劃撥給亞洲與歐洲的彈藥。
-
----
-
-### 2026-08-09 01:58:44  #國際
-
-土耳其外長：土耳其已向俄羅斯和烏克蘭轉達立場，要求雙方宣佈暫停在黑海的軍事行動。
-
----
-
-### 2026-08-09 01:58:38  #MKT News #Brent #Impact bearish #WTI
-
-Turkey's foreign minister said Ankara has told Russia and Ukraine they should stop attacks in the Black Sea.
-
----
-
-### 2026-08-09 01:48:50  #其他
-
-【中國代表隊首次參加國際核科學奧賽 獲一金三銀】2026年國際核科學奧林匹克競賽8日晚在沙烏地阿拉伯西部城市吉達閉幕，中國代表隊首次參賽，4名選手獲得一金三銀，總成績居參賽國家前列。（新華社）
-
----
-
-### 2026-08-09 01:47:53  #其他
-
-【秘魯庫斯科一客車與一卡車相撞 致9死6傷】當地時間8月8日凌晨，秘魯庫斯科大區埃斯皮納爾省帕爾帕塔區發生一起嚴重交通事故。一輛載客小型客車與一輛半掛式卡車發生猛烈碰撞，造成至少9人死亡、6人受傷。（央視新聞）
 
 ---
