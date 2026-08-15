@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:29:00_
-_本檔包含 3222 則快訊，約 605400 字_
+_更新時間：2026-08-15 19:53:07_
+_本檔包含 3215 則快訊，約 605645 字_
+
+---
+
+### 2026-08-11 22:23:17  #MKT News #ORCL.O #Impact bullish
+
+Texas governor says Oracle has pledged to comply with data-center standards.
+
+---
+
+### 2026-08-11 22:22:12  #MKT News
+
+Market sources: Pakistan's interior minister to meet Iran's foreign minister.
+
+---
+
+### 2026-08-11 22:20:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Falls for 2nd Session — The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the supramax index went down 0.2% to 1,600, the lowest in nine weeks. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.3% to 2,312, its highest level since June 2.
+
+---
+
+### 2026-08-11 22:20:04  #MKT News
+
+【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict.
+
+---
+
+### 2026-08-11 22:18:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report.
+
+---
+
+### 2026-08-11 22:17:59  #國際
+
+【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。
 
 ---
 
@@ -19341,83 +19377,5 @@ SIONNA Therapeutics 公佈主要終點更新資料後，盤前股價暴跌 87%
 ### 2026-08-10 19:11:03  #公司
 
 【博世科：向特定物件發行股票獲證監會同意註冊批覆】博世科公告，公司於2026年8月10日收到中國證券監督管理委員會出具的《關於同意廣西博世科環保科技股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1823號），同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。
-
----
-
-### 2026-08-10 19:10:59  #公司
-
-【德邦科技：2026年半年度淨利潤6805.53萬元，同比增49.33%】德邦科技公告，2026年半年度營業收入8.8億元，同比增長27.54%；歸屬於上市公司股東的淨利潤6805.53萬元，同比增長49.33%；扣非淨利潤6382.84萬元，同比增長44.12%。公司擬向全體股東每10股派發現金紅利1元（含稅），合計擬分紅金額1414.5萬元。
-
----
-
-### 2026-08-10 19:10:56  #其他
-
-【水利部滾動會商部署颱風“白海豚”暴雨洪水防禦工作】8月10日上午，國家防總副總指揮、水利部部長李國英主持專題會商，滾動分析研判今年第13號颱風“白海豚”發展態勢及影響，對臺風暴雨洪水防禦工作再部署、再落實。李國英要求，全力以赴做好五個方面重點工作。一要進一步細化實化山洪災害防禦，確保人員不傷亡。二要進一步細化實化中小河流洪水防禦，確保重要堤防不決口。三要進一步細化實化中小水庫、病險水庫防禦，確保水庫不垮壩。四要進一步細化實化淮河、黃河、海河流域水工程排程方案。五要進一步細化實化南水北調中線工程防禦工作。
-
----
-
-### 2026-08-10 19:10:06  #公司 #焦點
-
-【宇樹科技：回撥機制啟動後，網上發行最終中籤率為0.01809759%】宇樹科技公告，回撥機制啟動後，網下最終發行數量為2,265.0148萬股，約佔扣除最終戰略配售數量後發行數量的70.00%；網上最終發行數量為970.7000萬股，約佔扣除最終戰略配售數量後發行數量的30.00%。回撥機制啟動後，網上發行最終中籤率為0.01809759%。
-
----
-
-### 2026-08-10 19:09:51  #公司
-
-【青松股份：證券簡稱變更為“諾斯貝爾”，8月11日啟用】8月10日，青松股份釋出公告，公司中文名稱由“福建青松股份有限公司”變更為“福建諾斯貝爾控股股份有限公司”，證券簡稱由“青松股份”變更為“諾斯貝爾”，啟用時間為2026年8月11日，證券程式碼“300132”保持不變。
-
----
-
-### 2026-08-10 19:09:05  #公司 #國際
-
-帝亞吉歐印度分公司表示，正就此事項與印度監管機構溝通，旗下產品絕對安全。
-
----
-
-### 2026-08-10 19:08:57  #國際
-
-訊息人士及檔案顯示，印度食品安全機構扣押帝亞吉歐產品瓶身，原因是據稱其未按要求標註再生塑膠標識。
-
----
-
-### 2026-08-10 19:08:13  #公司
-
-【天合光能：盤基投資、高紀凡擬詢價轉讓3630萬股，佔總股本1.55%】天合光能公告，公司股東江蘇盤基投資有限公司、高紀凡擬透過詢價轉讓方式轉讓公司首發前股份合計3630萬股，佔公司總股本的1.55%。其中，江蘇盤基投資有限公司擬轉讓20萬股，佔公司總股本的0.01%；高紀凡擬轉讓3610萬股，佔公司總股本的1.54%。轉讓原因為自身資金需求。本次詢價轉讓不透過集中競價交易方式或大宗交易方式進行，不屬於透過二級市場減持。受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓後6個月內不得轉讓。
-
----
-
-### 2026-08-10 19:07:59  #公司
-
-【昀冢科技：定增申請獲上交所受理】昀冢科技公告，公司於2026年8月10日收到上海證券交易所出具的《關於受理蘇州昀冢電子科技股份有限公司科創板上市公司發行證券申請的通知》，上交所認為公司報送的申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。公司本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會作出同意註冊的決定後方可實施。
-
----
-
-### 2026-08-10 19:07:57  #其他
-
-JSW 能源自 4 月以來新增 1166 兆瓦可再生能源裝機容量。
-
----
-
-### 2026-08-10 19:07:20  #公司
-
-【盛弘股份：2026年上半年淨利2.28億元，同比增長44.11%】盛弘股份公告，2026年上半年營業收入17.59億元，同比增長29.16%；歸母淨利潤2.28億元，同比增長44.11%，2025年同期淨利潤1.58億元；扣非淨利潤2.28億元，同比增長50.45%。利潤分配預案：以3.12億股為基數，每10股派發現金紅利3.3元（含稅），送紅股0股（含稅），不以公積金轉增股本。
-
----
-
-### 2026-08-10 19:07:12  #公司
-
-【兆馳股份：擬3億元—5億元回購股份】兆馳股份(002429)8月10日公告，公司擬以3億元—5億元回購股份，用於維護公司價值及股東權益（出售）。回購價格不超過13.99元/股。
-
----
-
-### 2026-08-10 19:06:59  #公司
-
-【北京君正：擬H股上市、變更簡稱並回購股份】北京君正公告稱，公司第六屆董事會第十三次會議審議透過多項議案。同意H股全球發售及在港交所主機板上市相關安排；擬修訂公司章程及配套制度；因2024年限制性股票激勵計劃歸屬完成，總股本增加，修訂公司章程並變更註冊資本；公司及全資子公司擬向銀行申請不超20億元綜合授信，期限1年；擬將證券簡稱變更為“君正股份”；擬以集中競價回購股份用於激勵，方案將在H股香港公開發售截止日起第30個自然日（不含）起3個月內完成。
-
----
-
-### 2026-08-10 19:06:43  #公司
-
-【中國鈾業：增加2026年度日常關聯交易預計金額27.15億元】中國鈾業公告稱，公司於8月10日召開會議，同意2026年度與關聯方中核集團及其控股子公司增加日常關聯交易預計金額27.15億元。增加後，2026年度預計金額不超277.12億元。本次增加尚需提交股東會審議，關聯股東需迴避表決。關聯交易定價遵循公平等原則，具有必要性和合理性，不會損害股東利益及影響公司經營獨立性。
 
 ---

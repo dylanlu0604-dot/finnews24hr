@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:29:00_
-_本檔包含 3122 則快訊，約 605393 字_
+_更新時間：2026-08-15 19:53:07_
+_本檔包含 3125 則快訊，約 605362 字_
+
+---
+
+### 2026-08-13 04:46:17  #公司
+
+思科執行長在電話會議上表示，未來六個月，公司有望拿下多項AI設計訂單，覆蓋G300、G200、P200 Silicon One晶片及光模組產品。
+
+---
+
+### 2026-08-13 04:46:09  #宏觀 #國際
+
+美國國務院批評以色列國防部長卡茨，表示以色列在黎巴嫩南部的軍事部署違背相關協議；而卡茨稱以色列國防軍將在安全區保持長期駐軍。
+
+---
+
+### 2026-08-13 04:45:58  #國際
+
+伊朗方面稱，有報告顯示格什姆島附近出現石油汙染，將此事歸咎於一艘外籍油輪，要求就波斯灣的環境破壞追究責任。
+
+---
+
+### 2026-08-13 04:45:29  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #SPGI.N
+
+S&P Global expands its partnership with Microsoft (MSFT.O) to integrate its rich, key intelligence data into Microsoft 365 Copilot.
+
+---
+
+### 2026-08-13 04:45:07  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Extends Losses — The Ibovespa shed 0.2% to close at 167,491 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Financials were mostly lower, with Itaú losing 1.5%. B3 fell 0.3% after reporting a 15.5% year-on-year increase in expenses. Banco do Brasil added 0.8% ahead of its earnings report due after the bell. Vale shed 1.6% as iron ore prices declined, while CSN rose 0.9% ahead of its earnings. Petrobras fell 0.5% as oil prices turned lower. Rede D’Or (-2%) and Sabesp (+0.5%) are scheduled to release results after the close. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer rates, and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target.
+
+---
+
+### 2026-08-13 04:40:27  #MKT News
+
+According to Axios, a senior US State Department official said the US is urging all parties to abide by the framework agreement. The official said Israel has made clear it does not intend to occupy Lebanese territory and that prolonged Israeli deployments in southern Lebanon would breach the agreement and undermine long-term peace and security.
+
+---
+
+### 2026-08-13 04:39:32  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Axios reports the Trump administration criticized Israeli Defense Minister KATZ's remarks advocating continued occupation of southern Lebanon, saying the comments breach commitments in agreements Israel signed with the U.S. and Lebanon.
+
+---
+
+### 2026-08-13 04:37:37  #資料 #國際
+
+美國經濟顧問委員會主席：CPI報告削弱了加息的理由。
+
+---
+
+### 2026-08-13 04:35:13  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index fell 37 points or 0.07 percent on Wednesday to close at 53755 points. Leading the losses are Home Depot (-2.96%), Salesforce (-2.53%) and Microsoft (-2.30%). Top gainers were Nvidia (3.04%), Cisco Systems (2.69%) and Walmart (2.38%).
 
 ---
 
@@ -18806,41 +18860,5 @@ The Russian Defence Ministry said Russian forces sank a patrol boat in waters so
 ### 2026-08-11 22:23:54  #公司 #國際
 
 【拉脫維亞啟動全國協同行動遏制非法移民】拉脫維亞政府11日啟動代號“狼人行動”的全國協同行動，以遏制該國與白俄羅斯接壤的邊境非法移民活動。據拉脫維亞總理府釋出的新聞公告，此次行動由總理安德里斯·庫爾貝格斯發起，總理府危機管理中心協調內政部下屬邊防警衛隊、國家警察局以及國家武裝部隊等多方聯合行動，計劃持續到8月底。自2021年以來，拉脫維亞方面因移民強行越境持續收緊與白俄羅斯交界處的邊境管制政策，帕特涅基口岸現僅允許機動車通行。拉脫維亞政府7月1日決定將拉白邊境地區的強化警戒狀態延長至今年年底。據當地媒體報道，今年以來，拉脫維亞邊防人員已攔截近9500次非法越境企圖。（新華社）
-
----
-
-### 2026-08-11 22:23:17  #MKT News #ORCL.O #Impact bullish
-
-Texas governor says Oracle has pledged to comply with data-center standards.
-
----
-
-### 2026-08-11 22:22:12  #MKT News
-
-Market sources: Pakistan's interior minister to meet Iran's foreign minister.
-
----
-
-### 2026-08-11 22:20:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls for 2nd Session — The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the supramax index went down 0.2% to 1,600, the lowest in nine weeks. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.3% to 2,312, its highest level since June 2.
-
----
-
-### 2026-08-11 22:20:04  #MKT News
-
-【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict.
-
----
-
-### 2026-08-11 22:18:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report.
-
----
-
-### 2026-08-11 22:17:59  #國際
-
-【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。
 
 ---

@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:29:00_
-_本檔包含 3071 則快訊，約 605800 字_
+_更新時間：2026-08-15 19:53:07_
+_本檔包含 3066 則快訊，約 605786 字_
+
+---
+
+### 2026-08-15 19:50:49  #宏觀 #焦點
+
+【8月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】法治護航美麗中國建設 築牢中華民族永續發展生態根基； 2.文獻紀錄片《江澤民》今晚繼續播出； 3.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】北京建設歷史文化名城 讓保護與發展相融共生； 4.日本無條件投降81週年 各地舉行活動銘記歷史緬懷先烈； 5.我國多措並舉加快綠色低碳發展； 6.多地出現強降雨天氣 防汛救災加緊進行； 7.各地創新舉措 推進完整社群建設； 8.【新聞特寫】中國，我還會再來！ 9.國內聯播快訊： （1）前7個月全國鐵路傳送旅客28億人次； （2）前7個月中國—中東歐國家經貿合作示範區貿易額超370億元； （3）我國進一步規範檢驗類醫療服務專案收費； （4）中消協釋出《中國消費者綠色消費指南（2026版）》； （5）中歐北極快航季節性航線開啟常態化運營； （6）“CMG電影文化嘉年華·天津專場”啟動； 10.日本民眾舉行集會 敦促日本政府反省侵略戰爭罪行； 11.國際人士批評日本歪曲歷史 加速“再軍事化”等危險舉動； 12.國際聯播快訊： （1）印尼發生7.7級強震 已致38人死亡； （2）伊朗稱美破壞停火 協議無法延長； （3）古巴譴責美對古實施極限施壓和經濟扼殺； （4）資料顯示8月美消費者信心指數顯著下滑； （5）乾旱持續 歐洲多條河流水位達新低。
+
+---
+
+### 2026-08-15 19:47:26  #MKT News #Important
+
+【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing.
+
+---
+
+### 2026-08-15 19:47:24  #國際
+
+【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。
+
+---
+
+### 2026-08-15 19:47:11  #國際
+
+【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）
+
+---
+
+### 2026-08-15 19:45:59  #其他
+
+【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）
+
+---
+
+### 2026-08-15 19:42:20  #國際
+
+美國地質調查局：印尼PEMATANGSIANTAR西北偏北15公里處發生6.9級地震。
+
+---
+
+### 2026-08-15 19:41:44  #國際
+
+【印尼7.7級地震死亡人數升至40人】印尼國家搜救局公佈的最新資料顯示，截至印尼雅加達時間18時30分（震區時間19時30分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至40人，另有50人受傷。
+
+---
+
+### 2026-08-15 19:40:32  #觀點
+
+【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）
+
+---
+
+### 2026-08-15 19:39:00  #MKT News
+
+cenc measured a magnitude-4.4 earthquake at 19:30 on Aug 15 offshore Yilan County, Taiwan, with a focal depth of 73 km.
+
+---
+
+### 2026-08-15 19:36:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian outlet Fars News reported military officials said three Iranian air force personnel, who went missing after a March operation targeting US bases, are now being held in Qatar.
+
+---
+
+### 2026-08-15 19:36:26  #國際
+
+伊朗軍方訊息人士稱，3月份針對美軍基地的行動中失蹤的三名伊朗空軍人員目前正被卡達扣押。
+
+---
+
+### 2026-08-15 19:34:04  #MKT News #Market Regions #Europe & UK #Commodities #Energy
+
+【Hungarian PM Magyar says controlled barge sinking begun to raise water and secure Paks nuclear plant】Hungarian Prime Minister Magyar said at a Paks nuclear plant briefing on the 15th that controlled sinking of barges has begun; although Danube main-channel levels remain lower, water at the plant’s pumping station has risen about 1 cm. He warned that without the intervention the Danube could fall to extremely low levels by the evening of the 16th, forcing one of the two operating turbines offline and possibly triggering a full shutdown. Magyar said the barge sinking and construction of a submerged weir are intended to prevent that outcome.
+
+---
+
+### 2026-08-15 19:33:46  #其他
+
+【匈牙利總理：已開始沉船作業抬升水位 保障核電站執行】匈牙利總理毛焦爾當地時間15日在保克什核電站舉行的新聞釋出會上表示，駁船的受控沉降工作已經開始，儘管多瑙河主河道的水位仍在下降，但核電站泵站處的水位已上升了一釐米。毛焦爾表示，若不採取這一干預措施，16日晚間，多瑙河水位將降至極低水平，迫使該核電站兩臺仍在執行的渦輪機中的一臺停機，並可能導致後續全面停機。他指出，沉降駁船和建造潛堰正是為了防止這種情況發生。（央視新聞）
 
 ---
 
@@ -18408,113 +18486,5 @@ Japan bought foreign equities JPY 963.5 bln in the week to Aug. 7; prior week sa
 ### 2026-08-14 07:50:39  #MKT News #Economic Calendar #Important
 
 Japan | Weekly Foreign investment in Japanese Bonds (Aug.7) | actual -58700000000B | previous 558900000000B
-
----
-
-### 2026-08-14 07:50:36  #經濟數據 #日本
-
-日本至8月7日當週外資買進日股-3685億日元，前值-3925億日元。
-
----
-
-### 2026-08-14 07:50:33  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Stocks Buying (Aug.7) | actual 963500000000B | previous -276400000000B
-
----
-
-### 2026-08-14 07:50:30  #MKT News
-
-Al Arabiya reports the international coalition’s air-defence system was activated in Erbil, Iraq; Iraqi sources say the drone attack on Erbil originated from Nineveh province.
-
----
-
-### 2026-08-14 07:50:14  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Japan bought JPY 1.63 trillion of foreign bonds in the week to Aug. 7, versus JPY 477.9 billion in the prior week.
-
----
-
-### 2026-08-14 07:50:10  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Foreign investors' net purchases of Japanese equities in the week to Aug. 7 were -368.5 bln yen, compared with -392.5 bln yen in the prior week.
-
----
-
-### 2026-08-14 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Bonds Buying (Aug.7) | actual 1629400000000B | previous 477900000000B
-
----
-
-### 2026-08-14 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Stocks (Aug.7) | actual -368500000000B | previous -392500000000B
-
----
-
-### 2026-08-14 07:49:42  #市場 #央行 #國際
-
-【隨著美聯儲潛在加息擔憂緩解，日經指數或上漲】隨著週四美國公佈批發價格資料後對美聯儲潛在加息的擔憂有所緩解，日本股市可能會上漲。新加坡交易所日經指數期貨上漲1.4%，報69310點。美元報159.47日元，週四東京股市收盤時為159.39日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週四上漲1.2%，至68308.59點。
-
----
-
-### 2026-08-14 07:49:27  #MKT News
-
-CENTCOM said that over the past 48 hours multiple media reports related to the USS Abraham Lincoln (CVN 72) Middle East deployment were false. A report claiming seven sailors died in a brawl aboard the carrier and other pieces suggesting a spike in suicides on board were inaccurate.
-
----
-
-### 2026-08-14 07:48:54  #公司
-
-【淡季來臨 鎢礦行業上市公司訂單以剛需為主】近期，鎢礦行業進入季節性淡季。中國證券報記者從多家上市公司處瞭解到，目前，55%以上品位鎢精礦價格大概為41萬元/噸，雖然價格相比年內最高點明顯回落，但依然處於歷史相對高位。“鎢行業每年都有淡季和旺季，目前處於季節性淡季。但訂單量仍處於正常水平，主要以剛需為主。”多家鎢行業上市公司證券部工作人員告訴記者。（中國證券報）
-
----
-
-### 2026-08-14 07:47:57  #市場 #國際
-
-基準10年期日本公債期貨早盤上漲0.25點。
-
----
-
-### 2026-08-14 07:47:53  #市場 #國際
-
-日本日經指數期貨早盤上漲1.6%。
-
----
-
-### 2026-08-14 07:47:40  #公司 #國際
-
-【美財長稱將對伊朗實施前所未見措施】美國財長貝森特當地時間8月13日晚表示，美國將對伊朗實施“前所未見”的措施。貝森特在接受採訪時稱，“這將結合前所未見的經濟孤立手段，以及針對霍爾木茲海峽的持續封鎖，從而切斷伊朗港口的所有進出通道——請密切關注下週即將釋出的更多公告。”
-
----
-
-### 2026-08-14 07:47:28  #其他
-
-【哥倫比亞強震已致281人遇難】根據哥倫比亞國家災害風險管理局釋出的最新災情統計，截至當地時間8月13日17時，該國日前發生的地震已造成281人死亡、3971人受傷、379人失蹤，已有348人獲救。
-
----
-
-### 2026-08-14 07:45:41  #市場 #觀點 #央行 #國際
-
-【高盛：如果日本央行加快升息 日元套利交易還有進一步平倉的空間】高盛表示，日本15年來最大規模的外匯干預引發了戰術性日元套利頭寸的大幅減少，其規模超過了2024年7月干預後最初的平倉量。不過，策略師Karen Reichgott Fishman在報告中指出，由於宏觀背景對日元的支撐力度仍不及2024年夏季，美元兌日元已回吐了初期跌幅的一半。儘管投機性頭寸大幅減少，但“若條件合適”，仍可能出現更多平倉；“若宏觀和市場環境支援日元走強”，頭寸甚至可能轉為淨多頭，正如2024年7月至8月的情況一樣。市場目前預計日本央行9月加息的機率約為75%，而更快的緊縮步伐可能使日元“在世界經濟增長環境未發生變化的情況下，在更長時間保持強勢”。
-
----
-
-### 2026-08-14 07:44:12  #國際
-
-【美媒：美軍對伊戰事損失至少45架“死神” 總價超13億美元】據美國《華盛頓郵報》13日援引美國官員的話報道，美軍在與伊朗的戰事中損失至少45架MQ-9“死神”無人機，約佔美軍該型無人機總數的25%。報道說，美伊戰事爆發前美軍擁有約185架“死神”無人機。該型號無人機主要用於執行偵察和定點打擊任務，被頻繁用於霍爾木茲海峽附近。無人機通常低空飛行且速度慢，相對容易被防空系統擊落。不過，美官員表示，並非所有損失的“死神”無人機都是被擊落的，一部分是在與操作員失去聯絡後墜毀，但數量不詳。報道還說，根據所搭載的感測器和武器型別不同，一架“死神”無人機的造價在3000萬美元至5000萬美元之間。這意味著在伊朗戰事持續消耗美軍武器庫存之際，僅“死神”無人機一項的損失可能就已超過13億美元。（新華社）
-
----
-
-### 2026-08-14 07:42:45  #公司
-
-【OpenAI年化營收有望突破400億美元 較2025年底大致翻倍】知情人士稱，按當前業績計算，OpenAI年化營收有望超過400億美元，較2025年底的水平大致翻倍，為該公司的華爾街上市計劃提供助力。因涉及未公開資訊而不願具名的知情人士透露，OpenAI近幾個月營收加速增長，部分得益於AI程式設計軟體業務的擴張。訂閱業務和仍處於起步階段的廣告業務也帶來增長，核心消費者業務繼續擴張。
-
----
-
-### 2026-08-14 07:42:40  #MKT News
-
-【US media: US military has lost at least 45 MQ-9 Reapers; cost tops $1.3 bln】The Washington Post on Aug. 13, citing U.S. officials, reported the U.S. military has lost at least 45 MQ-9 Reaper drones in fighting with Iran, about 25% of the fleet. Depending on sensors and weapons, a single MQ-9 costs $30–50 mln, implying Reaper losses alone may exceed $1.3 bln as the Iran conflict continues to deplete U.S. weapons stocks.
 
 ---

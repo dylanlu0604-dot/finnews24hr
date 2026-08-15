@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:29:00_
-_本檔包含 3131 則快訊，約 605330 字_
+_更新時間：2026-08-15 19:53:07_
+_本檔包含 3140 則快訊，約 606091 字_
+
+---
+
+### 2026-08-14 07:50:36  #經濟數據 #日本
+
+日本至8月7日當週外資買進日股-3685億日元，前值-3925億日元。
+
+---
+
+### 2026-08-14 07:50:33  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Stocks Buying (Aug.7) | actual 963500000000B | previous -276400000000B
+
+---
+
+### 2026-08-14 07:50:30  #MKT News
+
+Al Arabiya reports the international coalition’s air-defence system was activated in Erbil, Iraq; Iraqi sources say the drone attack on Erbil originated from Nineveh province.
+
+---
+
+### 2026-08-14 07:50:14  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Japan bought JPY 1.63 trillion of foreign bonds in the week to Aug. 7, versus JPY 477.9 billion in the prior week.
+
+---
+
+### 2026-08-14 07:50:10  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Foreign investors' net purchases of Japanese equities in the week to Aug. 7 were -368.5 bln yen, compared with -392.5 bln yen in the prior week.
+
+---
+
+### 2026-08-14 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Bonds Buying (Aug.7) | actual 1629400000000B | previous 477900000000B
+
+---
+
+### 2026-08-14 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Stocks (Aug.7) | actual -368500000000B | previous -392500000000B
+
+---
+
+### 2026-08-14 07:49:42  #市場 #央行 #國際
+
+【隨著美聯儲潛在加息擔憂緩解，日經指數或上漲】隨著週四美國公佈批發價格資料後對美聯儲潛在加息的擔憂有所緩解，日本股市可能會上漲。新加坡交易所日經指數期貨上漲1.4%，報69310點。美元報159.47日元，週四東京股市收盤時為159.39日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週四上漲1.2%，至68308.59點。
+
+---
+
+### 2026-08-14 07:49:27  #MKT News
+
+CENTCOM said that over the past 48 hours multiple media reports related to the USS Abraham Lincoln (CVN 72) Middle East deployment were false. A report claiming seven sailors died in a brawl aboard the carrier and other pieces suggesting a spike in suicides on board were inaccurate.
+
+---
+
+### 2026-08-14 07:48:54  #公司
+
+【淡季來臨 鎢礦行業上市公司訂單以剛需為主】近期，鎢礦行業進入季節性淡季。中國證券報記者從多家上市公司處瞭解到，目前，55%以上品位鎢精礦價格大概為41萬元/噸，雖然價格相比年內最高點明顯回落，但依然處於歷史相對高位。“鎢行業每年都有淡季和旺季，目前處於季節性淡季。但訂單量仍處於正常水平，主要以剛需為主。”多家鎢行業上市公司證券部工作人員告訴記者。（中國證券報）
+
+---
+
+### 2026-08-14 07:47:57  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.25點。
+
+---
+
+### 2026-08-14 07:47:53  #市場 #國際
+
+日本日經指數期貨早盤上漲1.6%。
+
+---
+
+### 2026-08-14 07:47:40  #公司 #國際
+
+【美財長稱將對伊朗實施前所未見措施】美國財長貝森特當地時間8月13日晚表示，美國將對伊朗實施“前所未見”的措施。貝森特在接受採訪時稱，“這將結合前所未見的經濟孤立手段，以及針對霍爾木茲海峽的持續封鎖，從而切斷伊朗港口的所有進出通道——請密切關注下週即將釋出的更多公告。”
+
+---
+
+### 2026-08-14 07:47:28  #其他
+
+【哥倫比亞強震已致281人遇難】根據哥倫比亞國家災害風險管理局釋出的最新災情統計，截至當地時間8月13日17時，該國日前發生的地震已造成281人死亡、3971人受傷、379人失蹤，已有348人獲救。
+
+---
+
+### 2026-08-14 07:45:41  #市場 #觀點 #央行 #國際
+
+【高盛：如果日本央行加快升息 日元套利交易還有進一步平倉的空間】高盛表示，日本15年來最大規模的外匯干預引發了戰術性日元套利頭寸的大幅減少，其規模超過了2024年7月干預後最初的平倉量。不過，策略師Karen Reichgott Fishman在報告中指出，由於宏觀背景對日元的支撐力度仍不及2024年夏季，美元兌日元已回吐了初期跌幅的一半。儘管投機性頭寸大幅減少，但“若條件合適”，仍可能出現更多平倉；“若宏觀和市場環境支援日元走強”，頭寸甚至可能轉為淨多頭，正如2024年7月至8月的情況一樣。市場目前預計日本央行9月加息的機率約為75%，而更快的緊縮步伐可能使日元“在世界經濟增長環境未發生變化的情況下，在更長時間保持強勢”。
+
+---
+
+### 2026-08-14 07:44:12  #國際
+
+【美媒：美軍對伊戰事損失至少45架“死神” 總價超13億美元】據美國《華盛頓郵報》13日援引美國官員的話報道，美軍在與伊朗的戰事中損失至少45架MQ-9“死神”無人機，約佔美軍該型無人機總數的25%。報道說，美伊戰事爆發前美軍擁有約185架“死神”無人機。該型號無人機主要用於執行偵察和定點打擊任務，被頻繁用於霍爾木茲海峽附近。無人機通常低空飛行且速度慢，相對容易被防空系統擊落。不過，美官員表示，並非所有損失的“死神”無人機都是被擊落的，一部分是在與操作員失去聯絡後墜毀，但數量不詳。報道還說，根據所搭載的感測器和武器型別不同，一架“死神”無人機的造價在3000萬美元至5000萬美元之間。這意味著在伊朗戰事持續消耗美軍武器庫存之際，僅“死神”無人機一項的損失可能就已超過13億美元。（新華社）
+
+---
+
+### 2026-08-14 07:42:45  #公司
+
+【OpenAI年化營收有望突破400億美元 較2025年底大致翻倍】知情人士稱，按當前業績計算，OpenAI年化營收有望超過400億美元，較2025年底的水平大致翻倍，為該公司的華爾街上市計劃提供助力。因涉及未公開資訊而不願具名的知情人士透露，OpenAI近幾個月營收加速增長，部分得益於AI程式設計軟體業務的擴張。訂閱業務和仍處於起步階段的廣告業務也帶來增長，核心消費者業務繼續擴張。
+
+---
+
+### 2026-08-14 07:42:40  #MKT News
+
+【US media: US military has lost at least 45 MQ-9 Reapers; cost tops $1.3 bln】The Washington Post on Aug. 13, citing U.S. officials, reported the U.S. military has lost at least 45 MQ-9 Reaper drones in fighting with Iran, about 25% of the fleet. Depending on sensors and weapons, a single MQ-9 costs $30–50 mln, implying Reaper losses alone may exceed $1.3 bln as the Iran conflict continues to deplete U.S. weapons stocks.
 
 ---
 
@@ -18835,59 +18943,5 @@ Iran foreign ministry spokesman BAGHAEI said oil pollution was detected recently
 ### 2026-08-13 04:47:28  #MKT News #Market Themes #Chip Wars
 
 【Cerebras Q2 mixed results; shares tumble 17% after hours】AI chipmaker Cerebras reported Q2 revenue $210m, up 103% YoY. Cloud revenue surged to $126m, nearly 4x YoY, while hardware sales fell 23% to $54.1m. The company posted a net loss of $450.5m in the quarter versus net income of $309.5m a year earlier. Cerebras raised full-year core revenue guidance to $880m–$890m from $855m–$865m previously. It said core gross margin will expand to 38–40% this quarter to address investor concerns. Shares fell more than 17% in after-hours trading. Since its May IPO the stock has risen about 42%. The company, originally positioned as a challenger to NVIDIA, now derives its largest revenue from cloud services.
-
----
-
-### 2026-08-13 04:46:17  #公司
-
-思科執行長在電話會議上表示，未來六個月，公司有望拿下多項AI設計訂單，覆蓋G300、G200、P200 Silicon One晶片及光模組產品。
-
----
-
-### 2026-08-13 04:46:09  #宏觀 #國際
-
-美國國務院批評以色列國防部長卡茨，表示以色列在黎巴嫩南部的軍事部署違背相關協議；而卡茨稱以色列國防軍將在安全區保持長期駐軍。
-
----
-
-### 2026-08-13 04:45:58  #國際
-
-伊朗方面稱，有報告顯示格什姆島附近出現石油汙染，將此事歸咎於一艘外籍油輪，要求就波斯灣的環境破壞追究責任。
-
----
-
-### 2026-08-13 04:45:29  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #SPGI.N
-
-S&P Global expands its partnership with Microsoft (MSFT.O) to integrate its rich, key intelligence data into Microsoft 365 Copilot.
-
----
-
-### 2026-08-13 04:45:07  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Extends Losses — The Ibovespa shed 0.2% to close at 167,491 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Financials were mostly lower, with Itaú losing 1.5%. B3 fell 0.3% after reporting a 15.5% year-on-year increase in expenses. Banco do Brasil added 0.8% ahead of its earnings report due after the bell. Vale shed 1.6% as iron ore prices declined, while CSN rose 0.9% ahead of its earnings. Petrobras fell 0.5% as oil prices turned lower. Rede D’Or (-2%) and Sabesp (+0.5%) are scheduled to release results after the close. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer rates, and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target.
-
----
-
-### 2026-08-13 04:40:27  #MKT News
-
-According to Axios, a senior US State Department official said the US is urging all parties to abide by the framework agreement. The official said Israel has made clear it does not intend to occupy Lebanese territory and that prolonged Israeli deployments in southern Lebanon would breach the agreement and undermine long-term peace and security.
-
----
-
-### 2026-08-13 04:39:32  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Axios reports the Trump administration criticized Israeli Defense Minister KATZ's remarks advocating continued occupation of southern Lebanon, saying the comments breach commitments in agreements Israel signed with the U.S. and Lebanon.
-
----
-
-### 2026-08-13 04:37:37  #資料 #國際
-
-美國經濟顧問委員會主席：CPI報告削弱了加息的理由。
-
----
-
-### 2026-08-13 04:35:13  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index fell 37 points or 0.07 percent on Wednesday to close at 53755 points. Leading the losses are Home Depot (-2.96%), Salesforce (-2.53%) and Microsoft (-2.30%). Top gainers were Nvidia (3.04%), Cisco Systems (2.69%) and Walmart (2.38%).
 
 ---
