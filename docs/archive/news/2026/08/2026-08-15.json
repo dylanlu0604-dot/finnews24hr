@@ -1,7 +1,37 @@
 {
   "date": "2026-08-15",
-  "count": 426,
+  "count": 429,
   "items": [
+    {
+      "id": "5042079",
+      "time": "2026-08-15 08:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京致電金正恩：俄朝正在各方面積極合作】據朝中社15日報道，朝鮮國務委員長金正恩14日收到俄羅斯總統普京發來的賀電。賀電慶祝朝鮮“祖國解放日”，並表示俄朝正在各方面積極合作，為保障地區安全穩定共同努力。賀電說，俄羅斯和朝鮮的關係已提升到全面戰略伙伴關係，俄朝兩國將繼續推進涉及緊迫的雙邊及國際問題的共同事業。（新華社）"
+    },
+    {
+      "id": "mkt:01a002e2-71a9-7aab-9046-d6695ee6347f",
+      "time": "2026-08-15 08:46:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil ETF holdings: USO and BNO add exposure on Aug 14; WTI rise outpaces Brent】Aug 14 — WTI (USO) nominal exposure ~24.5839 mln barrels, up 2.3360 mln barrels on the day. Brent (BNO) futures positions ~7.6220 mln barrels, up 0.0460 mln barrels on the day. Both ETF exposures rose, with the WTI increase substantially larger."
+    },
+    {
+      "id": "5042078",
+      "time": "2026-08-15 08:45:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破81美元，日內漲超1.5%。"
+    },
     {
       "id": "5042077",
       "time": "2026-08-15 08:45:18",
