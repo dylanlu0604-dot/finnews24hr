@@ -1,7 +1,26 @@
 {
   "date": "2026-08-15",
-  "count": 730,
+  "count": 732,
   "items": [
+    {
+      "id": "mkt:01a0056b-bfa2-7aab-9049-2f3a4310063f",
+      "time": "2026-08-15 20:35:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Yemen's military vows a strong response to a Houthi attack on the port city of Mocha, Al Arabiya reports."
+    },
+    {
+      "id": "mkt:01a0056b-5d0b-7aab-9049-209fcef16718",
+      "time": "2026-08-15 20:35:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Oman News Agency (ONA) said oil contamination has reached about 12 km of shoreline near Ras Madrakah; Masirah Island has not been affected. Cleanup operations on the leaking oil tanker have progressed."
+    },
     {
       "id": "mkt:01a0056a-4197-7aab-9049-1ae685d63805",
       "time": "2026-08-15 20:34:04",
