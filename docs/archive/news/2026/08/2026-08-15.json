@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 502,
+  "count": 505,
   "items": [
+    {
+      "id": "mkt:01a0036f-d23e-7aab-9047-376b7b34083b",
+      "time": "2026-08-15 11:20:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SOUTH KOREA'S LEE proposes 'inclusive, stable' blueprint for peaceful coexistence with N. KOREA】On the 15th, SOUTH KOREA'S LEE proposed an \"inclusive, stable blueprint for peaceful coexistence\" and said he would begin a process to transform the Korean Peninsula's unstable armistice system into a peace regime."
+    },
+    {
+      "id": "5042144",
+      "time": "2026-08-15 11:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克原油出口創海峽封鎖以來新高 日均200萬桶】伊拉克石油部14日說，8月初以來，該國日均原油出口量回升至200萬桶，創下2月28日中東戰事爆發、霍爾木茲海峽航運受阻以來的最高水平。伊拉克石油部長巴西姆·穆罕默德·胡達伊爾在新聞釋出會上說，“本月初以來，原油出口達到每日200萬桶”，累計出口約2600萬桶。中東戰事爆發前，伊拉克日均原油產量約400萬桶，月均出口約1.05億桶，大部分從伊南部巴士拉石油終端、經霍爾木茲海峽外運。（新華社）"
+    },
+    {
+      "id": "5042143",
+      "time": "2026-08-15 11:19:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明15日提出“包容穩定的對朝和平共處藍圖”，表示將開啟把朝鮮半島不穩定的停戰體制轉變為和平體制的程序。（新華社）"
+    },
     {
       "id": "5042142",
       "time": "2026-08-15 11:16:48",
