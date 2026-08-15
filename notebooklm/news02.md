@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 21:57:16_
-_本檔包含 3111 則快訊，約 605112 字_
+_更新時間：2026-08-15 22:33:52_
+_本檔包含 3107 則快訊，約 605079 字_
+
+---
+
+### 2026-08-14 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Semiconductor Manufacturing International earnings above expectations at 0.40 CNY — Semiconductor Manufacturing International (688981) released earnings per share at 0.40 CNY, compared to market expectations of 0.26 CNY.
+
+---
+
+### 2026-08-14 08:11:44  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
+
+Semiconductor Manufacturing International earnings above expectations at 0.06 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.06 USD, compared to market expectations of 0.04 USD.
+
+---
+
+### 2026-08-14 08:11:44  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
+
+China Mobile earnings above expectations at 1.84 HKD — China Mobile (941) released earnings per share at 1.84 HKD, compared to market expectations of 1.38 HKD.
+
+---
+
+### 2026-08-14 08:11:09  #MKT News #Market Regions #Japan & APAC
+
+Australia's S&P/ASX 200 opened down 53.3 points (-0.58%) at 9,135.2 on Aug 14 (Fri).
+
+---
+
+### 2026-08-14 08:10:55  #MKT News
+
+【U.S. denies reports of crew deaths, suicide surge aboard USS Abraham Lincoln】U.S. Central Command (CENTCOM) said on social media that multiple media reports in the past 48 hours about the USS Abraham Lincoln's Middle East deployment were "false." CENTCOM said claims that seven sailors died in a shipboard brawl and that onboard suicide ideation had surged were "fabricated," and that there have been no deaths aboard the carrier; a sailor who went overboard on Aug. 3 was rapidly and safely rescued. CENTCOM added the Lincoln has one of the Navy's highest re-enlistment rates and, after more than 260 days at sea, roughly 10,000 sorties and 1.5 million pounds of ordnance, the carrier strike group's sailors and Marines remain "resolute" with "high morale."
 
 ---
 
@@ -18715,59 +18745,5 @@ NZX 50 Tracks Wall Street Higher — New Zealand's stocks advanced 33 points, or
 ### 2026-08-13 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
 
 Crypto Updates: Binance Drops by 1.12% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.12% decrease.
-
----
-
-### 2026-08-13 06:43:57  #其他
-
-巴西淡水河谷：薩洛博CPF專案推進至執行階段。
-
----
-
-### 2026-08-13 06:43:46  #公司
-
-淡水河谷：淡水河谷基礎金屬公司預計將在2028年上半年啟動該專案運營，較原計劃提前一年。
-
----
-
-### 2026-08-13 06:43:11  #MKT News #WTI #Impact mixed #Brent
-
-ABC reports the US plans to withdraw all troops from Iraq before Sept. 30, ending its military presence dating to the 2003 invasion; Iraqi forces will assume full responsibility for combating Islamic State (ISIS).
-
----
-
-### 2026-08-13 06:41:27  #其他 #焦點
-
-【蘋果洽談向出版商付費，最佳化人工智慧Siri】蘋果正與出版商洽談新合作，計劃使用其內容為Siri語音助手提供實時新聞資訊，以此最佳化這款AI驅動的語音助手。知情人士透露，這家iPhone廠商近幾個月已接觸多家出版商。據悉，擬議的多年合作協議將向蘋果開放相關內容，用於今年晚些時候推出的AI版Siri。部分知情人士稱，蘋果提出浮動報酬方案，合作出版商的內容被使用即可獲得報酬，蘋果還探討過這筆支出或達九位數的預算。
-
----
-
-### 2026-08-13 06:40:53  #國際
-
-美國媒體：美國有望在9月30日前撤出全部駐伊拉克部隊，結束自2003年入侵以來的軍事存在，伊拉克部隊將全權承擔打擊伊斯蘭國的任務。
-
----
-
-### 2026-08-13 06:40:22  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact mixed
-
-【Apple in talks to pay publishers to license content for Siri】The Wall Street Journal, citing people familiar with the matter, reports Apple (AAPL.O) is negotiating multi-year agreements with publishers to license news and information for its AI voice assistant Siri, targeting a launch later this year. Apple has proposed a floating payment model tied to content usage and has discussed a budget potentially reaching several hundred million dollars.
-
----
-
-### 2026-08-13 06:40:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Corn Rises by 4.64% — Top commodity gainers are Corn (4.64%), Wheat (3.57%) and Barley (2%). Biggest losers are Sugar (-1.85%), Palm Oil (-1.07%) and Lumber (-0.95%).
-
----
-
-### 2026-08-13 06:39:05  #國際
-
-白宮官員：美國製裁與海上封鎖已令伊朗“徹底破產”，未來數月特朗普總統擁有諸多向德黑蘭施壓的手段。
-
----
-
-### 2026-08-13 06:36:28  #其他
-
-【中央氣象臺釋出暴雨黃色預警】中央氣象臺8月13日6時釋出暴雨黃色預警：預計，8月13日8時至14日8時，河南南部、湖北北部和東部、安徽西北部和中南部、江蘇中南部、浙江北部以及江西北部和南部、廣東中西部、貴州東部等地部分地區有大到暴雨，其中，湖北東部、安徽南部、江蘇南部、浙江北部、廣東中部等地局地有大暴雨（100毫米至180毫米）。上述部分地區伴有短時強降水（最大小時降雨量20毫米至50毫米，局地可超過70毫米），局地有雷暴大風等強對流天氣。
 
 ---

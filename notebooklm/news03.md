@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 21:57:16_
-_本檔包含 3131 則快訊，約 605850 字_
+_更新時間：2026-08-15 22:33:52_
+_本檔包含 3136 則快訊，約 605173 字_
+
+---
+
+### 2026-08-13 06:43:57  #其他
+
+巴西淡水河谷：薩洛博CPF專案推進至執行階段。
+
+---
+
+### 2026-08-13 06:43:46  #公司
+
+淡水河谷：淡水河谷基礎金屬公司預計將在2028年上半年啟動該專案運營，較原計劃提前一年。
+
+---
+
+### 2026-08-13 06:43:11  #MKT News #WTI #Impact mixed #Brent
+
+ABC reports the US plans to withdraw all troops from Iraq before Sept. 30, ending its military presence dating to the 2003 invasion; Iraqi forces will assume full responsibility for combating Islamic State (ISIS).
+
+---
+
+### 2026-08-13 06:41:27  #其他 #焦點
+
+【蘋果洽談向出版商付費，最佳化人工智慧Siri】蘋果正與出版商洽談新合作，計劃使用其內容為Siri語音助手提供實時新聞資訊，以此最佳化這款AI驅動的語音助手。知情人士透露，這家iPhone廠商近幾個月已接觸多家出版商。據悉，擬議的多年合作協議將向蘋果開放相關內容，用於今年晚些時候推出的AI版Siri。部分知情人士稱，蘋果提出浮動報酬方案，合作出版商的內容被使用即可獲得報酬，蘋果還探討過這筆支出或達九位數的預算。
+
+---
+
+### 2026-08-13 06:40:53  #國際
+
+美國媒體：美國有望在9月30日前撤出全部駐伊拉克部隊，結束自2003年入侵以來的軍事存在，伊拉克部隊將全權承擔打擊伊斯蘭國的任務。
+
+---
+
+### 2026-08-13 06:40:22  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact mixed
+
+【Apple in talks to pay publishers to license content for Siri】The Wall Street Journal, citing people familiar with the matter, reports Apple (AAPL.O) is negotiating multi-year agreements with publishers to license news and information for its AI voice assistant Siri, targeting a launch later this year. Apple has proposed a floating payment model tied to content usage and has discussed a budget potentially reaching several hundred million dollars.
+
+---
+
+### 2026-08-13 06:40:17  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Corn Rises by 4.64% — Top commodity gainers are Corn (4.64%), Wheat (3.57%) and Barley (2%). Biggest losers are Sugar (-1.85%), Palm Oil (-1.07%) and Lumber (-0.95%).
+
+---
+
+### 2026-08-13 06:39:05  #國際
+
+白宮官員：美國製裁與海上封鎖已令伊朗“徹底破產”，未來數月特朗普總統擁有諸多向德黑蘭施壓的手段。
+
+---
+
+### 2026-08-13 06:36:28  #其他
+
+【中央氣象臺釋出暴雨黃色預警】中央氣象臺8月13日6時釋出暴雨黃色預警：預計，8月13日8時至14日8時，河南南部、湖北北部和東部、安徽西北部和中南部、江蘇中南部、浙江北部以及江西北部和南部、廣東中西部、貴州東部等地部分地區有大到暴雨，其中，湖北東部、安徽南部、江蘇南部、浙江北部、廣東中部等地局地有大暴雨（100毫米至180毫米）。上述部分地區伴有短時強降水（最大小時降雨量20毫米至50毫米，局地可超過70毫米），局地有雷暴大風等強對流天氣。
 
 ---
 
@@ -18872,29 +18926,5 @@ Corn Hits 4-week Low — Corn decreased to 434.00 USd/BU, the lowest since July 
 ### 2026-08-11 23:04:15  #公司
 
 【波音7月交付53架飛機，2026年累計交付367架】波音7月交付53架飛機，其中包含39架737 MAX客機以及10架787夢想客機。該公司本月還交付1架777貨機與3架767飛機。波音7月錄得43架淨訂單，彰顯其商用飛機持續獲得市場需求。計入7月交付量，波音2026年截至目前累計交付飛機367架。
-
----
-
-### 2026-08-11 23:03:50  #公司
-
-利比亞國家石油公司負責人：扎維耶煉油廠恢復運營。
-
----
-
-### 2026-08-11 23:03:42  #Trading Economics #Markets #Commodity #Importance 1
-
-Cotton Trades Near Three-Month High — Cotton futures traded near 84 cents per pound, after reaching a three-month high of 84.5 cents, as adverse weather in key producing regions fueled supply concerns. The USDA’s latest crop progress report showed 42% of the US cotton crop was rated good to excellent, down from 46% a week earlier and 55% a year ago. Cotton is entering a critical stage of the growing season, while triple-digit temperatures and limited rainfall threaten both dryland and irrigated fields. In India, below-average monsoon rainfall is expected to persist through August, raising concerns over yields. Meanwhile, Brazil’s cotton production is projected to decline as El Niño-related dryness intensifies through September. Adding to supply concerns, China barred domestic entities from doing business with six US cotton-linked firms following Washington’s addition of 43 Chinese companies to its forced-labor import restriction list. Still, the rally has left cotton vulnerable to profit-taking as traders lock in gains.
-
----
-
-### 2026-08-11 23:03:18  #市場
-
-【城市更新預計可完成投資15萬億元】《城市更新“十五五”規劃》確定了23項重點任務，涉及培育壯大城市發展新動能、推動城市發展綠色低碳轉型、增強城市安全韌性等方面。“十五五”時期，城市更新預計可完成投資15萬億元。首先，政府資金對城市更新持續加碼。今年，中央預算內投資城市更新專項安排970億元，超長期特別國債安排1600億元專項支援地下管網建設；其次，社會資本積極跟進。像街區、廠區、園區更新，這些透過專業化運營能實現穩定收益的專案，社會資本會積極參與。銀行信貸、不動產信託投資基金、資產證券化工具會進一步豐富資金來源；普通居民也是主體之一，老舊步梯房加裝電梯、危舊房屋自主更新原拆原建，“誰受益、誰出資”，居民的自主出資也必不可少。（央視財經）
-
----
-
-### 2026-08-11 23:03:10  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Copper #SSE Composite
-
-【Urban renewal to draw 15 trillion yuan in 15th Five-Year Plan】China’s Urban Renewal 15th Five-Year Plan sets 23 priority tasks and expects 15 trillion yuan of investment over the plan period. The central budget has earmarked 97 billion yuan for urban renewal projects this year and 160 billion yuan of ultra‑long‑term special treasury bonds to support underground utility networks. Authorities say private capital will target redevelopments of neighborhoods, factories and industrial parks that offer stable returns; financing channels cited include bank loans, REITs and asset securitization. Household co‑funding is expected for projects such as adding elevators to old walk‑ups and on‑site reconstruction of hazardous housing under a “who benefits, who pays” rule.
 
 ---

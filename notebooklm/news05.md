@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 21:57:16_
-_本檔包含 2752 則快訊，約 604842 字_
+_更新時間：2026-08-15 22:33:52_
+_本檔包含 2743 則快訊，約 604702 字_
+
+---
+
+### 2026-08-10 19:41:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+【Jefferies downgrades Apple to Underperform, cuts PT to $263.66】Jefferies downgraded Apple Inc (AAPL.O) to Underperform from Hold and cut its price target to $263.66 from $285.56, implying roughly 16% downside to last Friday’s close. Analyst Edison Lee said Apple has cancelled a planned all‑glass 20th‑anniversary iPhone due to poor yields; the model was estimated to carry a blended ASP of $2,060 and Apple had planned to extend all‑glass features to future iPhone Pro/Pro Max models to lift ASPs and margins. Jefferies called the cancellation a major setback to Apple’s push for higher‑priced iPhones amid surging memory costs, lowering its iPhone ASP CAGR for FY2026–31 to 6.8% from 9.0% and trimming FY2028 EPS by 2.1%.
+
+---
+
+### 2026-08-10 19:40:59  #MKT News #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+White House National Economic Council Director Hassett said if he were at the Fed now he would keep rates unchanged or cut.
+
+---
+
+### 2026-08-10 19:40:51  #市場 #焦點
+
+美國天然氣期貨漲超4.00%，現報2.771美元/百萬英熱。
+
+---
+
+### 2026-08-10 19:40:24  #其他
+
+英特爾：在資本配置方面將繼續保持審慎。
+
+---
+
+### 2026-08-10 19:40:21  #其他
+
+英特爾擬將所得資金用於一般企業用途。
+
+---
+
+### 2026-08-10 19:40:14  #MKT News
+
+Tyumen region governor said multiple drones crashed into industrial facilities, sparking fires.
+
+---
+
+### 2026-08-10 19:39:57  #國際
+
+俄羅斯秋明州州長表示，數架無人機撞擊該州一處工業設施場地後引發火災。
+
+---
+
+### 2026-08-10 19:39:50  #央行 #國際
+
+白宮國家經濟委員會主任哈塞特：如果我現在在美聯儲任職，我會維持利率不變或者降息。
+
+---
+
+### 2026-08-10 19:39:16  #MKT News #INTC.O #Impact bearish
+
+Intel (INTC.O) announced plans to issue $15 billion of common stock.
+
+---
+
+### 2026-08-10 19:39:11  #公司 #國際
+
+【Meta釋出可單卡執行輕量AI模型 扎克伯格描繪“個人賦能新時代”】Meta .推出了一款新的人工智慧模型，其體量足夠輕量，可以在單臺電腦上執行，使用者能夠下載並根據自己的需求進行定製。Meta週一表示，這款名為Muse Glimmer的新模型是該公司Muse Spark 1.2模型的蒸餾版本，設計重點是提高效率、儘可能降低對計算機系統配置的要求。Muse Glimmer擁有300億個引數，規模“小到”只需要一張顯示卡就能執行。Meta稱，該模型將主要用於具有智慧體特徵的人工智慧任務，例如日程管理和檔案整理。Muse Glimmer的模型權重 —— 也就是幫助人工智慧系統作出決策的一系列數值引數 —— 將在Hugging Face上開放。Meta還計劃開放效能更強的Muse Spark某個版本的模型權重。Meta此次選擇以寬鬆許可證釋出這些人工智慧模型。Meta執行長馬克·扎克伯格週一發表了一篇內容廣泛、涉及多項政策主張的文章。他表示，“與其把超級智慧集中在少數人手中，我們更應該讓它廣泛普及，讓每個人都有能力使用和駕馭它。這有望開啟一個個人賦能的新時代，讓每個人都能利用這一強大的新能力，充分發揮自身潛能。”扎克伯格還將Meta的發展路線與美國競爭對手作了對比。他表示，其他公司“專注於為企業、政府或其他機構開發人工智慧”，而Meta致力於打造“人人都能擁有的個人超級智慧”。
 
 ---
 
@@ -16501,119 +16561,5 @@ Iranian media reported President Pezeshkian said now is the best time to reach a
 ### 2026-08-08 22:39:54  #MKT News #Brent #Impact bullish #XAUUSD
 
 【Analyst: War with Iran risks US credibility, could push Gulf states into alternative defence pacts】Former US State Department official Marlin Hardinger said one cost the United States would pay in a war with Iran is a loss of credibility. He noted Saudi Arabia, Turkey and Pakistan have just signed a defence agreement, which Washington has long feared: if Middle Eastern states no longer view the US as a reliable security partner or unwilling to intervene and provide protection, Gulf states can form their own alliance. In the near term such an alliance could help address urgent defence needs versus Iran; over the longer term it could begin to erode US dominance in the Gulf, a shift Hardinger warned would be negative for both Gulf countries and the United States in coming years.
-
----
-
-### 2026-08-08 22:23:20  #MKT News
-
-【Romanian Defence Ministry says radar found no aerial object crossing its airspace into Bulgaria】On Aug 8 local time, the Romanian Defence Ministry said its radar surveillance did not detect any aircraft crossing Romanian airspace into Bulgaria after explosions near the Bulgarian-Romanian border. The ministry said it is continuing to monitor the border area and will issue further information if material developments occur. Bulgarian Prime Minister Radev said a drone entered Bulgarian airspace from the Romanian direction on Aug 8 and exploded inside Bulgaria; no casualties were reported.
-
----
-
-### 2026-08-08 22:19:03  #其他
-
-阿曼呼籲各方避免採取破壞談判及進展的行動。
-
----
-
-### 2026-08-08 22:18:15  #其他
-
-阿曼：襲擊船隻的行為侵犯領土主權。
-
----
-
-### 2026-08-08 22:15:19  #MKT News #Commodities #Energy #Brent
-
-Libya's Waha Oil said the Zakut-Sidra pipeline leaked and has resumed operations after repairs.
-
----
-
-### 2026-08-08 22:14:21  #公司
-
-利比亞瓦哈石油公司稱已控制扎庫特-錫德拉管道的洩漏，經修復後已恢復運營。
-
----
-
-### 2026-08-08 22:08:20  #國際
-
-市場訊息：威特科夫和庫什納可能下週訪問莫斯科和基輔。
-
----
-
-### 2026-08-08 22:07:01  #其他
-
-萬斯：最為關注的是讓最大數量的油氣運出霍爾木茲海峽。
-
----
-
-### 2026-08-08 22:06:43  #其他
-
-【羅馬尼亞國防部稱未發現空中目標經該國領空進入保加利亞】當地時間8月8日，羅馬尼亞國防部發表宣告稱，針對當天上午在保加利亞境內、靠近羅馬尼亞邊境地區發生的爆炸事件，羅馬尼亞雷達監視系統未發現任何飛行器穿越羅馬尼亞領空進入保加利亞。羅馬尼亞國防部說，目前正持續監測羅馬尼亞邊境附近局勢，如出現相關重要資訊，將及時釋出進一步訊息。保加利亞總理拉德夫8日說，一架無人機當天自羅馬尼亞方向進入保加利亞領空並在該國境內爆炸，但未造成人員傷亡。（央視新聞）
-
----
-
-### 2026-08-08 22:06:29  #國際
-
-萬斯談伊朗談判：過去幾天取得了一些進展。
-
----
-
-### 2026-08-08 22:06:10  #其他
-
-市場訊息：易捷航空正與維珍大西洋航空洽談程式碼共享合作。
-
----
-
-### 2026-08-08 22:05:46  #國際
-
-萬斯：尋求伊朗承諾不會向船隻開火。
-
----
-
-### 2026-08-08 22:05:04  #其他
-
-萬斯：正在研究包括霍爾木茲海峽排雷在內的交通方案。
-
----
-
-### 2026-08-08 22:04:05  #國際
-
-萬斯談伊朗：我們仍然處於“比賽的中期”。
-
----
-
-### 2026-08-08 22:02:50  #其他
-
-萬斯：主要關注霍爾木茲海峽石油和天然氣產量的最大化。
-
----
-
-### 2026-08-08 22:02:28  #國際
-
-【伊朗：與阿曼“接近”達成協議但並不意味重開海峽】據伊朗法爾斯通訊社8日報道，伊朗外長阿拉格齊當天表示，伊朗與阿曼“接近”達成協議，但並不意味著重新開放霍爾木茲海峽。在8日舉行的一場記者會間隙，阿拉格齊提及伊朗同阿曼就霍爾木茲海峽通航問題談判的程序。他說：“談判正在進行，鑑於技術上的複雜性，我們正在確定一條臨時路線，我認為我們非常接近達成協議。” 阿拉格齊稱：“當然，這並不意味著霍爾木茲海峽將重新開放。海峽的開放還取決於其他條件，這包括美國違反諒解備忘錄應作出賠償。” 伊朗塔斯尼姆通訊社當天援引伊朗伊斯蘭革命衛隊發言人的話報道說，重開霍爾木茲海峽與伊朗同阿曼之間的談判無關，而是取決於美國是否完全接受伊朗的條件，並停止干涉地區談判。“一旦美國接受伊朗的條件，海峽必將重新開放。”（新華社）
-
----
-
-### 2026-08-08 22:01:32  #其他
-
-【江西釋出大風黃色預警】江西省氣象臺今天（8月8日）20時10分變更大風黃色預警訊號：預計未來6小時內，撫州市和贛州市東北部的部分地區將出現8~9級雷暴大風，局地伴有強雷電、短時強降水等強對流天氣，請注意防範。
-
----
-
-### 2026-08-08 21:59:18  #MKT News #WTI #Impact bearish #Brent
-
-Oman's state news agency said ongoing negotiations on arrangements for the Strait of Hormuz are positive and constructive.
-
----
-
-### 2026-08-08 21:58:53  #MKT News #WTI #Impact bullish #Brent
-
-Oman’s state news agency said Oman condemned Iran’s repeated attacks on vessels transiting the Strait of Hormuz.
-
----
-
-### 2026-08-08 21:58:04  #其他
-
-阿曼稱有關霍爾木茲海峽安排的持續談判是"積極且建設性的"。
 
 ---
