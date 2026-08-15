@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 14:07:58",
-  "count": 15313,
+  "updated": "2026-08-15 14:11:50",
+  "count": 15314,
   "items": [
+    {
+      "id": "mkt:01a0040b-bdbb-7aab-9047-b8e88565bdcc",
+      "time": "2026-08-15 14:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bulk carrier struck by unidentified flying object in Strait of Hormuz】Local time Aug 15, the UK Maritime Trade Operations (UKMTO) reported a maritime incident in the Strait of Hormuz. UKMTO said it received a verified report that a bulk carrier's hull was struck by an unidentified flying object. Crew are safe and no property damage has been reported."
+    },
+    {
+      "id": "5042199",
+      "time": "2026-08-15 14:07:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽發生海事事故 一艘散貨船被不明飛行物擊中】當地時間8月15日，據英國海事貿易行動處（UKMTO）釋出的訊息，霍爾木茲海峽發生一起海事事故。該機構表示已收到一份經核實的報告，稱一艘散貨船被不明飛行物擊中船體。目前船員安全，尚未收到財產損失的報告。（央視新聞）"
+    },
     {
       "id": "5042198",
       "time": "2026-08-15 14:06:17",
@@ -140197,14 +140213,6 @@
         "其他"
       ],
       "text": "【我國首個預防急性高原病藥物獲批上市】據西藏日報，近日，經國家藥品監督管理局嚴格審評審批，由西藏自治區人民醫院副院長、西藏高原醫學研究所所長格桑羅布教授擔任主要研究者的乙醯唑胺緩釋膠囊正式獲批上市，成為國內首個獲批具有預防急性高原病適應症的藥品。該藥品的獲批上市，結束了我國無專門預防急性高原病專用藥的歷史，進一步豐富了高原醫學防治手段，為高原群眾、廣大進藏人群及高原重大專案建設提供了堅實的健康保障，同時有力提升了西藏在國際高原醫學領域的科研影響力。"
-    },
-    {
-      "id": "5031830",
-      "time": "2026-08-08 14:10:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【葉門西部地區軍事衝突升級】據伊朗方面8日訊息，葉門西部地區的軍事衝突出現了升級。訊息稱，有報告顯示，葉門胡塞武裝與所謂沙特支援的“僱傭兵”在葉門西部荷臺達省豪亥地區的北部區域發生激烈衝突。（央視新聞）"
     }
   ]
 }

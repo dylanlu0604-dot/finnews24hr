@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 571,
+  "count": 573,
   "items": [
+    {
+      "id": "mkt:01a0040b-bdbb-7aab-9047-b8e88565bdcc",
+      "time": "2026-08-15 14:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bulk carrier struck by unidentified flying object in Strait of Hormuz】Local time Aug 15, the UK Maritime Trade Operations (UKMTO) reported a maritime incident in the Strait of Hormuz. UKMTO said it received a verified report that a bulk carrier's hull was struck by an unidentified flying object. Crew are safe and no property damage has been reported."
+    },
+    {
+      "id": "5042199",
+      "time": "2026-08-15 14:07:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽發生海事事故 一艘散貨船被不明飛行物擊中】當地時間8月15日，據英國海事貿易行動處（UKMTO）釋出的訊息，霍爾木茲海峽發生一起海事事故。該機構表示已收到一份經核實的報告，稱一艘散貨船被不明飛行物擊中船體。目前船員安全，尚未收到財產損失的報告。（央視新聞）"
+    },
     {
       "id": "5042198",
       "time": "2026-08-15 14:06:17",
