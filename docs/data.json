@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-16 05:56:08",
-  "count": 15257,
+  "updated": "2026-08-16 06:05:55",
+  "count": 15258,
   "items": [
+    {
+      "id": "mkt:01a00771-f18a-7aab-904b-77082917858e",
+      "time": "2026-08-16 06:01:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Heavy rain in Chiba kills nine, floods over 1,000 homes】As of the 16th, heavy rain that began on the 13th in Chiba Prefecture, Japan, has killed nine people and flooded more than 1,000 homes, the prefectural government and police said."
+    },
+    {
+      "id": "5042440",
+      "time": "2026-08-16 06:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本千葉縣暴雨已致9人死亡 超千棟房屋被淹】據日本千葉縣政府和警方16日公佈的訊息，截至目前，千葉縣13日開始的暴雨已導致9人死亡，受淹房屋超過1000棟。"
+    },
+    {
+      "id": "5042439",
+      "time": "2026-08-16 05:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部發布一張地圖，將加沙地帶與約旦河西岸標註為以色列領土。"
+    },
+    {
+      "id": "mkt:01a0076f-312c-7aab-904b-68d0f00e39c9",
+      "time": "2026-08-16 05:58:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support \"Epic Rage\", regional security missions and the U.S. maritime blockade against Iran."
+    },
+    {
+      "id": "mkt:01a0076e-5caa-7aab-904b-654099f5d9a7",
+      "time": "2026-08-16 05:57:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history."
+    },
+    {
+      "id": "mkt:01a0076c-f1d6-7aab-904b-5ff437c58891",
+      "time": "2026-08-16 05:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel."
+    },
     {
       "id": "mkt:01a0076c-5c10-7aab-904b-505d165e25b7",
       "time": "2026-08-16 05:55:36",
@@ -139606,48 +139659,6 @@
         "國際"
       ],
       "text": "美國五角大樓致函防務企業，要求擴大武器生產，限防務企業不超過21天提交擴產方案。"
-    },
-    {
-      "id": "5032116",
-      "time": "2026-08-09 06:05:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺8月9日06時繼續釋出暴雨橙色預警。"
-    },
-    {
-      "id": "mkt:019fe364-7da6-7aab-8fc6-f58952c9d67d",
-      "time": "2026-08-09 06:00:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An IRGC commander said the US and Israel have completely failed to achieve their objectives against Iran's Islamic system, and their leaders have offered no response to successive failures when facing public opinion, elites and their own people."
-    },
-    {
-      "id": "mkt:019fe361-12d6-7aab-8fc6-eb419789c50e",
-      "time": "2026-08-09 05:56:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Palestinian sources said Israeli forces shelled the northern Gaza Strip."
-    },
-    {
-      "id": "5032115",
-      "time": "2026-08-09 05:56:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大一省進入緊急狀態應對野火災情】加拿大不列顛哥倫比亞省政府8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的野火災情。不列顛哥倫比亞省省長戴維·伊比在溫哥華舉行的新聞釋出會上說：“目前狀況非常危險，火勢蔓延迅速且隨時發生變化。”他表示，政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中通道撤離受困民眾。（新華社）"
-    },
-    {
-      "id": "mkt:019fe360-79e0-7aab-8fc6-e08e448e4b0b",
-      "time": "2026-08-09 05:56:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Phase I of Bohai 19-6 gas field, Bohai's first 100-bln-m3-class field, enters full production】CNOOC said on Aug 9 Phase I of the Bohai 19-6 gas field in the central Bohai Sea has been fully commissioned, producing more than 5,200 tonnes oil-equivalent per day. The field has proven gas geological reserves exceeding 200 bln m3 and proven liquid hydrocarbon reserves over 200 mln m3. Reservoirs lie deeper than 5,000m, with wide distribution and complex reservoir types, making development significantly harder than conventional offshore fields."
     }
   ]
 }

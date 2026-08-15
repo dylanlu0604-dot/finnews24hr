@@ -1,7 +1,60 @@
 {
   "date": "2026-08-16",
-  "count": 93,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:01a00771-f18a-7aab-904b-77082917858e",
+      "time": "2026-08-16 06:01:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Heavy rain in Chiba kills nine, floods over 1,000 homes】As of the 16th, heavy rain that began on the 13th in Chiba Prefecture, Japan, has killed nine people and flooded more than 1,000 homes, the prefectural government and police said."
+    },
+    {
+      "id": "5042440",
+      "time": "2026-08-16 06:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本千葉縣暴雨已致9人死亡 超千棟房屋被淹】據日本千葉縣政府和警方16日公佈的訊息，截至目前，千葉縣13日開始的暴雨已導致9人死亡，受淹房屋超過1000棟。"
+    },
+    {
+      "id": "5042439",
+      "time": "2026-08-16 05:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部發布一張地圖，將加沙地帶與約旦河西岸標註為以色列領土。"
+    },
+    {
+      "id": "mkt:01a0076f-312c-7aab-904b-68d0f00e39c9",
+      "time": "2026-08-16 05:58:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support \"Epic Rage\", regional security missions and the U.S. maritime blockade against Iran."
+    },
+    {
+      "id": "mkt:01a0076e-5caa-7aab-904b-654099f5d9a7",
+      "time": "2026-08-16 05:57:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history."
+    },
+    {
+      "id": "mkt:01a0076c-f1d6-7aab-904b-5ff437c58891",
+      "time": "2026-08-16 05:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel."
+    },
     {
       "id": "mkt:01a0076c-5c10-7aab-904b-505d165e25b7",
       "time": "2026-08-16 05:55:36",
