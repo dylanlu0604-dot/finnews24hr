@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:39:39_
-_本檔包含 3055 則快訊，約 605147 字_
+_更新時間：2026-08-15 15:53:24_
+_本檔包含 3051 則快訊，約 604874 字_
+
+---
+
+### 2026-08-15 15:51:02  #其他
+
+【水利部：太湖流域將發生流域性大洪水】今天（15日）上午，水利部舉行會商，分析研判全國的防汛形勢，目前全國59條河流仍維持超警，太湖流域將發生流域性大洪水。截至今天9時，浙江、上海、江蘇、安徽、河南等地59條河流仍維持超警，其中30條河流維持超保。據預報，8月15日至16日，受降雨及上游來水影響，太湖流域將發生流域性大洪水，長江下游支流滁河、淮河中游支流沙潁河周口至界首河段、黑龍江干流同江以下江段維持超警；浙江省暴雨區內部分中小河流可能發生超警洪水。8月15日8時至16日8時，四川西北部、青海東南部、浙江東部發生山洪災害的可能性大（橙色預警）。水利部今天8時釋出橙色山洪災害氣象預警，維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。
+
+---
+
+### 2026-08-15 15:49:25  #其他
+
+【新方法可給單個免疫細胞“體檢”】瑞典卡羅琳醫學院與瑞典生命科學實驗室聯合開發出一種分析血液中免疫細胞狀態的新方法，可獲取單個免疫細胞的多項物理特性。測試結果顯示，該方法能夠區分動脈粥樣硬化患者與健康人群的免疫細胞。卡羅琳醫學院在新聞公報中介紹，細胞膜組織結構、線粒體功能等物理特性會影響免疫細胞的移動、細胞間通訊及其對炎症的反應，但此前難以在大規模細胞群體中同時測量這些物理特性。研究人員開發出的這種名為“光譜生物物理細胞術”的新方法，可在極大型細胞群體中，同時測量單個細胞的多種物理特性。該方法將熒光奈米感測器與先進的流式細胞術相結合，前者可感知細胞物理環境的變化，後者可利用鐳射在數分鐘內逐個分析數千個細胞，獲取每個細胞的多項物理特性。（新華社）
+
+---
+
+### 2026-08-15 15:49:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli military said it struck Hezbollah infrastructure in southern Lebanon on Saturday in response to actions against Israeli soldiers in the security zone.
+
+---
+
+### 2026-08-15 15:48:54  #國際
+
+【加拿大媒體：加美關稅談判陷入僵局】據加拿大媒體14日報道，隨著美國對加拿大加徵關稅的最後期限臨近，由於在核心利益訴求上存在重大分歧，目前加美關稅談判陷入僵局。報道說，加美兩國負責貿易事務的高階官員連日來在華盛頓展開多輪密集磋商，但雙方立場相距甚遠，目前沒有達成協議的跡象。據報道，在談判中加方訴求是美國不徵收新關稅，同時降低已經對加拿大鋼鋁、汽車和木材行業徵收的關稅。而美方要求加拿大取消對美國乳製品的進口限制、取消各省對美國酒類的銷售禁令，並廢除優先採購加拿大產品的地方規定。（新華社）
+
+---
+
+### 2026-08-15 15:47:05  #國際
+
+以色列軍方表示，週六對黎巴嫩南部的真主黨基礎設施進行了打擊，"以回應對安全區內以色列士兵的襲擊"。
+
+---
+
+### 2026-08-15 15:43:32  #MKT News
+
+【At least 33 killed in M7.7 earthquake in East Nusa Tenggara, Indonesia】At least 33 people have been killed after a magnitude-7.7 earthquake struck East Nusa Tenggara province, Indonesia, the provincial governor said, according to a reporter on the scene.
+
+---
+
+### 2026-08-15 15:42:39  #國際
+
+【印尼7.7級地震已造成至少33人死亡】當地時間15日，根據東努沙登加拉省省長的說法，印尼7.7級地震造成的死亡人數已達到33人。中國地震臺網正式測定：8月15日5時58分在印尼弗洛勒斯島附近海域（南緯8.40度，東經121.40度）發生7.7級地震，震源深度20千米。（央視新聞）
 
 ---
 
@@ -18383,71 +18425,5 @@ Wright, U.S. energy secretary, said U.S. sanctions have strangled Iran’s econo
 ### 2026-08-14 06:55:52  #公司 #市場
 
 【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
-
----
-
-### 2026-08-14 06:55:07  #MKT News #Market Themes #The Trump Trade
-
-Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations.
-
----
-
-### 2026-08-14 06:54:08  #其他
-
-巴西總統盧拉今日與墨西哥總統辛鮑姆通了電話。
-
----
-
-### 2026-08-14 06:53:12  #國際
-
-巴西正就該程式通知美國政府，並要求舉行外交磋商。
-
----
-
-### 2026-08-14 06:52:43  #國際
-
-巴西政府宣告：已啟動針對美國的貿易關稅對等反制程式。
-
----
-
-### 2026-08-14 06:52:04  #MKT News #Market Themes #The Trump Trade
-
-【U.S. media: Kennedy Center to add Trump’s name to building exterior】U.S. media reported on the 13th that the board of the Kennedy Center for the Performing Arts voted to add wording bearing U.S. President Trump’s name to the building’s exterior and to close the main building for renovations.
-
----
-
-### 2026-08-14 06:51:49  #Trading Economics #Economy #New Zealand #Tourist Arrivals #Importance 1
-
-New Zealand Tourist Arrivals Rise 8.1% in June — Visitor arrivals to New Zealand grew 8.1% year-on-year to 201,855 in June 2026, accelerating from a 6.7% rise in May, driven largely by gains from Australia. The increase was the largest in three months, although the number of visitors was lower than in May, underscoring the impact of rising oil prices due to the ongoing Middle East conflict.
-
----
-
-### 2026-08-14 06:47:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered.
-
----
-
-### 2026-08-14 06:47:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US Energy Secretary wright said Iran is trying to hold the global economy hostage.
-
----
-
-### 2026-08-14 06:47:53  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait.
-
----
-
-### 2026-08-14 06:47:02  #其他
-
-紐西蘭 6 月短期入境遊客量同比增長 8.1%。
-
----
-
-### 2026-08-14 06:40:22  #Trading Economics #Economy #New Zealand #Manufacturing PMI #Importance 2
-
-New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate.
 
 ---

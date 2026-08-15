@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:39:39_
-_本檔包含 3112 則快訊，約 604962 字_
+_更新時間：2026-08-15 15:53:24_
+_本檔包含 3115 則快訊，約 604883 字_
+
+---
+
+### 2026-08-13 01:46:56  #市場
+
+芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。
+
+---
+
+### 2026-08-13 01:46:33  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm.
+
+---
+
+### 2026-08-13 01:44:51  #國際
+
+阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。
+
+---
+
+### 2026-08-13 01:35:16  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns.
+
+---
+
+### 2026-08-13 01:34:37  #MKT News
+
+Sources say Google (GOOG.O) co-founder Sergey Brin has spent recent months urging staff to focus on returning the GEMINI model to the forefront of AI.
+
+---
+
+### 2026-08-13 01:34:05  #公司
+
+市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。
+
+---
+
+### 2026-08-13 01:32:28  #央行 #其他
+
+巴西央行：7 月美元資金淨流入規模達 19.38 億美元。
+
+---
+
+### 2026-08-13 01:26:16  #MKT News
+
+Canada is weighing a proposal to keep exempting the value of U.S.-made parts in Canadian vehicle exports from auto tariffs, even as it seeks tariff waivers from the U.S., The Globe and Mail reports.
+
+---
+
+### 2026-08-13 01:24:54  #國際
+
+該提案還將維持對加拿大出口汽車中美國產零部件價值的豁免條款。
 
 ---
 
@@ -18746,41 +18800,5 @@ An EU power coordination group discussed electricity supply security.
 ### 2026-08-11 21:40:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
 
 The Dow Jones Index Opens 0.31% Higher — The Dow Jones Index is picking up 167 points or 0.31 percent on Tuesday. Gains are led by Caterpillar (1.90%), Boeing (1.67%) and Home Depot (1.14%). Biggest losers are Nike (-1.95%), Alphabet (-1.72%) and Cisco Systems (-1.46%).
-
----
-
-### 2026-08-11 21:39:59  #市場
-
-【連日高溫晴熱 河西走廊農作物受影響 旱情或將持續】甘肅省河西走廊連日來的高溫晴熱天氣，對農作物灌溉產生不利影響。張掖市種植玉米160餘萬畝，其中制種玉米110萬畝左右。總檯記者在甘州區一處制種玉米種植基地看到，受高溫少雨缺水多因素影響，農作物生長狀況欠佳。在一些田塊，處於灌漿後期的玉米苞葉乾枯，籽粒數量少於往年。據甘肅省氣象局8月11日訊息，7月中旬以來，甘肅省大部氣溫偏高，降水整體偏多，但空間分佈不均。預計未來30天，河西山旱地和白銀市大部有輕度乾旱風險。為了保障作物生長，張掖市農業部門已採取舉措應對旱情。全市選派60餘名市級專業技術人員組建6支抗旱科技小分隊，以縣區為單位深入田間地頭，開展抗旱管護、田間保墒等技術指導服務，緩解乾旱影響、減少農業損失。（央視新聞）
-
----
-
-### 2026-08-11 21:39:53  #MKT News #Commodities #Energy
-
-Sources say Russia's SIBUR-owned petrochemical plant ZapSibNeftekhim was struck by drones on Monday and has suspended operations.
-
----
-
-### 2026-08-11 21:39:40  #市場
-
-費城半導體指數漲幅擴大至1.5%，半導體裝置板塊強勢領漲，臺積電股價上漲0.41%，阿斯麥股價上漲3.69%，應用材料股價上漲1.73%，科磊股價上漲3.6%。
-
----
-
-### 2026-08-11 21:39:27  #國際
-
-訊息人士稱，俄羅斯西布林旗下的扎普西伯石油化工石化企業週一遭無人機襲擊，目前已停止運營。
-
----
-
-### 2026-08-11 21:38:31  #公司
-
-【招商局集團與中國長安汽車簽署戰略合作框架協議】8月11日，招商局集團與中國長安汽車在深圳簽署戰略合作框架協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞物流運輸、汽車檢測認證、綜合金融、物業管理、新能源與綠色低碳等領域開展戰略合作。
-
----
-
-### 2026-08-11 21:38:08  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Mixed — US stocks were mixed on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened and lent respite to banks, with JPMorgan and Goldman Sachs inching up. Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
 
 ---

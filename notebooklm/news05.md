@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:39:39_
-_本檔包含 2765 則快訊，約 604608 字_
+_更新時間：2026-08-15 15:53:24_
+_本檔包含 2769 則快訊，約 604719 字_
+
+---
+
+### 2026-08-10 18:41:59  #國際
+
+市場訊息：印度政府及行業訊息人士透露，管制範圍將涵蓋用B級重廢蜜和甘蔗汁生產乙醇的活動。
+
+---
+
+### 2026-08-10 18:41:49  #國際
+
+市場訊息：印度政府及業內訊息人士稱，印度正考慮在新榨季限制用甘蔗生產乙醇，以增加食糖供應。
+
+---
+
+### 2026-08-10 18:41:34  #公司
+
+【大北農：完成1970.66萬股回購股份登出 涉資8003.95萬元】大北農公告稱，2026年8月7日，公司完成回購股份登出事宜，登出股份數量為1970.66萬股，佔登出前公司總股本的0.46%，涉及回購登出金額8003.95萬元。本次登出完成後，公司總股本由430.01億股減少至428.04億股。後續，公司將辦理註冊資本變更和《公司章程》修訂等工商變更登記及備案工作。
+
+---
+
+### 2026-08-10 18:41:19  #市場
+
+【國際原油期貨日內漲幅擴大至1.5%】國際原油期貨日內漲幅擴大，截至目前，WTI原油期貨價格漲1.50%，報79.350美元/桶；布倫特原油期貨價格漲1.58%，報84.872美元/桶。
+
+---
+
+### 2026-08-10 18:41:05  #市場
+
+【傑富瑞將評級下調至跑輸大盤 目標價由 285.56 美元下調至 263.66 美元】傑富瑞將蘋果評級由持有下調至跑輸大盤，並將目標價從 285.56 美元下調至 263.66 美元，意味著股價存在 16% 下行空間。該機構表示，供應鏈調研顯示，原定於 2027 年 9 月推出的全玻璃版蘋果 iPhone，因生產良率問題已被取消。受該專案受挫以及記憶體成本上漲影響，傑富瑞同時下調了 2028 財年與 2029 財年每股收益預期。
+
+---
+
+### 2026-08-10 18:40:55  #公司
+
+【居然智家：中天基業100%股權完成工商變更，實際控制人已變更為楊芳女士】居然智家公告，公司原實際控制人汪林朋先生逝世，其配偶楊芳女士透過夫妻共同財產分割及遺產繼承的方式獲得公司股份。本次權益變動後，楊芳女士合計控制公司27.36億股股份，佔公司總股本的43.93%，公司實際控制人由汪林朋先生變更為楊芳女士。進展方面，汪林朋先生持有的中天基業100%股權已完成工商變更手續，楊芳女士現持有中天基業100%股權；汪林朋先生直接持有的公司股份、居然控股股權、致達建材股權的過戶手續尚在辦理中。
+
+---
+
+### 2026-08-10 18:40:51  #其他
+
+【業內稱常規理財很難參與打新】隨著8月10日宇樹科技開啟申購，新股市場再度迎來市場關注。近期，長鑫科技等多隻新股上市之後的亮眼表現，也讓“打新”成為理財市場的營銷關鍵詞。低利率環境之下，不少投資者希望借道銀行理財產品分享新股紅利。第一財經記者實地走訪上海多家銀行網點發現，市面上不少打著 “打新” 旗號的理財產品，和大眾想象中的新股打新存在不小落差，短期亮眼收益背後暗藏底倉波動、流動性約束等風險，投資者不宜盲目跟風。專家提醒投資者，打新理財熱度走高，高收益背後要讀懂真實風險。（一財）
+
+---
+
+### 2026-08-10 18:40:38  #國際
+
+【中國駐日本大使館發言人就臺灣地區所謂“駐日代表”宣告答記者問】問：臺灣地區所謂“駐日代表”日前聲稱，“國格”與地位遭到刻意矮化，令人遺憾且失望，還說提出了“嚴正抗議”。請問發言人對此有何評論？答：臺灣不是一個國家，不存在“國格”一說。自不量力四處刷存在感，只會自取其辱。世界上只有一箇中國，臺灣是中國領土不可分割的一部分，中華人民共和國政府是代表全中國的唯一合法政府。這是國際社會的基本共識。補充一個小常識，聯合國對臺灣的稱謂是：“中國臺灣省”。（中國駐日本大使館）
+
+---
+
+### 2026-08-10 18:40:36  #MKT News
+
+【Chinese embassy in Tokyo rejects statement by Taiwan 'representative to Japan'】Responding to a Taiwan 'representative to Japan' claim that its national standing had been deliberately belittled and that it lodged a 'stern protest', a Chinese embassy spokesperson said Taiwan is not a country and the notion of 'national stature' does not apply. The spokesperson said attempts to seek attention beyond one's means only embarrass themselves, reiterated there is one China and Taiwan is an inalienable part of Chinese territory, and that the People’s Republic of China is the sole legitimate government representing all China. The spokesperson added that the United Nations refers to Taiwan as 'Taiwan Province, China'.
 
 ---
 
@@ -16663,35 +16717,5 @@ The U.S. Senate passed a stopgap funding bill to avert a government shutdown ahe
 ### 2026-08-08 15:59:40  #其他
 
 【水利部部署颱風“白海豚”暴雨洪水防禦工作】記者8日從水利部獲悉，水利部7日下午舉行專題會商，分析研判今年第13號颱風“白海豚”發展態勢及影響，系統安排部署颱風暴雨洪水防禦工作。記者瞭解到，颱風“白海豚”具有登陸強度大、攜帶水汽足、影響範圍廣、持續時間長等突出特點。受其影響，預報8月8日至16日，浙閩地區及太湖、長江、淮河、黃河、海河、遼河等流域部分河流將出現明顯漲水過程，部分中小河流可能發生較大洪水，部分地區山洪災害風險高。（新華社）
-
----
-
-### 2026-08-08 15:50:39  #MKT News #LMT.N #Impact bullish
-
-【Pentagon plans year‑end first test of 'Jinqiong' space-based missile‑defense system】Bloomberg reported on Aug. 7, citing people familiar with the matter, that the Pentagon plans a first test of its under-construction 'Jinqiong' space-based missile-defense system before year-end. In April the U.S. Space Force awarded contracts to 12 firms, including SpaceX and Lockheed Martin, to develop space-based interceptors; sources said the government is prepared to pay $60m to contractors if interceptor ground tests are successfully completed by year-end. The Space Force expects to begin procuring systems from teams that pass final testing from 2030.
-
----
-
-### 2026-08-08 15:49:56  #國際
-
-市場訊息：美國參議院獲得足夠票數透過臨時支出法案，以避免10月1日政府停擺，投票仍在進行。
-
----
-
-### 2026-08-08 15:47:18  #其他
-
-【新訂單指數回升 物流業景氣指數保持在擴張區間】中國物流與採購聯合會日前釋出資料顯示，7月份，中國物流業景氣指數為50.4%，環比回落0.2個百分點，但總體仍保持在擴張區間。物流業務總量指數小幅波動，部分行業擴張，重點領域快速發展。中國物流資訊中心副總經濟師胡焓介紹，物流業務總量指數連續3個月處於擴張區間，分領域來看，鐵路運輸業、道路運輸業、郵政快遞業、多式聯運領域業務總量指數處於擴張區間，其中多式聯運領域業務總量指數為54%，環比回升0.5個百分點。（新華社）
-
----
-
-### 2026-08-08 15:45:42  #MKT News #Hang Seng Index #Impact bearish #CSI300 #CNH
-
-【Typhoon Dolphin outer bands bring heavy rain; Shanghai, Zhejiang face up to 400–500mm】At 13:00 Beijing time today Typhoon Dolphin's center was about 465 km ESE of Wenzhou, Zhejiang, with near‑center winds of 45 m/s. Although the center remains offshore, the typhoon's outer circulation has already generated convective activity across southern Jiangsu, southeastern Anhui and Zhejiang this morning. Rain will intensify ahead of and around landfall tomorrow; southern Jiangsu, southeastern Anhui, most of Zhejiang and Shanghai are forecast to see heavy to torrential rain, with southern Shanghai and eastern Zhejiang at risk of extreme local 24‑hour totals of 400–500+ mm. Authorities warn of strong localized extremes and advise precautions.
-
----
-
-### 2026-08-08 15:44:23  #其他
-
-【颱風“白海豚”外圍環流風雨已至 上海浙江局地將有特大暴雨】今天13時，颱風“白海豚”中心位於距離浙江省溫州市東偏南方向約465公里的洋麵上，中心附近最大風力14級，45米/秒。雖然離浙江還有一定距離，但“白海豚”外圍雲系今天上午已經在江蘇南部、安徽東南部、浙江等地激發出對流。明天，颱風登陸前後，華東降雨進一步增強，江蘇南部、安徽東南部、上海、浙江大部將有大到暴雨，其中上海南部、浙江東部有特大暴雨，局地日降雨量將達到400毫米甚至500毫米以上，極端性較強，需注意防範。（央視新聞）
 
 ---

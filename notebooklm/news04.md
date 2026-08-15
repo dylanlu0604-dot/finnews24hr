@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:39:39_
-_本檔包含 3220 則快訊，約 605065 字_
+_更新時間：2026-08-15 15:53:24_
+_本檔包含 3217 則快訊，約 604792 字_
+
+---
+
+### 2026-08-11 21:39:59  #市場
+
+【連日高溫晴熱 河西走廊農作物受影響 旱情或將持續】甘肅省河西走廊連日來的高溫晴熱天氣，對農作物灌溉產生不利影響。張掖市種植玉米160餘萬畝，其中制種玉米110萬畝左右。總檯記者在甘州區一處制種玉米種植基地看到，受高溫少雨缺水多因素影響，農作物生長狀況欠佳。在一些田塊，處於灌漿後期的玉米苞葉乾枯，籽粒數量少於往年。據甘肅省氣象局8月11日訊息，7月中旬以來，甘肅省大部氣溫偏高，降水整體偏多，但空間分佈不均。預計未來30天，河西山旱地和白銀市大部有輕度乾旱風險。為了保障作物生長，張掖市農業部門已採取舉措應對旱情。全市選派60餘名市級專業技術人員組建6支抗旱科技小分隊，以縣區為單位深入田間地頭，開展抗旱管護、田間保墒等技術指導服務，緩解乾旱影響、減少農業損失。（央視新聞）
+
+---
+
+### 2026-08-11 21:39:53  #MKT News #Commodities #Energy
+
+Sources say Russia's SIBUR-owned petrochemical plant ZapSibNeftekhim was struck by drones on Monday and has suspended operations.
+
+---
+
+### 2026-08-11 21:39:40  #市場
+
+費城半導體指數漲幅擴大至1.5%，半導體裝置板塊強勢領漲，臺積電股價上漲0.41%，阿斯麥股價上漲3.69%，應用材料股價上漲1.73%，科磊股價上漲3.6%。
+
+---
+
+### 2026-08-11 21:39:27  #國際
+
+訊息人士稱，俄羅斯西布林旗下的扎普西伯石油化工石化企業週一遭無人機襲擊，目前已停止運營。
+
+---
+
+### 2026-08-11 21:38:31  #公司
+
+【招商局集團與中國長安汽車簽署戰略合作框架協議】8月11日，招商局集團與中國長安汽車在深圳簽署戰略合作框架協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞物流運輸、汽車檢測認證、綜合金融、物業管理、新能源與綠色低碳等領域開展戰略合作。
+
+---
+
+### 2026-08-11 21:38:08  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Trade Mixed — US stocks were mixed on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened and lent respite to banks, with JPMorgan and Goldman Sachs inching up. Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
 
 ---
 
@@ -19353,59 +19389,5 @@ Apple (AAPL.O) fell 1.3% premarket after JEFFERIES downgraded the stock to Under
 ### 2026-08-10 18:42:07  #MKT News
 
 Sources say India is considering capping the share of sugarcane allocated to ethanol production in the upcoming crushing season to prioritize domestic sugar supply.
-
----
-
-### 2026-08-10 18:41:59  #國際
-
-市場訊息：印度政府及行業訊息人士透露，管制範圍將涵蓋用B級重廢蜜和甘蔗汁生產乙醇的活動。
-
----
-
-### 2026-08-10 18:41:49  #國際
-
-市場訊息：印度政府及業內訊息人士稱，印度正考慮在新榨季限制用甘蔗生產乙醇，以增加食糖供應。
-
----
-
-### 2026-08-10 18:41:34  #公司
-
-【大北農：完成1970.66萬股回購股份登出 涉資8003.95萬元】大北農公告稱，2026年8月7日，公司完成回購股份登出事宜，登出股份數量為1970.66萬股，佔登出前公司總股本的0.46%，涉及回購登出金額8003.95萬元。本次登出完成後，公司總股本由430.01億股減少至428.04億股。後續，公司將辦理註冊資本變更和《公司章程》修訂等工商變更登記及備案工作。
-
----
-
-### 2026-08-10 18:41:19  #市場
-
-【國際原油期貨日內漲幅擴大至1.5%】國際原油期貨日內漲幅擴大，截至目前，WTI原油期貨價格漲1.50%，報79.350美元/桶；布倫特原油期貨價格漲1.58%，報84.872美元/桶。
-
----
-
-### 2026-08-10 18:41:05  #市場
-
-【傑富瑞將評級下調至跑輸大盤 目標價由 285.56 美元下調至 263.66 美元】傑富瑞將蘋果評級由持有下調至跑輸大盤，並將目標價從 285.56 美元下調至 263.66 美元，意味著股價存在 16% 下行空間。該機構表示，供應鏈調研顯示，原定於 2027 年 9 月推出的全玻璃版蘋果 iPhone，因生產良率問題已被取消。受該專案受挫以及記憶體成本上漲影響，傑富瑞同時下調了 2028 財年與 2029 財年每股收益預期。
-
----
-
-### 2026-08-10 18:40:55  #公司
-
-【居然智家：中天基業100%股權完成工商變更，實際控制人已變更為楊芳女士】居然智家公告，公司原實際控制人汪林朋先生逝世，其配偶楊芳女士透過夫妻共同財產分割及遺產繼承的方式獲得公司股份。本次權益變動後，楊芳女士合計控制公司27.36億股股份，佔公司總股本的43.93%，公司實際控制人由汪林朋先生變更為楊芳女士。進展方面，汪林朋先生持有的中天基業100%股權已完成工商變更手續，楊芳女士現持有中天基業100%股權；汪林朋先生直接持有的公司股份、居然控股股權、致達建材股權的過戶手續尚在辦理中。
-
----
-
-### 2026-08-10 18:40:51  #其他
-
-【業內稱常規理財很難參與打新】隨著8月10日宇樹科技開啟申購，新股市場再度迎來市場關注。近期，長鑫科技等多隻新股上市之後的亮眼表現，也讓“打新”成為理財市場的營銷關鍵詞。低利率環境之下，不少投資者希望借道銀行理財產品分享新股紅利。第一財經記者實地走訪上海多家銀行網點發現，市面上不少打著 “打新” 旗號的理財產品，和大眾想象中的新股打新存在不小落差，短期亮眼收益背後暗藏底倉波動、流動性約束等風險，投資者不宜盲目跟風。專家提醒投資者，打新理財熱度走高，高收益背後要讀懂真實風險。（一財）
-
----
-
-### 2026-08-10 18:40:38  #國際
-
-【中國駐日本大使館發言人就臺灣地區所謂“駐日代表”宣告答記者問】問：臺灣地區所謂“駐日代表”日前聲稱，“國格”與地位遭到刻意矮化，令人遺憾且失望，還說提出了“嚴正抗議”。請問發言人對此有何評論？答：臺灣不是一個國家，不存在“國格”一說。自不量力四處刷存在感，只會自取其辱。世界上只有一箇中國，臺灣是中國領土不可分割的一部分，中華人民共和國政府是代表全中國的唯一合法政府。這是國際社會的基本共識。補充一個小常識，聯合國對臺灣的稱謂是：“中國臺灣省”。（中國駐日本大使館）
-
----
-
-### 2026-08-10 18:40:36  #MKT News
-
-【Chinese embassy in Tokyo rejects statement by Taiwan 'representative to Japan'】Responding to a Taiwan 'representative to Japan' claim that its national standing had been deliberately belittled and that it lodged a 'stern protest', a Chinese embassy spokesperson said Taiwan is not a country and the notion of 'national stature' does not apply. The spokesperson said attempts to seek attention beyond one's means only embarrass themselves, reiterated there is one China and Taiwan is an inalienable part of Chinese territory, and that the People’s Republic of China is the sole legitimate government representing all China. The spokesperson added that the United Nations refers to Taiwan as 'Taiwan Province, China'.
 
 ---

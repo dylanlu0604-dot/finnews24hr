@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:39:39_
-_本檔包含 3168 則快訊，約 604643 字_
+_更新時間：2026-08-15 15:53:24_
+_本檔包含 3170 則快訊，約 604743 字_
+
+---
+
+### 2026-08-14 06:55:07  #MKT News #Market Themes #The Trump Trade
+
+Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations.
+
+---
+
+### 2026-08-14 06:54:08  #其他
+
+巴西總統盧拉今日與墨西哥總統辛鮑姆通了電話。
+
+---
+
+### 2026-08-14 06:53:12  #國際
+
+巴西正就該程式通知美國政府，並要求舉行外交磋商。
+
+---
+
+### 2026-08-14 06:52:43  #國際
+
+巴西政府宣告：已啟動針對美國的貿易關稅對等反制程式。
+
+---
+
+### 2026-08-14 06:52:04  #MKT News #Market Themes #The Trump Trade
+
+【U.S. media: Kennedy Center to add Trump’s name to building exterior】U.S. media reported on the 13th that the board of the Kennedy Center for the Performing Arts voted to add wording bearing U.S. President Trump’s name to the building’s exterior and to close the main building for renovations.
+
+---
+
+### 2026-08-14 06:51:49  #Trading Economics #Economy #New Zealand #Tourist Arrivals #Importance 1
+
+New Zealand Tourist Arrivals Rise 8.1% in June — Visitor arrivals to New Zealand grew 8.1% year-on-year to 201,855 in June 2026, accelerating from a 6.7% rise in May, driven largely by gains from Australia. The increase was the largest in three months, although the number of visitors was lower than in May, underscoring the impact of rising oil prices due to the ongoing Middle East conflict.
+
+---
+
+### 2026-08-14 06:47:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered.
+
+---
+
+### 2026-08-14 06:47:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Energy Secretary wright said Iran is trying to hold the global economy hostage.
+
+---
+
+### 2026-08-14 06:47:53  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait.
+
+---
+
+### 2026-08-14 06:47:02  #其他
+
+紐西蘭 6 月短期入境遊客量同比增長 8.1%。
+
+---
+
+### 2026-08-14 06:40:22  #Trading Economics #Economy #New Zealand #Manufacturing PMI #Importance 2
+
+New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate.
 
 ---
 
@@ -19028,59 +19094,5 @@ Sources said Brazil's economic team inserted spending-cut provisions into an unr
 ### 2026-08-13 01:54:05  #MKT News
 
 Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace.
-
----
-
-### 2026-08-13 01:46:56  #市場
-
-芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。
-
----
-
-### 2026-08-13 01:46:33  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm.
-
----
-
-### 2026-08-13 01:44:51  #國際
-
-阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。
-
----
-
-### 2026-08-13 01:35:16  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns.
-
----
-
-### 2026-08-13 01:34:37  #MKT News
-
-Sources say Google (GOOG.O) co-founder Sergey Brin has spent recent months urging staff to focus on returning the GEMINI model to the forefront of AI.
-
----
-
-### 2026-08-13 01:34:05  #公司
-
-市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。
-
----
-
-### 2026-08-13 01:32:28  #央行 #其他
-
-巴西央行：7 月美元資金淨流入規模達 19.38 億美元。
-
----
-
-### 2026-08-13 01:26:16  #MKT News
-
-Canada is weighing a proposal to keep exempting the value of U.S.-made parts in Canadian vehicle exports from auto tariffs, even as it seeks tariff waivers from the U.S., The Globe and Mail reports.
-
----
-
-### 2026-08-13 01:24:54  #國際
-
-該提案還將維持對加拿大出口汽車中美國產零部件價值的豁免條款。
 
 ---
