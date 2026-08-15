@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-15 11:27:53",
+  "updated": "2026-08-15 11:31:45",
   "count": 15294,
   "items": [
+    {
+      "id": "mkt:01a00375-d1a1-7aab-9047-41fa76118d98",
+      "time": "2026-08-15 11:27:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister said the US must meet Iran's conditions to restore shipping through the Strait of Hormuz."
+    },
+    {
+      "id": "5042147",
+      "time": "2026-08-15 11:27:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外長表示，美國必須滿足相關條件，霍爾木茲海峽航運才能恢復。"
+    },
     {
       "id": "mkt:01a00375-7421-7aab-9047-3cb48c19b326",
       "time": "2026-08-15 11:27:04",
@@ -140032,22 +140053,6 @@
         "國際"
       ],
       "text": "【烏稱基輔市拉響防空警報 俄稱多地有導彈來襲】烏克蘭空軍8日在社交媒體稱，烏克蘭首都基輔，以及敖德薩州等多地有無人機來襲風險。基輔市軍事管理局稱，由於無人機和彈道導彈威脅，基輔市拉響防空警報。該部門還稱，基輔一處燃料庫起火，但未說明具體原因。據俄羅斯方面8日凌晨訊息，俄羅斯薩馬拉州、薩拉托夫州等多地有導彈來襲風險。今天已有十多個俄羅斯機場暫停航班起降。"
-    },
-    {
-      "id": "mkt:019fdf6a-667e-7aab-8fc2-73e8e390a33b",
-      "time": "2026-08-08 11:28:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Colombia's new president vows tougher crackdown on drug crime】At his inauguration in Cali on the 7th, Colombia's new president said the government will soon publish a list of drug‑terror organizations and step up efforts against drug crime. He said restoring national security and state authority is a priority, ordering the armed forces and police to target all criminal gangs and to combat drug activity including through eradication of illegal crops."
-    },
-    {
-      "id": "5031799",
-      "time": "2026-08-08 11:28:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞新總統宣佈將加強打擊毒品犯罪】哥倫比亞新任總統德拉埃斯普列亞7日在哥西南部城市卡利舉行的總統就職儀式上發表演說，宣佈政府將很快公佈毒品恐怖組織名單，加大對毒品犯罪的打擊力度。德拉埃斯普列亞說，新政府將把恢復國家安全和權威作為重點，要求武裝部隊和警察打擊所有犯罪團伙，並透過根除非法作物等措施打擊毒品犯罪。德拉埃斯普列亞表示，新政府將加大反腐力度，推動經濟增長並改善醫療、教育和農村發展狀況。哥倫比亞將加強同其他國家在打擊跨國有組織犯罪、情報、安全和司法等領域的合作。"
     }
   ]
 }

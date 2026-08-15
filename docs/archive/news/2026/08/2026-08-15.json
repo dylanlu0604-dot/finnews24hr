@@ -1,7 +1,28 @@
 {
   "date": "2026-08-15",
-  "count": 508,
+  "count": 510,
   "items": [
+    {
+      "id": "mkt:01a00375-d1a1-7aab-9047-41fa76118d98",
+      "time": "2026-08-15 11:27:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister said the US must meet Iran's conditions to restore shipping through the Strait of Hormuz."
+    },
+    {
+      "id": "5042147",
+      "time": "2026-08-15 11:27:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外長表示，美國必須滿足相關條件，霍爾木茲海峽航運才能恢復。"
+    },
     {
       "id": "mkt:01a00375-7421-7aab-9047-3cb48c19b326",
       "time": "2026-08-15 11:27:04",
