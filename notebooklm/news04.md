@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:52:16_
-_本檔包含 3195 則快訊，約 603350 字_
+_更新時間：2026-08-16 06:32:44_
+_本檔包含 3192 則快訊，約 602712 字_
+
+---
+
+### 2026-08-12 00:25:20  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Fed's GOOLSBEE said the biggest problem facing the economy is inflation.
+
+---
+
+### 2026-08-12 00:25:06  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve's GOOLSBEE said the economy will remain healthy so long as consumption remains resilient.
+
+---
+
+### 2026-08-12 00:24:52  #其他
+
+【葉門海岸警衛隊稱胡塞武裝襲擊商船致6人死亡】當地時間11日，葉門海岸警衛隊發表宣告說，胡塞武裝當天上午在曼德海峽對一艘名為“塔哈馬”號的商船發動導彈襲擊，造成包括船員和葉門武裝人員在內的6人死亡、10人受傷。
+
+---
+
+### 2026-08-12 00:24:38  #其他
+
+ZoomInfo資料現已接入微軟Copilot Studio，可在微軟365 Copilot、Dynamics 365、Excel以及Word中使用。
+
+---
+
+### 2026-08-12 00:24:08  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve's GOOLSBEE said prices and affordability are the biggest problem the Fed currently faces.
+
+---
+
+### 2026-08-12 00:23:49  #央行 #國際
+
+美聯儲古爾斯比：物價與可負擔性，這是我們當前面臨的最大問題。
+
+---
+
+### 2026-08-12 00:23:35  #MKT News #SPCX.O #Impact bearish
+
+SpaceX (SPCX.O) hit an intraday low, down more than 5% on the session.
+
+---
+
+### 2026-08-12 00:23:30  #MKT News #WTI #Impact bullish #Brent
+
+【EIA expects U.S. commercial crude inventories to stay below five-year lows through end-2026】The EIA expects U.S. commercial crude inventories to remain below the five‑year low for the comparable 2021–25 period through the end of 2026. Inventories have fallen since mid‑April amid higher exports, lower imports and elevated refinery runs. Strong international demand for U.S. crude means net U.S. crude imports are forecast to stay below average through 2027.
+
+---
+
+### 2026-08-12 00:22:48  #央行 #國際
+
+【美聯儲古爾斯比稱通脹是經濟面臨的最大難題】芝加哥聯邦儲備銀行行長奧斯坦·古爾斯比表示，“當前我國經濟面臨的最大問題”是通脹。古爾斯比周二稱，各項指標表明“勞動力市場趨於穩定，但狀態並不理想”。古爾斯比表示：“只要消費者保持穩健，我認為經濟就會維持良好態勢。”
+
+---
+
+### 2026-08-12 00:22:09  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Chile's Copper Commission Cochilco forecasts copper production at 5.55 mln tonnes in 2027, up 5.2% from 2026.
+
+---
+
+### 2026-08-12 00:21:53  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+UK Prime Minister Burnham said fiscal space for government support is limited. He faces a severe fiscal outlook and will not propose any measures he cannot fund.
+
+---
+
+### 2026-08-12 00:21:44  #國際
+
+美國防長赫格塞思將於週三前往巴拿馬，與穆利諾總統會面。
+
+---
+
+### 2026-08-12 00:21:33  #其他
+
+SpaceX跌超5%。
+
+---
+
+### 2026-08-12 00:21:13  #國際
+
+美國消費者金融保護局阻止加薪及獎金的訴求已提交仲裁。
+
+---
+
+### 2026-08-12 00:20:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+BBC reports UK Prime Minister Burnham says the government is considering additional support for businesses.
 
 ---
 
@@ -19140,113 +19230,5 @@ WTI crude rose above $79/bbl, up 3.5% intraday.
 ### 2026-08-10 20:53:28  #公司
 
 【恆逸石化：透過多項議案 含分紅、投資及換屆等事項】恆逸石化公告稱，公司第十二屆董事會第三十八次會議審議透過多項議案。2026年半年度擬以總股本扣除回購股份後為基數，每10股派現9元（含稅），預計派現30.96億元；子公司擬分別投資建設海寧年產30萬噸廢舊紡織品迴圈利用專案和年產40萬噸PA6熔體直紡專案；擬提名邱奕博等5人為第十三屆非獨立董事候選人，侯江濤等3人為獨立董事候選人；還透過了半年度報告、募集資金報告等議案。部分議案需提交股東會審議，公司將於8月28日召開2026年第四次臨時股東會。
-
----
-
-### 2026-08-10 20:53:00  #市場
-
-布倫特原油日內漲2%，現報85.24美元/桶。
-
----
-
-### 2026-08-10 20:52:39  #其他
-
-【C919即將首次執行國際商業航班】8月12日起，國航北京首都—烏蘭巴托航線CA723/4航班，將啟用國產飛機C919執飛，這是C919首次執行國際商業航班。(中國民航網)
-
----
-
-### 2026-08-10 20:52:24  #市場 #國際
-
-埃及 7 月核心消費者物價指數同比上漲 14.7%。
-
----
-
-### 2026-08-10 20:51:59  #其他
-
-【哥倫比亞海域發生7.5級地震 可能會在震源周圍引發局地海嘯】據自然資源部海嘯預警中心初步測定，2026年08月10日20時34分（北京時間），哥倫比亞海域（4.91°N,75.93°W）發生7.5級地震，震源深度為15千米。地震確切資訊以中國地震臺網測定為準。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
-
----
-
-### 2026-08-10 20:51:59  #MKT News
-
-【7.5 quake off Colombia may trigger local tsunami near epicenter】Ministry of Natural Resources' Tsunami Warning Center preliminarily located a M7.5 earthquake in the Colombian sea at 20:34 Beijing time on Aug 10, 2026 (4.91°N, 75.93°W), depth 15 km. Exact parameters will be confirmed by CENC. The center says the quake could generate a local tsunami near the epicenter but is not expected to affect China’s coast. The center will continue to monitor seismic and tsunami data and issue updates as needed.
-
----
-
-### 2026-08-10 20:51:28  #國際
-
-烏茲別克領事館：7 名烏茲別克公民在俄羅斯韃靼斯坦遭無人機襲擊事件中遇難。
-
----
-
-### 2026-08-10 20:50:27  #MKT News
-
-Uzbekistan consulate said a drone strike in Russia’s Republic of Tatarstan killed seven Uzbek citizens.
-
----
-
-### 2026-08-10 20:48:30  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
-
-【Hassett hopes Fed governor Cook is innocent; says he would not take Cook’s Fed seat】White House National Economic Council director Hassett said on Monday he hopes Fed governor Cook is innocent and declined to comment on any charges, calling it a law-enforcement matter. He said he would not replace Cook if Cook were removed. Hassett added that, were he on the Fed board, he would favor keeping rates unchanged or cutting, citing strong supply-side forces and recent inflation prints showing prices easing. He described Fed chair Kevin Warsh as famously independent.
-
----
-
-### 2026-08-10 20:48:29  #其他 #焦點
-
-中國地震臺網自動測定：08月10日20時34分在哥倫比亞附近（北緯5.20度，西經76.51度）發生7.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-10 20:48:08  #其他 #焦點 #國際
-
-據德國地球科學研究中心訊息，哥倫比亞10日發生7.4級地震。 （新華社）
-
----
-
-### 2026-08-10 20:46:45  #央行 #其他
-
-智利央行買入 2500 萬美元。
-
----
-
-### 2026-08-10 20:44:58  #公司
-
-【ST圍海：簽訂8.82億元工程專案施工合同】ST圍海公告稱，公司與江西磻溪建設等組成的聯合體，成為“樂平市農產品智慧倉儲和物流設施建設專案”中標單位。近日，公司與相關方簽署該專案施工合同，簽約合同價8.82億元，工期730日曆天。合同金額約佔公司2025年經審計營業總收入的42.14%，將對未來業績產生積極影響，且不影響業務獨立性，但履行存在不可抗力風險。
-
----
-
-### 2026-08-10 20:44:39  #公司
-
-市場訊息：加拿大安大略省教師養老金計劃上半年收益率達9.5%，主要得益於馬斯克旗下SpaceX公司的IPO。
-
----
-
-### 2026-08-10 20:44:29  #其他
-
-IBM宣佈發行以加元計價的兩部分票據。
-
----
-
-### 2026-08-10 20:44:27  #MKT News #SPCX.O #Impact bullish
-
-Market sources: Canada’s Ontario Teachers' Pension Plan returned 9.5% in 1H, driven primarily by gains on its SpaceX stake following the company’s IPO (SPCX.O).
-
----
-
-### 2026-08-10 20:44:12  #宏觀
-
-智利任命塞巴斯蒂安・瓦列沃納・埃斯皮諾薩為財政部副部長。
-
----
-
-### 2026-08-10 20:43:27  #市場
-
-WTI原油日內漲2%，現報79.75美元/桶。
-
----
-
-### 2026-08-10 20:42:27  #其他
-
-挪威GASSCO將Ormen Lange氣田日輸氣量890萬立方米的停氣檢修計劃從7月13日至10月1日重新安排至2026年7月13日至2027年2月1日。
 
 ---

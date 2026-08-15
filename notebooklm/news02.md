@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:52:16_
-_本檔包含 3134 則快訊，約 603708 字_
+_更新時間：2026-08-16 06:32:44_
+_本檔包含 3134 則快訊，約 603196 字_
+
+---
+
+### 2026-08-14 09:11:13  #其他
+
+拉脫維亞國家武裝部隊在X平臺上表示，拉脫維亞釋出空中威脅警報。
+
+---
+
+### 2026-08-14 09:11:06  #市場
+
+臺幣兌美元上漲0.3%至32.070。
+
+---
+
+### 2026-08-14 09:11:06  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai gold main contract fell 2.00% intraday to 940.10 yuan/gram.
+
+---
+
+### 2026-08-14 09:11:00  #市場 #焦點
+
+紐約期金失守4380美元/盎司，日內跌0.95%。
+
+---
+
+### 2026-08-14 09:10:27  #MKT News
+
+【SMIC co-CEO Zhao Haijun: customer pull-ins offset part of end-market downturn】On Aug. 14 at the Q2 results meeting, SMIC co-CEO Zhao Haijun said wafer revenue by end-market in Q2 was smartphones 17%, PCs & tablets 16%, consumer electronics 44%, connectivity & wearables 7%, and industrial & automotive 17%, with absolute revenue levels rising sequentially. The company shifted capacity to tight-demand areas, producing roughly 40% QoQ growth in AI-related, PC & tablet, and industrial & automotive revenue. Elsewhere, customer pull-ins partly offset end-market weakness, delivering QoQ absolute revenue gains of 8% for smartphones, 16% for consumer electronics and 13% for connectivity & wearables.
+
+---
+
+### 2026-08-14 09:10:18  #公司
+
+【A股停牌提示：4股今日停牌】Wind資料顯示，8月14日，鴻特科技、瓦軸B、愛麗家居等4只個股停牌。
+
+---
+
+### 2026-08-14 09:10:12  #MKT News #Commodities #Industrial Metals
+
+Front-month coking coal futures rose more than 2.0% intraday to 1,347 yuan/ton.
+
+---
+
+### 2026-08-14 09:08:42  #公司
+
+【中芯國際趙海軍：客戶提前拉貨抵消了部分終端下行影響】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季晶圓收入以應用來看，智慧手機、電腦與平板、消費電子、互聯與可穿戴、工業與汽車收入佔比分別為17%、16%、44%、7%、17%，絕對值環比均有所提升。公司將產能更多調配給需求緊缺的領域，使得人工智慧配套、電腦與平板、工業與汽車收入絕對值環比增長在四成左右。其他應用，雖然終端整體下行，但客戶的提前拉貨抵消了部分影響，使得手機、消費、互聯與可穿戴收入絕對值實現了8%、16%和13%的成長。
+
+---
+
+### 2026-08-14 09:08:27  #MKT News #UBER.N #Impact bullish #02026.HK
+
+Pony.ai-W (02026.HK): Uber (UBER.N) expands cooperation with Pony.ai, planning to deploy over 2,000 robotaxis across five European cities.
+
+---
+
+### 2026-08-14 09:08:21  #MKT News #02026.HK #Impact bullish #UBER.O
+
+Pony.ai-W (02026.HK) to expand cooperation with Uber and deploy more than 2,000 autonomous taxis in Europe.
+
+---
+
+### 2026-08-14 09:07:48  #公司 #國際
+
+【中國小馬智行與優步將聯合在歐洲部署2,000多輛機器人計程車】中國自動駕駛公司小馬智行週五宣佈，計劃在與優步（Uber） 擴大合作框架下，在歐洲部署超過2,000輛自動駕駛計程車。據該公司宣告稱，這項始於2025年5月的合作將從目前在克羅埃西亞首都薩格勒布運營的商用自動駕駛計程車服務，擴充套件至歐洲的四個未公開名稱的城市。宣告未透露該部署計劃的具體完成時間表。宣告稱，此次合作擴充套件計劃還包括中東地區，但未提供進一步細節。
+
+---
+
+### 2026-08-14 09:07:44  #經濟數據 #中國
+
+【今年前7月蘇州工業園區進出口值首破萬億元】據新華日報，記者8月13日從蘇州工業園區海關獲悉，今年前7個月，蘇州工業園區外貿進出口值歷史首次突破1萬億元大關，達1.02萬億元，同比增長126.8%，規模超2025年全年。其中，儲存器、光模組等AI算力硬體產品佔比過半。
+
+---
+
+### 2026-08-14 09:07:19  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude rose above $86/bbl, up 0.18% on the day.
+
+---
+
+### 2026-08-14 09:06:48  #MKT News #Important #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers.
 
 ---
 
@@ -18790,89 +18874,5 @@ Washington Post, citing US officials, reports that during President Trump’s vi
 ### 2026-08-13 07:52:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%.
-
----
-
-### 2026-08-13 07:52:31  #公司
-
-【中船廣船國際：訂單生產排期至2030年】在全球船舶工業加快向高階化、綠色化、智慧化演進的背景下，地處廣州南沙的中國船舶集團廣船國際有限公司，正逐漸成長為我國高階船舶製造的重要力量。中船廣船國際營銷總監李濤介紹，中船廣船國際目前已形成油船、集裝箱船、滾裝船、高階客滾船、半潛船、極地船等“三優三特”產品矩陣，在多個細分市場居於全球前列。2025年，公司營收達202億元，手持訂單總額突破1000億元，國際化訂單佔比超90%，生產排期已排至2030年。（經參報）
-
----
-
-### 2026-08-13 07:51:39  #經濟數據 #日本
-
-日本7月生產者價格同比增長7.2%，預估為7.4%。
-
----
-
-### 2026-08-13 07:50:23  #國際
-
-日本7月生產者價格環比增長0.1%，預估為+0.6%。日本7月生產者價格同比增長7.2%，預估為+7.4%。
-
----
-
-### 2026-08-13 07:50:14  #MKT News #USDJPY #Impact bullish
-
-Japan domestic corporate goods price index (YoY) 7.2% in July; expected 7.4%, prior 7.10%.
-
----
-
-### 2026-08-13 07:50:12  #MKT News #USDJPY #Impact bullish #DXY
-
-Japan domestic corporate goods price index (MoM) +0.1%, est +0.6%, prior +0.4%.
-
----
-
-### 2026-08-13 07:50:02  #MKT News #Economic Calendar #Important
-
-Japan | Corporate Goods Price Index (YoY) (Jul) | actual 7.2% | consensus 7.4% | previous 7.10%
-
----
-
-### 2026-08-13 07:50:02  #MKT News #Economic Calendar #Important
-
-Japan | Corporate Goods Price Index (MoM) (Jul) | actual 0.1% | consensus 0.60% | previous 0.40%
-
----
-
-### 2026-08-13 07:48:58  #其他
-
-【民政部：今年上半年全國民政事業支出2436億元】日前，民政部發布統計資料顯示，今年上半年，我國民政事業累計支出2436億元。其中，城市最低生活保障589.2萬人，農村最低生活保障3346.2萬人，城鄉特困人員救助供養493.7萬人，享受困難殘疾人生活補貼1202.7萬人，享受重度殘疾人生護理補貼1687.1萬人。
-
----
-
-### 2026-08-13 07:46:27  #公司 #觀點
-
-【中金：電力裝置行業國內外景氣向上，板塊具備長期投資價值】中金公司研報表示，電力裝置行業2026年整體表現穩健向上，提示投資者重點關注結構性機遇。傳統電網方面，“十五五”新型能源體系明確電網“適配高比例新能源”定位，疊加國網“十五五”投資規劃出爐，電網投資長期可期；此外，全球AIDC基建步伐加快，相關電力裝置需求旺盛，中國電力裝置企業有望憑藉交付週期短、價效比高、售後服務到位等優勢獲得訂單。中金仍認為全球電力大週期開啟端倪初現，新型電力系統發展是一個長期、持續的過程，景氣度或可持續至2030年，而主要上市公司訂單、收入、盈利仍然在紮實的上升通道，歷經調整後當前估值已進入歷史低估區間，板塊具備長期投資價值。
-
----
-
-### 2026-08-13 07:46:22  #其他
-
-【水利部：部署應對臺風“白海豚”殘餘環流影響】中央氣象臺預計，從今天起，我國大部分地區降水將逐步減弱，但黃淮南部、江淮、江南東部、華南等地部分地區仍有大到暴雨、局地大暴雨，降水範圍廣、強降雨分佈比較分散。水利部昨天舉行專題會商滾動分析今年第13號颱風“白海豚”殘餘環流影響態勢，深入研判突出風險，進一步安排部署颱風暴雨洪水防禦工作。
-
----
-
-### 2026-08-13 07:46:08  #市場 #國際
-
-基準10年期日本公債期貨早盤上漲0.13點。
-
----
-
-### 2026-08-13 07:45:48  #市場 #國際
-
-日本日經指數期貨早盤上漲1.2%。
-
----
-
-### 2026-08-13 07:45:33  #市場 #央行 #國際
-
-【對美聯儲加息的擔憂緩解，日經指數或上漲】得益於對美聯儲加息的擔憂緩解以及隔夜美國科技股的上漲，日本股市或將走高。新加坡交易所的日經指數期貨上漲1.2%，報68500點。美元報159.34日元，週三東京股市收盤時為159.40日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週三上漲0.8%，至67524.06點。
-
----
-
-### 2026-08-13 07:45:15  #Trading Economics #Economy #Russia #GDP Annual Growth Rate #Importance 0
-
-Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year in the second quarter of 2026, rebounding from a 0.2% contraction in the previous quarter and marking the strongest growth since the third quarter of 2025, preliminary estimates showed. The result exceeded forecasts from the Central Bank and Economy Ministry of 0.8% and 0.9%, respectively, with stable domestic demand and stronger consumer activity driving the recovery. Retail turnover rose 7.2% year-on-year, helping offset pressures from Ukrainian drone strikes on Russian oil refineries and e-commerce warehouses. Nevertheless, the economy continues to face high borrowing costs, labor shortages, inflation and Western sanctions, while the Bank of Russia has kept its key interest rate elevated at 14%. The central bank recently lowered its full-year GDP growth forecast to 0-1% from 0.4-1.3%, highlighting persistent structural pressures despite the stronger second-quarter performance.
 
 ---

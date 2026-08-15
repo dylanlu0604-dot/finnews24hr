@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:52:16_
-_本檔包含 3098 則快訊，約 603332 字_
+_更新時間：2026-08-16 06:32:44_
+_本檔包含 3102 則快訊，約 603554 字_
+
+---
+
+### 2026-08-16 06:24:02  #其他
+
+【摩洛哥加強邊境管控 攔截294名企圖非法越境人員】摩洛哥當地媒體15日援引摩安全部門訊息人士的話報道，截至當地時間14時45分，摩安全部隊在靠近西班牙北非飛地休達的邊境地區攔截294名企圖非法越境人員，其中248人來自撒哈拉以南非洲國家，46人為摩洛哥人。（新華社）
+
+---
+
+### 2026-08-16 06:20:23  #公司
+
+市場資訊：英國水務公司計劃在乾旱時期提高水費。
+
+---
+
+### 2026-08-16 06:18:59  #國際
+
+哥倫比亞總統稱，他與特朗普通話時表示，已請求美國在地震後暫停對哥倫比亞產品加徵關稅。
+
+---
+
+### 2026-08-16 06:17:11  #國際
+
+伊朗資深議員易卜拉欣·阿齊茲：美國總統與其就霍爾木茲海峽不斷虛張聲勢，不如操心自身安全，免得最後躲進食品卡車裡避難。
+
+---
+
+### 2026-08-16 06:15:05  #國際
+
+以色列再度轟炸黎巴嫩南部。
+
+---
+
+### 2026-08-16 06:11:16  #國際
+
+醫療部門訊息：加沙地帶遭以色列火力打擊，造成1名巴勒斯坦人死亡，7人受傷。
+
+---
+
+### 2026-08-16 06:10:08  #其他
+
+英國首相伯納姆呼籲（英國）社會展開反思，此前一名遭抄襲指控的劍橋大學前教授離世。
+
+---
+
+### 2026-08-16 06:06:04  #國際
+
+美國緊急事務官員表示，印第安納州遭遇風暴和洪水後已造成六人死亡。
+
+---
+
+### 2026-08-16 06:01:42  #MKT News #Market Regions #Japan & APAC
+
+【Heavy rain in Chiba kills nine, floods over 1,000 homes】As of the 16th, heavy rain that began on the 13th in Chiba Prefecture, Japan, has killed nine people and flooded more than 1,000 homes, the prefectural government and police said.
+
+---
+
+### 2026-08-16 06:00:22  #國際
+
+【日本千葉縣暴雨已致9人死亡 超千棟房屋被淹】據日本千葉縣政府和警方16日公佈的訊息，截至目前，千葉縣13日開始的暴雨已導致9人死亡，受淹房屋超過1000棟。
+
+---
+
+### 2026-08-16 05:59:29  #國際
+
+美國中央司令部發布一張地圖，將加沙地帶與約旦河西岸標註為以色列領土。
+
+---
+
+### 2026-08-16 05:58:42  #MKT News #WTI #Impact bullish #Brent
+
+CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support "Epic Rage", regional security missions and the U.S. maritime blockade against Iran.
+
+---
+
+### 2026-08-16 05:57:48  #MKT News
+
+CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history.
+
+---
+
+### 2026-08-16 05:56:15  #MKT News
+
+CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel.
+
+---
+
+### 2026-08-16 05:55:36  #MKT News
+
+CENTCOM said Admiral Brad Cooper met with sailors and Marines aboard the USS Abraham Lincoln at sea, his second such meeting this year.
+
+---
+
+### 2026-08-16 05:54:48  #MKT News
+
+CENTCOM said Admiral Brad Cooper met senior military and political leaders in Bahrain, Iraq, Israel, Jordan, Saudi Arabia and the UAE and visited U.S. service members stationed there. More than 50,000 U.S. service members are currently carrying out missions across the Middle East.
+
+---
+
+### 2026-08-16 05:54:13  #MKT News
+
+CENTCOM said its commander ended a 10-day Middle East visit on Aug. 15, during which he visited six countries and inspected a U.S. Navy aircraft carrier operating in the Arabian Sea.
+
+---
+
+### 2026-08-16 05:53:55  #國際
+
+【美國中央司令部指揮官完成為期10天的中東之行】美國中央司令部指揮官於8月15日結束為期10天的中東行程，此行到訪六個國家，並登上部署於阿拉伯海的美國海軍航空母艦。布拉德·庫珀上將先後會見巴林、伊拉克、以色列、約旦、沙烏地阿拉伯、阿聯酋的軍政高層，同時慰問駐外美軍。目前有超5萬名美軍部署在中東地區，執行多項任務。
 
 ---
 
@@ -18588,89 +18696,5 @@ Latvian armed forces posted an air threat alert on social media.
 ### 2026-08-14 09:11:33  #MKT News #Brent #Impact bullish #WTI #XAUUSD
 
 【Yemen fighting intensifies; Saudi shifts to more proactive security posture】Escalating attacks have prompted Saudi Arabia to adopt a more proactive security posture in Yemen and the wider region, driven by the prospect that Houthi forces could eventually block the Bab el-Mandeb strait and threaten the Red Sea shipping lane that is an alternative to the Strait of Hormuz. Riyadh is especially sensitive after recent tensions around Hormuz, since a closure of Bab el-Mandeb would put Red Sea routes — previously a viable complement to Saudi east–west pipelines bypassing Hormuz — at direct risk. Last month Saudi Arabia announced an international coalition to protect Red Sea shipping with 13 participating countries, while deepening defence agreements with Pakistan and Turkey and increasing coordination with the United States. Saudi defence officials recently met the US vice president, and media reports say the crown prince has US backing for potential military action against the Houthis. On the ground, Riyadh has shifted tactics — intervening late last year against the UAE-backed Southern Transitional Council to help consolidate anti-Houthi forces around the Yemeni government — and analysts say Saudi policy now appears aimed at driving the Houthis off the coastline rather than attempting to retake Sanaa.
-
----
-
-### 2026-08-14 09:11:13  #其他
-
-拉脫維亞國家武裝部隊在X平臺上表示，拉脫維亞釋出空中威脅警報。
-
----
-
-### 2026-08-14 09:11:06  #市場
-
-臺幣兌美元上漲0.3%至32.070。
-
----
-
-### 2026-08-14 09:11:06  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai gold main contract fell 2.00% intraday to 940.10 yuan/gram.
-
----
-
-### 2026-08-14 09:11:00  #市場 #焦點
-
-紐約期金失守4380美元/盎司，日內跌0.95%。
-
----
-
-### 2026-08-14 09:10:27  #MKT News
-
-【SMIC co-CEO Zhao Haijun: customer pull-ins offset part of end-market downturn】On Aug. 14 at the Q2 results meeting, SMIC co-CEO Zhao Haijun said wafer revenue by end-market in Q2 was smartphones 17%, PCs & tablets 16%, consumer electronics 44%, connectivity & wearables 7%, and industrial & automotive 17%, with absolute revenue levels rising sequentially. The company shifted capacity to tight-demand areas, producing roughly 40% QoQ growth in AI-related, PC & tablet, and industrial & automotive revenue. Elsewhere, customer pull-ins partly offset end-market weakness, delivering QoQ absolute revenue gains of 8% for smartphones, 16% for consumer electronics and 13% for connectivity & wearables.
-
----
-
-### 2026-08-14 09:10:18  #公司
-
-【A股停牌提示：4股今日停牌】Wind資料顯示，8月14日，鴻特科技、瓦軸B、愛麗家居等4只個股停牌。
-
----
-
-### 2026-08-14 09:10:12  #MKT News #Commodities #Industrial Metals
-
-Front-month coking coal futures rose more than 2.0% intraday to 1,347 yuan/ton.
-
----
-
-### 2026-08-14 09:08:42  #公司
-
-【中芯國際趙海軍：客戶提前拉貨抵消了部分終端下行影響】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季晶圓收入以應用來看，智慧手機、電腦與平板、消費電子、互聯與可穿戴、工業與汽車收入佔比分別為17%、16%、44%、7%、17%，絕對值環比均有所提升。公司將產能更多調配給需求緊缺的領域，使得人工智慧配套、電腦與平板、工業與汽車收入絕對值環比增長在四成左右。其他應用，雖然終端整體下行，但客戶的提前拉貨抵消了部分影響，使得手機、消費、互聯與可穿戴收入絕對值實現了8%、16%和13%的成長。
-
----
-
-### 2026-08-14 09:08:27  #MKT News #UBER.N #Impact bullish #02026.HK
-
-Pony.ai-W (02026.HK): Uber (UBER.N) expands cooperation with Pony.ai, planning to deploy over 2,000 robotaxis across five European cities.
-
----
-
-### 2026-08-14 09:08:21  #MKT News #02026.HK #Impact bullish #UBER.O
-
-Pony.ai-W (02026.HK) to expand cooperation with Uber and deploy more than 2,000 autonomous taxis in Europe.
-
----
-
-### 2026-08-14 09:07:48  #公司 #國際
-
-【中國小馬智行與優步將聯合在歐洲部署2,000多輛機器人計程車】中國自動駕駛公司小馬智行週五宣佈，計劃在與優步（Uber） 擴大合作框架下，在歐洲部署超過2,000輛自動駕駛計程車。據該公司宣告稱，這項始於2025年5月的合作將從目前在克羅埃西亞首都薩格勒布運營的商用自動駕駛計程車服務，擴充套件至歐洲的四個未公開名稱的城市。宣告未透露該部署計劃的具體完成時間表。宣告稱，此次合作擴充套件計劃還包括中東地區，但未提供進一步細節。
-
----
-
-### 2026-08-14 09:07:44  #經濟數據 #中國
-
-【今年前7月蘇州工業園區進出口值首破萬億元】據新華日報，記者8月13日從蘇州工業園區海關獲悉，今年前7個月，蘇州工業園區外貿進出口值歷史首次突破1萬億元大關，達1.02萬億元，同比增長126.8%，規模超2025年全年。其中，儲存器、光模組等AI算力硬體產品佔比過半。
-
----
-
-### 2026-08-14 09:07:19  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude rose above $86/bbl, up 0.18% on the day.
-
----
-
-### 2026-08-14 09:06:48  #MKT News #Important #Market Themes #Chip Wars #981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers.
 
 ---

@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:52:16_
-_本檔包含 2775 則快訊，約 603261 字_
+_更新時間：2026-08-16 06:32:44_
+_本檔包含 2781 則快訊，約 603206 字_
+
+---
+
+### 2026-08-10 20:53:00  #市場
+
+布倫特原油日內漲2%，現報85.24美元/桶。
+
+---
+
+### 2026-08-10 20:52:39  #其他
+
+【C919即將首次執行國際商業航班】8月12日起，國航北京首都—烏蘭巴托航線CA723/4航班，將啟用國產飛機C919執飛，這是C919首次執行國際商業航班。(中國民航網)
+
+---
+
+### 2026-08-10 20:52:24  #市場 #國際
+
+埃及 7 月核心消費者物價指數同比上漲 14.7%。
+
+---
+
+### 2026-08-10 20:51:59  #其他
+
+【哥倫比亞海域發生7.5級地震 可能會在震源周圍引發局地海嘯】據自然資源部海嘯預警中心初步測定，2026年08月10日20時34分（北京時間），哥倫比亞海域（4.91°N,75.93°W）發生7.5級地震，震源深度為15千米。地震確切資訊以中國地震臺網測定為準。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
+
+---
+
+### 2026-08-10 20:51:59  #MKT News
+
+【7.5 quake off Colombia may trigger local tsunami near epicenter】Ministry of Natural Resources' Tsunami Warning Center preliminarily located a M7.5 earthquake in the Colombian sea at 20:34 Beijing time on Aug 10, 2026 (4.91°N, 75.93°W), depth 15 km. Exact parameters will be confirmed by CENC. The center says the quake could generate a local tsunami near the epicenter but is not expected to affect China’s coast. The center will continue to monitor seismic and tsunami data and issue updates as needed.
+
+---
+
+### 2026-08-10 20:51:28  #國際
+
+烏茲別克領事館：7 名烏茲別克公民在俄羅斯韃靼斯坦遭無人機襲擊事件中遇難。
+
+---
+
+### 2026-08-10 20:50:27  #MKT News
+
+Uzbekistan consulate said a drone strike in Russia’s Republic of Tatarstan killed seven Uzbek citizens.
+
+---
+
+### 2026-08-10 20:48:30  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
+
+【Hassett hopes Fed governor Cook is innocent; says he would not take Cook’s Fed seat】White House National Economic Council director Hassett said on Monday he hopes Fed governor Cook is innocent and declined to comment on any charges, calling it a law-enforcement matter. He said he would not replace Cook if Cook were removed. Hassett added that, were he on the Fed board, he would favor keeping rates unchanged or cutting, citing strong supply-side forces and recent inflation prints showing prices easing. He described Fed chair Kevin Warsh as famously independent.
+
+---
+
+### 2026-08-10 20:48:29  #其他 #焦點
+
+中國地震臺網自動測定：08月10日20時34分在哥倫比亞附近（北緯5.20度，西經76.51度）發生7.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-10 20:48:08  #其他 #焦點 #國際
+
+據德國地球科學研究中心訊息，哥倫比亞10日發生7.4級地震。 （新華社）
+
+---
+
+### 2026-08-10 20:46:45  #央行 #其他
+
+智利央行買入 2500 萬美元。
+
+---
+
+### 2026-08-10 20:44:58  #公司
+
+【ST圍海：簽訂8.82億元工程專案施工合同】ST圍海公告稱，公司與江西磻溪建設等組成的聯合體，成為“樂平市農產品智慧倉儲和物流設施建設專案”中標單位。近日，公司與相關方簽署該專案施工合同，簽約合同價8.82億元，工期730日曆天。合同金額約佔公司2025年經審計營業總收入的42.14%，將對未來業績產生積極影響，且不影響業務獨立性，但履行存在不可抗力風險。
+
+---
+
+### 2026-08-10 20:44:39  #公司
+
+市場訊息：加拿大安大略省教師養老金計劃上半年收益率達9.5%，主要得益於馬斯克旗下SpaceX公司的IPO。
+
+---
+
+### 2026-08-10 20:44:29  #其他
+
+IBM宣佈發行以加元計價的兩部分票據。
+
+---
+
+### 2026-08-10 20:44:27  #MKT News #SPCX.O #Impact bullish
+
+Market sources: Canada’s Ontario Teachers' Pension Plan returned 9.5% in 1H, driven primarily by gains on its SpaceX stake following the company’s IPO (SPCX.O).
+
+---
+
+### 2026-08-10 20:44:12  #宏觀
+
+智利任命塞巴斯蒂安・瓦列沃納・埃斯皮諾薩為財政部副部長。
+
+---
+
+### 2026-08-10 20:43:27  #市場
+
+WTI原油日內漲2%，現報79.75美元/桶。
+
+---
+
+### 2026-08-10 20:42:27  #其他
+
+挪威GASSCO將Ormen Lange氣田日輸氣量890萬立方米的停氣檢修計劃從7月13日至10月1日重新安排至2026年7月13日至2027年2月1日。
 
 ---
 
@@ -16689,77 +16797,5 @@ SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。
 ### 2026-08-09 06:41:14  #國際
 
 以色列部隊以坦克火力打擊北拉法地區。
-
----
-
-### 2026-08-09 06:26:54  #Trading Economics #Markets #India #Earnings #Importance 0
-
-Titan Company earnings above expectations at 19.97 INR — Titan Company (TTAN) released earnings per share at 19.97 INR, compared to market expectations of 15.37 INR.
-
----
-
-### 2026-08-09 06:26:52  #Trading Economics #Markets #India #Earnings #Importance 0
-
-State Bank of India earnings above expectations at 22.89 INR — State Bank of India (SBIN) released earnings per share at 22.89 INR, compared to market expectations of 19.27 INR.
-
----
-
-### 2026-08-09 06:16:05  #公司 #國際
-
-市場資訊：格陵蘭島向美國格陵蘭能源公司發出 “強烈警告”，這家與特朗普存在關聯的石油公司未經許可就將鑽井裝置運抵岸上。
-
----
-
-### 2026-08-09 06:14:34  #其他
-
-國際足聯：存在明顯的持續行動意圖破壞國際足聯主席的公信力，意見分歧不能成為蓄意破壞主席（公信力）的藉口，機構仍將專注於自身使命。
-
----
-
-### 2026-08-09 06:09:18  #國際
-
-美國五角大樓致函防務企業，要求擴大武器生產，限防務企業不超過21天提交擴產方案。
-
----
-
-### 2026-08-09 06:05:23  #其他
-
-中央氣象臺8月9日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-08-09 06:00:41  #MKT News
-
-An IRGC commander said the US and Israel have completely failed to achieve their objectives against Iran's Islamic system, and their leaders have offered no response to successive failures when facing public opinion, elites and their own people.
-
----
-
-### 2026-08-09 05:56:57  #MKT News
-
-Palestinian sources said Israeli forces shelled the northern Gaza Strip.
-
----
-
-### 2026-08-09 05:56:46  #其他
-
-【加拿大一省進入緊急狀態應對野火災情】加拿大不列顛哥倫比亞省政府8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的野火災情。不列顛哥倫比亞省省長戴維·伊比在溫哥華舉行的新聞釋出會上說：“目前狀況非常危險，火勢蔓延迅速且隨時發生變化。”他表示，政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中通道撤離受困民眾。（新華社）
-
----
-
-### 2026-08-09 05:56:18  #MKT News #Commodities #Energy
-
-【Phase I of Bohai 19-6 gas field, Bohai's first 100-bln-m3-class field, enters full production】CNOOC said on Aug 9 Phase I of the Bohai 19-6 gas field in the central Bohai Sea has been fully commissioned, producing more than 5,200 tonnes oil-equivalent per day. The field has proven gas geological reserves exceeding 200 bln m3 and proven liquid hydrocarbon reserves over 200 mln m3. Reservoirs lie deeper than 5,000m, with wide distribution and complex reservoir types, making development significantly harder than conventional offshore fields.
-
----
-
-### 2026-08-09 05:55:52  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Report: CENTCOM commander visits Israel to discuss 'multi‑front situation'】Israel Public Broadcasting reported that U.S. Central Command (CENTCOM) commander Brad Cooper arrived in Israel for a short visit to meet IDF Chief of Staff Zamir and other senior commanders to assess the "multi‑front situation" and discuss Gaza. The report said U.S. forces remain on high alert across the Middle East, with dozens of air‑refuellers, fighters, air‑defence systems and thousands of U.S. troops deployed in Israel.
-
----
-
-### 2026-08-09 05:55:39  #其他
-
-【我國渤海首個千億方大氣田Ⅰ期開發專案全面投產】今天（8月9日），記者從中國海油獲悉，我國渤海首個千億方大氣田——渤中19-6氣田Ⅰ期開發專案全面投產，日產油氣當量超5200噸。專案投產對最佳化區域能源結構、助力經濟社會高質量發展具有重要意義。渤中19-6氣田位於渤海中部海域，探明天然氣地質儲量超2000億立方米、探明石油液體地質儲量超2億立方米。氣田埋藏深度超過5000米，油氣藏分佈範圍廣、儲層型別複雜，開發難度遠超常規海上油氣田。（央視新聞）
 
 ---

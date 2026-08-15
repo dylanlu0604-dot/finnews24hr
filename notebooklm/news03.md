@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:52:16_
-_本檔包含 3053 則快訊，約 602890 字_
+_更新時間：2026-08-16 06:32:44_
+_本檔包含 3052 則快訊，約 603766 字_
+
+---
+
+### 2026-08-13 07:52:31  #公司
+
+【中船廣船國際：訂單生產排期至2030年】在全球船舶工業加快向高階化、綠色化、智慧化演進的背景下，地處廣州南沙的中國船舶集團廣船國際有限公司，正逐漸成長為我國高階船舶製造的重要力量。中船廣船國際營銷總監李濤介紹，中船廣船國際目前已形成油船、集裝箱船、滾裝船、高階客滾船、半潛船、極地船等“三優三特”產品矩陣，在多個細分市場居於全球前列。2025年，公司營收達202億元，手持訂單總額突破1000億元，國際化訂單佔比超90%，生產排期已排至2030年。（經參報）
+
+---
+
+### 2026-08-13 07:51:39  #經濟數據 #日本
+
+日本7月生產者價格同比增長7.2%，預估為7.4%。
+
+---
+
+### 2026-08-13 07:50:23  #國際
+
+日本7月生產者價格環比增長0.1%，預估為+0.6%。日本7月生產者價格同比增長7.2%，預估為+7.4%。
+
+---
+
+### 2026-08-13 07:50:14  #MKT News #USDJPY #Impact bullish
+
+Japan domestic corporate goods price index (YoY) 7.2% in July; expected 7.4%, prior 7.10%.
+
+---
+
+### 2026-08-13 07:50:12  #MKT News #USDJPY #Impact bullish #DXY
+
+Japan domestic corporate goods price index (MoM) +0.1%, est +0.6%, prior +0.4%.
+
+---
+
+### 2026-08-13 07:50:02  #MKT News #Economic Calendar #Important
+
+Japan | Corporate Goods Price Index (YoY) (Jul) | actual 7.2% | consensus 7.4% | previous 7.10%
+
+---
+
+### 2026-08-13 07:50:02  #MKT News #Economic Calendar #Important
+
+Japan | Corporate Goods Price Index (MoM) (Jul) | actual 0.1% | consensus 0.60% | previous 0.40%
+
+---
+
+### 2026-08-13 07:48:58  #其他
+
+【民政部：今年上半年全國民政事業支出2436億元】日前，民政部發布統計資料顯示，今年上半年，我國民政事業累計支出2436億元。其中，城市最低生活保障589.2萬人，農村最低生活保障3346.2萬人，城鄉特困人員救助供養493.7萬人，享受困難殘疾人生活補貼1202.7萬人，享受重度殘疾人生護理補貼1687.1萬人。
+
+---
+
+### 2026-08-13 07:46:27  #公司 #觀點
+
+【中金：電力裝置行業國內外景氣向上，板塊具備長期投資價值】中金公司研報表示，電力裝置行業2026年整體表現穩健向上，提示投資者重點關注結構性機遇。傳統電網方面，“十五五”新型能源體系明確電網“適配高比例新能源”定位，疊加國網“十五五”投資規劃出爐，電網投資長期可期；此外，全球AIDC基建步伐加快，相關電力裝置需求旺盛，中國電力裝置企業有望憑藉交付週期短、價效比高、售後服務到位等優勢獲得訂單。中金仍認為全球電力大週期開啟端倪初現，新型電力系統發展是一個長期、持續的過程，景氣度或可持續至2030年，而主要上市公司訂單、收入、盈利仍然在紮實的上升通道，歷經調整後當前估值已進入歷史低估區間，板塊具備長期投資價值。
+
+---
+
+### 2026-08-13 07:46:22  #其他
+
+【水利部：部署應對臺風“白海豚”殘餘環流影響】中央氣象臺預計，從今天起，我國大部分地區降水將逐步減弱，但黃淮南部、江淮、江南東部、華南等地部分地區仍有大到暴雨、局地大暴雨，降水範圍廣、強降雨分佈比較分散。水利部昨天舉行專題會商滾動分析今年第13號颱風“白海豚”殘餘環流影響態勢，深入研判突出風險，進一步安排部署颱風暴雨洪水防禦工作。
+
+---
+
+### 2026-08-13 07:46:08  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.13點。
+
+---
+
+### 2026-08-13 07:45:48  #市場 #國際
+
+日本日經指數期貨早盤上漲1.2%。
+
+---
+
+### 2026-08-13 07:45:33  #市場 #央行 #國際
+
+【對美聯儲加息的擔憂緩解，日經指數或上漲】得益於對美聯儲加息的擔憂緩解以及隔夜美國科技股的上漲，日本股市或將走高。新加坡交易所的日經指數期貨上漲1.2%，報68500點。美元報159.34日元，週三東京股市收盤時為159.40日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週三上漲0.8%，至67524.06點。
+
+---
+
+### 2026-08-13 07:45:15  #Trading Economics #Economy #Russia #GDP Annual Growth Rate #Importance 0
+
+Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year in the second quarter of 2026, rebounding from a 0.2% contraction in the previous quarter and marking the strongest growth since the third quarter of 2025, preliminary estimates showed. The result exceeded forecasts from the Central Bank and Economy Ministry of 0.8% and 0.9%, respectively, with stable domestic demand and stronger consumer activity driving the recovery. Retail turnover rose 7.2% year-on-year, helping offset pressures from Ukrainian drone strikes on Russian oil refineries and e-commerce warehouses. Nevertheless, the economy continues to face high borrowing costs, labor shortages, inflation and Western sanctions, while the Bank of Russia has kept its key interest rate elevated at 14%. The central bank recently lowered its full-year GDP growth forecast to 0-1% from 0.4-1.3%, highlighting persistent structural pressures despite the stronger second-quarter performance.
 
 ---
 
@@ -18377,95 +18461,5 @@ The Information reports OpenAI special projects head and former chief operating 
 ### 2026-08-12 00:26:53  #Trading Economics #Markets #Germany #Stock Market #Importance 0
 
 DAX Climbs to Fresh Record — The DAX rose 0.3% to a record of 26,385 on Tuesday as gains for utilities offset losses elsewhere. Siemens Energy led the advance, rising 3.2% after reports that the company booked the most gas-turbine orders in the second quarter. The company continued to trade in tandem with AI infrastructure companies amid the development of power-hungry data centers. Likewise, data center projects were due to boost RWE (1.7%) and E.ON (0.9%) ahead of their earnings this week. Auto stocks also outperformed following data showing US auto loans at record levels. BMW rose 1.2% and Volkswagen gained 0.1%, while Daimler Truck Holdings fell 1.9% as rising Middle East tensions pushed fuel prices higher and concerns over the shift toward electric vehicles weighed on sentiment. Adidas dropped 3% after On Holding missed estimates for second-quarter net sales, highlighting a tougher macroeconomic environment. Zalando fell 2.6%.
-
----
-
-### 2026-08-12 00:25:20  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Fed's GOOLSBEE said the biggest problem facing the economy is inflation.
-
----
-
-### 2026-08-12 00:25:06  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's GOOLSBEE said the economy will remain healthy so long as consumption remains resilient.
-
----
-
-### 2026-08-12 00:24:52  #其他
-
-【葉門海岸警衛隊稱胡塞武裝襲擊商船致6人死亡】當地時間11日，葉門海岸警衛隊發表宣告說，胡塞武裝當天上午在曼德海峽對一艘名為“塔哈馬”號的商船發動導彈襲擊，造成包括船員和葉門武裝人員在內的6人死亡、10人受傷。
-
----
-
-### 2026-08-12 00:24:38  #其他
-
-ZoomInfo資料現已接入微軟Copilot Studio，可在微軟365 Copilot、Dynamics 365、Excel以及Word中使用。
-
----
-
-### 2026-08-12 00:24:08  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve's GOOLSBEE said prices and affordability are the biggest problem the Fed currently faces.
-
----
-
-### 2026-08-12 00:23:49  #央行 #國際
-
-美聯儲古爾斯比：物價與可負擔性，這是我們當前面臨的最大問題。
-
----
-
-### 2026-08-12 00:23:35  #MKT News #SPCX.O #Impact bearish
-
-SpaceX (SPCX.O) hit an intraday low, down more than 5% on the session.
-
----
-
-### 2026-08-12 00:23:30  #MKT News #WTI #Impact bullish #Brent
-
-【EIA expects U.S. commercial crude inventories to stay below five-year lows through end-2026】The EIA expects U.S. commercial crude inventories to remain below the five‑year low for the comparable 2021–25 period through the end of 2026. Inventories have fallen since mid‑April amid higher exports, lower imports and elevated refinery runs. Strong international demand for U.S. crude means net U.S. crude imports are forecast to stay below average through 2027.
-
----
-
-### 2026-08-12 00:22:48  #央行 #國際
-
-【美聯儲古爾斯比稱通脹是經濟面臨的最大難題】芝加哥聯邦儲備銀行行長奧斯坦·古爾斯比表示，“當前我國經濟面臨的最大問題”是通脹。古爾斯比周二稱，各項指標表明“勞動力市場趨於穩定，但狀態並不理想”。古爾斯比表示：“只要消費者保持穩健，我認為經濟就會維持良好態勢。”
-
----
-
-### 2026-08-12 00:22:09  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Chile's Copper Commission Cochilco forecasts copper production at 5.55 mln tonnes in 2027, up 5.2% from 2026.
-
----
-
-### 2026-08-12 00:21:53  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
-
-UK Prime Minister Burnham said fiscal space for government support is limited. He faces a severe fiscal outlook and will not propose any measures he cannot fund.
-
----
-
-### 2026-08-12 00:21:44  #國際
-
-美國防長赫格塞思將於週三前往巴拿馬，與穆利諾總統會面。
-
----
-
-### 2026-08-12 00:21:33  #其他
-
-SpaceX跌超5%。
-
----
-
-### 2026-08-12 00:21:13  #國際
-
-美國消費者金融保護局阻止加薪及獎金的訴求已提交仲裁。
-
----
-
-### 2026-08-12 00:20:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-BBC reports UK Prime Minister Burnham says the government is considering additional support for businesses.
 
 ---
