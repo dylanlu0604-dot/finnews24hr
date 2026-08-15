@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 23:32:24_
-_本檔包含 3100 則快訊，約 604692 字_
+_更新時間：2026-08-15 23:52:40_
+_本檔包含 3100 則快訊，約 604805 字_
+
+---
+
+### 2026-08-14 08:22:06  #MKT News #Market Regions #Greater China #DXY #Impact bullish #CNH #Impact bearish #S&P500
+
+【Economic Daily: Targeted countermeasures help maintain normal competitive order】MOFCOM and other agencies announced retaliatory measures against recent US actions by the Federal Communications Commission and Department of Homeland Security, including tightened export controls on drone-related dual-use items bound for the US and placing six US entities, including Applied DNA Sciences, on a countermeasure list. Beijing said the package is legally grounded and intended to defend national interests; China reaffirmed commitment to stable US-China ties but warned that if the US implements further restrictive measures, it will impose additional countermeasures.
 
 ---
 
@@ -18679,19 +18685,5 @@ UK Housing Market Remains Subdued — The RICS UK Residential Market Survey show
 ### 2026-08-13 07:05:03  #公司
 
 【北交所首批半年報出爐，高景氣賽道業績亮眼】北交所首批2026年半年報近日陸續披露，企業成長成色初現。據北交所官網披露，截至8月12日，已有嘉晨智慧、吉和昌、科創新材、明陽科技等30家北交所上市公司半年報“交卷”。總的來看，已披露公司業績表現搶眼，超八成實現營收與淨利潤“雙增長”，算力服務、新能源、半導體等高景氣賽道成為拉動業績增長的核心引擎，凸顯北交所“專精特新”企業的成長活力。（上證報）
-
----
-
-### 2026-08-13 07:03:43  #宏觀 #公司 #國際
-
-【8月13日隔夜要聞一覽】
-1、伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。
-2、美國國際貿易委員會（USITC）對三星裝置啟動337條款調查。Maxell聲稱三星侵犯其移動裝置專利。
-3、美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。
-4、思科第四財季營收173億美元，市場預估為168.5億美元。思科預計第一財季營收為180億至182億美元，預估為168.4億美元；預計第一季度調整後每股收益為1.32至1.34美元，預估為1.17美元。
-5、美國汽車協會資料顯示，汽油和柴油價格均創歷年同期新高。8月第二週，美國汽油平均價格達到每加侖4美元，柴油則達到每加侖5.40美元，均創歷年同期新高。
-6、DeepSeek V4 Pro正式版API更新，多項測試效能接近Fable 5。
-7、SpaceXAI推出Grok 4.6，跑分與GPT-5.6 Sol Max持平。
-8、美國總統特朗普在社交平臺“真實社交”發文稱，白宮新聞秘書卡羅琳·萊維特將於本月底離任，以便花更多時間陪伴孩子和家人。
 
 ---

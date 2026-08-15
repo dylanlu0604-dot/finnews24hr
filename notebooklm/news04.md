@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 23:32:24_
-_本檔包含 3212 則快訊，約 605207 字_
+_更新時間：2026-08-15 23:52:40_
+_本檔包含 3210 則快訊，約 604998 字_
+
+---
+
+### 2026-08-11 23:33:29  #MKT News #Macro & Rates #Treasury Yields
+
+US 6-week Treasury auction on Aug 11 - bid-cover ratio 2.93, prior 2.93.
+
+---
+
+### 2026-08-11 23:32:43  #國際
+
+以色列訊息人士：美國正向以色列施加巨大壓力，促使其推進特朗普關於加沙地帶的計劃。
+
+---
+
+### 2026-08-11 23:32:23  #宏觀 #市場 #國際
+
+美國財政部拍賣六週期國債，得標利率3.670%，投標倍數2.93。
+
+---
+
+### 2026-08-11 23:32:22  #MKT News
+
+Mexico registered unemployed in July: 19,550 people.
+
+---
+
+### 2026-08-11 23:30:04  #Trading Economics #Economy #Zambia #Government Bond 10Y #Importance 0
+
+Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.81%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 2.00 basis points, and in the last 12 months, it decreased 271.80 basis points.
 
 ---
 
@@ -19317,47 +19347,5 @@ Pre-market: eBay (EBAY.O) shares down 2.5%; GameStop (GME.N) up 3.7%.
 ### 2026-08-10 19:50:35  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
 
 Hassett, director of the White House National Economic Council, said there is no need to invent a US Treasuries theory to stabilize the yen.
-
----
-
-### 2026-08-10 19:50:30  #公司
-
-福克斯集團提交混合證券儲架發行備案。
-
----
-
-### 2026-08-10 19:49:52  #MKT News #USDJPY
-
-White House National Economic Council Director Hassett said a stable yen exchange rate would help prevent volatility from spilling over.
-
----
-
-### 2026-08-10 19:49:48  #其他
-
-白宮國家經濟委員會主任哈塞特：無需為穩定日元而炮製美債理論。
-
----
-
-### 2026-08-10 19:49:25  #MKT News #EBAY.O #Impact bearish #GME.N
-
-GameStop (GME.N) CEO Ryan Cohen is reportedly considering withdrawing his $56 billion bid to acquire eBay.
-
----
-
-### 2026-08-10 19:49:13  #市場
-
-EBAY股價盤前下跌2.5%，GAMESTOP股價盤前上漲3.7%。
-
----
-
-### 2026-08-10 19:48:57  #其他
-
-白宮國家經濟委員會主任哈塞特：日元保持穩定有助於防範風險蔓延。
-
----
-
-### 2026-08-10 19:48:44  #其他
-
-【內蒙古啟動防汛四級、暴雨氣象災害Ⅳ級應急響應】2026年8月10日12時，內蒙古自治區防汛抗旱指揮部與人工影響天氣與氣象災害防禦管理指揮部辦公室聯合啟動防汛四級應急響應和暴雨氣象災害Ⅳ級應急響應，統籌部署本輪區域性強降水防範應對工作。據氣象部門預測，8月10日起，內蒙古自西向東有一次區域性強降水過程。阿拉善盟東北部、巴彥淖爾市大部、鄂爾多斯市北部至赤峰市北部和中部、通遼市西北部、興安盟東部有大雨，巴彥淖爾市南部、鄂爾多斯市東北部、包頭市中部和南部、呼和浩特市西北部、烏蘭察布市中部、錫林郭勒盟中部和東南部、赤峰市中部有暴雨，局地有大暴雨，過程最大累計降水量可達50~120毫米，局地可達150毫米以上。（央視新聞）
 
 ---
