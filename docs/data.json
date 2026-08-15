@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-15 16:30:11",
+  "updated": "2026-08-15 16:34:10",
   "count": 15316,
   "items": [
+    {
+      "id": "mkt:01a0048c-1bfe-7aab-9048-2213118bac50",
+      "time": "2026-08-15 16:31:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Lazard survey: AI threat to software prompts PE secondary-market investors to shift capital】Lazard's survey shows private equity secondary-market investors are reassessing software investments and reallocating capital while awaiting clearer evidence of AI-driven disruption to business models and valuations. 91% of respondents said the main moat against AI replacing software products is \"proprietary data advantages and network effects difficult for AI to replicate.\" Only 4% reported no change to their software investment approach as of June."
+    },
     {
       "id": "5042235",
       "time": "2026-08-15 16:27:01",
@@ -140197,14 +140207,6 @@
         "MKT News"
       ],
       "text": "The U.S. Senate confirmed Todd Blanche as U.S. Attorney General."
-    },
-    {
-      "id": "5031866",
-      "time": "2026-08-08 16:31:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國數標委明確：所謂“資料國家標準編制費”系冒名收取】2026年8月7日，全國資料標準化技術委員會（簡稱“全國數標委”）秘書處釋出宣告：近期，全國資料標準化技術委員會接到多起反映，稱有部分單位或個人冒用全國數標委的名義，向企業收取所謂“資料國家標準編制費”“標準掛名費”或“標準參編費”等不正當費用。此類行為嚴重擾亂國家標準制修訂工作秩序，損害了全國數標委的聲譽及合法權益。為此，全國數標委秘書處宣告：全國數標委從未，也絕不會以任何“標準掛名”“參編署名”“標準立項”等非正當名義，向任何企事業單位、社會組織或個人直接收取不正當費用。（澎湃）"
     }
   ]
 }
