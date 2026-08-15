@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-15 13:48:12",
+  "updated": "2026-08-15 13:52:12",
   "count": 15304,
   "items": [
+    {
+      "id": "5042186",
+      "time": "2026-08-15 13:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼外交部領事司：地震暫未導致外國公民傷亡】當地時間15日，印尼外交部領事司通報地震有關訊息，稱截至目前無外國公民傷亡。（央視新聞）"
+    },
     {
       "id": "5042185",
       "time": "2026-08-15 13:38:06",
@@ -140121,16 +140129,6 @@
         "DXY"
       ],
       "text": "Russian Defence Ministry said Russian forces struck military-industrial facilities and fuel depots in Kyiv overnight, RIA reported."
-    },
-    {
-      "id": "mkt:019fdfea-3e0f-7aab-8fc2-d72e37add833",
-      "time": "2026-08-08 13:48:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's National Flood Control and Drought Relief Headquarters activated a level-4 emergency response for flood and typhoon control in Jiangsu and Anhui."
     }
   ]
 }
