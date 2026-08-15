@@ -1,7 +1,27 @@
 {
   "date": "2026-08-16",
-  "count": 40,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:01a00698-75b9-7aab-904a-786dd087d189",
+      "time": "2026-08-16 02:04:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni sources said a fourth explosion struck Marib, caused by shelling from Houthi forces."
+    },
+    {
+      "id": "5042414",
+      "time": "2026-08-16 02:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門：馬裡卜遭胡塞武裝炮擊，發生第四起爆炸。"
+    },
     {
       "id": "5042413",
       "time": "2026-08-16 02:03:31",
