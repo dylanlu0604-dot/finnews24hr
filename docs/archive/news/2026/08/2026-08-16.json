@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 9,
+  "count": 11,
   "items": [
+    {
+      "id": "mkt:01a00648-aee8-7aab-9049-ca38d8fd2f72",
+      "time": "2026-08-16 00:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【6.2 magnitude earthquake offshore Central Sulawesi, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a 6.2 magnitude earthquake offshore Central Sulawesi at 23:25 local time on Aug 15, with a focal depth of 44 km. BMKG said no tsunami risk is expected."
+    },
+    {
+      "id": "5042405",
+      "time": "2026-08-16 00:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼中蘇拉威西省附近海域發生6.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月15日23時25分，印尼中蘇拉威西省附近海域發生6.2級地震， 震源深度44公里。預計不會有海嘯風險。"
+    },
     {
       "id": "mkt:01a00645-6714-7aab-9049-c5fdfaaf3920",
       "time": "2026-08-16 00:33:26",

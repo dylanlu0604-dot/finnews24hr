@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 00:36:27",
-  "count": 15269,
+  "updated": "2026-08-16 00:40:19",
+  "count": 15270,
   "items": [
+    {
+      "id": "mkt:01a00648-aee8-7aab-9049-ca38d8fd2f72",
+      "time": "2026-08-16 00:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【6.2 magnitude earthquake offshore Central Sulawesi, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a 6.2 magnitude earthquake offshore Central Sulawesi at 23:25 local time on Aug 15, with a focal depth of 44 km. BMKG said no tsunami risk is expected."
+    },
+    {
+      "id": "5042405",
+      "time": "2026-08-16 00:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼中蘇拉威西省附近海域發生6.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月15日23時25分，印尼中蘇拉威西省附近海域發生6.2級地震， 震源深度44公里。預計不會有海嘯風險。"
+    },
     {
       "id": "mkt:01a00645-6714-7aab-9049-c5fdfaaf3920",
       "time": "2026-08-16 00:33:26",
@@ -139774,18 +139790,6 @@
         "MKT News"
       ],
       "text": "【Pentagon official says U.S. ammunition stocks sufficient for operations against Iran】Pentagon Deputy Director for the Defense Innovation Unit Jared Conley said the U.S. military has sufficient ammunition to meet operational needs in a conflict with Iran, saying “we have enough ammunition to complete current missions” and that “the Defense Department has all necessary resources to wage war.” He addressed earlier reports that key air-defence munitions, including ballistic missile interceptors, had been drawn down."
-    },
-    {
-      "id": "mkt:019fe23e-e249-7aab-8fc5-30a9f8f8543a",
-      "time": "2026-08-09 00:39:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products."
     }
   ]
 }
