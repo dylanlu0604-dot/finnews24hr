@@ -1,7 +1,108 @@
 {
-  "updated": "2026-08-15 18:36:17",
-  "count": 15302,
+  "updated": "2026-08-15 18:46:20",
+  "count": 15306,
   "items": [
+    {
+      "id": "mkt:01a00506-1fc0-7aab-9048-c03e0f695af0",
+      "time": "2026-08-15 18:44:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran, Tajikistan sign long-term oil cooperation agreement】According to Iranian media Fars News, Iran and Tajikistan agreed in their latest oil talks to a long-term energy cooperation deal. The pact covers two main elements: Iran will export oil products to Tajikistan and will supply crude oil to Tajikistan's refineries."
+    },
+    {
+      "id": "5042275",
+      "time": "2026-08-15 18:42:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對黎巴嫩南部襲擊造成死亡人數升至九人。"
+    },
+    {
+      "id": "mkt:01a00501-8319-7aab-9048-b936bf4c3c7b",
+      "time": "2026-08-15 18:39:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "UAE foreign ministry said Iran must fully commit to ceasing all hostile actions and to fully, unconditionally reopening the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a00501-487c-7aab-9048-b0a13a66b41d",
+      "time": "2026-08-15 18:39:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE Foreign Ministry said attacks by Iran pose a direct threat to regional stability, civilian safety and global energy security."
+    },
+    {
+      "id": "mkt:01a00500-d856-7aab-9048-afd508ff20be",
+      "time": "2026-08-15 18:38:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE Foreign Ministry condemned an Iranian attack on Abu Dhabi National Oil Company (ADNOC) vessels while transiting the Strait of Hormuz."
+    },
+    {
+      "id": "5042274",
+      "time": "2026-08-15 18:38:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋強調，必須確保伊朗完全致力於停止一切敵對行動，並全面、無條件地重新開放霍爾木茲海峽。"
+    },
+    {
+      "id": "5042273",
+      "time": "2026-08-15 18:38:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部：伊朗革命衛隊（IRGC）將針對商業航行和利用霍爾木茲海峽作為施壓或經濟勒索工具的行為被視為海盜行為。此次襲擊公然違反了安理會第2817號決議，該決議強調航行自由。阿聯酋強調伊朗必須停止這些侵略性襲擊。"
+    },
+    {
+      "id": "mkt:01a00500-5f64-7aab-9048-a0e4879f64a4",
+      "time": "2026-08-15 18:38:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is using commercial shipping as a tool of coercion or economic extortion, and that its actions in the Strait of Hormuz amount to piracy."
+    },
+    {
+      "id": "mkt:01a004ff-9eca-7aab-9048-9d84c116224e",
+      "time": "2026-08-15 18:37:36",
+      "tags": [
+        "MKT News",
+        "DIS.O",
+        "Impact bullish"
+      ],
+      "text": "【Disney new CEO: Streaming core to future growth】Disney's incoming CEO Josh D'Amaro said streaming service Disney+ is central to the company's future growth. He said Disney's scale gives it a direct relationship with consumers, allowing technical integration of data and unified messaging. He added the platform will deliver a \"seamless user experience\" to boost fan lifetime value and shareholder returns, and that successfully executing streaming presents \"huge opportunity.\""
+    },
+    {
+      "id": "5042272",
+      "time": "2026-08-15 18:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【淮河防總、淮委調整淮河流域應急響應】8月15日，淮河防汛抗旱總指揮部、水利部淮河水利委員會對淮河流域防汛應急響應實施調整，涉及河南省、安徽省、江蘇省和山東省。 根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委8月15日12時終止河南省淮河及以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省沙潁河、洪汝河水系防汛二級應急響應、洪水防禦Ⅱ級應急響應，將該省淮河以北其他地區防汛應急響應調整為四級、洪水防禦應急響應調整為Ⅳ級；終止安徽省淮河以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省淮河及以北地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應；針對江蘇省、山東省，終止其淮河流域（片）的防汛四級應急響應、洪水防禦Ⅳ級應急響應。（新華社）"
+    },
     {
       "id": "5042271",
       "time": "2026-08-15 18:29:23",
@@ -140041,69 +140142,6 @@
         "XAUUSD"
       ],
       "text": "UAE foreign ministry said using the Strait of Hormuz as a tool for coercion or extortion constitutes piracy by the Islamic Revolutionary Guard Corps."
-    },
-    {
-      "id": "mkt:019fe0fb-07e0-7aab-8fc3-baf33c1473f8",
-      "time": "2026-08-08 18:46:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "UAE Foreign Ministry said it strongly condemned Iran's attack on an Abu Dhabi National Oil Company (ADNOC) tanker."
-    },
-    {
-      "id": "5031918",
-      "time": "2026-08-08 18:44:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿聯酋譴責伊朗襲擊阿布扎比國家石油公司油輪。"
-    },
-    {
-      "id": "mkt:019fe0f6-0dec-7aab-8fc3-b456aea7a60b",
-      "time": "2026-08-08 18:40:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Iran says talks with Oman unrelated to reopening of Strait of Hormuz】On the 8th, an IRGC spokesman said reopening the Strait of Hormuz is unrelated to talks with Oman and instead depends on whether the US fully accepts Iran’s conditions and stops interfering in regional negotiations. \"Once the US accepts Iran's conditions, the strait will reopen,\" he said."
-    },
-    {
-      "id": "5031917",
-      "time": "2026-08-08 18:40:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部針對安徽啟動國家地質災害四級應急響應】據氣象部門預測，受今年第13號颱風“白海豚”影響，未來三天，安徽部分地區有暴雨到大暴雨，局地特大暴雨。經與自然資源部聯合會商研判，安徽西部區域性地區發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於8月8日針對安徽啟動地質災害四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe0f5-0da2-7aab-8fc3-ae5618dc9cbd",
-      "time": "2026-08-08 18:39:43",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Turkey restricts commercial vessels from entering Black Sea over security concerns, sources say】Turkey is restricting commercial vessels from entering the Black Sea, sources said, citing a rise in attacks on ships by Russian and Ukrainian forces. The Turkish Coast Guard has told multiple vessels bound for Russia’s Novorossiysk, a major oil and grain export hub, that it will not issue transit permits for such voyages and that Dardanelles transit applications will face extended review. Sources said some ships were told the restriction also applies to voyages to Ukraine. Turkish authorities did not comment. The move could add new complexity to global trade and oil flows already disrupted by the Iran war and reduced traffic through the Strait of Hormuz."
-    },
-    {
-      "id": "5031916",
-      "time": "2026-08-08 18:38:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆阿克蘇地區沙雅縣發生3.1級地震，震源深度25千米】中國地震臺網正式測定：08月08日18時27分在新疆阿克蘇地區沙雅縣（北緯39.62度，東經82.82度）發生3.1級地震，震源深度25千米。"
     }
   ]
 }
