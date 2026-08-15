@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 20:52:16_
-_本檔包含 2754 則快訊，約 604861 字_
+_更新時間：2026-08-15 21:57:16_
+_本檔包含 2752 則快訊，約 604842 字_
+
+---
+
+### 2026-08-10 19:39:07  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Ticks Higher, Still Near 2-Month Low — The dollar index edged up to 99.7 on Monday, following a 0.4% decline last week that pushed the greenback to a two-month low. Traders are now awaiting this week’s CPI report for further clues on inflationary pressures, after Friday’s weaker-than-expected jobs report reduced expectations for a Fed rate hike in September. The odds of such a move currently stand at around 46%, down from approximately 64% a week ago, while the probability of the Fed holding rates is seen at about 54%. Meanwhile, traders continued to assess developments in the Middle East and ongoing talks to reopen the Strait of Hormuz, although a deal between the US and Iran appears unlikely in the near term. The dollar was mostly higher against the yen, with the Japanese currency giving back some of its intervention-driven gains while remaining well above the multi-decade low hit late last month.
+
+---
+
+### 2026-08-10 19:38:54  #其他
+
+英特爾：宣佈擬進行150億美元普通股發行。
+
+---
+
+### 2026-08-10 19:38:51  #其他
+
+【馬裡軍方稱打死50餘名恐怖分子】當地時間8月10日，馬裡武裝部隊總參謀部釋出通告稱，8月9日凌晨，大批恐怖分子對馬裡武裝部隊第23步兵團駐地發動突襲。駐守部隊迅速展開協同反擊，接連擊退多輪進攻，最終奪回營地控制權。經初步核查，已有50餘名恐怖分子被打死。截至通告發布時，馬裡軍方仍在事發區域持續搜捕追擊逃竄的恐怖分子。（央視新聞）
+
+---
+
+### 2026-08-10 19:38:06  #公司
+
+【中晟高科：擬設兩全資子公司投建新專案，合計出資5000萬元】中晟高科公告，公司擬以自有資金或自籌資金出資3000萬元在福清市江陰鎮設立全資子公司“景晟(福建)新材料有限公司”，投資建設“景晟（福建）新材料聚丙烯深加工專案”；擬以實物及現金出資2000萬元在福州市羅源縣設立全資子公司“福建晟灝新材料有限公司”，投資建設“高分子新材料專案”。兩個專案均從事改性塑膠新材料領域生產與銷售，投資總額分別為5000萬元和3500萬元，資金來源為自有資金。
+
+---
+
+### 2026-08-10 19:38:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
+
+【40°C heat returns to Europe: rivers critical, wildfire risk high, power grids under strain】A fresh heatwave will sweep drought-hit Europe this week, raising wildfire risk, threatening crops and further depleting already record-low river levels. France’s weather service expects a high-pressure heat dome to push northern France toward 40°C on Tuesday; southern UK around 35°C; Frankfurt may reach 38°C on Friday. The heat could block moisture-bearing clouds and hinder replenishment of major waterways — the Rhine, Po and Danube — whose low flows have already disrupted navigation and power generation. Higher temperatures and continued dryness are adding stress to grids, cutting hydropower output and suppressing agricultural yields; EU Joint Research Centre models show elevated fire risk this week across the UK, Spain, France, Germany and Italy.
+
+---
+
+### 2026-08-10 19:35:56  #MKT News #Market Regions #Europe & UK #LLY.N #Impact bullish
+
+UK approves Eli Lilly (LLY.N) drug FOUNDAYO for weight management and treatment of type 2 diabetes.
+
+---
+
+### 2026-08-10 19:35:35  #公司
+
+【博睿資料：持股5%以上股東孟曦東及其一致行動人減持股份】博睿資料公告稱，2026年8月4日至8月5日元亨利匯透過集中競價累計減持193,390股，佔總股本0.44%；8月10日孟曦東透過大宗交易減持441,000股，佔總股本0.99%。本次權益變動後，孟曦東及其一致行動人合計持股比例由10.00%降至8.57%。此次減持系履行已披露計劃，不會導致控股股東及實控人變化，不觸及要約收購等。
+
+---
+
+### 2026-08-10 19:35:25  #其他
+
+英國批准禮來的 Foundayo 用於體重管理及 2 型糖尿病治療。
+
+---
+
+### 2026-08-10 19:34:58  #公司 #國際
+
+【外交部：奉勸美方儘早解除對古巴的制裁封鎖 不要一再向他人“潑髒水”】8月10日外交部發言人郭嘉昆答記者問。據報道，美國最近再次以中俄與古巴的軍事合作為藉口，對更多古巴公司和個人實施制裁。中方如何看待這些新的單邊制裁，以及美方試圖干涉中國與古巴正常合作的行徑？郭嘉昆表示，中方已經多次就有關問題闡明立場。我們奉勸美方儘早解除對古巴的制裁封鎖，不要一再向他人“潑髒水”。中古合作光明正大，中方將繼續堅定支援古巴維護國家主權、反對外來干涉。（央視新聞）
+
+---
+
+### 2026-08-10 19:34:32  #公司
+
+【阿聯酋擬擲數十億美元建新LNG出口終端 謀求規避霍爾木茲海峽風險】阿布扎比國家石油公司旗下天然氣子公司Adnoc Gas Plc正考慮在霍爾木茲海峽以外地區新建一座液化天然氣(LNG)出口設施。此舉是阿聯酋為繞過這一關鍵水道而建設基礎設施的最新舉措。
+
+---
+
+### 2026-08-10 19:33:36  #國際
+
+伊朗媒體週一報道，根據一項新規定，伊朗各行政機構不得再自行封禁、暫停或限制網路平臺及數字業務，此類決定必須獲得伊朗總統佩澤希基揚批准。
+
+---
+
+### 2026-08-10 19:32:56  #國際
+
+【外交部：印方公佈所謂“標準名稱”試圖取代中國長期使用的地名，是非法的、無效的，更改變不了藏南地區屬於中國的事實】2026年8月10日外交部發言人郭嘉昆答記者問，部分內容如下：彭博社記者：據報道，7日，印度公佈“阿魯納恰爾邦”27處地點所謂“標準名稱”。印內政部發表宣告稱，在地圖上正式標註地點名稱將幫助公眾更好認識相關地區。中方對此有何回應？郭嘉昆：藏南地區是中國領土，中方從不承認印度非法設立的所謂“阿魯納恰爾邦”。印方公佈所謂“標準名稱”試圖取代中國長期使用的地名，是非法的、無效的，更改變不了藏南地區屬於中國的事實。（環球網）
+
+---
+
+### 2026-08-10 19:32:22  #國際
+
+市場訊息：加沙地帶政府媒體辦公室表示，以色列 “蓄意阻礙加沙局勢走向緩和”。
+
+---
+
+### 2026-08-10 19:31:39  #市場 #國際
+
+印度10年期基準國債收益率<IN069436G=CC>收於6.7643%；前收盤價為6.7651%。
+
+---
+
+### 2026-08-10 19:31:27  #公司
+
+【今天國際：持股5%以上股東邵健鋒部分股份質押續期】今天國際公告稱，公司持股5%以上股東邵健鋒將持有的1737.4萬股辦理質押續期，佔其所持股份比例49.98%，佔公司總股本比例2.73%，質權人為紅塔證券，質押用途為融資，續期後質押到期日為2027年8月7日。截至公告披露日，控股股東及其一致行動人累計質押股份佔公司總股本比例為2.73%。
+
+---
+
+### 2026-08-10 19:31:06  #央行 #國際
+
+【日本增長戰略大臣為財政狀況辯護 稱投資計劃將為日元帶來長期提振】日本增長戰略大臣城內實表示，日本的支出計劃將為日元帶來長期的提振，並反駁了市場對該國財政狀況的擔憂。城內實週一接受採訪時表示：“日本的財政政策並不像大家認為的那麼具有擴張性，因為我們非常重視可持續性。”他還強調，日本正努力轉向更符合“國際標準”的衡量方式，即以債務佔經濟產出的比例來評估債務水平。日本首相高市早苗為重振經濟推出了一系列支出計劃，引發市場對資金來源的擔憂。城內實淡化了高市早苗一項前所未有的計劃所帶來的財政負擔。按照該計劃，日本將在14年內向關鍵產業投入370萬億日元（2.3萬億美元）。他說，支援人工智慧、半導體和遊戲等行業對於日本經濟增長是必要的，併為這份由他參與制定的路線圖進行辯護。“隨著對日本以及日元計價資產的投資增加，對日元的需求自然也會上升，”城內實表示。此前，美日罕見聯合干預匯市以推升日元，但相關影響正開始消退。對於為期兩年的消費稅減稅計劃，城內實也認為融資難度不大。該計劃預計每年將耗費約5萬億日元。他表示：“籌措5萬億日元並沒有那麼困難。”他指出，對政府財政收支進行大規模調整將產生可用於彌補這部分資金的節餘。談及貨幣政策時，城內實表示，日本央行目前做得很好。這一表態可能意味著，他並不強烈反對短期內加息。市場對日本央行在9月或10月加息的預期持續升溫。
 
 ---
 
@@ -16519,113 +16615,5 @@ Oman’s state news agency said Oman condemned Iran’s repeated attacks on vess
 ### 2026-08-08 21:58:04  #其他
 
 阿曼稱有關霍爾木茲海峽安排的持續談判是"積極且建設性的"。
-
----
-
-### 2026-08-08 21:57:11  #其他
-
-阿曼訊息：阿曼譴責船舶途經霍爾木茲海峽時遭到多次襲擊的行徑。
-
----
-
-### 2026-08-08 21:51:43  #市場 #國際
-
-【美議員諷刺特朗普對伊政策：他總在股市開盤前說不打了】當地時間8月6日，美國民主黨籍聯邦參議員克里斯·墨菲表示，總統特朗普通常會在週日晚上或週一早上，也就是股市開盤前，宣佈美伊戰事即將結束。但戰火已持續了六個月。（澎湃）
-
----
-
-### 2026-08-08 21:49:53  #MKT News
-
-【Ship struck by 'unknown projectile', fire extinguished 18 nm east of Seeb, Oman】UKMTO reported on the 8th local time that a vessel 18 nautical miles east of Seeb, Oman, in the Sea of Oman was struck by an "unknown projectile" and caught fire; the blaze has been extinguished and all crew are reported safe. Authorities are investigating. UKMTO advised transiting vessels to proceed with caution.
-
----
-
-### 2026-08-08 21:48:52  #國際
-
-【2026中國摩博會將於9月19日—22日在重慶舉行】據重慶日報，第二十四屆中國國際摩托車博覽會（簡稱“中國摩博會”）將於2026年9月19日—22日在重慶國際博覽中心舉行。據瞭解，本屆展會以“引領行業發展共創美好未來”為主題，展示面積超17萬㎡，包括8個室內展館和8萬㎡的室外場地，屆時將匯聚來自中國、美國、義大利、德國、法國、日本、英國、西班牙、韓國、巴基斯坦等國家的參展企業逾1000家，展示規模和展商數均創歷史新高。
-
----
-
-### 2026-08-08 21:46:03  #其他
-
-【一船隻在阿曼以東海域遭襲起火】英國海上貿易行動辦公室（UKMTO）當地時間8日收到報告稱，阿曼海塞卜以東18海里處發生一起突發事件。經核實的訊息來源報告稱，一艘船隻遭“不明投射物”擊中並引發火災，目前火勢已被撲滅。訊息稱船員均安全。有關部門正在對事件展開調查。英國海上貿易行動辦公室建議過往船隻謹慎航行。（央視新聞）
-
----
-
-### 2026-08-08 21:45:39  #其他
-
-【颱風“白海豚”逼近 上海危險區域已轉移3萬人】記者8日從上海市防汛指揮部獲悉，為防範今年第13號颱風“白海豚”可能帶來的風雨影響，上海市應急部門8日上午組織首批危險區域人員轉移工作，截至8日18時共轉移安置崇明區、臨港新片區、洋山港等危險區域人員3.03萬人。按計劃，9日上午8時起，還將對浦東新區（包括泥城鎮、書院鎮、萬祥鎮）、奉賢區、金山區、上海化工區啟動人員轉移工作。（央視新聞）
-
----
-
-### 2026-08-08 21:29:16  #MKT News
-
-【Saudi expended 86% of PAC-3 (Patriot-3) interceptor stockpile】A UK media report says Saudi Arabia fired about 2,400 PAC-3 (Patriot-3) interceptors in the first 38 days after the conflict began, roughly 86% of an estimated 2,800-round inventory. By April last year Saudi had about 400 interceptors remaining. Other Gulf Arab states reportedly used comparably large portions of their missile stocks, underscoring acute regional military strain.
-
----
-
-### 2026-08-08 21:28:46  #公司
-
-【明日運營開始起，上海地鐵全網路地面高架區段限速執行】申通地鐵集團介紹，受今年第13號颱風“白海豚”影響，為確保軌道交通運營安全，上海地鐵實施運營調整：8月9日運營開始起，3號線、浦江線全線限速執行；1號線、2號線、4號線、5號線、6號線、7號線、8號線、9號線、10號線、11號線、16號線、17號線、市域機場線地面、高架區段限速執行，同時，16號線取消大站車，列車站站停靠。全網路其他線路區段正常執行。上海地鐵將密切關注颱風路徑變化，根據風速、雨量和對運營影響程度等實際情況，動態調整列車開行方案，遇緊急情況或將採取停運措施，保障乘客安全出行。請市民乘客留意官方釋出的運營資訊。（上海釋出）
-
----
-
-### 2026-08-08 21:26:24  #宏觀 #公司 #國際
-
-【多家上市公司宣佈收到美國關稅退稅】上市公司公告顯示，自7月以來，多家公司宣佈已經收到美國關稅退稅。根據美國最高法院今年2月裁定，《國際緊急經濟權力法》不授權總統徵收大規模關稅。美國國際貿易法院隨後下令海關辦理相關退款。海關與邊境保護局4月20日啟動第一階段退款工作，首批退款於5月11日前後發放。美國海關與邊境保護局官員本月4日披露的資訊顯示，截至7月底，該部門已處理完畢約1000億美元關稅的退款流程並把相關資訊提供給財政部用於付款。（中新社）
-
----
-
-### 2026-08-08 21:23:50  #公司
-
-【華中最大“雙膜”工藝應急水廠通水】據“三峽小微”公眾號訊息，8月8日，由三峽集團所屬長江環保集團、武漢市水務集團等共同投資建設的華中地區規模最大的“雙膜”工藝應急水廠——武漢梁子湖應急水廠併網通水，標誌著武漢市江南區域正式構建起“一江一湖”雙水源互為備援、靈活排程的供水新格局，為片區660萬市民用水安全提供堅實保障。
-
----
-
-### 2026-08-08 21:23:01  #其他
-
-【OPPO將首次推出OPPO FatMax超燃脂模式】8月8日，在第十八個全民健身日之際，OPPO 宣佈將首次推出運動手錶的OPPO FatMax超燃脂模式。與目前市面上其他運動手錶給出的“有氧區間”不同，OPPO健康產品業務負責人李勝介紹，即將推出的OPPO FatMax 超燃脂模式並非依賴固定的粗略計算公式，而是基於先進的自研健康演算法，根據使用者的身高、體重、年齡、性別和運動基礎等個體資料，計算出專屬最佳燃脂心率區間，並隨著佩戴時長持續最佳化。據悉，OPPO FatMax 超燃脂模式將於 2026 年 9 月隨 OPPO Watch S2 一同正式上線。
-
----
-
-### 2026-08-08 21:14:12  #MKT News
-
-UKMTO said reliable sources reported a vessel was struck by an unidentified flying object, causing a fire that has since been extinguished. The crew reported they were safe and there was no environmental impact.
-
----
-
-### 2026-08-08 21:09:47  #其他
-
-英國海上貿易行動辦公室（UKMTO）表示，船員已報平安，未對環境造成影響。
-
----
-
-### 2026-08-08 21:09:11  #其他
-
-英國海事貿易行動辦公室（UKMTO）表示，已接到報告稱，阿曼哈薩卜以東18海里處發生一起安全事件。
-
----
-
-### 2026-08-08 21:09:07  #MKT News
-
-UKMTO said it had received a report of an incident 18 nautical miles east of Khasab, Oman.
-
----
-
-### 2026-08-08 20:57:46  #國際
-
-【河南釋出農田漬澇災害風險預警】今天（8月8日），河南省氣象局、河南省農業農村廳聯合釋出農田漬澇災害風險預警：受颱風“白海豚”影響，預計8月10日至13日，河南東南部、中東部和北部部分縣（市、區）有暴雨、大暴雨，其他縣（市、區）中到大雨，與前期土壤偏溼地塊疊加，全省大部存在農田漬澇風險，其中，豫北東部、中東部大部及豫南區域性風險高，降水過程同時伴有7～8級陣風，局地玉米有倒伏風險，需加強防範。（央視新聞）
-
----
-
-### 2026-08-08 20:56:38  #其他
-
-【克羅埃西亞兩列火車相撞致20人受傷】當地時間8月8日上午，克羅埃西亞北部克里熱夫齊境內發生一起貨運列車與客運列車相撞事故。克羅埃西亞衛生部表示，事故造成6名乘客重傷、14人輕傷。（央視新聞）
-
----
-
-### 2026-08-08 20:55:58  #MKT News
-
-【Sources: If Democrats win House, plan probes of Trump business and financial network rather than immediate impeachment】Sources say House Democrats are preparing, if they retake the House, to pursue broad investigations targeting Trump’s business and financial network rather than immediate impeachment. Senior House Democrats and committee staff have discussed using hearings, subpoenas and document requests to obtain records from entities tied to Trump’s political and commercial circle. Planners expect probing private companies and external financial actors will be more effective than directly confronting a White House likely to resist oversight. Democrats envision deploying House investigative powers after the mid-November election to review government decision-making and examine whether Trump used office to benefit himself, allies or donors.
 
 ---

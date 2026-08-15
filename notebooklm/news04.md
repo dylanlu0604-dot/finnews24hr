@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 20:52:16_
-_本檔包含 3223 則快訊，約 604090 字_
+_更新時間：2026-08-15 21:57:16_
+_本檔包含 3230 則快訊，約 605074 字_
+
+---
+
+### 2026-08-11 23:02:23  #其他
+
+【奈及利亞交火事件致10名警察和2名平民死亡】奈及利亞西北部凱比州10日發生一起安全人員與武裝分子交火事件，造成10名警察和2名平民死亡，另有17名武裝分子被當場擊斃。（央視新聞）
+
+---
+
+### 2026-08-11 23:01:53  #其他
+
+【英偉達推出Nemotron 3.5 Lightning 瞄準智慧體AI提速】英偉達將擴充套件Nemotron 3模型系列，推出Nemotron 3.5 Lightning。與同類其他模型相比，該模型的輸出速度最高可提升4倍，智慧體任務完成速度可提升30%。英偉達將Nemotron 3.5 Lightning稱為“同類模型中針對長時間執行的智慧體AI工作負載效率最高的模型”。Nemotron 3.5 Lightning是一款擁有300億引數的混合專家模型，可幫助開發更智慧、更高效的智慧體應用。Nemotron 3.5 Lightning現已作為英偉達NIM微服務在Hugging Face、ModelScope、OpenRouter以及build.nvidia.com上線。
+
+---
+
+### 2026-08-11 23:01:39  #MKT News #Important #CME.O #Impact bullish
+
+CME Group and Silicon Data will launch computing-power futures on Oct. 5.
+
+---
+
+### 2026-08-11 23:00:53  #MKT News #Important #Commodities #Energy
+
+As of the 23:00 close in China, main futures contracts were mixed. Fuel oil jumped more than 2%; coking coal, coke and low-sulfur fuel oil (LU) rose over 1%; asphalt and caustic soda gained about 1%; PET chips fell more than 1% and pulp slid nearly 1%.
+
+---
+
+### 2026-08-11 23:00:24  #其他
+
+【水利部針對北京天津啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，據預報，8月11日夜間至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津薊運河將出現漲水過程，暴雨區內山洪災害和中小河流洪水風險高。水利部於8月11日22時30分針對北京、天津市啟動洪水防禦Ⅳ級應急響應，並派出2個工作組赴北京、天津市暴雨洪水防禦一線協助指導。（央視新聞）
+
+---
+
+### 2026-08-11 23:00:24  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Analyst: Iran's bargaining chip in Strait of Hormuz 'depreciating'】International Policy Research Center vice chairman Rashid Muhannadi said talks to resolve the Strait of Hormuz crisis are advancing despite public US‑Iran hardline rhetoric. He said Iran views control of the strait as a national security concern and is using it as a bargaining chip, but called that chip a 'depreciating asset.' Muhannadi added actions that impede freedom of navigation remain widely opposed, and parties appear willing to explore a mutually acceptable regional mechanism to manage transit through the strait.
+
+---
+
+### 2026-08-11 23:00:06  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Drops by 0.59% — Top currency loser is Brazilian Real (-0.59%). Gains are led by South Korean Won (0.42%). Meanwhile, Japanese Yen and Euro were little changed.
+
+---
+
+### 2026-08-11 23:00:02  #市場
+
+【夜盤期貨收盤】焦煤連續漲2.04%，低硫燃料油連續漲1.22%，焦炭連續漲1.01%，紙漿連續跌0.78%，純鹼連續漲0.71%。
+
+---
+
+### 2026-08-11 22:58:52  #國際
+
+法律商業新聞網：美國法院支援對獲假釋移民實施快速驅逐程式。
+
+---
+
+### 2026-08-11 22:58:46  #MKT News
+
+U.S. court backs expedited removal of immigrants granted parole.
+
+---
+
+### 2026-08-11 22:57:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Libya's National Oil Corporation president said the Zawiya refinery has resumed operations.
+
+---
+
+### 2026-08-11 22:57:24  #公司
+
+利比亞國家石油公司負責人：扎維耶煉油廠恢復運營。
+
+---
+
+### 2026-08-11 22:56:06  #其他
+
+墨西哥在 48 小時內恢復對 45 家牛油果包裝廠的檢查。
+
+---
+
+### 2026-08-11 22:54:35  #國際
+
+以色列總理內塔尼亞胡：以色列人民與哥倫比亞站在一起。
+
+---
+
+### 2026-08-11 22:53:01  #國際
+
+【卡達：對話是結束美以對伊朗戰事的唯一途徑】卡達外交部發言人釋放核心訊號：儘管局勢緊張，但化解危機唯有依靠對話磋商。“綜合近期動態，伊朗與美國持續釋放各類立場訊號，各方都在爭取推動自身訴求落地。”圍繞霍爾木茲海峽重啟通航的潛在協議依舊分歧重重。伊朗將這條戰略水道視作自身安全籌碼，但分析師判斷該議價影響力正在減弱。卡達持續充當斡旋渠道，維繫溝通渠道暢通，推動談判繼續推進。卡達外交部發言人表示，收到來自伊朗、阿曼方面有關重新開放霍爾木茲海峽的積極訊息。據瞭解，伊、阿曼雙方正在商討美伊談判相關技術性安排。不過海峽重啟通航仍面臨明顯阻礙：伊朗如今向美方開出條件，要求美軍撤出中東地區，同時美國需要就美、以色列襲擊伊朗造成的損失予以賠償。美國總統特朗普表態，美方同樣要求伊朗作出賠償；並稱計劃加大對伊朗經濟施壓，逼迫伊朗接受協議。 卡達方面重申，將持續保持各方溝通通道開放、推動更多會談，因為對話是解決這場危機唯一可行路徑。
+
+---
+
+### 2026-08-11 22:52:57  #其他
+
+【亞洲首個柔直海上風電專案累計發電量突破100億千瓦時】8月11日，亞洲首個採用柔性直流輸電技術送出的海上風電專案——三峽新能源江蘇如東800兆瓦海上風電專案累計發電量突破100億千瓦時，為我國大容量、遠距離海上風電柔性直流輸電技術的規模化應用提供了實踐驗證。（央視新聞）
+
+---
+
+### 2026-08-11 22:51:40  #其他
+
+【中國新任駐斯里蘭卡大使魏華祥抵斯履新】8月11日，中華人民共和國新任駐斯里蘭卡民主社會主義共和國特命全權大使魏華祥抵達斯里蘭卡履新。
+
+---
+
+### 2026-08-11 22:51:29  #其他
+
+【奈及利亞交火事件致10名警察和2名平民死亡】奈及利亞西北部凱比州10日發生一起安全人員與武裝分子交火事件，造成10名警察和2名平民死亡，另有17名武裝分子被當場擊斃。 凱比州警方11日接受媒體採訪時說，當地安全人員10日晚攔截一夥從鄰州扎姆法拉州騎摩托車進入的武裝分子，雙方隨即發生交火，部分武裝分子中槍後逃離現場。 警方說，10名警察和2名平民在此次交火中身亡，另有2名安全人員受傷，至少17名武裝分子被擊斃。 近年來，奈及利亞面臨恐怖主義、綁架、匪患等多重安全挑戰，武裝襲擊事件頻發。(新華社)
+
+---
+
+### 2026-08-11 22:48:42  #國際
+
+【埃及伊斯梅利亞省嚴重交通事故已致16死32傷】當地時間11日，埃及東北部伊斯梅利亞省發生一起嚴重交通事故，兩輛載有工人的車輛發生嚴碰撞。截至目前，事故已造成16人死亡，另有32人受傷。相關部門正在調查事故詳情，確定責任方，並確認最終的傷亡人數。（央視新聞）
+
+---
+
+### 2026-08-11 22:48:36  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.68% on Tuesday, after rising above 4.71% the previous day, as oil prices steadied amid signs that diplomatic efforts are underway to reach a deal between the US and Iran and reopen the Strait of Hormuz. Pakistan signaled the possibility of an agreement that could help ease tensions roiling energy markets, although the situation remains highly fragile and uncertain. Meanwhile, the highly anticipated US CPI report is due on Wednesday and should provide further insight into the path of inflation. The report is expected to continue pointing to a slowdown in energy-related price pressures that intensified in the months immediately following the start of the US war with Iran. Markets are pricing in roughly even odds of a Fed rate hike next month, with about a 50% probability of rates being left unchanged.
+
+---
+
+### 2026-08-11 22:47:46  #市場
+
+赫茲環球股價上漲 25%，創 6 月 29 日以來新高。
+
+---
+
+### 2026-08-11 22:47:26  #國際
+
+市場訊息：世界冰壺聯合會將對俄羅斯運動員的禁賽延長至 2026 年底。
+
+---
+
+### 2026-08-11 22:47:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Wheat Market Weighs Supply Risks and Weak Demand — Wheat prices fluctuated around $6.40 per bushel, remaining more than 10% below the two-year high of $7.08 on July 22, as weaker Russian prices, subdued international demand and alternative export routes eased concerns over Black Sea disruptions. Hopes for progress in negotiations to restore shipping through the Strait of Hormuz also improved broader market sentiment, after Pakistan said the US and Iran were “close to some sort of arrangement” to reduce tensions. However, risks to grain exports remain as Ukraine and Russia continue to target each other’s shipping routes. Ukraine has lowered its 2026/27 grain export forecast by up to 12% from its previous estimate, while Russia’s wheat export outlook has also been reduced. Consultancy IKAR cut its forecast for Russian wheat exports to 44.5 million tonnes, while Sovecon expects August shipments to reach their lowest level in a decade. Traders now await the US government’s latest crop forecasts on Wednesday.
 
 ---
 
@@ -19329,101 +19467,5 @@ Intel (INTC.O) announced plans to issue $15 billion of common stock.
 ### 2026-08-10 19:39:11  #公司 #國際
 
 【Meta釋出可單卡執行輕量AI模型 扎克伯格描繪“個人賦能新時代”】Meta .推出了一款新的人工智慧模型，其體量足夠輕量，可以在單臺電腦上執行，使用者能夠下載並根據自己的需求進行定製。Meta週一表示，這款名為Muse Glimmer的新模型是該公司Muse Spark 1.2模型的蒸餾版本，設計重點是提高效率、儘可能降低對計算機系統配置的要求。Muse Glimmer擁有300億個引數，規模“小到”只需要一張顯示卡就能執行。Meta稱，該模型將主要用於具有智慧體特徵的人工智慧任務，例如日程管理和檔案整理。Muse Glimmer的模型權重 —— 也就是幫助人工智慧系統作出決策的一系列數值引數 —— 將在Hugging Face上開放。Meta還計劃開放效能更強的Muse Spark某個版本的模型權重。Meta此次選擇以寬鬆許可證釋出這些人工智慧模型。Meta執行長馬克·扎克伯格週一發表了一篇內容廣泛、涉及多項政策主張的文章。他表示，“與其把超級智慧集中在少數人手中，我們更應該讓它廣泛普及，讓每個人都有能力使用和駕馭它。這有望開啟一個個人賦能的新時代，讓每個人都能利用這一強大的新能力，充分發揮自身潛能。”扎克伯格還將Meta的發展路線與美國競爭對手作了對比。他表示，其他公司“專注於為企業、政府或其他機構開發人工智慧”，而Meta致力於打造“人人都能擁有的個人超級智慧”。
-
----
-
-### 2026-08-10 19:39:07  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Ticks Higher, Still Near 2-Month Low — The dollar index edged up to 99.7 on Monday, following a 0.4% decline last week that pushed the greenback to a two-month low. Traders are now awaiting this week’s CPI report for further clues on inflationary pressures, after Friday’s weaker-than-expected jobs report reduced expectations for a Fed rate hike in September. The odds of such a move currently stand at around 46%, down from approximately 64% a week ago, while the probability of the Fed holding rates is seen at about 54%. Meanwhile, traders continued to assess developments in the Middle East and ongoing talks to reopen the Strait of Hormuz, although a deal between the US and Iran appears unlikely in the near term. The dollar was mostly higher against the yen, with the Japanese currency giving back some of its intervention-driven gains while remaining well above the multi-decade low hit late last month.
-
----
-
-### 2026-08-10 19:38:54  #其他
-
-英特爾：宣佈擬進行150億美元普通股發行。
-
----
-
-### 2026-08-10 19:38:51  #其他
-
-【馬裡軍方稱打死50餘名恐怖分子】當地時間8月10日，馬裡武裝部隊總參謀部釋出通告稱，8月9日凌晨，大批恐怖分子對馬裡武裝部隊第23步兵團駐地發動突襲。駐守部隊迅速展開協同反擊，接連擊退多輪進攻，最終奪回營地控制權。經初步核查，已有50餘名恐怖分子被打死。截至通告發布時，馬裡軍方仍在事發區域持續搜捕追擊逃竄的恐怖分子。（央視新聞）
-
----
-
-### 2026-08-10 19:38:06  #公司
-
-【中晟高科：擬設兩全資子公司投建新專案，合計出資5000萬元】中晟高科公告，公司擬以自有資金或自籌資金出資3000萬元在福清市江陰鎮設立全資子公司“景晟(福建)新材料有限公司”，投資建設“景晟（福建）新材料聚丙烯深加工專案”；擬以實物及現金出資2000萬元在福州市羅源縣設立全資子公司“福建晟灝新材料有限公司”，投資建設“高分子新材料專案”。兩個專案均從事改性塑膠新材料領域生產與銷售，投資總額分別為5000萬元和3500萬元，資金來源為自有資金。
-
----
-
-### 2026-08-10 19:38:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-【40°C heat returns to Europe: rivers critical, wildfire risk high, power grids under strain】A fresh heatwave will sweep drought-hit Europe this week, raising wildfire risk, threatening crops and further depleting already record-low river levels. France’s weather service expects a high-pressure heat dome to push northern France toward 40°C on Tuesday; southern UK around 35°C; Frankfurt may reach 38°C on Friday. The heat could block moisture-bearing clouds and hinder replenishment of major waterways — the Rhine, Po and Danube — whose low flows have already disrupted navigation and power generation. Higher temperatures and continued dryness are adding stress to grids, cutting hydropower output and suppressing agricultural yields; EU Joint Research Centre models show elevated fire risk this week across the UK, Spain, France, Germany and Italy.
-
----
-
-### 2026-08-10 19:35:56  #MKT News #Market Regions #Europe & UK #LLY.N #Impact bullish
-
-UK approves Eli Lilly (LLY.N) drug FOUNDAYO for weight management and treatment of type 2 diabetes.
-
----
-
-### 2026-08-10 19:35:35  #公司
-
-【博睿資料：持股5%以上股東孟曦東及其一致行動人減持股份】博睿資料公告稱，2026年8月4日至8月5日元亨利匯透過集中競價累計減持193,390股，佔總股本0.44%；8月10日孟曦東透過大宗交易減持441,000股，佔總股本0.99%。本次權益變動後，孟曦東及其一致行動人合計持股比例由10.00%降至8.57%。此次減持系履行已披露計劃，不會導致控股股東及實控人變化，不觸及要約收購等。
-
----
-
-### 2026-08-10 19:35:25  #其他
-
-英國批准禮來的 Foundayo 用於體重管理及 2 型糖尿病治療。
-
----
-
-### 2026-08-10 19:34:58  #公司 #國際
-
-【外交部：奉勸美方儘早解除對古巴的制裁封鎖 不要一再向他人“潑髒水”】8月10日外交部發言人郭嘉昆答記者問。據報道，美國最近再次以中俄與古巴的軍事合作為藉口，對更多古巴公司和個人實施制裁。中方如何看待這些新的單邊制裁，以及美方試圖干涉中國與古巴正常合作的行徑？郭嘉昆表示，中方已經多次就有關問題闡明立場。我們奉勸美方儘早解除對古巴的制裁封鎖，不要一再向他人“潑髒水”。中古合作光明正大，中方將繼續堅定支援古巴維護國家主權、反對外來干涉。（央視新聞）
-
----
-
-### 2026-08-10 19:34:32  #公司
-
-【阿聯酋擬擲數十億美元建新LNG出口終端 謀求規避霍爾木茲海峽風險】阿布扎比國家石油公司旗下天然氣子公司Adnoc Gas Plc正考慮在霍爾木茲海峽以外地區新建一座液化天然氣(LNG)出口設施。此舉是阿聯酋為繞過這一關鍵水道而建設基礎設施的最新舉措。
-
----
-
-### 2026-08-10 19:33:36  #國際
-
-伊朗媒體週一報道，根據一項新規定，伊朗各行政機構不得再自行封禁、暫停或限制網路平臺及數字業務，此類決定必須獲得伊朗總統佩澤希基揚批准。
-
----
-
-### 2026-08-10 19:32:56  #國際
-
-【外交部：印方公佈所謂“標準名稱”試圖取代中國長期使用的地名，是非法的、無效的，更改變不了藏南地區屬於中國的事實】2026年8月10日外交部發言人郭嘉昆答記者問，部分內容如下：彭博社記者：據報道，7日，印度公佈“阿魯納恰爾邦”27處地點所謂“標準名稱”。印內政部發表宣告稱，在地圖上正式標註地點名稱將幫助公眾更好認識相關地區。中方對此有何回應？郭嘉昆：藏南地區是中國領土，中方從不承認印度非法設立的所謂“阿魯納恰爾邦”。印方公佈所謂“標準名稱”試圖取代中國長期使用的地名，是非法的、無效的，更改變不了藏南地區屬於中國的事實。（環球網）
-
----
-
-### 2026-08-10 19:32:22  #國際
-
-市場訊息：加沙地帶政府媒體辦公室表示，以色列 “蓄意阻礙加沙局勢走向緩和”。
-
----
-
-### 2026-08-10 19:31:39  #市場 #國際
-
-印度10年期基準國債收益率<IN069436G=CC>收於6.7643%；前收盤價為6.7651%。
-
----
-
-### 2026-08-10 19:31:27  #公司
-
-【今天國際：持股5%以上股東邵健鋒部分股份質押續期】今天國際公告稱，公司持股5%以上股東邵健鋒將持有的1737.4萬股辦理質押續期，佔其所持股份比例49.98%，佔公司總股本比例2.73%，質權人為紅塔證券，質押用途為融資，續期後質押到期日為2027年8月7日。截至公告披露日，控股股東及其一致行動人累計質押股份佔公司總股本比例為2.73%。
-
----
-
-### 2026-08-10 19:31:06  #央行 #國際
-
-【日本增長戰略大臣為財政狀況辯護 稱投資計劃將為日元帶來長期提振】日本增長戰略大臣城內實表示，日本的支出計劃將為日元帶來長期的提振，並反駁了市場對該國財政狀況的擔憂。城內實週一接受採訪時表示：“日本的財政政策並不像大家認為的那麼具有擴張性，因為我們非常重視可持續性。”他還強調，日本正努力轉向更符合“國際標準”的衡量方式，即以債務佔經濟產出的比例來評估債務水平。日本首相高市早苗為重振經濟推出了一系列支出計劃，引發市場對資金來源的擔憂。城內實淡化了高市早苗一項前所未有的計劃所帶來的財政負擔。按照該計劃，日本將在14年內向關鍵產業投入370萬億日元（2.3萬億美元）。他說，支援人工智慧、半導體和遊戲等行業對於日本經濟增長是必要的，併為這份由他參與制定的路線圖進行辯護。“隨著對日本以及日元計價資產的投資增加，對日元的需求自然也會上升，”城內實表示。此前，美日罕見聯合干預匯市以推升日元，但相關影響正開始消退。對於為期兩年的消費稅減稅計劃，城內實也認為融資難度不大。該計劃預計每年將耗費約5萬億日元。他表示：“籌措5萬億日元並沒有那麼困難。”他指出，對政府財政收支進行大規模調整將產生可用於彌補這部分資金的節餘。談及貨幣政策時，城內實表示，日本央行目前做得很好。這一表態可能意味著，他並不強烈反對短期內加息。市場對日本央行在9月或10月加息的預期持續升溫。
 
 ---
