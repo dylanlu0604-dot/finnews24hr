@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:29:10_
-_本檔包含 2771 則快訊，約 603521 字_
+_更新時間：2026-08-16 05:52:16_
+_本檔包含 2775 則快訊，約 603261 字_
+
+---
+
+### 2026-08-10 20:41:58  #MKT News #Important
+
+【6.7-magnitude earthquake strikes Colombia】The Colombian Geological Survey said in a preliminary report a 6.7-magnitude quake occurred at 07:34 local time on Aug. 10. The epicenter was near Chocó department and the focal depth was 82 km. Strong shaking was reported in the capital Bogotá.
+
+---
+
+### 2026-08-10 20:41:39  #其他
+
+【哥倫比亞發生6.7級地震】哥倫比亞地質局的地震初步通報顯示，當地時間8月10日7時34分，哥倫比亞發生6.7級地震，震中位於喬科省附近，震源深度82公里。首都波哥大有明顯震感。（央視新聞）
+
+---
+
+### 2026-08-10 20:41:01  #公司 #市場
+
+Cloudflare股價盤前下跌1.6%，此前該公司宣佈擬以私募方式發行價值21.75億美元的可轉換債券。
+
+---
+
+### 2026-08-10 20:40:25  #國際
+
+歐洲地中海地震中心（EMSC）：哥倫比亞地區發生7.1級地震。
+
+---
+
+### 2026-08-10 20:39:04  #公司
+
+【德龍匯能：劉鑫增持股份比例至 5.01% 不排除繼續增持】德龍匯能公告稱，資訊披露義務人劉鑫於 2026 年 7 月 30 日透過深交所集中競價交易增持 164.02 萬股，佔總股本 0.46%，持股比例從 4.56% 增至 5.01%。截至報告簽署日，其持股無權利限制。前六個月內，劉鑫在普通和信用賬戶均有買賣操作。劉鑫表示看好公司前景，不排除未來 12 個月繼續增持。
+
+---
+
+### 2026-08-10 20:38:44  #其他
+
+哥倫比亞喬科省發生 6.7 級地震。
+
+---
+
+### 2026-08-10 20:38:27  #MKT News
+
+An earthquake struck Bogotá, Colombia; buildings were reported shaking.
+
+---
+
+### 2026-08-10 20:38:25  #公司 #市場
+
+【信濠光電：股票交易異常波動 不存在應披露未披露資訊】信濠光電公告稱，公司股票於2026年8月7日、8月10日連續兩個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經自查及向第一大股東核實，公司不存在應披露而未披露的重大資訊，基本面未變，經營正常，大股東在異常波動期間無買賣公司股票行為。公司已預約8月29日披露半年度報告，提醒投資者注意風險。
+
+---
+
+### 2026-08-10 20:38:22  #公司
+
+【ST長方：撤銷部分其他風險警示情形 仍繼續被實施該警示】ST長方公告稱，公司已就行政處罰所涉事項對相應年度財報追溯重述，且自收到處罰決定書已滿12個月，撤銷部分其他風險警示情形的申請獲深交所稽核同意。不過，公司2023 - 2025年連續三年扣非前後淨利潤孰低者均為負，2025年審計報告顯示持續經營能力存不確定性，仍觸及相關規定，繼續被實施其他風險警示。本次撤銷後，股票不停牌，簡稱仍為“ST長方”，漲跌幅限制20%不變。
+
+---
+
+### 2026-08-10 20:38:11  #公司
+
+【諾和諾德與亞馬遜AWS建立戰略合作伙伴關係 推動透過人工智慧加速藥物研發】諾和諾德與亞馬遜網路服務（AWS）今日宣佈建立戰略合作伙伴關係，透過智慧人工智慧和雲技術加快藥物發現程序並現代化諾和諾德的運營。作為合作的一部分，諾和諾德與AWS在倫敦建立了一個聯合創新中心，兩家公司的工程師和科學家利用AWS人工智慧技術結合諾和諾德的資料和洞察，壓縮從藥物靶點到首次人類劑量的路徑。倫敦新的人工智慧聯合創新中心匯聚了AWS工程師、人工智慧專家和應用科學家，以及諾和諾德的研發團隊，共同提升生產力，幫助縮短未來藥品的上市時間。諾和諾德與多家支援醫療行業的亞馬遜企業合作，包括亞馬遜藥房、亞馬遜廣告和亞馬遜One Medical，共同改變新療法的營銷和交付方式。
 
 ---
 
@@ -16701,41 +16761,5 @@ Palestinian sources said Israeli forces shelled the northern Gaza Strip.
 ### 2026-08-09 05:55:39  #其他
 
 【我國渤海首個千億方大氣田Ⅰ期開發專案全面投產】今天（8月9日），記者從中國海油獲悉，我國渤海首個千億方大氣田——渤中19-6氣田Ⅰ期開發專案全面投產，日產油氣當量超5200噸。專案投產對最佳化區域能源結構、助力經濟社會高質量發展具有重要意義。渤中19-6氣田位於渤海中部海域，探明天然氣地質儲量超2000億立方米、探明石油液體地質儲量超2億立方米。氣田埋藏深度超過5000米，油氣藏分佈範圍廣、儲層型別複雜，開發難度遠超常規海上油氣田。（央視新聞）
-
----
-
-### 2026-08-09 05:51:51  #公司 #國際
-
-【以媒：美軍中央司令部司令訪以討論“多戰線局勢”】以色列公共廣播公司8日報道說，美軍中央司令部司令布拉德·庫珀當天抵達以色列進行短期訪問，並同以色列國防軍高層討論“多戰線局勢”。（新華社）
-
----
-
-### 2026-08-09 05:48:54  #MKT News #RTX.O #Impact bullish #LMT.O #NOC.O
-
-【NYT: US Patriot missile stockpile below 1,700 after hostilities with Iran】The New York Times, citing sources, reports U.S. stockpiles of Patriot interceptors have fallen below 1,700 after heavy use in hostilities with Iran. The paper says the U.S. military has expended more than 1,500 Patriot missiles; the Trump administration is working with defense contractors to accelerate and scale production, but replenishment would still take more than two years. The report adds U.S. forces have effectively exhausted inventories of some long‑range munitions, including the Army Tactical Missile System (ATACMS) and Precision Strike Missiles (PrSM).
-
----
-
-### 2026-08-09 05:48:33  #焦點 #國際
-
-【美媒：美“愛國者”導彈庫存不足1700枚】據美國《紐約時報》8日援引訊息人士的話報道，美國在同伊朗的戰事中消耗了大量“愛國者”防空系統攔截彈，目前美國該型別導彈庫存已不足1700枚。報道說，美軍在戰事中消耗了1500多枚“愛國者”導彈，儘管特朗普政府已與美軍工企業合作加快和擴大生產，但仍需要兩年多時間才能補齊這一數量的導彈。（新華社）
-
----
-
-### 2026-08-09 05:38:52  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD
-
-The Times reports the UK defence secretary said allies must step up support to help Ukraine through the winter.
-
----
-
-### 2026-08-09 05:32:14  #MKT News
-
-【Turkish FM says Saudi-Turkey-Pakistan Mecca defense pact likely to expand; Egypt may join】Turkish foreign minister Fidan said the recently signed Mecca Joint Defense Agreement between Saudi Arabia, Turkey and Pakistan aims to boost regional autonomy and should be expanded, with additional countries expressing interest and Egypt likely to join in the next phase, he told Anadolu on the 8th. He said the pact’s mutual-defense clause is, in technical terms, equivalent to NATO’s collective-defense clause, but its practical application will depend on discussions and decisions by the relevant committee.
-
----
-
-### 2026-08-09 05:30:17  #其他
-
-【土外長稱沙土巴三國共同防務協議有望擴員】土耳其外長費丹8日表示，新近達成的沙烏地阿拉伯、土耳其和巴基斯坦三國共同防務協議旨在增強區域自主權，應當繼續發展壯大，有更多國家表達加入意願。（新華社）
 
 ---

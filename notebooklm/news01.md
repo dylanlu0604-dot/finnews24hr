@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:29:10_
-_本檔包含 3098 則快訊，約 603969 字_
+_更新時間：2026-08-16 05:52:16_
+_本檔包含 3098 則快訊，約 603332 字_
+
+---
+
+### 2026-08-16 05:42:43  #其他
+
+SpaceX：佛羅里達與加利福尼亞兩處發射場的獵鷹9號火箭均已豎立就位，準備於今日執行發射任務。
+
+---
+
+### 2026-08-16 05:42:00  #MKT News
+
+SpaceX (SPCX.O): Falcon 9 rockets are in position in Florida and California and ready for launches scheduled today.
+
+---
+
+### 2026-08-16 05:32:29  #國際
+
+伊朗稱霍爾木茲海峽實現完全安全，前提是美國解除封鎖、停止威脅。
 
 ---
 
@@ -18654,23 +18672,5 @@ Brent crude rose above $86/bbl, up 0.18% on the day.
 ### 2026-08-14 09:06:48  #MKT News #Important #Market Themes #Chip Wars #981.HK #Impact bullish
 
 SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers.
-
----
-
-### 2026-08-14 09:06:48  #國際
-
-【小馬智行與Uber擴大合作，計劃在歐洲5城部署超2000輛Robotaxi】8月14日，小馬智行與全球出行平臺Uber宣佈，雙方進一步擴大戰略合作，將在歐洲5個城市部署超過2000輛小馬智行Robotaxi。
-
----
-
-### 2026-08-14 09:06:17  #公司 #市場 #國際
-
-【韓華海洋股價大漲，特朗普備忘錄為外國船廠建造美國海軍艦艇開啟口子】韓國韓華海洋週五早盤股價最高上漲 9.6%，創下六週盤中新高。美國總統特朗普指示美國戰爭部推進採購方案：外國造船企業若在美國本土船廠投資，最多可在其母公司船廠建造兩艘美軍艦艇，該計劃旨在擴大美國造船產能。該政策載於週四簽署的總統備忘錄及配套情況說明書，適用於兩類外國企業：在美國新建船廠，或是收購現有美國船廠、取得其多數股權的企業；後續艦艇則必須在美國本土建造。
-
----
-
-### 2026-08-14 09:06:05  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
-
-【SMIC co-CEO Zhao Haijun: Q2 saw return of overseas orders; localized manufacturing strengthened】At SMIC's Q2 earnings meeting, co-CEO Zhao Haijun said sales by region were China 90%, the US 8% and Eurasia 2%. Revenues rose in all regions; China led with a 22% increase driven by strong demand for AI-related chips, return of overseas orders and expanded localized manufacturing. Wafer revenue by diameter was 12‑inch 78% and 8‑inch 22%; 12‑inch wafer revenue rose 24% QoQ and 8‑inch wafer revenue rose 11% QoQ.
 
 ---

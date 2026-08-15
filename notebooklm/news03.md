@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 05:29:10_
-_本檔包含 3067 則快訊，約 603432 字_
+_更新時間：2026-08-16 05:52:16_
+_本檔包含 3053 則快訊，約 602890 字_
+
+---
+
+### 2026-08-13 07:45:12  #其他
+
+【上半年海關查扣侵權嫌疑貨物逾3600萬件】從海關總署獲悉，今年上半年，全國海關對侵權重點領域進行專項治理，共查扣侵權嫌疑貨物1.3萬批次、3609萬件，海關總署稽核透過智慧財產權海關保護備案1.5萬件，辦理智慧財產權海關保護總擔保165件。
+
+---
+
+### 2026-08-13 07:44:52  #其他
+
+【經濟日報金觀平：人才評價“破四唯”更要“立新標”】近年來，一系列以破除“唯論文、唯職稱、唯學歷、唯獎項”為鮮明指向的人才評價改革政策舉措密集出爐，曾經飽受詬病的“四唯”傾向得到有效遏制，對最佳化創新環境、促進科研活動起到了積極作用。也要清醒地看到，與廣大科技工作者的訴求相比，同實現高水平科技自立自強的要求相比，當前我國科技人才評價體系仍存在“四唯”破得不徹底、“新標”立得不及時等問題，迫切需要加快“破四唯”“立新標”，更好發揮科技評價指揮棒作用。評價指標權重不能模糊甚至本末倒置，更不能搞“一刀切”“一鍋煮”。比如，對於基礎研究人才，論文雖然重要，但不能簡單以論文數量論英雄，關鍵要看其能否提出原創性理論、有無重大科學發現、是否開闢或拓展新的領域方向；對於應用研究和技術研發人才，論文則只能作為參考，重點要關注其創新活動的實際貢獻，以及由此帶來的經濟價值和社會價值。持續深化科教界“帽子”治理，必須切斷人才“帽子”與科研資源和物質利益的簡單、直接掛鉤，推動人才稱號迴歸學術性、榮譽性本質。
 
 ---
 
@@ -18455,101 +18467,5 @@ SpaceX跌超5%。
 ### 2026-08-12 00:20:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
 
 BBC reports UK Prime Minister Burnham says the government is considering additional support for businesses.
-
----
-
-### 2026-08-12 00:20:47  #焦點 #國際
-
-美國能源部長：週日有2000萬桶石油從海灣地區流出，這一數量高於衝突爆發前的平均水平。
-
----
-
-### 2026-08-12 00:20:44  #MKT News #Commodities #Energy
-
-EIA projects Texas electricity load will rise 6% in 2027, down from the 14% increase forecast in July’s Short-Term Energy Outlook (STEO).
-
----
-
-### 2026-08-12 00:20:21  #宏觀
-
-英國首相伯納姆表示，政府正考慮為企業出臺更多支援措施。
-
----
-
-### 2026-08-12 00:20:14  #其他
-
-英國首相伯納姆：我正面臨嚴峻財政前景，不會推出任何超出我財力範圍的措施。
-
----
-
-### 2026-08-12 00:20:05  #其他
-
-英國首相伯納姆：我目前所處境況下，在爭取政府支援方面的操作空間十分有限。
-
----
-
-### 2026-08-12 00:19:07  #國際
-
-美國能源資訊署（EIA）預計，中東原油日產約60萬桶的供應中斷將持續至2027年底。
-
----
-
-### 2026-08-12 00:18:41  #國際
-
-美國能源資訊署(EIA)在8月短期能源展望(STEO)中預計，2027年德克薩斯州電力負荷將增長6%，低於7月14%的先前預測增幅。
-
----
-
-### 2026-08-12 00:18:36  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-The EIA expects a sustained disruption to Middle East crude output of about 600,000 barrels per day to persist through the end of 2027.
-
----
-
-### 2026-08-12 00:18:20  #MKT News #WTI #Impact bullish #Brent
-
-EIA says Strait of Hormuz shipments remain severely constrained and now expects Middle East oil supply disruptions to be larger than its July forecast. It projects most Middle East crude output will recover to near pre-conflict levels by early 2027, but estimates disruptions will persist through end-2027 at about 600,000 bpd.
-
----
-
-### 2026-08-12 00:18:08  #其他
-
-智利銅委員會預計，智利2027年銅產量將達555萬噸，較2026年增長5.2%。
-
----
-
-### 2026-08-12 00:17:58  #國際
-
-以色列與委內瑞拉自2009年斷交以來，首次建立官方溝通協調渠道。
-
----
-
-### 2026-08-12 00:17:49  #國際
-
-基輔釋出防空警報。
-
----
-
-### 2026-08-12 00:17:19  #國際
-
-美國證券交易委員會考慮為高成本的市場追蹤資料庫提供直接資金支援。
-
----
-
-### 2026-08-12 00:17:12  #央行 #焦點 #國際
-
-美聯儲古爾斯比：當前經濟面臨的最大問題是通脹。
-
----
-
-### 2026-08-12 00:16:46  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Cochilco forecasts Chile's 2026 copper production at 5.27 million tonnes, down 2.6% YoY from 2025.
-
----
-
-### 2026-08-12 00:16:32  #央行 #國際
-
-美聯儲古爾斯比：只要消費者保持穩健，經濟就會維持向好。
 
 ---
