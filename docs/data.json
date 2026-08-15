@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-15 14:44:42",
-  "count": 15317,
+  "updated": "2026-08-15 14:48:31",
+  "count": 15319,
   "items": [
+    {
+      "id": "5042210",
+      "time": "2026-08-15 14:47:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兩部門將針對江蘇的防汛四級應急響應提升至三級】受今年第13號颱風“白海豚”和近期強降雨共同影響，太湖發生流域性較大洪水，據預測，太湖水位後期仍將緩慢上漲。8月15至16日浙江東部和南部部分地區有暴雨，局地大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月15日12時，將針對江蘇的防汛四級應急響應提升至三級，針對浙江啟動防汛四級應急響應。（新華社）"
+    },
+    {
+      "id": "mkt:01a0042c-2dd9-7aab-9047-dcf0159b3b54",
+      "time": "2026-08-15 14:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Interstellar Glory SQX-3 fairing static test successful】On Aug. 14, Interstellar Glory Aerospace Technology Group Co., Ltd. completed a static-load test of the SQX-3 launcher's fairing at a test site. Test metrics met design requirements, the fairing remained in good condition and passed evaluation. With separation and static verification now complete, the fairing is cleared for flight testing, advancing preparations for upcoming SQX-3 launch missions."
+    },
+    {
+      "id": "5042209",
+      "time": "2026-08-15 14:45:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星際榮耀SQX-3運載火箭整流罩靜力試驗取得成功】8月14日，星際榮耀航天科技集團股份有限公司在某試驗場組織開展了SQX-3運載火箭整流罩靜力試驗，產品各項指標滿足設計要求，試驗後產品狀態良好，成功透過考核。至此，整流罩完成了分離試驗及靜力試驗全剖面驗證，標誌著整流罩已具備飛行試驗條件，為後續SQX-3運載火箭飛行任務的圓滿成功奠定堅實基礎。"
+    },
+    {
+      "id": "5042208",
+      "time": "2026-08-15 14:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：美國外交因謊言而喪失尊重】伊朗外交部發言人巴加埃在社交媒體發文稱，俄作家陀思妥耶夫斯基《卡拉馬佐夫兄弟》中的這段話，恰如其分地描繪出美國在對伊朗及中東治理體系與外交政策上，因極度依賴 “謊言” 而陷入的處境：“一個對自己說謊、還聽信自己謊言的人，終將落到這般地步：再也分辨不清自己內心和周遭的真相，進而徹底喪失對自己、對他人的全部尊重。”"
+    },
     {
       "id": "5042207",
       "time": "2026-08-15 14:42:30",
@@ -140217,22 +140249,6 @@
         "其他"
       ],
       "text": "【浙江溫州市釋出颱風橙色預警訊號】溫州市氣象臺2026年8月8日14時23分將溫州市區颱風黃色預警訊號升級為颱風橙色預警訊號：受今年第13號颱風“白海豚”影響，預計今天下午溫州市區和沿海平原、沿海海面風力分別有7—9級和9—11級；夜裡到明天繼續增強至10—12級和13—15級。今天夜裡起溫州市區所有街道（鎮）陰有大到暴雨，明天和後天陰有暴雨到大暴雨，部分特大暴雨。"
-    },
-    {
-      "id": "mkt:019fe01e-da58-7aab-8fc2-f63d24921d49",
-      "time": "2026-08-08 14:45:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: US Joint Chiefs chair seeking way out of war with Iran】Sources said Dan Kane, chairman of the US Joint Chiefs of Staff, has privately told senior Trump advisers in recent weeks the US needs to find a way out of a war with Iran because military options on the table could backfire and airpower alone is unlikely to achieve Trump’s objectives. Three people familiar with the matter said Kane discussed escalation options and potential exit paths with senior officials including Vice President Vance, Secretary of State Rubio and CIA Director Ratcliffe, and met with like-minded Trump advisers to build consensus before briefing the president. In a recent meeting with Trump, Kane flagged concern about shrinking US munitions stocks and discussed possible escalation options."
-    },
-    {
-      "id": "5031837",
-      "time": "2026-08-08 14:44:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯克拉斯諾達爾邊疆區伊爾斯基煉油廠遭無人機襲擊後起火，造成五人受傷。"
     }
   ]
 }
