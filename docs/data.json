@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15 09:57:21",
-  "count": 15277,
+  "updated": "2026-08-15 10:01:11",
+  "count": 15276,
   "items": [
+    {
+      "id": "5042100",
+      "time": "2026-08-15 10:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中消協釋出綠色消費指南 涵蓋四大領域50條行動建議】今天（15日）是第四個全國生態日，中國消費者協會今天釋出《中國消費者綠色消費指南（2026版）》。指南重點圍繞“3060”碳達峰碳中和目標，以日常生活為基礎，幫助消費者增加綠色消費知識，提升綠色消費信心，培養可持續生活方式。指南立足於我國社會文化背景與居民日常生活場景，系統性提出50條行動建議，內容涵蓋飲食、出行、能源、日用品四大消費領域，包括倡導“光碟行動”、減少一次性餐具使用，倡導低碳出行，鼓勵優先選擇公共交通、騎行或步行等。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00325-fa58-7aab-9047-0f53823fde34",
+      "time": "2026-08-15 10:00:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israeli media: Iran rebuilding ballistic missile stockpile faster than Israeli estimates】Israeli media report Iran is rebuilding its ballistic missile arsenal far faster than the Israeli military and Mossad had projected. Israeli officials say the pace of replenishment after the Iran war has been shocking."
+    },
     {
       "id": "5042099",
       "time": "2026-08-15 09:48:34",
@@ -139887,30 +139907,6 @@
         "Impact bullish"
       ],
       "text": "【NVIDIA to invest up to $3 bln in Lancium to support AI data‑centre power infrastructure】NVIDIA has agreed to invest $2 bln in power‑infrastructure developer Lancium and has committed to a further $1 bln once Lancium secures additional planned power resources, The Information reported. The transaction implies an enterprise value of about $10 bln for Lancium and its land and grid‑connection assets, including the investment and debt. Lancium, backed by Blackstone, is developing Texas power projects serving OpenAI and ORACLE AI campuses."
-    },
-    {
-      "id": "5031773",
-      "time": "2026-08-08 10:00:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國東方電氣集團原黨組副書記、董事宋致遠被查】中國東方電氣集團有限公司原黨組副書記、董事宋致遠涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fdf19-5fcf-7aab-8fc2-357e15f929f2",
-      "time": "2026-08-08 10:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lake Mead, U.S. largest reservoir, falls to record low】U.S. data released on the 7th showed Lake Mead's water level at 317.14 m, below the prior record low of 317.17 m recorded in July 2022. The report attributed declines across Colorado River basin reservoirs to persistent drought and an unusually low snowpack."
-    },
-    {
-      "id": "5031772",
-      "time": "2026-08-08 09:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本地震已致39人死亡】日本熊本縣政府8日表示，截至目前，7月28日發生的強震已造成39人死亡。"
     }
   ]
 }
