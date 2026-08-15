@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:00:18_
-_本檔包含 3110 則快訊，約 603781 字_
+_更新時間：2026-08-15 11:48:41_
+_本檔包含 3119 則快訊，約 603644 字_
+
+---
+
+### 2026-08-12 23:31:39  #其他
+
+SpaceXAI：Grok 4.6今日已在Cursor和Grok Build中上線。Grok 4.6定價為每百萬輸入Token收費2美元，每百萬輸出Token收費6美元。Grok 4.6也已透過API以及OpenRouter、Vercel和Cloudflare等合作伙伴平臺上線。
+
+---
+
+### 2026-08-12 23:31:17  #其他 #國際
+
+阿拉比亞電視臺訊息人士：巴基斯坦調解方正尋求延長（美伊）60天停火期限。巴基斯坦調解方對 60 天期限得以延長持樂觀態度。
+
+---
+
+### 2026-08-12 23:31:01  #MKT News
+
+Grok 4.6 is now available via API and on partner platforms OpenRouter, Vercel and Cloudflare.
+
+---
+
+### 2026-08-12 23:30:36  #MKT News #Market Themes #AI Revolution
+
+SpaceX AI: Grok 4.6 priced at $2 per 1 million input tokens and $6 per 1 million output tokens.
+
+---
+
+### 2026-08-12 23:30:18  #MKT News #Market Themes #AI Revolution
+
+SpaceX AI launched Grok 4.6 today; the update is now live on Cursor and Grok Build.
+
+---
+
+### 2026-08-12 23:28:40  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Extends Losses for 3rd Session — The FTSE 100 extended its modest losses for a third consecutive session on Wednesday as investors awaited further developments in the Middle East and assessed the latest US inflation data. The index was weighed down by weakness in major oil and pharmaceutical stocks, with Shell and BP falling more than 1% each, while AstraZeneca dropped 1.5% and GSK declined 2.1%. Unilever also fell more than 1%. Tesco was among the biggest decliners, losing more than 2% after Shore Capital downgraded the retailer to “hold.” Meanwhile, US inflation data came in broadly in line with expectations, easing concerns over an imminent Federal Reserve rate hike and providing some relief amid persistent geopolitical uncertainty. Brent crude fluctuated on Wednesday but remained elevated after recent gains, as uncertainty continued over the prospects of an agreement to reopen the Strait of Hormuz.
+
+---
+
+### 2026-08-12 23:28:39  #MKT News #Important #Market Themes #AI Revolution
+
+SpaceX AI launches Grok 4.6.
+
+---
+
+### 2026-08-12 23:28:25  #其他
+
+SpaceXAI：推出Grok 4.6。
+
+---
+
+### 2026-08-12 23:27:45  #MKT News #Important
+
+Pakistani mediators are seeking to extend the US-Iran 60-day ceasefire, Saudi Al Arabiya TV reports.
+
+---
+
+### 2026-08-12 23:25:43  #其他
+
+據燈塔專業版實時資料，截至8月12日23時20分，影片《奧德賽》點映及預售總票房突破1億。
+
+---
+
+### 2026-08-12 23:24:24  #國際
+
+以色列國防軍發言人：今日早些時候，參謀長就凱齊拉地區正在發生的事態，與中央司令部司令、作戰局局長及作戰處處長再次舉行局勢評估會議。
+
+---
+
+### 2026-08-12 23:22:21  #國際
+
+市場訊息：以色列國防軍襲擊加沙地帶北部拜特哈利亞地區。
+
+---
+
+### 2026-08-12 23:20:50  #MKT News #Market Regions #JIOFIN.NS #Impact bullish
+
+BofA will acquire a 49.9% stake in a Jio Financial subsidiary for about $1.9 billion.
+
+---
+
+### 2026-08-12 23:20:43  #公司 #國際
+
+美國銀行將斥資約19億美元收購JIO金融部門49.9%的股份。
+
+---
+
+### 2026-08-12 23:18:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Oman Environment Authority is monitoring an oil slick from a grounded vessel near Al Kibubriya Island; the oil could reach the coast of Masirah Island within hours.
+
+---
+
+### 2026-08-12 23:18:16  #其他
+
+阿曼環境局正在監測船隻在吉卜利耶島附近擱淺後產生的海面浮油。浮油或將在未來數小時內抵達馬西拉島海岸。
+
+---
+
+### 2026-08-12 23:17:43  #其他
+
+阿曼環境局稱，此次原油洩漏最終或對拉斯馬德拉卡 40 公里海岸線造成影響。
+
+---
+
+### 2026-08-12 23:17:32  #MKT News
+
+Oman Environment Authority says oil spill could affect up to 40 km of coastline at Ras Madrakah.
+
+---
+
+### 2026-08-12 23:17:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Oman Environment Authority said leaked oil has reached the country's southeastern coast.
+
+---
+
+### 2026-08-12 23:17:05  #其他
+
+阿曼環境局表示，原油洩漏已抵達該國東南部海岸。
+
+---
+
+### 2026-08-12 23:15:46  #其他
+
+巴拿馬 6 月經濟活動同比增長 8.23%。
+
+---
+
+### 2026-08-12 23:13:30  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+VIX briefly hit a seven-month low; latest down 0.44 points to 14.84.
+
+---
+
+### 2026-08-12 23:13:18  #市場
+
+芝加哥期權交易所波動率指數短暫觸及七個多月低點；最新下跌 0.44 點，報 14.84。
+
+---
+
+### 2026-08-12 23:11:24  #宏觀 #國際
+
+【美國推出新計劃 加快盟友間AI關鍵物資流通】特朗普政府宣佈一項新計劃，旨在加速美國與其最緊密貿易伙伴之間在AI發展關鍵物資方面的運輸。美國國務院週三表示，將在巴拿馬建立一個試點平臺，以加快AI關鍵產品的貿易流通。該平臺是美國主導的“矽和平”倡議的一部分，旨在加強盟友之間的供應鏈。國務院在宣告中表示，將提供最高5,000萬美元的對外援助資金，用於開發和部署該平臺，並利用AI技術加快物流流程。
+
+---
+
+### 2026-08-12 23:09:49  #MKT News
+
+Nikkei reports Japan plans to provide financial and technical assistance to Persian Gulf countries to rebuild infrastructure damaged in a US-Iran war, aiming to secure stable regional energy supplies.
+
+---
+
+### 2026-08-12 23:09:01  #公司
+
+【康盛股份：董事長兼總經理被取保候審】康盛股份(002418.SZ)公告稱，公司董事長兼總經理王亞駿被司法機關採取取保候審措施，但不影響其履職。經核實，該事項不涉及公司生產經營活動，不涉及公司業務、資產及應披露而未披露的重大事項。截至本公告披露日，王亞駿能夠正常履行董事長及總經理職責，公司董事會運作正常，各項經營管理活動有序開展。
+
+---
+
+### 2026-08-12 23:06:36  #國際
+
+【美銀對沖基金客戶繼續大買美股 單週規模創出2008年以來之最】美國銀行對沖基金客戶以接近創紀錄的金額買入美國股票後一週，投資水平又達到了2008年以來最高。該行Jill Carey Hall牽頭的策略師在研報中寫道，截至8月7日當週，客戶連續第六週淨買入美股，向ETF注入41億美元，從個股撤資24億美元。同期機構和散戶客戶均淨賣出，而企業客戶則加速回購。客戶賣出了11個板塊中的7個，其中工業股資金流出量最大，而科技板塊則錄得有史以來第二大吸金周。
+
+---
+
+### 2026-08-12 23:06:24  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+Market sources: Bank of America hedge-fund clients continued to add to US equities; weekly buying intensity hit its highest level since 2008.
+
+---
+
+### 2026-08-12 23:06:09  #國際
+
+據伊朗塔斯尼姆通訊社報道，葉門胡塞武裝威脅將打擊索馬利亞及其周邊區域內的所有以色列相關目標。
 
 ---
 
@@ -18647,129 +18821,5 @@ IIF: Non-resident investors posted net inflows of $18.8 bln into emerging-market
 ### 2026-08-11 21:01:15  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #S&P500
 
 IIF: Nonresident investors recorded net portfolio inflows of $18.8bn into emerging markets in July, reversing two months of outflows.
-
----
-
-### 2026-08-11 21:01:12  #MKT News #S&P500 #Impact mixed #XAUUSD #Impact bullish #DXY
-
-【Norway sovereign wealth fund CEO: markets 'abnormal'; 2 trillion in assets could be wiped out】The CEO of Norway's sovereign wealth fund reiterated on Tuesday that the fund's roughly 2 trillion in assets could suffer unexpected, large losses and might even be wiped out. He described markets as "abnormal" while noting financial markets continue to rise despite multiple challenges.
-
----
-
-### 2026-08-11 21:00:57  #MKT News #Market Regions #Emerging Markets
-
-IIF: Emerging-market debt inflows totaled $26.7bn in July, down from $28.1bn in June.
-
----
-
-### 2026-08-11 21:00:37  #MKT News #Market Regions #Emerging Markets #Hang Seng Index #Impact bullish #CSI300 #SZSE Component
-
-IIF: Emerging market equity outflows slowed to $7.8bn in July, down from $46.1bn in June.
-
----
-
-### 2026-08-11 21:00:32  #其他
-
-納斯達克宣佈達成收購Level Markets的最終協議，推進其全天候市場戰略。
-
----
-
-### 2026-08-11 21:00:20  #MKT News #Important #Commodities #Energy
-
-China night session: most-active futures were mixed. Coking coal rose more than 2%; fuel oil, low-sulfur fuel oil (LU), propylene, methanol, Shanghai crude (SC) and coke gained over 1%. Paper and pulp fell about 1%.
-
----
-
-### 2026-08-11 21:00:02  #市場
-
-【國內期貨夜盤開盤】集運指數歐線期貨連續跌4.12%，雞蛋連續跌2.53%，焦煤連續漲1.77%，纖維板連續跌1.68%，甲醇連續漲1.59%。
-
----
-
-### 2026-08-11 21:00:02  #市場 #焦點
-
-純鹼連續主力合約日內漲1%，現報996.00元。
-
----
-
-### 2026-08-11 20:59:43  #國際
-
-8月10日美國聯邦基金有效利率為3.63%，與8月7日持平。
-
----
-
-### 2026-08-11 20:59:25  #MKT News
-
-【Yushu Technology online allotment rate less than 1/26 of Changxin Technology's】Aug 11 evening — Yushu Technology released IPO allotment results. Online allotment rate 0.01809759%, among 93 new listings year-to-date this ranks at the low end. Offline placement ratio 0.03341824%, sixth-highest among 46 new listings with offline allocations this year. Year-to-date highest online allotment remains Changxin Technology at 0.47141739%; Yushu’s online rate is 3.8% of Changxin’s (under 1/26) and its offline rate is 19% of Changxin’s (under 1/5). Changxin’s final online-issued shares represented approximately 63.93% of issuance after full exercise of the overallotment option and after deducting final strategic placements; Yushu’s final online-issued shares represented approximately 30% of issuance after deducting final strategic placements.
-
----
-
-### 2026-08-11 20:58:15  #公司
-
-【ST椰島：子公司900萬元債務擬以酒抵債 預計收益約600萬元】ST椰島公告稱，全資子公司恆鑫公司與天府公司開展油脂貿易合作，因未發貨被起訴，法院判決恆鑫公司返還貨款等約900萬元。2026年8月11日，公司董事會同意恆鑫公司與天府公司簽署《和解協議》，以酒類產品抵償900萬元債務。本次債務重組預計實現收益約600萬元，具體以審計為準。後續執行仍可能存在履約風險。
-
----
-
-### 2026-08-11 20:57:52  #其他
-
-【重慶“滿天星”聚勢成光 力爭2027年產業規模突破6500億元】8月11日，在《重慶市“十五五”現代服務業發展規劃》解讀新聞釋出會上，重慶市經濟資訊委總經濟師唐忠偉就如何擦亮軟體“滿天星”金名片回答記者提問。他表示，重慶將聚焦產業提質擴容、主體培優壯大、載體能級提升、生態迭代最佳化四大方向，持續推動軟信產業高質量發展。
-
-壯大產業規模，持續迭代“滿天星”行動計劃，力爭2027年產業規模突破6500億元，2030年突破8000億元，築牢核心支撐。培育優質企業，構建“上規—上星—上市”梯度培育體系，培育“北斗星、啟明星、成長星、未來星”企業，打造融通發展生態，力爭新增軟信企業1萬家。做強園區載體，最佳化“核心引領、多點支撐”空間格局，從“滿天星”向“星辰”集聚區升級，建成10個以上特色集聚區。最佳化產業生態，建立“企業認定、政府認賬”人才機制，打造“星暉基地”，辦好品牌活動，提升品牌活躍度。
-
-同時，重慶將深入落實“人工智慧+軟體”戰略，支援企業佈局MaaS、智慧體即服務等新型平臺，推動AI賦能工業、醫療等重點領域。實施“工業資料築基行動”，面向智慧網聯新能源汽車等領域構建行業資料聯合體；推進“模數共振”專項行動，建設汽車製造等行業高質量資料集，打造行業模型和智慧體，加快形成“資料—模型—應用”協同發展體系，持續啟用“人工智慧+軟體”融合新動能。（上游新聞）
-
----
-
-### 2026-08-11 20:56:53  #市場
-
-【LME現貨銅溢價飆升至近10個月新高】倫敦金屬交易所（LME）的現貨銅合約週二較三個月期銅合約出現近每噸200美元的溢價，創下近10個月以來的最高水平，突顯出當前市場供應的嚴重緊張局面。
-
----
-
-### 2026-08-11 20:56:46  #公司
-
-沙烏地阿拉伯煉油廠：季度聯營公司投資收益佔比上升。
-
----
-
-### 2026-08-11 20:56:18  #其他
-
-【宇樹科技網上中籤率不到長鑫科技1/26】8月11日晚間，宇樹科技網上網下中籤結果出爐，網上中籤率為0.01809759%，在今年已上市的93只新股中，中籤率偏低；網下投資者的配售比例為0.03341824%，在今年有網下打新的46只上市新股中位居第六位。截至目前，今年網上中籤率最高的新股為長鑫科技，為0.47141739%。宇樹科技的網上中籤率為長鑫科技的3.8%，不到1/26；網下中籤率為長鑫科技的19%，不到1/5。值得注意的是，長鑫科技網上最終發行數量約佔超額配售選擇權全額行使後扣除最終戰略配售數量後發行數量的63.93%；而宇樹科技網上最終發行數量約佔扣除最終戰略配售數量後發行數量的30%。（第一財經）
-
----
-
-### 2026-08-11 20:56:14  #公司
-
-【中國金茂7月簽約銷售額92.02億元】8月11日，中國金茂披露7月銷售簡報。簡報顯示，7月中國金茂及其附屬公司簽約銷售金額為92.02億元，簽約銷售建築面積約27.32萬平方米。
-
----
-
-### 2026-08-11 20:55:48  #公司 #觀點
-
-摩根士丹利房地產投資公司以1.585億美元從Hunt Midwest手中收購位於堪薩斯城的Ace Hardware配送設施。
-
----
-
-### 2026-08-11 20:55:22  #其他
-
-市場訊息：納斯達克擬收購暗池交易平臺Level，用於股票市場業務。
-
----
-
-### 2026-08-11 20:55:06  #MKT News #Macro & Rates #US Economy
-
-US Redbook weekly chain-store retail sales YoY for week to Aug 8 8.3% vs 8.7% prior.
-
----
-
-### 2026-08-11 20:55:00  #MKT News #Economic Calendar #Important
-
-United States | Redbook Retail Sales (YoY) (Aug.8) | actual 8.3% | previous 8.7%
-
----
-
-### 2026-08-11 20:53:46  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
-
-LME spot copper is trading at a near-$200/tonne premium to the three-month forward, the largest premium in almost 10 months, underscoring acute tightness in physical supply.
 
 ---

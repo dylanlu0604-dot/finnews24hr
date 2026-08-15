@@ -1,7 +1,135 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:00:18_
-_本檔包含 3103 則快訊，約 604262 字_
+_更新時間：2026-08-15 11:48:41_
+_本檔包含 3104 則快訊，約 603838 字_
+
+---
+
+### 2026-08-15 11:47:32  #MKT News #HII.O #Impact bearish #GD.O #LMT.O
+
+【Politico: Trump's demands threaten US Navy shipbuilding gains】Politico reports Trump's demands peaked this month, risking further weakening of a US Navy already under fiscal and logistical strain. USS Abraham Lincoln has been continuously deployed for a record nine months, and sailors' families warn crew are near exhaustion. A government report says Trump's proposed "golden fleet" of new battleships would cost tens of billions of dollars more than expected. Experts say orders to reintroduce outdated technology could disrupt shipbuilding production schedules. These pressures are compounding long‑standing Navy problems — schedule delays, cost overruns and a shrinking fleet — and could impair its ability to defend US interests, a US official said.
+
+---
+
+### 2026-08-15 11:43:41  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI #XAUUSD
+
+MODI said some countries' weaponization of resources and strategic sea lanes poses a risk to India's economic security, and urged greater energy self-sufficiency to reduce vulnerability to overseas supplies.
+
+---
+
+### 2026-08-15 11:32:48  #MKT News
+
+Iran's foreign minister said Iran has not yet decided to resume talks with the US.
+
+---
+
+### 2026-08-15 11:32:03  #焦點 #國際
+
+伊朗外交部長表示，德黑蘭尚未決定恢復與美國的談判。
+
+---
+
+### 2026-08-15 11:27:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign minister said the US must meet Iran's conditions to restore shipping through the Strait of Hormuz.
+
+---
+
+### 2026-08-15 11:27:23  #焦點 #國際
+
+伊朗外長表示，美國必須滿足相關條件，霍爾木茲海峽航運才能恢復。
+
+---
+
+### 2026-08-15 11:27:04  #MKT News
+
+Iran's foreign minister said Qatar and Pakistan are exchanging information with Iran but are not engaged in negotiations; separate talks with Oman focus on shipping routes in the Strait of Hormuz.
+
+---
+
+### 2026-08-15 11:26:51  #焦點 #國際
+
+伊朗外交部長表示，伊朗與阿曼的會談是單獨舉行的，會談核心聚焦霍爾木茲海峽航道問題。
+
+---
+
+### 2026-08-15 11:25:54  #焦點 #國際
+
+伊朗外交部長表示，卡達和巴基斯坦正在與德黑蘭互傳資訊，但這並非談判。
+
+---
+
+### 2026-08-15 11:20:54  #MKT News
+
+【SOUTH KOREA'S LEE proposes 'inclusive, stable' blueprint for peaceful coexistence with N. KOREA】On the 15th, SOUTH KOREA'S LEE proposed an "inclusive, stable blueprint for peaceful coexistence" and said he would begin a process to transform the Korean Peninsula's unstable armistice system into a peace regime.
+
+---
+
+### 2026-08-15 11:20:41  #國際
+
+【伊拉克原油出口創海峽封鎖以來新高 日均200萬桶】伊拉克石油部14日說，8月初以來，該國日均原油出口量回升至200萬桶，創下2月28日中東戰事爆發、霍爾木茲海峽航運受阻以來的最高水平。伊拉克石油部長巴西姆·穆罕默德·胡達伊爾在新聞釋出會上說，“本月初以來，原油出口達到每日200萬桶”，累計出口約2600萬桶。中東戰事爆發前，伊拉克日均原油產量約400萬桶，月均出口約1.05億桶，大部分從伊南部巴士拉石油終端、經霍爾木茲海峽外運。（新華社）
+
+---
+
+### 2026-08-15 11:19:32  #國際
+
+韓國總統李在明15日提出“包容穩定的對朝和平共處藍圖”，表示將開啟把朝鮮半島不穩定的停戰體制轉變為和平體制的程序。（新華社）
+
+---
+
+### 2026-08-15 11:16:48  #國際
+
+印度總理莫迪：印度將建立現代化的志願民防網路。
+
+---
+
+### 2026-08-15 11:14:43  #其他
+
+【提前一月破億 內蒙古陸路口岸貨運量穩居全國首位】據內蒙古自治區商務廳（口岸辦）訊息，截至8月14日，內蒙古全區陸路口岸2026年進出境貨運量突破1億噸，較去年提前一個月邁入“億噸大關”，貨運規模保持全國第一，區域向北開放樞紐作用進一步夯實。（央視新聞）
+
+---
+
+### 2026-08-15 11:11:55  #公司
+
+【國內唯一通用光量子計算整機企業完成超億融資，韋豪創芯、共達電聲聯合領投】合肥矽臻晶片技術有限公司（以下簡稱“矽臻晶片”）近日完成超億元B輪融資。本輪融資由韋豪創芯、共達電聲聯合領投，華策影視、蘇創投、蘇金控、創領資本、後浪資本等機構跟投。融資資金將主要用於萬位元專用光計算叢集與通用量子計算晶片組的研發。
+
+---
+
+### 2026-08-15 11:10:59  #國際
+
+【高市早苗稱日本將成為燈塔】據日本富士電視臺報道，日本首相高市早苗在今天（8月15日）舉行的所謂“戰歿者追悼儀式”上致辭稱，“絕不讓戰爭的慘禍再次發生，無論歲月如何流逝，都將把這一堅定的誓言跨越世代傳承下去，貫徹到底。”高市還稱，“日本能夠為解決各國面臨的各種問題發揮重要作用，日本將成為印度-太平洋地區一座閃耀的燈塔，成為值得各國信賴的國家。”值得注意的是，“反省戰爭”這一表述並未出現在高市的致辭中。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 11:10:10  #公司 #市場 #焦點 #A股
+
+【宇樹科技未上市先瘋搶 部分中介出價520元/股】記者獲悉，宇樹科技場外“暗盤交易”悄然興起。目前多家中介透過各類渠道收購該股新股，報價分歧較大，部分中介出價520元/股（發行價150.8元/股），亦有中介報價410元/股；不少中籤者也主動上網尋覓買家。值得注意的是，這類“暗盤交易”以往常見於北交所新股，近期正向科創板明星股擴散。記者此前注意到，在長鑫科技上市前，也有中介高價回收該股新股，當時中介的報價是36元/股（發行價8.66元/股）。
+
+“從制度層面來看，這折射出A股打新機制下特有的套利生態。極低的中籤率催生籌碼稀缺性，場外溢價收購新股，本質上是一級市場制度性紅利的私下轉讓。這類行為不僅觸碰合規邊界，同時扭曲市場價格發現功能。”南開大學金融研究院院長田利輝向記者表示。京都律所合夥人王嘉銘也向記者表示，這種行為可能違反了賬戶實名制要求。（券商中國）
+
+---
+
+### 2026-08-15 11:05:37  #國際
+
+印度總理莫迪：印度計劃在一年內對1000萬青年進行人工智慧（AI）技能培訓。
+
+---
+
+### 2026-08-15 11:05:22  #國際
+
+【澳研究人員利用幹細胞培育出人類心臟瓣膜組織】澳大利亞研究人員日前利用幹細胞在實驗室培育出人類心臟瓣膜組織，可用於研究心臟瓣膜的發育和病變過程，並可用於測試相關疾病的治療方法。研究成果已發表在美國《細胞－幹細胞》雜誌上。澳大利亞默多克兒童研究所釋出訊息說，由該機構牽頭的研究團隊培育出的組織能夠再現人類心臟瓣膜的分子特徵和複雜結構。研究團隊成員霍莉·福格斯說，這項成果解決了心臟瓣膜生物學研究中的一項重要難題。此次培育出的組織有助於研究心臟瓣膜如何發育、成熟併發生病變，也可用於在實驗室中測試潛在治療方法。（新華社）
+
+---
+
+### 2026-08-15 11:00:51  #國際
+
+【中歐北極快航開啟季節性周班運營】8月15日，海傑航運“迪拜塔”號在寧波舟山港穿山港區集裝箱碼頭進行裝箱作業，意味著寧波舟山港中歐北極集裝箱航線繼去年成功首航後，今年正式邁入夏季通航季周班運營新階段。“迪拜塔”號裝載儲能櫃、動力電池、光伏元件、新能源零部件等高附加值貨物，將在今晚從寧波舟山港穿山港區起航，經北極東北航道抵達歐洲後，依次停靠英國費利克斯託、荷蘭鹿特丹、德國漢堡、波蘭格丁尼亞等北歐及波羅的海核心港口。相較傳統途經蘇伊士運河40天左右的航程，該航線單程僅需20天，航程縮減近一半。（央視新聞）
+
+---
+
+### 2026-08-15 11:00:11  #其他
+
+【哥倫比亞中部一煤礦發生事故 6人死亡】當地時間8月14日，哥倫比亞中部昆迪納馬卡省庫庫努瓦市一座煤礦發生事故，6名被困礦工全部遇難。昆迪納馬卡省省長雷伊在社交媒體上表示，事故發生在當地“未來1號”礦井。經過數小時搜救，救援人員找到6名被困人員，但均已無生命體徵。雷伊表示，該礦井近期曾接受哥倫比亞國家礦業局檢查，因存在需要整改的安全問題被要求暫停作業。有關部門將調查礦井在暫停作業期間為何仍進行疑似開採作業。（央視新聞）
 
 ---
 
@@ -18617,125 +18745,5 @@ Foreign official holdings of U.S. Treasuries fell $34.26 bln in the week to Aug.
 ### 2026-08-14 04:31:04  #央行 #市場 #國際
 
 美國至8月7日當週外國央行持有美國國債 -342.57億美元，前值-255.34億美元。
-
----
-
-### 2026-08-14 04:30:52  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (Aug.7) | actual -34257000000B | previous -25534000000B
-
----
-
-### 2026-08-14 04:30:39  #MKT News #WTI #Impact bullish #Brent
-
-Abu Dhabi National Oil Co (ADNOC) said two vessels were attacked on Thursday while transiting the Strait of Hormuz; no injuries were reported.
-
----
-
-### 2026-08-14 04:29:53  #公司
-
-阿聯酋阿布扎比國家石油公司（ADNOC）表示，旗下兩艘船隻週四在霍爾木茲海峽通行途中遭到襲擊，暫無人員受傷報告。
-
----
-
-### 2026-08-14 04:26:34  #其他
-
-法拉第未來第二季度稅前虧損 3986.9 萬美元，第二季度運營虧損 3482.7 萬美元，第二季度運營費用 2412.5 萬美元。
-
----
-
-### 2026-08-14 04:26:17  #其他
-
-法拉第未來目標到 2026 年底累計交付超 2000 臺 EAI 機器人裝置，並計劃在未來三至四個季度內將總負債控制在 1 億美元以下。
-
----
-
-### 2026-08-14 04:25:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Extends Record Streak — The S&P/TSX Composite Index added 0.3% to close at 36,759, extending its record-breaking streak amid lower oil prices and soft US producer inflation. Oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC added 0.6% and CIBC gained 1.1%. Tech stocks posted gains, tracking a strong session for US chipmakers and hyperscalers. Shopify advanced 5.3%, Constellation Software gained 2.8%, and Celestica added 2.6%. Brookfield (+0.7%) reported higher second-quarter distributable earnings per share. CCL jumped 6.9% after posting 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver slumped 9.8% after posting EPS below expectations. Hydro One shed 0.5% despite beating quarterly estimates. Metro lost 0.5% after reporting weaker fiscal third-quarter adjusted earnings.
-
----
-
-### 2026-08-14 04:22:09  #MKT News #WTI #Brent
-
-U.S. Vice President Vance said regarding Iran that oil prices will return to stability once the Strait of Hormuz conflict ends.
-
----
-
-### 2026-08-14 04:22:04  #MKT News
-
-US Vice President Vance said the United States has many tools available for policy toward Iran.
-
----
-
-### 2026-08-14 04:21:31  #公司 #國際
-
-美國證券交易委員會（SEC）檔案顯示，截至6月30日馬斯克持有48.4%的SpaceX(SPCX.O)被動股份。
-
----
-
-### 2026-08-14 04:21:23  #其他
-
-萬斯：我們希望壓低利率。
-
----
-
-### 2026-08-14 04:20:52  #MKT News #Commodities #Energy #WTI
-
-U.S. Vice President Vance said his primary objective is to keep U.S. oil and gasoline affordable.
-
----
-
-### 2026-08-14 04:20:38  #MKT News
-
-Fox News reported U.S. Vice President Vance said the Iran issue will ultimately end with the United States in a position of strength.
-
----
-
-### 2026-08-14 04:19:50  #國際
-
-萬斯：美國手上有諸多可用於應對伊朗的手段。
-
----
-
-### 2026-08-14 04:19:10  #MKT News
-
-SEC filing shows Musk held a 48.4% passive stake in SpaceX (SPCX.O) as of June 30.
-
----
-
-### 2026-08-14 04:18:57  #國際
-
-萬斯談及伊朗：最終目標同樣是讓霍爾木茲海峽恢復穩定，油價迴歸平穩。
-
----
-
-### 2026-08-14 04:18:44  #焦點 #國際
-
-萬斯：首要目標是讓美國的石油與汽油維持低價。
-
----
-
-### 2026-08-14 04:18:37  #MKT News
-
-【Kushner Plans Israel Visit Next Week to Discuss Gaza, Axios Says】Axios, citing five people, reported Kushner plans to visit Israel next week to discuss Gaza — his first trip since January. The visit coincides with the White House and Trump’s peace committee pushing a next-phase Gaza plan focused on disarming Hamas and a possible Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. plan and the upcoming October election has heightened political sensitivity. A U.S. official said, "We are aligned on strategic goals but Israel has expressed some concerns; we want to talk to ensure coordination." The official added the visit date could change. Kushner may also meet leaders of other regional states involved in Gaza. The trip indicates the White House does not want the Israeli election to block the next phase; Netanyahu is reluctant to make concessions that could damage his political standing but also seeks to avoid a clash with Trump before the vote.
-
----
-
-### 2026-08-14 04:18:28  #國際
-
-萬斯：伊朗有時不履行承諾.
-
----
-
-### 2026-08-14 04:12:41  #公司
-
-據公司備忘錄，泰森食品將關閉其位於伊利諾伊州喬斯林（Joslin）的牛肉屠宰廠以及位於猶他州的即食（case-ready）肉類加工廠，將提高其得克薩斯州牛肉加工廠的屠宰量。
-
----
-
-### 2026-08-14 04:10:09  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow.
 
 ---

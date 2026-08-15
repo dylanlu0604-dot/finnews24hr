@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:00:18_
-_本檔包含 3140 則快訊，約 603211 字_
+_更新時間：2026-08-15 11:48:41_
+_本檔包含 3131 則快訊，約 604005 字_
+
+---
+
+### 2026-08-14 04:30:52  #MKT News #Economic Calendar #Important
+
+United States | US Treasuries held by Foreign Central Banks (Aug.7) | actual -34257000000B | previous -25534000000B
+
+---
+
+### 2026-08-14 04:30:39  #MKT News #WTI #Impact bullish #Brent
+
+Abu Dhabi National Oil Co (ADNOC) said two vessels were attacked on Thursday while transiting the Strait of Hormuz; no injuries were reported.
+
+---
+
+### 2026-08-14 04:29:53  #公司
+
+阿聯酋阿布扎比國家石油公司（ADNOC）表示，旗下兩艘船隻週四在霍爾木茲海峽通行途中遭到襲擊，暫無人員受傷報告。
+
+---
+
+### 2026-08-14 04:26:34  #其他
+
+法拉第未來第二季度稅前虧損 3986.9 萬美元，第二季度運營虧損 3482.7 萬美元，第二季度運營費用 2412.5 萬美元。
+
+---
+
+### 2026-08-14 04:26:17  #其他
+
+法拉第未來目標到 2026 年底累計交付超 2000 臺 EAI 機器人裝置，並計劃在未來三至四個季度內將總負債控制在 1 億美元以下。
+
+---
+
+### 2026-08-14 04:25:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Extends Record Streak — The S&P/TSX Composite Index added 0.3% to close at 36,759, extending its record-breaking streak amid lower oil prices and soft US producer inflation. Oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC added 0.6% and CIBC gained 1.1%. Tech stocks posted gains, tracking a strong session for US chipmakers and hyperscalers. Shopify advanced 5.3%, Constellation Software gained 2.8%, and Celestica added 2.6%. Brookfield (+0.7%) reported higher second-quarter distributable earnings per share. CCL jumped 6.9% after posting 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver slumped 9.8% after posting EPS below expectations. Hydro One shed 0.5% despite beating quarterly estimates. Metro lost 0.5% after reporting weaker fiscal third-quarter adjusted earnings.
+
+---
+
+### 2026-08-14 04:22:09  #MKT News #WTI #Brent
+
+U.S. Vice President Vance said regarding Iran that oil prices will return to stability once the Strait of Hormuz conflict ends.
+
+---
+
+### 2026-08-14 04:22:04  #MKT News
+
+US Vice President Vance said the United States has many tools available for policy toward Iran.
+
+---
+
+### 2026-08-14 04:21:31  #公司 #國際
+
+美國證券交易委員會（SEC）檔案顯示，截至6月30日馬斯克持有48.4%的SpaceX(SPCX.O)被動股份。
+
+---
+
+### 2026-08-14 04:21:23  #其他
+
+萬斯：我們希望壓低利率。
+
+---
+
+### 2026-08-14 04:20:52  #MKT News #Commodities #Energy #WTI
+
+U.S. Vice President Vance said his primary objective is to keep U.S. oil and gasoline affordable.
+
+---
+
+### 2026-08-14 04:20:38  #MKT News
+
+Fox News reported U.S. Vice President Vance said the Iran issue will ultimately end with the United States in a position of strength.
+
+---
+
+### 2026-08-14 04:19:50  #國際
+
+萬斯：美國手上有諸多可用於應對伊朗的手段。
+
+---
+
+### 2026-08-14 04:19:10  #MKT News
+
+SEC filing shows Musk held a 48.4% passive stake in SpaceX (SPCX.O) as of June 30.
+
+---
+
+### 2026-08-14 04:18:57  #國際
+
+萬斯談及伊朗：最終目標同樣是讓霍爾木茲海峽恢復穩定，油價迴歸平穩。
+
+---
+
+### 2026-08-14 04:18:44  #焦點 #國際
+
+萬斯：首要目標是讓美國的石油與汽油維持低價。
+
+---
+
+### 2026-08-14 04:18:37  #MKT News
+
+【Kushner Plans Israel Visit Next Week to Discuss Gaza, Axios Says】Axios, citing five people, reported Kushner plans to visit Israel next week to discuss Gaza — his first trip since January. The visit coincides with the White House and Trump’s peace committee pushing a next-phase Gaza plan focused on disarming Hamas and a possible Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. plan and the upcoming October election has heightened political sensitivity. A U.S. official said, "We are aligned on strategic goals but Israel has expressed some concerns; we want to talk to ensure coordination." The official added the visit date could change. Kushner may also meet leaders of other regional states involved in Gaza. The trip indicates the White House does not want the Israeli election to block the next phase; Netanyahu is reluctant to make concessions that could damage his political standing but also seeks to avoid a clash with Trump before the vote.
+
+---
+
+### 2026-08-14 04:18:28  #國際
+
+萬斯：伊朗有時不履行承諾.
+
+---
+
+### 2026-08-14 04:12:41  #公司
+
+據公司備忘錄，泰森食品將關閉其位於伊利諾伊州喬斯林（Joslin）的牛肉屠宰廠以及位於猶他州的即食（case-ready）肉類加工廠，將提高其得克薩斯州牛肉加工廠的屠宰量。
+
+---
+
+### 2026-08-14 04:10:09  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow.
 
 ---
 
@@ -18734,179 +18854,5 @@ United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.12) | actual 3.16 | pr
 ### 2026-08-12 23:32:26  #公司 #市場
 
 【谷歌釋出新一代Pixel智慧手機 硬體和設計上小幅升級】Alphabet Inc.旗下谷歌釋出最新一代Pixel智慧手機，在硬體和設計上進行小幅升級。新系列包括Pixel 11 Pro XL，起售價1,299美元；Pixel 11 Pro，起售價1,099美元；Pixel 11，899美元。此外還有摺疊屏手機Pixel 11 Pro Fold，起售價1,899美元。新機帶來一些真正的新功能，例如“HiLight”，可把相機閃光燈變成更實用的通知指示燈。此外，還包括一些更務實的改進，例如提升抗刮效能和螢幕亮度。受前所未有的記憶體晶片供應緊張影響，這幾款手機的起售價均較去年上漲100美元。除了提價，谷歌還下調了Pixel 11 Pro和Pro XL基礎版本的記憶體，從去年的16GB降至12GB。高儲存版本仍保留16GB記憶體。不過，新機的基礎儲存容量有所增加，從128GB提高至256GB。
-
----
-
-### 2026-08-12 23:31:39  #其他
-
-SpaceXAI：Grok 4.6今日已在Cursor和Grok Build中上線。Grok 4.6定價為每百萬輸入Token收費2美元，每百萬輸出Token收費6美元。Grok 4.6也已透過API以及OpenRouter、Vercel和Cloudflare等合作伙伴平臺上線。
-
----
-
-### 2026-08-12 23:31:17  #其他 #國際
-
-阿拉比亞電視臺訊息人士：巴基斯坦調解方正尋求延長（美伊）60天停火期限。巴基斯坦調解方對 60 天期限得以延長持樂觀態度。
-
----
-
-### 2026-08-12 23:31:01  #MKT News
-
-Grok 4.6 is now available via API and on partner platforms OpenRouter, Vercel and Cloudflare.
-
----
-
-### 2026-08-12 23:30:36  #MKT News #Market Themes #AI Revolution
-
-SpaceX AI: Grok 4.6 priced at $2 per 1 million input tokens and $6 per 1 million output tokens.
-
----
-
-### 2026-08-12 23:30:18  #MKT News #Market Themes #AI Revolution
-
-SpaceX AI launched Grok 4.6 today; the update is now live on Cursor and Grok Build.
-
----
-
-### 2026-08-12 23:28:40  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Extends Losses for 3rd Session — The FTSE 100 extended its modest losses for a third consecutive session on Wednesday as investors awaited further developments in the Middle East and assessed the latest US inflation data. The index was weighed down by weakness in major oil and pharmaceutical stocks, with Shell and BP falling more than 1% each, while AstraZeneca dropped 1.5% and GSK declined 2.1%. Unilever also fell more than 1%. Tesco was among the biggest decliners, losing more than 2% after Shore Capital downgraded the retailer to “hold.” Meanwhile, US inflation data came in broadly in line with expectations, easing concerns over an imminent Federal Reserve rate hike and providing some relief amid persistent geopolitical uncertainty. Brent crude fluctuated on Wednesday but remained elevated after recent gains, as uncertainty continued over the prospects of an agreement to reopen the Strait of Hormuz.
-
----
-
-### 2026-08-12 23:28:39  #MKT News #Important #Market Themes #AI Revolution
-
-SpaceX AI launches Grok 4.6.
-
----
-
-### 2026-08-12 23:28:25  #其他
-
-SpaceXAI：推出Grok 4.6。
-
----
-
-### 2026-08-12 23:27:45  #MKT News #Important
-
-Pakistani mediators are seeking to extend the US-Iran 60-day ceasefire, Saudi Al Arabiya TV reports.
-
----
-
-### 2026-08-12 23:25:43  #其他
-
-據燈塔專業版實時資料，截至8月12日23時20分，影片《奧德賽》點映及預售總票房突破1億。
-
----
-
-### 2026-08-12 23:24:24  #國際
-
-以色列國防軍發言人：今日早些時候，參謀長就凱齊拉地區正在發生的事態，與中央司令部司令、作戰局局長及作戰處處長再次舉行局勢評估會議。
-
----
-
-### 2026-08-12 23:22:21  #國際
-
-市場訊息：以色列國防軍襲擊加沙地帶北部拜特哈利亞地區。
-
----
-
-### 2026-08-12 23:20:50  #MKT News #Market Regions #JIOFIN.NS #Impact bullish
-
-BofA will acquire a 49.9% stake in a Jio Financial subsidiary for about $1.9 billion.
-
----
-
-### 2026-08-12 23:20:43  #公司 #國際
-
-美國銀行將斥資約19億美元收購JIO金融部門49.9%的股份。
-
----
-
-### 2026-08-12 23:18:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Oman Environment Authority is monitoring an oil slick from a grounded vessel near Al Kibubriya Island; the oil could reach the coast of Masirah Island within hours.
-
----
-
-### 2026-08-12 23:18:16  #其他
-
-阿曼環境局正在監測船隻在吉卜利耶島附近擱淺後產生的海面浮油。浮油或將在未來數小時內抵達馬西拉島海岸。
-
----
-
-### 2026-08-12 23:17:43  #其他
-
-阿曼環境局稱，此次原油洩漏最終或對拉斯馬德拉卡 40 公里海岸線造成影響。
-
----
-
-### 2026-08-12 23:17:32  #MKT News
-
-Oman Environment Authority says oil spill could affect up to 40 km of coastline at Ras Madrakah.
-
----
-
-### 2026-08-12 23:17:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Oman Environment Authority said leaked oil has reached the country's southeastern coast.
-
----
-
-### 2026-08-12 23:17:05  #其他
-
-阿曼環境局表示，原油洩漏已抵達該國東南部海岸。
-
----
-
-### 2026-08-12 23:15:46  #其他
-
-巴拿馬 6 月經濟活動同比增長 8.23%。
-
----
-
-### 2026-08-12 23:13:30  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-VIX briefly hit a seven-month low; latest down 0.44 points to 14.84.
-
----
-
-### 2026-08-12 23:13:18  #市場
-
-芝加哥期權交易所波動率指數短暫觸及七個多月低點；最新下跌 0.44 點，報 14.84。
-
----
-
-### 2026-08-12 23:11:24  #宏觀 #國際
-
-【美國推出新計劃 加快盟友間AI關鍵物資流通】特朗普政府宣佈一項新計劃，旨在加速美國與其最緊密貿易伙伴之間在AI發展關鍵物資方面的運輸。美國國務院週三表示，將在巴拿馬建立一個試點平臺，以加快AI關鍵產品的貿易流通。該平臺是美國主導的“矽和平”倡議的一部分，旨在加強盟友之間的供應鏈。國務院在宣告中表示，將提供最高5,000萬美元的對外援助資金，用於開發和部署該平臺，並利用AI技術加快物流流程。
-
----
-
-### 2026-08-12 23:09:49  #MKT News
-
-Nikkei reports Japan plans to provide financial and technical assistance to Persian Gulf countries to rebuild infrastructure damaged in a US-Iran war, aiming to secure stable regional energy supplies.
-
----
-
-### 2026-08-12 23:09:01  #公司
-
-【康盛股份：董事長兼總經理被取保候審】康盛股份(002418.SZ)公告稱，公司董事長兼總經理王亞駿被司法機關採取取保候審措施，但不影響其履職。經核實，該事項不涉及公司生產經營活動，不涉及公司業務、資產及應披露而未披露的重大事項。截至本公告披露日，王亞駿能夠正常履行董事長及總經理職責，公司董事會運作正常，各項經營管理活動有序開展。
-
----
-
-### 2026-08-12 23:06:36  #國際
-
-【美銀對沖基金客戶繼續大買美股 單週規模創出2008年以來之最】美國銀行對沖基金客戶以接近創紀錄的金額買入美國股票後一週，投資水平又達到了2008年以來最高。該行Jill Carey Hall牽頭的策略師在研報中寫道，截至8月7日當週，客戶連續第六週淨買入美股，向ETF注入41億美元，從個股撤資24億美元。同期機構和散戶客戶均淨賣出，而企業客戶則加速回購。客戶賣出了11個板塊中的7個，其中工業股資金流出量最大，而科技板塊則錄得有史以來第二大吸金周。
-
----
-
-### 2026-08-12 23:06:24  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-Market sources: Bank of America hedge-fund clients continued to add to US equities; weekly buying intensity hit its highest level since 2008.
-
----
-
-### 2026-08-12 23:06:09  #國際
-
-據伊朗塔斯尼姆通訊社報道，葉門胡塞武裝威脅將打擊索馬利亞及其周邊區域內的所有以色列相關目標。
 
 ---
