@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 00:22:19",
-  "count": 15275,
+  "updated": "2026-08-16 00:32:29",
+  "count": 15273,
   "items": [
+    {
+      "id": "mkt:01a0063c-f6b3-7aab-9049-b887fc9a2996",
+      "time": "2026-08-16 00:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-2.8 earthquake at 00:07 on Aug 16 in Renshou County, Meishan, Sichuan (29.77°N, 104.25°E); focal depth 7 km."
+    },
     {
       "id": "5042404",
       "time": "2026-08-16 00:15:48",
@@ -139817,35 +139825,6 @@
         "其他"
       ],
       "text": "黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。"
-    },
-    {
-      "id": "5032069",
-      "time": "2026-08-09 00:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統並未否認安全委員會秘書穆罕默德-巴蓋爾·佐爾卡德爾已提出辭職的媒體報道，他表示：“我們之間確實存在一些分歧，目前正努力解決。”"
-    },
-    {
-      "id": "5032068",
-      "time": "2026-08-09 00:25:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國國際航空：受颱風“白海豚”影響，多架航班取消。"
-    },
-    {
-      "id": "mkt:019fe230-5fcc-7aab-8fc5-1f8e98b3af0d",
-      "time": "2026-08-09 00:24:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump administration freezes assets of oil magnate Harry Sargeant III, presses him to divest Venezuelan holdings】U.S. Treasury on Friday froze assets of offshore companies tied to Florida oil magnate and Republican donor Harry Sargeant III that participate in Venezuelan oil production, sources said, and issued a license allowing the liquidation of his interests in those entities. Sargeant has served as a confidential conduit between Washington and Caracas—meeting President Maduro and other senior officials—and used that role to pursue oil deals in Venezuela that most firms avoided due to political risk and sanctions; he also helped secure the 2025 release of a detained U.S. citizen."
     }
   ]
 }

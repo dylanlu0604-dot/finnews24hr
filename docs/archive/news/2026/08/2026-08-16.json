@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "id": "mkt:01a0063c-f6b3-7aab-9049-b887fc9a2996",
+      "time": "2026-08-16 00:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude-2.8 earthquake at 00:07 on Aug 16 in Renshou County, Meishan, Sichuan (29.77°N, 104.25°E); focal depth 7 km."
+    },
     {
       "id": "5042404",
       "time": "2026-08-16 00:15:48",
