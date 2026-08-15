@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:53:24_
-_本檔包含 3115 則快訊，約 604883 字_
+_更新時間：2026-08-15 16:42:10_
+_本檔包含 3122 則快訊，約 604836 字_
+
+---
+
+### 2026-08-13 02:16:30  #Trading Economics #Economy #United States #Government Budget Value #Importance 1
+
+US Budget Deficit Widens in July — The US government posted a $432 billion budget deficit in July 2026, widening from a $291 billion shortfall a year earlier and exceeding forecasts for a $346 billion gap. Government outlays rose to $766 billion from $630 billion in July 2025, led by Medicare spending of $174 billion. Social Security costs reached $141 billion, while net interest accounted for $104 billion and national defense for $91 billion. Meanwhile, government receipts fell to $334 billion from $338 billion a year earlier, with individual income taxes contributing $173 billion and social insurance and retirement receipts totaling $139 billion.
+
+---
+
+### 2026-08-13 02:15:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Rises by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas EU (3.20%) and Natural Gas UK (3.13%). Biggest losers are Methanol (-0.69%), Crude Oil WTI (-0.49%) and Brent Crude Oil (-0.30%).
+
+---
+
+### 2026-08-13 02:13:25  #公司
+
+【新基金髮行近期明顯提速】Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。在經歷7月下旬的階段性低谷後，新基金髮行正在明顯提速。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。（證券時報）
+
+---
+
+### 2026-08-13 02:05:47  #MKT News #WTI #Impact bullish #Brent
+
+【Iraq PM says Sept. 30 final deadline for coalition withdrawal】Iraq's prime minister told reporters after meeting visiting CENTCOM commander Cooper that Sept. 30 is the final deadline for international coalition forces to end their military mission and complete withdrawal from Iraq. He said Oct. 1 will mark the removal of all foreign military presence and the start of a new phase for Iraqi territorial sovereignty and strengthened security and military capabilities.
+
+---
+
+### 2026-08-13 02:04:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. Treasury: YTD FY26 budget deficit $1.799 tln, versus $1.629 tln in the same period of FY25.
+
+---
+
+### 2026-08-13 02:04:35  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact mixed #S&P500
+
+U.S. Treasury said July budget deficit was the largest since March 2021 and set a record for a July single-month deficit.
+
+---
+
+### 2026-08-13 02:04:22  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. Treasury said July budget deficit was $432 bln, versus $346 bln expected and $291 bln in July a year earlier.
+
+---
+
+### 2026-08-13 02:03:24  #國際
+
+美國 2026 財年截至目前赤字 1.799 萬億美元，2025 財年同期赤字為 1.629 萬億美元。
+
+---
+
+### 2026-08-13 02:03:12  #MKT News #Macro & Rates #US Economy #US10Y
+
+U.S. Treasury: July government outlays $766 bln, highest July on record, vs $630 bln in July last year. July receipts $334 bln, down from $338 bln a year earlier.
+
+---
+
+### 2026-08-13 02:03:01  #宏觀 #國際
+
+美國財政部：美國 7 月預算赤字為 2021 年 3 月以來最高，同時創下 7 月份歷史新高。
+
+---
+
+### 2026-08-13 02:02:57  #宏觀 #國際
+
+美國財政部：7 月海關淨收入為‑85.5 億美元；海關總收入 248.4 億美元，退稅 333.8 億美元。
+
+---
+
+### 2026-08-13 02:02:40  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury said July customs net receipts were negative $8.55 billion, total receipts $24.84 billion and refunds $33.38 billion.
+
+---
+
+### 2026-08-13 02:02:23  #公司 #國際
+
+L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。
+
+---
+
+### 2026-08-13 02:00:10  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+U.S. July federal budget deficit widened to $432 bln, vs. $346 bln expected; June deficit was $120 bln.
+
+---
+
+### 2026-08-13 02:00:00  #MKT News #Economic Calendar #Important
+
+United States | Government Budget (Jul) | actual -432000000000B | consensus -346000000000B | previous -120000000000B
+
+---
+
+### 2026-08-13 01:59:55  #其他
+
+【伊拉克總理：9月30日為國際聯盟撤軍最後期限】當地時間12日，據伊拉克總理媒體辦公室宣告，伊拉克總理扎伊迪當天會見了到訪的美軍中央司令部司令庫珀。會晤期間，扎伊迪重申了伊方對既定時間表的承諾，即9月30日是國際聯盟部隊結束在伊拉克軍事任務並完成撤軍的最終日期。扎伊迪表示，10月1日將是伊拉克歷史上嶄新的一天，屆時伊拉克將徹底擺脫所有外國軍事存在，實現本國領土主權，持續增強本國安全和軍事能力，維護自身安全與穩定。（央視新聞）
+
+---
+
+### 2026-08-13 01:59:34  #MKT News
+
+Saudi outlet Alhadath reports a Yemeni government drone strike hit a Houthi assembly point in Al Jawf province.
+
+---
+
+### 2026-08-13 01:59:18  #國際
+
+美國7月政府預算 -4323.08億美元，預期 -3460億美元，前值 -2911億美元。
+
+---
+
+### 2026-08-13 01:57:26  #其他
+
+訊息人士：巴西經濟團隊將支出約束觸發條款寫入國會一項無關法案之中。擬議措施將在 2027 年實現約 100 億雷亞爾的支出節省。
+
+---
+
+### 2026-08-13 01:56:53  #MKT News
+
+Sources said Brazil's economic team inserted spending-cut provisions into an unrelated bill filed with Congress; the measures would save about BRL 10 bln in 2027.
+
+---
+
+### 2026-08-13 01:54:33  #其他
+
+葉門武裝部隊：無人機襲擊朱夫省胡塞武裝集結點。
+
+---
+
+### 2026-08-13 01:54:05  #MKT News
+
+Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace.
 
 ---
 
@@ -18710,95 +18842,5 @@ Abbott Stock Price Hits 21-week High — Abbott shares increased to 110.08 USD, 
 ### 2026-08-11 21:45:42  #MKT News
 
 【Navigation warning: South China Sea live-fire exercises on Aug 12 and 14】China Maritime Safety Administration website says Shantou Maritime Safety Administration issued a navigation warning that on Aug 12 and 14, 08:00–18:00 local time, live-fire exercises will be conducted in parts of the South China Sea; vessels are prohibited from entering the affected waters.
-
----
-
-### 2026-08-11 21:45:36  #其他
-
-【航行警告！南海實彈射擊】據中國海事局網站訊息，汕頭海事局釋出航行警告，8月12日和14日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-08-11 21:45:21  #MKT News
-
-Tanker-tracking data show Russian crude exports averaged 3.71 mln bpd in the four weeks to Aug 9, the lowest since late May, suggesting the earlier export surge tied to sustained Ukrainian strikes on Russian refineries is fading.
-
----
-
-### 2026-08-11 21:43:49  #公司 #資料 #觀點
-
-【高盛：谷歌AI戰略或轉向規模化商業化 雲業務成核心增長引擎】高盛在研報中表示，谷歌母公司Alphabet近期AI管理層調整可能意味著公司戰略正在從“研究驅動”轉向更強調規模化商業化。谷歌DeepMind負責人Demis Hassabis將更多聚焦AGI、科學研究和長期AI開發，Koray Kavukcuoglu則接管Gemini產品開發與商業化。高盛認為，這並非谷歌放棄前沿模型競爭，而是開始將資源更多投入其真正具備長期優勢的領域。未來，谷歌仍將保持前沿AI研發能力，高盛預計Gemini 4可能在今年晚些時候或明年初推出。同時，Gemini消費者採用率提升有望強化谷歌的分發優勢，而Google Cloud將成為AI基礎設施變現的重要載體。高盛預計，未來4至6個季度Google Cloud收入複合增速可能接近三位數，GAAP營業利潤率有望超過30%。高盛認為，谷歌正在演變為一家規模化AI平臺公司：消費者AI擴大分發，雲業務承接基礎設施需求，前沿研究則更多服務整體商業戰略。
-
----
-
-### 2026-08-11 21:43:23  #公司 #市場 #國際
-
-【衛星影象顯示油輪在霍爾木茲海峽外接力轉運 維繫中東原油出口生命線】儘管近期襲擊事件頻發，中東一條涉及油輪在霍爾木茲海峽外接力運輸的關鍵石油供應通道仍在運作。衛星影象顯示，有船隻在霍爾木茲海峽外進行貨物轉運，表明部分油輪仍在關閉追蹤訊號的情況下穿越這一水道。歐盟“Sentinel 2”衛星資料顯示，週一在阿曼和阿聯酋沿岸一段超過100公里（62英里）的海域內，共發現12起此類轉運活動。根據媒體彙編的船舶追蹤資料以及Kpler和Vortexa的資料，自週六以來，至少有4艘出港的超大型油輪在穿越霍爾木茲海峽後重新出現在追蹤系統中，這些油輪共載有800萬桶原油。其中一些船只過去曾參與這種接力運輸，另一些則可能繼續駛往世界其他地區的煉油廠。這種接力運輸和原油轉運正為地區緊張局勢持續之際的全球能源市場提供重要的生命線，並有助於抑制油價。有時每天仍有數百萬桶原油經這一水道運出，從而緩解衝突造成的全球市場供應損失。 不過，這種運輸方式並非沒有風險。阿聯酋主要石油公司是衝突期間最積極透過霍爾木茲海峽運出原油的企業之一。該公司上週晚些時候表示，衝突期間其15艘船隻遭到襲擊。宣告發布後，週末又有一艘船隻遇襲。許多駛離霍爾木茲海峽的船隻都選擇貼近阿曼海岸線的航線。這些船隻在透過相關水域時通常會得到美軍協助。由於針對航運的襲擊仍在持續，願意進入波斯灣的船東數量依然相對有限。這推動油輪公司收入大幅上漲，基準航線的日費再次接近50萬美元。
-
----
-
-### 2026-08-11 21:42:58  #國際
-
-歐盟電力協調小組：本週電力形勢仍將緊張。
-
----
-
-### 2026-08-11 21:42:50  #MKT News #Commodities #Energy #Market Regions #Europe & UK #DAX #Impact bearish #EURUSD #Brent #Impact bullish
-
-EU electricity coordination group says power supply will remain tight this week.
-
----
-
-### 2026-08-11 21:42:48  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
-
-EU electricity coordination group says there is no short-term risk to power supply adequacy.
-
----
-
-### 2026-08-11 21:42:24  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Satellite imagery shows tankers outside the Strait of Hormuz sustaining Middle East crude exports via ship-to-ship relay transshipment.
-
----
-
-### 2026-08-11 21:42:08  #Trading Economics #Markets #Commodity #Importance 1
-
-Natural Gas Market Balances Heat and Strong Supply — US natural gas prices fluctuated around $2.80 per million British thermal units as investors weighed hotter weather forecasts and rising LNG demand against strong supply levels. Forecasts now point to significantly hotter conditions across the central and southern US, which could boost electricity demand as consumers increase air-conditioning use and raise gas consumption by power generators. Also, flows to US LNG export terminals on the Gulf Coast climbed to their highest level in more than a month as some facilities appeared to complete seasonal maintenance, reducing gas available to the domestic market. However, elevated inventories continue to limit the upside, with storage expected to remain 6.6% above the five-year average for the week ending August 7. Strong production and additional supply from West Texas pipelines coming online are also expected to keep the market well supplied.
-
----
-
-### 2026-08-11 21:42:02  #國際
-
-歐盟電力協調小組：不存在短期電力供應充足性風險。
-
----
-
-### 2026-08-11 21:41:50  #焦點 #國際
-
-【美官員稱美軍向一艘與伊朗有關的船隻開火】美國《華爾街日報》11日援引一名美國官員的話報道稱，美軍當日向一艘懸掛巴拿馬國旗、與伊朗有關的船隻開火。報道稱，這名官員表示，該船“試圖突破美國對伊朗港口的封鎖”，一架美國軍用直升機向該船船舵開火。此後，該船“似乎試圖將船員轉移到另一艘民用船隻上”。報道稱，目前該事件尚無人員傷亡報告。另據一名海員11日告訴新華社記者，一艘集裝箱船在阿曼灣海域遇襲，船員緊急呼叫救援並準備棄船。被襲船隻上的船員透過船舶間無線電公共頻道通報，事發地點位於阿曼灣東部邊緣，船上共17人，疑似被“直升機襲擊”。（央視新聞）
-
----
-
-### 2026-08-11 21:41:35  #MKT News
-
-An EU power coordination group discussed electricity supply security.
-
----
-
-### 2026-08-11 21:41:28  #國際
-
-歐盟電力協調小組就電力供應安全展開討論。
-
----
-
-### 2026-08-11 21:40:55  #公司 #市場
-
-【中際旭創子公司新進成為鵬鼎控股第四大股東 按收盤價計對應市值23.2億元】鵬鼎控股(002938.SZ)披露2026年半年報。截至二季度末，中際旭創(上海)投資有限公司持有鵬鼎控股2400萬股，持股比例1.04%，為公司的第四大股東。以鵬鼎控股今日收盤價96.67元/股計算，旭創投資的持股市值約23.2億元。
-
----
-
-### 2026-08-11 21:40:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.31% Higher — The Dow Jones Index is picking up 167 points or 0.31 percent on Tuesday. Gains are led by Caterpillar (1.90%), Boeing (1.67%) and Home Depot (1.14%). Biggest losers are Nike (-1.95%), Alphabet (-1.72%) and Cisco Systems (-1.46%).
 
 ---

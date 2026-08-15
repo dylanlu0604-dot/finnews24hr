@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:53:24_
-_本檔包含 3217 則快訊，約 604792 字_
+_更新時間：2026-08-15 16:42:10_
+_本檔包含 3213 則快訊，約 605134 字_
+
+---
+
+### 2026-08-11 21:45:36  #其他
+
+【航行警告！南海實彈射擊】據中國海事局網站訊息，汕頭海事局釋出航行警告，8月12日和14日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-08-11 21:45:21  #MKT News
+
+Tanker-tracking data show Russian crude exports averaged 3.71 mln bpd in the four weeks to Aug 9, the lowest since late May, suggesting the earlier export surge tied to sustained Ukrainian strikes on Russian refineries is fading.
+
+---
+
+### 2026-08-11 21:43:49  #公司 #資料 #觀點
+
+【高盛：谷歌AI戰略或轉向規模化商業化 雲業務成核心增長引擎】高盛在研報中表示，谷歌母公司Alphabet近期AI管理層調整可能意味著公司戰略正在從“研究驅動”轉向更強調規模化商業化。谷歌DeepMind負責人Demis Hassabis將更多聚焦AGI、科學研究和長期AI開發，Koray Kavukcuoglu則接管Gemini產品開發與商業化。高盛認為，這並非谷歌放棄前沿模型競爭，而是開始將資源更多投入其真正具備長期優勢的領域。未來，谷歌仍將保持前沿AI研發能力，高盛預計Gemini 4可能在今年晚些時候或明年初推出。同時，Gemini消費者採用率提升有望強化谷歌的分發優勢，而Google Cloud將成為AI基礎設施變現的重要載體。高盛預計，未來4至6個季度Google Cloud收入複合增速可能接近三位數，GAAP營業利潤率有望超過30%。高盛認為，谷歌正在演變為一家規模化AI平臺公司：消費者AI擴大分發，雲業務承接基礎設施需求，前沿研究則更多服務整體商業戰略。
+
+---
+
+### 2026-08-11 21:43:23  #公司 #市場 #國際
+
+【衛星影象顯示油輪在霍爾木茲海峽外接力轉運 維繫中東原油出口生命線】儘管近期襲擊事件頻發，中東一條涉及油輪在霍爾木茲海峽外接力運輸的關鍵石油供應通道仍在運作。衛星影象顯示，有船隻在霍爾木茲海峽外進行貨物轉運，表明部分油輪仍在關閉追蹤訊號的情況下穿越這一水道。歐盟“Sentinel 2”衛星資料顯示，週一在阿曼和阿聯酋沿岸一段超過100公里（62英里）的海域內，共發現12起此類轉運活動。根據媒體彙編的船舶追蹤資料以及Kpler和Vortexa的資料，自週六以來，至少有4艘出港的超大型油輪在穿越霍爾木茲海峽後重新出現在追蹤系統中，這些油輪共載有800萬桶原油。其中一些船只過去曾參與這種接力運輸，另一些則可能繼續駛往世界其他地區的煉油廠。這種接力運輸和原油轉運正為地區緊張局勢持續之際的全球能源市場提供重要的生命線，並有助於抑制油價。有時每天仍有數百萬桶原油經這一水道運出，從而緩解衝突造成的全球市場供應損失。 不過，這種運輸方式並非沒有風險。阿聯酋主要石油公司是衝突期間最積極透過霍爾木茲海峽運出原油的企業之一。該公司上週晚些時候表示，衝突期間其15艘船隻遭到襲擊。宣告發布後，週末又有一艘船隻遇襲。許多駛離霍爾木茲海峽的船隻都選擇貼近阿曼海岸線的航線。這些船隻在透過相關水域時通常會得到美軍協助。由於針對航運的襲擊仍在持續，願意進入波斯灣的船東數量依然相對有限。這推動油輪公司收入大幅上漲，基準航線的日費再次接近50萬美元。
+
+---
+
+### 2026-08-11 21:42:58  #國際
+
+歐盟電力協調小組：本週電力形勢仍將緊張。
+
+---
+
+### 2026-08-11 21:42:50  #MKT News #Commodities #Energy #Market Regions #Europe & UK #DAX #Impact bearish #EURUSD #Brent #Impact bullish
+
+EU electricity coordination group says power supply will remain tight this week.
+
+---
+
+### 2026-08-11 21:42:48  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+EU electricity coordination group says there is no short-term risk to power supply adequacy.
+
+---
+
+### 2026-08-11 21:42:24  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Satellite imagery shows tankers outside the Strait of Hormuz sustaining Middle East crude exports via ship-to-ship relay transshipment.
+
+---
+
+### 2026-08-11 21:42:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Natural Gas Market Balances Heat and Strong Supply — US natural gas prices fluctuated around $2.80 per million British thermal units as investors weighed hotter weather forecasts and rising LNG demand against strong supply levels. Forecasts now point to significantly hotter conditions across the central and southern US, which could boost electricity demand as consumers increase air-conditioning use and raise gas consumption by power generators. Also, flows to US LNG export terminals on the Gulf Coast climbed to their highest level in more than a month as some facilities appeared to complete seasonal maintenance, reducing gas available to the domestic market. However, elevated inventories continue to limit the upside, with storage expected to remain 6.6% above the five-year average for the week ending August 7. Strong production and additional supply from West Texas pipelines coming online are also expected to keep the market well supplied.
+
+---
+
+### 2026-08-11 21:42:02  #國際
+
+歐盟電力協調小組：不存在短期電力供應充足性風險。
+
+---
+
+### 2026-08-11 21:41:50  #焦點 #國際
+
+【美官員稱美軍向一艘與伊朗有關的船隻開火】美國《華爾街日報》11日援引一名美國官員的話報道稱，美軍當日向一艘懸掛巴拿馬國旗、與伊朗有關的船隻開火。報道稱，這名官員表示，該船“試圖突破美國對伊朗港口的封鎖”，一架美國軍用直升機向該船船舵開火。此後，該船“似乎試圖將船員轉移到另一艘民用船隻上”。報道稱，目前該事件尚無人員傷亡報告。另據一名海員11日告訴新華社記者，一艘集裝箱船在阿曼灣海域遇襲，船員緊急呼叫救援並準備棄船。被襲船隻上的船員透過船舶間無線電公共頻道通報，事發地點位於阿曼灣東部邊緣，船上共17人，疑似被“直升機襲擊”。（央視新聞）
+
+---
+
+### 2026-08-11 21:41:35  #MKT News
+
+An EU power coordination group discussed electricity supply security.
+
+---
+
+### 2026-08-11 21:41:28  #國際
+
+歐盟電力協調小組就電力供應安全展開討論。
+
+---
+
+### 2026-08-11 21:40:55  #公司 #市場
+
+【中際旭創子公司新進成為鵬鼎控股第四大股東 按收盤價計對應市值23.2億元】鵬鼎控股(002938.SZ)披露2026年半年報。截至二季度末，中際旭創(上海)投資有限公司持有鵬鼎控股2400萬股，持股比例1.04%，為公司的第四大股東。以鵬鼎控股今日收盤價96.67元/股計算，旭創投資的持股市值約23.2億元。
+
+---
+
+### 2026-08-11 21:40:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.31% Higher — The Dow Jones Index is picking up 167 points or 0.31 percent on Tuesday. Gains are led by Caterpillar (1.90%), Boeing (1.67%) and Home Depot (1.14%). Biggest losers are Nike (-1.95%), Alphabet (-1.72%) and Cisco Systems (-1.46%).
 
 ---
 
@@ -19275,119 +19365,5 @@ Market sources: EU imposes anti-dumping duties on imports of purified terephthal
 ### 2026-08-10 18:49:37  #MKT News #Market Regions #Greater China
 
 【China Reform Holdings, China International Capital Co sign strategic cooperation agreement】China Reform Holdings and China International Capital Co signed a strategic cooperation agreement in Beijing on Aug. 6. China Reform party secretary and chairman Xu Siwei said the groups, citing complementary resources, hope to leverage their platforms and expertise to deepen cooperation on fund and equity investment, direct investment, asset management and healthcare financing. China International Capital Co party secretary and chairman Chen Liang said the firms aim to strengthen strategic coordination on equity investment, post-investment value creation, distressed-asset disposal, industry research and international business.
-
----
-
-### 2026-08-10 18:49:21  #公司 #觀點
-
-【中國國新與中金公司簽署戰略合作協議】據中國國新訊息，8月6日，中國國新控股有限責任公司（簡稱“中國國新”）與中國國際金融股份有限公司（簡稱“中金公司”）在京簽署戰略合作協議。簽約儀式前，雙方進行座談交流。中國國新黨委書記、董事長徐思偉表示，中國國新與中金公司資源稟賦互補，合作前景廣闊，希望雙方發揮各自平臺優勢和專業能力，圍繞基金投資、股權運作、直接投資、資產管理、健康保障等領域加強合作。中金公司黨委書記、董事長陳亮表示，希望雙方進一步加強戰略協同，在股權投資、投後賦能、不良資產處置、產業研究、國際業務等領域深化合作，實現互利共贏。
-
----
-
-### 2026-08-10 18:48:16  #公司
-
-【通威股份：推進發行股份及支付現金購買麗豪清能100%股權】通威股份公告稱，公司擬透過發行股份及支付現金購買段雍等57名股東持有的麗豪清能100%股權，並募集配套資金。2026年3月10日，該事項獲董事會審議透過。截至公告披露日，審計、評估等基礎工作已初步完成，交易各方仍在協商具體方案。本次交易存在協商無法達成一致的風險，尚需董事會再次審議、股東會批准及主管部門審批，結果存在不確定性。
-
----
-
-### 2026-08-10 18:47:08  #國際
-
-烏克蘭方面報道：扎波羅熱遭巡航導彈襲擊，傷亡人數已升至 18 人。
-
----
-
-### 2026-08-10 18:46:45  #公司
-
-【ST百利：全資子公司訴訟一審判決，需支付工程款2779.1萬元】ST百利公告，公司全資子公司武漢煉化因建設工程施工合同糾紛被中國化學工程第十六建設有限公司起訴，近日收到山西省絳縣人民法院民事判決書，判決武漢煉化支付原告工程款2779.1萬元及利息，山西恆暉環保科技有限公司在欠付工程款範圍內承擔責任，駁回原告其他訴訟請求。武漢煉化前期已對案涉債務計提相關負債，本次判決預計對公司本期及期後利潤無重大影響。
-
----
-
-### 2026-08-10 18:46:28  #公司 #市場
-
-【藥康生物：股票交易異常波動 不存在應披露未披露重大資訊】藥康生物公告稱，公司股票在2026年8月7日、8月10日連續2個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經自查及向控股股東、實控人核實，截至公告披露日，公司及相關方不存在應披露而未披露的重大資訊，目前經營正常，未發生重大變化。公司提醒投資者注意股價波動及交易風險，理性投資。
-
----
-
-### 2026-08-10 18:46:25  #公司 #市場
-
-【畢得醫藥：股票交易異常波動 不存在應披露未披露重大事項】畢得醫藥公告稱，2026年8月7日、8月10日公司股票連續兩個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經自查及問詢控股股東、實控人，截至公告日，公司及相關方不存在應披露而未披露的重大事項，目前生產經營正常，未發現對股價有重大影響的媒體報道、市場傳聞及熱點概念事項，相關人員在此期間無買賣公司股票情況。提醒投資者注意風險，理性投資。
-
----
-
-### 2026-08-10 18:45:57  #公司
-
-【中電環保：2026年上半年淨利潤6412.11萬元，同比增18.88%】中電環保公告，2026年上半年營業收入4.02億元，同比增長27.51%；歸屬於上市公司股東的淨利潤6412.11萬元，同比增長18.88%；扣非淨利潤5348.26萬元，同比增長22.14%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 18:45:52  #觀點
-
-花旗趨勢：2026 年第二季度初步同店銷售額增長 10.5%。
-
----
-
-### 2026-08-10 18:45:14  #其他
-
-市場訊息：阿聯酋國家通訊社週一援引阿聯酋網路安全委員會訊息報道，該國挫敗了多起針對本國航空、能源及教育領域的網路攻擊。
-
----
-
-### 2026-08-10 18:44:49  #公司 #市場
-
-【五洲醫療：股票交易異常波動 市盈率顯著高於行業均值】五洲醫療公告稱，公司股票在2026年8月7日、8月10日連續兩個交易日收盤價格漲幅偏離值累計達30.22%，屬異常波動。截至8月10日，公司動態和靜態市盈率分別為194.03倍、330.73倍，顯著高於行業平均。公司經營正常，除已披露的收購預案外，無應披露未披露事項。提醒投資者關注收購風險、市盈率差異及半年度報告披露情況，理性投資。
-
----
-
-### 2026-08-10 18:44:32  #公司 #市場
-
-【武商集團：“25武商MTN001”將於8月21日付息】武商集團公告稱，“25武商MTN001”將於8月21日付息（如遇法定節假日或休息日，則順延至其後的第一個工作日）。該債券發行總額3.60億元，起息日為2025年8月21日，到期兌付日為2028年8月21日，發行期限3年，本計息期債券利率2.20%。託管在銀行間市場清算所股份有限公司的債券，其付息資金由該清算所劃付至持有人指定銀行賬戶。
-
----
-
-### 2026-08-10 18:44:28  #公司
-
-【百勝中國：2026年上半年總收入64億美元，同比增長11%】百勝中國公告，截至2026年6月30日止六個月，系統銷售額同比增長5%（不計及外幣換算影響），總收入64億美元，同比增長11%，同店銷售額同比增長1%。經營利潤7.95億美元，同比增長13%；淨利潤（百勝中國控股有限公司）5.53億美元，上年同期5.07億美元；每股攤薄盈利1.57美元，同比增長16%。期內淨新增門店1196家，較去年同期增長105%，門店總數達19297家，其中加盟店佔比18%。
-
----
-
-### 2026-08-10 18:44:26  #公司
-
-【富維股份獲合資品牌39.36億元座椅專案定點 預計2027年起批次供貨】富維股份8月10日晚釋出公告稱，公司近日收到某知名合資品牌主機廠的定點通知書，將為其車型開發座椅產品，並將按照要求完成產品開發工作。根據客戶規劃，專案總銷售金額合計約39.36億元。
-
----
-
-### 2026-08-10 18:44:24  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-Apple (AAPL.O) fell 1.3% premarket after JEFFERIES downgraded the stock to Underperform from Hold and cut its price target to $263.66 from $285.56.
-
----
-
-### 2026-08-10 18:44:08  #公司
-
-【防範颱風“白海豚”國鐵成都局臨時停運列車115趟】新華社成都8月10日電（記者李傑）記者10日從中國鐵路成都局集團有限公司獲悉，受今年第13號颱風“白海豚”影響，為保障列車執行安全和旅客出行安全，8月10日國鐵成都局臨時停運列車115趟。據國鐵成都局客運部門介紹，10日臨時停運列車中，涉及跨局列車100趟，國鐵成都局管內15趟，其中，負責成都多個核心樞紐站的成都車站對途經西成高鐵、滬昆高鐵、寶成鐵路、成昆鐵路等多條線路的部分列車進行臨時停運，涉及成都東至蒼南、杭州東、南昌，成都西至上海、南寧、湛江、崑山、齊齊哈爾及峨眉至天津等多個方向的車次。（新華社）
-
----
-
-### 2026-08-10 18:43:10  #公司
-
-市場訊息：歐足聯牽頭的集團商討可抗衡國際足聯的替代性賽事。
-
----
-
-### 2026-08-10 18:42:38  #公司 #市場
-
-【五洲醫療：股票交易異常波動 市盈率顯著高於行業均值】五洲醫療公告稱，公司股票在2026年8月7日、8月10日連續兩個交易日收盤價格漲幅偏離值累計達30.22%，屬異常波動。截至8月10日，公司動態和靜態市盈率分別為194.03倍、330.73倍，顯著高於行業平均。公司經營正常，除已披露的收購預案外，無應披露未披露事項。提醒投資者關注收購風險、市盈率差異及半年度報告披露情況，理性投資。
-
----
-
-### 2026-08-10 18:42:11  #公司
-
-【炬申股份：向不特定物件發行可轉債已獲證監會批覆】炬申股份公告稱，本次發行事宜已獲董事會、股東會批准，深交所稽核透過，中國證監會於2026年6月23日同意註冊，批覆12個月內有效，可轉債上市尚需取得深交所同意。公司依法有效存續，具備發行主體資格。2023 - 2025年歸屬於母公司股東的淨利潤分別為6218.72萬元、8157.11萬元和7247.94萬元，年均可分配利潤為7207.92萬元，本次擬募資不超3.80億元，符合發行條件。
-
----
-
-### 2026-08-10 18:42:07  #MKT News
-
-Sources say India is considering capping the share of sugarcane allocated to ethanol production in the upcoming crushing season to prioritize domestic sugar supply.
 
 ---

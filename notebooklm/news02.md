@@ -1,7 +1,99 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:53:24_
-_本檔包含 3170 則快訊，約 604743 字_
+_更新時間：2026-08-15 16:42:10_
+_本檔包含 3162 則快訊，約 605342 字_
+
+---
+
+### 2026-08-14 07:06:26  #公司
+
+【中國市場“磁力” 躍升 外資消費龍頭在華業務回暖】近期，可口可樂、歐萊雅、寶潔等外資消費龍頭企業相繼釋出2026年第二季度或上半年財報。中國市場普遍成為增長引擎，多家跨國企業在華業績迎來拐點。記者採訪獲悉，此輪復甦是消費趨勢變化、政策紅利釋放與企業自身戰略調整等多重因素共振的結果。面對中國消費者日趨理性、多元的需求，消費細分賽道的各大龍頭正加速最佳化品牌矩陣與渠道佈局，並展現出持續深耕中國市場的信心。（上海證券報）
+
+---
+
+### 2026-08-14 07:06:25  #Trading Economics #Economy #Peru #Interest Rate #Importance 1
+
+Peru Keeps Rates Steady for 11th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in August 2026, extending its pause for an eleventh consecutive meeting. Annual inflation rose to 4.1% in July from 4.0% in June, while core inflation increased to 4.6% from 4.5%, remaining above the 1–3% target range. However, excluding transportation, core inflation stood at 1.7% and has remained below 2% since April 2025. Twelve-month inflation expectations edged up to 3.0% from 2.8%, reaching the upper limit of the target range. The central bank expects inflation to return toward 2% as supply shocks fade, though a stronger El Niño and renewed Middle East tensions pose upside risks. Meanwhile, economic activity remained strong, with business sentiment improving and expectations firmly in optimistic territory. Global risks have moderated amid more normalized hydrocarbon supplies, although geopolitical and trade uncertainties persist.
+
+---
+
+### 2026-08-14 07:05:14  #央行 #資料
+
+【芝加哥聯儲行長Goolsbee：近期通脹資料看起來有好轉】芝加哥聯邦儲備銀行行長Austan Goolsbee稱，雖然通脹依然高企，但近期資料有所好轉。“最近幾個月資料有所好轉，希望這種勢頭會繼續下去，”Goolsbee週四在接受採訪時表示。Goolsbee補充說，通脹率仍然過高。本週公佈的資料顯示，繼6月降溫之後，7月CPI核心通脹率依然溫和。週四釋出的報告顯示，PPI放緩幅度超過預期。
+
+---
+
+### 2026-08-14 07:04:08  #國際
+
+加拿大代表勒布朗表示他已與美國貿易代表格里爾會面；談判仍在進行中。
+
+---
+
+### 2026-08-14 07:03:20  #公司 #市場 #焦點 #國際
+
+【8月14日隔夜要聞一覽】
+1、美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
+2、當地時間8月13日，美國白宮發表宣告稱，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。
+3、谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。
+4、訊息人士稱，銀湖資本正洽談收購Workday，相關商議仍在進行中。此後Workday暴漲26%，創2012年以來最大漲幅。
+5、市場訊息：蘋果在休斯頓開設先進製造中心，啟動Mac Mini生產。
+6、當地時間8月13日，美軍中央司令部宣佈著手組建史上首支“多域、多國攻擊無人機特遣隊”。
+7、ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。
+8、美國30年期國債拍賣收益率創2001年以來新高。
+
+---
+
+### 2026-08-14 07:02:15  #公司 #市場
+
+【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
+
+---
+
+### 2026-08-14 07:02:03  #MKT News
+
+Central Reserve Bank of Peru left its policy rate unchanged at 4.25%.
+
+---
+
+### 2026-08-14 07:01:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Wright, U.S. energy secretary, said U.S. sanctions have strangled Iran’s economy and weakened its regional influence, and that continued economic pressure will ultimately lead to the collapse of the Iranian regime.
+
+---
+
+### 2026-08-14 07:01:00  #央行 #其他
+
+秘魯央行維持基準利率在 4.25% 不變。
+
+---
+
+### 2026-08-14 07:00:01  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+【N. Korea says U.S.-South Korea Aug. 17 Ulchi Freedom Shield war games are invasion rehearsal】N. Korea’s foreign ministry said the U.S. and South Korea will start the large-scale 2026 Ulchi Freedom Shield joint exercise on Aug. 17 and called the drills an invasion-war rehearsal. The ministry cited U.S. comments that the exercise differs from the past five years and will emphasize adapting war-execution capabilities to modern warfare, saying this signals preparation for actual military confrontation with N. Korea. Pyongyang warned the drills are more provocative and dangerous than last year and pose a serious threat to its national and regional security environment.
+
+---
+
+### 2026-08-14 06:59:51  #國際
+
+【朝鮮外務省：美韓8月聯合軍演本質是侵略戰爭預演】據朝中社14日報道，朝鮮外務省發言人13日發表談話說，美國和韓國宣佈將於8月17日開始進行2026“乙支自由之盾”大規模聯合軍演，此次軍演本質是侵略戰爭預演。朝方說，美國公開表示，此次聯合軍演與過去5年的演習截然不同，將把重點放在熟練適應現代戰爭新模式的戰爭執行能力上，這表明軍演目的在於完善同朝鮮實際開展軍事對抗的準備。朝方認為，此次軍演的挑釁性和危險性遠超去年，對朝鮮的國家安全以及地區的安全環境造成嚴重威脅。（新華社）
+
+---
+
+### 2026-08-14 06:59:29  #國際
+
+【美媒：肯尼迪中心決定將特朗普名字印在大樓外牆上 】美國媒體13日報道，肯尼迪表演藝術中心董事會當天舉行投票，決定在該中心大樓外牆新增含有美國總統特朗普名字的字句，並關閉中心主樓進行翻修。報道援引知情人士的話說，肯尼迪中心董事會當天召開線上會議，決定在中心大樓外牆主標牌下方新增“由唐納德·J·特朗普總統修復和翻新”的字樣。此外，董事會還投票決定關閉中心的主樓兩年以進行翻修，較新的劇院翼樓將繼續開放。（新華社）
+
+---
+
+### 2026-08-14 06:58:44  #其他
+
+【DeepSeek Harness開發者預覽版釋出：開放原始碼，一切皆外掛】8月14日上午訊息，DeepSeek Harness 的開發者預覽版（v0.1 版本）最新面向全球 Harness 開發者開放測試，並同步以 MIT 協議開放原始碼。據悉，作為早期預覽版本，DeepSeek Harness 採用“一切皆外掛”的設計思路，透過外掛式開放架構來構建 Agent Harness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI 等所有 Agent 能力均由外掛組合而成，可自由替換、靈活重組。（新浪科技）
+
+---
+
+### 2026-08-14 06:55:52  #公司 #市場
+
+【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
 
 ---
 
@@ -18962,137 +19054,5 @@ Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity g
 ### 2026-08-13 02:17:28  #MKT News
 
 【Sources: ALPHABET reorganises DeepMind to prioritise GEMINI】Refinitiv sources say ALPHABET is executing a major leadership reshuffle at Google DeepMind, moving some teams into Google’s corporate structure and reducing DeepMind’s autonomy. Google co‑founder Sergey Brin has in recent months pushed core AI staff to focus on GEMINI and on research into recursive self‑improvement. Demis Hassabis will become chairman; his deputy Koray Kavukcuoglu will assume operational leadership and will have final authority on major DeepMind decisions. Internal tests reportedly show the new flagship GEMINI model still trails rivals in programming and other tasks, prompting a roughly two‑month delay to its planned release. Analysts say the reorganisation aims to speed AI commercialisation and regain model competitiveness; some employees warn it may further erode DeepMind’s long‑term research independence.
-
----
-
-### 2026-08-13 02:16:30  #Trading Economics #Economy #United States #Government Budget Value #Importance 1
-
-US Budget Deficit Widens in July — The US government posted a $432 billion budget deficit in July 2026, widening from a $291 billion shortfall a year earlier and exceeding forecasts for a $346 billion gap. Government outlays rose to $766 billion from $630 billion in July 2025, led by Medicare spending of $174 billion. Social Security costs reached $141 billion, while net interest accounted for $104 billion and national defense for $91 billion. Meanwhile, government receipts fell to $334 billion from $338 billion a year earlier, with individual income taxes contributing $173 billion and social insurance and retirement receipts totaling $139 billion.
-
----
-
-### 2026-08-13 02:15:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Rises by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas EU (3.20%) and Natural Gas UK (3.13%). Biggest losers are Methanol (-0.69%), Crude Oil WTI (-0.49%) and Brent Crude Oil (-0.30%).
-
----
-
-### 2026-08-13 02:13:25  #公司
-
-【新基金髮行近期明顯提速】Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。在經歷7月下旬的階段性低谷後，新基金髮行正在明顯提速。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。（證券時報）
-
----
-
-### 2026-08-13 02:05:47  #MKT News #WTI #Impact bullish #Brent
-
-【Iraq PM says Sept. 30 final deadline for coalition withdrawal】Iraq's prime minister told reporters after meeting visiting CENTCOM commander Cooper that Sept. 30 is the final deadline for international coalition forces to end their military mission and complete withdrawal from Iraq. He said Oct. 1 will mark the removal of all foreign military presence and the start of a new phase for Iraqi territorial sovereignty and strengthened security and military capabilities.
-
----
-
-### 2026-08-13 02:04:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. Treasury: YTD FY26 budget deficit $1.799 tln, versus $1.629 tln in the same period of FY25.
-
----
-
-### 2026-08-13 02:04:35  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact mixed #S&P500
-
-U.S. Treasury said July budget deficit was the largest since March 2021 and set a record for a July single-month deficit.
-
----
-
-### 2026-08-13 02:04:22  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. Treasury said July budget deficit was $432 bln, versus $346 bln expected and $291 bln in July a year earlier.
-
----
-
-### 2026-08-13 02:03:24  #國際
-
-美國 2026 財年截至目前赤字 1.799 萬億美元，2025 財年同期赤字為 1.629 萬億美元。
-
----
-
-### 2026-08-13 02:03:12  #MKT News #Macro & Rates #US Economy #US10Y
-
-U.S. Treasury: July government outlays $766 bln, highest July on record, vs $630 bln in July last year. July receipts $334 bln, down from $338 bln a year earlier.
-
----
-
-### 2026-08-13 02:03:01  #宏觀 #國際
-
-美國財政部：美國 7 月預算赤字為 2021 年 3 月以來最高，同時創下 7 月份歷史新高。
-
----
-
-### 2026-08-13 02:02:57  #宏觀 #國際
-
-美國財政部：7 月海關淨收入為‑85.5 億美元；海關總收入 248.4 億美元，退稅 333.8 億美元。
-
----
-
-### 2026-08-13 02:02:40  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury said July customs net receipts were negative $8.55 billion, total receipts $24.84 billion and refunds $33.38 billion.
-
----
-
-### 2026-08-13 02:02:23  #公司 #國際
-
-L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。
-
----
-
-### 2026-08-13 02:00:10  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-U.S. July federal budget deficit widened to $432 bln, vs. $346 bln expected; June deficit was $120 bln.
-
----
-
-### 2026-08-13 02:00:00  #MKT News #Economic Calendar #Important
-
-United States | Government Budget (Jul) | actual -432000000000B | consensus -346000000000B | previous -120000000000B
-
----
-
-### 2026-08-13 01:59:55  #其他
-
-【伊拉克總理：9月30日為國際聯盟撤軍最後期限】當地時間12日，據伊拉克總理媒體辦公室宣告，伊拉克總理扎伊迪當天會見了到訪的美軍中央司令部司令庫珀。會晤期間，扎伊迪重申了伊方對既定時間表的承諾，即9月30日是國際聯盟部隊結束在伊拉克軍事任務並完成撤軍的最終日期。扎伊迪表示，10月1日將是伊拉克歷史上嶄新的一天，屆時伊拉克將徹底擺脫所有外國軍事存在，實現本國領土主權，持續增強本國安全和軍事能力，維護自身安全與穩定。（央視新聞）
-
----
-
-### 2026-08-13 01:59:34  #MKT News
-
-Saudi outlet Alhadath reports a Yemeni government drone strike hit a Houthi assembly point in Al Jawf province.
-
----
-
-### 2026-08-13 01:59:18  #國際
-
-美國7月政府預算 -4323.08億美元，預期 -3460億美元，前值 -2911億美元。
-
----
-
-### 2026-08-13 01:57:26  #其他
-
-訊息人士：巴西經濟團隊將支出約束觸發條款寫入國會一項無關法案之中。擬議措施將在 2027 年實現約 100 億雷亞爾的支出節省。
-
----
-
-### 2026-08-13 01:56:53  #MKT News
-
-Sources said Brazil's economic team inserted spending-cut provisions into an unrelated bill filed with Congress; the measures would save about BRL 10 bln in 2027.
-
----
-
-### 2026-08-13 01:54:33  #其他
-
-葉門武裝部隊：無人機襲擊朱夫省胡塞武裝集結點。
-
----
-
-### 2026-08-13 01:54:05  #MKT News
-
-Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace.
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 15:53:24_
-_本檔包含 3051 則快訊，約 604874 字_
+_更新時間：2026-08-15 16:42:10_
+_本檔包含 3052 則快訊，約 605023 字_
+
+---
+
+### 2026-08-15 16:39:18  #MKT News
+
+【Japanese PM Takaichi offers remote worship toward Yasukuni Shrine】Japanese Prime Minister Takaichi on the 15th, ahead of a national memorial ceremony, performed a remote worship facing Yasukuni Shrine from the Budokan parking lot, following the shrine ritual of two bows, two claps and one bow—an action treated as a substitute for an in-person visit. She also, in her capacity as LDP president, presented a tamagushi offering to the shrine. Japan’s defense minister and several other politicians visited Yasukuni the same day. The acts drew strong opposition from domestic peace advocates. Yasukuni Shrine in Tokyo’s Chiyoda ward enshrines 14 Class-A World War II war criminals, including former prime minister Hideki Tojo.
+
+---
+
+### 2026-08-15 16:38:32  #國際
+
+印度尼西亞災害管理局官員表示，地震死亡人數已上升至38人。
+
+---
+
+### 2026-08-15 16:38:18  #國際
+
+【韓國政府及朝野政黨抨擊日本政要參拜靖國神社】韓國政府及朝野政黨15日抨擊日本政要當天向供奉有二戰甲級戰犯的靖國神社供奉祭祀費及進行參拜，敦促日本領導人反思歷史、真誠反省。韓國外交部以發言人名義發表評論說，韓國政府對日本政要“忘卻歷史、違背時代潮流之舉”深感遺憾，強烈敦促日本領導人正視歷史，以實際行動展現對歷史的虛心反思和真誠反省。發言人強調，這是構建基於互信、面向未來的兩國關係的重要基礎。韓國執政黨共同民主黨發表書面宣告說，高市內閣在光復節當天參拜靖國神社，表明高市內閣與執政黨沆瀣一氣，否認戰爭罪行和戰敗歷史，是“違背時代潮流的挑釁”和“極其不負責任的行為”。韓國最大在野黨國民力量黨議員、國會外交統一委員會在野黨幹事金大植在社交媒體上表示，日本領導人應正視侵略歷史，以實際行動而非口頭表態展現真正的反省。（新華社）
+
+---
+
+### 2026-08-15 16:37:27  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign minister says Iran will not extend ceasefire with US】Aug 15 — Iran's foreign minister Araghchi told Iranian media he does not intend to extend the ceasefire agreement with the United States and has not decided whether to resume talks. He said the U.S. violated the Iran–U.S. memorandum of understanding and that hostilities have resumed, so there is no extension of the ceasefire. He added that Qatar and Pakistan, acting as mediators, are exchanging information and remain in contact with Iran, but that does not mean Washington and Tehran are negotiating.
+
+---
+
+### 2026-08-15 16:36:10  #公司 #國際
+
+【大疆被列入“黑名單”，美法院裁定重審】據俄羅斯衛星社網站8月15日援引路透社訊息報道，美國聯邦上訴法院日前裁定，下級法院需重新審理中國無人機企業大疆公司被列入五角大樓“中國軍工企業”黑名單一案，認為此前判決依據非保密資訊，存在瑕疵。報道說，哥倫比亞特區巡迴上訴法院裁定指出，下級法院僅依賴公開資料就認定大疆“為中國國防工業基礎作出貢獻”，該判斷有誤。法院要求重審時，下級法院可審查機密檔案，並據此決定是否支援國防部的認定。（參考訊息）
+
+---
+
+### 2026-08-15 16:33:35  #焦點 #國際
+
+【伊朗外長說無意延長停火協議】伊朗外交部長阿拉格齊今天（8月15日）在接受伊朗媒體採訪時表示，伊朗無意延長與美方的停火協議，且尚未決定是否重啟與美國的談判。美國已違反伊美諒解備忘錄，戰火已重燃，不存在所謂的“延長停火協議”。阿拉格齊還說，卡達和巴基斯坦作為調解方正開展交換資訊的工作，並與伊朗保持聯絡，但這並不意味著伊美雙方正在進行談判。此前，美國和伊朗方面6月17日公佈諒解備忘錄正式文字。根據這份檔案，美伊承諾在60天內進行談判並達成最終協議。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 16:31:26  #MKT News #Market Themes #AI Revolution
+
+【Lazard survey: AI threat to software prompts PE secondary-market investors to shift capital】Lazard's survey shows private equity secondary-market investors are reassessing software investments and reallocating capital while awaiting clearer evidence of AI-driven disruption to business models and valuations. 91% of respondents said the main moat against AI replacing software products is "proprietary data advantages and network effects difficult for AI to replicate." Only 4% reported no change to their software investment approach as of June.
+
+---
+
+### 2026-08-15 16:27:01  #國際
+
+【伊朗稱霍爾木茲海峽歸屬無可爭議】伊朗司法總監埃傑伊今天（8月15日）表示，美國總統針對霍爾木茲海峽發表的荒謬言論，完全源於其個人幻覺。在現實世界中，這道重要國際水道的真正所有者和主導者是伊朗。埃傑伊強調，伊朗已在軍事層面證明，霍爾木茲海峽是伊朗領土與主權不可分割的一部分。 他補充道，無論從國際法角度還是國家主權準則來看，霍爾木茲海峽屬於伊朗都是明確且毫無爭議的客觀事實。 埃傑伊表示，特朗普及其顧問必須明白，霸權主義的靴子絕不可能踏上霍爾木茲海峽。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 16:17:36  #其他
+
+【頤和園、天壇等北京11家市屬公園加入京津冀旅遊景區聯票】記者從北京市公園管理中心瞭解到，近日，11家北京市屬公園正式納入京津冀旅遊景區聯票合作體系，具體為：頤和園、天壇公園、北海公園、中山公園、香山公園、景山公園、國家植物園（北園）、北京動物園、陶然亭公園、玉淵潭公園、百望山森林公園，進一步深化京津冀三地文旅資源互聯互通、共建共享，為遊客提供更多高品質、標誌性的北京旅遊精品選擇。此外，天津大沽口炮臺博物館、楊柳青石家大院等4家特色景區，河北天下第一關、長壽山等15家知名文旅點位也於近日相繼加入聯票體系，構建起京津冀全域聯動的文旅出遊新格局。（央視新聞）
+
+---
+
+### 2026-08-15 16:03:25  #國際
+
+據黎巴嫩國家媒體報道，以色列在黎巴嫩南部發動的襲擊造成七人死亡。
+
+---
+
+### 2026-08-15 16:01:27  #市場
+
+【雞蛋價格同比漲幅明顯 專家預測後市將趨於穩定】記者從北京新發地農產品批發市場瞭解到，這兩天普通雞蛋批發價比上月同期上漲約5.5%，較去年同期上漲約48%，日交易量為540噸，同比增加128噸。中國農業科學院農學經濟與發展研究所副研究員朱寧表示，就後市來看，因為臨近中秋國慶“雙節”以及大中小學開學，雞蛋的消費潛力將完全釋放，蛋價將規律性偏強執行，雞蛋供應則受二季度補欄較多的影響，近期新開產蛋雞較多，雞蛋市場供應有增長預期，有利於穩定蛋價，雞蛋價格大幅上漲的可能性不大。（央視新聞）
+
+---
+
+### 2026-08-15 15:58:48  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+【IRGC says Iran forced 'most heavily armed army' to submit after six months of operations】Press TV quoted Islamic Revolutionary Guard Corps commander Major General Ahmad Vahidi on Saturday saying Iran’s offensive and defensive operations under heavy fire have forced "the most heavily armed army in history" to submit. Vahidi thanked the armed forces for six months of "unprecedented holy war," and described Iran’s conduct against what he called "the most bloodthirsty enemy in human history."
+
+---
+
+### 2026-08-15 15:58:09  #國際
+
+【印尼東努沙登加拉省發生5.1級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日15時39分，東努沙登加拉省芒加萊縣魯滕鎮東北82公里處發生5.1級地震，震源深度10公里。（央視新聞）
+
+---
+
+### 2026-08-15 15:57:46  #國際
+
+以色列軍方：對黎巴嫩南部納巴蒂耶和安薩爾的空襲是對阿里·塔赫爾高地我軍遭到襲擊的回應。
+
+---
+
+### 2026-08-15 15:57:01  #國際
+
+以色列軍方：我們將繼續在黎巴嫩南部開展行動，以消除真主黨的威脅。
 
 ---
 
@@ -18333,97 +18423,5 @@ New Zealand Stocks Set to Close Week on Low Note — New Zealand's stocks fell 2
 ### 2026-08-14 07:06:38  #公司 #國際
 
 【“創新紅利”重塑估值邏輯 外資加速擁抱中國硬科技】國產儲存晶片龍頭長鑫科技成為海外儲存晶片主題ETF的重倉股，美國投資管理公司範達公司推出跟蹤中國半導體指數的ETF……近期發生的一系列事件表明，在全球資本重構與資產再定價的背景下，中國資本市場正經歷一輪由“市場紅利”向“創新紅利”驅動的估值調整，境外投資者正逐步將中國資產納入長期配置框架。分析人士認為，從制度突破到產品創新，從准入放寬到監管協同，中國資本市場高水平對外開放的各項舉措正陸續落地。在此過程中，海外資本對中國資產的認知從短期交易機會向長期戰略配置轉變，硬科技與高階製造領域有望成為外資持續關注的重點方向。（中國證券報）
-
----
-
-### 2026-08-14 07:06:26  #公司
-
-【中國市場“磁力” 躍升 外資消費龍頭在華業務回暖】近期，可口可樂、歐萊雅、寶潔等外資消費龍頭企業相繼釋出2026年第二季度或上半年財報。中國市場普遍成為增長引擎，多家跨國企業在華業績迎來拐點。記者採訪獲悉，此輪復甦是消費趨勢變化、政策紅利釋放與企業自身戰略調整等多重因素共振的結果。面對中國消費者日趨理性、多元的需求，消費細分賽道的各大龍頭正加速最佳化品牌矩陣與渠道佈局，並展現出持續深耕中國市場的信心。（上海證券報）
-
----
-
-### 2026-08-14 07:06:25  #Trading Economics #Economy #Peru #Interest Rate #Importance 1
-
-Peru Keeps Rates Steady for 11th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in August 2026, extending its pause for an eleventh consecutive meeting. Annual inflation rose to 4.1% in July from 4.0% in June, while core inflation increased to 4.6% from 4.5%, remaining above the 1–3% target range. However, excluding transportation, core inflation stood at 1.7% and has remained below 2% since April 2025. Twelve-month inflation expectations edged up to 3.0% from 2.8%, reaching the upper limit of the target range. The central bank expects inflation to return toward 2% as supply shocks fade, though a stronger El Niño and renewed Middle East tensions pose upside risks. Meanwhile, economic activity remained strong, with business sentiment improving and expectations firmly in optimistic territory. Global risks have moderated amid more normalized hydrocarbon supplies, although geopolitical and trade uncertainties persist.
-
----
-
-### 2026-08-14 07:05:14  #央行 #資料
-
-【芝加哥聯儲行長Goolsbee：近期通脹資料看起來有好轉】芝加哥聯邦儲備銀行行長Austan Goolsbee稱，雖然通脹依然高企，但近期資料有所好轉。“最近幾個月資料有所好轉，希望這種勢頭會繼續下去，”Goolsbee週四在接受採訪時表示。Goolsbee補充說，通脹率仍然過高。本週公佈的資料顯示，繼6月降溫之後，7月CPI核心通脹率依然溫和。週四釋出的報告顯示，PPI放緩幅度超過預期。
-
----
-
-### 2026-08-14 07:04:08  #國際
-
-加拿大代表勒布朗表示他已與美國貿易代表格里爾會面；談判仍在進行中。
-
----
-
-### 2026-08-14 07:03:20  #公司 #市場 #焦點 #國際
-
-【8月14日隔夜要聞一覽】
-1、美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
-2、當地時間8月13日，美國白宮發表宣告稱，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。
-3、谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。
-4、訊息人士稱，銀湖資本正洽談收購Workday，相關商議仍在進行中。此後Workday暴漲26%，創2012年以來最大漲幅。
-5、市場訊息：蘋果在休斯頓開設先進製造中心，啟動Mac Mini生產。
-6、當地時間8月13日，美軍中央司令部宣佈著手組建史上首支“多域、多國攻擊無人機特遣隊”。
-7、ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。
-8、美國30年期國債拍賣收益率創2001年以來新高。
-
----
-
-### 2026-08-14 07:02:15  #公司 #市場
-
-【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
-
----
-
-### 2026-08-14 07:02:03  #MKT News
-
-Central Reserve Bank of Peru left its policy rate unchanged at 4.25%.
-
----
-
-### 2026-08-14 07:01:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Wright, U.S. energy secretary, said U.S. sanctions have strangled Iran’s economy and weakened its regional influence, and that continued economic pressure will ultimately lead to the collapse of the Iranian regime.
-
----
-
-### 2026-08-14 07:01:00  #央行 #其他
-
-秘魯央行維持基準利率在 4.25% 不變。
-
----
-
-### 2026-08-14 07:00:01  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【N. Korea says U.S.-South Korea Aug. 17 Ulchi Freedom Shield war games are invasion rehearsal】N. Korea’s foreign ministry said the U.S. and South Korea will start the large-scale 2026 Ulchi Freedom Shield joint exercise on Aug. 17 and called the drills an invasion-war rehearsal. The ministry cited U.S. comments that the exercise differs from the past five years and will emphasize adapting war-execution capabilities to modern warfare, saying this signals preparation for actual military confrontation with N. Korea. Pyongyang warned the drills are more provocative and dangerous than last year and pose a serious threat to its national and regional security environment.
-
----
-
-### 2026-08-14 06:59:51  #國際
-
-【朝鮮外務省：美韓8月聯合軍演本質是侵略戰爭預演】據朝中社14日報道，朝鮮外務省發言人13日發表談話說，美國和韓國宣佈將於8月17日開始進行2026“乙支自由之盾”大規模聯合軍演，此次軍演本質是侵略戰爭預演。朝方說，美國公開表示，此次聯合軍演與過去5年的演習截然不同，將把重點放在熟練適應現代戰爭新模式的戰爭執行能力上，這表明軍演目的在於完善同朝鮮實際開展軍事對抗的準備。朝方認為，此次軍演的挑釁性和危險性遠超去年，對朝鮮的國家安全以及地區的安全環境造成嚴重威脅。（新華社）
-
----
-
-### 2026-08-14 06:59:29  #國際
-
-【美媒：肯尼迪中心決定將特朗普名字印在大樓外牆上 】美國媒體13日報道，肯尼迪表演藝術中心董事會當天舉行投票，決定在該中心大樓外牆新增含有美國總統特朗普名字的字句，並關閉中心主樓進行翻修。報道援引知情人士的話說，肯尼迪中心董事會當天召開線上會議，決定在中心大樓外牆主標牌下方新增“由唐納德·J·特朗普總統修復和翻新”的字樣。此外，董事會還投票決定關閉中心的主樓兩年以進行翻修，較新的劇院翼樓將繼續開放。（新華社）
-
----
-
-### 2026-08-14 06:58:44  #其他
-
-【DeepSeek Harness開發者預覽版釋出：開放原始碼，一切皆外掛】8月14日上午訊息，DeepSeek Harness 的開發者預覽版（v0.1 版本）最新面向全球 Harness 開發者開放測試，並同步以 MIT 協議開放原始碼。據悉，作為早期預覽版本，DeepSeek Harness 採用“一切皆外掛”的設計思路，透過外掛式開放架構來構建 Agent Harness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI 等所有 Agent 能力均由外掛組合而成，可自由替換、靈活重組。（新浪科技）
-
----
-
-### 2026-08-14 06:55:52  #公司 #市場
-
-【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
 
 ---
