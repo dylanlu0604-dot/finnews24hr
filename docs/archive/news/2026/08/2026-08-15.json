@@ -1,7 +1,19 @@
 {
   "date": "2026-08-15",
-  "count": 520,
+  "count": 521,
   "items": [
+    {
+      "id": "mkt:01a0039f-d149-7aab-9047-664fb9de4e66",
+      "time": "2026-08-15 12:13:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【NYT: Bahrain base strike crippled logistics hub, caused early supply shortfalls on USS Lincoln】The New York Times reports supply shortages aboard the carrier Lincoln began shortly after day one of the war, when Iranian missiles and attack drones struck a US Navy base in Bahrain. The strike, described as Iran’s reprisal for a joint US-Israeli attack on Tehran, destroyed most base facilities and hit a primary naval logistics hub. The Navy implemented contingency plans to keep round-the-clock flight operations supplied and to sustain a blockade of Iranian ports. Loss of the Bahrain hub generated numerous problem reports aboard the carrier; Democratic senators voiced concern for roughly 5,000 sailors and the ship’s nearly nine-month deployment."
+    },
     {
       "id": "5042154",
       "time": "2026-08-15 12:01:55",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-15 12:12:20",
-  "count": 15293,
+  "updated": "2026-08-15 12:16:14",
+  "count": 15291,
   "items": [
+    {
+      "id": "mkt:01a0039f-d149-7aab-9047-664fb9de4e66",
+      "time": "2026-08-15 12:13:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【NYT: Bahrain base strike crippled logistics hub, caused early supply shortfalls on USS Lincoln】The New York Times reports supply shortages aboard the carrier Lincoln began shortly after day one of the war, when Iranian missiles and attack drones struck a US Navy base in Bahrain. The strike, described as Iran’s reprisal for a joint US-Israeli attack on Tehran, destroyed most base facilities and hit a primary naval logistics hub. The Navy implemented contingency plans to keep round-the-clock flight operations supplied and to sustain a blockade of Iranian ports. Loss of the Bahrain hub generated numerous problem reports aboard the carrier; Democratic senators voiced concern for roughly 5,000 sailors and the ship’s nearly nine-month deployment."
+    },
     {
       "id": "5042154",
       "time": "2026-08-15 12:01:55",
@@ -140025,31 +140037,6 @@
         "市場"
       ],
       "text": "【金飾克價重返1300元】國內黃金飾品價格對比顯示，國內多家品牌足金飾品價格重返1300元，其中周生生足金飾品報1315元/克，周大福報價1308元/克，老廟黃金報價1310元/克。"
-    },
-    {
-      "id": "5031809",
-      "time": "2026-08-08 12:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：預計霍爾木茲海峽協議將“很快達成”】路透社7日援引一名美國官員的話報道稱，伊朗與阿曼圍繞霍爾木茲海峽的談判“有進展”，“預計很快達成協議”。這名官員說，一旦協議達成，霍爾木茲海峽恢復商業航運，美國將解除對伊海上封鎖。這名官員同時重申，美方行動將繼續基於伊朗履行承諾的實際情況。美國阿克西奧斯新聞網站記者巴拉克·拉維德7日在社交媒體上說，一名美伊談判調解方外交官告訴他，伊朗談判代表正在等待伊朗最高國家安全委員會就協議作出最終決定，“預計很快獲得批准”。（新華社）"
-    },
-    {
-      "id": "mkt:019fdf93-b058-7aab-8fc2-91c2edc3fefa",
-      "time": "2026-08-08 12:13:45",
-      "tags": [
-        "MKT News",
-        "CRM.O"
-      ],
-      "text": "Documents show Salesforce will lay off 74 employees at its San Francisco headquarters."
-    },
-    {
-      "id": "mkt:019fdf93-67a3-7aab-8fc2-8dfe90bb586a",
-      "time": "2026-08-08 12:13:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: Musk refuses Ukraine request to use Starlink to strike targets inside Russia】US reports on July 7 say SpaceX founder Elon Musk explicitly refused to allow the Ukrainian military to use SpaceX’s Starlink satellite internet system to strike targets inside Russia. US outlets cited two aides to ex-Ukrainian defense minister Fedorov saying Fedorov had pushed for Starlink strikes and privately contacted Musk but was turned down. Sources say Musk has not agreed, reportedly citing concern the crisis could escalate further."
     }
   ]
 }
