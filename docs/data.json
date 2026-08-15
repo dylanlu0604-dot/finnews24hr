@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 17:02:10",
+  "updated": "2026-08-15 17:06:10",
   "count": 15321,
   "items": [
+    {
+      "id": "5042248",
+      "time": "2026-08-15 17:02:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總理：以色列對黎南部地區的猛烈轟炸破壞了穩定。"
+    },
+    {
+      "id": "5042247",
+      "time": "2026-08-15 17:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【原煤炭工業合肥設計研究院黨委書記曹榮平接受紀律審查和監察調查】據安徽省紀委監委訊息：原煤炭工業合肥設計研究院黨委書記曹榮平涉嫌嚴重違紀違法，目前正接受安徽省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "5042246",
       "time": "2026-08-15 17:01:19",
@@ -140245,22 +140261,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部訊息稱，俄軍已攻佔烏克蘭哈爾科夫州的伊萬尼夫卡。"
-    },
-    {
-      "id": "mkt:019fe09d-66f0-7aab-8fc3-557bf6fb0df0",
-      "time": "2026-08-08 17:03:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indian food regulator has issued a notice to Diageo, the world's largest spirits company, warning that its claim a local whisky brand was \"matured in American oak barrels\" is misleading."
-    },
-    {
-      "id": "5031879",
-      "time": "2026-08-08 17:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度食品監管機構警告帝亞吉歐，其宣稱一款本土威士忌品牌“經美國橡木桶熟成”具有誤導性。"
     }
   ]
 }
