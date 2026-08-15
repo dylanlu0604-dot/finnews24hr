@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-16 00:44:18",
-  "count": 15271,
+  "updated": "2026-08-16 00:48:14",
+  "count": 15274,
   "items": [
+    {
+      "id": "mkt:01a00651-8a21-7aab-9049-f37b9ee7b5cd",
+      "time": "2026-08-16 00:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said the incidents constitute violations of the ceasefire agreement and strongly condemned them."
+    },
+    {
+      "id": "mkt:01a00651-29a2-7aab-9049-e9d137876d45",
+      "time": "2026-08-16 00:46:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reports a magnitude-5.9 earthquake at 00:25 on Aug 16 in Tomini Bay, Indonesia (0.20°N, 120.25°E); hypocenter depth 80 km."
+    },
+    {
+      "id": "5042406",
+      "time": "2026-08-16 00:45:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：08月16日00時25分在印尼托米尼灣（北緯0.20度，東經120.25度）發生5.9級地震，震源深度80千米。"
+    },
+    {
+      "id": "mkt:01a00650-148a-7aab-9049-e15c78d52259",
+      "time": "2026-08-16 00:45:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Defense Forces (IDF) said soldiers shot and killed two terrorists after they crossed the \"yellow line\" and approached troops in a threatening manner while attempting to sabotage IDF weapons."
+    },
+    {
+      "id": "mkt:01a0064f-7064-7aab-9049-d8f75e85ab16",
+      "time": "2026-08-16 00:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said a tank recently ran over an explosive device planted by Hamas during operations in the \"Yellow Line\" area of southern Gaza; no IDF personnel were reported injured."
+    },
     {
       "id": "mkt:01a0064d-7989-7aab-9049-d584404a7366",
       "time": "2026-08-16 00:42:15",
@@ -139780,24 +139820,6 @@
         "XAUUSD"
       ],
       "text": "【Expert: Strait of Hormuz cannot return to pre-conflict state】Ali Akbar Dareini, researcher at Iran’s Center for Strategic Studies, said Iran and Oman are close to an agreement on future management of the Strait of Hormuz, but US pressure on Oman to align with Washington remains the main obstacle. Dareini said Iran views future control of the strait as vital to its national security. He added that in recent months the US struck Iran, which Tehran says were launched from bases in the region, and described the Iran–Oman talks as a diplomatic opening for Washington to acknowledge Iran and Oman as the決ers of the strait’s future. He said the Strait of Hormuz cannot return to its pre-conflict state and that regional geopolitics have changed."
-    },
-    {
-      "id": "mkt:019fe245-9380-7aab-8fc5-4471dd4c2a70",
-      "time": "2026-08-09 00:47:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bulgaria summoned the Ukrainian ambassador after a drone exploded on Bulgarian territory."
-    },
-    {
-      "id": "mkt:019fe245-460a-7aab-8fc5-3f7c3775c67c",
-      "time": "2026-08-09 00:46:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pentagon official says U.S. ammunition stocks sufficient for operations against Iran】Pentagon Deputy Director for the Defense Innovation Unit Jared Conley said the U.S. military has sufficient ammunition to meet operational needs in a conflict with Iran, saying “we have enough ammunition to complete current missions” and that “the Defense Department has all necessary resources to wage war.” He addressed earlier reports that key air-defence munitions, including ballistic missile interceptors, had been drawn down."
     }
   ]
 }
