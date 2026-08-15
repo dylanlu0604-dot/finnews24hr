@@ -1,7 +1,249 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 14:52:28_
-_本檔包含 3156 則快訊，約 604398 字_
+_更新時間：2026-08-15 15:39:39_
+_本檔包含 3168 則快訊，約 604643 字_
+
+---
+
+### 2026-08-14 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%).
+
+---
+
+### 2026-08-14 06:39:21  #國際
+
+美國能源部長賴特：電價對通脹率的影響微乎其微。
+
+---
+
+### 2026-08-14 06:37:14  #市場 #焦點
+
+現貨黃金突破4360美元/盎司，日內漲0.21%。
+
+---
+
+### 2026-08-14 06:36:50  #國際
+
+美國能源部長賴特：霍爾木茲海峽石油運輸流量將持續走高。
+
+---
+
+### 2026-08-14 06:35:39  #國際
+
+美國能源部長賴特：美國護送、轉運物資的能力正在增強。
+
+---
+
+### 2026-08-14 06:35:12  #國際
+
+美國能源部長賴特：伊朗正試圖以全球經濟為要挾。
+
+---
+
+### 2026-08-14 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore CNY Falls by 2.15% — Top commodity losers are Iron Ore CNY (-2.15%), Platinum (-2.10%), Silver (-1.30%) and Gold (-1.16%).
+
+---
+
+### 2026-08-14 06:34:43  #焦點 #國際
+
+美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
+
+---
+
+### 2026-08-14 06:33:21  #國際
+
+美國能源部長賴特：美國掌握每日經由霍爾木茲海峽進出的船舶數量。
+
+---
+
+### 2026-08-14 06:32:53  #國際
+
+美國能源部長賴特：美國正與各方船隻開展溝通協調。
+
+---
+
+### 2026-08-14 06:32:07  #其他
+
+紐西蘭7月製造業表現指數 54.3，前值59.7。
+
+---
+
+### 2026-08-14 06:31:41  #資料 #央行 #國際
+
+【週五重要財經資訊提醒（以下均為北京時間）】
+① 07:30 澳洲聯儲主席布洛克出席聽證會；
+② 14:45 法國7月CPI終值；
+③ 待定 國內成品油開啟新一輪調價視窗；
+④ 16:30 中國香港第二季度GDP終值；
+⑤ 17:00 歐元區第二季度GDP修正值；
+⑥ 20:30 美國7月零售銷售，加拿大6月批發銷售；
+⑦ 22:00 美國8月密歇根大學消費者信心指數初值，美國6月商業庫存；
+⑧ 次日01:00 美國至8月14日當週石油鑽井總數。
+
+---
+
+### 2026-08-14 06:30:08  #MKT News #DXY #Impact bearish
+
+New Zealand July manufacturing performance index 54.3, prior 59.7.
+
+---
+
+### 2026-08-14 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Drops by 2.66% — Top commodity losers are Crude Oil WTI (-2.66%), Natural gas (-2.56%) and Brent Crude Oil (-2.36%).
+
+---
+
+### 2026-08-14 06:30:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7
+
+---
+
+### 2026-08-14 06:22:11  #國際
+
+【古巴強烈反對多明尼加驅逐其駐多使館人員】古巴外交部13日發表宣告，強烈反對多明尼加政府驅逐10名古巴駐多使館外交人員及其家屬的決定，稱此舉嚴重損害兩國政府間關係。（新華社）
+
+---
+
+### 2026-08-14 06:15:03  #公司 #市場
+
+【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)
+
+---
+
+### 2026-08-14 06:14:48  #公司 #市場
+
+【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）
+
+---
+
+### 2026-08-14 06:14:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE says U.S. economy remains stable.
+
+---
+
+### 2026-08-14 06:14:32  #央行 #國際
+
+美聯儲古爾斯比：美國經濟走勢穩定。
+
+---
+
+### 2026-08-14 06:13:19  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%.
+
+---
+
+### 2026-08-14 06:12:48  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact mixed
+
+GOOLSBEE of the Federal Reserve said many inflation drivers stem from tariffs, followed by oil prices, and the Fed hopes these are one-off increases.
+
+---
+
+### 2026-08-14 06:12:29  #央行 #國際
+
+美聯儲古爾斯比： 如果能將上述部分不利因素拋在身後，通脹就有望回落至 2% 目標水平。
+
+---
+
+### 2026-08-14 06:12:12  #市場 #央行 #國際
+
+美聯儲古爾斯比： 諸多通脹驅動因素來自關稅以及油價，我們原本希望這些都只是一次性上漲。
+
+---
+
+### 2026-08-14 06:12:02  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Fed's GOOLSBEE said inf data has improved and he hopes the trend continues.
+
+---
+
+### 2026-08-14 06:11:47  #Trading Economics #Markets #Taiwan #Earnings #Importance 0
+
+Quanta Computer earnings above expectations at 7.43 TWD — Quanta Computer (2382) released earnings per share at 7.43 TWD, compared to market expectations of 6.08 TWD.
+
+---
+
+### 2026-08-14 06:11:26  #公司 #觀點
+
+【原始權益人看好優質底層資產，滬市公募REITs扎堆披露增持計劃】近日，創金合信首農REIT與中信建投瀋陽國際軟體園REIT分別釋出公告稱，其原始權益人及關聯方基於對專案未來發展前景的信心和長期投資價值的認可，將啟動基金份額增持計劃。事實上，今年以來滬市已有建信中關村REIT、招商科創REIT、匯添富上海地產商業REIT、中信建投首農商業REIT、中金唯品會商業REIT等5單公募REITs專案披露增持計劃。從增持安排來看，7單專案增持主體包含原始權益人、控股股東及同一控制下關聯方，採用二級市場競價交易等方式擇機實施。專案均設定了增持份額或者金額區間，其中部分專案明確了增持下限；多數主體同步作出鎖倉承諾，增持獲得的份額在實施週期結束後，繼續鎖定較長時間不予減持，規避短期博弈交易，立足長期持有，保障增持行為的嚴肅性，向市場傳遞長期看好訊號。（上證報）
+
+---
+
+### 2026-08-14 06:10:59  #央行 #國際
+
+美聯儲古爾斯比：近期通脹相關資料出現小幅好轉，希望這一改善態勢能夠持續。
+
+---
+
+### 2026-08-14 06:08:26  #國際
+
+特朗普：允許在美投資的外國造船廠最多建造兩艘船隻。
+
+---
+
+### 2026-08-14 06:05:10  #其他
+
+澳大利亞總理阿爾巴尼斯：澳大利亞移民數量較峰值下降 45%。
+
+---
+
+### 2026-08-14 06:05:00  #MKT News
+
+RBNZ said its FPC considered house price developments, recent mortgage risk conditions and borrowers' financial stress.
+
+---
+
+### 2026-08-14 06:04:58  #MKT News
+
+RBNZ maintains current loan-to-value ratio (LVR) settings.
+
+---
+
+### 2026-08-14 06:01:31  #市場
+
+鈀金期貨日內跌1%，現報1311.50美元/盎司。
+
+---
+
+### 2026-08-14 06:01:31  #其他
+
+紐西蘭儲備銀行：維持貸款價值比（LVR）相關政策不變。
+
+---
+
+### 2026-08-14 06:00:47  #市場 #焦點
+
+紐約期銀突破65美元/盎司，日內跌0.61%。
+
+---
+
+### 2026-08-14 06:00:36  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為65.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65.2%，累計加息25個基點的機率為34.8%。美聯儲到10月維持利率不變的機率為50.1%，累計加息25個基點的機率為41.8%，累計加息50個基點的機率為8.1%。
+
+---
+
+### 2026-08-14 06:00:35  #市場 #焦點
+
+現貨白銀突破65美元/盎司，日內跌0.03%。
+
+---
+
+### 2026-08-14 05:58:39  #公司 #焦點 #國際
+
+【白宮宣佈對進口無人機及零部件徵收關稅】美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。（新華社）
+
+---
+
+### 2026-08-14 05:56:03  #MKT News #Market Themes #AI Revolution
+
+【Sources: OpenAI annualized revenue tops $40 bln】Sources say OpenAI's current annualized revenue has exceeded $40 billion, roughly double its level at end-2025, bolstering the company's IPO preparations. Revenue acceleration in recent months is driven by rapid expansion of its AI programming business (notably CODEX), rising subscriptions, nascent ad revenue contribution and steady consumer growth. OpenAI is competing fiercely with ANTHROPIC for enterprise customers; both firms have quietly filed IPO paperwork, and ANTHROPIC could list as soon as this autumn, potentially ahead of OpenAI. OpenAI co‑founder and president Greg Brockman said July annualized revenue rose more than 20% month‑on‑month. Demand for AI agents has increased, with flagship products including CODEX and ChatGPT Work, and OpenAI has cut prices on some models to respond to ANTHROPIC and other competitors.
 
 ---
 
@@ -18840,168 +19082,5 @@ Canada is weighing a proposal to keep exempting the value of U.S.-made parts in 
 ### 2026-08-13 01:24:54  #國際
 
 該提案還將維持對加拿大出口汽車中美國產零部件價值的豁免條款。
-
----
-
-### 2026-08-13 01:24:34  #國際
-
-市場訊息：加拿大考慮在與美國的談判中提出汽車關稅建議。
-
----
-
-### 2026-08-13 01:23:30  #國際
-
-市場訊息：在德國舉行的一場大型軍事演習中，烏克蘭無人機操作人員壓制了美軍部隊。偵察無人機迅速鎖定美軍裝甲車輛，隨後攻擊無人機完成模擬 “擊毀”，實質上全殲一支美軍裝甲旅。
-
----
-
-### 2026-08-13 01:22:31  #MKT News
-
-The Wall Street Journal reported that Ukrainian drones defeated U.S. armored forces during military exercises in Germany this spring.
-
----
-
-### 2026-08-13 01:21:45  #市場 #國際
-
-【玉米期貨大漲 美國農業部大幅下調美國單產預期，降幅超市場預期】玉米期貨價格創下6月以來最大漲幅，此前美國農業部（USDA）大幅下調了美國玉米單產預期，降幅超過市場此前預期。芝加哥玉米期貨一度上漲4.1%，隨後漲幅有所收窄。週三早些時候，穀物價格已經開始上漲。俄羅斯一個重要糧食港口遭到襲擊，加劇了市場對俄烏衝突升級可能擾亂黑海地區糧食出口的擔憂。
-
----
-
-### 2026-08-13 01:21:19  #其他
-
-【科威特挫敗一起針對重要設施的恐襲圖謀 】科威特內政部12日宣佈，安全部門成功挫敗一起針對科威特一處重要設施的“恐怖襲擊圖謀”，並抓獲一名與“伊斯蘭國”組織有關聯的科威特公民。（新華社）
-
----
-
-### 2026-08-13 01:16:12  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $725 mln from one counterparty in a fixed-rate reverse repo operation.
-
----
-
-### 2026-08-13 01:12:10  #MKT News #Market Themes #AI Revolution
-
-Musk said Grok 4.6 ranks first overall for intelligence, runtime speed and usage cost.
-
----
-
-### 2026-08-13 01:09:42  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port.
-
----
-
-### 2026-08-13 01:09:10  #國際
-
-烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。
-
----
-
-### 2026-08-13 01:07:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%.
-
----
-
-### 2026-08-13 01:06:46  #市場 #國際
-
-美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。
-
----
-
-### 2026-08-13 01:06:27  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US 10-year Treasury auction yield hits highest since 2007.
-
----
-
-### 2026-08-13 01:05:52  #公司 #國際
-
-馬斯克：綜合智慧水平、速度與成本來看，Grok 4.6 客觀排名第一。
-
----
-
-### 2026-08-13 01:05:04  #市場 #國際
-
-美國10年期國債拍賣收益率創2007年以來新高。
-
----
-
-### 2026-08-13 01:03:38  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-US 10-year Treasury auction as of Aug 12: share of awards at the stop-out yield 65.27% (prior 40.29%).
-
----
-
-### 2026-08-13 01:03:29  #MKT News #Economic Calendar
-
-United States | 10-Year Note Auction Accepted at High (Aug.12) | actual 65.27% | previous 40.29%
-
----
-
-### 2026-08-13 01:03:29  #MKT News #Important #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-At the Aug 12 US 10-year Treasury auction, bid-cover ratio 2.53, versus 2.59 previously.
-
----
-
-### 2026-08-13 01:03:19  #MKT News #Economic Calendar
-
-United States | 10-Year Note Auction Bid/Cover Ratio (Aug.12) | actual 2.53 | previous 2.59
-
----
-
-### 2026-08-13 01:03:18  #市場 #國際
-
-美國至8月12日10年期國債競拍-得標利率 4.683%，前值4.58%。
-美國至8月12日10年期國債競拍-投標倍數 2.53，前值2.59。
-
----
-
-### 2026-08-13 01:03:17  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. 10-year Treasury auction on Aug 12: stop-out yield 4.683%, prior 4.58%.
-
----
-
-### 2026-08-13 01:03:10  #MKT News #Economic Calendar #Important
-
-United States | 10-Year Note Auction High Yield Rate (Aug.12) | actual 4.683% | previous 4.58%
-
----
-
-### 2026-08-13 01:01:33  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-【Apple appoints Nate Gatten as VP, global government affairs】Apple (AAPL.O) appointed Nate Gatten, former head of government affairs at American Airlines Group and a former JP Morgan government-relations staffer, as vice president for global government affairs, effective Aug. 31. Sources said Apple seeks a government-relations lead able to maintain strong channels with the Trump administration to manage tariff and policy risks. The hire follows increased CEO Tim Cook engagement with the White House and is part of recent senior changes: Cook plans to step down as CEO on Sept. 1, to be succeeded by hardware chief John Ternus, while Cook will remain executive chairman.
-
----
-
-### 2026-08-13 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.36%，滬銅收跌0.36%，滬鋁收跌0.62%，滬鋅收漲0.19%，滬鉛收漲0.57%，滬鎳收漲0.18%，滬錫收跌0.43%。氧化鋁夜盤收跌0.81%，鋁合金收跌1.06%。不鏽鋼夜盤收跌0.10%。
-
----
-
-### 2026-08-13 00:58:08  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) rose to an intraday high, extending gains to 8.5%.
-
----
-
-### 2026-08-13 00:56:24  #其他
-
-SpaceX漲幅擴大至8%，總市值達1.9萬億美元，本月已累升逾32%。
-
----
-
-### 2026-08-13 00:55:19  #MKT News
-
-【Etna eruption continues; Catania airport suspends flights】Etna volcano on Sicily has been erupting since early August. The Italian National Institute of Geophysics and Volcanology (INGV) reported on Aug 12 multiple new vents, lava flows advancing downslope and an ash cloud drifting south and southwest. Catania airport suspended all arrivals and departures on Aug 12; restrictions remained in place until Aug 13 16:00 local time.
-
----
-
-### 2026-08-13 00:52:48  #MKT News #Market Regions #Wall Street (US) #005930.KS #Impact bearish
-
-【USITC opens Section 337 probe into Samsung mobile electronic devices】The US International Trade Commission said on Aug. 12 it has opened a Section 337 investigation into certain mobile electronic devices, naming Samsung Electronics Co. and Samsung Electronics America as respondents. The probe follows a July complaint by Kyoto-based Maxell alleging patent infringement in devices imported into and sold in the US and seeking a limited exclusion order and a cease-and-desist order under the Tariff Act of 1930, Section 337. The USITC said initiation does not imply a final determination. An administrative law judge will handle evidence and hearings and issue an initial determination; the commission will set the case schedule within 45 days and will issue a final determination after the record is developed.
 
 ---

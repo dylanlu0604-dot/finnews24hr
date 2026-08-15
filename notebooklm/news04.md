@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 14:52:28_
-_本檔包含 3223 則快訊，約 604332 字_
+_更新時間：2026-08-15 15:39:39_
+_本檔包含 3220 則快訊，約 605065 字_
+
+---
+
+### 2026-08-11 21:36:32  #公司
+
+谷歌：面向人工智慧職業證書推出全新Vibe程式設計課程。
+
+---
+
+### 2026-08-11 21:36:27  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact bullish
+
+Google launches new VIBE coding course targeting AI professional certification.
+
+---
+
+### 2026-08-11 21:36:23  #國際
+
+Metinvest：烏克蘭扎波羅熱鋼鐵廠在俄羅斯襲擊後停產。
+
+---
+
+### 2026-08-11 21:36:16  #公司
+
+【騰訊音樂一度跌約17%，公司公佈了二季度財報】騰訊音樂第二季度總收入為人民幣89.3億元（13.2億美元），同比增長5.8%。音樂相關服務收入同比增長11.0%至人民幣76.1億元（11.2億美元），音樂相關會員服務收入同比增長8.1%至人民幣47.9億元（7.06億美元）。
+
+---
+
+### 2026-08-11 21:36:01  #市場 #觀點
+
+【摩根大通繼續看好SK海力士：市場擔憂過度 三大催化劑將至】摩根大通在研報中表示，部分擔憂已經被市場過度放大，近期最嚴重的負面情緒可能已經過去。該行指出，接下來一至兩個月，新的股東回報政策、HBM合同價格以及Solidigm上市計劃更新，將成為影響SK海力士股價的三大關鍵催化劑。摩根大通維持SK海力士“增持”評級，2027年6月目標價275萬韓元，基於2026年至2027年平均每股收益的7倍市盈率。主要下行風險仍是DRAM價格和利潤率低於預期，以及終端需求與庫存惡化；若需求繼續超預期並推動DRAM價格進一步上漲，則可能形成新的上行催化劑。
+
+---
+
+### 2026-08-11 21:35:12  #其他
+
+美股雲端計算服務商概念股盤初走高，Hut 8漲超7%，CoreWeave、NEBIUS、IREN漲近4%。
+
+---
+
+### 2026-08-11 21:35:04  #宏觀
+
+【新疆出臺法規護航棉花產業高質量發展】記者11日從新疆維吾爾自治區人大常委會新聞釋出會獲悉，針對棉花產業高質量發展制定的地方性法規《新疆維吾爾自治區棉花質量促進條例》已於7月1日正式施行。 新疆維吾爾自治區人大常委會副秘書長、新聞發言人麥麗燕·司馬義介紹，條例共六章37條，覆蓋棉花種植、採收、收購、加工、銷售、承儲全產業鏈的質量提升，將公證檢驗、目標價格政策、在庫公檢、全鏈條質量追溯等有效做法上升為法規制度，對於提升新疆棉花質量水平、帶動各族群眾增收致富、維護棉紡織產業鏈供應鏈安全穩定具有重大意義。 據悉，新疆是我國最大優質棉花生產基地，2025年新疆棉花產量佔全國產量的92.8%。（新華社）
+
+---
+
+### 2026-08-11 21:34:39  #公司
+
+GETTY IMAGES股價重挫21%，此前公司撤回財年指引並公佈第二季業績。
+
+---
+
+### 2026-08-11 21:34:34  #Trading Economics #Markets #Commodity #Importance 0
+
+UK Natural Gas Prices Fall on Tuesday — UK natural gas prices fell toward 143 pence a therm, as hopes for progress in US-Iran negotiations eased concerns over energy supplies. Pakistan’s Defense Minister Khawaja Asif said the two sides were “close to some sort of arrangement,” while talks between Iran and Oman over reopening the Strait of Hormuz were reportedly at an advanced stage. A deal could help restore LNG flows through the Persian Gulf and reduce pressure on European gas markets. Despite the optimism, Commerzbank raised its year-end European gas price forecast to €50/MWh from €45/MWh, while Uniper expects prices to remain around €50-€60/MWh as long as Hormuz remains closed. European storage levels recently fell to the lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Meanwhile, persistent European heatwaves are boosting power demand and adding further pressure to gas markets.
+
+---
+
+### 2026-08-11 21:34:32  #國際
+
+美國國家運輸安全委員會：發動機失效，隨後發生機艙失壓，出現窗戶相關人員受傷情況 。
+
+---
+
+### 2026-08-11 21:34:28  #Trading Economics #Economy #Kosovo #Inflation Rate #Importance 1
+
+Kosovo Annual Inflation Rises in July — Kosovo's annual inflation rate rose to 6.5% in July 2026 from 6% in June. Upward price pressures were mainly due to accelerating growth in transport costs, surging 17.8% from 13.7% in the pior month, while inflation also increased for alcoholic beverages, tobacco and narcotics (5.3% vs 5.1%), restaurants and hotels (5.3% vs 4.5%), clothing and footwear (2.8% vs 2.3%) and recreation, sports and culture (2.3% vs 2%). Meanwhile, inflation stood at 11.1% for housing and utilities. In contrast, inflation slowed for food (2.7% vs 3.9%), furnishings (2.5% vs 3%) and health (4% vs 4.1%). On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.1% decline in the prior month.
 
 ---
 
@@ -19341,89 +19407,5 @@ Sources say India is considering capping the share of sugarcane allocated to eth
 ### 2026-08-10 18:40:36  #MKT News
 
 【Chinese embassy in Tokyo rejects statement by Taiwan 'representative to Japan'】Responding to a Taiwan 'representative to Japan' claim that its national standing had been deliberately belittled and that it lodged a 'stern protest', a Chinese embassy spokesperson said Taiwan is not a country and the notion of 'national stature' does not apply. The spokesperson said attempts to seek attention beyond one's means only embarrass themselves, reiterated there is one China and Taiwan is an inalienable part of Chinese territory, and that the People’s Republic of China is the sole legitimate government representing all China. The spokesperson added that the United Nations refers to Taiwan as 'Taiwan Province, China'.
-
----
-
-### 2026-08-10 18:40:26  #其他
-
-傑富瑞將蘋果目標價從285.56美元下調至263.66美元。
-
----
-
-### 2026-08-10 18:39:50  #市場
-
-【產量恢復緩慢 煉焦煤價格延續震盪偏強走勢】國內市場煉焦煤價格延續震盪偏強走勢。供應方面，目前焦煤供給缺口依舊存在，尤其煤種的結構性問題難改，國內安監嚴格的背景下，焦煤產量恢復十分緩慢。今日長治主流大礦煉焦配煤價格上漲50元/噸，呂梁孝義高硫主焦煤成交均價上漲62元/噸，至1736元/噸。線上競拍成交活躍，溢價幅度明顯擴大，線下市場報價亦同步跟漲。需求方面，焦炭第三輪提降落地後焦企虧損進一步擴大，鋼廠同樣面臨利潤收縮壓力，焦煤受供應偏緊支撐表現相對強勢，但需求端的壓制作用也在同步積累。綜合來看，預計短期煉焦煤價格仍將維持震盪偏強執行，但上行空間有限。 (我的鋼鐵網)
-
----
-
-### 2026-08-10 18:39:41  #市場
-
-受傑富瑞下調評級影響，蘋果股價盤前下跌約1.2%。
-
----
-
-### 2026-08-10 18:38:47  #其他
-
-傑富瑞將蘋果評級由持有下調至跑輸大盤。
-
----
-
-### 2026-08-10 18:38:12  #公司
-
-【福華尚緯：向特定物件發行股票獲中國證監會同意註冊批覆】福華尚緯公告，公司於2026年8月10日收到中國證監會《關於同意福華尚緯股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1954號），同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。
-
----
-
-### 2026-08-10 18:38:07  #公司
-
-【國聯民生：擬與全資子公司民生證券進行資產無償劃轉並減資100億元】國聯民生公告，公司擬將財富管理業務相關資產無償劃轉至全資子公司民生證券，同時將民生證券固定收益投資業務和權益投資業務相關資產無償劃轉至公司。為最佳化資源配置，公司擬減少民生證券註冊資本100億元，減資後民生證券註冊資本由115.1億元減至15.1億元，公司仍持有民生證券100%股份。本次無償劃轉及減資事項已獲公司董事會審議透過，不構成關聯交易及重大資產重組。
-
----
-
-### 2026-08-10 18:38:04  #公司
-
-【國聯民生：擬以1億元-2億元回購公司A股股份】國聯民生公告，擬以集中競價交易方式回購公司A股股份，回購資金總額下限為人民幣1億元（含），上限為人民幣2億元（含），回購價格不超過人民幣13元/股（含），回購股份用途為維護公司價值及股東權益，回購資金來源為自有資金，回購期限為自董事會審議透過回購A股股份方案之日起不超過3個月。
-
----
-
-### 2026-08-10 18:37:54  #公司
-
-塔塔諮詢服務公司（TCS）已對該事件展開調查，未發現任何可信證據能夠證明該公司的系統或客戶環境遭到入侵。
-
----
-
-### 2026-08-10 18:37:49  #公司
-
-塔塔諮詢服務公司（TCS）：目前沒有跡象表明客戶資料、客戶系統或塔塔諮詢服務公司運營系統受到了影響。
-
----
-
-### 2026-08-10 18:37:46  #公司
-
-塔塔諮詢服務公司（TCS）收到威脅情報警報，稱部分員工資訊可能遭到洩露。
-
----
-
-### 2026-08-10 18:37:42  #其他
-
-【農夫山泉鍾睒睒談“百事和可口可樂競爭”：從來不往下面打價格，低價就等於佔領市場是市場經濟不成熟的表現】鍾睒睒對“百事和可口可樂的競爭模式”表示認可：“你看可口可樂和百事，他們幾乎是商量好的一樣，對價格的敏感，我提價你也提價。你今天提價了，我幾乎不會超過三個小時一起提價，它們從來不往下面打價格。”鍾睒睒表示：“我們都是隻覺得我只要低價，我就佔領市場，實際上是一個市場經濟非常不成熟的表現。”鍾睒睒認為，中國現在最需要擔心的是卷價格，“不卷質量、不卷高品質、不卷溢價水平，這是對社會生產力破壞最大，也是最要命的一種競爭關係。
-
----
-
-### 2026-08-10 18:37:21  #公司 #市場
-
-【招金黃金：股票交易異常波動 提醒投資者注意風險】招金黃金公告稱，公司股票於2026年8月6日、7日、10日連續3個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。公司生產經營基本面未變、市盈率高於行業均值。公司核查發現，前期披露資訊無需更正補充，未發現影響股價的未公開重大資訊，經營環境未變，公司、控股股東和實控人無應披露未披露事項，也無異常波動期間買賣股票行為。公司還提示黃金價格波動、境外投資、礦山改造等風險，提醒投資者理性決策。
-
----
-
-### 2026-08-10 18:36:52  #公司 #市場 #焦點
-
-【匯添富黃金及貴金屬(QDII-LOF-FOF)：調整大額申贖及定投限制金額】匯添富黃金及貴金屬(QDII-LOF-FOF)公告稱，為保護持有人利益、保障基金平穩運作，自2026年8月12日起，A份額（程式碼164701）和C份額（程式碼018543）調整大額申購、定期定額投資業務限制金額，均為單日單個基金賬戶累計不超100元，超限額將部分或全部拒絕。暫停期間其他業務照常，恢復時間另行公告。
-
----
-
-### 2026-08-10 18:36:45  #公司 #市場
-
-【招金黃金：股票交易異常波動 提醒投資者注意風險】招金黃金公告稱，公司股票於2026年8月6日、7日、10日連續3個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。公司生產經營基本面未變、市盈率高於行業均值。公司核查發現，前期披露資訊無需更正補充，未發現影響股價的未公開重大資訊，經營環境未變，公司、控股股東和實控人無應披露未披露事項，也無異常波動期間買賣股票行為。公司還提示黃金價格波動、境外投資、礦山改造等風險，提醒投資者理性決策。
 
 ---

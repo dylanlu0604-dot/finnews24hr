@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 14:52:28_
-_本檔包含 3077 則快訊，約 605195 字_
+_更新時間：2026-08-15 15:39:39_
+_本檔包含 3055 則快訊，約 605147 字_
+
+---
+
+### 2026-08-15 15:39:01  #其他
+
+【生態環境法典施行後人民法院第一案在浙江衢州開庭】記者8月15日從最高人民法院獲悉，在生態環境法典施行當天，浙江省衢州市衢江區人民法院公開開庭審理生態環境法典施行後人民法院第一案——商鋪噪聲汙染責任糾紛案。（新華社）
+
+---
+
+### 2026-08-15 15:38:12  #其他
+
+【國內文創領域首個人像資料智慧財產權登記實踐落地深圳】據深圳市智慧財產權局謝謝，日前，成都OST傳媒簽約創作者形象、影片、聲音等人像資料在深圳已完成資料智慧財產權登記確權實踐，該案例是國內文創領域首個人像資料智慧財產權確權實踐，實現了文創領域人像資料確權、流通、保護的全鏈條突破性探索，補齊了行業人像資料合規保護短板，被作為我國智慧財產權保護特色亮點，面向海內外廣泛推介。 (21財經)
+
+---
+
+### 2026-08-15 15:34:17  #其他
+
+英國首相伯納姆：將額外投入6500萬英鎊來支援農民度過這場乾旱，併為未來的夏季做好準備。
+
+---
+
+### 2026-08-15 15:26:48  #其他
+
+中國向哥倫比亞提供緊急人道主義地震救災援助。（新華社）
+
+---
+
+### 2026-08-15 15:25:45  #MKT News #Commodities #Energy
+
+【Iran's oil minister meets Tajikistan transport and energy ministers】Iran Oil Minister Mohsen Paknejad met Tajikistan Transport Minister Azim Ibrohim and Energy and Water Resources Minister Daler Juma on Saturday; talks focused on cooperation in the energy sector.
+
+---
+
+### 2026-08-15 15:24:06  #國際
+
+當地官員稱，烏克蘭襲擊導致俄羅斯薩馬拉州一處工業場地受損。
+
+---
+
+### 2026-08-15 15:16:34  #MKT News
+
+【Magnitude-5.0 earthquake strikes Granada province, Spain; no casualties reported】A magnitude-5.0 earthquake struck Granada province in southern Spain on the 15th local time. Local authorities said there were no casualties. The Andalusia regional government activated its emergency contingency plan at the warning stage to address potential secondary hazards and aftershocks. Strong shaking was reported across the affected area and neighboring provinces; some residents evacuated outdoors. Emergency services received multiple reports of minor structural cracks and falling debris; safety inspections and damage assessments are underway.
+
+---
+
+### 2026-08-15 15:16:14  #其他
+
+【西班牙格拉納達省發生5.0級地震 暫無人員傷亡】當地時間15日，西班牙南部格拉納達省發生5.0級地震。當地政府部門表示，本次地震暫未造成人員傷亡，安達盧西亞大區政府已緊急啟用應急預案預警階段，以應對可能發生的次生災害與後續餘震。
+
+---
+
+### 2026-08-15 15:14:45  #其他
+
+萬事達卡：系統更新短暫造成交易遭拒，目前問題已解決，所有系統執行正常。
+
+---
+
+### 2026-08-15 15:12:56  #公司 #國際
+
+美國國家公路交通安全管理局：戴姆勒卡車北美有限公司提交召回申請，涉及22,778輛美國車輛。
+
+---
+
+### 2026-08-15 15:10:09  #國際
+
+烏克蘭總統澤連斯基表示，烏克蘭正在加大力度爭取獲得更多愛國者系統，並擴大國內武器製造。
+
+---
+
+### 2026-08-15 15:09:05  #MKT News
+
+Iran's communications minister says more than 500 telecommunications sites were attacked during the war; some facilities were hit again after being repaired and service restored.
+
+---
+
+### 2026-08-15 15:07:54  #其他
+
+小鵬汽車：本週上新 36 座小鵬超充站，其中9 座 S5 超快充站、21 座 S4 超快充站、3 座超快充站、3 座超充站。
+
+---
+
+### 2026-08-15 15:07:08  #其他
+
+【中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通】8月15日，中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通，首批108名遊客開啟跨境之旅，為共建“一帶一路”、中蒙俄經濟走廊人文交流增添全新載體。此次跨境一日遊大幅最佳化手續，遊客無需提前辦理護照簽證，僅憑身份證即可參團，中國公民邊境旅遊團隊名單表的規範填報、人員資訊篩查、通行證明出具等全部流程均由有正規邊境旅遊經營資質的旅行社統一代辦，二連浩特公安局、出入境管理大隊並聯審批、高效出證。二連出入境邊防檢查站最佳化查驗舉措，實行團隊“團進團出”快速通關，大幅縮短候檢時間。（央視新聞）
+
+---
+
+### 2026-08-15 15:02:53  #MKT News
+
+【Qiushi to publish Xi article 'Improving Disaster Prevention, Mitigation and Relief Capacity'】Qiushi magazine's Aug. 16 issue will publish an article by General Secretary Xi Jinping, Improving Disaster Prevention, Mitigation and Relief Capacity. Xi warns China's large, geographically complex territory and varied climate make natural disasters frequent. He says since the 18th Party Congress the central leadership has treated disaster prevention, mitigation and relief as a major national priority, implementing shifts in thinking, institutional reforms, system building and capacity upgrades that have helped minimize casualties and property losses. He calls for continued adherence to Party leadership, people- and life-first priorities, respect for natural laws, prevention-first policy, reform and innovation, a systemic approach and social co-governance, and urges these practices be maintained and adapted to new conditions.
+
+---
+
+### 2026-08-15 15:02:20  #宏觀 #其他
+
+【《求是》雜誌發表習近平總書記重要文章《提高防災減災救災能力》】8月16日出版的第16期《求是》雜誌將發表中共中央總書記、國家主席、中央軍委主席習近平的重要文章《提高防災減災救災能力》。文章強調，我國國土廣袤、地理複雜、氣候多樣，自然災害易發多發。黨的十八大以來，黨中央堅持把防災減災救災工作作為關係人民安危和國家安全的大事來抓，在理念轉變、體制改革、體系建設、能力提升等方面作出許多部署，帶領廣大幹部群眾戰勝一系列重特大自然災害，最大限度減少人員傷亡和財產損失，成效舉世公認。做好防災減災救災工作，必須堅持黨的全面領導，堅持人民至上、生命至上，堅持尊重自然規律，堅持預防為主，堅持改革創新，堅持系統觀念，堅持社會共治。這些寶貴經驗要堅持好運用好，並結合新的實際不斷豐富和發展。文章指出，當前，我國防災減災救災工作面臨不少新情況新問題。要站在統籌高質量發展和高水平安全的戰略高度，充分認識做好防災減災救災工作的極端重要性，著力揚優勢、補短板、強弱項，不斷提高防範應對各類自然災害的能力和水平，切實維護人民群眾生命財產安全和社會穩定，確保中國式現代化行穩致遠。（新華社）
+
+---
+
+### 2026-08-15 15:00:40  #MKT News
+
+【National flood agency raises Jiangsu emergency to Level-3; Zhejiang starts Level-4】The National Flood and Drought Control Headquarters and Ministry of Emergency Management said they raised Jiangsu’s flood-control emergency from Level-4 to Level-3 effective 12:00 Aug. 15, and activated a Level-4 response for Zhejiang. The move follows Typhoon No.13 White Dolphin and recent heavy rainfall; the Taihu basin has seen a significant basin-wide flood and lake levels are forecast to continue rising slowly. Forecasts show heavy to very heavy rain in parts of eastern and southern Zhejiang on Aug. 15–16.
 
 ---
 
@@ -18347,247 +18449,5 @@ U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the S
 ### 2026-08-14 06:40:22  #Trading Economics #Economy #New Zealand #Manufacturing PMI #Importance 2
 
 New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate.
-
----
-
-### 2026-08-14 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%).
-
----
-
-### 2026-08-14 06:39:21  #國際
-
-美國能源部長賴特：電價對通脹率的影響微乎其微。
-
----
-
-### 2026-08-14 06:37:14  #市場 #焦點
-
-現貨黃金突破4360美元/盎司，日內漲0.21%。
-
----
-
-### 2026-08-14 06:36:50  #國際
-
-美國能源部長賴特：霍爾木茲海峽石油運輸流量將持續走高。
-
----
-
-### 2026-08-14 06:35:39  #國際
-
-美國能源部長賴特：美國護送、轉運物資的能力正在增強。
-
----
-
-### 2026-08-14 06:35:12  #國際
-
-美國能源部長賴特：伊朗正試圖以全球經濟為要挾。
-
----
-
-### 2026-08-14 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore CNY Falls by 2.15% — Top commodity losers are Iron Ore CNY (-2.15%), Platinum (-2.10%), Silver (-1.30%) and Gold (-1.16%).
-
----
-
-### 2026-08-14 06:34:43  #焦點 #國際
-
-美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
-
----
-
-### 2026-08-14 06:33:21  #國際
-
-美國能源部長賴特：美國掌握每日經由霍爾木茲海峽進出的船舶數量。
-
----
-
-### 2026-08-14 06:32:53  #國際
-
-美國能源部長賴特：美國正與各方船隻開展溝通協調。
-
----
-
-### 2026-08-14 06:32:07  #其他
-
-紐西蘭7月製造業表現指數 54.3，前值59.7。
-
----
-
-### 2026-08-14 06:31:41  #資料 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 07:30 澳洲聯儲主席布洛克出席聽證會；
-② 14:45 法國7月CPI終值；
-③ 待定 國內成品油開啟新一輪調價視窗；
-④ 16:30 中國香港第二季度GDP終值；
-⑤ 17:00 歐元區第二季度GDP修正值；
-⑥ 20:30 美國7月零售銷售，加拿大6月批發銷售；
-⑦ 22:00 美國8月密歇根大學消費者信心指數初值，美國6月商業庫存；
-⑧ 次日01:00 美國至8月14日當週石油鑽井總數。
-
----
-
-### 2026-08-14 06:30:08  #MKT News #DXY #Impact bearish
-
-New Zealand July manufacturing performance index 54.3, prior 59.7.
-
----
-
-### 2026-08-14 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Drops by 2.66% — Top commodity losers are Crude Oil WTI (-2.66%), Natural gas (-2.56%) and Brent Crude Oil (-2.36%).
-
----
-
-### 2026-08-14 06:30:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7
-
----
-
-### 2026-08-14 06:22:11  #國際
-
-【古巴強烈反對多明尼加驅逐其駐多使館人員】古巴外交部13日發表宣告，強烈反對多明尼加政府驅逐10名古巴駐多使館外交人員及其家屬的決定，稱此舉嚴重損害兩國政府間關係。（新華社）
-
----
-
-### 2026-08-14 06:15:03  #公司 #市場
-
-【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)
-
----
-
-### 2026-08-14 06:14:48  #公司 #市場
-
-【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）
-
----
-
-### 2026-08-14 06:14:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's GOOLSBEE says U.S. economy remains stable.
-
----
-
-### 2026-08-14 06:14:32  #央行 #國際
-
-美聯儲古爾斯比：美國經濟走勢穩定。
-
----
-
-### 2026-08-14 06:13:19  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%.
-
----
-
-### 2026-08-14 06:12:48  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact mixed
-
-GOOLSBEE of the Federal Reserve said many inflation drivers stem from tariffs, followed by oil prices, and the Fed hopes these are one-off increases.
-
----
-
-### 2026-08-14 06:12:29  #央行 #國際
-
-美聯儲古爾斯比： 如果能將上述部分不利因素拋在身後，通脹就有望回落至 2% 目標水平。
-
----
-
-### 2026-08-14 06:12:12  #市場 #央行 #國際
-
-美聯儲古爾斯比： 諸多通脹驅動因素來自關稅以及油價，我們原本希望這些都只是一次性上漲。
-
----
-
-### 2026-08-14 06:12:02  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Fed's GOOLSBEE said inf data has improved and he hopes the trend continues.
-
----
-
-### 2026-08-14 06:11:47  #Trading Economics #Markets #Taiwan #Earnings #Importance 0
-
-Quanta Computer earnings above expectations at 7.43 TWD — Quanta Computer (2382) released earnings per share at 7.43 TWD, compared to market expectations of 6.08 TWD.
-
----
-
-### 2026-08-14 06:11:26  #公司 #觀點
-
-【原始權益人看好優質底層資產，滬市公募REITs扎堆披露增持計劃】近日，創金合信首農REIT與中信建投瀋陽國際軟體園REIT分別釋出公告稱，其原始權益人及關聯方基於對專案未來發展前景的信心和長期投資價值的認可，將啟動基金份額增持計劃。事實上，今年以來滬市已有建信中關村REIT、招商科創REIT、匯添富上海地產商業REIT、中信建投首農商業REIT、中金唯品會商業REIT等5單公募REITs專案披露增持計劃。從增持安排來看，7單專案增持主體包含原始權益人、控股股東及同一控制下關聯方，採用二級市場競價交易等方式擇機實施。專案均設定了增持份額或者金額區間，其中部分專案明確了增持下限；多數主體同步作出鎖倉承諾，增持獲得的份額在實施週期結束後，繼續鎖定較長時間不予減持，規避短期博弈交易，立足長期持有，保障增持行為的嚴肅性，向市場傳遞長期看好訊號。（上證報）
-
----
-
-### 2026-08-14 06:10:59  #央行 #國際
-
-美聯儲古爾斯比：近期通脹相關資料出現小幅好轉，希望這一改善態勢能夠持續。
-
----
-
-### 2026-08-14 06:08:26  #國際
-
-特朗普：允許在美投資的外國造船廠最多建造兩艘船隻。
-
----
-
-### 2026-08-14 06:05:10  #其他
-
-澳大利亞總理阿爾巴尼斯：澳大利亞移民數量較峰值下降 45%。
-
----
-
-### 2026-08-14 06:05:00  #MKT News
-
-RBNZ said its FPC considered house price developments, recent mortgage risk conditions and borrowers' financial stress.
-
----
-
-### 2026-08-14 06:04:58  #MKT News
-
-RBNZ maintains current loan-to-value ratio (LVR) settings.
-
----
-
-### 2026-08-14 06:01:31  #市場
-
-鈀金期貨日內跌1%，現報1311.50美元/盎司。
-
----
-
-### 2026-08-14 06:01:31  #其他
-
-紐西蘭儲備銀行：維持貸款價值比（LVR）相關政策不變。
-
----
-
-### 2026-08-14 06:00:47  #市場 #焦點
-
-紐約期銀突破65美元/盎司，日內跌0.61%。
-
----
-
-### 2026-08-14 06:00:36  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65.2%，累計加息25個基點的機率為34.8%。美聯儲到10月維持利率不變的機率為50.1%，累計加息25個基點的機率為41.8%，累計加息50個基點的機率為8.1%。
-
----
-
-### 2026-08-14 06:00:35  #市場 #焦點
-
-現貨白銀突破65美元/盎司，日內跌0.03%。
-
----
-
-### 2026-08-14 05:58:39  #公司 #焦點 #國際
-
-【白宮宣佈對進口無人機及零部件徵收關稅】美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。（新華社）
-
----
-
-### 2026-08-14 05:56:03  #MKT News #Market Themes #AI Revolution
-
-【Sources: OpenAI annualized revenue tops $40 bln】Sources say OpenAI's current annualized revenue has exceeded $40 billion, roughly double its level at end-2025, bolstering the company's IPO preparations. Revenue acceleration in recent months is driven by rapid expansion of its AI programming business (notably CODEX), rising subscriptions, nascent ad revenue contribution and steady consumer growth. OpenAI is competing fiercely with ANTHROPIC for enterprise customers; both firms have quietly filed IPO paperwork, and ANTHROPIC could list as soon as this autumn, potentially ahead of OpenAI. OpenAI co‑founder and president Greg Brockman said July annualized revenue rose more than 20% month‑on‑month. Demand for AI agents has increased, with flagship products including CODEX and ChatGPT Work, and OpenAI has cut prices on some models to respond to ANTHROPIC and other competitors.
 
 ---

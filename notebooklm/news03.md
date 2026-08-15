@@ -1,7 +1,170 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 14:52:28_
-_本檔包含 3096 則快訊，約 603740 字_
+_更新時間：2026-08-15 15:39:39_
+_本檔包含 3112 則快訊，約 604962 字_
+
+---
+
+### 2026-08-13 01:24:34  #國際
+
+市場訊息：加拿大考慮在與美國的談判中提出汽車關稅建議。
+
+---
+
+### 2026-08-13 01:23:30  #國際
+
+市場訊息：在德國舉行的一場大型軍事演習中，烏克蘭無人機操作人員壓制了美軍部隊。偵察無人機迅速鎖定美軍裝甲車輛，隨後攻擊無人機完成模擬 “擊毀”，實質上全殲一支美軍裝甲旅。
+
+---
+
+### 2026-08-13 01:22:31  #MKT News
+
+The Wall Street Journal reported that Ukrainian drones defeated U.S. armored forces during military exercises in Germany this spring.
+
+---
+
+### 2026-08-13 01:21:45  #市場 #國際
+
+【玉米期貨大漲 美國農業部大幅下調美國單產預期，降幅超市場預期】玉米期貨價格創下6月以來最大漲幅，此前美國農業部（USDA）大幅下調了美國玉米單產預期，降幅超過市場此前預期。芝加哥玉米期貨一度上漲4.1%，隨後漲幅有所收窄。週三早些時候，穀物價格已經開始上漲。俄羅斯一個重要糧食港口遭到襲擊，加劇了市場對俄烏衝突升級可能擾亂黑海地區糧食出口的擔憂。
+
+---
+
+### 2026-08-13 01:21:19  #其他
+
+【科威特挫敗一起針對重要設施的恐襲圖謀 】科威特內政部12日宣佈，安全部門成功挫敗一起針對科威特一處重要設施的“恐怖襲擊圖謀”，並抓獲一名與“伊斯蘭國”組織有關聯的科威特公民。（新華社）
+
+---
+
+### 2026-08-13 01:16:12  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $725 mln from one counterparty in a fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-13 01:12:10  #MKT News #Market Themes #AI Revolution
+
+Musk said Grok 4.6 ranks first overall for intelligence, runtime speed and usage cost.
+
+---
+
+### 2026-08-13 01:09:42  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port.
+
+---
+
+### 2026-08-13 01:09:10  #國際
+
+烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。
+
+---
+
+### 2026-08-13 01:07:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%.
+
+---
+
+### 2026-08-13 01:06:46  #市場 #國際
+
+美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。
+
+---
+
+### 2026-08-13 01:06:27  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 10-year Treasury auction yield hits highest since 2007.
+
+---
+
+### 2026-08-13 01:05:52  #公司 #國際
+
+馬斯克：綜合智慧水平、速度與成本來看，Grok 4.6 客觀排名第一。
+
+---
+
+### 2026-08-13 01:05:04  #市場 #國際
+
+美國10年期國債拍賣收益率創2007年以來新高。
+
+---
+
+### 2026-08-13 01:03:38  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+US 10-year Treasury auction as of Aug 12: share of awards at the stop-out yield 65.27% (prior 40.29%).
+
+---
+
+### 2026-08-13 01:03:29  #MKT News #Economic Calendar
+
+United States | 10-Year Note Auction Accepted at High (Aug.12) | actual 65.27% | previous 40.29%
+
+---
+
+### 2026-08-13 01:03:29  #MKT News #Important #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+At the Aug 12 US 10-year Treasury auction, bid-cover ratio 2.53, versus 2.59 previously.
+
+---
+
+### 2026-08-13 01:03:19  #MKT News #Economic Calendar
+
+United States | 10-Year Note Auction Bid/Cover Ratio (Aug.12) | actual 2.53 | previous 2.59
+
+---
+
+### 2026-08-13 01:03:18  #市場 #國際
+
+美國至8月12日10年期國債競拍-得標利率 4.683%，前值4.58%。
+美國至8月12日10年期國債競拍-投標倍數 2.53，前值2.59。
+
+---
+
+### 2026-08-13 01:03:17  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 10-year Treasury auction on Aug 12: stop-out yield 4.683%, prior 4.58%.
+
+---
+
+### 2026-08-13 01:03:10  #MKT News #Economic Calendar #Important
+
+United States | 10-Year Note Auction High Yield Rate (Aug.12) | actual 4.683% | previous 4.58%
+
+---
+
+### 2026-08-13 01:01:33  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+【Apple appoints Nate Gatten as VP, global government affairs】Apple (AAPL.O) appointed Nate Gatten, former head of government affairs at American Airlines Group and a former JP Morgan government-relations staffer, as vice president for global government affairs, effective Aug. 31. Sources said Apple seeks a government-relations lead able to maintain strong channels with the Trump administration to manage tariff and policy risks. The hire follows increased CEO Tim Cook engagement with the White House and is part of recent senior changes: Cook plans to step down as CEO on Sept. 1, to be succeeded by hardware chief John Ternus, while Cook will remain executive chairman.
+
+---
+
+### 2026-08-13 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌0.36%，滬銅收跌0.36%，滬鋁收跌0.62%，滬鋅收漲0.19%，滬鉛收漲0.57%，滬鎳收漲0.18%，滬錫收跌0.43%。氧化鋁夜盤收跌0.81%，鋁合金收跌1.06%。不鏽鋼夜盤收跌0.10%。
+
+---
+
+### 2026-08-13 00:58:08  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) rose to an intraday high, extending gains to 8.5%.
+
+---
+
+### 2026-08-13 00:56:24  #其他
+
+SpaceX漲幅擴大至8%，總市值達1.9萬億美元，本月已累升逾32%。
+
+---
+
+### 2026-08-13 00:55:19  #MKT News
+
+【Etna eruption continues; Catania airport suspends flights】Etna volcano on Sicily has been erupting since early August. The Italian National Institute of Geophysics and Volcanology (INGV) reported on Aug 12 multiple new vents, lava flows advancing downslope and an ash cloud drifting south and southwest. Catania airport suspended all arrivals and departures on Aug 12; restrictions remained in place until Aug 13 16:00 local time.
+
+---
+
+### 2026-08-13 00:52:48  #MKT News #Market Regions #Wall Street (US) #005930.KS #Impact bearish
+
+【USITC opens Section 337 probe into Samsung mobile electronic devices】The US International Trade Commission said on Aug. 12 it has opened a Section 337 investigation into certain mobile electronic devices, naming Samsung Electronics Co. and Samsung Electronics America as respondents. The probe follows a July complaint by Kyoto-based Maxell alleging patent infringement in devices imported into and sold in the US and seeking a limited exclusion order and a cease-and-desist order under the Tariff Act of 1930, Section 337. The USITC said initiation does not imply a final determination. An administrative law judge will handle evidence and hearings and issue an initial determination; the commission will set the case schedule within 45 days and will issue a final determination after the record is developed.
 
 ---
 
@@ -18619,71 +18782,5 @@ Sources say Russia's SIBUR-owned petrochemical plant ZapSibNeftekhim was struck 
 ### 2026-08-11 21:38:08  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Trade Mixed — US stocks were mixed on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened and lent respite to banks, with JPMorgan and Goldman Sachs inching up. Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
-
----
-
-### 2026-08-11 21:36:32  #公司
-
-谷歌：面向人工智慧職業證書推出全新Vibe程式設計課程。
-
----
-
-### 2026-08-11 21:36:27  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact bullish
-
-Google launches new VIBE coding course targeting AI professional certification.
-
----
-
-### 2026-08-11 21:36:23  #國際
-
-Metinvest：烏克蘭扎波羅熱鋼鐵廠在俄羅斯襲擊後停產。
-
----
-
-### 2026-08-11 21:36:16  #公司
-
-【騰訊音樂一度跌約17%，公司公佈了二季度財報】騰訊音樂第二季度總收入為人民幣89.3億元（13.2億美元），同比增長5.8%。音樂相關服務收入同比增長11.0%至人民幣76.1億元（11.2億美元），音樂相關會員服務收入同比增長8.1%至人民幣47.9億元（7.06億美元）。
-
----
-
-### 2026-08-11 21:36:01  #市場 #觀點
-
-【摩根大通繼續看好SK海力士：市場擔憂過度 三大催化劑將至】摩根大通在研報中表示，部分擔憂已經被市場過度放大，近期最嚴重的負面情緒可能已經過去。該行指出，接下來一至兩個月，新的股東回報政策、HBM合同價格以及Solidigm上市計劃更新，將成為影響SK海力士股價的三大關鍵催化劑。摩根大通維持SK海力士“增持”評級，2027年6月目標價275萬韓元，基於2026年至2027年平均每股收益的7倍市盈率。主要下行風險仍是DRAM價格和利潤率低於預期，以及終端需求與庫存惡化；若需求繼續超預期並推動DRAM價格進一步上漲，則可能形成新的上行催化劑。
-
----
-
-### 2026-08-11 21:35:12  #其他
-
-美股雲端計算服務商概念股盤初走高，Hut 8漲超7%，CoreWeave、NEBIUS、IREN漲近4%。
-
----
-
-### 2026-08-11 21:35:04  #宏觀
-
-【新疆出臺法規護航棉花產業高質量發展】記者11日從新疆維吾爾自治區人大常委會新聞釋出會獲悉，針對棉花產業高質量發展制定的地方性法規《新疆維吾爾自治區棉花質量促進條例》已於7月1日正式施行。 新疆維吾爾自治區人大常委會副秘書長、新聞發言人麥麗燕·司馬義介紹，條例共六章37條，覆蓋棉花種植、採收、收購、加工、銷售、承儲全產業鏈的質量提升，將公證檢驗、目標價格政策、在庫公檢、全鏈條質量追溯等有效做法上升為法規制度，對於提升新疆棉花質量水平、帶動各族群眾增收致富、維護棉紡織產業鏈供應鏈安全穩定具有重大意義。 據悉，新疆是我國最大優質棉花生產基地，2025年新疆棉花產量佔全國產量的92.8%。（新華社）
-
----
-
-### 2026-08-11 21:34:39  #公司
-
-GETTY IMAGES股價重挫21%，此前公司撤回財年指引並公佈第二季業績。
-
----
-
-### 2026-08-11 21:34:34  #Trading Economics #Markets #Commodity #Importance 0
-
-UK Natural Gas Prices Fall on Tuesday — UK natural gas prices fell toward 143 pence a therm, as hopes for progress in US-Iran negotiations eased concerns over energy supplies. Pakistan’s Defense Minister Khawaja Asif said the two sides were “close to some sort of arrangement,” while talks between Iran and Oman over reopening the Strait of Hormuz were reportedly at an advanced stage. A deal could help restore LNG flows through the Persian Gulf and reduce pressure on European gas markets. Despite the optimism, Commerzbank raised its year-end European gas price forecast to €50/MWh from €45/MWh, while Uniper expects prices to remain around €50-€60/MWh as long as Hormuz remains closed. European storage levels recently fell to the lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Meanwhile, persistent European heatwaves are boosting power demand and adding further pressure to gas markets.
-
----
-
-### 2026-08-11 21:34:32  #國際
-
-美國國家運輸安全委員會：發動機失效，隨後發生機艙失壓，出現窗戶相關人員受傷情況 。
-
----
-
-### 2026-08-11 21:34:28  #Trading Economics #Economy #Kosovo #Inflation Rate #Importance 1
-
-Kosovo Annual Inflation Rises in July — Kosovo's annual inflation rate rose to 6.5% in July 2026 from 6% in June. Upward price pressures were mainly due to accelerating growth in transport costs, surging 17.8% from 13.7% in the pior month, while inflation also increased for alcoholic beverages, tobacco and narcotics (5.3% vs 5.1%), restaurants and hotels (5.3% vs 4.5%), clothing and footwear (2.8% vs 2.3%) and recreation, sports and culture (2.3% vs 2%). Meanwhile, inflation stood at 11.1% for housing and utilities. In contrast, inflation slowed for food (2.7% vs 3.9%), furnishings (2.5% vs 3%) and health (4% vs 4.1%). On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.1% decline in the prior month.
 
 ---
