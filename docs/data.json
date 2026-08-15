@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-15 08:38:37",
-  "count": 15280,
+  "updated": "2026-08-15 08:42:30",
+  "count": 15279,
   "items": [
+    {
+      "id": "em:jjsj_zgsj:202608143842107269",
+      "time": "2026-08-15 08:41:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【7月金融資料出爐：貸款繼續“降速提質” 居民存款仍在搬家】8月14日，央行釋出7月份金融統計資料，存貸款資料引發市場廣泛關注。具體來看，7月份居民存款減少6300億元，7月居民存款轉向淨流出；非銀機構存款增加11100億元，但環比由負轉正，資金繼續向理財、基金等資本市場渠道流轉；非金融企業存款減少16300億元，企業存款顯著回落，企業賬面資金消耗加大；財政存款增加9785億元，政府債發行維持高位和財政資金收繳推動存款規模走高。"
+    },
+    {
+      "id": "5042074",
+      "time": "2026-08-15 08:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞地球物理局在7.7級地震發生後解除了海嘯預警。"
+    },
+    {
+      "id": "mkt:01a002db-16d6-7aab-9046-c0f85b2c5ec1",
+      "time": "2026-08-15 08:38:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: Anthropic expects $190–200bn revenue in 2028】Two people familiar with Anthropic’s finances said the company expects 2028 revenue of $190–200bn, well above the $47bn “annualized revenue” it disclosed in May. Four sources said bankers and investors are valuing the company using enterprise-value-to-revenue multiples based on the forecast. While revenue multiples are common for high-growth software firms, extending the forecast horizon two years is unusual; sources said this reflects Anthropic’s rapid expansion and the difficulty of setting a valuation benchmark for a company still heavily investing in AI infrastructure."
+    },
     {
       "id": "5042073",
       "time": "2026-08-15 08:37:58",
@@ -139887,39 +139914,6 @@
         "MKT News"
       ],
       "text": "【Peru, Mexico restore diplomatic relations】Peru's Foreign Ministry on the 7th issued a joint communique with the Mexican government announcing the restoration of diplomatic relations."
-    },
-    {
-      "id": "5031745",
-      "time": "2026-08-08 08:41:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東健康：上半年首發65款新藥 已佈局近10萬個鄉鎮及村級服務站點】8月8日，記者從京東健康獲悉，2026年上半年，京東健康累計首發65款新藥，覆蓋腫瘤、皮膚、慢病等領域。截至目前，京東健康使用者中三線及以下城市佔比超65%，在全國佈局近10萬個鄉鎮及村級服務站點，縣域當日達或次日達覆蓋率達87.1%。（人民財訊）"
-    },
-    {
-      "id": "5031744",
-      "time": "2026-08-08 08:40:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【8月7日上海出口集裝箱綜合運價指數為3276.14點 較上期上漲2.2%】據上海航運交易研究所（籌），本週，中國出口集裝箱運輸市場保持穩定，多數遠洋航線市場運價上漲，帶動綜合指數上行。據海關總署最新公佈的資料顯示，以美元計價，中國7月出口同比增加23.9%，增速繼續保持高位，出口的強勁表現對中國出口集運市場平穩發展起到長期的支撐作用。8月7日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3276.14點，較上期上漲2.2%。"
-    },
-    {
-      "id": "5031743",
-      "time": "2026-08-08 08:39:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤跌破82美元，日內跌超2.2%。"
-    },
-    {
-      "id": "mkt:019fdecf-043e-7aab-8fc1-e7ae6e45f3f3",
-      "time": "2026-08-08 08:38:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kyiv mayor said fires broke out in two districts of the city."
     }
   ]
 }
