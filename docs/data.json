@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 04:33:38",
-  "count": 15257,
+  "updated": "2026-08-16 04:43:06",
+  "count": 15256,
   "items": [
+    {
+      "id": "5042429",
+      "time": "2026-08-16 04:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗譴責以色列持續襲擊黎巴嫩。"
+    },
     {
       "id": "mkt:01a00720-cea2-7aab-904b-0b5d9566aa3f",
       "time": "2026-08-16 04:33:05",
@@ -139648,29 +139656,6 @@
         "焦點"
       ],
       "text": "布倫特原油暗盤突破82美元，日內漲超0.7%。"
-    },
-    {
-      "id": "5032106",
-      "time": "2026-08-09 04:42:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美消防部門證實：猶他州消防直升機墜毀致兩人遇難】美國國家跨部門消防中心8日證實，此前一天在猶他州墜毀的消防直升機上的兩名乘員已經遇難。 據該中心通報，這架與美國林業局簽訂合同的直升機在撲滅野火過程中發生事故，造成飛行員和另一名機組人員遇難。美國聯邦航空局此前證實失事直升機型號為西科斯基S-64。 根據通報，全美目前有97處大型野火正在燃燒，超過3萬名消防員奮戰在各火災現場。 受持續高溫與乾旱影響，美國西部多個州近期野火頻發。（新華社）"
-    },
-    {
-      "id": "mkt:019fe319-1812-7aab-8fc6-977599d8c1e2",
-      "time": "2026-08-09 04:38:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Institution: US July CPI may show easing inflationary pressure】Markets expect US CPI, after June's -0.4% MoM, to rise 0.1% MoM in July. Core CPI ex-food and energy is forecast +0.2% MoM and +2.5% YoY, the smallest YoY gain since February. Following Friday's weak July nonfarm payrolls, slower inflation could help ease Fed inflation concerns; three officials voted to raise rates at the July 29 meeting. The report may show energy-price pressure has cooled after surging in the months following late‑February US‑Iran hostilities; retail gasoline fell to a near four‑month low in early July before rising above $4/gal by month‑end. It may also show airfares declined as jet‑fuel costs stabilized."
     }
   ]
 }
