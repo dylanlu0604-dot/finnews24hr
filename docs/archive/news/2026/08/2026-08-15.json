@@ -1,7 +1,55 @@
 {
   "date": "2026-08-15",
-  "count": 715,
+  "count": 721,
   "items": [
+    {
+      "id": "mkt:01a00551-f72d-7aab-9049-150192c7711e",
+      "time": "2026-08-15 20:07:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State media reported Omani authorities said about 12 km of coastline in the Ras Madrakah area has been affected by oil pollution."
+    },
+    {
+      "id": "5042313",
+      "time": "2026-08-15 20:06:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼稱拉斯馬德拉卡地區約12公里海岸線受石油汙染影響。"
+    },
+    {
+      "id": "5042311",
+      "time": "2026-08-15 20:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【自然資源部海嘯預警中心：印尼6.8級地震不會引發海嘯】2026年08月15日18時54分（北京時間），印尼蘇門答臘島北部海域（2.95°N,99.05°E）發生6.8級地震，震源深度為170千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。"
+    },
+    {
+      "id": "mkt:01a0054d-1190-7aab-9049-0fb2bdd8f6c6",
+      "time": "2026-08-15 20:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Commemoration of Jiang Zemin’s 100th birth anniversary set for Aug. 17; Xi Jinping to attend and speak】A state ceremony marking the 100th anniversary of former leader Jiang Zemin’s birth will be held at 10:00 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping, General Secretary of the Communist Party, President and CMC chairman, will attend and deliver a major address. Chinese state broadcasters will provide live coverage."
+    },
+    {
+      "id": "5042309",
+      "time": "2026-08-15 20:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話】紀念江澤民同志誕辰100週年大會將於8月17日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將出席大會並發表重要講話。屆時，中央廣播電視總檯、新華網將對大會進行現場直播，人民網、央視網、中國網等中央重點新聞網站和人民日報客戶端、新華社客戶端、央視新聞客戶端等新媒體平臺同步轉播。（央視新聞）"
+    },
+    {
+      "id": "5042308",
+      "time": "2026-08-15 20:00:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。"
+    },
     {
       "id": "5042306",
       "time": "2026-08-15 20:00:03",
