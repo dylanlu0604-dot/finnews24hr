@@ -1,7 +1,17 @@
 {
   "date": "2026-08-16",
-  "count": 69,
+  "count": 70,
   "items": [
+    {
+      "id": "mkt:01a0070b-9b75-7aab-904a-f498d8e2e026",
+      "time": "2026-08-16 04:09:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion."
+    },
     {
       "id": "5042427",
       "time": "2026-08-16 03:47:12",
