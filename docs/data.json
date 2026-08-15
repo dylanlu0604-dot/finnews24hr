@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 22:42:05",
-  "count": 15291,
+  "updated": "2026-08-15 22:46:11",
+  "count": 15288,
   "items": [
+    {
+      "id": "5042381",
+      "time": "2026-08-15 22:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩譴責以色列襲擊黎南違反框架協議】黎巴嫩總統奧恩15日譴責以色列當天對黎南地區發動的空襲，稱以方襲擊違反黎以美三方框架協議和國際法，導致奈拜提耶地區安薩爾村一家人全部遇難。黎巴嫩衛生部發表宣告說，以軍當天對安薩爾村發動空襲，造成7人死亡、多人受傷，死者中包括3名兒童和2名婦女。以軍當天還對奈拜提耶地區迪爾扎赫拉尼鎮發動空襲，造成4人死亡、17人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:01a005e1-eae0-7aab-9049-9df99fb7239d",
+      "time": "2026-08-15 22:44:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's PEZESHKIAN convenes meeting of executive, legislative and judicial leaders】President PEZESHKIAN met with parliament speaker Ghalibaf and judiciary chief Gholam‑Hossein Mohseni‑Eje'i to review domestic developments and priority work. The leaders called for strengthened coordination among the executive, legislature and judiciary and a unified, coordinated approach to advance state affairs and safeguard public and national interests."
+    },
+    {
+      "id": "5042380",
+      "time": "2026-08-15 22:42:45",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【以色列正試圖操控人工智慧關於加沙議題的輸出內容】以色列已發起一場公關宣傳活動，目的是引導ChatGPT等人工智慧系統在回答有關以色列、加沙以及以色列國防軍相關問題時的表述傾向。多家受以色列委託的公關公司成立了漢諾威公共政策研究所，該機構釋出大量設問式報告，例如《以色列國防軍是全球最講道義的軍隊嗎？》《加沙是否存在刻意製造饑荒的政策？》。這些文稿是以色列出資、總投入10萬美元宣傳專案的組成部分。相關測試顯示，當使用者提出中立問題時，ChatGPT與Perplexity人工智慧模型會引用這家研究所釋出的資料。以色列還資助了另一項總額4650萬美元的輿論干預專案，該專案專門搭建各類網站、產出定製內容，以此干預“GPT模型的內容輸出導向”。"
+    },
     {
       "id": "mkt:01a005de-08f7-7aab-9049-93c75a06b866",
       "time": "2026-08-15 22:40:32",
@@ -139932,60 +139958,6 @@
         "其他"
       ],
       "text": "【鍾睒睒：感性消費被線上購物平臺扼殺，必須限制平臺能力】8月8日訊息，今日，農夫山泉創始人、董事長鍾睒睒做客央視財經《對話》直播節目。直播中，談及目前在生活中普及的電商平臺，鍾睒睒表示，平臺是一種特殊的中間商，“這個中間商無處不在，把城市的很多零售商都‘殺’光了。”他說。他認為，城市中的許多店鋪是根據感性來消費的，但目前這種消費已經被扼殺。“把年輕人都吸引到手機螢幕裡，創造性和感性在哪裡？”因此，他表示必須限制平臺的能力。"
-    },
-    {
-      "id": "5032036",
-      "time": "2026-08-08 22:45:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門武裝部隊發言人表示，已對胡塞武裝及其附屬“民兵組織”展開軍事行動。"
-    },
-    {
-      "id": "mkt:019fe1d5-dfd1-7aab-8fc4-e029634586d8",
-      "time": "2026-08-08 22:45:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's armed forces spokesman said forces launched operations against Houthi fighters and affiliated militias."
-    },
-    {
-      "id": "mkt:019fe1d4-cb04-7aab-8fc4-da2849ca910a",
-      "time": "2026-08-08 22:44:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fox News reported US Vice President Vance said Iran has notified the US that, despite statements by regime insiders about imposing transit fees on passage through the Strait of Hormuz, Tehran will not impose such fees."
-    },
-    {
-      "id": "5032035",
-      "time": "2026-08-08 22:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大強調不會接受零敲碎打的協議。"
-    },
-    {
-      "id": "5032034",
-      "time": "2026-08-08 22:42:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：加拿大希望在兩週內阻止美國計劃實施的50%關稅。"
-    },
-    {
-      "id": "mkt:019fe1d3-7a07-7aab-8fc4-d249d1445ac4",
-      "time": "2026-08-08 22:42:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian media reported President Pezeshkian said now is the best time to reach an agreement, saying Iran is \"strong and united\" and \"seen as a victor in war.\""
     }
   ]
 }
