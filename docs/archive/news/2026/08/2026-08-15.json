@@ -1,7 +1,57 @@
 {
   "date": "2026-08-15",
-  "count": 767,
+  "count": 773,
   "items": [
+    {
+      "id": "mkt:01a005da-f8e6-7aab-9049-83294883e783",
+      "time": "2026-08-15 22:37:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said Europe appears unwilling to accept Turkey into the EU, and that EU accession is not Ankara's priority, adding Europe would be the one to lose."
+    },
+    {
+      "id": "mkt:01a005da-c770-7aab-9049-7ffe616cb220",
+      "time": "2026-08-15 22:36:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Indonesia advances plan for financial and investment centre to attract global capital】Indonesia is advancing plans to establish an Indonesia Financial and Investment Center (IIFC) to attract global capital and leverage the country's rising appeal to investors, the government said. Officials described Indonesia as a high-potential market with substantial growth space and said the IIFC would act as a support mechanism to draw capital from multiple countries and capitalise on those opportunities."
+    },
+    {
+      "id": "5042372",
+      "time": "2026-08-15 22:34:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統：以色列持續襲擊黎巴嫩是我們重大關切所在。"
+    },
+    {
+      "id": "5042371",
+      "time": "2026-08-15 22:34:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部：戰鬥機從阿拉伯海的喬治·H·W·布什號航空母艦起飛，以維護中東地區的安全與穩定。"
+    },
+    {
+      "id": "5042370",
+      "time": "2026-08-15 22:33:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：我們已收到特朗普關於F‑35戰鬥機的承諾，我們正等待他兌現該承諾。"
+    },
+    {
+      "id": "5042369",
+      "time": "2026-08-15 22:33:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，預計颶風赫南今日將減弱為殘留低氣壓。"
+    },
     {
       "id": "5042368",
       "time": "2026-08-15 22:32:53",
