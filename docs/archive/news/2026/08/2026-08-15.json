@@ -1,7 +1,28 @@
 {
   "date": "2026-08-15",
-  "count": 738,
+  "count": 740,
   "items": [
+    {
+      "id": "mkt:01a0057b-a7db-7aab-9049-46c2d23d82ae",
+      "time": "2026-08-15 20:53:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it reached agreement with Oman on Strait of Hormuz transit plan】On Aug 15 local time, Iranian foreign ministry spokesperson BAGHAEI said talks with Oman continued despite US obstruction and the two sides have reached an agreement on a transit plan for the Strait of Hormuz shipping lane."
+    },
+    {
+      "id": "5042333",
+      "time": "2026-08-15 20:52:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華天科技：公司與智元進行業務專案合作】有投資者向華天科技(002185)提問：公司與智元機器人有合作？華天科技8月15日在互動平臺回覆，公司與智元進行業務專案合作。"
+    },
     {
       "id": "5042332",
       "time": "2026-08-15 20:50:55",

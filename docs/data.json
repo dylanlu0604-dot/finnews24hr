@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-15 20:52:16",
-  "count": 15289,
+  "updated": "2026-08-15 20:56:19",
+  "count": 15290,
   "items": [
+    {
+      "id": "mkt:01a0057b-a7db-7aab-9049-46c2d23d82ae",
+      "time": "2026-08-15 20:53:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it reached agreement with Oman on Strait of Hormuz transit plan】On Aug 15 local time, Iranian foreign ministry spokesperson BAGHAEI said talks with Oman continued despite US obstruction and the two sides have reached an agreement on a transit plan for the Strait of Hormuz shipping lane."
+    },
+    {
+      "id": "5042333",
+      "time": "2026-08-15 20:52:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華天科技：公司與智元進行業務專案合作】有投資者向華天科技(002185)提問：公司與智元機器人有合作？華天科技8月15日在互動平臺回覆，公司與智元進行業務專案合作。"
+    },
     {
       "id": "5042332",
       "time": "2026-08-15 20:50:55",
@@ -139951,14 +139972,6 @@
         "其他"
       ],
       "text": "【克羅埃西亞兩列火車相撞致20人受傷】當地時間8月8日上午，克羅埃西亞北部克里熱夫齊境內發生一起貨運列車與客運列車相撞事故。克羅埃西亞衛生部表示，事故造成6名乘客重傷、14人輕傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe171-c7d1-7aab-8fc4-8382c0639249",
-      "time": "2026-08-08 20:55:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: If Democrats win House, plan probes of Trump business and financial network rather than immediate impeachment】Sources say House Democrats are preparing, if they retake the House, to pursue broad investigations targeting Trump’s business and financial network rather than immediate impeachment. Senior House Democrats and committee staff have discussed using hearings, subpoenas and document requests to obtain records from entities tied to Trump’s political and commercial circle. Planners expect probing private companies and external financial actors will be more effective than directly confronting a White House likely to resist oversight. Democrats envision deploying House investigative powers after the mid-November election to review government decision-making and examine whether Trump used office to benefit himself, allies or donors."
     }
   ]
 }
