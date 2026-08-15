@@ -1,7 +1,25 @@
 {
   "date": "2026-08-15",
-  "count": 406,
+  "count": 408,
   "items": [
+    {
+      "id": "mkt:01a002c7-c975-7aab-9046-b00277c6c256",
+      "time": "2026-08-15 08:17:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump Saturday schedule】Beijing time Aug 15 20:00 — U.S. President Trump to handle administrative matters at Trump National Golf Club, Bedminster; Beijing time Aug 16 02:30 — to attend a policy meeting at the same club."
+    },
+    {
+      "id": "5042064",
+      "time": "2026-08-15 08:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國密歇根州發生槍擊事件 已致包含嫌犯在內6人死亡】當地時間8月14日，央視記者獲悉，美國密歇根州米索基縣發生一起槍擊事件，造成5人死亡、1人受傷。此外，39歲的嫌疑人查德·希克曼也確認死亡。（央視新聞）"
+    },
     {
       "id": "mkt:01a002c5-3fe9-7aab-9046-a933a002063c",
       "time": "2026-08-15 08:14:36",
