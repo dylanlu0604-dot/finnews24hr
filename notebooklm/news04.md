@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:33:52_
-_本檔包含 3224 則快訊，約 605477 字_
+_更新時間：2026-08-15 22:54:06_
+_本檔包含 3221 則快訊，約 605132 字_
+
+---
+
+### 2026-08-11 23:20:58  #MKT News
+
+【Baltic Dry Index hits five-day low as capesize demand weakens】BDI fell 37 pts (1.2%) to 3,046, a five-day low, as capesize and supramax rates retreated, offsetting a tenth consecutive daily rise in panamax rates. The capesize index (BCI) dropped 104 pts (2.04%) to 5,001; capesize average daily earnings fell $941 to $41,856. The panamax index (BPI) rose 6 pts (0.26%) to 2,312, its highest since June 2 and marking a 10th straight gain; panamax daily earnings increased $58 to $20,813. The supramax index (BSI) slid 3 pts (0.19%) to 1,600, the lowest since June 8.
+
+---
+
+### 2026-08-11 23:20:52  #Trading Economics #Markets #other #currency #Importance 0
+
+XRP /USD traded above 1 — The Xrp exchange rate rose above 1 US Dollars in the foreign exchange interbank market.
+
+---
+
+### 2026-08-11 23:19:34  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Dow
+
+New York Fed quarterly report shows U.S. household loan delinquencies have eased.
+
+---
+
+### 2026-08-11 23:19:31  #國際
+
+負責美國貿易關係的加拿大部長將於週二與美國貿易代表格里爾會面。
+
+---
+
+### 2026-08-11 23:19:14  #其他
+
+【南非西北省一礦區塌方致14人死亡】南非西北省警方11日釋出宣告說，勒斯滕堡附近一處礦區發生塌方事故，造成14名非法採礦人員死亡、8人受傷。
+
+---
+
+### 2026-08-11 23:17:55  #國際
+
+英國外交大臣：已向以色列外長強調，必須停止約旦河西岸的暴力行為，並解除對加沙援助的封鎖。
+
+---
+
+### 2026-08-11 23:17:48  #其他
+
+葉門政府軍：胡塞武裝今日連續發動襲擊，動用了10枚導彈和4架無人機，目標為西海岸多處據點。
+
+---
+
+### 2026-08-11 23:15:31  #央行 #國際
+
+俄羅斯央行維持2026年底結構性流動性赤字預測，為2.4-3.6萬億盧布。
+
+---
+
+### 2026-08-11 23:15:26  #央行 #國際
+
+俄羅斯央行預計，2026年銀行在央行拍賣中的流動性需求將達到6-7.2萬億盧布。
+
+---
+
+### 2026-08-11 23:12:20  #其他
+
+利比亞政府經濟部：2026年上半年石油出口收入達178.63億美元。
+
+---
+
+### 2026-08-11 23:09:56  #Trading Economics #Economy #United States #Debt Balance Total #Importance 1
+
+US Household Debt Falls in Q2 — Total household debt in the US decreased by $13 billion from the prior quarter to $18.794 trillion in Q2 2026. Mortgage balances declined by $74 billion to $13.1 trillion at the end of June, and student loan balances decreased by $7 billion to $1.65 trillion. Meanwhile, home equity lines of credit (HELOC) balances rose by $13 billion to $459 billion, credit card balances rose by $21 billion to $1.26 trillion, and auto loan balances increased by $28 billion to $1.71 trillion. “Delinquency rates across most products have held steady over the past two years,” said Joelle Scally, Economic Policy Advisor at the New York Fed. “Still, new delinquencies for auto loans and credit cards remain at elevated levels, a trend we’ll continue to monitor.”
+
+---
+
+### 2026-08-11 23:09:23  #Trading Economics #Markets #commodity #Importance 0
+
+Corn Hits 4-week Low — Corn decreased to 434.00 USd/BU, the lowest since July 2026. Over the past 4 weeks, Corn lost 1.48%, and in the last 12 months, it increased 16.95%.
+
+---
+
+### 2026-08-11 23:08:23  #國際
+
+市場資訊：特朗普及其身邊人士擔憂，伊朗戰爭若持續佔據新聞頭條，他的歷史功績就越有可能遭受長期損害，甚至會被拿來與前總統吉米·卡特作對比。
+
+---
+
+### 2026-08-11 23:07:07  #國際
+
+伊朗總統對六名高階官員就任關鍵崗位表示祝賀，強調武裝部隊內部需加強協作，並發展國防與技術實力。
+
+---
+
+### 2026-08-11 23:06:40  #國際
+
+葉門安全訊息人士：在胡塞武裝襲擊船隻造成三人死亡後，伊朗革命衛隊軍官正在監督胡塞武裝在葉門不斷升級的軍事行動。
+
+---
+
+### 2026-08-11 23:05:57  #國際
+
+伊朗外交部：由於美國持續採取敵對行動，已無法斷言霍爾木茲海峽已恢復安全。
+
+---
+
+### 2026-08-11 23:04:15  #公司
+
+【波音7月交付53架飛機，2026年累計交付367架】波音7月交付53架飛機，其中包含39架737 MAX客機以及10架787夢想客機。該公司本月還交付1架777貨機與3架767飛機。波音7月錄得43架淨訂單，彰顯其商用飛機持續獲得市場需求。計入7月交付量，波音2026年截至目前累計交付飛機367架。
 
 ---
 
@@ -19311,125 +19413,5 @@ HASSETT said the case involving Fed governor Cook is a legal matter and he has n
 ### 2026-08-10 19:45:06  #其他
 
 白宮國家經濟委員會主任哈塞特：希望莉薩・庫克確實是清白的。
-
----
-
-### 2026-08-10 19:44:44  #央行 #國際
-
-白宮國家經濟委員會主任哈塞特：我接替莉薩・庫克進入美聯儲委員會一事 “不會發生”。
-
----
-
-### 2026-08-10 19:44:38  #MKT News
-
-White House National Economic Council Director HASSETT said the U.S. government is carefully studying AI safety issues.
-
----
-
-### 2026-08-10 19:44:26  #公司
-
-【申科股份：2026年上半年營收1.56億元 淨利潤同比增197.51%】申科股份公告稱，2026年上半年營收1.56億元，同比增長11.49%；歸屬於上市公司股東的淨利潤978.99萬元，同比增長197.51%；扣除非經常性損益的淨利潤926.49萬元，同比增長354.39%。經營活動產生的現金流量淨額-5033.17萬元，同比下降50.47%。報告期末總資產7.29億元，較上年度末增長9.94%；歸屬於上市公司股東的淨資產3.55億元，較上年度末下降16.47%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 19:44:08  #MKT News #INTC.O
-
-Intel (INTC.O) said the offering is intended to support the company's growth.
-
----
-
-### 2026-08-10 19:44:03  #其他
-
-白宮國家經濟委員會主任哈塞特：政府正在審慎研究人工智慧安全相關問題。
-
----
-
-### 2026-08-10 19:43:50  #MKT News #Market Themes #AI Revolution
-
-HASSETT, director of the White House National Economic Council, said AI may be the most important policy issue over the next two years.
-
----
-
-### 2026-08-10 19:43:43  #其他
-
-白宮國家經濟委員會主任哈塞特：工智慧或許是未來兩年最重要的政策議題。
-
----
-
-### 2026-08-10 19:43:29  #其他
-
-英特爾：人工智慧領域的進展帶來重大增長機遇。
-
----
-
-### 2026-08-10 19:43:18  #MKT News #INTC.O #Impact bullish
-
-Intel (INTC.O): Progress in artificial intelligence represents a significant growth opportunity.
-
----
-
-### 2026-08-10 19:43:11  #MKT News #Market Themes #AI Revolution #INTC.O #Impact bullish
-
-Intel (INTC.O) said it has invested unprecedented amounts in AI computing.
-
----
-
-### 2026-08-10 19:42:50  #其他
-
-英特爾稱人工智慧算力領域迎來空前規模投資。
-
----
-
-### 2026-08-10 19:42:44  #其他
-
-【玉溪一交通事故致3人死亡，雲南省安委會掛牌督辦】近日，雲南省安全生產委員會發布較大生產安全事故查處掛牌督辦通知書（雲安事故督辦〔2026〕13號）。通知書指出，2026年8月2日，玉溪市紅塔區發生一起涉十二類車輛的道路交通事故，造成3人死亡。根據《較大事故查處掛牌督辦辦法》，省安委會決定對該起事故查處進行掛牌督辦。
-
----
-
-### 2026-08-10 19:42:30  #國際
-
-【颱風“燦鴻”向日本東部沿海靠近 “琵鷺”未來對我國無影響】據中央氣象臺訊息，今年第15號颱風“燦鴻”（熱帶風暴級）的中心今天（8月10日）下午5點位於日本東京偏東方向約780公里的洋麵上（北緯35.1度、東經148.3度），中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為200-400公里。預計，“燦鴻”將以每小時25-30公里的速度向西偏北方向移動，強度變化不大，逐漸向日本東部沿海靠近。此外，今年第16號颱風“琵鷺”（熱帶風暴級）的中心今天下午5點位於美國塞班島東北方向約920公里的洋麵上（北緯21.4度、東經151.6度），中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑為160-180公里。預計，“琵鷺”將以每小時30-35公里的速度向東偏北方向快速移動，強度變化不大。未來“琵鷺”對我國無影響。（央視新聞）
-
----
-
-### 2026-08-10 19:42:20  #MKT News #INTC.O #Impact bearish
-
-Intel (INTC.O) shares fell about 3% in premarket trading after the company announced a planned $15 billion common stock offering.
-
----
-
-### 2026-08-10 19:42:18  #國際
-
-印度儲備銀行：截至7月31日，印度廣義貨幣供應量<INM3MS=ECI>同比增長14.7%。
-
----
-
-### 2026-08-10 19:42:09  #公司
-
-【杉杉股份：控股股東上層股權結構變更完成 海螺集團成間接控股股東】杉杉股份公告稱，2026年1月29日，海螺集團、皖維集團等簽署相關協議，海螺集團擬現金增資49.78億元獲皖維集團60%股權，省投資集團、省國控集團擬無償劃轉各獲20%股權。7月20日，公司控股股東變更為皖維集團，實控人變為安徽省國資委。近日，皖維集團完成工商變更登記，海螺集團成為公司間接控股股東，實控人不變，未對公司日常經營產生實質影響。
-
----
-
-### 2026-08-10 19:42:01  #其他
-
-英特爾：本次發行包含 22.5 億美元承銷商超額配售選擇權。
-
----
-
-### 2026-08-10 19:41:55  #其他
-
-投資研究機構ARGUS RESEARCH將閃迪評級上調至“買入”。
-
----
-
-### 2026-08-10 19:41:46  #市場
-
-英特爾股價盤前跌幅擴大至3%。
-
----
-
-### 2026-08-10 19:41:43  #MKT News
-
-【Typhoon Canhong moving toward Japan’s east coast; Typhoon Pilu not expected to affect China】China’s Central Meteorological Observatory: at 17:00 Beijing time on Aug 10 Typhoon Canhong’s centre was about 780 km east of Tokyo (35.1°N, 148.3°E). Maximum winds near the centre 18 m/s, central pressure 998 hPa; radius of force‑7 winds 200–400 km. Canhong is moving west‑northwest at 25–30 km/h with little change in intensity, gradually approaching Japan’s eastern coast. At 17:00 Beijing time on Aug 10 Typhoon Pilu’s centre was about 920 km northeast of Saipan (21.4°N, 151.6°E). Maximum winds near the centre 20 m/s, central pressure 995 hPa; radius of force‑7 winds 160–180 km. Pilu is moving east‑northeast at 30–35 km/h with little change in intensity and is not expected to affect China.
 
 ---

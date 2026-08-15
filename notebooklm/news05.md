@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:33:52_
-_本檔包含 2743 則快訊，約 604702 字_
+_更新時間：2026-08-15 22:54:06_
+_本檔包含 2746 則快訊，約 605176 字_
+
+---
+
+### 2026-08-10 19:44:44  #央行 #國際
+
+白宮國家經濟委員會主任哈塞特：我接替莉薩・庫克進入美聯儲委員會一事 “不會發生”。
+
+---
+
+### 2026-08-10 19:44:38  #MKT News
+
+White House National Economic Council Director HASSETT said the U.S. government is carefully studying AI safety issues.
+
+---
+
+### 2026-08-10 19:44:26  #公司
+
+【申科股份：2026年上半年營收1.56億元 淨利潤同比增197.51%】申科股份公告稱，2026年上半年營收1.56億元，同比增長11.49%；歸屬於上市公司股東的淨利潤978.99萬元，同比增長197.51%；扣除非經常性損益的淨利潤926.49萬元，同比增長354.39%。經營活動產生的現金流量淨額-5033.17萬元，同比下降50.47%。報告期末總資產7.29億元，較上年度末增長9.94%；歸屬於上市公司股東的淨資產3.55億元，較上年度末下降16.47%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-10 19:44:08  #MKT News #INTC.O
+
+Intel (INTC.O) said the offering is intended to support the company's growth.
+
+---
+
+### 2026-08-10 19:44:03  #其他
+
+白宮國家經濟委員會主任哈塞特：政府正在審慎研究人工智慧安全相關問題。
+
+---
+
+### 2026-08-10 19:43:50  #MKT News #Market Themes #AI Revolution
+
+HASSETT, director of the White House National Economic Council, said AI may be the most important policy issue over the next two years.
+
+---
+
+### 2026-08-10 19:43:43  #其他
+
+白宮國家經濟委員會主任哈塞特：工智慧或許是未來兩年最重要的政策議題。
+
+---
+
+### 2026-08-10 19:43:29  #其他
+
+英特爾：人工智慧領域的進展帶來重大增長機遇。
+
+---
+
+### 2026-08-10 19:43:18  #MKT News #INTC.O #Impact bullish
+
+Intel (INTC.O): Progress in artificial intelligence represents a significant growth opportunity.
+
+---
+
+### 2026-08-10 19:43:11  #MKT News #Market Themes #AI Revolution #INTC.O #Impact bullish
+
+Intel (INTC.O) said it has invested unprecedented amounts in AI computing.
+
+---
+
+### 2026-08-10 19:42:50  #其他
+
+英特爾稱人工智慧算力領域迎來空前規模投資。
+
+---
+
+### 2026-08-10 19:42:44  #其他
+
+【玉溪一交通事故致3人死亡，雲南省安委會掛牌督辦】近日，雲南省安全生產委員會發布較大生產安全事故查處掛牌督辦通知書（雲安事故督辦〔2026〕13號）。通知書指出，2026年8月2日，玉溪市紅塔區發生一起涉十二類車輛的道路交通事故，造成3人死亡。根據《較大事故查處掛牌督辦辦法》，省安委會決定對該起事故查處進行掛牌督辦。
+
+---
+
+### 2026-08-10 19:42:30  #國際
+
+【颱風“燦鴻”向日本東部沿海靠近 “琵鷺”未來對我國無影響】據中央氣象臺訊息，今年第15號颱風“燦鴻”（熱帶風暴級）的中心今天（8月10日）下午5點位於日本東京偏東方向約780公里的洋麵上（北緯35.1度、東經148.3度），中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為200-400公里。預計，“燦鴻”將以每小時25-30公里的速度向西偏北方向移動，強度變化不大，逐漸向日本東部沿海靠近。此外，今年第16號颱風“琵鷺”（熱帶風暴級）的中心今天下午5點位於美國塞班島東北方向約920公里的洋麵上（北緯21.4度、東經151.6度），中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑為160-180公里。預計，“琵鷺”將以每小時30-35公里的速度向東偏北方向快速移動，強度變化不大。未來“琵鷺”對我國無影響。（央視新聞）
+
+---
+
+### 2026-08-10 19:42:20  #MKT News #INTC.O #Impact bearish
+
+Intel (INTC.O) shares fell about 3% in premarket trading after the company announced a planned $15 billion common stock offering.
+
+---
+
+### 2026-08-10 19:42:18  #國際
+
+印度儲備銀行：截至7月31日，印度廣義貨幣供應量<INM3MS=ECI>同比增長14.7%。
+
+---
+
+### 2026-08-10 19:42:09  #公司
+
+【杉杉股份：控股股東上層股權結構變更完成 海螺集團成間接控股股東】杉杉股份公告稱，2026年1月29日，海螺集團、皖維集團等簽署相關協議，海螺集團擬現金增資49.78億元獲皖維集團60%股權，省投資集團、省國控集團擬無償劃轉各獲20%股權。7月20日，公司控股股東變更為皖維集團，實控人變為安徽省國資委。近日，皖維集團完成工商變更登記，海螺集團成為公司間接控股股東，實控人不變，未對公司日常經營產生實質影響。
+
+---
+
+### 2026-08-10 19:42:01  #其他
+
+英特爾：本次發行包含 22.5 億美元承銷商超額配售選擇權。
+
+---
+
+### 2026-08-10 19:41:55  #其他
+
+投資研究機構ARGUS RESEARCH將閃迪評級上調至“買入”。
+
+---
+
+### 2026-08-10 19:41:46  #市場
+
+英特爾股價盤前跌幅擴大至3%。
+
+---
+
+### 2026-08-10 19:41:43  #MKT News
+
+【Typhoon Canhong moving toward Japan’s east coast; Typhoon Pilu not expected to affect China】China’s Central Meteorological Observatory: at 17:00 Beijing time on Aug 10 Typhoon Canhong’s centre was about 780 km east of Tokyo (35.1°N, 148.3°E). Maximum winds near the centre 18 m/s, central pressure 998 hPa; radius of force‑7 winds 200–400 km. Canhong is moving west‑northwest at 25–30 km/h with little change in intensity, gradually approaching Japan’s eastern coast. At 17:00 Beijing time on Aug 10 Typhoon Pilu’s centre was about 920 km northeast of Saipan (21.4°N, 151.6°E). Maximum winds near the centre 20 m/s, central pressure 995 hPa; radius of force‑7 winds 160–180 km. Pilu is moving east‑northeast at 30–35 km/h with little change in intensity and is not expected to affect China.
 
 ---
 
@@ -16459,107 +16579,5 @@ Iranian President PEZESHKIAN said problems cannot be solved by war alone and ple
 ### 2026-08-08 22:54:49  #國際
 
 美國副總統萬斯：伊朗已通知美國將允許最大流量的石油透過海峽，但我們不信任他們。
-
----
-
-### 2026-08-08 22:53:24  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance said Iran has notified the U.S. it will allow maximum oil flow through the strait, but we do not trust them.
-
----
-
-### 2026-08-08 22:52:35  #MKT News
-
-U.S. Vice President Vance said the U.S. will continue to apply pressure on Iran.
-
----
-
-### 2026-08-08 22:52:29  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance said the U.S. is working to establish a secure transit corridor to allow vessels safe passage through the Strait of Hormuz.
-
----
-
-### 2026-08-08 22:51:11  #國際
-
-市場訊息：美國副總統萬斯表示，伊朗已通知美國，儘管政權內部人士發表了將對霍爾木茲海峽徵收過境費的宣告，但伊朗不會徵收此類費用。
-
----
-
-### 2026-08-08 22:49:27  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said the U.S. has significantly degraded Iran's asymmetric military capabilities.
-
----
-
-### 2026-08-08 22:47:30  #其他
-
-【鍾睒睒：感性消費被線上購物平臺扼殺，必須限制平臺能力】8月8日訊息，今日，農夫山泉創始人、董事長鍾睒睒做客央視財經《對話》直播節目。直播中，談及目前在生活中普及的電商平臺，鍾睒睒表示，平臺是一種特殊的中間商，“這個中間商無處不在，把城市的很多零售商都‘殺’光了。”他說。他認為，城市中的許多店鋪是根據感性來消費的，但目前這種消費已經被扼殺。“把年輕人都吸引到手機螢幕裡，創造性和感性在哪裡？”因此，他表示必須限制平臺的能力。
-
----
-
-### 2026-08-08 22:45:20  #其他
-
-葉門武裝部隊發言人表示，已對胡塞武裝及其附屬“民兵組織”展開軍事行動。
-
----
-
-### 2026-08-08 22:45:17  #MKT News
-
-Yemen's armed forces spokesman said forces launched operations against Houthi fighters and affiliated militias.
-
----
-
-### 2026-08-08 22:44:06  #MKT News #WTI #Impact bearish #Brent
-
-Fox News reported US Vice President Vance said Iran has notified the US that, despite statements by regime insiders about imposing transit fees on passage through the Strait of Hormuz, Tehran will not impose such fees.
-
----
-
-### 2026-08-08 22:43:00  #其他
-
-加拿大強調不會接受零敲碎打的協議。
-
----
-
-### 2026-08-08 22:42:50  #國際
-
-市場訊息：加拿大希望在兩週內阻止美國計劃實施的50%關稅。
-
----
-
-### 2026-08-08 22:42:40  #MKT News #WTI #Impact bearish #Brent
-
-Iranian media reported President Pezeshkian said now is the best time to reach an agreement, saying Iran is "strong and united" and "seen as a victor in war."
-
----
-
-### 2026-08-08 22:41:49  #國際
-
-伊朗媒體報道，伊朗總統佩澤什基揚稱，當前是達成協議的最佳時機，因為伊朗“強大團結，且在戰爭中被視為勝利方”。
-
----
-
-### 2026-08-08 22:41:39  #國際
-
-市場訊息：加拿大要求與美國達成一項全面協議。
-
----
-
-### 2026-08-08 22:41:08  #國際
-
-市場訊息：有報道稱加拿大在貿易談判中向美國做出了讓步。
-
----
-
-### 2026-08-08 22:40:34  #國際
-
-市場訊息：保加利亞方面稱，羅馬尼亞邊境附近出現的無人機大機率來自烏克蘭。
-
----
-
-### 2026-08-08 22:39:54  #MKT News #Brent #Impact bullish #XAUUSD
-
-【Analyst: War with Iran risks US credibility, could push Gulf states into alternative defence pacts】Former US State Department official Marlin Hardinger said one cost the United States would pay in a war with Iran is a loss of credibility. He noted Saudi Arabia, Turkey and Pakistan have just signed a defence agreement, which Washington has long feared: if Middle Eastern states no longer view the US as a reliable security partner or unwilling to intervene and provide protection, Gulf states can form their own alliance. In the near term such an alliance could help address urgent defence needs versus Iran; over the longer term it could begin to erode US dominance in the Gulf, a shift Hardinger warned would be negative for both Gulf countries and the United States in coming years.
 
 ---

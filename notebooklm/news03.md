@@ -1,7 +1,95 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:33:52_
-_本檔包含 3136 則快訊，約 605173 字_
+_更新時間：2026-08-15 22:54:06_
+_本檔包含 3132 則快訊，約 605195 字_
+
+---
+
+### 2026-08-13 07:01:08  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK three-month RICS house price balance for July -30, vs -31 expected; prior revised to -32 from -33.
+
+---
+
+### 2026-08-13 07:01:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | RICS House Price Balance (Jul) | actual -30 | consensus -31 | previous -33.00
+
+---
+
+### 2026-08-13 07:00:59  #國際
+
+路透調查顯示，日本五分之四的企業將本土投資置於海外投資之上。
+
+---
+
+### 2026-08-13 07:00:56  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bullish
+
+REUTERS SURVEY: More than half of Japanese companies plan to increase AI budgets in the near term; 31% remain undecided.
+
+---
+
+### 2026-08-13 07:00:46  #國際
+
+【巴西總統顧問批評美國政府釋出“門羅主義”影片】巴西總統首席特別顧問阿莫林12日批評美國政府釋出影片宣稱在拉丁美洲擁有“主導地位”，指出美國近期種種舉動表明其正企圖干涉包括巴西在內的拉美國家主權。 阿莫林當日在巴西聯邦眾議院一場會議上表示，美國正企圖讓拉丁美洲服從其利益，“任何看過那段影片的人都會明白，他們正試圖削弱拉美各國主權，當然也包括巴西”。 阿莫林指出，美國近期對巴西採取大幅加徵關稅等措施具有政治動機。他援引巴西總統盧拉的表態重申，巴西不會接受美國採取單邊措施削弱巴西主權或對巴施加經濟脅迫。（新華社）
+
+---
+
+### 2026-08-13 06:58:56  #MKT News
+
+Brazil's Senate approved a bill to establish a new spending-control mechanism; the bill text will be sent to the president for approval.
+
+---
+
+### 2026-08-13 06:58:09  #其他
+
+巴西參議院已透過設定全新支出管控機制的法案，法案文字現已提交總統批准生效。
+
+---
+
+### 2026-08-13 06:57:34  #其他
+
+星鏈：星鏈高速低延遲網際網路現已在越南上線。
+
+---
+
+### 2026-08-13 06:51:14  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Tracks Wall Street Higher — New Zealand's stocks advanced 33 points, or 0.2%, to 13,771 in Thursday morning deals, halting losses from the previous two sessions, tracking a rise on Wall Street overnight as moderated inflation eased expectations of the Fed's tightening monetary policy decision at its upcoming meeting. The broader index moved from its lowest level since August 3, recorded a day earlier, mainly supported by gains from real estate, financials, materials, and energy. However, traders continued to monitor developments in the Middle East amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the release of the RBNZ's business inflation expectations for Q3 later today, after accelerating slightly in Q2. Among early gainers were Port of Tauranga (1.5%), Ebos Group (0.6%), South Port NZ (0.5%), Meridian Energy (0.5%), Freightways Group (0.4%), Infratil (0.4%), Chorus (0.4%), Mainfreight (0.3%), and Contact Energy (0.3%).
+
+---
+
+### 2026-08-13 06:50:36  #公司 #資料 #央行 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】 
+① 07:01 英國至7月三個月RICS房價指數；
+② 07:30 日本7月國內企業商品物價指數；
+③ 08:15 澳洲聯儲助理主席肯特參加一場爐邊談話；
+④ 14:00 英國第二季度GDP初值、6月GDP、6月工業產出、6月商品貿易帳；
+⑤ 17:00 歐元區6月工業產出；
+⑥ 20:00 京東二季度財報電話會；
+⑦ 20:15 美國2026年FOMC票委、克利夫蘭聯儲主席哈瑪克發表講話；
+⑧ 20:30 美國7月PPI、美國8月8日當週首次申請失業救濟人數；
+⑨ 20:40 美國2027年FOMC票委、里士滿主席巴爾金就經濟前景發表講話；
+⑩ 22:30 美國至8月7日當週EIA天然氣庫存。
+
+---
+
+### 2026-08-13 06:49:39  #其他
+
+【哥倫比亞地震已致265人遇難】哥倫比亞總統當地時間8月12日下午在記者會上證實，地震已造成265人遇難，目前仍有496人失蹤。
+
+---
+
+### 2026-08-13 06:45:35  #市場
+
+淡水河谷預計，該（CPF）專案將使薩洛博工廠的年鐵礦石加工產能新增600萬公噸。
+
+---
+
+### 2026-08-13 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Drops by 1.12% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.12% decrease.
 
 ---
 
@@ -18824,107 +18912,5 @@ Kenya Leaves Interest Rate Unchanged for 3rd Meeting — The Central Bank of Ken
 ### 2026-08-11 23:23:44  #公司 #市場
 
 【芝商所將在紐約商品交易所上市H100和B200租賃指數期貨】芝加哥商品交易所集團（CME GROUP）和矽谷資料公司（SILICON DATA）將於10月5日推出算力期貨。新合同將在芝加哥商品交易所上市，並受紐約商品交易所規則的約束，等待監管部門的批准。芝商所將在紐約商品交易所上市H100和B200租賃指數期貨，這兩份合約將跟蹤衡量每小時GPU租賃成本的指數。
-
----
-
-### 2026-08-11 23:20:58  #MKT News
-
-【Baltic Dry Index hits five-day low as capesize demand weakens】BDI fell 37 pts (1.2%) to 3,046, a five-day low, as capesize and supramax rates retreated, offsetting a tenth consecutive daily rise in panamax rates. The capesize index (BCI) dropped 104 pts (2.04%) to 5,001; capesize average daily earnings fell $941 to $41,856. The panamax index (BPI) rose 6 pts (0.26%) to 2,312, its highest since June 2 and marking a 10th straight gain; panamax daily earnings increased $58 to $20,813. The supramax index (BSI) slid 3 pts (0.19%) to 1,600, the lowest since June 8.
-
----
-
-### 2026-08-11 23:20:52  #Trading Economics #Markets #other #currency #Importance 0
-
-XRP /USD traded above 1 — The Xrp exchange rate rose above 1 US Dollars in the foreign exchange interbank market.
-
----
-
-### 2026-08-11 23:19:34  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Dow
-
-New York Fed quarterly report shows U.S. household loan delinquencies have eased.
-
----
-
-### 2026-08-11 23:19:31  #國際
-
-負責美國貿易關係的加拿大部長將於週二與美國貿易代表格里爾會面。
-
----
-
-### 2026-08-11 23:19:14  #其他
-
-【南非西北省一礦區塌方致14人死亡】南非西北省警方11日釋出宣告說，勒斯滕堡附近一處礦區發生塌方事故，造成14名非法採礦人員死亡、8人受傷。
-
----
-
-### 2026-08-11 23:17:55  #國際
-
-英國外交大臣：已向以色列外長強調，必須停止約旦河西岸的暴力行為，並解除對加沙援助的封鎖。
-
----
-
-### 2026-08-11 23:17:48  #其他
-
-葉門政府軍：胡塞武裝今日連續發動襲擊，動用了10枚導彈和4架無人機，目標為西海岸多處據點。
-
----
-
-### 2026-08-11 23:15:31  #央行 #國際
-
-俄羅斯央行維持2026年底結構性流動性赤字預測，為2.4-3.6萬億盧布。
-
----
-
-### 2026-08-11 23:15:26  #央行 #國際
-
-俄羅斯央行預計，2026年銀行在央行拍賣中的流動性需求將達到6-7.2萬億盧布。
-
----
-
-### 2026-08-11 23:12:20  #其他
-
-利比亞政府經濟部：2026年上半年石油出口收入達178.63億美元。
-
----
-
-### 2026-08-11 23:09:56  #Trading Economics #Economy #United States #Debt Balance Total #Importance 1
-
-US Household Debt Falls in Q2 — Total household debt in the US decreased by $13 billion from the prior quarter to $18.794 trillion in Q2 2026. Mortgage balances declined by $74 billion to $13.1 trillion at the end of June, and student loan balances decreased by $7 billion to $1.65 trillion. Meanwhile, home equity lines of credit (HELOC) balances rose by $13 billion to $459 billion, credit card balances rose by $21 billion to $1.26 trillion, and auto loan balances increased by $28 billion to $1.71 trillion. “Delinquency rates across most products have held steady over the past two years,” said Joelle Scally, Economic Policy Advisor at the New York Fed. “Still, new delinquencies for auto loans and credit cards remain at elevated levels, a trend we’ll continue to monitor.”
-
----
-
-### 2026-08-11 23:09:23  #Trading Economics #Markets #commodity #Importance 0
-
-Corn Hits 4-week Low — Corn decreased to 434.00 USd/BU, the lowest since July 2026. Over the past 4 weeks, Corn lost 1.48%, and in the last 12 months, it increased 16.95%.
-
----
-
-### 2026-08-11 23:08:23  #國際
-
-市場資訊：特朗普及其身邊人士擔憂，伊朗戰爭若持續佔據新聞頭條，他的歷史功績就越有可能遭受長期損害，甚至會被拿來與前總統吉米·卡特作對比。
-
----
-
-### 2026-08-11 23:07:07  #國際
-
-伊朗總統對六名高階官員就任關鍵崗位表示祝賀，強調武裝部隊內部需加強協作，並發展國防與技術實力。
-
----
-
-### 2026-08-11 23:06:40  #國際
-
-葉門安全訊息人士：在胡塞武裝襲擊船隻造成三人死亡後，伊朗革命衛隊軍官正在監督胡塞武裝在葉門不斷升級的軍事行動。
-
----
-
-### 2026-08-11 23:05:57  #國際
-
-伊朗外交部：由於美國持續採取敵對行動，已無法斷言霍爾木茲海峽已恢復安全。
-
----
-
-### 2026-08-11 23:04:15  #公司
-
-【波音7月交付53架飛機，2026年累計交付367架】波音7月交付53架飛機，其中包含39架737 MAX客機以及10架787夢想客機。該公司本月還交付1架777貨機與3架767飛機。波音7月錄得43架淨訂單，彰顯其商用飛機持續獲得市場需求。計入7月交付量，波音2026年截至目前累計交付飛機367架。
 
 ---

@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:33:52_
-_本檔包含 3107 則快訊，約 605079 字_
+_更新時間：2026-08-15 22:54:06_
+_本檔包含 3104 則快訊，約 604590 字_
+
+---
+
+### 2026-08-14 08:20:05  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.4%，英國富時指數期貨上漲0.4%。
+
+---
+
+### 2026-08-14 08:18:57  #MKT News
+
+South Korea's KOSPI intraday gain narrowed to 2.00%.
+
+---
+
+### 2026-08-14 08:18:15  #公司 #市場 #國際
+
+【韓國綜合股價指數連續第五個交易日上漲 跟隨美國股市漲勢】受美國晶片股上漲的帶動，韓國綜合股價指數（KOSPI）一度上漲2.9%，短暫突破7000點大關。SK海力士股價上漲超過6%，帶動股指走高，三星電子和SK Square也緊隨其後上漲。外國基金在早盤交易中買入KOSPI股票，而本地基金則賣出。該基準指數本週已上漲超過11%。韓國創業板小盤股指數上漲幅度高達2%。
+
+---
+
+### 2026-08-14 08:17:44  #MKT News #Market Themes #Chip Wars #9984.T #Impact bullish #6857.T
+
+Japanese chip-related stocks surged; Kioxia rose 6.9%, SoftBank Group gained 6.2% and Advantest rose 6.5%.
+
+---
+
+### 2026-08-14 08:17:30  #公司 #國際
+
+美股無人機概念股Unusual Machines夜盤漲超8%，Ondas漲超2%。美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。
+
+---
+
+### 2026-08-14 08:17:12  #MKT News #Macro & Rates #USDJPY #Impact bearish
+
+【Former senior Japanese FX diplomat, ex-IMF deputy says yen intervention could recur; Bank of Japan likely to hike in September】A former senior Japanese foreign-exchange diplomat and ex-IMF deputy managing director said the yen is noticeably weak and rising import costs are damaging the economy. He warned that if the yen returns to levels seen before last month’s coordinated intervention, Japan and the US could jointly intervene in the FX market again at any time, and any action would not be tied to specific levels such as JPY160 or JPY162. He said intervention only buys time; the fundamental remedy is faster Bank of Japan tightening. He expects a BoJ hike in September, a follow-up in December or January, and a terminal policy rate around 1.5–1.75% based on a neutral rate estimate of 1.1–2.5%. Further hikes could follow in the fiscal year starting April 2027 if growth persists.
+
+---
+
+### 2026-08-14 08:14:07  #公司 #市場 #央行 #國際
+
+【日經指數上漲1.8% 電子和科技股領漲】隨著對美聯儲可能加息的擔憂緩解，日本股市在早盤交易中走高。電子和科技股領漲。松下控股上漲4.5%，軟銀集團上漲6%。美元報159.46日元，週四東京股市收盤時為159.39日元。投資者正密切關注伊朗衝突的任何進展以及原油價格。日經指數上漲1.8%，報69,523.56點。
+
+---
+
+### 2026-08-14 08:13:05  #公司 #市場 #國際
+
+日本晶片相關股大幅上漲， 鎧俠股價上漲6.9%，軟銀集團上漲6.2%，愛德萬測試上漲6.5%。
+
+---
+
+### 2026-08-14 08:11:51  #公司
+
+【沈曉明走訪調研藍思科技股份有限公司】據湖南日報，8月13日，湖南省委書記沈曉明在長沙走訪調研藍思科技股份有限公司，瞭解企業規劃佈局，面對面聽取意見建議。他指出，要加強產業鏈協同，構建創新聯合體，著力打造更具競爭力的產業叢集，為推動湖南高質量發展作出更大貢獻。
+
+---
+
+### 2026-08-14 08:11:48  #其他
+
+【阿里雲縮短工期，100天造一座資料中心】8月12日，阿里雲靈駿真武M890超節點例項正式上線。首發地，就選在烏蘭察布。記者深入烏蘭察布，現場走訪了阿里巴巴資料中心。其作為阿里雲五大超級資料中心之一，綠電佔比約90%，可為高密度算力提供更低碳的執行環境。記者獲悉，在當地，阿里雲透過全模組化設計架構，已將大型AIDC資料中心的交付工期，縮短至100天。（21財經）
 
 ---
 
@@ -18657,93 +18717,5 @@ REUTERS SURVEY shows 75% of Japanese firms prioritize domestic over overseas inv
 ### 2026-08-13 07:01:11  #MKT News
 
 A Reuters survey shows over 80% of Japanese firms only partially use, or do not use, artificial intelligence (AI).
-
----
-
-### 2026-08-13 07:01:08  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-UK three-month RICS house price balance for July -30, vs -31 expected; prior revised to -32 from -33.
-
----
-
-### 2026-08-13 07:01:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | RICS House Price Balance (Jul) | actual -30 | consensus -31 | previous -33.00
-
----
-
-### 2026-08-13 07:00:59  #國際
-
-路透調查顯示，日本五分之四的企業將本土投資置於海外投資之上。
-
----
-
-### 2026-08-13 07:00:56  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bullish
-
-REUTERS SURVEY: More than half of Japanese companies plan to increase AI budgets in the near term; 31% remain undecided.
-
----
-
-### 2026-08-13 07:00:46  #國際
-
-【巴西總統顧問批評美國政府釋出“門羅主義”影片】巴西總統首席特別顧問阿莫林12日批評美國政府釋出影片宣稱在拉丁美洲擁有“主導地位”，指出美國近期種種舉動表明其正企圖干涉包括巴西在內的拉美國家主權。 阿莫林當日在巴西聯邦眾議院一場會議上表示，美國正企圖讓拉丁美洲服從其利益，“任何看過那段影片的人都會明白，他們正試圖削弱拉美各國主權，當然也包括巴西”。 阿莫林指出，美國近期對巴西採取大幅加徵關稅等措施具有政治動機。他援引巴西總統盧拉的表態重申，巴西不會接受美國採取單邊措施削弱巴西主權或對巴施加經濟脅迫。（新華社）
-
----
-
-### 2026-08-13 06:58:56  #MKT News
-
-Brazil's Senate approved a bill to establish a new spending-control mechanism; the bill text will be sent to the president for approval.
-
----
-
-### 2026-08-13 06:58:09  #其他
-
-巴西參議院已透過設定全新支出管控機制的法案，法案文字現已提交總統批准生效。
-
----
-
-### 2026-08-13 06:57:34  #其他
-
-星鏈：星鏈高速低延遲網際網路現已在越南上線。
-
----
-
-### 2026-08-13 06:51:14  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Tracks Wall Street Higher — New Zealand's stocks advanced 33 points, or 0.2%, to 13,771 in Thursday morning deals, halting losses from the previous two sessions, tracking a rise on Wall Street overnight as moderated inflation eased expectations of the Fed's tightening monetary policy decision at its upcoming meeting. The broader index moved from its lowest level since August 3, recorded a day earlier, mainly supported by gains from real estate, financials, materials, and energy. However, traders continued to monitor developments in the Middle East amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the release of the RBNZ's business inflation expectations for Q3 later today, after accelerating slightly in Q2. Among early gainers were Port of Tauranga (1.5%), Ebos Group (0.6%), South Port NZ (0.5%), Meridian Energy (0.5%), Freightways Group (0.4%), Infratil (0.4%), Chorus (0.4%), Mainfreight (0.3%), and Contact Energy (0.3%).
-
----
-
-### 2026-08-13 06:50:36  #公司 #資料 #央行 #國際
-
-【週四重要財經資訊提醒（以下均為北京時間）】 
-① 07:01 英國至7月三個月RICS房價指數；
-② 07:30 日本7月國內企業商品物價指數；
-③ 08:15 澳洲聯儲助理主席肯特參加一場爐邊談話；
-④ 14:00 英國第二季度GDP初值、6月GDP、6月工業產出、6月商品貿易帳；
-⑤ 17:00 歐元區6月工業產出；
-⑥ 20:00 京東二季度財報電話會；
-⑦ 20:15 美國2026年FOMC票委、克利夫蘭聯儲主席哈瑪克發表講話；
-⑧ 20:30 美國7月PPI、美國8月8日當週首次申請失業救濟人數；
-⑨ 20:40 美國2027年FOMC票委、里士滿主席巴爾金就經濟前景發表講話；
-⑩ 22:30 美國至8月7日當週EIA天然氣庫存。
-
----
-
-### 2026-08-13 06:49:39  #其他
-
-【哥倫比亞地震已致265人遇難】哥倫比亞總統當地時間8月12日下午在記者會上證實，地震已造成265人遇難，目前仍有496人失蹤。
-
----
-
-### 2026-08-13 06:45:35  #市場
-
-淡水河谷預計，該（CPF）專案將使薩洛博工廠的年鐵礦石加工產能新增600萬公噸。
-
----
-
-### 2026-08-13 06:45:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Drops by 1.12% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.12% decrease.
 
 ---
