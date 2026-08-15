@@ -1,7 +1,82 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 16:58:10_
-_本檔包含 3163 則快訊，約 605151 字_
+_更新時間：2026-08-15 17:35:20_
+_本檔包含 3156 則快訊，約 605264 字_
+
+---
+
+### 2026-08-14 07:13:55  #國際
+
+【朝鮮外務省：美韓8月聯合軍演本質是侵略戰爭預演 】據朝中社14日報道，朝鮮外務省發言人13日發表談話說，美國和韓國宣佈將於8月17日開始進行2026“乙支自由之盾”大規模聯合軍演，此次軍演本質是侵略戰爭預演。 朝方說，美國公開表示，此次聯合軍演與過去5年的演習截然不同，將把重點放在熟練適應現代戰爭新模式的戰爭執行能力上，這表明軍演目的在於完善同朝鮮實際開展軍事對抗的準備。 朝方認為，此次軍演的挑釁性和危險性遠超去年，對朝鮮的國家安全以及地區的安全環境造成嚴重威脅。 朝方表示，朝鮮將以新遏制力應對新威脅，以堅決的正當防衛徹底粉碎任何挑釁。（新華社）
+
+---
+
+### 2026-08-14 07:12:55  #公司
+
+【紐約州批准了西聯匯款與Intermex的交易】紐約州州長凱茜・霍楚爾於週四釋出宣告稱，西聯匯款在收購國際匯款公司（Intermex）後，承諾繼續為紐約全州各社群提供服務，且交易完成後三年內將對手續費上調設定上限。紐約州金融服務局批准西聯匯款與 Intermex 的併購交易後，西聯達成上述相關協議。霍楚爾表示，完成對 Intermex 的收購後，西聯匯款將掌握紐約州客戶匯往厄瓜多、瓜地馬拉、宏都拉斯、墨西哥、尼加拉瓜以及秘魯的零售匯款業務的大量市場份額。根據與紐約州金融服務局及州總檢察長辦公室達成的協議，未來三年內，西聯匯款不得藉助本次收購 Intermex 之機，削減紐約消費者向上述六國匯款的相關服務。
+
+---
+
+### 2026-08-14 07:12:06  #公司
+
+【“科技成長+週期修復”驅動 龍頭公司半年報亮眼】Wind資料顯示，截至8月13日17時，已有358家A股上市公司披露2026年半年報，其中超七成公司實現營業收入和歸母淨利潤的同比增長。在這些公司中，半導體、化工、有色金屬等行業景氣度上行，AI算力產業鏈龍頭公司業績增幅顯著。市場人士認為，上述公司的業績增長整體呈“科技成長+週期修復”雙輪驅動態勢。隨著半年報進入密集披露期，市場邏輯正從估值驅動向盈利驗證切換，科技賽道的龍頭公司業績表現值得關注。（中國證券報）
+
+---
+
+### 2026-08-14 07:11:36  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【UNIFIL continues to monitor Lebanese airspace incursions】On the 13th the UN said the UN Interim Force in Lebanon (UNIFIL) has continued to monitor incursions into Lebanese airspace and Israeli ground military activity in southern Lebanon. Between the 10th and 12th UNIFIL logged 100 airspace violations involving drones and fighter jets and recorded 427 flight tracks, all attributed to the Israeli Defense Forces (IDF). UNIFIL also observed large-scale IDF ground operations within its declared "area of operations", including heavy armor deployments, engineering works, logistics movements, tactical patrols, force concentrations, and instances of tanks and artillery firing.
+
+---
+
+### 2026-08-14 07:11:18  #國際
+
+【聯黎部隊持續監測到黎巴嫩領空遭侵犯事件】當地時間13日，聯合國方面表示，根據聯合國駐黎巴嫩臨時部隊（聯黎部隊）的報告，本週以來，聯黎部隊持續監測到黎巴嫩領空遭侵犯，以及以色列軍方在黎南部的地面軍事活動。在10日至12日期間，維和人員共發現100起黎巴嫩領空遭侵犯事件，涉及無人機和戰鬥機。同一時期，聯黎部隊記錄到427條飛行軌跡，均被認定來自以色列國防軍。此外，本週聯黎部隊持續觀察到以軍在其所謂“任務區”內開展大規模地面軍事活動，包括大規模裝甲部隊部署、工程作業、後勤調動、戰術巡邏以及兵力集結。還觀察到以軍部隊坦克、火炮等在區域內開火。
+
+---
+
+### 2026-08-14 07:10:16  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、上半年生態環境質量持續向好、主要指標明顯改善 新一輪空氣質量持續改善行動方案正抓緊制定（權威釋出·開局起步“十五五”）
+2、江蘇立足製造業基礎開闢新賽道——“老家底”長出新產業（活力中國調研行）
+3、七月末民營企業再貸款餘額約八千億元 金融服務實體經濟質效不斷提升
+4、新能源汽車兩個“首次”突破，意味著什麼（子夜走筆）
+5、《安全應急裝備產業發展“十五五”規劃》印發 到2030年重點領域產業規模達1.4萬億元
+6、中國對所有非洲建交國全面實施零關稅，埃及鮮橙開啟更廣闊市場——一顆鮮橙“兩頭甜”
+7、第二屆世界人形機器人運動會將於8月22日開幕
+8、中泰警方聯合偵破一起跨國信用卡盜刷案
+9、北京三家外賣平臺試點騎手計時“紅燈停表”
+10、安徽強化打擊治理電信網路詐騙
+11、迭代種植技術 拉長產業鏈 實現規模發展 因地制宜，特色產業鋪就富民路（經濟聚焦·老區新產業）
+12、西康高鐵啟動試執行
+13、截至今年6月 我國建成在建可再生能源制氫產能超140萬噸/年
+14、安徽出臺措施加快數智供應鏈發展
+15、中國新能源企業在中東遇見“幸福的煩惱”（環球走筆）。
+
+---
+
+### 2026-08-14 07:10:09  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“加強新時代廉潔文化建設”（總書記的人民情懷）
+2、寧波以科技創新塑造先進製造業新優勢（“十五五”開好局起好步）
+3、李強簽署國務院令 公佈《國務院關於修改和廢止部分行政法規的決定》
+4、伊春林區轉型記
+5、美麗中國建設成效考核怎樣體現群眾滿意程度（政策問答·回應關切）
+6、全國碳排放權交易市場累計成交量超九億噸。
+
+---
+
+### 2026-08-14 07:09:03  #國際
+
+【美國能源部長賴特：美軍護航貨物透過霍爾木茲海峽地區的能力正在增強】美國能源部長克里斯·賴特表示，美軍護航和運輸貨物透過霍爾木茲海峽地區的能力正在增強。賴特在接受媒體時發表了講話。賴特表示，“我們將繼續看到霍爾木茲海峽的石油流量增加”。賴特表示，石油市場面臨的“瓶頸”在於煉油環節，而非原油交付環節。
+
+---
+
+### 2026-08-14 07:08:21  #公司 #國際
+
+【導致讀者流失，存在錯誤風險，法國“綜合新聞聯盟”抗議谷歌“AI摘要”】據法國新聞網11日報道，代表近300家法國媒體的專業組織“綜合新聞聯盟”（APIG）抗議谷歌推出的“AI摘要”功能。該機構已投訴至法國競爭管理局，媒體普遍擔心谷歌這一新服務會分流媒體網站訪問量，進而影響廣告收入。事件起因是谷歌於7月22日在法國推出由人工智慧生成的“AI摘要”功能，該服務在使用者使用搜尋引擎時，透過AI對搜尋結果進行對話式概括。雖然這個功能方便使用者快速知曉搜尋結果，但在APIG看來，這反而會讓使用者放棄繼續點選搜尋頁的網站連結，這顯然會影響媒體網站的流量和廣告收入。APIG援引法國視聽和數字監管局（Arcom）的評估報告認為，一旦谷歌在歐洲市場推出“AI摘要”服務，可能造成33%至38%的流量流失。（環球網）
 
 ---
 
@@ -18964,101 +19039,5 @@ Iran's Persian Gulf Strait Authority said US officials' repeated claims that the
 ### 2026-08-13 03:01:53  #國際
 
 伊朗波斯灣水道管理局：霍爾木茲海峽仍處於封鎖狀態，在伊朗提出的條件得到滿足之前不會重新開放。
-
----
-
-### 2026-08-13 03:00:42  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures closed the night session down 0.35% at 25,320, trading 120 points below the cash index.
-
----
-
-### 2026-08-13 03:00:01  #市場
-
-恒指期貨夜盤收跌0.35%，報25318.72點，低水121.45點。
-
----
-
-### 2026-08-13 02:54:22  #MKT News #PSKY.O #Impact bullish
-
-Paramount (PSKY.O) trading volume surged; shares up 2.61%.
-
----
-
-### 2026-08-13 02:52:08  #MKT News
-
-Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to ensure CNN's independence.
-
----
-
-### 2026-08-13 02:49:03  #其他
-
-市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。
-
----
-
-### 2026-08-13 02:47:11  #MKT News #Commodities #Energy #Brent
-
-Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%.
-
----
-
-### 2026-08-13 02:39:10  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
-
-Paraguay Trade Deficit Widens in July — Paraguay's trade deficit widened to $95.98 million in July 2026 from $89.07 million a year earlier, as imports grew faster than exports. Imports surged 30.6% year-on-year to $2.04 billion, led by increases in purchases of intermediate goods (36.9%), capital goods (36.7%), and consumer goods (18.2%). Meanwhile, exports rose 32% to $1.94 billion. Sales of primary products increased 27.7%, while agricultural manufacturing exports rose 24.2% and industrial manufacturing exports jumped 40.9%.
-
----
-
-### 2026-08-13 02:37:14  #其他
-
-SPACEX股價漲幅擴大至12%，創7月10日以來新高。
-
----
-
-### 2026-08-13 02:32:58  #MKT News
-
-US crude futures settled at $83.27/bbl, up $0.07, or 0.08%.
-
----
-
-### 2026-08-13 02:31:43  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
-
-【Night session main contracts close】As of 02:30 close, SHFE main gold contract rose 0.36% to 959 yuan/gram; SHFE main silver contract rose 0.63% to 16,024 yuan/kg; SC crude oil main contract rose 0.63% to 556 yuan/barrel.
-
----
-
-### 2026-08-13 02:30:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D closed Wednesday evening (Aug 12) up 0.23 pct at 956.01 yuan/gram; Silver T+D closed up 0.23 pct at 15,988.0 yuan/kg.
-
----
-
-### 2026-08-13 02:30:15  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish
-
-【Canada may accept partial U.S. auto tariffs to secure cuts】The Globe and Mail reports Canada is weighing a deal to accept part of U.S. auto tariffs in return for lower duties on vehicles meeting USMCA rules. Under a proposal discussed by negotiators, the value of U.S.-made parts in Canadian-built cars would be excluded from the tariff base, preserving an existing exemption, while Section 232 tariffs imposed by the Trump administration — currently 25% on USMCA-eligible Canadian exports — could be reduced. Canadian cars contain roughly 50% U.S. content; automakers say excluding U.S. content could make a 10–15% tariff tolerable. Talks aim for an agreement by Aug. 19, though Canadian officials expect a temporary pause of the next tariff round is more likely than a full resolution before that date.
-
----
-
-### 2026-08-13 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 1.00% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1% decrease.
-
----
-
-### 2026-08-13 02:30:02  #市場
-
-上期所原油期貨夜盤收漲0.77%，報552.30元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲0.63%。
-
----
-
-### 2026-08-13 02:25:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%).
-
----
-
-### 2026-08-13 02:20:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1.18%), Platinum (0.87%) and Gold (0.86%). Biggest loser is Aluminum Alloy (-0.66%).
 
 ---

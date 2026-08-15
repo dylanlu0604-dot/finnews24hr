@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 16:58:10_
-_本檔包含 3117 則快訊，約 605893 字_
+_更新時間：2026-08-15 17:35:20_
+_本檔包含 3111 則快訊，約 605807 字_
+
+---
+
+### 2026-08-13 03:00:42  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures closed the night session down 0.35% at 25,320, trading 120 points below the cash index.
+
+---
+
+### 2026-08-13 03:00:01  #市場
+
+恒指期貨夜盤收跌0.35%，報25318.72點，低水121.45點。
+
+---
+
+### 2026-08-13 02:54:22  #MKT News #PSKY.O #Impact bullish
+
+Paramount (PSKY.O) trading volume surged; shares up 2.61%.
+
+---
+
+### 2026-08-13 02:52:08  #MKT News
+
+Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to ensure CNN's independence.
+
+---
+
+### 2026-08-13 02:49:03  #其他
+
+市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。
+
+---
+
+### 2026-08-13 02:47:11  #MKT News #Commodities #Energy #Brent
+
+Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%.
+
+---
+
+### 2026-08-13 02:39:10  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
+
+Paraguay Trade Deficit Widens in July — Paraguay's trade deficit widened to $95.98 million in July 2026 from $89.07 million a year earlier, as imports grew faster than exports. Imports surged 30.6% year-on-year to $2.04 billion, led by increases in purchases of intermediate goods (36.9%), capital goods (36.7%), and consumer goods (18.2%). Meanwhile, exports rose 32% to $1.94 billion. Sales of primary products increased 27.7%, while agricultural manufacturing exports rose 24.2% and industrial manufacturing exports jumped 40.9%.
+
+---
+
+### 2026-08-13 02:37:14  #其他
+
+SPACEX股價漲幅擴大至12%，創7月10日以來新高。
+
+---
+
+### 2026-08-13 02:32:58  #MKT News
+
+US crude futures settled at $83.27/bbl, up $0.07, or 0.08%.
+
+---
+
+### 2026-08-13 02:31:43  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
+
+【Night session main contracts close】As of 02:30 close, SHFE main gold contract rose 0.36% to 959 yuan/gram; SHFE main silver contract rose 0.63% to 16,024 yuan/kg; SC crude oil main contract rose 0.63% to 556 yuan/barrel.
+
+---
+
+### 2026-08-13 02:30:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D closed Wednesday evening (Aug 12) up 0.23 pct at 956.01 yuan/gram; Silver T+D closed up 0.23 pct at 15,988.0 yuan/kg.
+
+---
+
+### 2026-08-13 02:30:15  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish
+
+【Canada may accept partial U.S. auto tariffs to secure cuts】The Globe and Mail reports Canada is weighing a deal to accept part of U.S. auto tariffs in return for lower duties on vehicles meeting USMCA rules. Under a proposal discussed by negotiators, the value of U.S.-made parts in Canadian-built cars would be excluded from the tariff base, preserving an existing exemption, while Section 232 tariffs imposed by the Trump administration — currently 25% on USMCA-eligible Canadian exports — could be reduced. Canadian cars contain roughly 50% U.S. content; automakers say excluding U.S. content could make a 10–15% tariff tolerable. Talks aim for an agreement by Aug. 19, though Canadian officials expect a temporary pause of the next tariff round is more likely than a full resolution before that date.
+
+---
+
+### 2026-08-13 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Depreciates by 1.00% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1% decrease.
+
+---
+
+### 2026-08-13 02:30:02  #市場
+
+上期所原油期貨夜盤收漲0.77%，報552.30元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲0.63%。
+
+---
+
+### 2026-08-13 02:25:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%).
+
+---
+
+### 2026-08-13 02:20:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1.18%), Platinum (0.87%) and Gold (0.86%). Biggest loser is Aluminum Alloy (-0.66%).
 
 ---
 
@@ -18680,137 +18776,5 @@ Canada's trade minister will meet U.S. Trade Representative Greer on Tuesday at 
 ### 2026-08-11 21:57:44  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
 
 【Trump: Iran 'plays tricks' at talks; oil prices lower than under Biden】US President Trump said "If we don't strike Iran, it will obtain nuclear weapons," adding "this war is to prevent Iran from having nuclear weapons." He said he was frustrated with Iran's negotiating style, accusing Iranians of "agreeing at the table, then turning to the media to refuse," and called "Iran's economy...in chaos." On oil, Trump said "oil prices are lower than during Biden's administration."
-
----
-
-### 2026-08-11 21:57:22  #宏觀 #國際
-
-美國國務院一名官員表示：黎巴嫩‑以色列談判軌道將於 9 月初在羅馬重啟，在此期間，貝魯特、耶路撒冷以及華盛頓也將接續開展會談。
-
----
-
-### 2026-08-11 21:56:52  #MKT News #WTI #Impact mixed #Brent
-
-Market sources: U.S. President Trump said Iranians agreed with the U.S. in talks but later denied it in the media, calling it "playing us".
-
----
-
-### 2026-08-11 21:56:51  #經濟數據 #美國
-
-【紐約聯儲：上個交易日（8月10日）擔保隔夜融資利率（SOFR）報3.63%】據美國紐約聯儲資料，上個交易日（8月10日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
-
----
-
-### 2026-08-11 21:56:40  #國際
-
-加拿大貿易部長將與美國貿易代表格里爾於紐約時間週二 1 點 30 分會晤。
-
----
-
-### 2026-08-11 21:56:28  #國際
-
-特朗普：油價比拜登執政時期還要低。如果不打擊伊朗，它就會獲得核武器。這場戰爭是為了防止伊朗擁有核武器。對伊朗的談判風格感到沮喪。伊朗經濟正處於混亂狀態。
-
----
-
-### 2026-08-11 21:56:24  #MKT News #Market Themes #The Trump Trade
-
-Market sources: US President TRUMP said Iran's economy is in chaos.
-
----
-
-### 2026-08-11 21:56:09  #MKT News #WTI #Impact bullish #Brent #DXY
-
-US President Trump said he is frustrated with Iran's negotiating style.
-
----
-
-### 2026-08-11 21:55:29  #MKT News #WTI #Impact bullish #XAUUSD
-
-U.S. President Trump said the war is intended to prevent Iran from acquiring nuclear weapons.
-
----
-
-### 2026-08-11 21:55:05  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Trump said if the U.S. does not strike Iran, Iran will acquire nuclear weapons.
-
----
-
-### 2026-08-11 21:54:38  #MKT News
-
-Market note: US President Trump said oil prices are lower than under Biden's presidency.
-
----
-
-### 2026-08-11 21:53:45  #央行 #國際
-
-據美國紐約聯儲資料，上個交易日（8月10日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
-
----
-
-### 2026-08-11 21:53:35  #公司
-
-【報告：上半年全球自然災害所致經濟損失達千億美元】全球最大再保險公司之一瑞士再保險公司8月11日說，今年上半年全球自然災害造成的經濟損失據估算已達1000億美元，較去年同期的1520億美元大幅減少。但今年下半年，厄爾尼諾現象可能會加劇氣象災害的破壞力，風險不容忽視。（新華社）
-
----
-
-### 2026-08-11 21:53:10  #國際
-
-印度航空事故調查機構表示，法國航空事故調查局（BEA）將持續提供必要技術援助。
-
----
-
-### 2026-08-11 21:52:49  #國際
-
-埃及衛生部11日發表宣告說，該國東北部當天發生一起交通事故，造成至少15人死亡。（新華社）
-
----
-
-### 2026-08-11 21:50:33  #市場
-
-英國10年期國債收益率下跌5個基點，創下5月以來最大日內波動幅度。
-
----
-
-### 2026-08-11 21:50:30  #MKT News
-
-Al Jazeera said Saudi Arabia condemned Colombia's recognition of Israeli sovereignty over the occupied Golan Heights.
-
----
-
-### 2026-08-11 21:50:26  #其他
-
-【葉門政府軍與胡塞武裝在馬裡卜省交火致11人死亡】亞丁訊息：葉門一名軍方人士11日稱，葉門政府軍與胡塞武裝當天在該國東北部的馬裡卜省交火，造成至少8名胡塞武裝人員和3名政府軍士兵死亡。這一匿名的當地軍方人士告訴新華社記者，雙方在該省首府馬裡卜市附近的陣地展開了激烈交鋒。政府軍摧毀了位於馬裡卜市以西的一處胡塞武裝通訊站和導彈發射平臺。截至目前，胡塞武裝尚未就此次交火發表評論。馬裡卜省是政府軍的關鍵據點，也是葉門主要的石油和天然氣生產地。葉門胡塞武裝曾多次試圖向該省首府推進，並曾與政府軍在此激烈交戰。2014年9月，胡塞武裝奪取葉門首都薩那。2018年12月，在聯合國斡旋下，葉門政府和胡塞武裝就停火、戰俘交換等議題達成一致，但不久雙方就互相指責對方破壞停火協議。此後聯合國再次斡旋，葉門衝突方同意自2022年4月2日起停火兩個月，隨後延期至同年10月2日，到期後未再達成延期協議。（新華社）
-
----
-
-### 2026-08-11 21:50:05  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-US July existing-home sales (annualized) due in 10 minutes.
-
----
-
-### 2026-08-11 21:50:02  #公司
-
-阿根廷石油公司YPF執行長表示，該公司預計2026年息稅折舊及攤銷前利潤（EBITDA）為80億美元，高於此前60億美元的預期。
-
----
-
-### 2026-08-11 21:49:31  #其他
-
-Manus：為遵守相關法規，部分使用者資料將被刪除。
-
----
-
-### 2026-08-11 21:49:16  #公司
-
-AI 初創企業 Manus 將恢復獨立公司運營模式，Manus 表示，該舉措是脫離 Meta 的一部分。
-
----
-
-### 2026-08-11 21:48:52  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Slips After Copom Minutes — The Ibovespa edged down to trade below 172,000 on Tuesday following the release of July’s inflation data and the minutes from Copom’s latest meeting. Brazil’s annual inflation rate eased to 4.44% in July 2026 from 4.64% in June, in line with forecasts and returning to within the central bank’s 1.5%-4.5% target range. In the minutes, the monetary authority said that although monetary policy is making a decisive contribution to the disinflation process, inflation remains pressured by demand, requiring a restrictive policy stance. Financials traded mostly lower, with Caixa extending losses by nearly 3% after reporting a 0.2% quarter-on-quarter decline in adjusted net income and a 0.8% year-on-year drop in financial income. BTG fell more than 2% despite reporting its strongest semester on record. B3, down 0.3%, is set to release its results later today. Petrobras shed nearly 0.5% as the oil rally lost momentum. Vale gained more than 0.5% as iron ore prices rose on signs of tighter supply.
 
 ---
