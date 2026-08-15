@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:36:27_
-_本檔包含 3208 則快訊，約 604505 字_
+_更新時間：2026-08-16 00:56:05_
+_本檔包含 3205 則快訊，約 604672 字_
+
+---
+
+### 2026-08-11 23:45:37  #國際
+
+特朗普：伊朗人是善於耍花招的談判者，他們在談判中同意某些事項，隨後又在媒體面前予以否認。
+
+---
+
+### 2026-08-11 23:44:56  #宏觀 #國際
+
+美國國務院發言人：我們正對伊朗實施最大施壓行動，以切斷其為活動提供資金的渠道。
+
+---
+
+### 2026-08-11 23:44:39  #宏觀 #國際
+
+美國國務院發言人：我們正與財政部採取措施，繼續對伊朗實施極限施壓行動。
+
+---
+
+### 2026-08-11 23:44:01  #MKT News
+
+A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran.
+
+---
+
+### 2026-08-11 23:43:41  #國際
+
+伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。
+
+---
+
+### 2026-08-11 23:43:19  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue.
+
+---
+
+### 2026-08-11 23:42:59  #MKT News #Important #WTI #Impact bearish #DXY #XAUUSD
+
+Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds.
+
+---
+
+### 2026-08-11 23:42:39  #市場 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.06%，歐洲斯托克指數上漲0.29%，歐元區藍籌股上漲0.26%。英國富時100指數下跌0.17%，德國DAX指數上漲0.27%，法國CAC 40指數下跌0.13%，西班牙IBEX指數上漲0.2%。
+
+---
+
+### 2026-08-11 23:42:14  #MKT News
+
+U.S. President Trump said New York City must immediately stop levying a second-home tax.
+
+---
+
+### 2026-08-11 23:41:53  #國際
+
+【特朗普威脅將針對紐約市稅收採取聯邦層面行動】特朗普批評紐約市的非居民公寓稅以及擁堵收費政策，稱這類政策正促使居民與稅收流向佛羅里達、得克薩斯等州。特朗普警告，上述政策可能給紐約造成經濟與社會層面的損害。他表示，其政府正在研判聯邦政府是否擁有法律授權，介入並叫停這些政策。
+
+---
+
+### 2026-08-11 23:41:48  #MKT News
+
+【China ice-making companies surge 62% in 2025; sector at seasonal production peak】As of Aug 2026 China had 42,900 ice-related companies. In 2025, 11,900 new firms registered, up 62.08% YoY and the highest annual total in a decade. Strong cooling and cold-chain preservation demand have pushed the industry into a production peak with many plants running at full capacity. In Jiashan, Zhejiang, an automated ice plant supplying East China supermarkets, convenience stores and new-tea chains commissioned a new line this year that produces ice spheres with roughly three-hour melt time and lifted daily capacity from 150 to 170 tonnes.
 
 ---
 
@@ -19251,89 +19317,5 @@ Jiangbolong reported 1H2026 net profit attributable to owners of the parent of 1
 ### 2026-08-10 19:58:44  #公司 #國際
 
 【遊戲驛站考慮撤回 560 億美元收購 eBay 的要約】遊戲驛站執行長瑞安・科恩正考慮撤回公司對 eBay 價值 560 億美元的收購要約。取而代之，遊戲驛站或將提議建立合作關係，藉助其在美國約 1600 家門店，擴大兩家公司在交易卡牌與收藏品領域的業務佈局。報道稱，持有 eBay 9.75% 股份的遊戲驛站，希望依據該合作協議獲得董事會席位。目前尚未作出最終決定。
-
----
-
-### 2026-08-10 19:58:22  #其他
-
-【千問辦公助理收費 會員套餐分旗艦、精英、高階三檔】記者獲悉，千問辦公助理推出收費服務。千問App的App Store頁面顯示，其辦公助理會員套餐共分旗艦、精英、高階三檔。其中旗艦套餐月付價128元/月、年付價1499元/年；精英套餐月付價49元/月、年付價568元/年；高階套餐年付價200元/年。同時，影片生成額度10個/50個/100個/200個/500個對應價格在26元至968元不等。針對千問辦公助理收費，截至發稿，阿里方面暫無回應。
-
----
-
-### 2026-08-10 19:57:54  #公司
-
-【中科磁業：擬發行不超6.09億元可轉債用於稀土永磁專案】中科磁業公告，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過6.09億元（含），扣除發行費用後擬用於熱管理系統與機器人用高效能稀土永磁元件智慧製造及產業化專案（投資額49,729.37萬元，擬投入45,905.38萬元）及補充流動資金（15,000.00萬元）。本次發行已獲公司第三屆董事會第十次會議審議透過，尚需經股東會審議、深交所稽核及中國證監會註冊後方可實施。
-
----
-
-### 2026-08-10 19:57:50  #公司 #國際
-
-麥格理集團：各方將攜手識別並開發新地塊，由Anthropic公司作為主承租商戶，初期重點聚焦美國市場。
-
----
-
-### 2026-08-10 19:57:40  #公司 #焦點
-
-【江波龍：擬以4億元-8億元回購公司股份】江波龍公告，擬以不低於人民幣4億元（含本數）且不超過人民幣8億元（含本數）的自有資金或自籌資金回購公司股份，回購價格不超過735元/股。回購股份將用於股權激勵或員工持股計劃，若公司未能在股份回購實施結果暨股份變動公告日後三年內使用完畢，尚未使用的已回購股份將依法予以登出。
-
----
-
-### 2026-08-10 19:57:36  #其他
-
-【聚飛光電光耦產品獲德國VDE官方認證】聚飛光電光耦產品透過DIN EN IEC 60747-5-5（VDE 0884-5:2021-10）、EN IEC 60747-5-5:2020最新標準，獲VDE認證。據悉，VDE（德國電氣電子及資訊科技協會）認證是全球電氣領域最具公信力的安全認證之一。(人民財訊)
-
----
-
-### 2026-08-10 19:57:33  #MKT News
-
-【Jufei Optoelectronics optocouplers receive VDE certification】Jufei Optoelectronics said its optocoupler products have passed DIN EN IEC 60747-5-5 (VDE 0884-5:2021-10) and EN IEC 60747-5-5:2020 standards and obtained VDE certification. VDE is among the world's most authoritative electrical safety certifications.
-
----
-
-### 2026-08-10 19:57:29  #其他
-
-沃爾瑪表示，因擔憂與泰勒農場召回事件相關的沙門氏菌風險，已下架受影響的含墨西哥辣椒的預製食品。
-
----
-
-### 2026-08-10 19:57:19  #MKT News
-
-Market sources: Ukraine has lowered its grain export forecast after Russian attacks on its ports.
-
----
-
-### 2026-08-10 19:57:06  #其他
-
-遊戲驛站（GameStop）的科恩正考慮提議建立合作關係或組建合資企業。
-
----
-
-### 2026-08-10 19:56:59  #國際
-
-烏克蘭農業部長表示，因該國港口遇襲，烏克蘭已將2026/27作物年度穀物出口預測從此前的4300萬噸下調至3800萬至4000萬噸。
-
----
-
-### 2026-08-10 19:56:51  #公司
-
-Anthropic、麥格理資產管理與新加坡政府投資公司（GIC）宣佈建立戰略合作伙伴關係，將規模化開發專用資料中心基礎設施。
-
----
-
-### 2026-08-10 19:56:21  #公司
-
-【天奇股份：更新向特定物件發行股票申請檔案】天奇股份公告稱，公司於4月30日收到深交所關於向特定物件發行股票的稽核問詢函，已會同中介機構進行回覆並修訂申請檔案。近日，根據深交所進一步稽核意見，再次對募集說明書、問詢函回覆等申請檔案進行補充、更新和修訂。本次發行尚需深交所稽核並經證監會同意註冊，能否獲批及時間存在不確定性。
-
----
-
-### 2026-08-10 19:56:18  #公司
-
-【新經典：2026年上半年營收2.89億元 同比下降8.36%】新經典公告稱，2026年上半年，公司營業收入2.89億元，同比下降8.36%；利潤總額5619萬元，同比下降8.50%；歸屬於上市公司股東的淨利潤4416萬元，同比下降5.79%。截至報告期末，公司總資產19.16億元，較上年度末減少3.10%；歸屬於上市公司股東的淨資產18.11億元，較上年度末減少2.91%。
-
----
-
-### 2026-08-10 19:55:34  #其他
-
-【國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動】在華為中國行2026・黑龍江省“人工智慧+”賦能行業高質量發展峰會上，國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動儀式舉行，該基地將搭建起農業AI技術試驗、除錯、成果轉化的專業化平臺，助力寒地智慧農業發展。同時，人工智慧+農業產業聯盟正式成立，將整合上下游產業資源，補齊智慧農業發展短板。（科創板日報）
 
 ---

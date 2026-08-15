@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:36:27_
-_本檔包含 3095 則快訊，約 604930 字_
+_更新時間：2026-08-16 00:56:05_
+_本檔包含 3094 則快訊，約 604780 字_
+
+---
+
+### 2026-08-16 00:46:42  #MKT News
+
+Israel Defense Forces said the incidents constitute violations of the ceasefire agreement and strongly condemned them.
+
+---
+
+### 2026-08-16 00:46:17  #MKT News
+
+cenc reports a magnitude-5.9 earthquake at 00:25 on Aug 16 in Tomini Bay, Indonesia (0.20°N, 120.25°E); hypocenter depth 80 km.
+
+---
+
+### 2026-08-16 00:45:26  #國際
+
+中國地震臺網正式測定：08月16日00時25分在印尼托米尼灣（北緯0.20度，東經120.25度）發生5.9級地震，震源深度80千米。
+
+---
+
+### 2026-08-16 00:45:06  #MKT News
+
+Israeli Defense Forces (IDF) said soldiers shot and killed two terrorists after they crossed the "yellow line" and approached troops in a threatening manner while attempting to sabotage IDF weapons.
+
+---
+
+### 2026-08-16 00:44:24  #MKT News
+
+Israel Defense Forces said a tank recently ran over an explosive device planted by Hamas during operations in the "Yellow Line" area of southern Gaza; no IDF personnel were reported injured.
+
+---
+
+### 2026-08-16 00:42:15  #MKT News
+
+Israel's Channel 12, citing security sources, said an Israeli tank in the southern Gaza Strip was hit by an explosive device; no casualties were reported. The Israeli military subsequently carried out a retaliatory strike.
+
+---
+
+### 2026-08-16 00:37:01  #MKT News
+
+【6.2 magnitude earthquake offshore Central Sulawesi, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a 6.2 magnitude earthquake offshore Central Sulawesi at 23:25 local time on Aug 15, with a focal depth of 44 km. BMKG said no tsunami risk is expected.
+
+---
+
+### 2026-08-16 00:36:07  #國際
+
+【印尼中蘇拉威西省附近海域發生6.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月15日23時25分，印尼中蘇拉威西省附近海域發生6.2級地震， 震源深度44公里。預計不會有海嘯風險。
 
 ---
 
@@ -18600,65 +18648,5 @@ Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index jumped 1.7% t
 ### 2026-08-14 08:35:47  #公司
 
 【據稱KKR以每股最高80美元的價格出售BridgeBio Pharma股票】 當地時間8月13日，據報道，知情人士透露，私募股權投資公司KKR的一家關聯公司正以每股78至80美元的價格出售生物技術公司BridgeBio Pharma的股票。
-
----
-
-### 2026-08-14 08:35:32  #其他
-
-【國家醫保局印發《檢驗類醫療服務價格專案立項指南（試行）》】 為貫徹落實《深化醫療服務價格改革試點方案》，推進全國醫療服務價格專案規範編制工作，按照“成熟一批、釋出一批”的工作思路，近日國家醫保局編制印發《檢驗類醫療服務價格專案立項指南（試行）》及其對映關係表，將已有價格專案規範整合為662個主專案、114個加收項、7個擴充套件項。下一步，國家醫保局將指導各省醫保局參考《檢驗類醫療服務價格專案立項指南（試行）》，制定全省統一的價格基準，由具有價格管理許可權的統籌地區對照全省價格基準，上下浮動確定實際執行的價格水平。
-
----
-
-### 2026-08-14 08:34:10  #公司 #市場
-
-【Reddit將被納入標普500指數】當地時間8月13日，Reddit宣佈公司將於8月18日開盤前正式納入標普500指數。
-
----
-
-### 2026-08-14 08:33:46  #其他
-
-澳大利亞任命梅琳達・奇倫託（ MELINDA CILENTO）為澳大利亞儲備銀行理事會兼職委員。
-
----
-
-### 2026-08-14 08:32:28  #其他
-
-標普：因財政與債務管理改善，將厄瓜多信用評級從B-上調至B，展望穩定。
-
----
-
-### 2026-08-14 08:31:55  #其他
-
-標普將厄瓜多評級上調至“B”級；展望穩定。
-
----
-
-### 2026-08-14 08:30:36  #宏觀
-
-【全國檢驗類價格專案有了統一“標尺” 國家醫保局釋出指南】近日，國家醫保局正式印發《檢驗類醫療服務價格專案立項指南（試行）》。這份指南的出臺，補齊了我國醫療服務價格專案統一規範的重要一環，也標誌著歷時多年的40批醫療服務價格專案立項指南編制工作全面收官，全國統一的醫療服務價格專案體系基本成型。本次釋出的檢驗類立項指南，共設定662個主專案、114個加收項、7個擴充套件項，覆蓋臨床檢驗、輸血與血型、生化、免疫、微生物與寄生蟲、分子診斷等各大主流領域，為全國檢驗類價格專案劃定統一“標尺”。
-
----
-
-### 2026-08-14 08:30:12  #市場 #焦點
-
-現貨黃金失守4340美元/盎司，日內跌0.27%。
-
----
-
-### 2026-08-14 08:30:11  #市場
-
-上海證交所上日融資餘額上漲0.1%至13,563.1億元。
-
----
-
-### 2026-08-14 08:29:39  #宏觀 #公司 #國際
-
-【經濟日報郭言：精準反制有助於維護正常競爭秩序】近日，商務部等有關部門宣佈對美國聯邦通訊委員會、美國國土安全部系列涉華消極措施實施反制，包括加強無人機相關兩用物項對美國出口管制，將應用DNA科學公司等6家美國實體列入反制清單等。這套“組合拳”目標清晰、於法有據，既是捍衛國家利益的堅決行動，也傳遞出以打促變的明確訊號。
-
-中方採取必要反制措施，不是為了升級對抗，而是為了推動中美經貿關係重回平等協商的正軌。中美元首釜山會晤以來，國際社會普遍期待兩國關係穩定發展。然而，美方屢屢罔顧共識。7月30日雙方經貿牽頭人剛完成通話，次日美方便將40餘家中國實體列入制裁清單。如此出爾反爾，不僅侵蝕中美互信的基礎，更為全球產業鏈穩定徒增變數。中方出手，正是為了捍衛共識的嚴肅性，以精準反制維護中美合作底線，正常商業行為受保護，但對損害中國主權、安全和發展利益的行為絕不容忍。
-
-中美合則兩利、鬥則俱傷，這是被現實反覆印證的道理。大國之間存在競爭不足為奇，但即便有競爭，也應是相互借鑑的良性競爭、你追我趕的積極競爭、遵守規則的公平競爭。面對中國新能源裝備、先進智慧製造產業不斷提升的國際競爭力，美方一些人固守零和博弈思維，不思考如何讓自己跑得更快，反而頻頻給中國使絆子。其強行將行政壁壘凌駕於市場規律與產業競爭力之上，不僅阻擋不了中國產業技術迭代升級的步伐，反而會消磨美國企業的創新銳氣，進而使其本土消費者承受價格高企、技術落後的雙重負擔。
-
-中方始終以建設性態度看待中美關係，珍視來之不易的穩定。但誠意須雙向奔赴，承諾須切實恪守。若美方執意出臺新的對華限制性措施，中方將進一步反制。希望美方早日糾正錯誤做法，與中方相向而行，共同落實好中美元首重要共識，為世界注入亟需的穩定性和確定性。
 
 ---

@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:36:27_
-_本檔包含 3123 則快訊，約 605139 字_
+_更新時間：2026-08-16 00:56:05_
+_本檔包含 3116 則快訊，約 604803 字_
+
+---
+
+### 2026-08-13 07:10:38  #Trading Economics #Economy #United Kingdom #RICS House Price Balance #Importance 1
+
+UK Housing Market Remains Subdued — The RICS UK Residential Market Survey showed that the house price balance edged up to -30% in July 2026 from -32% in June, remaining firmly negative as price falls continued to outnumber rises. New buyer enquiries were unchanged at -28%, while agreed sales held at -30%, indicating that demand and transactions remained subdued. New vendor instructions improved sharply to -4% from -23%, although the pipeline of new listings remained constrained. London, the South East and South West continued to report the weakest price balances, while Northern Ireland remained an outperformer. Looking ahead, three-month price expectations stayed weak at -31%, while the 12-month outlook turned slightly positive at +4%. Sales expectations also improved, with the 12-month balance rising to +3%. In the rental market, landlord instructions remained weak at -27%, keeping supply constrained, while 28% of respondents expected rents to rise over the next three months.
+
+---
+
+### 2026-08-13 07:10:26  #公司
+
+【物理AI進入規模化驗證期 場景和資料成投資方關注點】具身智慧龍頭宇樹科技的首次公開發行（IPO），標誌著物理人工智慧（AI）賽道已邁入產業化驗證和資本市場公開定價的新階段。在此過程中，首程控股作為宇樹科技的核心戰略投資方，在即將兌現前期投入的同時，聯合多方設立35億元前沿科創新興未來產業股權投資基金，專項重倉物理AI全產業鏈。據不完全統計，最近18個月，已有超百億美元資金湧入物理AI賽道，僅8月份，就有飛捷科思、西湖數智、慧侖科技等公司密集拿到數億元融資；值得關注的是，2025年物理AI行業50%的融資仍然是投向早期初創，2026年首輪融資佔比則降至8%，92%的資金集中投向了擁有落地訂單、成熟產品的頭部企業。首程控股資本市場部經理康雨向證券時報記者表示，當下，物理AI行業不缺資金，真正稀缺的是訂單、線下場景和真實的互動資料。
+
+---
+
+### 2026-08-13 07:10:19  #其他
+
+【A股“再平衡”進行時 從賽道集中到行業均衡】據中證報，近期，A股市場持續輪動，領漲板塊持續變動，市場出現“再平衡”，從上半年AI硬體及上游板塊的“一枝獨秀”到近期市場的“多點開花”。分析人士認為，這種“再平衡”屬於存量資金高低切換的階段性風格收斂，既不是成長主線的徹底終結，也不是價值板塊的全面上行行情。短期內，A股市場或繼續反彈。秋季行情逐漸進入佈局階段，市場已從單一科技抱團轉向多條配置主線共同展開。
+
+---
+
+### 2026-08-13 07:09:21  #公司
+
+【8月第二週50只基金啟動發行 創7月以來單週新高】新基金髮行近期明顯提速。Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。從產品類別看，本週新發基金中，股票型基金數量最多，達到23只；混合型基金和債券型基金分別有11只和10只，另有5只FOF基金和1只QDII基金啟動發行。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。
 
 ---
 
@@ -18800,71 +18824,5 @@ US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as
 ### 2026-08-11 23:46:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year.
-
----
-
-### 2026-08-11 23:45:37  #國際
-
-特朗普：伊朗人是善於耍花招的談判者，他們在談判中同意某些事項，隨後又在媒體面前予以否認。
-
----
-
-### 2026-08-11 23:44:56  #宏觀 #國際
-
-美國國務院發言人：我們正對伊朗實施最大施壓行動，以切斷其為活動提供資金的渠道。
-
----
-
-### 2026-08-11 23:44:39  #宏觀 #國際
-
-美國國務院發言人：我們正與財政部採取措施，繼續對伊朗實施極限施壓行動。
-
----
-
-### 2026-08-11 23:44:01  #MKT News
-
-A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran.
-
----
-
-### 2026-08-11 23:43:41  #國際
-
-伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。
-
----
-
-### 2026-08-11 23:43:19  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue.
-
----
-
-### 2026-08-11 23:42:59  #MKT News #Important #WTI #Impact bearish #DXY #XAUUSD
-
-Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds.
-
----
-
-### 2026-08-11 23:42:39  #市場 #國際
-
-【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.06%，歐洲斯托克指數上漲0.29%，歐元區藍籌股上漲0.26%。英國富時100指數下跌0.17%，德國DAX指數上漲0.27%，法國CAC 40指數下跌0.13%，西班牙IBEX指數上漲0.2%。
-
----
-
-### 2026-08-11 23:42:14  #MKT News
-
-U.S. President Trump said New York City must immediately stop levying a second-home tax.
-
----
-
-### 2026-08-11 23:41:53  #國際
-
-【特朗普威脅將針對紐約市稅收採取聯邦層面行動】特朗普批評紐約市的非居民公寓稅以及擁堵收費政策，稱這類政策正促使居民與稅收流向佛羅里達、得克薩斯等州。特朗普警告，上述政策可能給紐約造成經濟與社會層面的損害。他表示，其政府正在研判聯邦政府是否擁有法律授權，介入並叫停這些政策。
-
----
-
-### 2026-08-11 23:41:48  #MKT News
-
-【China ice-making companies surge 62% in 2025; sector at seasonal production peak】As of Aug 2026 China had 42,900 ice-related companies. In 2025, 11,900 new firms registered, up 62.08% YoY and the highest annual total in a decade. Strong cooling and cold-chain preservation demand have pushed the industry into a production peak with many plants running at full capacity. In Jiashan, Zhejiang, an automated ice plant supplying East China supermarkets, convenience stores and new-tea chains commissioned a new line this year that produces ice spheres with roughly three-hour melt time and lifted daily capacity from 150 to 170 tonnes.
 
 ---

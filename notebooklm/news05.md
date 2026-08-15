@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:36:27_
-_本檔包含 2743 則快訊，約 604896 字_
+_更新時間：2026-08-16 00:56:05_
+_本檔包含 2752 則快訊，約 604705 字_
+
+---
+
+### 2026-08-10 19:58:22  #其他
+
+【千問辦公助理收費 會員套餐分旗艦、精英、高階三檔】記者獲悉，千問辦公助理推出收費服務。千問App的App Store頁面顯示，其辦公助理會員套餐共分旗艦、精英、高階三檔。其中旗艦套餐月付價128元/月、年付價1499元/年；精英套餐月付價49元/月、年付價568元/年；高階套餐年付價200元/年。同時，影片生成額度10個/50個/100個/200個/500個對應價格在26元至968元不等。針對千問辦公助理收費，截至發稿，阿里方面暫無回應。
+
+---
+
+### 2026-08-10 19:57:54  #公司
+
+【中科磁業：擬發行不超6.09億元可轉債用於稀土永磁專案】中科磁業公告，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過6.09億元（含），扣除發行費用後擬用於熱管理系統與機器人用高效能稀土永磁元件智慧製造及產業化專案（投資額49,729.37萬元，擬投入45,905.38萬元）及補充流動資金（15,000.00萬元）。本次發行已獲公司第三屆董事會第十次會議審議透過，尚需經股東會審議、深交所稽核及中國證監會註冊後方可實施。
+
+---
+
+### 2026-08-10 19:57:50  #公司 #國際
+
+麥格理集團：各方將攜手識別並開發新地塊，由Anthropic公司作為主承租商戶，初期重點聚焦美國市場。
+
+---
+
+### 2026-08-10 19:57:40  #公司 #焦點
+
+【江波龍：擬以4億元-8億元回購公司股份】江波龍公告，擬以不低於人民幣4億元（含本數）且不超過人民幣8億元（含本數）的自有資金或自籌資金回購公司股份，回購價格不超過735元/股。回購股份將用於股權激勵或員工持股計劃，若公司未能在股份回購實施結果暨股份變動公告日後三年內使用完畢，尚未使用的已回購股份將依法予以登出。
+
+---
+
+### 2026-08-10 19:57:36  #其他
+
+【聚飛光電光耦產品獲德國VDE官方認證】聚飛光電光耦產品透過DIN EN IEC 60747-5-5（VDE 0884-5:2021-10）、EN IEC 60747-5-5:2020最新標準，獲VDE認證。據悉，VDE（德國電氣電子及資訊科技協會）認證是全球電氣領域最具公信力的安全認證之一。(人民財訊)
+
+---
+
+### 2026-08-10 19:57:33  #MKT News
+
+【Jufei Optoelectronics optocouplers receive VDE certification】Jufei Optoelectronics said its optocoupler products have passed DIN EN IEC 60747-5-5 (VDE 0884-5:2021-10) and EN IEC 60747-5-5:2020 standards and obtained VDE certification. VDE is among the world's most authoritative electrical safety certifications.
+
+---
+
+### 2026-08-10 19:57:29  #其他
+
+沃爾瑪表示，因擔憂與泰勒農場召回事件相關的沙門氏菌風險，已下架受影響的含墨西哥辣椒的預製食品。
+
+---
+
+### 2026-08-10 19:57:19  #MKT News
+
+Market sources: Ukraine has lowered its grain export forecast after Russian attacks on its ports.
+
+---
+
+### 2026-08-10 19:57:06  #其他
+
+遊戲驛站（GameStop）的科恩正考慮提議建立合作關係或組建合資企業。
+
+---
+
+### 2026-08-10 19:56:59  #國際
+
+烏克蘭農業部長表示，因該國港口遇襲，烏克蘭已將2026/27作物年度穀物出口預測從此前的4300萬噸下調至3800萬至4000萬噸。
+
+---
+
+### 2026-08-10 19:56:51  #公司
+
+Anthropic、麥格理資產管理與新加坡政府投資公司（GIC）宣佈建立戰略合作伙伴關係，將規模化開發專用資料中心基礎設施。
+
+---
+
+### 2026-08-10 19:56:21  #公司
+
+【天奇股份：更新向特定物件發行股票申請檔案】天奇股份公告稱，公司於4月30日收到深交所關於向特定物件發行股票的稽核問詢函，已會同中介機構進行回覆並修訂申請檔案。近日，根據深交所進一步稽核意見，再次對募集說明書、問詢函回覆等申請檔案進行補充、更新和修訂。本次發行尚需深交所稽核並經證監會同意註冊，能否獲批及時間存在不確定性。
+
+---
+
+### 2026-08-10 19:56:18  #公司
+
+【新經典：2026年上半年營收2.89億元 同比下降8.36%】新經典公告稱，2026年上半年，公司營業收入2.89億元，同比下降8.36%；利潤總額5619萬元，同比下降8.50%；歸屬於上市公司股東的淨利潤4416萬元，同比下降5.79%。截至報告期末，公司總資產19.16億元，較上年度末減少3.10%；歸屬於上市公司股東的淨資產18.11億元，較上年度末減少2.91%。
+
+---
+
+### 2026-08-10 19:55:34  #其他
+
+【國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動】在華為中國行2026・黑龍江省“人工智慧+”賦能行業高質量發展峰會上，國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動儀式舉行，該基地將搭建起農業AI技術試驗、除錯、成果轉化的專業化平臺，助力寒地智慧農業發展。同時，人工智慧+農業產業聯盟正式成立，將整合上下游產業資源，補齊智慧農業發展短板。（科創板日報）
 
 ---
 
@@ -16531,35 +16615,5 @@ According to Israel's Channel 12, the Israeli military is evaluating withdrawing
 ### 2026-08-09 00:59:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
 
 【Vance: U.S. 'in a contest' with Iran】U.S. Vice President JD Vance told Fox News on Saturday the United States is 'in a contest' with Iran and is employing the full range of tools—diplomatic, economic and military—to secure the best outcome for Americans. He said talks with Iran have made some progress in recent days. The U.S. expects Gulf oil and gas output to return to pre-conflict levels, and Iran has indicated to U.S. officials it intends to do so.
-
----
-
-### 2026-08-09 00:54:54  #國際
-
-特朗普：洩露國家安全機密者將面臨嚴重後果以及牢獄之災。
-
----
-
-### 2026-08-09 00:50:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Expert: Strait of Hormuz cannot return to pre-conflict state】Ali Akbar Dareini, researcher at Iran’s Center for Strategic Studies, said Iran and Oman are close to an agreement on future management of the Strait of Hormuz, but US pressure on Oman to align with Washington remains the main obstacle. Dareini said Iran views future control of the strait as vital to its national security. He added that in recent months the US struck Iran, which Tehran says were launched from bases in the region, and described the Iran–Oman talks as a diplomatic opening for Washington to acknowledge Iran and Oman as the決ers of the strait’s future. He said the Strait of Hormuz cannot return to its pre-conflict state and that regional geopolitics have changed.
-
----
-
-### 2026-08-09 00:47:18  #MKT News #Market Regions #Europe & UK
-
-Bulgaria summoned the Ukrainian ambassador after a drone exploded on Bulgarian territory.
-
----
-
-### 2026-08-09 00:46:58  #MKT News
-
-【Pentagon official says U.S. ammunition stocks sufficient for operations against Iran】Pentagon Deputy Director for the Defense Innovation Unit Jared Conley said the U.S. military has sufficient ammunition to meet operational needs in a conflict with Iran, saying “we have enough ammunition to complete current missions” and that “the Defense Department has all necessary resources to wage war.” He addressed earlier reports that key air-defence munitions, including ballistic missile interceptors, had been drawn down.
-
----
-
-### 2026-08-09 00:39:59  #MKT News #Macro & Rates #US Economy #Commodities #Energy
-
-【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products.
 
 ---
