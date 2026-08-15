@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 66,
+  "count": 67,
   "items": [
+    {
+      "id": "mkt:01a006e5-84ad-7aab-904a-e3e068087d2a",
+      "time": "2026-08-16 03:28:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV cited Hamas sources saying a delegation led by Khaled al-Hayya will travel to Cairo tonight for consultations."
+    },
     {
       "id": "5042426",
       "time": "2026-08-16 03:16:32",
