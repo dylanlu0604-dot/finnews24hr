@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 599,
+  "count": 602,
   "items": [
+    {
+      "id": "5042220",
+      "time": "2026-08-15 15:26:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國向哥倫比亞提供緊急人道主義地震救災援助。（新華社）"
+    },
+    {
+      "id": "mkt:01a0044f-fcc6-7aab-9048-0310a9523666",
+      "time": "2026-08-15 15:25:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran's oil minister meets Tajikistan transport and energy ministers】Iran Oil Minister Mohsen Paknejad met Tajikistan Transport Minister Azim Ibrohim and Energy and Water Resources Minister Daler Juma on Saturday; talks focused on cooperation in the energy sector."
+    },
+    {
+      "id": "5042219",
+      "time": "2026-08-15 15:24:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地官員稱，烏克蘭襲擊導致俄羅斯薩馬拉州一處工業場地受損。"
+    },
     {
       "id": "mkt:01a00447-9198-7aab-9047-feecc8ccd1a5",
       "time": "2026-08-15 15:16:34",
