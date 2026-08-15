@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-15 12:24:11",
+  "updated": "2026-08-15 12:28:02",
   "count": 15291,
   "items": [
+    {
+      "id": "mkt:01a003ac-0cf7-7aab-9047-75d38052c1ff",
+      "time": "2026-08-15 12:26:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Welcome to Long Restaurant box office tops 600 mln yuan】Lighthouse Pro real-time data show the film Welcome to Long Restaurant surpassed 600 mln yuan in box office receipts as of Aug 15 12:22."
+    },
+    {
+      "id": "5042158",
+      "time": "2026-08-15 12:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國汽車研究中心最新報告：美國汽車行業必須跟上中國速度】這幾天“中國速度”成為新聞熱詞，美國汽車研究中心最新報告提出的核心結論是：美國汽車行業必須跟上“中國速度”，這個結論緣於近期這家研究中心與業內高管和專家開展的一次圓桌討論會議，與會者將“中國速度”描述為“中國圍繞一系列元素構建的一整套完整工業生態系統，包括快速決策、數字工程、垂直整合供應鏈網路、充裕資金和支援政策等”。（央視財經）"
+    },
+    {
+      "id": "5042157",
+      "time": "2026-08-15 12:24:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月15日12時22分，影片《歡迎來龍餐館》票房突破6億。"
+    },
     {
       "id": "mkt:01a003a7-8fe4-7aab-9047-6ce9eb1892fb",
       "time": "2026-08-15 12:21:47",
@@ -140008,34 +140032,6 @@
         "Energy"
       ],
       "text": "Russian operations command said the Ilsky refinery caught fire after drone wreckage fell, RIA reported."
-    },
-    {
-      "id": "te:markets:573897",
-      "time": "2026-08-08 12:26:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Petrobras earnings above expectations at 4.08 BRL — Petrobras (PETR3) released earnings per share at 4.08 BRL, compared to market expectations of 3.27 BRL."
-    },
-    {
-      "id": "mkt:019fdf9d-f805-7aab-8fc2-9a4c6eb20017",
-      "time": "2026-08-08 12:24:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon White Dolphin suspends 40 ferry routes along Fujian coast】Fujian Maritime Safety Administration said Typhoon White Dolphin had forced suspension of 40 passenger ferry routes and 76 passenger ferries along the Fujian coast; all 115 coastal maritime construction projects were halted and 290 construction vessels evacuated, as of 1200 on Aug 8."
-    },
-    {
-      "id": "5031813",
-      "time": "2026-08-08 12:24:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風“白海豚”影響 福建沿海40條航線停航】從福建海事局瞭解到，為了防禦颱風“白海豚”，截至8日12時，福建沿海共有40條客渡運航線停運，76艘客渡船停航。福建沿海全部115個水上施工作業專案停工，撤離290艘施工作業船舶。"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 524,
+  "count": 527,
   "items": [
+    {
+      "id": "mkt:01a003ac-0cf7-7aab-9047-75d38052c1ff",
+      "time": "2026-08-15 12:26:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Welcome to Long Restaurant box office tops 600 mln yuan】Lighthouse Pro real-time data show the film Welcome to Long Restaurant surpassed 600 mln yuan in box office receipts as of Aug 15 12:22."
+    },
+    {
+      "id": "5042158",
+      "time": "2026-08-15 12:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國汽車研究中心最新報告：美國汽車行業必須跟上中國速度】這幾天“中國速度”成為新聞熱詞，美國汽車研究中心最新報告提出的核心結論是：美國汽車行業必須跟上“中國速度”，這個結論緣於近期這家研究中心與業內高管和專家開展的一次圓桌討論會議，與會者將“中國速度”描述為“中國圍繞一系列元素構建的一整套完整工業生態系統，包括快速決策、數字工程、垂直整合供應鏈網路、充裕資金和支援政策等”。（央視財經）"
+    },
+    {
+      "id": "5042157",
+      "time": "2026-08-15 12:24:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月15日12時22分，影片《歡迎來龍餐館》票房突破6億。"
+    },
     {
       "id": "mkt:01a003a7-8fe4-7aab-9047-6ce9eb1892fb",
       "time": "2026-08-15 12:21:47",
