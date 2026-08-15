@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 653,
+  "count": 655,
   "items": [
+    {
+      "id": "5042258",
+      "time": "2026-08-15 17:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯方面稱，夏季攻勢已攻佔烏克蘭東南部19個定居點。"
+    },
+    {
+      "id": "mkt:01a004bf-481f-7aab-9048-7f4bceeb2efa",
+      "time": "2026-08-15 17:27:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Jensen Huang offers up to 25% residual-value support as NVIDIA, six Wall Street asset managers back AI compute as standalone asset class】Jensen Huang, joined by six Wall Street asset managers, endorsed treating AI compute as a standalone asset class. Investors raised concerns about circular financing and elevated debt risk; Huang said NVIDIA may provide up to 25% residual-value support for individual projects and will prudently assess each deal. The remarks eased market concern modestly."
+    },
     {
       "id": "5042257",
       "time": "2026-08-15 17:25:44",
