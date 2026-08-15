@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 13:36:19_
-_本檔包含 3217 則快訊，約 603815 字_
+_更新時間：2026-08-15 13:56:11_
+_本檔包含 3215 則快訊，約 604337 字_
+
+---
+
+### 2026-08-11 21:27:40  #MKT News
+
+Pakistan's interior minister arrived in Tehran.
+
+---
+
+### 2026-08-11 21:27:20  #Trading Economics #Markets #United States #Currency #Importance 1
+
+US Dollar Holds Rebound — The dollar index was at the 99.8 mark on Tuesday, holding the rebound from the two-month low of 99.5 on Friday amid fresh pressure on the yen, while markets further assessed the Federal Reserve's policy outlook. Markets mounted on short positions on the Japanese currency after the US Treasury completed its joint intervention on the foreign exchange market with Tokyo. Treasury Secretary Bessent had bought yen with euros in the Exchange Stabilization Fund to prevent Japan from selling more US bonds to defend their currency, but mountain fiscal pressures for Japan and the surge in US long yields drove the dollar to rebound against the yen. Meanwhile, Cleveland Fed President Hammack reiterated her view that a Fed hike is appropriate to combat inflation ahead of tomorrow's CPI report. The data is expected to show that core inflation measures should slow for a second month. Still, the elevated levels of wholesale energy commodities challenge the argument for a hold.
+
+---
+
+### 2026-08-11 21:27:16  #公司
+
+【濰柴動力：暫無開展商業衛星及商業航天用電源電池產品的研發規劃】濰柴動力在互動平臺表示，公司現階段暫無開展商業衛星及商業航天用電源電池產品以及月球基建方向獨立供電產品的研發規劃。
+
+---
+
+### 2026-08-11 21:26:23  #公司
+
+【熊貓金控：收到證監會湖南監管局《行政處罰決定書》，被處以700萬元罰款】熊貓金控公告，公司收到中國證監會湖南監管局《行政處罰決定書》。經查，*ST熊貓與昆朋資產的債權轉讓為虛假交易，*ST熊貓為債權轉讓提供資金，後續透過資金拆借掩蓋虛假交易，上述債權由國峻實業控股有限公司代持。依照相關規定，湖南證監局決定：一、對熊貓金控股份有限公司責令改正，給予警告，並處以700萬元罰款；二、對徐金煥給予警告，並處以400萬元罰款；三、對李民給予警告，並處以200萬元罰款；四、對羅春豔給予警告，並處以150萬元罰款；五、對楊恆偉、黃玉岸給予警告，並分別處以100萬元罰款。鑑於徐金煥、李民的相關違法情節嚴重，依據相關規定，湖南證監局決定：對徐金煥採取5年證券市場禁入措施，對李民採取3年證券市場禁入措施。自湖南證監局宣佈決定之日起，在禁入期間內，上述人員除不得繼續在原機構從事證券業務、證券服務業務或者擔任原證券發行人的董事、監事、高階管理人員職務外，也不得在其他任何機構中從事證券業務、證券服務業務或者擔任其他證券發行人的董事、監事、高階管理人員職務。
 
 ---
 
@@ -19353,41 +19377,5 @@ Ukrainian officials said most of the Russian-controlled Zaporizhzhia region suff
 ### 2026-08-10 18:30:42  #國際
 
 【特朗普不得已對伊朗降低調門】據美國媒體報道，美國總統特朗普當地時間8月9日在接受採訪時稱，要對伊朗問題“低調處理”。總檯特約評論員蘇曉暉就此分析指出，特朗普罕見地對伊朗降低調門，這既是權宜之計，也是不得已而為之——首先，美國政府現在急於止損；其次，美國也考慮到，發出強硬訊號反而是在“助攻”伊朗國內的強硬派；此外，海灣國家避戰求穩的訴求也影響著美方的決策。不過值得注意的是，美國尚未完全放棄軍事選項，“手還扣在扳機上”，現在“低調”也可能是為了後續再起軍事行動“師出有名”。（CCTV國際時訊）
-
----
-
-### 2026-08-10 18:30:07  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.06% Higher — The SENSEX Index rose 43 points or 0.06 percent on Monday to close at 78542 points. Leading the gains are Titan Company (3.22%), Bajaj Finance (2.50%) and Tata Steel (1.38%). Top losers were Eternal Limited (-1.57%), ITC (-1.45%) and Nestle India (-0.99%).
-
----
-
-### 2026-08-10 18:29:56  #公司
-
-【燦瑞科技：總經理羅傑因個人原因辭職，間接持股19.4578%】燦瑞科技公告，公司董事會於2026年8月10日收到總經理羅傑先生的書面辭職報告，羅傑先生因個人原因申請辭去公司總經理職務，辭任後將繼續擔任公司核心技術人員職務。羅傑先生未直接持有公司股份，透過上海景陽投資諮詢有限公司間接持有公司19.4578%的股份。辭職後其將繼續遵守相關減持規定及首次公開發行時做出的相關承諾。董事長羅立權先生將代行總經理職責，公司將盡快完成總經理選聘工作。
-
----
-
-### 2026-08-10 18:29:26  #公司
-
-【創世紀：向特定物件發行股票獲監管批准，募資3.26億元】創世紀公告稱，公司本次向特定物件發行股票已獲深交所稽核透過及中國證監會同意註冊。發行物件為控股股東夏軍，發行價格9.26元/股，發行數量3563.71萬股，募集資金總額3.29億元，淨額約3.26億元。夏軍於8月5日全額繳款，天職國際完成驗資。本次發行履行了必要程式，發行過程及物件均合規。
-
----
-
-### 2026-08-10 18:28:37  #公司
-
-【博瑞傳播：2025年末收購兩公司商譽未減值具合理性】博瑞傳播公告稱，深圳中科華資產評估有限公司受委託對公司收購北京漫遊谷、四川生學教育形成的商譽減值測試評估開展專項核查。兩公司2025年業績下滑均因階段性可逆因素，未損毀核心超額收益來源。經核查，2025年末商譽減值測試資產組劃分準確、方法合規、引數審慎，含商譽資產組可收回金額均高於賬面價值，公司未對兩公司商譽計提減值準備具備充分依據，相關會計處理審慎合理。
-
----
-
-### 2026-08-10 18:27:58  #觀點
-
-高盛私人信貸：本基金迄今贖回申請規模仍低於季度5%的限額，且目前所有申請均已全額兌付。
-
----
-
-### 2026-08-10 18:27:45  #公司
-
-【不認為和華為合作是必要項？阿維塔闢謠】近日有媒體報道稱，阿維塔副總裁雍軍表示，不認為和華為的合作模式是“必要項”，因為阿維塔具備差異化的能力。阿維塔方面則闢謠稱：“不認為和華為的合作模式是必要項”系誤讀，實際指讓華為引望打造專屬智駕版本的合作模式是不必要的，並非否定雙方的合作價值。（新浪科技）
 
 ---

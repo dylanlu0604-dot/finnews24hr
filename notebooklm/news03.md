@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 13:36:19_
-_本檔包含 3105 則快訊，約 604508 字_
+_更新時間：2026-08-15 13:56:11_
+_本檔包含 3104 則快訊，約 604115 字_
+
+---
+
+### 2026-08-13 00:16:05  #其他
+
+【南蘇丹霍亂疫情致1721人死亡 確診病例超11萬例】當地時間8月12日，南蘇丹衛生部長盧克·湯普森·託安在新聞釋出會上表示，自2025年9月以來，南蘇丹衛生部門已登記1721例霍亂疫情死亡病例和110574例確診病例。此次霍亂疫情已遍佈全國9個州55個縣和3個行政區，是南蘇丹迄今最大規模的霍亂疫情。（央視新聞）
+
+---
+
+### 2026-08-13 00:14:24  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google (GOOG.O) launches Pixel 11 Pro Fold.
+
+---
+
+### 2026-08-13 00:14:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Ends Flat Near Record Highs — The FTSE MIB closed largely unchanged at 53,699 on Wednesday, holding near record levels for a third straight session as losses for utilities offset renewed positive sentiment over AI spending. AI-related stocks advanced after upbeat sales forecasts from Tencent, CoreWeave, and Super Micro Computer, driven by stronger AI spending, with Prysmian rising 3% and STMicroelectronics adding 0.6% in Milan. Defense stocks also gained amid elevated geopolitical risks, led by Avio (1.7%) and Leonardo (1.4%). Financials remain mixed despite easing pressures of a Fed rate hike in September, while consolidation prospects continue. Unipol gained 1.9% after Berenberg stated the lender fully set to implement an MPS carve-out deal, while UniCredit lost 0.1% after reports that the ECB is leaning towards approving the lender's takeover bid of Commerzbank. Utilities weighed as European natural gas prices surged, led by Enel (-1.3%). Diasorin fell 3.3% after a UBS downgrade to "sell".
 
 ---
 
@@ -18715,29 +18733,5 @@ US stocks opened higher: Dow +0.11%, S&P 500 +0.14%, Nasdaq +0.25%. NVIDIA (NVDA
 ### 2026-08-11 21:27:58  #國際
 
 市場訊息：巴基斯坦內政部長抵達德黑蘭，受到伊朗內政部長穆梅尼的接待。
-
----
-
-### 2026-08-11 21:27:40  #MKT News
-
-Pakistan's interior minister arrived in Tehran.
-
----
-
-### 2026-08-11 21:27:20  #Trading Economics #Markets #United States #Currency #Importance 1
-
-US Dollar Holds Rebound — The dollar index was at the 99.8 mark on Tuesday, holding the rebound from the two-month low of 99.5 on Friday amid fresh pressure on the yen, while markets further assessed the Federal Reserve's policy outlook. Markets mounted on short positions on the Japanese currency after the US Treasury completed its joint intervention on the foreign exchange market with Tokyo. Treasury Secretary Bessent had bought yen with euros in the Exchange Stabilization Fund to prevent Japan from selling more US bonds to defend their currency, but mountain fiscal pressures for Japan and the surge in US long yields drove the dollar to rebound against the yen. Meanwhile, Cleveland Fed President Hammack reiterated her view that a Fed hike is appropriate to combat inflation ahead of tomorrow's CPI report. The data is expected to show that core inflation measures should slow for a second month. Still, the elevated levels of wholesale energy commodities challenge the argument for a hold.
-
----
-
-### 2026-08-11 21:27:16  #公司
-
-【濰柴動力：暫無開展商業衛星及商業航天用電源電池產品的研發規劃】濰柴動力在互動平臺表示，公司現階段暫無開展商業衛星及商業航天用電源電池產品以及月球基建方向獨立供電產品的研發規劃。
-
----
-
-### 2026-08-11 21:26:23  #公司
-
-【熊貓金控：收到證監會湖南監管局《行政處罰決定書》，被處以700萬元罰款】熊貓金控公告，公司收到中國證監會湖南監管局《行政處罰決定書》。經查，*ST熊貓與昆朋資產的債權轉讓為虛假交易，*ST熊貓為債權轉讓提供資金，後續透過資金拆借掩蓋虛假交易，上述債權由國峻實業控股有限公司代持。依照相關規定，湖南證監局決定：一、對熊貓金控股份有限公司責令改正，給予警告，並處以700萬元罰款；二、對徐金煥給予警告，並處以400萬元罰款；三、對李民給予警告，並處以200萬元罰款；四、對羅春豔給予警告，並處以150萬元罰款；五、對楊恆偉、黃玉岸給予警告，並分別處以100萬元罰款。鑑於徐金煥、李民的相關違法情節嚴重，依據相關規定，湖南證監局決定：對徐金煥採取5年證券市場禁入措施，對李民採取3年證券市場禁入措施。自湖南證監局宣佈決定之日起，在禁入期間內，上述人員除不得繼續在原機構從事證券業務、證券服務業務或者擔任原證券發行人的董事、監事、高階管理人員職務外，也不得在其他任何機構中從事證券業務、證券服務業務或者擔任其他證券發行人的董事、監事、高階管理人員職務。
 
 ---

@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 13:36:19_
-_本檔包含 3133 則快訊，約 604373 字_
+_更新時間：2026-08-15 13:56:11_
+_本檔包含 3132 則快訊，約 604071 字_
+
+---
+
+### 2026-08-14 05:13:18  #MKT News
+
+An Argentine LNG project has applied to join the RIGI incentive scheme, involving USD 51 bln of investment.
+
+---
+
+### 2026-08-14 05:12:41  #MKT News
+
+【Russian foreign ministry rebuts Japan protest over Putin island visit】Russian Foreign Ministry spokeswoman Zakharova on the ministry website on the 13th rejected comments by Japanese Prime Minister Takaichi and Foreign Minister Motegi protesting President Putin’s landing on Iturup Island (Japan: Etorofu). She called their remarks politically meaningless, “insulting” and legally ineffective, citing WWII outcomes, allied agreements and the UN Charter to assert the Southern Kurils (Japan: Northern Territories/Northern Four Islands) belong to Russia and that Iturup is part of Russia’s “indivisible territory.” Zakharova described Takaichi’s and Motegi’s statements as “outrageous, completely unacceptable,” accused them of “revanchism,” and said they damage Japan’s neighbors and the wider Asia‑Pacific.
 
 ---
 
@@ -18847,23 +18859,5 @@ DAX Snaps 4-Day Advance — The DAX 40 gave up early gains to close about 0.2% l
 ### 2026-08-13 00:18:06  #MKT News
 
 【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently.
-
----
-
-### 2026-08-13 00:16:05  #其他
-
-【南蘇丹霍亂疫情致1721人死亡 確診病例超11萬例】當地時間8月12日，南蘇丹衛生部長盧克·湯普森·託安在新聞釋出會上表示，自2025年9月以來，南蘇丹衛生部門已登記1721例霍亂疫情死亡病例和110574例確診病例。此次霍亂疫情已遍佈全國9個州55個縣和3個行政區，是南蘇丹迄今最大規模的霍亂疫情。（央視新聞）
-
----
-
-### 2026-08-13 00:14:24  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google (GOOG.O) launches Pixel 11 Pro Fold.
-
----
-
-### 2026-08-13 00:14:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Ends Flat Near Record Highs — The FTSE MIB closed largely unchanged at 53,699 on Wednesday, holding near record levels for a third straight session as losses for utilities offset renewed positive sentiment over AI spending. AI-related stocks advanced after upbeat sales forecasts from Tencent, CoreWeave, and Super Micro Computer, driven by stronger AI spending, with Prysmian rising 3% and STMicroelectronics adding 0.6% in Milan. Defense stocks also gained amid elevated geopolitical risks, led by Avio (1.7%) and Leonardo (1.4%). Financials remain mixed despite easing pressures of a Fed rate hike in September, while consolidation prospects continue. Unipol gained 1.9% after Berenberg stated the lender fully set to implement an MPS carve-out deal, while UniCredit lost 0.1% after reports that the ECB is leaning towards approving the lender's takeover bid of Commerzbank. Utilities weighed as European natural gas prices surged, led by Enel (-1.3%). Diasorin fell 3.3% after a UBS downgrade to "sell".
 
 ---

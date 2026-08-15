@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 13:36:19_
-_本檔包含 3092 則快訊，約 604217 字_
+_更新時間：2026-08-15 13:56:11_
+_本檔包含 3096 則快訊，約 604635 字_
+
+---
+
+### 2026-08-15 13:54:54  #其他 #焦點 #國際
+
+英國海事貿易行動辦公室（UKMTO）稱，週五收到報告稱，一艘散貨船在霍爾木茲海峽被不明拋射物擊中，船員報告安全，目前尚無船舶受損報告，環境影響尚不明確。
+
+---
+
+### 2026-08-15 13:53:35  #國際
+
+受印尼地震影響，飛往東努沙登加拉省的多趟境內航班被取消。（新華社）
+
+---
+
+### 2026-08-15 13:51:57  #MKT News
+
+【Indonesian foreign ministry consular department: no foreign casualties reported after quake】On Aug 15 the Consular Affairs Department of the Indonesian Ministry of Foreign Affairs said no foreign casualties have been reported following a 7.7 magnitude earthquake at 04:58:24 local time off Nagekeo regency, East Nusa Tenggara (NTT). The epicenter was about 38 km northeast of Mbay at a depth of 15 km. The quake briefly carried a tsunami risk and prompted coastal evacuations. The Indonesian Meteorology, Climatology and Geophysics Agency (BMKG) said that as of 11:00 Central Indonesia Time (WITA) 111 aftershocks had been recorded, the latest magnitude 3.8, and seismic activity is continuing. The tsunami warning was lifted at 07:31. Remaining risks are aftershocks and damage to buildings.
+
+---
+
+### 2026-08-15 13:51:19  #國際
+
+【印尼外交部領事司：地震暫未導致外國公民傷亡】當地時間15日，印尼外交部領事司通報地震有關訊息，稱截至目前無外國公民傷亡。（央視新聞）
+
+---
+
+### 2026-08-15 13:38:06  #國際
+
+【印尼7.7級地震後已發生111次餘震】印尼氣象、氣候與地球物理局表示，截至印尼中部時間15日11時，東努沙登加拉省納格克縣7.7級地震發生後，已記錄到111次餘震，最近一次震級為3.8級。目前地震活動仍在持續。印尼氣象、氣候與地球物理局提醒弗洛勒斯島居民保持警惕，防範後續餘震。（央視新聞）
+
+---
+
+### 2026-08-15 13:36:03  #其他
+
+【香港特區政府房屋局和建築署榮登行政長官表揚榜】8月14日，香港特區政府房屋局和建築署整個簡約公屋團隊榮登行政長官表揚榜，房屋局局長何永賢在社交媒體上發文：“感謝對團隊的肯定，將繼續用心服務市民。” 何永賢說，團隊今日能有階段性的成果，當中最關鍵的，是大家真正地以人為本，每一位同事都清楚意識到，一些“劏房”的環境極度惡劣，令收入不多的基層市民更捉襟見肘，因此早一日完成工程、早一日入夥、有需要的家庭就早一日改善生活。 （大灣區之聲）
 
 ---
 
@@ -18667,17 +18703,5 @@ Reddit 即將納入標普 500 指數  。
 ### 2026-08-14 05:13:26  #Trading Economics #Economy #South Korea #Import Prices YoY #Importance 1
 
 South Korea Import Price Growth Eases in July — South Korea’s import prices rose 18.7% year-on-year in July 2026, easing from an upwardly revised 20.9% increase in June. Price gains were led by mining products, which climbed 24.9%, driven by higher costs for coal, crude petroleum and natural gas (23.8%), as well as metallic and non-metallic mineral products (32.3%). Prices for manufactured goods rose 16.7%, with coal and petroleum products up 35.5% and basic metal products increasing 28.0%. Meanwhile, prices for agricultural, forestry and marine products increased 15.2%, with marine foods rising 20.6% and agricultural foods up 18.3%.
-
----
-
-### 2026-08-14 05:13:18  #MKT News
-
-An Argentine LNG project has applied to join the RIGI incentive scheme, involving USD 51 bln of investment.
-
----
-
-### 2026-08-14 05:12:41  #MKT News
-
-【Russian foreign ministry rebuts Japan protest over Putin island visit】Russian Foreign Ministry spokeswoman Zakharova on the ministry website on the 13th rejected comments by Japanese Prime Minister Takaichi and Foreign Minister Motegi protesting President Putin’s landing on Iturup Island (Japan: Etorofu). She called their remarks politically meaningless, “insulting” and legally ineffective, citing WWII outcomes, allied agreements and the UN Charter to assert the Southern Kurils (Japan: Northern Territories/Northern Four Islands) belong to Russia and that Iturup is part of Russia’s “indivisible territory.” Zakharova described Takaichi’s and Motegi’s statements as “outrageous, completely unacceptable,” accused them of “revanchism,” and said they damage Japan’s neighbors and the wider Asia‑Pacific.
 
 ---
