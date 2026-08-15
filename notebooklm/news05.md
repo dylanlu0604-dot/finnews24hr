@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:55:10_
-_本檔包含 2758 則快訊，約 603390 字_
+_更新時間：2026-08-15 13:36:19_
+_本檔包含 2759 則快訊，約 604134 字_
+
+---
+
+### 2026-08-10 18:27:31  #公司
+
+【工大科雅：股東擬公開徵集轉讓合計7.37%公司股份】工大科雅公告稱，股東昌泰集團、中電海河分別持有公司3.68%、3.70%股份，擬聯合以公開徵集方式協議轉讓全部股份，組成合計888.61萬股（約佔總股本7.37%）的股份包，轉讓給單一受讓方。公開徵集轉讓價格不低於24.63元/股，最終價格綜合確定。公開徵集期為8月11日至24日，擬受讓方需交1000萬元締約保證金。本次轉讓能否徵集到受讓方及最終完成存在不確定性。
+
+---
+
+### 2026-08-10 18:26:34  #公司
+
+【淳中科技：擬回購5000萬元-1億元股份並通知債權人】淳中科技公告稱，公司擬以集中競價交易方式回購股份用於登出並減少註冊資本，回購金額不低於5000萬元、不超過1億元，回購價格不超過173.61元/股，回購期限為自2026年第三次臨時股東會審議透過方案之日起12個月內。按回購價格上限測算，可回購股份約28.81萬股-57.60萬股，佔總股本的0.14%-0.28%。相關債權人可在規定期限內申報債權。
+
+---
+
+### 2026-08-10 18:26:30  #公司 #市場
+
+【秦安股份：股價異常波動 一季度營收增23.19%扣非淨利降27.73%】秦安股份公告稱，2026年8月6日至8月10日，公司A股連續3個交易日收盤價格漲幅偏離值累計達21.04%，屬異常波動。經自查，公司經營正常，無應披露未披露重大資訊。一季度，公司營收36,632.48萬元，同比增長23.19%；扣非淨利潤2,301.38萬元，同比下滑27.73%。此外，公司外部流通盤小、近三日平均換手率2.11%，存在股價波動風險，提醒投資者注意。
+
+---
+
+### 2026-08-10 18:26:12  #其他
+
+【浙江防颱風應急響應調整為Ⅲ級】今年第13號颱風“白海豚”8月10日14時中心位於江西省上饒市廣豐區境內，預計將以每小時10~15公里的速度向西北方向移動，強度逐漸減弱，對浙江省影響進一步減少。東苕溪瓶窯站水位已回落至保證水位以下，甬江、椒江、楠溪江、溫黃平原主要江河站水位出峰迴落，全省汛情總體平穩。根據《浙江省防汛防颱抗旱應急預案》，經研判會商，浙江省防指決定於8月10日18時將防颱風應急響應調整為Ⅲ級。受“白海豚”殘留雲系影響，今天明天沿海和浙北仍有強降雨過程，部分水庫、河道水位較高，山體土壤含水量飽和，山洪、滑坡、泥石流等次生災害風險突出。各地各部門要繼續高效執行“1833”聯合指揮體系，緊盯次生災害防範，加強已轉移人員的安全管理，慎終如始落實各項防汛防颱舉措。 (央視新聞)
+
+---
+
+### 2026-08-10 18:25:37  #公司
+
+【綠盟科技：董事及高管減持計劃期限屆滿 合計減持136,700股】綠盟科技公告稱，公司董事兼高階副總裁葉曉虎、董事兼首席財務官車海轔及董事會秘書葛婧瑜此前計劃於2026年5月11日至8月10日以集中競價交易方式減持股份。截至8月10日減持計劃期限屆滿，葉曉虎減持116,700股，車海轔減持20,000股，葛婧瑜未減持，三人合計減持136,700股，佔總股本0.0169%。本次減持未超計劃，不會導致公司控制權變更，不影響公司治理結構及持續經營。
+
+---
+
+### 2026-08-10 18:24:20  #公司
+
+【長青股份：2026年上半年營收21.66億元 淨利潤同比增27.62%】長青股份公告稱，2026年上半年公司實現營業收入21.66億元，同比增長4.01%；歸屬於上市公司股東的淨利潤5395.42萬元，同比增長27.62%；扣除非經常性損益的淨利潤5901.11萬元，同比增長49.16%。截止2026年6月30日，公司總資產為89.87億元，歸屬於上市公司股東的淨資產為41.78億元。報告期內，公司主營業務穩定增長，殺菌劑系列產品銷售同比增64.63%，還探索電商銷售新模式，推動降本增效。
+
+---
+
+### 2026-08-10 18:24:14  #央行 #中國央行
+
+【《中國人民銀行“十五五”改革發展規劃》印發：強化金融市場制度建設 維護金融市場平穩執行】中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》。其中指出，持續建設開放包容、富有活力韌性的現代金融市場。完善多類別、多層次金融市場體系，進一步豐富金融市場業態，更好發揮金融市場功能。強化金融市場制度建設，維護金融市場平穩執行。
+
+---
+
+### 2026-08-10 18:23:33  #MKT News #Market Regions #Greater China #CNH #Impact bullish #000300.SS
+
+【PBOC to strengthen financial market institutions, safeguard market stability】The People's Bank of China (PBOC) issued its "15th Five-Year" reform and development plan, directing construction of an open, inclusive, and resilient modern financial market. The plan urges improvement of a multi-category, multi-tier market structure, expansion of market formats to better support market functions, and strengthening of financial market institutional frameworks to maintain orderly and stable market operations.
+
+---
+
+### 2026-08-10 18:23:22  #MKT News #Market Regions #Greater China
+
+【PBOC issues '15th Five‑Year' plan to build advanced, reliable and resilient financial infrastructure】The PBOC issued its '15th Five‑Year' reform and development plan, calling for a rationally distributed, well‑governed, advanced, reliable and resilient financial infrastructure system. Key measures include improving central bank service quality and efficiency; upgrading financial statistics, payments, treasury and cash‑service systems; steady development of the digital renminbi; promotion of high‑quality credit‑reporting services; strengthened anti‑money‑laundering supervision; and reinforcing legal and digital governance of central‑bank functions.
 
 ---
 
@@ -16611,53 +16665,5 @@ China's National Flood Control and Drought Relief Headquarters activated a level
 ### 2026-08-08 13:36:30  #其他
 
 【水利部：全國13條河流仍維持超警】今天上午，水利部舉行會商，分析研判全國的防汛形勢，未來三天錢塘江、甬江、椒江、水陽江可能發生編號洪水。截至8月8日9時，黑龍江、內蒙古、河北、雲南等地13條河流仍維持超警。8月8日至10日，受降雨影響，錢塘江、甬江、椒江、水陽江可能發生編號洪水，暴雨區內部分中小河流可能發生超警洪水；受上游來水影響，黑龍江干流撫遠江段將超警，松花江幹流及支流呼蘭河、黑龍江干流同江至勤得利江段將維持超警。
-
----
-
-### 2026-08-08 13:33:48  #其他
-
-【自然資源部將浙江地質災害防禦響應提升至Ⅲ級，對安徽啟動Ⅳ級響應】據自然資源部訊息，據氣象部門預測和自然資源部地質災害技術指導中心研判，受颱風“白海豚”影響，未來三天，浙江東部、安徽西部等地區域性地區發生地質災害的風險高。自然資源部於8月8日12時對安徽啟動地質災害防禦IV級響應，將浙江地質災害防禦響應等級由IV級提升為Ⅲ級，派出司局級同志帶隊的工作組赴浙江指導地質災害防範應對工作。自然資源部要求浙江和安徽兩省自然資源主管部門增強風險意識和憂患意識、強化底線思維和極限思維，密切關注颱風路徑和發展動向，高度重視本次颱風強降雨過程地質災害防範應對，及時組織開展巡查排查，切實做好監測預警、會商研判、災險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和駐守專家排程，全力協助地方做好地質災害防禦工作。
-
----
-
-### 2026-08-08 13:22:45  #MKT News #Market Regions #Europe & UK #Wall Street (US) #Commodities #Energy #S&P500 #Impact bullish #DAX #WTI
-
-【JP Morgan: Q2 EPS in US and Europe beat expectations】JP Morgan said the Q2 earnings season is in its late stage, with about 80–85% of US and European companies reported. EPS broadly beat expectations across both regions and the share of companies reporting upside rose materially. Despite elevated pre-season expectations, aggregate S&P 500 EPS continued to climb, and the proportion of firms lowering earnings guidance fell to its lowest level since 2021. YoY EPS growth ran about 25% in the US and 23% in Europe, both above consensus. Revenue growth was also healthy, roughly +14% YoY in the US and +10% YoY in Europe. A large portion of the earnings gain came from the energy sector, supported by geopolitically driven higher energy prices; financials and technology were also significant contributors.
-
----
-
-### 2026-08-08 13:20:48  #公司
-
-【湖北首家宇樹科技產業學院成立】據湖北日報，8月7日，湖北省首家宇樹科技產業學院在長江工程職業技術學院成立。據悉，“宇樹科技產業學院”由宇樹科技股份有限公司與長江工程職業技術學院共建，實行“企業專家任院長、校內教授任執行副院長”雙院長制管理架構，聚焦機器人除錯、運維、技術支援等市場緊缺崗位，精準培育緊缺人才。
-
----
-
-### 2026-08-08 13:20:26  #國際
-
-【日媒：中國企業高校研發總投入超美國，居世界第一】據日媒8日報道，中國企業和高校研發總投入已超過美國，位居世界第一。 據報道，日本文部科學省7日釋出的“2026年科技指標”顯示，中國2024年的研發投入同比增長13.1%，達到97.1萬億日元；美國2024年研發投入為95.3萬億日元，同比增長6.7%；日本以22.1萬億日元位列第三，同比增長8.4%。 《日本經濟新聞》指出，2017年，中國發表的科研論文數量超過美國，位居世界第一。2018年，中國在被引次數排名前10%的高質量論文數量方面也位居榜首。此外，自2019年以來，在被引次數排名前1%的質量更高的論文數量方面，中國一直保持領先地位。 報道稱，此次，中國在研發總支出方面也超過了美國。“中國在全球科研領域的領先地位已毋庸置疑。”（中新網）
-
----
-
-### 2026-08-08 13:17:35  #MKT News
-
-cenc reported a magnitude-5.2 earthquake in Alaska, USA at 12:50 on Aug 8; focal depth 10 km.
-
----
-
-### 2026-08-08 13:12:08  #國際
-
-中國地震臺網正式測定：08月08日12時50分在美國阿拉斯加州（北緯62.35度，西經152.25度）發生5.2級地震，震源深度10千米。
-
----
-
-### 2026-08-08 13:07:10  #公司
-
-【中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆】2026年7月21日，中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆，雙方就全球經濟金融形勢、中國宏觀經濟政策、加拿大養老基金投資公司在華展業等議題進行了交流。（中國人民銀行）
-
----
-
-### 2026-08-08 12:56:28  #國際
-
-美國地質調查局（USGS）：阿拉斯加州斯克溫特納西北54公里處發生5.6級地震。
 
 ---

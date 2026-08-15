@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:55:10_
-_本檔包含 3092 則快訊，約 604523 字_
+_更新時間：2026-08-15 13:36:19_
+_本檔包含 3092 則快訊，約 604217 字_
+
+---
+
+### 2026-08-15 13:32:03  #國際
+
+馬來西亞民航局證實蘇丹阿卜杜勒·阿齊茲·沙阿機場發生一起事件。
+
+---
+
+### 2026-08-15 13:31:15  #其他
+
+【河南周口市防汛抗旱指揮部：賈魯河周口段潰口目前可控】8月15日上午9時，周口市防汛抗旱指揮部發布《關於宣佈進入緊急防汛期的通告》，該《通告》發出後受到廣大群眾高度關注。周口市防汛抗旱指揮部相關負責人表示，8月13日晚11時左右，周口市川匯區新北環賈魯河大橋下堤防出現潰口，潰口目前可控。潰口現場，來自中國安能工程救援力量、省級骨幹救援力量攜帶挖掘機、裝載機、抽排水裝置等大型機械裝備，正在開展救援。“目前周口市防汛嚴峻，群眾關注度高，但同時網上也存在著部分關於防汛的不實言論，存在誤導群眾的可能性。希望廣大群眾一定要以官方釋出的資訊為準，不信謠、不傳謠、不造謠。”周口市防汛抗旱指揮部相關負責人說。（河南日報）
+
+---
+
+### 2026-08-15 13:30:50  #國際
+
+【李在明提出“包容穩定的對朝和平共處藍圖”】韓國總統李在明15日提出“包容穩定的對朝和平共處藍圖”，表示將推動朝鮮半島從當前的停戰體制向和平體制轉變。李在明當天在世宗文化會館舉行的光復節81週年慶祝儀式上致辭時闡述了這一對朝和平共處藍圖。李在明說，在去年光復節的慶祝儀式上，他曾表示尊重朝鮮現行體制，不追求以任何形式將其吸納統一，並明確表明無意進行任何敵對行為。時隔一年，他就此進一步提出“走向實踐的藍圖”。李在明就此提出三點建議。他建議韓朝實現彼此尊重的包容性和平共處，停止不必要對抗，從認知等層面逐步減少敵意。他希望南北雙方能夠坐下來，共同探討和平共處與共同發展的道路。（新華社）
+
+---
+
+### 2026-08-15 13:28:42  #公司
+
+【聯想集團劉軍：AI PC國內市場銷量佔比過半】聯想集團執行副總裁兼中國區總裁劉軍表示，“一體多端”戰略下，個人超級智慧體加持終端，聯想AI PC全球市場同比增86%，國內市場銷量佔膝上型電腦總銷量的比例已突破50%。他透露，在技術側，聯想正全面升級端側和邊緣側的算力，把Token生產更多留在本地，兼顧隱私與成本；在生態側則加速引入Skills，增強天禧AI的L3級任務執行能力。
+
+---
+
+### 2026-08-15 13:25:19  #國際
+
+黎巴嫩國家通訊社稱，以色列週六對黎巴嫩南部的空襲造成七人死亡。
+
+---
+
+### 2026-08-15 13:24:19  #公司 #國際
+
+據獨立檢驗與檢驗服務公司（ITS）資料，馬來西亞8月1日至15日棕櫚油出口量預計為68.1266萬噸。
+
+---
+
+### 2026-08-15 13:24:00  #公司 #國際
+
+【海關總署釋出關於進口泰國食用水生動物檢疫和衛生要求的公告】根據我國相關法律法規和中華人民共和國海關總署（以下稱中方）與泰王國農業與合作社部（以下稱泰方）關於泰國食用水生動物輸華檢驗檢疫和衛生要求的規定，即日起，允許符合要求的泰國食用水生動物進口。
+
+---
+
+### 2026-08-15 13:22:41  #國際
+
+【韓國首席貿易談判代表呂翰九被解職】韓國總統李在明於15日零時解除韓國產業通商部通商交涉本部長（首席貿易談判代表）呂翰九的職務。政府未公開此次人事任免的具體原因。呂翰九曾在文在寅政府擔任產業部通商政策局長和通商談判本部長。李在明政府上臺後，呂翰九再次出任該職，負責韓美關稅談判等重要貿易工作。在美國依據《貿易法》第301條啟動相關調查、電商酷澎（coupang）爭議持續發酵，以及美方要求韓國加快落實對美投資專案之際，韓方突然免去通商談判最高負責人職務，引發外界對免職背景的廣泛猜測。政府內部普遍認為，此次人事調整與韓美通商工作進展、呂翰九的工作表現無關，大機率涉及其個人相關問題。針對相關爭議質疑，呂翰九本人已予以否認。（第一財經）
+
+---
+
+### 2026-08-15 13:18:54  #MKT News
+
+【South Korea dismisses chief trade representative who led US negotiations】South Korea’s industry ministry said on Saturday it had dismissed its chief trade representative, without giving a reason. Yeo Han-koo, who had also served as trade minister, traveled to Washington several times this year to discuss tariffs, semiconductor-related measures and digital policy with US officials and lawmakers. The ministry said personnel decisions for political appointees are a presidential prerogative and that it will work to ensure current trade affairs are not affected. No successor has been named.
+
+---
+
+### 2026-08-15 13:18:01  #MKT News
+
+【7.7-magnitude quake off eastern Indonesia kills at least 20】Indonesia search-and-rescue officials said a 7.7-magnitude earthquake and several strong aftershocks struck on the morning of the 15th near Flores Island in eastern Indonesia, killing at least 20 people.
+
+---
+
+### 2026-08-15 13:17:13  #國際
+
+初步統計顯示，以色列對黎巴嫩南部安薩爾地區的空襲造成六人死亡。
+
+---
+
+### 2026-08-15 13:15:15  #其他
+
+【廣東7月報告新冠感染超7.1萬例、流感超43萬例】據“廣東釋出”，8月14日，廣東省衛生健康委員會網站顯示，廣東省疾病預防控制局公佈2026年7月全省法定傳染病疫情概況：2026年7月（7月1日0時至7月31日24時），全省共報告法定傳染病618365例，死亡113例。其中，2026年7月廣東省新型冠狀病毒感染報告發病71467例，死亡0例。報告顯示，2026年7月，全省甲類傳染病無發病、死亡報告。
+
+---
+
+### 2026-08-15 13:13:24  #國際
+
+【俄羅斯堪察加半島近海發生6.2級地震】俄羅斯科學院統一地球物理局堪察加分部透過社交平臺通報，協調世界時8月15日0時43分25秒（北京時間8時43分25秒），俄羅斯堪察加彼得羅巴甫洛夫斯克市南偏西方向約332公里的近海海域發生6.2級地震，震源深度63.8公里。（央視新聞）
+
+---
+
+### 2026-08-15 13:06:45  #其他
+
+【安徽緊急預撥1210萬元救災資金保障5市搶險救災】近日，受今年第13號颱風“白海豚”影響，安徽省多地出現強降雨天氣，部分地區引發洪澇災害。安徽省財政廳會同安徽省應急管理廳緊急預撥中央及省級自然災害救災資金1210萬元，支援六安、宣城、池州、安慶、黃山5市開展防汛防颱風應急搶險救災工作，重點用於受災群眾轉移安置基本生活保障、因災倒損住房修復等方面。今年入汛以來，安徽省財政已累計撥付防災減災救災資金1.16億元，重點支援自然災害救災、地質災害防治、水利防災救災、農業救災等領域。（央視新聞）
+
+---
+
+### 2026-08-15 13:05:40  #兩會
+
+【薩爾瓦多立法大會主席將訪華】應全國人大常委會委員長趙樂際邀請，薩爾瓦多立法大會主席卡斯特羅將於8月17日至22日率團訪華。（新華社）
+
+---
+
+### 2026-08-15 13:02:07  #公司
+
+【中廣核醫療與四川大學華西醫院簽署質子治療創新技術合作協議】據中廣核技訊息，8月14日，第32屆中國國際醫用儀器裝置展覽會暨技術交流會在北京國家會議中心開幕，中廣核技攜全線核醫療產品參展。展會現場，中廣核醫療科技（綿陽）有限公司與四川大學華西醫院簽署《質子弧形治療與自適應治療臨床聯合開發》合作協議，雙方將圍繞質子動態弧形治療和自適應治療技術的臨床轉化開展協同研發。
+
+---
+
+### 2026-08-15 12:59:11  #其他
+
+上海市氣象臺2026年08月15日12時52分發布中心城區雷電黃色預警訊號：預計未來12小時內，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。
+
+---
+
+### 2026-08-15 12:59:04  #其他
+
+【汛期催生家財險熱度，業內：建議以居住型別匹配相關產品】近期受颱風殘餘水汽北上影響，我國迎來大範圍持續性強降水天氣。華北、黃淮、華東等多地陸續開啟暴雨模式，北京多地接連發布暴雨橙色、紅色預警。記者注意到，在臺風、汛期的影響下，家財險的諮詢和銷售量也持續走高。有業內人士表示，家財險一般在投保成功後的第7天零時生效，部分附加險存在30天的等待期。考慮到等待期內發生的事故損失不予賠付，建議消費者提早規劃家財險，切勿等到颱風、汛期臨近才投保。（每經）
+
+---
+
+### 2026-08-15 12:58:47  #其他
+
+【遼寧沿海船舶定線制今起正式實施】據交通運輸部海事局訊息，今天（8月15日）我國首個覆蓋全省海域的船舶定線制——遼寧沿海船舶定線制正式實施，透過設定多種定線措施和區域特殊航行規則，實現“商漁分離、各行其道”。新規依託在現有老鐵山水道船舶定線制、大連港大三山水道通航分隔制2處船舶定線制基礎上，新增黃海北部、老鐵山水道至渤海北部、老鐵山水道至渤海西北部、老鐵山水道至渤海西部（遼寧段）4處船舶定線制，透過設定分道通航制、警戒區等定線措施，將交織重疊的船舶交通流整合為一條條互不干擾的“海上高速公路”，降低船舶交叉對遇頻率，保障船舶航行安全。新規要求，遼寧沿海船舶原則上應在定線制內航行，不得在定線制及其端部水域錨泊或從事捕撈、養殖等礙航活動，空間分隔商船航行和漁船作業，有效提升遼寧沿海船舶通航效率。（央視新聞）
+
+---
+
+### 2026-08-15 12:56:26  #國際
+
+【印尼7.7級地震已造成至少20人死亡】印度尼西亞救援部門官員15日對媒體表示，印尼東部弗洛勒斯島附近海域當天早上發生的7.7級地震及多次強餘震已造成至少20人死亡。（新華社）
 
 ---
 
@@ -18559,126 +18679,5 @@ An Argentine LNG project has applied to join the RIGI incentive scheme, involvin
 ### 2026-08-14 05:12:41  #MKT News
 
 【Russian foreign ministry rebuts Japan protest over Putin island visit】Russian Foreign Ministry spokeswoman Zakharova on the ministry website on the 13th rejected comments by Japanese Prime Minister Takaichi and Foreign Minister Motegi protesting President Putin’s landing on Iturup Island (Japan: Etorofu). She called their remarks politically meaningless, “insulting” and legally ineffective, citing WWII outcomes, allied agreements and the UN Charter to assert the Southern Kurils (Japan: Northern Territories/Northern Four Islands) belong to Russia and that Iturup is part of Russia’s “indivisible territory.” Zakharova described Takaichi’s and Motegi’s statements as “outrageous, completely unacceptable,” accused them of “revanchism,” and said they damage Japan’s neighbors and the wider Asia‑Pacific.
-
----
-
-### 2026-08-14 05:12:23  #其他
-
-阿根廷液化天然氣專案申請 510 億美元 RIGI 投資計劃。
-
----
-
-### 2026-08-14 05:10:19  #國際
-
-【俄外交部駁斥日方就普京登島提出的抗議】俄羅斯外交部發言人扎哈羅娃13日在俄外交部網站釋出宣告，駁斥日本首相高市早苗和日本外務大臣茂木敏充針對俄總統普京登上伊圖魯普島（日本稱擇捉島）發表的相關言論，稱這番言論在政治上毫無意義、帶有“侮辱”性質，在法理層面亦不具備效力。（新華社）
-
----
-
-### 2026-08-14 05:10:19  #MKT News #WTI #Impact bearish #Brent #DXY
-
-Saudi state news agency SPA said the Saudi crown prince and the CENTCOM commander held talks on deepening defense cooperation and measures to de‑escalate regional tensions.
-
----
-
-### 2026-08-14 05:08:53  #國際
-
-沙特通訊社：沙特王儲與美國中央司令部司令商討雙邊防務合作以及緩和地區緊張局勢的相關舉措。
-
----
-
-### 2026-08-14 05:08:23  #國際
-
-沙特通訊社：沙特王儲會見美國中央司令部司令。
-
----
-
-### 2026-08-14 05:08:03  #MKT News
-
-Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander.
-
----
-
-### 2026-08-14 05:07:23  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
-
-South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%.
-
----
-
-### 2026-08-14 05:03:01  #市場
-
-週四（8月13日）紐約尾盤（週五北京時間04:59），美元兌離岸人民幣（CNH）報6.7444元，較週三紐約尾盤跌14點，日內整體交投於6.74793-6.74218元區間。
-
----
-
-### 2026-08-14 05:02:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed pauses Treasury purchases for reserve management】The Federal Reserve said it will suspend Treasury purchases aimed at managing banking system reserves (RMP) for the next month, indicating reserves have reached a level the Fed considers adequate. The New York Fed said RMP buys will be paused for the operation cycle ending Sept. 14, while it will continue roughly $17.0 billion of maturing-principal reinvestments. The Fed said the adjustment is an operational change only and does not reflect a shift in monetary policy stance or balance-sheet strategy. It noted that higher US government cash balances could strain market liquidity but that funding markets remain functioning. In July SOFR was below the IORB for most of the month; the Aug. 12 SOFR fix was 3.62%, 3bp under the IORB.
-
----
-
-### 2026-08-14 05:02:44  #Trading Economics #Markets #United Arab Emirates #stocks #Importance 0
-
-International Holding Company PJSC Stock Price Hits Near 4-year Low — International Holding Company PJSC shares decreased to 375.00 AED, the lowest since October 2022. Over the past 4 weeks, International Holding Company PJSC lost 1.32%, and in the last 12 months, it decreased 6.3%.
-
----
-
-### 2026-08-14 05:00:12  #資料 #國際
-
-韓國7月出口物價指數年率 49.1%，前值由48.90%修正為48.7%。
-韓國7月進口物價指數年率 18.7%，前值由20.60%修正為20.9%。
-
----
-
-### 2026-08-14 05:00:12  #MKT News
-
-South Korea export price index up 49.1% YoY in July; prior reading revised to 48.7% from 48.90%.
-
----
-
-### 2026-08-14 05:00:10  #MKT News #DXY #Impact bullish
-
-South Korea July import price index YoY +18.7%; previous reading revised from 20.60% to 20.9%.
-
----
-
-### 2026-08-14 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Import Price Index (YoY) (Jul) | actual 18.7% | previous 20.60%
-
----
-
-### 2026-08-14 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Export Price Index (YoY) (Jul) | actual 49.1% | previous 48.90%
-
----
-
-### 2026-08-14 04:54:40  #其他
-
-PJM 向聯邦監管機構提交一份方案，擬採購新增電力資源，為資料中心供電。
-
----
-
-### 2026-08-14 04:53:03  #資料 #市場
-
-週四（8月13日）紐約尾盤，現貨黃金跌1.34%，報4350.20美元/盎司。現貨白銀跌1.43%，報64.427美元/盎司，日內震盪下行，交投於66.303-64.219美元。COMEX銅期貨跌0.35%，報6.5326美元/磅，盤中一度走V收復跌幅，美PPI資料後較日高回落收跌。
-
----
-
-### 2026-08-14 04:49:30  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iran set its September Asian selling price for Iranian Light crude at a $4.70/bbl discount to the Oman/Dubai benchmark.
-
----
-
-### 2026-08-14 04:49:27  #國際
-
-伊朗將 9 月銷往亞洲的伊朗輕質原油定價定為阿曼 / 迪拜原油貼水 4.70 美元 / 桶。
-
----
-
-### 2026-08-14 04:47:47  #Trading Economics #Economy #Argentina #Inflation Rate MoM #Importance 1
-
-Argentina Monthly Inflation Edges Higher in July — Argentina’s consumer price index rose 2.1% month-over-month in July 2026, up from 1.9% in June and slightly above forecasts of 2.0%. Seasonal prices increased 4.5%, led by vegetables, tour packages and accommodation services, while regulated prices rose 2.1%, reflecting higher public transportation fares, private healthcare costs and electricity prices. Recreation and Culture recorded the largest monthly increase at 5.0%, driven by higher tour packages and cultural services, followed by Restaurants and Hotels at 2.8%. Across Greater Buenos Aires, the Northeast, Northwest, Pampas and Patagonia, Food and Non-Alcoholic Beverages made the largest contribution to monthly inflation, driven by higher vegetable, dairy, bread and cereal prices. Core CPI rose 1.8%, driven by higher housing rents and cultural services, partly offset by a decline in building maintenance fees following the removal of a 20% surcharge included in June.
 
 ---

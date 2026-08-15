@@ -1,7 +1,128 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:55:10_
-_本檔包含 3131 則快訊，約 603351 字_
+_更新時間：2026-08-15 13:36:19_
+_本檔包含 3133 則快訊，約 604373 字_
+
+---
+
+### 2026-08-14 05:12:23  #其他
+
+阿根廷液化天然氣專案申請 510 億美元 RIGI 投資計劃。
+
+---
+
+### 2026-08-14 05:10:19  #國際
+
+【俄外交部駁斥日方就普京登島提出的抗議】俄羅斯外交部發言人扎哈羅娃13日在俄外交部網站釋出宣告，駁斥日本首相高市早苗和日本外務大臣茂木敏充針對俄總統普京登上伊圖魯普島（日本稱擇捉島）發表的相關言論，稱這番言論在政治上毫無意義、帶有“侮辱”性質，在法理層面亦不具備效力。（新華社）
+
+---
+
+### 2026-08-14 05:10:19  #MKT News #WTI #Impact bearish #Brent #DXY
+
+Saudi state news agency SPA said the Saudi crown prince and the CENTCOM commander held talks on deepening defense cooperation and measures to de‑escalate regional tensions.
+
+---
+
+### 2026-08-14 05:08:53  #國際
+
+沙特通訊社：沙特王儲與美國中央司令部司令商討雙邊防務合作以及緩和地區緊張局勢的相關舉措。
+
+---
+
+### 2026-08-14 05:08:23  #國際
+
+沙特通訊社：沙特王儲會見美國中央司令部司令。
+
+---
+
+### 2026-08-14 05:08:03  #MKT News
+
+Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander.
+
+---
+
+### 2026-08-14 05:07:23  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
+
+South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%.
+
+---
+
+### 2026-08-14 05:03:01  #市場
+
+週四（8月13日）紐約尾盤（週五北京時間04:59），美元兌離岸人民幣（CNH）報6.7444元，較週三紐約尾盤跌14點，日內整體交投於6.74793-6.74218元區間。
+
+---
+
+### 2026-08-14 05:02:51  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed pauses Treasury purchases for reserve management】The Federal Reserve said it will suspend Treasury purchases aimed at managing banking system reserves (RMP) for the next month, indicating reserves have reached a level the Fed considers adequate. The New York Fed said RMP buys will be paused for the operation cycle ending Sept. 14, while it will continue roughly $17.0 billion of maturing-principal reinvestments. The Fed said the adjustment is an operational change only and does not reflect a shift in monetary policy stance or balance-sheet strategy. It noted that higher US government cash balances could strain market liquidity but that funding markets remain functioning. In July SOFR was below the IORB for most of the month; the Aug. 12 SOFR fix was 3.62%, 3bp under the IORB.
+
+---
+
+### 2026-08-14 05:02:44  #Trading Economics #Markets #United Arab Emirates #stocks #Importance 0
+
+International Holding Company PJSC Stock Price Hits Near 4-year Low — International Holding Company PJSC shares decreased to 375.00 AED, the lowest since October 2022. Over the past 4 weeks, International Holding Company PJSC lost 1.32%, and in the last 12 months, it decreased 6.3%.
+
+---
+
+### 2026-08-14 05:00:12  #資料 #國際
+
+韓國7月出口物價指數年率 49.1%，前值由48.90%修正為48.7%。
+韓國7月進口物價指數年率 18.7%，前值由20.60%修正為20.9%。
+
+---
+
+### 2026-08-14 05:00:12  #MKT News
+
+South Korea export price index up 49.1% YoY in July; prior reading revised to 48.7% from 48.90%.
+
+---
+
+### 2026-08-14 05:00:10  #MKT News #DXY #Impact bullish
+
+South Korea July import price index YoY +18.7%; previous reading revised from 20.60% to 20.9%.
+
+---
+
+### 2026-08-14 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Import Price Index (YoY) (Jul) | actual 18.7% | previous 20.60%
+
+---
+
+### 2026-08-14 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Export Price Index (YoY) (Jul) | actual 49.1% | previous 48.90%
+
+---
+
+### 2026-08-14 04:54:40  #其他
+
+PJM 向聯邦監管機構提交一份方案，擬採購新增電力資源，為資料中心供電。
+
+---
+
+### 2026-08-14 04:53:03  #資料 #市場
+
+週四（8月13日）紐約尾盤，現貨黃金跌1.34%，報4350.20美元/盎司。現貨白銀跌1.43%，報64.427美元/盎司，日內震盪下行，交投於66.303-64.219美元。COMEX銅期貨跌0.35%，報6.5326美元/磅，盤中一度走V收復跌幅，美PPI資料後較日高回落收跌。
+
+---
+
+### 2026-08-14 04:49:30  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iran set its September Asian selling price for Iranian Light crude at a $4.70/bbl discount to the Oman/Dubai benchmark.
+
+---
+
+### 2026-08-14 04:49:27  #國際
+
+伊朗將 9 月銷往亞洲的伊朗輕質原油定價定為阿曼 / 迪拜原油貼水 4.70 美元 / 桶。
+
+---
+
+### 2026-08-14 04:47:47  #Trading Economics #Economy #Argentina #Inflation Rate MoM #Importance 1
+
+Argentina Monthly Inflation Edges Higher in July — Argentina’s consumer price index rose 2.1% month-over-month in July 2026, up from 1.9% in June and slightly above forecasts of 2.0%. Seasonal prices increased 4.5%, led by vegetables, tour packages and accommodation services, while regulated prices rose 2.1%, reflecting higher public transportation fares, private healthcare costs and electricity prices. Recreation and Culture recorded the largest monthly increase at 5.0%, driven by higher tour packages and cultural services, followed by Restaurants and Hotels at 2.8%. Across Greater Buenos Aires, the Northeast, Northwest, Pampas and Patagonia, Food and Non-Alcoholic Beverages made the largest contribution to monthly inflation, driven by higher vegetable, dairy, bread and cereal prices. Core CPI rose 1.8%, driven by higher housing rents and cultural services, partly offset by a decline in building maintenance fees following the removal of a 20% surcharge included in June.
 
 ---
 
@@ -18744,113 +18865,5 @@ Google (GOOG.O) launches Pixel 11 Pro Fold.
 ### 2026-08-13 00:14:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
 
 FTSE MIB Ends Flat Near Record Highs — The FTSE MIB closed largely unchanged at 53,699 on Wednesday, holding near record levels for a third straight session as losses for utilities offset renewed positive sentiment over AI spending. AI-related stocks advanced after upbeat sales forecasts from Tencent, CoreWeave, and Super Micro Computer, driven by stronger AI spending, with Prysmian rising 3% and STMicroelectronics adding 0.6% in Milan. Defense stocks also gained amid elevated geopolitical risks, led by Avio (1.7%) and Leonardo (1.4%). Financials remain mixed despite easing pressures of a Fed rate hike in September, while consolidation prospects continue. Unipol gained 1.9% after Berenberg stated the lender fully set to implement an MPS carve-out deal, while UniCredit lost 0.1% after reports that the ECB is leaning towards approving the lender's takeover bid of Commerzbank. Utilities weighed as European natural gas prices surged, led by Enel (-1.3%). Diasorin fell 3.3% after a UBS downgrade to "sell".
-
----
-
-### 2026-08-13 00:13:50  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Yemen's Mocha port authority says port operations fully suspended after attacks by Houthi militants.
-
----
-
-### 2026-08-13 00:13:09  #Trading Economics #Economy #Russia #Inflation Rate #Importance 1
-
-Russia Inflation Holds Steady in July — Russia’s annual inflation rate held at 6.0% in July 2026, matching June’s reading and remaining at its highest level since January. Motor gasoline inflation accelerated sharply to 25.9% from 19.9%, amid a severe fuel shortage as Ukrainian drone attacks disrupted refinery output. Core inflation rose to 5.2% from 5.0%, while goods inflation accelerated to 5.3% from 4.3%, driven by faster food price growth (4.4% vs 3.4%). In contrast, services inflation eased to 7.8% from 10.6%. On a monthly basis, consumer prices rose 0.5% in July, slowing from a 0.9% increase in June.
-
----
-
-### 2026-08-13 00:12:00  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index fell 8 points or 0.01 percent on Wednesday to close at 53699 points. Leading the losses are Diasorin (-3.32%), Stellantis N.V. (-2.86%) and Brunello Cucinelli (-2.79%). Top gainers were Prysmian (3.49%), Unipol Gruppo (2.25%) and Avio (1.73%).
-
----
-
-### 2026-08-13 00:11:52  #公司
-
-谷歌：Pixel 11 Pro Fold 今日開啟預購，將於 8 月 20 日上市開售。
-
----
-
-### 2026-08-13 00:11:14  #公司
-
-谷歌：推出 Pixel 11 Pro Fold。
-
----
-
-### 2026-08-13 00:11:00  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.23% Lower — The DAX Index dropped 60 points or 0.23 percent on Wednesday to close at 26331 points. Losses were led by E.ON (-3.15%), SAP (-2.73%) and Adidas (-2.28%). Offsetting the fall, top gainers were Rheinmetall (2.79%), Siemens Energy (1.98%) and Hochtief (1.12%).
-
----
-
-### 2026-08-13 00:10:00  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.46% Lower — The CAC 40 Index decreased 40 points or 0.46 percent on Wednesday to close at 8675 points. The decline was led by Essilor (-4.56%), Kering (-3.93%) and Capgemini (-3.52%). On the upside, the strongest performers were Schneider Electric (1.42%), Legrand (1.23%) and Thales (1.19%).
-
----
-
-### 2026-08-13 00:08:14  #國際
-
-烏克蘭總統澤連斯基：同亞美尼亞總理進行了交談。
-
----
-
-### 2026-08-13 00:07:20  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.22% Lower — The FTSE 100 Index fell 23 points or 0.22 percent on Wednesday to close at 10821 points. Leading the losses are Burberry (-4.57%), Marks & Spencer (-3.78%) and Relx (-2.95%). Top gainers were Admiral (2.90%), Fresnillo (2.75%) and 3i (2.46%).
-
----
-
-### 2026-08-13 00:06:42  #國際
-
-美國農業部：將阿根廷2025/2026年度大豆產量預期從之前的5000萬噸下調至4950萬噸；將巴西2025/2026年度大豆產量預期從之前的1.8億噸上調至1.805億噸。維持阿根廷2025/2026年度玉米產量預期在6300萬噸不變；將巴西2025/2026年度玉米產量預期從之前的1.38億噸上調至1.4億噸。
-
----
-
-### 2026-08-13 00:05:15  #MKT News #Important
-
-USDA left Argentina's 2025/26 corn production forecast unchanged at 63 mln tonnes and raised Brazil's 2025/26 corn forecast to 140 mln tonnes from 138 mln tonnes.
-
----
-
-### 2026-08-13 00:05:14  #MKT News #Important #Market Regions #Emerging Markets
-
-USDA cut Argentina's 2025/26 soybean production forecast to 49.5 mln t from 50.0 mln t and raised Brazil's to 180.5 mln t from 180.0 mln t.
-
----
-
-### 2026-08-13 00:04:57  #其他
-
-MUFG 試點專案計劃於年底前完成，該項服務預計在 2027‑2029 財年間全面落地。
-
----
-
-### 2026-08-13 00:04:35  #市場 #國際
-
-CBOT 玉米期貨在美國農業部報告發布後擴大漲幅。
-
----
-
-### 2026-08-13 00:03:27  #公司 #市場 #國際
-
-市場訊息：日本三菱日聯金融集團將透過區塊鏈推出日本國債即時交易業務。
-
----
-
-### 2026-08-13 00:03:01  #市場 #國際
-
-俄羅斯統計局：7 月汽油價格環比上漲 6.5%，柴油價格環比上漲 9.2%。
-
----
-
-### 2026-08-13 00:02:48  #國際
-
-美國農業部：8月美國2026/2027年度大豆產量預期為45.19億蒲式耳，市場預期為44.72億蒲式耳，7月預期為44.75億蒲式耳。8月美國2026/2027年度大豆期末庫存預期為3.2億蒲式耳，市場預期為3.04億蒲式耳，7月預期為3.1億蒲式耳。8月美國2026/2027年度大豆單產預期為52.7蒲式耳/英畝，市場預期為52.9蒲式耳/英畝，7月預期為53蒲式耳/英畝。
-
----
-
-### 2026-08-13 00:02:40  #MKT News #Important
-
-USDA August projects 2026/27 US soybean production at 4.519 bln bu, above the market consensus of 4.472 bln and July's 4.475 bln. USDA forecasts 2026/27 US soybean ending stocks at 320 mln bu, versus market 304 mln and July 310 mln. USDA projects yield at 52.7 bu/acre, below the market 52.9 and July's 53.0.
 
 ---
