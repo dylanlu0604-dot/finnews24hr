@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16 06:25:07",
-  "count": 15263,
+  "updated": "2026-08-16 06:28:56",
+  "count": 15261,
   "items": [
     {
       "id": "5042448",
@@ -139674,30 +139674,6 @@
         "國際"
       ],
       "text": "以色列部隊以坦克火力打擊北拉法地區。"
-    },
-    {
-      "id": "te:markets:573899",
-      "time": "2026-08-09 06:26:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Titan Company earnings above expectations at 19.97 INR — Titan Company (TTAN) released earnings per share at 19.97 INR, compared to market expectations of 15.37 INR."
-    },
-    {
-      "id": "te:markets:573898",
-      "time": "2026-08-09 06:26:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "State Bank of India earnings above expectations at 22.89 INR — State Bank of India (SBIN) released earnings per share at 22.89 INR, compared to market expectations of 19.27 INR."
     }
   ]
 }
