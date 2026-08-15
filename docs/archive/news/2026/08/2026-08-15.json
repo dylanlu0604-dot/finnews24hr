@@ -1,7 +1,42 @@
 {
   "date": "2026-08-15",
-  "count": 402,
+  "count": 406,
   "items": [
+    {
+      "id": "mkt:01a002c5-3fe9-7aab-9046-a933a002063c",
+      "time": "2026-08-15 08:14:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia 7.7-magnitude quake near Flores triggers tsunami warning】A 7.7-magnitude earthquake struck off Flores island in Indonesia in the early hours of the 15th, the Meteorology, Climatology and Geophysics Agency (BMKG) said. The epicenter was about 30 km northeast of Mbay in East Nusa Tenggara province at a depth of 15 km. No casualties had been reported at the time; BMKG has issued a tsunami warning."
+    },
+    {
+      "id": "mkt:01a002c3-9d94-7aab-9046-a05215d2e5b4",
+      "time": "2026-08-15 08:12:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump says USS Lincoln in Middle East will be replaced】President Trump on the 14th at Andrews Joint Base in Maryland confirmed the USS Lincoln, whose prolonged Middle East deployment has raised questions about onboard living conditions and crew mental health, will be replaced. He said the carrier is \"leaving or about to leave\" and will be relieved \"by a very similar ship.\" U.S. officials said on the 13th they were preparing to send USS George Washington to the region to replace Lincoln. Asked whether families were increasingly worried about crew safety, Trump said, \"No, they are not.\" He added Lincoln's nearly nine-month deployment was \"far from enough.\""
+    },
+    {
+      "id": "5042063",
+      "time": "2026-08-15 08:11:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱襲擊沙特油企設施和葉門政府軍控制地區】葉門胡塞武裝14日說，該組織當天使用無人機襲擊沙特南部一處石油設施，並向葉門政府軍控制的摩卡港相關目標發射導彈，造成人員傷亡。據胡塞武裝控制的薩巴通訊社報道，該組織襲擊沙特奈季蘭地區的阿美石油公司設施，“成功擊中目標”。胡塞武裝軍事官員稱，此次襲擊是對沙特戰機“侵入葉門薩達省上空的回應”。薩達省與沙特接壤，是胡塞武裝控制區和主要據點。沙特方面尚未對胡塞武裝的說法作出回應。（新華社）"
+    },
+    {
+      "id": "5042061",
+      "time": "2026-08-15 08:11:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐登巴薩總領館提醒領區中國公民注意防範地震與海嘯】根據印尼氣象、氣候和地球物理局（BMKG）報告，2026年8月15日5點58分，印度尼西亞東努沙登加拉省納格克縣東北方向30公里處海域發生7.7級地震，震源深度15km，可能引發海嘯。駐登巴薩總領館提醒領區中國公民，特別是在東努省拉布安巴焦一帶的遊客，保持高度警惕，密切關注當地地震預警資訊以及防災預警，謹防餘震和海嘯風險，遠離海邊。如有需要，請及時報警或聯絡總領館求助。"
+    },
     {
       "id": "5042060",
       "time": "2026-08-15 08:09:45",
