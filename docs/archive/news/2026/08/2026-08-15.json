@@ -1,7 +1,27 @@
 {
   "date": "2026-08-15",
-  "count": 698,
+  "count": 700,
   "items": [
+    {
+      "id": "mkt:01a00533-531b-7aab-9048-e1206d710f07",
+      "time": "2026-08-15 19:34:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Hungarian PM Magyar says controlled barge sinking begun to raise water and secure Paks nuclear plant】Hungarian Prime Minister Magyar said at a Paks nuclear plant briefing on the 15th that controlled sinking of barges has begun; although Danube main-channel levels remain lower, water at the plant’s pumping station has risen about 1 cm. He warned that without the intervention the Danube could fall to extremely low levels by the evening of the 16th, forcing one of the two operating turbines offline and possibly triggering a full shutdown. Magyar said the barge sinking and construction of a submerged weir are intended to prevent that outcome."
+    },
+    {
+      "id": "5042292",
+      "time": "2026-08-15 19:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利總理：已開始沉船作業抬升水位 保障核電站執行】匈牙利總理毛焦爾當地時間15日在保克什核電站舉行的新聞釋出會上表示，駁船的受控沉降工作已經開始，儘管多瑙河主河道的水位仍在下降，但核電站泵站處的水位已上升了一釐米。毛焦爾表示，若不採取這一干預措施，16日晚間，多瑙河水位將降至極低水平，迫使該核電站兩臺仍在執行的渦輪機中的一臺停機，並可能導致後續全面停機。他指出，沉降駁船和建造潛堰正是為了防止這種情況發生。（央視新聞）"
+    },
     {
       "id": "5042291",
       "time": "2026-08-15 19:20:02",

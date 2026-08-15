@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-15 19:33:04",
-  "count": 15295,
+  "updated": "2026-08-15 19:37:12",
+  "count": 15296,
   "items": [
+    {
+      "id": "mkt:01a00533-531b-7aab-9048-e1206d710f07",
+      "time": "2026-08-15 19:34:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Hungarian PM Magyar says controlled barge sinking begun to raise water and secure Paks nuclear plant】Hungarian Prime Minister Magyar said at a Paks nuclear plant briefing on the 15th that controlled sinking of barges has begun; although Danube main-channel levels remain lower, water at the plant’s pumping station has risen about 1 cm. He warned that without the intervention the Danube could fall to extremely low levels by the evening of the 16th, forcing one of the two operating turbines offline and possibly triggering a full shutdown. Magyar said the barge sinking and construction of a submerged weir are intended to prevent that outcome."
+    },
+    {
+      "id": "5042292",
+      "time": "2026-08-15 19:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利總理：已開始沉船作業抬升水位 保障核電站執行】匈牙利總理毛焦爾當地時間15日在保克什核電站舉行的新聞釋出會上表示，駁船的受控沉降工作已經開始，儘管多瑙河主河道的水位仍在下降，但核電站泵站處的水位已上升了一釐米。毛焦爾表示，若不採取這一干預措施，16日晚間，多瑙河水位將降至極低水平，迫使該核電站兩臺仍在執行的渦輪機中的一臺停機，並可能導致後續全面停機。他指出，沉降駁船和建造潛堰正是為了防止這種情況發生。（央視新聞）"
+    },
     {
       "id": "5042291",
       "time": "2026-08-15 19:20:02",
@@ -140037,14 +140057,6 @@
         "公司"
       ],
       "text": "【阿聯酋稱該國一船隻在霍爾木茲海峽遭襲】據阿聯酋通訊社8月8日報道，阿布扎比國家石油公司證實，該公司一艘船隻當天凌晨在透過霍爾木茲海峽時遭導彈襲擊。阿布扎比國家石油公司說，襲擊未造成人員受傷，目前局面可控。該公司並未提供遭襲船隻具體型別、導彈來源以及船隻受損情況等更多細節。（新華社）"
-    },
-    {
-      "id": "5031945",
-      "time": "2026-08-08 19:35:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部啟動強降雨二級防禦響應】中央氣象臺8月8日18時繼續釋出颱風橙色預警、釋出暴雨橙色預警，交通運輸部維持颱風二級防禦響應、啟動強降雨二級防禦響應。（新華社）"
     }
   ]
 }
