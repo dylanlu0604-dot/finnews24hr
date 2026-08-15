@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-15 10:25:32",
-  "count": 15279,
+  "updated": "2026-08-15 10:29:24",
+  "count": 15282,
   "items": [
+    {
+      "id": "mkt:01a00340-35a2-7aab-9047-1a644fdb529a",
+      "time": "2026-08-15 10:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Q2 fund duration-extension trades persist, but ultra-long end risk-reward has shifted】CITIC Securities says funds' Q2 pattern of extending duration has continued, but the risk-reward at the ultra-long end has shifted marginally. The 30Y-10Y yield spread has tightened further since end-Q2 to about 47bp; trading activity in Chinese government bonds beyond 10 years remains at high historical percentiles. With limited remaining room for further spread compression, if long-end absolute yields lack further downward momentum marginal buying from funds and broker-dealers could weaken, increasing the risk of a phased pullback from crowded positions."
+    },
+    {
+      "id": "5042113",
+      "time": "2026-08-15 10:28:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：印度計劃啟動5座核反應堆。"
+    },
+    {
+      "id": "5042112",
+      "time": "2026-08-15 10:26:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：印度計劃到2047年實現100吉瓦核能裝機容量。"
+    },
+    {
+      "id": "5042111",
+      "time": "2026-08-15 10:25:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：印度將在7-8年內新增至多8家晶片工廠。"
+    },
+    {
+      "id": "5042110",
+      "time": "2026-08-15 10:25:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普再批美國文物保護組織國家歷史保護信託基金會】特朗普在社交媒體發文稱：“美國文物保護組織國家歷史保護信託基金會” 聽上去名頭光鮮，但連這個名字都帶有誤導性。在名稱末尾加上 “美國” 二字後，很容易讓人誤以為它是政府機構，可事實並非如此。早在 2005 年，美國聯邦政府就因嚴重不認同該機構的宗旨與目標，終止了對其撥款。這個基金會對我們國家危害極大：它阻撓大量具備價值的專案落地，還損害諸多相關方利益。這一次，他們試圖叫停一處關乎國家安全、保障美國曆任總統（現任及未來）、其家屬、幕僚與內閣成員安全的關鍵設施專案。（注：該基金會要求叫停白宮宴會廳改造專案，並表示該專案是非法的。）"
+    },
     {
       "id": "5042109",
       "time": "2026-08-15 10:20:35",
@@ -139906,22 +139946,6 @@
         "其他"
       ],
       "text": "葉門軍方：葉門軍方對胡塞武裝發起軍事行動，此次軍事行動是對胡塞武裝襲擊的回應，此次行動凸顯了聯合軍事指揮部的重要性。"
-    },
-    {
-      "id": "mkt:019fdf32-7ca0-7aab-8fc2-57e822d84d11",
-      "time": "2026-08-08 10:27:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's Defense Ministry says it has launched military operations against Houthi forces."
-    },
-    {
-      "id": "5031778",
-      "time": "2026-08-08 10:26:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【檢察官撤銷“破壞倒影池”指控 特朗普讓其再想想】美國總統特朗普8月7日要求一名聯邦檢察官“重新審視”其最近決定，即撤銷對一名前奧運選手破壞林肯紀念堂前倒影池的指控，特朗普堅持認為倒影池受到蓄意破壞。特朗普在社交媒體“真實社交”上發帖說，哥倫比亞特區聯邦檢察官珍尼娜·皮羅撤銷上述案件的決定“太倉促”。特朗普此前稱，皮羅在法官施壓下屈服。（新華社）"
     }
   ]
 }
