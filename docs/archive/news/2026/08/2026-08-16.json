@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 33,
+  "count": 34,
   "items": [
+    {
+      "id": "mkt:01a0067b-227d-7aab-904a-569e0969f348",
+      "time": "2026-08-16 01:32:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel conducts airstrike on Dair al-Zahrani in Nebetiyeh, southern Lebanon】Israeli forces carried out an airstrike on the town of Dair al-Zahrani in the Nebetiyeh area of southern Lebanon, killing four and wounding 17."
+    },
     {
       "id": "5042411",
       "time": "2026-08-16 01:28:16",
