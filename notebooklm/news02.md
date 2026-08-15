@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 18:54:02_
-_本檔包含 3133 則快訊，約 605554 字_
+_更新時間：2026-08-15 19:29:00_
+_本檔包含 3131 則快訊，約 605330 字_
+
+---
+
+### 2026-08-14 07:42:29  #國際
+
+【澳大利亞尋求豁免美國關稅】澳大利亞正尋求豁免美國關稅。澳大利亞總理安東尼·阿爾巴尼斯告訴記者，美國總統特朗普已表示他將考慮這一在通話中提出的請求。阿爾巴尼斯要求獲得全面豁免，或者至少不提高目前實施的12.5%的關稅。在交談中，他強調澳大利亞和美國維持自由貿易協定已超過20年，並指出美國對澳大利亞存在貿易順差。
+
+---
+
+### 2026-08-14 07:41:51  #其他
+
+【個人房貸利率降至“2字頭”？經濟日報：理性看待房貸利率市場化差異】個人住房貸款利率已降至“2字頭”了？近期部分借款人發現，自己的存量房貸利率已降至3%以下，一時間引發市場高度關注，相關討論聚焦房貸利率是否將進一步下行、房地產市場供需將如何變化等話題，看法眾說紛紜。近期出現的房貸利率降至“2字頭”現象，屬於在房貸利率市場化的背景下，部分地區的個別商業銀行的市場化行為，不必過度解讀。當前，我國房貸利率水平保持平穩。中國人民銀行最新發布的資料顯示，今年6月，新發放個人住房貸款利率約為3.1%，與上年同期基本持平。個別銀行之所以聚焦少數資信較好的借款人、推出“2字頭”低利率房貸，從經營管理角度看，其主要目的是以價換量，搶抓市場份額，穩定資產端規模。
+
+---
+
+### 2026-08-14 07:41:31  #公司
+
+【資本賦能 技術突圍 量子科技邁入產業化驗證新階段】量子科技加速從科研探索走向產業化驗證。在政策加持下，產業與資本形成雙向共振，量子科技企業上市梯隊逐步成型。8月11日，國儀公司掛牌上市，這是繼國盾量子之後又一家量子科技領域的上市公司。目前多家知名量子科技企業也開啟了資本化征程，本源量子計算科技（合肥）股份有限公司、北京玻色量子科技股份有限公司和上海圖靈智算量子科技股份有限公司等企業亦陸續完成上市輔導備案，2026年堪稱國內量子科技的“IPO元年”。記者調研瞭解到，以國盾量子、國儀公司和本源量子等公司為牽引的梯次上市格局初步成型，量子科技正作為新質生產力核心抓手，嘗試攻克生物醫藥、材料化學、金融科技等領域原本無解的難題，加速向新型基建與行業場景規模化落地。（中國證券報）
+
+---
+
+### 2026-08-14 07:40:21  #國際
+
+【日本千葉縣強降雨4死5傷】日本千葉縣政府今天（8月14日）釋出最新訊息稱，強降雨已造成當地4人死亡、1人失蹤、5人不同程度受傷。據日本氣象廳訊息，千葉縣自8月13日傍晚以後持續出現強降雨。其中，千葉市截至當地時間今天凌晨1點的12小時累計降雨量達到347毫米，為有記錄以來的最高值。半天內的降雨量已接近往年8月整個月平均降雨量的3倍。
+
+---
+
+### 2026-08-14 07:39:58  #公司 #國際
+
+【人民日報寰宇平：突破底線，日本“新型軍國主義”成勢為患】在領土主權和地區安全議題上，日本同樣屢屢突破底線、挑釁滋事。日本違反《開羅宣言》和《波茨坦公告》的規定，試圖非法侵佔中國固有領土釣魚島。在臺灣問題上，日本右翼政客發表不當言論，將“臺灣有事”與日本“存亡危機事態”相關聯。這違背了日本在《中日聯合宣告》中的承諾，是對中國內政的粗暴干涉，違反了《聯合國憲章》不干涉內政的基本原則。任何為侵略翻案、為戰犯招魂、縱容軍國主義復活的行徑，都站在歷史正義的對立面，也站在人類良知的對立面。80年後的今天，重溫東京審判的歷史警示，不僅是對受害者的告慰，更是對地區和國際和平未來的守護。國際社會必須高度警惕日本右翼勢力的危險動向，堅決捍衛二戰勝利成果和戰後國際秩序，絕不能讓歷史悲劇重演。
+
+---
+
+### 2026-08-14 07:39:04  #市場
+
+日經指數期貨在新加坡交易所開盤上漲890點，報69270點。
+
+---
+
+### 2026-08-14 07:38:18  #公司
+
+【李開復人民日報撰文：AI變革絕不是工業革命4.0，靠什麼贏在AI時代】文章稱，人工智慧（AI）的快速進展高頻次引發社會“震撼”，可人們似乎並沒看到社會因為AI而產生“鉅變”。這種強反差，正應了科創界那句廣為流傳的話：技術的力量往往在短期內被高估，在長期內被低估。可以肯定地說，AI變革絕不是簡單的工業革命4.0，它是科技、商業和文明的全新篇章，其影響也會比此前每一次工業革命都要大。看上去波瀾不驚，其實AI變革正在快速展開。一批AI原生企業已經成長為行業黑馬。月之暗面、DeepSeek、智譜等新興AI企業，估值均超千億元人民幣。和AI相關的電力、算力、儲存等行業也站上時代風口，長鑫科技市值突破3萬億元人民幣。近3個月新成立的短劇公司全都為AI原生模式，依託影片生成技術大幅壓縮製作成本，傳統劇組崗位需求大幅縮減。
+
+---
+
+### 2026-08-14 07:37:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Treasury Secretary Bessent said the US will continue to impose sanctions on Iran’s economy, maintain a sustained blockade of the Strait of Hormuz, and bar any goods from entering or leaving Iranian ports.
+
+---
+
+### 2026-08-14 07:36:16  #市場 #國際
+
+【在指向不一的訊號下油價小幅走低】在指向不一的訊號下，油價在早盤交易中小幅走低。澳新銀行研究部的分析師在一份研究報告中表示，一方面，有跡象表明石油供應正在增加。這些分析師表示：“據說阿聯酋和沙烏地阿拉伯等波斯灣產油國正在盡其所能保持出口暢通，包括切換應答器，以便在不被發現的情況下透過[霍爾木茲]海峽運輸貨物。“這些分析師補充說，另一方面，“有報道稱，伊朗支援的胡塞武裝將目標對準了沙特阿美位於紅海沿岸吉讚的煉油廠。“近月西得州中質油期貨下跌0.1%，報每桶81.20美元。
 
 ---
 
@@ -18835,71 +18889,5 @@ Axios reports the Trump administration criticized Israeli Defense Minister KATZ'
 ### 2026-08-13 04:35:13  #Trading Economics #Markets #United States #Stock Market #Importance 1
 
 The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index fell 37 points or 0.07 percent on Wednesday to close at 53755 points. Leading the losses are Home Depot (-2.96%), Salesforce (-2.53%) and Microsoft (-2.30%). Top gainers were Nvidia (3.04%), Cisco Systems (2.69%) and Walmart (2.38%).
-
----
-
-### 2026-08-13 04:34:33  #國際
-
-美國最高法院目前暫停蘋果應用商店費率相關訴訟程式。
-
----
-
-### 2026-08-13 04:32:59  #國際
-
-特朗普的總統直升機海軍陸戰隊一號與商業航班近距離接近事件發生後，美國聯邦航空管理局計劃修復里根國家機場的通訊系統。
-
----
-
-### 2026-08-13 04:31:23  #國際
-
-伊朗官方駁斥特朗普有關美國完全掌控霍爾木茲海峽的說法。
-
----
-
-### 2026-08-13 04:29:25  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises to Record on Softer US Inflation — The S&P/TSX Composite Index added 0.5% to close at an all-time high of 36,662 on Wednesday, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC up 1.5% and TD Bank adding 1.7%. Most miners advanced amid higher gold prices, with Agnico Eagle rising 1.8% and Barrick advancing 3%. In contrast, Franco-Nevada fell 1.6% after missing earnings expectations. In tech, Celestica surged 9.2% amid a chipmaker rally in the US. Constellation Software tumbled 4.5% after revenue came in slightly below forecasts despite an EPS beat. Shopify fell 1.2%, tracking weakness in US hyperscalers.
-
----
-
-### 2026-08-13 04:24:13  #MKT News #Commodities #Energy
-
-DOE will no longer advance designation work for three proposed National Interest Electric Transmission Corridors that were selected for review in December 2024.
-
----
-
-### 2026-08-13 04:22:05  #國際
-
-美國能源部表示，不會繼續推進2024年12月選定的三條擬議國家利益輸電走廊，不再將其納入後續審查流程。
-
----
-
-### 2026-08-13 04:19:57  #國際
-
-【美國出行旺季汽油與柴油價格均創歷年同期新高】時值美國駕車出行旺季，汽油與柴油價格均升至歷年同期最高水平。美國汽車協會資料顯示，汽油和柴油價格均創歷年同期新高。8月第二週，美國汽油平均價格達到每加侖4美元，柴油則達到每加侖5.40美元，均創歷年同期新高。眼下正值出行旺季，通常有數以百萬計的美國人駕車外出度假或探親。去年同期，汽油價格為每加侖3.20美元，柴油為每加侖3.70美元。
-
----
-
-### 2026-08-13 04:19:27  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index rises 0.19% to 100.014 on 12th】The dollar index, measuring the dollar against six major currencies, rose 0.19% to 100.014 at the New York FX close on the 12th. EUR/USD 1.1521, down from 1.1540; GBP/USD 1.3488, down from 1.3503; USD/JPY 159.49, up from 159.26; USD/CHF 0.8137, up from 0.8112; USD/CAD 1.3947, up from 1.3920; USD/SEK 9.5858, up from 9.5244.
-
----
-
-### 2026-08-13 04:19:17  #市場
-
-【美元指數12日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於100.014。截至紐約匯市尾市，1歐元兌換1.1521美元，低於前一交易日的1.1540美元；1英鎊兌換1.3488美元，低於前一交易日的1.3503美元。1美元兌換159.49日元，高於前一交易日的159.26日元；1美元兌換0.8137瑞士法郎，高於前一交易日的0.8112瑞士法郎；1美元兌換1.3947加元，高於前一交易日的1.3920加元；1美元兌換9.5858瑞典克朗，高於前一交易日的9.5244瑞典克朗。
-
----
-
-### 2026-08-13 04:14:43  #國際
-
-伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。
-
----
-
-### 2026-08-13 04:11:51  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD.
 
 ---

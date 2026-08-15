@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 18:54:02_
-_本檔包含 3231 則快訊，約 605042 字_
+_更新時間：2026-08-15 19:29:00_
+_本檔包含 3222 則快訊，約 605400 字_
+
+---
+
+### 2026-08-11 22:17:36  #其他
+
+美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。
+
+---
+
+### 2026-08-11 22:16:04  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years.
+
+---
+
+### 2026-08-11 22:15:45  #其他
+
+法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。
+
+---
+
+### 2026-08-11 22:15:25  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027.
+
+---
+
+### 2026-08-11 22:15:12  #國際
+
+俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。
+
+---
+
+### 2026-08-11 22:14:52  #國際
+
+俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。
+
+---
+
+### 2026-08-11 22:14:26  #其他
+
+比亞迪2027款海豹06正式上市，提供DM-i和EV純電兩種動力版本選擇，售價為9.99萬至15.59萬元。
+
+---
+
+### 2026-08-11 22:13:04  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
+
+【Zonghuixin Photonics to build high-end optical-communications chip and device R&D and manufacturing base in Changzhou】On Aug 11 Zonghuixin Photonics signed an agreement to establish a high-end optical-communications chip and device R&D and manufacturing base in Changzhou. The project includes total committed investment of about 5 bln yuan and will prioritize R&D and mass-production lines for indium phosphide high-end laser chips to promote domestic localization of core optical-communications chips.
 
 ---
 
@@ -19371,107 +19419,5 @@ JSW 能源自 4 月以來新增 1166 兆瓦可再生能源裝機容量。
 ### 2026-08-10 19:06:43  #公司
 
 【中國鈾業：增加2026年度日常關聯交易預計金額27.15億元】中國鈾業公告稱，公司於8月10日召開會議，同意2026年度與關聯方中核集團及其控股子公司增加日常關聯交易預計金額27.15億元。增加後，2026年度預計金額不超277.12億元。本次增加尚需提交股東會審議，關聯股東需迴避表決。關聯交易定價遵循公平等原則，具有必要性和合理性，不會損害股東利益及影響公司經營獨立性。
-
----
-
-### 2026-08-10 19:06:34  #公司
-
-【聯科科技：2026年上半年淨利潤1.59億元，同比增1.60%】聯科科技公告，2026年上半年營業收入12.74億元，同比增長5.01%。歸屬於上市公司股東的淨利潤1.59億元，同比增長1.60%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.49億元，同比下降4.18%。利潤分配預案為每10股派發現金紅利3元（含稅）。
-
----
-
-### 2026-08-10 19:06:32  #公司
-
-【鋮昌科技：2026年半年度淨利潤7640萬元，同比增長34.72%】鋮昌科技公告，2026年上半年營業收入2.16億元，同比增長7.33%。歸屬於上市公司股東的淨利潤7629.53萬元，同比增長34.72%。歸屬於上市公司股東的扣除非經常性損益的淨利潤7437.99萬元，同比增長35.76%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 19:06:28  #公司
-
-【唯捷創芯：持股5%以上股東及其一致行動人減持1.10%股份】唯捷創芯公告稱，2026年7月9日至8月7日，股東深圳市貴人資本投資有限公司透過集中競價及大宗交易方式，合計減持公司股份473.29萬股，佔總股本的1.10%。貴人資本及其一致行動人持股比例由7.00%降至5.90%。本次減持系履行此前計劃，不觸及要約收購，不會導致實控人變化，減持計劃尚未實施完畢。
-
----
-
-### 2026-08-10 19:06:23  #公司
-
-【君實生物：持股5%以上股東及其一致行動人合計減持1%股份】君實生物公告稱，因基金期限與流動性資金安排，持股5%以上股東上海檀英及其一致行動人LVC Fund II、LVC Renaissance Fund於2026年6月16日至8月10日，合計持股比例從6.94%降至5.96%，權益變動觸及1%刻度。其中，上海檀英透過大宗交易減持1004萬股，佔比從5.41%降至4.43%，另兩方持股比例未變。本次權益變動不會導致控股股東及實控人變化。
-
----
-
-### 2026-08-10 19:06:17  #公司
-
-【貝達藥業：股東特瑞西創減持49.59萬股 減持計劃期限屆滿】貝達藥業公告稱，股東杭州特瑞西創企業管理合夥企業（有限合夥）減持計劃期限已屆滿。2026年5月8日至8月7日，其透過集中競價交易減持495,900股，佔總股本的0.1171%，減持均價69.99元/股。減持後，特瑞西創持股降至28,301,161股，佔總股本6.6853%。本次減持符合相關規定，與預披露計劃一致，未違反承諾。
-
----
-
-### 2026-08-10 19:05:58  #公司 #市場
-
-【甘諮詢：股票交易異常波動，不存在應披露未披露事項】甘諮詢公告稱，公司股票於2026年8月7日、8月10日連續2個交易日收盤價格跌幅偏離值累計超20%，屬異常波動情形。經全面自查及核實，公司前期披露資訊無需更正補充，未發現影響股價的未公開重大資訊，經營情況正常，不存在應披露未披露的重大事項，控股股東和實控人在異常波動期間未買賣公司股票，無增減持計劃。公司提醒投資者注意交易風險，2026年半年度報告將於8月22日披露。
-
----
-
-### 2026-08-10 19:05:44  #其他
-
-市場訊息：阿卜杜拉希・穆罕默德・努爾當選索馬利亞議會議長。
-
----
-
-### 2026-08-10 19:05:34  #公司
-
-【納爾股份：2026年上半年營收11.97億元 淨利潤同比降60.35%】納爾股份公告稱，2026年上半年，公司實現營業收入11.97億元，同比增長23.14%；歸屬於上市公司股東的淨利潤4548.73萬元，同比下降60.35%；扣除非經常性損益的淨利潤3844.97萬元，同比下降48.18%；經營活動產生的現金流量淨額8948.82萬元，同比增長60.15%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 19:05:27  #MKT News
-
-Caitong Fuxin fixed-open hybrid fund will suspend onshore trading from market open on Aug 11, 2026 until 10:30 local time.
-
----
-
-### 2026-08-10 19:05:15  #公司
-
-【恆譽環保：證券簡稱變更為“恆譽科技”】8月10日，恆譽環保發布公告，公司證券簡稱和擴位證券簡稱自2026年8月14日起由“恆譽環保”變更為“恆譽科技”，公司證券程式碼“688309”保持不變。
-
----
-
-### 2026-08-10 19:05:12  #公司
-
-【光韻達：程飛辭任董事長，陳重、王京京辭任獨立董事】光韻達8月10日公告，公司董事會於近日收到董事長程飛、獨立董事陳重、獨立董事王京京的辭職報告。程飛因個人原因辭去公司董事、董事長職務，辭職後將不再擔任公司任何職務，辭職報告自送達公司董事會之日起生效。陳重因個人原因辭去公司獨立董事等職務，王京京因個人原因辭去公司獨立董事等職務，陳重、王京京的辭職將導致公司董事會和審計委員會中獨立董事所佔比例不符合規定，因此在新任獨立董事選舉產生前，陳重、王京京將繼續履行獨立董事相關職責。此外，公司董事會於近日收到副總裁程鑫的辭職報告，程鑫因個人原因辭去公司副總裁職務，辭職後仍將繼續在公司戰略發展部擔任其他職務。
-
----
-
-### 2026-08-10 19:04:58  #公司
-
-【北京君正：2026年上半年流動資產合計97.27億元】北京君正公告，因正在推進H股發行上市工作，自願披露2026年半年度部分財務資料。截至2026年6月30日，公司流動資產合計97.27億元，上年末為86.93億元；流動負債合計12.84億元，上年末為10億元。上述資料為初步核算資料，未經審計。
-
----
-
-### 2026-08-10 19:04:55  #公司
-
-【北京君正：擬以1億元-2億元回購公司股份】北京君正公告，擬以不低於1億元且不超過2億元回購公司股份，回購價格不超過220元/股。回購股份的用途為股權激勵或員工持股計劃，若公司未能在股份回購完成後的3年內轉讓完畢，未使用部分將依法登出並減少註冊資本。
-
----
-
-### 2026-08-10 19:04:50  #市場
-
-財通福鑫定開混合：將於2026年8月11日開盤起至當日10:30停牌。
-
----
-
-### 2026-08-10 19:04:48  #市場
-
-納指ETF國泰：將於2026年8月11日開市起至當日10:30停牌。
-
----
-
-### 2026-08-10 19:04:46  #國際
-
-中韓半導體ETF華泰柏瑞：將於2026年8月11日開市起至當日10:30停牌。
-
----
-
-### 2026-08-10 19:04:14  #MKT News
-
-Guotai Nasdaq ETF will suspend trading from market open on Aug 11, 2026 until 10:30.
 
 ---

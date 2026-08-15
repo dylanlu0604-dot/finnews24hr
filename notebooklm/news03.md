@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 18:54:02_
-_本檔包含 3119 則快訊，約 605734 字_
+_更新時間：2026-08-15 19:29:00_
+_本檔包含 3122 則快訊，約 605393 字_
+
+---
+
+### 2026-08-13 04:34:33  #國際
+
+美國最高法院目前暫停蘋果應用商店費率相關訴訟程式。
+
+---
+
+### 2026-08-13 04:32:59  #國際
+
+特朗普的總統直升機海軍陸戰隊一號與商業航班近距離接近事件發生後，美國聯邦航空管理局計劃修復里根國家機場的通訊系統。
+
+---
+
+### 2026-08-13 04:31:23  #國際
+
+伊朗官方駁斥特朗普有關美國完全掌控霍爾木茲海峽的說法。
+
+---
+
+### 2026-08-13 04:29:25  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises to Record on Softer US Inflation — The S&P/TSX Composite Index added 0.5% to close at an all-time high of 36,662 on Wednesday, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC up 1.5% and TD Bank adding 1.7%. Most miners advanced amid higher gold prices, with Agnico Eagle rising 1.8% and Barrick advancing 3%. In contrast, Franco-Nevada fell 1.6% after missing earnings expectations. In tech, Celestica surged 9.2% amid a chipmaker rally in the US. Constellation Software tumbled 4.5% after revenue came in slightly below forecasts despite an EPS beat. Shopify fell 1.2%, tracking weakness in US hyperscalers.
+
+---
+
+### 2026-08-13 04:24:13  #MKT News #Commodities #Energy
+
+DOE will no longer advance designation work for three proposed National Interest Electric Transmission Corridors that were selected for review in December 2024.
+
+---
+
+### 2026-08-13 04:22:05  #國際
+
+美國能源部表示，不會繼續推進2024年12月選定的三條擬議國家利益輸電走廊，不再將其納入後續審查流程。
+
+---
+
+### 2026-08-13 04:19:57  #國際
+
+【美國出行旺季汽油與柴油價格均創歷年同期新高】時值美國駕車出行旺季，汽油與柴油價格均升至歷年同期最高水平。美國汽車協會資料顯示，汽油和柴油價格均創歷年同期新高。8月第二週，美國汽油平均價格達到每加侖4美元，柴油則達到每加侖5.40美元，均創歷年同期新高。眼下正值出行旺季，通常有數以百萬計的美國人駕車外出度假或探親。去年同期，汽油價格為每加侖3.20美元，柴油為每加侖3.70美元。
+
+---
+
+### 2026-08-13 04:19:27  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index rises 0.19% to 100.014 on 12th】The dollar index, measuring the dollar against six major currencies, rose 0.19% to 100.014 at the New York FX close on the 12th. EUR/USD 1.1521, down from 1.1540; GBP/USD 1.3488, down from 1.3503; USD/JPY 159.49, up from 159.26; USD/CHF 0.8137, up from 0.8112; USD/CAD 1.3947, up from 1.3920; USD/SEK 9.5858, up from 9.5244.
+
+---
+
+### 2026-08-13 04:19:17  #市場
+
+【美元指數12日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於100.014。截至紐約匯市尾市，1歐元兌換1.1521美元，低於前一交易日的1.1540美元；1英鎊兌換1.3488美元，低於前一交易日的1.3503美元。1美元兌換159.49日元，高於前一交易日的159.26日元；1美元兌換0.8137瑞士法郎，高於前一交易日的0.8112瑞士法郎；1美元兌換1.3947加元，高於前一交易日的1.3920加元；1美元兌換9.5858瑞典克朗，高於前一交易日的9.5244瑞典克朗。
+
+---
+
+### 2026-08-13 04:14:43  #國際
+
+伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。
+
+---
+
+### 2026-08-13 04:11:51  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD.
 
 ---
 
@@ -18776,53 +18842,5 @@ Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a recor
 ### 2026-08-11 22:17:59  #國際
 
 【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。
-
----
-
-### 2026-08-11 22:17:36  #其他
-
-美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。
-
----
-
-### 2026-08-11 22:16:04  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
-
-Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years.
-
----
-
-### 2026-08-11 22:15:45  #其他
-
-法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。
-
----
-
-### 2026-08-11 22:15:25  #Trading Economics #Markets #Commodity #Importance 0
-
-Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027.
-
----
-
-### 2026-08-11 22:15:12  #國際
-
-俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。
-
----
-
-### 2026-08-11 22:14:52  #國際
-
-俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。
-
----
-
-### 2026-08-11 22:14:26  #其他
-
-比亞迪2027款海豹06正式上市，提供DM-i和EV純電兩種動力版本選擇，售價為9.99萬至15.59萬元。
-
----
-
-### 2026-08-11 22:13:04  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
-
-【Zonghuixin Photonics to build high-end optical-communications chip and device R&D and manufacturing base in Changzhou】On Aug 11 Zonghuixin Photonics signed an agreement to establish a high-end optical-communications chip and device R&D and manufacturing base in Changzhou. The project includes total committed investment of about 5 bln yuan and will prioritize R&D and mass-production lines for indium phosphide high-end laser chips to promote domestic localization of core optical-communications chips.
 
 ---
