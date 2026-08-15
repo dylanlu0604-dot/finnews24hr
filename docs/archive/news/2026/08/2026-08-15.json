@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 685,
+  "count": 688,
   "items": [
+    {
+      "id": "5042283",
+      "time": "2026-08-15 19:05:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網自動測定：08月15日18時54分在印尼蘇門答臘島附近（北緯3.01度，東經98.91度）發生6.4級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a00517-3bc5-7aab-9048-cba5f8529b1b",
+      "time": "2026-08-15 19:03:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Bandar Abbas International Airport resumed flight operations today, Iranian media Fars News reports. Scheduled services to Tehran, Mashhad and Isfahan will restart over the next few days."
+    },
+    {
+      "id": "5042282",
+      "time": "2026-08-15 19:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地方當局表示，比利時邊境附近的德國野火已得到控制。"
+    },
     {
       "id": "5042281",
       "time": "2026-08-15 19:00:09",
