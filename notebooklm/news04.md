@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 07:32:12_
-_本檔包含 3209 則快訊，約 603738 字_
+_更新時間：2026-08-16 07:51:20_
+_本檔包含 3219 則快訊，約 603627 字_
+
+---
+
+### 2026-08-12 01:38:35  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Copper
+
+Colombia's finance minister says the country is facing the most severe economic crisis in its history.
+
+---
+
+### 2026-08-12 01:38:19  #MKT News #Commodities #Energy #Brent #WTI
+
+Libya's National Oil Corporation said a fire at a fuel tank at the Zawiya refinery has been brought under control.
+
+---
+
+### 2026-08-12 01:36:55  #公司
+
+利比亞國家石油公司稱，消防員已撲滅扎維亞煉油廠的所有火情。
+
+---
+
+### 2026-08-12 01:34:05  #MKT News
+
+Venezuelan government said it has reached an agreement with Israel to establish a coordination mechanism to provide consular services.
+
+---
+
+### 2026-08-12 01:32:50  #MKT News
+
+Iran's Fars News, citing sources, reports two more explosions struck Saudi mercenaries' positions in Marib, Yemen.
+
+---
+
+### 2026-08-12 01:30:59  #宏觀
+
+哥倫比亞財政部長：哥倫比亞不會透過增稅來應對財政危機。
+
+---
+
+### 2026-08-12 01:27:58  #MKT News #GOOG.O
+
+Google (GOOG.O) to add video-on-demand service to Google TV Freeplay.
+
+---
+
+### 2026-08-12 01:27:36  #國際
+
+委內瑞拉政府表示已與以色列達成協議，將設立協調機制以提供領事服務。
+
+---
+
+### 2026-08-12 01:27:29  #公司
+
+谷歌：將影片點播引入谷歌電視免費播放平臺。
+
+---
+
+### 2026-08-12 01:25:53  #宏觀
+
+哥倫比亞財政部長：哥倫比亞尋求世界銀行4億美元貸款以應對緊急情況。
+
+---
+
+### 2026-08-12 01:24:59  #宏觀
+
+哥倫比亞財政部長：哥倫比亞或於今日宣佈進入經濟緊急狀態。
+
+---
+
+### 2026-08-12 01:22:51  #國際
+
+伊朗總統府：巴基斯坦內政部長表示，此行旨在跟進伊朗人員訪巴期間達成的共識。
+
+---
+
+### 2026-08-12 01:19:54  #MKT News
+
+State broadcaster IRIB reported the Iranian president met Pakistan's interior minister.
+
+---
+
+### 2026-08-12 01:18:39  #MKT News
+
+Tasnim News reported sounds of explosions in Marib, Yemen.
+
+---
+
+### 2026-08-12 01:18:33  #其他
+
+納斯達克100指數跌幅擴大至0.5%。
+
+---
+
+### 2026-08-12 01:16:30  #央行 #國際
+
+2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。
+
+---
+
+### 2026-08-12 01:16:15  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-12 01:15:40  #MKT News
+
+【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234.
+
+---
+
+### 2026-08-12 01:10:30  #MKT News
+
+Bahrain's Ministry of Defense said the Bahrain Defence Force chief of general staff met the UK deputy chief of the defence staff for strategy and operations and a visiting delegation to discuss bilateral defence cooperation and regional security.
+
+---
+
+### 2026-08-12 01:10:21  #其他
+
+【哥倫比亞強震已致234人死亡】根據哥倫比亞市政聯合會當地時間11日通報，該國8月10日發生的強震死亡人數已上升為234人。
+
+---
+
+### 2026-08-12 01:06:55  #公司 #市場 #國際
+
+【英偉達信用風險指標回落 CEO澄清5000億美元融資計劃】一項與英偉達相關的信用風險指標週二回落，此前該公司表示將限制自身在一項5000億美元融資計劃中的風險敞口。該計劃旨在為人工智慧投資提供融資，而這類投資正推動對英偉達晶片的需求。英偉達票息5.625%、2056年到期債券的收益率較可比美國國債高113個基點，利差收窄2個基點。與此同時，根據ICE Data Services的資料，5年期信用違約掉期報價一度收窄5個基點，至72.11個基點。
+
+---
+
+### 2026-08-12 01:05:15  #市場 #國際
+
+美國三年期國債收益率在三年期國債標售過後縮小跌幅；最新報4.289%，較前值下跌1.6個基點。
+
+---
+
+### 2026-08-12 01:05:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500
+
+US three-year Treasury yield trimmed losses after a three-year note auction, falling 1.6 bps to 4.289%.
+
+---
+
+### 2026-08-12 01:05:06  #公司 #市場 #央行 #國際
+
+【巴克萊：美債對價格敏感型買家的依賴顯著上升 料使收益率維持高位】巴克萊表示，美國國債買家結構正在轉向更注重價值的共同基金、家庭和其他私人投資者，這一變化幫助推動30年期美債收益率升至數十年來高位。策略師Demi Hu和Anshul Pradan在一份報告中寫道，只要通脹持續存在，這些買家就會要求越來越高的補償，才願意持有長期債券。兩位策略師表示：“美國國債的買家基礎已經發生變化。”自2022年美聯儲開始縮減持倉以來，外國央行和美聯儲等官方部門的需求持續減弱，使得“私人投資者成為吸收新增供應的邊際買家”。
+
+---
+
+### 2026-08-12 01:03:41  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+US 3-year Treasury auction on Aug. 11: share of awards at the stop-out yield 18.31% vs 2.17% previously.
+
+---
+
+### 2026-08-12 01:03:33  #MKT News #Economic Calendar
+
+United States | 3-Year Note Auction Accepted at High (Aug.11) | actual 18.31% | previous 2.17%
+
+---
+
+### 2026-08-12 01:03:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 3-year Treasury auction on Aug. 11 — awarded yield 4.291%, up from 4.18% at the prior auction.
+
+---
+
+### 2026-08-12 01:03:17  #MKT News #Economic Calendar
+
+United States | 3-Year Note Auction High Yield Rate (Aug.11) | actual 4.291% | previous 4.18%
 
 ---
 
@@ -19224,113 +19392,5 @@ Sources said Kazakhstan's oil and natural gas condensate output on Aug. 9 rose 4
 ### 2026-08-10 21:09:48  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Futures Steady as Earnings Take Focus — Futures tracking the S&P/TSX Composite Index were little changed on Monday after the index reached a record high in the previous session, amid uncertainty surrounding US-Iran talks and a fresh batch of corporate earnings. Barrick traded lower in US pre-market trading after reporting second-quarter earnings and revenue below expectations. Franco-Nevada and Constellation Software are scheduled to report earnings tomorrow. The market is also pricing in last week's stronger-than-expected Canadian jobs report, which showed employment rising by 75,100 in July while the unemployment rate fell for the third consecutive month to 6.4%. The resilient labor market could support a more hawkish stance from the Bank of Canada. Meanwhile, oil prices rose as uncertainty persisted over efforts to reopen the Strait of Hormuz, while gold prices edged lower.
-
----
-
-### 2026-08-10 21:08:56  #公司 #國際
-
-【韓國提速三大超級專案，李在明親督三大專案加速落地】在官宣了對半導體領域史無前例的大手筆投資計劃後，8月10日，韓國政府進一步細化了相關專案。 10日下午，韓國總統李在明主持政府部門會議時稱，應加快推進半導體制造設施和人工智慧（AI）資料中心大規模投資計劃的措施。 韓國總統辦公室表示，此次會議是李在明政府6月底公佈“三大超級專案”以來召開的第二次相關會議，相關計劃包括建設半導體生產叢集、發展實體人工智慧以及在地方建設AI資料中心等。 6月29日，李在明主持“三大超級專案國民報告會”，韓國兩大晶片巨頭三星電子與SK海力士負責人也一同出席。報告會正式推出了規模約2000萬億韓元（約合8.7萬億人民幣）的國家級產業佈局，錨定半導體、物理AI、AI資料中心三大核心賽道。同時，韓國政企還官宣在上述三大領域中長期的投資額合計約為6200萬億韓元（約合27.13萬億元人民幣）。（一財）
-
----
-
-### 2026-08-10 21:08:52  #MKT News
-
-【Insiders: EVE Energy to raise prices on two battery types; industry says could affect EV pricing】EVE Energy will adjust prices on certain domestic battery products from Sept. 1, adding a 2% consumption-tax cost to pre-tax supply prices, multiple sources confirmed. The move primarily affects lithium primary batteries and lithium‑ion storage batteries. An internal source said downstream customers across consumer, automotive (power) and energy‑storage segments will be impacted to varying degrees. The company denied the initial price increase will hurt subsequent orders or market share, saying current orders exceed capacity and the adjustment is not highly sensitive, and expects limited overall customer impact.
-
----
-
-### 2026-08-10 21:07:37  #公司 #市場 #國際
-
-內華達黃金公司歷經一年鑽探，探明美國一處銻礦資源。
-
----
-
-### 2026-08-10 21:07:27  #公司
-
-Coinbase全球公司：已知部分使用者在STORY網路上發生轉賬收發延遲的情況。
-
----
-
-### 2026-08-10 21:07:19  #其他
-
-麥德林市長古鐵雷斯稱暫無人員受傷報告。
-
----
-
-### 2026-08-10 21:06:52  #其他
-
-Socket Mobile與3Eye科技達成合作，面向基於蘋果裝置的一線運營拓展工業移動解決方案。
-
----
-
-### 2026-08-10 21:06:47  #公司
-
-【知情人士確認億緯鋰能兩類電池將漲價 業內稱不排除影響後續電車定價】受消費稅新政等影響，有電池廠商醞釀漲價。近日，記者從億緯鋰能多方確認，該公司將進行價格調整，自9月1日起部分國內銷售電池產品，將在原不含稅供貨價格基礎上增加2%的消費稅成本。據知情人士告訴記者，此次漲價主要涉及鋰原電池、鋰離子蓄電池產品。另有億緯鋰能相關內部人士對記者稱，消費電池、動力電池、儲能電池三大業務板塊下游客戶均會受到不同程度影響。不過，對於率先漲價會否影響後續訂單或市場份額，其予以否認，並回應稱，公司目前訂單超過現有產能情況，相關價格調整整體不算非常敏感，預計對整體客戶影響較小。真鋰研究創始人、總裁墨柯在接受記者採訪時表示，消費稅由電池廠代繳，只要出庫開票，都需要繳納消費稅。從長遠來看，消費稅新政將重塑產業鏈議價格局，訂單飽滿、話語權強的頭部企業或可順暢消化或傳導成本，中小電池廠商利潤進一步被壓縮，行業加速優勝劣汰，產業發展從單純規模擴張轉向提質增效。 (藍鯨新聞)
-
----
-
-### 2026-08-10 21:05:29  #公司 #市場
-
-Meta在盤前交易中股價上漲1.9%，此前該公司推出了全新人工智慧模型。
-
----
-
-### 2026-08-10 21:05:00  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) up 0.93% in premarket trading.
-
----
-
-### 2026-08-10 21:04:19  #國際
-
-北美建築工會、貝萊德與人工智慧基礎設施夥伴關係啟動戰略協作，助力美國基礎設施建設勞動力發展。
-
----
-
-### 2026-08-10 21:04:18  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #TSM.O
-
-The Information says Microsoft has been negotiating with TSMC to secure production capacity for more than 300,000 MAIA chips, with delivery scheduled in 2027.
-
----
-
-### 2026-08-10 21:03:47  #其他
-
-微軟股價快速飆升 0.7%，抹平此前跌幅。
-
----
-
-### 2026-08-10 21:03:24  #MKT News #Important #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O #Impact bullish
-
-The Information reports Microsoft will sharply ramp up production of artificial intelligence chips.
-
----
-
-### 2026-08-10 21:03:06  #其他 #焦點
-
-【微軟計劃於9月釋出其下一代MAIA 300人工智慧晶片】據兩位直接瞭解該計劃的人士透露，Microsoft計劃明年大幅增加其自設計的下一代AI晶片產量，以說服像Anthropic這樣的大型雲客戶使用這些晶片。儘管目前Microsoft設計的晶片——被稱為Maia 200——的採用速度緩慢，這一成績依然存在。一位知情人士表示，Microsoft計劃今年秋季公開發布其新款Maia 300晶片，可能最快下個月。
-
----
-
-### 2026-08-10 21:02:53  #其他
-
-市場訊息： 微軟將於明年提升下一代人工智慧晶片產量。
-
----
-
-### 2026-08-10 21:02:39  #MKT News #Market Themes #Chip Wars #MSFT.O #Impact bullish
-
-According to The Information, Microsoft believes the MAIA chip can run both its own and OpenAI's models at lower cost.
-
----
-
-### 2026-08-10 21:02:37  #其他
-
-中國地震臺網正式測定：08月10日20時34分在哥倫比亞（北緯4.85度，西經76.15度）發生7.5級地震，震源深度80千米。
-
----
-
-### 2026-08-10 21:02:26  #MKT News
-
-The Information reports Microsoft plans to expand internal deployment of its MAIA model and intensify efforts to win large enterprise customers.
 
 ---

@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 07:32:12_
-_本檔包含 3127 則快訊，約 603693 字_
+_更新時間：2026-08-16 07:51:20_
+_本檔包含 3136 則快訊，約 603626 字_
+
+---
+
+### 2026-08-14 09:22:01  #央行 #其他
+
+央行公開市場今日淨投放3480億元人民幣。
+
+---
+
+### 2026-08-14 09:21:59  #央行 #中國央行
+
+央行公告，根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-14 09:21:54  #MKT News #Important #Star Stocks #JD.com #09618.HK #Impact bearish
+
+JD.com (09618.HK) shares opened down 6.5% after earnings; Q2 2026 net profit CNY 7.1 bln, net margin 2.1%.
+
+---
+
+### 2026-08-14 09:21:51  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-14 09:21:42  #MKT News #Market Regions #Greater China
+
+【Foreign Ministry comments on Ecuador President Noboa's upcoming China visit】China's Foreign Ministry said Ecuador President Daniel Noboa will make his first state visit to China and will hold talks with President Xi Jinping; he will also meet Premier Li Qiang and NPC Standing Committee chairman Zhao Leji. Beijing described Ecuador as a major Latin American partner and a comprehensive strategic partner; the two countries have signed Belt and Road cooperation documents and a free trade agreement. The visit coincides with the 10th anniversary of the comprehensive strategic partnership and is aimed at consolidating political trust and advancing bilateral cooperation.
+
+---
+
+### 2026-08-14 09:21:25  #市場
+
+京東港股開盤跌6.5%。
+
+---
+
+### 2026-08-14 09:21:08  #MKT News #Important #Macro & Rates #CNH #Impact bearish
+
+PBOC says, based on primary dealers' demand in open market operations, the 7-day reverse repo on Aug 14, 2026 was zero.
+
+---
+
+### 2026-08-14 09:21:07  #MKT News #Hang Seng Index #Impact bearish
+
+Hong Kong open Aug 14 (Fri): HSI opened down 177.36 pts (-0.7%) at 25,219.15; Hang Seng Tech opened down 28.63 pts (-0.6%) at 4,763.76; Hang Seng China Enterprises Index (HSCEI) opened down 50.02 pts (-0.59%) at 8,376.47; Red Chip Index opened up 2.43 pts (+0.06%) at 4,091.63.
+
+---
+
+### 2026-08-14 09:21:05  #焦點
+
+港股恒指低開跌0.7％，國企指數跌0.59％，科指開跌0.6%，中芯國際績後開漲4.74%。
+
+---
+
+### 2026-08-14 09:20:58  #MKT News #Important #Hang Seng Index #Impact bearish #00981.HK #Impact bullish
+
+Hong Kong stocks opened lower: the Hang Seng Index fell 0.7% and the Hang Seng Tech Index dropped 0.6%. SMIC (00981.HK) opened up 4.74% post-earnings, guiding Q3 revenue +2–4% QoQ and gross margin of 26–28%.
+
+---
+
+### 2026-08-14 09:19:15  #國際
+
+【美軍中央司令部稱將組建多國攻擊無人機部隊】美軍中央司令部13日在社交媒體釋出訊息稱，將組建首支多國攻擊無人機部隊。 訊息說，這支部隊被稱為“獵鷹打擊”特遣部隊，將使用單向攻擊無人機作戰。這些無人機將由來自美國及地區合作伙伴的軍事人員操作，可以從空中、海上以及水下展開攻擊。 美軍中央司令部稱，已啟動與地區合作伙伴的磋商及正式邀請程式。隨著地區合作伙伴加入，“獵鷹打擊”特遣部隊將整合整個中東地區的攻擊型無人機能力，“打造成一支統一的、跨域且多國參與的威懾力量”。 不過，美軍中央司令部在訊息中並未說明將參與的具體國家。 美軍中央司令部總部位於美國佛羅里達州坦帕市，負責中東、中亞和南亞部分地區的軍事行動。(新華社)
+
+---
+
+### 2026-08-14 09:19:10  #市場 #焦點
+
+現貨黃金失守4320美元/盎司，日內跌0.76%。
+
+---
+
+### 2026-08-14 09:18:24  #公司
+
+中芯國際聯合執行長：漲價將進一步推高毛利率。
+
+---
+
+### 2026-08-14 09:18:14  #公司
+
+= 中芯國際聯合執行長：人工智慧相關晶片需求增長40%。
+
+---
+
+### 2026-08-14 09:18:09  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said demand for AI-enabled chips has risen 40%.
+
+---
+
+### 2026-08-14 09:18:01  #MKT News #0981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said higher pricing will further boost gross margins.
+
+---
+
+### 2026-08-14 09:17:43  #MKT News #Market Regions #Greater China
+
+SMIC (Semiconductor Manufacturing International Corp) co‑CEO Zhao Haijun said wafers shipped in Q3 were subject to a new pricing scheme.
 
 ---
 
@@ -18784,53 +18886,5 @@ Coherent earnings above expectations at 1.74 USD — Coherent (IIVI) released ea
 ### 2026-08-13 08:09:29  #市場 #央行 #國際
 
 【日本7月批發通脹攀升 加息可能性上升】週四公佈的資料顯示，日本7月批發通脹同比繼續走高，體現物價壓力範圍擴大，強化了市場對9月加息的預期。日本央行資料顯示，7月生產者物價指數同比上漲7.2%，6月修正後漲幅為7.3%；市場預期為上漲7.4%。此前日本央行釋放愈發偏鷹的政策訊號，包括公佈7月會議意見摘要，部分政策制定者呼籲加快加息步伐以應對通脹風險，本次資料正是在此背景下出爐。資料顯示，環比來看，該指數7月微漲0.1%，6月修正後環比上漲0.5%。以日元計價的進口物價指數7月同比上漲29.1%，6月修正後大幅上漲30.1%，表明日元走弱推高進口成本，進而抬升整體通脹水平。日本央行上月維持政策不變，但首次警告核心通脹可能超出目標，並表示後續討論將重點關注物價上行風險，釋放最早9月就可能加息的訊號。
-
----
-
-### 2026-08-13 08:08:52  #其他
-
-未來資產證券給予北方華創買進的初始評級，目標價1,100元。
-
----
-
-### 2026-08-13 08:08:51  #市場 #焦點
-
-紐約期金突破4480美元/盎司，日內漲0.28%。
-
----
-
-### 2026-08-13 08:08:29  #其他
-
-【領益智造AIDC業務總部及量產中心專案落戶蘇州】據蘇州日報，8月12日，領益智造AIDC業務總部及量產中心專案簽約落戶蘇州。此次落地相城區的領益智造AIDC業務總部及量產中心專案，佈局建設人工智慧製造驗證中心、AIDC量產中心，推動領益智造新能源汽車及AI產業叢集專案開花結果，帶動算力硬體製造、運營及人工智慧應用等上下游企業集聚。儀式上，相城區人工智慧製造驗證中心，領益智造AIDC製造基地、領益智造和英特爾聯合實驗室揭牌。領益智造與一批生態夥伴簽署合作協議。
-
----
-
-### 2026-08-13 08:08:27  #公司 #市場 #國際
-
-SK海力士領漲韓國晶片股。SK海力士股價早盤上漲6.3%，至1,599,000韓元；三星電子股價早盤上漲4.9%，至268,000韓元。
-
----
-
-### 2026-08-13 08:08:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-【CITIC Securities: Derivatives pricing of Fed rate hikes has further downside】CITIC Securities said in a research note that July US CPI met expectations, core inflation remained mild and second‑round effects were weak, easing inflation risks. The firm judges US inflation is not highly sticky and expects headline CPI YoY to continue moderating through Q3, trough in September, rebound slightly in Q4 and then fall rapidly by March next year. CITIC still forecasts the Fed will keep policy unchanged this year and sees further room for derivatives to reprice lower on rate‑hike expectations.
-
----
-
-### 2026-08-13 08:07:52  #市場 #焦點
-
-現貨黃金突破4420美元/盎司，日內漲0.26%。
-
----
-
-### 2026-08-13 08:07:49  #其他
-
-中國地震臺網正式測定：08月13日08時01分在內蒙古錫林郭勒盟蘇尼特左旗（北緯42.95度，東經114.69度）發生3.3級地震，震源深度10千米。
-
----
-
-### 2026-08-13 08:06:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration.
 
 ---

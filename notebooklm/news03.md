@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 07:32:12_
-_本檔包含 3038 則快訊，約 603715 字_
+_更新時間：2026-08-16 07:51:20_
+_本檔包含 3018 則快訊，約 603471 字_
+
+---
+
+### 2026-08-13 08:08:52  #其他
+
+未來資產證券給予北方華創買進的初始評級，目標價1,100元。
+
+---
+
+### 2026-08-13 08:08:51  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內漲0.28%。
+
+---
+
+### 2026-08-13 08:08:29  #其他
+
+【領益智造AIDC業務總部及量產中心專案落戶蘇州】據蘇州日報，8月12日，領益智造AIDC業務總部及量產中心專案簽約落戶蘇州。此次落地相城區的領益智造AIDC業務總部及量產中心專案，佈局建設人工智慧製造驗證中心、AIDC量產中心，推動領益智造新能源汽車及AI產業叢集專案開花結果，帶動算力硬體製造、運營及人工智慧應用等上下游企業集聚。儀式上，相城區人工智慧製造驗證中心，領益智造AIDC製造基地、領益智造和英特爾聯合實驗室揭牌。領益智造與一批生態夥伴簽署合作協議。
+
+---
+
+### 2026-08-13 08:08:27  #公司 #市場 #國際
+
+SK海力士領漲韓國晶片股。SK海力士股價早盤上漲6.3%，至1,599,000韓元；三星電子股價早盤上漲4.9%，至268,000韓元。
+
+---
+
+### 2026-08-13 08:08:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+【CITIC Securities: Derivatives pricing of Fed rate hikes has further downside】CITIC Securities said in a research note that July US CPI met expectations, core inflation remained mild and second‑round effects were weak, easing inflation risks. The firm judges US inflation is not highly sticky and expects headline CPI YoY to continue moderating through Q3, trough in September, rebound slightly in Q4 and then fall rapidly by March next year. CITIC still forecasts the Fed will keep policy unchanged this year and sees further room for derivatives to reprice lower on rate‑hike expectations.
+
+---
+
+### 2026-08-13 08:07:52  #市場 #焦點
+
+現貨黃金突破4420美元/盎司，日內漲0.26%。
+
+---
+
+### 2026-08-13 08:07:49  #其他
+
+中國地震臺網正式測定：08月13日08時01分在內蒙古錫林郭勒盟蘇尼特左旗（北緯42.95度，東經114.69度）發生3.3級地震，震源深度10千米。
+
+---
+
+### 2026-08-13 08:06:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration.
 
 ---
 
@@ -18209,173 +18257,5 @@ Google (GOOG.O) said the GEMINI app exceeded 1 billion monthly active users (MAU
 ### 2026-08-12 01:39:52  #MKT News
 
 Colombia's finance minister said the government will declare an economic state of emergency following the earthquake.
-
----
-
-### 2026-08-12 01:38:35  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Copper
-
-Colombia's finance minister says the country is facing the most severe economic crisis in its history.
-
----
-
-### 2026-08-12 01:38:19  #MKT News #Commodities #Energy #Brent #WTI
-
-Libya's National Oil Corporation said a fire at a fuel tank at the Zawiya refinery has been brought under control.
-
----
-
-### 2026-08-12 01:36:55  #公司
-
-利比亞國家石油公司稱，消防員已撲滅扎維亞煉油廠的所有火情。
-
----
-
-### 2026-08-12 01:34:05  #MKT News
-
-Venezuelan government said it has reached an agreement with Israel to establish a coordination mechanism to provide consular services.
-
----
-
-### 2026-08-12 01:32:50  #MKT News
-
-Iran's Fars News, citing sources, reports two more explosions struck Saudi mercenaries' positions in Marib, Yemen.
-
----
-
-### 2026-08-12 01:30:59  #宏觀
-
-哥倫比亞財政部長：哥倫比亞不會透過增稅來應對財政危機。
-
----
-
-### 2026-08-12 01:27:58  #MKT News #GOOG.O
-
-Google (GOOG.O) to add video-on-demand service to Google TV Freeplay.
-
----
-
-### 2026-08-12 01:27:36  #國際
-
-委內瑞拉政府表示已與以色列達成協議，將設立協調機制以提供領事服務。
-
----
-
-### 2026-08-12 01:27:29  #公司
-
-谷歌：將影片點播引入谷歌電視免費播放平臺。
-
----
-
-### 2026-08-12 01:25:53  #宏觀
-
-哥倫比亞財政部長：哥倫比亞尋求世界銀行4億美元貸款以應對緊急情況。
-
----
-
-### 2026-08-12 01:24:59  #宏觀
-
-哥倫比亞財政部長：哥倫比亞或於今日宣佈進入經濟緊急狀態。
-
----
-
-### 2026-08-12 01:22:51  #國際
-
-伊朗總統府：巴基斯坦內政部長表示，此行旨在跟進伊朗人員訪巴期間達成的共識。
-
----
-
-### 2026-08-12 01:19:54  #MKT News
-
-State broadcaster IRIB reported the Iranian president met Pakistan's interior minister.
-
----
-
-### 2026-08-12 01:18:39  #MKT News
-
-Tasnim News reported sounds of explosions in Marib, Yemen.
-
----
-
-### 2026-08-12 01:18:33  #其他
-
-納斯達克100指數跌幅擴大至0.5%。
-
----
-
-### 2026-08-12 01:16:30  #央行 #國際
-
-2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。
-
----
-
-### 2026-08-12 01:16:15  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-08-12 01:15:40  #MKT News
-
-【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234.
-
----
-
-### 2026-08-12 01:10:30  #MKT News
-
-Bahrain's Ministry of Defense said the Bahrain Defence Force chief of general staff met the UK deputy chief of the defence staff for strategy and operations and a visiting delegation to discuss bilateral defence cooperation and regional security.
-
----
-
-### 2026-08-12 01:10:21  #其他
-
-【哥倫比亞強震已致234人死亡】根據哥倫比亞市政聯合會當地時間11日通報，該國8月10日發生的強震死亡人數已上升為234人。
-
----
-
-### 2026-08-12 01:06:55  #公司 #市場 #國際
-
-【英偉達信用風險指標回落 CEO澄清5000億美元融資計劃】一項與英偉達相關的信用風險指標週二回落，此前該公司表示將限制自身在一項5000億美元融資計劃中的風險敞口。該計劃旨在為人工智慧投資提供融資，而這類投資正推動對英偉達晶片的需求。英偉達票息5.625%、2056年到期債券的收益率較可比美國國債高113個基點，利差收窄2個基點。與此同時，根據ICE Data Services的資料，5年期信用違約掉期報價一度收窄5個基點，至72.11個基點。
-
----
-
-### 2026-08-12 01:05:15  #市場 #國際
-
-美國三年期國債收益率在三年期國債標售過後縮小跌幅；最新報4.289%，較前值下跌1.6個基點。
-
----
-
-### 2026-08-12 01:05:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500
-
-US three-year Treasury yield trimmed losses after a three-year note auction, falling 1.6 bps to 4.289%.
-
----
-
-### 2026-08-12 01:05:06  #公司 #市場 #央行 #國際
-
-【巴克萊：美債對價格敏感型買家的依賴顯著上升 料使收益率維持高位】巴克萊表示，美國國債買家結構正在轉向更注重價值的共同基金、家庭和其他私人投資者，這一變化幫助推動30年期美債收益率升至數十年來高位。策略師Demi Hu和Anshul Pradan在一份報告中寫道，只要通脹持續存在，這些買家就會要求越來越高的補償，才願意持有長期債券。兩位策略師表示：“美國國債的買家基礎已經發生變化。”自2022年美聯儲開始縮減持倉以來，外國央行和美聯儲等官方部門的需求持續減弱，使得“私人投資者成為吸收新增供應的邊際買家”。
-
----
-
-### 2026-08-12 01:03:41  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-US 3-year Treasury auction on Aug. 11: share of awards at the stop-out yield 18.31% vs 2.17% previously.
-
----
-
-### 2026-08-12 01:03:33  #MKT News #Economic Calendar
-
-United States | 3-Year Note Auction Accepted at High (Aug.11) | actual 18.31% | previous 2.17%
-
----
-
-### 2026-08-12 01:03:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. 3-year Treasury auction on Aug. 11 — awarded yield 4.291%, up from 4.18% at the prior auction.
-
----
-
-### 2026-08-12 01:03:17  #MKT News #Economic Calendar
-
-United States | 3-Year Note Auction High Yield Rate (Aug.11) | actual 4.291% | previous 4.18%
 
 ---

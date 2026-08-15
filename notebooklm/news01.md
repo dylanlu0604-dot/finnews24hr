@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 07:32:12_
-_本檔包含 3104 則快訊，約 603710 字_
+_更新時間：2026-08-16 07:51:20_
+_本檔包含 3097 則快訊，約 603541 字_
+
+---
+
+### 2026-08-16 07:50:30  #其他
+
+馬克斯：我希望人工智慧對我們友善。
+
+---
+
+### 2026-08-16 07:49:04  #國際
+
+【伊朗外交部：美以非法行動導致霍爾木茲海峽“不穩定”】伊朗外交部發言人巴加埃15日表示，霍爾木茲海峽目前的局勢是美國和以色列“非法行動”的直接結果。他表示，在美以對伊朗的“非法軍事行動”之前，霍爾木茲海峽是完全開放的，而美國和以色列利用這條水道以及鄰近地區策劃對伊朗的襲擊，這導致了海峽的不穩定。他強調，伊朗作為霍爾木茲海峽的沿岸國家，過去和現在都有權採取一系列措施來維護自身利益和國家安全。巴加埃還譴責美國對伊朗的海上封鎖是侵略行為，這一行動也違反了此前雙方達成的諒解備忘錄。此外他還表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。（央視新聞）
+
+---
+
+### 2026-08-16 07:46:59  #國際
+
+市場訊息：超過 1300 名 Strava 應用使用者公開記錄了在美國中央司令部責任區內各美軍軍事基地的運動訓練軌跡。其中多處軍事設施後來遭到伊朗打擊。
+
+---
+
+### 2026-08-16 07:40:40  #其他
+
+【昇騰0Day適配小紅書最新開源大模型dots3-note preview】2026年8月14日，小紅書正式釋出dots3-note preview開源大模型。昇騰Atlas 800 A3、Atlas 900 A3 SuperPoD超節點已完成 dots3-note preview的全量適配，基於vLLM Ascend開源推理引擎提供完整的部署與推理能力，效能持續迭代最佳化。
+
+---
+
+### 2026-08-16 07:39:45  #其他
+
+【事關8萬億養老金 長週期考核落地中】“我們正在做方案，9月之前落地完成。”一位國有企業人力資源部門相關人士說。他所說的方案，指的是所在企業正制定新的企業年金委託管理方案，其中重點是設定新的考核管理方式。這家企業與企業年金受託管理人溝通協商，對企業年金進行長週期考核，並促進年金基金長期投資。相關要求來自去年9月人力資源社會保障部等4部門聯合釋出的一份指導意見，這份指導意見旨在完善長週期考核，促進企業年金和職業年金基金長期投資。資料顯示，企業年金和職業年金基金規模已超8萬億元。截至2026年一季度末，全國企業年金基金積累基金規模約4.28萬億元，建立企業約18.66萬家，參加職工3389萬人。截至2025年年底，全國31個省（自治區、直轄市）、新疆生產建設兵團和中央單位職業年金基金投資運營規模3.78萬億元。（券商中國）
+
+---
+
+### 2026-08-16 07:37:23  #其他
+
+【深圳龍崗建立“電力、運力、飛力、算力”協同的新市政體系】目前全區已有949條無人配送線路、投入288臺無人車，夜間專屬線路265條。得益於全天候綠色電力保障，運力利用率提升66%，運營成本下降20%，夜間配送貨量佔到全天四成，很好補齊了城市夜間末端配送的短板。地面運力日趨成熟後，龍崗依託低空力量，構建空地一體治理格局，裝置依靠電力驅動，全部納入算力統一排程管控，讓城市治理從平面走向立體。如今龍崗建成7個低空產業園、202個無人機起降平臺、千條管控航線，落地華南低空智慧融合測試基地，集聚300多家低空相關企業。（深圳特區報）
+
+---
+
+### 2026-08-16 07:36:26  #國際
+
+美國地質調查局（USGS）：印度尼西亞魯滕以北80公里處發生5.0級地震。
+
+---
+
+### 2026-08-16 07:35:16  #其他
+
+【深圳港國際綠色航運走廊建設提速】當前，亞太地區綠色航運低碳轉型、供應鏈可持續發展成為APEC經貿合作重要議題，區域內港口互聯互通、綠色共治協作持續深化。深圳正攜手APEC區域內重要港口夥伴共建綠色航運生態，近期，《深圳港國際綠色航運走廊合作倡議》正式釋出，標誌著深圳港國際綠色航運走廊建設全面提速。
+
+---
+
+### 2026-08-16 07:33:57  #其他
+
+【廣東上線千門AI課程】8月15日，由廣東省人力資源和社會保障廳主辦的“粵能學——人工智慧培訓進萬家”活動在粵港澳大灣區（廣東）人才港正式釋出。活動以“AI賦能·技創未來”為主題，推動AI知識技能走進千行百業、惠及千家萬戶，在全省營造“人人皆學、處處能學、時時可學”的AI技能學習濃厚氛圍，助力全民終身學習體系建設，促進高質量充分就業創業。（廣州日報）
+
+---
+
+### 2026-08-16 07:33:09  #其他
+
+【孫志洋會見電子科技大學校長鬍俊及校友企業代表】8月15日上午，廣州市市長孫志洋在廣州會見電子科技大學校長鬍俊及校友企業代表一行並座談交流。 孫志洋對電子科技大學長期以來給予廣州發展的支援表示感謝，並對學校建校70週年表示祝賀。他說，當前廣州正深入貫徹落實黨中央決策部署，積極服務國家戰略，著力建設全國先進製造業基地和國際科技創新中心重要承載地，以粵港澳大灣區國家技術創新中心和全國高校區域技術轉移轉化中心（粵港澳大灣區）廣州分中心等平臺建設為抓手，持續完善科技成果轉化機制，推動更多創新技術轉化為新質生產力。面向“十五五”，希望電子科技大學充分發揮自身研發和技術優勢，深度對接廣州教育科技人才資源，聚焦積體電路、智慧出行、高階儀器、人工智慧等重點產業領域，深化校地合作，共建協同創新平臺，共築產學研深度融合發展高地。同時，希望學校積極推薦優秀團隊參與廣州各類科創競賽，廣泛連結校友企業資源，帶動更多優質專案落戶廣州。廣州將全力支援校地合作專案做大做強，持續最佳化產業版營商環境，開放更多應用場景，助力校友企業在廣州實現更好發展。（廣州日報）
 
 ---
 
@@ -18617,107 +18677,5 @@ Wanguo Data (09698.HK) shares opened 9.28% higher after the company reported Q2 
 ### 2026-08-14 09:23:23  #國際
 
 【印度一在建隧道塌方 已致至少7人死亡】當地時間13日，印度北阿坎德邦一在建隧道發生塌方。據當地警方和救援人員透露，事故造成至少7人死亡，另有多人受傷，救援工作還在繼續。
-
----
-
-### 2026-08-14 09:22:01  #央行 #其他
-
-央行公開市場今日淨投放3480億元人民幣。
-
----
-
-### 2026-08-14 09:21:59  #央行 #中國央行
-
-央行公告，根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。
-
----
-
-### 2026-08-14 09:21:54  #MKT News #Important #Star Stocks #JD.com #09618.HK #Impact bearish
-
-JD.com (09618.HK) shares opened down 6.5% after earnings; Q2 2026 net profit CNY 7.1 bln, net margin 2.1%.
-
----
-
-### 2026-08-14 09:21:51  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。
-
----
-
-### 2026-08-14 09:21:42  #MKT News #Market Regions #Greater China
-
-【Foreign Ministry comments on Ecuador President Noboa's upcoming China visit】China's Foreign Ministry said Ecuador President Daniel Noboa will make his first state visit to China and will hold talks with President Xi Jinping; he will also meet Premier Li Qiang and NPC Standing Committee chairman Zhao Leji. Beijing described Ecuador as a major Latin American partner and a comprehensive strategic partner; the two countries have signed Belt and Road cooperation documents and a free trade agreement. The visit coincides with the 10th anniversary of the comprehensive strategic partnership and is aimed at consolidating political trust and advancing bilateral cooperation.
-
----
-
-### 2026-08-14 09:21:25  #市場
-
-京東港股開盤跌6.5%。
-
----
-
-### 2026-08-14 09:21:08  #MKT News #Important #Macro & Rates #CNH #Impact bearish
-
-PBOC says, based on primary dealers' demand in open market operations, the 7-day reverse repo on Aug 14, 2026 was zero.
-
----
-
-### 2026-08-14 09:21:07  #MKT News #Hang Seng Index #Impact bearish
-
-Hong Kong open Aug 14 (Fri): HSI opened down 177.36 pts (-0.7%) at 25,219.15; Hang Seng Tech opened down 28.63 pts (-0.6%) at 4,763.76; Hang Seng China Enterprises Index (HSCEI) opened down 50.02 pts (-0.59%) at 8,376.47; Red Chip Index opened up 2.43 pts (+0.06%) at 4,091.63.
-
----
-
-### 2026-08-14 09:21:05  #焦點
-
-港股恒指低開跌0.7％，國企指數跌0.59％，科指開跌0.6%，中芯國際績後開漲4.74%。
-
----
-
-### 2026-08-14 09:20:58  #MKT News #Important #Hang Seng Index #Impact bearish #00981.HK #Impact bullish
-
-Hong Kong stocks opened lower: the Hang Seng Index fell 0.7% and the Hang Seng Tech Index dropped 0.6%. SMIC (00981.HK) opened up 4.74% post-earnings, guiding Q3 revenue +2–4% QoQ and gross margin of 26–28%.
-
----
-
-### 2026-08-14 09:19:15  #國際
-
-【美軍中央司令部稱將組建多國攻擊無人機部隊】美軍中央司令部13日在社交媒體釋出訊息稱，將組建首支多國攻擊無人機部隊。 訊息說，這支部隊被稱為“獵鷹打擊”特遣部隊，將使用單向攻擊無人機作戰。這些無人機將由來自美國及地區合作伙伴的軍事人員操作，可以從空中、海上以及水下展開攻擊。 美軍中央司令部稱，已啟動與地區合作伙伴的磋商及正式邀請程式。隨著地區合作伙伴加入，“獵鷹打擊”特遣部隊將整合整個中東地區的攻擊型無人機能力，“打造成一支統一的、跨域且多國參與的威懾力量”。 不過，美軍中央司令部在訊息中並未說明將參與的具體國家。 美軍中央司令部總部位於美國佛羅里達州坦帕市，負責中東、中亞和南亞部分地區的軍事行動。(新華社)
-
----
-
-### 2026-08-14 09:19:10  #市場 #焦點
-
-現貨黃金失守4320美元/盎司，日內跌0.76%。
-
----
-
-### 2026-08-14 09:18:24  #公司
-
-中芯國際聯合執行長：漲價將進一步推高毛利率。
-
----
-
-### 2026-08-14 09:18:14  #公司
-
-= 中芯國際聯合執行長：人工智慧相關晶片需求增長40%。
-
----
-
-### 2026-08-14 09:18:09  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said demand for AI-enabled chips has risen 40%.
-
----
-
-### 2026-08-14 09:18:01  #MKT News #0981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said higher pricing will further boost gross margins.
-
----
-
-### 2026-08-14 09:17:43  #MKT News #Market Regions #Greater China
-
-SMIC (Semiconductor Manufacturing International Corp) co‑CEO Zhao Haijun said wafers shipped in Q3 were subject to a new pricing scheme.
 
 ---
