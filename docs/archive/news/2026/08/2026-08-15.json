@@ -1,7 +1,27 @@
 {
   "date": "2026-08-15",
-  "count": 658,
+  "count": 660,
   "items": [
+    {
+      "id": "mkt:01a004cc-36bb-7aab-9048-86989a55aebb",
+      "time": "2026-08-15 17:41:27",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026."
+    },
+    {
+      "id": "5042262",
+      "time": "2026-08-15 17:40:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【國防部新聞發言人蔣斌就日本政要參拜靖國神社答記者問】記者：據報道，在日本戰敗投降日當天，日本首相高市早苗向靖國神社供奉祭祀費，日本防衛大臣小泉進次郎等前往參拜。請問對此有何評論？蔣斌：靖國神社是日本軍國主義發動對外侵略戰爭的精神工具和象徵，供奉有雙手沾滿亞太國家人民鮮血的戰犯。日本政客有關行徑公然褻瀆歷史正義，嚴重傷害亞太受害國人民感情，本質上是掩蓋否定侵略罪責，挑戰世界反法西斯戰爭勝利成果與戰後國際秩序。一邊嘴上標榜追求和平，一邊向戰爭罪魁禍首頂禮膜拜，這種虛偽的作派，充分暴露出日本右翼勢力嚴重扭曲的歷史觀和為軍國主義揚幡招魂的危險圖謀。（新華社）"
+    },
     {
       "id": "5042261",
       "time": "2026-08-15 17:36:08",
