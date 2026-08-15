@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 734,
+  "count": 736,
   "items": [
+    {
+      "id": "mkt:01a00574-ac38-7aab-9049-3075b2b4cd8a",
+      "time": "2026-08-15 20:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's West disaster management agency said deaths from an earthquake in eastern Indonesia have risen to 47."
+    },
+    {
+      "id": "5042329",
+      "time": "2026-08-15 20:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼災害管理機構：印尼東部地震死亡人數已上升至47人。"
+    },
     {
       "id": "5042328",
       "time": "2026-08-15 20:42:07",
