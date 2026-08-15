@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 87,
+  "count": 89,
   "items": [
+    {
+      "id": "5042437",
+      "time": "2026-08-16 05:42:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：佛羅里達與加利福尼亞兩處發射場的獵鷹9號火箭均已豎立就位，準備於今日執行發射任務。"
+    },
+    {
+      "id": "mkt:01a0075f-e791-7aab-904b-3d5549977757",
+      "time": "2026-08-16 05:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O): Falcon 9 rockets are in position in Florida and California and ready for launches scheduled today."
+    },
     {
       "id": "5042436",
       "time": "2026-08-16 05:32:29",
