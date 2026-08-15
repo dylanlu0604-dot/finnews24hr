@@ -1,7 +1,17 @@
 {
   "date": "2026-08-15",
-  "count": 664,
+  "count": 665,
   "items": [
+    {
+      "id": "mkt:01a004e7-17ce-7aab-9048-95239e404474",
+      "time": "2026-08-15 18:10:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Iran intelligence says it uncovered French \"termite plan\" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to \"pre-emptively\" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called \"termite plan\" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the \"reckless plot\"."
+    },
     {
       "id": "5042265",
       "time": "2026-08-15 18:04:10",

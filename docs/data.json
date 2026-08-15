@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-15 18:07:37",
-  "count": 15317,
+  "updated": "2026-08-15 18:11:51",
+  "count": 15316,
   "items": [
+    {
+      "id": "mkt:01a004e7-17ce-7aab-9048-95239e404474",
+      "time": "2026-08-15 18:10:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Iran intelligence says it uncovered French \"termite plan\" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to \"pre-emptively\" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called \"termite plan\" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the \"reckless plot\"."
+    },
     {
       "id": "5042265",
       "time": "2026-08-15 18:04:10",
@@ -140218,22 +140228,6 @@
         "其他"
       ],
       "text": "伊拉克石油部長表示，新巴士拉-費什卡布林輸油管道的預估成本不超過150億美元。"
-    },
-    {
-      "id": "5031903",
-      "time": "2026-08-08 18:09:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紅色山洪災害氣象預警：浙江局地發生山洪災害可能性很大】水利部和中國氣象局8月8日18時聯合釋出紅色山洪災害氣象預警：預計，8月8日20時至9日20時，浙江東部部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
-    },
-    {
-      "id": "5031902",
-      "time": "2026-08-08 18:08:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星光股份中標龍星控股總部泛光工程專案】據“星光股份”公眾號訊息，近日，星光股份成功中標龍星控股總部泛光工程專案。"
     }
   ]
 }
