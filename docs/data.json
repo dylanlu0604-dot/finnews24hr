@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-16 05:25:19",
-  "count": 15257,
+  "updated": "2026-08-16 05:29:10",
+  "count": 15258,
   "items": [
+    {
+      "id": "5042435",
+      "time": "2026-08-16 05:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：週六，伊朗從格什姆島以及本國南部海岸朝霍爾木茲海峽與阿曼灣方向發射多枚反艦導彈。"
+    },
+    {
+      "id": "mkt:01a00751-8035-7aab-904b-308e7042448e",
+      "time": "2026-08-16 05:26:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ecuadorian President Daniel Noboa arrives in Beijing, begins state visit】Ecuadorian President Daniel Noboa Azín arrived in Beijing on the morning of the 16th to begin an eight-day state visit to China, his first official visit to the country."
+    },
+    {
+      "id": "5042434",
+      "time": "2026-08-16 05:26:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多總統諾沃亞抵達北京 開啟訪華行程】今天（16日）早晨，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛抵達北京，開始為期8天的訪華行程。此訪是諾沃亞總統首次對中國進行國事訪問。"
+    },
     {
       "id": "5042433",
       "time": "2026-08-16 05:15:42",
@@ -139645,25 +139671,6 @@
         "其他"
       ],
       "text": "【土外長稱沙土巴三國共同防務協議有望擴員】土耳其外長費丹8日表示，新近達成的沙烏地阿拉伯、土耳其和巴基斯坦三國共同防務協議旨在增強區域自主權，應當繼續發展壯大，有更多國家表達加入意願。（新華社）"
-    },
-    {
-      "id": "mkt:019fe346-49de-7aab-8fc6-bfffb9b5246a",
-      "time": "2026-08-09 05:27:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NV Energy sues data center developer, warns power-costs could be passed to consumers】On the 7th NV Energy, Nevada's largest supplier, sued a developer building two data centers in the state, alleging the facilities would consume nearly one-third of the utility's generation and shift power costs to consumers. NV Energy, which supplies about 90% of Nevada customers, is seeking the developer to fund roughly $1 bln in grid upgrades and warned that if the developer does not bear more infrastructure costs the utility may raise rates, passing the burden to households and businesses. The developer countered that NV Energy has failed to deliver promised power service while still demanding the $1 bln upgrade contribution."
-    },
-    {
-      "id": "5032110",
-      "time": "2026-08-09 05:26:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國能源公司起訴資料中心開發商：將電費成本轉嫁民眾】據美國方面7日訊息，美國內華達州最大能源供應商內華達能源公司已經正式起訴正在該州建造資料中心的一家開發商，指控其試圖將電費成本轉嫁給消費者。據稱，內華達能源公司為內華達州90%的使用者供電，而在建的兩家資料中心建成後將消耗的電力，幾乎佔內華達能源公司總發電量的三分之一。內華達能源公司要求資料中心開發商必須啟動價值10億美元的電網升級工程。該公司警告稱，如果資料中心開發商不承擔更多的基建開支，公司或將上調電價，負擔將轉嫁到內華達州的普通家庭和企業身上。對此，資料中心的開發商則表示，內華達能源公司拒絕兌現對其承諾的供電服務，卻依舊要求他們投入10億美元開展電網升級工程。"
     }
   ]
 }

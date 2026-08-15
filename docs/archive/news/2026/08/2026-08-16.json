@@ -1,7 +1,33 @@
 {
   "date": "2026-08-16",
-  "count": 83,
+  "count": 86,
   "items": [
+    {
+      "id": "5042435",
+      "time": "2026-08-16 05:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：週六，伊朗從格什姆島以及本國南部海岸朝霍爾木茲海峽與阿曼灣方向發射多枚反艦導彈。"
+    },
+    {
+      "id": "mkt:01a00751-8035-7aab-904b-308e7042448e",
+      "time": "2026-08-16 05:26:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ecuadorian President Daniel Noboa arrives in Beijing, begins state visit】Ecuadorian President Daniel Noboa Azín arrived in Beijing on the morning of the 16th to begin an eight-day state visit to China, his first official visit to the country."
+    },
+    {
+      "id": "5042434",
+      "time": "2026-08-16 05:26:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多總統諾沃亞抵達北京 開啟訪華行程】今天（16日）早晨，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛抵達北京，開始為期8天的訪華行程。此訪是諾沃亞總統首次對中國進行國事訪問。"
+    },
     {
       "id": "5042433",
       "time": "2026-08-16 05:15:42",
