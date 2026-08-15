@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-15 15:57:39",
-  "count": 15322,
+  "updated": "2026-08-15 16:02:05",
+  "count": 15323,
   "items": [
+    {
+      "id": "mkt:01a0046e-3d2d-7aab-9048-1d92231e0e4f",
+      "time": "2026-08-15 15:58:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【IRGC says Iran forced 'most heavily armed army' to submit after six months of operations】Press TV quoted Islamic Revolutionary Guard Corps commander Major General Ahmad Vahidi on Saturday saying Iran’s offensive and defensive operations under heavy fire have forced \"the most heavily armed army in history\" to submit. Vahidi thanked the armed forces for six months of \"unprecedented holy war,\" and described Iran’s conduct against what he called \"the most bloodthirsty enemy in human history.\""
+    },
+    {
+      "id": "5042231",
+      "time": "2026-08-15 15:58:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省發生5.1級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日15時39分，東努沙登加拉省芒加萊縣魯滕鎮東北82公里處發生5.1級地震，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "5042230",
+      "time": "2026-08-15 15:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：對黎巴嫩南部納巴蒂耶和安薩爾的空襲是對阿里·塔赫爾高地我軍遭到襲擊的回應。"
+    },
+    {
+      "id": "5042229",
+      "time": "2026-08-15 15:57:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：我們將繼續在黎巴嫩南部開展行動，以消除真主黨的威脅。"
+    },
     {
       "id": "5042228",
       "time": "2026-08-15 15:51:02",
@@ -140240,35 +140276,6 @@
         "其他"
       ],
       "text": "【7月高頻資料折射經濟向新向好】記者8日從國家發展改革委國家資訊中心瞭解到，7月份，多領域高頻資料平穩向好，線下消費穩步增長，投資結構不斷最佳化，市場資本主動佈局新質生產力相關賽道，創新活力持續迸發。線下消費大資料顯示，7月各類消費支付金額同比增長2.2%，增速比上月提高0.8個百分點。其中，家用電器與音像器材類支付金額同比增長8.5%，增速比上月提高10.9個百分點。反映中小商戶經營狀況的“收錢吧”實體商業活力指數升至81.9，較上月提高3.1%。（新華社）"
-    },
-    {
-      "id": "mkt:019fe064-9034-7aab-8fc3-24d9fe17ab6b",
-      "time": "2026-08-08 16:01:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "The U.S. Senate passed a stopgap funding bill to avert a government shutdown ahead of the election."
-    },
-    {
-      "id": "5031857",
-      "time": "2026-08-08 16:00:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國參議院透過臨時撥款法案。"
-    },
-    {
-      "id": "5031856",
-      "time": "2026-08-08 15:59:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部部署颱風“白海豚”暴雨洪水防禦工作】記者8日從水利部獲悉，水利部7日下午舉行專題會商，分析研判今年第13號颱風“白海豚”發展態勢及影響，系統安排部署颱風暴雨洪水防禦工作。記者瞭解到，颱風“白海豚”具有登陸強度大、攜帶水汽足、影響範圍廣、持續時間長等突出特點。受其影響，預報8月8日至16日，浙閩地區及太湖、長江、淮河、黃河、海河、遼河等流域部分河流將出現明顯漲水過程，部分中小河流可能發生較大洪水，部分地區山洪災害風險高。（新華社）"
     }
   ]
 }

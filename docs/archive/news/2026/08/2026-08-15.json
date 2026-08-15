@@ -1,7 +1,43 @@
 {
   "date": "2026-08-15",
-  "count": 612,
+  "count": 616,
   "items": [
+    {
+      "id": "mkt:01a0046e-3d2d-7aab-9048-1d92231e0e4f",
+      "time": "2026-08-15 15:58:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【IRGC says Iran forced 'most heavily armed army' to submit after six months of operations】Press TV quoted Islamic Revolutionary Guard Corps commander Major General Ahmad Vahidi on Saturday saying Iran’s offensive and defensive operations under heavy fire have forced \"the most heavily armed army in history\" to submit. Vahidi thanked the armed forces for six months of \"unprecedented holy war,\" and described Iran’s conduct against what he called \"the most bloodthirsty enemy in human history.\""
+    },
+    {
+      "id": "5042231",
+      "time": "2026-08-15 15:58:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省發生5.1級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日15時39分，東努沙登加拉省芒加萊縣魯滕鎮東北82公里處發生5.1級地震，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "5042230",
+      "time": "2026-08-15 15:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：對黎巴嫩南部納巴蒂耶和安薩爾的空襲是對阿里·塔赫爾高地我軍遭到襲擊的回應。"
+    },
+    {
+      "id": "5042229",
+      "time": "2026-08-15 15:57:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：我們將繼續在黎巴嫩南部開展行動，以消除真主黨的威脅。"
+    },
     {
       "id": "5042228",
       "time": "2026-08-15 15:51:02",
