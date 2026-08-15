@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 23:52:40_
-_本檔包含 3210 則快訊，約 604998 字_
+_更新時間：2026-08-16 00:36:27_
+_本檔包含 3208 則快訊，約 604505 字_
+
+---
+
+### 2026-08-11 23:41:14  #國際
+
+特朗普：正在研判聯邦政府是否具備法律許可權，阻止馬姆達尼推出的紐約市非居民公寓稅。
+
+---
+
+### 2026-08-11 23:40:57  #MKT News
+
+President Trump said he is investigating whether the federal government has the authority to block Mandani from imposing a 'second-home tax' in New York City.
+
+---
+
+### 2026-08-11 23:40:18  #市場
+
+鈀金期貨日內跌1%，現報1367.11美元/盎司。
+
+---
+
+### 2026-08-11 23:40:13  #國際
+
+特朗普：紐約市公寓附加稅是一項危險的試驗。
+
+---
+
+### 2026-08-11 23:40:04  #MKT News #SLG.O #Impact bearish #EQR.O #VNO.O
+
+President Trump said New York City's apartment tax is a dangerous experiment.
+
+---
+
+### 2026-08-11 23:39:35  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+Aug 11 (Tue) European close: Germany's DAX up 44.25 pts (+0.17%) at 26,399.32; UK's FTSE 100 down 17.90 pts (-0.16%) at 10,844.60; France's CAC 40 down 11.09 pts (-0.13%) at 8,714.94; Euro Stoxx 50 up 16.23 pts (+0.25%) at 6,551.85; Spain's IBEX 35 up 30.99 pts (+0.15%) at 20,213.89; Italy's FTSE MIB up 67.12 pts (+0.13%) at 53,731.00.
+
+---
+
+### 2026-08-11 23:39:30  #MKT News #INTC.O #Impact bearish
+
+Semafor reports U.S. Commerce Secretary Lutnick supports the idea of Intel conducting a secondary share offering.
+
+---
+
+### 2026-08-11 23:39:22  #公司 #國際
+
+英特爾CEO陳立武尋求美國方面批准英特爾二次增發，美國商務部長盧特尼克曾認可英特爾二次增發這一構想。但美國政府 決定不參與英特爾本次二次增發。
+
+---
+
+### 2026-08-11 23:38:57  #MKT News
+
+Semafor reports the U.S. government has decided not to participate in Intel's follow-on offering.
+
+---
+
+### 2026-08-11 23:37:57  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bearish
+
+Semafor reported that Intel CEO Chen Liwu had sought U.S. approval for a secondary offering of Intel (INTC.O) shares.
+
+---
+
+### 2026-08-11 23:35:46  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+U.S. 6-week Treasury auction through Aug. 11 — share of allotment awarded at the stop-out yield 2.86%; previous 79.36%.
+
+---
+
+### 2026-08-11 23:34:34  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iran says the Strait of Hormuz will remain closed until relevant conditions are met.
+
+---
+
+### 2026-08-11 23:33:55  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
+
+U.S. 6-week Treasury bill auction for Aug. 11 settlement — stop-out yield 3.67%, prior 3.64%.
+
+---
+
+### 2026-08-11 23:33:38  #市場 #國際
+
+【日本物價攀升下調消費稅難解壓力】近日，日本政府召開臨時內閣會議，透過食品消費稅減稅政策，決定自2027年4月起將稅率由現行的8%下調至1%，政策有效期2年。記者在街頭隨機採訪時，不少日本民眾表示明顯感覺到一年來物價出現上漲，而對於高市內閣的經濟措施，則難以給予正面評價。日本專家表示，下調食品消費稅效果容易被持續上漲的物價抵消，消費稅下調未必能有效緩解民眾生活壓力。（CCTV國際時訊）
 
 ---
 
@@ -19251,101 +19335,5 @@ Anthropic、麥格理資產管理與新加坡政府投資公司（GIC）宣佈�
 ### 2026-08-10 19:55:34  #其他
 
 【國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動】在華為中國行2026・黑龍江省“人工智慧+”賦能行業高質量發展峰會上，國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動儀式舉行，該基地將搭建起農業AI技術試驗、除錯、成果轉化的專業化平臺，助力寒地智慧農業發展。同時，人工智慧+農業產業聯盟正式成立，將整合上下游產業資源，補齊智慧農業發展短板。（科創板日報）
-
----
-
-### 2026-08-10 19:55:16  #其他
-
-伯恩斯坦將微軟目標價從647美元上調至660美元。
-
----
-
-### 2026-08-10 19:54:30  #市場
-
-MarineMax美股盤前漲超45%。
-
----
-
-### 2026-08-10 19:53:42  #公司
-
-【電投能源：擬投資4.22億元建設庫倫旗10萬千瓦風電專案】電投能源公告，公司2026年第六次臨時董事會審議透過議案，由全資子公司庫倫旗電投新能源有限公司投資建設庫倫旗農村能源革命試點縣（二期工程）第一批10萬千瓦風電專案。該專案於2026年1月23日取得建設指標，建設10萬千瓦集中式風電，配套建設5MW/10MWh構網型儲能。根據可研報告，專案靜態投資4.17億元，動態投資4.22億元，資本金比例20%，其餘為銀行貸款。專案投資回收期（含稅）為14.03年，資本金財務內部收益率超過7%。
-
----
-
-### 2026-08-10 19:53:25  #其他
-
-阿曼表示，“卡羅琳·貝曾吉”號油輪發生的原油洩漏已擴散至約390平方公里（合150平方英里）海域。
-
----
-
-### 2026-08-10 19:53:07  #市場 #國際
-
-【韓國投資者“掃貨”中際旭創H股】上市不足兩週，中際旭創H股已成為韓國投資者近一個月淨買入金額最多的港股。韓國證券存管院（KSD）旗下SEIBro資料顯示，7月8日至8月7日，韓國投資者對中際旭創H股的買入結算額為4506.70萬美元，賣出結算額為167.29萬美元，淨買入結算額達4339.42萬美元，摺合約3.4億港元，位居同期韓國投資者淨買入港股榜首。中際旭創H股7月30日掛牌交易，在短短7個交易日，其淨買入結算額幾乎是榜單第二名的4倍。(中國證券報)
-
----
-
-### 2026-08-10 19:52:37  #公司
-
-【潔美科技：擬發行股份收購埃福思科技100%股權，交易作價9.15億元】潔美科技公告，公司擬以發行股份方式購買周林、遠致星火、丁傑、陶尚、陳永富持有的埃福思科技100.00%股權，交易金額為9.15億元。同時，公司擬向不超過35名特定投資者發行股份募集配套資金不超過2.28億元。本次交易不構成關聯交易及重組上市。標的公司主營超高精度光學元件確定性拋光裝置的研發、生產、銷售。
-
----
-
-### 2026-08-10 19:52:06  #公司
-
-【崑崙萬維：籌劃發行H股並在港交所上市，董事會已審議透過相關議案】崑崙萬維公告，公司計劃發行境外上市外資股（H股）股票並申請在香港聯交所主機板掛牌上市。2026年8月10日，公司第六屆董事會第二次會議審議透過了關於發行H股並上市的相關議案。目前，公司正積極與中介機構商討具體工作，但具體細節尚未確定，本次發行並上市尚需提交股東會審議，並取得中國證監會和香港聯交所等批准，存在重大不確定性。
-
----
-
-### 2026-08-10 19:51:51  #焦點 #國際
-
-【8月10日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】加快構建城鄉融合發展新格局； 2.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】共享智造助力河北啟用產業叢集新活力； 3.南水北調東中線一期工程調水突破900億立方米； 4.7月先行指標折射經濟穩中向優態勢明顯； 5.各地各部門多舉措應對臺風“白海豚”影響； 6.我國已建成國家慢性病綜合防控示範區578個； 7.服務消費拓展就業新空間； 8.我國國際航線網路持續最佳化 更好滿足入境遊需求； 9.【一線調研】公園拓展消費新場景； 10.國內聯播快訊： （1）我國已建成綠色燃料產能約800萬噸； （2）港珠澳大橋珠海公路口岸進出境車輛累計突破2500萬輛次； （3）中國第16次北冰洋考察隊開展冰站調查作業； （4）瀕危物種林麝現身重慶巫溪； 11.日本民眾舉行集會抗議高市政權擴軍修憲的危險動向； 12.以色列總理稱拒絕美支援的加沙和平計劃 美媒稱白宮“不在意”； 13.胡塞武裝稱襲擊葉門政府軍目標及沙特煉油廠； 14.國際聯播快訊： （1）美媒稱美總統傾向對伊朗施加經濟壓力； （2）俄稱控制更多區域 烏稱敖德薩遭襲斷電； （3）丹麥民眾舉行皮艇集會 支援格陵蘭島； （4）北美和歐洲多地林火持續蔓延。
-
----
-
-### 2026-08-10 19:51:44  #MKT News #INTC.O
-
-HASSETT said President Trump will decide how long to hold Intel (INTC.O) shares.
-
----
-
-### 2026-08-10 19:51:35  #公司
-
-備忘錄顯示，沙特阿美公司將日產能40萬桶的吉贊煉油廠的重啟時間推遲15天至8月30日。
-
----
-
-### 2026-08-10 19:51:26  #其他
-
-伯恩斯坦將康菲石油目標股價從121美元上調至129美元。
-
----
-
-### 2026-08-10 19:51:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-A memo showed ARAMCO pushed back the restart of the 400,000 bpd Jazan refinery by 15 days to Aug. 30.
-
----
-
-### 2026-08-10 19:51:13  #MKT News #EBAY.O #Impact bearish #GME.N #Impact bullish
-
-Pre-market: eBay (EBAY.O) shares down 2.5%; GameStop (GME.N) up 3.7%.
-
----
-
-### 2026-08-10 19:51:02  #國際
-
-白宮國家經濟委員會主任哈塞特：特朗普將自行決定持有英特爾股票的時長。
-
----
-
-### 2026-08-10 19:50:38  #市場
-
-【SpaceX美股盤前漲超4%】SpaceX美股盤前漲超4%，現報138.45美元。
-
----
-
-### 2026-08-10 19:50:35  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
-
-Hassett, director of the White House National Economic Council, said there is no need to invent a US Treasuries theory to stabilize the yen.
 
 ---

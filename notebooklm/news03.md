@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 23:52:40_
-_本檔包含 3130 則快訊，約 604847 字_
+_更新時間：2026-08-16 00:36:27_
+_本檔包含 3123 則快訊，約 605139 字_
+
+---
+
+### 2026-08-13 07:09:00  #MKT News #Market Regions #Emerging Markets
+
+【Colombia declares economic emergency after major quake】Colombian President De la Espriella on the 12th (local time) declared an economic emergency following a major earthquake. The measure is aimed at speeding relief to affected residents, reallocating resources for reconstruction and includes measures to revive the economy.
+
+---
+
+### 2026-08-13 07:08:49  #公司
+
+【市場變化考驗公募定增策略 “折價拿貨”並非穩賺不賠】定增策略歷來是公募基金增厚收益的有效方式之一，公募機構以“折扣價”買入，往往能幫助基金組合賺取確定性相對較高的收益。然而，近期A股行情極致切換，定增策略的有效性遭遇挑戰。江波龍、路維光電、思泉新材等一批科技公司恰逢6月啟動定增，多家公募機構參與獲配，隨後7月科技板塊行情大幅回撥，定增發行價高於二級市場現價，即倒掛的情況接連出現，甚至部分個股定增價格倒掛幅度超過28%，公募機構出現浮虧。記者採訪瞭解到，定增採用競價發行，價格優先原則在股價處於上行週期時，容易讓參與方為了確保獲配而報出高價，進一步推高發行價；一旦市場風向轉變，缺乏安全墊的定增價格就會首當其衝受到影響。近期市場風格較為極致，定增策略的執行難度持續增大，業內機構認為，應從賽道邏輯轉向基本面邏輯，重視倉位分散和交易規則。（中國證券報）
+
+---
+
+### 2026-08-13 07:08:10  #公司
+
+【CoreWeave新增風險提示：若需從英偉達晶片轉向其他晶片將面臨困難】CoreWeave Inc.警告投資者，若要改變目前只使用英偉達人工智慧(AI)晶片的狀況，可能需要投入大量時間和資金。CoreWeave週三在申報檔案中表示，客戶需求的變化可能要求公司投入“時間、資金和資源”，以獲取英偉達圖形處理器（GPU）的替代產品。公司警告稱，這最終可能影響其向客戶提供所需產品的能力。
+
+---
+
+### 2026-08-13 07:06:27  #市場
+
+【全球最大的白銀ETF iShares Silver Trust持倉量較前日持平】截至2026年08月12日，全球最大的白銀ETF iShares Silver Trust持倉量為15313.54噸，較前一個交易日持平。
+
+---
+
+### 2026-08-13 07:06:14  #公司
+
+【宇樹科技打新成績單出爐 機構踴躍參與】宇樹科技日前披露的網下初步配售及網上中籤結果顯示，本次宇樹科技發行股份為4044.6434萬股，其中戰略配售808.9286萬股，佔發行總量的20%；網下最終發行數量2265.0148萬股，網上最終發行970.7萬股。從配售結果看，包括公募基金、社保基金、銀行理財產品、保險資金等在內的A類投資者，合計獲配1933.3754萬股，佔網下發行總量的85.36%。業內人士認為，保險機構、銀行理財公司等積極參與此次打新，展現出“耐心資本”加力佈局硬科技企業的態勢。（中國證券報）
+
+---
+
+### 2026-08-13 07:06:11  #公司 #國際
+
+【英媒：美國電動汽車市場遇冷，韓國電池企業投資生變】北美電動汽車市場降溫，正在迫使韓國電池企業重新調整在美擴張節奏。據路透社11日報道，韓國電池製造商三星SDI已決定終止與美國通用汽車在印第安納州的電池合資協議，三星SDI將收購通用所持49.99%的股份，而原合資工廠Synergy Cells將由三星SDI全資運營。這座工廠原本是三星SDI與通用汽車在美國佈局電動車電池的重要專案。韓國《朝鮮日報》報道稱，雙方於2024年宣佈共同投資35億美元，在印第安納州建設年產能27吉瓦時的電池工廠，並計劃2027年啟動規模化量產。今年5月，路透社曾披露，受市場環境轉弱影響，該工廠的建設進度已有所放緩。三星SDI在宣告中表示，此次股權調整綜合考量專案官宣後的市場變化，其中包括“電動車需求增長低於預期”。雙方確定終止原有合資模式，同時探索全新的合作形式。（環球網）
+
+---
+
+### 2026-08-13 07:05:03  #公司
+
+【北交所首批半年報出爐，高景氣賽道業績亮眼】北交所首批2026年半年報近日陸續披露，企業成長成色初現。據北交所官網披露，截至8月12日，已有嘉晨智慧、吉和昌、科創新材、明陽科技等30家北交所上市公司半年報“交卷”。總的來看，已披露公司業績表現搶眼，超八成實現營收與淨利潤“雙增長”，算力服務、新能源、半導體等高景氣賽道成為拉動業績增長的核心引擎，凸顯北交所“專精特新”企業的成長活力。（上證報）
 
 ---
 
@@ -18824,89 +18866,5 @@ U.S. President Trump said New York City must immediately stop levying a second-h
 ### 2026-08-11 23:41:48  #MKT News
 
 【China ice-making companies surge 62% in 2025; sector at seasonal production peak】As of Aug 2026 China had 42,900 ice-related companies. In 2025, 11,900 new firms registered, up 62.08% YoY and the highest annual total in a decade. Strong cooling and cold-chain preservation demand have pushed the industry into a production peak with many plants running at full capacity. In Jiashan, Zhejiang, an automated ice plant supplying East China supermarkets, convenience stores and new-tea chains commissioned a new line this year that produces ice spheres with roughly three-hour melt time and lifted daily capacity from 150 to 170 tonnes.
-
----
-
-### 2026-08-11 23:41:14  #國際
-
-特朗普：正在研判聯邦政府是否具備法律許可權，阻止馬姆達尼推出的紐約市非居民公寓稅。
-
----
-
-### 2026-08-11 23:40:57  #MKT News
-
-President Trump said he is investigating whether the federal government has the authority to block Mandani from imposing a 'second-home tax' in New York City.
-
----
-
-### 2026-08-11 23:40:18  #市場
-
-鈀金期貨日內跌1%，現報1367.11美元/盎司。
-
----
-
-### 2026-08-11 23:40:13  #國際
-
-特朗普：紐約市公寓附加稅是一項危險的試驗。
-
----
-
-### 2026-08-11 23:40:04  #MKT News #SLG.O #Impact bearish #EQR.O #VNO.O
-
-President Trump said New York City's apartment tax is a dangerous experiment.
-
----
-
-### 2026-08-11 23:39:35  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
-
-Aug 11 (Tue) European close: Germany's DAX up 44.25 pts (+0.17%) at 26,399.32; UK's FTSE 100 down 17.90 pts (-0.16%) at 10,844.60; France's CAC 40 down 11.09 pts (-0.13%) at 8,714.94; Euro Stoxx 50 up 16.23 pts (+0.25%) at 6,551.85; Spain's IBEX 35 up 30.99 pts (+0.15%) at 20,213.89; Italy's FTSE MIB up 67.12 pts (+0.13%) at 53,731.00.
-
----
-
-### 2026-08-11 23:39:30  #MKT News #INTC.O #Impact bearish
-
-Semafor reports U.S. Commerce Secretary Lutnick supports the idea of Intel conducting a secondary share offering.
-
----
-
-### 2026-08-11 23:39:22  #公司 #國際
-
-英特爾CEO陳立武尋求美國方面批准英特爾二次增發，美國商務部長盧特尼克曾認可英特爾二次增發這一構想。但美國政府 決定不參與英特爾本次二次增發。
-
----
-
-### 2026-08-11 23:38:57  #MKT News
-
-Semafor reports the U.S. government has decided not to participate in Intel's follow-on offering.
-
----
-
-### 2026-08-11 23:37:57  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bearish
-
-Semafor reported that Intel CEO Chen Liwu had sought U.S. approval for a secondary offering of Intel (INTC.O) shares.
-
----
-
-### 2026-08-11 23:35:46  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-U.S. 6-week Treasury auction through Aug. 11 — share of allotment awarded at the stop-out yield 2.86%; previous 79.36%.
-
----
-
-### 2026-08-11 23:34:34  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iran says the Strait of Hormuz will remain closed until relevant conditions are met.
-
----
-
-### 2026-08-11 23:33:55  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
-
-U.S. 6-week Treasury bill auction for Aug. 11 settlement — stop-out yield 3.67%, prior 3.64%.
-
----
-
-### 2026-08-11 23:33:38  #市場 #國際
-
-【日本物價攀升下調消費稅難解壓力】近日，日本政府召開臨時內閣會議，透過食品消費稅減稅政策，決定自2027年4月起將稅率由現行的8%下調至1%，政策有效期2年。記者在街頭隨機採訪時，不少日本民眾表示明顯感覺到一年來物價出現上漲，而對於高市內閣的經濟措施，則難以給予正面評價。日本專家表示，下調食品消費稅效果容易被持續上漲的物價抵消，消費稅下調未必能有效緩解民眾生活壓力。（CCTV國際時訊）
 
 ---

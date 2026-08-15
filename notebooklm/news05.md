@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 23:52:40_
-_本檔包含 2743 則快訊，約 604843 字_
+_更新時間：2026-08-16 00:36:27_
+_本檔包含 2743 則快訊，約 604896 字_
+
+---
+
+### 2026-08-10 19:55:16  #其他
+
+伯恩斯坦將微軟目標價從647美元上調至660美元。
+
+---
+
+### 2026-08-10 19:54:30  #市場
+
+MarineMax美股盤前漲超45%。
+
+---
+
+### 2026-08-10 19:53:42  #公司
+
+【電投能源：擬投資4.22億元建設庫倫旗10萬千瓦風電專案】電投能源公告，公司2026年第六次臨時董事會審議透過議案，由全資子公司庫倫旗電投新能源有限公司投資建設庫倫旗農村能源革命試點縣（二期工程）第一批10萬千瓦風電專案。該專案於2026年1月23日取得建設指標，建設10萬千瓦集中式風電，配套建設5MW/10MWh構網型儲能。根據可研報告，專案靜態投資4.17億元，動態投資4.22億元，資本金比例20%，其餘為銀行貸款。專案投資回收期（含稅）為14.03年，資本金財務內部收益率超過7%。
+
+---
+
+### 2026-08-10 19:53:25  #其他
+
+阿曼表示，“卡羅琳·貝曾吉”號油輪發生的原油洩漏已擴散至約390平方公里（合150平方英里）海域。
+
+---
+
+### 2026-08-10 19:53:07  #市場 #國際
+
+【韓國投資者“掃貨”中際旭創H股】上市不足兩週，中際旭創H股已成為韓國投資者近一個月淨買入金額最多的港股。韓國證券存管院（KSD）旗下SEIBro資料顯示，7月8日至8月7日，韓國投資者對中際旭創H股的買入結算額為4506.70萬美元，賣出結算額為167.29萬美元，淨買入結算額達4339.42萬美元，摺合約3.4億港元，位居同期韓國投資者淨買入港股榜首。中際旭創H股7月30日掛牌交易，在短短7個交易日，其淨買入結算額幾乎是榜單第二名的4倍。(中國證券報)
+
+---
+
+### 2026-08-10 19:52:37  #公司
+
+【潔美科技：擬發行股份收購埃福思科技100%股權，交易作價9.15億元】潔美科技公告，公司擬以發行股份方式購買周林、遠致星火、丁傑、陶尚、陳永富持有的埃福思科技100.00%股權，交易金額為9.15億元。同時，公司擬向不超過35名特定投資者發行股份募集配套資金不超過2.28億元。本次交易不構成關聯交易及重組上市。標的公司主營超高精度光學元件確定性拋光裝置的研發、生產、銷售。
+
+---
+
+### 2026-08-10 19:52:06  #公司
+
+【崑崙萬維：籌劃發行H股並在港交所上市，董事會已審議透過相關議案】崑崙萬維公告，公司計劃發行境外上市外資股（H股）股票並申請在香港聯交所主機板掛牌上市。2026年8月10日，公司第六屆董事會第二次會議審議透過了關於發行H股並上市的相關議案。目前，公司正積極與中介機構商討具體工作，但具體細節尚未確定，本次發行並上市尚需提交股東會審議，並取得中國證監會和香港聯交所等批准，存在重大不確定性。
+
+---
+
+### 2026-08-10 19:51:51  #焦點 #國際
+
+【8月10日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】加快構建城鄉融合發展新格局； 2.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】共享智造助力河北啟用產業叢集新活力； 3.南水北調東中線一期工程調水突破900億立方米； 4.7月先行指標折射經濟穩中向優態勢明顯； 5.各地各部門多舉措應對臺風“白海豚”影響； 6.我國已建成國家慢性病綜合防控示範區578個； 7.服務消費拓展就業新空間； 8.我國國際航線網路持續最佳化 更好滿足入境遊需求； 9.【一線調研】公園拓展消費新場景； 10.國內聯播快訊： （1）我國已建成綠色燃料產能約800萬噸； （2）港珠澳大橋珠海公路口岸進出境車輛累計突破2500萬輛次； （3）中國第16次北冰洋考察隊開展冰站調查作業； （4）瀕危物種林麝現身重慶巫溪； 11.日本民眾舉行集會抗議高市政權擴軍修憲的危險動向； 12.以色列總理稱拒絕美支援的加沙和平計劃 美媒稱白宮“不在意”； 13.胡塞武裝稱襲擊葉門政府軍目標及沙特煉油廠； 14.國際聯播快訊： （1）美媒稱美總統傾向對伊朗施加經濟壓力； （2）俄稱控制更多區域 烏稱敖德薩遭襲斷電； （3）丹麥民眾舉行皮艇集會 支援格陵蘭島； （4）北美和歐洲多地林火持續蔓延。
+
+---
+
+### 2026-08-10 19:51:44  #MKT News #INTC.O
+
+HASSETT said President Trump will decide how long to hold Intel (INTC.O) shares.
+
+---
+
+### 2026-08-10 19:51:35  #公司
+
+備忘錄顯示，沙特阿美公司將日產能40萬桶的吉贊煉油廠的重啟時間推遲15天至8月30日。
+
+---
+
+### 2026-08-10 19:51:26  #其他
+
+伯恩斯坦將康菲石油目標股價從121美元上調至129美元。
+
+---
+
+### 2026-08-10 19:51:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+A memo showed ARAMCO pushed back the restart of the 400,000 bpd Jazan refinery by 15 days to Aug. 30.
+
+---
+
+### 2026-08-10 19:51:13  #MKT News #EBAY.O #Impact bearish #GME.N #Impact bullish
+
+Pre-market: eBay (EBAY.O) shares down 2.5%; GameStop (GME.N) up 3.7%.
+
+---
+
+### 2026-08-10 19:51:02  #國際
+
+白宮國家經濟委員會主任哈塞特：特朗普將自行決定持有英特爾股票的時長。
+
+---
+
+### 2026-08-10 19:50:38  #市場
+
+【SpaceX美股盤前漲超4%】SpaceX美股盤前漲超4%，現報138.45美元。
+
+---
+
+### 2026-08-10 19:50:35  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
+
+Hassett, director of the White House National Economic Council, said there is no need to invent a US Treasuries theory to stabilize the yen.
 
 ---
 
@@ -16465,101 +16561,5 @@ Bulgaria summoned the Ukrainian ambassador after a drone exploded on Bulgarian t
 ### 2026-08-09 00:39:59  #MKT News #Macro & Rates #US Economy #Commodities #Energy
 
 【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products.
-
----
-
-### 2026-08-09 00:35:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Lebanese sources said Lebanon insists on a full ceasefire before returning to talks in Rome and wants Bint Jbeil and Khiam included in a pilot zone.
-
----
-
-### 2026-08-09 00:35:06  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Governor Bowman to participate in a fireside chat; announcement due in 10 minutes.
-
----
-
-### 2026-08-09 00:34:55  #國際
-
-伊朗總統：當下是達成協議的最佳時機。
-
----
-
-### 2026-08-09 00:34:51  #國際
-
-伊朗總統：在這種既非戰爭也非和平的局面下，經濟狀況是我最為關切的問題。
-
----
-
-### 2026-08-09 00:34:35  #其他
-
-黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。
-
----
-
-### 2026-08-09 00:31:04  #國際
-
-伊朗總統並未否認安全委員會秘書穆罕默德-巴蓋爾·佐爾卡德爾已提出辭職的媒體報道，他表示：“我們之間確實存在一些分歧，目前正努力解決。”
-
----
-
-### 2026-08-09 00:25:36  #國際
-
-泰國國際航空：受颱風“白海豚”影響，多架航班取消。
-
----
-
-### 2026-08-09 00:24:08  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-【Trump administration freezes assets of oil magnate Harry Sargeant III, presses him to divest Venezuelan holdings】U.S. Treasury on Friday froze assets of offshore companies tied to Florida oil magnate and Republican donor Harry Sargeant III that participate in Venezuelan oil production, sources said, and issued a license allowing the liquidation of his interests in those entities. Sargeant has served as a confidential conduit between Washington and Caracas—meeting President Maduro and other senior officials—and used that role to pursue oil deals in Venezuela that most firms avoided due to political risk and sanctions; he also helped secure the 2025 release of a detained U.S. citizen.
-
----
-
-### 2026-08-09 00:15:15  #國際
-
-伊朗外長阿拉格齊：伊朗與阿曼距離霍爾木茲海峽相關協議“已非常接近”，航道重啟取決於美方遵守諒解備忘錄。
-
----
-
-### 2026-08-09 00:07:34  #MKT News #600009.SS #Impact bearish #600115.SS
-
-【Typhoon White Dolphin to cut nearly 60% of Shanghai flights on 9th】Typhoon White Dolphin, the year's 13th, will reduce operating capacity at Shanghai Pudong and Hongqiao airports on the 9th. Airlines have cut or canceled about 1,384 scheduled arrivals and departures — 871 at Pudong and 513 at Hongqiao — roughly 60% of planned flights.
-
----
-
-### 2026-08-09 00:06:34  #國際
-
-【伊朗總統：40天戰爭中鄰國阻斷武裝力量滲入伊朗】伊朗總統佩澤希基揚表示，在這場為期40天的戰爭期間，敵方曾試圖襲擊伊朗西北部與東南部邊境哨所，並派遣武裝力量滲入伊朗境內，但周邊國家採取行動阻止了這類入侵行為。佩澤希基揚週六接受記者採訪時稱：“阿富汗與巴基斯坦均部署力量管控局勢，明確表態絕不允許任何人從其領土進入伊朗，在伊朗境內製造動亂。”他同時表示，伊朗已對從鄰國境內美軍基地發起的襲擊作出回擊，德黑蘭方面不會容忍針對本國的跨境襲擊得不到回應。
-
----
-
-### 2026-08-09 00:04:19  #其他
-
-【一直升機在巴西里約墜毀 造成至少4人死亡】當地時間8月8日，一架直升機在巴西里約熱內盧市南部一片林地中墜毀，造成至少4人死亡。
-
----
-
-### 2026-08-09 00:04:08  #國際
-
-歐盟委員會內政與移民事務專員布倫納：今日已與西班牙、義大利兩國部長開展溝通，兩國均確認內部邊境管控屬於臨時措施。
-
----
-
-### 2026-08-09 00:00:37  #其他
-
-據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》上映11天， 總票房破12億。
-
----
-
-### 2026-08-08 23:57:08  #國際
-
-特朗普：距離2026年美國中期選舉日還有87天。參議員們沒有假期。透過《拯救法案》（SAVE Act）。沒有藉口。
-
----
-
-### 2026-08-08 23:53:10  #國際
-
-美國五角大樓：美方正在制定一項計劃，保障船舶可安全通行霍爾木茲海峽，方案包含要求伊朗承諾不開火。
 
 ---
