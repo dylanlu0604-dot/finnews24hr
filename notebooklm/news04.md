@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:54:06_
-_本檔包含 3221 則快訊，約 605132 字_
+_更新時間：2026-08-15 23:32:24_
+_本檔包含 3212 則快訊，約 605207 字_
+
+---
+
+### 2026-08-11 23:29:37  #國際
+
+【伊朗稱：條件未滿足，霍爾木茲海峽將持續封鎖】一名伊朗官員警告，在伊朗的條件得到滿足之前，霍爾木茲海峽將保持關閉。該官員表示，任何新一輪襲擊或是背棄承諾的行為，都將招致伊朗更為強硬的回擊與抵抗。這名官員補充道，對“侵略者的懲戒”將會持續，並告誡對手切勿重蹈覆轍。
+
+---
+
+### 2026-08-11 23:29:28  #Trading Economics #Economy #Kenya #Interest Rate #Importance 1
+
+Kenya Leaves Interest Rate Unchanged for 3rd Meeting — The Central Bank of Kenya left its benchmark interest rate at 8.75% on August 11th, 2026, a third straight hold, as policymakers stated that the current stance of monetary policy remained appropriate to ensure price and exchange rate stability. Headline inflation rose to 6.5%, driven by higher fuel costs that pushed up transportation and food prices, but remained within the bank’s 5% ±2.5% target range. Meanwhile, economic growth accelerated to 5.3% in the first quarter of 2026, from 4% in the previous quarter. Looking ahead, inflation is expected to remain within the target range in the near term, assuming a de-escalation of the Middle East conflict. However, risks remain elevated as the stop-start US-Iran conflict continues to disrupt global energy and fertilizer markets.
+
+---
+
+### 2026-08-11 23:25:22  #公司
+
+【英特爾股票發行交易約三分之一認購者未獲配股份】知情人士稱，在英特爾200億美元的股票發行中，約三分之一提交認購訂單的投資者最終未獲配股份。英特爾此次發行最終獲得數倍超額認購，並得到只做多投資者和主權財富基金的支援。此次發行中，前十大投資者獲配了55%的股份，前25大投資者合計獲配80%。
+
+---
+
+### 2026-08-11 23:23:44  #公司 #市場
+
+【芝商所將在紐約商品交易所上市H100和B200租賃指數期貨】芝加哥商品交易所集團（CME GROUP）和矽谷資料公司（SILICON DATA）將於10月5日推出算力期貨。新合同將在芝加哥商品交易所上市，並受紐約商品交易所規則的約束，等待監管部門的批准。芝商所將在紐約商品交易所上市H100和B200租賃指數期貨，這兩份合約將跟蹤衡量每小時GPU租賃成本的指數。
 
 ---
 
@@ -19335,83 +19359,5 @@ EBAY股價盤前下跌2.5%，GAMESTOP股價盤前上漲3.7%。
 ### 2026-08-10 19:48:44  #其他
 
 【內蒙古啟動防汛四級、暴雨氣象災害Ⅳ級應急響應】2026年8月10日12時，內蒙古自治區防汛抗旱指揮部與人工影響天氣與氣象災害防禦管理指揮部辦公室聯合啟動防汛四級應急響應和暴雨氣象災害Ⅳ級應急響應，統籌部署本輪區域性強降水防範應對工作。據氣象部門預測，8月10日起，內蒙古自西向東有一次區域性強降水過程。阿拉善盟東北部、巴彥淖爾市大部、鄂爾多斯市北部至赤峰市北部和中部、通遼市西北部、興安盟東部有大雨，巴彥淖爾市南部、鄂爾多斯市東北部、包頭市中部和南部、呼和浩特市西北部、烏蘭察布市中部、錫林郭勒盟中部和東南部、赤峰市中部有暴雨，局地有大暴雨，過程最大累計降水量可達50~120毫米，局地可達150毫米以上。（央視新聞）
-
----
-
-### 2026-08-10 19:48:44  #MKT News #INTC.O
-
-Intel (INTC.O): proceeds intended for general corporate purposes, including capital expenditures and working capital.
-
----
-
-### 2026-08-10 19:48:26  #MKT News #Macro & Rates #The Fed (FOMC)
-
-US White House National Economic Council director HASSETT said he hopes Fed governor COOK is indeed innocent.
-
----
-
-### 2026-08-10 19:48:16  #MKT News #Macro & Rates #The Fed (FOMC)
-
-White House National Economic Council Director Hassett said he will not replace Lisa Cook as a Fed governor.
-
----
-
-### 2026-08-10 19:47:57  #MKT News
-
-White House National Economic Council Director Hassett said actions on the yen fall within Treasury Secretary Bessent's remit and he offered no comment.
-
----
-
-### 2026-08-10 19:47:35  #其他
-
-據訊息稱，遊戲驛站的科恩正考慮撤回 560 億美元收購 eBay 的要約。
-
----
-
-### 2026-08-10 19:47:06  #其他
-
-白宮國家經濟委員會主任哈塞特：日元相關舉措屬於貝森特的權責範疇，不予置評。
-
----
-
-### 2026-08-10 19:46:54  #其他
-
-【索馬利亞議會選出下院議長】當地時間8月10日，索馬利亞議會人民院（下院）投票選舉阿卜杜勒卡迪爾·穆罕默德·努爾為新議長。據悉，阿卜杜勒卡迪爾·穆罕默德·努爾獲得142票，另一名候選人獲得30張票。現有資料顯示，阿卜杜勒卡迪爾·穆罕默德·努爾曾在索馬利亞政府中擔任過國防部長、司法部長等多個重要職務。索馬利亞議會實行兩院制，分別為人民院和上院，互不隸屬。（央視新聞）
-
----
-
-### 2026-08-10 19:46:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-White House National Economic Council director Hassett said Fed Chair Kevin Warsh is famously independent.
-
----
-
-### 2026-08-10 19:46:32  #其他
-
-白宮國家經濟委員會主任哈塞特：凱文・沃什是極具獨立性的人物。
-
----
-
-### 2026-08-10 19:46:17  #MKT News #Macro & Rates #The Fed (FOMC)
-
-HASSETT said the case involving Fed governor Cook is a legal matter and he has nothing to add.
-
----
-
-### 2026-08-10 19:46:08  #公司 #焦點
-
-【英特爾將發行150億美元普通股】英特爾8月10日宣佈將發行150億美元普通股，計劃將此次發行所得淨款項用於一般公司用途，其中包括但不限於資本支出和營運資金，旨在進一步支援公司把握未來的增長機遇。宣告稱，受AI計算領域前所未有的投資推動，客戶持續釋放出強勁且可持續的需求訊號，物理AI、專用晶片、先進封裝及外部晶圓代工等新興領域的進展，為英特爾帶來巨大增長機遇。
-
----
-
-### 2026-08-10 19:45:55  #其他
-
-白宮國家經濟委員會主任哈塞特：莉薩・庫克屬於法律層面問題，我對此沒有更多補充。
-
----
-
-### 2026-08-10 19:45:06  #其他
-
-白宮國家經濟委員會主任哈塞特：希望莉薩・庫克確實是清白的。
 
 ---

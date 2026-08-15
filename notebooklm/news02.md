@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:54:06_
-_本檔包含 3104 則快訊，約 604590 字_
+_更新時間：2026-08-15 23:32:24_
+_本檔包含 3100 則快訊，約 604692 字_
+
+---
+
+### 2026-08-14 08:21:15  #其他
+
+英國石油加入大型石油企業重返委內瑞拉的行列。英國石油已獲得加拉加斯方面頒發的許可，將勘探開發委內瑞拉近海一處氣田，這是該大型石油企業重返當地的最新訊號。
+
+---
+
+### 2026-08-14 08:20:33  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies After Sharp Drop — Gold steadied around $4,350 an ounce on Friday after falling sharply in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures.
 
 ---
 
@@ -18681,41 +18693,5 @@ UK Housing Market Remains Subdued — The RICS UK Residential Market Survey show
 6、DeepSeek V4 Pro正式版API更新，多項測試效能接近Fable 5。
 7、SpaceXAI推出Grok 4.6，跑分與GPT-5.6 Sol Max持平。
 8、美國總統特朗普在社交平臺“真實社交”發文稱，白宮新聞秘書卡羅琳·萊維特將於本月底離任，以便花更多時間陪伴孩子和家人。
-
----
-
-### 2026-08-13 07:03:19  #公司
-
-【分紅、回購、增持常態化推進 A股公司以實際行動穩市場強信心】時值A股上市公司半年報披露視窗期，上市公司公告中期利潤分配方案的案例漸次增多；同時，從回購、增持動作密集的情況看，上市公司回饋投資者意識顯著增強。分析人士認為，中期分紅落地數量擴容、登出式回購規模擴大、大手筆增持傳遞發展信心，疊加相關配套政策工具落地，上市公司正以實際行動提振市場信心。隨著分紅回購增持制度化、常態化深入推進，資本市場內生穩定機制有望進一步築牢，助力A股長期健康發展。（中國證券報）
-
----
-
-### 2026-08-13 07:03:07  #其他
-
-【中央氣象臺釋出暴雨黃色預警】中央氣象臺8月13日06時釋出暴雨黃色預警：預計，8月13日08時至14日08時，河南南部、湖北北部和東部、安徽西北部和中南部、江蘇中南部、浙江北部以及江西北部和南部、廣東中西部、貴州東部等地部分地區有大到暴雨，其中，湖北東部、安徽南部、江蘇南部、浙江北部、廣東中部等地局地有大暴雨(100-180毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過70毫米），局地有雷暴大風等強對流天氣。
-
----
-
-### 2026-08-13 07:03:02  #其他
-
-【哥倫比亞地震265人遇難3494人傷】當地時間8月12日下午，哥倫比亞總統德拉埃斯普列亞宣佈該國進入“經濟緊急狀態”，以應對地震危機。德拉埃斯普列亞表示，這一緊急狀態旨在加快對災民的救助，為重建調撥資源，幷包含振興經濟措施。德拉埃斯普列亞還證實，8月10日的這場強震造成的遇難人數已升至265人，此外還有3494人受傷、496人失蹤。
-
----
-
-### 2026-08-13 07:02:44  #其他
-
-巴西參議院透過法案，設立新的支出控制機制；法案文字將提交總統批准。
-
----
-
-### 2026-08-13 07:01:42  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-REUTERS SURVEY shows 75% of Japanese firms prioritize domestic over overseas investment.
-
----
-
-### 2026-08-13 07:01:11  #MKT News
-
-A Reuters survey shows over 80% of Japanese firms only partially use, or do not use, artificial intelligence (AI).
 
 ---

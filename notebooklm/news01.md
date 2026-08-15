@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 22:54:06_
-_本檔包含 3081 則快訊，約 605823 字_
+_更新時間：2026-08-15 23:32:24_
+_本檔包含 3089 則快訊，約 605582 字_
+
+---
+
+### 2026-08-15 23:17:52  #其他
+
+【電影《歡迎來龍餐館》上映5天觀影人次破2000萬】據貓眼專業版資料，電影《歡迎來龍餐館》上映5天，觀影人次破2000萬。
+
+---
+
+### 2026-08-15 23:11:54  #其他
+
+葉門摩卡港口負責人：葉門摩卡港在胡塞武裝襲擊後停止運營。
+
+---
+
+### 2026-08-15 23:11:25  #國際
+
+以色列總理辦公室：軍方事後才得知，真主黨刻意將平民安置在該軍事設施內。
+
+---
+
+### 2026-08-15 23:11:09  #國際
+
+以色列總理辦公室：軍方針對真主黨的襲擊展開反擊，轟炸了下達襲擊指令的指揮部。
+
+---
+
+### 2026-08-15 23:11:00  #國際
+
+以色列總理辦公室：真主黨今日早晨破壞黎巴嫩停火協議，在保護定居點的安全區內襲擊我方士兵。
+
+---
+
+### 2026-08-15 23:08:54  #其他
+
+【哥倫比亞強震已致294人遇難】據哥倫比亞國家災害風險管理局截至當地時間8月15日6時30分發布的最新統計，哥倫比亞地震已造成294人死亡、3935人受傷、320人失蹤，另有353人獲救。據中國地震臺網正式測定，北京時間10日晚上（哥倫比亞當地時間10日上午），哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。
+
+---
+
+### 2026-08-15 23:04:59  #其他
+
+【中歐北極快航正式常態化運營】8月15日19時許，海傑航運“迪拜塔”號緩緩駛離寧波舟山港穿山港區集裝箱碼頭，標誌著寧波舟山港中歐北極集裝箱航線（簡稱中歐北極快航）正式邁入夏季通航季周班運營新階段，此航線常態化運營為中歐貿易開闢了一條快捷高效、綠色低碳、韌性強勁的北向物流大通道。（新華社）
+
+---
+
+### 2026-08-15 23:04:27  #其他
+
+秘魯政府：秘魯6月國內生產總值同比增長1.75%。
+
+---
+
+### 2026-08-15 23:02:17  #國際
+
+【以色列空襲黎巴嫩 造成11人死亡】據黎巴嫩公共衛生部緊急行動中心當地時間15日下午釋出的宣告，當天以色列對納巴提耶區代爾扎赫拉尼和安薩爾鎮的空襲共造成11人死亡，另有19人受傷。
+
+---
+
+### 2026-08-15 23:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel Defense Forces said it killed a commander in Hezbollah's Radwan unit.
 
 ---
 
@@ -18564,17 +18624,5 @@ Silver Steadies After Pulling Back — Silver steadied around $64.5 an ounce on 
 ### 2026-08-14 08:22:06  #MKT News #Market Regions #Greater China #DXY #Impact bullish #CNH #Impact bearish #S&P500
 
 【Economic Daily: Targeted countermeasures help maintain normal competitive order】MOFCOM and other agencies announced retaliatory measures against recent US actions by the Federal Communications Commission and Department of Homeland Security, including tightened export controls on drone-related dual-use items bound for the US and placing six US entities, including Applied DNA Sciences, on a countermeasure list. Beijing said the package is legally grounded and intended to defend national interests; China reaffirmed commitment to stable US-China ties but warned that if the US implements further restrictive measures, it will impose additional countermeasures.
-
----
-
-### 2026-08-14 08:21:15  #其他
-
-英國石油加入大型石油企業重返委內瑞拉的行列。英國石油已獲得加拉加斯方面頒發的許可，將勘探開發委內瑞拉近海一處氣田，這是該大型石油企業重返當地的最新訊號。
-
----
-
-### 2026-08-14 08:20:33  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steadies After Sharp Drop — Gold steadied around $4,350 an ounce on Friday after falling sharply in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures.
 
 ---
