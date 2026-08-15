@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-16 04:58:26",
-  "count": 15255,
+  "updated": "2026-08-16 05:02:15",
+  "count": 15257,
   "items": [
+    {
+      "id": "mkt:01a0073a-2114-7aab-904b-247e4019cfb0",
+      "time": "2026-08-16 05:00:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Head of Iran's Energy Optimization Organization outlined three gasoline allocation options: 1) keep pump prices unchanged but cap total allocation at 121 mln litres; once the cap is reached pumps will close; 2) allocate daily production of 121 mln litres to vehicles, with any demand above quotas charged at free-market prices; 3) issue 30 litres per person per month quotas to the public, with quotas transferable and tradable."
+    },
+    {
+      "id": "5042432",
+      "time": "2026-08-16 04:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國印第安納州遭遇惡劣天氣 至少5人死亡】美國印第安納州當局表示，本週席捲全州的強風暴和洪水已導致至少5人死亡。過去一週，該州連降暴雨，導致多條河流的水位創下歷史新高，迫使居民紛紛向高處轉移。目前已有十多個縣宣佈進入地方災害狀態，最新的災情主要集中在從漢密爾頓縣延伸至印第安納波利斯北部郊區的河道沿線。"
+    },
+    {
+      "id": "mkt:01a00738-b4f0-7aab-904b-19e81e31dfc1",
+      "time": "2026-08-16 04:59:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Iran's Energy Optimization Organization said Iran, as part of three gasoline-supply management plans under review, is considering a proposal to allocate 30 liters of gasoline per person per month, with the quota transferable and tradable."
+    },
     {
       "id": "5042431",
       "time": "2026-08-16 04:56:12",
@@ -139638,14 +139664,6 @@
         "其他"
       ],
       "text": "葉門政府武裝稱胡塞武裝再度發起對馬裡卜的攻勢。"
-    },
-    {
-      "id": "mkt:019fe32d-c3fe-7aab-8fc6-ad48b7202940",
-      "time": "2026-08-09 05:00:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukrainian drone breaches Bulgarian airspace, explodes near cross‑Balkan gas compressor station】A Ukrainian drone entered Bulgarian airspace from Romania on Saturday and exploded on Bulgarian territory, Bulgarian officials said. The device detonated about 1,000 metres from a compressor station on the cross‑Balkan gas pipeline, directly threatening critical energy infrastructure. Bulgaria’s defence ministry said wreckage points to a weapon type widely used by the Ukrainian military. Prime Minister Rumen Radev said the explosive payload was substantial. Bulgaria summoned the Ukrainian ambassador and has scheduled a meeting for Monday; officials said the incident so far appears not to have been deliberate."
     }
   ]
 }
