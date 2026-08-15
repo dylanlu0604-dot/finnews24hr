@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:54:40_
-_本檔包含 2755 則快訊，約 603704 字_
+_更新時間：2026-08-16 05:29:10_
+_本檔包含 2771 則快訊，約 603521 字_
+
+---
+
+### 2026-08-10 20:37:15  #公司 #市場
+
+道富集團洪亦心：黃金、大宗商品、私募市場為投資組合提供支撐。
+
+---
+
+### 2026-08-10 20:37:00  #公司
+
+道富集團洪亦心：全年資金持續流入貨幣市場基金。
+
+---
+
+### 2026-08-10 20:36:30  #市場
+
+【SABESP美股盤前漲超12%】SABESP美股盤前漲超12%，現報6.0美元。
+
+---
+
+### 2026-08-10 20:34:30  #公司
+
+【綠控傳動：首次公開發行股票網上申購，中籤率為 0.0151775616%】綠控傳動公告稱，本次發行股份數量為 6834.1235 萬股，發行價 8.5 元/股。最終戰略配售數量 2050.2370 萬股，約佔 30%。網上初始發行 956.7500 萬股，因網上初步有效申購倍數高於 100 倍，啟動回撥機制，網下向網上回撥 956.8000 萬股。回撥後，網下最終發行 2870.3365 萬股，佔 60%；網上最終發行 1913.5500 萬股，佔 40%，網上發行中籤率為 0.0151775616%。發行人與保薦人將於 8 月 11 日搖號抽籤，8 月 12 日公佈中籤結果。
+
+---
+
+### 2026-08-10 20:33:45  #公司
+
+【光線傳媒：原持股5%以上股東上海漢濤減持計劃屆滿，合計減持5191.31萬股】光線傳媒公告，公司原持股5%以上股東上海漢濤資訊諮詢有限公司此前披露的減持計劃期限已屆滿，其於2026年5月11日至2026年8月10日期間，透過集中競價交易減持2887.88萬股（佔比0.984420%），透過大宗交易減持2303.43萬股（佔比0.785191%），合計減持5191.31萬股，佔總股本比例1.769611%。本次減持後，上海漢濤合計持有公司股份1.24億股，佔總股本比例4.230430%。
+
+---
+
+### 2026-08-10 20:33:36  #公司
+
+【貝特利：獲中國證監會同意首次公開發行股票註冊批覆】貝特利公告，中國證監會同意蘇州市貝特利高分子材料股份有限公司首次公開發行股票並在創業板上市的註冊申請，批覆自同意註冊之日起12個月內有效。公司本次發行股票應嚴格按照報送深圳證券交易所的招股說明書和發行承銷方案實施。
+
+---
+
+### 2026-08-10 20:32:48  #國際
+
+美國地質調查局：北大西洋中脊發生 5.0 級地震。
+
+---
+
+### 2026-08-10 20:32:32  #MKT News
+
+Nolan-directed Odyssey became the highest-grossing film at the IMAX box office.
+
+---
+
+### 2026-08-10 20:32:26  #其他
+
+紐約聯邦儲備銀行隔夜回購操作未收到投標。
+
+---
+
+### 2026-08-10 20:32:04  #其他
+
+諾蘭的《奧德賽》成為 IMAX 史上票房最高上映影片。
+
+---
+
+### 2026-08-10 20:31:59  #其他
+
+【浙江杭州釋出暴雨橙色預警】杭州市氣象臺2026年08月10日19時26分發布主城區暴雨橙色預警訊號：受颱風“白海豚”殘餘環流影響，預計今天夜裡上城區、拱墅區、西湖區和濱江區所有街道有大雨到暴雨，請注意防範強降水可能引發的城市積澇、小流域山洪等次生災害和對交通出行等的不利影響。
+
+---
+
+### 2026-08-10 20:31:10  #其他
+
+市場訊息：格芯選用 Redpanda 作為實時資料平臺。
+
+---
+
+### 2026-08-10 20:30:40  #其他
+
+穆迪評級確認 T-Mobile 的優先無擔保債券評級為 Baa1。
+
+---
+
+### 2026-08-10 20:30:25  #國際
+
+8 月 10 日全球基金淨買入印度股票 197 億盧比。
+
+---
+
+### 2026-08-10 20:29:30  #市場
+
+【SpaceX有望連續第三日上漲 股價重返IPO發行價上方】SpaceX股價週一盤前一度上漲4.9%，有望連續第三個交易日走高，並重新站上135美元的IPO發行價。截至紐約時間上午8:05，SpaceX股價一度升至139.60美元。SpaceX自7月16日收盤跌破IPO發行價以來，股價一直低於135美元。此前兩個交易日，SpaceX累計上漲23%，市值合計增加逾3,270億美元。隨著首批限售期於上週屆滿，共有9.115億股股票解除限售、進入市場流通。資料顯示，SpaceX目前獲得31個買入評級、6個持有評級和2個賣出評級，分析師平均目標價為221美元。
+
+---
+
+### 2026-08-10 20:28:26  #公司 #國際
+
+A95諮詢公司稱，烏克蘭7月份汽油進口量增長34%。
+
+---
+
+### 2026-08-10 20:28:09  #其他
+
+福特汽車信貸擬開展三檔規模基準債券發債。
+
+---
+
+### 2026-08-10 20:27:50  #MKT News #Commodities #Energy
+
+A95 Consulting said Ukraine's gasoline imports rose 34% in July.
+
+---
+
+### 2026-08-10 20:27:37  #公司
+
+巴西航空工業公司高管表示：我們商業航空業務的盈利能力將在下半年繼續改善，兩年後將迎來尤為明顯的提升。
+
+---
+
+### 2026-08-10 20:27:11  #MKT News
+
+Iran President PEZESHKIAN said he held a 7-8 hour meeting with Supreme Leader Mojtaba Khamenei. He described the session as "highly productive" and said they discussed state affairs. Iranian authorities have not released photos or video of the meeting.
+
+---
+
+### 2026-08-10 20:26:48  #公司
+
+【華人健康：擬定增募資不超過7.09億元用於智慧製造與分揀中心等專案】華人健康公告，公司擬向不超過35名特定物件發行A股股票，募集資金總額不超過7.09億元（含本數），發行股票數量不超過5000萬股（含本數）。募集資金扣除發行費用後擬用於智慧製造與分揀中心專案（擬投入40,866.91萬元）、醫藥研發專案（擬投入10,789.11萬元）、資訊化建設專案（擬投入4,251.41萬元）及補充流動資金（15,000.00萬元）。本次發行尚需經公司股東會審議透過、深交所稽核透過及中國證監會同意註冊。
+
+---
+
+### 2026-08-10 20:26:39  #其他
+
+【第十六屆中國國際數字出版博覽會將於8月27日啟幕】記者8月10日從第十六屆中國國際數字出版博覽會組委會獲悉，以“數創未來 智啟新程”為主題，本屆數博會將於8月27日至29日在山東濟南舉行。據介紹，本屆數博會預計參展單位逾500家，全國20個省區市組團參展，30餘個國家和地區的海外展商參展。展會設定7大特色展區，首次設立中華優秀傳統文化與網路遊戲展區，旨在展現、交流優秀傳統文化賦能網路遊戲精品化發展路徑；設定1場主論壇、6場專題論壇及80餘場配套活動，與會嘉賓將就數字出版、人機協同、學科交叉建設、全球學術傳播等議題研討，探索可操作、可落地的路徑和經驗。中國新聞出版研究院將會同相關機構釋出多份報告，併發布人工智慧應用相關行業標準制定階段性成果。本屆數博會由中國新聞出版研究院、中國出版協會聯合主辦。中國國際數字出版博覽會是我國以促進數字出版產業發展為主題舉辦的全國性、國際化博覽會，於2005年首次舉辦。（新華社）
 
 ---
 
@@ -16605,41 +16737,5 @@ The Times reports the UK defence secretary said allies must step up support to h
 ### 2026-08-09 05:30:17  #其他
 
 【土外長稱沙土巴三國共同防務協議有望擴員】土耳其外長費丹8日表示，新近達成的沙烏地阿拉伯、土耳其和巴基斯坦三國共同防務協議旨在增強區域自主權，應當繼續發展壯大，有更多國家表達加入意願。（新華社）
-
----
-
-### 2026-08-09 05:27:42  #MKT News #Commodities #Energy
-
-【NV Energy sues data center developer, warns power-costs could be passed to consumers】On the 7th NV Energy, Nevada's largest supplier, sued a developer building two data centers in the state, alleging the facilities would consume nearly one-third of the utility's generation and shift power costs to consumers. NV Energy, which supplies about 90% of Nevada customers, is seeking the developer to fund roughly $1 bln in grid upgrades and warned that if the developer does not bear more infrastructure costs the utility may raise rates, passing the burden to households and businesses. The developer countered that NV Energy has failed to deliver promised power service while still demanding the $1 bln upgrade contribution.
-
----
-
-### 2026-08-09 05:26:54  #公司 #國際
-
-【美國能源公司起訴資料中心開發商：將電費成本轉嫁民眾】據美國方面7日訊息，美國內華達州最大能源供應商內華達能源公司已經正式起訴正在該州建造資料中心的一家開發商，指控其試圖將電費成本轉嫁給消費者。據稱，內華達能源公司為內華達州90%的使用者供電，而在建的兩家資料中心建成後將消耗的電力，幾乎佔內華達能源公司總發電量的三分之一。內華達能源公司要求資料中心開發商必須啟動價值10億美元的電網升級工程。該公司警告稱，如果資料中心開發商不承擔更多的基建開支，公司或將上調電價，負擔將轉嫁到內華達州的普通家庭和企業身上。對此，資料中心的開發商則表示，內華達能源公司拒絕兌現對其承諾的供電服務，卻依舊要求他們投入10億美元開展電網升級工程。
-
----
-
-### 2026-08-09 05:13:41  #MKT News
-
-【U.S. media: Iran war depletes defense stockpiles; Pentagon urges faster weapons production】A Washington Post-obtained Pentagon memo shows the Pentagon has ordered U.S. defense firms to rapidly raise weapons production and deliveries, citing acute ammunition shortages tied to the war with Iran. The previously unreported memo says Deputy Defense Secretary Steve Fanberg told industry leaders to submit plans within 21 days to “significantly accelerate, adopt more aggressive delivery schedules and/or increase output of critical capabilities.” He added that multi-year R&D timelines “are unacceptable. We must substantially speed program timelines and immediately expand capacity.” The directive comes as weapon shortfalls have become a point of tension between Trump and the Defense Department.
-
----
-
-### 2026-08-09 05:03:30  #其他
-
-葉門政府武裝稱胡塞武裝再度發起對馬裡卜的攻勢。
-
----
-
-### 2026-08-09 05:00:55  #MKT News
-
-【Ukrainian drone breaches Bulgarian airspace, explodes near cross‑Balkan gas compressor station】A Ukrainian drone entered Bulgarian airspace from Romania on Saturday and exploded on Bulgarian territory, Bulgarian officials said. The device detonated about 1,000 metres from a compressor station on the cross‑Balkan gas pipeline, directly threatening critical energy infrastructure. Bulgaria’s defence ministry said wreckage points to a weapon type widely used by the Ukrainian military. Prime Minister Rumen Radev said the explosive payload was substantial. Bulgaria summoned the Ukrainian ambassador and has scheduled a meeting for Monday; officials said the incident so far appears not to have been deliberate.
-
----
-
-### 2026-08-09 04:55:33  #MKT News
-
-Musk said integrating Starlink connectivity on long-haul flights will be a major productivity-enhancing change.
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:54:40_
-_本檔包含 3076 則快訊，約 603190 字_
+_更新時間：2026-08-16 05:29:10_
+_本檔包含 3067 則快訊，約 603432 字_
+
+---
+
+### 2026-08-13 07:44:13  #市場
+
+日經指數期貨在新加坡交易所開盤上漲865點，報68535點。
+
+---
+
+### 2026-08-13 07:43:53  #國際
+
+美國國家颶風中心稱，位於小安的列斯群島與非洲西海岸之間的風暴在接下來48小時內發展為氣旋的機率為80%。
+
+---
+
+### 2026-08-13 07:43:44  #MKT News
+
+【Australia pledges AU$2.5bn to keep Rio Tinto's Tomago aluminium smelter operating】Australia will provide AU$2.5bn (about US$1.76bn) to keep Rio Tinto's Tomago aluminium smelter running after 2028 and to secure cheaper, more reliable power. The package, funded by the federal government and New South Wales, includes provision for an additional 3 GW of generation capacity. Rio Tinto warned in October the smelter could close if it could not obtain commercially viable power post-2028. Under the agreement Tomago will invest at least AU$1.1bn, including AU$100m for further decarbonisation.
+
+---
+
+### 2026-08-13 07:41:38  #公司
+
+【靳磊到招商局集團和華潤集團走訪調研】據深圳特區報，8月12日，深圳市委書記靳磊到招商局集團有限公司、華潤（集團）有限公司走訪調研，分別與招商局集團董事長繆建民、總經理石岱，華潤集團董事長王海民、總經理王崔軍舉行會談，就進一步密切合作進行深入交流。靳磊表示，今年以來，深圳經濟執行保持穩中有進、動能向新、結構向優的良好態勢。面向未來，深圳與招商局集團、華潤集團的發展願景有許多契合點，期待進一步加強全方位對接，持續深化科技創新、產業發展、城市更新、金融服務等各領域合作，全面拓展合作空間、提升合作能級，推動實現更高水平互利共贏發展。深圳將持續營造一流產業生態，圍繞企業所需所盼提供更加優質的服務保障。
+
+---
+
+### 2026-08-13 07:41:34  #公司
+
+【年內A股國有控股上市公司已披露超千起併購計劃】據同花順iFinD資料統計發現，以首次公告日作為統計依據，截至8月12日，月內A股國有控股上市公司（包括央企國資控股、省屬國資控股、地市國資控股及其他國有企業）已披露54起併購交易計劃。拉長時間線來看，今年以來截至8月12日，剔除交易失敗案例，A股國有控股上市公司共披露1008起併購交易計劃，其中256起已完成。陽光時代律師事務所合夥人、國企混改中心負責人朱昌明表示，從資料上看，國有企業併購重組已進入加速落地期，這不是簡單的數量擴張，而是新一輪國有經濟佈局最佳化的集中體現。朱昌明認為，下一步，地方國企重組整合的重心不是在盤活存量資源與發展新質生產力之間“二選一”，而是要以盤活存量資源為轉型升級提供“彈藥”，以新興產業佈局為國有資本開闢“新戰場”，推動兩者在“三個集中”框架下相互賦能、一體推進。（證券日報）
+
+---
+
+### 2026-08-13 07:40:31  #市場 #觀點
+
+【年內商業銀行“二永債”發行規模同比大增】近期，多家商業銀行在銀行間市場密集發行二級資本債券、無固定期限資本債券（下稱“二永債”）。Wind資料顯示，截至8月12日，年內商業銀行合計發行“二永債”62只，發行總規模達12817.28億元，較去年同期的10479.6億元，增長22.31%。 受訪專家表示，今年商業銀行“二永債”發行規模同比大增，市場主體分化加劇。隨著供給從二季度高點逐步回落，下半年發行總量邊際下行，三季度維持一定體量、四季度穩步收斂，行業正式進入結構性分化新階段。中信證券首席經濟學家明明表示，預計全年“二永債”發行總量在1.5萬億元至2萬億元之間。下半年供給較二季度高峰邊際回落，其中三季度仍保持一定規模，四季度逐步收斂。（證券日報）
+
+---
+
+### 2026-08-13 07:39:30  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bearish #WTI #Impact bullish #US10Y #Impact mixed
+
+【China International Capital Co: US inflation may have entered new phase; duration could lengthen】China International Capital Co says July US CPI (seasonally adjusted) rose 0.1% MoM, 3.4% YoY; core CPI rose 0.2% MoM, 2.5% YoY — broadly in line with expectations. Energy prices continued to fall in July, but international oil has rebounded since August, raising near-term energy-price uncertainty. Core inflation shows goods price strength and services softness; prices for IT products such as computers and software are climbing, which the report links to AI capex-driven demand and a supply–demand mismatch transmitting to consumers. CICC warns US inflation may be shifting from supply shocks (tariffs, oil) toward demand expansion tied to AI investment, which could extend the persistence of inflation. For the Fed, the print eases immediate rate-hike pressure but underscores that demand-driven inflation requires closer policy attention than supply-driven episodes.
 
 ---
 
@@ -18509,101 +18551,5 @@ Cochilco forecasts Chile's 2026 copper production at 5.27 million tonnes, down 2
 ### 2026-08-12 00:16:32  #央行 #國際
 
 美聯儲古爾斯比：只要消費者保持穩健，經濟就會維持向好。
-
----
-
-### 2026-08-12 00:16:13  #MKT News #Commodities #Energy
-
-The EIA lowered its forecast for Texas electricity demand after the Texas governor announced a pause on new data center development.
-
----
-
-### 2026-08-12 00:15:21  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Chilean Copper Commission Cochilco expects global copper production to reach 24.5 mln tonnes in 2027.
-
----
-
-### 2026-08-12 00:15:04  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Chile's copper commission Cochilco forecasts global copper output of 23.5 mln tonnes in 2026, up 0.2% from 2025.
-
----
-
-### 2026-08-12 00:14:03  #其他
-
-智利銅委員會預計，2026年全球銅礦產量將達到2350萬噸，較2025年增長0.2%。
-
----
-
-### 2026-08-12 00:13:22  #其他
-
-智利國家銅業委員會宣告，維持2027年銅均價預期為每磅5.10美元。
-
----
-
-### 2026-08-12 00:13:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish
-
-Federal Reserve Governor Goolsbee said labor-market indicators show stability but are not strong.
-
----
-
-### 2026-08-12 00:12:54  #其他
-
-智利國家銅業委員會宣告，將2026年銅均價預期上調至每磅5.95美元。
-
----
-
-### 2026-08-12 00:12:37  #MKT News #Commodities #Industrial Metals #Copper
-
-Chile's Copper Commission (Cochilco) maintained its 2027 average copper price forecast at $5.10/lb.
-
----
-
-### 2026-08-12 00:12:21  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,706 on Tuesday, as gains in energy and defense stocks offset losses in autos and utilities. Eni advanced 2% amid uncertainty surrounding conflicting statements over a potential Middle East peace agreement, while Saipem added 0.4%. Defense stocks also outperformed, led by Leonardo, which gained 0.7% after RBC analysts rated the stock “outperform”. Fincantieri rose 0.2%. Financials were mixed despite Morningstar DBRS reporting another solid set of first-half results from Italy’s largest banks. UniCredit (0.3%), BPER Banca (0.2%) and BMPS (0.2%) all advanced, while Banco BPM fell 0.9% and Intesa Sanpaolo lost 0.3%. On the downside, Stellantis fell 2.6% as intensifying competition from Chinese automakers weighed on sentiment, while the company’s backing of Leapmotor underscored the growing competitive pressure in overseas markets. Utilities extended losses from the previous session, led by Enel, which fell 0.9%.
-
----
-
-### 2026-08-12 00:12:19  #央行 #國際
-
-美聯儲古爾斯比：勞動力市場趨於穩定，但並不算景氣。
-
----
-
-### 2026-08-12 00:12:14  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Chile's Cochilco raised its 2026 average copper price forecast to $5.95 per lb.
-
----
-
-### 2026-08-12 00:12:09  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.08% Higher — The FTSE MIB Index gained 42 points or 0.08 percent on Tuesday to close at 53706 points. Gains were led by Eni (2.01%), Prysmian (1.77%) and Azimut Holding (1.60%). Biggest losers were Stellantis N.V. (-2.13%), Enel (-0.91%) and Banco BPM SPA (-0.88%).
-
----
-
-### 2026-08-12 00:11:39  #MKT News
-
-U.S. President Trump said Robert is imprisoned in Russia and will arrive in Washington, D.C., tonight.
-
----
-
-### 2026-08-12 00:11:33  #國際
-
-特朗普：美國公民羅伯特·吉爾曼，前美國海軍陸戰隊員，即將回國。羅伯特曾被關押在俄羅斯。在我與普京總統會談後，俄羅斯已同意釋放他。我們對這一決定表示讚賞，也對俄羅斯未要求任何回報這點予以肯定。
-
----
-
-### 2026-08-12 00:11:17  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said he welcomed the decision and that Russia did not request anything in return.
-
----
-
-### 2026-08-12 00:11:17  #MKT News #Market Themes #The Trump Trade
-
-TRUMP said after his discussion with Putin, Russia agreed to release him.
 
 ---

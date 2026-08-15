@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:54:40_
-_本檔包含 3195 則快訊，約 603784 字_
+_更新時間：2026-08-16 05:29:10_
+_本檔包含 3189 則快訊，約 603698 字_
+
+---
+
+### 2026-08-12 00:16:13  #MKT News #Commodities #Energy
+
+The EIA lowered its forecast for Texas electricity demand after the Texas governor announced a pause on new data center development.
+
+---
+
+### 2026-08-12 00:15:21  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Chilean Copper Commission Cochilco expects global copper production to reach 24.5 mln tonnes in 2027.
+
+---
+
+### 2026-08-12 00:15:04  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Chile's copper commission Cochilco forecasts global copper output of 23.5 mln tonnes in 2026, up 0.2% from 2025.
+
+---
+
+### 2026-08-12 00:14:03  #其他
+
+智利銅委員會預計，2026年全球銅礦產量將達到2350萬噸，較2025年增長0.2%。
+
+---
+
+### 2026-08-12 00:13:22  #其他
+
+智利國家銅業委員會宣告，維持2027年銅均價預期為每磅5.10美元。
+
+---
+
+### 2026-08-12 00:13:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish
+
+Federal Reserve Governor Goolsbee said labor-market indicators show stability but are not strong.
+
+---
+
+### 2026-08-12 00:12:54  #其他
+
+智利國家銅業委員會宣告，將2026年銅均價預期上調至每磅5.95美元。
+
+---
+
+### 2026-08-12 00:12:37  #MKT News #Commodities #Industrial Metals #Copper
+
+Chile's Copper Commission (Cochilco) maintained its 2027 average copper price forecast at $5.10/lb.
+
+---
+
+### 2026-08-12 00:12:21  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,706 on Tuesday, as gains in energy and defense stocks offset losses in autos and utilities. Eni advanced 2% amid uncertainty surrounding conflicting statements over a potential Middle East peace agreement, while Saipem added 0.4%. Defense stocks also outperformed, led by Leonardo, which gained 0.7% after RBC analysts rated the stock “outperform”. Fincantieri rose 0.2%. Financials were mixed despite Morningstar DBRS reporting another solid set of first-half results from Italy’s largest banks. UniCredit (0.3%), BPER Banca (0.2%) and BMPS (0.2%) all advanced, while Banco BPM fell 0.9% and Intesa Sanpaolo lost 0.3%. On the downside, Stellantis fell 2.6% as intensifying competition from Chinese automakers weighed on sentiment, while the company’s backing of Leapmotor underscored the growing competitive pressure in overseas markets. Utilities extended losses from the previous session, led by Enel, which fell 0.9%.
+
+---
+
+### 2026-08-12 00:12:19  #央行 #國際
+
+美聯儲古爾斯比：勞動力市場趨於穩定，但並不算景氣。
+
+---
+
+### 2026-08-12 00:12:14  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+Chile's Cochilco raised its 2026 average copper price forecast to $5.95 per lb.
+
+---
+
+### 2026-08-12 00:12:09  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.08% Higher — The FTSE MIB Index gained 42 points or 0.08 percent on Tuesday to close at 53706 points. Gains were led by Eni (2.01%), Prysmian (1.77%) and Azimut Holding (1.60%). Biggest losers were Stellantis N.V. (-2.13%), Enel (-0.91%) and Banco BPM SPA (-0.88%).
+
+---
+
+### 2026-08-12 00:11:39  #MKT News
+
+U.S. President Trump said Robert is imprisoned in Russia and will arrive in Washington, D.C., tonight.
+
+---
+
+### 2026-08-12 00:11:33  #國際
+
+特朗普：美國公民羅伯特·吉爾曼，前美國海軍陸戰隊員，即將回國。羅伯特曾被關押在俄羅斯。在我與普京總統會談後，俄羅斯已同意釋放他。我們對這一決定表示讚賞，也對俄羅斯未要求任何回報這點予以肯定。
+
+---
+
+### 2026-08-12 00:11:17  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said he welcomed the decision and that Russia did not request anything in return.
+
+---
+
+### 2026-08-12 00:11:17  #MKT News #Market Themes #The Trump Trade
+
+TRUMP said after his discussion with Putin, Russia agreed to release him.
 
 ---
 
@@ -19116,137 +19212,5 @@ An earthquake struck Bogotá, Colombia; buildings were reported shaking.
 ### 2026-08-10 20:38:11  #公司
 
 【諾和諾德與亞馬遜AWS建立戰略合作伙伴關係 推動透過人工智慧加速藥物研發】諾和諾德與亞馬遜網路服務（AWS）今日宣佈建立戰略合作伙伴關係，透過智慧人工智慧和雲技術加快藥物發現程序並現代化諾和諾德的運營。作為合作的一部分，諾和諾德與AWS在倫敦建立了一個聯合創新中心，兩家公司的工程師和科學家利用AWS人工智慧技術結合諾和諾德的資料和洞察，壓縮從藥物靶點到首次人類劑量的路徑。倫敦新的人工智慧聯合創新中心匯聚了AWS工程師、人工智慧專家和應用科學家，以及諾和諾德的研發團隊，共同提升生產力，幫助縮短未來藥品的上市時間。諾和諾德與多家支援醫療行業的亞馬遜企業合作，包括亞馬遜藥房、亞馬遜廣告和亞馬遜One Medical，共同改變新療法的營銷和交付方式。
-
----
-
-### 2026-08-10 20:37:15  #公司 #市場
-
-道富集團洪亦心：黃金、大宗商品、私募市場為投資組合提供支撐。
-
----
-
-### 2026-08-10 20:37:00  #公司
-
-道富集團洪亦心：全年資金持續流入貨幣市場基金。
-
----
-
-### 2026-08-10 20:36:30  #市場
-
-【SABESP美股盤前漲超12%】SABESP美股盤前漲超12%，現報6.0美元。
-
----
-
-### 2026-08-10 20:34:30  #公司
-
-【綠控傳動：首次公開發行股票網上申購，中籤率為 0.0151775616%】綠控傳動公告稱，本次發行股份數量為 6834.1235 萬股，發行價 8.5 元/股。最終戰略配售數量 2050.2370 萬股，約佔 30%。網上初始發行 956.7500 萬股，因網上初步有效申購倍數高於 100 倍，啟動回撥機制，網下向網上回撥 956.8000 萬股。回撥後，網下最終發行 2870.3365 萬股，佔 60%；網上最終發行 1913.5500 萬股，佔 40%，網上發行中籤率為 0.0151775616%。發行人與保薦人將於 8 月 11 日搖號抽籤，8 月 12 日公佈中籤結果。
-
----
-
-### 2026-08-10 20:33:45  #公司
-
-【光線傳媒：原持股5%以上股東上海漢濤減持計劃屆滿，合計減持5191.31萬股】光線傳媒公告，公司原持股5%以上股東上海漢濤資訊諮詢有限公司此前披露的減持計劃期限已屆滿，其於2026年5月11日至2026年8月10日期間，透過集中競價交易減持2887.88萬股（佔比0.984420%），透過大宗交易減持2303.43萬股（佔比0.785191%），合計減持5191.31萬股，佔總股本比例1.769611%。本次減持後，上海漢濤合計持有公司股份1.24億股，佔總股本比例4.230430%。
-
----
-
-### 2026-08-10 20:33:36  #公司
-
-【貝特利：獲中國證監會同意首次公開發行股票註冊批覆】貝特利公告，中國證監會同意蘇州市貝特利高分子材料股份有限公司首次公開發行股票並在創業板上市的註冊申請，批覆自同意註冊之日起12個月內有效。公司本次發行股票應嚴格按照報送深圳證券交易所的招股說明書和發行承銷方案實施。
-
----
-
-### 2026-08-10 20:32:48  #國際
-
-美國地質調查局：北大西洋中脊發生 5.0 級地震。
-
----
-
-### 2026-08-10 20:32:32  #MKT News
-
-Nolan-directed Odyssey became the highest-grossing film at the IMAX box office.
-
----
-
-### 2026-08-10 20:32:26  #其他
-
-紐約聯邦儲備銀行隔夜回購操作未收到投標。
-
----
-
-### 2026-08-10 20:32:04  #其他
-
-諾蘭的《奧德賽》成為 IMAX 史上票房最高上映影片。
-
----
-
-### 2026-08-10 20:31:59  #其他
-
-【浙江杭州釋出暴雨橙色預警】杭州市氣象臺2026年08月10日19時26分發布主城區暴雨橙色預警訊號：受颱風“白海豚”殘餘環流影響，預計今天夜裡上城區、拱墅區、西湖區和濱江區所有街道有大雨到暴雨，請注意防範強降水可能引發的城市積澇、小流域山洪等次生災害和對交通出行等的不利影響。
-
----
-
-### 2026-08-10 20:31:10  #其他
-
-市場訊息：格芯選用 Redpanda 作為實時資料平臺。
-
----
-
-### 2026-08-10 20:30:40  #其他
-
-穆迪評級確認 T-Mobile 的優先無擔保債券評級為 Baa1。
-
----
-
-### 2026-08-10 20:30:25  #國際
-
-8 月 10 日全球基金淨買入印度股票 197 億盧比。
-
----
-
-### 2026-08-10 20:29:30  #市場
-
-【SpaceX有望連續第三日上漲 股價重返IPO發行價上方】SpaceX股價週一盤前一度上漲4.9%，有望連續第三個交易日走高，並重新站上135美元的IPO發行價。截至紐約時間上午8:05，SpaceX股價一度升至139.60美元。SpaceX自7月16日收盤跌破IPO發行價以來，股價一直低於135美元。此前兩個交易日，SpaceX累計上漲23%，市值合計增加逾3,270億美元。隨著首批限售期於上週屆滿，共有9.115億股股票解除限售、進入市場流通。資料顯示，SpaceX目前獲得31個買入評級、6個持有評級和2個賣出評級，分析師平均目標價為221美元。
-
----
-
-### 2026-08-10 20:28:26  #公司 #國際
-
-A95諮詢公司稱，烏克蘭7月份汽油進口量增長34%。
-
----
-
-### 2026-08-10 20:28:09  #其他
-
-福特汽車信貸擬開展三檔規模基準債券發債。
-
----
-
-### 2026-08-10 20:27:50  #MKT News #Commodities #Energy
-
-A95 Consulting said Ukraine's gasoline imports rose 34% in July.
-
----
-
-### 2026-08-10 20:27:37  #公司
-
-巴西航空工業公司高管表示：我們商業航空業務的盈利能力將在下半年繼續改善，兩年後將迎來尤為明顯的提升。
-
----
-
-### 2026-08-10 20:27:11  #MKT News
-
-Iran President PEZESHKIAN said he held a 7-8 hour meeting with Supreme Leader Mojtaba Khamenei. He described the session as "highly productive" and said they discussed state affairs. Iranian authorities have not released photos or video of the meeting.
-
----
-
-### 2026-08-10 20:26:48  #公司
-
-【華人健康：擬定增募資不超過7.09億元用於智慧製造與分揀中心等專案】華人健康公告，公司擬向不超過35名特定物件發行A股股票，募集資金總額不超過7.09億元（含本數），發行股票數量不超過5000萬股（含本數）。募集資金扣除發行費用後擬用於智慧製造與分揀中心專案（擬投入40,866.91萬元）、醫藥研發專案（擬投入10,789.11萬元）、資訊化建設專案（擬投入4,251.41萬元）及補充流動資金（15,000.00萬元）。本次發行尚需經公司股東會審議透過、深交所稽核透過及中國證監會同意註冊。
-
----
-
-### 2026-08-10 20:26:39  #其他
-
-【第十六屆中國國際數字出版博覽會將於8月27日啟幕】記者8月10日從第十六屆中國國際數字出版博覽會組委會獲悉，以“數創未來 智啟新程”為主題，本屆數博會將於8月27日至29日在山東濟南舉行。據介紹，本屆數博會預計參展單位逾500家，全國20個省區市組團參展，30餘個國家和地區的海外展商參展。展會設定7大特色展區，首次設立中華優秀傳統文化與網路遊戲展區，旨在展現、交流優秀傳統文化賦能網路遊戲精品化發展路徑；設定1場主論壇、6場專題論壇及80餘場配套活動，與會嘉賓將就數字出版、人機協同、學科交叉建設、全球學術傳播等議題研討，探索可操作、可落地的路徑和經驗。中國新聞出版研究院將會同相關機構釋出多份報告，併發布人工智慧應用相關行業標準制定階段性成果。本屆數博會由中國新聞出版研究院、中國出版協會聯合主辦。中國國際數字出版博覽會是我國以促進數字出版產業發展為主題舉辦的全國性、國際化博覽會，於2005年首次舉辦。（新華社）
 
 ---
