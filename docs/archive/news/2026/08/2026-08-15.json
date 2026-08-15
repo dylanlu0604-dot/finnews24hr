@@ -1,7 +1,35 @@
 {
   "date": "2026-08-15",
-  "count": 627,
+  "count": 630,
   "items": [
+    {
+      "id": "mkt:01a00497-6fb1-7aab-9048-43a16ecc8099",
+      "time": "2026-08-15 16:43:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An official at Indonesia's disaster management agency said the earthquake death toll has risen to 38."
+    },
+    {
+      "id": "mkt:01a00497-5c48-7aab-9048-3d6e02f21196",
+      "time": "2026-08-15 16:43:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says US claims on Strait of Hormuz are politically driven, asserts military primacy】IRNA reports Hossein Noushabadi, director-general for parliamentary and legal affairs at Iran’s Foreign Ministry, said Washington’s assertions about control of the Strait of Hormuz are politically motivated and a passive response to Iran’s demonstration of strength and strategic plans. He said US presidential claims lack basis and conflict with international shipping rules and the UN Convention on the Law of the Sea. Noushabadi added Iran holds political and military primacy over the Strait of Hormuz, the global energy chokepoint, giving Tehran leverage against external threats."
+    },
+    {
+      "id": "5042240",
+      "time": "2026-08-15 16:42:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a00493-5302-7aab-9048-36b53306ef93",
       "time": "2026-08-15 16:39:18",
