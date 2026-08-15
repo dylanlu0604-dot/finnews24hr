@@ -1,7 +1,40 @@
 {
   "date": "2026-08-15",
-  "count": 706,
+  "count": 710,
   "items": [
+    {
+      "id": "mkt:01a0053f-8f90-7aab-9048-fd4bd60d7348",
+      "time": "2026-08-15 19:47:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing."
+    },
+    {
+      "id": "5042299",
+      "time": "2026-08-15 19:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。"
+    },
+    {
+      "id": "5042298",
+      "time": "2026-08-15 19:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）"
+    },
+    {
+      "id": "5042297",
+      "time": "2026-08-15 19:45:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）"
+    },
     {
       "id": "5042296",
       "time": "2026-08-15 19:42:20",

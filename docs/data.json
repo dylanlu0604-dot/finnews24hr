@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-15 19:45:19",
-  "count": 15300,
+  "updated": "2026-08-15 19:49:14",
+  "count": 15303,
   "items": [
+    {
+      "id": "mkt:01a0053f-8f90-7aab-9048-fd4bd60d7348",
+      "time": "2026-08-15 19:47:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing."
+    },
+    {
+      "id": "5042299",
+      "time": "2026-08-15 19:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。"
+    },
+    {
+      "id": "5042298",
+      "time": "2026-08-15 19:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）"
+    },
+    {
+      "id": "5042297",
+      "time": "2026-08-15 19:45:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）"
+    },
     {
       "id": "5042296",
       "time": "2026-08-15 19:42:20",
@@ -140081,18 +140114,6 @@
         "國際"
       ],
       "text": "【8月8日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】完善全民健身公共服務體系 讓發展成果惠及全體人民； 2.【樹立和踐行正確政績觀】堅持民生優先 推動學習教育成果落到實處； 3.上半年我國經營主體結構持續最佳化； 4.上半年我國醫藥工業創新加速突破； 5.全國用電負荷創新高 電力保供積極應對； 6.【一線調研】軌道串起消費新活力； 7.暑期研學遊升溫 在旅途中增長知識； 8.颱風“白海豚”逼近 各地加強防範； 9.國內聯播快訊： （1）上半年國內居民出遊人次達34.63億； （2）《全國幸福河湖建設專案實施方案（2026—2028年）》釋出； （3）《民用航空發展“十五五”規劃》釋出； （4）“義新歐”中歐班列今年出口超10萬標箱； 10.移民問題引發分歧 西班牙出臺針對義大利反制措施； 11.伊朗稱與阿曼已明確霍爾木茲海峽協議的總體框架 美媒稱美軍高層尋求退出伊朗戰爭； 12.沙特土耳其巴基斯坦簽署共同防務協議； 13.國際聯播快訊： （1）日本食品自給率跌至歷史最低水平； （2）持續乾旱致美最大水庫水位降至歷史最低。"
-    },
-    {
-      "id": "mkt:019fe132-04c2-7aab-8fc3-e2d562980ec2",
-      "time": "2026-08-08 19:46:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Analyst: Recent Houthi strike raises risk of wider Yemen war】Elisabeth Kendall, head of Girton College, Cambridge and Middle East expert, said Thursday’s Houthi missile and drone strike on government military targets in Yemen — the first of its kind in years — killed at least 30 government soldiers and wounded 15 and is likely to push the conflict into a wider war. She said the 2022 ceasefire has effectively expired, recent troop movements and clashes show all warning signs of escalation, and that the internationally recognized government’s forces are more unified after January’s fighting and subsequent integration efforts."
     }
   ]
 }
