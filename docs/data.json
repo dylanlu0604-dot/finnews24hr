@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-16 00:10:18",
-  "count": 15272,
+  "updated": "2026-08-16 00:14:16",
+  "count": 15274,
   "items": [
+    {
+      "id": "mkt:01a00633-3030-7aab-9049-b1777eae9dce",
+      "time": "2026-08-16 00:13:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Yemen's Mocha port suspends operations after Houthi attack】Mocha port has suspended commercial and maritime operations after being hit by more than 25 missiles fired by Houthi forces, the port authority said on Saturday. The attack killed seven people and caused an estimated $16m in damage. Mocha, a Red Sea port near the Bab al-Mandeb Strait linking the Red Sea and Gulf of Aden, lies on a key international shipping route. The port is held by forces aligned with Yemen's internationally recognized government and has a smaller cargo capacity than Aden and Hodeidah ports."
+    },
+    {
+      "id": "5042401",
+      "time": "2026-08-16 00:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月16日00時07分在四川眉山市仁壽縣附近（北緯29.80度，東經104.23度）發生3.1級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "5042400",
       "time": "2026-08-16 00:08:14",
