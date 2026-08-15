@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-15 09:11:46",
+  "updated": "2026-08-15 09:15:36",
   "count": 15286,
   "items": [
+    {
+      "id": "5042092",
+      "time": "2026-08-15 09:13:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震後 咖啡產區旅遊業受衝擊】受到此次7.5級強震影響，“咖啡三角區”核心產區之一的金迪奧省境內，不少咖啡主題公園等旅遊景區被迫停業，對當地旅遊業造成了不小的衝擊。目前，正值哥倫比亞連續4天的公共假期，往年此時，園區每天能接待約2000至3000名遊客。但受此次強震影響，咖啡主題公園暫停營業，大量遊客取消預訂，周邊依賴旅遊業的商戶也受到波及。隨震後安全檢查和相關評估逐步推進，周邊商戶期待園區儘快重新開放，希望假期受影響的客流能夠逐步恢復。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a002f9-5dec-7aab-9046-e47ded3f6aec",
+      "time": "2026-08-15 09:11:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump urges Americans to accept higher gasoline prices】U.S. President Trump, speaking in Garden City, New York on Aug. 14, urged Americans to \"accept higher gasoline prices\" as the price to prevent Iran from obtaining nuclear weapons. He added that \"after we defeat Iran... I will soon declare the Strait of Hormuz U.S. territory.\" It was unclear whether he was speaking seriously."
+    },
     {
       "id": "5042091",
       "time": "2026-08-15 09:09:44",
@@ -139965,26 +139987,6 @@
         "MKT News"
       ],
       "text": "【Avelardo De la Espriella sworn in as Colombia president】Colombia's president-elect Avelardo De la Espriella was sworn in at a university gym in Cali on the 7th, formally beginning a four-year presidential term."
-    },
-    {
-      "id": "5031757",
-      "time": "2026-08-08 09:12:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海國投先導參與投資智微凌峰基金】近日，上海國投先導公示對上海智微凌峰創業投資合夥企業（有限合夥）（簡稱“智微凌峰基金”）的投資。該基金由智微資本擔任管理人，目標規模30億元。LP陣容匯聚中微公司、瀾起科技等半導體龍頭的旗下平臺，工業X射線檢測領域企業日聯科技的子公司，以及地方國資平臺，形成“產業資本+國有資本”的深度聯合。智微凌峰基金以半導體裝置、零部件、材料及先進封裝等積體電路核心環節為主攻方向，重點挖掘“卡脖子”領域的“隱形冠軍”。"
-    },
-    {
-      "id": "mkt:019fdeed-1174-7aab-8fc1-fd0b3e72d7c6",
-      "time": "2026-08-08 09:11:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【U.S. official: Ukraine agrees to avoid attacks on non‑Russian tankers and Black Sea oil infrastructure】A U.S. official said Ukraine has agreed not to target certain non‑Russian‑flagged tankers or Black Sea oil infrastructure vital to Kazakhstan's crude exports. The official said last month’s attacks had disrupted loading; regional activity fell sharply after strikes near the Caspian Pipeline Consortium terminal at Novorossiysk. Ukraine has set up a liaison for commercial shippers to share information and help ensure safe transit. The commitment, reached after meetings between senior U.S. and Ukrainian officials, could pave the way for higher regional oil flows."
     }
   ]
 }
