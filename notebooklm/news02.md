@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 06:55:40_
-_本檔包含 3134 則快訊，約 603196 字_
+_更新時間：2026-08-16 07:32:12_
+_本檔包含 3127 則快訊，約 603693 字_
+
+---
+
+### 2026-08-14 09:16:29  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.6% at 25,218, trading 177 points below the cash index.
+
+---
+
+### 2026-08-14 09:16:18  #公司
+
+【寧德時代成立新公司 含太陽能發電業務】企查查APP顯示，近日，尋甸潤時新能源有限公司成立，經營範圍包含物聯網技術研發；物聯網技術服務；物聯網應用服務；風力發電技術服務；太陽能發電技術服務等。企查查股權穿透顯示，該公司由寧德時代間接全資持股。
+
+---
+
+### 2026-08-14 09:16:17  #MKT News #Market Themes #Chip Wars #AI Revolution #Market Regions #Greater China #Nasdaq100 #Impact bullish #S&P500
+
+【SMIC co-CEO Zhao Haijun says AI-driven demand, spillovers to persist in H2】Aug 14 — At its Q2 results meeting, SMIC co-CEO Zhao Haijun said AI-driven industrial push and spillover effects will continue into H2, supporting broad demand for integrated circuit manufacturing. The company is flexibly reallocating existing capacity and fast-tracking validation of new capacity to ease supply tightness. He added rising supply-chain costs have begun to pass through to manufacturing; SMIC will take measures to mitigate the impact and minimize disruption.
+
+---
+
+### 2026-08-14 09:16:13  #國際
+
+今年第17號颱風“浪卡”（熱帶風暴級）的中心今天（14日）早晨5點鐘位於距離日本東京東南方向約1505公里的西北太平洋洋麵上，就是北緯28.8度，東經153.5度，中心附近最大風力8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑250-480公里。預計，“浪卡”將以每小時10-15公里的速度向偏東方向移動，強度逐漸減弱。（國家海洋預報臺）
+
+---
+
+### 2026-08-14 09:15:42  #公司
+
+【中芯國際趙海軍：下半年人工智慧產生的產業推動與溢位效應還將持續】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上分析，展望下半年，人工智慧產生的產業推動與溢位效應還將持續，為積體電路製造帶來廣泛的需求。公司靈活調配已有產能，快速驗證新增產能，幫助緩解產業鏈緊缺局面。同時公司也看到，供應鏈成本上升的壓力已經向製造環節傳導，公司將積極應對、克服困難，努力將影響降至最低。
+
+---
+
+### 2026-08-14 09:15:32  #市場
+
+【人民幣兌美元中間價報6.7878，較上日調高10點】人民幣兌美元中間價報6.7878，較上日調高10點。
+
+---
+
+### 2026-08-14 09:15:28  #市場
+
+人民幣兌美元中間價報6.7878元。
+
+---
+
+### 2026-08-14 09:15:24  #MKT News #Important
+
+The Finnish Defence Forces said on social media platform X that Finland has established temporary air and maritime traffic restriction zones in the eastern Gulf of Finland.
+
+---
+
+### 2026-08-14 09:15:02  #市場
+
+恒指期貨日盤開盤跌0.70%，報25195.45點，低水201.06點。
+
+---
+
+### 2026-08-14 09:14:53  #其他
+
+芬蘭國防軍在X平臺發文表示，芬蘭將在芬蘭灣東部劃定航空與海事交通臨時限制區。
+
+---
+
+### 2026-08-14 09:14:45  #其他
+
+【賈魯河周口川匯區段出現潰口】受賈魯河上游來水和沙潁河倒灌頂託擠壓，8月13日晚11時左右，周口市川匯區新北環橋下賈魯河東岸堤壩出現潰口，潰口寬30米左右。 現場指揮部正組織專門力量，轉移群眾781人，暫無人員傷亡；依託現有溝渠，認真研究疏導下洩方案；根據專家研判方案，正在採取潰口兩端共同作業，用集裝箱穩固堤腳，中間填堆石料進行封堵。（新華社）
+
+---
+
+### 2026-08-14 09:14:42  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate most-active futures contract rose 2.00% intraday to 152,740 yuan/ton.
+
+---
+
+### 2026-08-14 09:14:09  #MKT News #981.HK #Impact bullish
+
+【SMIC co-CEO: Q3 utilization ~95% including new capacity; revenue guide +2-4% QoQ, gross margin 26-28%】Aug 14 — SMIC co-CEO Zhao Haijun at the Q2 results meeting said Q3 shipments are expected to rise and pricing to remain stable. Revenue guidance +2–4% QoQ; gross margin guidance 26–28%, which he said should still increase QoQ after absorbing higher Q3 depreciation from new capacity and summer peak power. Utilization including new capacity is expected to remain around 95%, effectively diluting unit fixed costs.
+
+---
+
+### 2026-08-14 09:13:23  #公司
+
+【中芯國際趙海軍：三季度計入新增產能後的利用率預計維持在約95%高位】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，三季度，公司預計出貨量繼續增長，價格保持穩健，收入指引為環比增長2%—4%；毛利率指引為26%—28%，在抵消三季度新增折舊和暑期電力高峰後環比繼續提高，計入新增產能後的利用率預計維持在95%左右高位，有效攤薄了單位固定成本。
+
+---
+
+### 2026-08-14 09:13:05  #公司 #市場 #觀點 #國際
+
+【套利交易員正利用外匯干預措施重建日元空頭頭寸】每一次為支撐日元而採取的干預措施也在為拋售日元創造新機會。美日兩國上個月採取的這一歷史性聯合行動對扭轉令日元承壓的因素收效甚微，不到兩週後，日元兌美元匯率便再度跌向160大關。關鍵在於日本與其他國家之間的利率差距巨大。投資者可以借入低收益的日元，並用這筆資金購買更高收益的資產 —— 這種策略被稱為套利交易。這意味著，當干預措施推高日元時，投資者便能以更好的價格賣出日元。據摩根大通私人銀行和道富銀行及信託公司等市場觀察人士稱，截至8月4日，對沖基金已將其看跌日元的押注削減了一半，但部分投資者正開始重返以日元為資金來源的套利交易。其中就包括私募投資公司Alpha Binwani Capital的創始人Ashwin Binwani，他曾在美元兌日元約157時買入美元，隨著日元走弱，這一頭寸獲利。目前美元兌日元報159.46。“干預為在更高水平拋售日元提供了絕佳機會，”Binwani表示。“我們並不畏懼他們的行動。套利交易的機會太好了，不容錯過。”
+
+---
+
+### 2026-08-14 09:12:10  #資料 #市場 #央行 #國際
+
+【光大期貨：通脹預期下行，黃金不漲反跌】隔夜黃金震盪走弱，倫敦現貨黃金下跌1.34%，SHFE黃金下跌1.24%。美PPI資料公佈，能源價格下跌成為PPI降溫的主要推動力，通脹壓力下行，美股出現走高，風險情緒升溫，進一步打壓金價。短線黃金震盪，重點關注今晚美銷售零售資料、美伊局勢進展。美9月甚至年內加息機率接連下降，但金價走勢不漲反跌，一是有利多落地獲利了結的可能，二是或與日央行加息預期引起的市場流動性恐慌有一定關係。金價走勢在關鍵位置受阻，分歧有所加大，不過整體來看，美聯儲9月加息預期下降下或整體仍維持高位震盪走勢。
+
+---
+
+### 2026-08-14 09:11:56  #MKT News #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Latvian armed forces posted an air threat alert on social media.
+
+---
+
+### 2026-08-14 09:11:33  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Yemen fighting intensifies; Saudi shifts to more proactive security posture】Escalating attacks have prompted Saudi Arabia to adopt a more proactive security posture in Yemen and the wider region, driven by the prospect that Houthi forces could eventually block the Bab el-Mandeb strait and threaten the Red Sea shipping lane that is an alternative to the Strait of Hormuz. Riyadh is especially sensitive after recent tensions around Hormuz, since a closure of Bab el-Mandeb would put Red Sea routes — previously a viable complement to Saudi east–west pipelines bypassing Hormuz — at direct risk. Last month Saudi Arabia announced an international coalition to protect Red Sea shipping with 13 participating countries, while deepening defence agreements with Pakistan and Turkey and increasing coordination with the United States. Saudi defence officials recently met the US vice president, and media reports say the crown prince has US backing for potential military action against the Houthis. On the ground, Riyadh has shifted tactics — intervening late last year against the UAE-backed Southern Transitional Council to help consolidate anti-Houthi forces around the Yemeni government — and analysts say Saudi policy now appears aimed at driving the Houthis off the coastline rather than attempting to retake Sanaa.
 
 ---
 
@@ -18724,155 +18832,5 @@ SK海力士領漲韓國晶片股。SK海力士股價早盤上漲6.3%，至1,599,
 ### 2026-08-13 08:06:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration.
-
----
-
-### 2026-08-13 08:06:08  #市場
-
-SK海力士股價早盤上漲6.3%，至1,599,000韓元。
-
----
-
-### 2026-08-13 08:05:16  #公司 #國際
-
-【調查：絕大多數日本企業尚未全面採用人工智慧】路透週四公佈的一項調查顯示，超過80%的日本企業在運營中僅在有限範圍內使用人工智慧（AI），或根本未採用，這一趨勢可能阻礙政府提高生產率的努力。約60%受訪者表示，AI僅應用於公司部分業務或以其他有限方式使用。另有18%表示尚未決定是否將AI引入工作場所，6%甚至未考慮採用AI。調查顯示，其餘16%的企業已將AI作為不可或缺的工具部署在整個公司。“我們已開始在全公司範圍內使用AI，但其應用僅限於建立文件等任務。”某批發商的經理在調查中寫道。另一家房地產公司的主管表示，“我們不知該如何將它投入使用。”政府今年的一份報告顯示，日本在AI應用方面落後於其他工業強國：有86.4%日企至少在一項任務中使用生成式AI；而中國為98.1%、德國為91.6%、美國為90.9%。
-
----
-
-### 2026-08-13 08:04:48  #央行 #美聯儲
-
-【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
-
----
-
-### 2026-08-13 08:03:44  #MKT News #Market Regions #Japan & APAC #Hang Seng Index #Impact bullish #Nikkei 225
-
-South Korea's KOSPI jumped 4.00% intraday to 6,843.21 points.
-
----
-
-### 2026-08-13 08:03:39  #市場 #國際
-
-韓國綜合股價指數（KOSPI）上漲4%，至6843.21點。
-
----
-
-### 2026-08-13 08:03:16  #資料 #觀點 #央行 #國際
-
-【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
-
----
-
-### 2026-08-13 08:02:08
-
-三星電子漲4％，SK海力士漲5％。
-
----
-
-### 2026-08-13 08:01:52  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 opened up 580.21 points, or 0.86%, at 68,104.27 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 08:01:48  #MKT News
-
-KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 08:01:45  #公司 #市場
-
-三星電子股價上漲超4%。
-
----
-
-### 2026-08-13 08:01:37  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI up 3.38% in early trade; Samsung Electronics +4%, SK Hynix +5%.
-
----
-
-### 2026-08-13 08:01:17  #市場 #焦點 #國際
-
-韓國綜合股價指數（KOSPI）較7月30日低點上漲20%。
-
----
-
-### 2026-08-13 08:01:06  #其他
-
-日經指數在交易時段內升至68000點以上，為自7月16日以來首次。
-
----
-
-### 2026-08-13 08:00:42  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。
-
----
-
-### 2026-08-13 08:00:21  #市場
-
-【日韓股市開盤】日經225指數上午開盤報68033.17點，漲幅0.75％。韓國綜合股價指數（KOSPI）開盤上漲3％，至6773.92點。
-
----
-
-### 2026-08-13 08:00:07  #市場 #焦點
-
-布倫特原油突破89美元/桶，日內跌0.66%。
-
----
-
-### 2026-08-13 07:58:33  #觀點 #國際
-
-【中信證券：海峽通航風險難以徹底化解】中信證券研報認為，美以伊衝突已延宕逾五個月，針對近期市場關注的伊朗-阿曼潛在通航協議，我們認為該協議無法徹底化解海峽通航風險，中東局勢或仍將處於特朗普在 “TACO式退讓”與“惱羞成怒式升級”之間反覆迴圈的僵局之中。究其原因，一來該協議本質是伊朗對美施壓工具，但其強硬態度將直接危及特朗普的政治遺產，因而雙方談判難有進展。二來各方圍繞海峽控制權仍存在結構性矛盾，或難形成長期穩定的管理制度。綜合來看，後續真正具有觀測意義的訊號是美國是否正式啟動制裁豁免、資產解凍及海上封鎖調整。展望後續影響，在中短期，即使各方達成海峽管理安排並解除封鎖，通航量也未必能夠迅速、完全恢復至戰前水平。在有限通航情景下，全球通脹壓力仍在，但極端風險可控。在長期，圍繞霍爾木茲海峽的博弈顯示美國維護全球秩序的能力和意願正加速衰落，並將推動中東地緣格局與全球供應鏈加速重構。
-
----
-
-### 2026-08-13 07:58:22  #Trading Economics #Economy #Japan #Producer Prices Change #Importance 1
-
-Japan Producer Prices Rise Less than Estimated — Japan’s producer prices rose 7.2% year-on-year in July 2026, easing slightly from a marginally revised 7.3% increase in the prior month, which had been the fastest pace in more than three years. The latest reading came in slightly below market expectations of 7.4%. On a monthly basis, producer prices edged up 0.1%, slowing sharply from an upwardly revised 0.5% gain in June and marking the weakest monthly gain in five months.
-
----
-
-### 2026-08-13 07:58:21  #MKT News
-
-Washington Post, citing US officials, reports that during President Trump’s visit to Turkey Israel provided intelligence indicating his life was at risk; officials say the warnings may have been intended to influence his decision-making.
-
----
-
-### 2026-08-13 07:57:57  #公司 #國際
-
-【美最高法院簽發一日臨時暫停令，蘋果獲延期提交App Store費率方案】當地時間8月12日，美國最高法院大法官埃琳娜·卡根簽發了一項行政暫停令，宣佈暫時凍結加州聯邦地區法院關於蘋果公司與《堡壘之夜》開發商Epic Games之間長期反壟斷訴訟的下級審理程式。此舉旨在為最高法院爭取更多審議時間，以決定是否批准蘋果提出的長期暫停下級法院進一步訴訟行動的申請。不過，這項臨時暫停令僅為期一天，將訴訟程式凍結至華盛頓時間13日下午5點，使蘋果暫時免於在原定12日截止日前向地區法院提交費率方案。
-
----
-
-### 2026-08-13 07:56:13  #其他
-
-委內瑞拉政府和反對派同意改革最高法院法律。
-
----
-
-### 2026-08-13 07:55:17  #市場 #央行 #國際
-
-【印度7月通脹率升至4.45% 但不太可能促使央行在未來幾個月加息】受食品價格上漲推動，印度7月份的零售通脹率上升，但仍不太可能促使印度央行在未來幾個月內加息。7月消費者物價指數較上年同期上漲4.45%，連續第二個月高於印度央行設定的4%中期目標，且與媒體此前預測的4.5%基本持平。不過，7月份的通脹率仍在印度央行設定的2%-6%容忍區間內。印度央行上週維持指標政策利率不變，等待更明確的證據以判斷通脹壓力是否已變得更為廣泛。這使印度與印尼、菲律賓等地區經濟體形成對比，這些經濟體因能源價格上漲和匯率波動已相繼加息。“印度央行眼下仍有條件保持耐心，但不會一直如此，”牛津經濟研究院的首席經濟學家Alexandra Hermann Prasad表示。“越來越多證據表明，第二輪通脹效應正在形成，中期通脹預期也在上升，這使得供給衝擊越來越難以被忽視。我們預計政策制定者將在10月按兵不動，但會在12月加息25個基點。”
-
----
-
-### 2026-08-13 07:54:00  #市場 #焦點
-
-紐約期金突破4470美元/盎司，日內漲0.04%。
-
----
-
-### 2026-08-13 07:53:41  #其他
-
-委內瑞拉國民議會主席豪爾赫·羅德里格斯：政府與反對派首輪會談結束。
-
----
-
-### 2026-08-13 07:52:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%.
 
 ---

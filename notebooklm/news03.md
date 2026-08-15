@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 06:55:40_
-_本檔包含 3050 則快訊，約 602764 字_
+_更新時間：2026-08-16 07:32:12_
+_本檔包含 3038 則快訊，約 603715 字_
+
+---
+
+### 2026-08-13 08:06:08  #市場
+
+SK海力士股價早盤上漲6.3%，至1,599,000韓元。
+
+---
+
+### 2026-08-13 08:05:16  #公司 #國際
+
+【調查：絕大多數日本企業尚未全面採用人工智慧】路透週四公佈的一項調查顯示，超過80%的日本企業在運營中僅在有限範圍內使用人工智慧（AI），或根本未採用，這一趨勢可能阻礙政府提高生產率的努力。約60%受訪者表示，AI僅應用於公司部分業務或以其他有限方式使用。另有18%表示尚未決定是否將AI引入工作場所，6%甚至未考慮採用AI。調查顯示，其餘16%的企業已將AI作為不可或缺的工具部署在整個公司。“我們已開始在全公司範圍內使用AI，但其應用僅限於建立文件等任務。”某批發商的經理在調查中寫道。另一家房地產公司的主管表示，“我們不知該如何將它投入使用。”政府今年的一份報告顯示，日本在AI應用方面落後於其他工業強國：有86.4%日企至少在一項任務中使用生成式AI；而中國為98.1%、德國為91.6%、美國為90.9%。
+
+---
+
+### 2026-08-13 08:04:48  #央行 #美聯儲
+
+【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
+
+---
+
+### 2026-08-13 08:03:44  #MKT News #Market Regions #Japan & APAC #Hang Seng Index #Impact bullish #Nikkei 225
+
+South Korea's KOSPI jumped 4.00% intraday to 6,843.21 points.
+
+---
+
+### 2026-08-13 08:03:39  #市場 #國際
+
+韓國綜合股價指數（KOSPI）上漲4%，至6843.21點。
+
+---
+
+### 2026-08-13 08:03:16  #資料 #觀點 #央行 #國際
+
+【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
+
+---
+
+### 2026-08-13 08:02:08
+
+三星電子漲4％，SK海力士漲5％。
+
+---
+
+### 2026-08-13 08:01:52  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 opened up 580.21 points, or 0.86%, at 68,104.27 on Thursday, Aug. 13.
+
+---
+
+### 2026-08-13 08:01:48  #MKT News
+
+KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13.
+
+---
+
+### 2026-08-13 08:01:45  #公司 #市場
+
+三星電子股價上漲超4%。
+
+---
+
+### 2026-08-13 08:01:37  #MKT News #Important #005930.KS #Impact bullish #000660.KS
+
+South Korea's KOSPI up 3.38% in early trade; Samsung Electronics +4%, SK Hynix +5%.
+
+---
+
+### 2026-08-13 08:01:17  #市場 #焦點 #國際
+
+韓國綜合股價指數（KOSPI）較7月30日低點上漲20%。
+
+---
+
+### 2026-08-13 08:01:06  #其他
+
+日經指數在交易時段內升至68000點以上，為自7月16日以來首次。
+
+---
+
+### 2026-08-13 08:00:42  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。
+
+---
+
+### 2026-08-13 08:00:21  #市場
+
+【日韓股市開盤】日經225指數上午開盤報68033.17點，漲幅0.75％。韓國綜合股價指數（KOSPI）開盤上漲3％，至6773.92點。
+
+---
+
+### 2026-08-13 08:00:07  #市場 #焦點
+
+布倫特原油突破89美元/桶，日內跌0.66%。
+
+---
+
+### 2026-08-13 07:58:33  #觀點 #國際
+
+【中信證券：海峽通航風險難以徹底化解】中信證券研報認為，美以伊衝突已延宕逾五個月，針對近期市場關注的伊朗-阿曼潛在通航協議，我們認為該協議無法徹底化解海峽通航風險，中東局勢或仍將處於特朗普在 “TACO式退讓”與“惱羞成怒式升級”之間反覆迴圈的僵局之中。究其原因，一來該協議本質是伊朗對美施壓工具，但其強硬態度將直接危及特朗普的政治遺產，因而雙方談判難有進展。二來各方圍繞海峽控制權仍存在結構性矛盾，或難形成長期穩定的管理制度。綜合來看，後續真正具有觀測意義的訊號是美國是否正式啟動制裁豁免、資產解凍及海上封鎖調整。展望後續影響，在中短期，即使各方達成海峽管理安排並解除封鎖，通航量也未必能夠迅速、完全恢復至戰前水平。在有限通航情景下，全球通脹壓力仍在，但極端風險可控。在長期，圍繞霍爾木茲海峽的博弈顯示美國維護全球秩序的能力和意願正加速衰落，並將推動中東地緣格局與全球供應鏈加速重構。
+
+---
+
+### 2026-08-13 07:58:22  #Trading Economics #Economy #Japan #Producer Prices Change #Importance 1
+
+Japan Producer Prices Rise Less than Estimated — Japan’s producer prices rose 7.2% year-on-year in July 2026, easing slightly from a marginally revised 7.3% increase in the prior month, which had been the fastest pace in more than three years. The latest reading came in slightly below market expectations of 7.4%. On a monthly basis, producer prices edged up 0.1%, slowing sharply from an upwardly revised 0.5% gain in June and marking the weakest monthly gain in five months.
+
+---
+
+### 2026-08-13 07:58:21  #MKT News
+
+Washington Post, citing US officials, reports that during President Trump’s visit to Turkey Israel provided intelligence indicating his life was at risk; officials say the warnings may have been intended to influence his decision-making.
+
+---
+
+### 2026-08-13 07:57:57  #公司 #國際
+
+【美最高法院簽發一日臨時暫停令，蘋果獲延期提交App Store費率方案】當地時間8月12日，美國最高法院大法官埃琳娜·卡根簽發了一項行政暫停令，宣佈暫時凍結加州聯邦地區法院關於蘋果公司與《堡壘之夜》開發商Epic Games之間長期反壟斷訴訟的下級審理程式。此舉旨在為最高法院爭取更多審議時間，以決定是否批准蘋果提出的長期暫停下級法院進一步訴訟行動的申請。不過，這項臨時暫停令僅為期一天，將訴訟程式凍結至華盛頓時間13日下午5點，使蘋果暫時免於在原定12日截止日前向地區法院提交費率方案。
+
+---
+
+### 2026-08-13 07:56:13  #其他
+
+委內瑞拉政府和反對派同意改革最高法院法律。
+
+---
+
+### 2026-08-13 07:55:17  #市場 #央行 #國際
+
+【印度7月通脹率升至4.45% 但不太可能促使央行在未來幾個月加息】受食品價格上漲推動，印度7月份的零售通脹率上升，但仍不太可能促使印度央行在未來幾個月內加息。7月消費者物價指數較上年同期上漲4.45%，連續第二個月高於印度央行設定的4%中期目標，且與媒體此前預測的4.5%基本持平。不過，7月份的通脹率仍在印度央行設定的2%-6%容忍區間內。印度央行上週維持指標政策利率不變，等待更明確的證據以判斷通脹壓力是否已變得更為廣泛。這使印度與印尼、菲律賓等地區經濟體形成對比，這些經濟體因能源價格上漲和匯率波動已相繼加息。“印度央行眼下仍有條件保持耐心，但不會一直如此，”牛津經濟研究院的首席經濟學家Alexandra Hermann Prasad表示。“越來越多證據表明，第二輪通脹效應正在形成，中期通脹預期也在上升，這使得供給衝擊越來越難以被忽視。我們預計政策制定者將在10月按兵不動，但會在12月加息25個基點。”
+
+---
+
+### 2026-08-13 07:54:00  #市場 #焦點
+
+紐約期金突破4470美元/盎司，日內漲0.04%。
+
+---
+
+### 2026-08-13 07:53:41  #其他
+
+委內瑞拉國民議會主席豪爾赫·羅德里格斯：政府與反對派首輪會談結束。
+
+---
+
+### 2026-08-13 07:52:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%.
 
 ---
 
@@ -18227,227 +18377,5 @@ U.S. 3-year Treasury auction on Aug. 11 — awarded yield 4.291%, up from 4.18% 
 ### 2026-08-12 01:03:17  #MKT News #Economic Calendar
 
 United States | 3-Year Note Auction High Yield Rate (Aug.11) | actual 4.291% | previous 4.18%
-
----
-
-### 2026-08-12 01:02:58  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 3-year Treasury auction on Aug 11 posted a bid-cover ratio of 2.71, versus 2.6 previously.
-
----
-
-### 2026-08-12 01:02:48  #MKT News #Economic Calendar
-
-United States | 3-Year Note Auction Bid/Cover Ratio (Aug.11) | actual 2.71 | previous 2.6
-
----
-
-### 2026-08-12 01:02:44  #市場 #國際
-
-美國3年期國債中標收益率4.291%，發行前虛盤交易收益率為4.296%。
-
----
-
-### 2026-08-12 01:02:23  #宏觀 #市場 #國際
-
-美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。
-
----
-
-### 2026-08-12 01:02:05  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
-
-Romanian defence minister said Romanian forces destroyed two "Gerbera"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project.
-
----
-
-### 2026-08-12 01:01:45  #其他
-
-Meta：Threads現已在Meta Quest上作為原生VR應用推出。
-
----
-
-### 2026-08-12 01:01:20  #市場
-
-巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。
-
----
-
-### 2026-08-12 01:00:55  #MKT News #WTI #Impact bullish #Brent
-
-Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks.
-
----
-
-### 2026-08-12 01:00:15  #MKT News
-
-IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million.
-
----
-
-### 2026-08-12 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。
-
----
-
-### 2026-08-12 00:59:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels.
-
----
-
-### 2026-08-12 00:58:47  #MKT News
-
-SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS.
-
----
-
-### 2026-08-12 00:58:42  #焦點 #國際
-
-美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。
-
----
-
-### 2026-08-12 00:58:35  #其他
-
-國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。
-
----
-
-### 2026-08-12 00:56:31  #MKT News #Market Themes #AI Revolution
-
-SPACEXAI launched Grok bot.
-
----
-
-### 2026-08-12 00:56:29  #其他
-
-SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。
-
----
-
-### 2026-08-12 00:56:05  #MKT News #Market Themes #The Trump Trade
-
-CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week.
-
----
-
-### 2026-08-12 00:55:47  #公司
-
-利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。
-
----
-
-### 2026-08-12 00:55:05  #MKT News #Important #WTI #Impact bearish #Brent
-
-The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production.
-
----
-
-### 2026-08-12 00:54:12  #焦點 #國際
-
-美國能源資訊署（EIA）目前認為，近期途經曼德海峽運輸沙特石油的船隻遭遇的威脅並未導致產油設施停產。
-
----
-
-### 2026-08-12 00:54:04  #國際
-
-加拿大與美國貿易官員正在擬定潛在協議，計劃下週提交給特朗普。
-
----
-
-### 2026-08-12 00:53:49  #其他
-
-羅馬尼亞國防部長稱，在黑海專屬經濟區內、靠近海王星深海海上天然氣專案的空域擊落兩架無人機。
-
----
-
-### 2026-08-12 00:52:21  #國際
-
-美國能源資訊署預計，7月份中東原油停產規模平均為每日550萬桶。
-
----
-
-### 2026-08-12 00:49:50  #其他
-
-英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。
-
----
-
-### 2026-08-12 00:43:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d.
-
----
-
-### 2026-08-12 00:41:20  #焦點 #國際
-
-美國能源資訊署（EIA）預計，2026年全球石油產量將為每日1.008億桶，此前預測為每日1.019億桶；2027年全球石油產量預計為每日1.097億桶，此前預測為每日1.098億桶。
-
----
-
-### 2026-08-12 00:39:05  #其他
-
-哥倫比亞國家咖啡聯合會負責人：地震發生後哥倫比亞咖啡出口基本陷入停滯。
-
----
-
-### 2026-08-12 00:37:42  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Peru's Ministry of Energy and Mines said June copper production fell 4.7% YoY to 218,232 tonnes.
-
----
-
-### 2026-08-12 00:37:37  #國際
-
-巴基斯坦內政部長賽義德·穆赫辛·納克維抵達德黑蘭，與伊朗官員舉行會談。
-
----
-
-### 2026-08-12 00:36:00  #其他
-
-秘魯能源和礦業部：6月秘魯銅產量同比下降4.7%，至218,232噸。
-
----
-
-### 2026-08-12 00:35:56  #其他
-
-OpenAI特別專案負責人布拉德·萊特卡普離職。
-
----
-
-### 2026-08-12 00:34:49  #國際
-
-OpenAI：ChatGPT廣告現已登陸英國、墨西哥、巴西、日本、韓國。
-
----
-
-### 2026-08-12 00:34:28  #其他
-
-OpenAI：今年將繼續向更多市場拓展業務。
-
----
-
-### 2026-08-12 00:34:23  #國際
-
-美國能源資訊署（EIA）目前預計，2027年布倫特原油現貨均價將為每桶69.39美元，此前的預測值為每桶64.76美元。
-
----
-
-### 2026-08-12 00:32:09  #MKT News #Market Themes #AI Revolution
-
-The Information reports OpenAI special projects head and former chief operating officer Brad Lightcap is set to depart the company.
-
----
-
-### 2026-08-12 00:32:06  #國際
-
-美國能源資訊署(EIA)目前預計，2027年美國WTI原油現貨均價為每桶65.39美元，此前預測為每桶60.76美元。
-
----
-
-### 2026-08-12 00:29:40  #國際
-
-美國能源資訊署（EIA）目前預計2026年美國西德克薩斯中質原油（WTI）現貨均價為每桶80.88美元，此前預測值為每桶76.26美元。
 
 ---

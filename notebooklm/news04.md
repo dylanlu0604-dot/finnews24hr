@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 06:55:40_
-_本檔包含 3192 則快訊，約 603433 字_
+_更新時間：2026-08-16 07:32:12_
+_本檔包含 3209 則快訊，約 603738 字_
+
+---
+
+### 2026-08-12 01:02:58  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 3-year Treasury auction on Aug 11 posted a bid-cover ratio of 2.71, versus 2.6 previously.
+
+---
+
+### 2026-08-12 01:02:48  #MKT News #Economic Calendar
+
+United States | 3-Year Note Auction Bid/Cover Ratio (Aug.11) | actual 2.71 | previous 2.6
+
+---
+
+### 2026-08-12 01:02:44  #市場 #國際
+
+美國3年期國債中標收益率4.291%，發行前虛盤交易收益率為4.296%。
+
+---
+
+### 2026-08-12 01:02:23  #宏觀 #市場 #國際
+
+美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。
+
+---
+
+### 2026-08-12 01:02:05  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
+
+Romanian defence minister said Romanian forces destroyed two "Gerbera"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project.
+
+---
+
+### 2026-08-12 01:01:45  #其他
+
+Meta：Threads現已在Meta Quest上作為原生VR應用推出。
+
+---
+
+### 2026-08-12 01:01:20  #市場
+
+巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。
+
+---
+
+### 2026-08-12 01:00:55  #MKT News #WTI #Impact bullish #Brent
+
+Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks.
+
+---
+
+### 2026-08-12 01:00:15  #MKT News
+
+IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million.
+
+---
+
+### 2026-08-12 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。
+
+---
+
+### 2026-08-12 00:59:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels.
+
+---
+
+### 2026-08-12 00:58:47  #MKT News
+
+SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS.
+
+---
+
+### 2026-08-12 00:58:42  #焦點 #國際
+
+美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。
+
+---
+
+### 2026-08-12 00:58:35  #其他
+
+國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。
+
+---
+
+### 2026-08-12 00:56:31  #MKT News #Market Themes #AI Revolution
+
+SPACEXAI launched Grok bot.
+
+---
+
+### 2026-08-12 00:56:29  #其他
+
+SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。
+
+---
+
+### 2026-08-12 00:56:05  #MKT News #Market Themes #The Trump Trade
+
+CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week.
+
+---
+
+### 2026-08-12 00:55:47  #公司
+
+利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。
+
+---
+
+### 2026-08-12 00:55:05  #MKT News #Important #WTI #Impact bearish #Brent
+
+The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production.
+
+---
+
+### 2026-08-12 00:54:12  #焦點 #國際
+
+美國能源資訊署（EIA）目前認為，近期途經曼德海峽運輸沙特石油的船隻遭遇的威脅並未導致產油設施停產。
+
+---
+
+### 2026-08-12 00:54:04  #國際
+
+加拿大與美國貿易官員正在擬定潛在協議，計劃下週提交給特朗普。
+
+---
+
+### 2026-08-12 00:53:49  #其他
+
+羅馬尼亞國防部長稱，在黑海專屬經濟區內、靠近海王星深海海上天然氣專案的空域擊落兩架無人機。
+
+---
+
+### 2026-08-12 00:52:21  #國際
+
+美國能源資訊署預計，7月份中東原油停產規模平均為每日550萬桶。
+
+---
+
+### 2026-08-12 00:49:50  #其他
+
+英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。
+
+---
+
+### 2026-08-12 00:43:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d.
+
+---
+
+### 2026-08-12 00:41:20  #焦點 #國際
+
+美國能源資訊署（EIA）預計，2026年全球石油產量將為每日1.008億桶，此前預測為每日1.019億桶；2027年全球石油產量預計為每日1.097億桶，此前預測為每日1.098億桶。
+
+---
+
+### 2026-08-12 00:39:05  #其他
+
+哥倫比亞國家咖啡聯合會負責人：地震發生後哥倫比亞咖啡出口基本陷入停滯。
+
+---
+
+### 2026-08-12 00:37:42  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+Peru's Ministry of Energy and Mines said June copper production fell 4.7% YoY to 218,232 tonnes.
+
+---
+
+### 2026-08-12 00:37:37  #國際
+
+巴基斯坦內政部長賽義德·穆赫辛·納克維抵達德黑蘭，與伊朗官員舉行會談。
+
+---
+
+### 2026-08-12 00:36:00  #其他
+
+秘魯能源和礦業部：6月秘魯銅產量同比下降4.7%，至218,232噸。
+
+---
+
+### 2026-08-12 00:35:56  #其他
+
+OpenAI特別專案負責人布拉德·萊特卡普離職。
+
+---
+
+### 2026-08-12 00:34:49  #國際
+
+OpenAI：ChatGPT廣告現已登陸英國、墨西哥、巴西、日本、韓國。
+
+---
+
+### 2026-08-12 00:34:28  #其他
+
+OpenAI：今年將繼續向更多市場拓展業務。
+
+---
+
+### 2026-08-12 00:34:23  #國際
+
+美國能源資訊署（EIA）目前預計，2027年布倫特原油現貨均價將為每桶69.39美元，此前的預測值為每桶64.76美元。
+
+---
+
+### 2026-08-12 00:32:09  #MKT News #Market Themes #AI Revolution
+
+The Information reports OpenAI special projects head and former chief operating officer Brad Lightcap is set to depart the company.
+
+---
+
+### 2026-08-12 00:32:06  #國際
+
+美國能源資訊署(EIA)目前預計，2027年美國WTI原油現貨均價為每桶65.39美元，此前預測為每桶60.76美元。
+
+---
+
+### 2026-08-12 00:29:40  #國際
+
+美國能源資訊署（EIA）目前預計2026年美國西德克薩斯中質原油（WTI）現貨均價為每桶80.88美元，此前預測值為每桶76.26美元。
 
 ---
 
@@ -19110,125 +19332,5 @@ According to The Information, Microsoft believes the MAIA chip can run both its 
 ### 2026-08-10 21:02:26  #MKT News
 
 The Information reports Microsoft plans to expand internal deployment of its MAIA model and intensify efforts to win large enterprise customers.
-
----
-
-### 2026-08-10 21:02:20  #其他
-
-微軟認為Maia晶片能以更低成本執行內部及OpenAI模型。
-
----
-
-### 2026-08-10 21:02:11  #其他
-
-微軟計劃 “大幅” 提高 AI 晶片產量。
-
----
-
-### 2026-08-10 21:02:05  #MKT News #Important #MSFT.O #Impact bullish
-
-According to The Information, Microsoft plans to release its next-generation MAIA 300 AI chip in September.
-
----
-
-### 2026-08-10 21:01:50  #MKT News
-
-【DRC Ebola cases top 4,200; fatality rate 45.5%】DRC health ministry said on the 10th the current Bundibugyo ebolavirus outbreak has 4,209 confirmed cases and 1,916 deaths, a case fatality rate of 45.5%. The World Health Organization said transmission began earlier than publicly reported: genomic sequencing suggests the virus may have been circulating silently as early as February, months before the government’s May 15 announcement. WHO warned the outbreak is accelerating and called for urgent strengthening of control measures. Authorities have shifted from traditional contact tracing to door‑to‑door, community‑wide screening for hidden cases and said expanded screening could cause the outbreak to worsen in the coming weeks.
-
----
-
-### 2026-08-10 21:01:44  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-The Information reports Microsoft (MSFT.O)'s in-house AI chip project, after a slow start, is showing signs of revival.
-
----
-
-### 2026-08-10 21:01:38  #其他
-
-北美建築工會、貝萊德與人工智慧基礎設施合作伙伴簽署諒解備忘錄。
-
----
-
-### 2026-08-10 21:00:54  #公司
-
-RTX旗下的雷神公司獲得了一份價值7.45億美元的SM-3 IIA攔截導彈合同。
-
----
-
-### 2026-08-10 21:00:42  #市場 #國際
-
-【英媒稱極右翼利用美國社媒製造對立】英國《衛報》當地時間8月9日的報道指出，關於英國今年6月發生的兩起騷亂事件，美國企業家馬斯克旗下社交媒體平臺X上流量最高的帖文有相當數量源自美國賬號，該平臺已成為外國極右翼勢力製造輿論對立的武器。今年6月8日，英國北愛爾蘭首府貝爾法斯特發生一起惡性持刀襲擊事件，嫌疑人為一名蘇丹裔男子。案發後，記錄襲擊過程的影片在社交媒體上廣泛傳播，極右翼人士煽風點火，引發巨大震動。貝爾法斯特隨後發生“打砸搶”。同月，在英格蘭南部城市南安普敦，也發生一起嫌疑人為印度裔的兇殺案，18歲白人少年諾瓦克遇害，當地反移民情緒被點燃，爆發大規模騷亂。 在這兩起事件後的輿論動盪中，社交媒體均起到推波助瀾的作用。《衛報》的分析資料顯示，在X平臺釋出兩地騷亂內容、且單帖瀏覽量破千的8672個賬號中，45.3%的網路IP地址在英國，16.8%位於美國；瀏覽量最高的12條帖文中有7條來自美國賬號，其中一條由馬斯克本人發出。（CCTV國際時訊）
-
----
-
-### 2026-08-10 21:00:35  #市場 #焦點
-
-純鹼連續主力合約日內漲1%，現報969.00元。
-
----
-
-### 2026-08-10 21:00:18  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #WTI #Impact bullish #Brent
-
-China's night session opened with most-active domestic futures higher. Low-sulfur fuel oil (LU) gained nearly 2%; fuel oil, SC crude, LPG, methanol, bitumen and polypropylene rose more than 1%. Glass, rapeseed meal and pulp eased slightly.
-
----
-
-### 2026-08-10 21:00:07  #市場 #焦點
-
-玻璃連續主力合約日內跌1%，現報883.00元。
-
----
-
-### 2026-08-10 21:00:03  #市場
-
-【國內期貨夜盤開盤】集運指數歐線期貨連續跌4.55%，碳酸鋰連續漲2.87%，多晶矽連續跌2.54%，低硫燃料油連續漲1.64%，燃料油連續漲1.60%。
-
----
-
-### 2026-08-10 21:00:00  #其他
-
-8月7日聯邦基金有效利率為3.63%，與8月6日持平。
-
----
-
-### 2026-08-10 20:58:58  #MKT News #INTC.O #Impact bearish
-
-Intel (INTC.O) shares fell as much as 5.3% in pre-market trading.
-
----
-
-### 2026-08-10 20:57:44  #公司
-
-【恆逸石化：擬投資6.87億元建設年產30萬噸廢舊紡織品迴圈利用專案】恆逸石化公告，公司子公司海寧恆逸新材料有限公司擬投資建設“年產30萬噸廢舊紡織品迴圈利用專案”，專案預計總投資6.87億元人民幣，專案建成後將形成30萬噸/年綠色迴圈新材料及10萬噸/年葡萄糖產能，專案建設週期為15個月。
-
----
-
-### 2026-08-10 20:56:13  #其他
-
-【苕溪發生今年第1號洪水 杭州餘杭北湖開閘分洪】受今年第13號颱風“白海豚”影響，浙江多流域發生編號洪水。10日凌晨，位於浙江北部的苕溪發生2026年第1號洪水。10日早上，杭州市餘杭區啟用北湖滯洪區，北湖分洪閘6個閘門全部開啟，透過分洪削峰，緩解東苕溪流域嚴峻防洪壓力。（新華社）
-
----
-
-### 2026-08-10 20:55:19  #觀點
-
-紐交所內容更新：高盛資產管理推出兩隻全新交易所交易基金。
-
----
-
-### 2026-08-10 20:54:29  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose above $79/bbl, up 3.5% intraday.
-
----
-
-### 2026-08-10 20:53:47  #公司
-
-【老百姓：擬4000萬-8000萬元回購股份用於員工持股計劃】老百姓公告稱，公司於2026年8月10日召開董事會，審議透過以集中競價交易方式回購股份的議案。回購金額不低於4000萬元且不超過8000萬元，回購價格不超過18.08元/股，回購期限不超12個月。回購股份擬用於員工持股計劃，若36個月內未用完，未使用部分將登出。公司董監高、控股股東等未來3個月、6個月暫無減持計劃。回購存在價格、經營等因素導致無法實施或變更的風險。
-
----
-
-### 2026-08-10 20:53:37  #公司
-
-【恆逸石化：2026年上半年營收673.09億元 淨利潤同比增25倍】恆逸石化公告稱，2026年上半年營收673.09億元，同比增長20.28%；淨利潤59.02億元，同比增長2500.73%；扣非淨利潤58.86億元，同比增長3838.89%。經營活動現金流淨額為-4.88億元，同比下降168.78%。公司擬以實施權益分派股權登記日的總股本扣除回購專用證券賬戶中的持股數量為基數，向全體股東每10股派發現金紅利9元(含稅)。
 
 ---
