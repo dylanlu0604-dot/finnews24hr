@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 03:01:45",
-  "count": 15263,
+  "updated": "2026-08-16 03:05:37",
+  "count": 15265,
   "items": [
+    {
+      "id": "mkt:01a006cf-5963-7aab-904a-d06ca7e1d1b3",
+      "time": "2026-08-16 03:04:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV quoted Marib local authorities saying an attack injured people and damaged civilians' homes, vehicles and other property."
+    },
+    {
+      "id": "mkt:01a006ce-dcb0-7aab-904a-cd42c25cf7da",
+      "time": "2026-08-16 03:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported Marib, Yemen local authorities said Houthi forces fired four ballistic missiles and four drones at residential areas."
+    },
     {
       "id": "5042423",
       "time": "2026-08-16 02:46:12",
