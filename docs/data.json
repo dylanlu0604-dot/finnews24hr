@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-16 02:15:41",
+  "updated": "2026-08-16 02:19:30",
   "count": 15267,
   "items": [
+    {
+      "id": "mkt:01a006a4-97b1-7aab-904a-8d43786d6a3a",
+      "time": "2026-08-16 02:17:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front."
+    },
+    {
+      "id": "5042416",
+      "time": "2026-08-16 02:17:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。"
+    },
+    {
+      "id": "mkt:01a006a3-ce46-7aab-904a-800d9899c487",
+      "time": "2026-08-16 02:16:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon."
+    },
     {
       "id": "5042415",
       "time": "2026-08-16 02:14:46",
@@ -139751,34 +139780,6 @@
         "MKT News"
       ],
       "text": "A State Duma lawmaker said the Middle East is gradually freeing itself from Western control and becoming part of a broader Eurasian security architecture."
-    },
-    {
-      "id": "mkt:019fe297-c13d-7aab-8fc5-ca3acdcb0a27",
-      "time": "2026-08-09 02:17:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【M5.6 earthquake offshore Iwate, Japan; no tsunami expected】Japan Meteorological Agency said a magnitude-5.6 earthquake struck offshore Iwate Prefecture at 02:58 JST on the 9th (01:58 Beijing). Epicenter was near 40.1N, 142.4E with a focal depth of about 40 km. The agency said there is no tsunami threat."
-    },
-    {
-      "id": "mkt:019fe297-8f8a-7aab-8fc5-c03052ea0236",
-      "time": "2026-08-09 02:16:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Vance: Iran told U.S. it has no plan to levy Strait of Hormuz transit fees】U.S. Vice President JD Vance told Fox News Iran has informed Washington it currently has no plan to impose transit fees on the Strait of Hormuz. He said some within the Iranian establishment discuss levies, but Tehran has denied any plan. Vance added Washington expects Gulf oil and gas exports to return to pre-war levels, that Gulf states share that objective, and that the U.S. will judge actions rather than words."
-    },
-    {
-      "id": "5032091",
-      "time": "2026-08-09 02:15:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本巖手縣近海發生5.6級地震】據日本氣象廳訊息，日本巖手縣近海9日凌晨發生5.6級地震。日本氣象廳說，地震發生於當地時間9日2時58分（北京時間9日1時58分）左右，震中位於北緯40.1度、東經142.4度，震源深度約40公里。日本氣象廳說，目前無需擔心發生海嘯災害。（新華社）"
     }
   ]
 }

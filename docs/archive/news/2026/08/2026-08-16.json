@@ -1,7 +1,36 @@
 {
   "date": "2026-08-16",
-  "count": 43,
+  "count": 46,
   "items": [
+    {
+      "id": "mkt:01a006a4-97b1-7aab-904a-8d43786d6a3a",
+      "time": "2026-08-16 02:17:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front."
+    },
+    {
+      "id": "5042416",
+      "time": "2026-08-16 02:17:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。"
+    },
+    {
+      "id": "mkt:01a006a3-ce46-7aab-904a-800d9899c487",
+      "time": "2026-08-16 02:16:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon."
+    },
     {
       "id": "5042415",
       "time": "2026-08-16 02:14:46",
