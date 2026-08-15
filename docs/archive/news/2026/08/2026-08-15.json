@@ -1,7 +1,28 @@
 {
   "date": "2026-08-15",
-  "count": 451,
+  "count": 453,
   "items": [
+    {
+      "id": "mkt:01a00313-fb50-7aab-9047-0394c7b0e4b3",
+      "time": "2026-08-15 09:40:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UAE says ADNOC vessel attacked in Strait of Hormuz】ADNOC said on the 15th that one of its vessels was attacked on the evening of the 14th while transiting the Strait of Hormuz; there were no casualties. ADNOC is the UAE state oil and gas company. The UAE has repeatedly reported attacks on its vessels in the strait; the UAE foreign ministry said in the early hours of the 14th that two ADNOC tankers were attacked by Iran on the night of the 13th."
+    },
+    {
+      "id": "5042097",
+      "time": "2026-08-15 09:38:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：歐洲野火肆虐，僅法國就有474人因涉嫌縱火被捕】據英國《衛報》8月14日報道，在歐洲野火肆虐的背景下，法國內政部公佈，自7月1日以來，該國已逮捕474名涉嫌縱火的人。據報道，被捕的474人中183人為未成年人。約70%被捕者涉嫌故意縱火，其餘則為意外縱火。《衛報》提到，法國一名15歲男孩7月曾因涉嫌縱火被捕，他引發的火災導致兩名消防員殉職。（環球網）"
+    },
     {
       "id": "5042096",
       "time": "2026-08-15 09:34:44",

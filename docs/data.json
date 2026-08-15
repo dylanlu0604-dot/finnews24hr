@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-15 09:38:22",
+  "updated": "2026-08-15 09:42:13",
   "count": 15281,
   "items": [
+    {
+      "id": "mkt:01a00313-fb50-7aab-9047-0394c7b0e4b3",
+      "time": "2026-08-15 09:40:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UAE says ADNOC vessel attacked in Strait of Hormuz】ADNOC said on the 15th that one of its vessels was attacked on the evening of the 14th while transiting the Strait of Hormuz; there were no casualties. ADNOC is the UAE state oil and gas company. The UAE has repeatedly reported attacks on its vessels in the strait; the UAE foreign ministry said in the early hours of the 14th that two ADNOC tankers were attacked by Iran on the night of the 13th."
+    },
+    {
+      "id": "5042097",
+      "time": "2026-08-15 09:38:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：歐洲野火肆虐，僅法國就有474人因涉嫌縱火被捕】據英國《衛報》8月14日報道，在歐洲野火肆虐的背景下，法國內政部公佈，自7月1日以來，該國已逮捕474名涉嫌縱火的人。據報道，被捕的474人中183人為未成年人。約70%被捕者涉嫌故意縱火，其餘則為意外縱火。《衛報》提到，法國一名15歲男孩7月曾因涉嫌縱火被捕，他引發的火災導致兩名消防員殉職。（環球網）"
+    },
     {
       "id": "5042096",
       "time": "2026-08-15 09:34:44",
@@ -139927,24 +139948,6 @@
         "公司"
       ],
       "text": "【武漢將新增一座高鐵站】據湖北釋出，根據《新建合肥至武漢高速鐵路長江新區站站房工程及天河站站區相關工程HWZF-1(HBSJ-202401TL-010023001)資審檔案公告》，長江新區站計劃開工時間和竣工時間均已明確：計劃開工日期2026年9月1日，計劃竣工日期2028年6月30日，計劃工期668日曆天。長江新區站位於武漢中北部，北靠黃陂區，南依長江新城。車站西距武漢天河站22.86km，東距紅安站24.726km。"
-    },
-    {
-      "id": "5031766",
-      "time": "2026-08-08 09:39:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據知情人士稱，英偉達將透過首筆20億美元的投資獲得Lancium 20%的股權，如果Lancium達到某些閾值，其持股比例可能隨再追加的10億美元投資而增加。"
-    },
-    {
-      "id": "5031765",
-      "time": "2026-08-08 09:38:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤日內漲超2%，現報2.6815美元。"
     }
   ]
 }
