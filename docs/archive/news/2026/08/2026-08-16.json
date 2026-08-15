@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-16",
+  "count": 2,
+  "items": [
+    {
+      "id": "mkt:01a0062b-2efc-7aab-9049-afb238aaede6",
+      "time": "2026-08-16 00:04:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Yemen's Mokha port manager said the port suspended operations after an attack by Houthi militants."
+    },
+    {
+      "id": "5042399",
+      "time": "2026-08-16 00:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》上映19天， 總票房破14億。"
+    }
+  ]
+}
