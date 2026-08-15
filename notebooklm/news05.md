@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:53:07_
-_本檔包含 2757 則快訊，約 605545 字_
+_更新時間：2026-08-15 20:52:16_
+_本檔包含 2754 則快訊，約 604861 字_
+
+---
+
+### 2026-08-10 19:30:42  #觀點 #國際
+
+【花旗Q2持倉市值突破3000億美元 大舉增持半導體產業鏈】根據美國證券交易委員會(SEC)披露，花旗第二季度持倉總市值達到約3030億美元，上一季度持倉總市值則約為2350億美元。前十大重倉股票標的之中，英偉達仍然位列花旗第一大持倉標的，持倉約6130萬股，整體持倉市值約為123億美元，佔投資組合比例為4.05%，較上季度的持倉數量大幅增加23.00%。蘋果位列第二大持倉，持倉約2529萬股，持倉市值約為73億美元，佔投資組合比例為2.42%，較上季度的持倉數量增加13.57%。微軟位列第三大持倉，持倉約1905萬股，持倉市值約為71億美元，佔投資組合比例為2.35%，較上季度的持倉數量增加14.28%。美光科技位列第四，持倉約530萬股，持倉市值約為61億美元，佔投資組合比例為2.02%，持倉數量較上季度增加11.29%。
+
+---
+
+### 2026-08-10 19:30:17  #公司
+
+【奇安信：擬籤補充協議 無償受讓上海賽連1.4374%股權】奇安信公告稱，8月7日公司董事會同意與上海賽連等就《股東協議》修訂並籤《補充協議》，授權管理層辦理相關事宜。基於協議，Wenhui Yuan、孫文向27名受償投資人補償（總股權補償比例9.5795%），公司及網神將以0對價受讓上海賽連1.4374%股權，上市期限延至2029年12月31日，若未如期上市則恢復原協議履行。事項尚需各方簽約並完成後續工作，最終能否成功實施存在不確定性。
+
+---
+
+### 2026-08-10 19:29:35  #國際
+
+英國藥品和健康產品管理局（MHRA）：已批准Orforglipron（商品名Foundayo），使英國成為歐洲首個批准該GLP-1片劑用於體重管理和2型糖尿病的國家。
+
+---
+
+### 2026-08-10 19:29:22  #國際
+
+【外交部：百餘名菲律賓公民因非法就業、非法居留被依法處理】8月10日外交部發言人郭嘉昆答記者問。有記者問，近期，一些菲律賓籍人員涉嫌違法被查處，能否介紹具體情況？此舉能否解讀為中方對菲律賓頻繁抓扣中國公民的回應？郭嘉昆表示，全國移民管理機構持續深化在華“三非”外國人治理，依法開展專項行動。百餘名菲律賓公民因非法就業、非法居留被依法處理。在專項行動過程中，移民管理工作人員規範文明執法，保障了涉案外籍人員的權益。（央視新聞）
+
+---
+
+### 2026-08-10 19:28:48  #Trading Economics #Markets #Commodity #Importance 1
+
+Silver Holds at 7-Week High — Silver prices were above $63.5 per ounce on Monday, the highest in seven weeks, amid the view that the Federal Reserve is less likely to raise interest rates this year. Nonfarm payrolls unexpectedly dropped in July as the labor force declined. Lesser bets of a rate hike were also supported by oil prices remaining well below their Iran war peaks this year, easing energy inflation. Expectations that financial conditions will not tighten significantly benefited precious metals by decreasing the opportunity cost of holding non-yielding assets. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th.
+
+---
+
+### 2026-08-10 19:28:22  #公司
+
+【今天國際：擬1000萬元參與設立1.4億元投資基金】今天國際公告稱，公司第六屆董事會第三次會議審議透過與專業投資機構合作投資設立投資基金的議案。該基金規模1.4億元，公司作為有限合夥人擬以自有資金認繳1000萬元，佔比7.14%。本次投資符合公司發展戰略和投資方向，不影響正常生產經營，也不與主營業務構成同業競爭。
+
+---
+
+### 2026-08-10 19:27:23  #市場
+
+【SK海力士美股盤前跌超2%】SK海力士美股盤前跌超2%，現報135.123美元。
+
+---
+
+### 2026-08-10 19:27:17  #焦點
+
+【頻準鐳射中籤號出爐：共有6423個】頻準鐳射(688826.SH)披露首次公開發行股票網上中籤結果，中籤號碼共有6423個，每個中籤號碼只能認購500股頻準鐳射A股股票。頻準鐳射發行價為186.88元/股，是A股今年以來發行價最高的新股，中一簽需繳款9.34萬元。
+
+---
+
+### 2026-08-10 19:26:40  #央行 #其他
+
+巴西央行調查：經濟學家將巴西2027年GDP增速預期從此前的1.57%下調至1.52%。
+
+---
+
+### 2026-08-10 19:26:32  #央行 #市場
+
+巴西央行調查：經濟學家預計2026年底巴西雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，與前次預期一致。
+
+---
+
+### 2026-08-10 19:26:25  #央行 #市場
+
+巴西央行調查：經濟學家預測2027年底巴西雷亞爾兌美元匯率將為5.28雷亞爾兌1美元，與此前預期一致。
+
+---
+
+### 2026-08-10 19:26:25  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+【Japan economy minister says spending plan will provide long-term support for yen】Economy Minister Minoru Kiuchi said in a Monday interview Japan’s spending plan will provide long-term support for the yen, rejecting market concerns about the country’s fiscal position. He said fiscal policy “is not as expansionary as you think,” stressing sustainability and calling the approach responsible and proactive. Kiuchi said higher investment and greater demand for yen assets should lift yen demand and that the BOJ has acted appropriately. Market participants remain skeptical about the size of the large spending package and potential government influence on the BOJ. The government’s end-June growth roadmap covers 17 sectors but has not disclosed how much investment will be public versus private.
+
+---
+
+### 2026-08-10 19:26:10  #央行 #其他
+
+巴西央行調查：經濟學家預計2026年底Selic基準利率為13.75%，與前次預估持平。
+
+---
+
+### 2026-08-10 19:26:06  #央行 #其他
+
+巴西央行調查：經濟學家預計2026年巴西國內生產總值將增長1.98%，此前預期為1.99%。
+
+---
+
+### 2026-08-10 19:25:55  #央行 #其他
+
+巴西央行調查：經濟學家預計2027年底Selic基準利率為12.00%，與此前預期一致。
+
+---
+
+### 2026-08-10 19:25:54  #Trading Economics #Economy #Belarus #Inflation Rate #Importance 1
+
+Belarus Inflation Edges Up in July — Belarus’s annual inflation rate edged up to 4.4% in July 2026 from 4.3% in June, driven by faster price growth across several categories. Inflation accelerated for transport (5.3% vs 4.7%), clothing and footwear (2.9% vs 1.9%), furnishings (2.8% vs 2.5%), health (2.8% vs 2.6%), information and communication (1.8% vs 1.3%), recreation, sports and culture (8.4% vs 7.7%) and restaurants and hotels (6.8% vs 6.4%). Meanwhile, inflation held at 10.3% for housing and utilities and 7% for alcoholic beverages and tobacco. In contrast, food inflation eased to 2.3% from 2.7%, while inflation for insurance and financial services slowed slightly to 3.7% from 3.8%. On a monthly basis, consumer prices rose 0.3%, matching the previous month’s increase.
+
+---
+
+### 2026-08-10 19:25:47  #央行 #其他
+
+巴西央行調查：經濟學家預計2027年IPCA年度通脹率將達4.22%，與前次預測持平。
+
+---
+
+### 2026-08-10 19:25:13  #央行 #市場 #國際
+
+【菲律賓央行：外國直接投資大幅下跌至11年以來最低水平】菲律賓央行8月10日最新資料顯示，菲律賓吸引外國直接投資（FDI）在今年5月份僅為2.1億美元，創下該國11年以來單月最低水平。（新華財經）
+
+---
+
+### 2026-08-10 19:23:26  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) premarket gains widened to 2%.
+
+---
+
+### 2026-08-10 19:23:19  #市場
+
+Meta盤前股價漲幅擴大，上漲 2.9%。
+
+---
+
+### 2026-08-10 19:22:28  #公司
+
+【青龍管業：簽訂4.97億元預製構件框架採購協議】青龍管業8月10日公告，公司近日收到與中船海裝風電簽訂的《預製構件框架採購協議》共六份，合同金額合計4.97億元，佔公司2025年度經審計營業總收入的18.91%。合同範圍包括預製構件產品、相關附屬配件及技術服務支援，預計將對公司2026年至2028年業績產生一定影響。
+
+---
+
+### 2026-08-10 19:22:04  #其他
+
+truist證券將西方石油目標股價從57美元上調至63美元。
+
+---
+
+### 2026-08-10 19:21:04  #國際
+
+市場訊息：以色列部隊出動軍用車輛入侵敘利亞庫奈特拉鄉村地區，發動最新一輪越境行動。
+
+---
+
+### 2026-08-10 19:20:22  #其他
+
+亞塞拜然國家統計委員會公佈，該國今年1-7月國內生產總值同比增長1.4%。
+
+---
+
+### 2026-08-10 19:20:20  #其他
+
+【國家發展改革委緊急安排2億元支援浙江颱風災害災後應急恢復】8月9日晚，今年第13號颱風“白海豚”先後在浙江省台州玉環市、溫州樂清市沿海登陸，對浙江省造成嚴重影響。8月10日，國家防減救災委、應急管理部啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和浙江省災害損失情況，國家發展改革委緊急安排中央預算內投資2億元，支援浙江省做好颱風災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（央視新聞）
+
+---
+
+### 2026-08-10 19:19:59  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact mixed
+
+【Hang Seng Indexes Company seeks market input on potential Hang Seng TECH Index revisions】Hang Seng Indexes Company published a consultation paper on potential revisions to the Hang Seng TECH Index, citing an expanding technology segment on the Hong Kong market. Proposed changes would broaden the index's technology thematic scope, revise constituent selection methodology and increase the number of constituents to preserve representativeness. The firm expects to announce the proposed revisions by end-September 2026 and implement them as part of the index review ending September 30, 2026, subject to final approval by the Index Advisory Committee after considering consultation feedback. Any constituent changes would take effect in the December 2026 rebalancing.
+
+---
+
+### 2026-08-10 19:19:57  #公司 #市場
+
+【恒生指數公司：就恒生科技指數可能作出的修訂方案徵詢市場意見】恒生指數公司今日刊發諮詢檔案，就恒生科技指數可能作出的修訂方案徵詢市場意見。因應香港股票市場科技板塊持續擴闊，有關修訂旨在擴大指數的科技主題範圍、調整成份股挑選機制，以及增加成份股數目，以緊貼科技發展，保持該指數的代表性。就恒生科技指數可能作出的修訂，預計將於2026年9月底公佈，並於截至2026年9月30日之指數檢討中實施，仍須指數顧問委員會在考慮諮詢意見後作出最終決定。任何相應的指數成份股變動將於2026年12月的指數調整生效。
+
+---
+
+### 2026-08-10 19:19:17  #公司
+
+【中科飛測：持股 5%以上股東減持致權益變動觸及 1%刻度】中科飛測公告稱，2026 年 5 月 19 日至 8 月 10 日，股東國投創業基金透過集中競價交易和大宗交易方式減持公司股份 279.71 萬股，且因公司限制性股票歸屬登記致總股本增加，其持股比例被動稀釋。該股東持股比例由 7.79%降至 6.95%，權益變動觸及 1%刻度。本次減持系履行已披露計劃，不觸及要約收購，未實施完畢，不會導致控股股東、實控人變化。
+
+---
+
+### 2026-08-10 19:18:26  #其他
+
+崔斯塔證券將康菲石油目標股價從115美元上調至130美元。
+
+---
+
+### 2026-08-10 19:17:18  #公司
+
+【華峰測控：“華峰轉債”轉股價格調整為335.79元/股】華峰測控公告稱，公司完成2024年限制性股票激勵計劃部分股份登記工作，向6名激勵物件定向發行47,072股，公司總股本由200,751,197股變更為200,798,269股。“華峰轉債”的轉股價格由335.86元/股調整為335.79元/股，調整起始日期為2026年8月11日。“華峰轉債”轉股期為2026年12月29日至2032年6月22日，目前未進入轉股期，本次調整不涉及暫停轉股，正常交易不停牌。
+
+---
+
+### 2026-08-10 19:15:36  #市場
+
+標普 500 指數期貨抹去此前漲幅，轉為持平。
+
+---
+
+### 2026-08-10 19:15:22  #國際
+
+【菲律賓碧瑤市山體滑坡事故遇難人數升至7人】據菲律賓碧瑤市政府訊息，碧瑤市的吉薩德蘇隆村於9日晚間發生一起山體滑坡，導致3間房屋被掩埋，有十餘人被困。截至10日17時30分，此次事故的遇難人數上升至7人，有3人獲救，另有3人失蹤。目前搜救行動仍在進行中。（央視新聞）
+
+---
+
+### 2026-08-10 19:14:26  #公司
+
+【友好集團：擬1.63億元租商業房產給京東五星電器 租期14年】友好集團公告稱，公司擬與京東五星電器集團簽訂《租賃合同》，將位於新疆烏魯木齊市沙依巴克區友好南路668號“友好紅山MALL購物中心”地下一層（部分割槽域）至地上四層的自有商業房產租賃給對方，租賃面積33,666.27平方米，租賃期限14年，租金及物業管理費總額為16,281.85萬元。該交易已透過董事會審議，尚需股東會批准。
+
+---
+
+### 2026-08-10 19:13:12  #市場
+
+SIONNA Therapeutics 公佈主要終點更新資料後，盤前股價暴跌 87%
+
+---
+
+### 2026-08-10 19:12:34  #公司
+
+【思特威：股東減持281.61萬股 持股比例降至5.99%】思特威公告稱，持股5%以上股東國家積體電路基金二期減持計劃實施完畢。截至2026年8月10日，其透過集中競價交易減持281.61萬股，佔公司總股本的0.70%，減持價格區間為90.00 - 108.99元/股，減持總金額2.81億元。減持後，該股東持股降至2411.5503萬股，佔總股本比例由6.69%降至5.99%。此次權益變動不觸及要約收購，不涉及控股股東、實控人變化。
+
+---
+
+### 2026-08-10 19:12:02  #公司
+
+【珠免集團：下屬子公司擬出資1020萬元設立合資公司】珠免集團公告，公司下屬子公司珠海市免稅企業集團有限公司擬與珠海大橫琴商業經營管理有限公司、橫琴深合文商旅管理有限公司共同出資設立合資公司，註冊資本2000萬元，其中免稅公司出資1020萬元，持股51%。該合資公司將專項運營橫琴口岸進境免稅店，已獲公司董事會審議透過，無需提交股東會審議。
+
+---
+
+### 2026-08-10 19:11:45  #國際
+
+印度國家銀行完成1億美元高階無擔保Reg-S浮動利率票據的發行。
+
+---
+
+### 2026-08-10 19:11:03  #公司
+
+【博世科：向特定物件發行股票獲證監會同意註冊批覆】博世科公告，公司於2026年8月10日收到中國證券監督管理委員會出具的《關於同意廣西博世科環保科技股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1823號），同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。
 
 ---
 
@@ -16399,251 +16627,5 @@ UKMTO said it had received a report of an incident 18 nautical miles east of Kha
 ### 2026-08-08 20:55:58  #MKT News
 
 【Sources: If Democrats win House, plan probes of Trump business and financial network rather than immediate impeachment】Sources say House Democrats are preparing, if they retake the House, to pursue broad investigations targeting Trump’s business and financial network rather than immediate impeachment. Senior House Democrats and committee staff have discussed using hearings, subpoenas and document requests to obtain records from entities tied to Trump’s political and commercial circle. Planners expect probing private companies and external financial actors will be more effective than directly confronting a White House likely to resist oversight. Democrats envision deploying House investigative powers after the mid-November election to review government decision-making and examine whether Trump used office to benefit himself, allies or donors.
-
----
-
-### 2026-08-08 20:48:38  #MKT News
-
-【Thailand school shooting death toll rises to nine】Local time on the 8th, the school in Nonthaburi province posted on social media mourning a female student killed in the shooting; authorities say the death toll has risen to nine. The attack occurred on the morning of the 7th at a secondary school north of Bangkok; Thai police said the gunman first killed his grandparents at home, then went to the campus, fired 26 rounds before shooting himself, and carried additional ammunition in his bag.
-
----
-
-### 2026-08-08 20:48:30  #國際
-
-美國參議院將於9月15日對《清晰法案》進行投票。
-
----
-
-### 2026-08-08 20:47:02  #MKT News
-
-【Ministry of Water Resources raises Zhejiang flood-defense emergency to Level III】At 18:00 on Aug 8 the Ministry of Water Resources and the China Meteorological Administration issued a red-level mountain-flood meteorological warning for 23 contiguous counties in Zhejiang. At 20:00 the Ministry upgraded Zhejiang's flood-defense emergency response from Level IV to Level III under its flood-drought emergency response procedures, directing local water authorities to closely monitor rainfall and river conditions, strengthen monitoring/forecasting/warning, and conduct rolling joint analysis. The Ministry ordered enforcement of five evacuation responsibilities—who organizes, who moves, when to move, where to move, and no unauthorized returns—and prioritized evacuations and protection plans for water-linked tourist sites, eldercare institutions, resorts and farm stays, construction camps, and flood-prone roads. A Ministry working group has been dispatched to the typhoon, heavy-rain and flood defense frontline in Zhejiang to assist and advise local authorities.
-
----
-
-### 2026-08-08 20:44:25  #MKT News #Star Stocks #Apple #Alibaba #Market Regions #Greater China #Market Themes #China Tech Giants #AI Revolution #Magnificent 7 #AAPL.O #Impact mixed #BABA.N #Impact bullish
-
-【Apple integrates Alibaba's Qianwen into Apple Intelligence; Qianwen available on Mac】Aug 8 — Apple’s website shows Apple Intelligence will integrate Alibaba’s Qianwen model. Qianwen will be bundled into Apple Intelligence to provide text and image understanding and content-generation capabilities to Chinese users on iOS, iPadOS, macOS and visionOS, accessible directly on Apple devices without switching apps. On the same day the Cyberspace Administration of China published record filings for seven client-side mobile generative-AI services, including Apple Intelligence, Huawei’s Xiaoyi large model and OPPO’s AndesGPT large model.
-
----
-
-### 2026-08-08 20:43:59  #市場 #焦點
-
-紐約原油暗盤突破77美元，日內漲超0.5%。
-
----
-
-### 2026-08-08 20:41:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi media Hadas reports Iran's president said decisions to stop or continue the war rest with Iran's military leaders.
-
----
-
-### 2026-08-08 20:35:58  #宏觀
-
-【IMF駐華首席代表：中國服務消費增長強勁，且“後勁十足”】國際貨幣基金組織(IMF)駐華首席代表馬歇爾·米爾斯近日稱，中國服務消費一直在強勁增長，IMF相信該領域仍有相當大的擴充套件空間，這也是隨著經濟體收入水平提高而出現的一種預期趨勢。米爾斯表示，IMF樂見中國政府將政策重點放在擴大內需上，尤其是消費和服務消費。米爾斯認為，從經濟總量看，中國服務業規模佔比及服務消費水平增長潛力可觀。未來，應加快推進已出臺的服務業支援措施，包括降低服務業壁壘、建設全國統一大市場、營造公平競爭環境，這將釋放新需求，而數字化與人工智慧也有望進一步提升服務業生產率。（中國新聞網）
-
----
-
-### 2026-08-08 20:34:30  #公司
-
-【飛天茅臺自營門店價格再度上調，終端售價已漲至1760元/瓶】有訊息稱，飛天茅臺自營店售價已漲至1753元/瓶，7月底該產品在自營門店剛剛上調至1719元/瓶。有經銷商向記者表示，當前飛天茅臺終端售價已漲至1760元/瓶。這已經是茅臺自營門店今年第二次獨立提價。7月底，記者從茅臺自營門店處獲悉，公司自營體系飛天茅臺酒零售價調整為1719元/瓶。值得一提的是，與上一次飛天茅臺酒單品提價不同，除飛天茅臺之外，五星、經典版馬年生肖、精品茅臺三款產品售價也有所上調，分別漲至1743元/瓶、1951元/瓶、2410元/瓶。據瞭解，取消自營體系分銷模式後，茅臺自營體系由線下自營門店與i茅臺構成，銷售貴州茅臺酒全系產品，分別聚焦B端與C端消費群體。如今，兩大渠道執行兩個不同售價，形成線上線下“雙價格體系”。在業內看來，這一系列舉措核心目標在於掌握定價主導權。隨著“i茅臺”的出現，價格主導權已經從經銷商和黃牛手中轉移到廠方。公司可以根據實時動態，調節傳統渠道發貨與i茅臺的供貨節奏，在擠壓灰色炒作空間的同時，為社會渠道保留合理利潤。（每日經濟新聞）
-
----
-
-### 2026-08-08 20:32:32  #MKT News
-
-Saudi media Hadas quoted the Yemeni army as saying Houthi forces shelled densely populated residential areas in Marib.
-
----
-
-### 2026-08-08 20:31:14  #其他
-
-【內蒙古自治區體育局原黨組成員、副局長吳剛嚴重違紀違法被開除黨籍】經查，吳剛喪失理想信念，背棄初心使命，無視中央八項規定精神，廉潔底線失守，收受管理和服務物件禮品、禮金，借用管理和服務物件車輛、錢款；組織原則缺失，不按規定報告個人有關事項；工作中不負責任、疏於管理，對上級決策部署督促推動不到位，造成工程施工嚴重拖延，干預插手工程專案招投標；踐踏黨紀國法，將公權力異化為謀取私利的工具，利用職務便利和職權地位形成的便利條件，為他人在承攬專案、結算款項等方面謀取利益，並非法收受財物。（介面新聞）
-
----
-
-### 2026-08-08 20:29:16  #MKT News #BRK.A #Impact bullish
-
-Berkshire Hathaway A (BRK.A) repurchased over $3.3 billion of company stock from the start of Q3 (July 1) through July 29.
-
----
-
-### 2026-08-08 20:29:12  #其他
-
-【浙江省水利廳將水旱災害防禦（防颱）應急響應提升至Ⅰ級】記者從浙江省水利廳瞭解到，今年第13號颱風“白海豚”預計將於9日傍晚至10日早晨在溫州到寧波一帶沿海登陸。浙江省水利廳決定於8日20時將水旱災害防禦（防颱）應急響應提升至Ⅰ級。並提醒各地水利部門強化值班值守，加密監測預報預警，科學排程水利工程，以頂格標準落實各項防禦措施。（央視新聞）
-
----
-
-### 2026-08-08 20:27:12  #其他
-
-【一無人機自羅馬尼亞方向進入保加利亞後爆炸】保加利亞總理拉德夫8日說，一架無人機當天自羅馬尼亞方向進入保加利亞領空並在該國境內爆炸，但未造成人員傷亡。（新華社）
-
----
-
-### 2026-08-08 20:25:37  #其他
-
-伯克希爾哈撒韋：截至7月29日，第三季度已有超33億美元用於回購伯克希爾股票。
-
----
-
-### 2026-08-08 20:25:02  #MKT News #BRK.A.N #Impact bullish
-
-【Berkshire Hathaway spent about $4.5 bln on share buybacks in Q2, first in over a year】Berkshire Hathaway A (BRK.A.N) said it repurchased roughly $4.5 bln of stock in Q2, the first buybacks in over a year after the company resumed repurchases in Q1. CEO Greg Abel said top executives restarted buybacks because they believed the shares' intrinsic value exceeded the market price. Berkshire shares were up 3.8% YTD as of Friday's close.
-
----
-
-### 2026-08-08 20:22:33  #MKT News #Important #Star Stocks #Apple #Alphabet #Market Themes #Magnificent 7 #AAPL.O #BAC.O #GOOG.N
-
-【Berkshire Hathaway Q2 net income rises sharply; cash reserves fall】Berkshire Hathaway A (BRK.A.N) reported Q2 2026 revenue of $12.983 bln, down from $92.515 bln a year earlier, and net income attributable to shareholders of $25.667 bln versus $12.37 bln a year ago. Cash and equivalents fell to $364.7 bln from $397.0 bln at end‑Q1. Fair value of fixed‑income investments totaled $17.034 bln, comprising $3.002 bln in US Treasuries, $12.668 bln in foreign bonds and $1.364 bln in corporate bonds. Sixty‑six percent of the fair value of equity holdings is concentrated in American Express, Apple, Bank of America, Alphabet and Coca‑Cola.
-
----
-
-### 2026-08-08 20:17:22  #其他
-
-【水利部將針對浙江省的洪水防禦應急響應提升至Ⅲ級】8月8日18時，水利部和中國氣象局聯合對浙江省23個連片縣（市、區）釋出紅色山洪災害氣象預警，根據《水利部水旱災害防禦應急響應工作規程》，水利部於8月8日20時將針對浙江省洪水防禦Ⅳ級應急響應提升至Ⅲ級，督促指導地方水利部門密切監視雨情水情發展變化，強化監測預報預警，滾動會商分析研判，夯實人員轉移避險“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施，聚焦涉水旅遊景區、養老機構、休閒度假場所、農家樂、施工營地、易受洪水衝擊的交通道路等關鍵區域，落實人員轉移避險方案，全力確保人民群眾生命安全。目前，水利部派出的工作組正在浙江省颱風暴雨洪水防禦一線協助指導。（央視新聞）
-
----
-
-### 2026-08-08 20:16:04  #MKT News #Star Stocks #Apple #Alphabet #Market Themes #Magnificent 7 #AAPL.O #BAC.N #GOOGL.O
-
-Berkshire Hathaway A (BRK.A.N): As of June 30, 66% of the fair value of its equity investments was concentrated in American Express, Apple, Bank of America, Alphabet and Coca-Cola.
-
----
-
-### 2026-08-08 20:14:26  #MKT News #BRK.A.N
-
-Berkshire Hathaway A (BRK.A.N) cash reserves fell to $365.51 billion at end-Q2 2026.
-
----
-
-### 2026-08-08 20:14:18  #公司 #國際
-
-伯克希爾哈撒韋：截至6月30日，股權投資公允價值總額的66%集中在美國運通、蘋果、美國銀行、Alphabet及可口可樂這五家公司。
-
----
-
-### 2026-08-08 20:12:57  #市場
-
-伯克希爾哈撒韋(BRK.A.N)2025年全年末持有的固定收益證券投資公允價值達170.34億美元，其中，對美債、外國債券、企業債券的投資公允價值分別為30.02億美元，126.68億美元，13.64億美元。
-
----
-
-### 2026-08-08 20:12:43  #MKT News
-
-Berkshire Hathaway (BRK.A.N) held $17.034 billion in fixed-income securities at year-end 2025; fair values were $3.002 billion in U.S. Treasuries, $12.668 billion in foreign bonds and $1.364 billion in corporate bonds.
-
----
-
-### 2026-08-08 20:07:46  #市場
-
-【樓繼偉理事長出席資產盤活課題研討會】8月8日上午，全球財富管理論壇在京召開“地方國有存量資產盤活進展、難點與策略”課題研討會，樓繼偉理事長出席會議並做總結髮言。樓繼偉在發言中表示，盤活國有資產既是近期的當務之急，也是一項長期性的戰略任務。當前我國GDP平減指數階段性承壓走低，財政維持緊平衡格局的壓力持續攀升；我國稅收結構以間接稅為主體，稅收收入增速顯著弱於名義GDP增速，財政內生增收動能受限。疊加土地財政收入大幅收縮，地方隱性債務化解、長期限國債常態化發行帶來的利息支出剛性上漲，收支兩端壓力持續凸顯。綜合多重現實約束來看，國有存量資產盤活並非短期應急手段，而是一項需要常態化、長效化推進的重點工作。
-
----
-
-### 2026-08-08 20:06:10  #其他
-
-伯克希爾·哈撒韋二季度回購約45億美元庫存股。
-
----
-
-### 2026-08-08 20:05:59  #MKT News #BRK.A.N
-
-Berkshire Hathaway Class A (BRK.A.N): insurance float approximately $177.5 billion as of June 30, 2026.
-
----
-
-### 2026-08-08 20:05:51  #MKT News #BRK.A.N
-
-Berkshire Hathaway Class A (BRK.A.N): Class A-equivalent shares outstanding 1,431,693 as of June 30, 2026.
-
----
-
-### 2026-08-08 20:05:50  #其他
-
-伯克希爾哈撒韋：二季度BNSF運營利潤15.6億美元。
-
----
-
-### 2026-08-08 20:05:32  #MKT News #BRK.B.N
-
-Berkshire Hathaway B (BRK.B.N) Q2 2026 EPS was $11.91.
-
----
-
-### 2026-08-08 20:05:29  #MKT News #BRK.A.N
-
-Berkshire Hathaway A (BRK.A.N) Q2 2026 EPS $17,868.
-
----
-
-### 2026-08-08 20:05:02  #其他
-
-伯克希爾哈撒韋二季度A類股每股淨收益為17,868美元。二季度末現金降低至3655.1億美元。
-
----
-
-### 2026-08-08 20:04:50  #MKT News #BRK.A.N #Impact bullish
-
-Berkshire Hathaway A (BRK.A.N): 2026 investment gains include $10.9 billion in second-quarter gains.
-
----
-
-### 2026-08-08 20:04:25  #其他
-
-伯克希爾·哈撒韋二季度現金儲備降至3655.1億美元。
-
----
-
-### 2026-08-08 20:02:46  #MKT News #BRK.A.N #Impact bullish
-
-Berkshire Hathaway A (BRK.A.N) reported Q2 2026 net income of $25.667 bln, up from $12.37 bln a year earlier.
-
----
-
-### 2026-08-08 20:02:31  #國際
-
-【伊官員：有證據顯示美軍使用磷彈轟炸伊朗多地】據伊朗方面當地時間8日訊息，伊朗衛生部副部長沙欣·阿洪德扎德當天表示，目前已有證據顯示，美軍對伊朗法爾斯省拉梅爾德市的轟炸涉及到含磷彈藥。伊朗衛生部已就此開展研究，希望能在國際平臺發表研究結果，向外界展示伊朗平民所遭受到的傷害。此外，布什爾省也開展了類似研究，同樣發現了與含磷彈藥有關的證據，不過法爾斯省的情況更加嚴重。（央視新聞）
-
----
-
-### 2026-08-08 20:01:05  #MKT News #Important #BRK.A.N
-
-Berkshire Hathaway A (BRK.A.N) reported Q2 2026 revenue of $12.983 billion.
-
----
-
-### 2026-08-08 20:00:42  #其他 #焦點
-
-伯克希爾哈撒韋二季度運營利潤129.83億美元，同比增長16%。二季度歸屬於股東的淨利潤256.67億美元，上年同期123.70億美元。
-
----
-
-### 2026-08-08 20:00:39  #國際
-
-美國地質調查局：復活節島東南海域發生5.6級地震。
-
----
-
-### 2026-08-08 20:00:02  #市場
-
-本週大盤主力資金累計淨流入620.1億元，元件、通訊裝置板塊淨流入居前，個股工業富聯、天孚通訊淨流入最多。
-
----
-
-### 2026-08-08 19:58:14  #焦點 #國際
-
-【伊朗接近與阿曼達成管理海峽協議】伊朗外交部長阿拉格齊今天（8月8日）表示，伊朗目前正在與阿曼就霍爾木茲海峽的法律機制、管理方式以及確定海峽船舶通行路線進行談判，雙方已經非常接近達成協議。但是，霍爾木茲海峽能否重新開放還取決於其他條件，包括美國對其違反美伊諒解備忘錄的行為作出彌補。阿拉格齊說，過去霍爾木茲海峽存在一套分道通航制，但伊朗認為，原有路線已經不再適合作為船舶通行路線，伊方無法接受繼續使用該路線。（新華社）
-
----
-
-### 2026-08-08 19:58:08  #MKT News #RTX.O #Impact bullish
-
-【Zelenskiy says US to supply Patriot interceptor missiles to Ukraine monthly】During a visit to Serbia, Ukrainian President Volodymyr Zelenskiy said the US has agreed to deliver Patriot interceptor missiles to Ukraine on a monthly basis, but that this supply alone will not fully close Kyiv’s current shortfall of interceptors.
-
----
-
-### 2026-08-08 19:53:11  #國際
-
-【敘利亞過渡政府部隊遭襲致1死2傷】當地時間8日，敘過渡政府國防部訊息稱，敘過渡政府部隊當天在敘東部代爾祖爾省遭到不明身份武裝人員襲擊，導致一名士兵死亡，兩人受傷。（央視新聞）
 
 ---

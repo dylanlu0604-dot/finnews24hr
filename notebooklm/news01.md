@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:53:07_
-_本檔包含 3066 則快訊，約 605786 字_
+_更新時間：2026-08-15 20:52:16_
+_本檔包含 3076 則快訊，約 605047 字_
+
+---
+
+### 2026-08-15 20:50:55  #國際
+
+【伊朗稱已與阿曼就霍爾木茲海峽通行方案達成協議】伊朗外交部發言人巴加埃表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。
+
+---
+
+### 2026-08-15 20:48:26  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH said Israel's attacks in southern Lebanon will be met with a corresponding response.
+
+---
+
+### 2026-08-15 20:45:27  #MKT News
+
+Indonesia's West disaster management agency said deaths from an earthquake in eastern Indonesia have risen to 47.
+
+---
+
+### 2026-08-15 20:45:21  #國際
+
+印尼災害管理機構：印尼東部地震死亡人數已上升至47人。
+
+---
+
+### 2026-08-15 20:42:07  #國際
+
+【韓國西江大學18萬條個人資訊洩露 朴槿惠或在其中】韓國西江大學15日確認，該校約18萬條個人資訊洩露，涉及在校學生、畢業生、教職員和其他人員，據信包括韓國前總統朴槿惠的個人資訊。（新華社）
+
+---
+
+### 2026-08-15 20:41:00  #其他
+
+【聯合國追加資金應對埃博拉疫情】聯合國分管人道主義事務的副秘書長托馬斯·弗萊徹14日說，埃博拉病毒正在剛果（金）“佔據上風”。聯合國將追加3050萬美元撥款，增派工作人員，擴大應對疫情行動。弗萊徹14日主持了聯合國的機構間常設委員會緊急會議。他當天發表宣告說，本次埃博拉疫情是有記錄以來蔓延最快的一次，目前“每30分鐘就有一人在這次疫情中死亡”。（新華社）
+
+---
+
+### 2026-08-15 20:35:42  #MKT News #Important
+
+Yemen's military vows a strong response to a Houthi attack on the port city of Mocha, Al Arabiya reports.
+
+---
+
+### 2026-08-15 20:35:17  #MKT News #Commodities #Energy
+
+Oman News Agency (ONA) said oil contamination has reached about 12 km of shoreline near Ras Madrakah; Masirah Island has not been affected. Cleanup operations on the leaking oil tanker have progressed.
+
+---
+
+### 2026-08-15 20:34:04  #MKT News #Market Regions #Greater China
+
+【China's Henan seals 117m breach on Jialu River east‑bank levee in Zhoukou】Emergency teams working day and night sealed a 117‑meter breach on the east‑bank levee of the Jialu River in Chuanhui District, Zhoukou, Henan at 20:29 on Aug. 15.
+
+---
+
+### 2026-08-15 20:32:04  #國際
+
+美國地質調查局：印尼ENDE西北 78 公里處發生 5.2 級地震。
+
+---
+
+### 2026-08-15 20:30:34  #其他
+
+【河南周口川匯區賈魯河東岸堤防潰口成功合龍】記者瞭解到，經過多方應急搶險力量晝夜不停努力，8月15日晚上8時29分，河南省周口市川匯區賈魯河東岸堤防117米潰口成功合龍。（央視新聞）
+
+---
+
+### 2026-08-15 20:18:31  #公司
+
+【中國海誠中標雲南沃森生物能碳管理平臺專案】據中國海誠訊息，近日，中國海誠中標雲南沃森生物能碳管理平臺專案。此次中標是公司在生物醫藥能碳服務領域的重要突破，也進一步拓寬了公司在生物疫苗賽道的新業務佈局。
+
+---
+
+### 2026-08-15 20:16:45  #國際
+
+【美國弗吉尼亞州立大學發生槍擊事件，多人中槍】據美國媒體15日報道，美國弗吉尼亞州立大學發生槍擊事件，多人中槍，校園隨即進入封鎖狀態。（新華社）
+
+---
+
+### 2026-08-15 20:14:29  #國際
+
+以色列國防軍：我們對黎巴嫩的空襲是對真主黨違反停火協議的回應。
+
+---
+
+### 2026-08-15 20:13:33  #國際
+
+【印尼7.7級地震中三名中國遊客受輕傷】從中國駐登巴薩總領館獲悉，在印尼發生的7.7級地震中，有3名中國遊客受輕傷，目前均無大礙。據瞭解，其中一名中國遊客在地震發生後緊急避險過程中，因慌亂不慎頭部撞到牆壁。另外兩名遊客是腰部扭傷。目前，3名遊客傷勢均較輕。（央視新聞）
+
+---
+
+### 2026-08-15 20:11:16  #其他
+
+【2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇崑山舉辦】15日，2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇省崑山市開幕。此次活動由兩岸企業家峰會主辦，主題是“青創成就夢想 AI賦能未來”，約450名兩岸青年企業家代表、青年學生等嘉賓參加活動。（新華社）
+
+---
+
+### 2026-08-15 20:10:40  #其他
+
+【粵港澳大灣區首開至鎮江方向快速班列】8月15日，隨著一聲汽笛長鳴，一趟滿載著汽車零部件、日用百貨的棚車班列從廣州東部公鐵聯運樞紐(增城西站)緩緩啟動，預計將於8月17日上午直達江蘇鎮江上隍站。這標誌著粵港澳大灣區至江蘇鎮江方向的物流新通道正式打通。
+
+---
+
+### 2026-08-15 20:07:32  #MKT News
+
+State media reported Omani authorities said about 12 km of coastline in the Ras Madrakah area has been affected by oil pollution.
+
+---
+
+### 2026-08-15 20:06:12  #其他
+
+阿曼稱拉斯馬德拉卡地區約12公里海岸線受石油汙染影響。
+
+---
+
+### 2026-08-15 20:03:44  #國際
+
+【自然資源部海嘯預警中心：印尼6.8級地震不會引發海嘯】2026年08月15日18時54分（北京時間），印尼蘇門答臘島北部海域（2.95°N,99.05°E）發生6.8級地震，震源深度為170千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。
+
+---
+
+### 2026-08-15 20:02:11  #MKT News
+
+【Commemoration of Jiang Zemin’s 100th birth anniversary set for Aug. 17; Xi Jinping to attend and speak】A state ceremony marking the 100th anniversary of former leader Jiang Zemin’s birth will be held at 10:00 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping, General Secretary of the Communist Party, President and CMC chairman, will attend and deliver a major address. Chinese state broadcasters will provide live coverage.
+
+---
+
+### 2026-08-15 20:01:15  #其他
+
+【紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話】紀念江澤民同志誕辰100週年大會將於8月17日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將出席大會並發表重要講話。屆時，中央廣播電視總檯、新華網將對大會進行現場直播，人民網、央視網、中國網等中央重點新聞網站和人民日報客戶端、新華社客戶端、央視新聞客戶端等新媒體平臺同步轉播。（央視新聞）
+
+---
+
+### 2026-08-15 20:00:54  #市場
+
+【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。
+
+---
+
+### 2026-08-15 20:00:03  #國際 #原創
+
+【伊朗稱3名飛行員被卡達扣押六個月】伊朗方面稱，3月針對美軍基地的空襲行動中伊朗一架蘇‑24 戰鬥機墜毀後，三名飛行員被卡達部隊生擒，已在該國被扣押約六個月。伊朗武裝部隊總參謀部失蹤人員委員會負責人穆罕默德・巴蓋爾扎德在致紅十字國際委員會主席的一封信中披露了上述情況。信中列明三名飛行員為賈瓦德・薩利希、阿卜杜勒馬吉德・達什蒂安、奧姆蘭・貝赫拉維西安。巴蓋爾扎德表示，在扣押期間，卡達不允許這三人與家人會面、通話，也拒絕伊朗官員瞭解他們的相關情況。伊朗官員此前曾表示，三名飛行員下落不明，現有相關資訊並不完整，僅稱在針對卡達的行動過後，另一名飛行員馬吉德・卡澤米的遺體已運回伊朗。
+
+---
+
+### 2026-08-15 19:57:39  #國際
+
+【印尼7.7級地震中2名中國公民受輕傷】記者從中國駐登巴薩總領館瞭解到，暫未接到中國公民死亡的報告。地震造成2名中國公民受輕傷，總領館已為其提供必要領事協助。印尼外交部領事司通報說，此次地震暫未導致外國公民死亡。（新華社）
+
+---
+
+### 2026-08-15 19:56:01  #MKT News #Brent #Impact bullish #WTI
+
+【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests.
+
+---
+
+### 2026-08-15 19:53:58  #其他
+
+暑期檔票房破97億。（央視財經）
 
 ---
 
@@ -18384,107 +18546,5 @@ Japan 10-year government bond yield fell 2.5 bps to 2.845%.
 ### 2026-08-14 07:59:10  #資料 #市場 #觀點 #央行 #國際
 
 【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。長期看，在油價穩定現狀的基準假設下，今年8月到明年2月美國CPI同比均值料在3.2%左右保持震盪，仍是因油價中樞抬升的脈衝所致。但明年3月—5月美國CPI同比增速料因油價脈衝結束導致的高基數效應顯著回落，分別跌至2.56%、2.03%、1.71%。因此，只要油價不出現顯著上行風險，2027年第二季度開始美聯儲將不再有加息的必要。策略方面，截至最新，交易員對今年12月、明年6月的加息預期分別為1.04、1.65次，較7月底的1.48、2.2次雖有回落，但仍有壓縮空間。東吳證券維持美聯儲今年不加息的觀點，當前隱含的全年26bps的加息預期料將回吐，對應2年美債利率&美元指數的走弱，黃金的走高。
-
----
-
-### 2026-08-14 07:59:01  #其他
-
-【非洲豬瘟持續 芬蘭擬擴大疫情“核心區” 】芬蘭食品管理局12日說，因發現更多因感染非洲豬瘟病毒而死亡的野豬，將擴大此前劃定的疫情核心區，禁止在這一區域內進行狩獵等活動，以防止疫情進一步擴散。 芬蘭食品管理局7月30日證實，在該國東南部維羅拉赫蒂的死亡野豬體內檢測到非洲豬瘟病毒，這是該國首次發現非洲豬瘟病例。芬蘭食品管理局隨即宣佈以感染野豬發現地為中心、半徑約3公里區域為疫情核心區，禁止在這一區域內進行狩獵、採摘、林業作業等活動。
-
----
-
-### 2026-08-14 07:58:43  #公司 #市場 #觀點 #國際
-
-【歐洲柴油價格一年多以來首超航煤，供應趨緊令市場擔憂】倫敦證交所集團（LSEG）資料顯示，歐洲柴油價格一年多以來首次超過航空煤油價格。這是因為歐洲能夠獲得其他供應來源替代來自中東的航空煤油，但在為工業和農業獲取更多柴油供應方面卻面臨困難。高盛分析師在報告中表示：“隨著冬季臨近，我們認為柴油價格持續出現稀缺性溢價的風險高於原油。LSEG資料顯示，本週柴油價格已超過航煤價格 。8月10日，運抵歐洲的航煤貨物報價較柴油期貨每噸低24美元。根據LSEG和Argus Media資料，這是自2025年7月以來的最大折價幅度。
-
----
-
-### 2026-08-14 07:58:13  #Trading Economics #Economy #India #Total Vehicle Sales #Importance 1
-
-India Passenger Car Sales Jump 31.2% in July — Passenger vehicle sales in India surged 31.2% year-on-year in July 2026, accelerating sharply from an 18.2% rise in the previous month to 395,199 units, according to data from the Society of Indian Automobile Manufacturers (SIAM). The strong performance was attributed to supportive domestic demand, aided by lower Goods and Services Tax rates and the introduction of new models. “India’s auto industry delivered its strongest-ever July sales, with robust double-digit growth across passenger vehicles. This positive momentum, sustained over several months, has continued as the industry enters the festive season with expectations of strong consumer sentiment,” Rajesh Menon, Director General of SIAM, said.
-
----
-
-### 2026-08-14 07:57:34  #觀點 #國際
-
-【中信證券：粘膠長絲行業有望進入供需偏緊與價格中樞上行階段】中信證券研報認為，出口需求持續增長、存量供給接近滿負荷執行，粘膠長絲行業有望進入供需偏緊與價格中樞上行階段。印度傳統服飾消費增長帶動中國粘膠長絲出口放量，2025年行業出口量同比增長18.2%至11.4萬噸，2026年上半年進一步同比增長30.9%；同時，2025年國內行業開工率已升至89.8%，半連續紡產能可能面臨政策淘汰、環保改造及搬遷壓力。我們預計2026-2028年行業將呈現供需缺口，產品價格具備向上彈性。重點推薦頭部企業。
-
----
-
-### 2026-08-14 07:57:32  #觀點 #國際
-
-【中信建投：霍爾木茲海峽僵局持續 地緣風險溢價維持高位】中信建投研報表示，霍爾木茲海峽僵局短期內難以根本解決。美方“軍事速勝”計劃已然落空，對伊政策正從高強度軍事打擊轉向“邊施壓、邊談判”的拉鋸式博弈。伊朗不會輕易放棄霍爾木茲海峽這一對美反制的重要手段。短期看，海峽持續受阻利好油氣開採及能源板塊，利空航空、海運等用能企業；中期走勢取決於美伊談判進展及海峽實際通航恢復情況，地緣不確定性仍將主導油價波動。
-
----
-
-### 2026-08-14 07:57:14  #市場
-
-【浙江省水利廳提升水旱災害防禦（防颱）應急響應至Ⅱ級】受強降雨影響，今日（8月14日）6時杭州市青山水庫水位上漲至30.44米，東苕溪瓶窯水文站水位上漲至6.76米。根據《浙江省水利廳水旱災害防禦應急工作預案》，省水利廳於今日6時30分將水旱災害防禦（防颱）應急響應提升至Ⅱ級（二級）。當前苕溪等江河高水位執行，相關地區水利部門要保持高度警惕，密切監視水情工情，科學排程水利工程，加強安全管理，做好水旱災害防禦工作。
-
----
-
-### 2026-08-14 07:56:52  #公司
-
-【北京市就細胞與基因治療高質量發展徵求意見，相關上市公司積極佈局】據北京市政府官網訊息，日前，北京市科學技術委員會、中關村科技園區管理委員會發布《關於促進細胞與基因治療領域高質量發展的若干措施（徵求意見稿）》（以下簡稱《措施》），旨在推動細胞與基因治療（CGT）產業邁向高質量發展。《措施》圍繞創新、臨床、平臺、監管、產業五大維度，推出覆蓋CGT全產業鏈的9項支援舉措。其中特別提出，強化創新品種產業化全鏈條服務機制，醫保部門提前介入、提供醫療服務價格政策輔導，為技術獲批後及時具備合規收費條件做好準備。上市公司積極佈局細胞療法，在投資者互動平臺上透露在細胞治療上的佈局。中源協和表示，公司高度重視細胞治療業務的國際化發展。東富龍表示，公司深耕細胞治療領域。開能健康表示，公司對細胞行業的前景持積極態度。海南海藥表示，在細胞治療領域形成了“參股+合作”的協同佈局。復星醫藥表示，CAR-T細胞治療產品奕凱達獲納入首版商保創新藥品目錄。百普賽斯表示，公司開發的一系列CD19、BCMA、Her2等重組蛋白和抗獨特型抗體產品，可被廣泛用於CAR-T產品開發的過程和測試。資金面上，8月以來共有13股獲融資淨買入，藥明康德、百普賽斯、睿智醫藥融資淨買入金額居前，分別為3.42億元、1.77億元、0.48億元。
-
----
-
-### 2026-08-14 07:56:01  #市場
-
-【國際金價再上4400美元 金飾漲價催生消費輕量化】時隔兩個月後，國際金價再度回到4400美元/盎司關口上方。國內金飾價格近日來也上漲明顯。卓創資訊研究員彭小真分析，高金價對黃金消費最直接的影響，是消費者的購買門檻明顯提高，但這並不意味著黃金消費會簡單地出現斷崖式下降，更值得關注的是消費結構發生了變化。“首先，消費者的到店諮詢可能仍然存在，但從‘看一看’到實際成交的轉化會有所下降，部分消費者會產生更強的觀望心理。其次，消費者可能透過降低購買克重來控制總預算。也就是說，高金價環境下，消費者並不一定完全不買黃金，而可能從過去購買較大克重的產品，轉向小克重、輕量化以及更加註重設計的產品。”彭小真認為，高金價下，剛需消費和非剛需消費的分化會更加明顯。婚嫁、節慶和部分傳統禮贈需求具有較強的剛性，即使價格上漲，消費者也很難無限期推遲，只是可能透過降低克重、調整款式等方式控制支出。而悅己消費以及非必要的裝飾性消費，價格彈性相對更高。這部分消費者更容易選擇等待價格回撥，或者減少購買克重。
-
----
-
-### 2026-08-14 07:55:34  #國際
-
-美國中央司令部：在過去48小時內，多家媒體報道了與“亞伯拉罕·林肯”號航空母艦（CVN 72）部署中東相關的多項虛假宣告。其中一則報道聲稱有七名水兵在航母上的一場鬥毆中喪生，其他報道則最近暗示自殺意念激增。這些報道是虛假的。事實是：“亞伯拉罕·林肯”號一直保持著美國海軍所有航母中最高的船員續服率之一（84.4%）。亞伯拉罕·林肯航母打擊群的水兵和海軍陸戰隊員在海上超過260天、執行10,000次飛機飛行並消耗150萬磅彈藥後，依然保持著堅韌和決心。航母上沒有服役人員死亡，而8月3日有一名落水的水兵已被迅速且安全地救回。對“亞伯拉罕·林肯”號歷史性部署的肆意錯誤報道是對我們軍服人員及其親人的不公。
-
----
-
-### 2026-08-14 07:54:33  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Flat After Strong Session — US stock futures were little changed on Friday after the major averages advanced in the previous session, with the S&P 500 reaching fresh record highs. In regular trading on Thursday, the S&P 500 and Nasdaq Composite rose 0.65% and 0.81%, respectively, putting both benchmarks on course for their third straight weekly gains. The Dow also climbed 70 points, although it remained set to finish the week lower. Seven of the 11 S&P sectors ended in positive territory, led by communication services, real estate and technology stocks. The gains came after headline and core producer prices rose less than expected in July, reinforcing the previous day’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Investors now turn their attention to July retail sales data for further clues on the strength of the economy. Meanwhile, no major earnings reports are scheduled for Friday.
-
----
-
-### 2026-08-14 07:53:24  #宏觀
-
-【從行業倡議到立法破局 反內捲進入制度化治理新階段】2024年7月，中共中央政治局會議首次提出防止“內卷式”惡性競爭。兩年多來，“內卷式”競爭治理持續進階，從個別行業發起自律倡議，演進為制度規則、行業標準、監管執法多管齊下的綜合治理格局。綜合整治“內卷式”競爭，既是攻堅戰，也是持久戰。2026年7月召開的中共中央政治局會議提出“繼續綜合整治‘內卷式’競爭”，強調將“制定實施全國統一大市場建設條例”。受訪專家認為，隨著未來全國統一大市場建設條例出臺，整治“內卷式”競爭將進入制度化長效治理的關鍵階段。
-
----
-
-### 2026-08-14 07:53:02  #市場 #國際
-
-美國白宮：恢復美國的海上主導地位。今天，特朗普總統簽署了一份國家安全總統備忘錄，以果斷引領一個新的海上黃金時代，擴大商業造船能力，打造具備抗壓能力的勞動力隊伍，並重振這一關鍵產業。
-
----
-
-### 2026-08-14 07:50:54  #其他
-
-【浙江省水文管理中心8月14日4時釋出東苕溪瓶窯水文站洪水橙色預警】受短時降雨影響，瓶窯站水位回漲，將發生橙色預警級別的洪水，預警時間範圍8月14日至15日，影響範圍杭州市、餘杭區、湖州市、德清縣、嘉興市。請沿河居民、施工單位和過往船隻注意安全，防範洪水風險。
-
----
-
-### 2026-08-14 07:50:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Foreign investors were net sellers of JGBs by 58.7 bln yen in the week to Aug 7, versus net purchases of 558.9 bln yen in the prior week.
-
----
-
-### 2026-08-14 07:50:49  #國際
-
-日本8月7日當週淨買進國外債券 16294億日元，前值 4779億日元。日本8月7日當週淨買進國外股票 9635億日元，前值 -2764億日元。日本8月7日當週外資淨買進日本債券 -587億日元，前值 5589億日元。日本8月7日當週外資淨買進日本股票 -3685億日元，前值 -3925億日元。
-
----
-
-### 2026-08-14 07:50:47  #MKT News #USDJPY #Impact bullish #DXY
-
-Japan bought foreign equities JPY 963.5 bln in the week to Aug. 7; prior week saw net sales of JPY 276.4 bln.
-
----
-
-### 2026-08-14 07:50:39  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Bonds (Aug.7) | actual -58700000000B | previous 558900000000B
 
 ---

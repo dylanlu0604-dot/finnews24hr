@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:53:07_
-_本檔包含 3125 則快訊，約 605362 字_
+_更新時間：2026-08-15 20:52:16_
+_本檔包含 3129 則快訊，約 605937 字_
+
+---
+
+### 2026-08-13 05:46:03  #國際
+
+白宮：特朗普簽署備忘錄，授權美國執法部門利用網路工具擾亂活躍於境外司法管轄區的犯罪組織。
+
+---
+
+### 2026-08-13 05:45:52  #國際
+
+特朗普簽署行政令，打擊境外網路犯罪網路。
+
+---
+
+### 2026-08-13 05:45:27  #市場
+
+【估值低位疊加資金佈局 消費板塊迎結構性機會】近期市場風格出現再平衡，消費板塊重新獲得資金關注。中證主要消費指數7月以來累計上漲近10%。消費主題ETF規模近期也持續增長。業內人士認為，當前消費行情更多體現為資金配置再平衡和估值修復預期升溫，後續板塊表現仍需觀察內需恢復和企業盈利改善情況。從投資方向來看，傳統消費龍頭修復、消費品出海及新消費場景成為機構關注重點。（上證報）
+
+---
+
+### 2026-08-13 05:44:40  #市場
+
+【高比例分紅難敵行情低迷 REITs吸引力有待進一步提升】8月12日，4只REITs產品在同一天進行場內分紅除息，分紅比例均超過99%。據統計，按照除息日（場內）口徑，今年已有超過70只REITs開啟分紅，其中七成以上的單次分紅規模佔可分配利潤比重超過99%。從二級市場表現來看，截至8月12日收盤，全市場88只已上市REITs中，約八成今年以來收跌，部分REITs跌幅甚至超過40%。即便是今年有過分紅的產品，收跌的產品數量比例也超過80%。 有業內人士分析，高比例分紅確實是REITs產品的一個重要特點，因此這類產品被不少投資者尤其是機構投資者視為類固收資產。不過，比起分紅比例，派息率（可分配金額/市值）以及填息效應其實是更應該關注的指標。對於REITs二級市場的表現，除了受底層資產經營情況影響外，也會因流動性不足而難以吸引資金青睞。（中證報）
+
+---
+
+### 2026-08-13 05:43:35  #公司 #市場
+
+【從板塊輪動中脫穎而出 超70只基金淨值創歷史新高】最近，AI概念大漲後市場陷入震盪，板塊快速輪動，無論是股價高位的CPO、PCB等科技板塊，還是低位的地產、白酒、醫藥板塊，同步迎來力度可觀的修復反彈。 賽道回暖帶動科技主題基金淨值持續回血，逐步向前期高點靠攏；不少前期深度回撥的基金亦順勢走出爬坑行情。截至8月11日，超70只來自方正富邦基金、萬家基金、國投瑞銀基金等公司的產品穿越了市場的極致分化，淨值創出歷史新高，有的年內大漲超50%，有的靠均衡防守穩穩爬坡。（證券時報）
+
+---
+
+### 2026-08-13 05:42:32  #MKT News
+
+Venezuelan central bank reports July inflation at 19.9%.
+
+---
+
+### 2026-08-13 05:39:16  #央行 #其他
+
+委內瑞拉央行：7月通脹率達19.9%。
+
+---
+
+### 2026-08-13 05:37:57  #其他
+
+中國地震臺網正式測定：08月13日05時28分在青海海南州興海縣（北緯35.28度，東經99.54度）發生3.7級地震，震源深度10千米。
+
+---
+
+### 2026-08-13 05:33:01  #公司
+
+【潘興廣場新增投資維薩、奈飛等標的】潘興廣場公司在致股東信中表示，自完成IPO以來，該基金已完成六筆新增投資。潘興廣場稱：“我們近期新建倉投資了維薩、萬事達卡、奈飛、標普全球、洲際交易所以及愛爾康，這些企業都是我們已密切跟蹤多年的公司。”潘興廣場表示，疊加上述新標的，以及原有持倉微軟、亞馬遜、Meta、優步、布魯克菲爾德、Restaurant Brands國際，將助力基金實現強勁的未來收益。
+
+---
+
+### 2026-08-13 05:30:06  #公司
+
+Cerebras首席財務官表示，如果不是因為透過租回更多自有系統來擴大雲容量導致成本上升，公司第二季度調整後毛利率本應高出500個基點。
+
+---
+
+### 2026-08-13 05:29:08  #國際
+
+【伊朗：霍爾木茲海峽使用者必須“修復”海灣環境損害】伊朗外交部發言人巴加埃稱：“所有從霍爾木茲海峽商業航運中獲益的各方，在法律和道義上都有義務修復對波斯灣和阿曼海造成的環境損害。”巴加埃表示，“初步證據顯示一艘外國散貨船”是汙染來源。他表示，未來任何有關霍爾木茲海峽控制權的安排，都必須解決該水道的環境狀況。
+
+---
+
+### 2026-08-13 05:28:28  #其他
+
+思科預計2027財年人工智慧訂單將大幅增長。
+
+---
+
+### 2026-08-13 05:26:05  #國際
+
+市場資訊：美國人工智慧監管框架預計很快將把開源模型納入管轄範圍。
+
+---
+
+### 2026-08-13 05:24:40  #MKT News
+
+【U.S. Apache helicopter crashes near Fort Hood, two dead】Local police said on the 12th an Apache military helicopter crashed near Fort Hood, Texas, killing two people.
+
+---
+
+### 2026-08-13 05:23:45  #其他
+
+思科：受Mythos帶來的威脅影響，各家企業正將預算重新投向網路安全領域。
+
+---
+
+### 2026-08-13 05:20:21  #公司
+
+Cerebras執行長表示，目前254億美元的剩餘履約義務並未反映來自AWS或其他任何超大規模客戶的業務積壓情況。
+
+---
+
+### 2026-08-13 05:17:21  #其他
+
+思科2026財年人工智慧相關訂單實現約40億美元營收。
+
+---
+
+### 2026-08-13 05:16:06  #其他
+
+思科稱供應鏈並未出現明顯交期問題。
+
+---
+
+### 2026-08-13 05:14:44  #其他
+
+思科表示其年度營收指引持審慎態度。
+
+---
+
+### 2026-08-13 05:14:25  #公司 #焦點
+
+截至2026年6月30日，上市公司合計持有128萬枚比特幣（價值760億美元），佔比特幣總供給量的6.11%。Strategy仍是最大持有方，持倉846842枚比特幣。
+
+---
+
+### 2026-08-13 05:12:46  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+US Commerce Secretary Lutnick said he will announce tomorrow local time that Apple (AAPL.O) will build a Mac mini plant in Texas.
+
+---
+
+### 2026-08-13 05:11:25  #其他
+
+思科預計2027年核心業務增速約10%。
+
+---
+
+### 2026-08-13 05:10:57  #其他
+
+思科預計2027年安全業務將實現高個位數增長。
+
+---
+
+### 2026-08-13 05:10:42  #MKT News #Macro & Rates #US Economy #F.O #Impact bullish
+
+U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs.
+
+---
+
+### 2026-08-13 05:08:19  #國際
+
+伊朗稱霍爾木茲海峽使用者必須“彌補”海灣環境損害。
+
+---
+
+### 2026-08-13 05:07:33  #其他
+
+【DeepSeek V4 Pro正式版API更新：多項測試效能接近Fable 5】8月13日，DeepSeek官方把V4 Pro從預覽版正式轉正。官方定價頁上，模型版本號已經更新為DeepSeek-V4-Pro-0813。從官方群放出的評測對比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多項測試中接近 Fable 5 水平，相比之前的預覽版能力大幅提升。DeepSeek V4 Pro價格明顯高於V4-Flash。按每1M token計算，快取命中輸入0.025元，快取未命中輸入3元，輸出6元。相比之下，V4-Flash分別為0.02元、1元和2元。
+
+---
+
+### 2026-08-13 05:02:58  #MKT News
+
+MSCI said the MSCI Global Index will add 55 securities and remove 92 securities.
+
+---
+
+### 2026-08-13 05:01:33  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+Fox Business: White House Council of Economic Advisers chair Furman said the US CPI report weakens the case for further rate hikes.
+
+---
+
+### 2026-08-13 04:59:46  #公司 #國際
+
+明晟（MSCI）：阿斯特拉有限公司（ASTRAL）、巴爾克里希納工業有限公司（BALKRISHNA INDUSTRIES）、印度國家銀行支付卡有限公司（SBI CARDS AND PAYMENT）將被剔除出明晟印度指數。
+
+---
+
+### 2026-08-13 04:56:58  #國際
+
+【美國佐治亞州校園槍擊案致兩人受傷】據當地警方訊息，美國佐治亞州休斯敦縣一所高中12日發生一起槍擊事件，造成至少兩名學生受傷，嫌疑人已被拘留。
+
+---
+
+### 2026-08-13 04:55:17  #公司 #國際
+
+明晟公司（MSCI）：Lenskart Solutions將被納入明晟印度指數。
+
+---
+
+### 2026-08-13 04:55:02  #公司 #國際
+
+明晟（MSCI）：泰國正大集團印尼子公司（Charoen Pokphand Indo）將被剔除出明晟印尼指數。
+
+---
+
+### 2026-08-13 04:54:34  #公司 #國際
+
+明晟公司（MSCI）：按完全調整後市值計算，納入MSCI世界指數的三大新增成分股分別為美國公司閃迪、卡彭特技術公司（Carpenter Technology）以及美國鋁業公司（ATI）。
+
+---
+
+### 2026-08-13 04:54:13  #公司
+
+明晟公司（MSCI）：在本次指數審議中，明晟將繼續不對MSCI孟加拉國指數中歸類為孟加拉國的任何證券實施調整。
+
+---
+
+### 2026-08-13 04:53:54  #MKT News
+
+Brazil's Chamber of Deputies approved a bill to establish a new expenditure-control mechanism; the bill will be sent to the Senate.
+
+---
+
+### 2026-08-13 04:53:18  #國際
+
+美國商務部長盧特尼克：明日將宣佈蘋果得州Mac mini工廠相關訊息。
+
+---
+
+### 2026-08-13 04:52:33  #公司
+
+明晟公司（MSCI）：MSCI世界全股本指數將新增137只成分股，剔除73只成分股。
+
+---
+
+### 2026-08-13 04:51:43  #其他
+
+思科預計2027財年AI業務收入75億美元。
+
+---
+
+### 2026-08-13 04:51:37  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+A top Codelco executive said the Chilean state miner is studying expanding the pit at the El Teniente copper mine to offset production delayed by seismic-risk concerns.
+
+---
+
+### 2026-08-13 04:50:59  #國際
+
+美國商務部長盧特尼克：關稅使福特在美國創造了更多就業機會。
+
+---
+
+### 2026-08-13 04:50:44  #國際
+
+美國商務部長盧特尼克：福特正在將更多製造業轉移到美國。
+
+---
+
+### 2026-08-13 04:50:28  #公司
+
+智利國家銅業公司高管：公司正研究擴建特尼恩特銅礦的坑採作業面，以彌補因地震風險推遲投產造成的產量損失。
+
+---
+
+### 2026-08-13 04:50:14  #其他
+
+【已致剛果（金）兩千餘人死亡 世衛：或為有記錄以來最致命埃博拉疫情】目前，剛果（金）已報告超過4400例埃博拉確診病例、2000多人死亡。世界衛生組織總幹事譚德塞8月12日警告，如果剛果（金）埃博拉疫情維持當前傳播速度，其規模可能超過2014年至2016年西非埃博拉疫情，成為有記錄以來最致命的埃博拉疫情。
+
+---
+
+### 2026-08-13 04:49:39  #MKT News
+
+Baghaei, Iran's foreign ministry spokesperson, said Iran, as the country with the longest coastline on the Persian Gulf and Gulf of Oman, urges all parties benefiting from Strait of Hormuz shipping to assume responsibility and remediate environmental damage to the waters.
+
+---
+
+### 2026-08-13 04:49:23  #MKT News
+
+Iran foreign ministry spokesman BAGHAEI said oil pollution was detected recently along the coast of Qeshm Island. A preliminary investigation indicates the source may be a foreign bulk carrier; multiple coastal areas and parts of the sea surface have been affected.
+
+---
+
+### 2026-08-13 04:49:15  #公司 #市場
+
+【思科公佈遠超預期財測 將業績歸功於創紀錄的“廣泛”需求】思科系統公司給出了遠遠超過華爾街預估的當季營收展望，表明該公司在人工智慧資料中心市場奪取更大網路裝置份額的努力取得了成功。該公司週三在公告中表示，截至10月的第一財季營收將介於180億至182億美元。分析師的平均預估為168億美元。剔除部分專案的每股收益料在1.32至1.34美元，也高於市場預計的1.17美元。公司將強勁的銷售歸功於“對思科技術廣泛且創紀錄的高需求”。行業研究分析師Woo Jin Ho在報告中寫道：“我們預計人工智慧的勢頭將保持強勁。” 思科股價在盤後交易中上漲1%至125.19美元。截至週三收盤，該股今年以來累計攀升了61%。儘管專注於供應人工智慧資料中心，思科的銷售仍然依賴於傳統網路業務。在截至7月的第四財季，該公司營收同比增長18%達到173億美元。不計部分專案的每股收益報1.22美元。分析師此前預測的營收為168億美元，每股收益則在1.17美元。
+
+---
+
+### 2026-08-13 04:48:50  #MKT News #Market Themes #The Trump Trade
+
+【Trump media firm's paid 'Truth API' early-access feed faces pushback from trading firms】Trump's media company has launched a paid Truth API feed offering accelerated access to its content. Some trading firms have signed up, but others, including Hudson River Trading and Castle Securities, say they will not pay, arguing the feed is not necessary for trading operations. Legal experts say existing insider-trading rules do not clearly cover a sitting president using his media platform to disseminate market-moving information or selling faster access to that information. SEC Chair Paul Atkins said in an interview the SEC is monitoring the Truth API data stream.
+
+---
+
+### 2026-08-13 04:48:28  #其他
+
+思科稱第四財季超大規模客戶訂單實現三位數增幅。
+
+---
+
+### 2026-08-13 04:47:39  #國際
+
+美國一架來自胡德堡基地的阿帕奇武裝直升機在得克薩斯州中部墜毀，兩名飛行員全部遇難，事故引發野火，當地已啟動人員疏散。
+
+---
+
+### 2026-08-13 04:47:28  #MKT News #Market Themes #Chip Wars
+
+【Cerebras Q2 mixed results; shares tumble 17% after hours】AI chipmaker Cerebras reported Q2 revenue $210m, up 103% YoY. Cloud revenue surged to $126m, nearly 4x YoY, while hardware sales fell 23% to $54.1m. The company posted a net loss of $450.5m in the quarter versus net income of $309.5m a year earlier. Cerebras raised full-year core revenue guidance to $880m–$890m from $855m–$865m previously. It said core gross margin will expand to 38–40% this quarter to address investor concerns. Shares fell more than 17% in after-hours trading. Since its May IPO the stock has risen about 42%. The company, originally positioned as a challenger to NVIDIA, now derives its largest revenue from cloud services.
 
 ---
 
@@ -18584,281 +18884,5 @@ Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 
 ### 2026-08-11 22:47:04  #Trading Economics #Markets #Commodity #Importance 1
 
 Wheat Market Weighs Supply Risks and Weak Demand — Wheat prices fluctuated around $6.40 per bushel, remaining more than 10% below the two-year high of $7.08 on July 22, as weaker Russian prices, subdued international demand and alternative export routes eased concerns over Black Sea disruptions. Hopes for progress in negotiations to restore shipping through the Strait of Hormuz also improved broader market sentiment, after Pakistan said the US and Iran were “close to some sort of arrangement” to reduce tensions. However, risks to grain exports remain as Ukraine and Russia continue to target each other’s shipping routes. Ukraine has lowered its 2026/27 grain export forecast by up to 12% from its previous estimate, while Russia’s wheat export outlook has also been reduced. Consultancy IKAR cut its forecast for Russian wheat exports to 44.5 million tonnes, while Sovecon expects August shipments to reach their lowest level in a decade. Traders now await the US government’s latest crop forecasts on Wednesday.
-
----
-
-### 2026-08-11 22:46:27  #公司 #國際
-
-【馬斯克：強烈推薦大家去中國看看】美國企業家、電動汽車製造商特斯拉公司執行長埃隆·馬斯克11日在社交媒體上寫道：“中國太棒了。我強烈推薦大家去看看。”在社交媒體平臺X上一條討論特斯拉在華業務的帖子下，馬斯克作上述評論。馬斯克的母親梅耶·馬斯克隨後引用馬斯克的這條帖文寫道：“我同意。（中國的）每個城市都有其獨特魅力，有不同的文化景點可以參觀。建築物和街道乾淨整潔，維護良好。同時，人們彬彬有禮、勤勞且尊重他人。我（在中國）感到安全，所以很享受去中國（旅行）。”近期，美國皮尤研究中心等機構的調查顯示，國際民眾對中國的好感度不斷上升。（新華社）
-
----
-
-### 2026-08-11 22:45:47  #公司
-
-市場訊息：蘋果執行長蒂姆・庫克表示，部分蘋果智慧功能將會產生費用，同時最新的 iOS 27 測試版中出現了 HomeKit 安全影片的 iCloud + 套餐等級限制。
-
----
-
-### 2026-08-11 22:44:25  #其他
-
-肯亞預計截至 2026 年 6 月經常賬戶缺口佔國內生產總值的 3%。
-
----
-
-### 2026-08-11 22:43:02  #其他
-
-肯亞貨幣政策委員會預計短期消費者物價指數將維持在目標區間內。
-
----
-
-### 2026-08-11 22:42:21  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bearish
-
-Market sources said roughly one-third (about 33%) of subscription orders for Intel's share offering went unallotted.
-
----
-
-### 2026-08-11 22:42:18  #央行 #其他
-
-肯亞央行預計短期內通脹將處於目標區間內。
-
----
-
-### 2026-08-11 22:41:40  #MKT News
-
-The ACLU and other legal groups asked a U.S. judge to block Trump's latest action to restrict "birthright citizenship".
-
----
-
-### 2026-08-11 22:41:33  #國際
-
-【TD SYNNEX將IBM分銷業務擴充套件至20個新國家】8月11日，全球IT分銷商及解決方案聚合商TD SYNNEX宣佈擴大IBM產品分銷覆蓋範圍，將業務拓展至歐洲、亞太地區（馬來西亞市場以Tech Data和Tec-D品牌運營）以及拉丁美洲的20個新國家。
-
----
-
-### 2026-08-11 22:41:14  #國際
-
-市場訊息：美國公民自由聯盟及其他法律團體請求美國法官阻止特朗普總統限制出生公民權的最新行動。
-
----
-
-### 2026-08-11 22:40:48  #其他
-
-市場訊息：漢諾威機場因發現無人機蹤跡被迫關閉。
-
----
-
-### 2026-08-11 22:40:31  #其他
-
-據傳英特爾本次配售中約 33% 的申購訂單未獲分配股票 。
-
----
-
-### 2026-08-11 22:40:24  #MKT News #Commodities #Energy
-
-【China Southern Power Grid load hits 278 GW; August peak seen at 283 GW, +12.9% YoY】China Southern Power Grid said at 17:16 on Aug 11 its system load reached 278 GW, the fifth record high this year. Guangdong's midday peak hit 176 GW, with Yangjiang, Shantou, Jieyang and Chaozhou recording local highs. The grid forecasts August peak could reach 283 GW, up 12.9% YoY.
-
----
-
-### 2026-08-11 22:40:14  #其他
-
-【南方電網用電負荷今年五創新高 突破2.78億千瓦】據南方電網訊息，8月11日17時16分，南方電網用電負荷突破2.78億千瓦，今年第五次創歷史新高。當天中午，廣東最高用電負荷達1.76億千瓦，今年第四次創新高，廣東省內陽江、汕頭、揭陽、潮州等地市用電負荷創歷史新高。據南方電網預測，8月份，南方電網用電負荷仍將持續高位執行，最高負荷或達2.83億千瓦，較去年同期增長12.9%。
-
----
-
-### 2026-08-11 22:39:57  #國際
-
-美國食品藥品監督管理局：該指南代表本機構目前關於防控鮮切農產品汙染相關問題的最新思路。
-
----
-
-### 2026-08-11 22:39:51  #央行 #其他
-
-肯亞央行維持基準利率在8.75%不變；預計利率為8.75%。
-
----
-
-### 2026-08-11 22:39:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Atlanta Fed first vice president Venable said there are "subtle risks" to the Fed's inflation and employment mandates.
-
----
-
-### 2026-08-11 22:39:07  #公司 #央行 #國際
-
-亞特蘭大聯儲第一副總裁維納布林：美聯儲的通脹與就業使命存在“細微風險。
-
----
-
-### 2026-08-11 22:39:00  #國際
-
-美國食品藥品監督管理局根據《人類食品預防性控制規則》敲定即食鮮切農產品生產操作指南。
-
----
-
-### 2026-08-11 22:38:41  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Atlanta Fed first vice president Venable said the Fed’s assessment of maximum employment is being affected by a stagnating labor supply, which is "an unusual situation" for the United States.
-
----
-
-### 2026-08-11 22:38:36  #央行 #公司 #國際
-
-亞特蘭大聯儲第一副總裁維納布林：最大化就業的理解受到勞動力供應停滯的影響，這對美國而言是一種“異常情況”。
-
----
-
-### 2026-08-11 22:38:16  #MKT News #WTI #Brent
-
-Atlanta Fed first vice president Venable said the key question is whether price pressures will ease over the coming months, which will largely depend on the outcome of the Middle East conflict.
-
----
-
-### 2026-08-11 22:38:08  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Intuit Stock Price Hits 10-week High — Intuit shares increased to 337.05 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 16.27%, and in the last 12 months, it decreased 52.78%.
-
----
-
-### 2026-08-11 22:38:04  #MKT News
-
-Atlanta Fed first vice president said the U.S. labor market is broadly stable.
-
----
-
-### 2026-08-11 22:38:04  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Atlanta Fed first vice president Venable said inflation remains too high and contacts in the Southeast report the same.
-
----
-
-### 2026-08-11 22:37:29  #市場
-
-洲際交易所倫敦可可期貨<LCCc2>下跌近6%，至每噸4038英鎊。
-
----
-
-### 2026-08-11 22:37:24  #公司
-
-火箭實驗室執行長：從未見過火箭行業處境如此窘迫。
-
----
-
-### 2026-08-11 22:37:03  #央行 #國際
-
-亞特蘭大聯儲銀行維納布林：核心問題在於未來數月價格壓力是否會緩解，而局勢走向很大程度上取決於中東衝突的結局。
-
----
-
-### 2026-08-11 22:36:25  #MKT News #RKLB.O #Impact bullish
-
-Rocket Lab says it aims to complete the maiden launch of its Neutron rocket this year.
-
----
-
-### 2026-08-11 22:35:56  #央行 #其他
-
-亞特蘭大聯儲銀行維納布林：通脹水平仍過高，東南部各受訪機構反饋一致。
-
----
-
-### 2026-08-11 22:35:47  #市場
-
-洲際交易所紐約可可期貨<CCc2>跌幅近7%，跌至每噸5,536美元。
-
----
-
-### 2026-08-11 22:35:21  #國際
-
-市場訊息：俄羅斯釋放自 2022 年起在俄服刑的前美國海軍陸戰隊士兵。
-
----
-
-### 2026-08-11 22:34:47  #其他
-
-火箭實驗室：力爭今年完成中子火箭首次發射。
-
----
-
-### 2026-08-11 22:33:44  #MKT News #Market Regions #Greater China
-
-【China rejects U.S. 'microphone diplomacy' over missile test criticism】On Aug. 11 at the Conference on Disarmament in Geneva, the U.S. and other countries issued a joint 'ballistic missile launch notification' statement criticizing China’s July submarine-launched intercontinental ballistic missile test. China’s disarmament ambassador Li Chijiang strongly rejected the criticism, saying Beijing had given advance notice of the test, accusing the U.S. of enlisting non-members, abusing the forum for political manipulation and applying double standards, and calling the move 'microphone diplomacy' that China will not accept.
-
----
-
-### 2026-08-11 22:32:32  #公司 #市場
-
-【資產管理公司股價上漲】阿波羅全球管理公司股價上漲5%，藍鴞資本股價上漲4.5%，黑石集團股價上漲3%，凱雷集團股價上漲2.7%。貝萊德股價上漲1.2%，阿瑞斯管理集團股價上漲3.3%，KKR股價上漲4.5%，GCM格羅夫納股價上漲3.6%。
-
----
-
-### 2026-08-11 22:32:20  #市場
-
-加拿大182天期國債收益率平均為2.436%，364天期國債收益率平均為2.718%
-
----
-
-### 2026-08-11 22:32:10  #國際
-
-【中方在裁談會嚴正駁斥美方無端指責】今天（8月11日），在日內瓦裁軍談判會議上，美國等國發表所謂“彈道導彈發射通報”共同發言，無端指責中國7月進行的潛射洲際彈道導彈試射。中國裁軍事務大使李馳江發言予以嚴正駁斥，闡明中方立場。 李馳江大使強調，中方堅決反對個別國家濫用裁談會平臺搞政治操弄。美方為一己政治私利，誘拉包括非裁談會成員國在內的一些國家參加共同發言，對中方提前通報導彈試射的善意舉動吹毛求疵、無端指責，大搞“麥克風外交”。這是典型的政治操弄和赤裸裸的雙重標準，中方對此絕不接受，堅決反對。 李馳江大使指出，美方無端指責完全站不住腳。美方援引自願性政治承諾“防止彈道導彈擴散海牙行為準則”要求中方提前通報導彈發射，但中方不是“準則”成員，不受“準則”約束。中方始終安全、規範、負責任地開展洲際彈道導彈試射活動，提前向美國等國家作通報，採取審慎且合理的措施，確保我試射未損害任何國家利益，充分體現中方的善意和負責任態度。中方有關善意舉措絕不應被地緣政治算計所綁架。 李馳江大使表示，美方沒有資格在導彈試射問題上對中方說三道四。中方至今僅進行過三次洲際導彈試射，在五核國中試射次數最少。美國是全世界洲際導彈試射次數最多、最頻繁的國家，大肆“毀約退群”，斥巨資投入核力量建設，大搞“核共享”和“延伸威懾”安排，對國際和平與安全構成嚴重威脅。美國未認真履行導彈試射通報責任，沒有資格對中方提前通報的善意行為求全責備。 李馳江大使強調，中國始終堅持走和平發展道路，奉行自衛防禦核戰略，始終將核力量維持在國家安全需要最低水平，不參加任何形式的核軍備競賽。中國核力量是懾止核戰爭、維護世界和平安全與全球戰略穩定不可或缺的力量。中國正當合理的國防現代化建設不容置疑。中方敦促美方反躬自省，多做真正有利於世界和平與穩定的事情。（CCTV國際時訊）
-
----
-
-### 2026-08-11 22:31:15  #其他
-
-貓途鷹表示部分體驗專案可透過愛彼迎進行預訂。
-
----
-
-### 2026-08-11 22:30:45  #公司
-
-市場訊息：貓途鷹集團與愛彼迎達成全新合作關係。
-
----
-
-### 2026-08-11 22:28:40  #公司
-
-市場訊息：安森基金敦促獅門影業考慮出售公司。
-
----
-
-### 2026-08-11 22:27:36  #國際
-
-市場訊息：俄羅斯國防部通報，俄武裝力量對敖德薩南部一艘巡邏艇實施打擊。該艇用於護送向烏克蘭港口運送供烏武裝部隊武器的貨船。
-
----
-
-### 2026-08-11 22:27:24  #MKT News #Important
-
-【Manus to resume independent operations; some users' data to be deleted】On Aug 11 Manus said it will resume operating as an independent company. As part of that transition and to comply with regulatory requirements in certain jurisdictions, data for some users created on or after Dec 29, 2025 will be deleted starting 08:00 SGT on Aug 23, 2026 and through Aug 24, 2026. Affected users can back up data until 07:59 SGT on Aug 23, 2026 and may restore data from 08:00 SGT on Aug 25, 2026. Unaffected users can continue using Manus with no action required.
-
----
-
-### 2026-08-11 22:27:10  #其他
-
-獅門影業股價最高暴漲 6%。
-
----
-
-### 2026-08-11 22:27:01  #MKT News #Brent #Impact bullish #WTI #DXY
-
-The Russian Defence Ministry said Russian forces sank a patrol boat in waters south of Odesa. The vessel had been escorting a freighter transporting weapons to Ukrainian ports for the Ukrainian armed forces.
-
----
-
-### 2026-08-11 22:26:17  #國際
-
-伊朗外長阿拉格齊與巴基斯坦內政部長舉行會談。
-
----
-
-### 2026-08-11 22:25:21  #公司 #國際
-
-3M 印度公司稱艾哈邁達巴德工廠已全面恢復生產。
-
----
-
-### 2026-08-11 22:23:54  #公司 #國際
-
-【拉脫維亞啟動全國協同行動遏制非法移民】拉脫維亞政府11日啟動代號“狼人行動”的全國協同行動，以遏制該國與白俄羅斯接壤的邊境非法移民活動。據拉脫維亞總理府釋出的新聞公告，此次行動由總理安德里斯·庫爾貝格斯發起，總理府危機管理中心協調內政部下屬邊防警衛隊、國家警察局以及國家武裝部隊等多方聯合行動，計劃持續到8月底。自2021年以來，拉脫維亞方面因移民強行越境持續收緊與白俄羅斯交界處的邊境管制政策，帕特涅基口岸現僅允許機動車通行。拉脫維亞政府7月1日決定將拉白邊境地區的強化警戒狀態延長至今年年底。據當地媒體報道，今年以來，拉脫維亞邊防人員已攔截近9500次非法越境企圖。（新華社）
 
 ---

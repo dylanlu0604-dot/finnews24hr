@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 19:53:07_
-_本檔包含 3140 則快訊，約 606091 字_
+_更新時間：2026-08-15 20:52:16_
+_本檔包含 3107 則快訊，約 604937 字_
+
+---
+
+### 2026-08-14 07:59:01  #其他
+
+【非洲豬瘟持續 芬蘭擬擴大疫情“核心區” 】芬蘭食品管理局12日說，因發現更多因感染非洲豬瘟病毒而死亡的野豬，將擴大此前劃定的疫情核心區，禁止在這一區域內進行狩獵等活動，以防止疫情進一步擴散。 芬蘭食品管理局7月30日證實，在該國東南部維羅拉赫蒂的死亡野豬體內檢測到非洲豬瘟病毒，這是該國首次發現非洲豬瘟病例。芬蘭食品管理局隨即宣佈以感染野豬發現地為中心、半徑約3公里區域為疫情核心區，禁止在這一區域內進行狩獵、採摘、林業作業等活動。
+
+---
+
+### 2026-08-14 07:58:43  #公司 #市場 #觀點 #國際
+
+【歐洲柴油價格一年多以來首超航煤，供應趨緊令市場擔憂】倫敦證交所集團（LSEG）資料顯示，歐洲柴油價格一年多以來首次超過航空煤油價格。這是因為歐洲能夠獲得其他供應來源替代來自中東的航空煤油，但在為工業和農業獲取更多柴油供應方面卻面臨困難。高盛分析師在報告中表示：“隨著冬季臨近，我們認為柴油價格持續出現稀缺性溢價的風險高於原油。LSEG資料顯示，本週柴油價格已超過航煤價格 。8月10日，運抵歐洲的航煤貨物報價較柴油期貨每噸低24美元。根據LSEG和Argus Media資料，這是自2025年7月以來的最大折價幅度。
+
+---
+
+### 2026-08-14 07:58:13  #Trading Economics #Economy #India #Total Vehicle Sales #Importance 1
+
+India Passenger Car Sales Jump 31.2% in July — Passenger vehicle sales in India surged 31.2% year-on-year in July 2026, accelerating sharply from an 18.2% rise in the previous month to 395,199 units, according to data from the Society of Indian Automobile Manufacturers (SIAM). The strong performance was attributed to supportive domestic demand, aided by lower Goods and Services Tax rates and the introduction of new models. “India’s auto industry delivered its strongest-ever July sales, with robust double-digit growth across passenger vehicles. This positive momentum, sustained over several months, has continued as the industry enters the festive season with expectations of strong consumer sentiment,” Rajesh Menon, Director General of SIAM, said.
+
+---
+
+### 2026-08-14 07:57:34  #觀點 #國際
+
+【中信證券：粘膠長絲行業有望進入供需偏緊與價格中樞上行階段】中信證券研報認為，出口需求持續增長、存量供給接近滿負荷執行，粘膠長絲行業有望進入供需偏緊與價格中樞上行階段。印度傳統服飾消費增長帶動中國粘膠長絲出口放量，2025年行業出口量同比增長18.2%至11.4萬噸，2026年上半年進一步同比增長30.9%；同時，2025年國內行業開工率已升至89.8%，半連續紡產能可能面臨政策淘汰、環保改造及搬遷壓力。我們預計2026-2028年行業將呈現供需缺口，產品價格具備向上彈性。重點推薦頭部企業。
+
+---
+
+### 2026-08-14 07:57:32  #觀點 #國際
+
+【中信建投：霍爾木茲海峽僵局持續 地緣風險溢價維持高位】中信建投研報表示，霍爾木茲海峽僵局短期內難以根本解決。美方“軍事速勝”計劃已然落空，對伊政策正從高強度軍事打擊轉向“邊施壓、邊談判”的拉鋸式博弈。伊朗不會輕易放棄霍爾木茲海峽這一對美反制的重要手段。短期看，海峽持續受阻利好油氣開採及能源板塊，利空航空、海運等用能企業；中期走勢取決於美伊談判進展及海峽實際通航恢復情況，地緣不確定性仍將主導油價波動。
+
+---
+
+### 2026-08-14 07:57:14  #市場
+
+【浙江省水利廳提升水旱災害防禦（防颱）應急響應至Ⅱ級】受強降雨影響，今日（8月14日）6時杭州市青山水庫水位上漲至30.44米，東苕溪瓶窯水文站水位上漲至6.76米。根據《浙江省水利廳水旱災害防禦應急工作預案》，省水利廳於今日6時30分將水旱災害防禦（防颱）應急響應提升至Ⅱ級（二級）。當前苕溪等江河高水位執行，相關地區水利部門要保持高度警惕，密切監視水情工情，科學排程水利工程，加強安全管理，做好水旱災害防禦工作。
+
+---
+
+### 2026-08-14 07:56:52  #公司
+
+【北京市就細胞與基因治療高質量發展徵求意見，相關上市公司積極佈局】據北京市政府官網訊息，日前，北京市科學技術委員會、中關村科技園區管理委員會發布《關於促進細胞與基因治療領域高質量發展的若干措施（徵求意見稿）》（以下簡稱《措施》），旨在推動細胞與基因治療（CGT）產業邁向高質量發展。《措施》圍繞創新、臨床、平臺、監管、產業五大維度，推出覆蓋CGT全產業鏈的9項支援舉措。其中特別提出，強化創新品種產業化全鏈條服務機制，醫保部門提前介入、提供醫療服務價格政策輔導，為技術獲批後及時具備合規收費條件做好準備。上市公司積極佈局細胞療法，在投資者互動平臺上透露在細胞治療上的佈局。中源協和表示，公司高度重視細胞治療業務的國際化發展。東富龍表示，公司深耕細胞治療領域。開能健康表示，公司對細胞行業的前景持積極態度。海南海藥表示，在細胞治療領域形成了“參股+合作”的協同佈局。復星醫藥表示，CAR-T細胞治療產品奕凱達獲納入首版商保創新藥品目錄。百普賽斯表示，公司開發的一系列CD19、BCMA、Her2等重組蛋白和抗獨特型抗體產品，可被廣泛用於CAR-T產品開發的過程和測試。資金面上，8月以來共有13股獲融資淨買入，藥明康德、百普賽斯、睿智醫藥融資淨買入金額居前，分別為3.42億元、1.77億元、0.48億元。
+
+---
+
+### 2026-08-14 07:56:01  #市場
+
+【國際金價再上4400美元 金飾漲價催生消費輕量化】時隔兩個月後，國際金價再度回到4400美元/盎司關口上方。國內金飾價格近日來也上漲明顯。卓創資訊研究員彭小真分析，高金價對黃金消費最直接的影響，是消費者的購買門檻明顯提高，但這並不意味著黃金消費會簡單地出現斷崖式下降，更值得關注的是消費結構發生了變化。“首先，消費者的到店諮詢可能仍然存在，但從‘看一看’到實際成交的轉化會有所下降，部分消費者會產生更強的觀望心理。其次，消費者可能透過降低購買克重來控制總預算。也就是說，高金價環境下，消費者並不一定完全不買黃金，而可能從過去購買較大克重的產品，轉向小克重、輕量化以及更加註重設計的產品。”彭小真認為，高金價下，剛需消費和非剛需消費的分化會更加明顯。婚嫁、節慶和部分傳統禮贈需求具有較強的剛性，即使價格上漲，消費者也很難無限期推遲，只是可能透過降低克重、調整款式等方式控制支出。而悅己消費以及非必要的裝飾性消費，價格彈性相對更高。這部分消費者更容易選擇等待價格回撥，或者減少購買克重。
+
+---
+
+### 2026-08-14 07:55:34  #國際
+
+美國中央司令部：在過去48小時內，多家媒體報道了與“亞伯拉罕·林肯”號航空母艦（CVN 72）部署中東相關的多項虛假宣告。其中一則報道聲稱有七名水兵在航母上的一場鬥毆中喪生，其他報道則最近暗示自殺意念激增。這些報道是虛假的。事實是：“亞伯拉罕·林肯”號一直保持著美國海軍所有航母中最高的船員續服率之一（84.4%）。亞伯拉罕·林肯航母打擊群的水兵和海軍陸戰隊員在海上超過260天、執行10,000次飛機飛行並消耗150萬磅彈藥後，依然保持著堅韌和決心。航母上沒有服役人員死亡，而8月3日有一名落水的水兵已被迅速且安全地救回。對“亞伯拉罕·林肯”號歷史性部署的肆意錯誤報道是對我們軍服人員及其親人的不公。
+
+---
+
+### 2026-08-14 07:54:33  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Flat After Strong Session — US stock futures were little changed on Friday after the major averages advanced in the previous session, with the S&P 500 reaching fresh record highs. In regular trading on Thursday, the S&P 500 and Nasdaq Composite rose 0.65% and 0.81%, respectively, putting both benchmarks on course for their third straight weekly gains. The Dow also climbed 70 points, although it remained set to finish the week lower. Seven of the 11 S&P sectors ended in positive territory, led by communication services, real estate and technology stocks. The gains came after headline and core producer prices rose less than expected in July, reinforcing the previous day’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Investors now turn their attention to July retail sales data for further clues on the strength of the economy. Meanwhile, no major earnings reports are scheduled for Friday.
+
+---
+
+### 2026-08-14 07:53:24  #宏觀
+
+【從行業倡議到立法破局 反內捲進入制度化治理新階段】2024年7月，中共中央政治局會議首次提出防止“內卷式”惡性競爭。兩年多來，“內卷式”競爭治理持續進階，從個別行業發起自律倡議，演進為制度規則、行業標準、監管執法多管齊下的綜合治理格局。綜合整治“內卷式”競爭，既是攻堅戰，也是持久戰。2026年7月召開的中共中央政治局會議提出“繼續綜合整治‘內卷式’競爭”，強調將“制定實施全國統一大市場建設條例”。受訪專家認為，隨著未來全國統一大市場建設條例出臺，整治“內卷式”競爭將進入制度化長效治理的關鍵階段。
+
+---
+
+### 2026-08-14 07:53:02  #市場 #國際
+
+美國白宮：恢復美國的海上主導地位。今天，特朗普總統簽署了一份國家安全總統備忘錄，以果斷引領一個新的海上黃金時代，擴大商業造船能力，打造具備抗壓能力的勞動力隊伍，並重振這一關鍵產業。
+
+---
+
+### 2026-08-14 07:50:54  #其他
+
+【浙江省水文管理中心8月14日4時釋出東苕溪瓶窯水文站洪水橙色預警】受短時降雨影響，瓶窯站水位回漲，將發生橙色預警級別的洪水，預警時間範圍8月14日至15日，影響範圍杭州市、餘杭區、湖州市、德清縣、嘉興市。請沿河居民、施工單位和過往船隻注意安全，防範洪水風險。
+
+---
+
+### 2026-08-14 07:50:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Foreign investors were net sellers of JGBs by 58.7 bln yen in the week to Aug 7, versus net purchases of 558.9 bln yen in the prior week.
+
+---
+
+### 2026-08-14 07:50:49  #國際
+
+日本8月7日當週淨買進國外債券 16294億日元，前值 4779億日元。日本8月7日當週淨買進國外股票 9635億日元，前值 -2764億日元。日本8月7日當週外資淨買進日本債券 -587億日元，前值 5589億日元。日本8月7日當週外資淨買進日本股票 -3685億日元，前值 -3925億日元。
+
+---
+
+### 2026-08-14 07:50:47  #MKT News #USDJPY #Impact bullish #DXY
+
+Japan bought foreign equities JPY 963.5 bln in the week to Aug. 7; prior week saw net sales of JPY 276.4 bln.
+
+---
+
+### 2026-08-14 07:50:39  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Bonds (Aug.7) | actual -58700000000B | previous 558900000000B
 
 ---
 
@@ -18643,305 +18745,5 @@ WTI原油突破83美元/桶，日內跌0.70%。
 ### 2026-08-13 05:47:06  #MKT News
 
 White House says Trump signed a memorandum authorizing US law enforcement to use cyber tools to target criminal organizations operating in foreign jurisdictions.
-
----
-
-### 2026-08-13 05:46:03  #國際
-
-白宮：特朗普簽署備忘錄，授權美國執法部門利用網路工具擾亂活躍於境外司法管轄區的犯罪組織。
-
----
-
-### 2026-08-13 05:45:52  #國際
-
-特朗普簽署行政令，打擊境外網路犯罪網路。
-
----
-
-### 2026-08-13 05:45:27  #市場
-
-【估值低位疊加資金佈局 消費板塊迎結構性機會】近期市場風格出現再平衡，消費板塊重新獲得資金關注。中證主要消費指數7月以來累計上漲近10%。消費主題ETF規模近期也持續增長。業內人士認為，當前消費行情更多體現為資金配置再平衡和估值修復預期升溫，後續板塊表現仍需觀察內需恢復和企業盈利改善情況。從投資方向來看，傳統消費龍頭修復、消費品出海及新消費場景成為機構關注重點。（上證報）
-
----
-
-### 2026-08-13 05:44:40  #市場
-
-【高比例分紅難敵行情低迷 REITs吸引力有待進一步提升】8月12日，4只REITs產品在同一天進行場內分紅除息，分紅比例均超過99%。據統計，按照除息日（場內）口徑，今年已有超過70只REITs開啟分紅，其中七成以上的單次分紅規模佔可分配利潤比重超過99%。從二級市場表現來看，截至8月12日收盤，全市場88只已上市REITs中，約八成今年以來收跌，部分REITs跌幅甚至超過40%。即便是今年有過分紅的產品，收跌的產品數量比例也超過80%。 有業內人士分析，高比例分紅確實是REITs產品的一個重要特點，因此這類產品被不少投資者尤其是機構投資者視為類固收資產。不過，比起分紅比例，派息率（可分配金額/市值）以及填息效應其實是更應該關注的指標。對於REITs二級市場的表現，除了受底層資產經營情況影響外，也會因流動性不足而難以吸引資金青睞。（中證報）
-
----
-
-### 2026-08-13 05:43:35  #公司 #市場
-
-【從板塊輪動中脫穎而出 超70只基金淨值創歷史新高】最近，AI概念大漲後市場陷入震盪，板塊快速輪動，無論是股價高位的CPO、PCB等科技板塊，還是低位的地產、白酒、醫藥板塊，同步迎來力度可觀的修復反彈。 賽道回暖帶動科技主題基金淨值持續回血，逐步向前期高點靠攏；不少前期深度回撥的基金亦順勢走出爬坑行情。截至8月11日，超70只來自方正富邦基金、萬家基金、國投瑞銀基金等公司的產品穿越了市場的極致分化，淨值創出歷史新高，有的年內大漲超50%，有的靠均衡防守穩穩爬坡。（證券時報）
-
----
-
-### 2026-08-13 05:42:32  #MKT News
-
-Venezuelan central bank reports July inflation at 19.9%.
-
----
-
-### 2026-08-13 05:39:16  #央行 #其他
-
-委內瑞拉央行：7月通脹率達19.9%。
-
----
-
-### 2026-08-13 05:37:57  #其他
-
-中國地震臺網正式測定：08月13日05時28分在青海海南州興海縣（北緯35.28度，東經99.54度）發生3.7級地震，震源深度10千米。
-
----
-
-### 2026-08-13 05:33:01  #公司
-
-【潘興廣場新增投資維薩、奈飛等標的】潘興廣場公司在致股東信中表示，自完成IPO以來，該基金已完成六筆新增投資。潘興廣場稱：“我們近期新建倉投資了維薩、萬事達卡、奈飛、標普全球、洲際交易所以及愛爾康，這些企業都是我們已密切跟蹤多年的公司。”潘興廣場表示，疊加上述新標的，以及原有持倉微軟、亞馬遜、Meta、優步、布魯克菲爾德、Restaurant Brands國際，將助力基金實現強勁的未來收益。
-
----
-
-### 2026-08-13 05:30:06  #公司
-
-Cerebras首席財務官表示，如果不是因為透過租回更多自有系統來擴大雲容量導致成本上升，公司第二季度調整後毛利率本應高出500個基點。
-
----
-
-### 2026-08-13 05:29:08  #國際
-
-【伊朗：霍爾木茲海峽使用者必須“修復”海灣環境損害】伊朗外交部發言人巴加埃稱：“所有從霍爾木茲海峽商業航運中獲益的各方，在法律和道義上都有義務修復對波斯灣和阿曼海造成的環境損害。”巴加埃表示，“初步證據顯示一艘外國散貨船”是汙染來源。他表示，未來任何有關霍爾木茲海峽控制權的安排，都必須解決該水道的環境狀況。
-
----
-
-### 2026-08-13 05:28:28  #其他
-
-思科預計2027財年人工智慧訂單將大幅增長。
-
----
-
-### 2026-08-13 05:26:05  #國際
-
-市場資訊：美國人工智慧監管框架預計很快將把開源模型納入管轄範圍。
-
----
-
-### 2026-08-13 05:24:40  #MKT News
-
-【U.S. Apache helicopter crashes near Fort Hood, two dead】Local police said on the 12th an Apache military helicopter crashed near Fort Hood, Texas, killing two people.
-
----
-
-### 2026-08-13 05:23:45  #其他
-
-思科：受Mythos帶來的威脅影響，各家企業正將預算重新投向網路安全領域。
-
----
-
-### 2026-08-13 05:20:21  #公司
-
-Cerebras執行長表示，目前254億美元的剩餘履約義務並未反映來自AWS或其他任何超大規模客戶的業務積壓情況。
-
----
-
-### 2026-08-13 05:17:21  #其他
-
-思科2026財年人工智慧相關訂單實現約40億美元營收。
-
----
-
-### 2026-08-13 05:16:06  #其他
-
-思科稱供應鏈並未出現明顯交期問題。
-
----
-
-### 2026-08-13 05:14:44  #其他
-
-思科表示其年度營收指引持審慎態度。
-
----
-
-### 2026-08-13 05:14:25  #公司 #焦點
-
-截至2026年6月30日，上市公司合計持有128萬枚比特幣（價值760億美元），佔比特幣總供給量的6.11%。Strategy仍是最大持有方，持倉846842枚比特幣。
-
----
-
-### 2026-08-13 05:12:46  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-US Commerce Secretary Lutnick said he will announce tomorrow local time that Apple (AAPL.O) will build a Mac mini plant in Texas.
-
----
-
-### 2026-08-13 05:11:25  #其他
-
-思科預計2027年核心業務增速約10%。
-
----
-
-### 2026-08-13 05:10:57  #其他
-
-思科預計2027年安全業務將實現高個位數增長。
-
----
-
-### 2026-08-13 05:10:42  #MKT News #Macro & Rates #US Economy #F.O #Impact bullish
-
-U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs.
-
----
-
-### 2026-08-13 05:08:19  #國際
-
-伊朗稱霍爾木茲海峽使用者必須“彌補”海灣環境損害。
-
----
-
-### 2026-08-13 05:07:33  #其他
-
-【DeepSeek V4 Pro正式版API更新：多項測試效能接近Fable 5】8月13日，DeepSeek官方把V4 Pro從預覽版正式轉正。官方定價頁上，模型版本號已經更新為DeepSeek-V4-Pro-0813。從官方群放出的評測對比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多項測試中接近 Fable 5 水平，相比之前的預覽版能力大幅提升。DeepSeek V4 Pro價格明顯高於V4-Flash。按每1M token計算，快取命中輸入0.025元，快取未命中輸入3元，輸出6元。相比之下，V4-Flash分別為0.02元、1元和2元。
-
----
-
-### 2026-08-13 05:02:58  #MKT News
-
-MSCI said the MSCI Global Index will add 55 securities and remove 92 securities.
-
----
-
-### 2026-08-13 05:01:33  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-Fox Business: White House Council of Economic Advisers chair Furman said the US CPI report weakens the case for further rate hikes.
-
----
-
-### 2026-08-13 04:59:46  #公司 #國際
-
-明晟（MSCI）：阿斯特拉有限公司（ASTRAL）、巴爾克里希納工業有限公司（BALKRISHNA INDUSTRIES）、印度國家銀行支付卡有限公司（SBI CARDS AND PAYMENT）將被剔除出明晟印度指數。
-
----
-
-### 2026-08-13 04:56:58  #國際
-
-【美國佐治亞州校園槍擊案致兩人受傷】據當地警方訊息，美國佐治亞州休斯敦縣一所高中12日發生一起槍擊事件，造成至少兩名學生受傷，嫌疑人已被拘留。
-
----
-
-### 2026-08-13 04:55:17  #公司 #國際
-
-明晟公司（MSCI）：Lenskart Solutions將被納入明晟印度指數。
-
----
-
-### 2026-08-13 04:55:02  #公司 #國際
-
-明晟（MSCI）：泰國正大集團印尼子公司（Charoen Pokphand Indo）將被剔除出明晟印尼指數。
-
----
-
-### 2026-08-13 04:54:34  #公司 #國際
-
-明晟公司（MSCI）：按完全調整後市值計算，納入MSCI世界指數的三大新增成分股分別為美國公司閃迪、卡彭特技術公司（Carpenter Technology）以及美國鋁業公司（ATI）。
-
----
-
-### 2026-08-13 04:54:13  #公司
-
-明晟公司（MSCI）：在本次指數審議中，明晟將繼續不對MSCI孟加拉國指數中歸類為孟加拉國的任何證券實施調整。
-
----
-
-### 2026-08-13 04:53:54  #MKT News
-
-Brazil's Chamber of Deputies approved a bill to establish a new expenditure-control mechanism; the bill will be sent to the Senate.
-
----
-
-### 2026-08-13 04:53:18  #國際
-
-美國商務部長盧特尼克：明日將宣佈蘋果得州Mac mini工廠相關訊息。
-
----
-
-### 2026-08-13 04:52:33  #公司
-
-明晟公司（MSCI）：MSCI世界全股本指數將新增137只成分股，剔除73只成分股。
-
----
-
-### 2026-08-13 04:51:43  #其他
-
-思科預計2027財年AI業務收入75億美元。
-
----
-
-### 2026-08-13 04:51:37  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-A top Codelco executive said the Chilean state miner is studying expanding the pit at the El Teniente copper mine to offset production delayed by seismic-risk concerns.
-
----
-
-### 2026-08-13 04:50:59  #國際
-
-美國商務部長盧特尼克：關稅使福特在美國創造了更多就業機會。
-
----
-
-### 2026-08-13 04:50:44  #國際
-
-美國商務部長盧特尼克：福特正在將更多製造業轉移到美國。
-
----
-
-### 2026-08-13 04:50:28  #公司
-
-智利國家銅業公司高管：公司正研究擴建特尼恩特銅礦的坑採作業面，以彌補因地震風險推遲投產造成的產量損失。
-
----
-
-### 2026-08-13 04:50:14  #其他
-
-【已致剛果（金）兩千餘人死亡 世衛：或為有記錄以來最致命埃博拉疫情】目前，剛果（金）已報告超過4400例埃博拉確診病例、2000多人死亡。世界衛生組織總幹事譚德塞8月12日警告，如果剛果（金）埃博拉疫情維持當前傳播速度，其規模可能超過2014年至2016年西非埃博拉疫情，成為有記錄以來最致命的埃博拉疫情。
-
----
-
-### 2026-08-13 04:49:39  #MKT News
-
-Baghaei, Iran's foreign ministry spokesperson, said Iran, as the country with the longest coastline on the Persian Gulf and Gulf of Oman, urges all parties benefiting from Strait of Hormuz shipping to assume responsibility and remediate environmental damage to the waters.
-
----
-
-### 2026-08-13 04:49:23  #MKT News
-
-Iran foreign ministry spokesman BAGHAEI said oil pollution was detected recently along the coast of Qeshm Island. A preliminary investigation indicates the source may be a foreign bulk carrier; multiple coastal areas and parts of the sea surface have been affected.
-
----
-
-### 2026-08-13 04:49:15  #公司 #市場
-
-【思科公佈遠超預期財測 將業績歸功於創紀錄的“廣泛”需求】思科系統公司給出了遠遠超過華爾街預估的當季營收展望，表明該公司在人工智慧資料中心市場奪取更大網路裝置份額的努力取得了成功。該公司週三在公告中表示，截至10月的第一財季營收將介於180億至182億美元。分析師的平均預估為168億美元。剔除部分專案的每股收益料在1.32至1.34美元，也高於市場預計的1.17美元。公司將強勁的銷售歸功於“對思科技術廣泛且創紀錄的高需求”。行業研究分析師Woo Jin Ho在報告中寫道：“我們預計人工智慧的勢頭將保持強勁。” 思科股價在盤後交易中上漲1%至125.19美元。截至週三收盤，該股今年以來累計攀升了61%。儘管專注於供應人工智慧資料中心，思科的銷售仍然依賴於傳統網路業務。在截至7月的第四財季，該公司營收同比增長18%達到173億美元。不計部分專案的每股收益報1.22美元。分析師此前預測的營收為168億美元，每股收益則在1.17美元。
-
----
-
-### 2026-08-13 04:48:50  #MKT News #Market Themes #The Trump Trade
-
-【Trump media firm's paid 'Truth API' early-access feed faces pushback from trading firms】Trump's media company has launched a paid Truth API feed offering accelerated access to its content. Some trading firms have signed up, but others, including Hudson River Trading and Castle Securities, say they will not pay, arguing the feed is not necessary for trading operations. Legal experts say existing insider-trading rules do not clearly cover a sitting president using his media platform to disseminate market-moving information or selling faster access to that information. SEC Chair Paul Atkins said in an interview the SEC is monitoring the Truth API data stream.
-
----
-
-### 2026-08-13 04:48:28  #其他
-
-思科稱第四財季超大規模客戶訂單實現三位數增幅。
-
----
-
-### 2026-08-13 04:47:39  #國際
-
-美國一架來自胡德堡基地的阿帕奇武裝直升機在得克薩斯州中部墜毀，兩名飛行員全部遇難，事故引發野火，當地已啟動人員疏散。
-
----
-
-### 2026-08-13 04:47:28  #MKT News #Market Themes #Chip Wars
-
-【Cerebras Q2 mixed results; shares tumble 17% after hours】AI chipmaker Cerebras reported Q2 revenue $210m, up 103% YoY. Cloud revenue surged to $126m, nearly 4x YoY, while hardware sales fell 23% to $54.1m. The company posted a net loss of $450.5m in the quarter versus net income of $309.5m a year earlier. Cerebras raised full-year core revenue guidance to $880m–$890m from $855m–$865m previously. It said core gross margin will expand to 38–40% this quarter to address investor concerns. Shares fell more than 17% in after-hours trading. Since its May IPO the stock has risen about 42%. The company, originally positioned as a challenger to NVIDIA, now derives its largest revenue from cloud services.
 
 ---
