@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:43:39_
-_本檔包含 3112 則快訊，約 604339 字_
+_更新時間：2026-08-15 12:55:10_
+_本檔包含 3116 則快訊，約 603719 字_
+
+---
+
+### 2026-08-13 00:02:38  #MKT News
+
+Politico reports Paramount (PSKY.O) CEO has been asked to testify before Congress.
+
+---
+
+### 2026-08-13 00:02:36  #公司
+
+市場訊息：派拉蒙執行長被要求接受國會質詢。
+
+---
+
+### 2026-08-13 00:01:55  #資料 #市場 #國際
+
+俄羅斯統計局：7 月 CPI 環比上漲 0.54%，同比上漲 5.98%。
+
+---
+
+### 2026-08-13 00:01:18  #MKT News #Market Regions #Emerging Markets
+
+Rosstat said Russia's consumer price index rose 0.54% month-on-month in July.
+
+---
+
+### 2026-08-13 00:00:44  #MKT News #Market Regions #Emerging Markets
+
+Rosstat: Russia GDP rose 1.3% YoY in Q2, following a 0.2% YoY contraction in Q1.
+
+---
+
+### 2026-08-12 23:59:37  #市場 #觀點
+
+【Jane Street發行146億美元債券 10年期收益率逾8%】Jane Street發行146億美元債券，這家做市巨頭將把融資所得用於技術基礎設施並拓展交易策略。知情人士稱，Jane Street發行了2031年、2033年和2036年到期的高階擔保票據，規模分別為58.6億美元、51.3億美元和36.4億美元。其中期限最長的一檔債券定價收益率為8.088%。這筆由摩根大通牽頭的固定利率債券發行是Jane Street償還浮動利率貸款並重整110億美元債務負擔計劃的一部分。彭博此前報道，Jane Street一直在與品浩(PIMCO)等機構磋商，由後者提供相關融資。
 
 ---
 
@@ -18769,17 +18805,5 @@ AGILE DEFENSE：獲得價值8800萬美元的美國海軍陸戰隊網路空間作
 ### 2026-08-11 21:11:23  #其他
 
 【哥倫比亞強震死亡人數升至181人】哥倫比亞全國首府協會負責人11日對當地媒體說，10日在該國西部發生的7.4級強震已造成181人死亡、1310人受傷。（新華社）
-
----
-
-### 2026-08-11 21:09:58  #央行 #公司 #國際
-
-【瑞士央行的美股持倉創新高 前三大持股為英偉達、蘋果和微軟】今年第二季度，瑞士央行以美國股票形式持有的外匯儲備增長超過10%，並達到歷史最高水平。根據週二公佈的瑞士央行提交給美國證券交易委員會的所謂13F申報，截至6月30日，該行在2300多家在美國上市公司中的持股價值1914億美元。瑞士央行略微超過四分之一的外匯儲備以股票方式持有，其中一部分投資於在美國上市的股票。前三大持股分別是英偉達、蘋果和微軟。該央行還持有防務軟體公司Palantir Technologies Inc.價值7.166億美元的股份。
-
----
-
-### 2026-08-11 21:09:18  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
 
 ---

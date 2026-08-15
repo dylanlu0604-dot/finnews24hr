@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:43:39_
-_本檔包含 2760 則快訊，約 603552 字_
+_更新時間：2026-08-15 12:55:10_
+_本檔包含 2758 則快訊，約 603390 字_
 
 ---
 
@@ -16659,17 +16659,5 @@ cenc reported a magnitude-5.2 earthquake in Alaska, USA at 12:50 on Aug 8; focal
 ### 2026-08-08 12:56:28  #國際
 
 美國地質調查局（USGS）：阿拉斯加州斯克溫特納西北54公里處發生5.6級地震。
-
----
-
-### 2026-08-08 12:52:33  #國際
-
-美國地質調查局（USGS）：阿拉斯加州斯克溫特納西北偏西59公里處發生5.5級地震。
-
----
-
-### 2026-08-08 12:44:05  #MKT News
-
-CENC reported a magnitude-3.4 earthquake at 12:21 local time on Aug. 8 in Gong County, Yibin, Sichuan; focal depth 9 km.
 
 ---

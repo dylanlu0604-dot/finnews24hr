@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:43:39_
-_本檔包含 3137 則快訊，約 603937 字_
+_更新時間：2026-08-15 12:55:10_
+_本檔包含 3131 則快訊，約 603351 字_
 
 ---
 
@@ -18852,41 +18852,5 @@ CBOT 玉米期貨在美國農業部報告發布後擴大漲幅。
 ### 2026-08-13 00:02:40  #MKT News #Important
 
 USDA August projects 2026/27 US soybean production at 4.519 bln bu, above the market consensus of 4.472 bln and July's 4.475 bln. USDA forecasts 2026/27 US soybean ending stocks at 320 mln bu, versus market 304 mln and July 310 mln. USDA projects yield at 52.7 bu/acre, below the market 52.9 and July's 53.0.
-
----
-
-### 2026-08-13 00:02:38  #MKT News
-
-Politico reports Paramount (PSKY.O) CEO has been asked to testify before Congress.
-
----
-
-### 2026-08-13 00:02:36  #公司
-
-市場訊息：派拉蒙執行長被要求接受國會質詢。
-
----
-
-### 2026-08-13 00:01:55  #資料 #市場 #國際
-
-俄羅斯統計局：7 月 CPI 環比上漲 0.54%，同比上漲 5.98%。
-
----
-
-### 2026-08-13 00:01:18  #MKT News #Market Regions #Emerging Markets
-
-Rosstat said Russia's consumer price index rose 0.54% month-on-month in July.
-
----
-
-### 2026-08-13 00:00:44  #MKT News #Market Regions #Emerging Markets
-
-Rosstat: Russia GDP rose 1.3% YoY in Q2, following a 0.2% YoY contraction in Q1.
-
----
-
-### 2026-08-12 23:59:37  #市場 #觀點
-
-【Jane Street發行146億美元債券 10年期收益率逾8%】Jane Street發行146億美元債券，這家做市巨頭將把融資所得用於技術基礎設施並拓展交易策略。知情人士稱，Jane Street發行了2031年、2033年和2036年到期的高階擔保票據，規模分別為58.6億美元、51.3億美元和36.4億美元。其中期限最長的一檔債券定價收益率為8.088%。這筆由摩根大通牽頭的固定利率債券發行是Jane Street償還浮動利率貸款並重整110億美元債務負擔計劃的一部分。彭博此前報道，Jane Street一直在與品浩(PIMCO)等機構磋商，由後者提供相關融資。
 
 ---

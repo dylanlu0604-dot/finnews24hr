@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 12:43:39_
-_本檔包含 3089 則快訊，約 603767 字_
+_更新時間：2026-08-15 12:55:10_
+_本檔包含 3092 則快訊，約 604523 字_
+
+---
+
+### 2026-08-15 12:52:27  #MKT News
+
+【More than 50 WWII unexploded shells found in central Warsaw】Construction workers found more than 50 suspected World War II-era unexploded shells during excavation at the intersection of Grzybowska and Zelazna streets in central Warsaw on the 13th. Bomb disposal teams attended on the 14th and cleared the ordnance that afternoon; authorities imposed a cordon of roughly 400m, evacuated about 4,000 people from eight nearby buildings and closed the area to pedestrians and vehicles. Two other WWII-era explosive finds were reported in central Warsaw last week.
+
+---
+
+### 2026-08-15 12:51:07  #公司 #國際
+
+【印度下調8月下半年運輸燃料出口稅】印度政府一份公告顯示，印度下調8月中旬至月底的柴油、汽油以及航空煤油出口關稅。 柴油全部消費稅由每升25.5盧比下調至24盧比。 柴油出口的特別附加消費稅（暴利稅）維持每升24盧比不變，取消每升1.5盧比的道路基建稅。 航空渦輪燃料出口徵稅由每升22盧比下調至19.5盧比。 汽油出口關稅從每升3.5盧比調整為零。
+
+---
+
+### 2026-08-15 12:49:58  #市場 #焦點
+
+美銅暗盤突破6.7美元，日內漲幅1.6%。
 
 ---
 
