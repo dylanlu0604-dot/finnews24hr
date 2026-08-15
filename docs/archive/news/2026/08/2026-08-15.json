@@ -1,7 +1,26 @@
 {
   "date": "2026-08-15",
-  "count": 711,
+  "count": 713,
   "items": [
+    {
+      "id": "mkt:01a00547-6add-7aab-9049-02214a3aa1c5",
+      "time": "2026-08-15 19:56:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests."
+    },
+    {
+      "id": "5042301",
+      "time": "2026-08-15 19:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "暑期檔票房破97億。（央視財經）"
+    },
     {
       "id": "5042300",
       "time": "2026-08-15 19:50:49",

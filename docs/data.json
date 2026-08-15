@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-15 19:53:07",
-  "count": 15303,
+  "updated": "2026-08-15 19:56:59",
+  "count": 15304,
   "items": [
+    {
+      "id": "mkt:01a00547-6add-7aab-9049-02214a3aa1c5",
+      "time": "2026-08-15 19:56:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests."
+    },
+    {
+      "id": "5042301",
+      "time": "2026-08-15 19:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "暑期檔票房破97億。（央視財經）"
+    },
     {
       "id": "5042300",
       "time": "2026-08-15 19:50:49",
@@ -140105,14 +140124,6 @@
         "Impact bullish"
       ],
       "text": "【Zelenskiy says US to supply Patriot interceptor missiles to Ukraine monthly】During a visit to Serbia, Ukrainian President Volodymyr Zelenskiy said the US has agreed to deliver Patriot interceptor missiles to Ukraine on a monthly basis, but that this supply alone will not fully close Kyiv’s current shortfall of interceptors."
-    },
-    {
-      "id": "5031949",
-      "time": "2026-08-08 19:53:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞過渡政府部隊遭襲致1死2傷】當地時間8日，敘過渡政府國防部訊息稱，敘過渡政府部隊當天在敘東部代爾祖爾省遭到不明身份武裝人員襲擊，導致一名士兵死亡，兩人受傷。（央視新聞）"
     }
   ]
 }
