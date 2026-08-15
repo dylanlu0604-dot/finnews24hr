@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-15 22:37:57",
-  "count": 15287,
+  "updated": "2026-08-15 22:42:05",
+  "count": 15291,
   "items": [
+    {
+      "id": "mkt:01a005de-08f7-7aab-9049-93c75a06b866",
+      "time": "2026-08-15 22:40:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The office of the Israeli prime minister said HEZBOLLAH launched an attack in Lebanon's \"security zone\", wounding three soldiers."
+    },
+    {
+      "id": "5042379",
+      "time": "2026-08-15 22:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：真主黨在黎巴嫩“安全區”發動襲擊，造成三名士兵受傷。"
+    },
+    {
+      "id": "5042378",
+      "time": "2026-08-15 22:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：《麥加協議》向世界傳遞了重要訊號。《麥加協議》規定，若任一簽署國遭受外部襲擊，所有簽約國都將採取統一行動。該協議未來允許其他國家加入，埃及也有望參與其中。"
+    },
+    {
+      "id": "5042377",
+      "time": "2026-08-15 22:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們將優先推動霍爾木茲海峽恢復通航，持續封鎖這條海峽不符合任何一方的利益。"
+    },
+    {
+      "id": "5042376",
+      "time": "2026-08-15 22:39:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：歐洲似乎無意接納土耳其加入歐盟。加入歐盟已不再是我們的優先事項，土耳其無法入盟，最終受損的只會是歐洲。"
+    },
+    {
+      "id": "5042375",
+      "time": "2026-08-15 22:38:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：特朗普近期訪土期間，我與他探討了必須停止黎巴嫩戰事的相關事宜。"
+    },
+    {
+      "id": "5042374",
+      "time": "2026-08-15 22:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：卡達為調停結束中東地區衝突發揮了重要作用。"
+    },
+    {
+      "id": "5042373",
+      "time": "2026-08-15 22:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：美國在制止以色列對黎巴嫩發動戰事一事上起到關鍵作用。"
+    },
+    {
+      "id": "mkt:01a005db-2a5a-7aab-9049-88c0c5dd2c70",
+      "time": "2026-08-15 22:37:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ERDOGAN said he prioritizes reopening the Strait of Hormuz, saying a prolonged closure would benefit no one."
+    },
     {
       "id": "mkt:01a005da-f8e6-7aab-9049-83294883e783",
       "time": "2026-08-15 22:37:11",
@@ -139911,49 +139986,6 @@
         "Brent"
       ],
       "text": "Iranian media reported President Pezeshkian said now is the best time to reach an agreement, saying Iran is \"strong and united\" and \"seen as a victor in war.\""
-    },
-    {
-      "id": "5032033",
-      "time": "2026-08-08 22:41:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體報道，伊朗總統佩澤什基揚稱，當前是達成協議的最佳時機，因為伊朗“強大團結，且在戰爭中被視為勝利方”。"
-    },
-    {
-      "id": "5032032",
-      "time": "2026-08-08 22:41:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：加拿大要求與美國達成一項全面協議。"
-    },
-    {
-      "id": "5032031",
-      "time": "2026-08-08 22:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：有報道稱加拿大在貿易談判中向美國做出了讓步。"
-    },
-    {
-      "id": "5032030",
-      "time": "2026-08-08 22:40:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：保加利亞方面稱，羅馬尼亞邊境附近出現的無人機大機率來自烏克蘭。"
-    },
-    {
-      "id": "mkt:019fe1d0-f048-7aab-8fc4-cf4afda1cf3e",
-      "time": "2026-08-08 22:39:54",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Analyst: War with Iran risks US credibility, could push Gulf states into alternative defence pacts】Former US State Department official Marlin Hardinger said one cost the United States would pay in a war with Iran is a loss of credibility. He noted Saudi Arabia, Turkey and Pakistan have just signed a defence agreement, which Washington has long feared: if Middle Eastern states no longer view the US as a reliable security partner or unwilling to intervene and provide protection, Gulf states can form their own alliance. In the near term such an alliance could help address urgent defence needs versus Iran; over the longer term it could begin to erode US dominance in the Gulf, a shift Hardinger warned would be negative for both Gulf countries and the United States in coming years."
     }
   ]
 }
