@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:48:41_
-_本檔包含 3131 則快訊，約 604005 字_
+_更新時間：2026-08-15 12:43:39_
+_本檔包含 3137 則快訊，約 603937 字_
+
+---
+
+### 2026-08-14 04:46:10  #其他
+
+Jane Street 披露持有 Cerebras Systems 5.1% 被動股權。
+
+---
+
+### 2026-08-14 04:45:11  #央行 #國際
+
+【美聯儲未來一個月暫停出於準備金管理目的買入美國國庫券】美聯儲週四表示，未來一段時間不會出於準備金管理目的買入美國國庫券，這表明決策者認為金融體系中的銀行準備金處於合意水平。根據紐約聯儲網站，紐約聯儲公開市場操作部門在截至9月14日的月度操作期內，不計劃進行準備金管理購買（RMP），但期間仍計劃進行約170億美元的再投資買入。此次暫停表明，儘管政府現金餘額增加可能抽走市場流動性，貨幣當局仍有信心融資市場能夠平穩執行。市場表現也印證了這一點。擔保隔夜融資利率（SOFR）在7月大部分時間都低於準備金餘額利率（IORB）。截至8月12日，SOFR定盤利率為3.62%，比IORB低3個基點。此次調整並不意味著貨幣政策或資產負債表策略發生變化。
+
+---
+
+### 2026-08-14 04:43:30  #市場 #國際
+
+惠譽：高財政赤字、巨大的利息負擔以及高企且上升的政府債務水平制約了美國評級。預計美國債務上限將在2027年中左右觸及。預計美國2026年通脹率將平均為3.4%。關稅導致核心商品通脹上升，但傳導效應比預期輕微。
+
+---
+
+### 2026-08-14 04:43:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry said the UAE condemns Iran's attack on Abu Dhabi National Oil Company vessels in the Strait of Hormuz.
+
+---
+
+### 2026-08-14 04:42:56  #公司 #國際
+
+阿聯酋外交部：阿聯酋譴責伊朗在霍爾木茲海峽襲擊阿布扎比國家石油公司船隻。
+
+---
+
+### 2026-08-14 04:42:43  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
+
+FITCH: Tariffs have raised core goods inflation, but pass-through has been milder than expected.
+
+---
+
+### 2026-08-14 04:41:59  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+Fitch expects the U.S. debt ceiling to be reached around mid-2027.
+
+---
+
+### 2026-08-14 04:41:59  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+FITCH expects US inflation to average 3.4% in 2026.
+
+---
+
+### 2026-08-14 04:41:51  #公司
+
+應用材料CEO： 預計全球服務業務（AGS）2026 自然年營收增速超 20%，並可實現每年 15% 左右的可持續長期年化增速。
+
+---
+
+### 2026-08-14 04:41:27  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Drops as Weak Earnings Weigh — The Ibovespa shed 0.2% to close at 167,101 on Thursday, erasing earlier gains and retreating to a seven-month low amid a batch of weak corporate earnings. Banco do Brasil shed 4.2% after reporting below-expectation profits in the second quarter. Sabesp tumbled 7% after reporting an 11.2% year-on-year drop in net profit. CSN Mineração lost 5.2% after posting cash flow below market expectations. In contrast, CSN jumped 5.6% despite reporting a net loss, as the loss was smaller than expected and revenue grew 6%. Hapvida sank 33.1% after its second-quarter results showed margin pressure and rising litigation costs. Meanwhile, Rede D’Or added 6.3% after reporting a 9.7% year-on-year increase in net profit. Vale fell 1.7% as iron ore prices declined, with weak profitability among Chinese steelmakers continuing to constrain prospects for a meaningful recovery in ore demand. Petrobras (+1.1%) rose despite lower oil prices as peace negotiations in the Middle East remained at a stalemate.
+
+---
+
+### 2026-08-14 04:41:19  #央行 #國際
+
+美聯儲的FIMA回購機制連續第九周未使用。
+
+---
+
+### 2026-08-14 04:41:10  #公司
+
+應用材料CEO： 大客戶正給予公司更長期的合作承諾，並滾動更新八個季度的預測，以確保供應鏈能夠支撐產能爬坡。
+
+---
+
+### 2026-08-14 04:40:34  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #S&P500 #XAUUSD #Impact bullish
+
+Fitch: high fiscal deficits, a large interest burden and elevated, rising government debt levels constrain the US sovereign credit rating.
+
+---
+
+### 2026-08-14 04:40:32  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish
+
+Fitch says US Medicare and Social Security spending will rise by nearly one percentage point of GDP by 2032, heightening fiscal pressure.
+
+---
+
+### 2026-08-14 04:40:24  #公司
+
+應用材料公司CEO：目前預計 2026 自然年整體封裝業務營收增幅將超過 70%。
+
+---
+
+### 2026-08-14 04:40:04  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Fitch says U.S. political gridlock and government shutdowns could become more frequent and last longer.
+
+---
+
+### 2026-08-14 04:40:01  #MKT News #Market Themes #The Trump Trade #HII.O #Impact mixed
+
+Wall Street Journal: President Trump has ordered the US Navy to remove electromagnetic aircraft launch systems (EMALS) from aircraft carriers and revert to steam catapults; the change is expected to add tens of billions of dollars to retrofit costs.
+
+---
+
+### 2026-08-14 04:39:49  #其他
+
+惠譽： 隨著醫療保險和社會保障支出到 2032 年將接近增加 1 個百分點的國內生產總值，財政壓力將會加劇。
+
+---
+
+### 2026-08-14 04:39:30  #國際
+
+惠譽：美國政治僵局與政府停擺發生機率或將上升，持續時間也可能進一步拉長。
+
+---
+
+### 2026-08-14 04:39:21  #MKT News #Commodities #Energy
+
+【UAE, Qatar firms join BP-led project to develop Venezuela’s Loran gas field】XRG, the investment arm of Abu Dhabi National Oil Company, said on Thursday it has been awarded a development licence for the Loran gas field in the Caribbean, which straddles the Venezuela–Trinidad and Tobago boundary. XRG will hold the licence jointly with BP and Qatar’s UCC to develop more than 4 tcf of gas. The gas is slated to supplement Trinidad’s industrial feedstock, including supply to the Atlantic LNG complex operated by Shell and BP, and to petrochemical and fertilizer plants that have faced multi-year gas rationing.
+
+---
+
+### 2026-08-14 04:38:20  #MKT News #Macro & Rates #US Economy
+
+FITCH expects US inflation to move toward the target by end-2028.
+
+---
+
+### 2026-08-14 04:38:03  #國際
+
+惠譽：美國的評級得益於龐大的經濟、高人均收入、活躍的商業環境和卓越的融資靈活性。預計美國2026-2027年經濟增長將保持相對韌性，達到1.9%，但低於2025年的2.8%。2026年美國勞動力需求減弱，職位創造顯著下降。
+
+---
+
+### 2026-08-14 04:37:54  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #EURUSD
+
+FITCH says US labor demand will weaken in 2026, with job creation set to decline sharply.
+
+---
+
+### 2026-08-14 04:37:41  #MKT News #Macro & Rates #US Economy
+
+Fitch expects US economic growth to remain relatively resilient at 1.9% in 2026-27, below 2025's 2.8%.
+
+---
+
+### 2026-08-14 04:37:22  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #USDJPY
+
+Fitch says the U.S. rating benefits from a large economy, high per-capita income, an active business environment and exceptional financing flexibility.
+
+---
+
+### 2026-08-14 04:36:42  #國際
+
+惠譽確認美國主權評級為 AA+。
+
+---
+
+### 2026-08-14 04:35:52  #國際
+
+市場訊息：特朗普下令海軍恢復航空母艦上的舊有技術裝置。
+
+---
+
+### 2026-08-14 04:35:48  #MKT News #Important
+
+Fitch affirms U.S. sovereign credit rating at 'AA+'; outlook stable.
+
+---
+
+### 2026-08-14 04:35:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%).
+
+---
+
+### 2026-08-14 04:33:03  #公司
+
+泛林集團計劃在未來五年內投資超過30億美元，以擴大其全球實驗室網路，目標是將實驗產能提升50%以上。
+
+---
+
+### 2026-08-14 04:32:33  #公司 #觀點 #國際
+
+花旗集團：花旗美國消費信用卡業務宣佈已達成協議收購 Kard Financial, Inc.
+
+---
+
+### 2026-08-14 04:31:53  #國際
+
+【美防長稱可“無限期維持”對伊朗海上封鎖】美國國防部長赫格塞思13日表示，美軍擁有足夠的軍事力量，可以“無限期維持”對伊朗的海上封鎖。據美國大全新聞網報道，赫格塞思當天在巴拿馬向一艘美國軍艦上的官兵發表講話後對媒體說，“美國海軍完全有能力無限期地維持這種封鎖，因為我們會像過去那樣，繼續輪換艦船”。（新華社）
+
+---
+
+### 2026-08-14 04:31:05  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Foreign official holdings of U.S. Treasuries fell $34.26 bln in the week to Aug. 7, versus a $25.53 bln decline in the prior week.
+
+---
+
+### 2026-08-14 04:31:04  #央行 #市場 #國際
+
+美國至8月7日當週外國央行持有美國國債 -342.57億美元，前值-255.34億美元。
 
 ---
 
@@ -18684,175 +18888,5 @@ Rosstat: Russia GDP rose 1.3% YoY in Q2, following a 0.2% YoY contraction in Q1.
 ### 2026-08-12 23:59:37  #市場 #觀點
 
 【Jane Street發行146億美元債券 10年期收益率逾8%】Jane Street發行146億美元債券，這家做市巨頭將把融資所得用於技術基礎設施並拓展交易策略。知情人士稱，Jane Street發行了2031年、2033年和2036年到期的高階擔保票據，規模分別為58.6億美元、51.3億美元和36.4億美元。其中期限最長的一檔債券定價收益率為8.088%。這筆由摩根大通牽頭的固定利率債券發行是Jane Street償還浮動利率貸款並重整110億美元債務負擔計劃的一部分。彭博此前報道，Jane Street一直在與品浩(PIMCO)等機構磋商，由後者提供相關融資。
-
----
-
-### 2026-08-12 23:58:46  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.5% to close at 8,675 on Wednesday, extending losses from the previous session as luxury stocks weighed heavily on the index. The sector was pressured by a slowdown in global demand, with weaker Chinese consumer spending continuing to cloud the industry's outlook. A recent Kearney study forecasts that luxury spending per capita in China will fall by around 4% in 2026. LVMH shed 2.9%, L’Oréal lost 0.8%, Hermès fell 2.5%, and Kering retreated 3.8%. Meanwhile, Iran and the US remained at odds over efforts to reach a permanent end to the conflict in the Gulf. Iranian officials said there had been no progress in talks to revive the interim deal agreed in June or establish a timeline for its implementation. The comments further dampened hopes of a swift resolution, while attacks on regional shipping on Tuesday pushed oil prices higher. Industrials traded mixed, with Essilor down 4.3% and Air Liquide losing 0.8%, while defense stocks gained, led by a 1.5% rise in Thales.
-
----
-
-### 2026-08-12 23:55:03  #其他
-
-【DeepSeek官網API文件新增“DeepSeek-V4-Pro-0813”模型】DeepSeek官網“API 文件”上的“模型 & 價格”頁面中，模型版本新增了DeepSeek-V4-Pro-0813，其支援非思考與思考模式。不過，官方尚未釋出 DeepSeek-V4-Pro-0813 的更新日誌。
-
----
-
-### 2026-08-12 23:49:52  #公司
-
-貿易商 SUCAFINA ：哥倫比亞布埃納文圖拉港因開展基礎設施評估，咖啡出口業務暫停。該公司正在評估備選運輸路線及物流方案，“儘可能維持咖啡貨運的連續性”。
-
----
-
-### 2026-08-12 23:49:01  #其他
-
-GOOGLE：推出 Google Pixel Tag， 產品將於 11 月 11 日上市，使用者可按 29 美元購買，或以 99 美元購入 4‑pack 套裝。
-
----
-
-### 2026-08-12 23:48:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google launches Pixel Tag.
-
----
-
-### 2026-08-12 23:48:14  #MKT News #BlueMoonMetals #Impact bearish
-
-Short-seller Viceroy Research says it is shorting Blue Moon Metals; the stock is down 8%.
-
----
-
-### 2026-08-12 23:47:19  #MKT News #BX.N #Impact bearish
-
-Blackstone is considering terminating a $3 billion equity-for-cash deal.
-
----
-
-### 2026-08-12 23:46:54  #其他
-
-軟商品貿易商 SUCAFINA 稱，受地震影響，哥倫比亞大部分產區的咖啡運輸 “嚴重受阻”。
-
----
-
-### 2026-08-12 23:45:27  #MKT News
-
-Musk said Grok 4.6 has an Elo rating of 1,336.
-
----
-
-### 2026-08-12 23:44:47  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Sources: Pakistan seeks extension of US-Iran 60-day ceasefire】Al Arabiya cited sources saying Pakistan is actively mediating to extend the 60-day ceasefire agreed under the US‑Iran memorandum of understanding. Mediators say they need more time to resolve remaining differences between Tehran and Washington; Pakistan is reportedly supportive.
-
----
-
-### 2026-08-12 23:43:50  #其他
-
-【渣打牽頭的Anchorpoint推出港元穩定幣】據一封電子郵件宣告顯示，渣打牽頭的持牌穩定幣發行機構Anchorpoint Financial宣佈推出港元穩定幣。港元穩定幣HKDAP透過測試接入面向機構分銷商和專業投資者推出。
-
----
-
-### 2026-08-12 23:43:28  #MKT News
-
-Israel Defense Forces says it killed a Hamas commander in northern Gaza.
-
----
-
-### 2026-08-12 23:43:09  #宏觀 #公司
-
-【瑞士擬立法強制延遲銀行高管獎金髮放 最長可達五年】瑞士政府希望把銀行高管獎金遞延數年發放的要求寫入法律，作為瑞信倒閉後加強金融監管的一攬子措施之一。瑞士政府週三公佈的方案顯示，這項措施將適用於包括瑞銀集團在內的大型銀行，可能要求將40%至60%的浮動薪酬遞延發放，最長可達五年。瑞士財政部長Karin Keller-Sutter在伯爾尼表示：“以犧牲金融穩定為代價換取短期回報，絕對不應得到獎勵。”
-
----
-
-### 2026-08-12 23:42:21  #國際
-
-【黎巴嫩政府軍指責以色列違反框架協議持續襲擊黎南 】黎巴嫩政府軍12日發表宣告說，以色列持續違反現有框架協議和國際法，對黎南部發動持續襲擊並炸燬多處建築，阻礙當地居民返回家園以及黎軍部署。（新華社）
-
----
-
-### 2026-08-12 23:41:50  #MKT News #UBSG.SW #Impact bullish
-
-Switzerland plans to legislate mandatory deferrals of bank top executives' bonus payouts, potentially extending up to five years.
-
----
-
-### 2026-08-12 23:39:04  #市場 #國際
-
-歐洲斯托克50指數收盤跌0.2%，德國DAX指數跌0.2%，英國富時100指數跌0.12%，法國CAC 40指數跌0.46%。
-
----
-
-### 2026-08-12 23:38:55  #公司
-
-【誠志股份：上半年淨利潤同比增長1416%】誠志股份(000990.SZ)公告稱，公司釋出2026年半年度報告，實現營業收入61.47億元，同比增長2.77%；歸屬於上市公司股東的淨利潤2.9億元，同比增長1416.23%。公司Q2淨利潤0.57億，Q1淨利潤2.33億，據此計算，Q2淨利潤環比下降75%。
-
----
-
-### 2026-08-12 23:38:36  #MKT News
-
-【Iran says U.S. Congress should probe increases in Trump’s assets during the conflict】IRGC commander Naghdi said it is clear U.S. military leaders and senior commanders adjusted the tempo of the war to their own interests, and that the U.S. Congress should investigate increases in Trump’s and his associates’ assets during the conflict.
-
----
-
-### 2026-08-12 23:36:53  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equities closed on Wednesday Aug 12: Germany's DAX fell 53.75 points (-0.20%) to 26,341.62; the UK's FTSE 100 dropped 7.55 points (-0.07%) to 10,836.64; France's CAC 40 slid 40.00 points (-0.46%) to 8,674.94; the Euro STOXX 50 lost 15.87 points (-0.24%) to 6,535.35; Spain's IBEX 35 eased 8.44 points (-0.04%) to 20,205.16; Italy's FTSE MIB was essentially flat, up 0.79 points (0.00%) at 53,707.00.
-
----
-
-### 2026-08-12 23:36:30  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-IRGC commander Nakdi said Iran has endured 73 years of US attacks, withstood the pressure, remained united and preserved its territorial integrity, preventing the enemy from achieving its objectives.
-
----
-
-### 2026-08-12 23:35:58  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps commander Naghdi said the US military is weaker than previously thought.
-
----
-
-### 2026-08-12 23:35:12  #市場 #國際
-
-美國至8月12日4個月國債競拍-投標倍數 3.16，前值3.19。
-美國至8月12日4個月國債競拍-得標利率配置百分比 9.14%，前值94.66%。
-美國至8月12日4個月國債競拍-得標利率 3.755%，前值3.79%。
-
----
-
-### 2026-08-12 23:34:03  #MKT News
-
-US 4-month Treasury auction Aug. 12 — stop-out yield 3.755%, prior 3.79%.
-
----
-
-### 2026-08-12 23:33:55  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction High Yield Rate (Aug.12) | actual 3.755% | previous 3.79%
-
----
-
-### 2026-08-12 23:33:39  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-U.S. 4-month Treasury auction on Aug. 12 — percentage of allotment at the stop-out yield 9.14%, prior 94.66%.
-
----
-
-### 2026-08-12 23:32:39  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-US 4-month Treasury auction bid-cover ratio 3.16 on Aug. 12, down from 3.19 previously.
-
----
-
-### 2026-08-12 23:32:28  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.12) | actual 3.16 | previous 3.19
-
----
-
-### 2026-08-12 23:32:26  #公司 #市場
-
-【谷歌釋出新一代Pixel智慧手機 硬體和設計上小幅升級】Alphabet Inc.旗下谷歌釋出最新一代Pixel智慧手機，在硬體和設計上進行小幅升級。新系列包括Pixel 11 Pro XL，起售價1,299美元；Pixel 11 Pro，起售價1,099美元；Pixel 11，899美元。此外還有摺疊屏手機Pixel 11 Pro Fold，起售價1,899美元。新機帶來一些真正的新功能，例如“HiLight”，可把相機閃光燈變成更實用的通知指示燈。此外，還包括一些更務實的改進，例如提升抗刮效能和螢幕亮度。受前所未有的記憶體晶片供應緊張影響，這幾款手機的起售價均較去年上漲100美元。除了提價，谷歌還下調了Pixel 11 Pro和Pro XL基礎版本的記憶體，從去年的16GB降至12GB。高儲存版本仍保留16GB記憶體。不過，新機的基礎儲存容量有所增加，從128GB提高至256GB。
 
 ---

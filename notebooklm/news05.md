@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:48:41_
-_本檔包含 2767 則快訊，約 603769 字_
+_更新時間：2026-08-15 12:43:39_
+_本檔包含 2760 則快訊，約 603552 字_
+
+---
+
+### 2026-08-10 18:23:03  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index #CSI300
+
+【PBOC issues '15th Five-Year' plan to deepen market opening, push RMB internationalization】The PBOC issued its '15th Five-Year Reform and Development Plan', calling to prudently advance high-level financial opening and promote RMB internationalization by expanding RMB use in cross-border trade and investment. The plan directs deeper two-way opening of financial markets, stronger cross-border connectivity of financial infrastructure, development of offshore RMB markets, and a multi-tier, broad-coverage RMB cross-border payments system. It also tasks accelerating Shanghai's build-out as an international financial centre and consolidating and enhancing Hong Kong's IFC status.
+
+---
+
+### 2026-08-10 18:22:58  #MKT News #Market Regions #Greater China
+
+【PBOC issues '15th Five-Year' reform and development plan to strengthen targeted financial support】The PBOC published its '15th Five-Year' reform and development plan, directing a precise, forceful financial policy framework to support major national strategies, priority sectors and weak links. Measures include building a technology-finance framework aligned with tech innovation and creating a high-quality 'science and technology' board in the bond market; improving the efficiency of financial support for green development and the low-carbon transition; advancing inclusive finance and a strengthened pension finance system; accelerating digital finance; and reinforcing financial support to boost and expand consumption.
+
+---
+
+### 2026-08-10 18:22:30  #宏觀
+
+【中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》】為全面貫徹黨的二十大和二十屆歷次全會精神，深入落實中央金融工作會議決策部署，根據《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》有關要求，近日，中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》（以下簡稱《規劃》），並配套制定出臺了9份相關細分領域的行動方案。《規劃》以習近平新時代中國特色社會主義思想為指導，以加快建設金融強國為目標，加快完善中央銀行制度，就“十五五”時期中國人民銀行改革發展重點任務作出部署。
+
+---
+
+### 2026-08-10 18:22:23  #央行 #中國央行
+
+【央行印發《中國人民銀行“十五五”改革發展規劃》】為全面貫徹黨的二十大和二十屆歷次全會精神，深入落實中央金融工作會議決策部署，根據《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》有關要求，近日，中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》（以下簡稱《規劃》），並配套制定出臺了9份相關細分領域的行動方案。《規劃》以習近平新時代中國特色社會主義思想為指導，以加快建設金融強國為目標，加快完善中央銀行制度，就“十五五”時期中國人民銀行改革發展重點任務作出部署。
+
+---
+
+### 2026-08-10 18:22:15  #MKT News #Important #Market Regions #Greater China #CNH
+
+【PBOC to strengthen Chinese-style modern monetary policy framework, refine base-money injection mechanism】The People’s Bank of China published its 15th Five-Year reform and development plan, calling to strengthen a Chinese-characteristics modern monetary policy framework and refine central-bank base-money injection mechanisms. The plan directs monetary and credit policy tools to perform both aggregate and structural roles, deepens market-based interest-rate formation, regulation and transmission, and emphasizes the market’s decisive role in exchange-rate formation while keeping the renminbi broadly stable at a reasonable and balanced level. It also calls for enhancing the macroprudential framework by expanding PBOC macroprudential and financial-stability functions and coverage, diversifying tools, establishing macroprudential monitoring and evaluation, strengthening financial-stability safeguards and prudently resolving risks in key sectors.
+
+---
+
+### 2026-08-10 18:21:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【El Nifio compounds Black Sea tensions; grain supply risks mounting】Black Sea grain exports face new constraints: Danube water levels have hit record lows, curbing shipments via Romania, while intensified Russian strikes have disrupted exports from Odesa and other Ukrainian ports. Russia and Ukraine together account for more than a quarter of global wheat exports; escalating attacks on regional grain infrastructure and vessels are undermining export reliability and adding to supply risk. These disruptions coincide with an unusually strong El Nifio and Middle East tensions that are lifting energy costs and disrupting trade routes. Paris and Chicago wheat and corn futures rose sharply last month.
+
+---
+
+### 2026-08-10 18:21:22  #宏觀
+
+財政部、應急管理部緊急預撥1.8億元中央自然災害救災資金 支援浙江、內蒙古等7省（區）及新疆生產建設兵團做好自然災害應急搶險救災工作（財政部網站）
+
+---
+
+### 2026-08-10 18:19:46  #公司
+
+【ST智知：董事馬力因個人原因辭職】ST智知公告稱，公司董事會近日收到董事馬力書面辭職報告，其因個人原因辭去董事及戰略委員會委員職務，辭職後不再擔任公司任何職務，辭職報告於2026年8月10日送達時生效，原定任期至2029年5月26日。截至公告披露日，馬力未持股，與董事會無意見分歧。其辭職未使董事會成員低於法定最低人數，不會對公司日常經營產生重大影響，公司將按規定補選董事。
+
+---
+
+### 2026-08-10 18:19:43  #公司
+
+【奧特維：出資1000萬元參與設立產業基金，佔比7.14%】奧特維公告，公司作為有限合夥人以自有資金1000萬元認購深高新投南理工（江蘇）創業投資基金合夥企業（有限合夥）份額，佔合夥企業認繳出資總額的7.14%。基金投資領域為高階裝備、新材料等戰略新興產業，合夥企業認繳出資總額為人民幣1.4億元。本次投資事項不構成關聯交易及重大資產重組，已獲公司董事會審議透過。
+
+---
+
+### 2026-08-10 18:18:40  #公司
+
+【新炬網路：2025年度差異化分紅對除權除息參考價影響較小】新炬網路公告稱，2024年公司回購股份247.54萬股用於員工持股計劃或股權激勵，存放於回購專用賬戶，該部分股份不參與利潤分配，致2025年度利潤分配時股權登記日總股本與實際參與分配股份總數有差異，需進行差異化權益分派特殊除權除息處理。2025年度擬嚮應參與分配的1.60億股股東每股派現金紅利0.03元（含稅）。經計算，本次差異化分紅對除權除息參考價格影響的絕對值約為0%，小於1%，影響較小。
+
+---
+
+### 2026-08-10 18:18:37  #公司
+
+【九號公司：2026年上半年淨利潤10.08億元，同比降18.79%】九號公司公告，2026年上半年營業收入143.58億元，同比增長22.28%；歸屬於上市公司股東的淨利潤10.08億元，同比下降18.79%；歸屬於上市公司股東的扣除非經常性損益的淨利潤9.69億元，同比下降26.21%。本報告期無利潤分配預案。
+
+---
+
+### 2026-08-10 18:18:35  #公司 #市場
+
+【景旺電子：股票交易異常波動 不存在應披露未披露重大資訊】景旺電子公告稱，公司股票於2026年8月6日、7日、10日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司生產經營正常，市場環境、行業政策未重大調整。公司正籌劃境外發行H股並在港交所主機板上市，尚需監管機構批准，能否實施有不確定性。截至公告披露日，公司及相關方不存在應披露而未披露的重大資訊。提醒投資者注意交易和投資風險。
+
+---
+
+### 2026-08-10 18:16:58  #其他
+
+【飛豬推出旅行AI產品“飛豬幫幫”】8月10日，飛豬宣佈推出旅行AI產品飛豬幫幫。據瞭解，使用者開口說出具體需求，該產品可以完成做攻略、訂機酒，到退訂改簽、值機選座、升級房型，再到開票報銷、生成旅行回憶內容等事項。
+
+---
+
+### 2026-08-10 18:16:51  #其他
+
+【農業農村部和中國氣象局繼續釋出農田漬澇風險預警】記者從農業農村部瞭解到，受今年第13號颱風“白海豚”殘餘環流和北方降雨系統共同影響，10日夜間至15日，浙江北部和東部、上海、江蘇大部、安徽、湖北中北部、河南、山東西部、河北中南部、山西東南部等地有暴雨到大暴雨，低窪農田漬澇風險高；河南西部和中北部等地的部分地區有特大暴雨，農田漬澇風險很高。建議上述地區及時清溝理渠，做好排澇機具物資準備，雨後及時排澇散墒，適時噴藥追肥，促進作物恢復生長。（央視新聞）
 
 ---
 
@@ -16587,131 +16671,5 @@ cenc reported a magnitude-5.2 earthquake in Alaska, USA at 12:50 on Aug 8; focal
 ### 2026-08-08 12:44:05  #MKT News
 
 CENC reported a magnitude-3.4 earthquake at 12:21 local time on Aug. 8 in Gong County, Yibin, Sichuan; focal depth 9 km.
-
----
-
-### 2026-08-08 12:42:37  #MKT News #Commodities #Industrial Metals
-
-【BHP ship loaders at Port Hedland start 24-hour strike】BHP ship loaders at Port Hedland, Western Australia, began a 24-hour strike to halt loading of bulk carriers between Aug 8–9, starting at 05:30 AWST Saturday. BHP says roughly 200 of about 1,200 port employees are union members eligible to take action; two of seven operational ship loaders are fully automated and expected to be unaffected. Port Hedland handles about 500 mln tonnes of iron ore a year and is among the world’s largest export ports; any disruption could ripple through the global iron ore market. Traders are monitoring whether the dispute will escalate into a prolonged stoppage that could materially affect flows and prices.
-
----
-
-### 2026-08-08 12:37:50  #其他
-
-【航行警告！南海部分海域進行軍事訓練 禁止駛入】據中國海事局網站訊息，三沙海事局釋出航行警告，8月9日5時至12時，南海部分海域進行軍事訓練，禁止駛入。
-
----
-
-### 2026-08-08 12:32:24  #MKT News
-
-【August 2026 box office tops CNY 1.5 bln】Lighthouse Professional data show as of Aug 8 total August box office, including presales, exceeded CNY 1.5 bln. Top five titles are Spider-Man: A New Day; The Eight Immortals!; Kung Fu Women's Football; Annual Party Can't Stop! 2; Obsession.
-
----
-
-### 2026-08-08 12:31:19  #MKT News #Commodities #Energy
-
-Russian operations command said the Ilsky refinery caught fire after drone wreckage fell, RIA reported.
-
----
-
-### 2026-08-08 12:26:56  #Trading Economics #Markets #Brazil #Earnings #Importance 0
-
-Petrobras earnings above expectations at 4.08 BRL — Petrobras (PETR3) released earnings per share at 4.08 BRL, compared to market expectations of 3.27 BRL.
-
----
-
-### 2026-08-08 12:24:59  #MKT News
-
-【Typhoon White Dolphin suspends 40 ferry routes along Fujian coast】Fujian Maritime Safety Administration said Typhoon White Dolphin had forced suspension of 40 passenger ferry routes and 76 passenger ferries along the Fujian coast; all 115 coastal maritime construction projects were halted and 290 construction vessels evacuated, as of 1200 on Aug 8.
-
----
-
-### 2026-08-08 12:24:30  #其他
-
-【受颱風“白海豚”影響 福建沿海40條航線停航】從福建海事局瞭解到，為了防禦颱風“白海豚”，截至8日12時，福建沿海共有40條客渡運航線停運，76艘客渡船停航。福建沿海全部115個水上施工作業專案停工，撤離290艘施工作業船舶。
-
----
-
-### 2026-08-08 12:24:06  #其他
-
-【杭臺高鐵溫玉段開通運營】據中國鐵建，8月8日，由鐵建投資作為聯合體牽頭人投資建設，鐵五院勘察設計，中鐵十四局、中鐵二十四局、中鐵建設、中國鐵建電氣化局等單位參建的杭州經紹興至台州高鐵溫嶺至玉環段（簡稱杭臺高鐵溫玉段）正式開通運營，玉環從不通鐵路直接邁入高鐵時代，杭州至玉環最快1小時47分高鐵直達，台州市實現“縣縣通鐵路”。（央視新聞）
-
----
-
-### 2026-08-08 12:23:27  #焦點 #國際
-
-【貝森特稱霍爾木茲海峽將逐步失去戰略重要性】美國財政部長斯科特·貝森特日前在接受美國亞利桑那州地方電視臺採訪時說，隨著地緣政治局勢變化，今後越來越多能源運輸將繞過霍爾木茲海峽。他認為，霍爾木茲海峽將逐步失去戰略重要性。當地媒體報道，貝森特在採訪中說，鑑於伊朗試圖控制霍爾木茲海峽這條咽喉要道，海峽將無法回到過去的狀態。他聲稱，在接下來兩年時間裡，海峽將變成一片普通水域，逐步變得不再那麼重要。貝森特說，經由霍爾木茲海峽運輸的能源中，有超過50%甚至70%今後將逐步改由地下管道輸送。 貝森特此前曾多次表達類似觀點，即霍爾木茲海峽作為全球能源咽喉的地位被削弱。在貝森特看來，沙烏地阿拉伯、阿聯酋等國現有輸油管道的擴建與改建，以及繞過海峽的地下和陸路管網升級，會在很大程度上替代以往透過油輪穿越海峽的運輸方式。 （新華社）
-
----
-
-### 2026-08-08 12:19:33  #市場
-
-【金飾克價重返1300元】國內黃金飾品價格對比顯示，國內多家品牌足金飾品價格重返1300元，其中周生生足金飾品報1315元/克，周大福報價1308元/克，老廟黃金報價1310元/克。
-
----
-
-### 2026-08-08 12:14:23  #國際
-
-【美官員：預計霍爾木茲海峽協議將“很快達成”】路透社7日援引一名美國官員的話報道稱，伊朗與阿曼圍繞霍爾木茲海峽的談判“有進展”，“預計很快達成協議”。這名官員說，一旦協議達成，霍爾木茲海峽恢復商業航運，美國將解除對伊海上封鎖。這名官員同時重申，美方行動將繼續基於伊朗履行承諾的實際情況。美國阿克西奧斯新聞網站記者巴拉克·拉維德7日在社交媒體上說，一名美伊談判調解方外交官告訴他，伊朗談判代表正在等待伊朗最高國家安全委員會就協議作出最終決定，“預計很快獲得批准”。（新華社）
-
----
-
-### 2026-08-08 12:13:45  #MKT News #CRM.O
-
-Documents show Salesforce will lay off 74 employees at its San Francisco headquarters.
-
----
-
-### 2026-08-08 12:13:27  #MKT News
-
-【Sources: Musk refuses Ukraine request to use Starlink to strike targets inside Russia】US reports on July 7 say SpaceX founder Elon Musk explicitly refused to allow the Ukrainian military to use SpaceX’s Starlink satellite internet system to strike targets inside Russia. US outlets cited two aides to ex-Ukrainian defense minister Fedorov saying Fedorov had pushed for Starlink strikes and privately contacted Musk but was turned down. Sources say Musk has not agreed, reportedly citing concern the crisis could escalate further.
-
----
-
-### 2026-08-08 12:11:00  #國際
-
-當地官員稱，俄羅斯伊爾斯基煉油廠遭無人機襲擊後發生火災。
-
----
-
-### 2026-08-08 12:03:37  #宏觀
-
-【上半年製造業企業轉型升級步伐加快】市場監管總局公佈資料顯示，上半年製造業企業轉型升級步伐加快。作為實體經濟的根基，製造業穩步發展壯大，相關企業不斷向價值鏈上游攀升。一是裝備製造業向高階邁進。上半年，高階裝備製造業新設企業2.8萬戶，同比增長2.5%。其中，智慧裝備製造業增長6.4%，城市軌道裝備製造業增長4.4%。二是高技術製造業增勢強勁。截至6月底，高技術製造業企業總量達33.0萬戶，上半年新設1.5萬戶。其中，航天器及運載火箭製造業新設企業同比增長185.7%，光纖、光纜製造業增長129.4%，積體電路製造業增長24.2%。三是產能過剩行業企業有序出清。上半年，新能源汽車、光伏、鋰電池產業相關企業登出7632戶、5089戶、155戶，同比分別增長4.6%、8.3%、12.3%。
-
----
-
-### 2026-08-08 12:02:49  #宏觀
-
-【上半年服務業新設企業395.7萬戶】市場監管總局公佈資料顯示，上半年服務業新設企業395.7萬戶，與去年同期持平。傳統消費承壓前行，新消費增長點活力顯現，持續為擴內需促消費注入新動能。一是傳統商貿企業穩中有增。上半年，批發零售業新設企業173.7萬戶，同比增長2.9%。二是新型消費業態活力迸發。“銀髮經濟”產業新設相關企業3.1萬戶，同比增長16.0%；文化旅遊產業新設相關企業147.5萬戶，保持較快增長勢頭；“名特優新”個體工商戶達到18.4萬戶。三是高技術服務業加速壯大。資訊傳輸和軟體技術服務業新設企業32.2萬戶，同比增長3.3%；檢驗檢測服務業新設企業1.6萬戶，增長43.9%；科技成果轉化服務業新設企業45.9萬戶，增長6.8%。
-
----
-
-### 2026-08-08 12:02:05  #宏觀
-
-【新興產業新設企業40萬戶 上半年全國經營主體發展資料釋出】8月8日，市場監管總局公佈資料顯示，新產業新賽道企業蓄能成勢，服務業新消費與高技術服務業雙輪驅動，製造業轉型加快，產業發展亮點紛呈。新產業新賽道相關企業持續增動能。上半年，全國新設“8大新興產業+9大未來產業”相關企業56.1萬戶，保持穩定增長態勢，為推動新質生產力發展注入源頭活水。一是新興產業加速成長。作為構建產業鏈供應鏈韌性重要佈局的“8大新興產業”，共新設相關企業40.0萬戶，持續發揮創新引領作用。二是未來產業加快孕育。作為搶佔科技制高點前瞻佈局的“9大未來產業”，共新設相關企業20.0萬戶，展現出巨大的發展潛力和增長動能。三是部分前沿領域呈現爆發式增長。生成式人工智慧領域新設企業5.5萬戶，同比增長28.0%；人形機器人領域新設企業11.6萬戶，增長9.5%，正加速形成新的經濟增長點。
-
----
-
-### 2026-08-08 12:00:09  #MKT News #GBPUSD #Impact bearish
-
-【Deutsche Bank: Downside risk to UK Q2 GDP has increased】Next week's key UK release is Thursday's Q2 GDP report. Deutsche Bank's UK economists expect June GDP to fall 0.1% MoM, leaving 2026 Q2 GDP growth at 0.4% QoQ, but say downside risks have increased.
-
----
-
-### 2026-08-08 11:59:58  #其他
-
-【2026年8月票房破15億】據燈塔專業版，截至8月8日，2026年8月總票房（含預售）突破15億，《蜘蛛俠：嶄新之日》《八仙！》《功夫女足》《年會不能停！2》《痴迷》暫列8月票房榜前五。
-
----
-
-### 2026-08-08 11:57:19  #公司 #國際
-
-【美媒：馬斯克拒絕讓烏克蘭用“星鏈”打擊俄境內目標】美國媒體7日披露，美國太空探索技術公司(SpaceX)創始人馬斯克明確拒絕允許烏克蘭軍方利用SpaceX旗下衛星網際網路系統“星鏈”打擊俄羅斯境內目標。美國《大西洋》雜誌以烏前國防部長費多羅夫兩名“身邊人”為訊息源報道，費多羅夫此前一直在推動利用“星鏈”打擊俄羅斯境內目標，曾嘗試透過私下渠道與馬斯克接觸，但遭到後者拒絕。“截至目前，（馬斯克）沒有作出同意的決定。”報道稱，馬斯克之所以拒絕烏方用“星鏈”對俄進行縱深打擊，是擔心危機進一步升級。2022年烏克蘭危機全面升級後，馬斯克曾免費向烏克蘭提供數萬個“星鏈”終端。但他後來頻頻與烏方發生爭執，敦促後者與俄方達成和平協議。（新華社）
-
----
-
-### 2026-08-08 11:49:11  #市場
-
-【鄱陽湖水位持續下降 跌破14米】受近期持續高溫天氣影響，我國最大淡水湖鄱陽湖水位快速下降。截至8月8日8時，鄱陽湖標誌性水文站星子站水位下降至13.97米，較昨日下降0.13米，鄱陽湖湖口站水位下降至13.84米，湖區兩岸退水痕跡明顯。（央視新聞）
 
 ---

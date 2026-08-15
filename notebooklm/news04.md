@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:48:41_
-_本檔包含 3174 則快訊，約 603857 字_
+_更新時間：2026-08-15 12:43:39_
+_本檔包含 3195 則快訊，約 603075 字_
+
+---
+
+### 2026-08-11 21:08:42  #公司
+
+雅培：與谷歌多年合作將雅培的Lingo生物可穿戴裝置的血糖觀察與谷歌健康技術相結合。
+
+---
+
+### 2026-08-11 21:08:36  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Pulls Back on Iran Deal Hopes — Crude oil fell below $82 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
+
+---
+
+### 2026-08-11 21:08:15  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #ABT.O #GOOGL.O
+
+Abbott and Google launched their first joint project to apply blood-glucose insights and artificial intelligence to everyday health management.
+
+---
+
+### 2026-08-11 21:07:45  #MKT News #ABT.O #Impact bullish #GOOGL.O
+
+Abbott to integrate its Lingo biowearable glucose monitoring with Google Health technology after years of collaboration.
+
+---
+
+### 2026-08-11 21:07:20  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #ABT.O
+
+Abbott said its collaboration with Google includes large-scale studies to better guide AI training.
+
+---
+
+### 2026-08-11 21:07:18  #公司
+
+雅培與谷歌：合作涵蓋大規模研究專案，旨在為人工智慧輔導應用提供更完善的依據。
+
+---
+
+### 2026-08-11 21:07:00  #國際
+
+美國司法部將對明尼蘇達州初選開展選舉監督工作。
+
+---
+
+### 2026-08-11 21:07:00  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Nemotron 3.5 Lightning can run locally on NVIDIA RTX PCs, NVIDIA DGX Spark, OEM systems equipped with the GB10, and the NVIDIA Jetson platform.
+
+---
+
+### 2026-08-11 21:06:33  #其他
+
+市場訊息：大衛·埃裡森威脅，若加州政府拒絕就反壟斷訴訟達成和解，將於10月1日起把派拉蒙遷出加州。
+
+---
+
+### 2026-08-11 21:06:04  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): Nemo Switchyard cuts cost to complete benchmarks to one-third of OPUS 4.8.
+
+---
+
+### 2026-08-11 21:05:30  #MKT News
+
+REUTERS SURVEY: Argentina's monthly inf forecast for July 2.0%, up from 1.9% in June.
+
+---
+
+### 2026-08-11 21:05:22  #公司 #國際
+
+【英偉達全力研發Nemotron 4開源大模型 拉動晶片需求同時直面客戶競爭】英偉達正加碼佈局開源賽道，投入資源自研一款重磅大模型。公司希望藉助該模型拉動硬體需求，但此舉也意味著它或將與自身客戶、合作伙伴形成競爭。多名參與 Nemotron 專案的人士透露，英偉達計劃打造 Nemotron 4 系列中規模最大的基礎模型，目標效能對標全球頂尖開源大模型。英偉達上一代旗艦大模型相關論文擁有 570 名作者，員工表示 Nemotron 4 參與研發人員規模將進一步擴大。一名前員工稱：“現階段所有人都希望能夠參與其中。”英偉達近期持續推出多款開源模型，本次研發建立在此基礎之上。週二，英偉達釋出 Nemotron 3.5 Lightning 輕量化模型，主打高效、高速執行智慧體。公司同時推出免費模型路由軟體，幫助企業快速搭建模型排程工具 —— 這類工具能夠將不同 AI 任務分配給適配且成本最優的模型。多名 Nemotron 專案員工透露，旗艦版 Nemotron 4 引數量至少達到萬億級別。引數量是模型學習過程中持續調整的引數單元，這一規模大約是英偉達當前旗艦模型 Nemotron 3 Ultra（6 月釋出）的兩倍。即便達到萬億引數，該模型體量依舊小於美國頭部開源大模型；不過英偉達十分看重模型壓縮技術，依靠該技術，更小體量模型也有望實現更優表現。
+
+---
+
+### 2026-08-11 21:05:12  #其他
+
+英偉達推出Nemotron 3.5 Lightning大模型，可透過OpenRouter、英偉達開發者平臺build.nvidia.com及雲合作伙伴獲取
+
+---
+
+### 2026-08-11 21:05:09  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Inditex Stock Price Hits 12-year High — Inditex shares increased to 59.33 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 8.25%, and in the last 12 months, it increased 40.34%.
+
+---
+
+### 2026-08-11 21:04:53  #公司 #市場
+
+【英偉達美股盤前漲近2%】英偉達美股盤前漲近2%。據報道，公司正在開發一款新的Nemotron 4開源AI模型。
+
+---
+
+### 2026-08-11 21:04:43  #其他
+
+洛克希德・馬丁將為 MPDS 專案投入數百萬美元資金。
+
+---
+
+### 2026-08-11 21:04:20  #其他
+
+英偉達：NEMO Switchyard將基準測試完成成本降至Opus 4.8的三分之一。
+
+---
+
+### 2026-08-11 21:04:14  #其他
+
+英偉達已攜手vLLM、Ollama、llama.cpp、LM Studio、Unsloth，共同推出Nemotron 3.5 Lightning大模型。
+
+---
+
+### 2026-08-11 21:03:57  #公司 #市場
+
+雅培與谷歌就血糖資料分析與人工智慧達成多年合作，雅培股價盤前上漲1%。
+
+---
+
+### 2026-08-11 21:03:57  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
+
+The Information reported several NVIDIA (NVDA.O) employees working on the NEMOTRON project said they expect the largest NEMOTRON 4 model to have at least 1 trillion parameters.
+
+---
+
+### 2026-08-11 21:03:49  #國際
+
+市場訊息：以色列國防軍向加沙地帶構成威脅的哈馬斯狙擊手開火。
+
+---
+
+### 2026-08-11 21:03:34  #其他
+
+英偉達推出Nemotron 3.5 Lightning開放版300億引數混合專家模型。
+
+---
+
+### 2026-08-11 21:03:29  #其他
+
+國際金融協會（IIF）：7月份新興市場股票資金流出放緩至78億美元，低於6月份的461億美元。7月份新興市場債務吸引資金流入267億美元，6月份為281億美元。7月份非居民投資者向新興市場投資組合淨增188億美元，結束了連續兩個月的資金外流。截至7月，新興市場債務流入量達到2144億美元，而2025年同期預計為1777億美元。截至7月份，新興市場股票年度資金流出總額為860億美元，而去年同期為90億美元。
+
+---
+
+### 2026-08-11 21:03:18  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA releases NEMOTRON 3.5 LIGHTNING open model.
+
+---
+
+### 2026-08-11 21:02:48  #其他 #焦點
+
+市場訊息：英偉達正在開發全新開源人工智慧模型Nemotron 4。
+
+---
+
+### 2026-08-11 21:02:48  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+The Information reports NVIDIA (NVDA.O) is developing a new Nemotron 4 open-source AI model.
+
+---
+
+### 2026-08-11 21:02:38  #公司
+
+雅培將與谷歌開展大規模代謝健康研究。
+
+---
+
+### 2026-08-11 21:02:17  #MKT News #Market Regions #Emerging Markets
+
+IIF: As of July, annual outflows from emerging-market equities totaled $86bn, versus $9bn a year earlier.
+
+---
+
+### 2026-08-11 21:01:56  #公司 #國際
+
+洛克希德·馬丁公司獲得美國導彈防禦局（MDA）合同，負責現代化改造導彈防禦模擬框架。
+
+---
+
+### 2026-08-11 21:01:53  #MKT News #Market Regions #Emerging Markets #S&P500 #Impact bullish #DXY #Impact bearish #CNH
+
+IIF: Emerging-market debt inflows in July reached $214.4bn, versus an expected $177.7bn for the same period in 2025.
+
+---
+
+### 2026-08-11 21:01:52  #國際
+
+俄羅斯6月份進口額達307.93億美元。
+
+---
+
+### 2026-08-11 21:01:47  #國際
+
+俄羅斯6月份貿易順差達124.61億美元。
+
+---
+
+### 2026-08-11 21:01:36  #國際
+
+俄羅斯6月份出口額達432.54億美元。
+
+---
+
+### 2026-08-11 21:01:30  #MKT News #Market Regions #Emerging Markets #CNH #Impact bullish #DXY #Impact bearish
+
+IIF: Non-resident investors posted net inflows of $18.8 bln into emerging-market portfolios in July, ending two consecutive months of outflows.
+
+---
+
+### 2026-08-11 21:01:15  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #S&P500
+
+IIF: Nonresident investors recorded net portfolio inflows of $18.8bn into emerging markets in July, reversing two months of outflows.
 
 ---
 
@@ -19047,89 +19257,5 @@ The SENSEX Index Closes 0.06% Higher — The SENSEX Index rose 43 points or 0.06
 ### 2026-08-10 18:23:22  #MKT News #Market Regions #Greater China
 
 【PBOC issues '15th Five‑Year' plan to build advanced, reliable and resilient financial infrastructure】The PBOC issued its '15th Five‑Year' reform and development plan, calling for a rationally distributed, well‑governed, advanced, reliable and resilient financial infrastructure system. Key measures include improving central bank service quality and efficiency; upgrading financial statistics, payments, treasury and cash‑service systems; steady development of the digital renminbi; promotion of high‑quality credit‑reporting services; strengthened anti‑money‑laundering supervision; and reinforcing legal and digital governance of central‑bank functions.
-
----
-
-### 2026-08-10 18:23:03  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index #CSI300
-
-【PBOC issues '15th Five-Year' plan to deepen market opening, push RMB internationalization】The PBOC issued its '15th Five-Year Reform and Development Plan', calling to prudently advance high-level financial opening and promote RMB internationalization by expanding RMB use in cross-border trade and investment. The plan directs deeper two-way opening of financial markets, stronger cross-border connectivity of financial infrastructure, development of offshore RMB markets, and a multi-tier, broad-coverage RMB cross-border payments system. It also tasks accelerating Shanghai's build-out as an international financial centre and consolidating and enhancing Hong Kong's IFC status.
-
----
-
-### 2026-08-10 18:22:58  #MKT News #Market Regions #Greater China
-
-【PBOC issues '15th Five-Year' reform and development plan to strengthen targeted financial support】The PBOC published its '15th Five-Year' reform and development plan, directing a precise, forceful financial policy framework to support major national strategies, priority sectors and weak links. Measures include building a technology-finance framework aligned with tech innovation and creating a high-quality 'science and technology' board in the bond market; improving the efficiency of financial support for green development and the low-carbon transition; advancing inclusive finance and a strengthened pension finance system; accelerating digital finance; and reinforcing financial support to boost and expand consumption.
-
----
-
-### 2026-08-10 18:22:30  #宏觀
-
-【中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》】為全面貫徹黨的二十大和二十屆歷次全會精神，深入落實中央金融工作會議決策部署，根據《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》有關要求，近日，中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》（以下簡稱《規劃》），並配套制定出臺了9份相關細分領域的行動方案。《規劃》以習近平新時代中國特色社會主義思想為指導，以加快建設金融強國為目標，加快完善中央銀行制度，就“十五五”時期中國人民銀行改革發展重點任務作出部署。
-
----
-
-### 2026-08-10 18:22:23  #央行 #中國央行
-
-【央行印發《中國人民銀行“十五五”改革發展規劃》】為全面貫徹黨的二十大和二十屆歷次全會精神，深入落實中央金融工作會議決策部署，根據《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》有關要求，近日，中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》（以下簡稱《規劃》），並配套制定出臺了9份相關細分領域的行動方案。《規劃》以習近平新時代中國特色社會主義思想為指導，以加快建設金融強國為目標，加快完善中央銀行制度，就“十五五”時期中國人民銀行改革發展重點任務作出部署。
-
----
-
-### 2026-08-10 18:22:15  #MKT News #Important #Market Regions #Greater China #CNH
-
-【PBOC to strengthen Chinese-style modern monetary policy framework, refine base-money injection mechanism】The People’s Bank of China published its 15th Five-Year reform and development plan, calling to strengthen a Chinese-characteristics modern monetary policy framework and refine central-bank base-money injection mechanisms. The plan directs monetary and credit policy tools to perform both aggregate and structural roles, deepens market-based interest-rate formation, regulation and transmission, and emphasizes the market’s decisive role in exchange-rate formation while keeping the renminbi broadly stable at a reasonable and balanced level. It also calls for enhancing the macroprudential framework by expanding PBOC macroprudential and financial-stability functions and coverage, diversifying tools, establishing macroprudential monitoring and evaluation, strengthening financial-stability safeguards and prudently resolving risks in key sectors.
-
----
-
-### 2026-08-10 18:21:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【El Nifio compounds Black Sea tensions; grain supply risks mounting】Black Sea grain exports face new constraints: Danube water levels have hit record lows, curbing shipments via Romania, while intensified Russian strikes have disrupted exports from Odesa and other Ukrainian ports. Russia and Ukraine together account for more than a quarter of global wheat exports; escalating attacks on regional grain infrastructure and vessels are undermining export reliability and adding to supply risk. These disruptions coincide with an unusually strong El Nifio and Middle East tensions that are lifting energy costs and disrupting trade routes. Paris and Chicago wheat and corn futures rose sharply last month.
-
----
-
-### 2026-08-10 18:21:22  #宏觀
-
-財政部、應急管理部緊急預撥1.8億元中央自然災害救災資金 支援浙江、內蒙古等7省（區）及新疆生產建設兵團做好自然災害應急搶險救災工作（財政部網站）
-
----
-
-### 2026-08-10 18:19:46  #公司
-
-【ST智知：董事馬力因個人原因辭職】ST智知公告稱，公司董事會近日收到董事馬力書面辭職報告，其因個人原因辭去董事及戰略委員會委員職務，辭職後不再擔任公司任何職務，辭職報告於2026年8月10日送達時生效，原定任期至2029年5月26日。截至公告披露日，馬力未持股，與董事會無意見分歧。其辭職未使董事會成員低於法定最低人數，不會對公司日常經營產生重大影響，公司將按規定補選董事。
-
----
-
-### 2026-08-10 18:19:43  #公司
-
-【奧特維：出資1000萬元參與設立產業基金，佔比7.14%】奧特維公告，公司作為有限合夥人以自有資金1000萬元認購深高新投南理工（江蘇）創業投資基金合夥企業（有限合夥）份額，佔合夥企業認繳出資總額的7.14%。基金投資領域為高階裝備、新材料等戰略新興產業，合夥企業認繳出資總額為人民幣1.4億元。本次投資事項不構成關聯交易及重大資產重組，已獲公司董事會審議透過。
-
----
-
-### 2026-08-10 18:18:40  #公司
-
-【新炬網路：2025年度差異化分紅對除權除息參考價影響較小】新炬網路公告稱，2024年公司回購股份247.54萬股用於員工持股計劃或股權激勵，存放於回購專用賬戶，該部分股份不參與利潤分配，致2025年度利潤分配時股權登記日總股本與實際參與分配股份總數有差異，需進行差異化權益分派特殊除權除息處理。2025年度擬嚮應參與分配的1.60億股股東每股派現金紅利0.03元（含稅）。經計算，本次差異化分紅對除權除息參考價格影響的絕對值約為0%，小於1%，影響較小。
-
----
-
-### 2026-08-10 18:18:37  #公司
-
-【九號公司：2026年上半年淨利潤10.08億元，同比降18.79%】九號公司公告，2026年上半年營業收入143.58億元，同比增長22.28%；歸屬於上市公司股東的淨利潤10.08億元，同比下降18.79%；歸屬於上市公司股東的扣除非經常性損益的淨利潤9.69億元，同比下降26.21%。本報告期無利潤分配預案。
-
----
-
-### 2026-08-10 18:18:35  #公司 #市場
-
-【景旺電子：股票交易異常波動 不存在應披露未披露重大資訊】景旺電子公告稱，公司股票於2026年8月6日、7日、10日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司生產經營正常，市場環境、行業政策未重大調整。公司正籌劃境外發行H股並在港交所主機板上市，尚需監管機構批准，能否實施有不確定性。截至公告披露日，公司及相關方不存在應披露而未披露的重大資訊。提醒投資者注意交易和投資風險。
-
----
-
-### 2026-08-10 18:16:58  #其他
-
-【飛豬推出旅行AI產品“飛豬幫幫”】8月10日，飛豬宣佈推出旅行AI產品飛豬幫幫。據瞭解，使用者開口說出具體需求，該產品可以完成做攻略、訂機酒，到退訂改簽、值機選座、升級房型，再到開票報銷、生成旅行回憶內容等事項。
-
----
-
-### 2026-08-10 18:16:51  #其他
-
-【農業農村部和中國氣象局繼續釋出農田漬澇風險預警】記者從農業農村部瞭解到，受今年第13號颱風“白海豚”殘餘環流和北方降雨系統共同影響，10日夜間至15日，浙江北部和東部、上海、江蘇大部、安徽、湖北中北部、河南、山東西部、河北中南部、山西東南部等地有暴雨到大暴雨，低窪農田漬澇風險高；河南西部和中北部等地的部分地區有特大暴雨，農田漬澇風險很高。建議上述地區及時清溝理渠，做好排澇機具物資準備，雨後及時排澇散墒，適時噴藥追肥，促進作物恢復生長。（央視新聞）
 
 ---

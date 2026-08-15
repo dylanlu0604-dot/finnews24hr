@@ -1,7 +1,177 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:48:41_
-_本檔包含 3119 則快訊，約 603644 字_
+_更新時間：2026-08-15 12:43:39_
+_本檔包含 3112 則快訊，約 604339 字_
+
+---
+
+### 2026-08-12 23:58:46  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.5% to close at 8,675 on Wednesday, extending losses from the previous session as luxury stocks weighed heavily on the index. The sector was pressured by a slowdown in global demand, with weaker Chinese consumer spending continuing to cloud the industry's outlook. A recent Kearney study forecasts that luxury spending per capita in China will fall by around 4% in 2026. LVMH shed 2.9%, L’Oréal lost 0.8%, Hermès fell 2.5%, and Kering retreated 3.8%. Meanwhile, Iran and the US remained at odds over efforts to reach a permanent end to the conflict in the Gulf. Iranian officials said there had been no progress in talks to revive the interim deal agreed in June or establish a timeline for its implementation. The comments further dampened hopes of a swift resolution, while attacks on regional shipping on Tuesday pushed oil prices higher. Industrials traded mixed, with Essilor down 4.3% and Air Liquide losing 0.8%, while defense stocks gained, led by a 1.5% rise in Thales.
+
+---
+
+### 2026-08-12 23:55:03  #其他
+
+【DeepSeek官網API文件新增“DeepSeek-V4-Pro-0813”模型】DeepSeek官網“API 文件”上的“模型 & 價格”頁面中，模型版本新增了DeepSeek-V4-Pro-0813，其支援非思考與思考模式。不過，官方尚未釋出 DeepSeek-V4-Pro-0813 的更新日誌。
+
+---
+
+### 2026-08-12 23:49:52  #公司
+
+貿易商 SUCAFINA ：哥倫比亞布埃納文圖拉港因開展基礎設施評估，咖啡出口業務暫停。該公司正在評估備選運輸路線及物流方案，“儘可能維持咖啡貨運的連續性”。
+
+---
+
+### 2026-08-12 23:49:01  #其他
+
+GOOGLE：推出 Google Pixel Tag， 產品將於 11 月 11 日上市，使用者可按 29 美元購買，或以 99 美元購入 4‑pack 套裝。
+
+---
+
+### 2026-08-12 23:48:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google launches Pixel Tag.
+
+---
+
+### 2026-08-12 23:48:14  #MKT News #BlueMoonMetals #Impact bearish
+
+Short-seller Viceroy Research says it is shorting Blue Moon Metals; the stock is down 8%.
+
+---
+
+### 2026-08-12 23:47:19  #MKT News #BX.N #Impact bearish
+
+Blackstone is considering terminating a $3 billion equity-for-cash deal.
+
+---
+
+### 2026-08-12 23:46:54  #其他
+
+軟商品貿易商 SUCAFINA 稱，受地震影響，哥倫比亞大部分產區的咖啡運輸 “嚴重受阻”。
+
+---
+
+### 2026-08-12 23:45:27  #MKT News
+
+Musk said Grok 4.6 has an Elo rating of 1,336.
+
+---
+
+### 2026-08-12 23:44:47  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Sources: Pakistan seeks extension of US-Iran 60-day ceasefire】Al Arabiya cited sources saying Pakistan is actively mediating to extend the 60-day ceasefire agreed under the US‑Iran memorandum of understanding. Mediators say they need more time to resolve remaining differences between Tehran and Washington; Pakistan is reportedly supportive.
+
+---
+
+### 2026-08-12 23:43:50  #其他
+
+【渣打牽頭的Anchorpoint推出港元穩定幣】據一封電子郵件宣告顯示，渣打牽頭的持牌穩定幣發行機構Anchorpoint Financial宣佈推出港元穩定幣。港元穩定幣HKDAP透過測試接入面向機構分銷商和專業投資者推出。
+
+---
+
+### 2026-08-12 23:43:28  #MKT News
+
+Israel Defense Forces says it killed a Hamas commander in northern Gaza.
+
+---
+
+### 2026-08-12 23:43:09  #宏觀 #公司
+
+【瑞士擬立法強制延遲銀行高管獎金髮放 最長可達五年】瑞士政府希望把銀行高管獎金遞延數年發放的要求寫入法律，作為瑞信倒閉後加強金融監管的一攬子措施之一。瑞士政府週三公佈的方案顯示，這項措施將適用於包括瑞銀集團在內的大型銀行，可能要求將40%至60%的浮動薪酬遞延發放，最長可達五年。瑞士財政部長Karin Keller-Sutter在伯爾尼表示：“以犧牲金融穩定為代價換取短期回報，絕對不應得到獎勵。”
+
+---
+
+### 2026-08-12 23:42:21  #國際
+
+【黎巴嫩政府軍指責以色列違反框架協議持續襲擊黎南 】黎巴嫩政府軍12日發表宣告說，以色列持續違反現有框架協議和國際法，對黎南部發動持續襲擊並炸燬多處建築，阻礙當地居民返回家園以及黎軍部署。（新華社）
+
+---
+
+### 2026-08-12 23:41:50  #MKT News #UBSG.SW #Impact bullish
+
+Switzerland plans to legislate mandatory deferrals of bank top executives' bonus payouts, potentially extending up to five years.
+
+---
+
+### 2026-08-12 23:39:04  #市場 #國際
+
+歐洲斯托克50指數收盤跌0.2%，德國DAX指數跌0.2%，英國富時100指數跌0.12%，法國CAC 40指數跌0.46%。
+
+---
+
+### 2026-08-12 23:38:55  #公司
+
+【誠志股份：上半年淨利潤同比增長1416%】誠志股份(000990.SZ)公告稱，公司釋出2026年半年度報告，實現營業收入61.47億元，同比增長2.77%；歸屬於上市公司股東的淨利潤2.9億元，同比增長1416.23%。公司Q2淨利潤0.57億，Q1淨利潤2.33億，據此計算，Q2淨利潤環比下降75%。
+
+---
+
+### 2026-08-12 23:38:36  #MKT News
+
+【Iran says U.S. Congress should probe increases in Trump’s assets during the conflict】IRGC commander Naghdi said it is clear U.S. military leaders and senior commanders adjusted the tempo of the war to their own interests, and that the U.S. Congress should investigate increases in Trump’s and his associates’ assets during the conflict.
+
+---
+
+### 2026-08-12 23:36:53  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+European equities closed on Wednesday Aug 12: Germany's DAX fell 53.75 points (-0.20%) to 26,341.62; the UK's FTSE 100 dropped 7.55 points (-0.07%) to 10,836.64; France's CAC 40 slid 40.00 points (-0.46%) to 8,674.94; the Euro STOXX 50 lost 15.87 points (-0.24%) to 6,535.35; Spain's IBEX 35 eased 8.44 points (-0.04%) to 20,205.16; Italy's FTSE MIB was essentially flat, up 0.79 points (0.00%) at 53,707.00.
+
+---
+
+### 2026-08-12 23:36:30  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+IRGC commander Nakdi said Iran has endured 73 years of US attacks, withstood the pressure, remained united and preserved its territorial integrity, preventing the enemy from achieving its objectives.
+
+---
+
+### 2026-08-12 23:35:58  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps commander Naghdi said the US military is weaker than previously thought.
+
+---
+
+### 2026-08-12 23:35:12  #市場 #國際
+
+美國至8月12日4個月國債競拍-投標倍數 3.16，前值3.19。
+美國至8月12日4個月國債競拍-得標利率配置百分比 9.14%，前值94.66%。
+美國至8月12日4個月國債競拍-得標利率 3.755%，前值3.79%。
+
+---
+
+### 2026-08-12 23:34:03  #MKT News
+
+US 4-month Treasury auction Aug. 12 — stop-out yield 3.755%, prior 3.79%.
+
+---
+
+### 2026-08-12 23:33:55  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction High Yield Rate (Aug.12) | actual 3.755% | previous 3.79%
+
+---
+
+### 2026-08-12 23:33:39  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+U.S. 4-month Treasury auction on Aug. 12 — percentage of allotment at the stop-out yield 9.14%, prior 94.66%.
+
+---
+
+### 2026-08-12 23:32:39  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+US 4-month Treasury auction bid-cover ratio 3.16 on Aug. 12, down from 3.19 previously.
+
+---
+
+### 2026-08-12 23:32:28  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.12) | actual 3.16 | previous 3.19
+
+---
+
+### 2026-08-12 23:32:26  #公司 #市場
+
+【谷歌釋出新一代Pixel智慧手機 硬體和設計上小幅升級】Alphabet Inc.旗下谷歌釋出最新一代Pixel智慧手機，在硬體和設計上進行小幅升級。新系列包括Pixel 11 Pro XL，起售價1,299美元；Pixel 11 Pro，起售價1,099美元；Pixel 11，899美元。此外還有摺疊屏手機Pixel 11 Pro Fold，起售價1,899美元。新機帶來一些真正的新功能，例如“HiLight”，可把相機閃光燈變成更實用的通知指示燈。此外，還包括一些更務實的改進，例如提升抗刮效能和螢幕亮度。受前所未有的記憶體晶片供應緊張影響，這幾款手機的起售價均較去年上漲100美元。除了提價，谷歌還下調了Pixel 11 Pro和Pro XL基礎版本的記憶體，從去年的16GB降至12GB。高儲存版本仍保留16GB記憶體。不過，新機的基礎儲存容量有所增加，從128GB提高至256GB。
 
 ---
 
@@ -18611,215 +18781,5 @@ AGILE DEFENSE：獲得價值8800萬美元的美國海軍陸戰隊網路空間作
 ### 2026-08-11 21:09:18  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
-
----
-
-### 2026-08-11 21:08:42  #公司
-
-雅培：與谷歌多年合作將雅培的Lingo生物可穿戴裝置的血糖觀察與谷歌健康技術相結合。
-
----
-
-### 2026-08-11 21:08:36  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Pulls Back on Iran Deal Hopes — Crude oil fell below $82 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
-
----
-
-### 2026-08-11 21:08:15  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #ABT.O #GOOGL.O
-
-Abbott and Google launched their first joint project to apply blood-glucose insights and artificial intelligence to everyday health management.
-
----
-
-### 2026-08-11 21:07:45  #MKT News #ABT.O #Impact bullish #GOOGL.O
-
-Abbott to integrate its Lingo biowearable glucose monitoring with Google Health technology after years of collaboration.
-
----
-
-### 2026-08-11 21:07:20  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #ABT.O
-
-Abbott said its collaboration with Google includes large-scale studies to better guide AI training.
-
----
-
-### 2026-08-11 21:07:18  #公司
-
-雅培與谷歌：合作涵蓋大規模研究專案，旨在為人工智慧輔導應用提供更完善的依據。
-
----
-
-### 2026-08-11 21:07:00  #國際
-
-美國司法部將對明尼蘇達州初選開展選舉監督工作。
-
----
-
-### 2026-08-11 21:07:00  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Nemotron 3.5 Lightning can run locally on NVIDIA RTX PCs, NVIDIA DGX Spark, OEM systems equipped with the GB10, and the NVIDIA Jetson platform.
-
----
-
-### 2026-08-11 21:06:33  #其他
-
-市場訊息：大衛·埃裡森威脅，若加州政府拒絕就反壟斷訴訟達成和解，將於10月1日起把派拉蒙遷出加州。
-
----
-
-### 2026-08-11 21:06:04  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): Nemo Switchyard cuts cost to complete benchmarks to one-third of OPUS 4.8.
-
----
-
-### 2026-08-11 21:05:30  #MKT News
-
-REUTERS SURVEY: Argentina's monthly inf forecast for July 2.0%, up from 1.9% in June.
-
----
-
-### 2026-08-11 21:05:22  #公司 #國際
-
-【英偉達全力研發Nemotron 4開源大模型 拉動晶片需求同時直面客戶競爭】英偉達正加碼佈局開源賽道，投入資源自研一款重磅大模型。公司希望藉助該模型拉動硬體需求，但此舉也意味著它或將與自身客戶、合作伙伴形成競爭。多名參與 Nemotron 專案的人士透露，英偉達計劃打造 Nemotron 4 系列中規模最大的基礎模型，目標效能對標全球頂尖開源大模型。英偉達上一代旗艦大模型相關論文擁有 570 名作者，員工表示 Nemotron 4 參與研發人員規模將進一步擴大。一名前員工稱：“現階段所有人都希望能夠參與其中。”英偉達近期持續推出多款開源模型，本次研發建立在此基礎之上。週二，英偉達釋出 Nemotron 3.5 Lightning 輕量化模型，主打高效、高速執行智慧體。公司同時推出免費模型路由軟體，幫助企業快速搭建模型排程工具 —— 這類工具能夠將不同 AI 任務分配給適配且成本最優的模型。多名 Nemotron 專案員工透露，旗艦版 Nemotron 4 引數量至少達到萬億級別。引數量是模型學習過程中持續調整的引數單元，這一規模大約是英偉達當前旗艦模型 Nemotron 3 Ultra（6 月釋出）的兩倍。即便達到萬億引數，該模型體量依舊小於美國頭部開源大模型；不過英偉達十分看重模型壓縮技術，依靠該技術，更小體量模型也有望實現更優表現。
-
----
-
-### 2026-08-11 21:05:12  #其他
-
-英偉達推出Nemotron 3.5 Lightning大模型，可透過OpenRouter、英偉達開發者平臺build.nvidia.com及雲合作伙伴獲取
-
----
-
-### 2026-08-11 21:05:09  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Inditex Stock Price Hits 12-year High — Inditex shares increased to 59.33 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 8.25%, and in the last 12 months, it increased 40.34%.
-
----
-
-### 2026-08-11 21:04:53  #公司 #市場
-
-【英偉達美股盤前漲近2%】英偉達美股盤前漲近2%。據報道，公司正在開發一款新的Nemotron 4開源AI模型。
-
----
-
-### 2026-08-11 21:04:43  #其他
-
-洛克希德・馬丁將為 MPDS 專案投入數百萬美元資金。
-
----
-
-### 2026-08-11 21:04:20  #其他
-
-英偉達：NEMO Switchyard將基準測試完成成本降至Opus 4.8的三分之一。
-
----
-
-### 2026-08-11 21:04:14  #其他
-
-英偉達已攜手vLLM、Ollama、llama.cpp、LM Studio、Unsloth，共同推出Nemotron 3.5 Lightning大模型。
-
----
-
-### 2026-08-11 21:03:57  #公司 #市場
-
-雅培與谷歌就血糖資料分析與人工智慧達成多年合作，雅培股價盤前上漲1%。
-
----
-
-### 2026-08-11 21:03:57  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
-
-The Information reported several NVIDIA (NVDA.O) employees working on the NEMOTRON project said they expect the largest NEMOTRON 4 model to have at least 1 trillion parameters.
-
----
-
-### 2026-08-11 21:03:49  #國際
-
-市場訊息：以色列國防軍向加沙地帶構成威脅的哈馬斯狙擊手開火。
-
----
-
-### 2026-08-11 21:03:34  #其他
-
-英偉達推出Nemotron 3.5 Lightning開放版300億引數混合專家模型。
-
----
-
-### 2026-08-11 21:03:29  #其他
-
-國際金融協會（IIF）：7月份新興市場股票資金流出放緩至78億美元，低於6月份的461億美元。7月份新興市場債務吸引資金流入267億美元，6月份為281億美元。7月份非居民投資者向新興市場投資組合淨增188億美元，結束了連續兩個月的資金外流。截至7月，新興市場債務流入量達到2144億美元，而2025年同期預計為1777億美元。截至7月份，新興市場股票年度資金流出總額為860億美元，而去年同期為90億美元。
-
----
-
-### 2026-08-11 21:03:18  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA releases NEMOTRON 3.5 LIGHTNING open model.
-
----
-
-### 2026-08-11 21:02:48  #其他 #焦點
-
-市場訊息：英偉達正在開發全新開源人工智慧模型Nemotron 4。
-
----
-
-### 2026-08-11 21:02:48  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-The Information reports NVIDIA (NVDA.O) is developing a new Nemotron 4 open-source AI model.
-
----
-
-### 2026-08-11 21:02:38  #公司
-
-雅培將與谷歌開展大規模代謝健康研究。
-
----
-
-### 2026-08-11 21:02:17  #MKT News #Market Regions #Emerging Markets
-
-IIF: As of July, annual outflows from emerging-market equities totaled $86bn, versus $9bn a year earlier.
-
----
-
-### 2026-08-11 21:01:56  #公司 #國際
-
-洛克希德·馬丁公司獲得美國導彈防禦局（MDA）合同，負責現代化改造導彈防禦模擬框架。
-
----
-
-### 2026-08-11 21:01:53  #MKT News #Market Regions #Emerging Markets #S&P500 #Impact bullish #DXY #Impact bearish #CNH
-
-IIF: Emerging-market debt inflows in July reached $214.4bn, versus an expected $177.7bn for the same period in 2025.
-
----
-
-### 2026-08-11 21:01:52  #國際
-
-俄羅斯6月份進口額達307.93億美元。
-
----
-
-### 2026-08-11 21:01:47  #國際
-
-俄羅斯6月份貿易順差達124.61億美元。
-
----
-
-### 2026-08-11 21:01:36  #國際
-
-俄羅斯6月份出口額達432.54億美元。
-
----
-
-### 2026-08-11 21:01:30  #MKT News #Market Regions #Emerging Markets #CNH #Impact bullish #DXY #Impact bearish
-
-IIF: Non-resident investors posted net inflows of $18.8 bln into emerging-market portfolios in July, ending two consecutive months of outflows.
-
----
-
-### 2026-08-11 21:01:15  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #S&P500
-
-IIF: Nonresident investors recorded net portfolio inflows of $18.8bn into emerging markets in July, reversing two months of outflows.
 
 ---

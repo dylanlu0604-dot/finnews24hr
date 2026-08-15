@@ -1,7 +1,128 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 11:48:41_
-_本檔包含 3104 則快訊，約 603838 字_
+_更新時間：2026-08-15 12:43:39_
+_本檔包含 3089 則快訊，約 603767 字_
+
+---
+
+### 2026-08-15 12:40:30  #國際
+
+【疑似受沙門氏菌汙染 美國千萬枚雞蛋被召回】法新社14日報道說，美國一家企業上月自願召回疑似受沙門氏菌汙染的上千萬枚雞蛋。美國食品和藥物管理局本週將此定為“一級召回”，這意味著所涉食品“存在嚴重健康風險、甚至可能造成死亡”。（新華社）
+
+---
+
+### 2026-08-15 12:38:58  #國際
+
+【印尼7.7級地震已致東努沙登加拉省5人死亡】當地時間8月15日，印尼東努沙登加拉省長萊納表示，目前印尼7.7級地震已造成該省5人死亡。（央視新聞）
+
+---
+
+### 2026-08-15 12:30:03  #MKT News #WTI #Impact bullish #Brent
+
+【Iran FM: No decision yet on resuming talks with US】On Aug. 14 Iran’s foreign minister said mediators Qatar and Pakistan are exchanging information and remain in contact with Tehran, but that does not constitute formal negotiations. Iran has not decided whether to resume talks with the United States. He said separate talks with Oman are underway to establish shipping lanes to allow vessel passage through the Strait of Hormuz — a distinct issue from ‘opening’ the strait — and that Iran would only restore passage if the United States meets certain conditions.
+
+---
+
+### 2026-08-15 12:29:45  #其他
+
+【美團：已有20多個城市正評估“紅燈停表”相關試點條件】美團“紅燈停表”功能日前在北京試點路測。隨後美團在北京舉行騎手懇談會聽取騎手以及專業意見。另據美團介紹，已有20餘個城市正在評估訊號燈資料和試點條件。此外，今年計劃在200餘個城市開展“不闖紅燈”正向激勵。
+
+---
+
+### 2026-08-15 12:29:00  #焦點 #國際
+
+【伊外長：伊朗目前沒有決定是否與美國重新開始談判】當地時間8月14日，伊朗外長阿拉格齊在接受媒體採訪時表示，目前調停方卡達和巴基斯坦都在進行資訊交流並與伊朗保持聯絡，但這並不意味著正在進行談判。伊朗目前沒有決定是否與美國重新開始談判。阿拉格齊還表示，伊朗與阿曼的談判正在進行，與確定霍爾木茲海峽的航線以便船舶通行有關，與霍爾木茲海峽的開放問題是兩個完全不同的議題。阿拉格齊同時強調，只有在美國遵守某些條件的情況下，伊朗才會恢復霍爾木茲海峽通行。（央視新聞）
+
+---
+
+### 2026-08-15 12:28:38  #焦點 #國際
+
+【今日特朗普要聞】
+1、特朗普美東時間8月14日表態，美國將對伊朗實施嚴厲的經濟打擊，並揚言徹底擊敗伊朗後宣佈霍爾木茲海峽為美國領土。
+2、特朗普公開敦促美國民眾接受更高油價，稱高昂油價是阻止伊朗擁核需要付出的必要代價，自己對此絕不道歉。
+3、特朗普證實，部署在中東的林肯號航母即將撤離，將由華盛頓號航母接替駐中東任務。
+4、特朗普8月13日簽署國家安全備忘錄，數十年來首次放開限制，允許合格外國船廠在境外為美國海軍建造最多兩艘艦船，以緩解交付壓力。
+5、特朗普14日正式向美國最高法院提起上訴，請求准許繼續推進白宮宴會廳改造專案，反對法院的停工禁令。
+6、特朗普公開批評美國國家歷史保護信託基金會，指責該機構名頭具有誤導性，長期阻礙優質專案落地，此次惡意叫停白宮宴會廳改造工程。
+7、以色列大選臨近僅剩75天，面對媒體多次追問，特朗普至今未公開表態力挺選戰陷入劣勢的內塔尼亞胡。
+
+---
+
+### 2026-08-15 12:26:42  #MKT News
+
+【Welcome to Long Restaurant box office tops 600 mln yuan】Lighthouse Pro real-time data show the film Welcome to Long Restaurant surpassed 600 mln yuan in box office receipts as of Aug 15 12:22.
+
+---
+
+### 2026-08-15 12:25:16  #國際
+
+【美國汽車研究中心最新報告：美國汽車行業必須跟上中國速度】這幾天“中國速度”成為新聞熱詞，美國汽車研究中心最新報告提出的核心結論是：美國汽車行業必須跟上“中國速度”，這個結論緣於近期這家研究中心與業內高管和專家開展的一次圓桌討論會議，與會者將“中國速度”描述為“中國圍繞一系列元素構建的一整套完整工業生態系統，包括快速決策、數字工程、垂直整合供應鏈網路、充裕資金和支援政策等”。（央視財經）
+
+---
+
+### 2026-08-15 12:24:35  #其他
+
+據燈塔專業版實時資料，截至8月15日12時22分，影片《歡迎來龍餐館》票房突破6億。
+
+---
+
+### 2026-08-15 12:21:47  #MKT News
+
+【Election pressure mounts; Iran is 'testing' Trump, former US envoy says】Former US ambassador to Syria and White House adviser Mark Kinsberg told Al Jazeera that Trump’s decisions are driven primarily by domestic political pressure and the midterm elections rather than long-term strategy. He said Tehran understands Washington’s internal dynamics, is prepared for a protracted campaign and is closely watching US polls. Kinsberg said Iran is 'testing' Trump and betting the US will ultimately abandon its demands and that Iran will secure sanctions relief. He added that rising US public frustration leaves Trump politically unable to admit failure.
+
+---
+
+### 2026-08-15 12:18:51  #其他
+
+【香港與內地企業共商農產品出海 預估意向成交額超18億港元】第四屆助力內地優質農產品出海交流合作對接會14日在香港舉辦。會議為廣大企業宣講內地農產品供港的基本政策、出口流程、基地備案、檢驗標準等，助力內地優質農產品供給香港，對接全球市場。據介紹，本屆對接會共有來自內地的參展企業代表以及香港的採購商、渠道商200餘人參會，預估意向成交金額超過18億港元，展會規模、行業覆蓋面和意向成交額均創下歷屆新高。（中國新聞網）
+
+---
+
+### 2026-08-15 12:18:12  #國際
+
+【印尼東努沙登加拉省發生5.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日11時54分，印尼東努沙登加拉省納克縣姆拜鎮東北42公里處發生5.0級地震，震源深度10公里。（央視新聞）
+
+---
+
+### 2026-08-15 12:13:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【NYT: Bahrain base strike crippled logistics hub, caused early supply shortfalls on USS Lincoln】The New York Times reports supply shortages aboard the carrier Lincoln began shortly after day one of the war, when Iranian missiles and attack drones struck a US Navy base in Bahrain. The strike, described as Iran’s reprisal for a joint US-Israeli attack on Tehran, destroyed most base facilities and hit a primary naval logistics hub. The Navy implemented contingency plans to keep round-the-clock flight operations supplied and to sustain a blockade of Iranian ports. Loss of the Bahrain hub generated numerous problem reports aboard the carrier; Democratic senators voiced concern for roughly 5,000 sailors and the ship’s nearly nine-month deployment.
+
+---
+
+### 2026-08-15 12:01:55  #公司 #國際
+
+【北京飛曼徹斯特航班發生機械故障，備降俄羅斯 海南航空道歉】8月15日，海南航空官微發文稱：2026年8月15日，我司HU753（北京-曼徹斯特）航班因機械故障原因備降俄羅斯克拉斯諾亞爾斯克國際機場，該航班已於北京時間07:28安全落地。海南航空表示，公司計劃更換飛機執行後繼航班，將妥善做好旅客服務保障工作，確保安全抵達目的地。由此給各位旅客造成的不便，深表歉意，海南航空始終秉承安全第一、旅客至上的理念，為廣大旅客提供安全舒適快捷的服務。
+
+---
+
+### 2026-08-15 11:55:39  #國際
+
+【波蘭華沙市中心發現50餘枚二戰未爆炮彈】施工人員13日在波蘭首都華沙市中心發現50餘枚據信為第二次世界大戰時期遺留的未爆炮彈，約4000人被疏散，目前這批炮彈已被清理。（新華社）
+
+---
+
+### 2026-08-15 11:54:39  #其他
+
+上海市水文總站2026年08月15日11時31分更新黃浦江高潮位黃色預警訊號為黃浦江高潮位藍色預警訊號：目前，風暴增水減弱，上游來水仍影響本市，預計，16日03時00分黃浦江蘇州河口最高潮位達到4.75米左右，上海市水文總站更新黃浦江高潮位黃色預警訊號至藍色預警訊號。
+
+---
+
+### 2026-08-15 11:54:10  #國際
+
+【美參議員稱以總理換人也一樣糟糕】美國聯邦參議員伯尼·桑德斯在8月13日播出的一檔播客節目中表示，以色列即將迎來大選，但換掉現任總理內塔尼亞胡也並不能解決問題。“以色列總理很糟糕，換掉他一切就能好起來”這種話說起來容易，但以色列國內的情況並非這麼簡單。他表示，受以色列媒體的影響，許多普通以色列人並未意識到以色列已被國際社會排斥到何種程度，與此同時，以色列民眾中的右傾勢力已相當龐大，以色列總理內塔尼亞胡還在助長這一趨勢。桑德斯表示，希望以色列能出現“勇敢的新領導人”，直面並解決問題，但目前似乎沒有這樣的人出現。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 11:53:58  #國際
+
+【韓國執政黨與在野黨對日本官員參拜靖國神社表示“深切遺憾”】8月15日是日本無條件投降日，也是韓國的光復節。日本防衛大臣小泉進次郎等內閣成員以及執政的自民黨高層參拜靖國神社後，韓國執政黨及在野黨一致對此進行批評並表達了遺憾。（央視新聞）
+
+---
+
+### 2026-08-15 11:47:39  #國際
+
+【專家：巴西與阿根廷關係降級或影響整個南美洲】阿總統米萊7月25日在巴西自由黨於聖保羅舉行的全國大會上強烈批評巴西總統盧拉，並抗議巴西聯邦最高法院法官阻止其探望服刑中的巴前總統博索納羅。本月4日，巴西外交部表示，巴西政府決定將巴阿外交關係降至代辦級，並要求阿根廷駐巴西大使雷蒙迪返回阿根廷。近日，巴西國際關係專家克里斯蒂娜在接受總檯記者採訪時表示，此次巴阿外交關係降級或將對整個南美洲造成影響。（央視新聞）
 
 ---
 
@@ -18541,209 +18662,5 @@ Iran set its September Asian selling price for Iranian Light crude at a $4.70/bb
 ### 2026-08-14 04:47:47  #Trading Economics #Economy #Argentina #Inflation Rate MoM #Importance 1
 
 Argentina Monthly Inflation Edges Higher in July — Argentina’s consumer price index rose 2.1% month-over-month in July 2026, up from 1.9% in June and slightly above forecasts of 2.0%. Seasonal prices increased 4.5%, led by vegetables, tour packages and accommodation services, while regulated prices rose 2.1%, reflecting higher public transportation fares, private healthcare costs and electricity prices. Recreation and Culture recorded the largest monthly increase at 5.0%, driven by higher tour packages and cultural services, followed by Restaurants and Hotels at 2.8%. Across Greater Buenos Aires, the Northeast, Northwest, Pampas and Patagonia, Food and Non-Alcoholic Beverages made the largest contribution to monthly inflation, driven by higher vegetable, dairy, bread and cereal prices. Core CPI rose 1.8%, driven by higher housing rents and cultural services, partly offset by a decline in building maintenance fees following the removal of a 20% surcharge included in June.
-
----
-
-### 2026-08-14 04:46:10  #其他
-
-Jane Street 披露持有 Cerebras Systems 5.1% 被動股權。
-
----
-
-### 2026-08-14 04:45:11  #央行 #國際
-
-【美聯儲未來一個月暫停出於準備金管理目的買入美國國庫券】美聯儲週四表示，未來一段時間不會出於準備金管理目的買入美國國庫券，這表明決策者認為金融體系中的銀行準備金處於合意水平。根據紐約聯儲網站，紐約聯儲公開市場操作部門在截至9月14日的月度操作期內，不計劃進行準備金管理購買（RMP），但期間仍計劃進行約170億美元的再投資買入。此次暫停表明，儘管政府現金餘額增加可能抽走市場流動性，貨幣當局仍有信心融資市場能夠平穩執行。市場表現也印證了這一點。擔保隔夜融資利率（SOFR）在7月大部分時間都低於準備金餘額利率（IORB）。截至8月12日，SOFR定盤利率為3.62%，比IORB低3個基點。此次調整並不意味著貨幣政策或資產負債表策略發生變化。
-
----
-
-### 2026-08-14 04:43:30  #市場 #國際
-
-惠譽：高財政赤字、巨大的利息負擔以及高企且上升的政府債務水平制約了美國評級。預計美國債務上限將在2027年中左右觸及。預計美國2026年通脹率將平均為3.4%。關稅導致核心商品通脹上升，但傳導效應比預期輕微。
-
----
-
-### 2026-08-14 04:43:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-UAE Foreign Ministry said the UAE condemns Iran's attack on Abu Dhabi National Oil Company vessels in the Strait of Hormuz.
-
----
-
-### 2026-08-14 04:42:56  #公司 #國際
-
-阿聯酋外交部：阿聯酋譴責伊朗在霍爾木茲海峽襲擊阿布扎比國家石油公司船隻。
-
----
-
-### 2026-08-14 04:42:43  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
-
-FITCH: Tariffs have raised core goods inflation, but pass-through has been milder than expected.
-
----
-
-### 2026-08-14 04:41:59  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-Fitch expects the U.S. debt ceiling to be reached around mid-2027.
-
----
-
-### 2026-08-14 04:41:59  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
-
-FITCH expects US inflation to average 3.4% in 2026.
-
----
-
-### 2026-08-14 04:41:51  #公司
-
-應用材料CEO： 預計全球服務業務（AGS）2026 自然年營收增速超 20%，並可實現每年 15% 左右的可持續長期年化增速。
-
----
-
-### 2026-08-14 04:41:27  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Drops as Weak Earnings Weigh — The Ibovespa shed 0.2% to close at 167,101 on Thursday, erasing earlier gains and retreating to a seven-month low amid a batch of weak corporate earnings. Banco do Brasil shed 4.2% after reporting below-expectation profits in the second quarter. Sabesp tumbled 7% after reporting an 11.2% year-on-year drop in net profit. CSN Mineração lost 5.2% after posting cash flow below market expectations. In contrast, CSN jumped 5.6% despite reporting a net loss, as the loss was smaller than expected and revenue grew 6%. Hapvida sank 33.1% after its second-quarter results showed margin pressure and rising litigation costs. Meanwhile, Rede D’Or added 6.3% after reporting a 9.7% year-on-year increase in net profit. Vale fell 1.7% as iron ore prices declined, with weak profitability among Chinese steelmakers continuing to constrain prospects for a meaningful recovery in ore demand. Petrobras (+1.1%) rose despite lower oil prices as peace negotiations in the Middle East remained at a stalemate.
-
----
-
-### 2026-08-14 04:41:19  #央行 #國際
-
-美聯儲的FIMA回購機制連續第九周未使用。
-
----
-
-### 2026-08-14 04:41:10  #公司
-
-應用材料CEO： 大客戶正給予公司更長期的合作承諾，並滾動更新八個季度的預測，以確保供應鏈能夠支撐產能爬坡。
-
----
-
-### 2026-08-14 04:40:34  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #S&P500 #XAUUSD #Impact bullish
-
-Fitch: high fiscal deficits, a large interest burden and elevated, rising government debt levels constrain the US sovereign credit rating.
-
----
-
-### 2026-08-14 04:40:32  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish
-
-Fitch says US Medicare and Social Security spending will rise by nearly one percentage point of GDP by 2032, heightening fiscal pressure.
-
----
-
-### 2026-08-14 04:40:24  #公司
-
-應用材料公司CEO：目前預計 2026 自然年整體封裝業務營收增幅將超過 70%。
-
----
-
-### 2026-08-14 04:40:04  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Fitch says U.S. political gridlock and government shutdowns could become more frequent and last longer.
-
----
-
-### 2026-08-14 04:40:01  #MKT News #Market Themes #The Trump Trade #HII.O #Impact mixed
-
-Wall Street Journal: President Trump has ordered the US Navy to remove electromagnetic aircraft launch systems (EMALS) from aircraft carriers and revert to steam catapults; the change is expected to add tens of billions of dollars to retrofit costs.
-
----
-
-### 2026-08-14 04:39:49  #其他
-
-惠譽： 隨著醫療保險和社會保障支出到 2032 年將接近增加 1 個百分點的國內生產總值，財政壓力將會加劇。
-
----
-
-### 2026-08-14 04:39:30  #國際
-
-惠譽：美國政治僵局與政府停擺發生機率或將上升，持續時間也可能進一步拉長。
-
----
-
-### 2026-08-14 04:39:21  #MKT News #Commodities #Energy
-
-【UAE, Qatar firms join BP-led project to develop Venezuela’s Loran gas field】XRG, the investment arm of Abu Dhabi National Oil Company, said on Thursday it has been awarded a development licence for the Loran gas field in the Caribbean, which straddles the Venezuela–Trinidad and Tobago boundary. XRG will hold the licence jointly with BP and Qatar’s UCC to develop more than 4 tcf of gas. The gas is slated to supplement Trinidad’s industrial feedstock, including supply to the Atlantic LNG complex operated by Shell and BP, and to petrochemical and fertilizer plants that have faced multi-year gas rationing.
-
----
-
-### 2026-08-14 04:38:20  #MKT News #Macro & Rates #US Economy
-
-FITCH expects US inflation to move toward the target by end-2028.
-
----
-
-### 2026-08-14 04:38:03  #國際
-
-惠譽：美國的評級得益於龐大的經濟、高人均收入、活躍的商業環境和卓越的融資靈活性。預計美國2026-2027年經濟增長將保持相對韌性，達到1.9%，但低於2025年的2.8%。2026年美國勞動力需求減弱，職位創造顯著下降。
-
----
-
-### 2026-08-14 04:37:54  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #EURUSD
-
-FITCH says US labor demand will weaken in 2026, with job creation set to decline sharply.
-
----
-
-### 2026-08-14 04:37:41  #MKT News #Macro & Rates #US Economy
-
-Fitch expects US economic growth to remain relatively resilient at 1.9% in 2026-27, below 2025's 2.8%.
-
----
-
-### 2026-08-14 04:37:22  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #USDJPY
-
-Fitch says the U.S. rating benefits from a large economy, high per-capita income, an active business environment and exceptional financing flexibility.
-
----
-
-### 2026-08-14 04:36:42  #國際
-
-惠譽確認美國主權評級為 AA+。
-
----
-
-### 2026-08-14 04:35:52  #國際
-
-市場訊息：特朗普下令海軍恢復航空母艦上的舊有技術裝置。
-
----
-
-### 2026-08-14 04:35:48  #MKT News #Important
-
-Fitch affirms U.S. sovereign credit rating at 'AA+'; outlook stable.
-
----
-
-### 2026-08-14 04:35:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%).
-
----
-
-### 2026-08-14 04:33:03  #公司
-
-泛林集團計劃在未來五年內投資超過30億美元，以擴大其全球實驗室網路，目標是將實驗產能提升50%以上。
-
----
-
-### 2026-08-14 04:32:33  #公司 #觀點 #國際
-
-花旗集團：花旗美國消費信用卡業務宣佈已達成協議收購 Kard Financial, Inc.
-
----
-
-### 2026-08-14 04:31:53  #國際
-
-【美防長稱可“無限期維持”對伊朗海上封鎖】美國國防部長赫格塞思13日表示，美軍擁有足夠的軍事力量，可以“無限期維持”對伊朗的海上封鎖。據美國大全新聞網報道，赫格塞思當天在巴拿馬向一艘美國軍艦上的官兵發表講話後對媒體說，“美國海軍完全有能力無限期地維持這種封鎖，因為我們會像過去那樣，繼續輪換艦船”。（新華社）
-
----
-
-### 2026-08-14 04:31:05  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Foreign official holdings of U.S. Treasuries fell $34.26 bln in the week to Aug. 7, versus a $25.53 bln decline in the prior week.
-
----
-
-### 2026-08-14 04:31:04  #央行 #市場 #國際
-
-美國至8月7日當週外國央行持有美國國債 -342.57億美元，前值-255.34億美元。
 
 ---
