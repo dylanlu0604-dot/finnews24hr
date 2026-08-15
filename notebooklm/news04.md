@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 16:42:10_
-_本檔包含 3213 則快訊，約 605134 字_
+_更新時間：2026-08-15 16:58:10_
+_本檔包含 3213 則快訊，約 604384 字_
+
+---
+
+### 2026-08-11 21:48:47  #市場
+
+WTI原油日內跌1%，現報81.29美元/桶。
+
+---
+
+### 2026-08-11 21:48:20  #MKT News
+
+German gas importer Securing Energy for Europe (SEFE) failed to sell gas storage capacity at Rehden on Tuesday.
+
+---
+
+### 2026-08-11 21:48:00  #公司
+
+德國 SEFE 公司週二未能售出雷登儲氣庫庫容。
+
+---
+
+### 2026-08-11 21:46:33  #國際
+
+【巴基斯坦內政部長訪問伊朗】巴基斯坦內政部長納克維今天（8月11日）訪問伊朗，他將就兩國關係等議題與伊朗多名官員舉行會晤。（CCTV國際時訊）
+
+---
+
+### 2026-08-11 21:46:16  #國際
+
+市場訊息：沙烏地阿拉伯譴責哥倫比亞承認以色列對被佔領戈蘭高地擁有主權。
+
+---
+
+### 2026-08-11 21:46:02  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Abbott Stock Price Hits 21-week High — Abbott shares increased to 110.08 USD, the highest since March 2026. Over the past 4 weeks, Abbott gained 19.34%, and in the last 12 months, it decreased 16.32%.
+
+---
+
+### 2026-08-11 21:45:42  #MKT News
+
+【Navigation warning: South China Sea live-fire exercises on Aug 12 and 14】China Maritime Safety Administration website says Shantou Maritime Safety Administration issued a navigation warning that on Aug 12 and 14, 08:00–18:00 local time, live-fire exercises will be conducted in parts of the South China Sea; vessels are prohibited from entering the affected waters.
 
 ---
 
@@ -19323,47 +19365,5 @@ Market sources: EU imposes anti-dumping duties on imports of purified terephthal
 ### 2026-08-10 18:52:21  #公司
 
 【三環集團：8月10日H股配股發行、A股回購股份54.52萬股】三環集團公告稱，8月10日，因超額配股權獲部分行使，公司配發及發行H股900.69萬股，佔有關事件前現有已發行股份（不包括庫存股份）數目的12.41%，發行後H股已發行股份總數為8022.12萬股。同日，公司在深交所回購A股54.52萬股，佔有關事件前現有已發行股份（不包括庫存股份）數目的0.028707%，每股回購價在120.08 - 120.97元之間，付出價格總額為6573.15萬元。
-
----
-
-### 2026-08-10 18:52:18  #公司 #市場
-
-【百花醫藥：股價異常波動 一季度營收、淨利潤雙降】百花醫藥公告稱，公司股票於2026年8月6日、7日、10日連續三個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。自8月4日至10日連續五個交易日漲停，漲幅達60.97%。2026年一季度，公司營收6718.29萬元，同比降30.68%；淨利潤664.27萬元，同比降67.94%。公司基本面未變，股價已偏離基本面，最新滾動市盈率顯著高於行業水平，提醒投資者注意風險。
-
----
-
-### 2026-08-10 18:51:53  #其他
-
-【長沙再現限價地塊！每平方米6200元】近日，長沙市國土資源網上交易系統上架一宗“限房價”住宅地塊，明確住宅（毛坯）銷售價格6200元/平方米，引發市場關注。這也是自2023年9月之後，長沙再度推出限房價性質地塊。限價專案是否要重回市場？8月10 日，記者向長沙市有關部門核實瞭解了情況。相關負責人表示，該宗限價地塊為安居地塊，長沙暫未計劃推出更多同類限價地塊。當前，長沙正一方面提振房企拿地信心，另一方面著手穩定房價預期，確保房地產市場進一步平穩健康發展。（中國房地產報）
-
----
-
-### 2026-08-10 18:51:16  #公司 #市場
-
-【國投白銀LOF：提示A類基金份額二級市場交易價格溢價風險】國投瑞銀基金管理有限公司公告稱，旗下國投瑞銀白銀期貨證券投資基金（LOF）A類基金份額二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。8月10日，該基金二級市場收盤價為2.037元，截至8月7日，基金份額淨值為1.7189元。若8月11日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。提醒投資者關注風險，審慎投資。
-
----
-
-### 2026-08-10 18:50:30  #公司
-
-【塔牌集團：2026年上半年淨利潤2.19億元，同比降49.60%】塔牌集團公告，2026年上半年營業收入17.42億元，同比下降15.30%。歸母淨利潤2.19億元，同比下降49.60%。扣非淨利潤1.5億元，同比下降37.98%。公司擬向全體股東每10股派發現金紅利1.3元（含稅）。
-
----
-
-### 2026-08-10 18:50:01  #市場
-
-丹麥CHEMOMETEC股價在宣佈與羅氏達成合作協議後上漲9.3%。
-
----
-
-### 2026-08-10 18:49:57  #其他
-
-瑞穗將Strategy股票目標價格從213美元下調至165美元。
-
----
-
-### 2026-08-10 18:49:37  #MKT News #Market Regions #Greater China
-
-【China Reform Holdings, China International Capital Co sign strategic cooperation agreement】China Reform Holdings and China International Capital Co signed a strategic cooperation agreement in Beijing on Aug. 6. China Reform party secretary and chairman Xu Siwei said the groups, citing complementary resources, hope to leverage their platforms and expertise to deepen cooperation on fund and equity investment, direct investment, asset management and healthcare financing. China International Capital Co party secretary and chairman Chen Liang said the firms aim to strengthen strategic coordination on equity investment, post-investment value creation, distressed-asset disposal, industry research and international business.
 
 ---

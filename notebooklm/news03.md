@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 16:42:10_
-_本檔包含 3122 則快訊，約 604836 字_
+_更新時間：2026-08-15 16:58:10_
+_本檔包含 3117 則快訊，約 605893 字_
+
+---
+
+### 2026-08-13 02:19:48  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact mixed #S&P500
+
+【U.S. July budget deficit surges to highest monthly since March 2021】The U.S. Treasury reported Wednesday that the July budget deficit surged to $432.3bn, the largest monthly shortfall since March 2021 and a record for July. For the first 10 months of FY26 the cumulative deficit is nearly $1.8tn, exceeding the same period in FY25. July Medicare outlays rose to $174.0bn from $103.0bn in June, taking year-to-date Medicare spending to $955.0bn. July’s largest single outlay exceeded Social Security payments of $141.0bn and net interest on the federal debt of $104.0bn. Tariff refunds reduced the budget by about $33.0bn, and a calendar effect—July 1 fell on a non-workday—trimmed receipts by roughly $99.0bn. The Treasury flagged rising Medicare costs and persistent interest expenses as key drivers of the fiscal deterioration. President Trump has urged the Fed to cut rates to lower borrowing costs and has eased public criticism of the Fed since his nominee took over as chair in May.
+
+---
+
+### 2026-08-13 02:17:28  #MKT News
+
+【Sources: ALPHABET reorganises DeepMind to prioritise GEMINI】Refinitiv sources say ALPHABET is executing a major leadership reshuffle at Google DeepMind, moving some teams into Google’s corporate structure and reducing DeepMind’s autonomy. Google co‑founder Sergey Brin has in recent months pushed core AI staff to focus on GEMINI and on research into recursive self‑improvement. Demis Hassabis will become chairman; his deputy Koray Kavukcuoglu will assume operational leadership and will have final authority on major DeepMind decisions. Internal tests reportedly show the new flagship GEMINI model still trails rivals in programming and other tasks, prompting a roughly two‑month delay to its planned release. Analysts say the reorganisation aims to speed AI commercialisation and regain model competitiveness; some employees warn it may further erode DeepMind’s long‑term research independence.
 
 ---
 
@@ -18800,47 +18812,5 @@ AI 初創企業 Manus 將恢復獨立公司運營模式，Manus 表示，該舉�
 ### 2026-08-11 21:48:52  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Slips After Copom Minutes — The Ibovespa edged down to trade below 172,000 on Tuesday following the release of July’s inflation data and the minutes from Copom’s latest meeting. Brazil’s annual inflation rate eased to 4.44% in July 2026 from 4.64% in June, in line with forecasts and returning to within the central bank’s 1.5%-4.5% target range. In the minutes, the monetary authority said that although monetary policy is making a decisive contribution to the disinflation process, inflation remains pressured by demand, requiring a restrictive policy stance. Financials traded mostly lower, with Caixa extending losses by nearly 3% after reporting a 0.2% quarter-on-quarter decline in adjusted net income and a 0.8% year-on-year drop in financial income. BTG fell more than 2% despite reporting its strongest semester on record. B3, down 0.3%, is set to release its results later today. Petrobras shed nearly 0.5% as the oil rally lost momentum. Vale gained more than 0.5% as iron ore prices rose on signs of tighter supply.
-
----
-
-### 2026-08-11 21:48:47  #市場
-
-WTI原油日內跌1%，現報81.29美元/桶。
-
----
-
-### 2026-08-11 21:48:20  #MKT News
-
-German gas importer Securing Energy for Europe (SEFE) failed to sell gas storage capacity at Rehden on Tuesday.
-
----
-
-### 2026-08-11 21:48:00  #公司
-
-德國 SEFE 公司週二未能售出雷登儲氣庫庫容。
-
----
-
-### 2026-08-11 21:46:33  #國際
-
-【巴基斯坦內政部長訪問伊朗】巴基斯坦內政部長納克維今天（8月11日）訪問伊朗，他將就兩國關係等議題與伊朗多名官員舉行會晤。（CCTV國際時訊）
-
----
-
-### 2026-08-11 21:46:16  #國際
-
-市場訊息：沙烏地阿拉伯譴責哥倫比亞承認以色列對被佔領戈蘭高地擁有主權。
-
----
-
-### 2026-08-11 21:46:02  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Abbott Stock Price Hits 21-week High — Abbott shares increased to 110.08 USD, the highest since March 2026. Over the past 4 weeks, Abbott gained 19.34%, and in the last 12 months, it decreased 16.32%.
-
----
-
-### 2026-08-11 21:45:42  #MKT News
-
-【Navigation warning: South China Sea live-fire exercises on Aug 12 and 14】China Maritime Safety Administration website says Shantou Maritime Safety Administration issued a navigation warning that on Aug 12 and 14, 08:00–18:00 local time, live-fire exercises will be conducted in parts of the South China Sea; vessels are prohibited from entering the affected waters.
 
 ---

@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 16:42:10_
-_本檔包含 3052 則快訊，約 605023 字_
+_更新時間：2026-08-15 16:58:10_
+_本檔包含 3060 則快訊，約 605288 字_
+
+---
+
+### 2026-08-15 16:54:10  #國際
+
+【韓國總統李在明：將追繳親日反民族行為者財產】韓國總統李在明15日表示，韓國政府將調查、追繳親日反民族行為者不當聚斂的財產，並追究其歷史責任。李在明當天在世宗文化會館舉行的光復節81週年慶祝儀式上說，隨著6月2日《親日反民族行為者財產的國家歸屬等相關特別法》正式頒佈，韓國政府將更加負責地管理收歸國家所有的親日財產，確保相關財產能夠完整用於對獨立有功者及其遺屬的禮遇和支援。（新華社）
+
+---
+
+### 2026-08-15 16:53:50  #MKT News #Market Regions #Japan & APAC
+
+【South Korea denounces Japanese officials' Yasukuni Shrine visit】On the 15th, the South Korean government and ruling and opposition parties denounced Japanese officials for making offerings and visiting Yasukuni Shrine, which enshrines Class-A WWII war criminals, and urged Japanese leaders to reflect on history and offer sincere remorse.
+
+---
+
+### 2026-08-15 16:52:09  #其他
+
+【《生態環境法典的中國創新與世界貢獻》智庫報告發布】8月15日，《中華人民共和國生態環境法典》施行。當天，新華社國家高階智庫釋出《生態環境法典的中國創新與世界貢獻》智庫報告。
+
+---
+
+### 2026-08-15 16:50:51  #市場 #焦點
+
+美國天然氣暗盤跌破2.8美元，日內跌幅1.1%。
+
+---
+
+### 2026-08-15 16:50:49  #國際
+
+【以軍稱空襲黎巴嫩真主黨多處基礎設施】當地時間15日，以色列國防軍釋出宣告稱，以軍在黎巴嫩南部所謂“安全區”內的阿里·塔希爾高地遭黎巴嫩真主黨襲擊。作為回應，以軍於15日凌晨對黎南部納巴蒂耶和安薩爾地區的真主黨基礎設施發動了空襲。 （央視新聞）
+
+---
+
+### 2026-08-15 16:49:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+ZELENSKIY said Ukrainian forces struck a Russian military airbase in Nizhny Novgorod.
+
+---
+
+### 2026-08-15 16:46:52  #MKT News
+
+Ukrainian President Zelenskiy said Ukrainian forces struck a Russian missile factory in Samara.
+
+---
+
+### 2026-08-15 16:45:46  #公司 #國際
+
+烏克蘭總統澤連斯基：使用“火烈鳥”（Flamingo）導彈打擊了俄羅斯薩馬拉州俄羅斯航天集團旗下的一家關鍵企業——“進步中心”（Progress Center），該中心主要從事電子產品生產等業務；還襲擊了薩瓦斯列伊卡空軍基地，那裡駐紮著俄羅斯導彈運載機，此外，我們還確認了對烏斯季盧加（Ust-Luga）一處石油設施的打擊。
+
+---
+
+### 2026-08-15 16:43:48  #MKT News
+
+An official at Indonesia's disaster management agency said the earthquake death toll has risen to 38.
+
+---
+
+### 2026-08-15 16:43:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says US claims on Strait of Hormuz are politically driven, asserts military primacy】IRNA reports Hossein Noushabadi, director-general for parliamentary and legal affairs at Iran’s Foreign Ministry, said Washington’s assertions about control of the Strait of Hormuz are politically motivated and a passive response to Iran’s demonstration of strength and strategic plans. He said US presidential claims lack basis and conflict with international shipping rules and the UN Convention on the Law of the Sea. Noushabadi added Iran holds political and military primacy over the Strait of Hormuz, the global energy chokepoint, giving Tehran leverage against external threats.
+
+---
+
+### 2026-08-15 16:42:46  #國際
+
+【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）
 
 ---
 
@@ -18405,23 +18471,5 @@ Iran's Fars news agency cited Palestinian sources saying Israeli forces launched
 ### 2026-08-14 07:08:21  #公司 #國際
 
 【導致讀者流失，存在錯誤風險，法國“綜合新聞聯盟”抗議谷歌“AI摘要”】據法國新聞網11日報道，代表近300家法國媒體的專業組織“綜合新聞聯盟”（APIG）抗議谷歌推出的“AI摘要”功能。該機構已投訴至法國競爭管理局，媒體普遍擔心谷歌這一新服務會分流媒體網站訪問量，進而影響廣告收入。事件起因是谷歌於7月22日在法國推出由人工智慧生成的“AI摘要”功能，該服務在使用者使用搜尋引擎時，透過AI對搜尋結果進行對話式概括。雖然這個功能方便使用者快速知曉搜尋結果，但在APIG看來，這反而會讓使用者放棄繼續點選搜尋頁的網站連結，這顯然會影響媒體網站的流量和廣告收入。APIG援引法國視聽和數字監管局（Arcom）的評估報告認為，一旦谷歌在歐洲市場推出“AI摘要”服務，可能造成33%至38%的流量流失。（環球網）
-
----
-
-### 2026-08-14 07:07:38  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Set to Close Week on Low Note — New Zealand's stocks fell 26 points, or 0.2%, to 13,799 in Friday morning trade, after gaining in the previous session, as manufacturing sector growth eased in July. The latest data showed New Zealand's factory activity grew for the 21st consecutive month, though at a softer rate, as all of the sub-indices expanded at a slower pace. Traders were also cautious ahead of food inflation data and private-sector figures, as well as China's interest rate decision due next week. However, an upbeat session on Wall Street capped the fall overnight amid easing expectations of a Fed interest rate hike at its upcoming meeting. Materials, healthcare, and financials mainly weighed on the index, with the biggest laggards being Westpac Banking Corp. (-0.8%), Fisher & Paykel (-0.7%), ANZ Group (-0.6%), and Chorus (-0.5%). For the week, the index is heading for a 0.1% fall, after rising in the previous week.
-
----
-
-### 2026-08-14 07:07:35  #國際
-
-【底特律車企憂心北美貿易協定修訂恐推高成本、削減競爭力】據報道，底特律汽車製造商計劃向特朗普政府表明，修訂北美貿易協定的提議，可能會讓這些車企付出數以十億計美元成本，並削弱其與外國對手的競爭力。美國車企目前仍在努力消化政府去年實施的一系列關稅措施，包括對鋼鐵、鋁、汽車零部件，以及從墨西哥與加拿大進口汽車徵收的關稅。它們也指出，日本、韓國與歐洲競爭對手面臨的關稅負擔較輕。如今，美國汽車業高管擔心，華府在下個月與墨西哥貿易官員展開會談前提出的方案，可能進一步推高成本。對車企而言，最具爭議的議題之一是華府要求汽車必須含有至少50%的美國製零部件，才能適用較低關稅，媒體5月曾報導此事。根據兩家車企的估算，這項要求，以及將北美地區車輛整體本土化比例從目前的75%提高的提議，將使底特律每家車企每年至少增加20億美元成本。上述支出將疊加在車企自去年以來因各項現行關稅措施而承擔的成本之上。美國貿易代表辦公室(USTR)未回應置評請求。政府官員則表示，相關關稅舉措旨在促進更多對美國工廠的投資與創造就業崗位。
-
----
-
-### 2026-08-14 07:06:38  #公司 #國際
-
-【“創新紅利”重塑估值邏輯 外資加速擁抱中國硬科技】國產儲存晶片龍頭長鑫科技成為海外儲存晶片主題ETF的重倉股，美國投資管理公司範達公司推出跟蹤中國半導體指數的ETF……近期發生的一系列事件表明，在全球資本重構與資產再定價的背景下，中國資本市場正經歷一輪由“市場紅利”向“創新紅利”驅動的估值調整，境外投資者正逐步將中國資產納入長期配置框架。分析人士認為，從制度突破到產品創新，從准入放寬到監管協同，中國資本市場高水平對外開放的各項舉措正陸續落地。在此過程中，海外資本對中國資產的認知從短期交易機會向長期戰略配置轉變，硬科技與高階製造領域有望成為外資持續關注的重點方向。（中國證券報）
 
 ---
