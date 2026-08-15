@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 649,
+  "count": 652,
   "items": [
+    {
+      "id": "mkt:01a004b9-a1e3-7aab-9048-71ebfc5d66a3",
+      "time": "2026-08-15 17:21:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea's Lee says government will recover assets of pro-Japanese collaborators】President Lee said on the 15th the government will investigate and recover assets improperly amassed by pro-Japanese, anti-national actors and pursue their historical accountability. Following the June 2 enactment of the Special Act on State Ownership of Property of Pro-Japanese Anti-National Actors, the government will more tightly manage seized pro-Japanese assets and ensure proceeds are fully used to honor and support independence contributors and their heirs."
+    },
+    {
+      "id": "5042256",
+      "time": "2026-08-15 17:19:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總理：以色列必須停止局勢升級；保障黎巴嫩人民的安全和他們在自己土地上生存的權利，不是談判或討價還價的話題。"
+    },
+    {
+      "id": "5042255",
+      "time": "2026-08-15 17:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋總統外交顧問安瓦爾·加爾加什表示：阿布扎比國家石油公司油輪屢遭襲擊，但這並不會阻止阿聯酋繼續奉行平衡理性的政策。我們將捍衛我們的主權和利益，同時繼續走對話道路，優先考慮外交途徑。"
+    },
     {
       "id": "5042254",
       "time": "2026-08-15 17:18:17",
