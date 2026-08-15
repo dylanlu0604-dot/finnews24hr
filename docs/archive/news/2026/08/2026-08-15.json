@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 597,
+  "count": 599,
   "items": [
+    {
+      "id": "mkt:01a00447-9198-7aab-9047-feecc8ccd1a5",
+      "time": "2026-08-15 15:16:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-5.0 earthquake strikes Granada province, Spain; no casualties reported】A magnitude-5.0 earthquake struck Granada province in southern Spain on the 15th local time. Local authorities said there were no casualties. The Andalusia regional government activated its emergency contingency plan at the warning stage to address potential secondary hazards and aftershocks. Strong shaking was reported across the affected area and neighboring provinces; some residents evacuated outdoors. Emergency services received multiple reports of minor structural cracks and falling debris; safety inspections and damage assessments are underway."
+    },
+    {
+      "id": "5042218",
+      "time": "2026-08-15 15:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙格拉納達省發生5.0級地震 暫無人員傷亡】當地時間15日，西班牙南部格拉納達省發生5.0級地震。當地政府部門表示，本次地震暫未造成人員傷亡，安達盧西亞大區政府已緊急啟用應急預案預警階段，以應對可能發生的次生災害與後續餘震。"
+    },
     {
       "id": "5042217",
       "time": "2026-08-15 15:14:45",

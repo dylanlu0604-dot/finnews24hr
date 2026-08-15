@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 15:16:06",
-  "count": 15322,
+  "updated": "2026-08-15 15:20:05",
+  "count": 15323,
   "items": [
+    {
+      "id": "mkt:01a00447-9198-7aab-9047-feecc8ccd1a5",
+      "time": "2026-08-15 15:16:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-5.0 earthquake strikes Granada province, Spain; no casualties reported】A magnitude-5.0 earthquake struck Granada province in southern Spain on the 15th local time. Local authorities said there were no casualties. The Andalusia regional government activated its emergency contingency plan at the warning stage to address potential secondary hazards and aftershocks. Strong shaking was reported across the affected area and neighboring provinces; some residents evacuated outdoors. Emergency services received multiple reports of minor structural cracks and falling debris; safety inspections and damage assessments are underway."
+    },
+    {
+      "id": "5042218",
+      "time": "2026-08-15 15:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙格拉納達省發生5.0級地震 暫無人員傷亡】當地時間15日，西班牙南部格拉納達省發生5.0級地震。當地政府部門表示，本次地震暫未造成人員傷亡，安達盧西亞大區政府已緊急啟用應急預案預警階段，以應對可能發生的次生災害與後續餘震。"
+    },
     {
       "id": "5042217",
       "time": "2026-08-15 15:14:45",
@@ -140265,14 +140281,6 @@
         "其他"
       ],
       "text": "【海南東方市釋出暴雨紅色預警訊號】記者從海南省東方市氣象臺獲悉，8月8日11時29分，東方市變更暴雨橙色預警訊號為暴雨紅色預警訊號：受對流雲團影響，三家鎮過去12小時降雨量已達186毫米，預計未來6小時，東方市各鄉鎮仍將有30—60毫米的降水，建議有關單位和人員做好防範工作。（央視新聞）"
-    },
-    {
-      "id": "5031844",
-      "time": "2026-08-08 15:17:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國西部野火肆虐 一滅火直升機墜毀】美國聯邦航空局7日通報，一架重型直升機當天在猶他州滅火時墜毀，機上兩人生死未卜。另外，在俄勒岡州，一名推土機操作員在野火中喪生。（央視新聞）"
     }
   ]
 }
