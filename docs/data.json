@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 00:05:59",
-  "count": 15273,
+  "updated": "2026-08-16 00:10:18",
+  "count": 15272,
   "items": [
+    {
+      "id": "5042400",
+      "time": "2026-08-16 00:08:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室發言人：以色列希望與黎巴嫩開展更為實質性的談判。"
+    },
     {
       "id": "mkt:01a0062b-2efc-7aab-9049-afb238aaede6",
       "time": "2026-08-16 00:04:48",
@@ -139811,25 +139819,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊：伊朗與阿曼距離霍爾木茲海峽相關協議“已非常接近”，航道重啟取決於美方遵守諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019fe221-349c-7aab-8fc5-1750f5f60316",
-      "time": "2026-08-09 00:07:34",
-      "tags": [
-        "MKT News",
-        "600009.SS",
-        "Impact bearish",
-        "600115.SS"
-      ],
-      "text": "【Typhoon White Dolphin to cut nearly 60% of Shanghai flights on 9th】Typhoon White Dolphin, the year's 13th, will reduce operating capacity at Shanghai Pudong and Hongqiao airports on the 9th. Airlines have cut or canceled about 1,384 scheduled arrivals and departures — 871 at Pudong and 513 at Hongqiao — roughly 60% of planned flights."
-    },
-    {
-      "id": "5032066",
-      "time": "2026-08-09 00:06:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：40天戰爭中鄰國阻斷武裝力量滲入伊朗】伊朗總統佩澤希基揚表示，在這場為期40天的戰爭期間，敵方曾試圖襲擊伊朗西北部與東南部邊境哨所，並派遣武裝力量滲入伊朗境內，但周邊國家採取行動阻止了這類入侵行為。佩澤希基揚週六接受記者採訪時稱：“阿富汗與巴基斯坦均部署力量管控局勢，明確表態絕不允許任何人從其領土進入伊朗，在伊朗境內製造動亂。”他同時表示，伊朗已對從鄰國境內美軍基地發起的襲擊作出回擊，德黑蘭方面不會容忍針對本國的跨境襲擊得不到回應。"
     }
   ]
 }
