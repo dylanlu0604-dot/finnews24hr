@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 10:40:56",
+  "updated": "2026-08-15 10:44:45",
   "count": 15283,
   "items": [
+    {
+      "id": "5042122",
+      "time": "2026-08-15 10:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：印度需要加快改革步伐。"
+    },
+    {
+      "id": "5042121",
+      "time": "2026-08-15 10:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本防衛大臣拜鬼後又稱和平】今天（8月15日），日本防衛大臣小泉進次郎就參拜靖國神社一事在社交媒體平臺上發帖，宣稱“在宣誓永不再戰的同時，我再次堅定了今後繼續履行日本戰後作為和平國家不斷走和平道路的責任。”（CCTV國際時訊）"
+    },
     {
       "id": "5042120",
       "time": "2026-08-15 10:39:16",
@@ -139934,22 +139950,6 @@
         "焦點"
       ],
       "text": "紐約原油暗盤跌破77美元，日內跌超1.7%。"
-    },
-    {
-      "id": "mkt:019fdf41-452b-7aab-8fc2-6176c285c90b",
-      "time": "2026-08-08 10:43:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Turkey says Saudi-Turkey-Pakistan defense pact not in conflict with NATO】Turkey’s Directorate of Communications said the Mecca joint defense agreement signed with Saudi Arabia and Pakistan on the 7th does not conflict with NATO’s Article 5. The pact, signed earlier that day in Mecca, states an armed attack on any of the three will be treated as an attack on all. While some commentators said the pact violated Article 5 and established a parallel alliance structure, the Directorate called those claims baseless and said the agreement does not contradict Turkey’s existing international alliance commitments, including NATO, but is a complementary cooperation mechanism to help maintain regional security."
-    },
-    {
-      "id": "5031784",
-      "time": "2026-08-08 10:41:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【迦納總統調整內閣 填補墜機事故所致空缺】迦納總統府7日釋出宣告說，迦納總統馬哈馬日前對內閣進行調整，以填補去年直升機墜毀事故中遇難的兩名內閣成員空缺。宣告說，工程、住房與水資源部長肯尼思·吉爾伯特·阿杰伊調任國防部長，科勒克洛泰選區議員扎內托爾·阿杰曼－羅林斯出任環境、科學與技術部長。2025年8月6日，時任國防部長愛德華·科菲·奧馬內·博阿馬以及時任環境、科學與技術部長易卜拉欣·穆爾塔拉·穆罕默德在迦納中南部的阿散蒂地區一起軍用直升機墜毀事故中遇難。事故後，這兩個職務分別由財政部長、國土資源部長代理。（新華社）"
     }
   ]
 }
