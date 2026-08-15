@@ -1,7 +1,37 @@
 {
   "date": "2026-08-15",
-  "count": 398,
+  "count": 401,
   "items": [
+    {
+      "id": "5042058",
+      "time": "2026-08-15 08:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "熱帶風暴拉拉逼近夏威夷，T-Mobile啟動T衛星應急方案並調派網路團隊待命。"
+    },
+    {
+      "id": "mkt:01a002bc-28af-7aab-9046-992cc90b7a82",
+      "time": "2026-08-15 08:04:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal, citing sources, reports NVIDIA and OpenAI have revised the deal structure for a 10 GW Ohio data‑center project. NVIDIA will guarantee 5 GW of capacity, reducing its guarantee exposure to under $120 billion from $250 billion."
+    },
+    {
+      "id": "5042057",
+      "time": "2026-08-15 08:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境法典正式施行】8月15日是第四個全國生態日。繼民法典之後我國第二部以“法典”命名的法律——《中華人民共和國生態環境法典》自15日起正式施行，標誌著我國生態環境法治建設邁入新境界，為實現人與自然和諧共生的現代化進一步築牢法治根基。（新華社）"
+    },
     {
       "id": "5042056",
       "time": "2026-08-15 08:02:54",
