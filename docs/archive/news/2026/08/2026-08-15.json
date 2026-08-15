@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 579,
+  "count": 582,
   "items": [
+    {
+      "id": "mkt:01a00424-7d86-7aab-9047-d73c5de13cf5",
+      "time": "2026-08-15 14:38:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister magyar said authorities will sink two barges on Saturday to raise the Danube's water level and prevent a nuclear power plant shutdown after levels fell again."
+    },
+    {
+      "id": "5042205",
+      "time": "2026-08-15 14:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，由於多瑙河水位再次下降，當局將於週六沉下兩艘駁船抬高水位，以避免核電站停運。"
+    },
+    {
+      "id": "mkt:01a00423-c281-7aab-9047-cc64fdb3e6a0",
+      "time": "2026-08-15 14:37:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【sheinbaum says US visa revocation of ex-president's son is interference】On Aug. 14 Mexico President sheinbaum said the US decision to revoke the U.S. visa of the son of former Mexican president Lopez was politically motivated and constituted interference in Mexico's internal affairs. Sheinbaum said Mexico must remain firm and that bilateral ties should be based on mutual respect. The remarks follow US revocations in 2026 of visas for at least six ruling-party officials and US requests to extradite alleged drug-trafficking collaborators — including four current governors, mayors and legislators and six former officials — to stand trial in the US; Mexico has rejected the extradition requests, citing insufficient evidence."
+    },
     {
       "id": "mkt:01a0041f-0245-7aab-9047-c553acaa18f2",
       "time": "2026-08-15 14:32:16",
