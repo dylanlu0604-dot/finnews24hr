@@ -1,7 +1,20 @@
 {
   "date": "2026-08-16",
-  "count": 75,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:01a00733-7f00-7aab-904b-147e314135ed",
+      "time": "2026-08-16 04:53:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices."
+    },
     {
       "id": "5042429",
       "time": "2026-08-16 04:38:12",
