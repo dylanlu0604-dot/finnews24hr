@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15 11:40:58",
+  "updated": "2026-08-15 11:44:51",
   "count": 15294,
   "items": [
+    {
+      "id": "mkt:01a00384-acd5-7aab-9047-568ca343a1f9",
+      "time": "2026-08-15 11:43:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "MODI said some countries' weaponization of resources and strategic sea lanes poses a risk to India's economic security, and urged greater energy self-sufficiency to reduce vulnerability to overseas supplies."
+    },
     {
       "id": "mkt:01a0037a-b6a9-7aab-9047-4a20544a7577",
       "time": "2026-08-15 11:32:48",
@@ -140042,14 +140056,6 @@
         "市場"
       ],
       "text": "【鄱陽湖水位持續下降 跌破14米】受近期持續高溫天氣影響，我國最大淡水湖鄱陽湖水位快速下降。截至8月8日8時，鄱陽湖標誌性水文站星子站水位下降至13.97米，較昨日下降0.13米，鄱陽湖湖口站水位下降至13.84米，湖區兩岸退水痕跡明顯。（央視新聞）"
-    },
-    {
-      "id": "5031801",
-      "time": "2026-08-08 11:41:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普說很多人稱他是最偉大總統之一】當地時間8月6日，有記者在採訪美國總統特朗普時提出，如果民主黨人在中期選舉後控制國會眾議院，可能會再次試圖彈劾他，特朗普表示，“很多人說我是有史以來最偉大的總統之一”。記者表示“民主黨人可沒這麼說”，特朗普則回應說，民主黨人不這麼說，但能看到自己的政績。特朗普表示，現在美國獲得的投資比歷史上任何時期都多，比任何國家都多，投資額無人能及。他強調，美國現在真的正處於黃金時代。（CCTV國際時訊）"
     }
   ]
 }

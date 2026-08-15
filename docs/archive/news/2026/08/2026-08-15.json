@@ -1,7 +1,21 @@
 {
   "date": "2026-08-15",
-  "count": 512,
+  "count": 513,
   "items": [
+    {
+      "id": "mkt:01a00384-acd5-7aab-9047-568ca343a1f9",
+      "time": "2026-08-15 11:43:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "MODI said some countries' weaponization of resources and strategic sea lanes poses a risk to India's economic security, and urged greater energy self-sufficiency to reduce vulnerability to overseas supplies."
+    },
     {
       "id": "mkt:01a0037a-b6a9-7aab-9047-4a20544a7577",
       "time": "2026-08-15 11:32:48",
