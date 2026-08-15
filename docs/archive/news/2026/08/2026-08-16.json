@@ -1,7 +1,27 @@
 {
   "date": "2026-08-16",
-  "count": 18,
+  "count": 20,
   "items": [
+    {
+      "id": "mkt:01a00669-1526-7aab-904a-0552b0f324b0",
+      "time": "2026-08-16 01:12:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's electricity minister said the continued presence of Houthi forces makes peace in the region impossible."
+    },
+    {
+      "id": "mkt:01a00668-d022-7aab-9049-fc8a0117017f",
+      "time": "2026-08-16 01:12:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's electricity minister said the ministry is working to establish service-delivery models in liberated cities and regions."
+    },
     {
       "id": "5042407",
       "time": "2026-08-16 00:59:57",
