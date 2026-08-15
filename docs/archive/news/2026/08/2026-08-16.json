@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 11,
+  "count": 12,
   "items": [
+    {
+      "id": "mkt:01a0064d-7989-7aab-9049-d584404a7366",
+      "time": "2026-08-16 00:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12, citing security sources, said an Israeli tank in the southern Gaza Strip was hit by an explosive device; no casualties were reported. The Israeli military subsequently carried out a retaliatory strike."
+    },
     {
       "id": "mkt:01a00648-aee8-7aab-9049-ca38d8fd2f72",
       "time": "2026-08-16 00:37:01",
