@@ -1,7 +1,35 @@
 {
   "date": "2026-08-16",
-  "count": 49,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:01a006ba-eebf-7aab-904a-a6f53eeb8f98",
+      "time": "2026-08-16 02:41:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar's foreign ministry said an Iranian pilot's aircraft violated Qatari airspace and failed to respond to Doha's attempts to make contact."
+    },
+    {
+      "id": "5042419",
+      "time": "2026-08-16 02:41:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達否認扣押伊朗飛行員。"
+    },
+    {
+      "id": "mkt:01a006b9-8e44-7aab-904a-999b049ce593",
+      "time": "2026-08-16 02:40:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry denies detaining an Iranian pilot."
+    },
     {
       "id": "5042418",
       "time": "2026-08-16 02:35:17",

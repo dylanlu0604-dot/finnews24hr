@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16 02:38:43",
-  "count": 15261,
+  "updated": "2026-08-16 02:42:29",
+  "count": 15263,
   "items": [
+    {
+      "id": "mkt:01a006ba-eebf-7aab-904a-a6f53eeb8f98",
+      "time": "2026-08-16 02:41:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar's foreign ministry said an Iranian pilot's aircraft violated Qatari airspace and failed to respond to Doha's attempts to make contact."
+    },
+    {
+      "id": "5042419",
+      "time": "2026-08-16 02:41:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達否認扣押伊朗飛行員。"
+    },
+    {
+      "id": "mkt:01a006b9-8e44-7aab-904a-999b049ce593",
+      "time": "2026-08-16 02:40:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry denies detaining an Iranian pilot."
+    },
     {
       "id": "5042418",
       "time": "2026-08-16 02:35:17",
@@ -139717,14 +139745,6 @@
         "Impact bearish"
       ],
       "text": "【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament."
-    },
-    {
-      "id": "5032096",
-      "time": "2026-08-09 02:40:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黑海遇襲商船停靠土耳其港口】當地時間3日，與土耳其相關的商船“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。土耳其方面對商船在黑海海域遇襲已表示嚴重關切，警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。8月8日，在黑海遭到無人機襲擊、船體受損的商船“娜代日達”號停靠在土耳其薩姆松港。"
     }
   ]
 }
