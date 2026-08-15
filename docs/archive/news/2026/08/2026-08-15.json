@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 545,
+  "count": 548,
   "items": [
+    {
+      "id": "mkt:01a003db-d9c4-7aab-9047-97f7a2cb7886",
+      "time": "2026-08-15 13:18:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea dismisses chief trade representative who led US negotiations】South Korea’s industry ministry said on Saturday it had dismissed its chief trade representative, without giving a reason. Yeo Han-koo, who had also served as trade minister, traveled to Washington several times this year to discuss tariffs, semiconductor-related measures and digital policy with US officials and lawmakers. The ministry said personnel decisions for political appointees are a presidential prerogative and that it will work to ensure current trade affairs are not affected. No successor has been named."
+    },
+    {
+      "id": "mkt:01a003db-0a45-7aab-9047-8df60da140ac",
+      "time": "2026-08-15 13:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【7.7-magnitude quake off eastern Indonesia kills at least 20】Indonesia search-and-rescue officials said a 7.7-magnitude earthquake and several strong aftershocks struck on the morning of the 15th near Flores Island in eastern Indonesia, killing at least 20 people."
+    },
+    {
+      "id": "5042175",
+      "time": "2026-08-15 13:17:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "初步統計顯示，以色列對黎巴嫩南部安薩爾地區的空襲造成六人死亡。"
+    },
     {
       "id": "5042174",
       "time": "2026-08-15 13:15:15",

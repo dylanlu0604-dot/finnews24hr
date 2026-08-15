@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-15 13:16:38",
-  "count": 15300,
+  "updated": "2026-08-15 13:20:37",
+  "count": 15301,
   "items": [
+    {
+      "id": "mkt:01a003db-d9c4-7aab-9047-97f7a2cb7886",
+      "time": "2026-08-15 13:18:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea dismisses chief trade representative who led US negotiations】South Korea’s industry ministry said on Saturday it had dismissed its chief trade representative, without giving a reason. Yeo Han-koo, who had also served as trade minister, traveled to Washington several times this year to discuss tariffs, semiconductor-related measures and digital policy with US officials and lawmakers. The ministry said personnel decisions for political appointees are a presidential prerogative and that it will work to ensure current trade affairs are not affected. No successor has been named."
+    },
+    {
+      "id": "mkt:01a003db-0a45-7aab-9047-8df60da140ac",
+      "time": "2026-08-15 13:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【7.7-magnitude quake off eastern Indonesia kills at least 20】Indonesia search-and-rescue officials said a 7.7-magnitude earthquake and several strong aftershocks struck on the morning of the 15th near Flores Island in eastern Indonesia, killing at least 20 people."
+    },
+    {
+      "id": "5042175",
+      "time": "2026-08-15 13:17:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "初步統計顯示，以色列對黎巴嫩南部安薩爾地區的空襲造成六人死亡。"
+    },
     {
       "id": "5042174",
       "time": "2026-08-15 13:15:15",
@@ -140091,22 +140115,6 @@
         "公司"
       ],
       "text": "【湖北首家宇樹科技產業學院成立】據湖北日報，8月7日，湖北省首家宇樹科技產業學院在長江工程職業技術學院成立。據悉，“宇樹科技產業學院”由宇樹科技股份有限公司與長江工程職業技術學院共建，實行“企業專家任院長、校內教授任執行副院長”雙院長制管理架構，聚焦機器人除錯、運維、技術支援等市場緊缺崗位，精準培育緊缺人才。"
-    },
-    {
-      "id": "5031819",
-      "time": "2026-08-08 13:20:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日媒：中國企業高校研發總投入超美國，居世界第一】據日媒8日報道，中國企業和高校研發總投入已超過美國，位居世界第一。 據報道，日本文部科學省7日釋出的“2026年科技指標”顯示，中國2024年的研發投入同比增長13.1%，達到97.1萬億日元；美國2024年研發投入為95.3萬億日元，同比增長6.7%；日本以22.1萬億日元位列第三，同比增長8.4%。 《日本經濟新聞》指出，2017年，中國發表的科研論文數量超過美國，位居世界第一。2018年，中國在被引次數排名前10%的高質量論文數量方面也位居榜首。此外，自2019年以來，在被引次數排名前1%的質量更高的論文數量方面，中國一直保持領先地位。 報道稱，此次，中國在研發總支出方面也超過了美國。“中國在全球科研領域的領先地位已毋庸置疑。”（中新網）"
-    },
-    {
-      "id": "mkt:019fdfce-21a7-7aab-8fc2-c483d1f026a3",
-      "time": "2026-08-08 13:17:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc reported a magnitude-5.2 earthquake in Alaska, USA at 12:50 on Aug 8; focal depth 10 km."
     }
   ]
 }
