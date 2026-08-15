@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "id": "mkt:01a00645-6714-7aab-9049-c5fdfaaf3920",
+      "time": "2026-08-16 00:33:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NSW to start firearms buyback on Nov 2 after Bondi shooting】New South Wales will launch a firearms buyback on Nov. 2 in response to last year’s Bondi Beach shooting, becoming the first Australian state to implement such a program. About 50,000 licensed gun owners and roughly 274,000 firearms are expected to be affected. Compensation ranges A$450–A$1,000 per firearm, with a A$10,000 cap for certain high‑value guns."
+    },
     {
       "id": "mkt:01a0063c-f6b3-7aab-9049-b887fc9a2996",
       "time": "2026-08-16 00:24:13",
