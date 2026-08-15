@@ -1,7 +1,40 @@
 {
   "date": "2026-08-16",
-  "count": 63,
+  "count": 66,
   "items": [
+    {
+      "id": "5042426",
+      "time": "2026-08-16 03:16:32",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【英偉達洽談向SB Energy投資30億美元，系OpenAI資料中心交易組成部分】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團支援，負責為OpenAI開發俄亥俄州大型資料中心專案。這筆投資談判，是英偉達與OpenAI、SB Energy談判的一部分；英偉達擬為規劃中的俄亥俄資料中心園區提供約1000億美元信貸支援。這類交易越來越多，英偉達憑藉自身雄厚財力扶持AI相關企業與專案，以此推動各家企業採購、使用英偉達硬體。"
+    },
+    {
+      "id": "mkt:01a006d9-fd71-7aab-904a-db0d0ba8c390",
+      "time": "2026-08-16 03:15:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports NVIDIA (NVDA.O) is in talks to invest $3 bln in SB Energy as part of an OpenAI data-center deal."
+    },
+    {
+      "id": "5042425",
+      "time": "2026-08-16 03:15:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達正洽談向SB Energy投資30億美元，作為OpenAI資料中心交易的一部分。"
+    },
     {
       "id": "5042424",
       "time": "2026-08-16 03:07:31",
