@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 13:56:11_
-_本檔包含 3096 則快訊，約 604635 字_
+_更新時間：2026-08-15 14:52:28_
+_本檔包含 3077 則快訊，約 605195 字_
+
+---
+
+### 2026-08-15 14:47:24  #市場
+
+【兩部門將針對江蘇的防汛四級應急響應提升至三級】受今年第13號颱風“白海豚”和近期強降雨共同影響，太湖發生流域性較大洪水，據預測，太湖水位後期仍將緩慢上漲。8月15至16日浙江東部和南部部分地區有暴雨，局地大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月15日12時，將針對江蘇的防汛四級應急響應提升至三級，針對浙江啟動防汛四級應急響應。（新華社）
+
+---
+
+### 2026-08-15 14:46:39  #MKT News
+
+【Interstellar Glory SQX-3 fairing static test successful】On Aug. 14, Interstellar Glory Aerospace Technology Group Co., Ltd. completed a static-load test of the SQX-3 launcher's fairing at a test site. Test metrics met design requirements, the fairing remained in good condition and passed evaluation. With separation and static verification now complete, the fairing is cleared for flight testing, advancing preparations for upcoming SQX-3 launch missions.
+
+---
+
+### 2026-08-15 14:45:48  #公司
+
+【星際榮耀SQX-3運載火箭整流罩靜力試驗取得成功】8月14日，星際榮耀航天科技集團股份有限公司在某試驗場組織開展了SQX-3運載火箭整流罩靜力試驗，產品各項指標滿足設計要求，試驗後產品狀態良好，成功透過考核。至此，整流罩完成了分離試驗及靜力試驗全剖面驗證，標誌著整流罩已具備飛行試驗條件，為後續SQX-3運載火箭飛行任務的圓滿成功奠定堅實基礎。
+
+---
+
+### 2026-08-15 14:45:46  #國際
+
+【伊朗外交部發言人：美國外交因謊言而喪失尊重】伊朗外交部發言人巴加埃在社交媒體發文稱，俄作家陀思妥耶夫斯基《卡拉馬佐夫兄弟》中的這段話，恰如其分地描繪出美國在對伊朗及中東治理體系與外交政策上，因極度依賴 “謊言” 而陷入的處境：“一個對自己說謊、還聽信自己謊言的人，終將落到這般地步：再也分辨不清自己內心和周遭的真相，進而徹底喪失對自己、對他人的全部尊重。”
+
+---
+
+### 2026-08-15 14:42:30  #其他
+
+【真健康醫療：中標器官常溫灌注系統專案】雲南省政府採購網訊息，雲南農業大學雲南省小型豬基因編輯與異種器官移植重點實驗室科研裝置採購專案2026-73號專案的器官常溫灌注系統由真健康醫療（02697.HK）中標，金額為280萬元。真健康醫療於今年6月在香港上市，主營業務涵蓋穿刺及消融手術機器人業務和高階器官保護與異種移植裝備業務。
+
+---
+
+### 2026-08-15 14:41:33  #國際
+
+據日本時事通訊社報道，日本首相高市早苗今天（8月15日）朝著靖國神社的方向遙拜。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 14:38:15  #MKT News #Commodities #Energy
+
+Hungary's prime minister magyar said authorities will sink two barges on Saturday to raise the Danube's water level and prevent a nuclear power plant shutdown after levels fell again.
+
+---
+
+### 2026-08-15 14:38:04  #其他
+
+匈牙利總理表示，由於多瑙河水位再次下降，當局將於週六沉下兩艘駁船抬高水位，以避免核電站停運。
+
+---
+
+### 2026-08-15 14:37:27  #MKT News
+
+【sheinbaum says US visa revocation of ex-president's son is interference】On Aug. 14 Mexico President sheinbaum said the US decision to revoke the U.S. visa of the son of former Mexican president Lopez was politically motivated and constituted interference in Mexico's internal affairs. Sheinbaum said Mexico must remain firm and that bilateral ties should be based on mutual respect. The remarks follow US revocations in 2026 of visas for at least six ruling-party officials and US requests to extradite alleged drug-trafficking collaborators — including four current governors, mayors and legislators and six former officials — to stand trial in the US; Mexico has rejected the extradition requests, citing insufficient evidence.
+
+---
+
+### 2026-08-15 14:32:16  #MKT News
+
+【Hainan Airlines flight HU753 diverts to Krasnoyarsk after mechanical fault; lands safely】Hainan Airlines flight HU753 (Beijing–Manchester) diverted to Krasnoyarsk International Airport, Russia, on Aug. 15, 2026 after a mechanical fault and landed safely at 07:28 Beijing time. The airline said it will swap aircraft to operate subsequent sectors and provide passenger assistance.
+
+---
+
+### 2026-08-15 14:30:52  #其他
+
+【克羅埃西亞山火已造成40人受傷】克羅埃西亞南部小城奧米什附近13日晚發生大規模山火，造成40人受傷。目前，這一地區的火勢已大幅減弱。（央視新聞）
+
+---
+
+### 2026-08-15 14:27:21  #其他
+
+【強化競爭力 我國科技期刊向世界舞臺邁進】主刊收到投稿400餘篇，已出版60篇，其中包括多個我國科研團隊的最新重要原創成果……在日前舉行的Vita期刊首期釋出暨生命科學開放聯盟一週年交流會上，Vita（《生命》）系列期刊正式亮相。業內專家表示，越來越多中國科技期刊積極探索創新，努力提升學術水準、增強國際影響力，逐步引導科研人員在創新性和治學嚴謹性上向一流成果看齊，為形成屬於中國的科技資料平臺和創新風向標積蓄力量。（新華社）
+
+---
+
+### 2026-08-15 14:22:01  #其他
+
+【北京舉辦消費節促“機器人買賣”】北京經濟技術開發區(下稱經開區)15日啟動“2026 E-Town機器人消費節”，以“買賣機器人，到北京亦莊”為主題，打通從技術到市場的“最後一公里”。今年消費節從資金投入、場景佈局、消費體驗三個維度進行升級。促消費專項資金從首屆的1500萬元(人民幣，下同)提升至1800萬元，重點向人工智慧、具身智慧產業傾斜。（中新網）
+
+---
+
+### 2026-08-15 14:13:36  #公司
+
+市場訊息：布魯可股東以每股67.50港元的價格出售股份，透過大宗交易籌集3200萬美元。
+
+---
+
+### 2026-08-15 14:12:49  #其他
+
+【澳大利亞出現萬事達卡支付遭拒情況】澳大利亞聯邦銀行稱，受萬事達卡全球性故障影響，澳大利亞使用者的萬事達卡支付出現交易被拒情況。 使用者可上報服務故障的網站Downdetector在週六下午3點收到超過1700條關於萬事達卡的故障反饋。 Downdetector上上報最多的故障集中在資金轉賬與手機銀行業務。 聯邦銀行在官網宣告中表示：“如客戶遇到交易被拒，請插入銀行卡，選擇儲蓄賬戶，透過澳洲電子支付系統eftpos完成付款。” “聯邦銀行其餘全部服務，包括自動櫃員機，均可正常使用。”
+
+---
+
+### 2026-08-15 14:11:13  #MKT News
+
+【Bulk carrier struck by unidentified flying object in Strait of Hormuz】Local time Aug 15, the UK Maritime Trade Operations (UKMTO) reported a maritime incident in the Strait of Hormuz. UKMTO said it received a verified report that a bulk carrier's hull was struck by an unidentified flying object. Crew are safe and no property damage has been reported.
+
+---
+
+### 2026-08-15 14:07:25  #其他
+
+【霍爾木茲海峽發生海事事故 一艘散貨船被不明飛行物擊中】當地時間8月15日，據英國海事貿易行動處（UKMTO）釋出的訊息，霍爾木茲海峽發生一起海事事故。該機構表示已收到一份經核實的報告，稱一艘散貨船被不明飛行物擊中船體。目前船員安全，尚未收到財產損失的報告。（央視新聞）
+
+---
+
+### 2026-08-15 14:06:17  #市場
+
+【二育熱度再起，本週豬價反彈】本週國內生豬價格呈現震盪上漲走勢。據中國養豬網的資料，8月14日，生豬（外三元）價格為10.87元/公斤，與上週五（8月7日）的10.36元/公斤相比，上漲4.9%。從一週均價來看，本週生豬均價為10.77元/公斤，與上週10.42元/公斤的均價相比，上漲3.4%。
+
+---
+
+### 2026-08-15 14:05:08  #市場
+
+【李錄大舉加倉拼多多，持倉僅剩8只】李錄掌管的喜馬拉雅基金，則大手筆清倉美國銀行、西方石油、穆迪、標普全球、MSCI、H&R Block等6只個股，同時大舉加倉拼多多和伯克希爾B股。其中，拼多多更是被翻倍增持。截至二季度末，喜馬拉雅基金總持倉市值由上季末的32億美元升至37億美元，持倉數量則進一步壓縮至8只。
+
+---
+
+### 2026-08-15 14:04:22  #其他
+
+市場訊息： 澳大利亞出現萬事達卡支付遭拒情況。
+
+---
+
+### 2026-08-15 14:03:54  #市場
+
+【段永平繼續加倉拼多多，大幅減持英偉達、谷歌】截至二季度末，由段永平管理的H&H International Investment基金總持倉市值約191億美元，約合人民幣1370億元，較去年四季度末的200億美元有所下降。二季度，段永平繼續增持拼多多，重新買入阿里巴巴，同時減持蘋果、英偉達、谷歌、微軟等，清倉臺積電、CrowdStrike等個股。
+
+---
+
+### 2026-08-15 13:58:02  #國際
+
+【墨西哥總統：美撤銷墨前總統之子美國簽證的行為干涉內政】當地時間8月14日，墨西哥總統辛鮑姆在晨間新聞釋出會上表示，針對美方撤銷前墨西哥總統洛佩斯之子的美國簽證的決定帶有政治目的，屬於干涉墨西哥內政。辛鮑姆強調，面對此類事件墨西哥要保持堅定，墨美兩國應當維持互相尊重的雙邊關係。（央視新聞）
+
+---
+
+### 2026-08-15 13:57:35  #市場
+
+【甘肅將5市乾旱防禦Ⅳ級應急響應調整為Ⅲ級】甘肅省水利廳於15日11時，對甘肅省酒泉市、張掖市、金昌市、武威市、白銀市的乾旱防禦Ⅳ級應急響應調整為乾旱防禦Ⅲ級應急響應，對嘉峪關市啟動乾旱防禦Ⅲ級應急響應。 受近期氣溫持續偏高、降水偏少、河流來水偏枯、水庫蓄水不足等影響，甘肅省酒泉市、嘉峪關市、張掖市、金昌市、武威市、白銀市等地旱情進一步發展，預計未來一段時間旱情仍將持續。（新華社）
+
+---
+
+### 2026-08-15 13:57:03  #MKT News
+
+UKMTO: no damage assessment reported; environmental impact unknown.
+
+---
+
+### 2026-08-15 13:57:00  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+UKMTO reports a projectile struck a vessel's hull; crew reported safe.
+
+---
+
+### 2026-08-15 13:56:55  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was struck by an unidentified object on Friday.
 
 ---
 
@@ -18433,275 +18589,5 @@ RBNZ maintains current loan-to-value ratio (LVR) settings.
 ### 2026-08-14 05:56:03  #MKT News #Market Themes #AI Revolution
 
 【Sources: OpenAI annualized revenue tops $40 bln】Sources say OpenAI's current annualized revenue has exceeded $40 billion, roughly double its level at end-2025, bolstering the company's IPO preparations. Revenue acceleration in recent months is driven by rapid expansion of its AI programming business (notably CODEX), rising subscriptions, nascent ad revenue contribution and steady consumer growth. OpenAI is competing fiercely with ANTHROPIC for enterprise customers; both firms have quietly filed IPO paperwork, and ANTHROPIC could list as soon as this autumn, potentially ahead of OpenAI. OpenAI co‑founder and president Greg Brockman said July annualized revenue rose more than 20% month‑on‑month. Demand for AI agents has increased, with flagship products including CODEX and ChatGPT Work, and OpenAI has cut prices on some models to respond to ANTHROPIC and other competitors.
-
----
-
-### 2026-08-14 05:48:10  #MKT News #Market Themes #The Trump Trade
-
-Australian Prime Minister Albanese said U.S. President Trump has agreed to consider a request on tariffs.
-
----
-
-### 2026-08-14 05:47:16  #國際
-
-澳大利亞總理阿爾巴尼斯： 特朗普同意將考慮我方的關稅豁免請求。
-
----
-
-### 2026-08-14 05:46:41  #MKT News
-
-Australian Prime Minister Albanese said he discussed tariffs with U.S. President Trump and urged him to consider granting a full exemption.
-
----
-
-### 2026-08-14 05:45:23  #國際
-
-澳大利亞總理阿爾巴尼斯：已向特朗普提及關稅問題，敦促特朗普考慮給予全面豁免。
-
----
-
-### 2026-08-14 05:43:37  #MKT News
-
-Australian Prime Minister Albanese said the US-UK-Australia trilateral security partnership AUKUS is continuing to advance at full speed.
-
----
-
-### 2026-08-14 05:42:53  #MKT News
-
-Prime Minister Albanese reviewed progress on the AUKUS trilateral security partnership's defense agreement.
-
----
-
-### 2026-08-14 05:42:45  #國際
-
-澳大利亞總理阿爾巴尼斯： 與特朗普就中東、太平洋地區局勢交換了意見，覆盤了澳英美三邊安全夥伴關係（AUKUS）的進展情況，澳英美三邊安全夥伴關係（AUKUS）仍在 “全力推進”。
-
----
-
-### 2026-08-14 05:40:58  #公司
-
-【阿聯酋阿布扎比國家石油公司稱兩艘船隻在霍爾木茲海峽遭襲】當地時間14日凌晨，阿聯酋阿布扎比國家石油公司釋出宣告稱，13日晚間，該公司兩艘船隻在透過霍爾木茲海峽時遭到襲擊。該公司表示，事件未造成人員受傷。阿布扎比國家石油公司是阿聯酋國有石油和天然氣企業，是全球最大的石油和天然氣生產商之一。（央視新聞）
-
----
-
-### 2026-08-14 05:40:45  #公司 #國際
-
-【美國將對無人機及其零部件徵收關稅 最高稅率100%】白宮發文稱，美國總統特朗普簽署公告，將對部分無人機及其零部件徵收不同稅率的關稅。措施包括，對大型無人機以及被認為構成特定國家安全風險的無人機徵收100%的從價關稅，對較小型無人機徵收25%的關稅。來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及無人機零部件適用15%的關稅。來自英國的無人機適用10%的關稅。白宮稱：“相關關稅將在簽署21天后生效。其他並非特別敏感的無人機零部件，關稅將在簽署180天后生效。”
-
----
-
-### 2026-08-14 05:40:35  #MKT News #Market Themes #The Trump Trade
-
-Australia's prime minister Albanese spoke overnight with US President Trump.
-
----
-
-### 2026-08-14 05:38:26  #MKT News #Important #Market Themes #AI Revolution
-
-Market sources say OpenAI's annualized revenue exceeded $40 bln ahead of its IPO.
-
----
-
-### 2026-08-14 05:37:58  #公司
-
-【OpenAI 上市前年化營收突破 400 億美元】據知情人士透露，按照當前業務表現，OpenAI 年化營收有望突破 400 億美元，較 2025 年末的年化營收大致翻倍，也為該公司登陸華爾街的計劃提供支撐。 OpenAI近幾月營收增長提速，部分來自 AI 編碼軟體業務的拉動，訂閱業務銷售與尚在起步的廣告業務同樣帶來增長動能，核心 C 端業務也持續擴張。
-
----
-
-### 2026-08-14 05:35:59  #其他
-
-市場訊息：OpenAI 上市前年化營收突破 400 億美元。
-
----
-
-### 2026-08-14 05:35:27  #MKT News
-
-Axios reports Kushner is expected to travel to Cairo next week to meet with Egyptian mediators.
-
----
-
-### 2026-08-14 05:34:01  #國際
-
-據知情人士透露， 庫什納預計下週還將前往開羅，與埃及調解方舉行會談。
-
----
-
-### 2026-08-14 05:33:24  #MKT News #Market Regions #Wall Street (US) #RDDT.N #Impact bullish
-
-Reddit (RDDT.N) U.S. shares rose more than 12% in after-hours trading.
-
----
-
-### 2026-08-14 05:31:43  #其他
-
-檔案顯示AMD的47.5億美元高階無擔保票據發行定價方案已確定，共分為四個批次。
-
----
-
-### 2026-08-14 05:30:00  #MKT News #HII.O
-
-White House said President Trump has directed the Secretary of Defense to replace the advanced electromagnetic aircraft launch system (EMALS) and advanced weapons elevators with conventional steam and hydraulic systems during construction of the CVN-81 aircraft carrier.
-
----
-
-### 2026-08-14 05:29:42  #MKT News #LMT.O #Impact bullish #NOC.O #HII.O
-
-White House said President Trump signed a memorandum directing the Pentagon to increase direct investment in the U.S. shipbuilding industrial base under a 'Finnish model'.
-
----
-
-### 2026-08-14 05:29:15  #MKT News #HII.O #Impact bullish #GD.O
-
-White House: President Trump has signed a national security presidential memorandum to address long-standing critical issues in U.S. Navy shipbuilding and maintenance programs.
-
----
-
-### 2026-08-14 05:28:53  #國際
-
-美國白宮：特朗普指示國防部長，在 CVN‑81 航母建造期間，用傳統蒸汽與液壓系統替換先進電磁飛機彈射系統以及先進武器升降機。
-
----
-
-### 2026-08-14 05:28:05  #國際
-
-美國白宮：特朗普釋出備忘錄，指示五角大樓參照 “芬蘭模式”，對美國造船工業基地開展更多直接投資。
-
----
-
-### 2026-08-14 05:27:36  #MKT News
-
-White House says President Trump will impose a 10% ad valorem tariff on drones imported from the UK into the US.
-
----
-
-### 2026-08-14 05:27:14  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #EURUSD
-
-White House: President Trump will impose a 15% ad valorem tariff on drones and drone parts imported into the U.S. from the EU, Japan, Liechtenstein, South Korea and Switzerland.
-
----
-
-### 2026-08-14 05:27:13  #國際
-
-美國白宮：無人機關稅將在簽署21天后生效。
-
----
-
-### 2026-08-14 05:26:37  #其他
-
-白宮釋出有關海軍造船工業基礎的命令。
-
----
-
-### 2026-08-14 05:26:36  #MKT News #Important #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-White House announces President Trump will impose 100% ad valorem tariffs on drones of certain sizes or with sensitive capabilities.
-
----
-
-### 2026-08-14 05:26:34  #國際
-
-美國白宮：對於非高度敏感的無人機零部件，關稅將於簽署後 180 天生效。
-
----
-
-### 2026-08-14 05:26:17  #國際
-
-美國白宮：對來自英國的無人機徵收 10% 從價關稅。
-
----
-
-### 2026-08-14 05:26:01  #MKT News #Important #Market Themes #The Trump Trade
-
-White House: President Trump will impose a 25% ad valorem tariff on certain small unmanned aerial vehicles lacking specified capabilities, citing national security concerns.
-
----
-
-### 2026-08-14 05:25:56  #公司 #國際
-
-美國白宮：特朗普釋出公告，對來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及其零部件徵收 15% 從價關稅。
-
----
-
-### 2026-08-14 05:25:26  #公司 #焦點 #國際
-
-美國白宮：特朗普釋出公告，對特定尺寸、具備特定效能且涉及重大國家安全敏感屬性的無人機徵收 100% 從價關稅。對部分尺寸較小、不具備特定國家安全敏感效能的無人機徵收 25% 從價關稅。
-
----
-
-### 2026-08-14 05:24:11  #MKT News #RDDT.N #Impact bullish
-
-Reddit (RDDT.N) will be added to the S&P 500 index.
-
----
-
-### 2026-08-14 05:24:08  #國際
-
-特朗普對小型無人機徵收 25% 關稅。
-
----
-
-### 2026-08-14 05:23:56  #公司 #國際
-
-美國白宮：特朗普簽署公告，對無人機及其零部件加徵關稅。
-
----
-
-### 2026-08-14 05:23:23  #焦點 #國際
-
-市場訊息：特朗普對特定規格無人機徵收 100% 關稅。
-
----
-
-### 2026-08-14 05:20:24  #市場
-
-AVALONBAY COMMUNITIES將從標普500指數中剔除。
-
----
-
-### 2026-08-14 05:19:47  #市場
-
-富時中國A50指數期貨夜盤收盤漲0.03%。
-
----
-
-### 2026-08-14 05:18:53  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XOM.N
-
-Guyana government data show Exxon Mobil (XOM.N) oil output was 895,000 bpd in May, falling to 869,000 bpd in June.
-
----
-
-### 2026-08-14 05:17:15  #其他
-
-埃克森美孚蓋亞那聯合體原油產量 5 月為 89.5 萬桶 / 日，6 月為 86.9 萬桶 / 日。
-
----
-
-### 2026-08-14 05:16:54  #其他
-
-Reddit 即將納入標普 500 指數  。
-
----
-
-### 2026-08-14 05:15:44  #其他
-
-蘋果就應用商店費率訴訟向法院提交檔案。
-
----
-
-### 2026-08-14 05:15:21  #其他
-
-蘋果：應對 App Store 外鏈跳轉交易收取 15% 分成。
-
----
-
-### 2026-08-14 05:14:17  #國際
-
-美國證券監管機構突然取消原定於週五舉行、旨在提出加密貨幣監管規則的會議。美國證券交易委員會稱，因出現無法預見的日程問題，會議將另行安排。
-
----
-
-### 2026-08-14 05:13:26  #Trading Economics #Economy #South Korea #Import Prices YoY #Importance 1
-
-South Korea Import Price Growth Eases in July — South Korea’s import prices rose 18.7% year-on-year in July 2026, easing from an upwardly revised 20.9% increase in June. Price gains were led by mining products, which climbed 24.9%, driven by higher costs for coal, crude petroleum and natural gas (23.8%), as well as metallic and non-metallic mineral products (32.3%). Prices for manufactured goods rose 16.7%, with coal and petroleum products up 35.5% and basic metal products increasing 28.0%. Meanwhile, prices for agricultural, forestry and marine products increased 15.2%, with marine foods rising 20.6% and agricultural foods up 18.3%.
 
 ---

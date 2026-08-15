@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 13:56:11_
-_本檔包含 3104 則快訊，約 604115 字_
+_更新時間：2026-08-15 14:52:28_
+_本檔包含 3096 則快訊，約 603740 字_
+
+---
+
+### 2026-08-13 00:52:40  #其他
+
+【義大利埃特納火山持續噴發 航班受影響】本月初，位於義大利西西里島的埃特納火山發生噴發並持續至今。據義大利國家地球物理學與火山學研究所8月12日釋出的報告，埃特納火山先後出現多處新噴口，熔岩流向山下推進，火山灰雲主要向南及西南方向移動。島上的卡塔尼亞機場當天暫停所有航班降落和起飛，管控措施持續到當地時間13日16時。（央視新聞）
+
+---
+
+### 2026-08-13 00:51:51  #公司
+
+【黑石考慮放棄30億美元債務融資計劃】知情人士稱，黑石集團正在考慮放棄一項約30億美元的債務融資計劃，該計劃原本有助於公司向投資者返還部分資金。知情人士稱，黑石數月來一直在為旗下一隻較早設立的私募股權二級市場基金籌劃所謂的基金抵押債務憑證（CFO），該基金約有700項底層投資。因相關資訊非公開，這些人士要求匿名。其中一些人士稱，黑石一直難以為這筆交易的權益檔找到買家，而權益檔通常是此類交易中風險最高的部分。知情人士稱，黑石高管仍在權衡各種選擇，公司可能決定繼續推進這筆CFO交易，也可能尋求其他方式向現有投資者返還資金。
+
+---
+
+### 2026-08-13 00:50:14  #MKT News #Important #US10Y #Impact mixed
+
+Results for the U.S. 10-year Treasury auction dated Aug. 12 — stop-out yield and bid-cover ratio due in ten minutes.
+
+---
+
+### 2026-08-13 00:49:07  #MKT News
+
+TASS: Russian authorities said they are working to redirect cargo flows to alternative routes.
+
+---
+
+### 2026-08-13 00:48:48  #國際
+
+俄羅斯農業部：備選運輸通道包括波羅的海、裡海、遠東地區的港口，以及各類陸路運輸線路。
+
+---
+
+### 2026-08-13 00:48:14  #國際
+
+俄羅斯考慮為糧食出口開闢替代路線。
+
+---
+
+### 2026-08-13 00:48:02  #國際
+
+塔斯社援引俄相關部門訊息：俄羅斯正著手將貨運流量轉向替代運輸線路。
+
+---
+
+### 2026-08-13 00:47:34  #國際
+
+烏克蘭武裝部隊：2026 年 8 月 12 日夜，烏克蘭國防軍各部隊開展聯合行動，襲擊了俄羅斯克拉斯諾達爾邊疆區新羅西斯克海軍基地。
+
+---
+
+### 2026-08-13 00:43:21  #Trading Economics #Economy #Germany #Current Account #Importance 0
+
+Germany Current Account Surplus Widens in July — Germany’s current account surplus reached €19 billion in June 2026, widening from a surplus of €17.2 in the same period a year earlier. The goods surplus increased to €17.3 billion from €15.4 billion, while the primary income surplus was broadly unchanged at €13.96 billion. The secondary income deficit narrowed slightly to €4.99 billion from €5.1 billion, partly offsetting a wider services deficit of €7.2 billion versus €7.1 billion a year earlier. In the first half of 2026, the current account surplus narrowed slightly to €106.3 billion from €107.2 billion in the same period of 2025.
+
+---
+
+### 2026-08-13 00:38:53  #其他
+
+哥倫比亞全國咖啡種植者聯合會：哥倫比亞加勒比海港口咖啡出口持續正常開展，未受中斷影響。因基礎設施檢查及通路受阻，哥倫比亞布埃納文圖拉港咖啡出口臨時暫停。
+
+---
+
+### 2026-08-13 00:38:00  #MKT News
+
+Apple (AAPL.O) appointed a senior U.S. airline executive as head of government affairs.
+
+---
+
+### 2026-08-13 00:36:13  #國際
+
+蘋果聘請美國航空資深高管出任政府事務主管。
+
+---
+
+### 2026-08-13 00:30:34  #市場 #央行 #國際
+
+【歐洲債市：德國國債和英國國債持穩，長端表現略遜】德國國債和英國國債回吐漲幅，由於圍繞重新開放霍爾木茲海峽的談判進展仍不明朗，油價收復早前跌幅。交易員基本無視符合市場預期的美國7月通脹資料，目前預計歐洲央行到年底加息39個基點， 英國央行到年底加息28個基點。布倫特原油價格下跌0.1%，至每桶88.82美元。
+
+---
+
+### 2026-08-13 00:29:01  #公司 #國際
+
+美國國際貿易委員會：萬勝（Maxell）指控三星侵犯移動裝置相關專利。
+
+---
+
+### 2026-08-13 00:28:55  #MKT News #Important #005930.KS #Impact bearish
+
+U.S. International Trade Commission opens Section 337 investigation into Samsung devices.
+
+---
+
+### 2026-08-13 00:28:24  #國際
+
+【巴勒斯坦總統與土耳其總統會談 討論巴以局勢等】當地時間12日，巴勒斯坦總統阿巴斯在安卡拉同土耳其總統埃爾多安舉行正式會談。雙方就巴以局勢最新進展、雙邊關係及共同關心的問題深入交換意見。（央視新聞）
+
+---
+
+### 2026-08-13 00:27:50  #公司 #焦點 #國際
+
+美國國際貿易委員會發起針對三星裝置的 337 條款調查。
+
+---
+
+### 2026-08-13 00:24:16  #國際
+
+【關鍵沙特石油出口港數週來首次發現油輪裝載】一艘超大型油輪停靠在沙烏地阿拉伯位於波斯灣的主要石油出口碼頭，這是近一個月來首次出現類似情況。隨著針對沙特石油出口的威脅擴大至紅海，沙特正努力維持原油運輸。歐盟“哨兵-2號”（Sentinel 2）衛星週二拍攝的一張衛星影象顯示，一艘能夠裝載約200萬桶原油的超大型原油運輸船（VLCC）停泊在朱艾邁赫（Ju’aymah）的一處單點繫泊設施。該設施是沙特巨型拉斯坦努拉（Ras Tanura）石油出口綜合體的一部分。
+
+---
+
+### 2026-08-13 00:23:40  #市場 #國際
+
+【多空爭奪160大關 交易員密切關注日元是否會再遭干預】日元兌美元週三持穩在160關口附近，令投資者密切關注當局是否會再次進場干預。紐約時間上午11時左右，日元兌美元基本持平於159.23。本月以來日元已貶值逾1%，回吐了美國和日本不久前聯手干預刺激的部分漲幅。日元兌美元逼近四十年來最低點164的關鍵時刻，兩國當局協調進場買入。不過此類行動的侷限性也十分明顯，有利於美元的利差導致日元回吐了相當大一部分反彈，令其再度逼近160這一重要關口。
+
+---
+
+### 2026-08-13 00:22:38  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Snaps 4-Day Advance — The DAX 40 gave up early gains to close about 0.2% lower on Wednesday after hitting a fresh intraday record of 26,574, ending a four-day rally as investors took profits amid uncertainty over the Iran conflict and Strait of Hormuz reopening. Focus also remained on economic data and earnings. Software, consumer cyclicals, telecoms, utilities and autos came under pressure, while industrials and tech stocks advanced. E.ON fell nearly 3% after modest first-half earnings growth, with its CEO warning of potential attacks on the country’s energy infrastructure. Brenntag dropped 2.2% after JPMorgan maintained its Sell rating even after solid Q2 performance and an improved full-year earnings outlook. Rheinmetall led gainers with a 2.3% rise, followed by Siemens Energy (+1.9%) and Infineon Technologies (+1.1%). TKMS surged 8.5% after strong results and an upgraded full-year revenue outlook.
+
+---
+
+### 2026-08-13 00:18:06  #MKT News
+
+【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently.
 
 ---
 
@@ -18559,179 +18685,5 @@ UK Natural Gas Prices Fall on Tuesday — UK natural gas prices fell toward 143 
 ### 2026-08-11 21:34:28  #Trading Economics #Economy #Kosovo #Inflation Rate #Importance 1
 
 Kosovo Annual Inflation Rises in July — Kosovo's annual inflation rate rose to 6.5% in July 2026 from 6% in June. Upward price pressures were mainly due to accelerating growth in transport costs, surging 17.8% from 13.7% in the pior month, while inflation also increased for alcoholic beverages, tobacco and narcotics (5.3% vs 5.1%), restaurants and hotels (5.3% vs 4.5%), clothing and footwear (2.8% vs 2.3%) and recreation, sports and culture (2.3% vs 2%). Meanwhile, inflation stood at 11.1% for housing and utilities. In contrast, inflation slowed for food (2.7% vs 3.9%), furnishings (2.5% vs 3%) and health (4% vs 4.1%). On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.1% decline in the prior month.
-
----
-
-### 2026-08-11 21:34:26  #MKT News #RYA.L #Impact bearish
-
-U.S. National Transportation Safety Board (NTSB) said a Ryanair engine failure caused cabin depressurization.
-
----
-
-### 2026-08-11 21:34:25  #國際
-
-美國國家運輸安全委員會：瑞安航空航班發動機失效後發生機艙失壓。
-
----
-
-### 2026-08-11 21:34:00  #公司 #市場
-
-EVERPURE股價上漲6%，此前公司宣佈與一家超大規模企業達成供應協議。
-
----
-
-### 2026-08-11 21:33:31  #MKT News
-
-Malaysia's defense minister said the country stands with Iran to help establish global peace and security.
-
----
-
-### 2026-08-11 21:33:11  #國際
-
-【伊朗天然氣日產能9月有望回升近1億立方米】伊朗石油部長穆赫辛·帕克內賈德11日說，伊朗正在修復因戰事受損的天然氣生產設施，按計劃9月底前其日產能可回升9500萬立方米。這個數量接近伊朗因戰事而損失的天然氣日產量的一半。隸屬於伊朗石油部的沙納通訊社援引帕克內賈德的話報道，伊朗將在9月底前恢復因南部阿薩盧耶天然氣處理設施遇襲而損失的約9500萬立方米天然氣日產能。據路透社報道，自美國和以色列2月底對伊朗發起軍事行動以來，伊朗天然氣日產量減少約2.3億立方米。帕克內賈德說，伊朗4座遇襲受損的天然氣處理設施重建工程正在迅速推進，廢墟已清理乾淨，重建承包商已經開工，預計將比計劃日程提前完工，完全恢復戰前產能。帕克內賈德7月表示，儘管美國取消對伊朗的石油制裁豁免並威脅海上封鎖，伊朗的石油出口未受影響，一切“照常”。帕克內賈德當時說，伊朗多年來發展出一套可以“抵消美國製裁影響”的國家機制，其石油出口“不會有問題”。英國《金融時報》先前報道，面對西方制裁，伊朗數十年來一直奉行“抵抗經濟”政策，鼓勵自力更生和本國生產，建立了獨立自主的國民經濟和國防產業，抗壓能力較強。一名伊朗前經濟官員認為，哪怕戰事持續一年，伊朗經濟仍能挺過難關。（新華社）
-
----
-
-### 2026-08-11 21:33:04  #Trading Economics #Markets #Commodity #Importance 1
-
-European Natural Gas Prices Fall — European natural gas prices fell below €59 per megawatt-hour as hopes for progress in US-Iran negotiations eased concerns over energy supplies. Pakistan’s Defense Minister Khawaja Asif said the two sides were “close to some sort of arrangement,” while talks between Iran and Oman over reopening the Strait of Hormuz were reportedly at an advanced stage. A deal could help restore LNG flows through the Persian Gulf and reduce pressure on European gas markets. Despite the optimism, Commerzbank raised its year-end European gas price forecast to €50/MWh from €45/MWh, while Uniper expects prices to remain around €50-€60/MWh as long as Hormuz remains closed. European storage levels recently fell to the lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Meanwhile, persistent European heatwaves are boosting power demand and adding further pressure to gas markets.
-
----
-
-### 2026-08-11 21:32:38  #市場
-
-Gap股價下跌約4%，此前巴克萊將其評級下調至"持股觀望"。
-
----
-
-### 2026-08-11 21:32:25  #國際
-
-美國運輸部長達菲表示，正針對近期“海軍一號”直升機事件後被指出的電信問題研究解決方案。
-
----
-
-### 2026-08-11 21:32:16  #其他
-
-費城半導體指數漲1%，報12117.63點。
-
----
-
-### 2026-08-11 21:32:13  #市場
-
-【2026年中國時尚零售與時尚消費TOP100釋出 泡泡瑪特、老鋪黃金首次躋身前十】8月11日，中國連鎖經營協會（CCFA）釋出"2026年中國時尚零售與時尚消費TOP100"（以下簡稱"時尚TOP100"）。根據企業提交資料及公開資料整理，2025年中國時尚零售與時尚消費TOP100企業營業收入合計約9163億元，同比增長10.1%，店鋪總數（可比精確口徑）同比下降4.5%，整體呈現營收較大幅度提升、店鋪數量穩步減少的良性轉變，該轉變是中國時尚零售與時尚消費頭部企業正從規模擴張的外延式增長方式，向運營能力增強、單店效率提高、供應鏈最佳化等內涵式增長轉變的階段性成果，同時也是企業在商品、服務及場景等全方位創新和質量提升的整體體現。頭部格局保持穩定，TOP10企業營收總額達4641億元，佔時尚TOP100總營收的50.6%。其中，黃金珠寶企業（5家）與運動戶外企業（3家）合計佔據八成，周大福、安踏、中國黃金連續兩年穩居前三。值得關注的是，泡泡瑪特和老鋪黃金憑藉強勁增長首次躋身前十，前者營收同比增長184.7%，後者增長221%。（北京商報）
-
----
-
-### 2026-08-11 21:32:08  #公司 #市場
-
-比特幣礦業公司Riot Platforms 開盤股價大漲 22%，為 7 月 30 日以來最大漲幅。
-
----
-
-### 2026-08-11 21:31:58  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bearish
-
-Intel shares fell 1.1% after the company said earlier it had expanded and priced a share offering.
-
----
-
-### 2026-08-11 21:31:34  #公司 #市場
-
-英特爾股價下跌1.1%，此前該公司宣佈上調200億美元股票發售規模並定價。
-
----
-
-### 2026-08-11 21:31:34  #MKT News #RKLB.O #Impact bearish
-
-Rocket Lab shares fell 3.9% after the company said the likelihood of a Neutron rocket maiden flight this year was diminishing and reported second-quarter results.
-
----
-
-### 2026-08-11 21:31:32  #市場 #焦點
-
-納斯達克中國金龍指數跌超2%，騰訊音樂跌16.97%，中進醫療跌7.36%，蔚來跌5.91%，嗶哩嗶哩跌4.84%，1藥網跌4.63%。
-
----
-
-### 2026-08-11 21:31:29  #其他
-
-【北京老字號協會等多個行業協會聯合倡議：遏制“天價”月餅】中秋節臨近，8月11日，北京市商業聯合會聯合北京老字號協會等多家行業協會發布《關於遏制“天價”月餅、促進行業健康發展的倡議書》（以下簡稱“倡議書“），向月餅生產、銷售相關經營者及從業者發出倡議。在定價方面，倡議書倡導合理定價，盒裝月餅單價控制在500元以內，讓月餅迴歸傳統節日大眾食品本質，更好滿足大眾消費需求。在包裝方面，要求嚴格遵守關於食品包裝的強制性標準，不使用貴金屬、紅木等貴重材料，避免過度包裝，推廣環保、可迴圈的包裝材料，讓包裝回歸保護商品的本質功能。在銷售行為規範上，強調銷售盒裝月餅時，不以任何形式搭售其他商品，也不以禮盒等形式將月餅同其他產品混合銷售。同時，要規範月餅券、月餅卡發行兌付行為，嚴格遵守商務部《單用途商業預付卡管理辦法（試行）》及《北京市單用途預付卡管理條例》相關規定。對於平臺企業，倡議書要求電商平臺加強對入駐商戶的監督，對銷售單價超過500元的盒裝月餅和提供定製服務的平臺內經營者進行重點監督，引導商戶合規經營。
-
----
-
-### 2026-08-11 21:31:27  #公司 #市場
-
-Venture Global股價下跌5.4%，此前該公司第二季度營收未達市場預期。
-
----
-
-### 2026-08-11 21:31:27  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-U.S. equities opened higher Tuesday, Aug. 11: Dow Jones Industrial Average up 113.13 points, or 0.21%, at 54,089.11; S&P 500 up 9.24 points, or 0.12%, at 7,762.26; Nasdaq Composite up 61.57 points, or 0.23%, at 26,666.92.
-
----
-
-### 2026-08-11 21:31:11  #公司 #市場
-
-海納集團（SEA Ltd）紐約交易時段上漲 13%，創 1 月以來新高。
-
----
-
-### 2026-08-11 21:31:01  #公司 #市場
-
-火箭實驗室股價下跌3.9%，此前該公司認為中子火箭今年首飛的可能性下降，並公佈了第二季度業績。
-
----
-
-### 2026-08-11 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲0.22%，標普500指數漲0.13%，納指漲0.23%。第一太陽能漲3.73%，阿斯麥漲3.08%，泰瑞達漲2.67%，百思買漲2.64%，閃迪漲2.45%，超微電腦漲2.38%。“七姐妹”方面：英偉達漲1.84%，特斯拉漲0.49%，蘋果漲0.33%，Meta Platforms漲0.06%，微軟跌0.25%，亞馬遜跌0.72%，谷歌跌0.77%。
-
----
-
-### 2026-08-11 21:30:43  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #SKHY.O #SNDK.O
-
-US stocks opened higher: Dow +0.11%, S&P 500 +0.14%, Nasdaq +0.25%. NVIDIA (NVDA.O) rose 1.8% after reports it is rolling out an open-source AI model, Nemotron 4. Memory/storage names led gains: SK Hynix (SKHY.O) +2.4%, SanDisk (SNDK.O) +1.7%.
-
----
-
-### 2026-08-11 21:30:31  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，騰訊音樂跌14.85%，蔚來跌5.39%，中進醫療跌9.24%，1藥網跌4.63%，嗶哩嗶哩跌4.07%。
-
----
-
-### 2026-08-11 21:30:17  #市場
-
-多倫多證交所S&P/TSX綜合指數開盤上漲33.71點，漲幅0.09%，報36492.04點。
-
----
-
-### 2026-08-11 21:29:49  #其他
-
-巴西全國穀物出口商協會（ANEC）資料顯示，8月巴西豆粕出口量預計將達到253萬噸，高於前周預估的202萬噸。
-
----
-
-### 2026-08-11 21:29:43  #觀點
-
-【花旗：將MongoDB加入90天上行催化劑觀察名單，目標價545美元】花旗將MongoDB加入90天上行催化劑觀察名單，認為其有機會繼續迎來顯著的正向盈利預測調整，並且未來幾個月存在多項積極催化劑。花旗給予MongoDB“買入”評級，目標價為545美元。
-
----
-
-### 2026-08-11 21:29:33  #市場
-
-布倫特原油日內跌1%，現報86.84美元/桶。
-
----
-
-### 2026-08-11 21:29:23  #其他
-
-巴西全國穀物出口商協會（ANEC）預測，巴西8月份玉米出口量將達到517萬噸，高於此前一週預估的408萬噸。
-
----
-
-### 2026-08-11 21:27:58  #國際
-
-市場訊息：巴基斯坦內政部長抵達德黑蘭，受到伊朗內政部長穆梅尼的接待。
 
 ---
