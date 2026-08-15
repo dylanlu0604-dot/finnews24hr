@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-15 13:56:11",
-  "count": 15307,
+  "updated": "2026-08-15 14:00:07",
+  "count": 15311,
   "items": [
+    {
+      "id": "5042192",
+      "time": "2026-08-15 13:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥總統：美撤銷墨前總統之子美國簽證的行為干涉內政】當地時間8月14日，墨西哥總統辛鮑姆在晨間新聞釋出會上表示，針對美方撤銷前墨西哥總統洛佩斯之子的美國簽證的決定帶有政治目的，屬於干涉墨西哥內政。辛鮑姆強調，面對此類事件墨西哥要保持堅定，墨美兩國應當維持互相尊重的雙邊關係。（央視新聞）"
+    },
+    {
+      "id": "5042191",
+      "time": "2026-08-15 13:57:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【甘肅將5市乾旱防禦Ⅳ級應急響應調整為Ⅲ級】甘肅省水利廳於15日11時，對甘肅省酒泉市、張掖市、金昌市、武威市、白銀市的乾旱防禦Ⅳ級應急響應調整為乾旱防禦Ⅲ級應急響應，對嘉峪關市啟動乾旱防禦Ⅲ級應急響應。 受近期氣溫持續偏高、降水偏少、河流來水偏枯、水庫蓄水不足等影響，甘肅省酒泉市、嘉峪關市、張掖市、金昌市、武威市、白銀市等地旱情進一步發展，預計未來一段時間旱情仍將持續。（新華社）"
+    },
+    {
+      "id": "mkt:01a003fe-c7ff-7aab-9047-b23cbb278693",
+      "time": "2026-08-15 13:57:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO: no damage assessment reported; environmental impact unknown."
+    },
+    {
+      "id": "mkt:01a003fe-ba21-7aab-9047-a861aeecc069",
+      "time": "2026-08-15 13:57:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "UKMTO reports a projectile struck a vessel's hull; crew reported safe."
+    },
+    {
+      "id": "mkt:01a003fe-a535-7aab-9047-a3552e0218f7",
+      "time": "2026-08-15 13:56:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was struck by an unidentified object on Friday."
+    },
     {
       "id": "5042190",
       "time": "2026-08-15 13:54:54",
@@ -140141,20 +140189,6 @@
         "公司"
       ],
       "text": "【中信聚信落子南京】據南京釋出，8月4日，“南京聚信天晟股權投資合夥企業（有限合夥）”正式落地紫金山國際科創基金街區。基金規模10.01億元，管理人為中信聚信（北京）資本管理有限公司，其向上穿透的實際控制人為中信集團，管理人整體管理規模超百億元。該基金在2026紫金山創投大會上籤約啟動組建，將重點投向新一代資訊科技、高階裝備、新材料、新能源、生物醫藥及新消費等領域，為南京科創產業注入新的資本動能。"
-    },
-    {
-      "id": "mkt:019fdff3-9854-7aab-8fc2-db7df7a8c3e8",
-      "time": "2026-08-08 13:58:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry said Russian forces struck military-industrial facilities and fuel depots in Kyiv overnight, RIA reported."
     }
   ]
 }
