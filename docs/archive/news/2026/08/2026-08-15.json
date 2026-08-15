@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 638,
+  "count": 640,
   "items": [
+    {
+      "id": "mkt:01a004a7-791e-7aab-9048-630d2547b3c2",
+      "time": "2026-08-15 17:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli airstrikes in southern Lebanon killed seven and wounded three, Iran's Press TV reported."
+    },
+    {
+      "id": "5042246",
+      "time": "2026-08-15 17:01:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總理：以色列自黎明以來不斷升級的行動已達到“極其嚴重的程度”。"
+    },
     {
       "id": "5042245",
       "time": "2026-08-15 16:54:10",
