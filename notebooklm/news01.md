@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:51:14_
-_本檔包含 3111 則快訊，約 604648 字_
+_更新時間：2026-08-16 04:33:38_
+_本檔包含 3112 則快訊，約 604017 字_
+
+---
+
+### 2026-08-16 04:33:05  #MKT News
+
+OpenAI CODEX product head said Sol can run an efficient Luna agent team, with the models highly familiar with one another and able to cooperate to achieve objectives at striking speed and efficiency.
+
+---
+
+### 2026-08-16 04:28:11  #MKT News
+
+Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'.
+
+---
+
+### 2026-08-16 04:22:29  #MKT News
+
+Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit.
+
+---
+
+### 2026-08-16 04:17:50  #其他
+
+利比亞發電站附近發生爆炸，多臺發電機組停止執行。
+
+---
+
+### 2026-08-16 04:09:56  #MKT News #Commodities #Energy
+
+Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion.
 
 ---
 
@@ -18726,29 +18756,5 @@ At the morning open, China’s main futures contracts were mixed. Coking coal, N
 ### 2026-08-14 08:57:20  #公司
 
 【獨家丨國科投資領投ChatGPT核心貢獻者，亮源新創穫數億元Pre-A輪融資】新浪科技獨家獲悉，由ChatGPT核心貢獻者姜旭創立的亮源新創（Light Origins），近期已完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資。 亮源新創成立於2024年底，是一家致力於將大模型能力從數字空間延伸至真實世界，並實現物理AGI的創新企業。據知情人士透露，本輪融資資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設及軟硬體全棧平臺研發，同時公司將進行相應的人才團隊擴張。（新浪科技）
-
----
-
-### 2026-08-14 08:56:26  #公司
-
-【德賽電池：子公司鈉離子電池產品已實現兆瓦級交付】德賽電池(000049)8月14日在互動平臺表示，公司子公司湖南電池開展了鈉離子電池產品的研發與試製，鈉離子電池產品已實現兆瓦級的交付。
-
----
-
-### 2026-08-14 08:55:28  #其他
-
-【颱風“白海豚”殘渦繼續東移 江南江淮等地仍有強降雨】8月14日至16日，隨著颱風“白海豚”殘渦東移，冷空氣南下，強降雨的範圍將不斷向東收縮，總體呈現減弱態勢，但在浙江、福建等地仍會有大到暴雨。同時，受冷空氣和陰雨天氣的共同影響，今明兩天，江南、華南等地部分地區高溫將明顯消減，但17日前後，隨著副熱帶高壓加強西伸，長江中下游一帶的高溫暑熱天氣又將返場，悶熱感迴歸。
-
----
-
-### 2026-08-14 08:55:15  #MKT News
-
-【SMIC co-CEO Zhao Haijun: Q2 wafer ASP +5.7% QoQ】China's SMIC said Q2 wafer shipments rose 14.4% QoQ and wafer average selling price increased 5.7% QoQ, lifting single-quarter revenue above $3bn and delivering strong YoY and QoQ gains across core operating metrics; SMIC attributed shipment growth to AI-driven demand for supporting chips and customer pull‑ins. The company added capacity equivalent to 8,000 12‑inch wafers per month in the quarter; capacity utilization was 93.7%, up 0.6 ppt QoQ.
-
----
-
-### 2026-08-14 08:54:19  #MKT News
-
-【Trump authorizes US Navy to build ships overseas】White House on Aug. 14 said President Trump has authorized the US Navy to construct ships overseas and ordered the Navy to abandon the electromagnetic aircraft-launch system (EMALS) on new carriers, reverting to steam catapults. A national security memorandum directs a design change to the fourth Ford-class carrier to drop EMALS used on the first three ships; the change is estimated to cost several hundred mln dlr.
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:51:14_
-_本檔包含 2747 則快訊，約 604177 字_
+_更新時間：2026-08-16 04:33:38_
+_本檔包含 2744 則快訊，約 603672 字_
+
+---
+
+### 2026-08-10 20:21:36  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Stable Near Records — Futures tracking US equity indices were muted on Monday, holding the rallies from last as markets awaited catalysts that may shape energy prices and global interest rates. The S&P 500 and the Dow were flat at their records, while the Nasdaq 100 was also stable. Rate futures show that a slight majority of the market swung to price a rate hold by the Federal Reserve next month. Nonfarm payrolls unexpectedly declined in July to challenge the view of a robust labor market, which was commonly cited by hawkish FOMC members following multiple dissents in the central bank's last meeting. Meanwhile, fuel costs remained below recent peaks despite risks of prolonged supply setbacks of oil from the Persian Gulf. Tech giants were mostly higher premarket after a group of brokers signaled strong demand for cloud services, with Meta, Amazon, and SpaceX in the green. On the other hand, Intel fell over 3% premarket as it will be offering $15 billion in stock.
+
+---
+
+### 2026-08-10 20:19:51  #公司
+
+【藏格礦業：2026年上半年淨利潤36.38億元同比增102.09%】藏格礦業公告，2026年上半年營業收入20.65億元，同比增長23.05%。歸母淨利潤36.38億元，同比增長102.09%。扣非淨利潤37.06億元，同比增長104.92%。利潤分配預案為每10股派現10元。
+
+---
+
+### 2026-08-10 20:19:22  #市場 #國際
+
+市場訊息：敘利亞東部地區國防部副部長西潘・哈莫表示，敘利亞民主力量（SDF）以及敘利亞東北部自治政府將在未來數日宣佈正式解散。
+
+---
+
+### 2026-08-10 20:19:05  #公司 #市場
+
+【維宏股份：公司自查需補繳稅款及滯納金合計956.45萬元】維宏股份8月10日公告，公司近期根據稅務監管要求，對涉稅事項開展自查，需補繳稅款638.02萬元及滯納金318.43萬元，合計956.45萬元，佔公司最近一個會計年度經審計淨利潤的10.89%。截至公告披露日，上述稅款及滯納金已全部繳納完畢，本次補繳稅款事項不涉及行政處罰。根據相關規定，上述補繳稅款及滯納金事項不屬於前期會計差錯，不涉及前期財務資料的追溯調整。上述補繳稅款及滯納金將計入公司2026年度當期損益，其中435.11萬元（稅款265.71萬元、滯納金169.4萬元）已計入公司2026年半年度損益。對公司2026年度歸屬於上市公司股東的淨利潤的具體影響，最終以2026年度經審計的財務報表為準。維宏股份2025年歸屬於上市公司股東的淨利潤為8781.05萬元，同比增長-7.98%。截至今日收盤，維宏股份總市值50.67億元。
+
+---
+
+### 2026-08-10 20:18:45  #市場
+
+納斯達克100指數期貨轉跌，盤中曾一度上漲0.5%。
+
+---
+
+### 2026-08-10 20:18:31  #其他
+
+【馬斯克瞄準EUV光源：FEL技術受青睞 晶片成本或迎變革】繼造車、火箭、人形機器人之後，馬斯克正將目光投向晶片製造核心環節——EUV光源。相較於目前成熟商用的LPP技術，馬斯克對自由電子鐳射（FEL）表達出明顯的青睞。自由電子鐳射（FEL）理論上可大幅降低先進晶片生產成本，但目前仍處於早期研發階段。
+
+---
+
+### 2026-08-10 20:17:29  #MKT News
+
+【Avita says VP remark on Huawei was misread, denies rejecting cooperation】Avita denied media reports that Vice‑President Yong Jun called cooperation with Huawei “non‑essential.” On Aug. 10 Avita said Yong was referring only to a model where Huawei would build an exclusive intelligent‑driving version, not to the value of cooperation itself. The company said it and Huawei now follow a joint‑creation model, jointly defining and developing products across the full process, and that Avita is the second‑largest shareholder of Yinwang.
 
 ---
 
@@ -16533,65 +16575,5 @@ Fars News Agency reported Bulgaria said a Ukrainian drone this morning attacked 
 ### 2026-08-09 04:38:20  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
 
 【Institution: US July CPI may show easing inflationary pressure】Markets expect US CPI, after June's -0.4% MoM, to rise 0.1% MoM in July. Core CPI ex-food and energy is forecast +0.2% MoM and +2.5% YoY, the smallest YoY gain since February. Following Friday's weak July nonfarm payrolls, slower inflation could help ease Fed inflation concerns; three officials voted to raise rates at the July 29 meeting. The report may show energy-price pressure has cooled after surging in the months following late‑February US‑Iran hostilities; retail gasoline fell to a near four‑month low in early July before rising above $4/gal by month‑end. It may also show airfares declined as jet‑fuel costs stabilized.
-
----
-
-### 2026-08-09 04:22:38  #MKT News
-
-Jordan's Foreign Ministry said the two foreign ministers discussed shared concerns and prospects for strengthening Arab cooperation, and agreed to continue coordinating and consulting within bilateral and multilateral frameworks on regional and international issues.
-
----
-
-### 2026-08-09 04:22:20  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Jordan's foreign ministry said both sides discussed regional developments and efforts aimed at ending escalation, restoring calm, achieving security and stability, and ensuring freedom of navigation in the Strait of Hormuz.
-
----
-
-### 2026-08-09 04:21:41  #MKT News
-
-Jordan's Deputy Prime Minister and Minister of Foreign and Expatriates' Affairs Ayman Safadi spoke by phone today with Bahraini Foreign Minister Dr Abdullatif Zayani.
-
----
-
-### 2026-08-09 04:17:18  #MKT News
-
-Syria's Interior Ministry said it foiled an attempt to smuggle weapons and ammunition from Tartus province into Lebanon.
-
----
-
-### 2026-08-09 04:06:26  #其他
-
-加拿大不列顛哥倫比亞省省長：因巴爾德嶺野火宣佈進入緊急狀態。
-
----
-
-### 2026-08-09 04:03:25  #MKT News #WTI #Impact bullish #Brent
-
-【Gulf states fear Iran will demand payment to reopen Strait of Hormuz; options very limited】Qatar University scholar Al‑Eteibi said Gulf states are alarmed Iran may demand compensation to reopen the Strait of Hormuz, and that Tehran treats talks with Oman over navigation as an extension of bargaining with the US. He warned Iran could accept frozen-asset releases in exchange for transit now and press for additional payments later, creating open-ended demands that would erode trust and navigation security. Al‑Eteibi urged restoration of direct US‑Iran talks to seek a compromise on asset unfreezing and strait management. Gulf states, he said, welcome progress in Iran‑Oman negotiations but have very limited options if Tehran insists on compensation; they are unwilling to use force and say they can only act in self‑defense. Iran said an Oman-mediated agreement is imminent but that reopening depends on Washington accepting Tehran’s conditions, including compensation. Given Gulf oil and gas exports’ heavy reliance on the Strait, the impasse leaves regional exporters exposed.
-
----
-
-### 2026-08-09 04:01:26  #MKT News #WTI #Impact bullish #Brent
-
-【CENTCOM says US forces forced 53 merchant ships to divert amid maritime blockade of Iran】CENTCOM said on Aug. 8 that US naval personnel conducted maintenance on F/A-18 Super Hornets aboard the USS Abraham Lincoln to keep the carrier strike group combat-ready, and that US forces have forced 53 merchant vessels to alter course, rendered two vessels unseaworthy, boarded and inspected two vessels, and allowed more than 30 vessels carrying humanitarian aid to transit the blockade as it continues strict maritime enforcement against Iran.
-
----
-
-### 2026-08-09 04:00:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
-
-Israeli energy minister says he opposes the Gaza agreement now being drafted and assesses Hamas is plotting a deception.
-
----
-
-### 2026-08-09 04:00:46  #MKT News
-
-Israel's energy minister said Israel does not trust any agreement proposed by Hamas.
-
----
-
-### 2026-08-09 04:00:31  #國際
-
-【美軍稱已迫使53艘商船改變航線】當地時間8月8日，美國中央司令部表示，美國海軍人員在“林肯”號航母上對F/A-18“超級大黃蜂”戰機進行維護，以確保航母打擊群的裝備保持戰備狀態，繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已使53艘商船改道，使2艘船隻喪失航行能力，並登臨檢查了2艘船隻。此外，美軍還允許30多艘運載人道主義援助物資的船隻透過封鎖區。
 
 ---

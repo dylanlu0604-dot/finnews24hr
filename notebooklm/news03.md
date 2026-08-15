@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:51:14_
-_本檔包含 3086 則快訊，約 603996 字_
+_更新時間：2026-08-16 04:33:38_
+_本檔包含 3077 則快訊，約 603435 字_
+
+---
+
+### 2026-08-13 07:37:47  #觀點
+
+【中信建投：鴻蒙豪華車密集上市，機器人“量產+資本化”雙擊在即】中信建投研報指出，本週汽車板塊催化密集：月初主流主機廠7月產銷/交付資料集中披露，出口鏈再度全面超預期，本週鴻蒙豪華車密集上市，內需淡季下結構性α進一步向出海鏈和高階鏈集中；宇樹科技正式確定了150.8元/股的發行價和610億元的發行市值，發行較原募資計劃上修45%，疊加特斯拉Optimus產線年內投產節奏明確、8月19日世界機器人大會臨近，8月成為機器人“量產驗證+資本化”的密集做多視窗；商用車二季度“淡季不淡”，業績亟待發布，龍頭業績與估值雙升邏輯延續。
+
+---
+
+### 2026-08-13 07:37:18  #市場 #國際
+
+【機構：7月全球電動車銷量上升 歐洲市場走強】顧問機構Benchmark Mineral Intelligence週四公佈的資料顯示，受歐洲市場強勁增長推動，7月全球電動汽車需求連續第五個月增長，不過北美等市場銷售轉弱。7月純電動與插電式混合動力汽車銷量同比增長9%，達185萬輛，使今年以來累計銷量達到1,150萬輛。這些資料凸顯主要電動車市場之間的分化趨勢持續擴大。歐洲的需求受到補貼政策支撐；美國市場受到聯邦電動汽車稅收抵免政策取消的影響。7月歐洲銷量攀升33%至45萬輛，推動年初至今的增幅達到28%。BMI表示：“歐洲主要汽車市場維持高增長態勢，許多市場在過去18個月重新推出電動車補貼計劃。”法國、德國與英國7月電動車銷量分別增長81%、46%和43%。受美國電動車稅收抵免政策結束影響，北美銷量下滑27%，至14萬輛。
+
+---
+
+### 2026-08-13 07:34:29  #公司 #市場 #觀點
+
+【中信建投：兩融資金轉為流入】中信建投研報指出，微觀資金面方面，新成立偏股型基金54.0億份，股票型ETF資金淨流入-741.9億元，其中雙創ETF淨流出180億元左右，中證1000、TMT相關ETF淨流出150億元左右；兩融資金淨流入淨流入314.0億元，交易額佔比9.4%，環比小幅上行，流入較多的行業主要有：電子、有色金屬、電力裝置；6月私募證券投資基金備案數量和規模環比上行；2026年1-6月，保險公司保費收入3.86萬億元，累計同比增長3.2%；南向資金淨流入85.9億元，今年以來淨流入3299億元。
+
+---
+
+### 2026-08-13 07:34:14  #市場 #觀點
+
+【中信建投：AI仍是中期景氣主線，但高位算力硬體進入分化階段，資金逐步向AI應用端擴散】中信建投研報指出，本週市場風格由成長進一步向低位消費和價值方向切換，傳媒、社會服務、商貿零售、美容護理、食品飲料及房地產等行業表現較強，通訊、電子等前期強勢板塊明顯調整；華為、人工智慧、機器人、儲能、新能源汽車及數字經濟等概念漲停活躍度仍居前，週五市場情緒明顯修復。AI仍是中期景氣主線，但高位算力硬體進入分化階段，資金逐步向AIGC、文化傳媒、資料要素等AI應用端擴散，後續需更加關注業績兌現和擁擠度風險。機器人受政策支援和產業化進展催化，仍具主題彈性。新能源圍繞儲能、新能源汽車、鋰電池和光伏輪動，反內卷及供需改善邏輯延續。有色金屬多重利好共振，工業金屬開啟超跌復甦。創新藥政策和出海邏輯仍在，但短期熱度有所下降；消費、地產及順週期方向出現低位修復，持續性仍需觀察基本面改善情況。
 
 ---
 
@@ -18587,83 +18611,5 @@ President Trump said U.S. citizen Robert Gilman, a former U.S. Marine, is coming
 ### 2026-08-12 00:10:39  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
 
 European Stocks Extend Records — European stocks inched higher to new records on Tuesday as gains for technology and energy stocks offset a muted session elsewhere. The Euro STOXX 50 closed 0.5% higher at a record of 6,553 and the STOXX Europe 600 inched higher to a record of 660.8. ASML jumped 2.7%, supported by a recommendation upgrade by Bernstein. Other companies with exposure to AI infrastructure also rose, with Siemens Energy gaining close to 3%. In turn, energy stocks rose after US President Trump hardened his rhetoric against Iran, prolonging expectations of suspended exports through the Persian Gulf despite optimistic signals of a deal from Pakistan and Qatar. TotalEnergies and ENI advanced nearly 2%.
-
----
-
-### 2026-08-12 00:10:24  #國際
-
-訊息人士：俄羅斯經北極航道向亞洲的石油出口開局表現強勁。
-
----
-
-### 2026-08-12 00:10:09  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.13% Lower — The CAC 40 Index fell 11 points or 0.13 percent on Tuesday to close at 8715 points. Leading the losses are STMicroelectronics (-3.21%), Stellantis NV (-2.25%) and Bouygues (-1.72%). Top gainers were TP (2.95%), TotalEnergies SE (1.41%) and Capgemini (1.39%).
-
----
-
-### 2026-08-12 00:08:39  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary said the seven-day average of oil exports via the Strait of Hormuz is currently near 9 mln bpd.
-
----
-
-### 2026-08-12 00:08:30  #其他
-
-白宮官員已要求司法部考慮對一名被控破壞林肯紀念堂倒影池的男子提起新訴訟。
-
----
-
-### 2026-08-12 00:07:58  #MKT News #Market Regions #Europe & UK
-
-US State Department: US Secretary of State Rubio met with Austria's foreign minister to discuss measures to ensure European security and uphold national sovereignty.
-
----
-
-### 2026-08-12 00:07:09  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.13% Lower — The FTSE 100 Index dropped 14 points or 0.13 percent on Tuesday to close at 10848 points. Losses were led by Spirax-Sarco Engineering (-6.47%), M&G (-3.31%) and Legal & General (-3.12%). Offsetting the fall, top gainers were St. Jamess (2.94%), Endeavour (2.70%) and Entain (2.25%).
-
----
-
-### 2026-08-12 00:06:39  #MKT News #WTI #Impact bearish #Brent
-
-EIA Short-Term Energy Outlook projects U.S. crude production of 13.80 mln b/d in 2026, up from a prior forecast of 13.78 mln b/d.
-
----
-
-### 2026-08-12 00:06:37  #MKT News #Commodities #Energy
-
-EIA Short-Term Energy Outlook cuts its 2026 natural gas price forecast to $3.57 per barrel from $3.81 per barrel previously.
-
----
-
-### 2026-08-12 00:06:33  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-EIA in its Short-Term Energy Outlook raised its 2027 Brent forecast to $69.39/bbl from $64.76/bbl previously.
-
----
-
-### 2026-08-12 00:06:30  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-EIA Short-Term Energy Outlook projects Brent crude at $86.81/bbl in 2026, up from a prior forecast of $81.91/bbl.
-
----
-
-### 2026-08-12 00:06:24  #MKT News #Commodities #Energy
-
-EIA Short-Term Energy Outlook projects 2027 U.S. natural gas consumption at 94.8 Bcf/d, down from a prior 95.0 Bcf/d forecast.
-
----
-
-### 2026-08-12 00:06:22  #MKT News #Commodities #Energy
-
-EIA Short-Term Energy Outlook forecasts U.S. dry natural gas production at 111.2 Bcf/d in 2026, unchanged from the prior projection.
-
----
-
-### 2026-08-12 00:06:14  #MKT News #WTI #Impact bearish #Brent
-
-EIA Short-Term Energy Outlook projects U.S. crude oil consumption in 2026 at 20.63 mln bpd, down from a prior forecast of 20.70 mln bpd.
 
 ---

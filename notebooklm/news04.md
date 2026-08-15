@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 03:51:14_
-_本檔包含 3202 則快訊，約 604290 字_
+_更新時間：2026-08-16 04:33:38_
+_本檔包含 3208 則快訊，約 603821 字_
+
+---
+
+### 2026-08-12 00:10:24  #國際
+
+訊息人士：俄羅斯經北極航道向亞洲的石油出口開局表現強勁。
+
+---
+
+### 2026-08-12 00:10:09  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.13% Lower — The CAC 40 Index fell 11 points or 0.13 percent on Tuesday to close at 8715 points. Leading the losses are STMicroelectronics (-3.21%), Stellantis NV (-2.25%) and Bouygues (-1.72%). Top gainers were TP (2.95%), TotalEnergies SE (1.41%) and Capgemini (1.39%).
+
+---
+
+### 2026-08-12 00:08:39  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. Energy Secretary said the seven-day average of oil exports via the Strait of Hormuz is currently near 9 mln bpd.
+
+---
+
+### 2026-08-12 00:08:30  #其他
+
+白宮官員已要求司法部考慮對一名被控破壞林肯紀念堂倒影池的男子提起新訴訟。
+
+---
+
+### 2026-08-12 00:07:58  #MKT News #Market Regions #Europe & UK
+
+US State Department: US Secretary of State Rubio met with Austria's foreign minister to discuss measures to ensure European security and uphold national sovereignty.
+
+---
+
+### 2026-08-12 00:07:09  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.13% Lower — The FTSE 100 Index dropped 14 points or 0.13 percent on Tuesday to close at 10848 points. Losses were led by Spirax-Sarco Engineering (-6.47%), M&G (-3.31%) and Legal & General (-3.12%). Offsetting the fall, top gainers were St. Jamess (2.94%), Endeavour (2.70%) and Entain (2.25%).
+
+---
+
+### 2026-08-12 00:06:39  #MKT News #WTI #Impact bearish #Brent
+
+EIA Short-Term Energy Outlook projects U.S. crude production of 13.80 mln b/d in 2026, up from a prior forecast of 13.78 mln b/d.
+
+---
+
+### 2026-08-12 00:06:37  #MKT News #Commodities #Energy
+
+EIA Short-Term Energy Outlook cuts its 2026 natural gas price forecast to $3.57 per barrel from $3.81 per barrel previously.
+
+---
+
+### 2026-08-12 00:06:33  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+EIA in its Short-Term Energy Outlook raised its 2027 Brent forecast to $69.39/bbl from $64.76/bbl previously.
+
+---
+
+### 2026-08-12 00:06:30  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+EIA Short-Term Energy Outlook projects Brent crude at $86.81/bbl in 2026, up from a prior forecast of $81.91/bbl.
+
+---
+
+### 2026-08-12 00:06:24  #MKT News #Commodities #Energy
+
+EIA Short-Term Energy Outlook projects 2027 U.S. natural gas consumption at 94.8 Bcf/d, down from a prior 95.0 Bcf/d forecast.
+
+---
+
+### 2026-08-12 00:06:22  #MKT News #Commodities #Energy
+
+EIA Short-Term Energy Outlook forecasts U.S. dry natural gas production at 111.2 Bcf/d in 2026, unchanged from the prior projection.
+
+---
+
+### 2026-08-12 00:06:14  #MKT News #WTI #Impact bearish #Brent
+
+EIA Short-Term Energy Outlook projects U.S. crude oil consumption in 2026 at 20.63 mln bpd, down from a prior forecast of 20.70 mln bpd.
 
 ---
 
@@ -19248,47 +19326,5 @@ Moderna美股盤前漲超2.4%，公司的mRNA流感疫苗獲得了美國FDA的�
 ### 2026-08-10 20:21:58  #國際
 
 【江西釋出中小河流洪水和山洪氣象風險黃色預警】今天（10日）17時36分，江西省水文監測中心與江西省氣象臺聯合釋出中小河流洪水和山洪氣象風險黃色預警訊號：預計8月10日20時至11日20時，九江市中東部、西部可能發生中小河流洪水及山洪災害，其中九江市中部發生中小河流洪水及山洪災害可能性較大。請上述地區注意做好短歷時強降雨引發的中小河流洪水及山洪災害防範工作。（央視新聞）
-
----
-
-### 2026-08-10 20:21:36  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Stable Near Records — Futures tracking US equity indices were muted on Monday, holding the rallies from last as markets awaited catalysts that may shape energy prices and global interest rates. The S&P 500 and the Dow were flat at their records, while the Nasdaq 100 was also stable. Rate futures show that a slight majority of the market swung to price a rate hold by the Federal Reserve next month. Nonfarm payrolls unexpectedly declined in July to challenge the view of a robust labor market, which was commonly cited by hawkish FOMC members following multiple dissents in the central bank's last meeting. Meanwhile, fuel costs remained below recent peaks despite risks of prolonged supply setbacks of oil from the Persian Gulf. Tech giants were mostly higher premarket after a group of brokers signaled strong demand for cloud services, with Meta, Amazon, and SpaceX in the green. On the other hand, Intel fell over 3% premarket as it will be offering $15 billion in stock.
-
----
-
-### 2026-08-10 20:19:51  #公司
-
-【藏格礦業：2026年上半年淨利潤36.38億元同比增102.09%】藏格礦業公告，2026年上半年營業收入20.65億元，同比增長23.05%。歸母淨利潤36.38億元，同比增長102.09%。扣非淨利潤37.06億元，同比增長104.92%。利潤分配預案為每10股派現10元。
-
----
-
-### 2026-08-10 20:19:22  #市場 #國際
-
-市場訊息：敘利亞東部地區國防部副部長西潘・哈莫表示，敘利亞民主力量（SDF）以及敘利亞東北部自治政府將在未來數日宣佈正式解散。
-
----
-
-### 2026-08-10 20:19:05  #公司 #市場
-
-【維宏股份：公司自查需補繳稅款及滯納金合計956.45萬元】維宏股份8月10日公告，公司近期根據稅務監管要求，對涉稅事項開展自查，需補繳稅款638.02萬元及滯納金318.43萬元，合計956.45萬元，佔公司最近一個會計年度經審計淨利潤的10.89%。截至公告披露日，上述稅款及滯納金已全部繳納完畢，本次補繳稅款事項不涉及行政處罰。根據相關規定，上述補繳稅款及滯納金事項不屬於前期會計差錯，不涉及前期財務資料的追溯調整。上述補繳稅款及滯納金將計入公司2026年度當期損益，其中435.11萬元（稅款265.71萬元、滯納金169.4萬元）已計入公司2026年半年度損益。對公司2026年度歸屬於上市公司股東的淨利潤的具體影響，最終以2026年度經審計的財務報表為準。維宏股份2025年歸屬於上市公司股東的淨利潤為8781.05萬元，同比增長-7.98%。截至今日收盤，維宏股份總市值50.67億元。
-
----
-
-### 2026-08-10 20:18:45  #市場
-
-納斯達克100指數期貨轉跌，盤中曾一度上漲0.5%。
-
----
-
-### 2026-08-10 20:18:31  #其他
-
-【馬斯克瞄準EUV光源：FEL技術受青睞 晶片成本或迎變革】繼造車、火箭、人形機器人之後，馬斯克正將目光投向晶片製造核心環節——EUV光源。相較於目前成熟商用的LPP技術，馬斯克對自由電子鐳射（FEL）表達出明顯的青睞。自由電子鐳射（FEL）理論上可大幅降低先進晶片生產成本，但目前仍處於早期研發階段。
-
----
-
-### 2026-08-10 20:17:29  #MKT News
-
-【Avita says VP remark on Huawei was misread, denies rejecting cooperation】Avita denied media reports that Vice‑President Yong Jun called cooperation with Huawei “non‑essential.” On Aug. 10 Avita said Yong was referring only to a model where Huawei would build an exclusive intelligent‑driving version, not to the value of cooperation itself. The company said it and Huawei now follow a joint‑creation model, jointly defining and developing products across the full process, and that Avita is the second‑largest shareholder of Yinwang.
 
 ---
