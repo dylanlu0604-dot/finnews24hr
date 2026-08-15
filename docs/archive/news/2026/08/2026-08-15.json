@@ -1,7 +1,19 @@
 {
   "date": "2026-08-15",
-  "count": 513,
+  "count": 514,
   "items": [
+    {
+      "id": "mkt:01a00388-315c-7aab-9047-5da02c4b8afd",
+      "time": "2026-08-15 11:47:32",
+      "tags": [
+        "MKT News",
+        "HII.O",
+        "Impact bearish",
+        "GD.O",
+        "LMT.O"
+      ],
+      "text": "【Politico: Trump's demands threaten US Navy shipbuilding gains】Politico reports Trump's demands peaked this month, risking further weakening of a US Navy already under fiscal and logistical strain. USS Abraham Lincoln has been continuously deployed for a record nine months, and sailors' families warn crew are near exhaustion. A government report says Trump's proposed \"golden fleet\" of new battleships would cost tens of billions of dollars more than expected. Experts say orders to reintroduce outdated technology could disrupt shipbuilding production schedules. These pressures are compounding long‑standing Navy problems — schedule delays, cost overruns and a shrinking fleet — and could impair its ability to defend US interests, a US official said."
+    },
     {
       "id": "mkt:01a00384-acd5-7aab-9047-568ca343a1f9",
       "time": "2026-08-15 11:43:41",
