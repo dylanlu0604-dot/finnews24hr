@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 06:32:44_
-_本檔包含 3052 則快訊，約 603766 字_
+_更新時間：2026-08-16 06:55:40_
+_本檔包含 3050 則快訊，約 602764 字_
 
 ---
 
@@ -18449,17 +18449,5 @@ The Information reports OpenAI special projects head and former chief operating 
 ### 2026-08-12 00:29:40  #國際
 
 美國能源資訊署（EIA）目前預計2026年美國西德克薩斯中質原油（WTI）現貨均價為每桶80.88美元，此前預測值為每桶76.26美元。
-
----
-
-### 2026-08-12 00:29:34  #國際
-
-美國能源資訊署（EIA）目前預計2026年布倫特原油現貨均價將為每桶86.81美元，此前預期為每桶81.91美元。
-
----
-
-### 2026-08-12 00:26:53  #Trading Economics #Markets #Germany #Stock Market #Importance 0
-
-DAX Climbs to Fresh Record — The DAX rose 0.3% to a record of 26,385 on Tuesday as gains for utilities offset losses elsewhere. Siemens Energy led the advance, rising 3.2% after reports that the company booked the most gas-turbine orders in the second quarter. The company continued to trade in tandem with AI infrastructure companies amid the development of power-hungry data centers. Likewise, data center projects were due to boost RWE (1.7%) and E.ON (0.9%) ahead of their earnings this week. Auto stocks also outperformed following data showing US auto loans at record levels. BMW rose 1.2% and Volkswagen gained 0.1%, while Daimler Truck Holdings fell 1.9% as rising Middle East tensions pushed fuel prices higher and concerns over the shift toward electric vehicles weighed on sentiment. Adidas dropped 3% after On Holding missed estimates for second-quarter net sales, highlighting a tougher macroeconomic environment. Zalando fell 2.6%.
 
 ---

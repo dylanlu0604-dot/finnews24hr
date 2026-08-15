@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 06:32:44_
-_本檔包含 3192 則快訊，約 602712 字_
+_更新時間：2026-08-16 06:55:40_
+_本檔包含 3192 則快訊，約 603433 字_
+
+---
+
+### 2026-08-12 00:29:34  #國際
+
+美國能源資訊署（EIA）目前預計2026年布倫特原油現貨均價將為每桶86.81美元，此前預期為每桶81.91美元。
+
+---
+
+### 2026-08-12 00:26:53  #Trading Economics #Markets #Germany #Stock Market #Importance 0
+
+DAX Climbs to Fresh Record — The DAX rose 0.3% to a record of 26,385 on Tuesday as gains for utilities offset losses elsewhere. Siemens Energy led the advance, rising 3.2% after reports that the company booked the most gas-turbine orders in the second quarter. The company continued to trade in tandem with AI infrastructure companies amid the development of power-hungry data centers. Likewise, data center projects were due to boost RWE (1.7%) and E.ON (0.9%) ahead of their earnings this week. Auto stocks also outperformed following data showing US auto loans at record levels. BMW rose 1.2% and Volkswagen gained 0.1%, while Daimler Truck Holdings fell 1.9% as rising Middle East tensions pushed fuel prices higher and concerns over the shift toward electric vehicles weighed on sentiment. Adidas dropped 3% after On Holding missed estimates for second-quarter net sales, highlighting a tougher macroeconomic environment. Zalando fell 2.6%.
 
 ---
 
@@ -19218,17 +19230,5 @@ WTI crude rose above $79/bbl, up 3.5% intraday.
 ### 2026-08-10 20:53:37  #公司
 
 【恆逸石化：2026年上半年營收673.09億元 淨利潤同比增25倍】恆逸石化公告稱，2026年上半年營收673.09億元，同比增長20.28%；淨利潤59.02億元，同比增長2500.73%；扣非淨利潤58.86億元，同比增長3838.89%。經營活動現金流淨額為-4.88億元，同比下降168.78%。公司擬以實施權益分派股權登記日的總股本扣除回購專用證券賬戶中的持股數量為基數，向全體股東每10股派發現金紅利9元(含稅)。
-
----
-
-### 2026-08-10 20:53:33  #公司 #市場
-
-英特爾美股盤前跌幅擴大至逾5%，公司將發行150億美元普通股。
-
----
-
-### 2026-08-10 20:53:28  #公司
-
-【恆逸石化：透過多項議案 含分紅、投資及換屆等事項】恆逸石化公告稱，公司第十二屆董事會第三十八次會議審議透過多項議案。2026年半年度擬以總股本扣除回購股份後為基數，每10股派現9元（含稅），預計派現30.96億元；子公司擬分別投資建設海寧年產30萬噸廢舊紡織品迴圈利用專案和年產40萬噸PA6熔體直紡專案；擬提名邱奕博等5人為第十三屆非獨立董事候選人，侯江濤等3人為獨立董事候選人；還透過了半年度報告、募集資金報告等議案。部分議案需提交股東會審議，公司將於8月28日召開2026年第四次臨時股東會。
 
 ---
