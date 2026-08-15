@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 03:47:20",
-  "count": 15264,
+  "updated": "2026-08-16 03:51:14",
+  "count": 15262,
   "items": [
+    {
+      "id": "5042427",
+      "time": "2026-08-16 03:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅賓漢進一步深耕私募市場，設立規模2.255億美元的基金，允許個人投資者押注Y Combinator孵化的早期初創企業。"
+    },
     {
       "id": "mkt:01a006f6-892a-7aab-904a-e939c4e93676",
       "time": "2026-08-16 03:46:55",
@@ -139716,34 +139724,6 @@
         "國際"
       ],
       "text": "【美軍稱已迫使53艘商船改變航線】當地時間8月8日，美國中央司令部表示，美國海軍人員在“林肯”號航母上對F/A-18“超級大黃蜂”戰機進行維護，以確保航母打擊群的裝備保持戰備狀態，繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已使53艘商船改道，使2艘船隻喪失航行能力，並登臨檢查了2艘船隻。此外，美軍還允許30多艘運載人道主義援助物資的船隻透過封鎖區。"
-    },
-    {
-      "id": "mkt:019fe2ed-75a3-7aab-8fc6-4933e2aa9878",
-      "time": "2026-08-09 03:50:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Vance says U.S.-Iran conflict remains \"mid-game\"】U.S. Vice President Vance said on the 8th that talks with Iran are ongoing and the U.S.-Iran confrontation remains in the \"mid-game.\" He told Fox News the conflict has not ended but has moved beyond the opening phase. Washington is deploying diplomatic, economic and military measures to secure the best outcome. Vance said the U.S. priority is to maximize oil and gas flows through the Strait of Hormuz and is watching whether Iran will make the long-term changes needed to improve relations; if not, the U.S. will continue to apply pressure. He added the U.S. is working to establish a navigation mechanism to ensure safe passage for vessels, including mine-clearing, which would also require Iran to commit not to fire on merchant ships."
-    },
-    {
-      "id": "5032103",
-      "time": "2026-08-09 03:49:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【萬斯稱美伊衝突仍處於“博弈中段”】美國副總統萬斯8日表示，美國同伊朗正在對話，美伊衝突仍處於“博弈中段”。萬斯當天在接受美國福克斯新聞頻道採訪時說，美伊衝突還沒有結束，“但顯然已不在開局階段，而是進入了中局階段”。他稱，美國正在綜合運用外交、經濟和軍事等一系列手段，以確保最終取得最好結果。（新華社）"
-    },
-    {
-      "id": "5032102",
-      "time": "2026-08-09 03:47:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪辦公室：莫迪與美國副總統萬斯通話，雙方回顧印美戰略伙伴關係取得的進展，就地區及全球局勢交換意見。"
     }
   ]
 }
