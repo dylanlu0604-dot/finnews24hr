@@ -1,7 +1,19 @@
 {
   "date": "2026-08-15",
-  "count": 447,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:01a0030a-53be-7aab-9046-f262bb462cdb",
+      "time": "2026-08-15 09:30:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran rebuts Trump over Strait of Hormuz remarks】U.S. President Trump said on the 14th he would \"declare the Strait of Hormuz U.S. territory\" soon after \"defeating Iran.\" Iran deputy foreign minister Garibabadi replied the strait \"cannot be controlled by a tweet, an aircraft carrier, an executive order or a campaign speech,\" and said Iran \"is not afraid of threats and will not be deterred by force.\" IRGC navy commander Ali Azmai said on the 14th the strait \"remains closed and is fully controlled by the Iranian military,\" adding \"the reality should be seen on site rather than in U.S. officials' statements.\""
+    },
     {
       "id": "5042094",
       "time": "2026-08-15 09:25:12",
