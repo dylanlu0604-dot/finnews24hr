@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-16 01:15:41",
-  "count": 15265,
+  "updated": "2026-08-16 01:19:33",
+  "count": 15263,
   "items": [
+    {
+      "id": "mkt:01a0066f-01db-7aab-904a-1d6665b1066e",
+      "time": "2026-08-16 01:18:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya reported Yemeni military sources said government forces destroyed a Houthi weapons depot in Sarwah, Marib province, Yemen."
+    },
+    {
+      "id": "mkt:01a0066d-b848-7aab-904a-1095f6802004",
+      "time": "2026-08-16 01:17:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said the soldiers have been taken to hospital for treatment and their families have been notified."
+    },
+    {
+      "id": "mkt:01a0066d-9239-7aab-904a-08d5e2b9fca9",
+      "time": "2026-08-16 01:17:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel Defense Forces said an officer and two soldiers were seriously wounded last night in southern Lebanon when struck by an explosive‑laden drone."
+    },
     {
       "id": "mkt:01a00669-1526-7aab-904a-0552b0f324b0",
       "time": "2026-08-16 01:12:24",
@@ -139696,54 +139726,6 @@
         "國際"
       ],
       "text": "土耳其外長：伊朗並非該防務協定的針對物件，只要不襲擊成員國，任何國家都不會成為我們的目標。"
-    },
-    {
-      "id": "5032080",
-      "time": "2026-08-09 01:18:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部長：（土耳其、巴基斯坦、沙烏地阿拉伯的防務協定）公約將設立一個類似北約的部長級委員會，同時還設有總秘書處。"
-    },
-    {
-      "id": "mkt:019fe262-1bde-7aab-8fc5-8dff889d5b69",
-      "time": "2026-08-09 01:18:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's foreign minister said the defense agreement will establish a ministerial-level committee and a secretary-general, mirroring NATO's structure."
-    },
-    {
-      "id": "5032079",
-      "time": "2026-08-09 01:16:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：伊朗安全負責人稱，德黑蘭正敲定霍爾木茲海峽相關協議，要求美方糾正自身行為。"
-    },
-    {
-      "id": "mkt:019fe25f-cbf4-7aab-8fc5-83a2b16e7b4d",
-      "time": "2026-08-09 01:15:56",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Turkey's foreign minister said the defense pact among Turkey, Pakistan and Saudi Arabia is technically equivalent to NATO's Article 5."
-    },
-    {
-      "id": "mkt:019fe25f-bb8c-7aab-8fc5-7b5b5c844253",
-      "time": "2026-08-09 01:15:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's Channel 12 reports Israeli officials say the United States is constraining Israel's options and pushing it into a dilemma over Gaza."
     }
   ]
 }

@@ -1,7 +1,37 @@
 {
   "date": "2026-08-16",
-  "count": 20,
+  "count": 23,
   "items": [
+    {
+      "id": "mkt:01a0066f-01db-7aab-904a-1d6665b1066e",
+      "time": "2026-08-16 01:18:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya reported Yemeni military sources said government forces destroyed a Houthi weapons depot in Sarwah, Marib province, Yemen."
+    },
+    {
+      "id": "mkt:01a0066d-b848-7aab-904a-1095f6802004",
+      "time": "2026-08-16 01:17:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said the soldiers have been taken to hospital for treatment and their families have been notified."
+    },
+    {
+      "id": "mkt:01a0066d-9239-7aab-904a-08d5e2b9fca9",
+      "time": "2026-08-16 01:17:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel Defense Forces said an officer and two soldiers were seriously wounded last night in southern Lebanon when struck by an explosive‑laden drone."
+    },
     {
       "id": "mkt:01a00669-1526-7aab-904a-0552b0f324b0",
       "time": "2026-08-16 01:12:24",
