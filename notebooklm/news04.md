@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:35:20_
-_本檔包含 3223 則快訊，約 605067 字_
+_更新時間：2026-08-15 17:55:00_
+_本檔包含 3233 則快訊，約 605629 字_
+
+---
+
+### 2026-08-11 22:03:08  #其他
+
+市場訊息：Trajectory 完成紅杉資本融資。
+
+---
+
+### 2026-08-11 22:02:08  #國際
+
+美國交通部仍計劃在民主黨參議員提出投訴後釋出關於部長美洲公路之旅的宣傳短片。
+
+---
+
+### 2026-08-11 22:02:01  #國際
+
+美國總統特朗普談及伊朗時表示，“如果我沒有那樣做，他們現在就已經擁有核武器了，而你們現在就要稱呼他們為‘先生’了。”
+
+---
+
+### 2026-08-11 22:01:45  #MKT News
+
+President Trump said of Iran, "If I hadn't done that, they'd already have nuclear weapons and you'd be calling them 'Mr.' now."
+
+---
+
+### 2026-08-11 22:00:46  #經濟數據 #美國
+
+美國7月成屋銷售年化總數降至406萬戶，預期為405萬戶。
+
+---
+
+### 2026-08-11 22:00:36  #MKT News
+
+A U.S. State Department official said Lebanon and Israel are expected to resume negotiations in Rome in early September.
+
+---
+
+### 2026-08-11 22:00:22  #國際
+
+俄羅斯認為敘利亞基地協議保障了其非洲行動的樞紐點位。
+
+---
+
+### 2026-08-11 22:00:12  #國際
+
+美國 7 月成屋銷售折年數降至 406 萬戶；預期 405 萬戶。
+
+---
+
+### 2026-08-11 22:00:09  #MKT News
+
+US existing home sales (July) annualized monthly rate -1.7% vs -1.0% expected; June revised to -1.4% from -2.4%.
+
+---
+
+### 2026-08-11 22:00:08  #MKT News #Important
+
+U.S. existing-home sales in July annualized 4.06 mln units, vs 4.05 mln expected; June revised up to 4.13 mln from 4.09 mln.
+
+---
+
+### 2026-08-11 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | Existing Home Sales Total SAAR (Jul) | actual 4060000M | consensus 4050000M | previous 4090000M
+
+---
+
+### 2026-08-11 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | Existing Home Sales SAAR (MoM) (Jul) | actual -1.7% | consensus -1% | previous -2.40%
+
+---
+
+### 2026-08-11 21:58:58  #其他
+
+【六款未釋出iPhone曝光】8月11日，據科技媒體報道，蘋果向開發者推送 iOS 27 Beta 5 作業系統，帶來許多調整和最佳化，六臺未釋出的 iPhone 新機也首次在系統程式碼中出現。 據報道，這些程式碼出現在 iPhone 電池驅動程式和“電池智慧”功能資料夾中，具體代號和對應機型如下： V62：iPhone Air 2 V63：iPhone 18 Pro V64：iPhone 18 Pro Max V67：iPhone 18 V68：iPhone Ultra V69：iPhone 18e 蘋果今年的新品釋出週期將改變過往節奏，採取“分階段釋出”策略。iPhone 18 Pro、iPhone 18 Pro Max 和摺疊屏新機 iPhone Ultra 將於今年 9 月亮相；而 iPhone 18 標準版則是會在明年春季，與 iPhone 18e、iPhone Air 2 一同推出。
+
+---
+
+### 2026-08-11 21:58:35  #MKT News
+
+Canada's trade minister will meet U.S. Trade Representative Greer on Tuesday at 13:30 New York time (13:30 ET).
+
+---
+
+### 2026-08-11 21:58:33  #公司
+
+【朗科智慧：公司間接持有宇樹科技的股份比例約為0.0379%】朗科智慧在互動平臺表示，截至2026年8月10日，根據最新的工商登記資訊及宇樹科技上市招股意向書，公司投資的江蘇疌泉紅土智慧創業投資基金（有限合夥）持有宇樹科技股份有限公司0.5934%的股份，股權穿透後公司間接持有宇樹科技的股份比例約為0.0379%；公司與宇樹科技暫無其他業務合作。
+
+---
+
+### 2026-08-11 21:58:15  #市場 #焦點
+
+玻璃連續主力合約日內跌1%，現報886.00元。
+
+---
+
+### 2026-08-11 21:57:44  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【Trump: Iran 'plays tricks' at talks; oil prices lower than under Biden】US President Trump said "If we don't strike Iran, it will obtain nuclear weapons," adding "this war is to prevent Iran from having nuclear weapons." He said he was frustrated with Iran's negotiating style, accusing Iranians of "agreeing at the table, then turning to the media to refuse," and called "Iran's economy...in chaos." On oil, Trump said "oil prices are lower than during Biden's administration."
 
 ---
 
@@ -19383,47 +19485,5 @@ Japan's economic and fiscal policy minister KIUCHI said raising 5 yen to fund a 
 ### 2026-08-10 18:55:44  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bullish
 
 【Zuckerberg outlines AI vision: resume open-weight releases, seek earlier govt cooperation, $1bn data-center community fund】Meta will resume publishing open-weight models and supports allowing model distillation, reversing a pause after last year’s AI reorganization, Zuckerberg says. He proposes closer, proactive cooperation between frontier AI labs and government rather than a fixed 30-day voluntary review window, and urges sharing intermediate training checkpoints with regulators during model training for assessment. Meta plans a $1 billion Future Is For Everyone Fund to compensate communities hosting its data centers and says sustainable infrastructure must deliver local benefits. Internally, Meta will give its board authority to approve safety standards and decide whether new models meet those standards, and Zuckerberg calls for similar board-level and industry-wide governance across the sector. He reiterates a vision of personal AI agents controlled by users—users, not developers, should set an agent’s values—and advocates a fully private mode where Meta or other providers cannot access or grant third-party access to user data.
-
----
-
-### 2026-08-10 18:55:35  #MKT News
-
-【Changsha lists price-capped land parcel; official responds】Changsha has listed a price-capped residential land parcel on its online land-trading system, explicitly capping sale price for bare-shell units at 6,200 yuan/sq m — the first price-capped plot since September 2023. Officials said the site is an affordable-housing parcel and the city has no immediate plan to roll out more similar price-capped plots. Changsha said it is seeking to bolster developer confidence to buy land while stabilizing housing-price expectations to keep the property market steady.
-
----
-
-### 2026-08-10 18:55:22  #公司
-
-【愛爾蘭黑幫頭目基納漢已在都柏林出庭】流亡海外十年後，愛爾蘭跨國販毒集團頭目丹尼爾·基納漢8月9日已從阿拉伯聯合大公國（阿聯酋）的迪拜被引渡回愛爾蘭，當晚在都柏林特別刑事法院被控領導犯罪組織。這是愛爾蘭近年來最受關注的跨國犯罪引渡行動之一。（環球網）
-
----
-
-### 2026-08-10 18:55:05  #公司
-
-【清水源：2026年上半年淨利潤虧損175.98萬元】清水源公告，2026年上半年營業收入4.93億元，同比增長18.37%。歸屬於上市公司股東的淨利潤虧損175.98萬元，上年同期虧損2576.11萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損297.17萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 18:54:55  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
-
-Canada 10Y Bond Yield Hits 11-week High — Canada 10 Year Government Bond Yield increased to 3.67%, the highest since May 2026. Over the past 4 weeks, Canada 10Y Bond Yield gained 10.50 basis points, and in the last 12 months, it increased 27.40 basis points.
-
----
-
-### 2026-08-10 18:54:54  #市場 #焦點
-
-布倫特原油突破85美元/桶，日內漲1.88%。
-
----
-
-### 2026-08-10 18:54:38  #公司
-
-【ST美晨：推進出售賽石園林100%股權 往來款方案待確定】ST美晨公告稱，公司擬非公開協議轉讓方式出售所持賽石園林100%股權，交易預計構成重大資產重組，但不構成重組上市。截至目前，獨立財務顧問、律所、會計師事務所和評估機構等相關工作正按既定步驟推進；已初步形成賽石園林與上市公司歷史大額往來款解決方案，細節正與多方同步核驗、測算、推動，最終方案實施尚存不確定性。交易各方未簽署正式協議，具體方案尚需提交董事會、股東會審議，能否獲批不確定。
-
----
-
-### 2026-08-10 18:54:30  #公司
-
-【奧拓電子：擬以1000萬元-2000萬元回購公司股份】奧拓電子公告，擬使用自有資金以集中競價交易方式回購公司股份，回購資金總額不低於1000萬元且不超過2000萬元，回購價格不超過8元/股。回購股份將用於實施員工持股計劃或股權激勵，若未能在回購完成之後三年內實施完畢，未使用部分將依法予以登出。回購期限為自董事會審議透過本次回購方案之日起不超過12個月。
 
 ---

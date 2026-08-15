@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:35:20_
-_本檔包含 3111 則快訊，約 605807 字_
+_更新時間：2026-08-15 17:55:00_
+_本檔包含 3113 則快訊，約 605587 字_
+
+---
+
+### 2026-08-13 03:29:00  #公司 #國際
+
+美國防長赫格塞思：哥倫比亞將加入美國反販毒集團聯盟，授權與美國開展聯合軍事行動。
+
+---
+
+### 2026-08-13 03:27:58  #MKT News
+
+【International oil prices tick up on 12th】At the close on the 12th, NYMEX September WTI rose $0.07 to $83.27/bbl (+0.08%); ICE October Brent rose $0.07 to $88.98/bbl (+0.08%).
+
+---
+
+### 2026-08-13 03:27:38  #市場
+
+【國際油價12日微漲】國際油價12日微漲。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲7美分，收於每桶83.27美元，漲幅為0.08%；10月交貨的倫敦布倫特原油期貨價格上漲7美分，收於每桶88.98美元，漲幅為0.08%。
+
+---
+
+### 2026-08-13 03:27:37  #MKT News
+
+U.S. Secretary of Defense Hegseth urged Latin American allies in Panama to withdraw from the International Criminal Court.
+
+---
+
+### 2026-08-13 03:26:44  #國際
+
+美國國防部長赫格塞思在巴拿馬發表講話，呼籲拉美盟友退出國際刑事法院。
+
+---
+
+### 2026-08-13 03:26:09  #國際
+
+美國防長赫格塞思：美國的藥物過量致死案例已大幅下降。芬太尼流入量大幅減少。我國西南邊境的非法越境人數已降至零。美國城市謀殺率處於近代歷史最低點，犯罪率出現歷史性下降。
+
+---
+
+### 2026-08-13 03:25:35  #國際
+
+伊拉克議會安全與國防委員會議員：一個親伊朗的伊拉克武裝組織每月透過卡車向伊朗轉移約4億美元現金。
+
+---
+
+### 2026-08-13 03:24:12  #其他
+
+【哥倫比亞強震遇難人數升至241人】哥倫比亞媒體引述哥倫比亞國家災害風險管理局12日釋出的資料顯示，10日在該國西部發生的7.4級強震已造成241人死亡、3771人受傷。
+
+---
+
+### 2026-08-13 03:22:59  #MKT News #Market Regions #Europe & UK
+
+Market news: Minouche Shafik, a former Bank of England deputy governor and IMF director, has stepped down as the UK prime minister's chief economic adviser.
+
+---
+
+### 2026-08-13 03:20:50  #其他
+
+米努什·沙菲克卸任英國首相首席經濟顧問。
+
+---
+
+### 2026-08-13 03:19:27  #國際
+
+【美軍稱已使59艘商船改變航線】當地時間8月12日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月12日，已經使59艘商業船隻改道，使3艘船隻失去行動能力，並登臨檢查2艘船隻。
+
+---
+
+### 2026-08-13 03:18:59  #宏觀 #國際
+
+【美國7月預算赤字激增 聯邦支出加速增長】由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元，再次凸顯政府借款需求持續上升。美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。
+
+---
+
+### 2026-08-13 03:08:16  #MKT News
+
+CENTCOM said as of local time Aug 12 US forces have forced 59 merchant vessels to divert, disabled three vessels and boarded and inspected two.
+
+---
+
+### 2026-08-13 03:06:44  #國際
+
+加拿大和美國尚未準備好達成關稅協議，加方對美方最新提案表示不滿。
+
+---
+
+### 2026-08-13 03:05:53  #其他
+
+美軍中央司令部：截至8月12日，美軍已對59艘商船實施改道，使3艘商船喪失航行能力，並登檢2艘商船，確保各方完全遵守封鎖規定。
+
+---
+
+### 2026-08-13 03:05:21  #MKT News
+
+Canada and the United States are not ready to conclude a tariff agreement; Canada says it is dissatisfied with the US's latest proposal.
+
+---
+
+### 2026-08-13 03:04:51  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Persian Gulf Strait Authority said US officials' repeated claims that the Strait of Hormuz is no longer obstructed do not change the facts: the strait remains blocked and will not reopen unless Iran's conditions are accepted.
+
+---
+
+### 2026-08-13 03:03:30  #其他
+
+阿曼和沙烏地阿拉伯推出“安全綠色陸地走廊”，經魯卜哈利沙漠公路連線蘇哈爾港與SPARK內陸幹港，沙特境內路段約564公里，建設費用約5.33億美元。該專案旨在降低成本、加快貨物轉運，並繞開海上航運要道。
+
+---
+
+### 2026-08-13 03:01:53  #國際
+
+伊朗波斯灣水道管理局：霍爾木茲海峽仍處於封鎖狀態，在伊朗提出的條件得到滿足之前不會重新開放。
 
 ---
 
@@ -18674,107 +18788,5 @@ U.S. median existing-home price in July was $434,100, up 2.0% from July 2025.
 ### 2026-08-11 22:03:12  #資料 #市場 #國際
 
 【美國7月成屋銷售中位價創歷史同期新高】美國7月成屋銷售降至三個月低點，居高不下的房價和房貸利率繼續給房地產市場帶來壓力。根據美國全國房地產經紀人協會（NAR）的資料，7月合同成交量環比下降1.7%，摺合年率為406萬套。銷售中位價同比上漲2%，達到434,100美元，創下有記錄以來7月份的最高售價。
-
----
-
-### 2026-08-11 22:03:08  #其他
-
-市場訊息：Trajectory 完成紅杉資本融資。
-
----
-
-### 2026-08-11 22:02:08  #國際
-
-美國交通部仍計劃在民主黨參議員提出投訴後釋出關於部長美洲公路之旅的宣傳短片。
-
----
-
-### 2026-08-11 22:02:01  #國際
-
-美國總統特朗普談及伊朗時表示，“如果我沒有那樣做，他們現在就已經擁有核武器了，而你們現在就要稱呼他們為‘先生’了。”
-
----
-
-### 2026-08-11 22:01:45  #MKT News
-
-President Trump said of Iran, "If I hadn't done that, they'd already have nuclear weapons and you'd be calling them 'Mr.' now."
-
----
-
-### 2026-08-11 22:00:46  #經濟數據 #美國
-
-美國7月成屋銷售年化總數降至406萬戶，預期為405萬戶。
-
----
-
-### 2026-08-11 22:00:36  #MKT News
-
-A U.S. State Department official said Lebanon and Israel are expected to resume negotiations in Rome in early September.
-
----
-
-### 2026-08-11 22:00:22  #國際
-
-俄羅斯認為敘利亞基地協議保障了其非洲行動的樞紐點位。
-
----
-
-### 2026-08-11 22:00:12  #國際
-
-美國 7 月成屋銷售折年數降至 406 萬戶；預期 405 萬戶。
-
----
-
-### 2026-08-11 22:00:09  #MKT News
-
-US existing home sales (July) annualized monthly rate -1.7% vs -1.0% expected; June revised to -1.4% from -2.4%.
-
----
-
-### 2026-08-11 22:00:08  #MKT News #Important
-
-U.S. existing-home sales in July annualized 4.06 mln units, vs 4.05 mln expected; June revised up to 4.13 mln from 4.09 mln.
-
----
-
-### 2026-08-11 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | Existing Home Sales Total SAAR (Jul) | actual 4060000M | consensus 4050000M | previous 4090000M
-
----
-
-### 2026-08-11 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | Existing Home Sales SAAR (MoM) (Jul) | actual -1.7% | consensus -1% | previous -2.40%
-
----
-
-### 2026-08-11 21:58:58  #其他
-
-【六款未釋出iPhone曝光】8月11日，據科技媒體報道，蘋果向開發者推送 iOS 27 Beta 5 作業系統，帶來許多調整和最佳化，六臺未釋出的 iPhone 新機也首次在系統程式碼中出現。 據報道，這些程式碼出現在 iPhone 電池驅動程式和“電池智慧”功能資料夾中，具體代號和對應機型如下： V62：iPhone Air 2 V63：iPhone 18 Pro V64：iPhone 18 Pro Max V67：iPhone 18 V68：iPhone Ultra V69：iPhone 18e 蘋果今年的新品釋出週期將改變過往節奏，採取“分階段釋出”策略。iPhone 18 Pro、iPhone 18 Pro Max 和摺疊屏新機 iPhone Ultra 將於今年 9 月亮相；而 iPhone 18 標準版則是會在明年春季，與 iPhone 18e、iPhone Air 2 一同推出。
-
----
-
-### 2026-08-11 21:58:35  #MKT News
-
-Canada's trade minister will meet U.S. Trade Representative Greer on Tuesday at 13:30 New York time (13:30 ET).
-
----
-
-### 2026-08-11 21:58:33  #公司
-
-【朗科智慧：公司間接持有宇樹科技的股份比例約為0.0379%】朗科智慧在互動平臺表示，截至2026年8月10日，根據最新的工商登記資訊及宇樹科技上市招股意向書，公司投資的江蘇疌泉紅土智慧創業投資基金（有限合夥）持有宇樹科技股份有限公司0.5934%的股份，股權穿透後公司間接持有宇樹科技的股份比例約為0.0379%；公司與宇樹科技暫無其他業務合作。
-
----
-
-### 2026-08-11 21:58:15  #市場 #焦點
-
-玻璃連續主力合約日內跌1%，現報886.00元。
-
----
-
-### 2026-08-11 21:57:44  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Trump: Iran 'plays tricks' at talks; oil prices lower than under Biden】US President Trump said "If we don't strike Iran, it will obtain nuclear weapons," adding "this war is to prevent Iran from having nuclear weapons." He said he was frustrated with Iran's negotiating style, accusing Iranians of "agreeing at the table, then turning to the media to refuse," and called "Iran's economy...in chaos." On oil, Trump said "oil prices are lower than during Biden's administration."
 
 ---

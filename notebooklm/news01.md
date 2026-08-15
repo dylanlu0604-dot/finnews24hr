@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:35:20_
-_本檔包含 3070 則快訊，約 605514 字_
+_更新時間：2026-08-15 17:55:00_
+_本檔包含 3063 則快訊，約 605711 字_
+
+---
+
+### 2026-08-15 17:50:02  #國際
+
+【伊朗總統稱絕不會違抗最高領袖】當地時間8月14日，伊朗總統佩澤希齊揚表示，敵人如今破壞伊朗國家穩定的方式不僅僅是軍事手段，還企圖在伊朗內部製造分裂，破壞內部團結。他強調，無論他個人的想法如何，但他絕不會違抗伊朗最高領袖，因為團結遠比個人想法更為重要，他還表示，伊朗會繼續抗爭，絕不屈服於敵人的暴政與侵略。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 17:43:41  #MKT News #Important #Market Regions #Japan & APAC #XAUUSD #Impact bullish #Nikkei 225 #Impact bearish #Hang Seng Index
+
+【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a "new militarism" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning.
+
+---
+
+### 2026-08-15 17:41:27  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026.
+
+---
+
+### 2026-08-15 17:40:18  #焦點 #國際
+
+【國防部新聞發言人蔣斌就日本政要參拜靖國神社答記者問】記者：據報道，在日本戰敗投降日當天，日本首相高市早苗向靖國神社供奉祭祀費，日本防衛大臣小泉進次郎等前往參拜。請問對此有何評論？蔣斌：靖國神社是日本軍國主義發動對外侵略戰爭的精神工具和象徵，供奉有雙手沾滿亞太國家人民鮮血的戰犯。日本政客有關行徑公然褻瀆歷史正義，嚴重傷害亞太受害國人民感情，本質上是掩蓋否定侵略罪責，挑戰世界反法西斯戰爭勝利成果與戰後國際秩序。一邊嘴上標榜追求和平，一邊向戰爭罪魁禍首頂禮膜拜，這種虛偽的作派，充分暴露出日本右翼勢力嚴重扭曲的歷史觀和為軍國主義揚幡招魂的危險圖謀。（新華社）
+
+---
+
+### 2026-08-15 17:36:08  #市場 #國際
+
+【美退役上將：美軍中東後勤保障體系已失效】眼下，圍繞美國“林肯”號航母超期部署引發的船員身心危機與後勤保障失效‌的問題，依舊是美國媒體關注的焦點。美媒報道指出，此次航母事件暴露出的美國海軍後勤保障體系存在嚴重問題。美國海軍退役四星上將、前海軍作戰部長加里·拉夫黑德上將13日在接受美國公共廣播電視網（PBS）採訪時表示，近期美軍在中東地區部署艦船的後勤保障工作難度極大，因為美軍沿用數十年的中東艦船後勤保障體系已徹底失效。（央視新聞）
 
 ---
 
@@ -18438,77 +18468,5 @@ Al Arabiya reports explosions in Erbil, Iraq.
 ### 2026-08-14 07:22:13  #公司
 
 【上市公司頻現1元甩賣資產 被甩賣公司普遍資不抵債】據證券時報記者不完全統計，2026年以來，已有十餘家上市公司先後釋出公告，以1元的名義對價掛牌出售旗下子公司的股權。被低價甩賣的子公司股權的標的多數業績連續虧損，不少甚至處於資不抵債的狀態。在業內人士看來，這類“白菜價”轉讓的表層邏輯，主要是上市公司急於將虧損資產從合併報表中剝離，最佳化當期的財務報表，從而保住上市資格，維持自身在資本市場的正常融資能力，但交易邊界模糊，低價轉讓不良資產背後潛藏著更大的風險。
-
----
-
-### 2026-08-14 07:20:38  #公司 #市場
-
-【銀湖資本據悉正就收購Workday進行談判】據報道，私募股權公司銀湖資本（Silver Lake）正就收購Workday進行談判。受此訊息影響，Workday股價週四上漲近18%。
-
----
-
-### 2026-08-14 07:20:25  #其他
-
-【火箭密集發射帶動招聘熱潮 帶動史上規模最大招聘熱潮】今年以來，國內商業航天產業邁入火箭密集發射、新型號加速攻堅的新階段，隨著人才需求持續井噴，行業迎來史上規模最大、集聚度最高的招聘熱潮。 本輪商業航天招聘熱潮，是行業資本加碼、型號密集落地的必然結果。今年上半年，國內商業航天領域達成102起融資，總額177.09億元，資金主要投向火箭、衛星賽道，為相關企業“招兵買馬”增添了足夠底氣。 當前行業存在結構性人才缺口，液體可回收火箭全鏈條人才供需矛盾最為突出。 本輪集中招聘凸顯行業全新趨勢：航天資源不再高度集中於北京，逐步向全國擴散，海陽、無錫、濟南、廣州等航天新城快速崛起，全國產業佈局逐步成型。（證券時報）
-
----
-
-### 2026-08-14 07:20:08  #MKT News #Important
-
-Reserve Bank of Australia governor BULLOCK will attend a House of Representatives Standing Committee on Economics hearing in 10 minutes.
-
----
-
-### 2026-08-14 07:18:56  #市場
-
-【五糧液“挺價”新措施：經銷商不得低於800元拋售第八代五糧液，批價月內已明顯上漲】繼收緊渠道補貼政策之後，五糧液又推出“控貨挺價”措施。8月13日，市場訊息稱，五糧液近期向經銷商發出通知，不得以低於800元/瓶的價格低價拋售第八代五糧液，同時，酒廠也將加強對低價出貨和竄貨經銷商的處罰。對此，記者從五糧液經銷商處獲悉，上述訊息屬實。不過，目前五糧液方面尚未就上述訊息作出公開回應。記者還瞭解到，在終端市場上，不少專賣店、連鎖酒行第八代五糧液的零售價都在800元/瓶以上，個別專賣店價格高達850元/瓶。（澎湃新聞）
-
----
-
-### 2026-08-14 07:17:23  #其他
-
-【當“固收+”產品買入AI 低波防線失守考驗投資策略】年內A股科技主線大幅波動，意外掀開了低波“固收+”產品運作的隱秘一角。部分主打低波穩健的“固收+”產品，在上半年悄然將權益倉位向光模組、半導體等熱門高彈性賽道傾斜。代價已然顯現：有產品淨值年內回撤超2%、最大回撤幅度突破5%，遠超同類產品平均波動水平。有業內人士表示，低波“固收+”的核心矛盾在於，將合同允許的最大風險當作實際運作的底線，而忽略了產品定位。當科技成長的高波動屬性與低波定位產生內在衝突，基金經理若僅依靠降低單一個股倉位而忽視風險因子的實質分散，極易陷入“假分散、真暴露”的陷阱。在“潛在收益誘惑”與“回撤風險控制”的博弈中，如何嚴守風險預算這本賬，正成為檢驗“固收+”產品成色的試金石。（中國證券報）
-
----
-
-### 2026-08-14 07:16:55  #宏觀
-
-【多地密集落地新政 支援提取公積金用於自住住房裝修等】繼7月31日國務院常務會議審議透過《國務院關於修改〈住房公積金管理條例〉的決定（草案）》後，8月以來，多地密集落地新政，支援提取公積金用於自住住房裝修、物業費及更新改造等場景。據證券時報記者梳理，8月以來，多地新政密集落地。其中，北京明確對自住住房進行裝修裝飾可申請提取公積金；威海支援提取公積金支付住宅專項維修資金、契稅、物業費及取暖費；漢中則進一步將裝修、車位、物業費、契稅及住宅專項維修資金全部納入提取範圍。此外，南寧、通遼、玉溪、珠海等地也分別就自住房裝修、更新改造及物業費等場景出臺公積金支援新政，並於8月份正式實施。
-
----
-
-### 2026-08-14 07:16:12  #央行 #公司 #市場
-
-【證券時報：隔夜逆回購提頻 短端利率管理更精準】本週二、週三，公開市場7天期逆回購連續兩日“零操作”，一度讓市場猜測央行此舉是否有意透過邊際收緊短端流動性投放，調控債市收益率下行節奏。然而，週三傍晚央行預告，未來將有4天開展隔夜逆回購操作，單日操作上限6000億元。訊息甫出，市場情緒提振，債市再度走強。從實際作用看，不同於前兩個月在月末時點操作，此番增加月中操作，可以精準對沖8月中旬稅期、繳準、政府債發行等疊加的資金擾動，保障資金面充裕有序；且公告中未提前明確具體操作規模，只提及操作上限，恰好契合彈性繳稅日期對銀行體系流動性影響的不確定性，保留貨幣政策操作的靈活適度。
-
----
-
-### 2026-08-14 07:16:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US Treasury Secretary Bessent said the US will take unprecedented measures against Iran.
-
----
-
-### 2026-08-14 07:14:37  #宏觀 #國際
-
-美國財政部長貝森特在Newsmax上表示：我們將對伊朗實施前所未有的措施。
-
----
-
-### 2026-08-14 07:14:37  #MKT News
-
-Iran's Fars news agency cited Palestinian sources saying Israeli forces launched attacks on multiple sites in eastern Gaza.
-
----
-
-### 2026-08-14 07:14:24  #市場
-
-【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加22.49噸】截至2026年08月13日，全球最大的白銀ETF iShares Silver Trust持倉量為15336.03噸，較前一個交易日增加22.49噸。
-
----
-
-### 2026-08-14 07:14:18  #其他
-
-【五年期大額存單重啟 銀行意圖穩長期負債】在停售數月後，四家國有大型銀行近期陸續重啟五年期大額存單發行，產品最高年利率為1.6%。記者實地走訪多家銀行營業網點發現，五年期大額存單額度充足，投資者認購熱情平淡，銀行客戶經理推廣意願也不強。業內人士認為，國有大行重啟五年期大額存單，意在鎖定長期資金，對沖巨量定期存款到期壓力，拉長負債久期，這是利率下行週期穩定負債的階段性操作，並非存款利率觸底反彈的訊號。受制於淨息差持續承壓，銀行業難以大規模發行長期限大額存單。（中國證券報）
 
 ---
