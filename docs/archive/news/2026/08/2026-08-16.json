@@ -1,7 +1,31 @@
 {
   "date": "2026-08-16",
-  "count": 37,
+  "count": 39,
   "items": [
+    {
+      "id": "mkt:01a00694-7550-7aab-904a-7529a74a6319",
+      "time": "2026-08-16 01:59:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation."
+    },
+    {
+      "id": "mkt:01a00694-28e5-7aab-904a-6ea65e7c4103",
+      "time": "2026-08-16 01:59:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz."
+    },
     {
       "id": "mkt:01a00690-6cf8-7aab-904a-6486afc797b3",
       "time": "2026-08-16 01:55:23",

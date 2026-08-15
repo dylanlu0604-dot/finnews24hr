@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-16 01:56:41",
-  "count": 15267,
+  "updated": "2026-08-16 02:00:34",
+  "count": 15266,
   "items": [
+    {
+      "id": "mkt:01a00694-7550-7aab-904a-7529a74a6319",
+      "time": "2026-08-16 01:59:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation."
+    },
+    {
+      "id": "mkt:01a00694-28e5-7aab-904a-6ea65e7c4103",
+      "time": "2026-08-16 01:59:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz."
+    },
     {
       "id": "mkt:01a00690-6cf8-7aab-904a-6486afc797b3",
       "time": "2026-08-16 01:55:23",
@@ -139747,33 +139771,6 @@
         "公司"
       ],
       "text": "市場資訊：亞馬遜雲科技（AWS）要求工程師減少CPU資源浪費，算力需求激增造成EC2算力資源緊張。部分工程師申請伺服器，過去數小時即可到位，如今需要等待數日。"
-    },
-    {
-      "id": "5032088",
-      "time": "2026-08-09 01:59:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：受伊朗戰爭影響彈藥庫存急劇消耗，美國正調回原本劃撥給亞洲與歐洲的彈藥。"
-    },
-    {
-      "id": "5032087",
-      "time": "2026-08-09 01:58:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外長：土耳其已向俄羅斯和烏克蘭轉達立場，要求雙方宣佈暫停在黑海的軍事行動。"
-    },
-    {
-      "id": "mkt:019fe286-e3b2-7aab-8fc5-b77c732051a0",
-      "time": "2026-08-09 01:58:38",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Turkey's foreign minister said Ankara has told Russia and Ukraine they should stop attacks in the Black Sea."
     }
   ]
 }
