@@ -1,7 +1,43 @@
 {
   "date": "2026-08-15",
-  "count": 700,
+  "count": 704,
   "items": [
+    {
+      "id": "5042294",
+      "time": "2026-08-15 19:40:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）"
+    },
+    {
+      "id": "mkt:01a00537-d828-7aab-9048-f0ae7fba1bf8",
+      "time": "2026-08-15 19:39:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-4.4 earthquake at 19:30 on Aug 15 offshore Yilan County, Taiwan, with a focal depth of 73 km."
+    },
+    {
+      "id": "mkt:01a00535-b673-7aab-9048-ea3458f1623f",
+      "time": "2026-08-15 19:36:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian outlet Fars News reported military officials said three Iranian air force personnel, who went missing after a March operation targeting US bases, are now being held in Qatar."
+    },
+    {
+      "id": "5042293",
+      "time": "2026-08-15 19:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方訊息人士稱，3月份針對美軍基地的行動中失蹤的三名伊朗空軍人員目前正被卡達扣押。"
+    },
     {
       "id": "mkt:01a00533-531b-7aab-9048-e1206d710f07",
       "time": "2026-08-15 19:34:04",

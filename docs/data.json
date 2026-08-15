@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-15 19:37:12",
-  "count": 15296,
+  "updated": "2026-08-15 19:41:16",
+  "count": 15298,
   "items": [
+    {
+      "id": "5042294",
+      "time": "2026-08-15 19:40:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）"
+    },
+    {
+      "id": "mkt:01a00537-d828-7aab-9048-f0ae7fba1bf8",
+      "time": "2026-08-15 19:39:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-4.4 earthquake at 19:30 on Aug 15 offshore Yilan County, Taiwan, with a focal depth of 73 km."
+    },
+    {
+      "id": "mkt:01a00535-b673-7aab-9048-ea3458f1623f",
+      "time": "2026-08-15 19:36:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian outlet Fars News reported military officials said three Iranian air force personnel, who went missing after a March operation targeting US bases, are now being held in Qatar."
+    },
+    {
+      "id": "5042293",
+      "time": "2026-08-15 19:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方訊息人士稱，3月份針對美軍基地的行動中失蹤的三名伊朗空軍人員目前正被卡達扣押。"
+    },
     {
       "id": "mkt:01a00533-531b-7aab-9048-e1206d710f07",
       "time": "2026-08-15 19:34:04",
@@ -140041,22 +140077,6 @@
         "XAUUSD"
       ],
       "text": "【Analyst: Recent Houthi strike raises risk of wider Yemen war】Elisabeth Kendall, head of Girton College, Cambridge and Middle East expert, said Thursday’s Houthi missile and drone strike on government military targets in Yemen — the first of its kind in years — killed at least 30 government soldiers and wounded 15 and is likely to push the conflict into a wider war. She said the 2022 ceasefire has effectively expired, recent troop movements and clashes show all warning signs of escalation, and that the internationally recognized government’s forces are more unified after January’s fighting and subsequent integration efforts."
-    },
-    {
-      "id": "5031947",
-      "time": "2026-08-08 19:39:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【武契奇會見澤連斯基 就經貿等領域合作交換意見】當地時間8月8日，塞爾維亞總統武契奇在貝爾格萊德會見到訪的烏克蘭總統澤連斯基。雙方就經貿、能源、農業、基礎設施和安全等領域的合作交換意見。（央視新聞）"
-    },
-    {
-      "id": "5031946",
-      "time": "2026-08-08 19:39:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿聯酋稱該國一船隻在霍爾木茲海峽遭襲】據阿聯酋通訊社8月8日報道，阿布扎比國家石油公司證實，該公司一艘船隻當天凌晨在透過霍爾木茲海峽時遭導彈襲擊。阿布扎比國家石油公司說，襲擊未造成人員受傷，目前局面可控。該公司並未提供遭襲船隻具體型別、導彈來源以及船隻受損情況等更多細節。（新華社）"
     }
   ]
 }
