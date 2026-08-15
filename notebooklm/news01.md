@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:56:05_
-_本檔包含 3094 則快訊，約 604780 字_
+_更新時間：2026-08-16 01:31:21_
+_本檔包含 3104 則快訊，約 604802 字_
+
+---
+
+### 2026-08-16 01:28:16  #國際
+
+【以色列空襲黎巴嫩南部迪爾扎赫拉尼鎮】以軍當天對黎巴嫩奈拜提耶地區迪爾扎赫拉尼鎮發動空襲，造成4人死亡、17人受傷。
+
+---
+
+### 2026-08-16 01:26:08  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Israeli Prime Minister Netanyahu said the Israel Defense Forces struck the Hezbollah command post that issued orders for the attack.
+
+---
+
+### 2026-08-16 01:25:44  #國際
+
+以色列總理內塔尼亞胡：真主黨在“黃線”範圍內襲擊了以軍士兵。
+
+---
+
+### 2026-08-16 01:25:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's Prime Minister Netanyahu said three IDF soldiers were seriously wounded in a Hezbollah attack.
+
+---
+
+### 2026-08-16 01:23:53  #其他
+
+【中國隊在第38屆國際資訊學奧賽斬獲3金1銀】第38屆國際資訊學奧林匹克競賽（IOI 2026）15日在烏茲別克首都塔什干落下帷幕。中國代表隊斬獲3金1銀，並取得團體第一名的優異成績。
+
+---
+
+### 2026-08-16 01:21:29  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel will not remain silent about any attacks on its soldiers and will take tough measures against all threats.
+
+---
+
+### 2026-08-16 01:20:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli Prime Minister Netanyahu said the military is operating as directed and is eliminating threats to Israel in Lebanon and Gaza.
+
+---
+
+### 2026-08-16 01:20:34  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli Prime Minister Netanyahu said Hezbollah violated the Lebanese ceasefire and attacked Israeli forces inside the "Yellow Line".
+
+---
+
+### 2026-08-16 01:20:16  #國際
+
+以色列總理內塔尼亞胡：真主黨今日早晨破壞了黎巴嫩停火協議。
+
+---
+
+### 2026-08-16 01:19:28  #MKT News
+
+Sources in Yemen said Houthi forces launched three missiles at Marib.
+
+---
+
+### 2026-08-16 01:18:53  #MKT News #Brent #Impact bullish #XAUUSD
+
+Al Arabiya reported Yemeni military sources said government forces destroyed a Houthi weapons depot in Sarwah, Marib province, Yemen.
+
+---
+
+### 2026-08-16 01:17:28  #MKT News
+
+Israel Defense Forces said the soldiers have been taken to hospital for treatment and their families have been notified.
+
+---
+
+### 2026-08-16 01:17:19  #MKT News #XAUUSD #Impact bullish #Brent
+
+Israel Defense Forces said an officer and two soldiers were seriously wounded last night in southern Lebanon when struck by an explosive‑laden drone.
+
+---
+
+### 2026-08-16 01:12:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemen's electricity minister said the continued presence of Houthi forces makes peace in the region impossible.
+
+---
+
+### 2026-08-16 01:12:07  #MKT News
+
+Yemen's electricity minister said the ministry is working to establish service-delivery models in liberated cities and regions.
+
+---
+
+### 2026-08-16 00:59:57  #市場 #焦點
+
+布倫特原油暗盤跌破86美元，日內跌超0.1%。
 
 ---
 
@@ -18612,41 +18708,5 @@ Shenzhen Stock Exchange said Hesai-W will be removed from the Hong Kong Stock Co
 ### 2026-08-14 08:39:47  #Trading Economics #Markets #Japan #Stock Market #Importance 1
 
 Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index jumped 1.7% to above 69,400, while the broader Topix Index gained 0.5% to 4,196 on Friday, with Japanese shares extending their rally and following a strong lead from Wall Street as subdued US inflation data prompted traders to scale back expectations for a Federal Reserve rate hike in September. Markets are now pricing in around a 35% chance of a 25 basis point Fed rate hike in September, down from 55% a week earlier. Domestically, investors are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weak yen could add to inflationary pressures. Technology stocks led the gains, including Kioxia Holdings (5.2%), Advantest (5.1%) and SoftBank Group (5.5%). The Nikkei and Topix are on track to rise 6% and 3.5% for the week, respectively.
-
----
-
-### 2026-08-14 08:38:41  #其他
-
-【機構：2026年上半年中國智慧眼鏡市場銷量同比增長85.5%】 洛圖科技釋出的報告顯示，2026年上半年，中國智慧眼鏡市場的全渠道銷量為90.9萬臺，同比增長85.5%；銷售額為18.8億元，同比增長98.7%。2026年上半年，中國智慧眼鏡市場各細分品類的市場表現存在一定分化：AR眼鏡與拍攝眼鏡實現了大幅增長，AI音訊眼鏡的增長趨緩。
-
----
-
-### 2026-08-14 08:38:14  #其他
-
-【英國迎來今夏第五輪熱浪 高溫與乾旱疊加影響持續 】 近日，英國迎來今年夏天以來的第五輪熱浪。 英國大部分地區正在經歷高溫天氣和乾旱。英國今年已經有四天氣溫超過36攝氏度，為1884年有氣象記錄以來最多。英國氣象局稱，今年夏天或將成為有記錄以來最熱的夏天。此外，英格蘭和威爾士地區經歷了190年來最乾旱的7月，約有4500萬人受影響，2700萬人面臨用水限制。英國衛生部門上個月估計，今年英國已經有2877人死於高溫相關原因。
-
----
-
-### 2026-08-14 08:37:52  #其他
-
-【2025年我國安全應急裝備重點領域產業規模突破1萬億元 】 從中國電子資訊產業發展研究院瞭解到，“十四五”以來，我國安全應急裝備產業快速發展。2025年重點領域產業規模突破1萬億元，形成了覆蓋安全防範、應急處置和安全應急服務的產業體系。
-
----
-
-### 2026-08-14 08:37:29  #MKT News #CSI300
-
-【A-share valuation gauge: indicators enter volatile phase】Buffett indicator (CSI 300 market cap/GDP) fell to 92.59% on Aug 13. CSI 300 equity risk premium (ERP) was 5.26%, oscillating around 5.2% since July and sitting at the lower end of its range since Oct 2024, suggesting the market’s yield advantage over government bonds is modest. Historical thresholds: Buffett indicator 70–100% is typically viewed as normal (below = undervalued; above = overvalued). Over a 10-year sample the CSI 300 ERP is inversely correlated with the index; ERP ≥6% has coincided with market lows and stronger investment value, while ERP ≤4% has typically coincided with cyclical highs and reduced investment appeal, raising pullback risk.
-
----
-
-### 2026-08-14 08:36:42  #公司
-
-【截至6月30日，馬斯克持有SpaceX 48.4%股權】 據媒體報道，監管檔案顯示，截至6月30日，埃隆・馬斯克持有SpaceX 48.4%的股份，按當前市價計算，該部分股權價值超9000億美元。檔案顯示，馬斯克持有64.2億股股份，並對這些股份擁有單獨投票權及處置權。自IPO以來，他掌握SpaceX超過82%的投票權，凸顯其對這家公司的巨大影響力。本月早些時候，SpaceX公佈了自上市以來的首份季度財報，顯示營收增長超過90%，資本支出呈指數級增長。
-
----
-
-### 2026-08-14 08:35:47  #公司
-
-【據稱KKR以每股最高80美元的價格出售BridgeBio Pharma股票】 當地時間8月13日，據報道，知情人士透露，私募股權投資公司KKR的一家關聯公司正以每股78至80美元的價格出售生物技術公司BridgeBio Pharma的股票。
 
 ---

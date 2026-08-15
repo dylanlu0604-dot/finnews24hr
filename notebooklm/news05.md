@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:56:05_
-_本檔包含 2752 則快訊，約 604705 字_
+_更新時間：2026-08-16 01:31:21_
+_本檔包含 2754 則快訊，約 604439 字_
+
+---
+
+### 2026-08-10 20:02:02  #MKT News #Important
+
+Aili Home: trading suspended from market open August 11 pending investigation after abnormal stock trading volatility.
+
+---
+
+### 2026-08-10 20:01:53  #市場
+
+波羅的海乾散貨運價指數下跌0.19%，至3083點。
+
+---
+
+### 2026-08-10 20:01:47  #MKT News
+
+Baltic Dry Index fell 0.19% to 3,083.
+
+---
+
+### 2026-08-10 20:01:46  #其他
+
+波音將保留獲取威斯克核心自動駕駛技術的許可權。
+
+---
+
+### 2026-08-10 20:01:34  #其他
+
+麥格理：各方將物色、開發新場地。
+
+---
+
+### 2026-08-10 20:01:25  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CNH #Impact bullish #CSI300
+
+【One second of computing power equals 200 years of human computation】The National Development and Reform Commission said China’s compute base has been strengthened this year as a domestically produced 100,000‑GPU AI supercluster at the National Supercomputing Internet’s Zhengzhou core node entered service. Staff said the cluster’s peak per‑second compute capacity is equivalent to 200 years of continuous human computation and it is now supporting more than 300 computing tasks across 26 fields, including new materials, innovative drugs and artificial intelligence.
+
+---
+
+### 2026-08-10 20:01:13  #MKT News
+
+ASML (ASML.O) disclosed transactions under its current share buyback program.
+
+---
+
+### 2026-08-10 20:01:09  #其他
+
+波音將對 ARCHER  進行投資並開展合作。
+
+---
+
+### 2026-08-10 20:01:07  #MKT News
+
+Shanghai Gold Exchange Gold T+D fell 0.11% at the opening of the evening session on Monday Aug 10, trading at 940.11 yuan/gram. Silver T+D rose 2.67% to 15,640.0 yuan/kg at the same session open.
+
+---
+
+### 2026-08-10 20:00:58  #MKT News
+
+Romania's central bank kept its policy rate at 6.50%, in line with market expectations.
+
+---
+
+### 2026-08-10 20:00:46  #資料
+
+加拿大至8月7日全國經濟信心指數 53，前值52.8。
+
+---
+
+### 2026-08-10 20:00:24  #MKT News
+
+Canada national economic confidence index 53 as of Aug. 7; prior 52.8.
+
+---
+
+### 2026-08-10 20:00:17  #MKT News #Economic Calendar #Important
+
+Canada | National Economic Confidence Index (Aug.7) | actual 53 | previous 52.8
+
+---
+
+### 2026-08-10 20:00:15  #市場
+
+Anthropic將為消費者承擔電價上漲帶來的成本。
+
+---
+
+### 2026-08-10 20:00:08  #其他
+
+羅馬尼亞國家銀行維持基準利率在6.50%不變；預計利率為6.50%。
+
+---
+
+### 2026-08-10 19:59:35  #MKT News
+
+ANTHROPIC, Macquarie Asset Management and Singapore's GIC announce strategic partnership.
+
+---
+
+### 2026-08-10 19:59:29  #公司 #焦點
+
+【江波龍：2026年上半年營收240.88億元 同比增長136.26%】江波龍公告稱，2026年半年度，公司實現營業收入240.88億元，達上市以來同期峰值，同比增長136.26%。上半年研發投入8.51億元，同比增長91.02%，推出mSSD、AILPBGA、AIDIMM等新產品，車規級UFS 4.1儲存產品也已釋出。公司還完善治理結構、加強投資者溝通，2026年上半年舉辦業績說明會及調研活動33場，回覆互動易問題276次。2026年6月2日完成利潤分配，每10股派發現金紅利9.91元（含稅）。
+
+---
+
+### 2026-08-10 19:59:06  #MKT News #Important
+
+Jiangbolong reported 1H2026 net profit attributable to owners of the parent of 10.577 billion yuan, a 71,528.66% YoY increase.
+
+---
+
+### 2026-08-10 19:58:44  #公司 #國際
+
+【遊戲驛站考慮撤回 560 億美元收購 eBay 的要約】遊戲驛站執行長瑞安・科恩正考慮撤回公司對 eBay 價值 560 億美元的收購要約。取而代之，遊戲驛站或將提議建立合作關係，藉助其在美國約 1600 家門店，擴大兩家公司在交易卡牌與收藏品領域的業務佈局。報道稱，持有 eBay 9.75% 股份的遊戲驛站，希望依據該合作協議獲得董事會席位。目前尚未作出最終決定。
 
 ---
 
@@ -16512,108 +16626,5 @@ Turkey's foreign minister said Egypt may join a defense pact once certain techni
 ### 2026-08-09 01:32:24  #MKT News
 
 Turkey's foreign minister said Red Sea shipping security affects Turkey's interests and that Turkey must join the Saudi-led international coalition.
-
----
-
-### 2026-08-09 01:24:18  #MKT News
-
-Turkey's foreign minister said Iran is not the target of the defensive pact; provided it does not attack member states, no one is a target.
-
----
-
-### 2026-08-09 01:22:46  #國際
-
-土耳其外長：伊朗並非該防務協定的針對物件，只要不襲擊成員國，任何國家都不會成為我們的目標。
-
----
-
-### 2026-08-09 01:18:50  #國際
-
-土耳其外交部長：（土耳其、巴基斯坦、沙烏地阿拉伯的防務協定）公約將設立一個類似北約的部長級委員會，同時還設有總秘書處。
-
----
-
-### 2026-08-09 01:18:28  #MKT News
-
-Turkey's foreign minister said the defense agreement will establish a ministerial-level committee and a secretary-general, mirroring NATO's structure.
-
----
-
-### 2026-08-09 01:16:58  #國際
-
-市場資訊：伊朗安全負責人稱，德黑蘭正敲定霍爾木茲海峽相關協議，要求美方糾正自身行為。
-
----
-
-### 2026-08-09 01:15:56  #MKT News #Brent #Impact bearish #XAUUSD #DXY
-
-Turkey's foreign minister said the defense pact among Turkey, Pakistan and Saudi Arabia is technically equivalent to NATO's Article 5.
-
----
-
-### 2026-08-09 01:15:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Channel 12 reports Israeli officials say the United States is constraining Israel's options and pushing it into a dilemma over Gaza.
-
----
-
-### 2026-08-09 01:15:20  #MKT News
-
-【CENTCOM commander arrives in Israel to press for next phase of Gaza peace plan】CENTCOM commander Brad Cooper has arrived in Israel and will meet IDF chief of staff Zamir and other senior defense officials for a situation assessment, Israeli public broadcaster reports. Cooper held meetings in Bahrain and the UAE before the visit. The trip coincides with negotiations over a potential ceasefire as the US continues to press Israel to advance transition to the next phase of the Gaza peace plan.
-
----
-
-### 2026-08-09 01:14:41  #國際
-
-土耳其外交部長：土耳其、巴基斯坦、沙烏地阿拉伯的防務協定在性質上等同於北約第五條條款。
-注：北約第五條是北約集體防禦條款，規定對一個北約成員國的武裝攻擊即視為對所有北約成員國的武裝攻擊，所有締約國應採取包括武力在內的行動協助被攻擊國。
-
----
-
-### 2026-08-09 01:08:51  #國際
-
-美軍中央司令部司令訪以期間將商討加沙戰事轉入第二階段相關事宜。
-
----
-
-### 2026-08-09 01:08:37  #MKT News
-
-Market sources: CENTCOM commander will discuss the second-phase transition in Gaza during a visit to Israel.
-
----
-
-### 2026-08-09 01:08:28  #MKT News
-
-CENTCOM commander has arrived in Israel and will meet with senior Israeli military officials.
-
----
-
-### 2026-08-09 01:07:56  #國際
-
-市場資訊：美軍中央司令部司令抵達以色列，與以方高階軍事官員舉行會談。
-
----
-
-### 2026-08-09 01:07:14  #MKT News
-
-According to Israel's Channel 12, the Israeli military is evaluating withdrawing from certain positions in the Gaza Strip and handing them over to international stabilization forces.
-
----
-
-### 2026-08-09 01:06:53  #國際
-
-市場資訊：以軍考慮撤出加沙陣地，交由國際部隊接管。
-
----
-
-### 2026-08-09 01:01:12  #其他
-
-市場資訊：法律人工智慧初創企業哈維（Harvey）正洽談融資，計劃至少募資5億美元，融資後估值達155億美元，較五個月前的上一輪估值溢價40%。
-
----
-
-### 2026-08-09 00:59:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Vance: U.S. 'in a contest' with Iran】U.S. Vice President JD Vance told Fox News on Saturday the United States is 'in a contest' with Iran and is employing the full range of tools—diplomatic, economic and military—to secure the best outcome for Americans. He said talks with Iran have made some progress in recent days. The U.S. expects Gulf oil and gas output to return to pre-conflict levels, and Iran has indicated to U.S. officials it intends to do so.
 
 ---

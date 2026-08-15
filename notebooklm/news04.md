@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:56:05_
-_本檔包含 3205 則快訊，約 604672 字_
+_更新時間：2026-08-16 01:31:21_
+_本檔包含 3191 則快訊，約 604730 字_
+
+---
+
+### 2026-08-11 23:47:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly lower. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened but credit-sensitive hyperscalers booked losses, with Oracle, Amazon, and SpaceX down more than 2%. Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. Still, Nvidia rose 1% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
+
+---
+
+### 2026-08-11 23:47:06  #國際
+
+伊朗最高國安委秘書：其他（談判）條件已透過中間人進行轉達。
+
+---
+
+### 2026-08-11 23:46:42  #國際
+
+伊朗最高國安委秘書：必須結束整個地區的戰爭，包括黎巴嫩與加沙。
+
+---
+
+### 2026-08-11 23:46:10  #國際
+
+卡達稱以色列拒絕加沙和平方案，是在故意拖延程序。
+
+---
+
+### 2026-08-11 23:46:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year.
 
 ---
 
@@ -19203,119 +19233,5 @@ ANTHROPIC has reached a data-center platform agreement with Macquarie and GIC.
 ### 2026-08-10 20:02:05  #公司 #市場
 
 【愛麗家居：股價異動累積風險 8月11日起停牌核查】愛麗家居公告稱，公司股票自2026年7月21日至8月10日，累計11個交易日漲停，股價漲185.56%，已累積巨大交易風險，嚴重偏離基本面。公司股票將於8月11日開市起停牌，自披露核查公告後復牌。公司提醒，目前基本面未變，但股價已嚴重脫離基本面，剩餘外部流通盤小、近期交易放量，或存在非理性炒作。此外，公司擬現金收購歐康諾不低於77.08%股權，控股股東擬轉讓部分股份，相關事項均存不確定性。
-
----
-
-### 2026-08-10 20:02:02  #MKT News #Important
-
-Aili Home: trading suspended from market open August 11 pending investigation after abnormal stock trading volatility.
-
----
-
-### 2026-08-10 20:01:53  #市場
-
-波羅的海乾散貨運價指數下跌0.19%，至3083點。
-
----
-
-### 2026-08-10 20:01:47  #MKT News
-
-Baltic Dry Index fell 0.19% to 3,083.
-
----
-
-### 2026-08-10 20:01:46  #其他
-
-波音將保留獲取威斯克核心自動駕駛技術的許可權。
-
----
-
-### 2026-08-10 20:01:34  #其他
-
-麥格理：各方將物色、開發新場地。
-
----
-
-### 2026-08-10 20:01:25  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CNH #Impact bullish #CSI300
-
-【One second of computing power equals 200 years of human computation】The National Development and Reform Commission said China’s compute base has been strengthened this year as a domestically produced 100,000‑GPU AI supercluster at the National Supercomputing Internet’s Zhengzhou core node entered service. Staff said the cluster’s peak per‑second compute capacity is equivalent to 200 years of continuous human computation and it is now supporting more than 300 computing tasks across 26 fields, including new materials, innovative drugs and artificial intelligence.
-
----
-
-### 2026-08-10 20:01:13  #MKT News
-
-ASML (ASML.O) disclosed transactions under its current share buyback program.
-
----
-
-### 2026-08-10 20:01:09  #其他
-
-波音將對 ARCHER  進行投資並開展合作。
-
----
-
-### 2026-08-10 20:01:07  #MKT News
-
-Shanghai Gold Exchange Gold T+D fell 0.11% at the opening of the evening session on Monday Aug 10, trading at 940.11 yuan/gram. Silver T+D rose 2.67% to 15,640.0 yuan/kg at the same session open.
-
----
-
-### 2026-08-10 20:00:58  #MKT News
-
-Romania's central bank kept its policy rate at 6.50%, in line with market expectations.
-
----
-
-### 2026-08-10 20:00:46  #資料
-
-加拿大至8月7日全國經濟信心指數 53，前值52.8。
-
----
-
-### 2026-08-10 20:00:24  #MKT News
-
-Canada national economic confidence index 53 as of Aug. 7; prior 52.8.
-
----
-
-### 2026-08-10 20:00:17  #MKT News #Economic Calendar #Important
-
-Canada | National Economic Confidence Index (Aug.7) | actual 53 | previous 52.8
-
----
-
-### 2026-08-10 20:00:15  #市場
-
-Anthropic將為消費者承擔電價上漲帶來的成本。
-
----
-
-### 2026-08-10 20:00:08  #其他
-
-羅馬尼亞國家銀行維持基準利率在6.50%不變；預計利率為6.50%。
-
----
-
-### 2026-08-10 19:59:35  #MKT News
-
-ANTHROPIC, Macquarie Asset Management and Singapore's GIC announce strategic partnership.
-
----
-
-### 2026-08-10 19:59:29  #公司 #焦點
-
-【江波龍：2026年上半年營收240.88億元 同比增長136.26%】江波龍公告稱，2026年半年度，公司實現營業收入240.88億元，達上市以來同期峰值，同比增長136.26%。上半年研發投入8.51億元，同比增長91.02%，推出mSSD、AILPBGA、AIDIMM等新產品，車規級UFS 4.1儲存產品也已釋出。公司還完善治理結構、加強投資者溝通，2026年上半年舉辦業績說明會及調研活動33場，回覆互動易問題276次。2026年6月2日完成利潤分配，每10股派發現金紅利9.91元（含稅）。
-
----
-
-### 2026-08-10 19:59:06  #MKT News #Important
-
-Jiangbolong reported 1H2026 net profit attributable to owners of the parent of 10.577 billion yuan, a 71,528.66% YoY increase.
-
----
-
-### 2026-08-10 19:58:44  #公司 #國際
-
-【遊戲驛站考慮撤回 560 億美元收購 eBay 的要約】遊戲驛站執行長瑞安・科恩正考慮撤回公司對 eBay 價值 560 億美元的收購要約。取而代之，遊戲驛站或將提議建立合作關係，藉助其在美國約 1600 家門店，擴大兩家公司在交易卡牌與收藏品領域的業務佈局。報道稱，持有 eBay 9.75% 股份的遊戲驛站，希望依據該合作協議獲得董事會席位。目前尚未作出最終決定。
 
 ---

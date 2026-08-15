@@ -1,7 +1,64 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 00:56:05_
-_本檔包含 3116 則快訊，約 604803 字_
+_更新時間：2026-08-16 01:31:21_
+_本檔包含 3117 則快訊，約 604578 字_
+
+---
+
+### 2026-08-13 07:15:13  #其他
+
+【從“搶BD”到重現金流 創新藥產業投資邏輯生變】據上證報，受科技板塊虹吸效應影響的創新藥賽道，終於迎來了自己的“夏天”。“此前的悲觀情緒已把很多優質資產打到了‘地板價’，但實地走訪一線產業，投資信心在一點點恢復。”滬上一位公募研究員對記者說。相較於上一輪盲目“搶BD”的投資邏輯，現階段機構更關注藥企現金儲備能否支撐多輪高額臨床投入、管線里程碑落地機率是否充足。業內人士認為，過往重視BD首付、“輕後端，重首付”的定價方式或被改寫，未來，更持續的現金流可能成為推動中國創新藥資產重估的重要引擎。
+
+---
+
+### 2026-08-13 07:14:39  #公司 #國際
+
+【Truth Social提供付費提前檢視發帖服務，媒體控告"極度腐敗"】兩家媒體機構週三對美國總統特朗普提出訴訟，要求關閉一項新服務。該服務在特朗普旗下真相社交（Truth Social）平臺，向使用者販售總統發帖的付費訪問許可權，其中部分帖子可能對金融市場產生影響。由攔截(Intercept)與新聞自由基金會(Freedom of the Press Foundation)向曼哈頓聯邦法院提交的訴狀，對“Truth API”服務提出質疑。這項服務由特朗普媒體科技集團(TMTG) 提供，每月收費最高達10萬美元，使用者可提前取得10個Truth Social高知名度帳號的發帖內容，其中包括特朗普的帳號。訴訟中的其他被告還包括多名白宮官員，不過特朗普媒體科技集團並未被列為被告。特朗普長期利用Truth Social釋出可能影響市場的訊息，例如關稅政策與中東衝突相關資訊，這些訊息可能牽動股市、油市及其他市場價格。週三提起的這項訴訟尋求禁止白宮在付費推送功能存在期間，僅由Truth Social獨家釋出官方政府公告。原告在訴狀中表示，“Truth API”服務“極度腐敗”，因為當使用者付費訂閱時，總統將從中獲利。
+
+---
+
+### 2026-08-13 07:12:56  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、到2030年，社會消費品零售總額達到60萬億元左右 5年10萬億元消費增量有支撐（經濟新方位·解碼“十五五”專項規劃）
+2、汽車出口連續兩月突破百萬輛 新能源汽車月度新車銷量佔比首超60%
+3、國產大飛機正式執飛國際商業航線
+4、電商物流指數7月為111.2點 倉儲指數連續兩月執行在擴張區間
+5、前7月京津冀地區進出口值創新高
+6、讓綠色能源成為市場優選（微觀）
+7、2026數智經濟論壇在河北廊坊舉行
+8、我國腦機介面強腦技術取得突破
+9、看好中國市場 加快新能源轉型 謀求更廣闊發展空間 合資續約，車企合作新模式開啟（經濟聚焦）
+10、財政部在香港發行150億元人民幣國債
+11、前7個月 粵港澳大灣區內地9市外貿增長超兩成
+12、中國銀行湖北省分行創新制度措施 金融助力科技產業發展
+13、2026暑期檔電影票房突破90億元
+14、市場監管總局強化民生計量監管 嚴查計量作弊、器具失準、監管缺位等問題
+15、中國品牌車型成尼泊爾車展亮點
+16、實施部分降稅免稅 計劃新增安置住房 英國出臺系列舉措紓解民生困局。
+
+---
+
+### 2026-08-13 07:12:45  #宏觀
+
+今天《人民日報》頭版的主要內容有：
+1、中共中央 全國人大常委會 國務院 全國政協訃告 朱鎔基同志逝世
+2、中國全方位推動人工智慧全球治理走深走實
+3、各地區各部門各單位持續深入開展樹立和踐行正確政績觀學習教育——將學習教育成果固化為制度機制（樹立和踐行正確政績觀）
+4、培育更多“中國服務”品牌
+5、平陸運河實船試驗正式啟動。
+
+---
+
+### 2026-08-13 07:11:35  #公司 #市場 #觀點 #國際
+
+【AI不缺需求缺算力 摩根士丹利警告供應瓶頸或持續數年】摩根士丹利的Michelle Weaver表示，企業對人工智慧的應用正日益產生實質性成效，但算力供應受限仍是制約增長的瓶頸。“我們的供應非常不足。我們看到算力在成為一種受限資源，”摩根士丹利美國主題研究策略師Weaver表示。“電力瓶頸、政治瓶頸、勞動力瓶頸——這些因素將在未來幾年制約供應。”隨著企業採用AI的步伐加快，Weaver接受採訪時作出上述判斷。她表示，25%的標普500指數成分股公司如今可以量化AI投資帶來的可衡量回報，高於一年前的14%。資料中心融資也十分充裕，英偉達與華爾街金融機構合作為AI基礎設施籌集5,000億美元就是例證。
+
+---
+
+### 2026-08-13 07:11:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish
+
+CoreWeave warned investors that migrating workloads from NVIDIA chips to alternative processors would be difficult and could require substantial time and capital investment.
 
 ---
 
@@ -18794,35 +18851,5 @@ Market reports: loud explosion heard inside the Zawiya refinery in northwest Lib
 ### 2026-08-11 23:47:19  #國際
 
 伊朗最高國安委秘書：伊朗與阿曼就霍爾木茲海峽航運達成的任何協議，都將與海峽封鎖問題相互獨立。
-
----
-
-### 2026-08-11 23:47:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly lower. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened but credit-sensitive hyperscalers booked losses, with Oracle, Amazon, and SpaceX down more than 2%. Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. Still, Nvidia rose 1% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
-
----
-
-### 2026-08-11 23:47:06  #國際
-
-伊朗最高國安委秘書：其他（談判）條件已透過中間人進行轉達。
-
----
-
-### 2026-08-11 23:46:42  #國際
-
-伊朗最高國安委秘書：必須結束整個地區的戰爭，包括黎巴嫩與加沙。
-
----
-
-### 2026-08-11 23:46:10  #國際
-
-卡達稱以色列拒絕加沙和平方案，是在故意拖延程序。
-
----
-
-### 2026-08-11 23:46:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year.
 
 ---
