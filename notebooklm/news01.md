@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:33:38_
-_本檔包含 3112 則快訊，約 604017 字_
+_更新時間：2026-08-16 04:54:40_
+_本檔包含 3104 則快訊，約 603887 字_
+
+---
+
+### 2026-08-16 04:53:30  #MKT News #Market Themes #Chip Wars #AI Revolution #GBPUSD #Impact mixed
+
+【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices.
+
+---
+
+### 2026-08-16 04:38:12  #國際
+
+伊朗譴責以色列持續襲擊黎巴嫩。
 
 ---
 
@@ -18696,65 +18708,5 @@ Shanghai Gold Exchange gold T+D opened Friday Aug 14 down 1.38% at 941.31 yuan/g
 ### 2026-08-14 09:00:51  #MKT News #Market Themes #Chip Wars
 
 SMIC co-CEO Zhao Haijun said wafers that began processing or rolled off the line in Q3 were priced under a new pricing scheme.
-
----
-
-### 2026-08-14 09:00:41  #其他
-
-【8月13日471股獲融資買入超億元 中際旭創穫買入42.70億元居首】8月13日共有3518只個股獲融資資金買入，有471股買入金額超億元。其中，中際旭創、兆易創新、勝宏科技融資買入金額排名前三，分別獲買入42.70億元、35.60億元、24.26億元。
-
----
-
-### 2026-08-14 09:00:22  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish
-
-At the morning open, China’s main futures contracts were mixed. Coking coal, No.1 soybeans, pulp, live hogs, glass and soda ash rose >1%; palladium fell about 4%, Shanghai silver dropped >2%, and Europe‑route container freight, Shanghai gold, 20# rubber, low‑sulfur fuel oil (LU) and PTA fell >1%.
-
----
-
-### 2026-08-14 09:00:19  #其他
-
-臺灣證交所加權股價指數開高0.2%報46,103.81。
-
----
-
-### 2026-08-14 09:00:04  #市場 #焦點
-
-白銀連續主力合約日內跌2%，現報15694.00元。
-
----
-
-### 2026-08-14 09:00:04  #市場 #焦點
-
-鈀連續主力合約日內跌4%，現報311.20元。
-
----
-
-### 2026-08-14 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.07%。
-
----
-
-### 2026-08-14 09:00:02  #市場
-
-【商品期貨開盤】鈀連續跌4.10%，白銀連續跌2.15%，鉑連續跌1.94%，焦煤連續漲1.81%，集運指數歐線期貨連續跌1.70%。
-
----
-
-### 2026-08-14 08:58:34  #公司
-
-中國中芯國際聯合執行長表示：第三季度生產的晶圓已執行新定價。
-
----
-
-### 2026-08-14 08:57:23  #公司
-
-【大港股份：目前未涉及算力硬體方面的佈局】大港股份(002077)8月14日在互動平臺表示，公司目前未涉及算力硬體方面的佈局。
-
----
-
-### 2026-08-14 08:57:20  #公司
-
-【獨家丨國科投資領投ChatGPT核心貢獻者，亮源新創穫數億元Pre-A輪融資】新浪科技獨家獲悉，由ChatGPT核心貢獻者姜旭創立的亮源新創（Light Origins），近期已完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資。 亮源新創成立於2024年底，是一家致力於將大模型能力從數字空間延伸至真實世界，並實現物理AGI的創新企業。據知情人士透露，本輪融資資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設及軟硬體全棧平臺研發，同時公司將進行相應的人才團隊擴張。（新浪科技）
 
 ---

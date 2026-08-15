@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:33:38_
-_本檔包含 3077 則快訊，約 603435 字_
+_更新時間：2026-08-16 04:54:40_
+_本檔包含 3076 則快訊，約 603190 字_
+
+---
+
+### 2026-08-13 07:37:56  #公司 #資料 #市場 #觀點 #央行 #國際
+
+【中金公司：美國通脹或已進入新的階段 通脹持續的時間可能相應延長】中金公司研報認為，美國7月CPI季調後環比上漲0.1%，同比3.4%，核心通脹環比0.2%，同比2.5%，均符合市場預期。能源價格繼續回落，但8月以來國際油價重新走高，增加未來能源價格不確定性。核心通脹方面，商品偏強，服務偏弱，尤其是計算機、軟體等資訊科技產品價格持續上漲，反映AI資本開支擴張帶來的供需錯配正逐步向消費端傳導。我們認為，美國通脹或已進入新的階段，其驅動力正由關稅、油價等供給衝擊，逐步轉向AI投資帶來的需求擴張，通脹持續的時間可能相應延長。對美聯儲而言，這份資料緩解了短期加息的壓力，但相較於供給推動型通脹，需求拉動型通脹更需要決策者加以關注。
+
+---
+
+### 2026-08-13 07:37:54  #MKT News #Market Themes #AI Revolution
+
+【White House to broaden AI oversight; open-source models may join federal testing framework】US tech outlet WIRED, citing sources, reports the White House will expand an AI safety-testing framework requiring federal safety tests of frontier models before public release. The framework, announced this month but not yet public or detailed, currently covers closed-source models from Anthropic and OpenAI; officials expect it to include open-source models within months once they reach 'frontier' capability comparable to Anthropic’s Mythos and OpenAI’s GPT-5.6.
 
 ---
 
@@ -18593,23 +18605,5 @@ US President Trump said he welcomed the decision and that Russia did not request
 ### 2026-08-12 00:11:17  #MKT News #Market Themes #The Trump Trade
 
 TRUMP said after his discussion with Putin, Russia agreed to release him.
-
----
-
-### 2026-08-12 00:11:09  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.26% Higher — The DAX Index went up by 68 points or 0.26 percent on Tuesday to close at 26391 points. The rise was led by Siemens Energy (2.56%), Deutsche Telekom (1.64%) and RWE (1.52%). On the downside, the weakerst performers were Qiagen NV (-3.38%), Adidas (-3.08%) and Zalando (-2.82%).
-
----
-
-### 2026-08-12 00:11:06  #MKT News
-
-President Trump said U.S. citizen Robert Gilman, a former U.S. Marine, is coming home.
-
----
-
-### 2026-08-12 00:10:39  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Extend Records — European stocks inched higher to new records on Tuesday as gains for technology and energy stocks offset a muted session elsewhere. The Euro STOXX 50 closed 0.5% higher at a record of 6,553 and the STOXX Europe 600 inched higher to a record of 660.8. ASML jumped 2.7%, supported by a recommendation upgrade by Bernstein. Other companies with exposure to AI infrastructure also rose, with Siemens Energy gaining close to 3%. In turn, energy stocks rose after US President Trump hardened his rhetoric against Iran, prolonging expectations of suspended exports through the Persian Gulf despite optimistic signals of a deal from Pakistan and Qatar. TotalEnergies and ENI advanced nearly 2%.
 
 ---

@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:33:38_
-_本檔包含 3116 則快訊，約 604190 字_
+_更新時間：2026-08-16 04:54:40_
+_本檔包含 3124 則快訊，約 604265 字_
+
+---
+
+### 2026-08-14 09:00:41  #其他
+
+【8月13日471股獲融資買入超億元 中際旭創穫買入42.70億元居首】8月13日共有3518只個股獲融資資金買入，有471股買入金額超億元。其中，中際旭創、兆易創新、勝宏科技融資買入金額排名前三，分別獲買入42.70億元、35.60億元、24.26億元。
+
+---
+
+### 2026-08-14 09:00:22  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish
+
+At the morning open, China’s main futures contracts were mixed. Coking coal, No.1 soybeans, pulp, live hogs, glass and soda ash rose >1%; palladium fell about 4%, Shanghai silver dropped >2%, and Europe‑route container freight, Shanghai gold, 20# rubber, low‑sulfur fuel oil (LU) and PTA fell >1%.
+
+---
+
+### 2026-08-14 09:00:19  #其他
+
+臺灣證交所加權股價指數開高0.2%報46,103.81。
+
+---
+
+### 2026-08-14 09:00:04  #市場 #焦點
+
+白銀連續主力合約日內跌2%，現報15694.00元。
+
+---
+
+### 2026-08-14 09:00:04  #市場 #焦點
+
+鈀連續主力合約日內跌4%，現報311.20元。
+
+---
+
+### 2026-08-14 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.07%。
+
+---
+
+### 2026-08-14 09:00:02  #市場
+
+【商品期貨開盤】鈀連續跌4.10%，白銀連續跌2.15%，鉑連續跌1.94%，焦煤連續漲1.81%，集運指數歐線期貨連續跌1.70%。
+
+---
+
+### 2026-08-14 08:58:34  #公司
+
+中國中芯國際聯合執行長表示：第三季度生產的晶圓已執行新定價。
+
+---
+
+### 2026-08-14 08:57:23  #公司
+
+【大港股份：目前未涉及算力硬體方面的佈局】大港股份(002077)8月14日在互動平臺表示，公司目前未涉及算力硬體方面的佈局。
+
+---
+
+### 2026-08-14 08:57:20  #公司
+
+【獨家丨國科投資領投ChatGPT核心貢獻者，亮源新創穫數億元Pre-A輪融資】新浪科技獨家獲悉，由ChatGPT核心貢獻者姜旭創立的亮源新創（Light Origins），近期已完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資。 亮源新創成立於2024年底，是一家致力於將大模型能力從數字空間延伸至真實世界，並實現物理AGI的創新企業。據知情人士透露，本輪融資資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設及軟硬體全棧平臺研發，同時公司將進行相應的人才團隊擴張。（新浪科技）
 
 ---
 
@@ -18754,17 +18814,5 @@ Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year i
 ### 2026-08-13 07:39:30  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bearish #WTI #Impact bullish #US10Y #Impact mixed
 
 【China International Capital Co: US inflation may have entered new phase; duration could lengthen】China International Capital Co says July US CPI (seasonally adjusted) rose 0.1% MoM, 3.4% YoY; core CPI rose 0.2% MoM, 2.5% YoY — broadly in line with expectations. Energy prices continued to fall in July, but international oil has rebounded since August, raising near-term energy-price uncertainty. Core inflation shows goods price strength and services softness; prices for IT products such as computers and software are climbing, which the report links to AI capex-driven demand and a supply–demand mismatch transmitting to consumers. CICC warns US inflation may be shifting from supply shocks (tariffs, oil) toward demand expansion tied to AI investment, which could extend the persistence of inflation. For the Fed, the print eases immediate rate-hike pressure but underscores that demand-driven inflation requires closer policy attention than supply-driven episodes.
-
----
-
-### 2026-08-13 07:37:56  #公司 #資料 #市場 #觀點 #央行 #國際
-
-【中金公司：美國通脹或已進入新的階段 通脹持續的時間可能相應延長】中金公司研報認為，美國7月CPI季調後環比上漲0.1%，同比3.4%，核心通脹環比0.2%，同比2.5%，均符合市場預期。能源價格繼續回落，但8月以來國際油價重新走高，增加未來能源價格不確定性。核心通脹方面，商品偏強，服務偏弱，尤其是計算機、軟體等資訊科技產品價格持續上漲，反映AI資本開支擴張帶來的供需錯配正逐步向消費端傳導。我們認為，美國通脹或已進入新的階段，其驅動力正由關稅、油價等供給衝擊，逐步轉向AI投資帶來的需求擴張，通脹持續的時間可能相應延長。對美聯儲而言，這份資料緩解了短期加息的壓力，但相較於供給推動型通脹，需求拉動型通脹更需要決策者加以關注。
-
----
-
-### 2026-08-13 07:37:54  #MKT News #Market Themes #AI Revolution
-
-【White House to broaden AI oversight; open-source models may join federal testing framework】US tech outlet WIRED, citing sources, reports the White House will expand an AI safety-testing framework requiring federal safety tests of frontier models before public release. The framework, announced this month but not yet public or detailed, currently covers closed-source models from Anthropic and OpenAI; officials expect it to include open-source models within months once they reach 'frontier' capability comparable to Anthropic’s Mythos and OpenAI’s GPT-5.6.
 
 ---

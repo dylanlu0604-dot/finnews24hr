@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 04:33:38_
-_本檔包含 3208 則快訊，約 603821 字_
+_更新時間：2026-08-16 04:54:40_
+_本檔包含 3195 則快訊，約 603784 字_
+
+---
+
+### 2026-08-12 00:11:09  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.26% Higher — The DAX Index went up by 68 points or 0.26 percent on Tuesday to close at 26391 points. The rise was led by Siemens Energy (2.56%), Deutsche Telekom (1.64%) and RWE (1.52%). On the downside, the weakerst performers were Qiagen NV (-3.38%), Adidas (-3.08%) and Zalando (-2.82%).
+
+---
+
+### 2026-08-12 00:11:06  #MKT News
+
+President Trump said U.S. citizen Robert Gilman, a former U.S. Marine, is coming home.
+
+---
+
+### 2026-08-12 00:10:39  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Extend Records — European stocks inched higher to new records on Tuesday as gains for technology and energy stocks offset a muted session elsewhere. The Euro STOXX 50 closed 0.5% higher at a record of 6,553 and the STOXX Europe 600 inched higher to a record of 660.8. ASML jumped 2.7%, supported by a recommendation upgrade by Bernstein. Other companies with exposure to AI infrastructure also rose, with Siemens Energy gaining close to 3%. In turn, energy stocks rose after US President Trump hardened his rhetoric against Iran, prolonging expectations of suspended exports through the Persian Gulf despite optimistic signals of a deal from Pakistan and Qatar. TotalEnergies and ENI advanced nearly 2%.
 
 ---
 
@@ -19230,101 +19248,5 @@ Iran President PEZESHKIAN said he held a 7-8 hour meeting with Supreme Leader Mo
 ### 2026-08-10 20:26:39  #其他
 
 【第十六屆中國國際數字出版博覽會將於8月27日啟幕】記者8月10日從第十六屆中國國際數字出版博覽會組委會獲悉，以“數創未來 智啟新程”為主題，本屆數博會將於8月27日至29日在山東濟南舉行。據介紹，本屆數博會預計參展單位逾500家，全國20個省區市組團參展，30餘個國家和地區的海外展商參展。展會設定7大特色展區，首次設立中華優秀傳統文化與網路遊戲展區，旨在展現、交流優秀傳統文化賦能網路遊戲精品化發展路徑；設定1場主論壇、6場專題論壇及80餘場配套活動，與會嘉賓將就數字出版、人機協同、學科交叉建設、全球學術傳播等議題研討，探索可操作、可落地的路徑和經驗。中國新聞出版研究院將會同相關機構釋出多份報告，併發布人工智慧應用相關行業標準制定階段性成果。本屆數博會由中國新聞出版研究院、中國出版協會聯合主辦。中國國際數字出版博覽會是我國以促進數字出版產業發展為主題舉辦的全國性、國際化博覽會，於2005年首次舉辦。（新華社）
-
----
-
-### 2026-08-10 20:26:21  #央行 #其他
-
-銀行業人士表示，土耳其央行上週買入了50億美元外匯。
-
----
-
-### 2026-08-10 20:26:19  #央行 #其他
-
-銀行業人士表示，土耳其中央行淨外匯儲備上週增加90億美元，達到630億美元。
-
----
-
-### 2026-08-10 20:26:16  #其他
-
-銀行業人士稱，土耳其中央銀行總儲備上週增加140億美元，達到1780億美元。
-
----
-
-### 2026-08-10 20:26:11  #央行 #其他
-
-銀行業人士稱，土耳其央行剔除互換後的淨外匯儲備上週增加95億美元，達到500億美元。
-
----
-
-### 2026-08-10 20:26:04  #其他
-
-委內瑞拉預計 8 月 16 日前熱力發電恢復 75%。
-
----
-
-### 2026-08-10 20:25:29  #公司
-
-【金宏氣體：截至目前控股子公司雲南漢興德方未規劃六氟化鎢相關設計產能】金宏氣體8月10日在互動平臺表示，截至目前公司控股子公司雲南漢興德方氣體科技有限公司未開展實際經營活動，未規劃六氟化鎢相關設計產能，相關資訊請以公司官方釋出內容為準。
-
----
-
-### 2026-08-10 20:25:13  #MKT News
-
-Chile will announce a new deputy finance minister today, the president said.
-
----
-
-### 2026-08-10 20:25:08  #宏觀
-
-智利總統： 智利今日將公佈新任財政部副部長人選。
-
----
-
-### 2026-08-10 20:24:27  #公司
-
-嘉信理財公司：宣佈發行2032年和2037年到期的兩部分固息轉浮息優先票據，規模未披露。
-
----
-
-### 2026-08-10 20:23:57  #公司
-
-西門子能源：首套解決方案包將於2027年底交付給SBM離岸公司，最終交付工作計劃在2028年全年完成。
-
----
-
-### 2026-08-10 20:23:50  #其他
-
-西門子能源：該專案將創造400個直接就業崗位與500個間接就業崗位。
-
----
-
-### 2026-08-10 20:23:39  #公司 #市場 #國際
-
-Moderna美股盤前漲超2.4%，公司的mRNA流感疫苗獲得了美國FDA的正式批准上市，這是全球首款獲批的mRNA流感疫苗。
-
----
-
-### 2026-08-10 20:23:31  #央行 #日本央行
-
-【日本央行據悉釋放9月加息訊號 促使美國加入匯市干預】據報道，日本政府官員透露，日本央行行長植田和男強烈暗示將在9月加息，是促成日本和美國聯手干預日元匯率的決定性因素。
-
----
-
-### 2026-08-10 20:23:20  #公司
-
-西門子能源股份公司為巴西國家石油公司平臺供應裝置，推進巴西離岸業務擴張。
-
----
-
-### 2026-08-10 20:23:07  #國際
-
-【伊朗說地區國家認識到美國靠不住】伊朗外交部發言人巴加埃今天（8月10日）主持例行記者會。對於土耳其、沙烏地阿拉伯和巴基斯坦8月7日簽署共同防務協議，巴加埃指出，近兩三年來，地區各國已經逐漸認識到，地區安全“不是一種可以從不可靠的中間商那裡購買的商品”，“不能再幻想靠美國實現安全”。巴加埃說，伊朗鼓勵地區國家“開展合作、加強互信，以實現內生的安全，而不是依靠外部力量”。 巴加埃還指出，美國自身就是地區不安全的原因之一，而如果沒有美國對以色列的全方位支援，以色列也絕對不可能肆無忌憚、有恃無恐地在地區持續犯下罪行。（CCTV國際時訊）
-
----
-
-### 2026-08-10 20:21:58  #國際
-
-【江西釋出中小河流洪水和山洪氣象風險黃色預警】今天（10日）17時36分，江西省水文監測中心與江西省氣象臺聯合釋出中小河流洪水和山洪氣象風險黃色預警訊號：預計8月10日20時至11日20時，九江市中東部、西部可能發生中小河流洪水及山洪災害，其中九江市中部發生中小河流洪水及山洪災害可能性較大。請上述地區注意做好短歷時強降雨引發的中小河流洪水及山洪災害防範工作。（央視新聞）
 
 ---
