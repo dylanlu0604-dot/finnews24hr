@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-16 01:19:33",
-  "count": 15263,
+  "updated": "2026-08-16 01:23:27",
+  "count": 15267,
   "items": [
+    {
+      "id": "mkt:01a00671-65a2-7aab-904a-3f971694c4d6",
+      "time": "2026-08-16 01:21:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel will not remain silent about any attacks on its soldiers and will take tough measures against all threats."
+    },
+    {
+      "id": "mkt:01a00670-e929-7aab-904a-3071c243d2e5",
+      "time": "2026-08-16 01:20:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the military is operating as directed and is eliminating threats to Israel in Lebanon and Gaza."
+    },
+    {
+      "id": "mkt:01a00670-8c17-7aab-904a-2c8356938ddc",
+      "time": "2026-08-16 01:20:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Hezbollah violated the Lebanese ceasefire and attacked Israeli forces inside the \"Yellow Line\"."
+    },
+    {
+      "id": "5042408",
+      "time": "2026-08-16 01:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：真主黨今日早晨破壞了黎巴嫩停火協議。"
+    },
+    {
+      "id": "mkt:01a0066f-8c9c-7aab-904a-21b509b589c1",
+      "time": "2026-08-16 01:19:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources in Yemen said Houthi forces launched three missiles at Marib."
+    },
     {
       "id": "mkt:01a0066f-01db-7aab-904a-1d6665b1066e",
       "time": "2026-08-16 01:18:53",
@@ -139718,14 +139766,6 @@
         "MKT News"
       ],
       "text": "Turkey's foreign minister said Iran is not the target of the defensive pact; provided it does not attack member states, no one is a target."
-    },
-    {
-      "id": "5032081",
-      "time": "2026-08-09 01:22:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外長：伊朗並非該防務協定的針對物件，只要不襲擊成員國，任何國家都不會成為我們的目標。"
     }
   ]
 }
