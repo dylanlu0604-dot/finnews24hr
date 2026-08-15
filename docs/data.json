@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-15 12:28:02",
-  "count": 15291,
+  "updated": "2026-08-15 12:31:56",
+  "count": 15294,
   "items": [
+    {
+      "id": "mkt:01a003af-1f6e-7aab-9047-7904649e3e0f",
+      "time": "2026-08-15 12:30:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran FM: No decision yet on resuming talks with US】On Aug. 14 Iran’s foreign minister said mediators Qatar and Pakistan are exchanging information and remain in contact with Tehran, but that does not constitute formal negotiations. Iran has not decided whether to resume talks with the United States. He said separate talks with Oman are underway to establish shipping lanes to allow vessel passage through the Strait of Hormuz — a distinct issue from ‘opening’ the strait — and that Iran would only restore passage if the United States meets certain conditions."
+    },
+    {
+      "id": "5042161",
+      "time": "2026-08-15 12:29:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團：已有20多個城市正評估“紅燈停表”相關試點條件】美團“紅燈停表”功能日前在北京試點路測。隨後美團在北京舉行騎手懇談會聽取騎手以及專業意見。另據美團介紹，已有20餘個城市正在評估訊號燈資料和試點條件。此外，今年計劃在200餘個城市開展“不闖紅燈”正向激勵。"
+    },
+    {
+      "id": "5042160",
+      "time": "2026-08-15 12:29:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊外長：伊朗目前沒有決定是否與美國重新開始談判】當地時間8月14日，伊朗外長阿拉格齊在接受媒體採訪時表示，目前調停方卡達和巴基斯坦都在進行資訊交流並與伊朗保持聯絡，但這並不意味著正在進行談判。伊朗目前沒有決定是否與美國重新開始談判。阿拉格齊還表示，伊朗與阿曼的談判正在進行，與確定霍爾木茲海峽的航線以便船舶通行有關，與霍爾木茲海峽的開放問題是兩個完全不同的議題。阿拉格齊同時強調，只有在美國遵守某些條件的情況下，伊朗才會恢復霍爾木茲海峽通行。（央視新聞）"
+    },
+    {
+      "id": "5042159",
+      "time": "2026-08-15 12:28:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普美東時間8月14日表態，美國將對伊朗實施嚴厲的經濟打擊，並揚言徹底擊敗伊朗後宣佈霍爾木茲海峽為美國領土。\n2、特朗普公開敦促美國民眾接受更高油價，稱高昂油價是阻止伊朗擁核需要付出的必要代價，自己對此絕不道歉。\n3、特朗普證實，部署在中東的林肯號航母即將撤離，將由華盛頓號航母接替駐中東任務。\n4、特朗普8月13日簽署國家安全備忘錄，數十年來首次放開限制，允許合格外國船廠在境外為美國海軍建造最多兩艘艦船，以緩解交付壓力。\n5、特朗普14日正式向美國最高法院提起上訴，請求准許繼續推進白宮宴會廳改造專案，反對法院的停工禁令。\n6、特朗普公開批評美國國家歷史保護信託基金會，指責該機構名頭具有誤導性，長期阻礙優質專案落地，此次惡意叫停白宮宴會廳改造工程。\n7、以色列大選臨近僅剩75天，面對媒體多次追問，特朗普至今未公開表態力挺選戰陷入劣勢的內塔尼亞胡。"
+    },
     {
       "id": "mkt:01a003ac-0cf7-7aab-9047-75d38052c1ff",
       "time": "2026-08-15 12:26:42",
@@ -140022,16 +140059,6 @@
         "MKT News"
       ],
       "text": "【August 2026 box office tops CNY 1.5 bln】Lighthouse Professional data show as of Aug 8 total August box office, including presales, exceeded CNY 1.5 bln. Top five titles are Spider-Man: A New Day; The Eight Immortals!; Kung Fu Women's Football; Annual Party Can't Stop! 2; Obsession."
-    },
-    {
-      "id": "mkt:019fdfa3-c4bd-7aab-8fc2-a65591b96490",
-      "time": "2026-08-08 12:31:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russian operations command said the Ilsky refinery caught fire after drone wreckage fell, RIA reported."
     }
   ]
 }
