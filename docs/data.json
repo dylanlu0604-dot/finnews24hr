@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 04:18:13",
+  "updated": "2026-08-16 04:22:05",
   "count": 15256,
   "items": [
+    {
+      "id": "5042428",
+      "time": "2026-08-16 04:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "利比亞發電站附近發生爆炸，多臺發電機組停止執行。"
+    },
     {
       "id": "mkt:01a0070b-9b75-7aab-904a-f498d8e2e026",
       "time": "2026-08-16 04:09:56",
@@ -139659,14 +139667,6 @@
         "XAUUSD"
       ],
       "text": "Jordan's foreign ministry said both sides discussed regional developments and efforts aimed at ending escalation, restoring calm, achieving security and stability, and ensuring freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019fe309-db95-7aab-8fc6-7e5f4107aa1a",
-      "time": "2026-08-09 04:21:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordan's Deputy Prime Minister and Minister of Foreign and Expatriates' Affairs Ayman Safadi spoke by phone today with Bahraini Foreign Minister Dr Abdullatif Zayani."
     }
   ]
 }
