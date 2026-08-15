@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 02:42:29_
-_本檔包含 3192 則快訊，約 604762 字_
+_更新時間：2026-08-16 03:27:56_
+_本檔包含 3196 則快訊，約 604303 字_
+
+---
+
+### 2026-08-12 00:05:33  #MKT News #Important
+
+EIA Short-Term Energy Outlook projects U.S. dry natural gas production at 116.0 Bcf/d in 2027, revised up from a prior forecast of 115.3 Bcf/d.
+
+---
+
+### 2026-08-12 00:05:24  #MKT News #Important #WTI
+
+EIA Short-Term Energy Outlook projects U.S. crude oil consumption in 2027 at 20.80 mln b/d, up from a prior forecast of 20.79 mln b/d.
+
+---
+
+### 2026-08-12 00:04:55  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA August Short-Term Energy Outlook forecasts U.S. crude production next year at 14.15 mln b/d, versus prior 14.03 mln b/d.
+
+---
+
+### 2026-08-12 00:04:49  #MKT News #Commodities #Energy #WTI
+
+EIA August Short-Term Energy Outlook projects US crude oil production this year at 13.80 mln b/d, vs 13.78 mln b/d previously.
+
+---
+
+### 2026-08-12 00:04:48  #MKT News #Economic Calendar
+
+United States | EIA US Crude Oil Production Estimate (Next Year) (Aug) | actual 14150000M | previous 14030000M
+
+---
+
+### 2026-08-12 00:04:40  #其他
+
+利比亞扎維亞煉油廠：煉油廠倉庫內發生的爆炸系無人機襲擊所致。
+
+---
+
+### 2026-08-12 00:04:40  #MKT News #Economic Calendar
+
+United States | EIA US Crude Oil Production Estimate (Current Year) (Aug) | actual 13800000M | previous 13780000M
+
+---
+
+### 2026-08-12 00:04:32  #MKT News #Commodities #Energy
+
+US EIA August forecast for next-year natural gas production 116.0 Bcf/d; prior 115.3 Bcf/d.
+
+---
+
+### 2026-08-12 00:04:22  #MKT News #Commodities #Energy
+
+EIA August forecast for U.S. natural gas production this year: 111.2 bcf/d, unchanged from prior (111.2 bcf/d).
+
+---
+
+### 2026-08-12 00:04:19  #MKT News #Economic Calendar
+
+United States | EIA US Natural Gas Production Estimate (Next Year) (Aug) | actual 116000000000B | previous 115300000000B
+
+---
+
+### 2026-08-12 00:04:13  #國際
+
+美國能源資訊署（EIA）表示，美國天然氣庫存將在冬季需求高峰來臨前升至十年高位。
+
+---
+
+### 2026-08-12 00:04:11  #MKT News #Economic Calendar
+
+United States | EIA US Natural Gas Production Estimate (Current Year) (Aug) | actual 111200000000B | previous 111200000000B
+
+---
+
+### 2026-08-12 00:03:45  #國際
+
+【伊朗高階官員：美必須接受伊方條件換取霍爾木茲海峽開放】當地時間11日，伊朗最高國家安全委員會秘書雷扎伊表示，美國是霍爾木茲海峽、波斯灣和阿曼灣不安全的根源，美國對伊朗發動非法戰爭，危及整個地區。“除非美國改變其行為並接受伊朗的條件，否則霍爾木茲海峽不會開放。”他表示，美國必須結束戰爭，支付伊朗被凍結的資金，此外美國還需滿足透過中間人傳達給他們的其他條件。他指出，如果伊朗和阿曼就霍爾木茲海峽的通行路線達成協議，該協議“將與霍爾木茲海峽的封鎖問題分開處理”。（央視新聞）
+
+---
+
+### 2026-08-12 00:03:32  #國際
+
+美國能源資訊署（EIA）預計，2026年美國石油產量將達到1380萬桶/日，此前預測為1378萬桶/日；預計2027年石油產量為1415萬桶/日，此前預測為1403萬桶/日。
+
+---
+
+### 2026-08-12 00:03:23  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+US EIA August forecast: average Brent crude price for the year $86.81/bbl, prior $81.91/bbl.
+
+---
+
+### 2026-08-12 00:03:21  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+【EIA raises 2026-27 WTI and Brent price forecasts】EIA Short-Term Energy Outlook: 2026 WTI $80.88/bbl (prior $76.26); 2027 WTI $65.39/bbl (prior $60.76). 2026 Brent $86.81/bbl (prior $81.91); 2027 Brent $69.39/bbl (prior $64.76).
 
 ---
 
@@ -19158,86 +19254,5 @@ US Futures Stable Near Records — Futures tracking US equity indices were muted
 ### 2026-08-10 20:15:12  #國際
 
 伊朗總統佩澤希齊揚表示，與最高領袖討論了制裁和團結問題。
-
----
-
-### 2026-08-10 20:15:04  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
-
-Amazon says Novo Nordisk has selected AWS as its cloud partner.
-
----
-
-### 2026-08-10 20:15:01  #國際
-
-埃及總統府：塞西批准由納稅人出資、從其未來納稅義務中抵扣的稅收伊斯蘭債券發行提案。
-
----
-
-### 2026-08-10 20:14:48  #公司
-
-亞馬遜公司：諾和諾德選定 AWS 作為合作伙伴。
-
----
-
-### 2026-08-10 20:14:37  #Trading Economics #Economy #Romania #Interest Rate #Importance 1
-
-Romania Holds Interest Rate as Expected — The National Bank of Romania kept its key policy rate unchanged at 6.5% in August 2026, as widely expected. Annual inflation slowed to 10.42% in June, in line with the central bank’s forecast, mainly due to a sharp decline in LFO and fuel prices, partly offset by higher natural gas and electricity costs. Meanwhile, economic activity contracted 1.2% in Q1, following 0.2% growth in the previous quarter, reflecting weaker household spending and a negative contribution from changes in inventories. The NBR expects activity to recover slightly in Q2 and Q3, amid mixed developments across domestic demand components and economic sectors. Inflation is projected to fall sharply following the removal of the electricity price cap and increases in VAT and excise duties. After some volatility in Q4 2026, inflation is expected to resume a gradual decline, returning to the target range by end-2027.
-
----
-
-### 2026-08-10 20:14:31  #國際
-
-來自烏克蘭方面報道：俄羅斯襲擊了尼科波爾，造成一人死亡。俄方襲擊一處居民區，三人受傷。
-
----
-
-### 2026-08-10 20:13:57  #公司 #市場
-
-ARCHER股票盤前上漲18.2%，此前該公司宣佈將收購波音旗下的威斯克航空、因西圖與Skygrid三家子公司；波音將對ARCHER進行投資並開展合作。
-
----
-
-### 2026-08-10 20:13:25  #國際
-
-伊朗總統：與最高領袖的會議持續了7-8小時。
-
----
-
-### 2026-08-10 20:13:17  #公司
-
-ARCHER：波音將在交易完成後立即任命波音指定人員進入該公司董事會。
-
----
-
-### 2026-08-10 20:12:35  #公司 #市場 #國際
-
-【美股盤前要聞速遞】
-①美股盤前，美股三大股指期貨漲跌不一，道指期貨跌0.07%，標普500指數期貨漲0.06%，納指期貨漲0.10%。
-②德國DAX指數漲0.34%，英國富時100指數跌0.16%，法國CAC40指數漲0.16%，歐洲斯托克50指數漲0.51%。
-③WTI原油漲1.66%，報79.48美元/桶。布倫特原油漲1.69%，報84.96美元/桶。
-④本週伊始，美國國債收益率小幅走低。投資者將迎來密集經濟資料周，市場焦點集中在等待7 月核心通脹資料。
-⑤暢銷書作家羅伯特・清崎稱，美國或將瀕臨“大蕭條”，大量配置股票的美國退休賬戶持有者，將極易遭遇市場暴跌衝擊。
-⑥美國參議院多數黨領袖宣佈，在8月休會前不會對《數字資產市場清晰法案》舉行程式性投票，這使得該法案今年內成為法律的可能性進一步降低。
-⑦Meta盤前股價上漲 2.9%，此前該公司釋出可單卡執行的輕量AI模型Muse Glimmer。
-⑧巴里克黃金礦業在美上市股價盤前下跌5%，因該公司第二季度利潤不及預期。
-⑨SIONNA Therapeutics 公佈主要終點更新資料後，盤前股價暴跌 87%。
-
----
-
-### 2026-08-10 20:12:16  #其他 #焦點
-
-美元兌日元USD/JPY一度下挫約40點，最低至158.41，現回升至158.67。
-
----
-
-### 2026-08-10 20:12:15  #MKT News #Important #Market Regions #Japan & APAC #USDJPY
-
-USD/JPY briefly fell about 40 pips to a low of 158.41, now trading at 158.67.
-
----
-
-### 2026-08-10 20:11:55  #MKT News #Market Regions #Greater China
-
-【Multiple 'Sorry' ransomware attacks detected in China】The National Computer Virus Emergency Response Center and the National Engineering Laboratory for Computer Virus Prevention and Control, via the national computer virus collaborative analysis platform (https://virus.cverc.org.cn), have detected multiple 'Sorry' ransomware incidents in China. Victims' important files are encrypted and renamed with a .sorry suffix; attackers leave ransom notes demanding victims download an encrypted communication tool to contact them.
 
 ---

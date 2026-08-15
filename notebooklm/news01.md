@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 02:42:29_
-_本檔包含 3111 則快訊，約 604591 字_
+_更新時間：2026-08-16 03:27:56_
+_本檔包含 3113 則快訊，約 605019 字_
+
+---
+
+### 2026-08-16 03:16:32  #公司 #焦點
+
+【英偉達洽談向SB Energy投資30億美元，系OpenAI資料中心交易組成部分】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團支援，負責為OpenAI開發俄亥俄州大型資料中心專案。這筆投資談判，是英偉達與OpenAI、SB Energy談判的一部分；英偉達擬為規劃中的俄亥俄資料中心園區提供約1000億美元信貸支援。這類交易越來越多，英偉達憑藉自身雄厚財力扶持AI相關企業與專案，以此推動各家企業採購、使用英偉達硬體。
+
+---
+
+### 2026-08-16 03:15:44  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+The Information reports NVIDIA (NVDA.O) is in talks to invest $3 bln in SB Energy as part of an OpenAI data-center deal.
+
+---
+
+### 2026-08-16 03:15:14  #其他
+
+英偉達正洽談向SB Energy投資30億美元，作為OpenAI資料中心交易的一部分。
+
+---
+
+### 2026-08-16 03:07:31  #國際
+
+卡達外交部發言人：外交斡旋仍在推進之際，有關伊朗飛行員的誤導性言論令我方感到意外。
+
+---
+
+### 2026-08-16 03:04:07  #MKT News
+
+Al Arabiya TV quoted Marib local authorities saying an attack injured people and damaged civilians' homes, vehicles and other property.
+
+---
+
+### 2026-08-16 03:03:35  #MKT News
+
+Al Arabiya reported Marib, Yemen local authorities said Houthi forces fired four ballistic missiles and four drones at residential areas.
+
+---
+
+### 2026-08-16 02:46:12  #央行 #國際
+
+伊朗央行：由於美國與以色列的敵對軍事及網路行動，某境外服務商撤銷了部分網站的安全證書，導致使用者端出現 SSL 安全警告。自身基礎設施未遭到網路攻擊。
+
+---
+
+### 2026-08-16 02:45:05  #MKT News
+
+Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period.
+
+---
+
+### 2026-08-16 02:44:49  #MKT News
+
+Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded.
+
+---
+
+### 2026-08-16 02:43:13  #國際
+
+美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。
+
+---
+
+### 2026-08-16 02:42:49  #國際
+
+卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。
+
+---
+
+### 2026-08-16 02:42:43  #國際
+
+卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。
+
+---
+
+### 2026-08-16 02:42:40  #MKT News
+
+Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation.
+
+---
+
+### 2026-08-16 02:42:19  #MKT News
+
+Qatar's Foreign Ministry said it took necessary measures to defend its territory after an Iranian pilot violated Qatari airspace.
 
 ---
 
@@ -18678,77 +18762,5 @@ SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer 
 ### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
-
----
-
-### 2026-08-14 08:51:59  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization.
-
----
-
-### 2026-08-14 08:51:52  #其他
-
-中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。
-
----
-
-### 2026-08-14 08:51:22  #MKT News
-
-SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2.
-
----
-
-### 2026-08-14 08:50:58  #市場 #國際
-
-5年期日本國債收益率下跌1.5個基點，至2.105%。
-
----
-
-### 2026-08-14 08:50:12  #其他
-
-中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。
-
----
-
-### 2026-08-14 08:49:59  #公司
-
-中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。
-
----
-
-### 2026-08-14 08:49:27  #MKT News
-
-Spot silver slid to $64/oz, down 0.74% intraday.
-
----
-
-### 2026-08-14 08:49:08  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,330/oz, down 0.48% on the day.
-
----
-
-### 2026-08-14 08:48:55  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌0.78%。
-
----
-
-### 2026-08-14 08:48:54  #市場
-
-紐約期銀日內跌1%，現報64.33美元/盎司。
-
----
-
-### 2026-08-14 08:48:07  #MKT News
-
-Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; Melinda Cilento has been appointed to the RBA MPC for a five-year term beginning Sept. 1.
-
----
-
-### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
-
-【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
 
 ---

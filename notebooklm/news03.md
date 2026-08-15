@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 02:42:29_
-_本檔包含 3105 則快訊，約 604180 字_
+_更新時間：2026-08-16 03:27:56_
+_本檔包含 3092 則快訊，約 604276 字_
+
+---
+
+### 2026-08-13 07:27:22  #其他
+
+巴西參議院透過燃油法案基礎文字。據報道，該法案基礎文字以 61 票贊成、2 票反對獲得透過。
+
+---
+
+### 2026-08-13 07:27:10  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Slips After Six-Day Advance — Brent fell toward $88 per barrel on Thursday, snapping a six-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
+
+---
+
+### 2026-08-13 07:25:44  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Slips After Five-Day Advance — Crude oil fell below $83 per barrel on Thursday, snapping a five-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
 
 ---
 
@@ -18683,101 +18701,5 @@ EIA Short-Term Energy Outlook projects 2027 US crude oil production at 14.15 mln
 ### 2026-08-12 00:05:40  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
 
 EIA Short-Term Energy Outlook projects U.S. crude oil demand growth of 20,000 b/d in 2026, down from a prior estimate of 90,000 b/d.
-
----
-
-### 2026-08-12 00:05:33  #MKT News #Important
-
-EIA Short-Term Energy Outlook projects U.S. dry natural gas production at 116.0 Bcf/d in 2027, revised up from a prior forecast of 115.3 Bcf/d.
-
----
-
-### 2026-08-12 00:05:24  #MKT News #Important #WTI
-
-EIA Short-Term Energy Outlook projects U.S. crude oil consumption in 2027 at 20.80 mln b/d, up from a prior forecast of 20.79 mln b/d.
-
----
-
-### 2026-08-12 00:04:55  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. EIA August Short-Term Energy Outlook forecasts U.S. crude production next year at 14.15 mln b/d, versus prior 14.03 mln b/d.
-
----
-
-### 2026-08-12 00:04:49  #MKT News #Commodities #Energy #WTI
-
-EIA August Short-Term Energy Outlook projects US crude oil production this year at 13.80 mln b/d, vs 13.78 mln b/d previously.
-
----
-
-### 2026-08-12 00:04:48  #MKT News #Economic Calendar
-
-United States | EIA US Crude Oil Production Estimate (Next Year) (Aug) | actual 14150000M | previous 14030000M
-
----
-
-### 2026-08-12 00:04:40  #其他
-
-利比亞扎維亞煉油廠：煉油廠倉庫內發生的爆炸系無人機襲擊所致。
-
----
-
-### 2026-08-12 00:04:40  #MKT News #Economic Calendar
-
-United States | EIA US Crude Oil Production Estimate (Current Year) (Aug) | actual 13800000M | previous 13780000M
-
----
-
-### 2026-08-12 00:04:32  #MKT News #Commodities #Energy
-
-US EIA August forecast for next-year natural gas production 116.0 Bcf/d; prior 115.3 Bcf/d.
-
----
-
-### 2026-08-12 00:04:22  #MKT News #Commodities #Energy
-
-EIA August forecast for U.S. natural gas production this year: 111.2 bcf/d, unchanged from prior (111.2 bcf/d).
-
----
-
-### 2026-08-12 00:04:19  #MKT News #Economic Calendar
-
-United States | EIA US Natural Gas Production Estimate (Next Year) (Aug) | actual 116000000000B | previous 115300000000B
-
----
-
-### 2026-08-12 00:04:13  #國際
-
-美國能源資訊署（EIA）表示，美國天然氣庫存將在冬季需求高峰來臨前升至十年高位。
-
----
-
-### 2026-08-12 00:04:11  #MKT News #Economic Calendar
-
-United States | EIA US Natural Gas Production Estimate (Current Year) (Aug) | actual 111200000000B | previous 111200000000B
-
----
-
-### 2026-08-12 00:03:45  #國際
-
-【伊朗高階官員：美必須接受伊方條件換取霍爾木茲海峽開放】當地時間11日，伊朗最高國家安全委員會秘書雷扎伊表示，美國是霍爾木茲海峽、波斯灣和阿曼灣不安全的根源，美國對伊朗發動非法戰爭，危及整個地區。“除非美國改變其行為並接受伊朗的條件，否則霍爾木茲海峽不會開放。”他表示，美國必須結束戰爭，支付伊朗被凍結的資金，此外美國還需滿足透過中間人傳達給他們的其他條件。他指出，如果伊朗和阿曼就霍爾木茲海峽的通行路線達成協議，該協議“將與霍爾木茲海峽的封鎖問題分開處理”。（央視新聞）
-
----
-
-### 2026-08-12 00:03:32  #國際
-
-美國能源資訊署（EIA）預計，2026年美國石油產量將達到1380萬桶/日，此前預測為1378萬桶/日；預計2027年石油產量為1415萬桶/日，此前預測為1403萬桶/日。
-
----
-
-### 2026-08-12 00:03:23  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-US EIA August forecast: average Brent crude price for the year $86.81/bbl, prior $81.91/bbl.
-
----
-
-### 2026-08-12 00:03:21  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-【EIA raises 2026-27 WTI and Brent price forecasts】EIA Short-Term Energy Outlook: 2026 WTI $80.88/bbl (prior $76.26); 2027 WTI $65.39/bbl (prior $60.76). 2026 Brent $86.81/bbl (prior $81.91); 2027 Brent $69.39/bbl (prior $64.76).
 
 ---

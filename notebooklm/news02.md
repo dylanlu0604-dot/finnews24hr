@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 02:42:29_
-_本檔包含 3106 則快訊，約 604462 字_
+_更新時間：2026-08-16 03:27:56_
+_本檔包含 3115 則快訊，約 603533 字_
+
+---
+
+### 2026-08-14 08:51:59  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization.
+
+---
+
+### 2026-08-14 08:51:52  #其他
+
+中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。
+
+---
+
+### 2026-08-14 08:51:22  #MKT News
+
+SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2.
+
+---
+
+### 2026-08-14 08:50:58  #市場 #國際
+
+5年期日本國債收益率下跌1.5個基點，至2.105%。
+
+---
+
+### 2026-08-14 08:50:12  #其他
+
+中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。
+
+---
+
+### 2026-08-14 08:49:59  #公司
+
+中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。
+
+---
+
+### 2026-08-14 08:49:27  #MKT News
+
+Spot silver slid to $64/oz, down 0.74% intraday.
+
+---
+
+### 2026-08-14 08:49:08  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,330/oz, down 0.48% on the day.
+
+---
+
+### 2026-08-14 08:48:55  #市場 #焦點
+
+紐約期金失守4390美元/盎司，日內跌0.78%。
+
+---
+
+### 2026-08-14 08:48:54  #市場
+
+紐約期銀日內跌1%，現報64.33美元/盎司。
+
+---
+
+### 2026-08-14 08:48:07  #MKT News
+
+Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; Melinda Cilento has been appointed to the RBA MPC for a five-year term beginning Sept. 1.
+
+---
+
+### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
+
+【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
 
 ---
 
@@ -18688,23 +18760,5 @@ Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year i
 ### 2026-08-13 07:32:31  #公司
 
 新秀麗國際將以1.785億美元現金收購Beis公司85%的股份。
-
----
-
-### 2026-08-13 07:27:22  #其他
-
-巴西參議院透過燃油法案基礎文字。據報道，該法案基礎文字以 61 票贊成、2 票反對獲得透過。
-
----
-
-### 2026-08-13 07:27:10  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Slips After Six-Day Advance — Brent fell toward $88 per barrel on Thursday, snapping a six-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
-
----
-
-### 2026-08-13 07:25:44  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Slips After Five-Day Advance — Crude oil fell below $83 per barrel on Thursday, snapping a five-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
 
 ---

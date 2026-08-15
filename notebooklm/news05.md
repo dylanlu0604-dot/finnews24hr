@@ -1,7 +1,88 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 02:42:29_
-_本檔包含 2749 則快訊，約 604041 字_
+_更新時間：2026-08-16 03:27:56_
+_本檔包含 2749 則快訊，約 604249 字_
+
+---
+
+### 2026-08-10 20:15:04  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
+
+Amazon says Novo Nordisk has selected AWS as its cloud partner.
+
+---
+
+### 2026-08-10 20:15:01  #國際
+
+埃及總統府：塞西批准由納稅人出資、從其未來納稅義務中抵扣的稅收伊斯蘭債券發行提案。
+
+---
+
+### 2026-08-10 20:14:48  #公司
+
+亞馬遜公司：諾和諾德選定 AWS 作為合作伙伴。
+
+---
+
+### 2026-08-10 20:14:37  #Trading Economics #Economy #Romania #Interest Rate #Importance 1
+
+Romania Holds Interest Rate as Expected — The National Bank of Romania kept its key policy rate unchanged at 6.5% in August 2026, as widely expected. Annual inflation slowed to 10.42% in June, in line with the central bank’s forecast, mainly due to a sharp decline in LFO and fuel prices, partly offset by higher natural gas and electricity costs. Meanwhile, economic activity contracted 1.2% in Q1, following 0.2% growth in the previous quarter, reflecting weaker household spending and a negative contribution from changes in inventories. The NBR expects activity to recover slightly in Q2 and Q3, amid mixed developments across domestic demand components and economic sectors. Inflation is projected to fall sharply following the removal of the electricity price cap and increases in VAT and excise duties. After some volatility in Q4 2026, inflation is expected to resume a gradual decline, returning to the target range by end-2027.
+
+---
+
+### 2026-08-10 20:14:31  #國際
+
+來自烏克蘭方面報道：俄羅斯襲擊了尼科波爾，造成一人死亡。俄方襲擊一處居民區，三人受傷。
+
+---
+
+### 2026-08-10 20:13:57  #公司 #市場
+
+ARCHER股票盤前上漲18.2%，此前該公司宣佈將收購波音旗下的威斯克航空、因西圖與Skygrid三家子公司；波音將對ARCHER進行投資並開展合作。
+
+---
+
+### 2026-08-10 20:13:25  #國際
+
+伊朗總統：與最高領袖的會議持續了7-8小時。
+
+---
+
+### 2026-08-10 20:13:17  #公司
+
+ARCHER：波音將在交易完成後立即任命波音指定人員進入該公司董事會。
+
+---
+
+### 2026-08-10 20:12:35  #公司 #市場 #國際
+
+【美股盤前要聞速遞】
+①美股盤前，美股三大股指期貨漲跌不一，道指期貨跌0.07%，標普500指數期貨漲0.06%，納指期貨漲0.10%。
+②德國DAX指數漲0.34%，英國富時100指數跌0.16%，法國CAC40指數漲0.16%，歐洲斯托克50指數漲0.51%。
+③WTI原油漲1.66%，報79.48美元/桶。布倫特原油漲1.69%，報84.96美元/桶。
+④本週伊始，美國國債收益率小幅走低。投資者將迎來密集經濟資料周，市場焦點集中在等待7 月核心通脹資料。
+⑤暢銷書作家羅伯特・清崎稱，美國或將瀕臨“大蕭條”，大量配置股票的美國退休賬戶持有者，將極易遭遇市場暴跌衝擊。
+⑥美國參議院多數黨領袖宣佈，在8月休會前不會對《數字資產市場清晰法案》舉行程式性投票，這使得該法案今年內成為法律的可能性進一步降低。
+⑦Meta盤前股價上漲 2.9%，此前該公司釋出可單卡執行的輕量AI模型Muse Glimmer。
+⑧巴里克黃金礦業在美上市股價盤前下跌5%，因該公司第二季度利潤不及預期。
+⑨SIONNA Therapeutics 公佈主要終點更新資料後，盤前股價暴跌 87%。
+
+---
+
+### 2026-08-10 20:12:16  #其他 #焦點
+
+美元兌日元USD/JPY一度下挫約40點，最低至158.41，現回升至158.67。
+
+---
+
+### 2026-08-10 20:12:15  #MKT News #Important #Market Regions #Japan & APAC #USDJPY
+
+USD/JPY briefly fell about 40 pips to a low of 158.41, now trading at 158.67.
+
+---
+
+### 2026-08-10 20:11:55  #MKT News #Market Regions #Greater China
+
+【Multiple 'Sorry' ransomware attacks detected in China】The National Computer Virus Emergency Response Center and the National Engineering Laboratory for Computer Virus Prevention and Control, via the national computer virus collaborative analysis platform (https://virus.cverc.org.cn), have detected multiple 'Sorry' ransomware incidents in China. Victims' important files are encrypted and renamed with a .sorry suffix; attackers leave ransom notes demanding victims download an encrypted communication tool to contact them.
 
 ---
 
@@ -16524,77 +16605,5 @@ Iraqi authorities announced they dismantled an armed network plotting drone atta
 ### 2026-08-09 03:30:34  #MKT News
 
 USGS reported a magnitude-4.7 earthquake in the Kermadec Islands region with a focal depth of 10 km.
-
----
-
-### 2026-08-09 03:10:36  #MKT News
-
-Saudi Arabia reiterated firm support for the legitimate Yemeni government.
-
----
-
-### 2026-08-09 03:10:28  #MKT News #Market Regions #Europe & UK
-
-【Ukraine says it did not intentionally fire any equipment toward Bulgaria】A Ukrainian foreign ministry spokesman said on the 8th Kyiv is in close contact with Bulgarian authorities to determine the circumstances of a drone that crashed in Bulgaria and that Ukraine did not deliberately launch any equipment toward Bulgaria. He said Kyiv is verifying facts and technical details and is willing to cooperate with Bulgarian authorities to clarify the incident.
-
----
-
-### 2026-08-09 03:09:50  #國際
-
-【烏外交部：烏無意向保加利亞方向發射任何裝備】烏克蘭外交部發言人季希8日表示，烏克蘭方面正與保加利亞保持密切聯絡，以查明當天一架無人機在保加利亞墜落的具體情況。他強調，烏軍沒有蓄意向保加利亞方向發射任何裝備。季希說，烏方正在核實事件的全部情況和相關技術事實，並願與保加利亞方面開展合作，以查明事件細節。
-
----
-
-### 2026-08-09 03:08:19  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Saudi Arabia urged the international community to take a firm stance against threats to shipping and the security of international trade.
-
----
-
-### 2026-08-09 03:01:04  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Yemen's government armed forces said they will respond to Houthi attacks at an appropriate time and place.
-
----
-
-### 2026-08-09 03:00:58  #MKT News
-
-Yemen's government armed forces said Houthi forces again used ballistic missiles to strike Marib city, surrounding areas and refugee camps.
-
----
-
-### 2026-08-09 02:59:11  #其他
-
-葉門政府武裝部隊：胡塞武裝再度使用彈道導彈襲擊馬裡卜市、周邊區域以及難民營。
-
----
-
-### 2026-08-09 02:56:36  #MKT News
-
-CENTCOM said as of Aug. 8 it had intercepted and forced 53 commercial vessels to alter course, with 2 disabled and 2 boarded for inspection. U.S. forces allowed nearly 35 vessels to pass a blockade line for humanitarian relief.
-
----
-
-### 2026-08-09 02:56:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said the US Navy conducted maintenance on an F/A-18E Super Hornet on the flight deck of the aircraft carrier USS Abraham Lincoln (CVN-72) to keep carrier strike group assets mission‑ready while enforcing a US maritime blockade of Iran.
-
----
-
-### 2026-08-09 02:54:12  #國際
-
-特朗普：不要再搞虛假的伊朗協議。拿下哈格島，奪取石油，徹底結束戰事！
-
----
-
-### 2026-08-09 02:52:13  #其他
-
-美軍中央司令部：截至8月8日，美軍中央司令部已迫使53艘商船改道、癱瘓2艘船隻、登船檢查2艘。美軍同時准許近35艘船隻攜帶人道主義援助物資穿越封鎖區域。
-
----
-
-### 2026-08-09 02:42:31  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament.
 
 ---
