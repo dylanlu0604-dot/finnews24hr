@@ -1,7 +1,31 @@
 {
   "date": "2026-08-15",
-  "count": 756,
+  "count": 759,
   "items": [
+    {
+      "id": "mkt:01a005ac-241b-7aab-9049-6abb428df67d",
+      "time": "2026-08-15 21:46:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigational warning: military training in South China Sea】China Maritime Safety Administration website shows Jiangmen Maritime Safety Administration issued a navigational warning: Aug 16–17, daily 00:00–12:00, parts of the South China Sea will conduct military training; entry is prohibited."
+    },
+    {
+      "id": "5042355",
+      "time": "2026-08-15 21:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，8月16日至17日，每天0時至12時，南海部分海域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "5042354",
+      "time": "2026-08-15 21:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部：以色列對安薩爾和代爾扎赫拉尼兩鎮的襲擊造成11人死亡，19人受傷。"
+    },
     {
       "id": "5042352",
       "time": "2026-08-15 21:36:03",
