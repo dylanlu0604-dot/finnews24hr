@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 505,
+  "count": 508,
   "items": [
+    {
+      "id": "mkt:01a00375-7421-7aab-9047-3cb48c19b326",
+      "time": "2026-08-15 11:27:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said Qatar and Pakistan are exchanging information with Iran but are not engaged in negotiations; separate talks with Oman focus on shipping routes in the Strait of Hormuz."
+    },
+    {
+      "id": "5042146",
+      "time": "2026-08-15 11:26:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長表示，伊朗與阿曼的會談是單獨舉行的，會談核心聚焦霍爾木茲海峽航道問題。"
+    },
+    {
+      "id": "5042145",
+      "time": "2026-08-15 11:25:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長表示，卡達和巴基斯坦正在與德黑蘭互傳資訊，但這並非談判。"
+    },
     {
       "id": "mkt:01a0036f-d23e-7aab-9047-376b7b34083b",
       "time": "2026-08-15 11:20:54",
