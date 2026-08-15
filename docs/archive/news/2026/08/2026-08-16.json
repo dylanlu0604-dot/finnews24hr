@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 132,
+  "count": 133,
   "items": [
+    {
+      "id": "5042475",
+      "time": "2026-08-16 07:40:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昇騰0Day適配小紅書最新開源大模型dots3-note preview】2026年8月14日，小紅書正式釋出dots3-note preview開源大模型。昇騰Atlas 800 A3、Atlas 900 A3 SuperPoD超節點已完成 dots3-note preview的全量適配，基於vLLM Ascend開源推理引擎提供完整的部署與推理能力，效能持續迭代最佳化。"
+    },
     {
       "id": "5042473",
       "time": "2026-08-16 07:37:23",
