@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 727,
+  "count": 730,
   "items": [
+    {
+      "id": "mkt:01a0056a-4197-7aab-9049-1ae685d63805",
+      "time": "2026-08-15 20:34:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Henan seals 117m breach on Jialu River east‑bank levee in Zhoukou】Emergency teams working day and night sealed a 117‑meter breach on the east‑bank levee of the Jialu River in Chuanhui District, Zhoukou, Henan at 20:29 on Aug. 15."
+    },
+    {
+      "id": "5042324",
+      "time": "2026-08-15 20:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印尼ENDE西北 78 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "5042323",
+      "time": "2026-08-15 20:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南周口川匯區賈魯河東岸堤防潰口成功合龍】記者瞭解到，經過多方應急搶險力量晝夜不停努力，8月15日晚上8時29分，河南省周口市川匯區賈魯河東岸堤防117米潰口成功合龍。（央視新聞）"
+    },
     {
       "id": "5042320",
       "time": "2026-08-15 20:18:31",
