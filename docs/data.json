@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-15 08:22:57",
-  "count": 15280,
+  "updated": "2026-08-15 08:26:54",
+  "count": 15279,
   "items": [
+    {
+      "id": "5042067",
+      "time": "2026-08-15 08:25:11",
+      "tags": [],
+      "text": "【Anthropic二季度營收達逾115億美元 同比實現14倍暴漲】據業內人士看到的檔案顯示，Anthropic PBC在向潛在投資者推介時透露，公司第二季度的營業收入較去年同期實現了約14倍的巨幅增長。檔案顯示，這家Claude聊天機器人開發商在最新結束的季度中報告的初步營收超過115億美元。作為對比，其在2025年同期的營收僅為7.87億美元，而今年第一季度則為47.3 億美元。此外，檔案還顯示，Anthropic在2026年第二季度的調整後營業利潤為正。"
+    },
+    {
+      "id": "5042066",
+      "time": "2026-08-15 08:24:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼7.7級地震現場畫面：震中附近地區出現建築物損毀坍塌等情況，目前暫無人員傷亡報告。(CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a002ca-1b0b-7aab-9046-bc5a6bdf917a",
       "time": "2026-08-15 08:19:54",
@@ -139897,36 +139911,6 @@
         "國際"
       ],
       "text": "【美國稱烏克蘭應避免以油輪和黑海油田為攻擊目標】據一位美國官員稱，烏克蘭已同意不以一些非俄羅斯油輪和對哈薩克原油出口至關重要的黑海基礎設施為目標。一位要求匿名的美國官員表示，烏克蘭已設立聯絡點，以便商業貨運商能夠交流資訊並確保安全通行。在美國高階政府領導人與烏克蘭領導人會晤後做出的這項承諾，標誌著在增加該地區石油流量方面可能邁出了重要一步。此前，俄羅斯新羅西斯克裡海管道聯盟碼頭附近發生了一系列針對船隻的襲擊事件，導致該地區的石油活動降溫。"
-    },
-    {
-      "id": "5031737",
-      "time": "2026-08-08 08:26:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國稱烏克蘭應避免襲擊油輪和黑海油田，襲擊船隻擾亂了俄羅斯主要碼頭的活動，而該碼頭對哈薩克原油出口至關重要。"
-    },
-    {
-      "id": "mkt:019fdec1-197d-7aab-8fc1-d4e4f322bbf5",
-      "time": "2026-08-08 08:23:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lebanon-Israel talks in Rome make progress on border, detainee releases】The Lebanese presidential office said on the 7th that Lebanon and Israel's recent talks in Rome made progress on border delimitation and the release of detained individuals. Citing President Aoun at a cabinet meeting, the statement said the round addressed ceasefire arrangements, border issues, detainee release and troop withdrawals from \"pilot areas.\" Parties achieved \"positive progress\" on border matters and detainee releases, with related measures expected shortly. Remaining issues include a ceasefire and the \"pilot areas.\""
-    },
-    {
-      "id": "mkt:019fdec0-681b-7aab-8fc1-c9640f872a9e",
-      "time": "2026-08-08 08:22:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Witnesses reported multiple loud explosions in Kyiv, Ukraine's capital."
     }
   ]
 }
