@@ -1,7 +1,33 @@
 {
   "date": "2026-08-15",
-  "count": 559,
+  "count": 562,
   "items": [
+    {
+      "id": "5042190",
+      "time": "2026-08-15 13:54:54",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "英國海事貿易行動辦公室（UKMTO）稱，週五收到報告稱，一艘散貨船在霍爾木茲海峽被不明拋射物擊中，船員報告安全，目前尚無船舶受損報告，環境影響尚不明確。"
+    },
+    {
+      "id": "5042187",
+      "time": "2026-08-15 13:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "受印尼地震影響，飛往東努沙登加拉省的多趟境內航班被取消。（新華社）"
+    },
+    {
+      "id": "mkt:01a003fa-18f1-7aab-9047-99e0c7d2a4ad",
+      "time": "2026-08-15 13:51:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesian foreign ministry consular department: no foreign casualties reported after quake】On Aug 15 the Consular Affairs Department of the Indonesian Ministry of Foreign Affairs said no foreign casualties have been reported following a 7.7 magnitude earthquake at 04:58:24 local time off Nagekeo regency, East Nusa Tenggara (NTT). The epicenter was about 38 km northeast of Mbay at a depth of 15 km. The quake briefly carried a tsunami risk and prompted coastal evacuations. The Indonesian Meteorology, Climatology and Geophysics Agency (BMKG) said that as of 11:00 Central Indonesia Time (WITA) 111 aftershocks had been recorded, the latest magnitude 3.8, and seismic activity is continuing. The tsunami warning was lifted at 07:31. Remaining risks are aftershocks and damage to buildings."
+    },
     {
       "id": "5042186",
       "time": "2026-08-15 13:51:19",
