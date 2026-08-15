@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 18:32:21_
-_本檔包含 2751 則快訊，約 605599 字_
+_更新時間：2026-08-15 18:54:02_
+_本檔包含 2752 則快訊，約 605344 字_
+
+---
+
+### 2026-08-10 19:03:54  #MKT News
+
+Huatai-PineBridge China-Korea Semiconductor ETF will be suspended from market open on Aug 11, 2026 until 10:30.
+
+---
+
+### 2026-08-10 19:03:36  #宏觀
+
+【北京市場監管部門調查處置潘家園太陽鏡銷售亂象】8月9日，總檯央視《每週質量報告》欄目播出《別讓太陽鏡變“傷眼鏡”》專題報道後，北京市朝陽區市場監管局第一時間部署開展專項執法檢查，對轄區多個眼鏡集中銷售場所開展專項執法檢查。針對報道中反映的涉嫌銷售不合格產品、“三無”產品的商戶，經現場核查，執法人員已對涉嫌不合格產品依法實施暫扣。目前，案件後續核查處置工作正在有序開展。（央視新聞）
+
+---
+
+### 2026-08-10 19:02:28  #公司
+
+【幸福藍海：開展上市十週年股東回饋活動 免費送觀影券】幸福藍海公告稱，為感謝股東支援，公司將開展上市十週年股東回饋活動。截至2026年8月7日收市，持有公司股份500股（含）以上的股東可參與。股東按持股數量分檔免費領電子觀影券，500股（含）-10000股（不含）領3張、10000股（含）-100000股（不含）領6張、100000股（含）以上領10張。申領登記時間為8月18日10:00至8月28日24:00，觀影券有效期至11月30日。
+
+---
+
+### 2026-08-10 19:02:07  #公司
+
+【山推股份：擬設四家境外子公司，山推香港出資500萬雷亞爾】山推股份公告，為開拓海外市場，公司全資子公司山推（香港）控股有限公司擬出資500萬雷亞爾（約99萬美元）、3200萬里拉（約70萬美元）、130億越南盾（約50萬美元），分別在巴西、土耳其、越南設立全資附屬公司；山推香港聯合山推烏茲共同出資3.68億堅戈（約80萬美元）在哈薩克設立全資附屬公司。該事項已於2026年8月10日經董事會審議透過，無需提交股東會審議。
+
+---
+
+### 2026-08-10 19:02:02  #市場 #國際
+
+烏克蘭7月消費者價格指數同比上漲7.7%；此前預期上漲7.3%。
+
+---
+
+### 2026-08-10 19:01:52  #其他
+
+Cloudflare 擬私募發行 21.75 億美元可轉換票據。
+
+---
+
+### 2026-08-10 19:01:47  #央行 #國際
+
+日本經濟財政大臣城內實：籌集5日元用於消費稅減免並不難。部分減稅資金將來自支出修訂。不預計日元貶值會持續。增加投資將對日元產生積極影響。政府立場未變，尊重日本央行的獨立性。日本央行在政策方面表現良好。
+
+---
+
+### 2026-08-10 19:01:21  #MKT News #USDJPY #Impact bullish
+
+Kiuchi, Japan's minister of economy and finance, said the Bank of Japan has performed well on policy.
+
+---
+
+### 2026-08-10 19:01:18  #MKT News
+
+Japan's economic and fiscal minister Kiuchi said the government's position is unchanged and that it respects the Bank of Japan's independence.
+
+---
+
+### 2026-08-10 19:01:09  #公司 #市場 #國際
+
+【海灣開發商重金冠名 特朗普海外品牌授權業務營收飆升至5950萬美元】特朗普重返白宮首年，旗下海外地產品牌授權業務迎來爆發式增長。2025年該板塊創收5950萬美元，多國海外開發商斥重金取得授權，將特朗普品牌冠名當地高階住宅樓、高爾夫球場與濱海度假專案。 據媒體梳理特朗普年度財務申報檔案分析，全球各地物業使用特朗普品牌名稱產生的海外授權收入，較2024年大漲71%，規模近乎2023年的十倍。業績暴漲的核心原因在於特朗普集團推翻了其首個任期內“不再簽署任何海外新合作”的承諾。 特朗普集團第二任期道德準則規定，禁止與外國政府開展重大新增交易，但允許同境外私營企業合作。 四家未列入其2024年申報清單、隸屬於特朗普品牌授權業務的有限責任公司，2025年創收2025萬美元，貢獻了本次營收增量的82%；另外五家此前標註為停業狀態的授權子公司，再度入賬964萬美元。
+
+---
+
+### 2026-08-10 19:01:09  #MKT News #USDJPY #Impact bearish #DXY
+
+Japan's economic and fiscal minister Kiuchi said increased investment would be positive for the yen.
+
+---
+
+### 2026-08-10 19:01:05  #市場
+
+巴西 IPC‑S 物價指數在截至 8 月 7 日的統計週期內下跌 0.05%。
+
+---
+
+### 2026-08-10 19:00:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's minister of economy and finance Kiuchi said he does not expect the yen's depreciation to persist.
+
+---
+
+### 2026-08-10 19:00:54  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY
+
+Japan's Minister for Economic and Fiscal Policy Kiuchi said part of the funding for tax cuts will come from revisions to spending.
+
+---
+
+### 2026-08-10 19:00:47  #MKT News #Market Regions #Japan & APAC
+
+Japan's economic and fiscal policy minister KIUCHI said raising 5 yen to fund a consumption tax cut is not difficult.
+
+---
+
+### 2026-08-10 19:00:41  #公司
+
+【威高血淨：發行股份購普瑞醫藥100%股權獲上交所稽核透過】威高血淨公告稱，公司擬透過發行股份購買山東威高普瑞醫藥包裝有限公司100%股權。8月10日，上交所重組委審議會議結果顯示，本次交易符合重組條件和資訊披露要求。不過，本次交易尚需經中國證監會同意註冊後方可實施，能否取得註冊及時間均不確定，公司將及時披露進展，提醒投資者注意風險。
+
+---
+
+### 2026-08-10 19:00:28  #公司 #國際
+
+【烏無人機襲俄石化重鎮13死39傷】俄羅斯韃靼斯坦共和國石化重鎮下卡姆斯克市的市長今天（8月10日）稱，烏克蘭對該市的工業和民用目標實施了無人機襲擊，造成包括一名兒童在內的13人死亡，39人受傷。 烏克蘭軍方表示，韃靼斯坦共和國“韃靼石油公司”旗下的坦科煉油廠被擊中。據悉，這家煉油廠是俄羅斯最大、最現代化的煉油廠之一。該廠2024年加工了1700萬噸原油，生產了270萬噸汽油和850萬噸柴油。該煉油廠今年6月初也曾遭到烏克蘭襲擊。 下卡姆斯克位於卡馬河沿岸，深入俄羅斯境內逾600英里、約合966公里，是該地區重要的石油化工中心。俄羅斯聯邦偵查委員會通報稱，已將此事件定性為“恐怖襲擊”，並刑事立案。（CCTV國際時訊）
+
+---
+
+### 2026-08-10 19:00:03  #其他
+
+杜克能源將以每股 50 美元的價格發售 3500 萬份股權單位。
+
+---
+
+### 2026-08-10 18:59:39  #其他
+
+英特爾：提交暫擱註冊申請，未披露規模。
+
+---
+
+### 2026-08-10 18:59:22  #公司
+
+【飛豬執行長莊卓然：飛豬正圍繞“3個E”（ Experience、Ecosystem、Enterprise）展開AI佈局】今日飛豬宣佈推出飛豬幫幫，全面升級其面向消費者的AI服務能力。釋出會上，莊卓然表示，飛豬正圍繞“3個E”（AI for Experience，AI for Ecosystem，AI for Enterprise）展開AI佈局，即利用AI提升使用者體驗、繁榮旅行生態、重塑組織形態，這“3個E”相輔相成。“飛豬幫幫”是“AI for Experience”中的新一步。據飛豬技術人員現場介紹，飛豬幫幫依然採用Multi-Agent架構，但較上一代旅行AI具有更強的通用性，這讓它承接新場景的表現更好、接入新能力的效率更高，模型越強、用量越省，誤差積累也更少。它的記憶力也更強大，還能讀懂使用者在長期使用飛豬時形成的習慣，提供個性化程度更高的服務。飛豬資料顯示，截至目前飛豬幫幫交付的結果可用率評分較上一代產品提升了超70%，可比任務的平均耗時減少近10%。據瞭解，飛豬的生產效率也得益於AI而迅速提升。仍以飛豬幫幫為例，在3個月的核心開發週期內，累計上線了148個複雜需求，其中AI生成的程式碼佔比已超85%。（新浪科技）
 
 ---
 
@@ -16495,119 +16615,5 @@ Iran's foreign minister Araghchi said the Strait of Hormuz's existing traffic se
 ### 2026-08-08 18:54:18  #其他
 
 【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局今天18時聯合釋出紅色山洪災害氣象預警：預計8月8日20時至8月9日20時，浙江東部等地部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警），其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）
-
----
-
-### 2026-08-08 18:53:34  #其他
-
-新加坡總理：新加坡將繼續加強能源安全。
-
----
-
-### 2026-08-08 18:53:07  #公司
-
-【網易前員工私自獲取《夢幻西遊》171個長期未登入的賬號許可權，4年獲利173萬元，獲刑3年】8月8日晚間訊息 近日，網易互娛前員工監守自盜案被中國裁判文書網披露。判決書顯示，劉某甲1990年出生，本科學歷，2013年入職廣州某遊戲公司，任職客戶服務交付部賬戶管理組稽核主管，手握賬戶修復、許可權核驗的後臺操作資格。最終，法院以非法獲取計算機資訊系統資料罪，依法對被告人劉某甲判處有期徒刑3年，緩刑3年，並處罰金人民幣2萬元（緩刑考驗期限從判決確定之日起計算；罰金應自本判決發生法律效力第二日起十日內向本院繳納）。（新浪科技）
-
----
-
-### 2026-08-08 18:51:56  #其他
-
-新加坡z總理：新加坡正在進行重大改革以支援家庭。
-
----
-
-### 2026-08-08 18:51:20  #MKT News #Market Regions #Greater China
-
-【China's 2026 box office tops 24.0 bln yuan】Online ticketing platform data show China's 2026 cumulative box office, including presales, has exceeded 24.0 bln yuan; the summer box office has surpassed 8.2 bln yuan.
-
----
-
-### 2026-08-08 18:49:45  #其他
-
-【農業農村部部署颱風“白海豚”防範應對工作】農業農村部日前就做好颱風“白海豚”防範應對工作作出部署，要求各地強化責任落實、監測預警、防範應對、災後恢復和指導服務，努力減輕災害影響，保障人民群眾生命財產安全。同時，會同中國氣象局滾動會商颱風趨勢及對農業生產影響，聯合釋出農田漬澇和風災預警資訊；根據《農業重大自然災害應急預案》規定，對上海、江蘇、浙江、安徽、福建、江西、山東7省（市）啟動農業防汛防颱應急響應，指導提前儲備種子720萬公斤，農藥、消毒藥1000多噸，農用水泵、烘乾機等救災機具2.5萬臺，搶收成熟作物、起撈水產品，加固種養設施，組織颱風影響區1059艘漁船回港、2.2萬人上岸。下一步，農業農村部將密切關注颱風動向，加密監測預警，加強風險隱患排查，及時排程雨情災情，落實農業安全生產措施，指導做好災後恢復生產。
-
----
-
-### 2026-08-08 18:48:33  #其他
-
-新加坡總理：新加坡的增長勢頭預計將持續。
-
----
-
-### 2026-08-08 18:48:13  #其他
-
-新加坡總理：新加坡受益於人工智慧的快速發展。
-
----
-
-### 2026-08-08 18:47:58  #其他
-
-【2026年度總票房破240億】據燈塔專業版資料，截至8月8日，2026年度大盤票房（含預售）突破240億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《鏢人：風起大漠》《八仙！》暫列年度票房前五名。
-
----
-
-### 2026-08-08 18:47:52  #其他
-
-新加坡總理表示，新加坡經濟始終具備韌性。
-
----
-
-### 2026-08-08 18:46:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-UAE foreign ministry said using the Strait of Hormuz as a tool for coercion or extortion constitutes piracy by the Islamic Revolutionary Guard Corps.
-
----
-
-### 2026-08-08 18:46:15  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #S&P500 #Impact bearish
-
-UAE Foreign Ministry said it strongly condemned Iran's attack on an Abu Dhabi National Oil Company (ADNOC) tanker.
-
----
-
-### 2026-08-08 18:44:29  #公司 #國際
-
-阿聯酋譴責伊朗襲擊阿布扎比國家石油公司油輪。
-
----
-
-### 2026-08-08 18:40:49  #MKT News #WTI #Impact mixed #Brent
-
-【Iran says talks with Oman unrelated to reopening of Strait of Hormuz】On the 8th, an IRGC spokesman said reopening the Strait of Hormuz is unrelated to talks with Oman and instead depends on whether the US fully accepts Iran’s conditions and stops interfering in regional negotiations. "Once the US accepts Iran's conditions, the strait will reopen," he said.
-
----
-
-### 2026-08-08 18:40:09  #其他
-
-【應急管理部針對安徽啟動國家地質災害四級應急響應】據氣象部門預測，受今年第13號颱風“白海豚”影響，未來三天，安徽部分地區有暴雨到大暴雨，局地特大暴雨。經與自然資源部聯合會商研判，安徽西部區域性地區發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於8月8日針對安徽啟動地質災害四級應急響應。（央視新聞）
-
----
-
-### 2026-08-08 18:39:43  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Turkey restricts commercial vessels from entering Black Sea over security concerns, sources say】Turkey is restricting commercial vessels from entering the Black Sea, sources said, citing a rise in attacks on ships by Russian and Ukrainian forces. The Turkish Coast Guard has told multiple vessels bound for Russia’s Novorossiysk, a major oil and grain export hub, that it will not issue transit permits for such voyages and that Dardanelles transit applications will face extended review. Sources said some ships were told the restriction also applies to voyages to Ukraine. Turkish authorities did not comment. The move could add new complexity to global trade and oil flows already disrupted by the Iran war and reduced traffic through the Strait of Hormuz.
-
----
-
-### 2026-08-08 18:38:45  #其他
-
-【新疆阿克蘇地區沙雅縣發生3.1級地震，震源深度25千米】中國地震臺網正式測定：08月08日18時27分在新疆阿克蘇地區沙雅縣（北緯39.62度，東經82.82度）發生3.1級地震，震源深度25千米。
-
----
-
-### 2026-08-08 18:35:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【Strait of Hormuz closure cuts Iraq oil exports ~75%】Iraq's oil minister, Bassim Mohammed Hudayyer, said on Aug 8 that closure of the Strait of Hormuz has reduced Iraq's oil exports by about 75%. Iraq is negotiating with Iran for permission to route its exports but coordination is not yet in effect. Before recent US–Israel–Iran clashes, Iraq shipped roughly 3.4 mln b/d via the Strait of Hormuz; flows via the strait have fallen since the outbreak. Hudayyer said Iraq needs to find solutions to diversify oil export routes.
-
----
-
-### 2026-08-08 18:35:05  #國際
-
-澤連斯基：烏克蘭與塞爾維亞力爭年底前達成自貿協定。
-
----
-
-### 2026-08-08 18:32:47  #焦點 #國際
-
-【伊朗媒體釋出伊朗最高領袖影片】伊朗邁赫爾通訊社8日在社交媒體釋出了一段關於伊朗最高領袖穆傑塔巴·哈梅內伊的影片。（新華社）
 
 ---

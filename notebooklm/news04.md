@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 18:32:21_
-_本檔包含 3241 則快訊，約 605625 字_
+_更新時間：2026-08-15 18:54:02_
+_本檔包含 3231 則快訊，約 605042 字_
+
+---
+
+### 2026-08-11 22:12:38  #其他
+
+【縱慧芯光高階光通訊晶片及器件研發製造基地落戶常州】8月11日上午，縱慧芯光高階光通訊晶片及器件研發製造基地簽約落戶常州。本次簽約專案持續投入總計約50億元，將重點建設磷化銦高階鐳射晶片研發及量產產線，助推國內光通訊核心晶片的國產化程序。（常州釋出）
+
+---
+
+### 2026-08-11 22:12:28  #其他
+
+【睫毛膠水問題曝光後，山東平度成立聯合調查組】平度市市場監督管理局辦公室主任張明法表示，針對8月7日總檯報道的假睫毛膠水產品質量問題，平度市第一時間成立聯合調查組，對涉事企業開展全面核查，重點核查產品配方備案、原料採購、生產工藝等情況，調查工作正在有序推進，目前已要求對存在風險隱患的膠水停止分裝、使用。平度市市場監督管理局表示，下一步將部署開展全行業專項整治，進一步規範睫毛製品生產經營行為。引導相關龍頭企業聯合行業協會、檢測機構，共同參與制定睫毛膠水相關團體標準或行業規範，推動這一產業向規範化、標準化發展。（澎湃）
+
+---
+
+### 2026-08-11 22:11:49  #其他
+
+巴西CNT/MDA 民調：盧拉政府支援率 35.3%，不支援率 36.2%。
+
+---
+
+### 2026-08-11 22:11:17  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Trump: We can deploy "powerful force" to strike Iran】U.S. President Trump said Iran's inflation is about 300% and its currency is worthless, that Iranians are not paying their soldiers' salaries and the U.S. "completely controls" Iran's funds. He said the U.S. can deploy "powerful force" against Iran and that there is no shortage of missile ammunition.
+
+---
+
+### 2026-08-11 22:10:45  #公司
+
+【廣汽旗下人形機器人公司慧侖科技完成億元融資】據廣汽集團訊息，近日，廣汽集團孵化的人形機器人公司廣東慧侖科技有限公司（簡稱“慧侖科技”）宣佈完成超億元融資，由中車國創基金、招銀國際、四川科創等機構聯合投資。慧侖科技本輪融資所得資金將投入垂類模型持續最佳化、汽車產線與綜合服務場景拓展、核心硬體產品迭代以及高階人才梯隊建設，全力推動人形機器人整機與核心零部件規模化商用。
+
+---
+
+### 2026-08-11 22:10:09  #國際
+
+俄羅斯1-7月預算赤字擴大至6.455萬億盧布。
+
+---
+
+### 2026-08-11 22:10:05  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK 10-Year Gilt Yield Falls Below 5% — The UK 10-year gilt yield fell to around 4.95% as renewed hopes for a deal to reopen the Strait of Hormuz pushed oil prices lower, easing concerns over inflation. Crude declined after Pakistan signaled that the US and Iran were “close to some sort of arrangement” aimed at reducing tensions and restoring shipping through the strategic waterway. The comments offered a more positive assessment after President Donald Trump had toughened his stance toward Tehran, demanding reparations for deaths linked to Iran and domestic protests. Meanwhile, the Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying the disinflation process remained on track despite external risks. Recent BRC data showed UK retail sales increased 1.3% year-on-year in July, below the 12-month average, suggesting subdued consumer activity, while Barclays data showed household spending rose 2%, its strongest growth of the year.
+
+---
+
+### 2026-08-11 22:10:03  #MKT News
+
+Eleven French nationals detained in Thailand on suspicion of drug trafficking.
+
+---
+
+### 2026-08-11 22:09:46  #公司
+
+【何小鵬談電池和自動駕駛新國標：確保不只有長板，更重要的是沒有短板】在小鵬G9L全球首秀暨預售釋出會後，小鵬集團董事長、CEO何小鵬與媒體對話。談及動力電池安全和自動駕駛安全兩個新國標，何小鵬表示，小鵬也是標準的參與者、制定者。以自動駕駛為例，小鵬和其它造車新勢力在2020年左右，就將高速的輔助駕駛帶到了中國，甚至能夠走向全球。現在也看到有越來越多的車廠都能夠把自動輔助駕駛當做一個標配，這是一個非常好的事情，因為不管是中國客戶還是全球客戶都有需求。他同時指出，有非常多的細節場景，很多車主朋友們不一定知道哪些是自動輔助駕駛能力強的，哪些是能力弱的，能力弱的時候該怎麼辦？這個時候就需要制定一個更全面體系的強制標準，這個標準要確保不光你有長板，更重要的是你沒有短板，還重要的是你能夠在整個體系規劃裡把中板補結實，這是我們一直在強標裡期望去做的事情。（新浪科技）
+
+---
+
+### 2026-08-11 22:09:40  #MKT News
+
+Trump said the United States does not lack missiles or munitions.
 
 ---
 
@@ -19413,125 +19473,5 @@ Caitong Fuxin fixed-open hybrid fund will suspend onshore trading from market op
 ### 2026-08-10 19:04:14  #MKT News
 
 Guotai Nasdaq ETF will suspend trading from market open on Aug 11, 2026 until 10:30.
-
----
-
-### 2026-08-10 19:03:54  #MKT News
-
-Huatai-PineBridge China-Korea Semiconductor ETF will be suspended from market open on Aug 11, 2026 until 10:30.
-
----
-
-### 2026-08-10 19:03:36  #宏觀
-
-【北京市場監管部門調查處置潘家園太陽鏡銷售亂象】8月9日，總檯央視《每週質量報告》欄目播出《別讓太陽鏡變“傷眼鏡”》專題報道後，北京市朝陽區市場監管局第一時間部署開展專項執法檢查，對轄區多個眼鏡集中銷售場所開展專項執法檢查。針對報道中反映的涉嫌銷售不合格產品、“三無”產品的商戶，經現場核查，執法人員已對涉嫌不合格產品依法實施暫扣。目前，案件後續核查處置工作正在有序開展。（央視新聞）
-
----
-
-### 2026-08-10 19:02:28  #公司
-
-【幸福藍海：開展上市十週年股東回饋活動 免費送觀影券】幸福藍海公告稱，為感謝股東支援，公司將開展上市十週年股東回饋活動。截至2026年8月7日收市，持有公司股份500股（含）以上的股東可參與。股東按持股數量分檔免費領電子觀影券，500股（含）-10000股（不含）領3張、10000股（含）-100000股（不含）領6張、100000股（含）以上領10張。申領登記時間為8月18日10:00至8月28日24:00，觀影券有效期至11月30日。
-
----
-
-### 2026-08-10 19:02:07  #公司
-
-【山推股份：擬設四家境外子公司，山推香港出資500萬雷亞爾】山推股份公告，為開拓海外市場，公司全資子公司山推（香港）控股有限公司擬出資500萬雷亞爾（約99萬美元）、3200萬里拉（約70萬美元）、130億越南盾（約50萬美元），分別在巴西、土耳其、越南設立全資附屬公司；山推香港聯合山推烏茲共同出資3.68億堅戈（約80萬美元）在哈薩克設立全資附屬公司。該事項已於2026年8月10日經董事會審議透過，無需提交股東會審議。
-
----
-
-### 2026-08-10 19:02:02  #市場 #國際
-
-烏克蘭7月消費者價格指數同比上漲7.7%；此前預期上漲7.3%。
-
----
-
-### 2026-08-10 19:01:52  #其他
-
-Cloudflare 擬私募發行 21.75 億美元可轉換票據。
-
----
-
-### 2026-08-10 19:01:47  #央行 #國際
-
-日本經濟財政大臣城內實：籌集5日元用於消費稅減免並不難。部分減稅資金將來自支出修訂。不預計日元貶值會持續。增加投資將對日元產生積極影響。政府立場未變，尊重日本央行的獨立性。日本央行在政策方面表現良好。
-
----
-
-### 2026-08-10 19:01:21  #MKT News #USDJPY #Impact bullish
-
-Kiuchi, Japan's minister of economy and finance, said the Bank of Japan has performed well on policy.
-
----
-
-### 2026-08-10 19:01:18  #MKT News
-
-Japan's economic and fiscal minister Kiuchi said the government's position is unchanged and that it respects the Bank of Japan's independence.
-
----
-
-### 2026-08-10 19:01:09  #公司 #市場 #國際
-
-【海灣開發商重金冠名 特朗普海外品牌授權業務營收飆升至5950萬美元】特朗普重返白宮首年，旗下海外地產品牌授權業務迎來爆發式增長。2025年該板塊創收5950萬美元，多國海外開發商斥重金取得授權，將特朗普品牌冠名當地高階住宅樓、高爾夫球場與濱海度假專案。 據媒體梳理特朗普年度財務申報檔案分析，全球各地物業使用特朗普品牌名稱產生的海外授權收入，較2024年大漲71%，規模近乎2023年的十倍。業績暴漲的核心原因在於特朗普集團推翻了其首個任期內“不再簽署任何海外新合作”的承諾。 特朗普集團第二任期道德準則規定，禁止與外國政府開展重大新增交易，但允許同境外私營企業合作。 四家未列入其2024年申報清單、隸屬於特朗普品牌授權業務的有限責任公司，2025年創收2025萬美元，貢獻了本次營收增量的82%；另外五家此前標註為停業狀態的授權子公司，再度入賬964萬美元。
-
----
-
-### 2026-08-10 19:01:09  #MKT News #USDJPY #Impact bearish #DXY
-
-Japan's economic and fiscal minister Kiuchi said increased investment would be positive for the yen.
-
----
-
-### 2026-08-10 19:01:05  #市場
-
-巴西 IPC‑S 物價指數在截至 8 月 7 日的統計週期內下跌 0.05%。
-
----
-
-### 2026-08-10 19:00:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan's minister of economy and finance Kiuchi said he does not expect the yen's depreciation to persist.
-
----
-
-### 2026-08-10 19:00:54  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY
-
-Japan's Minister for Economic and Fiscal Policy Kiuchi said part of the funding for tax cuts will come from revisions to spending.
-
----
-
-### 2026-08-10 19:00:47  #MKT News #Market Regions #Japan & APAC
-
-Japan's economic and fiscal policy minister KIUCHI said raising 5 yen to fund a consumption tax cut is not difficult.
-
----
-
-### 2026-08-10 19:00:41  #公司
-
-【威高血淨：發行股份購普瑞醫藥100%股權獲上交所稽核透過】威高血淨公告稱，公司擬透過發行股份購買山東威高普瑞醫藥包裝有限公司100%股權。8月10日，上交所重組委審議會議結果顯示，本次交易符合重組條件和資訊披露要求。不過，本次交易尚需經中國證監會同意註冊後方可實施，能否取得註冊及時間均不確定，公司將及時披露進展，提醒投資者注意風險。
-
----
-
-### 2026-08-10 19:00:28  #公司 #國際
-
-【烏無人機襲俄石化重鎮13死39傷】俄羅斯韃靼斯坦共和國石化重鎮下卡姆斯克市的市長今天（8月10日）稱，烏克蘭對該市的工業和民用目標實施了無人機襲擊，造成包括一名兒童在內的13人死亡，39人受傷。 烏克蘭軍方表示，韃靼斯坦共和國“韃靼石油公司”旗下的坦科煉油廠被擊中。據悉，這家煉油廠是俄羅斯最大、最現代化的煉油廠之一。該廠2024年加工了1700萬噸原油，生產了270萬噸汽油和850萬噸柴油。該煉油廠今年6月初也曾遭到烏克蘭襲擊。 下卡姆斯克位於卡馬河沿岸，深入俄羅斯境內逾600英里、約合966公里，是該地區重要的石油化工中心。俄羅斯聯邦偵查委員會通報稱，已將此事件定性為“恐怖襲擊”，並刑事立案。（CCTV國際時訊）
-
----
-
-### 2026-08-10 19:00:03  #其他
-
-杜克能源將以每股 50 美元的價格發售 3500 萬份股權單位。
-
----
-
-### 2026-08-10 18:59:39  #其他
-
-英特爾：提交暫擱註冊申請，未披露規模。
-
----
-
-### 2026-08-10 18:59:22  #公司
-
-【飛豬執行長莊卓然：飛豬正圍繞“3個E”（ Experience、Ecosystem、Enterprise）展開AI佈局】今日飛豬宣佈推出飛豬幫幫，全面升級其面向消費者的AI服務能力。釋出會上，莊卓然表示，飛豬正圍繞“3個E”（AI for Experience，AI for Ecosystem，AI for Enterprise）展開AI佈局，即利用AI提升使用者體驗、繁榮旅行生態、重塑組織形態，這“3個E”相輔相成。“飛豬幫幫”是“AI for Experience”中的新一步。據飛豬技術人員現場介紹，飛豬幫幫依然採用Multi-Agent架構，但較上一代旅行AI具有更強的通用性，這讓它承接新場景的表現更好、接入新能力的效率更高，模型越強、用量越省，誤差積累也更少。它的記憶力也更強大，還能讀懂使用者在長期使用飛豬時形成的習慣，提供個性化程度更高的服務。飛豬資料顯示，截至目前飛豬幫幫交付的結果可用率評分較上一代產品提升了超70%，可比任務的平均耗時減少近10%。據瞭解，飛豬的生產效率也得益於AI而迅速提升。仍以飛豬幫幫為例，在3個月的核心開發週期內，累計上線了148個複雜需求，其中AI生成的程式碼佔比已超85%。（新浪科技）
 
 ---
