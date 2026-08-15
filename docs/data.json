@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 14:28:46",
-  "count": 15315,
+  "updated": "2026-08-15 14:32:57",
+  "count": 15316,
   "items": [
+    {
+      "id": "mkt:01a0041f-0245-7aab-9047-c553acaa18f2",
+      "time": "2026-08-15 14:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan Airlines flight HU753 diverts to Krasnoyarsk after mechanical fault; lands safely】Hainan Airlines flight HU753 (Beijing–Manchester) diverted to Krasnoyarsk International Airport, Russia, on Aug. 15, 2026 after a mechanical fault and landed safely at 07:28 Beijing time. The airline said it will swap aircraft to operate subsequent sectors and provide passenger assistance."
+    },
+    {
+      "id": "5042204",
+      "time": "2026-08-15 14:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【克羅埃西亞山火已造成40人受傷】克羅埃西亞南部小城奧米什附近13日晚發生大規模山火，造成40人受傷。目前，這一地區的火勢已大幅減弱。（央視新聞）"
+    },
     {
       "id": "5042203",
       "time": "2026-08-15 14:27:21",
@@ -140212,14 +140228,6 @@
         "國際"
       ],
       "text": "【烏稱基輔等地遭襲 已有多人死傷】烏克蘭基輔市軍政管理局8日通報稱，當天凌晨基輔市遭俄軍襲擊，截至當地時間5時45分，襲擊已造成4人受傷，基輔市兩個地區發生火災，相關部門正在開展救援工作。此外，烏克蘭基輔州軍政管理局通報稱，當天基輔州遭俄軍無人機襲擊，截至目前已造成3人死亡，另有3人受傷。目前俄羅斯方面對此暫無回應。"
-    },
-    {
-      "id": "mkt:019fe010-b3b2-7aab-8fc2-e1ef6644feb3",
-      "time": "2026-08-08 14:30:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy visits Serbia as Russian influence wanes】Ukrainian President Zelenskiy made a landmark first visit to Serbia on Saturday. President Vucic, long an ally of Putin, has seen ties with Moscow sour since Russia's 2022 invasion; Belgrade has not joined Western sanctions but has condemned the war and curtailed Russian economic influence. Moscow has accused Serbia of betraying Russia and of aiding Ukrainian forces."
     }
   ]
 }

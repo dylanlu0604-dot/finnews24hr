@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 577,
+  "count": 579,
   "items": [
+    {
+      "id": "mkt:01a0041f-0245-7aab-9047-c553acaa18f2",
+      "time": "2026-08-15 14:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan Airlines flight HU753 diverts to Krasnoyarsk after mechanical fault; lands safely】Hainan Airlines flight HU753 (Beijing–Manchester) diverted to Krasnoyarsk International Airport, Russia, on Aug. 15, 2026 after a mechanical fault and landed safely at 07:28 Beijing time. The airline said it will swap aircraft to operate subsequent sectors and provide passenger assistance."
+    },
+    {
+      "id": "5042204",
+      "time": "2026-08-15 14:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【克羅埃西亞山火已造成40人受傷】克羅埃西亞南部小城奧米什附近13日晚發生大規模山火，造成40人受傷。目前，這一地區的火勢已大幅減弱。（央視新聞）"
+    },
     {
       "id": "5042203",
       "time": "2026-08-15 14:27:21",
