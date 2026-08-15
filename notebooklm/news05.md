@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 01:31:21_
-_本檔包含 2754 則快訊，約 604439 字_
+_更新時間：2026-08-16 01:47:12_
+_本檔包含 2755 則快訊，約 604469 字_
+
+---
+
+### 2026-08-10 20:03:31  #其他
+
+【國家人工智慧應用中試基地（農業領域農作物種植方向）啟動】據“九天人工智慧”公眾號訊息，8月9日，黑龍江省“人工智慧+”賦能行業高質量發展峰會暨國家人工智慧應用中試基地（農業領域農作物種植方向）啟動大會於哈爾濱順利舉辦。種植中試基地，是貫徹落實國家糧食安全戰略和“人工智慧+”行動的重要抓手，是國家級人工智慧應用創新載體。基地將聚焦行業共性技術難題，打造可複製推廣的典型場景，著力築成國內一流智慧農業創新高地。
+
+---
+
+### 2026-08-10 20:03:29  #MKT News #ACHR.O #Impact bullish
+
+Boeing plans to acquire a stake in Archer Aviation; Archer shares jumped about 15% in premarket trading.
+
+---
+
+### 2026-08-10 20:03:14  #國際
+
+STRATEGY ：根據提交給美國證券交易委員會(SEC)的檔案，在2026年8月3日至9日期間，以均價64,262美元出售了1,690枚比特幣，總價值1.086億美元。
+
+---
+
+### 2026-08-10 20:03:05  #MKT News
+
+ANTHROPIC has reached a data-center platform agreement with Macquarie and GIC.
+
+---
+
+### 2026-08-10 20:02:57  #其他
+
+波音：將保留對Wisk核心自主飛行技術的使用權，用於當前及下一代商用與防務飛機。
+
+---
+
+### 2026-08-10 20:02:11  #其他
+
+波音：交易預計將於2026年底前完成交割。
+
+---
+
+### 2026-08-10 20:02:05  #公司 #市場
+
+【愛麗家居：股價異動累積風險 8月11日起停牌核查】愛麗家居公告稱，公司股票自2026年7月21日至8月10日，累計11個交易日漲停，股價漲185.56%，已累積巨大交易風險，嚴重偏離基本面。公司股票將於8月11日開市起停牌，自披露核查公告後復牌。公司提醒，目前基本面未變，但股價已嚴重脫離基本面，剩餘外部流通盤小、近期交易放量，或存在非理性炒作。此外，公司擬現金收購歐康諾不低於77.08%股權，控股股東擬轉讓部分股份，相關事項均存不確定性。
 
 ---
 
@@ -16590,41 +16632,5 @@ Turkey's foreign minister said Ankara has told Russia and Ukraine they should st
 ### 2026-08-09 01:47:53  #其他
 
 【秘魯庫斯科一客車與一卡車相撞 致9死6傷】當地時間8月8日凌晨，秘魯庫斯科大區埃斯皮納爾省帕爾帕塔區發生一起嚴重交通事故。一輛載客小型客車與一輛半掛式卡車發生猛烈碰撞，造成至少9人死亡、6人受傷。（央視新聞）
-
----
-
-### 2026-08-09 01:43:46  #MKT News
-
-Turkey's foreign minister said Egypt may join a defense pact once certain technical issues are resolved.
-
----
-
-### 2026-08-09 01:42:51  #國際
-
-土耳其外交部長：埃及或可在特定技術問題得到解決後加入該防務協議。
-
----
-
-### 2026-08-09 01:40:24  #MKT News
-
-【Vucic meets Zelenskiy; agree to deepen economic and trade cooperation】On the 8th (local time), Serbian President Vucic met Ukrainian President Zelenskiy; they agreed to deepen economic and trade cooperation and to expand cooperation on infrastructure and humanitarian aid.
-
----
-
-### 2026-08-09 01:39:22  #國際
-
-【武契奇會晤澤連斯基 雙方同意深化經貿合作】當地時間8日，烏克蘭總統澤連斯基結束對塞爾維亞為期兩天的正式訪問。這是烏克蘭國家元首時隔8年再次訪問塞爾維亞。期間，兩國元首舉行會晤，雙方同意深化經貿合作，並擴大基礎設施和人道主義援助領域合作。（新華社）
-
----
-
-### 2026-08-09 01:35:31  #國際
-
-土耳其外交部長：紅海航運安全關乎我國利益，因此土耳其必須參與沙烏地阿拉伯牽頭的國際聯盟。
-
----
-
-### 2026-08-09 01:32:24  #MKT News
-
-Turkey's foreign minister said Red Sea shipping security affects Turkey's interests and that Turkey must join the Saudi-led international coalition.
 
 ---

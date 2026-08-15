@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 01:31:21_
-_本檔包含 3117 則快訊，約 604578 字_
+_更新時間：2026-08-16 01:47:12_
+_本檔包含 3111 則快訊，約 604445 字_
+
+---
+
+### 2026-08-13 07:16:16  #市場
+
+【債市多頭情緒升溫 10年期國債收益率再跌破1.7%】近期，國內債券市場多頭情緒持續升溫，長端利率迎來關鍵突破。行情資料顯示，10年期國債收益率在1.7%附近震盪數日後，8月12日再次跌破1.7%關口，截至收盤，收益率報1.694%；與此同時，30年期國債收益率也同步走低，截至收盤報2.160%，處於年內低位水平。業內人士認為，本輪債市行情由寬鬆政策預期、資金面均衡偏松、機構資金接力加倉等多重因素驅動，但關鍵點位突破後市場多空博弈加劇，利率趨勢性下行的有效條件仍待進一步驗證。
+
+---
+
+### 2026-08-13 07:15:29  #MKT News
+
+Iraq's prime minister said Iraq will not allow its territory to be used as a launchpad for attacks on neighboring countries.
 
 ---
 
@@ -18803,53 +18815,5 @@ CAC 40 Retreats From Record High — The CAC 40 edged 0.1% lower to close at 8,7
 ### 2026-08-11 23:51:30  #MKT News #Market Regions #Japan & APAC
 
 【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951.
-
----
-
-### 2026-08-11 23:51:21  #國際
-
-【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）
-
----
-
-### 2026-08-11 23:50:03  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes.
-
----
-
-### 2026-08-11 23:49:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya.
-
----
-
-### 2026-08-11 23:49:41  #其他
-
-【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。
-
----
-
-### 2026-08-11 23:49:29  #國際
-
-英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。
-
----
-
-### 2026-08-11 23:48:31  #其他
-
-利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。
-
----
-
-### 2026-08-11 23:47:53  #國際
-
-伊朗最高國安委秘書：只要美國不改變自身行為、不接受伊朗提出的條件，霍爾木茲海峽就不會開放。
-
----
-
-### 2026-08-11 23:47:19  #國際
-
-伊朗最高國安委秘書：伊朗與阿曼就霍爾木茲海峽航運達成的任何協議，都將與海峽封鎖問題相互獨立。
 
 ---

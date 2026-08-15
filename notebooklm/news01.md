@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 01:31:21_
-_本檔包含 3104 則快訊，約 604802 字_
+_更新時間：2026-08-16 01:47:12_
+_本檔包含 3106 則快訊，約 605119 字_
+
+---
+
+### 2026-08-16 01:40:43  #MKT News
+
+Al Arabiya TV reported Yemeni government forces shot down a second Houthi-armed drone over Marib.
+
+---
+
+### 2026-08-16 01:32:08  #MKT News
+
+【Israel conducts airstrike on Dair al-Zahrani in Nebetiyeh, southern Lebanon】Israeli forces carried out an airstrike on the town of Dair al-Zahrani in the Nebetiyeh area of southern Lebanon, killing four and wounding 17.
 
 ---
 
