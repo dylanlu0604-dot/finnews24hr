@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:55:00_
-_本檔包含 3149 則快訊，約 605700 字_
+_更新時間：2026-08-15 18:32:21_
+_本檔包含 3138 則快訊，約 605780 字_
+
+---
+
+### 2026-08-14 07:28:30  #MKT News #XAUUSD #Impact bullish #WTI #Impact mixed #DXY
+
+Al Arabiya TV reported a drone was shot down over Erbil, the capital of Iraq's Kurdistan region.
+
+---
+
+### 2026-08-14 07:28:07  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Decline Amid Hormuz Stalemate — Crude oil traded near $81 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision.
+
+---
+
+### 2026-08-14 07:27:09  #其他
+
+哥倫比亞風險管理部門：哥倫比亞地震死亡人數升至281人。
+
+---
+
+### 2026-08-14 07:27:05  #MKT News
+
+Al Arabiya reports explosions in Erbil, Iraq.
+
+---
+
+### 2026-08-14 07:26:48  #市場 #國際
+
+【雙節臨近 長線遊預訂熱度攀升】中秋與國慶雙節臨近，今年“請3休13”的超長拼假方案，讓不少遊客選擇將年假與法定假期拼接，形成了近半個月的充裕出行視窗。受此拉動，假期出遊的規劃週期明顯拉長，暑期出行與“黃金週”的預訂實現了無縫銜接。 眾信旅遊資料顯示，截至8月12日，眾信旅遊“黃金週”期間出境遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%，反映出消費者長假出行意願高漲，提前規劃出遊的意識持續增強。 出境遊方向中，歐洲長線遊熱度攀升最為明顯。眾信旅遊資料顯示，截至8月12日，歐洲遊預訂量佔比接近整體出遊總量的一半，赴歐洲出遊人數同比增長達140%。（證券日報）
+
+---
+
+### 2026-08-14 07:25:40  #市場
+
+【年內熊貓債發行規模超2000億元創歷史新高】Wind資料顯示，截至8月13日，年內熊貓債發行規模達2024.75億元，同比上漲73.57%，這一資料也超過2025年全年的1835.6億元、2024年全年的1948億元，創歷史新高。“今年以來熊貓債市場的火熱態勢，是多重有利因素共同推動的結果。”中關村物聯網產業聯盟副秘書長袁帥表示，近年來監管層不斷簡化熊貓債的發行流程，降低了境外主體的發行門檻與制度性成本，讓更多境外機構有意願、有條件進入中國債券市場。同時，相較於部分發達經濟體的高利率環境，人民幣融資成本長期保持在相對合理的區間，能夠為境外發行主體降低融資成本，提升債務結構的穩定性。（證券日報）
+
+---
+
+### 2026-08-14 07:24:00  #央行 #中國央行
+
+【二季度貨幣政策執行報告釋放了哪些新訊號？】中國銀河證券首席宏觀分析師張迪認為，“增強政策前瞻性靈活性針對性”，意味著下一階段的貨幣政策將更加強調前瞻發力並保持靈活，在宏觀政策中率先發力穩就業、穩企業、穩市場、穩預期。同時，貨幣政策工具的使用轉變為“綜合運用並適時調整貨幣政策工具”，釋放出下半年貨幣政策工具有望做出調整的政策訊號。
+
+---
+
+### 2026-08-14 07:23:59  #國際
+
+美國國家颶風中心表示，維德角群島附近的風暴在未來48小時內發展為颶風的機率為30%。
+
+---
+
+### 2026-08-14 07:23:52  #國際
+
+【報告：三大經濟因素或將推動電動汽車發展】知名研究機構伍德麥肯茲週四釋出的一份報告稱，三股新興的經濟力量有望推動全球電動汽車產量增長，並對石油、電力和金屬市場產生影響。報告指出，這三大力量分別是：產油國俄羅斯和伊朗各自陷入戰爭所引發的石油供應衝擊，迫使各國政府加快對供應鏈的投資；高昂的燃油價格促使消費者轉向電動汽車；以及技術創新。中國在電池技術方面正取得快速進展，包括5分鐘快充技術，以及鈉離子電池和磷酸鐵鋰電池。報告稱，西方國家可藉助政府支援來推動創新。德麥肯茲預測，由於美國國內石油供應充沛，電動汽車佔其市場份額僅將從目前的3%增至2040年的20%。而在石油進口依賴度較高的歐洲，電動汽車份額應會從2025年的3%上升至2040年的35%。
+
+---
+
+### 2026-08-14 07:22:13  #公司
+
+【上市公司頻現1元甩賣資產 被甩賣公司普遍資不抵債】據證券時報記者不完全統計，2026年以來，已有十餘家上市公司先後釋出公告，以1元的名義對價掛牌出售旗下子公司的股權。被低價甩賣的子公司股權的標的多數業績連續虧損，不少甚至處於資不抵債的狀態。在業內人士看來，這類“白菜價”轉讓的表層邏輯，主要是上市公司急於將虧損資產從合併報表中剝離，最佳化當期的財務報表，從而保住上市資格，維持自身在資本市場的正常融資能力，但交易邊界模糊，低價轉讓不良資產背後潛藏著更大的風險。
 
 ---
 
@@ -18871,131 +18931,5 @@ Nebius股價收盤上漲34%，創去年9月以來最大漲幅。
 ### 2026-08-13 03:56:27  #MKT News
 
 【WHO says US changes to childhood vaccination schedule depart from science】WHO Director-General Tedros said on the 12th that recent US adjustments to the childhood vaccination schedule depart from scientific evidence, warning that delaying or splitting vaccinations could leave children exposed to infectious-disease risk for longer. The remarks follow an executive order by Trump to reduce the number of childhood vaccinations; WHO said it is concerned.
-
----
-
-### 2026-08-13 03:55:48  #焦點 #國際
-
-【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。
-
----
-
-### 2026-08-13 03:55:40  #MKT News
-
-【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser.
-
----
-
-### 2026-08-13 03:54:56  #國際
-
-以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。
-
----
-
-### 2026-08-13 03:54:45  #國際
-
-美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。
-
----
-
-### 2026-08-13 03:54:41  #MKT News #WTI #Impact bullish #Brent
-
-【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's "Persian Gulf Strait Authority" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran.
-
----
-
-### 2026-08-13 03:52:58  #國際
-
-【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。
-
----
-
-### 2026-08-13 03:46:39  #MKT News
-
-White House press secretary Leavitt said President Trump has asked him to continue serving externally as a senior adviser and that he will remain a steadfast advocate for MAGA and the Republican Party.
-
----
-
-### 2026-08-13 03:43:25  #國際
-
-萊維特：特朗普已邀請我擔任外部顧問。
-
----
-
-### 2026-08-13 03:39:25  #MKT News
-
-President Trump said Levitt will become one of his senior outside advisers and an influential voice within the Republican Party.
-
----
-
-### 2026-08-13 03:38:34  #觀點
-
-摩根士丹利認為Grok聊天機器人是SpaceX拓展綜合人工智慧平臺的早期訊號；維持增持評級，目標價300美元。
-
----
-
-### 2026-08-13 03:36:57  #MKT News
-
-U.S. President Trump said White House press secretary Leavitt will resign to spend more time with family.
-
----
-
-### 2026-08-13 03:36:48  #國際
-
-美國防長赫格塞思：假新聞媒體一直試圖抹黑“南方之矛行動”，否定其正當性。同樣是這批聲音，在往屆政府任由邊境危機空前惡化、藥物過量死亡人數創下紀錄之時卻緘口不言。如今他們又矢口否認，極力貶低我們共同取得的成果。
-
----
-
-### 2026-08-13 03:36:27  #國際
-
-特朗普：萊維特將成為我的頂級外部顧問之一。
-
----
-
-### 2026-08-13 03:36:10  #國際
-
-特朗普：白宮新聞秘書萊維特將卸任，以便有更多時間陪伴家人。
-
----
-
-### 2026-08-13 03:36:06  #MKT News #Important
-
-President Trump said White House press secretary Leavitt will leave at the end of the month.
-
----
-
-### 2026-08-13 03:35:42  #國際
-
-特朗普：卡羅琳·萊維特將於本月底離職。
-
----
-
-### 2026-08-13 03:35:35  #MKT News #WTI #Impact bullish #Brent
-
-Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi mercenary positions at Mocha port.
-
----
-
-### 2026-08-13 03:31:51  #MKT News
-
-Real Estate Institute of New Zealand said July adjusted median house price fell 0.6% year-on-year.
-
----
-
-### 2026-08-13 03:31:24  #MKT News
-
-New Zealand real estate association said seasonally adjusted median house price fell 0.5% month-on-month in July.
-
----
-
-### 2026-08-13 03:30:41  #公司
-
-據知情人士透露，派拉蒙已商討為CNN設立一個編輯委員會以及其他保障措施，以化解外界對該媒體新聞編輯獨立性的擔憂。相關磋商據稱早於那起反壟斷訴訟，該訴訟旨在阻撓派拉蒙計劃以810億美元收購CNN母公司華納兄弟探索公司。
-
----
-
-### 2026-08-13 03:30:06  #MKT News
-
-US Defense Secretary Hegseth said Colombia will join a US-led coalition against drug cartels and be authorized to conduct joint military operations with US forces.
 
 ---

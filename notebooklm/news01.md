@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:55:00_
-_本檔包含 3063 則快訊，約 605711 字_
+_更新時間：2026-08-15 18:32:21_
+_本檔包含 3060 則快訊，約 605617 字_
+
+---
+
+### 2026-08-15 18:29:23  #國際
+
+【特朗普尚未明確支援內塔尼亞胡連任】今年10月以色列將舉行議會選舉，多家以色列媒體近期釋出的民調顯示，以色列總理內塔尼亞胡的支援率低迷。據美國阿克西奧斯新聞網站8月14日報道，截至目前，美國總統特朗普尚未在以色列大選中對內塔尼亞胡表示明確支援。報道還稱，內塔尼亞胡的幾位競爭對手都表示，擔心特朗普會支援這位現任總理。訊息人士透露，他們透過中間人向特朗普及其助手傳遞資訊，敦促特朗普保持中立。一位熟悉情況的前美國官員表示，內塔尼亞胡在民調中表現不佳，這打消了特朗普介入此事的念頭。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 18:24:22  #公司
+
+【榮耀阿爾法全球旗艦店煥新啟幕，完成門店IP化與AI場景化全面升級】8月15日，榮耀阿爾法全球旗艦店正式煥新啟幕，完成門店IP化與AI場景化的全面升級。升級後店內設有DIY互動區、AI遊戲互動區、AI影像創作等多個互動打卡區，打造沉浸式AI科技樂園。同時，在活動期間旗艦店還同步開設機器人展演、外籍網紅一日店長互動、開業趣味晚會多元活動。據介紹，榮耀透過“科技地標煥新”的方式，將前沿AI終端技術轉化為消費者可觸控、可感知的“新質生產力”體驗，有效激發暑期消費潛能，打造深圳灣商圈的“科技+文旅+消費”新名片。（新浪科技）
+
+---
+
+### 2026-08-15 18:12:37  #公司 #市場
+
+【劉益謙控股子公司新理益新進成為頎中科技第七大股東】頎中科技(688352.SH)週五晚間釋出2026年半年報，截至二季度末，新理益集團有限公司持有頎中科技400.22萬股，佔總股本比例0.34%，為公司的第七大股東。以頎中科技週五收盤價18.83元/股估算，新理益在頎中科技的持股市值約7536.14萬元。新理益系劉益謙的控股子公司。
+
+---
+
+### 2026-08-15 18:11:27  #公司 #國際
+
+【中方團隊在全球最大“人造太陽”壁處理領域實現技術鏈條貫通】據中核集團訊息，日前，中核集團核工業西南物理研究院團隊在國際熱核聚變實驗堆（ITER）裝置壁處理技術領域接連取得重要進展：不僅順利透過輝光放電清洗系統（GDC）永久電極專案補充設計最終評審（DeltaFDR），同時牽頭並聯閤中核二三成功中標並在法國簽署硼化系統與X射線晶體光譜儀（XRCS）供氣系統設計製造合同。這標誌著中方團隊在ITER裝置壁處理核心技術領域取得新拓展，業務範圍由原有的輝光放電清洗延伸至硼化壁處理，實現了從雜質清除到表面預處理的技術鏈條貫通，將為ITER裝置全鎢第一壁執行提供關鍵保障。
+
+---
+
+### 2026-08-15 18:10:48  #MKT News #Market Regions #Europe & UK
+
+【Iran intelligence says it uncovered French "termite plan" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to "pre-emptively" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called "termite plan" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the "reckless plot".
+
+---
+
+### 2026-08-15 18:04:10  #其他
+
+【商鋪低頻噪聲擾民被判擔責 生態環境法典施行第一案宣判】8月15日，我國第二部法典——《中華人民共和國生態環境法典》正式施行。當日，全國首例適用生態環境法典審理的噪聲汙染責任糾紛案在浙江省衢州市衢江區人民法院開庭並當庭宣判，新法迎來司法實踐“第一案”。法院依據《中華人民共和國生態環境法典》相關規定，結合現場勘查、醫療記錄等證據，按照經濟效益原則以及損害最小化原則當庭宣判：判決被告限期進行降噪、減振整改，賠償原告醫療費和精神損害撫慰金。（央視新聞）
+
+---
+
+### 2026-08-15 17:56:25  #國際
+
+【伊朗與塔吉克就剩餘石油產品和原油出口進行談判】伊朗石油部長帕克內賈德週六在德黑蘭會見塔吉克能源部長後表示，伊朗和塔吉克正就伊朗剩餘石油產品和原油出口至塔吉克煉油廠一事進行談判。帕克內賈德表示，目前正在著手起草一項長期出口協議的框架檔案。
 
 ---
 
@@ -18408,65 +18450,5 @@ Brent Holds Decline Amid Hormuz Stalemate — Brent traded near $87 per barrel o
 ### 2026-08-14 07:28:53  #公司 #國際
 
 【庫克亮相蘋果休斯頓工廠】週三，蘋果CEO蒂姆・庫克與美國商務部長霍華德・盧特尼克等政府官員共同出席得克薩斯州休斯頓全新制造工廠的揭牌儀式。蘋果表示，今年晚些時候，這座工廠將投產Mac Mini臺式電腦；廠區部分割槽域已經在組裝蘋果自用的AI伺服器。本次公開亮相正值庫克CEO任期的最後幾周。9月1日，庫克將轉任董事會執行主席，蘋果資深硬體高管約翰・特努斯接任CEO一職。（第一財經）
-
----
-
-### 2026-08-14 07:28:30  #MKT News #XAUUSD #Impact bullish #WTI #Impact mixed #DXY
-
-Al Arabiya TV reported a drone was shot down over Erbil, the capital of Iraq's Kurdistan region.
-
----
-
-### 2026-08-14 07:28:07  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Decline Amid Hormuz Stalemate — Crude oil traded near $81 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision.
-
----
-
-### 2026-08-14 07:27:09  #其他
-
-哥倫比亞風險管理部門：哥倫比亞地震死亡人數升至281人。
-
----
-
-### 2026-08-14 07:27:05  #MKT News
-
-Al Arabiya reports explosions in Erbil, Iraq.
-
----
-
-### 2026-08-14 07:26:48  #市場 #國際
-
-【雙節臨近 長線遊預訂熱度攀升】中秋與國慶雙節臨近，今年“請3休13”的超長拼假方案，讓不少遊客選擇將年假與法定假期拼接，形成了近半個月的充裕出行視窗。受此拉動，假期出遊的規劃週期明顯拉長，暑期出行與“黃金週”的預訂實現了無縫銜接。 眾信旅遊資料顯示，截至8月12日，眾信旅遊“黃金週”期間出境遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%，反映出消費者長假出行意願高漲，提前規劃出遊的意識持續增強。 出境遊方向中，歐洲長線遊熱度攀升最為明顯。眾信旅遊資料顯示，截至8月12日，歐洲遊預訂量佔比接近整體出遊總量的一半，赴歐洲出遊人數同比增長達140%。（證券日報）
-
----
-
-### 2026-08-14 07:25:40  #市場
-
-【年內熊貓債發行規模超2000億元創歷史新高】Wind資料顯示，截至8月13日，年內熊貓債發行規模達2024.75億元，同比上漲73.57%，這一資料也超過2025年全年的1835.6億元、2024年全年的1948億元，創歷史新高。“今年以來熊貓債市場的火熱態勢，是多重有利因素共同推動的結果。”中關村物聯網產業聯盟副秘書長袁帥表示，近年來監管層不斷簡化熊貓債的發行流程，降低了境外主體的發行門檻與制度性成本，讓更多境外機構有意願、有條件進入中國債券市場。同時，相較於部分發達經濟體的高利率環境，人民幣融資成本長期保持在相對合理的區間，能夠為境外發行主體降低融資成本，提升債務結構的穩定性。（證券日報）
-
----
-
-### 2026-08-14 07:24:00  #央行 #中國央行
-
-【二季度貨幣政策執行報告釋放了哪些新訊號？】中國銀河證券首席宏觀分析師張迪認為，“增強政策前瞻性靈活性針對性”，意味著下一階段的貨幣政策將更加強調前瞻發力並保持靈活，在宏觀政策中率先發力穩就業、穩企業、穩市場、穩預期。同時，貨幣政策工具的使用轉變為“綜合運用並適時調整貨幣政策工具”，釋放出下半年貨幣政策工具有望做出調整的政策訊號。
-
----
-
-### 2026-08-14 07:23:59  #國際
-
-美國國家颶風中心表示，維德角群島附近的風暴在未來48小時內發展為颶風的機率為30%。
-
----
-
-### 2026-08-14 07:23:52  #國際
-
-【報告：三大經濟因素或將推動電動汽車發展】知名研究機構伍德麥肯茲週四釋出的一份報告稱，三股新興的經濟力量有望推動全球電動汽車產量增長，並對石油、電力和金屬市場產生影響。報告指出，這三大力量分別是：產油國俄羅斯和伊朗各自陷入戰爭所引發的石油供應衝擊，迫使各國政府加快對供應鏈的投資；高昂的燃油價格促使消費者轉向電動汽車；以及技術創新。中國在電池技術方面正取得快速進展，包括5分鐘快充技術，以及鈉離子電池和磷酸鐵鋰電池。報告稱，西方國家可藉助政府支援來推動創新。德麥肯茲預測，由於美國國內石油供應充沛，電動汽車佔其市場份額僅將從目前的3%增至2040年的20%。而在石油進口依賴度較高的歐洲，電動汽車份額應會從2025年的3%上升至2040年的35%。
-
----
-
-### 2026-08-14 07:22:13  #公司
-
-【上市公司頻現1元甩賣資產 被甩賣公司普遍資不抵債】據證券時報記者不完全統計，2026年以來，已有十餘家上市公司先後釋出公告，以1元的名義對價掛牌出售旗下子公司的股權。被低價甩賣的子公司股權的標的多數業績連續虧損，不少甚至處於資不抵債的狀態。在業內人士看來，這類“白菜價”轉讓的表層邏輯，主要是上市公司急於將虧損資產從合併報表中剝離，最佳化當期的財務報表，從而保住上市資格，維持自身在資本市場的正常融資能力，但交易邊界模糊，低價轉讓不良資產背後潛藏著更大的風險。
 
 ---

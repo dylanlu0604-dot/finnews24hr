@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:55:00_
-_本檔包含 3113 則快訊，約 605587 字_
+_更新時間：2026-08-15 18:32:21_
+_本檔包含 3115 則快訊，約 605441 字_
+
+---
+
+### 2026-08-13 03:55:48  #焦點 #國際
+
+【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。
+
+---
+
+### 2026-08-13 03:55:40  #MKT News
+
+【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser.
+
+---
+
+### 2026-08-13 03:54:56  #國際
+
+以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。
+
+---
+
+### 2026-08-13 03:54:45  #國際
+
+美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。
+
+---
+
+### 2026-08-13 03:54:41  #MKT News #WTI #Impact bullish #Brent
+
+【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's "Persian Gulf Strait Authority" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran.
+
+---
+
+### 2026-08-13 03:52:58  #國際
+
+【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。
+
+---
+
+### 2026-08-13 03:46:39  #MKT News
+
+White House press secretary Leavitt said President Trump has asked him to continue serving externally as a senior adviser and that he will remain a steadfast advocate for MAGA and the Republican Party.
+
+---
+
+### 2026-08-13 03:43:25  #國際
+
+萊維特：特朗普已邀請我擔任外部顧問。
+
+---
+
+### 2026-08-13 03:39:25  #MKT News
+
+President Trump said Levitt will become one of his senior outside advisers and an influential voice within the Republican Party.
+
+---
+
+### 2026-08-13 03:38:34  #觀點
+
+摩根士丹利認為Grok聊天機器人是SpaceX拓展綜合人工智慧平臺的早期訊號；維持增持評級，目標價300美元。
+
+---
+
+### 2026-08-13 03:36:57  #MKT News
+
+U.S. President Trump said White House press secretary Leavitt will resign to spend more time with family.
+
+---
+
+### 2026-08-13 03:36:48  #國際
+
+美國防長赫格塞思：假新聞媒體一直試圖抹黑“南方之矛行動”，否定其正當性。同樣是這批聲音，在往屆政府任由邊境危機空前惡化、藥物過量死亡人數創下紀錄之時卻緘口不言。如今他們又矢口否認，極力貶低我們共同取得的成果。
+
+---
+
+### 2026-08-13 03:36:27  #國際
+
+特朗普：萊維特將成為我的頂級外部顧問之一。
+
+---
+
+### 2026-08-13 03:36:10  #國際
+
+特朗普：白宮新聞秘書萊維特將卸任，以便有更多時間陪伴家人。
+
+---
+
+### 2026-08-13 03:36:06  #MKT News #Important
+
+President Trump said White House press secretary Leavitt will leave at the end of the month.
+
+---
+
+### 2026-08-13 03:35:42  #國際
+
+特朗普：卡羅琳·萊維特將於本月底離職。
+
+---
+
+### 2026-08-13 03:35:35  #MKT News #WTI #Impact bullish #Brent
+
+Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi mercenary positions at Mocha port.
+
+---
+
+### 2026-08-13 03:31:51  #MKT News
+
+Real Estate Institute of New Zealand said July adjusted median house price fell 0.6% year-on-year.
+
+---
+
+### 2026-08-13 03:31:24  #MKT News
+
+New Zealand real estate association said seasonally adjusted median house price fell 0.5% month-on-month in July.
+
+---
+
+### 2026-08-13 03:30:41  #公司
+
+據知情人士透露，派拉蒙已商討為CNN設立一個編輯委員會以及其他保障措施，以化解外界對該媒體新聞編輯獨立性的擔憂。相關磋商據稱早於那起反壟斷訴訟，該訴訟旨在阻撓派拉蒙計劃以810億美元收購CNN母公司華納兄弟探索公司。
+
+---
+
+### 2026-08-13 03:30:06  #MKT News
+
+US Defense Secretary Hegseth said Colombia will join a US-led coalition against drug cartels and be authorized to conduct joint military operations with US forces.
 
 ---
 
@@ -18674,119 +18800,5 @@ Eleven French nationals detained in Thailand on suspicion of drug trafficking.
 ### 2026-08-11 22:09:40  #MKT News
 
 Trump said the United States does not lack missiles or munitions.
-
----
-
-### 2026-08-11 22:09:25  #MKT News #WTI #Impact bullish #DXY #XAUUSD
-
-President Trump said the U.S. controls Iran’s funds and has full control over them.
-
----
-
-### 2026-08-11 22:08:44  #MKT News #WTI #Impact bullish #XAUUSD
-
-President Trump said the US could use "powerful force" to strike Iran.
-
----
-
-### 2026-08-11 22:08:41  #Trading Economics #Economy #United States #Existing Home Sales #Importance 2
-
-US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 1.7% from the previous month to a seasonally adjusted, annualized rate of 4.06 units in July of 2026, relatively close to market expectations of 4.06 million. “Home sales have been remarkably stable, even amid the rising mortgage rate environment of the past few months,” said NAR Chief Economist Lawrence Yun. “Year-to-date sales are up 2.4% and there’s no doubt that the housing market would be thriving if average mortgage rates were to return near 6%.”
-
----
-
-### 2026-08-11 22:08:11  #其他
-
-巴西全國交通運輸聯合會（CNT）首輪民調：盧拉支援率 42.4%，弗拉維奧・博索納羅 28.7% 。
-
----
-
-### 2026-08-11 22:08:04  #國際
-
-美國總統特朗普表示，伊朗通貨膨脹率高達300%，其貨幣一文不值。美國可以用“巨大力量”打擊伊朗。
-
----
-
-### 2026-08-11 22:07:58  #MKT News
-
-U.S. President Trump said Iran's inflation is as high as 300% and its currency is effectively worthless.
-
----
-
-### 2026-08-11 22:07:34  #MKT News
-
-US President Trump said Iranians do not pay soldiers' salaries.
-
----
-
-### 2026-08-11 22:06:40  #國際
-
-市場訊息：蘋果大幅提升印度地區 iPhone 產能。
-
----
-
-### 2026-08-11 22:06:33  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-【US existing‑home sales fall to three‑month low as high prices, mortgage rates suppress market】Existing‑home sales in the US fell 1.7% MoM in July to a 4.06 mln annualized pace, a three‑month low and in line with the median economist forecast, the National Association of Realtors said. The report said persistently high listing prices and rising mortgage borrowing costs continue to deter buyers. The resale market has hovered around a roughly 4.0 mln annualized pace since late‑2022. NAR chief economist Lawrence Yun said sales have been very steady and that if average mortgage rates returned near 6% the market would undoubtedly boom.
-
----
-
-### 2026-08-11 22:06:12  #公司
-
-【中國化學工程東華公司簽訂西部新材年產5萬噸聚烯烴彈性體產業示範專案總承包合同】據東華科技訊息，8月5日，中國化學工程東華公司與中國化學工程西部新材舉行年產5萬噸聚烯烴彈性體產業示範專案總承包合同簽約儀式及開工會。專案採用科研總院和東華公司自主研發的高溫溶液聚合法生產工藝和茂金屬催化劑，可生產乙烯-丁烯共聚POE（C4）和乙烯-辛烯共聚POE（C8）兩大體系產品。
-
----
-
-### 2026-08-11 22:06:00  #MKT News
-
-U.S. officials said Russia released former Marine Robert Gilman.
-
----
-
-### 2026-08-11 22:05:49  #MKT News
-
-U.S. President Trump said Iranians are very shrewd negotiators.
-
----
-
-### 2026-08-11 22:05:17  #國際
-
-【俄外交部：俄羅斯與伊朗討論伊核計劃解決前景】俄羅斯外交部表示，俄羅斯與伊朗舉行了軍控、裁軍和防擴散議題外交部間磋商，雙方討論了伊朗核計劃解決前景。
-
----
-
-### 2026-08-11 22:04:35  #MKT News
-
-Market note: Trump said the U.S. ammunition shortage is caused by Biden sending $300 billion in aid to Ukraine.
-
----
-
-### 2026-08-11 22:04:21  #國際
-
-特朗普：我們彈藥庫存減少的原因，是喬・拜登向烏克蘭提供了 3000 億美元援助。
-
----
-
-### 2026-08-11 22:03:41  #國際
-
-美國全國房地產經紀人協會首席經濟學家勞倫斯·雲（Lawrence Yun）：“即便在過去幾個月房貸利率上升的環境下，房屋銷售依然保持了驚人的穩定性。”“毫無疑問，如果平均房貸利率能回落到6%附近，房地產市場將會蓬勃發展。”
-
----
-
-### 2026-08-11 22:03:40  #MKT News #Macro & Rates #US Economy
-
-U.S. median existing-home price in July was $434,100, up 2.0% from July 2025.
-
----
-
-### 2026-08-11 22:03:31  #國際
-
-市場訊息：烏克蘭已不再通報俄羅斯襲擊期間發射的導彈數量。
-
----
-
-### 2026-08-11 22:03:12  #資料 #市場 #國際
-
-【美國7月成屋銷售中位價創歷史同期新高】美國7月成屋銷售降至三個月低點，居高不下的房價和房貸利率繼續給房地產市場帶來壓力。根據美國全國房地產經紀人協會（NAR）的資料，7月合同成交量環比下降1.7%，摺合年率為406萬套。銷售中位價同比上漲2%，達到434,100美元，創下有記錄以來7月份的最高售價。
 
 ---

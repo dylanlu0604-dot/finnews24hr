@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:55:00_
-_本檔包含 2761 則快訊，約 605582 字_
+_更新時間：2026-08-15 18:32:21_
+_本檔包含 2751 則快訊，約 605599 字_
+
+---
+
+### 2026-08-10 18:59:11  #公司
+
+【實益達：2026年半年度淨利潤3203.14萬元，同比增長107.13%】實益達公告，2026年半年度營業收入3.62億元，同比增長17.12%。歸屬於上市公司股東的淨利潤3203.14萬元，同比增長107.13%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1023.09萬元，同比下降43.97%。上年同期歸屬於上市公司股東的淨利潤1546.44萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-10 18:58:28  #公司 #國際
+
+【石藥集團：猴痘mRNA疫苗獲美國FDA臨床試驗批准】石藥集團公告，本集團與中國科學院微生物研究所合作開發的預防用生物製品1類新藥SYS6037注射液（猴痘mRNA疫苗）已獲得美國食品藥品監督管理局(FDA)批准，可在美國開展臨床試驗。臨床前研究顯示，相較於減毒活疫苗（天壇株），該產品具有更優的免疫原性和保護效力，且對多種正痘病毒抗原表現出廣譜交叉反應。
+
+---
+
+### 2026-08-10 18:58:23  #國際
+
+市場訊息：德黑蘭方面希望伊拉克防止他國利用其領土從事危害伊朗安全的活動。
+
+---
+
+### 2026-08-10 18:57:45  #其他
+
+蒙特利爾銀行將霍尼韋爾航空目標股價從276美元下調至209美元。
+
+---
+
+### 2026-08-10 18:57:17  #公司
+
+【豪鵬科技：定增申請獲中國證監會同意註冊批覆】豪鵬科技公告，公司於2026年8月10日收到中國證監會出具的《關於同意深圳市豪鵬科技股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。
+
+---
+
+### 2026-08-10 18:57:06  #公司
+
+【益生股份：2026年7月白羽肉雞苗銷量5543.03萬隻，銷售收入2.14億元同比增112.79%】益生股份公告，2026年7月白羽肉雞苗銷售數量5543.03萬隻，銷售收入2.14億元，同比變動分別為-2.69%、112.79%，環比變動分別為-1.99%、4.54%；益生909小型白羽肉雞苗銷售數量786.96萬隻，銷售收入1490.7萬元，同比變動分別為53.73%、194.72%；種豬銷售數量6091頭，銷售收入1558.72萬元，同比變動分別為-25.46%、-19.98%。
+
+---
+
+### 2026-08-10 18:56:50  #公司 #焦點
+
+【立訊精密：8月10日行使超額配股權發行1254.19萬股H股】立訊精密公告稱，2026年8月10日，公司根據部分行使超額配股許可權，發行及配發1254.19萬股H股，每股發行價63.28港元，佔發行前現有已發行股份（不包括庫存股份）數目百分比為3.27%。發行後，公司已發行股份（不包括庫存股份）總數由3.83億股增至3.96億股。
+
+---
+
+### 2026-08-10 18:56:28  #其他
+
+蒙特利爾銀行將愛彼迎目標價從146美元上調至165美元。
+
+---
+
+### 2026-08-10 18:56:06  #公司
+
+【嘉戎技術：回覆發行股份購買資產並募資稽核問詢函】嘉戎技術公告稱，公司擬發行股份購買廈門溥玉等19名交易對方持有的杭州藍然技術股份有限公司100%股份，並向廈門溥玉發行股份募集配套資金。7月3日，公司收到深交所稽核問詢函，會同中介機構進行核查、分析和研究後已完成回覆。公司對相關報告書草案及其摘要進行了修訂。本次交易尚需透過深交所稽核並獲證監會同意註冊批覆，能否透過及時間存在不確定性。
+
+---
+
+### 2026-08-10 18:55:45  #公司
+
+【世聯行：持股5%以上股東擬協議轉讓5.02%股份】世聯行公告稱，持股5%以上股東世聯中國與前海誠域於2026年8月9日簽署協議，擬以2.08元/股的價格，透過協議轉讓方式將1億股（佔總股本5.02%）無限售流通股轉給前海誠域，總價款2.08億元。本次轉讓不觸及要約收購，不會導致控股權變化。該事項尚需深交所稽核及中登公司辦理過戶，結果存在不確定性。
+
+---
+
+### 2026-08-10 18:55:44  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bullish
+
+【Zuckerberg outlines AI vision: resume open-weight releases, seek earlier govt cooperation, $1bn data-center community fund】Meta will resume publishing open-weight models and supports allowing model distillation, reversing a pause after last year’s AI reorganization, Zuckerberg says. He proposes closer, proactive cooperation between frontier AI labs and government rather than a fixed 30-day voluntary review window, and urges sharing intermediate training checkpoints with regulators during model training for assessment. Meta plans a $1 billion Future Is For Everyone Fund to compensate communities hosting its data centers and says sustainable infrastructure must deliver local benefits. Internally, Meta will give its board authority to approve safety standards and decide whether new models meet those standards, and Zuckerberg calls for similar board-level and industry-wide governance across the sector. He reiterates a vision of personal AI agents controlled by users—users, not developers, should set an agent’s values—and advocates a fully private mode where Meta or other providers cannot access or grant third-party access to user data.
 
 ---
 
@@ -16543,131 +16609,5 @@ UAE Foreign Ministry said it strongly condemned Iran's attack on an Abu Dhabi Na
 ### 2026-08-08 18:32:47  #焦點 #國際
 
 【伊朗媒體釋出伊朗最高領袖影片】伊朗邁赫爾通訊社8日在社交媒體釋出了一段關於伊朗最高領袖穆傑塔巴·哈梅內伊的影片。（新華社）
-
----
-
-### 2026-08-08 18:31:38  #其他
-
-【河南駐馬店通報：重大刑案嫌犯已被抓獲】駐馬店市“7•30”案件工作專班8月8日通報，河南省駐馬店市西平縣“7•30”故意傷害案件犯罪嫌疑人夏某鋼，於案發前在西平縣柏城街道侯園社群租房放置雜物，2026年7月30日因瑣事與租房處鄰居侯某立發生爭執，後持刀將其刺傷致死。夏某鋼逃竄躲藏過程中，傷害多名無辜群眾。2026年8月8日16時許，駐馬店市“7•30”專案組在漯河市源匯區空冢郭鎮，將犯罪嫌疑人夏某鋼抓獲。目前，相關工作正在進一步開展中。
-
----
-
-### 2026-08-08 18:28:36  #其他
-
-【浙江寧波、台州、溫州、舟山將防颱風應急響應提升為Ⅰ級】受颱風“白海豚”影響，8月8日，浙江寧波、台州、溫州、舟山釋出通知，將防颱風應急響應提升為Ⅰ級。
-
----
-
-### 2026-08-08 18:25:20  #MKT News
-
-UAE state news agency reported Abu Dhabi National Oil Company (ADNOC) said a vessel attack caused no injuries.
-
----
-
-### 2026-08-08 18:25:04  #公司
-
-阿布扎比國家石油公司表示，這起事故未造成人員傷亡。
-
----
-
-### 2026-08-08 18:24:22  #MKT News #Important
-
-UAE state news agency reported Abu Dhabi National Oil Company (ADNOC) said one of its vessels was struck by a missile while transiting the Strait of Hormuz on Saturday morning and that the situation is under control.
-
----
-
-### 2026-08-08 18:24:09  #公司
-
-阿聯酋訊息，阿聯酋阿布扎比國家石油公司（ADNOC）表示，週六早些時候，其一艘船隻在透過霍爾木茲海峽時遭導彈襲擊，目前局勢已得到控制。
-
----
-
-### 2026-08-08 18:23:57  #國際
-
-【伊朗稱重開海峽需美國接受伊朗條件】伊朗革命衛隊發言人今天（8月8日）表示，重新開放霍爾木茲海峽取決於美國完全接受伊朗的條件，與伊朗當前與阿曼的協商情況無關。（CCTV國際時訊）
-
----
-
-### 2026-08-08 18:21:09  #其他
-
-市場訊息：土耳其在襲擊激增後限制黑海船舶交通。
-
----
-
-### 2026-08-08 18:19:55  #MKT News #Important
-
-IRGC spokesman said reopening of the Strait of Hormuz depends on the US fully accepting Iran’s conditions and is not related to talks between Iran and Oman.
-
----
-
-### 2026-08-08 18:18:26  #焦點 #國際
-
-伊朗伊斯蘭革命衛隊（IRGC）發言人表示，霍爾木茲海峽重新開放取決於美國是否全盤接受伊朗的條件；此事與伊朗和阿曼之間的談判無關。
-
----
-
-### 2026-08-08 18:15:22  #其他
-
-【國家海洋預報臺將風暴潮警報升級為橙色】國家海洋預報臺今天（8月8日）16時將風暴潮警報升級為橙色。受颱風“白海豚”影響，預計8月8日下午至9日夜間，江蘇南通到浙江寧波沿海將出現80到180釐米的風暴增水，浙江台州到溫州沿海將出現150到320釐米的風暴增水，福建沿海將出現50到130釐米的風暴增水。浙江省寧波市和台州市的風暴潮預警級別為橙色。
-
----
-
-### 2026-08-08 18:13:21  #國際
-
-【霍爾木茲海峽關閉致伊拉克石油出口驟降75%】當地時間8日，伊拉克石油部長巴西姆·穆罕默德·胡達伊爾表示，由於霍爾木茲海峽關閉，伊拉克石油出口下降了75%。伊拉克正與伊朗就允許其石油出口進行談判，但相關協調尚未生效。美以伊衝突爆發前，伊拉克每天透過霍爾木茲海峽出口約340萬桶石油，衝突爆發後透過該海峽的出口量有所下降。胡達伊爾強調，伊拉克需要“尋找解決方案，以實現石油出口渠道的多元化”。（央視新聞）
-
----
-
-### 2026-08-08 18:12:18  #MKT News #Commodities #Energy
-
-Iraq's oil minister said the new Basra-Feshkhabur oil pipeline is expected to cost no more than $15 billion.
-
----
-
-### 2026-08-08 18:12:18  #MKT News #Commodities #Energy
-
-Iraq's oil minister said the pipeline will include a branch from Haditha to Baniyas, plus pumping stations and storage facilities.
-
----
-
-### 2026-08-08 18:12:09  #其他
-
-伊拉克石油部長表示，新巴士拉-費什卡布林輸油管道的預估成本不超過150億美元。
-
----
-
-### 2026-08-08 18:09:01  #其他
-
-【紅色山洪災害氣象預警：浙江局地發生山洪災害可能性很大】水利部和中國氣象局8月8日18時聯合釋出紅色山洪災害氣象預警：預計，8月8日20時至9日20時，浙江東部部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-08-08 18:08:10  #公司
-
-【星光股份中標龍星控股總部泛光工程專案】據“星光股份”公眾號訊息，近日，星光股份成功中標龍星控股總部泛光工程專案。
-
----
-
-### 2026-08-08 18:04:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq's oil minister told the national news agency the new pipeline has a capacity of 2 mln bpd.
-
----
-
-### 2026-08-08 18:02:43  #公司
-
-【網傳爺爺不泡茶員工與外賣員打架，官方回覆：事發於去年，已處罰涉事員工及負責人】8月8日訊息 今日，爺爺不泡茶釋出關於網傳門店衝突影片的情況說明，回應近期在社交平臺上流傳的涉爺爺不泡茶門店員工與外賣配送人員發生衝突的影片。說明中提到，經核實，網傳影片對應事件發生於2025年10月9日。衝突系門店員工與外賣配送人員因取奶茶、催促等事宜起糾紛，由語言衝突上升到肢體衝突。衝突發生後，門店夥伴第一時間報警，公安機關依法開展調查並組織調解。最終，雙方達成和解，相關事項已妥善處理完畢。事件發生後，公司即刻啟動內部全面覆盤，並對涉事門店負責人、涉事員工進行嚴肅問責處罰。
-
----
-
-### 2026-08-08 17:59:34  #其他
-
-【溫州市釋出防颱風Ⅰ級應急響應】颱風“白海豚”（強颱風級）今天（8日）17時位於溫州偏東方向約442公里的洋麵上，較大可能於9日晚上到10日早晨在蒼南到象山一帶沿海登陸。受其影響，預計今天夜裡溫州市有中到大雨部分暴雨，9日大暴雨部分特大暴雨，10日暴雨到大暴雨。根據《溫州市防汛防颱抗旱應急預案》，經會商研判，溫州市防指決定於8月8日18時起將防颱風應急響應提升為Ⅰ級。（央視新聞）
-
----
-
-### 2026-08-08 17:57:35  #其他
-
-伊拉克石油部長：油田已待命，待戰爭結束後恢復產量。
 
 ---

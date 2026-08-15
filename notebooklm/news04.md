@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-15 17:55:00_
-_本檔包含 3233 則快訊，約 605629 字_
+_更新時間：2026-08-15 18:32:21_
+_本檔包含 3241 則快訊，約 605625 字_
+
+---
+
+### 2026-08-11 22:09:25  #MKT News #WTI #Impact bullish #DXY #XAUUSD
+
+President Trump said the U.S. controls Iran’s funds and has full control over them.
+
+---
+
+### 2026-08-11 22:08:44  #MKT News #WTI #Impact bullish #XAUUSD
+
+President Trump said the US could use "powerful force" to strike Iran.
+
+---
+
+### 2026-08-11 22:08:41  #Trading Economics #Economy #United States #Existing Home Sales #Importance 2
+
+US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 1.7% from the previous month to a seasonally adjusted, annualized rate of 4.06 units in July of 2026, relatively close to market expectations of 4.06 million. “Home sales have been remarkably stable, even amid the rising mortgage rate environment of the past few months,” said NAR Chief Economist Lawrence Yun. “Year-to-date sales are up 2.4% and there’s no doubt that the housing market would be thriving if average mortgage rates were to return near 6%.”
+
+---
+
+### 2026-08-11 22:08:11  #其他
+
+巴西全國交通運輸聯合會（CNT）首輪民調：盧拉支援率 42.4%，弗拉維奧・博索納羅 28.7% 。
+
+---
+
+### 2026-08-11 22:08:04  #國際
+
+美國總統特朗普表示，伊朗通貨膨脹率高達300%，其貨幣一文不值。美國可以用“巨大力量”打擊伊朗。
+
+---
+
+### 2026-08-11 22:07:58  #MKT News
+
+U.S. President Trump said Iran's inflation is as high as 300% and its currency is effectively worthless.
+
+---
+
+### 2026-08-11 22:07:34  #MKT News
+
+US President Trump said Iranians do not pay soldiers' salaries.
+
+---
+
+### 2026-08-11 22:06:40  #國際
+
+市場訊息：蘋果大幅提升印度地區 iPhone 產能。
+
+---
+
+### 2026-08-11 22:06:33  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
+
+【US existing‑home sales fall to three‑month low as high prices, mortgage rates suppress market】Existing‑home sales in the US fell 1.7% MoM in July to a 4.06 mln annualized pace, a three‑month low and in line with the median economist forecast, the National Association of Realtors said. The report said persistently high listing prices and rising mortgage borrowing costs continue to deter buyers. The resale market has hovered around a roughly 4.0 mln annualized pace since late‑2022. NAR chief economist Lawrence Yun said sales have been very steady and that if average mortgage rates returned near 6% the market would undoubtedly boom.
+
+---
+
+### 2026-08-11 22:06:12  #公司
+
+【中國化學工程東華公司簽訂西部新材年產5萬噸聚烯烴彈性體產業示範專案總承包合同】據東華科技訊息，8月5日，中國化學工程東華公司與中國化學工程西部新材舉行年產5萬噸聚烯烴彈性體產業示範專案總承包合同簽約儀式及開工會。專案採用科研總院和東華公司自主研發的高溫溶液聚合法生產工藝和茂金屬催化劑，可生產乙烯-丁烯共聚POE（C4）和乙烯-辛烯共聚POE（C8）兩大體系產品。
+
+---
+
+### 2026-08-11 22:06:00  #MKT News
+
+U.S. officials said Russia released former Marine Robert Gilman.
+
+---
+
+### 2026-08-11 22:05:49  #MKT News
+
+U.S. President Trump said Iranians are very shrewd negotiators.
+
+---
+
+### 2026-08-11 22:05:17  #國際
+
+【俄外交部：俄羅斯與伊朗討論伊核計劃解決前景】俄羅斯外交部表示，俄羅斯與伊朗舉行了軍控、裁軍和防擴散議題外交部間磋商，雙方討論了伊朗核計劃解決前景。
+
+---
+
+### 2026-08-11 22:04:35  #MKT News
+
+Market note: Trump said the U.S. ammunition shortage is caused by Biden sending $300 billion in aid to Ukraine.
+
+---
+
+### 2026-08-11 22:04:21  #國際
+
+特朗普：我們彈藥庫存減少的原因，是喬・拜登向烏克蘭提供了 3000 億美元援助。
+
+---
+
+### 2026-08-11 22:03:41  #國際
+
+美國全國房地產經紀人協會首席經濟學家勞倫斯·雲（Lawrence Yun）：“即便在過去幾個月房貸利率上升的環境下，房屋銷售依然保持了驚人的穩定性。”“毫無疑問，如果平均房貸利率能回落到6%附近，房地產市場將會蓬勃發展。”
+
+---
+
+### 2026-08-11 22:03:40  #MKT News #Macro & Rates #US Economy
+
+U.S. median existing-home price in July was $434,100, up 2.0% from July 2025.
+
+---
+
+### 2026-08-11 22:03:31  #國際
+
+市場訊息：烏克蘭已不再通報俄羅斯襲擊期間發射的導彈數量。
+
+---
+
+### 2026-08-11 22:03:12  #資料 #市場 #國際
+
+【美國7月成屋銷售中位價創歷史同期新高】美國7月成屋銷售降至三個月低點，居高不下的房價和房貸利率繼續給房地產市場帶來壓力。根據美國全國房地產經紀人協會（NAR）的資料，7月合同成交量環比下降1.7%，摺合年率為406萬套。銷售中位價同比上漲2%，達到434,100美元，創下有記錄以來7月份的最高售價。
 
 ---
 
@@ -19419,71 +19533,5 @@ Japan's economic and fiscal policy minister KIUCHI said raising 5 yen to fund a 
 ### 2026-08-10 18:59:22  #公司
 
 【飛豬執行長莊卓然：飛豬正圍繞“3個E”（ Experience、Ecosystem、Enterprise）展開AI佈局】今日飛豬宣佈推出飛豬幫幫，全面升級其面向消費者的AI服務能力。釋出會上，莊卓然表示，飛豬正圍繞“3個E”（AI for Experience，AI for Ecosystem，AI for Enterprise）展開AI佈局，即利用AI提升使用者體驗、繁榮旅行生態、重塑組織形態，這“3個E”相輔相成。“飛豬幫幫”是“AI for Experience”中的新一步。據飛豬技術人員現場介紹，飛豬幫幫依然採用Multi-Agent架構，但較上一代旅行AI具有更強的通用性，這讓它承接新場景的表現更好、接入新能力的效率更高，模型越強、用量越省，誤差積累也更少。它的記憶力也更強大，還能讀懂使用者在長期使用飛豬時形成的習慣，提供個性化程度更高的服務。飛豬資料顯示，截至目前飛豬幫幫交付的結果可用率評分較上一代產品提升了超70%，可比任務的平均耗時減少近10%。據瞭解，飛豬的生產效率也得益於AI而迅速提升。仍以飛豬幫幫為例，在3個月的核心開發週期內，累計上線了148個複雜需求，其中AI生成的程式碼佔比已超85%。（新浪科技）
-
----
-
-### 2026-08-10 18:59:11  #公司
-
-【實益達：2026年半年度淨利潤3203.14萬元，同比增長107.13%】實益達公告，2026年半年度營業收入3.62億元，同比增長17.12%。歸屬於上市公司股東的淨利潤3203.14萬元，同比增長107.13%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1023.09萬元，同比下降43.97%。上年同期歸屬於上市公司股東的淨利潤1546.44萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 18:58:28  #公司 #國際
-
-【石藥集團：猴痘mRNA疫苗獲美國FDA臨床試驗批准】石藥集團公告，本集團與中國科學院微生物研究所合作開發的預防用生物製品1類新藥SYS6037注射液（猴痘mRNA疫苗）已獲得美國食品藥品監督管理局(FDA)批准，可在美國開展臨床試驗。臨床前研究顯示，相較於減毒活疫苗（天壇株），該產品具有更優的免疫原性和保護效力，且對多種正痘病毒抗原表現出廣譜交叉反應。
-
----
-
-### 2026-08-10 18:58:23  #國際
-
-市場訊息：德黑蘭方面希望伊拉克防止他國利用其領土從事危害伊朗安全的活動。
-
----
-
-### 2026-08-10 18:57:45  #其他
-
-蒙特利爾銀行將霍尼韋爾航空目標股價從276美元下調至209美元。
-
----
-
-### 2026-08-10 18:57:17  #公司
-
-【豪鵬科技：定增申請獲中國證監會同意註冊批覆】豪鵬科技公告，公司於2026年8月10日收到中國證監會出具的《關於同意深圳市豪鵬科技股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。
-
----
-
-### 2026-08-10 18:57:06  #公司
-
-【益生股份：2026年7月白羽肉雞苗銷量5543.03萬隻，銷售收入2.14億元同比增112.79%】益生股份公告，2026年7月白羽肉雞苗銷售數量5543.03萬隻，銷售收入2.14億元，同比變動分別為-2.69%、112.79%，環比變動分別為-1.99%、4.54%；益生909小型白羽肉雞苗銷售數量786.96萬隻，銷售收入1490.7萬元，同比變動分別為53.73%、194.72%；種豬銷售數量6091頭，銷售收入1558.72萬元，同比變動分別為-25.46%、-19.98%。
-
----
-
-### 2026-08-10 18:56:50  #公司 #焦點
-
-【立訊精密：8月10日行使超額配股權發行1254.19萬股H股】立訊精密公告稱，2026年8月10日，公司根據部分行使超額配股許可權，發行及配發1254.19萬股H股，每股發行價63.28港元，佔發行前現有已發行股份（不包括庫存股份）數目百分比為3.27%。發行後，公司已發行股份（不包括庫存股份）總數由3.83億股增至3.96億股。
-
----
-
-### 2026-08-10 18:56:28  #其他
-
-蒙特利爾銀行將愛彼迎目標價從146美元上調至165美元。
-
----
-
-### 2026-08-10 18:56:06  #公司
-
-【嘉戎技術：回覆發行股份購買資產並募資稽核問詢函】嘉戎技術公告稱，公司擬發行股份購買廈門溥玉等19名交易對方持有的杭州藍然技術股份有限公司100%股份，並向廈門溥玉發行股份募集配套資金。7月3日，公司收到深交所稽核問詢函，會同中介機構進行核查、分析和研究後已完成回覆。公司對相關報告書草案及其摘要進行了修訂。本次交易尚需透過深交所稽核並獲證監會同意註冊批覆，能否透過及時間存在不確定性。
-
----
-
-### 2026-08-10 18:55:45  #公司
-
-【世聯行：持股5%以上股東擬協議轉讓5.02%股份】世聯行公告稱，持股5%以上股東世聯中國與前海誠域於2026年8月9日簽署協議，擬以2.08元/股的價格，透過協議轉讓方式將1億股（佔總股本5.02%）無限售流通股轉給前海誠域，總價款2.08億元。本次轉讓不觸及要約收購，不會導致控股權變化。該事項尚需深交所稽核及中登公司辦理過戶，結果存在不確定性。
-
----
-
-### 2026-08-10 18:55:44  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bullish
-
-【Zuckerberg outlines AI vision: resume open-weight releases, seek earlier govt cooperation, $1bn data-center community fund】Meta will resume publishing open-weight models and supports allowing model distillation, reversing a pause after last year’s AI reorganization, Zuckerberg says. He proposes closer, proactive cooperation between frontier AI labs and government rather than a fixed 30-day voluntary review window, and urges sharing intermediate training checkpoints with regulators during model training for assessment. Meta plans a $1 billion Future Is For Everyone Fund to compensate communities hosting its data centers and says sustainable infrastructure must deliver local benefits. Internally, Meta will give its board authority to approve safety standards and decide whether new models meet those standards, and Zuckerberg calls for similar board-level and industry-wide governance across the sector. He reiterates a vision of personal AI agents controlled by users—users, not developers, should set an agent’s values—and advocates a fully private mode where Meta or other providers cannot access or grant third-party access to user data.
 
 ---
