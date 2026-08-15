@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-16 02:42:29",
-  "count": 15263,
+  "updated": "2026-08-16 02:46:17",
+  "count": 15269,
   "items": [
+    {
+      "id": "mkt:01a006bd-ef37-7aab-904a-c1fd1c5ab7c2",
+      "time": "2026-08-16 02:45:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period."
+    },
+    {
+      "id": "mkt:01a006bd-b12a-7aab-904a-bab446259c07",
+      "time": "2026-08-16 02:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded."
+    },
+    {
+      "id": "5042422",
+      "time": "2026-08-16 02:43:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。"
+    },
+    {
+      "id": "5042421",
+      "time": "2026-08-16 02:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。"
+    },
+    {
+      "id": "5042420",
+      "time": "2026-08-16 02:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。"
+    },
+    {
+      "id": "mkt:01a006bb-b895-7aab-904a-b6626f5cde27",
+      "time": "2026-08-16 02:42:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation."
+    },
+    {
+      "id": "mkt:01a006bb-65e7-7aab-904a-a8b3d08a1aa7",
+      "time": "2026-08-16 02:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said it took necessary measures to defend its territory after an Iranian pilot violated Qatari airspace."
+    },
     {
       "id": "mkt:01a006ba-eebf-7aab-904a-a6f53eeb8f98",
       "time": "2026-08-16 02:41:49",
@@ -139732,19 +139788,6 @@
         "其他"
       ],
       "text": "美軍中央司令部：截至8月8日，美軍中央司令部已迫使53艘商船改道、癱瘓2艘船隻、登船檢查2艘。美軍同時准許近35艘船隻攜帶人道主義援助物資穿越封鎖區域。"
-    },
-    {
-      "id": "mkt:019fe2af-0f8d-7aab-8fc5-fe691cd3cb27",
-      "time": "2026-08-09 02:42:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament."
     }
   ]
 }

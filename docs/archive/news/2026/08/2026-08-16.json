@@ -1,7 +1,63 @@
 {
   "date": "2026-08-16",
-  "count": 52,
+  "count": 59,
   "items": [
+    {
+      "id": "mkt:01a006bd-ef37-7aab-904a-c1fd1c5ab7c2",
+      "time": "2026-08-16 02:45:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period."
+    },
+    {
+      "id": "mkt:01a006bd-b12a-7aab-904a-bab446259c07",
+      "time": "2026-08-16 02:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded."
+    },
+    {
+      "id": "5042422",
+      "time": "2026-08-16 02:43:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。"
+    },
+    {
+      "id": "5042421",
+      "time": "2026-08-16 02:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。"
+    },
+    {
+      "id": "5042420",
+      "time": "2026-08-16 02:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。"
+    },
+    {
+      "id": "mkt:01a006bb-b895-7aab-904a-b6626f5cde27",
+      "time": "2026-08-16 02:42:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation."
+    },
+    {
+      "id": "mkt:01a006bb-65e7-7aab-904a-a8b3d08a1aa7",
+      "time": "2026-08-16 02:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said it took necessary measures to defend its territory after an Iranian pilot violated Qatari airspace."
+    },
     {
       "id": "mkt:01a006ba-eebf-7aab-904a-a6f53eeb8f98",
       "time": "2026-08-16 02:41:49",
