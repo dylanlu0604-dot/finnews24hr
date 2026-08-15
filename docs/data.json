@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-15 16:34:10",
-  "count": 15316,
+  "updated": "2026-08-15 16:38:13",
+  "count": 15317,
   "items": [
+    {
+      "id": "mkt:01a00491-9f91-7aab-9048-282e5204c18e",
+      "time": "2026-08-15 16:37:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister says Iran will not extend ceasefire with US】Aug 15 — Iran's foreign minister Araghchi told Iranian media he does not intend to extend the ceasefire agreement with the United States and has not decided whether to resume talks. He said the U.S. violated the Iran–U.S. memorandum of understanding and that hostilities have resumed, so there is no extension of the ceasefire. He added that Qatar and Pakistan, acting as mediators, are exchanging information and remain in contact with Iran, but that does not mean Washington and Tehran are negotiating."
+    },
+    {
+      "id": "5042237",
+      "time": "2026-08-15 16:36:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【大疆被列入“黑名單”，美法院裁定重審】據俄羅斯衛星社網站8月15日援引路透社訊息報道，美國聯邦上訴法院日前裁定，下級法院需重新審理中國無人機企業大疆公司被列入五角大樓“中國軍工企業”黑名單一案，認為此前判決依據非保密資訊，存在瑕疵。報道說，哥倫比亞特區巡迴上訴法院裁定指出，下級法院僅依賴公開資料就認定大疆“為中國國防工業基礎作出貢獻”，該判斷有誤。法院要求重審時，下級法院可審查機密檔案，並據此決定是否支援國防部的認定。（參考訊息）"
+    },
+    {
+      "id": "5042236",
+      "time": "2026-08-15 16:33:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長說無意延長停火協議】伊朗外交部長阿拉格齊今天（8月15日）在接受伊朗媒體採訪時表示，伊朗無意延長與美方的停火協議，且尚未決定是否重啟與美國的談判。美國已違反伊美諒解備忘錄，戰火已重燃，不存在所謂的“延長停火協議”。阿拉格齊還說，卡達和巴基斯坦作為調解方正開展交換資訊的工作，並與伊朗保持聯絡，但這並不意味著伊美雙方正在進行談判。此前，美國和伊朗方面6月17日公佈諒解備忘錄正式文字。根據這份檔案，美伊承諾在60天內進行談判並達成最終協議。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a0048c-1bfe-7aab-9048-2213118bac50",
       "time": "2026-08-15 16:31:26",
@@ -140191,22 +140221,6 @@
         "其他"
       ],
       "text": "市場訊息：TalkTalk接近就出售網路業務展開獨家談判。"
-    },
-    {
-      "id": "5031867",
-      "time": "2026-08-08 16:36:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張雪機車：成立小車手培育專項基金，每年捐贈100萬元】8月8日，@張雪機車 宣佈成立小車手培育專項基金，每年捐贈100萬元，定向資助11至16歲的中國青少年摩托車手，每人每年可獲10萬至30萬元，首批計劃資助5至10人。"
-    },
-    {
-      "id": "mkt:019fe084-0475-7aab-8fc3-46046e7ec1e3",
-      "time": "2026-08-08 16:36:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Senate confirmed Todd Blanche as U.S. Attorney General."
     }
   ]
 }
