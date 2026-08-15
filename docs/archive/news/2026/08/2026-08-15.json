@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 688,
+  "count": 690,
   "items": [
+    {
+      "id": "mkt:01a00519-b381-7aab-9048-d362363ab4b1",
+      "time": "2026-08-15 19:06:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 18:54 on Aug 15 an earthquake of approximately magnitude 6.4 occurred near Sumatra, Indonesia; final result subject to the official rapid report."
+    },
+    {
+      "id": "5042284",
+      "time": "2026-08-15 19:05:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【於東來回應“再招聘刑滿釋放人員”：首批刑釋職工無一離職】8月15日，於東來在社交平臺發文回應“胖東來再招聘刑滿釋放人員”一事。於東來透露，胖東來第一批刑釋人員進入崗位以後沒有一人離開、都穩定開心地工作和健康地生活著。他表示，這就是充滿尊重、尊嚴、公平、友善、正義和愛的文化力量。"
+    },
     {
       "id": "5042283",
       "time": "2026-08-15 19:05:04",
