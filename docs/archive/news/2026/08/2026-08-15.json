@@ -1,7 +1,15 @@
 {
   "date": "2026-08-15",
-  "count": 523,
+  "count": 524,
   "items": [
+    {
+      "id": "mkt:01a003a7-8fe4-7aab-9047-6ce9eb1892fb",
+      "time": "2026-08-15 12:21:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Election pressure mounts; Iran is 'testing' Trump, former US envoy says】Former US ambassador to Syria and White House adviser Mark Kinsberg told Al Jazeera that Trump’s decisions are driven primarily by domestic political pressure and the midterm elections rather than long-term strategy. He said Tehran understands Washington’s internal dynamics, is prepared for a protracted campaign and is closely watching US polls. Kinsberg said Iran is 'testing' Trump and betting the US will ultimately abandon its demands and that Iran will secure sanctions relief. He added that rising US public frustration leaves Trump politically unable to admit failure."
+    },
     {
       "id": "5042156",
       "time": "2026-08-15 12:18:51",
