@@ -1,7 +1,47 @@
 {
   "date": "2026-08-16",
-  "count": 28,
+  "count": 32,
   "items": [
+    {
+      "id": "mkt:01a00675-a42c-7aab-904a-482c8feadbe5",
+      "time": "2026-08-16 01:26:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the Israel Defense Forces struck the Hezbollah command post that issued orders for the attack."
+    },
+    {
+      "id": "5042410",
+      "time": "2026-08-16 01:25:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：真主黨在“黃線”範圍內襲擊了以軍士兵。"
+    },
+    {
+      "id": "mkt:01a00675-3f99-7aab-904a-4292768f8724",
+      "time": "2026-08-16 01:25:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Prime Minister Netanyahu said three IDF soldiers were seriously wounded in a Hezbollah attack."
+    },
+    {
+      "id": "5042409",
+      "time": "2026-08-16 01:23:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國隊在第38屆國際資訊學奧賽斬獲3金1銀】第38屆國際資訊學奧林匹克競賽（IOI 2026）15日在烏茲別克首都塔什干落下帷幕。中國代表隊斬獲3金1銀，並取得團體第一名的優異成績。"
+    },
     {
       "id": "mkt:01a00671-65a2-7aab-904a-3f971694c4d6",
       "time": "2026-08-16 01:21:29",
