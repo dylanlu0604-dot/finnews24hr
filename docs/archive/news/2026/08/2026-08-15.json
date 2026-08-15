@@ -1,7 +1,23 @@
 {
   "date": "2026-08-15",
-  "count": 660,
+  "count": 661,
   "items": [
+    {
+      "id": "mkt:01a004ce-4273-7aab-9048-8be50874e033",
+      "time": "2026-08-15 17:43:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "XAUUSD",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a \"new militarism\" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning."
+    },
     {
       "id": "mkt:01a004cc-36bb-7aab-9048-86989a55aebb",
       "time": "2026-08-15 17:41:27",

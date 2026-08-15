@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-15 17:43:05",
-  "count": 15326,
+  "updated": "2026-08-15 17:46:56",
+  "count": 15323,
   "items": [
+    {
+      "id": "mkt:01a004ce-4273-7aab-9048-8be50874e033",
+      "time": "2026-08-15 17:43:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "XAUUSD",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a \"new militarism\" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning."
+    },
     {
       "id": "mkt:01a004cc-36bb-7aab-9048-86989a55aebb",
       "time": "2026-08-15 17:41:27",
@@ -140273,43 +140289,6 @@
         "其他"
       ],
       "text": "【浙江釋出地質災害紅色預警】浙江省自然資源廳、浙江省氣象局2026年08月08日17時25分聯合更新發布地質災害氣象風險紅色預警：08月08日20時至08月09日20時，寧波市（海曙區、鄞州區、奉化區、象山縣、寧海縣、餘姚市）、溫州市（永嘉縣、樂清市）、紹興市（上虞區、新昌縣、嵊州市）、台州市（椒江區、黃巖區、路橋區、三門縣、天台縣、仙居縣、溫嶺市、臨海市、玉環市）等部分地區地質災害氣象風險很高（紅色預警）；杭州市（蕭山區、富陽區）、寧波市（北侖區、鎮海區）、溫州市（鹿城區、龍灣區、甌海區、洞頭區、瑞安市）、紹興市（越城區、柯橋區、諸暨市）、金華市（磐安縣、東陽市）、麗水市（青田縣、縉雲縣）等部分地區地質災害氣象風險高（橙色預警）。"
-    },
-    {
-      "id": "5031894",
-      "time": "2026-08-08 17:46:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長：戰前伊拉克經霍爾木茲海峽的石油出口量為每日340萬桶。"
-    },
-    {
-      "id": "5031893",
-      "time": "2026-08-08 17:46:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長：伊拉克戰前石油出口量為每月1.06億桶。"
-    },
-    {
-      "id": "mkt:019fe0c3-b91d-7aab-8fc3-602071022483",
-      "time": "2026-08-08 17:45:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "Iraq's oil minister told the state news agency Baghdad is negotiating with Iran to secure permission for Iraqi oil exports, but any related arrangements have not yet taken effect."
-    },
-    {
-      "id": "5031892",
-      "time": "2026-08-08 17:45:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊拉克石油部長稱巴格達正與伊朗談判，以允許伊拉克石油出口，但相關安排尚未生效。"
     }
   ]
 }
