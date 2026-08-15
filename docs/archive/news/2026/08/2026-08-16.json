@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 46,
+  "count": 48,
   "items": [
+    {
+      "id": "5042417",
+      "time": "2026-08-16 02:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：以色列必須停止在黎巴嫩南部的侵略行動，並從被佔領地區撤出。"
+    },
+    {
+      "id": "mkt:01a006af-434c-7aab-904a-962c1b689f79",
+      "time": "2026-08-16 02:29:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said it reiterated calls to halt Israeli aggression in southern Lebanon and for Israeli forces to withdraw from occupied territories."
+    },
     {
       "id": "mkt:01a006a4-97b1-7aab-904a-8d43786d6a3a",
       "time": "2026-08-16 02:17:25",
