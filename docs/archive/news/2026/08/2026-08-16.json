@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 81,
+  "count": 82,
   "items": [
+    {
+      "id": "mkt:01a00741-0491-7aab-904b-29f5a0c20a38",
+      "time": "2026-08-16 05:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Severe storms and floods in Indiana kill at least five】As of Aug. 15 local time, Indiana officials said storms and flooding that swept the U.S. state this week have killed at least five people. Heavy rain over the past week pushed several rivers to record highs and forced residents onto higher ground. More than a dozen counties have declared local disaster; the latest damage is concentrated along the river corridor from Hamilton County into Indianapolis’s northern suburbs."
+    },
     {
       "id": "mkt:01a0073a-2114-7aab-904b-247e4019cfb0",
       "time": "2026-08-16 05:00:45",
