@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 22:00:40",
-  "count": 15194,
+  "updated": "2026-08-16 22:04:38",
+  "count": 15193,
   "items": [
+    {
+      "id": "5042869",
+      "time": "2026-08-16 22:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦和卡達的中間人仍在華盛頓與德黑蘭之間傳遞資訊，但尚未取得明顯進展。"
+    },
     {
       "id": "mkt:01a00adc-2860-7aab-904e-54cd47193fcc",
       "time": "2026-08-16 21:56:35",
@@ -138984,22 +138992,6 @@
         "公司"
       ],
       "text": "【瑞士再保險就熱浪風險發出警告】瑞士再保險執行長貝格爾（Andreas Berger）在接受瑞士《週日新蘇黎世報》（NZZ am Sonntag）採訪時表示：”熱浪及其相關死亡人數的風險被低估了。”他補充說：”我們需要提高對由此產生的危險的認識。”貝格爾是在瑞士再保險公佈2026年上半年淨利潤增長9%之後發表上述言論的，他表示現在斷言超額死亡率將如何影響這家總部位於蘇黎世的公司的財務資料還為時過早。"
-    },
-    {
-      "id": "5032591",
-      "time": "2026-08-09 22:01:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【券商綜合測算：宇樹科技中一簽或賺20萬元】8月10日，A股“人形機器人第一股”宇樹科技（688836.SH）將在科創板正式開啟申購。考慮到宇樹科技本次發行流通盤規模較小，又疊加“第一股”的題材光環，多家券商綜合測算顯示，其預計中籤率在萬分之二至萬分之三之間，遠低於長鑫科技0.47%的中籤率水平。資料顯示，2026年以來A股新股上市首日平均漲幅高達276.04%，若以此測算，中一簽宇樹科技賬面盈利有望突破20萬元；若對標年內科創板新股首日466.61%的平均漲幅，單籤盈利可達35.18萬元。（21世紀經濟報道）"
-    },
-    {
-      "id": "mkt:019fe6d3-f8fa-7aab-8fca-43f28d15e64e",
-      "time": "2026-08-09 22:01:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon White Dolphin triggers first numbered flood in Zhejiang canal system】Typhoon White Dolphin (the year’s 13th storm) dropped 104.8 mm of cumulative rain on the eastern Hangjiahu plain. At 20:40 on Aug 9 the Jiaxing gauge on the canal rose to 2.00 m, hitting the flood-number threshold and registering the canal system’s first numbered flood of 2026 (Hangjiahu plain Flood No.1). Forecasts call for concentrated rain over the next 24 hours; together with water-management operations, Jiaxing water level is expected to rise further."
     }
   ]
 }
