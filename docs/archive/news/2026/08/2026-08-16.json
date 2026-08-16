@@ -1,7 +1,24 @@
 {
   "date": "2026-08-16",
-  "count": 481,
+  "count": 483,
   "items": [
+    {
+      "id": "mkt:01a009fa-3bb2-7aab-904d-88f42b808ade",
+      "time": "2026-08-16 17:49:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia M7.7 quake kills 53】Indonesia’s National Disaster Management Agency official Abdul Muhari said on the afternoon of the 16th the M7.7 earthquake has killed 53 people. Local authorities have recorded 995 aftershocks since the quake."
+    },
+    {
+      "id": "5042762",
+      "time": "2026-08-16 17:48:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投： A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉】中信建投釋出研報稱，7月底全球科技去槓桿基本結束，海外科技在宏觀約束緩解和產業景氣驗證下率先修復，市場重新由資金面定價轉向基本面定價。A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉。歷史經驗表明，資金結構主要影響行情節奏，中期方向仍由業績兌現決定。當前算力產業鏈需求仍具韌性，A股科技修復尚未結束，配置上應優先選擇基本面確定性較高的核心資產，同時關注創新藥和工業金屬。行業重點關注：光通訊、伺服器、創新藥、有色金屬、機械、新能源等。"
+    },
     {
       "id": "mkt:01a009f7-7da9-7aab-904d-8444fe30661b",
       "time": "2026-08-16 17:46:49",

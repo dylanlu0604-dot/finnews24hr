@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-16 17:47:23",
+  "updated": "2026-08-16 17:51:16",
   "count": 15210,
   "items": [
+    {
+      "id": "mkt:01a009fa-3bb2-7aab-904d-88f42b808ade",
+      "time": "2026-08-16 17:49:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia M7.7 quake kills 53】Indonesia’s National Disaster Management Agency official Abdul Muhari said on the afternoon of the 16th the M7.7 earthquake has killed 53 people. Local authorities have recorded 995 aftershocks since the quake."
+    },
+    {
+      "id": "5042762",
+      "time": "2026-08-16 17:48:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投： A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉】中信建投釋出研報稱，7月底全球科技去槓桿基本結束，海外科技在宏觀約束緩解和產業景氣驗證下率先修復，市場重新由資金面定價轉向基本面定價。A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉。歷史經驗表明，資金結構主要影響行情節奏，中期方向仍由業績兌現決定。當前算力產業鏈需求仍具韌性，A股科技修復尚未結束，配置上應優先選擇基本面確定性較高的核心資產，同時關注創新藥和工業金屬。行業重點關注：光通訊、伺服器、創新藥、有色金屬、機械、新能源等。"
+    },
     {
       "id": "mkt:01a009f7-7da9-7aab-904d-8444fe30661b",
       "time": "2026-08-16 17:46:49",
@@ -139101,22 +139118,6 @@
         "公司"
       ],
       "text": "【中國廣告協會生成式引擎最佳化（GEO）團體標準第二次徵求意見會議在北京召開】8月6日，中國廣告協會生成式引擎最佳化（GEO）團體標準第二次徵求意見會議在北京召開。中國廣告協會秘書長霍焰、副秘書長崔妍出席會議並深度參與標準研討，來自央視網、抖音集團、阿里巴巴千問大模型、搜狐、360智見、利歐數字、微盟集團、深演智慧、PureblueAI清藍、鈦鎂AI、氧氣科技、沙利文、泰和泰律所、國家廣告研究院等GEO服務企業、網際網路平臺、大模型廠商、主流媒體、專業諮詢機構、律師事務所及學術科研機構等全產業鏈各環節的專家代表參會，圍繞中國廣告協會三項GEO團體標準徵求意見稿展開全面深度研討，為標準完善建言獻策。本次會議對7月8日首次徵求意見以來GEO全產業鏈及監管部門等各方意見進行了全面系統梳理，後續協會將形成送審稿，持續推進標準完善工作，保障標準的權威性、專業性、普適性。"
-    },
-    {
-      "id": "mkt:019fe5ee-28c1-7aab-8fc9-1deda022eeae",
-      "time": "2026-08-09 17:50:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran detains 12 vessels off Bandar Abbas over missing documentation】Iran's Bandar Abbas coast guard said on the 9th it detained 12 vessels in waters off Bandar Abbas after they failed to produce valid documentation. Authorities have not released vessel owners or other details."
-    },
-    {
-      "id": "5032478",
-      "time": "2026-08-09 17:49:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱在阿巴斯港附近海域扣押12艘違規船隻】當地時間9日，伊朗阿巴斯港海岸警衛隊相關負責人表示，伊方在阿巴斯港附近海域扣押了12艘違規船隻。該負責人稱，這些船隻未能提供有效的證明檔案。目前，伊方尚未公佈船隻所屬方等更多資訊。（央視新聞）"
     }
   ]
 }
