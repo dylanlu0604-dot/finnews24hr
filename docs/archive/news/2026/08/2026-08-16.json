@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 556,
+  "count": 557,
   "items": [
+    {
+      "id": "mkt:01a00a79-7e22-7aab-904d-f2810eaec425",
+      "time": "2026-08-16 20:08:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News reports Israeli prime minister NETANYAHU will meet in Israel tomorrow with U.S. envoy Kushner and senior officials from the High-Level Peace Committee."
+    },
     {
       "id": "5042823",
       "time": "2026-08-16 20:05:24",
