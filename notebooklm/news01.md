@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 02:40:31_
-_本檔包含 3077 則快訊，約 601574 字_
+_更新時間：2026-08-17 03:00:57_
+_本檔包含 3074 則快訊，約 601618 字_
+
+---
+
+### 2026-08-17 02:57:18  #MKT News
+
+Tasnim News reported Iranian parliament speaker Ghalibaf said this is the US and Israeli regimes' most painful defeat.
+
+---
+
+### 2026-08-17 02:57:04  #國際
+
+【伊朗議長：美以未能實現任何既定目標，伊朗已贏得這場戰爭】伊朗議長卡利巴夫表示：“在這場戰爭中，我們確實在軍事和政治兩條戰線上都取得了真正的勝利。這並不意味著我們摧毀了美軍。美國和以色列帶著九個明確的、公開宣佈的目標來攻擊我們，但他們在任何層面上都未能實現這九個目標中的任何一個。這是美國和以色列遭遇的最徹底的絕對失敗。在外交領域，同樣如此。”
+
+---
+
+### 2026-08-17 02:56:49  #MKT News
+
+TASNIM NEWS reported Iranian parliament speaker Ghalibaf said Iran has won the war militarily and politically, adding this does not mean Iran destroyed the US military; rather, he said the US and Israel attacked with nine publicly stated objectives and failed to achieve any of them at any level.
+
+---
+
+### 2026-08-17 02:55:10  #MKT News
+
+Qatar's foreign ministry said the prime minister spoke by phone with Syria's foreign minister to discuss recent regional developments and efforts to de-escalate tensions.
+
+---
+
+### 2026-08-17 02:53:48  #MKT News
+
+Qatar's foreign ministry said the prime minister reiterated Doha's full support for efforts to de-escalate tensions and to reach a comprehensive agreement aimed at securing lasting regional peace.
+
+---
+
+### 2026-08-17 02:53:41  #國際
+
+卡達外交部：首相在與敘利亞外交部長的通話中討論了地區最新局勢及緩和局勢的努力。
+
+---
+
+### 2026-08-17 02:53:24  #MKT News #WTI #Impact bearish #Brent
+
+Qatar's foreign ministry said the prime minister urged all parties to pursue dialogue and diplomacy and to implement the understandings in the US-Iran memorandum, including ensuring freedom of navigation in the Strait of Hormuz, to safeguard regional security, preserve gains and bolster stability.
+
+---
+
+### 2026-08-17 02:52:37  #國際
+
+卡達外交部：首相在與沙特外交部長的通話中討論了地區最新局勢及緩和緊張局勢的努力。
+
+---
+
+### 2026-08-17 02:52:27  #MKT News
+
+Qatar's foreign ministry said the prime minister spoke with Jordan's foreign minister and discussed diplomatic efforts aimed at easing regional tensions.
+
+---
+
+### 2026-08-17 02:51:51  #國際
+
+卡達外交部：首相強調各方必須堅持對話，並落實諒解備忘錄中達成的各項共識。
+
+---
+
+### 2026-08-17 02:51:40  #國際
+
+卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。
+
+---
+
+### 2026-08-17 02:43:06  #MKT News
+
+CENTCOM commander Brad Cooper praised USS Lincoln leadership for stepping up and making crew mental health and resilience a leadership priority.
+
+---
+
+### 2026-08-17 02:42:48  #MKT News
+
+CENTCOM commander Brad Cooper said he has long regarded psychological and mental health as components of personal health, equal to physical health and deserving of attention.
+
+---
+
+### 2026-08-17 02:42:13  #MKT News
+
+CENTCOM commander Brad Cooper said the USS Abraham Lincoln currently has one of the lowest counts of mental-health-related cases among the US Navy's 11 active aircraft carriers.
+
+---
+
+### 2026-08-17 02:41:18  #MKT News
+
+CENTCOM commander Brad Cooper said his recent visit aboard the aircraft carrier USS Abraham Lincoln was "stunning" and he hopes every American can see the crew’s performance while carrying out their duties.
 
 ---
 
@@ -18463,115 +18553,5 @@ RIA reported Russian drones destroyed a Ukrainian drone-assembly workshop in the
 ### 2026-08-14 14:47:51  #公司
 
 【亞星錨鏈在海南成立船舶公司】企查查APP顯示，海南亞星一號船舶有限公司成立，法定代表人為劉斌，經營範圍包含從事國際集裝箱船、普通貨船運輸；國際船舶管理業務；國際班輪運輸等。企查查股權穿透顯示，該公司由亞星錨鏈間接全資持股。
-
----
-
-### 2026-08-14 14:47:35  #MKT News #Commodities #Energy
-
-Romania's prime minister said assessments indicate the national electricity supply would not be affected by a full shutdown of the nuclear power plant.
-
----
-
-### 2026-08-14 14:47:13  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時縮量3911億元。
-
----
-
-### 2026-08-14 14:47:10  #其他
-
-羅馬尼亞總理表示，所有評估結果均顯示，核電站完全停運後，該國電力供應不存在任何風險。
-
----
-
-### 2026-08-14 14:47:07  #國際
-
-俄羅斯以替波蘭從事間諜活動為由判處一名俄羅斯公民23年監禁。
-
----
-
-### 2026-08-14 14:46:42  #其他
-
-【深汕特別合作區解除雷電預警和暴雨黃色預警訊號】雷雨雲團已減弱，強降雨趨於結束，深圳市氣象臺2026年08月14日14時45分解除深汕特別合作區、深汕海域雷電預警和暴雨黃色預警訊號。市民仍需注意遠離河道和危險邊坡等。
-
----
-
-### 2026-08-14 14:46:33  #MKT News #Important #Market Regions #Europe & UK
-
-France July CPI final MoM 0.6% vs 0.6% expected; June 0.60%.
-
----
-
-### 2026-08-14 14:46:26  #MKT News #Economic Calendar #Important
-
-France | CPI (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%
-
----
-
-### 2026-08-14 14:45:59  #經濟數據 #歐元區
-
-法國7月CPI同比增長2.1%，預期2.1%。
-
----
-
-### 2026-08-14 14:45:52  #公司 #市場
-
-【南亞據報將再調漲20%銅箔基板基材售價 公司回應】今日市場流傳，南亞向客戶發出漲價函，因應銅箔、玻纖布、樹脂等原材料成本大幅上漲，基板和基材售價將分別調漲20%，自9月1日起生效。南亞今日表示，漲價屬實，今年以來已多次因應材料成本上漲，與客戶協商調整產品價格。不過，該份檔案並非公司正式對外發出的漲價通知，公司並未全面性、一次性向客戶調漲20%價格。
-
----
-
-### 2026-08-14 14:45:41  #MKT News #Market Regions #Europe & UK
-
-France July CPI final YoY 2.1% (consensus 2.1%); June 2.1%.
-
----
-
-### 2026-08-14 14:45:33  #MKT News #Economic Calendar #Important
-
-France | CPI (YoY) (Jul) | actual 2.1% | consensus 2.1% | previous 2.10%
-
----
-
-### 2026-08-14 14:45:25  #MKT News
-
-【US Central Command denies push for new strikes on Iran】US Central Command (CENTCOM) spokesman Tim Hawkins denied reports in the Jerusalem Post on the 14th that CENTCOM commander Brad Cooper was pushing for a new round of strikes on Iran, calling the reports "pure fabrication" and "not true".
-
----
-
-### 2026-08-14 14:45:22  #資料
-
-法國7月CPI環比終值 0.6%，預期 0.6%，初值 0.6%。
-法國7月CPI同比終值 2.1%，預期 2.1%，初值 2.1%。
-法國7月調和CPI環比終值 0.6%，預期 0.6%，初值 0.6%。
-
----
-
-### 2026-08-14 14:45:07  #MKT News #Market Regions #Europe & UK
-
-France July harmonized consumer price index (HICP) final YoY 2.4%; consensus 2.4%; prior 2.4%.
-
----
-
-### 2026-08-14 14:45:07  #MKT News
-
-France July harmonized CPI final, MoM +0.6% (expected +0.6%; June +0.60%).
-
----
-
-### 2026-08-14 14:45:00  #MKT News #Economic Calendar #Important
-
-France | HICP (YoY) (Jul) | actual 2.4% | consensus 2.4% | previous 2.40%
-
----
-
-### 2026-08-14 14:45:00  #MKT News #Economic Calendar #Important
-
-France | HICP (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%
-
----
-
-### 2026-08-14 14:44:57  #Trading Economics #Economy #India #Wholesale Prices YoY #Importance 2
-
-India Wholesale Inflation Below Forecasts — India’s wholesale prices increased 9.78% year-on-year in July 2026, slowing from a 9.87% gain in June, which was the fastest increase since September 2022 and below expectations of 9.95%. The deceleration came due to softer increases in both food and fuel prices amid easing oil prices. The data are based on the new 2022–23 base year, replacing the earlier 2011–12 series. Fuel prices moderated (20.05% vs. 27.41% in June), while food inflation slowed slightly to 5.44% from 5.49% in June, marking the softest increase in three months. Meanwhile, manufacturing inflation accelerated to 8.29% from 7.48%, the fastest pace since June 2022.
 
 ---

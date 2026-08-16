@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 02:40:31_
-_本檔包含 3065 則快訊，約 601923 字_
+_更新時間：2026-08-17 03:00:57_
+_本檔包含 3069 則快訊，約 601390 字_
+
+---
+
+### 2026-08-12 10:16:09  #公司
+
+【採埃孚8擋混動變速器在中國正式量產】8月12日，採埃孚8擋混動變速器在上海採埃孚變速器有限公司正式量產，目前該變速器已獲多家客戶定點。
+
+---
+
+### 2026-08-12 10:15:39  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+【Google Gemma 4 global downloads top 300 million】At Google I/O in Shanghai, Google said downloads of its Gemma 4 series have exceeded 300 million globally. Launched in April, Gemma 4 is designed for advanced reasoning and agentic workflows.
+
+---
+
+### 2026-08-12 10:15:32  #市場 #國際
+
+韓國KOSPI指數擴大漲幅，最新報6569.26點，漲幅3.5%。
+
+---
+
+### 2026-08-12 10:15:18  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Depreciates by 0.28% — Top currency losers are South Korean Won (-0.28%) and Indonesian Rupiah (-0.26%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
+
+---
+
+### 2026-08-12 10:14:52  #公司 #市場
+
+【光纖概念震盪反彈 通鼎互聯漲停】光纖概念盤中震盪反彈，通鼎互聯漲停，長盈通漲超10%，長進光子、永鼎股份、唯科科技、匯源通訊等跟漲。
+
+---
+
+### 2026-08-12 10:14:46  #其他
+
+【長期沒開展業務 瀘州酒協登出旗下白酒標準化委員會】瀘州酒協主動登出了旗下的一個組織。8月11日，瀘州市酒類行業協會（下稱瀘州酒協）釋出通知，表示旗下白酒標準化委員會自成立以來，長期無業務、無活動開展，無續存必要，對此，瀘州酒協研究決定，登出白酒標準化委員會。
+
+---
+
+### 2026-08-12 10:14:08  #市場
+
+SK海力士股價上漲4.1%，至148.4萬韓元。
+
+---
+
+### 2026-08-12 10:14:00  #MKT News
+
+【Trump Wednesday schedule (Beijing time)】Beijing time: 20:00 Executive office; 22:30 meeting with law enforcement and military; 23:00 policy meeting; 00:30 (next day) policy meeting; 02:30 signing ceremony; 04:00 policy meeting; 05:00 policy meeting.
 
 ---
 
@@ -18458,29 +18506,5 @@ Singapore | GDP (YoY) (Q2) | actual 5.9% | consensus 5.9% | previous 5.70%
 ### 2026-08-11 08:04:30  #其他
 
 新加坡貿工部將2026年GDP增長預期從之前的2.0%-4.0%上調至4.5%-5.5%。
-
----
-
-### 2026-08-11 08:04:20  #公司
-
-【報道：Anthropic與雲端計算公司Riot達成91億美元算力協議】知情人士透露，Anthropic PBC已與Riot Platforms Inc.達成一項價值91億美元的協議。Riot是一家比特幣礦業公司，最近也開始銷售人工智慧資料中心算力。Riot於週一早些時候披露，已達成一項為期20年的協議，從其位於德克薩斯州羅克代爾的園區向一家“領先的前沿AI公司”提供191兆瓦的電力容量。知情人士表示，該公司正是Anthropic。
-
----
-
-### 2026-08-11 08:02:28  #國際
-
-美國國務卿魯比奧將於美國東部時間上午9點會見奧地利外交部長。
-
----
-
-### 2026-08-11 08:02:11  #公司
-
-【公安機關依法打擊侵犯公民個人資訊犯罪 】公安部網安局8月11日公佈10起打擊侵犯公民個人資訊犯罪典型案例。這10起典型案例揭露了不法分子透過利誘、駭客攻擊、內外勾結等手段非法獲取大量公民個人資訊並牟利的黑灰產業鏈。例如，楊某國團伙以現金獎勵為誘餌，誘騙群眾實名註冊電商賬號及營業執照後倒賣，為洗錢等犯罪提供便利；吳某通團伙則透過指使“內鬼”入職某房產中介公司，獲取內部系統許可權，再利用技術手段批次爬取並倒賣經紀人資訊，供裝修公司推銷業務使用，並按比例抽成。目前，10起案件涉案人員已被依法處置。公安部網安局提示，廣大群眾要妥善保管、儲存和使用個人資訊，發現個人資訊洩露線索及時向公安機關和有關部門投訴舉報，使用法律武器捍衛自身權益。
-
----
-
-### 2026-08-11 08:02:01  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Extends Rally on Investment Demand — Gold climbed to around $4,400 an ounce on Tuesday, reaching its highest level in two months as investment demand for precious metals improved despite rising inflationary risks and expectations for interest rate hikes fueled by surging oil prices. Chinese institutional investors continued to increase their bullion holdings as a hedge against volatility in other markets, with gold-backed exchange traded funds in China recording their longest streak of inflows in months. China’s central bank also accelerated its gold purchases last month, with reserves rising by about 20 tons in July following an increase of around 15 tons in June, marking the largest monthly addition since October 2023. Meanwhile, uncertainty persisted over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. Investors also awaited a key US inflation reading this week for fresh clues on the Federal Reserve’s policy outlook.
 
 ---

@@ -1,7 +1,117 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 02:40:31_
-_本檔包含 3169 則快訊，約 601030 字_
+_更新時間：2026-08-17 03:00:57_
+_本檔包含 3182 則快訊，約 601731 字_
+
+---
+
+### 2026-08-14 14:47:35  #MKT News #Commodities #Energy
+
+Romania's prime minister said assessments indicate the national electricity supply would not be affected by a full shutdown of the nuclear power plant.
+
+---
+
+### 2026-08-14 14:47:13  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時縮量3911億元。
+
+---
+
+### 2026-08-14 14:47:10  #其他
+
+羅馬尼亞總理表示，所有評估結果均顯示，核電站完全停運後，該國電力供應不存在任何風險。
+
+---
+
+### 2026-08-14 14:47:07  #國際
+
+俄羅斯以替波蘭從事間諜活動為由判處一名俄羅斯公民23年監禁。
+
+---
+
+### 2026-08-14 14:46:42  #其他
+
+【深汕特別合作區解除雷電預警和暴雨黃色預警訊號】雷雨雲團已減弱，強降雨趨於結束，深圳市氣象臺2026年08月14日14時45分解除深汕特別合作區、深汕海域雷電預警和暴雨黃色預警訊號。市民仍需注意遠離河道和危險邊坡等。
+
+---
+
+### 2026-08-14 14:46:33  #MKT News #Important #Market Regions #Europe & UK
+
+France July CPI final MoM 0.6% vs 0.6% expected; June 0.60%.
+
+---
+
+### 2026-08-14 14:46:26  #MKT News #Economic Calendar #Important
+
+France | CPI (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%
+
+---
+
+### 2026-08-14 14:45:59  #經濟數據 #歐元區
+
+法國7月CPI同比增長2.1%，預期2.1%。
+
+---
+
+### 2026-08-14 14:45:52  #公司 #市場
+
+【南亞據報將再調漲20%銅箔基板基材售價 公司回應】今日市場流傳，南亞向客戶發出漲價函，因應銅箔、玻纖布、樹脂等原材料成本大幅上漲，基板和基材售價將分別調漲20%，自9月1日起生效。南亞今日表示，漲價屬實，今年以來已多次因應材料成本上漲，與客戶協商調整產品價格。不過，該份檔案並非公司正式對外發出的漲價通知，公司並未全面性、一次性向客戶調漲20%價格。
+
+---
+
+### 2026-08-14 14:45:41  #MKT News #Market Regions #Europe & UK
+
+France July CPI final YoY 2.1% (consensus 2.1%); June 2.1%.
+
+---
+
+### 2026-08-14 14:45:33  #MKT News #Economic Calendar #Important
+
+France | CPI (YoY) (Jul) | actual 2.1% | consensus 2.1% | previous 2.10%
+
+---
+
+### 2026-08-14 14:45:25  #MKT News
+
+【US Central Command denies push for new strikes on Iran】US Central Command (CENTCOM) spokesman Tim Hawkins denied reports in the Jerusalem Post on the 14th that CENTCOM commander Brad Cooper was pushing for a new round of strikes on Iran, calling the reports "pure fabrication" and "not true".
+
+---
+
+### 2026-08-14 14:45:22  #資料
+
+法國7月CPI環比終值 0.6%，預期 0.6%，初值 0.6%。
+法國7月CPI同比終值 2.1%，預期 2.1%，初值 2.1%。
+法國7月調和CPI環比終值 0.6%，預期 0.6%，初值 0.6%。
+
+---
+
+### 2026-08-14 14:45:07  #MKT News #Market Regions #Europe & UK
+
+France July harmonized consumer price index (HICP) final YoY 2.4%; consensus 2.4%; prior 2.4%.
+
+---
+
+### 2026-08-14 14:45:07  #MKT News
+
+France July harmonized CPI final, MoM +0.6% (expected +0.6%; June +0.60%).
+
+---
+
+### 2026-08-14 14:45:00  #MKT News #Economic Calendar #Important
+
+France | HICP (YoY) (Jul) | actual 2.4% | consensus 2.4% | previous 2.40%
+
+---
+
+### 2026-08-14 14:45:00  #MKT News #Economic Calendar #Important
+
+France | HICP (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%
+
+---
+
+### 2026-08-14 14:44:57  #Trading Economics #Economy #India #Wholesale Prices YoY #Importance 2
+
+India Wholesale Inflation Below Forecasts — India’s wholesale prices increased 9.78% year-on-year in July 2026, slowing from a 9.87% gain in June, which was the fastest increase since September 2022 and below expectations of 9.95%. The deceleration came due to softer increases in both food and fuel prices amid easing oil prices. The data are based on the new 2022–23 base year, replacing the earlier 2011–12 series. Fuel prices moderated (20.05% vs. 27.41% in June), while food inflation slowed slightly to 5.44% from 5.49% in June, marking the softest increase in three months. Meanwhile, manufacturing inflation accelerated to 8.29% from 7.48%, the fastest pace since June 2022.
 
 ---
 
@@ -19055,35 +19165,5 @@ China A-share power sector briefly rallied; Meiyan Jixiang hit the daily limit, 
 ### 2026-08-13 13:47:27  #MKT News
 
 【RMB surpasses HKD to become Hong Kong's top FX pair】The Hong Kong Treasury Markets Association's semiannual FX survey shows average daily FX turnover in Hong Kong was $908.2 bln in April 2026. USD/CNH averaged $274.0 bln/day (30.2% of turnover), overtaking USD/HKD at $240.2 bln (26.4%). Offshore RMB accounted for $259.2 bln of USD/CNH volume and was the main driver. The shift highlights Hong Kong's continued role as an offshore RMB hub.
-
----
-
-### 2026-08-13 13:47:27  #國際
-
-【韓國總統李在明：房地產泡沫已不容忽視】韓國總統李在明週四在與幕僚的一次會議上表示，房地產是韓國面臨的一個重要問題，深刻影響著社會的方方面面，而房地產泡沫已經達到不容忽視的程度。“社會資源長期以來過度集中於房地產領域，加劇了社會兩極分化和不平等現象，”李在明稱。他指出，如果這種情況持續下去，韓國可能會像其他國家一樣，面臨“失去的20年或30年”。李在明表示，韓國必須動用一切可用手段和能力來解決房地產問題，這個問題就像“定時炸彈，威脅著人民生活和國家未來”。韓國必須完善供給、稅收和金融政策以實現市場正常化，推動住房市場恢復穩定。
-
----
-
-### 2026-08-13 13:46:26  #市場
-
-【電工電網板塊異動拉昇 望變電氣漲停】電工電網板塊異動拉昇，望變電氣漲停，明陽電氣、長城科技等股跟漲。
-
----
-
-### 2026-08-13 13:45:29  #國際
-
-【印尼起火客輪救援疏散工作結束 211人獲救】據印度尼西亞地方救援部門13日通報，12日在旅遊勝地巴厘島附近海域起火的印尼客輪人員救援疏散工作已經結束。目前確認有1名印尼籍公民遇難，另有211人獲救。
-
----
-
-### 2026-08-13 13:44:46  #市場
-
-【電力板塊短線拉昇，梅雁吉祥直線漲停】電力板塊短線拉昇，梅雁吉祥直線漲停，大唐發電、協鑫能科、京能電力跟漲。
-
----
-
-### 2026-08-13 13:44:46  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 points, or 0.6%, to close at 13,825 on Thursday, erasing losses from the previous two sessions, tracking an upbeat session on Wall Street overnight as moderated inflation eased expectations of a Fed interest rate hike at its upcoming meeting. The broader index moved from its lowest level since August 3, reached a day earlier, mainly buoyed by gains from financials, consumer staples, healthcare, and industrials. Moderating oil prices also lifted sentiment as easing concerns over inflation reduced expectations of RBNZ monetary policy tightening. The fresh data also fueled sentiment, as the RBNZ's quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, marking the lowest reading since Q4 2025. Among the top movers were ANZ Group (5.2%), Mainfreight (3.1%), Westpac Banking Corp. (2.9%), A2 Milk (1.7%), Fisher & Paykel (1.4%), Freightways Group (1.1%), and Contact Energy (1.1%).
 
 ---

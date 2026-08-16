@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 02:40:31_
-_本檔包含 2958 則快訊，約 600881 字_
+_更新時間：2026-08-17 03:00:57_
+_本檔包含 2955 則快訊，約 601380 字_
+
+---
+
+### 2026-08-13 13:47:27  #國際
+
+【韓國總統李在明：房地產泡沫已不容忽視】韓國總統李在明週四在與幕僚的一次會議上表示，房地產是韓國面臨的一個重要問題，深刻影響著社會的方方面面，而房地產泡沫已經達到不容忽視的程度。“社會資源長期以來過度集中於房地產領域，加劇了社會兩極分化和不平等現象，”李在明稱。他指出，如果這種情況持續下去，韓國可能會像其他國家一樣，面臨“失去的20年或30年”。李在明表示，韓國必須動用一切可用手段和能力來解決房地產問題，這個問題就像“定時炸彈，威脅著人民生活和國家未來”。韓國必須完善供給、稅收和金融政策以實現市場正常化，推動住房市場恢復穩定。
+
+---
+
+### 2026-08-13 13:46:26  #市場
+
+【電工電網板塊異動拉昇 望變電氣漲停】電工電網板塊異動拉昇，望變電氣漲停，明陽電氣、長城科技等股跟漲。
+
+---
+
+### 2026-08-13 13:45:29  #國際
+
+【印尼起火客輪救援疏散工作結束 211人獲救】據印度尼西亞地方救援部門13日通報，12日在旅遊勝地巴厘島附近海域起火的印尼客輪人員救援疏散工作已經結束。目前確認有1名印尼籍公民遇難，另有211人獲救。
+
+---
+
+### 2026-08-13 13:44:46  #市場
+
+【電力板塊短線拉昇，梅雁吉祥直線漲停】電力板塊短線拉昇，梅雁吉祥直線漲停，大唐發電、協鑫能科、京能電力跟漲。
+
+---
+
+### 2026-08-13 13:44:46  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 points, or 0.6%, to close at 13,825 on Thursday, erasing losses from the previous two sessions, tracking an upbeat session on Wall Street overnight as moderated inflation eased expectations of a Fed interest rate hike at its upcoming meeting. The broader index moved from its lowest level since August 3, reached a day earlier, mainly buoyed by gains from financials, consumer staples, healthcare, and industrials. Moderating oil prices also lifted sentiment as easing concerns over inflation reduced expectations of RBNZ monetary policy tightening. The fresh data also fueled sentiment, as the RBNZ's quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, marking the lowest reading since Q4 2025. Among the top movers were ANZ Group (5.2%), Mainfreight (3.1%), Westpac Banking Corp. (2.9%), A2 Milk (1.7%), Fisher & Paykel (1.4%), Freightways Group (1.1%), and Contact Energy (1.1%).
 
 ---
 
@@ -17804,53 +17834,5 @@ South Korea's KOSPI extended gains, up 3.5% at 6,569.26.
 ### 2026-08-12 10:16:29  #MKT News
 
 A-share fiber-optic names were repeatedly active intraday. Tongding Hulian hit the daily trading limit; Changyingtong rose more than 10%. Changjin Photonics, Yongding, Weike Technology and Huiyuan Communications also advanced.
-
----
-
-### 2026-08-12 10:16:09  #公司
-
-【採埃孚8擋混動變速器在中國正式量產】8月12日，採埃孚8擋混動變速器在上海採埃孚變速器有限公司正式量產，目前該變速器已獲多家客戶定點。
-
----
-
-### 2026-08-12 10:15:39  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-【Google Gemma 4 global downloads top 300 million】At Google I/O in Shanghai, Google said downloads of its Gemma 4 series have exceeded 300 million globally. Launched in April, Gemma 4 is designed for advanced reasoning and agentic workflows.
-
----
-
-### 2026-08-12 10:15:32  #市場 #國際
-
-韓國KOSPI指數擴大漲幅，最新報6569.26點，漲幅3.5%。
-
----
-
-### 2026-08-12 10:15:18  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Depreciates by 0.28% — Top currency losers are South Korean Won (-0.28%) and Indonesian Rupiah (-0.26%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
-
----
-
-### 2026-08-12 10:14:52  #公司 #市場
-
-【光纖概念震盪反彈 通鼎互聯漲停】光纖概念盤中震盪反彈，通鼎互聯漲停，長盈通漲超10%，長進光子、永鼎股份、唯科科技、匯源通訊等跟漲。
-
----
-
-### 2026-08-12 10:14:46  #其他
-
-【長期沒開展業務 瀘州酒協登出旗下白酒標準化委員會】瀘州酒協主動登出了旗下的一個組織。8月11日，瀘州市酒類行業協會（下稱瀘州酒協）釋出通知，表示旗下白酒標準化委員會自成立以來，長期無業務、無活動開展，無續存必要，對此，瀘州酒協研究決定，登出白酒標準化委員會。
-
----
-
-### 2026-08-12 10:14:08  #市場
-
-SK海力士股價上漲4.1%，至148.4萬韓元。
-
----
-
-### 2026-08-12 10:14:00  #MKT News
-
-【Trump Wednesday schedule (Beijing time)】Beijing time: 20:00 Executive office; 22:30 meeting with law enforcement and military; 23:00 policy meeting; 00:30 (next day) policy meeting; 02:30 signing ceremony; 04:00 policy meeting; 05:00 policy meeting.
 
 ---

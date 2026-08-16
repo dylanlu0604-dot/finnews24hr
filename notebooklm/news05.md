@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 02:40:31_
-_本檔包含 2942 則快訊，約 600292 字_
+_更新時間：2026-08-17 03:00:57_
+_本檔包含 2941 則快訊，約 601500 字_
+
+---
+
+### 2026-08-11 08:04:20  #公司
+
+【報道：Anthropic與雲端計算公司Riot達成91億美元算力協議】知情人士透露，Anthropic PBC已與Riot Platforms Inc.達成一項價值91億美元的協議。Riot是一家比特幣礦業公司，最近也開始銷售人工智慧資料中心算力。Riot於週一早些時候披露，已達成一項為期20年的協議，從其位於德克薩斯州羅克代爾的園區向一家“領先的前沿AI公司”提供191兆瓦的電力容量。知情人士表示，該公司正是Anthropic。
+
+---
+
+### 2026-08-11 08:02:28  #國際
+
+美國國務卿魯比奧將於美國東部時間上午9點會見奧地利外交部長。
+
+---
+
+### 2026-08-11 08:02:11  #公司
+
+【公安機關依法打擊侵犯公民個人資訊犯罪 】公安部網安局8月11日公佈10起打擊侵犯公民個人資訊犯罪典型案例。這10起典型案例揭露了不法分子透過利誘、駭客攻擊、內外勾結等手段非法獲取大量公民個人資訊並牟利的黑灰產業鏈。例如，楊某國團伙以現金獎勵為誘餌，誘騙群眾實名註冊電商賬號及營業執照後倒賣，為洗錢等犯罪提供便利；吳某通團伙則透過指使“內鬼”入職某房產中介公司，獲取內部系統許可權，再利用技術手段批次爬取並倒賣經紀人資訊，供裝修公司推銷業務使用，並按比例抽成。目前，10起案件涉案人員已被依法處置。公安部網安局提示，廣大群眾要妥善保管、儲存和使用個人資訊，發現個人資訊洩露線索及時向公安機關和有關部門投訴舉報，使用法律武器捍衛自身權益。
+
+---
+
+### 2026-08-11 08:02:01  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Extends Rally on Investment Demand — Gold climbed to around $4,400 an ounce on Tuesday, reaching its highest level in two months as investment demand for precious metals improved despite rising inflationary risks and expectations for interest rate hikes fueled by surging oil prices. Chinese institutional investors continued to increase their bullion holdings as a hedge against volatility in other markets, with gold-backed exchange traded funds in China recording their longest streak of inflows in months. China’s central bank also accelerated its gold purchases last month, with reserves rising by about 20 tons in July following an increase of around 15 tons in June, marking the largest monthly addition since October 2023. Meanwhile, uncertainty persisted over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. Investors also awaited a key US inflation reading this week for fresh clues on the Federal Reserve’s policy outlook.
 
 ---
 
@@ -17733,35 +17757,5 @@ A Yemeni military source said citizens should avoid areas where Saudi forces are
 ### 2026-08-10 03:02:45  #MKT News #XAUUSD #Impact bullish #DXY #Impact mixed #S&P500 #Impact bearish
 
 【Former U.S. security officials warn Trump is following 'dictator's playbook', say U.S. security at risk】The Financial Times reports a former senior U.S. intelligence official warned that in a second term Donald Trump is following a 'dictator's playbook,' weakening checks on his power and degrading U.S. security. Trump, who pledged to fight the 'deep state' on returning to the White House, has sought to suppress critics and demand personal loyalty. Former CIA station chief Paul Kolbe said dictators follow a common script for seizing and exercising power that mirrors current U.S. developments. National security lawyer Mark S. Zaid, whose security clearance was revoked by the White House last year and who is in legal dispute with Trump, warned the president will continue to consolidate power: All safeguards have been removed, the worst is far from over.
-
----
-
-### 2026-08-10 02:58:09  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-RIA reported Russian forces struck the Odesa thermal power plant and seven Ukrainian substations.
-
----
-
-### 2026-08-10 02:57:52  #國際
-
-白宮新聞秘書萊維特：特朗普期待週二前往俄亥俄州參加愛國者運動會。
-
----
-
-### 2026-08-10 02:53:56  #國際
-
-特朗普：激進民主黨人想要開放邊境，還反對選民身份證件要求。美國民眾早已看透他們的真面目。
-
----
-
-### 2026-08-10 02:53:10  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-According to the Financial Times, a former US security official warned President Trump is dismantling the US defensive shield.
-
----
-
-### 2026-08-10 02:50:37  #國際
-
-伊朗革命衛隊：在美國接受德黑蘭的條件之前，戰略要地霍爾木茲海峽不會重新開放。
 
 ---
