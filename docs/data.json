@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-16 20:46:55",
-  "count": 15179,
+  "updated": "2026-08-16 20:50:47",
+  "count": 15182,
   "items": [
+    {
+      "id": "mkt:01a00a9d-95eb-7aab-904e-101577a20f08",
+      "time": "2026-08-16 20:48:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian parliament passes anti-infiltration bill】The Iranian parliament’s presidium spokesman Abbas Goudarzi said on the 16th the legislature passed an anti-infiltration bill to counter infiltration by hostile intelligence agencies and foreign governments or organisations. Hassan Kashkavi, spokesman for the parliament’s National Security and Foreign Policy Committee, said existing laws address espionage but left a legal gap on anti-infiltration that the new bill is intended to fill."
+    },
+    {
+      "id": "5042836",
+      "time": "2026-08-16 20:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦訊息人士：庫什納決定在前往特拉維夫與以色列總理會晤之前，於開羅會見哈馬斯領導層。"
+    },
+    {
+      "id": "5042835",
+      "time": "2026-08-16 20:47:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦訊息人士透露：特朗普女婿庫什納將於稍後在開羅會見哈馬斯領導層，卡達、埃及和土耳其官員將出席。"
+    },
+    {
+      "id": "5042834",
+      "time": "2026-08-16 20:47:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會透過反滲透法案】伊朗議會主席團發言人阿巴斯·古達爾齊16日宣佈，伊朗議會透過了一項反滲透法案，以應對敵方情報機構及外國政府或機構對伊朗的滲透。據伊朗塔斯尼姆通訊社報道，古達爾齊在接受採訪時說，議會當天審議並以183票贊成的投票結果透過了上述法案。據報道，伊朗議會國家安全與外交政策委員會發言人哈桑·卡什卡維在介紹該法案時說，伊朗針對間諜活動已有相關法律，但在反滲透問題上存在法律空白，制定該法案旨在填補這項空白。（新華社）"
+    },
     {
       "id": "mkt:01a00a9a-3443-7aab-904e-0f762d436b48",
       "time": "2026-08-16 20:44:33",
@@ -138869,18 +138901,6 @@
         "公司"
       ],
       "text": "【歐菲光：澄清實控人利益輸送傳聞 已要求撤稿追責】歐菲光公告稱，個別媒體報道質疑實控人蔡榮軍向新菲光、新思考利益輸送，經核查為不實內容。公司與二者研發、經營獨立，關聯交易定價公允。近三年與新菲光僅2023年有123.48萬元出租廠房交易；與新思考的關聯交易屬正常經營所需。公司已要求媒體撤稿，停止傳播並報案追責。"
-    },
-    {
-      "id": "mkt:019fe690-aa8d-7aab-8fca-24a4168cfa35",
-      "time": "2026-08-09 20:47:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Sky News: Yemeni sources say the Houthi group's fourth wave of missile and drone strikes targeted Mocha port and government forces' positions on the city's outskirts."
     }
   ]
 }
