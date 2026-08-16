@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:25:29_
-_本檔包含 2969 則快訊，約 600583 字_
+_更新時間：2026-08-17 01:49:53_
+_本檔包含 2966 則快訊，約 600597 字_
+
+---
+
+### 2026-08-13 13:41:19  #MKT News #Market Themes #AI Revolution
+
+【Sichuan to build 10,000+‑card compute clusters, explore high‑security facilities】Sichuan issued interim measures to accelerate its computing‑power network, backing construction of 10,000+‑card intelligent compute clusters. The province will target major telecom carriers and leading model developers to locate clusters in the Chengdu Plain compute core and the Panxi–NW Sichuan electricity‑compute integration belt, and will use fiscal, financial and green‑power policy tools to support large and extra‑large facilities while seeking inclusion in national special support. It will also explore high‑security compute facilities in tunnels and other concealed environments, inviting telecom SOEs and central enterprises to deploy modular, green, high‑density, high‑security computing sites.
 
 ---
 
@@ -17894,29 +17900,5 @@ China A-share semiconductor materials sector rose; Oulai New Material jumped ove
 ### 2026-08-12 10:08:01  #其他
 
 【李家超：粵港澳大灣區是香港融入和服務國家發展大局的重要切入點】“今年是國家‘十五五’規劃的開局之年。粵港澳大灣區建設是香港融入和服務國家發展大局的重要切入點，特區政府將繼續發揮香港在‘一國兩制’下內聯外通的優勢，積極服務大灣區高質量建設，支援大灣區內地城市以至不同省市的企業‘走出去’，同時把國際高階人才與資金‘引進來’，為發展注入動能。”香港特區行政長官李家超11日說。特區政府就香港第一個五年規劃的公眾諮詢將於8月14日結束，計劃在下個月內公佈具體內容。李家超稱，香港主動對接國家發展戰略，以宏觀和前瞻的視角，勾勒香港未來五年的願景及目標，把握國家“十五五”規劃帶來的龐大機遇，推動香港更好融入和服務國家發展大局。（中新網）
-
----
-
-### 2026-08-12 10:06:09  #公司 #市場
-
-【鋰礦概念異動拉昇 永杉鋰業直線漲停】鋰礦概念盤中異動拉昇，永杉鋰業直線漲停，盛新鋰能、天華新能、國城礦業、大中礦業、融捷股份等跟漲。
-
----
-
-### 2026-08-12 10:05:49  #公司 #市場
-
-【塔牌集團：當前水泥價格已處於階段性底部 再向下的機率很小】塔牌集團(002233)8月11日在電話會議中表示，因近期廣東地區雨水和颱風天氣較多，影響工程施工，導致需求疲軟，珠三角市場水泥價格在7月中旬推漲後又慢慢回落，粵東市場在7月中旬提價後價格相對穩定。當前價格已處於階段性底部，再向下的機率很小，一方面是煤價上漲推動成本壓力，另一方面行業大部分企業虧損嚴重，自救意願增強。下半年能否漲價，主要看9月後天氣好轉帶來的真實需求恢復，按批覆產能進行生產的執行力度以及行業錯峰生產自律意識能否加強。
-
----
-
-### 2026-08-12 10:05:16  #其他
-
-【SpaceXAI推出“全天候數字同事”Grok Bot】SpaceXAI當地時間8月11日宣佈推出AI代理產品Grok Bot，目前處於測試階段。宣告稱，Grok Bot是一支全天候線上的智慧助手團隊，可接受並完成使用者分配給它們的實際工作任務。據介紹，Grok Bot擁有獨立的雲端計算機，可以登入使用者已經在用的工具，跨應用、收件箱等場景工作，任務完成後才返回彙報。
-
----
-
-### 2026-08-12 10:04:41  #公司
-
-【天海防務：目前船舶行業整體處於較好的發展視窗】天海防務(300008)8月11日在機構調研中表示，船舶屬於週期性行業，週期波動客觀存在，很難精準預判行情能夠持續多久。從行業層面看，當前具備多重有利支撐：一是全球海事環保政策持續推進，新能源相關政策帶來行業發展機遇；二是行業進入換船週期，老舊船舶競爭力下降，帶動多用途船等船型更新需求，也是公司現階段訂單的重要來源；三是全球貿易格局多元化，貿易需求具備剛性，地緣政治不確定性也許會給航運及造船行業帶來一定的業務機會。綜合來看，目前行業整體處於較好的發展視窗，但行情持續時長、景氣高度難以做準確預測。
 
 ---

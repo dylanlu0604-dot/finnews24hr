@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:25:29_
-_本檔包含 2938 則快訊，約 600502 字_
+_更新時間：2026-08-17 01:49:53_
+_本檔包含 2934 則快訊，約 600792 字_
+
+---
+
+### 2026-08-11 07:55:51  #公司
+
+【優必選：建議採納H股激勵計劃，擬申請不超26億元銀行信貸】優必選：董事會已於2026年8月10日舉行的董事會會議上決議建議採納H股激勵計劃，授予價每股激勵股份人民幣1元。董事會已決議，本公司擬申請銀行信貸，總計不超過2,600百萬元人民幣。配售事項所得款項未動用部分約為439.43百萬港元。董事會已決議將386.77百萬港元由「投資或收購本集團業務價值鏈內潛在的上游或下游目標，或與相關行業整合或成立合資企業」類別重新分配至「向供應商及服務提供商付款」類別。
+
+---
+
+### 2026-08-11 07:55:01  #MKT News #Commodities #Energy
+
+【Danube levels rise, Hungary's Paks plant begins phased power restoration】Paks nuclear power plant said on the 10th that recent slow rises in Danube water levels improved cooling-water conditions and the plant began a phased power restoration that evening. The plant said it has started raising output at Unit 2. Hungarian Prime Minister Magyar earlier said Danube levels are about 19 cm above last week’s low, enabling the restart procedure.
 
 ---
 
@@ -17703,41 +17715,5 @@ IRNA: The presidency's deputy director for news and communications said Supreme 
 ### 2026-08-10 01:54:04  #國際
 
 特朗普：我們的邊境空前穩固。儘管假新聞百般說辭，驅逐出境的執行規模正創下歷史新高。
-
----
-
-### 2026-08-10 01:44:11  #國際
-
-伊朗最高領袖穆傑塔巴任命穆赫辛·雷扎伊為其在國家安全委員會的代表。
-
----
-
-### 2026-08-10 01:40:54  #MKT News
-
-Russian Defence Ministry says Russian air defenses intercepted and destroyed 285 Ukrainian drones.
-
----
-
-### 2026-08-10 01:35:44  #國際
-
-俄國防部稱，防空力量當天在俄羅斯各地區擊落了285架烏克蘭無人機。
-
----
-
-### 2026-08-10 01:30:31  #國際
-
-美國官員：當伊朗不再捲入戰爭時，將不得不直面黯淡的現實，卻無切實可行的解決方案。
-
----
-
-### 2026-08-10 01:30:18  #國際
-
-美國官員：戰爭使伊朗得以迴避應對自身後果及嚴峻的經濟危機。
-
----
-
-### 2026-08-10 01:25:34  #MKT News
-
-Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor.
 
 ---

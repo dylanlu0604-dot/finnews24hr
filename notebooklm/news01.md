@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:25:29_
-_本檔包含 3061 則快訊，約 601585 字_
+_更新時間：2026-08-17 01:49:53_
+_本檔包含 3065 則快訊，約 601219 字_
+
+---
+
+### 2026-08-17 01:46:07  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #USDJPY
+
+【US weighs sanctions on Brazilian Supreme Court justice Alexandre de Moraes, FT reports】The US government is discussing renewed sanctions on Brazilian Supreme Court justice Alexandre de Moraes, the Financial Times reports. Sources say the Trump administration is again considering action after sanctions were imposed last year on human-rights grounds and later lifted. Renewed measures could push US‑Brazil ties to their lowest level in decades, exacerbate trade and political tensions and increase uncertainty ahead of Brazil’s election.
+
+---
+
+### 2026-08-17 01:39:31  #MKT News
+
+Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones.
+
+---
+
+### 2026-08-17 01:34:25  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Israeli security sources said the Israeli military is preparing for a possible escalation in Lebanon following recent incidents on the Ali Taher Heights.
+
+---
+
+### 2026-08-17 01:30:52  #MKT News
+
+Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades.
+
+---
+
+### 2026-08-17 01:30:47  #國際
+
+美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。
+
+---
+
+### 2026-08-17 01:28:55  #國際
+
+以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。
+
+---
+
+### 2026-08-17 01:28:35  #國際
+
+伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。
+
+---
+
+### 2026-08-17 01:27:31  #MKT News
+
+Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline.
 
 ---
 
@@ -18453,29 +18501,5 @@ ASX 200 Slides 1.6% Over Week — The ASX 200 slipped 73 points, or 0.8%, to clo
 ### 2026-08-14 14:36:32  #其他
 
 【8月14日：“農產品批發價格200指數”比昨天上升0.29個點】據農業農村部監測，8月14日“農產品批發價格200指數”為115.19，比昨天上升0.29個點，“菜籃子”產品批發價格指數為115.63，比昨天上升0.33個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.77元/公斤，比昨天下降0.2%；牛肉67.69元/公斤，比昨天上升0.5%；羊肉64.79元/公斤，比昨天下降0.4%；雞蛋10.21元/公斤，比昨天上升1.0%；白條雞17.26元/公斤，比昨天下降0.9%。重點監測的28種蔬菜平均價格為4.58元/公斤，比昨天上升1.3%；重點監測的6種水果平均價格為7.01元/公斤，比昨天上升3.2%。鯽魚20.55元/公斤，比昨天上升1.2%；鯉魚14.60元/公斤，比昨天上升1.0%；白鰱魚10.41元/公斤，比昨天上升0.9%；大帶魚43.19元/公斤，比昨天上升3.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、鴨梨、大帶魚、大白菜和富士蘋果，幅度分別為6.1%、4.9%、3.9%、3.8%和3.2%；價格降幅前五名的是西瓜、洋白菜、蔥頭、白條雞和羊肉，幅度分別為2.5%、1.5%、1.1%、0.9%和0.4%。
-
----
-
-### 2026-08-14 14:36:27  #MKT News #Market Regions #Greater China
-
-【China wholesale pork average price down 0.2% from yesterday】Ministry of Agriculture and Rural Affairs monitoring—as of 14:00 on Aug 14: Agricultural Wholesale Price 200 Index 115.19, +0.29 points vs yesterday; vegetable-basket wholesale price index 115.63, +0.33 points. National wholesale market average prices: pork 15.77 yuan/kg, -0.2% vs yesterday; beef 67.69 yuan/kg, +0.5%; mutton 64.79 yuan/kg, -0.4%; eggs 10.21 yuan/kg, +1.0%; dressed chicken 17.26 yuan/kg, -0.9%.
-
----
-
-### 2026-08-14 14:35:04  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY
-
-France July CPI m/m final due in 10 minutes.
-
----
-
-### 2026-08-14 14:34:38  #MKT News #Important #Market Regions #Emerging Markets
-
-South Korea's KOSPI rose 11.5% this week, snapping a seven-week losing streak.
-
----
-
-### 2026-08-14 14:34:33  #Trading Economics #Markets #Commodity #Importance 0
-
-Oil Rises on Middle East Risks — Crude oil climbed above $82 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
 
 ---
