@@ -1,7 +1,74 @@
 {
   "date": "2026-08-17",
-  "count": 65,
+  "count": 73,
   "items": [
+    {
+      "id": "mkt:01a00bed-8539-7aab-9050-092c3ca537a2",
+      "time": "2026-08-17 02:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister spoke by phone with Syria's foreign minister to discuss recent regional developments and efforts to de-escalate tensions."
+    },
+    {
+      "id": "mkt:01a00bec-467a-7aab-9050-025e6d9573ad",
+      "time": "2026-08-17 02:53:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister reiterated Doha's full support for efforts to de-escalate tensions and to reach a comprehensive agreement aimed at securing lasting regional peace."
+    },
+    {
+      "id": "5042936",
+      "time": "2026-08-17 02:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相在與敘利亞外交部長的通話中討論了地區最新局勢及緩和局勢的努力。"
+    },
+    {
+      "id": "mkt:01a00beb-e6f8-7aab-904f-f9976847f108",
+      "time": "2026-08-17 02:53:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister urged all parties to pursue dialogue and diplomacy and to implement the understandings in the US-Iran memorandum, including ensuring freedom of navigation in the Strait of Hormuz, to safeguard regional security, preserve gains and bolster stability."
+    },
+    {
+      "id": "5042935",
+      "time": "2026-08-17 02:52:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相在與沙特外交部長的通話中討論了地區最新局勢及緩和緊張局勢的努力。"
+    },
+    {
+      "id": "mkt:01a00beb-0707-7aab-904f-f7f3f57ad734",
+      "time": "2026-08-17 02:52:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the prime minister spoke with Jordan's foreign minister and discussed diplomatic efforts aimed at easing regional tensions."
+    },
+    {
+      "id": "5042934",
+      "time": "2026-08-17 02:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相強調各方必須堅持對話，並落實諒解備忘錄中達成的各項共識。"
+    },
+    {
+      "id": "5042933",
+      "time": "2026-08-17 02:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。"
+    },
     {
       "id": "mkt:01a00be2-797f-7aab-904f-efe37e7c8391",
       "time": "2026-08-17 02:43:06",
