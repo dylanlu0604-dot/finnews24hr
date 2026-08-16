@@ -1,7 +1,46 @@
 {
   "date": "2026-08-17",
-  "count": 9,
+  "count": 13,
   "items": [
+    {
+      "id": "5042909",
+      "time": "2026-08-17 00:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉伯和伊斯蘭國家外長發表宣告：呼籲支援和平委員會為落實路線圖及其第二階段所作的努力，呼籲和平理事會採取緊急措施，維護加沙計劃並防止其受阻。"
+    },
+    {
+      "id": "mkt:01a00b62-efc6-7aab-904e-fe2a6eac92c3",
+      "time": "2026-08-17 00:23:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iraq's finance minister said the closure of the Strait of Hormuz has directly affected the Iraqi economy."
+    },
+    {
+      "id": "mkt:01a00b62-a9c4-7aab-904e-f13360cbc36b",
+      "time": "2026-08-17 00:23:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement urging support for the peace committee’s efforts to implement the roadmap and advance to a second phase."
+    },
+    {
+      "id": "mkt:01a00b61-d0b1-7aab-904e-ed518e6d3711",
+      "time": "2026-08-17 00:22:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukraine strikes major Russian logistics hub; Russia hits Ukrainian military-industrial sites, refineries】Ukraine's defence ministry said on social media that early on the 16th its forces launched a large-scale drone strike on a logistics hub in Moscow region operated by e-commerce platform Wildberries. Russia's defence ministry said its forces struck Ukrainian military-industrial facilities and refineries the same day."
+    },
     {
       "id": "5042908",
       "time": "2026-08-17 00:19:43",
