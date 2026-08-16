@@ -1,7 +1,15 @@
 {
   "date": "2026-08-17",
-  "count": 38,
+  "count": 39,
   "items": [
+    {
+      "id": "mkt:01a00ba8-4216-7aab-904f-5e8c2fa4b4e0",
+      "time": "2026-08-17 01:39:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones."
+    },
     {
       "id": "mkt:01a00ba3-9791-7aab-904f-55043fe55ac3",
       "time": "2026-08-17 01:34:25",
