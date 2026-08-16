@@ -1,7 +1,28 @@
 {
   "date": "2026-08-16",
-  "count": 410,
+  "count": 412,
   "items": [
+    {
+      "id": "mkt:01a0098d-af24-7aab-904c-ff243a19a1fc",
+      "time": "2026-08-16 15:51:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "A NATO military headquarters spokesman said the drone shot down in Romanian airspace appears to be Russian."
+    },
+    {
+      "id": "mkt:01a0098d-80b4-7aab-904c-f356a3dba974",
+      "time": "2026-08-16 15:51:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV cited Yemeni military sources saying government air defenses successfully intercepted a Houthi drone over Mokha, Yemen."
+    },
     {
       "id": "5042705",
       "time": "2026-08-16 15:49:17",
