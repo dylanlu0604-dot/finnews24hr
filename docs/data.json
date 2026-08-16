@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-17 03:40:06",
-  "count": 15241,
+  "updated": "2026-08-17 03:44:01",
+  "count": 15239,
   "items": [
+    {
+      "id": "5042957",
+      "time": "2026-08-17 03:40:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Stripe接近達成超70億美元收購AI公司OpenRouter的協議】據知情人士透露，支付處理公司Stripe Inc.已敲定協議，將以超過70億美元的價格收購OpenRouter Inc.。這筆交易凸顯了企業尋找最具成本效益的AI解決方案的迫切需求，同時也可能為Stripe在快速發展的AI領域奠定更堅實的基礎。OpenRouter提供數百種AI模型的訪問許可權，旨在為開發者匹配最高效、最經濟適用的模型選項。"
+    },
     {
       "id": "mkt:01a00c13-dbc3-7aab-9050-748f485185c4",
       "time": "2026-08-17 03:37:03",
@@ -139318,34 +139326,6 @@
         "公司"
       ],
       "text": "阿聯酋國家石油公司（ADNOC）表示，一艘船隻週六凌晨在霍爾木茲海峽航行時遭到導彈襲擊；公司稱局勢已得到控制，暫無人員受傷報告。"
-    },
-    {
-      "id": "mkt:019fe80d-7af3-7aab-8fcb-8ad8405c251d",
-      "time": "2026-08-10 03:43:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Yemeni sources say Houthi forces have resumed missile and drone attacks on the port of Mocha."
-    },
-    {
-      "id": "5032661",
-      "time": "2026-08-10 03:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：伊朗今天正處於其歷史上最敏感的階段之一，並在地區及世界安全中發揮著無與倫比的作用。"
-    },
-    {
-      "id": "mkt:019fe80c-77ab-7aab-8fcb-828fb6707600",
-      "time": "2026-08-10 03:42:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel reallocates funds earmarked for Intel to add NIS1 bln to defense for urgent arms purchases】Israel approved an emergency appropriation on the 9th to reallocate funds originally earmarked for an Intel project, adding NIS1 bln to the defense budget for urgent weapons procurement. The transfer was described as a specially urgent measure tied to the current state of emergency; a ministerial procurement committee had approved the move on the 6th. Authorities said the reallocation will not breach the existing national budget framework."
     }
   ]
 }
