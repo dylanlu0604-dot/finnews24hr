@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-17 03:20:43",
-  "count": 15231,
+  "updated": "2026-08-17 03:24:34",
+  "count": 15232,
   "items": [
+    {
+      "id": "5042946",
+      "time": "2026-08-17 03:22:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：讚賞美國總統特朗普所發揮的作用，希望他繼續努力，以結束我們人民的苦難併為地區帶來安全。"
+    },
+    {
+      "id": "mkt:01a00c05-8463-7aab-9050-55bbf965726f",
+      "time": "2026-08-17 03:21:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas urged mediators and the peace committee to fulfill their duties and compel Israel to honor its commitments and cease violations."
+    },
+    {
+      "id": "mkt:01a00c05-082f-7aab-9050-4e8b6be13d2e",
+      "time": "2026-08-17 03:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas said it had fully complied with the first phase of the ceasefire agreement while Israel did not comply."
+    },
     {
       "id": "mkt:01a00c04-6ac9-7aab-9050-47bcbfbca12b",
       "time": "2026-08-17 03:20:10",
@@ -139242,22 +139266,6 @@
         "MKT News"
       ],
       "text": "【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend."
-    },
-    {
-      "id": "5032656",
-      "time": "2026-08-10 03:23:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。兩架飛機均被安全護送出該區域，未發生其他意外事件。"
-    },
-    {
-      "id": "mkt:019fe7fa-2710-7aab-8fcb-72c926bdf11d",
-      "time": "2026-08-10 03:22:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISNA reported Iran convened the Economic Relations Coordination Council to discuss the role of northern ports in securing supplies of essential commodities."
     }
   ]
 }

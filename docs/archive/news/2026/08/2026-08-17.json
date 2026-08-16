@@ -1,7 +1,31 @@
 {
   "date": "2026-08-17",
-  "count": 89,
+  "count": 92,
   "items": [
+    {
+      "id": "5042946",
+      "time": "2026-08-17 03:22:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：讚賞美國總統特朗普所發揮的作用，希望他繼續努力，以結束我們人民的苦難併為地區帶來安全。"
+    },
+    {
+      "id": "mkt:01a00c05-8463-7aab-9050-55bbf965726f",
+      "time": "2026-08-17 03:21:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas urged mediators and the peace committee to fulfill their duties and compel Israel to honor its commitments and cease violations."
+    },
+    {
+      "id": "mkt:01a00c05-082f-7aab-9050-4e8b6be13d2e",
+      "time": "2026-08-17 03:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas said it had fully complied with the first phase of the ceasefire agreement while Israel did not comply."
+    },
     {
       "id": "mkt:01a00c04-6ac9-7aab-9050-47bcbfbca12b",
       "time": "2026-08-17 03:20:10",
