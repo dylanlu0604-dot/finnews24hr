@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 09:40:20",
-  "count": 15231,
+  "updated": "2026-08-16 09:44:22",
+  "count": 15225,
   "items": [
+    {
+      "id": "mkt:01a0083b-0c78-7aab-904b-da0a8b53f543",
+      "time": "2026-08-16 09:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Libyan sources told Arab satellite TV that the Al-Harsha power station in Zawara was hit in a drone strike."
+    },
     {
       "id": "5042528",
       "time": "2026-08-16 09:36:13",
@@ -139304,85 +139312,6 @@
         "Energy"
       ],
       "text": "Saudi Energy Ministry said a fire at an Aramco facility in Jazan, Saudi Arabia, has been extinguished."
-    },
-    {
-      "id": "5032223",
-      "time": "2026-08-09 09:43:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川省地震局回應：宜賓高縣5.5級地震後，餘震為什麼持續不斷？】2026年6月29日，宜賓市高縣發生5.5級地震，此後餘震持續活動。截至今日（2026年8月8日），高縣5.5級地震序列共記錄到4級以上地震8次，其中包括7月8日發生的兩次5.0級，7月9日發生的4.9級，8月3日發生的4.8級以及8月7日發生的4.9級等較強有感餘震。記者從四川省地震局瞭解到，這種震級起伏、短期內連續發生的地震序列，屬於典型的震群型地震序列。（央視新聞）"
-    },
-    {
-      "id": "5032222",
-      "time": "2026-08-09 09:42:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國多家企業AI模型測試中“越界”引擔憂】美國開放人工智慧研究中心（OpenAI）釋出宣告稱，最新內部評估結果顯示，即將推出的人工智慧模型“阿斯特拉”在“網路安全活動”方面可能達到有嚴重風險的級別。該公司決定採取包括暫停涉及該模型的部分活動等安全保障措施。近期，美國多家企業陸續承認旗下人工智慧模型在測試中“越界”，引發全球業界廣泛關注。分析認為，此事除了技術失誤等因素外，也存在商業炒作嫌疑。同時，AI風險日益凸顯，全球需要加強安全監管。（央視新聞）"
-    },
-    {
-      "id": "te:economy:573902",
-      "time": "2026-08-09 09:42:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "China Food Prices Fall for Fourth Straight Month — China's food prices dropped 1.5% year-on-year in July 2026, following a 1.6% decline in the previous month and marking the fourth straight month of fall."
-    },
-    {
-      "id": "mkt:019fe42f-1bf5-7aab-8fc7-bbe379e06067",
-      "time": "2026-08-09 09:42:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【NBS: July PPI YoY increase eased】NBS urban statistics chief Dong Lijuan said July PPI rose 3.5% YoY, the YoY gain narrowing 0.6 ppts from June. By industry, major upward contributors included oil and gas extraction (+3.2%), petroleum/coal and other fuel processing (+8.2%), chemical raw materials and chemical products manufacturing (+9.1%), non-ferrous metal ore mining and dressing (+22.6%), non-ferrous metal smelting and rolling (+20.2%) and ferrous metal smelting and rolling (+2.7%) — these six industries together added ~2.55 ppts to PPI YoY. Coal mining and washing (+27.1%), electrical machinery and equipment manufacturing (+5.7%) and computer, communications and other electronic equipment manufacturing (+4.4%) together added ~1.53 ppts. The combined upward pull from these nine industries fell by 0.56 ppts versus June. The largest downward drags were electricity and heat production and supply, automobile manufacturing, non-metallic mineral products, pharmaceutical manufacturing and beverages/refined tea (declines 2.3%–5.7%), which together subtracted ~0.76 ppts from PPI YoY, a 0.05 ppt smaller drag than in June."
-    },
-    {
-      "id": "mkt:019fe42e-cbe7-7aab-8fc7-b629335e84b2",
-      "time": "2026-08-09 09:41:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "【NBS: July PPI down 0.7% MoM】China's producer price index fell 0.7% MoM in July, a 0.4 percentage-point larger decline than June, NBS urban statistics chief Dong Lijuan said. Input-driven falls were the main drag: oil extraction -11.8%, refined petroleum products manufacturing -8.4%, organic chemical raw materials manufacturing -4.2%; non‑ferrous ore mining -2.1% and non‑ferrous metal smelting & rolling -1.7%; those five sectors reduced MoM PPI by about 0.65ppt. Seasonal/weather effects also weighed: construction slowdowns cut prices in ferrous metal smelting & rolling (-0.8%) and non‑metallic mineral products (-0.5%); higher hydropower and wind output pushed hydropower -10.3% and wind power -3.9%; those four sectors lowered MoM PPI by roughly 0.11ppt. Offsetting price gains were seen in new-economy and quality-consumption sectors: smart UAV manufacturing +2.5%, new carbon materials +0.4%, shipbuilding & related equipment manufacturing +0.3%; smart home devices +3.4% and skincare cosmetics manufacturing +0.7%."
-    },
-    {
-      "id": "5032221",
-      "time": "2026-08-09 09:40:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【相距僅數米 澳大利亞悉尼機場兩架客機險相撞】當地時間8月9日早晨，澳大利亞悉尼機場發生一起地面險情：一架準備飛往黃金海岸的捷星航空客機，在滑行過程中與一架正在牽引移動的卡達航空客機險些發生碰撞，兩機一度相距僅數米。捷星客機飛行員發現情況後緊急制動，一名正在進行起飛前檢查的乘務員摔倒受傷，機上100多名乘客無人受傷。涉事卡達航空客機並未搭載乘客。據悉，連日來，由於機場塔臺人員不足，悉尼機場實施空中交通管制措施，大量進出港航班延誤。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe42d-9efd-7aab-8fc7-ae516fe86259",
-      "time": "2026-08-09 09:40:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【NBS: China July CPI +0.5% YoY; gold jewelry +24.6%】National Bureau of Statistics urban division chief statistician Dong Lijuan said China’s CPI rose 0.5% YoY in July, a 0.5ppt slowdown from June. The moderation was mainly driven by weaker gasoline inflation: gasoline prices rose 1.0% YoY, with the rate down 16.0ppt month-on-month, cutting CPI’s upward pull by about 0.45ppt and bringing energy price growth to 0.6%. Excluding energy, industrial consumer goods rose 1.5% YoY, down 0.2ppt and contributing roughly 0.37ppt to CPI. Gold jewelry prices increased 24.6%; personal-care goods +1.7%; household appliances +0.2%; these decelerations together added about 0.13ppt. Computers, tablets and mobile phones rose 17.4%, 17.2% and 8.5% YoY, respectively."
     }
   ]
 }

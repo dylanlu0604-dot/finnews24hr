@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 200,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:01a0083b-0c78-7aab-904b-da0a8b53f543",
+      "time": "2026-08-16 09:41:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Libyan sources told Arab satellite TV that the Al-Harsha power station in Zawara was hit in a drone strike."
+    },
     {
       "id": "5042528",
       "time": "2026-08-16 09:36:13",
