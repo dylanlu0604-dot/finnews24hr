@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 09:32:37",
-  "count": 15239,
+  "updated": "2026-08-16 09:36:29",
+  "count": 15234,
   "items": [
+    {
+      "id": "5042527",
+      "time": "2026-08-16 09:35:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲加速汽車電動化轉型挑戰產業傳統格局】當前，歐洲汽車產業正加速推進電動化轉型。業內人士認為，歐洲汽車產業正在經歷生產、投資、產業鏈等方面的系統性重組，這一過程不僅關乎歐洲汽車產業的未來格局，也將考驗歐洲汽車製造業的全球競爭力。總體來看，歐洲新能源汽車市場正在加速擴大。歐洲汽車製造商協會最新資料顯示，2026年上半年，歐盟新車註冊量同比增長5.7%，純電動汽車註冊量達122.1萬輛，市場份額升至20.7%，高於上年同期的15.6%；與此同時，汽油車與柴油車合計市場份額下滑至29.7%，低於去年同期的37.8%。按國別來看，今年上半年，法國、德國的純電動車註冊量分別同比增長62.9%和48%。（新華社）"
+    },
     {
       "id": "5042526",
       "time": "2026-08-16 09:28:47",
@@ -139403,63 +139411,6 @@
         "其他"
       ],
       "text": "沙特能源部：消防員已撲滅吉贊地區阿美煉油廠一處設施的火情，目前無人員傷亡報告。"
-    },
-    {
-      "id": "mkt:019fe429-9f18-7aab-8fc7-9d4292e1a615",
-      "time": "2026-08-09 09:36:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【NBS: Core CPI up 0.3% MoM, 0.9% YoY in July】NBS chief statistician Dong Lijuan said July headline CPI fell 0.1% MoM and rose 0.5% YoY; core CPI (ex-food and energy) rose 0.3% MoM and 0.9% YoY. Some domestic-sector demand increased, but imported and seasonal factors weighed on producer prices: PPI fell 0.7% MoM and rose 3.5% YoY, with the YoY gain 0.6ppt lower than June."
-    },
-    {
-      "id": "mkt:019fe428-a0fe-7aab-8fc7-956013e11e46",
-      "time": "2026-08-09 09:34:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【National Bureau of Statistics: July month-on-month price changes for goods and services】In July, food, tobacco & alcohol and catering away from home prices were flat month-on-month. Within food, meat prices rose 1.9% MoM, adding about 0.07 percentage point to CPI; pork rose 4.1%. Fresh vegetables rose 1.3% MoM, adding ~0.02 ppt to CPI; fresh fruit fell 3.8% MoM, subtracting ~0.07 ppt; eggs fell 1.7% MoM, subtracting ~0.01 ppt. Of the seven other major categories, education, culture & recreation, medical & healthcare, and household goods & services rose 1.0%, 0.8% and 0.4% MoM respectively; housing and other goods & services were unchanged; transport & communication fell 2.2% and clothing fell 0.4% MoM."
-    },
-    {
-      "id": "5032218",
-      "time": "2026-08-09 09:34:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "國家統計局：工業生產者購進價格中，有色金屬材料及電線類價格上漲19.0%，燃料動力類、化工原料類價格均上漲9.3%，紡織原料類價格上漲3.2%，黑色金屬材料類價格上漲1.4%；建築材料及非金屬類價格下降4.1%，農副產品類價格下降0.8%。"
-    },
-    {
-      "id": "5032217",
-      "time": "2026-08-09 09:34:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "國家統計局：工業生產者購進價格中，燃料動力類、化工原料類價格均下降2.6%，有色金屬材料及電線類價格下降1.4%，黑色金屬材料類、紡織原料類價格均下降0.2%，建築材料及非金屬類價格下降0.1%；農副產品類價格上漲0.5%。"
-    },
-    {
-      "id": "mkt:019fe427-eac7-7aab-8fc7-8e277bc61863",
-      "time": "2026-08-09 09:34:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NBS: July pork prices down 13.3% YoY】China's National Bureau of Statistics said July food, tobacco and dining prices fell 0.8% YoY, subtracting about 0.22 ppt from CPI. Food: meat prices fell 6.0% YoY, reducing CPI by about 0.25 ppt; pork down 13.3% YoY. Dairy -1.5% YoY (-0.02 ppt); fresh fruit -1.1% YoY (-0.02 ppt); eggs +14.4% YoY (+0.07 ppt). Among the seven other major CPI groups, six rose and one fell: other goods & services +5.8% YoY; healthcare +2.9%; clothing +1.4%; education, culture & entertainment +1.3%; household goods & services +0.8%; transport & communication +0.4%; housing -0.3%."
-    },
-    {
-      "id": "5032216",
-      "time": "2026-08-09 09:33:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇樹科技明天申購】8月10日，宇樹科技將在科創板開啟申購，A股“人形機器人第一股”正式登場。宇樹科技證券程式碼688836，網上申購程式碼787836。發行價格為150.80元/股，對應上市時市值約609.93億元，對應2025財年發行後市盈率為219倍。根據公告，宇樹科技網上、網下申購日均為8月10日，繳款截止日均為8月12日，首發募資約61億元。中一簽（500股）需繳款7.54萬元。"
     }
   ]
 }
