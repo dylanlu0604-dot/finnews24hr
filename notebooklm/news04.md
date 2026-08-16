@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 00:38:22_
-_本檔包含 3063 則快訊，約 600920 字_
+_更新時間：2026-08-17 01:25:29_
+_本檔包含 3061 則快訊，約 600880 字_
+
+---
+
+### 2026-08-12 10:04:37  #其他
+
+【蜜雪冰城目前未接到星巴克紙杯抹茶粉等訂單】據報道，前山姆中國CMO張青加入博裕資本負責操刀星巴克中國供應鏈改革，包括尋求與其他供應商合作，降低物料成本等，如紙杯、吸管、抹茶粉都將由蜜雪冰城代工。對此，知情人士表示，蜜雪冰城目前沒有接到任何與星巴克業務相關的訂單。而星巴克中國則稱，對市場傳聞和猜測不作評論，各項業務均在正常執行中。（介面新聞）
+
+---
+
+### 2026-08-12 10:03:51  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Rebound on Tech Boost — The Shanghai Composite edged up 0.1% to around 3,935 on Wednesday, while the Shenzhen Component advanced 0.8% to 14,372, rebounding from the previous session as technology shares led the recovery. Sentiment in the sector improved after CoreWeave posted stronger-than-expected revenue growth and Super Micro Computer issued an upbeat revenue forecast that exceeded expectations. In China, investors also looked ahead to earnings from Semiconductor Manufacturing International Corp. (SMIC), due on Thursday, which could offer fresh insight into chip demand. Zhongji Innolight (1.7%), Eoptolink Technology (2.2%), NAURA Technology (1.6%), and Victory Giant Technology (1.4%) were among the sector's top gainers. Risk appetite was also supported by easing Middle East tensions after Pakistan’s defense minister said that the US and Iran were "close to some sort of arrangement" regarding the Strait of Hormuz, while separate reports suggested talks between Iran and Oman had reached an advanced stage.
+
+---
+
+### 2026-08-12 10:03:45  #公司
+
+【歐冶雲商股份有限公司原黨委副書記、董事、總裁金文海接受紀律審查和監察調查】據中央紀委國家監委駐中國寶武紀檢監察組訊息：歐冶雲商股份有限公司原黨委副書記、董事、總裁金文海涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國寶武紀檢監察組紀律審查和監察調查。
+
+---
+
+### 2026-08-12 10:03:37  #國際
+
+日本內閣改組或將於9月中旬或之後進行。
+
+---
+
+### 2026-08-12 10:03:10  #公司
+
+【南方電網公司謀劃實施進一步深化改革】近日，南方電網公司召開2026年年中工作會議，進一步深化改革工作要點（2026—2029年）及臺賬作為會議成果之一進行釋出。南方電網公司貫徹落實黨中央關於進一步深化國資國企改革的重大決策部署，聚焦破除體制機制障礙和高質量發展中的突出問題，深入研究提出7個方面、22條、123項改革任務舉措，已完成企業內部決策程式，即將正式印發實施。在“十五五”開局之年，南方電網公司新一輪國資國企改革就此拉開帷幕。圍繞構建與“三個新型”建設相適應的新型能源生產關係，提出健全適應新型能源體系的市場價格機制和管理體系、加快南方區域電力市場建設、構建多元主體涉網技術監督體系、加快建設主配微協同的新型電網平臺、建設權威互認的新型電力系統標準體系、加快“電碳算”協同發展和“六網”協同發展等。
 
 ---
 
@@ -18428,47 +18458,5 @@ ANTHROPICO與RIOT平臺達成90億美元的計算協議。
 ### 2026-08-11 07:55:01  #MKT News #Commodities #Energy
 
 【Danube levels rise, Hungary's Paks plant begins phased power restoration】Paks nuclear power plant said on the 10th that recent slow rises in Danube water levels improved cooling-water conditions and the plant began a phased power restoration that evening. The plant said it has started raising output at Unit 2. Hungarian Prime Minister Magyar earlier said Danube levels are about 19 cm above last week’s low, enabling the restart procedure.
-
----
-
-### 2026-08-11 07:53:47  #公司 #國際
-
-【鎧俠控股最大股東變更】鎧俠控股最大股東由東芝變更為美國投資公司貝恩資本。此次排名變化是由於東芝持股減少所致；貝恩資本的持股數量和投票權在變更前後保持不變。東芝持股數量由79,028,900股減少至77,038,200股，投票權佔比由14.48%降至14.12%。貝恩資本持股數量保持不變，仍為77,400,000股，投票權佔比為14.19%。
-
----
-
-### 2026-08-11 07:49:24  #國際
-
-據韓國媒體報道，NAVER 透過風投基金向 Anthropic 投資 100 億韓元。
-
----
-
-### 2026-08-11 07:48:36  #其他
-
-【多瑙河水位回升 匈牙利保克什核電站逐步恢復供電】匈牙利保克什核電站10日說，多瑙河水位近日緩慢回升、冷卻水條件改善，該核電站當晚開始逐步恢復供電。 保克什核電站方面說，該核電站已開始提高2號機組發電功率。(新華社)
-
----
-
-### 2026-08-11 07:48:02  #公司 #國際
-
-【美國上訴法院駁回Meta等科技公司上訴，社媒成癮訴訟繼續推進】美國一家上訴法院週一裁定，允許針對Meta Platforms、Alphabet旗下谷歌、Snap旗下Snapchat等數千起訴訟繼續推進。這些訴訟指控上述公司的產品設計容易令年輕使用者上癮。美國第九巡迴上訴法院駁回了Meta等兩家公司提出的上訴，稱為時過早。這兩家公司尋求推翻下級法院的一項裁定，該裁定要求他們對聯邦法院受理的逾3,000起訴訟應訴。這些公司曾辯稱，1996年《通訊規範法》第230條禁止那些指控其未就平臺成癮性向公眾發出警示的訴訟。該條款通常保護網路公司免於因使用者釋出的內容而受到相關指控。
-
----
-
-### 2026-08-11 07:47:21  #央行 #中國央行
-
-【央行“十五五”改革發展規劃出爐 加快完善中央銀行制度】記者8月10日獲悉，近日中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》，並配套制定出臺了9份相關細分領域的行動方案。《規劃》以加快建設金融強國為目標，加快完善中央銀行制度，並就“十五五”時期中國人民銀行改革發展重點任務作出部署。
-
----
-
-### 2026-08-11 07:46:21  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Yemen's Joint Forces on the west coast said Houthi fighters carried out their tenth drone attack on Mocha port.
-
----
-
-### 2026-08-11 07:44:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Flat After Lackluster Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, as persistent uncertainty over a US-Iran deal and expectations for tighter monetary policy weighed on sentiment. In regular trading on Monday, the Dow fell 0.11%, while the S&P 500 and Nasdaq Composite declined 0.06% and 0.32%, respectively. Oil prices rallied sharply as uncertainty surrounding the Middle East conflict continued to weigh on markets, pushing Treasury yields higher and raising concerns that the Federal Reserve may need to raise interest rates soon despite signs of a cooling labor market. Investors now await key inflation data due this week for further clues on the monetary policy outlook. On the corporate front, earnings are due today from Cardinal Health, CoreWeave and Super Micro Computer, among others.
 
 ---

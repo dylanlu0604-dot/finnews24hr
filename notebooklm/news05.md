@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 00:38:22_
-_本檔包含 2950 則快訊，約 600225 字_
+_更新時間：2026-08-17 01:25:29_
+_本檔包含 2938 則快訊，約 600502 字_
+
+---
+
+### 2026-08-11 07:53:47  #公司 #國際
+
+【鎧俠控股最大股東變更】鎧俠控股最大股東由東芝變更為美國投資公司貝恩資本。此次排名變化是由於東芝持股減少所致；貝恩資本的持股數量和投票權在變更前後保持不變。東芝持股數量由79,028,900股減少至77,038,200股，投票權佔比由14.48%降至14.12%。貝恩資本持股數量保持不變，仍為77,400,000股，投票權佔比為14.19%。
+
+---
+
+### 2026-08-11 07:49:24  #國際
+
+據韓國媒體報道，NAVER 透過風投基金向 Anthropic 投資 100 億韓元。
+
+---
+
+### 2026-08-11 07:48:36  #其他
+
+【多瑙河水位回升 匈牙利保克什核電站逐步恢復供電】匈牙利保克什核電站10日說，多瑙河水位近日緩慢回升、冷卻水條件改善，該核電站當晚開始逐步恢復供電。 保克什核電站方面說，該核電站已開始提高2號機組發電功率。(新華社)
+
+---
+
+### 2026-08-11 07:48:02  #公司 #國際
+
+【美國上訴法院駁回Meta等科技公司上訴，社媒成癮訴訟繼續推進】美國一家上訴法院週一裁定，允許針對Meta Platforms、Alphabet旗下谷歌、Snap旗下Snapchat等數千起訴訟繼續推進。這些訴訟指控上述公司的產品設計容易令年輕使用者上癮。美國第九巡迴上訴法院駁回了Meta等兩家公司提出的上訴，稱為時過早。這兩家公司尋求推翻下級法院的一項裁定，該裁定要求他們對聯邦法院受理的逾3,000起訴訟應訴。這些公司曾辯稱，1996年《通訊規範法》第230條禁止那些指控其未就平臺成癮性向公眾發出警示的訴訟。該條款通常保護網路公司免於因使用者釋出的內容而受到相關指控。
+
+---
+
+### 2026-08-11 07:47:21  #央行 #中國央行
+
+【央行“十五五”改革發展規劃出爐 加快完善中央銀行制度】記者8月10日獲悉，近日中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》，並配套制定出臺了9份相關細分領域的行動方案。《規劃》以加快建設金融強國為目標，加快完善中央銀行制度，並就“十五五”時期中國人民銀行改革發展重點任務作出部署。
+
+---
+
+### 2026-08-11 07:46:21  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemen's Joint Forces on the west coast said Houthi fighters carried out their tenth drone attack on Mocha port.
+
+---
+
+### 2026-08-11 07:44:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Flat After Lackluster Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, as persistent uncertainty over a US-Iran deal and expectations for tighter monetary policy weighed on sentiment. In regular trading on Monday, the Dow fell 0.11%, while the S&P 500 and Nasdaq Composite declined 0.06% and 0.32%, respectively. Oil prices rallied sharply as uncertainty surrounding the Middle East conflict continued to weigh on markets, pushing Treasury yields higher and raising concerns that the Federal Reserve may need to raise interest rates soon despite signs of a cooling labor market. Investors now await key inflation data due this week for further clues on the monetary policy outlook. On the corporate front, earnings are due today from Cardinal Health, CoreWeave and Super Micro Computer, among others.
 
 ---
 
@@ -17697,119 +17739,5 @@ Russian Defence Ministry says Russian air defenses intercepted and destroyed 285
 ### 2026-08-10 01:25:34  #MKT News
 
 Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor.
-
----
-
-### 2026-08-10 01:17:31  #焦點 #國際
-
-【特朗普談伊朗：我們正低調處理】伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”他強調，伊朗經濟處境“十分糟糕”，連軍餉都無力支付。特朗普稱，美國海上封鎖加劇了伊朗政權的經濟危機。與此同時，特朗普表示，油價回落至略高於每桶75美元，美國民眾承受的戰爭帶來的壓力有所緩解。“事情會得到解決的，歷來都是如此。美伊之間的博弈就像一盤國際象棋。”特朗普如此評價美伊雙方的來回交鋒。
-
----
-
-### 2026-08-10 01:15:59  #MKT News
-
-【Iran president Pezeshkian says will maintain communication but will not wait for external powers】Iranian President Pezeshkian said waiting for or relying on external powers would be self-defeating, and no force can replace Iran’s own identity and people. He said Iran will engage in communication with outside parties but will not sit idle or expect others to fulfill its aims.
-
----
-
-### 2026-08-10 01:08:51  #國際
-
-伊朗總統談及外部大國：伊朗若是坐等、寄希望於外部勢力，便已然落敗，沒有任何力量能夠真正取代伊朗自身與本國人民。
-
----
-
-### 2026-08-10 01:08:07  #其他
-
-市場資訊：每日有800萬桶石油經由霍爾木茲海峽南段運出波斯灣。
-
----
-
-### 2026-08-10 01:06:36  #國際
-
-特朗普談及伊朗：我們只是在和他們進行半談判。我們正靜觀伊朗，該國正面臨嚴重通脹，並且資金匱乏。
-
----
-
-### 2026-08-10 01:04:53  #國際
-
-美國官員稱特朗普已被說服，選擇現階段緩和局勢。
-
----
-
-### 2026-08-10 01:01:50  #焦點 #國際
-
-特朗普談及伊朗問題：事情會得到解決，歷來都是如此。
-
----
-
-### 2026-08-10 01:01:38  #國際
-
-特朗普將美國與伊朗之間的你來我往比作一盤國際象棋。
-
----
-
-### 2026-08-10 01:00:54  #國際
-
-特朗普：德黑蘭正面臨經濟困境。
-
----
-
-### 2026-08-10 01:00:48  #市場 #焦點
-
-美國天然氣暗盤突破2.7美元，日內漲幅0.7%。
-
----
-
-### 2026-08-10 01:00:35  #MKT News #Important #XAUUSD #Impact bullish #WTI
-
-Axios reports President Trump said on Iran, 'we are handling it quietly'.
-
----
-
-### 2026-08-10 01:00:25  #國際
-
-特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。
-
----
-
-### 2026-08-10 00:57:49  #焦點 #國際
-
-特朗普：針對伊朗問題“我們正低調處理”。
-
----
-
-### 2026-08-10 00:55:46  #國際
-
-特朗普：雙重司法體系即將終結。隨著託德·布蘭奇被正式確認為司法部長，他一定會確保這一切成為現實。
-
----
-
-### 2026-08-10 00:42:40  #國際
-
-【印尼一賽車比賽發生事故 7人死亡9人重傷】當地時間8月9日，在印尼北蘇拉威西省科塔莫巴古地區舉行的賽車比賽發生嚴重事故。一輛參賽車輛起步後高速行駛，突然失控衝出賽道，撞向終點線附近的觀眾。比賽隨即被叫停，工作人員和相關部門展開救援。截至當晚21時，事故已造成7人死亡、9人重傷。賽事主辦方表示將對事故負責。
-
----
-
-### 2026-08-10 00:40:07  #國際
-
-真主黨就以色列外交部發布包含黎巴嫩南部的地圖作出表態：黎巴嫩若繼續走妥協路線，就要承擔相應後果。
-
----
-
-### 2026-08-10 00:39:47  #國際
-
-真主黨：以色列與黎巴嫩開展直接談判，是公然企圖爭取時間、強行製造既成事實。
-
----
-
-### 2026-08-10 00:39:46  #國際
-
-真主黨：黎巴嫩政府必須停止與以色列直接談判，並向聯合國安理會提交緊急申訴。
-
----
-
-### 2026-08-10 00:39:23  #MKT News
-
-HEZBOLLAH said direct talks between Israel and Lebanon are an undisguised attempt to buy time and impose new facts on the ground.
 
 ---

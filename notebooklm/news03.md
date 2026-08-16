@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 00:38:22_
-_本檔包含 2964 則快訊，約 600433 字_
+_更新時間：2026-08-17 01:25:29_
+_本檔包含 2969 則快訊，約 600583 字_
+
+---
+
+### 2026-08-13 13:41:02  #國際
+
+俄羅斯國防部：俄羅斯夜間擊落362架烏克蘭無人機。
+
+---
+
+### 2026-08-13 13:41:02  #MKT News
+
+Russian Defence Ministry says Russian forces shot down 362 Ukrainian drones overnight.
+
+---
+
+### 2026-08-13 13:40:46  #其他
+
+【四川：建強成都平原算力核心區 打造攀西—川西北算電融合發展帶】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，建強成都平原算力核心區。做強天府資料中心叢集，聚焦成渝國家算力樞紐節點，著力推進成都、雅安、綿陽、德陽為主要承載地的算力核心區建設；打造攀西—川西北算電融合發展帶。支援涼山、甘孜、阿壩、攀枝花依託清潔能源資源，統籌佈局“源網荷儲”一體化大型算力設施，打造重點承接模型訓練、大資料分析、影視渲染、資料備份等非實時、可遷移算力需求的算電融合發展帶。
+
+---
+
+### 2026-08-13 13:40:43  #其他
+
+【四川：佈局建設萬卡級以上智算叢集，探索建設高安全算力設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，支援建設萬卡叢集。重點招引基礎電信運營商、頭部模型大廠在成都平原算力核心區、攀西—川西北算電融合發展帶佈局建設萬卡級以上智算叢集，綜合應用財政、金融、綠色電力等政策工具支援大型、超大型算力設施專案落地；探索建設高安全算力設施。支援利用隧洞等可用安全隱蔽環境，積極引入基礎電信運營商等專業央企，探索佈局模組化、綠色化、高密度、高安全算力設施。積極爭取有關專案納入國家專項支援。
+
+---
+
+### 2026-08-13 13:40:36  #其他
+
+【四川：完善算力園區基礎設施建設 適度超前佈局智算設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，完善算力園區基礎設施建設。推動通訊骨幹網、都會網路與算力園區直連，加快實施“毫秒用算”專項行動計劃。統籌佈局算力園區主供電源和備用電源，支援算力園區建設智慧微電網。透過地方政府專項債券、政策性金融工具等優先支援符合條件的算力園區基礎設施建設。支援建設算力排程平臺、算力超市、詞元（Token）工廠等算力公共服務設施。加強高質量算力供給。圍繞大模型訓練推理、行業模型開發等需求，適度超前佈局智算設施，加快建設萬卡級智算叢集，合理配置通算、智算、超算比例，不斷提高智算佔比。鼓勵重點高校、科研機構、行業龍頭企業及人工智慧領域重點企業優先使用省內算力資源，符合條件的可享受“算力券”支援政策。
+
+---
+
+### 2026-08-13 13:40:36  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+Russian Defence Ministry said Russian forces struck Ukrainian military and port infrastructure overnight at the Danube ports of Reni and Izmail.
+
+---
+
+### 2026-08-13 13:38:12  #國際
+
+俄羅斯國防部稱，俄軍夜間襲擊了多瑙河沿岸烈尼港和伊茲梅爾港的烏克蘭軍事和港口基礎設施。
+
+---
+
+### 2026-08-13 13:37:23  #公司
+
+斯堪斯卡公司簽署價值2.38億美元的弗吉尼亞州資料中心合同。
+
+---
+
+### 2026-08-13 13:37:06  #MKT News #Market Regions #Greater China
+
+China A-share power-grid equipment sector spiked briefly, with Wangbian Electric hitting the daily limit; Liangxin Shares had earlier hit the limit. Yubang Power, Huashengchang, Jinpan Technology, Great Wall Technology and Mingyang Electric also advanced.
+
+---
+
+### 2026-08-13 13:36:57  #觀點 #國際
+
+【摩根士丹利：電力、勞動力瓶頸等因素將在未來幾年持續制約算力供應】摩根士丹利美國主題研究策略師Michelle Weaver日前表示，企業對AI的應用正加速落地，但算力供應受限仍是制約行業增長的瓶頸。"當前算力供應嚴重不足。算力正在成為一種稀缺資源，" Weaver週三在接受媒體採訪時表示。Weaver指出，算力瓶頸主要有兩個原因：一是缺少建設資料中心所需的勞動力，二是為資料中心供電的電力不足。人工智慧資料中心耗電量巨大，而新建發電設施、輸電網路及相關基礎設施需要數年時間。即使考慮到將比特幣挖礦設施改造利用、燃料電池等創新供電方案，Weaver估計仍存在10%至20%的電力缺口，這意味著未來數年算力仍將是受限且高價值的資源。這意味著，即便企業擁有足夠資金購買AI晶片並建設資料中心，但電力或勞動力不足也可能阻礙實際算力上線。除了電力和勞動力不足，政治因素也是AI算力供應擴張的阻力之一。Weaver還指出，隨著中期選舉臨近，日益高漲的反資料中心情緒給該行業帶來了挑戰。
 
 ---
 
@@ -17858,35 +17918,5 @@ China A-share semiconductor materials sector rose; Oulai New Material jumped ove
 ### 2026-08-12 10:04:41  #公司
 
 【天海防務：目前船舶行業整體處於較好的發展視窗】天海防務(300008)8月11日在機構調研中表示，船舶屬於週期性行業，週期波動客觀存在，很難精準預判行情能夠持續多久。從行業層面看，當前具備多重有利支撐：一是全球海事環保政策持續推進，新能源相關政策帶來行業發展機遇；二是行業進入換船週期，老舊船舶競爭力下降，帶動多用途船等船型更新需求，也是公司現階段訂單的重要來源；三是全球貿易格局多元化，貿易需求具備剛性，地緣政治不確定性也許會給航運及造船行業帶來一定的業務機會。綜合來看，目前行業整體處於較好的發展視窗，但行情持續時長、景氣高度難以做準確預測。
-
----
-
-### 2026-08-12 10:04:37  #其他
-
-【蜜雪冰城目前未接到星巴克紙杯抹茶粉等訂單】據報道，前山姆中國CMO張青加入博裕資本負責操刀星巴克中國供應鏈改革，包括尋求與其他供應商合作，降低物料成本等，如紙杯、吸管、抹茶粉都將由蜜雪冰城代工。對此，知情人士表示，蜜雪冰城目前沒有接到任何與星巴克業務相關的訂單。而星巴克中國則稱，對市場傳聞和猜測不作評論，各項業務均在正常執行中。（介面新聞）
-
----
-
-### 2026-08-12 10:03:51  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Rebound on Tech Boost — The Shanghai Composite edged up 0.1% to around 3,935 on Wednesday, while the Shenzhen Component advanced 0.8% to 14,372, rebounding from the previous session as technology shares led the recovery. Sentiment in the sector improved after CoreWeave posted stronger-than-expected revenue growth and Super Micro Computer issued an upbeat revenue forecast that exceeded expectations. In China, investors also looked ahead to earnings from Semiconductor Manufacturing International Corp. (SMIC), due on Thursday, which could offer fresh insight into chip demand. Zhongji Innolight (1.7%), Eoptolink Technology (2.2%), NAURA Technology (1.6%), and Victory Giant Technology (1.4%) were among the sector's top gainers. Risk appetite was also supported by easing Middle East tensions after Pakistan’s defense minister said that the US and Iran were "close to some sort of arrangement" regarding the Strait of Hormuz, while separate reports suggested talks between Iran and Oman had reached an advanced stage.
-
----
-
-### 2026-08-12 10:03:45  #公司
-
-【歐冶雲商股份有限公司原黨委副書記、董事、總裁金文海接受紀律審查和監察調查】據中央紀委國家監委駐中國寶武紀檢監察組訊息：歐冶雲商股份有限公司原黨委副書記、董事、總裁金文海涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國寶武紀檢監察組紀律審查和監察調查。
-
----
-
-### 2026-08-12 10:03:37  #國際
-
-日本內閣改組或將於9月中旬或之後進行。
-
----
-
-### 2026-08-12 10:03:10  #公司
-
-【南方電網公司謀劃實施進一步深化改革】近日，南方電網公司召開2026年年中工作會議，進一步深化改革工作要點（2026—2029年）及臺賬作為會議成果之一進行釋出。南方電網公司貫徹落實黨中央關於進一步深化國資國企改革的重大決策部署，聚焦破除體制機制障礙和高質量發展中的突出問題，深入研究提出7個方面、22條、123項改革任務舉措，已完成企業內部決策程式，即將正式印發實施。在“十五五”開局之年，南方電網公司新一輪國資國企改革就此拉開帷幕。圍繞構建與“三個新型”建設相適應的新型能源生產關係，提出健全適應新型能源體系的市場價格機制和管理體系、加快南方區域電力市場建設、構建多元主體涉網技術監督體系、加快建設主配微協同的新型電網平臺、建設權威互認的新型電力系統標準體系、加快“電碳算”協同發展和“六網”協同發展等。
 
 ---

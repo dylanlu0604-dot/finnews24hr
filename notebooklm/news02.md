@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 00:38:22_
-_本檔包含 3172 則快訊，約 600801 字_
+_更新時間：2026-08-17 01:25:29_
+_本檔包含 3164 則快訊，約 600104 字_
+
+---
+
+### 2026-08-14 14:33:52  #公司
+
+【林洋能源與馬來西亞沙撈越SMD達成戰略合作】據林洋能源訊息，8月13日，林洋能源與馬來西亞沙撈越州國有半導體企業SMD正式簽署戰略合作協議（MOA）。根據協議，雙方將重點推進半導體技術與新能源裝備深度融合，實現產品升級、效能提升與本地化適配；同時聯合開發東南亞光儲專案，共建“沙撈越晶片研發+中國製造整合+東盟及OIC市場落地”的跨境產業鏈體系。
+
+---
+
+### 2026-08-14 14:33:51  #Trading Economics #Markets #Commodity #Importance 2
+
+Brent Rises on Middle East Risks — Brent crude climbed toward $88 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
 
 ---
 
@@ -19043,65 +19055,5 @@ NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 p
 ### 2026-08-13 13:41:19  #MKT News #Market Themes #AI Revolution
 
 【Sichuan to build 10,000+‑card compute clusters, explore high‑security facilities】Sichuan issued interim measures to accelerate its computing‑power network, backing construction of 10,000+‑card intelligent compute clusters. The province will target major telecom carriers and leading model developers to locate clusters in the Chengdu Plain compute core and the Panxi–NW Sichuan electricity‑compute integration belt, and will use fiscal, financial and green‑power policy tools to support large and extra‑large facilities while seeking inclusion in national special support. It will also explore high‑security compute facilities in tunnels and other concealed environments, inviting telecom SOEs and central enterprises to deploy modular, green, high‑density, high‑security computing sites.
-
----
-
-### 2026-08-13 13:41:02  #國際
-
-俄羅斯國防部：俄羅斯夜間擊落362架烏克蘭無人機。
-
----
-
-### 2026-08-13 13:41:02  #MKT News
-
-Russian Defence Ministry says Russian forces shot down 362 Ukrainian drones overnight.
-
----
-
-### 2026-08-13 13:40:46  #其他
-
-【四川：建強成都平原算力核心區 打造攀西—川西北算電融合發展帶】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，建強成都平原算力核心區。做強天府資料中心叢集，聚焦成渝國家算力樞紐節點，著力推進成都、雅安、綿陽、德陽為主要承載地的算力核心區建設；打造攀西—川西北算電融合發展帶。支援涼山、甘孜、阿壩、攀枝花依託清潔能源資源，統籌佈局“源網荷儲”一體化大型算力設施，打造重點承接模型訓練、大資料分析、影視渲染、資料備份等非實時、可遷移算力需求的算電融合發展帶。
-
----
-
-### 2026-08-13 13:40:43  #其他
-
-【四川：佈局建設萬卡級以上智算叢集，探索建設高安全算力設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，支援建設萬卡叢集。重點招引基礎電信運營商、頭部模型大廠在成都平原算力核心區、攀西—川西北算電融合發展帶佈局建設萬卡級以上智算叢集，綜合應用財政、金融、綠色電力等政策工具支援大型、超大型算力設施專案落地；探索建設高安全算力設施。支援利用隧洞等可用安全隱蔽環境，積極引入基礎電信運營商等專業央企，探索佈局模組化、綠色化、高密度、高安全算力設施。積極爭取有關專案納入國家專項支援。
-
----
-
-### 2026-08-13 13:40:36  #其他
-
-【四川：完善算力園區基礎設施建設 適度超前佈局智算設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，完善算力園區基礎設施建設。推動通訊骨幹網、都會網路與算力園區直連，加快實施“毫秒用算”專項行動計劃。統籌佈局算力園區主供電源和備用電源，支援算力園區建設智慧微電網。透過地方政府專項債券、政策性金融工具等優先支援符合條件的算力園區基礎設施建設。支援建設算力排程平臺、算力超市、詞元（Token）工廠等算力公共服務設施。加強高質量算力供給。圍繞大模型訓練推理、行業模型開發等需求，適度超前佈局智算設施，加快建設萬卡級智算叢集，合理配置通算、智算、超算比例，不斷提高智算佔比。鼓勵重點高校、科研機構、行業龍頭企業及人工智慧領域重點企業優先使用省內算力資源，符合條件的可享受“算力券”支援政策。
-
----
-
-### 2026-08-13 13:40:36  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-Russian Defence Ministry said Russian forces struck Ukrainian military and port infrastructure overnight at the Danube ports of Reni and Izmail.
-
----
-
-### 2026-08-13 13:38:12  #國際
-
-俄羅斯國防部稱，俄軍夜間襲擊了多瑙河沿岸烈尼港和伊茲梅爾港的烏克蘭軍事和港口基礎設施。
-
----
-
-### 2026-08-13 13:37:23  #公司
-
-斯堪斯卡公司簽署價值2.38億美元的弗吉尼亞州資料中心合同。
-
----
-
-### 2026-08-13 13:37:06  #MKT News #Market Regions #Greater China
-
-China A-share power-grid equipment sector spiked briefly, with Wangbian Electric hitting the daily limit; Liangxin Shares had earlier hit the limit. Yubang Power, Huashengchang, Jinpan Technology, Great Wall Technology and Mingyang Electric also advanced.
-
----
-
-### 2026-08-13 13:36:57  #觀點 #國際
-
-【摩根士丹利：電力、勞動力瓶頸等因素將在未來幾年持續制約算力供應】摩根士丹利美國主題研究策略師Michelle Weaver日前表示，企業對AI的應用正加速落地，但算力供應受限仍是制約行業增長的瓶頸。"當前算力供應嚴重不足。算力正在成為一種稀缺資源，" Weaver週三在接受媒體採訪時表示。Weaver指出，算力瓶頸主要有兩個原因：一是缺少建設資料中心所需的勞動力，二是為資料中心供電的電力不足。人工智慧資料中心耗電量巨大，而新建發電設施、輸電網路及相關基礎設施需要數年時間。即使考慮到將比特幣挖礦設施改造利用、燃料電池等創新供電方案，Weaver估計仍存在10%至20%的電力缺口，這意味著未來數年算力仍將是受限且高價值的資源。這意味著，即便企業擁有足夠資金購買AI晶片並建設資料中心，但電力或勞動力不足也可能阻礙實際算力上線。除了電力和勞動力不足，政治因素也是AI算力供應擴張的阻力之一。Weaver還指出，隨著中期選舉臨近，日益高漲的反資料中心情緒給該行業帶來了挑戰。
 
 ---

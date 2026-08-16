@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 00:38:22_
-_本檔包含 3050 則快訊，約 600710 字_
+_更新時間：2026-08-17 01:25:29_
+_本檔包含 3061 則快訊，約 601585 字_
+
+---
+
+### 2026-08-17 01:24:32  #國際
+
+【WTT歐洲大滿貫：王曼昱奪得女單冠軍】當地時間8月16日，在瑞典馬爾默舉行的WTT歐洲大滿貫女單決賽中，中國選手王曼昱4:2戰勝隊友王藝迪，獲得冠軍。（央視新聞）
+
+---
+
+### 2026-08-17 01:17:25  #市場
+
+【今年A股再融資規模已超過4700億元】整體來看，年內再融資市場熱度持續攀升。據統計，截至8月17日，年內186個再融資專案上市，同比增長超50%。其中包括139個定增專案、47個可轉債專案。年內再融資專案合計募集資金超4700億元，其中7個專案募集資金超百億元，還有75個專案超10億元。
+
+---
+
+### 2026-08-17 01:15:56  #市場 #國際
+
+伊朗第一副總統：敵方企圖透過經濟戰來彌補其在軍事上的失敗，我們必須予以應對；物價上漲已達到令人惱火的程度，敵方的戰略正是企圖利用這一點。
+
+---
+
+### 2026-08-17 01:13:47  #國際
+
+以色列：軍隊正準備可能返回黎巴嫩進行數天的戰鬥。
+
+---
+
+### 2026-08-17 01:09:30  #MKT News
+
+Iran's first vice president said rising prices have reached an alarming level and that enemies are exploiting the situation.
+
+---
+
+### 2026-08-17 01:08:26  #MKT News
+
+Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond.
+
+---
+
+### 2026-08-17 00:54:55  #MKT News #Market Regions #Europe & UK
+
+【U.S. denies shift in stance on Malvinas (Falklands) sovereignty dispute】U.S. ambassador to Argentina Peter Lamelas on the 15th denied the U.S. government had changed its position on the Malvinas (Falklands) sovereignty dispute. In an interview with Argentine broadcaster TN he said the U.S. remains "neutral" in the dispute and "that has not changed." Media reports said a leaked U.S. Defense Department email in April indicated President Trump was considering no longer backing the U.K.'s position on the islands. Lamelas said he had heard of the "internal email" but was not aware of its contents.
+
+---
+
+### 2026-08-17 00:54:27  #國際
+
+【美方否認在馬島主權爭端中改變立場】美國駐阿根廷大使彼得·拉梅拉斯15日否認美國政府改變了在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中的立場。拉梅拉斯在接受阿根廷媒體TN電視臺採訪時聲稱，美國政府仍在馬爾維納斯群島主權爭端中“保持中立”，“這一點沒有改變”。（新華社）
+
+---
+
+### 2026-08-17 00:51:37  #其他
+
+【雲南就低價遊宰客問題展開調查】8月16日晚，總檯《財經調查》曝光低價遊宰客陷阱 。其中，雲南昆明、西雙版納等地一些旅遊行程豐富、標註純玩無購物、無自費的跟團遊產品，頻頻出現消費糾紛。旅遊實際行程與商家宣傳嚴重不符，隱性購物、強制消費、臨時加價等問題時有發生。針對節目曝光問題，雲南省文化和旅遊廳高度重視，通報立即組織有關州市對涉事的旅行社、導遊、購物場所開展調查。一經查實，將依法依規嚴肅處理。
+
+---
+
+### 2026-08-17 00:48:20  #MKT News
+
+Al Arabiya TV reported Trump senior adviser Jared Kushner confirmed to Hamas leaders that Hamas weapons would be removed from Gaza and not stored there.
+
+---
+
+### 2026-08-17 00:48:12  #宏觀
+
+伊拉克財政部長法利赫·薩里宣佈，霍爾木茲海峽的關閉對伊拉克經濟產生了直接影響。透過加強非石油收入，將克服當前的形勢。
+
+---
+
+### 2026-08-17 00:47:36  #MKT News #Market Themes #The Trump Trade
+
+Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Mladenov insisted Hamas hand over weapons and dismantle its infrastructure.
+
+---
+
+### 2026-08-17 00:47:12  #MKT News
+
+Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Nikolay Mladenov rejected a Hamas proposal to "store weapons".
 
 ---
 
@@ -18399,17 +18477,5 @@ South Korea's KOSPI rose 11.5% this week, snapping a seven-week losing streak.
 ### 2026-08-14 14:34:33  #Trading Economics #Markets #Commodity #Importance 0
 
 Oil Rises on Middle East Risks — Crude oil climbed above $82 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
-
----
-
-### 2026-08-14 14:33:52  #公司
-
-【林洋能源與馬來西亞沙撈越SMD達成戰略合作】據林洋能源訊息，8月13日，林洋能源與馬來西亞沙撈越州國有半導體企業SMD正式簽署戰略合作協議（MOA）。根據協議，雙方將重點推進半導體技術與新能源裝備深度融合，實現產品升級、效能提升與本地化適配；同時聯合開發東南亞光儲專案，共建“沙撈越晶片研發+中國製造整合+東盟及OIC市場落地”的跨境產業鏈體系。
-
----
-
-### 2026-08-14 14:33:51  #Trading Economics #Markets #Commodity #Importance 2
-
-Brent Rises on Middle East Risks — Brent crude climbed toward $88 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
 
 ---
