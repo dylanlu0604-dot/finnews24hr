@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 20:10:54",
-  "count": 15183,
+  "updated": "2026-08-16 20:14:53",
+  "count": 15182,
   "items": [
+    {
+      "id": "5042824",
+      "time": "2026-08-16 20:14:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月16日20時11分，影片《歡迎來龍餐館》票房突破9億。"
+    },
     {
       "id": "mkt:01a00a79-7e22-7aab-904d-f2810eaec425",
       "time": "2026-08-16 20:08:49",
@@ -138902,22 +138910,6 @@
         "XAUUSD"
       ],
       "text": "【Houthi forces may be planning to retake strategic Yemeni port】Al Jazeera said airstrikes over the past week surprised Yemeni government forces and struck locations not hit in years, including Al-Makha port in western Taiz province. Houthi spokesman Yahya Saree said the operation used dozens of missiles and Yemeni drones against what the group called Saudi forces at Al-Makha and described it as a large-scale destructive action; the Houthis said the strikes responded to Saudi use of the port to reinforce and resupply pro-government troops in Taiz. Al-Makha provides strategic access to the southern Red Sea and visibility on tanker and ship movements from the Arabian Sea; the Houthis’ statements indicate they may be preparing to retake the port."
-    },
-    {
-      "id": "mkt:019fe671-3fab-7aab-8fc9-ff49e2d191a6",
-      "time": "2026-08-09 20:13:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SANA reported Syria's foreign ministry said Damascus and Moscow have reached a memorandum of understanding after 18 months of intensive negotiations to resolve the future status of Russian bases at Tartus and Hmeimim."
-    },
-    {
-      "id": "5032554",
-      "time": "2026-08-09 20:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "據敘利亞官方媒體：敘利亞外交部表示，大馬士革與莫斯科已達成諒解備忘錄，解決塔爾圖斯和赫梅米姆的俄羅斯基地未來問題。關於俄羅斯基地的協議經過18個月的密集談判達成。"
     }
   ]
 }
