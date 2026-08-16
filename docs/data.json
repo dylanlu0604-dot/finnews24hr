@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-17 00:14:47",
-  "count": 15198,
+  "updated": "2026-08-17 00:18:41",
+  "count": 15197,
   "items": [
+    {
+      "id": "5042906",
+      "time": "2026-08-17 00:17:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【原材料物流成本大幅抬升，伊朗三分之二藥品兩輪漲價】伊朗食品藥品管理局局長週日表示，自3月21日以來，伊朗約三分之二的藥品已經經歷兩輪漲價。邁赫迪·皮爾薩萊希稱，原材料、運輸以及生產成本上漲是推高藥價的部分原因。他表示，部分進口藥品的海運運費約3000美元，如今改為空運後運費已漲至30000美元。他補充，此番漲價旨在避免製藥企業虧損經營。皮爾薩萊希稱，伊朗今年已劃撥45億美元外匯用於採購藥品和醫療裝置，其中已有13億美元按照補貼匯率撥付到位。"
+    },
     {
       "id": "mkt:01a00b58-d09d-7aab-904e-e69ee76cd6bb",
       "time": "2026-08-17 00:12:44",
@@ -139003,22 +139012,6 @@
         "MKT News"
       ],
       "text": "Yemen deputy defense minister says responses to the Houthi movement will be decided based on national interest."
-    },
-    {
-      "id": "5032627",
-      "time": "2026-08-10 00:18:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特斯拉今年將把日本的車輛交付網點數量增加60%。"
-    },
-    {
-      "id": "mkt:019fe751-23be-7aab-8fca-cef6f4343dce",
-      "time": "2026-08-10 00:18:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon White Dolphin rainfall triggers Jiaojiang (Zhejiang) 2026 No.2 flood】Rainfall from Typhoon White Dolphin raised the water level at Baizhizao hydrological station in Jiaojiang, Taizhou, Zhejiang to 17.03 m at 22:55 on Aug 9, 0.03 m above the 17.00 m warning level; corresponding discharge was 3,900 m3/s. Under main rivers flood numbering rules the event is designated Jiaojiang 2026 No.2 flood."
     }
   ]
 }
