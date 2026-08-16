@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 610,
+  "count": 612,
   "items": [
+    {
+      "id": "mkt:01a00adc-2860-7aab-904e-54cd47193fcc",
+      "time": "2026-08-16 21:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner said Egypt is an important U.S. partner in the Middle East."
+    },
+    {
+      "id": "mkt:01a00adb-f0cf-7aab-904e-4c3ef83d78e6",
+      "time": "2026-08-16 21:56:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian President Sisi and Kushner confirmed the need to resolve the current regional crisis and reiterated that parties must commit to fulfilling their obligations under the Gaza ceasefire agreement."
+    },
     {
       "id": "5042868",
       "time": "2026-08-16 21:52:21",
