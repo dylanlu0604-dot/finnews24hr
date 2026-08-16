@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-17 05:21:57",
-  "count": 15225,
+  "updated": "2026-08-17 05:25:43",
+  "count": 15226,
   "items": [
+    {
+      "id": "5042975",
+      "time": "2026-08-17 05:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【投資結構持續最佳化 新質生產力加速成長 高頻資料傳遞經濟平穩執行積極訊號】7月國民經濟執行情況即將釋出，作為研判三季度及下半年經濟走勢的重要觀測視窗，市場對7月經濟表現高度關注。從多項高頻資料與先行指標來看，線下消費、基建、先進製造等領域釋放積極訊號，經濟總體保持平穩執行，但穩增長壓力依然存在，宏觀政策仍需加力提效，著力擴內需穩增長。"
+    },
+    {
+      "id": "5042974",
+      "time": "2026-08-17 05:23:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我詢問了韓國總統，他們是否願意加入我們，共同推動解除伊朗的核武裝，他的回答是不。"
+    },
     {
       "id": "mkt:01a00c6b-cf15-7aab-9050-ab7cd3326351",
       "time": "2026-08-17 05:13:06",
@@ -139193,17 +139209,6 @@
         "Brent"
       ],
       "text": "A vessel caught fire near Kumzar on Oman's Musandam Peninsula at the entrance to the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019fe86a-cd9d-7aab-8fcb-e802d99a30cc",
-      "time": "2026-08-10 05:25:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: RBA likely to hold at 4.35% with hawkish bias; watch persistent inflation】Economists and traders expect the Reserve Bank of Australia to keep the cash rate at 4.35% at Tuesday’s meeting — a second consecutive hold — while reiterating readiness to tighten further to combat persistent inflation. Markets will focus on the policy statement and updated quarterly forecasts for signals on whether the RBA has finished hiking after 75bp of moves this year or intends further tightening. Carl Ang, fixed income research at MFS Investment Management, says a hawkish pause is the base case but slow disinflation means additional tightening cannot be ruled out. Economists broadly expect an extended pause through the remainder of this year and most of next; Commonwealth Bank’s Belinda Allen expects the RBA to bring forward the forecast for inflation falling below 3% and to lift its unemployment projection."
     }
   ]
 }
