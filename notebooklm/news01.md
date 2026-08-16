@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:35:55_
-_本檔包含 3034 則快訊，約 600803 字_
+_更新時間：2026-08-16 18:55:17_
+_本檔包含 3033 則快訊，約 600927 字_
+
+---
+
+### 2026-08-16 18:53:40  #市場
+
+紫金黃金錶示，2026年全年礦產金產量指引維持不變。
+
+---
+
+### 2026-08-16 18:53:17  #其他
+
+【澳門各界期盼“三五”規劃開創高質量發展新局面】作為引領澳門未來五年經濟社會發展的綱領性檔案，《澳門特別行政區經濟和社會發展第三個五年規劃（2026—2030年）》（以下簡稱“三五”規劃）釋出在即，為澳門立足新起點、搶抓新機遇、實現新突破指明清晰路徑。澳門特區行政長官岑浩輝日前發表署名文章，解讀“三五”規劃核心要義與重點任務，圍繞經濟適度多元、澳琴一體化發展、都市更新、融入和服務國家發展大局四個關鍵方向，描繪“法治澳門、活力澳門、文化澳門、幸福澳門”美好願景，引發澳門社會各界暢談對“三五”規劃的期待與展望。（新華社）
+
+---
+
+### 2026-08-16 18:53:06  #公司 #觀點
+
+【近一週融資資金加碼儲存晶片賽道】近一週（8月7日至13日），A股融資餘額繼續保持穩步回升態勢，為26497.41億元。A股融資資金持續呈現淨買入態勢，金額合計366.23億元。其中，共39股融資淨買入額在3億元以上。江波龍(301308)高居榜首，淨買入額高達12.17億元；次新股C超純排名第二，淨買入額10.33億元；生益科技、兆易創新、勝宏科技、東材科技、國瓷材料緊隨其後，淨買入額均在7億元以上。儲存晶片賽道的兆易創新、普冉股份也獲融資資金淨買入，金額分別為8.77億元、5.23億元。此外，生益科技、勝宏科技、景旺電子、科翔股份等PCB板塊個股，中國巨石、國際復材等電子布概念股，以及銅概念股紫金礦業、洛陽鉬業等，本週也均獲得融資資金青睞。8股融資淨償還額超過3億元。中際旭創、寒武紀、長鑫科技排名前三，對應淨償還額依次為19.30億元、17.71億元、16.05億元。同時，券商板塊的國泰海通、華泰證券；鋰電池板塊的寧德時代、億緯鋰能；稀土板塊的北方稀土等個股也均遭融資資金淨償還。
+
+---
+
+### 2026-08-16 18:49:02  #公司 #觀點
+
+【中信證券：26H1 PCB/CCL業績表現亮眼，看好H2進一步增長趨勢】中信證券釋出研報稱，近期PCB/CCL公司密集釋出業績預告，PCB環節AI高佔比公司維持業績高增，表現亮眼；CCL環節則受漲價拉動，盈利能力加速釋放，業績普遍超預期。展望2026H2，PCB環節，AI新產能釋放、下游AI客戶加速拉貨的增長動能將更為突出，我們看好PCB公司的業績加速增長動能；CCL環節則有望於短期內繼續快速落地漲價，中長期價格維持高位的確定性亦在不斷增強，我們持續看好板塊後續投資機會。
+
+---
+
+### 2026-08-16 18:46:45  #MKT News #Hang Seng Tech Index #Impact bullish #300750.SZ
+
+【CITIC Securities: Hang Seng Tech index overhaul to have material event effect】CITIC Securities notes that on Aug. 10, 2026 Hang Seng Indexes Company consulted on a proposed methodology overhaul for the Hang Seng Tech Index. Key changes: expand thematic coverage by removing the prior industry-classification requirement, revise six tech themes and increase sub-themes from 16 to 24; introduce a grouped selection mechanism and widen the selection universe to constituents of the Hang Seng Composite LargeMidCap Index. Constituents would rise from 30 to 50, with 40 selected by market-cap ranking and 10 by a revenue-growth group. CITIC estimates roughly 10 market-cap names (including CATL) and about 10 revenue-growth names could be added. Estimated passive inflows to newly included stocks total about HKD36.0 bln, split ~HKD28.5 bln to the market-cap group and ~HKD7.5 bln to the revenue-growth group. CITIC calls the adjustment a significant event and recommends focusing on potential inclusions for long candidates while monitoring deletion candidates for downside risk.
+
+---
+
+### 2026-08-16 18:46:37  #其他
+
+中國機腦機器人獲港交所批准上市。
+
+---
+
+### 2026-08-16 18:44:34  #公司
+
+中石化煉化工程（股份代號：2386.HK）表示，將在六個月內以1億至1.5億港元在公開市場回購H股。
+
+---
+
+### 2026-08-16 18:44:15  #國際
+
+印度總理莫迪：感謝內塔尼亞胡總理的溫暖祝願。 願印度-以色列特殊戰略伙伴關係更加牢固，開啟新的機遇，並在我們兩國之間建立更深層次的人民間聯絡。
+
+---
+
+### 2026-08-16 18:42:36  #其他
+
+金斯瑞生物科技<1548.HK>公佈，上半年經調整淨利潤同比增長203.3%，營收同比增長27.3%。
+
+---
+
+### 2026-08-16 18:41:39  #公司 #市場 #觀點
+
+【中信證券：恒生科技指數的調整具有顯著事件效應】中信證券研報稱，2026年8月10日，恒生指數公司就恒生科技指數的編算方法修訂方案徵詢市場意見，本次修訂主要包括兩個方面，其一是擴大主題覆蓋，取消原有行業分類要求，修訂六大科技主題並將子主題由16個擴充套件至24個；其二是引入分組選股機制，將選股範圍調整為恒生綜合大中型股指數成份股，成份股數目由30只增至50只，其中40只由市值組別排名選取，剩餘10只由收入增長組別補充。根據測算，寧德時代、建滔積層板、天數智芯等10只市值組股票或將調入恒生科技指數，晶泰控股、邁富時、滴普科技等10只收入增長組股票同樣有望調入。預計擴容實現後有望為調入個股帶來合計約360億港元被動資金增量，其中市值組和收入增長組分別約為285億港元、75億港元。整體來看，恒生科技指數的調整具有顯著事件效應，建議重點把握可能被納入指數股票的投資機會，同時關注可能被剔除股票的下行風險。
+
+---
+
+### 2026-08-16 18:41:04  #公司 #市場
+
+【紫金黃金國際：上半年礦產金產量同比增長44%至約27.3噸】紫金黃金國際(02259.HK)公告，上半年，受惠於新收購資產全面貢獻及成熟礦山持續最佳化，礦產金產量同比增長44%至約27.3噸；收入及母公司擁有人應占溢利分別同比增長100%及179%，經營活動所得現金流量淨額同比大幅增長331%。
+
+---
+
+### 2026-08-16 18:35:28  #國際
+
+市場訊息：以色列的評估表明，真主黨和哈馬斯正在與伊朗協調下試圖加劇緊張局勢。
 
 ---
 
@@ -18239,83 +18311,5 @@ Finnish Inflation Rate Steady in July — The annual inflation rate in Finland s
 ### 2026-08-14 13:18:10  #公司
 
 【深藍航天與艾美依航空簽署戰略合作協議】據深藍航天訊息，2026年8月，江蘇深藍航天有限公司與杭州艾美依航空製造裝備有限公司在杭州艾美依航空園區正式簽署戰略合作協議。此次雙方攜手合作是深藍航天構建回收複用液體火箭供應鏈產業生態的重要舉措，也是艾美依依託在航空裝備方面積累優勢進入商業航天製造領域的首個重要合作專案。雙方將重點圍繞液體運載火箭複合材料關鍵結構件製造，以及自動化裝配工藝裝備及生產線兩大方向開展聯合研發，實現技術互補與產業協同。
-
----
-
-### 2026-08-14 13:17:42  #國際
-
-【波蘭稱挫敗俄針對一烏裔美籍公民暗殺圖謀 】波蘭總理唐納德·圖斯克13日稱，俄羅斯計劃在波蘭首都華沙殺害一名烏克蘭裔美國公民，這一圖謀被波蘭方面挫敗。據華沙警方通報，一名涉嫌被俄羅斯招募的嫌疑人已於7日被波蘭有關方面逮捕。圖斯克說，這是受俄方指使人員首次試圖在美國以外的北約成員國境內襲擊美國公民。
-
----
-
-### 2026-08-14 13:17:24  #MKT News #Important
-
-China's ChiNext index turned negative in the afternoon after rising more than 1% in the morning.
-
----
-
-### 2026-08-14 13:17:12  #公司 #市場
-
-【煤炭板塊午後異動拉昇 淮北礦業、盤江股份等由跌轉漲】煤炭板塊午後異動拉昇，淮北礦業、盤江股份等多股由跌轉漲。
-
----
-
-### 2026-08-14 13:17:03  #市場 #國際
-
-【全球資金謹慎重返韓國股市】韓國股市有望迎來4月初以來最大單週外資淨流入，這表明，在經歷一輪歷史性拋售之後，全球投資者正重新迴流這個規模達4.1萬億美元的股票市場。資料顯示，本週截至週四，海外資金淨買入20億美元韓國股票。週五外資有望繼續淨買入超10億美元韓國綜合指數成分股。此前數月，韓國股市幾乎持續遭遇資金流出，年內撤資規模已超1000億美元。外資迴流推動基準股指韓國綜合指數本週每個交易日均上漲，累計漲幅超10%。隨著AI板塊擁擠交易中的槓桿頭寸被出清，市場極端波動階段顯現緩和跡象。
-
----
-
-### 2026-08-14 13:15:51  #公司 #國際
-
-【阿聯酋稱該國兩艘油輪透過霍爾木茲海峽時遭襲】阿聯酋外交部14日凌晨發表宣告稱，阿布扎比國家石油公司兩艘油輪透過霍爾木茲海峽時遭伊朗襲擊。 宣告還稱，伊朗的襲擊對地區穩定、民眾安全以及全球能源安全造成威脅。 阿布扎比國家石油公司14日凌晨釋出訊息稱，襲擊發生於13日晚，未造成人員傷亡。 阿布扎比國家石油公司是阿聯酋國有石油和天然氣企業。阿聯酋方面近期多次聲稱該國船隻在透過霍爾木茲海峽時遭襲。(新華社)
-
----
-
-### 2026-08-14 13:15:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Appreciates by 0.28% — Top currency gainers are New Zealand Dollar (0.28%), South Korean Won (0.25%), Japanese Yen (0.11%), Euro (0.10%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.10%).
-
----
-
-### 2026-08-14 13:14:18  #MKT News
-
-【TrendForce: Global LED general lighting market to reach $60.94 bln by 2030】TrendForce says the global LED general lighting market could reach $60.94 bln by 2030, with a 2025–2030 CAGR of 2.6%. Short-term demand remains in an adjustment phase as slow macro recovery, geopolitical tensions and conservative corporate capex weigh on Europe, the US and China. Energy‑efficiency rules, retrofit programmes and net‑zero/ESG targets are pushing manufacturers away from price competition toward higher‑value smart lighting and specialised professional applications, prompting a product‑mix and application upgrade across the industry.
-
----
-
-### 2026-08-14 13:14:17  #公司
-
-【追覓賣出首臺手機，售價超20萬元！創始人曾稱要與蘋果、三星三分天下】8月13日，追覓手機負責人在朋友圈透露，公司已正式交付001號AURORA手機。據其透露，3萬美金（約合人民幣20.23萬元）交易款項已全部到賬，其中首付款1萬美金，尾款21184美金。其稱，這是“中國智慧手機歷史上迄今為止賣出去單臺售價最高的旗艦智慧手機”。（紅星資本局 ）
-
----
-
-### 2026-08-14 13:13:27  #其他
-
-【集邦諮詢：預估至2030年全球LED通用照明市場規模有望達609.42億美元】TrendForce集邦諮詢最新報告指出，受宏觀經濟復甦遲緩、地緣因素及企業資本支出保守影響，全球LED照明市場需求短期內仍處調整階段，歐美中三大核心市場成長動能有限。然而，在全球能效法規、節能改造與淨零排放(ESG)目標帶動下，照明廠商加速擺脫傳統價格競爭，積極朝向智慧照明與特殊專業場景等高附加價值領域發展，推動產業由“量的擴張”邁向“產品結構與應用價值升級”。集邦諮詢預估至2030年，全球LED通用照明市場規模有望達609.42億美元，2025至2030年CAGR為2.6%。
-
----
-
-### 2026-08-14 13:12:28  #市場
-
-【浙江省水文管理中心8月14日11時釋出杭嘉湖東部平原嘉興站洪水紅色預警】浙江省水文管理中心2026年8月14日11時釋出杭嘉湖東部平原嘉興站洪水紅色預警：杭嘉湖東部平原嘉興站當前水位2.43米（保證水位2.16米），氣象預報未來12小時降雨31.0毫米，依據氣象降雨數值預報和水利工程排程情況，預報杭嘉湖東部平原將維持高水位波動上漲，14至16日維持紅色預警級別的洪水，請各部門注意防禦。
-
----
-
-### 2026-08-14 13:12:20  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-China A-share semiconductor sector reversed in the afternoon; Huahong Hongli fell nearly 10%, while Zhongke Feice, Huafeng Cekong, Chipsea Technology, Jinhaitong, Taiji Industrial, China’s CPU maker Haiguang and Cambricon also slid.
-
----
-
-### 2026-08-14 13:09:35  #市場
-
-澳大利亞S&P/ASX 200指數下跌1.1%，報9,092.20點，為8月4日以來最低。
-
----
-
-### 2026-08-14 13:08:21  #國際
-
-【日本千葉縣強降雨8人死 】據日本廣播協會（NHK）電視臺今天（8月14日）最新報道稱，昨天開始的強降雨已造成日本千葉縣8人死亡。 據日本氣象廳訊息，千葉縣自8月13日傍晚以後持續出現強降雨。其中，千葉市截至當地時間今天凌晨1點的12小時累計降雨量達到347毫米，為有記錄以來的最高值。半天內的降雨量已接近往年8月整個月平均降雨量的3倍。
 
 ---

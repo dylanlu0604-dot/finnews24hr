@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:35:55_
-_本檔包含 3024 則快訊，約 600684 字_
+_更新時間：2026-08-16 18:55:17_
+_本檔包含 3029 則快訊，約 600939 字_
+
+---
+
+### 2026-08-12 08:57:52  #公司 #市場 #央行 #國際
+
+【黃金在美國通脹資料公佈前小幅走高】亞洲早盤黃金小幅走高，隨著投資者等待美國通脹資料，以尋找有關美聯儲政策路徑的線索。Critical Metals執行長Tony Sage在一份報告中表示，更強勁的資料可能會強化更緊縮的政策，並對黃金施加進一步壓力。他補充說，另一方面，較疲軟的結果可能會帶來一些緩解。降息通常有利於不生息的黃金。現貨黃金上漲0.2%，報每盎司4,380.12美元。
+
+---
+
+### 2026-08-12 08:57:04  #公司 #市場 #觀點
+
+【摩根士丹利上調LG電子評級 並大幅上調公司目標價】摩根士丹利將LG電子評級由持有上調至超配，稱該公司及其子公司LG Innotek特在AI下一階段行情中具備突出優勢。受此訊息影響LG電子股價上漲8.6%。注：該股週三除息。摩根士丹利將該股的目標價從95,000韓元大幅上調至260,000韓元。LG Innotek股價上漲高達7.1%。摩根士丹利同樣將LG Innotek評級由持有上調至超配，目標價自265000韓元上調至640000韓元。摩根士丹利分析師在研報中表示：“我們認為AI行情下一階段的受益標的將從半導體拓展至智慧硬體領域”，而上述兩家企業在此領域佔據有利地位。對於LG Display，摩根士丹利維持持有評級，目標價由16800韓元下調至10000韓元。
+
+---
+
+### 2026-08-12 08:55:57  #MKT News
+
+New Zealand Prime Minister Luxon said he has party support amid a leadership challenge.
+
+---
+
+### 2026-08-12 08:55:49  #其他
+
+紐西蘭總理盧克森表示，他不會辭職。
+
+---
+
+### 2026-08-12 08:55:23  #公司
+
+【上線不到一個月，米哈遊“新作”宣佈停服】8月11日，米哈遊釋出公告，旗下Steam搶先體驗AI陪伴產品《BSide：Olivia Lin》（林離）停止線上運營。這款7月13日才開啟搶先體驗的產品，線上生命週期不足一個月，官方將提供離線版本保留本地功能完成收尾。就在一個月前，米哈遊聯合創始人蔡浩宇旗下Anuttacon的AI陪伴產品AnuNeko（AI貓娘），也已經宣佈永久關停，兩大二次元向AI陪伴試驗專案接連走向終點。
+
+---
+
+### 2026-08-12 08:55:07  #公司
+
+【理工光科：目前尚未有多模態感知融合相關產品或重大專案落地】理工光科(300557)8月12日在互動平臺表示，公司在分散式光纖、光柵陣列感測、振動/應變/溫度監測及智慧識別演算法方面具備長期的技術積累，現有光纖振動感測、陣列光柵感測光纜等技術，具備作為該專利中底層振動感知硬體的技術可能性。截至目前，公司尚未有多模態感知融合相關產品或重大專案落地，公司將持續關注相關領域的技術發展和市場機會。
+
+---
+
+### 2026-08-12 08:54:22  #公司
+
+【量子計算公司Quantinuum與甲骨文達成多年合作】當地時間8月11日，量子計算公司Quantinuum與甲骨文宣佈建立多年戰略合作伙伴關係，向在美甲骨文雲基礎設施（OCI）AI資料中心部署Quantinuum的量子計算機Helios。根據協議，OCI客戶將能夠透過OCI的量子服務直接訪問Helios，並結合使用OCI的高效能運算（HPC）及GPU基礎設施。
+
+---
+
+### 2026-08-12 08:53:48  #其他
+
+紐西蘭總理盧克森談領導力挑戰：我獲得了黨內支援。
+
+---
+
+### 2026-08-12 08:53:05  #MKT News #Commodities #Energy #WTI #Brent
+
+【Crude oil ETF holdings report launches; USO exposure rises, BNO holdings fall】New crude oil ETF holdings report published. WTI (USO) nominal exposure ~26.28 mln barrels, up 0.156 mln barrels on the day. Brent (BNO) futures holdings ~7.17 mln barrels, down 0.057 mln barrels on the day. Full holdings now available to track flows beyond price.
+
+---
+
+### 2026-08-12 08:51:11  #其他
+
+【黃河實現連續27年不斷流】今天8時，位於黃河最下游的國家水文站——利津水文站測得實時流量2030立方米每秒。至此，透過實施黃河水量統一排程，黃河已實現自1999年以來連續27年不斷流，持續築牢供水安全、糧食安全、生態安全水利保障。2025—2026年度，黃河流域主要來水區合計來水489.24億立方米，較多年均值偏多7%。
+
+---
+
+### 2026-08-12 08:51:02  #MKT News #Market Regions #Greater China
+
+【Pinglu Canal live-ship trials start】Aug 12 — Live-ship trials for the Pinglu Canal have begun. Four representative vessels will carry out phased validation of navigation under normal and adverse conditions and a full-line aids-to-navigation efficacy check. The trials are intended to underpin the canal’s scheduled opening in Sept 2026. The Pinglu Canal, a backbone project of the Western Land-Sea New Corridor, is 134.2 km long and designed for 5,000-ton vessels; on completion it will establish a river-sea intermodal trunk linking southwest China to the sea via the Xijiang mainstem.
 
 ---
 
@@ -18234,41 +18300,5 @@ Ibovespa Falls as Oil Prices Rally — The Ibovespa edged 0.2% lower to close at
 ### 2026-08-11 04:37:11  #MKT News
 
 【Fire at Pyeongtaek hazardous-chemicals warehouse storing about 1.91 mln liters】A fire broke out at a single-storey warehouse in Cheongbuk-eup, Pyeongtaek, Gyeonggi Province, South Korea, at about 00:03 on Aug 11. The facility stored Class 4 hazardous chemicals (flammable liquids), estimated at roughly 1.91 mln liters across about 100 different substances. Authorities raised a level-2 emergency response and deployed 56 vehicles and 140 personnel to fight the blaze. No casualties have been confirmed. Officials said they will investigate the cause after the fire is brought under control.
-
----
-
-### 2026-08-11 04:36:14  #國際
-
-【美以敘達成諒解 敘利亞秘密地點核材料將被轉移】美國、以色列和敘利亞達成諒解，國際原子能機構將從敘利亞一處秘密地點轉移核材料。
-
----
-
-### 2026-08-11 04:35:17  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.11% Lower — The Dow Jones Index decreased 61 points or 0.11 percent on Monday to close at 53976 points. The decline was led by Nvidia (-2.79%), Travelers Companies (-2.21%) and Sherwin-Williams (-1.96%). On the upside, the strongest performers were Chevron (4.38%), Salesforce (2.71%) and Merck (1.71%).
-
----
-
-### 2026-08-11 04:35:06  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Renews Record High — The S&P/TSX Composite Index added 0.2% to close at 36,458 on Monday, reaching another record high as energy and technology stocks advanced. Crude oil rallied amid growing uncertainty over a deal between the US and Iran to end the conflict and reopen the Strait of Hormuz. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Energy producers led gains, with Canadian Natural up 3.7%, Suncor advancing 4.3%, Imperial Oil adding 3%, and Cenovus jumping 4.6%. Technology stocks tracked gains in US hyperscalers after brokers signaled strong cloud demand. Shopify rose 2.2%, while Constellation Software gained 2.6% ahead of its earnings tomorrow. Miners were mixed, with Barrick down 6.4% after disappointing second-quarter results, while Franco-Nevada gained 0.8% ahead of its earnings tomorrow.
-
----
-
-### 2026-08-11 04:34:21  #國際
-
-伊朗南部賈斯克將於週二上午10點拉響防空警報，該警報屬於測試演練。
-
----
-
-### 2026-08-11 04:30:28  #其他
-
-成立一年的初創企業Applied Compute正洽談數億美元融資，目標估值約30億美元。
-
----
-
-### 2026-08-11 04:29:08  #MKT News
-
-【Applied Compute valuation could double to about $3bn in new funding】The Information reports one‑year‑old Applied Compute is in talks on a new funding round that could value the company at roughly $3bn, more than double its valuation four months ago. The startup helps enterprises run and customize open‑source models on proprietary data. Insiders say annualized revenue is about $50m, nearly 4x the level CEO Yash Patil disclosed in November. Investor Elad Gil is reportedly in talks to lead the round, which is expected to raise several hundred million dollars; it is unclear whether the valuation includes the new capital. The round has not closed and terms may change.
 
 ---

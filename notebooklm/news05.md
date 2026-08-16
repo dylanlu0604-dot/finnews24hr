@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:35:55_
-_本檔包含 2977 則快訊，約 600212 字_
+_更新時間：2026-08-16 18:55:17_
+_本檔包含 2973 則快訊，約 600556 字_
+
+---
+
+### 2026-08-11 04:36:14  #國際
+
+【美以敘達成諒解 敘利亞秘密地點核材料將被轉移】美國、以色列和敘利亞達成諒解，國際原子能機構將從敘利亞一處秘密地點轉移核材料。
+
+---
+
+### 2026-08-11 04:35:17  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.11% Lower — The Dow Jones Index decreased 61 points or 0.11 percent on Monday to close at 53976 points. The decline was led by Nvidia (-2.79%), Travelers Companies (-2.21%) and Sherwin-Williams (-1.96%). On the upside, the strongest performers were Chevron (4.38%), Salesforce (2.71%) and Merck (1.71%).
+
+---
+
+### 2026-08-11 04:35:06  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Renews Record High — The S&P/TSX Composite Index added 0.2% to close at 36,458 on Monday, reaching another record high as energy and technology stocks advanced. Crude oil rallied amid growing uncertainty over a deal between the US and Iran to end the conflict and reopen the Strait of Hormuz. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Energy producers led gains, with Canadian Natural up 3.7%, Suncor advancing 4.3%, Imperial Oil adding 3%, and Cenovus jumping 4.6%. Technology stocks tracked gains in US hyperscalers after brokers signaled strong cloud demand. Shopify rose 2.2%, while Constellation Software gained 2.6% ahead of its earnings tomorrow. Miners were mixed, with Barrick down 6.4% after disappointing second-quarter results, while Franco-Nevada gained 0.8% ahead of its earnings tomorrow.
+
+---
+
+### 2026-08-11 04:34:21  #國際
+
+伊朗南部賈斯克將於週二上午10點拉響防空警報，該警報屬於測試演練。
+
+---
+
+### 2026-08-11 04:30:28  #其他
+
+成立一年的初創企業Applied Compute正洽談數億美元融資，目標估值約30億美元。
+
+---
+
+### 2026-08-11 04:29:08  #MKT News
+
+【Applied Compute valuation could double to about $3bn in new funding】The Information reports one‑year‑old Applied Compute is in talks on a new funding round that could value the company at roughly $3bn, more than double its valuation four months ago. The startup helps enterprises run and customize open‑source models on proprietary data. Insiders say annualized revenue is about $50m, nearly 4x the level CEO Yash Patil disclosed in November. Investor Elad Gil is reportedly in talks to lead the round, which is expected to raise several hundred million dollars; it is unclear whether the valuation includes the new capital. The round has not closed and terms may change.
 
 ---
 
@@ -17877,65 +17913,5 @@ Prime Minister Netanyahu said Israel rejects a 15-point Gaza plan and will not w
 ### 2026-08-09 18:56:51  #其他
 
 【原位元組跳動機器人一號位加入小米，負責基座模型研發】從多方獨立信源處確認，原位元組跳動機器人團隊負責人孔濤已加盟小米，目前擔任小米機器人基座模型團隊負責人。多位知情人士透露，孔濤於2025年夏天就已加入小米，並帶來不少原先在位元組跳動工作的員工。加入小米機器人之後，孔濤與很多員工都進行了一對一的長談，目的是摸清小米機器人團隊在行業內的大概水準。目前，小米機器人事業部大約有200人。小米機器人事業部對機器人的本體、小腦、大腦，甚至機器人作業系統都有研究，而且不同的部門還會預研同一個方向，比如世界模型。“小米機器人的基座模型團隊很神秘。孔濤帶領的基座模型團隊有單獨的辦公地。小米高管集體在飛書上開會時，孔濤甚至不用露臉。”一位接近小米機器人的知情人士透露。小米機器人事業部對內也屬於高度保密狀態。（21財經）
-
----
-
-### 2026-08-09 18:54:54  #市場 #焦點
-
-布倫特原油暗盤突破83美元，日內漲超1.2%。
-
----
-
-### 2026-08-09 18:54:32  #焦點 #國際
-
-【伊朗最高領袖與總統會談】據伊朗塔斯尼姆通訊社今天（8月9日）報道，伊朗總統佩澤希齊揚與伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊舉行會談。雙方就伊朗當前經濟和軍事等問題交換意見，重點討論保障民眾基本生活需求、當前衝突局勢及未來形勢、軍事領域最新進展，以及本幣、外匯和能源資源的籌措與使用管理等問題。雙方還就伊朗與外國開展經濟合作等議題進行了討論。（CCTV國際時訊）
-
----
-
-### 2026-08-09 18:51:27  #MKT News #Market Regions #Greater China
-
-【Typhoon Baihaitun makes second landfall in Yueqing, Zhejiang, China】The 13th typhoon of the year, Baihaitun, made a second landfall in Yueqing in China's Zhejiang province.
-
----
-
-### 2026-08-09 18:50:53  #其他
-
-【颱風“白海豚”在浙江樂清二次登陸】據中央氣象臺訊息，今年第13號颱風“白海豚”的中心已於今天（9日）下午18點40分前後在浙江省溫州樂清市翁垟街道沿海再次登陸，登陸時中心附近最大風力有13級（38米/秒），中心最低氣壓為950百帕。
-
----
-
-### 2026-08-09 18:49:27  #其他 #焦點
-
-【颱風“白海豚”在浙江樂清二次登陸】今年第13號颱風“白海豚”的中心在浙江樂清二次登陸。（央視新聞）
-
----
-
-### 2026-08-09 18:47:01  #其他
-
-【寧德時代梘下窩鋰礦環評報告公示已於8月7日完成，待提交後將進行評審】針對梘下窩鋰礦專案的復產進展，宜春市政府相關人士表示，“目前，該專案（梘下窩鋰礦採礦專案）環評報告和公眾參與說明的公示環節，已於8月7日完成，待提交後將進行評審”。這是否意味著復產時間將近？對此，上述人士指出，“該專案重新復產，需要取得一系列的批文。從環評來說，政府在受理環評報告以後，會組織相關專家進行評審。正式批覆前，還需要按照法定程式進行公示。待這些環節全部透過後，才會頒發環評批覆”。
-
----
-
-### 2026-08-09 18:43:13  #國際
-
-【伊朗陸軍司令：將對任何敵對行動作出堅決回應】伊朗陸軍司令阿里·賈漢沙希在視察戰備時表示，伊朗將對任何敵對行動作出“堅決且具有威懾力”的回應。他強調，如果美軍進入伊朗境內，伊方將予以打擊。賈漢沙希還表示，伊朗陸軍地面部隊持續監測威脅，處於全面戰備狀態，快速反應部隊和特種部隊已部署在邊境地區。（央視新聞）
-
----
-
-### 2026-08-09 18:41:24  #其他
-
-【陳茂波：下半年香港將舉辦逾100項盛事活動 預計吸引逾185萬旅客】香港特區政府財政司司長陳茂波9日發表網誌表示，今年上半年約有175萬旅客參與超過130項盛事活動，為香港帶來約58億港元的消費額，經濟增加價值約為33億港元。展望下半年，香港將舉辦超過100項盛事活動，預計將吸引逾185萬旅客參加。（新華社）
-
----
-
-### 2026-08-09 18:40:54  #焦點 #國際
-
-【伊朗最高領袖會見伊朗總統，商討經濟及軍事要務 】伊朗最高領袖穆傑塔巴·哈梅內伊近日會見伊朗總統佩澤希齊揚，，雙方就當前國家面臨的經濟與軍事等重大議題進行了深入交流。此次會晤正值佩澤希齊揚就任總統第三年之際。據伊朗官方媒體報道，雙方在會談中就國家當前面臨的各類問題與挑戰進行了詳細探討。會談重點聚焦於保障民眾基本生活需求、應對當前戰爭局勢及未來走向、軍事領域最新進展，以及統籌管理國家本幣、外匯和能源資源等關鍵議題。此外，雙方還就如何與外部開展經濟互動交換了意見。
-
----
-
-### 2026-08-09 18:40:09  #MKT News
-
-【Central Bank of Iran bans banks' excess borrowing】The Central Bank of Iran governor said banks' excess borrowing from the central bank and banks' liquidity creation are major drivers of inf. Over the past four to five months excess withdrawals from the central bank have fallen to zero; the central bank will no longer permit such operations to slow the pace of inf's rise and said the ban must be strictly enforced.
 
 ---

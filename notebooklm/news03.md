@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:35:55_
-_本檔包含 3003 則快訊，約 600832 字_
+_更新時間：2026-08-16 18:55:17_
+_本檔包含 2997 則快訊，約 600407 字_
+
+---
+
+### 2026-08-13 11:36:09  #公司
+
+【Shein據悉考慮8月28日左右在香港上市交易】據知情人士透露， Shein計劃最早於 8 月 20 日開始接受投資者對其期待已久的香港首次公開募股（IPO）的認購，並於 8 月 28 日左右在香港上市。據知情人士透露，Shein原本計劃在此次IPO中實現約300億美元的估值——僅為其巔峰時期的一小部分——但遭到了投資者的反對，估值可能進一步下調。知情人士還表示，現有股東可能會認購約一半的股份。此次發行預計將籌集 20 億至 30 億美元。知情人士表示，相關討論仍在進行中，規模、估值和時間等細節可能會有所變化。
+
+---
+
+### 2026-08-13 11:35:36  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #SSE Composite #XAUUSD #Impact bearish
+
+【A-share midday: ChiNext opens higher, closes up 1.61% as innovative drug stocks rebound】All three A-share indexes opened higher; ChiNext rose over 2% intraday before paring gains to close up 1.61%. Shanghai Composite was up 0.42% and Shenzhen Composite Index rose 0.73%. Combined turnover on the two exchanges exceeded CNY 1.5 trillion and roughly 2,200 stocks advanced. Innovative drug stocks dipped early then rebounded to lead gains. The CPO sector was active. Compute-power leasing names spiked then pulled back. Precious metals eased, oil & gas exploration and services remained weak, and photovoltaic stocks retraced.
+
+---
+
+### 2026-08-13 11:34:13  #其他
+
+Shein據悉考慮8月28日在香港上市交易。
+
+---
+
+### 2026-08-13 11:33:56  #其他
+
+市場訊息：Shein計劃最早於 8 月 20 日開啟 IPO 認購。
+
+---
+
+### 2026-08-13 11:33:16  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+TAIEX Hits Over 5-Week High as Tech Leads — The TAIEX, Taiwan’s benchmark stock index, climbed 471 points, or 1.0%, to 45,989 in Thursday morning trade, up for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders tried to maintain the upward momentum in the technology sector. Electronic technology stocks rose 1.2%, following a 1.1% gain on Wednesday, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, advancing 0.8%. Hon Hai Precision Industry soared 2.7%, while Unimicron rose 0.8%. Meanwhile, Foxconn Technology, the world's largest contract electronics maker, rose 0.5% after posting a 35% jump in Q2 profit, beating analyst forecasts, supported by continued strong AI demand. An upbeat session on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting.
 
 ---
 
@@ -18058,71 +18088,5 @@ FTSE China A50 index futures opened down 0.15%.
 ### 2026-08-12 08:57:59  #Trading Economics #Markets #Japan #Stock Market #Importance 1
 
 Japanese Shares Rise in Post-Holiday Trade — The Nikkei 225 Index rose 0.1% to above 67,000 while the broader Topix Index gained 0.3% to 4,113 in post-holiday trading on Wednesday, extending this week’s advance as technology and financial stocks moved higher. Sentiment toward technology stocks was supported by upbeat outlooks from CoreWeave and Super Micro Computer, with both companies benefiting from the ongoing artificial intelligence spending boom. Notable performers included Kioxia Holdings (2.7%), Advantest (0.8%) and Recruit Holdings (2.6%). Major banks also advanced, including Mitsubishi UFJ (2.2%), Sumitomo Mitsui (2.5%) and Mizuho Financial (1.8%). On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
-
----
-
-### 2026-08-12 08:57:52  #公司 #市場 #央行 #國際
-
-【黃金在美國通脹資料公佈前小幅走高】亞洲早盤黃金小幅走高，隨著投資者等待美國通脹資料，以尋找有關美聯儲政策路徑的線索。Critical Metals執行長Tony Sage在一份報告中表示，更強勁的資料可能會強化更緊縮的政策，並對黃金施加進一步壓力。他補充說，另一方面，較疲軟的結果可能會帶來一些緩解。降息通常有利於不生息的黃金。現貨黃金上漲0.2%，報每盎司4,380.12美元。
-
----
-
-### 2026-08-12 08:57:04  #公司 #市場 #觀點
-
-【摩根士丹利上調LG電子評級 並大幅上調公司目標價】摩根士丹利將LG電子評級由持有上調至超配，稱該公司及其子公司LG Innotek特在AI下一階段行情中具備突出優勢。受此訊息影響LG電子股價上漲8.6%。注：該股週三除息。摩根士丹利將該股的目標價從95,000韓元大幅上調至260,000韓元。LG Innotek股價上漲高達7.1%。摩根士丹利同樣將LG Innotek評級由持有上調至超配，目標價自265000韓元上調至640000韓元。摩根士丹利分析師在研報中表示：“我們認為AI行情下一階段的受益標的將從半導體拓展至智慧硬體領域”，而上述兩家企業在此領域佔據有利地位。對於LG Display，摩根士丹利維持持有評級，目標價由16800韓元下調至10000韓元。
-
----
-
-### 2026-08-12 08:55:57  #MKT News
-
-New Zealand Prime Minister Luxon said he has party support amid a leadership challenge.
-
----
-
-### 2026-08-12 08:55:49  #其他
-
-紐西蘭總理盧克森表示，他不會辭職。
-
----
-
-### 2026-08-12 08:55:23  #公司
-
-【上線不到一個月，米哈遊“新作”宣佈停服】8月11日，米哈遊釋出公告，旗下Steam搶先體驗AI陪伴產品《BSide：Olivia Lin》（林離）停止線上運營。這款7月13日才開啟搶先體驗的產品，線上生命週期不足一個月，官方將提供離線版本保留本地功能完成收尾。就在一個月前，米哈遊聯合創始人蔡浩宇旗下Anuttacon的AI陪伴產品AnuNeko（AI貓娘），也已經宣佈永久關停，兩大二次元向AI陪伴試驗專案接連走向終點。
-
----
-
-### 2026-08-12 08:55:07  #公司
-
-【理工光科：目前尚未有多模態感知融合相關產品或重大專案落地】理工光科(300557)8月12日在互動平臺表示，公司在分散式光纖、光柵陣列感測、振動/應變/溫度監測及智慧識別演算法方面具備長期的技術積累，現有光纖振動感測、陣列光柵感測光纜等技術，具備作為該專利中底層振動感知硬體的技術可能性。截至目前，公司尚未有多模態感知融合相關產品或重大專案落地，公司將持續關注相關領域的技術發展和市場機會。
-
----
-
-### 2026-08-12 08:54:22  #公司
-
-【量子計算公司Quantinuum與甲骨文達成多年合作】當地時間8月11日，量子計算公司Quantinuum與甲骨文宣佈建立多年戰略合作伙伴關係，向在美甲骨文雲基礎設施（OCI）AI資料中心部署Quantinuum的量子計算機Helios。根據協議，OCI客戶將能夠透過OCI的量子服務直接訪問Helios，並結合使用OCI的高效能運算（HPC）及GPU基礎設施。
-
----
-
-### 2026-08-12 08:53:48  #其他
-
-紐西蘭總理盧克森談領導力挑戰：我獲得了黨內支援。
-
----
-
-### 2026-08-12 08:53:05  #MKT News #Commodities #Energy #WTI #Brent
-
-【Crude oil ETF holdings report launches; USO exposure rises, BNO holdings fall】New crude oil ETF holdings report published. WTI (USO) nominal exposure ~26.28 mln barrels, up 0.156 mln barrels on the day. Brent (BNO) futures holdings ~7.17 mln barrels, down 0.057 mln barrels on the day. Full holdings now available to track flows beyond price.
-
----
-
-### 2026-08-12 08:51:11  #其他
-
-【黃河實現連續27年不斷流】今天8時，位於黃河最下游的國家水文站——利津水文站測得實時流量2030立方米每秒。至此，透過實施黃河水量統一排程，黃河已實現自1999年以來連續27年不斷流，持續築牢供水安全、糧食安全、生態安全水利保障。2025—2026年度，黃河流域主要來水區合計來水489.24億立方米，較多年均值偏多7%。
-
----
-
-### 2026-08-12 08:51:02  #MKT News #Market Regions #Greater China
-
-【Pinglu Canal live-ship trials start】Aug 12 — Live-ship trials for the Pinglu Canal have begun. Four representative vessels will carry out phased validation of navigation under normal and adverse conditions and a full-line aids-to-navigation efficacy check. The trials are intended to underpin the canal’s scheduled opening in Sept 2026. The Pinglu Canal, a backbone project of the Western Land-Sea New Corridor, is 134.2 km long and designed for 5,000-ton vessels; on completion it will establish a river-sea intermodal trunk linking southwest China to the sea via the Xijiang mainstem.
 
 ---
