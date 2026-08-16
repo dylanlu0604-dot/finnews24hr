@@ -1,7 +1,35 @@
 {
   "date": "2026-08-16",
-  "count": 523,
+  "count": 526,
   "items": [
+    {
+      "id": "5042799",
+      "time": "2026-08-16 18:58:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國8月17日電價穩定在176.73歐元/兆瓦時。"
+    },
+    {
+      "id": "mkt:01a00a36-d798-7aab-904d-c499c773eab1",
+      "time": "2026-08-16 18:56:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Walla: U.S. pressure limits Israel's room to respond to Hezbollah, Hamas】Israeli outlet Walla News, citing a security source, said U.S. pressure is constraining Israel’s ability to respond to Hezbollah and Hamas amid ongoing clashes with Lebanon. Israel assesses Hezbollah and Hamas are coordinating with Iran to try to escalate tensions further. Hezbollah is attempting to resupply fighters sheltered in underground positions; Israel’s Northern Command is running a complex intelligence operation to map covert supply routes and monitor drone activity used to deliver supplies to Hezbollah personnel."
+    },
+    {
+      "id": "5042798",
+      "time": "2026-08-16 18:55:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去你的島票房逆跌】據貓眼專業版資料，電影《去你的島》單日票房突破579.19萬，超昨日票房成績，週末票房實現逆跌！截至目前票房已超1.01億。"
+    },
     {
       "id": "5042797",
       "time": "2026-08-16 18:53:40",
