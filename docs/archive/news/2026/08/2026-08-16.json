@@ -1,7 +1,39 @@
 {
   "date": "2026-08-16",
-  "count": 558,
+  "count": 562,
   "items": [
+    {
+      "id": "mkt:01a00a85-ad43-7aab-904d-fcca0af5b22f",
+      "time": "2026-08-16 20:22:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel post-war economy rebounds; Q2 GDP up 15.4% annualized】Israel's seasonally adjusted Q2 GDP rose 15.4% at an annualized rate, the Israel Central Bureau of Statistics said on Sunday, outpacing the Bloomberg median forecast of 8.3% from eight economists. Q1 GDP was revised to a 2.2% contraction. Goods and services exports led the rebound, up 35.2%; government consumption rose 19.5%, private consumption 14.7% and fixed capital formation 6.3%. Mizrahi‑Tefahot Bank chief strategist Yonie Fanning said before the release the economy is expected to see a \"rapid recovery\" after contraction linked to conflict with Iran, with consumer spending including durables a key driver."
+    },
+    {
+      "id": "5042827",
+      "time": "2026-08-16 20:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國政府將建新機構追繳親日反民族行為者財產】韓國媒體16日報道，韓國政府將於12月新建一個調查委員會，負責追繳親日反民族行為者不當聚斂的財產。這將是韓國時隔16年首次重啟該工作，預計將追繳至少325億韓元（約合1.5億元人民幣）相關財產。"
+    },
+    {
+      "id": "5042826",
+      "time": "2026-08-16 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：藥康生物兩融餘額：2.88億元，餘額增幅：274.1%；必易微兩融餘額：1.53億元，餘額增幅：145.88%"
+    },
+    {
+      "id": "5042825",
+      "time": "2026-08-16 20:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗陸軍總司令：除3萬美元（50億土曼）獎賞外，任何成功消滅一名美軍勢力的個人，都將獲得其購買武器價格的兩倍獎賞，並領取一件新武器。"
+    },
     {
       "id": "5042824",
       "time": "2026-08-16 20:14:00",
