@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 09:36:29",
-  "count": 15234,
+  "updated": "2026-08-16 09:40:20",
+  "count": 15231,
   "items": [
+    {
+      "id": "5042528",
+      "time": "2026-08-16 09:36:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利比亞一發電站附近爆炸 首都等多地停電】利比亞國家電力公司15日宣佈，利比亞西部扎維亞發電站附近發生爆炸。爆炸導致多個發電廠停運，電網癱瘓，首都的黎波里和該國西部大片區域停電。該公司在一份宣告中說，維護團隊正在排除故障，已逐步恢復受影響地區電力供應。技術團隊已開始調查爆炸原因和技術細節。（新華社）"
+    },
     {
       "id": "5042527",
       "time": "2026-08-16 09:35:07",
@@ -139375,42 +139383,6 @@
         "CNH"
       ],
       "text": "【NBS: China July CPI +0.5% YoY; gold jewelry +24.6%】National Bureau of Statistics urban division chief statistician Dong Lijuan said China’s CPI rose 0.5% YoY in July, a 0.5ppt slowdown from June. The moderation was mainly driven by weaker gasoline inflation: gasoline prices rose 1.0% YoY, with the rate down 16.0ppt month-on-month, cutting CPI’s upward pull by about 0.45ppt and bringing energy price growth to 0.6%. Excluding energy, industrial consumer goods rose 1.5% YoY, down 0.2ppt and contributing roughly 0.37ppt to CPI. Gold jewelry prices increased 24.6%; personal-care goods +1.7%; household appliances +0.2%; these decelerations together added about 0.13ppt. Computers, tablets and mobile phones rose 17.4%, 17.2% and 8.5% YoY, respectively."
-    },
-    {
-      "id": "5032220",
-      "time": "2026-08-09 09:39:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬斯克釋出Terafab 渲染影片】馬斯克在 X 平臺釋出特斯拉 Terafab 新影片，影片中 Optimus 人形機器人和 Robovan 無人車首次同框亮相。Robovan 可載客 20 人或運貨，Optimus 量產線已在改造中，目標 2027 年夏季大規模量產。"
-    },
-    {
-      "id": "te:economy:573900",
-      "time": "2026-08-09 09:39:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "China Inflation Rate Hits 6-Month Low — China’s annual inflation rate eased to 0.5% in July 2026 from 1.0% in the previous month, falling short of market expectations of 0.8%. It was the lowest reading since January, as food prices continued to decline while non-food inflation slowed. On a monthly basis, consumer prices fell 0.1%, defying expectations for a 0.2% increase and following a 0.3% decline in June."
-    },
-    {
-      "id": "mkt:019fe42c-0864-7aab-8fc7-a59fcd64f4a3",
-      "time": "2026-08-09 09:38:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China July CPI MoM decline narrows to -0.1% - NBS】NBS urban statistics chief statistician Dong Lijuan said July national CPI fell 0.1% MoM, a narrowing of 0.2 percentage points from June. International price swings drove domestic gasoline down 10.7% MoM — a 5.8ppt larger decline than in June — subtracting about 0.35ppt from July MoM CPI. AI-led product upgrades raised consumer electronics prices: tablets +11.3%, computers +5.5%, mobile phones +1.0%, together adding roughly 0.03ppt to MoM CPI. Summer travel demand lifted service prices — travel agencies +7.2%, hotels +6.5%, airfares +4.2%, vehicle rental +3.6% — contributing about 0.10ppt to MoM CPI."
-    },
-    {
-      "id": "5032219",
-      "time": "2026-08-09 09:36:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特能源部：消防員已撲滅吉贊地區阿美煉油廠一處設施的火情，目前無人員傷亡報告。"
     }
   ]
 }
