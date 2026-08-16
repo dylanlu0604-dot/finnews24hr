@@ -1,7 +1,23 @@
 {
   "date": "2026-08-17",
-  "count": 40,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:01a00bb1-d849-7aab-904f-6a5aab1ce313",
+      "time": "2026-08-17 01:49:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hurricane Lala weakens to tropical storm】On Aug 16 local time, Hurricane Lala weakened to a tropical storm near Hawaii, but heavy rain and strong winds may still trigger flooding, landslides and hazardous marine conditions. Lala struck the southern coast of the Big Island as a Category 1 hurricane on Aug 15 and was downgraded by the U.S. National Weather Service. Hawaii’s governor said the storm caused at least one death."
+    },
+    {
+      "id": "5042925",
+      "time": "2026-08-17 01:49:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颶風“拉拉”減弱為熱帶風暴】當地時間8月16日，颶風“拉拉”在美國夏威夷附近海域減弱為熱帶風暴，但強降雨和大風仍可能引發洪水、山體滑坡及危險海況。“拉拉”15日以一級颶風強度襲擊夏威夷大島南部海岸，隨後被美國國家氣象局降級為熱帶風暴。不過，部分地區仍可能出現強降雨。夏威夷州州長表示，風暴15日造成至少1人死亡。（央視新聞）"
+    },
     {
       "id": "mkt:01a00bae-4e48-7aab-904f-62e50cbb38c1",
       "time": "2026-08-17 01:46:07",
