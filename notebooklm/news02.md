@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 22:32:10_
-_本檔包含 3185 則快訊，約 600444 字_
+_更新時間：2026-08-16 22:54:16_
+_本檔包含 3187 則快訊，約 600881 字_
+
+---
+
+### 2026-08-14 14:20:40  #央行 #日本央行
+
+【日本央行加息或提速！美元對日元急跌 市場擔心潛在流動性衝擊】在“近期有必要加息”上，日本政府與央行形成了共識，下一次加息視窗指向9月18日或10月29~30日的央行會議。市場人士認為，日本政府的表態意味著，他們也已意識到單靠外匯干預無法持久支撐日元，日本央行加息步調才是日元能否企穩的關鍵。
+
+---
+
+### 2026-08-14 14:20:19  #MKT News
+
+Australia's S&P/ASX 200 closed down 83.50 points (-0.91%) at 9,105.00 on Friday, Aug. 14.
+
+---
+
+### 2026-08-14 14:20:02  #其他
+
+LG將推出基於NVIDIA Isaac GR00T平臺打造的下一代人形機器人。
+
+---
+
+### 2026-08-14 14:19:56  #其他
+
+【浙江：制定腦機介面產品醫療應用清單】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 釋出應用場景清單。圍繞感知運動增強、重大腦疾病治療、腦健康管理與干預等方向，重點打造一批典型醫療應用場景，推動腦機介面創新產品先行先試。 最佳化產品應用路徑。制定腦機介面產品醫療應用清單，根據產品獲批上市情況動態更新。鼓勵腦機介面企業自主合理定價。試點開展腦機介面創新醫療器械示範推廣應用專案。 推進政府首購訂購。對符合首臺（套）裝備、首批次材料等政策的腦機介面產品，按照相關要求選擇適宜方式開展政府首購、訂購。
+
+---
+
+### 2026-08-14 14:19:15  #市場 #焦點
+
+京投發展盤中跌停，上演“天地板”，現報11.64元，成交額10.9億元。
+
+---
+
+### 2026-08-14 14:19:10  #MKT News #WTI #Impact bullish #Brent
+
+【Cui Dongshu: July 2026 China auto market weakness driven by oil shock, macro slowdown and seasonality】CPCA-affiliated Cui Dongshu said July weakness in the China auto market was caused by a convergence of factors: an oil-price rebound, macro slowdown, seasonality, demand pull-forward and policy shifts. Geopolitical disruption around the Strait of Hormuz pushed international oil prices higher; domestic gasoline prices have been cumulatively raised by 1,575 yuan/ton in 2026, significantly raising running costs and sharply eroding demand for gasoline passenger cars while having little impact on commercial-vehicle demand. July saw MoM declines in CPI and PPI and a softer PMI; cautious income and consumption expectations and weak appetite for big-ticket durables depressed housing and transport spending and terminal auto demand. High July temperatures reduced showroom footfall, and a June half-year sales push pulled forward demand, leaving orders and retail traffic falling in tandem.
 
 ---
 
@@ -19157,29 +19193,5 @@ Lenovo Group (00992.HK) shares jumped over 12% in afternoon trade after the comp
 ### 2026-08-13 13:00:47  #MKT News #Commodities #Energy
 
 【First 10‑million‑ton‑class crude pipeline of China’s 15th Five‑Year Plan commissioned】State Pipeline Network Group said on Aug. 13 the Lianyungang–Yizheng pipeline’s Lianyungang–Huaian segment entered service in one phase. The line, the first 10‑million‑ton‑class crude pipeline to start operating in the 15th Five‑Year Plan period, links to existing trunk lines to deliver crude to the eastern hub at Yizheng. Peak daily throughput is 70,000 tonnes; the pipeline will supply Jiangsu and Yangtze‑river refineries, widen supply channels, and support unified allocation of imported crude and optimization of the national oil‑and‑gas “one network” across central‑eastern China and the Yangtze Delta.
-
----
-
-### 2026-08-13 13:00:03  #市場 #焦點
-
-創業板指漲1.61%，現報3660.252點；上證指數漲0.42%，現報3963.152點；深證成指漲0.76%，現報14524.172點。
-
----
-
-### 2026-08-13 12:59:04  #公司 #國際
-
-【“十五五”首條千萬噸級原油管道投產】國家管網集團8月13日宣佈，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連雲港至淮安段投產一次成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。連儀管道連淮段投產後，與已投運的日儀管道聯通，將原油最終輸送至我國東部原油樞紐儀徵站，日輸量最高可達7萬噸，服務保障江蘇省及長江沿線煉化企業，有效提升長江沿線使用者用能多通道資源保障能力，對我國長三角區域油氣管網布局最佳化、進口原油資源統一調配等發揮重要作用。（新華社）
-
----
-
-### 2026-08-13 12:54:53  #市場 #央行 #國際
-
-【日元走強 據稱日本政府將支援加快日本央行加息步伐】知情人士透露，首相高市早苗領導的政府支援日本央行近期加息，預計下一次加息可能在9月或10月，受此訊息影響，日元兌美元走強，日本國債下跌。日元兌美元匯率上漲0.1%，至159.19。日本國債期貨下跌9個基點至126.48。
-
----
-
-### 2026-08-13 12:53:12  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-【Japanese government reportedly backs faster Bank of Japan rate hikes】Japanese Prime Minister Takaichi reportedly supports the Bank of Japan moving to raise rates sooner, with the next action possibly in September or October. The shift reflects BOJ concern that a weak yen is pushing up prices and the government's desire to reinforce the recent US-Japan coordinated FX intervention; the two sides are said to be aligning on the need for near-term hikes. The prime minister's office said monetary policy measures, including any rate changes, remain the BOJ's decision but called for close coordination to stabilise progress toward the 2% inflation target.
 
 ---

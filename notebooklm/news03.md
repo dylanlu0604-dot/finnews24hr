@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 22:32:10_
-_本檔包含 2955 則快訊，約 600504 字_
+_更新時間：2026-08-16 22:54:16_
+_本檔包含 2951 則快訊，約 600295 字_
+
+---
+
+### 2026-08-13 13:00:03  #市場 #焦點
+
+創業板指漲1.61%，現報3660.252點；上證指數漲0.42%，現報3963.152點；深證成指漲0.76%，現報14524.172點。
+
+---
+
+### 2026-08-13 12:59:04  #公司 #國際
+
+【“十五五”首條千萬噸級原油管道投產】國家管網集團8月13日宣佈，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連雲港至淮安段投產一次成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。連儀管道連淮段投產後，與已投運的日儀管道聯通，將原油最終輸送至我國東部原油樞紐儀徵站，日輸量最高可達7萬噸，服務保障江蘇省及長江沿線煉化企業，有效提升長江沿線使用者用能多通道資源保障能力，對我國長三角區域油氣管網布局最佳化、進口原油資源統一調配等發揮重要作用。（新華社）
+
+---
+
+### 2026-08-13 12:54:53  #市場 #央行 #國際
+
+【日元走強 據稱日本政府將支援加快日本央行加息步伐】知情人士透露，首相高市早苗領導的政府支援日本央行近期加息，預計下一次加息可能在9月或10月，受此訊息影響，日元兌美元走強，日本國債下跌。日元兌美元匯率上漲0.1%，至159.19。日本國債期貨下跌9個基點至126.48。
+
+---
+
+### 2026-08-13 12:53:12  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+【Japanese government reportedly backs faster Bank of Japan rate hikes】Japanese Prime Minister Takaichi reportedly supports the Bank of Japan moving to raise rates sooner, with the next action possibly in September or October. The shift reflects BOJ concern that a weak yen is pushing up prices and the government's desire to reinforce the recent US-Japan coordinated FX intervention; the two sides are said to be aligning on the need for near-term hikes. The prime minister's office said monetary policy measures, including any rate changes, remain the BOJ's decision but called for close coordination to stabilise progress toward the 2% inflation target.
 
 ---
 
@@ -17786,53 +17810,5 @@ Hong Kong-listed optical-communications stocks rallied: Xizhi Technology (01879.
 ### 2026-08-12 09:51:43  #MKT News
 
 【Trump confirms secret plane switch after Turkey trip, cites security threats】Trump confirmed he secretly switched planes when leaving Turkey last month, saying the Secret Service and military required the move because of security threats. The White House had led the public to believe he returned on Air Force One, but he was flown on a different aircraft. The Washington Post reported the arrangement stemmed from an Iranian assassination threat. Speaking Tuesday while returning from Ohio to Washington, Trump said "they wanted me on another flight...so I did" and that he had received "many threats," but he declined to disclose details and did not explain why staff and reporters who flew back on Air Force One were considered safe while he was not.
-
----
-
-### 2026-08-12 09:51:32  #國際
-
-【中國和剛果（布）中非合作論壇事務負責人舉行會談】據外交部訊息，2026年7月29日，中非合作論壇中方後續行動委員會共同主席、外交部副部長苗得雨和剛果（布）副總理兼剛方中非合作論壇事務協調委員會副協調人布亞在北京舉行會談。苗得雨表示，雙方要充分發揮零關稅政策綜合賦能效應，深挖農業、衛生、數字、人工智慧、綠色發展等領域合作潛力。中剛要繼續攜手履行好中非合作論壇共同主席國職責，加強溝通協作，推動加快落實2024年論壇北京峰會成果，辦好論壇機制重要會議，進一步擦亮中非合作論壇“金字招牌”，引領全球南方合作和國際對非合作。
-
----
-
-### 2026-08-12 09:50:35  #MKT News #Market Regions #Greater China
-
-A-share culture and media sector spiked briefly; Shenguang Group and Hubei Broadcasting hit daily limit-up, while Tianlong Group, Fengyuzhu, Tianyu Digital and Yinli Media also rallied.
-
----
-
-### 2026-08-12 09:50:14  #公司
-
-【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局透過優先審評審批程式，附條件批准藥捷安康（南京）科技股份有限公司申報的1類創新藥替恩戈替尼片（商品名稱：捷恩泰）上市，該藥用於既往接受過系統性治療和FGFR抑制劑治療，且具有成纖維細胞生長因子受體（FGFR）2融合或重排的晚期、轉移性或不可手術切除的膽管癌成人患者的治療。該藥品上市為患者提供了新的治療選擇。近日，國家藥品監督管理局批准濟川藥業集團有限公司申報的中藥1.1類創新藥小兒通便顆粒上市。該藥品為《中藥註冊管理專門規定》釋出後首個主治為證候的中藥創新藥，具有健脾行氣、導滯通便的功效，用於小兒便秘中醫辨證屬食積證者，症見大便乾結、排便困難，舌紅、苔厚膩、脈滑等，該藥品的上市為治療小兒便秘提供了新的選擇。
-
----
-
-### 2026-08-12 09:49:51  #央行 #美聯儲
-
-【美聯儲古爾斯比：通脹是美國經濟當前面臨的最大問題】美國芝加哥聯儲主席古爾斯比8月11日表示，目前更擔憂通脹過高，而非勞動力市場疲軟。古爾斯比稱：“當前美國經濟面臨的最大問題，不是產業崩潰、也不是就業崩塌，而是物價漲得太快。”他提到，從失業率、招聘率和裁員率等指標來看，“勞動力市場穩定，但談不上好。”
-
----
-
-### 2026-08-12 09:49:32  #公司 #市場
-
-【文化傳媒板塊拉昇，省廣集團漲停】文化傳媒板塊拉昇，省廣集團、湖北廣電漲停，天龍集團、風語築、天娛數科、引力傳媒跟漲。
-
----
-
-### 2026-08-12 09:49:16  #國際
-
-俄羅斯新羅西斯克市市長表示，無人機襲擊了黑海港口新羅西斯克的居民樓。
-
----
-
-### 2026-08-12 09:49:04  #公司 #市場
-
-【半導體裝置概念震盪走強 至純科技漲停】半導體裝置概念震盪走強，至純科技漲停，芯源微漲超8%，耐科裝備、中科飛測、中微公司、賽騰股份跟漲。
-
----
-
-### 2026-08-12 09:48:49  #公司 #國際 #原創
-
-【韓國最高法院裁決：三星證券向韓國國民年金公團支付18.6億韓元賠償】韓國最高法院裁定，三星證券必須向韓國國民年金公團（NPS）支付18.6億韓元，以彌補因2018年股息支付錯誤造成的損失。 2018年4月，三星證券誤將每位員工1000韓元的現金股息發放為1000股股票；隨後員工拋售導致股價盤中一度下跌11.7%。韓國國民年金公團曾尋求299億韓元的賠償，而一家下級法院則判令三星證券賠償 18.6 億韓元。韓國最高法院週三支援了這一裁決。三星證券在另一份宣告中表示，“尊重最高法院的最終裁決”。
 
 ---
