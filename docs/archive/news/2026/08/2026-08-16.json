@@ -1,7 +1,27 @@
 {
   "date": "2026-08-16",
-  "count": 649,
+  "count": 651,
   "items": [
+    {
+      "id": "mkt:01a00b3e-1d14-7aab-904e-a39fc34012d8",
+      "time": "2026-08-16 23:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported Kushner told Hamas that peace can be achieved only if all parties fulfill their commitments."
+    },
+    {
+      "id": "mkt:01a00b3d-7859-7aab-904e-9a6b87a29097",
+      "time": "2026-08-16 23:42:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Russian Defence Ministry said it struck three warships and two tankers used to deliver military supplies and fuel to Ukrainian forces based at the port of Odesa."
+    },
     {
       "id": "mkt:01a00b3a-ea3b-7aab-904e-91d5250faaab",
       "time": "2026-08-16 23:40:05",
