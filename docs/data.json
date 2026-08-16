@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-16 08:57:58",
-  "count": 15256,
+  "updated": "2026-08-16 09:02:10",
+  "count": 15259,
   "items": [
+    {
+      "id": "mkt:01a00816-89ad-7aab-904b-bae1c32b593e",
+      "time": "2026-08-16 09:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Harvard discloses $2.2 bln SpaceX stake】Harvard Management Company disclosed a $2.2 bln stake in SpaceX in a Friday regulatory filing, making SpaceX the largest single-stock holding in its $4.3 bln U.S. equity portfolio. SpaceX’s record June IPO delivered substantial gains to university endowments that held earlier VC positions. The University of California’s investment office this week disclosed roughly $1 bln in SpaceX holdings; the University of North Carolina and Washington University in St. Louis also report stakes."
+    },
+    {
+      "id": "5042510",
+      "time": "2026-08-16 09:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車：截至今日，蔚來全國建成9,210座充換電站，其中換電站4,020座，充電站5,190座、充電樁29,915根，累計提供超1.2億次換電。"
+    },
+    {
+      "id": "5042509",
+      "time": "2026-08-16 09:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江調整水旱災害防禦應急響應至三級】記者從浙江省水利廳瞭解到，當前，浙江苕溪流域瓶窯站水位6.64米，已降至保證水位以下，杭嘉湖東部平原嘉興站水位高位波動，緩慢回落。根據《浙江省水利廳水旱災害防禦應急工作預案》，浙江省水利廳決定於今日8時30分將水旱災害防禦應急響應調整至Ⅲ級（三級）。"
+    },
+    {
+      "id": "5042508",
+      "time": "2026-08-16 08:59:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門攔截邁哈市上空的胡塞武裝無人機。"
+    },
+    {
+      "id": "5042507",
+      "time": "2026-08-16 08:58:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高瓴旗下HHLR披露最新美股持倉 二季度增持英偉達】近日，高瓴旗下專注二級市場投資的基金管理平臺HHLR Advisors（簡稱“HHLR”）公佈的最新美股持倉情況顯示，截至二季度末，HHLR美股持倉總市值約為8.32億美元，持倉數量為35只，生物科技繼續佔據組合重要位置。從加減倉動作來看，HHLR二季度增持了英偉達、Coherent、Corning及Lumentum等半導體和光通訊相關標的。"
+    },
     {
       "id": "5042506",
       "time": "2026-08-16 08:56:57",
@@ -139609,22 +139649,6 @@
         "其他"
       ],
       "text": "【7 月流行計算機病毒當心中招】國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺捕獲發現下列計算機病毒程式，並總結2026年7月流行計算機病毒特點如下：1一是仿冒主流熱門軟體。仿冒物件非常廣泛，全面覆蓋即時通訊類、裝機類、辦公類、網路瀏覽類、網路購物類、網路遊戲類、人工智慧類等流行軟體。2二是仿冒所謂“啟用工具”。仿冒盜版作業系統啟用工具，明顯針對新裝機使用者或重灌系統使用者。3三是仿冒公文。“銀狐”系列木馬病毒繼續使用“裁員”“違紀”等人事敏感話題偽造公文欺騙誘導使用者。4四是仿冒暑期培訓教育類應用。多款手機和PC木馬病毒變種偽裝成暑期培訓教育類軟體針對家長和學生群體定向傳播。廣大計算機使用者可透過國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）檢索詳細資訊並上傳檢測可疑檔案，建議單位網路管理員根據有關檔案特徵加強本單位計算機病毒防治措施。"
-    },
-    {
-      "id": "5032187",
-      "time": "2026-08-09 08:59:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "調研顯示，七成韓國民眾認為理想狀態下至少生育兩個孩子，但受經濟壓力等多重因素影響，多數人最終只生育一胎。"
-    },
-    {
-      "id": "mkt:019fe407-0da4-7aab-8fc7-234cfe866469",
-      "time": "2026-08-09 08:58:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Elon Musk says Starlink V3 will be an order-of-magnitude improvement over V2】Elon Musk said Starlink’s third-generation satellites (V3), planned to be launched by Starship, would deliver roughly an order-of-magnitude improvement in overall performance versus the current Falcon-launched second-generation (V2) fleet. He said SpaceX plans to deploy an order-of-magnitude larger V3 fleet and later iterations alongside remaining V2 and handset-direct satellites, raising total bandwidth to more than 100x that of V2. Musk forecast V2’s ARR this year at $20bn and said SpaceX’s communications revenue could exceed $200bn even if revenue per gigabit falls to one-tenth."
     }
   ]
 }

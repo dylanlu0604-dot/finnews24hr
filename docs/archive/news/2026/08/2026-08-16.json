@@ -1,7 +1,47 @@
 {
   "date": "2026-08-16",
-  "count": 173,
+  "count": 178,
   "items": [
+    {
+      "id": "mkt:01a00816-89ad-7aab-904b-bae1c32b593e",
+      "time": "2026-08-16 09:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Harvard discloses $2.2 bln SpaceX stake】Harvard Management Company disclosed a $2.2 bln stake in SpaceX in a Friday regulatory filing, making SpaceX the largest single-stock holding in its $4.3 bln U.S. equity portfolio. SpaceX’s record June IPO delivered substantial gains to university endowments that held earlier VC positions. The University of California’s investment office this week disclosed roughly $1 bln in SpaceX holdings; the University of North Carolina and Washington University in St. Louis also report stakes."
+    },
+    {
+      "id": "5042510",
+      "time": "2026-08-16 09:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車：截至今日，蔚來全國建成9,210座充換電站，其中換電站4,020座，充電站5,190座、充電樁29,915根，累計提供超1.2億次換電。"
+    },
+    {
+      "id": "5042509",
+      "time": "2026-08-16 09:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江調整水旱災害防禦應急響應至三級】記者從浙江省水利廳瞭解到，當前，浙江苕溪流域瓶窯站水位6.64米，已降至保證水位以下，杭嘉湖東部平原嘉興站水位高位波動，緩慢回落。根據《浙江省水利廳水旱災害防禦應急工作預案》，浙江省水利廳決定於今日8時30分將水旱災害防禦應急響應調整至Ⅲ級（三級）。"
+    },
+    {
+      "id": "5042508",
+      "time": "2026-08-16 08:59:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門攔截邁哈市上空的胡塞武裝無人機。"
+    },
+    {
+      "id": "5042507",
+      "time": "2026-08-16 08:58:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高瓴旗下HHLR披露最新美股持倉 二季度增持英偉達】近日，高瓴旗下專注二級市場投資的基金管理平臺HHLR Advisors（簡稱“HHLR”）公佈的最新美股持倉情況顯示，截至二季度末，HHLR美股持倉總市值約為8.32億美元，持倉數量為35只，生物科技繼續佔據組合重要位置。從加減倉動作來看，HHLR二季度增持了英偉達、Coherent、Corning及Lumentum等半導體和光通訊相關標的。"
+    },
     {
       "id": "5042506",
       "time": "2026-08-16 08:56:57",
