@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 06:53:39_
-_本檔包含 3147 則快訊，約 601317 字_
+_更新時間：2026-08-17 07:30:14_
+_本檔包含 3147 則快訊，約 601175 字_
+
+---
+
+### 2026-08-14 15:30:23  #國際
+
+泰國外匯儲備增至2806.5億美元。
+
+---
+
+### 2026-08-14 15:30:17  #公司
+
+【資料中心擴建潮下，柴油發電機“爆單”】隨著AI熱潮持續升溫，大型資料中心加速建設，柴油發電機這一傳統裝置迎來了新的發展機遇。當前，資料中心用高功率柴油發電機市場由羅羅、康明斯、卡特彼勒等跨國龍頭主導。據媒體報道，包括上述三家公司在內的龍頭企業都表示，大功率資料中心備用發電機產能已排產至2027年至2028年。國內柴油發電機廠商同樣受益於資料中心建設熱潮。濰柴動力今年在投資者電話會中披露，全球資料中心電力需求保持高速增長，公司一季度電力能源產品銷售3萬臺，同比增長21%；大缸徑發動機銷量超3000臺，同比增長21%；資料中心用發動機銷售超500臺，同比大幅增長超240%。目前訂單需求飽滿，電力能源業務對整體業績的貢獻將進一步提升。（介面新聞）
+
+---
+
+### 2026-08-14 15:30:14  #公司
+
+【科泰電源在江蘇成立新公司】企查查APP顯示，近日，科泰電源（江蘇）有限公司成立，法定代表人為周路來，註冊資本為5000萬元，經營範圍包含發電機及發電機組製造；智慧輸配電及控制裝置銷售；電力電子元器件製造；電池製造；儲能技術服務等。企查查股權穿透顯示，該公司由科泰電源全資持股。
+
+---
+
+### 2026-08-14 15:30:11  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.01% Higher — The CAC 40 Index is up by 1 points or 0.01 percent on Friday. Top gainers are Dassault Systemes (3.32%), Capgemini (2.03%) and Edenred (1.93%). Biggest losses came from STMicroelectronics (-1.54%), ENGIE (-1.03%) and ArcelorMittal (-0.97%).
+
+---
+
+### 2026-08-14 15:30:01  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Hormuz Strait disruption spurs Asian refiners to buy U.S. crude】Traders say the Strait of Hormuz remains effectively closed, prompting Asian refiners to seek alternative deliveries later this year; at least four Asian refiners bought U.S. crude this week. The U.S. and Iran both claim control of the strait, and vessel traffic fell below the monthly average in the back half of the week. With no near-term reopening visible, tighter fuel availability is boosting refining margins and pushing refiners to lock crude supplies outside the Gulf for the coming months. South Korea’s GS Caltex bought 2 mln barrels of Mars crude from Shell for November delivery at roughly $13–14/bl over October Dubai. Japan’s Cosmo Energy bought Mars crude from a trader for November delivery. Japan’s ENEOS bought 2 mln barrels of WTI from the same trader for November delivery, at more than $10/bl over October WTI.
+
+---
+
+### 2026-08-14 15:28:06  #公司
+
+【麥格理：大幅上調聯想集團目標價至66港元，續列入精選買入名單】麥格理髮表研報指，聯想集團2027財年首季度業績勝預期，三大業務部門收入均錄得雙位數同比增幅。其中 ISG業務收入增長98%創新高，經營利潤率達9.1%，IDG及SSG業務收入則分別增長27%及28%。該行將聯想2027至2029財年經調整純利預測上調51.5%、43.2%及38.4%，以反映ISG業務收入強勁及經營利潤率擴張，目標價由37.4港元大幅上調76%至66港元，維持“跑贏大市”評級，繼續列入精選買入名單。該行預測聯想2027財年收入同比增長30%至1080億美元，經調整純利達43億美元，淨利潤率料錄4%。
+
+---
+
+### 2026-08-14 15:27:27  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #USDJPY #DXY
+
+【Oxford Economics: Tax-cut cost seen; Japan primary deficit may widen to 3% of GDP】Oxford Economics says Japan’s planned food consumption tax cut will widen the fiscal deficit and lift JGB yields. Economist Norihiro Yamaguchi estimates the cut would reduce annual tax revenue by about ¥5 trillion and is unlikely to be fully offset by other measures. The firm assumes part of the shortfall will be covered by non-tax receipts and spending cuts, but that roughly half will be financed by debt, pushing the primary fiscal deficit to about 3% of GDP. It expects the deficit to begin improving from 2029 as debt/GDP rises and fiscal consolidation intensifies. Oxford Economics forecasts 10-year JGB yields will rise to around 3% by end-2026, from roughly 2.8% today. Market reaction so far has been limited, but the firm warns markets will increasingly price in the fiscal impact as policy details emerge.
+
+---
+
+### 2026-08-14 15:22:56  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed
+
+【Extreme heat dents UK economy; losses estimated at about £6bln】Persistent extreme heat and scarce rainfall are increasingly weighing on UK activity: about two-thirds of England is now in formal drought. Prime Minister Andy Burnham convened an emergency meeting this week on drought and wildfires. Heat is keeping consumers off high streets, hitting agriculture, delaying construction and reducing labour productivity. A Friday institutional analysis estimates cumulative losses at roughly £6bln, about 0.2% of output. Economists say the hot summer is a negative supply shock; while GDP-level effects may be temporary, there is a risk it could push up prices in some sectors, complicating the Bank of England's fight against elevated inflation.
+
+---
+
+### 2026-08-14 15:22:48  #國際
+
+【澳大利亞每25戶家庭就有1戶安裝儲能電池 家庭儲能規模超過美國】在一項政府計劃推動下，澳大利亞已有50萬戶家庭安裝家用儲能電池，約佔全國家庭總數的4%。這項計劃正重塑這個全球最具波動性的電力市場之一。澳大利亞能源部長Chris Bowen週五宣佈達到這一里程碑。距離政府推出廣受歡迎的家用電池補貼計劃還不到14個月。澳大利亞家庭正成為該國能源轉型的重要推動力。而在住宅太陽能領域，澳大利亞本已位居全球前列，每三戶家庭中就有一戶安裝了太陽能板。“這是澳大利亞家庭取得的一項具有全球意義的成就：實現了14吉瓦時的儲能容量，”Bowen在新聞釋出會上表示。“相比之下，美國全國僅有9吉瓦時儲能容量，而其人口規模是我們的12倍。”
+
+---
+
+### 2026-08-14 15:21:40  #MKT News
+
+A NATO military headquarters spokesperson said an Italian Typhoon fighter jet neutralized a potential threat over an uninhabited area after confirmation, in connection with an earlier drone incident in Latvia.
+
+---
+
+### 2026-08-14 15:21:27  #其他
+
+【淡馬錫任命新董事，前新加坡公務員首長葉成昌加盟】8月14日，淡馬錫控股宣佈，前新加坡公務員首長葉成昌將於8月15日起加入董事會。淡馬錫表示，葉成昌擁有43年公共服務經歷，2017年起擔任新加坡公務員首長兼總理公署（戰略）常任秘書，他於今年4月從新加坡行政服務部門退休。淡馬錫董事長表示，葉成昌在安全、勞動力、經濟及國家政策等領域擁有豐富經驗，將為董事會提供重要補充。
+
+---
+
+### 2026-08-14 15:20:55  #公司 #觀點
+
+【中金：中國移動需求旺盛CAPEX同比增長，維持AH股“跑贏行業”評級】中金公司研報指出，中國移動1H26收入符合預期，利潤好於預期。1H26基礎通訊業務承壓、算力服務增長明顯、智慧服務基本穩定。Token 經營、算力業務等新業務契合市場旺盛需求、發展迅速，伴隨新業務發展，上半年資本開支同比增長並且結構顯著向算力傾斜。認為客戶算力需求旺盛，公司資本開支提升及結構變化與業務發展匹配；展望全年，一方面，公司或將進行資料中心、算力資源適度前置投入；一方面，考慮到通訊網路資源仍能承載使用者流量提升後的網路需求，支援資本開支金額總體可控。公司重視股東回報，淨利潤下滑壓力下，每股股息仍提升。採用SOTP估值法，A股維持“跑贏行業”評級和118元目標價，港股維持“跑贏行業”評級和102港元目標價。
+
+---
+
+### 2026-08-14 15:20:45  #Trading Economics #Economy #Switzerland #GDP Growth Rate #Importance 2
+
+Swiss Q2 GDP Growth Strongest Since 2021 — Switzerland's economy expanded by 1.5% quarter-on-quarter in the three months to June 2026, accelerating sharply from 0.4% growth in the previous period, according to flash estimates. The reading marked the strongest quarterly expansion since the third quarter of 2021, underscoring the country's ability to withstand headwinds, including elevated energy costs linked to Middle East tensions and persistent trade uncertainty. The latter stems from the absence of a legally binding trade agreement with the US, even after Switzerland secured a preliminary deal last November that capped tariffs at 15%. Growth was driven primarily by the industrial sector, with the chemical and pharmaceutical industry providing the largest boost to economic activity. The services sector also expanded, further supporting the broad-based improvement in output.
+
+---
+
+### 2026-08-14 15:20:26  #其他
+
+【浙江長興突發山洪泥石流致1死3失聯】受突發短時強降雨極端天氣影響，8月14日6時30分許，浙江長興縣和平鎮灘龍橋村發生泥石流，初步判定為山洪引發，致一棟民房垮塌。險情發生後，長興縣第一時間啟動應急響應，立即組織應急、資規、消防、公安、衛健等部門趕赴現場開展人員搜救、醫療救治等應急救援工作。截至14日14時30分，經初步核實，災情造成1人死亡、3人失聯。應急救援工作正在全力有序開展。（新華社）
+
+---
+
+### 2026-08-14 15:20:05  #其他
+
+北約軍事總部發言人就今日早些時候拉脫維亞無人機事件發表宣告：經確認身份後，一架義大利“颱風”戰鬥機在無人區域將這一潛在威脅擊毀。
+
+---
+
+### 2026-08-14 15:19:44  #宏觀 #公司
+
+【李樂成調研鹽湖產業和工業綠色低碳發展】近日，工業和資訊化部黨組書記、部長李樂成赴青海、甘肅、寧夏等地調研鹽湖產業和工業綠色低碳發展情況。在青海格爾木市，李樂成先後到青海鹽湖鎂業、鉀肥、鋰電公司，調研鹽湖金屬鎂一體化、鉀肥、鋰鹽等專案生產情況。他強調，要深入貫徹落實習近平總書記關於加快建設世界級鹽湖產業基地的重要指示精神，落實黨中央、國務院決策部署，把建設世界級鹽湖產業基地作為推進新型工業化、發展新質生產力的重大任務，為維護國家糧食和能源資源安全、加快建設現代化產業體系提供堅實保障。要科學謀劃鹽湖產業發展戰略，加強政策支援和要素保障，做優做強企業，促進資源整合和產業協同，攻堅鹽湖資源開發關鍵核心技術，提高鉀、鋰、鎂等資源開發利用效率和精深加工水平，打造特色優勢產業鏈，構建技術先進、保障有力、綠色智慧、效益一流的產業體系，全面提升產業國際競爭力，推動鹽湖產業高質量發展邁上新臺階。李樂成還深入青海清潔能源和綠色算力排程中心、甘肅資源綜合利用有關企業、寧夏寧東能源化工基地以及六盤山實驗室等，實地察看算力電力協同和綠色算力產業發展、廢舊新能源汽車動力電池回收再利用產業情況，詳細瞭解寧東200萬千瓦複合光伏專案、寧東煤化工基地建設以及儀器儀表領域中試驗證平臺能力建設情況。他強調，要發揮碳達峰碳中和戰略牽引作用，堅持智慧化、綠色化、融合化方向，統籌推進產業綠色化和綠色產業化，以務實舉措培育壯大綠色生產力。(工信微報)
+
+---
+
+### 2026-08-14 15:18:54  #市場 #國際
+
+印尼股市基準指數上漲1%，至6366.68美元。
+
+---
+
+### 2026-08-14 15:18:45  #Trading Economics #Markets #Commodity #Importance 0
+
+UK Natural Gas Hovers Near Multi-Week Highs — UK natural gas prices steadied at 148.4 pence a therm on Friday, hovering near a more than two-week high, amid persistent concerns over Europe’s gas supply security ahead of winter. The US on Thursday threatened to maintain its naval blockade of Iran indefinitely, increasing pressure on Tehran as ceasefire talks have stalled. The standoff has heightened uncertainty around the Strait of Hormuz, with both sides making competing claims of control over the strategic waterway. The disruption has severely delayed LNG cargoes from Qatar, forcing European buyers to compete aggressively with Asian importers for limited supplies. This is making it harder and more costly for Europe to rebuild gas inventories before winter, with storage facilities currently only 59% full, below historical averages. Meanwhile, heatwaves across Southern and Central Europe have boosted gas-fired power generation to meet cooling demand, diverting supplies from storage. UK gas prices have risen over 9% this week.
+
+---
+
+### 2026-08-14 15:18:24  #Trading Economics #Markets #Commodity #Importance 1
+
+European Gas Hovers Near Multi-Week Highs — European natural gas prices steadied at €60.4 per MWh on Friday, hovering near a more than two-week high, amid persistent concerns over Europe’s gas supply security ahead of winter. The US on Thursday threatened to maintain its naval blockade of Iran indefinitely, increasing pressure on Tehran as ceasefire talks have stalled. The standoff has heightened uncertainty around the Strait of Hormuz, with both sides making competing claims of control over the strategic waterway. The disruption has severely delayed LNG cargoes from Qatar, forcing European buyers to compete aggressively with Asian importers for limited supplies. This is making it harder and more costly for Europe to rebuild gas inventories before winter, with storage facilities currently only 59% full, below historical averages. Meanwhile, heatwaves across Southern and Central Europe have boosted gas-fired power generation to meet cooling demand, diverting supplies from storage. European gas prices have risen over 8% this week.
+
+---
+
+### 2026-08-14 15:18:15  #MKT News
+
+【US media: White House communications director Zhang Zhenxi emerges as candidate to replace press secretary Karoline Leavitt】The New York Post reported on Aug. 12 that White House communications director Zhang Zhenxi is a leading candidate to replace outgoing press secretary Karoline Leavitt. Zhang, a California native, previously worked for then‑Governor Arnold Schwarzenegger. Press secretaries are often promoted from inside the White House communications team. As of the afternoon of Aug. 12, prediction market Kalshi put Zhang’s probability of succeeding Leavitt at 13%.
+
+---
+
+### 2026-08-14 15:17:55  #市場
+
+布倫特原油期貨漲幅超1%，盤中觸及每桶88.64美元的高點。
+
+---
+
+### 2026-08-14 15:17:44  #市場 #觀點
+
+【全球光收發器銷售額暴增74%，創業板人工智慧ETF華寶（159363）8月以來漲14.48%】8月14日，創業板人工智慧ETF華寶（159363）強勢上漲3%，自8月以來漲幅14.48%。訊息面上，LightCounting統計2025年全球光收發器銷售額約268億美元，同比增長74%；高盛預測全球光模組TAM將從2025年的342億美元增至2027年的726億美元。Lumentum確認CPO量產計劃按推進，已獲數億美元訂單，鐳射器缺口仍在30%以上。新易盛上半年淨利潤預計同比增長77.56%至102.93%，800G光模組已成主力出貨產品，1.6T光模組Q2放量加速。全球九大雲服務商2026年合計資本支出約8300億美元，同比增長79%。創業板人工智慧ETF華寶（159363）跟蹤指數的一半權重集中在光模組CPO板塊，另一半權重覆蓋國產算力、AI軟體應用領域，形成“硬體+應用”的均衡佈局。全方位把握AI主題機會，關注全市場首隻創業板人工智慧ETF華寶（159363）及場外聯接 （023407.OF，023408.OF）。
+
+---
+
+### 2026-08-14 15:17:35  #國際
+
+現代汽車韓國工會：將於8月18日與資方重啟薪資談判。
+
+---
+
+### 2026-08-14 15:17:24  #市場 #國際
+
+美國原油期貨漲幅持續擴大，上漲超 2%，盤中最高觸及每桶 82.99 美元。
+
+---
+
+### 2026-08-14 15:17:19  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
+
+AIA Stock Price Hits 4-week Low — AIA shares decreased to 70.55 HKD, the lowest since July 2026. Over the past 4 weeks, AIA Group lost 7.35%, and in the last 12 months, it decreased 5.8%.
+
+---
+
+### 2026-08-14 15:17:08  #Trading Economics #Economy #Moldova #Balance of Trade #Importance 1
+
+Moldova Trade Deficit Widens in June — Moldova’s trade deficit widened to USD 620.9 million in June 2026 from USD 586.9 million in the corresponding month a year earlier, though it marked the lowest deficit in five months. Imports rose 9.8% year-on-year to USD 936.6 million, driven by higher purchases from CIS countries (35.1%), EU countries (9.4%), and other markets (9.2%). Meanwhile, exports increased 18.7% to USD 315.7 million, supported by higher shipments to CIS countries (15.2%), EU countries (19.5%), and other markets (17.2%). For the January-June period, the trade gap widened to USD 3,891.3 million from USD 3,515 million in the same period last year, as exports rose 20.3% and imports increased 13.7%.
+
+---
+
+### 2026-08-14 15:16:17  #MKT News #Market Regions #Greater China
+
+【Chinese government bond futures midday close】2-year government bond futures (TS) most-active contract up 0.01%, 5-year (TF) up 0.05%, 10-year (T) up 0.06%, 30-year (TL) up 0.09% at midday close.
+
+---
+
+### 2026-08-14 15:16:11  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.07% Higher — The Shangai Composite Index rose 3 points or 0.07 percent on Friday to close at 3930 points. Leading the gains are Fuyao Glass Indu (2.66%), Avic Aviation Engine (1.63%) and Baosteel (1.41%). Top losers were Datang Intl (-6.21%), Greenland Holdings (-3.05%) and Yonghui Superstore (-2.44%).
+
+---
+
+### 2026-08-14 15:15:39  #公司 #國際
+
+【戰爭擾亂供應，印度煉油商提前數月搶購原油】受烏克蘭襲擊俄羅斯能源設施以及霍爾木茲海峽局勢僵持影響，印度國有煉油企業正一反常態，大幅提前採購現貨原油。印度石油公司、印度斯坦石油公司等企業已敲定部分十月原油供應，目前還在尋求 11 月的原油船貨。美國有可能對包括印度在內的俄羅斯油氣採購方實施制裁，這也助推本輪搶購潮，印度企業計劃在未來數週釋出更多招標。
+
+---
+
+### 2026-08-14 15:15:27  #MKT News #Market Regions #Japan & APAC
+
+【China defense ministry warns Japan's 'new militarism' poses regional risk】On Aug. 14 China's Ministry of National Defense spokesman Chen Xi said post-war Japan has not fully learned from history, has long tolerated right-wing revisionism and is undermining its pacifist constitution and 'exclusively defense' principle. He accused Tokyo of using so‑called "external threats" to justify sharp increases in defense spending, development of offensive capabilities and expansion of its defense-industrial base, calling this a 'new militarism' that threatens regional stability. Chen urged Japan to repent, cease remilitarization and abide by the post‑war international order, warning further missteps would bring more painful defeat and a more thorough reckoning.
 
 ---
 
@@ -18775,189 +18955,5 @@ Switzerland | Producer/Import Prices (YoY) (Jul) | actual -2.1% | previous -2.10
 ### 2026-08-13 14:28:42  #Trading Economics #Economy #United Kingdom #Manufacturing Production MoM #Importance 1
 
 UK Manufacturing Output Falls More Than Expected — Manufacturing production in the UK fell 0.5% month-on-month in June 2026, worse than market expectations and May's downwardly revised 0.2% drop. Output contracted in seven of the thirteen manufacturing subsectors, with the largest negative contributions coming from the manufacture of basic pharmaceutical products and preparations (-5.1% vs 0.2% in May), alongside computer, electronic and optical products (-0.9% vs 2.1%), and machinery and equipment not elsewhere classified (-0.1% vs 3.4%). Meanwhile, production rebounded in the manufacture of food products, beverages and tobacco (1.0% vs -0.1%), coke and refined petroleum products (0.4% vs -1.0%), rubber and plastic products and non-metallic mineral products (0.4% vs -1.9%), and other manufacturing and repair activities (3.2% vs -1.4%). On an annual basis, manufacturing output growth slowed to a four-month low of 0.5% from a downwardly revised 2.0% in May, falling short of market expectations for a 1.2% increase.
-
----
-
-### 2026-08-13 14:28:38  #市場
-
-【5年期存款利率逆勢上升】2026年7月銀行存款利率報告顯示：2026年7月，銀行整存整取存款3個月期平均利率為0.949%，6個月期平均利率為1.152%，1年期平均利率為1.263%，2年期平均利率為1.358%，3年期平均利率為1.683%，5年期平均利率為1.560%。和上個月相比，3個月期下降0.2BP，6個月期下降0.1BP，1年期下降0.2BP，2年期下降0.4BP，3年期下降0.1BP，而5年期則上漲了0.7BP。大額存單利率顯示了同樣的趨勢。根據監測的資料，2026年7月，發行的大額存單3個月期平均利率為0.977%，6個月期平均利率為1.161%，1年期平均利率為1.357%，2年期平均利率為1.371%，3年期平均利率為1.716%，5年期平均利率為1.620%。和上個月相比，大額存單各期限平均利率除5年期外均下降，3個月期下跌10.45BP，6個月期下跌9.50 BP，1年期下跌6.22BP，2年期下跌7.94BP，3年期下跌0.59BP，而5年期上漲了2.00BP。 (第一財經)
-
----
-
-### 2026-08-13 14:28:22  #公司
-
-【年內計劃進京 幾多全將拓展華北市場】據悉，今年幾多全除了在華中、華南等地繼續下沉二三線城市，也會向華北市場拓展。幾多全聯合創始人、副總裁李宗文表示，今年大機率會進入北京的核心商圈。據瞭解，2025年3月幾多全從長沙起步，是母公司黑色經典集團佈局新鮮零食的重要一子。醞釀一年後，幾多全開始跨省擴張，在南京、深圳、合肥等城市落地首店。目前，幾多全全國的門店數量超過了150家。與此同時，幾多全也在多個重要城市規劃20家自有工廠，保障從工廠、倉庫到門店的冷鏈供給。（北京商報）
-
----
-
-### 2026-08-13 14:27:35  #其他
-
-【世界足夠大，容得下C919與波音、空客一起飛】中國是全球最大民航市場之一，航空需求持續增長。中國商飛預測，到2044年，全球客機機隊規模將超過5萬架，是2024年機隊的2.05倍，而2025至2044年全球交付的新客機中，約74.59%將為單通道噴氣客機。目前，全球現役單通道幹線客機市場仍由空客、波音長期壟斷，佔據90%以上的市場份額。據行業研究報告分析，未來15年中國窄體幹線飛機年均需求量約為300架。這麼大的蛋糕，以C919目前的產能僅能覆蓋其中一小部分，更不用說國際市場了。顯然，C919的出現，為快速增長的市場填補了空缺，此消彼長、你輸我贏不是這裡的邏輯。（環球時報）
-
----
-
-### 2026-08-13 14:27:00  #MKT News #Market Regions #Greater China
-
-【China wholesale pork price down 0.3% vs yesterday】At 14:00 on August 13, China Agricultural Products Wholesale Price 200 Index was 114.90, up 0.47 points, and the Vegetable Basket Wholesale Price Index was 115.30, up 0.55 points. Nationwide wholesale average pork price was 15.80 yuan/kg, down 0.3% day-on-day; beef 67.33 yuan/kg, down 0.1%; mutton 65.07 yuan/kg, unchanged; eggs 10.11 yuan/kg, up 1.1%; dressed chicken 17.41 yuan/kg, up 0.9%.
-
----
-
-### 2026-08-13 14:26:59  #公司
-
-【航新科技等成立新公司 含民用航空材料業務】企查查APP顯示，近日，衢州航川電子科技有限公司成立，經營範圍包含積體電路設計；電子專用材料研發；電子元器件零售；民用航空材料銷售；航空運輸裝置銷售等。企查查股權穿透顯示，該公司由航新科技等共同持股。
-
----
-
-### 2026-08-13 14:26:29  #其他
-
-【8月13日：“農產品批發價格200指數”比昨天上升0.47個點】據農業農村部監測，8月13日“農產品批發價格200指數”為114.90，比昨天上升0.47個點，“菜籃子”產品批發價格指數為115.30，比昨天上升0.55個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.80元/公斤，比昨天下降0.3%；牛肉67.33元/公斤，比昨天下降0.1%；羊肉65.07元/公斤，與昨天持平；雞蛋10.11元/公斤，比昨天上升1.1%；白條雞17.41元/公斤，比昨天上升0.9%。重點監測的28種蔬菜平均價格為4.52元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.79元/公斤，比昨天下降1.7%。鯽魚20.31元/公斤，與昨天持平；鯉魚14.45元/公斤，與昨天持平；白鰱魚10.32元/公斤，比昨天下降1.7%；大帶魚41.55元/公斤，比昨天上升1.0%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蔥頭、青椒、大黃花魚、菠菜和生菜，幅度分別為2.3%、1.9%、1.7%、1.6%和1.6%；價格降幅前五名的是菠蘿、巨峰葡萄、鴨梨、白鰱魚和花鰱魚，幅度分別為4.4%、2.6%、1.9%、1.7%和1.6%。
-
----
-
-### 2026-08-13 14:26:23  #公司
-
-【Anthropic投資方押注其創下 IPO 紀錄，估值有望達到 2 萬億美元】投資方預計，人工智慧初創企業Anthropic將於 10 月掛牌上市，估值達到 2 萬億美元乃至更高。這一驚人估值將超越SpaceX，讓這家 AI 實驗室創下史上規模最大的首次公開募股紀錄。六位該公司投資方透露，憑藉營收迅猛攀升，Anthropic計劃於今年秋季上市，估值較當前水平有望翻一倍以上。倘若以此估值完成上市，這家成立五年的企業早期投資方將斬獲數十億美元收益。Anthropic投資方表示，市場對公司高階人工智慧模型與工具的需求持續暴漲，足以支撐這般超高估值預期。投資方測算，按照企業採用的營收統計口徑（依據近期經營表現推算全年營收），這家Claude大模型研發企業在 2026 年末年化營收將介於 1000 億至 1200 億美元之間，全年營收漲幅超十倍。其中一位投資方說道：“倘若Anthropic年度增速能夠達到 800%，即便保守估算，其營收市盈率也能達到 30 倍，對應企業總市值便可達 3 萬億美元。”
-
----
-
-### 2026-08-13 14:25:28  #公司 #國際
-
-【日媒：中企空調直擊歐洲市場“痛點”因而暢銷】據《日本經濟新聞》網站8月9日報道，中國製造的空調在歐洲持續熱銷。家電巨頭美的集團推出的無需安裝的“移動式”空調，今年上半年的出貨量已達20萬臺，是2025年全年出貨量的兩倍。中國廠商正以此為契機，加速拓展海外市場。（參考訊息）
-
----
-
-### 2026-08-13 14:24:18  #公司
-
-【思科：AI代理催生“網路超級週期”，AI訂單激增4.5倍印證行業拐點】思科於8月13日釋出2026財年第四季度及全年業績，Q4營收創歷史新高，達173億美元，同比增長18%;全年營收首次突破630億美元，同比增長12%，非GAAP每股收益增長14%至4.33美元。公司指出，代理式AI的加速採用正催生“網路超級週期”，超大規模客戶AI基礎設施訂單全年達93億美元，約為上年的4.5倍。 思科董事長兼執行長查爾斯·羅賓斯在電話會表示：“我們相信，代理式人工智慧(Agentic AI)的加速採用正催生一輪網路超級週期。”
-
----
-
-### 2026-08-13 14:24:14  #Trading Economics #Economy #Sweden #Inflation Rate #Importance 1
-
-Swedish Inflation Confirmed at 0.2% in July — Consumer prices in Sweden rose by 0.2% year-on-year in July 2026, confirming preliminary estimates and slowing from a 0.7% increase in the previous month. The latest figure also marked the softest rise since May last year, driven largely by lower prices for food and non-alcoholic beverages (-7.2% vs -6.8% in June), health (-6.4% vs -4.7%), and education services (-15.3% vs 3.4%). At the same time, inflation softened for housing and utilities (2.3% vs 4%) and transport (0.4% vs 3.5%). On the other hand, costs rebounded for clothing and footwear (0.4% vs -2.3%) and information and communication (1.4% vs -1.0%), while restaurants and accommodation services rose at a faster pace (3.5% vs 2.7%), reflecting seasonal price increases. On a monthly basis, consumer prices fell by 0.3%, the first decline in three months and reversing a 0.4% rise in June. Meanwhile, the CPI with a fixed interest rate (CPIF), the Riksbank’s target measure, rose 0.7% annually and fell 0.3% month-on-month in July.
-
----
-
-### 2026-08-13 14:24:07  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Head for Higher Open — European equity markets were set for a higher open on Thursday as subdued US inflation data reduced expectations for a Federal Reserve interest rate hike in September. In Europe, data showed the UK economy expanded 0.4% quarter-on-quarter in the three months to June, slowing from 0.5% growth in Q1 but matching market expectations. Investors will also turn their attention to Eurozone industrial production for June and Spain’s final inflation figures for July. In corporate news, Danish shipping giant Maersk raised its full-year underlying Ebitda guidance to a level above analyst expectations. Other European companies scheduled to report earnings include E.On, RWE, Antofagasta, Birkenstock and Nomad Foods. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.4%.
-
----
-
-### 2026-08-13 14:23:11  #公司
-
-【湖北宜化旗下楚星生態科技公司增資至17億 增幅約120%】天眼查App顯示，近日，湖北宜化楚星生態科技有限公司發生工商變更，註冊資本由7.73億人民幣增至17億人民幣，增幅約120%。該公司成立於2023年11月，法定代表人為林劍，經營範圍包括化工產品生產、化肥銷售、新材料技術研發等，由湖北宜化化工股份有限公司全資持股。
-
----
-
-### 2026-08-13 14:21:28  #公司 #國際
-
-【優步將在東京試點部署Robotaxi，預計2026年底啟動】8月13日，優步宣佈，優步日本已與日之丸交通簽署運營合作協議，將負責東京自動駕駛計程車試點專案的日常車隊運營，專案預計於2026年底啟動。日之丸交通將負責車輛清潔、維護、檢查、充電及車隊運營等工作，乘客可透過優步打車應用使用相關服務。該專案將採用日產聆風（LEAF）電動車，搭載英國自動駕駛技術公司Wayve的人工智慧駕駛技術。根據日本相關法律，載客運輸服務須由獲授權的計程車公司運營，因此試點初期將由日之丸交通作為獲授權運營商，經驗豐富的計程車司機也將作為安全員隨車監控。未來在獲得監管批准後，專案將逐步邁向完全無人駕駛。
-
----
-
-### 2026-08-13 14:21:26  #其他
-
-【美銀：五礦資源上半年業績強勁，目標價升至12港元】美銀證券發表報告指，五礦資源上半年業績強勁，各項主要指標均表現突出。期內收入同比增長61%至45.4億美元，股東應占純利達8.97億美元，同比大升164%，超出該行預期，並已達到市場對2026財年全年預測的54%。強勁的盈利能力受惠於銷量增加、銅及副產品價格上升，以及較低的C1現金成本，帶動EBITDA升至27.3億美元，同比增長77%。由於供應靈活性有限，該行看好銅價前景。考慮到上半年業績勝預期及資產負債表大幅改善，該行上調2026至2028年盈利預測16%至22%，目標價由10.5港元上調至12港元，重申“買入”評級。
-
----
-
-### 2026-08-13 14:21:11  #Trading Economics #Economy #Saudi Arabia #Inflation Rate #Importance 1
-
-Saudi Arabia Inflation Unchanged for Third Month — The annual inflation rate in Saudi Arabia rose by 1.8% in July 2026, matching the pace from the previous two months and in line with market expectations. Prices increased for food and non-alcoholic beverages (1.5% vs 1.4% in June), housing and utilities (4.2% vs 3.5%), restaurants and hotels (2.0% vs 1.5%), and education (1.2% vs 1.1%). At the same time, costs remained unchanged for information and communication (at 0.6%) and clothing and footwear (at -0.4%), while prices fell at a softer pace for furnishings and household equipment (-0.5% vs -0.6%). In contrast, inflation moderated for tobacco (0.4% vs 0.5%), recreation and culture (2.4% vs 2.5%), insurance and financial services (1.4% vs 2.1%), transportation (1.4% vs 1.7%), health (0.3% vs 0.4%), and miscellaneous goods and services (2.9% vs 3.8%). On a monthly basis, consumer prices grew by 0.2%, unchanged from the previous three months and exceeding market expectations of a 0.1% increase.
-
----
-
-### 2026-08-13 14:20:57  #公司
-
-【東方電氣中標“中廣核格爾木350兆瓦光熱示範（試點）專案”汽輪發電機組標段】據東方電氣訊息，近日，東方電氣成功中標中廣核（格爾木）能源開發有限公司“中廣核格爾木350兆瓦光熱示範（試點）專案”汽輪發電機組標段，將為專案提供1臺（套）350兆瓦亞臨界一次再熱汽輪發電機組。專案位於青海省格爾木市，是青海省重點清潔能源標杆工程，是目前全球單機儲熱容量最大、鏡場面積最大的光熱發電示範專案。
-
----
-
-### 2026-08-13 14:20:42  #Trading Economics #Economy #United Kingdom #Construction Orders #Importance 1
-
-UK Q2 Construction Orders Drop at Steeper Pace — UK construction orders fell 18.1% year-on-year in Q2 2026, deepening from an 11.9% decline in the prior period and marking the sharpest contraction since Q4 2023. The downturn was driven by a faster fall in orders for other work (-25.4% vs -19.0% in Q1), with private commercial orders also weakening (-28.5% vs -23.1%). Other infrastructure orders declined at a slower pace (-22.5% vs -36.5%), while private industrial orders surged (33.0% vs 3.6%). However, this was offset by a sharp slump in other new work excluding infrastructure (-45.8% vs 12.9%). New housing orders also lost momentum, rising 7.7% after a 15.8% increase in Q1, as private housing growth slowed (12.9% vs 17.7%) and public housing orders fell (-19.2% vs 4.0%). On a quarterly basis, construction orders declined 11.8%, matching Q1’s pace and extending the contraction to a third consecutive quarter.
-
----
-
-### 2026-08-13 14:20:21  #其他
-
-LG新能源2026財年半年報營業總收入14.12萬億韓元，同比增長10.46%。
-
----
-
-### 2026-08-13 14:20:16  #MKT News
-
-Australia's S&P/ASX 200 index closed down 19.30 points, or 0.21%, at 9,190.10 on Aug 13 (Thursday).
-
----
-
-### 2026-08-13 14:19:08  #公司
-
-【紅杉中國投資張雪機車，雙方回應】張雪機車獲得了紅杉中國的新一輪獨家投資。雙方表示，此番合作將圍繞企業治理、人才建設、產業資源和全球化發展等方面。張雪機車將繼續聚焦發動機、整車、產品研發和賽事驗證，而紅杉將結合自身在企業治理、人才網路、產業生態和全球資源方面的經驗，為公司的長期發展提供支援。
-
-張雪表示：紅杉中國的加入，為張雪機車增加了一位能夠長期同行的夥伴。接下來團隊會繼續把發動機和整車做好，繼續上賽道驗證，也繼續聽使用者的真實反饋。中國高效能摩托車有機會贏得全球使用者，這件事需要耐心，也值得長期投入。
-
-紅杉中國合夥人蘇凱認為：張雪對產品近乎執著的追求——那份對機車和賽車的長期熱愛，讓張雪既懂使用者，也願意為產品長期投入。我們相信，世界級產品往往誕生於對極致永不妥協的追求。紅杉願意與這樣的創業者長期同行，一起挑戰世界級的產品和世界級的賽場。（投中網）
-
----
-
-### 2026-08-13 14:18:42  #國際
-
-【機構：熟練工短缺或成為AI資料中心擴張最大阻礙】伯恩斯坦分析師查德·迪拉德（Chad Dillard）在一份最新研報中警告稱，美國機械、電氣和管道（MEP，Mechanical, Electrical and Plumbing）行業的勞動力規模，實際上遠小於表面上的180萬人。他指出，資料中心建設地點與勞動力分佈存在明顯錯配：美國MEP勞動力中，只有約30%位於未來70%的資料中心專案所在地。
-
----
-
-### 2026-08-13 14:18:27  #國際
-
-【印尼起火客輪救援疏散工作結束 211人獲救】據印度尼西亞地方救援部門當地時間13日通報，12日在旅遊勝地巴厘島附近海域起火的印尼客輪人員救援疏散工作已經結束。目前確認有1名印尼籍公民遇難，另有211人獲救。（央視新聞）
-
----
-
-### 2026-08-13 14:17:56  #觀點 #國際
-
-【高盛：生物燃料擴張強化農產品“能源屬性” 原油正成為糧價新變數】高盛在最新發布的生物燃料專題報告中指出，隨著全球生物燃料產業擴張，以及各國不斷提高強制摻混比例，越來越多農作物正從食品和飼料用途轉向燃料生產，能源價格因而成為農產品定價中日益重要的變數。該行預計，2026年全球生物燃料產量將達到約350萬桶/日，其中約95%用於交通運輸，美國、巴西和歐盟合計貢獻全球約80%的產量。
-
----
-
-### 2026-08-13 14:17:51  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-08-13 14:17:32  #公司
-
-【比依電器等在上海成立新公司 註冊資本1000萬】天眼查App顯示，上海目昇資訊科技有限公司於8月12日成立，註冊資本1000萬元人民幣，法定代表人為聞超，註冊地位於上海市徐彙區，由浙江比依電器股份有限公司持股51%、融科聯創（天津）資訊科技有限公司持股49%，企業型別為有限責任公司（外商投資企業與內資合資）。該公司經營範圍含技術服務、技術開發、技術諮詢、技術轉讓、技術推廣，計算機軟硬體及外圍裝置製造，軟體開發，資訊系統整合服務，人工智慧基礎資源與技術平臺等。
-
----
-
-### 2026-08-13 14:17:24  #MKT News #00992.HK #Impact bullish
-
-【Citi: Lenovo Q1 well ahead of estimates; AI growth narrative validated】Citi says Lenovo Group (00992.HK) Q1 results were driven by explosive growth in Infrastructure Solutions Group (ISG) and continued leadership in Intelligent Devices Group (IDG). Gross margin rose YoY to 16.5%, above Citi and market estimates. Non-GAAP net profit jumped 176% YoY to $1.075bn, beating Citi by 64% and consensus by 149%; non-GAAP net margin widened to 4%. Citi sets a HK$31 sum‑of‑parts PT, implying a 2028F PE of ~13.6x (IDG and SSG at 10x; ISG at 16.7x, in line with peers) and maintains an upgrade/buy rating, citing strong server demand, improved profitability and stable PC, smartphone and services performance.
-
----
-
-### 2026-08-13 14:17:22  #MKT News
-
-【Sequoia China confirms exclusive RMB150 mln investment in Zhang Xue Motorcycles, pledges deep cooperation】Sequoia China has made an exclusive RMB150 mln investment in Zhang Xue Motorcycles and will pursue deep cooperation on corporate governance, talent development, industry resources and global expansion. Zhang Xue will continue to focus on engines, complete vehicles, product R&D and race-based validation; Sequoia China said it will provide support via governance experience, talent networks, industry ecosystem links and global resources.
-
----
-
-### 2026-08-13 14:16:51  #Trading Economics #Economy #United Kingdom #Industrial Production Mom #Importance 1
-
-UK Industrial Output Unexpectedly Falls — Industrial production in the UK fell 0.2% month-on-month in June 2026, defying market expectations of a 0.1% increase, albeit easing from a 0.7% drop in the previous month. Mining and quarrying output rebounded sharply (5.1% vs -5.1% in May), supported by a strong recovery in crude petroleum and natural gas extraction (6.2% vs -5.5%). In addition, declines eased in water supply, sewerage, and waste management activities (-1.5% vs -3.1%). On the other hand, manufacturing output remained under pressure (-0.5% vs -0.2%), weighed down primarily by production of basic pharmaceutical products and preparations (-5.1% vs 0.2%) and computer, electronic, and optical products (-0.9% vs 2.1%). On a quarterly basis, industrial production showed no growth. On a yearly basis, industrial output fell 0.2%, defying forecasts of 0.2% rise and reversing May’s 1% gain. It also marked the first annual decline since February.
-
----
-
-### 2026-08-13 14:16:37  #Trading Economics #Economy #United Kingdom #GDP Annual Growth Rate #Importance 0
-
-UK Annual Growth Tops Forecasts — The UK economy expanded by 1.2% year-over-year in Q2 2026, accelerating from 0.9% growth in Q1 and exceeding the expected 1.1% expansion, preliminary estimates showed. Growth was supported by a 1.5% increase in services output, with information and communication and professional, scientific and technical activities among the largest contributors. Production output rose 0.3%, driven by manufacturing and mining and quarrying, while construction output fell 2.0%. On the expenditure side, household consumption increased 1.0%, while government consumption rose 1.4%. Gross fixed capital formation climbed 2.7%, supported by higher investment in information and communication technology and other machinery and equipment. Business investment increased 0.8%. Trade provided a drag on growth as exports increased 2.4%, while imports rose 2.9%.
-
----
-
-### 2026-08-13 14:16:34  #其他
-
-【前7個月江蘇外貿進出口同比增長26.2%】 據南京海關統計，今年前7個月，江蘇省外貿進出口4.18萬億元，較去年同期（下同）增長26.2%，增幅較全國高9個百分點，佔同期全國進出口總值的13.9%。其中，出口2.71萬億元，增長22.6%；進口1.47萬億元，增長33.5%。
 
 ---
