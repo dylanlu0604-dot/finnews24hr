@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-17 01:13:42",
+  "updated": "2026-08-17 01:17:36",
   "count": 15191,
   "items": [
+    {
+      "id": "5042918",
+      "time": "2026-08-17 01:15:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "伊朗第一副總統：敵方企圖透過經濟戰來彌補其在軍事上的失敗，我們必須予以應對；物價上漲已達到令人惱火的程度，敵方的戰略正是企圖利用這一點。"
+    },
+    {
+      "id": "5042917",
+      "time": "2026-08-17 01:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：軍隊正準備可能返回黎巴嫩進行數天的戰鬥。"
+    },
     {
       "id": "mkt:01a00b8c-c5b8-7aab-904f-385ce32411fe",
       "time": "2026-08-17 01:09:30",
@@ -138936,23 +138953,6 @@
         "MKT News"
       ],
       "text": "Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor."
-    },
-    {
-      "id": "5032646",
-      "time": "2026-08-10 01:17:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普談伊朗：我們正低調處理】伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”他強調，伊朗經濟處境“十分糟糕”，連軍餉都無力支付。特朗普稱，美國海上封鎖加劇了伊朗政權的經濟危機。與此同時，特朗普表示，油價回落至略高於每桶75美元，美國民眾承受的戰爭帶來的壓力有所緩解。“事情會得到解決的，歷來都是如此。美伊之間的博弈就像一盤國際象棋。”特朗普如此評價美伊雙方的來回交鋒。"
-    },
-    {
-      "id": "mkt:019fe786-332e-7aab-8fcb-1897a6ee5404",
-      "time": "2026-08-10 01:15:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran president Pezeshkian says will maintain communication but will not wait for external powers】Iranian President Pezeshkian said waiting for or relying on external powers would be self-defeating, and no force can replace Iran’s own identity and people. He said Iran will engage in communication with outside parties but will not sit idle or expect others to fulfill its aims."
     }
   ]
 }
