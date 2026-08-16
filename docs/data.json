@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-16 08:06:40",
-  "count": 15258,
+  "updated": "2026-08-16 08:10:29",
+  "count": 15260,
   "items": [
+    {
+      "id": "mkt:01a007e7-2041-7aab-904b-8bca3d2d7fcf",
+      "time": "2026-08-16 08:09:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【Fujian targets strategic emerging industries to reach about 35% of large-scale industrial output by 2030】Fujian issued a development plan targeting by 2030 strategic emerging industries to account for about 35% of large-scale industrial output and for total social R&D spending to grow roughly 10% annually. The plan aims to build a 1 tln yuan new-energy industry cluster; shrink-wrap new materials to exceed 900 bln yuan; push integrated circuits and optoelectronics past 300 bln yuan; establish AI, biomedicine, energy-efficiency/environmental and low‑altitude economy clusters at ~100 bln yuan each; and cultivate several hydrogen and biomanufacturing future-industry clusters at the hundred‑billion yuan scale, with the goal of a domestically leading, distinctive emerging- and future-industry system."
+    },
+    {
+      "id": "mkt:01a007e5-6d84-7aab-904b-82b31ec948c2",
+      "time": "2026-08-16 08:07:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【President Trump's Sunday schedule】Beijing time Aug 16 20:00 — at Trump National Golf Club, Bedminster, New Jersey, conducting official business; later departs Bedminster for the White House; arrival time TBD."
+    },
+    {
+      "id": "5042489",
+      "time": "2026-08-16 08:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建：完善AI基礎設施建設，加快構建全省一體化算力網】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 推動AI+應用示範，深入實施“人工智慧+”引領示範行動，加快福建人工智慧產業發展，推動AI與工業、醫療、教育、人社等各領域深度融合，支援AI技術在研發設計、中試驗證、生產製造、營銷服務與運營管理等全流程的應用創新。完善AI基礎設施建設，加快構建全省一體化算力網，推進福州、廈門、漳州公共智算中心建設，合理佈局邊緣算力節點；做強做大人工智慧中試基地，聯合國家戰略科技力量打造AI for Science平臺；實施“資料要素×”行動，在政務、醫療、海洋等重點領域建設滿足人工智慧就緒（AI-Ready）的高質量資料集，推動省級資料標註基地建設，構建資料資源開發服務體系。營造AI發展生態，高質量建設福州、廈門、泉州省級人工智慧產業園和省級人工智慧產業集聚區，梯度培育“AI+”企業；支援共建創新平臺，攻關智慧晶片、核心演算法等關鍵技術；支援AI原生創業，推動AI原生組織創新；鼓勵各地探索建設低成本、開放式的OPC1創新社群，面向垂直領域提供原型開發等服務。"
+    },
+    {
+      "id": "mkt:01a007e4-30e8-7aab-904b-79053b518934",
+      "time": "2026-08-16 08:06:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Colombian president asked U.S. President Trump on a call to temporarily suspend U.S. tariffs on Colombian goods, citing the earthquake's impact."
+    },
     {
       "id": "5042488",
       "time": "2026-08-16 08:05:41",
@@ -139628,23 +139665,6 @@
         "其他"
       ],
       "text": "目前市場定價顯示9月加息機率僅為43.9%（約等於44%）。"
-    },
-    {
-      "id": "5032164",
-      "time": "2026-08-09 08:09:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SpaceX股價大起大落，馬斯克重回攻堅模式】僅上週，執行長埃隆·馬斯克就目睹公司股價單日暴跌近14%，而這還不是SpaceX上市之後表現最差的一天。截至週五，該股較本週開盤點位反彈超20%。 換言之，公司市值波動幅度超過3000億美元。 對絕大多數執行長而言，這樣的行情足以讓人難以承受。但對馬斯克來說，這不斷提醒他，自己又回到了埋頭攻堅的狀態，必須兌現此前對SpaceX業績許下的宏大承諾。今年6月，SpaceX完成史上規模最大的IPO，彼時市場情緒高漲，如今卻要回歸腳踏實地執行戰略的現實。 如此劇烈的波動，正是當年經營特斯拉、苦苦實現盈利時，令馬斯克倍感困擾的干擾因素。也正是那段經歷，促使他長期推遲SpaceX上市。 本週二晚間，SpaceX釋出上市後首份財報，壓力驟然加劇。緊接著週四，部分內部人士與IPO前老股東的股份鎖定期到期。 週二晚間股價大跌之際，馬斯克調侃道：“俗話說……這不是火箭科學，但說實話，搞火箭科學恰恰就是我們的日常工作。”"
-    },
-    {
-      "id": "5032163",
-      "time": "2026-08-09 08:08:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本縣發生4.2級地震】據日本氣象廳訊息，當地時間9日8時02分左右，日本熊本縣天草、蘆北地區發生4.2級地震，最大震感為震度4，震源深度10公里。（央視新聞）"
     }
   ]
 }

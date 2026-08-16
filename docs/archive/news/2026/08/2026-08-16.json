@@ -1,7 +1,44 @@
 {
   "date": "2026-08-16",
-  "count": 147,
+  "count": 151,
   "items": [
+    {
+      "id": "mkt:01a007e7-2041-7aab-904b-8bca3d2d7fcf",
+      "time": "2026-08-16 08:09:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【Fujian targets strategic emerging industries to reach about 35% of large-scale industrial output by 2030】Fujian issued a development plan targeting by 2030 strategic emerging industries to account for about 35% of large-scale industrial output and for total social R&D spending to grow roughly 10% annually. The plan aims to build a 1 tln yuan new-energy industry cluster; shrink-wrap new materials to exceed 900 bln yuan; push integrated circuits and optoelectronics past 300 bln yuan; establish AI, biomedicine, energy-efficiency/environmental and low‑altitude economy clusters at ~100 bln yuan each; and cultivate several hydrogen and biomanufacturing future-industry clusters at the hundred‑billion yuan scale, with the goal of a domestically leading, distinctive emerging- and future-industry system."
+    },
+    {
+      "id": "mkt:01a007e5-6d84-7aab-904b-82b31ec948c2",
+      "time": "2026-08-16 08:07:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【President Trump's Sunday schedule】Beijing time Aug 16 20:00 — at Trump National Golf Club, Bedminster, New Jersey, conducting official business; later departs Bedminster for the White House; arrival time TBD."
+    },
+    {
+      "id": "5042489",
+      "time": "2026-08-16 08:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建：完善AI基礎設施建設，加快構建全省一體化算力網】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 推動AI+應用示範，深入實施“人工智慧+”引領示範行動，加快福建人工智慧產業發展，推動AI與工業、醫療、教育、人社等各領域深度融合，支援AI技術在研發設計、中試驗證、生產製造、營銷服務與運營管理等全流程的應用創新。完善AI基礎設施建設，加快構建全省一體化算力網，推進福州、廈門、漳州公共智算中心建設，合理佈局邊緣算力節點；做強做大人工智慧中試基地，聯合國家戰略科技力量打造AI for Science平臺；實施“資料要素×”行動，在政務、醫療、海洋等重點領域建設滿足人工智慧就緒（AI-Ready）的高質量資料集，推動省級資料標註基地建設，構建資料資源開發服務體系。營造AI發展生態，高質量建設福州、廈門、泉州省級人工智慧產業園和省級人工智慧產業集聚區，梯度培育“AI+”企業；支援共建創新平臺，攻關智慧晶片、核心演算法等關鍵技術；支援AI原生創業，推動AI原生組織創新；鼓勵各地探索建設低成本、開放式的OPC1創新社群，面向垂直領域提供原型開發等服務。"
+    },
+    {
+      "id": "mkt:01a007e4-30e8-7aab-904b-79053b518934",
+      "time": "2026-08-16 08:06:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Colombian president asked U.S. President Trump on a call to temporarily suspend U.S. tariffs on Colombian goods, citing the earthquake's impact."
+    },
     {
       "id": "5042488",
       "time": "2026-08-16 08:05:41",
