@@ -1,7 +1,47 @@
 {
   "date": "2026-08-17",
-  "count": 84,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:01a00c04-6ac9-7aab-9050-47bcbfbca12b",
+      "time": "2026-08-17 03:20:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas said it has agreed to a plan intended to secure a permanent ceasefire, the full withdrawal of occupying forces and the activation of a governing committee."
+    },
+    {
+      "id": "5042945",
+      "time": "2026-08-17 03:19:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：（我方）在第一階段已全面履行停火協議，而以色列方面卻未予遵守。"
+    },
+    {
+      "id": "5042944",
+      "time": "2026-08-17 03:19:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬斯：呼籲調解方與和平委員會履行其職責，迫使佔領方落實各項義務並停止侵權行為。"
+    },
+    {
+      "id": "5042943",
+      "time": "2026-08-17 03:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：為達成永久停火、以色列全面撤軍並啟動行政委員會工作，我們已同意該方案（特朗普計劃的第二階段路線圖）。"
+    },
+    {
+      "id": "mkt:01a00c02-469e-7aab-9050-3b2ac932b1d8",
+      "time": "2026-08-17 03:17:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sisi meets Kushner, urges implementation of Gaza ceasefire】Egyptian President Sisi met Jared Kushner in Alamein on the 16th and urged parties to implement the Gaza ceasefire and deliver on the outcomes of last October’s Sharm el‑Sheikh summit. The presidential office said they exchanged views on the Palestinian issue and broader Middle East developments and called for Egypt-US cooperation to resolve the regional crisis and preserve stability."
+    },
     {
       "id": "5042942",
       "time": "2026-08-17 03:15:39",
