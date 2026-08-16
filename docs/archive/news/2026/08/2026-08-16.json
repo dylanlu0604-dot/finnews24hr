@@ -1,7 +1,25 @@
 {
   "date": "2026-08-16",
-  "count": 319,
+  "count": 321,
   "items": [
+    {
+      "id": "mkt:01a0091d-aeed-7aab-904c-8a9144d3efb7",
+      "time": "2026-08-16 13:48:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches batch of 24 LEO satellites for satellite internet】At 12:10 Beijing time on Aug 16, 2026, China launched a batch of 24 low‑Earth‑orbit satellites for a satellite internet constellation from its Hainan commercial spaceport aboard a Long March‑12 rocket; the satellites reached their planned orbit and the launch was successful."
+    },
+    {
+      "id": "5042626",
+      "time": "2026-08-16 13:46:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射衛星網際網路低軌24組衛星】北京時間2026年8月16日12時10分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌24組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）"
+    },
     {
       "id": "5042625",
       "time": "2026-08-16 13:43:58",
