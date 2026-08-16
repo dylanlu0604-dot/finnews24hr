@@ -1,7 +1,23 @@
 {
   "date": "2026-08-17",
-  "count": 120,
+  "count": 122,
   "items": [
+    {
+      "id": "5042967",
+      "time": "2026-08-17 04:58:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "東方證券給予中信證券A股買進的初始評級，目標價35.36元人民幣。"
+    },
+    {
+      "id": "mkt:01a00c5e-a2ce-7aab-9050-9f957a45286f",
+      "time": "2026-08-17 04:58:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10."
+    },
     {
       "id": "5042966",
       "time": "2026-08-17 04:49:17",

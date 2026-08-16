@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-17 04:58:55",
-  "count": 15222,
+  "updated": "2026-08-17 05:02:44",
+  "count": 15223,
   "items": [
+    {
+      "id": "5042967",
+      "time": "2026-08-17 04:58:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "東方證券給予中信證券A股買進的初始評級，目標價35.36元人民幣。"
+    },
+    {
+      "id": "mkt:01a00c5e-a2ce-7aab-9050-9f957a45286f",
+      "time": "2026-08-17 04:58:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10."
+    },
     {
       "id": "5042966",
       "time": "2026-08-17 04:49:17",
@@ -139170,14 +139186,6 @@
         "國際"
       ],
       "text": "【伊朗最高領袖任命佐勒加德爾為其政治顧問】據伊朗伊斯蘭共和國通訊社9日報道，伊朗最高領袖穆傑塔巴·哈梅內伊任命穆罕默德·巴蓋爾·佐勒加德爾為其政治顧問。佐勒加德爾此前擔任伊朗最高國家安全委員會秘書。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe852-f9a9-7aab-8fcb-dfd6baacff11",
-      "time": "2026-08-10 04:59:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran's Supreme Leader Mujtaba Khamenei appoints Mohammad Bagher Zolghadr as political adviser】State media reported on the 9th that Iran's Supreme Leader Mujtaba Khamenei appointed Mohammad Bagher Zolghadr as a political adviser. Zolghadr previously served as secretary of Iran's Supreme National Security Council."
     }
   ]
 }
