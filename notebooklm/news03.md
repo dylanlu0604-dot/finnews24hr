@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:41:07_
-_本檔包含 2965 則快訊，約 600818 字_
+_更新時間：2026-08-16 21:56:40_
+_本檔包含 2961 則快訊，約 600527 字_
+
+---
+
+### 2026-08-13 12:39:04  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Extends Weakness for Third Day — India’s BSE Sensex fell about 0.2% to 77,775 on Thursday, marking its third consecutive session of decline, as investors remained cautious amid geopolitical tensions and stock-specific developments. Sentiment was weighed by uncertainty in the Middle East, even as softer US inflation data reduced expectations of a near-term Fed Reserve rate hike. India’s July annual inflation also rose to 4.45%, but remains unlikely to prompt a rate hike from the central bank in the coming months. Among corporate developments, Laurus Labs, Lenskart, Adani Energy and Groww will be added to the MSCI Global Standard Index effective Sept. 1, potentially attracting about $598 million, $352 million, $310 million and $256 million respectively in passive inflows. Eternal, Adani Enterprises and Adani Ports are also expected to benefit from higher MSCI weights, while Reliance Industries and Jio Financial could see passive outflows. Early losers included Cupid (-1.2%), Thyrocare (-4.5%), and Ather Energy (-3.5%).
+
+---
+
+### 2026-08-13 12:38:41  #公司
+
+【聯想集團預計本財年營收有望突破1000億美元】8月13日午間，聯想集團披露2026/27財年第一財季業績，第一財季，聯想集團AI相關業務收入同比增長60%，達634億元人民幣，佔集團整體營收約35%。同時，聯想集團研發投入同比大幅增長30%。公司表示，聯想集團混合式AI戰略開始進入價值兌現階段。聯想集團預計，本財年營收有望突破1000億美元，從而提前實現此前提出的“兩年內營收超千億美元”的承諾。
 
 ---
 
@@ -17858,41 +17870,5 @@ China A-share baijiu sector rallied intraday; Jinshiyuan rose over 8%, with Ying
 ### 2026-08-12 09:35:35  #公司
 
 【騰訊音樂跌超12% 上半年利潤同比下降31.6%】截至發稿，騰訊音樂-SW(01698.HK)跌12.34%。根據最新財報顯示，公司上半年總收入168.3億元，同比增長6.5%；期內利潤46.9億元，同比下降31.6%。
-
----
-
-### 2026-08-12 09:35:33  #市場 #焦點
-
-科創50日內漲幅達1.12%，成分股中，源傑科技漲4.52%，盛美上海漲4.00%，中微公司漲3.27%，拓荊科技漲1.98%。
-
----
-
-### 2026-08-12 09:35:17  #公司
-
-【中賦科技成立靈源生物技術公司】企查查APP顯示，近日，廣東省中賦靈源生物技術有限公司成立，經營範圍包含農業科學研究和試驗發展；技術進出口；貨物進出口；飼料新增劑銷售等。企查查股權穿透顯示，該公司由中賦科技全資持股。
-
----
-
-### 2026-08-12 09:35:17  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share food processing and manufacturing sector staged a short-term rally; Baihe hit the daily trading limit, and Babi Food, Zhulaoliu, Tianwei Food, Huangshanghuang and Ligao Food also advanced.
-
----
-
-### 2026-08-12 09:34:53  #公司 #市場
-
-【創新藥板塊短線拉昇，百花醫藥觸及漲停】創新藥板塊短線拉昇，百花醫藥觸及漲停，萬邦醫藥、泓博醫藥、隴神戎發、譽衡藥業、哈藥股份、博濟醫藥跟漲。
-
----
-
-### 2026-08-12 09:34:49  #公司 #市場
-
-【食品加工製造板塊短線拉昇，百合股份漲停】食品加工製造板塊短線拉昇，百合股份漲停，巴比食品、朱老六、天味食品、煌上煌、立高食品等紛紛走高。
-
----
-
-### 2026-08-12 09:34:45  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Climb as Chip Stocks Rally — The benchmark KOSPI rose nearly 3% to around 6,530 on Wednesday, extending gains for a third straight session, led by major technology stocks. Samsung Electronics jumped more than 4%, and SK hynix gained over 2%, while optimism over strong AI-related demand and expectations of increased shareholder returns supported sentiment. Other notable gainers included SK Square (9.1%), Hyundai Motor (1.4%), LG Energy Solution (3.4%), Hanwha Aerospace (3.0%), KB Financial Group (1.0%), Kia Corporation (1.6%), and Doosan Enerbility (3.0%). Investors also looked ahead to the US July inflation report, with a softer-than-expected reading potentially easing concerns over a September Federal Reserve rate hike. Meanwhile, renewed tensions in the Middle East remained a risk to sentiment after hopes for a potential US-Iran peace deal faded, while the continued closure of the Strait of Hormuz pushed US crude prices above $83 a barrel, keeping inflationary pressures in focus.
 
 ---

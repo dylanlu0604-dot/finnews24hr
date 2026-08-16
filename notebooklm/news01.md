@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:41:07_
-_本檔包含 3025 則快訊，約 600633 字_
+_更新時間：2026-08-16 21:56:40_
+_本檔包含 3025 則快訊，約 600503 字_
+
+---
+
+### 2026-08-16 21:52:21  #其他
+
+【國產大郵輪首次在大灣區啟航 產業鏈發展迎來新機遇】近日，首艘國產大型郵輪“愛達·魔都號”從深圳招商蛇口國際郵輪母港鳴笛啟航，開啟粵港澳大灣區（以下簡稱“大灣區”）航季，這也是該國產大郵輪首次落地大灣區開展國際運營，標誌著國產大型郵輪正式深度佈局華南市場，我國郵輪製造、港口運營、文旅消費全產業鏈迎來新的發展視窗。
+
+---
+
+### 2026-08-16 21:47:32  #宏觀 #國際
+
+市場訊息：特朗普尋求對伊朗實施陸地封鎖，但成功機率渺茫，他後續將出臺上千項針對伊朗的新制裁措施。
+
+---
+
+### 2026-08-16 21:45:53  #其他
+
+【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月17日0時至8月19日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
+
+---
+
+### 2026-08-16 21:45:46  #MKT News
+
+【Kushner visits Egypt to press Gaza agreement implementation; to meet Hamas and mediators】Saudi outlet Alhadath reported Egyptian President received Trump envoy Jared Kushner in Al Alamein, where they discussed the need for parties to fulfil obligations under the Gaza agreement. Al Arabiya, citing sources, said Kushner will meet Hamas today to push the Gaza administrative committee to assume responsibilities; the committee’s Gaza senior representative Maladinov and delegations from Turkey, Egypt and Qatar will attend. Kushner and the Hamas delegation will discuss an international stabilization force, Israeli withdrawal and humanitarian aid; the stated goal is to implement the Trump plan, not to renegotiate it, with emphasis on ending the cycle of violence in Gaza.
 
 ---
 
@@ -18237,29 +18261,5 @@ Germany Wholesale Price Inflation Accelerates — Germany’s wholesale prices r
 ### 2026-08-14 14:12:14  #公司
 
 【多家小貸公司明示個貸綜合融資成本上限 部分已低於12%】8月1日，《個人貸款業務明示綜合融資成本規定》正式施行，要求貸款人向借款人展示綜合融資成本明示表。記者注意到，多家小貸公司已經披露個人貸款業務綜合融資成本上限，其中不少機構將上限設定在24%，也有部分公司將上限控制在12%以內。
-
----
-
-### 2026-08-14 14:11:42  #市場
-
-【港股中國黃金國際漲幅擴大至15%】港股中國黃金國際走強，漲幅擴大至15%。
-
----
-
-### 2026-08-14 14:11:33  #公司 #國際
-
-【SK掌門人：明年大機率是史上最嚴重的“儲存晶片荒”】綜合韓聯社Infomax、美國消費者新聞與商業頻道(CNBC)報道，SK集團會長崔泰源作出預判，明年儲存晶片行業將遭遇史上最嚴重供應短缺。當地時間13日，崔泰源在採訪中直言：“明年大機率會是儲存晶片供應缺口最大的一年。我們正全力擴充產能，穩固自身在儲存市場的份額。”被問及是否計劃在美國興建儲存晶圓廠時，崔泰源回應：“我們有赴美建廠的意願，眼下難題是尋找合適選址。”崔泰源解釋稱：“各國都希望本土落地儲存晶片工廠。只要當地能提供充足水源、穩定電力、可用土地以及完整半導體產業生態，我們在哪裡都能建廠。”報道顯示，SK海力士正在建設其首座美國工廠，專案預計2028年完工。不過，這座位於印第安納州、投資40億美元的工廠主要用於封測業務，但並不開展晶圓前端製造。（中新經緯）
-
----
-
-### 2026-08-14 14:11:32  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
-
-Romania GDP Shrinks Less Than Expected in Q2 — Romania’s economy contracted by 0.4% year-on-year in the second quarter of 2026, well below market expectations for a 1.5% decline and easing from a 1.2% downturn in the previous three-month period, according to preliminary estimates. The latest reading marked the second consecutive quarter of annual economic contraction, although the pace of decline moderated significantly from the previous quarter. On a seasonally adjusted quarterly basis, the country’s GDP remained unchanged, following a revised 0.1% decline in the preceding quarter.
-
----
-
-### 2026-08-14 14:10:56  #公司
-
-【DeepSeek漲價 谷歌降價：新模型限時五折】這邊DeepSeek剛漲價，另一邊谷歌開始打五折了，大模型市場的價格策略開始走向兩個方向。當地時間8月13日，谷歌釋出新模型Gemini 3.7 Flash，相比效能提升，更受開發者關注的是一項限時促銷：今年年底前，該模型每百萬token的輸入、輸出價格分別為0.75美元和3.75美元，只有Gemini 3.6 Flash標準價格的一半。
 
 ---

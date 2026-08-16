@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:41:07_
-_本檔包含 3192 則快訊，約 600492 字_
+_更新時間：2026-08-16 21:56:40_
+_本檔包含 3194 則快訊，約 600437 字_
+
+---
+
+### 2026-08-14 14:11:42  #市場
+
+【港股中國黃金國際漲幅擴大至15%】港股中國黃金國際走強，漲幅擴大至15%。
+
+---
+
+### 2026-08-14 14:11:33  #公司 #國際
+
+【SK掌門人：明年大機率是史上最嚴重的“儲存晶片荒”】綜合韓聯社Infomax、美國消費者新聞與商業頻道(CNBC)報道，SK集團會長崔泰源作出預判，明年儲存晶片行業將遭遇史上最嚴重供應短缺。當地時間13日，崔泰源在採訪中直言：“明年大機率會是儲存晶片供應缺口最大的一年。我們正全力擴充產能，穩固自身在儲存市場的份額。”被問及是否計劃在美國興建儲存晶圓廠時，崔泰源回應：“我們有赴美建廠的意願，眼下難題是尋找合適選址。”崔泰源解釋稱：“各國都希望本土落地儲存晶片工廠。只要當地能提供充足水源、穩定電力、可用土地以及完整半導體產業生態，我們在哪裡都能建廠。”報道顯示，SK海力士正在建設其首座美國工廠，專案預計2028年完工。不過，這座位於印第安納州、投資40億美元的工廠主要用於封測業務，但並不開展晶圓前端製造。（中新經緯）
+
+---
+
+### 2026-08-14 14:11:32  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
+
+Romania GDP Shrinks Less Than Expected in Q2 — Romania’s economy contracted by 0.4% year-on-year in the second quarter of 2026, well below market expectations for a 1.5% decline and easing from a 1.2% downturn in the previous three-month period, according to preliminary estimates. The latest reading marked the second consecutive quarter of annual economic contraction, although the pace of decline moderated significantly from the previous quarter. On a seasonally adjusted quarterly basis, the country’s GDP remained unchanged, following a revised 0.1% decline in the preceding quarter.
+
+---
+
+### 2026-08-14 14:10:56  #公司
+
+【DeepSeek漲價 谷歌降價：新模型限時五折】這邊DeepSeek剛漲價，另一邊谷歌開始打五折了，大模型市場的價格策略開始走向兩個方向。當地時間8月13日，谷歌釋出新模型Gemini 3.7 Flash，相比效能提升，更受開發者關注的是一項限時促銷：今年年底前，該模型每百萬token的輸入、輸出價格分別為0.75美元和3.75美元，只有Gemini 3.6 Flash標準價格的一半。
 
 ---
 
@@ -19211,17 +19235,5 @@ Interfax cited local officials as saying drones struck an industrial area in Rus
 ### 2026-08-13 12:40:26  #其他
 
 【中國鈣鈦礦量產技術再登《自然》】南京大學助理教授肖科、教授譚海仁課題組聯合仁爍光能產業化團隊，開發出一種基於羧酸鉛材料的表面鈍化新策略，成功製備出認證效率達22.0%（0.72m²全面積）的鈣鈦礦光伏元件，並透過IEC61215/IEC61730全序列可靠性測試。研究成果以“Lead carboxylates passivation for meter-scale perovskite solar modules”為題，於2026年8月12日線上發表於國際頂級學術期刊《自然》。（上海證券報）
-
----
-
-### 2026-08-13 12:39:04  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Extends Weakness for Third Day — India’s BSE Sensex fell about 0.2% to 77,775 on Thursday, marking its third consecutive session of decline, as investors remained cautious amid geopolitical tensions and stock-specific developments. Sentiment was weighed by uncertainty in the Middle East, even as softer US inflation data reduced expectations of a near-term Fed Reserve rate hike. India’s July annual inflation also rose to 4.45%, but remains unlikely to prompt a rate hike from the central bank in the coming months. Among corporate developments, Laurus Labs, Lenskart, Adani Energy and Groww will be added to the MSCI Global Standard Index effective Sept. 1, potentially attracting about $598 million, $352 million, $310 million and $256 million respectively in passive inflows. Eternal, Adani Enterprises and Adani Ports are also expected to benefit from higher MSCI weights, while Reliance Industries and Jio Financial could see passive outflows. Early losers included Cupid (-1.2%), Thyrocare (-4.5%), and Ather Energy (-3.5%).
-
----
-
-### 2026-08-13 12:38:41  #公司
-
-【聯想集團預計本財年營收有望突破1000億美元】8月13日午間，聯想集團披露2026/27財年第一財季業績，第一財季，聯想集團AI相關業務收入同比增長60%，達634億元人民幣，佔集團整體營收約35%。同時，聯想集團研發投入同比大幅增長30%。公司表示，聯想集團混合式AI戰略開始進入價值兌現階段。聯想集團預計，本財年營收有望突破1000億美元，從而提前實現此前提出的“兩年內營收超千億美元”的承諾。
 
 ---

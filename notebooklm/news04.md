@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:41:07_
-_本檔包含 3037 則快訊，約 600005 字_
+_更新時間：2026-08-16 21:56:40_
+_本檔包含 3039 則快訊，約 600506 字_
+
+---
+
+### 2026-08-12 09:35:33  #市場 #焦點
+
+科創50日內漲幅達1.12%，成分股中，源傑科技漲4.52%，盛美上海漲4.00%，中微公司漲3.27%，拓荊科技漲1.98%。
+
+---
+
+### 2026-08-12 09:35:17  #公司
+
+【中賦科技成立靈源生物技術公司】企查查APP顯示，近日，廣東省中賦靈源生物技術有限公司成立，經營範圍包含農業科學研究和試驗發展；技術進出口；貨物進出口；飼料新增劑銷售等。企查查股權穿透顯示，該公司由中賦科技全資持股。
+
+---
+
+### 2026-08-12 09:35:17  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share food processing and manufacturing sector staged a short-term rally; Baihe hit the daily trading limit, and Babi Food, Zhulaoliu, Tianwei Food, Huangshanghuang and Ligao Food also advanced.
+
+---
+
+### 2026-08-12 09:34:53  #公司 #市場
+
+【創新藥板塊短線拉昇，百花醫藥觸及漲停】創新藥板塊短線拉昇，百花醫藥觸及漲停，萬邦醫藥、泓博醫藥、隴神戎發、譽衡藥業、哈藥股份、博濟醫藥跟漲。
+
+---
+
+### 2026-08-12 09:34:49  #公司 #市場
+
+【食品加工製造板塊短線拉昇，百合股份漲停】食品加工製造板塊短線拉昇，百合股份漲停，巴比食品、朱老六、天味食品、煌上煌、立高食品等紛紛走高。
+
+---
+
+### 2026-08-12 09:34:45  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Climb as Chip Stocks Rally — The benchmark KOSPI rose nearly 3% to around 6,530 on Wednesday, extending gains for a third straight session, led by major technology stocks. Samsung Electronics jumped more than 4%, and SK hynix gained over 2%, while optimism over strong AI-related demand and expectations of increased shareholder returns supported sentiment. Other notable gainers included SK Square (9.1%), Hyundai Motor (1.4%), LG Energy Solution (3.4%), Hanwha Aerospace (3.0%), KB Financial Group (1.0%), Kia Corporation (1.6%), and Doosan Enerbility (3.0%). Investors also looked ahead to the US July inflation report, with a softer-than-expected reading potentially easing concerns over a September Federal Reserve rate hike. Meanwhile, renewed tensions in the Middle East remained a risk to sentiment after hopes for a potential US-Iran peace deal faded, while the continued closure of the Strait of Hormuz pushed US crude prices above $83 a barrel, keeping inflationary pressures in focus.
 
 ---
 
@@ -18290,41 +18326,5 @@ Oil Holds Advance on US-Iran Deal Uncertainty — Crude oil held above $82 per b
 ### 2026-08-11 07:13:05  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #Impact mixed #DXY #Impact bearish
 
 【UK consumers boosted food and pub spending in July during World Cup】UK consumers increased food and pub spending in July amid England’s World Cup semi-final run and hot weather, but remained cautious on large-ticket purchases, the British Retail Consortium said. BRC data showed total retail sales rose 1.3% YoY in July, below the average and down from June’s 1.9%. Food sales were up 3.8% YoY while non-food sales fell 0.7%; clothing was supported by the heatwave, footwear declined. IGD CEO Sarah Bradbury said Middle East tensions and sustained high temperatures are intensifying food-supply chain pressure, raising the risk of further food-cost inflation and household budget strain into autumn. Barclays’ broader consumer spending indicator rose 2.0% YoY in July, marginally above June’s 1.9%.
-
----
-
-### 2026-08-11 07:12:34  #公司 #市場
-
-【英特爾據悉擬擴大股票發售規模，募資 200 億美元】據知情人士透露，英特爾公司正計劃將此次股票發售的募資規模上調至約 200 億美元，較週一早間公佈交易時的目標規模高出三分之一。知情人士表示，這家晶片製造商本次發行的定價預計在每股 95 美元或更高；因相關資訊尚未公開，訊息人士要求匿名。根據測算，該定價較上週五收盤價折價 6.5%。其中一位知情人士稱，若行使超額配售選擇權，本次募資規模有望進一步突破 200 億美元。本次股票發售獲得的認購需求已超 1000 億美元。知情人士表示，相關磋商仍在進行，發行規模、定價等細節仍有可能發生變動。英特爾發言人拒絕置評。
-
----
-
-### 2026-08-11 07:12:05  #其他
-
-【豆包劉星：“豆包推薦酒店要收費”說法不準確，還處在早期探索】8月10日晚，豆包公關負責人劉星發文表示，“豆包推薦酒店要收費了”這個說法不準確。豆包生活服務業務目前沒有付費推廣，豆包推薦酒店也不收取廣告費，商家不能透過付費影響推薦或排序，僅在訂單成交後支付渠道服務費。部分平臺採用“佣金+廣告”的收費模式，豆包現階段主要按成交收費，兩者不好直接比較。對商家而言，更有參考意義的是實際渠道成本和新增訂單效果，豆包也還在非常早期的探索，歡迎大家體驗和提意見。
-
----
-
-### 2026-08-11 07:11:07  #其他
-
-英特爾擴大股票發售規模，市場認購需求據悉超 1000 億美元。
-
----
-
-### 2026-08-11 07:10:58  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、到2030年糧食綜合生產能力再提升 從1.45萬億斤看糧食安全如何保障（經濟新方位·解碼“十五五”專項規劃）
-2、發票監管從事後檢查逐步轉向全過程風險監測 合規開票劃定“標準線”“警戒線”（資訊服務檯）
-3、《中國人民銀行“十五五”改革發展規劃》印發 構建科學穩健的貨幣政策體系和覆蓋全面的宏觀審慎管理體系
-4、自然資源“一張圖”建設紮實推進 推動跨部門跨層級資料共享共用
-5、產業補貼無關產能過剩（國際論壇）——所謂中國“產能過剩”，完全是偽命題①
-6、中企助力澳大利亞佈局商用太陽能專案——中澳綠色能源合作不斷深化
-7、豐富遊客體驗 助力村民增收 開展紅色研學 融合發展，老區文旅更紅火（經濟聚焦·老區新產業）
-8、二〇二六年服貿會將於九月舉辦
-9、應急管理部向工貿企業發出安全生產工作提示 嚴防六類生產安全事故
-10、“在推進共同富裕中先行示範”——浙江紮實推進共同富裕示範區建設
-11、今年前七個月大米出口同比增長百分之六十八——柬埔寨積極拓寬大米出口市場
-12、“巴中深化農畜產業鏈合作是雙方共同的機遇”。
 
 ---
