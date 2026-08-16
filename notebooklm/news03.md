@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 05:29:33_
-_本檔包含 2998 則快訊，約 600493 字_
+_更新時間：2026-08-17 05:50:51_
+_本檔包含 2991 則快訊，約 599817 字_
+
+---
+
+### 2026-08-13 14:07:14  #觀點 #央行 #國際
+
+【高盛：萬億美元儲備在手 日本可復刻多輪“史詩級外匯干預”】據高盛測算，在日本當前總量約1萬億美元的美元外匯儲備中，約2000億美元為現金及現金等價物，這一規模與今年7月日本央行的歷史性匯率干預體量基本持平。 依託美聯儲工具加持，日本可靈活調動的干預資金上限進一步提升，為後續護盤操作築牢資金基礎。 “日本目前手握的流動資金，足以再度開展數輪堪比此前紀錄級別的大規模干預。”高盛研究院策略師卡倫·菲什曼（Karen Fishman）直言，“（儘管）現實中日本不會把這筆資金全部耗盡，但這足以說明，只要日本願意，就擁有充足能力持續開展干預。” 她補充道，理論上，藉助美聯儲工具，全部1萬億美元儲備均可轉化為流動資金。
+
+---
+
+### 2026-08-13 14:06:44  #市場 #國際
+
+【機構：2026年Q2中東智慧手機市場下滑19%，廠商更加註重盈利能力】根據Omdia最新研究，2026年第二季度中東地區（不含土耳其）智慧手機出貨量同比下降19%，降至1,060萬部，創下自2025年第四季度以來最大的單季跌幅。價格上漲、供應受限以及地緣政治不確定性，促使廠商更加註重提升產品價值和盈利能力，而非單純追求出貨量增長。與此同時，隨著消費者信心走弱，中東地區零售商也採取了更加謹慎的庫存管理策略。
+
+---
+
+### 2026-08-13 14:06:32  #市場
+
+歐元斯托克50期貨<STXEc1>上漲0.43%，德國DAX期貨<FDXc1>上漲0.28%，富時期貨<FFIc1>上漲0.25%。
+
+---
+
+### 2026-08-13 14:06:22  #經濟數據 #英國
+
+【英國第二季度GDP環比增長0.4% 經濟增速較前季放緩】8月13日，英國國家統計局公佈資料顯示，英國2026年第二季度實際國內生產總值（GDP）環比增長0.4%，較第一季度0.6%的增幅有所放緩。第二季度經濟增長主要由服務業帶動，服務業產出增長0.5%，建築業增長0.3%，工業產出則持平。
+
+---
+
+### 2026-08-13 14:05:15  #MKT News #Important #Market Themes #AI Revolution #China Tech Giants #Market Regions #Greater China #00992.HK #Impact bullish
+
+【Lenovo Group quarterly revenue up 43% YoY; Hong Kong shares surge over 20%】Lenovo Group (00992.HK) shares rose more than 20% in Hong Kong after quarterly revenue increased 43% YoY, materially beating analyst estimates and boosting AI-demand expectations. Shares hit a record high and are up about 290% year-to-date, remaining the top performer in the Hang Seng China Enterprises Index. CITIGROUP analysts led by Kyna Wong said the results broadly and substantially exceeded expectations, reinforcing an AI-driven structural growth thesis.
 
 ---
 
@@ -18018,79 +18048,5 @@ USD/JPY briefly touched 159.43, its highest level since August.
 ### 2026-08-12 10:42:33  #MKT News
 
 【Henan issues list of priority areas for government investment funds】Henan provincial development and reform commission said on Aug. 11 that, with provincial government approval, it has issued a list designating 78 sub-sectors across four pillars—emerging pillar industries, future industries, traditional advantaged industries and modern services—as priority targets for government investment funds. The future industries category covers six areas: artificial and embodied intelligence, hydrogen energy, bio-manufacturing, quantum technologies, next-generation information networks and brain-like intelligence/brain–computer interfaces, and specifically highlights investment in humanoid robots, general-purpose large models, full-chain hydrogen technologies, bio-breeding, quantum computing and 6G mobile communications.
-
----
-
-### 2026-08-12 10:42:22  #MKT News #Market Regions #Japan & APAC
-
-【US Forces CV-22 Osprey makes emergency landing in Tochigi】A CV-22 Osprey from US Forces Japan's Yokota Air Base made a precautionary emergency landing at the Japan Ground Self-Defense Force Utsunomiya Airfield in Tochigi prefecture at about 15:00 local time on the 10th. Japan's Defense Ministry notified local governments by the 12th. The US said the landing was a "precautionary landing" to avoid an accident; the aircraft departed the airfield on the 11th. No injuries or damage have been confirmed. The Defense Ministry has not released the flight route or the cause of the landing.
-
----
-
-### 2026-08-12 10:41:57  #其他
-
-【河南釋出政府投資基金重點投資領域清單】據河南日報，8月11日，記者從省發展改革委獲悉，經省政府同意，該委近日印發《河南省政府投資基金重點投資領域清單》，明確了政府投資基金的重點投向，覆蓋新興支柱產業、未來產業、傳統優勢產業和現代服務業四大板塊共78個細分領域。其中，未來產業包括人工智慧與具身智慧、氫能、生物製造、量子科技、新一代資訊網路、類腦智慧與腦機介面等6個領域，重點佈局人形機器人、通用大模型、氫能全鏈條技術、生物育種、量子計算、6G行動通訊等前沿方向。
-
----
-
-### 2026-08-12 10:41:22  #市場 #焦點
-
-多晶矽連續主力合約日內漲4%，現報38100.00元。
-
----
-
-### 2026-08-12 10:41:04  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver up more than 1.0% intraday at $65.32/oz.
-
----
-
-### 2026-08-12 10:40:43  #市場
-
-紐約期銀日內漲1%，現報65.60美元/盎司。
-
----
-
-### 2026-08-12 10:40:29  #國際
-
-【一架駐日美軍“魚鷹”運輸機在栃木縣緊急降落】當地時間10日，駐日美軍橫田基地的一架CV-22“魚鷹”運輸機緊急降落在栃木縣陸上自衛隊宇都宮飛行場。日本防衛省截至12日，已向相關地方政府通報了這一情況。美方稱，此次降落是為避免發生事故而採取的“預防性降落”。該機已於11日離開該飛行場。據日本防衛省介紹，這架“魚鷹”在當地時間10日15時左右降落在宇都宮飛行場。目前尚未確認有人員受傷或財物損失。防衛省沒有公佈有關飛行路線以及降落原因等詳細情況。
-
----
-
-### 2026-08-12 10:40:23  #市場
-
-現貨白銀日內漲1%，現報65.30美元/盎司。
-
----
-
-### 2026-08-12 10:40:07  #市場 #焦點
-
-白銀連續主力合約日內漲1%，現報16020.00元。
-
----
-
-### 2026-08-12 10:40:03  #市場
-
-【主力資金：長鑫科技淨買入超16億】截至目前，今日主力資金淨流入72.24億；淨流入光通訊、TMT、晶片概念等板塊，其中光通訊板塊淨流入77.27億；淨流出昨日高振幅、國企改革、白馬股等板塊，其中昨日高振幅板塊淨流出36.06億。
-  
-個股方面，長鑫科技淨買入16.78億元位居首位，中際旭創、新易盛、天孚通訊主力資金淨流入居前；風華高科淨賣出6.70億元位居首位，太極實業、工業富聯、國際復材淨流出額居前。
-
----
-
-### 2026-08-12 10:39:31  #市場
-
-【阿里雲：靈駿真武M890超節點例項上線，可承載十萬億引數模型 】阿里雲宣佈靈駿真武 M890超節點例項上線，首批已在烏蘭察布地域開售。企業級客戶無需自建機房，在雲上即可開通64卡高速互聯算力單元，最高可承載十萬億引數級MoE大模型推理。據悉，阿里雲靈駿真武M890超節點是國內首個成功執行超2萬億引數大模型的超節點形態算力，Kimi K3和Qwen3.8 Max均已透過該例項對外提供服務。超節點例項支援FP8/FP4低精度計算，透過 ICN Switch 1.0晶片Scale-up互聯規模由 16卡拉昇至 64卡，卡間互聯提升至 800GB/s。在智慧駕駛、具身智慧等訓練場景中，相比上一代真武810E，訓練效能提升三倍。支撐該超節點叢集的是阿里雲統一底座——靈駿智算平臺。依託HPN 8.0訓推一體網路，單叢集最高支援 13 萬卡異構算力混布，並可擴充套件至百萬卡級。（新浪科技）
-
----
-
-### 2026-08-12 10:39:18  #市場 #國際
-
-印尼股市基準指數上漲1%至6331.15點。
-
----
-
-### 2026-08-12 10:39:04  #MKT News
-
-A-share-listed Gaozheng Minbao hit an intraday record high, rising 5.44% to 61.80 yuan; market capitalization 16.95 bln yuan.
 
 ---

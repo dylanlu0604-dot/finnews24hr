@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 05:29:33_
-_本檔包含 2932 則快訊，約 600743 字_
+_更新時間：2026-08-17 05:50:51_
+_本檔包含 2928 則快訊，約 600440 字_
+
+---
+
+### 2026-08-11 08:35:28  #資料
+
+【興業證券沈昊：三季度白酒板塊有望迎估值修復行情】興業證券食品飲料首席分析師沈昊表示，當前白酒板塊底部已基本確認，安全邊際充足，邊際改善方向明確。儘管庫存去化仍需時間，但行業最差的階段已經過去。沈昊指出，從三個方面看，當前板塊處於價值底部：一是酒企當前股價所對應真實業績的估值水平，多數已處於歷史偏低水位；二是現金流和淨資產具備安全墊；三是大部分酒企股息率的中長期配置吸引力提升。“今年中秋旺季將是檢驗基本面的關鍵視窗，若能平穩度過，白酒板塊拐點有望逐步兌現。”沈昊進一步指出。行情方面，沈昊判斷，預計下半年的三季度起，伴隨 CPI、PPI 等宏觀資料持續改善，消費信心回暖，行業邊際修復訊號明確，板塊有望迎來第二階段的估值修復行情。（澎湃）
+
+---
+
+### 2026-08-11 08:34:26  #其他
+
+【銀河證券：全球儲能市場進入多元化增長階段 中長期需求強勁】銀河證券研報稱，全球儲能市場進入多元化增長階段，中長期需求強勁。大儲功能定位由新能源配套設施逐步向兼具調峰調頻、容量支撐、備用保障及電力交易等多重價值的關鍵靈活性資源轉變，在電力系統中的作用進一步深化。戶儲和工商儲在地緣政治風險波動加大下，各國保障能源安全訴求加強，且亞非拉區域缺電剛需韌性較強，戶儲和工商儲經濟性凸顯。銀河證券認為全球儲能需求近1—2年有望保持強勁增長。
+
+---
+
+### 2026-08-11 08:34:19  #央行 #美聯儲
+
+【美聯儲到9月累計加息25個基點的機率為51.2%】據CME“美聯儲觀察”，美聯儲到9月維持利率不變的機率為48.8%，累計加息25個基點的機率為51.2%。美聯儲到10月維持利率不變的機率為34.7%，累計加息25個基點的機率為50.5%，累計加息50個基點的機率為14.7%。
+
+---
+
+### 2026-08-11 08:34:03  #其他
+
+【哥倫比亞地質調查局：此次地震與火山活動無關】當地時間10日，哥倫比亞地質調查局表示，當天發生在該國喬科省的強震，與日前普拉塞火山的活動以及洛斯科科努科斯火山鏈均沒有任何關聯。據悉，10日上午，普拉塞火山出現火山灰和氣體排放活動，附近的波帕揚機場暫停運營。普拉塞火山位於哥倫比亞西南部考卡省，海拔約4750米，是哥倫比亞最活躍的火山之一。8月1日，哥倫比亞地質調查局將“普拉塞火山—洛斯科科努科斯火山鏈”的警戒級別從黃色提升至橙色，原因包括火山淺層地震活動增強、火山灰和氣體排放柱高度增加等異常變化。
+
+---
+
+### 2026-08-11 08:32:52  #公司 #國際
+
+【特朗普的媒體公司Trump Media：Truth Social實時資訊流注冊客戶超過10個】美國總統特朗普的媒體公司週一表示，已有超過10個客戶註冊了Truth Social熱門賬號的實時資訊流。該產品已引發了批評，被指第一家庭將商業利益與白宮事務混為一談。Trump Media & Technology Group在營銷Truth API時稱，該產品能讓使用者更快獲取Truth Social上熱門賬號的帖子。特朗普經常在該平臺上釋出有關貿易協議、伊朗戰爭等重大事件的最新動態。在Trump Media週一舉行的首次財報電話會議上，臨時執行長凱文.麥格恩(Kevin McGurn)表示，早期註冊客戶主要包括每月支付6萬至10萬美元的高頻交易公司。麥格恩說，該公司正在與其他潛在客戶（如人工智慧超大規模雲服務提供商）進行“積極”對話，並著眼於最終向散戶交易員推廣。“目前，我們還處於初期階段，”他說。政府監督機構和國會民主黨人批評了這項服務，認為總統此舉是在向投資者出售足以影響市場的資訊獲取渠道。該公司週一報告稱，第二財季營收為170萬美元，淨虧損2.38億美元，這在很大程度上是由於對比特幣進行了時機不當的押注。上週，Trump Media還取消了與Crypto.com的協議，雙方原本計劃在Truth Social上推出預測市場功能，並建立一個獨立的數字資產儲備。
+
+---
+
+### 2026-08-11 08:32:04  #市場 #焦點
+
+比特幣升破64000美元，日內漲0.06%。
+
+---
+
+### 2026-08-11 08:29:58  #公司 #國際
+
+【日本鎧俠稱SK海力士關聯投資實體為其第一大股東】鎧俠控股股份有限公司的最大股東是一家投資載體，該實體所持股份存在競爭對手SK海力士的權益主張。鎧俠週二釋出宣告表示，截至8月3日，這家快閃記憶體廠商的前母公司東芝公司，將其持有的鎧俠股份由14.48%減持至約14.12%。由此，由貝恩資本設立的BCPE Pangea Cayman2 以14.19%的持股比例，成為這家日本晶片企業的第一大股東。根據鎧俠年報，韓國SK海力士持有可轉換債券，該債券可獲得BCPE Pangea Cayman2“幾乎全部”的投票權。在年報中，這家日本企業明確將SK海力士的該項權益主張列為風險因素，稱其有可能引發利益衝突。SK海力士曾參與2018年由貝恩資本牽頭的財團收購鎧俠的交易。作為交易條款的一部分，SK海力士承諾，除非獲得該日本晶片企業許可，否則到2028年之前，其持有的鎧俠投票權佔比不得超過15%。
 
 ---
 
@@ -17637,71 +17679,5 @@ WTI crude opened Monday up 1.5% at $77.6/barrel.
 ### 2026-08-10 05:57:02  #央行 #國際
 
 【美聯儲9月加息25個基點的機率為44.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為55.6%，累計加息25個基點的機率為44.4%。美聯儲到10月維持利率不變的機率為40.8%，累計加息25個基點的機率為47.4%，累計加息50個基點的機率為11.8%。
-
----
-
-### 2026-08-10 05:47:19  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said as of Aug 9 it had rerouted 55 merchant vessels in the Strait of Hormuz, rendered two vessels inoperable and boarded two others to ensure compliance with a blockade order.
-
----
-
-### 2026-08-10 05:41:51  #國際
-
-美國中央司令部：截至8月9日，美國中央司令部已調改55艘商船航線，使2艘船隻失去行動能力，並登臨檢查2艘船隻，確保相關船隻遵守管控要求。
-
----
-
-### 2026-08-10 05:39:30  #MKT News
-
-【Multiple shootings in Chicago leave three dead, 10 injured】Multiple shootings in Chicago over the weekend killed at least three people and wounded 10, US media reported. Police have not arrested any suspects in the incidents.
-
----
-
-### 2026-08-10 05:39:14  #國際
-
-【美國芝加哥市發生多起槍擊事件致三死10傷】據多家美國媒體報道，美國芝加哥市本週末發生多起槍擊事件，造成至少三人死亡、10人受傷。報道說，芝加哥市9日凌晨至早間共報告8起槍擊事件，造成三人死亡、9人受傷，其中兩人傷情嚴重。此外，還有一名男子8日凌晨在該市遭槍擊，傷情嚴重。報道說，警方尚未逮捕到上述槍擊事件的任何嫌疑人。（新華社）
-
----
-
-### 2026-08-10 05:38:43  #國際
-
-【以媒：內塔尼亞胡曾同意從加沙部分地區撤軍 現已反悔】據以色列第12頻道電視臺9日報道，以總理內塔尼亞胡曾同意以軍從加沙地帶南部拉法附近的三個區域小範圍撤軍，但於當天“改變了主意”。報道援引以安全部門官員的話稱，內塔尼亞胡和以軍總參謀長扎米爾上週出席相關磋商，討論從拉法地區撤軍問題，以色列和美國都批准了相關撤軍計劃。但以色列國防軍和安全機構9日從媒體得知“（內塔尼亞胡）改變了主意”。以色列多家媒體9日報道，內塔尼亞胡當天在內閣會議上說，以色列拒絕美國發起的所謂“和平委員會”提出的加沙和平計劃，並稱在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）真正解除武裝之前，以軍不會撤出加沙地帶。以色列第12頻道電視臺報道說，內塔尼亞胡上述立場的變化讓以色列安全機構十分“吃驚”。（新華社）
-
----
-
-### 2026-08-10 05:38:42  #MKT News
-
-【Netanyahu reportedly reversed approved limited IDF pullback near Rafah】Israel’s Channel 12 reported on the 9th that Prime Minister Netanyahu had agreed to a limited IDF pullback from three areas near Rafah in southern Gaza but reversed the decision the same day. Citing security officials, the report said Netanyahu and IDF Chief of Staff Zamir discussed the plan last week and that both Israel and the US had approved it; Israeli defense and security agencies learned of the reversal from the media on the 9th. At a cabinet meeting Netanyahu rejected a US-initiated “peace commission” Gaza plan and said Israeli forces will not withdraw until Hamas is fully disarmed; Channel 12 said the change surprised Israeli security agencies.
-
----
-
-### 2026-08-10 05:35:43  #MKT News #USDJPY #Impact bearish #EURUSD #Impact bullish #DXY
-
-FX market steady at Monday open: USD/JPY down 0.08%, EUR/USD up 0.03%, DXY down 0.04%.
-
----
-
-### 2026-08-10 05:34:06  #MKT News
-
-【Kuwait, Pakistan discuss regional situation】Kuwait's foreign minister held a phone call with Pakistan's foreign minister to discuss the latest regional situation, measures to bolster regional security and stability, and steps to deepen bilateral ties.
-
----
-
-### 2026-08-10 05:30:53  #其他
-
-英國首相安迪・伯納姆週日表示，將打擊虛假商品折扣以及訂閱消費陷阱。
-
----
-
-### 2026-08-10 05:29:42  #MKT News
-
-President Trump said Will Schaff will replace David Wellington as Assistant to the President and White House counsel, effective Sept. 1.
-
----
-
-### 2026-08-10 05:29:36  #國際
-
-特朗普：沃靈頓將轉赴私營部門任職。
 
 ---
