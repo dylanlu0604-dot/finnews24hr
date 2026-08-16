@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:33:22_
-_本檔包含 2959 則快訊，約 600764 字_
+_更新時間：2026-08-16 23:53:20_
+_本檔包含 2959 則快訊，約 600802 字_
+
+---
+
+### 2026-08-13 13:15:58  #公司 #資料 #國際
+
+【菲律賓First Gen或將以27億美元估值接受KKR的私有化要約】菲律賓First Gen公司週四表示，KKR提出的強制要約將使這家電力生產商的估值達到約1,654.4億比索(即27億美元)。First Gen週三披露稱，KKR提議從其母公司First Philippine Holdings 手中收購該公司8.43%的股份。這家電力生產商補充稱，此舉可能會觸發KKR對First Gen全部11.67%流通股（即36億股已發行普通股）發起強制要約收購。該要約收購將 支援 First Gen向菲律賓證券交易所 提交的 自願退市 申請。
+
+---
+
+### 2026-08-13 13:15:15  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Drops by 0.45% — Top currency loser is New Zealand Dollar (-0.45%). Gains are led by Japanese Yen (0.08%).
+
+---
+
+### 2026-08-13 13:13:20  #其他
+
+【銳捷網路股價創新高】銳捷網路漲10.51%，報139.5元/股，股價再創新高，總市值突破1500億元，成交額達31.42億元。
+
+---
+
+### 2026-08-13 13:13:07  #國際
+
+韓國總統李在明：房地產泡沫已不容忽視。
+
+---
+
+### 2026-08-13 13:11:08  #國際
+
+韓國總統李在明：房地產是影響所有地區的關鍵問題。
+
+---
+
+### 2026-08-13 13:10:56  #國際
+
+韓國總統李在明：不能再讓房地產泡沫繼續蔓延了。
+
+---
+
+### 2026-08-13 13:10:52  #MKT News #Market Regions #Japan & APAC #XAUUSD #Impact bullish
+
+【Japan protests Putin visit to disputed Northern Territories (Southern Kurils)】MOTEGI lodged a strong protest on the 13th after Putin landed on Etorofu Island in the Northern Territories (the Southern Kurils in Russian) and inspected a seafood-processing plant. The Kremlin said Putin spoke with workers, posed for photos and sampled local caviar; it was his first visit to the islands. The sovereignty dispute has prevented Russia and Japan from signing a post-World War II peace treaty.
+
+---
+
+### 2026-08-13 13:09:58  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+Stocks in China Hit 4-week High — SHANGHAI increased to 3968.00 Index Points, the highest since July 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.01%, and in the last 12 months, it increased 8.19%.
+
+---
+
+### 2026-08-13 13:09:09  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite
+
+China A-share AI PC sector ticked higher briefly; Chunqiu Electronics hit the daily limit-up, Huaqin Technology had earlier hit limit-up, and Zhongshi Technology, Xinghuan Technology and Lianyun Technology also advanced.
+
+---
+
+### 2026-08-13 13:08:36  #國際
+
+【日本強烈抗議普京登上日俄爭議島嶼】13日，日本外務大臣茂木敏充就俄羅斯總統普京登上北方四島（俄稱南千島群島）的擇捉島（俄稱伊圖魯普島）提出強烈抗議。當天稍早前，普京登上南千島群島（日本稱北方四島），並視察了伊圖魯普島（日本稱擇捉島）上一家水產品加工廠。克里姆林宮在社交媒體釋出訊息說，普京與水產品加工廠員工交談，並與他們合影留念。他還品嚐了當地生產的魚子醬。這是普京首次登上南千島群島。因在南千島群島（日本稱北方四島）的歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。（央視新聞）
 
 ---
 
@@ -17798,65 +17858,5 @@ AI應用方向早盤走高，省廣集團、風語築雙雙漲停，天龍集團
 ### 2026-08-12 09:56:02  #MKT News #Commodities #Industrial Metals
 
 Lithium carbonate most-active futures contract rose more than 3% to 149,820 yuan/ton.
-
----
-
-### 2026-08-12 09:55:42  #公司 #市場
-
-【商貿零售板塊震盪反彈，寧波中百漲停】商貿零售板塊震盪反彈，寧波中百漲停，蜂助手、新迅達、錦和商管、吉宏股份、行雲科技、華凱易佰等跟漲。
-
----
-
-### 2026-08-12 09:54:56  #其他
-
-【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局8月12日8時聯合釋出橙色地質災害氣象風險預警：2026年8月12日8時至13日8時，北京西部和東部、河北西南部和中部、浙江東部、河南中部和南部、湖北北部、雲南西南部發生地質災害的風險較高（黃色預警）；北京西部區域性、河北西南區域性、浙江東部、河南中部區域性、湖北西北區域性發生地質災害的風險高（橙色預警）。
-
----
-
-### 2026-08-12 09:54:36  #MKT News #SSE Composite #Impact bullish
-
-A-share education sector rallied; Chuanzhi Education hit the daily limit, while Quantong Education, Angli Education, Offcn Education, Chuangye Heima and Kede Education also advanced.
-
----
-
-### 2026-08-12 09:54:32  #MKT News #Market Regions #Greater China #01879.HK #Impact bullish #03308.HK #06869.HK
-
-Hong Kong-listed optical-communications stocks rallied: Xizhi Technology (01879.HK) jumped over 9%, Zhongji Xuchuang (03308.HK) rose nearly 5%; Yangtze Optical Fibre & Cable (06869.HK) and Haiguang Xinzhen (01191.HK) also gained.
-
----
-
-### 2026-08-12 09:54:22  #市場
-
-【教育板塊異動走高，傳智教育漲停】教育板塊異動走高，傳智教育漲停，全通教育、昂立教育、中公教育、創業黑馬、科德教育等紛紛走高。
-
----
-
-### 2026-08-12 09:53:56  #市場
-
-【港股光通訊股走強 中際旭創漲超5%】截至發稿，中際旭創(03308.HK)漲5.30%，海光芯正(01191.HK)漲3.50%，長飛光纖光纜(06869.HK)漲3.60%。
-
----
-
-### 2026-08-12 09:53:03  #公司 #國際
-
-印度塔塔集團董事長錢德拉塞卡蘭據悉考慮在8月18日股東大會前離職。
-
----
-
-### 2026-08-12 09:52:48  #公司
-
-【中銀基金執行總裁張家文離任，由陳衛星代行職責】8月11日晚間，中銀基金髮布高階管理人員變更公告。公告顯示，張家文於8月10日因工作調整離任中銀基金執行總裁職務，由陳衛星代行執行總裁職務。資料顯示，陳衛星曆任中國銀行總行金融市場總部（託管投資服務）助理總經理，中國銀行深圳市分行黨委委員、行長助理、副行長，中國銀行總行養老金融部副總經理。他於2022年加入中銀基金，現任中銀基金督察長、副執行總裁。
-
----
-
-### 2026-08-12 09:52:48  #MKT News #Market Regions #Greater China #BABA.N #Impact bullish
-
-【Fliggy hotel room-nights buck slowdown; early-August daily average up >60%】Fliggy's hotel business has posted four consecutive quarters of strong growth. Since April 2026, daily fulfilled hotel room-nights have risen roughly 50% YoY, with early August approaching 70% YoY. Fliggy attributes the expansion to deeper integration between the Fliggy and Taobao apps, with 88VIP customers a notable growth driver. Deduplicated MAU in June rose more than 30% YoY.
-
----
-
-### 2026-08-12 09:52:44  #其他
-
-【暑期飛豬酒店間夜量逆勢增長，8月上旬日均增超60%】飛豬酒店業務規模已連續四個季度高位增長。2026年4月至今，飛豬酒店日均履約間夜增速同比可達50%左右，8月上旬甚至逼近70%。據瞭解，酒店業務規模擴大主要受益於飛豬App與淘寶App的深度打通，其中，88VIP人群帶動效果顯著。6月去重後活躍使用者數（MAU）同比增長在30%以上。
 
 ---

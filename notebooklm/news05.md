@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:33:22_
-_本檔包含 2959 則快訊，約 600470 字_
+_更新時間：2026-08-16 23:53:20_
+_本檔包含 2952 則快訊，約 600885 字_
+
+---
+
+### 2026-08-11 07:28:25  #Trading Economics #Economy #United Kingdom #BRC Retail Sales Monitor YoY #Importance 1
+
+UK Retail Sales Growth Slows to 5-Month Low — UK retail sales rose by 1% year-on-year on a like-for-like basis in July 2026, falling short of market expectations for a 1.5% gain and slowing from a 1.7% increase in the previous month. The latest figure also marked the softest growth since February, as consumers remained wary of big outlays despite support from England's run to the World Cup semi-finals and a prolonged heatwave. Food sales rose 3.8% while non-food sales declined 0.7%. Clothing sales benefited from hot weather, although footwear sales fell. Barclays' broader measure of consumer spending rose 2%, slightly faster than June's 1.9% increase, with essential spending up 2.9% and non-essential spending increasing 1.6%. Pub transactions jumped 10% during the month, supported by World Cup matches, while travel spending shifted toward domestic staycations as airline spending fell 6%. Barclays' consumer confidence measure also reached its most optimistic level about the UK economy in 21 months.
+
+---
+
+### 2026-08-11 07:28:23  #央行 #美聯儲
+
+【特朗普稱曾與美聯儲主席沃什有過簡短交談】據報道，美國總統特朗普8月10日表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。
+
+---
+
+### 2026-08-11 07:27:24  #市場
+
+【暑期檔熱門影片來襲 8月10日超半數概念股獲主力資金加倉】2026年暑期檔電影市場熱度攀升，行業消費活力進一步釋放，帶動影視板塊行情回暖，相關個股備受市場關注。8月10日，影視股市場表現活躍，概念指數早盤高開後維持震盪，午後再度拉昇，漲幅超2%，儒意電影、北京文化漲停，華智數媒、金逸影視、中國電影、博納影業等個股跟漲。訊息面上，由文牧野執導、沈騰領銜主演，蔣奇明、奧馬爾・謝里夫參演的暑期檔熱門影片《歡迎來龍餐館》在8月11日正式公映，該影片在8月8日開啟超前點映，憑藉紮實的故事內容與演員的精彩演繹收穫不少影迷好評，市場熱度快速攀升，儒意電影、北京文化均為該影片出品方。據證券時報·資料寶統計，8月以來，20餘隻影視概念股的股價全線錄得上漲，北京文化、華智數媒、儒意電影、幸福藍海和橫店影視等影視概念股均累計上漲超6%。8月10日，超半數影視概念股獲主力資金加倉，其中儒意電影、北京文化、幸福藍海主力資金淨流入額居前，分別為2.66億元、1.07億元、5430.45萬元。奧飛娛樂、光線傳媒、百納千成獲主力資金淨流入均超3000萬元。
 
 ---
 
@@ -17805,65 +17823,5 @@ Yemen's deputy defense minister said Houthi attacks aim to draw Yemen into a reg
 ### 2026-08-09 23:54:36  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Yemeni government condemns Houthi attack on Mocha port, says Red Sea shipping at risk】The Yemeni government condemned a Houthi attack on Mocha port, calling it a terrorist act that amounts to warfare against the state and national economy. It accused the Houthis of systematically striking ports and infrastructure while alleging government siege, and blamed Iran for supplying weapons and technical support. The government warned the threat now extends to regional and international security and endangers Red Sea shipping, said it will protect strategic facilities, and urged the international community to take concrete steps to cut Houthi funding and arms flows rather than issue verbal condemnations.
-
----
-
-### 2026-08-09 23:47:31  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemen's health minister said an attack by Houthi forces on Mocha port killed 7 people and wounded 30.
-
----
-
-### 2026-08-09 23:47:09  #國際
-
-烏克蘭緊急服務局：俄羅斯炮擊哈爾科夫州，致1人死亡、36人受傷。
-
----
-
-### 2026-08-09 23:47:04  #其他
-
-葉門衛生部長：胡塞武裝襲擊馬哈港，造成7人死亡、30人受傷。
-
----
-
-### 2026-08-09 23:46:43  #其他
-
-葉門政府譴責胡塞武裝對馬哈港發動襲擊。
-
----
-
-### 2026-08-09 23:46:42  #MKT News
-
-Ukraine emergency services said Russian shelling of Kharkiv region killed one and wounded 36.
-
----
-
-### 2026-08-09 23:46:30  #MKT News
-
-Lebanese Health Ministry says Israeli attacks on Lebanon since March 2 have killed at least 4,335 people and wounded 12,277.
-
----
-
-### 2026-08-09 23:45:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran army commander says forces at full readiness, warns US personnel not to enter Iranian territory】Ali Jahanshahi, commander of Iran’s army, said all forces are at "full readiness" and would respond decisively to any threat, Press TV reported. Speaking after inspecting ground units in southeast Iran and along the Makran coast, he said units were continuously monitoring movements, precisely tracking threats and prepared to defend the Islamic Republic’s borders. He added recent events had exposed the enemy’s "true strength and capability" and warned that "if any US military personnel set foot on Iran, we will cut them off."
-
----
-
-### 2026-08-09 23:41:53  #國際
-
-黎巴嫩衛生部：自3月2日以來，以色列對黎巴嫩的襲擊已造成至少4335人死亡和12277人受傷。
-
----
-
-### 2026-08-09 23:39:48  #其他
-
-【南非開普敦發生3起槍擊事件致11人死亡】南非警方9日說，南非立法首都開普敦8日晚至9日凌晨接連發生3起槍擊事件，共造成11人死亡。（新華社）
-
----
-
-### 2026-08-09 23:34:12  #國際
-
-俄羅斯或於2027年將外籍車牌車輛繳納交通罰單的期限由60天縮短至1天。逾期繳納後，相關車輛將被扣留，直至罰單繳清。
 
 ---

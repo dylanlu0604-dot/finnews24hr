@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:33:22_
-_本檔包含 3032 則快訊，約 600814 字_
+_更新時間：2026-08-16 23:53:20_
+_本檔包含 3041 則快訊，約 601083 字_
+
+---
+
+### 2026-08-16 23:51:41  #MKT News
+
+Al Arabiya TV reported Kushner, a senior adviser to Trump, has concluded a meeting with the Gaza Peace Committee.
+
+---
+
+### 2026-08-16 23:50:56  #MKT News
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan said in a joint statement that Israel's refusal threatens Trump's intensified efforts to end the Gaza war.
+
+---
+
+### 2026-08-16 23:50:45  #國際
+
+埃及、約旦、阿聯酋、卡達、印度尼西亞、沙烏地阿拉伯、土耳其和巴基斯坦聯合宣告譴責以色列拒絕特朗普關於加沙的計劃，並表示以色列需為阻礙加沙及巴勒斯坦領土的和平程序承擔責任，以色列的拒絕令特朗普加大力度終結加沙戰爭的行動面臨威脅。
+
+---
+
+### 2026-08-16 23:50:04  #MKT News
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement saying Israel is responsible for obstructing peace efforts in Gaza and the Palestinian territories.
+
+---
+
+### 2026-08-16 23:49:48  #國際
+
+伊朗議會議長卡利巴夫：伊朗在同美國、以色列的戰爭中，于軍事與政治兩條戰線均取得“真正勝利”。
+
+---
+
+### 2026-08-16 23:49:15  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement condemning Israel's rejection of President Trump's plan for Gaza.
+
+---
+
+### 2026-08-16 23:47:52  #國際
+
+【庫什納會見哈馬斯領導人，敦促其推進加沙非軍事化】特朗普特使賈裡德·庫什納週日在埃及會見了哈馬斯領導人，敦促他們履行解除武裝的承諾。這是自去年10月簽署結束加沙戰爭的協議以來，庫什納首次與哈馬斯領導人會面。此次會晤的目標是將哈馬斯關於加沙非軍事化的義務“轉化為具體、可核查的步驟”。為維持加沙停火，這些措施包括將執政權移交給巴勒斯坦技術官僚政府，並確保哈馬斯在加沙未來的治理中不扮演任何角色。和平委員會希望哈馬斯開始解除武器和軍事基礎設施的武裝，允許國際穩定部隊部署並協助加沙的恢復和重建工作，且不得對參與重建的巴勒斯坦人進行盜竊或恐嚇。該委員會還希望，如果哈馬斯開始解除武裝，以色列也應在加沙進行“相應的撤軍”，並加快向加沙地帶提供人道主義援助。訊息人士稱，庫什納預計將於週一訪問以色列，並與以色列總理內塔尼亞胡會面，討論以色列必須採取的“相應步驟”。
+
+---
+
+### 2026-08-16 23:46:12  #MKT News
+
+Sources said Trump senior adviser Jared Kushner and 'Peace Committee' Gaza affairs representative Nikolay Mladenov promised Hamas that Israeli forces would withdraw from Gaza in tandem with the group's disarmament.
+
+---
+
+### 2026-08-16 23:43:35  #MKT News
+
+Al Arabiya reported Kushner told Hamas that peace can be achieved only if all parties fulfill their commitments.
+
+---
+
+### 2026-08-16 23:42:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Russian Defence Ministry said it struck three warships and two tankers used to deliver military supplies and fuel to Ukrainian forces based at the port of Odesa.
+
+---
+
+### 2026-08-16 23:40:05  #MKT News
+
+【Forest fire on Greece's Salamis Island kills 2, injures 9】Greece's fire service says a forest fire on Salamis Island, about 20 km west of Athens, has killed 2 people and injured 9; roughly 90 people were evacuated.
+
+---
+
+### 2026-08-16 23:39:50  #國際
+
+俄羅斯國防部：打擊了3艘船隻和2艘油輪，這些船隻正用於向烏克蘭軍隊在敖德薩港運送軍事物資和燃料。
+
+---
+
+### 2026-08-16 23:39:31  #MKT News
+
+Following a Russian missile strike on Kyiv, firefighters battled a blaze at a book market; emergency services reported two people injured.
+
+---
+
+### 2026-08-16 23:35:59  #其他
+
+【希臘薩拉米斯島森林火災已致2死9傷】希臘媒體16日援引該國消防部門訊息報道，位於希臘首都雅典以西約20公里的薩拉米斯島當天發生森林火災，已造成2人死亡、9人受傷，約90人被迫撤離。（新華社）
+
+---
+
+### 2026-08-16 23:33:27  #其他
+
+市場資訊：針對多次延期的新一代Roadster跑車，特斯拉已研究過多種設計方案，包括改造Model S Plaid，以及借鑑蘭博基尼Countach與SR‑71“黑鳥”偵察機的外觀造型。
 
 ---
 
@@ -18267,41 +18357,5 @@ PTA連續主力合約日內漲2%，現報5784.00元。
 ### 2026-08-14 14:27:15  #MKT News #Market Themes #China Tech Giants #AI Revolution
 
 【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition.
-
----
-
-### 2026-08-14 14:27:12  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Halts Gains, Retreats from Near 6-Week High — The TAIEX, Taiwan’s benchmark stock index, dropped 210 points, or 0.5%, to close at 45,811, reversing gains in morning trade and halting a four-session winning streak, weighed down by electronic technology. The broader index retreated from its highest level since July 6, reached a day earlier, with electronic technology falling 1.1%, reversing a 1.5% rise in the previous session. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.6% after gaining 0.8% on Thursday. Declines were also seen in MediaTek (-0.4%), Hon Hai Precision Industry (-1.0%), and ASE Technology Holding (-1.6%). Nanya Technology, a major Taiwanese memory chip maker, also shed 0.4%. An upbeat session on Wall Street overnight limited the fall as bets on the Fed hiking interest rates at its September meeting eased amid softer inflation. For the week, however, the index posted a 3.6% surge, the second straight weekly gain.
-
----
-
-### 2026-08-14 14:27:12  #MKT News #Important #Brent #Impact bullish
-
-Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl.
-
----
-
-### 2026-08-14 14:26:59  #市場
-
-布倫特原油日內漲1%，現報87.96美元/桶。
-
----
-
-### 2026-08-14 14:25:39  #其他
-
-【百度文庫網盤GenFlow官宣中文名“庫庫AI”】8月14日，在百度AI Day開放日上，百度文庫網盤通用智慧體GenFlow官宣中文名“庫庫AI”。GenFlow月活使用者已突破1億，目前AI辦公MAU超過2500萬。同時，文庫網盤宣佈上線“庫庫AI”獨立端，包括庫庫AI辦公PC客戶端、庫庫AI網頁端、小程式及庫庫AI企業版等。
-
----
-
-### 2026-08-14 14:25:18  #MKT News
-
-【Global funds accelerate into China; China equity funds net $50.82bn in past month】As of Aug. 5, global capital accelerated into Chinese equities: China equity funds recorded $50.82bn net inflows in the past month, roughly 60% of total emerging-market inflows, while overseas-listed China ETFs also expanded. Several foreign asset managers point to corporate earnings recovery and industrial upgrading as drivers for a sustained valuation rerating and identify semiconductors, internet, power and healthcare as preferred overweight sectors.
-
----
-
-### 2026-08-14 14:23:39  #其他
-
-【全球資金加速湧入 中國股票基金近一個月吸金逾500億美元】近期，國際資金正加速佈局中國權益資產。最新資金流向資料顯示，截至8月5日的近一個月，中國股票基金淨流入508.2億美元，佔新興市場總額近六成；海外上市的中國ETF規模同步擴張。近期，多家外資機構也密集發聲，認為中國企業盈利修復與產業升級將驅動估值重估行情延續，半導體、網際網路、電力及醫療等板塊被其視為核心配置方向。(上海證券報)
 
 ---

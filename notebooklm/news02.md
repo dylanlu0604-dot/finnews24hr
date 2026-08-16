@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:33:22_
-_本檔包含 3183 則快訊，約 600623 字_
+_更新時間：2026-08-16 23:53:20_
+_本檔包含 3179 則快訊，約 600910 字_
+
+---
+
+### 2026-08-14 14:27:12  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+TAIEX Halts Gains, Retreats from Near 6-Week High — The TAIEX, Taiwan’s benchmark stock index, dropped 210 points, or 0.5%, to close at 45,811, reversing gains in morning trade and halting a four-session winning streak, weighed down by electronic technology. The broader index retreated from its highest level since July 6, reached a day earlier, with electronic technology falling 1.1%, reversing a 1.5% rise in the previous session. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.6% after gaining 0.8% on Thursday. Declines were also seen in MediaTek (-0.4%), Hon Hai Precision Industry (-1.0%), and ASE Technology Holding (-1.6%). Nanya Technology, a major Taiwanese memory chip maker, also shed 0.4%. An upbeat session on Wall Street overnight limited the fall as bets on the Fed hiking interest rates at its September meeting eased amid softer inflation. For the week, however, the index posted a 3.6% surge, the second straight weekly gain.
+
+---
+
+### 2026-08-14 14:27:12  #MKT News #Important #Brent #Impact bullish
+
+Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl.
+
+---
+
+### 2026-08-14 14:26:59  #市場
+
+布倫特原油日內漲1%，現報87.96美元/桶。
+
+---
+
+### 2026-08-14 14:25:39  #其他
+
+【百度文庫網盤GenFlow官宣中文名“庫庫AI”】8月14日，在百度AI Day開放日上，百度文庫網盤通用智慧體GenFlow官宣中文名“庫庫AI”。GenFlow月活使用者已突破1億，目前AI辦公MAU超過2500萬。同時，文庫網盤宣佈上線“庫庫AI”獨立端，包括庫庫AI辦公PC客戶端、庫庫AI網頁端、小程式及庫庫AI企業版等。
+
+---
+
+### 2026-08-14 14:25:18  #MKT News
+
+【Global funds accelerate into China; China equity funds net $50.82bn in past month】As of Aug. 5, global capital accelerated into Chinese equities: China equity funds recorded $50.82bn net inflows in the past month, roughly 60% of total emerging-market inflows, while overseas-listed China ETFs also expanded. Several foreign asset managers point to corporate earnings recovery and industrial upgrading as drivers for a sustained valuation rerating and identify semiconductors, internet, power and healthcare as preferred overweight sectors.
+
+---
+
+### 2026-08-14 14:23:39  #其他
+
+【全球資金加速湧入 中國股票基金近一個月吸金逾500億美元】近期，國際資金正加速佈局中國權益資產。最新資金流向資料顯示，截至8月5日的近一個月，中國股票基金淨流入508.2億美元，佔新興市場總額近六成；海外上市的中國ETF規模同步擴張。近期，多家外資機構也密集發聲，認為中國企業盈利修復與產業升級將驅動估值重估行情延續，半導體、網際網路、電力及醫療等板塊被其視為核心配置方向。(上海證券報)
 
 ---
 
@@ -19109,65 +19145,5 @@ South Korea's President Lee said the property bubble must not be allowed to cont
 ### 2026-08-13 13:16:27  #MKT News #Market Regions #Emerging Markets
 
 【Vietnam central bank warns $77 billion funding gap could threaten financial stability】Vietnam’s central bank warned a funding shortfall that exceeds banks’ ability to raise funds could jeopardize financial stability, saying VND loan balances exceed deposits by roughly VND 20,000 billion (about $77 billion), a mismatch that poses risks to liquidity, interest rates and the safety of banking institutions. The government is pressing banks to ramp up lending to support a near-12% H2 growth target on the way to a double-digit 2026 growth goal; the prime minister met banking executives on Thursday.
-
----
-
-### 2026-08-13 13:15:58  #公司 #資料 #國際
-
-【菲律賓First Gen或將以27億美元估值接受KKR的私有化要約】菲律賓First Gen公司週四表示，KKR提出的強制要約將使這家電力生產商的估值達到約1,654.4億比索(即27億美元)。First Gen週三披露稱，KKR提議從其母公司First Philippine Holdings 手中收購該公司8.43%的股份。這家電力生產商補充稱，此舉可能會觸發KKR對First Gen全部11.67%流通股（即36億股已發行普通股）發起強制要約收購。該要約收購將 支援 First Gen向菲律賓證券交易所 提交的 自願退市 申請。
-
----
-
-### 2026-08-13 13:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.45% — Top currency loser is New Zealand Dollar (-0.45%). Gains are led by Japanese Yen (0.08%).
-
----
-
-### 2026-08-13 13:13:20  #其他
-
-【銳捷網路股價創新高】銳捷網路漲10.51%，報139.5元/股，股價再創新高，總市值突破1500億元，成交額達31.42億元。
-
----
-
-### 2026-08-13 13:13:07  #國際
-
-韓國總統李在明：房地產泡沫已不容忽視。
-
----
-
-### 2026-08-13 13:11:08  #國際
-
-韓國總統李在明：房地產是影響所有地區的關鍵問題。
-
----
-
-### 2026-08-13 13:10:56  #國際
-
-韓國總統李在明：不能再讓房地產泡沫繼續蔓延了。
-
----
-
-### 2026-08-13 13:10:52  #MKT News #Market Regions #Japan & APAC #XAUUSD #Impact bullish
-
-【Japan protests Putin visit to disputed Northern Territories (Southern Kurils)】MOTEGI lodged a strong protest on the 13th after Putin landed on Etorofu Island in the Northern Territories (the Southern Kurils in Russian) and inspected a seafood-processing plant. The Kremlin said Putin spoke with workers, posed for photos and sampled local caviar; it was his first visit to the islands. The sovereignty dispute has prevented Russia and Japan from signing a post-World War II peace treaty.
-
----
-
-### 2026-08-13 13:09:58  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Stocks in China Hit 4-week High — SHANGHAI increased to 3968.00 Index Points, the highest since July 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.01%, and in the last 12 months, it increased 8.19%.
-
----
-
-### 2026-08-13 13:09:09  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite
-
-China A-share AI PC sector ticked higher briefly; Chunqiu Electronics hit the daily limit-up, Huaqin Technology had earlier hit limit-up, and Zhongshi Technology, Xinghuan Technology and Lianyun Technology also advanced.
-
----
-
-### 2026-08-13 13:08:36  #國際
-
-【日本強烈抗議普京登上日俄爭議島嶼】13日，日本外務大臣茂木敏充就俄羅斯總統普京登上北方四島（俄稱南千島群島）的擇捉島（俄稱伊圖魯普島）提出強烈抗議。當天稍早前，普京登上南千島群島（日本稱北方四島），並視察了伊圖魯普島（日本稱擇捉島）上一家水產品加工廠。克里姆林宮在社交媒體釋出訊息說，普京與水產品加工廠員工交談，並與他們合影留念。他還品嚐了當地生產的魚子醬。這是普京首次登上南千島群島。因在南千島群島（日本稱北方四島）的歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。（央視新聞）
 
 ---
