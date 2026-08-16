@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-17 05:10:28",
-  "count": 15224,
+  "updated": "2026-08-17 05:14:16",
+  "count": 15227,
   "items": [
+    {
+      "id": "mkt:01a00c6b-cf15-7aab-9050-ab7cd3326351",
+      "time": "2026-08-17 05:13:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump says he has ordered sharp cuts to US-South Korea joint drills】President Trump said he is unhappy the US agreed long ago to joint military drills with South Korea, calling them costly and largely paid for by the US. He said it is too late to cancel and has instructed the defense secretary to sharply reduce the scale of the exercises. Trump added he asked the South Korean president about joining US action to denuclearize Iran; the reply was \"No, thank you.\""
+    },
+    {
+      "id": "5042973",
+      "time": "2026-08-17 05:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（美韓）聯合軍演向一個態度友善的國家釋放出敵對訊號。"
+    },
+    {
+      "id": "5042972",
+      "time": "2026-08-17 05:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與韓國舉行的軍演耗資巨大。"
+    },
+    {
+      "id": "5042971",
+      "time": "2026-08-17 05:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對於美國很早之前就同意參與美韓聯合軍事演習這件事，我感到不滿。"
+    },
     {
       "id": "5042970",
       "time": "2026-08-17 05:09:37",
@@ -139187,14 +139220,6 @@
         "國際"
       ],
       "text": "特朗普：長達51年的劣行。"
-    },
-    {
-      "id": "mkt:019fe85d-6003-7aab-8fcb-e63c62520100",
-      "time": "2026-08-10 05:11:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese sources say there are currently no plans for a new round of Lebanon-Israel talks next month; talks may resume after the summer."
     }
   ]
 }
