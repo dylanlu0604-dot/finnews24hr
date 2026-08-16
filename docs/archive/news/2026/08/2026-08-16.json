@@ -1,7 +1,49 @@
 {
   "date": "2026-08-16",
-  "count": 362,
+  "count": 366,
   "items": [
+    {
+      "id": "5042661",
+      "time": "2026-08-16 15:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國教科文組織：烏克蘭敖德薩6座文化遺產建築遭襲受損】聯合國教科文組織8月16日確認，烏克蘭敖德薩世界遺產“敖德薩歷史中心”範圍內有6座文化遺產建築在8月9日的襲擊中受損。聯合國教科文組織在一份宣告中說，受損建築包括布蘭特和舒爾茨宅邸、加加林公寓樓、斯圖爾扎宅邸、羅西公寓樓以及另外兩座歷史住宅建築。敖德薩歷史中心於2023年被列入聯合國教科文組織《世界遺產名錄》，同時被列入《瀕危世界遺產名錄》。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0096e-19b6-7aab-904c-de2d1add484c",
+      "time": "2026-08-16 15:16:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "AI Revolution",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "【BNP Paribas: European autos deeply undervalued; AI upside for Europe may take 1-2 years】Sophie Huynh, portfolio manager and strategist at BNP Paribas Asset Management, said Europe is more likely to be a beneficiary of AI than a developer and the auto sector stands to gain. European auto equities are currently very cheap and their upside is largely overlooked; it may take one to two years for market consensus to recognise the case. Many US consumer-driven positives are already priced in, she added, so US growth momentum is slowing while Europe is only beginning to recover."
+    },
+    {
+      "id": "mkt:01a0096c-3071-7aab-904c-d406064a79a3",
+      "time": "2026-08-16 15:14:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran Armed Forces General Staff: We will not relent until enemies are thoroughly defeated】Iran Armed Forces General Staff said on the anniversary of returning POWs it will not relent until the country’s enemies are thoroughly defeated. The statement said the resistance ethos of released veterans has passed to a new generation, cited more than 160 consecutive days of public support for the military, and called for strengthening the armed forces’ capabilities, prestige and will to resist amid calls to avenge the late leader. It described the United States as the leading \"terrorist\" hegemon, criticised global imperialist forces and Israel, and pledged to uphold the people’s demands and the Supreme Leader’s directives on the \"aggressive United States\" until US and Israeli forces in the region are defeated, Iranian rights are vindicated and the enemy submits."
+    },
+    {
+      "id": "5042660",
+      "time": "2026-08-16 15:14:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國首座電網友好型大功率重卡充電示範站投運】國家電網有限公司積極探索電動重卡規模化應用路徑，服務新能源汽車產業發展和交通綠色低碳轉型。8月4日，國家電網京滬高速章丘服務區（上海方向）重卡充電示範站正式投入運營，是全國首座電網友好型電動重卡大功率充電示範站。章丘重卡充電示範站由國網（山東）電動汽車服務有限公司建設運營，設定6個重卡專用充電車位，配備12支大功率充電終端，單槍最大充電功率800千瓦，一輛電池電量為450千瓦時的重卡最快15～20分鐘就能充滿。示範站6個充電車位採用3種技術路線，分為直流微網柔性充電區、高效能大功率充電區和預裝一體式整合充電區，採用了量子電池安全檢測、零功耗待機、柔性電網適配等前沿技術，為電動重卡大功率充電站建設提供了樣板。（國家電網）"
+    },
     {
       "id": "5042659",
       "time": "2026-08-16 15:12:35",
