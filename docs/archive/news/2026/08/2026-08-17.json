@@ -1,7 +1,27 @@
 {
   "date": "2026-08-17",
-  "count": 104,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:01a00c13-dbc3-7aab-9050-748f485185c4",
+      "time": "2026-08-17 03:37:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News: Iran’s Islamic Revolutionary Guard Corps political deputy commander said IRGC actions so far have been defensive but could shift to offensive in future. He said Iran’s armed forces will adopt a transformative strategy and will take any measures necessary to defend the country."
+    },
+    {
+      "id": "5042956",
+      "time": "2026-08-17 03:36:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元在悉尼早盤交易中兌主要貨幣走勢趨於穩定。"
+    },
     {
       "id": "5042955",
       "time": "2026-08-17 03:34:58",

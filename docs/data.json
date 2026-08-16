@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-17 03:36:13",
-  "count": 15244,
+  "updated": "2026-08-17 03:40:06",
+  "count": 15241,
   "items": [
+    {
+      "id": "mkt:01a00c13-dbc3-7aab-9050-748f485185c4",
+      "time": "2026-08-17 03:37:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News: Iran’s Islamic Revolutionary Guard Corps political deputy commander said IRGC actions so far have been defensive but could shift to offensive in future. He said Iran’s armed forces will adopt a transformative strategy and will take any measures necessary to defend the country."
+    },
+    {
+      "id": "5042956",
+      "time": "2026-08-17 03:36:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元在悉尼早盤交易中兌主要貨幣走勢趨於穩定。"
+    },
     {
       "id": "5042955",
       "time": "2026-08-17 03:34:58",
@@ -139326,47 +139346,6 @@
         "MKT News"
       ],
       "text": "【Israel reallocates funds earmarked for Intel to add NIS1 bln to defense for urgent arms purchases】Israel approved an emergency appropriation on the 9th to reallocate funds originally earmarked for an Intel project, adding NIS1 bln to the defense budget for urgent weapons procurement. The transfer was described as a specially urgent measure tied to the current state of emergency; a ministerial procurement committee had approved the move on the 6th. Authorities said the reallocation will not breach the existing national budget framework."
-    },
-    {
-      "id": "5032660",
-      "time": "2026-08-10 03:39:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門軍方發言人表示，胡塞武裝已恢復用導彈和無人機攻擊穆哈港。"
-    },
-    {
-      "id": "5032659",
-      "time": "2026-08-10 03:39:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "悉尼早盤交易中，美元兌風險貨幣走強。"
-    },
-    {
-      "id": "5032658",
-      "time": "2026-08-10 03:39:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗巴斯基組織副負責人：穆傑塔巴公開露面以及與指揮官舉行會議的影像資料將於後續對外公佈。"
-    },
-    {
-      "id": "5032657",
-      "time": "2026-08-10 03:38:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【以色列政府被曝將投資專款挪至國防預算 緊急採購武器】據以色列方面9日訊息，以色列政府當天批准一項緊急撥款計劃，決定挪用原定給英特爾公司的專案資金，向國防部門追加10億新謝克爾預算，用於緊急採購武器。據悉，以色列政府透過的這項提案將此次撥款描述為特別緊急的資金轉移，並稱此舉是鑑於以色列目前所處的緊急狀態。該決定此前已於6日獲得負責採購的以政府部長級委員會批准。此次追加預算不會突破現有的國家預算框架。"
-    },
-    {
-      "id": "mkt:019fe806-fe4f-7aab-8fcb-7c19778e18e3",
-      "time": "2026-08-10 03:36:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend."
     }
   ]
 }
