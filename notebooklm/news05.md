@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:38:37_
-_本檔包含 2880 則快訊，約 599747 字_
+_更新時間：2026-08-16 13:58:17_
+_本檔包含 2885 則快訊，約 600507 字_
+
+---
+
+### 2026-08-11 00:03:06  #市場
+
+紐約期銀日內漲3%，現報65.41美元/盎司。
+
+---
+
+### 2026-08-11 00:02:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+A U.S. appeals court refused to pause thousands of social-media addiction lawsuits against Meta Platforms (META.O), TikTok and other companies.
+
+---
+
+### 2026-08-11 00:01:57  #國際
+
+美國上訴法院拒絕叫停針對Meta及其他多家企業的數千起社交媒體成癮相關訴訟。
+
+---
+
+### 2026-08-11 00:01:47  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Netflix Stock Price Hits 4-week High — Netflix shares increased to 75.40 USD, the highest since July 2026. Over the past 4 weeks, Netflix gained 1.75%, and in the last 12 months, it decreased 38.34%.
+
+---
+
+### 2026-08-11 00:00:19  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver rose above $65/oz, gaining 2.32% intraday.
+
+---
+
+### 2026-08-10 23:58:38  #市場 #焦點
+
+白銀連續主力合約日內漲2%，現報15902.00元。
+
+---
+
+### 2026-08-10 23:58:32  #市場 #焦點
+
+現貨白銀突破65美元/盎司，日內漲2.33%。
+
+---
+
+### 2026-08-10 23:58:24  #公司 #國際
+
+【霍爾木茲海峽風險推高油輪租船成本 中東航線日費逼近50萬美元】隨著伊朗戰爭持續令許多船東不願駛入霍爾木茲海峽，在作為行業基準的中東至亞洲航線上，租用一艘超大型油輪運輸原油的成本已逼近每天50萬美元。由於船隻在試圖穿越霍爾木茲海峽時不時遭到襲擊，願意停靠波斯灣內港口的船東數量已經大幅減少，不過仍有部分船隻繼續透過這一咽喉要道。目前，從波斯灣內出發的許多航次由中東產油國控制的船隻承擔，此外還有行事較為低調的Sinokor，以及少數風險承受能力較高、願意駛入這一存在衝突風險水域的小型航運公司。這反過來導致該航線公開可見的租船成交數量減少，市場流動性下降，也使得評估超大型油輪收益的主要基準指標變得更加困難。相關市場擾動甚至導致全球一家大型大宗商品交易商對負責釋出這一基準指標的波羅的海交易所提起訴訟。
+
+---
+
+### 2026-08-10 23:56:24  #MKT News
+
+Iranian and Pakistani foreign ministers discussed negotiations over the Strait of Hormuz and a defence pact in a phone call.
+
+---
+
+### 2026-08-10 23:55:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Shipping risk in the Strait of Hormuz is lifting oil-tanker charter costs; daily hires for Middle East routes are approaching $500,000.
+
+---
+
+### 2026-08-10 23:50:42  #國際
+
+美國海關與邊境保護局將航空貨物預申報篩查期限延長至 2027 年 5 月 1 日。
+
+---
+
+### 2026-08-10 23:48:10  #Trading Economics #Markets #Commodity #Importance 1
+
+US Heating Oil Soars by Over 7% — US heating oil prices surged more than 7% to around $4.19 per gallon after Iran-backed Houthi militants claimed an attack on Saudi Arabia’s Jazan refinery near the Red Sea. Saudi authorities said the resulting fire was extinguished early Sunday, without providing further details. The incident added to pressure on an already tight global diesel market, as disruptions to shipping through the Strait of Hormuz compounded the impact of Russia’s fuel export restrictions. Refinery capacity is also under strain as fuel demand continues to outpace supply, with US refiners processing crude at the highest seasonal rate since 2018 despite capacity having fallen by nearly 600,000 barrels per day over the same period. Meanwhile, Iran and Oman have yet to finalize a deal to reopen Hormuz. Iran said the agreement was “very close,” but insisted that the US must lift its blockade and provide compensation before reopening the waterway.
 
 ---
 
@@ -17313,57 +17385,5 @@ LAZURDE珠寶：季度金價上漲。
 ### 2026-08-09 14:01:36  #其他
 
 【千億級市場爆發】截至目前，2026年暑期檔電影票房破83億元，國家電影局資料顯示，每1元票房能帶動15.77元相關產業產值。據測算今年以來電影全產業鏈產值已超過3700億元。（央視新聞）
-
----
-
-### 2026-08-09 13:53:36  #國際
-
-【今日特朗普要聞】
-1、特朗普稱：“不要再搞虛假的伊朗協議。拿下哈格島，奪取石油，徹底結束戰事！”
-2、美國官員表示，儘管參謀長聯席會議主席就彈藥問題發出警告，特朗普仍決意發動戰爭，並預期戰事會迅速結束。
-3、訊息稱，三位知情人士透露，過去幾周，美軍參謀長聯席會議主席丹·凱恩私下向特朗普的其他高階顧問明確表示，美國需要找到一條擺脫伊朗戰事的途徑，因為擺在桌面上的軍事選項可能會適得其反，而且僅靠空中力量不太可能實現特朗普的目標。
-4、特朗普政府正加大力度施壓佛羅里達石油大亨、共和黨捐贈人哈里·薩金特三世，要求其從委內瑞拉撤資。
-5、特朗普稱：“洩露國家安全機密者將面臨嚴重後果以及牢獄之災。”
-6、特朗普稱：“距離2026年美國中期選舉日還有87天。參議員們沒有假期。透過《拯救法案》（SAVE Act）。沒有藉口。”
-
----
-
-### 2026-08-09 13:51:31  #國際
-
-伊朗尚未就提高汽油價格作出最終決定。
-
----
-
-### 2026-08-09 13:48:36  #公司 #市場
-
-【12只個股南向資金持股量較上週增長超15%】從持股量變化來看，最近一週12只個股獲得南向資金持股量較上週增長超15%，其中3只個股持股量增長均超100%。明略科技-W居首，環比增長624.44%；安克創新、聖邦股份、海致科技集團增幅居前，持股量較上週分別增長169.98%、113.25%、43.27%。
-
----
-
-### 2026-08-09 13:47:50  #其他
-
-中國東航釋出關於颱風“白海豚”影響東上航部分航班的出行提示。
-
----
-
-### 2026-08-09 13:47:31  #其他
-
-【“白海豚”或成1951年來登陸我國最偏東、奔襲距離最遠颱風】今年第13號颱風“白海豚”（強颱風級）的中心今天（9日）上午10時位於浙江省溫州市偏東方向大約215公里的東海南部海面上，中心附近最大風力有14級（45米/秒）。“白海豚”或成為1951年以來登陸我國的颱風中，生成位置最偏東、奔襲距離最遠的一個。（央視新聞）
-
----
-
-### 2026-08-09 13:45:48  #國際
-
-特朗普競選團隊以及白宮釋出的社交媒體影片中，部分泰勒・斯威夫特的歌曲已被移除；過去一週，白宮曾在影片裡使用過這位美國巨星的兩首作品。
-
----
-
-### 2026-08-09 13:40:29  #宏觀
-
-【湖南省出臺對非經貿合作三年行動計劃】近日，《湖南省對非經貿合作三年行動計劃（2026-2028年）》經省政府常務會議審議透過並正式印發實施，這是未來3年我省推進湘非經貿深度合作的綱領性檔案。
-
-行動計劃提出，力爭到2028年，全省對非進出口額達到800億元，聚焦12個重點非洲國家，打造10個左右產能合作標誌性專案，打造1至2箇中非“兩國雙園”樣板專案，推動全省對非貿易規模穩步增長，對非投資成效持續顯現，優勢產業外向度大幅提升，基本形成對非經貿合作服務體系。
-
-礦業領域，完善在非專案配套設施，擴大資源回運規模，帶動礦山裝置、選礦輔料及能源裝置出口，梯度推進礦業檢測實驗室建設，設立對非礦業勘查投資基金。汽車及零部件領域，擴大散件出口，開拓重點國家網約車市場，擴大二手車出口。醫療器械領域，打造境內外雙平臺協同運營模式，加快產品市場認證與本土銷售渠道佈局，打造中非友好醫院帶動醫療裝置及耗材出口。工程機械領域，對接中資企業在非重大基礎設施及礦山工程專案，擴大品牌主機出口，推動工程機械再製造出口。現代農業領域，在非佈局農機產銷服一體化中心，同步培育產貿融合專案，統籌擴大優勢產品出口與非洲特色農產品進口。綠色能源領域，推動新能源產業與在非中資專案協同發展，加強與非洲相關部門及行業協會、專案運營商的對接，支援投建營一體化專案建設。（湖南日報）
 
 ---

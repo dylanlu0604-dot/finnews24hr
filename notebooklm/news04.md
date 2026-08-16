@@ -1,7 +1,48 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:38:37_
-_本檔包含 3173 則快訊，約 601357 字_
+_更新時間：2026-08-16 13:58:17_
+_本檔包含 3165 則快訊，約 600725 字_
+
+---
+
+### 2026-08-12 07:11:05  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、從賣裝置到賣電動化方案，再到提供智慧化路徑 生產向綠，工程機械暢銷海外（高質量發展微視角）
+2、高技術產品出口7月增長超五成 我國出口含“新”量不斷攀升
+3、上半年網際網路業務收入同比增10.1% 利潤總額、研發經費投入均實現兩位數增長
+4、兩部門聯合開展專案徵集工作 推動計量支撐產業新質生產力發展
+5、“產能過剩”導致貿易順差的論調違背經濟常識（國際論壇）——所謂中國“產能過剩”，完全是偽命題②
+6、百日千萬招聘專項行動推出八萬餘人次需求
+7、《煤炭工業發展“十五五”規劃》印發 到2030年現代煤炭產業體系基本建成
+8、雄安人工智慧實訓基地正式投運
+9、各類人力資源服務機構成為就業對接的主渠道 年均服務勞動者三億多人次
+10、市場監管總局批准釋出338項重要國家標準
+11、國外“清涼經濟”激發消費新活力（國際視點）——來自韓國、馬來西亞、西班牙的實踐
+12、重點專案建設提速 多元運輸網路拓展 東非國家加快推進物流一體化程序
+13、地緣政治風險加劇 能源價格居高不下 西歐破產企業數量連續4年增長 未來幾年乃至幾十年裡，歐洲面臨的最大挑戰將是“尋找並建立新的成功模式”。
+
+---
+
+### 2026-08-12 07:10:54  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、把草原養好 把牛羊養精 把日子過好——內蒙古錫林郭勒盟一個牧民家庭的三代轉型與生態蝶變
+2、習近平就哥倫比亞發生強烈地震向哥倫比亞總統德拉埃斯普列亞致慰問電
+3、天津打造紅色文化傳播和育人矩陣——厚植愛國情 薪火永相傳（牢記初心使命 奮進復興征程）
+4、中國經濟向新向優向好的內在邏輯。
+
+---
+
+### 2026-08-12 07:10:36  #Trading Economics #Economy #South Korea #Unemployment Rate #Importance 2
+
+South Korea Jobless Rate Edges Up to 2.8% — South Korea’s seasonally adjusted unemployment rate rose to 2.8% in July 2026 from 2.7% in the previous month. The economy added 108,000 jobs during the month, marking the second consecutive month of increase, bringing total employment to 29.14 million from 29.03 million a year earlier. Employment gains were driven by business, personal, public services, and others (+247,000) and electricity, transport, communication, and finance (+66,000).
+
+---
+
+### 2026-08-12 07:09:18  #國際
+
+【中央氣象臺繼續釋出暴雨橙色預警】中央氣象臺8月12日06時繼續釋出暴雨橙色預警：預計，8月12日08時至13日08時，河南、山東西部、湖北中北部、湖南北部、西部和南部、浙江北部和東部、上海、安徽中北部、河北東北部和中南部、北京、天津、山西東部以及廣西東部、廣東中部、內蒙古東南部、黑龍江中部、吉林西部、遼寧西北部和東部、雲南西南部等地部分地區有大到暴雨，其中，河南中東部和南部、安徽北部、湖北北部、浙江東部、河北中西部、北京西南部等地部分地區有大暴雨，河南中部和西部沿山等地部分地區有特大暴雨(250-280毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。
 
 ---
 
@@ -19075,77 +19116,5 @@ FTSE 100 Falls on Monday — The FTSE 100 fell on Monday as weakness in several 
 ### 2026-08-11 00:03:16  #市場 #國際
 
 【英國國債收益率普遍漲約6個基點】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，英國10年期國債收益率漲6.7個基點，報4.989%。兩年期英債收益率漲6.0個基點，報4.341%。30年期英債收益率漲5.9個基點，50年期英債收益率漲6.0個基點。2/10年期英債收益率利差漲0.709個基點，報+64.543個基點。
-
----
-
-### 2026-08-11 00:03:06  #市場
-
-紐約期銀日內漲3%，現報65.41美元/盎司。
-
----
-
-### 2026-08-11 00:02:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-A U.S. appeals court refused to pause thousands of social-media addiction lawsuits against Meta Platforms (META.O), TikTok and other companies.
-
----
-
-### 2026-08-11 00:01:57  #國際
-
-美國上訴法院拒絕叫停針對Meta及其他多家企業的數千起社交媒體成癮相關訴訟。
-
----
-
-### 2026-08-11 00:01:47  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Netflix Stock Price Hits 4-week High — Netflix shares increased to 75.40 USD, the highest since July 2026. Over the past 4 weeks, Netflix gained 1.75%, and in the last 12 months, it decreased 38.34%.
-
----
-
-### 2026-08-11 00:00:19  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver rose above $65/oz, gaining 2.32% intraday.
-
----
-
-### 2026-08-10 23:58:38  #市場 #焦點
-
-白銀連續主力合約日內漲2%，現報15902.00元。
-
----
-
-### 2026-08-10 23:58:32  #市場 #焦點
-
-現貨白銀突破65美元/盎司，日內漲2.33%。
-
----
-
-### 2026-08-10 23:58:24  #公司 #國際
-
-【霍爾木茲海峽風險推高油輪租船成本 中東航線日費逼近50萬美元】隨著伊朗戰爭持續令許多船東不願駛入霍爾木茲海峽，在作為行業基準的中東至亞洲航線上，租用一艘超大型油輪運輸原油的成本已逼近每天50萬美元。由於船隻在試圖穿越霍爾木茲海峽時不時遭到襲擊，願意停靠波斯灣內港口的船東數量已經大幅減少，不過仍有部分船隻繼續透過這一咽喉要道。目前，從波斯灣內出發的許多航次由中東產油國控制的船隻承擔，此外還有行事較為低調的Sinokor，以及少數風險承受能力較高、願意駛入這一存在衝突風險水域的小型航運公司。這反過來導致該航線公開可見的租船成交數量減少，市場流動性下降，也使得評估超大型油輪收益的主要基準指標變得更加困難。相關市場擾動甚至導致全球一家大型大宗商品交易商對負責釋出這一基準指標的波羅的海交易所提起訴訟。
-
----
-
-### 2026-08-10 23:56:24  #MKT News
-
-Iranian and Pakistani foreign ministers discussed negotiations over the Strait of Hormuz and a defence pact in a phone call.
-
----
-
-### 2026-08-10 23:55:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Shipping risk in the Strait of Hormuz is lifting oil-tanker charter costs; daily hires for Middle East routes are approaching $500,000.
-
----
-
-### 2026-08-10 23:50:42  #國際
-
-美國海關與邊境保護局將航空貨物預申報篩查期限延長至 2027 年 5 月 1 日。
-
----
-
-### 2026-08-10 23:48:10  #Trading Economics #Markets #Commodity #Importance 1
-
-US Heating Oil Soars by Over 7% — US heating oil prices surged more than 7% to around $4.19 per gallon after Iran-backed Houthi militants claimed an attack on Saudi Arabia’s Jazan refinery near the Red Sea. Saudi authorities said the resulting fire was extinguished early Sunday, without providing further details. The incident added to pressure on an already tight global diesel market, as disruptions to shipping through the Strait of Hormuz compounded the impact of Russia’s fuel export restrictions. Refinery capacity is also under strain as fuel demand continues to outpace supply, with US refiners processing crude at the highest seasonal rate since 2018 despite capacity having fallen by nearly 600,000 barrels per day over the same period. Meanwhile, Iran and Oman have yet to finalize a deal to reopen Hormuz. Iran said the agreement was “very close,” but insisted that the US must lift its blockade and provide compensation before reopening the waterway.
 
 ---

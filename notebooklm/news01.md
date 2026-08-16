@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:38:37_
-_本檔包含 3039 則快訊，約 601542 字_
+_更新時間：2026-08-16 13:58:17_
+_本檔包含 3036 則快訊，約 600660 字_
+
+---
+
+### 2026-08-16 13:52:36  #國際
+
+匈牙利總理：一輛波蘭巴士在匈牙利發生事故，已造成12人死亡，至少10人受傷。
+
+---
+
+### 2026-08-16 13:48:55  #MKT News #Market Regions #Greater China
+
+【China launches batch of 24 LEO satellites for satellite internet】At 12:10 Beijing time on Aug 16, 2026, China launched a batch of 24 low‑Earth‑orbit satellites for a satellite internet constellation from its Hainan commercial spaceport aboard a Long March‑12 rocket; the satellites reached their planned orbit and the launch was successful.
+
+---
+
+### 2026-08-16 13:46:12  #其他
+
+【我國成功發射衛星網際網路低軌24組衛星】北京時間2026年8月16日12時10分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌24組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）
+
+---
+
+### 2026-08-16 13:43:58  #公司
+
+【雲南約談通報投訴量排名前50旅行社：將實施重點監管】近日，雲南省文化和旅遊廳召開全省投訴較多旅行社負責人影片約談通報會，對昆明康輝旅行社有限公司、雲南中青國際旅行社（集團）有限公司、西雙版納怡程國際旅行社有限公司等全省投訴量排名前50的旅行社進行通報。
+
+---
+
+### 2026-08-16 13:40:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon.
+
+---
+
+### 2026-08-16 13:38:18  #觀點
+
+【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。
 
 ---
 
@@ -18293,59 +18329,5 @@ China A-share food processing and manufacturing sector spiked intraday; Guifaxia
 ### 2026-08-14 11:09:13  #市場
 
 【食品加工製造板塊短線衝高，桂發祥直線漲停】食品加工製造板塊短線衝高，桂發祥直線漲停，蓮花控股此前漲停，三全食品、黑芝麻、仙樂健康、青島食品、安井食品跟漲。
-
----
-
-### 2026-08-14 11:08:59  #公司 #國際
-
-【美國ITC釋出對墨盒及其元件II的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定墨盒及其元件II（調查編碼：337-TA-1452）作出337部分終裁：本案存在侵權，向侵權美國註冊專利號8,764,172、9,370,934、11,535,038、12,240,248、12,240,249的第1和第7項權利要求的涉案產品釋出普遍排除令，向列名被告美國Mountain Peak, Inc. d/b/a/ Billiontree Technology USA, Inc. d/b/a Toner Kingdom of China等釋出禁止令，本案調查終止。
-
----
-
-### 2026-08-14 11:08:37  #MKT News #Commodities
-
-Indonesia's president said the country has achieved self-sufficiency this year in eight commodities, including rice and corn.
-
----
-
-### 2026-08-14 11:08:30  #國際
-
-印尼總統普拉博沃：今年我們已在包括大米、玉米在內的八種大宗商品上實現自給自足。
-
----
-
-### 2026-08-14 11:08:10  #公司
-
-【小米汽車標誌升降裝置專利獲授權】天眼查智慧財產權資訊顯示，小米汽車科技有限公司申請的“標誌升降裝置及車輛”專利獲授權。摘要顯示，本公開提供一種標誌升降裝置及車輛，涉及車輛技術領域。該標誌升降裝置包括：安裝架，包括移動塊和架體，架體與移動塊以第一方向所在的直線為軸轉動連線；第一標誌；第二標誌，第一標誌和第二標誌沿第二方向間隔設於架體上，且分別與架體以第一方向所在的直線為軸轉動連線；驅動元件，用於驅動移動塊沿第二方向移動，且包括導軌，導軌沿第二方向延伸，且具有沿第二方向連線的直線部和彎曲部，彎曲部朝向遠離所述移動塊的方向彎曲。可提高車輛的續航里程。
-
----
-
-### 2026-08-14 11:06:53  #MKT News
-
-Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon.
-
----
-
-### 2026-08-14 11:06:08  #國際
-
-普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。
-
----
-
-### 2026-08-14 11:05:22  #國際
-
-印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。
-
----
-
-### 2026-08-14 11:05:07  #市場 #焦點
-
-北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。
-
----
-
-### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
 
 ---

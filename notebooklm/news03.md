@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:38:37_
-_本檔包含 3001 則快訊，約 600511 字_
+_更新時間：2026-08-16 13:58:17_
+_本檔包含 3005 則快訊，約 600426 字_
+
+---
+
+### 2026-08-13 10:03:47  #MKT News
+
+A-share brokerage sector strengthened; Caitong Securities jumped over 8%, while Changjiang Securities, Tianfeng Securities and CSC Financial also rose.
+
+---
+
+### 2026-08-13 10:03:43  #公司
+
+【中興通訊與明陽集團圍繞算力專案推進等座談交流】據明陽集團訊息，8月11日，中興通訊高階副總裁、數字能源經營部總裁彭愛光一行到訪明陽集團，與明陽集團董事、中國市場總裁張瑞座談，雙方圍繞算力專案推進、風光儲氫一體化創新等議題深入交流。座談中，張瑞指出，新型電力系統建設與綠色算力產業同步迎來重要發展機遇，但算力用電成本偏高、出海競爭力不足是行業普遍痛點。雙方產業鏈優勢互補、協同潛力巨大，期待與中興通訊深化全方位戰略對接，聯合打造綠電算力融合創新示範，構建裝備製造與數字能源協同發展、雙向賦能的合作樣板。彭愛光表示，雙方在多能融合、綠電算力一體化創新領域高度契合，期待持續探索技術協同、示範專案打造等多元合作空間。
+
+---
+
+### 2026-08-13 10:03:03  #市場 #觀點
+
+【券商板塊走強 財通證券漲超8%】券商板塊走強，財通證券漲超8%，長江證券，天風證券、中信建投等跟漲。
+
+---
+
+### 2026-08-13 10:02:12  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share CRO sector rallied. Boji Pharmaceutical hit the daily limit-up and was sealed at 20cm; Haoyuan Pharmaceutical rose over 9%; Wanbang Pharmaceutical and Zhaoyan New Drug also advanced.
+
+---
+
+### 2026-08-13 10:02:09  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-08-13 10:01:29  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields
+
+Japan 30-year bond yield rose 1.0bp to 4.000%.
+
+---
+
+### 2026-08-13 10:01:16  #市場 #國際
+
+印尼股市基準指數開盤上漲0.2%，至6388.23點。
+
+---
+
+### 2026-08-13 10:00:53  #MKT News #Market Themes #AI Revolution
+
+【Anthropic in talks to buy Decart AI for about $6bn to bolster AI infrastructure】Anthropic is in talks to acquire AI startup Decart AI for about $6bn, sources said. The deal is not final and negotiations could collapse. If completed it would be Anthropic’s largest-known acquisition and comes amid market anticipation of an Anthropic IPO. Decart’s software increases chip efficiency, lowering AI model training costs and potentially allowing Anthropic to scale existing infrastructure. Anthropic rarely pursues large acquisitions but has been investing heavily in compute to develop products and serve customers.
 
 ---
 
@@ -18086,46 +18134,5 @@ Japan Manufacturers' Mood Highest in 5 Months — The Reuters Tankan index for J
 ### 2026-08-12 07:12:42  #公司 #市場 #央行 #國際
 
 【國泰海通：金價反彈 推薦黃金珠寶板塊相關標的】國泰海通釋出研報稱，金價反彈，推薦從銷量端&利潤彈性端有望受益的黃金珠寶標的。美國非農資料不及預期、美聯儲加息預期走弱，倫敦金現從8月5日開始較大幅度上漲，當前突破4300美元/盎司，創6月18日以來新高，6月底至8月初則持續在4000-4200美元/盎司區間震盪。該行指，此前壓制珠寶板塊股價主要因2026Q2以來金價走弱導致的對下半年基數走高背景下銷售、毛利率、後續增長持續性擔憂。當前金價反彈，有望帶動下半年高基數下增長延續，頭部公司憑藉優異產品力提升份額、帶動經營槓桿釋放。當前有望迎來估值、業績雙修復行情。
-
----
-
-### 2026-08-12 07:11:05  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、從賣裝置到賣電動化方案，再到提供智慧化路徑 生產向綠，工程機械暢銷海外（高質量發展微視角）
-2、高技術產品出口7月增長超五成 我國出口含“新”量不斷攀升
-3、上半年網際網路業務收入同比增10.1% 利潤總額、研發經費投入均實現兩位數增長
-4、兩部門聯合開展專案徵集工作 推動計量支撐產業新質生產力發展
-5、“產能過剩”導致貿易順差的論調違背經濟常識（國際論壇）——所謂中國“產能過剩”，完全是偽命題②
-6、百日千萬招聘專項行動推出八萬餘人次需求
-7、《煤炭工業發展“十五五”規劃》印發 到2030年現代煤炭產業體系基本建成
-8、雄安人工智慧實訓基地正式投運
-9、各類人力資源服務機構成為就業對接的主渠道 年均服務勞動者三億多人次
-10、市場監管總局批准釋出338項重要國家標準
-11、國外“清涼經濟”激發消費新活力（國際視點）——來自韓國、馬來西亞、西班牙的實踐
-12、重點專案建設提速 多元運輸網路拓展 東非國家加快推進物流一體化程序
-13、地緣政治風險加劇 能源價格居高不下 西歐破產企業數量連續4年增長 未來幾年乃至幾十年裡，歐洲面臨的最大挑戰將是“尋找並建立新的成功模式”。
-
----
-
-### 2026-08-12 07:10:54  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、把草原養好 把牛羊養精 把日子過好——內蒙古錫林郭勒盟一個牧民家庭的三代轉型與生態蝶變
-2、習近平就哥倫比亞發生強烈地震向哥倫比亞總統德拉埃斯普列亞致慰問電
-3、天津打造紅色文化傳播和育人矩陣——厚植愛國情 薪火永相傳（牢記初心使命 奮進復興征程）
-4、中國經濟向新向優向好的內在邏輯。
-
----
-
-### 2026-08-12 07:10:36  #Trading Economics #Economy #South Korea #Unemployment Rate #Importance 2
-
-South Korea Jobless Rate Edges Up to 2.8% — South Korea’s seasonally adjusted unemployment rate rose to 2.8% in July 2026 from 2.7% in the previous month. The economy added 108,000 jobs during the month, marking the second consecutive month of increase, bringing total employment to 29.14 million from 29.03 million a year earlier. Employment gains were driven by business, personal, public services, and others (+247,000) and electricity, transport, communication, and finance (+66,000).
-
----
-
-### 2026-08-12 07:09:18  #國際
-
-【中央氣象臺繼續釋出暴雨橙色預警】中央氣象臺8月12日06時繼續釋出暴雨橙色預警：預計，8月12日08時至13日08時，河南、山東西部、湖北中北部、湖南北部、西部和南部、浙江北部和東部、上海、安徽中北部、河北東北部和中南部、北京、天津、山西東部以及廣西東部、廣東中部、內蒙古東南部、黑龍江中部、吉林西部、遼寧西北部和東部、雲南西南部等地部分地區有大到暴雨，其中，河南中東部和南部、安徽北部、湖北北部、浙江東部、河北中西部、北京西南部等地部分地區有大暴雨，河南中部和西部沿山等地部分地區有特大暴雨(250-280毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。
 
 ---

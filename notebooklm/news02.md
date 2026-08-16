@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:38:37_
-_本檔包含 3116 則快訊，約 600324 字_
+_更新時間：2026-08-16 13:58:17_
+_本檔包含 3117 則快訊，約 600920 字_
+
+---
+
+### 2026-08-14 11:08:59  #公司 #國際
+
+【美國ITC釋出對墨盒及其元件II的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定墨盒及其元件II（調查編碼：337-TA-1452）作出337部分終裁：本案存在侵權，向侵權美國註冊專利號8,764,172、9,370,934、11,535,038、12,240,248、12,240,249的第1和第7項權利要求的涉案產品釋出普遍排除令，向列名被告美國Mountain Peak, Inc. d/b/a/ Billiontree Technology USA, Inc. d/b/a Toner Kingdom of China等釋出禁止令，本案調查終止。
+
+---
+
+### 2026-08-14 11:08:37  #MKT News #Commodities
+
+Indonesia's president said the country has achieved self-sufficiency this year in eight commodities, including rice and corn.
+
+---
+
+### 2026-08-14 11:08:30  #國際
+
+印尼總統普拉博沃：今年我們已在包括大米、玉米在內的八種大宗商品上實現自給自足。
+
+---
+
+### 2026-08-14 11:08:10  #公司
+
+【小米汽車標誌升降裝置專利獲授權】天眼查智慧財產權資訊顯示，小米汽車科技有限公司申請的“標誌升降裝置及車輛”專利獲授權。摘要顯示，本公開提供一種標誌升降裝置及車輛，涉及車輛技術領域。該標誌升降裝置包括：安裝架，包括移動塊和架體，架體與移動塊以第一方向所在的直線為軸轉動連線；第一標誌；第二標誌，第一標誌和第二標誌沿第二方向間隔設於架體上，且分別與架體以第一方向所在的直線為軸轉動連線；驅動元件，用於驅動移動塊沿第二方向移動，且包括導軌，導軌沿第二方向延伸，且具有沿第二方向連線的直線部和彎曲部，彎曲部朝向遠離所述移動塊的方向彎曲。可提高車輛的續航里程。
+
+---
+
+### 2026-08-14 11:06:53  #MKT News
+
+Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon.
+
+---
+
+### 2026-08-14 11:06:08  #國際
+
+普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。
+
+---
+
+### 2026-08-14 11:05:22  #國際
+
+印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。
+
+---
+
+### 2026-08-14 11:05:07  #市場 #焦點
+
+北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。
+
+---
+
+### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
 
 ---
 
@@ -18719,53 +18773,5 @@ Hong Kong-listed power equipment sector strengthened; Goldwind (02208.HK) rose o
 ### 2026-08-13 10:03:51  #Trading Economics #Markets #Japan #Currency #Importance 1
 
 Yen Remains on Intervention Watch — The Japanese yen traded around 159.3 per dollar on Thursday, hovering near the key psychological level of 160 per dollar and keeping traders on alert for further intervention from authorities amid persistent weakness. The currency remained pressured by longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. The yen also struggled to gain momentum even after subdued US inflation data reduced pressure on the Federal Reserve to raise interest rates in the near term. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate.
-
----
-
-### 2026-08-13 10:03:47  #MKT News
-
-A-share brokerage sector strengthened; Caitong Securities jumped over 8%, while Changjiang Securities, Tianfeng Securities and CSC Financial also rose.
-
----
-
-### 2026-08-13 10:03:43  #公司
-
-【中興通訊與明陽集團圍繞算力專案推進等座談交流】據明陽集團訊息，8月11日，中興通訊高階副總裁、數字能源經營部總裁彭愛光一行到訪明陽集團，與明陽集團董事、中國市場總裁張瑞座談，雙方圍繞算力專案推進、風光儲氫一體化創新等議題深入交流。座談中，張瑞指出，新型電力系統建設與綠色算力產業同步迎來重要發展機遇，但算力用電成本偏高、出海競爭力不足是行業普遍痛點。雙方產業鏈優勢互補、協同潛力巨大，期待與中興通訊深化全方位戰略對接，聯合打造綠電算力融合創新示範，構建裝備製造與數字能源協同發展、雙向賦能的合作樣板。彭愛光表示，雙方在多能融合、綠電算力一體化創新領域高度契合，期待持續探索技術協同、示範專案打造等多元合作空間。
-
----
-
-### 2026-08-13 10:03:03  #市場 #觀點
-
-【券商板塊走強 財通證券漲超8%】券商板塊走強，財通證券漲超8%，長江證券，天風證券、中信建投等跟漲。
-
----
-
-### 2026-08-13 10:02:12  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share CRO sector rallied. Boji Pharmaceutical hit the daily limit-up and was sealed at 20cm; Haoyuan Pharmaceutical rose over 9%; Wanbang Pharmaceutical and Zhaoyan New Drug also advanced.
-
----
-
-### 2026-08-13 10:02:09  #市場 #焦點
-
-南向資金淨買入額達30億港元。
-
----
-
-### 2026-08-13 10:01:29  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields
-
-Japan 30-year bond yield rose 1.0bp to 4.000%.
-
----
-
-### 2026-08-13 10:01:16  #市場 #國際
-
-印尼股市基準指數開盤上漲0.2%，至6388.23點。
-
----
-
-### 2026-08-13 10:00:53  #MKT News #Market Themes #AI Revolution
-
-【Anthropic in talks to buy Decart AI for about $6bn to bolster AI infrastructure】Anthropic is in talks to acquire AI startup Decart AI for about $6bn, sources said. The deal is not final and negotiations could collapse. If completed it would be Anthropic’s largest-known acquisition and comes amid market anticipation of an Anthropic IPO. Decart’s software increases chip efficiency, lowering AI model training costs and potentially allowing Anthropic to scale existing infrastructure. Anthropic rarely pursues large acquisitions but has been investing heavily in compute to develop products and serve customers.
 
 ---
