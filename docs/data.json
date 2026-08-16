@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-16 19:37:54",
-  "count": 15204,
+  "updated": "2026-08-16 19:41:50",
+  "count": 15203,
   "items": [
+    {
+      "id": "5042815",
+      "time": "2026-08-16 19:39:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國儒意控股<0136.HK>預計上半年淨利潤同比下降26.7%-34.9%，至8億-9億元人民幣。"
+    },
+    {
+      "id": "5042814",
+      "time": "2026-08-16 19:39:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列活動人士稱定居者是恐怖分子】以色列活動人士阿隆·李·格林日前在接受半島電視臺採訪時表示，約旦河西岸的猶太定居者是在以色列政府和以軍支援下的恐怖分子，他們的目標就是對巴勒斯坦人進行種族清洗，並且從未因其罪行被捕。格林稱，猶太定居者透過建立定居點包圍巴勒斯坦人的村莊，切斷他們的水電供應，創造讓巴勒斯坦人無法生存的現實局面，而以軍就和這些恐怖分子肩並肩地站在一起。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a00a5d-39f1-7aab-904d-da1c1e3b6e4b",
+      "time": "2026-08-16 19:37:56",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities: Compute-chain demand resilient; A-share tech recovery not finished】CITIC Securities says global tech deleveraging largely ended in late July, enabling overseas tech to recover first as macro constraints eased and industry momentum was validated; market pricing has shifted from liquidity toward fundamentals. A-share tech lags due to trade crowding and financing pressures from prior rapid gains, not a reversal of industry trends. History shows funding structure affects rhythm while mid‑term direction is set by earnings realization. Compute-industry chain demand remains resilient and the A-share tech repair is ongoing. Recommended positioning: prioritize core assets with high fundamental visibility; monitor innovative drugs and industrial metals."
+    },
     {
       "id": "5042813",
       "time": "2026-08-16 19:37:08",
@@ -139045,38 +139073,6 @@
         "其他"
       ],
       "text": "【胡塞武裝稱襲擊沙特支援的武裝力量在摩卡地區的軍事目標】當地時間9日，葉門胡塞武裝方面發表宣告稱，為回應沙特支援的武裝力量在葉門西海岸和塔伊茲省持續發動襲擊，葉門胡塞武裝當天對沙特支援的武裝力量在摩卡地區的軍事集結和武器庫發動了一次“大規模、高強度”軍事行動。宣告稱，此次行動使用大量彈道導彈和無人機，目標包括沙特支援的武裝力量在摩卡地區的軍事集結人員及武器倉庫。宣告稱，襲擊“命中準確”，造成相關武器裝備大範圍損毀，並導致數十人死傷，其中包括沙特人員。宣告還稱，葉門胡塞武裝將繼續監視和跟蹤沙特支援的武裝力量的軍事調動和人員集結，並對相關目標實施“精準、直接”的打擊。(央視新聞)"
-    },
-    {
-      "id": "mkt:019fe653-2091-7aab-8fc9-b4e638ad014d",
-      "time": "2026-08-09 19:40:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【\"White Dolphin\" weakened to typhoon strength】\"White Dolphin\" has weakened to typhoon strength and is moving westward at 15-20 km/h; intensity is rapidly declining."
-    },
-    {
-      "id": "5032530",
-      "time": "2026-08-09 19:40:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北燕趙沽源儲能示範專案全容量併網】據中國電建公眾號，近日，中國電建承建的河北燕趙沽源儲能示範專案全容量併網。河北燕趙沽源儲能示範專案位於張家口市沽源縣西辛營鄉，採用了先進的300兆瓦/600兆瓦時磷酸鐵鋰儲能系統，共安裝48組6.25兆瓦/12.5兆瓦時儲能單元，配套建設了一座220千伏升壓站及相關電氣附屬設施。"
-    },
-    {
-      "id": "5032529",
-      "time": "2026-08-09 19:39:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“白海豚”已減弱為颱風級】目前，白海豚已減弱為颱風級。“白海豚”將以每小時15-20公里的速度向偏西方向移動，強度快速減弱。（央視新聞）"
-    },
-    {
-      "id": "5032528",
-      "time": "2026-08-09 19:38:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【離境退稅“2.0版”政策落地滿月，廣州入境消費持續升溫】離境退稅2.0版政策自7月1日正式實施以來，政策紅利持續釋放，為入境消費市場注入強勁新動能。據廣州海關統計，7月1日至8月8日，廣州白雲機場海關已驗放境外旅客離境退稅申請單約1.9萬份，申請單金額約1億元，同比分別增長約5倍、1.5倍。"
     }
   ]
 }
