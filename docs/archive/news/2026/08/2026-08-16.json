@@ -1,7 +1,31 @@
 {
   "date": "2026-08-16",
-  "count": 421,
+  "count": 424,
   "items": [
+    {
+      "id": "5042715",
+      "time": "2026-08-16 16:17:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江儲存產投基金2026年已出手4次】長存產業投資基金累計投資成本2.70億元，最新持股價值12.10億元，當前賬面回報倍數4.48倍。長存鴻圖基金累計投資成本2.32億元，最新持股價值合計約15.74億元，當前賬面回報倍數6.78倍。"
+    },
+    {
+      "id": "mkt:01a009a4-a121-7aab-904d-0f1d5d82ab53",
+      "time": "2026-08-16 16:16:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran chamber of commerce head says economy has emerged from war shock】IRNA cited the head of the Iran Chamber of Commerce, Industries, Mines and Agriculture saying the latest economic report shows improving signals, indicating Iran has largely moved past the sharp post-war downturn and economic activity is beginning to recover."
+    },
+    {
+      "id": "5042714",
+      "time": "2026-08-16 16:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ChatGPT新功能更新】OpenAI 為 ChatGPT 訂閱使用者推出新功能，可將谷歌雲盤檔案直接新增到對話中並編輯，無需頻繁切換應用。此外，本週還新增了 AI 互動測驗工具及 Yelp 餐廳推薦整合。"
+    },
     {
       "id": "5042713",
       "time": "2026-08-16 16:13:29",

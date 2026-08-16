@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-16 16:14:31",
+  "updated": "2026-08-16 16:18:22",
   "count": 15209,
   "items": [
+    {
+      "id": "5042715",
+      "time": "2026-08-16 16:17:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江儲存產投基金2026年已出手4次】長存產業投資基金累計投資成本2.70億元，最新持股價值12.10億元，當前賬面回報倍數4.48倍。長存鴻圖基金累計投資成本2.32億元，最新持股價值合計約15.74億元，當前賬面回報倍數6.78倍。"
+    },
+    {
+      "id": "mkt:01a009a4-a121-7aab-904d-0f1d5d82ab53",
+      "time": "2026-08-16 16:16:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran chamber of commerce head says economy has emerged from war shock】IRNA cited the head of the Iran Chamber of Commerce, Industries, Mines and Agriculture saying the latest economic report shows improving signals, indicating Iran has largely moved past the sharp post-war downturn and economic activity is beginning to recover."
+    },
+    {
+      "id": "5042714",
+      "time": "2026-08-16 16:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ChatGPT新功能更新】OpenAI 為 ChatGPT 訂閱使用者推出新功能，可將谷歌雲盤檔案直接新增到對話中並編輯，無需頻繁切換應用。此外，本週還新增了 AI 互動測驗工具及 Yelp 餐廳推薦整合。"
+    },
     {
       "id": "5042713",
       "time": "2026-08-16 16:13:29",
@@ -139119,33 +139143,6 @@
         "國際"
       ],
       "text": "【伊朗外長再重申目前未與美國談判】伊朗外長阿拉格齊今天（8月9日）表示，目前伊朗與美國之間沒有進行任何談判，但斡旋方仍在努力尋找恢復談判的途徑。伊朗認為，在美國就此前違反相關承諾的行為作出彌補之前，不具備重新啟動談判的條件。 (CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:019fe598-1f01-7aab-8fc8-c57661a51507",
-      "time": "2026-08-09 16:16:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian foreign minister Araghchi said Iran will not negotiate so long as the United States breaches the interim agreement."
-    },
-    {
-      "id": "5032432",
-      "time": "2026-08-09 16:16:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大不列顛哥倫比亞省進入緊急狀態】加拿大不列顛哥倫比亞省政府8月8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的山火災情。不列顛哥倫比亞省省長戴維·伊比在新聞釋出會上表示，目前狀況非常危險，火勢蔓延迅速且隨時發生變化。政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中疏散受困民眾。（CCTV國際時訊）"
-    },
-    {
-      "id": "5032431",
-      "time": "2026-08-09 16:15:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊表示，只要美國繼續違反臨時協議，就不會進行談判。"
     }
   ]
 }
