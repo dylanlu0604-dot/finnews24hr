@@ -1,7 +1,18 @@
 {
   "date": "2026-08-16",
-  "count": 441,
+  "count": 442,
   "items": [
+    {
+      "id": "mkt:01a009c6-6b1c-7aab-904d-2963874bc58e",
+      "time": "2026-08-16 16:53:13",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Fars News reported the mayor of Mahshahr said explosions heard in Mahshahr minutes earlier were caused by the demolition of wartime ordnance in Iraq."
+    },
     {
       "id": "5042731",
       "time": "2026-08-16 16:50:42",
