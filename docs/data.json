@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-17 05:06:40",
-  "count": 15221,
+  "updated": "2026-08-17 05:10:28",
+  "count": 15224,
   "items": [
+    {
+      "id": "5042970",
+      "time": "2026-08-17 05:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很高興看到沙烏地阿拉伯、土耳其以及巴基斯坦近期終於簽署了《麥加聯合防務協議》。這表明中東地區正在走向團結，各國終於能夠以更具實質意義的方式實現自衛。向上述三國卓越的領導層表示祝賀。這是重大、果敢且意義深遠的第一步，太棒了。"
+    },
+    {
+      "id": "5042969",
+      "time": "2026-08-17 05:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【傳奇投資人Stanley Druckenmiller買入美國上市的中概股】華爾街傳奇投資大亨、億萬富豪Stanley Druckenmiller幾年來首次重返美國交易的中國股票。彭博對其主要投資平臺Duquesne Family Office LLC最新的13F檔案的分析發現，該家族辦公室第二季建倉百度ADR，買入8.8萬份，僅佔其投資組合的0.2%。彙總的資料顯示，Duquesne自2023年第四季清倉阿里巴巴ADR後至本次披露期間再無持有中概股。"
+    },
+    {
+      "id": "5042968",
+      "time": "2026-08-17 05:07:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，已要求五角大樓削減與韓國的軍事演習。"
+    },
+    {
+      "id": "mkt:01a00c67-16be-7aab-9050-a69f387def77",
+      "time": "2026-08-17 05:07:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said he is unhappy he long ago agreed to joint military exercises with South Korea and has instructed Defense Secretary Hegseth to sharply curtail them."
+    },
     {
       "id": "5042967",
       "time": "2026-08-17 04:58:48",
@@ -139162,14 +139195,6 @@
         "MKT News"
       ],
       "text": "Lebanese sources say there are currently no plans for a new round of Lebanon-Israel talks next month; talks may resume after the summer."
-    },
-    {
-      "id": "5032685",
-      "time": "2026-08-10 05:10:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【強腦科技韓璧丞出席香港特首顧問團會議，向特首李家超建言】2025年6月，香港特別行政區政府宣佈新一屆特首顧問團成員名單，腦機介面領域專家、強腦科技創始人兼CEO韓璧丞獲委任為\"創新與創業\"領域顧問。2026年7月28日至30日，行政長官李家超一連三日與特首顧問團舉行工作午餐，聽取顧問團成員就香港第一個五年規劃、2026年施政報告及香港整體發展的意見。"
     }
   ]
 }
