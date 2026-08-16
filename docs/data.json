@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 10:40:08",
+  "updated": "2026-08-16 10:44:09",
   "count": 15221,
   "items": [
+    {
+      "id": "5042558",
+      "time": "2026-08-16 10:43:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球首臺5000噸過載折彎機湖北下線】8月14日，全球首臺5000噸過載C形折彎機，在湖北三環鍛壓裝置有限公司（以下簡稱“三環鍛壓”）黃石工業園正式下線。作為我國工業母機領域的重大科創成果，該裝置由三環鍛壓自主研發，打破了海外企業在高階過載折彎裝備領域的長期壟斷格局。（湖北日報）"
+    },
+    {
+      "id": "5042557",
+      "time": "2026-08-16 10:39:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民盟河南省委會：收到的一些社情民意資訊存在明顯AI生成痕跡】中國民主同盟河南省委員會8月15日通報，7月，民盟河南省委會累計收到全省各級盟組織報送的社情民意資訊261篇，其中採用97篇，整體採用率37.2%。通報指出，當前資訊報送工作仍存在諸多突出問題，其中包括，AI創作濫用且稽核把關不嚴。一些稿件存在明顯AI生成痕跡，受“AI幻覺”影響，稿件中案例、資料存在編造、不實問題，相關單位未嚴格核實內容真實性便直接報送，嚴重影響資訊公信力與稿件質量。"
+    },
     {
       "id": "5042556",
       "time": "2026-08-16 10:38:43",
@@ -139266,22 +139282,6 @@
         "公司"
       ],
       "text": "【BBA逼近虧損邊緣】豪華車曾經是汽車行業利潤最豐厚的生意之一。賓士、寶馬和奧迪這三家一線豪華品牌享有豐厚的品牌聲譽，在全球市場可以同時獲得規模和溢價，賣出一輛車能夠帶來的利潤遠高於普通汽車品牌。最新一輪半年報顯示，這三家企業的主營汽車業務也瀕臨虧損邊緣。今年上半年，賓士、寶馬、奧迪全球汽車銷量和營收規模同步下滑，三家營收創下2022年來新低，汽車銷量也創下2023年來新低。利潤方面，賓士、寶馬更是達到2021年來低點，奧迪也處於過去六年的低谷。中國市場表現乏力成了三家公司業績同步下滑的關鍵原因。在三家公司中，賓士上半年營收規模最高，達到636.6億歐元，但較去年同期下降4.1%，連續三年下滑。賓士同期息稅前利潤（EBIT）為34.5億歐元，去年同期是35.6億歐元，這一表現較2023年巔峰時期跌去67.1%。（介面）"
-    },
-    {
-      "id": "5032258",
-      "time": "2026-08-09 10:42:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇樹科技中一簽需繳款7.54萬元】根據安排，A股人形機器人第一股宇樹科技8月10日將開啟網上、網下申購。該公司股票的發行價格為150.80元/股，網上申購程式碼為“787836”，中一簽（500股）需繳款7.54萬元。 市場人士表示，若宇樹科技上市首日漲幅超過100%，投資者中一簽的盈利將超過7.5萬元；若上市首日漲幅超過200%，投資者中一簽的盈利將高達15萬元。 有券商指出，中長期來看，宇樹登陸A股有望牽引更多長期資金系統性配置人形機器人賽道。（券商中國）"
-    },
-    {
-      "id": "mkt:019fe465-f775-7aab-8fc7-d242d6074ed7",
-      "time": "2026-08-09 10:41:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Central Meteorological Observatory issues red typhoon warning】At 1000 CST on the 9th China's Central Meteorological Observatory upgraded its typhoon alert to red for Typhoon No.13 Baihaitun (White Dolphin). The center was at 27.9°N, 122.9°E — about 215 km east of Wenzhou in the southern East China Sea — with maximum winds near the center of 45 m/s (equivalent to 14 on the Chinese scale) and central pressure 950 hPa. Wind radii: 7-level 300–450 km, 10-level 200–250 km, 12-level 100 km. Baihaitun is moving westward at 20–25 km/h with little change in intensity forecast and is expected to make landfall along the coast between Zhoushan (Zhejiang) and Fuding (Fujian) between the evening of the 9th and early hours of the 10th, with landfall winds of 38–45 m/s (13–14); the storm should move west‑northwest inland and gradually weaken after landfall."
     }
   ]
 }
