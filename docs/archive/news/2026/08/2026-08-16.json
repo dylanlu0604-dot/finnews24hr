@@ -1,7 +1,36 @@
 {
   "date": "2026-08-16",
-  "count": 529,
+  "count": 532,
   "items": [
+    {
+      "id": "mkt:01a00a43-3a97-7aab-904d-ccdeac206877",
+      "time": "2026-08-16 19:09:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran army chief offers $30,000 bounty for capturing or killing US service members】IRIB said on Sunday Iran army chief Amir Hatami announced a $30,000 bounty for capturing or killing US service members. The broadcaster said the payment will be made to any Iranian soldier acting \"from the Iranian people\"."
+    },
+    {
+      "id": "5042804",
+      "time": "2026-08-16 19:09:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金斯瑞生物科技(01548)釋出中期業績，股東應占虧損1.29億美元 同比收窄29.25%】金斯瑞生物科技(01548)釋出截至2026年6月30日止6個月中期業績，該集團取得收益4.04億美元，同比增加27.35%;本公司擁有人應占虧損1.29億美元，同比收窄29.25%;每股虧損5.92美分。公告稱，收益增加主要由於(i)AI驅動藥物發現及抗體藥發現的行業需求持續上漲，加速“基因至蛋白”業務增長;(ii)CRDMO行業上游需求強勁復蘇，帶動專案承接量增加，產能利用率提升;及(iii)工業酶業務持續擴張，為報告期內銷售額平穩增長作出貢獻。"
+    },
+    {
+      "id": "5042803",
+      "time": "2026-08-16 19:08:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：巴布亞紐幾內亞附近海域發生5.8級地震。"
+    },
     {
       "id": "5042802",
       "time": "2026-08-16 19:01:37",
