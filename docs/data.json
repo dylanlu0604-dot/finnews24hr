@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-16 19:14:34",
+  "updated": "2026-08-16 19:18:33",
   "count": 15200,
   "items": [
+    {
+      "id": "5042805",
+      "time": "2026-08-16 19:14:38",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中國梅卡曼德機器人公司獲港交所批准】中國機器人公司梅卡曼德機器人向港交所提交了聆訊後的上市檔案。根據檔案，此次發行的聯席保薦人為中信建投國際和中信證券。"
+    },
     {
       "id": "mkt:01a00a43-3a97-7aab-904d-ccdeac206877",
       "time": "2026-08-16 19:09:33",
@@ -139029,15 +139038,6 @@
         "XAUUSD"
       ],
       "text": "【Iran supreme leader meets President Pezeshkian】State TV said Iran's supreme leader Mujtaba met President Pezeshkian as Pezeshkian begins his third term. They discussed household livelihoods, the ongoing third war of aggression, future prospects, military development and economic engagement with foreign partners."
-    },
-    {
-      "id": "5032523",
-      "time": "2026-08-09 19:15:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯國家原俄羅斯國家原子能公司（Rosatom）總經理：計劃儘早接回所有從伊朗撤離的專家。據他透露，如果一切順利，俄羅斯國家原子能公司將在今年秋季把布什爾核電站的工作人員數量恢復到100人。"
     }
   ]
 }
