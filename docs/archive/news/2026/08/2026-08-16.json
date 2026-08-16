@@ -1,7 +1,19 @@
 {
   "date": "2026-08-16",
-  "count": 156,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:01a007eb-3727-7aab-904b-9bd527f8cf78",
+      "time": "2026-08-16 08:14:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Yemen's Mocha port damaged in Houthi attacks; operations fully halted】Yemeni Houthi forces launched sustained missile and drone attacks on Mocha port, the port operator said on the 15th, causing severe infrastructure damage and a full suspension of operations. Mocha, one of Yemen's key ports, lies about 65 km from the Bab al-Mandeb Strait and roughly 6 km from the main international shipping lane linking the Indian Ocean/Arabian Sea to the Red Sea and Suez Canal. The operator said that between the 9th and 14th the port was struck by 40 ballistic missiles and 46 drones, and was also attacked by explosive-laden boats."
+    },
     {
       "id": "5042493",
       "time": "2026-08-16 08:12:45",
