@@ -1,7 +1,53 @@
 {
   "date": "2026-08-17",
-  "count": 254,
+  "count": 261,
   "items": [
+    {
+      "id": "te:economy:575575",
+      "time": "2026-08-17 07:56:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "Japan Q2 GDP Growth Below Estimates — Japan’s GDP grew 0.3% quarter-on-quarter in Q2 2026, slowing from Q1’s pace and falling short of market expectations for 0.5%, flash data showed."
+    },
+    {
+      "id": "5043060",
+      "time": "2026-08-17 07:55:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元兌日元在日本GDP資料公佈後變動不大，下跌0.08%，報159.21日元。"
+    },
+    {
+      "id": "5043059",
+      "time": "2026-08-17 07:53:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少23.90噸】截至2026年08月14日，全球最大的白銀ETF iShares Silver Trust持倉量為15312.13噸，較前一個交易日減少23.90噸。"
+    },
+    {
+      "id": "5043058",
+      "time": "2026-08-17 07:53:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.5個基點，至2.890%。"
+    },
+    {
+      "id": "5043057",
+      "time": "2026-08-17 07:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本二季內需對GDP的貢獻為負0.2個百分點。"
+    },
     {
       "id": "mkt:01a00cfd-9f04-7aab-9051-b7b9979c7f71",
       "time": "2026-08-17 07:52:22",
@@ -26,6 +72,15 @@
         "Important"
       ],
       "text": "Japan | Preliminary Annual GDP Deflator (Q2) | actual 2.6% | previous 3.20%"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608173842613421",
+      "time": "2026-08-17 07:52:03",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本第二季度名義GDP環比增長1.2%，預估為1.2%。日本二季度淨出口對環比GDP貢獻為正0.5個百分點，預估0.3個。"
     },
     {
       "id": "mkt:01a00cfc-7922-7aab-9051-a438f0529783",
@@ -133,6 +188,15 @@
         "Impact bearish"
       ],
       "text": "Japan Q2 real GDP preliminary annualized QoQ 1.1% vs expected 2.0%; Q1 revised up to 1.9% from 1.8%."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608173842613372",
+      "time": "2026-08-17 07:50:03",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本第二季度GDP摺合年率增長1.1%，預估為2.0%。"
     },
     {
       "id": "mkt:01a00cfb-7192-7aab-9051-6c7aa873c338",

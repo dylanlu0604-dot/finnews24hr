@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-17 07:53:15",
-  "count": 15230,
+  "updated": "2026-08-17 07:57:05",
+  "count": 15218,
   "items": [
+    {
+      "id": "te:economy:575575",
+      "time": "2026-08-17 07:56:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "Japan Q2 GDP Growth Below Estimates — Japan’s GDP grew 0.3% quarter-on-quarter in Q2 2026, slowing from Q1’s pace and falling short of market expectations for 0.5%, flash data showed."
+    },
+    {
+      "id": "5043060",
+      "time": "2026-08-17 07:55:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元兌日元在日本GDP資料公佈後變動不大，下跌0.08%，報159.21日元。"
+    },
+    {
+      "id": "5043059",
+      "time": "2026-08-17 07:53:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少23.90噸】截至2026年08月14日，全球最大的白銀ETF iShares Silver Trust持倉量為15312.13噸，較前一個交易日減少23.90噸。"
+    },
+    {
+      "id": "5043058",
+      "time": "2026-08-17 07:53:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.5個基點，至2.890%。"
+    },
+    {
+      "id": "5043057",
+      "time": "2026-08-17 07:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本二季內需對GDP的貢獻為負0.2個百分點。"
+    },
     {
       "id": "mkt:01a00cfd-9f04-7aab-9051-b7b9979c7f71",
       "time": "2026-08-17 07:52:22",
@@ -26,6 +72,15 @@
         "Important"
       ],
       "text": "Japan | Preliminary Annual GDP Deflator (Q2) | actual 2.6% | previous 3.20%"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608173842613421",
+      "time": "2026-08-17 07:52:03",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本第二季度名義GDP環比增長1.2%，預估為1.2%。日本二季度淨出口對環比GDP貢獻為正0.5個百分點，預估0.3個。"
     },
     {
       "id": "mkt:01a00cfc-7922-7aab-9051-a438f0529783",
@@ -133,6 +188,15 @@
         "Impact bearish"
       ],
       "text": "Japan Q2 real GDP preliminary annualized QoQ 1.1% vs expected 2.0%; Q1 revised up to 1.9% from 1.8%."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608173842613372",
+      "time": "2026-08-17 07:50:03",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本第二季度GDP摺合年率增長1.1%，預估為2.0%。"
     },
     {
       "id": "mkt:01a00cfb-718f-7aab-9051-6778b4e78480",
@@ -139063,209 +139127,6 @@
         "國際"
       ],
       "text": "日本央行意見摘要：一位委員表示，央行必須透過將政策利率推升至中性利率預估區間底部以上，來實現貨幣政策正常化。"
-    },
-    {
-      "id": "5032781",
-      "time": "2026-08-10 07:57:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行一名成員：仔細研究外匯市場動態。"
-    },
-    {
-      "id": "mkt:019fe8f4-f590-7aab-8fcd-135a7fd1e572",
-      "time": "2026-08-10 07:56:35",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Bank of Japan July meeting minutes: one member said the central bank is now in a phase requiring attention to potential upside risks to inflation."
-    },
-    {
-      "id": "mkt:019fe8f4-d3ae-7aab-8fcd-0ba03389049c",
-      "time": "2026-08-10 07:56:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "A summary of the Bank of Japan's July meeting showed one member said the bank's rate‑hike pace could be faster than markets expect, depending on economic, price and financial conditions."
-    },
-    {
-      "id": "5032780",
-      "time": "2026-08-10 07:56:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議意見摘要：一位委員表示，重要的是要靈活調整政策利率水平，同時留意通脹上行風險。"
-    },
-    {
-      "id": "mkt:019fe8f4-3f64-7aab-8fcd-05b6afc86b48",
-      "time": "2026-08-10 07:55:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "BANK OF JAPAN July meeting summary: one member said that, given a 1–1.5 year lag for past rate hikes to affect inf and the domestic economy, it was appropriate to keep policy rates unchanged at this meeting."
-    },
-    {
-      "id": "5032779",
-      "time": "2026-08-10 07:55:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，根據經濟、物價和金融狀況，央行加息步伐可能快於市場預期。"
-    },
-    {
-      "id": "mkt:019fe8f4-27dd-7aab-8fcc-ff4fb827fc54",
-      "time": "2026-08-10 07:55:42",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan July meeting summary: one member said financial conditions remain accommodative as short-term real interest rates remain negative."
-    },
-    {
-      "id": "5032778",
-      "time": "2026-08-10 07:55:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美參議院加密監管法案投票推遲至9月 《清晰法案》落地前景不容樂觀】此前，美國參議院進入八月休會期，並未就加密貨幣監管法案舉行投票，該法案在中期選舉前獲得透過的可能性顯著下降。 加密行業仍寄望於《透明度法案》（Clarity Act）能夠在議員9月重返國會、舉行為期三週的短期會議期間在參議院闖關。該法案旨在為加密行業搭建一套監管框架。 但國會議員下月復會後待辦議程繁重；且參議院共和黨人與支援加密行業的民主黨人尚未就一項倫理條款達成共識，這一條款仍是談判的核心阻礙。 資本阿爾法諮詢董事合夥人Ian Katz接受採訪時表示：“我認為9月透過的機率會下降。審議視窗期很短，可用立法工作日不多，各類議題都會爭奪議程空間。”"
-    },
-    {
-      "id": "5032777",
-      "time": "2026-08-10 07:54:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議意見摘要：一位委員表示，我們現在所處的階段需要警惕潛在通脹可能上行的風險。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608103836051529",
-      "time": "2026-08-10 07:54:33",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行七月會議意見摘要顯示通脹前景面臨巨大上行風險】日本央行七月會議意見摘要顯示，一名成員表示，儘管生產者價格因進口成本上升而上漲，但消費者通脹仍低於2%。一名成員表示，隨著油價上漲傳導至消費者通脹，全球人工智慧需求以及日本擴張性財政政策推動需求，通脹前景面臨巨大上行風險。"
-    },
-    {
-      "id": "mkt:019fe8f3-1642-7aab-8fcc-f0a289fb570e",
-      "time": "2026-08-10 07:54:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan July meeting summary: a member said rising oil prices passing through to consumer inflation, strong global AI-driven demand and Japan’s expansionary fiscal policy boosting demand present substantial upside risks to the inflation outlook."
-    },
-    {
-      "id": "5032776",
-      "time": "2026-08-10 07:54:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，本次會議維持利率不變是合適的，因為過去加息對通脹和國內經濟的影響存在1至1.5年的滯後期。"
-    },
-    {
-      "id": "5032775",
-      "time": "2026-08-10 07:53:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，由於短期實際利率仍為負值，金融環境依然寬鬆。"
-    },
-    {
-      "id": "te:markets:573931",
-      "time": "2026-08-10 07:53:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower on Hormuz Uncertainty — US stock futures slipped on Monday as oil prices extended their gains amid fading hopes for a deal to reopen the Strait of Hormuz, keeping inflation risks and the interest rate outlook in focus. Iran said talks with Oman were approaching an agreement but denied holding direct negotiations with the US, despite Washington’s claims that a deal was close. Investors also turned their attention to key US inflation data due this week after July’s jobs report showed an unexpected contraction, fueling expectations that the Federal Reserve may refrain from raising interest rates. Markets now see around a 44% probability of a 25 basis point rate hike in September, down from 67% a week earlier. On the corporate front, earnings from major AI-related companies, including Applied Materials, Cisco and CoreWeave, are due this week."
-    },
-    {
-      "id": "mkt:019fe8f2-5f22-7aab-8fcc-ef511ecbc6a6",
-      "time": "2026-08-10 07:53:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "BANK OF JAPAN July meeting minutes: one member flagged upside inflation risks from a weak yen and strong AI-related demand."
-    },
-    {
-      "id": "mkt:019fe8f2-0cbc-7aab-8fcc-e666575be541",
-      "time": "2026-08-10 07:53:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan June seasonally adjusted current account JPY13.97 bln; prior JPY3,064.5 bln."
-    },
-    {
-      "id": "mkt:019fe8f2-0bd7-7aab-8fcc-da423e5803b8",
-      "time": "2026-08-10 07:53:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan June trade balance -¥13.52 bln, prior +¥6.88 bln."
-    },
-    {
-      "id": "5032774",
-      "time": "2026-08-10 07:53:22",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一位委員表示，隨著油價上漲傳導至消費通脹，加之全球人工智慧需求及日本擴張性財政政策提振需求，通脹前景面臨巨大的上行風險。"
-    },
-    {
-      "id": "5032773",
-      "time": "2026-08-10 07:53:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制兩個居民點 烏稱擊退俄軍進攻】俄羅斯國防部9日通報稱，俄軍控制了頓涅茨克地區的2個居民點。通報還稱，俄軍繼續對烏克蘭的港口和船隻進行打擊，其中包括敖德薩港和切爾諾莫斯克港用於裝卸和儲存燃料、軍用物資等的設施。烏克蘭武裝部隊總參謀部9日通報稱，過去一天前線地區發生231次戰鬥，烏軍在多個方向擊退俄軍進攻。烏空軍、導彈部隊和炮兵襲擊了俄軍8個人員集中區、4套火炮系統以及4個無人機指揮點。"
     }
   ]
 }
