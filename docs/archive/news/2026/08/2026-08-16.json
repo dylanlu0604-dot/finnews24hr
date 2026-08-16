@@ -1,7 +1,20 @@
 {
   "date": "2026-08-16",
-  "count": 568,
+  "count": 569,
   "items": [
+    {
+      "id": "mkt:01a00a9a-3443-7aab-904e-0f762d436b48",
+      "time": "2026-08-16 20:44:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says US forces expelled, barred from Persian Gulf, Gulf of Oman and Strait of Hormuz】Iran's army commander Hatami said on Aug. 16 US forces have been expelled and are no longer permitted to enter the Persian Gulf, Gulf of Oman or the Strait of Hormuz. He said US bases in the region can never be restored to their previous status and Iran will not allow that to happen."
+    },
     {
       "id": "5042833",
       "time": "2026-08-16 20:39:40",

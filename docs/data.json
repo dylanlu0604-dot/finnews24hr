@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-16 20:42:56",
+  "updated": "2026-08-16 20:46:55",
   "count": 15179,
   "items": [
+    {
+      "id": "mkt:01a00a9a-3443-7aab-904e-0f762d436b48",
+      "time": "2026-08-16 20:44:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says US forces expelled, barred from Persian Gulf, Gulf of Oman and Strait of Hormuz】Iran's army commander Hatami said on Aug. 16 US forces have been expelled and are no longer permitted to enter the Persian Gulf, Gulf of Oman or the Strait of Hormuz. He said US bases in the region can never be restored to their previous status and Iran will not allow that to happen."
+    },
     {
       "id": "5042833",
       "time": "2026-08-16 20:39:40",
@@ -138868,14 +138881,6 @@
         "XAUUSD"
       ],
       "text": "Sky News: Yemeni sources say the Houthi group's fourth wave of missile and drone strikes targeted Mocha port and government forces' positions on the city's outskirts."
-    },
-    {
-      "id": "5032564",
-      "time": "2026-08-09 20:43:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“白海豚”先後在浙江玉環和樂清登陸】據中央氣象臺訊息，今年第13號颱風“白海豚”（強颱風級）的中心於9日17時30分前後在浙江省台州玉環市坎門街道沿海登陸，登陸時中心附近最大風力有14級（42米/秒），中心最低氣壓為945百帕。登陸玉環後，“白海豚”（颱風級）的中心於9日18時40分前後在溫州樂清市翁垟街道沿海二次登陸。 浙江省氣象臺提醒，颱風“白海豚”登陸後將貫穿浙江，強風暴雨範圍廣、影響時間長，可能引發山洪、地質災害、中小河流洪水和城市積澇等次生災害，需全力做好颱風災害防禦。(新華社)"
     }
   ]
 }
