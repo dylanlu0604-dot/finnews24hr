@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 20:54:43_
-_本檔包含 3042 則快訊，約 600499 字_
+_更新時間：2026-08-16 21:41:07_
+_本檔包含 3037 則快訊，約 600005 字_
+
+---
+
+### 2026-08-12 09:34:40  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share innovative drug sector spiked intraday; Baihua Pharmaceutical hit the daily limit, marking a seventh consecutive limit-up. Wanbang Pharmaceutical, Hongbo Pharmaceutical, Longshen Rongfa, Yuheng Pharmaceutical, Harbin Pharmaceutical and Boji Pharmaceutical also advanced.
+
+---
+
+### 2026-08-12 09:34:35  #MKT News
+
+【New Zealand PM Christopher Luxon wins caucus confidence vote, remains National Party leader】Prime Minister Christopher Luxon won his National Party caucus confidence vote on the 12th and will remain party leader. Luxon said on social media on the 11th that media reports had increased speculation about his leadership and he called a caucus meeting for the 12th. New Zealand's parliamentary election is scheduled for Nov. 7.
+
+---
+
+### 2026-08-12 09:34:30  #MKT News #Market Regions #Greater China
+
+【China mobile-wallet cash yield snapshot】WeChat Licaitong (current+7-day) 7-day annualised yield ranged 0.6810%–1.0520%; WeChat Wallet Lingqiantong 7-day annualised yield ranged 0.9010%–1.0010%; Alipay Yu'ebao 7-day annualised yield ranged 0.9010%–1.0090%.
+
+---
+
+### 2026-08-12 09:34:21  #公司 #國際
+
+韓國綜指漲幅擴大至3%，現報6535.98點。個股方面，三星電子漲超5%，SK海力士漲超2%。
+
+---
+
+### 2026-08-12 09:34:10  #MKT News #Important
+
+South Korea's KOSPI index rose 3.00% intraday to 6,535.98 points.
+
+---
+
+### 2026-08-12 09:34:05  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+China A-share industrial "mother machine" theme stayed active: Huadong Numerical Control notched a third consecutive daily limit-up, Shenyang Machine Tool hit the daily limit, and Dongtu Technology, Ruike Laser, Kede Numerical Control and Dazhu Numerical Control also climbed.
+
+---
+
+### 2026-08-12 09:33:44  #其他
+
+紐西蘭國家黨領導人、聯合政府總理克里斯托弗·拉克森12日贏得本黨國會黨團信任投票，繼續擔任主要執政黨國家黨領導人。 紐西蘭將於11月7日舉行國會選舉。拉克森11日在社交媒體發文說，從媒體報道等中可以明顯看出，關於他領導地位的猜測正在增多，他宣佈召集國家黨12日舉行國會黨團會議討論此事。（新華社）
+
+---
+
+### 2026-08-12 09:33:21  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Rises to 2-Week High — US gasoline futures rose to around $3.16 per gallon on Wednesday, a two-week high, tracking gains in crude prices as markets assessed the viability of efforts toward a potential deal on the Strait of Hormuz. Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the waterway, while Iran-Oman talks have reached an advanced stage, according to a Qatari official cited by Al Jazeera. Meanwhile, API data showed gasoline stocks fell by 1.531 million barrels in the week ending August 7, following a 156,000-barrel increase the prior week. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further energy disruptions after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027. At the pump, the EIA raised its retail gasoline price forecast for this year and 2027.
+
+---
+
+### 2026-08-12 09:33:14  #國際
+
+【國航將新開北京至羅馬尼亞、克羅埃西亞航線】從國航瞭解到，國航將於9月4日起新開北京-布加勒斯特-薩格勒布國際客運航線，每週一、三、五執行三個往返航班。該航線的開通將進一步豐富在中東歐航空市場的網路佈局，大幅縮短中國與中東歐腹地的時空距離。國航相關負責人介紹，國航持續在中歐市場最佳化網路佈局、加大運力投入，已通航27個歐洲航點，每週運營近260個航班。
+
+---
+
+### 2026-08-12 09:33:02  #市場
+
+中證轉債指數開盤上漲0.07%。N賽斯轉、奧飛轉債、愛迪轉債、雙良轉債、精測轉2漲幅居前，分別漲30.00%、2.36%、2.31%、1.89%、1.65%。久吾轉02、航宇轉債、永吉轉債、運機轉債、銀輪轉債跌幅居前，分別跌0.99%、0.99%、0.85%、0.64%、0.63%。
+
+---
+
+### 2026-08-12 09:33:00  #市場 #焦點
+
+焦煤連續主力合約日內漲3%，現報1487.50元。
+
+---
+
+### 2026-08-12 09:32:51  #公司 #國際
+
+【Alpha Compute將斥資超5000萬美元，在美國賓州建天然氣資料中心園區】當地時間8月11日，人工智慧基礎設施公司Alpha Compute宣佈簽署有約束力意向書，計劃在美國賓夕法尼亞州收購天然氣資產，建設一座規劃容量200兆瓦、以天然氣供電的資料中心園區，並有可能擴建至1吉瓦。該資產的收購基準價格定為5500萬美元，在簽署最終協議後，Alpha Compute需支付300萬美元定金。
+
+---
+
+### 2026-08-12 09:32:46  #市場
+
+【煤炭板塊盤初走弱，新大洲A跌停】煤炭板塊盤初走弱，新大洲A跌停，大有能源、潞安環能、淮北礦業、山西焦化、蘭花科創、恆源煤電等跟跌。
+
+---
+
+### 2026-08-12 09:32:37  #市場
+
+【工業母機概念繼續活躍 華東數控3連板】早盤工業母機概念繼續活躍，華東數控3連板，鼎通科技、瀋陽機床、銳科鐳射、科德數控、大族數控跟漲。
+
+---
+
+### 2026-08-12 09:32:11  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Tech Index's early losses widened to 1%; Hang Seng Index is down 0.9%.
+
+---
+
+### 2026-08-12 09:31:20  #公司
+
+【江蘇省首個Token運營中心在蘇州揭牌】據蘇州日報，8月11日，中國電信（江蘇）Token運營中心揭牌暨入駐蘇州國際資料港儀式在蘇州工業園區舉行。這是全省首個Token運營中心，目標打造國內領先、接軌國際的Token綜合服務樞紐。此次揭牌的中國電信（江蘇）Token運營中心將聚焦大模型詞元算力業務，整合國內AI應用場景，打通跨境AI服務雙向通道，實現詞元算力排程、交付、鑑證、管控等全生命週期管理。當天，涵蓋天翼雲、智譜、火山、阿里、騰訊、中國電信國際公司、新建元等國內外領軍企業的Token出海服務聯盟同步成立，初步形成從資源供給到場景應用、從智慧排程到跨境輸出的協同生態網路，可為出海企業提供“模型+合規+本地化”一站式服務。
+
+---
+
+### 2026-08-12 09:31:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【China index futures open】CSI 300 index futures (IF) most-active contract down 0.10%, SSE 50 index futures (IH) most-active contract down 0.17%, CSI 500 index futures (IC) most-active contract up 0.12%, CSI 1000 index futures (IM) most-active contract down 0.03%.
+
+---
+
+### 2026-08-12 09:31:12  #MKT News
+
+【China government bond futures open】2-year government bond futures (TS) most-active contract flat at the morning open; 5-year (TF) down 0.01%, 10-year (T) down 0.02%, 30-year (TL) down 0.06%.
+
+---
+
+### 2026-08-12 09:30:56  #市場
+
+影視院線板塊高開，北京文化走出三連板，儒意電影漲超4%，金逸影視、中國電影等跟漲。
+
+---
+
+### 2026-08-12 09:30:51  #MKT News #Important #Market Regions #Greater China
+
+China A-share film exhibition sector opened higher. Beijing Culture extended its run to a third straight daily limit-up. Ruyi Film rose over 4%; Jinyi Film & TV and China Film also advanced.
+
+---
+
+### 2026-08-12 09:30:16  #市場 #焦點
+
+恒生指數跌超1%，現報25392.738點；恒生科技指數現跌1.223%。
+
+---
+
+### 2026-08-12 09:30:09  #MKT News
+
+【Henan issues red heavy-rain warning, activates level-2 flood emergency】Henan’s flood-control command activated a level-2 emergency response at 08:00 on Aug 12, the provincial emergency management department said. From 08:00 Aug 12 to 08:00 Aug 13 heavy rain is expected along the Huai River and across much of northern Henan. Heavy downpours are forecast in parts of southern Jiaozuo, central-eastern and eastern Xinxiang, eastern Luoyang, Zhengzhou, Kaifeng, central-western Shangqiu, Pingdingshan, Xuchang, Luohe, central-western and northern Zhoukou, northeastern Nanyang and northern Zhumadian. Localised ultra-heavy rain (250–350mm at isolated points) is possible in southeastern Zhengzhou, southern Kaifeng, central Pingdingshan, northern Xuchang and western Zhoukou. Brief intense rainfall with hourly rates of 40–60mm (up to 80mm locally) and convective thunderstorm winds of force 8–10 are also expected.
 
 ---
 
@@ -18194,182 +18326,5 @@ Oil Holds Advance on US-Iran Deal Uncertainty — Crude oil held above $82 per b
 10、“在推進共同富裕中先行示範”——浙江紮實推進共同富裕示範區建設
 11、今年前七個月大米出口同比增長百分之六十八——柬埔寨積極拓寬大米出口市場
 12、“巴中深化農畜產業鏈合作是雙方共同的機遇”。
-
----
-
-### 2026-08-11 07:10:40  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“在推進共同富裕中先行示範”——浙江紮實推進共同富裕示範區建設
-2、各地深入開展學習教育，鞏固拓展學習教育成果——不斷創造高質量發展新業績（樹立和踐行正確政績觀）
-3、中國經濟看速度更看“穩勁”
-4、上半年全國社會物流總額為181.1萬億元
-5、上半年完成交通固定資產投資1.5萬億元。
-
----
-
-### 2026-08-11 07:10:33  #其他
-
-英特爾據悉正在考慮將股票定價在較股價低約6.5%的水平。
-
----
-
-### 2026-08-11 07:09:59  #其他
-
-英特爾表示，計劃以至少每股 95 美元的價格出售股票，總額達 200 億美元。
-
----
-
-### 2026-08-11 07:08:33  #公司 #國際
-
-【韓華向奧斯塔爾提出12億美元收購其美國業務的報價】澳大利亞造船商奧斯塔爾有限公司（Austal Ltd）週二表示，已收到韓國韓華集團（Hanwha Group）旗下一家子公司提出的收購其美國業務的要約，該業務的指示性企業價值最高可達12億美元。
-
----
-
-### 2026-08-11 07:08:04  #國際
-
-【中報視窗期機構密集調研 創新藥步入業績與國際化兌現期】當前醫藥行業進入半年報密集披露期，機構調研熱情明顯升溫。Wind資料顯示，截至8月10日，17家上市藥企披露半年報，逾百家藥企釋出半年度業績預告。7月1日至8月10日，百濟神州、澤璟製藥等74家藥企接待機構調研，7家企業吸引超50家機構走訪，百濟神州接待調研機構數量超200家。業內人士認為，創新藥板塊正從估值驅動，轉向業績與全球化兌現共同驅動，已達成商務拓展（BD）合作的產品逐步進入海外關鍵臨床、註冊上市和商業化分成兌現階段，而今年ESMO年會（2026年歐洲腫瘤內科學會年會）重要資料、重磅BD合作與技術突破，將持續成為板塊重要利好催化。（中國證券報）
-
----
-
-### 2026-08-11 07:07:50  #公司
-
-【險資曲線入股宇樹科技 不斷擴大戰新產業配置】8月10日，人形機器人概念股宇樹科技開啟科創板網上、網下同步申購。儘管戰略配售名單中未見險資身影，但穿透股權結構，多家保險公司以私募股權基金LP身份現身股東行列。當下，險資正以務實的姿態，持續擴大戰略性新興產業配置權重。（中國證券報）
-
----
-
-### 2026-08-11 07:06:27  #國際
-
-【中央氣象臺8月11日06時繼續釋出強對流天氣藍色預警】預計8月11日08時至12日08時，內蒙古中東部、西北地區東部、東北地區西部、黃淮中部、江漢中部、江淮中東部、江南東北部、西南地區東部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，內蒙古中部、甘肅東部、河南中部和東部、安徽北部、江蘇西部、湖北中部等地的部分地區將有10級以上雷暴大風，最大風力可達11級以上，局地不排除出現龍捲的可能性；內蒙古中東部、西北地區東部、東北地區西部、華北中北部、黃淮中西部、江漢北部、江淮中部、江南東部、西南地區南部等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，山東南部、河南中東部和南部、安徽北部、湖北北部等地的部分地區小時雨量大於50毫米，最大可達80毫米以上。
-
----
-
-### 2026-08-11 07:05:30  #Trading Economics #Economy #Colombia #Inflation Rate #Importance 1
-
-Colombia Inflation Eases Below Forecasts — Colombia’s annual inflation rate eased slightly to 6.03% in July 2026 from June’s near two-year high of 6.14%, below market forecasts of 6.2%. On a monthly basis, consumer prices rose 0.17% in July, following a 0.39% increase in June, below market expectations of 0.35% and marking the softest increase since November 2025.
-
----
-
-### 2026-08-11 07:05:07  #公司 #市場 #國際
-
-【鋰價止跌企穩 碳酸鋰緊平衡格局仍穩固】7月走出一輪“預期驅動回撥”行情後，碳酸鋰價格近日出現企穩跡象。8月10日，碳酸鋰期貨主力合約LC2609報收146360元/噸，6個交易日以來累計上漲6.24%。“這幾天算是穩住了。”有熟悉碳酸鋰期貨人士評價。此前的7月，受遠期供給過剩的悲觀預期影響，碳酸鋰期貨價格下跌近20%。期貨市場上的漲漲跌跌，並沒有影響到產業端的火熱。“碳酸鋰生產、銷售正常。”四川某鋰鹽企業負責人稱，下游拿貨熱情不減，公司已沒有多少庫存。該企業的狀態基本代表了行業整體——7月以來，天華新能、九嶺鋰業等陸續進入檢修，鋰電下游8月排產卻超預期增長。券商分析稱，碳酸鋰去庫存節奏加快，供需格局整體維持偏緊態勢。（上海證券報）
-
----
-
-### 2026-08-11 07:04:32  #公司
-
-【在手訂單飽滿 多賽道釋放高景氣訊號】A股公司2026年半年報披露進入高峰期，“在手訂單”成為透視行業景氣度的核心指標。蘇美達船舶生產任務覆蓋至2030年，中際旭創光模組訂單落地至2027年，行雲科技算力及儲存類長期框架訂單規模超過154億元……一系列亮眼訂單資料展現出國內製造與科技產業的發展韌性與硬核實力。縱觀已披露的訂單資訊，三條主線清晰可見：船舶、電纜、鐳射裝置等高階製造大額訂單飽滿，為後續業績增長築牢基礎；創新藥、光模組等行業依託技術升級與海外市場開拓，迎來全球化紅利釋放期；半導體裝置、算力服務等賽道，則將技術迭代優勢持續轉化為實實在在的訂單增量。（上海證券報）
-
----
-
-### 2026-08-11 07:03:44  #公司
-
-【受世界盃提振，英國零售額小幅增長】一份報告顯示，隨著英格蘭隊挺進國際足聯(FIFA)世界盃後期階段提振了食品和飲料銷售，英國7月份零售額小幅增長。然而，根據英國零售商協會和畢馬威的這份報告，由於氣溫飆升導致客流量減少，非食品類銷售受到打擊。報告稱，在7月5日至8月1日期間，英國總零售額同比增長1.3%。“在高溫下，消費者需求舉步維艱，導致零售商在下半年伊始面臨挑戰，“英國零售商協會執行長Helen Dickinson說。Dickinson補充說，儘管7月份小幅增長，但由於充滿挑戰的經濟環境，消費者的預算仍然緊張，同時零售商繼續努力應對更高的成本。
-
----
-
-### 2026-08-11 07:03:11  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-UK July BRC total retail sales YoY 1.3% vs 1.9% prior.
-
----
-
-### 2026-08-11 07:03:09  #市場 #觀點 #央行 #國際
-
-【8月11日隔夜要聞一覽】
-1、美國總統特朗普表示，美方已經對整個霍爾木茲海峽完成掃雷，目前美國海軍對這一關鍵航道擁有“100%”的控制權。特朗普還稱，霍爾木茲海峽“現在已經開放”，伊朗方面偶爾仍會佈設水雷，但美軍會將其清除。
-2、美國、以色列和敘利亞達成諒解，國際原子能機構將從敘利亞一處秘密地點轉移核材料。
-3、國際油價10日顯著上漲，同時美國的戰略石油儲備（SPR）降至3億桶以下，徘徊在20世紀80年代以來的最低水平。
-4、據美國國會預算辦公室估算，2026財年前10個月，美國聯邦預算赤字總額為1.8萬億美元。
-5、美國總統特朗普在社交媒體發帖稱，他注意到，伊朗正在要求就過去五個月軍事衝突中遭受的損失獲得賠償。特朗普稱，“我同樣要求伊朗進行賠償，我已指示我的代表們將這一要求明確納入未來所有談判之中。”
-6、據伊朗最高領袖辦公室10日訊息，伊朗最高領袖穆傑塔巴簽署任命令，任命6人擔任武裝部隊總參謀部、伊斯蘭革命衛隊和巴斯基民兵組織的高階職務。
-7、特朗普將美國瓊斯法案針對貨輪的豁免措施延長90天，但將航運豁免範圍限制在能源大宗商品和化肥領域。
-8、英偉達週一宣佈將聯合KKR、高盛、布魯克菲爾德等六家機構，籌集超5000億美元用於AI算力建設。
-9、一項政府記錄顯示，美聯儲主席凱文·沃什表示，他已賣出了此前承諾剝離的全部金融持倉。
-10、克利夫蘭聯儲行長貝絲·哈馬克表示，可能需要進行數次加息才能將通脹降至2%的目標，但她不想預先判斷終點會在哪裡。
-
----
-
-### 2026-08-11 07:03:06  #國際
-
-【暴雨橙色預警：山東、河南、安徽、湖北、河北、北京等地部分地區有大暴雨，河南局地特大暴雨】中央氣象臺8月11日06時繼續釋出暴雨橙色預警：預計，8月11日08時至12日08時，浙江東部和北部、上海、江蘇西部、安徽中北部、河南、湖北中西部、湖南北部、山東西南部、河北西部和南部、北京、天津及內蒙古中西部、山西北部、黑龍江西北部、雲南西南部等地部分地區有大到暴雨，其中，山東西南部、河南中東部和西南部、安徽北部、湖北西北部、河北西部、北京南部等地部分地區有大暴雨，河南中部等地部分地區有特大暴雨(250-300毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。防禦指南：1、政府及相關部門按照職責做好防暴雨應急工作；2、切斷有危險的室外電源，暫停戶外作業；3、處於危險地帶的單位應當停課、停業，採取專門措施保護已到校學生、幼兒和其他上班人員的安全；4、做好城市、農田的排澇，注意防範可能引發的山洪、滑坡、泥石流等災害。
-
----
-
-### 2026-08-11 07:03:02  #MKT News #Economic Calendar #Important
-
-United Kingdom | BRC Total Retail Sales (YoY) (Jul) | actual 1.3% | previous 1.9%
-
----
-
-### 2026-08-11 07:01:20  #其他
-
-英國7月BRC同店零售額同比增長1%。
-
----
-
-### 2026-08-11 07:01:08  #MKT News
-
-UK July BRC same-store retail sales YoY 1.0%, down from 1.7% prior.
-
----
-
-### 2026-08-11 07:01:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | BRC Like-for-like Retail Sales (YoY) (Jul) | actual 1% | previous 1.70%
-
----
-
-### 2026-08-11 07:00:05  #國際
-
-伊朗最高領袖穆傑塔巴任命六名高階軍事指揮官後，外交部長阿拉格齊發文稱，這六名指揮官在“近期兩場強加於伊朗的戰爭”中展現出實戰經驗。
-
----
-
-### 2026-08-11 06:57:39  #市場 #焦點
-
-現貨黃金突破4400美元/盎司，日內漲0.22%。
-
----
-
-### 2026-08-11 06:57:24  #MKT News
-
-A US official said they are optimistic about progress in Lebanon-Israel talks but acknowledged persistent difficulties. The US held separate talks with the Lebanese delegation on reconstruction; Lebanon and Israel discussed third-party demining operations. The official said Hezbollah continues to try to undermine the negotiations.
-
----
-
-### 2026-08-11 06:56:59  #MKT News
-
-ANTHROPIC said an unreleased research version of Claude attempted to tackle the Riemann hypothesis. It did not prove the conjecture but raised the lower bound on the proportion of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%.
-
----
-
-### 2026-08-11 06:56:50  #市場 #焦點
-
-現貨黃金突破4400美元/盎司，為6月5日以來新高，日內漲0.2%。
-
----
-
-### 2026-08-11 06:56:00  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold topped $4,400/oz, its highest since June 5, rising 0.2% intraday.
-
----
-
-### 2026-08-11 06:55:14  #市場 #焦點
-
-紐約期金突破4460美元/盎司，日內漲0.91%。
-
----
-
-### 2026-08-11 06:55:04  #國際
-
-【朝中社：日本2026年版《防衛白皮書》是再侵略白皮書】據朝中社11日報道，朝鮮國際安保問題評論家發表文章稱，國際社會譴責日本2026年版《防衛白皮書》是再侵略白皮書。文章說，日本把否定歷史犯罪和實現軍事大國化作為“國策”，比以往任何時候都進一步強化同美國等勢力的同盟。日本在《防衛白皮書》中把朝鮮等周邊國家描寫為“重大而緊迫的威脅”“最大的戰略挑戰”，企圖使其擴軍備武行為合理化。（新華社）
-
----
-
-### 2026-08-11 06:54:43  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Muted in Morning Trade — New Zealand's stocks were almost unchanged, trading around 13,890 in Tuesday morning deals, as gains in the technology, utilities, and materials sectors offset declines in healthcare, energy, and consumer discretionary. Rising oil prices raised doubts about whether the Fed will cut rates this year. Traders awaited the release of US inflation data this week for clues about the Fed's monetary policy at its upcoming meeting. Meanwhile, rising oil prices also raised questions about how they could affect the RBNZ's monetary policy decision at its September meeting amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the RBNZ's Q3 inflation expectations, due this week, after they accelerated in Q2. Contact Energy advanced 1.6%, ANZ Group rose 1.2%, and A2 Milk gained 0.6%, while Fisher & Paykel and EBOS Group fell 0.9% and 0.7%, respectively.
 
 ---
