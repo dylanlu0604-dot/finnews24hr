@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-17 00:30:24",
-  "count": 15201,
+  "updated": "2026-08-17 00:34:24",
+  "count": 15203,
   "items": [
+    {
+      "id": "5042913",
+      "time": "2026-08-17 00:32:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩：以色列炮擊黎巴嫩南部拜特亞胡恩與巴拉希特兩鎮之間的地區。"
+    },
+    {
+      "id": "mkt:01a00b6a-ad32-7aab-904f-0e16f31c58fb",
+      "time": "2026-08-17 00:32:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said the government is committed to building more affordable housing nationwide and has launched Maisons Canada, the Canadian Housing Plan, to rapidly scale construction using Canadian workers, materials and technology."
+    },
+    {
+      "id": "5042912",
+      "time": "2026-08-17 00:30:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平委員會：絕不允許加沙再度成為針對以色列發動襲擊的策源地。"
+    },
+    {
+      "id": "5042911",
+      "time": "2026-08-17 00:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平委員會提出要求：若哈馬斯啟動上繳銷燬武器的程序，以色列必須在加沙開展對等撤軍行動。"
+    },
     {
       "id": "5042910",
       "time": "2026-08-17 00:29:06",
@@ -139026,26 +139058,6 @@
         "國際"
       ],
       "text": "伊朗總統：我們與地區國家的溝通正在改善。對比過去，尤其是戰爭高峰期的狀況更是如此，此前我們的關係本就十分良好。巴基斯坦如今正全心全意開展合作。阿富汗的合作情況十分理想。土庫曼方面情況良好。亞塞拜然此前切斷了所有通道，還關停了我方銀行。我們致電與其交涉；經過兩小時會談後，對方重新予以開放。銀行、大使館以及各類通道全部恢復運作。"
-    },
-    {
-      "id": "mkt:019fe75e-4513-7aab-8fca-eaef502333d4",
-      "time": "2026-08-10 00:32:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Saudi outlet Alhadath quoted Yemen's National Resistance Forces saying the Houthi movement is an Iranian proxy whose decision-making is controlled by Iran. The group said the Houthis seek to serve Iran by creating chaos and escalating tensions to relieve external pressure, called the Houthis a \"war instrument\" rather than a tool for peace and said peace with them is impossible, and warned their adventurism will not be tolerated."
-    },
-    {
-      "id": "5032629",
-      "time": "2026-08-10 00:30:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【丹麥霍爾拜克市發生槍擊事件 多人受傷】當地時間8月9日，據丹麥警方訊息，該國霍爾拜克市發生一起槍擊事件，多人受傷。警方表示，在當地時間15時45分左右接到槍擊事件警報。目前尚不清楚具體受傷人數。警方稱，槍擊事件很可能由一起“犯罪團伙交易”引發，目前尚未有人被捕。"
     }
   ]
 }
