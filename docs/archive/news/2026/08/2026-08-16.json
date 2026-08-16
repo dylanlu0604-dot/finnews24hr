@@ -1,7 +1,36 @@
 {
   "date": "2026-08-16",
-  "count": 347,
+  "count": 350,
   "items": [
+    {
+      "id": "5042648",
+      "time": "2026-08-16 14:59:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿富汗塔利班發表宣告】據參考訊息援引埃菲社報道，阿富汗政府8月15日在慶祝執政五週年的宣告中表示，希望與世界和平共處，並要求結束針對阿富汗的“陰謀”，同時保證阿富汗領土絕不會被用於侵略其他國家。阿富汗塔利班在宣告中表示：“阿富汗願與世界各國在和平與安寧的氛圍中相處，絕不允許任何人利用阿富汗領土採取針對別國的行動。同時希望其他國家也不要參與任何針對阿富汗的陰謀，尊重阿富汗的領土、領空和相關利益。”"
+    },
+    {
+      "id": "mkt:01a0095d-834c-7aab-904c-c676928226a9",
+      "time": "2026-08-16 14:58:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said Qatar should allow an IRGC expert team to be stationed to investigate the case of a missing pilot, rather than deny that it detained the pilot."
+    },
+    {
+      "id": "mkt:01a0095c-977b-7aab-904c-bfe17885cba7",
+      "time": "2026-08-16 14:57:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Explosions heard in Kyiv】Explosions were heard in Kyiv on Aug. 16 local time."
+    },
     {
       "id": "5042647",
       "time": "2026-08-16 14:56:06",
