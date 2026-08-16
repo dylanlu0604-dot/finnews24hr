@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 190,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:01a00826-78ef-7aab-904b-d34c6ee651d9",
+      "time": "2026-08-16 09:18:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US police arrest man linked to Virginia State University shooting】Chesterfield County police on Aug. 15 arrested 19-year-old Cameron Harris of Henrico in connection with a shooting at Virginia State University that injured five people. There were no fatalities; one victim is in critical condition. Authorities say Harris is not a student and has eight felony arrest warrants, including malicious wounding and using a firearm during the commission of a felony. Only one of the five wounded is a university student; the others are aged 17 to 23."
+    },
+    {
+      "id": "5042522",
+      "time": "2026-08-16 09:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美警方逮捕一名與弗吉尼亞州立大學槍擊案有關人員】央視記者獲悉，當地時間8月15日，美國弗吉尼亞州警方逮捕了一名19歲男子，該男子涉嫌參與當日發生的一起致五人受傷的槍擊事件。此次槍擊未造成人員死亡，但有一名受害者傷勢危急。據悉，切斯特菲爾德縣警方宣佈逮捕了來自弗吉尼亞州亨里科的卡姆倫·哈里斯。當局表示，此人並非該校學生。警方稱，已對該男子簽發了八項重罪逮捕令，罪名包括蓄意傷害罪以及在實施重罪期間使用槍支等。儘管槍擊事件發生在校園，但在五名傷者中，只有一人是該校學生。當局表示，其餘四名受害者的年齡在17歲至23歲之間。（央視新聞）"
+    },
     {
       "id": "5042520",
       "time": "2026-08-16 09:16:10",
