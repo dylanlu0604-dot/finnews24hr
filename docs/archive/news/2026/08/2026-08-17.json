@@ -1,7 +1,71 @@
 {
   "date": "2026-08-17",
-  "count": 160,
+  "count": 167,
   "items": [
+    {
+      "id": "5043001",
+      "time": "2026-08-17 06:45:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭統計局：紐西蘭7月食品價格通脹指數較上月上漲0.1%。"
+    },
+    {
+      "id": "mkt:01a00cc0-21dc-7aab-9050-fa3e559a5dfc",
+      "time": "2026-08-17 06:45:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "【This week: China July data; Fed minutes; US signals economic measures on Iran】Monday — China releases July retail sales, industrial production (above‑scale) and total electricity consumption; PBOC overnight reverse repo operations scheduled Aug 17–19; Canada July CPI; US NY Fed manufacturing and NAHB housing index. Bessent warned this week of “unprecedented” US economic measures against Iran. Earnings: Geely. Tuesday — UK three‑month ILO unemployment and July jobless claims; Germany and eurozone ZEW surveys; US ADP payrolls, housing starts, building permits, import PPI, industrial production, pending home‑sales index. Earnings: China Unicom, Xiaomi (results call), Baidu (results call). Wednesday — US API and EIA crude inventories; UK July CPI and RPI; eurozone June current account and final July CPI. ECB President Lagarde speaks at WEF. Earnings: Kuaishou (results call), ZTO, Kingsoft, HKEX, Weibo. Thursday — China: July Swift RMB share of global payments and one‑year LPR; Australia July unemployment; Germany July PPI; Swiss trade balance; UK CBI industrial orders; US initial jobless claims, Philly Fed index, Conference Board leading indicators, EIA gas stocks. Fed minutes released. Earnings: Ping An, China Telecom, NetEase, Alibaba, AIA, Li‑Ning, Pop Mart, Futu. Friday — UK consumer confidence, July retail sales, public sector net borrowing, Aug services PMI prelim; Japan July core CPI; preliminary Aug manufacturing PMIs for France, Germany, eurozone and UK; Canada June retail sales; US preliminary Aug S&P Global manufacturing and services PMIs; eurozone consumer confidence prelim. Events: Hang Seng index quarterly review results; NYMEX September crude roll. Earnings: ZTE, Sinopec, Beike. Saturday — US Baker Hughes rig count for week to Aug 21."
+    },
+    {
+      "id": "mkt:01a00cc0-1014-7aab-9050-f72b7281b91c",
+      "time": "2026-08-17 06:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July food price index MoM +0.1% vs +0.6% prior."
+    },
+    {
+      "id": "mkt:01a00cbf-f162-7aab-9050-e8a275b9ab20",
+      "time": "2026-08-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (Jul) | actual 0.1% | previous 0.60%"
+    },
+    {
+      "id": "5043000",
+      "time": "2026-08-17 06:43:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國國防部表示，與美國的聯合軍演將如期舉行。"
+    },
+    {
+      "id": "5042999",
+      "time": "2026-08-17 06:43:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：亞洲煉油商正提前鎖定原油貨源，印度採購方已在尋找11月船貨；受烏克蘭襲擊俄煉油設施影響，俄羅斯面臨燃料短缺。原油實物供應韌性尚存，但價格上行風險高企。"
+    },
+    {
+      "id": "5042998",
+      "time": "2026-08-17 06:41:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic聯合創始人承認人工智慧正遭遇信任危機】Anthropic聯合創始人兼執行長達里奧·阿莫代伊否認公眾對人工智慧普遍產生的末日感應由他負責，但他承認行業確實存在信任難題。他提到當下存在一種非此即彼的錯誤認知：一部分人認為監管會造成監管俘獲、權力集中；另一部分人則認為廣泛分發人工智慧模型（包括開源模型）才是約束技術風險的最優路徑。阿莫代伊指出，法院這類制度機構可以實現權力去中心化；同時他表示Anthropic支援相關政策：一方面約束前沿AI企業發展速度，另一方面為小型競爭對手創造發展優勢。隨後他談及自己過往有關AI的公開言論，否認自己言論過度悲觀。他表示自己撰寫的文章都會均衡闡述技術的風險與收益，但社交媒體為博取流量，經常擷取片段，將他的發言渲染成極度悲觀的論調。"
+    },
     {
       "id": "5042997",
       "time": "2026-08-17 06:39:26",
