@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:00:59_
-_本檔包含 3008 則快訊，約 601575 字_
+_更新時間：2026-08-16 17:35:42_
+_本檔包含 3002 則快訊，約 600357 字_
+
+---
+
+### 2026-08-13 11:03:36  #國際
+
+印尼基準股指跌幅一度達到1.5%，報6281.572點。
+
+---
+
+### 2026-08-13 11:02:56  #公司
+
+【小馬智行在佛山新設科技公司 含智慧機器人研發業務】企查查APP顯示，近日，佛山小馬智行科技有限公司成立，法定代表人為莫璐怡，註冊資本為2000萬元，經營範圍包含新材料技術研發；智慧機器人的研發；人工智慧應用軟體開發；人工智慧硬體銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由小馬智行關聯公司廣州小馬智行科技有限公司全資持股。
+
+---
+
+### 2026-08-13 11:02:47  #其他
+
+【第二屆世界人形機器人運動會將舉行51個專案1301場比賽】第二屆世界人形機器人運動會將於8月22日在國家速滑館“冰絲帶”開幕，本屆運動會由北京市人民政府、中央廣播電視總檯等聯合主辦。△資料圖與首屆運動會相比，第二屆世界人形機器人運動會的競賽專案、參賽隊伍全面提質擴容，本屆運動會正賽將於8月22日至26日在國家速滑館“冰絲帶”舉行，共5天時間。按照賽程安排，將舉行51個專案共1301場比賽。賽期從首屆運動會的3天6個競賽單元增加到5天9個單元，時間由上午和下午調整為下午和晚上，每個單元各3個小時。
+
+---
+
+### 2026-08-13 11:02:32  #央行 #中國央行
+
+【央行連續三日7天期逆回購操作量為零 中期流動性投放成關鍵觀察視窗】自8月11日以來，央行已連續三個交易日7天期逆回購操作量為零。從此前地量操作到連續“零投放”，公開市場操作變化引發債券市場關注。多家機構認為，當前尚不能僅憑7天期逆回購連續零投放判斷貨幣政策取向發生變化，後續中期流動性工具投放規模、大行融出情況以及資金價格走勢，將成為觀察央行流動性管理態度的重要視窗。
+
+---
+
+### 2026-08-13 11:02:18  #宏觀
+
+【“十五五”時期生態環境監測和執法將大力推進數智化轉型】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期，生態環境部圍繞監測、執法，將採取更大力度推進數智化轉型，進一步提升生態環境監管的質效。會上介紹，生態環境部將對大氣、水、海洋等傳統領域，全面實施數智化升級工程，推進國控站點儀器裝置的智慧化更新改造。在大氣方面，將加大人工智慧預測模型應用，升級空氣質量預報平臺，預計到2030年，全國72小時PM2.5超標天預報準確率將提升至80%以上。在水方面，將新建一批自動取樣站，組建海洋無人船編隊，全面革新傳統監測作業模式。在固體廢物、新汙染物等新興領域，將加快新技術、新模式的應用推廣。如利用米級和亞米級衛星開展常態化遙感排查，精準鎖定固廢違法堆放點位。新汙染物監測則依託現有的地表水、海洋等監測站點，同步取樣送樣，以較低成本實現多介質、多指標監測的協同增效。
+
+---
+
+### 2026-08-13 11:01:56  #其他
+
+VINGROUP：票息上限為年利率8%，視市場情況而定。
+
+---
+
+### 2026-08-13 11:01:49  #其他
+
+VINGROUP：預計2026年第三至第四季度發行韓元債券，尚待批准
+
+---
+
+### 2026-08-13 11:01:46  #MKT News
+
+RBNZ survey: New Zealand Q3 two-year average inflation expectations at 2.34%.
+
+---
+
+### 2026-08-13 11:01:32  #公司 #國際
+
+越南企業集團Vingroup計劃面向韓國投資者私募發行規模最高達4550億韓元（合3.214億美元）、以韓元計價的3年期普通債券。
+
+---
+
+### 2026-08-13 11:01:29  #MKT News
+
+RBNZ survey: New Zealand Q3 one-year-ahead average inflation expectations at 2.6%.
+
+---
+
+### 2026-08-13 11:01:19  #市場
+
+【醫藥商業板塊拉昇，藥易購漲超13%】醫藥商業板塊拉昇，藥易購漲超13%，百洋醫藥、人民同泰、華人健康、建發致新、漱玉平民跟漲。
+
+---
+
+### 2026-08-13 11:00:51  #其他
+
+紐西蘭三季度2年通脹預期 2.34%，前值 2.53%。
+
+---
+
+### 2026-08-13 11:00:39  #國際
+
+【中泰警方聯合偵破一起跨國信用卡盜刷案】近日，公安部與泰國皇家警察總署密切協作，同步對一起專門針對中國公民的重大跨國信用卡盜刷案開展收網行動，摧毀多個犯罪窩點，分別抓獲4名中國籍犯罪嫌疑人和5名泰國籍犯罪嫌疑人，取得重大戰果。2025年，公安部經偵局指導協調上海公安經偵部門研判發現一個針對我國公民實施信用卡盜刷的跨國犯罪團伙，並及時將案件情況和協查請求通報泰國警方，開展國際執法合作。經查，2024年，犯罪嫌疑人計某與肖某共謀，由計某在泰國開設果乾店為幌子，以使用銀聯卡消費打折為誘餌，非法獲取受害人信用卡資訊。隨後，由肖某製作偽卡，招募刷手實施盜刷和銷贓牟利。截至目前，已查明涉案金額達500餘萬元人民幣。今年7月初，公安部派工作組赴泰國，與泰警方開展聯合辦案，精準研判該犯罪團伙組織架構、核心骨幹、作案窩點，全面掌握其作案模式和資金流向。近日，兩國警方同步開展收網，實現案件全環節部署、全要素蒐證、全鏈條打擊。公安部有關負責人表示，此次收網系中泰兩國警方近年來在打擊經濟犯罪領域首次同步開展的聯合執法行動，有效震懾了跨國經濟犯罪活動。下步，雙方將持續鞏固本次聯合行動成果，探索建立打擊跨境經濟犯罪常態化協作機制，不斷深化線索共享、經驗互通、聯合研判、追逃追贓等執法合作。
+
+---
+
+### 2026-08-13 11:00:24  #市場
+
+【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%】TrendForce資料顯示，8月13日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.42%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。
+
+---
+
+### 2026-08-13 10:58:49  #公司 #市場
+
+【重大資產重組，股價4天翻倍，藍盾光電回應】8月13日，藍盾光電再度“20CM”一字漲停開盤，實現4連板，自8月10日復牌以來，該股4個交易日累計漲幅已達107.31%，實現翻倍。針對股價持續漲停一事，記者以投資者身份致電藍盾光電，接線工作人員回應，相關事項資訊均以已披露公告為準，本次併購重組尚處於前期階段；若無特殊事項，後續暫無停牌安排，股票正常交易，本次交易對上市公司業績的影響目前無法作出答覆。(21世紀經濟報道)
+
+---
+
+### 2026-08-13 10:58:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yield climbed to around 2.86% on Thursday, reaching its highest level in more than a month as markets assessed the likelihood of a Bank of Japan interest rate hike in September after a growing number of policymakers called for a stronger response to mounting inflation pressures. Meanwhile, producer prices in Japan continued to rise at an elevated pace in July, keeping cost pressures on companies high. Producer inflation rose 7.2% in July, easing slightly from 7.3% in June, which was the highest level since March 2023. The BOJ recently attributed the rise in producer prices partly to higher oil costs following the Middle East conflict, along with increases in nonferrous metal and machinery prices amid stronger global demand linked to the artificial intelligence boom. Tight labor market conditions have also continued to drive wage pressures as companies compete to attract and retain workers.
+
+---
+
+### 2026-08-13 10:58:33  #Trading Economics #Markets #Commodity #Importance 1
+
+Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects.
+
+---
+
+### 2026-08-13 10:55:58  #其他
+
+【國電電力廊坊熱電二期4號機組透過168小時試執行】據國電電力公眾號訊息，8月12日23時55分，國電電力廊坊熱電二期2×350MW等容量替代專案4號機組高標準透過168小時滿負荷試執行，各項效能指標達到設計要求，正式轉入商業執行。至此，廊坊熱電二期專案實現全容量投產。
+
+---
+
+### 2026-08-13 10:54:54  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
+
+【Reserve Bank of Australia assistant governor says policy currently contractionary】Reserve Bank of Australia Assistant Governor Chris Kent said monetary policy is currently contractionary, with three rate rises earlier this year now restraining the economy. Borrowing costs and mortgage repayments have risen, the mature housing market has weakened, and the AUD’s year-to-date appreciation has amplified the effect. Kent said evidence suggests overall demand growth appears to be slowing — a development policymakers want and see as necessary to bring inflation back to target.
 
 ---
 
@@ -18004,155 +18118,5 @@ Spot silver hit an intraday high of $65/oz, up 0.52% on the day.
 ### 2026-08-12 08:24:29  #公司
 
 【中國生物科技服務稱與Stella Pharma就硼中子治療藥物在中國商業化訂立協議】中國生物科技服務：本集團於與Stella Pharma就聯合推進Steboronine®(全球首個獲批准的硼中子治療藥物)在中國的開發及商業化訂立主合作協議。此合作與本集團的鵬博海南硼中子醫院旗艦專案形成協同效應，標誌本集團將先進硼中子治療技術引入中國市場的重要戰略舉措，以進一步鞏固和發展在中國的業務。
-
----
-
-### 2026-08-12 08:23:26  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加1.71噸】截至2026年08月11日，全球最大的黃金ETF SPDR Gold Trust持倉量為1022.67噸，較前一個交易日增加1.71噸。
-
----
-
-### 2026-08-12 08:22:10  #市場
-
-樂天股價下跌10%，此前公佈的第二季度營業利潤不及預期。
-
----
-
-### 2026-08-12 08:21:17  #市場
-
-【國投證券：預計全國豬價有望啟動旺季反彈】國投證券研報稱，低價區川渝領漲，近期豬價抬頭。7月28日以來，川渝地區豬價企穩回升，截至8月6日的漲幅已分別達0.9元/公斤和0.8元/公斤。全國生豬均價亦有同步企穩跡象。同時，川渝生豬養殖龍頭企業巨星農牧的銷售月報顯示其7月的商品豬出欄量再度出現環比下降、出欄體重環比大降3.2公斤/頭，湧益諮詢資料顯示四川的最新生豬出欄均重較7月初下降0.9公斤/頭（降幅明顯大於其他省）、肥標價差也有明顯提升，或側面反映川渝地區的生豬供給壓力或已有明顯緩解。值得注意的是，去年下半年農業農村部等中央機構就已開始對全國生豬產能進行調減指導、四川省農業農村廳及下屬各地市仍在透過良種補貼和出欄激勵等方式支援生豬產業發展，或導致今年四川的生豬供給壓力大於其他省份。而供給壓力理論上相對更大的豬價低價區川渝既然已經出現供給改善、豬價上漲，國投證券預計全國豬價也有望啟動旺季反彈。
-
----
-
-### 2026-08-12 08:21:10  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 2-year government bond yield rose 2.0 bps to 1.630%.
-
----
-
-### 2026-08-12 08:20:46  #市場 #國際
-
-2年期日本國債收益率上漲2.0個基點，至1.630%，創1995年5月以來新高。
-
----
-
-### 2026-08-12 08:20:33  #市場 #國際
-
-【亞市早盤油價上漲 中東局勢發展之際預計將出現波動】亞洲交易時段油價上漲。Infinox的Thadeu Dos Santos在評論中表示，隨著市場對中東局勢的發展作出反應，原油價格保持波動。據報道，美國軍方表示，其部隊週二早些時候向一艘懸掛巴拿馬國旗的船隻開火，該船隻試圖衝破美國對伊朗港口的封鎖。該Infinox區域總監表示，如果沒有該地區外交上的具體突破，原油價格的波動性可能會保持在高位。近月西得州中質油期貨上漲0.55%，至每桶83.66美元；布倫特原油期貨上漲0.5%，至每桶89.36美元。
-
----
-
-### 2026-08-12 08:20:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose above $4,380/oz, up 0.28% on the day.
-
----
-
-### 2026-08-12 08:20:12  #市場 #焦點
-
-現貨黃金突破4380美元/盎司，日內漲0.28%。
-
----
-
-### 2026-08-12 08:19:42  #市場 #國際
-
-【日經指數持平 受能源和金融股支撐】日本日經指數持平於66988.82點，金融和能源股的上漲幫助抵消了電子和醫藥股下跌的影響。Resona Holdings上漲2.8%，國際石油開發帝石株式會社上漲3.9%，而歐姆龍下跌3.1%，第一三共下跌2.2%。美元報159.20日元，而美東時間週二下午5點為159.28日元。投資者正關注伊朗衝突的進展以及原油價格。
-
----
-
-### 2026-08-12 08:19:26  #公司
-
-【劉小濤會見哈電集團董事長黃偉】據新華日報，8月10日，江蘇省省長劉小濤會見哈爾濱電氣集團有限公司董事長黃偉一行，並共同見證鎮江市與哈電集團簽署戰略合作協議。劉小濤說，江蘇正深入推進製造業智慧化、綠色化、融合化發展，大力實施“人工智慧+製造”，加快經濟社會發展全面綠色轉型，與哈電集團深化合作空間廣闊。希望以此次簽約為契機，聚焦高階裝備製造、新能源等領域攜手拓展產業佈局，共同推進關鍵核心技術攻關，積極搭建電力裝備產業鏈供應鏈合作平臺，打造央地合作新標杆。我們將持續最佳化營商環境，全力保障企業在蘇更好發展。黃偉表示，哈電集團將緊扣國家重大戰略，圍繞江蘇發展需要，積極推動科技創新和產業創新深度融合，不斷深化央地合作，共同促進裝備製造業高質量發展，為保障國家能源安全作出積極貢獻。
-
----
-
-### 2026-08-12 08:18:46  #公司 #市場 #觀點 #國際
-
-【美國當前財報季出現反常態勢 科技巨頭取代小盤股成波動主力】期權分析服務商ORATS的資料顯示，本財報季中，人工智慧(AI)熱潮推動的超大規模雲服務商股價在財報釋出後出現了比往常更大的波動，這打破了以往小型公司財報通常引發更大幅度股價波動的歷史規律。財報季的前幾周通常由市場龍頭企業主導，包括摩根大通和富國銀行等金融巨頭、率先發布財報的道瓊斯藍籌股，以及蘋果、微軟、Alphabet和Meta等超大市值科技巨頭。指數中的中小型公司則在後幾周成為市場焦點。但這次情況有所不同。“最近幾周，小型公司財報引發的波動較為平淡——與前幾周形成鮮明對比，當時超大規模雲服務商的財報引發了比往常更大的股價波動，”ORATS創始人Matt Amberson表示。包括亞馬遜、微軟、谷歌和Meta在內的一些超大規模科技公司，在財報釋出後股價出現大幅波動，超過了各自過去幾個季度的平均波動幅度，因為投資者基於AI資本支出是否產生回報的跡象，而積極買入或拋售股票。
-
----
-
-### 2026-08-12 08:17:35  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI rose 2.00% intraday; Samsung Electronics gained 4.0%, SK Hynix up 2.0%.
-
----
-
-### 2026-08-12 08:17:28  #國際
-
-美國國家颶風中心稱，百慕大附近未來48小時內形成氣旋的可能性為40%。
-
----
-
-### 2026-08-12 08:17:00  #市場 #國際
-
-韓國綜合股價指數上漲2％，三星電子漲4%，SK海力士漲2%。
-
----
-
-### 2026-08-12 08:16:54  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Al Arabiya TV, citing sources, reported a drone attacked Libya's Zawiya power plant.
-
----
-
-### 2026-08-12 08:15:23  #其他
-
-【航行警告！南海海域實彈射擊】據中國海事局網站訊息，珠海海事局釋出航行警告，8月12日和14日每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-08-12 08:14:10  #公司 #觀點
-
-【中信證券：AI重塑遊戲行業 重點推薦具備AI UGC平臺性機遇的公司】中信證券研報表示，2025年以來，生成式AI持續降低遊戲研發門檻，推動內容生產從“人力密集”走向“智慧增強”，行業供給側由此迎來顯著擴容。但市場並未因此線性進入“百花齊放”的價值兌現階段，相反，玩家注意力、產品差異化與長線運營能力變得更加稀缺。中信證券認為，AI不會簡單攤薄遊戲行業的價值，反而將推動行業價值錨點從“能否生產內容”轉向“能否持續創造精品、獲取流量並完成商業化兌現”。遊戲行業正在從“產能約束”時代，走向“稀缺性重估”時代，其中頭部公司最為受益。中信證券判斷，AI在遊戲產業鏈的價值釋放主要分為兩個階段：短期，AI進入頭部廠商研發管線，提升長青產品維護、高規格新品開發和全球化試錯能力；中長期，隨著模型能力提升、Token成本下降和平臺基礎設施完善，AI有望透過AI UGC擴大內容供給、透過AI Native創造新型體驗，進一步擴大市場規模。重點推薦全鏈路工業化能力領先的頭部公司，具備AI UGC平臺性機遇的公司，並建議關注具備內容平臺基礎的企業。
-
----
-
-### 2026-08-12 08:14:00  #市場 #國際
-
-【韓國股市有望連續第三個交易日上漲】週三，韓國股市開盤走高，受週二晚間Super Micro和CoreWeave股價飆升提振，市場情緒改善。如果韓國綜合股價指數（KOSPI）能夠守住早盤漲幅，那麼它將迎來自7月23日以來的首次三連漲。
-
----
-
-### 2026-08-12 08:11:18  #觀點 #國際
-
-【中信證券：弱復甦延續，硬奢品類表現亮眼】中信證券研報表示，歐洲奢侈品板塊2Q26整體行業經營表現環比改善，但受外部宏觀環境擾動，板塊情緒與估值中樞仍繼續承壓（2026YTD LVMH/愛馬仕/開雲/歷峰股價分別-25%/-27%/-5%/+15%）。分品類看，2Q26具備高價效比感知的珠寶品類延續行業最強增長表現，歷峰珠寶業務收入固定匯率下（下同）同比增長24%；皮具及成衣品類邊際企穩，但品牌表現差異顯著。分地區看，美國、日本及韓國驅動需求改善，中國市場延續弱復甦，歐洲旅遊消費表現分化。我們認為行業整體壓力仍存，我們延續此前對於板塊的觀點：儘管當前行業弱復甦延續，但我們認為行業仍行於迷霧之中：1）新創意週期已開啟，但我們認為板塊仍為存量競爭，部分品牌的復興將以犧牲其他品牌的市場份額為代價、2）入門級消費者消費力的釋放仍存在不確定性、3）中國市場全面復甦的時間節點亦不明確，我們判斷奢侈品行業過去長期5-6% CAGR帶來的板塊估值溢價面臨新的考驗。
-
----
-
-### 2026-08-12 08:10:49  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steadies Ahead of US CPI Report — Gold steadied around $4,370 an ounce on Wednesday following a volatile start to the week, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, gold continued to draw support from investment demand and central bank purchases, particularly from China. China’s central bank added about 20 tons to its reserves in July after buying around 15 tons in June, marking the largest monthly increase since October 2023.
-
----
-
-### 2026-08-12 08:10:40  #公司 #市場 #觀點
-
-【中金：建議繼續超配黃金】中金公司研報表示，隨著全球流動性更加寬鬆，實際利率與美元的上行壓力減輕，黃金或重新獲得流動性和貨幣體系多元化的雙重支撐。中金認為黃金牛市尚未結束，前期調整後重新增配的視窗已經開啟，建議繼續超配黃金。
-
----
-
-### 2026-08-12 08:10:09  #MKT News #AXJO.AX #Impact bearish
-
-Australia's S&P/ASX 200 opened down 46.7 points, or 0.50%, at 9,203.90 on Aug. 12 (Wednesday).
-
----
-
-### 2026-08-12 08:09:15  #觀點 #國際
-
-【中信證券：全球市場量化動量退潮、低估值修復，但反轉尚未明確】中信證券研報表示，2026年7月，前期由AI硬體驅動的跨市場強勢行情出現高位分化，大中華、韓國等市場的醫藥、消費、房地產等行業出現修復，但未形成跨市場一致性行情；風格角度看，各主要股票市場均出現動量顯著退潮、低估值修復的現象。我們認為7月市場表現是因為前期由AI硬體推動的趨勢交易集中降溫，資金轉向估值較低、前期漲幅有限的標的。考慮到AI產業仍處於高景氣度階段，且未形成科技硬體外的其它一致性主線行情，我們認為尚不足以確認中長期行業和風格趨勢發生反轉。
-
----
-
-### 2026-08-12 08:08:18  #MKT News #Commodities #Industrial Metals
-
-【CITIC Securities: Rare-earth prices likely to remain steady-to-firm near term】CITIC Securities research note, citing CUSTOMS data: July rare-earth exports 4,223.5 t, down 29.54% YoY and 17.26% MoM, the lowest monthly level since March; Jan–Jul cumulative exports 34,706.3 t, down 10% YoY. Average export price $12.34/kg, up 103.14% YoY, as export mix shifts toward higher-value medium/heavy rare-earths and overseas buyers accept pricier feedstock. Supply-side tightness persists—no new incremental supply, separation plants running stably, and previously idled producers have no restart plans—while downstream rigid demand and positive long-term demand expectations support prices. Near-term outlook: prices steady-to-firm.
-
----
-
-### 2026-08-12 08:07:59  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
-
-【CITIC Securities: Storage sector remains highly buoyant; monitor LTA progress and shareholder returns】CITIC Securities said the June–July pullback in major global storage stocks reflected market unwinding after peak price momentum rather than weak earnings. Q2 results broadly met expectations; product prices remain in an upcycle and AI is raising data-center revenue share. While price increases are moderating, the report sees the industry in structural undersupply through 2027, providing support for chain-wide gross margins and profitability. Suppliers are signing 3–5-year LTAs to lock in large customers; flexible pricing mechanisms and price floors should reduce earnings volatility and lift valuations. The firm favors exposure to HDD, DRAM and NAND and flags LTA progress and shareholder-return signals as key follow-ups.
 
 ---

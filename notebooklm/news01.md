@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:00:59_
-_本檔包含 3042 則快訊，約 601221 字_
+_更新時間：2026-08-16 17:35:42_
+_本檔包含 3046 則快訊，約 600891 字_
+
+---
+
+### 2026-08-16 17:34:29  #國際
+
+【日媒：高市政權迴避歷史反省 要警惕其“迴歸戰前”傾向】日本多家媒體16日發表社論，批評高市早苗政權在日本宣佈無條件投降81週年之際迴避歷史反省、淡化戰爭責任，並對日本政壇和安全政策日益顯現的“迴歸戰前”傾向表示警惕。15日，高市在日本政府舉辦的“全國戰歿者追悼儀式”上致辭時，隻字未提日本當年對鄰國發動的侵略戰爭及由此造成的深重災難，也沒有為日本的侵略歷史道歉，致辭中同樣沒有出現“反省”一詞。對此，日本《每日新聞》社論指出，如果不能正視戰爭教訓，日本作為和平國家的信譽將受到損害。（新華社）
+
+---
+
+### 2026-08-16 17:32:36  #國際
+
+【美媒曝美伊談判內幕：美方曾繞開伊朗官方啟用伊拉克庫區領導人作為秘密聯絡人】據媒體16日報道，在今年5月的美伊停戰談判期間，美國特朗普政府曾繞過伊朗官方談判代表，透過伊拉克庫爾德自治區（庫區）總統巴爾扎尼與伊朗伊斯蘭革命衛隊建立秘密聯絡渠道。這一罕見的外交舉動凸顯了美伊雙方在談判中面臨的信任危機與溝通障礙。報道援引多名知情人士的訊息稱，今年5月初，白宮認為與伊朗議長加利巴夫和外長阿拉格齊的談判陷入僵局，懷疑伊朗官方代表並未獲得最終決策權。為確認伊朗伊斯蘭革命衛隊的真實立場，時任美國國家情報總監加巴德於5月10日左右致電巴爾扎尼，請求其協助直接聯絡伊朗伊斯蘭革命衛隊指揮官瓦希迪。巴爾扎尼隨後在伊拉克庫區首府埃爾比勒的辦公室內，透過加密電話與瓦希迪進行了直接溝通。瓦希迪向巴爾扎尼明確表示，伊斯蘭革命衛隊完全支援伊朗官方談判代表的立場，傾向於透過談判解決危機。巴爾扎尼隨即向美方反饋了這一資訊。隨後，美方曾提議在埃爾比勒舉行美伊高階別秘密會談，但伊方出於對以色列情報機構可能實施暗殺的擔憂，最終未能成行。
+
+---
+
+### 2026-08-16 17:32:10  #MKT News
+
+Russian Defence Ministry said its forces have captured the villages of Pershomarivka in Ukraine's Donetsk region and Kudyivka in Kharkiv region.
+
+---
+
+### 2026-08-16 17:31:47  #MKT News #XAUUSD #Impact bullish #WTI
+
+Ukrainian military said it struck a missile-fuel production facility in Russia's Rostov region.
+
+---
+
+### 2026-08-16 17:31:36  #國際
+
+烏克蘭軍方稱，烏克蘭襲擊了俄羅斯羅斯托夫州的一個導彈燃料生產設施。
+
+---
+
+### 2026-08-16 17:31:14  #國際
+
+阿拉伯媒體：大多數船隻在透過霍爾木茲海峽時遵守了伊朗航道。
+
+---
+
+### 2026-08-16 17:27:17  #其他
+
+【上海港首次開展海上錨地雙船雙燃料加註作業】地處東海海域的綠華山錨地，是途經上海港國際航行船舶避風減載、待泊補給、半潛作業的重要水域，如今這裡清潔燃料補給功能日趨成熟。8月16日清晨，“海港未來”號LNG加註船、“海港致遠”號甲醇加註船在綠華山錨地相繼完成燃料加註作業。其中，“海港致遠”輪為馬耳他籍“達飛歐斯米姆”輪加註國產生物質甲醇；“海港未來”輪為新加坡籍“騰城”輪加註液化天然氣。本次雙船加註從8月15日延續至8月16日，這是上海港首次在海上錨地同步為國際航行船舶大規模加註兩類綠色燃料，標誌著上海港海上能源加註作業具備了多元化、規模化供應能力。（一財）
+
+---
+
+### 2026-08-16 17:23:39  #MKT News #S&P500 #Impact bullish #Brent #Impact bearish #XAUUSD
+
+Saudi outlet Alhadath cites sources saying Trump envoy Jared Kushner will meet Hamas representatives, with mediators from Egypt, Turkey and Qatar present, to try to prevent collapse of the Gaza agreement.
+
+---
+
+### 2026-08-16 17:23:21  #MKT News
+
+EMSC: A M4.2 earthquake struck the Flores region of Indonesia; depth 5 km.
+
+---
+
+### 2026-08-16 17:22:46  #國際
+
+【美媒：中國成為全球企業“繞不開的技術和創新來源”】美國消費者新聞與商業頻道（CNBC）近日刊文稱，中國企業正在成為全球企業“繞不開的技術和創新來源”。分析人士認為，儘管美國持續加碼對華科技限制，但從人工智慧到電動車電池，中國技術仍日益融入一些全球大型企業的業務。分析認為，中國技術崛起正在從低成本製造轉向依靠規模優勢、深厚的供應鏈能力以及快速創新能力，全球產業鏈與創新格局正發生結構性變化。（新華社）
+
+---
+
+### 2026-08-16 17:18:31  #MKT News #Brent #Impact bullish #WTI
+
+Saudi broadcaster Al Arabiya reported Yemen's military said Houthi forces fired six ballistic missiles and six drones at Mokha; air defenses shot down two drones.
+
+---
+
+### 2026-08-16 17:17:02  #國際
+
+俄羅斯國防部：俄羅斯軍隊佔領了哈爾科夫州的庫季耶夫卡和頓涅茨克共和國的佩爾紹馬裡耶夫卡。
+
+---
+
+### 2026-08-16 17:15:59  #國際
+
+過去24小時內，俄羅斯防空系統共擊落1478架無人機，創下歷史新高。
+
+---
+
+### 2026-08-16 17:15:29  #公司 #市場
+
+【利潤暴增715倍，股民卻虧麻了？ 江波龍560元定增埋雷，21家機構成“高位接盤俠”】儲存龍頭江波龍釋出“炸裂”業績。今年上半年歸母淨利105.77億元，同比增長約715倍，達到了業績預告的上線數值。而曾衝高到749.88元高點的江波龍股價，在半年報釋出後卻跌跌不休，至8月14日收盤，報收於406.45元。參與江波龍37億元定增的21家機構以及自然人投資者，560元/股買入，已成高位接盤俠，目前整體浮虧已超10億元。而在此次高溢價定增推進之前，江波龍實控人關聯主體及核心高管已透過多輪減持完成超50億元高位套現。江波龍也因此被市場詬病，被指“吃相難看”。 《BUG》欄目詢問了江波龍方面，工作人員表示，公司能決定的更多還是自身經營的因素，無法對股價發表評論。 江波龍已宣佈擬以4億元-8億元回購股份，用於股權激勵或員工持股計劃。但為了回購股票的資金，江波龍居然開始向銀行借錢。有投資者喊話江波龍應回購股份登出，但未獲回應。 江波龍經營淨現金流已由正傳負，但仍在大舉囤貨，分析人士認為，如果週期反轉，對江波龍的影響將是災難性的。
+
+---
+
+### 2026-08-16 17:12:40  #公司 #市場
+
+【納指ETF廣發：二級市場價格溢價 8月17日停牌後復牌】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為1.699元，收盤時基金份額參考淨值為1.5248元。為保護投資者利益，基金於8月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月17日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-08-16 17:12:33  #公司 #市場
+
+【納指ETF嘉實：二級市場價格溢價 8月17日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.121元，收盤時基金份額參考淨值為1.9122元。為保護投資者利益，基金將於8月17日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。
+
+---
+
+### 2026-08-16 17:12:21  #公司
+
+【華夏越秀高速公路REIT：2026年7月路費收入2021萬元 同比增3%】華夏越秀高速公路REIT公告稱，2026年7月1日至31日，湖北漢孝高速日均收費車流量35,618輛次，環比增長3.4%、同比增長1.5%；路費收入2021萬元，環比增長5.5%、同比增長3%。2026年累計日均收費車流量34,533輛次，同比增長0.2%；累計路費收入13,452萬元，同比增長1.8%。目前，基金投資運作正常，無應披露而未披露的重大資訊。
+
+---
+
+### 2026-08-16 17:12:18  #公司
+
+【匯添富納斯達克100ETF：更新基金產品資料概要 基金經理變更】匯添富納斯達克100ETF公告稱，因基金經理變更，更新基金產品資料概要。新基金經理樂無穹於2026年8月12日上任，證券從業日期為2014年7月1日。基金主要採用完全複製法跟蹤納斯達克100指數，力爭日均跟蹤偏離度絕對值不超0.35%，年跟蹤誤差不超4%。投資涉及銷售、運作等費用，還揭示了市場、流動性等多種風險。
+
+---
+
+### 2026-08-16 17:12:05  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 8月17日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.869元，參考淨值為2.3120元。為保護投資者利益，基金於8月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-08-16 17:10:47  #市場
+
+【平均業績比較基準下降！7月發行理財產品環比減少】日前，普益標準披露的資料顯示，7月全市場共新發2932款理財產品，環比減少197款。其中，新發開放式產品及封閉式產品平均業績比較基準均環比下跌。同時，7月份固收類產品區間收益率普遍下跌。《中國經營報》記者採訪瞭解到，固收類產品區間收益率普遍下跌，核心還在於債券市場的震盪行情。（中國經營報）
+
+---
+
+### 2026-08-16 17:05:22  #其他
+
+【京東旗下24小時無人咖啡店落地北京】8月16日，京東旗下七鮮咖啡首家24小時智慧化無人咖啡店正式開業，落地北京市朝陽區銀河SOHO。 京東方面透露，該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。京東將透過AI大模型與具身智慧，依託咖啡茶飲消費場景，以AI技術實現場景賦能，這也是京東持續建設全球最大物理世界運營中心的組成部分。（新京報）
+
+---
+
+### 2026-08-16 17:04:36  #國際
+
+馬來西亞民主行動黨投票決定繼續留在安瓦爾·易卜拉欣內閣。
+
+---
+
+### 2026-08-16 17:03:59  #其他
+
+【2026新能源汽車下鄉活動長春站啟動】據中汽協訊息，8月15日，2026年新能源汽車下鄉活動——吉林長春站在長春農博園正式啟動。活動現場集中展示多款新能源車型，同步展出充電樁等配套設施，設定政策諮詢、以舊換新辦理、充電體驗、金融保險等一站式服務專區，並透過展板和講解清晰解讀購車補貼、申報流程等惠民政策，構建起覆蓋“看車—購車—用車”全鏈條的服務生態。此外，與長春站下鄉活動同步，長春市淨月高新區和南關區推出總額100萬元的汽車專項消費券補貼，進一步釋放區域汽車消費潛力，讓廣大城鄉居民在家門口享受實實在在的購車實惠。
+
+---
+
+### 2026-08-16 17:03:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【IDF says it killed senior Hezbollah commander】Israel Defense Forces (IDF) said on the 16th that a strike on the 15th in southern Lebanon killed Abu Hassan Arra, a senior commander of Hezbollah’s Badr Unit. The IDF said Arra was involved in planning and directing multiple attacks on IDF troops deployed in the southern Lebanon "security zone" and for years led several Hezbollah operational units that attacked Israeli soldiers and civilians.
+
+---
+
+### 2026-08-16 17:02:09  #MKT News #Important #Market Regions #Greater China
+
+【China summer 2026 box office tops 10 bln yuan】As of now, China’s 2026 summer-season film box office (including presales) has surpassed 10 bln yuan; daily box office has exceeded 100 mln yuan for 37 consecutive days.
 
 ---
 
@@ -18239,131 +18389,5 @@ KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were
 ### 2026-08-14 12:37:41  #Trading Economics #Economy #Malaysia #Current Account #Importance 1
 
 Malaysia Current Account Surplus Widens in Q2 — Malaysia’s current account surplus widened sharply to MYR 10.8 billion in the second quarter of 2026 from MYR 2.7 billion a year earlier, driven primarily by a substantial increase in the goods surplus. The goods surplus more than doubled to MYR 40.7 billion from MYR 16.0 billion a year ago, reflecting stronger external trade performance. Meanwhile, the services deficit rose slightly to MYR 0.7 billion from MYR 0.5 billion, mainly due to higher net outflows in travel, manufacturing services on physical inputs owned by others, and telecommunications, computer and information services, which more than offset increases in transport, insurance and pension services, and other business services. The primary income deficit widened sharply to MYR 27.2 billion from MYR 9.5 billion, as both investment income and compensation of employees recorded larger declines. The secondary income deficit narrowed to MYR 2.1 billion from MYR 3.2 billion.
-
----
-
-### 2026-08-14 12:37:26  #公司 #國際
-
-哈薩克輸油公司KazTransOil：7月哈薩克經裡海管道財團（CPC）管道出口石油27.1萬噸；7月哈薩克經俄羅斯烏斯季-盧加港出口石油28.6萬噸，經俄羅斯新羅西斯克港出口石油36萬噸；7月哈薩克經巴庫-第比利斯-傑伊漢（BTC）管道出口石油15.5萬噸。
-
----
-
-### 2026-08-14 12:37:08  #MKT News #Commodities #Energy
-
-KAZTRANSOIL said Kazakhstan's oil exports via the Baku-Tbilisi-Ceyhan pipeline were 155,000 tonnes in July.
-
----
-
-### 2026-08-14 12:36:47  #MKT News #Important #Commodities #Energy
-
-KAZTRANSOIL said Kazakhstan's oil exports via the CPC pipeline reached 271,000 tonnes in July.
-
----
-
-### 2026-08-14 12:36:45  #MKT News #Market Regions #Greater China
-
-【Dingdong Maicai to enter Hefei; plans 100+ new front warehouses in Yangtze River Delta by 2026】Dingdong Maicai will enter the Hefei market, opening three front warehouses in Baohe, Shushan and Yaohai districts. The company is densifying its Yangtze River Delta warehouse network and plans to add more than 100 front warehouses in the region by 2026.
-
----
-
-### 2026-08-14 12:35:53  #公司
-
-【叮咚買菜：將進駐合肥市場 今年長三角地區計劃新增超百個前置倉】8月14日，記者從公司獲悉，叮咚買菜將進駐合肥，首批3個前置倉同步落地包河、蜀山、瑤海三大城區。據介紹，叮咚買菜持續加密長三角倉網體系，2026年計劃再新增超100個前置倉。
-
----
-
-### 2026-08-14 12:35:34  #其他
-
-【閃迪預計到2030財年底將實現強勁增長】根據本週投資者日公佈的目標，閃迪預計到2030財年底，收入的年增長率將達到10%區間中高段水平。這家儲存晶片製造商概述了一項雄心勃勃的長期財務計劃，預測在2028財年至2030財年期間，平均毛利率約為80%，營業利潤率接近75%。預計調整後自由現金流利潤率約為50%，而資本支出預計將保持在佔收入中等個位數的百分比水平。閃迪表示，計劃優先發展更可靠的大批次業務，同時重點關注重視其產品的戰略客戶。
-
----
-
-### 2026-08-14 12:34:06  #其他
-
-【調查：新加坡7月份出口可能提速】根據接受媒體調查的五位經濟學家的預期中位數，新加坡7月份非石油國內出口可能增長26.50%，較6月份的20.7%有所加快。星展經濟學家在一份報告中表示，在對儲存晶片和伺服器相關產品強勁的人工智慧相關需求的支撐下，出口增長應會繼續由電子產品出貨量主導。他們補充說，在有利的基數效應下，非電子產品出口可能出現反彈，不過由於霍爾木茲海峽的持續干擾，石化產品出貨量預計將保持疲軟。該資料將於下週一公佈。
-
----
-
-### 2026-08-14 12:33:01  #公司
-
-【凌創電機：公司訂單已排到2028年】據南京釋出，一個“小圓盤”正在全球動力市場掀起巨浪，它叫“軸向磁通電機”，最近在中國實現首次規模化量產。在南京市江寧湯山度假區，剛成立4年的南京凌創電機技術有限公司（簡稱“凌創電機”），自主研發的軸向磁通電機也迎來新進展。目前，公司訂單已排到2028年，產品在手訂單金額突破1000萬元，一條自動化軸向磁通電機產線預計年底投用。據悉，隨著年底自動化軸向磁通電機產線的投用，公司電機產能將增加至2萬臺，預計到2028年迎來大規模生產，電機年產能預計達到10萬臺。
-
----
-
-### 2026-08-14 12:32:03  #其他
-
-市場訊息：北約擊落一架進入拉脫維亞領空的無人機。
-
----
-
-### 2026-08-14 12:29:44  #MKT News #Macro & Rates #CNH #Impact bullish
-
-【PBOC conducts 1 trillion yuan buyback reverse repo; experts say stance is prudent, mildly accommodative】The PBOC on Aug. 14 conducted a 1 trillion yuan buyback reverse repo via a fixed-amount, rate-bidding, multi-price tender. An equal 1 trillion yuan of six-month buyback reverse repos matured the same day, leaving outstanding buyback reverse repos at 6.3 trillion yuan. Oriental Jincheng chief macro analyst Wang Qing noted overnight money market rates (DR001) have traded below policy rates since Aug. 4, which may explain the decision not to expand the August 6M operation. CITIC Securities’ chief economist Mingming’s team said the large 6M rollover, combined with follow-up overnight reverse repos to protect liquidity, signals a prudent, mildly accommodative monetary policy orientation.
-
----
-
-### 2026-08-14 12:29:34  #國際
-
-【韓國總統李在明：政府將負責確保恢復“慰安婦”受害者名譽】8月14日是世界“慰安婦”紀念日，韓國總統李在明當天在韓政府舉行的紀念儀式上表示，“直到現在，否定歷史、損害受害者名譽的反人權行為仍在繼續”，韓國政府“將始終負責到底，確保每一位受害者的名譽和尊嚴得到完整恢復”。韓國政府當天在位於首爾龍山區的白凡金九紀念館舉行了“慰安婦”紀念日紀念儀式，韓國總統秘書室室長姜勳植在儀式上宣讀了李在明的致辭。李在明在致辭中指出，“銘記真相，守護受害者尊嚴，創造一個不再讓此類悲劇重演的世界，這是我們這些生活在當下的人所能給予的最大敬意”。（央視）
-
----
-
-### 2026-08-14 12:28:59  #市場
-
-澳大利亞S&P/ASX 200指數下跌1%，至9095.80。
-
----
-
-### 2026-08-14 12:26:47  #其他
-
-【尼泊爾西部山體滑坡致10人死亡2人失蹤 】尼泊爾西部羅爾帕縣警方13日通報，持續強降雨引發的山體滑坡造成10人死亡，另有2人下落不明。通報說，滑坡12日晚發生在羅爾帕縣一處偏遠丘陵地帶，當地一個小村落幾乎被夷為平地。當地警方發言人什雷斯塔告訴新華社記者，救援人員在滑坡現場找到5具遇難者遺體，另有5具遺體在數公里外的比烏坦縣被發現。警方表示，搜救工作仍在進行中，因受災區域位置偏遠，相關工作面臨較大困難。
-
----
-
-### 2026-08-14 12:26:32  #公司
-
-哈薩克石油運輸公司：7月份向UST-LUGA的原油出口量下降16.9%。
-
----
-
-### 2026-08-14 12:25:58  #其他
-
-市場訊息：蘋果專門針對中國市場訓練了一款AI模型，該AI模型的訓練得到阿里巴巴的支援。蘋果未來幾個月將在中國發布一套AI工具。
-
----
-
-### 2026-08-14 12:23:39  #其他
-
-【今明兩天南方部分地區降雨持續 浙江成為強降雨中心】中央氣象臺預計，今天南方地區降雨範圍廣，強降雨分佈較為分散，中央氣象臺今天上午10時繼續釋出暴雨黃色預警。預計，今天14時至明天14時，江蘇、安徽、上海、浙江、湖北等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨；上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。明天，華東地區普遍為中到大雨，浙江成為強降雨中心，局地有暴雨或大暴雨。
-
----
-
-### 2026-08-14 12:23:02  #其他
-
-西聯匯款與Intermex：已收到加州金融保護與創新部（DPFI）信函，暫停批准該項收購的延期申請。
-
----
-
-### 2026-08-14 12:22:02  #國際
-
-市場訊息：日本防衛大臣將於8月17日至21日訪問澳大利亞和印度。
-
----
-
-### 2026-08-14 12:21:26  #Trading Economics #Economy #Malaysia #GDP Annual Growth Rate #Importance 1
-
-Malaysia Q2 GDP Growth Stronger Than Initially Thought — Malaysia’s economy expanded by 6% year-on-year in Q2 2026, higher than the initially estimated 5.8% and picking up from 5.4% growth in Q1. Activity strongly rebounded in mining and quarrying (9.2% vs -2.1% in Q1), mainly driven by a sharp expansion in natural gas production (19.3%). Output also rose faster in manufacturing (7.3% vs 5.9%) and services (5.9% vs 5.6%). On the other hand, output growth slowed in construction (6.5% vs 7.7%), while agriculture contracted (-3.7% vs 2.6%), primarily due to declines in oil palm (-9.5%) and fishing (-4.4%). On the expenditure side, growth picked up in household consumption (4.8% vs 4.7%) and government spending (7.6% vs 4.1%). Net trade also contributed positively to GDP, as exports climbed 17% (vs 5.2%), while imports rose at a softer 13.9% (vs 4.6%). Meanwhile, growth slowed in gross fixed capital formation (4.6% vs 7.3%). On a quarterly basis, GDP expanded 2.5%, the strongest growth since Q2 2020, after stagnating in Q1.
-
----
-
-### 2026-08-14 12:20:11  #其他
-
-訊息人士稱，蘋果已專門針對中國市場訓練人工智慧模型。
-
----
-
-### 2026-08-14 12:19:49  #Trading Economics #Economy #Peru #Balance of Trade #Importance 1
-
-Peru Trade Surplus Expands in June — Peru’s trade surplus widened to USD 3,169 million in June from USD 2,795 million in the corresponding month of the previous year. Exports grew 23.4% year-on-year to USD 8,906 million, driven by higher sales of traditional products (30.2%), non-traditional products (1.2%), and other products (157.6%). Imports surged 29.7% to USD 5,737 million, led by increases in consumer goods (23.1%), supplies (27.1%), and capital goods (39.2%), while imports of other goods declined 30.7%. In the first half of the year, Peru recorded a trade surplus of USD 22,756 million, expanding sharply from USD 13,306 million in the same period last year. Exports totaled USD 56,438 million, 37.6% higher than a year earlier, while imports amounted to USD 33,682 million, an increase of 21.5%.
 
 ---

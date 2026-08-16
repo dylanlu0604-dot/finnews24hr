@@ -1,7 +1,343 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:00:59_
-_本檔包含 2925 則快訊，約 600970 字_
+_更新時間：2026-08-16 17:35:42_
+_本檔包含 2953 則快訊，約 600776 字_
+
+---
+
+### 2026-08-11 03:28:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump, when asked what would happen next in a war with Iran, said you will know soon.
+
+---
+
+### 2026-08-11 03:28:37  #市場 #焦點
+
+現貨黃金突破4390美元/盎司，日內漲1.14%。
+
+---
+
+### 2026-08-11 03:28:20  #國際
+
+國際原子能機構（IAEA）即將轉移存放在敘利亞一處秘密設施內的核材料。
+
+---
+
+### 2026-08-11 03:28:06  #國際
+
+美國就敘利亞秘密核設施促成一項協議。
+
+---
+
+### 2026-08-11 03:27:57  #MKT News
+
+Axios reports the International Atomic Energy Agency (IAEA) is set to remove nuclear material stored at a secret site in Syria.
+
+---
+
+### 2026-08-11 03:27:25  #國際
+
+特朗普表示，他的目標是降低自閉症發病率，同時承認“尚不完全清楚自閉症的確切致病原因”。
+
+---
+
+### 2026-08-11 03:27:13  #MKT News
+
+U.S. President Trump said Attorney General Branch will decide the future of weaponized funds.
+
+---
+
+### 2026-08-11 03:26:43  #國際
+
+特朗普：武器化基金的未來將由司法部長布蘭奇決定。
+
+---
+
+### 2026-08-11 03:26:25  #國際
+
+美國法官駁回司法部對印度億萬富翁高塔姆·阿達尼的刑事訴訟。
+
+---
+
+### 2026-08-11 03:26:15  #國際
+
+日本宇宙航空研究開發機構（JAXA）在鹿兒島縣種子島宇宙中心的吉信發射場發射一顆地理定位衛星。
+
+---
+
+### 2026-08-11 03:25:07  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
+
+President Trump said the US still has the ability to escalate the conflict with Iran and will demand Iran compensate for damages caused.
+
+---
+
+### 2026-08-11 03:24:45  #市場 #焦點
+
+現貨白銀突破66美元/盎司，日內漲3.92%。
+
+---
+
+### 2026-08-11 03:24:44  #焦點 #國際
+
+特朗普談伊朗問題：美國將要求伊朗賠償其所造成的損失。
+
+---
+
+### 2026-08-11 03:24:41  #MKT News #Commodities #Precious Metals
+
+Spot silver touched $66/oz, up 3.89% intraday.
+
+---
+
+### 2026-08-11 03:24:12  #國際
+
+特朗普談伊朗問題：我們仍有能力升級事態。
+
+---
+
+### 2026-08-11 03:24:03  #國際
+
+特朗普談伊朗：你們很快就會知道了。
+
+---
+
+### 2026-08-11 03:23:33  #國際
+
+特朗普正式簽署兒童疫苗接種建議相關行政令。
+
+---
+
+### 2026-08-11 03:22:51  #市場
+
+JBS股票恢復交易，下跌5%。
+
+---
+
+### 2026-08-11 03:22:10  #MKT News #XAUUSD #Impact bearish #Brent #S&P500 #Impact bullish
+
+Al Jazeera reported a U.S. State Department official said U.S.-mediated talks between Lebanon and Israel will continue in Rome early next month.
+
+---
+
+### 2026-08-11 03:21:33  #市場
+
+現貨黃金日內漲1%，現報4384.71美元/盎司。
+
+---
+
+### 2026-08-11 03:21:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold's intraday gain widened to 1.00%, trading at $4,384.81/oz.
+
+---
+
+### 2026-08-11 03:21:02  #市場
+
+紐約期金日內漲1%，現報4444.12美元/盎司。
+
+---
+
+### 2026-08-11 03:20:23  #其他
+
+現貨金漲近1%，報每盎司4,382.91美元。
+
+---
+
+### 2026-08-11 03:20:23  #MKT News
+
+【Todd Blanche sworn in as US attorney general】Todd Blanche was sworn in as US attorney general on Aug 10. President Trump announced on April 2 that Pam Bondi would no longer serve and that Blanche would act as attorney general. The White House submitted Blanche’s nomination to the Senate on June 8. The Senate confirmed him in the early hours of Aug 8 by a 50-49 vote.
+
+---
+
+### 2026-08-11 03:19:31  #市場
+
+紐約期銀日內漲4%，現報66.05美元/盎司。
+
+---
+
+### 2026-08-11 03:18:21  #MKT News #WTI #Impact bearish #Brent
+
+Iranian foreign ministry spokesman BAGHAEI said the country will not be "strangled" by measures such as economic sanctions that are already ineffective.
+
+---
+
+### 2026-08-11 03:17:48  #MKT News
+
+Iranian foreign ministry spokesman BAGHAEI said the U.S. Treasury Secretary had boasted of 'strangling' Iran with economic sanctions, which BAGHAEI said exposed Washington's coercive reliance on sanctions.
+
+---
+
+### 2026-08-11 03:17:21  #國際
+
+伊朗外交部發言人：數十年來，伊朗已經證明，不會被這些老調重彈的（制裁）手段扼殺。美國政客固守這一惡習，反而會親手葬送自己從這場自作自受的危機中體面脫身的僅剩機會。
+
+---
+
+### 2026-08-11 03:16:50  #宏觀 #國際
+
+伊朗外交部發言人：美國財政部長吹噓透過經濟制裁令伊朗窒息。這番說辭除了盡顯可悲之外，也赤裸裸證明美國對制裁有著病態般的執迷。每當華盛頓發現自己無力開展外交，就會退而訴諸制裁；而當制裁無法奏效時，便只會加碼制裁力度。這已然算不上政策，而是一種習慣；更危險的是，這種執迷已經取代了理性思考。
+
+---
+
+### 2026-08-11 03:15:25  #公司
+
+利比亞國家石油公司主席：一架無人機擊中扎維耶煉油廠的滿載燃料儲罐。週六還發生了另一起襲擊，但並未引發火災。
+
+---
+
+### 2026-08-11 03:14:46  #公司 #市場 #焦點 #國際
+
+【英偉達信用違約互換躍升 鉅額融資報道引發關注】一項衡量英偉達信用風險的指標躍升，創兩週來最大升幅，此前有報道稱，包括多家美國投資巨頭在內的一批機構接近與英偉達達成合作，擬為人工智慧基礎設施建設提供5000億美元融資。ICE Data Services資料顯示，英偉達債務的5年期信用違約互換價格週一一度升至77.215個基點，上漲約5.3個基點。英偉達此前已與AI生態系統內多家公司簽署價值數千億美元的協議，引發市場對這些協議具有迴圈交易性質以及估值被推高的擔憂。
+
+---
+
+### 2026-08-11 03:13:51  #國際
+
+【託德·布蘭奇宣誓就任美國司法部長】當地時間8月10日，託德·布蘭奇正式宣誓就任美國司法部長。特朗普4月2日宣佈，帕姆·邦迪不再擔任司法部長，由副部長布蘭奇代理。6月8日，美國白宮表示，總統特朗普向美國參議院提交託德·布蘭奇出任司法部長的提名。8月8日凌晨，美國參議院以50票贊成、49票反對的投票結果，確認託德·布蘭奇擔任司法部長。（央視新聞）
+
+---
+
+### 2026-08-11 03:13:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's parliament deputy speaker said the US must accept Iran's arrangements in the Strait of Hormuz, which have already established a new political and military order in the Persian Gulf.
+
+---
+
+### 2026-08-11 03:12:40  #國際
+
+伊朗議會副議長阿里·尼克扎德表示，美國必須接受伊朗在霍爾木茲海峽確立的相關安排，這些安排促成了波斯灣全新的政治與軍事格局。
+
+---
+
+### 2026-08-11 03:12:14  #MKT News
+
+Mehr news agency: Bushehr provincial governor said unexploded ordnance left from US and Israeli strikes will be cleared and destroyed near Bushehr airbase on Tuesday between 08:00 and 12:00 Iran local time. Explosions will be controlled detonations; residents need not be concerned.
+
+---
+
+### 2026-08-11 03:12:01  #宏觀 #國際
+
+【美政府自去年初以來已吊銷逾17.5萬份非移民簽證】美國國務院當地時間10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。
+
+---
+
+### 2026-08-11 03:10:15  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Cleveland Fed's Hammack: multiple rate hikes may be needed to curb inflation】Cleveland Fed President Hammack said inflation remains above target and the Fed may need multiple rate hikes to bring it down. She said a 25bp hike would not have a material economic impact but would not predict the number of moves or the terminal rate. Hammack judged the current 3.50%-3.75% policy range is not clearly restrictive and said businesses have not cut growth investment, arguing prompt action is preferable because delays make returning to 2% harder. She added the labor market shows no obvious problems and July payrolls will not change her inflation focus. Hammack dissented at July’s FOMC, preferring a 25bp increase, and said markets can only assist—not substitute for—Fed policy action.
+
+---
+
+### 2026-08-11 03:08:47  #國際
+
+美國衛生部長小羅伯特·肯尼迪：正在評估孕期接種的疫苗。
+
+---
+
+### 2026-08-11 03:08:20  #國際
+
+【烏克蘭空軍一架米格-29戰機墜毀】烏克蘭空軍當地時間10日在社交媒體發文說，當晚，烏空軍一架米格-29戰機在敖德薩州空域執行戰鬥任務時突發緊急狀況墜毀。烏空軍稱，初步調查結果顯示，該戰機在發射導彈時起火，隨後失控，飛行員彈射逃生並被送醫。事故原因還在進一步調查中。
+
+---
+
+### 2026-08-11 03:07:01  #市場 #焦點
+
+紐約期銀突破66美元/盎司，日內漲3.94%。
+
+---
+
+### 2026-08-11 03:02:42  #其他
+
+市場資訊：微軟希望在僅生產數萬個當前一代Maia人工智慧晶片後，大幅擴大該晶片的產能。
+
+---
+
+### 2026-08-11 03:02:31  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.07% at 25,966, trading a 29-point premium to the cash index.
+
+---
+
+### 2026-08-11 03:00:36  #國際
+
+特朗普：兒童疫苗仍將由保險承保。
+
+---
+
+### 2026-08-11 03:00:29  #國際
+
+【我國科學家首次揭示冰室氣候下極熱事件完整圖景】記者從中國科學院南京地質古生物研究所獲悉，該所晚古生代研究團隊要樂副研究員、王秋來副研究員牽頭與國內外科研機構合作，首次系統揭示了地球倒數第二次大冰期中一次極熱事件的完整圖景。研究顯示，在約3億年前的冰室氣候背景下，地球曾經歷過一次快速升溫事件，全球平均地表溫度升高約7.5℃，大氣CO2濃度飆升。相關成果近日在《美國國家科學院院刊》發表。（央視新聞）
+
+---
+
+### 2026-08-11 03:00:02  #市場
+
+恒指期貨夜盤收漲0.09%，報25971.30點，高水33.81點。
+
+---
+
+### 2026-08-11 02:59:07  #MKT News
+
+Trump said he will no longer recommend universal childhood vaccination against hepatitis B, COVID-19 and influenza.
+
+---
+
+### 2026-08-11 02:58:44  #國際
+
+特朗普：乙肝、新冠、流感等疫苗，不再建議所有兒童接種。
+
+---
+
+### 2026-08-11 02:58:12  #MKT News
+
+President Trump said the U.S. government recognizes only 11 core vaccines in its childhood immunization recommendations.
+
+---
+
+### 2026-08-11 02:57:29  #國際
+
+特朗普：政府僅認可 11 種核心疫苗的兒童接種建議。
+
+---
+
+### 2026-08-11 02:56:25  #MKT News
+
+President Trump announced US recommendations on childhood vaccinations, including a vaccine for autism.
+
+---
+
+### 2026-08-11 02:56:07  #國際
+
+美國總統特朗普宣佈“美國疫苗推薦”。
+
+---
+
+### 2026-08-11 02:56:05  #MKT News
+
+US President Trump signed an executive order on vaccines.
+
+---
+
+### 2026-08-11 02:52:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY
+
+【U.S. federal deficit for first 10 months of fiscal 2026 at $1.8 trillion】Aug 10 — The Congressional Budget Office estimates the U.S. federal budget deficit for the first 10 months of fiscal 2026 at $1.8 trillion, $169 billion wider YoY as receipts rose $139 billion (3%) while outlays rose $308 billion (5%).
+
+---
+
+### 2026-08-11 02:52:40  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $87.72/bbl, up $4.17 or 4.99%.
+
+---
+
+### 2026-08-11 02:52:16  #市場
+
+美元/日元上漲1%，報159.32。
+
+---
+
+### 2026-08-11 02:52:01  #MKT News
+
+【U.S. July average temperature highest on record since 1895】NOAA data show July was the hottest month on record for the contiguous U.S., with the lower 48 averaging 3.3°F above 20th-century levels. A prolonged, intense heat dome drove record monthly highs from the East Coast through the Great Plains and the Southwest; July’s nationwide average was roughly 0.1–0.2°F higher than previous record months in July 1936 and July 2012.
 
 ---
 
@@ -17457,173 +17793,5 @@ Yemen military source: Houthi forces attacked targets at Jabal al-Nar near Mokha
 ### 2026-08-09 17:37:53  #公司
 
 【渤海首個千億方大氣田一期專案全面投產，日產油氣當量超5200噸】澎湃新聞8月9日從中國海洋石油集團有限公司（下稱中國海油）獲悉，我國渤海首個千億方大氣田——渤中19-6氣田一期開發專案全面投產，日產油氣當量超5200噸。當前正值迎峰度夏關鍵時期，一期開發專案全面投產，可進一步滿足區域居民生活和工業生產的能源需求。渤中19-6氣田位於渤海中部海域，探明天然氣地質儲量超2000億立方米、探明石油液體地質儲量超2億立方米。該氣田埋藏深度超過5000米，油氣藏分佈廣闊但型別複雜，且潛山儲層裂縫密集。據中國海油天津公司工程技術作業中心相關負責人介紹，一期開發專案成功實施6000米以上超深井10口，創下渤海油田開發專案超深井井數紀錄，專案鑽井作業平均井深超5500米。（澎湃）
-
----
-
-### 2026-08-09 17:34:53  #其他 #焦點
-
-【颱風“白海豚”正式登陸】今年第13號颱風“白海豚”（強颱風級）的中心已於今天（9日）下午17時30分前後在浙江省台州玉環市坎門街道沿海登陸，登陸時中心附近最大風力有14級（42米/秒），中心最低氣壓945百帕。（央視新聞）
-
----
-
-### 2026-08-09 17:33:20  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-【Chief Executive John Lee targets publication of Hong Kong's first five-year plan in Q3】Chief Executive John Lee said the Hong Kong government aims to publish the city’s first five-year plan in Q3 this year. Lee reiterated a policy focus on expanding the property ladder and said the Northern Metropolis development will provide more space and improve living conditions. The public housing waiting list has fallen from a peak of about 150,000 to roughly 100,000—a one-third decline—the government attributes this to large-scale construction of public rental housing and Home Ownership Scheme (HOS) units.
-
----
-
-### 2026-08-09 17:29:08  #其他
-
-【李家超：目標第三季度內發表香港第一個五年規劃】香港特區行政長官李家超9日表示，特區政府正馬不停蹄地整理和分析意見，目標在今年第三季度內發表香港第一個五年規劃。 當日，李家超率領特區政府司局長出席香港第一個五年規劃及2026年施政報告地區諮詢會，聽取地區人士對香港五年規劃、行政長官第五份施政報告的意見和建議。諮詢會在九龍塘官立小學舉行，約120位市民出席。 李家超說，特區政府一直致力豐富置業階梯，隨著北部都會區發展，有助提供更多空間及改善居住環境。公屋輪候人數已由高峰期的15萬人降至約10萬人，跌幅達三分之一，反映特區政府大量興建公屋及居屋帶動單位流轉見到成效。 李家超在地區諮詢會後會見傳媒表示，相信市民非常關注皇崗口岸何時可以正式運作，讓市民使用。他的立場是清晰的：越早越好。當然，公開讓市民使用，要確保其運作暢順、安全、有序，讓大家有良好的體驗。特區政府將進行大量測試。（新華社）
-
----
-
-### 2026-08-09 17:25:34  #MKT News #Macro & Rates #The Fed (FOMC) #Market Regions #Greater China #Market Themes #Chip Wars #CSI300 #Impact mixed #SSE Composite #Hang Seng Index
-
-【Galaxy Securities: A-share market shifting from 'expectation game' to 'reality check'】Galaxy Securities says August is seeing a shift in the A-share market from expectation-driven trading to reality testing, centered on three verification lines: earnings, policy and external risk. Earnings: mid–late August is the busiest window for A-share half-year report disclosures and should drive pricing around H1 results versus expectations. Policy: the July Politburo meeting set H2 economic tasks; markets will move to test policy detail issuance and execution. External risk: the Fed's policy path remains the primary global market focus. Recommendation: maintain balanced positioning. Sector focus — secular/tech winners: semiconductors and supply chain (memory chips; semiconductor equipment & materials; advanced packaging), components, communications equipment, energy storage/power infrastructure, humanoid robots, commercial aerospace. Defensive core: coal, coal chemicals, financials, utilities, new energy. Cyclicals/resources likely to recover: nonferrous metals, basic chemicals, building materials, steel.
-
----
-
-### 2026-08-09 17:25:00  #公司 #市場
-
-【益生股份：預計2026年下半年至2027年商品代雞苗市場行情較好】益生股份在機構調研時表示，從供給端看，2025年我國祖代白羽肉雞全年進口量同比下降超過10%，疊加2026年1—5月國內引種再度中斷，祖代種雞的減少將影響14個月以後商品代雞苗的供給，預計未來優質商品代雞苗供給偏緊，市場價格行情向好；從需求端看，下游屠宰與養殖環節持續擴產，行業產能擴張意願強烈，雞苗需求量持續增加。同時市場普遍預期2027年豬肉價格回升，有望帶動雞肉價格上漲，進而傳導至商品代雞苗環節。綜上，公司預計2026年下半年至2027年商品代雞苗市場行情較好。
-
----
-
-### 2026-08-09 17:23:05  #宏觀 #央行 #國際
-
-【銀河證券：A股市場正從“預期博弈”轉向“現實驗證”】銀河證券研報表示，8月A股市場正從“預期博弈”轉向“現實驗證”，圍繞業績、政策、外圍風險三大線索展開。一是業績驗證。8月中下旬是A股中報披露最密集的視窗，市場有望圍繞中報業績預期驗證展開定價。二是政策驗證。7月政治局會議對下半年經濟工作做出部署，後續進入政策細則出臺與執行驗證階段。三是外圍風險驗證。美聯儲政策路徑仍是全球市場關注焦點。建議均衡配置。關注一：科技景氣與產業趨勢未改。關注半導體及產業鏈（儲存晶片、半導體裝置與材料、先進封裝）、元件、通訊裝置、儲能/電力配套、人形機器人、商業航天等。關注二：重視防禦性底倉的配置價值。關注煤炭、煤化工、金融、公用事業、新能源等。輔助線：資源品與週期製造板塊有望迎來修復。關注有色金屬、基礎化工、建築材料、鋼鐵板塊等。
-
----
-
-### 2026-08-09 17:21:46  #MKT News #Star Stocks #Apple #Alibaba #Market Themes #Magnificent 7
-
-【Apple removes support doc referencing Alibaba Qwen model; says integration not implemented】A support document titled Using Qianwen with Apple Intelligence on Mac briefly appeared in Apple’s Mac Simplified Chinese user guide and said Apple Intelligence could work with Alibaba’s Qwen model. The page was removed on Aug. 9 and reverted to the prior Using ChatGPT with Apple Intelligence version. Apple customer support said staff were not notified of any such feature and that integration is not implemented; rollout will take additional time.
-
----
-
-### 2026-08-09 17:19:45  #其他
-
-市場訊息：胡塞武裝襲擊沙特僱傭兵陣地。
-
----
-
-### 2026-08-09 17:19:00  #市場 #觀點
-
-【東吳證券：大盤底部蓄勢，新一輪行情將徐徐展開】東吳證券研報表示，在經歷了7月的風格調整後，短期A股風格的再平衡，本質上是內生交易擁擠與外圍市場聯動共同驅動的資金面修正，而非產業趨勢證偽，再從市場波動、股價位置、擁擠度、融資四個維度觀察當前市場的狀態。當前市場已經進入降波築底的階段，而接下來8月的業績期將是關鍵的變奏點，AI主線有望再度走強。此外，其他景氣線索也值得關注：創新藥/CXO，業績、政策等多因素共振，景氣持續上修；電力裝置，電網、電源等環節具備出海優勢；有色金屬，降息預期再度升溫，金、銅價格修復。
-
----
-
-### 2026-08-09 17:18:53  #其他
-
-葉門媒體：防空系統在摩卡港上空攔截了胡塞武裝的無人機。
-
----
-
-### 2026-08-09 17:13:40  #MKT News
-
-Al Jazeera cited Yemeni government media as saying Houthi forces again bombed the government-controlled Mokha port.
-
----
-
-### 2026-08-09 17:13:09  #其他
-
-俄國防部表示，防空系統在一天內擊落了970架烏軍無人機和10枚制導航空炸彈。
-
----
-
-### 2026-08-09 17:11:03  #MKT News
-
-RIA: Russia's defence ministry said Russian forces control Vasukinsk and Toretsk in eastern Ukraine.
-
----
-
-### 2026-08-09 17:10:48  #其他
-
-葉門媒體：胡塞武裝再次對政府軍控制下的摩卡港發動炮擊。
-
----
-
-### 2026-08-09 17:10:17  #國際
-
-俄羅斯國防部：俄軍已控制烏克蘭東部的託列茨克。
-
----
-
-### 2026-08-09 17:09:38  #國際
-
-俄羅斯國防部：俄軍控制烏克蘭東部的瓦休廷斯克。
-
----
-
-### 2026-08-09 17:05:14  #公司
-
-【頻準鐳射：網上發行最終中籤率為0.0201%】頻準鐳射8月9日公告，回撥機制啟動後，網上發行最終中籤率為0.0201%。
-
----
-
-### 2026-08-09 17:05:11  #其他
-
-【颱風逼近，26名中外船員在浙江舟山緊急轉移避險】隨著颱風“白海豚”逼近，浙江舟山等沿海地區海上風力持續攀升，多部門嚴陣以待。在與風雨競速中，8月8日，舟山邊檢站聯合海事等部門開啟綠色通道，爭分奪秒協助26名中外船員緊急上岸避險，用速度守護船員的生命安全。 7日晚，一艘巴拿馬籍冷藏船載著35名船員，原計劃駛入舟山惠群碼頭開展卸貨作業。受颱風外圍環流影響，海面風浪驟起，船舶只能臨時前往馬峙錨地南側非開放海域錨泊避風。 隨著颱風預警升級，海上風力不斷增強，船方接到安全通知：船上人員密集，錨地水域風浪風險加劇，必須儘快轉移26名船員（其中4名外籍船員、22名中國籍船員）下地安置，規避極端天氣帶來的安全隱患。緊急求助資訊第一時間傳到舟山邊檢站。（新華社）
-
----
-
-### 2026-08-09 17:03:16  #國際
-
-【俄羅斯別爾哥羅德市遭襲 已致3死5傷】當地時間9日，俄羅斯別爾哥羅德州代理州長舒瓦耶夫通報稱，當天凌晨，烏軍對別爾哥羅德市發動襲擊，目前已造成3人死亡、5人受傷。舒瓦耶夫稱，過去24小時內，烏軍對該州發動了146次襲擊，共有162架無人機被擊落或壓制。烏克蘭方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-08-09 17:03:11  #公司 #市場
-
-【納指ETF匯添富：提示交易價格溢價風險並實施臨時停牌】納指ETF匯添富公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月7日，收盤價為2.393元，收盤時基金份額參考淨值為2.1724 元。為保護投資者利益，本基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-08-09 17:03:04  #公司 #市場
-
-【納指科技ETF景順：二級市場溢價交易 8月10日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月7日收盤價為2.843元，收盤時IOPV為2.2800元。為保護投資者利益，基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-08-09 17:03:00  #公司 #市場
-
-【納指ETF廣發：二級市場價格溢價 8月10日停牌後復牌】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月7日收盤價為1.687元，收盤時基金份額參考淨值為1.4891元。為保護投資者利益，基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月10日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。
-
----
-
-### 2026-08-09 17:02:53  #公司 #市場
-
-【原油LOF易方達：提示交易價格溢價風險並公佈停復牌安排】原油LOF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價，8月7日收盤價為1.830元，截至8月5日基金份額淨值為1.5168元。為保護投資者利益，基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月10日溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-08-09 17:02:50  #公司 #市場
-
-【納斯達克100ETF招商：提示溢價風險並將實施臨時停牌】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月7日收盤價為2.366元，收盤時IOPV為2.1471元。為保護投資者利益，基金將於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，有權申請盤中臨時停牌等措施。
-
----
-
-### 2026-08-09 17:02:45  #公司 #市場
-
-【國投白銀LOF：提示交易溢價風險並將停牌復牌】國投白銀LOF公告稱，近期該基金A類份額二級市場交易價格明顯高於基金份額淨值，8月7日收盤價為2.185元，截至8月6日淨值為1.7204元。為保護投資者利益，基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月10日溢價幅度未有效回落，基金有權採取進一步停牌措施。基金主要投資白銀期貨，提醒投資者關注風險，謹慎決策。
-
----
-
-### 2026-08-09 17:02:43  #公司 #市場
-
-【納指ETF易方達：提示交易價格溢價風險及停復牌安排】納指ETF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月7日收盤價為2.053元，收盤時基金份額參考淨值為1.8504元。為保護投資者利益，基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月10日溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-08-09 17:02:40  #公司 #市場
-
-【納指ETF嘉實：二級市場交易價格溢價 8月10日停牌後復牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格高於基金份額參考淨值，出現較大幅度溢價，2026年8月7日收盤價為2.103元，收盤時基金份額參考淨值為1.8671元。為保護投資者利益，基金於8月10日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。
-
----
-
-### 2026-08-09 17:02:00  #其他
-
-胡塞武裝：即將釋出重要宣告。
 
 ---

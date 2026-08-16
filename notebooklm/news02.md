@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:00:59_
-_本檔包含 3150 則快訊，約 601185 字_
+_更新時間：2026-08-16 17:35:42_
+_本檔包含 3152 則快訊，約 601188 字_
+
+---
+
+### 2026-08-14 12:37:26  #公司 #國際
+
+哈薩克輸油公司KazTransOil：7月哈薩克經裡海管道財團（CPC）管道出口石油27.1萬噸；7月哈薩克經俄羅斯烏斯季-盧加港出口石油28.6萬噸，經俄羅斯新羅西斯克港出口石油36萬噸；7月哈薩克經巴庫-第比利斯-傑伊漢（BTC）管道出口石油15.5萬噸。
+
+---
+
+### 2026-08-14 12:37:08  #MKT News #Commodities #Energy
+
+KAZTRANSOIL said Kazakhstan's oil exports via the Baku-Tbilisi-Ceyhan pipeline were 155,000 tonnes in July.
+
+---
+
+### 2026-08-14 12:36:47  #MKT News #Important #Commodities #Energy
+
+KAZTRANSOIL said Kazakhstan's oil exports via the CPC pipeline reached 271,000 tonnes in July.
+
+---
+
+### 2026-08-14 12:36:45  #MKT News #Market Regions #Greater China
+
+【Dingdong Maicai to enter Hefei; plans 100+ new front warehouses in Yangtze River Delta by 2026】Dingdong Maicai will enter the Hefei market, opening three front warehouses in Baohe, Shushan and Yaohai districts. The company is densifying its Yangtze River Delta warehouse network and plans to add more than 100 front warehouses in the region by 2026.
+
+---
+
+### 2026-08-14 12:35:53  #公司
+
+【叮咚買菜：將進駐合肥市場 今年長三角地區計劃新增超百個前置倉】8月14日，記者從公司獲悉，叮咚買菜將進駐合肥，首批3個前置倉同步落地包河、蜀山、瑤海三大城區。據介紹，叮咚買菜持續加密長三角倉網體系，2026年計劃再新增超100個前置倉。
+
+---
+
+### 2026-08-14 12:35:34  #其他
+
+【閃迪預計到2030財年底將實現強勁增長】根據本週投資者日公佈的目標，閃迪預計到2030財年底，收入的年增長率將達到10%區間中高段水平。這家儲存晶片製造商概述了一項雄心勃勃的長期財務計劃，預測在2028財年至2030財年期間，平均毛利率約為80%，營業利潤率接近75%。預計調整後自由現金流利潤率約為50%，而資本支出預計將保持在佔收入中等個位數的百分比水平。閃迪表示，計劃優先發展更可靠的大批次業務，同時重點關注重視其產品的戰略客戶。
+
+---
+
+### 2026-08-14 12:34:06  #其他
+
+【調查：新加坡7月份出口可能提速】根據接受媒體調查的五位經濟學家的預期中位數，新加坡7月份非石油國內出口可能增長26.50%，較6月份的20.7%有所加快。星展經濟學家在一份報告中表示，在對儲存晶片和伺服器相關產品強勁的人工智慧相關需求的支撐下，出口增長應會繼續由電子產品出貨量主導。他們補充說，在有利的基數效應下，非電子產品出口可能出現反彈，不過由於霍爾木茲海峽的持續干擾，石化產品出貨量預計將保持疲軟。該資料將於下週一公佈。
+
+---
+
+### 2026-08-14 12:33:01  #公司
+
+【凌創電機：公司訂單已排到2028年】據南京釋出，一個“小圓盤”正在全球動力市場掀起巨浪，它叫“軸向磁通電機”，最近在中國實現首次規模化量產。在南京市江寧湯山度假區，剛成立4年的南京凌創電機技術有限公司（簡稱“凌創電機”），自主研發的軸向磁通電機也迎來新進展。目前，公司訂單已排到2028年，產品在手訂單金額突破1000萬元，一條自動化軸向磁通電機產線預計年底投用。據悉，隨著年底自動化軸向磁通電機產線的投用，公司電機產能將增加至2萬臺，預計到2028年迎來大規模生產，電機年產能預計達到10萬臺。
+
+---
+
+### 2026-08-14 12:32:03  #其他
+
+市場訊息：北約擊落一架進入拉脫維亞領空的無人機。
+
+---
+
+### 2026-08-14 12:29:44  #MKT News #Macro & Rates #CNH #Impact bullish
+
+【PBOC conducts 1 trillion yuan buyback reverse repo; experts say stance is prudent, mildly accommodative】The PBOC on Aug. 14 conducted a 1 trillion yuan buyback reverse repo via a fixed-amount, rate-bidding, multi-price tender. An equal 1 trillion yuan of six-month buyback reverse repos matured the same day, leaving outstanding buyback reverse repos at 6.3 trillion yuan. Oriental Jincheng chief macro analyst Wang Qing noted overnight money market rates (DR001) have traded below policy rates since Aug. 4, which may explain the decision not to expand the August 6M operation. CITIC Securities’ chief economist Mingming’s team said the large 6M rollover, combined with follow-up overnight reverse repos to protect liquidity, signals a prudent, mildly accommodative monetary policy orientation.
+
+---
+
+### 2026-08-14 12:29:34  #國際
+
+【韓國總統李在明：政府將負責確保恢復“慰安婦”受害者名譽】8月14日是世界“慰安婦”紀念日，韓國總統李在明當天在韓政府舉行的紀念儀式上表示，“直到現在，否定歷史、損害受害者名譽的反人權行為仍在繼續”，韓國政府“將始終負責到底，確保每一位受害者的名譽和尊嚴得到完整恢復”。韓國政府當天在位於首爾龍山區的白凡金九紀念館舉行了“慰安婦”紀念日紀念儀式，韓國總統秘書室室長姜勳植在儀式上宣讀了李在明的致辭。李在明在致辭中指出，“銘記真相，守護受害者尊嚴，創造一個不再讓此類悲劇重演的世界，這是我們這些生活在當下的人所能給予的最大敬意”。（央視）
+
+---
+
+### 2026-08-14 12:28:59  #市場
+
+澳大利亞S&P/ASX 200指數下跌1%，至9095.80。
+
+---
+
+### 2026-08-14 12:26:47  #其他
+
+【尼泊爾西部山體滑坡致10人死亡2人失蹤 】尼泊爾西部羅爾帕縣警方13日通報，持續強降雨引發的山體滑坡造成10人死亡，另有2人下落不明。通報說，滑坡12日晚發生在羅爾帕縣一處偏遠丘陵地帶，當地一個小村落幾乎被夷為平地。當地警方發言人什雷斯塔告訴新華社記者，救援人員在滑坡現場找到5具遇難者遺體，另有5具遺體在數公里外的比烏坦縣被發現。警方表示，搜救工作仍在進行中，因受災區域位置偏遠，相關工作面臨較大困難。
+
+---
+
+### 2026-08-14 12:26:32  #公司
+
+哈薩克石油運輸公司：7月份向UST-LUGA的原油出口量下降16.9%。
+
+---
+
+### 2026-08-14 12:25:58  #其他
+
+市場訊息：蘋果專門針對中國市場訓練了一款AI模型，該AI模型的訓練得到阿里巴巴的支援。蘋果未來幾個月將在中國發布一套AI工具。
+
+---
+
+### 2026-08-14 12:23:39  #其他
+
+【今明兩天南方部分地區降雨持續 浙江成為強降雨中心】中央氣象臺預計，今天南方地區降雨範圍廣，強降雨分佈較為分散，中央氣象臺今天上午10時繼續釋出暴雨黃色預警。預計，今天14時至明天14時，江蘇、安徽、上海、浙江、湖北等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨；上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。明天，華東地區普遍為中到大雨，浙江成為強降雨中心，局地有暴雨或大暴雨。
+
+---
+
+### 2026-08-14 12:23:02  #其他
+
+西聯匯款與Intermex：已收到加州金融保護與創新部（DPFI）信函，暫停批准該項收購的延期申請。
+
+---
+
+### 2026-08-14 12:22:02  #國際
+
+市場訊息：日本防衛大臣將於8月17日至21日訪問澳大利亞和印度。
+
+---
+
+### 2026-08-14 12:21:26  #Trading Economics #Economy #Malaysia #GDP Annual Growth Rate #Importance 1
+
+Malaysia Q2 GDP Growth Stronger Than Initially Thought — Malaysia’s economy expanded by 6% year-on-year in Q2 2026, higher than the initially estimated 5.8% and picking up from 5.4% growth in Q1. Activity strongly rebounded in mining and quarrying (9.2% vs -2.1% in Q1), mainly driven by a sharp expansion in natural gas production (19.3%). Output also rose faster in manufacturing (7.3% vs 5.9%) and services (5.9% vs 5.6%). On the other hand, output growth slowed in construction (6.5% vs 7.7%), while agriculture contracted (-3.7% vs 2.6%), primarily due to declines in oil palm (-9.5%) and fishing (-4.4%). On the expenditure side, growth picked up in household consumption (4.8% vs 4.7%) and government spending (7.6% vs 4.1%). Net trade also contributed positively to GDP, as exports climbed 17% (vs 5.2%), while imports rose at a softer 13.9% (vs 4.6%). Meanwhile, growth slowed in gross fixed capital formation (4.6% vs 7.3%). On a quarterly basis, GDP expanded 2.5%, the strongest growth since Q2 2020, after stagnating in Q1.
+
+---
+
+### 2026-08-14 12:20:11  #其他
+
+訊息人士稱，蘋果已專門針對中國市場訓練人工智慧模型。
+
+---
+
+### 2026-08-14 12:19:49  #Trading Economics #Economy #Peru #Balance of Trade #Importance 1
+
+Peru Trade Surplus Expands in June — Peru’s trade surplus widened to USD 3,169 million in June from USD 2,795 million in the corresponding month of the previous year. Exports grew 23.4% year-on-year to USD 8,906 million, driven by higher sales of traditional products (30.2%), non-traditional products (1.2%), and other products (157.6%). Imports surged 29.7% to USD 5,737 million, led by increases in consumer goods (23.1%), supplies (27.1%), and capital goods (39.2%), while imports of other goods declined 30.7%. In the first half of the year, Peru recorded a trade surplus of USD 22,756 million, expanding sharply from USD 13,306 million in the same period last year. Exports totaled USD 56,438 million, 37.6% higher than a year earlier, while imports amounted to USD 33,682 million, an increase of 21.5%.
 
 ---
 
@@ -18855,119 +18981,5 @@ Melius Research raises Cisco (CSCO.O) PT to $160 from $145.
 ### 2026-08-13 11:03:52  #宏觀 #公司
 
 【四川核能產業將迎建設運“雙高峰”】日前，國務院常務會議決定核准浙江金七門核電二期等4個核電專案共8臺機組。這是繼去年核准5個核電專案後，我國核電行業迎來的又一個大動作。華龍一號具有鮮明的“四川基因”，四川在研發設計、裝備製造等方面均有深度參與。 先看研發設計端，華龍一號的“心臟”——反應堆及一回路系統，由位於成都的中國核動力研究設計院研發設計。再看裝備製造端，也有不少“四川身影”。在德陽，國機重灌二重灌備已實現核主泵泵殼國產化，為華龍一號披上“超級合金盔甲”，當前正聚焦華龍一號2.0版，瞄準主裝置融合、技術檔案審查、國內標準應用等方向持續攻堅。東方電氣集團所屬企業深度參與核島和常規島主裝置供貨，包括反應堆冷卻劑泵、汽輪發電機組等。德陽九鼎電氣主要承製常規島部分的汽輪機低壓外缸等大型結構件。 在成都都江堰市，四川華都核裝置製造有限公司是國核心反應堆控制棒驅動機構領域龍頭企業，市場佔有率名列前茅。目前，全國多臺華龍一號機組的控制棒驅動機構由該公司承製。 聚焦核燃料環節，位於宜賓的中核建中核燃料元件有限公司負責CF3燃料元件製造，實現“成都研發設計”與“宜賓生產製造”產業鏈聯動。 此外，創新平臺也將持續發揮支撐作用。位於成都的先進核能裝備中試研發平臺，是連線研發與量產的“橋樑”。隨著華龍一號2.0版新技術、新材料、新工藝的應用需求增加，該平臺將繼續為高校、科研院所和企業提供關鍵中試驗證服務，助力四川核能產業持續增長。（四川日報）
-
----
-
-### 2026-08-13 11:03:36  #國際
-
-印尼基準股指跌幅一度達到1.5%，報6281.572點。
-
----
-
-### 2026-08-13 11:02:56  #公司
-
-【小馬智行在佛山新設科技公司 含智慧機器人研發業務】企查查APP顯示，近日，佛山小馬智行科技有限公司成立，法定代表人為莫璐怡，註冊資本為2000萬元，經營範圍包含新材料技術研發；智慧機器人的研發；人工智慧應用軟體開發；人工智慧硬體銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由小馬智行關聯公司廣州小馬智行科技有限公司全資持股。
-
----
-
-### 2026-08-13 11:02:47  #其他
-
-【第二屆世界人形機器人運動會將舉行51個專案1301場比賽】第二屆世界人形機器人運動會將於8月22日在國家速滑館“冰絲帶”開幕，本屆運動會由北京市人民政府、中央廣播電視總檯等聯合主辦。△資料圖與首屆運動會相比，第二屆世界人形機器人運動會的競賽專案、參賽隊伍全面提質擴容，本屆運動會正賽將於8月22日至26日在國家速滑館“冰絲帶”舉行，共5天時間。按照賽程安排，將舉行51個專案共1301場比賽。賽期從首屆運動會的3天6個競賽單元增加到5天9個單元，時間由上午和下午調整為下午和晚上，每個單元各3個小時。
-
----
-
-### 2026-08-13 11:02:32  #央行 #中國央行
-
-【央行連續三日7天期逆回購操作量為零 中期流動性投放成關鍵觀察視窗】自8月11日以來，央行已連續三個交易日7天期逆回購操作量為零。從此前地量操作到連續“零投放”，公開市場操作變化引發債券市場關注。多家機構認為，當前尚不能僅憑7天期逆回購連續零投放判斷貨幣政策取向發生變化，後續中期流動性工具投放規模、大行融出情況以及資金價格走勢，將成為觀察央行流動性管理態度的重要視窗。
-
----
-
-### 2026-08-13 11:02:18  #宏觀
-
-【“十五五”時期生態環境監測和執法將大力推進數智化轉型】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期，生態環境部圍繞監測、執法，將採取更大力度推進數智化轉型，進一步提升生態環境監管的質效。會上介紹，生態環境部將對大氣、水、海洋等傳統領域，全面實施數智化升級工程，推進國控站點儀器裝置的智慧化更新改造。在大氣方面，將加大人工智慧預測模型應用，升級空氣質量預報平臺，預計到2030年，全國72小時PM2.5超標天預報準確率將提升至80%以上。在水方面，將新建一批自動取樣站，組建海洋無人船編隊，全面革新傳統監測作業模式。在固體廢物、新汙染物等新興領域，將加快新技術、新模式的應用推廣。如利用米級和亞米級衛星開展常態化遙感排查，精準鎖定固廢違法堆放點位。新汙染物監測則依託現有的地表水、海洋等監測站點，同步取樣送樣，以較低成本實現多介質、多指標監測的協同增效。
-
----
-
-### 2026-08-13 11:01:56  #其他
-
-VINGROUP：票息上限為年利率8%，視市場情況而定。
-
----
-
-### 2026-08-13 11:01:49  #其他
-
-VINGROUP：預計2026年第三至第四季度發行韓元債券，尚待批准
-
----
-
-### 2026-08-13 11:01:46  #MKT News
-
-RBNZ survey: New Zealand Q3 two-year average inflation expectations at 2.34%.
-
----
-
-### 2026-08-13 11:01:32  #公司 #國際
-
-越南企業集團Vingroup計劃面向韓國投資者私募發行規模最高達4550億韓元（合3.214億美元）、以韓元計價的3年期普通債券。
-
----
-
-### 2026-08-13 11:01:29  #MKT News
-
-RBNZ survey: New Zealand Q3 one-year-ahead average inflation expectations at 2.6%.
-
----
-
-### 2026-08-13 11:01:19  #市場
-
-【醫藥商業板塊拉昇，藥易購漲超13%】醫藥商業板塊拉昇，藥易購漲超13%，百洋醫藥、人民同泰、華人健康、建發致新、漱玉平民跟漲。
-
----
-
-### 2026-08-13 11:00:51  #其他
-
-紐西蘭三季度2年通脹預期 2.34%，前值 2.53%。
-
----
-
-### 2026-08-13 11:00:39  #國際
-
-【中泰警方聯合偵破一起跨國信用卡盜刷案】近日，公安部與泰國皇家警察總署密切協作，同步對一起專門針對中國公民的重大跨國信用卡盜刷案開展收網行動，摧毀多個犯罪窩點，分別抓獲4名中國籍犯罪嫌疑人和5名泰國籍犯罪嫌疑人，取得重大戰果。2025年，公安部經偵局指導協調上海公安經偵部門研判發現一個針對我國公民實施信用卡盜刷的跨國犯罪團伙，並及時將案件情況和協查請求通報泰國警方，開展國際執法合作。經查，2024年，犯罪嫌疑人計某與肖某共謀，由計某在泰國開設果乾店為幌子，以使用銀聯卡消費打折為誘餌，非法獲取受害人信用卡資訊。隨後，由肖某製作偽卡，招募刷手實施盜刷和銷贓牟利。截至目前，已查明涉案金額達500餘萬元人民幣。今年7月初，公安部派工作組赴泰國，與泰警方開展聯合辦案，精準研判該犯罪團伙組織架構、核心骨幹、作案窩點，全面掌握其作案模式和資金流向。近日，兩國警方同步開展收網，實現案件全環節部署、全要素蒐證、全鏈條打擊。公安部有關負責人表示，此次收網系中泰兩國警方近年來在打擊經濟犯罪領域首次同步開展的聯合執法行動，有效震懾了跨國經濟犯罪活動。下步，雙方將持續鞏固本次聯合行動成果，探索建立打擊跨境經濟犯罪常態化協作機制，不斷深化線索共享、經驗互通、聯合研判、追逃追贓等執法合作。
-
----
-
-### 2026-08-13 11:00:24  #市場
-
-【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%】TrendForce資料顯示，8月13日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.42%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。
-
----
-
-### 2026-08-13 10:58:49  #公司 #市場
-
-【重大資產重組，股價4天翻倍，藍盾光電回應】8月13日，藍盾光電再度“20CM”一字漲停開盤，實現4連板，自8月10日復牌以來，該股4個交易日累計漲幅已達107.31%，實現翻倍。針對股價持續漲停一事，記者以投資者身份致電藍盾光電，接線工作人員回應，相關事項資訊均以已披露公告為準，本次併購重組尚處於前期階段；若無特殊事項，後續暫無停牌安排，股票正常交易，本次交易對上市公司業績的影響目前無法作出答覆。(21世紀經濟報道)
-
----
-
-### 2026-08-13 10:58:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yield climbed to around 2.86% on Thursday, reaching its highest level in more than a month as markets assessed the likelihood of a Bank of Japan interest rate hike in September after a growing number of policymakers called for a stronger response to mounting inflation pressures. Meanwhile, producer prices in Japan continued to rise at an elevated pace in July, keeping cost pressures on companies high. Producer inflation rose 7.2% in July, easing slightly from 7.3% in June, which was the highest level since March 2023. The BOJ recently attributed the rise in producer prices partly to higher oil costs following the Middle East conflict, along with increases in nonferrous metal and machinery prices amid stronger global demand linked to the artificial intelligence boom. Tight labor market conditions have also continued to drive wage pressures as companies compete to attract and retain workers.
-
----
-
-### 2026-08-13 10:58:33  #Trading Economics #Markets #Commodity #Importance 1
-
-Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects.
-
----
-
-### 2026-08-13 10:55:58  #其他
-
-【國電電力廊坊熱電二期4號機組透過168小時試執行】據國電電力公眾號訊息，8月12日23時55分，國電電力廊坊熱電二期2×350MW等容量替代專案4號機組高標準透過168小時滿負荷試執行，各項效能指標達到設計要求，正式轉入商業執行。至此，廊坊熱電二期專案實現全容量投產。
-
----
-
-### 2026-08-13 10:54:54  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
-
-【Reserve Bank of Australia assistant governor says policy currently contractionary】Reserve Bank of Australia Assistant Governor Chris Kent said monetary policy is currently contractionary, with three rate rises earlier this year now restraining the economy. Borrowing costs and mortgage repayments have risen, the mature housing market has weakened, and the AUD’s year-to-date appreciation has amplified the effect. Kent said evidence suggests overall demand growth appears to be slowing — a development policymakers want and see as necessary to bring inflation back to target.
 
 ---
