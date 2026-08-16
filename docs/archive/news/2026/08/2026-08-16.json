@@ -1,7 +1,27 @@
 {
   "date": "2026-08-16",
-  "count": 316,
+  "count": 318,
   "items": [
+    {
+      "id": "mkt:01a00915-b7e5-7aab-904c-849dc828f671",
+      "time": "2026-08-16 13:40:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon."
+    },
+    {
+      "id": "5042624",
+      "time": "2026-08-16 13:38:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。"
+    },
     {
       "id": "mkt:01a00913-b140-7aab-904c-7c6c066f4775",
       "time": "2026-08-16 13:38:00",
