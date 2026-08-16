@@ -1,7 +1,15 @@
 {
   "date": "2026-08-17",
-  "count": 98,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:01a00c0b-e99e-7aab-9050-686973467ddc",
+      "time": "2026-08-17 03:28:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude 3.6 earthquake at 03:23 on Aug 17 in Longchang, Neijiang, Sichuan (29.22N, 105.21E); depth 8 km."
+    },
     {
       "id": "5042950",
       "time": "2026-08-17 03:26:10",
