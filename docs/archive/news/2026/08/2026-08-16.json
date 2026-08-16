@@ -1,7 +1,19 @@
 {
   "date": "2026-08-16",
-  "count": 537,
+  "count": 538,
   "items": [
+    {
+      "id": "te:markets:575554",
+      "time": "2026-08-16 19:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Kweichow Moutai earnings below expectations at 13.79 CNY — Kweichow Moutai (600519) released earnings per share at 13.79 CNY, compared to market expectations of 14.78 CNY."
+    },
     {
       "id": "mkt:01a00a51-3234-7aab-904d-d440d7bca281",
       "time": "2026-08-16 19:24:48",

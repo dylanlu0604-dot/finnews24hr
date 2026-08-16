@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-16 19:26:14",
-  "count": 15201,
+  "updated": "2026-08-16 19:30:04",
+  "count": 15199,
   "items": [
+    {
+      "id": "te:markets:575554",
+      "time": "2026-08-16 19:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Kweichow Moutai earnings below expectations at 13.79 CNY — Kweichow Moutai (600519) released earnings per share at 13.79 CNY, compared to market expectations of 14.78 CNY."
+    },
     {
       "id": "mkt:01a00a51-3234-7aab-904d-d440d7bca281",
       "time": "2026-08-16 19:24:48",
@@ -139024,30 +139036,6 @@
         "其他"
       ],
       "text": "【離境退稅“2.0版”政策落地滿月，廣州入境消費持續升溫】離境退稅2.0版政策自7月1日正式實施以來，政策紅利持續釋放，為入境消費市場注入強勁新動能。據廣州海關統計，7月1日至8月8日，廣州白雲機場海關已驗放境外旅客離境退稅申請單約1.9萬份，申請單金額約1億元，同比分別增長約5倍、1.5倍。"
-    },
-    {
-      "id": "5032527",
-      "time": "2026-08-09 19:29:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：當我說解除哈馬斯武裝時，我指的是所有型別的重武器和輕武器。"
-    },
-    {
-      "id": "mkt:019fe647-5e45-7aab-8fc9-a91ed7895f2c",
-      "time": "2026-08-09 19:27:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mohsen Rezaei named Supreme Leader’s representative to Iran’s Supreme National Security Council】On the 9th (local time), Iranian sources said Mohsen Rezaei has joined Iran’s Supreme National Security Council as the representative of Supreme Leader and Commander‑in‑Chief Mujtaba Khamenei on the council."
-    },
-    {
-      "id": "5032526",
-      "time": "2026-08-09 19:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【雷扎伊出任伊朗最高領袖駐最高國家安全委員會代表】當地時間9日，據伊朗方面訊息，穆赫辛·雷扎伊已加入伊朗最高國家安全委員會，擔任伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊在該委員會的代表。（央視新聞）"
     }
   ]
 }
