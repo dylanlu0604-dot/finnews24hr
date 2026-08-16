@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 260,
+  "count": 262,
   "items": [
+    {
+      "id": "mkt:01a008a9-f661-7aab-904c-2abe05294156",
+      "time": "2026-08-16 11:42:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic determination: at 11:20 on Aug 16 a magnitude ~6.0 earthquake occurred near Vanuatu (14.33°S, 167.56°E); final determination subject to official rapid report."
+    },
+    {
+      "id": "5042579",
+      "time": "2026-08-16 11:41:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南調整防汛應急響應等級】據“河南應急”公眾號訊息，颱風“白海豚”對河南省的影響已結束，大範圍降雨過程已停止，河道、水庫水位明顯下降，各地險情得到有效控制，經會商研判，按照《河南省防汛應急預案》有關規定，河南省防指決定自8月16日11時將針對許昌市、漯河市、周口市的防汛應急響應等級調整為四級，其他省轄市（區）終止防汛應急響應。"
+    },
     {
       "id": "5042578",
       "time": "2026-08-16 11:39:52",
