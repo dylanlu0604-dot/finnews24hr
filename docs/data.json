@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-16 14:27:13",
+  "updated": "2026-08-16 14:31:05",
   "count": 15207,
   "items": [
+    {
+      "id": "5042638",
+      "time": "2026-08-16 14:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00940-e66a-7aab-904c-a389fb77fcfe",
+      "time": "2026-08-16 14:27:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry."
+    },
     {
       "id": "5042637",
       "time": "2026-08-16 14:24:30",
@@ -139132,22 +139150,6 @@
         "其他"
       ],
       "text": "【南京防颱風應急響應提升至Ⅲ級】南京市氣象臺今日釋出暴雨黃色預警訊號。根據《南京市防颱風應急預案》，市防指決定，8月9日14時起，全市防颱風應急響應提升至Ⅲ級（黃色）。"
-    },
-    {
-      "id": "mkt:019fe537-95c7-7aab-8fc8-3e7a2611b3ce",
-      "time": "2026-08-09 14:30:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hong Kong posts highest temperature on record】Subsiding air on the periphery of strong Typhoon Baihaidun drove temperatures in Hong Kong to 36.8°C at HKO headquarters as of 13:30 on the 9th, the highest reading since observations began in 1884."
-    },
-    {
-      "id": "5032363",
-      "time": "2026-08-09 14:28:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港高溫重新整理歷史紀錄】受強颱風“白海豚”外圍下沉氣流影響，香港9日酷熱難耐，截至13時30分，香港天文臺總部錄得36.8℃，創下其自1884年開展觀測以來最高氣溫紀錄。（中新網）"
     }
   ]
 }

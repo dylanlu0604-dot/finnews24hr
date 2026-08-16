@@ -1,7 +1,25 @@
 {
   "date": "2026-08-16",
-  "count": 334,
+  "count": 336,
   "items": [
+    {
+      "id": "5042638",
+      "time": "2026-08-16 14:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00940-e66a-7aab-904c-a389fb77fcfe",
+      "time": "2026-08-16 14:27:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry."
+    },
     {
       "id": "5042637",
       "time": "2026-08-16 14:24:30",
