@@ -1,7 +1,42 @@
 {
   "date": "2026-08-16",
-  "count": 515,
+  "count": 519,
   "items": [
+    {
+      "id": "mkt:01a00a2e-5aaa-7aab-904d-bad15e9456df",
+      "time": "2026-08-16 18:46:45",
+      "tags": [
+        "MKT News",
+        "Hang Seng Tech Index",
+        "Impact bullish",
+        "300750.SZ"
+      ],
+      "text": "【CITIC Securities: Hang Seng Tech index overhaul to have material event effect】CITIC Securities notes that on Aug. 10, 2026 Hang Seng Indexes Company consulted on a proposed methodology overhaul for the Hang Seng Tech Index. Key changes: expand thematic coverage by removing the prior industry-classification requirement, revise six tech themes and increase sub-themes from 16 to 24; introduce a grouped selection mechanism and widen the selection universe to constituents of the Hang Seng Composite LargeMidCap Index. Constituents would rise from 30 to 50, with 40 selected by market-cap ranking and 10 by a revenue-growth group. CITIC estimates roughly 10 market-cap names (including CATL) and about 10 revenue-growth names could be added. Estimated passive inflows to newly included stocks total about HKD36.0 bln, split ~HKD28.5 bln to the market-cap group and ~HKD7.5 bln to the revenue-growth group. CITIC calls the adjustment a significant event and recommends focusing on potential inclusions for long candidates while monitoring deletion candidates for downside risk."
+    },
+    {
+      "id": "5042793",
+      "time": "2026-08-16 18:46:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國機腦機器人獲港交所批准上市。"
+    },
+    {
+      "id": "5042792",
+      "time": "2026-08-16 18:44:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "中石化煉化工程（股份代號：2386.HK）表示，將在六個月內以1億至1.5億港元在公開市場回購H股。"
+    },
+    {
+      "id": "5042791",
+      "time": "2026-08-16 18:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：感謝內塔尼亞胡總理的溫暖祝願。 願印度-以色列特殊戰略伙伴關係更加牢固，開啟新的機遇，並在我們兩國之間建立更深層次的人民間聯絡。"
+    },
     {
       "id": "5042790",
       "time": "2026-08-16 18:42:36",
