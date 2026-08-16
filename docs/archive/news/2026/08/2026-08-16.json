@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 276,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:01a008c3-5818-7aab-904c-3f9b969d31ef",
+      "time": "2026-08-16 12:10:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister said the military will not leave any unresolved issues on any battlefield and will spare no effort to protect its soldiers and citizens."
+    },
+    {
+      "id": "5042593",
+      "time": "2026-08-16 12:08:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞稱西班牙戰機擊落一架侵入領空的無人機。"
+    },
     {
       "id": "5042592",
       "time": "2026-08-16 12:04:34",

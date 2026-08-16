@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 12:07:54",
-  "count": 15218,
+  "updated": "2026-08-16 12:11:45",
+  "count": 15217,
   "items": [
+    {
+      "id": "mkt:01a008c3-5818-7aab-904c-3f9b969d31ef",
+      "time": "2026-08-16 12:10:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister said the military will not leave any unresolved issues on any battlefield and will spare no effort to protect its soldiers and citizens."
+    },
+    {
+      "id": "5042593",
+      "time": "2026-08-16 12:08:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞稱西班牙戰機擊落一架侵入領空的無人機。"
+    },
     {
       "id": "5042592",
       "time": "2026-08-16 12:04:34",
@@ -139224,30 +139240,6 @@
         "其他"
       ],
       "text": "【2026國際基礎科學大會在京開幕】今天（8月9日），2026國際基礎科學大會在北京開幕，主題為“聚焦基礎科學，引領人類未來”。此次大會共有千餘名中外科學家、科研工作者、青年學子參會。（央視新聞）"
-    },
-    {
-      "id": "5032301",
-      "time": "2026-08-09 12:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風紅色預警！交通運輸部排程重點地區抓實主動防禦】8月9日，交通運輸部點對點排程浙江省交通運輸廳和浙江海事局、上海市交通委員會和上海海事局、福建省交通運輸廳和福建海事局。排程要求，要堅持底線思維和極限思維，堅決杜絕經驗主義、麻痺思想和僥倖心理，強化風險研判和隱患排查，立足最不利情況，突出“嚴、細、實”，以最高標準壓緊壓實責任鏈條；要密切跟蹤颱風路徑與雨情變化，抓實“響應、巡查、管控”主動防禦措施，落實“關、停、撤、轉”各項要求，以最實作風築牢交通運輸安全防線，確保不發生重特大安全事故，全力實現“不死人、少傷人、少損失”的目標。"
-    },
-    {
-      "id": "5032300",
-      "time": "2026-08-09 12:08:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“白海豚”影響增強 浙江局地有特大暴雨陣風可達13至16級】隨著颱風“白海豚”逐漸靠近，8月7日夜間起浙江多地已現強風雨天氣。今天（8月9日），浙江風雨將進一步增強，預計今明兩天台州、寧波等地區域性有特大暴雨，沿海局地陣風可達13至16級，需做好防颱風措施。受颱風“白海豚”影響，7日夜間浙江開始出現明顯降雨，昨天降雨進一步增強，寧波、台州、舟山、紹興局地大暴雨，寧波個別特大暴雨。監測顯示，7日20時至9日6時全省面雨量35毫米，多地現暴雨到大暴雨，局地特大暴雨，其中寧海里岙村站累計降水量達263毫米，寧海蘭丁村最大單小時降水量達82毫米，雨勢猛烈。此外，7日20時以來，浙江沿海海面出現10至14級風，個別站點達15級大風，溫嶺一蒜島站最大風力達47.4米/秒（15級）。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe4b4-c901-7aab-8fc7-f8673905bbba",
-      "time": "2026-08-09 12:08:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon White Dolphin strengthens; parts of Zhejiang to face extremely heavy rain, coastal gusts to force 13–16】Typhoon White Dolphin has been bringing strong wind and rain to multiple Zhejiang locations since the night of Aug 7. Conditions will further intensify on Aug 9; over Aug 9–10 Taizhou, Ningbo and nearby areas may see locally extremely heavy rainfall, with coastal gusts up to force 13–16. Authorities have urged precautions for the typhoon."
     }
   ]
 }
