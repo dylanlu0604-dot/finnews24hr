@@ -1,7 +1,43 @@
 {
   "date": "2026-08-17",
-  "count": 225,
+  "count": 229,
   "items": [
+    {
+      "id": "te:economy:575569",
+      "time": "2026-08-17 07:37:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Russia Current Account Surplus Jumps in Q2 — Russia recorded a current account surplus of USD 21.4 billion in the second quarter of 2026, widening sharply from USD 2.2 billion in the corresponding period of the previous year. This marked the largest surplus since the first quarter of 2024, driven mainly by a stronger goods surplus, which rose to USD 38.3 billion from USD 23.6 billion, as exports jumped to USD 125.7 billion from USD 98.7 billion, outpacing the increase in imports to USD 87.4 billion from USD 75.1 billion. The stronger export performance reflected higher prices and increased demand for Russian goods, as the Middle East conflict disrupted regional energy supplies and pushed up global energy prices. Meanwhile, the services deficit was broadly unchanged at USD 12.5 billion from USD 12.6 billion, while the deficit in primary and secondary income narrowed substantially to USD 4.5 billion from USD 8.9 billion."
+    },
+    {
+      "id": "5043044",
+      "time": "2026-08-17 07:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】韓國金融市場週一因光復節補休休市一日，週二恢復正常交易。"
+    },
+    {
+      "id": "5043043",
+      "time": "2026-08-17 07:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【最大虧損超30% 新秀基金經理覆盤科技調整】在本輪極致的AI行情中，部分新秀基金經理的職業生涯開局可謂驚險。6月入場遭遇最大虧損已超過30%，早期入場者積累浮盈也已大幅縮水。新一代基金經理學習能力強，視野廣反應也快，為何依然難逃“賽道”魔咒？極致賽道持倉背後，既有交易結構、考核機制帶來的現實約束，也折射出新一代基金經理的時代侷限。在接受證券時報記者採訪的過程中，有基金經理覆盤了回撤之痛，也表達了嚴格約束單一賽道倉位上限的決心。分析人士認為，基金經理的職業生涯很長，但黃金時間很短，挫折來得越早，應對空間越大。但基金業要跳出一輪行情一批明星的輪迴，考核機制、投研體系、產品設計等生態配套，均要有所革新。"
+    },
+    {
+      "id": "5043042",
+      "time": "2026-08-17 07:33:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "壁仞科技釋出盈利預告，預計上半年營收為11.5億元至13億元人民幣。"
+    },
     {
       "id": "mkt:01a00ceb-8023-7aab-9051-5186a45e5472",
       "time": "2026-08-17 07:32:35",
