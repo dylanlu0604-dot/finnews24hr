@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:28:25_
-_本檔包含 2973 則快訊，約 602415 字_
+_更新時間：2026-08-17 03:51:53_
+_本檔包含 2974 則快訊，約 601380 字_
+
+---
+
+### 2026-08-13 13:59:31  #市場
+
+紐約期銀日內跌1%，現報65.04美元/盎司。
+
+---
+
+### 2026-08-13 13:59:10  #市場 #焦點
+
+紐約期金失守4440美元/盎司，日內跌0.63%。
+
+---
+
+### 2026-08-13 13:58:37  #MKT News #MAERSK-B.CO #Impact bullish
+
+Maersk said its ocean business performed strongly, with EBIT up significantly YoY and returning to positive sequential growth.
+
+---
+
+### 2026-08-13 13:57:54  #MKT News #Important #Market Themes #China Tech Giants #0992.HK #Impact bullish
+
+Lenovo Group (00992.HK) extended gains in afternoon Hong Kong trade, rising more than 20%.
+
+---
+
+### 2026-08-13 13:57:31  #MKT News #MAERSK-B.CO #Impact bullish
+
+Maersk: Q2 results benefited from sharp freight-rate increases and volume growth across all business segments.
 
 ---
 
@@ -17918,29 +17948,5 @@ Indonesia Stocks Rebound — Indonesian shares rose 51 points or 0.8% to 6,319 i
 ### 2026-08-12 10:24:47  #MKT News
 
 【India to tighten NGO oversight, may empower seizure of foreign-funded NGO assets】India plans to tighten regulation of NGOs, including a proposed amendment that would empower a new agency to seize land, buildings or other assets owned by foreign-funded organizations whose mandatory official registration is cancelled or not renewed. The ruling Modi-led Hindu nationalist government is prepared to push the reforms despite lobbying from Western governments, opposition parties and Christian churches warning the move could jeopardize thousands of schools, hospitals, religious sites and humanitarian projects. A senior Indian official said the government may seek a parliamentary vote on the amendment before this Thursday’s session ends. Officials cite concerns about covert foreign influence as the rationale for the tighter oversight.
-
----
-
-### 2026-08-12 10:24:30  #其他
-
-【河北繼續釋出暴雨黃色預警】河北省氣象臺2026年8月12日10時7分繼續釋出暴雨黃色預警訊號。 受颱風外圍暖溼氣流和冷空氣共同影響，本次降水過程從11日白天開始。截至12日8時，張家口、承德、保定、雄安新區、廊坊、石家莊、邢臺、邯鄲等地的部分地區已出現暴雨到大暴雨。預計12日白天到夜間，承德中南部、唐山中北部、秦皇島北部和保定、廊坊及以南地區仍有較強降水，雨量分佈不均，部分地區1小時雨量可達50毫米以上或6小時雨量可達70毫米以上，其中承德南部、唐山北部、保定東部、石家莊、邯鄲等地的區域性地區累計降水量可達120—150毫米。山區及淺山區有出現山洪、泥石流、滑坡等次生災害的風險，低窪地區有積水風險，請注意防範。
-
----
-
-### 2026-08-12 10:23:44  #MKT News
-
-【Indonesian passenger ferry carrying 114 passengers and 17 crew catches fire; evacuation underway】Indonesian media reported on the 12th that a passenger ferry caught fire early morning while sailing from Bali to nearby Lombok. Evacuation and rescue operations are ongoing; Bali officials said the ship manifest lists 114 passengers and 17 crew.
-
----
-
-### 2026-08-12 10:22:52  #公司 #市場
-
-【光伏加工裝置板塊走高，金辰股份漲停】光伏加工裝置板塊走高，金辰股份漲停，邁為股份、連城數控、奧特維、捷佳偉創、歐普泰等紛紛走高。
-
----
-
-### 2026-08-12 10:22:00  #MKT News #Market Themes #AI Revolution #AMZN.O #GOOGL.O #MSFT.O
-
-【ANTHROPIC to embed invisible watermark in Claude outputs】ANTHROPIC said on Aug 11 it has signed the EU AI Act Article 50 guidelines on AI-generated content transparency. Effective Aug 2, Claude models will embed an invisible watermark in generated text; images and other files will carry digitally signed provenance metadata. The marking will cover all major Claude products and access channels — Claude Platform (API), Claude, Claude Code, Claude Cowork and Claude Tag — and apply to cloud partners including AWS, Google Cloud and Microsoft Foundry. ANTHROPIC said the scheme will be implemented globally across all Claude product lines and partner cloud platforms, not limited to the EU.
 
 ---

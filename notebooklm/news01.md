@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:28:25_
-_本檔包含 3086 則快訊，約 602363 字_
+_更新時間：2026-08-17 03:51:53_
+_本檔包含 3091 則快訊，約 601758 字_
+
+---
+
+### 2026-08-17 03:45:23  #國際
+
+【布蘭奇拒絕承諾司法部將獨立於特朗普運作】美國司法部長託德·布蘭奇拒絕承諾司法部將獨立於白宮運作，並表示他會將特朗普總統對個別起訴案件的觀點納入考量。在週日接受採訪被問及司法部是否會“始終獨立於”白宮行事時，布蘭奇回答：“不，我不會做出這種承諾。”他補充道：“沒有任何一位司法部長應該做出這種承諾。”
+
+---
+
+### 2026-08-17 03:40:59  #公司
+
+【Stripe接近達成超70億美元收購AI公司OpenRouter的協議】據知情人士透露，支付處理公司Stripe Inc.已敲定協議，將以超過70億美元的價格收購OpenRouter Inc.。這筆交易凸顯了企業尋找最具成本效益的AI解決方案的迫切需求，同時也可能為Stripe在快速發展的AI領域奠定更堅實的基礎。OpenRouter提供數百種AI模型的訪問許可權，旨在為開發者匹配最高效、最經濟適用的模型選項。
+
+---
+
+### 2026-08-17 03:37:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Fars News: Iran’s Islamic Revolutionary Guard Corps political deputy commander said IRGC actions so far have been defensive but could shift to offensive in future. He said Iran’s armed forces will adopt a transformative strategy and will take any measures necessary to defend the country.
+
+---
+
+### 2026-08-17 03:36:48  #市場
+
+美元在悉尼早盤交易中兌主要貨幣走勢趨於穩定。
+
+---
+
+### 2026-08-17 03:34:58  #其他
+
+阿曼國家通訊社：阿曼拉斯馬德拉卡地區約有12公里的海岸線受到了石油汙染的影響。
+
+---
+
+### 2026-08-17 03:34:38  #國際
+
+以色列軍方：為回應以軍在“安全區”內計程車兵遭襲，以軍對黎巴嫩南部的真主黨基礎設施發動了打擊。
+
+---
+
+### 2026-08-17 03:34:24  #國際
+
+烏克蘭總統澤連斯基：烏軍襲擊了位於烏斯季盧加的一處俄羅斯石油設施。
+
+---
+
+### 2026-08-17 03:33:40  #其他
+
+英國海事貿易行動辦公室（UKMTO）表示，週五在霍爾木茲海峽，一艘散貨船被擊中。船員均報告安全，但目前尚未收到損失評估報告，環境影響尚不明確。
+
+---
+
+### 2026-08-17 03:32:30  #其他
+
+訊息人士透露，Anthropic預計2028年營收將達到1900億至2000億美元。華爾街正利用2028年的營收預測以及企業價值/營收倍數（EV-to-Revenue）來為其IPO進行估值。
+
+---
+
+### 2026-08-17 03:28:22  #MKT News
+
+cenc reported a magnitude 3.6 earthquake at 03:23 on Aug 17 in Longchang, Neijiang, Sichuan (29.22N, 105.21E); depth 8 km.
 
 ---
 
@@ -18595,35 +18655,5 @@ Nomura forecasts India's fiscal deficit will widen by 20bps and does not expect 
 ### 2026-08-14 15:00:02  #市場
 
 【股指期貨午盤收盤】 中證1000指數期貨連續跌0.15%， 滬深300指數期貨連續跌0.36%， 中證500指數期貨連續跌0.54%， 上證50指數期貨連續跌0.62%。
-
----
-
-### 2026-08-14 15:00:02  #市場
-
-歐股開盤漲跌不一，德國DAX指數跌0.12%，英國富時100指數跌0.56%，法國CAC40指數跌0.28%，歐洲斯托克50指數漲0.18%，義大利富時MIB指數跌0.01%。
-
----
-
-### 2026-08-14 14:59:52  #MKT News #Market Regions #Wall Street (US) #Japan & APAC #S&P500 #Impact bullish #Nasdaq100 #Nikkei 225
-
-【US rally flows into Japan; Nikkei 225 closes at record high】Nikkei 225 rose 0.59% to 68,713.80 on Friday, bringing the week's gain to 4.7%, after US equities climbed and softer US producer prices lifted risk appetite. Broader Topix advanced 0.51% to 4,197.20, a record closing high. US July PPI was flat MoM, reinforcing market expectations the Fed will hold rates next month and helping push the S&P 500 and Nasdaq to record closes overnight. Nomura strategist Wataru Akiyama said the US rally, falling oil and easing inflation-driven expectations of earlier Fed hikes are supporting Japanese stocks. Among Nikkei components, Nexon jumped 19.85%—its largest one-day gain since Feb 2024—Shift rose 7.57% and Nintendo gained 6.91%.
-
----
-
-### 2026-08-14 14:58:45  #國際
-
-泰國旅遊部長表示，泰國計劃於10月啟動國內旅遊補貼計劃。
-
----
-
-### 2026-08-14 14:58:18  #其他
-
-【2026年7月國內碳酸鋰需求量達到15.97萬噸，再創歷史新高】據ICC鑫欏資訊統計，截止2026年7月國內碳酸鋰需求量達到15.97萬噸，再創歷史新高，可用天數降至19天左右。從貢獻來看，需求主要增幅仍來自於磷酸鐵鋰，三元和鈷酸鋰相對偏弱。（鑫欏鋰電）
-
----
-
-### 2026-08-14 14:57:38  #MKT News #Commodities #Industrial Metals
-
-【Reports: Nan Ya to lift copper foil, substrate and base‑material prices 20%; company responds】Market sources circulated a customer letter saying Nan Ya will raise prices of substrates and base materials by 20% from Sept. 1, citing large increases in costs for copper foil, glass fiber cloth and resins. Nan Ya said the price increase is real and it has negotiated multiple price adjustments with customers this year as material costs rose, but the circulated document is not an official external price notice and the company has not implemented a blanket, one‑time 20% across‑the‑board increase. Electronic-material prices have been adjusted repeatedly this year, with cumulative gains of more than 100%.
 
 ---

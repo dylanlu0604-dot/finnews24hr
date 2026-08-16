@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:28:25_
-_本檔包含 2949 則快訊，約 601730 字_
+_更新時間：2026-08-17 03:51:53_
+_本檔包含 2948 則快訊，約 601496 字_
+
+---
+
+### 2026-08-11 08:12:12  #資料 #市場 #央行 #國際
+
+【金價觸及每盎司4400美元 市場目光轉向美國通脹資料】美國即將釋出關鍵的通脹報告之際，金價週二盤中突破了每盎司4400美元。這份報告可能會提供有關美聯儲加息意願的新線索。繼之前兩個交易日累計上漲3.6%之後，金價早盤小幅走高。其週一突破100日移動均線，引發技術性買盤，繼抄底買家出現、中國黃金ETF獲得資金流入後再添復甦跡象。交易員們正將目光轉向週三將公佈的最新美國通脹資料。根據接受媒體調查的經濟學家的預測中值，備受關注的CPI 7月料上升0.1%，此前一個月為下降0.4%。在美國上週五公佈了疲軟的就業報告之後，物價漲幅溫和可能有助於緩解美聯儲的通脹焦慮。
+
+---
+
+### 2026-08-11 08:11:57  #市場
+
+鈀金期貨日內漲1%，現報1395.50美元/盎司。
+
+---
+
+### 2026-08-11 08:11:18  #MKT News
+
+Singapore's Ministry of Trade and Industry (MTI) raised its 2026 GDP growth forecast to 4.5%-5.5% from 2.0%-4.0%.
+
+---
+
+### 2026-08-11 08:11:04  #其他
+
+新加坡將2026年非石油國內出口增長預測從3.0%-5.0%上調至14.0%-16.0%。
+
+---
+
+### 2026-08-11 08:10:36  #公司 #觀點
+
+【中信證券：矽基材料行業靜待修復 下游高增領域受益】中信證券研報表示，矽基材料行業目前處於週期底部盤整，供給端目前已經實質性放緩，但行業未經歷深度虧損，行業自發出清困難，當前“反內卷”力度或對價格支撐有限，2026下半年更加考驗供給與需求矛盾，預計2026下半年有機矽價格在11500—13000元/噸，仍處於相對低位。建議關注矽基材料行業向下遊高景氣賽道延伸拓展的公司。
+
+---
+
+### 2026-08-11 08:10:34  #公司 #國際
+
+美國證券交易委員會（SEC）週一在一份新聞稿中表示，已就對Adit Ventures Management及其創始人、三名合夥人提起的涉及Klarna和SpaceX等公司的IPO前投資的欺詐指控達成和解。美國證券交易委員會指控該投資顧問公司曾利用“虛假陳述和承諾”招攬對Adit管理基金的投資，並將客戶資金用於公司自身利益，包括在未向客戶披露的情況下，以優惠條件獲取無擔保貸款。美國證券交易委員會表示，Adit Ventures 雖未承認相關指控，但已同意接受一項同意令，其中包括支付追繳款和民事罰款。該同意令尚需聯邦法官批准。
+
+---
+
+### 2026-08-11 08:10:10  #MKT News
+
+Australia's S&P/ASX 200 opened up 8.3 points (+0.09%) at 9,240.90 on Aug 11 (Tuesday).
+
+---
+
+### 2026-08-11 08:10:08  #觀點
+
+【中信證券：算力突破電力邊界 SST開啟矽進銅退新週期】中信證券研報表示，AI晶片效能與密度提高帶來智算中心（AIDC）功耗躍升，傳統不間斷電源（UPS）架構在能耗、佔地等多方面已觸及瓶頸，AIDC供配電加速向高壓直流化演進。短期內，高壓直流輸電（HVDC）系統、巴拿馬電源有望作為過渡方案，長期看，800VDC+固態變壓器（SST）憑藉中壓直入、高頻隔離及“矽進銅退”優勢，或成為高密算力供電的終局解決方案。建議關注SST整機及SiC、高頻磁件、電容和固態斷路器等核心環節。
 
 ---
 
@@ -17751,59 +17799,5 @@ Iranian parliament speaker Ghalibaf said Iran's Islamic system is at one of its 
 ### 2026-08-10 03:53:04  #國際
 
 特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！
-
----
-
-### 2026-08-10 03:45:17  #公司
-
-阿聯酋國家石油公司（ADNOC）表示，一艘船隻週六凌晨在霍爾木茲海峽航行時遭到導彈襲擊；公司稱局勢已得到控制，暫無人員受傷報告。
-
----
-
-### 2026-08-10 03:43:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemeni sources say Houthi forces have resumed missile and drone attacks on the port of Mocha.
-
----
-
-### 2026-08-10 03:42:38  #國際
-
-伊朗議會議長卡利巴夫：伊朗今天正處於其歷史上最敏感的階段之一，並在地區及世界安全中發揮著無與倫比的作用。
-
----
-
-### 2026-08-10 03:42:38  #MKT News
-
-【Israel reallocates funds earmarked for Intel to add NIS1 bln to defense for urgent arms purchases】Israel approved an emergency appropriation on the 9th to reallocate funds originally earmarked for an Intel project, adding NIS1 bln to the defense budget for urgent weapons procurement. The transfer was described as a specially urgent measure tied to the current state of emergency; a ministerial procurement committee had approved the move on the 6th. Authorities said the reallocation will not breach the existing national budget framework.
-
----
-
-### 2026-08-10 03:39:47  #其他
-
-葉門軍方發言人表示，胡塞武裝已恢復用導彈和無人機攻擊穆哈港。
-
----
-
-### 2026-08-10 03:39:38  #市場
-
-悉尼早盤交易中，美元兌風險貨幣走強。
-
----
-
-### 2026-08-10 03:39:31  #國際
-
-伊朗巴斯基組織副負責人：穆傑塔巴公開露面以及與指揮官舉行會議的影像資料將於後續對外公佈。
-
----
-
-### 2026-08-10 03:38:47  #公司 #國際
-
-【以色列政府被曝將投資專款挪至國防預算 緊急採購武器】據以色列方面9日訊息，以色列政府當天批准一項緊急撥款計劃，決定挪用原定給英特爾公司的專案資金，向國防部門追加10億新謝克爾預算，用於緊急採購武器。據悉，以色列政府透過的這項提案將此次撥款描述為特別緊急的資金轉移，並稱此舉是鑑於以色列目前所處的緊急狀態。該決定此前已於6日獲得負責採購的以政府部長級委員會批准。此次追加預算不會突破現有的國家預算框架。
-
----
-
-### 2026-08-10 03:36:40  #MKT News
-
-【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend.
 
 ---

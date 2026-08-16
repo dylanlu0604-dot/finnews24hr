@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:28:25_
-_本檔包含 3167 則快訊，約 601198 字_
+_更新時間：2026-08-17 03:51:53_
+_本檔包含 3167 則快訊，約 602504 字_
+
+---
+
+### 2026-08-14 15:00:02  #市場
+
+歐股開盤漲跌不一，德國DAX指數跌0.12%，英國富時100指數跌0.56%，法國CAC40指數跌0.28%，歐洲斯托克50指數漲0.18%，義大利富時MIB指數跌0.01%。
+
+---
+
+### 2026-08-14 14:59:52  #MKT News #Market Regions #Wall Street (US) #Japan & APAC #S&P500 #Impact bullish #Nasdaq100 #Nikkei 225
+
+【US rally flows into Japan; Nikkei 225 closes at record high】Nikkei 225 rose 0.59% to 68,713.80 on Friday, bringing the week's gain to 4.7%, after US equities climbed and softer US producer prices lifted risk appetite. Broader Topix advanced 0.51% to 4,197.20, a record closing high. US July PPI was flat MoM, reinforcing market expectations the Fed will hold rates next month and helping push the S&P 500 and Nasdaq to record closes overnight. Nomura strategist Wataru Akiyama said the US rally, falling oil and easing inflation-driven expectations of earlier Fed hikes are supporting Japanese stocks. Among Nikkei components, Nexon jumped 19.85%—its largest one-day gain since Feb 2024—Shift rose 7.57% and Nintendo gained 6.91%.
+
+---
+
+### 2026-08-14 14:58:45  #國際
+
+泰國旅遊部長表示，泰國計劃於10月啟動國內旅遊補貼計劃。
+
+---
+
+### 2026-08-14 14:58:18  #其他
+
+【2026年7月國內碳酸鋰需求量達到15.97萬噸，再創歷史新高】據ICC鑫欏資訊統計，截止2026年7月國內碳酸鋰需求量達到15.97萬噸，再創歷史新高，可用天數降至19天左右。從貢獻來看，需求主要增幅仍來自於磷酸鐵鋰，三元和鈷酸鋰相對偏弱。（鑫欏鋰電）
+
+---
+
+### 2026-08-14 14:57:38  #MKT News #Commodities #Industrial Metals
+
+【Reports: Nan Ya to lift copper foil, substrate and base‑material prices 20%; company responds】Market sources circulated a customer letter saying Nan Ya will raise prices of substrates and base materials by 20% from Sept. 1, citing large increases in costs for copper foil, glass fiber cloth and resins. Nan Ya said the price increase is real and it has negotiated multiple price adjustments with customers this year as material costs rose, but the circulated document is not an official external price notice and the company has not implemented a blanket, one‑time 20% across‑the‑board increase. Electronic-material prices have been adjusted repeatedly this year, with cumulative gains of more than 100%.
 
 ---
 
@@ -19045,35 +19075,5 @@ United Kingdom | Construction Output (MoM) (Jun) | actual -0.1% | consensus -0.3
 ### 2026-08-13 13:59:48  #Trading Economics #Markets #Indonesia #Currency #Importance 1
 
 Rupiah Steady Near IDR 17,870 — The Indonesian rupiah hovered around IDR 17,870 per U.S. dollar on Thursday, little changed from the prior session, as the dollar index steadied ahead of July’s U.S. PPI data for more clues on price pressures and the Fed’s policy outlook. Locally, fiscal discipline remained in focus as the government pledged to cap the 2026 deficit below 3% of GDP, as tax receipts surged over 23% yoy in January–July, underscoring stronger revenue collection. Meanwhile, the 2027 budget proposal, set for Friday, may sustain a consumption-driven orientation. Political attention also turned to Bank Indonesia leadership, with President Prabowo nominating Aida Budiman as senior deputy governor and Destry Damayanti as the sole candidate to succeed Perry Warjiyo. BI’s policy meeting next week, its first since Warjiyo’s exit, comes after 100bps of hikes in May–June to aid the rupiah. With July inflation hitting a three-month low of 2.88%, policymakers may gain room to weigh further tightening more cautiously.
-
----
-
-### 2026-08-13 13:59:31  #市場
-
-紐約期銀日內跌1%，現報65.04美元/盎司。
-
----
-
-### 2026-08-13 13:59:10  #市場 #焦點
-
-紐約期金失守4440美元/盎司，日內跌0.63%。
-
----
-
-### 2026-08-13 13:58:37  #MKT News #MAERSK-B.CO #Impact bullish
-
-Maersk said its ocean business performed strongly, with EBIT up significantly YoY and returning to positive sequential growth.
-
----
-
-### 2026-08-13 13:57:54  #MKT News #Important #Market Themes #China Tech Giants #0992.HK #Impact bullish
-
-Lenovo Group (00992.HK) extended gains in afternoon Hong Kong trade, rising more than 20%.
-
----
-
-### 2026-08-13 13:57:31  #MKT News #MAERSK-B.CO #Impact bullish
-
-Maersk: Q2 results benefited from sharp freight-rate increases and volume growth across all business segments.
 
 ---

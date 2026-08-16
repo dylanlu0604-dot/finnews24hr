@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:28:25_
-_本檔包含 3063 則快訊，約 601135 字_
+_更新時間：2026-08-17 03:51:53_
+_本檔包含 3059 則快訊，約 601305 字_
+
+---
+
+### 2026-08-12 10:24:30  #其他
+
+【河北繼續釋出暴雨黃色預警】河北省氣象臺2026年8月12日10時7分繼續釋出暴雨黃色預警訊號。 受颱風外圍暖溼氣流和冷空氣共同影響，本次降水過程從11日白天開始。截至12日8時，張家口、承德、保定、雄安新區、廊坊、石家莊、邢臺、邯鄲等地的部分地區已出現暴雨到大暴雨。預計12日白天到夜間，承德中南部、唐山中北部、秦皇島北部和保定、廊坊及以南地區仍有較強降水，雨量分佈不均，部分地區1小時雨量可達50毫米以上或6小時雨量可達70毫米以上，其中承德南部、唐山北部、保定東部、石家莊、邯鄲等地的區域性地區累計降水量可達120—150毫米。山區及淺山區有出現山洪、泥石流、滑坡等次生災害的風險，低窪地區有積水風險，請注意防範。
+
+---
+
+### 2026-08-12 10:23:44  #MKT News
+
+【Indonesian passenger ferry carrying 114 passengers and 17 crew catches fire; evacuation underway】Indonesian media reported on the 12th that a passenger ferry caught fire early morning while sailing from Bali to nearby Lombok. Evacuation and rescue operations are ongoing; Bali officials said the ship manifest lists 114 passengers and 17 crew.
+
+---
+
+### 2026-08-12 10:22:52  #公司 #市場
+
+【光伏加工裝置板塊走高，金辰股份漲停】光伏加工裝置板塊走高，金辰股份漲停，邁為股份、連城數控、奧特維、捷佳偉創、歐普泰等紛紛走高。
+
+---
+
+### 2026-08-12 10:22:00  #MKT News #Market Themes #AI Revolution #AMZN.O #GOOGL.O #MSFT.O
+
+【ANTHROPIC to embed invisible watermark in Claude outputs】ANTHROPIC said on Aug 11 it has signed the EU AI Act Article 50 guidelines on AI-generated content transparency. Effective Aug 2, Claude models will embed an invisible watermark in generated text; images and other files will carry digitally signed provenance metadata. The marking will cover all major Claude products and access channels — Claude Platform (API), Claude, Claude Code, Claude Cowork and Claude Tag — and apply to cloud partners including AWS, Google Cloud and Microsoft Foundry. ANTHROPIC said the scheme will be implemented globally across all Claude product lines and partner cloud platforms, not limited to the EU.
 
 ---
 
@@ -18422,53 +18446,5 @@ Singapore's Ministry of Trade and Industry (MTI) raised its 2026 non-oil domesti
 ### 2026-08-11 08:12:17  #觀點
 
 【華泰證券：基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭】華泰證券研報稱，基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭。OpenAI早期依託相對自下而上的產品創新機制，透過ChatGPT建立大規模C端入口；Anthropic則持續聚焦模型能力、Coding和企業API，並隨著Coding場景成熟逐步體現資源集中優勢。與此同時，智譜、MiniMax亦逐步向API、Coding和Agent收斂。華泰證券認為，基礎模型行業的競爭維度正在由模型能力和使用者規模進一步擴充套件至高價值Token消耗、企業滲透、單位經濟性及產品分發能力。
-
----
-
-### 2026-08-11 08:12:12  #資料 #市場 #央行 #國際
-
-【金價觸及每盎司4400美元 市場目光轉向美國通脹資料】美國即將釋出關鍵的通脹報告之際，金價週二盤中突破了每盎司4400美元。這份報告可能會提供有關美聯儲加息意願的新線索。繼之前兩個交易日累計上漲3.6%之後，金價早盤小幅走高。其週一突破100日移動均線，引發技術性買盤，繼抄底買家出現、中國黃金ETF獲得資金流入後再添復甦跡象。交易員們正將目光轉向週三將公佈的最新美國通脹資料。根據接受媒體調查的經濟學家的預測中值，備受關注的CPI 7月料上升0.1%，此前一個月為下降0.4%。在美國上週五公佈了疲軟的就業報告之後，物價漲幅溫和可能有助於緩解美聯儲的通脹焦慮。
-
----
-
-### 2026-08-11 08:11:57  #市場
-
-鈀金期貨日內漲1%，現報1395.50美元/盎司。
-
----
-
-### 2026-08-11 08:11:18  #MKT News
-
-Singapore's Ministry of Trade and Industry (MTI) raised its 2026 GDP growth forecast to 4.5%-5.5% from 2.0%-4.0%.
-
----
-
-### 2026-08-11 08:11:04  #其他
-
-新加坡將2026年非石油國內出口增長預測從3.0%-5.0%上調至14.0%-16.0%。
-
----
-
-### 2026-08-11 08:10:36  #公司 #觀點
-
-【中信證券：矽基材料行業靜待修復 下游高增領域受益】中信證券研報表示，矽基材料行業目前處於週期底部盤整，供給端目前已經實質性放緩，但行業未經歷深度虧損，行業自發出清困難，當前“反內卷”力度或對價格支撐有限，2026下半年更加考驗供給與需求矛盾，預計2026下半年有機矽價格在11500—13000元/噸，仍處於相對低位。建議關注矽基材料行業向下遊高景氣賽道延伸拓展的公司。
-
----
-
-### 2026-08-11 08:10:34  #公司 #國際
-
-美國證券交易委員會（SEC）週一在一份新聞稿中表示，已就對Adit Ventures Management及其創始人、三名合夥人提起的涉及Klarna和SpaceX等公司的IPO前投資的欺詐指控達成和解。美國證券交易委員會指控該投資顧問公司曾利用“虛假陳述和承諾”招攬對Adit管理基金的投資，並將客戶資金用於公司自身利益，包括在未向客戶披露的情況下，以優惠條件獲取無擔保貸款。美國證券交易委員會表示，Adit Ventures 雖未承認相關指控，但已同意接受一項同意令，其中包括支付追繳款和民事罰款。該同意令尚需聯邦法官批准。
-
----
-
-### 2026-08-11 08:10:10  #MKT News
-
-Australia's S&P/ASX 200 opened up 8.3 points (+0.09%) at 9,240.90 on Aug 11 (Tuesday).
-
----
-
-### 2026-08-11 08:10:08  #觀點
-
-【中信證券：算力突破電力邊界 SST開啟矽進銅退新週期】中信證券研報表示，AI晶片效能與密度提高帶來智算中心（AIDC）功耗躍升，傳統不間斷電源（UPS）架構在能耗、佔地等多方面已觸及瓶頸，AIDC供配電加速向高壓直流化演進。短期內，高壓直流輸電（HVDC）系統、巴拿馬電源有望作為過渡方案，長期看，800VDC+固態變壓器（SST）憑藉中壓直入、高頻隔離及“矽進銅退”優勢，或成為高密算力供電的終局解決方案。建議關注SST整機及SiC、高頻磁件、電容和固態斷路器等核心環節。
 
 ---
