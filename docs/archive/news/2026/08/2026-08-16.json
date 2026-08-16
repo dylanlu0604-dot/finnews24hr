@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 164,
+  "count": 165,
   "items": [
+    {
+      "id": "mkt:01a007fd-d597-7aab-904b-ae476173b0be",
+      "time": "2026-08-16 08:34:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported Harvard University made up to a $2.2 bln investment in SpaceX (SPCX.O)."
+    },
     {
       "id": "5042499",
       "time": "2026-08-16 08:33:03",
