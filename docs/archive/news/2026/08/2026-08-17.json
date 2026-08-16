@@ -1,7 +1,46 @@
 {
   "date": "2026-08-17",
-  "count": 112,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:01a00c3a-3805-7aab-9050-88d6b758c389",
+      "time": "2026-08-17 04:18:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【JP Morgan CEO warns UK chancellor against raising bank tax】JP Morgan CEO Jamie Dimon told the UK chancellor on a call last week not to impose new taxes on banks, warning that an uncompetitive tax regime—under consideration ahead of the October budget—would weaken London’s financial centre and could prompt capital and financial jobs to leave the UK."
+    },
+    {
+      "id": "5042963",
+      "time": "2026-08-17 04:17:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安談及與以色列可能爆發的戰爭：我們談論的不是戰爭，而是和平。但如果有人為了戰爭而非和平向土耳其發起攻擊，土耳其將毫不猶豫地投入這場戰爭，絕不退縮。我把話說得清清楚楚，毫無保留。"
+    },
+    {
+      "id": "5042962",
+      "time": "2026-08-17 04:15:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月17日04時05分在四川自貢市富順縣（北緯29.21度，東經105.21度）發生3.1級地震，震源深度7千米。"
+    },
+    {
+      "id": "5042961",
+      "time": "2026-08-17 04:11:54",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "【小摩CEO警告英國財政大臣：切勿提高銀行業稅收】摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。摩根大通執行長傑米·戴蒙表示，缺乏競爭力的稅收制度可能會削弱倫敦金融中心的地位，目前英國政府正考慮在10月預算案前對銀行業徵收新稅。戴蒙稱這可能會導致資本和金融就業崗位流出英國。"
+    },
     {
       "id": "mkt:01a00c2e-b0a4-7aab-9050-851c104fcebf",
       "time": "2026-08-17 04:06:21",
