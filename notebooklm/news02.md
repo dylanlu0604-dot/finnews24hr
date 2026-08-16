@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 19:45:44_
-_本檔包含 3176 則快訊，約 600574 字_
+_更新時間：2026-08-16 20:54:43_
+_本檔包含 3177 則快訊，約 600520 字_
+
+---
+
+### 2026-08-14 13:52:54  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan 2-year JGB yield rose 0.5 bps to 1.650%; 5-year JGB yield rose 1.5 bps to 2.135%.
+
+---
+
+### 2026-08-14 13:51:34  #MKT News #CNH #Impact bullish
+
+【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan.
+
+---
+
+### 2026-08-14 13:47:44  #其他
+
+臺積電第二季淨利潤為臺幣7067.8億元，上年同期為臺幣3974.9億元。
+
+---
+
+### 2026-08-14 13:46:28  #MKT News #Important #300017.SZ #Impact bullish
+
+China A-share compute-power leasing sector jumped intraday: DataPort hit limit-up, Wangsu Technology neared limit-up; Caixun, Xingyun Technology, Aofei Data and Litong Electronics also advanced.
+
+---
+
+### 2026-08-14 13:46:07  #MKT News
+
+【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations.
+
+---
+
+### 2026-08-14 13:45:40  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Interfax reports the Russian defence ministry said it sank two escort vessels that were accompanying ships transporting weapons to Ukraine.
+
+---
+
+### 2026-08-14 13:45:02  #其他
+
+算力租賃概念探底回升，網宿科技漲超17%，行雲科技漲超10%，資料港、奧飛資料、利通電子跟漲。
+
+---
+
+### 2026-08-14 13:44:36  #國際
+
+【臺灣多個黨派團體集會反對日本右翼擴軍與干涉臺灣問題】臺灣多個黨派團體14日在臺北舉行“反對日本軍國主義復辟”共同行動，嚴正反對日本右翼擴軍與干涉臺灣問題，絕不容許軍國主義復辟。集會活動在“日本臺灣交流協會”臺北事務所門前進行。活動發表宣告表示，臺灣問題純屬中國內政，絕不容許昔日侵略者說三道四。歷史不應遺忘，強烈譴責日本軍國主義死灰復燃，堅決反對日本右翼勾結“臺獨”分裂勢力。 (央視新聞)
+
+---
+
+### 2026-08-14 13:44:14  #國際
+
+俄羅斯稱其襲擊了兩艘為向烏克蘭運送武器的船隻護航的船隻。
+
+---
+
+### 2026-08-14 13:43:55  #MKT News #Important #Market Themes #Chip Wars #00981.HK #Impact bullish #02577.HK #03986.HK
+
+Hong Kong semiconductor stocks recovered in the afternoon. Semiconductor Manufacturing International Corp. (SMIC, 00981.HK) extended gains, up more than 6%; 02577.HK rose over 3%, while 02676.HK and GigaDevice Semiconductor (03986.HK) also advanced.
+
+---
+
+### 2026-08-14 13:43:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Interfax reported the Russian defence ministry said it struck a rail station inside Ukraine's Izmail port that was being used to transport military supplies.
+
+---
+
+### 2026-08-14 13:42:59  #國際
+
+俄羅斯稱其襲擊了烏克蘭伊茲梅爾港的火車站，該港口用於軍事貨物運輸。
+
+---
+
+### 2026-08-14 13:41:51  #其他
+
+B. RILEY將應用材料目標價從790美元下調至700美元。
+
+---
+
+### 2026-08-14 13:41:33  #MKT News
+
+Japan 5-year government bond yield rose 1 bp to 2.130%.
+
+---
+
+### 2026-08-14 13:41:27  #MKT News #USDJPY #Impact bearish
+
+USD/JPY slid more than 10 pips intraday to 159.24.
+
+---
+
+### 2026-08-14 13:41:10  #MKT News #Market Themes #AI Revolution
+
+【Zhipu (02513.HK) releases GLM-5.3, flags coding and long‑horizon gains】Zhipu (02513.HK) said it released GLM-5.3 today, using the same base model as GLM-5.2 and attributing all performance gains to post‑training optimization. The company said GLM-5.3 improves performance on complex coding and long‑horizon tasks, delivering a 50% uplift versus GLM-5.2 on its internal Z.ai code benchmark. Zhipu called GLM-5.3 the most capable open‑source weight model and said network‑capability gains during scaled post‑training deployment exceeded expectations. On the CyberGym platform, GLM-5.3 led vulnerability discovery tests, with improvements concentrated in later stages of exploit chains and more than double the exploitation‑benchmark performance of GLM-5.2. Pending security evaluation and hardening, Zhipu plans to publish the model weights two weeks after release.
+
+---
+
+### 2026-08-14 13:41:06  #市場 #國際
+
+5年期日本國債收益率上漲1個基點，至2.130%。
+
+---
+
+### 2026-08-14 13:40:58  #市場 #央行 #國際 #原創
+
+【訊息人士稱日本央行考慮9月加息，並加快緊縮步伐】據三位知情人士透露，日本央行最早可能在9月份加息，並考慮在此之後以比目前每年約兩次的頻率更積極的方式加息。此舉反映出日本央行對中東衝突帶來的價格壓力、強勁的全球人工智慧需求以及日元持續下跌趨勢日益增長的擔憂。儘管上個月日美罕見地聯合干預，日元的下跌趨勢依然持續。其中一位訊息人士表示：“提前加息已成定局”，這表明日本央行極有可能在9月17日至18日的下次政策會議上加息。另一位訊息人士也表達了類似的觀點，該訊息人士還表示：“日本央行也可能加快加息步伐。”
+
+---
+
+### 2026-08-14 13:40:55  #央行 #日本央行
+
+【訊息人士稱日本央行最早將於9月加息】訊息人士稱，日本央行最早將於9月加息，並考慮此後加快加息步伐。
+
+---
+
+### 2026-08-14 13:40:38  #MKT News #Important #USDJPY #Impact bearish #Nikkei 225
+
+Sources say the Bank of Japan could raise interest rates as early as September and is considering accelerating subsequent hikes.
+
+---
+
+### 2026-08-14 13:40:20  #MKT News
+
+【PHILIPPINE C.BANK governor signals less aggressive rate hikes as growth slows】PHILIPPINE C.BANK Governor Eli Remolona said slowing economic growth means the bank will not pursue as aggressive a pace of rate hikes, but policymakers still need to see a more convincing decline in inf before easing policy. The Philippines now has among Southeast Asia’s weakest growth and highest inf; a recent corruption scandal has dented market confidence and the Iran conflict has added to price pressures.
+
+---
+
+### 2026-08-14 13:38:46  #其他
+
+【天海防務等成立智慧船港航股權投資基金】企查查APP顯示，近日，九江市智慧船港航股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天海防務等共同出資。
+
+---
+
+### 2026-08-14 13:38:12  #其他
+
+【智譜釋出GLM-5.3】8月14日，智譜正式釋出GLM-5.3。據介紹，與GLM-5.2相比，GLM-5.3基座模型未變，但透過極致的後訓練Scaling大大提高了模型的智慧上界。GLM-5.3擁有更強的程式設計能力，在內部自建體感評測中較GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam (CLI)在內的公開基準測試中取得開源第一。智譜還表示，將在釋出兩週後開放模型權重。
+
+---
+
+### 2026-08-14 13:36:21  #其他
+
+【江蘇：推進太空計算全鏈條降本，支援太空超算中心等前瞻性試驗建設】《江蘇省商業航天高質量發展三年行動計劃（2026—2028年）》印發。其中提到，大力探索航天應用場景。實施多元化場景建設行動。支援衛星通訊、衛星導航、衛星遙感、太空計算、前沿方向等核心技術研發和應用，挖掘新領域新賽道、科學教育、社會治理、民生服務等領域需求，以提升生產力和改善生活為方向，推動打造一批“衛星+X”應用場景。其中，支援電、算、熱等產業鏈核心單位聯合攻關，加快國產算力晶片、伺服器在軌驗證，應用人工智慧技術，積極探索“天數天算”行業應用。推進太空計算全鏈條降本，支援太空超算中心等前瞻性試驗建設，強化“地數天算”技術儲備。
+
+---
+
+### 2026-08-14 13:35:59  #其他
+
+【江蘇：擬突破大運力和可重複使用火箭關鍵技術 強化發射回收驗證能力建設】《江蘇省商業航天高質量發展三年行動計劃（2026—2028年）》印發。其中提到，突破大運力和可重複使用火箭關鍵技術。支援重點企業開展先進液氧/煤油、液氧/甲烷火箭發動機研製，提升火箭運載能力，實施火箭發射與回收技術試驗驗證，加速技術迭代與成熟；提升關鍵零部元件與材料自主保障能力。支援開展火箭結構分系統、推進分系統、控制分系統等核心技術攻關，推進感測部件、高效能複合材料等基礎能力提升；強化發射回收驗證能力建設。支援有條件地區與國內現有發射場開展合作，推進海上機動發射裝備研製，提升海上發射服務保障能力。
+
+---
+
+### 2026-08-14 13:35:55  #其他
+
+【江蘇：到2028年有序推進若干個衛星星座建設 商業航天重點企業年產值力爭達到600億元】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，到2028年，建成1—2個省級製造業創新中心，中試驗證能力明顯提升；形成50個左右商業航天典型應用案例，有序推進若干個衛星星座建設，人工智慧應用賦能進一步深化；重點企業年產值力爭達到600億元，火箭、衛星製造能力穩步提升，在地面裝置和應用終端領域形成一批國內領先的標誌性產品，衛星服務規模持續擴大。
+
+---
+
+### 2026-08-14 13:35:36  #其他
+
+臺灣證交所加權股價指數收低0.5%報45,811.01。
+
+---
+
+### 2026-08-14 13:35:17  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index closed down 210.47 points, or 0.46%, at 45,811.01 on Friday, Aug. 14.
+
+---
+
+### 2026-08-14 13:34:46  #其他
+
+【江蘇：著力推進蘇州佈局火箭整機制造 做強關鍵材料和核心元器件】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，支援南京、無錫、常州、蘇州、南通、連雲港、鎮江等重點地區依託產業優勢，差異化佈局商業航天重點產業環節，推進省級未來產業先行集聚發展試點建設，打造國內有影響的商業航天產業叢集。而從蘇州來看，著力推進佈局火箭整機制造，做強關鍵材料和核心元器件、基礎軟體、衛星熱控、衛星電源、衛星推進、火箭貯箱等優勢單機及零部元件，發展鐳射通訊終端、遙感光學載荷研製與資料服務。
+
+---
+
+### 2026-08-14 13:34:38  #觀點 #國際
+
+日本國際協力銀行：本次貸款由花旗銀行北美東京分行與摩根大通銀行北美東京分行聯合融資，聯合融資總規模約為24億美元。
+
+---
+
+### 2026-08-14 13:33:08  #MKT News #Market Regions #Greater China
+
+【Jiangsu backs leading rocket and satellite systems and payload firms in accessing capital markets, speeding listings】Jiangsu province published a Three-Year Action Plan for high-quality commercial space development (2026-2028). It directs support for leading rocket and satellite systems and satellite-payload firms to connect with capital markets and accelerate listings. The plan targets core suppliers — including telemetry/control communication payloads, satellite laser communications and satellite power systems — for development into single-product market leaders and specialized, innovative "little giant" SMEs. It also pledges to nurture innovative SMEs in satellite applications, aerospace new materials and fundamental components. The province will form an aerospace industry development working group to strengthen cross-department coordination and seek national ministry support on launch-permit approvals, frequency and orbital resource coordination, constellation-operation qualifications and major project approvals.
 
 ---
 
@@ -18945,185 +19131,5 @@ New York gold futures slipped below $4,450/oz, down 0.43% on the day.
 ### 2026-08-13 12:10:37  #Trading Economics #Economy #Malaysia #Construction Output #Importance 1
 
 Malaysia Q2 Construction Output Growth Accelerates — Malaysia’s construction activity grew 8.8% year-on-year in Q2 2026, quickening from an 8.5% increase in the previous quarter, which marked the sector’s slowest growth since Q4 2023. The solid result was mainly driven by faster civil engineering activity (2.7% vs 1.5% in Q1), which remained the largest contributor to the sector, accounting for 35.0% of total output. Growth in non-residential buildings also strengthened (13.3% vs 12.7%), representing 29.3% of overall activity. Meanwhile, residential building activity accelerated further (8.7% vs 6.1%), contributing 22.8% of total output. In contrast, special trade activities moderated sharply (17.6% vs 24.6%), although they still accounted for 12.9% of total construction activity.
-
----
-
-### 2026-08-13 12:10:37  #公司
-
-【大陸航空科技控股：預計上半年虧損不多於1.05億港元】大陸航空科技控股公告，預期截至2026年6月30日止六個月錄得除稅後虧損不多於1.05億港元，上年同期除稅後溢利約6400萬港元。虧損由盈利警告公告所述的7000萬港元最多增至1.05億港元，乃由於就物業出售重新計量持作出售資產所產生的估計虧損撥備約3800萬港元所致。
-
----
-
-### 2026-08-13 12:10:28  #公司
-
-【希慎興業：2026年上半年基本溢利11.07億港元同比增7.4%】希慎興業公告，截至2026年6月30日止6個月，營業額17.28億港元，同比微降0.1%。經常性基本溢利10.49億港元，同比增長1.7%；基本溢利11.07億港元，同比增長7.4%，主要受惠於出售竹林苑住宅單位的公平值收益帶動。公佈溢利7300萬港元，同比下降2.7%。每股基本盈利7港仙。董事會宣派第一次中期股息每股27港仙，與上年持平。
-
----
-
-### 2026-08-13 12:10:23  #MKT News
-
-【Hong Kong midday: Hang Seng rebounds; compute-hardware names lead gains】Hang Seng rebounded from an opening drop to finish up 0.07% at 25,457.33 at midday after opening more than 150 points lower; Hang Seng Tech gained 0.30% to 4,790.56. Market turnover reached HKD 132.03 bln. Compute-hardware stocks led sector gains, with storage and optical-communications sub-sectors outperforming; nonferrous metals were the weakest group. Innovative-drug names recovered after an early dip. Selected movers: Cambridge Technology (06166.HK) +15.37%, Shengbang (03661.HK) +7.69%, CSPC PHARMA (01093.HK) +5.76%; Tencent Holdings (00700.HK) fell 3.81% after results; Lingbao Gold (03330.HK) -6.78%; Aluminum Corp of China (02600.HK) -5.01%.
-
----
-
-### 2026-08-13 12:10:14  #公司
-
-瑞典法律人工智慧初創公司Legora尋求以超100億美元估值融資。
-
----
-
-### 2026-08-13 12:08:15  #MKT News #Market Regions #Greater China #00992.HK #Impact bullish
-
-Lenovo Group (00992.HK) said adjusted profit attributable to equity holders rose 176% YoY in Q1 to $1.075 bln.
-
----
-
-### 2026-08-13 12:08:12  #MKT News
-
-【Crew mental health deteriorates aboard USS Abraham Lincoln after prolonged deployment】Military Times reports multiple sailors aboard USS Abraham Lincoln have attempted to jump overboard amid what it calls a mental-health crisis that has reached the breaking point. About 5,000 sailors and Marines remain on a deployment that began Nov. 21 supporting U.S. actions in the Middle East against Iran; the deployment, originally due to end in May, has been extended with no return date announced. Families raised concerns about fatigue, safety and mental health at a recent online meeting. The acting Navy secretary told families a team will relieve Lincoln but gave no timeline, citing operational security; Sen. Richard Blumenthal has requested details on shipboard conditions and the extension.
-
----
-
-### 2026-08-13 12:08:02  #其他
-
-【2026未來科學大獎獲獎者名單公佈：張宏、趙東元、袁新意獲獎】未來科學大獎評審委員會於8月13日公佈2026年獲獎名單。張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；趙東元因其對介孔材料的開創性貢獻，包括合成控制、機制理解和工業應用，而獲得“物質科學獎”；袁新意因其在算術幾何領域作出的奠基性貢獻，特別是創立了Arakelov幾何中的算術大性理論，並將其開創性地應用於一致Bogomolov猜想和一致Mordell猜想，而獲得“數學與電腦科學獎”。
-
----
-
-### 2026-08-13 12:07:50  #MKT News #00992.HK #Impact bullish
-
-Lenovo Group (00992.HK) said first-quarter group revenue rose 43% YoY to $26.9 bln, a single-quarter record.
-
----
-
-### 2026-08-13 12:07:14  #國際
-
-【歐洲最高活火山持續噴發 西西里島航班遭嚴重干擾】由於義大利西西里島東岸的“歐洲最高活火山”埃特納火山持續噴發，位於火山附近的卡塔尼亞機場12日兩次宣佈延長關閉狀態，最新時限至當地時間14日2時。自7日以來，埃特納火山噴發出大量火山灰和熾熱的碎岩石。義大利國家地球物理學與火山學研究所說，兩股濃密的熔岩流分別從海拔2360米和2750米的兩個位置湧出。此後，又有兩股新的熔岩流形成。火山噴發嚴重干擾了西西里島的航班執行。卡塔尼亞機場12日先是宣佈將暫停航班起降延長至13日16時，當天深夜又將停航時限延長至14日2時。此次斷航正值度假高峰期，該機場自8日以來已有數百航班取消，另有大量航班延誤或轉至西西里島其他機場起降，數千旅客行程受到影響。埃特納火山噴發還波及馬耳他，當地因出現火山灰雲而取消部分航班。（新華社）
-
----
-
-### 2026-08-13 12:05:44  #公司
-
-【潮州應急管理局闢謠“潮州將發生10級地震”】潮州市應急管理局8月13日釋出闢謠通告：8月12、13日，有自媒體在抖音、今日頭條等平臺釋出“潮州將發生10級地震”的地震謠言。截至目前，我市沒有收到上級權威部門釋出的地震預報資訊。
-
----
-
-### 2026-08-13 12:05:17  #公司
-
-【諾仕機器人完成近億元A+輪融資】精密傳動部件供應商諾仕機器人（NOUSBOT）近日完成近億元A+輪融資。本輪由順為資本領投，望千銘誠跟投。資金將主要用於微型行星滾柱絲槓產能擴張、產品迭代及海外市場佈局。至此，該公司已完成四輪融資，歷史投資方包括上汽創投、浦東科創、聯想創投等產業資本。（科創板日報）
-
----
-
-### 2026-08-13 12:05:04  #MKT News
-
-Japan's foreign minister MOTEGI strongly protested Russian President Putin's visit to disputed islands.
-
----
-
-### 2026-08-13 12:04:51  #其他
-
-電影《四渡》官宣金鑰延期，延長上映至9月30日，據貓眼專業版資料，電影2026年6月26日上映，截至當前累計票房2.83億。
-
----
-
-### 2026-08-13 12:04:44  #其他
-
-北京市規劃自然資源委提示：08月13日12時-08月14日12時昌平、延慶、懷柔、密雲、平谷山區道路沿線區域性路段山體斜坡有發生崩塌災害的風險，請注意防範。
-
----
-
-### 2026-08-13 12:04:10  #MKT News #Commodities #Energy
-
-Abu Dhabi National Energy Company (TAQA) said 1H oil and gas production fell after scheduled decommissioning of its UK North Sea assets.
-
----
-
-### 2026-08-13 12:04:04  #其他
-
-希慎興業上半年營收17.3億港元，預估17.4億港元；希慎興業 上半年基礎盈利11.1億港元。
-
----
-
-### 2026-08-13 12:03:48  #MKT News #Commodities #Energy
-
-Abu Dhabi National Energy Company (TAQA) reported Q2 oil and gas production averaged 925,000 barrels of oil equivalent per day.
-
----
-
-### 2026-08-13 12:03:00  #市場
-
-【港股午評：三大指數窄幅震盪，科網股走勢分化，晶片股活躍，黃金股回撥 】連續2日下跌後，港股三大指數今日上午盤呈現止跌窄幅震盪行情，恒生指數微幅上漲0.07%，國企指數微跌0.04%，恒生科技指數漲0.3%。大型科網股走勢分化，騰訊績後大跌近4%，小米小幅走低，百度則漲超2%，阿里巴巴、京東飄紅；韓股強勁反彈帶動，儲存晶片股、光通訊概念股、PCB概念股集體活躍，另外，昨日領漲的黃金等有色金屬股集體下跌。
-
----
-
-### 2026-08-13 12:02:31  #公司
-
-【中國化學成立新公司 含汽車零部件製造業務】企查查APP顯示，近日，中化學科學技術研究（北京）有限公司成立，法定代表人為周偉，註冊資本為5000萬元，經營範圍包含機械裝置銷售；汽車零部件及配件製造；環境保護專用裝置製造；合成材料銷售等。企查查股權穿透顯示，該公司由中國化學間接全資持股。
-
----
-
-### 2026-08-13 12:02:27  #國際
-
-日本外相茂木敏充：對俄羅斯總統普京訪問爭議島嶼提出強烈抗議。
-
----
-
-### 2026-08-13 12:01:33  #公司
-
-【聯想集團2026/27財年第一財季業績經調整淨利同比增176% ISG利潤率達9.1%】8月13日，聯想集團（0992.HK）披露2026/27財年第一財季業績，實現營收269.43億美元（約1834億元人民幣），同比增長43%；經調整淨利潤達10.75億美元（約73億元人民幣），同比增長176%；經調整淨利潤率達4%，同比接近翻倍。其中，ISG基礎設施方案業務集團營收達579元人民幣，同比增長98%；運營利潤約53億元人民幣，同比增98%；運營利潤率為9.1%，同比提升11.1個百分點，環比提升 5.5個百分點。AI伺服器儲備訂單從上一財季的1400億元，大幅提高至3600億元人民幣。
-
----
-
-### 2026-08-13 12:00:45  #宏觀 #兩會
-
-【探索“紅燈停表”等 京滬共治外賣平臺“內卷式”競爭】今天（13日），記者從北京市市場監督管理局獲悉，平臺經濟“破卷向善”第二次協商對話在京召開。京滬兩地市場監管部門圍繞外賣騎手演算法最佳化，組織三家外賣平臺與騎手共商共治，同時邀請專家學者、人大代表等多方協商最佳化舉措，進一步保護外賣騎手合法權益，推動行業從“速度競賽”轉向“質量競爭”，圍繞演算法評估最佳化、加強管理引導、常態化協商共治等三方面推出一系列措施。演算法評估最佳化方面，三家平臺將率先集中在京落地“紅燈停表”，騎手等紅燈的時長在考核時間中順延。保障轉單場景下騎手配送時長，適度增加騎手配送考核時長；計算配送時長時，對於駕駛電動腳踏車配送的情況，以平均時速不超過15公里/小時計算；對惡劣天氣、複雜路況等加大補時力度。科學設定商家列表首頁顯示的配送參考送達時長，避免“分鐘級競速”。因商家出餐慢導致的超時訂單，不影響騎手服務分。加強管理引導方面，開展“智慧騎手”行動，探索開發騎手AI智慧體助手，為騎手提供優惠智慧裝置。加大安全分正向激勵作用，營造遵規守法良好風尚。加大技術力量投入，強化交通違法行為監測，引導騎手安全行駛並按規定停放車輛。協商共治方面，圍繞騎手演算法常態化開展“破卷向善”協商對話，履行演算法備案手續並主動公開，組織演算法宣講與答疑活動，提升演算法透明度。京滬兩地市場監管部門相關負責人表示，將繼續發揮多方協商對話機制的橋樑作用，圍繞更多行業共性問題開展專題協商，引導形成更多可感可及的舉措，為促進全國平臺經濟創新和健康發展提供有益探索。
-
----
-
-### 2026-08-13 12:00:19  #其他
-
-【廣深港高鐵跨境客流破2000萬人次】截至8月10日，廣深港高鐵今年累計運送跨境旅客達2005.4萬人次，比去年提前11天突破2000萬人次大關。其中，內地前往香港客流達1032.7萬人次；香港前往內地客流達972.7萬人次，客流雙向流動旺盛。
-
----
-
-### 2026-08-13 12:00:06  #宏觀 #兩會
-
-【外賣平臺“破卷向善” 三大平臺將在京率先落地“紅燈停表”】今天（13日），記者從北京市市場監督管理局獲悉，平臺經濟“破卷向善”第二次協商對話在京召開。京滬兩地市場監管部門圍繞外賣騎手演算法最佳化，組織三家外賣平臺與騎手共商共治，同時邀請專家學者、人大代表等多方協商最佳化舉措，進一步保護外賣騎手合法權益，推動行業從“速度競賽”轉向“質量競爭”，圍繞演算法評估最佳化、加強管理引導、常態化協商共治等三方面推出一系列措施。（央視新聞）
-
----
-
-### 2026-08-13 11:59:10  #公司 #市場
-
-【財通福鑫定開混合：將於8月13日下午開盤起至當日收盤停牌】財通基金管理有限公司公告，截至2026年8月13日上海證券交易所午間收盤，旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年8月13日下午開盤起至當日收盤停牌。
-
----
-
-### 2026-08-13 11:59:05  #其他
-
-北京市規劃自然資源委聯合市氣象局2026年8月13日12時降級釋出地質災害氣象風險藍色預警：8月13日12時至8月14日12時，我市昌平區北部、延慶區南部、密雲區、平谷區大部有發生崩塌、滑坡等地質災害的風險（藍色預警），請注意防範。
-
----
-
-### 2026-08-13 11:58:08  #公司
-
-【興業銀錫：前期已開展盾構機應用評估論證工作 現階段暫無相關實施計劃】興業銀錫(000426)8月13日在互動平臺表示，公司前期已開展盾構機應用評估論證工作，現階段暫無相關實施計劃。
-
----
-
-### 2026-08-13 11:57:24  #公司
-
-【眾擎機器人等在上海成立新公司 註冊資本6120萬】天眼查App顯示，上海星意擎坤科技有限公司於8月12日成立，註冊資本6120萬元人民幣，法定代表人為呂學敏，經營範圍含智慧機器人的研發、智慧機器人銷售、工業機器人銷售、人工智慧基礎軟體開發、人工智慧理論與演算法軟體開發等。股東資訊顯示，該公司由北京火星人視野科技有限公司持股約43.81%，上海傲意資訊科技有限公司持股約32.68%，深圳眾擎機器人科技股份有限公司持股約19.59%，上海坤亦商科技有限公司持股約3.92%，企業型別為有限責任公司（外商投資企業與內資合資）。
-
----
-
-### 2026-08-13 11:56:59  #MKT News
-
-Caitong Fuxin Interval Open-end Mixed Fund will suspend trading from the start of the afternoon session on Aug 13, 2026 through market close that day.
-
----
-
-### 2026-08-13 11:55:23  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Extends Losses, Trades Below MYR 4,700 — Malaysian palm oil futures slipped further, staying below MYR 4,700 per tonne and hovering near a one-week low amid weakness in edible oils on the Dalian and Chicago exchanges. Signs of ample supply continued to weigh on sentiment, with Malaysia’s July palm oil inventories rising 3.32% mom, while production surged 9.41%. Lower crude oil prices also pressured edible oils after forecasts pointed to softer global oil demand in 2026. Meanwhile, Malaysia lowered its September crude palm oil reference price, but the adjustment was not enough to push the export duty below 10%. Still, a weaker ringgit helped cushion the downside by making palm oil more affordable for overseas buyers. Export prospects also improved, with cargo surveyors estimating Malaysian palm oil shipments rose between 2.6% and 14.8% in the first 10 days of August. In top buyer India, expectations of stronger festive-season demand provided additional support after July edible oil imports climbed to a ten-month high.
 
 ---

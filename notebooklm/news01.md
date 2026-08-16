@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 19:45:44_
-_本檔包含 3039 則快訊，約 601358 字_
+_更新時間：2026-08-16 20:54:43_
+_本檔包含 3033 則快訊，約 600206 字_
+
+---
+
+### 2026-08-16 20:48:14  #MKT News
+
+【Iranian parliament passes anti-infiltration bill】The Iranian parliament’s presidium spokesman Abbas Goudarzi said on the 16th the legislature passed an anti-infiltration bill to counter infiltration by hostile intelligence agencies and foreign governments or organisations. Hassan Kashkavi, spokesman for the parliament’s National Security and Foreign Policy Committee, said existing laws address espionage but left a legal gap on anti-infiltration that the new bill is intended to fill.
+
+---
+
+### 2026-08-16 20:47:49  #國際
+
+巴勒斯坦訊息人士：庫什納決定在前往特拉維夫與以色列總理會晤之前，於開羅會見哈馬斯領導層。
+
+---
+
+### 2026-08-16 20:47:31  #國際
+
+巴勒斯坦訊息人士透露：特朗普女婿庫什納將於稍後在開羅會見哈馬斯領導層，卡達、埃及和土耳其官員將出席。
+
+---
+
+### 2026-08-16 20:47:03  #國際
+
+【伊朗議會透過反滲透法案】伊朗議會主席團發言人阿巴斯·古達爾齊16日宣佈，伊朗議會透過了一項反滲透法案，以應對敵方情報機構及外國政府或機構對伊朗的滲透。據伊朗塔斯尼姆通訊社報道，古達爾齊在接受採訪時說，議會當天審議並以183票贊成的投票結果透過了上述法案。據報道，伊朗議會國家安全與外交政策委員會發言人哈桑·卡什卡維在介紹該法案時說，伊朗針對間諜活動已有相關法律，但在反滲透問題上存在法律空白，制定該法案旨在填補這項空白。（新華社）
+
+---
+
+### 2026-08-16 20:44:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says US forces expelled, barred from Persian Gulf, Gulf of Oman and Strait of Hormuz】Iran's army commander Hatami said on Aug. 16 US forces have been expelled and are no longer permitted to enter the Persian Gulf, Gulf of Oman or the Strait of Hormuz. He said US bases in the region can never be restored to their previous status and Iran will not allow that to happen.
+
+---
+
+### 2026-08-16 20:39:40  #國際
+
+市場訊息：距離關鍵的國會中期選舉不到三個月，屆時國會將易主。根據最新民調，超過一半的美國選民表示，唐納德·特朗普入主白宮後，他們的生活變得更糟。
+
+---
+
+### 2026-08-16 20:34:09  #其他
+
+辛巴威警方：卡里巴湖8月11日沉船事故遇難人數上升至80人，此前又尋獲多具遇難者遺體。
+
+---
+
+### 2026-08-16 20:32:24  #公司
+
+【貝特利：首次公開發行股票並在創業板上市網上路演公告】貝特利公告稱，公司首次公開發行不超6570萬股人民幣普通股（A股）的申請已獲深交所上市稽核委員會審議透過，並獲中國證監會同意註冊。本次發行採用戰略配售、網下發行和網上發行相結合方式，發行後總股本為26270萬股。初始戰略配售1971萬股，約佔發行數量30%。發行人和保薦人國信證券定於2026年8月18日舉行網上路演，網址為全景路演（https://rs.p5w.net），時間為14:00 - 17:00 。
+
+---
+
+### 2026-08-16 20:30:17  #MKT News
+
+【Fighting intensifies in Yemen; Iran-backed Houthi forces suffer heavy casualties】Al Arabiya English, citing military sources, reported about 200 Houthi fighters killed in the past 48 hours, most on the Taizz and Marib fronts. Sources said the deaths resulted from drone strikes and firefights, with numerous bodies delivered to hospitals in Sanaa, which is under Houthi control; the casualties follow a funeral last week for more than 184 fighters.
+
+---
+
+### 2026-08-16 20:26:39  #國際
+
+【美海軍第五艦隊否認“拳師”號兩棲攻擊艦女性衛生用品短缺傳聞】針對近期外界有關美國海軍“拳師”號兩棲攻擊艦（USS Boxer）出現女性軍人衛生用品短缺的報道，美國海軍中央司令部及第五艦隊16日發表宣告予以明確否認，強調相關說法不屬實。宣告指出，“拳師”號自今年3月從聖迭戈出發以來，已先後進行了四次靠港訪問。該艦在上次靠港後在海上連續部署的時間不足兩個月。目前，艦上儲備充足，包括艦上商店和醫務室均備有女性衛生用品。此外，該艦在8月份已順利接收了兩次大型郵件補給。美國海軍第五艦隊強調，“拳師”號兩棲戒備大隊目前裝備齊全，具備執行所有指派任務的能力，隨時處於待命狀態。此前，有社交媒體賬號釋出影片稱，“拳師”號上的女性人員一直在“懇求”提供額外的衛生巾和棉條，稱基本的女性衛生用品在海上已經耗盡。
+
+---
+
+### 2026-08-16 20:23:24  #國際
+
+伊朗陸軍總司令：美國人無權進入波斯灣、阿曼領海與霍爾木茲海峽。所有人都應該清楚，美國的任何基地都不可能恢復到戰前的狀態，伊朗絕不允許這種情況發生。
+
+---
+
+### 2026-08-16 20:22:07  #MKT News
+
+【Israel post-war economy rebounds; Q2 GDP up 15.4% annualized】Israel's seasonally adjusted Q2 GDP rose 15.4% at an annualized rate, the Israel Central Bureau of Statistics said on Sunday, outpacing the Bloomberg median forecast of 8.3% from eight economists. Q1 GDP was revised to a 2.2% contraction. Goods and services exports led the rebound, up 35.2%; government consumption rose 19.5%, private consumption 14.7% and fixed capital formation 6.3%. Mizrahi‑Tefahot Bank chief strategist Yonie Fanning said before the release the economy is expected to see a "rapid recovery" after contraction linked to conflict with Iran, with consumer spending including durables a key driver.
+
+---
+
+### 2026-08-16 20:20:56  #國際
+
+【韓國政府將建新機構追繳親日反民族行為者財產】韓國媒體16日報道，韓國政府將於12月新建一個調查委員會，負責追繳親日反民族行為者不當聚斂的財產。這將是韓國時隔16年首次重啟該工作，預計將追繳至少325億韓元（約合1.5億元人民幣）相關財產。
+
+---
+
+### 2026-08-16 20:20:02  #市場
+
+本週兩融餘額增幅最大：藥康生物兩融餘額：2.88億元，餘額增幅：274.1%；必易微兩融餘額：1.53億元，餘額增幅：145.88%
+
+---
+
+### 2026-08-16 20:19:18  #國際
+
+伊朗陸軍總司令：除3萬美元（50億土曼）獎賞外，任何成功消滅一名美軍勢力的個人，都將獲得其購買武器價格的兩倍獎賞，並領取一件新武器。
+
+---
+
+### 2026-08-16 20:14:00  #其他
+
+據燈塔專業版實時資料，截至8月16日20時11分，影片《歡迎來龍餐館》票房突破9億。
+
+---
+
+### 2026-08-16 20:08:49  #MKT News
+
+i24News reports Israeli prime minister NETANYAHU will meet in Israel tomorrow with U.S. envoy Kushner and senior officials from the High-Level Peace Committee.
+
+---
+
+### 2026-08-16 20:05:24  #市場
+
+【多家銀行競推算力貸，算力證明信用能走多遠】近日，廣東省首個詞元經濟專項金融產品“Token貸”的推出引發熱議，該產品以企業算力Token產出消耗、算力服務合約價值、算力業務產生的應收賬款、Token佣金結算量等作為核心授信依據，為企業提供授信額度。 市場人士認為，這類似於電商興起之時誕生的“流水貸”，即“以流水證明信用”，如今是以“算力證明信用”。 不過，電商流水是已實現的資金流，而Token消耗只是業務活躍度指標，二者仍有極大的區別。專家更傾向於認為，算力未來更可能成為科技型企業授信的補充維度，而非替代傳統信用體系。（一財）
+
+---
+
+### 2026-08-16 20:05:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel's Channel 12 reported Israeli warplanes struck Khan Younis in the southern Gaza Strip.
+
+---
+
+### 2026-08-16 20:03:07  #其他
+
+江蘇澤景汽車電子預計上半年淨虧損介於4.04億元至4.24億元區間。
+
+---
+
+### 2026-08-16 20:02:24  #央行 #市場 #國際
+
+【國金策略：市場反彈或逐漸步入平臺期 實物資產的彈性也將顯現】國金策略釋出研報指出，7月全球AI資產的快速下跌有產業內部基本面矛盾擔憂加劇、美伊地緣風險與流動性緊縮預期抬升等多方面的原因，8月以來在美伊重新釋放和談訊號、世界盃後美國就業與通脹資料走弱後聯儲緊縮預期緩和，科技資產表現逐漸回暖。 分母側驅動力減弱後，AI資產與非AI相關的實物資產逐漸步入平臺期。  具體配置建議上，我們推薦：第一，大宗商品反彈已經確立，能源+金屬的組合將從3月以來整體下行轉換進入整體上行時期，美伊衝突只決定內部分配關係，考慮到短期衝突正在加劇，當前資源品排序：能源（煤炭、石油石化）、有色金屬（金、銅、鋁）。第二，紅利風格受益於絕對收益者的切換，高股息+低波動+穩定現金流的紅利資產仍是絕對收益資金的核心迴流方向。第三，南方國家故事與中國製造的共振正在孕育，關注工程機械、電網裝置、煉化等方向。
+
+---
+
+### 2026-08-16 19:58:12  #國際
+
+【美媒：海灣盟友對美沮喪情緒持續上升】據美國《華盛頓郵報》15日報道，多名阿拉伯國家和西方國家官員稱，美國海灣盟友對美國的沮喪情緒正持續上升。據知情官員透露，沙烏地阿拉伯、阿聯酋和卡達等多個海灣國家在對特朗普政府的不滿上達成共識，部分國家開始討論是否還有必要繼續允許美國在本土部署大型軍事設施。近期，美國總統特朗普多次威脅要對伊朗發起新一輪大規模打擊，但隨後又都以談判取得進展為由收回這些威脅。這讓海灣國家越來越擔心，特朗普缺乏與伊朗達成和平協議的外交能力。（新華社）
+
+---
+
+### 2026-08-16 19:58:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Washington Post: Gulf allies' frustration with US continues to rise】The Washington Post reports multiple Arab and Western officials say U.S. Gulf allies’ frustration with Washington has increased; Saudi Arabia, the UAE and Qatar have coalesced around dissatisfaction and some are discussing whether to continue hosting large U.S. military facilities on their territory. Officials say recent episodes in which President Trump repeatedly threatened large-scale strikes on Iran and then withdrew those threats citing progress in talks have heightened Gulf concern that he lacks the diplomatic capacity to secure a peace agreement with Iran.
+
+---
+
+### 2026-08-16 19:53:45  #其他
+
+【民調：德國聯盟黨支援率跌至近5年來新低】德國方面16日釋出的一項民意調查結果顯示，由基督教民主聯盟（基民盟）和基督教社會聯盟（基社盟）組成的聯盟黨支援率僅為20%，跌至近5年來新低，落後極右翼的德國選擇黨8個百分點。
+
+---
+
+### 2026-08-16 19:46:10  #焦點 #國際
+
+【8月16日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.《求是》雜誌發表習近平總書記重要文章《提高防災減災救災能力》； 2.紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話； 3.文獻紀錄片《江澤民》今晚繼續播出； 4.朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀； 5.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】重慶加快推動科技創新和產業創新深度融合； 6.織密農村物流網 釋放鄉村新活力； 7.以源頭創新激發產業發展新動能； 8.河南江蘇等地加緊進行防汛救災工作； 9.南海海域和東海部分海域今天開漁； 10.基層中醫藥服務再升級 群眾家門口享優質診療； 11.【活力中國調研行】“陪跑”團隊跑出創新加速度； 12.【文化中國行】琢石續千秋 凝灰岩文保破解世界難題； 13.國內聯播快訊： （1）前7個月國家開發銀行發放養老產業貸款超百億元； （2）今年以來廣州白雲機場入境人員超650萬人次； （3）我國成功發射衛星網際網路低軌24組衛星； （4）2026暑期檔電影票房破百億元 電影全產業鏈產值超4000億元； 14.伊朗稱與阿曼就霍爾木茲海峽航運路線圖達成協議 黎巴嫩南部遭以軍空襲 至少11人死亡； 15.國際聯播快訊： （1）俄要求美土就向烏供武計劃作出解釋； （2）印尼強震死亡人數升至51人； （3）西班牙在休達加強部署 嚴防偷渡； （4）法南部林火復燃 比利時遭遇嚴重林火。
 
 ---
 
@@ -18161,191 +18311,5 @@ WTI crude traded above $81/bbl, up 0.7% on the day.
 ### 2026-08-14 13:53:31  #公司
 
 【交通銀行推動全市場首單企業自貿離岸債業務落地】近日，作為主承銷團成員之一，交銀集團助力上海電氣發行全市場首單企業自貿離岸債，總額15億元，這也是自貿離岸債首次在香港交易所掛牌。本次發行是上海自貿試驗區離岸金融創新的重要進展，也是2026陸家嘴論壇《上海國際金融中心發展離岸金融行動方案》釋出後自貿離岸債領域的標誌性成果。（上證報）
-
----
-
-### 2026-08-14 13:52:54  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan 2-year JGB yield rose 0.5 bps to 1.650%; 5-year JGB yield rose 1.5 bps to 2.135%.
-
----
-
-### 2026-08-14 13:51:34  #MKT News #CNH #Impact bullish
-
-【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan.
-
----
-
-### 2026-08-14 13:47:44  #其他
-
-臺積電第二季淨利潤為臺幣7067.8億元，上年同期為臺幣3974.9億元。
-
----
-
-### 2026-08-14 13:46:28  #MKT News #Important #300017.SZ #Impact bullish
-
-China A-share compute-power leasing sector jumped intraday: DataPort hit limit-up, Wangsu Technology neared limit-up; Caixun, Xingyun Technology, Aofei Data and Litong Electronics also advanced.
-
----
-
-### 2026-08-14 13:46:07  #MKT News
-
-【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations.
-
----
-
-### 2026-08-14 13:45:40  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Interfax reports the Russian defence ministry said it sank two escort vessels that were accompanying ships transporting weapons to Ukraine.
-
----
-
-### 2026-08-14 13:45:02  #其他
-
-算力租賃概念探底回升，網宿科技漲超17%，行雲科技漲超10%，資料港、奧飛資料、利通電子跟漲。
-
----
-
-### 2026-08-14 13:44:36  #國際
-
-【臺灣多個黨派團體集會反對日本右翼擴軍與干涉臺灣問題】臺灣多個黨派團體14日在臺北舉行“反對日本軍國主義復辟”共同行動，嚴正反對日本右翼擴軍與干涉臺灣問題，絕不容許軍國主義復辟。集會活動在“日本臺灣交流協會”臺北事務所門前進行。活動發表宣告表示，臺灣問題純屬中國內政，絕不容許昔日侵略者說三道四。歷史不應遺忘，強烈譴責日本軍國主義死灰復燃，堅決反對日本右翼勾結“臺獨”分裂勢力。 (央視新聞)
-
----
-
-### 2026-08-14 13:44:14  #國際
-
-俄羅斯稱其襲擊了兩艘為向烏克蘭運送武器的船隻護航的船隻。
-
----
-
-### 2026-08-14 13:43:55  #MKT News #Important #Market Themes #Chip Wars #00981.HK #Impact bullish #02577.HK #03986.HK
-
-Hong Kong semiconductor stocks recovered in the afternoon. Semiconductor Manufacturing International Corp. (SMIC, 00981.HK) extended gains, up more than 6%; 02577.HK rose over 3%, while 02676.HK and GigaDevice Semiconductor (03986.HK) also advanced.
-
----
-
-### 2026-08-14 13:43:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Interfax reported the Russian defence ministry said it struck a rail station inside Ukraine's Izmail port that was being used to transport military supplies.
-
----
-
-### 2026-08-14 13:42:59  #國際
-
-俄羅斯稱其襲擊了烏克蘭伊茲梅爾港的火車站，該港口用於軍事貨物運輸。
-
----
-
-### 2026-08-14 13:41:51  #其他
-
-B. RILEY將應用材料目標價從790美元下調至700美元。
-
----
-
-### 2026-08-14 13:41:33  #MKT News
-
-Japan 5-year government bond yield rose 1 bp to 2.130%.
-
----
-
-### 2026-08-14 13:41:27  #MKT News #USDJPY #Impact bearish
-
-USD/JPY slid more than 10 pips intraday to 159.24.
-
----
-
-### 2026-08-14 13:41:10  #MKT News #Market Themes #AI Revolution
-
-【Zhipu (02513.HK) releases GLM-5.3, flags coding and long‑horizon gains】Zhipu (02513.HK) said it released GLM-5.3 today, using the same base model as GLM-5.2 and attributing all performance gains to post‑training optimization. The company said GLM-5.3 improves performance on complex coding and long‑horizon tasks, delivering a 50% uplift versus GLM-5.2 on its internal Z.ai code benchmark. Zhipu called GLM-5.3 the most capable open‑source weight model and said network‑capability gains during scaled post‑training deployment exceeded expectations. On the CyberGym platform, GLM-5.3 led vulnerability discovery tests, with improvements concentrated in later stages of exploit chains and more than double the exploitation‑benchmark performance of GLM-5.2. Pending security evaluation and hardening, Zhipu plans to publish the model weights two weeks after release.
-
----
-
-### 2026-08-14 13:41:06  #市場 #國際
-
-5年期日本國債收益率上漲1個基點，至2.130%。
-
----
-
-### 2026-08-14 13:40:58  #市場 #央行 #國際 #原創
-
-【訊息人士稱日本央行考慮9月加息，並加快緊縮步伐】據三位知情人士透露，日本央行最早可能在9月份加息，並考慮在此之後以比目前每年約兩次的頻率更積極的方式加息。此舉反映出日本央行對中東衝突帶來的價格壓力、強勁的全球人工智慧需求以及日元持續下跌趨勢日益增長的擔憂。儘管上個月日美罕見地聯合干預，日元的下跌趨勢依然持續。其中一位訊息人士表示：“提前加息已成定局”，這表明日本央行極有可能在9月17日至18日的下次政策會議上加息。另一位訊息人士也表達了類似的觀點，該訊息人士還表示：“日本央行也可能加快加息步伐。”
-
----
-
-### 2026-08-14 13:40:55  #央行 #日本央行
-
-【訊息人士稱日本央行最早將於9月加息】訊息人士稱，日本央行最早將於9月加息，並考慮此後加快加息步伐。
-
----
-
-### 2026-08-14 13:40:38  #MKT News #Important #USDJPY #Impact bearish #Nikkei 225
-
-Sources say the Bank of Japan could raise interest rates as early as September and is considering accelerating subsequent hikes.
-
----
-
-### 2026-08-14 13:40:20  #MKT News
-
-【PHILIPPINE C.BANK governor signals less aggressive rate hikes as growth slows】PHILIPPINE C.BANK Governor Eli Remolona said slowing economic growth means the bank will not pursue as aggressive a pace of rate hikes, but policymakers still need to see a more convincing decline in inf before easing policy. The Philippines now has among Southeast Asia’s weakest growth and highest inf; a recent corruption scandal has dented market confidence and the Iran conflict has added to price pressures.
-
----
-
-### 2026-08-14 13:38:46  #其他
-
-【天海防務等成立智慧船港航股權投資基金】企查查APP顯示，近日，九江市智慧船港航股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天海防務等共同出資。
-
----
-
-### 2026-08-14 13:38:12  #其他
-
-【智譜釋出GLM-5.3】8月14日，智譜正式釋出GLM-5.3。據介紹，與GLM-5.2相比，GLM-5.3基座模型未變，但透過極致的後訓練Scaling大大提高了模型的智慧上界。GLM-5.3擁有更強的程式設計能力，在內部自建體感評測中較GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam (CLI)在內的公開基準測試中取得開源第一。智譜還表示，將在釋出兩週後開放模型權重。
-
----
-
-### 2026-08-14 13:36:21  #其他
-
-【江蘇：推進太空計算全鏈條降本，支援太空超算中心等前瞻性試驗建設】《江蘇省商業航天高質量發展三年行動計劃（2026—2028年）》印發。其中提到，大力探索航天應用場景。實施多元化場景建設行動。支援衛星通訊、衛星導航、衛星遙感、太空計算、前沿方向等核心技術研發和應用，挖掘新領域新賽道、科學教育、社會治理、民生服務等領域需求，以提升生產力和改善生活為方向，推動打造一批“衛星+X”應用場景。其中，支援電、算、熱等產業鏈核心單位聯合攻關，加快國產算力晶片、伺服器在軌驗證，應用人工智慧技術，積極探索“天數天算”行業應用。推進太空計算全鏈條降本，支援太空超算中心等前瞻性試驗建設，強化“地數天算”技術儲備。
-
----
-
-### 2026-08-14 13:35:59  #其他
-
-【江蘇：擬突破大運力和可重複使用火箭關鍵技術 強化發射回收驗證能力建設】《江蘇省商業航天高質量發展三年行動計劃（2026—2028年）》印發。其中提到，突破大運力和可重複使用火箭關鍵技術。支援重點企業開展先進液氧/煤油、液氧/甲烷火箭發動機研製，提升火箭運載能力，實施火箭發射與回收技術試驗驗證，加速技術迭代與成熟；提升關鍵零部元件與材料自主保障能力。支援開展火箭結構分系統、推進分系統、控制分系統等核心技術攻關，推進感測部件、高效能複合材料等基礎能力提升；強化發射回收驗證能力建設。支援有條件地區與國內現有發射場開展合作，推進海上機動發射裝備研製，提升海上發射服務保障能力。
-
----
-
-### 2026-08-14 13:35:55  #其他
-
-【江蘇：到2028年有序推進若干個衛星星座建設 商業航天重點企業年產值力爭達到600億元】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，到2028年，建成1—2個省級製造業創新中心，中試驗證能力明顯提升；形成50個左右商業航天典型應用案例，有序推進若干個衛星星座建設，人工智慧應用賦能進一步深化；重點企業年產值力爭達到600億元，火箭、衛星製造能力穩步提升，在地面裝置和應用終端領域形成一批國內領先的標誌性產品，衛星服務規模持續擴大。
-
----
-
-### 2026-08-14 13:35:36  #其他
-
-臺灣證交所加權股價指數收低0.5%報45,811.01。
-
----
-
-### 2026-08-14 13:35:17  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index closed down 210.47 points, or 0.46%, at 45,811.01 on Friday, Aug. 14.
-
----
-
-### 2026-08-14 13:34:46  #其他
-
-【江蘇：著力推進蘇州佈局火箭整機制造 做強關鍵材料和核心元器件】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，支援南京、無錫、常州、蘇州、南通、連雲港、鎮江等重點地區依託產業優勢，差異化佈局商業航天重點產業環節，推進省級未來產業先行集聚發展試點建設，打造國內有影響的商業航天產業叢集。而從蘇州來看，著力推進佈局火箭整機制造，做強關鍵材料和核心元器件、基礎軟體、衛星熱控、衛星電源、衛星推進、火箭貯箱等優勢單機及零部元件，發展鐳射通訊終端、遙感光學載荷研製與資料服務。
-
----
-
-### 2026-08-14 13:34:38  #觀點 #國際
-
-日本國際協力銀行：本次貸款由花旗銀行北美東京分行與摩根大通銀行北美東京分行聯合融資，聯合融資總規模約為24億美元。
-
----
-
-### 2026-08-14 13:33:08  #MKT News #Market Regions #Greater China
-
-【Jiangsu backs leading rocket and satellite systems and payload firms in accessing capital markets, speeding listings】Jiangsu province published a Three-Year Action Plan for high-quality commercial space development (2026-2028). It directs support for leading rocket and satellite systems and satellite-payload firms to connect with capital markets and accelerate listings. The plan targets core suppliers — including telemetry/control communication payloads, satellite laser communications and satellite power systems — for development into single-product market leaders and specialized, innovative "little giant" SMEs. It also pledges to nurture innovative SMEs in satellite applications, aerospace new materials and fundamental components. The province will form an aerospace industry development working group to strengthen cross-department coordination and seek national ministry support on launch-permit approvals, frequency and orbital resource coordination, constellation-operation qualifications and major project approvals.
 
 ---
