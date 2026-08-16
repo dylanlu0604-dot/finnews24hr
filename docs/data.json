@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-17 01:33:49",
+  "updated": "2026-08-17 01:37:56",
   "count": 15195,
   "items": [
+    {
+      "id": "mkt:01a00ba3-9791-7aab-904f-55043fe55ac3",
+      "time": "2026-08-17 01:34:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli security sources said the Israeli military is preparing for a possible escalation in Lebanon following recent incidents on the Ali Taher Heights."
+    },
     {
       "id": "mkt:01a00ba0-5694-7aab-904f-48d1cab3e39e",
       "time": "2026-08-17 01:30:52",
@@ -138977,14 +138989,6 @@
         "MKT News"
       ],
       "text": "Russian Defence Ministry says Russian air defenses intercepted and destroyed 285 Ukrainian drones."
-    },
-    {
-      "id": "5032649",
-      "time": "2026-08-10 01:35:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄國防部稱，防空力量當天在俄羅斯各地區擊落了285架烏克蘭無人機。"
     }
   ]
 }
