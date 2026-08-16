@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-16 15:21:22",
+  "updated": "2026-08-16 15:25:16",
   "count": 15212,
   "items": [
+    {
+      "id": "5042667",
+      "time": "2026-08-16 15:22:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國電動汽車充電基礎設施（槍）總數超2300萬個】截至6月底，我國電動汽車充電基礎設施（槍）總數達到2305.7萬個，同比增長43.2%。其中，公共充電設施（槍）500.9萬個，同比增長22.3%，額定總功率達到2.47億千瓦，單槍平均功率約為49.35千瓦；私人充電設施（槍）1804.8萬個，同比增長50.4%，報裝用電容量達到1.55億千伏安。（中國政府網）"
+    },
+    {
+      "id": "mkt:01a00973-9cc9-7aab-904c-e163f4d623c1",
+      "time": "2026-08-16 15:22:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Naipu Mining: Overseas gross margin expected to improve further】Naipu Mining said at an investor relations event it expects overseas gross margin to rise. As overseas revenue grows, fixed-asset depreciation and amortization as a share of revenue should fall from about 11% toward a more reasonable level. Separately, a low-margin overseas contract-manufacturer customer terminated its annual agreement this year, reducing that customer's future revenue share and supporting overseas blended gross margins."
+    },
+    {
+      "id": "5042666",
+      "time": "2026-08-16 15:21:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【耐普礦機：海外毛利率未來預計將進一步提升】耐普礦機近日在投資者關係活動中表示，海外毛利率未來預計將有進一步提升，一方面隨著海外收入的提升，固定資產折舊攤銷佔收入比例預計將從目前的11%下降至合理水平；另一方面某一個低毛利率的海外代工客戶今年終止年度協議，未來該海外客戶收入佔比下降，有利於海外綜合毛利率水平。"
+    },
+    {
+      "id": "5042665",
+      "time": "2026-08-16 15:21:54",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【庫什納訪以埃在即 哈馬斯領導人赴埃會談】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）訊息人士15日透露，哈馬斯政治局主席哈利勒·哈亞當晚啟程前往埃及，定於16日與埃及情報總局局長哈桑·拉沙德舉行會晤。媒體注意到，哈亞赴埃時間節點比較敏感。美國總統特朗普的女婿庫什納將在美國發起的所謂“和平委員會”加沙高階代表尼古拉·姆拉德諾夫陪同下，於下週訪問以色列和埃及，試圖彌合美國和以色列圍繞加沙和平計劃產生的分歧。（新華社）"
+    },
     {
       "id": "5042664",
       "time": "2026-08-16 15:19:42",
@@ -139149,40 +139182,6 @@
         "國際"
       ],
       "text": "【以色列政權對黎巴嫩南部發動炮擊】黎巴嫩媒體報道稱，以色列政權的火炮對黎巴嫩南部兩個城鎮之間的區域進行了炮擊。"
-    },
-    {
-      "id": "mkt:019fe567-67e2-7aab-8fc8-78e8ca7fbeaa",
-      "time": "2026-08-09 15:23:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Typhoon \"White Dolphin\" forces cancellation of 388 flights at Hangzhou airport】China's 13th typhoon of the year, \"White Dolphin\", forced Hangzhou airport to cancel 388 inbound and outbound flights on Aug 9, with cancellations concentrated after 12:00 local time. Of 752 flights scheduled for the day, as of 14:00 350 had operated and 202 remained unexecuted."
-    },
-    {
-      "id": "5032387",
-      "time": "2026-08-09 15:22:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風影響 杭州機場已取消航班388架次】受今年第13號颱風“白海豚”影響，杭州機場今天提前取消進出港航班388架次，取消航班主要集中在12:00以後時段。8月9日，杭州機場全天計劃起降航班752架次，截至14:00，今天已執行進出港航班350架次，未執行航班202架次。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe566-fdb6-7aab-8fc8-71e993da2422",
-      "time": "2026-08-09 15:22:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White Dolphin to make early landfall】Typhoon White Dolphin is expected to make landfall around this evening along the coast between Yuhuan and Wenling as a typhoon or strong typhoon, with winds of force 12–14."
-    },
-    {
-      "id": "5032386",
-      "time": "2026-08-09 15:22:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“白海豚”與此前登陸浙江的“巴威”有何異同？】今年第13號颱風“白海豚”正向我國華東沿海逼近。氣象部門預測，與此前影響我國的颱風“巴威”相似，“白海豚”同樣有可能在經歷長途奔襲後，將正面登陸浙江。然而，登陸點相近不等於影響相同。周玲麗表示，“巴威”和“白海豚”在移速、強度、影響等方面卻存在較大差異。"
     }
   ]
 }
