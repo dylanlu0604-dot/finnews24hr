@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-17 02:21:02",
-  "count": 15202,
+  "updated": "2026-08-17 02:24:56",
+  "count": 15206,
   "items": [
+    {
+      "id": "mkt:01a00bd0-cf15-7aab-904f-a46eb882a06d",
+      "time": "2026-08-17 02:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party."
+    },
+    {
+      "id": "mkt:01a00bd0-2eed-7aab-904f-9eaee0b0735d",
+      "time": "2026-08-17 02:23:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours."
+    },
+    {
+      "id": "mkt:01a00bcf-a9b5-7aab-904f-91302e88f563",
+      "time": "2026-08-17 02:22:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a00bcf-3610-7aab-904f-89ce98a40ffd",
+      "time": "2026-08-17 02:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a00bce-d49a-7aab-904f-81d077c43b8e",
+      "time": "2026-08-17 02:21:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election."
+    },
     {
       "id": "mkt:01a00bcb-91cb-7aab-904f-7c2474fb9497",
       "time": "2026-08-17 02:18:05",
@@ -139039,17 +139079,6 @@
         "US10Y"
       ],
       "text": "【Hungary central bank official lauds euro-area entry benefits】Hungary's central bank reiterated support for the government's efforts to meet euro-area entry criteria, saying membership would benefit the economy. The central bank's deputy governor said the bank will play a constructive role in meeting entry conditions while maintaining price stability and cited the government's 2030 qualification target. Since the April election win the forint and Hungarian sovereign bond prices have risen. He said euro-area standards—fiscal stability, low inflation and low yields—are beneficial though a common currency carries trade-offs, added that inflation this year could be below 2%, and reiterated the bank would consider lowering its 3% inflation target to align with the euro area."
-    },
-    {
-      "id": "mkt:019fe7c2-70fb-7aab-8fcb-3e1330752078",
-      "time": "2026-08-10 02:21:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says it can outwait US in Strait of Hormuz standoff】Iran believes it can outlast the US in negotiations to reopen the Strait of Hormuz, citing strong internal backing for talks and patience over unmet commitments on frozen assets and maritime restrictions. President Pezeshkian told negotiators 12 of 13 national security council members support negotiations, exceeding the threshold set by Supreme Leader Mujtaba Khamenei. Parliamentary speaker Ghalibaf has expressed frustration at what Tehran describes as US flip‑flopping — \"raising issues, then withdrawing them\" — delaying delivery on asset unfreezing and easing of sea blockades. Iran says it is less time‑pressured than Washington, pointing to US midterm election, oil price and inflation pressures, and called the standoff a \"cat‑and‑mouse game\" to see who blinks first. Tehran is using talks with Oman to signal goodwill while pressing Washington to make the first move."
     }
   ]
 }

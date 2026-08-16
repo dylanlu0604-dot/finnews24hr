@@ -1,7 +1,47 @@
 {
   "date": "2026-08-17",
-  "count": 49,
+  "count": 54,
   "items": [
+    {
+      "id": "mkt:01a00bd0-cf15-7aab-904f-a46eb882a06d",
+      "time": "2026-08-17 02:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party."
+    },
+    {
+      "id": "mkt:01a00bd0-2eed-7aab-904f-9eaee0b0735d",
+      "time": "2026-08-17 02:23:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours."
+    },
+    {
+      "id": "mkt:01a00bcf-a9b5-7aab-904f-91302e88f563",
+      "time": "2026-08-17 02:22:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a00bcf-3610-7aab-904f-89ce98a40ffd",
+      "time": "2026-08-17 02:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a00bce-d49a-7aab-904f-81d077c43b8e",
+      "time": "2026-08-17 02:21:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election."
+    },
     {
       "id": "mkt:01a00bcb-91cb-7aab-904f-7c2474fb9497",
       "time": "2026-08-17 02:18:05",
