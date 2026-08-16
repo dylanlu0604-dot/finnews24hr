@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 08:50:17",
+  "updated": "2026-08-16 08:54:09",
   "count": 15254,
   "items": [
+    {
+      "id": "5042504",
+      "time": "2026-08-16 08:51:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【襄河全椒段洪峰過境，水位正在回落】受近期持續降雨及上游來水影響，滁河支流襄河安徽滁州全椒段水位一度快速上漲。昨天（8月15日）8時36分，襄河口閘水文站出現洪峰水位12.77米，超警戒水位1.77米。隨後，水位開始逐漸回落。今早6時，襄河口閘水文站水位已降至12.14米，回落趨勢穩定。據氣象部門預報，全椒縣未來一週以陰到多雲天氣為主，無明顯降水過程。目前，全椒縣河道加固、水庫堤壩巡堤查險等各項工作仍在持續開展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0080c-2717-7aab-904b-b7cd884c1a06",
+      "time": "2026-08-16 08:50:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News, citing Yemeni sources, said Yemen's air defenses responded to an attack by Houthi armed drones over the city of Mokha in Hodeidah province."
+    },
     {
       "id": "5042503",
       "time": "2026-08-16 08:42:13",
@@ -139593,25 +139609,6 @@
         "MKT News"
       ],
       "text": "【Elon Musk says Starlink V3 will be an order-of-magnitude improvement over V2】Elon Musk said Starlink’s third-generation satellites (V3), planned to be launched by Starship, would deliver roughly an order-of-magnitude improvement in overall performance versus the current Falcon-launched second-generation (V2) fleet. He said SpaceX plans to deploy an order-of-magnitude larger V3 fleet and later iterations alongside remaining V2 and handset-direct satellites, raising total bandwidth to more than 100x that of V2. Musk forecast V2’s ARR this year at $20bn and said SpaceX’s communications revenue could exceed $200bn even if revenue per gigabit falls to one-tenth."
-    },
-    {
-      "id": "mkt:019fe403-3756-7aab-8fc7-1f84c67d1a54",
-      "time": "2026-08-09 08:54:03",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact mixed",
-        "000660.KS"
-      ],
-      "text": "【Korean equities' most turbulent phase may be over as deleveraging pushes volatility to two‑month low】Korean equity turbulence may have peaked after a historic sell‑off cleared leveraged positions and regulatory curbs cut trading in high‑risk products. A Korean equity volatility index fell to a two‑month low last week after hitting a record high in June. Forced liquidations reduced outstanding margin debt, and tighter rules on leveraged ETFs squeezed volumes and assets linked to Samsung Electronics and SK Hynix. Morgan Stanley says deleveraging is more than half complete. The KOSPI is down nearly 40% from its June peak, and global funds have sold over $100 bln of Korean equities year‑to‑date, leaving EM fund exposure to Korea weakened."
-    },
-    {
-      "id": "5032186",
-      "time": "2026-08-09 08:52:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兩大科創板IPO背後：險資重倉硬科技】8月7日下午，宇樹科技舉行科創板IPO網上路演，發行價150.80元/股，對應市值約610億元。兩週前，國產DRAM龍頭長鑫科技登陸科創板，上市首日市值站上3萬億元。兩起標誌性IPO背後，保險資金均深度參與。受訪人士表示，新質生產力產業已成為保險資金獲取成長性收益、提升投資組合長期回報的重要途徑。兩家公司IPO之後，險資一級股權投資價值將更受關注，險資長期股權資產配置能力和優質產業專案儲備價值將逐步顯性化。（上證報）"
     }
   ]
 }

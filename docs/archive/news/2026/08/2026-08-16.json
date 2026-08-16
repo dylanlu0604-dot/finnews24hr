@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 169,
+  "count": 171,
   "items": [
+    {
+      "id": "5042504",
+      "time": "2026-08-16 08:51:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【襄河全椒段洪峰過境，水位正在回落】受近期持續降雨及上游來水影響，滁河支流襄河安徽滁州全椒段水位一度快速上漲。昨天（8月15日）8時36分，襄河口閘水文站出現洪峰水位12.77米，超警戒水位1.77米。隨後，水位開始逐漸回落。今早6時，襄河口閘水文站水位已降至12.14米，回落趨勢穩定。據氣象部門預報，全椒縣未來一週以陰到多雲天氣為主，無明顯降水過程。目前，全椒縣河道加固、水庫堤壩巡堤查險等各項工作仍在持續開展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0080c-2717-7aab-904b-b7cd884c1a06",
+      "time": "2026-08-16 08:50:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News, citing Yemeni sources, said Yemen's air defenses responded to an attack by Houthi armed drones over the city of Mokha in Hodeidah province."
+    },
     {
       "id": "5042503",
       "time": "2026-08-16 08:42:13",
