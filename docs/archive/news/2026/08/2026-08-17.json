@@ -1,7 +1,55 @@
 {
   "date": "2026-08-17",
-  "count": 220,
+  "count": 225,
   "items": [
+    {
+      "id": "mkt:01a00ceb-8023-7aab-9051-5186a45e5472",
+      "time": "2026-08-17 07:32:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sanders says Bezos's effective tax rate was under 1%】Senator Bernie Sanders said last year Amazon founder Jeff Bezos took a $500m yacht to Venice, held a $55m wedding and gave his wife a $5m ring while his effective tax rate was below 1%. Under Sanders's proposed 5% billionaire wealth tax, Bezos would owe $12.7bn but would still retain about $240bn."
+    },
+    {
+      "id": "5043041",
+      "time": "2026-08-17 07:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤上漲115點，報68855點。"
+    },
+    {
+      "id": "mkt:01a00ce9-e894-7aab-9051-4f5b93a6d2e7",
+      "time": "2026-08-17 07:30:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Securities Daily: Avoid chasing gold at current highs】The biggest uncertainty for gold remains Fed monetary policy. The current rally is premised on a weaker US economy and the end of the rate-hiking cycle, but inf remains uncertain. If inf rebounds above expectations, the Fed would likely sustain higher rates, US Treasury yields would rise and the case for gold could reverse, risking a rapid pullback. Near-term rapid gains have created significant profit-taking and technical overbought risk, raising the chance of a correction. Speculative offshore flows are trading policy moves quickly, amplifying short-term volatility, while central banks continue to buy dips as a long-term strategy. The clash between fast speculative flows and steady central-bank demand makes a sustained one-way move unlikely; expect high-level choppy trading with a gradually higher base. Retail investors should not blindly chase highs and should size exposure to risk tolerance with a long-term allocation perspective."
+    },
+    {
+      "id": "5043040",
+      "time": "2026-08-17 07:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【清盤預警頻現 風格“變形”求生 均衡型基金直面兩難】一邊是清盤預警頻現，另一邊是風格“變形”求生，主打“控回撤、分散配置”的均衡型基金，正陷入前所未有的生存兩難。近日，證券時報記者採訪多家公募及業內人士瞭解到，在資金圍繞產業景氣度快速輪動的極致結構化行情中，均衡策略的“平滑波動”優勢反而成為資金流失的劣勢，不少產品為存續壓力被迫調整投資框架。不過隨著市場逐步從“普漲”轉向結構分化，多家公募認為，均衡策略的吸引力正在逐步迴歸，啞鈴型配置等適配高波動環境的均衡思路，或將成為下一階段資金的重要選擇。"
+    },
+    {
+      "id": "5043039",
+      "time": "2026-08-17 07:29:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥基金淨值大幅攀升 資金面呈現明顯分歧】近期A股市場風格迎來切換，前期強勢的科技板塊迎來調整，沉寂已久的醫藥板塊開啟強勢反彈行情，多隻主動醫藥基金淨值大幅攀升，成為市場亮眼主線。據Wind資料統計，截至8月14日，多隻主動權益類醫藥基金區間漲幅突破30%，頭部產品收益表現尤為突出。從領漲基金持倉結構來看，本輪醫藥基金淨值修復核心驅動力來自創新藥、醫療服務及創新產業鏈。不同於此前醫藥板塊單純的估值修復行情，本輪反彈具備紮實的基本面支撐，多個細分賽道疊加訂單落地、業績改善、產業政策等多重催化，板塊上漲邏輯更穩固，行情熱度逐步擴散。值得關注的是，醫藥板塊淨值大幅反彈的同時，市場資金並未同步大規模入場，資金面呈現明顯分歧。資料顯示，近兩個月醫藥類ETF整體申贖淨流出約44億元，在全市場主要行業板塊中淨流出規模位居前列。不難看出，存量投資者操作分化顯著，不少資金選擇借反彈行情兌現收益。"
+    },
     {
       "id": "te:markets:575565",
       "time": "2026-08-17 07:29:15",
