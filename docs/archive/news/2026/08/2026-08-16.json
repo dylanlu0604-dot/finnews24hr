@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 252,
+  "count": 253,
   "items": [
+    {
+      "id": "mkt:01a00891-1b16-7aab-904c-20c23368bc02",
+      "time": "2026-08-16 11:15:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a M4.4 earthquake in Indonesia's Flores region; depth 4.0 km."
+    },
     {
       "id": "5042571",
       "time": "2026-08-16 11:13:45",
