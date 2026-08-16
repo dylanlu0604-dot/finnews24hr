@@ -1,7 +1,25 @@
 {
   "date": "2026-08-16",
-  "count": 303,
+  "count": 305,
   "items": [
+    {
+      "id": "mkt:01a008f2-1c09-7aab-904c-75fca515ae5e",
+      "time": "2026-08-16 13:01:19",
+      "tags": [
+        "MKT News",
+        "HII.O",
+        "Impact bearish"
+      ],
+      "text": "【US Navy weighing Ford‑class carrier redesign at Trump’s request, Washington Post says】The US Navy is considering redesigning upcoming Ford‑class aircraft carriers to reflect former President Trump’s aesthetic preferences, the Washington Post reports. Proposed changes include relocating the carriers’ multi‑level island command center to the ship’s midsection. Officials say the alteration could cost billions of dollars, exacerbate existing construction delays and forfeit three operational advantages: increased deck parking capacity, shorter intervals between catapult launches, and reduced turbulence on landings. The moves remain under study and could extend build timelines as the conflict with Iran has pushed carrier demand higher."
+    },
+    {
+      "id": "5042613",
+      "time": "2026-08-16 12:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員阿里・內赫班達尼警告，美國、以色列以及地區敵對勢力的挑釁行為，將招致代價更為沉重的報復。"
+    },
     {
       "id": "mkt:01a008ec-4df1-7aab-904c-6f3757d670a0",
       "time": "2026-08-16 12:54:59",
