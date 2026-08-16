@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-17 00:54:06",
+  "updated": "2026-08-17 00:57:58",
   "count": 15199,
   "items": [
+    {
+      "id": "mkt:01a00b7f-6cc4-7aab-904f-2f44e486f464",
+      "time": "2026-08-17 00:54:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【U.S. denies shift in stance on Malvinas (Falklands) sovereignty dispute】U.S. ambassador to Argentina Peter Lamelas on the 15th denied the U.S. government had changed its position on the Malvinas (Falklands) sovereignty dispute. In an interview with Argentine broadcaster TN he said the U.S. remains \"neutral\" in the dispute and \"that has not changed.\" Media reports said a leaked U.S. Defense Department email in April indicated President Trump was considering no longer backing the U.K.'s position on the islands. Lamelas said he had heard of the \"internal email\" but was not aware of its contents."
+    },
+    {
+      "id": "5042916",
+      "time": "2026-08-17 00:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方否認在馬島主權爭端中改變立場】美國駐阿根廷大使彼得·拉梅拉斯15日否認美國政府改變了在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中的立場。拉梅拉斯在接受阿根廷媒體TN電視臺採訪時聲稱，美國政府仍在馬爾維納斯群島主權爭端中“保持中立”，“這一點沒有改變”。（新華社）"
+    },
     {
       "id": "5042915",
       "time": "2026-08-17 00:51:37",
@@ -139005,23 +139023,6 @@
         "國際"
       ],
       "text": "特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。"
-    },
-    {
-      "id": "5032636",
-      "time": "2026-08-10 00:57:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：針對伊朗問題“我們正低調處理”。"
-    },
-    {
-      "id": "5032635",
-      "time": "2026-08-10 00:55:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：雙重司法體系即將終結。隨著託德·布蘭奇被正式確認為司法部長，他一定會確保這一切成為現實。"
     }
   ]
 }
