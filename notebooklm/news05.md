@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 11:55:55_
-_本檔包含 2846 則快訊，約 601057 字_
+_更新時間：2026-08-16 12:46:25_
+_本檔包含 2860 則快訊，約 601196 字_
+
+---
+
+### 2026-08-10 23:08:48  #其他
+
+【中星4B衛星發射失利 】8月10日20時02分，我國在文昌航天發射場使用長征七號改運載火箭發射中星4B衛星，火箭飛行異常，發射任務失利。具體原因正在進一步分析排查。（新華社）
+
+---
+
+### 2026-08-10 23:06:04  #央行 #國際
+
+【美國政府檔案顯示美聯儲主席沃什已完成所承諾的投資權益剝離】一項政府記錄顯示，美聯儲主席凱文·沃什表示，他已賣出了此前承諾剝離的全部金融持倉。沃什簽署了一份美國政府道德辦公室的道德協議合規認證檔案，日期標註為上週四。該檔案於週六在該機構網站公開。5月份正式上任的沃什此前已向該辦公室提交資產剝離證明，顯示他已經出售了承諾處置的大部分持倉。最新的披露顯示，他已出售協議所涵蓋的剩餘權益。
+
+---
+
+### 2026-08-10 23:05:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude oil up 5.00% intraday at $80.17/bbl; Brent crude up 5.00% intraday at $85.58/bbl.
+
+---
+
+### 2026-08-10 23:05:26  #國際
+
+俄羅斯方面報道：下卡姆斯克遭無人機襲擊，78 人受傷，其中 25 人住院。
+
+---
+
+### 2026-08-10 23:05:08  #市場 #焦點
+
+WTI原油突破81美元/桶，日內漲3.64%。
+
+---
+
+### 2026-08-10 23:03:35  #市場
+
+洲際交易所資料顯示：英國近月天然氣上漲 10.12%，報每熱姆 149.71 便士。
+
+---
+
+### 2026-08-10 23:03:33  #MKT News
+
+【Iran president Pezeshkian says US, Israeli strikes rely on AI data; plots foiled】Iranian President Pezeshkian said US and Israeli strikes are based on artificial-intelligence data, espionage networks, mercenaries and domestic agents, but their plans have been thwarted one by one, according to Mehr news agency. He made the remarks at a Tehran University meeting.
+
+---
+
+### 2026-08-10 23:01:50  #MKT News #WTI #Impact bullish #Brent
+
+【Iran: Strait of Hormuz situation depends on US actions】An Iranian foreign ministry spokesperson said: "Talks with Oman are progressing smoothly, but some parties are attempting to obstruct the process. The situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations. A maritime blockade against Iran is an act of aggression. The Strait of Hormuz remained open from antiquity until the war that began this year."
+
+---
+
+### 2026-08-10 23:01:23  #公司 #市場 #國際
+
+【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元兌美元一度下跌0.8%，至159.06，在十國集團中表現墊底，美國和日本歷史性聯手干預激發的漲幅已半數回吐。週二是日本的公眾假期，交易員擔心減弱的流動性可能為新一輪干預創造條件。儘管如此，近期的干預似乎難以改變日元的疲態，因其面臨諸多重大不利因素，例如市場擔心日本可能增加財政支出。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。
+
+---
+
+### 2026-08-10 23:00:47  #MKT News #Important #Commodities #Energy #CNH #Impact bullish #Copper
+
+By 23:00 local close, China's most-active futures contracts were mostly higher. Fuel oil and low-sulfur fuel oil (LU) climbed nearly 3%; propylene, coking coal, polypropylene (including monthly-average contract), asphalt and synthetic rubber rose more than 1%. PTA fell over 1%; pulp and caustic soda were down nearly 1%.
+
+---
+
+### 2026-08-10 23:00:18  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Japanese Yen Drops by 0.74% — Top currency losers are Japanese Yen (-0.74%), South Korean Won (-0.72%) and Euro (-0.06%). Gains are led by British Pound (0.20%) and Dollar Index (0.19%).
+
+---
+
+### 2026-08-10 23:00:02  #市場
+
+【夜盤期貨收盤】低硫燃料油連續漲2.89%，燃料油連續漲2.36%，瀝青連續漲1.37%，聚丙烯連續漲1.19%，焦煤連續漲1.14%。
+
+---
+
+### 2026-08-10 22:59:59  #公司 #觀點 #國際
+
+【高盛：日元貶值壓力恐將隨著時間的推移再次出現】“日本要過盂蘭盆節了，市場參與可能會受到限制，而且國內事件日程也相對清淡，” 野村證券策略師Yujiro Goto在一份研報中報告寫道，“焦點還是會在日本和美國當局的干預立場上，投資者會密切關注官員們的表態。”此次逆轉凸顯了在日元貶值背後的驅動因素基本保持不變的情況下，干預措施在改變整體走勢方面的侷限性。儘管東京和華盛頓都警告稱，若有必要他們準備再次採取行動，但與美國之間巨大的利差、對日本財政前景的擔憂以及地緣政治的不確定性仍然對日元構成壓力。“我們認為，市場對此次干預相對平淡的回應反映了貨幣疲軟的根本原因，” 高盛集團Kamakshya Trivedi等策略師在一份報告中預計，“除非全球形勢發生變化或出現意外政策，否則貶值壓力將隨著時間的推移再次出現”。
+
+---
+
+### 2026-08-10 22:59:47  #宏觀 #公司 #市場
+
+【能耗考核讓司機不敢開空調 蘭州公交：已暫停】近期，甘肅蘭州有公交車司機表示，由於公司實施的考核辦法把車輛的能耗和績效掛鉤，如果超出了規定的能耗標準，將按一定比例扣除司機的績效工資，導致個別司機不願在行駛過程中開空調，從而影響乘客體驗。蘭州公交集團第六客運公司工作人員表示，出臺考核辦法的初衷是引導駕駛員愛車護車、安全行駛，助力企業降本增效。辦法制定階段已兼顧車型、車況、線路差異，以平均能耗作為考核基準，考核數值每月動態調整，也考慮到高溫開啟空調帶來的能耗上漲因素。（央視新聞）
+
+---
+
+### 2026-08-10 22:57:43  #市場 #國際
+
+【NYMEX取暖油主力合約大漲6%】NYMEX取暖油主力合約大漲6%，現報4.14美元/加侖。
+
+---
+
+### 2026-08-10 22:57:19  #公司 #市場 #國際
+
+【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元跌勢擴大，美國和日本歷史性聯手干預激發的漲幅已半數回吐。該貨幣兌美元週一下跌多達0.8%，觸及159.06，在十國集團中表現墊底。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。
+
+---
+
+### 2026-08-10 22:57:15  #MKT News #Brent #Impact bullish #XAUUSD
+
+Iran's foreign ministry spokesman said a maritime blockade of Iran is an act of aggression.
+
+---
+
+### 2026-08-10 22:56:57  #公司
+
+泰森食品股份有限公司宣佈發起債務要約收購。
+
+---
+
+### 2026-08-10 22:56:53  #MKT News #WTI #Impact mixed
+
+Iranian foreign ministry spokesman said the situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations.
+
+---
+
+### 2026-08-10 22:56:17  #MKT News
+
+Market source: Iran's foreign ministry spokesman said negotiations with Oman are progressing smoothly, but some parties are attempting to obstruct the process.
+
+---
+
+### 2026-08-10 22:55:52  #市場
+
+【蘋果9月釋出會或推8款新品 蘋果9月釋出會核心產品曝光】距離蘋果9月釋出會大約還有一個月的時間，蘋果預計將在該釋出會上推出8款新品。 報道指出，本次釋出會的核心產品將是：iPhone 18 Pro、iPhone 18 Pro Max、iPhone Ultra、Apple Watch Series 12、Apple Watch Ultra 4、新款Apple TV 4K、HomePod mini 2以及HomePad/HomePod Touch。 這些產品均有望在9月亮相。其中，iPhone和Apple Watch的產品更新屬於蘋果歷年的常規節奏，而智慧家居產品的集中釋出則被視為蘋果在該領域的重要佈局。蘋果首款智慧家居中心裝置預計在10月至明年年初上市，9月的釋出會可能對其進行預覽。 此外，新款iPad mini預計在今年秋季推出，但可能與其他產品（如搭載M6晶片的MacBook Pro）一同在10月釋出。 報道中雖未提及配備攝像頭的AirPods、第三代HomePod或安防攝像頭等產品，但此前相關報道提及過這些裝置，不排除它們在9月的釋出會上亮相的可能性。
+
+---
+
+### 2026-08-10 22:55:49  #MKT News
+
+Market sources: Iran is set to announce appointments of several senior military commanders signed by Iran's Supreme Leader.
+
+---
+
+### 2026-08-10 22:55:19  #市場
+
+標普500指數迅速回吐漲幅，納斯達克100指數轉跌。
+
+---
+
+### 2026-08-10 22:55:04  #MKT News
+
+Saudi outlet Hadas, citing Israel's Channel 12, reported US personnel assigned to aerial refuelling number about 20, close to levels during the ceasefire.
+
+---
+
+### 2026-08-10 22:54:48  #國際
+
+市場訊息：美國在中東的加油人員規模接近停火時期水平，約為 20 人。
+
+---
+
+### 2026-08-10 22:53:56  #市場 #央行 #國際
+
+【SOFR期權市場出現對2026年12月和2027年3月美聯儲降息押注的需求】週一（美國非農就業報告發布“次日”），SOFR期權交易流中，至少出現了兩筆引人注目的押注，押注美聯儲降息預期正被計入2026年12月和2027年3月到期的期貨合約中。在2026年12月到期的期權中，SFRZ6 96.50⁄97.00看漲期權價差以1個點的價格買入了2萬手；較低的行權價對應3.50%的利率；今年以來大多數交易日有效聯邦基金利率為3.63%，而12月到期期貨合約當前價格對應的利率為4.005%。在2027年3月到期的期權中，SFRH7 98.50看漲期權以1.25個點的價格買入了7000手，對應1.5%的利率，而當前期貨利率為4.10%。
+
+---
+
+### 2026-08-10 22:51:54  #國際
+
+【哥倫比亞強震已致超20人死亡】哥倫比亞發生強烈地震，該國太平洋沿岸多省震感明顯。地震造成多地人員傷亡和重大財產損失。據各地報告，裡薩拉爾達省省會佩雷拉市多棟建築物嚴重受損，市長證實已有18人死亡；喬科省政府通報稱省會基布多已有人員受傷；考卡山谷省卡利市市長亞歷杭德羅·埃德爾表示，該市至少20棟建築倒塌，有人員被困，已請求救援隊協助。此外，地震還造成馬尼薩萊斯市和薩爾薩爾市4人死亡，多人受傷。哥倫比亞地質部門將此次地震震級修正為7.4級，震源深度96公里。美國海嘯預警中心稱，本次地震無引發海嘯風險。（央視新聞）
+
+---
+
+### 2026-08-10 22:51:49  #MKT News
+
+Saudi outlet Hadath, citing Israel's Channel 12, reported the US is continuing to reduce the number of refueling vehicles at Israel's Ben Gurion Airport.
+
+---
+
+### 2026-08-10 22:50:18  #其他
+
+漢莎航空剛剛釋出了星鏈在飛機上安裝的新圖片。首架配備星鏈的漢莎航空空客A320neo將於8月19日投入使用。
+
+---
+
+### 2026-08-10 22:50:13  #MKT News
+
+Zelenskiy said the two countries have coordinated positions and channels to enable them to make a greater positive contribution to food security.
+
+---
+
+### 2026-08-10 22:49:57  #MKT News
+
+Zelenskiy said the Saudi crown prince discussed agreements Saudi Arabia reached with Turkey and Pakistan and their outlook.
+
+---
+
+### 2026-08-10 22:49:20  #MKT News
+
+ZELENSKIY said he held substantive talks today with Saudi Crown Prince Mohammed bin Salman. He said Ukraine and Saudi Arabia can bolster each other’s capacity to protect lives and civilians in certain areas.
+
+---
+
+### 2026-08-10 22:48:48  #國際
+
+澤連斯基：今天，我與沙烏地阿拉伯王儲穆罕默德·本·薩勒曼·阿勒沙特進行了一次非常實質性的對話。烏克蘭和沙烏地阿拉伯可以在某些領域加強彼此保護生命和人民的能力。 我們討論了兩國之間無人機協議的近期步驟。王儲談到了沙烏地阿拉伯與土耳其和巴基斯坦的協議以及相關的展望。
+
+---
+
+### 2026-08-10 22:47:54  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed chair Kevin Warsh completes divestiture, signs ethics compliance certification】Government records show Fed chair Kevin Warsh has sold all financial assets he pledged to divest. Warsh signed an ethics compliance certification with the Office of Government Ethics last Thursday; the document was posted on the agency website on Saturday. He had earlier filed a divestiture statement showing sales of most assets; the latest disclosure shows he sold the remaining holdings covered by the agreement. Warsh, one of the wealthiest officials in Fed history, had pledged to divest stakes across multiple investments; confidentiality agreements conceal the underlying assets, some valued at at least $100m.
+
+---
+
+### 2026-08-10 22:46:47  #國際
+
+俄羅斯總檢察長辦公室禁止俄羅斯反戰政黨亞博盧黨參加議會選舉。
+
+---
+
+### 2026-08-10 22:46:15  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver is up over 2.00% intraday at $64.80/oz.
+
+---
+
+### 2026-08-10 22:46:13  #央行 #市場 #國際
+
+俄羅斯央行：將8月11日美元對盧布官方匯率設定為1美元兌換82.6060盧布（前一交易日收盤匯率為82.1665盧布）。
+
+---
+
+### 2026-08-10 22:46:09  #市場
+
+現貨白銀日內漲2%，現報64.80美元/盎司。
+
+---
+
+### 2026-08-10 22:46:04  #公司
+
+【瑞眾保險回應員工實名舉報：已成立專項工作組啟動內部核查】近日，多家媒體報道，瑞眾人壽保險有限責任公司陝西分公司員工實名舉報其所在機構虛構國家補貼、虛假承諾高額回報等方式，誘導老年人購買保險。針對此次內部人員反映的銷售環節問題，瑞眾保險方面表示：“公司層面已成立專項工作組，全面啟動內部核查與自查自糾工作。一經查實存在違規將從嚴處理、堅決整改，切實保障消費者合法權益。”（中國經營報）
 
 ---
 
@@ -17011,155 +17245,5 @@ LAZURDE珠寶：季度金價上漲。
 ### 2026-08-09 12:46:59  #其他
 
 【上海今明兩天有出現龍捲潛勢】記者剛剛從上海市氣象臺獲悉，今明天（9日至10日），上海具有龍捲潛勢，市氣象部門正在加強監測。（澎湃）
-
----
-
-### 2026-08-09 12:46:16  #國際
-
-【高市早苗再度對“無核三原則”含糊表態】日本長崎遭原子彈轟炸81週年紀念儀式9日在長崎市和平紀念公園舉行。日本首相高市早苗參加儀式，其致辭時對“無核三原則”仍含糊表態，未明確表示日本將繼續堅持該原則。高市9日關於“無核三原則”的表態沿用了她6日在廣島遭原子彈轟炸81週年紀念儀式上致辭時的表述。當時，高市早苗在致辭中僅提及“日本現在堅持‘無核三原則’”，但其措辭與歷任日本首相略有不同，且未明確表示日本將繼續堅持該原則。日本在野黨此前表示，高市的表述僅僅是說明現狀，缺乏今後繼續堅持“無核三原則”的決心。（澎湃）
-
----
-
-### 2026-08-09 12:46:04  #國際
-
-【泰國國家旅遊局：高度重視中國遊客旅遊體驗 將完善產品和服務】當地時間8月8日晚，針對近期中國遊客在泰國參加文體活動發生的相關公共事件，以及中國駐泰國大使館日前釋出中國公民來泰參加文體活動提醒，泰國國家旅遊局局長塔帕妮在接受總檯記者採訪時表示，中國是泰國的好鄰居，泰國高度重視接待來自世界各地的遊客，特別是來自中國的遊客。塔帕妮表示，對於中國遊客而言，他們最希望看到的是誠信、安全、規範以及良好的旅遊體驗。因此，泰國國家旅遊局高度重視上述方面，並將從多個層面做好準備和保障工作。塔帕妮介紹，面對持續增長的中國遊客市場，泰國旅遊局仍需要繼續努力，進一步完善對中國遊客的旅遊產品和服務。（央視新聞）
-
----
-
-### 2026-08-09 12:41:44  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-HSBC preview of US July CPI: expects multiple core inflation components to cool more than expected, pushing both headline and core CPI below market expectations.
-
----
-
-### 2026-08-09 12:38:19  #公司 #資料 #央行 #國際
-
-【滙豐預期本次通脹多項核心分項會出現超預期降溫】滙豐預期，本次通脹多項核心分項會出現超預期降溫，帶動整體CPI與核心CPI雙雙低於市場一致預期。荷蘭國際集團（ING）首席國際經濟學家詹姆斯·奈特利表示，近期非農大幅不及預期，給美聯儲加息蒙上巨大疑雲。美聯儲可能將利率維持不變，甚至延續至2027年，但最終高度取決於通脹走勢，以及美伊能否達成協議重開霍爾木茲海峽。
-
----
-
-### 2026-08-09 12:37:33  #公司 #市場 #央行 #國際
-
-【科技股強勁反攻，美股8月能否迎來反轉行情】受科技巨頭大漲，疊加市場樂觀預期伊朗與阿曼達成協議、霍爾木茲海峽將重新開放和美聯儲9月議息會議的加息預期因非農回落的影響，本週美股強勁上攻，三大指數均重新整理今年4月以來的最佳表現。未來一週，美聯儲政策前景將受到新一輪通脹指標的直接考驗，而人工智慧（AI）產業鏈也會迎來一輪新財報的洗禮。牛津經濟研究院高階經濟學家鮑勃·施瓦茨在接受記者採訪時表示，7 月就業報告並未釋放衰退警示訊號，本次機構就業崗位的下滑，主要來自州及地方政府就業資料的季節性擾動。就業增長目前趨近於維持失業率保持穩定所需的盈虧平衡水平，不宜直接解讀為衰退訊號。機構Stifel釋出研報認為，對於美聯儲而言，就業市場冷熱不均的現狀，大機率會延續政策預期層面的分歧。一部分官員主張儘早行動，另一部分則堅持更加謹慎的觀望態度。（第一財經）
-
----
-
-### 2026-08-09 12:36:00  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【Economists expect US inflation to ease slightly YoY】Next Tuesday's US CPI is the week's key release. Economists broadly expect headline inflation to ease slightly YoY while core inflation likely remains elevated, reflecting persistent services and shelter price pressures. The Fed says it needs further confidence that inflation is sustainably moving toward its 2% target before considering rate cuts.
-
----
-
-### 2026-08-09 12:34:52  #其他
-
-【英國上財年政府補貼規模翻倍 鉅額資金重點投向能源專案】全新分析資料顯示，受益於脫歐後獲得政策自主空間，英國政府加大對各類能源專案撥款力度，上一財年納稅人承擔的政府補貼規模翻了一倍有餘。國際律所Pinsent Masons的分析報告顯示，截至 2026 年 3 月的完整財年，英國政府各類補貼總額達 1140 億英鎊；而前一財年補貼總額僅為 473 億英鎊。新增補貼資金絕大部分流向能源專案，涵蓋海上風電場開發，以及為塞茲韋爾 C 核電站撥付的超 500 億英鎊專項補助。
-
----
-
-### 2026-08-09 12:29:28  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #CNH #Impact bearish #CSI300
-
-【Shanghai mayor convenes video meeting on Typhoon White Dolphin defenses】Typhoon White Dolphin is approaching; wind and rain impact on Shanghai is intensifying and the flood-control situation is severe. Deputy Party secretary and Mayor Gong Zheng on Aug 9 chaired a video command meeting to re-check, re-deploy and ensure implementation of typhoon defense measures.
-
----
-
-### 2026-08-09 12:29:13  #公司 #國際
-
-【美將外國電力逆變器列入“覆蓋清單”，A股龍頭回應相關影響】美國商務部發布公告，將部分外國電力逆變器產品列入“覆蓋清單”，此舉可能影響相關產品的進口和供應鏈。國內A股逆變器龍頭企業陽光電源回應稱，目前公司出口美國的逆變器產品主要為自研品牌，且美國市場佔比不大，此次清單公佈對公司的直接影響有限。陽光電源表示，公司將繼續關注相關政策動態，積極應對市場變化。（證券時報網）
-
----
-
-### 2026-08-09 12:28:14  #其他
-
-【傳ALO將獨家入駐天貓，天貓官方暫無回應】8月9日，有媒體訊息稱，高階運動生活方式品牌ALO將獨家入駐天貓，於8月12日開出中國內地首家官方旗艦店。這將是ALO進入中國市場後正式開業售賣的第一家官方店鋪，也是其在中國內地唯一的官方電商渠道。對此訊息，《貴圈》欄目向天貓官方進行求證，截至發稿暫無回應。天貓客服則表示，“目前還沒有收到通知。”
-
----
-
-### 2026-08-09 12:13:44  #其他
-
-【2026國際基礎科學大會在京開幕】今天（8月9日），2026國際基礎科學大會在北京開幕，主題為“聚焦基礎科學，引領人類未來”。此次大會共有千餘名中外科學家、科研工作者、青年學子參會。（央視新聞）
-
----
-
-### 2026-08-09 12:11:13  #其他
-
-【颱風紅色預警！交通運輸部排程重點地區抓實主動防禦】8月9日，交通運輸部點對點排程浙江省交通運輸廳和浙江海事局、上海市交通委員會和上海海事局、福建省交通運輸廳和福建海事局。排程要求，要堅持底線思維和極限思維，堅決杜絕經驗主義、麻痺思想和僥倖心理，強化風險研判和隱患排查，立足最不利情況，突出“嚴、細、實”，以最高標準壓緊壓實責任鏈條；要密切跟蹤颱風路徑與雨情變化，抓實“響應、巡查、管控”主動防禦措施，落實“關、停、撤、轉”各項要求，以最實作風築牢交通運輸安全防線，確保不發生重特大安全事故，全力實現“不死人、少傷人、少損失”的目標。
-
----
-
-### 2026-08-09 12:08:01  #其他
-
-【颱風“白海豚”影響增強 浙江局地有特大暴雨陣風可達13至16級】隨著颱風“白海豚”逐漸靠近，8月7日夜間起浙江多地已現強風雨天氣。今天（8月9日），浙江風雨將進一步增強，預計今明兩天台州、寧波等地區域性有特大暴雨，沿海局地陣風可達13至16級，需做好防颱風措施。受颱風“白海豚”影響，7日夜間浙江開始出現明顯降雨，昨天降雨進一步增強，寧波、台州、舟山、紹興局地大暴雨，寧波個別特大暴雨。監測顯示，7日20時至9日6時全省面雨量35毫米，多地現暴雨到大暴雨，局地特大暴雨，其中寧海里岙村站累計降水量達263毫米，寧海蘭丁村最大單小時降水量達82毫米，雨勢猛烈。此外，7日20時以來，浙江沿海海面出現10至14級風，個別站點達15級大風，溫嶺一蒜島站最大風力達47.4米/秒（15級）。（央視新聞）
-
----
-
-### 2026-08-09 12:08:00  #MKT News
-
-【Typhoon White Dolphin strengthens; parts of Zhejiang to face extremely heavy rain, coastal gusts to force 13–16】Typhoon White Dolphin has been bringing strong wind and rain to multiple Zhejiang locations since the night of Aug 7. Conditions will further intensify on Aug 9; over Aug 9–10 Taizhou, Ningbo and nearby areas may see locally extremely heavy rainfall, with coastal gusts up to force 13–16. Authorities have urged precautions for the typhoon.
-
----
-
-### 2026-08-09 12:07:24  #國際
-
-【法國赤字高企債務付息暴增，財長反對大選前暫緩財政緊縮】法國財政預算部長表示，法國切不可抱有拖延思路，將艱難的開支調整決策推遲至明年總統大選之後，國家無力承受財政赤字進一步擴大。戴維・阿米埃爾在接受採訪時稱：“修復法國公共財政是當前第一要務。” 他正編制 2027 年財政預算案，計劃今年秋季提交議會審議，並將當下法國財政狀況形容為 “火藥桶”。他呼籲角逐馬克龍總統繼任席位的各路候選人拿出具備可行性的競選方案，不要靠迎合選民的 “選舉式撒錢” 開支承諾博取選票。由總理塞巴斯蒂安・勒科爾尼領導的少數派政府計劃，明年增加國防開支、保障綠色轉型相關專案投入，同時放緩福利支出的增速。但法國國內生產總值增長疲軟，政府坦言，受利息支出走高、伊朗衝突帶來的經濟衝擊以及國防開支增加多重因素影響，今年大幅縮減財政赤字難度很大。失業率走高也於事無補：二季度法國失業率升至 8.3%，創下近六年新高。
-
----
-
-### 2026-08-09 12:07:00  #MKT News
-
-According to Lighthouse Pro real-time data, as of 12:04 on Aug 9 the film The Eight Immortals! has surpassed CNY1.4bn in box office.
-
----
-
-### 2026-08-09 12:06:04  #公司
-
-【U17國足vs阿森納確認取消】上海市足球協會8月9日中午在微信公眾號上釋出公告，2026上海明日之星冠軍盃男子組決賽取消。決賽對陣為中國男足U17對陣阿森納U17，受颱風影響，本場比賽現已確定取消，不延期進行。
-
----
-
-### 2026-08-09 12:05:39  #其他
-
-法國阿米爾表示，本國亟需修復公共財政狀況。
-
----
-
-### 2026-08-09 12:05:25  #其他
-
-據燈塔專業版實時資料，截至8月9日12時4分，影片《八仙！》票房突破14億。
-
----
-
-### 2026-08-09 12:04:53  #市場 #央行 #國際
-
-【瑞媒：外界對美債信心下降】據瑞士《新蘇黎世報》網站8月5日報道，截至2025年底，美國未償國債規模達30.7萬億美元，相當於美國國內生產總值的95%左右。政府總債務甚至更高，佔國內生產總值比例超過120%，但其中一部分並未在市場上流通，而是由美國聯邦儲備委員會（美聯儲）等機構持有。（參考訊息）
-
----
-
-### 2026-08-09 12:04:31  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【TASS: Kushner, US Middle East envoy may visit Kyiv and Moscow within 7–10 days】TASS, citing an official, said senior Trump adviser Jared Kushner and a US Middle East envoy may visit Kyiv and Moscow within seven to ten days, signaling a potential renewed US push to mediate Russia-Ukraine talks. The pair have visited Moscow multiple times and met President Putin and other senior Russian officials but have not been to Kyiv. The report said US attention had shifted to the Middle East earlier this year; the last US–Russia–Ukraine trilateral talks were held in Geneva in mid-February and a planned follow-up later that month was postponed after a US strike on Iran, with Ukrainian President ZELENSKIY accusing Moscow of seeking to delay talks. The White House did not immediately respond to a request for comment.
-
----
-
-### 2026-08-09 12:01:05  #國際
-
-【印度試射“庫沙”導彈】據香港《南華早報》網站8月8日報道，印度對“庫沙”遠端地對空導彈系統的首次測試被視為一座里程碑，可能為新德里加強本土防空網路、應對未來衝突挑戰鋪平道路。該系統由國營的國防研究與發展組織開發，預計將成為“妙見神輪任務”的關鍵組成部分。“妙見神輪任務”是印度總理莫迪為了到2035年建成一個多層次國家防空保護傘而制定的，旨在應對彈道導彈、戰鬥機、無人機及其他威脅。（參考訊息）
-
----
-
-### 2026-08-09 12:00:32  #國際
-
-【外媒：美科研撥款草案遭學界強烈反對】據《日本經濟新聞》網站8月7日報道，美國政府正在加強對科研專案的篩選。政府提議引入新規，審查政府資助的研究是否符合政策和國家利益，並限制與中國等國的聯合研究。美國政府計劃自10月起落實相關政策，但科學界對此強烈反對，國會或將透過預算措施使生效時間推遲至12月。新規內容正持續引發爭議。今年5月底，美國管理和預算辦公室提交了一份關於政府撥款規則的修訂草案，涉及超過1萬億美元撥款。報道稱，根據一直以來的流程，專家會評估研究計劃的原創性和可行性，相關結果將作為撥付科研經費的依據。而修訂草案將專家的評估結果定位為“建議”，改為由政府的有關負責人根據政府優先事項和國家利益作出最終決定。（參考訊息）
-
----
-
-### 2026-08-09 11:58:47  #公司 #國際
-
-【印度匆忙出售國企股份凸顯財政困境】據美國消費者新聞與商業頻道網站8月5日報道，印度政府今年一直急於出售其在國有企業的股份。到目前為止，該國已經減持了10家國有企業的股份，今年共籌集資金超過6200億盧比（約合65億美元）。當通脹壓力和財政限制可能抑制政府支出時，印度很難保住全球增長最快的大型經濟體的地位。報道稱，但印度不能失去其經濟增長優勢，因為它正在爭奪全球投資者的注意力。這些投資者已經把印度放在了次要位置，因為他們專注於人工智慧驅動的業務，而這正是這個南亞國家的經濟增長故事所缺失的。（參考訊息）
-
----
-
-### 2026-08-09 11:56:06  #公司
-
-【維宏股份：併購基金參股上海洛丁森 將重點推進六維力感測器落地】維宏股份(300508)在互動平臺表示，上海洛丁森工業自動化裝置有限公司並非公司直接投資，系公司參與的併購基金嘉興宏溥智造所投專案，嘉興宏溥持有其16.3462%股權。洛丁森具備單晶矽壓力變送器全產業鏈能力和佈局，包括MEMS晶片自主研發設計、膜盒封裝、壓力變送器組裝及多場景應用（如超高溫，耦合式等），全部製造工藝和供應鏈自主可控。後續洛丁森除了持續聚焦流程工業和核電行業，深耕壓力變送器和質量流量計等感測產品的研發之外，還將重點推進六維力感測器等新產品、新應用落地，持續拓展業務邊界，完善多場景國產工業感測佈局。
 
 ---

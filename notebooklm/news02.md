@@ -1,7 +1,261 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 11:55:55_
-_本檔包含 3104 則快訊，約 601112 字_
+_更新時間：2026-08-16 12:46:25_
+_本檔包含 3114 則快訊，約 601030 字_
+
+---
+
+### 2026-08-14 10:49:10  #MKT News #CSI300 #Impact bearish #SSE Composite
+
+China A-share power sector extended losses; Huayin Power and Meiyan Jixiang approached limit-down, while Li New Energy, HENAN YUNENG HOLDINGS, Guangdong Electric Power A and Jingneng Power fell sharply.
+
+---
+
+### 2026-08-14 10:48:53  #公司
+
+【永福股份簽約阿爾及利亞1406.017MW燃機電站設計專案】永福股份公眾號訊息，8月13日，永福股份與中國電力工程有限公司在福州正式簽署阿爾及利亞特貝薩1406.017MW燃氣電站專案設計服務合同。此專案為永福股份在阿爾及利亞市場的首個專案，也是公司迄今為止海外單機容量最大的燃氣電站專案。此次簽約標誌著公司國際化戰略在北非地區實現重要突破。該專案為阿爾及利亞國家級重點電力基礎設施工程，規劃新建兩套“二拖一”聯合迴圈機組，每套配置2臺GE 9F.04燃氣輪發電機組、2臺餘熱鍋爐、1臺汽輪發電機組及1臺空冷凝汽器，永福股份承擔本專案設計及管理服務工作。
+
+---
+
+### 2026-08-14 10:48:01  #其他
+
+【青島今年前7個月進出口5548.7億元，同比增長6.4%】據青島海關統計，今年前7個月，青島市進出口5548.7億元，佔全省進出口總值的26.1%；同比增長6.4%，高於全省2.1個百分點。其中，出口3377.1億元，同比增長8.3%；進口2171.6億元，同比增長3.5%。7月份當月，青島市進出口877.5億元，同比增長10.5%。其中，出口560.1億元，同比增長16.3%；進口317.4億元，同比增長1.5%。
+
+---
+
+### 2026-08-14 10:47:51  #其他
+
+【廣達：AI伺服器需求強勁 訂單可見度延續至2028年】廣達首席財務官楊俊烈表示，AI伺服器的需求強勁，訂單可見度將延續至2028年。廣達正大力投資擴大生產以滿足客戶需求，計劃到2026年底，新的AI伺服器容量預計將比去年翻一番，到2028年容量將再次翻倍。廣達還將今年資本支出從原先的300億新臺幣提高至400億新臺幣，增長超過33%。
+
+---
+
+### 2026-08-14 10:47:45  #國際
+
+【小馬智行：擬擴大歐洲、中東運營範圍】8月14日，小馬智行與Uber宣佈，雙方將在歐洲五個城市部署超過2000輛小馬智行Robotaxi。此次合作將在克羅埃西亞薩格勒布現有商業化Robotaxi運營的基礎上，擴充套件至包括薩格勒布在內的5個歐洲城市，各城市具體落地計劃將在後續分階段公佈。雙方同時宣佈，薩格勒布服務即將接入Uber平臺。除歐洲外，雙方還將深化中東地區合作，擴大全球運營版圖。
+
+---
+
+### 2026-08-14 10:46:44  #MKT News #Commodities #Energy #Market Regions #Greater China #WTI #Impact bearish #Brent
+
+【China set for fifth fuel-price cut of year as pricing window opens Aug 14】China's domestic retail refined-fuel pricing window will open at 24:00 on Aug 14, with market consensus pointing to the year's fifth price cut. Longzhong analyst Liu Bingjuan says that as of Aug 12 the cycle reference crude averaged $82.14/bbl, down 4.90% from the prior period, implying an approximate theoretical reduction of 210 yuan/ton for refined fuels (about 0.15 yuan/liter); a 70‑liter tank fill would save roughly 11 yuan.
+
+---
+
+### 2026-08-14 10:46:37  #其他
+
+【加滿一箱油或少花約11元 油價將迎來年內第五次下調】國內成品油新一輪調價視窗將於8月14日24時開啟。綜合機構觀點，成品油價將迎來年內第五次下調。隆眾資訊成品油分析師劉炳娟介紹，截至8月12日，週期內參考原油均價為82.14美元/桶，較上一週期下調4.90%，預計調價視窗開啟時，對應成品油下調理論幅度在210元/噸附近，摺合升價大約0.15元，以70升的油箱來計算，私家車主加滿一箱油將少花約11元。（中新經緯）
+
+---
+
+### 2026-08-14 10:43:34  #市場
+
+【期貨及衍生品策略私募產品7月平均收益率為-2.22%】私募排排網資料顯示，有業績記錄的1403只期貨及衍生品策略私募產品，7月平均收益率為-2.22%，今年以來收益率為2.80%，在五大策略中領跑。
+
+---
+
+### 2026-08-14 10:43:28  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesian Shares Track First Weekly Decline in a Month — Indonesia's IDX Composite slipped 23 points or 0.4% to 6,282 in early Friday trade, extending weakness from the prior session as transport, healthcare, and financials weighed on sentiment. Traders stayed guarded ahead of President Prabowo’s address to parliament on the 2027 budget later today, expected to lean on consumption despite sliding approval and investor unease over commodity export curbs. Focus also turned to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo’s sudden departure, following a cumulative 100bps of hikes between May and June. Meanwhile, MSCI’s August review kept pressure on equities after confirming no new inclusions and 11 deletions effective after August 31. Mitra Adiperkasa (-2.3%), Indika Energy (-1.6%), Bank Central Asia (-1.2%) and Bumi Resources (-1.1%) led decliners. For the week, local shares are set to break a three-week winning streak, down about 0.4% so far.
+
+---
+
+### 2026-08-14 10:43:09  #公司 #國際
+
+馬來西亞國家石油煉化公司（Petronas PRefChem）煉油廠的燃料油自2023年以來首次運往美國。
+
+---
+
+### 2026-08-14 10:42:13  #MKT News
+
+【Equity-strategy private funds post average July return of -9.50%】Data from a private fund ranking site show 8,162 equity-strategy private funds with performance records posted an average July return of -9.50% and a year-to-date return of 0.12%.
+
+---
+
+### 2026-08-14 10:41:41  #其他
+
+【河南清潩河鄢陵縣倉頭村段發生潰口險情】從河南省防汛抗旱指揮部瞭解到，受近期連續強降雨影響，清潩河水位持續高位執行，8月13日，清潩河鄢陵縣倉頭村段發生潰口險情。情況發生後，鄢陵縣第一時間啟動應急響應，組織專門力量全力做好人員轉移和風險防範工作，目前無人員傷亡。
+
+---
+
+### 2026-08-14 10:41:20  #MKT News
+
+【Average return for bond‑strategy private funds -0.91% in July】Private fund platform SimuPaipai reported that 1,043 bond‑strategy private funds with performance records averaged -0.91% in July; year‑to‑date average return is +0.80%.
+
+---
+
+### 2026-08-14 10:41:05  #其他
+
+【債券策略私募產品7月平均收益率為-0.91%】私募排排網資料顯示，有業績記錄的1043只債券策略私募產品，7月平均收益率為-0.91%，今年以來平均收益率為0.80%。
+
+---
+
+### 2026-08-14 10:40:27  #其他
+
+【股票策略私募產品7月平均收益率為-9.50%】私募排排網資料顯示，有業績記錄的8162只股票策略私募產品，7月平均收益率為-9.50%，今年以來收益率為0.12%。
+
+---
+
+### 2026-08-14 10:40:18  #公司 #市場
+
+【四連板后皇氏集團跌停 公司回應】記者以投資者身份致電皇氏集團董秘辦，相關工作人員表示目前並未監控到市場有相關利空訊息，公司也沒有內部訊息需要披露。當被問及是否和前一日披露的風險提示公告有關，該工作人員稱，公司前兩天（8月11日晚）也發了一份股票交易異常波動公告，內容基本一致。“這兩天也沒有別的突發事情。”（中新經緯）
+
+---
+
+### 2026-08-14 10:40:03  #市場
+
+【主力資金：大唐發電淨賣出超10億】截至目前，今日主力資金淨流出153.73億；淨流入光通訊、通訊裝置、通訊等板塊，其中光通訊板塊淨流入41.49億；淨流出轉融券標的、融資融券、深股通等板塊，其中轉融券標的板塊淨流出145.65億。
+  
+個股方面，長鑫科技淨買入13.13億元位居首位，亨通光電、蓮花控股、中國巨石主力資金淨流入居前；大唐發電淨賣出10.77億元位居首位，東方財富、勝宏科技、華虹宏力淨流出額居前。
+
+---
+
+### 2026-08-14 10:38:25  #其他
+
+【華創證券：PX和純苯供給擴張趨緩 地緣擾動不改修復邏輯】華創證券釋出研報稱，PX與純苯行業盈利處於底部修復階段，具備較高的彈性。PX交易邏輯已由成本抬升逐步切換至供應收縮，價格韌性強於原料;純苯對外依存度持續提升，現貨支撐強勁，結構性偏強格局正在形成。若通航與原料供應改善，低位價差有望修復，一體化大煉化企業憑藉原料保障和成本協同優勢，盈利韌性及修復彈性相對更強。
+
+---
+
+### 2026-08-14 10:37:20  #公司
+
+【潤邦股份子公司承接兩大海上風電鋼管樁訂單】據潤邦股份公眾號訊息，近日，子公司潤邦海洋先後與國內兩大頭部能源企業達成深度合作，成功承接海上風電鋼管樁製造訂單。本次合作訂單單體直徑大，單件重量約2400噸，重新整理潤邦海洋現有製造紀錄。產品適配大功率海上風電機組建設需求，專案技術標準高、市場含金量足、交付週期緊，整體制造總量突破萬噸。
+
+---
+
+### 2026-08-14 10:37:07  #公司 #市場
+
+【光纖概念震盪反彈 長盈通漲超10%】光纖概念盤中震盪反彈，長盈通漲超10%，杭電股份、亨通光電、中天科技、長飛光纖、特發資訊、通鼎互聯等跟漲。
+
+---
+
+### 2026-08-14 10:36:58  #公司
+
+【中國雄安集團成立資產運營公司】企查查APP顯示，近日，雄安鑫城資產運營有限公司成立，法定代表人為李煒，註冊資本為10億元，經營範圍包含以自有資金從事投資活動；非居住房地產租賃；住房租賃；物業管理；商業綜合體管理服務等。企查查股權穿透顯示，該公司由中國雄安集團有限公司旗下中國雄安集團投資管理有限公司全資持股。
+
+---
+
+### 2026-08-14 10:36:39  #國際
+
+日本外相將於8月17日起訪問沙烏地阿拉伯和阿曼。
+
+---
+
+### 2026-08-14 10:36:32  #MKT News #Important
+
+China's state reserve website said a central reserve rotational release auction will be held on 19 Aug 2026, offering 9,700 tonnes of domestically produced frozen pork for bidding.
+
+---
+
+### 2026-08-14 10:36:21  #公司 #市場
+
+【通訊裝置板塊拉昇 共進股份、大唐電信漲停】通訊裝置板塊拉昇，共進股份、大唐電信漲停，長盈通、太辰光、長芯博創等漲幅居前。
+
+---
+
+### 2026-08-14 10:36:10  #其他
+
+【中亦科技中標兩家省級農村信用社聯合社技術服務專案】中亦科技公眾號訊息，中亦科技中標兩家省級農村信用社聯合社技術服務專案——山東農信資料庫服務專案、湖北農信資料中心支援服務專案。
+
+---
+
+### 2026-08-14 10:36:03  #其他
+
+【為農作物“解渴” 甘肅累計調水近7億立方米】甘肅省水利廳已協調黑河上游黃藏寺水庫補水超過3000萬立方米，適時加大水庫日均出庫流量，全力保障中游灌溉用水需求。截至8月上旬，全省已統籌調配抗旱應急水量近7億立方米，其中張掖市1.2億立方米。
+
+---
+
+### 2026-08-14 10:36:02  #MKT News #Important #Market Regions #Greater China
+
+China State Reserves website posted a notice that a central reserve rotational release auction of frozen pork will be held on Aug 18, 2026, listing 12,000 tonnes of domestic frozen pork.
+
+---
+
+### 2026-08-14 10:34:52  #公司
+
+朝日集團：計劃在2027財年恢復並超越2024財年的盈利水平。
+
+---
+
+### 2026-08-14 10:34:05  #其他
+
+【東北證券：引種缺口催化景氣上行 蛋白替代拓長期空間】東北證券釋出研報稱，豬肉依舊是我國第一大肉類消費來源，但人均消費量增速放緩、消費佔比逐年下行，而禽類消費佔比則快速提升。白羽肉雞憑藉極致養殖效率成為國內禽肉供給核心品種。白羽肉雞行業具備清晰的產業鏈週期執行特徵，週期核心驅動源自上游祖代種源供給波動。白羽雞行業長期成長邏輯清晰，長期維度重點看好下游深加工帶來的持續增量空間。
+
+---
+
+### 2026-08-14 10:33:29  #市場
+
+截至早盤收盤，日經225指數漲0.8%，東證指數漲0.7%。
+
+---
+
+### 2026-08-14 10:33:22  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-shares CPO concept stocks extended intraday gains, led by optical-module cooling names. Alaide, Zhongshi Technology and Fuxin Technology hit daily limit-up; Jinge New Materials surged over 17%. Jianqiao Technology, Dingtong Technology, Taichen Guang, Zhongci Electronics and Changxin Bochuang were among the top gainers.
+
+---
+
+### 2026-08-14 10:32:58  #市場
+
+【CPO概念持續走高 阿萊德20cm漲停】CPO概念盤中持續走高，光模組散熱方向領漲，阿萊德20cm漲停，此前中石科技、富信科技20cm漲停，金戈新材漲超17%，劍橋科技、鼎通科技、太辰光、中瓷電子、長芯博創等漲幅靠前。
+
+---
+
+### 2026-08-14 10:32:42  #公司
+
+【旺旺董事長蔡衍明全員信：公司面臨重大經營危機 沒有貢獻就要被淘汰】近日，旺旺集團董事長蔡衍明發布《致全體旺旺人的一封信》。蔡衍明在信中表示，“因為2026財年第一季度中國旺旺業績及利潤表現未達預期，公司於7月26日傍晚在香港聯交所網站公佈了一份自願性公告，就經營現況及未來展望做了一次說明。我希望全體旺旺人一定要高度重視公司這次的重大經營危機。”信中內容稱，“今天的苦果，是我們過去幾年來因循怠惰、未能及時採取正本清源的做法所致。所以，我們一定要切實反思自己，不是怪市場、怪客戶、抱怨大環境。”蔡衍明還強調，如果是不能有所貢獻的幹部，那就要被淘汰。“集團現在要的是能有貢獻、有功勞的旺旺人！沒有產出、沒有功勞的，都會需要被淘汰！”（新浪科技）
+
+---
+
+### 2026-08-14 10:32:26  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Market sources say LG will launch a next-generation humanoid robot built on NVIDIA's ISAAC GR00T platform (NVDA.O).
+
+---
+
+### 2026-08-14 10:32:22  #公司
+
+朝日集團上半財年營業利潤為1441億日元，而上年同期為923億日元。
+
+---
+
+### 2026-08-14 10:31:39  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報151600元/噸，較上日16:30價格上漲2250元/噸。
+
+---
+
+### 2026-08-14 10:31:31  #公司
+
+朝日集團：仍預計本財年營業利潤為2970億日元，仍預計全年淨利潤為1940億日元。
+
+---
+
+### 2026-08-14 10:30:47  #其他
+
+理想汽車：理想L6累計交付突破40萬輛。
+
+---
+
+### 2026-08-14 10:30:27  #MKT News #Market Regions #Japan & APAC
+
+YONHAP: South Korea's Blue House said parliamentary debate on a constitutional amendment would be beneficial.
+
+---
+
+### 2026-08-14 10:30:23  #MKT News
+
+YONHAP: South Korea's Blue House said public acceptance is high for a multi-term, four-year presidential system and for strengthening the National Assembly's powers.
+
+---
+
+### 2026-08-14 10:30:07  #其他
+
+華儲網釋出通知稱，2026年8月18日開展中央儲備凍豬肉輪換出庫競價交易，本次出庫競價交易掛牌國產凍豬肉12000噸。
+
+---
+
+### 2026-08-14 10:29:47  #公司
+
+【中國石油集團董事長戴厚良到遼陽石化調研】據中國石油報，8月12日、13日，中國石油集團董事長、黨組書記戴厚良到遼陽石化調研。戴厚良先後到聚酯部控制室、PEN新型材料建設現場及中試裝置、尼龍66專案、塑膠加工平臺、PX裝置、EDH中試裝置等現場調研，強調要堅持技術立企，以科技創新賦能煉化轉型升級，持續最佳化工藝和技術路線，認真論證改擴建方案的可行性，做好高附加值產品研發和市場預銷售，加強產品數質量管理，嚴守安全環保底線，確保裝置經濟效益最佳和“安穩長滿優”執行。
 
 ---
 
@@ -18501,197 +18755,5 @@ Australian Dollar Holds Firm — The Australian dollar held above $0.705, stayin
 ### 2026-08-13 09:45:39  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
 
 China A-share CPO concept stocks surged briefly; Gongjin Co. hit the daily limit, while Juguang Technology, Yuanjie Technology, Liante Technology, Tianfu Communication and Taichengguang advanced.
-
----
-
-### 2026-08-13 09:45:06  #公司 #市場
-
-【共封裝光學(CPO)板塊短線拉昇，共進股份漲停】共封裝光學(CPO)板塊短線拉昇，共進股份漲停，炬光科技、源傑科技、聯特科技、天孚通訊、太辰光等紛紛走高。
-
----
-
-### 2026-08-13 09:45:00  #市場 #國際
-
-國債期貨漲幅擴大，30年期主力合約漲0.35%，10年期主力合約漲0.05%，5年期主力合約漲0.03%，2年期主力合約漲0.01%。
-
----
-
-### 2026-08-13 09:44:57  #其他
-
-【廣東：圍繞人工智慧等關鍵領域 研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，最佳化新興產業標準佈局。圍繞人工智慧、新能源汽車、低空經濟、新型儲能、商業航天等關鍵領域，研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準。大力開拓新技術新產品應用場景，開展標準化應用試點，完善相關標準應用實施指引。
-
----
-
-### 2026-08-13 09:44:05  #MKT News #Market Themes #AI Revolution
-
-【Guangdong to plan standards systems for embodied intelligence and other frontier fields, exploring standardization to speed iteration of leading disruptive technologies】Guangdong provincial CPC committee and provincial government issued guidance to carry out future-industry standards planning. It directs standards-system research focused on embodied intelligence, biomanufacturing, quantum technology and other frontier areas, and to explore using standardization to accelerate iteration of pioneering and disruptive technologies. The guidance calls for stronger standards pre-research to improve scientific and practical feasibility and to shorten the cycle for converting scientific achievements into standards. It also backs formation of standardization technical organizations for future industries and advancement of key standards’ development and implementation.
-
----
-
-### 2026-08-13 09:44:01  #其他
-
-訊息人士稱，墨西哥在美墨加協定談判中推動降低汽車關稅。
-
----
-
-### 2026-08-13 09:43:58  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Wall Street Journal, citing sources, says Mexico is pushing to lower auto tariffs in USMCA negotiations.
-
----
-
-### 2026-08-13 09:43:53  #公司 #市場
-
-【食品飲料板塊再度活躍 皇氏集團4連板】早盤食品飲料板塊再度活躍，皇氏集團4連板，一鳴食品、會稽山、熊貓乳品、百合股份、好想你等跟漲。
-
----
-
-### 2026-08-13 09:43:43  #其他
-
-【廣東：圍繞具身智慧等前沿領域開展標準體系規劃研究，探索以標準化手段引領先導性、顛覆性技術快速迭代】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，開展未來產業標準規劃。圍繞具身智慧、生物製造、量子科技等前沿領域開展標準體系規劃研究，探索以標準化手段引領先導性、顛覆性技術快速迭代。加強標準預研工作，提升標準研製的科學性、可行性，縮短科技成果向標準轉化的週期。支援組建未來產業的標準化技術組織，推進重點標準的研製與實施。
-
----
-
-### 2026-08-13 09:43:38  #其他
-
-【廣東：力爭在積體電路等重點領域形成一批原創技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，強化科技攻關與標準同步。聚焦“廣東強芯”工程、汽車晶片“攀登計劃”、核心軟體攻關工程、顯示製造關鍵裝備攻關及產業化行動等，同步開展關鍵標準研製，力爭在積體電路、工業軟體、工業母機、科學儀器、醫療器械等重點領域形成一批原創技術標準。推動更多共性關鍵技術和應用類科技計劃專案形成標準研究成果。
-
----
-
-### 2026-08-13 09:43:33  #MKT News #Important #Market Regions #Greater China
-
-China A-share innovative drug sector bounced off intraday lows; Boji Medical rose over 12%, while Ruilian New Materials, Yuheng Pharmaceutical, Kanglong Huacheng, Baipusaisi and Puluo Pharmaceutical also advanced.
-
----
-
-### 2026-08-13 09:43:31  #市場
-
-富時中國A50指數期貨漲幅擴大至1%。
-
----
-
-### 2026-08-13 09:43:21  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Steadies Ahead of PPI Data — The dollar index steadied around 99.9 on Thursday after experiencing heightened volatility in the previous session, as investors looked ahead to July’s producer inflation report for further clues on recent price trends. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Meanwhile, investors continued to assess prospects for a deal to reopen the Strait of Hormuz, although escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement. Elsewhere, traders remained alert for potential intervention to support the yen as the currency approaches the 160 level against the dollar.
-
----
-
-### 2026-08-13 09:42:47  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時放量949億元。
-
----
-
-### 2026-08-13 09:42:32  #MKT News #Market Regions #Greater China #000300.SS #Impact bullish
-
-China A-share data-center power-supply stocks strengthened; Maigemit hit the daily trading limit, with Oulutong, Zhongheng Electric, Kstar, Aikesaibo and Ketai Power also higher.
-
----
-
-### 2026-08-13 09:42:22  #MKT News
-
-【Counterpoint Research: 2025 global commercial cleaning robot shipments to exceed 50,000; revenue over $400m】Counterpoint Research projects global commercial cleaning robot shipments will exceed 50,000 units in 2025, with revenue above $400m. Pudu Robotics ranks first in both shipments and revenue; leading firms are beginning to show scale effects. Commercial cleaning robots combine multi-sensor suites, environmental perception, 3D mapping, autonomous path planning and intelligent obstacle avoidance. With cloud-based dispatch, devices can perform unattended, large-area cleaning and produce automated cleaning and maintenance reports. Unlike manual push or ride-on equipment, which remain operator-dependent, commercial robots function as autonomous agents whose cleaning standards and operational quality are enforced by AI algorithms and data systems, marking the start of a commercial cleaning industry 2.0.
-
----
-
-### 2026-08-13 09:41:59  #其他
-
-【廣東：推進通訊網路、算力等新型基礎設施技術標準研製】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，夯實關鍵技術標準基礎。加快交通運輸、建築、水利、電力等傳統基礎設施核心關鍵技術、共性技術標準研製，完善現代工程技術標準體系。強化核心基礎零部件、先進基礎工藝、關鍵基礎材料與產業技術基礎標準建設。加強高階裝備製造標準化建設，加快推進工業機械、數控機床、電力裝備等技術標準研製與應用。強化新型基礎設施標準化建設，推進通訊網路、算力等新型基礎設施技術標準研製。
-
----
-
-### 2026-08-13 09:41:32  #公司
-
-【房地產板塊盤初走弱 首開股份等跌超4%】房地產板塊盤初走弱，首開股份、新城控股等多股跌超4%，金融街、福星股份、我愛我家等跟跌。
-
----
-
-### 2026-08-13 09:41:24  #其他
-
-【機構：2025年全球商用清潔機器人出貨量突破50000臺，營收超過4億美元】Counterpoint Research資料表明，2025年全球商用清潔機器人出貨量突破50,000臺，營收超過4億美元，出貨量和營收方面，普渡機器人均位居首位，行業頭部企業已經形成一定的規模效應。區別於傳統清潔裝置，商用清潔機器人整合多類感測器，具備環境感知、三維建圖、自主路徑規劃與智慧避障能力。依託雲端排程系統，裝置可實現無人值守大面積保潔作業，並自動輸出清潔運維報告。二者核心本質差異在於：傳統手推、駕駛式清潔方案仍屬於“人操作工具”，清潔效果高度受制於操作人員經驗與狀態；而商用清潔機器人是集感知、決策、執行於一體的獨立智慧體，清潔標準與作業質量由AI演算法和資料體系保障。商用清潔機器人的落地應用，正式開啟商用清潔行業2.0時代。
-
----
-
-### 2026-08-13 09:40:50  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-A-share advertising and marketing sector surged, with Shengguang Group hitting the daily limit; Yinli Media, Tianlong Group, Yaowang Technology, Dianguang Media and BlueFocus also rose.
-
----
-
-### 2026-08-13 09:40:36  #公司
-
-【南興股份等成立光聯科技公司 含光通訊裝置業務】企查查APP顯示，近日，廣東飛瑞光聯科技有限公司成立，經營範圍包含光通訊裝置製造；光通訊裝置銷售；通訊裝置製造；通訊裝置銷售等。企查查股權穿透顯示，該公司由南興股份等共同持股。
-
----
-
-### 2026-08-13 09:40:15  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-08-13 09:39:53  #其他
-
-【石油天然氣板塊繼續回撥 廣聚能源跌超3%】石油天然氣板塊繼續回撥，廣聚能源跌超3%，ST洲際、藍焰控股、泰山石油等跟跌。
-
----
-
-### 2026-08-13 09:39:47  #公司 #市場
-
-【廣告營銷板塊直線拉昇，省廣集團漲停】廣告營銷板塊直線拉昇，省廣集團漲停，引力傳媒、天龍集團、遙望科技、電廣傳媒、藍色游標等紛紛走高。
-
----
-
-### 2026-08-13 09:39:44  #公司 #市場
-
-【影視院線板塊短線拉昇，北京文化漲停】影視院線板塊短線拉昇，北京文化漲停，中廣天擇、文投控股、百納千成、華策影視、捷成股份等跟漲。
-
----
-
-### 2026-08-13 09:39:14  #MKT News #Commodities #Energy #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-A-share green power stocks traded volatile then strengthened in early trade; Jin Kai New Energy and Tongli Tianqi both hit the limit-up, while Jingke Technology, Huadian Energy, HENAN YUNENG HOLDINGS and Yuedian Power A also advanced.
-
----
-
-### 2026-08-13 09:38:17  #市場
-
-【綠電概念震盪拉昇 金開新能、同力天啟雙雙漲停】綠電概念震盪走強，金開新能、同力天啟雙雙漲停，晶科科技、華電能源、豫能控股、粵電力A跟漲。
-
----
-
-### 2026-08-13 09:38:02  #市場
-
-資料中心電源概念開盤拉昇，麥格米特漲停，歐陸通漲超10%，中恆電氣、科士達、愛科賽博、科泰電源漲幅居前。
-
----
-
-### 2026-08-13 09:37:16  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share electronic-chemicals sector spiked intraday; Haixing hit the daily price limit, while Fangbang, Tiantong, Ruilian New Materials, Sanfu Xinke and Zhongchuan Teqi also gained.
-
----
-
-### 2026-08-13 09:37:04  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Near 3-Week High — The benchmark KOSPI rose nearly 4% to around 6,830 on Thursday, extending gains to its highest level in almost three weeks, as major chipmakers rallied following an overnight rise in US technology stocks. Samsung Electronics climbed more than 4%, and SK hynix surged over 7%, as renewed optimism over AI-related demand lifted sentiment across the semiconductor sector. Strong gains were also recorded in SK Square (9.0%), Hyundai Motor (3.4%), LG Energy Solution (2.1%), Hanwha Aerospace (2.9%), HD Hyundai Heavy Industries (1.0%), and Kia Corporation (1.7%). Additionally, a softer-than-expected US inflation reading reduced expectations for a September Federal Reserve rate hike, further supporting risk appetite and technology shares. Separately, the South Korean government’s plan to ease regulations for semiconductor and AI megaprojects, expected to generate KRW 4.2 trillion in investment, provided an additional positive backdrop.
-
----
-
-### 2026-08-13 09:36:51  #公司 #市場
-
-【超節點概念震盪走強 共進股份漲停】早盤超節點概念震盪走強，共進股份漲停，華勤技術、智微智慧、紫光股份、星網銳捷、銳捷網路、浪潮資訊等跟漲。
-
----
-
-### 2026-08-13 09:36:27  #市場 #國際
-
-菲律賓股市指數下跌1.1%，至6298.84點。
-
----
-
-### 2026-08-13 09:36:10  #其他
-
-【光輪智慧與源策未來探索全身智慧資料與評測合作】據光輪智慧訊息，近日，光輪智慧與源策未來達成戰略合作。光輪智慧面向物理AI建設資料與評測基礎設施，覆蓋人類資料生產、物理模擬、規模化評測和真實場景反饋全閉環。源策未來聚焦通用全身智慧基礎模型，圍繞全身移動與操作、長時序任務、多模態感知和跨本體能力遷移開展研發。未來，雙方將圍繞更多全身任務、環境和本體條件展開密切合作，持續完善從資料生產、模擬訓練、能力評測到真實反饋的持續學習系統，為全身智慧基礎模型走向穩定執行和跨場景應用提供規模化、可複用的物理AI基礎設施。
 
 ---
