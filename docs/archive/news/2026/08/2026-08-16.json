@@ -1,7 +1,32 @@
 {
   "date": "2026-08-16",
-  "count": 322,
+  "count": 326,
   "items": [
+    {
+      "id": "5042630",
+      "time": "2026-08-16 14:01:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀】中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志的遺體，將於18日在北京火化。為悼念朱鎔基同志，18日，首都天安門、新華門、人民大會堂、外交部，各省、自治區、直轄市黨委和政府所在地，香港特別行政區、澳門特別行政區，各邊境口岸，對外海空港口，中國駐外使領館將下半旗誌哀。（新華社）"
+    },
+    {
+      "id": "mkt:01a00926-d9bc-7aab-904c-960c5389c9f2",
+      "time": "2026-08-16 13:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Navy finds unidentified drone at largest Italian base; base-wide security measures enacted】Stars and Stripes reported on 14 that the US Navy discovered an unidentified small drone at its largest base in Italy and implemented base-wide security measures. The drone was found on 13 at a support site, prompting precautionary action. Separately, a brief shelter-in-place order was issued at a garrison about 13 miles (21 km) from the discovery; officials have not confirmed whether the order was related to the drone or whether similar orders were issued at the support site."
+    },
+    {
+      "id": "5042629",
+      "time": "2026-08-16 13:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美海軍在義大利最大基地內發現無人機，並採取全基地安全措施】據美國《星條旗報》當地時間14日報道，美國海軍在義大利最大基地內日前發現一架身份不明的無人機，並採取了全基地安全措施。報道稱，該小型無人機於13日在美海軍基地一支援點中被發現，促使安全部隊採取預防措施。在發現該無人機前後，美海軍基地在其位於距離事發地點約13英里（約21千米）的一個駐地釋出了短暫的就地避險令。目前尚不清楚這項避險令是否與發現了無人機有關，也不清楚支援點中是否也釋出了類似的命令。（環球網）"
+    },
     {
       "id": "5042628",
       "time": "2026-08-16 13:52:36",
@@ -9,6 +34,17 @@
         "國際"
       ],
       "text": "匈牙利總理：一輛波蘭巴士在匈牙利發生事故，已造成12人死亡，至少10人受傷。"
+    },
+    {
+      "id": "5042627",
+      "time": "2026-08-16 13:52:18",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【“恐慌指數”跌至年內低位 科技股高位震盪】本週美股各大指數表現分化，標普500迎來7800點里程碑的同時道指結束周線兩連陽。美國通脹資料疊加零售銷售下滑，提升了美聯儲9月暫停加息的機率；與此同時，特朗普政府對中東局勢釋放的訊號，成為打壓風險偏好的理由。 未來一週，隨著財報季臨近尾聲，地緣政治因素和美聯儲貨幣政策預期或重新主導市場，而衡量市場波動性的芝商所“恐慌指數”VIX跌至年內低位，可能醞釀著新一輪波動的風險。 牛津經濟研究院高階經濟學家鮑勃·施瓦茨在接受記者採訪時表示，美國物價最大的不確定性變數仍是能源價格，中東衝突可以把通脹推向完全不同的方向。核心通脹已經回落至2.5%，但自 2021年之後就很難進一步跌破該水平，這也給美聯儲鷹派提供了支援繼續加息的論據。他認為，長期來看，AI帶來的生產率提升有望抑制通脹；但短期，資料中心、半導體、儲存晶片的鉅額需求，已經推高科技板塊部分環節的價格，對AI長期抗通脹的前景形成短期對沖。（第一財經）"
     },
     {
       "id": "mkt:01a0091d-aeed-7aab-904c-8a9144d3efb7",
