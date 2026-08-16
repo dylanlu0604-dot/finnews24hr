@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 563,
+  "count": 565,
   "items": [
+    {
+      "id": "mkt:01a00a8d-27c4-7aab-904e-041b1f6b7e1d",
+      "time": "2026-08-16 20:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fighting intensifies in Yemen; Iran-backed Houthi forces suffer heavy casualties】Al Arabiya English, citing military sources, reported about 200 Houthi fighters killed in the past 48 hours, most on the Taizz and Marib fronts. Sources said the deaths resulted from drone strikes and firefights, with numerous bodies delivered to hospitals in Sanaa, which is under Houthi control; the casualties follow a funeral last week for more than 184 fighters."
+    },
+    {
+      "id": "5042829",
+      "time": "2026-08-16 20:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美海軍第五艦隊否認“拳師”號兩棲攻擊艦女性衛生用品短缺傳聞】針對近期外界有關美國海軍“拳師”號兩棲攻擊艦（USS Boxer）出現女性軍人衛生用品短缺的報道，美國海軍中央司令部及第五艦隊16日發表宣告予以明確否認，強調相關說法不屬實。宣告指出，“拳師”號自今年3月從聖迭戈出發以來，已先後進行了四次靠港訪問。該艦在上次靠港後在海上連續部署的時間不足兩個月。目前，艦上儲備充足，包括艦上商店和醫務室均備有女性衛生用品。此外，該艦在8月份已順利接收了兩次大型郵件補給。美國海軍第五艦隊強調，“拳師”號兩棲戒備大隊目前裝備齊全，具備執行所有指派任務的能力，隨時處於待命狀態。此前，有社交媒體賬號釋出影片稱，“拳師”號上的女性人員一直在“懇求”提供額外的衛生巾和棉條，稱基本的女性衛生用品在海上已經耗盡。"
+    },
     {
       "id": "5042828",
       "time": "2026-08-16 20:23:24",

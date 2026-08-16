@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 20:27:00",
+  "updated": "2026-08-16 20:30:58",
   "count": 15181,
   "items": [
+    {
+      "id": "mkt:01a00a8d-27c4-7aab-904e-041b1f6b7e1d",
+      "time": "2026-08-16 20:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fighting intensifies in Yemen; Iran-backed Houthi forces suffer heavy casualties】Al Arabiya English, citing military sources, reported about 200 Houthi fighters killed in the past 48 hours, most on the Taizz and Marib fronts. Sources said the deaths resulted from drone strikes and firefights, with numerous bodies delivered to hospitals in Sanaa, which is under Houthi control; the casualties follow a funeral last week for more than 184 fighters."
+    },
+    {
+      "id": "5042829",
+      "time": "2026-08-16 20:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美海軍第五艦隊否認“拳師”號兩棲攻擊艦女性衛生用品短缺傳聞】針對近期外界有關美國海軍“拳師”號兩棲攻擊艦（USS Boxer）出現女性軍人衛生用品短缺的報道，美國海軍中央司令部及第五艦隊16日發表宣告予以明確否認，強調相關說法不屬實。宣告指出，“拳師”號自今年3月從聖迭戈出發以來，已先後進行了四次靠港訪問。該艦在上次靠港後在海上連續部署的時間不足兩個月。目前，艦上儲備充足，包括艦上商店和醫務室均備有女性衛生用品。此外，該艦在8月份已順利接收了兩次大型郵件補給。美國海軍第五艦隊強調，“拳師”號兩棲戒備大隊目前裝備齊全，具備執行所有指派任務的能力，隨時處於待命狀態。此前，有社交媒體賬號釋出影片稱，“拳師”號上的女性人員一直在“懇求”提供額外的衛生巾和棉條，稱基本的女性衛生用品在海上已經耗盡。"
+    },
     {
       "id": "5042828",
       "time": "2026-08-16 20:23:24",
@@ -138877,24 +138893,6 @@
         "國際"
       ],
       "text": "【美國“外行任大使”現象惹質疑】美國《華盛頓郵報》近期梳理了本屆美國總統任期內已任命或提名的駐外大使名單，發現其中絕大多數要麼是助選的“金主”，要麼是政治方面的“忠實擁躉”。該報認為，這種做法違背了數十年來主要從職業外交官中挑選駐外大使的美國傳統。《華盛頓郵報》6日發表的這篇報道援引美國外交人員協會的資料，比較了自福特總統之後歷任美國總統任內國會中期選舉年份的駐外大使崗位情況。資料顯示，截至今年7月中旬的本屆美國政府任期內，在任大使90人，其中僅25人為職業外交官出身，佔比不到三分之一，其餘65人屬於“政治任命”；尚有102個大使崗位空缺，超過崗位總數一半，其中72個崗位未提名人選，另外30名大使候選人正等待國會參議院批准。（新華社）"
-    },
-    {
-      "id": "5032558",
-      "time": "2026-08-09 20:27:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京君正透過港交所上市聆訊】據港交所檔案，8月9日，北京君正積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
-    },
-    {
-      "id": "mkt:019fe67e-3ffa-7aab-8fca-193cb8847e7c",
-      "time": "2026-08-09 20:27:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Beijing Junzheng IPO clears HKEX hearing】According to HKEX filings, on Aug 9 Beijing Junzheng Integrated Circuit Co. updated its post-hearing submission, indicating the company’s IPO has cleared the HKEX hearing."
     }
   ]
 }
