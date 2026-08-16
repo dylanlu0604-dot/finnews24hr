@@ -1,7 +1,67 @@
 {
   "date": "2026-08-17",
-  "count": 174,
+  "count": 180,
   "items": [
+    {
+      "id": "te:economy:575559",
+      "time": "2026-08-17 07:05:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Credit Card Spending",
+        "Importance 1"
+      ],
+      "text": "New Zealand Credit Card Spending Rebounds — Seasonally adjusted electronic card transactions in New Zealand rose 1.3% month over month in July 2026, recovering from a downwardly revised 1.3% decline in the previous month. The rebound was driven by a recovery in spending on hospitality (3.2% vs. -2.4% in June), durables (2.5% vs. -3.8%), and apparel (3.2% vs. -2.1%)."
+    },
+    {
+      "id": "5043007",
+      "time": "2026-08-17 07:02:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國8月房價環比下跌2%，英國8月房價同比下跌1%。"
+    },
+    {
+      "id": "te:economy:575557",
+      "time": "2026-08-17 07:01:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Private Sector Growth Eases — The BusinessNZ Performance of Composite Index declined to 52.6 in July 2026 from an upwardly revised 53.8 in the previous month, which was the fastest expansion in six months. It marked the second consecutive month of expansion in the private sector, as the services sector recorded its strongest growth in seven months while manufacturing growth eased."
+    },
+    {
+      "id": "5043006",
+      "time": "2026-08-17 07:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國慶尚南道泥石流致20餘人被困】據韓聯社17日報道，韓國慶尚南道巨濟市發生泥石流，20餘人被困，現場搜救工作正在進行中。 韓聯社在另一則報道里說，已有兩人獲救，其中一人“心臟驟停”。（新華社）"
+    },
+    {
+      "id": "5043005",
+      "time": "2026-08-17 07:00:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【經濟日報金觀平：把握好貨幣政策的力度與節奏】文章指出，實現“十五五”良好開局，需要宏觀政策更加積極有為。接下來，繼續實施好適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，推動經濟持續向新向優向好發展。"
+    },
+    {
+      "id": "te:economy:575556",
+      "time": "2026-08-17 06:57:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Services Growth Hits 7-Month High — New Zealand’s BusinessNZ Performance of Services Index increased to 50.9 in July 2026 from 50.6 in June, marking the first expansion in the services sector since December 2025. Three of the five sub-indices returned to expansion territory, with new orders (52.6 vs. 53.3) recording the strongest reading, although at a softer pace."
+    },
     {
       "id": "5043004",
       "time": "2026-08-17 06:54:59",
