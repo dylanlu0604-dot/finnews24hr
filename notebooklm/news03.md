@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:49:53_
-_本檔包含 2966 則快訊，約 600597 字_
+_更新時間：2026-08-17 02:40:31_
+_本檔包含 2958 則快訊，約 600881 字_
+
+---
+
+### 2026-08-13 13:43:43  #市場 #焦點
+
+現貨黃金失守4390美元/盎司，日內跌0.43%。
+
+---
+
+### 2026-08-13 13:43:14  #其他
+
+【國家機器人創新中心在金屬增材製造工藝研究方面取得進展】據國家機器人創新中心訊息，鐳射粉末床熔融（LPBF）是當下鈦合金精密構件增材製造的核心工藝，廣泛應用於航空航天、高階裝備、精密製造等關鍵領域。但傳統LPBF工藝製備的Ti-6Al-4V合金，微觀組織通常呈現為完全針狀馬氏體，導致其延展性顯著下降。行業普遍採用後續熱處理改善材料塑形，但這些方法仍存在強度-延展性權衡以及工藝冗餘，製造效率偏低的問題。針對這一問題，近日中心研發團隊提出了一種在粉末床熔融過程中進行原位層間鐳射重熔（ILRPBF）的全新工藝策略。該技術利用鐳射工藝獨特的快速熱迴圈特性來調控所製備Ti-6Al-4V合金的微觀組織，無需額外後續熱處理工序，在保持高強度的同時，提升了合金的延展性及製造效率。
+
+---
+
+### 2026-08-13 13:43:11  #市場 #焦點
+
+南向資金淨買入額達60億港元。
+
+---
+
+### 2026-08-13 13:43:05  #MKT News #DXY #Impact bullish
+
+【RBA assistant governor Kent's dovish remarks push AUD below 0.7050】Commonwealth Bank of Australia (CBA) said the Australian dollar slipped below 0.7050 in the Asian session after RBA assistant governor Kent delivered dovish remarks. Kent said financial conditions remain somewhat tight and that earlier three rate hikes are working as expected, adding that a weakening housing market often means policy need not further slow demand. CBA FX strategist Samara Hammoud expects falling house prices will weigh on household spending and forecasts the RBA will hold rates for now and cut twice in 2027.
+
+---
+
+### 2026-08-13 13:43:01  #公司
+
+【獨家 | 五糧液向經銷商髮禁令：第八代五糧液不得低於800元拋售，低價出貨將被處罰】8月13日，繼收緊渠道補貼後，五糧液再度加碼市場管控。《酒業內參》從經銷商等多方獨家獲悉，五糧液近期向經銷商通知，不得以低於800元/瓶的價格低價拋售第八代五糧液。同時，酒廠也將加強對低價出貨和竄貨經銷商的處罰，進一步穩固區域秩序。截至發稿前，五糧液暫無回應。 此前，《酒業內參》曾報道，7月底，五糧液收緊了對渠道經銷商的多項補貼投入，經銷商的第八代五糧液整體成本對比收緊前成本提高了約50元/瓶。 批發價格方面，彼時，第八代五糧液單箱批價大約浮動在4485元-4500元，單瓶批價約748元-750元/瓶。 或基於新政影響，截止目前，第八代五糧液單箱批價已升至約4600元-4650元，單瓶批價約767元-775元/瓶。
+
+---
+
+### 2026-08-13 13:42:20  #其他
+
+【中保研發布最新汽車零整比研究結果：新能源汽車維修負擔指數降約14%】中保研今日釋出第21期汽車零整比體系指標研究結果（資料採集日期為2025年12月31日），指標包括汽車零整比係數、汽車零整比100指數、維修負擔指數等。結果顯示，最新一期燃油車“汽車零整比100指數”為390.77%，較上期略降0.3個百分點。新能源汽車“汽車零整比100指數”為311.42%，較上期下降0.82個百分點。與保險賠付緊密相關的新能源汽車“維修負擔100指數”為23.81，較上期下降3.85，降幅為13.92%。其中，動力電池價格下降是本期新能源汽車維修負擔100指數下降的主要因素。
+
+---
+
+### 2026-08-13 13:41:29  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
+
+【Sichuan to bolster compute-park infrastructure, preemptively expand smart compute facilities】Sichuan published interim policies to advance compute-network construction, directing upgrades to compute-park infrastructure and urging direct connections between backbone and metro communications networks and compute parks. The province will accelerate a “millisecond computing” action plan, coordinate primary and backup power and support intelligent microgrids for parks. Financing for qualifying compute-park infrastructure will be prioritised via local government special bonds and policy financial tools. The plan backs shared compute services — including scheduling platforms, compute marketplaces and token factories — and aims to boost high-quality compute supply. For large-model training/inference and industry-model development, Sichuan calls for appropriately ahead-of-demand deployment of smart compute, accelerated construction of 10,000-card smart-compute clusters, and balanced allocation between general-purpose, smart and supercomputing resources to raise the smart-compute share. Key universities, research institutes, industry leaders and AI firms are encouraged to prioritise provincial compute resources; eligible users may receive compute vouchers.
 
 ---
 
@@ -17810,95 +17852,5 @@ SK海力士股價上漲4.1%，至148.4萬韓元。
 ### 2026-08-12 10:14:00  #MKT News
 
 【Trump Wednesday schedule (Beijing time)】Beijing time: 20:00 Executive office; 22:30 meeting with law enforcement and military; 23:00 policy meeting; 00:30 (next day) policy meeting; 02:30 signing ceremony; 04:00 policy meeting; 05:00 policy meeting.
-
----
-
-### 2026-08-12 10:13:50  #公司
-
-【健麾資訊等在上海成立健康科技公司】企查查APP顯示，近日，健麾靈保（上海）健康科技有限公司成立，經營範圍包含網際網路資訊服務；計算機資訊系統安全專用產品銷售；食品銷售；第一類增值電信業務等。企查查股權穿透顯示，該公司由健麾資訊等共同持股。
-
----
-
-### 2026-08-12 10:13:37  #市場 #焦點
-
-現貨黃金突破4400美元/盎司，日內漲0.74%。
-
----
-
-### 2026-08-12 10:13:13  #公司
-
-【Google Gemma 4全球下載量突破3億】從Google I/O上海瞭解到，Google Gemma 4模型下載量已突破 3 億。今年4月，谷歌釋出Gemma 4系列模型，專為高階推理和智慧體(Agentic)工作流而設計。（介面新聞）
-
----
-
-### 2026-08-12 10:13:03  #市場 #焦點
-
-紐約期金突破4460美元/盎司，日內漲0.43%。
-
----
-
-### 2026-08-12 10:12:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,400/oz intraday, up 0.74%.
-
----
-
-### 2026-08-12 10:12:49  #公司 #觀點
-
-【 中金：維持閱文集團(00772)跑贏行業評級 目標價29港元 】 中金髮布研報稱，維持閱文集團(00772)2026/2027年Non-IFRS歸母淨利潤8.50/13.11億元。現價對應2026/2027年21/14倍Non-IFRS市盈率。維持跑贏行業評級和目標價29港元，對應2026/2027年30/19倍Non-IFRS市盈率，較當前股價有39.8%的上行空間。
-
----
-
-### 2026-08-12 10:12:43  #公司 #市場
-
-三星電子股價上漲5.9%，報253500韓元。
-
----
-
-### 2026-08-12 10:12:19  #MKT News #CSI300 #Impact bullish #SZSE Component
-
-A-share lithium-mining names jumped intraday; Yongshan Lithium hit the daily limit, while Shengxin Lithium Energy, Tianhua New Energy, Guocheng Mining, Dazhong Mining and Rongjie Shares also rose.
-
----
-
-### 2026-08-12 10:11:52  #公司
-
-【 瑞銀：下調中國鐵塔(00788)目標價至10港元 維持“中性”評級 】 瑞銀髮布研報稱，下調中國鐵塔(00788)目標價14%，從11.6港元降至10港元，維持“中性”評級。該行下調對該公司2026-2028年淨利潤和每股盈利預期10-14%，主要原因是電信業者最佳化移動網路導致鐵塔收入下降。根據該行新的盈利預測和77%派息比率，中國鐵塔目前的2026年預期股息率為6%，這應能為其估值提供支撐。
-
----
-
-### 2026-08-12 10:11:12  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share semiconductor materials sector rose; Oulai New Material jumped over 10%, while Youyan New Material, Xiandao Jidian, Kema Technology, Zhenbao Technology and Youyan Silicon also advanced.
-
----
-
-### 2026-08-12 10:10:55  #其他
-
-【半導體材料板塊走高，歐萊新材漲超10%】半導體材料板塊走高，歐萊新材漲超10%，有研新材、先導基電、珂瑪科技、臻寶科技、有研矽等跟漲。
-
----
-
-### 2026-08-12 10:10:41  #市場 #觀點 #國際 #原創
-
-【摩根大通上調新加坡海峽時報指數目標位至6500點】摩根大通上調新加坡海峽時報指數目標位至 6500點，稱“恰到好處”的經濟狀況將推動盈利增長，並賦予當局更大的財政靈活性。“我們認為，適宜的經濟環境應繼續支撐每股收益增長，併為財政騰出空間，”摩根大通分析師表示。“儘管估值已突破平均水平，但我們認為，隨著新加坡海峽時報指數在高收益率和貨幣穩定的推動下重新定價，向其他發達市場靠攏，這一水平將得以維持。”摩根大通還將新加坡海峽時報指數多空情景目標位分別上調至7000點/5000點。
-
----
-
-### 2026-08-12 10:08:27  #觀點 #國際
-
-花旗將騰訊音樂娛樂美國存託憑證目標價從13美元下調至11.4美元。
-
----
-
-### 2026-08-12 10:08:05  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH
-
-【Chief Executive John Lee: Greater Bay Area a key entry point for Hong Kong to integrate with and serve national development】Chief Executive John Lee said on Aug. 11 this year is the opening year of the national '15th Five-Year Plan' and that the Guangdong–Hong Kong–Macao Greater Bay Area (GBA) is an important entry point for Hong Kong to integrate with and serve the national development agenda. The SAR government will use Hong Kong's 'one country, two systems' connectivity to support high-quality GBA development, assist mainland GBA and other provincial firms in expanding overseas, and attract international high-end talent and capital to boost growth. Public consultation on Hong Kong's first five-year plan closes Aug. 14; the government plans to publish detailed measures next month.
-
----
-
-### 2026-08-12 10:08:01  #其他
-
-【李家超：粵港澳大灣區是香港融入和服務國家發展大局的重要切入點】“今年是國家‘十五五’規劃的開局之年。粵港澳大灣區建設是香港融入和服務國家發展大局的重要切入點，特區政府將繼續發揮香港在‘一國兩制’下內聯外通的優勢，積極服務大灣區高質量建設，支援大灣區內地城市以至不同省市的企業‘走出去’，同時把國際高階人才與資金‘引進來’，為發展注入動能。”香港特區行政長官李家超11日說。特區政府就香港第一個五年規劃的公眾諮詢將於8月14日結束，計劃在下個月內公佈具體內容。李家超稱，香港主動對接國家發展戰略，以宏觀和前瞻的視角，勾勒香港未來五年的願景及目標，把握國家“十五五”規劃帶來的龐大機遇，推動香港更好融入和服務國家發展大局。（中新網）
 
 ---

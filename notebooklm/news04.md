@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:49:53_
-_本檔包含 3063 則快訊，約 600982 字_
+_更新時間：2026-08-17 02:40:31_
+_本檔包含 3065 則快訊，約 601923 字_
+
+---
+
+### 2026-08-12 10:13:50  #公司
+
+【健麾資訊等在上海成立健康科技公司】企查查APP顯示，近日，健麾靈保（上海）健康科技有限公司成立，經營範圍包含網際網路資訊服務；計算機資訊系統安全專用產品銷售；食品銷售；第一類增值電信業務等。企查查股權穿透顯示，該公司由健麾資訊等共同持股。
+
+---
+
+### 2026-08-12 10:13:37  #市場 #焦點
+
+現貨黃金突破4400美元/盎司，日內漲0.74%。
+
+---
+
+### 2026-08-12 10:13:13  #公司
+
+【Google Gemma 4全球下載量突破3億】從Google I/O上海瞭解到，Google Gemma 4模型下載量已突破 3 億。今年4月，谷歌釋出Gemma 4系列模型，專為高階推理和智慧體(Agentic)工作流而設計。（介面新聞）
+
+---
+
+### 2026-08-12 10:13:03  #市場 #焦點
+
+紐約期金突破4460美元/盎司，日內漲0.43%。
+
+---
+
+### 2026-08-12 10:12:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold touched $4,400/oz intraday, up 0.74%.
+
+---
+
+### 2026-08-12 10:12:49  #公司 #觀點
+
+【 中金：維持閱文集團(00772)跑贏行業評級 目標價29港元 】 中金髮布研報稱，維持閱文集團(00772)2026/2027年Non-IFRS歸母淨利潤8.50/13.11億元。現價對應2026/2027年21/14倍Non-IFRS市盈率。維持跑贏行業評級和目標價29港元，對應2026/2027年30/19倍Non-IFRS市盈率，較當前股價有39.8%的上行空間。
+
+---
+
+### 2026-08-12 10:12:43  #公司 #市場
+
+三星電子股價上漲5.9%，報253500韓元。
+
+---
+
+### 2026-08-12 10:12:19  #MKT News #CSI300 #Impact bullish #SZSE Component
+
+A-share lithium-mining names jumped intraday; Yongshan Lithium hit the daily limit, while Shengxin Lithium Energy, Tianhua New Energy, Guocheng Mining, Dazhong Mining and Rongjie Shares also rose.
+
+---
+
+### 2026-08-12 10:11:52  #公司
+
+【 瑞銀：下調中國鐵塔(00788)目標價至10港元 維持“中性”評級 】 瑞銀髮布研報稱，下調中國鐵塔(00788)目標價14%，從11.6港元降至10港元，維持“中性”評級。該行下調對該公司2026-2028年淨利潤和每股盈利預期10-14%，主要原因是電信業者最佳化移動網路導致鐵塔收入下降。根據該行新的盈利預測和77%派息比率，中國鐵塔目前的2026年預期股息率為6%，這應能為其估值提供支撐。
+
+---
+
+### 2026-08-12 10:11:12  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share semiconductor materials sector rose; Oulai New Material jumped over 10%, while Youyan New Material, Xiandao Jidian, Kema Technology, Zhenbao Technology and Youyan Silicon also advanced.
+
+---
+
+### 2026-08-12 10:10:55  #其他
+
+【半導體材料板塊走高，歐萊新材漲超10%】半導體材料板塊走高，歐萊新材漲超10%，有研新材、先導基電、珂瑪科技、臻寶科技、有研矽等跟漲。
+
+---
+
+### 2026-08-12 10:10:41  #市場 #觀點 #國際 #原創
+
+【摩根大通上調新加坡海峽時報指數目標位至6500點】摩根大通上調新加坡海峽時報指數目標位至 6500點，稱“恰到好處”的經濟狀況將推動盈利增長，並賦予當局更大的財政靈活性。“我們認為，適宜的經濟環境應繼續支撐每股收益增長，併為財政騰出空間，”摩根大通分析師表示。“儘管估值已突破平均水平，但我們認為，隨著新加坡海峽時報指數在高收益率和貨幣穩定的推動下重新定價，向其他發達市場靠攏，這一水平將得以維持。”摩根大通還將新加坡海峽時報指數多空情景目標位分別上調至7000點/5000點。
+
+---
+
+### 2026-08-12 10:08:27  #觀點 #國際
+
+花旗將騰訊音樂娛樂美國存託憑證目標價從13美元下調至11.4美元。
+
+---
+
+### 2026-08-12 10:08:05  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH
+
+【Chief Executive John Lee: Greater Bay Area a key entry point for Hong Kong to integrate with and serve national development】Chief Executive John Lee said on Aug. 11 this year is the opening year of the national '15th Five-Year Plan' and that the Guangdong–Hong Kong–Macao Greater Bay Area (GBA) is an important entry point for Hong Kong to integrate with and serve the national development agenda. The SAR government will use Hong Kong's 'one country, two systems' connectivity to support high-quality GBA development, assist mainland GBA and other provincial firms in expanding overseas, and attract international high-end talent and capital to boost growth. Public consultation on Hong Kong's first five-year plan closes Aug. 14; the government plans to publish detailed measures next month.
+
+---
+
+### 2026-08-12 10:08:01  #其他
+
+【李家超：粵港澳大灣區是香港融入和服務國家發展大局的重要切入點】“今年是國家‘十五五’規劃的開局之年。粵港澳大灣區建設是香港融入和服務國家發展大局的重要切入點，特區政府將繼續發揮香港在‘一國兩制’下內聯外通的優勢，積極服務大灣區高質量建設，支援大灣區內地城市以至不同省市的企業‘走出去’，同時把國際高階人才與資金‘引進來’，為發展注入動能。”香港特區行政長官李家超11日說。特區政府就香港第一個五年規劃的公眾諮詢將於8月14日結束，計劃在下個月內公佈具體內容。李家超稱，香港主動對接國家發展戰略，以宏觀和前瞻的視角，勾勒香港未來五年的願景及目標，把握國家“十五五”規劃帶來的龐大機遇，推動香港更好融入和服務國家發展大局。（中新網）
 
 ---
 
@@ -18392,83 +18482,5 @@ Singapore | GDP (YoY) (Q2) | actual 5.9% | consensus 5.9% | previous 5.70%
 ### 2026-08-11 08:02:01  #Trading Economics #Markets #Commodity #Importance 2
 
 Gold Extends Rally on Investment Demand — Gold climbed to around $4,400 an ounce on Tuesday, reaching its highest level in two months as investment demand for precious metals improved despite rising inflationary risks and expectations for interest rate hikes fueled by surging oil prices. Chinese institutional investors continued to increase their bullion holdings as a hedge against volatility in other markets, with gold-backed exchange traded funds in China recording their longest streak of inflows in months. China’s central bank also accelerated its gold purchases last month, with reserves rising by about 20 tons in July following an increase of around 15 tons in June, marking the largest monthly addition since October 2023. Meanwhile, uncertainty persisted over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. Investors also awaited a key US inflation reading this week for fresh clues on the Federal Reserve’s policy outlook.
-
----
-
-### 2026-08-11 08:01:36  #MKT News #005930.KS #Impact bearish #000660.KS
-
-South Korea's KOSPI opened down 76.93 points (-1.22%) at 6,222.73 on Aug. 11 (Tuesday). SK Hynix fell 2.8% and Samsung Electronics dropped 0.7%.
-
----
-
-### 2026-08-11 08:01:14  #其他
-
-【千問推出辦公助理付費服務：三檔套餐，一年最高1499元】8月10日晚，千問App顯示，千問辦公助理針對專業使用者推出了收費服務。千問App顯示，辦公助理會員套餐共分旗艦、精英、高階三檔。其中旗艦套餐月付價128元/月、年付價1499元/年，可提升至20倍額度；精英套餐月付價49元/月、年付價568元/年，可提升至5倍額度；高階套餐19元/月、年付價200元/年，可提升至2倍額度。
-
----
-
-### 2026-08-11 08:01:14  #MKT News #Market Regions #Japan & APAC
-
-Japan's stock market was closed today for the Mountain Day public holiday.
-
----
-
-### 2026-08-11 08:01:07  #其他
-
-今天（11日）公安部網安局釋出打擊侵犯公民個人資訊犯罪10起典型案例。
-
----
-
-### 2026-08-11 08:00:58  #公司 #市場 #觀點
-
-【中金：AI硬體降本多元化之路開啟後有望刺激更多需求】中金公司研報稱，當下，在儲存器成本持續通脹、海外CSP自由現金流開始出現轉負的背景下，市場焦點再次轉回“AI硬體投資回報率”這一核心問題，7月AI硬體賽道股大幅調整。與上一輪下跌不同，此次大廠資本開支、AI Lab年化收入等核心指標已處在高位，市場交易擁擠度也高於前期。透過對單token（詞元）成本、AI Lab API利潤等核心問題研究結論，中金公司認為AI硬體需求增長依然強勁。硬體成本端，中金公司認為儲存通脹難抵GPU技術迭代增效，單token（詞元）成本繼續快速下降。模型端來看，閉源模型靠溢價、開源模型憑降本，各廠商盈利底座穩固，上游算力硬體需求持續被拉動。另外，推理負載結構的精細化有望推動定製化架構晶片落地及系統互聯創新。隨著推理應用從傳統Chat-only向Agent等轉換，AI硬體或透過定製化架構，系統互連最佳化加速單token（詞元）降本、或突破延遲與吞吐瓶頸，為實時互動和Agent場景提供效能溢價。硬體降本多元化之路開啟後有望刺激更多需求。
-
----
-
-### 2026-08-11 08:00:52  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌0.9%，至6240.06點。日本股市今日因公共假期休市。
-
----
-
-### 2026-08-11 08:00:43  #其他
-
-哥倫比亞政府10日最新通報說，當天在該國西部發生的地震已造成132人死亡、570人受傷，全國有32個城市嚴重受災。
-
----
-
-### 2026-08-11 08:00:37  #國際
-
-韓國8月1日至10日的進口額同比增長23.1%；韓國8月1日至10日的出口額同比增長45.3%。
-
----
-
-### 2026-08-11 08:00:20  #其他
-
-新加坡第二季度GDP同比增長5.9%，預估5.8%。新加坡第二季度GDP環比增長1.4%，預估為1.2%。
-
----
-
-### 2026-08-11 07:59:44  #其他
-
-ANTHROPICO與RIOT平臺達成90億美元的計算協議。
-
----
-
-### 2026-08-11 07:58:50  #市場
-
-【分析師：黃金憑藉自身動力上漲】Pepperstone研究主管Chris Weston表示，黃金目前漲勢的一個值得注意的方面是，在黃金上漲的同時，加密貨幣卻難以產生類似的上漲動力。這表明，這波漲勢不僅僅是廣泛的貨幣貶值交易，而是由貴金屬領域特有的更多特殊因素驅動的。同樣值得注意的是，儘管美元走強且原油價格上漲了5%，但黃金依然升值。Weston說，這些傳統關係暫時被打破，表明特定資產的資金流向正被證明是主要驅動力。
-
----
-
-### 2026-08-11 07:58:36  #其他
-
-【國產大飛機C919將於明日起首次執行國際商業航班】據中國國航訊息，8月12日起，國航北京首都—烏蘭巴托航線CA723/4航班，將啟用國產飛機C919執飛，這是C919首次執行國際商業航班。
-
----
-
-### 2026-08-11 07:57:46  #市場
-
-【機構：果斷的買盤壓力鑄就黃金漲勢】Pepperstone研究主管Chris Weston表示，黃金已重新牢牢回到交易員的視線中。他說，在突破了從6月下旬一直維持到8月3日的盤整區間後，黃金和白銀都出現了上漲，目前金價正在測試每盎司4,400美元。Weston表示，突破7月高點伴隨著果斷的買盤壓力，隨後的勢頭表明多頭佔據了主導地位。客戶活動也有所增加，頭寸偏向多頭。他補充說，目前所有未平倉黃金頭寸中有60%是多頭。
 
 ---

@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:49:53_
-_本檔包含 3065 則快訊，約 601219 字_
+_更新時間：2026-08-17 02:40:31_
+_本檔包含 3077 則快訊，約 601574 字_
+
+---
+
+### 2026-08-17 02:34:58  #國際
+
+美國中央司令部指揮官布拉德·庫珀：在美國海軍11艘現役航母中，亞伯拉罕·林肯號目前是（士兵）心理健康相關問題最少的一艘。
+
+---
+
+### 2026-08-17 02:27:05  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation the group will not be included in any political process until Gaza is fully disarmed.
+
+---
+
+### 2026-08-17 02:26:40  #MKT News
+
+Al Jazeera cited Palestinian sources saying a Hamas delegation told Kushner it would refuse to undertake any new measures that could not obtain Israel's prior consent.
+
+---
+
+### 2026-08-17 02:25:48  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Hamas leadership briefed Kushner in detail on alleged Israeli violations of the ceasefire in the Gaza Strip.
+
+---
+
+### 2026-08-17 02:25:30  #MKT News #Market Themes #The Trump Trade
+
+Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders Trump views disarming armed factions as a prerequisite to any further action in Gaza.
+
+---
+
+### 2026-08-17 02:25:21  #國際
+
+【庫什納在開羅會晤哈馬斯領導層，強調解除武裝為先決條件】據巴勒斯坦訊息人士透露，特朗普特使庫什納與哈馬斯領導層在開羅進行了逾兩小時的會晤。庫什納向哈馬斯明確傳達，解除武裝是融入未來政治程序的關鍵前提；同時，美方堅決反對驅逐加沙居民，並建議哈馬斯不要寄望於以色列選舉結果。哈馬斯方面則向庫什納詳細通報了以色列違反停火協議的情況，並強調反對任何未獲以色列事先同意的新舉措。當前談判的核心死結仍在於行動順序：哈馬斯要求以色列先撤軍，而以色列堅持哈馬斯必須先全面繳械。庫什納此行旨在推動落實加沙和平計劃，試圖彌合各方分歧。
+
+---
+
+### 2026-08-17 02:25:03  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner emphasized that Israel's position on the Gaza Strip is consistent.
+
+---
+
+### 2026-08-17 02:23:48  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party.
+
+---
+
+### 2026-08-17 02:23:07  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours.
+
+---
+
+### 2026-08-17 02:22:33  #MKT News
+
+Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip.
+
+---
+
+### 2026-08-17 02:22:04  #MKT News
+
+Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip.
+
+---
+
+### 2026-08-17 02:21:39  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election.
+
+---
+
+### 2026-08-17 02:18:05  #MKT News
+
+A spokesperson said Canada’s minister responsible for trade with the US, Dominic LeBlanc, will hold a video meeting with US Trade Representative Greer at 16:30 ET on Sunday (04:30 Beijing Monday).
+
+---
+
+### 2026-08-17 02:17:10  #國際
+
+負責美國貿易事務的加拿大部長多米尼克·勒布朗將於美國東部時間週日下午4點30分與美國貿易代表格里爾舉行視訊會議。
+
+---
+
+### 2026-08-17 02:14:37  #其他
+
+【巴西發生旅遊巴士翻車事故 至少10人死亡】據巴西里約熱內盧州消防部門16日確認，當日凌晨，該州彼得羅波利斯市附近發生一起旅遊大巴翻車事故，已造成至少10人死亡。
+
+---
+
+### 2026-08-17 02:14:17  #公司
+
+【多家銀行助力落地全市場首單非金融企業自貿離岸債】近日，中國銀行、建設銀行、交通銀行、民生銀行等多家銀行協助上海電氣環球資本有限公司（以下簡稱“上海電氣環球”）成功發行15億元人民幣綠色自貿離岸債，期限三年，票面利率1.8%。據悉，該筆債券是全市場首單非金融企業自貿離岸債，即首單企業類自貿離岸債，進一步豐富了上海自貿離岸債市場生態，拓展了人民幣跨境投融資應用場景，標誌著自貿離岸債市場金融活水首次精準直達實體經濟。
+
+---
+
+### 2026-08-17 02:12:55  #MKT News
+
+Saudi state TV reported the Saudi foreign minister met Yemen's foreign minister in Riyadh; the Saudi foreign ministry said Riyadh reiterated its firm support for Yemen's security and stability.
+
+---
+
+### 2026-08-17 02:12:26  #國際
+
+以色列空襲黎巴嫩，造成包括一名真主黨高階指揮官在內的11人死亡。
+
+---
+
+### 2026-08-17 01:56:19  #其他
+
+【比利時東南部野火持續蔓延 過火面積約3000公頃】16日，比利時東南部一處自然保護區發生的野火持續蔓延。目前過火面積已達約3000公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。據當地消防部門訊息，目前部分火勢已得到控制，但消防部門仍面臨較大壓力。目前已有超過250名消防員及應急人員，約50輛車輛加入滅火救援行動。（央視新聞）
+
+---
+
+### 2026-08-17 01:49:59  #MKT News
+
+【Hurricane Lala weakens to tropical storm】On Aug 16 local time, Hurricane Lala weakened to a tropical storm near Hawaii, but heavy rain and strong winds may still trigger flooding, landslides and hazardous marine conditions. Lala struck the southern coast of the Big Island as a Category 1 hurricane on Aug 15 and was downgraded by the U.S. National Weather Service. Hawaii’s governor said the storm caused at least one death.
+
+---
+
+### 2026-08-17 01:49:19  #國際
+
+【颶風“拉拉”減弱為熱帶風暴】當地時間8月16日，颶風“拉拉”在美國夏威夷附近海域減弱為熱帶風暴，但強降雨和大風仍可能引發洪水、山體滑坡及危險海況。“拉拉”15日以一級颶風強度襲擊夏威夷大島南部海岸，隨後被美國國家氣象局降級為熱帶風暴。不過，部分地區仍可能出現強降雨。夏威夷州州長表示，風暴15日造成至少1人死亡。（央視新聞）
 
 ---
 
@@ -18447,59 +18573,5 @@ France | HICP (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%
 ### 2026-08-14 14:44:57  #Trading Economics #Economy #India #Wholesale Prices YoY #Importance 2
 
 India Wholesale Inflation Below Forecasts — India’s wholesale prices increased 9.78% year-on-year in July 2026, slowing from a 9.87% gain in June, which was the fastest increase since September 2022 and below expectations of 9.95%. The deceleration came due to softer increases in both food and fuel prices amid easing oil prices. The data are based on the new 2022–23 base year, replacing the earlier 2011–12 series. Fuel prices moderated (20.05% vs. 27.41% in June), while food inflation slowed slightly to 5.44% from 5.49% in June, marking the softest increase in three months. Meanwhile, manufacturing inflation accelerated to 8.29% from 7.48%, the fastest pace since June 2022.
-
----
-
-### 2026-08-14 14:44:33  #公司
-
-【範少軍會見世航智慧董事長陳曉博】據海口釋出，8月13日，海口市委書記範少軍在市行政辦公區會見世航智慧科技（蘇州）股份有限公司董事長陳曉博一行。雙方圍繞把握海南自由貿易港封關運作、擴大開放新機遇，深化海洋機器人領域務實合作，助力海口海洋經濟高質量發展進行交流探討。
-
----
-
-### 2026-08-14 14:44:03  #市場 #國際
-
-美國原油期貨<CLc1>上漲超1美元，觸及盤中高點每桶82.27美元。
-
----
-
-### 2026-08-14 14:43:09  #國際
-
-【美軍中央司令部否認推動對伊新一輪軍事打擊】美軍中央司令部發言人蒂姆·霍金斯否認軍方高層正推動對伊朗發起新一輪軍事打擊。霍金斯在接受採訪時表示，有關美軍中央司令部司令布拉德·庫珀推動對伊朗發動新一輪打擊的報道“純屬捏造，根本不是事實”。（新華社）
-
----
-
-### 2026-08-14 14:42:48  #市場 #焦點
-
-乙二醇連續主力合約日內漲2%，現報4959.00元。
-
----
-
-### 2026-08-14 14:42:10  #公司 #觀點
-
-【花旗：長和上半年業績穩健，目標價升至89港元】花旗發表研報指，長和上半年業績穩健，純利同比大增逾30倍至逾268億港元，撇除一次性專案及英國電訊業務的核心盈利同比增長7%至125.81億港元，達到該行對全年盈利預測的約56%，認為長和在當前艱難經營環境下擁有多元化業務優勢。受惠長建出售英國鐵路及英國電網權益，期內集團淨負債對淨總資本比率降至8.1%的歷史新低。今年7月完成出售VodafoneThree 49%權益再套現43億英鎊，花旗相信長和資產負債率可進一步下降。但對如何部署累積的現金缺乏清晰說明略感失望，繼續維持NAV約49%折讓，隨著估值延伸至2027年，NAV由150.44港元上調至175港元，目標價則由81.5港元上調至89港元，維持“買入”評級。
-
----
-
-### 2026-08-14 14:40:30  #MKT News #Market Themes #AI Revolution
-
-【Goldman Sachs economist: large-scale AI job losses in India unlikely】Goldman Sachs' India chief economist Santanu Sengupta said India is unlikely to see widespread unemployment from AI, though some service-sector roles could be affected. He cited India's very large labor force and the high share employed in manual or physical jobs; construction and retail account for roughly 40% of the workforce and so far AI has had limited impact on those sectors. Goldman Sachs estimates that pacing AI deployment could mitigate employment shocks and that AI might raise aggregate productivity by about 0.4 percentage points over the next 10 years.
-
----
-
-### 2026-08-14 14:39:20  #MKT News
-
-Goldman Sachs says some roles in India’s services sector could be affected by AI, but widespread unemployment of the Indian workforce is unlikely.
-
----
-
-### 2026-08-14 14:37:54  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Slides 1.6% Over Week — The ASX 200 slipped 73 points, or 0.8%, to close at 9,115 on Friday, marking its third straight retreat and lowest finish in over a week. Sentiment weakened as U.S. futures fell after President Trump imposed fresh tariffs on drone imports, with analysts pointing to China as the main target. Meanwhile, US Treasury Secretary Bessent Thursday warned of unprecedented measures against Iran, promising “economic isolation like the world has never seen. Locally, Q2 housing lending in Australia dropped to a three-quarter low, though the pace of decline eased from the prior period. Attention now turns to July labor data due next week, following June’s steady jobless rate. Heavy losses hit transport, industrials, healthcare, and non-energy minerals. BHP and Rio Tinto shed 3.4% and 2.9%, while three of the four major banks also pulled back. Gold miners lagged, with Evolution Mining down 4.0% and Northern Star off 3.2%. For the week, the market fell 1.6%, erasing gains from the prior three weeks.
-
----
-
-### 2026-08-14 14:36:32  #其他
-
-【8月14日：“農產品批發價格200指數”比昨天上升0.29個點】據農業農村部監測，8月14日“農產品批發價格200指數”為115.19，比昨天上升0.29個點，“菜籃子”產品批發價格指數為115.63，比昨天上升0.33個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.77元/公斤，比昨天下降0.2%；牛肉67.69元/公斤，比昨天上升0.5%；羊肉64.79元/公斤，比昨天下降0.4%；雞蛋10.21元/公斤，比昨天上升1.0%；白條雞17.26元/公斤，比昨天下降0.9%。重點監測的28種蔬菜平均價格為4.58元/公斤，比昨天上升1.3%；重點監測的6種水果平均價格為7.01元/公斤，比昨天上升3.2%。鯽魚20.55元/公斤，比昨天上升1.2%；鯉魚14.60元/公斤，比昨天上升1.0%；白鰱魚10.41元/公斤，比昨天上升0.9%；大帶魚43.19元/公斤，比昨天上升3.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、鴨梨、大帶魚、大白菜和富士蘋果，幅度分別為6.1%、4.9%、3.9%、3.8%和3.2%；價格降幅前五名的是西瓜、洋白菜、蔥頭、白條雞和羊肉，幅度分別為2.5%、1.5%、1.1%、0.9%和0.4%。
 
 ---

@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:49:53_
-_本檔包含 2934 則快訊，約 600792 字_
+_更新時間：2026-08-17 02:40:31_
+_本檔包含 2942 則快訊，約 600292 字_
+
+---
+
+### 2026-08-11 08:01:36  #MKT News #005930.KS #Impact bearish #000660.KS
+
+South Korea's KOSPI opened down 76.93 points (-1.22%) at 6,222.73 on Aug. 11 (Tuesday). SK Hynix fell 2.8% and Samsung Electronics dropped 0.7%.
+
+---
+
+### 2026-08-11 08:01:14  #其他
+
+【千問推出辦公助理付費服務：三檔套餐，一年最高1499元】8月10日晚，千問App顯示，千問辦公助理針對專業使用者推出了收費服務。千問App顯示，辦公助理會員套餐共分旗艦、精英、高階三檔。其中旗艦套餐月付價128元/月、年付價1499元/年，可提升至20倍額度；精英套餐月付價49元/月、年付價568元/年，可提升至5倍額度；高階套餐19元/月、年付價200元/年，可提升至2倍額度。
+
+---
+
+### 2026-08-11 08:01:14  #MKT News #Market Regions #Japan & APAC
+
+Japan's stock market was closed today for the Mountain Day public holiday.
+
+---
+
+### 2026-08-11 08:01:07  #其他
+
+今天（11日）公安部網安局釋出打擊侵犯公民個人資訊犯罪10起典型案例。
+
+---
+
+### 2026-08-11 08:00:58  #公司 #市場 #觀點
+
+【中金：AI硬體降本多元化之路開啟後有望刺激更多需求】中金公司研報稱，當下，在儲存器成本持續通脹、海外CSP自由現金流開始出現轉負的背景下，市場焦點再次轉回“AI硬體投資回報率”這一核心問題，7月AI硬體賽道股大幅調整。與上一輪下跌不同，此次大廠資本開支、AI Lab年化收入等核心指標已處在高位，市場交易擁擠度也高於前期。透過對單token（詞元）成本、AI Lab API利潤等核心問題研究結論，中金公司認為AI硬體需求增長依然強勁。硬體成本端，中金公司認為儲存通脹難抵GPU技術迭代增效，單token（詞元）成本繼續快速下降。模型端來看，閉源模型靠溢價、開源模型憑降本，各廠商盈利底座穩固，上游算力硬體需求持續被拉動。另外，推理負載結構的精細化有望推動定製化架構晶片落地及系統互聯創新。隨著推理應用從傳統Chat-only向Agent等轉換，AI硬體或透過定製化架構，系統互連最佳化加速單token（詞元）降本、或突破延遲與吞吐瓶頸，為實時互動和Agent場景提供效能溢價。硬體降本多元化之路開啟後有望刺激更多需求。
+
+---
+
+### 2026-08-11 08:00:52  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌0.9%，至6240.06點。日本股市今日因公共假期休市。
+
+---
+
+### 2026-08-11 08:00:43  #其他
+
+哥倫比亞政府10日最新通報說，當天在該國西部發生的地震已造成132人死亡、570人受傷，全國有32個城市嚴重受災。
+
+---
+
+### 2026-08-11 08:00:37  #國際
+
+韓國8月1日至10日的進口額同比增長23.1%；韓國8月1日至10日的出口額同比增長45.3%。
+
+---
+
+### 2026-08-11 08:00:20  #其他
+
+新加坡第二季度GDP同比增長5.9%，預估5.8%。新加坡第二季度GDP環比增長1.4%，預估為1.2%。
+
+---
+
+### 2026-08-11 07:59:44  #其他
+
+ANTHROPICO與RIOT平臺達成90億美元的計算協議。
+
+---
+
+### 2026-08-11 07:58:50  #市場
+
+【分析師：黃金憑藉自身動力上漲】Pepperstone研究主管Chris Weston表示，黃金目前漲勢的一個值得注意的方面是，在黃金上漲的同時，加密貨幣卻難以產生類似的上漲動力。這表明，這波漲勢不僅僅是廣泛的貨幣貶值交易，而是由貴金屬領域特有的更多特殊因素驅動的。同樣值得注意的是，儘管美元走強且原油價格上漲了5%，但黃金依然升值。Weston說，這些傳統關係暫時被打破，表明特定資產的資金流向正被證明是主要驅動力。
+
+---
+
+### 2026-08-11 07:58:36  #其他
+
+【國產大飛機C919將於明日起首次執行國際商業航班】據中國國航訊息，8月12日起，國航北京首都—烏蘭巴托航線CA723/4航班，將啟用國產飛機C919執飛，這是C919首次執行國際商業航班。
+
+---
+
+### 2026-08-11 07:57:46  #市場
+
+【機構：果斷的買盤壓力鑄就黃金漲勢】Pepperstone研究主管Chris Weston表示，黃金已重新牢牢回到交易員的視線中。他說，在突破了從6月下旬一直維持到8月3日的盤整區間後，黃金和白銀都出現了上漲，目前金價正在測試每盎司4,400美元。Weston表示，突破7月高點伴隨著果斷的買盤壓力，隨後的勢頭表明多頭佔據了主導地位。客戶活動也有所增加，頭寸偏向多頭。他補充說，目前所有未平倉黃金頭寸中有60%是多頭。
 
 ---
 
@@ -17685,35 +17763,5 @@ According to the Financial Times, a former US security official warned President
 ### 2026-08-10 02:50:37  #國際
 
 伊朗革命衛隊：在美國接受德黑蘭的條件之前，戰略要地霍爾木茲海峽不會重新開放。
-
----
-
-### 2026-08-10 02:31:14  #其他
-
-【醫藥基金大幅“回血” 公募持倉降至冰點後迎市場反彈】當科技賽道進入高位震盪階段，前期持續深度調整的醫藥板塊迎來一波力度可觀的估值修復行情。自6月9日探底之後，醫藥主題ETF、多隻主動權益醫藥基金淨值大幅回彈，部分產品反彈幅度突破30%。本輪行情既是行業基本面持續向好驅動的價值迴歸，也受益於公募基金極度低配帶來的拋壓釋放。但面對板塊快速上行，公募機構內部出現明顯分歧，這究竟是階段性修復行情，還是新一輪趨勢性機會，成為當前市場熱議的焦點。
-
----
-
-### 2026-08-10 02:26:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #Impact bearish #US10Y
-
-【Hungary central bank official lauds euro-area entry benefits】Hungary's central bank reiterated support for the government's efforts to meet euro-area entry criteria, saying membership would benefit the economy. The central bank's deputy governor said the bank will play a constructive role in meeting entry conditions while maintaining price stability and cited the government's 2030 qualification target. Since the April election win the forint and Hungarian sovereign bond prices have risen. He said euro-area standards—fiscal stability, low inflation and low yields—are beneficial though a common currency carries trade-offs, added that inflation this year could be below 2%, and reiterated the bank would consider lowering its 3% inflation target to align with the euro area.
-
----
-
-### 2026-08-10 02:21:47  #MKT News #WTI #Impact bullish #Brent
-
-【Iran says it can outwait US in Strait of Hormuz standoff】Iran believes it can outlast the US in negotiations to reopen the Strait of Hormuz, citing strong internal backing for talks and patience over unmet commitments on frozen assets and maritime restrictions. President Pezeshkian told negotiators 12 of 13 national security council members support negotiations, exceeding the threshold set by Supreme Leader Mujtaba Khamenei. Parliamentary speaker Ghalibaf has expressed frustration at what Tehran describes as US flip‑flopping — "raising issues, then withdrawing them" — delaying delivery on asset unfreezing and easing of sea blockades. Iran says it is less time‑pressured than Washington, pointing to US midterm election, oil price and inflation pressures, and called the standoff a "cat‑and‑mouse game" to see who blinks first. Tehran is using talks with Oman to signal goodwill while pressing Washington to make the first move.
-
----
-
-### 2026-08-10 01:56:48  #MKT News
-
-IRNA: The presidency's deputy director for news and communications said Supreme Leader Mujtaba has appointed Mohsen Rezaee as his representative on the National Security Council.
-
----
-
-### 2026-08-10 01:54:04  #國際
-
-特朗普：我們的邊境空前穩固。儘管假新聞百般說辭，驅逐出境的執行規模正創下歷史新高。
 
 ---

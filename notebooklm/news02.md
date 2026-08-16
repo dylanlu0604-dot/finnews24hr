@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 01:49:53_
-_本檔包含 3167 則快訊，約 600891 字_
+_更新時間：2026-08-17 02:40:31_
+_本檔包含 3169 則快訊，約 601030 字_
+
+---
+
+### 2026-08-14 14:44:33  #公司
+
+【範少軍會見世航智慧董事長陳曉博】據海口釋出，8月13日，海口市委書記範少軍在市行政辦公區會見世航智慧科技（蘇州）股份有限公司董事長陳曉博一行。雙方圍繞把握海南自由貿易港封關運作、擴大開放新機遇，深化海洋機器人領域務實合作，助力海口海洋經濟高質量發展進行交流探討。
+
+---
+
+### 2026-08-14 14:44:03  #市場 #國際
+
+美國原油期貨<CLc1>上漲超1美元，觸及盤中高點每桶82.27美元。
+
+---
+
+### 2026-08-14 14:43:09  #國際
+
+【美軍中央司令部否認推動對伊新一輪軍事打擊】美軍中央司令部發言人蒂姆·霍金斯否認軍方高層正推動對伊朗發起新一輪軍事打擊。霍金斯在接受採訪時表示，有關美軍中央司令部司令布拉德·庫珀推動對伊朗發動新一輪打擊的報道“純屬捏造，根本不是事實”。（新華社）
+
+---
+
+### 2026-08-14 14:42:48  #市場 #焦點
+
+乙二醇連續主力合約日內漲2%，現報4959.00元。
+
+---
+
+### 2026-08-14 14:42:10  #公司 #觀點
+
+【花旗：長和上半年業績穩健，目標價升至89港元】花旗發表研報指，長和上半年業績穩健，純利同比大增逾30倍至逾268億港元，撇除一次性專案及英國電訊業務的核心盈利同比增長7%至125.81億港元，達到該行對全年盈利預測的約56%，認為長和在當前艱難經營環境下擁有多元化業務優勢。受惠長建出售英國鐵路及英國電網權益，期內集團淨負債對淨總資本比率降至8.1%的歷史新低。今年7月完成出售VodafoneThree 49%權益再套現43億英鎊，花旗相信長和資產負債率可進一步下降。但對如何部署累積的現金缺乏清晰說明略感失望，繼續維持NAV約49%折讓，隨著估值延伸至2027年，NAV由150.44港元上調至175港元，目標價則由81.5港元上調至89港元，維持“買入”評級。
+
+---
+
+### 2026-08-14 14:40:30  #MKT News #Market Themes #AI Revolution
+
+【Goldman Sachs economist: large-scale AI job losses in India unlikely】Goldman Sachs' India chief economist Santanu Sengupta said India is unlikely to see widespread unemployment from AI, though some service-sector roles could be affected. He cited India's very large labor force and the high share employed in manual or physical jobs; construction and retail account for roughly 40% of the workforce and so far AI has had limited impact on those sectors. Goldman Sachs estimates that pacing AI deployment could mitigate employment shocks and that AI might raise aggregate productivity by about 0.4 percentage points over the next 10 years.
+
+---
+
+### 2026-08-14 14:39:20  #MKT News
+
+Goldman Sachs says some roles in India’s services sector could be affected by AI, but widespread unemployment of the Indian workforce is unlikely.
+
+---
+
+### 2026-08-14 14:37:54  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+ASX 200 Slides 1.6% Over Week — The ASX 200 slipped 73 points, or 0.8%, to close at 9,115 on Friday, marking its third straight retreat and lowest finish in over a week. Sentiment weakened as U.S. futures fell after President Trump imposed fresh tariffs on drone imports, with analysts pointing to China as the main target. Meanwhile, US Treasury Secretary Bessent Thursday warned of unprecedented measures against Iran, promising “economic isolation like the world has never seen. Locally, Q2 housing lending in Australia dropped to a three-quarter low, though the pace of decline eased from the prior period. Attention now turns to July labor data due next week, following June’s steady jobless rate. Heavy losses hit transport, industrials, healthcare, and non-energy minerals. BHP and Rio Tinto shed 3.4% and 2.9%, while three of the four major banks also pulled back. Gold miners lagged, with Evolution Mining down 4.0% and Northern Star off 3.2%. For the week, the market fell 1.6%, erasing gains from the prior three weeks.
+
+---
+
+### 2026-08-14 14:36:32  #其他
+
+【8月14日：“農產品批發價格200指數”比昨天上升0.29個點】據農業農村部監測，8月14日“農產品批發價格200指數”為115.19，比昨天上升0.29個點，“菜籃子”產品批發價格指數為115.63，比昨天上升0.33個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.77元/公斤，比昨天下降0.2%；牛肉67.69元/公斤，比昨天上升0.5%；羊肉64.79元/公斤，比昨天下降0.4%；雞蛋10.21元/公斤，比昨天上升1.0%；白條雞17.26元/公斤，比昨天下降0.9%。重點監測的28種蔬菜平均價格為4.58元/公斤，比昨天上升1.3%；重點監測的6種水果平均價格為7.01元/公斤，比昨天上升3.2%。鯽魚20.55元/公斤，比昨天上升1.2%；鯉魚14.60元/公斤，比昨天上升1.0%；白鰱魚10.41元/公斤，比昨天上升0.9%；大帶魚43.19元/公斤，比昨天上升3.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、鴨梨、大帶魚、大白菜和富士蘋果，幅度分別為6.1%、4.9%、3.9%、3.8%和3.2%；價格降幅前五名的是西瓜、洋白菜、蔥頭、白條雞和羊肉，幅度分別為2.5%、1.5%、1.1%、0.9%和0.4%。
 
 ---
 
@@ -19031,47 +19085,5 @@ China A-share power sector briefly rallied; Meiyan Jixiang hit the daily limit, 
 ### 2026-08-13 13:44:46  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 points, or 0.6%, to close at 13,825 on Thursday, erasing losses from the previous two sessions, tracking an upbeat session on Wall Street overnight as moderated inflation eased expectations of a Fed interest rate hike at its upcoming meeting. The broader index moved from its lowest level since August 3, reached a day earlier, mainly buoyed by gains from financials, consumer staples, healthcare, and industrials. Moderating oil prices also lifted sentiment as easing concerns over inflation reduced expectations of RBNZ monetary policy tightening. The fresh data also fueled sentiment, as the RBNZ's quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, marking the lowest reading since Q4 2025. Among the top movers were ANZ Group (5.2%), Mainfreight (3.1%), Westpac Banking Corp. (2.9%), A2 Milk (1.7%), Fisher & Paykel (1.4%), Freightways Group (1.1%), and Contact Energy (1.1%).
-
----
-
-### 2026-08-13 13:43:43  #市場 #焦點
-
-現貨黃金失守4390美元/盎司，日內跌0.43%。
-
----
-
-### 2026-08-13 13:43:14  #其他
-
-【國家機器人創新中心在金屬增材製造工藝研究方面取得進展】據國家機器人創新中心訊息，鐳射粉末床熔融（LPBF）是當下鈦合金精密構件增材製造的核心工藝，廣泛應用於航空航天、高階裝備、精密製造等關鍵領域。但傳統LPBF工藝製備的Ti-6Al-4V合金，微觀組織通常呈現為完全針狀馬氏體，導致其延展性顯著下降。行業普遍採用後續熱處理改善材料塑形，但這些方法仍存在強度-延展性權衡以及工藝冗餘，製造效率偏低的問題。針對這一問題，近日中心研發團隊提出了一種在粉末床熔融過程中進行原位層間鐳射重熔（ILRPBF）的全新工藝策略。該技術利用鐳射工藝獨特的快速熱迴圈特性來調控所製備Ti-6Al-4V合金的微觀組織，無需額外後續熱處理工序，在保持高強度的同時，提升了合金的延展性及製造效率。
-
----
-
-### 2026-08-13 13:43:11  #市場 #焦點
-
-南向資金淨買入額達60億港元。
-
----
-
-### 2026-08-13 13:43:05  #MKT News #DXY #Impact bullish
-
-【RBA assistant governor Kent's dovish remarks push AUD below 0.7050】Commonwealth Bank of Australia (CBA) said the Australian dollar slipped below 0.7050 in the Asian session after RBA assistant governor Kent delivered dovish remarks. Kent said financial conditions remain somewhat tight and that earlier three rate hikes are working as expected, adding that a weakening housing market often means policy need not further slow demand. CBA FX strategist Samara Hammoud expects falling house prices will weigh on household spending and forecasts the RBA will hold rates for now and cut twice in 2027.
-
----
-
-### 2026-08-13 13:43:01  #公司
-
-【獨家 | 五糧液向經銷商髮禁令：第八代五糧液不得低於800元拋售，低價出貨將被處罰】8月13日，繼收緊渠道補貼後，五糧液再度加碼市場管控。《酒業內參》從經銷商等多方獨家獲悉，五糧液近期向經銷商通知，不得以低於800元/瓶的價格低價拋售第八代五糧液。同時，酒廠也將加強對低價出貨和竄貨經銷商的處罰，進一步穩固區域秩序。截至發稿前，五糧液暫無回應。 此前，《酒業內參》曾報道，7月底，五糧液收緊了對渠道經銷商的多項補貼投入，經銷商的第八代五糧液整體成本對比收緊前成本提高了約50元/瓶。 批發價格方面，彼時，第八代五糧液單箱批價大約浮動在4485元-4500元，單瓶批價約748元-750元/瓶。 或基於新政影響，截止目前，第八代五糧液單箱批價已升至約4600元-4650元，單瓶批價約767元-775元/瓶。
-
----
-
-### 2026-08-13 13:42:20  #其他
-
-【中保研發布最新汽車零整比研究結果：新能源汽車維修負擔指數降約14%】中保研今日釋出第21期汽車零整比體系指標研究結果（資料採集日期為2025年12月31日），指標包括汽車零整比係數、汽車零整比100指數、維修負擔指數等。結果顯示，最新一期燃油車“汽車零整比100指數”為390.77%，較上期略降0.3個百分點。新能源汽車“汽車零整比100指數”為311.42%，較上期下降0.82個百分點。與保險賠付緊密相關的新能源汽車“維修負擔100指數”為23.81，較上期下降3.85，降幅為13.92%。其中，動力電池價格下降是本期新能源汽車維修負擔100指數下降的主要因素。
-
----
-
-### 2026-08-13 13:41:29  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
-
-【Sichuan to bolster compute-park infrastructure, preemptively expand smart compute facilities】Sichuan published interim policies to advance compute-network construction, directing upgrades to compute-park infrastructure and urging direct connections between backbone and metro communications networks and compute parks. The province will accelerate a “millisecond computing” action plan, coordinate primary and backup power and support intelligent microgrids for parks. Financing for qualifying compute-park infrastructure will be prioritised via local government special bonds and policy financial tools. The plan backs shared compute services — including scheduling platforms, compute marketplaces and token factories — and aims to boost high-quality compute supply. For large-model training/inference and industry-model development, Sichuan calls for appropriately ahead-of-demand deployment of smart compute, accelerated construction of 10,000-card smart-compute clusters, and balanced allocation between general-purpose, smart and supercomputing resources to raise the smart-compute share. Key universities, research institutes, industry leaders and AI firms are encouraged to prioritise provincial compute resources; eligible users may receive compute vouchers.
 
 ---
