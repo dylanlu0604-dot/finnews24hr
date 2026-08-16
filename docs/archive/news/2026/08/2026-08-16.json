@@ -1,7 +1,32 @@
 {
   "date": "2026-08-16",
-  "count": 178,
+  "count": 181,
   "items": [
+    {
+      "id": "5042512",
+      "time": "2026-08-16 09:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統將本國經濟困境歸咎於美國對伊朗港口的封鎖以及石油收入下滑，他表示工業設施遭轟炸同樣重創了政府財政。"
+    },
+    {
+      "id": "mkt:01a00816-b8e8-7aab-904b-c0229c5a9752",
+      "time": "2026-08-16 09:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A CNN poll found 71% say President Trump has not done enough to lower prices of everyday goods, up from 58% a year earlier."
+    },
+    {
+      "id": "5042511",
+      "time": "2026-08-16 09:01:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.8美元，日內跌幅0.6%。"
+    },
     {
       "id": "mkt:01a00816-89ad-7aab-904b-bae1c32b593e",
       "time": "2026-08-16 09:01:29",
