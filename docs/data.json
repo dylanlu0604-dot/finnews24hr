@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 12:15:34",
-  "count": 15218,
+  "updated": "2026-08-16 12:19:25",
+  "count": 15220,
   "items": [
+    {
+      "id": "mkt:01a008c9-e3fd-7aab-904c-47792029b4ea",
+      "time": "2026-08-16 12:17:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX said teams in Florida and California completed consecutive Falcon 9 launches spanning both U.S. coasts."
+    },
+    {
+      "id": "5042596",
+      "time": "2026-08-16 12:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：團隊分別從佛羅里達州、加利福尼亞州完成獵鷹 9 號火箭跨海岸連續發射任務。"
+    },
     {
       "id": "5042595",
       "time": "2026-08-16 12:14:24",
