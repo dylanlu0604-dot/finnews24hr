@@ -1,7 +1,15 @@
 {
   "date": "2026-08-17",
-  "count": 153,
+  "count": 154,
   "items": [
+    {
+      "id": "mkt:01a00caf-ef41-7aab-9050-d1cddaf26f0f",
+      "time": "2026-08-17 06:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ANTHROPIC CEO: Best way to counter AI skeptics is to deliver on hype】Dario Amodei, CEO of ANTHROPIC, said on Saturday the best way to counter public skepticism about AI is to deliver on the technology’s promises, acknowledging widespread distrust and calling for concrete scientific breakthroughs. He said claims that AI will cure cancer have become clichés and are seen as misleading, and conceded the fairest critique of AI firms, including ANTHROPIC, is that they have not yet delivered on their grand promises — genuinely effective progress would be curing cancer. Amodei has previously warned about AI risks; some industry figures have criticized his tone. Demis Hassabis of DeepMind earlier urged peers to retract overly certain pessimistic predictions. With OpenAI and ANTHROPIC seen as potential IPO candidates, market sentiment has moved from pessimism toward optimism, though Amodei said he does not believe his warnings are the root cause of public distrust."
+    },
     {
       "id": "5042993",
       "time": "2026-08-17 06:19:49",
