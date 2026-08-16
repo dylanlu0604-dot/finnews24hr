@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:56:40_
-_本檔包含 3194 則快訊，約 600437 字_
+_更新時間：2026-08-16 22:32:10_
+_本檔包含 3185 則快訊，約 600444 字_
+
+---
+
+### 2026-08-14 14:18:40  #市場
+
+網宿科技盤中漲停，漲幅20.01%，成交額超69億元。
+
+---
+
+### 2026-08-14 14:18:32  #國際
+
+【美國二戰紀念碑遭汙損】據美國媒體報道，位於華盛頓的美國國家二戰紀念碑當地時間8月13日遭蓄意破壞，警方正在展開調查。事發現場能看到，部分紀念碑上被噴了紅色的英文塗鴉和油漆，塗鴉字樣為“乾淨的手、骯髒的美元（clean hands,dirty $）”。破壞者還將肥皂之類的藥劑倒入噴泉池中，導致池水大量起泡。調查人員在對受損情況進行勘驗後，工作人員已展開清理工作。 美國國家二戰紀念碑位於華盛頓特區的國家廣場公園內，坐落於林肯紀念堂與華盛頓紀念碑之間的鏡池東段。該紀念碑始建於2001年9月，2004年4月對公眾開放，同年5月舉行竣工典禮，旨在紀念二戰期間服役的1600萬美國軍人。（CCTV國際時訊）
+
+---
+
+### 2026-08-14 14:17:51  #其他
+
+【浙江：對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，提升概念驗證能力。支援腦機介面領域企業、高校院所、科創平臺等共建概念驗證中心。推動概念驗證中心與省重大科技專項、新產品試製計劃等聯動佈局。鼓勵高校院所推動腦機介面科研成果“應驗盡驗”。 支援開展臨床研究。結合臨床資源優勢、規範管理能力等，分類建設腦機介面臨床試驗基地、臨床與轉化病房、臨床預備佇列。對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元。
+
+---
+
+### 2026-08-14 14:17:04  #其他
+
+【浙江：重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，完善多方需求響應機制。支援高水平醫療機構面向臨床應用，聯合企業共同凝練攻關需求。腦機介面領域“尖兵”“領雁”專案榜單（指南）需求中來自企業的數量原則上不低於60%，其中“尖兵”專案一般不低於80%。 加強基礎研究和關鍵核心技術攻關。實施國家自然科學基金聯合基金生命健康重大專項和省應用基礎研究計劃專案，加強重大腦疾病機制機理、新型腦機介面等研究，省應用基礎研究計劃單個專案最高補助300萬元。實施腦機介面省重大科技專項，重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用，單個專案最高補助1000萬元。 深化產學研協同攻關。組建腦機介面創新聯合體；鼓勵腦機介面企業與高校院所、科創平臺實施夥伴計劃、共建聯合實驗室（聯合研發中心）等。企業牽頭實施的腦機介面領域“尖兵”專案比例原則上不低於70%。
+
+---
+
+### 2026-08-14 14:16:07  #宏觀
+
+【9月10日起實施 浙江出臺18條舉措，推進腦機介面領域發展】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，明確要聚焦腦機介面領域科技創新和產業創新深度融合，以醫療、消費、工業等重大應用場景建設為牽引，構建產業共培、資源統籌、風險共擔、利益共享的產學研聯動機制。《若干措施》將於9月10日起實施。若干措施》指出：到2027年，企業主導的產學研聯動機制有效執行，腦機介面核心軟硬體自主創新能力大幅提升，研發5個以上代表性產品並率先實現驗證應用，腦機介面未來產業營收超過50億元。到2030年，產學研聯動機制高效執行，腦機介面領域科技創新和產業創新深度融合，形成一批典型應用場景和商業化應用產品，培育一批科技領軍企業，建成具有較強國際競爭力的腦機介面技術和產業創新高地。
+
+---
+
+### 2026-08-14 14:15:54  #MKT News #Important #02099.HK #Impact bullish
+
+Hong Kong-listed China Gold International (02099.HK) extended gains, rising over 15% in afternoon trade after the company reported 1H2026 results yesterday: profit attributable to owners approximately $507m, up 153.3% YoY; EPS 127.99 US cents.
+
+---
+
+### 2026-08-14 14:15:16  #公司 #市場
+
+【華源證券：首予錫業股份“買入”評級，有望持續受益於商品價格中樞的穩步上行】華源證券研報指出，錫業股份作為具備百年曆史傳承的錫/銦雙龍頭，有望持續受益於商品價格中樞的穩步上行，業績有望隨之加速釋放。預測公司2026-2028年分別實現歸母淨利潤40.06、44.24、47.29億元，按2026年8月13日收盤價計算的PE為15.47、14.01、13.11倍。選擇同樣以錫礦開採作為主要業務的興業銀錫、華錫有色作為可比公司，兩家公司按2026年8月13日Wind一致預期計算的2026年平均PE為20.06倍，首次覆蓋給予錫業股份“買入”評級。
+
+---
+
+### 2026-08-14 14:15:10  #行業 #資料
+
+【崔東樹：2026年7月車市走弱是多重因素共振所致】乘聯分會崔東樹發文稱，2026年7月車市走弱，是油價反彈、宏觀走弱、季節性淡季、前期需求透支及政策切換等多重因素共振所致。地緣衝突引發霍爾木茲海峽通航擾動，推動國際油價震盪上行，2026年國內汽油價格累計上調1,575元/噸，大幅抬高用車成本，燃油乘用車消費需求劇烈萎縮，但對商用車的影響很小。同時7月CPI、PPI環比回落、PMI景氣下行，居民收入與消費預期偏謹慎，大額耐用品消費意願低迷，住行消費持續走弱，拖累車市終端需求。疊加7月高溫淡季壓制線下到店客流、6月半年衝量提前透支市場需求，終端訂單與客流同步回落。
+
+---
+
+### 2026-08-14 14:15:07  #Trading Economics #Economy #Germany #Wholesale Prices YoY #Importance 2
+
+Germany Wholesale Price Inflation Accelerates — Germany’s wholesale prices rose 5.3% year-on-year in July 2026, accelerating from a 4.9% increase in the previous month, which had marked the slowest growth in three months. The latest result was the 20th consecutive month of wholesale price inflation, driven mainly by higher energy products and raw materials amid ongoing hostilities in the Middle East. Prices rose sharply for non-ferrous ores, metals and semi-finished products (27.8%) and mineral oil products (24.1%), followed by chemical products (13.1%) and information and communication technology equipment (9.0%). In contrast, prices fell for live animals (-18.5%), milk, dairy products, eggs, edible fats and oils (-9.4%), and meat and meat products (-6.1%). On a monthly basis, wholesale prices edged up 0.2%, reversing a 0.7% decline in June and marking the first increase in three months, although the rise was below the 0.4% expected.
+
+---
+
+### 2026-08-14 14:14:39  #公司
+
+【寧德時代等在海南成立產業投資基金，出資額50億】天眼查App顯示，海南時代綠色產業投資基金合夥企業（有限合夥）於8月12日成立，出資額50億元人民幣，執行事務合夥人為廈門溥泉私募基金管理合夥企業（有限合夥），經營範圍含以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由寧德時代新能源科技股份有限公司、海南自由貿易港建設投資基金有限公司及廈門溥泉私募基金管理合夥企業（有限合夥）共同出資設立。
+
+---
+
+### 2026-08-14 14:14:02  #其他
+
+【中國摩托車商會：7月全行業燃油摩托車銷量同比增長18.85%】中國摩托車商會發文稱，7月，全行業完成燃油摩托車產銷193.84萬輛和189.96萬輛，產銷量環比增長5.13%和2.97%，同比增長22.32%和18.85%；據商會不完全統計，電動摩托車產銷33.11萬輛和32.12萬輛，產銷量環比下降21.21%和20.87%，同比增長10.37%和9.5%。7月共產銷摩托車226.96萬輛和222.08萬輛，產量環比增長0.24%，銷量環比下降1.33%，同比增長20.42%和17.4%；摩托車國內銷售80.12萬輛，環比下降8.15%，同比增長7.6%；燃油摩托車國內銷售48.49萬輛，環比增長0.79%，同比增長6.03%。其中二輪車產銷203.73萬輛和199.09萬輛，產量環比增長0.18%，銷量環比下降1.29%，同比增長22.83%和19.4%。排量250ml以上（不含）摩托車產銷10.49萬輛和10.09萬輛，產銷量環比下降5.41%和11.02%，同比增長15.14%和14.27%。三輪摩托車產銷23.23萬輛和23萬輛，產量環比增長0.74%，銷量環比下降1.66%，同比增長2.76%和2.56%。
+
+---
+
+### 2026-08-14 14:13:53  #其他
+
+惠譽評級：新加坡銀行業透過財富增長維持盈利強勁勢頭。
+
+---
+
+### 2026-08-14 14:13:13  #市場
+
+澳大利亞S&P/ASX 200指數收盤下跌0.8%，至9115.20點。
+
+---
+
+### 2026-08-14 14:12:51  #國際
+
+俄羅斯羅斯托夫州已收穫1360萬噸冬糧和豆類作物。
+
+---
+
+### 2026-08-14 14:12:14  #公司
+
+【多家小貸公司明示個貸綜合融資成本上限 部分已低於12%】8月1日，《個人貸款業務明示綜合融資成本規定》正式施行，要求貸款人向借款人展示綜合融資成本明示表。記者注意到，多家小貸公司已經披露個人貸款業務綜合融資成本上限，其中不少機構將上限設定在24%，也有部分公司將上限控制在12%以內。
 
 ---
 
@@ -19091,149 +19181,5 @@ Lenovo Group (00992.HK) shares jumped over 12% in afternoon trade after the comp
 ### 2026-08-13 12:53:12  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
 
 【Japanese government reportedly backs faster Bank of Japan rate hikes】Japanese Prime Minister Takaichi reportedly supports the Bank of Japan moving to raise rates sooner, with the next action possibly in September or October. The shift reflects BOJ concern that a weak yen is pushing up prices and the government's desire to reinforce the recent US-Japan coordinated FX intervention; the two sides are said to be aligning on the need for near-term hikes. The prime minister's office said monetary policy measures, including any rate changes, remain the BOJ's decision but called for close coordination to stabilise progress toward the 2% inflation target.
-
----
-
-### 2026-08-13 12:52:44  #MKT News #Market Themes #AI Revolution #0992.HK #Impact bullish
-
-【Lenovo AI server backlog surges】Lenovo Group (00992.HK) said in Q1 FY2026/27 results its AI server backlog rose to RMB360 billion from RMB140 billion in the prior quarter. AI-related revenue jumped 60% YoY to RMB63.4 billion, a record and roughly 35% of group revenue. AI services revenue increased 141% YoY.
-
----
-
-### 2026-08-13 12:52:33  #MKT News
-
-【TrendForce: Q2 2026 global OLED monitor shipments +26.1% QoQ, +98% YoY】TrendForce reports global OLED monitor shipments rose 26.1% QoQ in Q2 2026 and 98% YoY. The firm attributes the gain to new model launches, pull‑forward demand from China’s 618 mid‑year e‑commerce sales festival, and rising penetration and promotion of 27‑inch QHD models. TrendForce says the results reflect accelerating OLED adoption in esports and high‑end display segments.
-
----
-
-### 2026-08-13 12:52:07  #公司
-
-【聯想AI伺服器儲備訂單大增】8月13日，聯想集團披露2026/27財年第一財季業績顯示，AI伺服器儲備訂單從上一財季的1400億元，大幅提高至3600億元人民幣。第一財季聯想集團AI相關業務收入同比增長60%，達到634億元人民幣，創歷史新高，佔集團整體營收約35%；AI服務收入同比增長141%。
-
----
-
-### 2026-08-13 12:51:32  #市場
-
-【機構：第二季度全球OLED顯示器出貨季增26.1%】根據TrendForce集邦諮詢最新調查，2026年第二季全球OLED顯示器市場展現強勁的成長韌性。在各大品牌廠商陸續推出新機種、帶動整體出貨量的同時，適逢“618”年度大型電商節慶促銷檔期的拉貨效益加持，加上市場主力27英寸QHD規格機種持續滲透與積極推廣，整體產業鏈動能全面升溫。這波多重利好的疊加，推升第二季OLED顯示器出貨量季增26.1%，與2025年同期相比，年增率更高達98%，幾乎實現翻倍成長，反映出OLED顯示技術在電競與高階顯示市場的滲透率正在快速擴大。（介面新聞）
-
----
-
-### 2026-08-13 12:49:00  #MKT News #Important #USDJPY #Impact bearish
-
-USD/JPY fell nearly 30 pips intraday to 159.36 after reports the Bank of Japan may raise rates in September or October.
-
----
-
-### 2026-08-13 12:48:19  #央行 #日本央行
-
-【日本央行據悉可能在9月或10月加息】8月13日，據報道，日本首相高市早苗的政府支援日本央行在近期內升息，下一步升息的時間可能在9月或10月。日本央行擔心日元疲軟會推高物價，政府則希望強化近期美日聯手干預匯市的影響，這使得雙方在近期升息的必要性上達成了一致。
-
----
-
-### 2026-08-13 12:48:12  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Market sources say the Bank of Japan may raise interest rates in September or October.
-
----
-
-### 2026-08-13 12:48:09  #央行 #焦點 #國際
-
-【日本政府據悉支援日本央行加快加息步伐】據知情人士透露，日本首相高市早苗領導的政府支援日本央行近期加息，下次加息行動大機率落在 9 月或 10 月。知情人士補充稱，央行擔憂日元走弱推高物價，而政府希望強化近期美日貨幣干預的效果，雙方就此達成共識，認為有必要在短期內加息。日本央行在貨幣政策上享有法定獨立權，但也需要就經濟政策目標與政府保持密切溝通。高市早苗內閣無法強迫日本央行設定具體利率，但可以釋放訊號，進而影響央行決策。首相辦公室在郵件宣告中表示，“我們認為，包括加息在內的具體貨幣政策措施，應交由日本央行決定”。宣告同時提到，央行應與政府緊密協作，以 “穩定方式” 實現 2% 的通脹目標。日本央行對此不予置評。
-
----
-
-### 2026-08-13 12:47:52  #MKT News #Important #USDJPY #Impact bearish #DXY #EURUSD #Impact bullish
-
-Market sources: Japanese Prime Minister TAKAICHI is reported to support faster rate hikes by the Bank of Japan.
-
----
-
-### 2026-08-13 12:47:19  #其他
-
-【世衛組織說剛果（金）埃博拉疫情傳播之快前所未有】世界衛生組織總幹事譚德塞12日說，剛果（金）本輪埃博拉疫情傳播速度之快前所未有，可能成為全球有記錄以來規模最大的埃博拉疫情。 “這已是有記錄以來第二大埃博拉疫情，傳播速度超過以往任何一次。”譚德塞當天在日內瓦舉行的例行記者會上說，“按照目前的發展速度，其規模可能超過2014年至2016年的西非埃博拉疫情。” 譚德塞說，剛果（金）已累計報告埃博拉確診病例4449例，死亡2061例，防控工作一直處於被動追趕狀態。最令人擔憂的是，較高比例的死亡病例出現在社群，既不在治療中心內，也不在密切接觸者名單中，這表明存在尚未被發現的傳播鏈條。只有摸清並切斷所有傳播鏈，疫情才能得到遏制。 世衛組織官員阿卜迪拉赫曼·馬哈茂德說，眼下疫情仍未達到峰值，如果加強監測、完善護理、落實安全安葬等防控措施能夠在各傳播區同步推進，疫情形勢有望在3個月內出現轉折。 世衛組織網站資料顯示，2014年至2016年的西非埃博拉疫情是1976年埃博拉病毒被發現以來規模最大的一次，累計報告病例超過2.86萬例，約1.13萬人死亡。(新華社)
-
----
-
-### 2026-08-13 12:47:13  #MKT News
-
-Interfax cited local officials as saying drones struck an industrial area in Russia's Republic of Bashkortostan.
-
----
-
-### 2026-08-13 12:46:35  #市場
-
-日元兌美元短線快速拉昇。
-
----
-
-### 2026-08-13 12:46:33  #國際
-
-俄新社引述當地官員訊息：無人機襲擊俄羅斯巴什科爾託斯坦共和國一處工業區。
-
----
-
-### 2026-08-13 12:46:08  #央行 #焦點 #國際
-
-高市政府據悉支援日本央行加快升息步伐。
-
----
-
-### 2026-08-13 12:45:58  #央行 #國際
-
-據稱日本央行可能在9月或10月加息。
-
----
-
-### 2026-08-13 12:45:43  #央行 #國際
-
-據訊息人士透露，日本央行正在考慮在10月份提高利率，政府也支援這一舉措，以維持其干預措施的有效性。
-
----
-
-### 2026-08-13 12:45:26  #市場 #央行 #國際
-
-據訊息人士透露，日本央行和政府都對日元貶值導致物價上漲表示擔憂。
-
----
-
-### 2026-08-13 12:45:04  #市場 #國際
-
-【鋁價從七週高位繼續回落 供應擔憂緩解】鋁價連續第二天下跌，中東一家大型鋁冶煉廠宣佈計劃提前恢復生產，緩解了市場對鋁供應日益緊張的擔憂。阿聯酋環球鋁業計劃明年第一季度將產量提升至戰前水平，伊朗3月份發動的襲擊曾導致其主要冶煉廠停產。受訊息影響，鋁價週三大幅回落。此前，由於伊朗與美國似乎就重開霍爾木茲海峽達成協議漸行漸遠，鋁價連續七個交易日上漲。倫敦金屬交易所的鋁庫存目前處於1990年以來最低水平。此外，澳大利亞最大鋁冶煉廠Tomago的所有者週四獲得25億澳元（約合18億美元）政府紓困資金，使該廠得以繼續運營，進一步加大了供應端壓力。鋁價下跌0.9%，至每噸3282.50美元。其他基本金屬價格也普遍走低，其中銅價下跌0.4%，鋅價下跌0.8%。
-
----
-
-### 2026-08-13 12:45:02  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-【Putin says Russia must secure all borders and territory】On the 13th Putin, aboard missile cruiser Varyag, met senior Pacific Fleet officers and said Russia must secure all borders and territory, adding that national security tasks are being carried out primarily via the special military operation in Ukraine. He observed Pacific Fleet exercises on the 12th. Russia’s defence ministry said the Pacific Fleet has held large-scale drills since the 4th in the Sea of Japan, the Sea of Okhotsk and the northwest Pacific.
-
----
-
-### 2026-08-13 12:43:45  #公司
-
-【深圳市地鐵集團、深灣發展成立綠景投資開發公司】企查查APP顯示，近日，深圳深灣綠景投資開發有限公司成立，法定代表人為熊海明，註冊資本為8.4億元，經營範圍包含商業綜合體管理服務；工程管理服務；物業管理；城市公園管理；合同能源管理；房地產開發經營等。企查查股權穿透顯示，該公司由深圳灣區城市建設發展有限公司、深圳市地鐵集團有限公司共同持股。
-
----
-
-### 2026-08-13 12:43:41  #市場
-
-【交易員：對沖基金正在買入澳元/紐元看漲期權價差】交易員表示，在紐西蘭第三季度兩年期通脹預期較前三個月有所下降後，對沖基金一直在買入澳元/紐元短期看漲期權價差。澳元/紐元上漲0.3%至1.2090。
-
----
-
-### 2026-08-13 12:42:40  #其他
-
-傑富瑞將 愛彼迎  目標價從175美元上調至215美元。
-
----
-
-### 2026-08-13 12:41:14  #國際
-
-美國國防部官員科爾比：不認為核戰略會發生根本性變化。
-
----
-
-### 2026-08-13 12:40:26  #其他
-
-【中國鈣鈦礦量產技術再登《自然》】南京大學助理教授肖科、教授譚海仁課題組聯合仁爍光能產業化團隊，開發出一種基於羧酸鉛材料的表面鈍化新策略，成功製備出認證效率達22.0%（0.72m²全面積）的鈣鈦礦光伏元件，並透過IEC61215/IEC61730全序列可靠性測試。研究成果以“Lead carboxylates passivation for meter-scale perovskite solar modules”為題，於2026年8月12日線上發表於國際頂級學術期刊《自然》。（上海證券報）
 
 ---

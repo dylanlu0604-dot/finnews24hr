@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:56:40_
-_本檔包含 3039 則快訊，約 600506 字_
+_更新時間：2026-08-16 22:32:10_
+_本檔包含 3060 則快訊，約 600769 字_
+
+---
+
+### 2026-08-12 09:48:04  #宏觀
+
+市場監管總局公開徵求《國際單位制及其應用（徵求意見稿）》意見。
+
+---
+
+### 2026-08-12 09:48:01  #MKT News
+
+China's State Administration for Market Regulation (SAMR) is soliciting public comment on the draft International System of Units and Its Application.
+
+---
+
+### 2026-08-12 09:47:47  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量588億元。
+
+---
+
+### 2026-08-12 09:46:47  #市場
+
+【金融科技概念異動拉昇 威士頓20cm漲停】早盤金融科技概念異動拉昇，威士頓20cm漲停，普元資訊、艾融軟體、金橋資訊、仁東控股、上海鋼聯等跟漲。
+
+---
+
+### 2026-08-12 09:45:36  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
+
+ChiNext Index rose over 1% at the open; Shenzhen Composite Index up 0.74% as CRO and advanced packaging stocks led gains.
+
+---
+
+### 2026-08-12 09:45:25  #其他
+
+【CPO板塊走高，炬光科技漲超14%】CPO板塊走高，炬光科技漲超14%，邁信林漲超10%，長光華芯、仕佳光子、天孚通訊、光庫科技跟漲。
+
+---
+
+### 2026-08-12 09:45:14  #MKT News #Important
+
+China A-share lithography-equipment sector extended gains; Juguang Technology jumped more than 14%, Fuchuang Precision rose over 5%, while Maolai Optics and Jiangfeng Electronics also advanced.
+
+---
+
+### 2026-08-12 09:44:50  #市場 #焦點
+
+創業板指漲1.01%，現報3585.100點；上證指數漲0.04%，現報3935.851點；深證成指漲0.70%，現報14358.917點。
+
+---
+
+### 2026-08-12 09:44:47  #市場
+
+阿里巴巴港股下跌3%。
+
+---
+
+### 2026-08-12 09:44:02  #公司 #市場
+
+【港股人工智慧股走強 海致科技集團漲超12%】截至發稿，海致科技集團(02706.HK)漲12.50%，中科聞歌(01956.HK)漲4.74%，壁仞科技(06082.HK)漲4.76%，智譜(02513.HK)漲4.11%。
+
+---
+
+### 2026-08-12 09:43:41  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Ticks Higher Ahead of Key Inflation Data — The dollar index edged toward 99.9 on Wednesday, posting modest gains as investors braced for key inflation readings that will likely influence the Federal Reserve’s next policy move. The consumer price index report is due later today, followed by producer inflation data on Thursday. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. On Tuesday, Chicago Fed President Austan Goolsbee also said the central bank is more concerned about inflation remaining too high than potential weakness in the labor market. On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
+
+---
+
+### 2026-08-12 09:43:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
+
+China A-share property sector rallied; Shibei Gaoxin, Jingtou Development and Xiangjiang Holdings hit the daily trading limit, while Rongsheng Development, Zhongzhou Holdings and Jinke Co. also advanced.
+
+---
+
+### 2026-08-12 09:43:07  #公司
+
+【ST路通等成立新公司 含多項AI相關業務】企查查APP顯示，近日，上海路通雲博科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧硬體銷售；人工智慧通用應用系統；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由ST路通全資子公司上海路通創智科技有限公司等共同持股。
+
+---
+
+### 2026-08-12 09:42:31  #MKT News #Commodities #Industrial Metals #02788.HK #Impact bullish #02600.HK #01378.HK
+
+Hong Kong-listed aluminium stocks opened stronger: Innovation Industrial (02788.HK) jumped over 6%, Aluminum Corporation of China (Chalco, 02600.HK) rose more than 4%, with China Hongqiao (01378.HK) and Nanshan Aluminium International (02610.HK) also higher.
+
+---
+
+### 2026-08-12 09:41:36  #公司 #市場
+
+房地產板塊早盤拉昇，京投發展3連板，市北高新、榮盛發展觸及漲停，中洲控股、新城控股、金科股份等跟漲。
+
+---
+
+### 2026-08-12 09:41:23  #市場
+
+【量子科技概念震盪拉昇 格爾軟體漲停】量子科技概念震盪拉昇，格爾軟體漲停，科大國創、吉大正元、神州資訊、艾融軟體跟漲。
+
+---
+
+### 2026-08-12 09:40:57  #MKT News #USDJPY #Impact bearish #DXY
+
+Japan 20-year bond yield rose 2.5 bps to 3.710%.
+
+---
+
+### 2026-08-12 09:40:47  #市場 #國際
+
+20年期日本國債收益率上升2.5個基點至3.710%。
+
+---
+
+### 2026-08-12 09:40:10  #市場
+
+【工業母機概念震盪反彈，日發精機等多股漲停】工業母機概念震盪反彈，日發精機、華東數控、瀋陽機床漲停，東土科技、禾川科技、欣天科技、凱騰精工、合鍛智慧、鼎泰高科等跟漲。
+
+---
+
+### 2026-08-12 09:39:31  #公司
+
+【MemoraX AI宣佈完成數億元種子++輪融資】近日，AI記憶基礎設施研發公司深圳憶紀元科技有限公司（MemoraX AI）宣佈完成數億元種子++輪融資。本輪融資由北洋海棠基金、尚勢資本、仁愛資本聯合領投，銀杏谷資本跟投，華業天成、達泰資本等老股東持續加碼投資。
+
+---
+
+### 2026-08-12 09:39:00  #其他
+
+【我國首列雙層大宗散貨鐵海聯運半高箱班列首發】今天（12日），我國首列雙層大宗散貨鐵海聯運半高箱班列在內蒙古包頭萬水泉南站首發，發往河北黃驊港。班列首次實現半高箱鐵路雙層運輸與海運“無換裝”銜接。原來2.6米高的標準集裝箱，壓縮到1.7米的半高箱，能相容現有港鐵裝卸裝置，實現全程“一箱制”轉運，精簡五次以上中轉工序，單位運輸成本下降超四分之一。為大宗散貨鐵海聯運新增了一種“不換箱、不開箱、一箱到底”的物流新選擇。
+
+---
+
+### 2026-08-12 09:38:45  #市場 #國際 #原創
+
+【美國SEC即將公佈加密資產發行新規 併為股票代幣交易鋪路】美國證券交易委員會（SEC）準備在未來幾天推出兩項重大舉措，這可能進一步推動美國加密貨幣行業的發展。該監管機構宣佈，將於週五舉行公開會議，“為涉及加密資產的某些投資合約制定一套量身定製的發行制度”。該機構還計劃很快公佈所謂“創新豁免”，適用於證券數字版本的交易，此舉可能重塑美國股市格局，併為在區塊鏈上全天候交易股票代幣鋪平道路。據熟悉該機構計劃的人士透露，上述代幣化股票豁免的細節最早可能於週五公佈。他們表示SEC官員仍在完善該提案，細節在正式釋出前可能會有所變動。
+
+---
+
+### 2026-08-12 09:38:10  #MKT News #Market Regions #Greater China #000596.SZ #Impact bullish
+
+China A-share baijiu sector rallied intraday; Jinshiyuan rose over 8%, with Yingjia Gongjiu, Gujing Gongjiu, Shede Spirits and Kouzi Jiao also advancing.
+
+---
+
+### 2026-08-12 09:37:01  #市場
+
+【CRO概念股盤中上漲 泓博醫藥漲超9%】CRO概念股盤中上漲，泓博醫藥漲超9%，美迪西、博濟醫藥、百誠醫藥等股跟漲。
+
+---
+
+### 2026-08-12 09:36:52  #市場
+
+長和<0001.HK>股價下跌3%。
+
+---
+
+### 2026-08-12 09:36:42  #國際
+
+【封禁3年後，美國政府裝置重新允許使用TikTok】據彭博社報道，白宮管理和預算辦公室週一釋出備忘錄，撤銷2023年釋出的一項指令。該指令因擔心TikTok存在安全風險，禁止在政府裝置上使用這一短影片服務。此前，美國司法部上月出具書面意見，結論是TikTok已不再符合2022年透過的一項法律中定義的“受管制應用”標準，該法律禁止在聯邦平臺上使用TikTok。（國是直通車）
+
+---
+
+### 2026-08-12 09:36:19  #公司 #市場
+
+【乳業奶粉概念異動拉昇，皇氏集團漲停】乳業奶粉概念異動拉昇，皇氏集團漲停，一鳴食品、品渥食品、西部牧業、李子園、陽光乳業、熊貓乳品等跟漲。
+
+---
+
+### 2026-08-12 09:36:14  #其他
+
+【山西釋出地質災害黃色預警】12日上午，山西省自然資源廳和山西省氣象局聯合釋出地質災害氣象風險預警，預計8月12日8時至8月13日8時，陽泉市城區、礦區、郊區、平定縣、長治市平順縣、壺關縣、晉城市城區、陽城縣、陵川縣、澤州縣、高平市、忻州市寧武縣、靜樂縣、臨汾市大寧縣、隰縣、永和縣、呂梁市孝義市部分割槽域地質災害氣象風險預警級別為三級（黃色預警），發生地質災害的風險較高。上述地區政府、部門和群眾應根據預警等級採取相應的防範措施，加強雨前排查、雨中巡查、雨後核查。
+
+---
+
+### 2026-08-12 09:36:03  #市場
+
+【白酒板塊短線拉昇，今世緣漲超8%】白酒板塊短線拉昇，今世緣漲超8%，迎駕貢酒、古井貢酒、捨得酒業、口子窖紛紛上揚。
+
+---
+
+### 2026-08-12 09:35:35  #公司
+
+【騰訊音樂跌超12% 上半年利潤同比下降31.6%】截至發稿，騰訊音樂-SW(01698.HK)跌12.34%。根據最新財報顯示，公司上半年總收入168.3億元，同比增長6.5%；期內利潤46.9億元，同比下降31.6%。
 
 ---
 
@@ -18272,59 +18452,5 @@ UK Retail Sales Growth Slows to 5-Month Low — UK retail sales rose by 1% year-
 ### 2026-08-11 07:21:35  #國際
 
 【烏克蘭下調年度糧食出口預測，因港口樞紐遭俄羅斯襲擊】烏克蘭農業部長維索茨基(Taras Vysotskyi)週一向媒體表示，由於俄羅斯持續襲擊該國南部敖德薩港口樞紐，烏克蘭已將2026/27年度（7月至次年6月）糧食出口預期較此前預測下調最多12%。“我們目前的目標是3,800萬至4,000萬噸，”維索茨基表示。這是自俄羅斯7月底升級襲擊以來，烏克蘭官方首次釋出出口預測。當時針對敖德薩港口的襲擊實際上已導致該港的糧食出口陷入停頓，而這些港口對烏克蘭乃至全球農產品市場都至關重要。在局勢升級之前，烏克蘭農業部曾預測本年度出口量將達到4,300萬噸。烏克蘭農業部週一表示，運輸受阻可能導致1,100萬噸糧食倉儲能力缺口。
-
----
-
-### 2026-08-11 07:20:19  #國際
-
-據媒體報道，黎巴嫩和以色列將於9月初舉行下一輪會談。
-
----
-
-### 2026-08-11 07:20:06  #其他
-
-【港珠澳大橋珠海公路口岸進出境車輛累計突破2500萬輛次】截至昨天（9日），港珠澳大橋珠海公路口岸進出境車輛已累計突破2500萬輛次，單日進出境車輛最高峰達2.97萬輛次，客車通關量居全國首位。今年以來，口岸進出境車輛已達425萬輛次，其中港澳單牌車248萬輛次，同比增長8.1%。
-
----
-
-### 2026-08-11 07:19:45  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Advance on US-Iran Deal Uncertainty — Brent held above $87 per barrel on Tuesday after rising for four consecutive sessions, supported by heightened uncertainty over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. President Donald Trump issued sweeping new demands on Iran, including compensation for people the Islamic Republic has killed in conflicts, after Tehran reiterated calls for reparations as part of negotiations to wind down the conflict. The demands have clouded prospects for a near-term agreement, keeping markets wary of prolonged supply disruptions. Trump also indicated that he was prepared to allow economic pressure on Iran to intensify rather than launch new military strikes to force the reopening of Hormuz. Meanwhile, Iran and Oman have yet to reach an agreement to reopen the waterway, as Tehran is making the move contingent on securing an accord with the US.
-
----
-
-### 2026-08-11 07:19:25  #國際
-
-【與公開說法相悖：上月特朗普從土耳其秘密搭乘專機撤離】美國華盛頓郵報獲悉，因敵方發出針對美國總統唐納德・特朗普的暗殺威脅，上月開展了一次特殊行動：特朗普搭乘另一架軍用飛機秘密離開土耳其，而白宮對外宣稱他當時身處空軍一號專機之上。依據該媒體查閱的資料、一名瞭解該行動的美國官員以及另一名掌握總統行程資訊的人士透露，這場此前從未被報道過的秘密行動，對記者以及部分白宮工作人員進行了隱瞞，這些工作人員原本以為自己與總統同在一架飛機上。相關訊息人士因未獲授權談論此事，選擇匿名發聲。政府方面聲稱，特朗普於7月8日搭乘舊版空軍一號離開土耳其。特朗普曾在社交媒體宣佈，他將使用“舊版空軍一號”，而非那架送他抵達當地的飛機——後者是卡達贈予美國的一架較新的波音747‑8。這架卡達提供的飛機的安全性遭到質疑，特朗普在上月結束此行後表示，該飛機將接受額外升級改造。
-
----
-
-### 2026-08-11 07:18:32  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Advance on US-Iran Deal Uncertainty — Crude oil held above $82 per barrel on Tuesday after rising for three consecutive sessions, supported by heightened uncertainty over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. President Donald Trump issued sweeping new demands on Iran, including compensation for people the Islamic Republic has killed in conflicts, after Tehran reiterated calls for reparations as part of negotiations to wind down the conflict. The demands have clouded prospects for a near-term agreement, keeping markets wary of prolonged supply disruptions. Trump also indicated that he was prepared to allow economic pressure on Iran to intensify rather than launch new military strikes to force the reopening of Hormuz. Meanwhile, Iran and Oman have yet to reach an agreement to reopen the waterway, as Tehran is making the move contingent on securing an accord with the US.
-
----
-
-### 2026-08-11 07:14:58  #其他
-
-【創新藥“中國首發”密集落地 新靶點、新機制、新療法加速向中國集聚】近期，一款罕見病創新藥在中國“首報首發”，引起廣泛關注。這並非孤例——今年以來，已有多款跨國藥企的創新藥在中國率先上市，與此同時，百利天恆、科濟藥業等本土企業的全球首創新藥也密集落地。跨國巨頭與本土企業不約而同地將首發地設在中國，延續數十年的“先歐美、後中國”舊格局，被徹底改寫。“中國首發”成為常態，創新藥正以黑馬之姿躋身我國“新新三樣”的行列。這場首發潮的背後，是新靶點、新機制、新療法加速向中國集聚，中國創新藥產業正從全球參與者邁向全球引領者。
-
----
-
-### 2026-08-11 07:14:52  #宏觀
-
-【惠州臨深樓市釋放回暖訊號】今年以來，全國多個城市密集出臺樓市調控新政，深圳和惠州也同步落地多項利好政策。惠州臨深片區在政策推動下，市場正顯現出越來越多的回暖訊號。但在業內觀察者看來，這片長期受外溢需求影響的區域，能否徹底告別“潮汐式”週期，才是決定市場長期健康的關鍵。
-
----
-
-### 2026-08-11 07:14:03  #公司 #市場
-
-【明星新股密集上市 多家銀行上線“打新理財”專區】8月10日，宇樹科技開啟網上、網下申購，發行價格為150.80元/股，發行數量4044.6434萬股。根據宇樹科技此前披露的發行公告，光大理財、民生理財、南銀理財、寧銀理財、招銀理財、中郵理財旗下相關產品均進入初步詢價階段的有效報價名單。就在不久前，長鑫科技上市第一週股價大幅上漲，賺錢效應引發市場關注。記者調研發現，多家銀行正借勢這一波打新行情，向投資者推介“打新策略”理財產品，招商銀行、浦發銀行等手機銀行App已上線“打新理財”專區。（中國證券報）
-
----
-
-### 2026-08-11 07:13:05  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #Impact mixed #DXY #Impact bearish
-
-【UK consumers boosted food and pub spending in July during World Cup】UK consumers increased food and pub spending in July amid England’s World Cup semi-final run and hot weather, but remained cautious on large-ticket purchases, the British Retail Consortium said. BRC data showed total retail sales rose 1.3% YoY in July, below the average and down from June’s 1.9%. Food sales were up 3.8% YoY while non-food sales fell 0.7%; clothing was supported by the heatwave, footwear declined. IGD CEO Sarah Bradbury said Middle East tensions and sustained high temperatures are intensifying food-supply chain pressure, raising the risk of further food-cost inflation and household budget strain into autumn. Barclays’ broader consumer spending indicator rose 2.0% YoY in July, marginally above June’s 1.9%.
 
 ---

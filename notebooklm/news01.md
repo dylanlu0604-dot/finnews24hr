@@ -1,13 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:56:40_
-_本檔包含 3025 則快訊，約 600503 字_
+_更新時間：2026-08-16 22:32:10_
+_本檔包含 3027 則快訊，約 600804 字_
+
+---
+
+### 2026-08-16 22:30:11  #公司 #市場
+
+【中銀證券：A股硬科技由超跌修復切換向趨勢行情的條件正加速成熟】中銀證券釋出研報稱，以科創50為代表的硬科技板塊正由超跌修復切換向趨勢行情。整個6–8月中旬週期，硬科技走勢的形態敘事可分為兩層看。第一層是指數層面，硬科技代表性指數科創50在6月30日見到階段性收盤高點2207.86點後深度回撤，7月整月下跌約25.9%，8月3日收盤低點下探至1552.89點。其後反彈開啟， 8月14日收於1717.68點，略低於20日均線但較低點累計反彈10.6%，指數已脫離極端殺跌區間，低點修復明確，反彈中樞抬升。第二層是行業層面，申萬電子、通訊7月分別大跌約34.7%、31.9%，是上一輪極化估值消化與海外敘事擾動的重災區；進入8月，截至8月14日當月累計漲幅分別約13.2%、15.3%，收盤均重新站上20日均線上方，兩個標杆行業的快速反彈推動短線形態修復成立。成交額方面，科創50在8月14日首次跌破千億，如果硬科技行情只是槓桿與題材資金主導下的弱修復，行情很難與縮量背景並存，因而我們判斷恐慌出清後的趨勢資金與產業資金正逐步掌握主導權，資金行為上更接近去偽存真後的縮圈。總體來看，本輪大小云的良好財報披露使得AI從訂單到資本開支最後向收入轉化的邏輯鏈條進一步夯實，AI基建敘事從反彈主題交易歸位到資本開支上行大主線的條件正加速成熟。
+
+---
+
+### 2026-08-16 22:27:44  #國際
+
+美國司法部長託德·布蘭奇為珍妮·皮羅辯護，稱她駁回一起聯邦破壞案件的決定激怒了唐納德·特朗普總統，他表示華盛頓特區最高檢察官應得到公正對待。（皮羅為倒影池案的檢察官）
+
+---
+
+### 2026-08-16 22:27:06  #MKT News
+
+Israeli media reported Kushner discussed maintaining a Gaza ceasefire with officials from the Peace Committee.
+
+---
+
+### 2026-08-16 22:25:44  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #XLF #S&P500
+
+【Wells Fargo: JP Morgan poised to become first $1 trillion bank】Wells Fargo says JP Morgan is likely to become the first bank with a market value above $1 trillion, and it maintained an overweight rating while raising its price target to $390 from $375, implying more than 7% upside to last Friday’s close. Analyst Mike Mayo wrote in a Thursday client note that JP Morgan’s “top-tier investment capabilities” could not only help it pass $1 trillion but could see it reach $2 trillion in about 7–8 years. Mayo cited share gains across major businesses, operational optimization, steadier profitability versus global peers, and the CEO-defined “robust balance sheet” as supporting factors.
+
+---
+
+### 2026-08-16 22:20:42  #國際
+
+以色列國防軍：消滅一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）武裝人員和一名哈馬斯武裝人員。
+
+---
+
+### 2026-08-16 22:15:41  #其他
+
+【聯合海事中心資料：8月14日以來共有三艘油輪在穿越霍爾木茲海峽時遭到襲擊】根據最新的聯合海事資訊中心通報，自上次報告以來，有三艘船隻在穿越霍爾木茲海峽時遭到襲擊。 兩艘船隻在穿越阿曼領海時向外航行期間遭到襲擊。另一艘船隻在向內航行時，在海峽一處未公開地點遭到襲擊。未報告人員受傷，船隻繼續其航程。
+
+---
+
+### 2026-08-16 22:14:07  #公司 #國際
+
+【58%的美國招聘經理表示，已經難以找到適格員工】根據資料統計，約有58%的美國招聘經理表示，已經難以找到合適員工，他們普遍認為對應技能工的短缺正在延誤專案，並迫使公司為獲得合適的人才而付出更多成本。
+
+---
+
+### 2026-08-16 22:12:20  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【Chan Mo‑po to further consolidate Hong Kong's international aviation hub status】Hong Kong Financial Secretary Chan Mo‑po said on 16th the city will further consolidate and enhance its role as an international aviation hub. In 1H aircraft movements exceeded 200,000, up 4.4% YoY, and passenger traffic reached 32.8m, up 11.7% YoY. Around 140 carriers now serve Hong Kong to more than 225 destinations. Jan–Jul visitor arrivals totalled 31.22m, up 12% YoY, with resumed exhibitions and events cited as drawing additional business and leisure travellers. Chan said the aviation hub underpins the local aviation industry and Hong Kong’s function as a super‑connector, supporting trade, logistics, MICE and tourism.
+
+---
+
+### 2026-08-16 22:10:44  #國際
+
+以色列與宏都拉斯簽署諒解備忘錄，深化防務合作。
+
+---
+
+### 2026-08-16 22:10:29  #其他
+
+黎巴嫩衛生部在其今日釋出的統計資料中宣佈，自3月2日以來，已有4346人死於以黎衝突當中，另有12301名傷者。
+
+---
+
+### 2026-08-16 22:09:23  #公司
+
+【陳茂波：鞏固提升香港國際航空樞紐地位】香港特區政府財政司司長陳茂波16日發表網誌表示，今年上半年，香港國際機場的飛機升降量超過20萬架次，同比上升4.4%，機場客運量為3280萬人次，同比增加11.7%。香港將進一步鞏固提升國際航空樞紐的地位。 陳茂波說，目前約有140家航空公司提供航班往來香港與全球超過225個航點。香港高效便捷的國際聯絡與今年以來接連舉行的各類展覽等盛事，成功吸引更多商務及觀光旅客訪港。今年前七個月，已有3122萬訪港旅客人次，同比上升12%，往來不斷的人流為香港注入更大的活力、帶來更多商機。 陳茂波認為，香港國際航空樞紐的地位，不僅是本地航空業的命脈，更是香港發揮“超級增值人”和“超級聯絡人”功能的硬體底座，促進更蓬勃興旺的貿易、物流、會展、旅遊，以至更廣泛的人文交流。 陳茂波說，兩年前啟用的機場三跑道系統將逐步擴大飛機升降容量，今年5月啟用的二號客運大樓離境設施，亦已有15家航空公司進駐，預計第一年可以分流約800萬人次的旅客，提升機場處理出境客流的能力。 他說，香港會不斷努力，進一步鞏固提升國際航空樞紐的地位，併為其他相關經濟環節的聯動發展注入新活力。（新華社）
+
+---
+
+### 2026-08-16 22:09:01  #其他
+
+【王祺揚與深圳市產業園區協會企業代表座談】據三亞日報，8月16日，三亞市委書記王祺揚在三亞與深圳市產業園區協會企業代表舉行座談，共商合作良策，共謀發展新篇。王祺揚指出，希望各位企業家充分發揮自身優勢，與三亞在推動高階文旅升級、總部經濟及園區經濟發展、現代服務業提質等領域深化合作，助推三亞產業轉型升級、擴大高水平對外開放，為三亞經濟社會高質量發展注入新動能。三亞將以市場化、法治化、國際化一流營商環境和“無事不擾、有求必應”的“店小二”貼心服務，積極為落地三亞的企業排憂解難，與企業攜手並肩、共謀發展、共創未來。
+
+---
+
+### 2026-08-16 22:08:17  #公司
+
+【“凹公酒”為賈平凹授權？公司回應】8月16日，山東楊湖酒業有限公司、西安曲江凹凹文化傳播有限公司釋出關於近期惡意誤傷賈平凹先生及詆譭“凹公酒”事件的聯合宣告：近日，網路上出現大量針對我司產品“凹公酒”的不實言論，部分網民藉此強行關聯並惡意攻擊著名作家賈平凹先生，對其個人進行人格侮辱，言辭惡劣。賈平凹先生從未以授權、題字、代言、入股、合作等任何形式參與“凹公酒”專案，與本兩公司不存在商業合作、業務往來及相關利益約定。網路流傳的“賈平凹授權”“賈平凹題名”“賈平凹入股”等說法，均與客觀事實不符，屬於不實資訊。西安曲江凹凹文化傳播有限公司字號中的“凹凹”，為我司獨立構思的文化命名，取自企業自身文化理念，與賈平凹先生無關聯。“凹公酒”的品牌名稱、標識設計、文化定位以及全部產品創意，均為本兩公司獨立創作、自主運營。
+
+---
+
+### 2026-08-16 22:01:05  #其他
+
+市場訊息：巴基斯坦和卡達的中間人仍在華盛頓與德黑蘭之間傳遞資訊，但尚未取得明顯進展。
+
+---
+
+### 2026-08-16 21:56:35  #MKT News
+
+Kushner said Egypt is an important U.S. partner in the Middle East.
+
+---
+
+### 2026-08-16 21:56:21  #MKT News
+
+Egyptian President Sisi and Kushner confirmed the need to resolve the current regional crisis and reiterated that parties must commit to fulfilling their obligations under the Gaza ceasefire agreement.
 
 ---
 
 ### 2026-08-16 21:52:21  #其他
 
 【國產大郵輪首次在大灣區啟航 產業鏈發展迎來新機遇】近日，首艘國產大型郵輪“愛達·魔都號”從深圳招商蛇口國際郵輪母港鳴笛啟航，開啟粵港澳大灣區（以下簡稱“大灣區”）航季，這也是該國產大郵輪首次落地大灣區開展國際運營，標誌著國產大型郵輪正式深度佈局華南市場，我國郵輪製造、港口運營、文旅消費全產業鏈迎來新的發展視窗。
+
+---
+
+### 2026-08-16 21:51:15  #市場
+
+【貨運eVTOL率先領跑低空產業化 配套鋰電迎來成長空間】2026年新版《民用航空法》正式落地實施後，國內低空空域開放程序明顯提速。8月10日，高工產研鋰電研究院（GGII）釋出行業洞察報告指出，低空產業將遵循先貨運、後載人，先遠郊、後城區，先試點、再全國鋪開的發展路徑推進商業化，貨運eVTOL將率先實現規模化量產，上游配套低空鋰電池賽道同步迎來長期增長機遇，2029—2035年或將成為整個低空經濟產業高速發展的黃金週期。 行業內對eVTOL有著清晰統一界定，該類飛行器依靠電力作為主動力，搭載3臺及以上獨立分散式電機旋翼，可完成垂直起降作業，通用判定標準為最大起飛重量不低於150公斤。現階段能夠實現小批次出貨的機型大多僅支援同點位往返作業，主要分為過載吊運、觀光載人兩大型別，跨區域貨運飛行仍處於試點探索階段。2026年7月1日新版《民用航空法》實施後，跨點位低空空域管控有序放開，行業發展節奏被明確劃定，只有貨運eVTOL運營模式經過市場驗證成熟後，載人跨區域飛行的空域使用許可權才會逐步放開。（中國經營報）
 
 ---
 
@@ -18171,95 +18273,5 @@ LG將推出基於NVIDIA Isaac GR00T平臺打造的下一代人形機器人。
 ### 2026-08-14 14:19:10  #MKT News #WTI #Impact bullish #Brent
 
 【Cui Dongshu: July 2026 China auto market weakness driven by oil shock, macro slowdown and seasonality】CPCA-affiliated Cui Dongshu said July weakness in the China auto market was caused by a convergence of factors: an oil-price rebound, macro slowdown, seasonality, demand pull-forward and policy shifts. Geopolitical disruption around the Strait of Hormuz pushed international oil prices higher; domestic gasoline prices have been cumulatively raised by 1,575 yuan/ton in 2026, significantly raising running costs and sharply eroding demand for gasoline passenger cars while having little impact on commercial-vehicle demand. July saw MoM declines in CPI and PPI and a softer PMI; cautious income and consumption expectations and weak appetite for big-ticket durables depressed housing and transport spending and terminal auto demand. High July temperatures reduced showroom footfall, and a June half-year sales push pulled forward demand, leaving orders and retail traffic falling in tandem.
-
----
-
-### 2026-08-14 14:18:40  #市場
-
-網宿科技盤中漲停，漲幅20.01%，成交額超69億元。
-
----
-
-### 2026-08-14 14:18:32  #國際
-
-【美國二戰紀念碑遭汙損】據美國媒體報道，位於華盛頓的美國國家二戰紀念碑當地時間8月13日遭蓄意破壞，警方正在展開調查。事發現場能看到，部分紀念碑上被噴了紅色的英文塗鴉和油漆，塗鴉字樣為“乾淨的手、骯髒的美元（clean hands,dirty $）”。破壞者還將肥皂之類的藥劑倒入噴泉池中，導致池水大量起泡。調查人員在對受損情況進行勘驗後，工作人員已展開清理工作。 美國國家二戰紀念碑位於華盛頓特區的國家廣場公園內，坐落於林肯紀念堂與華盛頓紀念碑之間的鏡池東段。該紀念碑始建於2001年9月，2004年4月對公眾開放，同年5月舉行竣工典禮，旨在紀念二戰期間服役的1600萬美國軍人。（CCTV國際時訊）
-
----
-
-### 2026-08-14 14:17:51  #其他
-
-【浙江：對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，提升概念驗證能力。支援腦機介面領域企業、高校院所、科創平臺等共建概念驗證中心。推動概念驗證中心與省重大科技專項、新產品試製計劃等聯動佈局。鼓勵高校院所推動腦機介面科研成果“應驗盡驗”。 支援開展臨床研究。結合臨床資源優勢、規範管理能力等，分類建設腦機介面臨床試驗基地、臨床與轉化病房、臨床預備佇列。對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元。
-
----
-
-### 2026-08-14 14:17:04  #其他
-
-【浙江：重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，完善多方需求響應機制。支援高水平醫療機構面向臨床應用，聯合企業共同凝練攻關需求。腦機介面領域“尖兵”“領雁”專案榜單（指南）需求中來自企業的數量原則上不低於60%，其中“尖兵”專案一般不低於80%。 加強基礎研究和關鍵核心技術攻關。實施國家自然科學基金聯合基金生命健康重大專項和省應用基礎研究計劃專案，加強重大腦疾病機制機理、新型腦機介面等研究，省應用基礎研究計劃單個專案最高補助300萬元。實施腦機介面省重大科技專項，重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用，單個專案最高補助1000萬元。 深化產學研協同攻關。組建腦機介面創新聯合體；鼓勵腦機介面企業與高校院所、科創平臺實施夥伴計劃、共建聯合實驗室（聯合研發中心）等。企業牽頭實施的腦機介面領域“尖兵”專案比例原則上不低於70%。
-
----
-
-### 2026-08-14 14:16:07  #宏觀
-
-【9月10日起實施 浙江出臺18條舉措，推進腦機介面領域發展】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，明確要聚焦腦機介面領域科技創新和產業創新深度融合，以醫療、消費、工業等重大應用場景建設為牽引，構建產業共培、資源統籌、風險共擔、利益共享的產學研聯動機制。《若干措施》將於9月10日起實施。若干措施》指出：到2027年，企業主導的產學研聯動機制有效執行，腦機介面核心軟硬體自主創新能力大幅提升，研發5個以上代表性產品並率先實現驗證應用，腦機介面未來產業營收超過50億元。到2030年，產學研聯動機制高效執行，腦機介面領域科技創新和產業創新深度融合，形成一批典型應用場景和商業化應用產品，培育一批科技領軍企業，建成具有較強國際競爭力的腦機介面技術和產業創新高地。
-
----
-
-### 2026-08-14 14:15:54  #MKT News #Important #02099.HK #Impact bullish
-
-Hong Kong-listed China Gold International (02099.HK) extended gains, rising over 15% in afternoon trade after the company reported 1H2026 results yesterday: profit attributable to owners approximately $507m, up 153.3% YoY; EPS 127.99 US cents.
-
----
-
-### 2026-08-14 14:15:16  #公司 #市場
-
-【華源證券：首予錫業股份“買入”評級，有望持續受益於商品價格中樞的穩步上行】華源證券研報指出，錫業股份作為具備百年曆史傳承的錫/銦雙龍頭，有望持續受益於商品價格中樞的穩步上行，業績有望隨之加速釋放。預測公司2026-2028年分別實現歸母淨利潤40.06、44.24、47.29億元，按2026年8月13日收盤價計算的PE為15.47、14.01、13.11倍。選擇同樣以錫礦開採作為主要業務的興業銀錫、華錫有色作為可比公司，兩家公司按2026年8月13日Wind一致預期計算的2026年平均PE為20.06倍，首次覆蓋給予錫業股份“買入”評級。
-
----
-
-### 2026-08-14 14:15:10  #行業 #資料
-
-【崔東樹：2026年7月車市走弱是多重因素共振所致】乘聯分會崔東樹發文稱，2026年7月車市走弱，是油價反彈、宏觀走弱、季節性淡季、前期需求透支及政策切換等多重因素共振所致。地緣衝突引發霍爾木茲海峽通航擾動，推動國際油價震盪上行，2026年國內汽油價格累計上調1,575元/噸，大幅抬高用車成本，燃油乘用車消費需求劇烈萎縮，但對商用車的影響很小。同時7月CPI、PPI環比回落、PMI景氣下行，居民收入與消費預期偏謹慎，大額耐用品消費意願低迷，住行消費持續走弱，拖累車市終端需求。疊加7月高溫淡季壓制線下到店客流、6月半年衝量提前透支市場需求，終端訂單與客流同步回落。
-
----
-
-### 2026-08-14 14:15:07  #Trading Economics #Economy #Germany #Wholesale Prices YoY #Importance 2
-
-Germany Wholesale Price Inflation Accelerates — Germany’s wholesale prices rose 5.3% year-on-year in July 2026, accelerating from a 4.9% increase in the previous month, which had marked the slowest growth in three months. The latest result was the 20th consecutive month of wholesale price inflation, driven mainly by higher energy products and raw materials amid ongoing hostilities in the Middle East. Prices rose sharply for non-ferrous ores, metals and semi-finished products (27.8%) and mineral oil products (24.1%), followed by chemical products (13.1%) and information and communication technology equipment (9.0%). In contrast, prices fell for live animals (-18.5%), milk, dairy products, eggs, edible fats and oils (-9.4%), and meat and meat products (-6.1%). On a monthly basis, wholesale prices edged up 0.2%, reversing a 0.7% decline in June and marking the first increase in three months, although the rise was below the 0.4% expected.
-
----
-
-### 2026-08-14 14:14:39  #公司
-
-【寧德時代等在海南成立產業投資基金，出資額50億】天眼查App顯示，海南時代綠色產業投資基金合夥企業（有限合夥）於8月12日成立，出資額50億元人民幣，執行事務合夥人為廈門溥泉私募基金管理合夥企業（有限合夥），經營範圍含以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由寧德時代新能源科技股份有限公司、海南自由貿易港建設投資基金有限公司及廈門溥泉私募基金管理合夥企業（有限合夥）共同出資設立。
-
----
-
-### 2026-08-14 14:14:02  #其他
-
-【中國摩托車商會：7月全行業燃油摩托車銷量同比增長18.85%】中國摩托車商會發文稱，7月，全行業完成燃油摩托車產銷193.84萬輛和189.96萬輛，產銷量環比增長5.13%和2.97%，同比增長22.32%和18.85%；據商會不完全統計，電動摩托車產銷33.11萬輛和32.12萬輛，產銷量環比下降21.21%和20.87%，同比增長10.37%和9.5%。7月共產銷摩托車226.96萬輛和222.08萬輛，產量環比增長0.24%，銷量環比下降1.33%，同比增長20.42%和17.4%；摩托車國內銷售80.12萬輛，環比下降8.15%，同比增長7.6%；燃油摩托車國內銷售48.49萬輛，環比增長0.79%，同比增長6.03%。其中二輪車產銷203.73萬輛和199.09萬輛，產量環比增長0.18%，銷量環比下降1.29%，同比增長22.83%和19.4%。排量250ml以上（不含）摩托車產銷10.49萬輛和10.09萬輛，產銷量環比下降5.41%和11.02%，同比增長15.14%和14.27%。三輪摩托車產銷23.23萬輛和23萬輛，產量環比增長0.74%，銷量環比下降1.66%，同比增長2.76%和2.56%。
-
----
-
-### 2026-08-14 14:13:53  #其他
-
-惠譽評級：新加坡銀行業透過財富增長維持盈利強勁勢頭。
-
----
-
-### 2026-08-14 14:13:13  #市場
-
-澳大利亞S&P/ASX 200指數收盤下跌0.8%，至9115.20點。
-
----
-
-### 2026-08-14 14:12:51  #國際
-
-俄羅斯羅斯托夫州已收穫1360萬噸冬糧和豆類作物。
-
----
-
-### 2026-08-14 14:12:14  #公司
-
-【多家小貸公司明示個貸綜合融資成本上限 部分已低於12%】8月1日，《個人貸款業務明示綜合融資成本規定》正式施行，要求貸款人向借款人展示綜合融資成本明示表。記者注意到，多家小貸公司已經披露個人貸款業務綜合融資成本上限，其中不少機構將上限設定在24%，也有部分公司將上限控制在12%以內。
 
 ---

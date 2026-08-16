@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 21:56:40_
-_本檔包含 2976 則快訊，約 600305 字_
+_更新時間：2026-08-16 22:32:10_
+_本檔包含 2967 則快訊，約 600328 字_
+
+---
+
+### 2026-08-11 07:20:19  #國際
+
+據媒體報道，黎巴嫩和以色列將於9月初舉行下一輪會談。
+
+---
+
+### 2026-08-11 07:20:06  #其他
+
+【港珠澳大橋珠海公路口岸進出境車輛累計突破2500萬輛次】截至昨天（9日），港珠澳大橋珠海公路口岸進出境車輛已累計突破2500萬輛次，單日進出境車輛最高峰達2.97萬輛次，客車通關量居全國首位。今年以來，口岸進出境車輛已達425萬輛次，其中港澳單牌車248萬輛次，同比增長8.1%。
+
+---
+
+### 2026-08-11 07:19:45  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Advance on US-Iran Deal Uncertainty — Brent held above $87 per barrel on Tuesday after rising for four consecutive sessions, supported by heightened uncertainty over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. President Donald Trump issued sweeping new demands on Iran, including compensation for people the Islamic Republic has killed in conflicts, after Tehran reiterated calls for reparations as part of negotiations to wind down the conflict. The demands have clouded prospects for a near-term agreement, keeping markets wary of prolonged supply disruptions. Trump also indicated that he was prepared to allow economic pressure on Iran to intensify rather than launch new military strikes to force the reopening of Hormuz. Meanwhile, Iran and Oman have yet to reach an agreement to reopen the waterway, as Tehran is making the move contingent on securing an accord with the US.
+
+---
+
+### 2026-08-11 07:19:25  #國際
+
+【與公開說法相悖：上月特朗普從土耳其秘密搭乘專機撤離】美國華盛頓郵報獲悉，因敵方發出針對美國總統唐納德・特朗普的暗殺威脅，上月開展了一次特殊行動：特朗普搭乘另一架軍用飛機秘密離開土耳其，而白宮對外宣稱他當時身處空軍一號專機之上。依據該媒體查閱的資料、一名瞭解該行動的美國官員以及另一名掌握總統行程資訊的人士透露，這場此前從未被報道過的秘密行動，對記者以及部分白宮工作人員進行了隱瞞，這些工作人員原本以為自己與總統同在一架飛機上。相關訊息人士因未獲授權談論此事，選擇匿名發聲。政府方面聲稱，特朗普於7月8日搭乘舊版空軍一號離開土耳其。特朗普曾在社交媒體宣佈，他將使用“舊版空軍一號”，而非那架送他抵達當地的飛機——後者是卡達贈予美國的一架較新的波音747‑8。這架卡達提供的飛機的安全性遭到質疑，特朗普在上月結束此行後表示，該飛機將接受額外升級改造。
+
+---
+
+### 2026-08-11 07:18:32  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Advance on US-Iran Deal Uncertainty — Crude oil held above $82 per barrel on Tuesday after rising for three consecutive sessions, supported by heightened uncertainty over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz. President Donald Trump issued sweeping new demands on Iran, including compensation for people the Islamic Republic has killed in conflicts, after Tehran reiterated calls for reparations as part of negotiations to wind down the conflict. The demands have clouded prospects for a near-term agreement, keeping markets wary of prolonged supply disruptions. Trump also indicated that he was prepared to allow economic pressure on Iran to intensify rather than launch new military strikes to force the reopening of Hormuz. Meanwhile, Iran and Oman have yet to reach an agreement to reopen the waterway, as Tehran is making the move contingent on securing an accord with the US.
+
+---
+
+### 2026-08-11 07:14:58  #其他
+
+【創新藥“中國首發”密集落地 新靶點、新機制、新療法加速向中國集聚】近期，一款罕見病創新藥在中國“首報首發”，引起廣泛關注。這並非孤例——今年以來，已有多款跨國藥企的創新藥在中國率先上市，與此同時，百利天恆、科濟藥業等本土企業的全球首創新藥也密集落地。跨國巨頭與本土企業不約而同地將首發地設在中國，延續數十年的“先歐美、後中國”舊格局，被徹底改寫。“中國首發”成為常態，創新藥正以黑馬之姿躋身我國“新新三樣”的行列。這場首發潮的背後，是新靶點、新機制、新療法加速向中國集聚，中國創新藥產業正從全球參與者邁向全球引領者。
+
+---
+
+### 2026-08-11 07:14:52  #宏觀
+
+【惠州臨深樓市釋放回暖訊號】今年以來，全國多個城市密集出臺樓市調控新政，深圳和惠州也同步落地多項利好政策。惠州臨深片區在政策推動下，市場正顯現出越來越多的回暖訊號。但在業內觀察者看來，這片長期受外溢需求影響的區域，能否徹底告別“潮汐式”週期，才是決定市場長期健康的關鍵。
+
+---
+
+### 2026-08-11 07:14:03  #公司 #市場
+
+【明星新股密集上市 多家銀行上線“打新理財”專區】8月10日，宇樹科技開啟網上、網下申購，發行價格為150.80元/股，發行數量4044.6434萬股。根據宇樹科技此前披露的發行公告，光大理財、民生理財、南銀理財、寧銀理財、招銀理財、中郵理財旗下相關產品均進入初步詢價階段的有效報價名單。就在不久前，長鑫科技上市第一週股價大幅上漲，賺錢效應引發市場關注。記者調研發現，多家銀行正借勢這一波打新行情，向投資者推介“打新策略”理財產品，招商銀行、浦發銀行等手機銀行App已上線“打新理財”專區。（中國證券報）
+
+---
+
+### 2026-08-11 07:13:05  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #Impact mixed #DXY #Impact bearish
+
+【UK consumers boosted food and pub spending in July during World Cup】UK consumers increased food and pub spending in July amid England’s World Cup semi-final run and hot weather, but remained cautious on large-ticket purchases, the British Retail Consortium said. BRC data showed total retail sales rose 1.3% YoY in July, below the average and down from June’s 1.9%. Food sales were up 3.8% YoY while non-food sales fell 0.7%; clothing was supported by the heatwave, footwear declined. IGD CEO Sarah Bradbury said Middle East tensions and sustained high temperatures are intensifying food-supply chain pressure, raising the risk of further food-cost inflation and household budget strain into autumn. Barclays’ broader consumer spending indicator rose 2.0% YoY in July, marginally above June’s 1.9%.
 
 ---
 
@@ -17859,113 +17913,5 @@ OpenAI執行長奧特曼：我最為欣賞OpenAI團隊的一點，便是他們�
 ### 2026-08-09 22:37:49  #其他
 
 【APEC經濟體外國人訪深人數創歷史同期新高】隨著APEC第三十三次領導人非正式會議進入倒計時，外國人來華熱度持續攀升。深圳邊檢總站深圳機場邊檢站7日公佈的統計資料顯示，今年前七個月，經深圳機場口岸入出境的APEC成員經濟體外國人達85萬人次，同比增長32%，佔外籍人員總量近八成，創歷史同期新高。（深圳釋出）
-
----
-
-### 2026-08-09 22:31:56  #其他
-
-【2026國際基礎科學大會在京開幕，尹力致辭，殷勇出席】據北京釋出，8月9日上午，2026國際基礎科學大會在懷柔區開幕。市委書記尹力出席開幕式並致辭，市委副書記、市長殷勇出席。本次大會以“聚焦基礎科學，引領人類未來”為主題，旨在推動國際基礎科學交流與合作，促進科學進步和造福於人類，包括多位菲爾茲獎、圖靈獎等國際大獎得主在內的世界頂級科學家和海內外專家學者等齊聚雁棲湖畔，將重點圍繞數學、物理、資訊科學和工程等基礎科學領域展開學術研討和交流。其間還頒發了基礎科學獎章和前沿科學獎。
-
----
-
-### 2026-08-09 22:29:05  #公司
-
-【宇樹科技中籤率遠低於長鑫科技】8月9日，A股“人形機器人第一股”宇樹科技8月10日將在科創板正式開啟申購。考慮到宇樹科技本次發行流通盤規模較小，又疊加“第一股”的題材光環，多家券商綜合測算顯示，其預計中籤率在萬分之二至萬分之三之間，遠低於長鑫科技0.47%的中籤率水平。資料顯示，2026年以來A股新股上市首日平均漲幅高達276.04%，若以此測算，中一簽宇樹科技賬面盈利有望突破20萬元；若對標年內科創板新股首日466.61%的平均漲幅，單籤盈利可達35.18萬元。 (21財經)
-
----
-
-### 2026-08-09 22:28:51  #MKT News
-
-【Syria and Russia reach MoU on management of two Russian military bases】Syria and Russia signed a memorandum of understanding confirming future management of Russia’s bases on Syria’s western coast at Khmeimim and Tartus. Under the MoU, military facilities will be converted into joint training and exercise centers while civilian facilities, including Khmeimim airport and the Tartus port pier, will be transferred to the Syrian transitional government. Conversion work is slated to be completed within three months. Syrian foreign ministry said the MoU follows 18 months of intensive talks.
-
----
-
-### 2026-08-09 22:28:49  #國際
-
-市場訊息：埃及外交部發表宣告，就土耳其外長的通話作出表態。
-
----
-
-### 2026-08-09 22:28:33  #國際
-
-市場訊息：埃及、土耳其外交部長就地區安全安排展開磋商。
-
----
-
-### 2026-08-09 22:27:12  #其他
-
-OpenAI總裁布羅克曼：GPT-4在四年前的今天完成了訓練。
-
----
-
-### 2026-08-09 22:25:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Yemeni government condemns Houthi militants' terrorist attack on Mocha port.
-
----
-
-### 2026-08-09 22:22:30  #國際
-
-【木頭姐發文： 就業資料未顯衰退，AI正驅動美國經濟進入通縮與高生產率新週期 】針對近期引發市場擔憂的美國就業資料，美國知名投資機構方舟投資（ARK Invest）創始人凱西·伍德（Cathie Wood）8日表示，表面上的就業疲軟掩蓋了深層的經濟結構性變化。她指出，人工智慧（AI）等顛覆性技術正在大幅提升美國企業的生產率，當前美國經濟面臨的最大風險並非通貨膨脹，而是技術通縮。伍德強調，美國當前的宏觀經濟指標正呈現出類似20世紀80年代“里根經濟學”時期的特徵。她指出，美國國內企業稅前利潤佔國內生產總值（GDP）的比重已達13.2%，創下數十年來的新高。這一高利潤水平不僅源於疫情期間的財政與貨幣刺激，更得益於企業透過AI和自動化技術大幅提升了生產效率。她預計，隨著生產率的加速提升，美國聯邦赤字佔GDP的比重有望在年底前降至5%左右。
-
----
-
-### 2026-08-09 22:19:40  #公司
-
-市場訊息： 隨著 Oura、谷歌、Whoop 等廠商開啟可穿戴裝置新時代，蘋果正考慮對 Apple Watch 進行重大調整。今年的機型將主要聚焦效能，以及健康、健身追蹤功能的最佳化，會推出 Ultra 4 以及 Series 12 版本。重大產品改動至少還要再等一年及以上才會落地。
-
----
-
-### 2026-08-09 22:17:58  #國際
-
-【以色列在約旦河西岸進一步實施猶太定居點建設】近日，以色列在約旦河西岸進一步實施猶太定居點建設。近年來，以色列連續批准在約旦河西岸擴大定居點計劃，遭到國際社會的廣泛批評。以色列在包括東耶路撒冷、約旦河西岸在內的巴勒斯坦被佔領土上進行的猶太人定居點活動被認為是阻礙巴以問題獲得解決的主要障礙之一。（新華社）
-
----
-
-### 2026-08-09 22:16:18  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi outlet Hadath cites Yemeni military sources saying Houthi forces fired 30 ballistic missiles at civilian targets in al-Mukha.
-
----
-
-### 2026-08-09 22:15:48  #其他
-
-市場訊息：一架美軍MQ-9無人機在從吉布提的“沙貝萊（Chabelley）”空軍基地起飛數分鐘後發生墜毀事故。
-
----
-
-### 2026-08-09 22:14:32  #公司
-
-【瑞士再保險就熱浪風險發出警告】瑞士再保險執行長貝格爾（Andreas Berger）在接受瑞士《週日新蘇黎世報》（NZZ am Sonntag）採訪時表示：”熱浪及其相關死亡人數的風險被低估了。”他補充說：”我們需要提高對由此產生的危險的認識。”貝格爾是在瑞士再保險公佈2026年上半年淨利潤增長9%之後發表上述言論的，他表示現在斷言超額死亡率將如何影響這家總部位於蘇黎世的公司的財務資料還為時過早。
-
----
-
-### 2026-08-09 22:01:23  #公司
-
-【券商綜合測算：宇樹科技中一簽或賺20萬元】8月10日，A股“人形機器人第一股”宇樹科技（688836.SH）將在科創板正式開啟申購。考慮到宇樹科技本次發行流通盤規模較小，又疊加“第一股”的題材光環，多家券商綜合測算顯示，其預計中籤率在萬分之二至萬分之三之間，遠低於長鑫科技0.47%的中籤率水平。資料顯示，2026年以來A股新股上市首日平均漲幅高達276.04%，若以此測算，中一簽宇樹科技賬面盈利有望突破20萬元；若對標年內科創板新股首日466.61%的平均漲幅，單籤盈利可達35.18萬元。（21世紀經濟報道）
-
----
-
-### 2026-08-09 22:01:19  #MKT News
-
-【Typhoon White Dolphin triggers first numbered flood in Zhejiang canal system】Typhoon White Dolphin (the year’s 13th storm) dropped 104.8 mm of cumulative rain on the eastern Hangjiahu plain. At 20:40 on Aug 9 the Jiaxing gauge on the canal rose to 2.00 m, hitting the flood-number threshold and registering the canal system’s first numbered flood of 2026 (Hangjiahu plain Flood No.1). Forecasts call for concentrated rain over the next 24 hours; together with water-management operations, Jiaxing water level is expected to rise further.
-
----
-
-### 2026-08-09 22:00:39  #市場
-
-【受颱風“白海豚”影響 浙江運河水系發生今年第1號洪水】受今年第13號颱風“白海豚”影響，杭嘉湖東部平原累計降雨量104.8毫米。8月9日20時40分，運河水系嘉興站水位漲至2.00米，達到洪水編號標準，運河水系發生今年第1場編號洪水（杭嘉湖平原2026年第1號洪水<0809>），氣象預報未來24小時仍有集中降雨，結合水利工程排程，預報嘉興站水位仍將上漲。（央視新聞）
-
----
-
-### 2026-08-09 21:57:48  #國際
-
-【敘利亞與俄羅斯就兩處俄軍事基地達成諒解備忘錄】據敘利亞國家通訊社9日援引敘過渡政府外交部訊息，敘利亞與俄羅斯已達成一份諒解備忘錄，確認敘西部沿海地區赫梅米姆和塔爾圖斯兩處俄軍事基地的未來管理問題。根據這份諒解備忘錄，雙方同意調整改造俄羅斯在敘利亞沿海地區的軍事基地。具有軍事性質的設施將被改為聯合培訓和訓練中心。具有民用性質的設施將由敘過渡政府負責管理，主要包括赫梅米姆機場和塔爾圖斯港碼頭。相關改造工作將在3個月內完成。敘過渡政府外交部說，這份諒解備忘錄是雙方經過一年半的密集談判與磋商後達成的。（新華社）
-
----
-
-### 2026-08-09 21:56:49  #公司 #國際
-
-【俄媒稱伊朗布什爾核電站新機組建設仍在繼續】據俄羅斯媒體9日報道，俄羅斯國家原子能公司執行長利哈喬夫說，伊朗布什爾核電站2號和3號機組主廠房和輔助廠房的建設仍在繼續。利哈喬夫當日接受採訪時說，俄羅斯國家原子能公司已著手將從伊朗撤離的專家派回布什爾核電站。首批5名工程技術人員已經抵達，目前在該核電站的俄羅斯專家一共25人。第二批專家將在未來兩週內派出，人數達數十人。利哈喬夫預計，如果一切順利，今年秋季在布什爾核電站工作的俄方專家人數有望達到100人。他同時強調，“這一切的前提條件是美伊能夠就停止軍事對抗達成最終協議，雙方衝突不再升級”。布什爾核電站位於伊朗南部城市布什爾城外，建於波斯灣沿岸，是伊朗境內唯一運轉的核電站。（新華社）
 
 ---
