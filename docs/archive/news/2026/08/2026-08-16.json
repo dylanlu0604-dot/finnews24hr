@@ -1,7 +1,32 @@
 {
   "date": "2026-08-16",
-  "count": 606,
+  "count": 609,
   "items": [
+    {
+      "id": "5042866",
+      "time": "2026-08-16 21:47:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普尋求對伊朗實施陸地封鎖，但成功機率渺茫，他後續將出臺上千項針對伊朗的新制裁措施。"
+    },
+    {
+      "id": "5042865",
+      "time": "2026-08-16 21:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月17日0時至8月19日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a00ad2-42fe-7aab-904e-46655214f077",
+      "time": "2026-08-16 21:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner visits Egypt to press Gaza agreement implementation; to meet Hamas and mediators】Saudi outlet Alhadath reported Egyptian President received Trump envoy Jared Kushner in Al Alamein, where they discussed the need for parties to fulfil obligations under the Gaza agreement. Al Arabiya, citing sources, said Kushner will meet Hamas today to push the Gaza administrative committee to assume responsibilities; the committee’s Gaza senior representative Maladinov and delegations from Turkey, Egypt and Qatar will attend. Kushner and the Hamas delegation will discuss an international stabilization force, Israeli withdrawal and humanitarian aid; the stated goal is to implement the Trump plan, not to renegotiate it, with emphasis on ending the cycle of violence in Gaza."
+    },
     {
       "id": "5042864",
       "time": "2026-08-16 21:35:20",
