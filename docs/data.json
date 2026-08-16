@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-17 00:26:30",
-  "count": 15202,
+  "updated": "2026-08-17 00:30:24",
+  "count": 15201,
   "items": [
+    {
+      "id": "5042910",
+      "time": "2026-08-17 00:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平委員會要求哈馬斯著手拆除武器以及軍事基礎設施。"
+    },
+    {
+      "id": "mkt:01a00b65-4941-7aab-904f-04d7c81facad",
+      "time": "2026-08-17 00:26:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's finance minister said the government will continue to strengthen non-oil revenues to offset the impact of a blockade of the Strait of Hormuz."
+    },
     {
       "id": "5042909",
       "time": "2026-08-17 00:24:11",
@@ -139030,36 +139046,6 @@
         "其他"
       ],
       "text": "【丹麥霍爾拜克市發生槍擊事件 多人受傷】當地時間8月9日，據丹麥警方訊息，該國霍爾拜克市發生一起槍擊事件，多人受傷。警方表示，在當地時間15時45分左右接到槍擊事件警報。目前尚不清楚具體受傷人數。警方稱，槍擊事件很可能由一起“犯罪團伙交易”引發，目前尚未有人被捕。"
-    },
-    {
-      "id": "mkt:019fe75b-a902-7aab-8fca-e4fdb955363d",
-      "time": "2026-08-10 00:29:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Market sources say Tesla (TSLA.O) will increase delivery locations in Japan by 60% this year."
-    },
-    {
-      "id": "5032628",
-      "time": "2026-08-10 00:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克訊息人士：各方已達成政治協議，將於明年9月底前將各武裝派系武器移交人民動員組織。"
-    },
-    {
-      "id": "mkt:019fe759-24f2-7aab-8fca-d9b298bbd9e7",
-      "time": "2026-08-10 00:26:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraqi media cite Coordination Framework sources saying a political agreement has been reached; factions will transfer weapons to the Popular Mobilization Forces by the end of September."
     }
   ]
 }
