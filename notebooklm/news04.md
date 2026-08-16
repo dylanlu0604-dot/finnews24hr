@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 16:41:38_
-_本檔包含 3116 則快訊，約 600919 字_
+_更新時間：2026-08-16 17:00:59_
+_本檔包含 3081 則快訊，約 600300 字_
+
+---
+
+### 2026-08-12 08:07:15  #市場 #觀點
+
+【中信建投：預計近期稀土價格穩中偏強】中信建投證券研報稱，據海關總署資料，7月稀土出口量明顯回落，均價上漲。7月稀土出口量4223.5噸，同比下降29.54%，環比下降17.26%，為3月以來的單月最低水平；1—7月累計出口34706.3噸，同比下滑10%。但對應出口均價12.34美元/千克，同比大漲103.14%，出口結構向高價值中重稀土產品傾斜，海外市場接受高價原料，全球稀土供給緊張格局延續。稀土供給端暫無增量，分離企業生產穩定，前期停產企業暫無開工計劃，下游剛需支撐力度尚可，長期需求預期向好。預計近期稀土價格穩中偏強。
+
+---
+
+### 2026-08-12 08:07:03  #公司 #觀點
+
+【中信證券：儲存產業保持高景氣度，後續關注LTA進展與股東回報】中信證券研報認為，全球主要儲存公司股價6–7月的回撥並非因為業績疲軟，更多是漲價增速見頂後市場擔憂的集中釋放。總的來看，相關公司Q2業績整體符合預期，產品仍處漲價上行週期，AI驅動資料中心營收佔比持續提升。展望未來，雖然儲存產品的漲價幅度放緩，但考慮到2027年儲存行業仍處於供不應求的狀態，未來對於產業鏈公司的毛利率和盈利能力形成有效支撐。此外，針對市場關注度最高的LTA，可以看到相關公司目前正以3–5年期LTA落地鎖定大客戶需求，靈活定價機制與價格下限也有望降低盈利波動、提升估值。建議關注HDD、DRAM、NAND賽道。
+
+---
+
+### 2026-08-12 08:06:44  #國際
+
+美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆  ，在南卡羅來納州美國參議院共和黨提名中晉級決選。
+
+---
+
+### 2026-08-12 08:05:55  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Aluminum #WTI #Impact mixed
+
+【China International Capital Co: Commodity divergence to persist; AI infrastructure to support copper and aluminum demand】China International Capital Co research: commodity markets are likely to continue to diverge. AI data centers, power‑grid expansion and energy transition will support copper and aluminum demand. With supply constraints still tight, nonferrous metals combine improved liquidity and AI-driven physical investment; recommend overweight. Oil and other energy commodities retain hedging value but volatility may increase; recommend maintaining positions and avoiding chasing gains.
+
+---
+
+### 2026-08-12 08:05:07  #Trading Economics #Economy #Singapore #Current Account #Importance 1
+
+Singapore Current Account Surplus Widens in Q2 — Singapore’s current account surplus increased to SGD 37.08 billion in the second quarter of 2026, up from SGD 30.52 billion in the same period of 2025. The increase came as the goods account surplus surged to SGD 70.39 billion from SGD 60.12 billion a year earlier amid a surge in exports. Also, the services account surplus advanced to SGD 14.33 billion from SGD 12.27 billion. Additionally, the secondary income deficit narrowed to SGD 2.88 billion from SGD 4.00 billion. Meanwhile, the primary income deficit climbed to SGD 44.77 billion from SGD 37.87 billion over the same period. Last year, the country recorded a current account surplus of SGD 131.96 billion, widening slightly from SGD 131.67 billion in 2024.
+
+---
+
+### 2026-08-12 08:04:38  #國際
+
+【韓國主權財富基金將加入全球AI及機器人競賽 核能、太空和量子技術也在考慮範圍之內】韓國預計明年將向一隻瞄準AI等戰略性產業的新主權財富基金部署1萬億韓元（7.07億美元）新資金，加入了全球各國政府動員投資並搶佔高科技領域先機的行列。“現在很難給出具體細節，但明年的投資額可能在6000億到逾1萬億韓元之間，”負責創新與增長的韓國副財長Min Kyung-seol週二在接受媒體採訪時表示。他說，最終投資額有可能超過初步預期，具體將取決於確定了哪些目標以及它們的資金需求。他表示，該基金還將瞄準機器人、能源和電池，以及電網等基礎設施。核能、太空和量子技術也在考慮範圍之內。Min說，來自中東、歐洲和北美的主權財富基金和養老基金投資者已經與韓國政府接洽，探討在韓國投資以及與新基金共同投資的可能性。他拒絕透露具體投資者的身份，稱相關討論仍處於早期階段。
+
+---
+
+### 2026-08-12 08:04:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+【China International Capital Co recommends continued overweight in gold】China International Capital Co says the two narratives that had pressured gold are unraveling: global liquidity is not in a sustained tightening cycle and de-dollarization remains active. US disinflation and slower growth support a move toward easier policy, while Fed rhetoric looks hawkish but policy actions are effectively dovish; Fed reform could open space for future rate cuts. Dollar balance-sheet reduction would help restore dollar credibility in principle but faces heavy market and political constraints, and structural erosion of dollar credit from high debt, deficits and policy uncertainty is hard to reverse. Global central bank net gold purchases rebounded to 289 tonnes in Q2, up 62% YoY and a Q2 record, signalling entrenched dollar concerns and continued reserve-diversification demand for gold. With looser global liquidity reducing upward pressure on real rates and the dollar, gold should regain support from both liquidity and reserve diversification. The firm judges the gold bull market is intact, the reallocation window after the recent correction is open, and recommends maintaining an overweight in gold.
 
 ---
 
@@ -18570,257 +18612,5 @@ Brent crude futures settled at $87.72/bbl, up $4.17 or 4.99%.
 ### 2026-08-11 02:52:01  #MKT News
 
 【U.S. July average temperature highest on record since 1895】NOAA data show July was the hottest month on record for the contiguous U.S., with the lower 48 averaging 3.3°F above 20th-century levels. A prolonged, intense heat dome drove record monthly highs from the East Coast through the Great Plains and the Southwest; July’s nationwide average was roughly 0.1–0.2°F higher than previous record months in July 1936 and July 2012.
-
----
-
-### 2026-08-11 02:51:58  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's HAMMACK said markets are a complement to the Fed, not a substitute.
-
----
-
-### 2026-08-11 02:51:06  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
-
-Fed's Hammack said the labor market still shows no signs of problems.
-
----
-
-### 2026-08-11 02:50:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed's Hammack said he does not expect inf to fall on its own.
-
----
-
-### 2026-08-11 02:50:35  #央行 #國際
-
-美聯儲哈馬克：我們必須以行動兌現言辭。
-
----
-
-### 2026-08-11 02:50:16  #央行 #國際
-
-美聯儲哈馬克：市場是美聯儲的補充，而非替代品。
-
----
-
-### 2026-08-11 02:49:42  #央行 #國際
-
-美聯儲哈馬克：目前仍未看到就業市場出現問題。
-
----
-
-### 2026-08-11 02:49:42  #MKT News #Important #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's Harmak said current interest rates are not materially restraining the economy, and it is time for the Fed to act.
-
----
-
-### 2026-08-11 02:49:24  #央行 #國際
-
-美聯儲哈馬克：不認為通脹會自行回落。
-
----
-
-### 2026-08-11 02:48:05  #國際
-
-【美國7月平均氣溫重新整理1895年以來最高紀錄】美國國家海洋和大氣管理局（NOAA）釋出的資料顯示，7月是有記錄以來美國平均氣溫最高的一個月。當月出現了持續時間長且強度大的“熱穹頂”現象，導致從東海岸到大平原地區及西南部各州的氣溫均創下歷史新高。NOAA的氣溫記錄可追溯至1895年。（央視新聞）
-
----
-
-### 2026-08-11 02:47:40  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed official Harmak said several rate hikes may be required and he will not pre-judge the number of hikes or the eventual policy (terminal) rate.
-
----
-
-### 2026-08-11 02:46:37  #央行 #國際
-
-美聯儲哈馬克：現在正是我們開始行動的時候。
-
----
-
-### 2026-08-11 02:46:11  #央行 #國際
-
-美聯儲哈馬克：當前利率並未對經濟形成實質性抑制。
-
----
-
-### 2026-08-11 02:45:09  #央行 #國際
-
-美聯儲哈馬克：不想預先判定加息次數以及最終利率點位。
-
----
-
-### 2026-08-11 02:44:54  #MKT News
-
-According to a statement, a fire has broken out in diesel tanks at Libya's Zawiya oil depot; cause and extent unknown.
-
----
-
-### 2026-08-11 02:44:45  #央行 #國際
-
-美聯儲哈馬克：可能需要進行 “一定次數” 的加息。
-
----
-
-### 2026-08-11 02:44:08  #國際
-
-【美國2026財年前10個月聯邦赤字為1.8萬億美元】據美國國會預算辦公室估算，2026財年前10個月，美國聯邦預算赤字總額為1.8萬億美元。這一數字比上一財年同期的赤字高出1690億美元，收入增加了1390億美元（增幅為3%），支出增加了3080億美元（增幅為5%）。
-
----
-
-### 2026-08-11 02:43:54  #焦點 #國際
-
-【伊朗總統與最高領袖會談七八個小時】伊朗總統佩澤希齊揚8月10日表示，他近日與伊朗最高領袖穆傑塔巴·哈梅內伊舉行會談，“會談持續了七八個小時，穆傑塔巴哈健康狀況很好”。據伊朗國家媒體8月9日報道，穆傑塔巴與佩澤希齊揚舉行了會談，深入探討了伊朗當前面臨的各項挑戰，包括民生需求、伊朗所遭遇的持續不斷的侵略戰爭、未來前景、軍事發展以及與外國夥伴的經濟合作。（CCTV國際時訊）
-
----
-
-### 2026-08-11 02:41:55  #其他
-
-中國地震臺網自動測定：08月11日02時40分在四川宜賓市高縣附近（北緯28.56度，東經104.66度）發生4.0級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-11 02:41:31  #宏觀 #國際
-
-【美政府自去年初以來已吊銷逾17.5萬份非移民簽證 】美國國務院10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。（新華社）
-
----
-
-### 2026-08-11 02:38:00  #市場 #焦點
-
-紐約期金突破4440美元/盎司，日內漲0.92%。
-
----
-
-### 2026-08-11 02:37:45  #MKT News
-
-Todd Blanche was formally sworn in as U.S. attorney general.
-
----
-
-### 2026-08-11 02:37:12  #國際
-
-美國農業機構：用於防治螺旋蠅的得克薩斯州不育蠅設施將於 2027 年春季啟用。
-
----
-
-### 2026-08-11 02:36:41  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #WTI
-
-【Night session main contracts close】As of 02:30 close, SHFE gold front contract rose 0.66% to 950 yuan/gram; SHFE silver front contract rose 1.89% to 15,884 yuan/kg; Shanghai crude (SC) front contract rose 4.06% to 554 yuan/barrel.
-
----
-
-### 2026-08-11 02:35:59  #國際
-
-白宮新聞秘書萊維特：布蘭奇已宣誓就任美國司法部長。
-
----
-
-### 2026-08-11 02:35:51  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D closed up 0.69% at 947.62 yuan/gram in Monday evening trade on Aug 10; Shanghai Gold Exchange Silver T+D closed up 1.79% at 15,830 yuan/kg.
-
----
-
-### 2026-08-11 02:34:49  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver's intraday gain widened to 3.00%, trading at $65.44/oz.
-
----
-
-### 2026-08-11 02:34:44  #市場 #焦點
-
-現貨黃金突破4380美元/盎司，日內漲0.90%。
-
----
-
-### 2026-08-11 02:34:36  #市場
-
-現貨白銀日內漲3%，現報65.44美元/盎司。
-
----
-
-### 2026-08-11 02:34:24  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures settled at $82.13/bbl, up $3.95 or 5.05%.
-
----
-
-### 2026-08-11 02:32:16  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose $15 intraday to trade above $4,380/oz, up 0.90% on the day.
-
----
-
-### 2026-08-11 02:31:28  #市場 #焦點
-
-現貨黃金突破4370美元/盎司，日內漲0.67%。
-
----
-
-### 2026-08-11 02:31:23  #市場 #焦點
-
-紐約期金突破4430美元/盎司，日內漲0.75%。
-
----
-
-### 2026-08-11 02:31:00  #市場
-
-WTI 9月原油期貨收報82.13美元/桶。NYMEX 9月天然氣期貨收報2.7940美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.1354美元/加侖，NYMEX 9月取暖油期貨收報4.1898美元/加侖。
-
----
-
-### 2026-08-11 02:30:07  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 1.98% — Top crypto losers are Ether (-1.98%) and Bitcoin (-1.54%).
-
----
-
-### 2026-08-11 02:30:03  #市場
-
-上期所原油期貨夜盤收漲4.06%，報553.70元人民幣/桶。滬金夜盤收漲0.66%，滬銀收漲1.89%。
-
----
-
-### 2026-08-11 02:28:04  #MKT News #Market Themes #AI Revolution
-
-OpenAI said GPT-5.6-Cyber did not participate in exploiting a vulnerability to attack Hugging Face, and no other upcoming models were involved in the incident.
-
----
-
-### 2026-08-11 02:27:59  #其他
-
-OpenAI：GPT‑5.6‑CYBER 並未被用於攻擊 Hugging Face，計劃即將釋出的其他模型也未參與此事。
-
----
-
-### 2026-08-11 02:27:26  #其他
-
-哥倫比亞總統阿韋拉多·德拉埃斯普列亞當地時間8月10日下午表示，當天早上發生的強烈地震已造成111人遇難。（CCTV國際時訊）
-
----
-
-### 2026-08-11 02:27:05  #其他
-
-OpenAI：強烈建議使用Codex的Daybreak客戶，透過應用預設設定和介面功能，將“完全訪問模式”切換至“自動審查模式”。自2026年9月1日起，要求Daybreak中的所有個人賬戶啟用硬體安全金鑰。
-
----
-
-### 2026-08-11 02:26:50  #MKT News
-
-OpenAI said it will require all personal accounts on Daybreak to enable hardware security keys from Sept. 1, 2026.
-
----
-
-### 2026-08-11 02:26:42  #MKT News #Market Themes #AI Revolution
-
-OpenAI strongly recommends Daybreak customers using Codex switch 'Full Access Mode' to 'Auto-Moderation Mode' via default settings and the user interface.
-
----
-
-### 2026-08-11 02:25:11  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Approaches $88 — Brent rose approached $88 a barrel on Monday, extending gains for a fourth consecutive session and reaching its highest level in almost two weeks, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues.
 
 ---

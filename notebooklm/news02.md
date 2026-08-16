@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 16:41:38_
-_本檔包含 3159 則快訊，約 601215 字_
+_更新時間：2026-08-16 17:00:59_
+_本檔包含 3150 則快訊，約 601185 字_
+
+---
+
+### 2026-08-14 12:19:24  #公司
+
+【SK海力士考慮合資建儲存晶片工廠 降低資本支出和產能過剩風險】SK集團董事長崔泰源接受媒體採訪時表示，SK海力士正考慮以合資方式建設新的儲存晶片工廠，以降低傳統行業盛衰週期下鉅額資本支出和產能過剩帶來的風險。崔泰源還警告稱，目前儲存晶片供應緊張的局面將在2027年進一步加劇。
+
+---
+
+### 2026-08-14 12:18:50  #公司
+
+據知情人士透露，亞洲私募股權公司Trustar Capital正接近達成收購阿里巴巴集團遊戲業務的交易。上述人士表示，Trustar已擊敗包括其他遊戲開發商在內的多家競購方，成為收購靈犀互娛（Lingxi Games）最有可能的買家。由於資訊敏感，這些人士要求匿名。此次交易可能使該工作室估值超過15億美元。他們還表示，目前相關談判仍在進行中，尚未做出最終決定。
+
+---
+
+### 2026-08-14 12:17:41  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Rises on Improving Fundamentals — Iron ore futures climbed above CNY 710 per ton, recovering modestly from multi-month lows as signs of tightening supply and improving steel demand in top consumer China provided support. Industry data showed iron ore inventories at major Chinese ports edged down to around 156.8 million tons, pointing to potentially tighter supply conditions in the coming weeks. Daily hot metal production at Chinese steel mills also increased to 2.38 million tons, up 0.17 million tons from the previous week, while mill profitability improved to 33.77%, rising 1.74 percentage points from the previous month. Meanwhile, the People’s Bank of China is set to conduct a 1 trillion yuan reverse repurchase operation, which could provide additional support to economic activity by improving liquidity and credit availability.
+
+---
+
+### 2026-08-14 12:16:41  #MKT News #Star Stocks #JD.com #Hang Seng Index #Impact bearish #09618.HK #00001.HK
+
+【Hong Kong midday: Hang Seng slips 0.93% as JD.com falls over 10% post-results】Hang Seng Index extended weakness, opening about 200 points down, briefly cutting losses to under 100 before resuming decline; at the midday close the index fell 0.93% to 25,160.25. Hang Seng Tech Index lost 1.79% to 4,706.73. Market turnover was HKD 135.7 bln. Sector flows: gold and nonferrous metals outperformed, optical communications and memory-chip names popped then faded, while internet and innovative-drug stocks weakened. Notable movers: China Gold International (02099.HK) +12.93%, GigaDevice Semiconductor (03986.HK) +2.30%, SMIC (00981.HK) +1.92% after results, JD.com (09618.HK) -10.08% post-results, CK Hutchison (00001.HK) -5.12% post-results, Akeso (09926.HK) -6.08%.
+
+---
+
+### 2026-08-14 12:16:03  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #GS.O
+
+【Goldman in talks to join NVIDIA $500 billion AI financing plan - sources】Goldman Sachs is negotiating with potential investors to participate in NVIDIA’s roughly $500 billion third‑party capital raise for AI infrastructure, people familiar with the matter said. Sources said U.S. insurers, asset managers and banks are expected to form the core investor group, and asset managers plan to take a large share. NVIDIA on Aug. 10 said it had partnered with six major financial firms, including Goldman, to launch a computing platform aimed at raising over $500 billion for AI infrastructure. One source said Goldman Asset Management could supply subordinated capital and private credit, while Goldman’s investment banking arm could help allocate debt to private credit funds and ultimately into the public bond market.
 
 ---
 
@@ -18939,89 +18969,5 @@ Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying 
 ### 2026-08-13 10:54:54  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
 
 【Reserve Bank of Australia assistant governor says policy currently contractionary】Reserve Bank of Australia Assistant Governor Chris Kent said monetary policy is currently contractionary, with three rate rises earlier this year now restraining the economy. Borrowing costs and mortgage repayments have risen, the mature housing market has weakened, and the AUD’s year-to-date appreciation has amplified the effect. Kent said evidence suggests overall demand growth appears to be slowing — a development policymakers want and see as necessary to bring inflation back to target.
-
----
-
-### 2026-08-13 10:54:46  #其他
-
-【港股有色金屬股走低 中國鋁業跌近6%】截至發稿，中國鋁業(02600.HK)跌5.81%，中國有色礦業(01258.HK)跌5.55%，中國洪橋(01378.HK)跌5.16%。
-
----
-
-### 2026-08-13 10:54:41  #國際
-
-【美媒爆料：美軍“林肯”號航母部署中東海上時長“破紀錄”，艦上多名水兵試圖跳海自殺】據美國《星條旗報》、《海軍時報》等媒體當地時間8月12日報道，由於伊朗局勢緊張，美國“亞伯拉罕·林肯”號航母長期被部署在中東地區，並且已連續約250天未靠岸——創下現代航母紀錄，艦上的惡劣條件和士兵的心理壓力已達到臨界點，多名水兵試圖跳海自殺。（環球網）
-
----
-
-### 2026-08-13 10:53:54  #MKT News #Market Regions #Greater China #000895.SZ #Impact bullish
-
-China A-share meat-products sector jumped ahead of midday trade; Delis hit the daily limit, while Guangming Meat, Huatong, Guanghong Holdings, Shuanghui Development and Yike Food also rallied.
-
----
-
-### 2026-08-13 10:53:31  #國際
-
-【連雲港至儀徵原油管道首段投產運營】8月13日，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連淮段投產成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。
-
----
-
-### 2026-08-13 10:53:17  #公司 #市場
-
-【肉製品板塊直線拉昇，得利斯漲停】肉製品板塊直線拉昇，得利斯漲停，光明肉業、華統股份、廣弘控股、雙匯發展、益客食品等紛紛走高。
-
----
-
-### 2026-08-13 10:53:10  #公司 #國際
-
-【日企被判賠償韓國強徵勞工受害者】韓國大法院、也就是最高法院8月12日就“二戰中遭日本強徵勞工受害者遺屬對日本製鐵公司提起的索賠訴訟案”作出終審判決，維持二審判決結果，要求被告賠償8000萬韓元，約合38萬元人民幣。（CCTV國際時訊）
-
----
-
-### 2026-08-13 10:50:10  #宏觀
-
-【中央生態環境保護督察已實現三輪全覆蓋】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會，會上介紹，中央生態環境保護督察已走過10年曆程。十年磨一劍！已經實現三輪對全國31個省（區、市）和新疆生產建設兵團的全覆蓋例行督察。自2015年在河北省試點以來，中央生態環境保護督察已查實一大批突出問題，公開曝光349個典型案例，向被督察物件交辦6475項整改任務，受理轉辦38萬件群眾信訪舉報。在督察強力推動下，過去那種性質惡劣、情節嚴重的問題已經大幅減少，不少區域性、流域性的共性問題得到有效解決，人民群眾生態環境獲得感、幸福感、安全感明顯提升，督察利劍作用得到有效發揮。
-
----
-
-### 2026-08-13 10:49:51  #市場 #焦點
-
-純鹼連續主力合約日內跌3%，現報960.00元。
-
----
-
-### 2026-08-13 10:49:19  #公司
-
-【鎵仁半導體完成數億元A輪融資】近日，杭州鎵仁半導體有限公司（簡稱“鎵仁半導體”）宣佈完成數億元A輪融資。本輪由方廣資本、深創投集團聯合領投，遠致星火、中國中車、株洲高科產投、華睿投資、餘杭金控、傳化資本、嘉道資本跟投，原有股東九智資本、毅嶺資本同步超額追加。據鎵仁半導體介紹，本輪資金將重點投向氧化鎵產業化推進：一是支援下游晶片客戶完成器件驗證，協同打通“襯底外延－晶片器件－終端應用”全鏈路，推動終端示範應用；二是擴大6/8英寸襯底及外延量產產能，以更高良率和交付效率滿足客戶持續增長的訂單需求。
-
----
-
-### 2026-08-13 10:49:13  #公司
-
-【歐亞經濟聯盟對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查】據中國貿易救濟資訊網，8月11日，歐亞經濟委員會內部市場保護司釋出第2026/500/AD38R1號公告，應歐亞經濟聯盟生產商申請，對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查。涉案產品為乾量計二氧化鈦大於等於80％的顏料，涉及歐亞經濟聯盟稅號3206110000項下的產品，但不包括用於生產香料及化妝品、藥品和食品的二氧化鈦。案件調查期間，暫停徵收反傾銷稅。公告自發布之日起生效。
-
----
-
-### 2026-08-13 10:48:32  #公司
-
-【千問開放平臺上線菜鳥智慧體】8月13日，據千問APP訊息，千問開放平臺近日上線菜鳥智慧體。提出寄件需求就能讓菜鳥智慧體根據物品型別、價格要求、上門時間等，找到合適的寄件方案和快遞公司。
-
----
-
-### 2026-08-13 10:45:44  #公司 #市場
-
-【港股PCB概念股走強 大族數控漲超8%】截至發稿，大族數控(03200.HK)漲8.14%，廣合科技(01989.HK)漲6.98%，建滔積層板(01888.HK)漲2.95%，建滔集團(00148.HK)漲1.32%。
-
----
-
-### 2026-08-13 10:45:13  #MKT News
-
-【China drafting next-stage air-quality improvement action plan】The State Council Information Office said on the 13th that China has made notable progress on air-pollution control but must not relax. Authorities are fast-tracking a new action plan to sustain air-quality improvement; the Blue Sky campaign will focus on higher standards, more precise measures and a more scientific approach.
-
----
-
-### 2026-08-13 10:44:14  #宏觀
-
-【我國新一輪空氣質量持續改善行動方案正在制定】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，我國大氣汙染治理成績喜人，但目前還不能有鬆口氣、歇歇腳的想法，仍要保持耐心和定力。目前，新一輪空氣質量持續改善行動方案正在抓緊制定，藍天保衛戰將重點在“更高、更準、更科學”上下功夫。標準要求更高。以PM2.5治理為主線，以新修訂的《環境空氣質量標準》為引領，按照《美麗中國建設“十五五”規劃》提出的空氣質量改善目標，收嚴PM2.5濃度限值，並同步加嚴其他汙染物的濃度限值，推動環境空氣質量從明顯變好邁向好上加好、好而持久。分割槽施策會更準。主要抓三大區域，對於京津冀及周邊、長三角和汾渭平原等重點區域，保持方向不變、力度不減；將長江中游城市群、川渝地區、新疆“烏—昌—石”區域作為強化區域，對標重點區域全面提升治理效能；將粵港澳大灣區、福建、海南作為先行區域，對標世界一流水平，探索低濃度條件下的改善路徑。透過分割槽分類、梯次推進，實現空氣質量全域提升。路徑措施更加科學。堅持結構轉型和汙染減排“兩手抓”，持續推動產業、能源、交通運輸結構最佳化調整，加強重點行業、領域、環節治理減排，謀劃開展一批重點行動、實施一批重大工程，推動汙染物排放持續下降。同時，還將加強支撐保障，制修訂相關汙染排放標準，創新財稅、價格、金融、環保等差異化管理政策，加快推進監測數智化轉型和非現場執法“兩場變革”，提升精細、高效、智慧監管水平，推動空氣質量持續改善。
 
 ---

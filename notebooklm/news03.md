@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 16:41:38_
-_本檔包含 3001 則快訊，約 602352 字_
+_更新時間：2026-08-16 17:00:59_
+_本檔包含 3008 則快訊，約 601575 字_
+
+---
+
+### 2026-08-13 10:54:46  #其他
+
+【港股有色金屬股走低 中國鋁業跌近6%】截至發稿，中國鋁業(02600.HK)跌5.81%，中國有色礦業(01258.HK)跌5.55%，中國洪橋(01378.HK)跌5.16%。
+
+---
+
+### 2026-08-13 10:54:41  #國際
+
+【美媒爆料：美軍“林肯”號航母部署中東海上時長“破紀錄”，艦上多名水兵試圖跳海自殺】據美國《星條旗報》、《海軍時報》等媒體當地時間8月12日報道，由於伊朗局勢緊張，美國“亞伯拉罕·林肯”號航母長期被部署在中東地區，並且已連續約250天未靠岸——創下現代航母紀錄，艦上的惡劣條件和士兵的心理壓力已達到臨界點，多名水兵試圖跳海自殺。（環球網）
+
+---
+
+### 2026-08-13 10:53:54  #MKT News #Market Regions #Greater China #000895.SZ #Impact bullish
+
+China A-share meat-products sector jumped ahead of midday trade; Delis hit the daily limit, while Guangming Meat, Huatong, Guanghong Holdings, Shuanghui Development and Yike Food also rallied.
+
+---
+
+### 2026-08-13 10:53:31  #國際
+
+【連雲港至儀徵原油管道首段投產運營】8月13日，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連淮段投產成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。
+
+---
+
+### 2026-08-13 10:53:17  #公司 #市場
+
+【肉製品板塊直線拉昇，得利斯漲停】肉製品板塊直線拉昇，得利斯漲停，光明肉業、華統股份、廣弘控股、雙匯發展、益客食品等紛紛走高。
+
+---
+
+### 2026-08-13 10:53:10  #公司 #國際
+
+【日企被判賠償韓國強徵勞工受害者】韓國大法院、也就是最高法院8月12日就“二戰中遭日本強徵勞工受害者遺屬對日本製鐵公司提起的索賠訴訟案”作出終審判決，維持二審判決結果，要求被告賠償8000萬韓元，約合38萬元人民幣。（CCTV國際時訊）
+
+---
+
+### 2026-08-13 10:50:10  #宏觀
+
+【中央生態環境保護督察已實現三輪全覆蓋】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會，會上介紹，中央生態環境保護督察已走過10年曆程。十年磨一劍！已經實現三輪對全國31個省（區、市）和新疆生產建設兵團的全覆蓋例行督察。自2015年在河北省試點以來，中央生態環境保護督察已查實一大批突出問題，公開曝光349個典型案例，向被督察物件交辦6475項整改任務，受理轉辦38萬件群眾信訪舉報。在督察強力推動下，過去那種性質惡劣、情節嚴重的問題已經大幅減少，不少區域性、流域性的共性問題得到有效解決，人民群眾生態環境獲得感、幸福感、安全感明顯提升，督察利劍作用得到有效發揮。
+
+---
+
+### 2026-08-13 10:49:51  #市場 #焦點
+
+純鹼連續主力合約日內跌3%，現報960.00元。
+
+---
+
+### 2026-08-13 10:49:19  #公司
+
+【鎵仁半導體完成數億元A輪融資】近日，杭州鎵仁半導體有限公司（簡稱“鎵仁半導體”）宣佈完成數億元A輪融資。本輪由方廣資本、深創投集團聯合領投，遠致星火、中國中車、株洲高科產投、華睿投資、餘杭金控、傳化資本、嘉道資本跟投，原有股東九智資本、毅嶺資本同步超額追加。據鎵仁半導體介紹，本輪資金將重點投向氧化鎵產業化推進：一是支援下游晶片客戶完成器件驗證，協同打通“襯底外延－晶片器件－終端應用”全鏈路，推動終端示範應用；二是擴大6/8英寸襯底及外延量產產能，以更高良率和交付效率滿足客戶持續增長的訂單需求。
+
+---
+
+### 2026-08-13 10:49:13  #公司
+
+【歐亞經濟聯盟對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查】據中國貿易救濟資訊網，8月11日，歐亞經濟委員會內部市場保護司釋出第2026/500/AD38R1號公告，應歐亞經濟聯盟生產商申請，對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查。涉案產品為乾量計二氧化鈦大於等於80％的顏料，涉及歐亞經濟聯盟稅號3206110000項下的產品，但不包括用於生產香料及化妝品、藥品和食品的二氧化鈦。案件調查期間，暫停徵收反傾銷稅。公告自發布之日起生效。
+
+---
+
+### 2026-08-13 10:48:32  #公司
+
+【千問開放平臺上線菜鳥智慧體】8月13日，據千問APP訊息，千問開放平臺近日上線菜鳥智慧體。提出寄件需求就能讓菜鳥智慧體根據物品型別、價格要求、上門時間等，找到合適的寄件方案和快遞公司。
+
+---
+
+### 2026-08-13 10:45:44  #公司 #市場
+
+【港股PCB概念股走強 大族數控漲超8%】截至發稿，大族數控(03200.HK)漲8.14%，廣合科技(01989.HK)漲6.98%，建滔積層板(01888.HK)漲2.95%，建滔集團(00148.HK)漲1.32%。
+
+---
+
+### 2026-08-13 10:45:13  #MKT News
+
+【China drafting next-stage air-quality improvement action plan】The State Council Information Office said on the 13th that China has made notable progress on air-pollution control but must not relax. Authorities are fast-tracking a new action plan to sustain air-quality improvement; the Blue Sky campaign will focus on higher standards, more precise measures and a more scientific approach.
+
+---
+
+### 2026-08-13 10:44:14  #宏觀
+
+【我國新一輪空氣質量持續改善行動方案正在制定】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，我國大氣汙染治理成績喜人，但目前還不能有鬆口氣、歇歇腳的想法，仍要保持耐心和定力。目前，新一輪空氣質量持續改善行動方案正在抓緊制定，藍天保衛戰將重點在“更高、更準、更科學”上下功夫。標準要求更高。以PM2.5治理為主線，以新修訂的《環境空氣質量標準》為引領，按照《美麗中國建設“十五五”規劃》提出的空氣質量改善目標，收嚴PM2.5濃度限值，並同步加嚴其他汙染物的濃度限值，推動環境空氣質量從明顯變好邁向好上加好、好而持久。分割槽施策會更準。主要抓三大區域，對於京津冀及周邊、長三角和汾渭平原等重點區域，保持方向不變、力度不減；將長江中游城市群、川渝地區、新疆“烏—昌—石”區域作為強化區域，對標重點區域全面提升治理效能；將粵港澳大灣區、福建、海南作為先行區域，對標世界一流水平，探索低濃度條件下的改善路徑。透過分割槽分類、梯次推進，實現空氣質量全域提升。路徑措施更加科學。堅持結構轉型和汙染減排“兩手抓”，持續推動產業、能源、交通運輸結構最佳化調整，加強重點行業、領域、環節治理減排，謀劃開展一批重點行動、實施一批重大工程，推動汙染物排放持續下降。同時，還將加強支撐保障，制修訂相關汙染排放標準，創新財稅、價格、金融、環保等差異化管理政策，加快推進監測數智化轉型和非現場執法“兩場變革”，提升精細、高效、智慧監管水平，推動空氣質量持續改善。
 
 ---
 
@@ -18070,47 +18154,5 @@ Australia's S&P/ASX 200 opened down 46.7 points, or 0.50%, at 9,203.90 on Aug. 1
 ### 2026-08-12 08:07:59  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
 
 【CITIC Securities: Storage sector remains highly buoyant; monitor LTA progress and shareholder returns】CITIC Securities said the June–July pullback in major global storage stocks reflected market unwinding after peak price momentum rather than weak earnings. Q2 results broadly met expectations; product prices remain in an upcycle and AI is raising data-center revenue share. While price increases are moderating, the report sees the industry in structural undersupply through 2027, providing support for chain-wide gross margins and profitability. Suppliers are signing 3–5-year LTAs to lock in large customers; flexible pricing mechanisms and price floors should reduce earnings volatility and lift valuations. The firm favors exposure to HDD, DRAM and NAND and flags LTA progress and shareholder-return signals as key follow-ups.
-
----
-
-### 2026-08-12 08:07:15  #市場 #觀點
-
-【中信建投：預計近期稀土價格穩中偏強】中信建投證券研報稱，據海關總署資料，7月稀土出口量明顯回落，均價上漲。7月稀土出口量4223.5噸，同比下降29.54%，環比下降17.26%，為3月以來的單月最低水平；1—7月累計出口34706.3噸，同比下滑10%。但對應出口均價12.34美元/千克，同比大漲103.14%，出口結構向高價值中重稀土產品傾斜，海外市場接受高價原料，全球稀土供給緊張格局延續。稀土供給端暫無增量，分離企業生產穩定，前期停產企業暫無開工計劃，下游剛需支撐力度尚可，長期需求預期向好。預計近期稀土價格穩中偏強。
-
----
-
-### 2026-08-12 08:07:03  #公司 #觀點
-
-【中信證券：儲存產業保持高景氣度，後續關注LTA進展與股東回報】中信證券研報認為，全球主要儲存公司股價6–7月的回撥並非因為業績疲軟，更多是漲價增速見頂後市場擔憂的集中釋放。總的來看，相關公司Q2業績整體符合預期，產品仍處漲價上行週期，AI驅動資料中心營收佔比持續提升。展望未來，雖然儲存產品的漲價幅度放緩，但考慮到2027年儲存行業仍處於供不應求的狀態，未來對於產業鏈公司的毛利率和盈利能力形成有效支撐。此外，針對市場關注度最高的LTA，可以看到相關公司目前正以3–5年期LTA落地鎖定大客戶需求，靈活定價機制與價格下限也有望降低盈利波動、提升估值。建議關注HDD、DRAM、NAND賽道。
-
----
-
-### 2026-08-12 08:06:44  #國際
-
-美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆  ，在南卡羅來納州美國參議院共和黨提名中晉級決選。
-
----
-
-### 2026-08-12 08:05:55  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Aluminum #WTI #Impact mixed
-
-【China International Capital Co: Commodity divergence to persist; AI infrastructure to support copper and aluminum demand】China International Capital Co research: commodity markets are likely to continue to diverge. AI data centers, power‑grid expansion and energy transition will support copper and aluminum demand. With supply constraints still tight, nonferrous metals combine improved liquidity and AI-driven physical investment; recommend overweight. Oil and other energy commodities retain hedging value but volatility may increase; recommend maintaining positions and avoiding chasing gains.
-
----
-
-### 2026-08-12 08:05:07  #Trading Economics #Economy #Singapore #Current Account #Importance 1
-
-Singapore Current Account Surplus Widens in Q2 — Singapore’s current account surplus increased to SGD 37.08 billion in the second quarter of 2026, up from SGD 30.52 billion in the same period of 2025. The increase came as the goods account surplus surged to SGD 70.39 billion from SGD 60.12 billion a year earlier amid a surge in exports. Also, the services account surplus advanced to SGD 14.33 billion from SGD 12.27 billion. Additionally, the secondary income deficit narrowed to SGD 2.88 billion from SGD 4.00 billion. Meanwhile, the primary income deficit climbed to SGD 44.77 billion from SGD 37.87 billion over the same period. Last year, the country recorded a current account surplus of SGD 131.96 billion, widening slightly from SGD 131.67 billion in 2024.
-
----
-
-### 2026-08-12 08:04:38  #國際
-
-【韓國主權財富基金將加入全球AI及機器人競賽 核能、太空和量子技術也在考慮範圍之內】韓國預計明年將向一隻瞄準AI等戰略性產業的新主權財富基金部署1萬億韓元（7.07億美元）新資金，加入了全球各國政府動員投資並搶佔高科技領域先機的行列。“現在很難給出具體細節，但明年的投資額可能在6000億到逾1萬億韓元之間，”負責創新與增長的韓國副財長Min Kyung-seol週二在接受媒體採訪時表示。他說，最終投資額有可能超過初步預期，具體將取決於確定了哪些目標以及它們的資金需求。他表示，該基金還將瞄準機器人、能源和電池，以及電網等基礎設施。核能、太空和量子技術也在考慮範圍之內。Min說，來自中東、歐洲和北美的主權財富基金和養老基金投資者已經與韓國政府接洽，探討在韓國投資以及與新基金共同投資的可能性。他拒絕透露具體投資者的身份，稱相關討論仍處於早期階段。
-
----
-
-### 2026-08-12 08:04:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
-
-【China International Capital Co recommends continued overweight in gold】China International Capital Co says the two narratives that had pressured gold are unraveling: global liquidity is not in a sustained tightening cycle and de-dollarization remains active. US disinflation and slower growth support a move toward easier policy, while Fed rhetoric looks hawkish but policy actions are effectively dovish; Fed reform could open space for future rate cuts. Dollar balance-sheet reduction would help restore dollar credibility in principle but faces heavy market and political constraints, and structural erosion of dollar credit from high debt, deficits and policy uncertainty is hard to reverse. Global central bank net gold purchases rebounded to 289 tonnes in Q2, up 62% YoY and a Q2 record, signalling entrenched dollar concerns and continued reserve-diversification demand for gold. With looser global liquidity reducing upward pressure on real rates and the dollar, gold should regain support from both liquidity and reserve diversification. The firm judges the gold bull market is intact, the reallocation window after the recent correction is open, and recommends maintaining an overweight in gold.
 
 ---
