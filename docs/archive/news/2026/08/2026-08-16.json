@@ -1,7 +1,60 @@
 {
   "date": "2026-08-16",
-  "count": 599,
+  "count": 604,
   "items": [
+    {
+      "id": "5042862",
+      "time": "2026-08-16 21:32:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗稱霍爾木茲海峽是結束戰爭的籌碼、"
+    },
+    {
+      "id": "5042861",
+      "time": "2026-08-16 21:32:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們與國內任何一方均無分歧，各方正在尋求能夠解決國家問題。"
+    },
+    {
+      "id": "mkt:01a00ac4-55e6-7aab-904e-39658f106aaf",
+      "time": "2026-08-16 21:30:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants",
+        "WTI",
+        "Impact mixed",
+        "DXY",
+        "EURUSD"
+      ],
+      "text": "【Weekly preview: China July economic 'report card'; Alibaba, Baidu earnings; Fed minutes; US warned of 'unprecedented' economic strike on Iran】Key market-moving items next week: China releases July retail sales, industrial output and total electricity consumption (Monday) — the closest thing to a July economic 'report card' for asset and policy watchers. The PBOC will conduct overnight reverse repos Aug 17–19, and China publishes Swift RMB global payments share and the 1-year LPR on Thursday. The Fed releases meeting minutes on Thursday. US energy inventories (API and EIA crude) are due Wednesday; NYMEX September crude contract rolls on Friday. US labor and activity data include ADP payrolls, housing starts/permits and pending home sales (Tuesday), initial jobless claims and the Philadelphia Fed index (Thursday), and S&P Global August manufacturing and services PMIs (Friday, flash). Europe and UK: German/euro-area ZEW (Tue), UK and euro-area CPI (UK on Wed; euro-area final CPI Wed), and preliminary Aug manufacturing PMIs across major European economies and UK on Friday. Other data: Canada July CPI (Mon), Japan July core CPI (Fri), Australia July unemployment (Thu), euro-area current account (Wed), and US leading indicators (Thu). Corporate calendar: major China/HK earnings include Geely (Mon); Baidu and Xiaomi (Tue); Kuaishou, ZTO, Kingsoft, HKEX and Weibo (Wed); Ping An, China Telecom, NetEase, Alibaba, AIA, Li Ning, Pop Mart and Futu (Thu); ZTE, Sinopec and Beike (Fri). Events and policy signals: ECB President Lagarde speaks at a WEF panel on global economic outlook (Wed); Seoul AI Summit runs Aug 19–21 and the World Robot Conference Aug 19–23 (sector sentiment). Geopolitical risk: market commentary flagged by Bessent warning of a possible 'unprecedented' US economic strike on Iran this week — presented as a forecast/preview, not an official action."
+    },
+    {
+      "id": "5042860",
+      "time": "2026-08-16 21:29:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威加斯科公司計劃於8月17日04:00至8月18日04:00停運卡爾斯托氣田，天然氣日供氣量減少500萬立方米。"
+    },
+    {
+      "id": "5042859",
+      "time": "2026-08-16 21:29:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們本應擁有足以令敵人不敢膽敢襲擊我國領土的軍事能力。"
+    },
     {
       "id": "5042858",
       "time": "2026-08-16 21:26:25",
