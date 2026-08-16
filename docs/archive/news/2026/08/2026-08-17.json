@@ -1,7 +1,31 @@
 {
   "date": "2026-08-17",
-  "count": 73,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:01a00bef-7999-7aab-9050-1dd6f5c929dd",
+      "time": "2026-08-17 02:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News reported Iranian parliament speaker Ghalibaf said this is the US and Israeli regimes' most painful defeat."
+    },
+    {
+      "id": "5042937",
+      "time": "2026-08-17 02:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長：美以未能實現任何既定目標，伊朗已贏得這場戰爭】伊朗議長卡利巴夫表示：“在這場戰爭中，我們確實在軍事和政治兩條戰線上都取得了真正的勝利。這並不意味著我們摧毀了美軍。美國和以色列帶著九個明確的、公開宣佈的目標來攻擊我們，但他們在任何層面上都未能實現這九個目標中的任何一個。這是美國和以色列遭遇的最徹底的絕對失敗。在外交領域，同樣如此。”"
+    },
+    {
+      "id": "mkt:01a00bef-08b7-7aab-9050-1178c605d441",
+      "time": "2026-08-17 02:56:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported Iranian parliament speaker Ghalibaf said Iran has won the war militarily and politically, adding this does not mean Iran destroyed the US military; rather, he said the US and Israel attacked with nine publicly stated objectives and failed to achieve any of them at any level."
+    },
     {
       "id": "mkt:01a00bed-8539-7aab-9050-092c3ca537a2",
       "time": "2026-08-17 02:55:10",
