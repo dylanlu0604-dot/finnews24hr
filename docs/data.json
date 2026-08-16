@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-16 23:17:41",
+  "updated": "2026-08-16 23:21:36",
   "count": 15189,
   "items": [
+    {
+      "id": "5042890",
+      "time": "2026-08-16 23:18:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：打擊了敖德薩西部一處烏克蘭無人艇生產設施。"
+    },
     {
       "id": "mkt:01a00b23-4133-7aab-904e-8127ee706f62",
       "time": "2026-08-16 23:14:14",
@@ -138948,19 +138956,6 @@
         "國際"
       ],
       "text": "俄羅斯或於2027年將外籍車牌車輛繳納交通罰單的期限由60天縮短至1天。逾期繳納後，相關車輛將被扣留，直至罰單繳清。"
-    },
-    {
-      "id": "mkt:019fe71b-a283-7aab-8fca-84c859d7a061",
-      "time": "2026-08-09 23:19:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran parliamentary committee approves Strait of Hormuz security and development action-plan outline】On the 9th, Iran’s parliamentary National Security and Foreign Policy Committee approved an outline of a strategic action plan to ensure the security and development of the Strait of Hormuz."
     }
   ]
 }
