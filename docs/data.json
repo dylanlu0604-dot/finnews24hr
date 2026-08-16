@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 08:02:51",
+  "updated": "2026-08-16 08:06:40",
   "count": 15258,
   "items": [
+    {
+      "id": "5042488",
+      "time": "2026-08-16 08:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7個月廈門進出口超6000億元】據廈門海關統計，1—7月，廈門市進出口6075.5億元，同比增長12.1%。其中出口3207.4億元，同比增長5%；進口2868.1億元，同比增長21.3%。值得關注的是，7月進出口規模達965.9億元，創單月歷史新高。"
+    },
+    {
+      "id": "5042487",
+      "time": "2026-08-16 08:03:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建：先進結構材料圍繞航空航天、深遠海裝備等需求，拓展高價值環節與高效能產品】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 立足福建戰略性礦產資源稟賦，發揮龍頭企業牽引能力，培育能源與電子材料、先進結構材料、先進化工材料、前沿新材料四大賽道，推動新材料基礎研究、中試驗證、規模製造與市場應用全鏈條發展，打造特色鮮明、競爭力強的新型功能材料產業叢集。其中，能源與電子材料圍繞新能源與半導體等產業需求，打造具有全球影響力的能源電子關鍵材料供給基地；先進結構材料圍繞航空航天、深遠海裝備等需求，拓展高價值環節與高效能產品；先進化工材料聚焦高階精細化學品和化工新材料，推動基礎原料向高附加值環節延伸；前沿新材料以場景牽引前沿技術產業化應用，提升基礎研究、概念驗證與中試生產能力。"
+    },
     {
       "id": "5042486",
       "time": "2026-08-16 08:00:37",
@@ -139629,23 +139645,6 @@
         "國際"
       ],
       "text": "【日本熊本縣發生4.2級地震】據日本氣象廳訊息，當地時間9日8時02分左右，日本熊本縣天草、蘆北地區發生4.2級地震，最大震感為震度4，震源深度10公里。（央視新聞）"
-    },
-    {
-      "id": "5032162",
-      "time": "2026-08-09 08:03:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【格陵蘭島就未獲許可準備鑽探一事向一家美國石油公司發出嚴厲警告】據報道，總部位於得克薩斯州的“格陵蘭能源”公司（ Greenland Energy） 在格陵蘭偏遠地區詹姆斯地（Jameson Land）海岸卸下了鑽探裝置，該公司認為當地可能存在大量石油儲量。格陵蘭政府發出“嚴肅警告”，表示該公司尚未獲得鑽探許可，任何後續物流活動都必須事先獲得礦物資源管理局批准。“格陵蘭能源”公司稱，仍在爭取必要許可，計劃在獲批後先開鑽一口勘探井。這一爭端發生在華盛頓對格陵蘭持續高度關注的背景下：特朗普多次強調，該地區對美國具有戰略意義。"
-    },
-    {
-      "id": "mkt:019fe3d4-bb1d-7aab-8fc6-fe28b1c77c8a",
-      "time": "2026-08-09 08:03:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BlackRock CIO links surprise nonfarm decline to AI productivity, says further rate hikes 'have little point'】Friday's US nonfarm payrolls unexpectedly fell. BlackRock global fixed income CIO Rick Rieder said the weak print reflects an AI-era productivity revolution, with US firms learning to expand output without adding staff. He said, \"I don't think adjusting the overnight federal funds rate will really solve the problem—we've seen this before... I just think there's little point in raising rates now.\""
     }
   ]
 }
