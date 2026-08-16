@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-17 05:46:56",
+  "updated": "2026-08-17 05:50:51",
   "count": 15219,
   "items": [
+    {
+      "id": "mkt:01a00c8c-281e-7aab-9050-bbdd357847e3",
+      "time": "2026-08-17 05:48:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he will sharply scale back US-South Korea joint military exercises】US President Trump said on social media on Aug. 16 ET that, citing his good relationship with North Korean leader Kim Jong Un and that the drills are costly and largely paid for by the US, he has instructed the US defense secretary to sharply scale back upcoming US-South Korea joint military exercises. He added he recently asked South Korea's president to join US efforts to push Iran to denuclearize, and that Seoul declined."
+    },
     {
       "id": "5042979",
       "time": "2026-08-17 05:46:22",
@@ -139135,17 +139148,6 @@
         "國際"
       ],
       "text": "【美聯儲9月加息25個基點的機率為44.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為55.6%，累計加息25個基點的機率為44.4%。美聯儲到10月維持利率不變的機率為40.8%，累計加息25個基點的機率為47.4%，累計加息50個基點的機率為11.8%。"
-    },
-    {
-      "id": "mkt:019fe87e-9ba2-7aab-8fcc-2212fc365292",
-      "time": "2026-08-10 05:47:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM said as of Aug 9 it had rerouted 55 merchant vessels in the Strait of Hormuz, rendered two vessels inoperable and boarded two others to ensure compliance with a blockade order."
     }
   ]
 }
