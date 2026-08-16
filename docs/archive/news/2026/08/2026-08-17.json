@@ -1,7 +1,20 @@
 {
   "date": "2026-08-17",
-  "count": 39,
+  "count": 40,
   "items": [
+    {
+      "id": "mkt:01a00bae-4e48-7aab-904f-62e50cbb38c1",
+      "time": "2026-08-17 01:46:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【US weighs sanctions on Brazilian Supreme Court justice Alexandre de Moraes, FT reports】The US government is discussing renewed sanctions on Brazilian Supreme Court justice Alexandre de Moraes, the Financial Times reports. Sources say the Trump administration is again considering action after sanctions were imposed last year on human-rights grounds and later lifted. Renewed measures could push US‑Brazil ties to their lowest level in decades, exacerbate trade and political tensions and increase uncertainty ahead of Brazil’s election."
+    },
     {
       "id": "mkt:01a00ba8-4216-7aab-904f-5e8c2fa4b4e0",
       "time": "2026-08-17 01:39:31",
