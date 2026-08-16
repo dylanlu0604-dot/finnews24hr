@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-16 09:44:22",
-  "count": 15225,
+  "updated": "2026-08-16 09:48:13",
+  "count": 15227,
   "items": [
+    {
+      "id": "5042531",
+      "time": "2026-08-16 09:45:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【哈佛大學二季度13F披露：SpaceX持倉超22億美元，黃金、比特幣亦在列】當地時間8月14日，哈佛大學投資管理機構披露二季度末美股持倉。從重倉股看，SpaceX以22.10億美元的持倉市值位居首位；臺積電以3.50億美元位居第二，亞馬遜2.34億美元、Cerebras Systems 2.39億美元、Alphabet 1.65億美元、英偉達1.58億美元等位居前列。此外，哈佛持有博通1.28億美元、微軟1.46億美元、Meta 1.21億美元、Netflix 7883萬美元、Booking Holdings 7390萬美元等科技及網際網路公司股票，同時持有約1.50億美元iShares Gold Trust、1.01億美元iShares Bitcoin Trust ETF及2168萬美元SPDR Gold Trust，顯示其配置涵蓋科技、黃金及比特幣等資產。"
+    },
+    {
+      "id": "5042530",
+      "time": "2026-08-16 09:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：汙染致伊朗沿海水域損失或達數萬億美元】伊朗外交部發言人伊斯梅爾·巴加埃表示，汙染給伊朗沿海水域造成的損失可能高達數萬億美元。巴加埃稱，伊朗格什姆島沿海地區發現石油汙染，據推測系由一艘外國散貨船事故所致。"
+    },
+    {
+      "id": "5042529",
+      "time": "2026-08-16 09:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【LG電子巴西新冰箱工廠正式投產】韓國大型家電廠商LG電子週日表示，為進一步深耕南美市場，其位於巴西的全新家電工廠已正式投產。 這座新建工廠坐落於巴西南部巴拉那州，是LG電子在當地的第二座工廠，已於上週啟動生產，冰箱年產能可達60萬臺。 疊加位於巴西亞馬孫州的原有工廠，LG電子在巴西的家電年總產能預計將突破700萬臺。"
+    },
     {
       "id": "mkt:01a0083b-0c78-7aab-904b-da0a8b53f543",
       "time": "2026-08-16 09:41:22",
@@ -139302,16 +139327,6 @@
         "Importance 2"
       ],
       "text": "China Producer Prices Rise Less than Expected — China’s producer prices rose 3.5% year-on-year in July 2026, slowing from a 4.1% increase in the previous month, which marked the steepest rise in nearly four years. The latest reading also marked the fifth straight month of decline, coming below market forecasts of 3.8%, amid weaker commodity prices, softer domestic demand, and continued pressure from overcapacity and intense price competition across some industries."
-    },
-    {
-      "id": "mkt:019fe432-1999-7aab-8fc7-c018a1930f23",
-      "time": "2026-08-09 09:45:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Saudi Energy Ministry said a fire at an Aramco facility in Jazan, Saudi Arabia, has been extinguished."
     }
   ]
 }
