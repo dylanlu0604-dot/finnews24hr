@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:58:17_
-_本檔包含 3165 則快訊，約 600725 字_
+_更新時間：2026-08-16 14:54:01_
+_本檔包含 3158 則快訊，約 600981 字_
+
+---
+
+### 2026-08-12 07:22:13  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Advance as US-Iran Deal Eyed — Brent held above $89 per barrel on Wednesday after rising for five consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February.
+
+---
+
+### 2026-08-12 07:21:23  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Advance as US-Iran Deal Eyed — Crude oil held above $83 per barrel on Wednesday after rising for four consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February.
+
+---
+
+### 2026-08-12 07:18:10  #公司
+
+【香港IPO集資額已達410億美元 港交所料今年再創紀錄】據信報援引港交所CEO陳翊庭的話報道稱，截至8月初，香港首次公開募股(IPO)集資額已達410億美元，料今年再創紀錄。 陳翊庭在吉隆坡出席活動時表示，今年IPO集資額已突破去年透過120家公司上市集資的395億美元。
+
+---
+
+### 2026-08-12 07:17:26  #宏觀 #公司 #國際
+
+【美國貨運鐵路公司就要求兩人乘務新規的上訴被駁回】根據美國第十一巡迴上訴法院週二作出的裁決，六家美國鐵路公司和兩個行業團體針對一項新規定提出的上訴被駁回，該規定要求許多列車在執行時必須配備至少兩名乘務人員。包括聯合太平洋鐵路公司和伯克希爾·哈撒韋旗下伯克希爾-諾福克南方鐵路公司在內的美國貨運鐵路公司，均反對聯邦鐵路管理局提出的乘務人員配置要求。該規定出臺的背景是，2023年俄亥俄州東巴勒斯坦市發生脫軌事故後，鐵路安全受到嚴密審查，工會組織為維持乘務員人數而展開了鬥爭。該事故導致載有有毒氯乙烯及其他危險化學品的車廂洩漏並起火。鐵路公司方面除其他理由外，還辯稱該乘務人員編制規定超出了聯邦鐵路管理局的一般規則制定許可權。法院駁回了鐵路公司的論點，並駁回了其要求審查該規定的請願。
+
+---
+
+### 2026-08-12 07:15:28  #公司 #國際
+
+【三大超級專案，韓國想打“閃電戰”】韓國總統李在明10日主持超級專案民官聯合第二次檢查會議，督促“三大超級專案”提速，要求韓國政府不只是打“速度戰”，更要打“閃電戰”，明確兩年內臨時轉移光州軍用機場核心職能，為西南地區半導體超級專案騰出地方。據韓國《朝鮮日報》報道，韓國政府正推動總規模約4700萬億韓元（1萬韓元約合47.7元人民幣）的“三大超級專案”，核心內容包括三個方向：半導體供應鏈擴建、AI資料中心建設以及物理AI產業培育。其中三星電子、SK集團等企業計劃在韓國光州投資約800萬億韓元，建設4座半導體工廠。韓國《東亞日報》分析認為，李在明急推“閃電戰”，意在避免重蹈龍仁半導體專案覆轍。SK海力士龍仁半導體專案2019年公示後，受環評、用水、土地補償等問題制約，耗時6年才得以開工。《首爾新聞》報道提到，中國半導體企業的加速追趕，也倒逼韓國加快產業佈局，軍用機場搬遷，電力、用水等核心基礎設施建設已不容拖延。（環球網）
+
+---
+
+### 2026-08-12 07:14:55  #Trading Economics #Economy #Japan #Reuters Tankan Index #Importance 1
+
+Japan Manufacturers' Mood Highest in 5 Months — The Reuters Tankan index for Japanese manufacturers increased to +18 in August 2026 from +13 in the previous month, marking the highest reading since March, supported by solid semiconductor demand. Semiconductor-related industries drove the manufacturing index higher, with the sub-index for chemicals surging to plus 33 from plus 23. Meanwhile, the metal and machinery industry index strengthened to plus 25 from plus 12.
+
+---
+
+### 2026-08-12 07:13:26  #公司 #國際
+
+【加拿大航空恢復年度預測 並指出燃油價格波動仍構成風險】加拿大航空 週二恢復了其年度核心利潤目標，但目標水平低於此前暫停的預期，因為該公司預計，美國和以色列對伊朗的戰爭引發的石油供應中斷將導致航空燃油價格持續居高不下。這家加拿大最大航空公司曾於4月暫停釋出業績展望，當時伊朗封鎖了霍爾木茲海峽——該水道承擔著全球五分之一的石油運輸量——導致航空燃油供應和價格面臨不確定性。該公司預計2026年經調整的核心利潤將在29億加元(20.8億美元) 至32億加元之間。在暫停展望之前，其原預計為33.5億至37.5億加元。航空燃油通常約佔航空公司運營成本的四分之一，這使得航空公司容易受到燃油價格突然飆升或劇烈波動的影響。加拿大航空表示，國際海運貿易航線的嚴重中斷進一步加劇了航空燃油價格的壓力。第二季度的燃油支出較上年同期飆升了49%。
+
+---
+
+### 2026-08-12 07:12:48  #公司 #市場
+
+【資料中心產業鏈迎發展視窗期 24只概念股上半年業績向好】人工智慧（AI）算力需求持續爆發，全球算力基建迎來大規模投資熱潮。為適配算力高速增長帶來的交付提速需求，阿里雲釋出新一代全模組化人工智慧資料中心架構，海內外科技巨頭加碼智算設施。疊加國內政策持續助推綠色算力與算力網建設，市場空間加速釋放，資料中心產業鏈迎來發展視窗期。據證券時報·資料寶統計，A股佈局資料中心產業鏈的概念股超過百隻。8月11日，城地香江、杭鋼股份漲停，盛弘股份上漲12.92%，旭光電子、銅牛資訊等跟漲。從業績來看，45只概念股公佈半年度業績相關公告。按半年報、業績快報、業績預告淨利潤下限順序統計，24股歸母淨利潤實現同比增長，其中利通電子、富瀚微同比增幅均在1000%以上。資料顯示，上述淨利潤增長的24股中，7股7月以來獲機構調研，其中新易盛、天孚通訊、通富微電獲機構調研家數居前，分別達到417家、40家、36家。
+
+---
+
+### 2026-08-12 07:12:42  #公司 #市場 #央行 #國際
+
+【國泰海通：金價反彈 推薦黃金珠寶板塊相關標的】國泰海通釋出研報稱，金價反彈，推薦從銷量端&利潤彈性端有望受益的黃金珠寶標的。美國非農資料不及預期、美聯儲加息預期走弱，倫敦金現從8月5日開始較大幅度上漲，當前突破4300美元/盎司，創6月18日以來新高，6月底至8月初則持續在4000-4200美元/盎司區間震盪。該行指，此前壓制珠寶板塊股價主要因2026Q2以來金價走弱導致的對下半年基數走高背景下銷售、毛利率、後續增長持續性擔憂。當前金價反彈，有望帶動下半年高基數下增長延續，頭部公司憑藉優異產品力提升份額、帶動經營槓桿釋放。當前有望迎來估值、業績雙修復行情。
 
 ---
 
@@ -19020,101 +19074,5 @@ DAX Closes Flat — The DAX 40 closed broadly flat at 26,320 on Monday, remainin
 ### 2026-08-11 00:19:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 Iran's Islamic Revolutionary Guard Corps (IRGC) navy commander said any foreign vessel transiting the Strait of Hormuz will be identified, tracked and monitored by Iranian forces.
-
----
-
-### 2026-08-11 00:18:25  #國際
-
-伊朗革命衛隊海軍司令：任何外國船只經過霍爾木茲海峽，都逃不過伊朗軍方的識別、追蹤與監控。
-
----
-
-### 2026-08-11 00:16:35  #市場 #國際
-
-【德國兩年期國債收益率漲約5個基點，非農過後，投資者關注油價漲勢】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，德國10年期國債收益率漲4.6個基點，報3.179%，日內交投於3.125%-3.182%區間，北京時間14:30“開盤”以來、至20:33呈現出平坦的W形走勢，持穩於3.135%附近，之後擴大漲幅。兩年期德債收益率漲5.2個基點，報2.801%，日內交投於2.749%-2.804%區間，幾乎全天處於上漲狀態；30年期德債收益率漲3.2個基點，報3.672%。2/10年期德債收益率利差跌0.453個基點，報+37.533個基點。法國10年期國債收益率漲6.4個基點，報3.981%；兩年期法債收益率漲5.9個基點，30年期法債收益率漲4.6個基點。義大利10年期國債收益率漲6.4個基點，報3.965%。西班牙10年期國債收益率漲5.8個基點，報3.618%。希臘10年期國債收益率漲6.4個基點，報3.863%。
-
----
-
-### 2026-08-11 00:15:30  #其他
-
-據燈塔專業版實時資料，截至8月11日0時10分，影片《奧德賽》點映及預售總票房突破8000萬。
-
----
-
-### 2026-08-11 00:13:43  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) hit an intraday high, trading up more than 2% on the session.
-
----
-
-### 2026-08-11 00:13:24  #國際
-
-哥倫比亞外交部長：哥倫比亞承認以色列對戈蘭高地擁有主權。
-
----
-
-### 2026-08-11 00:13:19  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close at Records — European stocks closed slightly higher at new records on Monday with broad support from most major sectors. The Euro STOXX 50 added 0.3% to 6,540 and the STOXX Europe 600 inched higher to 661, both at record highs. Markets looked past a rebound in sovereign yields as uncertainty on the restart of energy exports from the Middle East maintained inflationary risks. TotalEnergies and ENI rose 2% and 1.5%, respectively, amid the slight rebound for fuel and natural gas prices. Tech stocks also rose, tracking the support from US counterparts on positive signals for cloud services. SAP, ASML, and Infineon rose around 1%. Also, the heavyweight financial sector also closed slightly higher, with Allianz and Deutsche Bank adding more than 1%.
-
----
-
-### 2026-08-11 00:13:00  #MKT News
-
-Colombia's foreign minister said the country recognizes Israel's sovereignty over the Golan Heights.
-
----
-
-### 2026-08-11 00:12:03  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.10% Lower — The FTSE MIB Index decreased 53 points or 0.10 percent on Monday to close at 53664 points. The decline was led by Italgas (-1.54%), Poste Italiane (-1.36%) and Nexi (-1.34%). On the upside, the strongest performers were Stellantis N.V. (1.71%), Saipem (1.60%) and Amplifon (1.30%).
-
----
-
-### 2026-08-11 00:11:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.02% Higher — The DAX Index rose 4 points or 0.02 percent on Monday to close at 26324 points. Leading the gains are Qiagen NV (5.07%), Adidas (2.01%) and Scout24 (1.75%). Top losers were Deutsche Telekom (-3.24%), Beiersdorf (-2.22%) and Brenntag (-1.34%).
-
----
-
-### 2026-08-11 00:10:03  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.13% Higher — The CAC 40 Index gained 11 points or 0.13 percent on Monday to close at 8726 points. Gains were led by ArcelorMittal (1.97%), Credit Agricole (1.66%) and TotalEnergies SE (1.64%). Biggest losers were TP (-2.37%), Orange (-2.19%) and Edenred (-2.11%).
-
----
-
-### 2026-08-11 00:08:34  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O): U.S. ad commitments for 2026 nearly doubled.
-
----
-
-### 2026-08-11 00:07:02  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.32% Lower — The FTSE 100 Index decreased 35 points or 0.32 percent on Monday to close at 10867 points. The decline was led by Imperial Brands (-5.28%), Coca-Cola (-4.40%) and British American Tobacco (-4.05%). On the upside, the strongest performers were Fresnillo (3.25%), Metlen Energy & Metals (2.52%) and Glencore (2.21%).
-
----
-
-### 2026-08-11 00:04:39  #國際
-
-奈飛：2026 年美國廣告預售簽約額近乎翻倍。
-
----
-
-### 2026-08-11 00:04:35  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，中進醫療漲63.38%，中比能源漲15.77%，陸金所控股漲13.00%，搜狐漲6.60%，海天網路漲5.49%。
-
----
-
-### 2026-08-11 00:03:35  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls on Monday — The FTSE 100 fell on Monday as weakness in several heavyweight stocks outweighed gains in energy and mining shares. Imperial Brands dropped more than 5% following reports that the tobacco company is preparing to cut thousands of jobs across key markets, including the US and Europe. British American Tobacco also fell more than 4%, while HSBC, Unilever and GSK declined between 0.4% and 1.8%. In contrast, oil majors Shell and BP gained 0.7% and 1.5%, respectively, as crude prices extended their recent advance amid uncertainty over a potential US-Iran agreement to end the conflict and reopen the Strait of Hormuz. Mining stocks also benefited from stronger metals prices, with Fresnillo rising 3.3% and Glencore gaining 2.2%. Elsewhere, Plus500's trading update showed stronger first-half growth driven by higher trading income. Pharos Energy confirmed it would not increase its offer, while Vistry reduced coverage for the housebuilder’s suppliers.
-
----
-
-### 2026-08-11 00:03:16  #市場 #國際
-
-【英國國債收益率普遍漲約6個基點】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，英國10年期國債收益率漲6.7個基點，報4.989%。兩年期英債收益率漲6.0個基點，報4.341%。30年期英債收益率漲5.9個基點，50年期英債收益率漲6.0個基點。2/10年期英債收益率利差漲0.709個基點，報+64.543個基點。
 
 ---

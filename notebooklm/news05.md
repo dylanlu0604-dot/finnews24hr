@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:58:17_
-_本檔包含 2885 則快訊，約 600507 字_
+_更新時間：2026-08-16 14:54:01_
+_本檔包含 2878 則快訊，約 601061 字_
+
+---
+
+### 2026-08-11 00:18:25  #國際
+
+伊朗革命衛隊海軍司令：任何外國船只經過霍爾木茲海峽，都逃不過伊朗軍方的識別、追蹤與監控。
+
+---
+
+### 2026-08-11 00:16:35  #市場 #國際
+
+【德國兩年期國債收益率漲約5個基點，非農過後，投資者關注油價漲勢】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，德國10年期國債收益率漲4.6個基點，報3.179%，日內交投於3.125%-3.182%區間，北京時間14:30“開盤”以來、至20:33呈現出平坦的W形走勢，持穩於3.135%附近，之後擴大漲幅。兩年期德債收益率漲5.2個基點，報2.801%，日內交投於2.749%-2.804%區間，幾乎全天處於上漲狀態；30年期德債收益率漲3.2個基點，報3.672%。2/10年期德債收益率利差跌0.453個基點，報+37.533個基點。法國10年期國債收益率漲6.4個基點，報3.981%；兩年期法債收益率漲5.9個基點，30年期法債收益率漲4.6個基點。義大利10年期國債收益率漲6.4個基點，報3.965%。西班牙10年期國債收益率漲5.8個基點，報3.618%。希臘10年期國債收益率漲6.4個基點，報3.863%。
+
+---
+
+### 2026-08-11 00:15:30  #其他
+
+據燈塔專業版實時資料，截至8月11日0時10分，影片《奧德賽》點映及預售總票房突破8000萬。
+
+---
+
+### 2026-08-11 00:13:43  #MKT News #NFLX.O #Impact bullish
+
+Netflix (NFLX.O) hit an intraday high, trading up more than 2% on the session.
+
+---
+
+### 2026-08-11 00:13:24  #國際
+
+哥倫比亞外交部長：哥倫比亞承認以色列對戈蘭高地擁有主權。
+
+---
+
+### 2026-08-11 00:13:19  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Close at Records — European stocks closed slightly higher at new records on Monday with broad support from most major sectors. The Euro STOXX 50 added 0.3% to 6,540 and the STOXX Europe 600 inched higher to 661, both at record highs. Markets looked past a rebound in sovereign yields as uncertainty on the restart of energy exports from the Middle East maintained inflationary risks. TotalEnergies and ENI rose 2% and 1.5%, respectively, amid the slight rebound for fuel and natural gas prices. Tech stocks also rose, tracking the support from US counterparts on positive signals for cloud services. SAP, ASML, and Infineon rose around 1%. Also, the heavyweight financial sector also closed slightly higher, with Allianz and Deutsche Bank adding more than 1%.
+
+---
+
+### 2026-08-11 00:13:00  #MKT News
+
+Colombia's foreign minister said the country recognizes Israel's sovereignty over the Golan Heights.
+
+---
+
+### 2026-08-11 00:12:03  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.10% Lower — The FTSE MIB Index decreased 53 points or 0.10 percent on Monday to close at 53664 points. The decline was led by Italgas (-1.54%), Poste Italiane (-1.36%) and Nexi (-1.34%). On the upside, the strongest performers were Stellantis N.V. (1.71%), Saipem (1.60%) and Amplifon (1.30%).
+
+---
+
+### 2026-08-11 00:11:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.02% Higher — The DAX Index rose 4 points or 0.02 percent on Monday to close at 26324 points. Leading the gains are Qiagen NV (5.07%), Adidas (2.01%) and Scout24 (1.75%). Top losers were Deutsche Telekom (-3.24%), Beiersdorf (-2.22%) and Brenntag (-1.34%).
+
+---
+
+### 2026-08-11 00:10:03  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.13% Higher — The CAC 40 Index gained 11 points or 0.13 percent on Monday to close at 8726 points. Gains were led by ArcelorMittal (1.97%), Credit Agricole (1.66%) and TotalEnergies SE (1.64%). Biggest losers were TP (-2.37%), Orange (-2.19%) and Edenred (-2.11%).
+
+---
+
+### 2026-08-11 00:08:34  #MKT News #NFLX.O #Impact bullish
+
+Netflix (NFLX.O): U.S. ad commitments for 2026 nearly doubled.
+
+---
+
+### 2026-08-11 00:07:02  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.32% Lower — The FTSE 100 Index decreased 35 points or 0.32 percent on Monday to close at 10867 points. The decline was led by Imperial Brands (-5.28%), Coca-Cola (-4.40%) and British American Tobacco (-4.05%). On the upside, the strongest performers were Fresnillo (3.25%), Metlen Energy & Metals (2.52%) and Glencore (2.21%).
+
+---
+
+### 2026-08-11 00:04:39  #國際
+
+奈飛：2026 年美國廣告預售簽約額近乎翻倍。
+
+---
+
+### 2026-08-11 00:04:35  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，中進醫療漲63.38%，中比能源漲15.77%，陸金所控股漲13.00%，搜狐漲6.60%，海天網路漲5.49%。
+
+---
+
+### 2026-08-11 00:03:35  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls on Monday — The FTSE 100 fell on Monday as weakness in several heavyweight stocks outweighed gains in energy and mining shares. Imperial Brands dropped more than 5% following reports that the tobacco company is preparing to cut thousands of jobs across key markets, including the US and Europe. British American Tobacco also fell more than 4%, while HSBC, Unilever and GSK declined between 0.4% and 1.8%. In contrast, oil majors Shell and BP gained 0.7% and 1.5%, respectively, as crude prices extended their recent advance amid uncertainty over a potential US-Iran agreement to end the conflict and reopen the Strait of Hormuz. Mining stocks also benefited from stronger metals prices, with Fresnillo rising 3.3% and Glencore gaining 2.2%. Elsewhere, Plus500's trading update showed stronger first-half growth driven by higher trading income. Pharos Energy confirmed it would not increase its offer, while Vistry reduced coverage for the housebuilder’s suppliers.
+
+---
+
+### 2026-08-11 00:03:16  #市場 #國際
+
+【英國國債收益率普遍漲約6個基點】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，英國10年期國債收益率漲6.7個基點，報4.989%。兩年期英債收益率漲6.0個基點，報4.341%。30年期英債收益率漲5.9個基點，50年期英債收益率漲6.0個基點。2/10年期英債收益率利差漲0.709個基點，報+64.543個基點。
 
 ---
 
@@ -17247,143 +17343,5 @@ Russia said it struck fuel storage facilities at Ukrainian ports overnight.
 ### 2026-08-09 14:56:12  #國際
 
 伊朗穆哈比准將：霍爾木茲是地理戰役，而非僅僅水道，我們當前的戰略是保衛它，直到敵人接受我們所有條件。
-
----
-
-### 2026-08-09 14:52:41  #其他
-
-SK崔泰源和盧素英對財產分割案重審判決的上訴期限為判決書送達之日起14日內。雙方於本月1日零時收到判決書‌，可在14日之前提起上訴。
-
----
-
-### 2026-08-09 14:51:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign minister says will maintain resistance stance】On the 9th, Iran's foreign minister said Iran has been struck by US and Israeli military attacks with casualties and said Tehran "will neither forget nor forgive." He added Iran will continue its resistance stance to defend national independence and dignity.
-
----
-
-### 2026-08-09 14:51:25  #國際
-
-【伊朗外長稱將繼續堅持抵抗立場】當地時間9日，伊朗外長阿拉格齊在談及近期地區衝突時表示，伊朗遭到美國和以色列的軍事打擊，並出現人員傷亡，伊朗不會忘記近期衝突中的死者。他表示，“我們既不會忘記，也不會原諒”。阿拉格齊表示，面對外部壓力，伊朗將繼續堅持其抵抗立場，維護國家獨立和尊嚴。（央視新聞）
-
----
-
-### 2026-08-09 14:43:21  #其他
-
-葉門胡塞武裝：此次針對行動是對沙特用無人機入侵薩達和哈傑空域的回應。
-
----
-
-### 2026-08-09 14:38:25  #MKT News #WTI #Impact bullish #Brent
-
-Yemen's Houthi militants said they attacked ARAMCO's Jazan refinery.
-
----
-
-### 2026-08-09 14:38:21  #公司 #國際
-
-【印尼一火山景區因山火關閉 我領館提醒公民暫勿前往】因山火持續蔓延，印度尼西亞的知名旅遊景點——東爪哇省布羅莫火山景區自8日晚起暫時關閉。中國駐泗水總領館9日釋出公告，提醒領區中國公民暫勿前往該景區，已預訂行程的遊客及時辦理改期或退票，並密切關注火情及景區解封資訊。（新華社）
-
----
-
-### 2026-08-09 14:38:02  #其他 #焦點 #國際
-
-葉門胡塞武裝發言人稱，他們襲擊了沙特阿美位於吉讚的煉油廠。
-
----
-
-### 2026-08-09 14:36:40  #其他
-
-【南京防颱風應急響應提升至Ⅲ級】南京市氣象臺今日釋出暴雨黃色預警訊號。根據《南京市防颱風應急預案》，市防指決定，8月9日14時起，全市防颱風應急響應提升至Ⅲ級（黃色）。
-
----
-
-### 2026-08-09 14:30:52  #MKT News
-
-【Hong Kong posts highest temperature on record】Subsiding air on the periphery of strong Typhoon Baihaidun drove temperatures in Hong Kong to 36.8°C at HKO headquarters as of 13:30 on the 9th, the highest reading since observations began in 1884.
-
----
-
-### 2026-08-09 14:28:57  #其他
-
-【香港高溫重新整理歷史紀錄】受強颱風“白海豚”外圍下沉氣流影響，香港9日酷熱難耐，截至13時30分，香港天文臺總部錄得36.8℃，創下其自1884年開展觀測以來最高氣溫紀錄。（中新網）
-
----
-
-### 2026-08-09 14:25:34  #公司 #國際
-
-【長鑫科技或被納入全球巨頭資管產品】近日，全球資產管理機構範達高階產品經理John Patrick Lee透露，美國機構投資者開始佈局中國半導體，最早或於9月底將長鑫科技納入範達旗下ETF。 範達成立於1955年，總部位於紐約，是一家由創始家族持有的全球資產管理公司，在紐約、上海、法蘭克福、蘇黎世、阿姆斯特丹、倫敦、悉尼等地設有辦公室，旗下產品涵蓋ETF、共同基金（公募基金）和專戶等。其在中國擁有私募機構範達私募基金管理（上海）有限公司。 截至2026年6月30日，範達全球管理資產規模約2374億美元。它管理著全球規模最大的半導體ETF——SMH，截至8月初，該基金總淨資產約700億美元。今年6月，範達(VanEck)在美國推出首隻聚焦中國半導體的ETF——SMHC。（中國基金報）
-
----
-
-### 2026-08-09 14:17:38  #其他
-
-LAZURDE珠寶第二季度營收 8.871 億里亞爾，第二季度虧損 520 萬里亞爾。
-
----
-
-### 2026-08-09 14:16:53  #宏觀
-
-【範波在太倉檢查督導颱風“白海豚”防禦工作】颱風“白海豚”帶來的風雨影響逐漸顯現。8月9日，蘇州市委書記範波在太倉市檢查督導颱風“白海豚”防禦工作，深入太倉港現場察看船隻回港避風、大型機械防風、集裝箱加固管理等情況，來到瀏河節制閘檢查執行情況和防颱風準備。範波強調，當前颱風“白海豚”防禦工作已經到了最吃勁的階段。要深入學習貫徹習近平總書記關於防汛救災工作的重要指示精神，認真落實黨中央、國務院決策部署及省委、省政府工作要求，樹牢“一個目標、四個寧可”理念，堅持人民至上、生命至上，全力以赴落實防颱風部署要求，搶抓當前重要視窗期做深做細各項防範工作，持續排查化解各種風險隱患，推動各項措施落實到最小管控單元。要突出黨建引領，各級領導幹部要靠前指揮、下沉一線，全體黨員幹部要挺身而出、衝鋒在前，充分發揮基層黨組織戰鬥堡壘作用和黨員先鋒模範作用，全市動員共同守護城市安全、人民安寧。（蘇州日報）
-
----
-
-### 2026-08-09 14:16:20  #市場
-
-LAZURDE珠寶：季度金價上漲。
-
----
-
-### 2026-08-09 14:15:42  #公司
-
-【宇樹科技、綠控傳動明天打新】根據目前的發行安排，下週有4只新股申購，科創板2只，創業板、北交所各有1只。日程安排上，週一（8月10日）可申購科創板新股宇樹科技、創業板新股綠控傳動、北交所新股雙英集團，週五（8月14日）可申購科創板新股高凱技術。
-
----
-
-### 2026-08-09 14:15:05  #MKT News
-
-【South Korea posts $596.6 mln June travel surplus, highest since COVID-19】The Korea Tourism Organization said on the 9th South Korea's travel account recorded a $596.6 million surplus in June, the largest since the COVID-19 outbreak.
-
----
-
-### 2026-08-09 14:14:55  #國際
-
-【俄國防部：俄軍出動“天竺葵”無人機對哈爾科夫州烏軍無人機倉庫實施打擊】俄羅斯國防部8月9日表示，俄軍出動“天竺葵”無人機對哈爾科夫州4個定居點附近的烏軍無人機倉庫實施打擊，倉庫記憶體放無人機及電子戰裝置。俄羅斯國防部指出，實時監測系統確認成功擊中目標。
-
----
-
-### 2026-08-09 14:12:49  #其他
-
-【陝西緊急下達1.2億元省級水利救災資金】8月8日，據省水利廳訊息：省水利廳會同省財政廳緊急下達1.2億元省級水利救災資金。今年極端致災性暴雨洪水多發頻發，特別是7月31日以來，關中和陝南部分地區受災嚴重。為貫徹落實國家以及省委、省政府水旱災害防禦工作部署，省水利廳會同省財政廳迅速響應，指導地方精準查災核災，緊急下達1.2億元省級水利救災資金，專項用於渭南、漢中、安康、商洛等地水庫、堤防、水文測報等防洪設施的水毀搶修和應急修復，全力支援各地開展防汛救災工作。（陝西釋出）
-
----
-
-### 2026-08-09 14:12:12  #國際
-
-【韓國佈局北極航道研究 目標2030年通航】訊息人士週日透露，韓國海洋水產部近期啟動一項研究課題，旨在制定戰略，推動一條預計2030年可投入通航的北極航道投入使用。 知情人士表示，該專案將評估這條航道的商業可行性，包含面向航運、物流企業開展航道使用意向調研。 專案目標還包括規劃建設對接北歐港口的物流配套網路。
-
----
-
-### 2026-08-09 14:10:30  #國際
-
-【德國人開始狂買電車】德國聯邦汽車運輸管理局6日釋出的資料顯示，7月德國純電動汽車新車註冊量超過7.86萬輛，同比增長近62%，市場份額升至29.3%，連續第二個月成為德國新車註冊量最高的單一動力型別；包括插電式混合動力車型在內，可外接充電車型佔全部新車註冊量的40.7%。分析指出，德國是歐洲最大的汽車市場，其電動化程序對歐洲汽車產業具有較強的風向標意義。這一成績也可能會增強周邊國家消費者對電動汽車的信心，讓更多人意識到轉向純電車型可能比預期更加容易。截至2026年初，德國純電動汽車保有量首次突破200萬輛，較2017年同期增長近60倍。（央視網）
-
----
-
-### 2026-08-09 14:06:40  #公司
-
-中國鐵路：暑運啟動以來，中國鐵路廣州局集團有限公司累計傳送旅客超6800萬人次。
-
----
-
-### 2026-08-09 14:04:55  #國際
-
-【伊朗總統說必須擺脫非戰非和局面】當地時間8月8日，伊朗總統佩澤希齊揚在德黑蘭舉行的新聞釋出會上表示，針對美國的違約情況，應該成立一個專門團隊來處理違約問題，而不是訴諸武力。他指出，與其乾坐著空想，不如仔細觀察細節，考慮如何解決問題。佩澤希齊揚強調，伊朗當前與阿曼關於霍爾木茲海峽通航管理的談判就是要找到解決方案，擺脫目前這種“非戰非和”的局面。（CCTV國際時訊）
-
----
-
-### 2026-08-09 14:01:36  #其他
-
-【千億級市場爆發】截至目前，2026年暑期檔電影票房破83億元，國家電影局資料顯示，每1元票房能帶動15.77元相關產業產值。據測算今年以來電影全產業鏈產值已超過3700億元。（央視新聞）
 
 ---

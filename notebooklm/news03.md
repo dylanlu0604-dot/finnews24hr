@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:58:17_
-_本檔包含 3005 則快訊，約 600426 字_
+_更新時間：2026-08-16 14:54:01_
+_本檔包含 3014 則快訊，約 601303 字_
+
+---
+
+### 2026-08-13 10:09:59  #其他
+
+【AI版支付寶“阿寶”鴻蒙版逐步開放測試】8月13日，支付寶宣佈AI版支付寶“阿寶”鴻蒙版逐步開放測試。鴻蒙使用者在華為應用市場搜尋“支付寶”或“螞蟻阿寶”，將支付寶APP升級到12.12.16鴻蒙版本，即可在支付寶首頁右劃體驗“阿寶”。
+
+---
+
+### 2026-08-13 10:09:33  #公司
+
+【中國RISC‑V SoC市場規模預計到2031年增長至864億美元】在第五屆滴水湖中國RISC-V產業論壇上，芯原股份董事長執行長戴偉民在致辭中表示，2025年全球RISC‑V SoC出貨量達約69億顆，預計到2031年將增長至約360億顆，複合增長率達31.7%，其市場規模將從940億美元增長至3130億美元，符合增長率達22.5%。中國RISC‑V SoC市場規模預計從2025年的約240億美元增至2031年的約864億美元。
+
+---
+
+### 2026-08-13 10:09:25  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+AUS 10Y Yield Trades Near Multi-Week Highs — Australia’s 10-year government bond yield traded above 4.9%, remaining near multi-week highs as the Reserve Bank’s latest comments reinforced a hawkish policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday.
+
+---
+
+### 2026-08-13 10:09:24  #市場
+
+【天孚通訊盤中漲超10%】A股天孚通訊盤中漲10.04%，現報264.14元。
+
+---
+
+### 2026-08-13 10:09:20  #其他
+
+【哈爾濱警方徵集涉黑涉惡線索，軟暴力催收、惡意索賠等被列入新型黑惡違法犯罪線索】哈爾濱市公安局微信公眾號8月12日晚間釋出《關於徵集涉黑涉惡違法犯罪線索的通告》。其中，通告列出十類新型黑惡違法犯罪線索,軟暴力催收、惡意索賠、輿情敲詐、務工敲詐、碰瓷敲詐等被列入。此外，操縱控制未成年人實施違法犯罪線索、侵害未成年人權益等等被列入“其他涉黑涉惡違法犯罪線索”範圍。（澎湃新聞）
+
+---
+
+### 2026-08-13 10:07:39  #公司
+
+【凡拓數創成立物理智慧科技公司 含AI業務】企查查APP顯示，近日，方寸先機物理智慧科技（廣州）有限公司成立，經營範圍包含智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由凡拓數創全資持股。
+
+---
+
+### 2026-08-13 10:07:27  #MKT News #Important #Market Regions #Greater China
+
+【China's national carbon market cumulative transactions exceed 930 million tonnes】The Ministry of Ecology and Environment said at an Aug. 13 State Council press briefing that China’s national carbon emissions trading market had cumulative transactions of more than 930 million tonnes as of end‑July, supporting low‑cost industrial decarbonization and advancing the country's green transition.
+
+---
+
+### 2026-08-13 10:07:23  #其他
+
+【諾仕機器人完成近億元A+輪融資】近日，精密傳動部件供應商諾仕機器人（NOUSBOT）完成近億元A+輪融資。本輪由順為資本領投，望千銘誠跟投。資金將主要用於微型行星滾柱絲槓產能擴張、產品迭代及海外市場佈局。
+
+---
+
+### 2026-08-13 10:07:16  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Bond Yield Hits 4-week High — Japan 10 Year Government Bond Yield increased to 2.86%, the highest since July 2026. Over the past 4 weeks, Japan 10Y Bond Yield gained 15.56 basis points, and in the last 12 months, it increased 130.70 basis points.
+
+---
+
+### 2026-08-13 10:06:59  #焦點
+
+【全國碳排放權交易市場累計成交量突破9億噸】生態環境部部長黃潤秋在8月13日國務院新聞辦公室舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，截至7月底，全國碳排放權交易市場累計成交量突破9.3億噸，在推動行業低成本降碳的同時，有力促進綠色低碳轉型。 （新華社）
+
+---
+
+### 2026-08-13 10:06:34  #其他
+
+【中際旭創漲超3% 成交額超100億元】中際旭創成交額超100億元，漲超3%；天孚通訊成交額超70億元，漲超9%；新易盛成交額超70億元，漲超4%。
+
+---
+
+### 2026-08-13 10:06:10  #MKT News
+
+【China's environmental quality improves through July, ministry says】Jan–Jul national PM2.5 concentration fell 1.8 µg/m3 YoY, a 6.2% decline; proportion of 'good' air days rose 3.9 percentage points YoY. Share of surface water monitoring sections rated Class I–III reached 86.5%, up 2.4 percentage points YoY, the Ministry of Ecology and Environment said.
+
+---
+
+### 2026-08-13 10:06:04  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish #DXY
+
+Japan 10-year government bond yield rose 0.5 bps to 2.855%.
+
+---
+
+### 2026-08-13 10:05:36  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bearish #000660.KS
+
+【Capital Economics: South Korea semiconductor boom may cool within two years】Capital Economics economist Marcel Thieliant said that while South Korea’s GDP faces near-term upside risks, the semiconductor-driven boom could lose momentum within two years. He expects the US AI investment surge to cool by 2028, which could prompt Korean chipmakers to pare capital spending given the sector’s cyclicality. Samsung Electronics and SK Hynix have announced a combined investment plan totaling 800 trillion won to build new fabs in southwest South Korea, but provided no timetable. Thieliant noted SK Hynix cut capex by two-thirds in 2023 after the post-pandemic electronics upswing reversed.
+
+---
+
+### 2026-08-13 10:05:23  #公司
+
+【奇點智控完成近億元天使輪融資】近日，致力於重塑具身智慧感知標準的創新型科技企業奇點智控（上海）科技有限公司宣佈，已完成近億元人民幣天使輪融資。本輪融資由隱峰資本領投，張江科投、浦東創投、傅利葉及兩家上市公司共同跟投。
+
+---
+
+### 2026-08-13 10:05:01  #宏觀
+
+【今年以來我國生態環境質量持續向好】生態環境部部長黃潤秋在8月13日國務院新聞辦公室舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年以來我國生態環境質量持續向好、主要指標明顯改善。1至7月，全國細顆粒物（PM2.5）濃度同比下降1.8微克/立方米、下降幅度達6.2%；優良天數比例同比上升3.9個百分點。地表水Ⅰ至Ⅲ類水質斷面比例達到86.5%，同比上升2.4個百分點。（新華社）
+
+---
+
+### 2026-08-13 10:04:51  #MKT News #02208.HK #Impact bullish #02338.HK #02402.HK
+
+Hong Kong-listed power equipment sector strengthened; Goldwind (02208.HK) rose over 3%, Weichai Power (02338.HK) nearly 2%, while 02402.HK and 03393.HK also advanced.
+
+---
+
+### 2026-08-13 10:03:51  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Remains on Intervention Watch — The Japanese yen traded around 159.3 per dollar on Thursday, hovering near the key psychological level of 160 per dollar and keeping traders on alert for further intervention from authorities amid persistent weakness. The currency remained pressured by longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. The yen also struggled to gain momentum even after subdued US inflation data reduced pressure on the Federal Reserve to raise interest rates in the near term. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate.
 
 ---
 
@@ -18080,59 +18188,5 @@ Russia Trade Surplus Widens in June — The Russian trade surplus widened to USD
 ### 2026-08-12 07:22:22  #其他
 
 【人民日報：“產能過剩”導致貿易順差的論調違背經濟常識】近年來，中國製造業國際競爭力快速提升，在世界市場中份額不斷提高，貿易順差有所擴大。對此，部分國家和經濟體擔憂其產業發展空間受到壓縮，個別國家炮製所謂“中國擠壓論”的錯誤論調，認為是中國的“產能過剩”導致了貿易順差的上升，進而危及其國內產業的發展。這種論調有違基本經濟常識，顯然站不住腳。中國實現貿易順差，說明中國產業體系完備高效，是全球分工體系和貿易格局變化的客觀結果。中國出口增長既源於規模經濟與創新能力提升，也來自各國綠色轉型和工業化發展的需求。從貿易利益分配看，“順差在中國，利益在各方”。當前，單邊主義和保護主義抬頭，各類貿易壁壘措施不僅抑制全球經濟增長，更嚴重擾亂正常的國際貿易秩序，阻礙全球產能的合理流動與最佳化佈局。各方尤其是主要貿易大國應當共同維護自由貿易體制，多行暢通便利之舉，少做築牆設壘之事，推動全球貿易朝著更加平衡、更可持續的方向發展。
-
----
-
-### 2026-08-12 07:22:13  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Advance as US-Iran Deal Eyed — Brent held above $89 per barrel on Wednesday after rising for five consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February.
-
----
-
-### 2026-08-12 07:21:23  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Advance as US-Iran Deal Eyed — Crude oil held above $83 per barrel on Wednesday after rising for four consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February.
-
----
-
-### 2026-08-12 07:18:10  #公司
-
-【香港IPO集資額已達410億美元 港交所料今年再創紀錄】據信報援引港交所CEO陳翊庭的話報道稱，截至8月初，香港首次公開募股(IPO)集資額已達410億美元，料今年再創紀錄。 陳翊庭在吉隆坡出席活動時表示，今年IPO集資額已突破去年透過120家公司上市集資的395億美元。
-
----
-
-### 2026-08-12 07:17:26  #宏觀 #公司 #國際
-
-【美國貨運鐵路公司就要求兩人乘務新規的上訴被駁回】根據美國第十一巡迴上訴法院週二作出的裁決，六家美國鐵路公司和兩個行業團體針對一項新規定提出的上訴被駁回，該規定要求許多列車在執行時必須配備至少兩名乘務人員。包括聯合太平洋鐵路公司和伯克希爾·哈撒韋旗下伯克希爾-諾福克南方鐵路公司在內的美國貨運鐵路公司，均反對聯邦鐵路管理局提出的乘務人員配置要求。該規定出臺的背景是，2023年俄亥俄州東巴勒斯坦市發生脫軌事故後，鐵路安全受到嚴密審查，工會組織為維持乘務員人數而展開了鬥爭。該事故導致載有有毒氯乙烯及其他危險化學品的車廂洩漏並起火。鐵路公司方面除其他理由外，還辯稱該乘務人員編制規定超出了聯邦鐵路管理局的一般規則制定許可權。法院駁回了鐵路公司的論點，並駁回了其要求審查該規定的請願。
-
----
-
-### 2026-08-12 07:15:28  #公司 #國際
-
-【三大超級專案，韓國想打“閃電戰”】韓國總統李在明10日主持超級專案民官聯合第二次檢查會議，督促“三大超級專案”提速，要求韓國政府不只是打“速度戰”，更要打“閃電戰”，明確兩年內臨時轉移光州軍用機場核心職能，為西南地區半導體超級專案騰出地方。據韓國《朝鮮日報》報道，韓國政府正推動總規模約4700萬億韓元（1萬韓元約合47.7元人民幣）的“三大超級專案”，核心內容包括三個方向：半導體供應鏈擴建、AI資料中心建設以及物理AI產業培育。其中三星電子、SK集團等企業計劃在韓國光州投資約800萬億韓元，建設4座半導體工廠。韓國《東亞日報》分析認為，李在明急推“閃電戰”，意在避免重蹈龍仁半導體專案覆轍。SK海力士龍仁半導體專案2019年公示後，受環評、用水、土地補償等問題制約，耗時6年才得以開工。《首爾新聞》報道提到，中國半導體企業的加速追趕，也倒逼韓國加快產業佈局，軍用機場搬遷，電力、用水等核心基礎設施建設已不容拖延。（環球網）
-
----
-
-### 2026-08-12 07:14:55  #Trading Economics #Economy #Japan #Reuters Tankan Index #Importance 1
-
-Japan Manufacturers' Mood Highest in 5 Months — The Reuters Tankan index for Japanese manufacturers increased to +18 in August 2026 from +13 in the previous month, marking the highest reading since March, supported by solid semiconductor demand. Semiconductor-related industries drove the manufacturing index higher, with the sub-index for chemicals surging to plus 33 from plus 23. Meanwhile, the metal and machinery industry index strengthened to plus 25 from plus 12.
-
----
-
-### 2026-08-12 07:13:26  #公司 #國際
-
-【加拿大航空恢復年度預測 並指出燃油價格波動仍構成風險】加拿大航空 週二恢復了其年度核心利潤目標，但目標水平低於此前暫停的預期，因為該公司預計，美國和以色列對伊朗的戰爭引發的石油供應中斷將導致航空燃油價格持續居高不下。這家加拿大最大航空公司曾於4月暫停釋出業績展望，當時伊朗封鎖了霍爾木茲海峽——該水道承擔著全球五分之一的石油運輸量——導致航空燃油供應和價格面臨不確定性。該公司預計2026年經調整的核心利潤將在29億加元(20.8億美元) 至32億加元之間。在暫停展望之前，其原預計為33.5億至37.5億加元。航空燃油通常約佔航空公司運營成本的四分之一，這使得航空公司容易受到燃油價格突然飆升或劇烈波動的影響。加拿大航空表示，國際海運貿易航線的嚴重中斷進一步加劇了航空燃油價格的壓力。第二季度的燃油支出較上年同期飆升了49%。
-
----
-
-### 2026-08-12 07:12:48  #公司 #市場
-
-【資料中心產業鏈迎發展視窗期 24只概念股上半年業績向好】人工智慧（AI）算力需求持續爆發，全球算力基建迎來大規模投資熱潮。為適配算力高速增長帶來的交付提速需求，阿里雲釋出新一代全模組化人工智慧資料中心架構，海內外科技巨頭加碼智算設施。疊加國內政策持續助推綠色算力與算力網建設，市場空間加速釋放，資料中心產業鏈迎來發展視窗期。據證券時報·資料寶統計，A股佈局資料中心產業鏈的概念股超過百隻。8月11日，城地香江、杭鋼股份漲停，盛弘股份上漲12.92%，旭光電子、銅牛資訊等跟漲。從業績來看，45只概念股公佈半年度業績相關公告。按半年報、業績快報、業績預告淨利潤下限順序統計，24股歸母淨利潤實現同比增長，其中利通電子、富瀚微同比增幅均在1000%以上。資料顯示，上述淨利潤增長的24股中，7股7月以來獲機構調研，其中新易盛、天孚通訊、通富微電獲機構調研家數居前，分別達到417家、40家、36家。
-
----
-
-### 2026-08-12 07:12:42  #公司 #市場 #央行 #國際
-
-【國泰海通：金價反彈 推薦黃金珠寶板塊相關標的】國泰海通釋出研報稱，金價反彈，推薦從銷量端&利潤彈性端有望受益的黃金珠寶標的。美國非農資料不及預期、美聯儲加息預期走弱，倫敦金現從8月5日開始較大幅度上漲，當前突破4300美元/盎司，創6月18日以來新高，6月底至8月初則持續在4000-4200美元/盎司區間震盪。該行指，此前壓制珠寶板塊股價主要因2026Q2以來金價走弱導致的對下半年基數走高背景下銷售、毛利率、後續增長持續性擔憂。當前金價反彈，有望帶動下半年高基數下增長延續，頭部公司憑藉優異產品力提升份額、帶動經營槓桿釋放。當前有望迎來估值、業績雙修復行情。
 
 ---

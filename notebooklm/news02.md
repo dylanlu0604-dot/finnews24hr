@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 13:58:17_
-_本檔包含 3117 則快訊，約 600920 字_
+_更新時間：2026-08-16 14:54:01_
+_本檔包含 3117 則快訊，約 601043 字_
+
+---
+
+### 2026-08-14 11:19:02  #公司
+
+【天津允新海河創業投資基金登記成立 出資額1億】天眼查App顯示，近日，天津允新海河創業投資基金合夥企業（有限合夥）成立，出資額1億人民幣，執行事務合夥人為公能日新（天津）私募股權投資基金管理有限公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，由允公聚能（天津）新能源集團有限公司、天津市天使投資引導基金合夥企業（有限合夥）、天津津鑠鼎和金匯投資有限公司、公能日新（天津）私募股權投資基金管理有限公司等共同出資。
+
+---
+
+### 2026-08-14 11:18:14  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Copper
+
+【Australia housing market cools; Q2 new home lending posts biggest drop in over three years】New home loans in Australia fell 5.2% QoQ in the three months to June, the largest quarterly decline since end-2022. Investor lending fell over 10% while owner-occupier loans dropped 1.9%. The fall aligns with major banks' reports of sharply lower mortgage applications. Reduced tax incentives for investors and continued house-price declines are prompting buyers to wait for a market bottom, suggesting housing demand may remain weak. The concurrent drop in prices and lending indicates Albanese's recent tax reforms to curb an unaffordable housing market have begun to take effect.
+
+---
+
+### 2026-08-14 11:17:32  #公司
+
+跨境支付公司XTransfer：全球企業客戶數量突破百萬。
+
+---
+
+### 2026-08-14 11:16:14  #MKT News #Commodities #Precious Metals #02099.HK #Impact bullish #03330.HK #02899.HK
+
+Hong Kong-listed gold miners firmed; China Gold International (02099.HK) jumped over 12% after reporting results, Lingbao Gold (03330.HK) rose more than 4%, and Chifeng Gold (06693.HK) and Zijin Mining (02899.HK) also gained.
+
+---
+
+### 2026-08-14 11:15:32  #MKT News #HON.O #Impact bearish
+
+JP Morgan cuts Honeywell price target to $255 from $262.
+
+---
+
+### 2026-08-14 11:15:25  #MKT News
+
+【Iran crisis disrupts energy markets, uncertainty drives surge in Japan power futures】Japanese firms are increasingly using power futures to hedge fuel-price risk as the Iran crisis roils energy markets. On the European Energy Exchange (EEX), combined July daytime, weekend and weekly volumes nearly doubled YoY to just over 10,000 contracts, a second consecutive monthly record. EEX accounted for about 97% of the Japanese power futures market in 2025. Intraday contract prices hit record highs in June and July. Leo Takai, EEX research and management manager, said the Iran crisis has made fuel markets unpredictable, prompting participants to shift trading toward futures—particularly intraday contracts.
+
+---
+
+### 2026-08-14 11:13:03  #其他
+
+【守護美麗中國 生態環境法典8月15日起施行】8月15日是第四個全國生態日。繼民法典之後我國第二部以“法典”命名的法律——《中華人民共和國生態環境法典》將自15日起施行，標誌著我國生態環境法治建設邁入新境界，為實現人與自然和諧共生的現代化進一步築牢法治根基。
+
+---
+
+### 2026-08-14 11:12:29  #央行 #國際 #原創
+
+【美聯儲FIMA回購機制上週仍未被使用 表明日本沒有動用該工具支撐日元】美聯儲一項鮮少使用的流動性工具上週沒有進行任何操作，再次表明日本在最近一次支撐日元的行動中沒有使用該工具。與此同時，海外貨幣當局向美聯儲存入了更多現金。根據美聯儲最新資料，截至8月12日當週，外國和國際貨幣當局回購機制(FIMA)的平均餘額為零。同期美聯儲的外國逆回購資金池的使用規模增加約400億美元，至3570億美元，為11月5日以來最高，也是自2022年11月以來最大的單週增幅。非美國實體可在該資金池存放隔夜資金，並按市場利率獲得收益，目前利率為3.5%。
+
+---
+
+### 2026-08-14 11:11:40  #MKT News
+
+【China launches drafting of national testing standards for humanoid robots】Aug 13, Optics Valley — China has launched drafting of a national standards series for humanoid robot testing, initiating seven draft standards including general rules, environmental perception, decision and planning, and motion control. More than 200 industry and academic representatives attended, including Unitree Robotics, Xiaomi Robotics, Magic Atom, ZTE, CloudMinds, Horizon Robotics, Lingxin Qiaoshou and other domestic robotics firms, plus Wuhan University, Huazhong University of Science and Technology, Nanjing University of Aeronautics and Astronautics, Northwestern Polytechnical University, China Jiliang University and University of Bamberg. Hubei provincial electronic information standardization committee unveiled a Humanoid Robot and Embodied Intelligence standards working group; the first 29 members include the Hubei Humanoid Robot Innovation Center, Hubei Institute of Metrology and Testing Technology, Wuhan University and HUST.
+
+---
+
+### 2026-08-14 11:11:36  #市場 #焦點
+
+科創50日內跌幅達1.00%，成分股中，華虹宏力跌8.75%，中科飛測跌5.15%，中控技術跌3.68%，百利天恆跌3.30%。
+
+---
+
+### 2026-08-14 11:11:17  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
+
+【Asian memory-chip makers gain after SanDisk's upbeat long-term outlook】Asian memory-chip stocks rose after SanDisk's upbeat long-term outlook. Kioxia Holdings jumped as much as 8.7% in Tokyo and SK Hynix rose as much as 6.5% in Seoul. The Bloomberg Asia Semiconductor Index climbed 1.6%, poised for a fifth straight session of gains. SanDisk said it expects revenue to grow 15–20% in 2028–2030, driven by long-term pricing agreements with customers. Ortus Advisors Japan equity strategist Andrew Jackson wrote that long-term contracts for NAND flash could help smooth the classic boom‑and‑bust cycle versus more volatile spot memory prices.
+
+---
+
+### 2026-08-14 11:11:04  #其他
+
+【快手短劇7月頭部十家版權分賬1300萬】快手內容消費中心資料顯示，原生短劇版權方7月分賬金額環比6月翻倍，單月規模創歷史新高。其中，Top10版權方分賬金額達1300萬，環比增幅113%。預計8月短劇分賬規模將再翻倍。
+
+---
+
+### 2026-08-14 11:10:36  #公司
+
+【東方甄選回應遭“薅羊毛式”黑灰產詐騙：犯罪嫌疑人已被採取刑事強制措施】東方甄選8月13日發文稱，近日，東方甄選在訂單資料日常監測中發現大量異常僅退款訂單，涉及金額較大，存在“薅羊毛式”黑灰產詐騙嫌疑。公司立即固定證據並向公安機關報案，全程配合調查取證。經警方縝密工作，目前，某張姓犯罪嫌疑人因涉嫌詐騙罪，已被警方依法採取刑事強制措施，案件正在進一步辦理中。未來，東方甄選將持續完善風控體系，加大對惡意退賠、職業索賠等行為的排查與打擊力度。
+
+---
+
+### 2026-08-14 11:10:24  #其他
+
+【人形機器人試驗方法系列國家標準編制工作啟動】據“中國光谷”訊息，8月13日，《人形機器人試驗方法》系列國家標準啟動會在光谷舉行。會上，總則、環境感知、決策規劃、運動控制等7項標準同步啟動編制。來自宇樹科技、小米機器人、魔法原子、中興通訊、雲深處科技、地平線、靈心巧手、銀河通用等國內頭部企業，和武漢大學、華中科技大學、南京航空航天大學、西北工業大學、中國計量大學、班貝格大學等高校的200多名行業代表參會。現場，湖北省電子資訊標準化技術委員會人形機器人與具身智慧標準工作組揭牌成立，首批委員涵蓋湖北人形機器人創新中心、湖北省計量測試技術研究院、武漢大學、華中科技大學等29家單位。
+
+---
+
+### 2026-08-14 11:09:59  #國際
+
+【外國企業對特定二次圓柱形電池、電池元件及包含該元件的產品提起337調查申請】2026年7月21日，韓國LG Energy Solution Ltd.、美國LG Energy Solution Arizona, Inc.根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）違反了美國337條款。
+
+---
+
+### 2026-08-14 11:09:52  #國際
+
+普拉博沃：印尼目標是在5-6年內實現肉類自給自足。
+
+---
+
+### 2026-08-14 11:09:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share food processing and manufacturing sector spiked intraday; Guifaxiang went straight to the daily limit-up, Lianhua Holdings had earlier hit the limit, and Sanquan Food, Black Sesame, Xianle Health, Qingdao Food and Anjoy Food also rose.
+
+---
+
+### 2026-08-14 11:09:13  #市場
+
+【食品加工製造板塊短線衝高，桂發祥直線漲停】食品加工製造板塊短線衝高，桂發祥直線漲停，蓮花控股此前漲停，三全食品、黑芝麻、仙樂健康、青島食品、安井食品跟漲。
 
 ---
 
@@ -18665,113 +18773,5 @@ Tianfu Communications A-shares rose 10.04% intraday to 264.14 yuan, with turnove
 ### 2026-08-13 10:10:25  #Trading Economics #Economy #Australia #Interest Rate #Importance 1
 
 Monetary Policy Remains Restrictive, Tightening Working: RBA Kent — Monetary policy in Australia remains “somewhat restrictive,” with earlier tightening continuing to weigh on demand and inflation, Reserve Bank Assistant Governor Christopher Kent said in a speech. He highlighted rising borrowing costs and mortgage payments, a softer housing market, and year-to-date appreciation of the Australian dollar as signs that aggregate demand growth is slowing. Kent stressed this moderation is “intended and needed” to return inflation to target. While estimates of the nominal neutral rate are imprecise, they suggest the current stance is restrictive. Yet financial conditions reflect more than policy alone: housing has weakened more than rate increases imply, amplifying restraint, while resilient global demand tied to AI investment and higher overseas yields could offset it. The central bank will continue weighing these cross-currents as it refines its outlook and guides future decisions.
-
----
-
-### 2026-08-13 10:09:59  #其他
-
-【AI版支付寶“阿寶”鴻蒙版逐步開放測試】8月13日，支付寶宣佈AI版支付寶“阿寶”鴻蒙版逐步開放測試。鴻蒙使用者在華為應用市場搜尋“支付寶”或“螞蟻阿寶”，將支付寶APP升級到12.12.16鴻蒙版本，即可在支付寶首頁右劃體驗“阿寶”。
-
----
-
-### 2026-08-13 10:09:33  #公司
-
-【中國RISC‑V SoC市場規模預計到2031年增長至864億美元】在第五屆滴水湖中國RISC-V產業論壇上，芯原股份董事長執行長戴偉民在致辭中表示，2025年全球RISC‑V SoC出貨量達約69億顆，預計到2031年將增長至約360億顆，複合增長率達31.7%，其市場規模將從940億美元增長至3130億美元，符合增長率達22.5%。中國RISC‑V SoC市場規模預計從2025年的約240億美元增至2031年的約864億美元。
-
----
-
-### 2026-08-13 10:09:25  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-AUS 10Y Yield Trades Near Multi-Week Highs — Australia’s 10-year government bond yield traded above 4.9%, remaining near multi-week highs as the Reserve Bank’s latest comments reinforced a hawkish policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday.
-
----
-
-### 2026-08-13 10:09:24  #市場
-
-【天孚通訊盤中漲超10%】A股天孚通訊盤中漲10.04%，現報264.14元。
-
----
-
-### 2026-08-13 10:09:20  #其他
-
-【哈爾濱警方徵集涉黑涉惡線索，軟暴力催收、惡意索賠等被列入新型黑惡違法犯罪線索】哈爾濱市公安局微信公眾號8月12日晚間釋出《關於徵集涉黑涉惡違法犯罪線索的通告》。其中，通告列出十類新型黑惡違法犯罪線索,軟暴力催收、惡意索賠、輿情敲詐、務工敲詐、碰瓷敲詐等被列入。此外，操縱控制未成年人實施違法犯罪線索、侵害未成年人權益等等被列入“其他涉黑涉惡違法犯罪線索”範圍。（澎湃新聞）
-
----
-
-### 2026-08-13 10:07:39  #公司
-
-【凡拓數創成立物理智慧科技公司 含AI業務】企查查APP顯示，近日，方寸先機物理智慧科技（廣州）有限公司成立，經營範圍包含智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由凡拓數創全資持股。
-
----
-
-### 2026-08-13 10:07:27  #MKT News #Important #Market Regions #Greater China
-
-【China's national carbon market cumulative transactions exceed 930 million tonnes】The Ministry of Ecology and Environment said at an Aug. 13 State Council press briefing that China’s national carbon emissions trading market had cumulative transactions of more than 930 million tonnes as of end‑July, supporting low‑cost industrial decarbonization and advancing the country's green transition.
-
----
-
-### 2026-08-13 10:07:23  #其他
-
-【諾仕機器人完成近億元A+輪融資】近日，精密傳動部件供應商諾仕機器人（NOUSBOT）完成近億元A+輪融資。本輪由順為資本領投，望千銘誠跟投。資金將主要用於微型行星滾柱絲槓產能擴張、產品迭代及海外市場佈局。
-
----
-
-### 2026-08-13 10:07:16  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Bond Yield Hits 4-week High — Japan 10 Year Government Bond Yield increased to 2.86%, the highest since July 2026. Over the past 4 weeks, Japan 10Y Bond Yield gained 15.56 basis points, and in the last 12 months, it increased 130.70 basis points.
-
----
-
-### 2026-08-13 10:06:59  #焦點
-
-【全國碳排放權交易市場累計成交量突破9億噸】生態環境部部長黃潤秋在8月13日國務院新聞辦公室舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，截至7月底，全國碳排放權交易市場累計成交量突破9.3億噸，在推動行業低成本降碳的同時，有力促進綠色低碳轉型。 （新華社）
-
----
-
-### 2026-08-13 10:06:34  #其他
-
-【中際旭創漲超3% 成交額超100億元】中際旭創成交額超100億元，漲超3%；天孚通訊成交額超70億元，漲超9%；新易盛成交額超70億元，漲超4%。
-
----
-
-### 2026-08-13 10:06:10  #MKT News
-
-【China's environmental quality improves through July, ministry says】Jan–Jul national PM2.5 concentration fell 1.8 µg/m3 YoY, a 6.2% decline; proportion of 'good' air days rose 3.9 percentage points YoY. Share of surface water monitoring sections rated Class I–III reached 86.5%, up 2.4 percentage points YoY, the Ministry of Ecology and Environment said.
-
----
-
-### 2026-08-13 10:06:04  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish #DXY
-
-Japan 10-year government bond yield rose 0.5 bps to 2.855%.
-
----
-
-### 2026-08-13 10:05:36  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bearish #000660.KS
-
-【Capital Economics: South Korea semiconductor boom may cool within two years】Capital Economics economist Marcel Thieliant said that while South Korea’s GDP faces near-term upside risks, the semiconductor-driven boom could lose momentum within two years. He expects the US AI investment surge to cool by 2028, which could prompt Korean chipmakers to pare capital spending given the sector’s cyclicality. Samsung Electronics and SK Hynix have announced a combined investment plan totaling 800 trillion won to build new fabs in southwest South Korea, but provided no timetable. Thieliant noted SK Hynix cut capex by two-thirds in 2023 after the post-pandemic electronics upswing reversed.
-
----
-
-### 2026-08-13 10:05:23  #公司
-
-【奇點智控完成近億元天使輪融資】近日，致力於重塑具身智慧感知標準的創新型科技企業奇點智控（上海）科技有限公司宣佈，已完成近億元人民幣天使輪融資。本輪融資由隱峰資本領投，張江科投、浦東創投、傅利葉及兩家上市公司共同跟投。
-
----
-
-### 2026-08-13 10:05:01  #宏觀
-
-【今年以來我國生態環境質量持續向好】生態環境部部長黃潤秋在8月13日國務院新聞辦公室舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年以來我國生態環境質量持續向好、主要指標明顯改善。1至7月，全國細顆粒物（PM2.5）濃度同比下降1.8微克/立方米、下降幅度達6.2%；優良天數比例同比上升3.9個百分點。地表水Ⅰ至Ⅲ類水質斷面比例達到86.5%，同比上升2.4個百分點。（新華社）
-
----
-
-### 2026-08-13 10:04:51  #MKT News #02208.HK #Impact bullish #02338.HK #02402.HK
-
-Hong Kong-listed power equipment sector strengthened; Goldwind (02208.HK) rose over 3%, Weichai Power (02338.HK) nearly 2%, while 02402.HK and 03393.HK also advanced.
-
----
-
-### 2026-08-13 10:03:51  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Remains on Intervention Watch — The Japanese yen traded around 159.3 per dollar on Thursday, hovering near the key psychological level of 160 per dollar and keeping traders on alert for further intervention from authorities amid persistent weakness. The currency remained pressured by longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. The yen also struggled to gain momentum even after subdued US inflation data reduced pressure on the Federal Reserve to raise interest rates in the near term. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate.
 
 ---
