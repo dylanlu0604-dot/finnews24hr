@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:51:53_
-_本檔包含 3167 則快訊，約 602504 字_
+_更新時間：2026-08-17 04:32:10_
+_本檔包含 3157 則快訊，約 601543 字_
+
+---
+
+### 2026-08-14 15:01:27  #公司 #市場
+
+【A股收評：滬指窄幅震盪收漲0.01%，電子化學品、CPO、非金屬材料板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.01%，深證成指漲0.45%，創業板指漲1.12%，北證50跌0.94%，科創50指數持平。全市場成交額21566億元，較上日縮量4114億元，全市場超2900只個股下跌。板塊題材上，電子化學品、非金屬材料、CPO、元件、光纖概念板塊漲幅居前；影視院線、電力、乳業、白酒、零售板塊跌幅居前。盤面上，電子化學品板塊震盪走高，中石科技、海星股份漲停，龍辰科技、思泉新材、廣鋼氣體、中巨芯、格林達漲幅居前。CPO板塊高開高走，劍橋科技、中瓷電子、金戈新材、共進股份等股漲停，亨通光電、中富電路、長盈通漲幅居前。稀土永磁板塊表現強勢，金田股份、中國稀土、華宏科技獲漲停，龍磁科技、三祥新材、寧波韻升漲幅居前。電力板塊震盪走低，立新能源跌停，華銀電力、梅雁吉祥、粵電力A均逼近跌停，京能電力、晉控電力、華電遼能紛紛大幅下挫。零售板塊亦表現低迷，錦和商管跌停，東百集團跌超9%，中百集團、步步高、華致酒行跌幅居前。
+
+---
+
+### 2026-08-14 15:01:24  #國際
+
+【中國埃及兩國空軍將舉行聯訓】8月中旬至9月上旬，中國與埃及兩國空軍將在埃舉行“文明之鷹-2026”空軍聯合訓練，重點開展空戰戰術、制空作戰、戰鬥搜救等課目訓練，並進行兵力運用演練。這是雙方第2次舉辦該系列聯訓，將持續增進雙方互信與傳統友誼，深化兩軍務實合作，共同維護地區和平穩定。
+
+---
+
+### 2026-08-14 15:01:22  #MKT News
+
+A Reuters survey showed 11 of 20 economists expect Bank Indonesia's 7-day reverse repo rate to reach 6.00% or higher by end-2026.
+
+---
+
+### 2026-08-14 15:01:18  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #CNH #Impact bullish #CSI300 #SSE Composite
+
+CHINA STATE PLANNER said domestic gasoline and diesel retail price caps will be cut by 230 yuan per ton and 220 yuan per ton respectively, effective 24:00 on Aug. 14.
+
+---
+
+### 2026-08-14 15:01:08  #宏觀 #焦點
+
+【明起國內汽、柴油（標準品）價格每噸分別下調230元、220元】發改委官網8月14日訊息，7月31日國內成品油價格調整以來，國際市場原油價格快速回落後震盪執行，本次調價的前10個工作日平均價格低於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自8月14日24時起，國內汽、柴油（標準品）價格每噸分別下調230元、220元。
+
+---
+
+### 2026-08-14 15:01:02  #市場 #焦點
+
+A股收盤，上證指數漲0.01%，深證成指漲0.45%，創業板指漲1.12%。
+
+---
+
+### 2026-08-14 15:01:02  #MKT News
+
+Thailand plans to launch a domestic tourism subsidy scheme in October, the tourism minister said.
+
+---
+
+### 2026-08-14 15:00:57  #MKT News
+
+REUTERS SURVEY shows 27 of 28 economists expect Bank Indonesia to hold the 7-day reverse repo rate unchanged at 5.75% at its Aug. 19 policy meeting.
+
+---
+
+### 2026-08-14 15:00:41  #MKT News
+
+Nomura forecasts India's fiscal deficit will widen by 20bps and does not expect policy rate hikes before 2027.
+
+---
+
+### 2026-08-14 15:00:12  #公司
+
+【綠地集團與寧德時代圍繞零碳產業場景打造、寧家服務直營體驗中心落地等議題進行洽談】據綠地集團公眾號訊息，8月13日，綠地集團董事長、總裁張玉良一行赴福建寧德時代總部考察交流，並與寧德時代董事、生態發展委員會主席吳映明進行合作洽談。雙方圍繞零碳產業場景打造、寧家服務直營體驗中心落地等核心議題進行了深入洽談，明確將依託各自產業資源優勢探索合作方向，攜手佈局新能源全鏈路生態。此次會談標誌著綠地集團與寧德時代戰略合作邁出關鍵一步，雙方後續將深入對接，針對零碳專案落地、寧家體驗中心選址運營等事項細化實施方案，推動合作專案儘快落地見效，以產業協同助力全國能源綠色轉型。
+
+---
+
+### 2026-08-14 15:00:02  #市場
+
+【商品期貨收盤】焦煤連續漲3.34%，碳酸鋰連續漲3.34%，鈀連續跌3.16%，燃料油連續漲2.93%，低硫燃料油連續漲2.93%，菜油連續漲2.81%，純苯連續漲2.42%，多晶矽連續漲2.31%，工業矽連續漲2.27%。
+
+---
+
+### 2026-08-14 15:00:02  #市場
+
+【股指期貨午盤收盤】 中證1000指數期貨連續跌0.15%， 滬深300指數期貨連續跌0.36%， 中證500指數期貨連續跌0.54%， 上證50指數期貨連續跌0.62%。
 
 ---
 
@@ -18943,137 +19015,5 @@ UK June GDP YoY 1.1% vs consensus 0.8%; prior reading revised to 1.2% from 1.3%.
 ### 2026-08-13 14:00:48  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
 
 UK June services index YoY 1.6% (exp. 1.4%); May revised to 1.5% from 1.7%.
-
----
-
-### 2026-08-13 14:00:40  #MKT News #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
-
-UK June manufacturing output YoY 0.5% vs. 1.2% expected; May revised down to 2.0% from 2.30%.
-
----
-
-### 2026-08-13 14:00:37  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-UK June construction output MoM -0.1% vs est -0.3%; prior -0.8%.
-
----
-
-### 2026-08-13 14:00:27  #資料
-
-英國第二季度GDP年率初值 1.2%，預期1.10%，前值0.90%。
-
----
-
-### 2026-08-13 14:00:26  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
-
-UK three-month GDP monthly growth for June 0.4% MoM, matching expectations of 0.4%; May revised down to 0.6% from 0.7%.
-
----
-
-### 2026-08-13 14:00:22  #資料
-
-英國6月三個月GDP月率 0.4%，預期0.4%，前值由0.7%修正為0.6%。
-
----
-
-### 2026-08-13 14:00:20  #資料
-
-英國6月製造業產出月率 -0.5%，預期-0.2%，前值由0.10%修正為-0.2%。英國6月工業產出月率 -0.2%，預期0.1%，前值由-0.50%修正為-0.7%。
-
----
-
-### 2026-08-13 14:00:05  #MKT News #Economic Calendar #Important
-
-United Kingdom | Non-EU Trade Balance (Jun) | actual -10448000000B | previous -7138000000B
-
----
-
-### 2026-08-13 14:00:04  #MKT News #Economic Calendar #Important
-
-United Kingdom | Goods Trade Balance SA (Jun) | actual -23007000000B | consensus -20500000000B | previous -18660000000B
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Gross Fixed Capital Formation Preliminary (QoQ) (Q2) | actual 1.7% | consensus -0.5% | previous 0.90%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Gross Fixed Capital Formation Preliminary (YoY) (Q2) | actual 0.8% | previous -1.30%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP Preliminary (QoQ) (Q2) | actual 0.4% | consensus 0.40% | previous 0.60%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP Preliminary (YoY) (Q2) | actual 1.2% | consensus 1.10% | previous 0.90%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP (MoM) (Jun) | actual 0.3% | consensus 0% | previous 0.10%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Construction Output (YoY) (Jun) | actual -2.3% | consensus -2.4% | previous -1.80%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Manufacturing Output (YoY) (Jun) | actual 0.5% | consensus 1.2% | previous 2.30%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Industrial Output (YoY) (Jun) | actual -0.2% | consensus 0.2% | previous 1.00%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP (YoY) (Jun) | actual 1.1% | consensus 0.8% | previous 1.3%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Industrial Output (MoM) (Jun) | actual -0.2% | consensus 0.1% | previous -0.50%
-
----
-
-### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | Manufacturing Output (MoM) (Jun) | actual -0.5% | consensus -0.2% | previous 0.10%
-
----
-
-### 2026-08-13 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP 3M/3M (MoM) (Jun) | actual 0.4% | consensus 0.4% | previous 0.7%
-
----
-
-### 2026-08-13 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Construction Output (MoM) (Jun) | actual -0.1% | consensus -0.3% | previous -0.80%
-
----
-
-### 2026-08-13 13:59:48  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Rupiah Steady Near IDR 17,870 — The Indonesian rupiah hovered around IDR 17,870 per U.S. dollar on Thursday, little changed from the prior session, as the dollar index steadied ahead of July’s U.S. PPI data for more clues on price pressures and the Fed’s policy outlook. Locally, fiscal discipline remained in focus as the government pledged to cap the 2026 deficit below 3% of GDP, as tax receipts surged over 23% yoy in January–July, underscoring stronger revenue collection. Meanwhile, the 2027 budget proposal, set for Friday, may sustain a consumption-driven orientation. Political attention also turned to Bank Indonesia leadership, with President Prabowo nominating Aida Budiman as senior deputy governor and Destry Damayanti as the sole candidate to succeed Perry Warjiyo. BI’s policy meeting next week, its first since Warjiyo’s exit, comes after 100bps of hikes in May–June to aid the rupiah. With July inflation hitting a three-month low of 2.88%, policymakers may gain room to weigh further tightening more cautiously.
 
 ---

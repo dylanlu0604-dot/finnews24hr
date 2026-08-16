@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:51:53_
-_本檔包含 2974 則快訊，約 601380 字_
+_更新時間：2026-08-17 04:32:10_
+_本檔包含 2992 則快訊，約 602112 字_
+
+---
+
+### 2026-08-13 14:00:40  #MKT News #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+UK June manufacturing output YoY 0.5% vs. 1.2% expected; May revised down to 2.0% from 2.30%.
+
+---
+
+### 2026-08-13 14:00:37  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK June construction output MoM -0.1% vs est -0.3%; prior -0.8%.
+
+---
+
+### 2026-08-13 14:00:27  #資料
+
+英國第二季度GDP年率初值 1.2%，預期1.10%，前值0.90%。
+
+---
+
+### 2026-08-13 14:00:26  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
+
+UK three-month GDP monthly growth for June 0.4% MoM, matching expectations of 0.4%; May revised down to 0.6% from 0.7%.
+
+---
+
+### 2026-08-13 14:00:22  #資料
+
+英國6月三個月GDP月率 0.4%，預期0.4%，前值由0.7%修正為0.6%。
+
+---
+
+### 2026-08-13 14:00:20  #資料
+
+英國6月製造業產出月率 -0.5%，預期-0.2%，前值由0.10%修正為-0.2%。英國6月工業產出月率 -0.2%，預期0.1%，前值由-0.50%修正為-0.7%。
+
+---
+
+### 2026-08-13 14:00:05  #MKT News #Economic Calendar #Important
+
+United Kingdom | Non-EU Trade Balance (Jun) | actual -10448000000B | previous -7138000000B
+
+---
+
+### 2026-08-13 14:00:04  #MKT News #Economic Calendar #Important
+
+United Kingdom | Goods Trade Balance SA (Jun) | actual -23007000000B | consensus -20500000000B | previous -18660000000B
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Gross Fixed Capital Formation Preliminary (QoQ) (Q2) | actual 1.7% | consensus -0.5% | previous 0.90%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Gross Fixed Capital Formation Preliminary (YoY) (Q2) | actual 0.8% | previous -1.30%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | GDP Preliminary (QoQ) (Q2) | actual 0.4% | consensus 0.40% | previous 0.60%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | GDP Preliminary (YoY) (Q2) | actual 1.2% | consensus 1.10% | previous 0.90%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | GDP (MoM) (Jun) | actual 0.3% | consensus 0% | previous 0.10%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Construction Output (YoY) (Jun) | actual -2.3% | consensus -2.4% | previous -1.80%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Manufacturing Output (YoY) (Jun) | actual 0.5% | consensus 1.2% | previous 2.30%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Industrial Output (YoY) (Jun) | actual -0.2% | consensus 0.2% | previous 1.00%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | GDP (YoY) (Jun) | actual 1.1% | consensus 0.8% | previous 1.3%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Industrial Output (MoM) (Jun) | actual -0.2% | consensus 0.1% | previous -0.50%
+
+---
+
+### 2026-08-13 14:00:01  #MKT News #Economic Calendar #Important
+
+United Kingdom | Manufacturing Output (MoM) (Jun) | actual -0.5% | consensus -0.2% | previous 0.10%
+
+---
+
+### 2026-08-13 14:00:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | GDP 3M/3M (MoM) (Jun) | actual 0.4% | consensus 0.4% | previous 0.7%
+
+---
+
+### 2026-08-13 14:00:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | Construction Output (MoM) (Jun) | actual -0.1% | consensus -0.3% | previous -0.80%
+
+---
+
+### 2026-08-13 13:59:48  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Steady Near IDR 17,870 — The Indonesian rupiah hovered around IDR 17,870 per U.S. dollar on Thursday, little changed from the prior session, as the dollar index steadied ahead of July’s U.S. PPI data for more clues on price pressures and the Fed’s policy outlook. Locally, fiscal discipline remained in focus as the government pledged to cap the 2026 deficit below 3% of GDP, as tax receipts surged over 23% yoy in January–July, underscoring stronger revenue collection. Meanwhile, the 2027 budget proposal, set for Friday, may sustain a consumption-driven orientation. Political attention also turned to Bank Indonesia leadership, with President Prabowo nominating Aida Budiman as senior deputy governor and Destry Damayanti as the sole candidate to succeed Perry Warjiyo. BI’s policy meeting next week, its first since Warjiyo’s exit, comes after 100bps of hikes in May–June to aid the rupiah. With July inflation hitting a three-month low of 2.88%, policymakers may gain room to weigh further tightening more cautiously.
 
 ---
 
@@ -17924,29 +18056,5 @@ Indonesia Stocks Rebound — Indonesian shares rose 51 points or 0.8% to 6,319 i
 ### 2026-08-12 10:26:55  #MKT News
 
 【National flood control headquarters, Ministry of Emergency Management raise Henan flood-response to level 3】China’s National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management raised Henan’s flood-control emergency response from level 4 to level 3 at 09:00 on August 12. On August 11 central-eastern Henan saw heavy to very heavy rain, with extreme rainfall reported in Pingdingshan and Luoyang. Meteorological forecasts show heavy to very heavy rain from August 12–15 across central‑west and southern Huanghuai and southern North China; parts of central and western Henan along mountain areas may experience extremely heavy rainfall.
-
----
-
-### 2026-08-12 10:26:53  #國際
-
-【國家防總、應急管理部將針對河南的防汛四級應急響應提升至三級】8月11日，河南省中東部等地出現暴雨或大暴雨，平頂山、洛陽等局地特大暴雨。據氣象部門預報，12日至15日，黃淮中西部和南部、華北南部等地有暴雨或大暴雨，河南中部和西部沿山等地部分地區有特大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月12日9時將針對河南省的防汛四級應急響應提升至三級。（央視新聞）
-
----
-
-### 2026-08-12 10:26:32  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-【Alibaba Cloud launches Lingjun Zhenwu M890 super-node instance; first batch on sale in Ulanqab】Alibaba Cloud has launched the Lingjun Zhenwu M890 super-node instance, with the first batch now on sale in the Ulanqab region. It is the first domestic super-node configuration reported to run models exceeding 2 trillion parameters; Kimi K3 and Qwen3.8 Max are available via the instance. Technical features include FP8/FP4 low-precision compute support and an ICN Switch 1.0 scale-up interconnect that raises node scale from 16 to 64 cards and boosts inter-card bandwidth to 800 GB/s. Alibaba Cloud reports training performance is roughly three times that of the previous-generation Zhenwu 810E in autonomous driving and embodied-intelligence training scenarios.
-
----
-
-### 2026-08-12 10:25:09  #市場
-
-【中鎢線上：鎢價漲跌兩難 鎢市買賣不旺】據中鎢線上公眾號，8月12日，國內鎢市場延續僵持橫盤格局。近期交投活躍度有所回升，但尚未形成規模性支撐，價格驅動力不足，成交仍以商談為主，整體按需進行。鎢精礦市場上，礦商挺價意願較強，場內低價貨源難覓，55%以上品位鎢精礦價格穩固在41萬元/標噸上方，市場流動性相對侷限。仲鎢酸銨（APT）市場上，在成本支撐與需求承壓的交織下多空博弈，成交重心持續僵持在60萬元/噸關口附近。鎢粉末市場上，買賣雙方保持觀望拉鋸態勢，市場訂單有所增量，但議價水平仍有承壓，鎢粉交易重心在950元/公斤左右，碳化鎢粉議價在880元/公斤左右。鎢鐵市場上，產業鏈上下游僵持背景下，交投主動性不足，行情維持橫盤觀望，70鎢鐵報價暫穩在66萬元/噸左右。鎢廢料市場上，持貨商惜售探高，但消費端與回收商接受度有限，市場漲跌兩難，行情維持窄幅震盪整理。
-
----
-
-### 2026-08-12 10:24:47  #MKT News
-
-【India to tighten NGO oversight, may empower seizure of foreign-funded NGO assets】India plans to tighten regulation of NGOs, including a proposed amendment that would empower a new agency to seize land, buildings or other assets owned by foreign-funded organizations whose mandatory official registration is cancelled or not renewed. The ruling Modi-led Hindu nationalist government is prepared to push the reforms despite lobbying from Western governments, opposition parties and Christian churches warning the move could jeopardize thousands of schools, hospitals, religious sites and humanitarian projects. A senior Indian official said the government may seek a parliamentary vote on the amendment before this Thursday’s session ends. Officials cite concerns about covert foreign influence as the rationale for the tighter oversight.
 
 ---

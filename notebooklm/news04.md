@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:51:53_
-_本檔包含 3059 則快訊，約 601305 字_
+_更新時間：2026-08-17 04:32:10_
+_本檔包含 3055 則快訊，約 600935 字_
+
+---
+
+### 2026-08-12 10:26:53  #國際
+
+【國家防總、應急管理部將針對河南的防汛四級應急響應提升至三級】8月11日，河南省中東部等地出現暴雨或大暴雨，平頂山、洛陽等局地特大暴雨。據氣象部門預報，12日至15日，黃淮中西部和南部、華北南部等地有暴雨或大暴雨，河南中部和西部沿山等地部分地區有特大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月12日9時將針對河南省的防汛四級應急響應提升至三級。（央視新聞）
+
+---
+
+### 2026-08-12 10:26:32  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
+
+【Alibaba Cloud launches Lingjun Zhenwu M890 super-node instance; first batch on sale in Ulanqab】Alibaba Cloud has launched the Lingjun Zhenwu M890 super-node instance, with the first batch now on sale in the Ulanqab region. It is the first domestic super-node configuration reported to run models exceeding 2 trillion parameters; Kimi K3 and Qwen3.8 Max are available via the instance. Technical features include FP8/FP4 low-precision compute support and an ICN Switch 1.0 scale-up interconnect that raises node scale from 16 to 64 cards and boosts inter-card bandwidth to 800 GB/s. Alibaba Cloud reports training performance is roughly three times that of the previous-generation Zhenwu 810E in autonomous driving and embodied-intelligence training scenarios.
+
+---
+
+### 2026-08-12 10:25:09  #市場
+
+【中鎢線上：鎢價漲跌兩難 鎢市買賣不旺】據中鎢線上公眾號，8月12日，國內鎢市場延續僵持橫盤格局。近期交投活躍度有所回升，但尚未形成規模性支撐，價格驅動力不足，成交仍以商談為主，整體按需進行。鎢精礦市場上，礦商挺價意願較強，場內低價貨源難覓，55%以上品位鎢精礦價格穩固在41萬元/標噸上方，市場流動性相對侷限。仲鎢酸銨（APT）市場上，在成本支撐與需求承壓的交織下多空博弈，成交重心持續僵持在60萬元/噸關口附近。鎢粉末市場上，買賣雙方保持觀望拉鋸態勢，市場訂單有所增量，但議價水平仍有承壓，鎢粉交易重心在950元/公斤左右，碳化鎢粉議價在880元/公斤左右。鎢鐵市場上，產業鏈上下游僵持背景下，交投主動性不足，行情維持橫盤觀望，70鎢鐵報價暫穩在66萬元/噸左右。鎢廢料市場上，持貨商惜售探高，但消費端與回收商接受度有限，市場漲跌兩難，行情維持窄幅震盪整理。
+
+---
+
+### 2026-08-12 10:24:47  #MKT News
+
+【India to tighten NGO oversight, may empower seizure of foreign-funded NGO assets】India plans to tighten regulation of NGOs, including a proposed amendment that would empower a new agency to seize land, buildings or other assets owned by foreign-funded organizations whose mandatory official registration is cancelled or not renewed. The ruling Modi-led Hindu nationalist government is prepared to push the reforms despite lobbying from Western governments, opposition parties and Christian churches warning the move could jeopardize thousands of schools, hospitals, religious sites and humanitarian projects. A senior Indian official said the government may seek a parliamentary vote on the amendment before this Thursday’s session ends. Officials cite concerns about covert foreign influence as the rationale for the tighter oversight.
 
 ---
 
@@ -18398,53 +18422,5 @@ Irish Construction Returns to Growth in July — The AIB Ireland Construction PM
 ### 2026-08-11 08:17:40  #MKT News #Market Themes #AI Revolution #RIOT.O #Impact bullish
 
 【Sources: Anthropic agrees $9.1 bln deal with Riot Platforms】Sources say Anthropic PBC has agreed a $9.1 bln deal with cloud-compute provider Riot Platforms. Riot, which has begun selling AI data-center capacity, disclosed on Monday a 20-year agreement to supply 191 MW from its Rockdale, Texas campus; sources identified the counterparty as Anthropic.
-
----
-
-### 2026-08-11 08:17:27  #Trading Economics #Economy #Singapore #GDP Annual Growth Rate #Importance 1
-
-Singapore Q2 GDP Growth Revised Higher — Singapore’s economy grew by 5.9% year-on-year in the second quarter of 2026, slowing from a 6.3% expansion in Q1, which was the strongest annual growth since Q3 2024, but exceeded advance estimates of 5.7%. Growth was mainly supported by the goods-producing industries (10.5% vs 7.9% in Q1), with manufacturing growth surging to 12.5% (vs 7.3%). Construction growth, however, slowed to 5.8% from 12.9%. Meanwhile, services-producing industries expanded 4.9%, easing from 6.3% in the previous quarter. Growth softened in wholesale & retail trade and transportation & storage (6.3% vs. 9.5%) and accommodation & food services, real estate, administrative & support services and other services industries (2.4% vs 3.1%), while information & communications, finance & insurance and professional services accelerated (5.1% vs 4.7%). On a quarterly basis, the economy expanded 1.4%, surpassing flash estimates of 1.1% and accelerating from a slightly downwardly revised 1.2% growth in the previous quarter.
-
----
-
-### 2026-08-11 08:15:19  #公司
-
-商務部貿易救濟局：牛肉保障措施項下自巴西進口的牛肉於2026年8月10日已達到商務部公告2025年第87號明確的該國家（地區）規定數量的90%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起（含當日），將在現行適用關稅稅率基礎上加徵55%關稅。
-
----
-
-### 2026-08-11 08:14:02  #國際
-
-【新加坡上調2026年增長預測 但警告全球經濟面臨阻力】新加坡上調了2026年經濟增長預測，原因在於上半年表現強於預期，不過有官員警告稱，全球經濟依然面臨風險。貿易及工業部(MTI)週二公佈的修正後資料顯示，第二季度國內生產總值(GDP)同比增長5.9%。該部門7月份的初步預估為第二季度增長5.7%，第一季度增幅為6.3%。上半年GDP同比增長6.1%。該部門將其2026年增長預測從之前預計的2.0%-4.0%上調至4.5%-5.5%。2025年該國經濟增長5.0%。貿易及工業部將此次上修歸因於上半年表現強於預期，以及在全球人工智慧相關資本支出加速的推動下，今年剩餘時間的前景有所改善。不過，貿易及工業部警告稱，風險包括中東衝突可能升溫，這或將引發能源大宗商品價格和其他關鍵中間投入品價格再度飆升。該部門稱：“由此導致的通脹壓力上升和全球金融環境收緊，可能會抑制全球增長。”經季節性調整後，第二季度GDP環比增長1.4%，相比之下，初值為增長1.1%，第一季度修正後增幅為1.2%。
-
----
-
-### 2026-08-11 08:13:43  #MKT News #Nikkei 225 #Impact bullish #Hang Seng Index #S&P500
-
-Korea Customs Service said exports from Aug. 1-10 rose 45.3% YoY and imports rose 23.1% YoY; preliminary trade surplus was $1.8 billion.
-
----
-
-### 2026-08-11 08:13:43  #MKT News
-
-Singapore's Ministry of Trade and Industry (MTI) raised its 2026 non-oil domestic exports growth forecast to 14.0%-16.0% from 3.0%-5.0%.
-
----
-
-### 2026-08-11 08:13:11  #其他
-
-【中國駐哥倫比亞使館：暫未接到中國公民傷亡報告 】中國駐哥倫比亞大使館10日釋出訊息說，哥倫比亞當天發生7.4級強震後，使館第一時間啟動應急機制，全面排查在哥中國公民受災情況，目前尚未接到中國公民傷亡報告。
-
----
-
-### 2026-08-11 08:12:50  #央行 #國際
-
-【機構：金價可能測試並突破最新高點】Pepperstone研究主管Chris Weston表示，頭寸狀況改善、資金流向動態提供支撐、實際收益率下降、收益率曲線變陡、對美聯儲降息的預期升溫以及央行持續買入，這些因素共同推動金價回升至每盎司4,400美元附近。現在的問題是，市場是否有足夠的動力突破每盎司4,500美元，並最終挑戰4月和5月出現的接近每盎司4,800美元的高點。他補充說，沒有人知道答案，但當技術突破與有利的宏觀基本面和強勁的資金流向動態相一致時，趨勢往往會比許多人預期的延伸得更遠。
-
----
-
-### 2026-08-11 08:12:17  #觀點
-
-【華泰證券：基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭】華泰證券研報稱，基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭。OpenAI早期依託相對自下而上的產品創新機制，透過ChatGPT建立大規模C端入口；Anthropic則持續聚焦模型能力、Coding和企業API，並隨著Coding場景成熟逐步體現資源集中優勢。與此同時，智譜、MiniMax亦逐步向API、Coding和Agent收斂。華泰證券認為，基礎模型行業的競爭維度正在由模型能力和使用者規模進一步擴充套件至高價值Token消耗、企業滲透、單位經濟性及產品分發能力。
 
 ---

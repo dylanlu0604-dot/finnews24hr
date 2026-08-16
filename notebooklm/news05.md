@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:51:53_
-_本檔包含 2948 則快訊，約 601496 字_
+_更新時間：2026-08-17 04:32:10_
+_本檔包含 2939 則快訊，約 601436 字_
+
+---
+
+### 2026-08-11 08:17:27  #Trading Economics #Economy #Singapore #GDP Annual Growth Rate #Importance 1
+
+Singapore Q2 GDP Growth Revised Higher — Singapore’s economy grew by 5.9% year-on-year in the second quarter of 2026, slowing from a 6.3% expansion in Q1, which was the strongest annual growth since Q3 2024, but exceeded advance estimates of 5.7%. Growth was mainly supported by the goods-producing industries (10.5% vs 7.9% in Q1), with manufacturing growth surging to 12.5% (vs 7.3%). Construction growth, however, slowed to 5.8% from 12.9%. Meanwhile, services-producing industries expanded 4.9%, easing from 6.3% in the previous quarter. Growth softened in wholesale & retail trade and transportation & storage (6.3% vs. 9.5%) and accommodation & food services, real estate, administrative & support services and other services industries (2.4% vs 3.1%), while information & communications, finance & insurance and professional services accelerated (5.1% vs 4.7%). On a quarterly basis, the economy expanded 1.4%, surpassing flash estimates of 1.1% and accelerating from a slightly downwardly revised 1.2% growth in the previous quarter.
+
+---
+
+### 2026-08-11 08:15:19  #公司
+
+商務部貿易救濟局：牛肉保障措施項下自巴西進口的牛肉於2026年8月10日已達到商務部公告2025年第87號明確的該國家（地區）規定數量的90%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起（含當日），將在現行適用關稅稅率基礎上加徵55%關稅。
+
+---
+
+### 2026-08-11 08:14:02  #國際
+
+【新加坡上調2026年增長預測 但警告全球經濟面臨阻力】新加坡上調了2026年經濟增長預測，原因在於上半年表現強於預期，不過有官員警告稱，全球經濟依然面臨風險。貿易及工業部(MTI)週二公佈的修正後資料顯示，第二季度國內生產總值(GDP)同比增長5.9%。該部門7月份的初步預估為第二季度增長5.7%，第一季度增幅為6.3%。上半年GDP同比增長6.1%。該部門將其2026年增長預測從之前預計的2.0%-4.0%上調至4.5%-5.5%。2025年該國經濟增長5.0%。貿易及工業部將此次上修歸因於上半年表現強於預期，以及在全球人工智慧相關資本支出加速的推動下，今年剩餘時間的前景有所改善。不過，貿易及工業部警告稱，風險包括中東衝突可能升溫，這或將引發能源大宗商品價格和其他關鍵中間投入品價格再度飆升。該部門稱：“由此導致的通脹壓力上升和全球金融環境收緊，可能會抑制全球增長。”經季節性調整後，第二季度GDP環比增長1.4%，相比之下，初值為增長1.1%，第一季度修正後增幅為1.2%。
+
+---
+
+### 2026-08-11 08:13:43  #MKT News #Nikkei 225 #Impact bullish #Hang Seng Index #S&P500
+
+Korea Customs Service said exports from Aug. 1-10 rose 45.3% YoY and imports rose 23.1% YoY; preliminary trade surplus was $1.8 billion.
+
+---
+
+### 2026-08-11 08:13:43  #MKT News
+
+Singapore's Ministry of Trade and Industry (MTI) raised its 2026 non-oil domestic exports growth forecast to 14.0%-16.0% from 3.0%-5.0%.
+
+---
+
+### 2026-08-11 08:13:11  #其他
+
+【中國駐哥倫比亞使館：暫未接到中國公民傷亡報告 】中國駐哥倫比亞大使館10日釋出訊息說，哥倫比亞當天發生7.4級強震後，使館第一時間啟動應急機制，全面排查在哥中國公民受災情況，目前尚未接到中國公民傷亡報告。
+
+---
+
+### 2026-08-11 08:12:50  #央行 #國際
+
+【機構：金價可能測試並突破最新高點】Pepperstone研究主管Chris Weston表示，頭寸狀況改善、資金流向動態提供支撐、實際收益率下降、收益率曲線變陡、對美聯儲降息的預期升溫以及央行持續買入，這些因素共同推動金價回升至每盎司4,400美元附近。現在的問題是，市場是否有足夠的動力突破每盎司4,500美元，並最終挑戰4月和5月出現的接近每盎司4,800美元的高點。他補充說，沒有人知道答案，但當技術突破與有利的宏觀基本面和強勁的資金流向動態相一致時，趨勢往往會比許多人預期的延伸得更遠。
+
+---
+
+### 2026-08-11 08:12:17  #觀點
+
+【華泰證券：基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭】華泰證券研報稱，基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭。OpenAI早期依託相對自下而上的產品創新機制，透過ChatGPT建立大規模C端入口；Anthropic則持續聚焦模型能力、Coding和企業API，並隨著Coding場景成熟逐步體現資源集中優勢。與此同時，智譜、MiniMax亦逐步向API、Coding和Agent收斂。華泰證券認為，基礎模型行業的競爭維度正在由模型能力和使用者規模進一步擴充套件至高價值Token消耗、企業滲透、單位經濟性及產品分發能力。
 
 ---
 
@@ -17697,107 +17745,5 @@ Lebanese sources say there are currently no plans for a new round of Lebanon-Isr
 ### 2026-08-10 04:35:05  #MKT News
 
 Yemen military sources said air defences shot down six Houthi armed drones attempting to strike Mocha port.
-
----
-
-### 2026-08-10 04:11:34  #MKT News
-
-【Iran appoints Mohsen Rezaei as secretary of Supreme National Security Council】Mahdi Tabatabai, deputy director of the presidential office for news and communications, said on the 9th that Mohsen Rezaei was appointed secretary of Iran's Supreme National Security Council.
-
----
-
-### 2026-08-10 04:11:30  #國際
-
-【伊朗任命雷扎伊為最高國家安全委員會秘書】伊朗總統府負責新聞與通訊事務的副主任邁赫迪·塔巴塔巴伊9日宣佈，穆赫辛·雷扎伊當天被任命為伊朗最高國家安全委員會秘書。（新華社）
-
----
-
-### 2026-08-10 04:07:54  #國際
-
-伊朗議員阿里·赫茲裡安：船隻將經由伊朗水域駛入（霍爾木茲）海峽，而出海航線將按比例分別途經伊朗與阿曼水域。
-
----
-
-### 2026-08-10 04:07:22  #國際
-
-伊朗議員阿里·赫茲裡安：伊朗武裝部隊已掌控霍爾木茲海峽，該海峽已無法恢復戰前狀態。
-
----
-
-### 2026-08-10 04:00:01  #公司
-
-【英偉達擬向星際之門專案背後電力企業Lancium最高投資30億美元】據三位知情交易人士透露，英偉達已同意向電力基礎設施開發商Lancium投資20億美元。該企業是得克薩斯州OpenAI與甲骨文AI園區的電力配套服務商；同時英偉達承諾，若該開發商拿到更多規劃電力資源，將再追加10億美元投資。這筆交易對Lancium及其土地、電力接入資產的企業價值估值約100億美元，估值包含本次投資及企業債務。這筆20億美元投資將讓英偉達取得這家黑石集團參股電力開發商約20%的股權。知情人士稱，一旦Lancium多個園區達到電網接入等既定條件，英偉達追加10億美元投資後，持股比例最高可升至約30%。當前AI資料中心電力供給日趨緊張，這筆交易意在幫助英偉達為晶片客戶的資料專案鎖定數吉瓦規模的待落地電力配額。
-
----
-
-### 2026-08-10 03:59:06  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
-
-【Russian Defence Ministry says intercepted 285 Ukrainian drones, struck energy infrastructure in Ukraine】On the evening of the 9th the Russian Defence Ministry said Moscow time between 0800 and 2000 its air-defence forces intercepted and shot down 285 Ukrainian drones over multiple western regions, including Belgorod, Kursk, Bryansk and the Moscow region. The ministry said Russian forces also struck a thermal power plant and seven substations inside Ukraine and used drones to hit gas-field infrastructure in Sumy region.
-
----
-
-### 2026-08-10 03:58:54  #公司
-
-英偉達將向黑石集團支援的電力企業蘭西姆（Lancium）最高投資30億美元，該企業為“星際之門”專案提供電力支援。英偉達首期出資20億美元獲得20%股份，若追加10億美元投資，持股比例或將升至約30%。
-
----
-
-### 2026-08-10 03:58:06  #國際
-
-土耳其外交部長表示，土耳其‑巴基斯坦‑沙烏地阿拉伯防務協議在機制上與北約第五條條款對等，協議將設立類似北約的部長委員會以及總秘書處。
-
----
-
-### 2026-08-10 03:57:38  #國際
-
-敘利亞與俄羅斯達成諒解備忘錄，敲定塔爾圖斯、赫梅米姆兩處俄羅斯基地的未來安排。雙方將依據這份歷經18個月密集談判達成的備忘錄，著手調整俄羅斯在敘利亞沿海的軍事部署。
-
----
-
-### 2026-08-10 03:57:24  #國際
-
-土耳其外交部長表示，伊朗並非打擊目標；除非某國襲擊聯盟成員國，否則任何國家都不會成為目標。他補充稱，埃及在部分技術問題解決後或將加入該聯盟。
-
----
-
-### 2026-08-10 03:57:11  #國際
-
-土耳其外交部長稱，由於紅海航運安全關乎本國利益，土耳其必須加入沙烏地阿拉伯主導的國際聯盟。
-
----
-
-### 2026-08-10 03:56:16  #MKT News #WTI #Impact bearish #Brent
-
-Iran Chamber of Commerce head said the private sector is ready to deploy its expertise to design mechanisms to consolidate the economic benefits of any potential agreement and protect those gains. He added that deeper, balanced economic ties and shared interests between countries raise the cost of reverting to tensions.
-
----
-
-### 2026-08-10 03:56:10  #國際
-
-俄羅斯國防部：俄軍已控制烏克蘭東部的瓦休京斯凱與託列茨克，並對蘇梅州兩座烏克蘭煉油廠實施打擊。
-
----
-
-### 2026-08-10 03:53:47  #國際
-
-【俄國防部：攔截285架烏克蘭無人機並對烏髮動空襲】俄羅斯國防部9日晚釋出通報說，莫斯科時間當天8時至20時，俄防空部隊在俄羅斯多個地區攔截並擊落285架烏克蘭無人機。通報說，這些無人機是在別爾哥羅德州、庫爾斯克州、布良斯克州、圖拉州、利佩茨克州、梁贊州、奧廖爾州、卡盧加州以及莫斯科地區等地上空被攔截並擊落。通報還說，俄武裝部隊空襲了烏克蘭境內的熱電廠和7個變電站，並用無人機打擊烏克蘭蘇梅州一處天然氣田基礎設施。
-
----
-
-### 2026-08-10 03:53:45  #MKT News
-
-Iran's parliament speaker Ghalibaf said the world now recognizes that Iran cannot be subdued.
-
----
-
-### 2026-08-10 03:53:31  #MKT News
-
-Iranian parliament speaker Ghalibaf said Iran's Islamic system is at one of its most critical moments in history and plays an indispensable role in regional and global security and stability.
-
----
-
-### 2026-08-10 03:53:04  #國際
-
-特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！
 
 ---

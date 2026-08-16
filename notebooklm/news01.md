@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:51:53_
-_本檔包含 3091 則快訊，約 601758 字_
+_更新時間：2026-08-17 04:32:10_
+_本檔包含 3088 則快訊，約 601548 字_
+
+---
+
+### 2026-08-17 04:21:51  #公司 #國際
+
+知情人士稱，美國檢察官和美國證券交易委員會（SEC）正對古根海姆合夥公司執行長馬克·沃爾特展開調查。檢察官的調查重點聚焦其4家企業，美國證券交易委員會（SEC）正在對馬克·沃爾特的交易展開調查。
+
+---
+
+### 2026-08-17 04:18:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
+
+【JP Morgan CEO warns UK chancellor against raising bank tax】JP Morgan CEO Jamie Dimon told the UK chancellor on a call last week not to impose new taxes on banks, warning that an uncompetitive tax regime—under consideration ahead of the October budget—would weaken London’s financial centre and could prompt capital and financial jobs to leave the UK.
+
+---
+
+### 2026-08-17 04:17:31  #國際
+
+土耳其總統埃爾多安談及與以色列可能爆發的戰爭：我們談論的不是戰爭，而是和平。但如果有人為了戰爭而非和平向土耳其發起攻擊，土耳其將毫不猶豫地投入這場戰爭，絕不退縮。我把話說得清清楚楚，毫無保留。
+
+---
+
+### 2026-08-17 04:15:27  #其他
+
+中國地震臺網正式測定：08月17日04時05分在四川自貢市富順縣（北緯29.21度，東經105.21度）發生3.1級地震，震源深度7千米。
+
+---
+
+### 2026-08-17 04:11:54  #公司 #觀點 #焦點
+
+【小摩CEO警告英國財政大臣：切勿提高銀行業稅收】摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。摩根大通執行長傑米·戴蒙表示，缺乏競爭力的稅收制度可能會削弱倫敦金融中心的地位，目前英國政府正考慮在10月預算案前對銀行業徵收新稅。戴蒙稱這可能會導致資本和金融就業崗位流出英國。
+
+---
+
+### 2026-08-17 04:06:21  #MKT News
+
+Al Jazeera reported Iran's parliament speaker said Iran must reach a level of deterrence to avoid being drawn into a cycle of war, peace and renewed war.
+
+---
+
+### 2026-08-17 04:04:15  #國際
+
+伊朗議會議長：我們必須達到一種威懾水平，以免陷入戰爭—和平—戰爭消耗的惡性迴圈。
+
+---
+
+### 2026-08-17 04:02:48  #其他
+
+中國地震臺網自動測定：08月17日04時01分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.3級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-17 03:53:05  #MKT News
+
+【Attorney General Todd Blanch says he will disagree with president on legal matters, declines to promise DOJ will always be independent of White House】Politico reported Attorney General Todd Blanch said on Sunday he is willing to disagree with the president on legal matters and that Trump expects cabinet members to differ when necessary. Asked whether he would refuse the president’s preferred course if his legal view differed, Blanch said, "I think he would expect me to tell him 'no.'" He declined to commit that the Justice Department will "always act independent of the White House," adding, "No, I will not make that promise, and no attorney general should make that promise."
 
 ---
 
@@ -18583,77 +18637,5 @@ Midday close: Chinese onshore main futures contracts were mixed. Coking coal ros
 ### 2026-08-14 15:01:29  #市場
 
 【ETF收評：通訊ETF領漲3.71%，港股創新藥ETF領跌2.64%】ETF收盤漲跌不一，通訊ETF（159695）領漲3.71%，通訊ETF（515880）漲3.60%，通訊ETF（159507）漲3.60%，港股創新藥ETF（513780）領跌2.64%，港股通創新藥醫療ETF（159506）跌2.63%，恒生生物科技ETF（159132）跌2.57%。
-
----
-
-### 2026-08-14 15:01:27  #公司 #市場
-
-【A股收評：滬指窄幅震盪收漲0.01%，電子化學品、CPO、非金屬材料板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.01%，深證成指漲0.45%，創業板指漲1.12%，北證50跌0.94%，科創50指數持平。全市場成交額21566億元，較上日縮量4114億元，全市場超2900只個股下跌。板塊題材上，電子化學品、非金屬材料、CPO、元件、光纖概念板塊漲幅居前；影視院線、電力、乳業、白酒、零售板塊跌幅居前。盤面上，電子化學品板塊震盪走高，中石科技、海星股份漲停，龍辰科技、思泉新材、廣鋼氣體、中巨芯、格林達漲幅居前。CPO板塊高開高走，劍橋科技、中瓷電子、金戈新材、共進股份等股漲停，亨通光電、中富電路、長盈通漲幅居前。稀土永磁板塊表現強勢，金田股份、中國稀土、華宏科技獲漲停，龍磁科技、三祥新材、寧波韻升漲幅居前。電力板塊震盪走低，立新能源跌停，華銀電力、梅雁吉祥、粵電力A均逼近跌停，京能電力、晉控電力、華電遼能紛紛大幅下挫。零售板塊亦表現低迷，錦和商管跌停，東百集團跌超9%，中百集團、步步高、華致酒行跌幅居前。
-
----
-
-### 2026-08-14 15:01:24  #國際
-
-【中國埃及兩國空軍將舉行聯訓】8月中旬至9月上旬，中國與埃及兩國空軍將在埃舉行“文明之鷹-2026”空軍聯合訓練，重點開展空戰戰術、制空作戰、戰鬥搜救等課目訓練，並進行兵力運用演練。這是雙方第2次舉辦該系列聯訓，將持續增進雙方互信與傳統友誼，深化兩軍務實合作，共同維護地區和平穩定。
-
----
-
-### 2026-08-14 15:01:22  #MKT News
-
-A Reuters survey showed 11 of 20 economists expect Bank Indonesia's 7-day reverse repo rate to reach 6.00% or higher by end-2026.
-
----
-
-### 2026-08-14 15:01:18  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #CNH #Impact bullish #CSI300 #SSE Composite
-
-CHINA STATE PLANNER said domestic gasoline and diesel retail price caps will be cut by 230 yuan per ton and 220 yuan per ton respectively, effective 24:00 on Aug. 14.
-
----
-
-### 2026-08-14 15:01:08  #宏觀 #焦點
-
-【明起國內汽、柴油（標準品）價格每噸分別下調230元、220元】發改委官網8月14日訊息，7月31日國內成品油價格調整以來，國際市場原油價格快速回落後震盪執行，本次調價的前10個工作日平均價格低於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自8月14日24時起，國內汽、柴油（標準品）價格每噸分別下調230元、220元。
-
----
-
-### 2026-08-14 15:01:02  #市場 #焦點
-
-A股收盤，上證指數漲0.01%，深證成指漲0.45%，創業板指漲1.12%。
-
----
-
-### 2026-08-14 15:01:02  #MKT News
-
-Thailand plans to launch a domestic tourism subsidy scheme in October, the tourism minister said.
-
----
-
-### 2026-08-14 15:00:57  #MKT News
-
-REUTERS SURVEY shows 27 of 28 economists expect Bank Indonesia to hold the 7-day reverse repo rate unchanged at 5.75% at its Aug. 19 policy meeting.
-
----
-
-### 2026-08-14 15:00:41  #MKT News
-
-Nomura forecasts India's fiscal deficit will widen by 20bps and does not expect policy rate hikes before 2027.
-
----
-
-### 2026-08-14 15:00:12  #公司
-
-【綠地集團與寧德時代圍繞零碳產業場景打造、寧家服務直營體驗中心落地等議題進行洽談】據綠地集團公眾號訊息，8月13日，綠地集團董事長、總裁張玉良一行赴福建寧德時代總部考察交流，並與寧德時代董事、生態發展委員會主席吳映明進行合作洽談。雙方圍繞零碳產業場景打造、寧家服務直營體驗中心落地等核心議題進行了深入洽談，明確將依託各自產業資源優勢探索合作方向，攜手佈局新能源全鏈路生態。此次會談標誌著綠地集團與寧德時代戰略合作邁出關鍵一步，雙方後續將深入對接，針對零碳專案落地、寧家體驗中心選址運營等事項細化實施方案，推動合作專案儘快落地見效，以產業協同助力全國能源綠色轉型。
-
----
-
-### 2026-08-14 15:00:02  #市場
-
-【商品期貨收盤】焦煤連續漲3.34%，碳酸鋰連續漲3.34%，鈀連續跌3.16%，燃料油連續漲2.93%，低硫燃料油連續漲2.93%，菜油連續漲2.81%，純苯連續漲2.42%，多晶矽連續漲2.31%，工業矽連續漲2.27%。
-
----
-
-### 2026-08-14 15:00:02  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續跌0.15%， 滬深300指數期貨連續跌0.36%， 中證500指數期貨連續跌0.54%， 上證50指數期貨連續跌0.62%。
 
 ---
