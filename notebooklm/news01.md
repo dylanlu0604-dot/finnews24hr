@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 11:07:44_
-_本檔包含 3055 則快訊，約 601880 字_
+_更新時間：2026-08-16 11:55:55_
+_本檔包含 3063 則快訊，約 601158 字_
+
+---
+
+### 2026-08-16 11:55:18  #其他
+
+市場訊息：新加坡企業界寄望依託本土可使用頂尖 AI 大模型的優勢，遏制大批資管人才外流。
+
+---
+
+### 2026-08-16 11:52:26  #其他
+
+【陝西首批農業生態產品價值轉化專案落地】據陝西日報，8月15日，全國生態日當天，陝西首批農業生態產品價值轉化專案交易雙方正式簽約，省公共資源交易中心為各方頒發交易憑證。陝西省公共資源交易中心副主任胡陽介紹，本批專案於8月12日成交，總成交額約145萬元。這是陝西首次將農產品供給、農田固碳調節和生態文旅經營權益分類設計為標準化標的，並透過陝西省公共資源交易平臺完成市場化交易。
+
+---
+
+### 2026-08-16 11:51:25  #公司
+
+【周口：嚴禁借災情隨意漲價、虛報故障，拖車救援機構必須明碼標價】周口市交通運輸局釋出《關於嚴厲整治洪澇災害期間車輛救援維修企業哄抬價格問題的公告》指出，近期周口市遭遇嚴重洪澇災害，部分割槽域積水嚴重，大量車輛被洪水浸泡受淹。接群眾反映，個別拖車救援、機動車維修企業趁災哄抬價格，現場就地起價、漫天要價，不執行明碼標價，維修專案虛高報價，嚴重侵害受災群眾合法權益，造成惡劣社會影響。公告明確，各拖車救援機構必須嚴格執行明碼標價制度，施救前主動向車主告知收費專案、計費標準、預估總費用，經車主確認後方可開展作業。嚴禁借災情隨意漲價、現場臨時加價，不得巧立名目收取額外費用。維修企業承接水淹車輛維修業務，要如實檢測車況，提前告知維修方案、配件清單、預估維修費用，增加維修專案必須徵得車主同意。嚴禁虛報故障、以次充好、虛列維修專案、哄抬維修價格。
+
+---
+
+### 2026-08-16 11:50:49  #國際
+
+【指兩外交官非法介入 伊朗警告法國勿干涉內政】伊朗情報部指兩名法國外交官從事“非法干涉”活動，警告法國政府不要“非法干涉”伊朗內政。伊朗情報部星期六（8月15日）在網站發宣告稱，兩名法國外交官7月在德黑蘭與涉嫌“重大外國滲透和干涉案件”的人員舉行一次秘密會晤。
+
+---
+
+### 2026-08-16 11:50:14  #其他
+
+【國產電動挖掘機全球下單】目前，我國已成為全球工程機械第一產銷大國。今年上半年，我國工程機械出口金額同比增長21.7%，出口規模持續擴大。在柳工挖掘機智慧工廠，一批電動挖掘機正在加緊生產，即將發往海外礦山。相比燃油裝置，這些電動工程機械能耗僅為三分之一。今年前7個月，工廠單月下線挖掘機同比增長超40%，產品已遠銷170多個國家和地區。智慧化、綠色化正成為中國工程機械拓展海外市場的新優勢。（央視財經）
+
+---
+
+### 2026-08-16 11:48:34  #其他
+
+中國地震臺網正式測定：08月16日11時20分在萬那杜群島（南緯14.50度，東經167.15度）發生6.1級地震，震源深度150千米。
+
+---
+
+### 2026-08-16 11:45:24  #公司
+
+東方證券給予賽輪集團股份有限公司買進的初始評級。
+
+---
+
+### 2026-08-16 11:42:31  #MKT News
+
+CENC automatic determination: at 11:20 on Aug 16 a magnitude ~6.0 earthquake occurred near Vanuatu (14.33°S, 167.56°E); final determination subject to official rapid report.
+
+---
+
+### 2026-08-16 11:41:26  #其他
+
+【河南調整防汛應急響應等級】據“河南應急”公眾號訊息，颱風“白海豚”對河南省的影響已結束，大範圍降雨過程已停止，河道、水庫水位明顯下降，各地險情得到有效控制，經會商研判，按照《河南省防汛應急預案》有關規定，河南省防指決定自8月16日11時將針對許昌市、漯河市、周口市的防汛應急響應等級調整為四級，其他省轄市（區）終止防汛應急響應。
+
+---
+
+### 2026-08-16 11:39:52  #公司
+
+【應急管理部調派13支排澇隊伍在河南周口開展排澇作業】為協助做好河南周口市區排澇工作，應急管理部從河南、陝西、江蘇、安徽、山東、湖南等地，調派應急管理部自然災害工程應急救援中心（中國安能）、8支國家安全生產應急救援排澇力量、陝西機動排澇隊及徐工集團、焦作華禹、湖南迪沃等共計13支排澇力量，總排澇能力約22萬立方米/小時，緊急趕赴河南周口。以上救援力量已於16日上午9時全部抵達並投入排澇作業。（央視新聞）
+
+---
+
+### 2026-08-16 11:39:21  #其他
+
+【空間站週記上新 多項科學實（試）驗有序推進】目前，神舟二十三號乘組三名航天員朱楊柱、張志遠、黎家盈已在軌駐留80余天。上週，空間科學實（試）驗、在軌訓練及演練等工作有序推進。在軌腦電測試、微重力直覺物理專案行為實驗等同步完成，分別探究長期空間飛行環境對航天員腦功能網路影響和直覺物理表徵能力的影響；圍繞骨代謝互動調控、航天整合組學等多項實驗，乘組完成了血液樣本的採集與處理，開展長期飛行中航天員骨骼、神經等生理系統變化規律相關研究；此外，乘組進行了運動學特性實驗，為工效學設計與評價等工作提供支撐。（央視新聞）
+
+---
+
+### 2026-08-16 11:35:43  #其他
+
+【萬那杜附近發生6.0級左右地震】中國地震臺網自動測定：08月16日11時20分在萬那杜附近（南緯14.33度，東經167.56度）發生6.0級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-16 11:30:17  #其他
+
+【中國銀幕數量世界第一 “龍餐館”“奧德賽”特效廳一票難求】這個暑期，電影市場持續火熱。截至目前，2026年度電影票房已突破255億元，暑期檔連續37天單日票房過億；今年暑期檔票房（含預售）已突破98億元，觀影人次超2.6億。市場熱度的背後，既有優質內容點燃的觀影熱潮，也離不開影院持續升級影廳、豐富觀影體驗的助力。根據國家電影局2026年1月釋出的官方統計，2025年全國城市院線銀幕總數達93187塊，較2024年淨增2219塊，持續穩居全球銀幕數量首位。（央視新聞）
+
+---
+
+### 2026-08-16 11:29:58  #其他
+
+【“千問辦公”首發上線GLM-5.3、DeepSeek V4 Pro兩款模型】阿里巴巴旗下Agent產品“千問辦公”首發上線GLM-5.3和DeepSeek V4 Pro兩款前沿模型。即日起，使用者可在產品首頁的“前沿模型”檔位直接選用。加上此前首發上線的Qwen3.8-Max，千問辦公目前已支援三款國產旗艦模型。（新浪科技）
+
+---
+
+### 2026-08-16 11:26:48  #其他
+
+德國地球科學研究中心（GFZ）：萬那杜群島發生6.04級地震。
+
+---
+
+### 2026-08-16 11:21:09  #國際
+
+市場訊息：當地時間週六，伊朗‑伊拉克邊境附近發生 3.8 級地震，震源深度 6.2 英里（10 公里），震中位於伊朗西亞塞拜然省薩爾達什特附近。
+
+---
+
+### 2026-08-16 11:15:22  #MKT News
+
+EMSC reports a M4.4 earthquake in Indonesia's Flores region; depth 4.0 km.
+
+---
+
+### 2026-08-16 11:13:45  #國際
+
+【韓國首爾首次購房人數創四年多來新高】一份報告顯示，韓國首爾首次購房人群數量創下四年八個月新高。 韓國法院不動產登記資訊廣場16日資料，上月首爾共有7552名購房者辦理首套住宅（集合住宅）所有權轉移登記。該數值為2021年11月樓市火熱時期（7886人）之後，四年八個月以來的最高水平。
+
+---
+
+### 2026-08-16 11:09:37  #MKT News
+
+Romanian Defence Ministry said it shot down a drone that violated its airspace.
+
+---
+
+### 2026-08-16 11:09:24  #其他
+
+雷軍發文慶祝小米手機15週年：16年前的今天，MIUI釋出。 15年前的今天，小米手機發布。
 
 ---
 
@@ -18365,77 +18485,5 @@ YONHAP: South Korea's Blue House said public acceptance is high for a multi-term
 ### 2026-08-14 10:29:47  #公司
 
 【中國石油集團董事長戴厚良到遼陽石化調研】據中國石油報，8月12日、13日，中國石油集團董事長、黨組書記戴厚良到遼陽石化調研。戴厚良先後到聚酯部控制室、PEN新型材料建設現場及中試裝置、尼龍66專案、塑膠加工平臺、PX裝置、EDH中試裝置等現場調研，強調要堅持技術立企，以科技創新賦能煉化轉型升級，持續最佳化工藝和技術路線，認真論證改擴建方案的可行性，做好高附加值產品研發和市場預銷售，加強產品數質量管理，嚴守安全環保底線，確保裝置經濟效益最佳和“安穩長滿優”執行。
-
----
-
-### 2026-08-14 10:29:38  #國際
-
-韓國青瓦臺稱國會討論修憲是好事。
-
----
-
-### 2026-08-14 10:28:57  #國際
-
-韓國青瓦臺表示，若將總統任期改為可連任的四年制、同時強化國會權力，該方案能獲得較高的公眾接受度。
-
----
-
-### 2026-08-14 10:27:09  #其他
-
-【江蘇啟動沿江地區防汛Ⅳ級應急響應】據新華日報，江蘇省防汛抗旱指揮部決定，2026年8月14日10時起，因省氣象臺釋出暴雨藍色預警，啟動沿江地區防汛Ⅳ級應急響應。相關地區各級政府及有關部門要密切關注雨水情，加強應急值守和分析研判，強化風險管控，做好防洪排澇應急處置準備，果斷組織風險區域群眾轉移避險。
-
----
-
-### 2026-08-14 10:27:05  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量1552億元。
-
----
-
-### 2026-08-14 10:26:59  #市場
-
-【淮委水文局升級釋出沙潁河界首站洪水橙色預警】從水利部淮河水利委員會水文局瞭解到，14日8時，淮委水文局升級釋出沙潁河界首站洪水橙色預警。 據介紹，沙潁河是淮河一級支流。受颱風“白海豚”殘餘環流影響，位於安徽省阜陽市的沙潁河界首站14日7時36分水位漲至37.81米，超警戒水位0.81米，預計水位繼續上漲。淮委水文局根據《淮河流域水情預警釋出管理辦法（試行）》升級釋出洪水橙色預警，受影響區域包括河南省周口市與安徽省阜陽市。 淮委水文局提示相關區域有關單位及社會公眾密切關注雨水情變化，加強防範，積極應對。
-
----
-
-### 2026-08-14 10:26:50  #MKT News #Market Regions #Greater China #S&P500 #Impact bullish #Nasdaq100 #Hang Seng Index
-
-【South Korea July ICT exports surge 140.6% on AI chip demand; semiconductors +178.8%】South Korea's Ministry of Science and ICT said Friday July ICT product exports rose 140.6% YoY to $53.4 bln, a July record, driven by strong AI-related chip demand. Imports climbed 37.3% YoY to $18.3 bln, producing a $35.1 bln trade surplus. By product, semiconductor exports jumped 178.8% YoY to $41.0 bln and have expanded for 17 consecutive months; computer and communications equipment rose 353.9% to $4.9 bln; mobile phone exports increased 62.6% to $1.6 bln. By destination, exports to China and Hong Kong combined rose 194.7% YoY; to the US +187%; to the EU +202%; to Vietnam +115.7%; to India +128.2%.
-
----
-
-### 2026-08-14 10:26:47  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Decline — The 10-year US Treasury yield hovered around 4.65% on Friday, holding a recent decline as softer-than-expected inflation data led investors to reduce expectations for a Federal Reserve rate hike in September. Figures released Thursday showed US producer prices were flat in July, reinforcing Wednesday’s subdued CPI report and suggesting that inflationary pressures remain contained. As a result, the Fed faces less urgency to tighten monetary policy in the near term, with markets now assigning around a 35% probability to a 25 basis point rate increase in September, compared with 55% a week earlier. The data also indicated that the initial inflationary effects of the Middle East conflict and higher energy prices could be losing momentum. Still, uncertainty surrounding efforts to end the conflict and reopen the Strait of Hormuz remains a key risk to the inflation outlook.
-
----
-
-### 2026-08-14 10:26:39  #其他
-
-【但斌回覆段永平1億賭局：國內不適合公開對賭，大機率沒有百億私募應戰】近日，段永平表示，從沒賣過一股泡泡瑪特，我敢抱著茅臺跟任何基金賭一個億。有網友建議但斌應戰。8月13日晚，但斌發文回應此事。但斌明確表示，國內環境不適合進行此類公開金錢對賭，大機率沒有百億私募會出面應戰。此外他還強調，對龍頭白酒的觀點從未改變。
-
----
-
-### 2026-08-14 10:23:54  #MKT News
-
-【Turkey plans lunar probe launch in early 2027】Turkey plans to launch a lunar probe in early 2027 equipped with a domestically developed hybrid propulsion system, government officials said.
-
----
-
-### 2026-08-14 10:23:10  #公司
-
-【中鼎股份等成立芯創智慧科技公司】企查查APP顯示，近日，深圳中鼎芯創智慧科技有限公司成立，經營範圍包含新型金屬功能材料銷售；金屬製品研發；金屬基複合材料和陶瓷基複合材料銷售；有色金屬合金銷售等。企查查股權穿透顯示，該公司由中鼎股份等共同持股。
-
----
-
-### 2026-08-14 10:22:54  #市場
-
-臺幣兌美元升破32關口，為七月以來首見。
-
----
-
-### 2026-08-14 10:22:53  #Trading Economics #Markets #Japan #Currency #Importance 2
-
-Yen Heads for Weekly Drop — The Japanese yen traded around 159.4 per dollar on Friday and was on track to lose about 1% for the week, as the absence of follow-up intervention from authorities encouraged speculators to continue betting against the currency. The yen has now retraced roughly half of the gains made in late July and early August, when Tokyo and Washington carried out record joint intervention. The currency remained under pressure from longer-term fundamentals, including wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. Meanwhile, markets are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weaker yen will fuel inflation. US Treasury Secretary Scott Bessent also said Japan should reinforce currency intervention with policies and economic fundamentals that support the yen.
 
 ---

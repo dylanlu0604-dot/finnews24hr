@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 11:07:44_
-_本檔包含 3009 則快訊，約 601547 字_
+_更新時間：2026-08-16 11:55:55_
+_本檔包含 3009 則快訊，約 601440 字_
+
+---
+
+### 2026-08-13 09:36:06  #公司
+
+【PCB概念表現活躍 方邦股份漲超10%】PCB概念表現活躍，方邦股份漲超10%，華正新材、生益科技、金祿電子、滬電股份跟漲。
+
+---
+
+### 2026-08-13 09:35:57  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Holds at 2-Week Low — The New Zealand dollar hovered around $0.585, its lowest level in two weeks, as the greenback firmed despite a subdued US consumer inflation report. The data reduced the likelihood of monetary policy tightening by the Federal Reserve at its September meeting, with traders having already trimmed their rate-hike bets following Friday’s weak jobs report. Investors also remained cautious as talks between the US and Iran appeared to have reached an impasse, with both sides hardening their positions, while President Donald Trump said the US has “total control” over the Strait of Hormuz. Domestically, however, the NZ dollar continues to draw support from expectations that the Reserve Bank of New Zealand will deliver another quarter-point interest rate increase next month.
+
+---
+
+### 2026-08-13 09:35:56  #公司 #市場
+
+【電子化學品板塊短線拉昇，海星股份漲停】電子化學品板塊短線拉昇，海星股份漲停，方邦股份、天通股份、瑞聯新材、三孚新科、中船特氣等紛紛走高。
+
+---
+
+### 2026-08-13 09:35:47  #市場 #國際
+
+【中證1000股指期貨(IM)主力合約日內漲超1%】中證1000股指期貨(IM)主力合約日內漲超1%，現報7759.2點。
+
+---
+
+### 2026-08-13 09:35:36  #公司
+
+【南興股份等成立光聯科技公司 含光通訊裝置業務】企查查APP顯示，近日，廣東飛瑞光聯科技有限公司成立，經營範圍包含光通訊裝置製造；光通訊裝置銷售；通訊裝置製造；通訊裝置銷售；通訊裝置銷售等。企查查股權穿透顯示，該公司由南興股份等共同持股。
+
+---
+
+### 2026-08-13 09:35:34  #其他
+
+【薩爾瓦多南部近海發生5.7級地震】當地時間8月12日18時30分，薩爾瓦多南部太平洋近海發生5.7級地震。根據薩爾瓦多環境與自然資源部發布的通報，震中位於北緯12.68度、西經88.2度，震源深度50.89公里。(央視新聞)
+
+---
+
+### 2026-08-13 09:35:29  #其他
+
+凱德投資：70‑90 億新元存量資產主要在中國。
+
+---
+
+### 2026-08-13 09:34:45  #MKT News #Market Regions #Greater China #Star Stocks #Tencent
+
+【Where to park spare cash? Money-market yield tracker】Tencent's Licaitong (Huoqi+) 7-day annualized yield ranged 0.6990%–1.0610%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 0.9020%–1.0020%. Alipay Yu'e Bao 7-day annualized yield ranged 1.0090%–1.9010%.
+
+---
+
+### 2026-08-13 09:34:14  #市場
+
+【遊戲板塊短線拉昇，遊族網路漲停】遊戲板塊短線拉昇，遊族網路漲停，迅遊科技、凱撒文化、崑崙萬維、大晟文化、浙數文化跟漲。
+
+---
+
+### 2026-08-13 09:34:06  #公司 #市場
+
+【通用裝置板塊盤初活躍，銀都股份漲停】通用裝置板塊盤初活躍，銀都股份漲停，春暉智控、思看科技、集智股份、鼎泰高科、偉隆股份、咸亨國際等跟漲。
+
+---
+
+### 2026-08-13 09:34:04  #市場 #焦點
+
+科創50日內漲幅達2.11%，成分股中，華虹宏力漲5.85%，源傑科技漲5.67%，寒武紀漲3.70%，中芯國際漲3.59%。
+
+---
+
+### 2026-08-13 09:34:00  #市場
+
+【港股人工智慧股走強 芯碁微裝漲近7%】截至發稿，芯碁微裝(09630.HK)漲6.91%，深演智慧(02723.HK)漲3.27%，智譜(02513.HK)漲5.79%。
+
+---
+
+### 2026-08-13 09:33:30  #MKT News #Important #CSI300 #Impact bearish
+
+China A-share innovative drug sector opened weaker; Baihua Pharmaceutical fell about 5%, Gan & Lee Pharmaceuticals dropped over 4%, with Zhejiang Medicine and Borui Pharmaceutical also declining.
+
+---
+
+### 2026-08-13 09:33:17  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-08-13 09:33:15  #公司 #市場
+
+【AI應用端盤初走強 榕基軟體、理工能科雙雙漲停】早盤AI應用端走強，榕基軟體、理工能科漲停，利歐股份、盛視科技、每日互動、漢鑫科技、立方控股跟漲。
+
+---
+
+### 2026-08-13 09:32:28  #市場 #其他
+
+光纖概念延續強勢，通鼎互聯2連板，長進光子、天孚通訊、炬光科技、長盈通、源傑科技漲超5%。
+
+---
+
+### 2026-08-13 09:31:29  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish
+
+Shenzhen Composite Index rallies more than 1% in early trade.
+
+---
+
+### 2026-08-13 09:31:25  #MKT News
+
+【China bond futures open】China bond futures opened: 2-year (TS) main contract flat; 5-year (TF) +0.01%; 10-year (T) +0.02%; 30-year (TL) +0.12%.
+
+---
+
+### 2026-08-13 09:31:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【China stock-index futures open】China stock-index futures opened higher: CSI 300 main contract (IF) up 0.50% at the open; SSE 50 main contract (IH) up 0.25%; CSI 500 main contract (IC) up 0.73%; CSI 1000 main contract (IM) up 0.52%.
+
+---
+
+### 2026-08-13 09:31:13  #其他
+
+【銅陵：主動融入合肥人工智慧算力基礎設施佈局 推進銅陵算力金屬產品深度嵌入】 近日，《銅陵市“十五五”銅產業發展規劃（徵求意見稿）》公開徵求意見。其中提到，精準配套合肥都市圈，主動融入合肥人工智慧算力基礎設施佈局，推進銅陵算力金屬產品深度嵌入合肥人工智慧產業叢集；圍繞需求清單和供應圖譜，實現銅陵銅材與合肥新能源汽車、新型顯示、智慧家電等終端需求匹配。主動對接滬蘇浙科創資源，構建“研發在滬蘇浙、轉化在銅陵”的協同創新模式，積極對接長三角產業叢集，推動高階電子銅箔、高強高導銅合金帶材等產品精準適配長三角供應鏈體系。
+
+---
+
+### 2026-08-13 09:31:05  #市場 #焦點
+
+深證成指漲1.00%，現報14558.665點；上證指數漲0.22%，現報3955.376點；創業板指漲1.72%，現報3663.936點。
+
+---
+
+### 2026-08-13 09:31:04  #公司
+
+【銅陵：打造世界級銅產業龍頭企業 鼓勵兼併重組】 近日，《銅陵市“十五五”銅產業發展規劃（徵求意見稿）》公開徵求意見。其中提到，打造世界級龍頭企業。全力支援銅陵有色集團提升全球資源配置能力和行業話語權，持續上榜世界500強並爭先進位。支援銅陵有色建設“黑燈工廠”示範線和零碳銅冶煉示範工廠，推動領航級智慧工廠建設。鼓勵兼併重組、資源整合和品牌輸出，推動從單一製造向平臺化、生態化轉型。深化市企協同發展，健全常態化對接溝通機制，形成市、縣（區）、園區三級聯動服務體系。
+
+---
+
+### 2026-08-13 09:30:22  #市場
+
+中證轉債指數開盤上漲0.21%。N特寶轉、N申能轉、炬申轉債、賽斯轉債、歐通轉債漲幅居前，分別漲30.00%、30.00%、30.00%、19.96%、3.71%。泰瑞轉債、風語轉債、惠城轉債、冠中轉債、嘉澤轉債跌幅居前，分別跌1.04%、0.88%、0.60%、0.55%、0.55%。
+
+---
+
+### 2026-08-13 09:30:04  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.58%， 滬深300指數期貨連續漲0.32%， 中證500指數期貨連續漲0.67%， 上證50指數期貨連續漲0.13%。
+
+---
+
+### 2026-08-13 09:30:04  #市場 #焦點
+
+科創50日內漲幅達1.57%，成分股中，源傑科技漲3.57%，瀾起科技漲2.96%，佰維儲存漲2.50%，華虹宏力漲2.49%。
 
 ---
 
@@ -18047,155 +18197,5 @@ CoreWeave 首席財務官： 現有待交付訂單中，超 50% 對應的合同�
 ### 2026-08-12 05:31:02  #MKT News
 
 【U.S. judge blocks USPS from enforcing Trump order to curb mailed ballots】On the 11th, a U.S. federal judge ordered the U.S. Postal Service barred from enforcing President Trump’s executive order that would restrict mailed ballots. Trump issued the order on March 31 directing the Department of Homeland Security and the Social Security Administration to compile state-by-state lists of citizens eligible to vote and prohibiting the USPS from processing ballots from voters not on those lists. Twenty-three Democratic-led states and Washington, D.C., sued, arguing the order is unconstitutional. A Boston federal judge enjoined the order on June 25; the U.S. Court of Appeals for the First Circuit upheld that injunction on July 25. The administration subsequently filed an emergency appeal to the U.S. Supreme Court.
-
----
-
-### 2026-08-12 05:30:05  #國際
-
-【美法官叫停美郵政局執行特朗普涉限制郵寄選票的行政令】美國一名聯邦法官下令，禁止美國郵政總署依據美國總統特朗普的行政命令限制郵寄投票。美國共和黨籍總統特朗普3月31日頒佈行政令，責成國土安全部和社會保障管理局以州為單位編纂具備合法投票資格的公民名單，同時禁止美國郵政局處理非名單內選民寄出的選票。民主黨主政的23個州和首都華盛頓隨後以違憲為由對行政令提起訴訟。6月25日，美國波士頓地區一位聯邦法官叫停了特朗普此項行政令的實施。7月25日，美國第一聯邦巡迴上訴法院維持原判，繼續禁止行政令實施。特朗普政府隨後向聯邦最高法院提出緊急申請。 (央視新聞)
-
----
-
-### 2026-08-12 05:29:57  #公司
-
-CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。
-
----
-
-### 2026-08-12 05:29:44  #MKT News #SMCI.O #Impact bullish
-
-Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25.
-
----
-
-### 2026-08-12 05:29:42  #MKT News #SMCI.O #Impact bullish
-
-Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4.
-
----
-
-### 2026-08-12 05:29:06  #其他
-
-CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。
-
----
-
-### 2026-08-12 05:28:30  #其他
-
-CoreWeave 首席財務官：第二季度是我們利潤率出現拐點的季度，正如過去幾個季度所討論的，利潤率實現環比擴張。
-
----
-
-### 2026-08-12 05:27:23  #其他
-
-市場訊息：Kalshi 年化營收突破 40 億美元。Kalshi 正洽談融資，目標估值 400 億美元。
-
----
-
-### 2026-08-12 05:25:35  #MKT News #SPCX.O
-
-An SEC filing shows BlueCat Capital held 1.4 mln Class A common shares of SpaceX (SPCX.O) as of June 30, 2026.
-
----
-
-### 2026-08-12 05:24:09  #其他
-
-超微電腦CFO：第四季度毛利率環比改善，源於客戶與產品組合好於預期，同時部分合同遞延至 27 財年第一季度。
-
----
-
-### 2026-08-12 05:22:28  #MKT News
-
-US President Trump said Medicaid will no longer fund gender-confirmation surgeries or hormone treatments for minors.
-
----
-
-### 2026-08-12 05:22:23  #國際
-
-特朗普：醫療補助計劃將不再為未成年人的性別重置手術及激素治療提供資金。
-
----
-
-### 2026-08-12 05:22:12  #公司
-
-CoreWeave 執行長：預計國際市場將成為主要增長驅動力。
-
----
-
-### 2026-08-12 05:20:16  #其他
-
-超微電腦CFO：第四季度，企業及渠道客戶在升級計算、儲存與網路基礎設施方面的需求有所回暖。
-
----
-
-### 2026-08-12 05:19:28  #其他
-
-超微電腦首席財務官：26 財年有 9 家客戶各自貢獻營收超 10 億美元，而 25 財年僅為 4 家。
-
----
-
-### 2026-08-12 05:18:33  #MKT News #RTX.O #Impact bullish #LMT.O
-
-【US $185bn 'Golden Dome' space missile-defence program posts early progress】SpaceX and Northrop Grumman completed initial critical tests for the Trump-era $185 billion 'Golden Dome' space-based missile-defence program, including sensor-to-interceptor data links and spacecraft propulsion demonstrations, the US Space Force said. The project will enter a next phase to validate operation in the space environment, a Space Force admiral added. In April the Space Force awarded armed-satellite development contracts to 12 firms, including RTX, Anduril and Lockheed Martin; the government has invested $3.2 billion to date and future contract value could reach hundreds of billions of dollars.
-
----
-
-### 2026-08-12 05:15:24  #市場
-
-富時A50期指連續夜盤收跌0.09%，報14925點。
-
----
-
-### 2026-08-12 05:08:29  #公司
-
-CoreWeave 執行長： 短期算力產能實際上已全部售罄，由此達成的簽約承諾，合同條款正變得愈發有利。
-
----
-
-### 2026-08-12 05:07:26  #公司
-
-CoreWeave 執行長：第二季度簽署的客戶合同預期貢獻利潤率較近幾個季度新增合同高出 5‑10 個百分點。
-
----
-
-### 2026-08-12 05:07:07  #公司
-
-超微電腦CEO：受電力、散熱及網路業務部分客戶短期延遲影響，第四季度營收為 111 億美元。
-
----
-
-### 2026-08-12 05:03:17  #國際
-
-案件卷宗顯示：美國一名法官阻止美國郵政局依據特朗普總統的行政令對郵寄投票實施限制。
-
----
-
-### 2026-08-12 04:59:12  #市場
-
-週二（8月11日）紐約尾盤，現貨黃金跌0.50%，報4368.81美元/盎司。現貨白銀跌1.63%，報6.46705美元/盎司。COMEX銅期貨漲0.19%，報6.6285美元/磅。現貨鉑金跌0.82%，現貨鈀金跌1.20%。
-
----
-
-### 2026-08-12 04:57:34  #MKT News
-
-The US Commodity Futures Trading Commission (CFTC) has asked prediction platform Kalshi to continue operating.
-
----
-
-### 2026-08-12 04:57:25  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
-
-US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier.
-
----
-
-### 2026-08-12 04:55:23  #市場 #國際
-
-美國商品期貨交易委員會宣告：已命令 KalshiEX 繼續運營。
-
----
-
-### 2026-08-12 04:55:16  #Trading Economics #Markets #Mexico #currency #Importance 0
-
-Mexican Peso Hits 26-month High — The Mexican Peso touched 17.08 against the USD, the highest since June 2024. Over the past 4 weeks, US Dollar Mexican Peso lost 2.54%, and in the last 12 months, it decreased 8.08%.
 
 ---

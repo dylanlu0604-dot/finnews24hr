@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 11:07:44_
-_本檔包含 3220 則快訊，約 601636 字_
+_更新時間：2026-08-16 11:55:55_
+_本檔包含 3200 則快訊，約 600728 字_
+
+---
+
+### 2026-08-12 05:30:05  #國際
+
+【美法官叫停美郵政局執行特朗普涉限制郵寄選票的行政令】美國一名聯邦法官下令，禁止美國郵政總署依據美國總統特朗普的行政命令限制郵寄投票。美國共和黨籍總統特朗普3月31日頒佈行政令，責成國土安全部和社會保障管理局以州為單位編纂具備合法投票資格的公民名單，同時禁止美國郵政局處理非名單內選民寄出的選票。民主黨主政的23個州和首都華盛頓隨後以違憲為由對行政令提起訴訟。6月25日，美國波士頓地區一位聯邦法官叫停了特朗普此項行政令的實施。7月25日，美國第一聯邦巡迴上訴法院維持原判，繼續禁止行政令實施。特朗普政府隨後向聯邦最高法院提出緊急申請。 (央視新聞)
+
+---
+
+### 2026-08-12 05:29:57  #公司
+
+CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。
+
+---
+
+### 2026-08-12 05:29:44  #MKT News #SMCI.O #Impact bullish
+
+Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25.
+
+---
+
+### 2026-08-12 05:29:42  #MKT News #SMCI.O #Impact bullish
+
+Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4.
+
+---
+
+### 2026-08-12 05:29:06  #其他
+
+CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。
+
+---
+
+### 2026-08-12 05:28:30  #其他
+
+CoreWeave 首席財務官：第二季度是我們利潤率出現拐點的季度，正如過去幾個季度所討論的，利潤率實現環比擴張。
+
+---
+
+### 2026-08-12 05:27:23  #其他
+
+市場訊息：Kalshi 年化營收突破 40 億美元。Kalshi 正洽談融資，目標估值 400 億美元。
+
+---
+
+### 2026-08-12 05:25:35  #MKT News #SPCX.O
+
+An SEC filing shows BlueCat Capital held 1.4 mln Class A common shares of SpaceX (SPCX.O) as of June 30, 2026.
+
+---
+
+### 2026-08-12 05:24:09  #其他
+
+超微電腦CFO：第四季度毛利率環比改善，源於客戶與產品組合好於預期，同時部分合同遞延至 27 財年第一季度。
+
+---
+
+### 2026-08-12 05:22:28  #MKT News
+
+US President Trump said Medicaid will no longer fund gender-confirmation surgeries or hormone treatments for minors.
+
+---
+
+### 2026-08-12 05:22:23  #國際
+
+特朗普：醫療補助計劃將不再為未成年人的性別重置手術及激素治療提供資金。
+
+---
+
+### 2026-08-12 05:22:12  #公司
+
+CoreWeave 執行長：預計國際市場將成為主要增長驅動力。
+
+---
+
+### 2026-08-12 05:20:16  #其他
+
+超微電腦CFO：第四季度，企業及渠道客戶在升級計算、儲存與網路基礎設施方面的需求有所回暖。
+
+---
+
+### 2026-08-12 05:19:28  #其他
+
+超微電腦首席財務官：26 財年有 9 家客戶各自貢獻營收超 10 億美元，而 25 財年僅為 4 家。
+
+---
+
+### 2026-08-12 05:18:33  #MKT News #RTX.O #Impact bullish #LMT.O
+
+【US $185bn 'Golden Dome' space missile-defence program posts early progress】SpaceX and Northrop Grumman completed initial critical tests for the Trump-era $185 billion 'Golden Dome' space-based missile-defence program, including sensor-to-interceptor data links and spacecraft propulsion demonstrations, the US Space Force said. The project will enter a next phase to validate operation in the space environment, a Space Force admiral added. In April the Space Force awarded armed-satellite development contracts to 12 firms, including RTX, Anduril and Lockheed Martin; the government has invested $3.2 billion to date and future contract value could reach hundreds of billions of dollars.
+
+---
+
+### 2026-08-12 05:15:24  #市場
+
+富時A50期指連續夜盤收跌0.09%，報14925點。
+
+---
+
+### 2026-08-12 05:08:29  #公司
+
+CoreWeave 執行長： 短期算力產能實際上已全部售罄，由此達成的簽約承諾，合同條款正變得愈發有利。
+
+---
+
+### 2026-08-12 05:07:26  #公司
+
+CoreWeave 執行長：第二季度簽署的客戶合同預期貢獻利潤率較近幾個季度新增合同高出 5‑10 個百分點。
+
+---
+
+### 2026-08-12 05:07:07  #公司
+
+超微電腦CEO：受電力、散熱及網路業務部分客戶短期延遲影響，第四季度營收為 111 億美元。
+
+---
+
+### 2026-08-12 05:03:17  #國際
+
+案件卷宗顯示：美國一名法官阻止美國郵政局依據特朗普總統的行政令對郵寄投票實施限制。
+
+---
+
+### 2026-08-12 04:59:12  #市場
+
+週二（8月11日）紐約尾盤，現貨黃金跌0.50%，報4368.81美元/盎司。現貨白銀跌1.63%，報6.46705美元/盎司。COMEX銅期貨漲0.19%，報6.6285美元/磅。現貨鉑金跌0.82%，現貨鈀金跌1.20%。
+
+---
+
+### 2026-08-12 04:57:34  #MKT News
+
+The US Commodity Futures Trading Commission (CFTC) has asked prediction platform Kalshi to continue operating.
+
+---
+
+### 2026-08-12 04:57:25  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier.
+
+---
+
+### 2026-08-12 04:55:23  #市場 #國際
+
+美國商品期貨交易委員會宣告：已命令 KalshiEX 繼續運營。
+
+---
+
+### 2026-08-12 04:55:16  #Trading Economics #Markets #Mexico #currency #Importance 0
+
+Mexican Peso Hits 26-month High — The Mexican Peso touched 17.08 against the USD, the highest since June 2024. Over the past 4 weeks, US Dollar Mexican Peso lost 2.54%, and in the last 12 months, it decreased 8.08%.
 
 ---
 
@@ -19137,275 +19287,5 @@ Spot silver is up over 2.00% intraday at $64.80/oz.
 ### 2026-08-10 22:46:04  #公司
 
 【瑞眾保險回應員工實名舉報：已成立專項工作組啟動內部核查】近日，多家媒體報道，瑞眾人壽保險有限責任公司陝西分公司員工實名舉報其所在機構虛構國家補貼、虛假承諾高額回報等方式，誘導老年人購買保險。針對此次內部人員反映的銷售環節問題，瑞眾保險方面表示：“公司層面已成立專項工作組，全面啟動內部核查與自查自糾工作。一經查實存在違規將從嚴處理、堅決整改，切實保障消費者合法權益。”（中國經營報）
-
----
-
-### 2026-08-10 22:45:56  #市場 #焦點
-
-紐約期銀突破65美元/盎司，日內漲2.36%。
-
----
-
-### 2026-08-10 22:45:46  #其他
-
-墨西哥總統： 米卻肯州已有 45 家牛油果出口商投入運營。
-
----
-
-### 2026-08-10 22:44:50  #國際
-
-伊朗外交部發言人：霍爾木茲海峽在解決先前違規行為之前不能被視為安全。
-
----
-
-### 2026-08-10 22:44:29  #其他
-
-【哥倫比亞地震20多人遇難】哥倫比亞佩雷拉市政府通報，地震已造成18人死亡。地震還造成馬尼薩萊斯市和薩爾薩爾市4人死亡，多人受傷。（CCTV國際時訊）
-
----
-
-### 2026-08-10 22:44:16  #市場
-
-FASTLY 股價攀升至盤中最高點 18%。
-
----
-
-### 2026-08-10 22:43:46  #公司
-
-【中國長城：擎天系列AI伺服器可為相關業務提供算力支援】中國長城在互動平臺表示，公司擎天系列AI伺服器可為相關業務提供算力支援。
-
----
-
-### 2026-08-10 22:43:03  #國際
-
-ZEN TECHNOLOGIES：從印度國防部獲得價值29.5億盧比的模擬器供應訂單。
-
----
-
-### 2026-08-10 22:42:00  #MKT News
-
-The mayor of Pereira, Colombia said the earthquake has killed 18 people.
-
----
-
-### 2026-08-10 22:41:28  #國際
-
-市場訊息：俄反戰政黨亞博盧黨透過第三方接受了來自美國和德國的資金。
-
----
-
-### 2026-08-10 22:41:17  #MKT News #Brent #Impact bullish #XAUUSD
-
-Al Jazeera cited Iranian President Pezeshkian saying the US and Israel are using artificial intelligence and data to attack Iran.
-
----
-
-### 2026-08-10 22:41:05  #其他
-
-哥倫比亞西南部考卡山谷省衛生官員10日對當地媒體表示，當日發生的地震已致該省2人死亡、3人受傷。（新華社）
-
----
-
-### 2026-08-10 22:40:58  #其他
-
-【北京洪水預報預見期提至12小時以上】記者8月10日獲悉，北京市水務局提升監測預報預警能力，初步形成了首都雨水情監測預報三道防線。推進水務“北京模型”體系建設，洪水預報預見期提升至12小時以上。 北京地處海河流域，山區約佔62%，6-8月汛期降雨佔全年80%以上。（新京報）
-
----
-
-### 2026-08-10 22:40:48  #Trading Economics #Markets #Commodity #Importance 1
-
-Sugar Climbs to 10-Month High — Sugar prices climbed above 16 cents per pound, the highest level in ten months, as concerns over the global supply outlook intensified. Brazil’s suspension of its biweekly harvest and production reports had already increased uncertainty among traders before the latest data released on August 6th showed June sugar output fell 15% year-on-year. Unseasonably heavy rains linked to El Niño disrupted cane harvesting and milling, reinforcing expectations of a global deficit in the 2026/27 season. Market participants are also monitoring Brazil’s sugar-ethanol mix, with nearly 58% of cane juice diverted to ethanol in June. The country raised its mandatory ethanol blend to 32% in late July from 30% a month earlier and 27% a year earlier, potentially reducing sugar availability. Meanwhile, India is considering limiting cane use for ethanol from October and bringing forward the crushing season to increase supply and contain record prices, as demand from the Indian festival season gathers pace.
-
----
-
-### 2026-08-10 22:40:13  #國際
-
-伊朗外交發言人：我們與阿曼可以達成諒解，這並不遙遠。
-
----
-
-### 2026-08-10 22:40:05  #公司
-
-【恆榮聯合控股有限公司遞表港交所】據港交所檔案，8月10日，恆榮聯合控股有限公司向港交所提交上市申請書，獨家保薦人為工銀國際融資有限公司。
-
----
-
-### 2026-08-10 22:39:18  #其他
-
-哥倫比亞總統：“我正在前往波哥大，專注於應對我們國家面臨的緊急情況。我已在國家災害風險管理單位設立了統一指揮中心，我將親自從那裡領導援助喬科省、咖啡種植區以及所有受影響地區的行動。今天正在經歷困難時刻的哥倫比亞人民，我想對你們說：你們並不孤單。你們有一位深切關懷人民、將不惜一切保護你們、支援你們，並與你們共同推進受災地區重建的總統。”
-
----
-
-### 2026-08-10 22:39:08  #MKT News
-
-Colombian President De la Espriella will travel to Bogotá to coordinate the earthquake response.
-
----
-
-### 2026-08-10 22:38:41  #其他
-
-哥倫比亞總統表示，他正前往波哥大應對地震。
-
----
-
-### 2026-08-10 22:38:41  #MKT News #GOOGL.O #Impact bullish
-
-Google to add AI and agent features to Google Ads and Google Analytics.
-
----
-
-### 2026-08-10 22:38:24  #其他
-
-【美財長貝森特怒噴前勞工部長：難怪克林頓開除你】美財長貝森特轉發了一篇前勞工部長Robert Reich的推文，文中稱貝森特“K型經濟已經死亡”的言論胡說八道。而貝森特回擊道：“麥當勞最大的問題叫漢堡王，教授，難怪克林頓炒了你的魷魚。”
-
----
-
-### 2026-08-10 22:37:52  #公司
-
-馬納克西亞鋼鐵公司批准哈爾迪亞工廠擴建專案，預計投資額為80億盧比。
-
----
-
-### 2026-08-10 22:35:27  #公司
-
-總部位於新加坡的恆榮集團提交香港上市申請。
-
----
-
-### 2026-08-10 22:33:41  #國際
-
-【伊朗革命衛隊總司令祝賀新任最高國家安全委員會秘書】據伊朗媒體報道，伊朗伊斯蘭革命衛隊總司令艾哈邁德·瓦希迪10日向伊朗新任最高國家安全委員會秘書穆赫辛·雷扎伊表示祝賀。(新華社)
-
----
-
-### 2026-08-10 22:32:57  #公司
-
-惠譽確認阿布扎比國家石油公司穆爾班原油評級為AA，展望穩定。
-
----
-
-### 2026-08-10 22:32:50  #其他
-
-【據港交所檔案：Ever Glory United Holdings Limited向港交所提交上市申請書】據港交所檔案：Ever Glory United Holdings Limited向港交所提交上市申請書。
-
----
-
-### 2026-08-10 22:32:43  #國際
-
-普京：俄羅斯公共交通領域正在出現積極趨勢，但仍存在許多問題。
-
----
-
-### 2026-08-10 22:32:06  #其他
-
-【哥倫比亞地震已致多人遇難】哥倫比亞馬尼薩萊斯市長稱，地震已造成當地2人死亡。地震還造成薩爾薩爾2人死亡、埃爾凱羅3人受傷。（CCTV國際時訊）
-
----
-
-### 2026-08-10 22:31:05  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，中進醫療漲59.54%，陸金所控股漲13.85%，中比能源漲11.57%，海天網路漲10.20%，搜狐漲7.37%。
-
----
-
-### 2026-08-10 22:30:50  #Trading Economics #Markets #Commodity #commodity #Importance 0
-
-HRC Steel Hits 6-week High — HRC Steel increased to 1204.00 USD/T, the highest since June 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 2.04%, and in the last 12 months, it increased 44.07%.
-
----
-
-### 2026-08-10 22:30:38  #公司
-
-【國壽股權公司張蕾娣：當下關鍵是持續引入長線耐心資本】在科創板開市已滿七週年的背景下，國壽股權投資有限公司（下稱國壽股權公司）總經理張蕾娣8月10日向記者表示，該公司當前主要聚焦半導體、人工智慧和生命科學、商業航天等前沿方向，“這些賽道市場空間足夠寬廣，技術加速迭代創新，擁有走向全球市場的潛力。我們認為這些賽道具備孕育世界級科技巨頭的潛力。”在此基礎上，張蕾娣進一步表示，當下關鍵是持續引入長線耐心資本，以資本市場的長效機制持續支撐企業的長期研發投入與全球化戰略佈局。科創板已經透過諸多政策措施，在併購重組、股權激勵等機制上持續最佳化，為世界級企業的成長提供了日益完善的制度保障。展望未來，隨著耐心資本體系不斷完善、科創生態環境持續最佳化，A股市場必將湧現更多立足中國、引領世界的科技領軍企業。 （中證報）
-
----
-
-### 2026-08-10 22:29:24  #公司
-
-安大略省教師養老基金披露持有 SpaceX 5068 萬股股份。
-
----
-
-### 2026-08-10 22:28:51  #國際
-
-美軍中央司令部發布一張照片：一架美國空軍F-16戰鬥機從位於中東的一個基地起飛。
-
----
-
-### 2026-08-10 22:27:56  #市場 #國際
-
-【由於霍爾木茲天然氣交易前景不明朗，歐洲天然氣價格上漲】由於伊朗和阿曼就重新開放霍爾木茲海峽進行的談判未能讓交易員相信達成協議將導致全球液化天然氣運輸迅速恢復，歐洲天然氣價格上漲。歐洲天然氣基準——荷蘭近月期貨價格上漲 8.2%，至每兆瓦時 60.09 歐元；而由於天氣預報顯示氣溫將升高，以及空頭回補潮，美國天然氣期貨價格也上漲了 5.3%。
-
----
-
-### 2026-08-10 22:27:31  #市場
-
-墨西哥主要股指下跌1%。
-
----
-
-### 2026-08-10 22:27:09  #MKT News
-
-The mayor of Manizales, Colombia, said an earthquake has killed at least two people.
-
----
-
-### 2026-08-10 22:27:02  #其他
-
-哥倫比亞馬尼薩萊斯市長通報，地震造成至少 2 人死亡。
-
----
-
-### 2026-08-10 22:26:44  #其他
-
-迪士尼 +、Hulu 將把 6 檔 iHeartMedia 影片播客納入內容庫。
-
----
-
-### 2026-08-10 22:26:27  #市場
-
-紐約期銀日內漲2%，現報64.78美元/盎司。
-
----
-
-### 2026-08-10 22:25:48  #MKT News
-
-Mexico's benchmark stock index fell 1%.
-
----
-
-### 2026-08-10 22:25:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Fars News reported a Yemeni drone strike targeted Saudi-backed proxies in the Mokha area.
-
----
-
-### 2026-08-10 22:24:07  #其他
-
-德克薩斯州州長：設立防護措施以確保資料中心保護電網。
-
----
-
-### 2026-08-10 22:23:42  #國際
-
-烏克蘭軍方稱擊中了位於秋明州的俄羅斯石化廠。
-
----
-
-### 2026-08-10 22:23:38  #MKT News #Important
-
-Ukraine's military said it struck a Russian petrochemical plant in Tyumen Oblast.
-
----
-
-### 2026-08-10 22:23:18  #公司
-
-【中鐵長江交通設計集團與北新路橋集團座談交流】據北新路橋訊息，8月10日，中鐵長江交通設計集團有限公司黨委書記、董事長羅立翔一行來北新路橋集團總部北新大廈座談交流。座談中，雙方就交通基建行業發展趨勢、市政更新類建設、智慧交通專案落地、中亞海外基建市場共拓等內容達成重要共識，期望雙方在良好合作基礎上，實現資源共享和優勢互補。
-
----
-
-### 2026-08-10 22:23:14  #公司 #觀點
-
-【知情人士：希音IPO向投資者推介估值不足300億美元】兩名知情人士透露，希音（Shein）承銷投行向潛在投資者給出的公司估值不足300億美元，較巔峰估值縮水約七成。 另有兩位熟悉公司規劃的人士表示，希音內部設定的目標估值為300億美元。其中一人稱，若最終IPO估值低於該標準，公司或需回頭與現有股東協商後才能繼續推進上市。 另一名知情人士透露，已有投資者表示願意在250億至290億美元區間的估值區間認購股份。 希音方面未回應置評請求；本次IPO兩大牽頭投行高盛、摩根士丹利均拒絕發表評論，第三家牽頭投行摩根大通則未回覆採訪問詢。
 
 ---
