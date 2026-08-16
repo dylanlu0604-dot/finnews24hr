@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-16 17:23:44",
+  "updated": "2026-08-16 17:27:34",
   "count": 15199,
   "items": [
+    {
+      "id": "mkt:01a009e2-4784-7aab-904d-53d99afc3050",
+      "time": "2026-08-16 17:23:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Alhadath cites sources saying Trump envoy Jared Kushner will meet Hamas representatives, with mediators from Egypt, Turkey and Qatar present, to try to prevent collapse of the Gaza agreement."
+    },
+    {
+      "id": "mkt:01a009e2-004c-7aab-904d-4c253577afd6",
+      "time": "2026-08-16 17:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC: A M4.2 earthquake struck the Flores region of Indonesia; depth 5 km."
+    },
     {
       "id": "5042748",
       "time": "2026-08-16 17:22:46",
@@ -139015,33 +139036,6 @@
         "其他"
       ],
       "text": "【李家超：目標第三季度內發表香港第一個五年規劃】香港特區行政長官李家超9日表示，特區政府正馬不停蹄地整理和分析意見，目標在今年第三季度內發表香港第一個五年規劃。 當日，李家超率領特區政府司局長出席香港第一個五年規劃及2026年施政報告地區諮詢會，聽取地區人士對香港五年規劃、行政長官第五份施政報告的意見和建議。諮詢會在九龍塘官立小學舉行，約120位市民出席。 李家超說，特區政府一直致力豐富置業階梯，隨著北部都會區發展，有助提供更多空間及改善居住環境。公屋輪候人數已由高峰期的15萬人降至約10萬人，跌幅達三分之一，反映特區政府大量興建公屋及居屋帶動單位流轉見到成效。 李家超在地區諮詢會後會見傳媒表示，相信市民非常關注皇崗口岸何時可以正式運作，讓市民使用。他的立場是清晰的：越早越好。當然，公開讓市民使用，要確保其運作暢順、安全、有序，讓大家有良好的體驗。特區政府將進行大量測試。（新華社）"
-    },
-    {
-      "id": "mkt:019fe5d7-84f9-7aab-8fc9-00fcd6b08e75",
-      "time": "2026-08-09 17:25:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【Galaxy Securities: A-share market shifting from 'expectation game' to 'reality check'】Galaxy Securities says August is seeing a shift in the A-share market from expectation-driven trading to reality testing, centered on three verification lines: earnings, policy and external risk. Earnings: mid–late August is the busiest window for A-share half-year report disclosures and should drive pricing around H1 results versus expectations. Policy: the July Politburo meeting set H2 economic tasks; markets will move to test policy detail issuance and execution. External risk: the Fed's policy path remains the primary global market focus. Recommendation: maintain balanced positioning. Sector focus — secular/tech winners: semiconductors and supply chain (memory chips; semiconductor equipment & materials; advanced packaging), components, communications equipment, energy storage/power infrastructure, humanoid robots, commercial aerospace. Defensive core: coal, coal chemicals, financials, utilities, new energy. Cyclicals/resources likely to recover: nonferrous metals, basic chemicals, building materials, steel."
-    },
-    {
-      "id": "5032470",
-      "time": "2026-08-09 17:25:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【益生股份：預計2026年下半年至2027年商品代雞苗市場行情較好】益生股份在機構調研時表示，從供給端看，2025年我國祖代白羽肉雞全年進口量同比下降超過10%，疊加2026年1—5月國內引種再度中斷，祖代種雞的減少將影響14個月以後商品代雞苗的供給，預計未來優質商品代雞苗供給偏緊，市場價格行情向好；從需求端看，下游屠宰與養殖環節持續擴產，行業產能擴張意願強烈，雞苗需求量持續增加。同時市場普遍預期2027年豬肉價格回升，有望帶動雞肉價格上漲，進而傳導至商品代雞苗環節。綜上，公司預計2026年下半年至2027年商品代雞苗市場行情較好。"
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
   "date": "2026-08-16",
-  "count": 461,
+  "count": 463,
   "items": [
+    {
+      "id": "mkt:01a009e2-4784-7aab-904d-53d99afc3050",
+      "time": "2026-08-16 17:23:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Alhadath cites sources saying Trump envoy Jared Kushner will meet Hamas representatives, with mediators from Egypt, Turkey and Qatar present, to try to prevent collapse of the Gaza agreement."
+    },
+    {
+      "id": "mkt:01a009e2-004c-7aab-904d-4c253577afd6",
+      "time": "2026-08-16 17:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC: A M4.2 earthquake struck the Flores region of Indonesia; depth 5 km."
+    },
     {
       "id": "5042748",
       "time": "2026-08-16 17:22:46",
