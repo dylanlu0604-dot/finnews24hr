@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-16 22:24:19",
+  "updated": "2026-08-16 22:28:19",
   "count": 15197,
   "items": [
+    {
+      "id": "mkt:01a00af8-1985-7aab-904e-6fe1d370ebcf",
+      "time": "2026-08-16 22:27:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported Kushner discussed maintaining a Gaza ceasefire with officials from the Peace Committee."
+    },
+    {
+      "id": "mkt:01a00af6-d8e7-7aab-904e-607eae346ea9",
+      "time": "2026-08-16 22:25:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "JPM.O",
+        "Impact bullish",
+        "XLF",
+        "S&P500"
+      ],
+      "text": "【Wells Fargo: JP Morgan poised to become first $1 trillion bank】Wells Fargo says JP Morgan is likely to become the first bank with a market value above $1 trillion, and it maintained an overweight rating while raising its price target to $390 from $375, implying more than 7% upside to last Friday’s close. Analyst Mike Mayo wrote in a Thursday client note that JP Morgan’s “top-tier investment capabilities” could not only help it pass $1 trillion but could see it reach $2 trillion in about 7–8 years. Mayo cited share gains across major businesses, operational optimization, steadier profitability versus global peers, and the CEO-defined “robust balance sheet” as supporting factors."
+    },
     {
       "id": "5042877",
       "time": "2026-08-16 22:20:42",
@@ -139004,26 +139026,6 @@
         "國際"
       ],
       "text": "市場訊息：埃及、土耳其外交部長就地區安全安排展開磋商。"
-    },
-    {
-      "id": "5032597",
-      "time": "2026-08-09 22:27:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI總裁布羅克曼：GPT-4在四年前的今天完成了訓練。"
-    },
-    {
-      "id": "mkt:019fe6e9-bf87-7aab-8fca-5314ed539909",
-      "time": "2026-08-09 22:25:06",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Yemeni government condemns Houthi militants' terrorist attack on Mocha port."
     }
   ]
 }
