@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:58:49_
-_本檔包含 3119 則快訊，約 601499 字_
+_更新時間：2026-08-16 16:41:38_
+_本檔包含 3116 則快訊，約 600919 字_
+
+---
+
+### 2026-08-12 08:04:23  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #S&P500
+
+【China International Capital Co: Firmly bullish on AI and tech growth】China International Capital Co (CICC) said recent gains in traditional sectors may not be sustainable and evidence of a style rotation is insufficient. CICC remains firmly bullish on the AI and technology growth theme. If a tech-led rally persists, both Chinese and U.S. equities could perform well in H2. CICC recommends overweighting A-shares and Hong Kong equities and maintaining market weight on U.S. equities.
+
+---
+
+### 2026-08-12 08:03:32  #市場
+
+新加坡交易所：7月衍生品交易量同比增長16%，達到3390萬份合約。
+
+---
+
+### 2026-08-12 08:03:16  #市場
+
+澳大利亞S&P/ASX 200指數下跌0.5%，報9,205.40點。
+
+---
+
+### 2026-08-12 08:03:10  #其他
+
+新加坡交易所：7月證券市場成交額同比增長37%，至462億新加坡元。
+
+---
+
+### 2026-08-12 08:01:31  #MKT News #Market Regions #Emerging Markets #005930.KS #Impact bullish #000660.KS
+
+South Korea's KOSPI opened 75.05 points higher on Aug 12 (Wed), up 1.18% at 6,420.58; Samsung Electronics and SK Hynix both rose more than 1%.
+
+---
+
+### 2026-08-12 08:01:13  #MKT News #Market Regions #Japan & APAC #Nikkei 225
+
+Japan's Nikkei 225 opened Aug 12 (Wed) up 17.26 points, or 0.03%, at 66,987.48.
+
+---
+
+### 2026-08-12 08:00:37  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲1.5%，至6438.50點。
+
+---
+
+### 2026-08-12 08:00:17  #市場
+
+【日韓股市開盤】日經225指數上午開盤報66994.05點，漲幅0.04％。韓國綜合股價指數（KOSPI）開盤上漲1.5％，至6438.50點。
+
+---
+
+### 2026-08-12 07:58:33  #國際
+
+【河南釋出暴雨紅色預警】河南省氣象臺2026年8月12日07時30分升級釋出暴雨紅色預警：過去24小時，我省黃淮之間大部出現暴雨或大暴雨，洛陽、鄭州、平頂山、許昌、漯河、周口、南陽局地特大暴雨，最大降水量葉縣常村356.9毫米。 預計12日08時至13日08時，沿淮及其以北大部有暴雨，其中焦作南部、新鄉中東部、洛陽東部、鄭州、開封、商丘中西部、平頂山、許昌、漯河、周口中西部和北部、南陽東北部、駐馬店北部部分縣（市、區）有大暴雨，鄭州東南部、開封南部、平頂山中部、許昌北部、周口西部局地特大暴雨（個別點250到350毫米），並伴有短時強降水（最大小時降水量40到60毫米，局地80毫米）、局地雷暴大風（8到10級）等強對流天氣。 請密切關注屬地氣象部門釋出的最新預報資訊和氣象災害預警訊號，做好防範應對工作。上述地區的相鄰縣（市、區）也需關注。
+
+---
+
+### 2026-08-12 07:58:15  #央行 #國際
+
+【日本7月M2總量同比增長2.2%】日本央行資料顯示，7月份日本M2貨幣供應量同比增長2.2%，M3貨幣供應量同比增長1.4%。
+
+---
+
+### 2026-08-12 07:57:21  #公司
+
+【林俊暘創辦AI公司語用科技 天使輪融資估值20億美元】8月12日，千問前技術負責人林俊暘宣佈已在上海創辦了一家新公司語用科技，研究方向為橫跨數字世界和物理世界的下一代智慧體。他同時透露，高榕創投和HSG（紅杉中國）共同領投本輪融資，騰訊和上海未來產業基金提供支援。從知情人士處獲悉，林俊暘所稱的“本輪融資”為語用科技天使輪融資，估值為20億美元。（證券時報）
+
+---
+
+### 2026-08-12 07:57:14  #公司
+
+【豐田汽車首位“外姓社長”、日本經團聯首任會長奧田碩去世，享年93歲】據報道，豐田汽車前社長、日本經濟團體聯合會（經團聯）前會長奧田碩於當地時間8月8日去世，享年93歲。1955年，奧田碩加入豐田汽車銷售公司，在1995年成為豐田汽車史上首位“外姓社長”，任內主導擴張全球產能並推出普銳斯等車型；後於1999年至2006年擔任豐田汽車董事長。2002年，奧田碩出任新合併成立的日本經團聯首任會長。卸任豐田汽車董事後，奧田碩曾擔任日本國際協力銀行（JBIC）行長。
+
+---
+
+### 2026-08-12 07:56:46  #MKT News #Market Themes #AI Revolution #Star Stocks #Tencent #0700.HK
+
+【Former Qianwen tech chief Lin Junyang launches AI start-up Yuyong Technology; angel round values it at $2.0 bln】On Aug. 12 former Qianwen head of technology Lin Junyang announced he has founded Shanghai-based AI company Yuyong Technology to develop next-generation agents spanning the digital and physical worlds. He said Gaorong Capital and HSG (Sequoia China) co-led the angel round, with Tencent and the Shanghai Future Industry Fund participating; sources put the angel valuation at about $2.0 billion.
+
+---
+
+### 2026-08-12 07:56:24  #市場 #國際
+
+10年期日本國債收益率上漲1.5個基點，至2.820%。
+
+---
+
+### 2026-08-12 07:56:11  #宏觀 #觀點
+
+【住房納入大宗消費範疇 釋放內需增長動能 對於後市走勢機構普遍持向好預期】隨著國務院批覆的《擴大消費“十五五”規劃》將住房消費納入大宗耐用商品消費範疇並置於首位，房地產的政策定位正加速向“防風險與促消費並重”轉變。近日，多地密集出臺或儲備樓市新政，持續、多方位促進住房消費潛力釋放。當前，全國樓市政策最佳化已形成多點發力、全域推進的態勢。除了北京、濱州等多地，多個熱點城市正謀劃出臺住房消費提振舉措。成都正從優供給、增需求、去庫存、穩預期方面研究政策；武漢擬從一二手房市場聯動、商辦去化、高品質住房供應等方面完善政策工具箱；南京將深入開展住房消費“以舊換新”活動，助力改善型住房需求有序釋放。對於後市走勢，機構普遍持向好預期。中泰證券認為，購房支援政策持續最佳化，有助於穩定市場預期。隨著政策效果進一步釋放及市場預期逐步改善，銷售端有望迎來邊際改善。（經參報）
+
+---
+
+### 2026-08-12 07:56:07  #MKT News
+
+Japan broad money (M2) YoY July 4.4% vs 4.5% prior.
+
+---
+
+### 2026-08-12 07:56:01  #MKT News #Economic Calendar #Important
+
+Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%
+
+---
+
+### 2026-08-12 07:54:51  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen.
 
 ---
 
@@ -18714,131 +18822,5 @@ OpenAI strongly recommends Daybreak customers using Codex switch 'Full Access Mo
 ### 2026-08-11 02:25:11  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Approaches $88 — Brent rose approached $88 a barrel on Monday, extending gains for a fourth consecutive session and reaching its highest level in almost two weeks, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues.
-
----
-
-### 2026-08-11 02:25:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Gains by 4.05% — Top commodity gainers are Oat (4.05%), Cocoa (2.11%) and Canola (1.75%). Biggest losers are Rice (-1.34%) and Cotton (-0.69%).
-
----
-
-### 2026-08-11 02:24:21  #MKT News
-
-Colombian president says earthquake injured 87 people and caused 61 buildings to collapse.
-
----
-
-### 2026-08-11 02:23:56  #Trading Economics #Markets #Commodity #Importance 0
-
-Crude Oil Above $82 — Crude oil rose above $82 a barrel on Monday, extending gains for a third consecutive session and reaching its highest level in a week, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues.
-
----
-
-### 2026-08-11 02:23:37  #MKT News
-
-Colombia's president said rescuing earthquake victims is the immediate priority; the death toll has reached 111.
-
----
-
-### 2026-08-11 02:22:29  #MKT News
-
-Axios reported the Trump administration is drafting an executive order that would split the childhood measles, mumps and rubella vaccine into three separate shots and require them to be administered at separate medical visits.
-
----
-
-### 2026-08-11 02:22:13  #國際
-
-市場訊息：特朗普政府正在擬定一項行政令，擬將兒童麻疹‑腮腺炎‑風疹（MMR）聯合疫苗拆分為三針，安排在不同就診時段分別接種。
-
----
-
-### 2026-08-11 02:20:25  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
-
-Brent crude rose above $87/bbl, up 6.77% intraday.
-
----
-
-### 2026-08-11 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 2.40% — Top commodity gainers are Silver (2.40%), Lithium Carbonate (1.23%) and Gold (0.45%). Biggest loser is Platinum (-0.55%).
-
----
-
-### 2026-08-11 02:19:06  #MKT News #Commodities
-
-Refinitiv cited two sources saying a fuel tank at Libya's Zawiya refinery exploded; the nature and cause of the blast were unclear.
-
----
-
-### 2026-08-11 02:18:13  #其他
-
-據兩位訊息人士透露：利比亞扎維耶煉油廠燃料罐發生爆炸，爆炸起因不明。
-
----
-
-### 2026-08-11 02:18:11  #市場
-
-布倫特原油日內漲5%，現報87.74美元/桶。
-
----
-
-### 2026-08-11 02:18:11  #市場
-
-WTI原油日內漲5%，現報82.09美元/桶。
-
----
-
-### 2026-08-11 02:18:06  #MKT News
-
-【Trump administration revokes over 175,000 foreign visas】The US State Department says the Trump administration has revoked more than 175,000 foreign visas, citing criminal activity, visa violations and violent rhetoric toward US citizens. Most revocations stem from “law enforcement contact records,” including assault, DUI, theft and drug offenses. Visa cancellations have risen sharply in 2026, with monthly revocations exceeding 10,000 year-to-date. The action is described as part of an ongoing review mechanism to ensure visa holders comply and do not threaten US security; immigration lawyers warn revocations may follow minor enforcement contacts or unproven allegations. The State Department said a US visa is “a privilege, not a right.”
-
----
-
-### 2026-08-11 02:16:12  #市場 #焦點
-
-WTI原油突破82美元/桶，日內漲4.93%。
-
----
-
-### 2026-08-11 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rallies by 11.16% — Top commodity gainers are Natural Gas EU (11.16%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Brent Crude Oil (4.63%) and Crude Oil WTI (4.58%).
-
----
-
-### 2026-08-11 02:09:57  #其他
-
-加拿大總理卡尼：我們正在降低加拿大鋼鐵運輸成本，讓更多加拿大鋼材能夠運往全國各地的建設專案現場，同時加強國內供應鏈。
-
----
-
-### 2026-08-11 02:09:24  #MKT News
-
-Canada's Prime Minister Carney said the government is cutting steel transport costs to move more Canadian steel to construction sites nationwide and to strengthen domestic supply chains.
-
----
-
-### 2026-08-11 02:06:46  #MKT News #Brent #Impact bullish
-
-Brent crude futures rose $4/bbl after Iran and the U.S. exchanged compensation demands, weakening prospects for a swift reopening of the Strait of Hormuz.
-
----
-
-### 2026-08-11 02:06:10  #國際
-
-白宮新聞秘書萊維特：特朗普將於下午2:45簽署有關“疫苗靈活性”的行政令。
-
----
-
-### 2026-08-11 02:05:46  #MKT News
-
-Gaza Peace Committee official says Gaza plan continues to be implemented effectively.
-
----
-
-### 2026-08-11 02:05:27  #MKT News
-
-A Gaza Peace Committee official said the committee will not ask Israel to rely on trust or to take irreversible actions until verified, on‑the‑ground steps are taken.
 
 ---

@@ -1,7 +1,105 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:58:49_
-_本檔包含 3003 則快訊，約 601586 字_
+_更新時間：2026-08-16 16:41:38_
+_本檔包含 3001 則快訊，約 602352 字_
+
+---
+
+### 2026-08-13 10:43:43  #國際
+
+伊朗外長阿拉格齊：像法國這樣的國家應該停止向世界說教“人權”和國際法。這種虛偽是顯而易見的，也令人尷尬。 你們對以色列在加沙的種族滅絕——以及對伊朗的侵略——的支援，已經摧毀了你們自以為擁有的任何道德制高點。
+
+---
+
+### 2026-08-13 10:41:12  #MKT News #09688.HK #Impact bullish #02157.HK #01093.HK
+
+Hong Kong innovative-drug stocks strengthened: 09688.HK rose more than 5%, 02157.HK climbed over 4%, and 09926.HK and CSPC PHARMA (01093.HK) also gained.
+
+---
+
+### 2026-08-13 10:40:03  #市場
+
+【主力資金：天孚通訊淨買入超14億】截至目前，今日主力資金淨流入14.65億；淨流入TMT、百元股、高價股等板塊，其中TMT板塊淨流入153.14億；淨流出小金屬、有色金屬概念、有色金屬等板塊，其中小金屬板塊淨流出84.79億。
+  
+個股方面，天孚通訊淨買入14.52億元位居首位，新易盛、中際旭創、利通電子主力資金淨流入居前；風華高科淨賣出7.78億元位居首位，紫金礦業、勝宏科技、永鼎股份淨流出額居前。
+
+---
+
+### 2026-08-13 10:39:19  #宏觀
+
+【“十五五”時期 應對氣候變化將聚焦“五個重點”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期是實現碳達峰的決勝期，也是落實2035年國家自主貢獻的關鍵期。生態環境部將聚焦“五個重點”，統籌推進應對氣候變化工作。一是持續推動重點領域綠色低碳轉型。二是加快推進全國碳市場建設。三是完善碳排放統計核算體系。四是全面提升氣候韌性。五是積極推動應對氣候變化國際合作。（央視新聞）
+
+---
+
+### 2026-08-13 10:39:00  #公司
+
+【索通發展在內蒙古成立碳素製品公司】企查查APP顯示，近日，內蒙古索通星途碳素製品有限公司成立，法定代表人為唐浩，經營範圍包含石墨及碳素製品製造；石墨及碳素製品銷售；熱力生產和供應；發電業務、輸電業務、供（配）電業務等。企查查股權穿透顯示，該公司由索通發展全資持股。
+
+---
+
+### 2026-08-13 10:38:55  #市場
+
+【CRO概念持續走高 南模生物20cm漲停】CRO概念盤中持續走高，南模生物20cm漲停，此前博濟醫藥20cm漲停，萬邦醫藥漲18%，近岸蛋白、皓元醫藥、睿智醫藥、奧浦邁、百奧賽圖漲幅靠前。
+
+---
+
+### 2026-08-13 10:38:02  #公司 #國際
+
+【美國ITC終止對Reebok、華米等企業智慧可穿戴裝置、系統及其元件337調查】據中國貿易救濟資訊網， 8月12日，美國國際貿易委員會（ITC）釋出公告稱，對特定智慧可穿戴裝置、系統及其元件作出337部分終裁：對本案行政法官於2026年7月9日、10日作出的初裁不予複審，即基於雙方和解，終止對Reebok、RILUK IPCO、The Original Fit Factory、Truconnect、Zepp Health、安徽華米資訊科技有限公司、Zepp及Zepp North America的調查。
+
+---
+
+### 2026-08-13 10:37:37  #公司
+
+【潤邦股份：GENMA再獲多個國內外服務訂單】據潤邦股份訊息，近期，GENMA再次獲得來自國內外多個客戶的服務委託，涵蓋軌道修整、日常維保、電氣房整體改造、整機翻新以及裝置檢驗等多個領域。
+
+---
+
+### 2026-08-13 10:36:39  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell below $65/oz, down 0.49% intraday.
+
+---
+
+### 2026-08-13 10:36:28  #公司
+
+【聚燦光電申請光互聯領域專利】聚燦光電在光互連領域佈局持續推進。近日，聚燦光電科技（宿遷）有限公司“一種用於光通訊領域的Micro LED外延結構”專利進入國家智慧財產權局審中公佈階段，顯示申請日期為6月22日。
+
+---
+
+### 2026-08-13 10:35:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Eases Ahead of PPI Data — The yield on the 10-year US Treasury note eased to around 4.68% on Thursday as investors looked ahead to July’s producer inflation report for further clues on recent price trends. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Meanwhile, the government sold 10-year notes at a yield of 4.683%, the most since the global financial crisis. Inflation above the Federal Reserve’s target and widening budget deficits have contributed to elevated long-term yields, with investors demanding greater compensation to finance the US government.
+
+---
+
+### 2026-08-13 10:34:32  #公司 #市場 #國際 #原創
+
+【韓國股市10天內上漲約23% 晶片股重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，韓國基準Kospi指數一度上漲4.8%，自7月30日低點以來的累計漲幅約23%。晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均漲超5%。今年迄今，受散戶資金推動，韓國Kospi指數已上漲逾60%，但較6月底的高點仍下跌約24%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。上個月的市場動盪導致交易暫停次數創下紀錄新高，韓國Kospi指數日內波幅超過5%的情況屢見不鮮。隨著波動率指標降至4月以來的最低水平，市場開始恢復冷靜。
+
+---
+
+### 2026-08-13 10:34:12  #國際
+
+【機構：馬來西亞第二季度經濟可能增長5.9%】豐隆投行經濟學家Felicia Ling和Chong Lih Herng在一份報告中表示，馬來西亞第二季度經濟可能增長了5.9%，略高於5.8%的初步估計。他們表示，預計製造業和採礦業的產出，以及服務業和建築業的擴張，對經濟增長構成了支撐。他們補充說，製造業的勢頭是由強勁的電子產品生產和全球半導體需求推動的，而採礦業的增長則受到天然氣產出的支撐。豐隆預計，由於高基數效應，到下半年底經濟增長將放緩，儘管對電子產品的強勁外部需求和有韌性的國內需求應會繼續支撐馬來西亞經濟。
+
+---
+
+### 2026-08-13 10:33:13  #MKT News #Important
+
+【16 countries to attend 2nd World Humanoid Robot Games; teams +138% YoY】The 2nd World Humanoid Robot Games will open on Aug. 22 at Beijing’s National Speed Skating Oval Ice Ribbon, hosted by the Beijing municipal government and China Media Group. The event attracted 666 teams from 16 countries across six continents with 2,056 robots, a 138% increase in teams and roughly a fourfold rise in robots YoY. International entrants include teams from the United States, Germany and Japan; Brazil fielded a national combined squad drawn from five robot-football World Cup champion teams. Domestic participation comprises 157 companies, 641 teams and 1,975 robots, including nearly all first‑tier robotics firms and 27 '985' universities covering 30 provinces, municipalities and SARs. Competition categories expanded from 26 to 51 events.
+
+---
+
+### 2026-08-13 10:32:50  #MKT News
+
+Australian Mining and Energy Union says the new agreement resolves accident-compensation issues and includes other improvements sought by members.
+
+---
+
+### 2026-08-13 10:32:37  #MKT News #BTU.O
+
+The Australian Mining and Energy Union said 19 workers at the Wybong joint coal wash plant have reached an agreement with Peabody that delivers an overall pay increase of about 4%.
 
 ---
 
@@ -18014,113 +18112,5 @@ Singapore Current Account Surplus Widens in Q2 — Singapore’s current account
 ### 2026-08-12 08:04:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
 
 【China International Capital Co recommends continued overweight in gold】China International Capital Co says the two narratives that had pressured gold are unraveling: global liquidity is not in a sustained tightening cycle and de-dollarization remains active. US disinflation and slower growth support a move toward easier policy, while Fed rhetoric looks hawkish but policy actions are effectively dovish; Fed reform could open space for future rate cuts. Dollar balance-sheet reduction would help restore dollar credibility in principle but faces heavy market and political constraints, and structural erosion of dollar credit from high debt, deficits and policy uncertainty is hard to reverse. Global central bank net gold purchases rebounded to 289 tonnes in Q2, up 62% YoY and a Q2 record, signalling entrenched dollar concerns and continued reserve-diversification demand for gold. With looser global liquidity reducing upward pressure on real rates and the dollar, gold should regain support from both liquidity and reserve diversification. The firm judges the gold bull market is intact, the reallocation window after the recent correction is open, and recommends maintaining an overweight in gold.
-
----
-
-### 2026-08-12 08:04:23  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #S&P500
-
-【China International Capital Co: Firmly bullish on AI and tech growth】China International Capital Co (CICC) said recent gains in traditional sectors may not be sustainable and evidence of a style rotation is insufficient. CICC remains firmly bullish on the AI and technology growth theme. If a tech-led rally persists, both Chinese and U.S. equities could perform well in H2. CICC recommends overweighting A-shares and Hong Kong equities and maintaining market weight on U.S. equities.
-
----
-
-### 2026-08-12 08:03:32  #市場
-
-新加坡交易所：7月衍生品交易量同比增長16%，達到3390萬份合約。
-
----
-
-### 2026-08-12 08:03:16  #市場
-
-澳大利亞S&P/ASX 200指數下跌0.5%，報9,205.40點。
-
----
-
-### 2026-08-12 08:03:10  #其他
-
-新加坡交易所：7月證券市場成交額同比增長37%，至462億新加坡元。
-
----
-
-### 2026-08-12 08:01:31  #MKT News #Market Regions #Emerging Markets #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI opened 75.05 points higher on Aug 12 (Wed), up 1.18% at 6,420.58; Samsung Electronics and SK Hynix both rose more than 1%.
-
----
-
-### 2026-08-12 08:01:13  #MKT News #Market Regions #Japan & APAC #Nikkei 225
-
-Japan's Nikkei 225 opened Aug 12 (Wed) up 17.26 points, or 0.03%, at 66,987.48.
-
----
-
-### 2026-08-12 08:00:37  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲1.5%，至6438.50點。
-
----
-
-### 2026-08-12 08:00:17  #市場
-
-【日韓股市開盤】日經225指數上午開盤報66994.05點，漲幅0.04％。韓國綜合股價指數（KOSPI）開盤上漲1.5％，至6438.50點。
-
----
-
-### 2026-08-12 07:58:33  #國際
-
-【河南釋出暴雨紅色預警】河南省氣象臺2026年8月12日07時30分升級釋出暴雨紅色預警：過去24小時，我省黃淮之間大部出現暴雨或大暴雨，洛陽、鄭州、平頂山、許昌、漯河、周口、南陽局地特大暴雨，最大降水量葉縣常村356.9毫米。 預計12日08時至13日08時，沿淮及其以北大部有暴雨，其中焦作南部、新鄉中東部、洛陽東部、鄭州、開封、商丘中西部、平頂山、許昌、漯河、周口中西部和北部、南陽東北部、駐馬店北部部分縣（市、區）有大暴雨，鄭州東南部、開封南部、平頂山中部、許昌北部、周口西部局地特大暴雨（個別點250到350毫米），並伴有短時強降水（最大小時降水量40到60毫米，局地80毫米）、局地雷暴大風（8到10級）等強對流天氣。 請密切關注屬地氣象部門釋出的最新預報資訊和氣象災害預警訊號，做好防範應對工作。上述地區的相鄰縣（市、區）也需關注。
-
----
-
-### 2026-08-12 07:58:15  #央行 #國際
-
-【日本7月M2總量同比增長2.2%】日本央行資料顯示，7月份日本M2貨幣供應量同比增長2.2%，M3貨幣供應量同比增長1.4%。
-
----
-
-### 2026-08-12 07:57:21  #公司
-
-【林俊暘創辦AI公司語用科技 天使輪融資估值20億美元】8月12日，千問前技術負責人林俊暘宣佈已在上海創辦了一家新公司語用科技，研究方向為橫跨數字世界和物理世界的下一代智慧體。他同時透露，高榕創投和HSG（紅杉中國）共同領投本輪融資，騰訊和上海未來產業基金提供支援。從知情人士處獲悉，林俊暘所稱的“本輪融資”為語用科技天使輪融資，估值為20億美元。（證券時報）
-
----
-
-### 2026-08-12 07:57:14  #公司
-
-【豐田汽車首位“外姓社長”、日本經團聯首任會長奧田碩去世，享年93歲】據報道，豐田汽車前社長、日本經濟團體聯合會（經團聯）前會長奧田碩於當地時間8月8日去世，享年93歲。1955年，奧田碩加入豐田汽車銷售公司，在1995年成為豐田汽車史上首位“外姓社長”，任內主導擴張全球產能並推出普銳斯等車型；後於1999年至2006年擔任豐田汽車董事長。2002年，奧田碩出任新合併成立的日本經團聯首任會長。卸任豐田汽車董事後，奧田碩曾擔任日本國際協力銀行（JBIC）行長。
-
----
-
-### 2026-08-12 07:56:46  #MKT News #Market Themes #AI Revolution #Star Stocks #Tencent #0700.HK
-
-【Former Qianwen tech chief Lin Junyang launches AI start-up Yuyong Technology; angel round values it at $2.0 bln】On Aug. 12 former Qianwen head of technology Lin Junyang announced he has founded Shanghai-based AI company Yuyong Technology to develop next-generation agents spanning the digital and physical worlds. He said Gaorong Capital and HSG (Sequoia China) co-led the angel round, with Tencent and the Shanghai Future Industry Fund participating; sources put the angel valuation at about $2.0 billion.
-
----
-
-### 2026-08-12 07:56:24  #市場 #國際
-
-10年期日本國債收益率上漲1.5個基點，至2.820%。
-
----
-
-### 2026-08-12 07:56:11  #宏觀 #觀點
-
-【住房納入大宗消費範疇 釋放內需增長動能 對於後市走勢機構普遍持向好預期】隨著國務院批覆的《擴大消費“十五五”規劃》將住房消費納入大宗耐用商品消費範疇並置於首位，房地產的政策定位正加速向“防風險與促消費並重”轉變。近日，多地密集出臺或儲備樓市新政，持續、多方位促進住房消費潛力釋放。當前，全國樓市政策最佳化已形成多點發力、全域推進的態勢。除了北京、濱州等多地，多個熱點城市正謀劃出臺住房消費提振舉措。成都正從優供給、增需求、去庫存、穩預期方面研究政策；武漢擬從一二手房市場聯動、商辦去化、高品質住房供應等方面完善政策工具箱；南京將深入開展住房消費“以舊換新”活動，助力改善型住房需求有序釋放。對於後市走勢，機構普遍持向好預期。中泰證券認為，購房支援政策持續最佳化，有助於穩定市場預期。隨著政策效果進一步釋放及市場預期逐步改善，銷售端有望迎來邊際改善。（經參報）
-
----
-
-### 2026-08-12 07:56:07  #MKT News
-
-Japan broad money (M2) YoY July 4.4% vs 4.5% prior.
-
----
-
-### 2026-08-12 07:56:01  #MKT News #Economic Calendar #Important
-
-Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%
-
----
-
-### 2026-08-12 07:54:51  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen.
 
 ---

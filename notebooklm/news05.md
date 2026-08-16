@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:58:49_
-_本檔包含 2899 則快訊，約 601471 字_
+_更新時間：2026-08-16 16:41:38_
+_本檔包含 2894 則快訊，約 600784 字_
+
+---
+
+### 2026-08-11 02:25:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Gains by 4.05% — Top commodity gainers are Oat (4.05%), Cocoa (2.11%) and Canola (1.75%). Biggest losers are Rice (-1.34%) and Cotton (-0.69%).
+
+---
+
+### 2026-08-11 02:24:21  #MKT News
+
+Colombian president says earthquake injured 87 people and caused 61 buildings to collapse.
+
+---
+
+### 2026-08-11 02:23:56  #Trading Economics #Markets #Commodity #Importance 0
+
+Crude Oil Above $82 — Crude oil rose above $82 a barrel on Monday, extending gains for a third consecutive session and reaching its highest level in a week, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues.
+
+---
+
+### 2026-08-11 02:23:37  #MKT News
+
+Colombia's president said rescuing earthquake victims is the immediate priority; the death toll has reached 111.
+
+---
+
+### 2026-08-11 02:22:29  #MKT News
+
+Axios reported the Trump administration is drafting an executive order that would split the childhood measles, mumps and rubella vaccine into three separate shots and require them to be administered at separate medical visits.
+
+---
+
+### 2026-08-11 02:22:13  #國際
+
+市場訊息：特朗普政府正在擬定一項行政令，擬將兒童麻疹‑腮腺炎‑風疹（MMR）聯合疫苗拆分為三針，安排在不同就診時段分別接種。
+
+---
+
+### 2026-08-11 02:20:25  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
+
+Brent crude rose above $87/bbl, up 6.77% intraday.
+
+---
+
+### 2026-08-11 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 2.40% — Top commodity gainers are Silver (2.40%), Lithium Carbonate (1.23%) and Gold (0.45%). Biggest loser is Platinum (-0.55%).
+
+---
+
+### 2026-08-11 02:19:06  #MKT News #Commodities
+
+Refinitiv cited two sources saying a fuel tank at Libya's Zawiya refinery exploded; the nature and cause of the blast were unclear.
+
+---
+
+### 2026-08-11 02:18:13  #其他
+
+據兩位訊息人士透露：利比亞扎維耶煉油廠燃料罐發生爆炸，爆炸起因不明。
+
+---
+
+### 2026-08-11 02:18:11  #市場
+
+布倫特原油日內漲5%，現報87.74美元/桶。
+
+---
+
+### 2026-08-11 02:18:11  #市場
+
+WTI原油日內漲5%，現報82.09美元/桶。
+
+---
+
+### 2026-08-11 02:18:06  #MKT News
+
+【Trump administration revokes over 175,000 foreign visas】The US State Department says the Trump administration has revoked more than 175,000 foreign visas, citing criminal activity, visa violations and violent rhetoric toward US citizens. Most revocations stem from “law enforcement contact records,” including assault, DUI, theft and drug offenses. Visa cancellations have risen sharply in 2026, with monthly revocations exceeding 10,000 year-to-date. The action is described as part of an ongoing review mechanism to ensure visa holders comply and do not threaten US security; immigration lawyers warn revocations may follow minor enforcement contacts or unproven allegations. The State Department said a US visa is “a privilege, not a right.”
+
+---
+
+### 2026-08-11 02:16:12  #市場 #焦點
+
+WTI原油突破82美元/桶，日內漲4.93%。
+
+---
+
+### 2026-08-11 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rallies by 11.16% — Top commodity gainers are Natural Gas EU (11.16%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Brent Crude Oil (4.63%) and Crude Oil WTI (4.58%).
+
+---
+
+### 2026-08-11 02:09:57  #其他
+
+加拿大總理卡尼：我們正在降低加拿大鋼鐵運輸成本，讓更多加拿大鋼材能夠運往全國各地的建設專案現場，同時加強國內供應鏈。
+
+---
+
+### 2026-08-11 02:09:24  #MKT News
+
+Canada's Prime Minister Carney said the government is cutting steel transport costs to move more Canadian steel to construction sites nationwide and to strengthen domestic supply chains.
+
+---
+
+### 2026-08-11 02:06:46  #MKT News #Brent #Impact bullish
+
+Brent crude futures rose $4/bbl after Iran and the U.S. exchanged compensation demands, weakening prospects for a swift reopening of the Strait of Hormuz.
+
+---
+
+### 2026-08-11 02:06:10  #國際
+
+白宮新聞秘書萊維特：特朗普將於下午2:45簽署有關“疫苗靈活性”的行政令。
+
+---
+
+### 2026-08-11 02:05:46  #MKT News
+
+Gaza Peace Committee official says Gaza plan continues to be implemented effectively.
+
+---
+
+### 2026-08-11 02:05:27  #MKT News
+
+A Gaza Peace Committee official said the committee will not ask Israel to rely on trust or to take irreversible actions until verified, on‑the‑ground steps are taken.
 
 ---
 
@@ -17313,161 +17439,5 @@ RIA: Russia's defence ministry said Russian forces control Vasukinsk and Toretsk
 ### 2026-08-09 16:43:49  #觀點
 
 【中信建投： 目前大盤 “W型底部” 已經形成，前期擔憂明顯緩解，修復行情如期展開】中信建投釋出研報稱，覆盤經驗表明：A股整體反彈時間仍然較短，修復程度約為歷史平均水平的一半，8月有望延續修復行情。其中科技成長風格前期跌幅較大，當前修復程度仍然偏低，仍有較大修復空間。中小盤風格受益於流動性改善本輪反彈漲幅較大，但修復程序和全A基本相當。行業配置依然圍繞超跌修復和景氣改善的思路進行。重點關注AI算力（PCB/CCL、半導體裝置/材料、先進封裝等）、創新藥（CRO/CDMO）、有色金屬（工業金屬、貴金屬、戰略小金屬等）、機械裝置。
-
----
-
-### 2026-08-09 16:37:51  #國際
-
-【俄駐日大使稱日本謀核將遭反制】據俄新社今天（8月9日）報道，俄羅斯駐日本大使尼古拉·諾茲德廖夫表示，日本推翻“無核三原則”將引發地區其他國家的反應，並招致這些國家的反制。諾茲德廖夫說，日本推翻“無核三原則”將直接違背其作為無核國家加入的《不擴散核武器條約》所規定的國際義務，將導致亞太地區安全域性勢嚴重惡化，必然招致地區其他國家的反制措施。日本首相高市早苗上臺以來，其政府在核武裝問題上不斷試探，謀求修改“無核三原則”甚至擁核。日本防衛大臣小泉進次郎近來多次稱，日本應毫無禁忌地討論與核武器相關的政策，包括是否修訂二戰後長期奉行的“無核三原則”。（CCTV國際時訊）
-
----
-
-### 2026-08-09 16:36:38  #MKT News
-
-【Iran says Strait of Hormuz not reopened as route talks with Oman enter final stage】Iran foreign minister Araghchi said on the 9th that Iran and Oman are in final-stage consultations to adjust shipping lanes in the Strait of Hormuz. He stressed that even if they agree on route adjustments, that would not amount to the Strait being reopened; reopening would require meeting a series of conditions. Araghchi said the plan under discussion would replace the current lane with a new channel and that technical work is underway by experts.
-
----
-
-### 2026-08-09 16:36:32  #其他
-
-【專家：颱風“白海豚”路徑漸清晰 高度警惕做好防範】中央氣象臺首席預報員董林介紹，隨著“白海豚”逐漸靠近我國，影響颱風移動的主要天氣系統及其相互作用更加明確，颱風登陸位置的鎖定逐步收窄，登陸後的路徑逐漸清晰。中央氣象臺首席預報員王海平表示，除了登陸時的風力強度之外，颱風登陸位置、移動速度、降雨落區，以及登陸後與其他天氣系統的相互作用，都會影響最終的風雨和災害程度。從當前預報看，這次颱風的強降雨量級、影響範圍和持續時間都比較突出，需高度警惕。（新華社）
-
----
-
-### 2026-08-09 16:35:32  #Trading Economics #Markets #United Kingdom #Earnings #Importance 0
-
-Diageo earnings above expectations at 0.70 GBP — Diageo (DGE) released earnings per share at 0.70 GBP, compared to market expectations of 0.64 GBP.
-
----
-
-### 2026-08-09 16:35:32  #Trading Economics #Markets #Germany #Earnings #Importance 0
-
-Rheinmetall earnings below expectations at 5.10 EUR — Rheinmetall (RHM) released earnings per share at 5.10 EUR, compared to market expectations of 6.46 EUR.
-
----
-
-### 2026-08-09 16:35:30  #Trading Economics #Markets #Canada #Earnings #Importance 0
-
-Canadian Natural Resources earnings above expectations at 2.15 CAD — Canadian Natural Resources (CNQ) released earnings per share at 2.15 CAD, compared to market expectations of 1.94 CAD.
-
----
-
-### 2026-08-09 16:34:36  #其他
-
-葉門政府：胡塞武裝襲擊政府軍控制下的摩卡港。
-
----
-
-### 2026-08-09 16:32:40  #焦點 #國際
-
-【伊朗外長強調霍爾木茲海峽未重新開放】當地時間9日，伊朗外長阿拉格齊表示，伊朗正與阿曼就調整霍爾木茲海峽航道進行磋商，目前已進入最後階段。他同時強調，即使雙方就航道調整達成協議，也不意味著霍爾木茲海峽重新開放，海峽重新開放仍需滿足一系列條件。阿拉格齊稱，目前，雙方討論以新航道取代原有航道，相關專家正在開展技術工作。（央視新聞）
-
----
-
-### 2026-08-09 16:30:33  #國際
-
-伊朗外長阿拉格齊：談判代表正努力創造一個良好的談判環境。
-
----
-
-### 2026-08-09 16:26:49  #國際
-
-伊朗外長阿拉格齊：我們正與阿曼就霍爾木茲海峽新航道的劃定進行談判，目前正處於最後階段。舊航線將被新航線取代。相關專家正在對各條航線開展工作。當然，這並不意味著霍爾木茲海峽將被開啟。這一協議有可能達成，但海峽是否開放仍然取決於多個條件。
-
----
-
-### 2026-08-09 16:26:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's foreign minister Araghchi said some mediating countries are still trying to create conditions for renegotiation, and that, in his view, talks cannot resume until the US ends and remedies its violations of the Islamabad memorandum.
-
----
-
-### 2026-08-09 16:25:23  #公司
-
-【映翰通：擬以2000萬元-3000萬元回購公司股份】映翰通公告，擬以自有資金不低於2000萬元（含）、不超過3000萬元（含）回購公司股份，回購價格不超過56元/股（含），所回購股份將用於登出並相應減少註冊資本。回購期限為自股東會審議透過之日起6個月。本次回購方案尚需提交公司股東會審議。
-
----
-
-### 2026-08-09 16:22:01  #國際
-
-【伊朗外長再重申目前未與美國談判】伊朗外長阿拉格齊今天（8月9日）表示，目前伊朗與美國之間沒有進行任何談判，但斡旋方仍在努力尋找恢復談判的途徑。伊朗認為，在美國就此前違反相關承諾的行為作出彌補之前，不具備重新啟動談判的條件。 (CCTV國際時訊)
-
----
-
-### 2026-08-09 16:16:19  #MKT News #WTI #Impact bullish #Brent
-
-Iranian foreign minister Araghchi said Iran will not negotiate so long as the United States breaches the interim agreement.
-
----
-
-### 2026-08-09 16:16:16  #其他
-
-【加拿大不列顛哥倫比亞省進入緊急狀態】加拿大不列顛哥倫比亞省政府8月8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的山火災情。不列顛哥倫比亞省省長戴維·伊比在新聞釋出會上表示，目前狀況非常危險，火勢蔓延迅速且隨時發生變化。政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中疏散受困民眾。（CCTV國際時訊）
-
----
-
-### 2026-08-09 16:15:01  #國際
-
-伊朗外長阿拉格齊表示，只要美國繼續違反臨時協議，就不會進行談判。
-
----
-
-### 2026-08-09 16:14:19  #MKT News #WTI #Impact bullish #Brent
-
-Mehr News Agency reported Iran is not negotiating with the United States and is only exchanging information through intermediaries.
-
----
-
-### 2026-08-09 16:14:07  #國際
-
-市場訊息：伊朗外長阿拉格齊表示，伊美之間沒有談判，僅透過中間人互傳資訊。
-
----
-
-### 2026-08-09 16:11:51  #其他
-
-【蘋果回應刪除接入千問手冊：沒收到通知，中國大陸還沒推出“Apple智慧使用千問”功能】針對刪除《在 Mac 上配合 Apple 智慧使用千問》使用文件一事，蘋果客服最新回應新浪科技稱：“我們有功能或新專案釋出時，都會提前收到通知，目前並沒有收到相關通知，中國大陸還沒推出‘Apple智慧使用千問’相關功能。”昨日，一篇名為《在 Mac 上配合 Apple 智慧使用千問》的支援文件現身蘋果官網 Mac 簡體中文使用手冊，明確提到 Apple 智慧可配合阿里巴巴千問模型工作。但該文釋出不到24小時後被蘋果方面刪除。今年7月15日，阿里巴巴方面曾回應稱，千問將作為 AI 能力整合至 Apple 智慧，覆蓋 iOS、iPadOS、macOS 及 visionOS 的中國使用者。（新浪科技）
-
----
-
-### 2026-08-09 16:11:12  #其他
-
-市場訊息：聯合航空UA3926航班飛往紐瓦克時突遇緊急情況並返回洛杉磯。
-
----
-
-### 2026-08-09 16:08:55  #其他
-
-【浙江推進醫療器械臨床創新成果轉化】近日，省藥品監管局等3部門印發《浙江省推進醫療器械臨床創新成果轉化“春雨行動”實施方案》，提出建立健全“徵集篩選—對接匹配—輔導培育—轉化落地—臨床應用”全鏈條工作機制，構建“臨床創意源頭供給—醫工協同技術攻關—三醫聯動培育賦能”的創新生態，力爭在三年內，推動一批具有顯著臨床應用價值的醫工融合產品上市，進一步提升浙江醫療器械創新能力，更好滿足人民群眾健康需求。（浙江釋出）
-
----
-
-### 2026-08-09 16:03:34  #其他
-
-【暑期大學生扎堆當景區 NPC 一大批新型暑期兼職火了】隨著文旅市場的持續升溫和人工智慧行業的興起，景區裡與遊客互動的NPC非玩家角色扮演、資料採集等工作受到不少暑期工的青睞。 大學生演員正成為暑期文旅市場的一股新鮮力量。許多遊客正是衝著與這些“高顏值、高互動性”的NPC打卡合影而來，拉動了客流，也為景區帶來了可觀的復購率。南京海底世界負責人表示：“今年暑期招了十幾個NPC在館內互動，暑假正好是客流高峰，我們推出這樣特色的活動，正好和大學生放假時間匹配上，也正好給他們提供一個平臺，對於雙方來說是互惠互利。” 除了景區的NPC崗位，隨著人工智慧、具身機器人等行業的興起，資料採集、模型驗證等基礎實操崗位需求快速增長，因為操作流程標準化，在校學生也能夠快速熟悉業務投入實踐。 景區NPC角色扮演、人工智慧資料採集等這些新興崗位為暑期工提供了更多選擇，不過，人社部門也提醒，學生群體社會經驗不足，易遭遇虛假招聘、權益無保障等風險，要注意提高自身勞動權益保護意識。 （央視財經）
-
----
-
-### 2026-08-09 16:02:13  #國際
-
-【俄羅斯外交部發言人：按照高市早苗的發言，向廣島和長崎投放原子彈的可能是外星人】俄羅斯外交部發言人扎哈羅娃發文表示，日本首相高市早苗在長崎悲劇週年紀念日之際，並未提及究竟是誰投下了原子彈。“81年前，長崎市被一枚原子彈徹底摧毀，”她在悼念儀式上表示。她附言道：換言之，按照日本現任領導層的觀點，落在廣島和長崎的的原子彈難道是外星人投放的嗎？
-
----
-
-### 2026-08-09 15:59:55  #MKT News
-
-WHO director-general Tedros said a WHO humanitarian warehouse in Dnipro, Ukraine was attacked and destroyed last Friday; no casualties have been reported.
-
----
-
-### 2026-08-09 15:59:11  #Trading Economics #Markets #Egypt #Stock Market #Importance 0
-
-Stocks in Egypt Hit All-time High — EGX 30 increased to an all-time high of 55005.00 Index Points. Over the past 4 weeks, Egyptian Exchange Index gained 5.24%, and in the last 12 months, it increased 52.29%.
-
----
-
-### 2026-08-09 15:59:03  #國際
-
-世衛組織幹事譚德塞發言：上週五，世界衛生組織位於烏克蘭第聶伯羅的人道主義倉庫遭擊中被毀；目前尚無人員傷亡報告。
 
 ---

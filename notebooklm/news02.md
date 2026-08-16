@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:58:49_
-_本檔包含 3158 則快訊，約 601357 字_
+_更新時間：2026-08-16 16:41:38_
+_本檔包含 3159 則快訊，約 601215 字_
+
+---
+
+### 2026-08-14 12:15:12  #Trading Economics #Economy #Malaysia #Foreign Direct Investment #Importance 1
+
+Malaysia Q2 FDI Inflows Fall to One-Year Low — Malaysia’s foreign direct investment (FDI) inflows dropped sharply to MYR 7.4 billion in Q2 2026 from MYR 22.8 billion in the previous quarter, marking the lowest level since Q2 2025. The sharp quarterly drop suggested that Malaysia’s FDI performance remained vulnerable to a more cautious global investment environment. By sector, FDI was mainly channelled into services, particularly the information & communication subsector, while manufacturing and construction were the next-largest recipients. Investment was led by China, Hong Kong and Singapore.
+
+---
+
+### 2026-08-14 12:14:45  #其他
+
+【湖南漣源市楊梅山煤礦發生一起瓦斯突出事故 7人失聯】2026年8月14日5時08分，湖南漣源市楊梅山煤礦發生一起瓦斯突出事故。初步查明，當班入井作業人員52人，安全出井44人，失聯7人，1人正在搶救。目前，市縣兩級已組織應急、衛健等相關部門現場開展應急救援處置工作，事故原因正在進一步調查。
+
+---
+
+### 2026-08-14 12:14:33  #市場 #國際
+
+印度盧比兌美元最新報95.40，較前收盤價95.44微幅走強。
+
+---
+
+### 2026-08-14 12:14:29  #央行 #國際
+
+交易員稱，印度央行可能賣出美元以支撐盧比。
+
+---
+
+### 2026-08-14 12:13:16  #MKT News
+
+According to the Financial Times, the head of U.S. asset manager T Rowe Price said reversing large fund outflows will take "several years", as competition from passive investing continues to put downward pressure on fees for active managers.
+
+---
+
+### 2026-08-14 12:12:31  #其他
+
+【淮河防總、淮委針對河南省淮北支流沙潁河、洪汝河水系提升防汛應急響應至二級】目前沙潁河、洪汝河部分河段超警、超保執行，預計高水位行洪仍將維持較長時間，堤防防守壓力大。根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委定於8月14日10時將河南省淮北支流沙潁河、洪汝河水系的防汛應急響應提升至二級、洪水防禦應急響應提升至Ⅱ級。
+
+---
+
+### 2026-08-14 12:11:51  #國際
+
+印尼總統：我決心以高效、改進的方式繼續推行免費餐食計劃。
+
+---
+
+### 2026-08-14 12:11:12  #公司
+
+【原山東鋼鐵集團房地產有限公司董事長王文學接受紀律審查和監察調查】8月14日，莒縣紀委監委通報，原山東鋼鐵集團房地產有限公司黨委書記、董事長、總經理王文學涉嫌嚴重違紀違法，目前正接受山東鋼鐵集團有限公司紀委紀律審查和莒縣監察委員會監察調查。
+
+---
+
+### 2026-08-14 12:10:56  #其他
+
+西聯匯款與INTERMEX將與加州金融保護與創新部接洽，尋求恢復批准。
+
+---
+
+### 2026-08-14 12:10:31  #公司 #國際
+
+【特朗普要五角大樓重振美國艦船工業 】美國白宮網站13日釋出訊息說，總統特朗普當天簽署一份國家安全總統備忘錄，指示國防部重振艦船工業，解決艦船製造和維護方面的長期問題，並恢復產能和競爭力。備忘錄要求國防部以“芬蘭模式”為基礎，對美國造船業的工業基礎加大直接投資。白宮表示，“芬蘭模式”首先被美國海岸警衛隊的中型破冰船專案所採用。根據這一模式，如外國造船商對美國造船廠進行大量持久的投資，且由此創造工作崗位並培訓美國勞動力，那麼這些外國造船商將被暫時允許在其位於美國境外的母公司為美方建造最多兩艘船。這些船將被快速交付以填補空缺，而美國防部訂單中的其他船隻將在“恢復活力”後的美國造船廠建造。備忘錄還指示國防部建立第五座海軍造船廠，以提升潛艇和航空母艦的維修能力。這將是美國80多年來第一次新建海軍造船廠。備忘錄還要求建立一個部件維修中心，以儲存和翻新關鍵的潛艇部件。
+
+---
+
+### 2026-08-14 12:09:53  #公司 #市場 #國際
+
+【京東擴大跌幅至逾10% 此前錄得上市以來首次季度營收下滑】京東周五在香港一度擴大跌幅至逾10%，股價重新整理一個月以來的低點。公司週四釋出的財報顯示第二季度營收下降2.9%，是京東自2014年在美國上市以來首次出現季度營收下滑。截至午間收盤，京東港股(9618 HK)下挫10.08%，報110.60港元；香港恒生指數跌0.9%。
+
+---
+
+### 2026-08-14 12:09:11  #MKT News
+
+Bank Negara Malaysia said El Niño effects typically lag and it expects to see greater impact next year.
+
+---
+
+### 2026-08-14 12:09:03  #MKT News #Market Regions #Emerging Markets
+
+Bank Negara Malaysia said El Niño impacts are typically lagged and it expects more pronounced effects next year.
+
+---
+
+### 2026-08-14 12:08:13  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hang Seng Falls to 3-Week Low — The Hang Seng Index fell about 0.9% to 25,160 on Friday, marking its fourth consecutive session of losses and hitting its lowest level since July 24, as technology stocks remained under pressure and investors stayed cautious amid lingering geopolitical uncertainty. Meituan fell 1.4%, while Alibaba and Tencent dropped 1.1% and 2.9%, respectively. Lenovo retreated 4.2% after reaching an all-time high in the previous session. In the broader market, JD.com plunged 6.5% at the open after the e-commerce giant reported a decline in interim profit, making it the worst-performing blue-chip stock, adding to pressure on tech sector. On the upside, Semiconductor Manufacturing rose 4.7% after reporting a sharp increase in second-quarter profit, making it the strongest-performing Hang Seng constituent at the open, while Shanghai Iluvatar rose 3.6%. On the data front, Hong Kong’s annual GDP growth rate for Q2 is due later today, with expectations of 4.3%, easing from 5.9% in the prior quarter.
+
+---
+
+### 2026-08-14 12:07:37  #央行 #國際
+
+馬來西亞央行：厄爾尼諾現象的影響通常存在滯後性，預計其影響明年會進一步顯現。
+
+---
+
+### 2026-08-14 12:07:27  #公司 #市場
+
+【港股午評：恒生指數跌0.93%，恒生科技指數跌1.79%】港股午間收盤，恒生指數跌0.93%，恒生科技指數跌1.79%。恒指港股通ETF銀華（159318）跌0.76%，港股通科技ETF鵬華（159751）跌1.21%。板塊方面，冶鋼原料、航空貨運板塊漲幅靠前；人力資源服務、藥店板塊跌幅靠前。個股方面，中國黃金國際漲12.93%，萬國資料-SW漲12.69%，邁富時漲11.42%，布魯可漲9.3%，納芯微漲8.66%；京東物流跌12.91%，龍旗科技跌12.57%，華虹宏力跌12.3%，京東集團-SWR跌10.29%，京東集團-SW跌10.08%。
+
+---
+
+### 2026-08-14 12:07:24  #國際
+
+【受日元干預擔憂影響 外國投資者連續第二週淨賣出日股】在截至8月8日止的一週，外國投資者連續第二週拋售日本股票，因市場預期當局將進一步採取支撐日元的措施，這削弱了投資人對日本股市的買盤意願。日本財務省資料顯示，該周外國投資者淨賣出價值3,685億日元（合23.1億美元）的日本股票，此前一週為淨賣出3,925億日元。上週，日本財務省表示，美國與日本已協同進行買入日元的干預行動，並將毫不猶豫地採取進一步措施。在干預行動後，日元上週一度觸及155.21日元兌1美元的近三個月高點。最新交易價為159.43日元兌1美元。日元升值會提高外國投資人所持日本資產的美元價值，但同時也會降低他們以美元購買新股的購買力。
 
 ---
 
@@ -18921,103 +19023,5 @@ China A-share meat-products sector jumped ahead of midday trade; Delis hit the d
 ### 2026-08-13 10:44:14  #宏觀
 
 【我國新一輪空氣質量持續改善行動方案正在制定】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，我國大氣汙染治理成績喜人，但目前還不能有鬆口氣、歇歇腳的想法，仍要保持耐心和定力。目前，新一輪空氣質量持續改善行動方案正在抓緊制定，藍天保衛戰將重點在“更高、更準、更科學”上下功夫。標準要求更高。以PM2.5治理為主線，以新修訂的《環境空氣質量標準》為引領，按照《美麗中國建設“十五五”規劃》提出的空氣質量改善目標，收嚴PM2.5濃度限值，並同步加嚴其他汙染物的濃度限值，推動環境空氣質量從明顯變好邁向好上加好、好而持久。分割槽施策會更準。主要抓三大區域，對於京津冀及周邊、長三角和汾渭平原等重點區域，保持方向不變、力度不減；將長江中游城市群、川渝地區、新疆“烏—昌—石”區域作為強化區域，對標重點區域全面提升治理效能；將粵港澳大灣區、福建、海南作為先行區域，對標世界一流水平，探索低濃度條件下的改善路徑。透過分割槽分類、梯次推進，實現空氣質量全域提升。路徑措施更加科學。堅持結構轉型和汙染減排“兩手抓”，持續推動產業、能源、交通運輸結構最佳化調整，加強重點行業、領域、環節治理減排，謀劃開展一批重點行動、實施一批重大工程，推動汙染物排放持續下降。同時，還將加強支撐保障，制修訂相關汙染排放標準，創新財稅、價格、金融、環保等差異化管理政策，加快推進監測數智化轉型和非現場執法“兩場變革”，提升精細、高效、智慧監管水平，推動空氣質量持續改善。
-
----
-
-### 2026-08-13 10:43:43  #國際
-
-伊朗外長阿拉格齊：像法國這樣的國家應該停止向世界說教“人權”和國際法。這種虛偽是顯而易見的，也令人尷尬。 你們對以色列在加沙的種族滅絕——以及對伊朗的侵略——的支援，已經摧毀了你們自以為擁有的任何道德制高點。
-
----
-
-### 2026-08-13 10:41:12  #MKT News #09688.HK #Impact bullish #02157.HK #01093.HK
-
-Hong Kong innovative-drug stocks strengthened: 09688.HK rose more than 5%, 02157.HK climbed over 4%, and 09926.HK and CSPC PHARMA (01093.HK) also gained.
-
----
-
-### 2026-08-13 10:40:03  #市場
-
-【主力資金：天孚通訊淨買入超14億】截至目前，今日主力資金淨流入14.65億；淨流入TMT、百元股、高價股等板塊，其中TMT板塊淨流入153.14億；淨流出小金屬、有色金屬概念、有色金屬等板塊，其中小金屬板塊淨流出84.79億。
-  
-個股方面，天孚通訊淨買入14.52億元位居首位，新易盛、中際旭創、利通電子主力資金淨流入居前；風華高科淨賣出7.78億元位居首位，紫金礦業、勝宏科技、永鼎股份淨流出額居前。
-
----
-
-### 2026-08-13 10:39:19  #宏觀
-
-【“十五五”時期 應對氣候變化將聚焦“五個重點”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期是實現碳達峰的決勝期，也是落實2035年國家自主貢獻的關鍵期。生態環境部將聚焦“五個重點”，統籌推進應對氣候變化工作。一是持續推動重點領域綠色低碳轉型。二是加快推進全國碳市場建設。三是完善碳排放統計核算體系。四是全面提升氣候韌性。五是積極推動應對氣候變化國際合作。（央視新聞）
-
----
-
-### 2026-08-13 10:39:00  #公司
-
-【索通發展在內蒙古成立碳素製品公司】企查查APP顯示，近日，內蒙古索通星途碳素製品有限公司成立，法定代表人為唐浩，經營範圍包含石墨及碳素製品製造；石墨及碳素製品銷售；熱力生產和供應；發電業務、輸電業務、供（配）電業務等。企查查股權穿透顯示，該公司由索通發展全資持股。
-
----
-
-### 2026-08-13 10:38:55  #市場
-
-【CRO概念持續走高 南模生物20cm漲停】CRO概念盤中持續走高，南模生物20cm漲停，此前博濟醫藥20cm漲停，萬邦醫藥漲18%，近岸蛋白、皓元醫藥、睿智醫藥、奧浦邁、百奧賽圖漲幅靠前。
-
----
-
-### 2026-08-13 10:38:02  #公司 #國際
-
-【美國ITC終止對Reebok、華米等企業智慧可穿戴裝置、系統及其元件337調查】據中國貿易救濟資訊網， 8月12日，美國國際貿易委員會（ITC）釋出公告稱，對特定智慧可穿戴裝置、系統及其元件作出337部分終裁：對本案行政法官於2026年7月9日、10日作出的初裁不予複審，即基於雙方和解，終止對Reebok、RILUK IPCO、The Original Fit Factory、Truconnect、Zepp Health、安徽華米資訊科技有限公司、Zepp及Zepp North America的調查。
-
----
-
-### 2026-08-13 10:37:37  #公司
-
-【潤邦股份：GENMA再獲多個國內外服務訂單】據潤邦股份訊息，近期，GENMA再次獲得來自國內外多個客戶的服務委託，涵蓋軌道修整、日常維保、電氣房整體改造、整機翻新以及裝置檢驗等多個領域。
-
----
-
-### 2026-08-13 10:36:39  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell below $65/oz, down 0.49% intraday.
-
----
-
-### 2026-08-13 10:36:28  #公司
-
-【聚燦光電申請光互聯領域專利】聚燦光電在光互連領域佈局持續推進。近日，聚燦光電科技（宿遷）有限公司“一種用於光通訊領域的Micro LED外延結構”專利進入國家智慧財產權局審中公佈階段，顯示申請日期為6月22日。
-
----
-
-### 2026-08-13 10:35:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Eases Ahead of PPI Data — The yield on the 10-year US Treasury note eased to around 4.68% on Thursday as investors looked ahead to July’s producer inflation report for further clues on recent price trends. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Meanwhile, the government sold 10-year notes at a yield of 4.683%, the most since the global financial crisis. Inflation above the Federal Reserve’s target and widening budget deficits have contributed to elevated long-term yields, with investors demanding greater compensation to finance the US government.
-
----
-
-### 2026-08-13 10:34:32  #公司 #市場 #國際 #原創
-
-【韓國股市10天內上漲約23% 晶片股重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，韓國基準Kospi指數一度上漲4.8%，自7月30日低點以來的累計漲幅約23%。晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均漲超5%。今年迄今，受散戶資金推動，韓國Kospi指數已上漲逾60%，但較6月底的高點仍下跌約24%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。上個月的市場動盪導致交易暫停次數創下紀錄新高，韓國Kospi指數日內波幅超過5%的情況屢見不鮮。隨著波動率指標降至4月以來的最低水平，市場開始恢復冷靜。
-
----
-
-### 2026-08-13 10:34:12  #國際
-
-【機構：馬來西亞第二季度經濟可能增長5.9%】豐隆投行經濟學家Felicia Ling和Chong Lih Herng在一份報告中表示，馬來西亞第二季度經濟可能增長了5.9%，略高於5.8%的初步估計。他們表示，預計製造業和採礦業的產出，以及服務業和建築業的擴張，對經濟增長構成了支撐。他們補充說，製造業的勢頭是由強勁的電子產品生產和全球半導體需求推動的，而採礦業的增長則受到天然氣產出的支撐。豐隆預計，由於高基數效應，到下半年底經濟增長將放緩，儘管對電子產品的強勁外部需求和有韌性的國內需求應會繼續支撐馬來西亞經濟。
-
----
-
-### 2026-08-13 10:33:13  #MKT News #Important
-
-【16 countries to attend 2nd World Humanoid Robot Games; teams +138% YoY】The 2nd World Humanoid Robot Games will open on Aug. 22 at Beijing’s National Speed Skating Oval Ice Ribbon, hosted by the Beijing municipal government and China Media Group. The event attracted 666 teams from 16 countries across six continents with 2,056 robots, a 138% increase in teams and roughly a fourfold rise in robots YoY. International entrants include teams from the United States, Germany and Japan; Brazil fielded a national combined squad drawn from five robot-football World Cup champion teams. Domestic participation comprises 157 companies, 641 teams and 1,975 robots, including nearly all first‑tier robotics firms and 27 '985' universities covering 30 provinces, municipalities and SARs. Competition categories expanded from 26 to 51 events.
-
----
-
-### 2026-08-13 10:32:50  #MKT News
-
-Australian Mining and Energy Union says the new agreement resolves accident-compensation issues and includes other improvements sought by members.
-
----
-
-### 2026-08-13 10:32:37  #MKT News #BTU.O
-
-The Australian Mining and Energy Union said 19 workers at the Wybong joint coal wash plant have reached an agreement with Peabody that delivers an overall pay increase of about 4%.
 
 ---
