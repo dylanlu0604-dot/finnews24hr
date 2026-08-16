@@ -1,7 +1,167 @@
 {
   "date": "2026-08-17",
-  "count": 240,
+  "count": 254,
   "items": [
+    {
+      "id": "mkt:01a00cfd-9f04-7aab-9051-b7b9979c7f71",
+      "time": "2026-08-17 07:52:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 GDP deflator preliminary YoY 2.6%, versus 3.2% previously."
+    },
+    {
+      "id": "mkt:01a00cfd-7ab7-7aab-9051-af906618df8e",
+      "time": "2026-08-17 07:52:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Preliminary Annual GDP Deflator (Q2) | actual 2.6% | previous 3.20%"
+    },
+    {
+      "id": "mkt:01a00cfc-7922-7aab-9051-a438f0529783",
+      "time": "2026-08-17 07:51:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan Q2 preliminary nominal GDP +1.2% QoQ; prior +0.60%."
+    },
+    {
+      "id": "mkt:01a00cfc-553f-7aab-9051-9cb1bf90ad53",
+      "time": "2026-08-17 07:50:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Preliminary Quarterly Nominal GDP (Q2) | actual 1.2% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a00cfc-220c-7aab-9051-932474441ca9",
+      "time": "2026-08-17 07:50:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Weekend ship transits through the Strait of Hormuz fall sharply】KPLER data show transits through the Strait of Hormuz fell sharply over the weekend after tanker attacks and stalled US-Iran talks. Five commodity vessels transited on Saturday and none on Sunday, down from 31 the previous weekend."
+    },
+    {
+      "id": "5043056",
+      "time": "2026-08-17 07:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本二季度淨出口對環比GDP貢獻為正0.5個百分點；預估0.3個。"
+    },
+    {
+      "id": "5043055",
+      "time": "2026-08-17 07:50:30",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本第二季度GDP摺合年率增長1.1%，預估為2.0%。日本第二季度名義GDP環比增長1.2%，預估為1.2%。日本第二季度GDP環比增長0.3%，預估為0.5%。"
+    },
+    {
+      "id": "mkt:01a00cfb-bfae-7aab-9051-8ad3a525337e",
+      "time": "2026-08-17 07:50:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan Q2 private consumption preliminary QoQ 0.0% vs 0.5% expected; prior figure revised to 0.5% from 0.3%."
+    },
+    {
+      "id": "mkt:01a00cfb-a14a-7aab-9051-86f6db07b08a",
+      "time": "2026-08-17 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan Q2 GDP: business spending (prelim) q/q -1.2% vs +0.4% expected; prior revised to -1.0% from -0.7%."
+    },
+    {
+      "id": "mkt:01a00cfb-9da2-7aab-9051-78d22610331b",
+      "time": "2026-08-17 07:50:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 real GDP preliminary q/q +0.3% vs +0.5% expected; prior +0.5%."
+    },
+    {
+      "id": "mkt:01a00cfb-9d98-7aab-9051-7652fce17eb5",
+      "time": "2026-08-17 07:50:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan Q2 real GDP preliminary annualized QoQ 1.1% vs expected 2.0%; Q1 revised up to 1.9% from 1.8%."
+    },
+    {
+      "id": "mkt:01a00cfb-7192-7aab-9051-6c7aa873c338",
+      "time": "2026-08-17 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Preliminary Annualized Real GDP q/q (Q2) | actual 1.1% | consensus 2% | previous 1.80%"
+    },
+    {
+      "id": "mkt:01a00cfb-718f-7aab-9051-6778b4e78480",
+      "time": "2026-08-17 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Real GDP Growth (QoQ) (Q2) | actual 0.3% | consensus 0.50% | previous 0.50%"
+    },
+    {
+      "id": "5043054",
+      "time": "2026-08-17 07:49:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，受油輪遇襲事件影響，加之美伊和平談判未能取得進展，霍爾木茲海峽週六、週日船舶通行放緩。航運資料機構克普勒的船舶追蹤資料顯示，週六僅有 5 艘貨船穿越海峽，週日未監測到任何通行船舶；而上週末同期通航量為 31 艘。"
+    },
     {
       "id": "5043053",
       "time": "2026-08-17 07:48:30",
