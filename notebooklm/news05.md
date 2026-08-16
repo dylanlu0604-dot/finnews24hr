@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:55:04_
-_本檔包含 2934 則快訊，約 600799 字_
+_更新時間：2026-08-17 05:29:33_
+_本檔包含 2932 則快訊，約 600743 字_
+
+---
+
+### 2026-08-11 08:29:35  #觀點
+
+【中信證券：北交所流動性走勢有望在政策催化下迎來拐點】中信證券研報稱，在北交所政策持續最佳化的背景下，資本運作活躍，再融資簡易程式直擊創新型中小企業“融資難、融資慢”痛點。並且北交所流動性觸底回升，中信證券認為當前北交所指數流動性處於較低位置，有可能處於估值底、情緒底。展望未來，流動性走勢有望在政策催化下迎來拐點：政策端持續最佳化流動性預期，北證50指數基金規模上限提高及北證50ETF的預期落地；在機構資金潛在增量及基本面紮實的標的被錯殺的背景下，當前市場已具備較高的估值安全邊際，為投資者提供了潛在的佈局良機；2026年年初以來北交所外延併購也符合當前A股外延併購的整體態勢，從“規模擴張”到“價值整合”，建議關注北交所外延併購帶來的投資機會，重點關注“硬科技產業鏈整合”與“傳統龍頭轉型升級”。
+
+---
+
+### 2026-08-11 08:29:10  #其他
+
+【昨日ETF資金整體淨流出143.57億元】據同花順iFinD資料顯示，2026年8月10日，ETF資金整體淨流出143.57億元，股票型淨流出116.49億元，寬基型淨流出90.47億元。當日ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出28.89億元，南方中證500ETF（510500）淨流出16.49億元，華寶添益（511990）淨流出16.44億元。
+
+---
+
+### 2026-08-11 08:27:27  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加3.42噸】截至2026年08月10日，全球最大的黃金ETF SPDR Gold Trust持倉量為1020.96噸，較前一個交易日增加3.42噸。
+
+---
+
+### 2026-08-11 08:27:08  #其他
+
+【機構：需求弱修復疊加供給高企，8月電視面板價格或延續下行態勢】8月11日，CINNO Research最新報告指出，進入8月，全球LCD TV面板採購需求受年底大促備貨、以價換量策略雙重拉動呈現邊際回暖，但修復力度整體有限。由於頭部面板廠持續維持高稼動生產，行業供需格局仍處寬鬆區間，面板價格整體延續小幅回落態勢，尺寸結構性分化特徵持續顯現。後市方面，9月面板價格或延續下行慣性，但跌幅有望邊際收斂，核心支撐來自10月面板廠休假減產預期的提前計價與情緒託底，行情亦存在階段性止跌可能；10月價格存企穩機率，整體走勢仍存不確定性。
+
+---
+
+### 2026-08-11 08:26:35  #其他
+
+【世界最大沖擊式水電機組順利完成轉子吊裝】今天（11日），世界最大沖擊式水電機組在大唐扎拉水電站順利完成轉子吊裝，標誌著我國超高水頭、大容量衝擊式水電裝備核心技術躋身世界領先行列，有力助推藏東南清潔能源基地建設。大唐扎拉水電站是國家“藏電外送”骨幹工程，裝機兩臺500兆瓦衝擊式機組，為全球同型別單機容量最大裝置。作為我國能源領域首臺（套）重大技術裝備，具有高海拔、高水頭、大容量等技術優勢。本次吊裝的轉子，是發電機組實現能量轉換的“動力心臟”。轉子約840噸，相當於560輛家用小轎車的總重。它的成功安裝，標誌著專案已進入投產前的最後衝刺階段。電站全面投產後，每年可發出近40億度清潔綠電，可節約標準煤130萬噸，減少二氧化碳排放342萬噸。
+
+---
+
+### 2026-08-11 08:25:25  #市場
+
+SK海力士股價下跌2.6%。
+
+---
+
+### 2026-08-11 08:25:04  #國際
+
+【美參議院將表決時程推至9月 加密貨幣法案進度恐因中期選舉卡關】美國加密貨幣行業原本寄望推動具有劃時代意義的數字資產立法，但這專案標實現的可能性正逐漸下降，儘管參議院共和黨人承諾在國會議員下月重返國會山莊後推進法案。對加密貨幣行業而言，參議院週六在沒有就備受期待的清晰法案（Clarity Act）進行表決的情況下就離開華盛頓，展開為期五週的8月休會期，無疑是一大打擊。財力雄厚的加密貨幣業已投入數億美元進行遊說，以推動法案過關，認為法案將為加密企業奠定堅實的法律基礎。不過，民主黨人、部分共和黨人及其他批評者認為，法案在防制洗錢及道德規範方面的保障不足。法案的推進需要透過60票門檻，但部分關鍵民主黨議員持續反對，加上參議院還有其他議程陷入僵局，共和黨籍參議院多數黨領袖圖恩(John Thune)週六推動一項程式性表決，最快可能於9月啟動法案送交參院全院審議的程式。然而，許多分析師與遊說人士對法案前景持懷疑態度，因為11月的中期選舉將分散議員們的注意力，而參議院會期也將因選舉而縮短，在議程繁忙的情況下，留給議員解決分歧的時間所剩無幾。
+
+---
+
+### 2026-08-11 08:23:49  #市場 #焦點
+
+現貨黃金突破4410美元/盎司，日內漲0.47%。
+
+---
+
+### 2026-08-11 08:23:47  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【CSC Financial: Yushu IPO priced above expectations, positive for robotics sector】CSC Financial said Yushu’s IPO priced at 150.80 yuan/share, implying an issuance market value of about 61.0 bln yuan — above prior expectations and likely to trigger valuation repricing among robotics hardware makers. Domestic suppliers are accelerating multi-dimensional capability builds ("brain", "cerebellum", "body") and expanding industrial and commercial deployments; shipment volumes are rising and broader application scenarios should follow as robots generalize. The firm calls physical AI the next AI wave and identifies robots as a primary physical carrier. Catalysts to watch: Optimus V3 release and mass-production progress, new domestic robot product launches, further robotics IPOs and application rollouts. Recommends focusing on high-quality segments of the value chain.
 
 ---
 
@@ -17649,71 +17703,5 @@ President Trump said Will Schaff will replace David Wellington as Assistant to t
 ### 2026-08-10 05:29:36  #國際
 
 特朗普：沃靈頓將轉赴私營部門任職。
-
----
-
-### 2026-08-10 05:28:26  #國際
-
-特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。
-
----
-
-### 2026-08-10 05:26:37  #MKT News #WTI #Impact bullish #Brent
-
-A vessel caught fire near Kumzar on Oman's Musandam Peninsula at the entrance to the Strait of Hormuz.
-
----
-
-### 2026-08-10 05:25:41  #MKT News #Macro & Rates #DXY #Impact bearish
-
-【Analyst: RBA likely to hold at 4.35% with hawkish bias; watch persistent inflation】Economists and traders expect the Reserve Bank of Australia to keep the cash rate at 4.35% at Tuesday’s meeting — a second consecutive hold — while reiterating readiness to tighten further to combat persistent inflation. Markets will focus on the policy statement and updated quarterly forecasts for signals on whether the RBA has finished hiking after 75bp of moves this year or intends further tightening. Carl Ang, fixed income research at MFS Investment Management, says a hawkish pause is the base case but slow disinflation means additional tightening cannot be ruled out. Economists broadly expect an extended pause through the remainder of this year and most of next; Commonwealth Bank’s Belinda Allen expects the RBA to bring forward the forecast for inflation falling below 3% and to lift its unemployment projection.
-
----
-
-### 2026-08-10 05:19:58  #其他
-
-市場資訊：一艘船隻在霍爾木茲海峽入口處、阿曼穆桑代姆半島昆扎爾附近海域起火。
-
----
-
-### 2026-08-10 05:19:13  #國際
-
-特朗普：長達51年的劣行。
-
----
-
-### 2026-08-10 05:11:01  #MKT News
-
-Lebanese sources say there are currently no plans for a new round of Lebanon-Israel talks next month; talks may resume after the summer.
-
----
-
-### 2026-08-10 05:10:12  #公司
-
-【強腦科技韓璧丞出席香港特首顧問團會議，向特首李家超建言】2025年6月，香港特別行政區政府宣佈新一屆特首顧問團成員名單，腦機介面領域專家、強腦科技創始人兼CEO韓璧丞獲委任為"創新與創業"領域顧問。2026年7月28日至30日，行政長官李家超一連三日與特首顧問團舉行工作午餐，聽取顧問團成員就香港第一個五年規劃、2026年施政報告及香港整體發展的意見。
-
----
-
-### 2026-08-10 05:03:46  #國際
-
-埃及在解決相關技術問題後，或將加入土耳其‑巴基斯坦‑沙烏地阿拉伯防務協議。埃及的加入將把該機制拓展為覆蓋海灣地區、紅海、蘇伊士運河以及東地中海的更為廣泛的地區安全框架。
-
----
-
-### 2026-08-10 05:02:54  #國際
-
-【伊朗最高領袖任命佐勒加德爾為其政治顧問】據伊朗伊斯蘭共和國通訊社9日報道，伊朗最高領袖穆傑塔巴·哈梅內伊任命穆罕默德·巴蓋爾·佐勒加德爾為其政治顧問。佐勒加德爾此前擔任伊朗最高國家安全委員會秘書。（央視新聞）
-
----
-
-### 2026-08-10 04:59:39  #MKT News
-
-【Iran's Supreme Leader Mujtaba Khamenei appoints Mohammad Bagher Zolghadr as political adviser】State media reported on the 9th that Iran's Supreme Leader Mujtaba Khamenei appointed Mohammad Bagher Zolghadr as a political adviser. Zolghadr previously served as secretary of Iran's Supreme National Security Council.
-
----
-
-### 2026-08-10 04:56:18  #MKT News #Important #Market Themes #Chip Wars #ASML.AS #Impact bearish
-
-【Musk signals possible free-electron laser challenge to ASML's EUV】SpaceX said it will partner with Tesla on an initial $16.8 bln investment to build a Terafab chip facility in Texas. Posts and a blogger’s read of Terafab materials suggest the plant may adopt free-electron laser (FEL) technology as a lithography light source to challenge ASML’s LPP EUV; Musk replied with FEL FTW and the facility layout reportedly supports that reading. FEL proponents cite higher power, coherence, tunable wavelength and potentially better energy efficiency, and in theory it could push lithography wavelengths from 13.5nm toward ~6nm or shorter. Commercialisation hurdles remain significant: large accelerator systems, capital cost and production stability are the main obstacles.
 
 ---

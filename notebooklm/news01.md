@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:55:04_
-_本檔包含 3088 則快訊，約 601055 字_
+_更新時間：2026-08-17 05:29:33_
+_本檔包含 3092 則快訊，約 600812 字_
+
+---
+
+### 2026-08-17 05:25:12  #其他
+
+【投資結構持續最佳化 新質生產力加速成長 高頻資料傳遞經濟平穩執行積極訊號】7月國民經濟執行情況即將釋出，作為研判三季度及下半年經濟走勢的重要觀測視窗，市場對7月經濟表現高度關注。從多項高頻資料與先行指標來看，線下消費、基建、先進製造等領域釋放積極訊號，經濟總體保持平穩執行，但穩增長壓力依然存在，宏觀政策仍需加力提效，著力擴內需穩增長。
+
+---
+
+### 2026-08-17 05:23:50  #國際
+
+特朗普：我詢問了韓國總統，他們是否願意加入我們，共同推動解除伊朗的核武裝，他的回答是不。
+
+---
+
+### 2026-08-17 05:13:06  #MKT News #Important
+
+【Trump says he has ordered sharp cuts to US-South Korea joint drills】President Trump said he is unhappy the US agreed long ago to joint military drills with South Korea, calling them costly and largely paid for by the US. He said it is too late to cancel and has instructed the defense secretary to sharply reduce the scale of the exercises. Trump added he asked the South Korean president about joining US action to denuclearize Iran; the reply was "No, thank you."
+
+---
+
+### 2026-08-17 05:12:28  #國際
+
+特朗普：（美韓）聯合軍演向一個態度友善的國家釋放出敵對訊號。
+
+---
+
+### 2026-08-17 05:11:06  #國際
+
+特朗普：與韓國舉行的軍演耗資巨大。
+
+---
+
+### 2026-08-17 05:10:33  #國際
+
+特朗普：對於美國很早之前就同意參與美韓聯合軍事演習這件事，我感到不滿。
+
+---
+
+### 2026-08-17 05:09:37  #國際
+
+特朗普：很高興看到沙烏地阿拉伯、土耳其以及巴基斯坦近期終於簽署了《麥加聯合防務協議》。這表明中東地區正在走向團結，各國終於能夠以更具實質意義的方式實現自衛。向上述三國卓越的領導層表示祝賀。這是重大、果敢且意義深遠的第一步，太棒了。
+
+---
+
+### 2026-08-17 05:08:58  #國際
+
+【傳奇投資人Stanley Druckenmiller買入美國上市的中概股】華爾街傳奇投資大亨、億萬富豪Stanley Druckenmiller幾年來首次重返美國交易的中國股票。彭博對其主要投資平臺Duquesne Family Office LLC最新的13F檔案的分析發現，該家族辦公室第二季建倉百度ADR，買入8.8萬份，僅佔其投資組合的0.2%。彙總的資料顯示，Duquesne自2023年第四季清倉阿里巴巴ADR後至本次披露期間再無持有中概股。
+
+---
+
+### 2026-08-17 05:07:57  #國際
+
+特朗普稱，已要求五角大樓削減與韓國的軍事演習。
+
+---
+
+### 2026-08-17 05:07:57  #MKT News #Important
+
+Trump said he is unhappy he long ago agreed to joint military exercises with South Korea and has instructed Defense Secretary Hegseth to sharply curtail them.
+
+---
+
+### 2026-08-17 04:58:48  #觀點
+
+東方證券給予中信證券A股買進的初始評級，目標價35.36元人民幣。
+
+---
+
+### 2026-08-17 04:58:43  #MKT News
+
+Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10.
 
 ---
 
@@ -18589,53 +18661,5 @@ A.P. Moller-Maersk's European-listed shares extended yesterday's gains, rising 2
 ### 2026-08-14 15:03:21  #MKT News #DAX #Impact bullish #FTSE100
 
 European equities opened higher on Aug 14: DAX +165.71 pts (+0.63%) at 26,457.71; FTSE 100 +9.07 pts (+0.08%) at 10,781.74; CAC 40 +3.95 pts (+0.05%) at 8,654.51; Euro STOXX 50 +14.68 pts (+0.22%) at 6,560.15; IBEX 35 +24.87 pts (+0.12%) at 20,193.47; FTSE MIB +18.73 pts (+0.03%) at 53,712.00.
-
----
-
-### 2026-08-14 15:03:19  #MKT News #Market Regions #Emerging Markets
-
-【Nomura: India’s 2026/27 fiscal deficit may miss 4.3% target by ~20bp; sees no RBI hikes through end of next year】Nomura forecasts India’s 2026/27 fiscal deficit target of 4.3% could deviate by about 20bp (0.2pp) under its baseline. It expects the Reserve Bank of India to refrain from raising rates through the end of next year. Nomura says fiscal risks have eased since the peak of Iran-related tensions but still anticipate the ~0.2pp miss in the baseline scenario. Nomura projects FY growth at 6.6%; stronger Apr–Jun activity could lift GDP above that. Market sentiment has improved versus last year—greater confidence in growth, fiscal metrics and current-account resilience, and reduced concerns about US trade friction. Some supply-side pressure is emerging but Nomura sees no sign of broad-based inflation.
-
----
-
-### 2026-08-14 15:03:17  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude rose 1.34% intraday to trade above $87 per barrel.
-
----
-
-### 2026-08-14 15:03:08  #其他
-
-【ETF兩市成交額報4561.01億元，較昨日此時放量9.48億元】截至目前，ETF兩市成交額報4561.01億元，較昨日此時放量9.48億元，分型別來看，股票型ETF成交額1351.7億元，債券型ETF成交額2210.71億元，貨幣型ETF成交額283.33億元，商品型ETF成交額103.13億元，QDII型ETF成交額612.14億元。
-
----
-
-### 2026-08-14 15:03:03  #宏觀
-
-財政部等多部門：積體電路企業、工業母機企業在2026年1月1日至2028年12月31日期間發生非貨幣性資產交換，按規定確認的非貨幣性資產交換所得，可在不超過5年期限內分期均勻計入相應年度的應納稅所得額，按現行政策規定計算繳納企業所得稅；企業進行非貨幣性資產交換所發生的損失，不得分期確認。
-
----
-
-### 2026-08-14 15:02:40  #MKT News
-
-Minutes from the Czech central bank said the C.BANK assessed the current monetary policy stance as appropriate.
-
----
-
-### 2026-08-14 15:02:36  #市場
-
-意法半導體在米蘭上市的股價早盤下跌1.5%。
-
----
-
-### 2026-08-14 15:02:17  #MKT News
-
-Czech National Bank minutes: the governor said June’s rate hike further tightened the monetary policy stance, allowing the bank to continue assessing incoming data.
-
----
-
-### 2026-08-14 15:01:59  #MKT News #Market Regions #Greater China #IF #Impact bearish #IH #IC
-
-【Equity index futures midday close】China's CSI 300 index futures (IF) most-active contract fell 0.36% at the midday close; SSE 50 futures (IH) fell 0.61%; CSI 500 futures (IC) fell 0.59%; CSI 1000 futures (IM) fell 0.16%.
 
 ---

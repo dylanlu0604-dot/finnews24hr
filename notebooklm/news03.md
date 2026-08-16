@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:55:04_
-_本檔包含 3001 則快訊，約 601116 字_
+_更新時間：2026-08-17 05:29:33_
+_本檔包含 2998 則快訊，約 600493 字_
+
+---
+
+### 2026-08-13 14:04:23  #市場 #焦點
+
+現貨黃金失守4380美元/盎司，日內跌0.66%。
+
+---
+
+### 2026-08-13 14:04:18  #市場
+
+鈀金期貨日內跌1%，現報1359.89美元/盎司。
+
+---
+
+### 2026-08-13 14:04:07  #公司
+
+【價格成本和認證中心赴中國長江三峽集團有限公司調研】7月27日，價格成本和認證中心副主任成鋼同志帶隊赴中國長江三峽集團有限公司市場營銷部調研。雙方圍繞光熱電站、新型儲能電站建設運營等情況進行了交流。新能源價格成本處有關同志參加了本次調研。
+
+---
+
+### 2026-08-13 14:04:03  #央行 #日本央行
+
+【高盛：萬億美元儲備在手 日本可復刻多輪“史詩級外匯干預”】在7月末美日聯合出手、實施數十年罕見的史詩級日元干預之後，近期，日元反彈勢頭逐步消退，再度逼近關鍵低位。在這一背景下，高盛最新分析指出，日本當前可動用干預資金相當充裕，足以復刻多輪“創紀錄量級”的護盤行動，日元底部支撐預期有望得到持續強化。
+
+---
+
+### 2026-08-13 14:03:34  #MKT News
+
+UK June seasonally adjusted trade balance: -5.537 bln pounds, prior -1.044 bln.
+
+---
+
+### 2026-08-13 14:03:32  #MKT News
+
+【UK Q2 GDP in line with forecasts but services and investment show resilience; manufacturing drags】UK Q2 GDP rose 0.4% q/q, matching forecasts and down from 0.6% in Q1; on the year growth was 1.2% y/y versus a 1.1% forecast. June GDP rose 0.3% m/m, beating a flat consensus. Sector detail shows services resilient (June services +0.4% m/m) and business investment stronger than expected (Q2 business investment +1.7% vs -0.5% forecast), while manufacturing and industrial output dragged (June manufacturing -0.5% m/m; industrial -0.2% m/m). The pattern points to services-led resilience and firmer corporate investment rather than broad-based acceleration.
+
+---
+
+### 2026-08-13 14:03:24  #MKT News #Economic Calendar #Important
+
+United Kingdom | Trade Balance (Jun) | actual -5537000000B | previous -1044000000B
+
+---
+
+### 2026-08-13 14:03:11  #MKT News #Important
+
+China A-share gold-related stocks extended losses in afternoon trade; Xiaocheng Technology fell more than 8%, Zhaojin Gold dropped over 6%, Hunan Silver and Shengda Resources also declined.
+
+---
+
+### 2026-08-13 14:02:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+UK June seasonally adjusted trade balance with the EU: -1.059 bln pounds; prior -11.522 bln pounds.
+
+---
+
+### 2026-08-13 14:02:24  #MKT News #Economic Calendar #Important
+
+United Kingdom | Trade Balance with EU (Jun) | actual -1059000000B | previous -11522000000B
+
+---
+
+### 2026-08-13 14:01:44  #市場
+
+【貴金屬板塊持續走低】貴金屬板塊持續走低，曉程科技跌超7%，招金黃金、湖南白銀、山東黃金、四川黃金等跟跌。
+
+---
+
+### 2026-08-13 14:01:19  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量2372億元。
+
+---
+
+### 2026-08-13 14:01:13  #經濟數據 #英國
+
+英國第二季度GDP同比增長1.2%，預期1.1%，前值0.9%；第二季度GDP環比增長0.4%，預期0.4%，前值0.6%。
 
 ---
 
@@ -18014,101 +18092,5 @@ Spot silver up more than 1.0% intraday at $65.32/oz.
 ### 2026-08-12 10:39:04  #MKT News
 
 A-share-listed Gaozheng Minbao hit an intraday record high, rising 5.44% to 61.80 yuan; market capitalization 16.95 bln yuan.
-
----
-
-### 2026-08-12 10:38:36  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
-
-Shenzhen Composite Index continued to strengthen, up more than 1%.
-
----
-
-### 2026-08-12 10:38:23  #市場 #焦點
-
-深證成指漲1.00%，現報14402.461點；上證指數漲0.16%，現報3940.583點；創業板指漲1.35%，現報3596.928點。
-
----
-
-### 2026-08-12 10:38:06  #市場
-
-SK海力士股價上漲6.5%。
-
----
-
-### 2026-08-12 10:37:40  #MKT News #06809.HK #Impact bullish #03986.HK
-
-Hong Kong storage names firmed after choppy trading; Montage Technology (06809.HK) rose over 5% and GigaDevice (03986.HK) gained over 4%.
-
----
-
-### 2026-08-12 10:37:38  #市場
-
-【高爭民爆股價創歷史新高】高爭民爆盤中股價創歷史新高，現漲5.44%，報61.80元，總市值為169.50億元。
-
----
-
-### 2026-08-12 10:37:06  #公司 #市場
-
-三星電子股價上漲7.5%。
-
----
-
-### 2026-08-12 10:36:49  #國際
-
-【調查：全球科技巨頭AI加速搶佔韓國搜尋市場，NAVER等本土服務面臨顯著差距】韓國科學技術資訊通訊部8月12日表示，今年6月釋出的“2025年附加通訊業務實態調查”顯示，生成式AI使用者中有60%回答，過半以上的搜尋已透過AI進行。韓國資訊通訊政策研究院（KISDI）的分析顯示，以2025年為準，生成式AI的主要使用目的中“搜尋日常資訊”位居首位，佔比達42.5%。據韓國科技資訊通訊部調查，ChatGPT和Gemini在AI服務體驗率（可多選）方面，分別以41.8%和9.8%的佔比位居前二。加上微軟的AI服務Copilot（2.2%），來自海外的三處AI服務體驗率合計高達53.8%。而本土服務NAVER的CLOVA X僅為2%。
-
----
-
-### 2026-08-12 10:34:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed #Nikkei 225
-
-Insiders say Japan's cabinet may be reshuffled in mid-September or later.
-
----
-
-### 2026-08-12 10:33:37  #市場
-
-截至早盤收盤，日經225指數漲0.1%，東證指數漲0.3%。
-
----
-
-### 2026-08-12 10:33:13  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報147850元/噸，較上日16:30價格上漲2850元/噸。
-
----
-
-### 2026-08-12 10:32:51  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量1059億元。
-
----
-
-### 2026-08-12 10:32:47  #公司
-
-【航天投資等在杭州成立太空智慧科技公司】企查查APP顯示，近日，杭州四維太空智慧科技有限公司成立，法定代表人為常明，註冊資本為20億元，經營範圍包含人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；衛星技術綜合應用系統整合；衛星遙感資料處理等。企查查股權穿透顯示，該公司由杭州西湖雲創集團有限公司、航天投資控股有限公司等共同持股。
-
----
-
-### 2026-08-12 10:32:23  #國際
-
-【今年第17號颱風“浪卡”生成】今天上午，今年第17號颱風“浪卡”生成。截至8時，颱風“浪卡”中心位於北緯21.8度、東經141.7度，距離日本東京偏南方向約1560公里的海面上，強度為熱帶風暴級，中心附近最大風力8級（18米/秒），中心氣壓998百帕。預計，颱風“浪卡”將以每小時35至40公里的速度向東北方向快速移動，強度變化不大。
-
----
-
-### 2026-08-12 10:32:14  #MKT News #Important
-
-South Korea's KOSPI rose 4.00% intraday to 6,599.61 points.
-
----
-
-### 2026-08-12 10:32:04  #市場 #國際
-
-韓國綜合股價指數上漲4％，三星電子漲逾7%，SK海力士漲5.68%。
-
----
-
-### 2026-08-12 10:31:49  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 0
-
-US 10-Year Yield Edges Lower — The yield on the US 10-year Treasury note eased to around 4.68% on Wednesday, extending its decline into a second session as investors positioned ahead of key inflation data that could provide fresh guidance on the Federal Reserve’s policy outlook. The consumer price index is due later today, with producer inflation figures scheduled for Thursday. Markets remain split over the prospect of a 25-basis-point Fed rate hike in September after the central bank left rates unchanged in July, while firmer oil prices continue to bolster expectations for a hawkish stance. On Tuesday, Chicago Fed President Austan Goolsbee said policymakers remain more focused on the risk of persistently elevated inflation than potential weakness in the labor market. Meanwhile, investors continued to monitor prospects for a US-Iran agreement to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
 
 ---

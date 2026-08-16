@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:55:04_
-_本檔包含 3145 則快訊，約 600962 字_
+_更新時間：2026-08-17 05:29:33_
+_本檔包含 3140 則快訊，約 601014 字_
+
+---
+
+### 2026-08-14 15:03:19  #MKT News #Market Regions #Emerging Markets
+
+【Nomura: India’s 2026/27 fiscal deficit may miss 4.3% target by ~20bp; sees no RBI hikes through end of next year】Nomura forecasts India’s 2026/27 fiscal deficit target of 4.3% could deviate by about 20bp (0.2pp) under its baseline. It expects the Reserve Bank of India to refrain from raising rates through the end of next year. Nomura says fiscal risks have eased since the peak of Iran-related tensions but still anticipate the ~0.2pp miss in the baseline scenario. Nomura projects FY growth at 6.6%; stronger Apr–Jun activity could lift GDP above that. Market sentiment has improved versus last year—greater confidence in growth, fiscal metrics and current-account resilience, and reduced concerns about US trade friction. Some supply-side pressure is emerging but Nomura sees no sign of broad-based inflation.
+
+---
+
+### 2026-08-14 15:03:17  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude rose 1.34% intraday to trade above $87 per barrel.
+
+---
+
+### 2026-08-14 15:03:08  #其他
+
+【ETF兩市成交額報4561.01億元，較昨日此時放量9.48億元】截至目前，ETF兩市成交額報4561.01億元，較昨日此時放量9.48億元，分型別來看，股票型ETF成交額1351.7億元，債券型ETF成交額2210.71億元，貨幣型ETF成交額283.33億元，商品型ETF成交額103.13億元，QDII型ETF成交額612.14億元。
+
+---
+
+### 2026-08-14 15:03:03  #宏觀
+
+財政部等多部門：積體電路企業、工業母機企業在2026年1月1日至2028年12月31日期間發生非貨幣性資產交換，按規定確認的非貨幣性資產交換所得，可在不超過5年期限內分期均勻計入相應年度的應納稅所得額，按現行政策規定計算繳納企業所得稅；企業進行非貨幣性資產交換所發生的損失，不得分期確認。
+
+---
+
+### 2026-08-14 15:02:40  #MKT News
+
+Minutes from the Czech central bank said the C.BANK assessed the current monetary policy stance as appropriate.
+
+---
+
+### 2026-08-14 15:02:36  #市場
+
+意法半導體在米蘭上市的股價早盤下跌1.5%。
+
+---
+
+### 2026-08-14 15:02:17  #MKT News
+
+Czech National Bank minutes: the governor said June’s rate hike further tightened the monetary policy stance, allowing the bank to continue assessing incoming data.
+
+---
+
+### 2026-08-14 15:01:59  #MKT News #Market Regions #Greater China #IF #Impact bearish #IH #IC
+
+【Equity index futures midday close】China's CSI 300 index futures (IF) most-active contract fell 0.36% at the midday close; SSE 50 futures (IH) fell 0.61%; CSI 500 futures (IC) fell 0.59%; CSI 1000 futures (IM) fell 0.16%.
 
 ---
 
@@ -18865,83 +18913,5 @@ UK Economy Expands 0.4% in Q2 — The UK economy expanded by 0.4% quarter-on-qua
 ### 2026-08-13 14:05:15  #MKT News #Important #Market Themes #AI Revolution #China Tech Giants #Market Regions #Greater China #00992.HK #Impact bullish
 
 【Lenovo Group quarterly revenue up 43% YoY; Hong Kong shares surge over 20%】Lenovo Group (00992.HK) shares rose more than 20% in Hong Kong after quarterly revenue increased 43% YoY, materially beating analyst estimates and boosting AI-demand expectations. Shares hit a record high and are up about 290% year-to-date, remaining the top performer in the Hang Seng China Enterprises Index. CITIGROUP analysts led by Kyna Wong said the results broadly and substantially exceeded expectations, reinforcing an AI-driven structural growth thesis.
-
----
-
-### 2026-08-13 14:04:23  #市場 #焦點
-
-現貨黃金失守4380美元/盎司，日內跌0.66%。
-
----
-
-### 2026-08-13 14:04:18  #市場
-
-鈀金期貨日內跌1%，現報1359.89美元/盎司。
-
----
-
-### 2026-08-13 14:04:07  #公司
-
-【價格成本和認證中心赴中國長江三峽集團有限公司調研】7月27日，價格成本和認證中心副主任成鋼同志帶隊赴中國長江三峽集團有限公司市場營銷部調研。雙方圍繞光熱電站、新型儲能電站建設運營等情況進行了交流。新能源價格成本處有關同志參加了本次調研。
-
----
-
-### 2026-08-13 14:04:03  #央行 #日本央行
-
-【高盛：萬億美元儲備在手 日本可復刻多輪“史詩級外匯干預”】在7月末美日聯合出手、實施數十年罕見的史詩級日元干預之後，近期，日元反彈勢頭逐步消退，再度逼近關鍵低位。在這一背景下，高盛最新分析指出，日本當前可動用干預資金相當充裕，足以復刻多輪“創紀錄量級”的護盤行動，日元底部支撐預期有望得到持續強化。
-
----
-
-### 2026-08-13 14:03:34  #MKT News
-
-UK June seasonally adjusted trade balance: -5.537 bln pounds, prior -1.044 bln.
-
----
-
-### 2026-08-13 14:03:32  #MKT News
-
-【UK Q2 GDP in line with forecasts but services and investment show resilience; manufacturing drags】UK Q2 GDP rose 0.4% q/q, matching forecasts and down from 0.6% in Q1; on the year growth was 1.2% y/y versus a 1.1% forecast. June GDP rose 0.3% m/m, beating a flat consensus. Sector detail shows services resilient (June services +0.4% m/m) and business investment stronger than expected (Q2 business investment +1.7% vs -0.5% forecast), while manufacturing and industrial output dragged (June manufacturing -0.5% m/m; industrial -0.2% m/m). The pattern points to services-led resilience and firmer corporate investment rather than broad-based acceleration.
-
----
-
-### 2026-08-13 14:03:24  #MKT News #Economic Calendar #Important
-
-United Kingdom | Trade Balance (Jun) | actual -5537000000B | previous -1044000000B
-
----
-
-### 2026-08-13 14:03:11  #MKT News #Important
-
-China A-share gold-related stocks extended losses in afternoon trade; Xiaocheng Technology fell more than 8%, Zhaojin Gold dropped over 6%, Hunan Silver and Shengda Resources also declined.
-
----
-
-### 2026-08-13 14:02:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK June seasonally adjusted trade balance with the EU: -1.059 bln pounds; prior -11.522 bln pounds.
-
----
-
-### 2026-08-13 14:02:24  #MKT News #Economic Calendar #Important
-
-United Kingdom | Trade Balance with EU (Jun) | actual -1059000000B | previous -11522000000B
-
----
-
-### 2026-08-13 14:01:44  #市場
-
-【貴金屬板塊持續走低】貴金屬板塊持續走低，曉程科技跌超7%，招金黃金、湖南白銀、山東黃金、四川黃金等跟跌。
-
----
-
-### 2026-08-13 14:01:19  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時放量2372億元。
-
----
-
-### 2026-08-13 14:01:13  #經濟數據 #英國
-
-英國第二季度GDP同比增長1.2%，預期1.1%，前值0.9%；第二季度GDP環比增長0.4%，預期0.4%，前值0.6%。
 
 ---

@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:55:04_
-_本檔包含 3055 則快訊，約 601039 字_
+_更新時間：2026-08-17 05:29:33_
+_本檔包含 3062 則快訊，約 600696 字_
+
+---
+
+### 2026-08-12 10:38:36  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
+
+Shenzhen Composite Index continued to strengthen, up more than 1%.
+
+---
+
+### 2026-08-12 10:38:23  #市場 #焦點
+
+深證成指漲1.00%，現報14402.461點；上證指數漲0.16%，現報3940.583點；創業板指漲1.35%，現報3596.928點。
+
+---
+
+### 2026-08-12 10:38:06  #市場
+
+SK海力士股價上漲6.5%。
+
+---
+
+### 2026-08-12 10:37:40  #MKT News #06809.HK #Impact bullish #03986.HK
+
+Hong Kong storage names firmed after choppy trading; Montage Technology (06809.HK) rose over 5% and GigaDevice (03986.HK) gained over 4%.
+
+---
+
+### 2026-08-12 10:37:38  #市場
+
+【高爭民爆股價創歷史新高】高爭民爆盤中股價創歷史新高，現漲5.44%，報61.80元，總市值為169.50億元。
+
+---
+
+### 2026-08-12 10:37:06  #公司 #市場
+
+三星電子股價上漲7.5%。
+
+---
+
+### 2026-08-12 10:36:49  #國際
+
+【調查：全球科技巨頭AI加速搶佔韓國搜尋市場，NAVER等本土服務面臨顯著差距】韓國科學技術資訊通訊部8月12日表示，今年6月釋出的“2025年附加通訊業務實態調查”顯示，生成式AI使用者中有60%回答，過半以上的搜尋已透過AI進行。韓國資訊通訊政策研究院（KISDI）的分析顯示，以2025年為準，生成式AI的主要使用目的中“搜尋日常資訊”位居首位，佔比達42.5%。據韓國科技資訊通訊部調查，ChatGPT和Gemini在AI服務體驗率（可多選）方面，分別以41.8%和9.8%的佔比位居前二。加上微軟的AI服務Copilot（2.2%），來自海外的三處AI服務體驗率合計高達53.8%。而本土服務NAVER的CLOVA X僅為2%。
+
+---
+
+### 2026-08-12 10:34:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed #Nikkei 225
+
+Insiders say Japan's cabinet may be reshuffled in mid-September or later.
+
+---
+
+### 2026-08-12 10:33:37  #市場
+
+截至早盤收盤，日經225指數漲0.1%，東證指數漲0.3%。
+
+---
+
+### 2026-08-12 10:33:13  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報147850元/噸，較上日16:30價格上漲2850元/噸。
+
+---
+
+### 2026-08-12 10:32:51  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時縮量1059億元。
+
+---
+
+### 2026-08-12 10:32:47  #公司
+
+【航天投資等在杭州成立太空智慧科技公司】企查查APP顯示，近日，杭州四維太空智慧科技有限公司成立，法定代表人為常明，註冊資本為20億元，經營範圍包含人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；衛星技術綜合應用系統整合；衛星遙感資料處理等。企查查股權穿透顯示，該公司由杭州西湖雲創集團有限公司、航天投資控股有限公司等共同持股。
+
+---
+
+### 2026-08-12 10:32:23  #國際
+
+【今年第17號颱風“浪卡”生成】今天上午，今年第17號颱風“浪卡”生成。截至8時，颱風“浪卡”中心位於北緯21.8度、東經141.7度，距離日本東京偏南方向約1560公里的海面上，強度為熱帶風暴級，中心附近最大風力8級（18米/秒），中心氣壓998百帕。預計，颱風“浪卡”將以每小時35至40公里的速度向東北方向快速移動，強度變化不大。
+
+---
+
+### 2026-08-12 10:32:14  #MKT News #Important
+
+South Korea's KOSPI rose 4.00% intraday to 6,599.61 points.
+
+---
+
+### 2026-08-12 10:32:04  #市場 #國際
+
+韓國綜合股價指數上漲4％，三星電子漲逾7%，SK海力士漲5.68%。
+
+---
+
+### 2026-08-12 10:31:49  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 0
+
+US 10-Year Yield Edges Lower — The yield on the US 10-year Treasury note eased to around 4.68% on Wednesday, extending its decline into a second session as investors positioned ahead of key inflation data that could provide fresh guidance on the Federal Reserve’s policy outlook. The consumer price index is due later today, with producer inflation figures scheduled for Thursday. Markets remain split over the prospect of a 25-basis-point Fed rate hike in September after the central bank left rates unchanged in July, while firmer oil prices continue to bolster expectations for a hawkish stance. On Tuesday, Chicago Fed President Austan Goolsbee said policymakers remain more focused on the risk of persistently elevated inflation than potential weakness in the labor market. Meanwhile, investors continued to monitor prospects for a US-Iran agreement to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
 
 ---
 
@@ -18368,59 +18464,5 @@ Singapore's Ministry of Trade and Industry said the Middle East conflict's impac
 ### 2026-08-11 08:29:58  #公司 #國際
 
 【日本鎧俠稱SK海力士關聯投資實體為其第一大股東】鎧俠控股股份有限公司的最大股東是一家投資載體，該實體所持股份存在競爭對手SK海力士的權益主張。鎧俠週二釋出宣告表示，截至8月3日，這家快閃記憶體廠商的前母公司東芝公司，將其持有的鎧俠股份由14.48%減持至約14.12%。由此，由貝恩資本設立的BCPE Pangea Cayman2 以14.19%的持股比例，成為這家日本晶片企業的第一大股東。根據鎧俠年報，韓國SK海力士持有可轉換債券，該債券可獲得BCPE Pangea Cayman2“幾乎全部”的投票權。在年報中，這家日本企業明確將SK海力士的該項權益主張列為風險因素，稱其有可能引發利益衝突。SK海力士曾參與2018年由貝恩資本牽頭的財團收購鎧俠的交易。作為交易條款的一部分，SK海力士承諾，除非獲得該日本晶片企業許可，否則到2028年之前，其持有的鎧俠投票權佔比不得超過15%。
-
----
-
-### 2026-08-11 08:29:35  #觀點
-
-【中信證券：北交所流動性走勢有望在政策催化下迎來拐點】中信證券研報稱，在北交所政策持續最佳化的背景下，資本運作活躍，再融資簡易程式直擊創新型中小企業“融資難、融資慢”痛點。並且北交所流動性觸底回升，中信證券認為當前北交所指數流動性處於較低位置，有可能處於估值底、情緒底。展望未來，流動性走勢有望在政策催化下迎來拐點：政策端持續最佳化流動性預期，北證50指數基金規模上限提高及北證50ETF的預期落地；在機構資金潛在增量及基本面紮實的標的被錯殺的背景下，當前市場已具備較高的估值安全邊際，為投資者提供了潛在的佈局良機；2026年年初以來北交所外延併購也符合當前A股外延併購的整體態勢，從“規模擴張”到“價值整合”，建議關注北交所外延併購帶來的投資機會，重點關注“硬科技產業鏈整合”與“傳統龍頭轉型升級”。
-
----
-
-### 2026-08-11 08:29:10  #其他
-
-【昨日ETF資金整體淨流出143.57億元】據同花順iFinD資料顯示，2026年8月10日，ETF資金整體淨流出143.57億元，股票型淨流出116.49億元，寬基型淨流出90.47億元。當日ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出28.89億元，南方中證500ETF（510500）淨流出16.49億元，華寶添益（511990）淨流出16.44億元。
-
----
-
-### 2026-08-11 08:27:27  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加3.42噸】截至2026年08月10日，全球最大的黃金ETF SPDR Gold Trust持倉量為1020.96噸，較前一個交易日增加3.42噸。
-
----
-
-### 2026-08-11 08:27:08  #其他
-
-【機構：需求弱修復疊加供給高企，8月電視面板價格或延續下行態勢】8月11日，CINNO Research最新報告指出，進入8月，全球LCD TV面板採購需求受年底大促備貨、以價換量策略雙重拉動呈現邊際回暖，但修復力度整體有限。由於頭部面板廠持續維持高稼動生產，行業供需格局仍處寬鬆區間，面板價格整體延續小幅回落態勢，尺寸結構性分化特徵持續顯現。後市方面，9月面板價格或延續下行慣性，但跌幅有望邊際收斂，核心支撐來自10月面板廠休假減產預期的提前計價與情緒託底，行情亦存在階段性止跌可能；10月價格存企穩機率，整體走勢仍存不確定性。
-
----
-
-### 2026-08-11 08:26:35  #其他
-
-【世界最大沖擊式水電機組順利完成轉子吊裝】今天（11日），世界最大沖擊式水電機組在大唐扎拉水電站順利完成轉子吊裝，標誌著我國超高水頭、大容量衝擊式水電裝備核心技術躋身世界領先行列，有力助推藏東南清潔能源基地建設。大唐扎拉水電站是國家“藏電外送”骨幹工程，裝機兩臺500兆瓦衝擊式機組，為全球同型別單機容量最大裝置。作為我國能源領域首臺（套）重大技術裝備，具有高海拔、高水頭、大容量等技術優勢。本次吊裝的轉子，是發電機組實現能量轉換的“動力心臟”。轉子約840噸，相當於560輛家用小轎車的總重。它的成功安裝，標誌著專案已進入投產前的最後衝刺階段。電站全面投產後，每年可發出近40億度清潔綠電，可節約標準煤130萬噸，減少二氧化碳排放342萬噸。
-
----
-
-### 2026-08-11 08:25:25  #市場
-
-SK海力士股價下跌2.6%。
-
----
-
-### 2026-08-11 08:25:04  #國際
-
-【美參議院將表決時程推至9月 加密貨幣法案進度恐因中期選舉卡關】美國加密貨幣行業原本寄望推動具有劃時代意義的數字資產立法，但這專案標實現的可能性正逐漸下降，儘管參議院共和黨人承諾在國會議員下月重返國會山莊後推進法案。對加密貨幣行業而言，參議院週六在沒有就備受期待的清晰法案（Clarity Act）進行表決的情況下就離開華盛頓，展開為期五週的8月休會期，無疑是一大打擊。財力雄厚的加密貨幣業已投入數億美元進行遊說，以推動法案過關，認為法案將為加密企業奠定堅實的法律基礎。不過，民主黨人、部分共和黨人及其他批評者認為，法案在防制洗錢及道德規範方面的保障不足。法案的推進需要透過60票門檻，但部分關鍵民主黨議員持續反對，加上參議院還有其他議程陷入僵局，共和黨籍參議院多數黨領袖圖恩(John Thune)週六推動一項程式性表決，最快可能於9月啟動法案送交參院全院審議的程式。然而，許多分析師與遊說人士對法案前景持懷疑態度，因為11月的中期選舉將分散議員們的注意力，而參議院會期也將因選舉而縮短，在議程繁忙的情況下，留給議員解決分歧的時間所剩無幾。
-
----
-
-### 2026-08-11 08:23:49  #市場 #焦點
-
-現貨黃金突破4410美元/盎司，日內漲0.47%。
-
----
-
-### 2026-08-11 08:23:47  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【CSC Financial: Yushu IPO priced above expectations, positive for robotics sector】CSC Financial said Yushu’s IPO priced at 150.80 yuan/share, implying an issuance market value of about 61.0 bln yuan — above prior expectations and likely to trigger valuation repricing among robotics hardware makers. Domestic suppliers are accelerating multi-dimensional capability builds ("brain", "cerebellum", "body") and expanding industrial and commercial deployments; shipment volumes are rising and broader application scenarios should follow as robots generalize. The firm calls physical AI the next AI wave and identifies robots as a primary physical carrier. Catalysts to watch: Optimus V3 release and mass-production progress, new domestic robot product launches, further robotics IPOs and application rollouts. Recommends focusing on high-quality segments of the value chain.
 
 ---
