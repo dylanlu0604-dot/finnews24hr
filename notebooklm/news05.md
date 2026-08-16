@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:55:17_
-_本檔包含 2973 則快訊，約 600556 字_
+_更新時間：2026-08-16 19:30:04_
+_本檔包含 2960 則快訊，約 600388 字_
+
+---
+
+### 2026-08-11 04:52:08  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said AI labs and AI startups need compute capacity.
+
+---
+
+### 2026-08-11 04:51:46  #公司
+
+英偉達CEO黃仁勳：人工智慧實驗室及AI初創企業存在算力需求。
+
+---
+
+### 2026-08-11 04:51:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) CEO Jensen Huang said no one has turned down the new AI financing plan.
+
+---
+
+### 2026-08-11 04:49:44  #公司
+
+英偉達CEO黃仁勳：對於新一輪人工智慧融資計劃，無人拒絕。
+
+---
+
+### 2026-08-11 04:46:52  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500
+
+【Morgan Stanley launches $1.5 trillion US innovation infrastructure initiative focused on AI, semiconductors】Morgan Stanley said it will launch a US Innovation Infrastructure Initiative to mobilize about $1.5 trillion of capital raising, financing, advisory and related investment activity over the next 10 years to support companies, technologies and platforms seen as critical to the US economy and national security. The plan targets AI, advanced computing, quantum, semiconductors, data infrastructure, cybersecurity, aerospace and defense, and critical minerals, and aims to accelerate digital, physical and energy infrastructure buildout by integrating the firm’s investment banking, capital markets, wealth and asset-management capabilities to back firms from startup through scale.
+
+---
+
+### 2026-08-11 04:44:57  #公司
+
+【OpenAI回購70億美元員工股份】OpenAI已回購員工約70億美元的公司股份，為未來可能登陸華爾街進行首次公開募股（IPO）做準備。兩名知情人士表示，OpenAI此次要約收購併未尋求外部投資者參與，而是直接從現任和前員工手中回購股份。此次交易對這家AI初創公司的估值達到8520億美元，與其最近一輪融資中的估值保持一致。過去，OpenAI曾邀請Thrive Capital和軟銀集團等投資者購買員工股份。
+
+---
+
+### 2026-08-11 04:44:49  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls as Oil Prices Rally — The Ibovespa edged 0.2% lower to close at 172,180 on Monday as oil prices jumped after prospects for an agreement to reopen the Strait of Hormuz weakened. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Higher energy prices reignited inflation concerns, weighing on banks and the broader index. Itaú shed 0.8% and Bradesco lost 0.7%. Axia dropped 2.3% despite brokerages highlighting significant dividend potential and raising their price targets. Petrobras gained 3.3% on higher oil prices, while Vale added 1.3% despite lower iron ore prices. Embraer climbed 2.3% following a better-than-expected 2Q26 earnings report. Itaúsa shed 0.7% ahead of its results, due after the close, while Caixa Seguridade (-2%), Natura (-2.4%), and JBS (-1.7%) are also scheduled to report.
+
+---
+
+### 2026-08-11 04:43:59  #MKT News #Market Themes #AI Revolution
+
+【OpenAI completes $7bn employee share buyback ahead of potential IPO】People familiar with the matter say OpenAI has completed a transaction to buy back about $7bn of shares from current and former employees as it prepares for a possible IPO. Sources said the tender did not involve external investors and bought shares directly from employees. The deal values OpenAI at $852bn, matching its most recent financing round. The company had previously invited investors such as Thrive Capital and SoftBank to purchase employee shares.
+
+---
+
+### 2026-08-11 04:43:49  #公司 #市場 #國際
+
+美國稀土公司盤後下跌5%，此前公佈第二季度業績並宣佈收購計劃。
+
+---
+
+### 2026-08-11 04:42:27  #市場 #國際
+
+【美戰略石油儲備降至3億桶以下 國際油價顯著上漲】國際油價10日顯著上漲，同時美國的戰略石油儲備（SPR）降至3億桶以下，徘徊在20世紀80年代以來的最低水平。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。
+
+---
+
+### 2026-08-11 04:37:11  #MKT News
+
+【Fire at Pyeongtaek hazardous-chemicals warehouse storing about 1.91 mln liters】A fire broke out at a single-storey warehouse in Cheongbuk-eup, Pyeongtaek, Gyeonggi Province, South Korea, at about 00:03 on Aug 11. The facility stored Class 4 hazardous chemicals (flammable liquids), estimated at roughly 1.91 mln liters across about 100 different substances. Authorities raised a level-2 emergency response and deployed 56 vehicles and 140 personnel to fight the blaze. No casualties have been confirmed. Officials said they will investigate the cause after the fire is brought under control.
 
 ---
 
@@ -17769,149 +17835,5 @@ Sources said four Yemeni government soldiers were killed in an attack by Houthi 
 ### 2026-08-09 19:38:43  #其他
 
 【離境退稅“2.0版”政策落地滿月，廣州入境消費持續升溫】離境退稅2.0版政策自7月1日正式實施以來，政策紅利持續釋放，為入境消費市場注入強勁新動能。據廣州海關統計，7月1日至8月8日，廣州白雲機場海關已驗放境外旅客離境退稅申請單約1.9萬份，申請單金額約1億元，同比分別增長約5倍、1.5倍。
-
----
-
-### 2026-08-09 19:29:27  #其他
-
-內塔尼亞胡：當我說解除哈馬斯武裝時，我指的是所有型別的重武器和輕武器。
-
----
-
-### 2026-08-09 19:27:44  #MKT News
-
-【Mohsen Rezaei named Supreme Leader’s representative to Iran’s Supreme National Security Council】On the 9th (local time), Iranian sources said Mohsen Rezaei has joined Iran’s Supreme National Security Council as the representative of Supreme Leader and Commander‑in‑Chief Mujtaba Khamenei on the council.
-
----
-
-### 2026-08-09 19:27:25  #國際
-
-【雷扎伊出任伊朗最高領袖駐最高國家安全委員會代表】當地時間9日，據伊朗方面訊息，穆赫辛·雷扎伊已加入伊朗最高國家安全委員會，擔任伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊在該委員會的代表。（央視新聞）
-
----
-
-### 2026-08-09 19:25:07  #國際
-
-【中國氣象頻道氣象分析師：颱風“白海豚”總體上對華東、華北影響會大於“巴威”】8月9日，中國氣象頻道氣象分析師信欣發文稱，今天17時30分，白海豚登陸浙江玉環坎門街道之後，18時40分前後在浙江省溫州樂清市翁垟街道沿海再次登陸，登陸時中心附近最大風力有13級（38米/秒），中心最低氣壓為950百帕。之前的颱風巴威，也是先登陸玉環坎門，再登陸樂清。兩個颱風都是超遠距離奔襲，最後登陸點重合，也是難得一見。白海豚的環流更大，強度更強，未來白海豚在登陸後的路徑總體比巴威偏西，總體上對華東、華北的影響會大於巴威。尤其是12-15日，白海豚的殘渦可能疊加冷空氣，導致河南山東河北等地出現強降雨，因此後期北方地區也要高度關注。
-
----
-
-### 2026-08-09 19:20:17  #國際
-
-【以總理稱哈馬斯解除武裝前不撤軍】以色列總理內塔尼亞胡今天（8月9日）在每週政府會議上講話表示， 以色列拒絕“和平委員會”提出的有關加沙停火“15點方案”，在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）徹底解除武裝前，以軍不會撤退，並強調在其任內絕不允許建立巴勒斯坦國，也絕不允許伊朗擁有核武器。（CCTV國際時訊）
-
----
-
-### 2026-08-09 19:18:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran supreme leader meets President Pezeshkian】State TV said Iran's supreme leader Mujtaba met President Pezeshkian as Pezeshkian begins his third term. They discussed household livelihoods, the ongoing third war of aggression, future prospects, military development and economic engagement with foreign partners.
-
----
-
-### 2026-08-09 19:15:13  #公司 #國際
-
-俄羅斯國家原俄羅斯國家原子能公司（Rosatom）總經理：計劃儘早接回所有從伊朗撤離的專家。據他透露，如果一切順利，俄羅斯國家原子能公司將在今年秋季把布什爾核電站的工作人員數量恢復到100人。
-
----
-
-### 2026-08-09 19:10:56  #其他
-
-【安徽多地啟動紅色山洪災害氣象預警】記者9日從安徽省水利廳瞭解到，當前安徽多地啟動紅色山洪災害氣象預警，部分地市防汛防颱風應急響應提升至三級。 據氣象部門預報，受今年第13號颱風“白海豚”影響，8月9日至11日，安徽省大別山區、沿江江南大部分地區有大到暴雨，區域性大暴雨，山洪和地質災害及城市內澇等災害風險較高。（新華社）
-
----
-
-### 2026-08-09 19:10:21  #其他
-
-【受颱風“白海豚”影響 北京局地或將出現特大暴雨】今年第13號颱風“白海豚”（強颱風級）的中心已於9日17時30分前後在浙江省台州玉環市沿海登陸，隨後18時40分前後在浙江省溫州樂清市沿海再次登陸。北京市水務局9日傍晚釋出訊息，據最新資料研判，受颱風影響，11日夜間至15日京津冀地區將出現強降雨天氣，過程持續時間長、累計雨量大。預計，11日夜間至15日北京累計降雨量將達到大暴雨量級，山區及南部部分地區將出現特大暴雨。降雨將在11日夜間開始加強，11日夜間至12日夜間北京有暴雨，部分割槽域有大暴雨。未來臺風造成的降雨仍有不確定性，氣象部門等將密切跟蹤研判，提醒公眾關注臨近天氣預報。（央視新聞）
-
----
-
-### 2026-08-09 19:08:43  #其他
-
-【中央氣象臺：預計颱風“琵鷺”對我國無影響】據中央氣象臺訊息，今年第16號颱風“琵鷺”（熱帶風暴級；英文名稱：PEILOU名字來源：中國澳門名稱意義：一種澳門常見的候鳥）已於8月9日在西北太平洋洋麵上生成。17時其中心距離關島塞班北偏西方向約700公里，就是北緯21.1度、東經143.4度，中心附近最大風力有8級18米/秒（約65公里/小時），中心最低氣壓為998百帕，七級風圈半徑為150至200公里。預計“琵鷺”將以每小時25至30公里的速度向偏東方向快速移動，強度緩慢增強，未來“琵鷺”對我國無影響。
-
----
-
-### 2026-08-09 19:05:48  #MKT News
-
-Mizan, the Iranian judicial system’s news agency, cited the Basij deputy commander saying videos of Iran’s supreme leader Mujtaba in public appearances and in meetings with commanders will be released.
-
----
-
-### 2026-08-09 19:04:20  #MKT News
-
-NETANYAHU said some elements of the U.S. 15-point Gaza plan are acceptable, while others are not.
-
----
-
-### 2026-08-09 19:03:26  #其他
-
-【國家海洋預報臺繼續釋出風暴潮紅色警報】記者從自然資源部獲悉，今天（9日）16時，國家海洋預報臺繼續釋出風暴潮紅色警報。預計至10日下午，江蘇南通到浙江寧波沿海將出現100到250釐米的風暴增水，浙江台州到溫州沿海將出現180到350釐米的風暴增水，福建沿海將出現50到100釐米的風暴增水。浙江省寧波市、舟山市和台州市的風暴潮預警級別為紅色，上海市和浙江省嘉興市的風暴潮預警級別為橙色，浙江省溫州市的風暴潮預警級別為黃色。請沿海政府及相關部門按照職責做好防禦風暴潮的應急搶險工作，沿海低窪地區和危房戶居民應及時轉移到安全地帶；關閉沿海危險區域浴場和遊樂設施，禁止人員到海邊遊玩；漁排、漁船等海上作業人員及時上岸避險。 (央視新聞)
-
----
-
-### 2026-08-09 19:03:01  #國際
-
-伊朗民兵組織巴斯克副指揮官稱，未來將公佈穆傑塔巴·哈梅內伊“公開露面及與指揮官會晤”的畫面。
-
----
-
-### 2026-08-09 19:01:05  #國際
-
-內塔尼亞胡：對於美國提出的加沙問題十五點方案，其中部分提議我方可以接受，部分則不能接受。
-
----
-
-### 2026-08-09 18:59:53  #其他
-
-內塔尼亞胡：以國防軍將挫敗針對士兵和平民的各類威脅。
-
----
-
-### 2026-08-09 18:59:25  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli Prime Minister Netanyahu said that as long as he remains prime minister there will be no Palestinian state in Gaza or the West Bank.
-
----
-
-### 2026-08-09 18:58:56  #國際
-
-以色列總理內塔尼亞胡表示：只要我仍擔任總理，加沙或約旦河西岸就不會出現巴勒斯坦國。
-
----
-
-### 2026-08-09 18:58:10  #MKT News
-
-Israeli Prime Minister Netanyahu said Iran will not attack Israel because it understands that, if it did, Israel would deliver a powerful strike.
-
----
-
-### 2026-08-09 18:57:59  #其他
-
-阿曼媒體：阿曼蘇丹訪問卡達，與埃米爾舉行雙邊會談。
-
----
-
-### 2026-08-09 18:57:45  #MKT News #Important #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Prime Minister Netanyahu said Israel rejects a 15-point Gaza plan and will not withdraw forces from Gaza until Hamas is fully disarmed.
-
----
-
-### 2026-08-09 18:57:32  #國際
-
-以色列總理內塔尼亞胡：在哈馬斯完全解除武裝之前，以色列不會從加沙撤出任何兵力。
-
----
-
-### 2026-08-09 18:57:07  #國際
-
-內塔尼亞胡：以色列拒絕有關加沙的 15 點檔案。
-
----
-
-### 2026-08-09 18:56:51  #其他
-
-【原位元組跳動機器人一號位加入小米，負責基座模型研發】從多方獨立信源處確認，原位元組跳動機器人團隊負責人孔濤已加盟小米，目前擔任小米機器人基座模型團隊負責人。多位知情人士透露，孔濤於2025年夏天就已加入小米，並帶來不少原先在位元組跳動工作的員工。加入小米機器人之後，孔濤與很多員工都進行了一對一的長談，目的是摸清小米機器人團隊在行業內的大概水準。目前，小米機器人事業部大約有200人。小米機器人事業部對機器人的本體、小腦、大腦，甚至機器人作業系統都有研究，而且不同的部門還會預研同一個方向，比如世界模型。“小米機器人的基座模型團隊很神秘。孔濤帶領的基座模型團隊有單獨的辦公地。小米高管集體在飛書上開會時，孔濤甚至不用露臉。”一位接近小米機器人的知情人士透露。小米機器人事業部對內也屬於高度保密狀態。（21財經）
 
 ---

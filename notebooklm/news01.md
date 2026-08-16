@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:55:17_
-_本檔包含 3033 則快訊，約 600927 字_
+_更新時間：2026-08-16 19:30:04_
+_本檔包含 3034 則快訊，約 601211 字_
+
+---
+
+### 2026-08-16 19:26:43  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Kweichow Moutai earnings below expectations at 13.79 CNY — Kweichow Moutai (600519) released earnings per share at 13.79 CNY, compared to market expectations of 14.78 CNY.
+
+---
+
+### 2026-08-16 19:24:48  #MKT News #Market Regions #Greater China #Market Themes #China Tech Giants #00020.HK #Impact bullish
+
+SenseTime (00020.HK) said it expects to record a 1H net profit of about RMB 500-700 mln, versus a net loss of about RMB 1.48927 bln in the same period last year.
+
+---
+
+### 2026-08-16 19:22:32  #國際
+
+【追蹤經由至關重要的霍爾木茲海峽的貨物流動正變得愈發困難】分析人士表示，由於越來越多的船舶關閉追蹤器透過霍爾木茲海峽，且船對船轉運掩蓋了進入全球市場的原油數量，因此估算經由這一關鍵海峽的航運量正變得愈發困難。該水道的航運量依然低迷，儘管伊朗與阿曼正就該水道進行談判，但目前尚無達成協議的跡象。據知每日透過霍爾木茲海峽的船舶數量從兩三艘到約十來艘不等。其中並非全是油輪；由於伊朗不時發動無人機襲擊，許多船東仍不願使用該海峽。
+
+---
+
+### 2026-08-16 19:22:09  #國際
+
+【葉門政府稱對胡塞武裝發動近200次襲擊】葉門政府軍表示，過去24小時內已對伊朗支援的胡塞武裝發動近200次襲擊。據發言人馬吉德·阿卜杜拉·阿爾-努扎伊利上校稱，葉門軍方“在過去24小時內發動了181次軍事行動，動用了無人機、火炮和火箭炮”。阿爾-努扎伊利聲稱，數十名胡塞武裝分子已死傷。
+
+---
+
+### 2026-08-16 19:21:29  #國際
+
+美國地質調查局：巴布亞紐幾內亞馬當東南偏東 105 公里處發生 5.3 級地震。
+
+---
+
+### 2026-08-16 19:14:38  #公司 #觀點
+
+【中國梅卡曼德機器人公司獲港交所批准】中國機器人公司梅卡曼德機器人向港交所提交了聆訊後的上市檔案。根據檔案，此次發行的聯席保薦人為中信建投國際和中信證券。
+
+---
+
+### 2026-08-16 19:09:33  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran army chief offers $30,000 bounty for capturing or killing US service members】IRIB said on Sunday Iran army chief Amir Hatami announced a $30,000 bounty for capturing or killing US service members. The broadcaster said the payment will be made to any Iranian soldier acting "from the Iranian people".
+
+---
+
+### 2026-08-16 19:09:02  #公司 #市場
+
+【金斯瑞生物科技(01548)釋出中期業績，股東應占虧損1.29億美元 同比收窄29.25%】金斯瑞生物科技(01548)釋出截至2026年6月30日止6個月中期業績，該集團取得收益4.04億美元，同比增加27.35%;本公司擁有人應占虧損1.29億美元，同比收窄29.25%;每股虧損5.92美分。公告稱，收益增加主要由於(i)AI驅動藥物發現及抗體藥發現的行業需求持續上漲，加速“基因至蛋白”業務增長;(ii)CRDMO行業上游需求強勁復蘇，帶動專案承接量增加，產能利用率提升;及(iii)工業酶業務持續擴張，為報告期內銷售額平穩增長作出貢獻。
+
+---
+
+### 2026-08-16 19:08:19  #其他
+
+德國地學研究中心（GFZ）：巴布亞紐幾內亞附近海域發生5.8級地震。
+
+---
+
+### 2026-08-16 19:01:37  #其他
+
+【深汕特別合作區解除雷電預警訊號】雷暴雲團已移出，深圳市氣象臺2026年08月16日19時00分解除深汕特別合作區、深汕海域雷電預警訊號。
+
+---
+
+### 2026-08-16 19:01:27  #宏觀
+
+【“今日籤明日字”作假追蹤：湖南成立調查組 全面排查整改問題隱患 對涉事單位及責任人員依法依規嚴肅追責問責】今年6月，紅星新聞記者隨中央安全生產考核巡查第六組在湖南衡陽開展明查暗訪時，發現並曝光了衡陽市中心老城區雨汙分流改造工程專案道源路施工段存在有限空間作業警示標誌缺失、氣體檢測及作業許可造假等突出問題，發表報道《今日籤明日字，多人簽名筆跡雷同 中央安全生產考核巡查現場揭露弄虛作假》，引發社會廣泛關注。 近日，紅星新聞記者從國務院安委會辦公室獲悉，湖南省已迅速啟動調查處置工作，借鑑事故調查方式開展調查處理，相關問題隱患已全部整改完畢，涉事單位及責任人員被依法依規嚴肅追責問責，同時全省舉一反三開展專項整治，築牢安全生產防線。 （應急管理部）
+
+---
+
+### 2026-08-16 18:59:52  #國際
+
+伊朗議長卡利巴夫：我們在戰爭的軍事和政治層面都取得了勝利，伊朗與美國之間的諒解備忘錄，是我們在外交戰場上鞏固勝利的榮譽與勝利證明。
+
+---
+
+### 2026-08-16 18:58:12  #其他
+
+市場訊息：德國8月17日電價穩定在176.73歐元/兆瓦時。
+
+---
+
+### 2026-08-16 18:56:01  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Walla: U.S. pressure limits Israel's room to respond to Hezbollah, Hamas】Israeli outlet Walla News, citing a security source, said U.S. pressure is constraining Israel’s ability to respond to Hezbollah and Hamas amid ongoing clashes with Lebanon. Israel assesses Hezbollah and Hamas are coordinating with Iran to try to escalate tensions further. Hezbollah is attempting to resupply fighters sheltered in underground positions; Israel’s Northern Command is running a complex intelligence operation to map covert supply routes and monitor drone activity used to deliver supplies to Hezbollah personnel.
+
+---
+
+### 2026-08-16 18:55:22  #其他
+
+【去你的島票房逆跌】據貓眼專業版資料，電影《去你的島》單日票房突破579.19萬，超昨日票房成績，週末票房實現逆跌！截至目前票房已超1.01億。
 
 ---
 
@@ -18227,89 +18317,5 @@ Estonia Unemployment Rate Drops to 6.6% in Q2 — Estonia’s unemployment rate 
 ### 2026-08-14 13:30:44  #Trading Economics #Markets #Indonesia #Currency #Importance 1
 
 Indonesian Rupiah Inches Up, Set for Second Weekly Gain — The Indonesian rupiah edged higher to around IDR 17,830 per U.S. dollar around midday Friday, ending a three-session losing streak and heading for a second straight weekly advance. Sentiment was lifted by President Prabowo’s Independence Day address to parliament, in which he projected GDP growth could reach 6% by year-end, citing continued investment realisation and job creation. The government also plans to reclaim part of state-owned companies’ dividends to build a fiscal buffer and accelerate debt reduction, potentially strengthening fiscal credibility. Focus now turns to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo stepped down last month. Acting Governor Destry Damayanti, now the sole nominee to lead BI, is expected to provide policy continuity. BI has raised its policy rate by 100bps since May to support the rupiah. Globally, the dollar remained subdued as softer U.S. inflation data prompted traders to scale back bets on a Fed rate hike in September.
-
----
-
-### 2026-08-14 13:30:41  #MKT News #Important #Commodities #Industrial Metals
-
-China coking coal main futures contract rose over 3% to 1,361.5 yuan/ton.
-
----
-
-### 2026-08-14 13:30:40  #市場
-
-紐約期銀日內跌2%，現報63.68美元/盎司。
-
----
-
-### 2026-08-14 13:30:22  #市場 #焦點
-
-白銀連續主力合約日內跌3%，現報15561.00元。
-
----
-
-### 2026-08-14 13:29:03  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-China A-share banking sector rallied in the afternoon session; Shanghai Rural Commercial Bank rose over 3%, with Shanghai Bank, Suzhou Bank and Chongqing Rural Commercial Bank also higher.
-
----
-
-### 2026-08-14 13:23:51  #公司
-
-【中國石化等成立能源技術新公司 含換電設施業務】企查查APP顯示，近日，湖州南潯新石能源技術有限公司成立，經營範圍包含新能源汽車換電設施銷售；站用加氫及儲氫設施銷售；機動車充電銷售；機動車修理和維護等。企查查股權穿透顯示，該公司由中國石化旗下中國石化銷售股份有限公司等共同持股。
-
----
-
-### 2026-08-14 13:23:37  #公司 #國際
-
-【SK集團董事長：AI智慧體的使用量五年內可能增長77倍】SK海力士董事長崔泰源週四在公司韓國總部接受了媒體專訪。崔泰源將當前的AI比作一個四歲的孩子，隨著行業逐步成熟，記憶體需求將大幅增長，他並預測AI智慧體的使用量五年內可能增長77倍。
-
----
-
-### 2026-08-14 13:22:43  #其他
-
-【銀行板塊午後震盪回暖 滬農商行漲超3%】銀行板塊午後震盪回暖，滬農商行漲超3%，上海銀行、蘇州銀行、渝農商行等跟漲。
-
----
-
-### 2026-08-14 13:20:14  #MKT News
-
-Local officials said "all situations" at Russia's Ust-Luga port in the Leningrad region following a drone attack have been handled.
-
----
-
-### 2026-08-14 13:20:03  #其他
-
-【榮威家越07首秀：Momenta最新R7世界模型上車，正式開啟盲訂】榮威與火山引擎深度合作的AI原生第一車——家越07正式迎來全球首秀，定位面向中國家庭打造的新能源大五座SUV，即日起正式開啟盲訂。（新浪科技）
-
----
-
-### 2026-08-14 13:19:53  #MKT News #Market Regions #Greater China
-
-A-share Jingtou Development hit an intraday limit-down and traded both limit-down and limit-up levels during the session; turnover nearly CNY 1 bln.
-
----
-
-### 2026-08-14 13:19:31  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量2328億元。
-
----
-
-### 2026-08-14 13:18:17  #Trading Economics #Economy #Finland #Inflation Rate #Importance 1
-
-Finnish Inflation Rate Steady in July — The annual inflation rate in Finland stood at 2.1% in July 2026, unchanged from the previous two months and remaining at its highest level since March 2024. Price growth accelerated for housing and utilities (2.1% vs 1.9% in June), alcoholic beverages and tobacco (4.6% vs 3.4%), information and communication (3.7% vs 1.5%), recreation and culture (1.4% vs 1.2%), and restaurants and accommodation services (2.2% vs 2.1%). In addition, inflation was unchanged for food and non-alcoholic beverages (0.7%) and education (11.5%), while deflation eased for insurance and financial services (-0.5% vs -1.6%). On the other hand, prices moderated for transport (5.8% vs 6.2%), furnishings, household equipment and routine household maintenance (3.3% vs 3.5%), and health (3.5% vs 4.0%). Prices also slipped for clothing and footwear (-1.6% vs 0.8%). On a monthly basis, consumer prices rose 0.2%, rebounding from a 0.2% decline in the previous month.
-
----
-
-### 2026-08-14 13:18:12  #市場
-
-【京投發展上演“天地板”】京投發展盤中跌停，上演“天地板”，現報11.64元，成交額9.26億元。
-
----
-
-### 2026-08-14 13:18:10  #公司
-
-【深藍航天與艾美依航空簽署戰略合作協議】據深藍航天訊息，2026年8月，江蘇深藍航天有限公司與杭州艾美依航空製造裝備有限公司在杭州艾美依航空園區正式簽署戰略合作協議。此次雙方攜手合作是深藍航天構建回收複用液體火箭供應鏈產業生態的重要舉措，也是艾美依依託在航空裝備方面積累優勢進入商業航天製造領域的首個重要合作專案。雙方將重點圍繞液體運載火箭複合材料關鍵結構件製造，以及自動化裝配工藝裝備及生產線兩大方向開展聯合研發，實現技術互補與產業協同。
 
 ---

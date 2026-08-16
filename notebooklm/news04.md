@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:55:17_
-_本檔包含 3029 則快訊，約 600939 字_
+_更新時間：2026-08-16 19:30:04_
+_本檔包含 3041 則快訊，約 600730 字_
+
+---
+
+### 2026-08-12 09:01:22  #MKT News #Macro & Rates
+
+Japan 2-year government bond yield rose 3.0 bps to 1.640%.
+
+---
+
+### 2026-08-12 09:01:19  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened 194.55 points higher, up 0.43%, at 45,315.27 on Wednesday, Aug 12.
+
+---
+
+### 2026-08-12 09:01:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D opened down 0.18% at 951.0 yuan/gram on Aug. 12 (Wednesday) morning; Silver T+D opened down 0.25% at 15,808.0 yuan/kg.
+
+---
+
+### 2026-08-12 09:01:07  #市場 #國際
+
+2年期日本國債收益率上漲3.0個基點，至1.640%。
+
+---
+
+### 2026-08-12 09:00:40  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Steadies Ahead of US CPI Report — Silver steadied near $65 an ounce on Wednesday after declining in the previous session, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, silver remained supported by solid industrial consumption, particularly from expanding solar panel manufacturing and electricity grid development. Recent data showed Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes.
+
+---
+
+### 2026-08-12 09:00:34  #其他
+
+【我國首列雙層大宗散貨鐵海聯運半高箱班列首發】今天（12日），我國首列雙層大宗散貨鐵海聯運半高箱班列在內蒙古包頭萬水泉南站首發，發往河北黃驊港。 班列首次實現半高箱鐵路雙層運輸與海運“無換裝”銜接。原來2.6米高的標準集裝箱，壓縮到1.7米的半高箱，能相容現有港鐵裝卸裝置，實現全程“一箱制”轉運，精簡五次以上中轉工序，單位運輸成本下降超四分之一。為大宗散貨鐵海聯運新增了一種“不換箱、不開箱、一箱到底”的物流新選擇。
+
+---
+
+### 2026-08-12 09:00:30
+
+國內期貨主力合約漲跌不一。燃料油漲超3％，低硫燃料油（LU）漲超2％，焦煤、多晶矽、瀝青、紅棗、焦炭漲超1％。跌幅方面，鈀、鉑、瓶片、紙漿跌超1％，雞蛋跌近1％。
+
+---
+
+### 2026-08-12 09:00:24  #其他
+
+小米汽車 ：2026年7月，小米SU7銷量21,044輛， 連續4個月位列20萬以上轎車銷量第一。
+
+---
+
+### 2026-08-12 09:00:17  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #WTI #Impact bullish #Brent
+
+At the morning open, China's domestic futures main contracts were mixed. Fuel oil rose over 3%; low-sulfur fuel oil (LU) gained more than 2%. Coking coal, polysilicon, asphalt, red dates and coke advanced over 1%. Palladium, platinum, PET bottle chips and pulp fell more than 1%; eggs slipped about 1%.
+
+---
+
+### 2026-08-12 09:00:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+FTSE China A50 index futures opened down 0.15%.
+
+---
+
+### 2026-08-12 09:00:14  #其他
+
+臺灣證交所加權股價指數開高0.1%報45,175.70。
+
+---
+
+### 2026-08-12 09:00:07  #國際
+
+特朗普：在航班變更期間遵循了特勤局的指示。
+
+---
+
+### 2026-08-12 09:00:03  #市場 #焦點
+
+焦煤連續主力合約日內漲2%，現報1477.00元。
+
+---
+
+### 2026-08-12 09:00:03  #市場
+
+【商品期貨開盤】低硫燃料油連續漲2.42%，焦煤連續漲2.29%，多晶矽連續漲1.60%，燃料油連續漲1.35%，瀝青連續漲1.18%。
+
+---
+
+### 2026-08-12 09:00:03  #市場
+
+富時中國A50指數期貨開盤下跌0.15%。
+
+---
+
+### 2026-08-12 08:59:57  #國際
+
+特朗普：我收到了很多威脅。
+
+---
+
+### 2026-08-12 08:59:35  #國際
+
+特朗普：我遵守特勤局和軍方的規定。
+
+---
+
+### 2026-08-12 08:59:29  #國際
+
+特朗普：我靠特勤局保護。
+
+---
+
+### 2026-08-12 08:59:18  #公司
+
+【博深股份等在山東成立新材料科技公司】企查查APP顯示，近日，山東山鐵新材料科技有限公司成立，經營範圍包含新型金屬功能材料銷售；橡膠製品銷售；新興能源技術研發；非金屬礦物製品製造等。企查查股權穿透顯示，該公司由博深股份等共同持股。
+
+---
+
+### 2026-08-12 08:59:00  #國際
+
+特朗普：伊朗局勢良好，我們控制著霍爾木茲海峽。
+
+---
+
+### 2026-08-12 08:58:50  #國際
+
+特朗普：伊朗局勢一切正常。
+
+---
+
+### 2026-08-12 08:58:43  #國際
+
+美國總統特朗普在安德魯斯聯合基地發表講話。
+
+---
+
+### 2026-08-12 08:57:59  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Rise in Post-Holiday Trade — The Nikkei 225 Index rose 0.1% to above 67,000 while the broader Topix Index gained 0.3% to 4,113 in post-holiday trading on Wednesday, extending this week’s advance as technology and financial stocks moved higher. Sentiment toward technology stocks was supported by upbeat outlooks from CoreWeave and Super Micro Computer, with both companies benefiting from the ongoing artificial intelligence spending boom. Notable performers included Kioxia Holdings (2.7%), Advantest (0.8%) and Recruit Holdings (2.6%). Major banks also advanced, including Mitsubishi UFJ (2.2%), Sumitomo Mitsui (2.5%) and Mizuho Financial (1.8%). On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
 
 ---
 
@@ -18234,71 +18372,5 @@ RBNZ released a consultation paper on introducing a prudential tax, proposing a 
 ### 2026-08-11 04:55:52  #MKT News #XAUUSD #Impact bullish #Brent #DXY
 
 【Houthi drone strike kills three soldiers in Shabwah; UN envoy warns of escalation】A Houthi drone attack on the 10th against a government army position in Shabwah province in southeast Yemen killed three soldiers and wounded nine, a government officer said. UN special envoy for Yemen Hans Grundberg said on social media he is deeply concerned by the recent surge in Houthi attacks on government-held areas and warned the latest developments could push Yemen back into full-scale conflict.
-
----
-
-### 2026-08-11 04:52:08  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said AI labs and AI startups need compute capacity.
-
----
-
-### 2026-08-11 04:51:46  #公司
-
-英偉達CEO黃仁勳：人工智慧實驗室及AI初創企業存在算力需求。
-
----
-
-### 2026-08-11 04:51:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said no one has turned down the new AI financing plan.
-
----
-
-### 2026-08-11 04:49:44  #公司
-
-英偉達CEO黃仁勳：對於新一輪人工智慧融資計劃，無人拒絕。
-
----
-
-### 2026-08-11 04:46:52  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500
-
-【Morgan Stanley launches $1.5 trillion US innovation infrastructure initiative focused on AI, semiconductors】Morgan Stanley said it will launch a US Innovation Infrastructure Initiative to mobilize about $1.5 trillion of capital raising, financing, advisory and related investment activity over the next 10 years to support companies, technologies and platforms seen as critical to the US economy and national security. The plan targets AI, advanced computing, quantum, semiconductors, data infrastructure, cybersecurity, aerospace and defense, and critical minerals, and aims to accelerate digital, physical and energy infrastructure buildout by integrating the firm’s investment banking, capital markets, wealth and asset-management capabilities to back firms from startup through scale.
-
----
-
-### 2026-08-11 04:44:57  #公司
-
-【OpenAI回購70億美元員工股份】OpenAI已回購員工約70億美元的公司股份，為未來可能登陸華爾街進行首次公開募股（IPO）做準備。兩名知情人士表示，OpenAI此次要約收購併未尋求外部投資者參與，而是直接從現任和前員工手中回購股份。此次交易對這家AI初創公司的估值達到8520億美元，與其最近一輪融資中的估值保持一致。過去，OpenAI曾邀請Thrive Capital和軟銀集團等投資者購買員工股份。
-
----
-
-### 2026-08-11 04:44:49  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls as Oil Prices Rally — The Ibovespa edged 0.2% lower to close at 172,180 on Monday as oil prices jumped after prospects for an agreement to reopen the Strait of Hormuz weakened. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Higher energy prices reignited inflation concerns, weighing on banks and the broader index. Itaú shed 0.8% and Bradesco lost 0.7%. Axia dropped 2.3% despite brokerages highlighting significant dividend potential and raising their price targets. Petrobras gained 3.3% on higher oil prices, while Vale added 1.3% despite lower iron ore prices. Embraer climbed 2.3% following a better-than-expected 2Q26 earnings report. Itaúsa shed 0.7% ahead of its results, due after the close, while Caixa Seguridade (-2%), Natura (-2.4%), and JBS (-1.7%) are also scheduled to report.
-
----
-
-### 2026-08-11 04:43:59  #MKT News #Market Themes #AI Revolution
-
-【OpenAI completes $7bn employee share buyback ahead of potential IPO】People familiar with the matter say OpenAI has completed a transaction to buy back about $7bn of shares from current and former employees as it prepares for a possible IPO. Sources said the tender did not involve external investors and bought shares directly from employees. The deal values OpenAI at $852bn, matching its most recent financing round. The company had previously invited investors such as Thrive Capital and SoftBank to purchase employee shares.
-
----
-
-### 2026-08-11 04:43:49  #公司 #市場 #國際
-
-美國稀土公司盤後下跌5%，此前公佈第二季度業績並宣佈收購計劃。
-
----
-
-### 2026-08-11 04:42:27  #市場 #國際
-
-【美戰略石油儲備降至3億桶以下 國際油價顯著上漲】國際油價10日顯著上漲，同時美國的戰略石油儲備（SPR）降至3億桶以下，徘徊在20世紀80年代以來的最低水平。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。
-
----
-
-### 2026-08-11 04:37:11  #MKT News
-
-【Fire at Pyeongtaek hazardous-chemicals warehouse storing about 1.91 mln liters】A fire broke out at a single-storey warehouse in Cheongbuk-eup, Pyeongtaek, Gyeonggi Province, South Korea, at about 00:03 on Aug 11. The facility stored Class 4 hazardous chemicals (flammable liquids), estimated at roughly 1.91 mln liters across about 100 different substances. Authorities raised a level-2 emergency response and deployed 56 vehicles and 140 personnel to fight the blaze. No casualties have been confirmed. Officials said they will investigate the cause after the fire is brought under control.
 
 ---

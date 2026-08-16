@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:55:17_
-_本檔包含 2997 則快訊，約 600407 字_
+_更新時間：2026-08-16 19:30:04_
+_本檔包含 2989 則快訊，約 600532 字_
+
+---
+
+### 2026-08-13 11:48:56  #市場
+
+塔塔汽車股價上漲3.9%，此前公佈季度利潤增長。
+
+---
+
+### 2026-08-13 11:48:42  #公司 #市場
+
+【8月13日午間漲停分析】創業板指半日漲1.61%，醫藥、算力概念股集體爆發。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>
+
+---
+
+### 2026-08-13 11:47:27  #公司
+
+【長飛光纖中標中國電信廣東公司1.59億元空芯光纜集採】據長飛光纖訊息，近日，“2026年中國電信廣東公司空芯光纜、G.654.E光纜框架採購專案”中標結果正式公示，長飛光纖以1.59億元（含稅）報價中標100%份額。此次集採是目前國內最大單體空芯光纜採購專案，其定標結果標誌著空芯光纖技術已從試點驗證邁入規模化商用階段。
+
+---
+
+### 2026-08-13 11:46:06  #公司
+
+【滄州明珠：具備生產5u超薄高強隔膜的能力 目前該類產品尚未形成批次供應、批次銷售】滄州明珠(002108)8月13日在互動平臺表示，公司具備生產5u超薄高強隔膜的能力。目前該類產品尚未形成批次供應、批次銷售，針對客戶尚處於小批次試用階段。
+
+---
+
+### 2026-08-13 11:46:04  #國際
+
+【普京首次登上俄日爭議島嶼】據俄羅斯克里姆林宮網站釋出訊息，俄羅斯總統普京今天（8月13日）抵達南千島群島（日本稱“北方四島”）地區視察工作。普京行程的第一站是視察伊圖魯普島上一家水產品加工廠。這是普京首次登上南千島群島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）
+
+---
+
+### 2026-08-13 11:45:06  #其他
+
+【北京3平臺騎手等紅燈將自動補時】記者從北京市市場監督管理局組織的平臺經濟“破卷向善”第二次協商對話會上瞭解到，美團、淘寶閃購、京東外賣三家平臺將率先集中在京落地“紅燈停表”。 記者從會上瞭解到，三家外賣平臺率先集中在北京落地“紅燈停表”（外賣騎手在等紅燈過程中，平臺將為騎手的配送時長“自動補時”，等紅燈多久，補時多久），目前已陸續啟動道路測試及試執行，近期將在朝陽、通州、經開區等部分割槽域上線執行。 （北京日報）
+
+---
+
+### 2026-08-13 11:42:31  #公司
+
+【川潤股份：向特定物件發行股票申請獲深交所受理】川潤股份公告，公司近日收到深交所出具的《關於受理四川川潤股份有限公司向特定物件發行股票申請檔案的通知》（深證上審〔2026〕244號），深交所認為申請檔案齊備，決定予以受理。本次發行事項尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。
+
+---
+
+### 2026-08-13 11:41:45  #MKT News #Star Stocks #Meituan #03690.HK #Impact bullish
+
+【Meituan begins Beijing road test of rider "wait-at-lights" stopwatch】Aug 13 — Meituan (03690.HK) released the first formal version of a rider "wait-at-lights" stopwatch and has begun road testing in Beijing. The delivery safety tech team ran internal tests on select Beijing roads in 1H and built a prototype; the pilot is now live on roads in Chaoyang, Tongzhou and the Beijing Economic-Technological Development Zone where traffic data is integrated. The feature will separately accumulate red-light waiting time and extend delivery ETAs accordingly. Meituan said more than 20 other cities are evaluating the feature; qualified cities will be rolled out progressively.
+
+---
+
+### 2026-08-13 11:41:05  #其他
+
+【美團在京上線“等燈停表”首個正式版本，騎手已在部分路段路測】從美團獲悉，美團今天上線外賣騎手“等燈停表”功能在京首個正式版本，試點區域已開始路測。從多位騎手處證實，首批路測已完成。據悉，今年上半年，美團配送安全技術團隊已在北京部分道路開展產品內測，並搭建產品雛形，為全國各地試點落地提供了範本，目前已在率先接入交通資料的北京朝陽區、通州區、經濟技術開發區的部分道路進行試點路測。北京外賣騎手等紅燈時間，將逐步實現單獨累加計算並在配送時間中順延。（新浪科技）
+
+---
+
+### 2026-08-13 11:40:40  #市場
+
+【國內多家金店金飾價格多數上漲，最高報1340元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數上漲，最高報1340元/克。
+
+---
+
+### 2026-08-13 11:38:17  #市場 #焦點
+
+南向資金淨買入額達50億港元。
+
+---
+
+### 2026-08-13 11:37:44  #公司 #國際
+
+【美防長慫恿美洲反販毒集團聯盟國家退出國際刑事法院】美國國防部長赫格塞思12日表示，拒絕國際刑事法院對美國等國的軍事人員和軍事行動行使管轄權，並慫恿參加美洲反販毒集團聯盟的國家退出該法院。 當天在巴拿馬城舉行的美洲反販毒集團聯盟會議上，赫格塞思為美國在拉美地區針對所謂“販毒恐怖分子”採取的軍事行動進行辯護，稱相關行動符合武裝衝突法。他還聲稱，國際刑事法院欲對美國及其夥伴國家軍事人員和軍事行動行使管轄權的做法“沒有合法依據”，並稱該聯盟的成員應退出國際刑事法院。 美國不是《國際刑事法院羅馬規約》締約國。特朗普政府曾對國際刑事法院有關人員實施制裁。
+
+---
+
+### 2026-08-13 11:36:53  #公司
+
+【軟通動力中標哈電集團財務公司核心業務系統信創升級改造專案】據軟通動力訊息，近日，軟通動力成功中標哈爾濱電氣集團財務有限責任公司核心業務系統信創升級改造專案。
+
+---
+
+### 2026-08-13 11:36:23  #其他
+
+【速賣通全面加碼“海外託管”，上半年新入駐超2萬商家】速賣通當前全面加碼“海外託管”出海模式，正加速招商。2026年上半年，速賣通海外託管模式新入駐商家已超2萬家。海外託管是速賣通目前重點推廣的出海模式，即賣家負責本地備貨發貨；平臺負責定價、營銷、售後等全鏈路經營託管。目前其海外託管已覆蓋全球30多個國家與地區。
+
+---
+
+### 2026-08-13 11:36:20  #Trading Economics #Economy #China #Full Year GDP Growth #Importance 1
+
+PBoC Signals Targeted Support, No Major Easing — The People's Bank of China pledged to roll out “practical and effective” policy support promptly, while avoiding signals of major easing. In its quarterly monetary policy report released Wednesday, the central bank said it will intensify countercyclical adjustments, boost domestic demand, and channel more resources toward technological innovation and smaller firms. It vowed to conduct overnight reverse repo operations more frequently to fine-tune short-term rates, and urged that loans and bond financing be assessed together rather than focusing solely on credit growth. The PBoC noted that capital-heavy sectors like real estate and infrastructure have cooled, while emerging “new productive forces” are more asset-light, reducing traditional loan demand. It also stressed that global monetary recalibration is not a “drastic U-turn,” warning that history shows rapid tightening after massive easing tends to deliver sharper shocks to markets.
 
 ---
 
@@ -17950,143 +18040,5 @@ Xiaomi Auto said SU7 sold 21,044 units in July 2026, marking four consecutive mo
 ### 2026-08-12 09:01:24  #MKT News
 
 【China launches first double‑deck bulk rail‑sea intermodal half‑height container train】Today (12th) China launched its first double‑deck bulk rail‑sea intermodal half‑height container train from Baotou Wanshuiquan South station, Inner Mongolia, to Huanghua port, Hebei. The service links double‑deck rail transport with sea shipping without re‑boxing: standard 2.6m containers are compressed to 1.7m half‑height units compatible with existing port‑rail handling, enabling single‑box end‑to‑end transfer, cutting more than five transshipment steps and reducing unit transport cost by over 25%. The operator describes the option as a no‑rebox, no‑open, one‑box‑through logistics solution for bulk cargo.
-
----
-
-### 2026-08-12 09:01:22  #MKT News #Macro & Rates
-
-Japan 2-year government bond yield rose 3.0 bps to 1.640%.
-
----
-
-### 2026-08-12 09:01:19  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 194.55 points higher, up 0.43%, at 45,315.27 on Wednesday, Aug 12.
-
----
-
-### 2026-08-12 09:01:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange Gold T+D opened down 0.18% at 951.0 yuan/gram on Aug. 12 (Wednesday) morning; Silver T+D opened down 0.25% at 15,808.0 yuan/kg.
-
----
-
-### 2026-08-12 09:01:07  #市場 #國際
-
-2年期日本國債收益率上漲3.0個基點，至1.640%。
-
----
-
-### 2026-08-12 09:00:40  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Steadies Ahead of US CPI Report — Silver steadied near $65 an ounce on Wednesday after declining in the previous session, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, silver remained supported by solid industrial consumption, particularly from expanding solar panel manufacturing and electricity grid development. Recent data showed Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes.
-
----
-
-### 2026-08-12 09:00:34  #其他
-
-【我國首列雙層大宗散貨鐵海聯運半高箱班列首發】今天（12日），我國首列雙層大宗散貨鐵海聯運半高箱班列在內蒙古包頭萬水泉南站首發，發往河北黃驊港。 班列首次實現半高箱鐵路雙層運輸與海運“無換裝”銜接。原來2.6米高的標準集裝箱，壓縮到1.7米的半高箱，能相容現有港鐵裝卸裝置，實現全程“一箱制”轉運，精簡五次以上中轉工序，單位運輸成本下降超四分之一。為大宗散貨鐵海聯運新增了一種“不換箱、不開箱、一箱到底”的物流新選擇。
-
----
-
-### 2026-08-12 09:00:30
-
-國內期貨主力合約漲跌不一。燃料油漲超3％，低硫燃料油（LU）漲超2％，焦煤、多晶矽、瀝青、紅棗、焦炭漲超1％。跌幅方面，鈀、鉑、瓶片、紙漿跌超1％，雞蛋跌近1％。
-
----
-
-### 2026-08-12 09:00:24  #其他
-
-小米汽車 ：2026年7月，小米SU7銷量21,044輛， 連續4個月位列20萬以上轎車銷量第一。
-
----
-
-### 2026-08-12 09:00:17  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #WTI #Impact bullish #Brent
-
-At the morning open, China's domestic futures main contracts were mixed. Fuel oil rose over 3%; low-sulfur fuel oil (LU) gained more than 2%. Coking coal, polysilicon, asphalt, red dates and coke advanced over 1%. Palladium, platinum, PET bottle chips and pulp fell more than 1%; eggs slipped about 1%.
-
----
-
-### 2026-08-12 09:00:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-FTSE China A50 index futures opened down 0.15%.
-
----
-
-### 2026-08-12 09:00:14  #其他
-
-臺灣證交所加權股價指數開高0.1%報45,175.70。
-
----
-
-### 2026-08-12 09:00:07  #國際
-
-特朗普：在航班變更期間遵循了特勤局的指示。
-
----
-
-### 2026-08-12 09:00:03  #市場 #焦點
-
-焦煤連續主力合約日內漲2%，現報1477.00元。
-
----
-
-### 2026-08-12 09:00:03  #市場
-
-【商品期貨開盤】低硫燃料油連續漲2.42%，焦煤連續漲2.29%，多晶矽連續漲1.60%，燃料油連續漲1.35%，瀝青連續漲1.18%。
-
----
-
-### 2026-08-12 09:00:03  #市場
-
-富時中國A50指數期貨開盤下跌0.15%。
-
----
-
-### 2026-08-12 08:59:57  #國際
-
-特朗普：我收到了很多威脅。
-
----
-
-### 2026-08-12 08:59:35  #國際
-
-特朗普：我遵守特勤局和軍方的規定。
-
----
-
-### 2026-08-12 08:59:29  #國際
-
-特朗普：我靠特勤局保護。
-
----
-
-### 2026-08-12 08:59:18  #公司
-
-【博深股份等在山東成立新材料科技公司】企查查APP顯示，近日，山東山鐵新材料科技有限公司成立，經營範圍包含新型金屬功能材料銷售；橡膠製品銷售；新興能源技術研發；非金屬礦物製品製造等。企查查股權穿透顯示，該公司由博深股份等共同持股。
-
----
-
-### 2026-08-12 08:59:00  #國際
-
-特朗普：伊朗局勢良好，我們控制著霍爾木茲海峽。
-
----
-
-### 2026-08-12 08:58:50  #國際
-
-特朗普：伊朗局勢一切正常。
-
----
-
-### 2026-08-12 08:58:43  #國際
-
-美國總統特朗普在安德魯斯聯合基地發表講話。
-
----
-
-### 2026-08-12 08:57:59  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Rise in Post-Holiday Trade — The Nikkei 225 Index rose 0.1% to above 67,000 while the broader Topix Index gained 0.3% to 4,113 in post-holiday trading on Wednesday, extending this week’s advance as technology and financial stocks moved higher. Sentiment toward technology stocks was supported by upbeat outlooks from CoreWeave and Super Micro Computer, with both companies benefiting from the ongoing artificial intelligence spending boom. Notable performers included Kioxia Holdings (2.7%), Advantest (0.8%) and Recruit Holdings (2.6%). Major banks also advanced, including Mitsubishi UFJ (2.2%), Sumitomo Mitsui (2.5%) and Mizuho Financial (1.8%). On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
 
 ---

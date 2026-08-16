@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 18:55:17_
-_本檔包含 3176 則快訊，約 601468 字_
+_更新時間：2026-08-16 19:30:04_
+_本檔包含 3175 則快訊，約 600353 字_
+
+---
+
+### 2026-08-14 13:30:41  #MKT News #Important #Commodities #Industrial Metals
+
+China coking coal main futures contract rose over 3% to 1,361.5 yuan/ton.
+
+---
+
+### 2026-08-14 13:30:40  #市場
+
+紐約期銀日內跌2%，現報63.68美元/盎司。
+
+---
+
+### 2026-08-14 13:30:22  #市場 #焦點
+
+白銀連續主力合約日內跌3%，現報15561.00元。
+
+---
+
+### 2026-08-14 13:29:03  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+China A-share banking sector rallied in the afternoon session; Shanghai Rural Commercial Bank rose over 3%, with Shanghai Bank, Suzhou Bank and Chongqing Rural Commercial Bank also higher.
+
+---
+
+### 2026-08-14 13:23:51  #公司
+
+【中國石化等成立能源技術新公司 含換電設施業務】企查查APP顯示，近日，湖州南潯新石能源技術有限公司成立，經營範圍包含新能源汽車換電設施銷售；站用加氫及儲氫設施銷售；機動車充電銷售；機動車修理和維護等。企查查股權穿透顯示，該公司由中國石化旗下中國石化銷售股份有限公司等共同持股。
+
+---
+
+### 2026-08-14 13:23:37  #公司 #國際
+
+【SK集團董事長：AI智慧體的使用量五年內可能增長77倍】SK海力士董事長崔泰源週四在公司韓國總部接受了媒體專訪。崔泰源將當前的AI比作一個四歲的孩子，隨著行業逐步成熟，記憶體需求將大幅增長，他並預測AI智慧體的使用量五年內可能增長77倍。
+
+---
+
+### 2026-08-14 13:22:43  #其他
+
+【銀行板塊午後震盪回暖 滬農商行漲超3%】銀行板塊午後震盪回暖，滬農商行漲超3%，上海銀行、蘇州銀行、渝農商行等跟漲。
+
+---
+
+### 2026-08-14 13:20:14  #MKT News
+
+Local officials said "all situations" at Russia's Ust-Luga port in the Leningrad region following a drone attack have been handled.
+
+---
+
+### 2026-08-14 13:20:03  #其他
+
+【榮威家越07首秀：Momenta最新R7世界模型上車，正式開啟盲訂】榮威與火山引擎深度合作的AI原生第一車——家越07正式迎來全球首秀，定位面向中國家庭打造的新能源大五座SUV，即日起正式開啟盲訂。（新浪科技）
+
+---
+
+### 2026-08-14 13:19:53  #MKT News #Market Regions #Greater China
+
+A-share Jingtou Development hit an intraday limit-down and traded both limit-down and limit-up levels during the session; turnover nearly CNY 1 bln.
+
+---
+
+### 2026-08-14 13:19:31  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時縮量2328億元。
+
+---
+
+### 2026-08-14 13:18:17  #Trading Economics #Economy #Finland #Inflation Rate #Importance 1
+
+Finnish Inflation Rate Steady in July — The annual inflation rate in Finland stood at 2.1% in July 2026, unchanged from the previous two months and remaining at its highest level since March 2024. Price growth accelerated for housing and utilities (2.1% vs 1.9% in June), alcoholic beverages and tobacco (4.6% vs 3.4%), information and communication (3.7% vs 1.5%), recreation and culture (1.4% vs 1.2%), and restaurants and accommodation services (2.2% vs 2.1%). In addition, inflation was unchanged for food and non-alcoholic beverages (0.7%) and education (11.5%), while deflation eased for insurance and financial services (-0.5% vs -1.6%). On the other hand, prices moderated for transport (5.8% vs 6.2%), furnishings, household equipment and routine household maintenance (3.3% vs 3.5%), and health (3.5% vs 4.0%). Prices also slipped for clothing and footwear (-1.6% vs 0.8%). On a monthly basis, consumer prices rose 0.2%, rebounding from a 0.2% decline in the previous month.
+
+---
+
+### 2026-08-14 13:18:12  #市場
+
+【京投發展上演“天地板”】京投發展盤中跌停，上演“天地板”，現報11.64元，成交額9.26億元。
+
+---
+
+### 2026-08-14 13:18:10  #公司
+
+【深藍航天與艾美依航空簽署戰略合作協議】據深藍航天訊息，2026年8月，江蘇深藍航天有限公司與杭州艾美依航空製造裝備有限公司在杭州艾美依航空園區正式簽署戰略合作協議。此次雙方攜手合作是深藍航天構建回收複用液體火箭供應鏈產業生態的重要舉措，也是艾美依依託在航空裝備方面積累優勢進入商業航天製造領域的首個重要合作專案。雙方將重點圍繞液體運載火箭複合材料關鍵結構件製造，以及自動化裝配工藝裝備及生產線兩大方向開展聯合研發，實現技術互補與產業協同。
 
 ---
 
@@ -19035,95 +19119,5 @@ Palm Oil Extends Losses, Trades Below MYR 4,700 — Malaysian palm oil futures s
 ### 2026-08-13 11:49:06  #Trading Economics #Markets #Commodity #Importance 1
 
 Copper Slips as China Demand Slows — Copper futures fell below $6.55 per pound on Thursday, reaching an over one-week low as elevated prices weakened demand and discouraged buyers in top consumer China. The Yangshan premium, which reflects the premium paid above the benchmark LME copper price for refined copper imported into China, declined to $96 per ton after reaching $115 a ton last month. However, concerns over tightening supply continued to underpin prices amid expectations for constrained global mine output. Chilean state-owned miner Codelco reportedly expects lower copper production this year as it faces setbacks at its mines and development projects. The company has abandoned its previous target of producing 1.34 million metric tons this year, compared with last year’s revised output of 1.307 million tons. Traders also remained cautious about potential US import tariffs on copper, which have continued to divert metal away from international markets and into US warehouses.
-
----
-
-### 2026-08-13 11:48:56  #市場
-
-塔塔汽車股價上漲3.9%，此前公佈季度利潤增長。
-
----
-
-### 2026-08-13 11:48:42  #公司 #市場
-
-【8月13日午間漲停分析】創業板指半日漲1.61%，醫藥、算力概念股集體爆發。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>
-
----
-
-### 2026-08-13 11:47:27  #公司
-
-【長飛光纖中標中國電信廣東公司1.59億元空芯光纜集採】據長飛光纖訊息，近日，“2026年中國電信廣東公司空芯光纜、G.654.E光纜框架採購專案”中標結果正式公示，長飛光纖以1.59億元（含稅）報價中標100%份額。此次集採是目前國內最大單體空芯光纜採購專案，其定標結果標誌著空芯光纖技術已從試點驗證邁入規模化商用階段。
-
----
-
-### 2026-08-13 11:46:06  #公司
-
-【滄州明珠：具備生產5u超薄高強隔膜的能力 目前該類產品尚未形成批次供應、批次銷售】滄州明珠(002108)8月13日在互動平臺表示，公司具備生產5u超薄高強隔膜的能力。目前該類產品尚未形成批次供應、批次銷售，針對客戶尚處於小批次試用階段。
-
----
-
-### 2026-08-13 11:46:04  #國際
-
-【普京首次登上俄日爭議島嶼】據俄羅斯克里姆林宮網站釋出訊息，俄羅斯總統普京今天（8月13日）抵達南千島群島（日本稱“北方四島”）地區視察工作。普京行程的第一站是視察伊圖魯普島上一家水產品加工廠。這是普京首次登上南千島群島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）
-
----
-
-### 2026-08-13 11:45:06  #其他
-
-【北京3平臺騎手等紅燈將自動補時】記者從北京市市場監督管理局組織的平臺經濟“破卷向善”第二次協商對話會上瞭解到，美團、淘寶閃購、京東外賣三家平臺將率先集中在京落地“紅燈停表”。 記者從會上瞭解到，三家外賣平臺率先集中在北京落地“紅燈停表”（外賣騎手在等紅燈過程中，平臺將為騎手的配送時長“自動補時”，等紅燈多久，補時多久），目前已陸續啟動道路測試及試執行，近期將在朝陽、通州、經開區等部分割槽域上線執行。 （北京日報）
-
----
-
-### 2026-08-13 11:42:31  #公司
-
-【川潤股份：向特定物件發行股票申請獲深交所受理】川潤股份公告，公司近日收到深交所出具的《關於受理四川川潤股份有限公司向特定物件發行股票申請檔案的通知》（深證上審〔2026〕244號），深交所認為申請檔案齊備，決定予以受理。本次發行事項尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。
-
----
-
-### 2026-08-13 11:41:45  #MKT News #Star Stocks #Meituan #03690.HK #Impact bullish
-
-【Meituan begins Beijing road test of rider "wait-at-lights" stopwatch】Aug 13 — Meituan (03690.HK) released the first formal version of a rider "wait-at-lights" stopwatch and has begun road testing in Beijing. The delivery safety tech team ran internal tests on select Beijing roads in 1H and built a prototype; the pilot is now live on roads in Chaoyang, Tongzhou and the Beijing Economic-Technological Development Zone where traffic data is integrated. The feature will separately accumulate red-light waiting time and extend delivery ETAs accordingly. Meituan said more than 20 other cities are evaluating the feature; qualified cities will be rolled out progressively.
-
----
-
-### 2026-08-13 11:41:05  #其他
-
-【美團在京上線“等燈停表”首個正式版本，騎手已在部分路段路測】從美團獲悉，美團今天上線外賣騎手“等燈停表”功能在京首個正式版本，試點區域已開始路測。從多位騎手處證實，首批路測已完成。據悉，今年上半年，美團配送安全技術團隊已在北京部分道路開展產品內測，並搭建產品雛形，為全國各地試點落地提供了範本，目前已在率先接入交通資料的北京朝陽區、通州區、經濟技術開發區的部分道路進行試點路測。北京外賣騎手等紅燈時間，將逐步實現單獨累加計算並在配送時間中順延。（新浪科技）
-
----
-
-### 2026-08-13 11:40:40  #市場
-
-【國內多家金店金飾價格多數上漲，最高報1340元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數上漲，最高報1340元/克。
-
----
-
-### 2026-08-13 11:38:17  #市場 #焦點
-
-南向資金淨買入額達50億港元。
-
----
-
-### 2026-08-13 11:37:44  #公司 #國際
-
-【美防長慫恿美洲反販毒集團聯盟國家退出國際刑事法院】美國國防部長赫格塞思12日表示，拒絕國際刑事法院對美國等國的軍事人員和軍事行動行使管轄權，並慫恿參加美洲反販毒集團聯盟的國家退出該法院。 當天在巴拿馬城舉行的美洲反販毒集團聯盟會議上，赫格塞思為美國在拉美地區針對所謂“販毒恐怖分子”採取的軍事行動進行辯護，稱相關行動符合武裝衝突法。他還聲稱，國際刑事法院欲對美國及其夥伴國家軍事人員和軍事行動行使管轄權的做法“沒有合法依據”，並稱該聯盟的成員應退出國際刑事法院。 美國不是《國際刑事法院羅馬規約》締約國。特朗普政府曾對國際刑事法院有關人員實施制裁。
-
----
-
-### 2026-08-13 11:36:53  #公司
-
-【軟通動力中標哈電集團財務公司核心業務系統信創升級改造專案】據軟通動力訊息，近日，軟通動力成功中標哈爾濱電氣集團財務有限責任公司核心業務系統信創升級改造專案。
-
----
-
-### 2026-08-13 11:36:23  #其他
-
-【速賣通全面加碼“海外託管”，上半年新入駐超2萬商家】速賣通當前全面加碼“海外託管”出海模式，正加速招商。2026年上半年，速賣通海外託管模式新入駐商家已超2萬家。海外託管是速賣通目前重點推廣的出海模式，即賣家負責本地備貨發貨；平臺負責定價、營銷、售後等全鏈路經營託管。目前其海外託管已覆蓋全球30多個國家與地區。
-
----
-
-### 2026-08-13 11:36:20  #Trading Economics #Economy #China #Full Year GDP Growth #Importance 1
-
-PBoC Signals Targeted Support, No Major Easing — The People's Bank of China pledged to roll out “practical and effective” policy support promptly, while avoiding signals of major easing. In its quarterly monetary policy report released Wednesday, the central bank said it will intensify countercyclical adjustments, boost domestic demand, and channel more resources toward technological innovation and smaller firms. It vowed to conduct overnight reverse repo operations more frequently to fine-tune short-term rates, and urged that loans and bond financing be assessed together rather than focusing solely on credit growth. The PBoC noted that capital-heavy sectors like real estate and infrastructure have cooled, while emerging “new productive forces” are more asset-light, reducing traditional loan demand. It also stressed that global monetary recalibration is not a “drastic U-turn,” warning that history shows rapid tightening after massive easing tends to deliver sharper shocks to markets.
 
 ---
