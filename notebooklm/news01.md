@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:32:10_
-_本檔包含 3088 則快訊，約 601548 字_
+_更新時間：2026-08-17 04:55:04_
+_本檔包含 3088 則快訊，約 601055 字_
+
+---
+
+### 2026-08-17 04:49:17  #公司 #國際
+
+【美國針對馬克·沃爾特的調查聚焦四家中介機構】美國聯邦調查人員調查馬克·沃爾特，重點鎖定四家機構。這四家機構充當中介，處理古根海姆合夥公司執行長旗下保險企業，向其商業版圖內其他公司發放的貸款。美國聯邦檢察官與美國證券交易委員會正在調查，沃爾特及其控制的企業是否存在欺詐行為：即在從保險機構借入數十億美元的過程中隱瞞資金關聯關係。調查人員現已將調查範圍收縮至總部位於邁阿密的ABS Capital、投資機構Amistad Financial、商業地產經紀商布拉德福德·艾倫以及哈德遜貿易公司。
+
+---
+
+### 2026-08-17 04:44:55  #國際
+
+美國媒體：由於特朗普政府未能妥善應對其對伊朗發動的戰爭，美國在波斯灣地區的盟友日益感到憤怒與失望。
+
+---
+
+### 2026-08-17 04:33:40  #MKT News
+
+US President Trump said he had "a great weekend" and held "many meetings."
 
 ---
 
@@ -18619,23 +18637,5 @@ Czech National Bank minutes: the governor said June’s rate hike further tighte
 ### 2026-08-14 15:01:59  #MKT News #Market Regions #Greater China #IF #Impact bearish #IH #IC
 
 【Equity index futures midday close】China's CSI 300 index futures (IF) most-active contract fell 0.36% at the midday close; SSE 50 futures (IH) fell 0.61%; CSI 500 futures (IC) fell 0.59%; CSI 1000 futures (IM) fell 0.16%.
-
----
-
-### 2026-08-14 15:01:51  #宏觀 #焦點
-
-【油價迎年內第5次下調 加一箱油將少花9元】據國家發改委訊息，自8月14日24時起，國內汽、柴油(標準品)價格每噸分別下調230元、220元。本輪是成品油價格迎來的年內第五次下調。據機構測算，此次下調摺合92號汽油每升下調0.18元，95號汽油每升下調0.19元，0號柴油每升下調0.19元。以油箱容量50L的普通私家車計算，車主加滿一箱92號汽油將省9元左右。（中新網）
-
----
-
-### 2026-08-14 15:01:32  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bearish
-
-Midday close: Chinese onshore main futures contracts were mixed. Coking coal rose more than 4%; rapeseed oil gained over 3%; low-sulfur fuel oil (LU) and lithium carbonate were up nearly 3%. Fuel oil, benzene, polysilicon, industrial silicon, methanol and styrene (EB) advanced more than 2%. On the downside, palladium fell over 3%; Shanghai silver and stainless steel (SS) declined more than 2%; platinum, Shanghai gold, Shanghai nickel, foundry aluminum and Shanghai aluminum slipped over 1%.
-
----
-
-### 2026-08-14 15:01:29  #市場
-
-【ETF收評：通訊ETF領漲3.71%，港股創新藥ETF領跌2.64%】ETF收盤漲跌不一，通訊ETF（159695）領漲3.71%，通訊ETF（515880）漲3.60%，通訊ETF（159507）漲3.60%，港股創新藥ETF（513780）領跌2.64%，港股通創新藥醫療ETF（159506）跌2.63%，恒生生物科技ETF（159132）跌2.57%。
 
 ---

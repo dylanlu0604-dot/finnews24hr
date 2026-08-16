@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:32:10_
-_本檔包含 3055 則快訊，約 600935 字_
+_更新時間：2026-08-17 04:55:04_
+_本檔包含 3055 則快訊，約 601039 字_
+
+---
+
+### 2026-08-12 10:30:59  #國際
+
+【日本內閣或於9月中旬或之後改組】據知情人士稱，日本首相高市早苗內閣可能在9月中旬或之後改組。此次改組預計不太可能調整內閣官房長官、財務大臣和經濟產業大臣等關鍵職位。
+
+---
+
+### 2026-08-12 10:28:57  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Copper
+
+China A-share photovoltaic and energy-storage sectors strengthened in choppy trade; Jinchen, Tianyang New Materials and Jianghe hit daily price limits, while Ailuo Energy, Shenghong, Deye and GoodWe were among the top gainers.
+
+---
+
+### 2026-08-12 10:28:16  #公司 #市場
+
+【PEEK材料概念震盪反彈，兄弟科技漲停】PEEK材料概念震盪反彈，兄弟科技漲停，唯科科技、雅運股份、富恆新材、超捷股份、興瑞科技、崇德科技等跟漲。
+
+---
+
+### 2026-08-12 10:27:28  #市場 #國際
+
+【咖哩豬排指數顯示日元嚴重低估 建立人稱比大麥克指數更貼切】隨著當局干預匯市的影響正在消退，紐約梅隆銀行高階策略師Geoff Yu利用日本一道快餐主食的價格，以準確衡量日元的疲軟程度。Yu建立了咖哩豬排指數，作為《經濟學人》大麥克指數(Big Mac Index)的替代指標。他認為，相較於大麥克這種漢堡，比較咖哩豬排飯的國際價格，更能反映日元貶值對日本民眾究竟是什麼感受。週三上午的全球外匯市場上，1美元約兌159.23日元。但根據Yu的計算，在考量咖哩餐點價格反映的日元購買力後，1美元應該只能兌62.18日元。這意味著，外匯市場正大幅低估日元。相較之下，基於麥當勞漢堡各國價格的大麥克指數顯示，1美元應該可以兌換80.30日元。Yu說，如果目標是讓購買力向高收入國家看齊，這項指數顯示，日元需要更為強勁。他採用全球最大咖哩飯連鎖店CoCo壹番屋的價格計算，該公司在全球擁有約1500家分店。
+
+---
+
+### 2026-08-12 10:27:22  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Stocks Rebound — Indonesian shares rose 51 points or 0.8% to 6,319 in early deals on Wednesday, halting losses in the prior two sessions amid widespread gains across major sectors led by infrastructure, energy, basic materials, and cyclicals. sentiment improved following fresh data showing July car sales surged 33%, hinting at recovery in the automotive sector. Traders also took note of President Prabowo’s nomination of acting BI Governor Destry Damayanti as the sole candidate to succeed Perry Warjiyo, a move seen as providing policy continuity. Still, upside was tempered by overnight weakness on Wall Street and caution ahead of MSCI’s August 2026 Review later today, with rebalancing effective after August 31. Domestic concerns also lingered as retail sales fell for a third straight month in June, weighed by softness in discretionary categories. Standout movers included Indosat (8.4%), Petrindo Jaya Kreasi (5.6%), Bumi Resources (2.8%), and Japfa Comfeed (1.8%).
+
+---
+
+### 2026-08-12 10:26:55  #MKT News
+
+【National flood control headquarters, Ministry of Emergency Management raise Henan flood-response to level 3】China’s National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management raised Henan’s flood-control emergency response from level 4 to level 3 at 09:00 on August 12. On August 11 central-eastern Henan saw heavy to very heavy rain, with extreme rainfall reported in Pingdingshan and Luoyang. Meteorological forecasts show heavy to very heavy rain from August 12–15 across central‑west and southern Huanghuai and southern North China; parts of central and western Henan along mountain areas may experience extremely heavy rainfall.
 
 ---
 
@@ -18386,41 +18422,5 @@ SK海力士股價下跌2.6%。
 ### 2026-08-11 08:23:47  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite #SZSE Component
 
 【CSC Financial: Yushu IPO priced above expectations, positive for robotics sector】CSC Financial said Yushu’s IPO priced at 150.80 yuan/share, implying an issuance market value of about 61.0 bln yuan — above prior expectations and likely to trigger valuation repricing among robotics hardware makers. Domestic suppliers are accelerating multi-dimensional capability builds ("brain", "cerebellum", "body") and expanding industrial and commercial deployments; shipment volumes are rising and broader application scenarios should follow as robots generalize. The firm calls physical AI the next AI wave and identifies robots as a primary physical carrier. Catalysts to watch: Optimus V3 release and mass-production progress, new domestic robot product launches, further robotics IPOs and application rollouts. Recommends focusing on high-quality segments of the value chain.
-
----
-
-### 2026-08-11 08:23:44  #市場 #焦點
-
-紐約期金突破4470美元/盎司，日內漲1.14%。
-
----
-
-### 2026-08-11 08:22:34  #公司
-
-【智利國家銅業公司首次獲准將財年利潤用於再投資，旨在維持運營、緩解債務負擔】8月10日，智利國家銅業公司（Codelco）宣佈與智利政府達成歷史性協議，首次允許該公司將2025財年的24.22億美元利潤全部資本化，而不是上繳國庫。智利國家銅業公司計劃將這筆資金用於維持運營和專案組合，減少額外舉債需求。該公司表示，未來幾個月將推出一項戰略復甦計劃。
-
----
-
-### 2026-08-11 08:22:18  #公司 #觀點
-
-【中信建投：宇樹IPO定價超出預期利好機器人板塊】8月11日，中信建投證券最新研報指出，宇樹IPO定價超出預期，有望帶動本體廠商估值重塑。宇樹IPO定價150.80元/股，對應發行市值約610億元，超出此前預期，有望帶動本體廠商估值重塑。國產鏈廠商積極推動“大腦”、“小腦”、“本體”等多維度能力建設，積極探索在工業、商業等多場景落地應用，出貨量規模持續擴大；隨著機器人泛化水平提高，預計其落地場景將進一步擴大。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，產業發展趨勢明確。後續Optimus V3釋出及量產進展、國產機器人新品釋出、機器人公司IPO推進、應用落地將持續為板塊行情帶來催化，建議聚焦優質環節。
-
----
-
-### 2026-08-11 08:21:41  #Trading Economics #Economy #Ireland #Construction PMI #Importance 1
-
-Irish Construction Returns to Growth in July — The AIB Ireland Construction PMI rose to 53.0 in July 2026 from 45.4 in June, signaling a solid rebound in construction activity after the sharp contraction in the previous month. The recovery was broad-based, with all three sectors expanding for the first time in 15 months. Commercial construction led the upturn, while residential activity returned to growth after three months of contraction and civil engineering expanded for the first time since April 2025. New orders also increased following a marked decline in June, although the rise was only slight amid a scarcity of tender opportunities. Employment grew for a ninth consecutive month at a faster pace, while firms also increased their use of subcontractors. Input cost inflation eased to a five-month low, although costs continued to rise rapidly, while supply-chain disruptions persisted due to international shipping issues. Business confidence strengthened for a third consecutive month to a four-month high.
-
----
-
-### 2026-08-11 08:19:35  #觀點 #國際
-
-【摩根大通將保持在亞洲的招聘步伐 此前其企業銀行業務增長率超過20%】摩根大通亞太區負責人表示，鑑於該行今年在亞太地區的企業銀行收入增幅遠超20%，2027年該行將在亞太地區以類似的速度繼續招聘。摩根大通新加坡辦公室的奧利弗·布林克曼（Oliver Brinkmann）和克溫·克萊頓（Kerwin Clayton）在接受媒體採訪時表示，繼2025年將亞太地區企業銀行團隊規模擴大20%之後，這家美國銀行今年即將完成該地區企業銀行員工規模約15%的增員計劃。據高管們透露，此次招聘將涵蓋服務於大中型企業、創新經濟、金融機構及非銀行金融機構的團隊。“我們計劃在2027年以類似的速度繼續招聘，”克萊頓表示。“這涉及我們所有的業務領域。雖然各地區情況有所不同，但涉及的國家很多。”得益於亞洲企業海外擴張以及人工智慧、資料中心和供應鏈領域的投資增加，摩根大通亞太地區的企業銀行業務今年迄今的增長率已遠超20%。“今年的增長勢頭更為強勁，”布林克曼表示，“在亞太地區及所有行業領域，增長率均遠超20%。”
-
----
-
-### 2026-08-11 08:17:40  #MKT News #Market Themes #AI Revolution #RIOT.O #Impact bullish
-
-【Sources: Anthropic agrees $9.1 bln deal with Riot Platforms】Sources say Anthropic PBC has agreed a $9.1 bln deal with cloud-compute provider Riot Platforms. Riot, which has begun selling AI data-center capacity, disclosed on Monday a 20-year agreement to supply 191 MW from its Rockdale, Texas campus; sources identified the counterparty as Anthropic.
 
 ---

@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:32:10_
-_本檔包含 2939 則快訊，約 601436 字_
+_更新時間：2026-08-17 04:55:04_
+_本檔包含 2934 則快訊，約 600799 字_
+
+---
+
+### 2026-08-11 08:23:44  #市場 #焦點
+
+紐約期金突破4470美元/盎司，日內漲1.14%。
+
+---
+
+### 2026-08-11 08:22:34  #公司
+
+【智利國家銅業公司首次獲准將財年利潤用於再投資，旨在維持運營、緩解債務負擔】8月10日，智利國家銅業公司（Codelco）宣佈與智利政府達成歷史性協議，首次允許該公司將2025財年的24.22億美元利潤全部資本化，而不是上繳國庫。智利國家銅業公司計劃將這筆資金用於維持運營和專案組合，減少額外舉債需求。該公司表示，未來幾個月將推出一項戰略復甦計劃。
+
+---
+
+### 2026-08-11 08:22:18  #公司 #觀點
+
+【中信建投：宇樹IPO定價超出預期利好機器人板塊】8月11日，中信建投證券最新研報指出，宇樹IPO定價超出預期，有望帶動本體廠商估值重塑。宇樹IPO定價150.80元/股，對應發行市值約610億元，超出此前預期，有望帶動本體廠商估值重塑。國產鏈廠商積極推動“大腦”、“小腦”、“本體”等多維度能力建設，積極探索在工業、商業等多場景落地應用，出貨量規模持續擴大；隨著機器人泛化水平提高，預計其落地場景將進一步擴大。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，產業發展趨勢明確。後續Optimus V3釋出及量產進展、國產機器人新品釋出、機器人公司IPO推進、應用落地將持續為板塊行情帶來催化，建議聚焦優質環節。
+
+---
+
+### 2026-08-11 08:21:41  #Trading Economics #Economy #Ireland #Construction PMI #Importance 1
+
+Irish Construction Returns to Growth in July — The AIB Ireland Construction PMI rose to 53.0 in July 2026 from 45.4 in June, signaling a solid rebound in construction activity after the sharp contraction in the previous month. The recovery was broad-based, with all three sectors expanding for the first time in 15 months. Commercial construction led the upturn, while residential activity returned to growth after three months of contraction and civil engineering expanded for the first time since April 2025. New orders also increased following a marked decline in June, although the rise was only slight amid a scarcity of tender opportunities. Employment grew for a ninth consecutive month at a faster pace, while firms also increased their use of subcontractors. Input cost inflation eased to a five-month low, although costs continued to rise rapidly, while supply-chain disruptions persisted due to international shipping issues. Business confidence strengthened for a third consecutive month to a four-month high.
+
+---
+
+### 2026-08-11 08:19:35  #觀點 #國際
+
+【摩根大通將保持在亞洲的招聘步伐 此前其企業銀行業務增長率超過20%】摩根大通亞太區負責人表示，鑑於該行今年在亞太地區的企業銀行收入增幅遠超20%，2027年該行將在亞太地區以類似的速度繼續招聘。摩根大通新加坡辦公室的奧利弗·布林克曼（Oliver Brinkmann）和克溫·克萊頓（Kerwin Clayton）在接受媒體採訪時表示，繼2025年將亞太地區企業銀行團隊規模擴大20%之後，這家美國銀行今年即將完成該地區企業銀行員工規模約15%的增員計劃。據高管們透露，此次招聘將涵蓋服務於大中型企業、創新經濟、金融機構及非銀行金融機構的團隊。“我們計劃在2027年以類似的速度繼續招聘，”克萊頓表示。“這涉及我們所有的業務領域。雖然各地區情況有所不同，但涉及的國家很多。”得益於亞洲企業海外擴張以及人工智慧、資料中心和供應鏈領域的投資增加，摩根大通亞太地區的企業銀行業務今年迄今的增長率已遠超20%。“今年的增長勢頭更為強勁，”布林克曼表示，“在亞太地區及所有行業領域，增長率均遠超20%。”
+
+---
+
+### 2026-08-11 08:17:40  #MKT News #Market Themes #AI Revolution #RIOT.O #Impact bullish
+
+【Sources: Anthropic agrees $9.1 bln deal with Riot Platforms】Sources say Anthropic PBC has agreed a $9.1 bln deal with cloud-compute provider Riot Platforms. Riot, which has begun selling AI data-center capacity, disclosed on Monday a 20-year agreement to supply 191 MW from its Rockdale, Texas campus; sources identified the counterparty as Anthropic.
 
 ---
 
@@ -17679,71 +17715,5 @@ Lebanese sources say there are currently no plans for a new round of Lebanon-Isr
 ### 2026-08-10 04:56:18  #MKT News #Important #Market Themes #Chip Wars #ASML.AS #Impact bearish
 
 【Musk signals possible free-electron laser challenge to ASML's EUV】SpaceX said it will partner with Tesla on an initial $16.8 bln investment to build a Terafab chip facility in Texas. Posts and a blogger’s read of Terafab materials suggest the plant may adopt free-electron laser (FEL) technology as a lithography light source to challenge ASML’s LPP EUV; Musk replied with FEL FTW and the facility layout reportedly supports that reading. FEL proponents cite higher power, coherence, tunable wavelength and potentially better energy efficiency, and in theory it could push lithography wavelengths from 13.5nm toward ~6nm or shorter. Commercialisation hurdles remain significant: large accelerator systems, capital cost and production stability are the main obstacles.
-
----
-
-### 2026-08-10 04:50:05  #市場
-
-【劍指高溢價炒作 滬深交易所擬清退三類LOF】近年來，LOF產品頻繁發生的高溢價風險，持續吸引市場的關注，相關部門也開始出手整頓。一場LOF產品的“洗牌”即將到來。近日，滬深交易所分別起草《關於完善上市開放式基金相關安排的通知（徵求意見稿）》並向市場公開徵求意見。通知中提出商品期貨LOF（上交所無此類產品，故其通知中未作規定）、QDII LOF、連續六十個交易日場內資產淨值小於一千萬元的小規模LOF應當終止上市，且前兩類LOF最晚於2027年12月31日終止上市。（上證報）
-
----
-
-### 2026-08-10 04:49:19  #公司 #央行 #國際
-
-【“流動性+業績”雙重催化 佈局海外科技股 QDII基金規模提升】北京時間8月7日晚間，美國發布的7月非農就業資料低於市場預期，強化了市場對於美聯儲貨幣政策轉向的預期，海外科技資產再度受到關注。與此同時，隨著美國科技巨頭二季度財報陸續披露，市場對於AI產業發展的關注點正從算力投入逐步轉向盈利兌現。業內人士表示：從短期來看，美聯儲政策預期變化或影響科技股估值表現；從中長期來看，AI商業化進展及科技企業盈利能力仍將成為決定相關資產走勢的重要因素。在此背景下，國內資金借道QDII基金佈局海外科技資產的熱度後續或有提升。（上證報）
-
----
-
-### 2026-08-10 04:49:08  #MKT News
-
-【NORAD scrambles F-16s to intercept two aircraft near Trump golf club in Bedminster, New Jersey】NORAD scrambled F-16s to intercept two general aviation aircraft that violated a temporary flight restriction over Bedminster, New Jersey, while President Trump was attending an event at Trump National Golf Club. The TFR was in place for the LIV Golf New York stop at the club this weekend.
-
----
-
-### 2026-08-10 04:48:34  #國際
-
-【北美防空司令部出動F-16攔截特朗普高爾夫俱樂部附近兩架飛機】北美防空司令部當天出動F-16戰鬥機，在美國新澤西州貝德明斯特上空攔截了兩架違反臨時飛行限制的通用航空飛機。事發時，美國總統特朗普正在當地一家高爾夫俱樂部出席活動。據悉，LIV高爾夫賽紐約站本週末在貝德明斯特的特朗普國家高爾夫俱樂部舉行，特朗普出席，該地區上空因此實施臨時飛行限制。（央視新聞）
-
----
-
-### 2026-08-10 04:47:55  #其他
-
-【八月首周寬基ETF資金流向分化 兩類產品仍在吸金】8月第一週，寬基ETF資金流向有所分化。多類主流寬基ETF出現不同程度的資金流出，中證2000和中證A500相關ETF則錄得淨流入。從近一個月的情況看，寬基ETF仍是資金佈局權益市場的重要工具。多類寬基指數相關ETF近一個月全部獲得淨流入。滬深300、科創50和中證A500相關ETF淨流入規模均超過400億元。 兩個時間區間呈現出不同特徵，表明寬基ETF在前期大規模吸金後，短期資金進出有所反覆。中證A500和中證2000本週延續淨流入，也顯示寬基ETF內部仍存在結構性配置需求。（證券時報）
-
----
-
-### 2026-08-10 04:47:42  #其他
-
-【醫藥基金大幅“回血” 公募持倉降至冰點後迎市場反彈】當科技賽道進入高位震盪階段，前期持續深度調整的醫藥板塊迎來一波力度可觀的估值修復行情。自6月9日探底之後，醫藥主題ETF、多隻主動權益醫藥基金淨值大幅回彈，部分產品反彈幅度突破30%。 本輪行情既是行業基本面持續向好驅動的價值迴歸，也受益於公募基金極度低配帶來的拋壓釋放。但面對板塊快速上行，公募機構內部出現明顯分歧，這究竟是階段性修復行情，還是新一輪趨勢性機會，成為當前市場熱議的焦點。（證券時報）
-
----
-
-### 2026-08-10 04:47:28  #其他
-
-【基金投顧牌照擴容進入衝刺期 內外資公募加緊佈局謀轉型】距離8月末基金投顧牌照申報時點日漸臨近，基金投顧新一輪擴容已然進入衝刺階段。證券時報記者多方採訪瞭解到，本次申報陣營涵蓋券商、內資公募以及外資公募等多類市場主體，各家機構正緊鑼密鼓打磨申報材料，系統改造搭建、內部配套制度建設、迎接現場檢查的各項籌備工作全面鋪開，大量工作需要跨部門協同推進。 自2019年啟動試點至今，基金投顧業務走過近七年發展歷程，行業規模、客戶基數持續壯大，而本輪牌照擴容被業內普遍看作基金投顧從試點執行邁向常態化規範發展的關鍵轉折點。伴隨監管立法提速、行業人才培育體系加快構建，再疊加AI技術在客戶分層、資產配置、投資者陪伴領域的深度落地，行業期待借本次擴容契機，破解價值感知弱、收費模式單一、潛在利益衝突等現實堵點，真正推動國內買方投顧轉型走深走實。（證券時報）
-
----
-
-### 2026-08-10 04:47:12  #其他
-
-【首批16家公募上報兩大創業板ETF “創系列”指數及產品迎擴容】8月7日，證監會網站披露，首批16家基金管理人上報創業板算力基礎設施指數ETF、創業板金融科技指數ETF產品。這標誌著“創系列”指數及產品即將迎來擴容，矩陣建設邁入新階段。 上報首批創業板算力基礎設施指數ETF的基金管理人合計10家，包括易方達基金、華夏基金、南方基金、廣發基金、富國基金、國泰基金、嘉實基金、天弘基金、鵬華基金、大成基金。上報首批創業板金融科技指數ETF的基金管理人合計6家，包括華泰柏瑞基金、景順長城基金、萬家基金、建信基金、長城基金、東財基金。（證券時報）
-
----
-
-### 2026-08-10 04:39:03  #其他
-
-【基金投顧牌照擴容進入衝刺期 內外資公募加緊佈局謀轉型】距離8月末基金投顧牌照申報時點日漸臨近，基金投顧新一輪擴容已然進入衝刺階段。證券時報記者多方採訪瞭解到，本次申報陣營涵蓋券商、內資公募以及外資公募等多類市場主體，各家機構正緊鑼密鼓打磨申報材料，系統改造搭建、內部配套制度建設、迎接現場檢查的各項籌備工作全面鋪開，大量工作需要跨部門協同推進。（證券時報）
-
----
-
-### 2026-08-10 04:38:35  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-【Hedge funds rapidly cut yen shorts after U.S.-Japan FX intervention】CFTC data show leveraged funds reduced net short JPY positions by 74,440 contracts over the five weeks to Aug. 4, leaving a net short of 63,600 contracts — the largest reduction in shorts since the 2008 financial crisis. At end-June leveraged funds held a net short of 138,000 contracts, the largest since 2007. The adjustments followed the first coordinated U.S.-Japan FX market intervention in 15 years.
-
----
-
-### 2026-08-10 04:35:05  #MKT News
-
-Yemen military sources said air defences shot down six Houthi armed drones attempting to strike Mocha port.
 
 ---

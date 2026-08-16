@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:32:10_
-_本檔包含 2992 則快訊，約 602112 字_
+_更新時間：2026-08-17 04:55:04_
+_本檔包含 3001 則快訊，約 601116 字_
+
+---
+
+### 2026-08-13 14:01:03  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK June seasonally adjusted goods trade balance -23.007 bln pounds, vs -20.5 bln expected; May revised from -18.66 bln to -21.083 bln.
+
+---
+
+### 2026-08-13 14:01:00  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK preliminary Q2 total business investment QoQ +1.7% vs -0.5% expected; prior quarter revised from 0.90% to 0.9%.
+
+---
+
+### 2026-08-13 14:00:57  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK Q2 GDP preliminary QoQ +0.4% (expected +0.4%; prior +0.6%).
+
+---
+
+### 2026-08-13 14:00:57  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+UK June GDP MoM +0.3% vs 0.0% expected; May revised from +0.1% to 0.0%.
+
+---
+
+### 2026-08-13 14:00:56  #國際
+
+【巴西對華聚氯乙烯樹脂作出第三次反傾銷日落複審終裁，決定繼續徵收為期5年的反傾銷稅】8月6日，巴西外貿委員會管理執行委員會發布2026年第947號決議，對原產於中國的聚氯乙烯樹脂作出第三次反傾銷日落複審終裁，決定繼續徵收為期5年的反傾銷稅，稅率為21.6%。
+
+---
+
+### 2026-08-13 14:00:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100
+
+UK construction output YoY (June) -2.3% vs -2.4% expected; prior reading revised to -2.0% from -1.8%.
+
+---
+
+### 2026-08-13 14:00:50  #MKT News #Important #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
+
+UK Q2 GDP preliminary annualized 1.2% vs 1.10% expected; prior 0.90%.
+
+---
+
+### 2026-08-13 14:00:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
+
+UK Q2 total business investment YoY preliminary 0.8%; prior figure revised from -1.30% to -1.3%.
+
+---
+
+### 2026-08-13 14:00:50  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK June seasonally adjusted non-EU trade balance: £10.448 bln deficit; May revised from a £7.138 bln deficit to a £9.583 bln deficit.
+
+---
+
+### 2026-08-13 14:00:50  #MKT News #Important #GBPUSD #Impact bearish
+
+UK manufacturing output fell 0.5% MoM in June (consensus -0.2%); May's print was revised down from +0.1% to -0.2%.
+
+---
+
+### 2026-08-13 14:00:49  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+UK industrial production fell 0.2% MoM in June, versus a 0.1% rise expected; May's figure was revised to -0.7% from -0.5%.
+
+---
+
+### 2026-08-13 14:00:49  #MKT News #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
+
+UK June services index m/m +0.4% (exp 0.0%); May revised to +0.1% from +0.3%.
+
+---
+
+### 2026-08-13 14:00:49  #MKT News #GBPUSD #Impact bearish #FTSE100
+
+UK June industrial production YoY -0.2% (est +0.2%; prior +1.0%).
+
+---
+
+### 2026-08-13 14:00:49  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK June GDP YoY 1.1% vs consensus 0.8%; prior reading revised to 1.2% from 1.3%.
+
+---
+
+### 2026-08-13 14:00:48  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK June services index YoY 1.6% (exp. 1.4%); May revised to 1.5% from 1.7%.
 
 ---
 
@@ -18020,41 +18110,5 @@ South Korea's KOSPI rose 4.00% intraday to 6,599.61 points.
 ### 2026-08-12 10:31:49  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 0
 
 US 10-Year Yield Edges Lower — The yield on the US 10-year Treasury note eased to around 4.68% on Wednesday, extending its decline into a second session as investors positioned ahead of key inflation data that could provide fresh guidance on the Federal Reserve’s policy outlook. The consumer price index is due later today, with producer inflation figures scheduled for Thursday. Markets remain split over the prospect of a 25-basis-point Fed rate hike in September after the central bank left rates unchanged in July, while firmer oil prices continue to bolster expectations for a hawkish stance. On Tuesday, Chicago Fed President Austan Goolsbee said policymakers remain more focused on the risk of persistently elevated inflation than potential weakness in the labor market. Meanwhile, investors continued to monitor prospects for a US-Iran agreement to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”
-
----
-
-### 2026-08-12 10:30:59  #國際
-
-【日本內閣或於9月中旬或之後改組】據知情人士稱，日本首相高市早苗內閣可能在9月中旬或之後改組。此次改組預計不太可能調整內閣官房長官、財務大臣和經濟產業大臣等關鍵職位。
-
----
-
-### 2026-08-12 10:28:57  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Copper
-
-China A-share photovoltaic and energy-storage sectors strengthened in choppy trade; Jinchen, Tianyang New Materials and Jianghe hit daily price limits, while Ailuo Energy, Shenghong, Deye and GoodWe were among the top gainers.
-
----
-
-### 2026-08-12 10:28:16  #公司 #市場
-
-【PEEK材料概念震盪反彈，兄弟科技漲停】PEEK材料概念震盪反彈，兄弟科技漲停，唯科科技、雅運股份、富恆新材、超捷股份、興瑞科技、崇德科技等跟漲。
-
----
-
-### 2026-08-12 10:27:28  #市場 #國際
-
-【咖哩豬排指數顯示日元嚴重低估 建立人稱比大麥克指數更貼切】隨著當局干預匯市的影響正在消退，紐約梅隆銀行高階策略師Geoff Yu利用日本一道快餐主食的價格，以準確衡量日元的疲軟程度。Yu建立了咖哩豬排指數，作為《經濟學人》大麥克指數(Big Mac Index)的替代指標。他認為，相較於大麥克這種漢堡，比較咖哩豬排飯的國際價格，更能反映日元貶值對日本民眾究竟是什麼感受。週三上午的全球外匯市場上，1美元約兌159.23日元。但根據Yu的計算，在考量咖哩餐點價格反映的日元購買力後，1美元應該只能兌62.18日元。這意味著，外匯市場正大幅低估日元。相較之下，基於麥當勞漢堡各國價格的大麥克指數顯示，1美元應該可以兌換80.30日元。Yu說，如果目標是讓購買力向高收入國家看齊，這項指數顯示，日元需要更為強勁。他採用全球最大咖哩飯連鎖店CoCo壹番屋的價格計算，該公司在全球擁有約1500家分店。
-
----
-
-### 2026-08-12 10:27:22  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Stocks Rebound — Indonesian shares rose 51 points or 0.8% to 6,319 in early deals on Wednesday, halting losses in the prior two sessions amid widespread gains across major sectors led by infrastructure, energy, basic materials, and cyclicals. sentiment improved following fresh data showing July car sales surged 33%, hinting at recovery in the automotive sector. Traders also took note of President Prabowo’s nomination of acting BI Governor Destry Damayanti as the sole candidate to succeed Perry Warjiyo, a move seen as providing policy continuity. Still, upside was tempered by overnight weakness on Wall Street and caution ahead of MSCI’s August 2026 Review later today, with rebalancing effective after August 31. Domestic concerns also lingered as retail sales fell for a third straight month in June, weighed by softness in discretionary categories. Standout movers included Indosat (8.4%), Petrindo Jaya Kreasi (5.6%), Bumi Resources (2.8%), and Japfa Comfeed (1.8%).
-
----
-
-### 2026-08-12 10:26:55  #MKT News
-
-【National flood control headquarters, Ministry of Emergency Management raise Henan flood-response to level 3】China’s National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management raised Henan’s flood-control emergency response from level 4 to level 3 at 09:00 on August 12. On August 11 central-eastern Henan saw heavy to very heavy rain, with extreme rainfall reported in Pingdingshan and Luoyang. Meteorological forecasts show heavy to very heavy rain from August 12–15 across central‑west and southern Huanghuai and southern North China; parts of central and western Henan along mountain areas may experience extremely heavy rainfall.
 
 ---

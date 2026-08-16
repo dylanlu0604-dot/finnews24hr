@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 04:32:10_
-_本檔包含 3157 則快訊，約 601543 字_
+_更新時間：2026-08-17 04:55:04_
+_本檔包含 3145 則快訊，約 600962 字_
+
+---
+
+### 2026-08-14 15:01:51  #宏觀 #焦點
+
+【油價迎年內第5次下調 加一箱油將少花9元】據國家發改委訊息，自8月14日24時起，國內汽、柴油(標準品)價格每噸分別下調230元、220元。本輪是成品油價格迎來的年內第五次下調。據機構測算，此次下調摺合92號汽油每升下調0.18元，95號汽油每升下調0.19元，0號柴油每升下調0.19元。以油箱容量50L的普通私家車計算，車主加滿一箱92號汽油將省9元左右。（中新網）
+
+---
+
+### 2026-08-14 15:01:32  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bearish
+
+Midday close: Chinese onshore main futures contracts were mixed. Coking coal rose more than 4%; rapeseed oil gained over 3%; low-sulfur fuel oil (LU) and lithium carbonate were up nearly 3%. Fuel oil, benzene, polysilicon, industrial silicon, methanol and styrene (EB) advanced more than 2%. On the downside, palladium fell over 3%; Shanghai silver and stainless steel (SS) declined more than 2%; platinum, Shanghai gold, Shanghai nickel, foundry aluminum and Shanghai aluminum slipped over 1%.
+
+---
+
+### 2026-08-14 15:01:29  #市場
+
+【ETF收評：通訊ETF領漲3.71%，港股創新藥ETF領跌2.64%】ETF收盤漲跌不一，通訊ETF（159695）領漲3.71%，通訊ETF（515880）漲3.60%，通訊ETF（159507）漲3.60%，港股創新藥ETF（513780）領跌2.64%，港股通創新藥醫療ETF（159506）跌2.63%，恒生生物科技ETF（159132）跌2.57%。
 
 ---
 
@@ -18925,95 +18943,5 @@ United Kingdom | Trade Balance with EU (Jun) | actual -1059000000B | previous -1
 ### 2026-08-13 14:01:13  #經濟數據 #英國
 
 英國第二季度GDP同比增長1.2%，預期1.1%，前值0.9%；第二季度GDP環比增長0.4%，預期0.4%，前值0.6%。
-
----
-
-### 2026-08-13 14:01:03  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
-
-UK June seasonally adjusted goods trade balance -23.007 bln pounds, vs -20.5 bln expected; May revised from -18.66 bln to -21.083 bln.
-
----
-
-### 2026-08-13 14:01:00  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-UK preliminary Q2 total business investment QoQ +1.7% vs -0.5% expected; prior quarter revised from 0.90% to 0.9%.
-
----
-
-### 2026-08-13 14:00:57  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-UK Q2 GDP preliminary QoQ +0.4% (expected +0.4%; prior +0.6%).
-
----
-
-### 2026-08-13 14:00:57  #MKT News #GBPUSD #Impact bullish #FTSE100
-
-UK June GDP MoM +0.3% vs 0.0% expected; May revised from +0.1% to 0.0%.
-
----
-
-### 2026-08-13 14:00:56  #國際
-
-【巴西對華聚氯乙烯樹脂作出第三次反傾銷日落複審終裁，決定繼續徵收為期5年的反傾銷稅】8月6日，巴西外貿委員會管理執行委員會發布2026年第947號決議，對原產於中國的聚氯乙烯樹脂作出第三次反傾銷日落複審終裁，決定繼續徵收為期5年的反傾銷稅，稅率為21.6%。
-
----
-
-### 2026-08-13 14:00:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100
-
-UK construction output YoY (June) -2.3% vs -2.4% expected; prior reading revised to -2.0% from -1.8%.
-
----
-
-### 2026-08-13 14:00:50  #MKT News #Important #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
-
-UK Q2 GDP preliminary annualized 1.2% vs 1.10% expected; prior 0.90%.
-
----
-
-### 2026-08-13 14:00:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
-
-UK Q2 total business investment YoY preliminary 0.8%; prior figure revised from -1.30% to -1.3%.
-
----
-
-### 2026-08-13 14:00:50  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-UK June seasonally adjusted non-EU trade balance: £10.448 bln deficit; May revised from a £7.138 bln deficit to a £9.583 bln deficit.
-
----
-
-### 2026-08-13 14:00:50  #MKT News #Important #GBPUSD #Impact bearish
-
-UK manufacturing output fell 0.5% MoM in June (consensus -0.2%); May's print was revised down from +0.1% to -0.2%.
-
----
-
-### 2026-08-13 14:00:49  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
-
-UK industrial production fell 0.2% MoM in June, versus a 0.1% rise expected; May's figure was revised to -0.7% from -0.5%.
-
----
-
-### 2026-08-13 14:00:49  #MKT News #GBPUSD #Impact bullish #FTSE100 #DXY #Impact bearish
-
-UK June services index m/m +0.4% (exp 0.0%); May revised to +0.1% from +0.3%.
-
----
-
-### 2026-08-13 14:00:49  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-UK June industrial production YoY -0.2% (est +0.2%; prior +1.0%).
-
----
-
-### 2026-08-13 14:00:49  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK June GDP YoY 1.1% vs consensus 0.8%; prior reading revised to 1.2% from 1.3%.
-
----
-
-### 2026-08-13 14:00:48  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-UK June services index YoY 1.6% (exp. 1.4%); May revised to 1.5% from 1.7%.
 
 ---
