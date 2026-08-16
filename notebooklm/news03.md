@@ -1,7 +1,51 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 05:50:51_
-_本檔包含 2991 則快訊，約 599817 字_
+_更新時間：2026-08-17 06:34:08_
+_本檔包含 2982 則快訊，約 600380 字_
+
+---
+
+### 2026-08-13 14:13:07  #其他
+
+【胖東來宣告：從未開展直播帶貨業務】8月13日，胖東來官方賬號釋出關於侵權行為曝光臺（十三）：近期，網路平臺出現一批同質化賬號，以惡意引導、虛假宣傳等方式實施不正當競爭行為，嚴重誤導公眾，損害消費者合法權益。胖東來宣告稱，胖東來從未在任何網路平臺開展直播帶貨業務，也未授權任何單位或個人開設網店、直播賣貨。
+
+---
+
+### 2026-08-13 14:11:24  #公司 #觀點
+
+【花旗：維持聯想集團“買入”評級，首財季業績強化AI驅動結構性增長敘事】花旗發表研報指，聯想集團6月底止2026/27財年第一季業績表現強勁，遠勝預期，進一步強化了由人工智慧驅動的結構性增長敘事。期內收入同比大增43%至269.43億美元，創下季度歷史新高，分別較花旗及市場預期高出24%及20%。非公認會計准則純利同比急升176%至10.75億美元，分別較花旗及市場預期高出64%及149%，非公認會計准則淨利潤率擴闊至4%。花旗表示，基於分類加總估值法，將聯想集團目標價定為31港元，對應2028財年預測市盈率約13.6倍，當中IDG及SSG業務以10倍市盈率估值，ISG業務以16.7倍市盈率估值，與同業水平一致。該行維持聯想集團“買入”評級，看好強勁的伺服器需求前景及盈利能力，以及個人計算機、手機和服務業務的穩定表現。
+
+---
+
+### 2026-08-13 14:10:42  #公司 #其他
+
+【眾信旅遊：截至8月12日 “十一”假期出遊報名人數同比增長70%】截至8月12日，眾信旅遊“十一”假期旅遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%。
+
+---
+
+### 2026-08-13 14:10:04  #市場
+
+【主力資金：小金屬板塊淨流出超135億】截至目前，今日主力資金淨流出87.11億；淨流入高價股、百元股、IDC概念（資料中心）等板塊，其中高價股板塊淨流入118.49億；淨流出小金屬、有色金屬概念、有色金屬等板塊，其中小金屬板塊淨流出135.25億。
+  
+個股方面，大唐發電淨買入15.59億元位居首位，紫光股份、天孚通訊、新易盛主力資金淨流入居前；風華高科淨賣出13.29億元位居首位，紫金礦業、雲南鍺業、洛陽鉬業淨流出額居前。
+
+---
+
+### 2026-08-13 14:09:56  #市場 #觀點 #國際
+
+【華爾街預言家：美國房市出現崩潰跡象，2008年危機訊號再現】有“華爾街預言家之稱”的前美林證券首席北美經濟學家羅森伯格（David Rosenberg）最新警告稱，從很多方面來看，美國房地產市場都陷入了困境。而最新資料顯示，這種情況與2008年金融危機爆發前夕的情況有著驚人的相似之處。羅森伯格表示，房地產市場的一個預警訊號在住房危機爆發前就會出現。他週三撰文指出，這個訊號就是房屋年銷售率的下降，最近已跌破2008年初的水平，而當時正是房地產崩盤爆發的開端。
+
+---
+
+### 2026-08-13 14:08:11  #MKT News
+
+【Omdia: Middle East smartphone shipments down 19% YoY in Q2 2026; vendors shift to profitability】Omdia reports Q2 2026 smartphone shipments in the Middle East (ex-Turkey) fell 19% YoY to 10.6 mln units, the largest single-quarter drop since Q4 2025. Price increases, supply constraints and geopolitical uncertainty are driving vendors to prioritise product value and profitability over volume growth, while weaker consumer confidence has led retailers to tighten inventory management.
+
+---
+
+### 2026-08-13 14:07:43  #Trading Economics #Economy #United Kingdom #GDP Growth Rate #Importance 2
+
+UK Economy Expands 0.4% in Q2 — The UK economy expanded by 0.4% quarter-on-quarter in Q2 2026, slowing from 0.6% growth in Q1, in line with market expectations, preliminary estimates showed. Services output rose 0.5%, led by information and communication, which increased 2.7%, and professional, scientific and technical activities, which grew 1.7%. Production showed no growth as a 1.0% rise in manufacturing and a 0.2% increase in mining and quarrying were offset by declines in electricity, gas, steam and air conditioning supply and water, sewerage and waste management. Construction output increased 0.3%, supported by gains in both new work and repair and maintenance. On the expenditure side, growth was mainly driven by a 1.2% increase in gross fixed capital formation and a 0.3% rise in household consumption, while government consumption fell 0.3%. On an annual basis, UK GDP expanded 1.2%, picking up from 0.9% growth in Q1 and exceeding the expected 1.1% rise.
 
 ---
 
@@ -17952,101 +17996,5 @@ Spot gold was up 1.00% on the day at $4,411.72/oz; New York gold futures gained 
 ### 2026-08-12 10:50:52  #MKT News #000001.SS #Impact bullish #000300.SS
 
 A-share CPO concept extended gains; Yongding Co. hit the daily trading limit. Tianfu Communications, Shijia Photonics, Taichen Optoelectronics, Hengdong Optics, Yuanjie Technology and Dekeli also rose.
-
----
-
-### 2026-08-12 10:50:52  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China's Sci‑Tech Innovation Board 50 Index (STAR 50) rose more than 2% intraday.
-
----
-
-### 2026-08-12 10:50:35  #市場 #焦點
-
-科創50日內漲幅達2％，成分股中，源傑科技漲7.5％，中微公司漲5％，盛美上海漲3.7％，瀾起科技漲3.7％。
-
----
-
-### 2026-08-12 10:50:11  #市場
-
-大盤主力淨流入超100億。
-
----
-
-### 2026-08-12 10:49:12  #其他
-
-【人保財險簽發全國首單腦機介面手術意外險】近日，人保財險為浙江大學醫學院附屬第二醫院承保全國首單侵入式腦機介面手術意外險，率先填補國內該領域風險保障空白，探索形成“科技創新+醫療應用+保險保障”協同發展的新模式。
-
----
-
-### 2026-08-12 10:48:46  #市場 #觀點
-
-【中信建投：二季度煤價同比上漲 部分割槽域月度電價回升】中信建投釋出研報稱，火電方面，2026年第2季度，動力煤市場價同比上漲，廣東、江蘇等區域受電力供需偏緊、一次能源價格抬升等因素的影響，月度交易電價有所回升，部分對沖燃料成本的上升。同時，考慮到年度長協電量佔比較高，儘管月度電價回升，該行預期火電26Q2~Q3業績仍可能承壓。綠電方面，受新能源消納壓力較大疊加136號文推動新能源全面入市影響，2026上半年業績及估值均承壓。電力供需方面，受火電機組核准及投產節奏的影響，2027年全國火電新增裝機增速有望放緩，疊加一次能源價格的回升，27年長協電價有望企穩回升。綜合而言，電力板塊二季度業績壓力較大，江浙等用電增速較高區域的火電經營情況有望逐步改善。
-
----
-
-### 2026-08-12 10:47:48  #市場
-
-野村在新加坡推出實物黃金交易和託管服務。
-
----
-
-### 2026-08-12 10:47:43  #市場 #焦點
-
-現貨黃金突破4410美元/盎司，日內漲0.97%。
-
----
-
-### 2026-08-12 10:47:37  #市場 #焦點
-
-紐約期金突破4470美元/盎司，日內漲0.65%。
-
----
-
-### 2026-08-12 10:47:23  #公司 #市場
-
-【CPO概念持續走強，永鼎股份漲停】CPO概念持續走強，永鼎股份漲停，天孚通訊、仕佳光子、太辰光、蘅東光、源傑科技、德科立等跟漲。
-
----
-
-### 2026-08-12 10:47:11  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures rose 1.00% intraday to $84.07/bbl.
-
----
-
-### 2026-08-12 10:47:04  #公司 #國際
-
-市場訊息：新加坡主權財富基金淡馬錫就投資三星和SK海力士與韓國方面接洽。
-
----
-
-### 2026-08-12 10:46:11  #市場
-
-WTI原油日內漲1%，現報84.06美元/桶。
-
----
-
-### 2026-08-12 10:45:21  #其他
-
-【電影《八仙！》延長上映至9月17日】電影《八仙！》宣佈金鑰延期，延長上映至2026年9月17日23:59。據燈塔專業版，影片當前累計票房14.79億。
-
----
-
-### 2026-08-12 10:44:37  #國際
-
-【特朗普承認北約峰會返程換機，稱換乘的飛機“風險更大”】當地時間8月11日，美國總統特朗普表示，他上個月從土耳其結束北約峰會離開時轉乘的那架飛機“面臨的風險反而更大”。據報道，由於當時有訊息稱伊朗可能對特朗普實施暗殺，因此採取了臨時換機措施。特朗普當時被安排乘坐一輛餐飲服務車，在不同飛機之間秘密轉移。（CCTV國際時訊）
-
----
-
-### 2026-08-12 10:42:54  #MKT News #USDJPY #Impact bullish
-
-USD/JPY briefly touched 159.43, its highest level since August.
-
----
-
-### 2026-08-12 10:42:33  #MKT News
-
-【Henan issues list of priority areas for government investment funds】Henan provincial development and reform commission said on Aug. 11 that, with provincial government approval, it has issued a list designating 78 sub-sectors across four pillars—emerging pillar industries, future industries, traditional advantaged industries and modern services—as priority targets for government investment funds. The future industries category covers six areas: artificial and embodied intelligence, hydrogen energy, bio-manufacturing, quantum technologies, next-generation information networks and brain-like intelligence/brain–computer interfaces, and specifically highlights investment in humanoid robots, general-purpose large models, full-chain hydrogen technologies, bio-breeding, quantum computing and 6G mobile communications.
 
 ---

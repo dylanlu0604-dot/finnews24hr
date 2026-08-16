@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 05:50:51_
-_本檔包含 3067 則快訊，約 600703 字_
+_更新時間：2026-08-17 06:34:08_
+_本檔包含 3077 則快訊，約 601347 字_
+
+---
+
+### 2026-08-12 10:50:52  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China's Sci‑Tech Innovation Board 50 Index (STAR 50) rose more than 2% intraday.
+
+---
+
+### 2026-08-12 10:50:35  #市場 #焦點
+
+科創50日內漲幅達2％，成分股中，源傑科技漲7.5％，中微公司漲5％，盛美上海漲3.7％，瀾起科技漲3.7％。
+
+---
+
+### 2026-08-12 10:50:11  #市場
+
+大盤主力淨流入超100億。
+
+---
+
+### 2026-08-12 10:49:12  #其他
+
+【人保財險簽發全國首單腦機介面手術意外險】近日，人保財險為浙江大學醫學院附屬第二醫院承保全國首單侵入式腦機介面手術意外險，率先填補國內該領域風險保障空白，探索形成“科技創新+醫療應用+保險保障”協同發展的新模式。
+
+---
+
+### 2026-08-12 10:48:46  #市場 #觀點
+
+【中信建投：二季度煤價同比上漲 部分割槽域月度電價回升】中信建投釋出研報稱，火電方面，2026年第2季度，動力煤市場價同比上漲，廣東、江蘇等區域受電力供需偏緊、一次能源價格抬升等因素的影響，月度交易電價有所回升，部分對沖燃料成本的上升。同時，考慮到年度長協電量佔比較高，儘管月度電價回升，該行預期火電26Q2~Q3業績仍可能承壓。綠電方面，受新能源消納壓力較大疊加136號文推動新能源全面入市影響，2026上半年業績及估值均承壓。電力供需方面，受火電機組核准及投產節奏的影響，2027年全國火電新增裝機增速有望放緩，疊加一次能源價格的回升，27年長協電價有望企穩回升。綜合而言，電力板塊二季度業績壓力較大，江浙等用電增速較高區域的火電經營情況有望逐步改善。
+
+---
+
+### 2026-08-12 10:47:48  #市場
+
+野村在新加坡推出實物黃金交易和託管服務。
+
+---
+
+### 2026-08-12 10:47:43  #市場 #焦點
+
+現貨黃金突破4410美元/盎司，日內漲0.97%。
+
+---
+
+### 2026-08-12 10:47:37  #市場 #焦點
+
+紐約期金突破4470美元/盎司，日內漲0.65%。
+
+---
+
+### 2026-08-12 10:47:23  #公司 #市場
+
+【CPO概念持續走強，永鼎股份漲停】CPO概念持續走強，永鼎股份漲停，天孚通訊、仕佳光子、太辰光、蘅東光、源傑科技、德科立等跟漲。
+
+---
+
+### 2026-08-12 10:47:11  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures rose 1.00% intraday to $84.07/bbl.
+
+---
+
+### 2026-08-12 10:47:04  #公司 #國際
+
+市場訊息：新加坡主權財富基金淡馬錫就投資三星和SK海力士與韓國方面接洽。
+
+---
+
+### 2026-08-12 10:46:11  #市場
+
+WTI原油日內漲1%，現報84.06美元/桶。
+
+---
+
+### 2026-08-12 10:45:21  #其他
+
+【電影《八仙！》延長上映至9月17日】電影《八仙！》宣佈金鑰延期，延長上映至2026年9月17日23:59。據燈塔專業版，影片當前累計票房14.79億。
+
+---
+
+### 2026-08-12 10:44:37  #國際
+
+【特朗普承認北約峰會返程換機，稱換乘的飛機“風險更大”】當地時間8月11日，美國總統特朗普表示，他上個月從土耳其結束北約峰會離開時轉乘的那架飛機“面臨的風險反而更大”。據報道，由於當時有訊息稱伊朗可能對特朗普實施暗殺，因此採取了臨時換機措施。特朗普當時被安排乘坐一輛餐飲服務車，在不同飛機之間秘密轉移。（CCTV國際時訊）
+
+---
+
+### 2026-08-12 10:42:54  #MKT News #USDJPY #Impact bullish
+
+USD/JPY briefly touched 159.43, its highest level since August.
+
+---
+
+### 2026-08-12 10:42:33  #MKT News
+
+【Henan issues list of priority areas for government investment funds】Henan provincial development and reform commission said on Aug. 11 that, with provincial government approval, it has issued a list designating 78 sub-sectors across four pillars—emerging pillar industries, future industries, traditional advantaged industries and modern services—as priority targets for government investment funds. The future industries category covers six areas: artificial and embodied intelligence, hydrogen energy, bio-manufacturing, quantum technologies, next-generation information networks and brain-like intelligence/brain–computer interfaces, and specifically highlights investment in humanoid robots, general-purpose large models, full-chain hydrogen technologies, bio-breeding, quantum computing and 6G mobile communications.
 
 ---
 
@@ -18460,41 +18556,5 @@ A Singapore trade official said an anticipated 12.5% US tariff on Singapore expo
 ### 2026-08-11 08:40:56  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Mixed Sector Moves Hold ASX Steady Before RBA Rate Decision — Australian shares steadied in early Tuesday trade, hovering near 9,237 after two sessions of weakness. Traders kept a cautious stance ahead of the Reserve Bank’s policy decision later today, with consensus pointing to rates staying at 4.35% following three hikes this year aimed at cooling inflation amid global uncertainty. Attention also turned to July’s NAB business sentiment survey after June marked a four-month high. Offshore sentiment weighed, as U.S. futures eased after Wall Street losses overnight due to higher oil and tech sector drag. Logistics, consumer durables, tech, and industrial services fell, while energy minerals, non-energy minerals, and healthcare offered support. Standout gainers included Santos (4.1%), Woodside (2.6%), and CSL (1.5%). The big banks mostly slipped, down between 0.3% and 0.8%, with Westpac’s earnings disappointing. Other notable laggards were SGH Ltd. (-6.7%), CAR Group (-3.4%), and Qantas Airways (-2.2%).
-
----
-
-### 2026-08-11 08:40:44  #其他
-
-新加坡貿工部：全球能源價格受石油庫存減少及替代能源轉換所限制。
-
----
-
-### 2026-08-11 08:40:05  #國際
-
-新加坡貿易官員：預計美國對新加坡出口商品徵收12.5%關稅不會產生貿易影響。
-
----
-
-### 2026-08-11 08:39:36  #MKT News
-
-Singapore's Ministry of Trade and Industry said the Middle East conflict's impact on the economy is smaller than initially expected.
-
----
-
-### 2026-08-11 08:39:33  #公司 #市場 #國際
-
-今年以來，東證銀行股指數累計上漲超過40%，而東證指數整體漲幅約為20%。三菱日聯金融集團近期市值躍居日本第一，超越豐田汽車和鎧俠控股。
-
----
-
-### 2026-08-11 08:37:42  #市場 #國際
-
-【AI熱潮遭遇波折之際 亞洲銀行股迎來重估行情】在人工智慧(AI)交易波動加劇之際，亞洲銀行股正迎來數十年來最強勁的上漲行情之一，而隨著投資者轉向相對穩健的投資標的，這一趨勢可能仍將持續。除了避開日益擁擠的AI交易之外，這類防禦性股票還能夠在通脹居高不下和地緣政治不確定性持續的環境下提供一定韌性。MSCI亞太金融指數7月上漲8.6%，創下相對於資訊科技指數的歷史最佳月度表現。與此同時，香港金融股指數錄得近四年來最佳單月表現；在日本，銀行股指數今年漲幅已達到基準東證指數的兩倍。亞洲的這一趨勢也與美國市場形成呼應。標普500金融板塊指數今年已多次重新整理歷史高點。“我們仍然看好亞洲地區金融股，”美國銀行亞太區股票策略主管Winnie Wu表示。“未來回報將越來越依賴資本回報和盈利增長。”
-
----
-
-### 2026-08-11 08:37:33  #MKT News
-
-【Kioxia says Bain-linked BCPE Pangea Cayman2 becomes largest shareholder; SK Hynix holds convertible voting-rights stake】Kioxia said on Tuesday that as of Aug. 3 former parent Toshiba cut its stake from 14.48% to about 14.12%, making BCPE Pangea Cayman2, set up by Bain Capital, the largest shareholder with a 14.19% holding. Kioxia’s annual report shows SK Hynix holds bonds convertible into “almost all” of BCPE Pangea Cayman2’s voting rights; the company flagged SK Hynix’s claim as a risk that could create conflicts of interest. SK Hynix participated in the 2018 Bain-led buyout and agreed under the deal not to exceed 15% of Kioxia’s voting rights without Kioxia’s consent before 2028.
 
 ---
