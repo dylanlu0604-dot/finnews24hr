@@ -1,7 +1,23 @@
 {
   "date": "2026-08-17",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a00bc6-d6da-7aab-904f-73e94e4d5d10",
+      "time": "2026-08-17 02:12:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state TV reported the Saudi foreign minister met Yemen's foreign minister in Riyadh; the Saudi foreign ministry said Riyadh reiterated its firm support for Yemen's security and stability."
+    },
+    {
+      "id": "5042927",
+      "time": "2026-08-17 02:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲黎巴嫩，造成包括一名真主黨高階指揮官在內的11人死亡。"
+    },
     {
       "id": "5042926",
       "time": "2026-08-17 01:56:19",
