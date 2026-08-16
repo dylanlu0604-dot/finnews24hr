@@ -1,7 +1,19 @@
 {
   "date": "2026-08-17",
-  "count": 171,
+  "count": 172,
   "items": [
+    {
+      "id": "te:economy:575555",
+      "time": "2026-08-17 06:52:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "New Zealand Food Inflation at 20-Month Low — Annual food inflation in New Zealand eased to 1.9% in July 2026 from 2.5% in June, marking the softest increase since November 2024."
+    },
     {
       "id": "5043002",
       "time": "2026-08-17 06:49:03",
