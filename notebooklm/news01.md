@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:53:20_
-_本檔包含 3041 則快訊，約 601083 字_
+_更新時間：2026-08-17 00:38:22_
+_本檔包含 3050 則快訊，約 600710 字_
+
+---
+
+### 2026-08-17 00:32:26  #國際
+
+黎巴嫩：以色列炮擊黎巴嫩南部拜特亞胡恩與巴拉希特兩鎮之間的地區。
+
+---
+
+### 2026-08-17 00:32:15  #MKT News
+
+Prime Minister Carney said the government is committed to building more affordable housing nationwide and has launched Maisons Canada, the Canadian Housing Plan, to rapidly scale construction using Canadian workers, materials and technology.
+
+---
+
+### 2026-08-17 00:30:46  #國際
+
+中東和平委員會：絕不允許加沙再度成為針對以色列發動襲擊的策源地。
+
+---
+
+### 2026-08-17 00:30:16  #國際
+
+中東和平委員會提出要求：若哈馬斯啟動上繳銷燬武器的程序，以色列必須在加沙開展對等撤軍行動。
+
+---
+
+### 2026-08-17 00:29:06  #國際
+
+中東和平委員會要求哈馬斯著手拆除武器以及軍事基礎設施。
+
+---
+
+### 2026-08-17 00:26:22  #MKT News
+
+Iraq's finance minister said the government will continue to strengthen non-oil revenues to offset the impact of a blockade of the Strait of Hormuz.
+
+---
+
+### 2026-08-17 00:24:11  #國際
+
+阿拉伯和伊斯蘭國家外長發表宣告：呼籲支援和平委員會為落實路線圖及其第二階段所作的努力，呼籲和平理事會採取緊急措施，維護加沙計劃並防止其受阻。
+
+---
+
+### 2026-08-17 00:23:48  #MKT News #WTI #Impact bullish #Brent
+
+Iraq's finance minister said the closure of the Strait of Hormuz has directly affected the Iraqi economy.
+
+---
+
+### 2026-08-17 00:23:30  #MKT News
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement urging support for the peace committee’s efforts to implement the roadmap and advance to a second phase.
+
+---
+
+### 2026-08-17 00:22:34  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukraine strikes major Russian logistics hub; Russia hits Ukrainian military-industrial sites, refineries】Ukraine's defence ministry said on social media that early on the 16th its forces launched a large-scale drone strike on a logistics hub in Moscow region operated by e-commerce platform Wildberries. Russia's defence ministry said its forces struck Ukrainian military-industrial facilities and refineries the same day.
+
+---
+
+### 2026-08-17 00:19:43  #公司 #國際
+
+【烏軍襲擊俄大型物流樞紐 俄打擊烏軍工企業和煉油廠】烏克蘭國防部16日在社交媒體發文稱，當天凌晨，烏軍對俄大型電商平臺野莓公司位於莫斯科州的物流樞紐發動了大規模無人機襲擊。另據俄國防部16日釋出的訊息，俄軍當天打擊了烏克蘭的軍工企業和煉油廠等設施。
+
+---
+
+### 2026-08-17 00:18:38  #國際
+
+哈馬斯表示，其高階代表團在開羅與埃及官員舉行的會談，重點在於鞏固加沙地帶的停火，並確保以色列履行美國支援的所謂“和平計劃”所作出的各項承諾。
+
+---
+
+### 2026-08-17 00:17:04  #市場 #國際
+
+【原材料物流成本大幅抬升，伊朗三分之二藥品兩輪漲價】伊朗食品藥品管理局局長週日表示，自3月21日以來，伊朗約三分之二的藥品已經經歷兩輪漲價。邁赫迪·皮爾薩萊希稱，原材料、運輸以及生產成本上漲是推高藥價的部分原因。他表示，部分進口藥品的海運運費約3000美元，如今改為空運後運費已漲至30000美元。他補充，此番漲價旨在避免製藥企業虧損經營。皮爾薩萊希稱，伊朗今年已劃撥45億美元外匯用於採購藥品和醫療裝置，其中已有13億美元按照補貼匯率撥付到位。
+
+---
+
+### 2026-08-17 00:12:44  #MKT News
+
+Market sources: French Prime Minister Lecornu will hold a crisis meeting on Monday to respond to a cyberattack disclosed last week that targeted the country's tax authority.
+
+---
+
+### 2026-08-17 00:10:42  #其他
+
+巴西總統盧拉開啟連任競選。
+
+---
+
+### 2026-08-17 00:08:48  #國際
+
+伊朗總統：那些在我國境內挑起紛爭的人應當明白，這隻會有利於美國和以色列。
+
+---
+
+### 2026-08-17 00:07:57  #MKT News
+
+According to Al Jazeera, Iran's president said those stirring domestic divisions must realize this only benefits the United States and Israel.
+
+---
+
+### 2026-08-17 00:01:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+IRNA quoted Iran's army general staff as saying it is confident the USS Abraham Lincoln was struck at least once by munitions fired by Iran, temporarily preventing all embarked fighters from launching.
+
+---
+
+### 2026-08-17 00:00:34  #國際
+
+伊朗：儘管遭受戰時損毀，伊朗航天工業仍在繼續推進發展。
+
+---
+
+### 2026-08-16 23:59:06  #國際
+
+伊朗陸軍總司令：我們確信林肯號航空母艦至少遭到過一次伊朗彈藥打擊，受此影響，該艦艦載戰鬥機曾有一段時間完全無法起飛。
+
+---
+
+### 2026-08-16 23:57:47  #其他
+
+法國總理勒科爾尼將於週一召開危機會議，以應對上週曝光的針對該國稅務總局的網路攻擊事件。
+
+---
+
+### 2026-08-16 23:55:09  #其他
+
+【巴西發生一起旅遊大巴翻車事故 已致9人死亡】當地時間8月16日凌晨，巴西里約熱內盧州發生一起交通事故，一輛旅遊大巴在行駛途中翻車，目前已造成至少9人死亡，包括8名成人和1名兒童。
 
 ---
 
@@ -18279,83 +18411,5 @@ Oil Rises on Middle East Risks — Crude oil climbed above $82 per barrel on Fri
 ### 2026-08-14 14:33:51  #Trading Economics #Markets #Commodity #Importance 2
 
 Brent Rises on Middle East Risks — Brent crude climbed toward $88 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
-
----
-
-### 2026-08-14 14:32:32  #Trading Economics #Markets #Canada #currency #Importance 1
-
-Canadian Dollar Hits 9-week High — The Canadian Dollar touched 1.39 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar lost 0.94%, and in the last 12 months, it increased 0.66%.
-
----
-
-### 2026-08-14 14:32:11  #MKT News #Important #Market Regions #Japan & APAC
-
-South Korea's KOSPI index closed 164.0 points higher, up 2.41%, at 6,977.34 on Aug 14 (Friday).
-
----
-
-### 2026-08-14 14:31:43  #國際
-
-【日韓股市集體收漲】日經225指數收漲0.59%，報68713.80點。韓國綜指收漲2.41%，報6977.34點。
-
----
-
-### 2026-08-14 14:31:42  #公司
-
-【里昂：上調長江基建目標價至67港元，維持“跑贏大市”評級】里昂發表研報指，長江基建受惠於出售資產後累積的充足資金、穩定派息及監管重置帶來的順風，成為市場上相對安全的避風港。該行將公司目標價由63港元上調至67港元，維持“跑贏大市”評級。該行表示，長建上半年列賬純利213億港元，同比升389%。即使撇除一次性專案，上半年核心純利仍然穩健。中期息同比升2.7%至每股0.75港元，延續自1996年上市以來每年增加派息的紀錄。該行上調長建今年純利預測155%，以反映上半年出售資產收益，但由於相關資產出售後貢獻減少，下調明年預測15%。
-
----
-
-### 2026-08-14 14:30:54  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei index closed up 405.21 points, or 0.59%, at 68,713.80 on Friday, Aug. 14.
-
----
-
-### 2026-08-14 14:30:52  #MKT News #Market Regions #Greater China
-
-【China Motorcycle Association: July fuel motorcycle sales 1.8996 mln, up 18.85% YoY】China Motorcycle Association data: In July fuel motorcycle production was 1.9384 mln vehicles and sales 1.8996 mln, up 5.13% and 2.97% MoM and 22.32% and 18.85% YoY respectively. Electric motorcycle production was 0.3311 mln and sales 0.3212 mln, down 21.21% and 20.87% MoM but up 10.37% and 9.5% YoY. Total motorcycle production and sales were 2.2696 mln and 2.2208 mln, production +0.24% MoM, sales -1.33% MoM, YoY +20.42% and +17.4%. Domestic motorcycle sales were 0.8012 mln (-8.15% MoM, +7.6% YoY); domestic fuel motorcycle sales were 0.4849 mln (+0.79% MoM, +6.03% YoY).
-
----
-
-### 2026-08-14 14:30:09  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 0.63% Higher — The Nikkei 225 Index gained 432 points or 0.63 percent on Friday to close at 68741 points. Gains were led by Nintendo Co (6.80%), Sony (5.38%) and Furukawa (5.33%). Biggest losers were Isetan Mitsukoshi (-3.92%), DIC (-3.84%) and Toppan (-3.52%).
-
----
-
-### 2026-08-14 14:28:57  #MKT News #CSI300 #Impact bullish #SZSE Component
-
-China A-share electronic chemicals sector extended gains: Haixing Co. hit the daily upper trading limit, Zhongshi Technology was earlier locked at the limit. Siquan New Materials and Longchen Technology rose more than 10%; Fangbang, Guoci Materials, Tongyu New Materials, Tiancheng Technology and Jinhong Gas also advanced.
-
----
-
-### 2026-08-14 14:28:54  #市場 #焦點
-
-PTA連續主力合約日內漲2%，現報5784.00元。
-
----
-
-### 2026-08-14 14:28:22  #公司 #市場
-
-【電子化學品板塊持續走高，海星股份漲停】電子化學品板塊持續走高，海星股份漲停，中石科技此前封板, 思泉新材、龍辰科技漲超10%，方邦股份、國瓷材料、同宇新材、天承科技、金宏氣體等跟漲。
-
----
-
-### 2026-08-14 14:27:54  #觀點
-
-【威靈頓投資：對新興市場股票維持超配評級】8月14日，威靈頓投資管理釋出最新資產配置展望，認為新興市場股票估值接近過去十年最佳水平。該機構表示，繼續看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。具體來看，威靈頓投資管理認為，當前環境仍對全球股票構成支撐，企業盈利繼續推動市場表現，而流動性和企業基本面則有助於抵消地緣政治不確定性的影響。從區域來看，看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。“我們繼續超配新興市場股票，新興市場仍是我們在股票這一資產類別中最為看好的地區，其估值接近過去十年最具吸引力的水平。亞洲科技行業繼續貢獻大部分盈利增長；與此同時，在韓國企業持續去槓桿的背景下，我們仍然看好人工智慧基礎設施。展望未來，我們認為本輪漲勢仍有擴大空間，而大宗商品價格也有望利好拉丁美洲大部分地區。”威靈頓投資管理稱。
-
----
-
-### 2026-08-14 14:27:30  #市場 #焦點
-
-布倫特原油突破88美元/桶，日內漲1.07%。
-
----
-
-### 2026-08-14 14:27:15  #MKT News #Market Themes #China Tech Giants #AI Revolution
-
-【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition.
 
 ---

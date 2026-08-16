@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:53:20_
-_本檔包含 3066 則快訊，約 600960 字_
+_更新時間：2026-08-17 00:38:22_
+_本檔包含 3063 則快訊，約 600920 字_
+
+---
+
+### 2026-08-12 10:03:04  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Slip as Investors Turn Cautious — The Hang Seng Index slipped 1.0%, or 259 points, to 25,390 on Wednesday, as fading hopes for a US-Iran deal and caution ahead of the latest US inflation data weighed on investor sentiment. Oil prices climbed to a one-week high amid tensions surrounding the Strait of Hormuz, raising concerns over inflation and global growth. The decline also followed losses on Wall Street. In the region, Hong Kong technology stocks remained under pressure, with investors closely watching Tencent’s second-quarter earnings for signs of growth in gaming, advertising and AI investments. Meanwhile, plans to expand the Hang Seng Tech Index from 30 to 50 constituents could increase exposure to emerging sectors such as AI and robotics. Hong Kong’s IPO market also remained in focus, with Shein reportedly preparing to launch its Hong Kong IPO, supporting optimism over the city’s capital-market activity. Notable laggards included Tencent (-2.3%), AIA (-0.6%), Lenovo (-0.6%), Kuaishou (-1.6%), and Meituan (-2.3%).
+
+---
+
+### 2026-08-12 10:02:56  #公司
+
+【原寶鋼不鏽鋼有限公司副總經理、寧波寶新不鏽鋼有限公司原董事長何汝迎接受紀律審查和監察調查】據中央紀委國家監委駐中國寶武紀檢監察組、福建省紀委監委訊息：原寶鋼不鏽鋼有限公司副總經理、寧波寶新不鏽鋼有限公司原董事長何汝迎涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國寶武紀檢監察組紀律審查和福建省莆田市監察委員會監察調查。
+
+---
+
+### 2026-08-12 10:02:24  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Approaches 4-Month High — US heating oil futures advanced toward $4.30 per gallon on Wednesday, approaching a four-month high amid mounting concerns over tight distillate supplies. Yemen’s Houthis recently attacked Saudi Arabia’s Jazan refinery, which has been shut since July 27 following an earlier strike by the group. Plans to restart the facility have since been postponed from August 15 to August 30. Russia’s fuel export restrictions have also added to global supply concerns. This comes on top of uncertainty over the Strait of Hormuz, where markets are assessing the prospects for a potential US-Iran agreement on the key waterway. Pakistan’s defense minister said Washington and Tehran were “close to some sort of arrangement,” while a Qatari official cited by Al Jazeera said Iran-Oman talks had reached an advanced stage. Meanwhile, US refiners are processing crude at the highest seasonal pace since 2018, despite capacity falling by 600,000 barrels per day over the same period.
+
+---
+
+### 2026-08-12 10:02:03  #其他
+
+【最高法釋出7件特許經營典型案例 明確被特許人享有“冷靜期”單方解除權】今天，最高人民法院釋出7件關於特許經營的典型案例，引導和規範經營主體誠信合規經營，促進特許經營健康有序發展。其中一個特點是依法保障被特許人合法權益。在特許經營活動中，特許人與被特許人資訊不對稱、簽約能力不對等，被特許人處於相對弱勢地位，容易發生權利義務失衡。案例二中，雖然涉案合同未明確約定被特許人在特許經營合同訂立後一定期限內可以單方解除合同（俗稱“冷靜期”條款），但人民法院明確被特許人享有的“冷靜期”單方解除權屬於法定權利，被特許人可以在經營資源尚未被實際利用的合理期限內依法行使。案例五中，特許人在合同履行期間被撤銷備案資格，履約能力明顯弱化，人民法院依法支援了被特許人解除合同的訴請。(央視新聞)
+
+---
+
+### 2026-08-12 10:01:34  #其他
+
+小米汽車微博稱， 7月11日-10月10日，凡氣象臺釋出颱風/暴雨/冰雹預警的城市，小米汽車為車主提供3大保障： 1）24h免費道路救援（含吊車，不限次）； 2）涉水專項檢查免費，到店即享； 3）災害維修完成後，免費還車到家。
+
+---
+
+### 2026-08-12 10:00:48  #MKT News #Market Regions #Japan & APAC
+
+Japan 30-year government bond yield rose 3 bps to 3.980%.
+
+---
+
+### 2026-08-12 10:00:30  #市場 #國際
+
+碳酸鋰主力合約突破15萬關口，漲幅擴大至3.59%。
+
+---
+
+### 2026-08-12 10:00:23  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate most-active contract jumped past 150,000, extending gains to 3.59%.
+
+---
+
+### 2026-08-12 09:59:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+China A-share power sector pulled back; Li New Energy fell more than 5%, with Lvfa Power, Lingda Co. and Jingneng Power also declining.
+
+---
+
+### 2026-08-12 09:58:34  #公司
+
+【青島啤酒等成立華樽酒業新公司】企查查APP顯示，近日，青島華樽酒業有限公司成立，經營範圍包含貨物進出口；品牌管理；供應鏈管理服務等。企查查股權穿透顯示，該公司由青島啤酒等共同持股。
+
+---
+
+### 2026-08-12 09:57:54  #公司
+
+【電力板塊走弱 立新能源跌超5%】電力板塊走弱，立新能源跌超5%，綠髮電力、聆達股份、京能電力等股跟跌。
+
+---
+
+### 2026-08-12 09:57:08  #公司 #市場
+
+AI應用方向早盤走高，省廣集團、風語築雙雙漲停，天龍集團漲超10%，引力傳媒、福石控股、佳雲科技等跟漲。
+
+---
+
+### 2026-08-12 09:56:44  #其他
+
+【磷化銦概念股震盪走高 歐萊新材漲超9%】磷化銦概念股震盪走高，歐萊新材漲超9%，雲南鍺業、華錫有色等股跟漲。
+
+---
+
+### 2026-08-12 09:56:34  #公司 #市場
+
+【有色·鋁概念震盪走強 宏橋控股漲停】有色·鋁概念盤中震盪走強，宏橋控股漲停，天山鋁業、南山鋁業、中孚實業、雲鋁股份、中國鋁業、神火股份漲幅靠前。
+
+---
+
+### 2026-08-12 09:56:02  #MKT News #Commodities #Industrial Metals
+
+Lithium carbonate most-active futures contract rose more than 3% to 149,820 yuan/ton.
 
 ---
 
@@ -18380,113 +18470,5 @@ Yemen's Joint Forces on the west coast said Houthi fighters carried out their te
 ### 2026-08-11 07:44:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Futures Flat After Lackluster Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, as persistent uncertainty over a US-Iran deal and expectations for tighter monetary policy weighed on sentiment. In regular trading on Monday, the Dow fell 0.11%, while the S&P 500 and Nasdaq Composite declined 0.06% and 0.32%, respectively. Oil prices rallied sharply as uncertainty surrounding the Middle East conflict continued to weigh on markets, pushing Treasury yields higher and raising concerns that the Federal Reserve may need to raise interest rates soon despite signs of a cooling labor market. Investors now await key inflation data due this week for further clues on the monetary policy outlook. On the corporate front, earnings are due today from Cardinal Health, CoreWeave and Super Micro Computer, among others.
-
----
-
-### 2026-08-11 07:44:32  #宏觀 #國際
-
-【委內瑞拉代總統會見了美國官員】委內瑞拉代總統德爾西·羅德里格斯在加拉加斯會見了美國財政部和州政府官員。
-
----
-
-### 2026-08-11 07:44:12  #央行 #歐洲央行
-
-【控通脹還是穩增長：歐洲央行左右為難】在製造業、服務業和主要國家經濟增長資料的帶動下，7月歐元區經濟出現緩慢回暖跡象。然而，8月以來，受極端天氣和中東局勢動盪持續影響，歐元區通脹走高、能源供應吃緊，增添了歐洲央行9月加息決策的難度和不確定性。
-
----
-
-### 2026-08-11 07:42:58  #其他
-
-電商物流供給穩定向好。7月份，企業庫存流轉效率進一步提升，庫存週轉率指數環比回升0.4點，連續三個月回升。自2月份起，物流時效、履約率、滿意率三項指數連續回升，物流服務質量穩步最佳化。另外，成本指數環比回落0.3點，企業經營壓力有所緩解。
-
----
-
-### 2026-08-11 07:42:43  #其他
-
-【執行基本盤穩固 7月份中國電商物流指數公佈】中國物流與採購聯合會今天（11日）公佈7月份中國電商物流指數。電商物流供給穩定向好，企業庫存流轉效率進一步提升。7月份中國電商物流指數為111.2點，環比回落0.2點。電商物流迎來季節性調整，平臺集中促銷效應逐步消退，電商市場迴歸常態化執行，電商物流需求有所回落，但行業執行基本盤依舊穩固。7月份，電商物流總業務量與農村業務量均保持20%以上的同比增速。分地區看，西部、東北部電商物流農村業務量指數持續向好。
-
----
-
-### 2026-08-11 07:42:26  #公司 #觀點 #國際
-
-【摩根士丹利啟動“美國創新基礎設施計劃”，目標促成1.5萬億美元投融資等活動】摩根士丹利8月10日宣佈啟動“美國創新基礎設施計劃”，計劃未來十年內促成總額約1.5萬億美元的資本籌集、融資、諮詢及相關投資活動。宣告稱，該計劃將重點關注三大領域：創新平臺和戰略產業、服務於創新經濟的基礎設施以及為創業者和成長型公司提供資金。
-
----
-
-### 2026-08-11 07:41:52  #公司 #市場 #觀點
-
-【金剛石散熱材料迎來發展機遇 3只金剛石概念股市場表現亮眼】隨著人工智慧（AI）大模型持續升級，高階晶片算力越來越強、功耗越來越高，隨之而來的晶片散熱難題，成為產業發展的核心瓶頸，行業迫切需要熱導率更高且兼具電絕緣和CTE匹配的新材料，金剛石由此進入視野。據中泰證券研報預測，2026年全球高階AI晶片用金剛石散熱片市場規模有望達到87億元，至2030年有望快速增長至592億元，複合年均增長率超過50%。作為晶片散熱的重要一環，金剛石概念股年內受到市場廣泛關注。據證券時報·資料寶統計，金剛石概念股今年以來平均上漲33.73%，大幅跑贏同期上證指數。四方達、惠豐鑽石、黃河旋風年內累計漲幅均翻倍。從調研情況來看，今年以來機構調研頻次最高的金剛石概念股為國機精工，達到31次。公司表示，目前，金剛石散熱片和金剛石光學視窗片已有小批次訂單，主要供應國防工業領域，2025年實現收入超1000萬元。
-
----
-
-### 2026-08-11 07:40:24  #其他
-
-【百濟神州與Revolution Medicines達成臨床開發及區域商業化合作】8月10日，百濟神州宣佈達成一項多方面合作協議。根據協議，雙方將開展臨床合作，共同評估百濟神州部分處於臨床階段的腫瘤候選藥物與Revolution Medicines四款臨床階段RAS（ON）抑制劑中任意一款或多款藥物的聯合治療方案；同時，雙方還達成區域授權協議，百濟神州獲得Revolution Medicines上述候選藥物在部分亞洲市場的獨家開發及商業化權益。
-
----
-
-### 2026-08-11 07:40:20  #市場 #國際
-
-【原油期貨小幅走低，或因技術性回撥】在隔夜強勁上漲後，原油期貨在亞洲早盤小幅走低，或因技術性回撥。然而，原油期貨的跌幅可能會受到限制，因為迅速達成重新開放霍爾木茲海峽協議的希望正在變得渺茫，該海峽是一條關鍵水道，全球五分之一的原油透過該水道運輸。據《華爾街日報》援引美國官員的話報道，美國總統特朗普對伊朗戰爭採取了觀望態度，這將使金融制裁和美國對伊朗港口的海軍封鎖有更多時間對這個中東國家造成經濟傷害。近月西得州中質油期貨下跌0.1%，報每桶82.08美元。
-
----
-
-### 2026-08-11 07:39:29  #國際
-
-【提醒】今日日本股市因公共假期休市一日。
-
----
-
-### 2026-08-11 07:37:43  #其他
-
-【哥倫比亞強震後 大量航班取消或延誤】據中國地震臺網正式測定，當地時間8月10日7時34分，哥倫比亞發生7.5級地震，震源深度80公里。哥倫比亞發生強烈地震後，該國多個機場暫停運營，大量航班被迫取消或延誤。總檯記者在首都波哥大的埃爾多拉多國際機場看到，很多旅客出行受阻、滯留機場。
-
----
-
-### 2026-08-11 07:36:03  #其他
-
-【安徽淠河發生2026年第1號洪水】受今年第13號颱風“白海豚”帶來降雨的影響，8月11日2時36分，安徽淠河橫排頭水文站（安徽六安）水位漲至警戒水位（54.00米），依據主要江河洪水編號規定，此次洪水編號為“安徽淠河2026年第1號洪水”。水利部緊盯淠河汛情發展態勢，加強雨水情監測預報預警，提前啟動針對安徽省的洪水防禦Ⅳ級應急響應，督促地方強化水工程排程，落實落細洪水防禦各項措施，全力確保人民群眾生命安全。目前，水利部工作組正在安徽省颱風暴雨洪水防禦一線協助指導。
-
----
-
-### 2026-08-11 07:35:45  #國際
-
-【朝中社：日本2026年版《防衛白皮書》是再侵略白皮書】據朝中社11日報道，朝鮮國際安保問題評論家發表文章稱，國際社會譴責日本2026年版《防衛白皮書》是再侵略白皮書。文章說，日本把否定歷史犯罪和實現軍事大國化作為“國策”，比以往任何時候都進一步強化同美國等勢力的同盟。日本在《防衛白皮書》中把朝鮮等周邊國家描寫為“重大而緊迫的威脅”“最大的戰略挑戰”，企圖使其擴軍備武行為合理化。文章認為，“侵略基因”一直存在於日本的政治風土中，且越來越危險。日本企圖披著“防衛”外衣，掩蓋其侵略本質，但無法掩蓋其蹂躪地區和平、加劇緊張局勢的禍根實質。文章呼籲，國際社會應對嚴重危害地區和平與安全、日趨危險的日本新軍國主義活動提高警惕。
-
----
-
-### 2026-08-11 07:34:19  #公司 #國際
-
-【美國證交會：金融科技公司Netcapital藉助虛假交易虛增營收】美國證券交易委員會對Netcapital公司及其五名高管提起訴訟，指控其透過偽造諮詢協議虛增1400萬美元公司營收，該行為違反聯邦證券法。美國證券交易委員會於週一向馬薩諸塞州聯邦地區法院提交的起訴狀顯示，被指控的舞弊行為在2021年10月至2024年1月期間，將Netcapital的營收虛高345%。時任高管之一、納普斯特（Napster）創始董事長約翰・範寧，被指控操控多家空殼公司，與Netcapital子公司簽訂多份虛假諮詢協議，每份協議金額100萬至200萬美元。Netcapital運營著一個線上投資平臺，可供私營企業開展融資。
-
----
-
-### 2026-08-11 07:33:11  #其他
-
-【CoreWeave完成26億美元AI基礎設施貸款融資】8月10日，CoreWeave宣佈完成26億美元延期提款定期貸款融資，以支援其AI雲平臺的持續擴張及已承諾的客戶部署專案，融資期限約為五年。融資所得資金將用於採購和部署專用於客戶合同的高效能運算（HPC）基礎設施。
-
----
-
-### 2026-08-11 07:32:18  #國際
-
-日本宇宙航空研究開發機構（JAXA）：確認準天頂衛星系統（QZSS）的 “Michibiki No. 7”已進入預定軌道。
-
----
-
-### 2026-08-11 07:30:30  #公司
-
-【寧德時代系晨道資本領投靈猴機器人超億元C輪融資】8月10日，蘇州靈猴機器人有限公司官宣完成超億元C輪融資。本輪融資由寧德時代系產業投資平臺晨道資本領投，工業母機產業投資基金、豫信電科旗下信產基金、某知名規模數百億元的雙幣基金聯合跟投，蘇創投、古玉資本等原有老股東持續加碼追加投資。
-
----
-
-### 2026-08-11 07:30:22  #其他
-
-【新增專項債加速落地 年內建換債發行近九成】據Wind資料顯示，截至8月10日，年內各地發行新增專項債規模已達25448.07億元，發行進度較全年額度的4.4萬億元，已達57.8%；其中，年內用於置換存量隱性債務的再融資專項債券發行規模已達到17942.43億元，完成全年限額2萬億元的89.7%，接近九成。粵開證券首席經濟學家、研究院院長羅志恆表示，下半年，隨著儲備專案持續落地以及債務資金加快發行，預計財政支出增速將明顯高於上半年，推動經濟回升。（證券日報）
-
----
-
-### 2026-08-11 07:29:27  #央行 #資料 #觀點
-
-【中信建投：7月通脹水平有所回落，CPI、PPI同比漲幅均有所收窄】中信建投研報認為，7月通脹水平有所回落，CPI、PPI同比漲幅均有所收窄。CPI方面，汽油價格漲幅回落成為主要影響因素，剔除食品與能源後的核心CPI同比增速0.9%，處於溫和增長狀態，邊際變化較小。PPI方面，石油、化工相關原材料價格的回落帶動PPI同比增速放緩，PPI增速已經過階段性高點。總的來看，7月通脹水平的回落仍有較為明顯的輸入性特點，國際原油價格的回落顯著降低了國內通脹壓力。市場層面，當前物價資料繼續支撐債市中長期偏強的態勢，但由於核心CPI變化較小，短期內通脹格局未有根本性變化。後續可持續關注核心CPI的走勢以判斷央行增量貨幣政策的視窗。
 
 ---

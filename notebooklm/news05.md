@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:53:20_
-_本檔包含 2952 則快訊，約 600885 字_
+_更新時間：2026-08-17 00:38:22_
+_本檔包含 2950 則快訊，約 600225 字_
+
+---
+
+### 2026-08-11 07:44:32  #宏觀 #國際
+
+【委內瑞拉代總統會見了美國官員】委內瑞拉代總統德爾西·羅德里格斯在加拉加斯會見了美國財政部和州政府官員。
+
+---
+
+### 2026-08-11 07:44:12  #央行 #歐洲央行
+
+【控通脹還是穩增長：歐洲央行左右為難】在製造業、服務業和主要國家經濟增長資料的帶動下，7月歐元區經濟出現緩慢回暖跡象。然而，8月以來，受極端天氣和中東局勢動盪持續影響，歐元區通脹走高、能源供應吃緊，增添了歐洲央行9月加息決策的難度和不確定性。
+
+---
+
+### 2026-08-11 07:42:58  #其他
+
+電商物流供給穩定向好。7月份，企業庫存流轉效率進一步提升，庫存週轉率指數環比回升0.4點，連續三個月回升。自2月份起，物流時效、履約率、滿意率三項指數連續回升，物流服務質量穩步最佳化。另外，成本指數環比回落0.3點，企業經營壓力有所緩解。
+
+---
+
+### 2026-08-11 07:42:43  #其他
+
+【執行基本盤穩固 7月份中國電商物流指數公佈】中國物流與採購聯合會今天（11日）公佈7月份中國電商物流指數。電商物流供給穩定向好，企業庫存流轉效率進一步提升。7月份中國電商物流指數為111.2點，環比回落0.2點。電商物流迎來季節性調整，平臺集中促銷效應逐步消退，電商市場迴歸常態化執行，電商物流需求有所回落，但行業執行基本盤依舊穩固。7月份，電商物流總業務量與農村業務量均保持20%以上的同比增速。分地區看，西部、東北部電商物流農村業務量指數持續向好。
+
+---
+
+### 2026-08-11 07:42:26  #公司 #觀點 #國際
+
+【摩根士丹利啟動“美國創新基礎設施計劃”，目標促成1.5萬億美元投融資等活動】摩根士丹利8月10日宣佈啟動“美國創新基礎設施計劃”，計劃未來十年內促成總額約1.5萬億美元的資本籌集、融資、諮詢及相關投資活動。宣告稱，該計劃將重點關注三大領域：創新平臺和戰略產業、服務於創新經濟的基礎設施以及為創業者和成長型公司提供資金。
+
+---
+
+### 2026-08-11 07:41:52  #公司 #市場 #觀點
+
+【金剛石散熱材料迎來發展機遇 3只金剛石概念股市場表現亮眼】隨著人工智慧（AI）大模型持續升級，高階晶片算力越來越強、功耗越來越高，隨之而來的晶片散熱難題，成為產業發展的核心瓶頸，行業迫切需要熱導率更高且兼具電絕緣和CTE匹配的新材料，金剛石由此進入視野。據中泰證券研報預測，2026年全球高階AI晶片用金剛石散熱片市場規模有望達到87億元，至2030年有望快速增長至592億元，複合年均增長率超過50%。作為晶片散熱的重要一環，金剛石概念股年內受到市場廣泛關注。據證券時報·資料寶統計，金剛石概念股今年以來平均上漲33.73%，大幅跑贏同期上證指數。四方達、惠豐鑽石、黃河旋風年內累計漲幅均翻倍。從調研情況來看，今年以來機構調研頻次最高的金剛石概念股為國機精工，達到31次。公司表示，目前，金剛石散熱片和金剛石光學視窗片已有小批次訂單，主要供應國防工業領域，2025年實現收入超1000萬元。
+
+---
+
+### 2026-08-11 07:40:24  #其他
+
+【百濟神州與Revolution Medicines達成臨床開發及區域商業化合作】8月10日，百濟神州宣佈達成一項多方面合作協議。根據協議，雙方將開展臨床合作，共同評估百濟神州部分處於臨床階段的腫瘤候選藥物與Revolution Medicines四款臨床階段RAS（ON）抑制劑中任意一款或多款藥物的聯合治療方案；同時，雙方還達成區域授權協議，百濟神州獲得Revolution Medicines上述候選藥物在部分亞洲市場的獨家開發及商業化權益。
+
+---
+
+### 2026-08-11 07:40:20  #市場 #國際
+
+【原油期貨小幅走低，或因技術性回撥】在隔夜強勁上漲後，原油期貨在亞洲早盤小幅走低，或因技術性回撥。然而，原油期貨的跌幅可能會受到限制，因為迅速達成重新開放霍爾木茲海峽協議的希望正在變得渺茫，該海峽是一條關鍵水道，全球五分之一的原油透過該水道運輸。據《華爾街日報》援引美國官員的話報道，美國總統特朗普對伊朗戰爭採取了觀望態度，這將使金融制裁和美國對伊朗港口的海軍封鎖有更多時間對這個中東國家造成經濟傷害。近月西得州中質油期貨下跌0.1%，報每桶82.08美元。
+
+---
+
+### 2026-08-11 07:39:29  #國際
+
+【提醒】今日日本股市因公共假期休市一日。
+
+---
+
+### 2026-08-11 07:37:43  #其他
+
+【哥倫比亞強震後 大量航班取消或延誤】據中國地震臺網正式測定，當地時間8月10日7時34分，哥倫比亞發生7.5級地震，震源深度80公里。哥倫比亞發生強烈地震後，該國多個機場暫停運營，大量航班被迫取消或延誤。總檯記者在首都波哥大的埃爾多拉多國際機場看到，很多旅客出行受阻、滯留機場。
+
+---
+
+### 2026-08-11 07:36:03  #其他
+
+【安徽淠河發生2026年第1號洪水】受今年第13號颱風“白海豚”帶來降雨的影響，8月11日2時36分，安徽淠河橫排頭水文站（安徽六安）水位漲至警戒水位（54.00米），依據主要江河洪水編號規定，此次洪水編號為“安徽淠河2026年第1號洪水”。水利部緊盯淠河汛情發展態勢，加強雨水情監測預報預警，提前啟動針對安徽省的洪水防禦Ⅳ級應急響應，督促地方強化水工程排程，落實落細洪水防禦各項措施，全力確保人民群眾生命安全。目前，水利部工作組正在安徽省颱風暴雨洪水防禦一線協助指導。
+
+---
+
+### 2026-08-11 07:35:45  #國際
+
+【朝中社：日本2026年版《防衛白皮書》是再侵略白皮書】據朝中社11日報道，朝鮮國際安保問題評論家發表文章稱，國際社會譴責日本2026年版《防衛白皮書》是再侵略白皮書。文章說，日本把否定歷史犯罪和實現軍事大國化作為“國策”，比以往任何時候都進一步強化同美國等勢力的同盟。日本在《防衛白皮書》中把朝鮮等周邊國家描寫為“重大而緊迫的威脅”“最大的戰略挑戰”，企圖使其擴軍備武行為合理化。文章認為，“侵略基因”一直存在於日本的政治風土中，且越來越危險。日本企圖披著“防衛”外衣，掩蓋其侵略本質，但無法掩蓋其蹂躪地區和平、加劇緊張局勢的禍根實質。文章呼籲，國際社會應對嚴重危害地區和平與安全、日趨危險的日本新軍國主義活動提高警惕。
+
+---
+
+### 2026-08-11 07:34:19  #公司 #國際
+
+【美國證交會：金融科技公司Netcapital藉助虛假交易虛增營收】美國證券交易委員會對Netcapital公司及其五名高管提起訴訟，指控其透過偽造諮詢協議虛增1400萬美元公司營收，該行為違反聯邦證券法。美國證券交易委員會於週一向馬薩諸塞州聯邦地區法院提交的起訴狀顯示，被指控的舞弊行為在2021年10月至2024年1月期間，將Netcapital的營收虛高345%。時任高管之一、納普斯特（Napster）創始董事長約翰・範寧，被指控操控多家空殼公司，與Netcapital子公司簽訂多份虛假諮詢協議，每份協議金額100萬至200萬美元。Netcapital運營著一個線上投資平臺，可供私營企業開展融資。
+
+---
+
+### 2026-08-11 07:33:11  #其他
+
+【CoreWeave完成26億美元AI基礎設施貸款融資】8月10日，CoreWeave宣佈完成26億美元延期提款定期貸款融資，以支援其AI雲平臺的持續擴張及已承諾的客戶部署專案，融資期限約為五年。融資所得資金將用於採購和部署專用於客戶合同的高效能運算（HPC）基礎設施。
+
+---
+
+### 2026-08-11 07:32:18  #國際
+
+日本宇宙航空研究開發機構（JAXA）：確認準天頂衛星系統（QZSS）的 “Michibiki No. 7”已進入預定軌道。
+
+---
+
+### 2026-08-11 07:30:30  #公司
+
+【寧德時代系晨道資本領投靈猴機器人超億元C輪融資】8月10日，蘇州靈猴機器人有限公司官宣完成超億元C輪融資。本輪融資由寧德時代系產業投資平臺晨道資本領投，工業母機產業投資基金、豫信電科旗下信產基金、某知名規模數百億元的雙幣基金聯合跟投，蘇創投、古玉資本等原有老股東持續加碼追加投資。
+
+---
+
+### 2026-08-11 07:30:22  #其他
+
+【新增專項債加速落地 年內建換債發行近九成】據Wind資料顯示，截至8月10日，年內各地發行新增專項債規模已達25448.07億元，發行進度較全年額度的4.4萬億元，已達57.8%；其中，年內用於置換存量隱性債務的再融資專項債券發行規模已達到17942.43億元，完成全年限額2萬億元的89.7%，接近九成。粵開證券首席經濟學家、研究院院長羅志恆表示，下半年，隨著儲備專案持續落地以及債務資金加快發行，預計財政支出增速將明顯高於上半年，推動經濟回升。（證券日報）
+
+---
+
+### 2026-08-11 07:29:27  #央行 #資料 #觀點
+
+【中信建投：7月通脹水平有所回落，CPI、PPI同比漲幅均有所收窄】中信建投研報認為，7月通脹水平有所回落，CPI、PPI同比漲幅均有所收窄。CPI方面，汽油價格漲幅回落成為主要影響因素，剔除食品與能源後的核心CPI同比增速0.9%，處於溫和增長狀態，邊際變化較小。PPI方面，石油、化工相關原材料價格的回落帶動PPI同比增速放緩，PPI增速已經過階段性高點。總的來看，7月通脹水平的回落仍有較為明顯的輸入性特點，國際原油價格的回落顯著降低了國內通脹壓力。市場層面，當前物價資料繼續支撐債市中長期偏強的態勢，但由於核心CPI變化較小，短期內通脹格局未有根本性變化。後續可持續關注核心CPI的走勢以判斷央行增量貨幣政策的視窗。
 
 ---
 
@@ -17703,125 +17811,5 @@ Axios reports President Trump said on Iran, 'we are handling it quietly'.
 ### 2026-08-10 00:39:23  #MKT News
 
 HEZBOLLAH said direct talks between Israel and Lebanon are an undisguised attempt to buy time and impose new facts on the ground.
-
----
-
-### 2026-08-10 00:38:16  #MKT News
-
-Lebanon's Hezbollah urged the government to halt direct negotiations with Israel and to lodge an urgent complaint with the UN Security Council.
-
----
-
-### 2026-08-10 00:38:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-HEZBOLLAH said authorities should bear responsibility for pursuing a path toward compromise in response to Israel's foreign ministry publishing a map that includes southern Lebanon.
-
----
-
-### 2026-08-10 00:36:53  #MKT News #Market Regions #Europe & UK
-
-【Shooting in Holbæk, Denmark — multiple injured; police say likely gang-related】Danish police said a shooting in Holbæk on Aug. 9 at about 15:45 local time left multiple people wounded; exact casualty figures are unknown. Police said the incident likely stemmed from a criminal gang transaction; no arrests have been made. Holbæk is about 60 km west of Copenhagen and has roughly 30,000 residents.
-
----
-
-### 2026-08-10 00:36:13  #國際
-
-伊朗總統：我們與地區國家的溝通正在改善。對比過去，尤其是戰爭高峰期的狀況更是如此，此前我們的關係本就十分良好。巴基斯坦如今正全心全意開展合作。阿富汗的合作情況十分理想。土庫曼方面情況良好。亞塞拜然此前切斷了所有通道，還關停了我方銀行。我們致電與其交涉；經過兩小時會談後，對方重新予以開放。銀行、大使館以及各類通道全部恢復運作。
-
----
-
-### 2026-08-10 00:32:22  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Saudi outlet Alhadath quoted Yemen's National Resistance Forces saying the Houthi movement is an Iranian proxy whose decision-making is controlled by Iran. The group said the Houthis seek to serve Iran by creating chaos and escalating tensions to relieve external pressure, called the Houthis a "war instrument" rather than a tool for peace and said peace with them is impossible, and warned their adventurism will not be tolerated.
-
----
-
-### 2026-08-10 00:30:57  #其他
-
-【丹麥霍爾拜克市發生槍擊事件 多人受傷】當地時間8月9日，據丹麥警方訊息，該國霍爾拜克市發生一起槍擊事件，多人受傷。警方表示，在當地時間15時45分左右接到槍擊事件警報。目前尚不清楚具體受傷人數。警方稱，槍擊事件很可能由一起“犯罪團伙交易”引發，目前尚未有人被捕。
-
----
-
-### 2026-08-10 00:29:31  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-Market sources say Tesla (TSLA.O) will increase delivery locations in Japan by 60% this year.
-
----
-
-### 2026-08-10 00:27:08  #其他
-
-伊拉克訊息人士：各方已達成政治協議，將於明年9月底前將各武裝派系武器移交人民動員組織。
-
----
-
-### 2026-08-10 00:26:46  #MKT News
-
-Iraqi media cite Coordination Framework sources saying a political agreement has been reached; factions will transfer weapons to the Popular Mobilization Forces by the end of September.
-
----
-
-### 2026-08-10 00:19:04  #MKT News
-
-Yemen deputy defense minister says responses to the Houthi movement will be decided based on national interest.
-
----
-
-### 2026-08-10 00:18:19  #國際
-
-特斯拉今年將把日本的車輛交付網點數量增加60%。
-
----
-
-### 2026-08-10 00:18:02  #MKT News
-
-【Typhoon White Dolphin rainfall triggers Jiaojiang (Zhejiang) 2026 No.2 flood】Rainfall from Typhoon White Dolphin raised the water level at Baizhizao hydrological station in Jiaojiang, Taizhou, Zhejiang to 17.03 m at 22:55 on Aug 9, 0.03 m above the 17.00 m warning level; corresponding discharge was 3,900 m3/s. Under main rivers flood numbering rules the event is designated Jiaojiang 2026 No.2 flood.
-
----
-
-### 2026-08-10 00:14:41  #其他
-
-【浙江省椒江發生2026年第2號洪水】受今年第13號颱風“白海豚”帶來降雨的影響，8月9日22時55分，浙江椒江柏枝岙水文站（浙江台州）水位漲至17.03米，超過警戒水位（17.00米）0.03米，相應流量3900立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“椒江2026年第2號洪水”。（央視新聞）
-
----
-
-### 2026-08-10 00:12:03  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Yemen's deputy defense minister said Houthi forces' systematic attacks on civilian targets are directed at the civilian population.
-
----
-
-### 2026-08-10 00:11:54  #MKT News
-
-【Magnitude-4.4 quake strikes northern Shiga Prefecture, Japan】Japan Meteorological Agency said a magnitude-4.4 earthquake struck northern Shiga Prefecture at about 00:48 JST on the 10th, at a depth of 20 km. Maximum seismic intensity was 3 on the JMA scale. No tsunami risk was expected.
-
----
-
-### 2026-08-10 00:11:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemen's deputy defense minister said Houthi attacks aim to draw Yemen into a regional conflict.
-
----
-
-### 2026-08-10 00:10:56  #國際
-
-【日本滋賀縣北部發生4.4級地震】據日本氣象廳10日訊息，當地時間當天0時48分左右，日本滋賀縣北部發生4.4級地震，最大震感為震度3，震源深度20公里。本次地震沒有引發海嘯的風險。（央視新聞）
-
----
-
-### 2026-08-09 23:56:50  #國際
-
-特朗普：託德·布蘭奇以50票贊成、49票反對的結果正式獲批出任司法部長。
-
----
-
-### 2026-08-09 23:55:14  #公司 #焦點
-
-【深圳飛往無錫航班遭雷擊 南航回應：機身發現雷擊點20餘處】有網友日前發文表示，自己乘坐的深圳飛往無錫的南方航空CZ3209航班，在滑行排隊起飛過程中遭遇雷擊，幾分鐘後機長廣播通知回停機位檢查，原本預計下午4點半起飛，延遲到晚上8點40，航班延誤3小時，後續安排更換飛機出行。對此，南方航空公司工作人員回應表示，8月8日，南航CZ3209深圳至無錫航班，原計劃從深圳寶安國際機場起飛，但在深圳機場滑行過程中，飛機疑似遭雷擊，隨後決策滑回檢查。經機務人員檢查確認該飛機的機腹和機翼升降舵發現雷擊點約20餘處。 (深圳廣電集團都市頻道)
-
----
-
-### 2026-08-09 23:54:36  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Yemeni government condemns Houthi attack on Mocha port, says Red Sea shipping at risk】The Yemeni government condemned a Houthi attack on Mocha port, calling it a terrorist act that amounts to warfare against the state and national economy. It accused the Houthis of systematically striking ports and infrastructure while alleging government siege, and blamed Iran for supplying weapons and technical support. The government warned the threat now extends to regional and international security and endangers Red Sea shipping, said it will protect strategic facilities, and urged the international community to take concrete steps to cut Houthi funding and arms flows rather than issue verbal condemnations.
 
 ---

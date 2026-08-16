@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:53:20_
-_本檔包含 2959 則快訊，約 600802 字_
+_更新時間：2026-08-17 00:38:22_
+_本檔包含 2964 則快訊，約 600433 字_
+
+---
+
+### 2026-08-13 13:36:51  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index (TAIEX) closed up 503.41 points, or 1.11%, at 46,021.48 on Thursday, Aug. 13.
+
+---
+
+### 2026-08-13 13:36:18  #公司 #市場
+
+【電網裝置板塊短線拉昇，望變電氣漲停】電網裝置板塊短線拉昇，望變電氣漲停，良信股份此前漲停，煜邦電力、華盛昌、金盤科技、長城科技、明陽電氣跟漲。
+
+---
+
+### 2026-08-13 13:35:43  #其他
+
+臺灣證交所加權股價指數收高1.1%報46,021.48點。
+
+---
+
+### 2026-08-13 13:35:20  #公司
+
+【“兩彈一星”元勳王希季逝世 享年105歲】中國共產黨優秀黨員，我國航天事業開拓者之一，著名空間技術專家，中國科學院院士，國家“兩彈一星功勳獎章”獲得者，中國航天科技集團有限公司科學技術委員會原顧問，中國空間技術研究院技術顧問王希季同志，因病醫治無效，於2026年8月12日在北京逝世，享年105歲。（央視新聞）
+
+---
+
+### 2026-08-13 13:31:06  #國際
+
+印度7月乘用車銷量為457,810輛。
+
+---
+
+### 2026-08-13 13:30:56  #MKT News
+
+A-share Shenzhen SOE reform sector briefly rallied intraday; Shenzhen Zhenye A hit the daily limit, while Shahe Co., Shenzhen Property A, Shenzhen Textile A, SEG and Shenzhen Urban Transport also advanced.
+
+---
+
+### 2026-08-13 13:30:52  #其他
+
+【廣東電網系統負荷今年第五次創新高】據“廣東電網”訊息，8月12日13時41分，廣東電網系統負荷今年第五次創新高，成為首個突破1.8億千瓦的省級電網。
+
+---
+
+### 2026-08-13 13:30:32  #MKT News #Commodities #Energy
+
+Guangdong power grid said at 13:41 on Aug 12 its system load hit a fifth record high this year, reaching 180 million kilowatts (180 GW), making it the first provincial grid to exceed 180 million kW.
+
+---
+
+### 2026-08-13 13:30:22  #國際
+
+【泰國呵叻府發生傷人事件 6人受傷】12日晚，泰國東北部呵叻府一處市場發生一起持刀和槍擊傷人事件，造成6人受傷。據現場目擊者稱，一個盜竊團伙12日晚在事發市場附近偷盜摩托車時被車主發現，團伙中一人逃跑後又帶同夥返回，他們持刀傷人，並用自制霰彈槍向人群射擊，共造成6人受傷，其中一人傷勢嚴重。警方接到報案後趕赴現場並逮捕一名嫌疑人。泰國總理阿努廷13日上午接受媒體採訪時對這一事件表示震驚，強調必須對泰國槍支援有制度進行結構性改革。
+
+---
+
+### 2026-08-13 13:30:03  #公司 #市場
+
+【深圳國企改革板塊短線拉昇，深振業A漲停】深圳國企改革板塊短線拉昇，深振業A漲停，沙河股份、深物業A、深紡織A、深賽格、深城交等紛紛走高。
+
+---
+
+### 2026-08-13 13:30:03  #市場 #焦點
+
+甲醇連續主力合約日內漲2%，現報2657.00元。
+
+---
+
+### 2026-08-13 13:29:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Russia said it struck Ukraine's Reni port.
+
+---
+
+### 2026-08-13 13:28:30  #國際
+
+俄羅斯稱襲擊了烏克蘭烈尼港。
+
+---
+
+### 2026-08-13 13:24:19  #MKT News
+
+South Korea's President Lee said the property bubble must not be allowed to continue expanding, warning the issue can no longer be ignored and that real estate is a key concern for all regions.
+
+---
+
+### 2026-08-13 13:22:48  #公司
+
+【多趟途經鄭州的列車折返，有列車中途臨停兩個半小時，12306：受極端天氣影響，可辦理退票或改簽】8月13日，多名網友發文稱，自己乘坐火車在臨近鄭州時折返或提前下車。“鐵路鄭州站”當天在官方微博釋出停運公告，稱因地質災害風險導致多趟列車停運。12306客服人員回應稱，受天氣影響，部分列車停運，旅客可在12306APP查詢停運列車資訊，並免費辦理退票。（極目新聞）
+
+---
+
+### 2026-08-13 13:21:28  #公司 #國際
+
+【印度謀求參與法國六代機研發專案】據《西班牙人報》網站8月10日報道，法國、德國、西班牙聯合研發未來空中作戰系統（FCAS）的三方合作宣告破裂後，只有法國率先明確推出後續方案。法國達索公司對外表態，如果德國與西班牙執意單獨推進自研路線，法國將獨立完成六代機研發工作。 與此同時，印度正全力爭取加入法國六代機專案。 印度國防部向印度議會國防常設委員會提交了專項進展報告。《新印度快報》援引報告內容稱，印方已“協同開展各項籌備工作，謀求加入”法國FCAS專案。（環球網）
+
+---
+
+### 2026-08-13 13:19:06  #公司 #國際
+
+任天堂選擇Salim集團作為其在印度尼西亞的經銷商。
+
+---
+
+### 2026-08-13 13:18:29  #公司
+
+【中集安瑞科旗下企業與上海聯風達成蒸發氣（BOG）提氦專案合作】中集安瑞科公眾號訊息，近期公司投資企業—山西天浩清潔能源有限公司（簡稱“山西天浩”），與上海聯風氣體股份有限公司（簡稱“上海聯風”）簽訂了相關合作協議。雙方將發揮各自優勢，建立戰略合作伙伴關係，投資建設蒸發氣（BOG）提氦專案，實現資源綜合利用與經濟效益最大化。未來山西天浩與上海聯風將共同拓展蒸發氣（BOG）提氦專案的資源綜合利用效率，實現經濟效益最大化。此次簽約專案投產後年產能預計為11萬m³99.999%（5N）高純氦氣。
+
+---
+
+### 2026-08-13 13:17:54  #公司 #資料 #國際
+
+【韓國SK Shipping與H-Line置換船隻，將締造亞洲最大液化天然氣運營商】Hahn & Co.旗下的兩家韓國公司SK Shipping和H-Line Shipping正在進行船隻和合同置換，此項交易將締造亞洲最大的液化天然氣(LNG)運輸船運營商。總部位於首爾的私募股權投資公司Hahn & Co.週四表示，SK Shipping將從H-Line接收16艘液化天然氣運輸船及相關長期合同，作為交換，SK Shipping將向H-Line提供12艘油輪及其合同，外加約3億美元現金。該交易將使SK Shipping的液化天然氣船隊規模增長一倍，達到32艘運輸船，使其成為全球第三大、亞洲最大的液化天然氣運輸船運營商。
+
+---
+
+### 2026-08-13 13:16:27  #MKT News #Market Regions #Emerging Markets
+
+【Vietnam central bank warns $77 billion funding gap could threaten financial stability】Vietnam’s central bank warned a funding shortfall that exceeds banks’ ability to raise funds could jeopardize financial stability, saying VND loan balances exceed deposits by roughly VND 20,000 billion (about $77 billion), a mismatch that poses risks to liquidity, interest rates and the safety of banking institutions. The government is pressing banks to ramp up lending to support a near-12% H2 growth target on the way to a double-digit 2026 growth goal; the prime minister met banking executives on Thursday.
 
 ---
 
@@ -17768,95 +17888,5 @@ China Stocks Rebound on Tech Boost — The Shanghai Composite edged up 0.1% to a
 ### 2026-08-12 10:03:10  #公司
 
 【南方電網公司謀劃實施進一步深化改革】近日，南方電網公司召開2026年年中工作會議，進一步深化改革工作要點（2026—2029年）及臺賬作為會議成果之一進行釋出。南方電網公司貫徹落實黨中央關於進一步深化國資國企改革的重大決策部署，聚焦破除體制機制障礙和高質量發展中的突出問題，深入研究提出7個方面、22條、123項改革任務舉措，已完成企業內部決策程式，即將正式印發實施。在“十五五”開局之年，南方電網公司新一輪國資國企改革就此拉開帷幕。圍繞構建與“三個新型”建設相適應的新型能源生產關係，提出健全適應新型能源體系的市場價格機制和管理體系、加快南方區域電力市場建設、構建多元主體涉網技術監督體系、加快建設主配微協同的新型電網平臺、建設權威互認的新型電力系統標準體系、加快“電碳算”協同發展和“六網”協同發展等。
-
----
-
-### 2026-08-12 10:03:04  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Slip as Investors Turn Cautious — The Hang Seng Index slipped 1.0%, or 259 points, to 25,390 on Wednesday, as fading hopes for a US-Iran deal and caution ahead of the latest US inflation data weighed on investor sentiment. Oil prices climbed to a one-week high amid tensions surrounding the Strait of Hormuz, raising concerns over inflation and global growth. The decline also followed losses on Wall Street. In the region, Hong Kong technology stocks remained under pressure, with investors closely watching Tencent’s second-quarter earnings for signs of growth in gaming, advertising and AI investments. Meanwhile, plans to expand the Hang Seng Tech Index from 30 to 50 constituents could increase exposure to emerging sectors such as AI and robotics. Hong Kong’s IPO market also remained in focus, with Shein reportedly preparing to launch its Hong Kong IPO, supporting optimism over the city’s capital-market activity. Notable laggards included Tencent (-2.3%), AIA (-0.6%), Lenovo (-0.6%), Kuaishou (-1.6%), and Meituan (-2.3%).
-
----
-
-### 2026-08-12 10:02:56  #公司
-
-【原寶鋼不鏽鋼有限公司副總經理、寧波寶新不鏽鋼有限公司原董事長何汝迎接受紀律審查和監察調查】據中央紀委國家監委駐中國寶武紀檢監察組、福建省紀委監委訊息：原寶鋼不鏽鋼有限公司副總經理、寧波寶新不鏽鋼有限公司原董事長何汝迎涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國寶武紀檢監察組紀律審查和福建省莆田市監察委員會監察調查。
-
----
-
-### 2026-08-12 10:02:24  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Approaches 4-Month High — US heating oil futures advanced toward $4.30 per gallon on Wednesday, approaching a four-month high amid mounting concerns over tight distillate supplies. Yemen’s Houthis recently attacked Saudi Arabia’s Jazan refinery, which has been shut since July 27 following an earlier strike by the group. Plans to restart the facility have since been postponed from August 15 to August 30. Russia’s fuel export restrictions have also added to global supply concerns. This comes on top of uncertainty over the Strait of Hormuz, where markets are assessing the prospects for a potential US-Iran agreement on the key waterway. Pakistan’s defense minister said Washington and Tehran were “close to some sort of arrangement,” while a Qatari official cited by Al Jazeera said Iran-Oman talks had reached an advanced stage. Meanwhile, US refiners are processing crude at the highest seasonal pace since 2018, despite capacity falling by 600,000 barrels per day over the same period.
-
----
-
-### 2026-08-12 10:02:03  #其他
-
-【最高法釋出7件特許經營典型案例 明確被特許人享有“冷靜期”單方解除權】今天，最高人民法院釋出7件關於特許經營的典型案例，引導和規範經營主體誠信合規經營，促進特許經營健康有序發展。其中一個特點是依法保障被特許人合法權益。在特許經營活動中，特許人與被特許人資訊不對稱、簽約能力不對等，被特許人處於相對弱勢地位，容易發生權利義務失衡。案例二中，雖然涉案合同未明確約定被特許人在特許經營合同訂立後一定期限內可以單方解除合同（俗稱“冷靜期”條款），但人民法院明確被特許人享有的“冷靜期”單方解除權屬於法定權利，被特許人可以在經營資源尚未被實際利用的合理期限內依法行使。案例五中，特許人在合同履行期間被撤銷備案資格，履約能力明顯弱化，人民法院依法支援了被特許人解除合同的訴請。(央視新聞)
-
----
-
-### 2026-08-12 10:01:34  #其他
-
-小米汽車微博稱， 7月11日-10月10日，凡氣象臺釋出颱風/暴雨/冰雹預警的城市，小米汽車為車主提供3大保障： 1）24h免費道路救援（含吊車，不限次）； 2）涉水專項檢查免費，到店即享； 3）災害維修完成後，免費還車到家。
-
----
-
-### 2026-08-12 10:00:48  #MKT News #Market Regions #Japan & APAC
-
-Japan 30-year government bond yield rose 3 bps to 3.980%.
-
----
-
-### 2026-08-12 10:00:30  #市場 #國際
-
-碳酸鋰主力合約突破15萬關口，漲幅擴大至3.59%。
-
----
-
-### 2026-08-12 10:00:23  #MKT News #Important #Commodities #Industrial Metals
-
-Lithium carbonate most-active contract jumped past 150,000, extending gains to 3.59%.
-
----
-
-### 2026-08-12 09:59:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-China A-share power sector pulled back; Li New Energy fell more than 5%, with Lvfa Power, Lingda Co. and Jingneng Power also declining.
-
----
-
-### 2026-08-12 09:58:34  #公司
-
-【青島啤酒等成立華樽酒業新公司】企查查APP顯示，近日，青島華樽酒業有限公司成立，經營範圍包含貨物進出口；品牌管理；供應鏈管理服務等。企查查股權穿透顯示，該公司由青島啤酒等共同持股。
-
----
-
-### 2026-08-12 09:57:54  #公司
-
-【電力板塊走弱 立新能源跌超5%】電力板塊走弱，立新能源跌超5%，綠髮電力、聆達股份、京能電力等股跟跌。
-
----
-
-### 2026-08-12 09:57:08  #公司 #市場
-
-AI應用方向早盤走高，省廣集團、風語築雙雙漲停，天龍集團漲超10%，引力傳媒、福石控股、佳雲科技等跟漲。
-
----
-
-### 2026-08-12 09:56:44  #其他
-
-【磷化銦概念股震盪走高 歐萊新材漲超9%】磷化銦概念股震盪走高，歐萊新材漲超9%，雲南鍺業、華錫有色等股跟漲。
-
----
-
-### 2026-08-12 09:56:34  #公司 #市場
-
-【有色·鋁概念震盪走強 宏橋控股漲停】有色·鋁概念盤中震盪走強，宏橋控股漲停，天山鋁業、南山鋁業、中孚實業、雲鋁股份、中國鋁業、神火股份漲幅靠前。
-
----
-
-### 2026-08-12 09:56:02  #MKT News #Commodities #Industrial Metals
-
-Lithium carbonate most-active futures contract rose more than 3% to 149,820 yuan/ton.
 
 ---

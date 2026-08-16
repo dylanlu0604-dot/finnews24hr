@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 23:53:20_
-_本檔包含 3179 則快訊，約 600910 字_
+_更新時間：2026-08-17 00:38:22_
+_本檔包含 3172 則快訊，約 600801 字_
+
+---
+
+### 2026-08-14 14:32:32  #Trading Economics #Markets #Canada #currency #Importance 1
+
+Canadian Dollar Hits 9-week High — The Canadian Dollar touched 1.39 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar lost 0.94%, and in the last 12 months, it increased 0.66%.
+
+---
+
+### 2026-08-14 14:32:11  #MKT News #Important #Market Regions #Japan & APAC
+
+South Korea's KOSPI index closed 164.0 points higher, up 2.41%, at 6,977.34 on Aug 14 (Friday).
+
+---
+
+### 2026-08-14 14:31:43  #國際
+
+【日韓股市集體收漲】日經225指數收漲0.59%，報68713.80點。韓國綜指收漲2.41%，報6977.34點。
+
+---
+
+### 2026-08-14 14:31:42  #公司
+
+【里昂：上調長江基建目標價至67港元，維持“跑贏大市”評級】里昂發表研報指，長江基建受惠於出售資產後累積的充足資金、穩定派息及監管重置帶來的順風，成為市場上相對安全的避風港。該行將公司目標價由63港元上調至67港元，維持“跑贏大市”評級。該行表示，長建上半年列賬純利213億港元，同比升389%。即使撇除一次性專案，上半年核心純利仍然穩健。中期息同比升2.7%至每股0.75港元，延續自1996年上市以來每年增加派息的紀錄。該行上調長建今年純利預測155%，以反映上半年出售資產收益，但由於相關資產出售後貢獻減少，下調明年預測15%。
+
+---
+
+### 2026-08-14 14:30:54  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei index closed up 405.21 points, or 0.59%, at 68,713.80 on Friday, Aug. 14.
+
+---
+
+### 2026-08-14 14:30:52  #MKT News #Market Regions #Greater China
+
+【China Motorcycle Association: July fuel motorcycle sales 1.8996 mln, up 18.85% YoY】China Motorcycle Association data: In July fuel motorcycle production was 1.9384 mln vehicles and sales 1.8996 mln, up 5.13% and 2.97% MoM and 22.32% and 18.85% YoY respectively. Electric motorcycle production was 0.3311 mln and sales 0.3212 mln, down 21.21% and 20.87% MoM but up 10.37% and 9.5% YoY. Total motorcycle production and sales were 2.2696 mln and 2.2208 mln, production +0.24% MoM, sales -1.33% MoM, YoY +20.42% and +17.4%. Domestic motorcycle sales were 0.8012 mln (-8.15% MoM, +7.6% YoY); domestic fuel motorcycle sales were 0.4849 mln (+0.79% MoM, +6.03% YoY).
+
+---
+
+### 2026-08-14 14:30:09  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 0.63% Higher — The Nikkei 225 Index gained 432 points or 0.63 percent on Friday to close at 68741 points. Gains were led by Nintendo Co (6.80%), Sony (5.38%) and Furukawa (5.33%). Biggest losers were Isetan Mitsukoshi (-3.92%), DIC (-3.84%) and Toppan (-3.52%).
+
+---
+
+### 2026-08-14 14:28:57  #MKT News #CSI300 #Impact bullish #SZSE Component
+
+China A-share electronic chemicals sector extended gains: Haixing Co. hit the daily upper trading limit, Zhongshi Technology was earlier locked at the limit. Siquan New Materials and Longchen Technology rose more than 10%; Fangbang, Guoci Materials, Tongyu New Materials, Tiancheng Technology and Jinhong Gas also advanced.
+
+---
+
+### 2026-08-14 14:28:54  #市場 #焦點
+
+PTA連續主力合約日內漲2%，現報5784.00元。
+
+---
+
+### 2026-08-14 14:28:22  #公司 #市場
+
+【電子化學品板塊持續走高，海星股份漲停】電子化學品板塊持續走高，海星股份漲停，中石科技此前封板, 思泉新材、龍辰科技漲超10%，方邦股份、國瓷材料、同宇新材、天承科技、金宏氣體等跟漲。
+
+---
+
+### 2026-08-14 14:27:54  #觀點
+
+【威靈頓投資：對新興市場股票維持超配評級】8月14日，威靈頓投資管理釋出最新資產配置展望，認為新興市場股票估值接近過去十年最佳水平。該機構表示，繼續看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。具體來看，威靈頓投資管理認為，當前環境仍對全球股票構成支撐，企業盈利繼續推動市場表現，而流動性和企業基本面則有助於抵消地緣政治不確定性的影響。從區域來看，看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。“我們繼續超配新興市場股票，新興市場仍是我們在股票這一資產類別中最為看好的地區，其估值接近過去十年最具吸引力的水平。亞洲科技行業繼續貢獻大部分盈利增長；與此同時，在韓國企業持續去槓桿的背景下，我們仍然看好人工智慧基礎設施。展望未來，我們認為本輪漲勢仍有擴大空間，而大宗商品價格也有望利好拉丁美洲大部分地區。”威靈頓投資管理稱。
+
+---
+
+### 2026-08-14 14:27:30  #市場 #焦點
+
+布倫特原油突破88美元/桶，日內漲1.07%。
+
+---
+
+### 2026-08-14 14:27:15  #MKT News #Market Themes #China Tech Giants #AI Revolution
+
+【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition.
 
 ---
 
@@ -19025,125 +19103,5 @@ China A-share power-grid equipment sector spiked briefly, with Wangbian Electric
 ### 2026-08-13 13:36:57  #觀點 #國際
 
 【摩根士丹利：電力、勞動力瓶頸等因素將在未來幾年持續制約算力供應】摩根士丹利美國主題研究策略師Michelle Weaver日前表示，企業對AI的應用正加速落地，但算力供應受限仍是制約行業增長的瓶頸。"當前算力供應嚴重不足。算力正在成為一種稀缺資源，" Weaver週三在接受媒體採訪時表示。Weaver指出，算力瓶頸主要有兩個原因：一是缺少建設資料中心所需的勞動力，二是為資料中心供電的電力不足。人工智慧資料中心耗電量巨大，而新建發電設施、輸電網路及相關基礎設施需要數年時間。即使考慮到將比特幣挖礦設施改造利用、燃料電池等創新供電方案，Weaver估計仍存在10%至20%的電力缺口，這意味著未來數年算力仍將是受限且高價值的資源。這意味著，即便企業擁有足夠資金購買AI晶片並建設資料中心，但電力或勞動力不足也可能阻礙實際算力上線。除了電力和勞動力不足，政治因素也是AI算力供應擴張的阻力之一。Weaver還指出，隨著中期選舉臨近，日益高漲的反資料中心情緒給該行業帶來了挑戰。
-
----
-
-### 2026-08-13 13:36:51  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index (TAIEX) closed up 503.41 points, or 1.11%, at 46,021.48 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 13:36:18  #公司 #市場
-
-【電網裝置板塊短線拉昇，望變電氣漲停】電網裝置板塊短線拉昇，望變電氣漲停，良信股份此前漲停，煜邦電力、華盛昌、金盤科技、長城科技、明陽電氣跟漲。
-
----
-
-### 2026-08-13 13:35:43  #其他
-
-臺灣證交所加權股價指數收高1.1%報46,021.48點。
-
----
-
-### 2026-08-13 13:35:20  #公司
-
-【“兩彈一星”元勳王希季逝世 享年105歲】中國共產黨優秀黨員，我國航天事業開拓者之一，著名空間技術專家，中國科學院院士，國家“兩彈一星功勳獎章”獲得者，中國航天科技集團有限公司科學技術委員會原顧問，中國空間技術研究院技術顧問王希季同志，因病醫治無效，於2026年8月12日在北京逝世，享年105歲。（央視新聞）
-
----
-
-### 2026-08-13 13:31:06  #國際
-
-印度7月乘用車銷量為457,810輛。
-
----
-
-### 2026-08-13 13:30:56  #MKT News
-
-A-share Shenzhen SOE reform sector briefly rallied intraday; Shenzhen Zhenye A hit the daily limit, while Shahe Co., Shenzhen Property A, Shenzhen Textile A, SEG and Shenzhen Urban Transport also advanced.
-
----
-
-### 2026-08-13 13:30:52  #其他
-
-【廣東電網系統負荷今年第五次創新高】據“廣東電網”訊息，8月12日13時41分，廣東電網系統負荷今年第五次創新高，成為首個突破1.8億千瓦的省級電網。
-
----
-
-### 2026-08-13 13:30:32  #MKT News #Commodities #Energy
-
-Guangdong power grid said at 13:41 on Aug 12 its system load hit a fifth record high this year, reaching 180 million kilowatts (180 GW), making it the first provincial grid to exceed 180 million kW.
-
----
-
-### 2026-08-13 13:30:22  #國際
-
-【泰國呵叻府發生傷人事件 6人受傷】12日晚，泰國東北部呵叻府一處市場發生一起持刀和槍擊傷人事件，造成6人受傷。據現場目擊者稱，一個盜竊團伙12日晚在事發市場附近偷盜摩托車時被車主發現，團伙中一人逃跑後又帶同夥返回，他們持刀傷人，並用自制霰彈槍向人群射擊，共造成6人受傷，其中一人傷勢嚴重。警方接到報案後趕赴現場並逮捕一名嫌疑人。泰國總理阿努廷13日上午接受媒體採訪時對這一事件表示震驚，強調必須對泰國槍支援有制度進行結構性改革。
-
----
-
-### 2026-08-13 13:30:03  #公司 #市場
-
-【深圳國企改革板塊短線拉昇，深振業A漲停】深圳國企改革板塊短線拉昇，深振業A漲停，沙河股份、深物業A、深紡織A、深賽格、深城交等紛紛走高。
-
----
-
-### 2026-08-13 13:30:03  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報2657.00元。
-
----
-
-### 2026-08-13 13:29:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russia said it struck Ukraine's Reni port.
-
----
-
-### 2026-08-13 13:28:30  #國際
-
-俄羅斯稱襲擊了烏克蘭烈尼港。
-
----
-
-### 2026-08-13 13:24:19  #MKT News
-
-South Korea's President Lee said the property bubble must not be allowed to continue expanding, warning the issue can no longer be ignored and that real estate is a key concern for all regions.
-
----
-
-### 2026-08-13 13:22:48  #公司
-
-【多趟途經鄭州的列車折返，有列車中途臨停兩個半小時，12306：受極端天氣影響，可辦理退票或改簽】8月13日，多名網友發文稱，自己乘坐火車在臨近鄭州時折返或提前下車。“鐵路鄭州站”當天在官方微博釋出停運公告，稱因地質災害風險導致多趟列車停運。12306客服人員回應稱，受天氣影響，部分列車停運，旅客可在12306APP查詢停運列車資訊，並免費辦理退票。（極目新聞）
-
----
-
-### 2026-08-13 13:21:28  #公司 #國際
-
-【印度謀求參與法國六代機研發專案】據《西班牙人報》網站8月10日報道，法國、德國、西班牙聯合研發未來空中作戰系統（FCAS）的三方合作宣告破裂後，只有法國率先明確推出後續方案。法國達索公司對外表態，如果德國與西班牙執意單獨推進自研路線，法國將獨立完成六代機研發工作。 與此同時，印度正全力爭取加入法國六代機專案。 印度國防部向印度議會國防常設委員會提交了專項進展報告。《新印度快報》援引報告內容稱，印方已“協同開展各項籌備工作，謀求加入”法國FCAS專案。（環球網）
-
----
-
-### 2026-08-13 13:19:06  #公司 #國際
-
-任天堂選擇Salim集團作為其在印度尼西亞的經銷商。
-
----
-
-### 2026-08-13 13:18:29  #公司
-
-【中集安瑞科旗下企業與上海聯風達成蒸發氣（BOG）提氦專案合作】中集安瑞科公眾號訊息，近期公司投資企業—山西天浩清潔能源有限公司（簡稱“山西天浩”），與上海聯風氣體股份有限公司（簡稱“上海聯風”）簽訂了相關合作協議。雙方將發揮各自優勢，建立戰略合作伙伴關係，投資建設蒸發氣（BOG）提氦專案，實現資源綜合利用與經濟效益最大化。未來山西天浩與上海聯風將共同拓展蒸發氣（BOG）提氦專案的資源綜合利用效率，實現經濟效益最大化。此次簽約專案投產後年產能預計為11萬m³99.999%（5N）高純氦氣。
-
----
-
-### 2026-08-13 13:17:54  #公司 #資料 #國際
-
-【韓國SK Shipping與H-Line置換船隻，將締造亞洲最大液化天然氣運營商】Hahn & Co.旗下的兩家韓國公司SK Shipping和H-Line Shipping正在進行船隻和合同置換，此項交易將締造亞洲最大的液化天然氣(LNG)運輸船運營商。總部位於首爾的私募股權投資公司Hahn & Co.週四表示，SK Shipping將從H-Line接收16艘液化天然氣運輸船及相關長期合同，作為交換，SK Shipping將向H-Line提供12艘油輪及其合同，外加約3億美元現金。該交易將使SK Shipping的液化天然氣船隊規模增長一倍，達到32艘運輸船，使其成為全球第三大、亞洲最大的液化天然氣運輸船運營商。
-
----
-
-### 2026-08-13 13:16:27  #MKT News #Market Regions #Emerging Markets
-
-【Vietnam central bank warns $77 billion funding gap could threaten financial stability】Vietnam’s central bank warned a funding shortfall that exceeds banks’ ability to raise funds could jeopardize financial stability, saying VND loan balances exceed deposits by roughly VND 20,000 billion (about $77 billion), a mismatch that poses risks to liquidity, interest rates and the safety of banking institutions. The government is pressing banks to ramp up lending to support a near-12% H2 growth target on the way to a double-digit 2026 growth goal; the prime minister met banking executives on Thursday.
 
 ---
