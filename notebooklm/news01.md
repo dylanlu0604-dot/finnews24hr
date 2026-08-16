@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 22:54:16_
-_本檔包含 3025 則快訊，約 600654 字_
+_更新時間：2026-08-16 23:33:22_
+_本檔包含 3032 則快訊，約 600814 字_
+
+---
+
+### 2026-08-16 23:30:57  #公司
+
+【上市前夕 OpenAI高層劇烈震盪】在準備IPO之際，正在進入一個關鍵節點。2026年以來，至少13名高管和業務負責人離開OpenAI。一邊是業務繼續快速增長，年化營收已經超過400億美元，企業業務收入首次超過消費者業務；另一邊，公司核心管理層卻在持續調整。對於一家正在衝刺上市、同時業務規模快速擴張的公司來說，核心高管密集離開，自然引發了外界對管理層穩定性的關注。
+
+---
+
+### 2026-08-16 23:29:28  #國際
+
+特朗普特使庫什納與哈馬斯高層之間的會晤旨在“將哈馬斯在加沙裁軍路線圖中所做出的承諾轉化為具體步驟”。庫什納強調，以色列的進一步撤軍將以哈馬斯解除武裝作為交換條件。
+
+---
+
+### 2026-08-16 23:21:30  #國際
+
+伊朗陸軍總司令阿米爾·哈塔米少將表示，特朗普宣稱霍爾木茲海峽屬於美國的說法“大錯特錯”，並稱即便是拿這一說法開玩笑，也“完全出格”。
+
+---
+
+### 2026-08-16 23:18:42  #國際
+
+俄羅斯國防部：打擊了敖德薩西部一處烏克蘭無人艇生產設施。
+
+---
+
+### 2026-08-16 23:14:14  #MKT News
+
+The chairman of Iran's Chamber of Commerce said on state broadcaster Press TV that the Iranian economy has emerged from the 'war shock'.
+
+---
+
+### 2026-08-16 23:13:26  #國際
+
+伊朗商工礦農業商會主席薩馬德·哈桑扎德表示，該國經濟已擺脫近期戰爭帶來的嚴重衰退，經濟活動正在恢復。
+
+---
+
+### 2026-08-16 23:11:11  #國際
+
+託德·布蘭奇拒絕承諾，若出任特朗普政府司法部長將保持獨立於白宮。
+
+---
+
+### 2026-08-16 23:06:39  #焦點 #國際
+
+【伊朗軍方稱美軍已被驅逐 不得進入霍爾木茲海峽】當地時間16日，伊朗伊斯蘭共和國軍隊總司令哈塔米表示，美國今後不得進入波斯灣、阿曼灣和霍爾木茲海峽。哈塔米在參加公開活動時表示，“美國被驅逐已成事實”，今後其“將不再獲得進入波斯灣、阿曼灣和霍爾木茲海峽的許可”。他還強調，美軍基地不可能恢復到此前狀態，伊朗“絕不允許這種情況發生”。（央視新聞）
+
+---
+
+### 2026-08-16 23:05:44  #其他
+
+【高階特效廳成為暑期檔頂流 中國銀幕數量穩居全球首位】據網路平臺資料，截至今天16時59分，2026年暑期檔總票房（含預售）突破100億元，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》《歡迎來龍餐館》《給阿嬤的情書》暫列檔期票房前5名。能夠最大化釋放影片魅力的IMAX、杜比影院等高階特效廳，成為影迷們的首選，乃至“必爭之地”。根據國家電影局2026年1月釋出的官方統計，2025年全國城市院線銀幕總數達93187塊，較2024年淨增2219塊，持續穩居全球銀幕數量首位。今年以來，CLED螢幕在全國的落地安裝明顯提速，上半年已有多家影院完成部署。此外，依託CINITY完整自主智慧財產權高格式技術體系，中國高格式電影實現從單純內容輸出，邁向技術、裝置、製版服務、標準體系協同出海。
+
+---
+
+### 2026-08-16 23:01:25  #MKT News
+
+Saudi outlet Alhadath, citing Israeli sources, reports Israel does not want the US plan for Gaza to succeed but also does not want to damage it. The Israeli military is monitoring Hamas's reconstruction capabilities. Sources say US restrictions are preventing the Israeli military from being able to "take further action" against Hamas.
+
+---
+
+### 2026-08-16 23:00:07  #資料 #市場
+
+【方舟投資： 在9月議息會議前值得關注的幾件事】方舟投資發文列出了五件在8月份需要緊盯那些能預示年底通脹走向的先行指標和最新資料 ：核心消費者物價指數（CPI）是否會在12月前降至2%以下？美元指數是否會攀升至102.6？隨著阿聯酋（UAE）主導的供應過剩增加，油價是否會繼續下跌？16至24歲年輕人的失業率是否會在今年降至7.5%以下？密歇根大學消費者信心指數是否會回升至65以上？
+
+---
+
+### 2026-08-16 22:55:57  #MKT News
+
+【Israel, Honduras sign MoU to deepen defense cooperation】Israel's Defense Ministry announced it signed a memorandum of understanding with Honduras to deepen defense cooperation and establish a framework for long-term collaboration based on shared interests.
+
+---
+
+### 2026-08-16 22:55:33  #國際
+
+美國國家颶風中心：夏威夷大島和毛伊縣部分地區持續遭受危及生命的洪水侵襲。
 
 ---
 
@@ -18225,41 +18303,5 @@ Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl.
 ### 2026-08-14 14:23:39  #其他
 
 【全球資金加速湧入 中國股票基金近一個月吸金逾500億美元】近期，國際資金正加速佈局中國權益資產。最新資金流向資料顯示，截至8月5日的近一個月，中國股票基金淨流入508.2億美元，佔新興市場總額近六成；海外上市的中國ETF規模同步擴張。近期，多家外資機構也密集發聲，認為中國企業盈利修復與產業升級將驅動估值重估行情延續，半導體、網際網路、電力及醫療等板塊被其視為核心配置方向。(上海證券報)
-
----
-
-### 2026-08-14 14:23:23  #公司 #市場
-
-【國信證券：資金再平衡驅動板塊反彈 黃金珠寶迎來預期雙重修復】國信證券釋出研報稱，維持板塊“優於大市”評級。短期外圍宏觀環境的複雜化並未改變內需的韌性，同時具備全球化佈局視野、深度擁抱AI技術實現全鏈路升級，以及憑藉強產品力精準契合消費者需求的龍頭公司，正加速兌現長期配置價值。大眾珠寶品牌Q2實際動銷不差，股價回撥系外部金價因素擾動，目前多數迴歸歷史估值下限，股息率也相對較高，未來金價企穩則股價反彈可期。跨境電商關稅中報景氣度比較優勢明顯，同時核心公司自身經營調整為企業帶來盈利端增量。
-
----
-
-### 2026-08-14 14:23:17  #焦點 #A股
-
-A股三大股指持續回升，滬指午後再度翻紅，創業板指漲逾1%。
-
----
-
-### 2026-08-14 14:23:09  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-China A-share benchmark indices extended gains; Shanghai Composite turned positive in the afternoon, while the ChiNext index climbed more than 1%.
-
----
-
-### 2026-08-14 14:22:09  #市場
-
-【浙江：對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 打造科技創新和產業協同發展高地。加快構建以杭州為核心，寧波新型材料研發製造、溫州臨床應用示範、嘉興關鍵零部件製造、紹興晶片先進製造及封裝測試為支撐的“一核四基地”腦機介面產業佈局。 加大企業培育力度。梯次培育初創型、成長型、領軍型腦機介面企業，給予產品研發、人才引進、金融供給等方面組合支援。鼓勵有條件的地方實施企業研發投入獎補政策，對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助。 支援產業化落地。支援腦機介面產業化專案申報中央預算內投資專案、超長期特別國債專案等。鼓勵腦機介面創新專案申報新興產業強鏈補鏈、未來產業先導區攻堅任務、首臺（套）產品等專案，並按規定給予支援。
-
----
-
-### 2026-08-14 14:21:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Poised for Higher Open — European equity markets were set to open higher on Friday as softer-than-expected US inflation data eased concerns over an imminent Federal Reserve interest rate hike. Renewed demand for artificial intelligence-related stocks also supported broader risk sentiment across global markets. In Europe, investors will focus on the latest Eurozone GDP, employment and trade data, alongside German wholesale prices and French inflation figures. Meanwhile, no major earnings reports are scheduled in Europe on Friday. In premarket trading, futures for the Euro Stoxx 50 and Stoxx 600 were both up around 0.2%.
-
----
-
-### 2026-08-14 14:21:07  #公司 #觀點 #國際
-
-【高盛：印度不太可能因人工智慧出現大規模失業】高盛集團首席印度經濟學家桑塔努・森古普塔週五表示，印度勞動力不太可能因人工智慧出現大規模失業，但服務業部分崗位或將受到影響。森古普塔在接受採訪時稱，相較於許多其他國家，人工智慧對印度的影響將較為有限。他表示：“主要原因在於印度勞動力規模龐大，大量勞動者從事機械性或體力類工作。”他稱，建築業和零售業吸納了印度約 40% 的勞動力，“目前基本不會受到人工智慧衝擊，受影響的主要是服務業。” 高盛估算，若有序推進人工智慧落地應用，衝擊有望得到緩解，同時未來十年整體生產力或將提升 0.4 個百分點。
 
 ---

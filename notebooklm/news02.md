@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 22:54:16_
-_本檔包含 3187 則快訊，約 600881 字_
+_更新時間：2026-08-16 23:33:22_
+_本檔包含 3183 則快訊，約 600623 字_
+
+---
+
+### 2026-08-14 14:23:23  #公司 #市場
+
+【國信證券：資金再平衡驅動板塊反彈 黃金珠寶迎來預期雙重修復】國信證券釋出研報稱，維持板塊“優於大市”評級。短期外圍宏觀環境的複雜化並未改變內需的韌性，同時具備全球化佈局視野、深度擁抱AI技術實現全鏈路升級，以及憑藉強產品力精準契合消費者需求的龍頭公司，正加速兌現長期配置價值。大眾珠寶品牌Q2實際動銷不差，股價回撥系外部金價因素擾動，目前多數迴歸歷史估值下限，股息率也相對較高，未來金價企穩則股價反彈可期。跨境電商關稅中報景氣度比較優勢明顯，同時核心公司自身經營調整為企業帶來盈利端增量。
+
+---
+
+### 2026-08-14 14:23:17  #焦點 #A股
+
+A股三大股指持續回升，滬指午後再度翻紅，創業板指漲逾1%。
+
+---
+
+### 2026-08-14 14:23:09  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+China A-share benchmark indices extended gains; Shanghai Composite turned positive in the afternoon, while the ChiNext index climbed more than 1%.
+
+---
+
+### 2026-08-14 14:22:09  #市場
+
+【浙江：對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 打造科技創新和產業協同發展高地。加快構建以杭州為核心，寧波新型材料研發製造、溫州臨床應用示範、嘉興關鍵零部件製造、紹興晶片先進製造及封裝測試為支撐的“一核四基地”腦機介面產業佈局。 加大企業培育力度。梯次培育初創型、成長型、領軍型腦機介面企業，給予產品研發、人才引進、金融供給等方面組合支援。鼓勵有條件的地方實施企業研發投入獎補政策，對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助。 支援產業化落地。支援腦機介面產業化專案申報中央預算內投資專案、超長期特別國債專案等。鼓勵腦機介面創新專案申報新興產業強鏈補鏈、未來產業先導區攻堅任務、首臺（套）產品等專案，並按規定給予支援。
+
+---
+
+### 2026-08-14 14:21:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Poised for Higher Open — European equity markets were set to open higher on Friday as softer-than-expected US inflation data eased concerns over an imminent Federal Reserve interest rate hike. Renewed demand for artificial intelligence-related stocks also supported broader risk sentiment across global markets. In Europe, investors will focus on the latest Eurozone GDP, employment and trade data, alongside German wholesale prices and French inflation figures. Meanwhile, no major earnings reports are scheduled in Europe on Friday. In premarket trading, futures for the Euro Stoxx 50 and Stoxx 600 were both up around 0.2%.
+
+---
+
+### 2026-08-14 14:21:07  #公司 #觀點 #國際
+
+【高盛：印度不太可能因人工智慧出現大規模失業】高盛集團首席印度經濟學家桑塔努・森古普塔週五表示，印度勞動力不太可能因人工智慧出現大規模失業，但服務業部分崗位或將受到影響。森古普塔在接受採訪時稱，相較於許多其他國家，人工智慧對印度的影響將較為有限。他表示：“主要原因在於印度勞動力規模龐大，大量勞動者從事機械性或體力類工作。”他稱，建築業和零售業吸納了印度約 40% 的勞動力，“目前基本不會受到人工智慧衝擊，受影響的主要是服務業。” 高盛估算，若有序推進人工智慧落地應用，衝擊有望得到緩解，同時未來十年整體生產力或將提升 0.4 個百分點。
 
 ---
 
@@ -19133,65 +19169,5 @@ China A-share AI PC sector ticked higher briefly; Chunqiu Electronics hit the da
 ### 2026-08-13 13:08:36  #國際
 
 【日本強烈抗議普京登上日俄爭議島嶼】13日，日本外務大臣茂木敏充就俄羅斯總統普京登上北方四島（俄稱南千島群島）的擇捉島（俄稱伊圖魯普島）提出強烈抗議。當天稍早前，普京登上南千島群島（日本稱北方四島），並視察了伊圖魯普島（日本稱擇捉島）上一家水產品加工廠。克里姆林宮在社交媒體釋出訊息說，普京與水產品加工廠員工交談，並與他們合影留念。他還品嚐了當地生產的魚子醬。這是普京首次登上南千島群島。因在南千島群島（日本稱北方四島）的歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。（央視新聞）
-
----
-
-### 2026-08-13 13:07:49  #其他
-
-聯想在公佈營收超預期後，股價漲幅擴大至17%。
-
----
-
-### 2026-08-13 13:06:44  #其他
-
-【太空算力硬體成本降至幾百元 全國產化太空伺服器亮相】太空算力，是將地面資料中心的人工智慧算力節點部署至太空軌道，利用太空充足太陽能與天然低溫環境，破解地面算力面臨的能耗、散熱和土地資源瓶頸。當前，全球算力需求持續增長，各國低軌衛星星座加速佈局，太空算力正成為新質生產力重要突破口。昨天（12日）《新質生產力發展大會——太空算力產業》在北京舉行，活動探討技術突破與產業發展，推動我國太空算力加速落地。活動現場，一家企業展示自主研發的航天級算力專用GPU晶片，把太空算力硬體成本從數萬元降至幾千元甚至幾百元。現場還亮相了全國產化太空伺服器，搭載雙核心星載作業系統，當遭遇宇宙高能粒子干擾時，可毫秒級切換備用核心，保障在軌算力不停機。（央視財經）
-
----
-
-### 2026-08-13 13:06:13  #MKT News #Important #Market Themes #China Tech Giants #00992.HK #Impact bullish
-
-Hang Seng Tech Index rallied sharply in afternoon trade, up just over 1%; Lenovo Group (00992.HK) led components, jumping more than 16%.
-
----
-
-### 2026-08-13 13:05:34  #市場 #焦點
-
-恒生科技指數漲超1%，現報4825.140點；恒生指數現漲0.142%。
-
----
-
-### 2026-08-13 13:05:30  #市場
-
-【CPO概念持續走強，劍橋科技漲停】CPO概念持續走強，劍橋科技漲停，天孚通訊、德科立、源傑科技、光迅科技、銳捷網路、新易盛等跟漲。
-
----
-
-### 2026-08-13 13:02:25  #公司 #市場
-
-聯想集團(00992.HK)午後直線拉昇漲超12%。
-
----
-
-### 2026-08-13 13:02:21  #MKT News #Important #0992.HK #Impact bullish
-
-Lenovo Group (00992.HK) shares jumped over 12% in afternoon trade after the company released first fiscal-quarter results at midday: adjusted profit attributable to equity holders rose 176% YoY; AI-related revenue climbed 60% YoY to RMB 63.4 bln, a record high.
-
----
-
-### 2026-08-13 13:02:12  #公司
-
-【奧尼電子：英偉達目前不是公司客戶】奧尼電子(301189)8月13日在互動平臺表示，公司採購英偉達Jetson Thor晶片模組等核心物料，依託該晶片打造龍蝦工作站A2000等AI推理算力產品，相關產品已釋出並穩步推進落地；英偉達目前不是公司客戶。
-
----
-
-### 2026-08-13 13:01:53  #公司 #國際
-
-【普京：俄日和平條約談判陷入僵局原因在日方】據日本《讀賣新聞》8月13日報道，根據俄羅斯總統府釋出的訊息，俄羅斯總統普京12日表示，包含“北方領土（俄稱‘南千島群島’）”問題在內的日俄和平條約談判之所以陷入停滯，原因在於日方因俄烏衝突而對俄羅斯實施制裁。這一表態是他在訪問俄羅斯遠東薩哈林州時，在與俄太平洋艦隊軍官的會議上作出的。 普京再次強調其立場，認為庫里爾群島（即千島群島）因第二次世界大戰的結果而成為俄羅斯領土。在此基礎上，圍繞和平條約談判，他主張：“俄羅斯曾與包括前首相安倍晉三在內的日本領導人建立了建設性關係，但現在日本方面的立場發生了變化。” 普京還指出，“北約正在向亞太地區滲透，新的軍政集團正在形成”。（參考訊息）
-
----
-
-### 2026-08-13 13:00:47  #MKT News #Commodities #Energy
-
-【First 10‑million‑ton‑class crude pipeline of China’s 15th Five‑Year Plan commissioned】State Pipeline Network Group said on Aug. 13 the Lianyungang–Yizheng pipeline’s Lianyungang–Huaian segment entered service in one phase. The line, the first 10‑million‑ton‑class crude pipeline to start operating in the 15th Five‑Year Plan period, links to existing trunk lines to deliver crude to the eastern hub at Yizheng. Peak daily throughput is 70,000 tonnes; the pipeline will supply Jiangsu and Yangtze‑river refineries, widen supply channels, and support unified allocation of imported crude and optimization of the national oil‑and‑gas “one network” across central‑eastern China and the Yangtze Delta.
 
 ---

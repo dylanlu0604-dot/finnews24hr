@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 22:54:16_
-_本檔包含 3063 則快訊，約 600891 字_
+_更新時間：2026-08-16 23:33:22_
+_本檔包含 3059 則快訊，約 600902 字_
+
+---
+
+### 2026-08-12 09:52:40  #MKT News
+
+【China NMPA approves two innovative drugs】China’s National Medical Products Administration (NMPA) has approved two innovative medicines. The NMPA granted conditional approval under priority review to a Category‑1 innovative drug developed by Yaojie Ankang (Nanjing) Technology Co., Ltd., marketed as Jientai, for adults with advanced, metastatic or unresectable cholangiocarcinoma harboring FGFR2 fusions or rearrangements who have previously received systemic therapy and FGFR inhibitor treatment. Separately, the NMPA approved Jichuan Pharmaceutical Group Co., Ltd.’s pediatric laxative granules as a TCM 1.1‑class innovative drug; this is the first post‑Regulation TCM innovative product approved with a syndrome‑based pediatric constipation indication (food‑accumulation pattern).
+
+---
+
+### 2026-08-12 09:51:43  #MKT News
+
+【Trump confirms secret plane switch after Turkey trip, cites security threats】Trump confirmed he secretly switched planes when leaving Turkey last month, saying the Secret Service and military required the move because of security threats. The White House had led the public to believe he returned on Air Force One, but he was flown on a different aircraft. The Washington Post reported the arrangement stemmed from an Iranian assassination threat. Speaking Tuesday while returning from Ohio to Washington, Trump said "they wanted me on another flight...so I did" and that he had received "many threats," but he declined to disclose details and did not explain why staff and reporters who flew back on Air Force One were considered safe while he was not.
 
 ---
 
@@ -18434,41 +18446,5 @@ UK Retail Sales Growth Slows to 5-Month Low — UK retail sales rose by 1% year-
 ### 2026-08-11 07:27:24  #市場
 
 【暑期檔熱門影片來襲 8月10日超半數概念股獲主力資金加倉】2026年暑期檔電影市場熱度攀升，行業消費活力進一步釋放，帶動影視板塊行情回暖，相關個股備受市場關注。8月10日，影視股市場表現活躍，概念指數早盤高開後維持震盪，午後再度拉昇，漲幅超2%，儒意電影、北京文化漲停，華智數媒、金逸影視、中國電影、博納影業等個股跟漲。訊息面上，由文牧野執導、沈騰領銜主演，蔣奇明、奧馬爾・謝里夫參演的暑期檔熱門影片《歡迎來龍餐館》在8月11日正式公映，該影片在8月8日開啟超前點映，憑藉紮實的故事內容與演員的精彩演繹收穫不少影迷好評，市場熱度快速攀升，儒意電影、北京文化均為該影片出品方。據證券時報·資料寶統計，8月以來，20餘隻影視概念股的股價全線錄得上漲，北京文化、華智數媒、儒意電影、幸福藍海和橫店影視等影視概念股均累計上漲超6%。8月10日，超半數影視概念股獲主力資金加倉，其中儒意電影、北京文化、幸福藍海主力資金淨流入額居前，分別為2.66億元、1.07億元、5430.45萬元。奧飛娛樂、光線傳媒、百納千成獲主力資金淨流入均超3000萬元。
-
----
-
-### 2026-08-11 07:27:20  #其他
-
-【破解小幣種跨境結算繁難 銀行組合拳賦能外貿企業出海】記者走訪多地外貿企業與商業銀行發現，銀行業正打出跨境金融服務組合拳。今年以來一些銀行紛紛上線小幣種直兌清算業務，省去美元中轉環節，壓降企業匯兌成本，部分銀行結合企業需求，差異化定製匯率避險方案。多方賦能下，跨境金融的“毛細血管”正被重新疏通。（中證報）
-
----
-
-### 2026-08-11 07:26:18  #公司 #市場
-
-【磷化銦價格年內顯著上漲 9只概念股獲機構密集關注】人工智慧（AI）算力持續迭代升級，拉動高速光模組市場需求集中爆發，磷化銦襯底供需格局維持偏緊態勢，推動產品價格顯著上行。今年以來，磷化銦價格顯著上漲。上海有色網資料顯示，4英寸磷化銦襯底8月10日均價達到6500元/片，較年初上漲約50%。行業景氣度持續抬升，也為產業鏈相關上市公司帶來業績改善機遇。據證券時報·資料寶統計，A股中佈局磷化銦產業鏈的個股共有18只，其中12股已公佈半年度報告或業績預告，按半年報淨利潤、業績預告淨利潤下限計算，9股淨利潤實現同比增長，其中博傑股份、株冶集團、興業銀錫、雲南鍺業同比增長均超100%，其他還有歐萊新材扭虧為盈。從機構關注度來看，9股獲3家及以上機構評級，中國鋁業、興業銀錫、華錫有色、錫業股份4股獲機構積極關注，評級機構家數分別為9家、8家、7家、7家。
-
----
-
-### 2026-08-11 07:26:07  #行業
-
-【中國汽車流通協會：7月汽車經銷商庫存係數為1.48，環比下降6.3%】8月10日，中國汽車流通協會發布2026年7月“汽車經銷商庫存”調查結果：7月汽車經銷商綜合庫存係數為1.48，環比下降6.3%，同比上升9.6%。據中國汽車流通協會乘聯分會發布的車市掃描資料顯示，7月全國乘用車市場零售150.6萬輛，以此測算，7月末汽車經銷商庫存總量約220萬輛左右，渠道整體庫存規模與6月末相比有所降低。
-
----
-
-### 2026-08-11 07:25:43  #其他
-
-泰森食品（Tyson Foods）計劃發行總值10億美元、分別於2031年和2037年到期的優先票據。
-
----
-
-### 2026-08-11 07:25:04  #宏觀 #國際
-
-【美國證交會豁免部分資料中心債券適用關鍵證券化規則】隨著人工智慧熱潮進一步向金融市場蔓延，美國證券交易委員會已放寬了資料中心所有者出售資產支援證券的限制。監管機構此次作出澄清，是針對律所Latham & Watkins的一封來信作出的回應。“我們同意，貴所(Latham & Watkins的) 信函中所述的資料中心證券化專案所發行的固定收益證券或其他證券，不屬於資產支援證券，”美國市場監管機構表示。資產支援證券是一種透過將產生定期現金流的金融資產池化，再向投資者出售由這些現金流提供支援的證券而形成的投資產品。對人工智慧計算需求的激增，促使企業尋求新的融資途徑以滿足擴張所需。
-
----
-
-### 2026-08-11 07:24:38  #MKT News #INTC.O #Impact bearish
-
-【Intel said seeking to boost share sale to about $20 billion】Sources said Intel (INTC.O) is seeking to increase a planned share sale to roughly $20 billion from an earlier $15 billion target, aiming to price around $95 a share or higher. People familiar said the size could exceed $20 billion if the overallotment option is exercised and that investor demand has topped $100 billion. Negotiations on size and pricing are ongoing and remain subject to change.
 
 ---
