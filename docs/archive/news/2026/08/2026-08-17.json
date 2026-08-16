@@ -1,7 +1,15 @@
 {
   "date": "2026-08-17",
-  "count": 27,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:01a00b8c-c5b8-7aab-904f-385ce32411fe",
+      "time": "2026-08-17 01:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's first vice president said rising prices have reached an alarming level and that enemies are exploiting the situation."
+    },
     {
       "id": "mkt:01a00b8b-ce46-7aab-904f-317d06752a0a",
       "time": "2026-08-17 01:08:26",
