@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-17 06:53:39",
-  "count": 15228,
+  "updated": "2026-08-17 06:57:33",
+  "count": 15229,
   "items": [
+    {
+      "id": "5043004",
+      "time": "2026-08-17 06:54:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek新定價生效】根據深度求索DeepSeek官方公告，DeepSeek-V4系列API全新定價自今日0時正式生效，同時V4-Pro結束測試階段，全面轉為正式版商用服務。 本次調價取消統一計費模式，採用行業少見的算力錯峰分級計價，高峰時段收費標準較空閒時段直接翻倍。 官方劃定高峰時段為每日9:00-12:00、14:00-18:00，其餘時間為空閒時段，空閒時段定價為高峰時段的一半，計費單位為元/百萬tokens。"
+    },
+    {
+      "id": "5043003",
+      "time": "2026-08-17 06:53:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內漲0.05%。"
+    },
     {
       "id": "te:economy:575555",
       "time": "2026-08-17 06:52:49",
@@ -139205,18 +139222,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Edges Higher to Start the Week — New Zealand's stocks climbed 34 points, or 0.2%, to 13,858 in Monday morning trade, halting losses in the previous two sessions, tracking a rise on Wall Street on Friday after softer-than-expected labor data dampened expectations of a Fed rate hike at the September meeting. Positive trade data from China, New Zealand's top trading partner, with export growth remaining robust, continued to help cap the losses, while inflation eased to a six-month low. However, traders anticipated the release of US inflation data this week for clues about the Fed's monetary policy at the upcoming meeting, while they continued to monitor Strait of Hormuz developments. Materials, utilities, consumer discretionary, and real estate mainly drove the index. Contact Energy rose 1.1% after posting a 27.8% jump in net profit, following the acquisition of Manawa Energy, completed in July 2025. Other early gainers included South Port NZ (0.8%), Ebos Group (0.7%), and Port of Tauranga (0.7%)."
-    },
-    {
-      "id": "mkt:019fe8bc-4beb-7aab-8fcc-5604f56acbac",
-      "time": "2026-08-10 06:54:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Axios reports a senior U.S. official said the White House views Netanyahu’s statements on a Gaza plan as election-season political posturing and is unconcerned. The White House understands his domestic political pressures and will not object so long as Israel complies with U.S. requests—particularly to limit strikes on Gaza."
     }
   ]
 }
