@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:55:07_
-_本檔包含 3144 則快訊，約 601331 字_
+_更新時間：2026-08-16 18:35:55_
+_本檔包含 3168 則快訊，約 600676 字_
+
+---
+
+### 2026-08-14 13:06:39  #MKT News #Important #Star Stocks #JD.com #Meituan #Hang Seng Index #Impact bearish #09618.HK #03690.HK
+
+Hang Seng TECH Index extended losses to 2% as tech and internet stocks came under pressure. JD.com (09618.HK) dropped more than 10%; Meituan (03690.HK) fell nearly 6%.
+
+---
+
+### 2026-08-14 13:06:24  #市場 #焦點
+
+恒生科技指數跌超2％，恒生指數現跌1.09％，科網股多數承壓。
+
+---
+
+### 2026-08-14 13:05:49  #公司
+
+LG集團與英偉達聯合開發人形機器人；人形機器人將於2027年第一季度亮相。
+
+---
+
+### 2026-08-14 13:05:04  #MKT News
+
+Interfax reported that online retailer Wildberries' warehouse in Russia's Tver region was damaged in a drone attack.
+
+---
+
+### 2026-08-14 13:03:58  #其他
+
+算力租賃概念震盪回升，網宿科技漲超10%，資料港、利通電子、宏景科技、行雲科技、雲賽智聯等跟漲。
+
+---
+
+### 2026-08-14 13:03:44  #其他
+
+市場訊息：智譜將釋出GLM-5.3模型，其程式設計能力與FABLE 5相當。
+
+---
+
+### 2026-08-14 13:03:11  #公司
+
+【宜家擬處置上海寶山商場物業，已委託仲量聯行代理】宜家中國近日就上海寶山商場物業後續安排釋出說明。英格卡集團(Ingka Group)已正式委託仲量聯行，代理旗下中國市場部分已停運商場自持物業的處置工作，上海寶山商場物業在列。 宜家上海寶山商場2013年開業，2026年停運，接待訪客近3000萬人次。宜家中國表示，該自持物業位於上海市寶山區，總建築面積約10.5萬平方米，目前資產已全面清空、產權清晰，可按現狀即時交付。專案未來可探索改造為社群商業綜合體、融合文旅元素的體驗式消費空間或其他創新業態。
+
+---
+
+### 2026-08-14 13:02:02  #MKT News #Market Regions #Japan & APAC
+
+Japan's 20-year government bond yield rose 0.5 bps to 3.745%.
+
+---
+
+### 2026-08-14 13:01:57  #市場 #國際
+
+20年期日本國債收益率上漲0.5個基點，至3.745%。
+
+---
+
+### 2026-08-14 13:01:57  #MKT News
+
+The Philippine president said it is difficult to make a decision now and it is too early to say whether he will back any candidate.
+
+---
+
+### 2026-08-14 13:01:42  #MKT News
+
+Philippine president says he has not yet discussed the 2028 election with anyone.
+
+---
+
+### 2026-08-14 13:01:29  #國際
+
+菲律賓總統馬科斯：我們一定會在2028年推選出最合適的候選人。
+
+---
+
+### 2026-08-14 13:01:11  #MKT News #Important #Star Stocks #JD.com #Market Regions #Greater China #Hang Seng Index #Impact bearish #02618.HK #09618.HK
+
+Hang Seng Index extended afternoon losses, down more than 1%, led by JD Logistics (02618.HK) and JD.com (09618.HK).
+
+---
+
+### 2026-08-14 13:00:32  #市場 #焦點
+
+恒生指數跌超1%，現報25138.529點；恒生科技指數現跌1.865%。
+
+---
+
+### 2026-08-14 13:00:23  #國際
+
+【印尼269名學生集體食物中毒】據印度尼西亞媒體14日報道，該國北蘇門答臘省卡羅縣13日發生集體食物中毒事件，5所中學的至少269名學生出現中毒症狀並被送醫治療。當地教育部門負責人對媒體表示，一些學生在13日午餐後陸續出現中毒症狀，截至13日晚，已有269名學生被送醫接受治療。目前，所有送醫學生情況穩定，暫無死亡報告。（新華社）
+
+---
+
+### 2026-08-14 12:59:52  #國際
+
+菲律賓總統馬科斯：將在2028年總統選舉中公開支援候選人。
+
+---
+
+### 2026-08-14 12:59:22  #公司
+
+【京東：七鮮咖啡首家24小時智慧化無人咖啡店將落地北京】8月16日，京東集團旗下現制飲品品牌七鮮咖啡首家24小時智慧化無人咖啡店將正式開業，落地北京市朝陽區銀河SOHO。該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。                                （ 介面新聞 ）
+
+---
+
+### 2026-08-14 12:58:56  #MKT News #Market Themes #AI Revolution
+
+Musk: Try Grok 4.6's image and video understanding capabilities; this is a major upgrade.
+
+---
+
+### 2026-08-14 12:58:24  #公司
+
+【眾擎機器人等成立科技公司 含智慧無人飛行器製造業務】企查查APP顯示，近日，上海星意擎坤科技有限公司成立，法定代表人為呂學敏，註冊資本為6120萬元，經營範圍包含人工智慧基礎軟體開發；智慧機器人的研發；智慧機器人銷售；工業機器人銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司、上海傲意資訊科技有限公司等共同持股。
+
+---
+
+### 2026-08-14 12:57:53  #其他
+
+【多地暴雨 交通運輸部維持強降雨三級防禦響應】中央氣象臺8月14日10時繼續釋出暴雨黃色預警，交通運輸部維持強降雨三級防禦響應。預計，8月14日14時至15日14時，江蘇中南部、安徽南部、上海、浙江、湖北東部、江西北部和東部、福建西部和南部、廣東南部和東部、海南島東北部和西南部、臺灣島南部等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨(100～150毫米)；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。8月14日，交通運輸部點對點排程江蘇省交通運輸廳，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生；切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。
+
+---
+
+### 2026-08-14 12:56:44  #公司 #市場 #國際
+
+【印尼總統普拉博沃發表講話 印尼股市攀升至日內高點】印尼總統普拉博沃・蘇比安託在國情諮文演講中談及打擊非法採礦，以及政府核心免費供餐專案的執行效率，受此影響印尼股市走高。雅加達綜合指數早盤下跌 0.6%，隨後最大漲幅一度達 0.7%。基礎材料與能源板塊領漲。國有錫礦企業 PT Timah 公司股價最高上漲 4%。
+
+---
+
+### 2026-08-14 12:55:39  #宏觀
+
+【四川出臺城市更新“十五五”規劃】四川省人民政府網站訊息，《四川省城市更新“十五五”規劃》（簡稱《規劃》）已於日前正式印發。《規劃》明確，將實施城鎮危舊房改造約6萬套（間），改造老舊小區8000個，既有住宅加裝電梯1.5萬部；建設改造城市地下管網及附屬設施5.9萬公里以上，實施城中村改造420個；改造老舊街區廠區220個，新改建城市公共停車場約200個、新增公共停車位超9萬個。
+
+---
+
+### 2026-08-14 12:54:58  #國際
+
+【7月印度進口原油中俄羅斯佔比飆升至歷史新高】貿易渠道資料顯示，7月印度對俄羅斯原油的依賴度創下歷史紀錄；作為全球第三大石油進口及消費國，印度當月自俄原油進口占總進口量的50.83%，日進口量達247萬桶。資料顯示，印度7月俄羅斯原油進口量同比增長62.4%，但較6月260萬桶/日的歷史高點回落4.8%。今年1月，由於印度正與美方磋商貿易協議，為規避美國加徵關稅，印度煉油企業開始削減俄羅斯原油採購。然而，伊朗衝突造成中東供應中斷，迫使印度煉油商繼續購入俄羅斯原油。不過，美國參議院本月透過法案，擬對俄羅斯原油採購方徵收100%關稅，加大對莫斯科的經濟施壓，印度採購俄原油因此面臨不確定性。美眾議院尚未批准這項法案。
+
+---
+
+### 2026-08-14 12:53:12  #MKT News #Important
+
+【2026 annual box office tops 25.0 bln yuan】China's 2026 box office including presales topped 25.0 bln yuan as of Aug 14, according to Lighthouse Pro. Top five by receipts: Fei Chi Ren Sheng 3; Kung Fu Women's Football; A Letter to Grandma; Eight Immortals; Biaoren: Wind Rises in the Desert.
+
+---
+
+### 2026-08-14 12:53:01  #公司
+
+【什方科技完成近3億元融資】近日，工業功能塗層數字噴印公司什方科技連續完成兩輪融資。自B輪起至本次B+輪收官，融資總額近3億元。由五源資本、創世夥伴創投、同創偉業及頭部產業戰略投資機構恆旭資本、小米集團、蔚來資本聯合入局，多家老股東同步追加投資。
+
+---
+
+### 2026-08-14 12:51:22  #國際
+
+菲律賓總統馬科斯：希望危機過後投資者信心能夠恢復。
+
+---
+
+### 2026-08-14 12:50:46  #MKT News
+
+Philippine President MARCOS said the country's economic growth rate was disappointing.
+
+---
+
+### 2026-08-14 12:50:20  #國際
+
+菲律賓總統馬科斯：增長率非常令人失望。
+
+---
+
+### 2026-08-14 12:49:49  #國際
+
+菲律賓總統馬科斯：我們的措施應該能消除投資者的擔憂。
+
+---
+
+### 2026-08-14 12:49:39  #國際
+
+菲律賓總統馬科斯：不會把所有錢都花在捍衛比索上。
+
+---
+
+### 2026-08-14 12:48:37  #其他
+
+【2026年度總票房破250億】據燈塔專業版資料，截至8月14日，2026年度大盤票房(含預售)突破250億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《八仙！》《鏢人：風起大漠》暫列年度票房前五名。
+
+---
+
+### 2026-08-14 12:48:25  #市場
+
+【鐵礦石期貨暫時反彈走高】鐵礦石期貨在近期回撥後暫時反彈走高。銀河期貨在一份研究報告中表示，下個月價格可能會繼續創下新低。該機構表示，6月份海外鋼鐵需求有所上升，但這種勢頭不太可能持續。該機構補充說，這種鍊鋼原料在第三季度可能無法克服基本面疲軟的影響。大連商品交易所交投最活躍的1月鐵礦石合約上漲0.4%，報每噸712.5元。
+
+---
+
+### 2026-08-14 12:47:51  #MKT News
+
+Philippine president says he is working to defend the Philippine peso.
+
+---
+
+### 2026-08-14 12:47:36  #國際
+
+菲律賓總統馬科斯：正出手捍衛比索匯率。
+
+---
+
+### 2026-08-14 12:46:14  #國際
+
+泰國投資委員會：泰國第二季度實際投資額同比增長31%至2550億泰銖。
+
+---
+
+### 2026-08-14 12:45:48  #MKT News
+
+The Philippine president said the government is working to restore stability to the economic system to allow households and businesses to plan.
+
+---
+
+### 2026-08-14 12:45:39  #國際
+
+印尼總統普拉博沃結束國情諮文演講。
+
+---
+
+### 2026-08-14 12:44:58  #市場 #央行 #國際
+
+【交易員：印度央行可能干預了匯市以支撐盧比】三位交易員表示，印度央行週五很可能在外匯市場進行了干預，因為中東衝突帶來的不確定性導致風險偏好低迷且油價居高不下。受干預行動支撐，盧比 維持穩定，報1美元兌95.40盧比。該匯率成功守住了95.50這一重要心理關口，與本週大部分時間的走勢相似，干預措施有效遏制了盧比的貶值幅度。本週迄今，盧比一直在1美元兌95.17至95.4450的區間內波動。
+
+---
+
+### 2026-08-14 12:44:26  #市場 #國際
+
+【黑德蘭港7月份鐵礦石出口量降至4422.5萬噸】據澳大利亞皮爾巴拉港務局（PPA）稱，黑德蘭港7月份的鐵礦石出口量從6月份的5171萬噸下降到4422.5萬噸。6月份對華鐵礦石出口量從4511.2萬噸降至3785.7萬噸。
+
+---
+
+### 2026-08-14 12:44:17  #國際
+
+菲律賓總統馬科斯：正努力恢復經濟體系穩定，以便家庭和企業開展規劃。
+
+---
+
+### 2026-08-14 12:43:11  #市場
+
+據PPA統計，黑德蘭港7月份鐵礦石出口量降至4422.5萬噸。
+
+---
+
+### 2026-08-14 12:42:17  #MKT News #Important #Star Stocks #Apple #Alibaba #Market Themes #AI Revolution #China Tech Giants #Magnificent 7 #Market Regions #Greater China #AAPL.O #Impact bullish
+
+【Apple trains China-specific LLM with Alibaba, shifts from third‑party reliance】Refinitiv, citing three people familiar with the matter, reports Apple (AAPL.O) has trained a China‑specific large language model in partnership with Alibaba, marking a shift from its prior strategy of largely relying on third‑party models to power AI features in China. Apple Intelligence is expected to launch in China in the coming months following an iOS update. Neither company commented.
+
+---
+
+### 2026-08-14 12:42:15  #其他
+
+【兩部門對河南啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，8月14日，國家防災減災救災委員會針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應，前期派出的救災工作組繼續在災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等救災救助工作。同日，國家防災減災救災委員會辦公室、應急管理部針對近期持續暴雨洪澇災害導致河南周口、許昌等地險情災情，根據災區群眾避險轉移和安置救助需要，會同國家糧食和物資儲備局調撥摺疊床、褥子、毛毯、夏涼被、夏裝、家庭應急包等3萬件中央救災物資，支援河南做好受災群眾安置救助工作。
+
+---
+
+### 2026-08-14 12:41:41  #市場 #國際
+
+5年期日本國債收益率上漲0.5個基點，至2.125%。
+
+---
+
+### 2026-08-14 12:41:11  #公司
+
+【傑富瑞上調塔吉特等百貨公司目標價】傑富瑞將塔吉特公司目標價從161美元上調至177美元；將伯靈頓百貨目標價從365美元上調至410美元。
+
+---
+
+### 2026-08-14 12:41:06  #MKT News #Macro & Rates #Treasury Yields #Market Regions #USDJPY #Impact bearish
+
+Japan 5-year government bond yield rose 0.5 bps to 2.125%.
+
+---
+
+### 2026-08-14 12:41:00  #MKT News
+
+China's National Commission for Disaster Reduction and the Ministry of Emergency Management have activated a national level-4 disaster emergency response, allocated central relief supplies and are guiding and supporting Henan's heavy-rain and flood relief operations.
+
+---
+
+### 2026-08-14 12:39:44  #其他
+
+【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。
 
 ---
 
@@ -18789,149 +19077,5 @@ Shein據悉考慮8月28日在香港上市交易。
 ### 2026-08-13 11:33:16  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
 
 TAIEX Hits Over 5-Week High as Tech Leads — The TAIEX, Taiwan’s benchmark stock index, climbed 471 points, or 1.0%, to 45,989 in Thursday morning trade, up for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders tried to maintain the upward momentum in the technology sector. Electronic technology stocks rose 1.2%, following a 1.1% gain on Wednesday, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, advancing 0.8%. Hon Hai Precision Industry soared 2.7%, while Unimicron rose 0.8%. Meanwhile, Foxconn Technology, the world's largest contract electronics maker, rose 0.5% after posting a 35% jump in Q2 profit, beating analyst forecasts, supported by continued strong AI demand. An upbeat session on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting.
-
----
-
-### 2026-08-13 11:31:46  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【China equity index futures morning close】China's CSI 300 index futures (IF) front contract rose 0.44% at the morning session close; SSE 50 index futures (IH) rose 0.34%; CSI 500 index futures (IC) rose 0.86%; CSI 1000 index futures (IM) rose 0.70%.
-
----
-
-### 2026-08-13 11:31:39  #MKT News #Market Regions #Greater China
-
-【China bond futures morning session close】China 2-year bond futures (TS) most-active contract up 0.01% at the morning session close; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) up 0.40%.
-
----
-
-### 2026-08-13 11:31:36  #MKT News #Important #Commodities #Industrial Metals #WTI #Impact bullish
-
-China's commodity futures main contracts were mixed at the morning session close. Glass fell about 3%, soda ash dropped over 2%; alumina, cast aluminium and coking coal declined more than 1%; urea, stainless steel (SS) and Shanghai aluminium were down near 1%. On the upside, synthetic rubber rose over 2%; pulp, methanol and container freight—Europe route gained nearly 2%; PTA, paraxylene (PX), eggs, short fiber, plastics, fuel oil, SC crude oil and PET flakes advanced more than 1%.
-
----
-
-### 2026-08-13 11:31:02  #公司 #市場 #焦點 #A股
-
-【午評：雙創指數均漲超1%，醫療服務、CRO概念、創新藥板塊漲幅居前】三大指數早盤集體上漲，截至午盤，上證指數漲0.42%，深證成指漲0.73%，創業板指漲1.61%，北證50漲0.51%，科創50指數漲1.9%。全市場成交額15997億元，較上日放量2085億元，全市場超3000只個股下跌。板塊題材上，醫療服務、CRO概念、創新藥、生物製品、細胞免疫治療板塊漲幅居前；貴金屬、油氣開採及服務、工業金屬、房地產、光伏裝置板塊跌幅居前。盤面上，創新藥板塊探底回升，博濟醫藥、萬邦醫藥、隴神戎發、新里程等股漲停，舒泰神、藥石科技、上海凱寶漲幅居前。CPO板塊表現活躍，共進股份、天洋新材漲停，天孚通訊一度漲超13%，金祿電子、長盈通、德科立、炬光科技漲幅居前。算力租賃板塊衝高回落，城地香江、立昂技術、利通電子、群興玩具等股漲停，宏景科技、金剛光伏、漢鑫科技漲幅居前。貴金屬板塊震盪走低，曉程科技、招金黃金、湖南白銀跌幅居前。油氣開採及服務板塊低開低走，通源石油、科力股份、貝肯能源跌幅居前。
-
----
-
-### 2026-08-13 11:30:13  #其他
-
-【今年三峽樞紐透過量已達1億噸】從長江三峽通航管理局瞭解到，截至2026年8月13日0時40分，三峽樞紐透過量達1億噸。其中，三峽船閘執行5863閘次，透過船舶21562艘次，透過量9727.6萬噸；三峽升船機執行2557廂次，透過船舶2590艘次、旅客44.6萬人次。共保障2846.8萬噸民生物資、77.8萬噸重點急運物資便捷過壩。
-
----
-
-### 2026-08-13 11:30:06  #其他
-
-【2027國際（佛山）衛浴科技博覽會將於明年10月舉辦】2027國際（佛山）衛浴科技博覽會定於2027年10月21日—24日落地佛山潭洲國際會展中心，由佛山、中山、開平、鶴山四大衛浴產區首次聯合舉辦，展會規模近5萬平方米，預計吸引海內外5萬名採購商到場。
-
----
-
-### 2026-08-13 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲0.70%， 滬深300指數期貨連續漲0.44%， 中證500指數期貨連續漲0.86%， 上證50指數期貨連續漲0.34%。
-
----
-
-### 2026-08-13 11:30:03  #市場
-
-【商品期貨早盤收盤】玻璃連續跌2.82%，純鹼連續跌2.63%，丁二烯橡膠連續漲2.30%，甲醇連續漲1.77%，集運指數歐線期貨連續漲1.75%。
-
----
-
-### 2026-08-13 11:30:02  #市場
-
-【國債期貨早盤收盤】 30年期主力合約漲0.40%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-08-13 11:26:57  #MKT News
-
-【Zhenbao Technology plans 520 mln yuan Guanggu semiconductor components R&D and production base】Chinese-listed semiconductor components firm Zhenbao Technology plans to invest 520 mln yuan to build an R&D and production base in Guanggu with a three-year construction period. The site will focus on silicon carbide components, high-purity silicon precision parts and aluminum nitride ceramic materials and supporting parts — consumables for front-end wafer processes such as etch and thin-film deposition. On commissioning, the base is expected to rapidly expand the company’s capacity and provide nearby supply to wafer fabs in Central China, shortening delivery times.
-
----
-
-### 2026-08-13 11:26:57  #其他
-
-【凌志軟體中標頭部券商統一AI門戶數字員工專案】據凌志軟體公眾號訊息，近日，凌志軟體成功中標某頭部券商統一AI門戶數字員工專案。圍繞財富經紀一線場景建設數字員工能力，推動AI從對話問答走向任務執行、從單點應用走向平臺化落地。
-
----
-
-### 2026-08-13 11:26:22  #MKT News
-
-【US official criticizes Israel defense minister KATZ over comments on long-term presence in southern Lebanon】The Times of Israel reported on the 12th that a State Dept official rebuked Israeli defense minister KATZ after he said Israeli forces would remain in security zones in Lebanon, Syria and Gaza and had ordered preparations for a long-term deployment. The official said the remarks contradict Israel’s prior commitments and the agreed framework, warned a permanent presence in southern Lebanon would be inconsistent with those commitments and harmful to long-term peace and security, and reaffirmed US support for Lebanon’s territorial integrity and sovereignty.
-
----
-
-### 2026-08-13 11:25:47  #公司
-
-【大族鐳射等成立測控技術公司 含半導體器件相關業務】企查查APP顯示，近日，深圳市藍峰測控技術有限公司成立，法定代表人為石丹國，註冊資本為1000萬元，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；終端測試裝置製造；終端測試裝置銷售等。企查查股權穿透顯示，該公司由大族鐳射旗下深圳市大族半導體測試技術有限公司等共同持股。
-
----
-
-### 2026-08-13 11:24:23  #宏觀 #國際
-
-【美官員批評以防長“長期佔領黎南部”言論】美國國務院官員當天批評以色列國防部長卡茨，指出其發表的“準備長期佔領黎巴嫩南部”言論與以色列政府此前作出的承諾相悖。據報道，卡茨12日早些時候在黎巴嫩南部聲稱，“以軍將留在黎巴嫩、敘利亞和加沙的安全區，以保衛以色列”。他還稱，已指示以軍採取一切必要措施，為在該地區的長期駐留做好準備。美國國務院一名官員就此表示：“美國期望各方按照他們同意的框架協議採取行動，而以色列明確表示過在黎巴嫩沒有領土野心。在黎南部保持永久性軍事存在，既不符合該框架協議中（以方）所作的承諾，也不利於（以黎）兩國長期的和平與安全。”這名官員強調，美國“完全支援黎巴嫩的領土完整和主權”。（新華社）
-
----
-
-### 2026-08-13 11:23:43  #央行 #澳洲聯儲
-
-【澳洲聯儲助理主席肯特：澳大利亞貨幣政策目前具有緊縮性】澳洲聯儲助理主席肯特表示，澳大利亞貨幣政策目前具有緊縮性，今年年初連續三次加息如今正對經濟產生抑制作用，而澳元走強也進一步強化了這一影響。
-
----
-
-### 2026-08-13 11:22:24  #市場
-
-【安徽啟用茨淮新河分洩洪水 降低潁河水位】受潁河上游河南省持續來水影響，安徽省潁河水位快速上漲，預計阜陽閘8月15日洪峰水位31.4米，超警戒水位0.9米。安徽省水利廳決定於8月13日11時啟用茨淮新河分洩潁河洪水，全力降低潁河水位，最大限度減輕流域防洪壓力。
-
----
-
-### 2026-08-13 11:22:16  #MKT News
-
-【Putin inspects Iturup in disputed Southern Kurils】TASS reported Aug 13 that President Putin inspected Iturup in the Southern Kuril Islands (Japan: Northern Territories). Russia and Japan have not signed a peace treaty; sovereignty over the Southern Kurils remains a primary obstacle.
-
----
-
-### 2026-08-13 11:21:40  #公司
-
-【臻寶科技落子光谷 將投建半導體零部件研發生產基地專案】據“中國光谷”訊息，日前，國內半導體零部件領域上市企業臻寶科技落子光谷，將投資建設半導體零部件研發生產基地專案。專案總投資5.2億元，建設週期為三年。基地核心佈局碳化矽零部件、高純矽精密零部件、氮化鋁陶瓷材料及配套零部件三大品類，屬於晶片刻蝕、薄膜沉積等前道製造環節剛需耗材。基地投產後，可快速擴充公司現有產能，就近服務華中區域晶圓製造企業，縮短交付週期。
-
----
-
-### 2026-08-13 11:20:08  #市場
-
-【貴金屬板塊下挫 曉程科技、招金黃金跌超5%】貴金屬板塊持續下挫，曉程科技、招金黃金跌超5%，湖南白銀、盛達資源、赤峰黃金等跟跌。
-
----
-
-### 2026-08-13 11:19:17  #MKT News
-
-【Fudan team fabricates single-CuO2-plane high-Tc superconductor】On Aug. 12 Beijing time, Professor Zhang Yuanbo's group in Fudan University's physics department and collaborators published "Superconducting 2D cuprate with a single CuO2 plane" in Nature, reporting they thinned a cuprate high-temperature superconductor to a single CuO2 superconducting plane. The work confirms a two-dimensional origin for high-Tc superconductivity and reports an anomalous metallic state and quantum criticality at the superconductor–insulator transition, establishing a new quantum experimental platform to probe high-Tc mechanisms.
-
----
-
-### 2026-08-13 11:18:12  #國際
-
-【普京視察俄日爭議島嶼】據俄羅斯塔斯社今天（8月13日）報道，俄羅斯總統普京視察了南千島群島（日本稱“北方四島”）中的伊圖魯普島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）
-
----
-
-### 2026-08-13 11:17:49  #其他
-
-【復旦團隊首次製備單銅氧層高溫超導體】據復旦大學訊息，高溫超導電性是未來高效電力傳輸和高效能電子器件發展的重要方向，但其微觀機理始終是凝聚態物理的“皇冠之謎”。北京時間8月12日晚間，復旦大學物理學系張遠波教授團隊與合作者以“Superconducting 2D cuprate with a single CuO₂ plane”為題在《自然》（Nature）發表研究成果，成功將銅基高溫超導體削薄至僅含一個超導平面——即單個CuO₂面。這一“極限操作”不僅證實了高溫超導的二維本質，更在超導-絕緣體轉變的臨界點發現了奇異的“反常金屬態”和量子臨界現象，為研究高溫超導機理提供了全新的量子實驗平臺。
-
----
-
-### 2026-08-13 11:15:17  #MKT News
-
-Iraq's prime minister said Baghdad will not tolerate any party violating Iraqi airspace or taking actions that threaten national security.
-
----
-
-### 2026-08-13 11:13:55  #MKT News
-
-【South Korea raises household-debt growth cap, pledges 230,000 new homes in Seoul metro】South Korea has raised the cap on household-debt growth and pledged to supply more than 230,000 homes in the Seoul metropolitan area, including 100,000 units in newly designated zones. The addition sits atop an existing target of 1.35 mln housing starts in the Seoul metro for 2026-2030 and further intensifies supply-side measures first announced in September, after a prolonged construction-sector slowdown tightened new-home supply, contributed to rising prices and worsened affordability for younger households.
 
 ---

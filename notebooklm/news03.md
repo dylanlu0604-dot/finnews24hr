@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:55:07_
-_本檔包含 3000 則快訊，約 601095 字_
+_更新時間：2026-08-16 18:35:55_
+_本檔包含 3003 則快訊，約 600832 字_
+
+---
+
+### 2026-08-13 11:31:46  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【China equity index futures morning close】China's CSI 300 index futures (IF) front contract rose 0.44% at the morning session close; SSE 50 index futures (IH) rose 0.34%; CSI 500 index futures (IC) rose 0.86%; CSI 1000 index futures (IM) rose 0.70%.
+
+---
+
+### 2026-08-13 11:31:39  #MKT News #Market Regions #Greater China
+
+【China bond futures morning session close】China 2-year bond futures (TS) most-active contract up 0.01% at the morning session close; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) up 0.40%.
+
+---
+
+### 2026-08-13 11:31:36  #MKT News #Important #Commodities #Industrial Metals #WTI #Impact bullish
+
+China's commodity futures main contracts were mixed at the morning session close. Glass fell about 3%, soda ash dropped over 2%; alumina, cast aluminium and coking coal declined more than 1%; urea, stainless steel (SS) and Shanghai aluminium were down near 1%. On the upside, synthetic rubber rose over 2%; pulp, methanol and container freight—Europe route gained nearly 2%; PTA, paraxylene (PX), eggs, short fiber, plastics, fuel oil, SC crude oil and PET flakes advanced more than 1%.
+
+---
+
+### 2026-08-13 11:31:02  #公司 #市場 #焦點 #A股
+
+【午評：雙創指數均漲超1%，醫療服務、CRO概念、創新藥板塊漲幅居前】三大指數早盤集體上漲，截至午盤，上證指數漲0.42%，深證成指漲0.73%，創業板指漲1.61%，北證50漲0.51%，科創50指數漲1.9%。全市場成交額15997億元，較上日放量2085億元，全市場超3000只個股下跌。板塊題材上，醫療服務、CRO概念、創新藥、生物製品、細胞免疫治療板塊漲幅居前；貴金屬、油氣開採及服務、工業金屬、房地產、光伏裝置板塊跌幅居前。盤面上，創新藥板塊探底回升，博濟醫藥、萬邦醫藥、隴神戎發、新里程等股漲停，舒泰神、藥石科技、上海凱寶漲幅居前。CPO板塊表現活躍，共進股份、天洋新材漲停，天孚通訊一度漲超13%，金祿電子、長盈通、德科立、炬光科技漲幅居前。算力租賃板塊衝高回落，城地香江、立昂技術、利通電子、群興玩具等股漲停，宏景科技、金剛光伏、漢鑫科技漲幅居前。貴金屬板塊震盪走低，曉程科技、招金黃金、湖南白銀跌幅居前。油氣開採及服務板塊低開低走，通源石油、科力股份、貝肯能源跌幅居前。
+
+---
+
+### 2026-08-13 11:30:13  #其他
+
+【今年三峽樞紐透過量已達1億噸】從長江三峽通航管理局瞭解到，截至2026年8月13日0時40分，三峽樞紐透過量達1億噸。其中，三峽船閘執行5863閘次，透過船舶21562艘次，透過量9727.6萬噸；三峽升船機執行2557廂次，透過船舶2590艘次、旅客44.6萬人次。共保障2846.8萬噸民生物資、77.8萬噸重點急運物資便捷過壩。
+
+---
+
+### 2026-08-13 11:30:06  #其他
+
+【2027國際（佛山）衛浴科技博覽會將於明年10月舉辦】2027國際（佛山）衛浴科技博覽會定於2027年10月21日—24日落地佛山潭洲國際會展中心，由佛山、中山、開平、鶴山四大衛浴產區首次聯合舉辦，展會規模近5萬平方米，預計吸引海內外5萬名採購商到場。
+
+---
+
+### 2026-08-13 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續漲0.70%， 滬深300指數期貨連續漲0.44%， 中證500指數期貨連續漲0.86%， 上證50指數期貨連續漲0.34%。
+
+---
+
+### 2026-08-13 11:30:03  #市場
+
+【商品期貨早盤收盤】玻璃連續跌2.82%，純鹼連續跌2.63%，丁二烯橡膠連續漲2.30%，甲醇連續漲1.77%，集運指數歐線期貨連續漲1.75%。
+
+---
+
+### 2026-08-13 11:30:02  #市場
+
+【國債期貨早盤收盤】 30年期主力合約漲0.40%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-13 11:26:57  #MKT News
+
+【Zhenbao Technology plans 520 mln yuan Guanggu semiconductor components R&D and production base】Chinese-listed semiconductor components firm Zhenbao Technology plans to invest 520 mln yuan to build an R&D and production base in Guanggu with a three-year construction period. The site will focus on silicon carbide components, high-purity silicon precision parts and aluminum nitride ceramic materials and supporting parts — consumables for front-end wafer processes such as etch and thin-film deposition. On commissioning, the base is expected to rapidly expand the company’s capacity and provide nearby supply to wafer fabs in Central China, shortening delivery times.
+
+---
+
+### 2026-08-13 11:26:57  #其他
+
+【凌志軟體中標頭部券商統一AI門戶數字員工專案】據凌志軟體公眾號訊息，近日，凌志軟體成功中標某頭部券商統一AI門戶數字員工專案。圍繞財富經紀一線場景建設數字員工能力，推動AI從對話問答走向任務執行、從單點應用走向平臺化落地。
+
+---
+
+### 2026-08-13 11:26:22  #MKT News
+
+【US official criticizes Israel defense minister KATZ over comments on long-term presence in southern Lebanon】The Times of Israel reported on the 12th that a State Dept official rebuked Israeli defense minister KATZ after he said Israeli forces would remain in security zones in Lebanon, Syria and Gaza and had ordered preparations for a long-term deployment. The official said the remarks contradict Israel’s prior commitments and the agreed framework, warned a permanent presence in southern Lebanon would be inconsistent with those commitments and harmful to long-term peace and security, and reaffirmed US support for Lebanon’s territorial integrity and sovereignty.
+
+---
+
+### 2026-08-13 11:25:47  #公司
+
+【大族鐳射等成立測控技術公司 含半導體器件相關業務】企查查APP顯示，近日，深圳市藍峰測控技術有限公司成立，法定代表人為石丹國，註冊資本為1000萬元，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；終端測試裝置製造；終端測試裝置銷售等。企查查股權穿透顯示，該公司由大族鐳射旗下深圳市大族半導體測試技術有限公司等共同持股。
+
+---
+
+### 2026-08-13 11:24:23  #宏觀 #國際
+
+【美官員批評以防長“長期佔領黎南部”言論】美國國務院官員當天批評以色列國防部長卡茨，指出其發表的“準備長期佔領黎巴嫩南部”言論與以色列政府此前作出的承諾相悖。據報道，卡茨12日早些時候在黎巴嫩南部聲稱，“以軍將留在黎巴嫩、敘利亞和加沙的安全區，以保衛以色列”。他還稱，已指示以軍採取一切必要措施，為在該地區的長期駐留做好準備。美國國務院一名官員就此表示：“美國期望各方按照他們同意的框架協議採取行動，而以色列明確表示過在黎巴嫩沒有領土野心。在黎南部保持永久性軍事存在，既不符合該框架協議中（以方）所作的承諾，也不利於（以黎）兩國長期的和平與安全。”這名官員強調，美國“完全支援黎巴嫩的領土完整和主權”。（新華社）
+
+---
+
+### 2026-08-13 11:23:43  #央行 #澳洲聯儲
+
+【澳洲聯儲助理主席肯特：澳大利亞貨幣政策目前具有緊縮性】澳洲聯儲助理主席肯特表示，澳大利亞貨幣政策目前具有緊縮性，今年年初連續三次加息如今正對經濟產生抑制作用，而澳元走強也進一步強化了這一影響。
+
+---
+
+### 2026-08-13 11:22:24  #市場
+
+【安徽啟用茨淮新河分洩洪水 降低潁河水位】受潁河上游河南省持續來水影響，安徽省潁河水位快速上漲，預計阜陽閘8月15日洪峰水位31.4米，超警戒水位0.9米。安徽省水利廳決定於8月13日11時啟用茨淮新河分洩潁河洪水，全力降低潁河水位，最大限度減輕流域防洪壓力。
+
+---
+
+### 2026-08-13 11:22:16  #MKT News
+
+【Putin inspects Iturup in disputed Southern Kurils】TASS reported Aug 13 that President Putin inspected Iturup in the Southern Kuril Islands (Japan: Northern Territories). Russia and Japan have not signed a peace treaty; sovereignty over the Southern Kurils remains a primary obstacle.
+
+---
+
+### 2026-08-13 11:21:40  #公司
+
+【臻寶科技落子光谷 將投建半導體零部件研發生產基地專案】據“中國光谷”訊息，日前，國內半導體零部件領域上市企業臻寶科技落子光谷，將投資建設半導體零部件研發生產基地專案。專案總投資5.2億元，建設週期為三年。基地核心佈局碳化矽零部件、高純矽精密零部件、氮化鋁陶瓷材料及配套零部件三大品類，屬於晶片刻蝕、薄膜沉積等前道製造環節剛需耗材。基地投產後，可快速擴充公司現有產能，就近服務華中區域晶圓製造企業，縮短交付週期。
+
+---
+
+### 2026-08-13 11:20:08  #市場
+
+【貴金屬板塊下挫 曉程科技、招金黃金跌超5%】貴金屬板塊持續下挫，曉程科技、招金黃金跌超5%，湖南白銀、盛達資源、赤峰黃金等跟跌。
+
+---
+
+### 2026-08-13 11:19:17  #MKT News
+
+【Fudan team fabricates single-CuO2-plane high-Tc superconductor】On Aug. 12 Beijing time, Professor Zhang Yuanbo's group in Fudan University's physics department and collaborators published "Superconducting 2D cuprate with a single CuO2 plane" in Nature, reporting they thinned a cuprate high-temperature superconductor to a single CuO2 superconducting plane. The work confirms a two-dimensional origin for high-Tc superconductivity and reports an anomalous metallic state and quantum criticality at the superconductor–insulator transition, establishing a new quantum experimental platform to probe high-Tc mechanisms.
+
+---
+
+### 2026-08-13 11:18:12  #國際
+
+【普京視察俄日爭議島嶼】據俄羅斯塔斯社今天（8月13日）報道，俄羅斯總統普京視察了南千島群島（日本稱“北方四島”）中的伊圖魯普島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）
+
+---
+
+### 2026-08-13 11:17:49  #其他
+
+【復旦團隊首次製備單銅氧層高溫超導體】據復旦大學訊息，高溫超導電性是未來高效電力傳輸和高效能電子器件發展的重要方向，但其微觀機理始終是凝聚態物理的“皇冠之謎”。北京時間8月12日晚間，復旦大學物理學系張遠波教授團隊與合作者以“Superconducting 2D cuprate with a single CuO₂ plane”為題在《自然》（Nature）發表研究成果，成功將銅基高溫超導體削薄至僅含一個超導平面——即單個CuO₂面。這一“極限操作”不僅證實了高溫超導的二維本質，更在超導-絕緣體轉變的臨界點發現了奇異的“反常金屬態”和量子臨界現象，為研究高溫超導機理提供了全新的量子實驗平臺。
+
+---
+
+### 2026-08-13 11:15:17  #MKT News
+
+Iraq's prime minister said Baghdad will not tolerate any party violating Iraqi airspace or taking actions that threaten national security.
+
+---
+
+### 2026-08-13 11:13:55  #MKT News
+
+【South Korea raises household-debt growth cap, pledges 230,000 new homes in Seoul metro】South Korea has raised the cap on household-debt growth and pledged to supply more than 230,000 homes in the Seoul metropolitan area, including 100,000 units in newly designated zones. The addition sits atop an existing target of 1.35 mln housing starts in the Seoul metro for 2026-2030 and further intensifies supply-side measures first announced in September, after a prolonged construction-sector slowdown tightened new-home supply, contributed to rising prices and worsened affordability for younger households.
 
 ---
 
@@ -17980,131 +18124,5 @@ New Zealand Prime Minister Luxon said he has party support amid a leadership cha
 ### 2026-08-12 08:51:02  #MKT News #Market Regions #Greater China
 
 【Pinglu Canal live-ship trials start】Aug 12 — Live-ship trials for the Pinglu Canal have begun. Four representative vessels will carry out phased validation of navigation under normal and adverse conditions and a full-line aids-to-navigation efficacy check. The trials are intended to underpin the canal’s scheduled opening in Sept 2026. The Pinglu Canal, a backbone project of the Western Land-Sea New Corridor, is 134.2 km long and designed for 5,000-ton vessels; on completion it will establish a river-sea intermodal trunk linking southwest China to the sea via the Xijiang mainstem.
-
----
-
-### 2026-08-12 08:49:33  #其他
-
-【平陸運河實船試驗正式啟動】8月12日，平陸運河實船試驗正式啟動。四艘代表性船舶將分階段完成常規工況、不利工況通航驗證與全線航標效能檢測。實船試驗為運河2026年9月如期通航奠定基礎。平陸運河是西部陸海新通道骨幹工程，全長134.2公里，可通航5000噸級船舶，建成後將打通西南地區經西江干流南下入海的江海聯運大通道。
-
----
-
-### 2026-08-12 08:49:03  #其他
-
-【湖南12家煤礦企業有序復產】據湖南日報，8月11日，經郴州市人民政府批准，永興縣新星煤礦恢復生產，至此，全省已有12家煤礦（其中8家省屬煤礦、4家民營煤礦）經屬地人民政府組織自然資源、公安、電力、應急、礦山安全監察等部門驗收合格後批准復產，還有37家煤礦正在積極整改，復工復產工作正在有力有序推進。
-
----
-
-### 2026-08-12 08:48:43  #公司 #國際
-
-【SpaceX等美國“金穹”計劃承包商完成天基攔截器首輪關鍵測試】SpaceX、Northrop Grumman Corp.及其他為美國總統唐納德·特朗普價值1850億美元的“金穹”計劃研發天基導彈攔截器的企業，已成功完成首輪關鍵測試，標誌著這項實驗性防禦技術的建設取得早期進展。負責“金穹”計劃的太空軍上將Michael Guetlein週二在一場會議期間告訴隨行記者，所有企業眼下將進入該計劃的下一階段，即證明其技術能夠在太空環境中執行。對其中至少部分企業而言，首次測試要求將感測器資料傳輸至攔截器，並演示其航天器的推進系統。今年4月，美國太空軍宣佈向12家不同企業授出合同，包括RTX公司、Anduril Industries Inc.和洛克希德·馬丁公司，以開發用於擊落彈道導彈的武器化衛星。本屆政府已為這一努力撥出32億美元，未來合同規模可能達數百億美元。
-
----
-
-### 2026-08-12 08:48:31  #MKT News #Commodities #Energy #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #WTI #Impact bullish #DXY #USDJPY
-
-【Oil rally sparks renewed inflation fears, JGB yields rise】Rising oil prices have rekindled inflation worries and pushed Japanese government bond yields higher. The five-year JGB yield hit a record high and the two-year yield rose to its strongest level since May 1995, prompting markets to increase bets on further BOJ tightening; Tokyo traders' association data place the probability of a September BOJ rate hike at roughly two-thirds. Domestic yield moves have not produced clear yen support: strategists say external forces — higher U.S. Treasury yields, firmer oil and a strong dollar/yen — remain the dominant drivers. Higher JGB yields could eventually help the yen by narrowing the Japan-U.S. yield gap, but current external pressure outweighs that effect. Wednesday's U.S. CPI print is the key near-term catalyst for the dollar and global yields.
-
----
-
-### 2026-08-12 08:47:55  #其他
-
-【鄭州市啟動防汛二級應急響應】記者從鄭州市防汛抗旱指揮部瞭解到，根據氣象部門最新預報，今天到明天，我市仍有大到暴雨。登封市、新密市、滎陽市、新鄭市、鞏義市已啟動或者針對部分鄉鎮啟動防汛二級應急響應。根據《鄭州市防汛應急預案》有關規定，經綜合會商研判，鄭州市防汛抗旱指揮部決定於8月12日8時將防汛三級應急響應提升至二級。（鄭州釋出）
-
----
-
-### 2026-08-12 08:47:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【Combined Shanghai and Shenzhen margin financing balances up CNY1.299 bln】As of Aug 11, Shanghai Stock Exchange margin financing balance was 1.3504 tln yuan, up 335 mln yuan from the previous session; Shenzhen was 1.2792 tln yuan, up 964 mln yuan; combined 2.6296 tln yuan, up 1.299 bln yuan.
-
----
-
-### 2026-08-12 08:47:26  #其他
-
-【兩市融資餘額較上日增加12.99億元】截至8月11日，上交所融資餘額報13504.24億元，較前一交易日增加3.35億元；深交所融資餘額報12791.68億元，較前一交易日增加9.64億元；兩市合計26295.92億元，較前一交易日增加12.99億元。
-
----
-
-### 2026-08-12 08:47:19  #宏觀
-
-【未來5年 15萬億元或將投向這裡】《城市更新“十五五”規劃》的出臺，就是給全國的城市更新定調子、指路子。根據規劃，市場預測，“十五五”期間城市更新預計帶動投資15萬億元。規劃明確了23項重點任務，並拿出了10項量化指標。這些數字，個個關乎咱們的居住體驗，其中包括：新開工改造城鎮老舊小區11.5萬個；更新城鎮危舊房約50萬套；改造老舊街區廠區1500個；推進4000個城中村改造；建設改造城市地下管網36.5萬公里；新建及改擴建體育場地12.8萬公頃；城鎮房屋基礎資訊數字化率要達到95%以上。（央視）
-
----
-
-### 2026-08-12 08:46:10  #公司 #國際
-
-【英特爾增發200億美元前據悉曾尋求美政府批准】當地時間8月11日，英特爾宣佈其普通股註冊公開發行定價為每股95美元，共發行210,526,315股普通股，發行規模從此前公佈的150億美元擴大至200億美元。據報道，英特爾CEO陳立武在公司增發股票前，曾致電美國商務部長盧特尼克尋求批准。美國政府最終決定不參與此次股票發行。
-
----
-
-### 2026-08-12 08:44:44  #公司
-
-【三麗鷗一季度財報不及預期 股價重挫18%創 2014 年以來最大跌幅】Hello Kitty 母公司三麗鷗一季度營業利潤不及市場預期，股價最大跌幅達 18%，創下 2014 年 5 月以來最大單日跌幅。公司週一公佈一季度營業利潤 224 億日元，低於一致預期的 234 億日元。三井住友日興證券分析師在研報中表示：本次財報表現平淡，無超預期亮點。
-
----
-
-### 2026-08-12 08:44:12  #其他
-
-【學而思就學習機登入異常致歉】8月11日晚，學而思部分學習機出現登入異常。當天23時49分，“學而思親子”App向使用者推送《關於登入異常的說明》。學而思學習機團隊稱，20時30分起，部分學習機因伺服器網路波動出現登入異常，目前系統已逐步恢復，使用者可以正常掃碼登入使用。學而思學習機團隊就此向使用者致歉。（新黃河）
-
----
-
-### 2026-08-12 08:44:05  #公司
-
-【來凱醫藥：LAE002新藥上市申請獲國家藥監局受理】來凱醫藥-B公告，LAE002(afuresertib)的新藥上市申請已獲中國國家藥品監督管理局藥品審評中心受理，用於治療既往接受內分泌治療後出現疾病復發或進展，伴有PIK3CA/AKT1/PTEN改變的HR+/HER2-區域性晚期或轉移性乳腺癌患者。此次申請基於III期臨床試驗AFFIRM-205的積極結果，該研究達到無進展生存期主要終點。公司與齊魯製藥於2025年11月訂立獨家許可協議，有資格獲得總額最高達人民幣20.45億元的首付款及里程碑款項。
-
----
-
-### 2026-08-12 08:43:47  #MKT News
-
-【Beijing Mianbi Intelligent files IPO counseling; CITIC Securities sponsor】CSRC posted that Beijing Mianbi Intelligent Technology Co., Ltd registered an IPO counseling record with the Beijing Securities Regulatory Bureau on Aug 11, 2026, intending an initial public offering and listing; counseling sponsor is CITIC Securities. The counseling report shows the company has no controlling shareholder; largest shareholder is Beijing Qingyu Qihang Technology Center (Limited Partnership) with a 16.45% stake.
-
----
-
-### 2026-08-12 08:42:19  #公司 #國際
-
-【在俄服刑的美國前海軍陸戰隊員羅伯特·吉爾曼獲釋返美，特朗普發聲】綜合塔斯社、美國全國廣播公司（NBC）等媒體11日報道，此前因酒後鬧事等行為在俄羅斯被判服刑的美國前海軍陸戰隊員羅伯特·吉爾曼獲釋。美國總統特朗普當地時間11日在社交平臺上發帖，證實吉爾曼獲釋。“我很自豪地宣佈，美國公民、美國前海軍陸戰隊員羅伯特·吉爾曼即將回家！”特朗普在帖子中稱，2022年，吉爾曼於拜登政府時期在俄羅斯被判入獄。（環球網）
-
----
-
-### 2026-08-12 08:41:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan 5-year government bond yield rose 2.0 bps to 2.105%.
-
----
-
-### 2026-08-12 08:41:43  #公司
-
-【瑞士再保險：山火已成全球“發展速度最快”極端天氣風險】全球最大再保險公司之一的瑞士再保險公司11日表示，2026年上半年全球自然災害造成的經濟損失據估算已達1000億美元。而在今年下半年，厄爾尼諾現象可能會加劇氣象災害的破壞力，風險不容忽視。
-
----
-
-### 2026-08-12 08:40:44  #公司 #觀點
-
-【面壁智慧啟動IPO】證監會網站披露，北京面壁智慧科技股份有限公司於2026年8月11日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。輔導備案報告顯示，該公司無控股股東，公司第一大股東為北京清語啟航科技中心（有限合夥），持股比例16.45%。
-
----
-
-### 2026-08-12 08:39:16  #國際
-
-據報道，美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆和美國聯邦眾議員拉爾夫·諾曼預計將進入南卡羅來納州共和黨參議員初選的決選。
-
----
-
-### 2026-08-12 08:39:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australian Market Tracks Wall Street Losses — Australian equities retreated Wednesday, with the benchmark slipping 40 points or 0.5% to 9,207 in morning trade, erasing the prior day’s modest uptick after Wall Street’s overnight weakness and stalled Strait of Hormuz talks lifted oil prices ahead of key inflation data. Locally, the Reserve Bank kept the cash rate steady at 4.35% after three hikes this year, stressing inflation remains uncomfortably high and expectations elevated. Sectoral weakness was led by tech services, manufacturing, consumer services, and retail, though consumer durables and logistics offered partial support. The four major banks eased between 0.1% and 0.7%, while notable laggards included BHP Group (-0.5%), South32 (-2.7%), Computershare (-2.0%), and Bluescope Steel (-1.8%). Market focus now shifts to testimony from Governor Michele Bullock before parliament on Friday, preceded by Assistant Governor Chris Kent’s appearance Thursday, as investors weigh policy signals against persistent inflationary pressures.
-
----
-
-### 2026-08-12 08:38:56  #其他
-
-【星巴克中國並未取消14薪、門店規模還在擴張】相關傳聞提到，星巴克中國已開啟裁員和降低人工成本，比如取消14薪、修改員工合同，除店經理以外的大部分員工改為兼職合同、取消部分帶薪假期。對此，據記者多方確認，星巴克中國並未取消14薪、修改員工合同乃至取消部分帶薪假期。但要看到，隨著星巴克中國走向合資狀態，此前的員工持股計劃確實會出現一定變化。而基於此前星巴克全球與博裕投資的相關協議，種種變化會在下個財年落地。星巴克下個財年將於今年10月開啟。還有相關傳聞提及，在剛過去的財季（5月-7月）裡，星巴克中國門店首次出現了負增長。對此，據記者確認，星巴克中國門店規模處於增長區間。據星巴克年初發布的財務指引，其在中國本財年預計門店數量淨增長250家左右。亦要看到，星巴克上個財季為4-6月，尚未釋出與7月相關的經營資料。（21財經）
-
----
-
-### 2026-08-12 08:38:55  #MKT News #Market Themes #AI Revolution #Chip Wars
-
-【South Korea to inject more than $700m into sovereign fund targeting AI, strategic industries next year】South Korea’s finance ministry expects to deploy 600 billion–1 trillion won (about $707m) of new capital into a sovereign-wealth fund targeting AI and other strategic industries next year, and the final amount could exceed initial estimates depending on selected targets and their funding needs, the ministry’s Innovation Growth Office head said on Tuesday. There are currently no plans for the fund to invest directly in Samsung Electronics or SK Hynix. In July Seoul said the Korea Investment Corporation would set up a “strategic industry investment account” with initial capital of at least 20 trillion won (about RMB94bn), targeting AI, semiconductors, data centres and overseas supply-chain core firms and due to be formally launched and operated next year. The fund will also target robotics, energy and battery and grid infrastructure; nuclear, space and quantum technologies are under consideration.
 
 ---

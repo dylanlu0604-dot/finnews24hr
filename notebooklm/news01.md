@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:55:07_
-_本檔包含 3056 則快訊，約 601167 字_
+_更新時間：2026-08-16 18:35:55_
+_本檔包含 3034 則快訊，約 600803 字_
+
+---
+
+### 2026-08-16 18:34:12  #國際
+
+美國地質調查局：印度尼西亞魯滕以北 74 公里處發生 5.5 級地震。
+
+---
+
+### 2026-08-16 18:32:40  #MKT News #XAUUSD #Impact bullish #DXY
+
+【Ukraine says it struck major Russian munitions plant; Russia reports nearly 1,500 Ukrainian fixed‑wing drones downed in one day】Ukraine General Staff said on Aug. 16 its forces struck the Kamensky Joint Enterprise in Russia’s Rostov Oblast, a facility in the Russian military‑industrial complex. Ukraine reported a fire at the site and said damage and operational effects are under verification. The plant produces solid rocket propellant for "Hurricane", "Tornado" and "Tornado‑S" MLRS munitions and propellants used in various missile systems and air‑delivered weapons. The Russian Defence Ministry’s 24‑hour combat report on Aug. 16 said Russian forces seized Pershomarievka in Donetsk region and Kudievka in Kharkiv region, and that air defences shot down 14 guided aerial bombs, one US‑made HIMARS rocket, nine "Flamingo" long‑range cruise missiles and 1,478 fixed‑wing UAVs — the highest single‑day tally the ministry has announced.
+
+---
+
+### 2026-08-16 18:32:11  #觀點
+
+【中信證券：產業趨勢仍然向上，節奏有所放緩】中信證券研報稱，將行情劃分為北美AI鏈、對非美市場出海和內需三條業績線索：1）對北美AI鏈而言，經過半個月的修復，漲價鏈條的賠率明顯下降，近期AI敘事上有一些邊際變化，但尚不足以帶動整個板塊重估，還需要耐心等遠期新敘事的出現；2）對非美市場出海而言，中歐貿易爭端在未來一段時間可能會繼續焦灼，壓制不少高階製造板塊估值，同時臨近半年報密集披露期，匯兌損失的影響亦不容小覷；3）對於純內需品種，國產算力景氣相對優勢明顯，但考慮到估值對於遠期敘事的樂觀反映，板塊資金情緒或無法獨立於北美AI鏈。整體而言，不少板塊的產業趨勢仍然向上，但制約估值擴張的因素在增多，上行節奏可能放緩，二季度動輒翻倍的情況在十年維度上都極為罕見，投資者需要回歸合理預期回報。市場機會或將更多體現為具備業績支撐品種的估值修復，後續市場降波的過程也是籌碼結構最佳化、優質資產被重新定價的過程，為中長期行情的延續夯實基礎。
+
+---
+
+### 2026-08-16 18:31:16  #公司
+
+【中石化煉化工程釋出中期業績：股東應占利潤11.37億元 同比減少18%】中石化煉化工程釋出截至2026年6月30日止6個月中期業績，該集團取得收入人民幣356.24億元(單位下同)，同比增加12.7%;本公司權益持有人應占利潤11.37億元，同比減少18%;基本每股盈利0.26元;擬派中期股息每股0.127元。公告稱，收入增加主要是工程總承包業務在執行合同增長所致。
+
+---
+
+### 2026-08-16 18:25:30  #MKT News #Important
+
+【US reportedly bypassed Iranian negotiators to contact IRGC via Nechirvan Barzani】Axios, citing three people, reports mid‑May US envoys seeking an agreement to end hostilities could not verify whether Iranian negotiators represented the Islamic Revolutionary Guard Corps (IRGC). The Trump administration therefore bypassed Iran’s negotiators and opened a secret channel to IRGC leaders through Iraqi Kurdistan president Nechirvan Barzani, who reportedly has the trust of both Washington and IRGC leadership. A memorandum of understanding was reportedly reached but quickly collapsed, underscoring US difficulty in identifying who holds decision authority inside Iran.
+
+---
+
+### 2026-08-16 18:22:22  #其他
+
+【水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至8月17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-08-16 18:20:40  #國際
+
+【美媒：美從西太平洋撤出最後一艘航母】據美聯社8月15日報道，美國總統唐納德·特朗普對伊朗的戰爭正在挑戰美國航空母艦的極限，並使西太平洋沒有一艘這種關鍵的美國軍艦。 在對“亞伯拉罕·林肯”號這艘長期部署的航空母艦上官兵的心理健康和補給問題的擔憂日益加劇之際，“喬治·華盛頓”號航空母艦即將離開太平洋，預計將取代目前在中東的“林肯”號。最初計劃於5月返航的“林肯”號的在航時間已經延長，以支援對伊朗的行動。 如果美國海軍在未來數月部署另一艘航母，那麼，美國在太平洋沒有航母的局面可能是短暫的。但分析人士表示，這表明，在特朗普政府進一步從亞太地區抽身、把重點放在西半球之際，對伊朗的無限期行動已讓一些美國水兵精疲力竭。（參考訊息）
+
+---
+
+### 2026-08-16 18:16:56  #公司
+
+【兆威機電：2026年上半年淨利潤7464.57萬元，同比減少34.10%】兆威機電公告，2026年上半年營業收入8.16億元，同比增長3.80%。淨利潤7464.57萬元，上年同期淨利潤1.13億元，同比減少34.10%。
+
+---
+
+### 2026-08-16 18:11:14  #其他
+
+據燈塔專業版實時資料，截至8月16日18時9分，影片《八仙！》票房突破16億。
+
+---
+
+### 2026-08-16 18:10:40  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Saudi media, citing Yemen’s armed forces, reported strikes on Houthi positions across the contact line. Yemen’s forces said they have the capability and readiness to strike and neutralize Houthi threat sources and that the strikes destroyed dozens of devices and weapons depots.
+
+---
+
+### 2026-08-16 18:09:23  #國際
+
+【俄稱一日擊落近1500架烏無人機】俄羅斯國防部今天（8月16日）釋出24小時戰報稱，俄軍已控制頓涅茨克地區的佩爾紹馬裡耶夫卡和哈爾科夫地區的庫迪耶夫卡兩處居民點。俄防空力量擊落14枚航空制導炸彈、1枚美製“海馬斯”火箭彈、9枚“火烈鳥”遠端巡航導彈和1478架固定翼無人機。據總檯記者瞭解，這是截至目前俄國防部公佈的單日擊落烏無人機數量最高記錄。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 18:08:19  #其他
+
+水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部部分地區發生山洪災害可能性大（橙色預警）。（國家預警釋出）
+
+---
+
+### 2026-08-16 18:07:47  #國際
+
+【菲律賓極端降雨天氣已致23人死亡】據菲律賓國家減災委員會16日釋出的最新資料，截至當日6時，本輪惡劣天氣已造成全國23人死亡、17人受傷，另有3人失蹤，受災人口超過490萬。據菲減災委通報，受颱風“白海豚”和“鯨魚”疊加西南季風影響，菲律賓近期多地遭受持續強降雨侵襲，引發嚴重洪澇和泥石流等災害。受災嚴重的地區包括呂宋島北部、西部及首都大馬尼拉地區。地方政府部門已設立數百處臨時避難所，集中安置轉移民眾。（新華社）
+
+---
+
+### 2026-08-16 18:06:47  #其他
+
+自然資源部與中國氣象局8月16日18時聯合釋出黃色地質災害氣象風險預警：預計，8月16日20時至17日20時，四川中北部、雲南西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。（國家預警釋出）
+
+---
+
+### 2026-08-16 18:03:59  #市場 #焦點
+
+布倫特原油暗盤突破86美元，日內漲超0.6%。
+
+---
+
+### 2026-08-16 18:01:56  #國際
+
+【特朗普再促參議院透過全年採用夏令時法案】美國總統特朗普15日在社交媒體再度發文，敦促國會參議院儘快表決透過全年採用夏令時的相關法案。特朗普說，參議院“必須儘快投票”，並“把它辦成”。他說，一天中較晚時段有更多陽光會更好，包括有助於打擊犯罪，但更重要的是，別再每年兩次調整時鐘和手錶了，這帶來的全是干擾和混亂。此前，特朗普4日在社交媒體發文，敦促國會參議院儘快透過全年採用夏令時的相關法案，稱絕大多數美國人都要求將夏令時永久化。（新華社）
+
+---
+
+### 2026-08-16 18:01:44  #MKT News #XAUUSD #Impact bullish #DXY #USDJPY #Impact bearish
+
+【South Korean military fires warning shots at N. Korea soldiers after crossing eastern military demarcation line】Yonhap, citing South Korean government sources on the 16th, reported several N. Korea soldiers crossed the eastern military demarcation line and ROK forces fired warning shots. Yonhap said it was the first time this year the South fired warning shots in response to a North Korean incursion.
+
+---
+
+### 2026-08-16 18:01:37  #國際
+
+【韓軍向越過東部軍事分界線朝鮮軍人鳴槍警告】據韓聯社8月16日援引韓國政府人士訊息報道，數名朝鮮軍人日前越過東部地區軍事分界線，韓軍隨後鳴槍警告。據稱，這是今年以來韓軍首次因朝軍越界實施警告射擊。（新華社）
+
+---
+
+### 2026-08-16 18:00:25  #資料 #國際
+
+以色列中央統計局修正資料顯示，以色列第一季度國內生產總值按年率計算下滑2.2%。
+
+---
+
+### 2026-08-16 18:00:19  #資料 #國際
+
+以色列統計局公佈：該國第二季度人均國內生產總值按年率計算增長14%。
+
+---
+
+### 2026-08-16 18:00:08  #資料 #國際
+
+以色列第二季度GDP按年率計算環比增長15.4%；此前預期增長8.3%。
+
+---
+
+### 2026-08-16 18:00:02  #市場
+
+未來一週將有杭蕭鋼構、皇馬科技等1052家AB股公司披露業績。
+
+---
+
+### 2026-08-16 17:59:34  #國際
+
+阿拉伯媒體：在伊朗伊斯蘭共和國與阿曼當前對話方塊架內，船隻透過霍爾木茲海峽南部航道的通行將被取消（這部分原屬於阿曼領海）。
+
+---
+
+### 2026-08-16 17:57:56  #市場 #國際
+
+【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。（央視財經）
+
+---
+
+### 2026-08-16 17:57:04  #其他
+
+中國地震臺網正式測定：08月16日17時48分在河北唐山市豐南區（北緯39.36度，東經117.90度）發生2.1級地震，震源深度27千米。
+
+---
+
+### 2026-08-16 17:54:59  #MKT News
+
+Yemeni armed forces told Saudi Al Arabiya TV they conducted 181 military operations against Houthi targets and threat sources over the past 24 hours.
 
 ---
 
@@ -18161,293 +18317,5 @@ China A-share semiconductor sector reversed in the afternoon; Huahong Hongli fel
 ### 2026-08-14 13:08:21  #國際
 
 【日本千葉縣強降雨8人死 】據日本廣播協會（NHK）電視臺今天（8月14日）最新報道稱，昨天開始的強降雨已造成日本千葉縣8人死亡。 據日本氣象廳訊息，千葉縣自8月13日傍晚以後持續出現強降雨。其中，千葉市截至當地時間今天凌晨1點的12小時累計降雨量達到347毫米，為有記錄以來的最高值。半天內的降雨量已接近往年8月整個月平均降雨量的3倍。
-
----
-
-### 2026-08-14 13:06:39  #MKT News #Important #Star Stocks #JD.com #Meituan #Hang Seng Index #Impact bearish #09618.HK #03690.HK
-
-Hang Seng TECH Index extended losses to 2% as tech and internet stocks came under pressure. JD.com (09618.HK) dropped more than 10%; Meituan (03690.HK) fell nearly 6%.
-
----
-
-### 2026-08-14 13:06:24  #市場 #焦點
-
-恒生科技指數跌超2％，恒生指數現跌1.09％，科網股多數承壓。
-
----
-
-### 2026-08-14 13:05:49  #公司
-
-LG集團與英偉達聯合開發人形機器人；人形機器人將於2027年第一季度亮相。
-
----
-
-### 2026-08-14 13:05:04  #MKT News
-
-Interfax reported that online retailer Wildberries' warehouse in Russia's Tver region was damaged in a drone attack.
-
----
-
-### 2026-08-14 13:03:58  #其他
-
-算力租賃概念震盪回升，網宿科技漲超10%，資料港、利通電子、宏景科技、行雲科技、雲賽智聯等跟漲。
-
----
-
-### 2026-08-14 13:03:44  #其他
-
-市場訊息：智譜將釋出GLM-5.3模型，其程式設計能力與FABLE 5相當。
-
----
-
-### 2026-08-14 13:03:11  #公司
-
-【宜家擬處置上海寶山商場物業，已委託仲量聯行代理】宜家中國近日就上海寶山商場物業後續安排釋出說明。英格卡集團(Ingka Group)已正式委託仲量聯行，代理旗下中國市場部分已停運商場自持物業的處置工作，上海寶山商場物業在列。 宜家上海寶山商場2013年開業，2026年停運，接待訪客近3000萬人次。宜家中國表示，該自持物業位於上海市寶山區，總建築面積約10.5萬平方米，目前資產已全面清空、產權清晰，可按現狀即時交付。專案未來可探索改造為社群商業綜合體、融合文旅元素的體驗式消費空間或其他創新業態。
-
----
-
-### 2026-08-14 13:02:02  #MKT News #Market Regions #Japan & APAC
-
-Japan's 20-year government bond yield rose 0.5 bps to 3.745%.
-
----
-
-### 2026-08-14 13:01:57  #市場 #國際
-
-20年期日本國債收益率上漲0.5個基點，至3.745%。
-
----
-
-### 2026-08-14 13:01:57  #MKT News
-
-The Philippine president said it is difficult to make a decision now and it is too early to say whether he will back any candidate.
-
----
-
-### 2026-08-14 13:01:42  #MKT News
-
-Philippine president says he has not yet discussed the 2028 election with anyone.
-
----
-
-### 2026-08-14 13:01:29  #國際
-
-菲律賓總統馬科斯：我們一定會在2028年推選出最合適的候選人。
-
----
-
-### 2026-08-14 13:01:11  #MKT News #Important #Star Stocks #JD.com #Market Regions #Greater China #Hang Seng Index #Impact bearish #02618.HK #09618.HK
-
-Hang Seng Index extended afternoon losses, down more than 1%, led by JD Logistics (02618.HK) and JD.com (09618.HK).
-
----
-
-### 2026-08-14 13:00:32  #市場 #焦點
-
-恒生指數跌超1%，現報25138.529點；恒生科技指數現跌1.865%。
-
----
-
-### 2026-08-14 13:00:23  #國際
-
-【印尼269名學生集體食物中毒】據印度尼西亞媒體14日報道，該國北蘇門答臘省卡羅縣13日發生集體食物中毒事件，5所中學的至少269名學生出現中毒症狀並被送醫治療。當地教育部門負責人對媒體表示，一些學生在13日午餐後陸續出現中毒症狀，截至13日晚，已有269名學生被送醫接受治療。目前，所有送醫學生情況穩定，暫無死亡報告。（新華社）
-
----
-
-### 2026-08-14 12:59:52  #國際
-
-菲律賓總統馬科斯：將在2028年總統選舉中公開支援候選人。
-
----
-
-### 2026-08-14 12:59:22  #公司
-
-【京東：七鮮咖啡首家24小時智慧化無人咖啡店將落地北京】8月16日，京東集團旗下現制飲品品牌七鮮咖啡首家24小時智慧化無人咖啡店將正式開業，落地北京市朝陽區銀河SOHO。該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。                                （ 介面新聞 ）
-
----
-
-### 2026-08-14 12:58:56  #MKT News #Market Themes #AI Revolution
-
-Musk: Try Grok 4.6's image and video understanding capabilities; this is a major upgrade.
-
----
-
-### 2026-08-14 12:58:24  #公司
-
-【眾擎機器人等成立科技公司 含智慧無人飛行器製造業務】企查查APP顯示，近日，上海星意擎坤科技有限公司成立，法定代表人為呂學敏，註冊資本為6120萬元，經營範圍包含人工智慧基礎軟體開發；智慧機器人的研發；智慧機器人銷售；工業機器人銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司、上海傲意資訊科技有限公司等共同持股。
-
----
-
-### 2026-08-14 12:57:53  #其他
-
-【多地暴雨 交通運輸部維持強降雨三級防禦響應】中央氣象臺8月14日10時繼續釋出暴雨黃色預警，交通運輸部維持強降雨三級防禦響應。預計，8月14日14時至15日14時，江蘇中南部、安徽南部、上海、浙江、湖北東部、江西北部和東部、福建西部和南部、廣東南部和東部、海南島東北部和西南部、臺灣島南部等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨(100～150毫米)；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。8月14日，交通運輸部點對點排程江蘇省交通運輸廳，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生；切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。
-
----
-
-### 2026-08-14 12:56:44  #公司 #市場 #國際
-
-【印尼總統普拉博沃發表講話 印尼股市攀升至日內高點】印尼總統普拉博沃・蘇比安託在國情諮文演講中談及打擊非法採礦，以及政府核心免費供餐專案的執行效率，受此影響印尼股市走高。雅加達綜合指數早盤下跌 0.6%，隨後最大漲幅一度達 0.7%。基礎材料與能源板塊領漲。國有錫礦企業 PT Timah 公司股價最高上漲 4%。
-
----
-
-### 2026-08-14 12:55:39  #宏觀
-
-【四川出臺城市更新“十五五”規劃】四川省人民政府網站訊息，《四川省城市更新“十五五”規劃》（簡稱《規劃》）已於日前正式印發。《規劃》明確，將實施城鎮危舊房改造約6萬套（間），改造老舊小區8000個，既有住宅加裝電梯1.5萬部；建設改造城市地下管網及附屬設施5.9萬公里以上，實施城中村改造420個；改造老舊街區廠區220個，新改建城市公共停車場約200個、新增公共停車位超9萬個。
-
----
-
-### 2026-08-14 12:54:58  #國際
-
-【7月印度進口原油中俄羅斯佔比飆升至歷史新高】貿易渠道資料顯示，7月印度對俄羅斯原油的依賴度創下歷史紀錄；作為全球第三大石油進口及消費國，印度當月自俄原油進口占總進口量的50.83%，日進口量達247萬桶。資料顯示，印度7月俄羅斯原油進口量同比增長62.4%，但較6月260萬桶/日的歷史高點回落4.8%。今年1月，由於印度正與美方磋商貿易協議，為規避美國加徵關稅，印度煉油企業開始削減俄羅斯原油採購。然而，伊朗衝突造成中東供應中斷，迫使印度煉油商繼續購入俄羅斯原油。不過，美國參議院本月透過法案，擬對俄羅斯原油採購方徵收100%關稅，加大對莫斯科的經濟施壓，印度採購俄原油因此面臨不確定性。美眾議院尚未批准這項法案。
-
----
-
-### 2026-08-14 12:53:12  #MKT News #Important
-
-【2026 annual box office tops 25.0 bln yuan】China's 2026 box office including presales topped 25.0 bln yuan as of Aug 14, according to Lighthouse Pro. Top five by receipts: Fei Chi Ren Sheng 3; Kung Fu Women's Football; A Letter to Grandma; Eight Immortals; Biaoren: Wind Rises in the Desert.
-
----
-
-### 2026-08-14 12:53:01  #公司
-
-【什方科技完成近3億元融資】近日，工業功能塗層數字噴印公司什方科技連續完成兩輪融資。自B輪起至本次B+輪收官，融資總額近3億元。由五源資本、創世夥伴創投、同創偉業及頭部產業戰略投資機構恆旭資本、小米集團、蔚來資本聯合入局，多家老股東同步追加投資。
-
----
-
-### 2026-08-14 12:51:22  #國際
-
-菲律賓總統馬科斯：希望危機過後投資者信心能夠恢復。
-
----
-
-### 2026-08-14 12:50:46  #MKT News
-
-Philippine President MARCOS said the country's economic growth rate was disappointing.
-
----
-
-### 2026-08-14 12:50:20  #國際
-
-菲律賓總統馬科斯：增長率非常令人失望。
-
----
-
-### 2026-08-14 12:49:49  #國際
-
-菲律賓總統馬科斯：我們的措施應該能消除投資者的擔憂。
-
----
-
-### 2026-08-14 12:49:39  #國際
-
-菲律賓總統馬科斯：不會把所有錢都花在捍衛比索上。
-
----
-
-### 2026-08-14 12:48:37  #其他
-
-【2026年度總票房破250億】據燈塔專業版資料，截至8月14日，2026年度大盤票房(含預售)突破250億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《八仙！》《鏢人：風起大漠》暫列年度票房前五名。
-
----
-
-### 2026-08-14 12:48:25  #市場
-
-【鐵礦石期貨暫時反彈走高】鐵礦石期貨在近期回撥後暫時反彈走高。銀河期貨在一份研究報告中表示，下個月價格可能會繼續創下新低。該機構表示，6月份海外鋼鐵需求有所上升，但這種勢頭不太可能持續。該機構補充說，這種鍊鋼原料在第三季度可能無法克服基本面疲軟的影響。大連商品交易所交投最活躍的1月鐵礦石合約上漲0.4%，報每噸712.5元。
-
----
-
-### 2026-08-14 12:47:51  #MKT News
-
-Philippine president says he is working to defend the Philippine peso.
-
----
-
-### 2026-08-14 12:47:36  #國際
-
-菲律賓總統馬科斯：正出手捍衛比索匯率。
-
----
-
-### 2026-08-14 12:46:14  #國際
-
-泰國投資委員會：泰國第二季度實際投資額同比增長31%至2550億泰銖。
-
----
-
-### 2026-08-14 12:45:48  #MKT News
-
-The Philippine president said the government is working to restore stability to the economic system to allow households and businesses to plan.
-
----
-
-### 2026-08-14 12:45:39  #國際
-
-印尼總統普拉博沃結束國情諮文演講。
-
----
-
-### 2026-08-14 12:44:58  #市場 #央行 #國際
-
-【交易員：印度央行可能干預了匯市以支撐盧比】三位交易員表示，印度央行週五很可能在外匯市場進行了干預，因為中東衝突帶來的不確定性導致風險偏好低迷且油價居高不下。受干預行動支撐，盧比 維持穩定，報1美元兌95.40盧比。該匯率成功守住了95.50這一重要心理關口，與本週大部分時間的走勢相似，干預措施有效遏制了盧比的貶值幅度。本週迄今，盧比一直在1美元兌95.17至95.4450的區間內波動。
-
----
-
-### 2026-08-14 12:44:26  #市場 #國際
-
-【黑德蘭港7月份鐵礦石出口量降至4422.5萬噸】據澳大利亞皮爾巴拉港務局（PPA）稱，黑德蘭港7月份的鐵礦石出口量從6月份的5171萬噸下降到4422.5萬噸。6月份對華鐵礦石出口量從4511.2萬噸降至3785.7萬噸。
-
----
-
-### 2026-08-14 12:44:17  #國際
-
-菲律賓總統馬科斯：正努力恢復經濟體系穩定，以便家庭和企業開展規劃。
-
----
-
-### 2026-08-14 12:43:11  #市場
-
-據PPA統計，黑德蘭港7月份鐵礦石出口量降至4422.5萬噸。
-
----
-
-### 2026-08-14 12:42:17  #MKT News #Important #Star Stocks #Apple #Alibaba #Market Themes #AI Revolution #China Tech Giants #Magnificent 7 #Market Regions #Greater China #AAPL.O #Impact bullish
-
-【Apple trains China-specific LLM with Alibaba, shifts from third‑party reliance】Refinitiv, citing three people familiar with the matter, reports Apple (AAPL.O) has trained a China‑specific large language model in partnership with Alibaba, marking a shift from its prior strategy of largely relying on third‑party models to power AI features in China. Apple Intelligence is expected to launch in China in the coming months following an iOS update. Neither company commented.
-
----
-
-### 2026-08-14 12:42:15  #其他
-
-【兩部門對河南啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，8月14日，國家防災減災救災委員會針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應，前期派出的救災工作組繼續在災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等救災救助工作。同日，國家防災減災救災委員會辦公室、應急管理部針對近期持續暴雨洪澇災害導致河南周口、許昌等地險情災情，根據災區群眾避險轉移和安置救助需要，會同國家糧食和物資儲備局調撥摺疊床、褥子、毛毯、夏涼被、夏裝、家庭應急包等3萬件中央救災物資，支援河南做好受災群眾安置救助工作。
-
----
-
-### 2026-08-14 12:41:41  #市場 #國際
-
-5年期日本國債收益率上漲0.5個基點，至2.125%。
-
----
-
-### 2026-08-14 12:41:11  #公司
-
-【傑富瑞上調塔吉特等百貨公司目標價】傑富瑞將塔吉特公司目標價從161美元上調至177美元；將伯靈頓百貨目標價從365美元上調至410美元。
-
----
-
-### 2026-08-14 12:41:06  #MKT News #Macro & Rates #Treasury Yields #Market Regions #USDJPY #Impact bearish
-
-Japan 5-year government bond yield rose 0.5 bps to 2.125%.
-
----
-
-### 2026-08-14 12:41:00  #MKT News
-
-China's National Commission for Disaster Reduction and the Ministry of Emergency Management have activated a national level-4 disaster emergency response, allocated central relief supplies and are guiding and supporting Henan's heavy-rain and flood relief operations.
-
----
-
-### 2026-08-14 12:39:44  #其他
-
-【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。
 
 ---

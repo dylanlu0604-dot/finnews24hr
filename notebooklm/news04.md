@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:55:07_
-_本檔包含 3038 則快訊，約 600920 字_
+_更新時間：2026-08-16 18:35:55_
+_本檔包含 3024 則快訊，約 600684 字_
+
+---
+
+### 2026-08-12 08:49:33  #其他
+
+【平陸運河實船試驗正式啟動】8月12日，平陸運河實船試驗正式啟動。四艘代表性船舶將分階段完成常規工況、不利工況通航驗證與全線航標效能檢測。實船試驗為運河2026年9月如期通航奠定基礎。平陸運河是西部陸海新通道骨幹工程，全長134.2公里，可通航5000噸級船舶，建成後將打通西南地區經西江干流南下入海的江海聯運大通道。
+
+---
+
+### 2026-08-12 08:49:03  #其他
+
+【湖南12家煤礦企業有序復產】據湖南日報，8月11日，經郴州市人民政府批准，永興縣新星煤礦恢復生產，至此，全省已有12家煤礦（其中8家省屬煤礦、4家民營煤礦）經屬地人民政府組織自然資源、公安、電力、應急、礦山安全監察等部門驗收合格後批准復產，還有37家煤礦正在積極整改，復工復產工作正在有力有序推進。
+
+---
+
+### 2026-08-12 08:48:43  #公司 #國際
+
+【SpaceX等美國“金穹”計劃承包商完成天基攔截器首輪關鍵測試】SpaceX、Northrop Grumman Corp.及其他為美國總統唐納德·特朗普價值1850億美元的“金穹”計劃研發天基導彈攔截器的企業，已成功完成首輪關鍵測試，標誌著這項實驗性防禦技術的建設取得早期進展。負責“金穹”計劃的太空軍上將Michael Guetlein週二在一場會議期間告訴隨行記者，所有企業眼下將進入該計劃的下一階段，即證明其技術能夠在太空環境中執行。對其中至少部分企業而言，首次測試要求將感測器資料傳輸至攔截器，並演示其航天器的推進系統。今年4月，美國太空軍宣佈向12家不同企業授出合同，包括RTX公司、Anduril Industries Inc.和洛克希德·馬丁公司，以開發用於擊落彈道導彈的武器化衛星。本屆政府已為這一努力撥出32億美元，未來合同規模可能達數百億美元。
+
+---
+
+### 2026-08-12 08:48:31  #MKT News #Commodities #Energy #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #WTI #Impact bullish #DXY #USDJPY
+
+【Oil rally sparks renewed inflation fears, JGB yields rise】Rising oil prices have rekindled inflation worries and pushed Japanese government bond yields higher. The five-year JGB yield hit a record high and the two-year yield rose to its strongest level since May 1995, prompting markets to increase bets on further BOJ tightening; Tokyo traders' association data place the probability of a September BOJ rate hike at roughly two-thirds. Domestic yield moves have not produced clear yen support: strategists say external forces — higher U.S. Treasury yields, firmer oil and a strong dollar/yen — remain the dominant drivers. Higher JGB yields could eventually help the yen by narrowing the Japan-U.S. yield gap, but current external pressure outweighs that effect. Wednesday's U.S. CPI print is the key near-term catalyst for the dollar and global yields.
+
+---
+
+### 2026-08-12 08:47:55  #其他
+
+【鄭州市啟動防汛二級應急響應】記者從鄭州市防汛抗旱指揮部瞭解到，根據氣象部門最新預報，今天到明天，我市仍有大到暴雨。登封市、新密市、滎陽市、新鄭市、鞏義市已啟動或者針對部分鄉鎮啟動防汛二級應急響應。根據《鄭州市防汛應急預案》有關規定，經綜合會商研判，鄭州市防汛抗旱指揮部決定於8月12日8時將防汛三級應急響應提升至二級。（鄭州釋出）
+
+---
+
+### 2026-08-12 08:47:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【Combined Shanghai and Shenzhen margin financing balances up CNY1.299 bln】As of Aug 11, Shanghai Stock Exchange margin financing balance was 1.3504 tln yuan, up 335 mln yuan from the previous session; Shenzhen was 1.2792 tln yuan, up 964 mln yuan; combined 2.6296 tln yuan, up 1.299 bln yuan.
+
+---
+
+### 2026-08-12 08:47:26  #其他
+
+【兩市融資餘額較上日增加12.99億元】截至8月11日，上交所融資餘額報13504.24億元，較前一交易日增加3.35億元；深交所融資餘額報12791.68億元，較前一交易日增加9.64億元；兩市合計26295.92億元，較前一交易日增加12.99億元。
+
+---
+
+### 2026-08-12 08:47:19  #宏觀
+
+【未來5年 15萬億元或將投向這裡】《城市更新“十五五”規劃》的出臺，就是給全國的城市更新定調子、指路子。根據規劃，市場預測，“十五五”期間城市更新預計帶動投資15萬億元。規劃明確了23項重點任務，並拿出了10項量化指標。這些數字，個個關乎咱們的居住體驗，其中包括：新開工改造城鎮老舊小區11.5萬個；更新城鎮危舊房約50萬套；改造老舊街區廠區1500個；推進4000個城中村改造；建設改造城市地下管網36.5萬公里；新建及改擴建體育場地12.8萬公頃；城鎮房屋基礎資訊數字化率要達到95%以上。（央視）
+
+---
+
+### 2026-08-12 08:46:10  #公司 #國際
+
+【英特爾增發200億美元前據悉曾尋求美政府批准】當地時間8月11日，英特爾宣佈其普通股註冊公開發行定價為每股95美元，共發行210,526,315股普通股，發行規模從此前公佈的150億美元擴大至200億美元。據報道，英特爾CEO陳立武在公司增發股票前，曾致電美國商務部長盧特尼克尋求批准。美國政府最終決定不參與此次股票發行。
+
+---
+
+### 2026-08-12 08:44:44  #公司
+
+【三麗鷗一季度財報不及預期 股價重挫18%創 2014 年以來最大跌幅】Hello Kitty 母公司三麗鷗一季度營業利潤不及市場預期，股價最大跌幅達 18%，創下 2014 年 5 月以來最大單日跌幅。公司週一公佈一季度營業利潤 224 億日元，低於一致預期的 234 億日元。三井住友日興證券分析師在研報中表示：本次財報表現平淡，無超預期亮點。
+
+---
+
+### 2026-08-12 08:44:12  #其他
+
+【學而思就學習機登入異常致歉】8月11日晚，學而思部分學習機出現登入異常。當天23時49分，“學而思親子”App向使用者推送《關於登入異常的說明》。學而思學習機團隊稱，20時30分起，部分學習機因伺服器網路波動出現登入異常，目前系統已逐步恢復，使用者可以正常掃碼登入使用。學而思學習機團隊就此向使用者致歉。（新黃河）
+
+---
+
+### 2026-08-12 08:44:05  #公司
+
+【來凱醫藥：LAE002新藥上市申請獲國家藥監局受理】來凱醫藥-B公告，LAE002(afuresertib)的新藥上市申請已獲中國國家藥品監督管理局藥品審評中心受理，用於治療既往接受內分泌治療後出現疾病復發或進展，伴有PIK3CA/AKT1/PTEN改變的HR+/HER2-區域性晚期或轉移性乳腺癌患者。此次申請基於III期臨床試驗AFFIRM-205的積極結果，該研究達到無進展生存期主要終點。公司與齊魯製藥於2025年11月訂立獨家許可協議，有資格獲得總額最高達人民幣20.45億元的首付款及里程碑款項。
+
+---
+
+### 2026-08-12 08:43:47  #MKT News
+
+【Beijing Mianbi Intelligent files IPO counseling; CITIC Securities sponsor】CSRC posted that Beijing Mianbi Intelligent Technology Co., Ltd registered an IPO counseling record with the Beijing Securities Regulatory Bureau on Aug 11, 2026, intending an initial public offering and listing; counseling sponsor is CITIC Securities. The counseling report shows the company has no controlling shareholder; largest shareholder is Beijing Qingyu Qihang Technology Center (Limited Partnership) with a 16.45% stake.
+
+---
+
+### 2026-08-12 08:42:19  #公司 #國際
+
+【在俄服刑的美國前海軍陸戰隊員羅伯特·吉爾曼獲釋返美，特朗普發聲】綜合塔斯社、美國全國廣播公司（NBC）等媒體11日報道，此前因酒後鬧事等行為在俄羅斯被判服刑的美國前海軍陸戰隊員羅伯特·吉爾曼獲釋。美國總統特朗普當地時間11日在社交平臺上發帖，證實吉爾曼獲釋。“我很自豪地宣佈，美國公民、美國前海軍陸戰隊員羅伯特·吉爾曼即將回家！”特朗普在帖子中稱，2022年，吉爾曼於拜登政府時期在俄羅斯被判入獄。（環球網）
+
+---
+
+### 2026-08-12 08:41:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan 5-year government bond yield rose 2.0 bps to 2.105%.
+
+---
+
+### 2026-08-12 08:41:43  #公司
+
+【瑞士再保險：山火已成全球“發展速度最快”極端天氣風險】全球最大再保險公司之一的瑞士再保險公司11日表示，2026年上半年全球自然災害造成的經濟損失據估算已達1000億美元。而在今年下半年，厄爾尼諾現象可能會加劇氣象災害的破壞力，風險不容忽視。
+
+---
+
+### 2026-08-12 08:40:44  #公司 #觀點
+
+【面壁智慧啟動IPO】證監會網站披露，北京面壁智慧科技股份有限公司於2026年8月11日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。輔導備案報告顯示，該公司無控股股東，公司第一大股東為北京清語啟航科技中心（有限合夥），持股比例16.45%。
+
+---
+
+### 2026-08-12 08:39:16  #國際
+
+據報道，美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆和美國聯邦眾議員拉爾夫·諾曼預計將進入南卡羅來納州共和黨參議員初選的決選。
+
+---
+
+### 2026-08-12 08:39:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Market Tracks Wall Street Losses — Australian equities retreated Wednesday, with the benchmark slipping 40 points or 0.5% to 9,207 in morning trade, erasing the prior day’s modest uptick after Wall Street’s overnight weakness and stalled Strait of Hormuz talks lifted oil prices ahead of key inflation data. Locally, the Reserve Bank kept the cash rate steady at 4.35% after three hikes this year, stressing inflation remains uncomfortably high and expectations elevated. Sectoral weakness was led by tech services, manufacturing, consumer services, and retail, though consumer durables and logistics offered partial support. The four major banks eased between 0.1% and 0.7%, while notable laggards included BHP Group (-0.5%), South32 (-2.7%), Computershare (-2.0%), and Bluescope Steel (-1.8%). Market focus now shifts to testimony from Governor Michele Bullock before parliament on Friday, preceded by Assistant Governor Chris Kent’s appearance Thursday, as investors weigh policy signals against persistent inflationary pressures.
+
+---
+
+### 2026-08-12 08:38:56  #其他
+
+【星巴克中國並未取消14薪、門店規模還在擴張】相關傳聞提到，星巴克中國已開啟裁員和降低人工成本，比如取消14薪、修改員工合同，除店經理以外的大部分員工改為兼職合同、取消部分帶薪假期。對此，據記者多方確認，星巴克中國並未取消14薪、修改員工合同乃至取消部分帶薪假期。但要看到，隨著星巴克中國走向合資狀態，此前的員工持股計劃確實會出現一定變化。而基於此前星巴克全球與博裕投資的相關協議，種種變化會在下個財年落地。星巴克下個財年將於今年10月開啟。還有相關傳聞提及，在剛過去的財季（5月-7月）裡，星巴克中國門店首次出現了負增長。對此，據記者確認，星巴克中國門店規模處於增長區間。據星巴克年初發布的財務指引，其在中國本財年預計門店數量淨增長250家左右。亦要看到，星巴克上個財季為4-6月，尚未釋出與7月相關的經營資料。（21財經）
+
+---
+
+### 2026-08-12 08:38:55  #MKT News #Market Themes #AI Revolution #Chip Wars
+
+【South Korea to inject more than $700m into sovereign fund targeting AI, strategic industries next year】South Korea’s finance ministry expects to deploy 600 billion–1 trillion won (about $707m) of new capital into a sovereign-wealth fund targeting AI and other strategic industries next year, and the final amount could exceed initial estimates depending on selected targets and their funding needs, the ministry’s Innovation Growth Office head said on Tuesday. There are currently no plans for the fund to invest directly in Samsung Electronics or SK Hynix. In July Seoul said the Korea Investment Corporation would set up a “strategic industry investment account” with initial capital of at least 20 trillion won (about RMB94bn), targeting AI, semiconductors, data centres and overseas supply-chain core firms and due to be formally launched and operated next year. The fund will also target robotics, energy and battery and grid infrastructure; nuclear, space and quantum technologies are under consideration.
 
 ---
 
@@ -18144,215 +18270,5 @@ TSX Renews Record High — The S&P/TSX Composite Index added 0.2% to close at 36
 ### 2026-08-11 04:29:08  #MKT News
 
 【Applied Compute valuation could double to about $3bn in new funding】The Information reports one‑year‑old Applied Compute is in talks on a new funding round that could value the company at roughly $3bn, more than double its valuation four months ago. The startup helps enterprises run and customize open‑source models on proprietary data. Insiders say annualized revenue is about $50m, nearly 4x the level CEO Yash Patil disclosed in November. Investor Elad Gil is reportedly in talks to lead the round, which is expected to raise several hundred million dollars; it is unclear whether the valuation includes the new capital. The round has not closed and terms may change.
-
----
-
-### 2026-08-11 04:28:42  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Trump says he has spoken only once briefly with Fed chair Warsh since Warsh took office, denies frequent contact】President Trump said on Monday he has spoken only once briefly with Federal Reserve Chair Warsh since Warsh took office, disputing reports of frequent communications. White House National Economic Council director Hassett last week said the two "often discuss economic issues," but other people familiar with the matter said calls have been irregular and infrequent. Reports said Trump contacted Warsh multiple times after Warsh's May confirmation to ask about the economic outlook; Trump reiterated his preference for lower interest rates, said he "100% supports" Warsh and stressed Fed policy is determined collectively by the Board.
-
----
-
-### 2026-08-11 04:27:32  #公司 #觀點 #焦點
-
-【英偉達將與6家金融公司合作 籌集逾5000億美元用於AI計算】英偉達宣佈與Apollo、貝萊德、黑石、博楓、高盛和KKR合作，設立獨立的算力融資平臺，為AI基礎設施建設籌集逾5,000億美元第三方資本。英偉達8月10日已與這六家金融機構簽署諒解備忘錄。相關合作仍需簽署最終協議後方可生效。英偉達將與這些公司合作，設立專門的大規模資金池，以具有吸引力的融資利率為英偉達客戶提供資金支援。
-
----
-
-### 2026-08-11 04:27:02  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA CEO Jensen Huang said transactions tied to a proposed $500 billion AI infrastructure financing plan will support broad adoption of AI, and that all funding will come from third-party capital.
-
----
-
-### 2026-08-11 04:25:32  #MKT News #Market Themes #The Trump Trade #DJT.O #Impact bearish
-
-Trump Media & Technology Group (DJT.O) reported second-quarter revenue of $1.7 million, a net loss of $238.1 million and an adjusted EBITDA loss of $223.5 million.
-
----
-
-### 2026-08-11 04:24:31  #國際
-
-訊息人士稱，烏克蘭與摩爾多瓦考慮經摩爾多瓦開闢烏克蘭糧食鐵路運輸線路。
-
----
-
-### 2026-08-11 04:23:27  #MKT News
-
-Sources say Ukraine and Moldova are considering shipping Ukrainian grain via Moldova's rail network.
-
----
-
-### 2026-08-11 04:23:19  #國際
-
-特朗普媒體科技二季度淨虧損2.38億美元，上年同期淨虧損2000萬美元；每股虧損86美分，上年同期每股虧損8美分。
-
----
-
-### 2026-08-11 04:22:37  #公司
-
-英偉達CEO黃仁勳：相關交易將支援AI的大範圍建設。
-
----
-
-### 2026-08-11 04:22:16  #公司
-
-英偉達CEO黃仁勳：全部資金均為第三方資本。
-
----
-
-### 2026-08-11 04:18:28  #MKT News
-
-【NVIDIA partners with six financial firms to mobilize over $500bn for AI infrastructure financing】NVIDIA (NVDA.O) said it has formed strategic partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create an independent compute‑financing platform designed to mobilize more than $500 billion of third‑party capital over the long term to build AI infrastructure. The platform will convert NVIDIA compute and full‑stack AI infrastructure into an investable asset class, broaden access to AI factories, generate usage‑linked long‑term revenue streams and support NVIDIA’s hardware sales and software ecosystem growth.
-
----
-
-### 2026-08-11 04:16:36  #觀點 #國際
-
-摩根士丹利計劃未來十年促成最高1.5萬億美元資金，用於美國創新基建計劃，涵蓋AI、半導體等戰略領域。
-
----
-
-### 2026-08-11 04:15:29  #觀點 #國際
-
-摩根士丹利啟動美國創新基礎設施計劃，將重點關注人工智慧、基礎設施和國防領域。
-
----
-
-### 2026-08-11 04:15:08  #MKT News #Important #MS.O #Impact bullish
-
-Morgan Stanley launched a US Innovation Infrastructure Program aiming to facilitate about $1.5 trillion of capital raising, financing, advisory and related investment activities over the next 10 years.
-
----
-
-### 2026-08-11 04:13:53  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Simon Property earnings below expectations at 1.49 USD — Simon Property (SPG) released earnings per share at 1.49 USD, compared to market expectations of 1.61 USD.
-
----
-
-### 2026-08-11 04:12:48  #MKT News #WTI #Impact bearish #Brent
-
-German foreign minister Wadephul told Iranian foreign minister Araghchi in a call he urged Iran to enter constructive talks with regional neighbors and the US to end the conflict. He said the Strait of Hormuz must be unconditionally open to ensure all vessels can navigate freely and safely.
-
----
-
-### 2026-08-11 04:10:56  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Retreat on Fed Hike Concerns — US stock indices closed slightly lower on Monday as markets assessed the outlook for interest rates this year. The S&P 500 lost 0.1%, the Nasdaq retreated 0.3%, and the Dow shed 61 points. A rally in oil prices pushed bond yields higher on concerns over energy-driven inflation, just days ahead of the CPI report. Higher energy costs raised fears that the Federal Reserve may need to raise rates this year despite a cooling labor market. Credit-sensitive stocks were mixed, with financials mostly lower. Visa shed 0.3%, Amex lost 0.6%, and Morgan Stanley fell 0.5%. Chipmakers tumbled, with Nvidia down 2.9% amid reports that Wall Street giants are working with the company on a $500 billion AI funding package. Intel fell 4.1% as it prepares to offer $15 billion in stock. Apple also declined 1.5% after Jefferies downgraded the stock to underperform. Meanwhile, hyperscalers mostly gained after brokers signaled strong demand for cloud services, with Microsoft up 1.2% and SpaceX advancing 4.2%.
-
----
-
-### 2026-08-11 04:09:13  #MKT News
-
-The SEC filed suit against Adit Ventures Management and others, alleging they defrauded investors and misused client funds in pre-IPO investments in SpaceX and Klarna.com.
-
----
-
-### 2026-08-11 04:08:20  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): new financing platform aims to convert the company’s compute and full‑stack AI infrastructure into an asset class investable by global capital.
-
----
-
-### 2026-08-11 04:07:20  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): The company and partners will establish dedicated capital pools to finance AI infrastructure customers.
-
----
-
-### 2026-08-11 04:05:35  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. equity close Monday, Aug. 10: Dow Jones Industrial Average down 61.30 pts (-0.11%) to 53,975.63; S&P 500 down 4.62 pts (-0.06%) to 7,753.02; Nasdaq Composite down 85.26 pts (-0.32%) to 26,605.36.
-
----
-
-### 2026-08-11 04:04:29  #觀點 #焦點
-
-英偉達將聯合KKR、高盛、布魯克菲爾德等六家機構，籌集超5000億美元用於AI算力建設。
-
----
-
-### 2026-08-11 04:02:25  #MKT News #Important #S&P500 #Impact bearish #AAPL.O #BABA.N #Impact bullish
-
-【U.S. close: major indexes down; Nasdaq Golden Dragon China Index +1.65%】U.S. equities closed lower Monday: Dow -0.10%, S&P 500 -0.06%, Nasdaq -0.32%. Apple (AAPL.O) -1.5%, SpaceX (SPCX.O) +4.0%, SK Hynix (SKHY.O) -1.9%, Intel (INTC.O) -4.0%. Nasdaq Golden Dragon China Index +1.65%; Alibaba (BABA.N) +3.0%.
-
----
-
-### 2026-08-11 04:01:47  #市場
-
-標普500能源指數上漲4.6%，創2025年4月以來最佳單日表現。
-
----
-
-### 2026-08-11 04:01:29  #MKT News
-
-Interim Venezuelan President Rodriguez said the earthquake death toll has risen to 6,301.
-
----
-
-### 2026-08-11 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.11%，標普500指數跌0.06%，納指跌0.32%。Coherent Corp跌14.23%，Lumentum Holdings Inc. Common Stock When Issued跌8.56%，Ciena科技跌5.98%，Verisk Analytics跌5.55%，Arm Holdings Plc跌5.23%。“七姐妹”方面：亞馬遜漲1.30%，微軟漲1.23%，特斯拉漲0.70%，谷歌漲0.69%，Meta Platforms漲0.48%，蘋果跌1.56%，英偉達跌2.87%。
-
----
-
-### 2026-08-11 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收漲1.59%】中進醫療漲36.74%，中比能源漲17.00%，陸金所控股漲11.33%，BOSS直聘漲5.92%，中汽系統漲5.59%。
-
----
-
-### 2026-08-11 03:58:47  #其他
-
-委內瑞拉全國代表大會主席豪爾赫·羅德里格斯：委內瑞拉地震死亡人數升至6301人。
-
----
-
-### 2026-08-11 03:57:50  #央行 #其他
-
-【克利夫蘭聯儲行長稱可能需要多次加息以遏制通脹】克利夫蘭聯儲行長貝絲·哈馬克表示，可能需要進行數次加息才能將通脹降至2%的目標，但她不想預先判斷終點會在哪裡。“總的來說，我認為一次25個基點的變動可能不會對經濟產生太大影響，”哈馬克週一接受採訪時表示。“所以可能需要一定次數，”但“我不想提前預判這個數字是多少。”
-
----
-
-### 2026-08-11 03:53:29  #其他
-
-市場資訊：英特爾股票發行認購倍數遠超預期。
-
----
-
-### 2026-08-11 03:52:15  #國際
-
-【伊朗外交部：美以是造成中東地區動盪的根源】10日，伊朗外交部發言人巴加埃就地區局勢、伊美關係等舉行新聞釋出會。巴加埃表示，伊朗與阿曼關於確定霍爾木茲海峽新航道的談判進展順利，而美國和以色列是造成中東地區動盪的根源。
-
----
-
-### 2026-08-11 03:52:00  #國際
-
-伊朗外長：與德國外長舉行電話會談，雙方就雙邊關係、地區及國際局勢發展交換了意見。
-
----
-
-### 2026-08-11 03:45:10  #央行 #國際
-
-【特朗普稱曾與美聯儲主席沃什通話】特朗普表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。
-
----
-
-### 2026-08-11 03:43:58  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he has a very good relationship with Netanyahu.
-
----
-
-### 2026-08-11 03:43:50  #MKT News
-
-【Axios: US, Israel and Syria reach understanding; IAEA to remove nuclear material from secret Syrian site】Axios reports US and Israeli officials say the IAEA will soon remove nuclear material stored at a secret Syrian site after a diplomatic understanding among the Trump administration, Israel and Syria. The Trump administration and the IAEA expedited talks to secure the material and prevent escalation involving Israel, Syria and Turkey. US officials say the episode validates Trump’s Syria policy and demonstrates US use of close ties with Syria’s new government to defuse a potential crisis. Months of behind-the-scenes threats and diplomatic wrangling preceded a solution reached weeks ago.
-
----
-
-### 2026-08-11 03:42:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【International crude futures settle about 5% higher】NYMEX September light sweet crude settled up $3.95 at $82.13/bbl (+5.05%); ICE Brent October settled up $4.17 at $87.72/bbl (+4.99%).
 
 ---
