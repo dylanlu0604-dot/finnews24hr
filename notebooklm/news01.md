@@ -1,7 +1,119 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 12:46:25_
-_本檔包含 3050 則快訊，約 601619 字_
+_更新時間：2026-08-16 13:38:37_
+_本檔包含 3039 則快訊，約 601542 字_
+
+---
+
+### 2026-08-16 13:38:00  #MKT News
+
+【2026 Wenchang International Aerospace Forum to run Aug. 24-26 in Hainan】The 2026 Wenchang International Aerospace Forum will be held Aug. 24-26 in Wenchang, Hainan, showcasing recent advances in Hainan’s aerospace industry. The forum aims to accelerate commercialization of reusable rockets, attract global aerospace resources, and scale rocket, satellite and data supply chains plus ‘aerospace+’ sectors to build a multi-layered aerospace ecosystem. Hainan says it will push key projects to rapidly develop high-density, high-reliability, low-cost commercial launch capacity to support ‘hundreds of rockets, thousands of satellites’ deployment.
+
+---
+
+### 2026-08-16 13:37:45  #市場 #國際
+
+【多隻美股ETF加倉中國晶片股】多隻海外ETF聚焦中國晶片股，釋放出國際資本增配中國科技資產的積極訊號。近日，聚焦儲存晶片產業鏈的Roundhill Memory ETF（DRAM）調整持倉。截至8月14日收盤，A股儲存企業長鑫科技在該基金中的權重為4.52%，位列第六大重倉股。今年6月首次被納入基金的兆易創新，權重為1.16%。美國主動管理型ETF機構Tema ETFs近期宣佈，已將長鑫科技納入旗下聚焦儲存晶片行業的產品Tema記憶體ETF（DISK），截至8月14日收盤持倉比例為7.54%。（央視財經）
+
+---
+
+### 2026-08-16 13:36:17  #國際
+
+【以部長稱每晚都應殺掉加沙數十人】以色列國家安全部長、極右翼政治人士本-格維爾在今天（8月16日）播出的一檔播客節目中表示，應該每晚在加沙定點清除30個、40個人。他表示，那裡有些人本不該活著，稱他們為“人”已經算慷慨了。本-格維爾說，有人說他“瘋了”，他承認這一點，但是“在中東你必須得瘋”。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 13:31:02  #國際
+
+【美國關稅壓力之下 韓國產業部長再度前往華盛頓】訊息人士週日透露，在多項雙邊貿易懸而未決、韓國面臨美國與日俱增的關稅壓力背景下，韓國產業部長已於當日早些時候啟程前往華盛頓。產業部長金正官此次訪美正值雙邊貿易關係敏感節點，美國不斷施壓，要求韓國加快落實雙邊關稅協議項下的投資承諾。
+
+---
+
+### 2026-08-16 13:28:02  #其他
+
+【中國紅十字會總會向河南洪澇災區追加調撥救災物資】8月16日，針對河南洪澇災害救助進一步需求，中國紅十字會總會追加調撥賑濟家庭包、毛巾被等救災物資5500件，支援災區做好群眾轉移安置和生活保障工作。目前，中國紅十字會總會已累計向河南洪澇災區調撥救災物資9000件。（新華社）
+
+---
+
+### 2026-08-16 13:25:55  #國際
+
+【美媒體人：“海峽吞併言論”只是“政治止損口號”】8月16日，英國《泰晤士報》旗下播客欄目“TIMES NEWS”播出對美國《國會山報》（The Hill）副主編兼白宮專欄作家尼爾·斯坦納奇（Niall Stanage）的專訪。在被問及對美國總統特朗普近日在一次演講中聲稱“在擊敗伊朗後將宣佈霍爾木茲海峽為美國領土”這一言論的評價時，尼爾·斯坦納奇認為，上述言論只是“表演式的口號”。（央視）
+
+---
+
+### 2026-08-16 13:23:55  #國際
+
+印尼7.7級地震死亡人數升至51人。（央視新聞）
+
+---
+
+### 2026-08-16 13:14:10  #公司
+
+【電影《牛來》宣告：多平臺出現冒充賬號 嚴重損害影片與觀眾權益】電影《牛來》透過官方賬號釋出宣告。宣告內容提到，近期，我們發現多個社交平臺上出現冒充電影《牛來》官方團隊的賬號，這些賬號未經授權，擅自發布不實資訊、誤導大家，甚至進行商業活動，嚴重損害了影片與觀眾的權益。
+
+宣告稱，“為此，我們鄭重宣告：電影《牛來》官方團隊僅在以下平臺擁有唯一官方賬號(平臺名稱：抖音/微博/公眾號/小紅書：牛來電影官方團隊)。除以上認證賬號外，其他平臺的所有賬號均為冒充，與我們無任何關聯，所釋出的內容均不代表官方立場。”
+
+宣告指出，“請大家提高警惕，認準官方賬號，避免受到誤導，保護好自身的合法權益。對於任何冒用我方名義的行為，我們保留追究其法律責任的權利。”（新浪科技）
+
+---
+
+### 2026-08-16 13:12:12  #國際
+
+以色列軍方：對代爾阿扎拉尼實施打擊，擊斃黎巴嫩南部與真主黨有關聯的巴德爾部隊指揮官。
+
+---
+
+### 2026-08-16 13:11:48  #市場
+
+【Sorry勒索病毒發起攻擊】近日，國家計算機病毒應急處理中心、計算機病毒防治技術國家工程實驗室聯合釋出安全預警：我國境內已出現多起“Sorry”勒索病毒攻擊案例。該病毒入侵後會加密使用者裝置內全部重要檔案，統一追加“Sorry”字尾，同時留存勒索信。專家表示，這次的勒索病毒，與以往大多數需要欺騙網民主動安裝的程式不同，而是透過系統漏洞，直接登入伺服器，入侵過程使用者毫無感知。據網路安全專家表示，“Sorry”勒索病毒重點瞄準的是各類“資料量大”的企業主體。其中防護能力薄弱、資料資產密集的中小企業成為主要受害群體。同時該病毒採用高強度加密技術，一旦中招，資料破解恢復難度極大。當前全球勒索軟體攻擊態勢持續高發，資料顯示，今年上半年，全球勒索軟體攻擊索賠案例同比上漲25%，總數達4544起，活躍勒索軟體團伙多達146個。（央視財經）
+
+---
+
+### 2026-08-16 13:05:28  #國際
+
+【美媒稱特朗普再次要求修改新航母設計】美國《華盛頓郵報》15日援引多名美國官員訊息報道說，應美國總統特朗普要求，美國海軍再次考慮對“福特”級航母作出重大設計調整，將艦島向艦體中部移動，此舉預計將耗費數十億美元並延長交付週期。此前，特朗普要求新航母棄用電磁彈射系統。據知情官員透露，由於特朗普對“福特”級航母的外觀“存在擔憂”，希望其更接近二戰時期的航母設計，美國海軍正考慮將新航母上艦島位置從原來的位於後方調整為更靠近艦體中部。報道說，美國海軍方面認為這一改動可能花費高昂且耗時漫長。實際上，特朗普第一任期內美海軍已就該問題進行過研究。評估顯示，移動艦島位置預計將增加數十億美元的重新設計成本，並導致航母交付週期大幅延長。報道援引美官員的話說，艦島靠後可以為艦載機提供更多停放空間，縮短其起飛時間，並降低返航時遭遇的風險，提高著艦安全性。美國智庫哈得孫研究所專家布賴恩·克拉克說，改動艦島位置屬於“重大設計調整”，將影響航母的浮力和重量。這是特朗普推動的第二項重大航母設計改動。13日，他下令要求第四艘“福特”級航母棄用電磁彈射系統，恢復老式的蒸汽彈射。（新華社）
+
+---
+
+### 2026-08-16 13:01:19  #MKT News #HII.O #Impact bearish
+
+【US Navy weighing Ford‑class carrier redesign at Trump’s request, Washington Post says】The US Navy is considering redesigning upcoming Ford‑class aircraft carriers to reflect former President Trump’s aesthetic preferences, the Washington Post reports. Proposed changes include relocating the carriers’ multi‑level island command center to the ship’s midsection. Officials say the alteration could cost billions of dollars, exacerbate existing construction delays and forfeit three operational advantages: increased deck parking capacity, shorter intervals between catapult launches, and reduced turbulence on landings. The moves remain under study and could extend build timelines as the conflict with Iran has pushed carrier demand higher.
+
+---
+
+### 2026-08-16 12:59:47  #國際
+
+伊朗官員阿里・內赫班達尼警告，美國、以色列以及地區敵對勢力的挑釁行為，將招致代價更為沉重的報復。
+
+---
+
+### 2026-08-16 12:54:59  #MKT News
+
+According to Maoyan Pro data, the film Welcome to Long Restaurant has grossed over CNY 800 mln in its first six days of release.
+
+---
+
+### 2026-08-16 12:54:50  #公司 #市場
+
+【本週南向資金淨買入騰訊控股超70億港元 14股南向資金持股量環比增長超15%】本週（8月10日至14日）港股市場主要股指集體下跌，恒生指數累計跌2.15%，恒生科技指數跌3.1%，恒生中國企業指數跌2.24%。據證券時報·資料寶統計，本週南向資金合計成交淨買入0.89億港元。從本週上榜成交活躍股名單來看，本週共有19只個股上榜，騰訊控股本週港股通合計買賣總額最高，達到356.59億港元；智譜緊隨其後，為343.04億港元；其他還有MINIMAX-W、中芯國際、建滔積層板本周港股通買賣總額超過200億港元。從成交淨買入金額來看，本週南向資金對網際網路巨頭買賣不一，騰訊控股獲南向資金淨買入77.29億港元，小米集團-W獲南向資金淨買入9.65億港元，阿里巴巴-W淨賣出26.14億港元。其他還有美團-W遭南向資金淨賣出3.2億港元。從持股量變化來看，本週14股獲得南向資金持股量環比增長超15%，芯碁微裝居首，環比增長69.62%，其他還有南華期貨股份、明略科技-W、滬上阿姨持股量環比增幅居前，持股量環比增幅分別為55.26%、38.49%、33.61%。
+
+---
+
+### 2026-08-16 12:53:04  #其他
+
+據貓眼專業版資料，電影 《歡迎來龍餐館》 上映6天， 總票房破8億。
+
+---
+
+### 2026-08-16 12:51:29  #國際
+
+印度總理莫迪：感謝內塔尼亞胡總理的美好祝願。祝願印以特殊戰略伙伴關係進一步鞏固，挖掘新機遇，推動兩國人文交往更加緊密。
+
+---
+
+### 2026-08-16 12:48:22  #國際
+
+【上海迪士尼正擴建“飛越地平線”，第九大主題園區建設迎新進展】記者從上海迪士尼度假區獲悉，第九大主題園區——蜘蛛俠主題園區建設迎來又一重要里程碑。繼今年6月主題園區遊樂裝置軌道安裝完成後，首批乘騎裝置已於數日前就位，乘騎裝置除錯工作即將啟動。上述訊息於正在美國加利福尼亞州召開的迪士尼終極粉絲大會D23（以下簡稱“D23 粉絲大會”）公佈。此外，上海迪士尼樂園內標誌性主題景點“翱翔·飛越地平線”的擴建工作正在同步推進；毗鄰樂園的兩座全新主題酒店的擴建工作也在進行中；為演職人員打造的全新居住社群也正在建設，旨在更好地支援一線演職人員為遊客創造難忘回憶。（澎湃）
 
 ---
 
@@ -18235,179 +18347,5 @@ Indonesia's president said food supplies remain guaranteed despite concerns over
 ### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
 
 TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
-
----
-
-### 2026-08-14 11:05:01  #公司 #國際
-
-【美國ITC釋出對具有影片功能的電子裝置的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定具有影片功能的電子裝置（Certain Video-Capable Electronic Devices，調查編碼：337-TA-1481）作出337部分終裁：對本案行政法官於2026年7月17日作出的初裁（No.18）不予複審，即基於仲裁協議（arbitration agreement），終止本案調查。
-
----
-
-### 2026-08-14 11:04:32  #公司 #國際
-
-【美國ITC釋出對開放式耳機的337部分終裁】據中國貿易救濟資訊網訊息，2026年8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定開放式耳機（Certain Open-Ear Earpiece Devices，調查編碼：337-TA-1470）作出337部分終裁：對本案行政法官於2026年7月15日作出的初裁（No.15）不予複審，即基於申請方撤回，部分終止本案對無法聯絡的應訴方（the“Unreachable Respondents”）的調查。
-
----
-
-### 2026-08-14 11:03:17  #MKT News
-
-【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot avg unchanged vs previous day】TrendForce data showed on Aug 14 the spot average price for DDR5 16Gb (2Gx8) 4800/5600 was unchanged vs the previous day; DDR4 16Gb (2Gx8) 3200 spot average rose 0.56 pct; DDR4 8Gb (1Gx8) 3200 spot average rose 0.25 pct.
-
----
-
-### 2026-08-14 11:02:10  #公司 #國際
-
-【美國ITC釋出對越野車輛及其零部件的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定越野車輛及其零部件（Certain Off-Road Vehicles and Components Thereof，調查編碼：337-TA-1490）作出337部分終裁：對本案行政法官於2026年7月14日作出的初裁（No.14）不予複審，即終止本案對美國註冊專利號7,819,220第7和第8項權利要求的調查，投訴和調查通知已修改為主張美國註冊專利號7,950,486第31項權利要求、美國註冊專利號12,187,127第9–15項和第22項權利要求。
-
----
-
-### 2026-08-14 11:00:52  #公司
-
-【南模生物成立科技公司 含實驗動物生產業務】企查查APP顯示，近日，安徽南模生物科技有限公司成立，法定代表人為費儉，註冊資本為2000萬元，經營範圍包含實驗動物生產；實驗動物經營；實驗動物墊料銷售；實驗分析儀器銷售；生物飼料研發等。企查查股權穿透顯示，該公司由南模生物全資持股。
-
----
-
-### 2026-08-14 11:00:48  #MKT News
-
-South Korea June M2 money supply MoM +0.7% (prior +0.8%).
-
----
-
-### 2026-08-14 11:00:44  #國際 #原創
-
-【民調顯示李在明上任以來反對率首次超過支援率】週五公佈的一項調查顯示，韓國總統李在明的反對率自上任以來首次超過支援率，原因是其房地產政策受到越來越多的批評。蓋洛普韓國公司於週二至週四對1000名18歲及以上人士進行的調查顯示，44%的受訪者對李在明的治國理政給予了積極評價，較7月24日公佈的上一次調查結果下降了7個百分點。負面評價躍升 8 個百分點至 46%，這是自李在明2025 年 6 月就任以來，蓋洛普民意調查中其負面評價首次超過正面評價。
-
----
-
-### 2026-08-14 11:00:43  #MKT News
-
-South Korea June L money supply MoM 0.8%, prior 1.10%.
-
----
-
-### 2026-08-14 11:00:42  #MKT News #Economic Calendar #Important
-
-South Korea | M2 Money Supply (MoM) (Jun) | actual 0.7% | previous 0.80%
-
----
-
-### 2026-08-14 11:00:36  #MKT News #Economic Calendar #Important
-
-South Korea | L Money Supply (MoM) (Jun) | actual 0.8% | previous 1.10%
-
----
-
-### 2026-08-14 11:00:23  #市場
-
-【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月14日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.56%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.25%。
-
----
-
-### 2026-08-14 11:00:21  #央行 #中國央行
-
-【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。
-
----
-
-### 2026-08-14 11:00:19  #國際
-
-韓國6月經調整後的M2貨幣供應量環比增長0.7%。
-
----
-
-### 2026-08-14 11:00:08  #MKT News
-
-South Korea June L-money supply YoY 9.4%; prior unchanged at 9.2%.
-
----
-
-### 2026-08-14 11:00:08  #國際
-
-韓國6月經調整後的L貨幣供應量環比增長0.8%。
-
----
-
-### 2026-08-14 11:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | L Money Supply (YoY) (Jun) | actual 9.4% | previous 9.2%
-
----
-
-### 2026-08-14 10:59:54  #公司
-
-【軟通動力與廣西電信簽署戰略協議 圍繞產業智慧化、AI基礎設施等方向展開深度合作】軟通動力訊息，8月12日，軟通動力與中國電信股份有限公司廣西分公司（簡稱“廣西電信”）在南寧正式簽署戰略合作協議。雙方將圍繞產業智慧化、AI基礎設施及東盟市場聯合拓展等方向展開深度合作，以激發區域數字經濟新動能，助力中資企業揚帆出海。
-
----
-
-### 2026-08-14 10:59:27  #央行 #國際
-
-【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。
-
----
-
-### 2026-08-14 10:59:16  #MKT News
-
-【PBOC deputy governor Zou Lan attended BRICS finance ministers and central bank governors meeting in Jaipur】On Aug 12-13, 2026, PBOC deputy governor Zou Lan attended this year’s first BRICS finance ministers and central bank governors meeting in Jaipur, India. Delegates discussed global economic development and governance, enhancements to the Contingent Reserve Arrangement (CRA), and stepped-up BRICS cooperation on cross-border payments, sustainable finance, information security and fintech.
-
----
-
-### 2026-08-14 10:56:14  #其他
-
-【微信明確：朋友圈未來不會推出二次編輯功能】8月14日，微信官方賬號“微信派”釋出《為什麼朋友圈沒有編輯功能？》一文。其中提到，“朋友圈現在、過去、未來都不會有二次編輯功能”。微信表示，朋友圈的英文是“Moments”，當下那一瞬間。正是因為“不可更改”，這種記錄才具備絕對真實性。與其讓所有人都活在“什麼都可能被改過”的朋友圈裡，不如讓手誤那幾秒自己消化掉。
-
----
-
-### 2026-08-14 10:55:17  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Local governor said areas around Russia's Baltic port Ust-Luga suffered damage from drone strikes.
-
----
-
-### 2026-08-14 10:55:13  #國際
-
-俄羅斯波羅的海烏斯季盧加港周邊地區遭無人機襲擊受損。
-
----
-
-### 2026-08-14 10:54:44  #市場
-
-韓華海洋股價上漲5.2%，至95,400韓元。
-
----
-
-### 2026-08-14 10:53:55  #公司 #國際
-
-【日本千葉縣強降雨已致6人死亡 超2.2萬戶停電】據東京電力電網公司14日訊息，受強降雨影響，截至當地時間14日10時45分，千葉縣內約有22800戶停電。另據千葉縣等方面統計，目前強降雨已造成6人死亡、1人心肺停止、1人失蹤。
-
----
-
-### 2026-08-14 10:53:42  #其他
-
-【陝西四部門聯合部署防汛抗旱保秋糧工作】據“陝西釋出”，8月13日，陝西省農業農村廳訊息，當前正值防汛抗旱關鍵期，也是秋糧產量形成的重要階段。省農業農村廳、省水利廳、省應急管理廳、省氣象局日前聯合印發通知，要求各地全力做好防汛抗旱工作，並開展“秋糧抗災奪豐收百日行動”，全力奪取秋糧和全年農業豐收。
-
----
-
-### 2026-08-14 10:51:54  #公司 #市場
-
-【光纖概念股走強 杭電股份、金時科技漲停】光纖概念股短線走強，杭電股份、金時科技漲停，亨通光電、中天科技、長飛光纖等股跟漲。
-
----
-
-### 2026-08-14 10:51:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-【LG to launch next-generation humanoid robot with NVIDIA in Q1 2027】LG Electronics said it plans to launch a next-generation bipedal humanoid robot in Q1 2027 built on NVIDIA’s robotics platform. The unit will use an NVIDIA Jetson Thor robotic chip module, be based on NVIDIA’s Isaac GR00T humanoid foundation model and run the Holoscan for Robotics safety system. LG will integrate technology from its subsidiaries — actuators from LG Electronics, sensors from LG Innotek and batteries from LG Energy Solution. The two companies said they will also collaborate across robotics, AI factory solutions and mobility.
-
----
-
-### 2026-08-14 10:50:57  #市場
-
-越南VN指數下跌1%至1747.88點。
-
----
-
-### 2026-08-14 10:50:03  #MKT News #Market Regions #Greater China
-
-【Qingdao Jan–Jul trade 554.87 bln yuan, +6.4% YoY】Qingdao Customs: Jan–Jul goods trade totaled 554.87 bln yuan, accounting for 26.1% of Shandong’s trade, up 6.4% YoY — 2.1pp faster than the province. Exports were 337.71 bln yuan, +8.3% YoY; imports 217.16 bln yuan, +3.5% YoY. July trade was 87.75 bln yuan, +10.5% YoY; exports 56.01 bln yuan, +16.3% YoY; imports 31.74 bln yuan, +1.5% YoY.
 
 ---
