@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 249,
+  "count": 251,
   "items": [
+    {
+      "id": "mkt:01a0088b-d690-7aab-904c-18e2f0b453a7",
+      "time": "2026-08-16 11:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian Defence Ministry said it shot down a drone that violated its airspace."
+    },
+    {
+      "id": "5042570",
+      "time": "2026-08-16 11:09:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷軍發文慶祝小米手機15週年：16年前的今天，MIUI釋出。 15年前的今天，小米手機發布。"
+    },
     {
       "id": "mkt:01a00889-2313-7aab-904c-12b7001c7def",
       "time": "2026-08-16 11:06:40",
