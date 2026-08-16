@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-17 07:07:15",
+  "updated": "2026-08-17 07:11:05",
   "count": 15231,
   "items": [
+    {
+      "id": "5043012",
+      "time": "2026-08-17 07:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至今年6月末，郵儲銀行涉農貸款餘額超2.6萬億元】資料顯示，截至今年6月末，郵儲銀行涉農貸款餘額超2.6萬億元，普惠型涉農貸款超1萬億元，在160個國家鄉村振興重點幫扶縣各項貸款餘額合計超800億元。下一步，郵儲銀行將持續以數字普惠金融之力，讓金融活水源源不斷潤澤田間地頭，成為啟用縣域經濟活力的關鍵支點。（人民日報）"
+    },
+    {
+      "id": "5043011",
+      "time": "2026-08-17 07:10:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【半年回撥壓力釋放 專家：黃金步入築底向上階段】“一個星期‘回血’一萬多元。”上週，積存金投資者徐若安（化名）高位套現部分持倉，打算擇時再度入場。這或許是全球眾多黃金投資者的縮影。美國7月非農就業資料爆冷，點燃了8月金市，倫敦現貨黃金自4000美元/盎司接連突破，13日盤中逼近4450美元/盎司後，獲利了結盤湧入導致跳水，失守4400美元/盎司。不過，資金並未轉向，次日即小幅反彈。不少“淘金客”在這半年的回撤中感嘆“鈍刀割肉最磨人”，而資產配置型投資者則從容以對。對比此前的焦灼心態，多數受訪投資者開始期待黃金後市表現。市場專家普遍認為，黃金大幅拋壓基本釋放，當前已步入築底向上階段，後市有望緩漲。短期擾動之餘，專家普遍認為，為期半年的回撥行情已基本結束，技術性槓桿拋壓釋放完畢，金價步入築底向上階段。（上海證券報）"
+    },
+    {
+      "id": "5043009",
+      "time": "2026-08-17 07:09:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微型衛星將聆聽宇宙最早期“低語”】一顆大小接近小型行李箱的微型衛星，將聆聽宇宙最早期“低語”，從而揭開宇宙學最大謎題之一：在首批恆星誕生之前，宇宙究竟發生了什麼。由英國劍橋大學領導、多國科學家參與的“CosmoCube”任務，計劃將月球背面作為天然屏障，遮蔽來自地球的全部電磁噪聲，從而捕捉早期宇宙氫原子發出的極微弱訊號——21釐米線。這種訊號產生於大爆炸之後、核聚變點亮第一批恆星之前的過渡時期，至今未被直接探測到。相關論文發表於最新一期《自然·天文學》期刊。"
+    },
+    {
+      "id": "5043008",
+      "time": "2026-08-17 07:07:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【槓桿出清行情或近尾聲 全球科技股再迎資金流入】今年7月，全球AI賽道迎來一輪槓桿出清行情，AI主題大拋售席捲美股、韓股等核心市場。本輪出清行情最具標誌性的事件，便是曾享譽市場的“AI股神”利奧波德·阿申布倫納創立的高槓杆AI對沖基金轟然爆倉。經過一輪暴力去槓桿、倉位清算與保證金補倉潮，當前全球市場槓桿出清已接近尾聲，海外機構預判市場資金流向即將逆轉，新一輪系統性加倉視窗有望開啟。同時，業內人士也提醒，槓桿放大波動、收割市場的風險並未消失，後續仍須警惕槓桿交易捲土重來引發的行情震盪。（上海證券報）"
+    },
     {
       "id": "te:economy:575559",
       "time": "2026-08-17 07:05:58",
@@ -139205,42 +139238,6 @@
         "AAPL.O"
       ],
       "text": "【Apple weighing Apple Watch redesign, exploring screenless devices and new form factors】Apple (AAPL.O) is considering a major redesign of the Apple Watch line to address a shift toward screenless wearables and new form factors, Bloomberg’s Mark Gurman reports. Apple’s industrial design team has spent about a year researching concepts including screenless devices, alternative screen types, different screen sizes and circular watch faces. No final plan has been chosen; Apple is evaluating both a more premium model and a lower-priced option positioned below the Apple Watch SE. The company expects upgraded AI and health features to drive wearables growth."
-    },
-    {
-      "id": "te:economy:573927",
-      "time": "2026-08-10 07:10:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Industrial Production",
-        "Importance 0"
-      ],
-      "text": "Argentina Industrial Output Rebounds in June — Argentina’s industrial production grew by 2% year-on-year in June 2026, recovering from a downwardly revised 5.6% drop in the previous month. Ten of the 16 manufacturing sectors posted annual increases. The strongest gains came from basic metals (11.8%), chemicals and chemical products (11.0%), other transport equipment (7.2%), food and beverages (6.2%), wood, paper and printing (8.4%), metal products (3.6%), petroleum refining (3.4%), furniture and other manufacturing (3.4%), and tobacco products (0.4%). Meanwhile, output declined in other equipment, appliances and instruments (-25.3%), machinery and equipment (-16.8%), textiles (-15.9%), apparel, leather and footwear (-8.4%), non-metallic mineral products (-7.2%), motor vehicles and auto parts (-3.5%), and rubber and plastic products (-2.9%). On a seasonally adjusted monthly basis, industrial production rose 0.9%, accelerating from an downwardly revised 0.3% gain in May."
-    },
-    {
-      "id": "5032719",
-      "time": "2026-08-10 07:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技股超跌反彈仍有演繹空間，精選核心資產成下一階段關鍵】過去一週，A股市場震盪修復，主要指數全線收紅，科技板塊迎來階段性反彈。券商策略展望報告認為，A股震盪上行的大格局並未發生改變，8月修復行情有望延續。當前科技資產超跌反彈仍有演繹空間，但下一階段收益來源將更多來自板塊內部的精選，投研機構建議投資者科技持倉向核心資產集中，迴歸基本面和景氣度。（上證報）"
-    },
-    {
-      "id": "5032717",
-      "time": "2026-08-10 07:08:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "DFI零售集團計劃將中國境內的7-ELEVEN門店數量增至3000家。"
-    },
-    {
-      "id": "5032716",
-      "time": "2026-08-10 07:08:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【人民日報經濟時評：從上汽集團與通用汽車續約談起】上汽集團與通用汽車近日續約20年，通用汽車成為又一家選擇“長期繫結”中國市場的跨國車企。此前，廣汽集團與本田汽車也已簽署合資續約協議。在銷量下滑、市場份額萎縮的背景下，續約的原因值得思考。 資料顯示，廣汽本田年銷量從超80萬輛降至約35萬輛，降幅達56%；上汽通用在華銷量從200多萬輛降至2025年的53.5萬輛，流失近3/4。數字雖然冰冷，但跨國車企的選擇卻是明確的——堅決留在中國市場。 原因顯而易見：今天的中國，已不僅是汽車領域“全球最大市場”，更是“最強考場”。中國消費者對智慧座艙的配置規格要求嚴苛，對智慧輔助駕駛的期待更為高漲，對新能源轉型的接受意願強。技術快速迭代、越級配置、好而不貴……這些僅僅是一款中國暢銷車型的必備要素。跨國車企那套一款車型包打天下的“全球車”邏輯，在中國市場越來越行不通。"
     }
   ]
 }
