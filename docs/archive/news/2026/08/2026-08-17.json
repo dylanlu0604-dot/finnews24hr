@@ -1,7 +1,23 @@
 {
   "date": "2026-08-17",
-  "count": 110,
+  "count": 112,
   "items": [
+    {
+      "id": "mkt:01a00c2e-b0a4-7aab-9050-851c104fcebf",
+      "time": "2026-08-17 04:06:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iran's parliament speaker said Iran must reach a level of deterrence to avoid being drawn into a cycle of war, peace and renewed war."
+    },
+    {
+      "id": "5042960",
+      "time": "2026-08-17 04:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長：我們必須達到一種威懾水平，以免陷入戰爭—和平—戰爭消耗的惡性迴圈。"
+    },
     {
       "id": "5042959",
       "time": "2026-08-17 04:02:48",
