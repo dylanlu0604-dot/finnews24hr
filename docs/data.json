@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-16 18:11:02",
-  "count": 15212,
+  "updated": "2026-08-16 18:14:51",
+  "count": 15209,
   "items": [
+    {
+      "id": "5042779",
+      "time": "2026-08-16 18:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月16日18時9分，影片《八仙！》票房突破16億。"
+    },
+    {
+      "id": "mkt:01a00a0d-5424-7aab-904d-a6a31230cd0c",
+      "time": "2026-08-16 18:10:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi media, citing Yemen’s armed forces, reported strikes on Houthi positions across the contact line. Yemen’s forces said they have the capability and readiness to strike and neutralize Houthi threat sources and that the strikes destroyed dozens of devices and weapons depots."
+    },
     {
       "id": "5042778",
       "time": "2026-08-16 18:09:23",
@@ -139096,52 +139116,6 @@
         "Impact bullish"
       ],
       "text": "【CITIC Securities: US-Japan FX intervention aims to curb yen-depreciation spillovers】CITIC Securities said US-Japan joint FX intervention aims to prevent spillovers from sustained yen weakness. Japan’s inflation remains below the BOJ target, limiting willingness to tighten policy; Sanae Takaichi’s proposed tax cuts could widen Japan’s fiscal gap and erode confidence in yen assets. The US is concerned that yen stabilization or Japanese reductions in US Treasury holdings could, amid elevated US debt supply, push up long-end US yields. Short-term intervention should help stabilize expectations, but with US-Japan rate differentials still wide the scope for a sustained large yen rally is limited. The report adds that US equities retain clearer advantages over Japanese stocks on earnings growth, industry structure and the AI supply chain."
-    },
-    {
-      "id": "mkt:019fe602-d60c-7aab-8fc9-41a110ba91de",
-      "time": "2026-08-09 18:12:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: 61% of Americans support stricter regulation of social media apps."
-    },
-    {
-      "id": "5032494",
-      "time": "2026-08-09 18:12:44",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：美日聯合干預外匯市場旨在防範日元持續貶值引發風險外溢】中信證券釋出研報稱，美日聯合干預外匯市場，旨在防範日元持續貶值引發風險外溢。日本面臨的主要困境在於，其國內通脹持續低於日銀目標水平，貨幣政策加息意願有限，同時高市早苗內閣減稅計劃可能進一步擴大日本財政缺口，削弱投資者對日元資產的信心。而美國的擔憂則在於，日本為穩定匯率或減持美國國債，在美債供給維持高位的背景下可能進一步推升長端利率。總體來看，美日短期干預匯市有助於穩定市場預期，但在兩國利差仍處高位的情況下，日元持續大幅升值的空間有限。相較於日本股市，美股在盈利增長、行業結構及AI產業鏈方面仍具備更顯著的優勢。"
-    },
-    {
-      "id": "mkt:019fe602-9e36-7aab-8fc9-3e9aa0a56f6c",
-      "time": "2026-08-09 18:12:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to a Refinitiv/Ipsos poll, 74% of Republicans and 69% of Democrats support age verification rules for social media."
-    },
-    {
-      "id": "5032493",
-      "time": "2026-08-09 18:11:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美威脅繼續施壓伊朗要求美國賠償】美國副總統萬斯8月8日表示，美伊衝突還沒有結束，目前仍處於“博弈中段”，並表示美方將會繼續施壓。而伊朗方面表示，霍爾木茲海峽的通航議題並不以美方表態為準，即便與阿曼達成協議，也不意味著重新開放霍爾木茲海峽，伊朗的條件包括美國應對違反諒解備忘錄的行為作出賠償等。據在伊朗德黑蘭的總檯記者李健南觀察，伊朗國內的分析認為，儘管衝突和戰爭給伊朗國內經濟帶來負面影響，但伊朗不會輕易放棄霍爾木茲海峽這一反制美國的重要手段。如果美國不改變敵對政策，不在伊朗問題上作出實質性讓步，伊朗也不會以犧牲國家安全來換取短暫的經濟緩和。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019fe601-7a6f-7aab-8fc9-334cfa8903b3",
-      "time": "2026-08-09 18:11:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IRGC says will keep control of Strait of Hormuz until enemy accepts all conditions】The Islamic Revolutionary Guard Corps spokesman said on the 9th Iran’s strategy is to maintain control of the Strait of Hormuz until adversaries accept all Iranian conditions and acknowledge defeat. He said Iran has forced the enemy to abandon previously set objectives and that the opponent is now concentrating on reopening the Strait of Hormuz. He added Iran’s resistance will continue indefinitely and defeating the enemy is an unchangeable Iranian strategy."
     }
   ]
 }

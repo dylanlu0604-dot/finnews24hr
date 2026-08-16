@@ -1,7 +1,27 @@
 {
   "date": "2026-08-16",
-  "count": 501,
+  "count": 503,
   "items": [
+    {
+      "id": "5042779",
+      "time": "2026-08-16 18:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月16日18時9分，影片《八仙！》票房突破16億。"
+    },
+    {
+      "id": "mkt:01a00a0d-5424-7aab-904d-a6a31230cd0c",
+      "time": "2026-08-16 18:10:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi media, citing Yemen’s armed forces, reported strikes on Houthi positions across the contact line. Yemen’s forces said they have the capability and readiness to strike and neutralize Houthi threat sources and that the strikes destroyed dozens of devices and weapons depots."
+    },
     {
       "id": "5042778",
       "time": "2026-08-16 18:09:23",
