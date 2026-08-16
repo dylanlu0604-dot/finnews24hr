@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-17 00:18:41",
-  "count": 15197,
+  "updated": "2026-08-17 00:22:34",
+  "count": 15198,
   "items": [
+    {
+      "id": "5042908",
+      "time": "2026-08-17 00:19:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏軍襲擊俄大型物流樞紐 俄打擊烏軍工企業和煉油廠】烏克蘭國防部16日在社交媒體發文稱，當天凌晨，烏軍對俄大型電商平臺野莓公司位於莫斯科州的物流樞紐發動了大規模無人機襲擊。另據俄國防部16日釋出的訊息，俄軍當天打擊了烏克蘭的軍工企業和煉油廠等設施。"
+    },
+    {
+      "id": "5042907",
+      "time": "2026-08-17 00:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯表示，其高階代表團在開羅與埃及官員舉行的會談，重點在於鞏固加沙地帶的停火，並確保以色列履行美國支援的所謂“和平計劃”所作出的各項承諾。"
+    },
     {
       "id": "5042906",
       "time": "2026-08-17 00:17:04",
@@ -139004,14 +139021,6 @@
         "MKT News"
       ],
       "text": "Iraqi media cite Coordination Framework sources saying a political agreement has been reached; factions will transfer weapons to the Popular Mobilization Forces by the end of September."
-    },
-    {
-      "id": "mkt:019fe752-17a6-7aab-8fca-d6b2fd744e32",
-      "time": "2026-08-10 00:19:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen deputy defense minister says responses to the Houthi movement will be decided based on national interest."
     }
   ]
 }
