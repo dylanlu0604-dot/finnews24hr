@@ -1,7 +1,25 @@
 {
   "date": "2026-08-16",
-  "count": 206,
+  "count": 208,
   "items": [
+    {
+      "id": "5042535",
+      "time": "2026-08-16 09:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Flightradar24：越南航空一架波音787客機起飛發生事故後返航慕尼黑。"
+    },
+    {
+      "id": "mkt:01a00848-13a7-7aab-904b-e629c632b7e7",
+      "time": "2026-08-16 09:55:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Explosion near Zawiya power station knocks out power in Tripoli, western Libya】Libya's National Electricity Company said on the 15th an explosion near the Zawiya power station forced multiple plants offline and caused a grid collapse, leaving Tripoli and large parts of western Libya without power. Maintenance crews are isolating faults and have begun gradual restoration of supply to affected areas. Technical teams are investigating the cause and technical details of the blast."
+    },
     {
       "id": "5042533",
       "time": "2026-08-16 09:50:03",

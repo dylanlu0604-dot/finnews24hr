@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-16 09:55:55",
-  "count": 15224,
+  "updated": "2026-08-16 09:59:44",
+  "count": 15222,
   "items": [
+    {
+      "id": "5042535",
+      "time": "2026-08-16 09:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Flightradar24：越南航空一架波音787客機起飛發生事故後返航慕尼黑。"
+    },
+    {
+      "id": "mkt:01a00848-13a7-7aab-904b-e629c632b7e7",
+      "time": "2026-08-16 09:55:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Explosion near Zawiya power station knocks out power in Tripoli, western Libya】Libya's National Electricity Company said on the 15th an explosion near the Zawiya power station forced multiple plants offline and caused a grid collapse, leaving Tripoli and large parts of western Libya without power. Maintenance crews are isolating faults and have begun gradual restoration of supply to affected areas. Technical teams are investigating the cause and technical details of the blast."
+    },
     {
       "id": "5042533",
       "time": "2026-08-16 09:50:03",
@@ -139269,38 +139287,6 @@
         "其他"
       ],
       "text": "【上海更新中心城區暴雨黃色預警訊號為暴雨橙色預警訊號】上海市氣象臺2026年08月09日09時52分更新中心城區暴雨黃色預警訊號為暴雨橙色預警訊號：預計未來6小時內，中心城區大部6小時累積降水量將達150毫米以上，暴雨黃色預警訊號更新為暴雨橙色預警訊號，強降雨可能引發城市積澇、交通擁堵等情況，請特別加強防範極端強降雨。"
-    },
-    {
-      "id": "5032230",
-      "time": "2026-08-09 09:58:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多家機場航班全取消】截至8月9日9時，據飛常準颱風路徑與機場影響預報圖顯示，預計8月9日-11日受颱風“白海豚”影響機場38座。8月9日寧波櫟社機場、台州路橋機場、麗水機場航班已全部取消。溫州龍灣機場和舟山普陀山機場航班近乎全部取消，上海浦東機場和上海虹橋機場近八成航班被取消。杭州機場稱取消9日進出港航班270架次，主要集中在12:00以後時段。預計今日下午開始，颱風外圍天氣逐步影響機場執行。（第一財經）"
-    },
-    {
-      "id": "5032229",
-      "time": "2026-08-09 09:58:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西啟動防汛四級應急響應】鑑於當前防汛形勢，根據《江西省防汛抗旱應急預案》規定，經研究，江西省防汛抗旱指揮部決定自8月9日9時起啟動防汛四級應急響應。"
-    },
-    {
-      "id": "mkt:019fe43d-0887-7aab-8fc7-caa6cb682120",
-      "time": "2026-08-09 09:57:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hunter Biden says former president Biden's prostate cancer worsening, has metastasized】Hunter Biden said in a media interview on the 8th that former US president Biden's prostate cancer has worsened, with cancer cells having spread to bone and other parts of his body, causing severe pain and materially affecting his daily life."
-    },
-    {
-      "id": "5032228",
-      "time": "2026-08-09 09:56:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯南部發生交通事故 致至少13人死亡】據秘魯方面8日訊息，該國南部庫斯科省當天發生一起汽車相撞事故，造成至少13人死亡。（央視新聞）"
     }
   ]
 }
