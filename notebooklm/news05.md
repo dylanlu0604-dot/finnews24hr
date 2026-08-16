@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:36:46_
-_本檔包含 2885 則快訊，約 601359 字_
+_更新時間：2026-08-16 15:58:49_
+_本檔包含 2899 則快訊，約 601471 字_
+
+---
+
+### 2026-08-11 02:04:45  #MKT News
+
+A Gaza Peace Committee official said the Gaza roadmap was jointly formulated by the committee and Hamas, and consultations with Israel are ongoing.
+
+---
+
+### 2026-08-11 02:04:20  #市場 #國際
+
+布倫特原油期貨每桶上漲 4 美元，伊朗與美國互相提出賠償要求，霍爾木茲海峽局勢緩和的預期消退。
+
+---
+
+### 2026-08-11 02:04:03  #國際
+
+加沙和平委員會官員：並未要求以色列僅憑信任行事，也不要求其在實地落實經核實的舉措之前採取不可逆轉的行動。
+
+---
+
+### 2026-08-11 02:04:02  #MKT News
+
+The Hill reported that the Trump administration revoked more than 175,000 visas.
+
+---
+
+### 2026-08-11 02:03:48  #國際
+
+加沙和平委員會官員：加沙路線圖由和平委員會與哈馬斯雙方擬定，同以色列的磋商仍在進行。
+
+---
+
+### 2026-08-11 02:03:17  #國際
+
+美國白宮稱特朗普今天將簽署疫苗行政命令。
+
+---
+
+### 2026-08-11 01:52:46  #MKT News #Market Themes #The Trump Trade
+
+CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time.
+
+---
+
+### 2026-08-11 01:52:13  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%.
+
+---
+
+### 2026-08-11 01:50:00  #市場 #焦點
+
+上海原油連續主力合約日內漲4%，現報553.40元。
+
+---
+
+### 2026-08-11 01:49:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
+
+【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs.
+
+---
+
+### 2026-08-11 01:49:10  #國際
+
+市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。
+
+---
+
+### 2026-08-11 01:48:12  #MKT News
+
+FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race.
+
+---
+
+### 2026-08-11 01:46:10  #國際
+
+美國聯邦航空管理局：里根國家機場預計將於 8 月 23 日上午 10 點 15 分至下午 1 點 15 分暫停航班運營，以保障 Freedom 250 汽車賽事開展。
+
+---
+
+### 2026-08-11 01:43:41  #國際
+
+嘉能可支援的一個美國投資者團體考慮拯救鈷冶煉商Sherritt。
+
+---
+
+### 2026-08-11 01:43:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+On Iran talks, U.S. President Trump said Iran should be held responsible for the damage and deaths it has caused to the people of Lebanon, Syria, Yemen and Gaza.
+
+---
+
+### 2026-08-11 01:40:23  #MKT News
+
+A minister said the Chilean government will recapitalize 100% of state-owned copper producer Codelco's 2025 profits.
+
+---
+
+### 2026-08-11 01:40:22  #國際
+
+特朗普：伊朗也應對其給周邊國家造成的損害承擔責任，伊朗也應該為葉門和敘利亞的損失負責。
+
+---
+
+### 2026-08-11 01:39:37  #國際
+
+特朗普：伊朗應為黎巴嫩和加沙的損失負責。
+
+---
+
+### 2026-08-11 01:39:23  #MKT News
+
+【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations.
+
+---
+
+### 2026-08-11 01:38:53  #Trading Economics #Markets #commodity #Importance 0
+
+Gasoline is up by 5% — Gasoline increased 5% to 3.1346 USD/Gal
+
+---
+
+### 2026-08-11 01:37:48  #其他
+
+OpenAI 就人工智慧基礎設施事宜致函得克薩斯州州長，闡述對負責任開發的相關承諾。
+
+---
+
+### 2026-08-11 01:35:58  #其他
+
+【南非多地遭遇持續強降雪 交通嚴重受阻】南非多地10日持續遭遇強降雪、凍雨和大風天氣，誇祖魯-納塔爾省山區積雪嚴重，部分道路被迫關閉，大量車輛滯留，交通運輸受到影響。南非道路交通管理部門當天警告，未來幾天部分高海拔地區仍將面臨低溫、降雪天氣，民眾非必要請勿前往受影響地區。有關部門已啟動應急響應，開展道路除冰和救援工作。 (央視新聞)
+
+---
+
+### 2026-08-11 01:35:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose 6.0% intraday to $80.93/bbl.
+
+---
+
+### 2026-08-11 01:34:51  #其他
+
+巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。
+
+---
+
+### 2026-08-11 01:29:43  #MKT News #Important #Commodities #Energy #Brent
+
+Barclays maintains Brent price forecasts at $96/bbl for 2026 and $85/bbl for 2027.
+
+---
+
+### 2026-08-11 01:28:43  #其他
+
+美軍非洲司令部證實8月9日一架軍機在吉布提墜毀。
+
+---
+
+### 2026-08-11 01:21:54  #公司 #國際
+
+【比特幣資金流入創四個月新高，駭客事件動搖持有者信心】美國上市的比特幣交易所交易基金（ETFs）錄得自4月以來最強勁的單週資金流入，上週吸引超過8.5億美元資金。此次資金流入激增，正值加拿大公司Coinkite製造的Coldcard錢包被曝存在安全漏洞、約1.3億美元比特幣被盜事件被披露之後。這起駭客事件促使部分分析師認為，投資者可能正轉向華爾街受監管的加密產品（如現貨比特幣ETF），將其視為更具吸引力的選擇。
+
+---
+
+### 2026-08-11 01:21:16  #MKT News #Important #Market Themes #AI Revolution
+
+OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work.
+
+---
+
+### 2026-08-11 01:18:40  #其他
+
+OpenAI：我們正在擴充套件我們的網路安全計劃 Daybreak，並推出 GPT-5.6-Cyber，這是一個專為高階授權網路安全工作設計的新模型。
+
+---
+
+### 2026-08-11 01:16:35  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-11 01:16:10  #央行 #國際
+
+週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。
+
+---
+
+### 2026-08-11 01:16:06  #國際
+
+伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。
+
+---
+
+### 2026-08-11 01:16:02  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
+
+The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes.
+
+---
+
+### 2026-08-11 01:14:50  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump extends Jones Act waiver 90 days, narrows scope to energy shipments】President Trump extended the Jones Act waiver allowing foreign vessels to move oil and other goods in U.S. waters for 90 days, but narrowed the exemption to energy cargoes after Iran-related disruptions to crude flows pushed fuel costs higher. The new waiver targets gasoline, jet fuel, crude, napatha, LNG, soybean oil and fertilizer. The Pentagon must consult the U.S. Maritime Administration before approving waivers for individual voyages. The White House said the move secures supplies for the military and key industries and increases domestic transport of gasoline, diesel and jet fuel; U.S. shipbuilders and some members of Congress say the waiver weakens protections for the domestic shipping industry.
 
 ---
 
@@ -17265,125 +17469,5 @@ Stocks in Egypt Hit All-time High — EGX 30 increased to an all-time high of 55
 ### 2026-08-09 15:59:03  #國際
 
 世衛組織幹事譚德塞發言：上週五，世界衛生組織位於烏克蘭第聶伯羅的人道主義倉庫遭擊中被毀；目前尚無人員傷亡報告。
-
----
-
-### 2026-08-09 15:58:14  #MKT News
-
-【Liyuan Information: 1H net profit 298 mln yuan, +209.5% YoY】Liyuan Information reported 1H 2026 results: revenue 6.432 bln yuan, +59.46% YoY; net profit attributable to shareholders 298 mln yuan, +209.5% YoY; basic EPS 0.2585 yuan. Revenue growth driven by market improvement and strong expansion in AI, industrial & new-energy, and automotive electronics businesses, and by onboarding of new customers.
-
----
-
-### 2026-08-09 15:56:49  #MKT News #WTI #Impact bullish #Brent
-
-Interfax, citing the Russian Defence Ministry, said Russia struck two oil refineries in Ukraine's Sumy region.
-
----
-
-### 2026-08-09 15:55:22  #國際
-
-俄羅斯國防部：俄羅斯打擊了蘇梅州境內的兩座烏克蘭煉油廠。
-
----
-
-### 2026-08-09 15:54:11  #公司
-
-【葉門胡塞武裝稱襲擊沙特阿美公司煉油廠】薩那訊息：葉門胡塞武裝9日稱，該組織使用無人機對位於沙烏地阿拉伯吉讚的沙特阿美公司煉油廠發動了“精準打擊”。 胡塞武裝發言人葉海亞·薩雷亞在宣告中說，此次打擊是為了回應不久前沙特無人機侵犯葉門領空的行為。 沙烏地阿拉伯能源部9日早些時候在社交媒體上說，位於吉讚的沙特阿美公司煉油廠的一處設施當天凌晨發生火災。該公司工業安全消防隊已將火災撲滅，事故未造成人員傷亡。(新華社)
-
----
-
-### 2026-08-09 15:53:34  #國際
-
-【極端天氣已致菲律賓逾38萬人受災、6人死亡】據菲律賓通訊社9日報道，受本月1日開始的極端天氣影響，該國已有超過38萬居民遭遇暴雨、山體滑坡等災害，相關自然災害已造成6人死亡。 報道說，8月以來，西南季風增強及熱帶氣旋疊加導致菲極端天氣，引發強降雨、山體滑坡等自然災害。受災地區主要集中在呂宋島及棉蘭老島等地，受災家庭達至少11萬戶。極端天氣已造成148棟房屋受損，其中138棟部分損壞、10棟完全損毀。 菲律賓國家減災與管理委員會官方統計顯示，6名遇難者中，有2人因強降雨引發的山體滑坡喪生，2人死於山區滾石，另外2人分別因極端暴雨天氣溺水和觸電身亡。該委員會表示，目前已啟用86處疏散中心，安置2200戶家庭、約7300人。(新華社)
-
----
-
-### 2026-08-09 15:53:09  #國際
-
-【俄官員稱羅馬尼亞向烏提供“直接軍事後勤支援”】當地時間9日，俄羅斯外交部第二歐洲司司長皮利普松表示，羅馬尼亞正向烏克蘭提供直接軍事後勤支援，此舉透過位於摩爾多瓦的多瑙河港口久爾久列什蒂國際自由港完成。對此，羅馬尼亞方面和烏克蘭方面暫無回應。（央視新聞）
-
----
-
-### 2026-08-09 15:51:12  #公司
-
-【*ST發展：與預重整投資人簽署重整投資協議，股票復牌】8月9日，*ST發展釋出公告，公司於2026年8月7日與預重整牽頭投資人天津景行新能企業管理諮詢有限公司、共青城景行新能產業投資合夥企業（有限合夥）共同簽署了《財信地產發展集團股份有限公司重整投資協議》。根據協議，公司以總股本11億股為基數，按每10股轉增約5.96113176702839股的比例實施資本公積金轉增股票，共計轉增6.56億股。轉增完成後，總股本將增加至17.56億股。前述轉增股票不向原股東進行分配。乙方（天津景行與共青城景行）與全部聯合體投資人合計受讓6.26億股轉增股票，其中乙方受讓3.43億股。重整投資款合計6.26億元，受讓價格為1元/股。公司股票將於2026年8月10日上午開市起復牌。公告提示，雖然《重整投資協議》已簽署，但仍可能存在協議被終止、解除、撤銷、認定無效或不能履行等風險。此外，淨資產轉正安排、營業收入達標安排存在無法實現的風險，如相關指標未達標，公司股票將被終止上市。公司能否被法院受理重整、後續是否進入重整程式均存在不確定性。
-
----
-
-### 2026-08-09 15:50:26  #國際
-
-伊朗伊斯蘭革命衛隊發言人：我們的戰略是維持對海峽的控制，直到敵方同意我們的所有條件。
-
----
-
-### 2026-08-09 15:48:53  #其他
-
-【加拿大一省野火失控 逾2萬人連夜逃離】加拿大不列顛哥倫比亞省境內野火快速蔓延，當地政府8日宣佈啟動緊急狀態。超過2萬名民眾零時左右收到緊急疏散令，連夜撤離家園。部分民眾一度受困，當局出動直升機等進行營救，場面頗為兇險。尤其讓人擔憂的是，野火催生的火積雲產生閃電，劈向地面後誘發次生野火，導致火勢更加迅猛且走向難測。目前野火仍處於失控狀態，當地官員說滅火“存在巨大挑戰”。（新華社）
-
----
-
-### 2026-08-09 15:45:12  #其他
-
-別爾哥羅德州代州長通報：夜間無人機襲擊造成的受傷人數已增至25人，其中包括兩名分別4歲和9歲的兒童。
-
----
-
-### 2026-08-09 15:44:07  #MKT News #Market Themes #AI Revolution
-
-【Moore Threads 1H revenue jumps 147.4%; MTTS5000 cluster reaches commercial scale】Moore Threads reported 1H26 revenue of 1.736 bln yuan, up 147.42% YoY and exceeding full-year 2025 revenue. Gross profit was 989 mln yuan, up 103.78% YoY. Parent-company net loss narrowed 95.73% YoY; parent-company net loss excluding non-recurring items narrowed 52.37% YoY. 1H26 R&D spend was 769 mln yuan, up 38.16% YoY; cumulative R&D since 2022 is nearly 5.9 bln yuan. Commercialization accelerated: the MTTS5000 intelligent computing cluster reached scaled sales and has been deployed in Beijing, Wuxi and Hangzhou; it was among the first batch to pass the national Safety and Reliability assessment. The company reports multiple breakthroughs in high-end training capability, including training domestic models on domestic chips, and is expanding penetration into internet and telecom operator clients to broaden application scenarios. The MUSA software-stack ecosystem continues to mature, with developer numbers exceeding 800,000.
-
----
-
-### 2026-08-09 15:44:03  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-President Zelenskiy said Odesa port sustained damage in a Russian attack.
-
----
-
-### 2026-08-09 15:43:53  #公司
-
-【寧夏建材：擬1億-2億元回購股份用於登出】寧夏建材公告稱，公司擬以集中競價交易方式回購股份，資金總額不低於1億元且不超過2億元，回購價格不超過19.47元/股，回購期限為自股東會審議透過回購方案之日起3個月內。回購股份將用於登出，預計回購數量為513.61萬-1027.22萬股，佔總股本的1.07%-2.15%。本次回購尚需股東會審議，存在未透過、無法實施等風險。
-
----
-
-### 2026-08-09 15:43:28  #公司 #國際
-
-【藥明康德：美國哥倫比亞特區聯邦地區法院就公司的初步禁令動議作出了裁決】公司於2026年6月12日釋出了《自願性公告》，就美國國防部將藥明康德列入國防部1260H名單的認定提起訴訟。繼公司於2026年6月11日對國防部提起訴訟後，公司於2026年6月29日向美國哥倫比亞特區聯邦地區法院提出了初步禁令動議，尋求禁止國防部執行、實施1260H認定或依據1260H認定採取任何其他行動。美國時間2026年8月7日，法院就公司的初步禁令動議作出了裁決。公司對法院批准公司所申請的初步禁令的裁決表示歡迎。該裁決使公司在挑戰1260H認定的司法程式期間免受該認定所帶來的即時不利影響。
-
----
-
-### 2026-08-09 15:42:56  #其他
-
-【今年第16號颱風“琵鷺”生成 將向偏東方向移動強度緩慢增強】據中央氣象臺訊息，今年第16號颱風“琵鷺”（熱帶風暴級；英文名稱：PEILOU）已於8月9日在西北太平洋洋麵上生成，14時其中心位於關島塞班北偏西方向約740公里的西北太平洋洋麵上，就是北緯21.2度、東經142.6度， 中心附近最大風力有8級，18米/秒（約65公里/小時），中心最低氣壓為998百帕。預計，“琵鷺”將以每小時25-30公里的速度向偏東方向移動，強度緩慢增強。（央視新聞）
-
----
-
-### 2026-08-09 15:41:16  #公司
-
-【濟川藥業：子公司獲得藥品註冊證書】濟川藥業(600566)8月9日公告，全資子公司濟川藥業集團有限公司收到國家藥品監督管理局核准簽發的小兒通便顆粒《藥品註冊證書》和美沙拉秦緩釋顆粒《藥品註冊證書》。
-
----
-
-### 2026-08-09 15:40:52  #公司
-
-【悍高集團：上半年歸母淨利潤2.92億元，同比增長10.12%】悍高集團8月9日披露半年報，公司上半年實現營業收入16.78億元，同比增長15.74%；歸屬於上市公司股東的淨利潤2.92億元，上年同期2.65億元，同比增長10.12%；基本每股收益0.73元/股。公司擬向全體股東每10股派發現金紅利2.2元（含稅）。報告期內，公司業績主要受益於聚焦家居五金核心主業，各業務板塊競爭力穩步增強。
-
----
-
-### 2026-08-09 15:39:04  #公司 #焦點
-
-【摩爾執行緒：籌劃發行H股股票並在港交所主機板上市】摩爾執行緒公告稱，公司召開董事會，審議透過發行H股股票並在香港聯交所主機板上市相關議案。公司擬發行境外上市外資股（H股）並申請在港交所主機板掛牌上市，將在股東會決議有效期內選擇時機完成。本次發行尚需股東會審議，還需取得相關政府及監管機構備案、批准和/或核准。目前具體細節未確定，能否實施有重大不確定性。
-
----
-
-### 2026-08-09 15:38:32  #MKT News
-
-【Typhoon White Dolphin to make landfall near Yuhuan–Wenling, Zhejiang, this evening】Zhejiang Meteorological Observatory says Typhoon White Dolphin is expected to make coastal landfall between Yuhuan and Wenling, Zhejiang, around this evening (9th). Forecast intensity: typhoon to strong typhoon, wind forces 12–14.
-
----
-
-### 2026-08-09 15:37:00  #公司
-
-【立新能源：上半年歸母淨利潤7302.39萬元，同比增長715.75%】立新能源8月9日披露半年報，公司上半年實現營業收入6.44億元，同比增長29.75%；歸屬於上市公司股東的淨利潤7302.39萬元，同比增長715.75%；基本每股收益0.0782元/股。報告期內，公司業績主要受到聯營企業新疆華電天山發電有限公司所屬“疆電外送”三通道發電專案陸續併網投運帶來的投資收益增加，以及新能源補貼回款增加導致信用減值損失減少的影響。
 
 ---

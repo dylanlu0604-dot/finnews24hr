@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:36:46_
-_本檔包含 3015 則快訊，約 601928 字_
+_更新時間：2026-08-16 15:58:49_
+_本檔包含 3003 則快訊，約 601586 字_
+
+---
+
+### 2026-08-13 10:32:30  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesian Stocks Retreat After MSCI Review — Indonesian equities slipped 58 points or 0.9% to 6,318 in Thursday morning trade, reversing a rally the day before. Losses were broad-based, led by basic materials, cyclicals, and healthcare. Sentiment soured after MSCI’s August review confirmed no new inclusions and 11 removals from its key indices, citing a strict global “freeze” policy. While Indonesia retains its Emerging Markets status, the weight of local equities has been trimmed, with changes effective after market close on August 31, 2026. Meanwhile, U.S.stock futures were mixed following Wall Street’s mostly higher close overnight, supported by softer inflation that eased Fed hike concerns. Domestically, downside was cushioned by reports that the government will reclaim part of state-company dividends to build a fiscal buffer fund. Notable laggards included ESSA Industries (-4.2%), Adaro Andalan (-2.8%), Merdeka Battery (-2.7%), and Sumber Alfaria Trijaya (-2.2%), underscoring the pressure across sectors.
+
+---
+
+### 2026-08-13 10:31:07  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報148000元/噸，較上日16:30價格下跌250元/噸。
+
+---
+
+### 2026-08-13 10:30:36  #其他
+
+美元指數DXY突破100，日內漲0.03%。
+
+---
+
+### 2026-08-13 10:30:31  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
+
+US dollar index (DXY) breached 100, up 0.03% intraday.
+
+---
+
+### 2026-08-13 10:30:18  #國際
+
+【我國牽頭制定！智慧城市資料利用頂層框架國際標準釋出】國際標準化組織（ISO）和國際電工委員會（IEC）近日聯合釋出國際標準《資訊科技 智慧城市資料利用 第1部分：框架》。該國際標準由我國專家擔任專案負責人，聯合韓國、加拿大、日本、澳大利亞、德國、哈薩克、辛巴威、墨西哥等11個國家的專家共同制定完成，是我國在智慧城市國際標準化領域取得的又一項標誌性成果，為構建全球智慧城市資料利用共識提供了頂層框架。該國際標準首次構建起智慧城市資料利用的統一框架，從資料可用、資料有用、資料易用、資料善用和資料賦能五大方面，系統界定了智慧城市資料利用的核心特徵及內涵。透過將智慧城市資料利用視為有機整體，突破單一視角侷限，有效填補了該領域綜合性國際標準的空白。智慧城市資料利用是驅動城市從“經驗管理”邁向“資料治理”的關鍵生產要素。透過發揮資料要素疊加、倍增效應，可有力驅動城市治理體系和治理能力現代化建設，為推進城市全域數字化轉型、夯實數字中國建設根基提供核心引擎。該國際標準的釋出實施將啟用資料作為城市戰略資源和資產的核心價值，促進資料實現高效、可持續、全面、創新利用，發揮資料的基礎資源和創新引擎作用，推動城市精細化治理與服務升級，為全球智慧城市資料利用提供統一技術參考。
+
+---
+
+### 2026-08-13 10:30:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Sideways Near Multi-Week Lows — Soybean futures hovered below $1,160 per bushel, trading in a sideways range near multi-week lows as markets weighed a lower US yield forecast against expectations for a record crop. The USDA cut its 2026 soybean yield estimate to 52.7 bushels per acre from 53, reflecting the impact of extreme heat and dryness in parts of the Midwest. However, higher planted acreage lifted projected production by 44 million bushels to a record 4.519 billion bushels, up 6% from 2025 and above the previous record set in 2021. The larger crop also pushed projected 2026/27 ending stocks up to 320 million bushels from 310 million previously. While recent heat and dryness supported prices, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects. Meanwhile, China provided a fresh demand boost, with the USDA confirming a sale of 244,000 metric tons of US soybeans for delivery in the 2026/27 marketing year.
+
+---
+
+### 2026-08-13 10:27:36  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish
+
+China A-share MLCC sector traded higher on choppy action; Torch Electronics hit the daily trading limit, while Sanhuan Group, Shuangxing New Material, Boqian New Material and Fenghua Hi‑Tech also advanced.
+
+---
+
+### 2026-08-13 10:27:26  #MKT News
+
+【Australian housing market cools; mortgage applications down at least 12%】Mortgage applications at Commonwealth Bank, Westpac and ANZ have fallen at least 12% since the government’s May budget paved the way to remove investor tax breaks, reflecting a cooling Australian housing market. The weakness has pushed bank shares lower and highlighted pressure on profitability. Earlier rises in borrowing costs had already damped demand and prices in Sydney and Melbourne are retreating. Commonwealth Bank CEO Matt Comyn said the bank has not yet seen the weakness spill over into household spending or broader activity. With the Middle East conflict lifting inflation and some firms remaining cautious, housing credit growth is expected to slow further next year.
 
 ---
 
@@ -18074,125 +18122,5 @@ Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%
 ### 2026-08-12 07:54:51  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen.
-
----
-
-### 2026-08-12 07:54:26  #國際
-
-【美媒：美軍2025年對葉門的打擊致數百平民傷亡 】據美國《華爾街日報》11日報道，美國國防部內部調查顯示，美軍2025年對葉門發動的一系列打擊行動造成數百名平民傷亡。報道說，五角大樓當天向美國國會提交了一份長達12頁的非機密評估報告，概述了五角大樓對美軍2025年在全球所有軍事行動中造成平民傷亡情況的評估。負責中東地區美軍行動的美軍中央司令部在報告中認定，美軍2025年4月對葉門進行的3次大規模打擊行動共造成平民153人死亡和243人受傷。報告同時說，中央司令部正在審查針對胡塞武裝行動期間可能導致平民傷亡的另外15起事件。報道稱，這份報告標誌著特朗普政府首次正式承認其空襲葉門胡塞武裝的行動所造成的平民傷亡規模。
-
----
-
-### 2026-08-12 07:53:20  #市場 #央行
-
-【機構普遍認為逆回購“零操作”不改變流動性合理充裕格局 超長債或進入高波動階段】中國央行8月11日未開展7天期逆回購操作，受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。展望後市，機構普遍認為，逆回購“零操作”不會改變下半年流動性合理充裕的總體環境。東方金誠首席宏觀分析師王青表示，此次“零操作”主要反映出金融機構申報需求不足，並非央行主動收緊流動性。 王青預計，隨著稅期來臨和政府債券發行節奏加快，金融機構融資需求將逐步回升，央行也將恢復7天期逆回購操作。8月末資金需求增加時，隔夜逆回購可能更多發揮調節作用。對於超長債，浙商銀行固定收益團隊認為，收益率下行趨勢尚未遭到破壞，收益率曲線仍有進一步壓平的空間。但短端收益率下行放緩，意味著資金價格下限逐漸清晰，長短端同步走強的空間已經收窄。（上證報）
-
----
-
-### 2026-08-12 07:52:30  #MKT News #Market Regions #Japan & APAC
-
-Japan July M3 money supply YoY 1.4% (prior 1.5%).
-
----
-
-### 2026-08-12 07:52:24  #MKT News #Economic Calendar #Important
-
-Japan | M3 Money Supply (YoY) (Jul) | actual 1.4% | previous 1.50%
-
----
-
-### 2026-08-12 07:52:22  #MKT News
-
-Japan M2 money supply YoY +2.2% in July; prior +2.20%.
-
----
-
-### 2026-08-12 07:52:19  #央行 #公司 #市場
-
-【華西證券：金價有望企穩回升，關注黃金飾品板塊修復機會】華西證券研報表示，短期金價反彈由預期修正與情緒驅動，但中長期支撐邏輯依然穩固——央行購金潮、去美元化趨勢及美債實際利率高位回落預期構成金價"底線支撐"，渣打銀行預計金價有望重新向5000美元關口邁進。金價企穩回升有望逐步修復黃金飾品板塊基本面與估值：上半年金價劇烈波動導致Q2國內金飾需求僅50噸（同比-28%），消費者"買漲不買跌"心態抑制終端動銷，相關龍頭公司Q2不同程度終端需求受到壓制，但隨著金價反彈企穩，預期前期被壓制的消費需求有望逐步釋放，看好龍頭公司下半年業績企穩回升，建議重點關注龍頭個股股價修復行情。
-
----
-
-### 2026-08-12 07:52:16  #MKT News #Economic Calendar #Important
-
-Japan | M2 Money Supply (YoY) (Jul) | actual 2.2% | previous 2.20%
-
----
-
-### 2026-08-12 07:51:52  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's 5-year government bond yield rose 1.5 bps to 2.10%, a record high.
-
----
-
-### 2026-08-12 07:51:39  #市場 #國際
-
-5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。
-
----
-
-### 2026-08-12 07:51:12  #經濟數據 #日本
-
-日本7月M2貨幣供應同比增長2.2%。
-
----
-
-### 2026-08-12 07:51:10  #經濟數據 #美國
-
-【美國7月CPI即將揭曉 美聯儲加息預期再迎考驗】北京時間8月12日20時30分，美國勞工部將公佈7月消費者價格指數（CPI）。市場預計，美國整體CPI和核心CPI同比增速均將繼續回落，但環比增速可能由負轉正。市場人士認為，就業降溫降低了美聯儲加息的緊迫性，但美國失業率仍處於低位，能源價格和人工智慧投資帶來的通脹風險也未完全消退。相較於單月就業人數的變化，未來兩份通脹報告以及美聯儲主席凱文·沃什的政策風格可能更直接影響美聯儲9月的政策選擇。
-
----
-
-### 2026-08-12 07:49:58  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #S&P500
-
-【Huatai Securities: lithium peak season may support commodity and equity recovery】Huatai Securities said a prior drag on lithium prices reflected hidden inventories becoming visible and uncertainty about next-year demand. It expects H2 2026 cancellation of export tax rebates to front‑load demand, and seasonal peak demand to support a lithium-price rebound. Under a neutral 2027 scenario (global EV sales +10–15% YoY; energy‑storage cell shipments +30–40% YoY), global lithium carbonate supply‑demand is likely to remain tight and roughly balanced. The firm notes recent share-price pullbacks may already embed pessimistic lithium-price expectations and flags potential seasonal recovery opportunities in commodities and equities.
-
----
-
-### 2026-08-12 07:49:22  #其他
-
-【中國駐哥倫比亞使館提醒中國公民非必要不前往受災區域】截至目前，哥倫比亞7.4級強震已造成逾二百人死亡和大量財產損失，哥政府宣佈進入“國家災難狀態”。喬科省、考卡山谷省、裡薩拉爾達省和卡爾達斯省的部分地區和城市受災最為嚴重，哥地質局提醒餘震可能持續數日甚至數週。中國駐哥倫比亞使館提醒在哥和擬來哥中國同胞非必要不前往上述區域，建議跟進相關資訊，並在“中國領事”APP完成“海外公民登記”，以便使館掌握資訊，及時提供領事保護與協助。如遇緊急情況，請及時報警並聯系中國駐哥倫比亞使館尋求協助。（ 中國駐哥倫比亞使館  ）
-
----
-
-### 2026-08-12 07:47:17  #市場 #國際
-
-【在伊朗衝突存在不確定性之際 日經指數或維持區間震盪】隨著圍繞伊朗衝突和能源成本的不確定性持續，日本股市或將維持區間震盪。新加坡交易所的日經指數期貨開盤報67,120點，較週二上漲260點，較週一上漲35點。日本市場週二因全國性假日休市。美元報159.28日元，相比之下，週一東京股市收盤時為158.41日元。投資者正關注中東局勢的發展和原油價格。日經指數週一上漲2.1%，至66,970.22點。
-
----
-
-### 2026-08-12 07:46:01  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.15點。
-
----
-
-### 2026-08-12 07:45:56  #市場 #國際
-
-日本日經指數期貨早盤上漲0.06%。
-
----
-
-### 2026-08-12 07:45:50  #其他
-
-【雷軍回應小米自研發光材料】雷軍發文稱：小米是國內首家能從發光材料層做研發的手機廠商，我們在螢幕技術上的投入是長期的、堅定的。去年我們打造了紅色主材，今年又突破了綠色主材。這裡面最核心，第四代pTSF是中國首創的底層顯示技術方案，由我們與清華團隊一道，歷經兩年多的時間，將實驗室理論轉為最終工程量產。
-
----
-
-### 2026-08-12 07:45:14  #公司
-
-【多家公司宣佈半年度分紅 海康威視分紅超50億元】8月11日晚間，上市公司集中釋出2026年半年度分紅實施方案或預案，多家企業分紅總額超億元。海康威視釋出《2026年半年度權益分派實施公告》，將向全體股東每10股派發現金紅利5.50元（含稅），累計分紅總額達50.41億元。公告顯示，本次權益分派股權登記日為8月18日，除息日、現金紅利發放日為8月19日。
-
----
-
-### 2026-08-12 07:45:00  #宏觀 #公司
-
-【調查階段預警退市風險 監管質效進一步提升】近日，上海證監局、遼寧證監局相繼公佈卓然股份、萃華珠寶兩起案件的階段性調查情況，向市場提示兩家公司存在觸及重大違法強制退市情形的風險。調查環節預警企業退市風險，在資本市場尚屬首次，折射出資本市場監管質效的進一步升級。按照慣例，監管部門一般在行政處罰事先告知階段，才會明確涉事公司涉嫌觸及重大違法強制退市情形，在此之前的案件調查期間，非必要情況，監管部門不會主動披露案件階段性調查情況。從立案調查到行政處罰事先告知書下發，大多需要經歷數月甚至更長時間的調查取證。然而，上述兩起個案退市預警的釋出時間，均是在調查尚未終結、行政處罰事先告知書尚未作出的階段，時間節點明顯前移。業內人士指出，監管部門及時公開階段性調查結果，尤其是涉嫌財務造假類案件的調查情況，能夠更早地向市場釋放退市風險訊號，便利投資者及時調整投資策略，壓縮市場炒作空間，避免不實資訊對市場的干擾，促使市場定價迴歸基本面。
-
----
-
-### 2026-08-12 07:44:55  #國際
-
-【瑞士再保險瑞再研究院：野火威脅加劇令保險風險居高不下】瑞士再保險(Swiss Re)的研究部門表示，2026年上半年保險業的自然災害估算損失大幅下降，但野火和天氣事件帶來的風險依然很高。瑞士再保險瑞再研究院週二警告稱，野火風險是全球增長最快的氣象災害。該機構還表示，6月份創紀錄的高溫和乾燥天氣增加了歐洲迎來活躍野火季的可能性。瑞士再保險的巨災風險主管巴爾茨.格羅利蒙德(Balz Grollimund)表示：“歐洲最近的野火凸顯出，更炎熱、更乾燥的天氣正導致大型野火更有可能發生，而且隨著越來越多的住宅、商業和基礎設施建在風險敞口較大的地區，災害造成的損失也更為慘重。”瑞士再保險瑞再研究院的資料顯示，2026年上半年，自然災害造成的保險損失估算為420億美元，低於上年同期的910億美元。該機構表示，這一數字創下了自2020年新冠疫情高峰期以來的上半年最低水平，也比500億美元的10年平均水平低16%。該機構表示，上半年自然災害損失較少並不一定意味著全年都會比較平靜，因為受北大西洋颶風季的影響，保險損失通常更多地集中在下半年。
 
 ---

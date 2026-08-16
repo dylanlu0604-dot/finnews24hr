@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:36:46_
-_本檔包含 3142 則快訊，約 601976 字_
+_更新時間：2026-08-16 15:58:49_
+_本檔包含 3158 則快訊，約 601357 字_
+
+---
+
+### 2026-08-14 12:05:31  #觀點
+
+據英國金融時報報導，摩根大通去年因監管擔憂終止了與Polymarket的銀行業務關係。
+
+---
+
+### 2026-08-14 12:05:22  #公司 #觀點
+
+【高盛上調閃迪、應用材料目標價】加拿大皇家銀行將應用材料公司目標價從520美元上調至600美元；將閃迪目標股價從1300美元上調至1600美元。
+
+---
+
+### 2026-08-14 12:04:59  #MKT News
+
+Indonesia's president said this does not mean Danantara Sumberdaya will control all exports, but the company can monitor export volumes.
+
+---
+
+### 2026-08-14 12:04:36  #MKT News
+
+Indonesia's president said Danantara Sumberdaya will tighten oversight of strategic bulk commodity exports at 50 ports.
+
+---
+
+### 2026-08-14 12:04:06  #MKT News
+
+Indonesia's president said state-owned bulk-commodity manager Danantara Sumberdaya will, in the near term, manage all strategic export commodities, expanding its remit beyond palm oil, coal and ferroalloys.
+
+---
+
+### 2026-08-14 12:03:58  #公司
+
+【胖東來：鄭州店擬招聘100名退伍邊防軍人及20名刑滿釋放人員】8月14日，胖東來發布《胖東來鄭州店招聘退伍邊防軍人及刑釋人員提前公告》。其中提到，在本次招聘中，公司計劃招聘100名退伍邊防軍人，20名刑期5年以上的刑滿釋放人員，併為其設立專屬報名投遞通道。胖東來表示，希望各個群體的人們都能夠得到社會的尊重和關愛。
+
+---
+
+### 2026-08-14 12:03:17  #公司 #觀點 #國際
+
+【訊息人士：高盛在獲得關鍵職位後，正就英偉達融資交易與投資者進行磋商】知情人士透露，高盛集團正與潛在投資者就參與英偉達5000億美元人工智慧融資計劃進行磋商。此前，高盛憑藉與這家晶片製造商的長期合作關係，在該交易中爭取到了一個備受追捧的角色。其中一位知情人士稱，美國保險公司、資產管理公司和銀行預計將構成該融資計劃的核心投資者群體；而另一位訊息人士則表示，資產管理公司計劃保留該融資計劃中相當大的一份份額。英偉達於8月10日宣佈，已與包括高盛在內的六家主要金融機構合作，推出計算平臺，旨在為人工智慧基礎設施籌集超過5000億美元的第三方資本。此舉凸顯了人工智慧計算能力需求的激增如何吸引機構投資者，因為各國政府、企業和初創公司正競相擴建資料中心以支援人工智慧工作負載。第二位訊息人士稱，高盛可透過其資產管理部門提供次級資本和私募信貸融資，同時其投資銀行部門也可協助將相關債務置入私募信貸基金，並最終引入公開債務市場。
+
+---
+
+### 2026-08-14 12:03:01  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #WTI
+
+Bank Negara Malaysia said it expects commodity price rises from the Middle East conflict to add upward pressure to inflation, but expects the impact to be contained.
+
+---
+
+### 2026-08-14 12:02:41  #MKT News
+
+Bank Negara Malaysia said it will continue to closely monitor developments and assess the risk balance to domestic inf and the economic growth outlook.
+
+---
+
+### 2026-08-14 12:02:30  #MKT News
+
+Bank Negara Malaysia said domestic demand remains strong and the overall impact from the Middle East conflict is contained.
+
+---
+
+### 2026-08-14 12:02:01  #MKT News
+
+Bank Negara Malaysia expects inflation to remain moderate in 2026.
+
+---
+
+### 2026-08-14 12:01:54  #MKT News
+
+Bank Negara Malaysia said Malaysia's supply chains remain resilient despite rising prices.
+
+---
+
+### 2026-08-14 12:01:22  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
+
+Goldman Sachs is in talks with potential investors to participate in NVIDIA's $500 billion AI financing plan, sources said.
+
+---
+
+### 2026-08-14 12:00:21  #國際
+
+馬來西亞2季度GDP終值同比增長6%; 預估為+5.8%。
+
+---
+
+### 2026-08-14 12:00:06  #公司 #國際
+
+印度尼西亞總統：近期，國有公司印度尼西亞丹塔拉資源公司將負責管理所有戰略出口商品，而非僅棕櫚油、煤炭與鐵合金。
+
+---
+
+### 2026-08-14 11:59:59  #公司 #國際
+
+印度尼西亞總統：這並不意味著國營企業丹塔拉印尼資源公司（Danantara Sumberdaya Indonesia）將掌控所有出口業務，該企業僅可對出口規模進行監管。
+
+---
+
+### 2026-08-14 11:59:13  #其他
+
+加拿大皇家銀行將 閃迪  目標價從1300美元上調至1600美元。
+
+---
+
+### 2026-08-14 11:57:57  #MKT News #SNDK.O #Impact bullish
+
+RBC raises SanDisk (SNDK.O) PT to $1,600 from $1,300.
+
+---
+
+### 2026-08-14 11:57:01  #國際
+
+【普拉博沃希望成立特別法庭調查國有企業前高管】印尼總統普拉博沃表示，或將設立特別法庭，調查過去三十年間國有企業的前董事會成員。普拉博沃稱，本屆政府成立Danantara主權財富基金時，有數百家國有企業過去 “為所欲為，不受任何約束”。他在第二次國情諮文演講中表示，對於 “悔過並承認自身過錯” 的相關官員，可給予特赦。普拉博沃的目標是到2026年底將國有企業數量控制在300家以內，並補充說，政府已經關閉了290家。此舉已節省 50 萬億印尼盾管理開銷，目標是到年底累計節省超 70 萬億印尼盾。在演講早前部分，普拉博沃表示，他有信心印尼經濟增速可在 2026 年底達到 6%。
+
+---
+
+### 2026-08-14 11:54:03  #MKT News #AMAT.O #Impact bullish
+
+RBC raises PT for Applied Materials (AMAT.O) to $600 from $520.
+
+---
+
+### 2026-08-14 11:52:31  #國際
+
+普拉博沃：預計國有企業今年將派發200萬億印尼盾股息。
+
+---
+
+### 2026-08-14 11:52:21  #國際
+
+普拉博沃：希望印尼鷹航 2027 年初實現盈利。
+
+---
+
+### 2026-08-14 11:52:03  #其他
+
+【金山辦公“靈犀”接入DeepSeek-V4-Pro正式版，已向使用者開放】金山辦公旗下AI辦公智慧體靈犀專業版宣佈接入DeepSeek-V4-Pro正式版。使用者在靈犀專業版內切換至該模型即可直接使用，無需額外配置。 據DeepSeek官方文件及公佈的評測資料，V4-Pro-0813是DeepSeek最新旗艦模型，原生支援100萬token超長上下文，單次最大輸出達38.4萬token，相關基準測試成績較此前的Preview版本全面提升。（新浪科技）
+
+---
+
+### 2026-08-14 11:51:38  #公司
+
+【時耘科技首批人形機器人產品下線】據天津發布，8月13日，在天津市河西區空天數字產業園，數月前剛落址園區的時耘科技，實現首批人形機器人產品下線。據瞭解，這款工業級的人形機器人身高174CM，可無縫適配人類作業環境，可廣泛適配電力巡檢、安防巡邏、工業運維、應急勘查、場站值守等多元場景，在高危、高強度、高重複的專業作業領域發揮作用，不僅開箱即用，還能在室內外場站、廠區、野外實現全域導航、無縫切換。時耘科技CEO曹克乾表示，隨著首批人形機器人產品RD3 Ultra的正式下線，公司今年計劃落地10個標準化應用場景，並預計在2027年實現產品的規模化交付。
 
 ---
 
@@ -18875,53 +19019,5 @@ Australian Mining and Energy Union says the new agreement resolves accident-comp
 ### 2026-08-13 10:32:37  #MKT News #BTU.O
 
 The Australian Mining and Energy Union said 19 workers at the Wybong joint coal wash plant have reached an agreement with Peabody that delivers an overall pay increase of about 4%.
-
----
-
-### 2026-08-13 10:32:30  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Stocks Retreat After MSCI Review — Indonesian equities slipped 58 points or 0.9% to 6,318 in Thursday morning trade, reversing a rally the day before. Losses were broad-based, led by basic materials, cyclicals, and healthcare. Sentiment soured after MSCI’s August review confirmed no new inclusions and 11 removals from its key indices, citing a strict global “freeze” policy. While Indonesia retains its Emerging Markets status, the weight of local equities has been trimmed, with changes effective after market close on August 31, 2026. Meanwhile, U.S.stock futures were mixed following Wall Street’s mostly higher close overnight, supported by softer inflation that eased Fed hike concerns. Domestically, downside was cushioned by reports that the government will reclaim part of state-company dividends to build a fiscal buffer fund. Notable laggards included ESSA Industries (-4.2%), Adaro Andalan (-2.8%), Merdeka Battery (-2.7%), and Sumber Alfaria Trijaya (-2.2%), underscoring the pressure across sectors.
-
----
-
-### 2026-08-13 10:31:07  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報148000元/噸，較上日16:30價格下跌250元/噸。
-
----
-
-### 2026-08-13 10:30:36  #其他
-
-美元指數DXY突破100，日內漲0.03%。
-
----
-
-### 2026-08-13 10:30:31  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-US dollar index (DXY) breached 100, up 0.03% intraday.
-
----
-
-### 2026-08-13 10:30:18  #國際
-
-【我國牽頭制定！智慧城市資料利用頂層框架國際標準釋出】國際標準化組織（ISO）和國際電工委員會（IEC）近日聯合釋出國際標準《資訊科技 智慧城市資料利用 第1部分：框架》。該國際標準由我國專家擔任專案負責人，聯合韓國、加拿大、日本、澳大利亞、德國、哈薩克、辛巴威、墨西哥等11個國家的專家共同制定完成，是我國在智慧城市國際標準化領域取得的又一項標誌性成果，為構建全球智慧城市資料利用共識提供了頂層框架。該國際標準首次構建起智慧城市資料利用的統一框架，從資料可用、資料有用、資料易用、資料善用和資料賦能五大方面，系統界定了智慧城市資料利用的核心特徵及內涵。透過將智慧城市資料利用視為有機整體，突破單一視角侷限，有效填補了該領域綜合性國際標準的空白。智慧城市資料利用是驅動城市從“經驗管理”邁向“資料治理”的關鍵生產要素。透過發揮資料要素疊加、倍增效應，可有力驅動城市治理體系和治理能力現代化建設，為推進城市全域數字化轉型、夯實數字中國建設根基提供核心引擎。該國際標準的釋出實施將啟用資料作為城市戰略資源和資產的核心價值，促進資料實現高效、可持續、全面、創新利用，發揮資料的基礎資源和創新引擎作用，推動城市精細化治理與服務升級，為全球智慧城市資料利用提供統一技術參考。
-
----
-
-### 2026-08-13 10:30:08  #Trading Economics #Markets #Commodity #Importance 1
-
-Soybeans Sideways Near Multi-Week Lows — Soybean futures hovered below $1,160 per bushel, trading in a sideways range near multi-week lows as markets weighed a lower US yield forecast against expectations for a record crop. The USDA cut its 2026 soybean yield estimate to 52.7 bushels per acre from 53, reflecting the impact of extreme heat and dryness in parts of the Midwest. However, higher planted acreage lifted projected production by 44 million bushels to a record 4.519 billion bushels, up 6% from 2025 and above the previous record set in 2021. The larger crop also pushed projected 2026/27 ending stocks up to 320 million bushels from 310 million previously. While recent heat and dryness supported prices, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects. Meanwhile, China provided a fresh demand boost, with the USDA confirming a sale of 244,000 metric tons of US soybeans for delivery in the 2026/27 marketing year.
-
----
-
-### 2026-08-13 10:27:36  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish
-
-China A-share MLCC sector traded higher on choppy action; Torch Electronics hit the daily trading limit, while Sanhuan Group, Shuangxing New Material, Boqian New Material and Fenghua Hi‑Tech also advanced.
-
----
-
-### 2026-08-13 10:27:26  #MKT News
-
-【Australian housing market cools; mortgage applications down at least 12%】Mortgage applications at Commonwealth Bank, Westpac and ANZ have fallen at least 12% since the government’s May budget paved the way to remove investor tax breaks, reflecting a cooling Australian housing market. The weakness has pushed bank shares lower and highlighted pressure on profitability. Earlier rises in borrowing costs had already damped demand and prices in Sydney and Melbourne are retreating. Commonwealth Bank CEO Matt Comyn said the bank has not yet seen the weakness spill over into household spending or broader activity. With the Middle East conflict lifting inflation and some firms remaining cautious, housing credit growth is expected to slow further next year.
 
 ---

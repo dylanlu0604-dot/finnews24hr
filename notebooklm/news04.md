@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:36:46_
-_本檔包含 3133 則快訊，約 602364 字_
+_更新時間：2026-08-16 15:58:49_
+_本檔包含 3119 則快訊，約 601499 字_
+
+---
+
+### 2026-08-12 07:54:26  #國際
+
+【美媒：美軍2025年對葉門的打擊致數百平民傷亡 】據美國《華爾街日報》11日報道，美國國防部內部調查顯示，美軍2025年對葉門發動的一系列打擊行動造成數百名平民傷亡。報道說，五角大樓當天向美國國會提交了一份長達12頁的非機密評估報告，概述了五角大樓對美軍2025年在全球所有軍事行動中造成平民傷亡情況的評估。負責中東地區美軍行動的美軍中央司令部在報告中認定，美軍2025年4月對葉門進行的3次大規模打擊行動共造成平民153人死亡和243人受傷。報告同時說，中央司令部正在審查針對胡塞武裝行動期間可能導致平民傷亡的另外15起事件。報道稱，這份報告標誌著特朗普政府首次正式承認其空襲葉門胡塞武裝的行動所造成的平民傷亡規模。
+
+---
+
+### 2026-08-12 07:53:20  #市場 #央行
+
+【機構普遍認為逆回購“零操作”不改變流動性合理充裕格局 超長債或進入高波動階段】中國央行8月11日未開展7天期逆回購操作，受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。展望後市，機構普遍認為，逆回購“零操作”不會改變下半年流動性合理充裕的總體環境。東方金誠首席宏觀分析師王青表示，此次“零操作”主要反映出金融機構申報需求不足，並非央行主動收緊流動性。 王青預計，隨著稅期來臨和政府債券發行節奏加快，金融機構融資需求將逐步回升，央行也將恢復7天期逆回購操作。8月末資金需求增加時，隔夜逆回購可能更多發揮調節作用。對於超長債，浙商銀行固定收益團隊認為，收益率下行趨勢尚未遭到破壞，收益率曲線仍有進一步壓平的空間。但短端收益率下行放緩，意味著資金價格下限逐漸清晰，長短端同步走強的空間已經收窄。（上證報）
+
+---
+
+### 2026-08-12 07:52:30  #MKT News #Market Regions #Japan & APAC
+
+Japan July M3 money supply YoY 1.4% (prior 1.5%).
+
+---
+
+### 2026-08-12 07:52:24  #MKT News #Economic Calendar #Important
+
+Japan | M3 Money Supply (YoY) (Jul) | actual 1.4% | previous 1.50%
+
+---
+
+### 2026-08-12 07:52:22  #MKT News
+
+Japan M2 money supply YoY +2.2% in July; prior +2.20%.
+
+---
+
+### 2026-08-12 07:52:19  #央行 #公司 #市場
+
+【華西證券：金價有望企穩回升，關注黃金飾品板塊修復機會】華西證券研報表示，短期金價反彈由預期修正與情緒驅動，但中長期支撐邏輯依然穩固——央行購金潮、去美元化趨勢及美債實際利率高位回落預期構成金價"底線支撐"，渣打銀行預計金價有望重新向5000美元關口邁進。金價企穩回升有望逐步修復黃金飾品板塊基本面與估值：上半年金價劇烈波動導致Q2國內金飾需求僅50噸（同比-28%），消費者"買漲不買跌"心態抑制終端動銷，相關龍頭公司Q2不同程度終端需求受到壓制，但隨著金價反彈企穩，預期前期被壓制的消費需求有望逐步釋放，看好龍頭公司下半年業績企穩回升，建議重點關注龍頭個股股價修復行情。
+
+---
+
+### 2026-08-12 07:52:16  #MKT News #Economic Calendar #Important
+
+Japan | M2 Money Supply (YoY) (Jul) | actual 2.2% | previous 2.20%
+
+---
+
+### 2026-08-12 07:51:52  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's 5-year government bond yield rose 1.5 bps to 2.10%, a record high.
+
+---
+
+### 2026-08-12 07:51:39  #市場 #國際
+
+5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。
+
+---
+
+### 2026-08-12 07:51:12  #經濟數據 #日本
+
+日本7月M2貨幣供應同比增長2.2%。
+
+---
+
+### 2026-08-12 07:51:10  #經濟數據 #美國
+
+【美國7月CPI即將揭曉 美聯儲加息預期再迎考驗】北京時間8月12日20時30分，美國勞工部將公佈7月消費者價格指數（CPI）。市場預計，美國整體CPI和核心CPI同比增速均將繼續回落，但環比增速可能由負轉正。市場人士認為，就業降溫降低了美聯儲加息的緊迫性，但美國失業率仍處於低位，能源價格和人工智慧投資帶來的通脹風險也未完全消退。相較於單月就業人數的變化，未來兩份通脹報告以及美聯儲主席凱文·沃什的政策風格可能更直接影響美聯儲9月的政策選擇。
+
+---
+
+### 2026-08-12 07:49:58  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #S&P500
+
+【Huatai Securities: lithium peak season may support commodity and equity recovery】Huatai Securities said a prior drag on lithium prices reflected hidden inventories becoming visible and uncertainty about next-year demand. It expects H2 2026 cancellation of export tax rebates to front‑load demand, and seasonal peak demand to support a lithium-price rebound. Under a neutral 2027 scenario (global EV sales +10–15% YoY; energy‑storage cell shipments +30–40% YoY), global lithium carbonate supply‑demand is likely to remain tight and roughly balanced. The firm notes recent share-price pullbacks may already embed pessimistic lithium-price expectations and flags potential seasonal recovery opportunities in commodities and equities.
+
+---
+
+### 2026-08-12 07:49:22  #其他
+
+【中國駐哥倫比亞使館提醒中國公民非必要不前往受災區域】截至目前，哥倫比亞7.4級強震已造成逾二百人死亡和大量財產損失，哥政府宣佈進入“國家災難狀態”。喬科省、考卡山谷省、裡薩拉爾達省和卡爾達斯省的部分地區和城市受災最為嚴重，哥地質局提醒餘震可能持續數日甚至數週。中國駐哥倫比亞使館提醒在哥和擬來哥中國同胞非必要不前往上述區域，建議跟進相關資訊，並在“中國領事”APP完成“海外公民登記”，以便使館掌握資訊，及時提供領事保護與協助。如遇緊急情況，請及時報警並聯系中國駐哥倫比亞使館尋求協助。（ 中國駐哥倫比亞使館  ）
+
+---
+
+### 2026-08-12 07:47:17  #市場 #國際
+
+【在伊朗衝突存在不確定性之際 日經指數或維持區間震盪】隨著圍繞伊朗衝突和能源成本的不確定性持續，日本股市或將維持區間震盪。新加坡交易所的日經指數期貨開盤報67,120點，較週二上漲260點，較週一上漲35點。日本市場週二因全國性假日休市。美元報159.28日元，相比之下，週一東京股市收盤時為158.41日元。投資者正關注中東局勢的發展和原油價格。日經指數週一上漲2.1%，至66,970.22點。
+
+---
+
+### 2026-08-12 07:46:01  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.15點。
+
+---
+
+### 2026-08-12 07:45:56  #市場 #國際
+
+日本日經指數期貨早盤上漲0.06%。
+
+---
+
+### 2026-08-12 07:45:50  #其他
+
+【雷軍回應小米自研發光材料】雷軍發文稱：小米是國內首家能從發光材料層做研發的手機廠商，我們在螢幕技術上的投入是長期的、堅定的。去年我們打造了紅色主材，今年又突破了綠色主材。這裡面最核心，第四代pTSF是中國首創的底層顯示技術方案，由我們與清華團隊一道，歷經兩年多的時間，將實驗室理論轉為最終工程量產。
+
+---
+
+### 2026-08-12 07:45:14  #公司
+
+【多家公司宣佈半年度分紅 海康威視分紅超50億元】8月11日晚間，上市公司集中釋出2026年半年度分紅實施方案或預案，多家企業分紅總額超億元。海康威視釋出《2026年半年度權益分派實施公告》，將向全體股東每10股派發現金紅利5.50元（含稅），累計分紅總額達50.41億元。公告顯示，本次權益分派股權登記日為8月18日，除息日、現金紅利發放日為8月19日。
+
+---
+
+### 2026-08-12 07:45:00  #宏觀 #公司
+
+【調查階段預警退市風險 監管質效進一步提升】近日，上海證監局、遼寧證監局相繼公佈卓然股份、萃華珠寶兩起案件的階段性調查情況，向市場提示兩家公司存在觸及重大違法強制退市情形的風險。調查環節預警企業退市風險，在資本市場尚屬首次，折射出資本市場監管質效的進一步升級。按照慣例，監管部門一般在行政處罰事先告知階段，才會明確涉事公司涉嫌觸及重大違法強制退市情形，在此之前的案件調查期間，非必要情況，監管部門不會主動披露案件階段性調查情況。從立案調查到行政處罰事先告知書下發，大多需要經歷數月甚至更長時間的調查取證。然而，上述兩起個案退市預警的釋出時間，均是在調查尚未終結、行政處罰事先告知書尚未作出的階段，時間節點明顯前移。業內人士指出，監管部門及時公開階段性調查結果，尤其是涉嫌財務造假類案件的調查情況，能夠更早地向市場釋放退市風險訊號，便利投資者及時調整投資策略，壓縮市場炒作空間，避免不實資訊對市場的干擾，促使市場定價迴歸基本面。
+
+---
+
+### 2026-08-12 07:44:55  #國際
+
+【瑞士再保險瑞再研究院：野火威脅加劇令保險風險居高不下】瑞士再保險(Swiss Re)的研究部門表示，2026年上半年保險業的自然災害估算損失大幅下降，但野火和天氣事件帶來的風險依然很高。瑞士再保險瑞再研究院週二警告稱，野火風險是全球增長最快的氣象災害。該機構還表示，6月份創紀錄的高溫和乾燥天氣增加了歐洲迎來活躍野火季的可能性。瑞士再保險的巨災風險主管巴爾茨.格羅利蒙德(Balz Grollimund)表示：“歐洲最近的野火凸顯出，更炎熱、更乾燥的天氣正導致大型野火更有可能發生，而且隨著越來越多的住宅、商業和基礎設施建在風險敞口較大的地區，災害造成的損失也更為慘重。”瑞士再保險瑞再研究院的資料顯示，2026年上半年，自然災害造成的保險損失估算為420億美元，低於上年同期的910億美元。該機構表示，這一數字創下了自2020年新冠疫情高峰期以來的上半年最低水平，也比500億美元的10年平均水平低16%。該機構表示，上半年自然災害損失較少並不一定意味著全年都會比較平靜，因為受北大西洋颶風季的影響，保險損失通常更多地集中在下半年。
 
 ---
 
@@ -18720,209 +18840,5 @@ Gaza Peace Committee official says Gaza plan continues to be implemented effecti
 ### 2026-08-11 02:05:27  #MKT News
 
 A Gaza Peace Committee official said the committee will not ask Israel to rely on trust or to take irreversible actions until verified, on‑the‑ground steps are taken.
-
----
-
-### 2026-08-11 02:04:45  #MKT News
-
-A Gaza Peace Committee official said the Gaza roadmap was jointly formulated by the committee and Hamas, and consultations with Israel are ongoing.
-
----
-
-### 2026-08-11 02:04:20  #市場 #國際
-
-布倫特原油期貨每桶上漲 4 美元，伊朗與美國互相提出賠償要求，霍爾木茲海峽局勢緩和的預期消退。
-
----
-
-### 2026-08-11 02:04:03  #國際
-
-加沙和平委員會官員：並未要求以色列僅憑信任行事，也不要求其在實地落實經核實的舉措之前採取不可逆轉的行動。
-
----
-
-### 2026-08-11 02:04:02  #MKT News
-
-The Hill reported that the Trump administration revoked more than 175,000 visas.
-
----
-
-### 2026-08-11 02:03:48  #國際
-
-加沙和平委員會官員：加沙路線圖由和平委員會與哈馬斯雙方擬定，同以色列的磋商仍在進行。
-
----
-
-### 2026-08-11 02:03:17  #國際
-
-美國白宮稱特朗普今天將簽署疫苗行政命令。
-
----
-
-### 2026-08-11 01:52:46  #MKT News #Market Themes #The Trump Trade
-
-CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time.
-
----
-
-### 2026-08-11 01:52:13  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%.
-
----
-
-### 2026-08-11 01:50:00  #市場 #焦點
-
-上海原油連續主力合約日內漲4%，現報553.40元。
-
----
-
-### 2026-08-11 01:49:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
-
-【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs.
-
----
-
-### 2026-08-11 01:49:10  #國際
-
-市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。
-
----
-
-### 2026-08-11 01:48:12  #MKT News
-
-FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race.
-
----
-
-### 2026-08-11 01:46:10  #國際
-
-美國聯邦航空管理局：里根國家機場預計將於 8 月 23 日上午 10 點 15 分至下午 1 點 15 分暫停航班運營，以保障 Freedom 250 汽車賽事開展。
-
----
-
-### 2026-08-11 01:43:41  #國際
-
-嘉能可支援的一個美國投資者團體考慮拯救鈷冶煉商Sherritt。
-
----
-
-### 2026-08-11 01:43:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-On Iran talks, U.S. President Trump said Iran should be held responsible for the damage and deaths it has caused to the people of Lebanon, Syria, Yemen and Gaza.
-
----
-
-### 2026-08-11 01:40:23  #MKT News
-
-A minister said the Chilean government will recapitalize 100% of state-owned copper producer Codelco's 2025 profits.
-
----
-
-### 2026-08-11 01:40:22  #國際
-
-特朗普：伊朗也應對其給周邊國家造成的損害承擔責任，伊朗也應該為葉門和敘利亞的損失負責。
-
----
-
-### 2026-08-11 01:39:37  #國際
-
-特朗普：伊朗應為黎巴嫩和加沙的損失負責。
-
----
-
-### 2026-08-11 01:39:23  #MKT News
-
-【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations.
-
----
-
-### 2026-08-11 01:38:53  #Trading Economics #Markets #commodity #Importance 0
-
-Gasoline is up by 5% — Gasoline increased 5% to 3.1346 USD/Gal
-
----
-
-### 2026-08-11 01:37:48  #其他
-
-OpenAI 就人工智慧基礎設施事宜致函得克薩斯州州長，闡述對負責任開發的相關承諾。
-
----
-
-### 2026-08-11 01:35:58  #其他
-
-【南非多地遭遇持續強降雪 交通嚴重受阻】南非多地10日持續遭遇強降雪、凍雨和大風天氣，誇祖魯-納塔爾省山區積雪嚴重，部分道路被迫關閉，大量車輛滯留，交通運輸受到影響。南非道路交通管理部門當天警告，未來幾天部分高海拔地區仍將面臨低溫、降雪天氣，民眾非必要請勿前往受影響地區。有關部門已啟動應急響應，開展道路除冰和救援工作。 (央視新聞)
-
----
-
-### 2026-08-11 01:35:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose 6.0% intraday to $80.93/bbl.
-
----
-
-### 2026-08-11 01:34:51  #其他
-
-巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。
-
----
-
-### 2026-08-11 01:29:43  #MKT News #Important #Commodities #Energy #Brent
-
-Barclays maintains Brent price forecasts at $96/bbl for 2026 and $85/bbl for 2027.
-
----
-
-### 2026-08-11 01:28:43  #其他
-
-美軍非洲司令部證實8月9日一架軍機在吉布提墜毀。
-
----
-
-### 2026-08-11 01:21:54  #公司 #國際
-
-【比特幣資金流入創四個月新高，駭客事件動搖持有者信心】美國上市的比特幣交易所交易基金（ETFs）錄得自4月以來最強勁的單週資金流入，上週吸引超過8.5億美元資金。此次資金流入激增，正值加拿大公司Coinkite製造的Coldcard錢包被曝存在安全漏洞、約1.3億美元比特幣被盜事件被披露之後。這起駭客事件促使部分分析師認為，投資者可能正轉向華爾街受監管的加密產品（如現貨比特幣ETF），將其視為更具吸引力的選擇。
-
----
-
-### 2026-08-11 01:21:16  #MKT News #Important #Market Themes #AI Revolution
-
-OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work.
-
----
-
-### 2026-08-11 01:18:40  #其他
-
-OpenAI：我們正在擴充套件我們的網路安全計劃 Daybreak，並推出 GPT-5.6-Cyber，這是一個專為高階授權網路安全工作設計的新模型。
-
----
-
-### 2026-08-11 01:16:35  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-11 01:16:10  #央行 #國際
-
-週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。
-
----
-
-### 2026-08-11 01:16:06  #國際
-
-伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。
-
----
-
-### 2026-08-11 01:16:02  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
-
-The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes.
-
----
-
-### 2026-08-11 01:14:50  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump extends Jones Act waiver 90 days, narrows scope to energy shipments】President Trump extended the Jones Act waiver allowing foreign vessels to move oil and other goods in U.S. waters for 90 days, but narrowed the exemption to energy cargoes after Iran-related disruptions to crude flows pushed fuel costs higher. The new waiver targets gasoline, jet fuel, crude, napatha, LNG, soybean oil and fertilizer. The Pentagon must consult the U.S. Maritime Administration before approving waivers for individual voyages. The White House said the move secures supplies for the military and key industries and increases domestic transport of gasoline, diesel and jet fuel; U.S. shipbuilders and some members of Congress say the waiver weakens protections for the domestic shipping industry.
 
 ---

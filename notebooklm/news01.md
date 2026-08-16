@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 15:36:46_
-_本檔包含 3044 則快訊，約 601917 字_
+_更新時間：2026-08-16 15:58:49_
+_本檔包含 3034 則快訊，約 601765 字_
+
+---
+
+### 2026-08-16 15:55:58  #國際
+
+【俄國防部：俄防空系統夜間在俄上空擊落822架烏克蘭無人機】俄羅斯國防部16日表示，俄防空系統夜間在俄羅斯上空攔截並摧毀822架烏克蘭無人機。俄國防部表示：“隔夜，執勤防空系統在別爾哥羅德州、布良斯克州、弗拉基米爾州、伏爾加格勒州、沃羅涅日州、卡盧加州、庫爾斯克州、利佩茨克州、下諾夫哥羅德州、奧廖爾州、羅斯托夫州、梁贊州、坦波夫州、圖拉州、莫斯科地區、克拉斯諾達爾邊疆區、克里米亞共和國、黑海和亞速海水域上空攔截並摧毀822架烏克蘭固定翼無人機。”
+
+---
+
+### 2026-08-16 15:55:55  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Russian Defence Ministry says air-defence systems shot down 822 Ukrainian drones overnight over Russian airspace】Russian Defence Ministry said on the 16th that Russian air-defence systems intercepted and destroyed 822 Ukrainian fixed-wing drones overnight across Russian airspace, including over Belgorod, Bryansk, Vladimir, Volgograd, Voronezh, Kaluga, Kursk, Lipetsk, Nizhny Novgorod, Oryol, Rostov, Ryazan, Tambov, Tula, Moscow region, Krasnodar Krai, the Republic of Crimea and the Black Sea and Sea of Azov.
+
+---
+
+### 2026-08-16 15:54:57  #其他
+
+【廣州地質災害氣象風險預警】經廣州市規劃和自然資源局與市氣象局聯合會商，預計未來24小時，白雲區黃石街道、景泰街道、雲城街道、同和街道，花都區花山鎮、梯面鎮，黃埔區九佛街道、聯和街道、龍湖街道、長嶺街道、新龍鎮，天河區長興街道、鳳凰街道、龍洞街道、興華街道、五山街道、元崗街道地質災害氣象風險預警級別為3級，請有關單位做好防禦。廣州預警釋出中心2026年8月16日15時30分發布 。（廣州天氣）
+
+---
+
+### 2026-08-16 15:51:15  #MKT News #DXY #Impact bullish #Brent #EURUSD #Impact bearish
+
+A NATO military headquarters spokesman said the drone shot down in Romanian airspace appears to be Russian.
+
+---
+
+### 2026-08-16 15:51:03  #MKT News
+
+Al Arabiya TV cited Yemeni military sources saying government air defenses successfully intercepted a Houthi drone over Mokha, Yemen.
+
+---
+
+### 2026-08-16 15:49:17  #國際
+
+北約軍事總部發言人就早前羅馬尼亞領空被擊落的無人機發表講話：該無人機疑似為俄羅斯所有。
+
+---
+
+### 2026-08-16 15:48:54  #其他
+
+葉門政府軍：防空部隊擊落一架胡塞武裝無人機，第二枚彈道導彈在穆哈墜落。
+
+---
+
+### 2026-08-16 15:48:18  #公司
+
+【前7月全國鐵路傳送旅客28億人次】記者從中國國家鐵路集團有限公司獲悉，今年前7個月，全國鐵路傳送旅客28億人次，同比增長4.1%，再創歷史同期新高。前7個月，鐵路部門統籌用好武漢至西安高鐵西安東至十堰東段、金華至建德高鐵蘭溪東至建德段等新線新站資源，加大運力投放，全國鐵路日均安排開行旅客列車11462列，同比增加571列、增長5.2%。跨境旅客運輸方面，廣深港高鐵傳送跨境旅客2004.9萬人次，中老鐵路傳送跨境旅客21.4萬人次，同比分別增長11.5%、38.2%。鐵路部門積極適應國家過境免籤政策帶來的客流增長，為外籍旅客出行提供便利，全國鐵路傳送外籍旅客1485.2萬人次，同比增長32.5%。與此同時，鐵旅融合發展成效顯著。鐵路部門積極對接各地文旅部門，強化與景區、酒店的銜接，催生“鐵路+旅遊”新場景、新業態，有效拉動文旅消費。前7個月，全國鐵路累計開行旅遊列車2159列，其中旅遊專列1184列、旅遊專線975列。（經濟日報）
+
+---
+
+### 2026-08-16 15:46:36  #MKT News
+
+【Bohai Strait, northern Yellow Sea closed for military tasks; navigation prohibited】China Maritime Safety Administration posted that the Dalian Maritime Safety Administration issued a navigational warning: parts of the Bohai Strait and northern Yellow Sea will be closed for military tasks and are off-limits to vessels from 16:00 on Aug 16 until 16:00 on Aug 30.
+
+---
+
+### 2026-08-16 15:44:01  #其他
+
+葉門政府軍：胡塞武裝再次以導彈和無人機襲擊摩卡港。
+
+---
+
+### 2026-08-16 15:43:35  #其他
+
+【航行警告！渤海海峽黃海北部執行軍事任務 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，8月16日16時至30日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。
+
+---
+
+### 2026-08-16 15:41:08  #公司
+
+【三瑞智慧：上半年歸母淨利潤同比增長65.45%】三瑞智慧8月16日披露半年報，公司上半年實現營業收入7.35億元，同比增長68.79%；歸屬於上市公司股東的淨利潤2.65億元，同比增長65.45%；基本每股收益0.71元/股。
+
+---
+
+### 2026-08-16 15:38:53  #國際
+
+【烏克蘭多地遭大規模空襲致人員傷亡，澤連斯基呼籲西方加快防空援助】烏克蘭總統澤連斯基16日表示，俄羅斯近日對烏克蘭多地發動大規模空襲，造成包括基輔在內的多個地區平民傷亡和基礎設施受損。他呼籲西方夥伴加快提供防空武器，以保護平民生命和關鍵基礎設施。澤連斯基指出，俄軍在過去一週內對烏克蘭13個地區發動襲擊，共發射超過1550架攻擊型無人機、近1560枚滑翔制導炸彈和62枚各型導彈，其中大部分為彈道導彈。在16日的襲擊中，基輔市及周邊地區有6人受傷，克雷門丘克和克里沃羅格也遭到彈道導彈打擊。克里沃羅格市有2人死亡、14人受傷，蘇梅州有1人遇難。澤連斯基對烏克蘭緊急救援部門、警察和醫療人員的快速響應表示感謝。他強調，面對俄軍持續使用包括朝鮮產彈道導彈在內的武器對歐洲平民目標實施打擊，西方盟友的防空攔截彈不應繼續閒置在倉庫中。他敦促夥伴國家儘快提供新的防空援助方案，以挽救生命並保護關鍵基礎設施。
+
+---
+
+### 2026-08-16 15:37:26  #公司
+
+【王府井：首次以集中競價方式回購8萬股股份 耗資78.84萬元】王府井公告稱，公司於2026年7月2日及7月20日分別召開董事會及股東會，審議透過回購股份方案，將在12個月內使用5000萬元-10000萬元自有資金，以不超15.60元/股的價格回購股份用於減少註冊資本。8月14日，公司首次以集中競價方式回購8萬股，佔總股本的0.01%，成交最高價9.87元/股，最低價9.85元/股，支付資金78.84萬元。
 
 ---
 
@@ -18233,149 +18317,5 @@ Hang Seng Falls to 3-Week Low — The Hang Seng Index fell about 0.9% to 25,160 
 ### 2026-08-14 12:07:24  #國際
 
 【受日元干預擔憂影響 外國投資者連續第二週淨賣出日股】在截至8月8日止的一週，外國投資者連續第二週拋售日本股票，因市場預期當局將進一步採取支撐日元的措施，這削弱了投資人對日本股市的買盤意願。日本財務省資料顯示，該周外國投資者淨賣出價值3,685億日元（合23.1億美元）的日本股票，此前一週為淨賣出3,925億日元。上週，日本財務省表示，美國與日本已協同進行買入日元的干預行動，並將毫不猶豫地採取進一步措施。在干預行動後，日元上週一度觸及155.21日元兌1美元的近三個月高點。最新交易價為159.43日元兌1美元。日元升值會提高外國投資人所持日本資產的美元價值，但同時也會降低他們以美元購買新股的購買力。
-
----
-
-### 2026-08-14 12:05:31  #觀點
-
-據英國金融時報報導，摩根大通去年因監管擔憂終止了與Polymarket的銀行業務關係。
-
----
-
-### 2026-08-14 12:05:22  #公司 #觀點
-
-【高盛上調閃迪、應用材料目標價】加拿大皇家銀行將應用材料公司目標價從520美元上調至600美元；將閃迪目標股價從1300美元上調至1600美元。
-
----
-
-### 2026-08-14 12:04:59  #MKT News
-
-Indonesia's president said this does not mean Danantara Sumberdaya will control all exports, but the company can monitor export volumes.
-
----
-
-### 2026-08-14 12:04:36  #MKT News
-
-Indonesia's president said Danantara Sumberdaya will tighten oversight of strategic bulk commodity exports at 50 ports.
-
----
-
-### 2026-08-14 12:04:06  #MKT News
-
-Indonesia's president said state-owned bulk-commodity manager Danantara Sumberdaya will, in the near term, manage all strategic export commodities, expanding its remit beyond palm oil, coal and ferroalloys.
-
----
-
-### 2026-08-14 12:03:58  #公司
-
-【胖東來：鄭州店擬招聘100名退伍邊防軍人及20名刑滿釋放人員】8月14日，胖東來發布《胖東來鄭州店招聘退伍邊防軍人及刑釋人員提前公告》。其中提到，在本次招聘中，公司計劃招聘100名退伍邊防軍人，20名刑期5年以上的刑滿釋放人員，併為其設立專屬報名投遞通道。胖東來表示，希望各個群體的人們都能夠得到社會的尊重和關愛。
-
----
-
-### 2026-08-14 12:03:17  #公司 #觀點 #國際
-
-【訊息人士：高盛在獲得關鍵職位後，正就英偉達融資交易與投資者進行磋商】知情人士透露，高盛集團正與潛在投資者就參與英偉達5000億美元人工智慧融資計劃進行磋商。此前，高盛憑藉與這家晶片製造商的長期合作關係，在該交易中爭取到了一個備受追捧的角色。其中一位知情人士稱，美國保險公司、資產管理公司和銀行預計將構成該融資計劃的核心投資者群體；而另一位訊息人士則表示，資產管理公司計劃保留該融資計劃中相當大的一份份額。英偉達於8月10日宣佈，已與包括高盛在內的六家主要金融機構合作，推出計算平臺，旨在為人工智慧基礎設施籌集超過5000億美元的第三方資本。此舉凸顯了人工智慧計算能力需求的激增如何吸引機構投資者，因為各國政府、企業和初創公司正競相擴建資料中心以支援人工智慧工作負載。第二位訊息人士稱，高盛可透過其資產管理部門提供次級資本和私募信貸融資，同時其投資銀行部門也可協助將相關債務置入私募信貸基金，並最終引入公開債務市場。
-
----
-
-### 2026-08-14 12:03:01  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #WTI
-
-Bank Negara Malaysia said it expects commodity price rises from the Middle East conflict to add upward pressure to inflation, but expects the impact to be contained.
-
----
-
-### 2026-08-14 12:02:41  #MKT News
-
-Bank Negara Malaysia said it will continue to closely monitor developments and assess the risk balance to domestic inf and the economic growth outlook.
-
----
-
-### 2026-08-14 12:02:30  #MKT News
-
-Bank Negara Malaysia said domestic demand remains strong and the overall impact from the Middle East conflict is contained.
-
----
-
-### 2026-08-14 12:02:01  #MKT News
-
-Bank Negara Malaysia expects inflation to remain moderate in 2026.
-
----
-
-### 2026-08-14 12:01:54  #MKT News
-
-Bank Negara Malaysia said Malaysia's supply chains remain resilient despite rising prices.
-
----
-
-### 2026-08-14 12:01:22  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish
-
-Goldman Sachs is in talks with potential investors to participate in NVIDIA's $500 billion AI financing plan, sources said.
-
----
-
-### 2026-08-14 12:00:21  #國際
-
-馬來西亞2季度GDP終值同比增長6%; 預估為+5.8%。
-
----
-
-### 2026-08-14 12:00:06  #公司 #國際
-
-印度尼西亞總統：近期，國有公司印度尼西亞丹塔拉資源公司將負責管理所有戰略出口商品，而非僅棕櫚油、煤炭與鐵合金。
-
----
-
-### 2026-08-14 11:59:59  #公司 #國際
-
-印度尼西亞總統：這並不意味著國營企業丹塔拉印尼資源公司（Danantara Sumberdaya Indonesia）將掌控所有出口業務，該企業僅可對出口規模進行監管。
-
----
-
-### 2026-08-14 11:59:13  #其他
-
-加拿大皇家銀行將 閃迪  目標價從1300美元上調至1600美元。
-
----
-
-### 2026-08-14 11:57:57  #MKT News #SNDK.O #Impact bullish
-
-RBC raises SanDisk (SNDK.O) PT to $1,600 from $1,300.
-
----
-
-### 2026-08-14 11:57:01  #國際
-
-【普拉博沃希望成立特別法庭調查國有企業前高管】印尼總統普拉博沃表示，或將設立特別法庭，調查過去三十年間國有企業的前董事會成員。普拉博沃稱，本屆政府成立Danantara主權財富基金時，有數百家國有企業過去 “為所欲為，不受任何約束”。他在第二次國情諮文演講中表示，對於 “悔過並承認自身過錯” 的相關官員，可給予特赦。普拉博沃的目標是到2026年底將國有企業數量控制在300家以內，並補充說，政府已經關閉了290家。此舉已節省 50 萬億印尼盾管理開銷，目標是到年底累計節省超 70 萬億印尼盾。在演講早前部分，普拉博沃表示，他有信心印尼經濟增速可在 2026 年底達到 6%。
-
----
-
-### 2026-08-14 11:54:03  #MKT News #AMAT.O #Impact bullish
-
-RBC raises PT for Applied Materials (AMAT.O) to $600 from $520.
-
----
-
-### 2026-08-14 11:52:31  #國際
-
-普拉博沃：預計國有企業今年將派發200萬億印尼盾股息。
-
----
-
-### 2026-08-14 11:52:21  #國際
-
-普拉博沃：希望印尼鷹航 2027 年初實現盈利。
-
----
-
-### 2026-08-14 11:52:03  #其他
-
-【金山辦公“靈犀”接入DeepSeek-V4-Pro正式版，已向使用者開放】金山辦公旗下AI辦公智慧體靈犀專業版宣佈接入DeepSeek-V4-Pro正式版。使用者在靈犀專業版內切換至該模型即可直接使用，無需額外配置。 據DeepSeek官方文件及公佈的評測資料，V4-Pro-0813是DeepSeek最新旗艦模型，原生支援100萬token超長上下文，單次最大輸出達38.4萬token，相關基準測試成績較此前的Preview版本全面提升。（新浪科技）
-
----
-
-### 2026-08-14 11:51:38  #公司
-
-【時耘科技首批人形機器人產品下線】據天津發布，8月13日，在天津市河西區空天數字產業園，數月前剛落址園區的時耘科技，實現首批人形機器人產品下線。據瞭解，這款工業級的人形機器人身高174CM，可無縫適配人類作業環境，可廣泛適配電力巡檢、安防巡邏、工業運維、應急勘查、場站值守等多元場景，在高危、高強度、高重複的專業作業領域發揮作用，不僅開箱即用，還能在室內外場站、廠區、野外實現全域導航、無縫切換。時耘科技CEO曹克乾表示，隨著首批人形機器人產品RD3 Ultra的正式下線，公司今年計劃落地10個標準化應用場景，並預計在2027年實現產品的規模化交付。
 
 ---
