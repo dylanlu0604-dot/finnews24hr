@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 06:34:08_
-_本檔包含 2982 則快訊，約 600380 字_
+_更新時間：2026-08-17 06:53:39_
+_本檔包含 2983 則快訊，約 601423 字_
+
+---
+
+### 2026-08-13 14:16:34  #MKT News
+
+Wildberries said a fire broke out at a company's industrial park in Bashkortostan, Russia.
+
+---
+
+### 2026-08-13 14:15:58  #公司 #國際
+
+俄羅斯線上零售商Wildberries：巴什科爾託斯坦一公司工業區發生火災。
+
+---
+
+### 2026-08-13 14:15:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+【UK Q2 GDP Holds, Growth Seen Slowing in H2】ONS data showed GDP for the three months to June rose 0.4% QoQ, down from 0.6% in Q1 and in line with economists' forecasts. Services drove the expansion; May was flat and June rose 0.3% month-on-month (economists had forecast -0.1%). Analysts say the UK largely weathered the initial months of the Iran war and consumer spending supported activity in Q2, but the Bank of England and economists expect growth to weaken as the conflict’s full effects emerge. Momentum in 1H 2026 is expected to ease into a muted H2 as a 13% July increase in the energy price cap squeezes households and policy uncertainty has risen after Burnham became the UK’s seventh prime minister in over a decade.
+
+---
+
+### 2026-08-13 14:15:03  #Trading Economics #Economy #United Kingdom #Balance of Trade #Importance 1
+
+UK Trade Deficit Widens in June — The United Kingdom's trade deficit increased to £5.54 billion in June 2026, up from an upwardly revised £3.46 billion in the previous month, as exports fell more than imports. Exports dropped 2.8% mom to £80.21 billion, while imports edged down 0.2% to a four-month low of £85.74 billion. Goods exports shed 6.4% to £32.95 billion, driven by lower shipments to both EU and non-EU countries, which dropped 7.4% and 5.4%, respectively. Exports to the EU declined mainly due to a fall in fuel and chemical exports. Meanwhile, exports to non-EU countries were mainly weighed down by lower machinery and transport equipment exports. Services exports edged down 0.1% to £47.25 billion. On the import side, goods imports fell 0.6% to a four-month low of £55.96 billion.
+
+---
+
+### 2026-08-13 14:15:02  #公司
+
+【比依股份等成立資訊科技公司 含AI相關業務】企查查APP顯示，近日，上海目昇資訊科技有限公司成立，經營範圍包含人工智慧基礎資源與技術平臺；資訊系統執行維護服務；工業網際網路資料服務；資料處理服務等。企查查股權穿透顯示，該公司由比依股份等共同持股。
+
+---
+
+### 2026-08-13 14:14:09  #公司
+
+【馬士基上調2026年業績指引，預計全年基礎EBITDA最高125億美元】8月13日，馬士基宣佈上調2026年全年業績指引，預計全年基礎息稅折舊攤銷前利潤（EBITDA）為105億至125億美元，此前預期為80億至100億美元；基礎息稅前利潤（EBIT）預計為45億至65億美元，此前為20億至40億美元。公司同時預計全年自由現金流將為正，此前預期至少為負15億美元。馬士基表示，此次上調指引主要基於第二季度實際業績及對今年剩餘時間經營情況更高的可見度。公司預計2026年全球集裝箱運輸市場全年運量增長約4%。
+
+---
+
+### 2026-08-13 14:13:40  #MKT News
+
+【Zhongxin Tourism: National Day holiday bookings up 70% YoY as of Aug 12】As of Aug 12, Zhongxin Tourism said bookings for its National Day holiday products have reached 75% of capacity and are coming in materially faster than a year earlier; total sign-ups rose 70% YoY.
+
+---
+
+### 2026-08-13 14:13:20  #市場
+
+澳大利亞S&P/ASX 200指數收盤下跌0.2%，報9188.50點。
+
+---
+
+### 2026-08-13 14:13:11  #國際
+
+Uber：與日丸交通的合作基於此前與Wayve及日產簽訂的日本自動駕駛計程車合作現有諒解備忘錄。
+
+---
+
+### 2026-08-13 14:13:08  #Trading Economics #Economy #United Kingdom #Monthly GDP MoM #Importance 1
+
+UK Economy Grows 0.3% in June — The UK economy grew by 0.3% month-on-month in June 2026, compared with zero growth in May and market expectations for no change. The expansion was mainly driven by a 0.4% increase in services output (vs 0.1% in May), with the largest positive contribution coming from professional, scientific and technical activities, particularly scientific research and development, which rose to its highest level since January 2025, as well as legal activities. This more than offset declines in production and construction, which fell 0.2% and 0.1%, respectively. On an annual basis, GDP rose 1.1%, slowing slightly from a revised 1.2% increase in May but exceeding the market forecast of 0.8%. GDP increased by 0.4% in the three months to June, following a revised 0.6% expansion in the previous three-month period.
 
 ---
 
@@ -17942,59 +18002,5 @@ Korea Exchange activated the KOSPI sidecar mechanism (temporary trading halt), s
 ### 2026-08-12 10:56:45  #MKT News #Macro & Rates #The Fed (FOMC) #USDJPY #Impact bullish #DXY #Impact mixed
 
 【Yen option activity rises ahead of US CPI as traders hedge intervention risk, buy longer-dated USD/JPY calls】One-week USD/JPY option implied volatility rose for a second session on Wednesday after five days of declines as traders ramp up option activity ahead of the US CPI print. Market participants are using derivatives to position around an inflation read that could alter Fed policy and dollar direction. Short-dated vol and a premium in USD/JPY puts over calls show demand for protection amid lingering fears of coordinated US-Japan FX intervention and sudden dollar weakness; longer-dated vol has also ticked up as investors buy calls to bet on a later USD/JPY rebound.
-
----
-
-### 2026-08-12 10:56:43  #其他
-
-【中國海軍第49批護航編隊起航赴亞丁灣】中國海軍第49批護航編隊12日上午從海南三亞某軍港解纜起航，赴亞丁灣、索馬利亞海域接替第48批護航編隊執行護航任務。第49批護航編隊主要由南部戰區海軍兵力組成，包括導彈驅逐艦昆明艦、導彈護衛艦岳陽艦和大型遠洋綜合補給艦駱馬湖艦，攜帶艦載直升機2架、特戰隊員數十名。3艘軍艦均由我國自主設計建造，其中，昆明艦為首次執行護航任務。(新華社)
-
----
-
-### 2026-08-12 10:56:21  #公司 #國際 #原創
-
-【淡馬錫計劃投資三星電子和SK海力士】據知情人士稱，新加坡主權財富基金淡馬錫計劃投資三星電子和SK海力士，並已與韓國政府方面聯絡，商討投資時機。訊息人士稱，淡馬錫計劃透過其內部投資團隊直接進行投資，而不是透過外部資產管理公司。
-
----
-
-### 2026-08-12 10:56:14  #MKT News #CSI300 #Impact bullish #CNH #Hang Seng Index
-
-【Fan Gang: China property market showing relatively rapid price clearing】Economist Fan Gang said China’s property market has entered a relatively rapid price-clearing phase and the bottoming process could be faster than Japan’s at the time. He said China is undergoing a more market-driven structural adjustment as long-standing supply-heavy, weak-demand imbalances start to correct. The 15th Five-Year Plan now treats market demand as the scarcest resource, and consumption patterns are shifting: younger, tech-affluent buyers increasingly prioritise housing quality, with luxury homes in major cities becoming a sales driver—signalling a move toward a more market-oriented growth dynamic.
-
----
-
-### 2026-08-12 10:53:55  #市場
-
-【本月伺服器DDR5記憶體條價格全面上漲15%至23%】隨著三季度原廠價格進一步上行，本月伺服器DDR5價格上漲15%至23%，32GB/64GB/96GB DDR5 RDIMM分別上漲至900/1590/2650美金。現貨伺服器RDIMM市場上，貿易端32GB D5介於1800~2100美金，64GB D5介於3000~3200美金，96GB D5介於3800~4100美金，合約與現貨DDR5尤其是96GB的價差呈現收窄趨勢。原廠DDR5供應依然維持供不應求，不過隨著合約價逐季上漲，伺服器大客戶對記憶體成本的上漲更為敏感，加之長協相繼落地，大客戶D5供應得到一定保障，DDR5漲幅預計將更加溫和。
-
----
-
-### 2026-08-12 10:52:47  #公司
-
-【上海電氣、發那科機器人等成立技術公司】企查查APP顯示，近日，上發技術（上海）有限公司成立，法定代表人為錢暉，註冊資本為2億元，經營範圍包含智慧機器人的研發；工業機器人制造；工業機器人安裝、維修；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由上海電氣全資子公司上海電氣自動化集團有限公司、上海發那科機器人有限公司等共同持股。
-
----
-
-### 2026-08-12 10:52:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold was up 1.00% on the day at $4,411.72/oz; New York gold futures gained just over 1.00% to $4,472.10/oz.
-
----
-
-### 2026-08-12 10:52:17  #MKT News
-
-【Live-fire exercises in parts of South China Sea; entry prohibited Aug 12 05:00-18:00】Shanwei Maritime Safety Administration posted on the China Maritime Safety Administration website a navigation warning that parts of the South China Sea will host live-fire exercises from Aug 12 05:00 to 18:00; the area is closed to navigation.
-
----
-
-### 2026-08-12 10:51:00  #其他
-
-【航行警告！南海部分海域進行實彈射擊 禁止進入】據中國海事局網站訊息，汕尾海事局釋出航行警告，8月12日5時至18時，南海部分海域進行實彈射擊，禁止進入。
-
----
-
-### 2026-08-12 10:50:52  #MKT News #000001.SS #Impact bullish #000300.SS
-
-A-share CPO concept extended gains; Yongding Co. hit the daily trading limit. Tianfu Communications, Shijia Photonics, Taichen Optoelectronics, Hengdong Optics, Yuanjie Technology and Dekeli also rose.
 
 ---

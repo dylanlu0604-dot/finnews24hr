@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 06:34:08_
-_本檔包含 2913 則快訊，約 600378 字_
+_更新時間：2026-08-17 06:53:39_
+_本檔包含 2914 則快訊，約 600451 字_
+
+---
+
+### 2026-08-11 08:42:39  #央行 #其他
+
+新加坡央行官員：當前貨幣政策立場仍屬恰當。
+
+---
+
+### 2026-08-11 08:41:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Singapore's Ministry of Trade and Industry said falling oil inventories and an influx of alternative energy will restrain upward pressure on global energy prices.
+
+---
+
+### 2026-08-11 08:41:20  #MKT News
+
+A Singapore trade official said an anticipated 12.5% US tariff on Singapore exports is not expected to affect trade flows.
+
+---
+
+### 2026-08-11 08:41:16  #MKT News #Market Themes #AI Revolution
+
+【Qianwen Office Assistant launches paid tiers; top annual price 1,499 yuan】On the evening of Aug 10 the Qianwen app rolled out paid plans for its Office Assistant aimed at professional users. Three tiers are offered: Flagship (128 yuan/month or 1,499 yuan/year, auto-renew) with a 20x usage quota; Elite (49 yuan/month or 568 yuan/year) with a 5x quota; Advanced (19 yuan/month or 200 yuan/year) with a 2x quota. Qianwen says core features remain free and routine use will not be affected.
+
+---
+
+### 2026-08-11 08:40:56  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Mixed Sector Moves Hold ASX Steady Before RBA Rate Decision — Australian shares steadied in early Tuesday trade, hovering near 9,237 after two sessions of weakness. Traders kept a cautious stance ahead of the Reserve Bank’s policy decision later today, with consensus pointing to rates staying at 4.35% following three hikes this year aimed at cooling inflation amid global uncertainty. Attention also turned to July’s NAB business sentiment survey after June marked a four-month high. Offshore sentiment weighed, as U.S. futures eased after Wall Street losses overnight due to higher oil and tech sector drag. Logistics, consumer durables, tech, and industrial services fell, while energy minerals, non-energy minerals, and healthcare offered support. Standout gainers included Santos (4.1%), Woodside (2.6%), and CSL (1.5%). The big banks mostly slipped, down between 0.3% and 0.8%, with Westpac’s earnings disappointing. Other notable laggards were SGH Ltd. (-6.7%), CAR Group (-3.4%), and Qantas Airways (-2.2%).
 
 ---
 
@@ -17561,29 +17591,5 @@ NZX 50 Edges Higher to Start the Week — New Zealand's stocks climbed 34 points
 ### 2026-08-10 06:54:42  #MKT News #WTI #Impact bearish #XAUUSD #DXY
 
 Axios reports a senior U.S. official said the White House views Netanyahu’s statements on a Gaza plan as election-season political posturing and is unconcerned. The White House understands his domestic political pressures and will not object so long as Israel complies with U.S. requests—particularly to limit strikes on Gaza.
-
----
-
-### 2026-08-10 06:51:05  #公司 #焦點
-
-【宇樹科技今起申購】8月10日，宇樹科技將在科創板開啟申購，A股“人形機器人第一股”將正式登場。宇樹科技發行價格為150.80元/股，上市時市值約為609.93億元，預計募資總額達60.99億元。公告顯示，宇樹科技的網上、網下申購日為8月10日，繳款日為8月12日。其中，網上申購程式碼為“787836”，證券程式碼及網下申購程式碼為“688836”。此次網上預計發行647.1萬股，市場預估中籤率為0.02%–0.03%。
-
----
-
-### 2026-08-10 06:47:52  #國際
-
-【特朗普任命威爾·沙夫出任新任白宮法律顧問】特朗普宣佈，威爾·沙夫將於9月就任新任白宮法律顧問。此次人事調整發生在中期選舉前夕，國會也或將啟動多輪調查。沙夫將接替戴維·沃靈頓。沃靈頓是特朗普的私人律師，就職前效力於特朗普競選團隊，之後出任白宮法律顧問。特朗普在真實社交平臺發帖稱，沃靈頓接下來將轉赴私營部門任職。人事交接將於9月1日正式啟動。現年40歲的沙夫在特朗普本屆政府身兼數職。公眾最常看到他在橢圓形辦公室，向總統遞交待簽署的行政命令。他同時擔任白宮幕僚秘書與國家首都規劃委員會主席，該委員會負責監管特朗普在華盛頓推進的各類建設專案，其中就包括白宮新建宴會廳專案。沙夫畢業於普林斯頓大學，之後就讀哈佛大學法學院。他曾在密蘇里州從事政治活動，2024年參選該州總檢察長，但競選失利。競選期間，特朗普挑選他加入自己的法律團隊。
-
----
-
-### 2026-08-10 06:47:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran swaps national security chief as Strait of Hormuz talks reach critical stage】As diplomatic talks to reopen the Strait of Hormuz reached a critical stage, Iran’s supreme leader Mujtaba appointed Zolghadr as his political adviser and named Rezaei secretary of the Supreme National Security Council and the leader’s representative on that council. Rezaei led the IRGC from 1981–1997 and has served as secretary of the Expediency Council. Both men are hardliners and former IRGC commanders; it is unclear how the changes will alter Tehran’s negotiating stance. Political sources said Zolghadr’s resignation was unrelated to security and that his conditions for reopening the strait align with Mujtaba’s views and must be met for talks to proceed. Officials link Iran’s tougher posture to recent U.S. military activity in the region, U.S.-Israel cooperation and Israeli readiness to assist strikes on Iran; internal differences over the strait are described as normal but final decisions rest with Mujtaba.
-
----
-
-### 2026-08-10 06:45:36  #國際
-
-【美要“換牌” 伊朗“換將” 美伊博弈變數猶存】當地時間8月9日，伊朗批准霍爾木茲海峽安全綱要，完成安全決策機構多個人事調整，並再次強調對霍爾木茲海峽的管控。美方同日則表態在“低調處理”伊朗問題，暗示將以經濟施壓替代大規模軍事行動。分析認為，霍爾木茲海峽能否重開仍取決於美伊博弈，短期內變數猶存。（央視新聞）
 
 ---

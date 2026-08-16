@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 06:34:08_
-_本檔包含 3101 則快訊，約 601436 字_
+_更新時間：2026-08-17 06:53:39_
+_本檔包含 3103 則快訊，約 601240 字_
+
+---
+
+### 2026-08-17 06:52:49  #Trading Economics #Economy #New Zealand #Food Inflation #Importance 1
+
+New Zealand Food Inflation at 20-Month Low — Annual food inflation in New Zealand eased to 1.9% in July 2026 from 2.5% in June, marking the softest increase since November 2024.
+
+---
+
+### 2026-08-17 06:49:03  #國際
+
+市場資訊：特朗普政府建立了與伊朗革命衛隊的秘密溝通渠道，特朗普藉助伊拉克庫爾德地區領導人巴爾扎尼聯絡到一名革命衛隊指揮官；巴爾扎尼主動提出協助重啟美伊談判。
+
+---
+
+### 2026-08-17 06:47:58  #MKT News
+
+Spot silver climbed above $65/oz, up 0.53% intraday.
+
+---
+
+### 2026-08-17 06:46:31  #MKT News
+
+New Zealand July food price index YoY 1.9%, previous 2.5%.
+
+---
+
+### 2026-08-17 06:46:23  #MKT News #Economic Calendar #Important
+
+New Zealand | Food Price Index (YoY) (Jul) | actual 1.9% | previous 2.5%
+
+---
+
+### 2026-08-17 06:45:18  #市場
+
+紐西蘭統計局：紐西蘭7月食品價格通脹指數較上月上漲0.1%。
+
+---
+
+### 2026-08-17 06:45:13  #MKT News #Important #DXY #Impact mixed #S&P500 #US10Y
+
+【This week: China July data; Fed minutes; US signals economic measures on Iran】Monday — China releases July retail sales, industrial production (above‑scale) and total electricity consumption; PBOC overnight reverse repo operations scheduled Aug 17–19; Canada July CPI; US NY Fed manufacturing and NAHB housing index. Bessent warned this week of “unprecedented” US economic measures against Iran. Earnings: Geely. Tuesday — UK three‑month ILO unemployment and July jobless claims; Germany and eurozone ZEW surveys; US ADP payrolls, housing starts, building permits, import PPI, industrial production, pending home‑sales index. Earnings: China Unicom, Xiaomi (results call), Baidu (results call). Wednesday — US API and EIA crude inventories; UK July CPI and RPI; eurozone June current account and final July CPI. ECB President Lagarde speaks at WEF. Earnings: Kuaishou (results call), ZTO, Kingsoft, HKEX, Weibo. Thursday — China: July Swift RMB share of global payments and one‑year LPR; Australia July unemployment; Germany July PPI; Swiss trade balance; UK CBI industrial orders; US initial jobless claims, Philly Fed index, Conference Board leading indicators, EIA gas stocks. Fed minutes released. Earnings: Ping An, China Telecom, NetEase, Alibaba, AIA, Li‑Ning, Pop Mart, Futu. Friday — UK consumer confidence, July retail sales, public sector net borrowing, Aug services PMI prelim; Japan July core CPI; preliminary Aug manufacturing PMIs for France, Germany, eurozone and UK; Canada June retail sales; US preliminary Aug S&P Global manufacturing and services PMIs; eurozone consumer confidence prelim. Events: Hang Seng index quarterly review results; NYMEX September crude roll. Earnings: ZTE, Sinopec, Beike. Saturday — US Baker Hughes rig count for week to Aug 21.
+
+---
+
+### 2026-08-17 06:45:08  #MKT News
+
+New Zealand July food price index MoM +0.1% vs +0.6% prior.
+
+---
+
+### 2026-08-17 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Food Price Index (MoM) (Jul) | actual 0.1% | previous 0.60%
+
+---
+
+### 2026-08-17 06:43:11  #焦點 #國際
+
+韓國國防部表示，與美國的聯合軍演將如期舉行。
+
+---
+
+### 2026-08-17 06:43:01  #國際
+
+市場資訊：亞洲煉油商正提前鎖定原油貨源，印度採購方已在尋找11月船貨；受烏克蘭襲擊俄煉油設施影響，俄羅斯面臨燃料短缺。原油實物供應韌性尚存，但價格上行風險高企。
+
+---
+
+### 2026-08-17 06:41:58  #公司
+
+【Anthropic聯合創始人承認人工智慧正遭遇信任危機】Anthropic聯合創始人兼執行長達里奧·阿莫代伊否認公眾對人工智慧普遍產生的末日感應由他負責，但他承認行業確實存在信任難題。他提到當下存在一種非此即彼的錯誤認知：一部分人認為監管會造成監管俘獲、權力集中；另一部分人則認為廣泛分發人工智慧模型（包括開源模型）才是約束技術風險的最優路徑。阿莫代伊指出，法院這類制度機構可以實現權力去中心化；同時他表示Anthropic支援相關政策：一方面約束前沿AI企業發展速度，另一方面為小型競爭對手創造發展優勢。隨後他談及自己過往有關AI的公開言論，否認自己言論過度悲觀。他表示自己撰寫的文章都會均衡闡述技術的風險與收益，但社交媒體為博取流量，經常擷取片段，將他的發言渲染成極度悲觀的論調。
+
+---
+
+### 2026-08-17 06:39:26  #其他
+
+Claude表示，正在調查身份驗證故障以及服務效能下降問題，該問題波及Claude AI、Claude Code及其他相關服務。
+
+---
+
+### 2026-08-17 06:36:42  #MKT News
+
+New Zealand Performance of Services Index (July) 50.6, prior 50.6.
+
+---
+
+### 2026-08-17 06:36:34  #MKT News #Economic Calendar #Important
+
+New Zealand | Performance of Services Index (Jul) | actual 50.6 | previous 50.6
+
+---
+
+### 2026-08-17 06:36:04  #國際
+
+【紐約曼哈頓下東區發生警察開槍事件 多人受傷】當地時間8月16日下午，美國紐約曼哈頓下東區發生一起警察開槍事件，造成多人受傷。目前警方正在展開調查。紐約市警察局表示，事件發生在當天16時左右，有六人被送往醫院治療，目前傷情暫不清楚。目前，警方尚未公佈開槍事件的具體經過、受傷人員身份以及是否有人被拘捕。事件仍在調查中。（央視新聞）
+
+---
+
+### 2026-08-17 06:34:07  #其他
+
+【哥倫比亞強震已致289人死亡 逾18萬人受災】哥倫比亞總統德拉埃斯普列亞16日說，該國10日發生的強震已造成289人死亡、143人失蹤、4187人受傷，受災人口超過18萬。（新華社）
 
 ---
 
@@ -18626,95 +18728,5 @@ The Shangai Composite Index Closes 0.07% Higher — The Shangai Composite Index 
 ### 2026-08-14 15:15:27  #MKT News #Market Regions #Japan & APAC
 
 【China defense ministry warns Japan's 'new militarism' poses regional risk】On Aug. 14 China's Ministry of National Defense spokesman Chen Xi said post-war Japan has not fully learned from history, has long tolerated right-wing revisionism and is undermining its pacifist constitution and 'exclusively defense' principle. He accused Tokyo of using so‑called "external threats" to justify sharp increases in defense spending, development of offensive capabilities and expansion of its defense-industrial base, calling this a 'new militarism' that threatens regional stability. Chen urged Japan to repent, cease remilitarization and abide by the post‑war international order, warning further missteps would bring more painful defeat and a more thorough reckoning.
-
----
-
-### 2026-08-14 15:15:21  #其他
-
-【水利部迅即安排部署賈魯河堤防險情應急處置工作】國家防總副總指揮、水利部部長李國英強調，一要加強雨水情監測預報，密切關注降雨和賈魯河上游洪水演進過程，精準把握洪峰流量、水位、歷時和洪水總量，及時將預報預警資訊直達地方防禦一線。二要立即開展地毯式排查，第一時間撤離洪水淹沒區受影響人員；根據地形條件加快構築第二道防線，儘量縮小洪水淹沒影響範圍。三要加強賈魯河沿線及下游沙潁河干流等河道堤防巡查防守，配足人員、料物和裝置，緊盯穿堤、交叉建築物等重點河段部位，及時排查並處置管湧、滲漏等險情，確保沿線城市和堤防防洪安全。會商會後，李國英即赴河南指導防汛搶險工作。
-
----
-
-### 2026-08-14 15:15:03  #市場
-
-【國債期貨收盤】 30年期主力合約漲0.09%， 10年期主力合約漲0.06%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-08-14 15:14:46  #經濟數據 #澳洲
-
-【澳大利亞新增住房貸款較第一季度下降5.2%】截至6月的三個月內，澳大利亞新增住房貸款較第一季度下降5.2%，創2022年底以來最大降幅，購房者借貸意願持續減弱。
-
----
-
-### 2026-08-14 15:14:26  #市場
-
-【瑞銀：上調中國移動目標價至83港元，維持“中性”評級】瑞銀髮表報告指，中國移動第二季服務收入同比跌4.8%至2330億元，EBITDA同比跌7.9%至970億元，純利同比跌7.5%至500億元，較瑞銀及市場預期低1%至9%，主要受增值稅調整及宏觀經濟逆風影響。雲與AI相關業務表現強勁。資料中心收入同比增13.2%，雲端計算服務收入同比增18%。累計AIDC合約容量達7GW，其中5GW為上半年新增。中期股息每股2.51元，同比持平，瑞銀認為此預示全年股息穩定。瑞銀微調預測，並將估值模型延伸六個月，目標價由81港元上調至83港元，維持“中性”評級，認為現價對應2026年預測股息率約6%至7%，可為股價提供支援。
-
----
-
-### 2026-08-14 15:13:42  #國際
-
-【美媒：張振熙或接任白宮新聞秘書 】據美國《紐約郵報》網站8月12日報道，白宮通訊主任張振熙是有望接替即將離任的白宮新聞秘書卡羅琳·萊維特的熱門人選之一，他是一名加利福尼亞州人，曾效力於時任州長阿諾德·施瓦辛格。 評論人士稱，張振熙是該職位的合適人選。萊維特休產假期間，張振熙曾代管她的部分工作。（參考訊息）
-
----
-
-### 2026-08-14 15:13:27  #其他
-
-北約軍事總部發言人：已確認，一架未識別無人機進入拉脫維亞領空後，北約盟國已緊急出動戰機。
-
----
-
-### 2026-08-14 15:13:22  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-NATO's military headquarters confirmed allied jets were scrambled after a drone entered Latvian airspace.
-
----
-
-### 2026-08-14 15:13:22  #經濟數據 #英國
-
-【英國二季度GDP同比增長0.4%】英國二季度GDP同比增長0.4%，資訊通訊業貢獻近一半增幅，AI相關軟體諮詢業務連續兩個季度高速增長。
-
----
-
-### 2026-08-14 15:13:01  #市場
-
-WTI原油日內漲2%，現報82.88美元/桶。
-
----
-
-### 2026-08-14 15:11:37  #公司
-
-【招商證券國際：看好騰訊AI產品及生態護城河，目標價降至620港元】招商證券國際發表研報指，騰訊第二季業績略勝預期，國內遊戲及廣告業務增長超出預期，剔除新AI產品投入後，經營溢利同比增19%，核心主業盈利質量仍在提升。另一方面，騰訊明確四大AI策略，支援更激進的資本開支。該行指出，AI賦能核心業務盈利釋放為AI投入提供支援，看好騰訊的AI產品及生態護城河，續予“增持”評級，目標價由632港元下調至620港元。該行上調騰訊2026及27年資本開支預測至2157億及2600億元，由於折舊費用上升，下調公司2026至28年核心淨利潤5至9%，預計2026及27年核心淨利潤增長率分別為2%和3%。該行認為，資本開支增加將會在短期為騰訊帶來一定的財務壓力，但可透過核心主業盈利提升而有所緩解，且AI投資具備明確下行保護。
-
----
-
-### 2026-08-14 15:11:10  #其他
-
-群創：上半年淨利潤61.6億元新臺幣。
-
----
-
-### 2026-08-14 15:10:25  #國際
-
-【美國向土耳其出售F-35戰機程序陷入停滯】美國總統特朗普7月7日釋放可能向土耳其出售F-35隱形戰鬥機訊號後，一個多月以來相關計劃未取得實質進展。據美國方面8月13日訊息，土耳其裝備俄製S-400防空系統是軍售障礙之一。美國國會部分議員認為，土耳其只有放棄這一系統才能獲得F-35戰機。美國聯邦參議員裡克·斯科特說，土耳其“只要仍持有S-400系統，就不能獲得F-35戰機”。此外，以色列方面也公開反對這項軍售。（央視新聞）
-
----
-
-### 2026-08-14 15:10:23  #MKT News
-
-【China's Ministry of National Defense: 'Taiwan independence' a dead end that cannot win or be changed】On Aug 14 Senior Colonel Chen Xi, spokesperson for China's Ministry of National Defense, criticised Taiwan's Han Kuang 42 exercise, citing reports that Lai Ching‑te rehearsed a 'wartime escape' route, a tank lost components, a fighter overran a runway, and simulated communications slowdowns and staged network outages provoked public panic. Chen accused the DPP of manufacturing war panic and exposing civilians by turning cities into battlefields, warned that 'Taiwan independence' is a dead end that cannot win or be changed, and said the PLA remains on constant alert, steadily enhancing real-world anti‑secession and anti‑interference combat capabilities to defend national sovereignty and maintain Taiwan Strait stability.
-
----
-
-### 2026-08-14 15:10:04  #市場
-
-越南VN指數下跌2%，報1730.25點。
-
----
-
-### 2026-08-14 15:10:04  #MKT News #Market Regions #Greater China #DXY #Impact bullish #XAUUSD #CNH #Impact bearish
-
-【China will continue law-enforcement operations near Ren'ai Reef, ministry says】On Aug. 14 Ministry of National Defense spokesman Colonel Chen Xi said China will continue rights-protection law-enforcement operations in waters near Ren'ai Reef. He rejected Philippine and Australian accusations after their defense ministers issued a joint statement expressing "serious concern" about recent China Coast Guard actions at the reef. The coast guard has published what Beijing says is evidence of a Philippine deliberate provocation and an attack on Chinese personnel; China says it took necessary, professional and restrained measures. Chen reiterated Ren'ai Reef is part of China’s Nansha (Spratly) Islands and called on the Philippines to remove the illegally grounded vessel No.57. Beijing urged other states to stop hyping and stoking confrontation and to refrain from damaging regional peace and stability.
 
 ---

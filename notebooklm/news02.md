@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 06:34:08_
-_本檔包含 3142 則快訊，約 601057 字_
+_更新時間：2026-08-17 06:53:39_
+_本檔包含 3147 則快訊，約 601317 字_
+
+---
+
+### 2026-08-14 15:15:21  #其他
+
+【水利部迅即安排部署賈魯河堤防險情應急處置工作】國家防總副總指揮、水利部部長李國英強調，一要加強雨水情監測預報，密切關注降雨和賈魯河上游洪水演進過程，精準把握洪峰流量、水位、歷時和洪水總量，及時將預報預警資訊直達地方防禦一線。二要立即開展地毯式排查，第一時間撤離洪水淹沒區受影響人員；根據地形條件加快構築第二道防線，儘量縮小洪水淹沒影響範圍。三要加強賈魯河沿線及下游沙潁河干流等河道堤防巡查防守，配足人員、料物和裝置，緊盯穿堤、交叉建築物等重點河段部位，及時排查並處置管湧、滲漏等險情，確保沿線城市和堤防防洪安全。會商會後，李國英即赴河南指導防汛搶險工作。
+
+---
+
+### 2026-08-14 15:15:03  #市場
+
+【國債期貨收盤】 30年期主力合約漲0.09%， 10年期主力合約漲0.06%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-14 15:14:46  #經濟數據 #澳洲
+
+【澳大利亞新增住房貸款較第一季度下降5.2%】截至6月的三個月內，澳大利亞新增住房貸款較第一季度下降5.2%，創2022年底以來最大降幅，購房者借貸意願持續減弱。
+
+---
+
+### 2026-08-14 15:14:26  #市場
+
+【瑞銀：上調中國移動目標價至83港元，維持“中性”評級】瑞銀髮表報告指，中國移動第二季服務收入同比跌4.8%至2330億元，EBITDA同比跌7.9%至970億元，純利同比跌7.5%至500億元，較瑞銀及市場預期低1%至9%，主要受增值稅調整及宏觀經濟逆風影響。雲與AI相關業務表現強勁。資料中心收入同比增13.2%，雲端計算服務收入同比增18%。累計AIDC合約容量達7GW，其中5GW為上半年新增。中期股息每股2.51元，同比持平，瑞銀認為此預示全年股息穩定。瑞銀微調預測，並將估值模型延伸六個月，目標價由81港元上調至83港元，維持“中性”評級，認為現價對應2026年預測股息率約6%至7%，可為股價提供支援。
+
+---
+
+### 2026-08-14 15:13:42  #國際
+
+【美媒：張振熙或接任白宮新聞秘書 】據美國《紐約郵報》網站8月12日報道，白宮通訊主任張振熙是有望接替即將離任的白宮新聞秘書卡羅琳·萊維特的熱門人選之一，他是一名加利福尼亞州人，曾效力於時任州長阿諾德·施瓦辛格。 評論人士稱，張振熙是該職位的合適人選。萊維特休產假期間，張振熙曾代管她的部分工作。（參考訊息）
+
+---
+
+### 2026-08-14 15:13:27  #其他
+
+北約軍事總部發言人：已確認，一架未識別無人機進入拉脫維亞領空後，北約盟國已緊急出動戰機。
+
+---
+
+### 2026-08-14 15:13:22  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+NATO's military headquarters confirmed allied jets were scrambled after a drone entered Latvian airspace.
+
+---
+
+### 2026-08-14 15:13:22  #經濟數據 #英國
+
+【英國二季度GDP同比增長0.4%】英國二季度GDP同比增長0.4%，資訊通訊業貢獻近一半增幅，AI相關軟體諮詢業務連續兩個季度高速增長。
+
+---
+
+### 2026-08-14 15:13:01  #市場
+
+WTI原油日內漲2%，現報82.88美元/桶。
+
+---
+
+### 2026-08-14 15:11:37  #公司
+
+【招商證券國際：看好騰訊AI產品及生態護城河，目標價降至620港元】招商證券國際發表研報指，騰訊第二季業績略勝預期，國內遊戲及廣告業務增長超出預期，剔除新AI產品投入後，經營溢利同比增19%，核心主業盈利質量仍在提升。另一方面，騰訊明確四大AI策略，支援更激進的資本開支。該行指出，AI賦能核心業務盈利釋放為AI投入提供支援，看好騰訊的AI產品及生態護城河，續予“增持”評級，目標價由632港元下調至620港元。該行上調騰訊2026及27年資本開支預測至2157億及2600億元，由於折舊費用上升，下調公司2026至28年核心淨利潤5至9%，預計2026及27年核心淨利潤增長率分別為2%和3%。該行認為，資本開支增加將會在短期為騰訊帶來一定的財務壓力，但可透過核心主業盈利提升而有所緩解，且AI投資具備明確下行保護。
+
+---
+
+### 2026-08-14 15:11:10  #其他
+
+群創：上半年淨利潤61.6億元新臺幣。
+
+---
+
+### 2026-08-14 15:10:25  #國際
+
+【美國向土耳其出售F-35戰機程序陷入停滯】美國總統特朗普7月7日釋放可能向土耳其出售F-35隱形戰鬥機訊號後，一個多月以來相關計劃未取得實質進展。據美國方面8月13日訊息，土耳其裝備俄製S-400防空系統是軍售障礙之一。美國國會部分議員認為，土耳其只有放棄這一系統才能獲得F-35戰機。美國聯邦參議員裡克·斯科特說，土耳其“只要仍持有S-400系統，就不能獲得F-35戰機”。此外，以色列方面也公開反對這項軍售。（央視新聞）
+
+---
+
+### 2026-08-14 15:10:23  #MKT News
+
+【China's Ministry of National Defense: 'Taiwan independence' a dead end that cannot win or be changed】On Aug 14 Senior Colonel Chen Xi, spokesperson for China's Ministry of National Defense, criticised Taiwan's Han Kuang 42 exercise, citing reports that Lai Ching‑te rehearsed a 'wartime escape' route, a tank lost components, a fighter overran a runway, and simulated communications slowdowns and staged network outages provoked public panic. Chen accused the DPP of manufacturing war panic and exposing civilians by turning cities into battlefields, warned that 'Taiwan independence' is a dead end that cannot win or be changed, and said the PLA remains on constant alert, steadily enhancing real-world anti‑secession and anti‑interference combat capabilities to defend national sovereignty and maintain Taiwan Strait stability.
+
+---
+
+### 2026-08-14 15:10:04  #市場
+
+越南VN指數下跌2%，報1730.25點。
+
+---
+
+### 2026-08-14 15:10:04  #MKT News #Market Regions #Greater China #DXY #Impact bullish #XAUUSD #CNH #Impact bearish
+
+【China will continue law-enforcement operations near Ren'ai Reef, ministry says】On Aug. 14 Ministry of National Defense spokesman Colonel Chen Xi said China will continue rights-protection law-enforcement operations in waters near Ren'ai Reef. He rejected Philippine and Australian accusations after their defense ministers issued a joint statement expressing "serious concern" about recent China Coast Guard actions at the reef. The coast guard has published what Beijing says is evidence of a Philippine deliberate provocation and an attack on Chinese personnel; China says it took necessary, professional and restrained measures. Chen reiterated Ren'ai Reef is part of China’s Nansha (Spratly) Islands and called on the Philippines to remove the illegally grounded vessel No.57. Beijing urged other states to stop hyping and stoking confrontation and to refrain from damaging regional peace and stability.
 
 ---
 
@@ -18869,65 +18959,5 @@ UK Annual Growth Tops Forecasts — The UK economy expanded by 1.2% year-over-ye
 ### 2026-08-13 14:16:34  #其他
 
 【前7個月江蘇外貿進出口同比增長26.2%】 據南京海關統計，今年前7個月，江蘇省外貿進出口4.18萬億元，較去年同期（下同）增長26.2%，增幅較全國高9個百分點，佔同期全國進出口總值的13.9%。其中，出口2.71萬億元，增長22.6%；進口1.47萬億元，增長33.5%。
-
----
-
-### 2026-08-13 14:16:34  #MKT News
-
-Wildberries said a fire broke out at a company's industrial park in Bashkortostan, Russia.
-
----
-
-### 2026-08-13 14:15:58  #公司 #國際
-
-俄羅斯線上零售商Wildberries：巴什科爾託斯坦一公司工業區發生火災。
-
----
-
-### 2026-08-13 14:15:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
-
-【UK Q2 GDP Holds, Growth Seen Slowing in H2】ONS data showed GDP for the three months to June rose 0.4% QoQ, down from 0.6% in Q1 and in line with economists' forecasts. Services drove the expansion; May was flat and June rose 0.3% month-on-month (economists had forecast -0.1%). Analysts say the UK largely weathered the initial months of the Iran war and consumer spending supported activity in Q2, but the Bank of England and economists expect growth to weaken as the conflict’s full effects emerge. Momentum in 1H 2026 is expected to ease into a muted H2 as a 13% July increase in the energy price cap squeezes households and policy uncertainty has risen after Burnham became the UK’s seventh prime minister in over a decade.
-
----
-
-### 2026-08-13 14:15:03  #Trading Economics #Economy #United Kingdom #Balance of Trade #Importance 1
-
-UK Trade Deficit Widens in June — The United Kingdom's trade deficit increased to £5.54 billion in June 2026, up from an upwardly revised £3.46 billion in the previous month, as exports fell more than imports. Exports dropped 2.8% mom to £80.21 billion, while imports edged down 0.2% to a four-month low of £85.74 billion. Goods exports shed 6.4% to £32.95 billion, driven by lower shipments to both EU and non-EU countries, which dropped 7.4% and 5.4%, respectively. Exports to the EU declined mainly due to a fall in fuel and chemical exports. Meanwhile, exports to non-EU countries were mainly weighed down by lower machinery and transport equipment exports. Services exports edged down 0.1% to £47.25 billion. On the import side, goods imports fell 0.6% to a four-month low of £55.96 billion.
-
----
-
-### 2026-08-13 14:15:02  #公司
-
-【比依股份等成立資訊科技公司 含AI相關業務】企查查APP顯示，近日，上海目昇資訊科技有限公司成立，經營範圍包含人工智慧基礎資源與技術平臺；資訊系統執行維護服務；工業網際網路資料服務；資料處理服務等。企查查股權穿透顯示，該公司由比依股份等共同持股。
-
----
-
-### 2026-08-13 14:14:09  #公司
-
-【馬士基上調2026年業績指引，預計全年基礎EBITDA最高125億美元】8月13日，馬士基宣佈上調2026年全年業績指引，預計全年基礎息稅折舊攤銷前利潤（EBITDA）為105億至125億美元，此前預期為80億至100億美元；基礎息稅前利潤（EBIT）預計為45億至65億美元，此前為20億至40億美元。公司同時預計全年自由現金流將為正，此前預期至少為負15億美元。馬士基表示，此次上調指引主要基於第二季度實際業績及對今年剩餘時間經營情況更高的可見度。公司預計2026年全球集裝箱運輸市場全年運量增長約4%。
-
----
-
-### 2026-08-13 14:13:40  #MKT News
-
-【Zhongxin Tourism: National Day holiday bookings up 70% YoY as of Aug 12】As of Aug 12, Zhongxin Tourism said bookings for its National Day holiday products have reached 75% of capacity and are coming in materially faster than a year earlier; total sign-ups rose 70% YoY.
-
----
-
-### 2026-08-13 14:13:20  #市場
-
-澳大利亞S&P/ASX 200指數收盤下跌0.2%，報9188.50點。
-
----
-
-### 2026-08-13 14:13:11  #國際
-
-Uber：與日丸交通的合作基於此前與Wayve及日產簽訂的日本自動駕駛計程車合作現有諒解備忘錄。
-
----
-
-### 2026-08-13 14:13:08  #Trading Economics #Economy #United Kingdom #Monthly GDP MoM #Importance 1
-
-UK Economy Grows 0.3% in June — The UK economy grew by 0.3% month-on-month in June 2026, compared with zero growth in May and market expectations for no change. The expansion was mainly driven by a 0.4% increase in services output (vs 0.1% in May), with the largest positive contribution coming from professional, scientific and technical activities, particularly scientific research and development, which rose to its highest level since January 2025, as well as legal activities. This more than offset declines in production and construction, which fell 0.2% and 0.1%, respectively. On an annual basis, GDP rose 1.1%, slowing slightly from a revised 1.2% increase in May but exceeding the market forecast of 0.8%. GDP increased by 0.4% in the three months to June, following a revised 0.6% expansion in the previous three-month period.
 
 ---

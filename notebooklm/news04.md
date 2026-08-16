@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 06:34:08_
-_本檔包含 3077 則快訊，約 601347 字_
+_更新時間：2026-08-17 06:53:39_
+_本檔包含 3081 則快訊，約 601716 字_
+
+---
+
+### 2026-08-12 10:56:43  #其他
+
+【中國海軍第49批護航編隊起航赴亞丁灣】中國海軍第49批護航編隊12日上午從海南三亞某軍港解纜起航，赴亞丁灣、索馬利亞海域接替第48批護航編隊執行護航任務。第49批護航編隊主要由南部戰區海軍兵力組成，包括導彈驅逐艦昆明艦、導彈護衛艦岳陽艦和大型遠洋綜合補給艦駱馬湖艦，攜帶艦載直升機2架、特戰隊員數十名。3艘軍艦均由我國自主設計建造，其中，昆明艦為首次執行護航任務。(新華社)
+
+---
+
+### 2026-08-12 10:56:21  #公司 #國際 #原創
+
+【淡馬錫計劃投資三星電子和SK海力士】據知情人士稱，新加坡主權財富基金淡馬錫計劃投資三星電子和SK海力士，並已與韓國政府方面聯絡，商討投資時機。訊息人士稱，淡馬錫計劃透過其內部投資團隊直接進行投資，而不是透過外部資產管理公司。
+
+---
+
+### 2026-08-12 10:56:14  #MKT News #CSI300 #Impact bullish #CNH #Hang Seng Index
+
+【Fan Gang: China property market showing relatively rapid price clearing】Economist Fan Gang said China’s property market has entered a relatively rapid price-clearing phase and the bottoming process could be faster than Japan’s at the time. He said China is undergoing a more market-driven structural adjustment as long-standing supply-heavy, weak-demand imbalances start to correct. The 15th Five-Year Plan now treats market demand as the scarcest resource, and consumption patterns are shifting: younger, tech-affluent buyers increasingly prioritise housing quality, with luxury homes in major cities becoming a sales driver—signalling a move toward a more market-oriented growth dynamic.
+
+---
+
+### 2026-08-12 10:53:55  #市場
+
+【本月伺服器DDR5記憶體條價格全面上漲15%至23%】隨著三季度原廠價格進一步上行，本月伺服器DDR5價格上漲15%至23%，32GB/64GB/96GB DDR5 RDIMM分別上漲至900/1590/2650美金。現貨伺服器RDIMM市場上，貿易端32GB D5介於1800~2100美金，64GB D5介於3000~3200美金，96GB D5介於3800~4100美金，合約與現貨DDR5尤其是96GB的價差呈現收窄趨勢。原廠DDR5供應依然維持供不應求，不過隨著合約價逐季上漲，伺服器大客戶對記憶體成本的上漲更為敏感，加之長協相繼落地，大客戶D5供應得到一定保障，DDR5漲幅預計將更加溫和。
+
+---
+
+### 2026-08-12 10:52:47  #公司
+
+【上海電氣、發那科機器人等成立技術公司】企查查APP顯示，近日，上發技術（上海）有限公司成立，法定代表人為錢暉，註冊資本為2億元，經營範圍包含智慧機器人的研發；工業機器人制造；工業機器人安裝、維修；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由上海電氣全資子公司上海電氣自動化集團有限公司、上海發那科機器人有限公司等共同持股。
+
+---
+
+### 2026-08-12 10:52:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold was up 1.00% on the day at $4,411.72/oz; New York gold futures gained just over 1.00% to $4,472.10/oz.
+
+---
+
+### 2026-08-12 10:52:17  #MKT News
+
+【Live-fire exercises in parts of South China Sea; entry prohibited Aug 12 05:00-18:00】Shanwei Maritime Safety Administration posted on the China Maritime Safety Administration website a navigation warning that parts of the South China Sea will host live-fire exercises from Aug 12 05:00 to 18:00; the area is closed to navigation.
+
+---
+
+### 2026-08-12 10:51:00  #其他
+
+【航行警告！南海部分海域進行實彈射擊 禁止進入】據中國海事局網站訊息，汕尾海事局釋出航行警告，8月12日5時至18時，南海部分海域進行實彈射擊，禁止進入。
+
+---
+
+### 2026-08-12 10:50:52  #MKT News #000001.SS #Impact bullish #000300.SS
+
+A-share CPO concept extended gains; Yongding Co. hit the daily trading limit. Tianfu Communications, Shijia Photonics, Taichen Optoelectronics, Hengdong Optics, Yuanjie Technology and Dekeli also rose.
 
 ---
 
@@ -18526,35 +18580,5 @@ USD/JPY fell below 159, down 0.17% intraday.
 ### 2026-08-11 08:42:46  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Extends Gains on Precious Metals Rally — Silver climbed to around $66 an ounce on Tuesday, hitting a seven-week high and tracking a rally in gold fueled by improving investment demand for precious metals despite rising inflationary risks and expectations for interest rate hikes amid surging oil prices. The white metal also continued to benefit from robust industrial demand tied to expanding production of solar panels and electricity grids. Recent data showed Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. Meanwhile, uncertainty persisted over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz, keeping markets wary of inflation and the outlook for interest rates. Investors also awaited a key US inflation reading this week for fresh clues on the Federal Reserve’s policy outlook.
-
----
-
-### 2026-08-11 08:42:39  #央行 #其他
-
-新加坡央行官員：當前貨幣政策立場仍屬恰當。
-
----
-
-### 2026-08-11 08:41:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Singapore's Ministry of Trade and Industry said falling oil inventories and an influx of alternative energy will restrain upward pressure on global energy prices.
-
----
-
-### 2026-08-11 08:41:20  #MKT News
-
-A Singapore trade official said an anticipated 12.5% US tariff on Singapore exports is not expected to affect trade flows.
-
----
-
-### 2026-08-11 08:41:16  #MKT News #Market Themes #AI Revolution
-
-【Qianwen Office Assistant launches paid tiers; top annual price 1,499 yuan】On the evening of Aug 10 the Qianwen app rolled out paid plans for its Office Assistant aimed at professional users. Three tiers are offered: Flagship (128 yuan/month or 1,499 yuan/year, auto-renew) with a 20x usage quota; Elite (49 yuan/month or 568 yuan/year) with a 5x quota; Advanced (19 yuan/month or 200 yuan/year) with a 2x quota. Qianwen says core features remain free and routine use will not be affected.
-
----
-
-### 2026-08-11 08:40:56  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Mixed Sector Moves Hold ASX Steady Before RBA Rate Decision — Australian shares steadied in early Tuesday trade, hovering near 9,237 after two sessions of weakness. Traders kept a cautious stance ahead of the Reserve Bank’s policy decision later today, with consensus pointing to rates staying at 4.35% following three hikes this year aimed at cooling inflation amid global uncertainty. Attention also turned to July’s NAB business sentiment survey after June marked a four-month high. Offshore sentiment weighed, as U.S. futures eased after Wall Street losses overnight due to higher oil and tech sector drag. Logistics, consumer durables, tech, and industrial services fell, while energy minerals, non-energy minerals, and healthcare offered support. Standout gainers included Santos (4.1%), Woodside (2.6%), and CSL (1.5%). The big banks mostly slipped, down between 0.3% and 0.8%, with Westpac’s earnings disappointing. Other notable laggards were SGH Ltd. (-6.7%), CAR Group (-3.4%), and Qantas Airways (-2.2%).
 
 ---
