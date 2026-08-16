@@ -1,7 +1,57 @@
 {
   "date": "2026-08-17",
-  "count": 54,
+  "count": 60,
   "items": [
+    {
+      "id": "mkt:01a00bd3-cd4e-7aab-904f-cff91fa9badc",
+      "time": "2026-08-17 02:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation the group will not be included in any political process until Gaza is fully disarmed."
+    },
+    {
+      "id": "mkt:01a00bd3-6db8-7aab-904f-c68db1951b8d",
+      "time": "2026-08-17 02:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited Palestinian sources saying a Hamas delegation told Kushner it would refuse to undertake any new measures that could not obtain Israel's prior consent."
+    },
+    {
+      "id": "mkt:01a00bd2-a450-7aab-904f-ba83ab75fffc",
+      "time": "2026-08-17 02:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Hamas leadership briefed Kushner in detail on alleged Israeli violations of the ceasefire in the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a00bd2-5a61-7aab-904f-b595a2e29b9b",
+      "time": "2026-08-17 02:25:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders Trump views disarming armed factions as a prerequisite to any further action in Gaza."
+    },
+    {
+      "id": "5042931",
+      "time": "2026-08-17 02:25:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【庫什納在開羅會晤哈馬斯領導層，強調解除武裝為先決條件】據巴勒斯坦訊息人士透露，特朗普特使庫什納與哈馬斯領導層在開羅進行了逾兩小時的會晤。庫什納向哈馬斯明確傳達，解除武裝是融入未來政治程序的關鍵前提；同時，美方堅決反對驅逐加沙居民，並建議哈馬斯不要寄望於以色列選舉結果。哈馬斯方面則向庫什納詳細通報了以色列違反停火協議的情況，並強調反對任何未獲以色列事先同意的新舉措。當前談判的核心死結仍在於行動順序：哈馬斯要求以色列先撤軍，而以色列堅持哈馬斯必須先全面繳械。庫什納此行旨在推動落實加沙和平計劃，試圖彌合各方分歧。"
+    },
+    {
+      "id": "mkt:01a00bd1-f48d-7aab-904f-ac930372b9e1",
+      "time": "2026-08-17 02:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Palestinian sources, reported Kushner emphasized that Israel's position on the Gaza Strip is consistent."
+    },
     {
       "id": "mkt:01a00bd0-cf15-7aab-904f-a46eb882a06d",
       "time": "2026-08-17 02:23:48",
