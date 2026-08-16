@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-17 04:32:10",
+  "updated": "2026-08-17 04:36:01",
   "count": 15231,
   "items": [
+    {
+      "id": "mkt:01a00c47-b489-7aab-9050-97393b8e36b0",
+      "time": "2026-08-17 04:33:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he had \"a great weekend\" and held \"many meetings.\""
+    },
     {
       "id": "5042964",
       "time": "2026-08-17 04:21:51",
@@ -139253,14 +139261,6 @@
         "DXY"
       ],
       "text": "【Hedge funds rapidly cut yen shorts after U.S.-Japan FX intervention】CFTC data show leveraged funds reduced net short JPY positions by 74,440 contracts over the five weeks to Aug. 4, leaving a net short of 63,600 contracts — the largest reduction in shorts since the 2008 financial crisis. At end-June leveraged funds held a net short of 138,000 contracts, the largest since 2007. The adjustments followed the first coordinated U.S.-Japan FX market intervention in 15 years."
-    },
-    {
-      "id": "mkt:019fe83c-7af2-7aab-8fcb-b9bf2550313d",
-      "time": "2026-08-10 04:35:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen military sources said air defences shot down six Houthi armed drones attempting to strike Mocha port."
     }
   ]
 }
