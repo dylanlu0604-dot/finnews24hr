@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-17 00:10:47",
-  "count": 15201,
+  "updated": "2026-08-17 00:14:47",
+  "count": 15198,
   "items": [
+    {
+      "id": "mkt:01a00b58-d09d-7aab-904e-e69ee76cd6bb",
+      "time": "2026-08-17 00:12:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: French Prime Minister Lecornu will hold a crisis meeting on Monday to respond to a cyberattack disclosed last week that targeted the country's tax authority."
+    },
+    {
+      "id": "5042905",
+      "time": "2026-08-17 00:10:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉開啟連任競選。"
+    },
     {
       "id": "5042904",
       "time": "2026-08-17 00:08:48",
@@ -139003,54 +139019,6 @@
         "MKT News"
       ],
       "text": "【Typhoon White Dolphin rainfall triggers Jiaojiang (Zhejiang) 2026 No.2 flood】Rainfall from Typhoon White Dolphin raised the water level at Baizhizao hydrological station in Jiaojiang, Taizhou, Zhejiang to 17.03 m at 22:55 on Aug 9, 0.03 m above the 17.00 m warning level; corresponding discharge was 3,900 m3/s. Under main rivers flood numbering rules the event is designated Jiaojiang 2026 No.2 flood."
-    },
-    {
-      "id": "5032626",
-      "time": "2026-08-10 00:14:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江省椒江發生2026年第2號洪水】受今年第13號颱風“白海豚”帶來降雨的影響，8月9日22時55分，浙江椒江柏枝岙水文站（浙江台州）水位漲至17.03米，超過警戒水位（17.00米）0.03米，相應流量3900立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“椒江2026年第2號洪水”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe74b-a92d-7aab-8fca-c6cbdd30d938",
-      "time": "2026-08-10 00:12:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Yemen's deputy defense minister said Houthi forces' systematic attacks on civilian targets are directed at the civilian population."
-    },
-    {
-      "id": "mkt:019fe74b-8755-7aab-8fca-bb0b45f386bc",
-      "time": "2026-08-10 00:11:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude-4.4 quake strikes northern Shiga Prefecture, Japan】Japan Meteorological Agency said a magnitude-4.4 earthquake struck northern Shiga Prefecture at about 00:48 JST on the 10th, at a depth of 20 km. Maximum seismic intensity was 3 on the JMA scale. No tsunami risk was expected."
-    },
-    {
-      "id": "mkt:019fe74a-e1cb-7aab-8fca-b06adee88f46",
-      "time": "2026-08-10 00:11:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Yemen's deputy defense minister said Houthi attacks aim to draw Yemen into a regional conflict."
-    },
-    {
-      "id": "5032625",
-      "time": "2026-08-10 00:10:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本滋賀縣北部發生4.4級地震】據日本氣象廳10日訊息，當地時間當天0時48分左右，日本滋賀縣北部發生4.4級地震，最大震感為震度3，震源深度20公里。本次地震沒有引發海嘯的風險。（央視新聞）"
     }
   ]
 }

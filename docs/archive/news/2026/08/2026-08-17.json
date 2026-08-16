@@ -1,7 +1,23 @@
 {
   "date": "2026-08-17",
-  "count": 4,
+  "count": 6,
   "items": [
+    {
+      "id": "mkt:01a00b58-d09d-7aab-904e-e69ee76cd6bb",
+      "time": "2026-08-17 00:12:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: French Prime Minister Lecornu will hold a crisis meeting on Monday to respond to a cyberattack disclosed last week that targeted the country's tax authority."
+    },
+    {
+      "id": "5042905",
+      "time": "2026-08-17 00:10:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉開啟連任競選。"
+    },
     {
       "id": "5042904",
       "time": "2026-08-17 00:08:48",
