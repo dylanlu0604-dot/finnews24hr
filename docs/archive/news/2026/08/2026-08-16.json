@@ -1,7 +1,32 @@
 {
   "date": "2026-08-16",
-  "count": 505,
+  "count": 508,
   "items": [
+    {
+      "id": "5042783",
+      "time": "2026-08-16 18:31:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中石化煉化工程釋出中期業績：股東應占利潤11.37億元 同比減少18%】中石化煉化工程釋出截至2026年6月30日止6個月中期業績，該集團取得收入人民幣356.24億元(單位下同)，同比增加12.7%;本公司權益持有人應占利潤11.37億元，同比減少18%;基本每股盈利0.26元;擬派中期股息每股0.127元。公告稱，收入增加主要是工程總承包業務在執行合同增長所致。"
+    },
+    {
+      "id": "mkt:01a00a1a-e668-7aab-904d-add6a591ae7b",
+      "time": "2026-08-16 18:25:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US reportedly bypassed Iranian negotiators to contact IRGC via Nechirvan Barzani】Axios, citing three people, reports mid‑May US envoys seeking an agreement to end hostilities could not verify whether Iranian negotiators represented the Islamic Revolutionary Guard Corps (IRGC). The Trump administration therefore bypassed Iran’s negotiators and opened a secret channel to IRGC leaders through Iraqi Kurdistan president Nechirvan Barzani, who reportedly has the trust of both Washington and IRGC leadership. A memorandum of understanding was reportedly reached but quickly collapsed, underscoring US difficulty in identifying who holds decision authority inside Iran."
+    },
+    {
+      "id": "5042782",
+      "time": "2026-08-16 18:22:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至8月17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
+    },
     {
       "id": "5042781",
       "time": "2026-08-16 18:20:40",
