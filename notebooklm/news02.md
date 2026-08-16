@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:00:57_
-_本檔包含 3182 則快訊，約 601731 字_
+_更新時間：2026-08-17 03:28:25_
+_本檔包含 3167 則快訊，約 601198 字_
+
+---
+
+### 2026-08-14 14:56:54  #其他
+
+【水位創新低 德國科隆附近萊茵河接近斷航】受乾旱影響，德國西部城市科隆附近的萊茵河航運13日已近乎停滯。萊茵河航道及航運管理部門監測顯示，連日來，科隆水文站水位幾乎每天都重新整理歷史新低，13日中午實測水位僅為49釐米。到16日，水位預計可能降至47釐米。（新華社）
+
+---
+
+### 2026-08-14 14:56:34  #公司
+
+【華源證券：首予華峰化學“買入”評級，聚氨酯行業領軍企業，競爭優勢突出】華源證券研報指出，華峰化學聚氨酯行業領軍企業，競爭優勢突出，2026Q2業績同環比增長明顯。氨綸景氣度回升，價差持續走擴，公司盈利能力顯著改善。截至2025年末，公司氨綸產能為47.5萬噸/年，己二酸產能為135.5萬噸/年，聚氨酯原液產能為52萬噸/年。與此同時，公司計劃推遲PTMEG專案（二期）及一體化專案（一期）投產時間至2030年，以避免產能集中釋放加劇競爭、保障專案投資回報。此外，公司計劃收購華峰合成樹脂及華峰熱塑，實現產業鏈整合延伸。選取新鄉化纖、泰和新材、華魯恆升作為可比公司，考慮到公司是氨綸、己二酸、聚氨酯原液的頭部企業，未來氨綸差異化產品比重有望進一步提升，產業鏈整合後或進一步提高抗風險能力，首次覆蓋給予“買入”評級。
+
+---
+
+### 2026-08-14 14:56:10  #Trading Economics #Economy #France #Inflation Rate #Importance 1
+
+France July Inflation Confirmed at 2.1% — The annual inflation rate in France accelerated to 2.1% in July 2026 from 1.8% in June, confirming preliminary estimates. The pickup was primarily driven by faster services inflation (2.2% vs 1.9% in June), particularly for other services (2.5% vs 2.1%), including accommodation (7.3% vs 6.3%) and food services (1.9% vs 1.8%). Energy price growth also accelerated (12.6% vs 11.0%), mainly for gas (17.7% vs 10.4%) and petroleum products (20.7% vs 19.7%). Meanwhile, food inflation edged up to 1.0% from 0.9%. In contrast, manufactured goods prices fell at a softer pace (-0.7% vs -1.1%), while tobacco inflation was unchanged at 3.3%. Core inflation accelerated to 1.3% from 1.0%. On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.3% decline in June, driven by higher services prices (+1.6%) and energy costs (+2.3%), primarily petroleum products and gas. The EU-harmonised CPI rose 2.4% year-on-year, up from 2.0% in June, while increasing 0.6% month-on-month.
+
+---
+
+### 2026-08-14 14:55:55  #其他
+
+西班牙政府批准阿爾馬拉斯核電站運營期限延長至2030年。
+
+---
+
+### 2026-08-14 14:54:19  #其他
+
+【應急管理部緊急調派中國安能工程救援力量馳援河南周口執行賈魯河潰口險情處置任務】8月13日23時許，受賈魯河上游來水和沙潁河倒灌頂託擠壓影響，河南省周口市川匯區新北環橋下賈魯河東岸堤壩出現潰口。應急管理部調派中國安能工程救援力量200人，攜帶動力舟橋、水陸兩棲挖掘機、裝載機等大型工程機械裝備110臺（套），緊急馳援周口災區。14日上午10時，以上力量已到達現場投入搶險救援工作。（央視新聞）
+
+---
+
+### 2026-08-14 14:52:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+RIA reported Russian drones destroyed a Ukrainian drone-assembly workshop in the Kherson region.
+
+---
+
+### 2026-08-14 14:51:55  #行業
+
+【告別長租時代：六成高管認為AI讓未來辦公需求難以預測，企業加速擁抱靈活辦公已成共識】8月14日，IWG集團針對企業核心高管（CEO與CFO）的最新調查顯示，人工智慧（AI）正在以前所未有的速度重塑商業形態，88%的受訪CEO稱，面對AI帶來的劇烈技術變革，組織在辦公空間和地產策略上必須保持極高的靈活性。其中，超過半數（57%）的高管正在加碼投資混合辦公安排。具體而言，55%正考慮在員工居住地附近鋪設辦公網點，52%正在推行去中心化的辦公模式。
+
+---
+
+### 2026-08-14 14:50:57  #市場
+
+【稀土板塊午後走強！稀土ETF易方達（159715）漲2.53%，中國稀土漲停、北方稀土漲超3%】截至2026年08月14日14:30，稀土ETF易方達（159715）上漲2.53%，報1.216元，盤中最高觸及1.222元，創日內新高，半日成交額達7408.59萬元，量能較前一交易日明顯放大。
+
+---
+
+### 2026-08-14 14:49:31  #公司
+
+【中石化旗下長城燃氣投資公司增資至8.2億 增幅約715%】天眼查工商資訊顯示，近日，中石化長城燃氣投資有限公司發生工商變更，註冊資本由1億人民幣增至約8.2億人民幣，增幅約715%。該公司成立於2017年10月，法定代表人為董賢勇，經營範圍包括燃氣經營、專案投資、貨物進出口等，由中國石油化工股份有限公司全資持股。
+
+---
+
+### 2026-08-14 14:47:51  #公司
+
+【亞星錨鏈在海南成立船舶公司】企查查APP顯示，海南亞星一號船舶有限公司成立，法定代表人為劉斌，經營範圍包含從事國際集裝箱船、普通貨船運輸；國際船舶管理業務；國際班輪運輸等。企查查股權穿透顯示，該公司由亞星錨鏈間接全資持股。
 
 ---
 
@@ -19015,155 +19075,5 @@ Lenovo Group (00992.HK) extended gains in afternoon Hong Kong trade, rising more
 ### 2026-08-13 13:57:31  #MKT News #MAERSK-B.CO #Impact bullish
 
 Maersk: Q2 results benefited from sharp freight-rate increases and volume growth across all business segments.
-
----
-
-### 2026-08-13 13:57:22  #國際
-
-【韓國7月汽車出口超62億美元，創歷年同期新高】韓國產業通商部8月13日釋出資料顯示，7月韓國汽車出口額同比增加7%，為62.4億美元，創下歷年同期新高。其中，新能源汽車出口額同比增加25.5%，為25.9億美元，佔整體出口額的41.5%。燃油汽車出口額則同比減少3.1%，為36.5億美元。
-
----
-
-### 2026-08-13 13:57:16  #MKT News
-
-Maersk said profit growth lifted free cash flow to $549m, up from a year earlier.
-
----
-
-### 2026-08-13 13:56:13  #公司 #焦點
-
-【聯想集團港股漲超21%】聯想集團港股漲21%，報35.32港元。
-
----
-
-### 2026-08-13 13:55:19  #MKT News #MAERSK-B.CO #Impact bullish
-
-Maersk said earnings growth was driven by higher ocean freight volumes and rising spot rates, supported by strong market demand.
-
----
-
-### 2026-08-13 13:55:03  #MKT News
-
-Maersk reported Q2 revenue of $15.757 bln, versus market expectations of $13.868 bln.
-
----
-
-### 2026-08-13 13:54:34  #MKT News #MAERSK-A.CO #Impact bullish
-
-Maersk says it must continue investing in critical trade infrastructure and scale up operations.
-
----
-
-### 2026-08-13 13:54:20  #其他
-
-馬士基：必須繼續投資關鍵貿易基礎設施並擴大規模。
-
----
-
-### 2026-08-13 13:54:13  #MKT News
-
-Maersk said multiple regions are facing increasingly severe congestion and transport disruptions from ports to inland logistics.
-
----
-
-### 2026-08-13 13:53:57  #其他
-
-馬士基二季度營收157.6億美元，預估141億美元。
-
----
-
-### 2026-08-13 13:53:56  #MKT News #MAERSK-B.CO #Impact bullish
-
-Maersk now expects 2026 free cash flow to exceed $0, versus prior guidance for at least a $1.5 billion decline.
-
----
-
-### 2026-08-13 13:53:31  #其他
-
-馬士基第二季度息稅前利潤為15.7億美元，高於預期5.442億美元。
-
----
-
-### 2026-08-13 13:53:14  #MKT News #MAERSK-A.CO #Impact bullish
-
-Maersk raised its fiscal 2026 guidance, now forecasting core EBITDA of $10.5–12.5bn (previously $8–10bn) and underlying EBIT of $4.5–6.5bn (previously $2–4bn).
-
----
-
-### 2026-08-13 13:52:54  #其他
-
-馬士基目前預計本財年基本息稅前利潤為45億至65億美元，此前預期為20億至40億美元。
-
----
-
-### 2026-08-13 13:52:32  #市場
-
-沙烏地阿拉伯7月消費者價格指數同比上漲1.8%。
-
----
-
-### 2026-08-13 13:52:24  #其他
-
-馬士基仍預計本財年全球集裝箱貿易增長約4%。
-
----
-
-### 2026-08-13 13:51:54  #其他
-
-馬士基：上調2026財年業績預期，目前預計本財年基本息稅折舊攤銷前利潤（EBITDA）為105億美元至125億美元，此前預期為92.7億美元。
-
----
-
-### 2026-08-13 13:51:44  #MKT News
-
-The Society of Indian Automobile Manufacturers (SIAM) said a document mistakenly sent to the government has been withdrawn and was intended only for internal discussion and review.
-
----
-
-### 2026-08-13 13:51:29  #MKT News
-
-Emails show an Indian auto-industry lobby group and automakers including Maruti, Tata and Mahindra discussed pollution concerns linked to E20 fuel before withdrawing a complaint to the government.
-
----
-
-### 2026-08-13 13:50:10  #其他
-
-長鑫科技成交額超200億元，現漲0.43%。
-
----
-
-### 2026-08-13 13:50:09  #MKT News #Important #GBPUSD #Impact mixed #FTSE100
-
-UK Q2 GDP preliminary (annualized), three‑month GDP MoM for June, June seasonally adjusted goods trade balance, and June industrial and manufacturing production MoM are due in ten minutes.
-
----
-
-### 2026-08-13 13:49:01  #公司
-
-【聖泉集團在山東成立材料科技新公司】企查查APP顯示，近日，山東奈思材料科技有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由聖泉集團全資持股。
-
----
-
-### 2026-08-13 13:48:19  #MKT News #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #SSE Composite
-
-China A-share power sector briefly rallied; Meiyan Jixiang hit the daily limit, while Li New Energy, Datang Power Generation, GCL Energy Technology and Jingneng Power also rose.
-
----
-
-### 2026-08-13 13:47:48  #其他
-
-【2026未來科學大獎獲獎者名單公佈】未來科學大獎評審委員會8月13日公佈2026年獲獎名單。中國科學院生物物理研究所研究員張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；復旦大學教授趙東元因其對介孔材料的開創性貢獻獲得“物質科學獎”；北京大學北京國際數學研究中心教授袁新意因其在算術幾何領域作出的奠基性貢獻獲得“數學與電腦科學獎”。
-
----
-
-### 2026-08-13 13:47:40  #市場 #國際
-
-【人民幣首超港元 登頂香港外匯交易最大貨幣對】香港財資市場公會（TMA）最新公佈的香港外匯市場半年度調查結果顯示，2026年4月，香港外匯交易日均成交額為9082億美元，其中美元兌人民幣交易量首次超越美元兌港元，躍居香港市場交投最活躍的貨幣對。具體來看，4月美元兌人民幣日均成交2740億美元，佔香港全部外匯交易的30.2%，超過美元兌港元的2402億美元（佔比26.4%）。其中，美元兌離岸人民幣交易額達2592億美元，成為主力。業內分析認為，香港以港元為本地貨幣，而美元兌人民幣卻成為其成交最活躍的貨幣對，這凸顯了香港長期以來的離岸人民幣業務樞紐定位。（上證報）
-
----
-
-### 2026-08-13 13:47:27  #MKT News
-
-【RMB surpasses HKD to become Hong Kong's top FX pair】The Hong Kong Treasury Markets Association's semiannual FX survey shows average daily FX turnover in Hong Kong was $908.2 bln in April 2026. USD/CNH averaged $274.0 bln/day (30.2% of turnover), overtaking USD/HKD at $240.2 bln (26.4%). Offshore RMB accounted for $259.2 bln of USD/CNH volume and was the main driver. The shift highlights Hong Kong's continued role as an offshore RMB hub.
 
 ---

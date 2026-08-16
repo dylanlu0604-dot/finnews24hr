@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:00:57_
-_本檔包含 2941 則快訊，約 601500 字_
+_更新時間：2026-08-17 03:28:25_
+_本檔包含 2949 則快訊，約 601730 字_
+
+---
+
+### 2026-08-11 08:08:55  #市場
+
+【天風證券：中長期來看 銅供需緊平衡格局仍有望延續】天風證券研報表示，供給擾動、庫存去化與美元走弱共振，銅價創歷史新高。天風證券認為核心驅動或來自礦端供給擾動、全球庫存下降以及美元走弱多重因素共振。第一，智利銅礦供給持續走弱。2026年二季度智利銅產量同比下降7.7%至約127萬噸，創2007年以來同期最低水平，礦山老化、礦石品位下降等結構性問題仍未改善。第二，剛果（金）進一步收緊銅精礦出口。政府8月釋出命令禁止銅、鈷精礦出口，但短期對全球精煉銅實際供應影響或有限。第三，全球銅庫存持續去化。主要交易所可交割庫存下降，現貨資源偏緊，使供給端擾動更容易向價格端傳導。第四，美元走弱進一步放大銅價的金融屬性。美元走弱降低非美元地區採購成本，並提升大宗商品金融屬性，進一步放大銅價上漲彈性。總體來看，天風證券認為本輪銅價創新高並非單純由需求復甦推動，而是“礦端擾動+庫存去化+美元走弱”共同作用的結果。短期來看，智利礦山生產、剛果（金）出口政策及全球庫存變化仍是銅價的核心變數；中長期來看，全球銅礦老化、新增產能週期較長，而AI算力、電網建設、新能源等領域持續拉動銅需求，銅供需緊平衡格局仍有望延續。
+
+---
+
+### 2026-08-11 08:08:26  #MKT News
+
+Singapore Q2 GDP 1.4% QoQ, prior 1.1%.
+
+---
+
+### 2026-08-11 08:08:19  #MKT News #Economic Calendar #Important
+
+Singapore | GDP (QoQ) (Q2) | actual 1.4% | previous 1.10%
+
+---
+
+### 2026-08-11 08:08:13  #MKT News
+
+Singapore Q2 GDP YoY 5.9% (consensus 5.9%; prior 5.7%).
+
+---
+
+### 2026-08-11 08:08:04  #MKT News #Economic Calendar #Important
+
+Singapore | GDP (YoY) (Q2) | actual 5.9% | consensus 5.9% | previous 5.70%
+
+---
+
+### 2026-08-11 08:06:58  #觀點
+
+【中信證券：煤炭行業長期供需格局有望穩中向好，優質龍頭的資源價值與盈利穩定性或將持續強化】中信證券研報認為，8月10日，國家發展改革委、國家能源局聯合印發《煤炭工業發展“十五五”規劃》，提出到2030年大型現代化煤礦產能比重提升至87%、智慧化煤礦產能比例提升至75%，五大煤炭供應保障基地產量佔全國比重超過80%，並推動煤炭消費實現達峰。我們認為《規劃》或將透過提升准入標準、最佳化產能結構、強化超產監管，推動煤炭供給端由增產保供進一步轉向規範有序釋放。在供給質量和行業集中度同步提升的大背景下，煤炭消費將實現穩步達峰，煤炭行業長期供需格局有望穩中向好，優質龍頭的資源價值與盈利穩定性或將持續強化。
+
+---
+
+### 2026-08-11 08:06:52  #其他
+
+【國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮黃色警報】國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮黃色警報。受今年第13號颱風”白海豚”(熱帶風暴級)外圍的影響，預計8月11日上午至12日上午，遼寧丹東到山東日照沿海將出現30到60釐米的風暴增水。河北省秦皇島市的風暴潮預警級別為黃色，遼寧省大連市、營口市、葫蘆島市，河北省唐山市，山東省濰坊市、威海市和日照市的風暴潮預警級別為藍色。12日上午解除此次風暴潮警報。
+
+---
+
+### 2026-08-11 08:06:24  #公司 #市場 #觀點
+
+【中信建投：建議關注創新醫療器械的臨床、註冊、放量、出海等方面的相關催化】中信建投研報表示，醫療器械板塊的長期投資機會來自創新、出海和併購整合，板塊的創新性和國際化能力得到認可，估值正在被重估。創新藥板塊大漲之後，醫療器械板塊具有全球競爭力的改進式創新、突破式創新的產品正在被逐步認可，也有一批公司積極戰略拓展第二增長曲線、實現海外業務高增長，估值迎來上漲。建議持續關注市場空間大、國產化率低的創新醫療器械賽道，以及併購重組、腦機介面、AI醫療、手術機器人、外骨骼機器人等主題方向的投資機會。建議關注創新醫療器械的臨床、註冊、放量、出海等方面的相關催化，如PFA、RDN、TAVR等產品。潛在催化較多的方向有望出現漲幅數倍的個股，未來AI醫療、腦機介面等也有望成為投資人重點關注的新科技方向。
+
+---
+
+### 2026-08-11 08:06:14  #市場
+
+澳大利亞S&P/ASX 200指數上漲0.2%，報9,249.50點。
+
+---
+
+### 2026-08-11 08:06:05  #國際
+
+烏克蘭地區長官稱，俄羅斯對烏克蘭東南部城市扎波羅熱的襲擊造成五人死亡，二十人受傷。
+
+---
+
+### 2026-08-11 08:05:53  #公司 #國際
+
+【14年來首次 日本連續兩個月破產企業超千家 】日本東京商工調查公司10日釋出的報告顯示，日本7月共有1028家企業破產，繼6月後再次超過1000家。這是日本14年來首次出現連續兩個月破產企業逾千家的情況。該公司分析，日元貶值推高物價以及勞動力短缺是導致破產企業增多的主要原因。 資料顯示，日本7月破產企業數量較去年同期增加6.9%，為今年以來單月最高值。這些企業負債總額為2363億日元（1美元約合159日元），較去年同期激增41.4%。其中，總部位於大阪的信用卡結算代理公司“全東信”負債額為1151.6億日元，可能是今年以來負債規模最大的日本破產企業。
+
+---
+
+### 2026-08-11 08:05:30  #觀點 #國際
+
+【中信建投：中長期鎢精礦價格趨勢向上】中信建投研報表示，本週黑鎢精礦價格41.9萬元/噸（較上週持平），APT價格61萬元/噸（較上週持平），歐洲APT價格3000—3279美元/噸度(摺合人民幣179.1—195.8萬元/噸)。近期鎢精礦價格在40萬噸左右徘徊。短期來看，7、8月份是鎢消費傳統淡季，預計9、10月份旺季開啟後，價格會開始上探。中期來看，鎢精礦的傳統消費和AI浪潮拉動的PCB微鑽、六氟化鎢新消費都處於增長週期。美伊衝突帶來的軍工補庫需求更為旺盛。中長期鎢精礦價格趨勢向上。
+
+---
+
+### 2026-08-11 08:04:30  #其他
+
+新加坡貿工部將2026年GDP增長預期從之前的2.0%-4.0%上調至4.5%-5.5%。
 
 ---
 
@@ -17727,35 +17805,5 @@ Yemeni sources say Houthi forces have resumed missile and drone attacks on the p
 ### 2026-08-10 03:36:40  #MKT News
 
 【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend.
-
----
-
-### 2026-08-10 03:23:18  #國際
-
-北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。兩架飛機均被安全護送出該區域，未發生其他意外事件。
-
----
-
-### 2026-08-10 03:22:38  #MKT News
-
-ISNA reported Iran convened the Economic Relations Coordination Council to discuss the role of northern ports in securing supplies of essential commodities.
-
----
-
-### 2026-08-10 03:20:33  #MKT News
-
-【Netanyahu rejects Gaza peace plan; Peace Committee responds to Israeli concerns】Prime Minister Netanyahu has rejected a 15-point Gaza peace plan, Channel 12 reported. Nikolay Mladenov, the Peace Committee’s senior Gaza representative, said the plan — signed between the Peace Committee and Hamas — ties any Israeli withdrawal to phased, district-by-district demilitarization: Israeli forces would pull back only after weapons, tunnels and related infrastructure in each area are removed and Hamas transfers governance responsibilities. Mladenov said Hamas has agreed to immediately cease all military activity and warned the process would stop immediately if Hamas fails to fulfill its commitments. The Peace Committee urged Israel to give the process a chance and said consultations are ongoing.
-
----
-
-### 2026-08-10 03:19:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A Yemeni military source said citizens should avoid areas where Saudi forces are massing.
-
----
-
-### 2026-08-10 03:02:45  #MKT News #XAUUSD #Impact bullish #DXY #Impact mixed #S&P500 #Impact bearish
-
-【Former U.S. security officials warn Trump is following 'dictator's playbook', say U.S. security at risk】The Financial Times reports a former senior U.S. intelligence official warned that in a second term Donald Trump is following a 'dictator's playbook,' weakening checks on his power and degrading U.S. security. Trump, who pledged to fight the 'deep state' on returning to the White House, has sought to suppress critics and demand personal loyalty. Former CIA station chief Paul Kolbe said dictators follow a common script for seizing and exercising power that mirrors current U.S. developments. National security lawyer Mark S. Zaid, whose security clearance was revoked by the White House last year and who is in legal dispute with Trump, warned the president will continue to consolidate power: All safeguards have been removed, the worst is far from over.
 
 ---

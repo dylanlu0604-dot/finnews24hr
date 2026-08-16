@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:00:57_
-_本檔包含 3074 則快訊，約 601618 字_
+_更新時間：2026-08-17 03:28:25_
+_本檔包含 3086 則快訊，約 602363 字_
+
+---
+
+### 2026-08-17 03:26:10  #宏觀 #國際
+
+【哈馬斯政治局主席訪問埃及 討論加沙地帶局勢】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）16日發表宣告稱，哈馬斯政治局主席哈利勒·哈亞當天在埃及開羅與埃及情報總局局長哈桑·拉沙德舉行會晤。雙方重點討論了約旦河西岸和加沙地帶的最新動態。宣告還稱，哈馬斯向埃及方面通報了以色列近期的違規行為，指責以方不斷採取行動升級局勢。哈馬斯重申必須制止以方此類行動，並呼籲地區及國際社會立即採取緊急干預措施。（央視新聞）
+
+---
+
+### 2026-08-17 03:26:04  #MKT News
+
+【Hamas political bureau chief meets Egypt intelligence chief in Cairo to discuss Gaza, West Bank】Hamas said on the 16th its political bureau chief Khalil al-Hayya met in Cairo with Egyptian General Intelligence chief Hassan Rashad to discuss recent developments in the West Bank and Gaza. Hamas informed Egyptian officials of what it described as recent Israeli violations, accused Israel of escalating the situation and called for immediate regional and international intervention.
+
+---
+
+### 2026-08-17 03:25:03  #國際
+
+【韓國將重啟親日反民族行為者財產追繳】據韓國方面16日訊息，法律界訊息人士稱，韓國《親日反民族行為者財產的國家歸屬等相關特別法》將於12月正式施行。這是韓國時隔16年後，重啟在國家層面上對親日反民族行為者財產進行追繳的工作。據相關訊息，負責追繳工作的“親日反民族行為者財產調查委員會”已於今年6月開始籌備組建，並將於12月正式啟動追繳工作。2005年，韓國國會曾透過相關法律，將反民族行為者在日本殖民統治時期透過親日行為取得的財產納入國家追繳範圍。隨後成立“親日反民族行為者財產調查委員會”，但該委員會在2010年任期屆滿後被解散。（央視新聞）
+
+---
+
+### 2026-08-17 03:24:53  #其他
+
+中國地震臺網自動測定：08月17日03時23分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.6級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-17 03:24:23  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Israeli strikes have killed 4,346 in Lebanon】Lebanon's Public Health Ministry emergency operations center said on Aug 16 that Israeli airstrikes and attacks from March 2 through Aug 16 have killed 4,346 people and injured 12,301.
+
+---
+
+### 2026-08-17 03:24:13  #國際
+
+美伊諒解備忘錄將於週一到期，目前幾乎沒有達成最終協議的跡象。伊朗首席談判代表卡利巴夫稱這是一次外交上的“勝利”，並表示美國和以色列未能實現其戰爭目標。
+
+---
+
+### 2026-08-17 03:22:01  #國際
+
+哈馬斯：讚賞美國總統特朗普所發揮的作用，希望他繼續努力，以結束我們人民的苦難併為地區帶來安全。
+
+---
+
+### 2026-08-17 03:21:23  #MKT News
+
+Hamas urged mediators and the peace committee to fulfill their duties and compel Israel to honor its commitments and cease violations.
+
+---
+
+### 2026-08-17 03:20:51  #MKT News
+
+Hamas said it had fully complied with the first phase of the ceasefire agreement while Israel did not comply.
+
+---
+
+### 2026-08-17 03:20:10  #MKT News
+
+Hamas said it has agreed to a plan intended to secure a permanent ceasefire, the full withdrawal of occupying forces and the activation of a governing committee.
+
+---
+
+### 2026-08-17 03:19:26  #國際
+
+哈馬斯：（我方）在第一階段已全面履行停火協議，而以色列方面卻未予遵守。
+
+---
+
+### 2026-08-17 03:19:00  #其他
+
+哈馬斯：呼籲調解方與和平委員會履行其職責，迫使佔領方落實各項義務並停止侵權行為。
+
+---
+
+### 2026-08-17 03:18:12  #國際
+
+哈馬斯：為達成永久停火、以色列全面撤軍並啟動行政委員會工作，我們已同意該方案（特朗普計劃的第二階段路線圖）。
+
+---
+
+### 2026-08-17 03:17:50  #MKT News
+
+【Sisi meets Kushner, urges implementation of Gaza ceasefire】Egyptian President Sisi met Jared Kushner in Alamein on the 16th and urged parties to implement the Gaza ceasefire and deliver on the outcomes of last October’s Sharm el‑Sheikh summit. The presidential office said they exchanged views on the Palestinian issue and broader Middle East developments and called for Egypt-US cooperation to resolve the regional crisis and preserve stability.
+
+---
+
+### 2026-08-17 03:15:39  #國際
+
+【埃及總統塞西會見庫什納 呼籲各方落實加沙停火】埃及總統塞西16日在埃及阿拉曼會見美國總統特朗普的女婿庫什納，呼籲有關各方推動落實加沙停火協議。埃及總統府當天發表宣告說，會見期間，雙方就巴勒斯坦問題等中東局勢發展交換意見，強調有關各方應履行去年10月在埃及舉行的沙姆沙伊赫峰會成果，推動落實加沙停火協議。塞西還表示，埃美兩國應協作推動解決地區危機，維護地區穩定。（新華社）
+
+---
+
+### 2026-08-17 03:14:35  #MKT News #Market Themes #The Trump Trade
+
+Hamas said it highly valued Trump's role in facilitating the Gaza ceasefire agreement.
+
+---
+
+### 2026-08-17 03:14:10  #MKT News
+
+Hamas said its agreement to phase two of Trump's plan hinges on achieving a permanent ceasefire and Israeli withdrawal.
+
+---
+
+### 2026-08-17 03:12:29  #國際
+
+哈馬斯宣佈同意特朗普計劃的第二階段，旨在實現永久停火、完全撤出以色列從加沙地帶、提供緊急和永久援助、啟動行政委員會活動、重建以及執行其他商定的承諾。
+
+---
+
+### 2026-08-17 03:09:31  #公司 #觀點
+
+市場資訊：摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。
+
+---
+
+### 2026-08-17 03:07:27  #MKT News
+
+Hamas said a leadership delegation led by Khaled al-Hayya met mediators and guarantors of the Gaza agreement in Egypt today and told guarantors it had agreed to the second phase of Trump's plan.
+
+---
+
+### 2026-08-17 03:07:08  #國際
+
+【以軍襲擊已致黎巴嫩4346人死亡】據黎巴嫩公共衛生部緊急行動中心16日訊息，3月2日至8月16日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4346人死亡，12301人受傷。
+
+---
+
+### 2026-08-17 03:05:23  #國際
+
+科威特外交部在一份宣告中譴責以色列公開反對特朗普全面計劃的路線圖，該計劃旨在完成結束加沙衝突的執行。
 
 ---
 
@@ -18493,65 +18625,5 @@ Nomura forecasts India's fiscal deficit will widen by 20bps and does not expect 
 ### 2026-08-14 14:57:38  #MKT News #Commodities #Industrial Metals
 
 【Reports: Nan Ya to lift copper foil, substrate and base‑material prices 20%; company responds】Market sources circulated a customer letter saying Nan Ya will raise prices of substrates and base materials by 20% from Sept. 1, citing large increases in costs for copper foil, glass fiber cloth and resins. Nan Ya said the price increase is real and it has negotiated multiple price adjustments with customers this year as material costs rose, but the circulated document is not an official external price notice and the company has not implemented a blanket, one‑time 20% across‑the‑board increase. Electronic-material prices have been adjusted repeatedly this year, with cumulative gains of more than 100%.
-
----
-
-### 2026-08-14 14:56:54  #其他
-
-【水位創新低 德國科隆附近萊茵河接近斷航】受乾旱影響，德國西部城市科隆附近的萊茵河航運13日已近乎停滯。萊茵河航道及航運管理部門監測顯示，連日來，科隆水文站水位幾乎每天都重新整理歷史新低，13日中午實測水位僅為49釐米。到16日，水位預計可能降至47釐米。（新華社）
-
----
-
-### 2026-08-14 14:56:34  #公司
-
-【華源證券：首予華峰化學“買入”評級，聚氨酯行業領軍企業，競爭優勢突出】華源證券研報指出，華峰化學聚氨酯行業領軍企業，競爭優勢突出，2026Q2業績同環比增長明顯。氨綸景氣度回升，價差持續走擴，公司盈利能力顯著改善。截至2025年末，公司氨綸產能為47.5萬噸/年，己二酸產能為135.5萬噸/年，聚氨酯原液產能為52萬噸/年。與此同時，公司計劃推遲PTMEG專案（二期）及一體化專案（一期）投產時間至2030年，以避免產能集中釋放加劇競爭、保障專案投資回報。此外，公司計劃收購華峰合成樹脂及華峰熱塑，實現產業鏈整合延伸。選取新鄉化纖、泰和新材、華魯恆升作為可比公司，考慮到公司是氨綸、己二酸、聚氨酯原液的頭部企業，未來氨綸差異化產品比重有望進一步提升，產業鏈整合後或進一步提高抗風險能力，首次覆蓋給予“買入”評級。
-
----
-
-### 2026-08-14 14:56:10  #Trading Economics #Economy #France #Inflation Rate #Importance 1
-
-France July Inflation Confirmed at 2.1% — The annual inflation rate in France accelerated to 2.1% in July 2026 from 1.8% in June, confirming preliminary estimates. The pickup was primarily driven by faster services inflation (2.2% vs 1.9% in June), particularly for other services (2.5% vs 2.1%), including accommodation (7.3% vs 6.3%) and food services (1.9% vs 1.8%). Energy price growth also accelerated (12.6% vs 11.0%), mainly for gas (17.7% vs 10.4%) and petroleum products (20.7% vs 19.7%). Meanwhile, food inflation edged up to 1.0% from 0.9%. In contrast, manufactured goods prices fell at a softer pace (-0.7% vs -1.1%), while tobacco inflation was unchanged at 3.3%. Core inflation accelerated to 1.3% from 1.0%. On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.3% decline in June, driven by higher services prices (+1.6%) and energy costs (+2.3%), primarily petroleum products and gas. The EU-harmonised CPI rose 2.4% year-on-year, up from 2.0% in June, while increasing 0.6% month-on-month.
-
----
-
-### 2026-08-14 14:55:55  #其他
-
-西班牙政府批准阿爾馬拉斯核電站運營期限延長至2030年。
-
----
-
-### 2026-08-14 14:54:19  #其他
-
-【應急管理部緊急調派中國安能工程救援力量馳援河南周口執行賈魯河潰口險情處置任務】8月13日23時許，受賈魯河上游來水和沙潁河倒灌頂託擠壓影響，河南省周口市川匯區新北環橋下賈魯河東岸堤壩出現潰口。應急管理部調派中國安能工程救援力量200人，攜帶動力舟橋、水陸兩棲挖掘機、裝載機等大型工程機械裝備110臺（套），緊急馳援周口災區。14日上午10時，以上力量已到達現場投入搶險救援工作。（央視新聞）
-
----
-
-### 2026-08-14 14:52:03  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-RIA reported Russian drones destroyed a Ukrainian drone-assembly workshop in the Kherson region.
-
----
-
-### 2026-08-14 14:51:55  #行業
-
-【告別長租時代：六成高管認為AI讓未來辦公需求難以預測，企業加速擁抱靈活辦公已成共識】8月14日，IWG集團針對企業核心高管（CEO與CFO）的最新調查顯示，人工智慧（AI）正在以前所未有的速度重塑商業形態，88%的受訪CEO稱，面對AI帶來的劇烈技術變革，組織在辦公空間和地產策略上必須保持極高的靈活性。其中，超過半數（57%）的高管正在加碼投資混合辦公安排。具體而言，55%正考慮在員工居住地附近鋪設辦公網點，52%正在推行去中心化的辦公模式。
-
----
-
-### 2026-08-14 14:50:57  #市場
-
-【稀土板塊午後走強！稀土ETF易方達（159715）漲2.53%，中國稀土漲停、北方稀土漲超3%】截至2026年08月14日14:30，稀土ETF易方達（159715）上漲2.53%，報1.216元，盤中最高觸及1.222元，創日內新高，半日成交額達7408.59萬元，量能較前一交易日明顯放大。
-
----
-
-### 2026-08-14 14:49:31  #公司
-
-【中石化旗下長城燃氣投資公司增資至8.2億 增幅約715%】天眼查工商資訊顯示，近日，中石化長城燃氣投資有限公司發生工商變更，註冊資本由1億人民幣增至約8.2億人民幣，增幅約715%。該公司成立於2017年10月，法定代表人為董賢勇，經營範圍包括燃氣經營、專案投資、貨物進出口等，由中國石油化工股份有限公司全資持股。
-
----
-
-### 2026-08-14 14:47:51  #公司
-
-【亞星錨鏈在海南成立船舶公司】企查查APP顯示，海南亞星一號船舶有限公司成立，法定代表人為劉斌，經營範圍包含從事國際集裝箱船、普通貨船運輸；國際船舶管理業務；國際班輪運輸等。企查查股權穿透顯示，該公司由亞星錨鏈間接全資持股。
 
 ---

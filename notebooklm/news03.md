@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 03:00:57_
-_本檔包含 2955 則快訊，約 601380 字_
+_更新時間：2026-08-17 03:28:25_
+_本檔包含 2973 則快訊，約 602415 字_
+
+---
+
+### 2026-08-13 13:57:22  #國際
+
+【韓國7月汽車出口超62億美元，創歷年同期新高】韓國產業通商部8月13日釋出資料顯示，7月韓國汽車出口額同比增加7%，為62.4億美元，創下歷年同期新高。其中，新能源汽車出口額同比增加25.5%，為25.9億美元，佔整體出口額的41.5%。燃油汽車出口額則同比減少3.1%，為36.5億美元。
+
+---
+
+### 2026-08-13 13:57:16  #MKT News
+
+Maersk said profit growth lifted free cash flow to $549m, up from a year earlier.
+
+---
+
+### 2026-08-13 13:56:13  #公司 #焦點
+
+【聯想集團港股漲超21%】聯想集團港股漲21%，報35.32港元。
+
+---
+
+### 2026-08-13 13:55:19  #MKT News #MAERSK-B.CO #Impact bullish
+
+Maersk said earnings growth was driven by higher ocean freight volumes and rising spot rates, supported by strong market demand.
+
+---
+
+### 2026-08-13 13:55:03  #MKT News
+
+Maersk reported Q2 revenue of $15.757 bln, versus market expectations of $13.868 bln.
+
+---
+
+### 2026-08-13 13:54:34  #MKT News #MAERSK-A.CO #Impact bullish
+
+Maersk says it must continue investing in critical trade infrastructure and scale up operations.
+
+---
+
+### 2026-08-13 13:54:20  #其他
+
+馬士基：必須繼續投資關鍵貿易基礎設施並擴大規模。
+
+---
+
+### 2026-08-13 13:54:13  #MKT News
+
+Maersk said multiple regions are facing increasingly severe congestion and transport disruptions from ports to inland logistics.
+
+---
+
+### 2026-08-13 13:53:57  #其他
+
+馬士基二季度營收157.6億美元，預估141億美元。
+
+---
+
+### 2026-08-13 13:53:56  #MKT News #MAERSK-B.CO #Impact bullish
+
+Maersk now expects 2026 free cash flow to exceed $0, versus prior guidance for at least a $1.5 billion decline.
+
+---
+
+### 2026-08-13 13:53:31  #其他
+
+馬士基第二季度息稅前利潤為15.7億美元，高於預期5.442億美元。
+
+---
+
+### 2026-08-13 13:53:14  #MKT News #MAERSK-A.CO #Impact bullish
+
+Maersk raised its fiscal 2026 guidance, now forecasting core EBITDA of $10.5–12.5bn (previously $8–10bn) and underlying EBIT of $4.5–6.5bn (previously $2–4bn).
+
+---
+
+### 2026-08-13 13:52:54  #其他
+
+馬士基目前預計本財年基本息稅前利潤為45億至65億美元，此前預期為20億至40億美元。
+
+---
+
+### 2026-08-13 13:52:32  #市場
+
+沙烏地阿拉伯7月消費者價格指數同比上漲1.8%。
+
+---
+
+### 2026-08-13 13:52:24  #其他
+
+馬士基仍預計本財年全球集裝箱貿易增長約4%。
+
+---
+
+### 2026-08-13 13:51:54  #其他
+
+馬士基：上調2026財年業績預期，目前預計本財年基本息稅折舊攤銷前利潤（EBITDA）為105億美元至125億美元，此前預期為92.7億美元。
+
+---
+
+### 2026-08-13 13:51:44  #MKT News
+
+The Society of Indian Automobile Manufacturers (SIAM) said a document mistakenly sent to the government has been withdrawn and was intended only for internal discussion and review.
+
+---
+
+### 2026-08-13 13:51:29  #MKT News
+
+Emails show an Indian auto-industry lobby group and automakers including Maruti, Tata and Mahindra discussed pollution concerns linked to E20 fuel before withdrawing a complaint to the government.
+
+---
+
+### 2026-08-13 13:50:10  #其他
+
+長鑫科技成交額超200億元，現漲0.43%。
+
+---
+
+### 2026-08-13 13:50:09  #MKT News #Important #GBPUSD #Impact mixed #FTSE100
+
+UK Q2 GDP preliminary (annualized), three‑month GDP MoM for June, June seasonally adjusted goods trade balance, and June industrial and manufacturing production MoM are due in ten minutes.
+
+---
+
+### 2026-08-13 13:49:01  #公司
+
+【聖泉集團在山東成立材料科技新公司】企查查APP顯示，近日，山東奈思材料科技有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由聖泉集團全資持股。
+
+---
+
+### 2026-08-13 13:48:19  #MKT News #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #SSE Composite
+
+China A-share power sector briefly rallied; Meiyan Jixiang hit the daily limit, while Li New Energy, Datang Power Generation, GCL Energy Technology and Jingneng Power also rose.
+
+---
+
+### 2026-08-13 13:47:48  #其他
+
+【2026未來科學大獎獲獎者名單公佈】未來科學大獎評審委員會8月13日公佈2026年獲獎名單。中國科學院生物物理研究所研究員張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；復旦大學教授趙東元因其對介孔材料的開創性貢獻獲得“物質科學獎”；北京大學北京國際數學研究中心教授袁新意因其在算術幾何領域作出的奠基性貢獻獲得“數學與電腦科學獎”。
+
+---
+
+### 2026-08-13 13:47:40  #市場 #國際
+
+【人民幣首超港元 登頂香港外匯交易最大貨幣對】香港財資市場公會（TMA）最新公佈的香港外匯市場半年度調查結果顯示，2026年4月，香港外匯交易日均成交額為9082億美元，其中美元兌人民幣交易量首次超越美元兌港元，躍居香港市場交投最活躍的貨幣對。具體來看，4月美元兌人民幣日均成交2740億美元，佔香港全部外匯交易的30.2%，超過美元兌港元的2402億美元（佔比26.4%）。其中，美元兌離岸人民幣交易額達2592億美元，成為主力。業內分析認為，香港以港元為本地貨幣，而美元兌人民幣卻成為其成交最活躍的貨幣對，這凸顯了香港長期以來的離岸人民幣業務樞紐定位。（上證報）
+
+---
+
+### 2026-08-13 13:47:27  #MKT News
+
+【RMB surpasses HKD to become Hong Kong's top FX pair】The Hong Kong Treasury Markets Association's semiannual FX survey shows average daily FX turnover in Hong Kong was $908.2 bln in April 2026. USD/CNH averaged $274.0 bln/day (30.2% of turnover), overtaking USD/HKD at $240.2 bln (26.4%). Offshore RMB accounted for $259.2 bln of USD/CNH volume and was the main driver. The shift highlights Hong Kong's continued role as an offshore RMB hub.
 
 ---
 
@@ -17792,47 +17942,5 @@ Indonesia Stocks Rebound — Indonesian shares rose 51 points or 0.8% to 6,319 i
 ### 2026-08-12 10:22:00  #MKT News #Market Themes #AI Revolution #AMZN.O #GOOGL.O #MSFT.O
 
 【ANTHROPIC to embed invisible watermark in Claude outputs】ANTHROPIC said on Aug 11 it has signed the EU AI Act Article 50 guidelines on AI-generated content transparency. Effective Aug 2, Claude models will embed an invisible watermark in generated text; images and other files will carry digitally signed provenance metadata. The marking will cover all major Claude products and access channels — Claude Platform (API), Claude, Claude Code, Claude Cowork and Claude Tag — and apply to cloud partners including AWS, Google Cloud and Microsoft Foundry. ANTHROPIC said the scheme will be implemented globally across all Claude product lines and partner cloud platforms, not limited to the EU.
-
----
-
-### 2026-08-12 10:21:32  #國際
-
-【載有百餘人的印尼客輪起火 疏散救援正在進行】據印度尼西亞媒體12日報道，一艘客輪在當天清晨從印尼旅遊勝地巴厘島駛往鄰近的龍目島途中起火，目前乘客疏散和救援工作正在進行中。 巴厘島當地官員表示，根據登船記錄，該客輪載有114名乘客和17名船員。（新華社）
-
----
-
-### 2026-08-12 10:20:29  #公司
-
-【迪卡儂回應登山帽抽檢不合格】近日，杭州市市場監督管理局釋出2026年鞋服等產品質量監督抽查結果，迪卡儂（杭州）體育用品有限公司鳳起分公司銷售的一款有邊帽“纖維含量”不合格。對此，8月11日，迪卡儂方面向記者表示，“不合格原因是產品標識標籤標註錯誤，是洗標上的裡料成分資訊標註有誤。正確資訊貼標正在製作中，預計兩週內完成產品端替換。”（南方都市報）
-
----
-
-### 2026-08-12 10:20:12  #其他
-
-【阿里雲靈駿真武M890超節點例項正式上線，首批在烏蘭察布開服】阿里雲宣佈靈駿真武M890超節點例項正式上線，首批已在烏蘭察布地域開售。企業級客戶無需自建機房，在雲上即可開通64卡高速互聯算力單元，最高可承載十萬億引數級MoE大模型推理。阿里雲靈駿真武M890超節點也是國內首個成功執行超2萬億引數大模型的超節點形態算力，Kimi K3和Qwen3.8 Max均已透過該例項對外提供服務。
-
----
-
-### 2026-08-12 10:18:00  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Edges Lower — The New Zealand dollar slipped to around $0.587 as the US dollar edged higher, with investors awaiting US inflation data for fresh clues on the Federal Reserve’s interest-rate path. A hotter-than-expected CPI reading could reinforce expectations for tighter US monetary policy, boosting the greenback. On the domestic front, markets remain set on a rate increase from the Reserve Bank of New Zealand in September after the central bank signalled that further tightening may be needed to remove monetary stimulus and keep inflation under control. However, last week’s soft jobs data has raised questions about how aggressively the RBNZ can continue raising rates. Meanwhile, uncertainty over the prospects for a Middle East peace deal that could reopen the Strait of Hormuz weighed on market confidence. In other news, NZ Prime Minister Christopher Luxon said that he survived a leadership vote among his own party’s lawmakers less than three months before an election.
-
----
-
-### 2026-08-12 10:16:59  #國際
-
-【Anthropic宣佈Claude生成內容嵌入隱形水印，標記機制全球適用】Anthropic當地時間8月11日宣佈，已簽署歐盟《人工智慧法案》（EU AI Act）第50條關於AI生成內容透明度的準則。8月2日起，Claude模型將在生成文字嵌入隱形水印，圖片等檔案則附加經數字簽名的溯源後設資料。標記機制將在全球範圍內適用，覆蓋Claude所有產品線及合作雲平臺，並非僅限於歐盟地區。
-
----
-
-### 2026-08-12 10:16:34  #MKT News #Market Regions #Japan & APAC
-
-South Korea's KOSPI extended gains, up 3.5% at 6,569.26.
-
----
-
-### 2026-08-12 10:16:29  #MKT News
-
-A-share fiber-optic names were repeatedly active intraday. Tongding Hulian hit the daily trading limit; Changyingtong rose more than 10%. Changjin Photonics, Yongding, Weike Technology and Huiyuan Communications also advanced.
 
 ---
