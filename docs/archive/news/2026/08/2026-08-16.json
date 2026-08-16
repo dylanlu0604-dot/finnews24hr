@@ -1,7 +1,17 @@
 {
   "date": "2026-08-16",
-  "count": 248,
+  "count": 249,
   "items": [
+    {
+      "id": "mkt:01a00889-2313-7aab-904c-12b7001c7def",
+      "time": "2026-08-16 11:06:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Romanian Defence Ministry says drones violated its airspace."
+    },
     {
       "id": "mkt:01a00885-f843-7aab-904c-0d90de41aa47",
       "time": "2026-08-16 11:03:12",
