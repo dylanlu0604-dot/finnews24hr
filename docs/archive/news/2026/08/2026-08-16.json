@@ -1,7 +1,31 @@
 {
   "date": "2026-08-16",
-  "count": 646,
+  "count": 649,
   "items": [
+    {
+      "id": "mkt:01a00b3a-ea3b-7aab-904e-91d5250faaab",
+      "time": "2026-08-16 23:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Forest fire on Greece's Salamis Island kills 2, injures 9】Greece's fire service says a forest fire on Salamis Island, about 20 km west of Athens, has killed 2 people and injured 9; roughly 90 people were evacuated."
+    },
+    {
+      "id": "5042896",
+      "time": "2026-08-16 23:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：打擊了3艘船隻和2艘油輪，這些船隻正用於向烏克蘭軍隊在敖德薩港運送軍事物資和燃料。"
+    },
+    {
+      "id": "mkt:01a00b3a-6761-7aab-904e-8f99d12ae382",
+      "time": "2026-08-16 23:39:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Following a Russian missile strike on Kyiv, firefighters battled a blaze at a book market; emergency services reported two people injured."
+    },
     {
       "id": "5042895",
       "time": "2026-08-16 23:35:59",
