@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-17 03:51:53",
-  "count": 15239,
+  "updated": "2026-08-17 03:55:55",
+  "count": 15236,
   "items": [
+    {
+      "id": "mkt:01a00c22-8b0c-7aab-9050-7835d89dca9c",
+      "time": "2026-08-17 03:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Attorney General Todd Blanch says he will disagree with president on legal matters, declines to promise DOJ will always be independent of White House】Politico reported Attorney General Todd Blanch said on Sunday he is willing to disagree with the president on legal matters and that Trump expects cabinet members to differ when necessary. Asked whether he would refuse the president’s preferred course if his legal view differed, Blanch said, \"I think he would expect me to tell him 'no.'\" He declined to commit that the Justice Department will \"always act independent of the White House,\" adding, \"No, I will not make that promise, and no attorney general should make that promise.\""
+    },
     {
       "id": "5042958",
       "time": "2026-08-17 03:45:23",
@@ -139294,38 +139302,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄軍已控制烏克蘭東部的瓦休京斯凱與託列茨克，並對蘇梅州兩座烏克蘭煉油廠實施打擊。"
-    },
-    {
-      "id": "5032664",
-      "time": "2026-08-10 03:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國防部：攔截285架烏克蘭無人機並對烏髮動空襲】俄羅斯國防部9日晚釋出通報說，莫斯科時間當天8時至20時，俄防空部隊在俄羅斯多個地區攔截並擊落285架烏克蘭無人機。通報說，這些無人機是在別爾哥羅德州、庫爾斯克州、布良斯克州、圖拉州、利佩茨克州、梁贊州、奧廖爾州、卡盧加州以及莫斯科地區等地上空被攔截並擊落。通報還說，俄武裝部隊空襲了烏克蘭境內的熱電廠和7個變電站，並用無人機打擊烏克蘭蘇梅州一處天然氣田基礎設施。"
-    },
-    {
-      "id": "mkt:019fe816-a531-7aab-8fcb-9864f309d076",
-      "time": "2026-08-10 03:53:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said the world now recognizes that Iran cannot be subdued."
-    },
-    {
-      "id": "mkt:019fe816-6b9c-7aab-8fcb-93cd0d95dde0",
-      "time": "2026-08-10 03:53:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran's Islamic system is at one of its most critical moments in history and plays an indispensable role in regional and global security and stability."
-    },
-    {
-      "id": "5032663",
-      "time": "2026-08-10 03:53:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！"
     }
   ]
 }

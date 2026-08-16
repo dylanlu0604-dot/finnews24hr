@@ -1,7 +1,15 @@
 {
   "date": "2026-08-17",
-  "count": 108,
+  "count": 109,
   "items": [
+    {
+      "id": "mkt:01a00c22-8b0c-7aab-9050-7835d89dca9c",
+      "time": "2026-08-17 03:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Attorney General Todd Blanch says he will disagree with president on legal matters, declines to promise DOJ will always be independent of White House】Politico reported Attorney General Todd Blanch said on Sunday he is willing to disagree with the president on legal matters and that Trump expects cabinet members to differ when necessary. Asked whether he would refuse the president’s preferred course if his legal view differed, Blanch said, \"I think he would expect me to tell him 'no.'\" He declined to commit that the Justice Department will \"always act independent of the White House,\" adding, \"No, I will not make that promise, and no attorney general should make that promise.\""
+    },
     {
       "id": "5042958",
       "time": "2026-08-17 03:45:23",
