@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 638,
+  "count": 640,
   "items": [
+    {
+      "id": "mkt:01a00b23-4133-7aab-904e-8127ee706f62",
+      "time": "2026-08-16 23:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The chairman of Iran's Chamber of Commerce said on state broadcaster Press TV that the Iranian economy has emerged from the 'war shock'."
+    },
+    {
+      "id": "5042889",
+      "time": "2026-08-16 23:13:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗商工礦農業商會主席薩馬德·哈桑扎德表示，該國經濟已擺脫近期戰爭帶來的嚴重衰退，經濟活動正在恢復。"
+    },
     {
       "id": "5042888",
       "time": "2026-08-16 23:11:11",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 23:13:48",
-  "count": 15188,
+  "updated": "2026-08-16 23:17:41",
+  "count": 15189,
   "items": [
+    {
+      "id": "mkt:01a00b23-4133-7aab-904e-8127ee706f62",
+      "time": "2026-08-16 23:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The chairman of Iran's Chamber of Commerce said on state broadcaster Press TV that the Iranian economy has emerged from the 'war shock'."
+    },
+    {
+      "id": "5042889",
+      "time": "2026-08-16 23:13:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗商工礦農業商會主席薩馬德·哈桑扎德表示，該國經濟已擺脫近期戰爭帶來的嚴重衰退，經濟活動正在恢復。"
+    },
     {
       "id": "5042888",
       "time": "2026-08-16 23:11:11",
@@ -138945,14 +138961,6 @@
         "XAUUSD"
       ],
       "text": "【Iran parliamentary committee approves Strait of Hormuz security and development action-plan outline】On the 9th, Iran’s parliamentary National Security and Foreign Policy Committee approved an outline of a strategic action plan to ensure the security and development of the Strait of Hormuz."
-    },
-    {
-      "id": "5032615",
-      "time": "2026-08-09 23:15:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新加坡舉行國慶慶典】新加坡8月9日舉行國慶慶典，慶祝獨立61週年。（新華社）"
     }
   ]
 }
