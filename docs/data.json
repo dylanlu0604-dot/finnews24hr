@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-17 01:05:52",
-  "count": 15192,
+  "updated": "2026-08-17 01:09:46",
+  "count": 15190,
   "items": [
+    {
+      "id": "mkt:01a00b8b-ce46-7aab-904f-317d06752a0a",
+      "time": "2026-08-17 01:08:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond."
+    },
     {
       "id": "mkt:01a00b7f-6cc4-7aab-904f-2f44e486f464",
       "time": "2026-08-17 00:54:55",
@@ -138937,30 +138945,6 @@
         "MKT News"
       ],
       "text": "【Iran president Pezeshkian says will maintain communication but will not wait for external powers】Iranian President Pezeshkian said waiting for or relying on external powers would be self-defeating, and no force can replace Iran’s own identity and people. He said Iran will engage in communication with outside parties but will not sit idle or expect others to fulfill its aims."
-    },
-    {
-      "id": "5032645",
-      "time": "2026-08-10 01:08:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統談及外部大國：伊朗若是坐等、寄希望於外部勢力，便已然落敗，沒有任何力量能夠真正取代伊朗自身與本國人民。"
-    },
-    {
-      "id": "5032644",
-      "time": "2026-08-10 01:08:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：每日有800萬桶石油經由霍爾木茲海峽南段運出波斯灣。"
-    },
-    {
-      "id": "5032643",
-      "time": "2026-08-10 01:06:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：我們只是在和他們進行半談判。我們正靜觀伊朗，該國正面臨嚴重通脹，並且資金匱乏。"
     }
   ]
 }

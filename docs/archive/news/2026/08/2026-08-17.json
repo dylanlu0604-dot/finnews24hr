@@ -1,7 +1,15 @@
 {
   "date": "2026-08-17",
-  "count": 26,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:01a00b8b-ce46-7aab-904f-317d06752a0a",
+      "time": "2026-08-17 01:08:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond."
+    },
     {
       "id": "mkt:01a00b7f-6cc4-7aab-904f-2f44e486f464",
       "time": "2026-08-17 00:54:55",
