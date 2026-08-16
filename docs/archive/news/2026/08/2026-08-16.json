@@ -1,7 +1,19 @@
 {
   "date": "2026-08-16",
-  "count": 424,
+  "count": 425,
   "items": [
+    {
+      "id": "mkt:01a009a9-2bc2-7aab-904d-17a36a0c9d10",
+      "time": "2026-08-16 16:21:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "ZELENSKIY said 13 Ukrainian regions were attacked this week; Russia launched more than 1,550 attack drones, about 1,560 guided aerial bombs and 62 missiles at Ukrainian cities and communities."
+    },
     {
       "id": "5042715",
       "time": "2026-08-16 16:17:15",
