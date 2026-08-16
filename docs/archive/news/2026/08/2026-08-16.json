@@ -1,7 +1,15 @@
 {
   "date": "2026-08-16",
-  "count": 436,
+  "count": 437,
   "items": [
+    {
+      "id": "mkt:01a009bd-c99d-7aab-904d-25e33c99ad22",
+      "time": "2026-08-16 16:43:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Niu Lai cumulative box office tops 5 mln yuan】According to Lighthouse Professional, on its 12th day the film Niu Lai has a cumulative box office exceeding 5 mln yuan."
+    },
     {
       "id": "5042727",
       "time": "2026-08-16 16:39:05",
