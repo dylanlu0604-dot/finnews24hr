@@ -1,7 +1,31 @@
 {
   "date": "2026-08-17",
-  "count": 76,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:01a00bf8-c343-7aab-9050-27467ce0b507",
+      "time": "2026-08-17 03:07:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas said a leadership delegation led by Khaled al-Hayya met mediators and guarantors of the Gaza agreement in Egypt today and told guarantors it had agreed to the second phase of Trump's plan."
+    },
+    {
+      "id": "5042939",
+      "time": "2026-08-17 03:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊已致黎巴嫩4346人死亡】據黎巴嫩公共衛生部緊急行動中心16日訊息，3月2日至8月16日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4346人死亡，12301人受傷。"
+    },
+    {
+      "id": "5042938",
+      "time": "2026-08-17 03:05:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特外交部在一份宣告中譴責以色列公開反對特朗普全面計劃的路線圖，該計劃旨在完成結束加沙衝突的執行。"
+    },
     {
       "id": "mkt:01a00bef-7999-7aab-9050-1dd6f5c929dd",
       "time": "2026-08-17 02:57:18",
