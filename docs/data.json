@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-17 06:45:53",
-  "count": 15226,
+  "updated": "2026-08-17 06:49:46",
+  "count": 15228,
   "items": [
+    {
+      "id": "5043002",
+      "time": "2026-08-17 06:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普政府建立了與伊朗革命衛隊的秘密溝通渠道，特朗普藉助伊拉克庫爾德地區領導人巴爾扎尼聯絡到一名革命衛隊指揮官；巴爾扎尼主動提出協助重啟美伊談判。"
+    },
+    {
+      "id": "mkt:01a00cc2-a973-7aab-9051-14f8e4f644d5",
+      "time": "2026-08-17 06:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver climbed above $65/oz, up 0.53% intraday."
+    },
+    {
+      "id": "mkt:01a00cc1-53b6-7aab-9051-0846b17ab533",
+      "time": "2026-08-17 06:46:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July food price index YoY 1.9%, previous 2.5%."
+    },
+    {
+      "id": "mkt:01a00cc1-34d2-7aab-9051-07c4869262c1",
+      "time": "2026-08-17 06:46:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (YoY) (Jul) | actual 1.9% | previous 2.5%"
+    },
     {
       "id": "5043001",
       "time": "2026-08-17 06:45:18",
@@ -139180,26 +139214,6 @@
         "焦點"
       ],
       "text": "【宇樹科技今起申購】8月10日，宇樹科技將在科創板開啟申購，A股“人形機器人第一股”將正式登場。宇樹科技發行價格為150.80元/股，上市時市值約為609.93億元，預計募資總額達60.99億元。公告顯示，宇樹科技的網上、網下申購日為8月10日，繳款日為8月12日。其中，網上申購程式碼為“787836”，證券程式碼及網下申購程式碼為“688836”。此次網上預計發行647.1萬股，市場預估中籤率為0.02%–0.03%。"
-    },
-    {
-      "id": "5032712",
-      "time": "2026-08-10 06:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普任命威爾·沙夫出任新任白宮法律顧問】特朗普宣佈，威爾·沙夫將於9月就任新任白宮法律顧問。此次人事調整發生在中期選舉前夕，國會也或將啟動多輪調查。沙夫將接替戴維·沃靈頓。沃靈頓是特朗普的私人律師，就職前效力於特朗普競選團隊，之後出任白宮法律顧問。特朗普在真實社交平臺發帖稱，沃靈頓接下來將轉赴私營部門任職。人事交接將於9月1日正式啟動。現年40歲的沙夫在特朗普本屆政府身兼數職。公眾最常看到他在橢圓形辦公室，向總統遞交待簽署的行政命令。他同時擔任白宮幕僚秘書與國家首都規劃委員會主席，該委員會負責監管特朗普在華盛頓推進的各類建設專案，其中就包括白宮新建宴會廳專案。沙夫畢業於普林斯頓大學，之後就讀哈佛大學法學院。他曾在密蘇里州從事政治活動，2024年參選該州總檢察長，但競選失利。競選期間，特朗普挑選他加入自己的法律團隊。"
-    },
-    {
-      "id": "mkt:019fe8b5-6c64-7aab-8fcc-4a919b34c1f4",
-      "time": "2026-08-10 06:47:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran swaps national security chief as Strait of Hormuz talks reach critical stage】As diplomatic talks to reopen the Strait of Hormuz reached a critical stage, Iran’s supreme leader Mujtaba appointed Zolghadr as his political adviser and named Rezaei secretary of the Supreme National Security Council and the leader’s representative on that council. Rezaei led the IRGC from 1981–1997 and has served as secretary of the Expediency Council. Both men are hardliners and former IRGC commanders; it is unclear how the changes will alter Tehran’s negotiating stance. Political sources said Zolghadr’s resignation was unrelated to security and that his conditions for reopening the strait align with Mujtaba’s views and must be met for talks to proceed. Officials link Iran’s tougher posture to recent U.S. military activity in the region, U.S.-Israel cooperation and Israeli readiness to assist strikes on Iran; internal differences over the strait are described as normal but final decisions rest with Mujtaba."
     }
   ]
 }
