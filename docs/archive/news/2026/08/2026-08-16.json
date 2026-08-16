@@ -1,7 +1,66 @@
 {
   "date": "2026-08-16",
-  "count": 580,
+  "count": 587,
   "items": [
+    {
+      "id": "mkt:01a00aae-535c-7aab-904e-2bd58c76b547",
+      "time": "2026-08-16 21:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV cited Saudi civil defence saying a danger alert for the Jazan region was lifted after the warning system was activated."
+    },
+    {
+      "id": "5042847",
+      "time": "2026-08-16 21:05:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：吉贊地區此前空襲警報已經解除。"
+    },
+    {
+      "id": "mkt:01a00aac-abba-7aab-904e-262f6c3bad1f",
+      "time": "2026-08-16 21:04:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi state news agency said air-raid sirens were activated in the Jazan region. Earlier, TASNIM NEWS reported explosions near the Jazan refinery in Saudi Arabia."
+    },
+    {
+      "id": "5042846",
+      "time": "2026-08-16 21:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "環球聯合保險季度保險合同收入為1340萬美元。"
+    },
+    {
+      "id": "5042845",
+      "time": "2026-08-16 21:03:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門發文，對吉贊省潛在安全風險發出警報。"
+    },
+    {
+      "id": "mkt:01a00aab-1231-7aab-904e-1e9b8959acf4",
+      "time": "2026-08-16 21:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi forces release prisoners en masse conditioned on joining frontlines】Arab satellite TV’s English channel, citing military sources, reports Yemen’s Houthi forces have freed hundreds of prisoners on the condition they join the militia and fight on nationwide fronts. Sources say 850 detainees were released from prisons in Saada, Hajjah and Sana’a on that condition, and the Houthis are preparing to free about 1,400 more from Zamar province for deployment across multiple battlefronts."
+    },
+    {
+      "id": "5042844",
+      "time": "2026-08-16 21:02:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微信下架多部違規微短劇並處置違規小程式】近日，微信釋出關於違規微短劇的處置公告（2026年7月），根據國家廣播電視總局和廣東省廣播電視局的部署要求，平臺不斷加大對低俗有害微短劇的巡查稽核和違規侵權微短劇小程式的運營管理。平臺也持續規範真人類微短劇、其他動畫類微短劇和AI真人類微短劇的管理標準、創作要求與傳播秩序，切實保障使用者權益和未成年人身心健康。近期，平臺透過巡查稽核發現，部分微短劇存在不良價值觀導向內容或侵權等行為。根據國家相關法律法規要求以及《騰訊微信軟體許可服務協議》《微信小程式運營規範》的相關規定，平臺下架了數十部違規微短劇，包含部分價值觀導向不正、內容粗製濫造的內容。同時，平臺對存在違規行為的小程式也進行了處置。（每日經濟新聞）"
+    },
     {
       "id": "5042843",
       "time": "2026-08-16 21:01:15",

@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-16 21:03:19",
-  "count": 15185,
+  "updated": "2026-08-16 21:07:14",
+  "count": 15189,
   "items": [
+    {
+      "id": "mkt:01a00aae-535c-7aab-904e-2bd58c76b547",
+      "time": "2026-08-16 21:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV cited Saudi civil defence saying a danger alert for the Jazan region was lifted after the warning system was activated."
+    },
+    {
+      "id": "5042847",
+      "time": "2026-08-16 21:05:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：吉贊地區此前空襲警報已經解除。"
+    },
+    {
+      "id": "mkt:01a00aac-abba-7aab-904e-262f6c3bad1f",
+      "time": "2026-08-16 21:04:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi state news agency said air-raid sirens were activated in the Jazan region. Earlier, TASNIM NEWS reported explosions near the Jazan refinery in Saudi Arabia."
+    },
+    {
+      "id": "5042846",
+      "time": "2026-08-16 21:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "環球聯合保險季度保險合同收入為1340萬美元。"
+    },
+    {
+      "id": "5042845",
+      "time": "2026-08-16 21:03:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門發文，對吉贊省潛在安全風險發出警報。"
+    },
+    {
+      "id": "5042844",
+      "time": "2026-08-16 21:02:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微信下架多部違規微短劇並處置違規小程式】近日，微信釋出關於違規微短劇的處置公告（2026年7月），根據國家廣播電視總局和廣東省廣播電視局的部署要求，平臺不斷加大對低俗有害微短劇的巡查稽核和違規侵權微短劇小程式的運營管理。平臺也持續規範真人類微短劇、其他動畫類微短劇和AI真人類微短劇的管理標準、創作要求與傳播秩序，切實保障使用者權益和未成年人身心健康。近期，平臺透過巡查稽核發現，部分微短劇存在不良價值觀導向內容或侵權等行為。根據國家相關法律法規要求以及《騰訊微信軟體許可服務協議》《微信小程式運營規範》的相關規定，平臺下架了數十部違規微短劇，包含部分價值觀導向不正、內容粗製濫造的內容。同時，平臺對存在違規行為的小程式也進行了處置。（每日經濟新聞）"
+    },
+    {
+      "id": "mkt:01a00aab-1231-7aab-904e-1e9b8959acf4",
+      "time": "2026-08-16 21:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi forces release prisoners en masse conditioned on joining frontlines】Arab satellite TV’s English channel, citing military sources, reports Yemen’s Houthi forces have freed hundreds of prisoners on the condition they join the militia and fight on nationwide fronts. Sources say 850 detainees were released from prisons in Saada, Hajjah and Sana’a on that condition, and the Houthis are preparing to free about 1,400 more from Zamar province for deployment across multiple battlefronts."
+    },
     {
       "id": "5042843",
       "time": "2026-08-16 21:01:15",
@@ -138899,37 +138958,6 @@
         "其他"
       ],
       "text": "【無人機威脅增多 德國新建機構研究應對】德國萊比錫機場發現搭載爆炸物的無人機後，內政部長亞歷山大·多布林特宣佈該國將新建一所無人機安全研究機構，以應對這類威脅。據德國《星期日圖片報》9日報道，這一新機構位於德國東部薩克森-安哈爾特州的德國航空航天中心試驗機場，將於本月18日成立。多布林特表示，該機構將致力於開發和測試無人機防範技術，整合相關科研人員，根據安全部門要求進行技術創新，加強無人機安全研究。（新華社）"
-    },
-    {
-      "id": "5032571",
-      "time": "2026-08-09 21:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【塞普勒斯有望2028年為歐洲供氣】塞普勒斯能源部長邁克爾·達米亞諾斯日前接受美國媒體採訪時說，塞普勒斯有望最早於2028年3月起向歐洲供應東地中海地區出產的天然氣。達米亞諾斯告訴美聯社，烏克蘭危機和中東戰事令全球能源市場動盪，促使歐洲國家推動能源來源多元化，而東地中海地區的海上氣田正逐漸進入它們的視野，成為替代供應渠道。（新華社）"
-    },
-    {
-      "id": "5032570",
-      "time": "2026-08-09 21:03:45",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【槓桿ETF規模激增放大市場波動，華爾街日內動量交易迎爆發式增長】隨著槓桿ETF資產規模的爆炸式增長，其每日機械性再平衡機制正顯著放大市場波動，進而為華爾街日內動量交易策略創造了新的獲利途徑。當前，半導體等科技板塊已成為此類短期趨勢交易的核心領域。槓桿ETF的運作機制決定了其具有天然的順週期特徵。為維持既定槓桿倍數，此類基金在市場上漲時必須追加買入，下跌時則被迫賣出。在此背景下，專注於高波動資產的日內動量策略迎來了顯著增長。資料顯示，自2024年以來，針對半導體行業的日內動量有效策略數量增長逾兩倍。這類策略透過嚴格的量化規則在價格大幅波動時捕捉短期趨勢，其風險調整後收益遠超美股整體指數表現。摩根大通策略師指出，當前市場的高波動性特徵令人回想起1998年技術革命時期，為日內動量策略提供了極佳的交易環境。"
-    },
-    {
-      "id": "mkt:019fe69f-021d-7aab-8fca-2eda20069325",
-      "time": "2026-08-09 21:03:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【July CPI expectations dip; Citi, BofA split on September hike odds】Refinitiv survey: economists expect US July headline CPI 3.4% YoY (June 3.5%); core CPI 2.5% YoY (June 2.6%). Citi economists say two consecutive months of softer inflation readings would effectively rule out a September rate hike. Citi nonetheless expects core services inflation to tick up 0.3% MoM in July after being flat in May–June. BofA analysts say a rebound in core services could keep a September hike on the table. BofA analyst Kate Duguid adds that if the latter view wins and inflation prints below expectations, a Fed hike could be delayed to December or later."
     }
   ]
 }
