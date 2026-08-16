@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:35:42_
-_本檔包含 3046 則快訊，約 600891 字_
+_更新時間：2026-08-16 17:55:07_
+_本檔包含 3056 則快訊，約 601167 字_
+
+---
+
+### 2026-08-16 17:53:31  #公司 #國際
+
+【近800萬韓國人持有三星股票】根據三星電子向韓國金融監督院電子披露系統（DART）提交的半年報，截至6月底，該公司散戶股東人數達到創紀錄的7971242人，逼近800萬，較去年6月底的5049985人增加了約292萬人。 鑑於韓國成年人口為4300萬，這意味著每五名成年人中就有一人持有三星電子股票。散戶股東合計持有三星電子已發行股份的66.24%。與去年底4195927名散戶股東相比，半年內增加了約377萬人。
+
+---
+
+### 2026-08-16 17:51:20  #其他
+
+【北京解除雷電黃色預警訊號】目前，影響我市的雷雨雲團已減弱，市氣象臺2026年8月16日17時50分解除雷電黃色預警訊號。（氣象北京）
+
+---
+
+### 2026-08-16 17:49:49  #MKT News
+
+【Indonesia M7.7 quake kills 53】Indonesia’s National Disaster Management Agency official Abdul Muhari said on the afternoon of the 16th the M7.7 earthquake has killed 53 people. Local authorities have recorded 995 aftershocks since the quake.
+
+---
+
+### 2026-08-16 17:48:38  #市場 #觀點
+
+【中信建投： A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉】中信建投釋出研報稱，7月底全球科技去槓桿基本結束，海外科技在宏觀約束緩解和產業景氣驗證下率先修復，市場重新由資金面定價轉向基本面定價。A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉。歷史經驗表明，資金結構主要影響行情節奏，中期方向仍由業績兌現決定。當前算力產業鏈需求仍具韌性，A股科技修復尚未結束，配置上應優先選擇基本面確定性較高的核心資產，同時關注創新藥和工業金屬。行業重點關注：光通訊、伺服器、創新藥、有色金屬、機械、新能源等。
+
+---
+
+### 2026-08-16 17:46:49  #MKT News
+
+Hamas says its delegation in Cairo aims to secure the occupiers' commitment to the roadmap agreed with the peace committee.
+
+---
+
+### 2026-08-16 17:46:14  #MKT News
+
+Hamas said the delegation's meeting in Cairo is part of ongoing communications with mediators to inform them of Israeli violations.
+
+---
+
+### 2026-08-16 17:45:51  #MKT News
+
+Hamas delegation has arrived in Cairo and is set to begin meetings to discuss the Gaza situation.
+
+---
+
+### 2026-08-16 17:43:46  #公司
+
+【山東高速：披露回購股份事項前十大股東及持股情況】山東高速公告稱，公司於2026年8月3日審議透過以集中競價交易方式回購部分股份的議案，該事項尚需股東會審議批准。現披露2026年8月13日登記在冊的前十名股東和前十名無限售條件股東情況，山東高速集團有限公司以30.73億股、63.57%的持股比例位居榜首，招商局公路網路科技控股股份有限公司、安徽皖通高速公路股份有限公司分別以7.84億股、3.38億股緊隨其後，持股比例分別為16.21%、7.00%。
+
+---
+
+### 2026-08-16 17:41:52  #其他
+
+【生態環境部部長黃潤秋赴浙江調研生態環境保護工作】8月14日至15日，生態環境部部長黃潤秋赴浙江省麗水市、台州市、寧波市調研生態環境保護工作。積極安全有序發展核電是構建清潔低碳、安全高效能源體系，推動實現碳達峰碳中和的重要舉措。黃潤秋來到位於台州市的三門核電廠，深入執行機組主控室和在建機組核島廠房，詳細瞭解核電機組執行狀況和建設進展，看望慰問華東核與輻射安全監督站現場監督人員。他強調，要堅持理性、協調、並進的核安全觀，把保障核安全擺在最高優先順序，強化核電廠全過程監督，壓實核安全主體責任。要督促企業嚴格落實核安全法規標準要求，切實保障核電機組執行安全、建造質量受控，提升裝置穩定性和可靠性，加強核電廠輻射環境監測，以高水平安全護航核電事業高質量發展。
+
+---
+
+### 2026-08-16 17:41:27  #其他
+
+【男子稱買到 2027年“早產飲料”？東鵬特飲最新回應】吳先生8月10日晚上在陳倉區縣功鎮一商店購買了2瓶1L裝的東鵬飲料果之茶蜜桃烏龍，還參加了廠家的一元換購活動，換了4瓶，一共拿回家6瓶。 8月12日，他無意中發現其中一瓶瓶蓋上的噴碼為20270629，瓶身上面明確寫著生產日期見瓶蓋，“這是早產的飲料嗎？”15日，東鵬特飲工作人員回應，為配合新版標籤法規的最新要求，東鵬飲料逐步進行產品噴碼格式的切換工作，瓶蓋日期噴碼從標註生產日期調整為標註保質期到期日，過渡期內，新舊版標籤的產品並行流通銷售。 （南方日報）
+
+---
+
+### 2026-08-16 17:40:45  #MKT News
+
+IRGC says Kuwait withheld information from Tehran on the fate of four detained Iranians.
+
+---
+
+### 2026-08-16 17:40:15  #其他
+
+【我國科學家釋出大豆垂直大模型“豐菽”2.0】記者從安徽農業大學獲悉，8月16日，在廣西南寧召開的第32屆全國大豆科研生產研討會上，該校王曉波教授代表研發團隊釋出了大豆領域垂直大模型“豐菽”2.0。它實現了多模態資料融合，降低單一模型回答偏差，有助於推動實現大豆資料輔助育種。據瞭解，“豐菽”2.0整合了大豆種質資源、基因組與編碼序列、蛋白質、轉錄本、基因表達、病害樣本、育種試驗記錄及中外文獻資料，形成面向大豆科研的結構化知識體系。相較於初代版本，“豐菽”2.0新增多模型協同分析機制。 據研發團隊介紹，“豐菽”2.0嵌入了部分通用大模型介面，它們可分別回答同一大豆專業問題，再由“豐菽”2.0總結模組結合領域知識、私有資料和結構化比對規則，對各模型回答中的共識、差異及證據完整性進行綜合分析，形成更加清晰可靠的專業結論，有助於提高大豆專業知識服務的穩定性。（新華社）
+
+---
+
+### 2026-08-16 17:39:42  #國際
+
+【印尼地震死亡人數升至51人】據印尼救援部門官員釋出的訊息，截至今天（8月16日）上午，15日發生的印尼7.7級地震已導致51人死亡。印尼國家搜救局官員表示，聯合搜救隊今天繼續擴大搜救範圍，對受災民眾開展搜救和救助工作。隨著此前因山體滑坡中斷的部分道路逐步恢復通行，救援人員將進入相關受災地區開展救援。有關部門同時會加強協調，確保救援力量覆蓋所有受災地區。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 17:39:23  #國際
+
+【衝突爆發以來，特朗普政府對伊朗的戰略訴求已經大幅縮減】特朗普政府在應對持續六個月的伊朗戰爭困境時，其戰略目標正經歷顯著縮減與重排。戰爭初期，美方曾設定包括迫使伊朗徹底投降、實現政權更迭、阻止其擁核以及切斷其對中東代理人支援等一系列絕對化目標。然而，隨著戰事延宕，美國政府正逐漸接受更低的預期。當地時間週四，美國副總統J·D·萬斯在節目中明確提出了當前戰爭的兩大核心目標，其優先順序排序引發外界高度關注。萬斯表示，首要目標是確保海灣國家繼續向全球輸送油氣以維持能源價格穩定，即“讓全美各地的民眾都能用上價格低廉的石油和天然氣”；而“確保伊朗永遠無法獲得核武器”則被列為第二目標。這一表態與美方一貫將“防核擴散”置於首位的立場形成鮮明反差。儘管白宮新聞秘書卡羅琳·利維特隨後試圖“找補”，重申這兩個目標對總統而言“同等重要”，但將國內油氣價格納入核心戰略考量，並置於防核議題之上，仍標誌著美國對伊政策出現重大轉向。分析認為，這一最新表態進一步表明，在戰爭陷入僵局之際，美國政府正準備大幅降低其戰略目標預期。
+
+---
+
+### 2026-08-16 17:36:33  #國際
+
+【瞄準“多元人口” 美民主黨敲定初選“早鳥州”】美國民主黨全國委員會15日在得克薩斯州表決透過2028年總統選舉黨內初選“首發”日程，確定6個州為當年1月至2月舉行初選的“早鳥州”，主要瞄準了這些州選民中分量較重的少數族裔和工人群體，指望靠民主黨的“多元化”策略打響第一炮，從而鞏固並擴大其基本盤，爭取贏得兩年多後的總統選舉。按照新的初選日程，民主黨衝刺2028年大選的初選戰將在南卡羅來納州開鑼：2028年1月22日，位於東南部的南卡州將率先舉行民主黨初選投票、確認其支援哪位總統候選人。緊隨其後的是位於西部的內華達州，2月1日舉行初選。其餘“早鳥州”依次為新罕布什爾州、新墨西哥州、密歇根州和弗吉尼亞州，初選日程均集中於2月，即“超級星期二”之前。其他州3月及之後舉行初選。（央視新聞）
 
 ---
 
@@ -18359,35 +18449,5 @@ China's National Commission for Disaster Reduction and the Ministry of Emergency
 ### 2026-08-14 12:39:44  #其他
 
 【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。
-
----
-
-### 2026-08-14 12:39:03  #公司
-
-【三一集團、翱捷科技等成立創業投資基金】企查查APP顯示，近日，廣州華胥三期創業投資基金合夥企業（有限合夥）成立，出資額6.27億元，經營範圍包含私募股權投資基金管理、創業投資基金管理服務；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由三一集團有限公司、翱捷科技等共同持股。
-
----
-
-### 2026-08-14 12:38:36  #MKT News
-
-【Goldman trader: market has flipped from fearing rate hikes to 'either outcome is bullish'; complacency rising】Goldman derivatives trader Shawn Tuteja says US equity sentiment reversed in two weeks from fearing the Fed, higher long‑end yields, geopolitics and supply to a 'either outcome is bullish' view on the September FOMC. Market reads a dovish‑leaning hike as stabilising the long end, and no hike as confirmation that strong earnings will broaden gains beyond AI. Client net exposures are at the 67th percentile over the past five years and total exposures at the 89th; SPX single‑day call volume hit a record ~4.0m contracts. Tuteja does not predict a large index decline but warns that when both policy outcomes are pre‑priced as positive, market cushioning against a hawkish surprise or renewed long‑yield upside is reduced, raising complacency risk.
-
----
-
-### 2026-08-14 12:38:13  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Falls to Over 2-Week Low — India’s BSE Sensex fell about 0.4% to 77,772 on Friday, reversing gains in the last session and reaching its lowest level since July 29, as investors remained cautious amid persistent Middle East tensions and elevated crude oil prices. Investor sentiment was also weighed by weakness in financial stocks after the Reserve Bank of India proposed loan-pricing changes that could reduce banks’ pricing flexibility and pressure loan yields and margins. Among individual stocks, Tata Motors Passenger Vehicles was under pressure, falling about 4.7% after the automaker reported an 80% drop in first-quarter profit, hurt by higher costs, foreign-exchange losses and weakness at Jaguar Land Rover. Meanwhile, LG Electronics India climbed about 6.8% after reporting a more than 27% rise in first-quarter profit and retaining its full-year revenue growth target, helped by strong summer demand for air conditioners and refrigerators. The benchmark is on track for a weekly decline of about 0.9%.
-
----
-
-### 2026-08-14 12:37:56  #MKT News #Commodities #Energy
-
-KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were 286,000 tonnes and via Novorossiysk were 360,000 tonnes.
-
----
-
-### 2026-08-14 12:37:41  #Trading Economics #Economy #Malaysia #Current Account #Importance 1
-
-Malaysia Current Account Surplus Widens in Q2 — Malaysia’s current account surplus widened sharply to MYR 10.8 billion in the second quarter of 2026 from MYR 2.7 billion a year earlier, driven primarily by a substantial increase in the goods surplus. The goods surplus more than doubled to MYR 40.7 billion from MYR 16.0 billion a year ago, reflecting stronger external trade performance. Meanwhile, the services deficit rose slightly to MYR 0.7 billion from MYR 0.5 billion, mainly due to higher net outflows in travel, manufacturing services on physical inputs owned by others, and telecommunications, computer and information services, which more than offset increases in transport, insurance and pension services, and other business services. The primary income deficit widened sharply to MYR 27.2 billion from MYR 9.5 billion, as both investment income and compensation of employees recorded larger declines. The secondary income deficit narrowed to MYR 2.1 billion from MYR 3.2 billion.
 
 ---

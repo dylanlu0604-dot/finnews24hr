@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:35:42_
-_本檔包含 3002 則快訊，約 600357 字_
+_更新時間：2026-08-16 17:55:07_
+_本檔包含 3000 則快訊，約 601095 字_
+
+---
+
+### 2026-08-13 11:13:08  #其他
+
+伊拉克總理表示，該國不會容忍任何違反其領空的行徑或來自任何一方的對國家安全的威脅。
+
+---
+
+### 2026-08-13 11:12:47  #宏觀
+
+【我國碧水保衛戰將努力推動解決群眾身邊“煩心事”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”期間，我國碧水保衛戰將主動靠前、多措並舉，努力推動解決群眾身邊“煩心事”。會上介紹，近年來，我國大江大河水質持續向好，長江、黃河干流連續多年保持Ⅱ類水質，成效明顯，但水生態環境保護依然存在薄弱環節：有的地方“幹流好、支流差”，有的地方“平時好、汛期差”，還有的地方，老百姓“房前屋後”“田邊道旁”的水汙染問題依然突出。根據國務院辦公廳轉發的《群眾身邊水體保護治理行動方案》，今後將更加聚焦群眾身邊水體，解決群眾“家門口”的突出水生態環境問題。首先，擴面提質治理重點。其次，加力推進控源截汙。再次，持續深化監測監管。特別重要的是，主動回應群眾關切。一方面，透過全國生態環境投訴舉報平臺接受舉報，2025年共受理並辦結水汙染投訴1.4萬餘件。另一方面，主動運用衛星遙感、大資料篩查等手段廣泛收集問題線索，建立排查、移交、核查、整改、銷號的閉環工作機制。生態環境部將繼續堅持環保為民，深入推進群眾身邊水體治理，力爭到2030年，基本實現“三無”，即無異色、無異味、無異物，讓老百姓更多感受到水環境的治理成效。
+
+---
+
+### 2026-08-13 11:11:55  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量2107億元。
+
+---
+
+### 2026-08-13 11:11:15  #MKT News
+
+Indonesia Stock Exchange CEO said MSCI's rebalancing is a routine measure and the bourse will continue to engage with MSCI.
+
+---
+
+### 2026-08-13 11:10:53  #公司 #國際
+
+印尼證券交易所執行長表示：明晟（MSCI）指數調整是一項週期性措施，印尼證交所將繼續與明晟保持溝通。
+
+---
+
+### 2026-08-13 11:10:49  #Trading Economics #Economy #New Zealand #Inflation Expectations #Importance 1
+
+New Zealand 2-Year Inflation Outlook Falls to 2.34% — The Reserve Bank of New Zealand’s (RBNZ) quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, down from 2.53% in the previous period, marking the lowest reading since Q4 2025. Meanwhile, one-year inflation expectations also moderated to 2.60%, down from 3.41% in Q1. Conversely, longer-term expectations accelerated, with five-year inflation forecasts rising to 2.31% from 2.22%, while ten-year expectations edged up to 2.20% from 2.19%. In terms of monetary policy, respondents expect the Official Cash Rate (OCR) to rise to 2.73% from 2.34% by the end of the September quarter and further to 3.21% over the next year. The survey was conducted after the RBNZ’s monetary policy decision in May 2026.
+
+---
+
+### 2026-08-13 11:10:19  #國際
+
+印尼計劃於 8 月 13 日開展政府債券債務置換操作。
+
+---
+
+### 2026-08-13 11:09:44  #MKT News #CSCO.O #Impact bullish
+
+Melius Research raises Cisco (CSCO.O) PT to $160 from $145.
+
+---
+
+### 2026-08-13 11:08:16  #宏觀
+
+【一年來我國已累計清理處置6000多萬噸固體廢物】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，自去年6月啟動全國非法傾倒處置固體廢物專項整治行動以來，我國已累計排查發現問題5.6萬多個，完成整改4.5萬多個，清理處置各類固體廢物6000多萬噸，一大批存量汙染問題得到有效整治。
+
+---
+
+### 2026-08-13 11:06:21  #市場 #焦點
+
+南向資金淨買入額達40億港元。
+
+---
+
+### 2026-08-13 11:05:35  #MKT News #WTI #Impact bearish #Brent
+
+【Industry group expects fifth domestic refined fuel price cut this year】China’s fuel-price adjustment window opens at 00:00 on Aug. 15. Industry consultancy Longzhong Information says international crude weakened over the cycle, prompting a domestic refined-fuel cut of about 0.15 yuan/liter, expected to be the fifth reduction this year. Filling a 70‑liter tank would save roughly 11 yuan.
+
+---
+
+### 2026-08-13 11:03:56  #其他
+
+【機構預測成品油價格將迎年內第五次下調】8月14日24時（本週六零點），成品油調價視窗將再度開啟。記者從行業機構隆眾資訊獲悉，因週期內國際原油價格震盪下行，屆時國內成品油下調幅度在0.15元/升左右，預計將迎年內第五次下調。以70升的油箱來計算，私家車主加滿一箱油將少花11元左右。（第一財經）
+
+---
+
+### 2026-08-13 11:03:52  #宏觀 #公司
+
+【四川核能產業將迎建設運“雙高峰”】日前，國務院常務會議決定核准浙江金七門核電二期等4個核電專案共8臺機組。這是繼去年核准5個核電專案後，我國核電行業迎來的又一個大動作。華龍一號具有鮮明的“四川基因”，四川在研發設計、裝備製造等方面均有深度參與。 先看研發設計端，華龍一號的“心臟”——反應堆及一回路系統，由位於成都的中國核動力研究設計院研發設計。再看裝備製造端，也有不少“四川身影”。在德陽，國機重灌二重灌備已實現核主泵泵殼國產化，為華龍一號披上“超級合金盔甲”，當前正聚焦華龍一號2.0版，瞄準主裝置融合、技術檔案審查、國內標準應用等方向持續攻堅。東方電氣集團所屬企業深度參與核島和常規島主裝置供貨，包括反應堆冷卻劑泵、汽輪發電機組等。德陽九鼎電氣主要承製常規島部分的汽輪機低壓外缸等大型結構件。 在成都都江堰市，四川華都核裝置製造有限公司是國核心反應堆控制棒驅動機構領域龍頭企業，市場佔有率名列前茅。目前，全國多臺華龍一號機組的控制棒驅動機構由該公司承製。 聚焦核燃料環節，位於宜賓的中核建中核燃料元件有限公司負責CF3燃料元件製造，實現“成都研發設計”與“宜賓生產製造”產業鏈聯動。 此外，創新平臺也將持續發揮支撐作用。位於成都的先進核能裝備中試研發平臺，是連線研發與量產的“橋樑”。隨著華龍一號2.0版新技術、新材料、新工藝的應用需求增加，該平臺將繼續為高校、科研院所和企業提供關鍵中試驗證服務，助力四川核能產業持續增長。（四川日報）
 
 ---
 
@@ -18028,95 +18106,5 @@ Australian Market Tracks Wall Street Losses — Australian equities retreated We
 ### 2026-08-12 08:38:55  #MKT News #Market Themes #AI Revolution #Chip Wars
 
 【South Korea to inject more than $700m into sovereign fund targeting AI, strategic industries next year】South Korea’s finance ministry expects to deploy 600 billion–1 trillion won (about $707m) of new capital into a sovereign-wealth fund targeting AI and other strategic industries next year, and the final amount could exceed initial estimates depending on selected targets and their funding needs, the ministry’s Innovation Growth Office head said on Tuesday. There are currently no plans for the fund to invest directly in Samsung Electronics or SK Hynix. In July Seoul said the Korea Investment Corporation would set up a “strategic industry investment account” with initial capital of at least 20 trillion won (about RMB94bn), targeting AI, semiconductors, data centres and overseas supply-chain core firms and due to be formally launched and operated next year. The fund will also target robotics, energy and battery and grid infrastructure; nuclear, space and quantum technologies are under consideration.
-
----
-
-### 2026-08-12 08:37:31  #其他
-
-【沈曉明調研出海企業經營發展情況】據湖南日報，8月11日，湖南省委書記沈曉明在長沙調研出海企業經營發展情況，強調要持續深化體制機制改革，著力營造良好發展環境，千方百計為企業排憂解難，推動全省外資外貿高質量發展。
-
----
-
-### 2026-08-12 08:36:13  #公司 #國際
-
-【西班牙政府力挺中企費羅爾工廠】據西班牙《國家報》10日報道，針對西班牙國防部與國家情報中心就中國車企在費羅爾設立工廠發出預警引發的輿論風波，西班牙中央和地方政府官員當天緊急出面回應，對這一專案明確表達支援。復旦大學國際問題研究院中歐關係研究中心主任簡軍波11日記者表示，圍繞費羅爾工廠的博弈，本質上是發展訴求與安全泛化的較量。西班牙政府的選擇表明，在切實的經濟利益與就業紅利面前，理性的商業邏輯終將佔據上風。 西班牙加利西亞自治區政府6月初宣佈，中國上汽集團將在加利西亞拉科魯尼亞省費羅爾市建設其在歐洲的首家電動汽車工廠。該自治區政府主席魯埃達當時表示，該專案初期投資額為2億歐元，預計將為當地創造超過2300個就業崗位。（環球時報）
-
----
-
-### 2026-08-12 08:34:57  #國際
-
-【世界氣象組織：今年全球7月氣溫為有記錄以來第二高】當地時間11日，世界氣象組織發言人克萊爾·納利斯表示，西歐今年6月至7月經歷有記錄以來最熱時期，全球7月氣溫為有記錄以來第二高，全球海洋表面平均溫度則創同期最高紀錄。世界氣象組織統計顯示，日本和韓國上週均出現破紀錄高溫，亞洲其他地區和拉丁美洲部分地區也遭遇高溫，西非部分地區出現強季風降雨和洪水。今年1月至6月底，全球約82%的海洋經歷不同程度的海洋熱浪。
-
----
-
-### 2026-08-12 08:34:01  #公司
-
-【中國銀河證券：FDE重構AI應用新正規化，軟體行業或迎價值重估】中國銀河證券研報稱，前沿部署工程師（Forward Deployed Engineer，簡稱“FDE”）將成為AI落地的標準化路徑，軟體行業或迎價值重估。AI大模型時代，FDE不再是傳統意義上的人力外包的淺層定位，而是依託於前向程式碼能力與業務know-how，將通用大模型能力深度落地並沉澱為企業可複用的資料資產與智慧基座，所以傳統軟體行業收入增長將不再依靠傳統軟體授權模式，AI定製化服務、私有化部署、模型運維、駐場工程服務等將提高客單價。中國銀河證券認為，FDE帶來軟體行業交付正規化革命，提升客戶黏性以及客單價，商業模式上從傳統軟體授權轉向ROI、使用效果導向的全生命週期增量價值服務，故行業know-how將成為未來AI應用公司的護城河，部分軟體公司將迎來價值體系重估，開啟估值天花板。
-
----
-
-### 2026-08-12 08:33:40  #其他
-
-【華為nova16 SE今日正式開售】據“華為終端”，華為nova16 SE今日正式開售，起售價2499元，國補到手價僅2124.15元起。
-
----
-
-### 2026-08-12 08:33:24  #其他
-
-紐西蘭總理克里斯托弗·盧克森將於紐西蘭時間下午12:35發表講話。
-
----
-
-### 2026-08-12 08:32:45  #MKT News #Commodities #Precious Metals
-
-Spot silver hit an intraday high of $65/oz, up 0.52% on the day.
-
----
-
-### 2026-08-12 08:32:29  #公司 #市場
-
-【澳大利亞招聘平臺Seek計劃出售10億澳元基金資產以進行資本返還】澳大利亞招聘平臺Seek的執行長伊恩·納雷夫(Ian Narev)表示，在該公司持有多數股權的成長型基金出售了價值超過7億美元的資產後，Seek計劃向股東返還資本。Seek週三表示，其持有近84%股份的成長型基金的管理層打算出售價值逾10億澳元的資產，合7.062億美元。該公司預計這些計劃將在12月底前敲定。納雷夫在一次採訪中說，雖然該基金將對新機會進行再投資，但在澳大利亞證券交易所(ASX)上市的Seek打算將其部分所得款項返還給股東。納雷夫說：“該基金的首要目標是為包括我們在內的所有投資者創造長期價值。”Seek股價在澳洲證交所早盤下跌13%。
-
----
-
-### 2026-08-12 08:31:27  #其他
-
-【家：哥倫比亞強震與委內瑞拉強震無直接關聯】當地時間11日，哥倫比亞地質局專家佛雷迪·託瓦爾·貝爾卡拉在接受總檯記者專訪時表示，此次發生在哥倫比亞的7.5級強地震是該國有地震監測記錄以來的最強地震之一。同時，此次地震與今年6月24日發生在委內瑞拉的強震沒有直接關聯。
-
----
-
-### 2026-08-12 08:30:31  #其他
-
-上海證交所上日融資餘額幾無變動，報13,504.2億元。
-
----
-
-### 2026-08-12 08:29:28  #市場 #焦點
-
-紐約期金突破4440美元/盎司，日內跌0.02%。
-
----
-
-### 2026-08-12 08:28:26  #公司 #觀點
-
-【2026年8月11日ETF資金整體淨流出50.05億元】據同花順iFinD資料顯示，2026年8月11日，ETF資金整體淨流出50.05億元，股票型淨流出64.46億元，寬基型淨流出47.64億元。當日ETF資金淨流出榜單排名前3依次為：易方達創業板ETF（159915）淨流出14.56億元，南方中證1000ETF（512100）淨流出7.19億元，上證綜指ETF（510210）淨流出6.52億元。
-
----
-
-### 2026-08-12 08:27:49  #公司 #市場 #央行 #國際
-
-【日本東證指數上漲 銀行股和服務業板塊領漲 提前加息預期提振銀行股】日本東證指數上漲，主要受銀行和服務業板塊上漲的帶動。東證指數上漲0.3%至4,112.59；日經指數下跌0.1%至66,886.70。市場對日本央行提早加息的預期升溫，提振銀行板塊，其中三菱日聯金融集團對東證指數的漲幅貢獻最大，上漲2.3%。該指數的1637只成分股中，942只上漲，608只下跌，87只持平。
-
----
-
-### 2026-08-12 08:26:25  #市場 #國際
-
-日本三麗鷗股價在第一季度業績公佈後下跌17%。
-
----
-
-### 2026-08-12 08:24:29  #公司
-
-【中國生物科技服務稱與Stella Pharma就硼中子治療藥物在中國商業化訂立協議】中國生物科技服務：本集團於與Stella Pharma就聯合推進Steboronine®(全球首個獲批准的硼中子治療藥物)在中國的開發及商業化訂立主合作協議。此合作與本集團的鵬博海南硼中子醫院旗艦專案形成協同效應，標誌本集團將先進硼中子治療技術引入中國市場的重要戰略舉措，以進一步鞏固和發展在中國的業務。
 
 ---

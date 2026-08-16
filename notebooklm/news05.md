@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-16 17:35:42_
-_本檔包含 2953 則快訊，約 600776 字_
+_更新時間：2026-08-16 17:55:07_
+_本檔包含 2973 則快訊，約 601070 字_
+
+---
+
+### 2026-08-11 03:42:44  #市場
+
+【國際原油期貨結算價上漲5%】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。
+
+---
+
+### 2026-08-11 03:41:07  #焦點 #國際
+
+【特朗普稱霍爾木茲海峽目前處於開放狀態】特朗普表示，霍爾木茲海峽現已開放，且僅由美國海軍掌控。特朗普在橢圓形辦公室稱：“我們實施的封鎖萬無一失。這是一道鋼鐵之牆，只允許我們想放行的船隻通行。”
+
+---
+
+### 2026-08-11 03:40:26  #國際
+
+特朗普表示，美國對伊朗港口的封鎖行動堪稱完美，將其比作環繞伊朗的一道“鋼鐵之牆”。
+
+---
+
+### 2026-08-11 03:39:47  #MKT News
+
+Turkey's parliament passed a bill to advance the peace process with the Kurdistan Workers' Party (PKK).
+
+---
+
+### 2026-08-11 03:38:56  #國際
+
+特朗普談及伊朗：伊朗人造成數十萬人死亡。如今他們正在付出代價。
+
+---
+
+### 2026-08-11 03:38:17  #MKT News #Important #Market Themes #The Trump Trade
+
+Trump said he has spoken with Walsh only once since his appointment, denying Wall Street Journal reports they have been in frequent contact.
+
+---
+
+### 2026-08-11 03:38:04  #央行 #國際
+
+特朗普：自從沃什接任（美聯儲主席）以來，和他談過一次。
+
+---
+
+### 2026-08-11 03:37:52  #國際
+
+特朗普談內塔尼亞胡：（我們）關係良好。
+
+---
+
+### 2026-08-11 03:37:38  #國際
+
+特朗普：我非常尊重沃什。
+
+---
+
+### 2026-08-11 03:36:54  #MKT News
+
+U.S. President Trump said he spoke with Federal Reserve Chair Kevin Warsh a few days ago.
+
+---
+
+### 2026-08-11 03:36:03  #其他
+
+土耳其議會透過標誌性法案，推進庫爾德工人黨和平程序。
+
+---
+
+### 2026-08-11 03:36:01  #國際
+
+特朗普談沃什：我知道我想要什麼，但得由沃什來主持運作。
+
+---
+
+### 2026-08-11 03:35:31  #央行 #國際
+
+特朗普：幾天前與美聯儲主席沃什進行了交談。
+
+---
+
+### 2026-08-11 03:35:01  #MKT News #WTI #Impact bullish #Brent
+
+U.S. President Trump said only the United States can control the Strait of Hormuz.
+
+---
+
+### 2026-08-11 03:34:56  #MKT News #Important #WTI #Impact bearish #Brent
+
+President Trump said the US has cleared mines across the entire Strait of Hormuz.
+
+---
+
+### 2026-08-11 03:34:33  #國際
+
+特朗普：由於偶爾有水雷，（霍爾木茲）海峽的情況有點複雜。
+
+---
+
+### 2026-08-11 03:34:15  #國際
+
+特朗普談及伊朗問題：美國已完成整個（霍爾木茲）海峽的排雷工作。
+
+---
+
+### 2026-08-11 03:34:07  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+U.S. President Trump: The Strait of Hormuz is now open, we control it.
+
+---
+
+### 2026-08-11 03:34:04  #國際
+
+特朗普：只有美國（能）掌控霍爾木茲海峽。
+
+---
+
+### 2026-08-11 03:33:45  #國際
+
+特朗普談及霍爾木茲海峽：目前航道處於開放狀態。
+
+---
+
+### 2026-08-11 03:33:45  #MKT News #Commodities #Energy
+
+ECOPETROL: crude oil production, refining and fuel supply unaffected after earthquake.
+
+---
+
+### 2026-08-11 03:32:47  #國際
+
+【因伊朗提出戰爭賠償 特朗普稱也要向伊朗索賠】美國總統特朗普10日在社交媒體發文稱，在伊朗要求美國就軍事衝突進行賠償後，他也要向伊朗提出索賠，並已指示美方談判代表將這一要求明確納入今後所有談判議程中。
+
+---
+
+### 2026-08-11 03:32:24  #其他
+
+【哥倫比亞總統：強震已致111死87傷】哥倫比亞總統德拉埃斯普列亞10日在首都波哥大通報說，該國西部當天發生的強震已造成全國111人死亡、87人受傷。
+
+---
+
+### 2026-08-11 03:32:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up on 10th】Dollar index rose 0.27% to 99.809 at the New York close on the 10th. EUR/USD fell to 1.1542 from 1.1564; GBP/USD rose to 1.3509 from 1.3499. USD/JPY climbed to 159.24 from 157.55; USD/CHF 0.8101 from 0.8076; USD/CAD 1.3942 from 1.3937; USD/SEK 9.5016 from 9.4701.
+
+---
+
+### 2026-08-11 03:31:04  #市場
+
+【美元指數10日上漲】美元指數10日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於99.809。截至紐約匯市尾市，1歐元兌換1.1542美元，低於前一交易日的1.1564美元；1英鎊兌換1.3509美元，高於前一交易日的1.3499美元。1美元兌換159.24日元，高於前一交易日的157.55日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8076瑞士法郎；1美元兌換1.3942加元，高於前一交易日的1.3937加元；1美元兌換9.5016瑞典克朗，高於前一交易日的9.4701瑞典克朗。
+
+---
+
+### 2026-08-11 03:29:35  #MKT News
+
+A US judge dismissed the Department of Justice's criminal charges against Indian billionaire Gautam Adani.
+
+---
+
+### 2026-08-11 03:29:33  #市場 #焦點
+
+紐約期金突破4450美元/盎司，日內漲1.14%。
 
 ---
 
@@ -17751,47 +17913,5 @@ Yemen military source: Houthi forces attacked targets at Jabal al-Nar near Mokha
 ### 2026-08-09 17:55:32  #其他
 
 【新疆釋出高溫橙色預警 區域性氣溫超45℃】新疆維吾爾自治區氣象臺8月9日15時32分發布高溫橙色預警訊號：預計9日下午至19日，天山北坡、南疆盆地、東疆大部和塔城地區北部、阿勒泰地區西部的部分地區將有37℃以上的高溫天氣，其中博州東部、塔城地區北部、克拉瑪依市、石河子市、昌吉州、阿克蘇地區、巴州、吐魯番市、哈密市等地的部分割槽域最高氣溫將升至40℃以上，吐魯番市區域性區域將達45℃以上。需加強防範山區局地融雪型洪水，並注意防暑降溫和用火安全。（央視新聞）
-
----
-
-### 2026-08-09 17:53:34  #公司
-
-【中國廣告協會生成式引擎最佳化（GEO）團體標準第二次徵求意見會議在北京召開】8月6日，中國廣告協會生成式引擎最佳化（GEO）團體標準第二次徵求意見會議在北京召開。中國廣告協會秘書長霍焰、副秘書長崔妍出席會議並深度參與標準研討，來自央視網、抖音集團、阿里巴巴千問大模型、搜狐、360智見、利歐數字、微盟集團、深演智慧、PureblueAI清藍、鈦鎂AI、氧氣科技、沙利文、泰和泰律所、國家廣告研究院等GEO服務企業、網際網路平臺、大模型廠商、主流媒體、專業諮詢機構、律師事務所及學術科研機構等全產業鏈各環節的專家代表參會，圍繞中國廣告協會三項GEO團體標準徵求意見稿展開全面深度研討，為標準完善建言獻策。本次會議對7月8日首次徵求意見以來GEO全產業鏈及監管部門等各方意見進行了全面系統梳理，後續協會將形成送審稿，持續推進標準完善工作，保障標準的權威性、專業性、普適性。
-
----
-
-### 2026-08-09 17:50:18  #MKT News
-
-【Iran detains 12 vessels off Bandar Abbas over missing documentation】Iran's Bandar Abbas coast guard said on the 9th it detained 12 vessels in waters off Bandar Abbas after they failed to produce valid documentation. Authorities have not released vessel owners or other details.
-
----
-
-### 2026-08-09 17:49:50  #國際
-
-【伊朗稱在阿巴斯港附近海域扣押12艘違規船隻】當地時間9日，伊朗阿巴斯港海岸警衛隊相關負責人表示，伊方在阿巴斯港附近海域扣押了12艘違規船隻。該負責人稱，這些船隻未能提供有效的證明檔案。目前，伊方尚未公佈船隻所屬方等更多資訊。（央視新聞）
-
----
-
-### 2026-08-09 17:42:22  #其他
-
-【香港重新整理1884年以來最高氣溫紀錄】香港天文臺9日表示，截至當日下午3時30分，天文臺錄得最高氣溫36.9度，是1884年有記錄以來香港的最高氣溫。上水錄得最高氣溫39.8度，是天文臺自設定自動氣象站以來在香港境內錄得的最高紀錄。（新華社）
-
----
-
-### 2026-08-09 17:41:53  #MKT News #CNH #Impact bearish #WTI #Impact bullish #DXY
-
-【Typhoon White Dolphin (No.13) makes landfall in Yuhuan, Taizhou; max winds 42 m/s, pressure 945 hPa】The 13th typhoon of the season, White Dolphin (strong typhoon), made landfall at about 17:30 on the 9th on the coast of Kanmen subdistrict, Yuhuan city, Taizhou, Zhejiang. Maximum winds near the center were force 14 (42 m/s) and central pressure was 945 hPa.
-
----
-
-### 2026-08-09 17:40:15  #其他
-
-【安徽滁州釋出颱風黃色預警】滁州市氣象臺2026年08月09日17時26分變更釋出颱風黃色預警訊號。受颱風“白海豚”影響，預計未來24小時全市各鄉鎮（街道）將出現8～9級陣風，今天夜裡至11日暴雨，部分地區大暴雨，並可能伴有短時強降水、雷暴大風等強對流天氣。請注意防範！
-
----
-
-### 2026-08-09 17:37:53  #公司
-
-【渤海首個千億方大氣田一期專案全面投產，日產油氣當量超5200噸】澎湃新聞8月9日從中國海洋石油集團有限公司（下稱中國海油）獲悉，我國渤海首個千億方大氣田——渤中19-6氣田一期開發專案全面投產，日產油氣當量超5200噸。當前正值迎峰度夏關鍵時期，一期開發專案全面投產，可進一步滿足區域居民生活和工業生產的能源需求。渤中19-6氣田位於渤海中部海域，探明天然氣地質儲量超2000億立方米、探明石油液體地質儲量超2億立方米。該氣田埋藏深度超過5000米，油氣藏分佈廣闊但型別複雜，且潛山儲層裂縫密集。據中國海油天津公司工程技術作業中心相關負責人介紹，一期開發專案成功實施6000米以上超深井10口，創下渤海油田開發專案超深井井數紀錄，專案鑽井作業平均井深超5500米。（澎湃）
 
 ---
