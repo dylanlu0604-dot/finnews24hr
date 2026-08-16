@@ -1,7 +1,47 @@
 {
   "date": "2026-08-17",
-  "count": 32,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:01a00ba0-5694-7aab-904f-48d1cab3e39e",
+      "time": "2026-08-17 01:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades."
+    },
+    {
+      "id": "5042924",
+      "time": "2026-08-17 01:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。"
+    },
+    {
+      "id": "5042923",
+      "time": "2026-08-17 01:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。"
+    },
+    {
+      "id": "5042922",
+      "time": "2026-08-17 01:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。"
+    },
+    {
+      "id": "mkt:01a00b9d-47bb-7aab-904f-439e486a96d5",
+      "time": "2026-08-17 01:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline."
+    },
     {
       "id": "5042921",
       "time": "2026-08-17 01:24:32",

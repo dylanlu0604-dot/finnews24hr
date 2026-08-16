@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-17 01:25:29",
-  "count": 15193,
+  "updated": "2026-08-17 01:33:49",
+  "count": 15195,
   "items": [
+    {
+      "id": "mkt:01a00ba0-5694-7aab-904f-48d1cab3e39e",
+      "time": "2026-08-17 01:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades."
+    },
+    {
+      "id": "5042924",
+      "time": "2026-08-17 01:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。"
+    },
+    {
+      "id": "5042923",
+      "time": "2026-08-17 01:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。"
+    },
+    {
+      "id": "5042922",
+      "time": "2026-08-17 01:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。"
+    },
+    {
+      "id": "mkt:01a00b9d-47bb-7aab-904f-439e486a96d5",
+      "time": "2026-08-17 01:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline."
+    },
     {
       "id": "5042921",
       "time": "2026-08-17 01:24:32",
@@ -138945,30 +138985,6 @@
         "國際"
       ],
       "text": "俄國防部稱，防空力量當天在俄羅斯各地區擊落了285架烏克蘭無人機。"
-    },
-    {
-      "id": "5032648",
-      "time": "2026-08-10 01:30:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：當伊朗不再捲入戰爭時，將不得不直面黯淡的現實，卻無切實可行的解決方案。"
-    },
-    {
-      "id": "5032647",
-      "time": "2026-08-10 01:30:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：戰爭使伊朗得以迴避應對自身後果及嚴峻的經濟危機。"
-    },
-    {
-      "id": "mkt:019fe78e-f781-7aab-8fcb-240f1a1e1028",
-      "time": "2026-08-10 01:25:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor."
     }
   ]
 }
