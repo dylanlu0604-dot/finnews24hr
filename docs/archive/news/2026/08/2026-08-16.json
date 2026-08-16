@@ -1,7 +1,23 @@
 {
   "date": "2026-08-16",
-  "count": 631,
+  "count": 633,
   "items": [
+    {
+      "id": "mkt:01a00b12-83ee-7aab-904e-748950f4c55e",
+      "time": "2026-08-16 22:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel, Honduras sign MoU to deepen defense cooperation】Israel's Defense Ministry announced it signed a memorandum of understanding with Honduras to deepen defense cooperation and establish a framework for long-term collaboration based on shared interests."
+    },
+    {
+      "id": "5042884",
+      "time": "2026-08-16 22:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：夏威夷大島和毛伊縣部分地區持續遭受危及生命的洪水侵襲。"
+    },
     {
       "id": "5042883",
       "time": "2026-08-16 22:48:23",

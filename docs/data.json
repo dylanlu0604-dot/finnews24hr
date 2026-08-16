@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-16 22:54:16",
-  "count": 15191,
+  "updated": "2026-08-16 22:58:09",
+  "count": 15192,
   "items": [
+    {
+      "id": "mkt:01a00b12-83ee-7aab-904e-748950f4c55e",
+      "time": "2026-08-16 22:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel, Honduras sign MoU to deepen defense cooperation】Israel's Defense Ministry announced it signed a memorandum of understanding with Honduras to deepen defense cooperation and establish a framework for long-term collaboration based on shared interests."
+    },
+    {
+      "id": "5042884",
+      "time": "2026-08-16 22:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：夏威夷大島和毛伊縣部分地區持續遭受危及生命的洪水侵襲。"
+    },
     {
       "id": "5042883",
       "time": "2026-08-16 22:48:23",
@@ -138972,15 +138988,6 @@
         "其他"
       ],
       "text": "【“白海豚”已減弱為強熱帶風暴】據中央氣象臺訊息，“白海豚”已減弱為強熱帶風暴。8月9日22時，其中心位於浙江省溫州市文成縣境內（北緯27.6度、東經120.1度），最大風力11級。“白海豚”將以每小時20公里左右的速度向偏西方向移動，強度逐漸減弱。"
-    },
-    {
-      "id": "5032607",
-      "time": "2026-08-09 22:55:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊媒說議會國家安全委員會批准霍爾木茲海峽安全綱要】據伊朗邁赫爾通訊社9日報道，伊朗議會國家安全與外交政策委員會批准了確保霍爾木茲海峽安全與發展的戰略行動計劃綱要。（新華社）"
     }
   ]
 }
