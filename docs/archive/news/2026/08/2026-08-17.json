@@ -1,7 +1,28 @@
 {
   "date": "2026-08-17",
-  "count": 313,
+  "count": 315,
   "items": [
+    {
+      "id": "5043101",
+      "time": "2026-08-17 08:38:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【AI融資需求不斷攀升 Alphabet考慮首次發行澳元債券】隨著美國科技巨頭競相為人工智慧(AI)投資募集資金，谷歌母公司Alphabet已聘請銀行準備首次發行澳元債券。承銷行之一的澳新銀行在電郵宣告中稱，Alphabet可能發行四個期限的債券，最長達20年。Alphabet本月早些時候已在美元市場發行250億美元債券，2026年還分別發行了瑞士法郎、英鎊、歐元、加元和日元債券。該公司近期還透過股權融資籌集近850億美元。"
+    },
+    {
+      "id": "te:markets:575589",
+      "time": "2026-08-17 08:37:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise Amid Soft GDP Data — The Nikkei 225 Index rose 0.4% toward 69,000 on Monday, extending last week’s gains after preliminary data showed Japan’s economy expanded less than expected in the second quarter, as weak domestic demand offset robust exports. Still, strong demand related to artificial intelligence continued to support the outlook for Japanese companies deeply integrated into the global semiconductor supply chain. Chip and AI-linked stocks mostly advanced, including Kioxia Holdings (2.9%), Advantest (3.9%), Fujikura (3%), Tokyo Electron (1.6%) and Furukawa Electric (4.1%). Meanwhile, financial and consumer stocks mostly declined. In corporate news, Nvidia is reportedly planning to invest up to $3 billion in SB Energy, a SoftBank Group subsidiary developing a major data center project in Ohio for OpenAI."
+    },
     {
       "id": "te:economy:575588",
       "time": "2026-08-17 08:36:33",
