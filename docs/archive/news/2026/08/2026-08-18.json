@@ -1,7 +1,26 @@
 {
   "date": "2026-08-18",
-  "count": 101,
+  "count": 103,
   "items": [
+    {
+      "id": "mkt:01a010d5-2c6f-7aab-9067-5d4de2665a3d",
+      "time": "2026-08-18 01:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US sell-off continues; 30-year Treasury yield highest since 2007】The 30-year Treasury yield rose 3bp on Monday to 5.29%, its highest level since 2007 and closing in on the 2007 peak of 5.44%. The rise reflects investor concern over a rapidly expanding US debt stock, heavy long-term issuance and inflation running above the Fed’s target for the past five years. Higher long-term yields are lifting US government financing costs as investors demand greater compensation against rising debt and persistent inflation that could keep short-term rates elevated for longer. Barclays US rates strategist Anshul Pradhan said the bank remains sceptical the long-end sell-off will soon abate; a constructive view on long Treasuries would likely require some combination of fiscal relief, a slowdown in AI-related bond issuance, a revised Treasury issuance strategy, or sustained weakness in economic activity."
+    },
+    {
+      "id": "te:markets:575923",
+      "time": "2026-08-18 01:45:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%."
+    },
     {
       "id": "mkt:01a010ca-2fae-7aab-9067-53784ba2523a",
       "time": "2026-08-18 01:34:40",

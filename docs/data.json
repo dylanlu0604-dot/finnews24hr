@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-18 01:43:16",
-  "count": 15256,
+  "updated": "2026-08-18 01:47:14",
+  "count": 15255,
   "items": [
+    {
+      "id": "mkt:01a010d5-2c6f-7aab-9067-5d4de2665a3d",
+      "time": "2026-08-18 01:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US sell-off continues; 30-year Treasury yield highest since 2007】The 30-year Treasury yield rose 3bp on Monday to 5.29%, its highest level since 2007 and closing in on the 2007 peak of 5.44%. The rise reflects investor concern over a rapidly expanding US debt stock, heavy long-term issuance and inflation running above the Fed’s target for the past five years. Higher long-term yields are lifting US government financing costs as investors demand greater compensation against rising debt and persistent inflation that could keep short-term rates elevated for longer. Barclays US rates strategist Anshul Pradhan said the bank remains sceptical the long-end sell-off will soon abate; a constructive view on long Treasuries would likely require some combination of fiscal relief, a slowdown in AI-related bond issuance, a revised Treasury issuance strategy, or sustained weakness in economic activity."
+    },
+    {
+      "id": "te:markets:575923",
+      "time": "2026-08-18 01:45:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%."
+    },
     {
       "id": "mkt:01a010ca-2fae-7aab-9067-53784ba2523a",
       "time": "2026-08-18 01:34:40",
@@ -139757,34 +139776,6 @@
         "MKT News"
       ],
       "text": "FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race."
-    },
-    {
-      "id": "5034481",
-      "time": "2026-08-11 01:46:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局：里根國家機場預計將於 8 月 23 日上午 10 點 15 分至下午 1 點 15 分暫停航班運營，以保障 Freedom 250 汽車賽事開展。"
-    },
-    {
-      "id": "5034480",
-      "time": "2026-08-11 01:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "嘉能可支援的一個美國投資者團體考慮拯救鈷冶煉商Sherritt。"
-    },
-    {
-      "id": "mkt:019fecc5-bebe-7aab-8fde-82886bd0ef4c",
-      "time": "2026-08-11 01:43:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "On Iran talks, U.S. President Trump said Iran should be held responsible for the damage and deaths it has caused to the people of Lebanon, Syria, Yemen and Gaza."
     }
   ]
 }
