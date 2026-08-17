@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-17 20:55:37",
-  "count": 15256,
+  "updated": "2026-08-17 20:59:45",
+  "count": 15261,
   "items": [
+    {
+      "id": "mkt:01a00fcd-c0d3-7aab-9062-91b68c084744",
+      "time": "2026-08-17 20:58:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reports a magnitude 5.3 earthquake 75 km ESE of Petropavlovsk-Kamchatsky, Russia."
+    },
+    {
+      "id": "mkt:01a00fcd-4eb3-7aab-9062-8ff526b2a3e9",
+      "time": "2026-08-17 20:58:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【OpenAI signs 10 GW Ohio data‑center deal with SB Energy; NVIDIA to back financing】OpenAI has signed a 10 GW data‑center lease with SB Energy in Ohio. People familiar with the matter say NVIDIA has committed support to help raise debt financing by guaranteeing part of the value of completed data‑center assets, starting with the first phase (about 5 GW). In return NVIDIA will be the exclusive chip supplier for the first half of the project and will take an equity stake in SB Energy. NVIDIA may later expand its guarantees to the entire campus. The guarantees are structured against asset value rather than OpenAI’s ongoing rent, a design intended to limit NVIDIA’s risk while boosting lender confidence and lowering financing costs."
+    },
+    {
+      "id": "5044416",
+      "time": "2026-08-17 20:58:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【紐約州製造業活動在8月份出現2021年底以來最快擴張】由於訂單增長和積壓訂單保持強勁，8月份紐約州製造業活動出現2021年底以來的最快擴張。週一公佈的資料顯示，紐約聯邦儲備銀行8月份的製造業整體企業狀況指數上升5點，達到20.6。該資料高於零表明製造業在擴張。之前接受彭博新聞社調查的經濟學家的預測中值為10。對未來六個月整體企業狀況的展望指數也出現上升，對新訂單的預期指數達到2022年以來最高。今年美國製造業發展勢頭增強，消費者需求展現任性，企業投資也保持穩健，尤其是在人工智慧建設相關的領域。不過，企業也面臨著伊朗衝突導致的原材料價格上漲以及衝突持續時間不確定性的挑戰。衡量當前未交貨訂單的指標躍升10.5點，達到15.5，為2022年4月以來最高水平。衡量當前原材料支付價格的指標自5月以來首次上漲，而接收價格指數出現下降。"
+    },
+    {
+      "id": "5044415",
+      "time": "2026-08-17 20:57:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLUE RIDGE BANKSHARES 恢復交易，股價盤前上漲 5%。"
+    },
+    {
+      "id": "5044414",
+      "time": "2026-08-17 20:56:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：維瑞塔斯資本宣佈以11億美元出售Epiq Solutions。"
+    },
+    {
+      "id": "te:markets:575865",
+      "time": "2026-08-17 20:56:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower After CPI — Futures tracking Canadian stocks edged lower on Monday following the release of CPI data, after the S&P/TSX Composite Index reached a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. July’s inflation report also showed fuel prices rising at a faster pace. Elsewhere, Abaxx Technologies’ net loss widened in the second quarter. OceanaGold plans to acquire Ausgold in a deal valued at A$776 million. Canada and the US remain far from reaching a draft trade deal despite regular meetings, Canadian Trade Minister Dominic LeBlanc told an advisory committee on Friday."
+    },
+    {
+      "id": "5044413",
+      "time": "2026-08-17 20:56:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第七屆中非媒體合作論壇將在京舉行】由國家廣播電視總局、北京市人民政府、非洲廣播聯盟共同主辦的第七屆中非媒體合作論壇將於8月19日至21日在北京舉行。（新華社）"
+    },
+    {
+      "id": "mkt:01a00fca-5b17-7aab-9062-80441c02c9f9",
+      "time": "2026-08-17 20:55:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) spokesman said Trump's claim that the US held secret backchannel talks with IRGC officials about war is \"a delusion born of failure\"."
+    },
     {
       "id": "5044412",
       "time": "2026-08-17 20:54:36",
@@ -139795,32 +139870,6 @@
         "其他"
       ],
       "text": "8月7日聯邦基金有效利率為3.63%，與8月6日持平。"
-    },
-    {
-      "id": "mkt:019febc1-429a-7aab-8fd9-f8169ef1301a",
-      "time": "2026-08-10 20:58:58",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "Intel (INTC.O) shares fell as much as 5.3% in pre-market trading."
-    },
-    {
-      "id": "5034200",
-      "time": "2026-08-10 20:57:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆逸石化：擬投資6.87億元建設年產30萬噸廢舊紡織品迴圈利用專案】恆逸石化公告，公司子公司海寧恆逸新材料有限公司擬投資建設“年產30萬噸廢舊紡織品迴圈利用專案”，專案預計總投資6.87億元人民幣，專案建成後將形成30萬噸/年綠色迴圈新材料及10萬噸/年葡萄糖產能，專案建設週期為15個月。"
-    },
-    {
-      "id": "5034199",
-      "time": "2026-08-10 20:56:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【苕溪發生今年第1號洪水 杭州餘杭北湖開閘分洪】受今年第13號颱風“白海豚”影響，浙江多流域發生編號洪水。10日凌晨，位於浙江北部的苕溪發生2026年第1號洪水。10日早上，杭州市餘杭區啟用北湖滯洪區，北湖分洪閘6個閘門全部開啟，透過分洪削峰，緩解東苕溪流域嚴峻防洪壓力。（新華社）"
     }
   ]
 }
