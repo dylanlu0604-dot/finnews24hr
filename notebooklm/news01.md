@@ -1,7 +1,158 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:55:03_
-_本檔包含 2917 則快訊，約 604876 字_
+_更新時間：2026-08-18 06:33:36_
+_本檔包含 2915 則快訊，約 604622 字_
+
+---
+
+### 2026-08-18 06:32:56  #其他
+
+必和必拓全年淨利潤98.3億美元，預估109.5億美元。
+
+---
+
+### 2026-08-18 06:31:35  #市場 #央行 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】
+① 09:00 澳洲聯儲助理主席瓊斯講話；
+② 14:00 英國6月三個月ILO就業人數、失業率；
+③ 15:00 國新辦舉行新聞釋出會，介紹激發下沉市場活力活躍縣域消費有關情況；
+④ 港股收盤之後 百度、小米釋出業績報告，禾賽、愛奇藝、小鵬也將釋出業績報告；
+⑤ 17:00 歐元區8月ZEW經濟景氣指數，德國8月ZEW經濟景氣指數；
+⑥ 美股盤前 家得寶等釋出業績報告；
+⑦ 19:45 歐洲央行首席經濟學家Philip Lane參加在都柏林舉辦的一個關於“全球地緣政治破碎化中貨幣政策”的研討會；
+⑧ 20:30 美國7月新屋開工、營建許可，7月進口價格指數；
+⑨ 21:15 美國7月工業產出；
+⑩ 22:00 美國7月成屋簽約銷售指數。
+
+---
+
+### 2026-08-18 06:30:50  #公司
+
+【0.01個百分點的訊號，銀行業淨息差迎來階段性修復】日前，國家金融監督管理總局釋出的2026年二季度銀行業保險業主要監管指標資料顯示，二季度商業銀行淨息差為1.41%，較一季度的1.40%上升0.01個百分點，是自2022年以來首次單季環比上升。但不同型別銀行走勢分化，其中國有大行、城商行、農商行、民營銀行二季度淨息差實現環比上行，股份行環比持平，外資銀行環比下降。 業內人士分析，本輪息差企穩的核心動力來自負債端：存量高息存款集中到期重定價，疊加銀行主動最佳化負債結構，有效壓降了付息成本。在監管引導下，利率自律機制發揮作用，遏制信貸利率非理性降價競爭，助力穩定資產端定價，託舉淨息差。（中證報）
+
+---
+
+### 2026-08-18 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Heating Oil Rises by 3.83% — Top commodity gainers are Heating Oil (3.83%), Crude Oil WTI (3.26%) and Brent Crude Oil (3.08%). Biggest losers are Methanol (-1.59%) and Natural gas (-1.17%).
+
+---
+
+### 2026-08-18 06:28:22  #公司
+
+【PCB產業鏈半年報亮眼，高階產品供需偏緊或延續至2028年】近期，多家PCB產業鏈企業披露2026年半年報，大多數公司營收、淨利潤實現較快增長。梳理發現，AI算力需求增長、產品結構升級及產能釋放等成為推動企業業績增長的重要因素。與此同時，當前PCB行業仍處於結構性漲價過程中，高階HDI、高多層PCB等高階產品持續處於供需偏緊狀態。展望後市，有行業人士表示，AI伺服器持續迭代、ASIC加速器加快放量將繼續支撐高階PCB需求，而高階產能釋放仍需要時間，預計高階PCB供需偏緊格局或延續至2028年。（上證報）
+
+---
+
+### 2026-08-18 06:27:01  #MKT News #WTI #Impact bullish
+
+【Poll shows Trump approval at second-term low】Reuters/Ipsos poll on Aug. 17 found US President Trump’s approval rating at 33%, a second-term low. The survey showed 64% disapprove of his White House performance and roughly 80% expect fighting between the US and Iran to continue for a long time. The online poll sampled 1,166 US adults.
+
+---
+
+### 2026-08-18 06:26:39  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC) #Market Regions #Japan & APAC #WTI #Impact bearish #US10Y #Nikkei 225
+
+【Asian stocks set to open lower; oil, bond yields pose headwinds】Asian equities were set to open lower after US losses as rising oil prices raised inf concerns and hopes for an end to the US‑Iran conflict dimmed. Futures for Australia, Japan and Hong Kong fell on Tuesday. Market participants are focused on oil and government bond yields for signs of a sustained inf shock that could push up Fed rate expectations and pressure high‑valuation stocks. US 10‑year Treasury yields rose above 4.7% and remain elevated despite last week’s subdued inf data, a persistent headwind for investors, said Matt Maley, chief market strategist at Miller Tabak+Co.
+
+---
+
+### 2026-08-18 06:24:22  #公司 #國際
+
+【民調顯示特朗普支援率創第二任期內新低】當地時間8月17日，路透社與益普索集團釋出的一項民意調查結果顯示，美國總統特朗普的支援率降至33%，創下其第二任期內新低。民調顯示，64%的美國人不認可特朗普在白宮的表現，約80%的美國人預計美國和伊朗之間的戰事“將會持續很長時間”。本次調查在全美以線上方式進行，收集了1166名美國成年人的反饋。（央視新聞）
+
+---
+
+### 2026-08-18 06:23:20  #公司 #觀點
+
+【主動退出與被動處置並行，今年以來多家中小券商股權被擺上“貨架”】近日，開源證券的一筆股權轉讓引發關注。開源證券的中小股東西安曲江文化金融控股（集團）有限公司，將其持有的開源證券股份（4784.60萬股）全部掛牌轉讓，轉讓底價2.10億元。據統計，今年以來，東海證券、大通證券等多家中小券商股權被擺上轉讓“貨架”。中小券商股權流轉的背後，是主動退出與被動處置兩條主線並行。主動退出方面，股東財務狀況是驅動因素之一。被動處置方面，股東債務觸發司法拍賣的案例持續增加。（上證報）
+
+---
+
+### 2026-08-18 06:21:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【U.S.-Iran standoff persists; oil up about 3% on bleak talks outlook】International crude rose about 3% on Monday as prospects for a U.S.-Iran deal dimmed. President Trump said he does not intend to extend a U.S.-Iran memorandum of understanding signed in June that technically expired on Monday. Major disagreements remain, including over the Strait of Hormuz. Other U.S. officials signaled Washington is not in a hurry to end the nearly six-month confrontation. The U.S. Energy Secretary described U.S. policy toward the Islamic Republic as a long-term game, and senior adviser Jared Kushner said Trump will be patient on any agreement.
+
+---
+
+### 2026-08-18 06:20:24  #宏觀 #公司 #市場 #國際
+
+【8月18日隔夜要聞一覽】
+1、美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。
+2、美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。
+3、美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。
+4、8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。
+5、國際油價17日上漲。紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。
+6、海事資料顯示，一艘屬於阿聯酋公司的油輪在穿越霍爾木茲海峽時，在格什姆島附近被攔截。
+7、一名伊朗高階官員說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。
+8、美國總統特朗普的女婿庫什納見內塔尼亞胡，尋求推進“加沙和平計劃”。
+9、谷歌以1000萬美元報價收購精神航空海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。
+
+---
+
+### 2026-08-18 06:19:31  #國際
+
+市場訊息：美國要求韓國首輪投資投向儲存晶片。
+
+---
+
+### 2026-08-18 06:18:23  #公司
+
+【權益類公募倉位再抬升，電子行業獲增持幅度最大】近期A股市場震盪分化，權益類公募基金在保持較高倉位的同時，行業配置進一步調整。資料顯示，截至8月14日，公募權益類基金整體倉位升至94.42%，較前一週提高0.08個百分點，保持歷史中位偏高水平。從行業變化來看，電子成為當週主動增持幅度最大的行業，而通訊、電力裝置、建築材料等板塊受到不同程度的主動減持。 多家基金公司認為，隨著8月下旬進入半年報密集披露期，市場定價重心正逐步從情緒和估值修復轉向業績兌現。在高倉位背景下，公募後續操作或更多體現為持倉結構最佳化。科技仍是機構關注的重要方向，但配置範圍正在進一步收斂，逐步聚焦至儲存、光通訊、半導體裝置、電源及液冷等細分環節。（上證報）
+
+---
+
+### 2026-08-18 06:15:15  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Rises by 0.38% — Top currency gainers are Brazilian Real (0.38%), Norwegian Krone (0.31%), Australian Dollar (0.30%), Euro (0.08%) and British Pound (0.07%). Biggest losers are Japanese Yen (-0.09%) and Dollar Index (-0.08%).
+
+---
+
+### 2026-08-18 06:15:10  #國際
+
+【資料顯示霍爾木茲海峽和曼德海峽航運活動持續低迷】當地時間8月17日獲悉，在美伊衝突持續數月後，中東兩條重要航運通道的船舶通行量仍處於低位。全球船舶實時追蹤與海事資料平臺“海事交通”（MarineTraffic）的資料顯示，過去24小時內，至少有3艘商業船舶透過霍爾木茲海峽。戰爭爆發前，平均每天約有110艘船透過該水道。此外，過去24小時內，至少有37艘商業船舶透過曼德海峽。（央視新聞）
+
+---
+
+### 2026-08-18 06:14:11  #其他
+
+【8月以來兩融餘額回升700多億元，機構：市場進入情緒修復通道】8月以來，滬深北三市兩融餘額一度連續8個交易日回升，累計反彈超過700億元。8月14日，兩融餘額微降18.59億元，連增態勢暫告段落。與7月相比，兩融資金回補節奏相對溫和，結構上較此前科技板塊集中出逃前更趨均衡。業內普遍認為，槓桿資金快速撤離的階段已過，市場處於情緒修復初期，中長期配置型資金並未離場，後續反彈需要賺錢效應進一步催化。（上證報）
+
+---
+
+### 2026-08-18 06:11:00  #公司 #國際
+
+【嘉吉年度收益上升，市場波動利好交易業務】美國最大的私營企業嘉吉公司（Cargill）報告年度調整後收益上升，這家糧食貿易商在地緣政治動盪引發的市場波動中獲益。經審計年度賬目顯示，這家總部位於明尼阿波利斯的公司報告，截至5月31日的財年中，調整後營業利潤同比增長10%至38億美元。由於資產減值和重組費用等一次性專案，淨利潤出現下滑。該公司還將支付給股東的股息縮減至8.65億美元，而去年曾創下近15億美元的歷史最高分紅紀錄。營收同比增長6.5%至1640億美元。
+
+---
+
+### 2026-08-18 06:08:36  #央行
+
+紐西蘭聯儲圍繞支付系統建議公開徵求意見。該央行將考慮系統結構性現代化的必要性。
+
+---
+
+### 2026-08-18 06:05:31  #公司
+
+嘉吉集團年度營業利潤在市場動盪背景下實現增長。
+
+---
+
+### 2026-08-18 06:00:36  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
+
+---
+
+### 2026-08-18 05:56:54  #MKT News
+
+Iran's Fars News reports a fuel tank fire and explosion in Sulaymaniyah, Iraq's Kurdistan Region.
+
+---
+
+### 2026-08-18 05:56:39  #宏觀
+
+巴西財政部長：認為市場對財政方面的擔憂合乎情理，盧拉政府若當選，需解決財政方面的擔憂。
 
 ---
 
@@ -17423,149 +17574,5 @@ Following a Russian missile strike on Kyiv, firefighters battled a blaze at a bo
 ### 2026-08-16 23:30:57  #公司
 
 【上市前夕 OpenAI高層劇烈震盪】在準備IPO之際，正在進入一個關鍵節點。2026年以來，至少13名高管和業務負責人離開OpenAI。一邊是業務繼續快速增長，年化營收已經超過400億美元，企業業務收入首次超過消費者業務；另一邊，公司核心管理層卻在持續調整。對於一家正在衝刺上市、同時業務規模快速擴張的公司來說，核心高管密集離開，自然引發了外界對管理層穩定性的關注。
-
----
-
-### 2026-08-16 23:29:28  #國際
-
-特朗普特使庫什納與哈馬斯高層之間的會晤旨在“將哈馬斯在加沙裁軍路線圖中所做出的承諾轉化為具體步驟”。庫什納強調，以色列的進一步撤軍將以哈馬斯解除武裝作為交換條件。
-
----
-
-### 2026-08-16 23:21:30  #國際
-
-伊朗陸軍總司令阿米爾·哈塔米少將表示，特朗普宣稱霍爾木茲海峽屬於美國的說法“大錯特錯”，並稱即便是拿這一說法開玩笑，也“完全出格”。
-
----
-
-### 2026-08-16 23:18:42  #國際
-
-俄羅斯國防部：打擊了敖德薩西部一處烏克蘭無人艇生產設施。
-
----
-
-### 2026-08-16 23:14:14  #MKT News
-
-The chairman of Iran's Chamber of Commerce said on state broadcaster Press TV that the Iranian economy has emerged from the 'war shock'.
-
----
-
-### 2026-08-16 23:13:26  #國際
-
-伊朗商工礦農業商會主席薩馬德·哈桑扎德表示，該國經濟已擺脫近期戰爭帶來的嚴重衰退，經濟活動正在恢復。
-
----
-
-### 2026-08-16 23:11:11  #國際
-
-託德·布蘭奇拒絕承諾，若出任特朗普政府司法部長將保持獨立於白宮。
-
----
-
-### 2026-08-16 23:06:39  #焦點 #國際
-
-【伊朗軍方稱美軍已被驅逐 不得進入霍爾木茲海峽】當地時間16日，伊朗伊斯蘭共和國軍隊總司令哈塔米表示，美國今後不得進入波斯灣、阿曼灣和霍爾木茲海峽。哈塔米在參加公開活動時表示，“美國被驅逐已成事實”，今後其“將不再獲得進入波斯灣、阿曼灣和霍爾木茲海峽的許可”。他還強調，美軍基地不可能恢復到此前狀態，伊朗“絕不允許這種情況發生”。（央視新聞）
-
----
-
-### 2026-08-16 23:05:44  #其他
-
-【高階特效廳成為暑期檔頂流 中國銀幕數量穩居全球首位】據網路平臺資料，截至今天16時59分，2026年暑期檔總票房（含預售）突破100億元，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》《歡迎來龍餐館》《給阿嬤的情書》暫列檔期票房前5名。能夠最大化釋放影片魅力的IMAX、杜比影院等高階特效廳，成為影迷們的首選，乃至“必爭之地”。根據國家電影局2026年1月釋出的官方統計，2025年全國城市院線銀幕總數達93187塊，較2024年淨增2219塊，持續穩居全球銀幕數量首位。今年以來，CLED螢幕在全國的落地安裝明顯提速，上半年已有多家影院完成部署。此外，依託CINITY完整自主智慧財產權高格式技術體系，中國高格式電影實現從單純內容輸出，邁向技術、裝置、製版服務、標準體系協同出海。
-
----
-
-### 2026-08-16 23:01:25  #MKT News
-
-Saudi outlet Alhadath, citing Israeli sources, reports Israel does not want the US plan for Gaza to succeed but also does not want to damage it. The Israeli military is monitoring Hamas's reconstruction capabilities. Sources say US restrictions are preventing the Israeli military from being able to "take further action" against Hamas.
-
----
-
-### 2026-08-16 23:00:07  #資料 #市場
-
-【方舟投資： 在9月議息會議前值得關注的幾件事】方舟投資發文列出了五件在8月份需要緊盯那些能預示年底通脹走向的先行指標和最新資料 ：核心消費者物價指數（CPI）是否會在12月前降至2%以下？美元指數是否會攀升至102.6？隨著阿聯酋（UAE）主導的供應過剩增加，油價是否會繼續下跌？16至24歲年輕人的失業率是否會在今年降至7.5%以下？密歇根大學消費者信心指數是否會回升至65以上？
-
----
-
-### 2026-08-16 22:55:57  #MKT News
-
-【Israel, Honduras sign MoU to deepen defense cooperation】Israel's Defense Ministry announced it signed a memorandum of understanding with Honduras to deepen defense cooperation and establish a framework for long-term collaboration based on shared interests.
-
----
-
-### 2026-08-16 22:55:33  #國際
-
-美國國家颶風中心：夏威夷大島和毛伊縣部分地區持續遭受危及生命的洪水侵襲。
-
----
-
-### 2026-08-16 22:48:23  #市場 #觀點 #國際
-
-【華泰證券：向上趨勢基礎未變，關注三季度政策視窗和盈利修復廣度的訊號】華泰證券研報指出，上週海外擾動升溫，日本加息預期推動全球流動性預期收緊，港股尤其恒生科技指數承壓，A股震盪分化，主線持續性不強。短期看，雙創超跌反彈接近尾聲，市場進入震盪築底和再平衡階段。中期看，7月經濟資料外需偏強內需階段性偏弱、有效需求待催化，但中觀景氣改善面在擴散，盈利預期上修方向與景氣改善線索一致，向上趨勢基礎未變，關注三季度政策視窗和盈利修復廣度的訊號。配置上，AI鏈仍是首選，其中通訊裝置居首，其次國產算力鏈、AI電力；其他方向關注盈利預期不弱的CXO龍頭、有色和出海鏈龍頭；紅利底倉繼續持有，配置低波型的銀行和交運。
-
----
-
-### 2026-08-16 22:45:55  #其他
-
-市場消挪威GASSCO：KOLLSNES天然氣處理廠8月16日至17日非計劃停產，影響產量1200萬立方米/日。
-
----
-
-### 2026-08-16 22:39:16  #國際
-
-【俄軍持續打擊烏克蘭港口及海上目標】俄羅斯國防部16日釋出通報稱，俄武裝力量繼續對烏克蘭港口基礎設施及參與烏軍行動的海上艦艇實施打擊。通報指出，俄軍在此次行動中重點摧毀了以下目標：在別爾哥羅德-德涅斯特羅夫斯基鎮，擊中了一家生產車間及存放無人艇戰鬥部和零部件的倉庫；在維爾科沃鎮，摧毀了烏克蘭海軍巡邏艇的停泊點；在敖德薩港，擊中了3艘散貨船和2艘油輪，這些船隻此前被用於向烏軍運送軍用物資和燃料，此外還有儲油罐和存放軍事物資的倉庫。此外，俄軍在黑海海域敖德薩以東擊中了一艘向烏克蘭運送西方武器的散貨船。俄方強調，此類打擊旨在系統性切斷烏克蘭的海上後勤補給線。
-
----
-
-### 2026-08-16 22:34:29  #公司 #國際
-
-【梅卡曼德機器人透過聆訊：收入CAGR46.6%、毛利率64.6%、全球市佔率27% 】梅卡曼德(Mech-Mind Robotics)今日釋出聆訊後資料集，這意味著該公司已透過港交所IPO聆訊。梅卡曼德是一家智慧機器人元件供應商，公司的系統利用3D視覺技術捕捉點雲資料，並採用基於深度學習的AI演算法。產品已部署於客戶生產及運營流程所使用的裝置中，主要服務來自汽車、新能源、消費電子、物流、教育及通用製造行業的終端客戶。公司產品已在北美、歐洲等近50個國家及地區銷售，客戶遍佈全球。是全球少數透過智慧機器人技術，實現通用智慧機器人跨行業、跨場景、跨地域規模化落地的科技企業之一。據招股書顯示，於往績記錄期間，梅卡曼德實現穩健的業務和財務增長。2023年至2025年度，公司收入分別為1.808億、2.688億及3.888億元（人民幣，下同），年複合增長率為46.6%；期內毛利率分別錄得39.1%、51.1%、64.6%；毛利由2023年7060萬元增至2025年的2.511億元，年複合增長率為88.5%。與此同時，公司經調整淨虧損由2023年的3.34億元快速收窄至2025年的1.09億元，三年收窄近七成；2025年經營虧損已低於同期研發費用（1.13億元），核心業務自身已接近盈虧平衡。收入持續增長、毛利率顯著改善及虧損快速收窄，帶來整體盈利能力不斷提升。梅卡曼德的海外業務亦快速增長。按出貨量計，2025年，公司斬獲了全球逾27%的市場份額，超越其後四位最大競爭對手的市場份額總和。此外，公司在中國、日本及北美市場佔有率位居第一，並在東南亞、歐洲及韓國位居市場領導者之列。2023年至2025年度，公司海外業務收入分別為5860萬、9770萬及1.955億元，年複合增長率為82.7%；海外業務收入佔比亦大幅增長，分別為32.4%、36.4%及50.3%。
-
----
-
-### 2026-08-16 22:30:11  #公司 #市場
-
-【中銀證券：A股硬科技由超跌修復切換向趨勢行情的條件正加速成熟】中銀證券釋出研報稱，以科創50為代表的硬科技板塊正由超跌修復切換向趨勢行情。整個6–8月中旬週期，硬科技走勢的形態敘事可分為兩層看。第一層是指數層面，硬科技代表性指數科創50在6月30日見到階段性收盤高點2207.86點後深度回撤，7月整月下跌約25.9%，8月3日收盤低點下探至1552.89點。其後反彈開啟， 8月14日收於1717.68點，略低於20日均線但較低點累計反彈10.6%，指數已脫離極端殺跌區間，低點修復明確，反彈中樞抬升。第二層是行業層面，申萬電子、通訊7月分別大跌約34.7%、31.9%，是上一輪極化估值消化與海外敘事擾動的重災區；進入8月，截至8月14日當月累計漲幅分別約13.2%、15.3%，收盤均重新站上20日均線上方，兩個標杆行業的快速反彈推動短線形態修復成立。成交額方面，科創50在8月14日首次跌破千億，如果硬科技行情只是槓桿與題材資金主導下的弱修復，行情很難與縮量背景並存，因而我們判斷恐慌出清後的趨勢資金與產業資金正逐步掌握主導權，資金行為上更接近去偽存真後的縮圈。總體來看，本輪大小云的良好財報披露使得AI從訂單到資本開支最後向收入轉化的邏輯鏈條進一步夯實，AI基建敘事從反彈主題交易歸位到資本開支上行大主線的條件正加速成熟。
-
----
-
-### 2026-08-16 22:27:44  #國際
-
-美國司法部長託德·布蘭奇為珍妮·皮羅辯護，稱她駁回一起聯邦破壞案件的決定激怒了唐納德·特朗普總統，他表示華盛頓特區最高檢察官應得到公正對待。（皮羅為倒影池案的檢察官）
-
----
-
-### 2026-08-16 22:27:06  #MKT News
-
-Israeli media reported Kushner discussed maintaining a Gaza ceasefire with officials from the Peace Committee.
-
----
-
-### 2026-08-16 22:25:44  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #XLF #S&P500
-
-【Wells Fargo: JP Morgan poised to become first $1 trillion bank】Wells Fargo says JP Morgan is likely to become the first bank with a market value above $1 trillion, and it maintained an overweight rating while raising its price target to $390 from $375, implying more than 7% upside to last Friday’s close. Analyst Mike Mayo wrote in a Thursday client note that JP Morgan’s “top-tier investment capabilities” could not only help it pass $1 trillion but could see it reach $2 trillion in about 7–8 years. Mayo cited share gains across major businesses, operational optimization, steadier profitability versus global peers, and the CEO-defined “robust balance sheet” as supporting factors.
-
----
-
-### 2026-08-16 22:20:42  #國際
-
-以色列國防軍：消滅一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）武裝人員和一名哈馬斯武裝人員。
-
----
-
-### 2026-08-16 22:15:41  #其他
-
-【聯合海事中心資料：8月14日以來共有三艘油輪在穿越霍爾木茲海峽時遭到襲擊】根據最新的聯合海事資訊中心通報，自上次報告以來，有三艘船隻在穿越霍爾木茲海峽時遭到襲擊。 兩艘船隻在穿越阿曼領海時向外航行期間遭到襲擊。另一艘船隻在向內航行時，在海峽一處未公開地點遭到襲擊。未報告人員受傷，船隻繼續其航程。
-
----
-
-### 2026-08-16 22:14:07  #公司 #國際
-
-【58%的美國招聘經理表示，已經難以找到適格員工】根據資料統計，約有58%的美國招聘經理表示，已經難以找到合適員工，他們普遍認為對應技能工的短缺正在延誤專案，並迫使公司為獲得合適的人才而付出更多成本。
-
----
-
-### 2026-08-16 22:12:20  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-【Chan Mo‑po to further consolidate Hong Kong's international aviation hub status】Hong Kong Financial Secretary Chan Mo‑po said on 16th the city will further consolidate and enhance its role as an international aviation hub. In 1H aircraft movements exceeded 200,000, up 4.4% YoY, and passenger traffic reached 32.8m, up 11.7% YoY. Around 140 carriers now serve Hong Kong to more than 225 destinations. Jan–Jul visitor arrivals totalled 31.22m, up 12% YoY, with resumed exhibitions and events cited as drawing additional business and leisure travellers. Chan said the aviation hub underpins the local aviation industry and Hong Kong’s function as a super‑connector, supporting trade, logistics, MICE and tourism.
 
 ---

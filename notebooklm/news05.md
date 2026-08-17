@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:55:03_
-_本檔包含 3059 則快訊，約 603691 字_
+_更新時間：2026-08-18 06:33:36_
+_本檔包含 3060 則快訊，約 604533 字_
+
+---
+
+### 2026-08-12 09:32:37  #市場
+
+【工業母機概念繼續活躍 華東數控3連板】早盤工業母機概念繼續活躍，華東數控3連板，鼎通科技、瀋陽機床、銳科鐳射、科德數控、大族數控跟漲。
+
+---
+
+### 2026-08-12 09:32:11  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Tech Index's early losses widened to 1%; Hang Seng Index is down 0.9%.
+
+---
+
+### 2026-08-12 09:31:20  #公司
+
+【江蘇省首個Token運營中心在蘇州揭牌】據蘇州日報，8月11日，中國電信（江蘇）Token運營中心揭牌暨入駐蘇州國際資料港儀式在蘇州工業園區舉行。這是全省首個Token運營中心，目標打造國內領先、接軌國際的Token綜合服務樞紐。此次揭牌的中國電信（江蘇）Token運營中心將聚焦大模型詞元算力業務，整合國內AI應用場景，打通跨境AI服務雙向通道，實現詞元算力排程、交付、鑑證、管控等全生命週期管理。當天，涵蓋天翼雲、智譜、火山、阿里、騰訊、中國電信國際公司、新建元等國內外領軍企業的Token出海服務聯盟同步成立，初步形成從資源供給到場景應用、從智慧排程到跨境輸出的協同生態網路，可為出海企業提供“模型+合規+本地化”一站式服務。
+
+---
+
+### 2026-08-12 09:31:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【China index futures open】CSI 300 index futures (IF) most-active contract down 0.10%, SSE 50 index futures (IH) most-active contract down 0.17%, CSI 500 index futures (IC) most-active contract up 0.12%, CSI 1000 index futures (IM) most-active contract down 0.03%.
+
+---
+
+### 2026-08-12 09:31:12  #MKT News
+
+【China government bond futures open】2-year government bond futures (TS) most-active contract flat at the morning open; 5-year (TF) down 0.01%, 10-year (T) down 0.02%, 30-year (TL) down 0.06%.
+
+---
+
+### 2026-08-12 09:30:56  #市場
+
+影視院線板塊高開，北京文化走出三連板，儒意電影漲超4%，金逸影視、中國電影等跟漲。
+
+---
+
+### 2026-08-12 09:30:51  #MKT News #Important #Market Regions #Greater China
+
+China A-share film exhibition sector opened higher. Beijing Culture extended its run to a third straight daily limit-up. Ruyi Film rose over 4%; Jinyi Film & TV and China Film also advanced.
+
+---
+
+### 2026-08-12 09:30:16  #市場 #焦點
+
+恒生指數跌超1%，現報25392.738點；恒生科技指數現跌1.223%。
+
+---
+
+### 2026-08-12 09:30:09  #MKT News
+
+【Henan issues red heavy-rain warning, activates level-2 flood emergency】Henan’s flood-control command activated a level-2 emergency response at 08:00 on Aug 12, the provincial emergency management department said. From 08:00 Aug 12 to 08:00 Aug 13 heavy rain is expected along the Huai River and across much of northern Henan. Heavy downpours are forecast in parts of southern Jiaozuo, central-eastern and eastern Xinxiang, eastern Luoyang, Zhengzhou, Kaifeng, central-western Shangqiu, Pingdingshan, Xuchang, Luohe, central-western and northern Zhoukou, northeastern Nanyang and northern Zhumadian. Localised ultra-heavy rain (250–350mm at isolated points) is possible in southeastern Zhengzhou, southern Kaifeng, central Pingdingshan, northern Xuchang and western Zhoukou. Brief intense rainfall with hourly rates of 40–60mm (up to 80mm locally) and convective thunderstorm winds of force 8–10 are also expected.
+
+---
+
+### 2026-08-12 09:30:08  #市場 #焦點
+
+恒生科技指數跌超1%，現報4773.250點；恒生指數現跌0.910%。
+
+---
+
+### 2026-08-12 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約基本持平。
+
+---
+
+### 2026-08-12 09:30:03  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.19%， 滬深300指數期貨連續漲0.10%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續漲0.09%。
+
+---
+
+### 2026-08-12 09:29:29  #國際
+
+【河南釋出暴雨紅色預警 啟動防汛二級應急響應】從河南省應急管理廳獲悉，河南省防汛抗旱指揮部已於8月12日8時啟動防汛二級應急響應。河南省氣象臺2026年8月12日7時30分升級釋出暴雨紅色預警：過去24小時，河南省黃淮之間大部出現暴雨或大暴雨，洛陽、鄭州、平頂山、許昌、漯河、周口、南陽局地特大暴雨，最大降水量葉縣常村356.9毫米。預計12日8時至13日8時，沿淮及其以北大部有暴雨，其中焦作南部、新鄉中東部、洛陽東部、鄭州、開封、商丘中西部、平頂山、許昌、漯河、周口中西部和北部、南陽東北部、駐馬店北部部分縣（市、區）有大暴雨，鄭州東南部、開封南部、平頂山中部、許昌北部、周口西部局地特大暴雨（個別點250到350毫米），並伴有短時強降水（最大小時降水量40到60毫米，局地80毫米）、局地雷暴大風（8到10級）等強對流天氣。依據氣象預報情況，經會商研判，按照《河南省防汛應急預案》有關規定，河南省防指決定自8月12日8時啟動防汛二級應急響應。請按照預案規定的響應行動，落實落細防範應對措施，加大對重點區域地質災害避險轉移和應對防範，全力做好防汛防颱風各項工作，確保人民群眾生命財產安全。遇有重大險情災情要第一時間報告省防辦。
+
+---
+
+### 2026-08-12 09:29:23  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share compute-power leasing sector opened broadly higher; Yunsai Zhilian and Chengdi Xiangjiang hit the daily trading limit. Hongbo Co., Xingyun Technology, Annuoqi, Litong Electronics and Shujugang opened higher.
+
+---
+
+### 2026-08-12 09:27:51  #MKT News #Market Regions #Greater China
+
+China A-share MLCC stocks opened lower; Yunzhong Technology down over 4%, Fenghua Advanced Technology down over 3%, with Jiemei Technology and Sanhuan Group also weaker.
+
+---
+
+### 2026-08-12 09:27:41  #公司 #市場
+
+算力租賃概念延續漲勢，城地香江2連板，雲賽智聯一字漲停，鴻博股份、行雲科技、安諾其、利通電子漲超6%。
+
+---
+
+### 2026-08-12 09:27:20  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+At Wednesday's open (Aug 12), China's Shanghai Composite Index was down 0.01% at 3,933.55; Shenzhen Composite Index down 0.04% at 14,253.12; CSI 300 Index down 0.07% at 4,660.47; ChiNext Index down 0.20% at 3,542.13; STAR 50 Index up 0.64% at 1,720.36.
+
+---
+
+### 2026-08-12 09:27:01  #國際
+
+【近期惡劣天氣致菲律賓21人死亡 逾314萬人受災】菲律賓國家減災委釋出訊息稱，截至12日上午6時，受近期的颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓共有21人死亡，14人受傷，另有1人失蹤。受災人口超過314萬。
+
+---
+
+### 2026-08-12 09:26:37  #國際
+
+一艘從巴厘島出發的印尼渡輪在龍目島附近海域起火，目前疏散工作正在進行中。
+
+---
+
+### 2026-08-12 09:25:34
+
+三大股指低開，滬指跌0.01％，深成指跌0.04％，創業板跌0.2％。
+
+---
+
+### 2026-08-12 09:25:33  #MKT News
+
+MSNBC reported U.S. Senator Amy Klobuchar won the Minnesota Democratic primary for governor.
+
+---
+
+### 2026-08-12 09:25:28  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+China A-shares opened modestly lower: Shanghai Composite down 0.01%, Shenzhen Composite down 0.04%, ChiNext down 0.20%.
+
+---
+
+### 2026-08-12 09:24:46  #MKT News
+
+AP projects U.S. Rep. Tom Tiffany has won the Republican nomination for Wisconsin governor.
+
+---
+
+### 2026-08-12 09:24:39  #Trading Economics #Markets #Commodity #Importance 1
+
+European Gas Holds Losses as Traders Assess Hormuz Developments — European natural gas prices hovered around €60 per MWh on Wednesday after falling in the previous session, as traders assessed diplomatic efforts to reopen the Strait of Hormuz and resume LNG flows from the Gulf. Pakistan’s defense minister said the US and Iran were “close to some sort of arrangement” over the waterway, while negotiations between Tehran and Oman were also reportedly making significant progress. However, uncertainty over a swift reopening of the strait persists, with both sides taking firmer positions. The ongoing disruption to shipping has severely constrained LNG shipments, leaving shipments from major exporter Qatar significantly delayed. Analysts expect European gas prices to keep a firm floor until storage levels show clearer signs of building toward seasonal targets before winter. Hot weather across Europe is also boosting electricity demand for cooling, adding further pressure to the market.
 
 ---
 
@@ -18344,143 +18488,5 @@ OpenAI道德事務負責人入職不到一年後離職。
 ### 2026-08-11 06:34:59  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Silver Gains by 3.46% — Top commodity gainers are Silver (3.46%), Lithium Carbonate (1.23%) and Gold (1.14%).
-
----
-
-### 2026-08-11 06:31:32  #市場 #焦點
-
-【ETF總規模逼近5萬億元】今年下半年以來，ETF（交易型開放式指數基金）總規模整體保持增長態勢。Wind資料顯示，截至8月10日，下半年以來ETF份額增加3742億份，達到3.4萬億份；總規模增加2534億元，達到4.99萬億元，距5萬億元僅一步之遙。資料顯示，下半年新發行48只ETF產品，總量達1629只。其中，份額增加最大的主題為金融，有31只基金跟蹤；份額增加最大的指數標的為半導體材料裝置；收益最高的指數標的為黃金股票。（證券日報）
-
----
-
-### 2026-08-11 06:31:28  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars #Commodities #Precious Metals #MCHI.O #Impact bullish #FXI.O #510300.SS
-
-【China ETF assets approach CNY5.0 trillion】As of Aug 10, China ETF assets reached CNY4.99 trillion, up CNY253.4 billion since the start of H2; ETF units rose 374.2 billion to 3.4 trillion. Forty‑eight new ETFs launched in H2, taking the total to 1,629. Largest net share gains were in financial-themed ETFs (31 funds); the single index with the biggest unit inflows was semiconductor materials & equipment; highest-return index was gold equities. Wind data.
-
----
-
-### 2026-08-11 06:30:58  #國際
-
-美國聯邦航空管理局預計，8月23日上午10點15分至下午1點15分，里根國家機場將暫停航班執行，以配合華盛頓舉辦的自由250大獎賽街道賽。
-
----
-
-### 2026-08-11 06:29:58  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Spikes by 11.32% — Top commodity gainers are Natural Gas EU (11.32%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Crude Oil WTI (5.09%) and Brent Crude Oil (4.98%).
-
----
-
-### 2026-08-11 06:27:34  #公司
-
-谷歌AI團隊告知求職者，其人力資源篩選系統並不可靠。
-
----
-
-### 2026-08-11 06:24:54  #其他
-
-【銀行理財機構短期限產品規模增長過快觸發監管提示】近日從業內獲悉，長三角地區一家銀行理財機構因上半年部分產品規模增長較快，收到監管部門提示函。該機構上半年整體規模增幅約為9%，位居行業前列。當前，銀行理財存續規模已達33.6萬億元。在市場擴容過程中，部分機構藉助短期限產品快速吸收資金，但投研能力、資產儲備和流動性管理未必能夠同步跟上。監管部門此次提示，意在推動銀行理財機構合理把握擴張節奏，防範資金期限縮短與資產久期拉長可能形成的錯配風險。（上證報）
-
----
-
-### 2026-08-11 06:18:21  #公司
-
-利比亞國家石油公司：無人機襲擊扎維耶石油調合廠，未造成設施損毀及人員傷亡。
-
----
-
-### 2026-08-11 06:16:06  #國際
-
-德國外交部長：敦促伊朗與地區國家及美國開展建設性談判，以推動結束衝突；霍爾木茲海峽必須無條件開放，保障所有船隻自由、安全通行。
-
----
-
-### 2026-08-11 06:15:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Japanese Yen Depreciates by 0.97% — Top currency losers are Japanese Yen (-0.97%), South Korean Won (-0.72%), Swiss Franc (-0.28%) and Euro (-0.14%). Gains are led by Dollar Index (0.27%), Norwegian Krone (0.26%) and British Pound (0.11%).
-
----
-
-### 2026-08-11 06:15:13  #公司
-
-【保險資管公司群體畫像新出 八千餘人管理資金超38萬億】近日，記者獲悉的行業調研資料顯示，截至2025年末，36家保險資管公司管理總規模為38.42萬億元，較2024年末增長5.12萬億元，增幅15.38%（有同比資料的34家機構，管理規模同比增長11.09%）。其中，管理保險業外資金為6.98萬億元，佔比約18.21%。在業外資金中，銀行資金3.48萬億元，佔比9.07%；養老金（含基本養老金、企業年金、職業年金）合計2.8萬億元，佔比7.31%；其他資金為0.7萬億元。 證券時報記者根據公開資訊梳理發現，2025年末，管理規模達到萬億元以上的保險資管公司增至11家，包括國壽資產、平安資管、泰康資產、太保資產、人保資產、新華資產、太平資產、長江養老、華夏久盈、華泰資產和大家資產。（證券時報）
-
----
-
-### 2026-08-11 06:14:40  #其他
-
-【存款利率最高漲超30個基點 多家中小銀行逆勢而“上”情非得已】8月以來，湖北、廣東等地多家中小銀行紛紛上調存款利率，引發市場關注。 在宏觀市場利率整體下行、銀行業持續壓降負債成本的背景下，中小銀行針對存款利率“反其道而行之”的做法，實屬不多見。 業內人士認為，此舉具有明顯的階段性攬儲特徵，不具備普適性，且與近期部分國有大行集體重啟五年期大額存單並無直接關聯。（證券時報）
-
----
-
-### 2026-08-11 06:11:01  #市場
-
-【多路資金買入黃金，機構熱議新“擊球區”出現】黃金近期迎來了一波強勢反攻。8月以來，COMEX黃金期貨價格突破4400美元/盎司關口，黃金ETF被淨申購近20億份，部分FOF、基金投顧等資金也迴流黃金。隨著壓制金價的政策、資金、地緣“三座大山”邊際改善，多家機構判斷黃金已迎來配置“擊球區”，建議關注階段性修復機會。（上證報）
-
----
-
-### 2026-08-11 06:10:46  #國際
-
-【基輔遭遇彈道導彈襲擊 烏多地釋出防空警報】當地時間11日，烏克蘭基輔市長克利奇科釋出通報，基輔城區出現爆炸聲響，該市正遭受彈道導彈襲擊。目前，首都基輔及烏克蘭多地已啟動防空警戒。烏克蘭空軍提醒民眾，切勿輕視防空警報，彈道導彈威脅仍未消除。
-
----
-
-### 2026-08-11 06:08:47  #國際
-
-當地官員稱，俄羅斯襲擊基輔引發多處火災。
-
----
-
-### 2026-08-11 06:07:17  #央行 #國際
-
-【美聯儲9月加息25個基點的機率為51.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為48.8%，累計加息25個基點的機率為51.2%。美聯儲到10月維持利率不變的機率為34.7%，累計加息25個基點的機率為50.5%，累計加息50個基點的機率為14.7%。
-
----
-
-### 2026-08-11 06:04:33  #公司
-
-利比亞國家石油公司：若襲擊持續，將被迫宣佈不可抗力並完全停止扎維耶煉油廠的運營。
-
----
-
-### 2026-08-11 06:04:08  #MKT News #WTI #Impact bullish #Brent
-
-Libya's National Oil Corporation said it will be forced to declare force majeure and fully halt operations at the Zawiya refinery if attacks continue.
-
----
-
-### 2026-08-11 06:04:01  #MKT News #Commodities #Energy
-
-Libya's National Oil Corporation (NOC) said a drone attack struck the Zawiya oil blending plant; there were no casualties or damage. It was the third attack on Zawiya oil assets over Sunday and Monday.
-
----
-
-### 2026-08-11 06:03:24  #公司
-
-利比亞國家石油公司表示，此次最新無人機襲擊是週日至週一期間針對扎維耶石油設施發生的第三起襲擊。
-
----
-
-### 2026-08-11 06:00:45  #市場
-
-紐約期銀日內漲1%，現報65.94美元/盎司。
-
----
-
-### 2026-08-11 06:00:34  #其他
-
-中央氣象臺8月11日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-08-11 05:56:54  #MKT News #Star Stocks #Apple #Market Themes #Chip Wars #Magnificent 7 #AAPL.O #Impact bearish #TSM.N
-
-【Kuo denies TSMC amassed $1 bln of Apple A20 Pro chips awaiting memory】Reports said TSMC (TSM.N) had about $1 bln of A20 Pro (2nm/N2) processors for Apple (AAPL.O) stuck in-factory awaiting memory and unable to complete final packaging. Analyst Ming‑Chi Kuo said Apple did cut hardware shipments this year due to memory shortages, but Apple schedules TSMC processor production at least three months ahead based on expected memory availability rather than having TSMC prebuild large volumes of in‑process inventory. Kuo said he is not aware of TSMC accumulating roughly $1 bln of WIP that must wait for memory before packaging, and given the close supply‑chain coordination and execution at both companies such a scenario would be unusual.
-
----
-
-### 2026-08-11 05:56:20  #MKT News #WTI #Impact bearish #Brent
-
-【Trump says US forces effectively control Strait of Hormuz, have cleared sea mines】Trump told reporters at the White House on Aug. 10 he will seek compensation from Iran after Tehran demanded reparations following a military clash, repeating earlier social media posts. He said US forces effectively control the Strait of Hormuz and have cleared Iranian-laid sea mines.
 
 ---

@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:55:03_
-_本檔包含 2985 則快訊，約 604751 字_
+_更新時間：2026-08-18 06:33:36_
+_本檔包含 2979 則快訊，約 604142 字_
+
+---
+
+### 2026-08-13 12:38:41  #公司
+
+【聯想集團預計本財年營收有望突破1000億美元】8月13日午間，聯想集團披露2026/27財年第一財季業績，第一財季，聯想集團AI相關業務收入同比增長60%，達634億元人民幣，佔集團整體營收約35%。同時，聯想集團研發投入同比大幅增長30%。公司表示，聯想集團混合式AI戰略開始進入價值兌現階段。聯想集團預計，本財年營收有望突破1000億美元，從而提前實現此前提出的“兩年內營收超千億美元”的承諾。
+
+---
+
+### 2026-08-13 12:38:07  #其他
+
+【水利部：全國58條河流仍維持超警】今天上午，水利部舉行會商，分析研判全國的防汛形勢，今天全國58條河流仍維持超警，長江、淮河流域部分主要河流將出現明顯漲水過程。截至今天9時，浙江、上海、江蘇、安徽、河南、黑龍江、內蒙古、湖北、雲南、新疆等地58條河流仍維持超警，最大超警幅度3.32米。
+
+---
+
+### 2026-08-13 12:36:30  #其他
+
+【2026綠色算力（人工智慧）大會將於8月22日舉行】據內蒙古日報，8月12日，呼和浩特市人民政府召開新聞釋出會，宣佈2026綠色算力（人工智慧）大會將於2026年8月22日在內蒙古自治區首府呼和浩特市舉行。據悉，綠色算力大會已成功舉辦三屆，本屆大會將進一步聚焦算電深度協同、詞元價值釋放和全球開放合作的更高階段，為全國綠色算力產業高質量發展搭建交流合作平臺，助力構建全國一體化算力網。
+
+---
+
+### 2026-08-13 12:34:02  #其他
+
+【今年上半年194家企業在澳門開展新投資計劃】澳門特區政府今日（13日）表示，憑藉“一國兩制”制度與獨特區位優勢，澳門全面推進“1+4”經濟適度多元發展，招商投資促進局（招商局）於2026年上半年接獲194家企業在澳門開展新投資計劃，同比增長7%，當中逾六成專案為“1+4”產業新投資計劃，較去年同期上升超過四成，尤以現代金融、高新技術及大健康板塊增長顯著。 據瞭解，招商局已完成跟進133個投資專案，落戶專案涵蓋高新科技、特色金融、大健康及生物醫藥等重點範疇，當中更不乏上市企業及具備高成長潛力的頭部企業在澳門設點或設立創投基金，充分顯現國際資本對澳門市場前景的信心。
+
+---
+
+### 2026-08-13 12:33:54  #市場
+
+巴基斯坦KSE-100指數開盤後上漲0.3%，至180,910.30點。
+
+---
+
+### 2026-08-13 12:30:50  #公司
+
+【Meta在澳洲封禁超75萬個疑似未成年人賬戶，並承諾加強執法】Facebook和Instagram母公司Meta 週四表示，自澳洲實施全球首個針對青少年的社媒賬戶禁令以來，該公司已封禁了超過75萬個疑似由16歲以下澳洲未成年人持有的賬戶，並承諾將採取進一步行動。該公司表示，從澳洲社交媒體禁令去年12月生效前至今年6月，已停用46.2萬個可疑Instagram賬戶和29.4萬個可疑Facebook賬戶。相比之下，截至今年1月，該公司曾表示已刪除33.1萬個Instagram賬戶和17.3萬個Facebook賬戶。澳洲網際網路監管機構正考慮對包括Meta旗下平臺在內的多家社媒平臺提起執法訴訟，理由是這些平臺未採取充分舉措遵守相關法律。
+
+---
+
+### 2026-08-13 12:30:17  #市場
+
+【安徽啟用茨淮新河分洩潁河洪水】記者從安徽省水利廳瞭解到，8月13日，安徽啟用茨淮新河分洩潁河洪水，全力降低潁河水位。潁河是淮河重要支流。受潁河上游河南省持續來水影響，安徽潁河水位快速上漲，預計阜陽閘8月15日洪峰水位31.4米，超警戒水位0.9米。安徽省水利廳提前研判，經商水利部淮河水利委員會及沿線各市，決定於13日11時啟用茨淮新河分洩潁河洪水，全力降低潁河水位，最大限度減輕流域防洪壓力。茨淮新河起自阜陽茨河鋪，與潁河相接，是一條大型人工河道，全長134.2公里。（新華社）
+
+---
+
+### 2026-08-13 12:29:48  #其他
+
+“兩彈一星功勳獎章”獲得者王希季逝世，享年105歲。（北京日報）
+
+---
+
+### 2026-08-13 12:28:59  #MKT News
+
+Putin said a strong ruble benefits households but creates problems for exporters.
+
+---
+
+### 2026-08-13 12:28:16  #市場 #國際
+
+據報道，俄羅斯總統普京表示，盧布走強惠及普通民眾，但給出口企業帶來問題。
+
+---
+
+### 2026-08-13 12:27:44  #市場
+
+【國家能源局：7月中國綠證價格指數收於222.8點 環比上漲23.1%】國家能源局資料顯示，2026年7月，中國綠證價格指數收於222.8點（以2025年1月為基期100點），環比上漲23.1%，同比上漲11.2%。 注：中國綠證價格指數是在國家能源局新能源司指導下，由國家發展和改革委員會價格監測中心、國家能源局電力業務資質管理中心聯合編制。
+
+---
+
+### 2026-08-13 12:27:14  #宏觀
+
+市場訊息：星鏈（Starlink）已開始在越南接受其高速、低延遲衛星網際網路服務的訂單，這是該國新出臺的近地軌道監管框架下的一個重要里程碑。
+
+---
+
+### 2026-08-13 12:26:03  #MKT News #Market Regions #Emerging Markets
+
+Market sources say Starlink has begun accepting orders for satellite internet service in Vietnam.
+
+---
+
+### 2026-08-13 12:25:06  #公司
+
+【運機集團與中科慧拓簽署戰略合作協議 打造一體化智慧礦山無人輸送方案】據運機集團訊息，8月12日，四川省自貢運輸機械集團股份有限公司（簡稱“運機集團”）與中科慧拓科技股份有限公司簽署全面戰略合作協議，雙方將依託各自產業與技術優勢，協同推進海內外礦山智慧運輸、綠色礦山建設，打造一體化無人輸送解決方案，助力礦業行業智慧化、無人化、綠色化轉型。
+
+---
+
+### 2026-08-13 12:21:57  #其他
+
+【尚比亞大選開始投票 】尚比亞大選13日開始投票，約870萬名登記選民將投票選舉總統、國民議會議員等。尚比亞選舉委員會在全國設立1.3萬餘個投票站。投票於當地時間13日6時（北京時間12時）開始，預計將於18時結束。本次總統選舉共有13名候選人參選。現任總統哈凱恩德·希奇萊馬代表執政黨國家發展聯合黨參選，其主要競爭對手是促進團結與繁榮民族和解黨候選人布賴恩·蒙杜比萊。據尚比亞選舉委員會介紹，總統候選人獲得超過50%的選票即勝出，如第一輪無人獲勝，得票領先的兩名候選人將進行第二輪角逐。
+
+---
+
+### 2026-08-13 12:21:34  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #USDJPY
+
+NZD/USD down 0.50% intraday to 0.5827.
+
+---
+
+### 2026-08-13 12:21:12  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
+
+China 10Y Yield Hits Over 1-Year Low — China’s 10-year government bond yield dropped to around 1.69% on Thursday, hitting its lowest level since mid-July 2025, as investors welcomed fresh signals of policy support from the People's Bank of China. The central bank pledged to roll out additional measures in a timely manner, saying it would make full use of existing policy tools, introduce "practical and effective" new measures when needed, and strengthen countercyclical adjustments. The PBOC also vowed to step up support for domestic demand, technological innovation, and small and medium-sized enterprises. However, the absence of details on any major easing measures reinforced expectations that broad-based monetary stimulus remains unlikely in the near term. Separately, the PBOC conducted no seven-day reverse repos for a third consecutive session on Thursday, while announcing plans to inject up to CNY 600 billion per day through overnight reverse repos on August 14 and August 17–19.
+
+---
+
+### 2026-08-13 12:20:39  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Slips on Soft PBOC Fixing — The offshore yuan weakened to around 6.74 per dollar on Thursday, reversing gains from the previous session as a weaker-than-expected daily fixing by the People's Bank of China weighed on the currency. The central bank set the midpoint rate at 6.7888 per dollar, 418 pips weaker than a Reuters estimate. While seasonal factors as September approaches could support the yuan, the extent of any gains will likely depend on the PBOC's fixing strategy. The yuan's decline was partly cushioned by a softer US dollar after inflation data reduced expectations of an imminent Federal Reserve rate hike. Meanwhile, the PBOC reiterated its commitment to rolling out targeted policy support while avoiding broad-based easing in its quarterly monetary policy report. Separately, the PBOC conducted no seven-day reverse repos for a third consecutive day on Thursday, while announcing plans to inject up to CNY 600 billion per day through overnight reverse repos on August 14 and August 17–19.
 
 ---
 
@@ -17870,149 +17978,5 @@ Gasoline Rises to 2-Week High — US gasoline futures rose to around $3.16 per g
 ### 2026-08-12 09:32:46  #市場
 
 【煤炭板塊盤初走弱，新大洲A跌停】煤炭板塊盤初走弱，新大洲A跌停，大有能源、潞安環能、淮北礦業、山西焦化、蘭花科創、恆源煤電等跟跌。
-
----
-
-### 2026-08-12 09:32:37  #市場
-
-【工業母機概念繼續活躍 華東數控3連板】早盤工業母機概念繼續活躍，華東數控3連板，鼎通科技、瀋陽機床、銳科鐳射、科德數控、大族數控跟漲。
-
----
-
-### 2026-08-12 09:32:11  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Tech Index's early losses widened to 1%; Hang Seng Index is down 0.9%.
-
----
-
-### 2026-08-12 09:31:20  #公司
-
-【江蘇省首個Token運營中心在蘇州揭牌】據蘇州日報，8月11日，中國電信（江蘇）Token運營中心揭牌暨入駐蘇州國際資料港儀式在蘇州工業園區舉行。這是全省首個Token運營中心，目標打造國內領先、接軌國際的Token綜合服務樞紐。此次揭牌的中國電信（江蘇）Token運營中心將聚焦大模型詞元算力業務，整合國內AI應用場景，打通跨境AI服務雙向通道，實現詞元算力排程、交付、鑑證、管控等全生命週期管理。當天，涵蓋天翼雲、智譜、火山、阿里、騰訊、中國電信國際公司、新建元等國內外領軍企業的Token出海服務聯盟同步成立，初步形成從資源供給到場景應用、從智慧排程到跨境輸出的協同生態網路，可為出海企業提供“模型+合規+本地化”一站式服務。
-
----
-
-### 2026-08-12 09:31:12  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【China index futures open】CSI 300 index futures (IF) most-active contract down 0.10%, SSE 50 index futures (IH) most-active contract down 0.17%, CSI 500 index futures (IC) most-active contract up 0.12%, CSI 1000 index futures (IM) most-active contract down 0.03%.
-
----
-
-### 2026-08-12 09:31:12  #MKT News
-
-【China government bond futures open】2-year government bond futures (TS) most-active contract flat at the morning open; 5-year (TF) down 0.01%, 10-year (T) down 0.02%, 30-year (TL) down 0.06%.
-
----
-
-### 2026-08-12 09:30:56  #市場
-
-影視院線板塊高開，北京文化走出三連板，儒意電影漲超4%，金逸影視、中國電影等跟漲。
-
----
-
-### 2026-08-12 09:30:51  #MKT News #Important #Market Regions #Greater China
-
-China A-share film exhibition sector opened higher. Beijing Culture extended its run to a third straight daily limit-up. Ruyi Film rose over 4%; Jinyi Film & TV and China Film also advanced.
-
----
-
-### 2026-08-12 09:30:16  #市場 #焦點
-
-恒生指數跌超1%，現報25392.738點；恒生科技指數現跌1.223%。
-
----
-
-### 2026-08-12 09:30:09  #MKT News
-
-【Henan issues red heavy-rain warning, activates level-2 flood emergency】Henan’s flood-control command activated a level-2 emergency response at 08:00 on Aug 12, the provincial emergency management department said. From 08:00 Aug 12 to 08:00 Aug 13 heavy rain is expected along the Huai River and across much of northern Henan. Heavy downpours are forecast in parts of southern Jiaozuo, central-eastern and eastern Xinxiang, eastern Luoyang, Zhengzhou, Kaifeng, central-western Shangqiu, Pingdingshan, Xuchang, Luohe, central-western and northern Zhoukou, northeastern Nanyang and northern Zhumadian. Localised ultra-heavy rain (250–350mm at isolated points) is possible in southeastern Zhengzhou, southern Kaifeng, central Pingdingshan, northern Xuchang and western Zhoukou. Brief intense rainfall with hourly rates of 40–60mm (up to 80mm locally) and convective thunderstorm winds of force 8–10 are also expected.
-
----
-
-### 2026-08-12 09:30:08  #市場 #焦點
-
-恒生科技指數跌超1%，現報4773.250點；恒生指數現跌0.910%。
-
----
-
-### 2026-08-12 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約基本持平。
-
----
-
-### 2026-08-12 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲0.19%， 滬深300指數期貨連續漲0.10%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續漲0.09%。
-
----
-
-### 2026-08-12 09:29:29  #國際
-
-【河南釋出暴雨紅色預警 啟動防汛二級應急響應】從河南省應急管理廳獲悉，河南省防汛抗旱指揮部已於8月12日8時啟動防汛二級應急響應。河南省氣象臺2026年8月12日7時30分升級釋出暴雨紅色預警：過去24小時，河南省黃淮之間大部出現暴雨或大暴雨，洛陽、鄭州、平頂山、許昌、漯河、周口、南陽局地特大暴雨，最大降水量葉縣常村356.9毫米。預計12日8時至13日8時，沿淮及其以北大部有暴雨，其中焦作南部、新鄉中東部、洛陽東部、鄭州、開封、商丘中西部、平頂山、許昌、漯河、周口中西部和北部、南陽東北部、駐馬店北部部分縣（市、區）有大暴雨，鄭州東南部、開封南部、平頂山中部、許昌北部、周口西部局地特大暴雨（個別點250到350毫米），並伴有短時強降水（最大小時降水量40到60毫米，局地80毫米）、局地雷暴大風（8到10級）等強對流天氣。依據氣象預報情況，經會商研判，按照《河南省防汛應急預案》有關規定，河南省防指決定自8月12日8時啟動防汛二級應急響應。請按照預案規定的響應行動，落實落細防範應對措施，加大對重點區域地質災害避險轉移和應對防範，全力做好防汛防颱風各項工作，確保人民群眾生命財產安全。遇有重大險情災情要第一時間報告省防辦。
-
----
-
-### 2026-08-12 09:29:23  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share compute-power leasing sector opened broadly higher; Yunsai Zhilian and Chengdi Xiangjiang hit the daily trading limit. Hongbo Co., Xingyun Technology, Annuoqi, Litong Electronics and Shujugang opened higher.
-
----
-
-### 2026-08-12 09:27:51  #MKT News #Market Regions #Greater China
-
-China A-share MLCC stocks opened lower; Yunzhong Technology down over 4%, Fenghua Advanced Technology down over 3%, with Jiemei Technology and Sanhuan Group also weaker.
-
----
-
-### 2026-08-12 09:27:41  #公司 #市場
-
-算力租賃概念延續漲勢，城地香江2連板，雲賽智聯一字漲停，鴻博股份、行雲科技、安諾其、利通電子漲超6%。
-
----
-
-### 2026-08-12 09:27:20  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-At Wednesday's open (Aug 12), China's Shanghai Composite Index was down 0.01% at 3,933.55; Shenzhen Composite Index down 0.04% at 14,253.12; CSI 300 Index down 0.07% at 4,660.47; ChiNext Index down 0.20% at 3,542.13; STAR 50 Index up 0.64% at 1,720.36.
-
----
-
-### 2026-08-12 09:27:01  #國際
-
-【近期惡劣天氣致菲律賓21人死亡 逾314萬人受災】菲律賓國家減災委釋出訊息稱，截至12日上午6時，受近期的颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓共有21人死亡，14人受傷，另有1人失蹤。受災人口超過314萬。
-
----
-
-### 2026-08-12 09:26:37  #國際
-
-一艘從巴厘島出發的印尼渡輪在龍目島附近海域起火，目前疏散工作正在進行中。
-
----
-
-### 2026-08-12 09:25:34
-
-三大股指低開，滬指跌0.01％，深成指跌0.04％，創業板跌0.2％。
-
----
-
-### 2026-08-12 09:25:33  #MKT News
-
-MSNBC reported U.S. Senator Amy Klobuchar won the Minnesota Democratic primary for governor.
-
----
-
-### 2026-08-12 09:25:28  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-China A-shares opened modestly lower: Shanghai Composite down 0.01%, Shenzhen Composite down 0.04%, ChiNext down 0.20%.
-
----
-
-### 2026-08-12 09:24:46  #MKT News
-
-AP projects U.S. Rep. Tom Tiffany has won the Republican nomination for Wisconsin governor.
-
----
-
-### 2026-08-12 09:24:39  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Holds Losses as Traders Assess Hormuz Developments — European natural gas prices hovered around €60 per MWh on Wednesday after falling in the previous session, as traders assessed diplomatic efforts to reopen the Strait of Hormuz and resume LNG flows from the Gulf. Pakistan’s defense minister said the US and Iran were “close to some sort of arrangement” over the waterway, while negotiations between Tehran and Oman were also reportedly making significant progress. However, uncertainty over a swift reopening of the strait persists, with both sides taking firmer positions. The ongoing disruption to shipping has severely constrained LNG shipments, leaving shipments from major exporter Qatar significantly delayed. Analysts expect European gas prices to keep a firm floor until storage levels show clearer signs of building toward seasonal targets before winter. Hot weather across Europe is also boosting electricity demand for cooling, adding further pressure to the market.
 
 ---

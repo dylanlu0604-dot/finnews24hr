@@ -1,7 +1,117 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:55:03_
-_本檔包含 3207 則快訊，約 604408 字_
+_更新時間：2026-08-18 06:33:36_
+_本檔包含 3207 則快訊，約 604976 字_
+
+---
+
+### 2026-08-14 14:17:04  #其他
+
+【浙江：重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，完善多方需求響應機制。支援高水平醫療機構面向臨床應用，聯合企業共同凝練攻關需求。腦機介面領域“尖兵”“領雁”專案榜單（指南）需求中來自企業的數量原則上不低於60%，其中“尖兵”專案一般不低於80%。 加強基礎研究和關鍵核心技術攻關。實施國家自然科學基金聯合基金生命健康重大專項和省應用基礎研究計劃專案，加強重大腦疾病機制機理、新型腦機介面等研究，省應用基礎研究計劃單個專案最高補助300萬元。實施腦機介面省重大科技專項，重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用，單個專案最高補助1000萬元。 深化產學研協同攻關。組建腦機介面創新聯合體；鼓勵腦機介面企業與高校院所、科創平臺實施夥伴計劃、共建聯合實驗室（聯合研發中心）等。企業牽頭實施的腦機介面領域“尖兵”專案比例原則上不低於70%。
+
+---
+
+### 2026-08-14 14:16:07  #宏觀
+
+【9月10日起實施 浙江出臺18條舉措，推進腦機介面領域發展】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，明確要聚焦腦機介面領域科技創新和產業創新深度融合，以醫療、消費、工業等重大應用場景建設為牽引，構建產業共培、資源統籌、風險共擔、利益共享的產學研聯動機制。《若干措施》將於9月10日起實施。若干措施》指出：到2027年，企業主導的產學研聯動機制有效執行，腦機介面核心軟硬體自主創新能力大幅提升，研發5個以上代表性產品並率先實現驗證應用，腦機介面未來產業營收超過50億元。到2030年，產學研聯動機制高效執行，腦機介面領域科技創新和產業創新深度融合，形成一批典型應用場景和商業化應用產品，培育一批科技領軍企業，建成具有較強國際競爭力的腦機介面技術和產業創新高地。
+
+---
+
+### 2026-08-14 14:15:54  #MKT News #Important #02099.HK #Impact bullish
+
+Hong Kong-listed China Gold International (02099.HK) extended gains, rising over 15% in afternoon trade after the company reported 1H2026 results yesterday: profit attributable to owners approximately $507m, up 153.3% YoY; EPS 127.99 US cents.
+
+---
+
+### 2026-08-14 14:15:16  #公司 #市場
+
+【華源證券：首予錫業股份“買入”評級，有望持續受益於商品價格中樞的穩步上行】華源證券研報指出，錫業股份作為具備百年曆史傳承的錫/銦雙龍頭，有望持續受益於商品價格中樞的穩步上行，業績有望隨之加速釋放。預測公司2026-2028年分別實現歸母淨利潤40.06、44.24、47.29億元，按2026年8月13日收盤價計算的PE為15.47、14.01、13.11倍。選擇同樣以錫礦開採作為主要業務的興業銀錫、華錫有色作為可比公司，兩家公司按2026年8月13日Wind一致預期計算的2026年平均PE為20.06倍，首次覆蓋給予錫業股份“買入”評級。
+
+---
+
+### 2026-08-14 14:15:10  #行業 #資料
+
+【崔東樹：2026年7月車市走弱是多重因素共振所致】乘聯分會崔東樹發文稱，2026年7月車市走弱，是油價反彈、宏觀走弱、季節性淡季、前期需求透支及政策切換等多重因素共振所致。地緣衝突引發霍爾木茲海峽通航擾動，推動國際油價震盪上行，2026年國內汽油價格累計上調1,575元/噸，大幅抬高用車成本，燃油乘用車消費需求劇烈萎縮，但對商用車的影響很小。同時7月CPI、PPI環比回落、PMI景氣下行，居民收入與消費預期偏謹慎，大額耐用品消費意願低迷，住行消費持續走弱，拖累車市終端需求。疊加7月高溫淡季壓制線下到店客流、6月半年衝量提前透支市場需求，終端訂單與客流同步回落。
+
+---
+
+### 2026-08-14 14:15:07  #Trading Economics #Economy #Germany #Wholesale Prices YoY #Importance 2
+
+Germany Wholesale Price Inflation Accelerates — Germany’s wholesale prices rose 5.3% year-on-year in July 2026, accelerating from a 4.9% increase in the previous month, which had marked the slowest growth in three months. The latest result was the 20th consecutive month of wholesale price inflation, driven mainly by higher energy products and raw materials amid ongoing hostilities in the Middle East. Prices rose sharply for non-ferrous ores, metals and semi-finished products (27.8%) and mineral oil products (24.1%), followed by chemical products (13.1%) and information and communication technology equipment (9.0%). In contrast, prices fell for live animals (-18.5%), milk, dairy products, eggs, edible fats and oils (-9.4%), and meat and meat products (-6.1%). On a monthly basis, wholesale prices edged up 0.2%, reversing a 0.7% decline in June and marking the first increase in three months, although the rise was below the 0.4% expected.
+
+---
+
+### 2026-08-14 14:14:39  #公司
+
+【寧德時代等在海南成立產業投資基金，出資額50億】天眼查App顯示，海南時代綠色產業投資基金合夥企業（有限合夥）於8月12日成立，出資額50億元人民幣，執行事務合夥人為廈門溥泉私募基金管理合夥企業（有限合夥），經營範圍含以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由寧德時代新能源科技股份有限公司、海南自由貿易港建設投資基金有限公司及廈門溥泉私募基金管理合夥企業（有限合夥）共同出資設立。
+
+---
+
+### 2026-08-14 14:14:02  #其他
+
+【中國摩托車商會：7月全行業燃油摩托車銷量同比增長18.85%】中國摩托車商會發文稱，7月，全行業完成燃油摩托車產銷193.84萬輛和189.96萬輛，產銷量環比增長5.13%和2.97%，同比增長22.32%和18.85%；據商會不完全統計，電動摩托車產銷33.11萬輛和32.12萬輛，產銷量環比下降21.21%和20.87%，同比增長10.37%和9.5%。7月共產銷摩托車226.96萬輛和222.08萬輛，產量環比增長0.24%，銷量環比下降1.33%，同比增長20.42%和17.4%；摩托車國內銷售80.12萬輛，環比下降8.15%，同比增長7.6%；燃油摩托車國內銷售48.49萬輛，環比增長0.79%，同比增長6.03%。其中二輪車產銷203.73萬輛和199.09萬輛，產量環比增長0.18%，銷量環比下降1.29%，同比增長22.83%和19.4%。排量250ml以上（不含）摩托車產銷10.49萬輛和10.09萬輛，產銷量環比下降5.41%和11.02%，同比增長15.14%和14.27%。三輪摩托車產銷23.23萬輛和23萬輛，產量環比增長0.74%，銷量環比下降1.66%，同比增長2.76%和2.56%。
+
+---
+
+### 2026-08-14 14:13:53  #其他
+
+惠譽評級：新加坡銀行業透過財富增長維持盈利強勁勢頭。
+
+---
+
+### 2026-08-14 14:13:13  #市場
+
+澳大利亞S&P/ASX 200指數收盤下跌0.8%，至9115.20點。
+
+---
+
+### 2026-08-14 14:12:51  #國際
+
+俄羅斯羅斯托夫州已收穫1360萬噸冬糧和豆類作物。
+
+---
+
+### 2026-08-14 14:12:14  #公司
+
+【多家小貸公司明示個貸綜合融資成本上限 部分已低於12%】8月1日，《個人貸款業務明示綜合融資成本規定》正式施行，要求貸款人向借款人展示綜合融資成本明示表。記者注意到，多家小貸公司已經披露個人貸款業務綜合融資成本上限，其中不少機構將上限設定在24%，也有部分公司將上限控制在12%以內。
+
+---
+
+### 2026-08-14 14:11:42  #市場
+
+【港股中國黃金國際漲幅擴大至15%】港股中國黃金國際走強，漲幅擴大至15%。
+
+---
+
+### 2026-08-14 14:11:33  #公司 #國際
+
+【SK掌門人：明年大機率是史上最嚴重的“儲存晶片荒”】綜合韓聯社Infomax、美國消費者新聞與商業頻道(CNBC)報道，SK集團會長崔泰源作出預判，明年儲存晶片行業將遭遇史上最嚴重供應短缺。當地時間13日，崔泰源在採訪中直言：“明年大機率會是儲存晶片供應缺口最大的一年。我們正全力擴充產能，穩固自身在儲存市場的份額。”被問及是否計劃在美國興建儲存晶圓廠時，崔泰源回應：“我們有赴美建廠的意願，眼下難題是尋找合適選址。”崔泰源解釋稱：“各國都希望本土落地儲存晶片工廠。只要當地能提供充足水源、穩定電力、可用土地以及完整半導體產業生態，我們在哪裡都能建廠。”報道顯示，SK海力士正在建設其首座美國工廠，專案預計2028年完工。不過，這座位於印第安納州、投資40億美元的工廠主要用於封測業務，但並不開展晶圓前端製造。（中新經緯）
+
+---
+
+### 2026-08-14 14:11:32  #Trading Economics #Economy #Romania #GDP Annual Growth Rate #Importance 1
+
+Romania GDP Shrinks Less Than Expected in Q2 — Romania’s economy contracted by 0.4% year-on-year in the second quarter of 2026, well below market expectations for a 1.5% decline and easing from a 1.2% downturn in the previous three-month period, according to preliminary estimates. The latest reading marked the second consecutive quarter of annual economic contraction, although the pace of decline moderated significantly from the previous quarter. On a seasonally adjusted quarterly basis, the country’s GDP remained unchanged, following a revised 0.1% decline in the preceding quarter.
+
+---
+
+### 2026-08-14 14:10:56  #公司
+
+【DeepSeek漲價 谷歌降價：新模型限時五折】這邊DeepSeek剛漲價，另一邊谷歌開始打五折了，大模型市場的價格策略開始走向兩個方向。當地時間8月13日，谷歌釋出新模型Gemini 3.7 Flash，相比效能提升，更受開發者關注的是一項限時促銷：今年年底前，該模型每百萬token的輸入、輸出價格分別為0.75美元和3.75美元，只有Gemini 3.6 Flash標準價格的一半。
+
+---
+
+### 2026-08-14 14:10:40  #國際
+
+俄羅斯克拉斯諾達爾邊疆區已收割冬小麥、大麥和豌豆共計1140萬噸，較2024年增加近200萬噸。
+
+---
+
+### 2026-08-14 14:10:02  #市場
+
+【主力資金：轉融券標的板塊淨流出超229億】截至目前，今日主力資金淨流出246.51億；淨流入光通訊、通訊、通訊裝置等板塊，其中光通訊板塊淨流入99.39億；淨流出轉融券標的、融資融券、深股通等板塊，其中轉融券標的板塊淨流出229.49億。
+  
+個股方面，亨通光電淨買入24.31億元位居首位，長鑫科技、新易盛、蓮花控股主力資金淨流入居前；大唐發電淨賣出11.80億元位居首位，勝宏科技、京東方Ａ、華虹宏力淨流出額居前。
 
 ---
 
@@ -19203,113 +19313,5 @@ Interfax cited local officials as saying drones struck an industrial area in Rus
 ### 2026-08-13 12:39:04  #Trading Economics #Markets #India #Stock Market #Importance 1
 
 Sensex Extends Weakness for Third Day — India’s BSE Sensex fell about 0.2% to 77,775 on Thursday, marking its third consecutive session of decline, as investors remained cautious amid geopolitical tensions and stock-specific developments. Sentiment was weighed by uncertainty in the Middle East, even as softer US inflation data reduced expectations of a near-term Fed Reserve rate hike. India’s July annual inflation also rose to 4.45%, but remains unlikely to prompt a rate hike from the central bank in the coming months. Among corporate developments, Laurus Labs, Lenskart, Adani Energy and Groww will be added to the MSCI Global Standard Index effective Sept. 1, potentially attracting about $598 million, $352 million, $310 million and $256 million respectively in passive inflows. Eternal, Adani Enterprises and Adani Ports are also expected to benefit from higher MSCI weights, while Reliance Industries and Jio Financial could see passive outflows. Early losers included Cupid (-1.2%), Thyrocare (-4.5%), and Ather Energy (-3.5%).
-
----
-
-### 2026-08-13 12:38:41  #公司
-
-【聯想集團預計本財年營收有望突破1000億美元】8月13日午間，聯想集團披露2026/27財年第一財季業績，第一財季，聯想集團AI相關業務收入同比增長60%，達634億元人民幣，佔集團整體營收約35%。同時，聯想集團研發投入同比大幅增長30%。公司表示，聯想集團混合式AI戰略開始進入價值兌現階段。聯想集團預計，本財年營收有望突破1000億美元，從而提前實現此前提出的“兩年內營收超千億美元”的承諾。
-
----
-
-### 2026-08-13 12:38:07  #其他
-
-【水利部：全國58條河流仍維持超警】今天上午，水利部舉行會商，分析研判全國的防汛形勢，今天全國58條河流仍維持超警，長江、淮河流域部分主要河流將出現明顯漲水過程。截至今天9時，浙江、上海、江蘇、安徽、河南、黑龍江、內蒙古、湖北、雲南、新疆等地58條河流仍維持超警，最大超警幅度3.32米。
-
----
-
-### 2026-08-13 12:36:30  #其他
-
-【2026綠色算力（人工智慧）大會將於8月22日舉行】據內蒙古日報，8月12日，呼和浩特市人民政府召開新聞釋出會，宣佈2026綠色算力（人工智慧）大會將於2026年8月22日在內蒙古自治區首府呼和浩特市舉行。據悉，綠色算力大會已成功舉辦三屆，本屆大會將進一步聚焦算電深度協同、詞元價值釋放和全球開放合作的更高階段，為全國綠色算力產業高質量發展搭建交流合作平臺，助力構建全國一體化算力網。
-
----
-
-### 2026-08-13 12:34:02  #其他
-
-【今年上半年194家企業在澳門開展新投資計劃】澳門特區政府今日（13日）表示，憑藉“一國兩制”制度與獨特區位優勢，澳門全面推進“1+4”經濟適度多元發展，招商投資促進局（招商局）於2026年上半年接獲194家企業在澳門開展新投資計劃，同比增長7%，當中逾六成專案為“1+4”產業新投資計劃，較去年同期上升超過四成，尤以現代金融、高新技術及大健康板塊增長顯著。 據瞭解，招商局已完成跟進133個投資專案，落戶專案涵蓋高新科技、特色金融、大健康及生物醫藥等重點範疇，當中更不乏上市企業及具備高成長潛力的頭部企業在澳門設點或設立創投基金，充分顯現國際資本對澳門市場前景的信心。
-
----
-
-### 2026-08-13 12:33:54  #市場
-
-巴基斯坦KSE-100指數開盤後上漲0.3%，至180,910.30點。
-
----
-
-### 2026-08-13 12:30:50  #公司
-
-【Meta在澳洲封禁超75萬個疑似未成年人賬戶，並承諾加強執法】Facebook和Instagram母公司Meta 週四表示，自澳洲實施全球首個針對青少年的社媒賬戶禁令以來，該公司已封禁了超過75萬個疑似由16歲以下澳洲未成年人持有的賬戶，並承諾將採取進一步行動。該公司表示，從澳洲社交媒體禁令去年12月生效前至今年6月，已停用46.2萬個可疑Instagram賬戶和29.4萬個可疑Facebook賬戶。相比之下，截至今年1月，該公司曾表示已刪除33.1萬個Instagram賬戶和17.3萬個Facebook賬戶。澳洲網際網路監管機構正考慮對包括Meta旗下平臺在內的多家社媒平臺提起執法訴訟，理由是這些平臺未採取充分舉措遵守相關法律。
-
----
-
-### 2026-08-13 12:30:17  #市場
-
-【安徽啟用茨淮新河分洩潁河洪水】記者從安徽省水利廳瞭解到，8月13日，安徽啟用茨淮新河分洩潁河洪水，全力降低潁河水位。潁河是淮河重要支流。受潁河上游河南省持續來水影響，安徽潁河水位快速上漲，預計阜陽閘8月15日洪峰水位31.4米，超警戒水位0.9米。安徽省水利廳提前研判，經商水利部淮河水利委員會及沿線各市，決定於13日11時啟用茨淮新河分洩潁河洪水，全力降低潁河水位，最大限度減輕流域防洪壓力。茨淮新河起自阜陽茨河鋪，與潁河相接，是一條大型人工河道，全長134.2公里。（新華社）
-
----
-
-### 2026-08-13 12:29:48  #其他
-
-“兩彈一星功勳獎章”獲得者王希季逝世，享年105歲。（北京日報）
-
----
-
-### 2026-08-13 12:28:59  #MKT News
-
-Putin said a strong ruble benefits households but creates problems for exporters.
-
----
-
-### 2026-08-13 12:28:16  #市場 #國際
-
-據報道，俄羅斯總統普京表示，盧布走強惠及普通民眾，但給出口企業帶來問題。
-
----
-
-### 2026-08-13 12:27:44  #市場
-
-【國家能源局：7月中國綠證價格指數收於222.8點 環比上漲23.1%】國家能源局資料顯示，2026年7月，中國綠證價格指數收於222.8點（以2025年1月為基期100點），環比上漲23.1%，同比上漲11.2%。 注：中國綠證價格指數是在國家能源局新能源司指導下，由國家發展和改革委員會價格監測中心、國家能源局電力業務資質管理中心聯合編制。
-
----
-
-### 2026-08-13 12:27:14  #宏觀
-
-市場訊息：星鏈（Starlink）已開始在越南接受其高速、低延遲衛星網際網路服務的訂單，這是該國新出臺的近地軌道監管框架下的一個重要里程碑。
-
----
-
-### 2026-08-13 12:26:03  #MKT News #Market Regions #Emerging Markets
-
-Market sources say Starlink has begun accepting orders for satellite internet service in Vietnam.
-
----
-
-### 2026-08-13 12:25:06  #公司
-
-【運機集團與中科慧拓簽署戰略合作協議 打造一體化智慧礦山無人輸送方案】據運機集團訊息，8月12日，四川省自貢運輸機械集團股份有限公司（簡稱“運機集團”）與中科慧拓科技股份有限公司簽署全面戰略合作協議，雙方將依託各自產業與技術優勢，協同推進海內外礦山智慧運輸、綠色礦山建設，打造一體化無人輸送解決方案，助力礦業行業智慧化、無人化、綠色化轉型。
-
----
-
-### 2026-08-13 12:21:57  #其他
-
-【尚比亞大選開始投票 】尚比亞大選13日開始投票，約870萬名登記選民將投票選舉總統、國民議會議員等。尚比亞選舉委員會在全國設立1.3萬餘個投票站。投票於當地時間13日6時（北京時間12時）開始，預計將於18時結束。本次總統選舉共有13名候選人參選。現任總統哈凱恩德·希奇萊馬代表執政黨國家發展聯合黨參選，其主要競爭對手是促進團結與繁榮民族和解黨候選人布賴恩·蒙杜比萊。據尚比亞選舉委員會介紹，總統候選人獲得超過50%的選票即勝出，如第一輪無人獲勝，得票領先的兩名候選人將進行第二輪角逐。
-
----
-
-### 2026-08-13 12:21:34  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #USDJPY
-
-NZD/USD down 0.50% intraday to 0.5827.
-
----
-
-### 2026-08-13 12:21:12  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Yield Hits Over 1-Year Low — China’s 10-year government bond yield dropped to around 1.69% on Thursday, hitting its lowest level since mid-July 2025, as investors welcomed fresh signals of policy support from the People's Bank of China. The central bank pledged to roll out additional measures in a timely manner, saying it would make full use of existing policy tools, introduce "practical and effective" new measures when needed, and strengthen countercyclical adjustments. The PBOC also vowed to step up support for domestic demand, technological innovation, and small and medium-sized enterprises. However, the absence of details on any major easing measures reinforced expectations that broad-based monetary stimulus remains unlikely in the near term. Separately, the PBOC conducted no seven-day reverse repos for a third consecutive session on Thursday, while announcing plans to inject up to CNY 600 billion per day through overnight reverse repos on August 14 and August 17–19.
-
----
-
-### 2026-08-13 12:20:39  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Slips on Soft PBOC Fixing — The offshore yuan weakened to around 6.74 per dollar on Thursday, reversing gains from the previous session as a weaker-than-expected daily fixing by the People's Bank of China weighed on the currency. The central bank set the midpoint rate at 6.7888 per dollar, 418 pips weaker than a Reuters estimate. While seasonal factors as September approaches could support the yuan, the extent of any gains will likely depend on the PBOC's fixing strategy. The yuan's decline was partly cushioned by a softer US dollar after inflation data reduced expectations of an imminent Federal Reserve rate hike. Meanwhile, the PBOC reiterated its commitment to rolling out targeted policy support while avoiding broad-based easing in its quarterly monetary policy report. Separately, the PBOC conducted no seven-day reverse repos for a third consecutive day on Thursday, while announcing plans to inject up to CNY 600 billion per day through overnight reverse repos on August 14 and August 17–19.
 
 ---
