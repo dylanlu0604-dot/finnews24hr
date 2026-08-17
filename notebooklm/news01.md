@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 07:26:31_
-_本檔包含 2871 則快訊，約 604154 字_
+_更新時間：2026-08-18 07:52:20_
+_本檔包含 2843 則快訊，約 604542 字_
+
+---
+
+### 2026-08-18 07:51:36  #觀點
+
+【中信建投：化工逐漸進入旺季 關注三季度環比改善的板塊和個股】中信建投證券研報指出，化工逐漸進入旺季，關注三季度環比改善的板塊和個股。在經歷4、5月下游的去庫之後，當前下游庫存偏低，從去庫轉向正常採購的過程表觀需求會有所改善，而9—10月的真實需求也會偏高。不過考慮到目前油價依然處於高價格和高波動期，下游進行補庫的意願不會太強，維持今年秋季弱補庫的觀點。長期看化工龍頭在週期底部的盈利底已經非常優秀，擁有足夠的價值，但是短期依然面臨二季度高基數和三季度弱補庫導致的業績環比下滑風險。建議重點關注三季度業績有望進一步上行的行業和個股，包括：保持高景氣的海外成品油、量價齊升的氟化工製冷劑、新產能持續放量的鉀肥、以及成本端下行顯著的輪胎。
+
+---
+
+### 2026-08-18 07:51:19  #國際
+
+【美加貿易談判受阻 汽車關稅成為主要障礙】在美國對加拿大新一輪關稅即將生效之際，兩國貿易談判仍未取得突破，據悉汽車關稅成為主要分歧。因涉及未公開資訊而不願具名的知情人士表示，加拿大希望汽車關稅稅率降至10%，或擴大目前對於包含美國零部件的汽車予以關稅減免的措施。但特朗普政府堅持稅率至少為15%。美國總統特朗普去年對外國汽車和卡車徵收25%的關稅，但根據供應鏈中美國零部件所佔比例，對加拿大和墨西哥給予部分減免。例如，一輛在安大略省組裝、美國零部件佔比50%的汽車，實際適用的關稅稅率為12.5%。美國貿易代表格里爾要求加拿大取消所有貿易報復措施，包括去年針對美國汽車加徵的反制關稅，以及加拿大一些省份禁止美國製造酒類產品進入當地零售市場的措施。
+
+---
+
+### 2026-08-18 07:49:21  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's 10-year government bond yield rose 2.5 bps to 2.945%, its highest level since September 1996.
+
+---
+
+### 2026-08-18 07:48:28  #市場 #國際
+
+日本10年期國債收益率上升2.5個基點至2.945%，為1996年9月以來最高。
+
+---
+
+### 2026-08-18 07:48:22  #觀點
+
+【中信建投：礦區自動駕駛行業有望進入S型加速階段】中信建投證券研報認為，礦區自動駕駛區別於Robotaxi，封閉場景、剛性用工需求與明確的降本增效價值使其商業化路徑更清晰，行業在滲透率突破10%後有望進入S型加速階段。國內近10萬臺礦卡存量提供持續改造空間，大型煤礦車隊擴容、金屬礦專案複製及中小礦山下沉將支撐國內市場增長；海外澳大利亞等高人工成本市場單車服務價值顯著高於國內，有望開啟第二增長曲線。
+
+---
+
+### 2026-08-18 07:47:21  #市場 #國際
+
+10年期日本國債收益率上漲2.5個基點，至2.945%。
+
+---
+
+### 2026-08-18 07:47:06  #觀點
+
+【華泰證券：新食品原料從“概念驗證”走向“產業替代”】華泰證券研報指出，政策紅利、技術突破與需求拉動共振，新食品原料正從邊緣創新走向產業主流。據植提橋，20年至26H1末，國家衛健委已累計批准68種新食品原料，數量較上一階段增長47.8%；25年全年批准15種，創近年新高，受理申報達53種、同比+77%；26H1已有12種新食品原料獲批，預計全年將超20種。審批提速的背後，是“健康中國2030”戰略深入推進與合成生物學技術快速突破的雙重驅動。新食品原料的競爭邏輯已從“誰先申報”升級為“誰的工藝更硬”，微生物發酵、精準生物合成等技術的成熟，使過去難以規模化生產的原料具備了商業化條件，產業鏈正從“概念驗證”走向“產業落地”。
+
+---
+
+### 2026-08-18 07:47:03  #公司
+
+必和必拓執行長：必和必拓對目前的商品組合感到滿意。
+
+---
+
+### 2026-08-18 07:46:40  #市場 #國際
+
+基準10年期日本公債期貨早盤下跌0.22點。
+
+---
+
+### 2026-08-18 07:46:23  #市場 #國際
+
+日本日經指數期貨早盤下跌0.4%。
+
+---
+
+### 2026-08-18 07:45:34  #市場 #央行 #國際
+
+【機構：金價今年將觸及7150美元】17日晚，在經歷數月震盪回撥後，國際金價一舉突破4400美元/盎司關口。對於金價的反攻，廣發期貨貴金屬研究員葉倩寧對21世紀經濟報道記者分析稱，由於宏觀與地緣局勢利空逐步落地，資金情緒改善帶動貴金屬價格修復。瑞銀首席投資官Ulrike Hoffmann-Burchardi表示，黃金價格具備支撐，預計黃金價格將在2027年上半年升至每盎司5000美元。通脹或將逐步回落，使美聯儲今年保持利率穩定，並在2027年重新啟動寬鬆政策。ICBC Standard Bank大宗商品策略師Julia Du甚至預計，金價今年將觸及7150美元/盎司，全年均價目標為6050美元/盎司。 （中新經緯）
+
+---
+
+### 2026-08-18 07:43:47  #MKT News #BHP.AX
+
+BHP CEO: We do not expect the strike at Port Hedland to have any material adverse impact on our results.
+
+---
+
+### 2026-08-18 07:43:46  #MKT News
+
+BHP CEO said the company intends to remain committed to its metallurgical coal business.
+
+---
+
+### 2026-08-18 07:42:12  #公司
+
+【惠譽將英特爾評級展望上調至“穩定”】當地時間8月17日，惠譽確認英特爾長期發行人違約評級及高階無抵押債務評級為“BBB”，短期發行人違約評級及商業票據評級為“F2”，並將評級展望由“負面”調整為“穩定”。惠譽表示，英特爾在技術和產品路線圖執行方面取得進展，運營表現好於預期。英特爾近期完成230億美元股權融資，用於支援提高資本支出以滿足強勁需求，惠譽預計公司將於2027年開始降低淨債務，並在未來約12個月內將EBITDA槓桿率降至2.5倍以下。
+
+---
+
+### 2026-08-18 07:41:40  #公司
+
+必和必拓執行長：預計黑德蘭港的勞工行動不會對我們的業績造成任何明顯負面影響。
+
+---
+
+### 2026-08-18 07:39:20  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Kushner says Gaza 'demilitarization' process could start within 30 days】Jared Kushner, after meeting Israeli Prime Minister Netanyahu in Jerusalem, told Fox News he expects a Gaza demilitarization process could begin within 30 days, with partial weapons removal immediately and tunnel removal/burial over the following 60–90 days. He warned that if Hamas fails to meet commitments, the U.S. and other parties would provide stronger support to Israel. Kushner said the U.S. will not permit Gaza reconstruction before demilitarization and would not restrict Israeli self‑defense if faced with an imminent threat.
+
+---
+
+### 2026-08-18 07:38:44  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+【Wang Qing: Overnight reverse repos could become PBOC's core short-term liquidity tool】Wang Qing, chief macro analyst at Orient Jincheng, said recent zero 7-day reverse repo operations and the PBOC's use of overnight reverse repos in mid‑August signal more precise control of market rates. He expects market-rate volatility to ease and says overnight reverse repos could gradually supplant 7-day reverse repos as the PBOC's primary short-term liquidity management tool.
+
+---
+
+### 2026-08-18 07:38:32  #國際
+
+【庫什納稱加沙“非軍事化”程序或在30天內啟動】 據美國媒體17日報道，正在中東訪問的美國總統特朗普的女婿庫什納表示，加沙地帶的“非軍事化”程序可能在30天內啟動。庫什納當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，之後接受美國福克斯新聞頻道採訪時說，“我們可能最快在30天內就能看到進展，希望屆時能開始清除部分武器，並在接下來的60到90天內，能夠填埋部分地道”。他同時威脅道，如果巴勒斯坦伊斯蘭抵抗運動（哈馬斯）未能兌現承諾，“屆時以色列將獲得美國及其他各方更強有力的支援”。（新華社）
+
+---
+
+### 2026-08-18 07:37:53  #宏觀 #國際
+
+【我國量子技術國際標準領域有新進展】作為未來產業，量子科技正處於從實驗室走向產業化的關鍵視窗期，量子通訊、量子計算、量子精密測量等技術發展迅速。記者8月17日從市場監管總局獲悉：在國際標準組織量子技術聯合技術委員會（IEC/ISO JTC3）第五次全體會議期間，我國牽頭的多項量子技術國際標準提案取得積極進展。 由我國牽頭的《量子熵源隨機性質量和測試方法學的概述和分析》國際標準提案正式獲批立項，標誌著我國在量子核心器件國際標準制定中邁出重要一步。由我國與美國、加拿大聯合牽頭的《單光子器件表徵的度量標準調查及潛在推薦測量實踐》國際標準提案也獲批立項，該標準將梳理單光子探測器領域標準研製優先順序，引領本領域後續國際標準化工作。我國牽頭的《量子經典融合計算》等兩項國際標準預研課題也透過立項，將助力量子計算領域的國際標準化探索與體系完善。 深度參與國際標準制定，有助於打通技術壁壘、加速創新成果大規模應用，也將為世界量子技術產業高質量發展持續貢獻中國智慧。目前，國際標準化組織（ISO）和國際電工委員會（IEC）已釋出的3項量子技術國際標準均由我國牽頭制定，還有5項國際標準正在牽頭研製中。（人民日報）
+
+---
+
+### 2026-08-18 07:36:54  #公司
+
+【具身大模型榜單數量已超20個 業內公認的權威標準尚未形成】“拿下具身世界模型第一”“登頂具身智慧榜單”“具身大模型登頂國際評測公開排行榜”……搜尋最近的具身大模型新聞，滿屏的“第一”和“登頂”躍入眼簾。在這個資本最密集的賽道，榜單已經變得不夠用了。當幾乎所有頭部公司都手握至少一個“第一”時，這些榜單究竟在衡量什麼？記者調研發現，當前具身大模型榜單數量已超20個，但業內公認的權威標準尚未形成。模擬榜單刷分容易、真機測試成本高昂、榜單性質混雜——“第一”的含金量千差萬別。（證券時報）
+
+---
+
+### 2026-08-18 07:34:25  #公司
+
+市場訊息：樂天化學將出售其基礎化學品業務股份。
+
+---
+
+### 2026-08-18 07:34:07  #公司 #市場
+
+【光伏產業鏈景氣度抬升 7月以來14只概念股獲機構調研】近日，光伏產業鏈漲價行情持續發酵，8月17日多晶矽現貨價格再度上行，矽片、電池片等環節價格同步跟漲。上海有色網資料顯示，當日多晶矽N型復投料單價上漲0.95元/千克，報40.4元/千克；N型緻密料單價上漲1元/千克，報40元/千克，產業鏈漲價態勢延續。從A股市場來看，7月21日以來，光伏板塊出現明顯反彈，Wind光伏指數震盪走高，區間累計漲幅超過14%。從個股看，7月21日以來，有34只光伏板塊個股漲幅超過10%，聚和材料、羅博特科累計漲幅均超過40%，弘元綠能漲幅超過30%，通威股份、拉普拉斯等漲幅超過20%，博威合金、協鑫整合、東方日升、陽光電源等均漲超15%。以7月以來機構調研統計，有14只概念股獲得調研。羅博特科獲調研的數量居首，達到138家；晶科能源、華電新能、陽光電源、阿特斯獲調研的數量均在30家及以上。
+
+---
+
+### 2026-08-18 07:33:47  #其他
+
+【南海伏季休漁正式結束 “第一網”漁獲新鮮上岸】16日中午12時，為期三個半月的南海伏季休漁正式結束。在海南三沙各島礁，各類捕撈船整裝待發，滿懷期待開啟新一輪海上捕撈作業。今年三沙共有53艘漁船將赴南海開展捕撈作業，三沙海域作業漁獲主要有炮彈魚、黃鰭金槍魚等，漁業捕撈船將赴30海里之外的北島附近海域開展捕撈作業。據瞭解，第一批出海的捕撈船計劃15天后返回，屆時，這些南海漁獲將透過冷鏈運輸銷往全國各地。（央視）
+
+---
+
+### 2026-08-18 07:33:29  #MKT News #AUDUSD #Impact bullish
+
+ANZ survey: Australian consumer confidence rose 1.5 points to 76.5, the highest since early March. Consumers' inflation expectations climbed 0.1ppt to 5.8%.
+
+---
+
+### 2026-08-18 07:33:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Extends Gains as Peace Prospects Dim — Brent crude climbed above $91 per barrel on Tuesday, rising for a third consecutive session as prospects for a new agreement between the US and Iran weakened after President Donald Trump said he was not interested in extending the interim peace deal. The memorandum of understanding signed in June, which was intended to give both sides 60 days to negotiate a longer-term peace agreement, officially expired on Monday. Meanwhile, Iran and Oman continue to negotiate an arrangement for managing shipping through the Strait of Hormuz, although the US is not involved in the talks. Washington is unlikely to back any deal that fails to ensure unrestricted passage through the strategically vital shipping route. At the same time, Middle Eastern producers appear to be becoming increasingly adept at covertly moving oil through Hormuz to global buyers while also supplying cargoes from outside the key chokepoint.
+
+---
+
+### 2026-08-18 07:32:45  #觀點
+
+【中信建投：能夠率先突破量產且完成產能擴張的OSAT廠商有望形成先發優勢】中信建投研報指出，對照全球先進封裝工藝的發展路徑，中國大陸的先進封裝工藝目前正處於CoWoS技術滲透率快速提升的階段。由於中國大陸的晶圓代工廠暫未進行RDL等中段工藝量產，而OSAT廠商在2.5D/3D/CoWoS領域均有所佈局。我們認為，能夠率先突破量產且完成產能擴張的OSAT廠商有望形成先發優勢，卡位佔據較高的行業份額。但伴隨產業發展趨勢演進，我們認為類比臺積電，中國大陸的晶圓代工廠在先進封裝領域的重要性同樣不可忽視，Foundry在前道技術和裝置產能的優勢能夠有助於其在先進封裝技術迭代中實現追趕甚至反超。
+
+---
+
+### 2026-08-18 07:32:37  #MKT News
+
+【CITIC Securities: OSATs that first scale mass production and expand capacity likely to gain first‑mover advantage】CITIC Securities says mainland China advanced packaging is at a stage of rapidly rising CoWoS penetration. Mainland foundries have not yet mass‑produced mid‑process steps such as RDL, while OSATs have active layouts in 2.5D/3D/CoWoS. OSATs that can first break through to mass production and expand capacity are likely to establish a first‑mover advantage and capture larger industry share. However, as the sector evolves, mainland foundries remain strategically important: their front‑end technology and equipment capacity could enable them to catch up with or even surpass OSATs in advanced packaging iterations, by analogy with TSMC’s role.
+
+---
+
+### 2026-08-18 07:31:45  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Extends Gains as Peace Prospects Dim — Crude oil climbed toward $85 per barrel on Tuesday, rising for a third consecutive session as prospects for a new agreement between the US and Iran weakened after President Donald Trump said he was not interested in extending the interim peace deal. The memorandum of understanding signed in June, which was intended to give both sides 60 days to negotiate a longer-term peace agreement, officially expired on Monday. Meanwhile, Iran and Oman continue to negotiate an arrangement for managing shipping through the Strait of Hormuz, although the US is not involved in the talks. Washington is unlikely to back any deal that fails to ensure unrestricted passage through the strategically vital shipping route. At the same time, Middle Eastern producers appear to be becoming increasingly adept at covertly moving oil through Hormuz to global buyers while also supplying cargoes from outside the key chokepoint.
+
+---
+
+### 2026-08-18 07:31:34  #市場
+
+日經指數期貨在新加坡交易所開盤走低280點，報68970點。
+
+---
+
+### 2026-08-18 07:31:09  #公司 #觀點 #國際
+
+【中信建投：關注國內半導體材料企業加速進口替代的認證節奏以及投資機會】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端進口替代，需求端AI通脹成為幾乎完美的組合。我們判斷，對日本進口替代主題會有更多演繹空間，繼續關注半導體材料進口替代交易，關注國內半導體材料企業加速進口替代的認證節奏以及投資機會。
+
+---
+
+### 2026-08-18 07:29:13  #公司 #市場 #觀點
+
+【中信建投：原奶週期反轉訊號顯現，上下游共迎經營修復視窗】中信建投研報指出，近期散奶價格反超合同價，日噴粉生鮮乳減少至2年最低位，主產區奶價小幅回升，原奶週期反轉訊號明顯。隨著上游持續去化，預計原奶產量逐步緊縮，下游深加工產能投產增加需求，看好原奶價格開啟溫和上漲期，頭部牧業集團將具備業績彈性，推薦優然牧業。奶價上升期，中游乳企液奶競爭力增強，上游相關減值減少、投資收益增加，利好業績改善。
+
+---
+
+### 2026-08-18 07:28:35  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+【BHP FY underlying profit up 30% as copper strength boosts earnings】BHP said underlying profit for the year to June rose 30% to $13.2bn, beating analysts, as higher commodity prices—notably record-high copper—lifted earnings. Copper revenue exceeded iron ore revenue for the first time. The group declared a final dividend of $0.99 per share, implying a 72% payout ratio. BHP projects global copper demand will rise from about 34 mln tonnes today to 50 mln t by 2050, but said copper output at its Chile operations is falling due to grade decline and ageing mines, forcing billions of dollars of sustaining capital to maintain production.
+
+---
+
+### 2026-08-18 07:26:15  #央行
+
+【專家料隔夜逆回購有可能成中國央行短期流動性核心政策工具】東方金誠首席宏觀分析師王青對記者表示，近幾個交易日7天期逆回購操作量均為零，且於8月中旬開展隔夜逆回購操作，都表明當前中國人民銀行對市場利率的調控更加精準。這意味著後期市場利率執行會更加平穩；同時，這也意味著未來隔夜逆回購有可能逐步替代7天期逆回購，成為中國人民銀行短期流動性調節的核心政策工具。（證券日報）
 
 ---
 
@@ -16965,371 +17163,5 @@ Nasdaq futures opened 0.1% higher on Monday.
 ### 2026-08-17 05:33:08  #MKT News
 
 【Trump welcomes Saudi-Turkey-Pakistan mutual defense pact】On Aug 16, U.S. President Trump posted on Truth Social welcoming a newly signed mutual defense agreement among Saudi Arabia, Turkey and Pakistan. He said the pact signals greater Middle East unity and will enable the countries to defend themselves "in a more tangible and effective way", congratulated their leaders, and called the deal "a bold and important first step."
-
----
-
-### 2026-08-17 05:25:12  #其他
-
-【投資結構持續最佳化 新質生產力加速成長 高頻資料傳遞經濟平穩執行積極訊號】7月國民經濟執行情況即將釋出，作為研判三季度及下半年經濟走勢的重要觀測視窗，市場對7月經濟表現高度關注。從多項高頻資料與先行指標來看，線下消費、基建、先進製造等領域釋放積極訊號，經濟總體保持平穩執行，但穩增長壓力依然存在，宏觀政策仍需加力提效，著力擴內需穩增長。
-
----
-
-### 2026-08-17 05:23:50  #國際
-
-特朗普：我詢問了韓國總統，他們是否願意加入我們，共同推動解除伊朗的核武裝，他的回答是不。
-
----
-
-### 2026-08-17 05:13:06  #MKT News #Important
-
-【Trump says he has ordered sharp cuts to US-South Korea joint drills】President Trump said he is unhappy the US agreed long ago to joint military drills with South Korea, calling them costly and largely paid for by the US. He said it is too late to cancel and has instructed the defense secretary to sharply reduce the scale of the exercises. Trump added he asked the South Korean president about joining US action to denuclearize Iran; the reply was "No, thank you."
-
----
-
-### 2026-08-17 05:12:28  #國際
-
-特朗普：（美韓）聯合軍演向一個態度友善的國家釋放出敵對訊號。
-
----
-
-### 2026-08-17 05:11:06  #國際
-
-特朗普：與韓國舉行的軍演耗資巨大。
-
----
-
-### 2026-08-17 05:10:33  #國際
-
-特朗普：對於美國很早之前就同意參與美韓聯合軍事演習這件事，我感到不滿。
-
----
-
-### 2026-08-17 05:09:37  #國際
-
-特朗普：很高興看到沙烏地阿拉伯、土耳其以及巴基斯坦近期終於簽署了《麥加聯合防務協議》。這表明中東地區正在走向團結，各國終於能夠以更具實質意義的方式實現自衛。向上述三國卓越的領導層表示祝賀。這是重大、果敢且意義深遠的第一步，太棒了。
-
----
-
-### 2026-08-17 05:08:58  #國際
-
-【傳奇投資人Stanley Druckenmiller買入美國上市的中概股】華爾街傳奇投資大亨、億萬富豪Stanley Druckenmiller幾年來首次重返美國交易的中國股票。彭博對其主要投資平臺Duquesne Family Office LLC最新的13F檔案的分析發現，該家族辦公室第二季建倉百度ADR，買入8.8萬份，僅佔其投資組合的0.2%。彙總的資料顯示，Duquesne自2023年第四季清倉阿里巴巴ADR後至本次披露期間再無持有中概股。
-
----
-
-### 2026-08-17 05:07:57  #國際
-
-特朗普稱，已要求五角大樓削減與韓國的軍事演習。
-
----
-
-### 2026-08-17 05:07:57  #MKT News #Important
-
-Trump said he is unhappy he long ago agreed to joint military exercises with South Korea and has instructed Defense Secretary Hegseth to sharply curtail them.
-
----
-
-### 2026-08-17 04:58:48  #觀點
-
-東方證券給予中信證券A股買進的初始評級，目標價35.36元人民幣。
-
----
-
-### 2026-08-17 04:58:43  #MKT News
-
-Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10.
-
----
-
-### 2026-08-17 04:49:17  #公司 #國際
-
-【美國針對馬克·沃爾特的調查聚焦四家中介機構】美國聯邦調查人員調查馬克·沃爾特，重點鎖定四家機構。這四家機構充當中介，處理古根海姆合夥公司執行長旗下保險企業，向其商業版圖內其他公司發放的貸款。美國聯邦檢察官與美國證券交易委員會正在調查，沃爾特及其控制的企業是否存在欺詐行為：即在從保險機構借入數十億美元的過程中隱瞞資金關聯關係。調查人員現已將調查範圍收縮至總部位於邁阿密的ABS Capital、投資機構Amistad Financial、商業地產經紀商布拉德福德·艾倫以及哈德遜貿易公司。
-
----
-
-### 2026-08-17 04:44:55  #國際
-
-美國媒體：由於特朗普政府未能妥善應對其對伊朗發動的戰爭，美國在波斯灣地區的盟友日益感到憤怒與失望。
-
----
-
-### 2026-08-17 04:33:40  #MKT News
-
-US President Trump said he had "a great weekend" and held "many meetings."
-
----
-
-### 2026-08-17 04:21:51  #公司 #國際
-
-知情人士稱，美國檢察官和美國證券交易委員會（SEC）正對古根海姆合夥公司執行長馬克·沃爾特展開調查。檢察官的調查重點聚焦其4家企業，美國證券交易委員會（SEC）正在對馬克·沃爾特的交易展開調查。
-
----
-
-### 2026-08-17 04:18:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
-
-【JP Morgan CEO warns UK chancellor against raising bank tax】JP Morgan CEO Jamie Dimon told the UK chancellor on a call last week not to impose new taxes on banks, warning that an uncompetitive tax regime—under consideration ahead of the October budget—would weaken London’s financial centre and could prompt capital and financial jobs to leave the UK.
-
----
-
-### 2026-08-17 04:17:31  #國際
-
-土耳其總統埃爾多安談及與以色列可能爆發的戰爭：我們談論的不是戰爭，而是和平。但如果有人為了戰爭而非和平向土耳其發起攻擊，土耳其將毫不猶豫地投入這場戰爭，絕不退縮。我把話說得清清楚楚，毫無保留。
-
----
-
-### 2026-08-17 04:15:27  #其他
-
-中國地震臺網正式測定：08月17日04時05分在四川自貢市富順縣（北緯29.21度，東經105.21度）發生3.1級地震，震源深度7千米。
-
----
-
-### 2026-08-17 04:11:54  #公司 #觀點 #焦點
-
-【小摩CEO警告英國財政大臣：切勿提高銀行業稅收】摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。摩根大通執行長傑米·戴蒙表示，缺乏競爭力的稅收制度可能會削弱倫敦金融中心的地位，目前英國政府正考慮在10月預算案前對銀行業徵收新稅。戴蒙稱這可能會導致資本和金融就業崗位流出英國。
-
----
-
-### 2026-08-17 04:06:21  #MKT News
-
-Al Jazeera reported Iran's parliament speaker said Iran must reach a level of deterrence to avoid being drawn into a cycle of war, peace and renewed war.
-
----
-
-### 2026-08-17 04:04:15  #國際
-
-伊朗議會議長：我們必須達到一種威懾水平，以免陷入戰爭—和平—戰爭消耗的惡性迴圈。
-
----
-
-### 2026-08-17 04:02:48  #其他
-
-中國地震臺網自動測定：08月17日04時01分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.3級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-17 03:53:05  #MKT News
-
-【Attorney General Todd Blanch says he will disagree with president on legal matters, declines to promise DOJ will always be independent of White House】Politico reported Attorney General Todd Blanch said on Sunday he is willing to disagree with the president on legal matters and that Trump expects cabinet members to differ when necessary. Asked whether he would refuse the president’s preferred course if his legal view differed, Blanch said, "I think he would expect me to tell him 'no.'" He declined to commit that the Justice Department will "always act independent of the White House," adding, "No, I will not make that promise, and no attorney general should make that promise."
-
----
-
-### 2026-08-17 03:45:23  #國際
-
-【布蘭奇拒絕承諾司法部將獨立於特朗普運作】美國司法部長託德·布蘭奇拒絕承諾司法部將獨立於白宮運作，並表示他會將特朗普總統對個別起訴案件的觀點納入考量。在週日接受採訪被問及司法部是否會“始終獨立於”白宮行事時，布蘭奇回答：“不，我不會做出這種承諾。”他補充道：“沒有任何一位司法部長應該做出這種承諾。”
-
----
-
-### 2026-08-17 03:40:59  #公司
-
-【Stripe接近達成超70億美元收購AI公司OpenRouter的協議】據知情人士透露，支付處理公司Stripe Inc.已敲定協議，將以超過70億美元的價格收購OpenRouter Inc.。這筆交易凸顯了企業尋找最具成本效益的AI解決方案的迫切需求，同時也可能為Stripe在快速發展的AI領域奠定更堅實的基礎。OpenRouter提供數百種AI模型的訪問許可權，旨在為開發者匹配最高效、最經濟適用的模型選項。
-
----
-
-### 2026-08-17 03:37:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News: Iran’s Islamic Revolutionary Guard Corps political deputy commander said IRGC actions so far have been defensive but could shift to offensive in future. He said Iran’s armed forces will adopt a transformative strategy and will take any measures necessary to defend the country.
-
----
-
-### 2026-08-17 03:36:48  #市場
-
-美元在悉尼早盤交易中兌主要貨幣走勢趨於穩定。
-
----
-
-### 2026-08-17 03:34:58  #其他
-
-阿曼國家通訊社：阿曼拉斯馬德拉卡地區約有12公里的海岸線受到了石油汙染的影響。
-
----
-
-### 2026-08-17 03:34:38  #國際
-
-以色列軍方：為回應以軍在“安全區”內計程車兵遭襲，以軍對黎巴嫩南部的真主黨基礎設施發動了打擊。
-
----
-
-### 2026-08-17 03:34:24  #國際
-
-烏克蘭總統澤連斯基：烏軍襲擊了位於烏斯季盧加的一處俄羅斯石油設施。
-
----
-
-### 2026-08-17 03:33:40  #其他
-
-英國海事貿易行動辦公室（UKMTO）表示，週五在霍爾木茲海峽，一艘散貨船被擊中。船員均報告安全，但目前尚未收到損失評估報告，環境影響尚不明確。
-
----
-
-### 2026-08-17 03:32:30  #其他
-
-訊息人士透露，Anthropic預計2028年營收將達到1900億至2000億美元。華爾街正利用2028年的營收預測以及企業價值/營收倍數（EV-to-Revenue）來為其IPO進行估值。
-
----
-
-### 2026-08-17 03:28:22  #MKT News
-
-cenc reported a magnitude 3.6 earthquake at 03:23 on Aug 17 in Longchang, Neijiang, Sichuan (29.22N, 105.21E); depth 8 km.
-
----
-
-### 2026-08-17 03:26:10  #宏觀 #國際
-
-【哈馬斯政治局主席訪問埃及 討論加沙地帶局勢】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）16日發表宣告稱，哈馬斯政治局主席哈利勒·哈亞當天在埃及開羅與埃及情報總局局長哈桑·拉沙德舉行會晤。雙方重點討論了約旦河西岸和加沙地帶的最新動態。宣告還稱，哈馬斯向埃及方面通報了以色列近期的違規行為，指責以方不斷採取行動升級局勢。哈馬斯重申必須制止以方此類行動，並呼籲地區及國際社會立即採取緊急干預措施。（央視新聞）
-
----
-
-### 2026-08-17 03:26:04  #MKT News
-
-【Hamas political bureau chief meets Egypt intelligence chief in Cairo to discuss Gaza, West Bank】Hamas said on the 16th its political bureau chief Khalil al-Hayya met in Cairo with Egyptian General Intelligence chief Hassan Rashad to discuss recent developments in the West Bank and Gaza. Hamas informed Egyptian officials of what it described as recent Israeli violations, accused Israel of escalating the situation and called for immediate regional and international intervention.
-
----
-
-### 2026-08-17 03:25:03  #國際
-
-【韓國將重啟親日反民族行為者財產追繳】據韓國方面16日訊息，法律界訊息人士稱，韓國《親日反民族行為者財產的國家歸屬等相關特別法》將於12月正式施行。這是韓國時隔16年後，重啟在國家層面上對親日反民族行為者財產進行追繳的工作。據相關訊息，負責追繳工作的“親日反民族行為者財產調查委員會”已於今年6月開始籌備組建，並將於12月正式啟動追繳工作。2005年，韓國國會曾透過相關法律，將反民族行為者在日本殖民統治時期透過親日行為取得的財產納入國家追繳範圍。隨後成立“親日反民族行為者財產調查委員會”，但該委員會在2010年任期屆滿後被解散。（央視新聞）
-
----
-
-### 2026-08-17 03:24:53  #其他
-
-中國地震臺網自動測定：08月17日03時23分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.6級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-17 03:24:23  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israeli strikes have killed 4,346 in Lebanon】Lebanon's Public Health Ministry emergency operations center said on Aug 16 that Israeli airstrikes and attacks from March 2 through Aug 16 have killed 4,346 people and injured 12,301.
-
----
-
-### 2026-08-17 03:24:13  #國際
-
-美伊諒解備忘錄將於週一到期，目前幾乎沒有達成最終協議的跡象。伊朗首席談判代表卡利巴夫稱這是一次外交上的“勝利”，並表示美國和以色列未能實現其戰爭目標。
-
----
-
-### 2026-08-17 03:22:01  #國際
-
-哈馬斯：讚賞美國總統特朗普所發揮的作用，希望他繼續努力，以結束我們人民的苦難併為地區帶來安全。
-
----
-
-### 2026-08-17 03:21:23  #MKT News
-
-Hamas urged mediators and the peace committee to fulfill their duties and compel Israel to honor its commitments and cease violations.
-
----
-
-### 2026-08-17 03:20:51  #MKT News
-
-Hamas said it had fully complied with the first phase of the ceasefire agreement while Israel did not comply.
-
----
-
-### 2026-08-17 03:20:10  #MKT News
-
-Hamas said it has agreed to a plan intended to secure a permanent ceasefire, the full withdrawal of occupying forces and the activation of a governing committee.
-
----
-
-### 2026-08-17 03:19:26  #國際
-
-哈馬斯：（我方）在第一階段已全面履行停火協議，而以色列方面卻未予遵守。
-
----
-
-### 2026-08-17 03:19:00  #其他
-
-哈馬斯：呼籲調解方與和平委員會履行其職責，迫使佔領方落實各項義務並停止侵權行為。
-
----
-
-### 2026-08-17 03:18:12  #國際
-
-哈馬斯：為達成永久停火、以色列全面撤軍並啟動行政委員會工作，我們已同意該方案（特朗普計劃的第二階段路線圖）。
-
----
-
-### 2026-08-17 03:17:50  #MKT News
-
-【Sisi meets Kushner, urges implementation of Gaza ceasefire】Egyptian President Sisi met Jared Kushner in Alamein on the 16th and urged parties to implement the Gaza ceasefire and deliver on the outcomes of last October’s Sharm el‑Sheikh summit. The presidential office said they exchanged views on the Palestinian issue and broader Middle East developments and called for Egypt-US cooperation to resolve the regional crisis and preserve stability.
-
----
-
-### 2026-08-17 03:15:39  #國際
-
-【埃及總統塞西會見庫什納 呼籲各方落實加沙停火】埃及總統塞西16日在埃及阿拉曼會見美國總統特朗普的女婿庫什納，呼籲有關各方推動落實加沙停火協議。埃及總統府當天發表宣告說，會見期間，雙方就巴勒斯坦問題等中東局勢發展交換意見，強調有關各方應履行去年10月在埃及舉行的沙姆沙伊赫峰會成果，推動落實加沙停火協議。塞西還表示，埃美兩國應協作推動解決地區危機，維護地區穩定。（新華社）
-
----
-
-### 2026-08-17 03:14:35  #MKT News #Market Themes #The Trump Trade
-
-Hamas said it highly valued Trump's role in facilitating the Gaza ceasefire agreement.
-
----
-
-### 2026-08-17 03:14:10  #MKT News
-
-Hamas said its agreement to phase two of Trump's plan hinges on achieving a permanent ceasefire and Israeli withdrawal.
-
----
-
-### 2026-08-17 03:12:29  #國際
-
-哈馬斯宣佈同意特朗普計劃的第二階段，旨在實現永久停火、完全撤出以色列從加沙地帶、提供緊急和永久援助、啟動行政委員會活動、重建以及執行其他商定的承諾。
-
----
-
-### 2026-08-17 03:09:31  #公司 #觀點
-
-市場資訊：摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。
-
----
-
-### 2026-08-17 03:07:27  #MKT News
-
-Hamas said a leadership delegation led by Khaled al-Hayya met mediators and guarantors of the Gaza agreement in Egypt today and told guarantors it had agreed to the second phase of Trump's plan.
-
----
-
-### 2026-08-17 03:07:08  #國際
-
-【以軍襲擊已致黎巴嫩4346人死亡】據黎巴嫩公共衛生部緊急行動中心16日訊息，3月2日至8月16日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4346人死亡，12301人受傷。
-
----
-
-### 2026-08-17 03:05:23  #國際
-
-科威特外交部在一份宣告中譴責以色列公開反對特朗普全面計劃的路線圖，該計劃旨在完成結束加沙衝突的執行。
-
----
-
-### 2026-08-17 02:57:18  #MKT News
-
-Tasnim News reported Iranian parliament speaker Ghalibaf said this is the US and Israeli regimes' most painful defeat.
-
----
-
-### 2026-08-17 02:57:04  #國際
-
-【伊朗議長：美以未能實現任何既定目標，伊朗已贏得這場戰爭】伊朗議長卡利巴夫表示：“在這場戰爭中，我們確實在軍事和政治兩條戰線上都取得了真正的勝利。這並不意味著我們摧毀了美軍。美國和以色列帶著九個明確的、公開宣佈的目標來攻擊我們，但他們在任何層面上都未能實現這九個目標中的任何一個。這是美國和以色列遭遇的最徹底的絕對失敗。在外交領域，同樣如此。”
-
----
-
-### 2026-08-17 02:56:49  #MKT News
-
-TASNIM NEWS reported Iranian parliament speaker Ghalibaf said Iran has won the war militarily and politically, adding this does not mean Iran destroyed the US military; rather, he said the US and Israel attacked with nine publicly stated objectives and failed to achieve any of them at any level.
-
----
-
-### 2026-08-17 02:55:10  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke by phone with Syria's foreign minister to discuss recent regional developments and efforts to de-escalate tensions.
-
----
-
-### 2026-08-17 02:53:48  #MKT News
-
-Qatar's foreign ministry said the prime minister reiterated Doha's full support for efforts to de-escalate tensions and to reach a comprehensive agreement aimed at securing lasting regional peace.
 
 ---

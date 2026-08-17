@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 07:26:31_
-_本檔包含 2973 則快訊，約 603911 字_
+_更新時間：2026-08-18 07:52:20_
+_本檔包含 2978 則快訊，約 604541 字_
+
+---
+
+### 2026-08-13 13:53:31  #其他
+
+馬士基第二季度息稅前利潤為15.7億美元，高於預期5.442億美元。
+
+---
+
+### 2026-08-13 13:53:14  #MKT News #MAERSK-A.CO #Impact bullish
+
+Maersk raised its fiscal 2026 guidance, now forecasting core EBITDA of $10.5–12.5bn (previously $8–10bn) and underlying EBIT of $4.5–6.5bn (previously $2–4bn).
+
+---
+
+### 2026-08-13 13:52:54  #其他
+
+馬士基目前預計本財年基本息稅前利潤為45億至65億美元，此前預期為20億至40億美元。
+
+---
+
+### 2026-08-13 13:52:32  #市場
+
+沙烏地阿拉伯7月消費者價格指數同比上漲1.8%。
+
+---
+
+### 2026-08-13 13:52:24  #其他
+
+馬士基仍預計本財年全球集裝箱貿易增長約4%。
+
+---
+
+### 2026-08-13 13:51:54  #其他
+
+馬士基：上調2026財年業績預期，目前預計本財年基本息稅折舊攤銷前利潤（EBITDA）為105億美元至125億美元，此前預期為92.7億美元。
+
+---
+
+### 2026-08-13 13:51:44  #MKT News
+
+The Society of Indian Automobile Manufacturers (SIAM) said a document mistakenly sent to the government has been withdrawn and was intended only for internal discussion and review.
+
+---
+
+### 2026-08-13 13:51:29  #MKT News
+
+Emails show an Indian auto-industry lobby group and automakers including Maruti, Tata and Mahindra discussed pollution concerns linked to E20 fuel before withdrawing a complaint to the government.
+
+---
+
+### 2026-08-13 13:50:10  #其他
+
+長鑫科技成交額超200億元，現漲0.43%。
+
+---
+
+### 2026-08-13 13:50:09  #MKT News #Important #GBPUSD #Impact mixed #FTSE100
+
+UK Q2 GDP preliminary (annualized), three‑month GDP MoM for June, June seasonally adjusted goods trade balance, and June industrial and manufacturing production MoM are due in ten minutes.
+
+---
+
+### 2026-08-13 13:49:01  #公司
+
+【聖泉集團在山東成立材料科技新公司】企查查APP顯示，近日，山東奈思材料科技有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由聖泉集團全資持股。
+
+---
+
+### 2026-08-13 13:48:19  #MKT News #Market Regions #Greater China #Commodities #Energy #CSI300 #Impact bullish #SSE Composite
+
+China A-share power sector briefly rallied; Meiyan Jixiang hit the daily limit, while Li New Energy, Datang Power Generation, GCL Energy Technology and Jingneng Power also rose.
+
+---
+
+### 2026-08-13 13:47:48  #其他
+
+【2026未來科學大獎獲獎者名單公佈】未來科學大獎評審委員會8月13日公佈2026年獲獎名單。中國科學院生物物理研究所研究員張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；復旦大學教授趙東元因其對介孔材料的開創性貢獻獲得“物質科學獎”；北京大學北京國際數學研究中心教授袁新意因其在算術幾何領域作出的奠基性貢獻獲得“數學與電腦科學獎”。
+
+---
+
+### 2026-08-13 13:47:40  #市場 #國際
+
+【人民幣首超港元 登頂香港外匯交易最大貨幣對】香港財資市場公會（TMA）最新公佈的香港外匯市場半年度調查結果顯示，2026年4月，香港外匯交易日均成交額為9082億美元，其中美元兌人民幣交易量首次超越美元兌港元，躍居香港市場交投最活躍的貨幣對。具體來看，4月美元兌人民幣日均成交2740億美元，佔香港全部外匯交易的30.2%，超過美元兌港元的2402億美元（佔比26.4%）。其中，美元兌離岸人民幣交易額達2592億美元，成為主力。業內分析認為，香港以港元為本地貨幣，而美元兌人民幣卻成為其成交最活躍的貨幣對，這凸顯了香港長期以來的離岸人民幣業務樞紐定位。（上證報）
+
+---
+
+### 2026-08-13 13:47:27  #MKT News
+
+【RMB surpasses HKD to become Hong Kong's top FX pair】The Hong Kong Treasury Markets Association's semiannual FX survey shows average daily FX turnover in Hong Kong was $908.2 bln in April 2026. USD/CNH averaged $274.0 bln/day (30.2% of turnover), overtaking USD/HKD at $240.2 bln (26.4%). Offshore RMB accounted for $259.2 bln of USD/CNH volume and was the main driver. The shift highlights Hong Kong's continued role as an offshore RMB hub.
+
+---
+
+### 2026-08-13 13:47:27  #國際
+
+【韓國總統李在明：房地產泡沫已不容忽視】韓國總統李在明週四在與幕僚的一次會議上表示，房地產是韓國面臨的一個重要問題，深刻影響著社會的方方面面，而房地產泡沫已經達到不容忽視的程度。“社會資源長期以來過度集中於房地產領域，加劇了社會兩極分化和不平等現象，”李在明稱。他指出，如果這種情況持續下去，韓國可能會像其他國家一樣，面臨“失去的20年或30年”。李在明表示，韓國必須動用一切可用手段和能力來解決房地產問題，這個問題就像“定時炸彈，威脅著人民生活和國家未來”。韓國必須完善供給、稅收和金融政策以實現市場正常化，推動住房市場恢復穩定。
+
+---
+
+### 2026-08-13 13:46:26  #市場
+
+【電工電網板塊異動拉昇 望變電氣漲停】電工電網板塊異動拉昇，望變電氣漲停，明陽電氣、長城科技等股跟漲。
+
+---
+
+### 2026-08-13 13:45:29  #國際
+
+【印尼起火客輪救援疏散工作結束 211人獲救】據印度尼西亞地方救援部門13日通報，12日在旅遊勝地巴厘島附近海域起火的印尼客輪人員救援疏散工作已經結束。目前確認有1名印尼籍公民遇難，另有211人獲救。
+
+---
+
+### 2026-08-13 13:44:46  #市場
+
+【電力板塊短線拉昇，梅雁吉祥直線漲停】電力板塊短線拉昇，梅雁吉祥直線漲停，大唐發電、協鑫能科、京能電力跟漲。
+
+---
+
+### 2026-08-13 13:44:46  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 points, or 0.6%, to close at 13,825 on Thursday, erasing losses from the previous two sessions, tracking an upbeat session on Wall Street overnight as moderated inflation eased expectations of a Fed interest rate hike at its upcoming meeting. The broader index moved from its lowest level since August 3, reached a day earlier, mainly buoyed by gains from financials, consumer staples, healthcare, and industrials. Moderating oil prices also lifted sentiment as easing concerns over inflation reduced expectations of RBNZ monetary policy tightening. The fresh data also fueled sentiment, as the RBNZ's quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, marking the lowest reading since Q4 2025. Among the top movers were ANZ Group (5.2%), Mainfreight (3.1%), Westpac Banking Corp. (2.9%), A2 Milk (1.7%), Fisher & Paykel (1.4%), Freightways Group (1.1%), and Contact Energy (1.1%).
+
+---
+
+### 2026-08-13 13:43:43  #市場 #焦點
+
+現貨黃金失守4390美元/盎司，日內跌0.43%。
+
+---
+
+### 2026-08-13 13:43:14  #其他
+
+【國家機器人創新中心在金屬增材製造工藝研究方面取得進展】據國家機器人創新中心訊息，鐳射粉末床熔融（LPBF）是當下鈦合金精密構件增材製造的核心工藝，廣泛應用於航空航天、高階裝備、精密製造等關鍵領域。但傳統LPBF工藝製備的Ti-6Al-4V合金，微觀組織通常呈現為完全針狀馬氏體，導致其延展性顯著下降。行業普遍採用後續熱處理改善材料塑形，但這些方法仍存在強度-延展性權衡以及工藝冗餘，製造效率偏低的問題。針對這一問題，近日中心研發團隊提出了一種在粉末床熔融過程中進行原位層間鐳射重熔（ILRPBF）的全新工藝策略。該技術利用鐳射工藝獨特的快速熱迴圈特性來調控所製備Ti-6Al-4V合金的微觀組織，無需額外後續熱處理工序，在保持高強度的同時，提升了合金的延展性及製造效率。
+
+---
+
+### 2026-08-13 13:43:11  #市場 #焦點
+
+南向資金淨買入額達60億港元。
+
+---
+
+### 2026-08-13 13:43:05  #MKT News #DXY #Impact bullish
+
+【RBA assistant governor Kent's dovish remarks push AUD below 0.7050】Commonwealth Bank of Australia (CBA) said the Australian dollar slipped below 0.7050 in the Asian session after RBA assistant governor Kent delivered dovish remarks. Kent said financial conditions remain somewhat tight and that earlier three rate hikes are working as expected, adding that a weakening housing market often means policy need not further slow demand. CBA FX strategist Samara Hammoud expects falling house prices will weigh on household spending and forecasts the RBA will hold rates for now and cut twice in 2027.
+
+---
+
+### 2026-08-13 13:43:01  #公司
+
+【獨家 | 五糧液向經銷商髮禁令：第八代五糧液不得低於800元拋售，低價出貨將被處罰】8月13日，繼收緊渠道補貼後，五糧液再度加碼市場管控。《酒業內參》從經銷商等多方獨家獲悉，五糧液近期向經銷商通知，不得以低於800元/瓶的價格低價拋售第八代五糧液。同時，酒廠也將加強對低價出貨和竄貨經銷商的處罰，進一步穩固區域秩序。截至發稿前，五糧液暫無回應。 此前，《酒業內參》曾報道，7月底，五糧液收緊了對渠道經銷商的多項補貼投入，經銷商的第八代五糧液整體成本對比收緊前成本提高了約50元/瓶。 批發價格方面，彼時，第八代五糧液單箱批價大約浮動在4485元-4500元，單瓶批價約748元-750元/瓶。 或基於新政影響，截止目前，第八代五糧液單箱批價已升至約4600元-4650元，單瓶批價約767元-775元/瓶。
+
+---
+
+### 2026-08-13 13:42:20  #其他
+
+【中保研發布最新汽車零整比研究結果：新能源汽車維修負擔指數降約14%】中保研今日釋出第21期汽車零整比體系指標研究結果（資料採集日期為2025年12月31日），指標包括汽車零整比係數、汽車零整比100指數、維修負擔指數等。結果顯示，最新一期燃油車“汽車零整比100指數”為390.77%，較上期略降0.3個百分點。新能源汽車“汽車零整比100指數”為311.42%，較上期下降0.82個百分點。與保險賠付緊密相關的新能源汽車“維修負擔100指數”為23.81，較上期下降3.85，降幅為13.92%。其中，動力電池價格下降是本期新能源汽車維修負擔100指數下降的主要因素。
+
+---
+
+### 2026-08-13 13:41:29  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
+
+【Sichuan to bolster compute-park infrastructure, preemptively expand smart compute facilities】Sichuan published interim policies to advance compute-network construction, directing upgrades to compute-park infrastructure and urging direct connections between backbone and metro communications networks and compute parks. The province will accelerate a “millisecond computing” action plan, coordinate primary and backup power and support intelligent microgrids for parks. Financing for qualifying compute-park infrastructure will be prioritised via local government special bonds and policy financial tools. The plan backs shared compute services — including scheduling platforms, compute marketplaces and token factories — and aims to boost high-quality compute supply. For large-model training/inference and industry-model development, Sichuan calls for appropriately ahead-of-demand deployment of smart compute, accelerated construction of 10,000-card smart-compute clusters, and balanced allocation between general-purpose, smart and supercomputing resources to raise the smart-compute share. Key universities, research institutes, industry leaders and AI firms are encouraged to prioritise provincial compute resources; eligible users may receive compute vouchers.
+
+---
+
+### 2026-08-13 13:41:19  #MKT News #Market Themes #AI Revolution
+
+【Sichuan to build 10,000+‑card compute clusters, explore high‑security facilities】Sichuan issued interim measures to accelerate its computing‑power network, backing construction of 10,000+‑card intelligent compute clusters. The province will target major telecom carriers and leading model developers to locate clusters in the Chengdu Plain compute core and the Panxi–NW Sichuan electricity‑compute integration belt, and will use fiscal, financial and green‑power policy tools to support large and extra‑large facilities while seeking inclusion in national special support. It will also explore high‑security compute facilities in tunnels and other concealed environments, inviting telecom SOEs and central enterprises to deploy modular, green, high‑density, high‑security computing sites.
+
+---
+
+### 2026-08-13 13:41:02  #國際
+
+俄羅斯國防部：俄羅斯夜間擊落362架烏克蘭無人機。
+
+---
+
+### 2026-08-13 13:41:02  #MKT News
+
+Russian Defence Ministry says Russian forces shot down 362 Ukrainian drones overnight.
+
+---
+
+### 2026-08-13 13:40:46  #其他
+
+【四川：建強成都平原算力核心區 打造攀西—川西北算電融合發展帶】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，建強成都平原算力核心區。做強天府資料中心叢集，聚焦成渝國家算力樞紐節點，著力推進成都、雅安、綿陽、德陽為主要承載地的算力核心區建設；打造攀西—川西北算電融合發展帶。支援涼山、甘孜、阿壩、攀枝花依託清潔能源資源，統籌佈局“源網荷儲”一體化大型算力設施，打造重點承接模型訓練、大資料分析、影視渲染、資料備份等非實時、可遷移算力需求的算電融合發展帶。
+
+---
+
+### 2026-08-13 13:40:43  #其他
+
+【四川：佈局建設萬卡級以上智算叢集，探索建設高安全算力設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，支援建設萬卡叢集。重點招引基礎電信運營商、頭部模型大廠在成都平原算力核心區、攀西—川西北算電融合發展帶佈局建設萬卡級以上智算叢集，綜合應用財政、金融、綠色電力等政策工具支援大型、超大型算力設施專案落地；探索建設高安全算力設施。支援利用隧洞等可用安全隱蔽環境，積極引入基礎電信運營商等專業央企，探索佈局模組化、綠色化、高密度、高安全算力設施。積極爭取有關專案納入國家專項支援。
 
 ---
 
@@ -17780,167 +17972,5 @@ SK海力士股價上漲4.1%，至148.4萬韓元。
 ### 2026-08-12 10:14:00  #MKT News
 
 【Trump Wednesday schedule (Beijing time)】Beijing time: 20:00 Executive office; 22:30 meeting with law enforcement and military; 23:00 policy meeting; 00:30 (next day) policy meeting; 02:30 signing ceremony; 04:00 policy meeting; 05:00 policy meeting.
-
----
-
-### 2026-08-12 10:13:50  #公司
-
-【健麾資訊等在上海成立健康科技公司】企查查APP顯示，近日，健麾靈保（上海）健康科技有限公司成立，經營範圍包含網際網路資訊服務；計算機資訊系統安全專用產品銷售；食品銷售；第一類增值電信業務等。企查查股權穿透顯示，該公司由健麾資訊等共同持股。
-
----
-
-### 2026-08-12 10:13:37  #市場 #焦點
-
-現貨黃金突破4400美元/盎司，日內漲0.74%。
-
----
-
-### 2026-08-12 10:13:13  #公司
-
-【Google Gemma 4全球下載量突破3億】從Google I/O上海瞭解到，Google Gemma 4模型下載量已突破 3 億。今年4月，谷歌釋出Gemma 4系列模型，專為高階推理和智慧體(Agentic)工作流而設計。（介面新聞）
-
----
-
-### 2026-08-12 10:13:03  #市場 #焦點
-
-紐約期金突破4460美元/盎司，日內漲0.43%。
-
----
-
-### 2026-08-12 10:12:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,400/oz intraday, up 0.74%.
-
----
-
-### 2026-08-12 10:12:49  #公司 #觀點
-
-【 中金：維持閱文集團(00772)跑贏行業評級 目標價29港元 】 中金髮布研報稱，維持閱文集團(00772)2026/2027年Non-IFRS歸母淨利潤8.50/13.11億元。現價對應2026/2027年21/14倍Non-IFRS市盈率。維持跑贏行業評級和目標價29港元，對應2026/2027年30/19倍Non-IFRS市盈率，較當前股價有39.8%的上行空間。
-
----
-
-### 2026-08-12 10:12:43  #公司 #市場
-
-三星電子股價上漲5.9%，報253500韓元。
-
----
-
-### 2026-08-12 10:12:19  #MKT News #CSI300 #Impact bullish #SZSE Component
-
-A-share lithium-mining names jumped intraday; Yongshan Lithium hit the daily limit, while Shengxin Lithium Energy, Tianhua New Energy, Guocheng Mining, Dazhong Mining and Rongjie Shares also rose.
-
----
-
-### 2026-08-12 10:11:52  #公司
-
-【 瑞銀：下調中國鐵塔(00788)目標價至10港元 維持“中性”評級 】 瑞銀髮布研報稱，下調中國鐵塔(00788)目標價14%，從11.6港元降至10港元，維持“中性”評級。該行下調對該公司2026-2028年淨利潤和每股盈利預期10-14%，主要原因是電信業者最佳化移動網路導致鐵塔收入下降。根據該行新的盈利預測和77%派息比率，中國鐵塔目前的2026年預期股息率為6%，這應能為其估值提供支撐。
-
----
-
-### 2026-08-12 10:11:12  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share semiconductor materials sector rose; Oulai New Material jumped over 10%, while Youyan New Material, Xiandao Jidian, Kema Technology, Zhenbao Technology and Youyan Silicon also advanced.
-
----
-
-### 2026-08-12 10:10:55  #其他
-
-【半導體材料板塊走高，歐萊新材漲超10%】半導體材料板塊走高，歐萊新材漲超10%，有研新材、先導基電、珂瑪科技、臻寶科技、有研矽等跟漲。
-
----
-
-### 2026-08-12 10:10:41  #市場 #觀點 #國際 #原創
-
-【摩根大通上調新加坡海峽時報指數目標位至6500點】摩根大通上調新加坡海峽時報指數目標位至 6500點，稱“恰到好處”的經濟狀況將推動盈利增長，並賦予當局更大的財政靈活性。“我們認為，適宜的經濟環境應繼續支撐每股收益增長，併為財政騰出空間，”摩根大通分析師表示。“儘管估值已突破平均水平，但我們認為，隨著新加坡海峽時報指數在高收益率和貨幣穩定的推動下重新定價，向其他發達市場靠攏，這一水平將得以維持。”摩根大通還將新加坡海峽時報指數多空情景目標位分別上調至7000點/5000點。
-
----
-
-### 2026-08-12 10:08:27  #觀點 #國際
-
-花旗將騰訊音樂娛樂美國存託憑證目標價從13美元下調至11.4美元。
-
----
-
-### 2026-08-12 10:08:05  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH
-
-【Chief Executive John Lee: Greater Bay Area a key entry point for Hong Kong to integrate with and serve national development】Chief Executive John Lee said on Aug. 11 this year is the opening year of the national '15th Five-Year Plan' and that the Guangdong–Hong Kong–Macao Greater Bay Area (GBA) is an important entry point for Hong Kong to integrate with and serve the national development agenda. The SAR government will use Hong Kong's 'one country, two systems' connectivity to support high-quality GBA development, assist mainland GBA and other provincial firms in expanding overseas, and attract international high-end talent and capital to boost growth. Public consultation on Hong Kong's first five-year plan closes Aug. 14; the government plans to publish detailed measures next month.
-
----
-
-### 2026-08-12 10:08:01  #其他
-
-【李家超：粵港澳大灣區是香港融入和服務國家發展大局的重要切入點】“今年是國家‘十五五’規劃的開局之年。粵港澳大灣區建設是香港融入和服務國家發展大局的重要切入點，特區政府將繼續發揮香港在‘一國兩制’下內聯外通的優勢，積極服務大灣區高質量建設，支援大灣區內地城市以至不同省市的企業‘走出去’，同時把國際高階人才與資金‘引進來’，為發展注入動能。”香港特區行政長官李家超11日說。特區政府就香港第一個五年規劃的公眾諮詢將於8月14日結束，計劃在下個月內公佈具體內容。李家超稱，香港主動對接國家發展戰略，以宏觀和前瞻的視角，勾勒香港未來五年的願景及目標，把握國家“十五五”規劃帶來的龐大機遇，推動香港更好融入和服務國家發展大局。（中新網）
-
----
-
-### 2026-08-12 10:06:09  #公司 #市場
-
-【鋰礦概念異動拉昇 永杉鋰業直線漲停】鋰礦概念盤中異動拉昇，永杉鋰業直線漲停，盛新鋰能、天華新能、國城礦業、大中礦業、融捷股份等跟漲。
-
----
-
-### 2026-08-12 10:05:49  #公司 #市場
-
-【塔牌集團：當前水泥價格已處於階段性底部 再向下的機率很小】塔牌集團(002233)8月11日在電話會議中表示，因近期廣東地區雨水和颱風天氣較多，影響工程施工，導致需求疲軟，珠三角市場水泥價格在7月中旬推漲後又慢慢回落，粵東市場在7月中旬提價後價格相對穩定。當前價格已處於階段性底部，再向下的機率很小，一方面是煤價上漲推動成本壓力，另一方面行業大部分企業虧損嚴重，自救意願增強。下半年能否漲價，主要看9月後天氣好轉帶來的真實需求恢復，按批覆產能進行生產的執行力度以及行業錯峰生產自律意識能否加強。
-
----
-
-### 2026-08-12 10:05:16  #其他
-
-【SpaceXAI推出“全天候數字同事”Grok Bot】SpaceXAI當地時間8月11日宣佈推出AI代理產品Grok Bot，目前處於測試階段。宣告稱，Grok Bot是一支全天候線上的智慧助手團隊，可接受並完成使用者分配給它們的實際工作任務。據介紹，Grok Bot擁有獨立的雲端計算機，可以登入使用者已經在用的工具，跨應用、收件箱等場景工作，任務完成後才返回彙報。
-
----
-
-### 2026-08-12 10:04:41  #公司
-
-【天海防務：目前船舶行業整體處於較好的發展視窗】天海防務(300008)8月11日在機構調研中表示，船舶屬於週期性行業，週期波動客觀存在，很難精準預判行情能夠持續多久。從行業層面看，當前具備多重有利支撐：一是全球海事環保政策持續推進，新能源相關政策帶來行業發展機遇；二是行業進入換船週期，老舊船舶競爭力下降，帶動多用途船等船型更新需求，也是公司現階段訂單的重要來源；三是全球貿易格局多元化，貿易需求具備剛性，地緣政治不確定性也許會給航運及造船行業帶來一定的業務機會。綜合來看，目前行業整體處於較好的發展視窗，但行情持續時長、景氣高度難以做準確預測。
-
----
-
-### 2026-08-12 10:04:37  #其他
-
-【蜜雪冰城目前未接到星巴克紙杯抹茶粉等訂單】據報道，前山姆中國CMO張青加入博裕資本負責操刀星巴克中國供應鏈改革，包括尋求與其他供應商合作，降低物料成本等，如紙杯、吸管、抹茶粉都將由蜜雪冰城代工。對此，知情人士表示，蜜雪冰城目前沒有接到任何與星巴克業務相關的訂單。而星巴克中國則稱，對市場傳聞和猜測不作評論，各項業務均在正常執行中。（介面新聞）
-
----
-
-### 2026-08-12 10:03:51  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Rebound on Tech Boost — The Shanghai Composite edged up 0.1% to around 3,935 on Wednesday, while the Shenzhen Component advanced 0.8% to 14,372, rebounding from the previous session as technology shares led the recovery. Sentiment in the sector improved after CoreWeave posted stronger-than-expected revenue growth and Super Micro Computer issued an upbeat revenue forecast that exceeded expectations. In China, investors also looked ahead to earnings from Semiconductor Manufacturing International Corp. (SMIC), due on Thursday, which could offer fresh insight into chip demand. Zhongji Innolight (1.7%), Eoptolink Technology (2.2%), NAURA Technology (1.6%), and Victory Giant Technology (1.4%) were among the sector's top gainers. Risk appetite was also supported by easing Middle East tensions after Pakistan’s defense minister said that the US and Iran were "close to some sort of arrangement" regarding the Strait of Hormuz, while separate reports suggested talks between Iran and Oman had reached an advanced stage.
-
----
-
-### 2026-08-12 10:03:45  #公司
-
-【歐冶雲商股份有限公司原黨委副書記、董事、總裁金文海接受紀律審查和監察調查】據中央紀委國家監委駐中國寶武紀檢監察組訊息：歐冶雲商股份有限公司原黨委副書記、董事、總裁金文海涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國寶武紀檢監察組紀律審查和監察調查。
-
----
-
-### 2026-08-12 10:03:37  #國際
-
-日本內閣改組或將於9月中旬或之後進行。
-
----
-
-### 2026-08-12 10:03:10  #公司
-
-【南方電網公司謀劃實施進一步深化改革】近日，南方電網公司召開2026年年中工作會議，進一步深化改革工作要點（2026—2029年）及臺賬作為會議成果之一進行釋出。南方電網公司貫徹落實黨中央關於進一步深化國資國企改革的重大決策部署，聚焦破除體制機制障礙和高質量發展中的突出問題，深入研究提出7個方面、22條、123項改革任務舉措，已完成企業內部決策程式，即將正式印發實施。在“十五五”開局之年，南方電網公司新一輪國資國企改革就此拉開帷幕。圍繞構建與“三個新型”建設相適應的新型能源生產關係，提出健全適應新型能源體系的市場價格機制和管理體系、加快南方區域電力市場建設、構建多元主體涉網技術監督體系、加快建設主配微協同的新型電網平臺、建設權威互認的新型電力系統標準體系、加快“電碳算”協同發展和“六網”協同發展等。
-
----
-
-### 2026-08-12 10:03:04  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Slip as Investors Turn Cautious — The Hang Seng Index slipped 1.0%, or 259 points, to 25,390 on Wednesday, as fading hopes for a US-Iran deal and caution ahead of the latest US inflation data weighed on investor sentiment. Oil prices climbed to a one-week high amid tensions surrounding the Strait of Hormuz, raising concerns over inflation and global growth. The decline also followed losses on Wall Street. In the region, Hong Kong technology stocks remained under pressure, with investors closely watching Tencent’s second-quarter earnings for signs of growth in gaming, advertising and AI investments. Meanwhile, plans to expand the Hang Seng Tech Index from 30 to 50 constituents could increase exposure to emerging sectors such as AI and robotics. Hong Kong’s IPO market also remained in focus, with Shein reportedly preparing to launch its Hong Kong IPO, supporting optimism over the city’s capital-market activity. Notable laggards included Tencent (-2.3%), AIA (-0.6%), Lenovo (-0.6%), Kuaishou (-1.6%), and Meituan (-2.3%).
-
----
-
-### 2026-08-12 10:02:56  #公司
-
-【原寶鋼不鏽鋼有限公司副總經理、寧波寶新不鏽鋼有限公司原董事長何汝迎接受紀律審查和監察調查】據中央紀委國家監委駐中國寶武紀檢監察組、福建省紀委監委訊息：原寶鋼不鏽鋼有限公司副總經理、寧波寶新不鏽鋼有限公司原董事長何汝迎涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國寶武紀檢監察組紀律審查和福建省莆田市監察委員會監察調查。
-
----
-
-### 2026-08-12 10:02:24  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Approaches 4-Month High — US heating oil futures advanced toward $4.30 per gallon on Wednesday, approaching a four-month high amid mounting concerns over tight distillate supplies. Yemen’s Houthis recently attacked Saudi Arabia’s Jazan refinery, which has been shut since July 27 following an earlier strike by the group. Plans to restart the facility have since been postponed from August 15 to August 30. Russia’s fuel export restrictions have also added to global supply concerns. This comes on top of uncertainty over the Strait of Hormuz, where markets are assessing the prospects for a potential US-Iran agreement on the key waterway. Pakistan’s defense minister said Washington and Tehran were “close to some sort of arrangement,” while a Qatari official cited by Al Jazeera said Iran-Oman talks had reached an advanced stage. Meanwhile, US refiners are processing crude at the highest seasonal pace since 2018, despite capacity falling by 600,000 barrels per day over the same period.
 
 ---
