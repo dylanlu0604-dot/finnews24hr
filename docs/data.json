@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-17 11:58:17",
-  "count": 15178,
+  "updated": "2026-08-17 12:02:30",
+  "count": 15183,
   "items": [
+    {
+      "id": "5043442",
+      "time": "2026-08-17 12:01:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲1.61%，恒生科技指數漲2.01%】港股午間收盤，恒生指數漲1.61%，恒生科技指數漲2.01%。恒指港股通ETF銀華（159318）漲1.31%，港股通科技ETF鵬華（159751）漲2.01%。板塊方面，休閒設施、系統軟體板塊漲幅靠前；其他專業零售、IT諮詢與其他服務板塊跌幅靠前。個股方面，商湯-W漲10.68%，芯碁微裝漲9.27%，凱樂士科技漲8.93%，凱萊英漲8.57%，思摩爾國際漲8.22%；百奧賽圖-B跌7.54%，名創優品跌7.51%，粵港灣智算跌6.68%，禮邦醫藥-B跌6.57%，偉祿科技股份跌6.06%。"
+    },
+    {
+      "id": "5043441",
+      "time": "2026-08-17 12:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "吉利汽車 上半年營收1,736億元；吉利汽車上半年淨利潤90.9億元人民幣，預估71.2億元。"
+    },
+    {
+      "id": "5043440",
+      "time": "2026-08-17 12:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉利汽車上半年銷售汽車及相關服務收入1,587.8億元人民幣】吉利汽車 上半年 銷售汽車及相關服務收入1,587.8億元人民幣。銷售汽車及相關服務收入1,587.8億元人民幣；銷售汽車零部件收入96.1億元人民幣。"
+    },
+    {
+      "id": "mkt:01a00de1-2a6d-7aab-9055-d112bc5237ba",
+      "time": "2026-08-17 12:00:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【IDC: By 2025 China AI video‑cloud market centers on two core tracks; combined size near 1 billion yuan】IDC's inaugural China AI Video Cloud Market Share, 2025 report projects that by 2025 the market will concentrate in two core tracks — real‑time AI audio/video interaction and intelligent media production and processing — with a combined market size near 1 billion yuan. IDC says the intelligent media production and processing segment is expanding fastest, with YoY growth as high as 427%."
+    },
+    {
+      "id": "mkt:01a00de0-df17-7aab-9055-cff3bd16480e",
+      "time": "2026-08-17 12:00:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia July CPI rose 1.8% YoY, flat MoM."
+    },
+    {
+      "id": "mkt:01a00de0-a2e1-7aab-9055-c3cdf9e5e4ab",
+      "time": "2026-08-17 12:00:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China’s Three-North afforestation push: central funding 88.9 bln yuan; annual construction >80 mln mu】The National Forestry and Grassland Administration said since the intensified Three-North campaign began authorities have allocated 88.9 bln yuan in central investment and implemented 544 key projects, completing on average more than 80 mln mu of construction annually. Project-area forest and grass coverage reached 40.76% (up 1.13 ppt versus 2020); the treatment rate of controllable desertified land rose to 67.82% (up 12.78 ppt). Mid-term targets of the program’s sixth-phase plan have been fully met."
+    },
+    {
+      "id": "5043438",
+      "time": "2026-08-17 11:59:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國10年國債收益率重新整理逾一年低點】中國10年期國債活躍券260010最新成交在1.68%，較上日尾盤走低0.1個基點，盤中低點1.677%續創2025年7月下旬以來新低。"
+    },
+    {
+      "id": "5043437",
+      "time": "2026-08-17 11:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“三北”工程攻堅戰年均完成建設任務8000萬畝以上】“三北”工程是我國生態文明建設的重要標誌性工程。記者從國家林草局瞭解到，“三北”工程攻堅戰啟動三年來，年均完成建設任務8000萬畝以上。“三北”工程攻堅戰啟動以來，國家林草局會同各地各部門，堅持系統觀念、科學施治，累計安排中央投資889億元，實施重點專案544個，年均完成建設任務8000萬畝以上，成為工程建設史上推進力度最大、建設成效最好的時期。"
+    },
+    {
+      "id": "mkt:01a00ddf-64ba-7aab-9055-bce2d01aa2ed",
+      "time": "2026-08-17 11:58:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Taiwan dollar (TWD) rose to 31.874 per US dollar, its strongest level since July 2."
+    },
     {
       "id": "5043436",
       "time": "2026-08-17 11:57:12",
@@ -138779,41 +138858,6 @@
         "其他"
       ],
       "text": "【颱風減弱≠風險消退 多地路網仍面臨嚴峻考驗】颱風“白海豚”昨天下午以強颱風級在浙江玉環登陸，後在溫州樂清二次登陸。目前臺風“白海豚”雖然已經減弱，但是颱風帶來的風險並沒有消退，今天多地的交通路網依然受到颱風和強降雨的影響。颱風本體強度已經明顯減弱，但它環流體量依舊龐大，強降雨仍在持續擴散，多地路網仍然面臨嚴峻的保通、保暢壓力。記者從路網中心瞭解到，截至今天早上9時，受颱風影響，浙江、安徽、福建、上海等4省國省幹線共有61個路段採取主動封閉管控措施。（央視）"
-    },
-    {
-      "id": "5033196",
-      "time": "2026-08-10 12:02:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息：英國監管機構正為代幣化黃金制定監管框架。"
-    },
-    {
-      "id": "5033195",
-      "time": "2026-08-10 12:01:22",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【港股午評：恒生指數漲0.72％，恒生科技指數漲0.37％】港股午間收盤，恒生指數漲0.72％，恒生科技指數漲0.37％。板塊方面，焦炭加工Ⅲ、焦炭加工Ⅳ板塊漲幅靠前；調查和諮詢服務、環保裝置板塊跌幅靠前。個股方面，國泰君安國際漲36.3％，晶泰控股漲9.47％，禮邦醫藥-B漲9.18％，力量發展漲8.95％，老鋪黃金漲8.52％；建滔積層板跌10.43％，深圳國際跌10.41％，偉祿科技股份跌10.19％，珞石機器人跌9.19％，天數智芯跌8.11％。"
-    },
-    {
-      "id": "5033194",
-      "time": "2026-08-10 12:00:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【葵花葯業投資成立醫藥公司】企查查APP顯示，近日，四川葵花醫藥有限公司成立，法定代表人為戴瑞全，註冊資本為1000萬元，經營範圍包含：第一類醫療器械銷售；第二類醫療器械銷售；食品銷售（僅銷售預包裝食品）；保健食品（預包裝）銷售等。企查查股權穿透顯示，該公司由葵花葯業全資持股。"
-    },
-    {
-      "id": "5033193",
-      "time": "2026-08-10 11:59:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "阿布扎比國家石油公司天然氣業務：宣佈已為魯韋斯‑達芙拉‑吉拉專案二期、三期授予總金額 82 億美元的工程總承包合同。三季度淨利潤預測基於霍爾木茲海峽海上航道持續受擾的假設。公司表示全年利潤預測的前提是第四季度海上作業完全恢復、產品實際售價迴歸正常。上半年國內天然氣銷售量下滑 20%，至 948 萬億英熱單位，主要因回注氣量減少。受 3 月起霍爾木茲海峽擾動並貫穿整個二季度的影響，出口及貿易液態產品銷量下滑 36%，至 319 萬億英熱單位，液化石油氣、石腦油、液化天然氣出口受限。受地區衝突影響，二季度把握市場高價的能力受限。已與客戶及合作伙伴密切協作，減輕擾動帶來的衝擊，應對階段性產能制約，儘可能履行各項合約義務。"
     }
   ]
 }
