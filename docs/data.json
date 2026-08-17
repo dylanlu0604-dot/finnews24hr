@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-17 14:44:55",
-  "count": 15149,
+  "updated": "2026-08-17 14:48:54",
+  "count": 15151,
   "items": [
+    {
+      "id": "mkt:01a00e7a-3f19-7aab-9058-3cd1d42871d0",
+      "time": "2026-08-17 14:48:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext rose more than 3% late in the session; the Shenzhen Composite gained 2.3% and the Shanghai Composite added 1.3%. More than 4,200 stocks advanced marketwide. Chip stocks strengthened, led by advanced packaging, CPO and optical-fiber sectors."
+    },
+    {
+      "id": "5043626",
+      "time": "2026-08-17 14:47:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3.00%，現報3735.132點；上證指數漲1.34%，現報3979.635點；深證成指漲2.32%，現報14687.547點。"
+    },
+    {
+      "id": "5043625",
+      "time": "2026-08-17 14:47:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上證50股指期貨(IH)主力合約日內漲超1%】上證50股指期貨(IH)主力合約日內漲超1%，現報2919.4點。"
+    },
+    {
+      "id": "5043624",
+      "time": "2026-08-17 14:46:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本自衛隊指揮體系或引入美國AI】日本共同社今天（8月17日）報道稱，據相關人士透露，日本防衛省已開始研究將美國企業研發的人工智慧（AI）技術引入日本自衛隊的指揮控制體系——據稱其目的在於“透過AI輔助指揮官分析戰況、選擇目標，甚至向部隊下達命令，從而加快決策程序”。報道稱，為避免過度依賴特定國家或企業，日本防衛省計劃“將不同國家或企業的AI系統綜合加以利用，包括日本國產AI”。據稱美國帕蘭蒂爾技術公司的MSS（Maven Smart System）系統也在候選之列。該系統能夠整合並分析從衛星、偵察機等渠道收集的大量資料，並用於制定作戰方案等。據稱，美軍在對伊朗的軍事行動中已經使用了該系統。（CCTV國際時訊）"
+    },
+    {
+      "id": "5043623",
+      "time": "2026-08-17 14:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海計程車“限制名單”執行三個月 拒載率下降近五成】上海浦東國際機場、虹橋樞紐作為上海重要城市門戶，計程車營運服務直接關乎城市視窗形象。記者從上海市交通部門獲悉，為整治樞紐場站計程車各類違規亂象，由出租汽車行業協會、場站管理單位及各計程車企業聯合推出的樞紐限制名單自律管理機制，自今年5月10日正式落地實施以來，三個月內上海全市重要樞紐場站累計錄入計程車各類違規記錄359起，所有涉事駕駛員、涉事車輛均按規則執行場站禁入處置，從源頭約束不規範營執行為，主要分為四大整治成效。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00e78-5fef-7aab-9058-31fc3f70168b",
+      "time": "2026-08-17 14:46:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Renminbi breaches 6.74 per dollar, hits three-and-a-half-year high】Aug 17 — China’s onshore renminbi spot rate breached 6.74 per dollar intraday, the strongest level since early February 2023. Offshore renminbi (CNH) also traded past 6.74 per dollar; the offshore intraday high, viewed as more reflective of international investor expectations, reached 7.3875, likewise a three-and-a-half-year peak."
+    },
+    {
+      "id": "mkt:01a00e78-3af6-7aab-9058-2b5c72e8a1e5",
+      "time": "2026-08-17 14:45:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Changxin Technology trading turnover surpassed CNY30 billion; shares are up 10.15%."
+    },
+    {
+      "id": "5043622",
+      "time": "2026-08-17 14:45:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.701美元/百萬英熱。"
+    },
     {
       "id": "5043621",
       "time": "2026-08-17 14:42:31",
@@ -138535,67 +138611,6 @@
         "MKT News"
       ],
       "text": "【Typhoon White Dolphin moves into Jiangxi; Zhejiang lowers emergency response to Level II】Typhoon White Dolphin moved out of Fenglin Town, Jiangshan, Zhejiang into Guangfeng District, Shangrao, Jiangxi at 12:50 on Aug 10. Maximum winds were force 8 (tropical storm); the system is expected to continue northwest at 10–15 km/h. Zhejiang provincial authorities say the province-wide flood situation is generally controllable; the provincial meteorological office has adjusted the typhoon emergency warning to a typhoon alert. Zhejiang flood-control headquarters downgraded the typhoon emergency response to Level II at 14:00 on Aug 10."
-    },
-    {
-      "id": "5033403",
-      "time": "2026-08-10 14:48:52",
-      "tags": [
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "A股愛麗家居尾盤漲停，走出12天11板。"
-    },
-    {
-      "id": "mkt:019fea6e-4208-7aab-8fd3-498b1e1cab1c",
-      "time": "2026-08-10 14:48:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions"
-      ],
-      "text": "A-share-listed Aili Home hit the daily price limit at the close, marking its 11th limit-up in 12 trading days."
-    },
-    {
-      "id": "5033402",
-      "time": "2026-08-10 14:48:41",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【伯恩斯坦上調目標價，Paytm股價創半年最大漲幅】印度數字支付企業Paytm的母公司One97 Communications股價最大漲幅達8.8%，此前伯恩斯坦上調了該股目標價。分析師伊尚・米塔爾、阿尼魯德・古普塔撰文表示，統一支付介面（UPI）交易引入商戶折扣費率（MDR），有望將Paytm的淨支付利潤率提升3‑4個基點，預計2030財年預期每股收益較此前預測增長30%。分析師補充稱，印度財政部近期表態，同時立法修訂取消UPI交易不得收取商戶折扣費率的法定禁令，意味著“討論焦點已經從是否恢復MDR，轉向何時恢復、以何種形式恢復”。"
-    },
-    {
-      "id": "te:markets:574046",
-      "time": "2026-08-10 14:48:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Ends 1.6% Higher, Near 4-Week High — The TAIEX, Taiwan’s benchmark stock index, gained 703 points, or 1.6%, to close at 44,929 on Monday, halting losses from the previous two sessions and tracking a rally on Wall Street on Friday after weaker-than-expected jobs data eased concerns over Fed rate hikes at the upcoming meeting. The broader index hit its highest level since July 16 after consolidating in the previous session amid concerns over massive spending on AI. The increase was mainly driven by health technology and electronic technology stocks, which climbed 2.1%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 0.4%, while MediaTek advanced 1.5% and Delta Electronics jumped 10.0%. However, rising oil prices limited the gains, as concerns over inflation raised expectations of interest rate hikes. Traders also anticipated the release of US inflation data due this week for clues about the Fed's monetary policy decision at its upcoming meeting."
-    },
-    {
-      "id": "5033401",
-      "time": "2026-08-10 14:45:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【豬肉價格轉漲點燃板塊熱情 農業ETF易方達漲2.81% 養殖鏈全線走強】農業ETF易方達(562900)上漲2.81%，報0.695元，盤中最高觸及0.695元，最低下探至0.676元，午後維持高位執行，全日成交額已達1320萬元。"
-    },
-    {
-      "id": "mkt:019fea6b-8d9b-7aab-8fd3-45fa2a8961e2",
-      "time": "2026-08-10 14:45:44",
-      "tags": [
-        "MKT News",
-        "562900.SH",
-        "Impact bullish"
-      ],
-      "text": "【Pork price rebound lifts sector; E Fund agricultural ETF up 2.81%, livestock-chain stocks rally】Pork prices turned higher, fueling sector gains. E Fund Agricultural ETF (562900) rose 2.81% to 0.695 yuan, with an intraday high of 0.695 and low of 0.676; it held elevated levels in the afternoon. Daily turnover reached 13.2 mln yuan. Livestock-chain stocks rallied broadly."
     }
   ]
 }
