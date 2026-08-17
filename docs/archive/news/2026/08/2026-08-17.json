@@ -1,7 +1,50 @@
 {
   "date": "2026-08-17",
-  "count": 1049,
+  "count": 1054,
   "items": [
+    {
+      "id": "5043618",
+      "time": "2026-08-17 14:39:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國將繼續與美方保持軍事演習方面的協調。"
+    },
+    {
+      "id": "5043617",
+      "time": "2026-08-17 14:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信公眾號14週年：超2000萬創作者持續活躍，一年產出原創文章上億篇】近日，微信團隊釋出《公眾號14週年創作者報告》，報告顯示，過去一年，超過2000萬個公眾號的內容被讀者看見。海量創作者過去一年在平臺內共計輸出原創文章1.32億篇，總字數高達1508億字。資料顯示，過去一年，公眾號平臺有變現收入的創作者數量同比增長超70%；同時，隨著內容帶貨模式的成熟，公眾號帶貨創作者數量同比增長達133%。（新浪科技）"
+    },
+    {
+      "id": "te:markets:575724",
+      "time": "2026-08-17 14:38:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls on Demand Concerns — Iron ore futures fell toward CNY 700 per ton, hovering near 14-month lows amid persistent concerns over demand in top consumer China. Recent data showed China’s new yuan loans posted a record contraction in July as seasonal factors and weak household credit demand weighed on lending activity. This points to subdued property and infrastructure investment, key drivers of steel consumption in China, and in turn signals weaker demand for iron ore. Meanwhile, industry data showed blast furnace operating rates among Chinese steel mills rose to 82.64% last week, up 0.32 percentage points from the previous week. Elsewhere, reports indicated that China’s state iron ore buyer reached an agreement with Anglo American in April on an annual supply contract for the key steelmaking ingredient."
+    },
+    {
+      "id": "5043616",
+      "time": "2026-08-17 14:36:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Jain Global在亞洲增聘人手並擴大辦公空間 迎接Millennium資金進駐】知情人士透露，Jain Global正在亞洲增聘人手並擴大香港辦公空間，為以Millennium Management的資金取代現有的外部資本做準備。知情人士透露，Bobby Jain旗下同名的多策略、多經理對沖基金已簽署租賃協議，計劃於2027年初將香港辦公室面積擴大50%。該公司在該區域約有75名員工，60%在香港辦公，新增空間可再容納25名員工。該公司近期分別從IMC Trading和滙豐控股延攬Jordan Miyakawa和Matthieu Millot。但也有人掛冠求去：知情人士透露，駐新加坡專注於貴金屬的投資組合經理Amir Ravan即將離職，轉任Dymon Asia Capital大宗商品主管 ；Ravan去年表現在該公司名列前茅，Jain Global的發言人拒絕置評。"
+    },
+    {
+      "id": "5043615",
+      "time": "2026-08-17 14:36:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大和：萬國資料-SW銷售目標倍增 維持“買入”評級 目標價47港元】大和釋出研報稱，萬國資料-SW第二季業績穩健，管理層將2026年銷售目標由500兆瓦倍增至1吉瓦，並預計2026年底積壓訂單將達約1.2吉瓦，加上明確的交付時間表，為2028年前的業績提供強勁能見度。大和上調2026至2027年EBITDA預測11%至49%，以反映強勁需求及交付進度。目標價維持47港元，基於萬國資料中國業務2026至2027年平均預測EBITDA的13倍估值，以及持有DayOne約20%股權的估值，維持“買入”評級。"
+    },
     {
       "id": "5043614",
       "time": "2026-08-17 14:35:23",
