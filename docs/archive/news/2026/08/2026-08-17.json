@@ -1,7 +1,89 @@
 {
   "date": "2026-08-17",
-  "count": 566,
+  "count": 575,
   "items": [
+    {
+      "id": "mkt:01a00d8b-33a5-7aab-9054-355291829aca",
+      "time": "2026-08-17 10:27:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "YONHAP: South Korea said unresolved issues remain in the $200 billion investment plan reached with the U.S. in tariff negotiations."
+    },
+    {
+      "id": "5043288",
+      "time": "2026-08-17 10:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓證券交易所披露網站暫時無法訪問。"
+    },
+    {
+      "id": "5043287",
+      "time": "2026-08-17 10:26:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易商許可陸續獲批 印度白銀進口回升】儘管面臨行政障礙，印度白銀進口量正在回升。此前，新的許可制度導致進口中斷，交易商們希望利用有利的溢價獲利。據知情人士透露，一些交易商和銀行近期已獲得許可，可以向印度進口更多白銀，但需滿足一些特殊的進口要求。"
+    },
+    {
+      "id": "5043286",
+      "time": "2026-08-17 10:26:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀：首予映恩生物“買入”評級及目標價320港元】瑞銀髮表研報，首次覆蓋映恩生物-B，給予“買入”評級，基於風險調整後現金流折現(DCF)估值，目標價320港元，對應1.2倍風險調整後峰值銷售比率。該行認為公司目前估值被低估，現價僅對應0.7倍風險調整後峰值銷售比率，遠低於同業中位數的1.6倍，估值吸引。該行預計DB-1311(B7-H3 ADC)將成為主要估值驅動力，預測其峰值銷售達383億元，高於市場共識的286億元。市場對即將到來的關鍵資料尚未充分定價，包括DB-1311聯合PD-L1/VEGF雙特異性抗體在肺癌(2026年WCLC)及非肺癌(2026年ESMO)的組合療法概念驗證資料，以及HER2 ADC(DB-1303)的全球生物製品許可申請(BLA)提交。該行預測2025年總收入(未調整)將由18億元升至2035年的228億元，EBITDA預計在2030年轉正。"
+    },
+    {
+      "id": "mkt:01a00d8a-3739-7aab-9054-2ef73f9d1a44",
+      "time": "2026-08-17 10:25:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Preview: State Council Information Office to brief on measures to boost lower-tier market activity and county consumption】China's State Council Information Office will hold a press briefing on Aug. 18, 2026 at 3:00 p.m. Beijing time. MOFCOM assistant minister Yuan Xiaoming and officials from the Ministry of Agriculture and Rural Affairs, the Ministry of Culture and Tourism, and the State Administration for Market Regulation will outline measures to stimulate lower-tier market vitality and county-level consumption and will take questions."
+    },
+    {
+      "id": "5043285",
+      "time": "2026-08-17 10:25:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告：國新辦8月18日將舉行新聞釋出會 介紹激發下沉市場活力活躍縣域消費有關情況】國務院新聞辦公室將於2026年8月18日（星期二）下午3時舉行新聞釋出會，請商務部部長助理袁曉明和農業農村部、文化和旅遊部、市場監管總局有關負責人介紹激發下沉市場活力活躍縣域消費有關情況，並答記者問。"
+    },
+    {
+      "id": "mkt:01a00d89-8b6e-7aab-9054-2441d28577b6",
+      "time": "2026-08-17 10:25:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian parliament passes anti-infiltration bill】Aug. 16 — The Iranian parliament approved an anti-infiltration bill to counter penetration by foreign intelligence services, governments and organizations. Hassan Kashkavi, spokesman for the parliamentary National Security and Foreign Policy Committee, said existing laws cover espionage but left a legal gap on anti-infiltration measures; the new law is intended to close that gap."
+    },
+    {
+      "id": "mkt:01a00d88-da91-7aab-9054-1fab2cd6d5ae",
+      "time": "2026-08-17 10:24:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【Trading licenses roll out; Indian silver imports resume】India's silver imports have restarted after a new licensing regime caused earlier disruption, with some traders and banks obtaining permits subject to special import conditions. Traders imported about 89.81 tonnes of silver via the India International Gold and Silver Exchange in August after six consecutive months without imports. Metals Focus chief advisor Harshal Barot said supply has 'definitely improved' versus July and estimated roughly 400 tonnes of import licences have been approved. Increased supply has narrowed the domestic premium to international prices, though the 30-day average premium remained around $4/oz as of last Friday."
+    },
+    {
+      "id": "5043282",
+      "time": "2026-08-17 10:23:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【週末僅5艘船透過 霍爾木茲通行量大幅放緩】週一公佈的資料顯示，在更多油輪遇襲事件發生後，上週末霍爾木茲海峽的航運大幅放緩，與此同時，旨在化解中東衝突的美伊談判仍陷入僵局。船舶追蹤機構Kpler的資料顯示，上週六僅有5艘大宗商品船舶透過該海峽，上週日未監測到任何通行船舶；而此前一個週末的船舶通行量為31艘。Kpler資料顯示，上週六駛入海峽的船舶中，包括一艘關閉了自動識別系統（AIS）的空載超大型油輪，以及一艘走伊朗一側航道的印度籍超大型液化氣運輸船。資料還顯示，一艘裝載伊朗燃料油的小型油輪駛出了海峽。"
+    },
     {
       "id": "mkt:01a00d87-9002-7aab-9054-168f1c635a05",
       "time": "2026-08-17 10:23:02",
