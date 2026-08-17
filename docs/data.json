@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-18 07:44:24",
-  "count": 15195,
+  "updated": "2026-08-18 07:48:21",
+  "count": 15196,
   "items": [
+    {
+      "id": "5044848",
+      "time": "2026-08-18 07:47:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲2.5個基點，至2.945%。"
+    },
+    {
+      "id": "5044847",
+      "time": "2026-08-18 07:47:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：新食品原料從“概念驗證”走向“產業替代”】華泰證券研報指出，政策紅利、技術突破與需求拉動共振，新食品原料正從邊緣創新走向產業主流。據植提橋，20年至26H1末，國家衛健委已累計批准68種新食品原料，數量較上一階段增長47.8%；25年全年批准15種，創近年新高，受理申報達53種、同比+77%；26H1已有12種新食品原料獲批，預計全年將超20種。審批提速的背後，是“健康中國2030”戰略深入推進與合成生物學技術快速突破的雙重驅動。新食品原料的競爭邏輯已從“誰先申報”升級為“誰的工藝更硬”，微生物發酵、精準生物合成等技術的成熟，使過去難以規模化生產的原料具備了商業化條件，產業鏈正從“概念驗證”走向“產業落地”。"
+    },
+    {
+      "id": "5044846",
+      "time": "2026-08-18 07:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓執行長：必和必拓對目前的商品組合感到滿意。"
+    },
+    {
+      "id": "5044845",
+      "time": "2026-08-18 07:46:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤下跌0.22點。"
+    },
+    {
+      "id": "5044844",
+      "time": "2026-08-18 07:46:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌0.4%。"
+    },
+    {
+      "id": "5044843",
+      "time": "2026-08-18 07:45:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：金價今年將觸及7150美元】17日晚，在經歷數月震盪回撥後，國際金價一舉突破4400美元/盎司關口。對於金價的反攻，廣發期貨貴金屬研究員葉倩寧對21世紀經濟報道記者分析稱，由於宏觀與地緣局勢利空逐步落地，資金情緒改善帶動貴金屬價格修復。瑞銀首席投資官Ulrike Hoffmann-Burchardi表示，黃金價格具備支撐，預計黃金價格將在2027年上半年升至每盎司5000美元。通脹或將逐步回落，使美聯儲今年保持利率穩定，並在2027年重新啟動寬鬆政策。ICBC Standard Bank大宗商品策略師Julia Du甚至預計，金價今年將觸及7150美元/盎司，全年均價目標為6050美元/盎司。 （中新經緯）"
+    },
     {
       "id": "mkt:01a0121c-1e0d-7aab-906a-82233ef026f8",
       "time": "2026-08-18 07:43:47",
@@ -139185,57 +139238,6 @@
         "其他"
       ],
       "text": "【多瑙河水位回升 匈牙利保克什核電站逐步恢復供電】匈牙利保克什核電站10日說，多瑙河水位近日緩慢回升、冷卻水條件改善，該核電站當晚開始逐步恢復供電。 保克什核電站方面說，該核電站已開始提高2號機組發電功率。(新華社)"
-    },
-    {
-      "id": "5034692",
-      "time": "2026-08-11 07:48:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國上訴法院駁回Meta等科技公司上訴，社媒成癮訴訟繼續推進】美國一家上訴法院週一裁定，允許針對Meta Platforms、Alphabet旗下谷歌、Snap旗下Snapchat等數千起訴訟繼續推進。這些訴訟指控上述公司的產品設計容易令年輕使用者上癮。美國第九巡迴上訴法院駁回了Meta等兩家公司提出的上訴，稱為時過早。這兩家公司尋求推翻下級法院的一項裁定，該裁定要求他們對聯邦法院受理的逾3,000起訴訟應訴。這些公司曾辯稱，1996年《通訊規範法》第230條禁止那些指控其未就平臺成癮性向公眾發出警示的訴訟。該條款通常保護網路公司免於因使用者釋出的內容而受到相關指控。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608113837007421",
-      "time": "2026-08-11 07:47:21",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行“十五五”改革發展規劃出爐 加快完善中央銀行制度】記者8月10日獲悉，近日中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》，並配套制定出臺了9份相關細分領域的行動方案。《規劃》以加快建設金融強國為目標，加快完善中央銀行制度，並就“十五五”時期中國人民銀行改革發展重點任務作出部署。"
-    },
-    {
-      "id": "mkt:019fee11-f3ef-7aab-8fe2-03b5a1ebd000",
-      "time": "2026-08-11 07:46:21",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Yemen's Joint Forces on the west coast said Houthi fighters carried out their tenth drone attack on Mocha port."
-    },
-    {
-      "id": "te:markets:574219",
-      "time": "2026-08-11 07:44:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat After Lackluster Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, as persistent uncertainty over a US-Iran deal and expectations for tighter monetary policy weighed on sentiment. In regular trading on Monday, the Dow fell 0.11%, while the S&P 500 and Nasdaq Composite declined 0.06% and 0.32%, respectively. Oil prices rallied sharply as uncertainty surrounding the Middle East conflict continued to weigh on markets, pushing Treasury yields higher and raising concerns that the Federal Reserve may need to raise interest rates soon despite signs of a cooling labor market. Investors now await key inflation data due this week for further clues on the monetary policy outlook. On the corporate front, earnings are due today from Cardinal Health, CoreWeave and Super Micro Computer, among others."
-    },
-    {
-      "id": "5034691",
-      "time": "2026-08-11 07:44:32",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【委內瑞拉代總統會見了美國官員】委內瑞拉代總統德爾西·羅德里格斯在加拉加斯會見了美國財政部和州政府官員。"
     }
   ]
 }
