@@ -1,7 +1,87 @@
 {
   "date": "2026-08-17",
-  "count": 427,
+  "count": 435,
   "items": [
+    {
+      "id": "mkt:01a00d56-b256-7aab-9053-1df9fea2206d",
+      "time": "2026-08-17 09:29:40",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bearish"
+      ],
+      "text": "A-share liquor sector opened lower; Kweichow Moutai down 3.5% at the open, with Luzhou Laojiao, Jinshiyuan, Shanxi Fenjiu and Wuliangye also opening weaker. Kweichow Moutai reported 1H 2026 net profit down 1.95% YoY."
+    },
+    {
+      "id": "mkt:01a00d56-2baa-7aab-9053-10e9bdc4d992",
+      "time": "2026-08-17 09:29:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 10-year government bond yield rose 4.5 bps intraday to 2.920%."
+    },
+    {
+      "id": "5043187",
+      "time": "2026-08-17 09:28:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【白酒板塊低開，貴州茅臺低開3.5%】白酒板塊低開，貴州茅臺低開3.5%，瀘州老窖、今世緣、山西汾酒、五糧液紛紛低開。訊息面上，貴州茅臺釋出2026年上半年財報，報告期內公司營業收入907.03億元，同比增長1.47%；歸母淨利潤445.17億元，同比下降1.95%。"
+    },
+    {
+      "id": "5043186",
+      "time": "2026-08-17 09:28:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升4.5個基點，至2.920%。"
+    },
+    {
+      "id": "5043185",
+      "time": "2026-08-17 09:28:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【知情人士：星驅科技擬“注入”吉利汽車】記者從知情人士方面獲悉，面對行業競爭，吉利方面正初步考慮將星驅科技注入旗下整車上市平臺吉利汽車（0175.HK），為該上市公司提供與行業巨頭抗衡的體系能力的同時，亦希望在資本市場收穫“溢位效應”。 資料顯示，無錫星驅科技有限公司成立於2021年12月，是吉利控股集團旗下專注於高效能電驅動系統研發和製造的子公司，主要產品包括400V和800V電驅動系統，雷霆16合1智慧電驅，為吉利旗下領克、銀河、雷神動力等品牌供貨，並參與全球市場競爭。目前，該公司已完成多輪融資，包括2024年A輪融資、2025年B輪融資及2026年B+輪融資。 (財聯社)"
+    },
+    {
+      "id": "5043184",
+      "time": "2026-08-17 09:27:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2707.00元。"
+    },
+    {
+      "id": "mkt:01a00d54-82fd-7aab-9053-0e2b9d4e7f06",
+      "time": "2026-08-17 09:27:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open on Aug. 17 (Mon), China's Shanghai Composite rose 0.07% to 3,930.10; Shenzhen Composite gained 0.31% to 14,399.20; CSI 300 Index up 0.14% at 4,672.28; ChiNext Index up 0.18% at 3,632.78; STAR 50 Index up 0.23% at 1,721.55."
+    },
+    {
+      "id": "5043183",
+      "time": "2026-08-17 09:26:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "新股N恆興開漲82.52%。"
+    },
     {
       "id": "mkt:01a00d53-774a-7aab-9053-00c15f1c7708",
       "time": "2026-08-17 09:26:08",
