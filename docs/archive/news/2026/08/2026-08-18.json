@@ -1,7 +1,37 @@
 {
   "date": "2026-08-18",
-  "count": 260,
+  "count": 263,
   "items": [
+    {
+      "id": "mkt:01a01176-3382-7aab-9069-9b5d947e0f8d",
+      "time": "2026-08-18 04:42:34",
+      "tags": [
+        "MKT News",
+        "LHX.O",
+        "Impact bullish"
+      ],
+      "text": "NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million."
+    },
+    {
+      "id": "te:markets:575930",
+      "time": "2026-08-18 04:38:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining."
+    },
+    {
+      "id": "mkt:01a01171-74fb-7aab-9069-9588015b23fc",
+      "time": "2026-08-18 04:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE state news agency said the UAE foreign minister spoke by phone with Kuwait’s foreign minister to discuss recent regional developments and measures to bolster security and stability in the Middle East."
+    },
     {
       "id": "te:markets:575929",
       "time": "2026-08-18 04:35:12",

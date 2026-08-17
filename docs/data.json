@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-18 04:35:50",
+  "updated": "2026-08-18 04:43:27",
   "count": 15214,
   "items": [
+    {
+      "id": "mkt:01a01176-3382-7aab-9069-9b5d947e0f8d",
+      "time": "2026-08-18 04:42:34",
+      "tags": [
+        "MKT News",
+        "LHX.O",
+        "Impact bullish"
+      ],
+      "text": "NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million."
+    },
+    {
+      "id": "te:markets:575930",
+      "time": "2026-08-18 04:38:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining."
+    },
+    {
+      "id": "mkt:01a01171-74fb-7aab-9069-9588015b23fc",
+      "time": "2026-08-18 04:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE state news agency said the UAE foreign minister spoke by phone with Kuwait’s foreign minister to discuss recent regional developments and measures to bolster security and stability in the Middle East."
+    },
     {
       "id": "te:markets:575929",
       "time": "2026-08-18 04:35:12",
@@ -139402,31 +139432,6 @@
         "國際"
       ],
       "text": "美國稀土公司盤後下跌5%，此前公佈第二季度業績並宣佈收購計劃。"
-    },
-    {
-      "id": "5034594",
-      "time": "2026-08-11 04:42:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美戰略石油儲備降至3億桶以下 國際油價顯著上漲】國際油價10日顯著上漲，同時美國的戰略石油儲備（SPR）降至3億桶以下，徘徊在20世紀80年代以來的最低水平。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。"
-    },
-    {
-      "id": "mkt:019fed64-c491-7aab-8fe0-f1de4df55135",
-      "time": "2026-08-11 04:37:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fire at Pyeongtaek hazardous-chemicals warehouse storing about 1.91 mln liters】A fire broke out at a single-storey warehouse in Cheongbuk-eup, Pyeongtaek, Gyeonggi Province, South Korea, at about 00:03 on Aug 11. The facility stored Class 4 hazardous chemicals (flammable liquids), estimated at roughly 1.91 mln liters across about 100 different substances. Authorities raised a level-2 emergency response and deployed 56 vehicles and 140 personnel to fight the blaze. No casualties have been confirmed. Officials said they will investigate the cause after the fire is brought under control."
-    },
-    {
-      "id": "5034593",
-      "time": "2026-08-11 04:36:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美以敘達成諒解 敘利亞秘密地點核材料將被轉移】美國、以色列和敘利亞達成諒解，國際原子能機構將從敘利亞一處秘密地點轉移核材料。"
     }
   ]
 }
