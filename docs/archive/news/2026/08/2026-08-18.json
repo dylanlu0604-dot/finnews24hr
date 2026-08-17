@@ -1,7 +1,40 @@
 {
   "date": "2026-08-18",
-  "count": 380,
+  "count": 385,
   "items": [
+    {
+      "id": "mkt:01a0121c-1e0d-7aab-906a-82233ef026f8",
+      "time": "2026-08-18 07:43:47",
+      "tags": [
+        "MKT News",
+        "BHP.AX"
+      ],
+      "text": "BHP CEO: We do not expect the strike at Port Hedland to have any material adverse impact on our results."
+    },
+    {
+      "id": "mkt:01a0121c-1a8c-7aab-906a-793cbc85599a",
+      "time": "2026-08-18 07:43:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BHP CEO said the company intends to remain committed to its metallurgical coal business."
+    },
+    {
+      "id": "5044842",
+      "time": "2026-08-18 07:42:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠譽將英特爾評級展望上調至“穩定”】當地時間8月17日，惠譽確認英特爾長期發行人違約評級及高階無抵押債務評級為“BBB”，短期發行人違約評級及商業票據評級為“F2”，並將評級展望由“負面”調整為“穩定”。惠譽表示，英特爾在技術和產品路線圖執行方面取得進展，運營表現好於預期。英特爾近期完成230億美元股權融資，用於支援提高資本支出以滿足強勁需求，惠譽預計公司將於2027年開始降低淨債務，並在未來約12個月內將EBITDA槓桿率降至2.5倍以下。"
+    },
+    {
+      "id": "5044841",
+      "time": "2026-08-18 07:41:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓執行長：預計黑德蘭港的勞工行動不會對我們的業績造成任何明顯負面影響。"
+    },
     {
       "id": "mkt:01a01218-09ef-7aab-906a-74414373471f",
       "time": "2026-08-18 07:39:20",
@@ -25,6 +58,14 @@
         "Impact bullish"
       ],
       "text": "【Wang Qing: Overnight reverse repos could become PBOC's core short-term liquidity tool】Wang Qing, chief macro analyst at Orient Jincheng, said recent zero 7-day reverse repo operations and the PBOC's use of overnight reverse repos in mid‑August signal more precise control of market rates. He expects market-rate volatility to ease and says overnight reverse repos could gradually supplant 7-day reverse repos as the PBOC's primary short-term liquidity management tool."
+    },
+    {
+      "id": "5044840",
+      "time": "2026-08-18 07:38:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【庫什納稱加沙“非軍事化”程序或在30天內啟動】 據美國媒體17日報道，正在中東訪問的美國總統特朗普的女婿庫什納表示，加沙地帶的“非軍事化”程序可能在30天內啟動。庫什納當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，之後接受美國福克斯新聞頻道採訪時說，“我們可能最快在30天內就能看到進展，希望屆時能開始清除部分武器，並在接下來的60到90天內，能夠填埋部分地道”。他同時威脅道，如果巴勒斯坦伊斯蘭抵抗運動（哈馬斯）未能兌現承諾，“屆時以色列將獲得美國及其他各方更強有力的支援”。（新華社）"
     },
     {
       "id": "5044839",
