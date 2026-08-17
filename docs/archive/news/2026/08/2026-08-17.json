@@ -1,7 +1,65 @@
 {
   "date": "2026-08-17",
-  "count": 1043,
+  "count": 1049,
   "items": [
+    {
+      "id": "5043614",
+      "time": "2026-08-17 14:35:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：MOMENTA-W首次覆蓋給予跑贏行業評級 目標價500港元】中金髮布研報稱，首次覆蓋MOMENTA-W（06880）給予跑贏行業評級，目標價500.00港元，基於2026年分部加總估值法，公司是全球領先的智慧駕駛與物理AI公司。預計公司2026~2027年EPS分別為-2.38元和-1.87元。公司目前交易於14倍2026年P/S，目標價具有86.3%的上行空間。該行看好公司世界模型的強大實力，基於智慧駕駛領域的顯著優勢地位，公司有望拓展至Robovan、Robotaxi和具身智慧等多元物理AI場景，支撐長遠業績增長。"
+    },
+    {
+      "id": "mkt:01a00e6e-2e5b-7aab-9058-1e5fa9e5583e",
+      "time": "2026-08-17 14:34:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BILI.O",
+        "Impact bullish"
+      ],
+      "text": "【Haitong International raises Bilibili PT to $26, keeps Outperform on content edge】Haitong International says China’s Bilibili (BILI.O) has a content-value edge amid fragmented, AI-driven content supply, supporting sustained user growth among mid-to-long-form video platforms and stronger advertising revenue. Haitong raised its PT to $26 from $21, retained an Outperform rating and said Bilibili’s valuation should be rerated. It forecasts adjusted operating profit of RMB 3.086 bln for FY2026, up 26% YoY, with second-quarter adjusted operating profit seen rising about 20%."
+    },
+    {
+      "id": "mkt:01a00e6d-e437-7aab-9058-16a423bf4eaf",
+      "time": "2026-08-17 14:34:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 closed up 506.45 points (+0.74%) at 69,220.25 on Monday, Aug 17."
+    },
+    {
+      "id": "5043613",
+      "time": "2026-08-17 14:34:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶產投母基金、東方證券等新設創投基金 出資額30億元】企查查APP顯示，近日，重慶東證方大創業投資基金合夥企業（有限合夥）成立，出資額30億元，經營範圍為創業投資。企查查股權穿透顯示，該企業由重慶產業投資母基金合夥企業（有限合夥）、東方證券全資子公司上海東方證券資本投資有限公司等共同出資。"
+    },
+    {
+      "id": "5043612",
+      "time": "2026-08-17 14:33:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗農業部長：糧食安全無虞 一切盡在掌控】據伊朗媒體報道，伊朗農業部長表示：“儘管過去數月面臨諸多問題與困難，但糧食安全不存在任何隱患，敵人在這一領域已感到絕望。過去數月民眾未出現恐慌性購買，憑藉過去14個月積累的信譽，以及政府與各權力層級所採取的預案和前瞻性安排，糧食安全將持續穩固。農業部門大部分事務已納入智慧系統並處於全面管控之下，我們之所以斷言糧食安全完備無缺，正是基於對資訊系統的全面掌握，並以此為依據。儘管如此，我們依然承認民眾仍承受了沉重經濟負擔，這源於戰爭、封鎖、物價上漲、保險和運輸成本增加，以及國際市場價格波動等因素。”"
+    },
+    {
+      "id": "mkt:01a00e6c-9733-7aab-9058-0fe0c3852a05",
+      "time": "2026-08-17 14:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran agriculture minister says food security secure, under control】Iran’s agriculture minister said food security faces no risks and is under full control despite recent difficulties. He said there has been no panic buying in recent months and that 14 months of accumulated credibility, government contingency plans and forward arrangements will keep supplies stable. Most agricultural operations have been integrated into smart information systems and are under comprehensive control, a claim he said rests on full command of those systems. He nevertheless acknowledged households continue to bear heavy economic burdens from war, blockade, higher prices, rising insurance and transport costs, and volatility in international markets."
+    },
     {
       "id": "te:economy:575721",
       "time": "2026-08-17 14:31:52",
