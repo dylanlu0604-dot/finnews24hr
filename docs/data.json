@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18 01:35:21",
-  "count": 15264,
+  "updated": "2026-08-18 01:39:21",
+  "count": 15260,
   "items": [
     {
       "id": "mkt:01a010ca-2fae-7aab-9067-53784ba2523a",
@@ -139817,46 +139817,6 @@
         "MKT News"
       ],
       "text": "【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations."
-    },
-    {
-      "id": "te:markets:574188",
-      "time": "2026-08-11 01:38:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline is up by 5% — Gasoline increased 5% to 3.1346 USD/Gal"
-    },
-    {
-      "id": "5034477",
-      "time": "2026-08-11 01:37:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 就人工智慧基礎設施事宜致函得克薩斯州州長，闡述對負責任開發的相關承諾。"
-    },
-    {
-      "id": "5034476",
-      "time": "2026-08-11 01:35:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南非多地遭遇持續強降雪 交通嚴重受阻】南非多地10日持續遭遇強降雪、凍雨和大風天氣，誇祖魯-納塔爾省山區積雪嚴重，部分道路被迫關閉，大量車輛滯留，交通運輸受到影響。南非道路交通管理部門當天警告，未來幾天部分高海拔地區仍將面臨低溫、降雪天氣，民眾非必要請勿前往受影響地區。有關部門已啟動應急響應，開展道路除冰和救援工作。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019fecbe-6f52-7aab-8fde-6a49ec0bef0a",
-      "time": "2026-08-11 01:35:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude rose 6.0% intraday to $80.93/bbl."
     }
   ]
 }
