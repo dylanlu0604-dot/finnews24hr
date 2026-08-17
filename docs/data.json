@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-17 08:29:36",
-  "count": 15192,
+  "updated": "2026-08-17 08:33:27",
+  "count": 15200,
   "items": [
+    {
+      "id": "5043097",
+      "time": "2026-08-17 08:32:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4450美元/盎司，日內漲0.29%。"
+    },
+    {
+      "id": "5043096",
+      "time": "2026-08-17 08:32:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【考慮與金正恩關係，特朗普要求大幅縮減美韓軍演規模】美國總統特朗普16日說，已要求國防部大幅縮減美國與韓國的聯合軍演規模。特朗普在社交媒體發文說，這些軍演“耗資巨大”，其中很大一部分由美國負擔，同時對朝鮮釋放出“完全不恰當和敵對的訊號”。特朗普表示，考慮到他與朝鮮領導人金正恩有著“非常良好的關係”，他對於“美國很久以前同意參加與韓國的聯合軍演感到不滿”。他說，鑑於現在取消軍演已經為時過晚，他已經指示國防部“大幅縮減”美韓聯合軍演規模。特朗普在帖文最後指出，他最近要求韓國與美國一起推動“伊朗無核化”，但遭到韓方拒絕。（新華社）"
+    },
+    {
+      "id": "mkt:01a00d21-ef5c-7aab-9051-ffe1d8dc779e",
+      "time": "2026-08-17 08:32:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Weiling Medical raises over RMB100 million】Medical brain–machine interface developer Weiling Medical has closed a financing round of more than RMB100 million led by Junzhong Capital, with Innotech as the fund’s core industrial investor. Proceeds will be used to advance clinical validation of implantable BMI core products, speed medical-device registration, expand manufacturing capacity and broaden clinical applications in neurofunctional rehabilitation."
+    },
+    {
+      "id": "5043095",
+      "time": "2026-08-17 08:31:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，電影 《流浪地球3（上）》淘票票想看人數已突破25萬。影片已定檔2027大年初一。"
+    },
+    {
+      "id": "5043094",
+      "time": "2026-08-17 08:31:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS : 2026-08-14 人民幣匯率指數按周漲 0.09 至 102.12。"
+    },
+    {
+      "id": "mkt:01a00d21-72a0-7aab-9051-f23f193276d4",
+      "time": "2026-08-17 08:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 2-year government bond yield rose 1.5 bps to 1.665%; 5-year yield rose 2.0 bps to 2.155%."
+    },
+    {
+      "id": "5043093",
+      "time": "2026-08-17 08:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新加坡7月非石油出口同比增長24.2%】新加坡7月非石油出口同比增長24.2%，市場預期為增長26.50%。新加坡7月電子產品出口同比增長112%。"
+    },
+    {
+      "id": "mkt:01a00d20-c9b5-7aab-9051-ea462233c304",
+      "time": "2026-08-17 08:30:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,390/oz, up 0.33% on the day."
+    },
+    {
+      "id": "mkt:01a00d20-86e1-7aab-9051-e0b91e8fed20",
+      "time": "2026-08-17 08:30:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore July electronics exports rose 112.0% YoY."
+    },
     {
       "id": "5043092",
       "time": "2026-08-17 08:28:56",
@@ -138869,14 +138948,6 @@
         "國際"
       ],
       "text": "【金價持平 關注美國7月就業人數】亞洲交易時段金價企穩。蘇克敦金融在一份報告中表示，美國7月份就業人數報告促使投資者反映勞動力市場走弱的預期，這令美元承壓，同時對貴金屬構成支撐。蘇克敦金融表示，金價早些時候向每盎司4,355美元反彈，並保持在先前的4,300美元區間上方，這表明買家仍樂於增加對該金屬的敞口。該機構補充稱，儘管如此，美國10年期債券收益率反彈至4.7%附近意味著，如果利率繼續回升，市場可能更容易受到獲利回吐的影響。現貨黃金持平，報每盎司4,339.60美元。"
-    },
-    {
-      "id": "5032827",
-      "time": "2026-08-10 08:30:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFETS： 人民幣匯率指數按周跌 0.16 至 102.03。"
     }
   ]
 }
