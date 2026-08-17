@@ -1,7 +1,48 @@
 {
   "date": "2026-08-18",
-  "count": 376,
+  "count": 380,
   "items": [
+    {
+      "id": "mkt:01a01218-09ef-7aab-906a-74414373471f",
+      "time": "2026-08-18 07:39:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Kushner says Gaza 'demilitarization' process could start within 30 days】Jared Kushner, after meeting Israeli Prime Minister Netanyahu in Jerusalem, told Fox News he expects a Gaza demilitarization process could begin within 30 days, with partial weapons removal immediately and tunnel removal/burial over the following 60–90 days. He warned that if Hamas fails to meet commitments, the U.S. and other parties would provide stronger support to Israel. Kushner said the U.S. will not permit Gaza reconstruction before demilitarization and would not restrict Israeli self‑defense if faced with an imminent threat."
+    },
+    {
+      "id": "mkt:01a01217-7c75-7aab-906a-6bda5baa7133",
+      "time": "2026-08-18 07:38:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Wang Qing: Overnight reverse repos could become PBOC's core short-term liquidity tool】Wang Qing, chief macro analyst at Orient Jincheng, said recent zero 7-day reverse repo operations and the PBOC's use of overnight reverse repos in mid‑August signal more precise control of market rates. He expects market-rate volatility to ease and says overnight reverse repos could gradually supplant 7-day reverse repos as the PBOC's primary short-term liquidity management tool."
+    },
+    {
+      "id": "5044839",
+      "time": "2026-08-18 07:37:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【我國量子技術國際標準領域有新進展】作為未來產業，量子科技正處於從實驗室走向產業化的關鍵視窗期，量子通訊、量子計算、量子精密測量等技術發展迅速。記者8月17日從市場監管總局獲悉：在國際標準組織量子技術聯合技術委員會（IEC/ISO JTC3）第五次全體會議期間，我國牽頭的多項量子技術國際標準提案取得積極進展。 由我國牽頭的《量子熵源隨機性質量和測試方法學的概述和分析》國際標準提案正式獲批立項，標誌著我國在量子核心器件國際標準制定中邁出重要一步。由我國與美國、加拿大聯合牽頭的《單光子器件表徵的度量標準調查及潛在推薦測量實踐》國際標準提案也獲批立項，該標準將梳理單光子探測器領域標準研製優先順序，引領本領域後續國際標準化工作。我國牽頭的《量子經典融合計算》等兩項國際標準預研課題也透過立項，將助力量子計算領域的國際標準化探索與體系完善。 深度參與國際標準制定，有助於打通技術壁壘、加速創新成果大規模應用，也將為世界量子技術產業高質量發展持續貢獻中國智慧。目前，國際標準化組織（ISO）和國際電工委員會（IEC）已釋出的3項量子技術國際標準均由我國牽頭制定，還有5項國際標準正在牽頭研製中。（人民日報）"
+    },
+    {
+      "id": "5044838",
+      "time": "2026-08-18 07:36:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【具身大模型榜單數量已超20個 業內公認的權威標準尚未形成】“拿下具身世界模型第一”“登頂具身智慧榜單”“具身大模型登頂國際評測公開排行榜”……搜尋最近的具身大模型新聞，滿屏的“第一”和“登頂”躍入眼簾。在這個資本最密集的賽道，榜單已經變得不夠用了。當幾乎所有頭部公司都手握至少一個“第一”時，這些榜單究竟在衡量什麼？記者調研發現，當前具身大模型榜單數量已超20個，但業內公認的權威標準尚未形成。模擬榜單刷分容易、真機測試成本高昂、榜單性質混雜——“第一”的含金量千差萬別。（證券時報）"
+    },
     {
       "id": "5044837",
       "time": "2026-08-18 07:34:25",
