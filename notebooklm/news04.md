@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 02:00:35_
-_本檔包含 3017 則快訊，約 605843 字_
+_更新時間：2026-08-18 02:52:02_
+_本檔包含 3025 則快訊，約 605080 字_
+
+---
+
+### 2026-08-13 11:15:17  #MKT News
+
+Iraq's prime minister said Baghdad will not tolerate any party violating Iraqi airspace or taking actions that threaten national security.
+
+---
+
+### 2026-08-13 11:13:55  #MKT News
+
+【South Korea raises household-debt growth cap, pledges 230,000 new homes in Seoul metro】South Korea has raised the cap on household-debt growth and pledged to supply more than 230,000 homes in the Seoul metropolitan area, including 100,000 units in newly designated zones. The addition sits atop an existing target of 1.35 mln housing starts in the Seoul metro for 2026-2030 and further intensifies supply-side measures first announced in September, after a prolonged construction-sector slowdown tightened new-home supply, contributed to rising prices and worsened affordability for younger households.
+
+---
+
+### 2026-08-13 11:13:08  #其他
+
+伊拉克總理表示，該國不會容忍任何違反其領空的行徑或來自任何一方的對國家安全的威脅。
+
+---
+
+### 2026-08-13 11:12:47  #宏觀
+
+【我國碧水保衛戰將努力推動解決群眾身邊“煩心事”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”期間，我國碧水保衛戰將主動靠前、多措並舉，努力推動解決群眾身邊“煩心事”。會上介紹，近年來，我國大江大河水質持續向好，長江、黃河干流連續多年保持Ⅱ類水質，成效明顯，但水生態環境保護依然存在薄弱環節：有的地方“幹流好、支流差”，有的地方“平時好、汛期差”，還有的地方，老百姓“房前屋後”“田邊道旁”的水汙染問題依然突出。根據國務院辦公廳轉發的《群眾身邊水體保護治理行動方案》，今後將更加聚焦群眾身邊水體，解決群眾“家門口”的突出水生態環境問題。首先，擴面提質治理重點。其次，加力推進控源截汙。再次，持續深化監測監管。特別重要的是，主動回應群眾關切。一方面，透過全國生態環境投訴舉報平臺接受舉報，2025年共受理並辦結水汙染投訴1.4萬餘件。另一方面，主動運用衛星遙感、大資料篩查等手段廣泛收集問題線索，建立排查、移交、核查、整改、銷號的閉環工作機制。生態環境部將繼續堅持環保為民，深入推進群眾身邊水體治理，力爭到2030年，基本實現“三無”，即無異色、無異味、無異物，讓老百姓更多感受到水環境的治理成效。
+
+---
+
+### 2026-08-13 11:11:55  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量2107億元。
+
+---
+
+### 2026-08-13 11:11:15  #MKT News
+
+Indonesia Stock Exchange CEO said MSCI's rebalancing is a routine measure and the bourse will continue to engage with MSCI.
+
+---
+
+### 2026-08-13 11:10:53  #公司 #國際
+
+印尼證券交易所執行長表示：明晟（MSCI）指數調整是一項週期性措施，印尼證交所將繼續與明晟保持溝通。
+
+---
+
+### 2026-08-13 11:10:49  #Trading Economics #Economy #New Zealand #Inflation Expectations #Importance 1
+
+New Zealand 2-Year Inflation Outlook Falls to 2.34% — The Reserve Bank of New Zealand’s (RBNZ) quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, down from 2.53% in the previous period, marking the lowest reading since Q4 2025. Meanwhile, one-year inflation expectations also moderated to 2.60%, down from 3.41% in Q1. Conversely, longer-term expectations accelerated, with five-year inflation forecasts rising to 2.31% from 2.22%, while ten-year expectations edged up to 2.20% from 2.19%. In terms of monetary policy, respondents expect the Official Cash Rate (OCR) to rise to 2.73% from 2.34% by the end of the September quarter and further to 3.21% over the next year. The survey was conducted after the RBNZ’s monetary policy decision in May 2026.
+
+---
+
+### 2026-08-13 11:10:19  #國際
+
+印尼計劃於 8 月 13 日開展政府債券債務置換操作。
+
+---
+
+### 2026-08-13 11:09:44  #MKT News #CSCO.O #Impact bullish
+
+Melius Research raises Cisco (CSCO.O) PT to $160 from $145.
+
+---
+
+### 2026-08-13 11:08:16  #宏觀
+
+【一年來我國已累計清理處置6000多萬噸固體廢物】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，自去年6月啟動全國非法傾倒處置固體廢物專項整治行動以來，我國已累計排查發現問題5.6萬多個，完成整改4.5萬多個，清理處置各類固體廢物6000多萬噸，一大批存量汙染問題得到有效整治。
+
+---
+
+### 2026-08-13 11:06:21  #市場 #焦點
+
+南向資金淨買入額達40億港元。
+
+---
+
+### 2026-08-13 11:05:35  #MKT News #WTI #Impact bearish #Brent
+
+【Industry group expects fifth domestic refined fuel price cut this year】China’s fuel-price adjustment window opens at 00:00 on Aug. 15. Industry consultancy Longzhong Information says international crude weakened over the cycle, prompting a domestic refined-fuel cut of about 0.15 yuan/liter, expected to be the fifth reduction this year. Filling a 70‑liter tank would save roughly 11 yuan.
+
+---
+
+### 2026-08-13 11:03:56  #其他
+
+【機構預測成品油價格將迎年內第五次下調】8月14日24時（本週六零點），成品油調價視窗將再度開啟。記者從行業機構隆眾資訊獲悉，因週期內國際原油價格震盪下行，屆時國內成品油下調幅度在0.15元/升左右，預計將迎年內第五次下調。以70升的油箱來計算，私家車主加滿一箱油將少花11元左右。（第一財經）
+
+---
+
+### 2026-08-13 11:03:52  #宏觀 #公司
+
+【四川核能產業將迎建設運“雙高峰”】日前，國務院常務會議決定核准浙江金七門核電二期等4個核電專案共8臺機組。這是繼去年核准5個核電專案後，我國核電行業迎來的又一個大動作。華龍一號具有鮮明的“四川基因”，四川在研發設計、裝備製造等方面均有深度參與。 先看研發設計端，華龍一號的“心臟”——反應堆及一回路系統，由位於成都的中國核動力研究設計院研發設計。再看裝備製造端，也有不少“四川身影”。在德陽，國機重灌二重灌備已實現核主泵泵殼國產化，為華龍一號披上“超級合金盔甲”，當前正聚焦華龍一號2.0版，瞄準主裝置融合、技術檔案審查、國內標準應用等方向持續攻堅。東方電氣集團所屬企業深度參與核島和常規島主裝置供貨，包括反應堆冷卻劑泵、汽輪發電機組等。德陽九鼎電氣主要承製常規島部分的汽輪機低壓外缸等大型結構件。 在成都都江堰市，四川華都核裝置製造有限公司是國核心反應堆控制棒驅動機構領域龍頭企業，市場佔有率名列前茅。目前，全國多臺華龍一號機組的控制棒驅動機構由該公司承製。 聚焦核燃料環節，位於宜賓的中核建中核燃料元件有限公司負責CF3燃料元件製造，實現“成都研發設計”與“宜賓生產製造”產業鏈聯動。 此外，創新平臺也將持續發揮支撐作用。位於成都的先進核能裝備中試研發平臺，是連線研發與量產的“橋樑”。隨著華龍一號2.0版新技術、新材料、新工藝的應用需求增加，該平臺將繼續為高校、科研院所和企業提供關鍵中試驗證服務，助力四川核能產業持續增長。（四川日報）
+
+---
+
+### 2026-08-13 11:03:36  #國際
+
+印尼基準股指跌幅一度達到1.5%，報6281.572點。
+
+---
+
+### 2026-08-13 11:02:56  #公司
+
+【小馬智行在佛山新設科技公司 含智慧機器人研發業務】企查查APP顯示，近日，佛山小馬智行科技有限公司成立，法定代表人為莫璐怡，註冊資本為2000萬元，經營範圍包含新材料技術研發；智慧機器人的研發；人工智慧應用軟體開發；人工智慧硬體銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由小馬智行關聯公司廣州小馬智行科技有限公司全資持股。
+
+---
+
+### 2026-08-13 11:02:47  #其他
+
+【第二屆世界人形機器人運動會將舉行51個專案1301場比賽】第二屆世界人形機器人運動會將於8月22日在國家速滑館“冰絲帶”開幕，本屆運動會由北京市人民政府、中央廣播電視總檯等聯合主辦。△資料圖與首屆運動會相比，第二屆世界人形機器人運動會的競賽專案、參賽隊伍全面提質擴容，本屆運動會正賽將於8月22日至26日在國家速滑館“冰絲帶”舉行，共5天時間。按照賽程安排，將舉行51個專案共1301場比賽。賽期從首屆運動會的3天6個競賽單元增加到5天9個單元，時間由上午和下午調整為下午和晚上，每個單元各3個小時。
+
+---
+
+### 2026-08-13 11:02:32  #央行 #中國央行
+
+【央行連續三日7天期逆回購操作量為零 中期流動性投放成關鍵觀察視窗】自8月11日以來，央行已連續三個交易日7天期逆回購操作量為零。從此前地量操作到連續“零投放”，公開市場操作變化引發債券市場關注。多家機構認為，當前尚不能僅憑7天期逆回購連續零投放判斷貨幣政策取向發生變化，後續中期流動性工具投放規模、大行融出情況以及資金價格走勢，將成為觀察央行流動性管理態度的重要視窗。
+
+---
+
+### 2026-08-13 11:02:18  #宏觀
+
+【“十五五”時期生態環境監測和執法將大力推進數智化轉型】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期，生態環境部圍繞監測、執法，將採取更大力度推進數智化轉型，進一步提升生態環境監管的質效。會上介紹，生態環境部將對大氣、水、海洋等傳統領域，全面實施數智化升級工程，推進國控站點儀器裝置的智慧化更新改造。在大氣方面，將加大人工智慧預測模型應用，升級空氣質量預報平臺，預計到2030年，全國72小時PM2.5超標天預報準確率將提升至80%以上。在水方面，將新建一批自動取樣站，組建海洋無人船編隊，全面革新傳統監測作業模式。在固體廢物、新汙染物等新興領域，將加快新技術、新模式的應用推廣。如利用米級和亞米級衛星開展常態化遙感排查，精準鎖定固廢違法堆放點位。新汙染物監測則依託現有的地表水、海洋等監測站點，同步取樣送樣，以較低成本實現多介質、多指標監測的協同增效。
+
+---
+
+### 2026-08-13 11:01:56  #其他
+
+VINGROUP：票息上限為年利率8%，視市場情況而定。
+
+---
+
+### 2026-08-13 11:01:49  #其他
+
+VINGROUP：預計2026年第三至第四季度發行韓元債券，尚待批准
+
+---
+
+### 2026-08-13 11:01:46  #MKT News
+
+RBNZ survey: New Zealand Q3 two-year average inflation expectations at 2.34%.
+
+---
+
+### 2026-08-13 11:01:32  #公司 #國際
+
+越南企業集團Vingroup計劃面向韓國投資者私募發行規模最高達4550億韓元（合3.214億美元）、以韓元計價的3年期普通債券。
+
+---
+
+### 2026-08-13 11:01:29  #MKT News
+
+RBNZ survey: New Zealand Q3 one-year-ahead average inflation expectations at 2.6%.
+
+---
+
+### 2026-08-13 11:01:19  #市場
+
+【醫藥商業板塊拉昇，藥易購漲超13%】醫藥商業板塊拉昇，藥易購漲超13%，百洋醫藥、人民同泰、華人健康、建發致新、漱玉平民跟漲。
+
+---
+
+### 2026-08-13 11:00:51  #其他
+
+紐西蘭三季度2年通脹預期 2.34%，前值 2.53%。
+
+---
+
+### 2026-08-13 11:00:39  #國際
+
+【中泰警方聯合偵破一起跨國信用卡盜刷案】近日，公安部與泰國皇家警察總署密切協作，同步對一起專門針對中國公民的重大跨國信用卡盜刷案開展收網行動，摧毀多個犯罪窩點，分別抓獲4名中國籍犯罪嫌疑人和5名泰國籍犯罪嫌疑人，取得重大戰果。2025年，公安部經偵局指導協調上海公安經偵部門研判發現一個針對我國公民實施信用卡盜刷的跨國犯罪團伙，並及時將案件情況和協查請求通報泰國警方，開展國際執法合作。經查，2024年，犯罪嫌疑人計某與肖某共謀，由計某在泰國開設果乾店為幌子，以使用銀聯卡消費打折為誘餌，非法獲取受害人信用卡資訊。隨後，由肖某製作偽卡，招募刷手實施盜刷和銷贓牟利。截至目前，已查明涉案金額達500餘萬元人民幣。今年7月初，公安部派工作組赴泰國，與泰警方開展聯合辦案，精準研判該犯罪團伙組織架構、核心骨幹、作案窩點，全面掌握其作案模式和資金流向。近日，兩國警方同步開展收網，實現案件全環節部署、全要素蒐證、全鏈條打擊。公安部有關負責人表示，此次收網系中泰兩國警方近年來在打擊經濟犯罪領域首次同步開展的聯合執法行動，有效震懾了跨國經濟犯罪活動。下步，雙方將持續鞏固本次聯合行動成果，探索建立打擊跨境經濟犯罪常態化協作機制，不斷深化線索共享、經驗互通、聯合研判、追逃追贓等執法合作。
+
+---
+
+### 2026-08-13 11:00:24  #市場
+
+【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%】TrendForce資料顯示，8月13日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.42%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。
+
+---
+
+### 2026-08-13 10:58:49  #公司 #市場
+
+【重大資產重組，股價4天翻倍，藍盾光電回應】8月13日，藍盾光電再度“20CM”一字漲停開盤，實現4連板，自8月10日復牌以來，該股4個交易日累計漲幅已達107.31%，實現翻倍。針對股價持續漲停一事，記者以投資者身份致電藍盾光電，接線工作人員回應，相關事項資訊均以已披露公告為準，本次併購重組尚處於前期階段；若無特殊事項，後續暫無停牌安排，股票正常交易，本次交易對上市公司業績的影響目前無法作出答覆。(21世紀經濟報道)
+
+---
+
+### 2026-08-13 10:58:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yield climbed to around 2.86% on Thursday, reaching its highest level in more than a month as markets assessed the likelihood of a Bank of Japan interest rate hike in September after a growing number of policymakers called for a stronger response to mounting inflation pressures. Meanwhile, producer prices in Japan continued to rise at an elevated pace in July, keeping cost pressures on companies high. Producer inflation rose 7.2% in July, easing slightly from 7.3% in June, which was the highest level since March 2023. The BOJ recently attributed the rise in producer prices partly to higher oil costs following the Middle East conflict, along with increases in nonferrous metal and machinery prices amid stronger global demand linked to the artificial intelligence boom. Tight labor market conditions have also continued to drive wage pressures as companies compete to attract and retain workers.
+
+---
+
+### 2026-08-13 10:58:33  #Trading Economics #Markets #Commodity #Importance 1
+
+Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects.
 
 ---
 
@@ -18064,149 +18256,5 @@ Spot gold rose above $4,380/oz, up 0.28% on the day.
 ### 2026-08-12 08:20:12  #市場 #焦點
 
 現貨黃金突破4380美元/盎司，日內漲0.28%。
-
----
-
-### 2026-08-12 08:19:42  #市場 #國際
-
-【日經指數持平 受能源和金融股支撐】日本日經指數持平於66988.82點，金融和能源股的上漲幫助抵消了電子和醫藥股下跌的影響。Resona Holdings上漲2.8%，國際石油開發帝石株式會社上漲3.9%，而歐姆龍下跌3.1%，第一三共下跌2.2%。美元報159.20日元，而美東時間週二下午5點為159.28日元。投資者正關注伊朗衝突的進展以及原油價格。
-
----
-
-### 2026-08-12 08:19:26  #公司
-
-【劉小濤會見哈電集團董事長黃偉】據新華日報，8月10日，江蘇省省長劉小濤會見哈爾濱電氣集團有限公司董事長黃偉一行，並共同見證鎮江市與哈電集團簽署戰略合作協議。劉小濤說，江蘇正深入推進製造業智慧化、綠色化、融合化發展，大力實施“人工智慧+製造”，加快經濟社會發展全面綠色轉型，與哈電集團深化合作空間廣闊。希望以此次簽約為契機，聚焦高階裝備製造、新能源等領域攜手拓展產業佈局，共同推進關鍵核心技術攻關，積極搭建電力裝備產業鏈供應鏈合作平臺，打造央地合作新標杆。我們將持續最佳化營商環境，全力保障企業在蘇更好發展。黃偉表示，哈電集團將緊扣國家重大戰略，圍繞江蘇發展需要，積極推動科技創新和產業創新深度融合，不斷深化央地合作，共同促進裝備製造業高質量發展，為保障國家能源安全作出積極貢獻。
-
----
-
-### 2026-08-12 08:18:46  #公司 #市場 #觀點 #國際
-
-【美國當前財報季出現反常態勢 科技巨頭取代小盤股成波動主力】期權分析服務商ORATS的資料顯示，本財報季中，人工智慧(AI)熱潮推動的超大規模雲服務商股價在財報釋出後出現了比往常更大的波動，這打破了以往小型公司財報通常引發更大幅度股價波動的歷史規律。財報季的前幾周通常由市場龍頭企業主導，包括摩根大通和富國銀行等金融巨頭、率先發布財報的道瓊斯藍籌股，以及蘋果、微軟、Alphabet和Meta等超大市值科技巨頭。指數中的中小型公司則在後幾周成為市場焦點。但這次情況有所不同。“最近幾周，小型公司財報引發的波動較為平淡——與前幾周形成鮮明對比，當時超大規模雲服務商的財報引發了比往常更大的股價波動，”ORATS創始人Matt Amberson表示。包括亞馬遜、微軟、谷歌和Meta在內的一些超大規模科技公司，在財報釋出後股價出現大幅波動，超過了各自過去幾個季度的平均波動幅度，因為投資者基於AI資本支出是否產生回報的跡象，而積極買入或拋售股票。
-
----
-
-### 2026-08-12 08:17:35  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI rose 2.00% intraday; Samsung Electronics gained 4.0%, SK Hynix up 2.0%.
-
----
-
-### 2026-08-12 08:17:28  #國際
-
-美國國家颶風中心稱，百慕大附近未來48小時內形成氣旋的可能性為40%。
-
----
-
-### 2026-08-12 08:17:00  #市場 #國際
-
-韓國綜合股價指數上漲2％，三星電子漲4%，SK海力士漲2%。
-
----
-
-### 2026-08-12 08:16:54  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Al Arabiya TV, citing sources, reported a drone attacked Libya's Zawiya power plant.
-
----
-
-### 2026-08-12 08:15:23  #其他
-
-【航行警告！南海海域實彈射擊】據中國海事局網站訊息，珠海海事局釋出航行警告，8月12日和14日每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-08-12 08:14:10  #公司 #觀點
-
-【中信證券：AI重塑遊戲行業 重點推薦具備AI UGC平臺性機遇的公司】中信證券研報表示，2025年以來，生成式AI持續降低遊戲研發門檻，推動內容生產從“人力密集”走向“智慧增強”，行業供給側由此迎來顯著擴容。但市場並未因此線性進入“百花齊放”的價值兌現階段，相反，玩家注意力、產品差異化與長線運營能力變得更加稀缺。中信證券認為，AI不會簡單攤薄遊戲行業的價值，反而將推動行業價值錨點從“能否生產內容”轉向“能否持續創造精品、獲取流量並完成商業化兌現”。遊戲行業正在從“產能約束”時代，走向“稀缺性重估”時代，其中頭部公司最為受益。中信證券判斷，AI在遊戲產業鏈的價值釋放主要分為兩個階段：短期，AI進入頭部廠商研發管線，提升長青產品維護、高規格新品開發和全球化試錯能力；中長期，隨著模型能力提升、Token成本下降和平臺基礎設施完善，AI有望透過AI UGC擴大內容供給、透過AI Native創造新型體驗，進一步擴大市場規模。重點推薦全鏈路工業化能力領先的頭部公司，具備AI UGC平臺性機遇的公司，並建議關注具備內容平臺基礎的企業。
-
----
-
-### 2026-08-12 08:14:00  #市場 #國際
-
-【韓國股市有望連續第三個交易日上漲】週三，韓國股市開盤走高，受週二晚間Super Micro和CoreWeave股價飆升提振，市場情緒改善。如果韓國綜合股價指數（KOSPI）能夠守住早盤漲幅，那麼它將迎來自7月23日以來的首次三連漲。
-
----
-
-### 2026-08-12 08:11:18  #觀點 #國際
-
-【中信證券：弱復甦延續，硬奢品類表現亮眼】中信證券研報表示，歐洲奢侈品板塊2Q26整體行業經營表現環比改善，但受外部宏觀環境擾動，板塊情緒與估值中樞仍繼續承壓（2026YTD LVMH/愛馬仕/開雲/歷峰股價分別-25%/-27%/-5%/+15%）。分品類看，2Q26具備高價效比感知的珠寶品類延續行業最強增長表現，歷峰珠寶業務收入固定匯率下（下同）同比增長24%；皮具及成衣品類邊際企穩，但品牌表現差異顯著。分地區看，美國、日本及韓國驅動需求改善，中國市場延續弱復甦，歐洲旅遊消費表現分化。我們認為行業整體壓力仍存，我們延續此前對於板塊的觀點：儘管當前行業弱復甦延續，但我們認為行業仍行於迷霧之中：1）新創意週期已開啟，但我們認為板塊仍為存量競爭，部分品牌的復興將以犧牲其他品牌的市場份額為代價、2）入門級消費者消費力的釋放仍存在不確定性、3）中國市場全面復甦的時間節點亦不明確，我們判斷奢侈品行業過去長期5-6% CAGR帶來的板塊估值溢價面臨新的考驗。
-
----
-
-### 2026-08-12 08:10:49  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steadies Ahead of US CPI Report — Gold steadied around $4,370 an ounce on Wednesday following a volatile start to the week, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, gold continued to draw support from investment demand and central bank purchases, particularly from China. China’s central bank added about 20 tons to its reserves in July after buying around 15 tons in June, marking the largest monthly increase since October 2023.
-
----
-
-### 2026-08-12 08:10:40  #公司 #市場 #觀點
-
-【中金：建議繼續超配黃金】中金公司研報表示，隨著全球流動性更加寬鬆，實際利率與美元的上行壓力減輕，黃金或重新獲得流動性和貨幣體系多元化的雙重支撐。中金認為黃金牛市尚未結束，前期調整後重新增配的視窗已經開啟，建議繼續超配黃金。
-
----
-
-### 2026-08-12 08:10:09  #MKT News #AXJO.AX #Impact bearish
-
-Australia's S&P/ASX 200 opened down 46.7 points, or 0.50%, at 9,203.90 on Aug. 12 (Wednesday).
-
----
-
-### 2026-08-12 08:09:15  #觀點 #國際
-
-【中信證券：全球市場量化動量退潮、低估值修復，但反轉尚未明確】中信證券研報表示，2026年7月，前期由AI硬體驅動的跨市場強勢行情出現高位分化，大中華、韓國等市場的醫藥、消費、房地產等行業出現修復，但未形成跨市場一致性行情；風格角度看，各主要股票市場均出現動量顯著退潮、低估值修復的現象。我們認為7月市場表現是因為前期由AI硬體推動的趨勢交易集中降溫，資金轉向估值較低、前期漲幅有限的標的。考慮到AI產業仍處於高景氣度階段，且未形成科技硬體外的其它一致性主線行情，我們認為尚不足以確認中長期行業和風格趨勢發生反轉。
-
----
-
-### 2026-08-12 08:08:18  #MKT News #Commodities #Industrial Metals
-
-【CITIC Securities: Rare-earth prices likely to remain steady-to-firm near term】CITIC Securities research note, citing CUSTOMS data: July rare-earth exports 4,223.5 t, down 29.54% YoY and 17.26% MoM, the lowest monthly level since March; Jan–Jul cumulative exports 34,706.3 t, down 10% YoY. Average export price $12.34/kg, up 103.14% YoY, as export mix shifts toward higher-value medium/heavy rare-earths and overseas buyers accept pricier feedstock. Supply-side tightness persists—no new incremental supply, separation plants running stably, and previously idled producers have no restart plans—while downstream rigid demand and positive long-term demand expectations support prices. Near-term outlook: prices steady-to-firm.
-
----
-
-### 2026-08-12 08:07:59  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
-
-【CITIC Securities: Storage sector remains highly buoyant; monitor LTA progress and shareholder returns】CITIC Securities said the June–July pullback in major global storage stocks reflected market unwinding after peak price momentum rather than weak earnings. Q2 results broadly met expectations; product prices remain in an upcycle and AI is raising data-center revenue share. While price increases are moderating, the report sees the industry in structural undersupply through 2027, providing support for chain-wide gross margins and profitability. Suppliers are signing 3–5-year LTAs to lock in large customers; flexible pricing mechanisms and price floors should reduce earnings volatility and lift valuations. The firm favors exposure to HDD, DRAM and NAND and flags LTA progress and shareholder-return signals as key follow-ups.
-
----
-
-### 2026-08-12 08:07:15  #市場 #觀點
-
-【中信建投：預計近期稀土價格穩中偏強】中信建投證券研報稱，據海關總署資料，7月稀土出口量明顯回落，均價上漲。7月稀土出口量4223.5噸，同比下降29.54%，環比下降17.26%，為3月以來的單月最低水平；1—7月累計出口34706.3噸，同比下滑10%。但對應出口均價12.34美元/千克，同比大漲103.14%，出口結構向高價值中重稀土產品傾斜，海外市場接受高價原料，全球稀土供給緊張格局延續。稀土供給端暫無增量，分離企業生產穩定，前期停產企業暫無開工計劃，下游剛需支撐力度尚可，長期需求預期向好。預計近期稀土價格穩中偏強。
-
----
-
-### 2026-08-12 08:07:03  #公司 #觀點
-
-【中信證券：儲存產業保持高景氣度，後續關注LTA進展與股東回報】中信證券研報認為，全球主要儲存公司股價6–7月的回撥並非因為業績疲軟，更多是漲價增速見頂後市場擔憂的集中釋放。總的來看，相關公司Q2業績整體符合預期，產品仍處漲價上行週期，AI驅動資料中心營收佔比持續提升。展望未來，雖然儲存產品的漲價幅度放緩，但考慮到2027年儲存行業仍處於供不應求的狀態，未來對於產業鏈公司的毛利率和盈利能力形成有效支撐。此外，針對市場關注度最高的LTA，可以看到相關公司目前正以3–5年期LTA落地鎖定大客戶需求，靈活定價機制與價格下限也有望降低盈利波動、提升估值。建議關注HDD、DRAM、NAND賽道。
-
----
-
-### 2026-08-12 08:06:44  #國際
-
-美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆  ，在南卡羅來納州美國參議院共和黨提名中晉級決選。
-
----
-
-### 2026-08-12 08:05:55  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Aluminum #WTI #Impact mixed
-
-【China International Capital Co: Commodity divergence to persist; AI infrastructure to support copper and aluminum demand】China International Capital Co research: commodity markets are likely to continue to diverge. AI data centers, power‑grid expansion and energy transition will support copper and aluminum demand. With supply constraints still tight, nonferrous metals combine improved liquidity and AI-driven physical investment; recommend overweight. Oil and other energy commodities retain hedging value but volatility may increase; recommend maintaining positions and avoiding chasing gains.
-
----
-
-### 2026-08-12 08:05:07  #Trading Economics #Economy #Singapore #Current Account #Importance 1
-
-Singapore Current Account Surplus Widens in Q2 — Singapore’s current account surplus increased to SGD 37.08 billion in the second quarter of 2026, up from SGD 30.52 billion in the same period of 2025. The increase came as the goods account surplus surged to SGD 70.39 billion from SGD 60.12 billion a year earlier amid a surge in exports. Also, the services account surplus advanced to SGD 14.33 billion from SGD 12.27 billion. Additionally, the secondary income deficit narrowed to SGD 2.88 billion from SGD 4.00 billion. Meanwhile, the primary income deficit climbed to SGD 44.77 billion from SGD 37.87 billion over the same period. Last year, the country recorded a current account surplus of SGD 131.96 billion, widening slightly from SGD 131.67 billion in 2024.
-
----
-
-### 2026-08-12 08:04:38  #國際
-
-【韓國主權財富基金將加入全球AI及機器人競賽 核能、太空和量子技術也在考慮範圍之內】韓國預計明年將向一隻瞄準AI等戰略性產業的新主權財富基金部署1萬億韓元（7.07億美元）新資金，加入了全球各國政府動員投資並搶佔高科技領域先機的行列。“現在很難給出具體細節，但明年的投資額可能在6000億到逾1萬億韓元之間，”負責創新與增長的韓國副財長Min Kyung-seol週二在接受媒體採訪時表示。他說，最終投資額有可能超過初步預期，具體將取決於確定了哪些目標以及它們的資金需求。他表示，該基金還將瞄準機器人、能源和電池，以及電網等基礎設施。核能、太空和量子技術也在考慮範圍之內。Min說，來自中東、歐洲和北美的主權財富基金和養老基金投資者已經與韓國政府接洽，探討在韓國投資以及與新基金共同投資的可能性。他拒絕透露具體投資者的身份，稱相關討論仍處於早期階段。
-
----
-
-### 2026-08-12 08:04:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
-
-【China International Capital Co recommends continued overweight in gold】China International Capital Co says the two narratives that had pressured gold are unraveling: global liquidity is not in a sustained tightening cycle and de-dollarization remains active. US disinflation and slower growth support a move toward easier policy, while Fed rhetoric looks hawkish but policy actions are effectively dovish; Fed reform could open space for future rate cuts. Dollar balance-sheet reduction would help restore dollar credibility in principle but faces heavy market and political constraints, and structural erosion of dollar credit from high debt, deficits and policy uncertainty is hard to reverse. Global central bank net gold purchases rebounded to 289 tonnes in Q2, up 62% YoY and a Q2 record, signalling entrenched dollar concerns and continued reserve-diversification demand for gold. With looser global liquidity reducing upward pressure on real rates and the dollar, gold should regain support from both liquidity and reserve diversification. The firm judges the gold bull market is intact, the reallocation window after the recent correction is open, and recommends maintaining an overweight in gold.
 
 ---

@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 02:00:35_
-_本檔包含 3075 則快訊，約 606196 字_
+_更新時間：2026-08-18 02:52:02_
+_本檔包含 3058 則快訊，約 604692 字_
+
+---
+
+### 2026-08-16 18:55:22  #其他
+
+【去你的島票房逆跌】據貓眼專業版資料，電影《去你的島》單日票房突破579.19萬，超昨日票房成績，週末票房實現逆跌！截至目前票房已超1.01億。
+
+---
+
+### 2026-08-16 18:53:40  #市場
+
+紫金黃金錶示，2026年全年礦產金產量指引維持不變。
+
+---
+
+### 2026-08-16 18:53:17  #其他
+
+【澳門各界期盼“三五”規劃開創高質量發展新局面】作為引領澳門未來五年經濟社會發展的綱領性檔案，《澳門特別行政區經濟和社會發展第三個五年規劃（2026—2030年）》（以下簡稱“三五”規劃）釋出在即，為澳門立足新起點、搶抓新機遇、實現新突破指明清晰路徑。澳門特區行政長官岑浩輝日前發表署名文章，解讀“三五”規劃核心要義與重點任務，圍繞經濟適度多元、澳琴一體化發展、都市更新、融入和服務國家發展大局四個關鍵方向，描繪“法治澳門、活力澳門、文化澳門、幸福澳門”美好願景，引發澳門社會各界暢談對“三五”規劃的期待與展望。（新華社）
+
+---
+
+### 2026-08-16 18:53:06  #公司 #觀點
+
+【近一週融資資金加碼儲存晶片賽道】近一週（8月7日至13日），A股融資餘額繼續保持穩步回升態勢，為26497.41億元。A股融資資金持續呈現淨買入態勢，金額合計366.23億元。其中，共39股融資淨買入額在3億元以上。江波龍(301308)高居榜首，淨買入額高達12.17億元；次新股C超純排名第二，淨買入額10.33億元；生益科技、兆易創新、勝宏科技、東材科技、國瓷材料緊隨其後，淨買入額均在7億元以上。儲存晶片賽道的兆易創新、普冉股份也獲融資資金淨買入，金額分別為8.77億元、5.23億元。此外，生益科技、勝宏科技、景旺電子、科翔股份等PCB板塊個股，中國巨石、國際復材等電子布概念股，以及銅概念股紫金礦業、洛陽鉬業等，本週也均獲得融資資金青睞。8股融資淨償還額超過3億元。中際旭創、寒武紀、長鑫科技排名前三，對應淨償還額依次為19.30億元、17.71億元、16.05億元。同時，券商板塊的國泰海通、華泰證券；鋰電池板塊的寧德時代、億緯鋰能；稀土板塊的北方稀土等個股也均遭融資資金淨償還。
+
+---
+
+### 2026-08-16 18:49:02  #公司 #觀點
+
+【中信證券：26H1 PCB/CCL業績表現亮眼，看好H2進一步增長趨勢】中信證券釋出研報稱，近期PCB/CCL公司密集釋出業績預告，PCB環節AI高佔比公司維持業績高增，表現亮眼；CCL環節則受漲價拉動，盈利能力加速釋放，業績普遍超預期。展望2026H2，PCB環節，AI新產能釋放、下游AI客戶加速拉貨的增長動能將更為突出，我們看好PCB公司的業績加速增長動能；CCL環節則有望於短期內繼續快速落地漲價，中長期價格維持高位的確定性亦在不斷增強，我們持續看好板塊後續投資機會。
+
+---
+
+### 2026-08-16 18:46:45  #MKT News #Hang Seng Tech Index #Impact bullish #300750.SZ
+
+【CITIC Securities: Hang Seng Tech index overhaul to have material event effect】CITIC Securities notes that on Aug. 10, 2026 Hang Seng Indexes Company consulted on a proposed methodology overhaul for the Hang Seng Tech Index. Key changes: expand thematic coverage by removing the prior industry-classification requirement, revise six tech themes and increase sub-themes from 16 to 24; introduce a grouped selection mechanism and widen the selection universe to constituents of the Hang Seng Composite LargeMidCap Index. Constituents would rise from 30 to 50, with 40 selected by market-cap ranking and 10 by a revenue-growth group. CITIC estimates roughly 10 market-cap names (including CATL) and about 10 revenue-growth names could be added. Estimated passive inflows to newly included stocks total about HKD36.0 bln, split ~HKD28.5 bln to the market-cap group and ~HKD7.5 bln to the revenue-growth group. CITIC calls the adjustment a significant event and recommends focusing on potential inclusions for long candidates while monitoring deletion candidates for downside risk.
+
+---
+
+### 2026-08-16 18:46:37  #其他
+
+中國機腦機器人獲港交所批准上市。
+
+---
+
+### 2026-08-16 18:44:34  #公司
+
+中石化煉化工程（股份代號：2386.HK）表示，將在六個月內以1億至1.5億港元在公開市場回購H股。
+
+---
+
+### 2026-08-16 18:44:15  #國際
+
+印度總理莫迪：感謝內塔尼亞胡總理的溫暖祝願。 願印度-以色列特殊戰略伙伴關係更加牢固，開啟新的機遇，並在我們兩國之間建立更深層次的人民間聯絡。
+
+---
+
+### 2026-08-16 18:42:36  #其他
+
+金斯瑞生物科技<1548.HK>公佈，上半年經調整淨利潤同比增長203.3%，營收同比增長27.3%。
+
+---
+
+### 2026-08-16 18:41:39  #公司 #市場 #觀點
+
+【中信證券：恒生科技指數的調整具有顯著事件效應】中信證券研報稱，2026年8月10日，恒生指數公司就恒生科技指數的編算方法修訂方案徵詢市場意見，本次修訂主要包括兩個方面，其一是擴大主題覆蓋，取消原有行業分類要求，修訂六大科技主題並將子主題由16個擴充套件至24個；其二是引入分組選股機制，將選股範圍調整為恒生綜合大中型股指數成份股，成份股數目由30只增至50只，其中40只由市值組別排名選取，剩餘10只由收入增長組別補充。根據測算，寧德時代、建滔積層板、天數智芯等10只市值組股票或將調入恒生科技指數，晶泰控股、邁富時、滴普科技等10只收入增長組股票同樣有望調入。預計擴容實現後有望為調入個股帶來合計約360億港元被動資金增量，其中市值組和收入增長組分別約為285億港元、75億港元。整體來看，恒生科技指數的調整具有顯著事件效應，建議重點把握可能被納入指數股票的投資機會，同時關注可能被剔除股票的下行風險。
+
+---
+
+### 2026-08-16 18:41:04  #公司 #市場
+
+【紫金黃金國際：上半年礦產金產量同比增長44%至約27.3噸】紫金黃金國際(02259.HK)公告，上半年，受惠於新收購資產全面貢獻及成熟礦山持續最佳化，礦產金產量同比增長44%至約27.3噸；收入及母公司擁有人應占溢利分別同比增長100%及179%，經營活動所得現金流量淨額同比大幅增長331%。
+
+---
+
+### 2026-08-16 18:35:28  #國際
+
+市場訊息：以色列的評估表明，真主黨和哈馬斯正在與伊朗協調下試圖加劇緊張局勢。
+
+---
+
+### 2026-08-16 18:34:12  #國際
+
+美國地質調查局：印度尼西亞魯滕以北 74 公里處發生 5.5 級地震。
+
+---
+
+### 2026-08-16 18:32:40  #MKT News #XAUUSD #Impact bullish #DXY
+
+【Ukraine says it struck major Russian munitions plant; Russia reports nearly 1,500 Ukrainian fixed‑wing drones downed in one day】Ukraine General Staff said on Aug. 16 its forces struck the Kamensky Joint Enterprise in Russia’s Rostov Oblast, a facility in the Russian military‑industrial complex. Ukraine reported a fire at the site and said damage and operational effects are under verification. The plant produces solid rocket propellant for "Hurricane", "Tornado" and "Tornado‑S" MLRS munitions and propellants used in various missile systems and air‑delivered weapons. The Russian Defence Ministry’s 24‑hour combat report on Aug. 16 said Russian forces seized Pershomarievka in Donetsk region and Kudievka in Kharkiv region, and that air defences shot down 14 guided aerial bombs, one US‑made HIMARS rocket, nine "Flamingo" long‑range cruise missiles and 1,478 fixed‑wing UAVs — the highest single‑day tally the ministry has announced.
+
+---
+
+### 2026-08-16 18:32:11  #觀點
+
+【中信證券：產業趨勢仍然向上，節奏有所放緩】中信證券研報稱，將行情劃分為北美AI鏈、對非美市場出海和內需三條業績線索：1）對北美AI鏈而言，經過半個月的修復，漲價鏈條的賠率明顯下降，近期AI敘事上有一些邊際變化，但尚不足以帶動整個板塊重估，還需要耐心等遠期新敘事的出現；2）對非美市場出海而言，中歐貿易爭端在未來一段時間可能會繼續焦灼，壓制不少高階製造板塊估值，同時臨近半年報密集披露期，匯兌損失的影響亦不容小覷；3）對於純內需品種，國產算力景氣相對優勢明顯，但考慮到估值對於遠期敘事的樂觀反映，板塊資金情緒或無法獨立於北美AI鏈。整體而言，不少板塊的產業趨勢仍然向上，但制約估值擴張的因素在增多，上行節奏可能放緩，二季度動輒翻倍的情況在十年維度上都極為罕見，投資者需要回歸合理預期回報。市場機會或將更多體現為具備業績支撐品種的估值修復，後續市場降波的過程也是籌碼結構最佳化、優質資產被重新定價的過程，為中長期行情的延續夯實基礎。
+
+---
+
+### 2026-08-16 18:31:16  #公司
+
+【中石化煉化工程釋出中期業績：股東應占利潤11.37億元 同比減少18%】中石化煉化工程釋出截至2026年6月30日止6個月中期業績，該集團取得收入人民幣356.24億元(單位下同)，同比增加12.7%;本公司權益持有人應占利潤11.37億元，同比減少18%;基本每股盈利0.26元;擬派中期股息每股0.127元。公告稱，收入增加主要是工程總承包業務在執行合同增長所致。
+
+---
+
+### 2026-08-16 18:25:30  #MKT News #Important
+
+【US reportedly bypassed Iranian negotiators to contact IRGC via Nechirvan Barzani】Axios, citing three people, reports mid‑May US envoys seeking an agreement to end hostilities could not verify whether Iranian negotiators represented the Islamic Revolutionary Guard Corps (IRGC). The Trump administration therefore bypassed Iran’s negotiators and opened a secret channel to IRGC leaders through Iraqi Kurdistan president Nechirvan Barzani, who reportedly has the trust of both Washington and IRGC leadership. A memorandum of understanding was reportedly reached but quickly collapsed, underscoring US difficulty in identifying who holds decision authority inside Iran.
+
+---
+
+### 2026-08-16 18:22:22  #其他
+
+【水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至8月17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-08-16 18:20:40  #國際
+
+【美媒：美從西太平洋撤出最後一艘航母】據美聯社8月15日報道，美國總統唐納德·特朗普對伊朗的戰爭正在挑戰美國航空母艦的極限，並使西太平洋沒有一艘這種關鍵的美國軍艦。 在對“亞伯拉罕·林肯”號這艘長期部署的航空母艦上官兵的心理健康和補給問題的擔憂日益加劇之際，“喬治·華盛頓”號航空母艦即將離開太平洋，預計將取代目前在中東的“林肯”號。最初計劃於5月返航的“林肯”號的在航時間已經延長，以支援對伊朗的行動。 如果美國海軍在未來數月部署另一艘航母，那麼，美國在太平洋沒有航母的局面可能是短暫的。但分析人士表示，這表明，在特朗普政府進一步從亞太地區抽身、把重點放在西半球之際，對伊朗的無限期行動已讓一些美國水兵精疲力竭。（參考訊息）
+
+---
+
+### 2026-08-16 18:16:56  #公司
+
+【兆威機電：2026年上半年淨利潤7464.57萬元，同比減少34.10%】兆威機電公告，2026年上半年營業收入8.16億元，同比增長3.80%。淨利潤7464.57萬元，上年同期淨利潤1.13億元，同比減少34.10%。
+
+---
+
+### 2026-08-16 18:11:14  #其他
+
+據燈塔專業版實時資料，截至8月16日18時9分，影片《八仙！》票房突破16億。
+
+---
+
+### 2026-08-16 18:10:40  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Saudi media, citing Yemen’s armed forces, reported strikes on Houthi positions across the contact line. Yemen’s forces said they have the capability and readiness to strike and neutralize Houthi threat sources and that the strikes destroyed dozens of devices and weapons depots.
+
+---
+
+### 2026-08-16 18:09:23  #國際
+
+【俄稱一日擊落近1500架烏無人機】俄羅斯國防部今天（8月16日）釋出24小時戰報稱，俄軍已控制頓涅茨克地區的佩爾紹馬裡耶夫卡和哈爾科夫地區的庫迪耶夫卡兩處居民點。俄防空力量擊落14枚航空制導炸彈、1枚美製“海馬斯”火箭彈、9枚“火烈鳥”遠端巡航導彈和1478架固定翼無人機。據總檯記者瞭解，這是截至目前俄國防部公佈的單日擊落烏無人機數量最高記錄。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 18:08:19  #其他
+
+水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部部分地區發生山洪災害可能性大（橙色預警）。（國家預警釋出）
 
 ---
 
@@ -18311,257 +18461,5 @@ The Philippine president said it is difficult to make a decision now and it is t
 ### 2026-08-14 13:01:42  #MKT News
 
 Philippine president says he has not yet discussed the 2028 election with anyone.
-
----
-
-### 2026-08-14 13:01:29  #國際
-
-菲律賓總統馬科斯：我們一定會在2028年推選出最合適的候選人。
-
----
-
-### 2026-08-14 13:01:11  #MKT News #Important #Star Stocks #JD.com #Market Regions #Greater China #Hang Seng Index #Impact bearish #02618.HK #09618.HK
-
-Hang Seng Index extended afternoon losses, down more than 1%, led by JD Logistics (02618.HK) and JD.com (09618.HK).
-
----
-
-### 2026-08-14 13:00:32  #市場 #焦點
-
-恒生指數跌超1%，現報25138.529點；恒生科技指數現跌1.865%。
-
----
-
-### 2026-08-14 13:00:23  #國際
-
-【印尼269名學生集體食物中毒】據印度尼西亞媒體14日報道，該國北蘇門答臘省卡羅縣13日發生集體食物中毒事件，5所中學的至少269名學生出現中毒症狀並被送醫治療。當地教育部門負責人對媒體表示，一些學生在13日午餐後陸續出現中毒症狀，截至13日晚，已有269名學生被送醫接受治療。目前，所有送醫學生情況穩定，暫無死亡報告。（新華社）
-
----
-
-### 2026-08-14 12:59:52  #國際
-
-菲律賓總統馬科斯：將在2028年總統選舉中公開支援候選人。
-
----
-
-### 2026-08-14 12:59:22  #公司
-
-【京東：七鮮咖啡首家24小時智慧化無人咖啡店將落地北京】8月16日，京東集團旗下現制飲品品牌七鮮咖啡首家24小時智慧化無人咖啡店將正式開業，落地北京市朝陽區銀河SOHO。該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。                                （ 介面新聞 ）
-
----
-
-### 2026-08-14 12:58:56  #MKT News #Market Themes #AI Revolution
-
-Musk: Try Grok 4.6's image and video understanding capabilities; this is a major upgrade.
-
----
-
-### 2026-08-14 12:58:24  #公司
-
-【眾擎機器人等成立科技公司 含智慧無人飛行器製造業務】企查查APP顯示，近日，上海星意擎坤科技有限公司成立，法定代表人為呂學敏，註冊資本為6120萬元，經營範圍包含人工智慧基礎軟體開發；智慧機器人的研發；智慧機器人銷售；工業機器人銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司、上海傲意資訊科技有限公司等共同持股。
-
----
-
-### 2026-08-14 12:57:53  #其他
-
-【多地暴雨 交通運輸部維持強降雨三級防禦響應】中央氣象臺8月14日10時繼續釋出暴雨黃色預警，交通運輸部維持強降雨三級防禦響應。預計，8月14日14時至15日14時，江蘇中南部、安徽南部、上海、浙江、湖北東部、江西北部和東部、福建西部和南部、廣東南部和東部、海南島東北部和西南部、臺灣島南部等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨(100～150毫米)；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。8月14日，交通運輸部點對點排程江蘇省交通運輸廳，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生；切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。
-
----
-
-### 2026-08-14 12:56:44  #公司 #市場 #國際
-
-【印尼總統普拉博沃發表講話 印尼股市攀升至日內高點】印尼總統普拉博沃・蘇比安託在國情諮文演講中談及打擊非法採礦，以及政府核心免費供餐專案的執行效率，受此影響印尼股市走高。雅加達綜合指數早盤下跌 0.6%，隨後最大漲幅一度達 0.7%。基礎材料與能源板塊領漲。國有錫礦企業 PT Timah 公司股價最高上漲 4%。
-
----
-
-### 2026-08-14 12:55:39  #宏觀
-
-【四川出臺城市更新“十五五”規劃】四川省人民政府網站訊息，《四川省城市更新“十五五”規劃》（簡稱《規劃》）已於日前正式印發。《規劃》明確，將實施城鎮危舊房改造約6萬套（間），改造老舊小區8000個，既有住宅加裝電梯1.5萬部；建設改造城市地下管網及附屬設施5.9萬公里以上，實施城中村改造420個；改造老舊街區廠區220個，新改建城市公共停車場約200個、新增公共停車位超9萬個。
-
----
-
-### 2026-08-14 12:54:58  #國際
-
-【7月印度進口原油中俄羅斯佔比飆升至歷史新高】貿易渠道資料顯示，7月印度對俄羅斯原油的依賴度創下歷史紀錄；作為全球第三大石油進口及消費國，印度當月自俄原油進口占總進口量的50.83%，日進口量達247萬桶。資料顯示，印度7月俄羅斯原油進口量同比增長62.4%，但較6月260萬桶/日的歷史高點回落4.8%。今年1月，由於印度正與美方磋商貿易協議，為規避美國加徵關稅，印度煉油企業開始削減俄羅斯原油採購。然而，伊朗衝突造成中東供應中斷，迫使印度煉油商繼續購入俄羅斯原油。不過，美國參議院本月透過法案，擬對俄羅斯原油採購方徵收100%關稅，加大對莫斯科的經濟施壓，印度採購俄原油因此面臨不確定性。美眾議院尚未批准這項法案。
-
----
-
-### 2026-08-14 12:53:12  #MKT News #Important
-
-【2026 annual box office tops 25.0 bln yuan】China's 2026 box office including presales topped 25.0 bln yuan as of Aug 14, according to Lighthouse Pro. Top five by receipts: Fei Chi Ren Sheng 3; Kung Fu Women's Football; A Letter to Grandma; Eight Immortals; Biaoren: Wind Rises in the Desert.
-
----
-
-### 2026-08-14 12:53:01  #公司
-
-【什方科技完成近3億元融資】近日，工業功能塗層數字噴印公司什方科技連續完成兩輪融資。自B輪起至本次B+輪收官，融資總額近3億元。由五源資本、創世夥伴創投、同創偉業及頭部產業戰略投資機構恆旭資本、小米集團、蔚來資本聯合入局，多家老股東同步追加投資。
-
----
-
-### 2026-08-14 12:51:22  #國際
-
-菲律賓總統馬科斯：希望危機過後投資者信心能夠恢復。
-
----
-
-### 2026-08-14 12:50:46  #MKT News
-
-Philippine President MARCOS said the country's economic growth rate was disappointing.
-
----
-
-### 2026-08-14 12:50:20  #國際
-
-菲律賓總統馬科斯：增長率非常令人失望。
-
----
-
-### 2026-08-14 12:49:49  #國際
-
-菲律賓總統馬科斯：我們的措施應該能消除投資者的擔憂。
-
----
-
-### 2026-08-14 12:49:39  #國際
-
-菲律賓總統馬科斯：不會把所有錢都花在捍衛比索上。
-
----
-
-### 2026-08-14 12:48:37  #其他
-
-【2026年度總票房破250億】據燈塔專業版資料，截至8月14日，2026年度大盤票房(含預售)突破250億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《八仙！》《鏢人：風起大漠》暫列年度票房前五名。
-
----
-
-### 2026-08-14 12:48:25  #市場
-
-【鐵礦石期貨暫時反彈走高】鐵礦石期貨在近期回撥後暫時反彈走高。銀河期貨在一份研究報告中表示，下個月價格可能會繼續創下新低。該機構表示，6月份海外鋼鐵需求有所上升，但這種勢頭不太可能持續。該機構補充說，這種鍊鋼原料在第三季度可能無法克服基本面疲軟的影響。大連商品交易所交投最活躍的1月鐵礦石合約上漲0.4%，報每噸712.5元。
-
----
-
-### 2026-08-14 12:47:51  #MKT News
-
-Philippine president says he is working to defend the Philippine peso.
-
----
-
-### 2026-08-14 12:47:36  #國際
-
-菲律賓總統馬科斯：正出手捍衛比索匯率。
-
----
-
-### 2026-08-14 12:46:14  #國際
-
-泰國投資委員會：泰國第二季度實際投資額同比增長31%至2550億泰銖。
-
----
-
-### 2026-08-14 12:45:48  #MKT News
-
-The Philippine president said the government is working to restore stability to the economic system to allow households and businesses to plan.
-
----
-
-### 2026-08-14 12:45:39  #國際
-
-印尼總統普拉博沃結束國情諮文演講。
-
----
-
-### 2026-08-14 12:44:58  #市場 #央行 #國際
-
-【交易員：印度央行可能干預了匯市以支撐盧比】三位交易員表示，印度央行週五很可能在外匯市場進行了干預，因為中東衝突帶來的不確定性導致風險偏好低迷且油價居高不下。受干預行動支撐，盧比 維持穩定，報1美元兌95.40盧比。該匯率成功守住了95.50這一重要心理關口，與本週大部分時間的走勢相似，干預措施有效遏制了盧比的貶值幅度。本週迄今，盧比一直在1美元兌95.17至95.4450的區間內波動。
-
----
-
-### 2026-08-14 12:44:26  #市場 #國際
-
-【黑德蘭港7月份鐵礦石出口量降至4422.5萬噸】據澳大利亞皮爾巴拉港務局（PPA）稱，黑德蘭港7月份的鐵礦石出口量從6月份的5171萬噸下降到4422.5萬噸。6月份對華鐵礦石出口量從4511.2萬噸降至3785.7萬噸。
-
----
-
-### 2026-08-14 12:44:17  #國際
-
-菲律賓總統馬科斯：正努力恢復經濟體系穩定，以便家庭和企業開展規劃。
-
----
-
-### 2026-08-14 12:43:11  #市場
-
-據PPA統計，黑德蘭港7月份鐵礦石出口量降至4422.5萬噸。
-
----
-
-### 2026-08-14 12:42:17  #MKT News #Important #Star Stocks #Apple #Alibaba #Market Themes #AI Revolution #China Tech Giants #Magnificent 7 #Market Regions #Greater China #AAPL.O #Impact bullish
-
-【Apple trains China-specific LLM with Alibaba, shifts from third‑party reliance】Refinitiv, citing three people familiar with the matter, reports Apple (AAPL.O) has trained a China‑specific large language model in partnership with Alibaba, marking a shift from its prior strategy of largely relying on third‑party models to power AI features in China. Apple Intelligence is expected to launch in China in the coming months following an iOS update. Neither company commented.
-
----
-
-### 2026-08-14 12:42:15  #其他
-
-【兩部門對河南啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，8月14日，國家防災減災救災委員會針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應，前期派出的救災工作組繼續在災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等救災救助工作。同日，國家防災減災救災委員會辦公室、應急管理部針對近期持續暴雨洪澇災害導致河南周口、許昌等地險情災情，根據災區群眾避險轉移和安置救助需要，會同國家糧食和物資儲備局調撥摺疊床、褥子、毛毯、夏涼被、夏裝、家庭應急包等3萬件中央救災物資，支援河南做好受災群眾安置救助工作。
-
----
-
-### 2026-08-14 12:41:41  #市場 #國際
-
-5年期日本國債收益率上漲0.5個基點，至2.125%。
-
----
-
-### 2026-08-14 12:41:11  #公司
-
-【傑富瑞上調塔吉特等百貨公司目標價】傑富瑞將塔吉特公司目標價從161美元上調至177美元；將伯靈頓百貨目標價從365美元上調至410美元。
-
----
-
-### 2026-08-14 12:41:06  #MKT News #Macro & Rates #Treasury Yields #Market Regions #USDJPY #Impact bearish
-
-Japan 5-year government bond yield rose 0.5 bps to 2.125%.
-
----
-
-### 2026-08-14 12:41:00  #MKT News
-
-China's National Commission for Disaster Reduction and the Ministry of Emergency Management have activated a national level-4 disaster emergency response, allocated central relief supplies and are guiding and supporting Henan's heavy-rain and flood relief operations.
-
----
-
-### 2026-08-14 12:39:44  #其他
-
-【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。
-
----
-
-### 2026-08-14 12:39:03  #公司
-
-【三一集團、翱捷科技等成立創業投資基金】企查查APP顯示，近日，廣州華胥三期創業投資基金合夥企業（有限合夥）成立，出資額6.27億元，經營範圍包含私募股權投資基金管理、創業投資基金管理服務；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由三一集團有限公司、翱捷科技等共同持股。
-
----
-
-### 2026-08-14 12:38:36  #MKT News
-
-【Goldman trader: market has flipped from fearing rate hikes to 'either outcome is bullish'; complacency rising】Goldman derivatives trader Shawn Tuteja says US equity sentiment reversed in two weeks from fearing the Fed, higher long‑end yields, geopolitics and supply to a 'either outcome is bullish' view on the September FOMC. Market reads a dovish‑leaning hike as stabilising the long end, and no hike as confirmation that strong earnings will broaden gains beyond AI. Client net exposures are at the 67th percentile over the past five years and total exposures at the 89th; SPX single‑day call volume hit a record ~4.0m contracts. Tuteja does not predict a large index decline but warns that when both policy outcomes are pre‑priced as positive, market cushioning against a hawkish surprise or renewed long‑yield upside is reduced, raising complacency risk.
-
----
-
-### 2026-08-14 12:38:13  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Falls to Over 2-Week Low — India’s BSE Sensex fell about 0.4% to 77,772 on Friday, reversing gains in the last session and reaching its lowest level since July 29, as investors remained cautious amid persistent Middle East tensions and elevated crude oil prices. Investor sentiment was also weighed by weakness in financial stocks after the Reserve Bank of India proposed loan-pricing changes that could reduce banks’ pricing flexibility and pressure loan yields and margins. Among individual stocks, Tata Motors Passenger Vehicles was under pressure, falling about 4.7% after the automaker reported an 80% drop in first-quarter profit, hurt by higher costs, foreign-exchange losses and weakness at Jaguar Land Rover. Meanwhile, LG Electronics India climbed about 6.8% after reporting a more than 27% rise in first-quarter profit and retaining its full-year revenue growth target, helped by strong summer demand for air conditioners and refrigerators. The benchmark is on track for a weekly decline of about 0.9%.
-
----
-
-### 2026-08-14 12:37:56  #MKT News #Commodities #Energy
-
-KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were 286,000 tonnes and via Novorossiysk were 360,000 tonnes.
-
----
-
-### 2026-08-14 12:37:41  #Trading Economics #Economy #Malaysia #Current Account #Importance 1
-
-Malaysia Current Account Surplus Widens in Q2 — Malaysia’s current account surplus widened sharply to MYR 10.8 billion in the second quarter of 2026 from MYR 2.7 billion a year earlier, driven primarily by a substantial increase in the goods surplus. The goods surplus more than doubled to MYR 40.7 billion from MYR 16.0 billion a year ago, reflecting stronger external trade performance. Meanwhile, the services deficit rose slightly to MYR 0.7 billion from MYR 0.5 billion, mainly due to higher net outflows in travel, manufacturing services on physical inputs owned by others, and telecommunications, computer and information services, which more than offset increases in transport, insurance and pension services, and other business services. The primary income deficit widened sharply to MYR 27.2 billion from MYR 9.5 billion, as both investment income and compensation of employees recorded larger declines. The secondary income deficit narrowed to MYR 2.1 billion from MYR 3.2 billion.
 
 ---

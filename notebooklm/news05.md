@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 02:00:35_
-_本檔包含 3143 則快訊，約 605085 字_
+_更新時間：2026-08-18 02:52:02_
+_本檔包含 3097 則快訊，約 605183 字_
+
+---
+
+### 2026-08-12 08:19:42  #市場 #國際
+
+【日經指數持平 受能源和金融股支撐】日本日經指數持平於66988.82點，金融和能源股的上漲幫助抵消了電子和醫藥股下跌的影響。Resona Holdings上漲2.8%，國際石油開發帝石株式會社上漲3.9%，而歐姆龍下跌3.1%，第一三共下跌2.2%。美元報159.20日元，而美東時間週二下午5點為159.28日元。投資者正關注伊朗衝突的進展以及原油價格。
+
+---
+
+### 2026-08-12 08:19:26  #公司
+
+【劉小濤會見哈電集團董事長黃偉】據新華日報，8月10日，江蘇省省長劉小濤會見哈爾濱電氣集團有限公司董事長黃偉一行，並共同見證鎮江市與哈電集團簽署戰略合作協議。劉小濤說，江蘇正深入推進製造業智慧化、綠色化、融合化發展，大力實施“人工智慧+製造”，加快經濟社會發展全面綠色轉型，與哈電集團深化合作空間廣闊。希望以此次簽約為契機，聚焦高階裝備製造、新能源等領域攜手拓展產業佈局，共同推進關鍵核心技術攻關，積極搭建電力裝備產業鏈供應鏈合作平臺，打造央地合作新標杆。我們將持續最佳化營商環境，全力保障企業在蘇更好發展。黃偉表示，哈電集團將緊扣國家重大戰略，圍繞江蘇發展需要，積極推動科技創新和產業創新深度融合，不斷深化央地合作，共同促進裝備製造業高質量發展，為保障國家能源安全作出積極貢獻。
+
+---
+
+### 2026-08-12 08:18:46  #公司 #市場 #觀點 #國際
+
+【美國當前財報季出現反常態勢 科技巨頭取代小盤股成波動主力】期權分析服務商ORATS的資料顯示，本財報季中，人工智慧(AI)熱潮推動的超大規模雲服務商股價在財報釋出後出現了比往常更大的波動，這打破了以往小型公司財報通常引發更大幅度股價波動的歷史規律。財報季的前幾周通常由市場龍頭企業主導，包括摩根大通和富國銀行等金融巨頭、率先發布財報的道瓊斯藍籌股，以及蘋果、微軟、Alphabet和Meta等超大市值科技巨頭。指數中的中小型公司則在後幾周成為市場焦點。但這次情況有所不同。“最近幾周，小型公司財報引發的波動較為平淡——與前幾周形成鮮明對比，當時超大規模雲服務商的財報引發了比往常更大的股價波動，”ORATS創始人Matt Amberson表示。包括亞馬遜、微軟、谷歌和Meta在內的一些超大規模科技公司，在財報釋出後股價出現大幅波動，超過了各自過去幾個季度的平均波動幅度，因為投資者基於AI資本支出是否產生回報的跡象，而積極買入或拋售股票。
+
+---
+
+### 2026-08-12 08:17:35  #MKT News #Important #005930.KS #Impact bullish #000660.KS
+
+South Korea's KOSPI rose 2.00% intraday; Samsung Electronics gained 4.0%, SK Hynix up 2.0%.
+
+---
+
+### 2026-08-12 08:17:28  #國際
+
+美國國家颶風中心稱，百慕大附近未來48小時內形成氣旋的可能性為40%。
+
+---
+
+### 2026-08-12 08:17:00  #市場 #國際
+
+韓國綜合股價指數上漲2％，三星電子漲4%，SK海力士漲2%。
+
+---
+
+### 2026-08-12 08:16:54  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Al Arabiya TV, citing sources, reported a drone attacked Libya's Zawiya power plant.
+
+---
+
+### 2026-08-12 08:15:23  #其他
+
+【航行警告！南海海域實彈射擊】據中國海事局網站訊息，珠海海事局釋出航行警告，8月12日和14日每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-08-12 08:14:10  #公司 #觀點
+
+【中信證券：AI重塑遊戲行業 重點推薦具備AI UGC平臺性機遇的公司】中信證券研報表示，2025年以來，生成式AI持續降低遊戲研發門檻，推動內容生產從“人力密集”走向“智慧增強”，行業供給側由此迎來顯著擴容。但市場並未因此線性進入“百花齊放”的價值兌現階段，相反，玩家注意力、產品差異化與長線運營能力變得更加稀缺。中信證券認為，AI不會簡單攤薄遊戲行業的價值，反而將推動行業價值錨點從“能否生產內容”轉向“能否持續創造精品、獲取流量並完成商業化兌現”。遊戲行業正在從“產能約束”時代，走向“稀缺性重估”時代，其中頭部公司最為受益。中信證券判斷，AI在遊戲產業鏈的價值釋放主要分為兩個階段：短期，AI進入頭部廠商研發管線，提升長青產品維護、高規格新品開發和全球化試錯能力；中長期，隨著模型能力提升、Token成本下降和平臺基礎設施完善，AI有望透過AI UGC擴大內容供給、透過AI Native創造新型體驗，進一步擴大市場規模。重點推薦全鏈路工業化能力領先的頭部公司，具備AI UGC平臺性機遇的公司，並建議關注具備內容平臺基礎的企業。
+
+---
+
+### 2026-08-12 08:14:00  #市場 #國際
+
+【韓國股市有望連續第三個交易日上漲】週三，韓國股市開盤走高，受週二晚間Super Micro和CoreWeave股價飆升提振，市場情緒改善。如果韓國綜合股價指數（KOSPI）能夠守住早盤漲幅，那麼它將迎來自7月23日以來的首次三連漲。
+
+---
+
+### 2026-08-12 08:11:18  #觀點 #國際
+
+【中信證券：弱復甦延續，硬奢品類表現亮眼】中信證券研報表示，歐洲奢侈品板塊2Q26整體行業經營表現環比改善，但受外部宏觀環境擾動，板塊情緒與估值中樞仍繼續承壓（2026YTD LVMH/愛馬仕/開雲/歷峰股價分別-25%/-27%/-5%/+15%）。分品類看，2Q26具備高價效比感知的珠寶品類延續行業最強增長表現，歷峰珠寶業務收入固定匯率下（下同）同比增長24%；皮具及成衣品類邊際企穩，但品牌表現差異顯著。分地區看，美國、日本及韓國驅動需求改善，中國市場延續弱復甦，歐洲旅遊消費表現分化。我們認為行業整體壓力仍存，我們延續此前對於板塊的觀點：儘管當前行業弱復甦延續，但我們認為行業仍行於迷霧之中：1）新創意週期已開啟，但我們認為板塊仍為存量競爭，部分品牌的復興將以犧牲其他品牌的市場份額為代價、2）入門級消費者消費力的釋放仍存在不確定性、3）中國市場全面復甦的時間節點亦不明確，我們判斷奢侈品行業過去長期5-6% CAGR帶來的板塊估值溢價面臨新的考驗。
+
+---
+
+### 2026-08-12 08:10:49  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies Ahead of US CPI Report — Gold steadied around $4,370 an ounce on Wednesday following a volatile start to the week, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, gold continued to draw support from investment demand and central bank purchases, particularly from China. China’s central bank added about 20 tons to its reserves in July after buying around 15 tons in June, marking the largest monthly increase since October 2023.
+
+---
+
+### 2026-08-12 08:10:40  #公司 #市場 #觀點
+
+【中金：建議繼續超配黃金】中金公司研報表示，隨著全球流動性更加寬鬆，實際利率與美元的上行壓力減輕，黃金或重新獲得流動性和貨幣體系多元化的雙重支撐。中金認為黃金牛市尚未結束，前期調整後重新增配的視窗已經開啟，建議繼續超配黃金。
+
+---
+
+### 2026-08-12 08:10:09  #MKT News #AXJO.AX #Impact bearish
+
+Australia's S&P/ASX 200 opened down 46.7 points, or 0.50%, at 9,203.90 on Aug. 12 (Wednesday).
+
+---
+
+### 2026-08-12 08:09:15  #觀點 #國際
+
+【中信證券：全球市場量化動量退潮、低估值修復，但反轉尚未明確】中信證券研報表示，2026年7月，前期由AI硬體驅動的跨市場強勢行情出現高位分化，大中華、韓國等市場的醫藥、消費、房地產等行業出現修復，但未形成跨市場一致性行情；風格角度看，各主要股票市場均出現動量顯著退潮、低估值修復的現象。我們認為7月市場表現是因為前期由AI硬體推動的趨勢交易集中降溫，資金轉向估值較低、前期漲幅有限的標的。考慮到AI產業仍處於高景氣度階段，且未形成科技硬體外的其它一致性主線行情，我們認為尚不足以確認中長期行業和風格趨勢發生反轉。
+
+---
+
+### 2026-08-12 08:08:18  #MKT News #Commodities #Industrial Metals
+
+【CITIC Securities: Rare-earth prices likely to remain steady-to-firm near term】CITIC Securities research note, citing CUSTOMS data: July rare-earth exports 4,223.5 t, down 29.54% YoY and 17.26% MoM, the lowest monthly level since March; Jan–Jul cumulative exports 34,706.3 t, down 10% YoY. Average export price $12.34/kg, up 103.14% YoY, as export mix shifts toward higher-value medium/heavy rare-earths and overseas buyers accept pricier feedstock. Supply-side tightness persists—no new incremental supply, separation plants running stably, and previously idled producers have no restart plans—while downstream rigid demand and positive long-term demand expectations support prices. Near-term outlook: prices steady-to-firm.
+
+---
+
+### 2026-08-12 08:07:59  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
+
+【CITIC Securities: Storage sector remains highly buoyant; monitor LTA progress and shareholder returns】CITIC Securities said the June–July pullback in major global storage stocks reflected market unwinding after peak price momentum rather than weak earnings. Q2 results broadly met expectations; product prices remain in an upcycle and AI is raising data-center revenue share. While price increases are moderating, the report sees the industry in structural undersupply through 2027, providing support for chain-wide gross margins and profitability. Suppliers are signing 3–5-year LTAs to lock in large customers; flexible pricing mechanisms and price floors should reduce earnings volatility and lift valuations. The firm favors exposure to HDD, DRAM and NAND and flags LTA progress and shareholder-return signals as key follow-ups.
+
+---
+
+### 2026-08-12 08:07:15  #市場 #觀點
+
+【中信建投：預計近期稀土價格穩中偏強】中信建投證券研報稱，據海關總署資料，7月稀土出口量明顯回落，均價上漲。7月稀土出口量4223.5噸，同比下降29.54%，環比下降17.26%，為3月以來的單月最低水平；1—7月累計出口34706.3噸，同比下滑10%。但對應出口均價12.34美元/千克，同比大漲103.14%，出口結構向高價值中重稀土產品傾斜，海外市場接受高價原料，全球稀土供給緊張格局延續。稀土供給端暫無增量，分離企業生產穩定，前期停產企業暫無開工計劃，下游剛需支撐力度尚可，長期需求預期向好。預計近期稀土價格穩中偏強。
+
+---
+
+### 2026-08-12 08:07:03  #公司 #觀點
+
+【中信證券：儲存產業保持高景氣度，後續關注LTA進展與股東回報】中信證券研報認為，全球主要儲存公司股價6–7月的回撥並非因為業績疲軟，更多是漲價增速見頂後市場擔憂的集中釋放。總的來看，相關公司Q2業績整體符合預期，產品仍處漲價上行週期，AI驅動資料中心營收佔比持續提升。展望未來，雖然儲存產品的漲價幅度放緩，但考慮到2027年儲存行業仍處於供不應求的狀態，未來對於產業鏈公司的毛利率和盈利能力形成有效支撐。此外，針對市場關注度最高的LTA，可以看到相關公司目前正以3–5年期LTA落地鎖定大客戶需求，靈活定價機制與價格下限也有望降低盈利波動、提升估值。建議關注HDD、DRAM、NAND賽道。
+
+---
+
+### 2026-08-12 08:06:44  #國際
+
+美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆  ，在南卡羅來納州美國參議院共和黨提名中晉級決選。
+
+---
+
+### 2026-08-12 08:05:55  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #Aluminum #WTI #Impact mixed
+
+【China International Capital Co: Commodity divergence to persist; AI infrastructure to support copper and aluminum demand】China International Capital Co research: commodity markets are likely to continue to diverge. AI data centers, power‑grid expansion and energy transition will support copper and aluminum demand. With supply constraints still tight, nonferrous metals combine improved liquidity and AI-driven physical investment; recommend overweight. Oil and other energy commodities retain hedging value but volatility may increase; recommend maintaining positions and avoiding chasing gains.
+
+---
+
+### 2026-08-12 08:05:07  #Trading Economics #Economy #Singapore #Current Account #Importance 1
+
+Singapore Current Account Surplus Widens in Q2 — Singapore’s current account surplus increased to SGD 37.08 billion in the second quarter of 2026, up from SGD 30.52 billion in the same period of 2025. The increase came as the goods account surplus surged to SGD 70.39 billion from SGD 60.12 billion a year earlier amid a surge in exports. Also, the services account surplus advanced to SGD 14.33 billion from SGD 12.27 billion. Additionally, the secondary income deficit narrowed to SGD 2.88 billion from SGD 4.00 billion. Meanwhile, the primary income deficit climbed to SGD 44.77 billion from SGD 37.87 billion over the same period. Last year, the country recorded a current account surplus of SGD 131.96 billion, widening slightly from SGD 131.67 billion in 2024.
+
+---
+
+### 2026-08-12 08:04:38  #國際
+
+【韓國主權財富基金將加入全球AI及機器人競賽 核能、太空和量子技術也在考慮範圍之內】韓國預計明年將向一隻瞄準AI等戰略性產業的新主權財富基金部署1萬億韓元（7.07億美元）新資金，加入了全球各國政府動員投資並搶佔高科技領域先機的行列。“現在很難給出具體細節，但明年的投資額可能在6000億到逾1萬億韓元之間，”負責創新與增長的韓國副財長Min Kyung-seol週二在接受媒體採訪時表示。他說，最終投資額有可能超過初步預期，具體將取決於確定了哪些目標以及它們的資金需求。他表示，該基金還將瞄準機器人、能源和電池，以及電網等基礎設施。核能、太空和量子技術也在考慮範圍之內。Min說，來自中東、歐洲和北美的主權財富基金和養老基金投資者已經與韓國政府接洽，探討在韓國投資以及與新基金共同投資的可能性。他拒絕透露具體投資者的身份，稱相關討論仍處於早期階段。
+
+---
+
+### 2026-08-12 08:04:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+【China International Capital Co recommends continued overweight in gold】China International Capital Co says the two narratives that had pressured gold are unraveling: global liquidity is not in a sustained tightening cycle and de-dollarization remains active. US disinflation and slower growth support a move toward easier policy, while Fed rhetoric looks hawkish but policy actions are effectively dovish; Fed reform could open space for future rate cuts. Dollar balance-sheet reduction would help restore dollar credibility in principle but faces heavy market and political constraints, and structural erosion of dollar credit from high debt, deficits and policy uncertainty is hard to reverse. Global central bank net gold purchases rebounded to 289 tonnes in Q2, up 62% YoY and a Q2 record, signalling entrenched dollar concerns and continued reserve-diversification demand for gold. With looser global liquidity reducing upward pressure on real rates and the dollar, gold should regain support from both liquidity and reserve diversification. The firm judges the gold bull market is intact, the reallocation window after the recent correction is open, and recommends maintaining an overweight in gold.
 
 ---
 
@@ -18564,425 +18708,5 @@ Brent crude futures settled at $87.72/bbl, up $4.17 or 4.99%.
 ### 2026-08-11 02:52:16  #市場
 
 美元/日元上漲1%，報159.32。
-
----
-
-### 2026-08-11 02:52:01  #MKT News
-
-【U.S. July average temperature highest on record since 1895】NOAA data show July was the hottest month on record for the contiguous U.S., with the lower 48 averaging 3.3°F above 20th-century levels. A prolonged, intense heat dome drove record monthly highs from the East Coast through the Great Plains and the Southwest; July’s nationwide average was roughly 0.1–0.2°F higher than previous record months in July 1936 and July 2012.
-
----
-
-### 2026-08-11 02:51:58  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's HAMMACK said markets are a complement to the Fed, not a substitute.
-
----
-
-### 2026-08-11 02:51:06  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
-
-Fed's Hammack said the labor market still shows no signs of problems.
-
----
-
-### 2026-08-11 02:50:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed's Hammack said he does not expect inf to fall on its own.
-
----
-
-### 2026-08-11 02:50:35  #央行 #國際
-
-美聯儲哈馬克：我們必須以行動兌現言辭。
-
----
-
-### 2026-08-11 02:50:16  #央行 #國際
-
-美聯儲哈馬克：市場是美聯儲的補充，而非替代品。
-
----
-
-### 2026-08-11 02:49:42  #央行 #國際
-
-美聯儲哈馬克：目前仍未看到就業市場出現問題。
-
----
-
-### 2026-08-11 02:49:42  #MKT News #Important #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's Harmak said current interest rates are not materially restraining the economy, and it is time for the Fed to act.
-
----
-
-### 2026-08-11 02:49:24  #央行 #國際
-
-美聯儲哈馬克：不認為通脹會自行回落。
-
----
-
-### 2026-08-11 02:48:05  #國際
-
-【美國7月平均氣溫重新整理1895年以來最高紀錄】美國國家海洋和大氣管理局（NOAA）釋出的資料顯示，7月是有記錄以來美國平均氣溫最高的一個月。當月出現了持續時間長且強度大的“熱穹頂”現象，導致從東海岸到大平原地區及西南部各州的氣溫均創下歷史新高。NOAA的氣溫記錄可追溯至1895年。（央視新聞）
-
----
-
-### 2026-08-11 02:47:40  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed official Harmak said several rate hikes may be required and he will not pre-judge the number of hikes or the eventual policy (terminal) rate.
-
----
-
-### 2026-08-11 02:46:37  #央行 #國際
-
-美聯儲哈馬克：現在正是我們開始行動的時候。
-
----
-
-### 2026-08-11 02:46:11  #央行 #國際
-
-美聯儲哈馬克：當前利率並未對經濟形成實質性抑制。
-
----
-
-### 2026-08-11 02:45:09  #央行 #國際
-
-美聯儲哈馬克：不想預先判定加息次數以及最終利率點位。
-
----
-
-### 2026-08-11 02:44:54  #MKT News
-
-According to a statement, a fire has broken out in diesel tanks at Libya's Zawiya oil depot; cause and extent unknown.
-
----
-
-### 2026-08-11 02:44:45  #央行 #國際
-
-美聯儲哈馬克：可能需要進行 “一定次數” 的加息。
-
----
-
-### 2026-08-11 02:44:08  #國際
-
-【美國2026財年前10個月聯邦赤字為1.8萬億美元】據美國國會預算辦公室估算，2026財年前10個月，美國聯邦預算赤字總額為1.8萬億美元。這一數字比上一財年同期的赤字高出1690億美元，收入增加了1390億美元（增幅為3%），支出增加了3080億美元（增幅為5%）。
-
----
-
-### 2026-08-11 02:43:54  #焦點 #國際
-
-【伊朗總統與最高領袖會談七八個小時】伊朗總統佩澤希齊揚8月10日表示，他近日與伊朗最高領袖穆傑塔巴·哈梅內伊舉行會談，“會談持續了七八個小時，穆傑塔巴哈健康狀況很好”。據伊朗國家媒體8月9日報道，穆傑塔巴與佩澤希齊揚舉行了會談，深入探討了伊朗當前面臨的各項挑戰，包括民生需求、伊朗所遭遇的持續不斷的侵略戰爭、未來前景、軍事發展以及與外國夥伴的經濟合作。（CCTV國際時訊）
-
----
-
-### 2026-08-11 02:41:55  #其他
-
-中國地震臺網自動測定：08月11日02時40分在四川宜賓市高縣附近（北緯28.56度，東經104.66度）發生4.0級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-11 02:41:31  #宏觀 #國際
-
-【美政府自去年初以來已吊銷逾17.5萬份非移民簽證 】美國國務院10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。（新華社）
-
----
-
-### 2026-08-11 02:38:00  #市場 #焦點
-
-紐約期金突破4440美元/盎司，日內漲0.92%。
-
----
-
-### 2026-08-11 02:37:45  #MKT News
-
-Todd Blanche was formally sworn in as U.S. attorney general.
-
----
-
-### 2026-08-11 02:37:12  #國際
-
-美國農業機構：用於防治螺旋蠅的得克薩斯州不育蠅設施將於 2027 年春季啟用。
-
----
-
-### 2026-08-11 02:36:41  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #WTI
-
-【Night session main contracts close】As of 02:30 close, SHFE gold front contract rose 0.66% to 950 yuan/gram; SHFE silver front contract rose 1.89% to 15,884 yuan/kg; Shanghai crude (SC) front contract rose 4.06% to 554 yuan/barrel.
-
----
-
-### 2026-08-11 02:35:59  #國際
-
-白宮新聞秘書萊維特：布蘭奇已宣誓就任美國司法部長。
-
----
-
-### 2026-08-11 02:35:51  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D closed up 0.69% at 947.62 yuan/gram in Monday evening trade on Aug 10; Shanghai Gold Exchange Silver T+D closed up 1.79% at 15,830 yuan/kg.
-
----
-
-### 2026-08-11 02:34:49  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver's intraday gain widened to 3.00%, trading at $65.44/oz.
-
----
-
-### 2026-08-11 02:34:44  #市場 #焦點
-
-現貨黃金突破4380美元/盎司，日內漲0.90%。
-
----
-
-### 2026-08-11 02:34:36  #市場
-
-現貨白銀日內漲3%，現報65.44美元/盎司。
-
----
-
-### 2026-08-11 02:34:24  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures settled at $82.13/bbl, up $3.95 or 5.05%.
-
----
-
-### 2026-08-11 02:32:16  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose $15 intraday to trade above $4,380/oz, up 0.90% on the day.
-
----
-
-### 2026-08-11 02:31:28  #市場 #焦點
-
-現貨黃金突破4370美元/盎司，日內漲0.67%。
-
----
-
-### 2026-08-11 02:31:23  #市場 #焦點
-
-紐約期金突破4430美元/盎司，日內漲0.75%。
-
----
-
-### 2026-08-11 02:31:00  #市場
-
-WTI 9月原油期貨收報82.13美元/桶。NYMEX 9月天然氣期貨收報2.7940美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.1354美元/加侖，NYMEX 9月取暖油期貨收報4.1898美元/加侖。
-
----
-
-### 2026-08-11 02:30:07  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 1.98% — Top crypto losers are Ether (-1.98%) and Bitcoin (-1.54%).
-
----
-
-### 2026-08-11 02:30:03  #市場
-
-上期所原油期貨夜盤收漲4.06%，報553.70元人民幣/桶。滬金夜盤收漲0.66%，滬銀收漲1.89%。
-
----
-
-### 2026-08-11 02:28:04  #MKT News #Market Themes #AI Revolution
-
-OpenAI said GPT-5.6-Cyber did not participate in exploiting a vulnerability to attack Hugging Face, and no other upcoming models were involved in the incident.
-
----
-
-### 2026-08-11 02:27:59  #其他
-
-OpenAI：GPT‑5.6‑CYBER 並未被用於攻擊 Hugging Face，計劃即將釋出的其他模型也未參與此事。
-
----
-
-### 2026-08-11 02:27:26  #其他
-
-哥倫比亞總統阿韋拉多·德拉埃斯普列亞當地時間8月10日下午表示，當天早上發生的強烈地震已造成111人遇難。（CCTV國際時訊）
-
----
-
-### 2026-08-11 02:27:05  #其他
-
-OpenAI：強烈建議使用Codex的Daybreak客戶，透過應用預設設定和介面功能，將“完全訪問模式”切換至“自動審查模式”。自2026年9月1日起，要求Daybreak中的所有個人賬戶啟用硬體安全金鑰。
-
----
-
-### 2026-08-11 02:26:50  #MKT News
-
-OpenAI said it will require all personal accounts on Daybreak to enable hardware security keys from Sept. 1, 2026.
-
----
-
-### 2026-08-11 02:26:42  #MKT News #Market Themes #AI Revolution
-
-OpenAI strongly recommends Daybreak customers using Codex switch 'Full Access Mode' to 'Auto-Moderation Mode' via default settings and the user interface.
-
----
-
-### 2026-08-11 02:25:11  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Approaches $88 — Brent rose approached $88 a barrel on Monday, extending gains for a fourth consecutive session and reaching its highest level in almost two weeks, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues.
-
----
-
-### 2026-08-11 02:25:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Gains by 4.05% — Top commodity gainers are Oat (4.05%), Cocoa (2.11%) and Canola (1.75%). Biggest losers are Rice (-1.34%) and Cotton (-0.69%).
-
----
-
-### 2026-08-11 02:24:21  #MKT News
-
-Colombian president says earthquake injured 87 people and caused 61 buildings to collapse.
-
----
-
-### 2026-08-11 02:23:56  #Trading Economics #Markets #Commodity #Importance 0
-
-Crude Oil Above $82 — Crude oil rose above $82 a barrel on Monday, extending gains for a third consecutive session and reaching its highest level in a week, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues.
-
----
-
-### 2026-08-11 02:23:37  #MKT News
-
-Colombia's president said rescuing earthquake victims is the immediate priority; the death toll has reached 111.
-
----
-
-### 2026-08-11 02:22:29  #MKT News
-
-Axios reported the Trump administration is drafting an executive order that would split the childhood measles, mumps and rubella vaccine into three separate shots and require them to be administered at separate medical visits.
-
----
-
-### 2026-08-11 02:22:13  #國際
-
-市場訊息：特朗普政府正在擬定一項行政令，擬將兒童麻疹‑腮腺炎‑風疹（MMR）聯合疫苗拆分為三針，安排在不同就診時段分別接種。
-
----
-
-### 2026-08-11 02:20:25  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
-
-Brent crude rose above $87/bbl, up 6.77% intraday.
-
----
-
-### 2026-08-11 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 2.40% — Top commodity gainers are Silver (2.40%), Lithium Carbonate (1.23%) and Gold (0.45%). Biggest loser is Platinum (-0.55%).
-
----
-
-### 2026-08-11 02:19:06  #MKT News #Commodities
-
-Refinitiv cited two sources saying a fuel tank at Libya's Zawiya refinery exploded; the nature and cause of the blast were unclear.
-
----
-
-### 2026-08-11 02:18:13  #其他
-
-據兩位訊息人士透露：利比亞扎維耶煉油廠燃料罐發生爆炸，爆炸起因不明。
-
----
-
-### 2026-08-11 02:18:11  #市場
-
-布倫特原油日內漲5%，現報87.74美元/桶。
-
----
-
-### 2026-08-11 02:18:11  #市場
-
-WTI原油日內漲5%，現報82.09美元/桶。
-
----
-
-### 2026-08-11 02:18:06  #MKT News
-
-【Trump administration revokes over 175,000 foreign visas】The US State Department says the Trump administration has revoked more than 175,000 foreign visas, citing criminal activity, visa violations and violent rhetoric toward US citizens. Most revocations stem from “law enforcement contact records,” including assault, DUI, theft and drug offenses. Visa cancellations have risen sharply in 2026, with monthly revocations exceeding 10,000 year-to-date. The action is described as part of an ongoing review mechanism to ensure visa holders comply and do not threaten US security; immigration lawyers warn revocations may follow minor enforcement contacts or unproven allegations. The State Department said a US visa is “a privilege, not a right.”
-
----
-
-### 2026-08-11 02:16:12  #市場 #焦點
-
-WTI原油突破82美元/桶，日內漲4.93%。
-
----
-
-### 2026-08-11 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rallies by 11.16% — Top commodity gainers are Natural Gas EU (11.16%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Brent Crude Oil (4.63%) and Crude Oil WTI (4.58%).
-
----
-
-### 2026-08-11 02:09:57  #其他
-
-加拿大總理卡尼：我們正在降低加拿大鋼鐵運輸成本，讓更多加拿大鋼材能夠運往全國各地的建設專案現場，同時加強國內供應鏈。
-
----
-
-### 2026-08-11 02:09:24  #MKT News
-
-Canada's Prime Minister Carney said the government is cutting steel transport costs to move more Canadian steel to construction sites nationwide and to strengthen domestic supply chains.
-
----
-
-### 2026-08-11 02:06:46  #MKT News #Brent #Impact bullish
-
-Brent crude futures rose $4/bbl after Iran and the U.S. exchanged compensation demands, weakening prospects for a swift reopening of the Strait of Hormuz.
-
----
-
-### 2026-08-11 02:06:10  #國際
-
-白宮新聞秘書萊維特：特朗普將於下午2:45簽署有關“疫苗靈活性”的行政令。
-
----
-
-### 2026-08-11 02:05:46  #MKT News
-
-Gaza Peace Committee official says Gaza plan continues to be implemented effectively.
-
----
-
-### 2026-08-11 02:05:27  #MKT News
-
-A Gaza Peace Committee official said the committee will not ask Israel to rely on trust or to take irreversible actions until verified, on‑the‑ground steps are taken.
-
----
-
-### 2026-08-11 02:04:45  #MKT News
-
-A Gaza Peace Committee official said the Gaza roadmap was jointly formulated by the committee and Hamas, and consultations with Israel are ongoing.
-
----
-
-### 2026-08-11 02:04:20  #市場 #國際
-
-布倫特原油期貨每桶上漲 4 美元，伊朗與美國互相提出賠償要求，霍爾木茲海峽局勢緩和的預期消退。
-
----
-
-### 2026-08-11 02:04:03  #國際
-
-加沙和平委員會官員：並未要求以色列僅憑信任行事，也不要求其在實地落實經核實的舉措之前採取不可逆轉的行動。
-
----
-
-### 2026-08-11 02:04:02  #MKT News
-
-The Hill reported that the Trump administration revoked more than 175,000 visas.
-
----
-
-### 2026-08-11 02:03:48  #國際
-
-加沙和平委員會官員：加沙路線圖由和平委員會與哈馬斯雙方擬定，同以色列的磋商仍在進行。
-
----
-
-### 2026-08-11 02:03:17  #國際
-
-美國白宮稱特朗普今天將簽署疫苗行政命令。
 
 ---

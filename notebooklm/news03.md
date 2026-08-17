@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 02:00:35_
-_本檔包含 3169 則快訊，約 605534 字_
+_更新時間：2026-08-18 02:52:02_
+_本檔包含 3179 則快訊，約 605326 字_
+
+---
+
+### 2026-08-14 13:01:29  #國際
+
+菲律賓總統馬科斯：我們一定會在2028年推選出最合適的候選人。
+
+---
+
+### 2026-08-14 13:01:11  #MKT News #Important #Star Stocks #JD.com #Market Regions #Greater China #Hang Seng Index #Impact bearish #02618.HK #09618.HK
+
+Hang Seng Index extended afternoon losses, down more than 1%, led by JD Logistics (02618.HK) and JD.com (09618.HK).
+
+---
+
+### 2026-08-14 13:00:32  #市場 #焦點
+
+恒生指數跌超1%，現報25138.529點；恒生科技指數現跌1.865%。
+
+---
+
+### 2026-08-14 13:00:23  #國際
+
+【印尼269名學生集體食物中毒】據印度尼西亞媒體14日報道，該國北蘇門答臘省卡羅縣13日發生集體食物中毒事件，5所中學的至少269名學生出現中毒症狀並被送醫治療。當地教育部門負責人對媒體表示，一些學生在13日午餐後陸續出現中毒症狀，截至13日晚，已有269名學生被送醫接受治療。目前，所有送醫學生情況穩定，暫無死亡報告。（新華社）
+
+---
+
+### 2026-08-14 12:59:52  #國際
+
+菲律賓總統馬科斯：將在2028年總統選舉中公開支援候選人。
+
+---
+
+### 2026-08-14 12:59:22  #公司
+
+【京東：七鮮咖啡首家24小時智慧化無人咖啡店將落地北京】8月16日，京東集團旗下現制飲品品牌七鮮咖啡首家24小時智慧化無人咖啡店將正式開業，落地北京市朝陽區銀河SOHO。該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。                                （ 介面新聞 ）
+
+---
+
+### 2026-08-14 12:58:56  #MKT News #Market Themes #AI Revolution
+
+Musk: Try Grok 4.6's image and video understanding capabilities; this is a major upgrade.
+
+---
+
+### 2026-08-14 12:58:24  #公司
+
+【眾擎機器人等成立科技公司 含智慧無人飛行器製造業務】企查查APP顯示，近日，上海星意擎坤科技有限公司成立，法定代表人為呂學敏，註冊資本為6120萬元，經營範圍包含人工智慧基礎軟體開發；智慧機器人的研發；智慧機器人銷售；工業機器人銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由深圳眾擎機器人科技股份有限公司、上海傲意資訊科技有限公司等共同持股。
+
+---
+
+### 2026-08-14 12:57:53  #其他
+
+【多地暴雨 交通運輸部維持強降雨三級防禦響應】中央氣象臺8月14日10時繼續釋出暴雨黃色預警，交通運輸部維持強降雨三級防禦響應。預計，8月14日14時至15日14時，江蘇中南部、安徽南部、上海、浙江、湖北東部、江西北部和東部、福建西部和南部、廣東南部和東部、海南島東北部和西南部、臺灣島南部等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨(100～150毫米)；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。8月14日，交通運輸部點對點排程江蘇省交通運輸廳，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生；切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。
+
+---
+
+### 2026-08-14 12:56:44  #公司 #市場 #國際
+
+【印尼總統普拉博沃發表講話 印尼股市攀升至日內高點】印尼總統普拉博沃・蘇比安託在國情諮文演講中談及打擊非法採礦，以及政府核心免費供餐專案的執行效率，受此影響印尼股市走高。雅加達綜合指數早盤下跌 0.6%，隨後最大漲幅一度達 0.7%。基礎材料與能源板塊領漲。國有錫礦企業 PT Timah 公司股價最高上漲 4%。
+
+---
+
+### 2026-08-14 12:55:39  #宏觀
+
+【四川出臺城市更新“十五五”規劃】四川省人民政府網站訊息，《四川省城市更新“十五五”規劃》（簡稱《規劃》）已於日前正式印發。《規劃》明確，將實施城鎮危舊房改造約6萬套（間），改造老舊小區8000個，既有住宅加裝電梯1.5萬部；建設改造城市地下管網及附屬設施5.9萬公里以上，實施城中村改造420個；改造老舊街區廠區220個，新改建城市公共停車場約200個、新增公共停車位超9萬個。
+
+---
+
+### 2026-08-14 12:54:58  #國際
+
+【7月印度進口原油中俄羅斯佔比飆升至歷史新高】貿易渠道資料顯示，7月印度對俄羅斯原油的依賴度創下歷史紀錄；作為全球第三大石油進口及消費國，印度當月自俄原油進口占總進口量的50.83%，日進口量達247萬桶。資料顯示，印度7月俄羅斯原油進口量同比增長62.4%，但較6月260萬桶/日的歷史高點回落4.8%。今年1月，由於印度正與美方磋商貿易協議，為規避美國加徵關稅，印度煉油企業開始削減俄羅斯原油採購。然而，伊朗衝突造成中東供應中斷，迫使印度煉油商繼續購入俄羅斯原油。不過，美國參議院本月透過法案，擬對俄羅斯原油採購方徵收100%關稅，加大對莫斯科的經濟施壓，印度採購俄原油因此面臨不確定性。美眾議院尚未批准這項法案。
+
+---
+
+### 2026-08-14 12:53:12  #MKT News #Important
+
+【2026 annual box office tops 25.0 bln yuan】China's 2026 box office including presales topped 25.0 bln yuan as of Aug 14, according to Lighthouse Pro. Top five by receipts: Fei Chi Ren Sheng 3; Kung Fu Women's Football; A Letter to Grandma; Eight Immortals; Biaoren: Wind Rises in the Desert.
+
+---
+
+### 2026-08-14 12:53:01  #公司
+
+【什方科技完成近3億元融資】近日，工業功能塗層數字噴印公司什方科技連續完成兩輪融資。自B輪起至本次B+輪收官，融資總額近3億元。由五源資本、創世夥伴創投、同創偉業及頭部產業戰略投資機構恆旭資本、小米集團、蔚來資本聯合入局，多家老股東同步追加投資。
+
+---
+
+### 2026-08-14 12:51:22  #國際
+
+菲律賓總統馬科斯：希望危機過後投資者信心能夠恢復。
+
+---
+
+### 2026-08-14 12:50:46  #MKT News
+
+Philippine President MARCOS said the country's economic growth rate was disappointing.
+
+---
+
+### 2026-08-14 12:50:20  #國際
+
+菲律賓總統馬科斯：增長率非常令人失望。
+
+---
+
+### 2026-08-14 12:49:49  #國際
+
+菲律賓總統馬科斯：我們的措施應該能消除投資者的擔憂。
+
+---
+
+### 2026-08-14 12:49:39  #國際
+
+菲律賓總統馬科斯：不會把所有錢都花在捍衛比索上。
+
+---
+
+### 2026-08-14 12:48:37  #其他
+
+【2026年度總票房破250億】據燈塔專業版資料，截至8月14日，2026年度大盤票房(含預售)突破250億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《八仙！》《鏢人：風起大漠》暫列年度票房前五名。
+
+---
+
+### 2026-08-14 12:48:25  #市場
+
+【鐵礦石期貨暫時反彈走高】鐵礦石期貨在近期回撥後暫時反彈走高。銀河期貨在一份研究報告中表示，下個月價格可能會繼續創下新低。該機構表示，6月份海外鋼鐵需求有所上升，但這種勢頭不太可能持續。該機構補充說，這種鍊鋼原料在第三季度可能無法克服基本面疲軟的影響。大連商品交易所交投最活躍的1月鐵礦石合約上漲0.4%，報每噸712.5元。
+
+---
+
+### 2026-08-14 12:47:51  #MKT News
+
+Philippine president says he is working to defend the Philippine peso.
+
+---
+
+### 2026-08-14 12:47:36  #國際
+
+菲律賓總統馬科斯：正出手捍衛比索匯率。
+
+---
+
+### 2026-08-14 12:46:14  #國際
+
+泰國投資委員會：泰國第二季度實際投資額同比增長31%至2550億泰銖。
+
+---
+
+### 2026-08-14 12:45:48  #MKT News
+
+The Philippine president said the government is working to restore stability to the economic system to allow households and businesses to plan.
+
+---
+
+### 2026-08-14 12:45:39  #國際
+
+印尼總統普拉博沃結束國情諮文演講。
+
+---
+
+### 2026-08-14 12:44:58  #市場 #央行 #國際
+
+【交易員：印度央行可能干預了匯市以支撐盧比】三位交易員表示，印度央行週五很可能在外匯市場進行了干預，因為中東衝突帶來的不確定性導致風險偏好低迷且油價居高不下。受干預行動支撐，盧比 維持穩定，報1美元兌95.40盧比。該匯率成功守住了95.50這一重要心理關口，與本週大部分時間的走勢相似，干預措施有效遏制了盧比的貶值幅度。本週迄今，盧比一直在1美元兌95.17至95.4450的區間內波動。
+
+---
+
+### 2026-08-14 12:44:26  #市場 #國際
+
+【黑德蘭港7月份鐵礦石出口量降至4422.5萬噸】據澳大利亞皮爾巴拉港務局（PPA）稱，黑德蘭港7月份的鐵礦石出口量從6月份的5171萬噸下降到4422.5萬噸。6月份對華鐵礦石出口量從4511.2萬噸降至3785.7萬噸。
+
+---
+
+### 2026-08-14 12:44:17  #國際
+
+菲律賓總統馬科斯：正努力恢復經濟體系穩定，以便家庭和企業開展規劃。
+
+---
+
+### 2026-08-14 12:43:11  #市場
+
+據PPA統計，黑德蘭港7月份鐵礦石出口量降至4422.5萬噸。
+
+---
+
+### 2026-08-14 12:42:17  #MKT News #Important #Star Stocks #Apple #Alibaba #Market Themes #AI Revolution #China Tech Giants #Magnificent 7 #Market Regions #Greater China #AAPL.O #Impact bullish
+
+【Apple trains China-specific LLM with Alibaba, shifts from third‑party reliance】Refinitiv, citing three people familiar with the matter, reports Apple (AAPL.O) has trained a China‑specific large language model in partnership with Alibaba, marking a shift from its prior strategy of largely relying on third‑party models to power AI features in China. Apple Intelligence is expected to launch in China in the coming months following an iOS update. Neither company commented.
+
+---
+
+### 2026-08-14 12:42:15  #其他
+
+【兩部門對河南啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，8月14日，國家防災減災救災委員會針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應，前期派出的救災工作組繼續在災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等救災救助工作。同日，國家防災減災救災委員會辦公室、應急管理部針對近期持續暴雨洪澇災害導致河南周口、許昌等地險情災情，根據災區群眾避險轉移和安置救助需要，會同國家糧食和物資儲備局調撥摺疊床、褥子、毛毯、夏涼被、夏裝、家庭應急包等3萬件中央救災物資，支援河南做好受災群眾安置救助工作。
+
+---
+
+### 2026-08-14 12:41:41  #市場 #國際
+
+5年期日本國債收益率上漲0.5個基點，至2.125%。
+
+---
+
+### 2026-08-14 12:41:11  #公司
+
+【傑富瑞上調塔吉特等百貨公司目標價】傑富瑞將塔吉特公司目標價從161美元上調至177美元；將伯靈頓百貨目標價從365美元上調至410美元。
+
+---
+
+### 2026-08-14 12:41:06  #MKT News #Macro & Rates #Treasury Yields #Market Regions #USDJPY #Impact bearish
+
+Japan 5-year government bond yield rose 0.5 bps to 2.125%.
+
+---
+
+### 2026-08-14 12:41:00  #MKT News
+
+China's National Commission for Disaster Reduction and the Ministry of Emergency Management have activated a national level-4 disaster emergency response, allocated central relief supplies and are guiding and supporting Henan's heavy-rain and flood relief operations.
+
+---
+
+### 2026-08-14 12:39:44  #其他
+
+【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。
+
+---
+
+### 2026-08-14 12:39:03  #公司
+
+【三一集團、翱捷科技等成立創業投資基金】企查查APP顯示，近日，廣州華胥三期創業投資基金合夥企業（有限合夥）成立，出資額6.27億元，經營範圍包含私募股權投資基金管理、創業投資基金管理服務；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由三一集團有限公司、翱捷科技等共同持股。
+
+---
+
+### 2026-08-14 12:38:36  #MKT News
+
+【Goldman trader: market has flipped from fearing rate hikes to 'either outcome is bullish'; complacency rising】Goldman derivatives trader Shawn Tuteja says US equity sentiment reversed in two weeks from fearing the Fed, higher long‑end yields, geopolitics and supply to a 'either outcome is bullish' view on the September FOMC. Market reads a dovish‑leaning hike as stabilising the long end, and no hike as confirmation that strong earnings will broaden gains beyond AI. Client net exposures are at the 67th percentile over the past five years and total exposures at the 89th; SPX single‑day call volume hit a record ~4.0m contracts. Tuteja does not predict a large index decline but warns that when both policy outcomes are pre‑priced as positive, market cushioning against a hawkish surprise or renewed long‑yield upside is reduced, raising complacency risk.
+
+---
+
+### 2026-08-14 12:38:13  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Falls to Over 2-Week Low — India’s BSE Sensex fell about 0.4% to 77,772 on Friday, reversing gains in the last session and reaching its lowest level since July 29, as investors remained cautious amid persistent Middle East tensions and elevated crude oil prices. Investor sentiment was also weighed by weakness in financial stocks after the Reserve Bank of India proposed loan-pricing changes that could reduce banks’ pricing flexibility and pressure loan yields and margins. Among individual stocks, Tata Motors Passenger Vehicles was under pressure, falling about 4.7% after the automaker reported an 80% drop in first-quarter profit, hurt by higher costs, foreign-exchange losses and weakness at Jaguar Land Rover. Meanwhile, LG Electronics India climbed about 6.8% after reporting a more than 27% rise in first-quarter profit and retaining its full-year revenue growth target, helped by strong summer demand for air conditioners and refrigerators. The benchmark is on track for a weekly decline of about 0.9%.
+
+---
+
+### 2026-08-14 12:37:56  #MKT News #Commodities #Energy
+
+KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were 286,000 tonnes and via Novorossiysk were 360,000 tonnes.
+
+---
+
+### 2026-08-14 12:37:41  #Trading Economics #Economy #Malaysia #Current Account #Importance 1
+
+Malaysia Current Account Surplus Widens in Q2 — Malaysia’s current account surplus widened sharply to MYR 10.8 billion in the second quarter of 2026 from MYR 2.7 billion a year earlier, driven primarily by a substantial increase in the goods surplus. The goods surplus more than doubled to MYR 40.7 billion from MYR 16.0 billion a year ago, reflecting stronger external trade performance. Meanwhile, the services deficit rose slightly to MYR 0.7 billion from MYR 0.5 billion, mainly due to higher net outflows in travel, manufacturing services on physical inputs owned by others, and telecommunications, computer and information services, which more than offset increases in transport, insurance and pension services, and other business services. The primary income deficit widened sharply to MYR 27.2 billion from MYR 9.5 billion, as both investment income and compensation of employees recorded larger declines. The secondary income deficit narrowed to MYR 2.1 billion from MYR 3.2 billion.
 
 ---
 
@@ -18891,197 +19143,5 @@ China's commodity futures main contracts were mixed at the morning session close
 ### 2026-08-13 11:17:49  #其他
 
 【復旦團隊首次製備單銅氧層高溫超導體】據復旦大學訊息，高溫超導電性是未來高效電力傳輸和高效能電子器件發展的重要方向，但其微觀機理始終是凝聚態物理的“皇冠之謎”。北京時間8月12日晚間，復旦大學物理學系張遠波教授團隊與合作者以“Superconducting 2D cuprate with a single CuO₂ plane”為題在《自然》（Nature）發表研究成果，成功將銅基高溫超導體削薄至僅含一個超導平面——即單個CuO₂面。這一“極限操作”不僅證實了高溫超導的二維本質，更在超導-絕緣體轉變的臨界點發現了奇異的“反常金屬態”和量子臨界現象，為研究高溫超導機理提供了全新的量子實驗平臺。
-
----
-
-### 2026-08-13 11:15:17  #MKT News
-
-Iraq's prime minister said Baghdad will not tolerate any party violating Iraqi airspace or taking actions that threaten national security.
-
----
-
-### 2026-08-13 11:13:55  #MKT News
-
-【South Korea raises household-debt growth cap, pledges 230,000 new homes in Seoul metro】South Korea has raised the cap on household-debt growth and pledged to supply more than 230,000 homes in the Seoul metropolitan area, including 100,000 units in newly designated zones. The addition sits atop an existing target of 1.35 mln housing starts in the Seoul metro for 2026-2030 and further intensifies supply-side measures first announced in September, after a prolonged construction-sector slowdown tightened new-home supply, contributed to rising prices and worsened affordability for younger households.
-
----
-
-### 2026-08-13 11:13:08  #其他
-
-伊拉克總理表示，該國不會容忍任何違反其領空的行徑或來自任何一方的對國家安全的威脅。
-
----
-
-### 2026-08-13 11:12:47  #宏觀
-
-【我國碧水保衛戰將努力推動解決群眾身邊“煩心事”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”期間，我國碧水保衛戰將主動靠前、多措並舉，努力推動解決群眾身邊“煩心事”。會上介紹，近年來，我國大江大河水質持續向好，長江、黃河干流連續多年保持Ⅱ類水質，成效明顯，但水生態環境保護依然存在薄弱環節：有的地方“幹流好、支流差”，有的地方“平時好、汛期差”，還有的地方，老百姓“房前屋後”“田邊道旁”的水汙染問題依然突出。根據國務院辦公廳轉發的《群眾身邊水體保護治理行動方案》，今後將更加聚焦群眾身邊水體，解決群眾“家門口”的突出水生態環境問題。首先，擴面提質治理重點。其次，加力推進控源截汙。再次，持續深化監測監管。特別重要的是，主動回應群眾關切。一方面，透過全國生態環境投訴舉報平臺接受舉報，2025年共受理並辦結水汙染投訴1.4萬餘件。另一方面，主動運用衛星遙感、大資料篩查等手段廣泛收集問題線索，建立排查、移交、核查、整改、銷號的閉環工作機制。生態環境部將繼續堅持環保為民，深入推進群眾身邊水體治理，力爭到2030年，基本實現“三無”，即無異色、無異味、無異物，讓老百姓更多感受到水環境的治理成效。
-
----
-
-### 2026-08-13 11:11:55  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量2107億元。
-
----
-
-### 2026-08-13 11:11:15  #MKT News
-
-Indonesia Stock Exchange CEO said MSCI's rebalancing is a routine measure and the bourse will continue to engage with MSCI.
-
----
-
-### 2026-08-13 11:10:53  #公司 #國際
-
-印尼證券交易所執行長表示：明晟（MSCI）指數調整是一項週期性措施，印尼證交所將繼續與明晟保持溝通。
-
----
-
-### 2026-08-13 11:10:49  #Trading Economics #Economy #New Zealand #Inflation Expectations #Importance 1
-
-New Zealand 2-Year Inflation Outlook Falls to 2.34% — The Reserve Bank of New Zealand’s (RBNZ) quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, down from 2.53% in the previous period, marking the lowest reading since Q4 2025. Meanwhile, one-year inflation expectations also moderated to 2.60%, down from 3.41% in Q1. Conversely, longer-term expectations accelerated, with five-year inflation forecasts rising to 2.31% from 2.22%, while ten-year expectations edged up to 2.20% from 2.19%. In terms of monetary policy, respondents expect the Official Cash Rate (OCR) to rise to 2.73% from 2.34% by the end of the September quarter and further to 3.21% over the next year. The survey was conducted after the RBNZ’s monetary policy decision in May 2026.
-
----
-
-### 2026-08-13 11:10:19  #國際
-
-印尼計劃於 8 月 13 日開展政府債券債務置換操作。
-
----
-
-### 2026-08-13 11:09:44  #MKT News #CSCO.O #Impact bullish
-
-Melius Research raises Cisco (CSCO.O) PT to $160 from $145.
-
----
-
-### 2026-08-13 11:08:16  #宏觀
-
-【一年來我國已累計清理處置6000多萬噸固體廢物】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，自去年6月啟動全國非法傾倒處置固體廢物專項整治行動以來，我國已累計排查發現問題5.6萬多個，完成整改4.5萬多個，清理處置各類固體廢物6000多萬噸，一大批存量汙染問題得到有效整治。
-
----
-
-### 2026-08-13 11:06:21  #市場 #焦點
-
-南向資金淨買入額達40億港元。
-
----
-
-### 2026-08-13 11:05:35  #MKT News #WTI #Impact bearish #Brent
-
-【Industry group expects fifth domestic refined fuel price cut this year】China’s fuel-price adjustment window opens at 00:00 on Aug. 15. Industry consultancy Longzhong Information says international crude weakened over the cycle, prompting a domestic refined-fuel cut of about 0.15 yuan/liter, expected to be the fifth reduction this year. Filling a 70‑liter tank would save roughly 11 yuan.
-
----
-
-### 2026-08-13 11:03:56  #其他
-
-【機構預測成品油價格將迎年內第五次下調】8月14日24時（本週六零點），成品油調價視窗將再度開啟。記者從行業機構隆眾資訊獲悉，因週期內國際原油價格震盪下行，屆時國內成品油下調幅度在0.15元/升左右，預計將迎年內第五次下調。以70升的油箱來計算，私家車主加滿一箱油將少花11元左右。（第一財經）
-
----
-
-### 2026-08-13 11:03:52  #宏觀 #公司
-
-【四川核能產業將迎建設運“雙高峰”】日前，國務院常務會議決定核准浙江金七門核電二期等4個核電專案共8臺機組。這是繼去年核准5個核電專案後，我國核電行業迎來的又一個大動作。華龍一號具有鮮明的“四川基因”，四川在研發設計、裝備製造等方面均有深度參與。 先看研發設計端，華龍一號的“心臟”——反應堆及一回路系統，由位於成都的中國核動力研究設計院研發設計。再看裝備製造端，也有不少“四川身影”。在德陽，國機重灌二重灌備已實現核主泵泵殼國產化，為華龍一號披上“超級合金盔甲”，當前正聚焦華龍一號2.0版，瞄準主裝置融合、技術檔案審查、國內標準應用等方向持續攻堅。東方電氣集團所屬企業深度參與核島和常規島主裝置供貨，包括反應堆冷卻劑泵、汽輪發電機組等。德陽九鼎電氣主要承製常規島部分的汽輪機低壓外缸等大型結構件。 在成都都江堰市，四川華都核裝置製造有限公司是國核心反應堆控制棒驅動機構領域龍頭企業，市場佔有率名列前茅。目前，全國多臺華龍一號機組的控制棒驅動機構由該公司承製。 聚焦核燃料環節，位於宜賓的中核建中核燃料元件有限公司負責CF3燃料元件製造，實現“成都研發設計”與“宜賓生產製造”產業鏈聯動。 此外，創新平臺也將持續發揮支撐作用。位於成都的先進核能裝備中試研發平臺，是連線研發與量產的“橋樑”。隨著華龍一號2.0版新技術、新材料、新工藝的應用需求增加，該平臺將繼續為高校、科研院所和企業提供關鍵中試驗證服務，助力四川核能產業持續增長。（四川日報）
-
----
-
-### 2026-08-13 11:03:36  #國際
-
-印尼基準股指跌幅一度達到1.5%，報6281.572點。
-
----
-
-### 2026-08-13 11:02:56  #公司
-
-【小馬智行在佛山新設科技公司 含智慧機器人研發業務】企查查APP顯示，近日，佛山小馬智行科技有限公司成立，法定代表人為莫璐怡，註冊資本為2000萬元，經營範圍包含新材料技術研發；智慧機器人的研發；人工智慧應用軟體開發；人工智慧硬體銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由小馬智行關聯公司廣州小馬智行科技有限公司全資持股。
-
----
-
-### 2026-08-13 11:02:47  #其他
-
-【第二屆世界人形機器人運動會將舉行51個專案1301場比賽】第二屆世界人形機器人運動會將於8月22日在國家速滑館“冰絲帶”開幕，本屆運動會由北京市人民政府、中央廣播電視總檯等聯合主辦。△資料圖與首屆運動會相比，第二屆世界人形機器人運動會的競賽專案、參賽隊伍全面提質擴容，本屆運動會正賽將於8月22日至26日在國家速滑館“冰絲帶”舉行，共5天時間。按照賽程安排，將舉行51個專案共1301場比賽。賽期從首屆運動會的3天6個競賽單元增加到5天9個單元，時間由上午和下午調整為下午和晚上，每個單元各3個小時。
-
----
-
-### 2026-08-13 11:02:32  #央行 #中國央行
-
-【央行連續三日7天期逆回購操作量為零 中期流動性投放成關鍵觀察視窗】自8月11日以來，央行已連續三個交易日7天期逆回購操作量為零。從此前地量操作到連續“零投放”，公開市場操作變化引發債券市場關注。多家機構認為，當前尚不能僅憑7天期逆回購連續零投放判斷貨幣政策取向發生變化，後續中期流動性工具投放規模、大行融出情況以及資金價格走勢，將成為觀察央行流動性管理態度的重要視窗。
-
----
-
-### 2026-08-13 11:02:18  #宏觀
-
-【“十五五”時期生態環境監測和執法將大力推進數智化轉型】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期，生態環境部圍繞監測、執法，將採取更大力度推進數智化轉型，進一步提升生態環境監管的質效。會上介紹，生態環境部將對大氣、水、海洋等傳統領域，全面實施數智化升級工程，推進國控站點儀器裝置的智慧化更新改造。在大氣方面，將加大人工智慧預測模型應用，升級空氣質量預報平臺，預計到2030年，全國72小時PM2.5超標天預報準確率將提升至80%以上。在水方面，將新建一批自動取樣站，組建海洋無人船編隊，全面革新傳統監測作業模式。在固體廢物、新汙染物等新興領域，將加快新技術、新模式的應用推廣。如利用米級和亞米級衛星開展常態化遙感排查，精準鎖定固廢違法堆放點位。新汙染物監測則依託現有的地表水、海洋等監測站點，同步取樣送樣，以較低成本實現多介質、多指標監測的協同增效。
-
----
-
-### 2026-08-13 11:01:56  #其他
-
-VINGROUP：票息上限為年利率8%，視市場情況而定。
-
----
-
-### 2026-08-13 11:01:49  #其他
-
-VINGROUP：預計2026年第三至第四季度發行韓元債券，尚待批准
-
----
-
-### 2026-08-13 11:01:46  #MKT News
-
-RBNZ survey: New Zealand Q3 two-year average inflation expectations at 2.34%.
-
----
-
-### 2026-08-13 11:01:32  #公司 #國際
-
-越南企業集團Vingroup計劃面向韓國投資者私募發行規模最高達4550億韓元（合3.214億美元）、以韓元計價的3年期普通債券。
-
----
-
-### 2026-08-13 11:01:29  #MKT News
-
-RBNZ survey: New Zealand Q3 one-year-ahead average inflation expectations at 2.6%.
-
----
-
-### 2026-08-13 11:01:19  #市場
-
-【醫藥商業板塊拉昇，藥易購漲超13%】醫藥商業板塊拉昇，藥易購漲超13%，百洋醫藥、人民同泰、華人健康、建發致新、漱玉平民跟漲。
-
----
-
-### 2026-08-13 11:00:51  #其他
-
-紐西蘭三季度2年通脹預期 2.34%，前值 2.53%。
-
----
-
-### 2026-08-13 11:00:39  #國際
-
-【中泰警方聯合偵破一起跨國信用卡盜刷案】近日，公安部與泰國皇家警察總署密切協作，同步對一起專門針對中國公民的重大跨國信用卡盜刷案開展收網行動，摧毀多個犯罪窩點，分別抓獲4名中國籍犯罪嫌疑人和5名泰國籍犯罪嫌疑人，取得重大戰果。2025年，公安部經偵局指導協調上海公安經偵部門研判發現一個針對我國公民實施信用卡盜刷的跨國犯罪團伙，並及時將案件情況和協查請求通報泰國警方，開展國際執法合作。經查，2024年，犯罪嫌疑人計某與肖某共謀，由計某在泰國開設果乾店為幌子，以使用銀聯卡消費打折為誘餌，非法獲取受害人信用卡資訊。隨後，由肖某製作偽卡，招募刷手實施盜刷和銷贓牟利。截至目前，已查明涉案金額達500餘萬元人民幣。今年7月初，公安部派工作組赴泰國，與泰警方開展聯合辦案，精準研判該犯罪團伙組織架構、核心骨幹、作案窩點，全面掌握其作案模式和資金流向。近日，兩國警方同步開展收網，實現案件全環節部署、全要素蒐證、全鏈條打擊。公安部有關負責人表示，此次收網系中泰兩國警方近年來在打擊經濟犯罪領域首次同步開展的聯合執法行動，有效震懾了跨國經濟犯罪活動。下步，雙方將持續鞏固本次聯合行動成果，探索建立打擊跨境經濟犯罪常態化協作機制，不斷深化線索共享、經驗互通、聯合研判、追逃追贓等執法合作。
-
----
-
-### 2026-08-13 11:00:24  #市場
-
-【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%】TrendForce資料顯示，8月13日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.42%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。
-
----
-
-### 2026-08-13 10:58:49  #公司 #市場
-
-【重大資產重組，股價4天翻倍，藍盾光電回應】8月13日，藍盾光電再度“20CM”一字漲停開盤，實現4連板，自8月10日復牌以來，該股4個交易日累計漲幅已達107.31%，實現翻倍。針對股價持續漲停一事，記者以投資者身份致電藍盾光電，接線工作人員回應，相關事項資訊均以已披露公告為準，本次併購重組尚處於前期階段；若無特殊事項，後續暫無停牌安排，股票正常交易，本次交易對上市公司業績的影響目前無法作出答覆。(21世紀經濟報道)
-
----
-
-### 2026-08-13 10:58:34  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yield climbed to around 2.86% on Thursday, reaching its highest level in more than a month as markets assessed the likelihood of a Bank of Japan interest rate hike in September after a growing number of policymakers called for a stronger response to mounting inflation pressures. Meanwhile, producer prices in Japan continued to rise at an elevated pace in July, keeping cost pressures on companies high. Producer inflation rose 7.2% in July, easing slightly from 7.3% in June, which was the highest level since March 2023. The BOJ recently attributed the rise in producer prices partly to higher oil costs following the Middle East conflict, along with increases in nonferrous metal and machinery prices amid stronger global demand linked to the artificial intelligence boom. Tight labor market conditions have also continued to drive wage pressures as companies compete to attract and retain workers.
-
----
-
-### 2026-08-13 10:58:33  #Trading Economics #Markets #Commodity #Importance 1
-
-Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects.
 
 ---
