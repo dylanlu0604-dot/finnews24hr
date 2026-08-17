@@ -1,7 +1,159 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:52:45_
-_本檔包含 2915 則快訊，約 605499 字_
+_更新時間：2026-08-18 04:35:50_
+_本檔包含 2910 則快訊，約 604529 字_
+
+---
+
+### 2026-08-18 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index decreased 273 points or 0.51 percent on Monday to close at 53460 points. The decline was led by Nike (-4.05%), Salesforce (-3.06%) and Walt Disney (-3.02%). On the upside, the strongest performers were Caterpillar (3.13%), Chevron (1.41%) and Goldman Sachs (1.18%).
+
+---
+
+### 2026-08-18 04:31:45  #國際
+
+美國國家航空航天局：OPS 合同總上限金額為 1 億美元。
+
+---
+
+### 2026-08-18 04:31:13  #國際
+
+美國國家航空航天局：遴選多家企業提供有效載荷處理服務，入選企業包括 BLUE ORIGIN、FIREFLY AEROSPACE、L3HARRIS。
+
+---
+
+### 2026-08-18 04:16:58  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 272.39 points (-0.51%) to 53,460.02; S&P 500 fell 40.39 points (-0.52%) to 7,745.37; Nasdaq Composite fell 84.25 points (-0.32%) to 26,644.91.
+
+---
+
+### 2026-08-18 04:15:09  #MKT News #Market Regions #Wall Street (US)
+
+【Anthropic's annualized revenue tops $65 billion ahead of IPO】People familiar said Anthropic's current performance implies annualized recurring revenue (ARR) above $65 billion, more than a sevenfold increase versus year-end. One source said Anthropic reported the figure to investors in routine updates; ARR stood at $65 billion as of end-July. The revenue acceleration has strengthened the company's confidence in pursuing an IPO. Anthropic and OpenAI have privately filed listing documents; Anthropic could debut on Wall Street as soon as this fall, potentially ahead of OpenAI.
+
+---
+
+### 2026-08-18 04:13:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Drop as Middle East Risks Escalate — US stock indices closed lower on Monday amid concerns that elevated oil prices will fuel inflation as hopes for a deal to end the war in the Middle East faded. The S&P 500 fell 0.5%, the Nasdaq lost 0.2% and the Dow shed 273 points. Prospects for peace suffered a setback, with fighting flaring anew and rhetoric escalating. Oil prices rose, rasing concerns that inflation could prompt the Fed to raise rates before the year is over. The 30-year Treasury yield hit its highest level since 2007, reflecting concerns over surging government spending. Credit-sensitive stocks, including financials and hyperscalers, closed lower. Google lost 0.6%, Microsoft was down 3% and Meta shed 3.5%. Berkshire Hathaway lost 1.1%, Visa shed 1.5% and Amex retreated 1.8%. Meanwhile, chipmakers posted gains after strong revenue growth from Anthropic. The company is meeting with banks over a potential IPO, which could be the biggest on record. Micron added 4.1%, Intel gained 1% and Sandisk soared 9%.
+
+---
+
+### 2026-08-18 04:12:51  #MKT News
+
+【FIFA dismisses COO after criticism of Infantino's plan to sell World Cup stakes】FIFA confirmed on Aug. 17 it has terminated the employment of chief operating officer Kevin Lamour. British media, including Sky News, reported the dismissal followed Lamour's public criticism of FIFA president Gianni Infantino's proposal to sell portions of World Cup and other tournament stakes to private investors.
+
+---
+
+### 2026-08-18 04:10:13  #MKT News #Important #US10Y #Impact bearish #DXY #EURUSD #Impact bullish
+
+【China, UK, Japan reduced US Treasury holdings in June】U.S. Treasury data showed holdings of U.S. Treasuries by Japan, the United Kingdom and China fell month-on-month in June. Japan held $1.117 trillion, down $26.4 billion; the UK held $939.9 billion, down $8.7 billion; China held $633.4 billion, down $26.0 billion.
+
+---
+
+### 2026-08-18 04:10:12  #宏觀 #公司 #市場 #焦點 #國際
+
+【中英日在6月均減持美債】美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。
+
+---
+
+### 2026-08-18 04:03:56  #其他
+
+【FIFA解僱批評因凡蒂諾的營運長】國際足聯（FIFA）當地時間8月17日在一份宣告中證實，國際足聯與其營運長、法國人凱文·拉穆爾的工作關係已於當天終止。據英國天空新聞等媒體報道，拉穆爾遭解僱的原因是他曾公開批評國際足聯主席因凡蒂諾“將世界盃等賽事部分股權出售給投資者”的計劃。 拉穆爾曾是因凡蒂諾的“核心圈”成員，曾在2016年助其競選，助其爆冷贏得國際足聯主席選舉。2024年11月，拉穆爾出任國際足聯營運長。 拉穆爾今年7月曾撰文稱，因凡蒂諾近幾個月來在籌劃出售世界盃等賽事股權計劃時“缺乏透明度”，國際足聯的工作人員遭到了“欺騙”，他們“理應得到尊重，而非蔑視與恐嚇”。拉穆爾稱，“這只是‘某一個人’的專案，絕不可推進。”（CCTV國際時訊）
+
+---
+
+### 2026-08-18 04:03:21  #公司
+
+杜克能源感謝大辛辛那提地區使用者的耐心與支援，公司搶修人員已在罕見的直線風暴過後完成電力恢復工作。
+
+---
+
+### 2026-08-18 04:02:43  #MKT News #Important #Market Regions #Greater China #Market Themes #China EV Leaders #MU.O #Impact bullish #SKHY.O #SNDK.O
+
+【US close: major indices down; storage stocks rally】Dow Jones -0.5%, S&P 500 -0.5%, Nasdaq -0.32% at Monday close. Storage/memory names outperformed: SK Hynix (SKHY.O) +3%, Micron Technology (MU.O) +4%, SanDisk (SNDK.O) +8.8%. Nike (NKE.N) -4%. Nasdaq Golden Dragon China Index +0.37%; XPeng (XPEV.N) +4%, Miniso (MNSO.N) -8%.
+
+---
+
+### 2026-08-18 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.51%，標普500指數跌0.52%，納指跌0.32%。Carvana Co.跌7.26%，特許通訊跌6.59%，星座跌6.20%，阿萊技術公司跌5.60%，The Trade Desk跌5.23%，現在服務跌5.08%。“七姐妹”方面：英偉達跌0.07%，蘋果跌0.11%，亞馬遜跌0.51%，谷歌跌0.61%，特斯拉跌0.87%，微軟跌3.04%，Meta Platforms跌3.54%。
+
+---
+
+### 2026-08-18 04:00:22  #國際
+
+美國6月國際資本淨流入 1335億美元，前值由1322億美元修正為1315億美元。
+美國6月外資淨買入美國公債 68億美元，前值566億美元。
+美國6月長期資本淨流入 1727億美元，前值由2327億美元修正為2312億美元。
+
+---
+
+### 2026-08-18 04:00:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
+
+US net long-term capital inflows were $172.7bln in June; the prior reading was revised from $232.7bln to $231.2bln.
+
+---
+
+### 2026-08-18 04:00:12  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
+
+Foreign net purchases of US Treasuries in June were $6.8bn, versus $56.6bn previously.
+
+---
+
+### 2026-08-18 04:00:10  #MKT News
+
+U.S. net international capital inflows were $133.5 billion in June; prior reading revised from $132.2 billion to $131.5 billion.
+
+---
+
+### 2026-08-18 04:00:01  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.35%】華住酒店集團漲11.32%，Tims中國漲6.92%，盛豐物流漲5.86%，老虎證券漲5.11%，小鵬汽車漲4.32%。
+
+---
+
+### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
+
+United States | Net LongTerm TIC Flows (Jun) | actual 172700000000B | previous 232700000000B
+
+---
+
+### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
+
+United States | Net Foreign Purchases of Treasury Securities (Jun) | actual 6800000000B | previous 56600000000B
+
+---
+
+### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
+
+United States | Net LongTerm International Capital Flows (Jun) | actual 133500000000B | previous 132200000000B
+
+---
+
+### 2026-08-18 03:57:26  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact mixed
+
+Nasdaq will add a trading session from 9:00 p.m. to 4:00 a.m. U.S. Eastern Time, effective Dec. 6, 2026.
+
+---
+
+### 2026-08-18 03:56:17  #MKT News #Nasdaq100 #Impact bullish
+
+Nasdaq is in talks with regulators to offer near-continuous trading on the Nasdaq Stock Market, five days a week, 23 hours a day.
+
+---
+
+### 2026-08-18 03:54:36  #公司
+
+納斯達克公司：將於 2026 年 12 月 6 日推出全新交易時段，美東時間晚 9 點至凌晨 4 點。
+
+---
+
+### 2026-08-18 03:54:19  #其他
+
+納斯達克：正與監管機構溝通，擬在納斯達克股票市場推出每週 5 天、每日近 23 小時的近乎連續交易服務。
 
 ---
 
@@ -17373,185 +17525,5 @@ Egyptian President Sisi and Kushner confirmed the need to resolve the current re
 ### 2026-08-16 21:13:11  #MKT News
 
 Hamas said a delegation arrived in Egypt at midday local time on Sunday and held talks with the head of the Egyptian General Intelligence Directorate, IRNA reported.
-
----
-
-### 2026-08-16 21:12:37  #公司
-
-【越南GELEXIMCO集團到訪萬德斯並舉行座談】據萬德斯訊息，8月16日，越南GELEXIMCO集團高層代表團到訪萬德斯並舉行座談。雙方圍繞環保產業深度合作、資源迴圈利用及綠色低碳發展等議題深入交流，共話中越環保合作新機遇。
-
----
-
-### 2026-08-16 21:10:36  #公司 #國際
-
-【烏稱已使俄電商巨頭“野莓”多個物流中心停運】烏克蘭國防部16日通報，烏方已使俄羅斯大型電商平臺“野莓”公司規模最大的10個物流中心中的7個停止運營。烏克蘭國防部稱，在16日凌晨俄羅斯莫斯科州遭到大規模無人機襲擊後，除多莫傑多沃的“野莓”公司倉庫外，該公司位於“克列迪諾”工業園區的物流樞紐也停止了運營。烏方表示，“克列迪諾”物流樞紐是“野莓”公司佔地面積最大的倉庫，面積達25萬平方米。（央視新聞）
-
----
-
-### 2026-08-16 21:09:56  #國際
-
-白宮新聞秘書：特朗普總統任內的FBI犯罪報告顯示，暴力犯罪率創紀錄以來的新低！
-
----
-
-### 2026-08-16 21:08:19  #國際
-
-據統計，烏克蘭已摧毀了物流野莓10 個最大物流中心中的 7 個，俄羅斯最大電子商務平臺前 30 名倉庫中有 21 個遭到無人機襲擊。
-
----
-
-### 2026-08-16 21:06:31  #MKT News
-
-Al Arabiya TV cited Saudi civil defence saying a danger alert for the Jazan region was lifted after the warning system was activated.
-
----
-
-### 2026-08-16 21:05:36  #其他
-
-沙特民防部門：吉贊地區此前空襲警報已經解除。
-
----
-
-### 2026-08-16 21:04:43  #MKT News #WTI #Impact bullish #Brent
-
-Saudi state news agency said air-raid sirens were activated in the Jazan region. Earlier, TASNIM NEWS reported explosions near the Jazan refinery in Saudi Arabia.
-
----
-
-### 2026-08-16 21:04:04  #其他
-
-環球聯合保險季度保險合同收入為1340萬美元。
-
----
-
-### 2026-08-16 21:03:13  #其他
-
-沙特民防部門發文，對吉贊省潛在安全風險發出警報。
-
----
-
-### 2026-08-16 21:02:58  #公司
-
-【微信下架多部違規微短劇並處置違規小程式】近日，微信釋出關於違規微短劇的處置公告（2026年7月），根據國家廣播電視總局和廣東省廣播電視局的部署要求，平臺不斷加大對低俗有害微短劇的巡查稽核和違規侵權微短劇小程式的運營管理。平臺也持續規範真人類微短劇、其他動畫類微短劇和AI真人類微短劇的管理標準、創作要求與傳播秩序，切實保障使用者權益和未成年人身心健康。近期，平臺透過巡查稽核發現，部分微短劇存在不良價值觀導向內容或侵權等行為。根據國家相關法律法規要求以及《騰訊微信軟體許可服務協議》《微信小程式運營規範》的相關規定，平臺下架了數十部違規微短劇，包含部分價值觀導向不正、內容粗製濫造的內容。同時，平臺對存在違規行為的小程式也進行了處置。（每日經濟新聞）
-
----
-
-### 2026-08-16 21:02:58  #MKT News
-
-【Houthi forces release prisoners en masse conditioned on joining frontlines】Arab satellite TV’s English channel, citing military sources, reports Yemen’s Houthi forces have freed hundreds of prisoners on the condition they join the militia and fight on nationwide fronts. Sources say 850 detainees were released from prisons in Saada, Hajjah and Sana’a on that condition, and the Houthis are preparing to free about 1,400 more from Zamar province for deployment across multiple battlefronts.
-
----
-
-### 2026-08-16 21:01:15  #其他 #焦點
-
-市場訊息：沙烏地阿拉伯吉贊煉油廠周邊傳出爆炸聲。
-
----
-
-### 2026-08-16 21:00:53  #其他
-
-【深圳機場暑期通關客流創新高】今年暑期以來，深圳機場已增加了至新加坡、吉隆坡、河內、雅加達等城市的航班頻次，出入境人員86.4萬人次，同比增長5%，創歷史同期新高。（新華社）
-
----
-
-### 2026-08-16 20:59:05  #國際
-
-【烏克蘭多地遭空襲 烏海軍打擊俄導彈系統】烏克蘭軍方16日稱，俄軍15日晚至16日凌晨使用導彈和無人機對烏多地發動空襲，烏軍當天打擊俄軍“稜堡”導彈系統，造成裝備和人員損失。第聶伯羅彼得羅夫斯克州軍事管理局局長甘扎16日在社交媒體發文稱，俄軍當天凌晨對該州發動的空襲已造成1人死亡，另有14人受傷。該州工業城市克里沃伊羅格和尼科波爾均遭到襲擊。烏克蘭海軍16日在社交媒體發文稱，烏海軍當天凌晨打擊了俄軍部署在克里米亞的“稜堡”導彈系統及發射陣地，俄軍裝備和人員損失嚴重。（新華社）
-
----
-
-### 2026-08-16 20:58:45  #其他
-
-沙烏地阿拉伯稱已在吉贊釋出預警。
-
----
-
-### 2026-08-16 20:58:11  #公司 #國際
-
-【全球開源AI大洗牌 中國開源模型加速崛起】全球最大AI開源平臺Hugging Face近日釋出的最新觀察報告顯示，全球開源人工智慧生態正在快速擴張，而中國模型正在成為其中的重要力量。Hugging Face的報告指出，2026年以來的大部分月份，中國AI企業釋出的最大開源模型在引數規模上顯著超越美國同行：中國模型的月度引數上限在7540億至2.78萬億之間，而美國模型在同期多數月份則低於1300億。不僅規模領先，中國模型在開放生態建設方面同樣表現突出。Hugging Face的資料顯示，在引數超過200億的中國模型中，超八成採用了較為寬鬆的授權協議，允許企業和開發者進行二次開發和商業部署。其中，Qwen已經成為Hugging Face開源生態的重要基礎模型。資料顯示，基於Qwen的衍生模型數量已超過15萬個，遠超谷歌和Meta等競爭對手。Hugging Face的報告還指出，今年以來，美國推出新開源模型最多的兩家公司，不再是谷歌和Meta，而是AMD和英偉達。英偉達推出Nemotron系列模型，透過開放模型展示GPU的硬體協同能力；AMD則更多參與模型轉換和效能調優。 (央視財經)
-
----
-
-### 2026-08-16 20:57:11  #央行 #市場 #國際
-
-【多國央行陷入“救火-加槓桿-再救火”的迴圈困境】英格蘭銀行首席經濟學家Huw Pill警告，各國央行為防止市場崩潰而推出的救助機制，正在無意間補貼政府借貸、推高系統性槓桿，並可能干擾貨幣政策傳導。 Pill將這一困境形容為“打地鼠”：“諷刺的是，脆弱性恰恰是由那些為降低脆弱性而引入的機制所製造的。”  對沖基金持有的美國國債已從十年前的6000億美元膨脹至2.4萬億美元。目前，這一迴圈已進入新一輪的槓桿積累階段，而各方尚未找到有效的破局之道。
-
----
-
-### 2026-08-16 20:56:10  #央行 #國際
-
-【德國上半年對美直接投資額跌至3年來新低 】受美國政府貿易政策不確定性帶來的影響，德國企業今年上半年對美直接投資總額降至43億歐元（約合50億美元），為3年來新低。路透社16日援引德國經濟研究所基於德國央行資料的測算報道，今年上半年德國企業對美直接投資同比下降近三分之二，與2024年同期相比降幅接近80%，為2023年以來最低水平。自美國總統特朗普開啟第二任期以來，美國政府以加徵進口關稅威脅其貿易伙伴，爭取對美有利的貿易條件。2025年7月，特朗普和歐盟委員會主席馮德萊恩在英國宣佈美歐達成新貿易協議，協議包括美國將對歐盟輸美產品徵收15%的關稅、歐盟將對美增加6000億美元投資及購買價值7500億美元的美國能源等。德國經濟研究所研究員薩米娜·蘇丹告訴路透社記者，自特朗普重返白宮以來，德國企業對美投資便持續走低；在美經營的德國企業將所獲利潤用於在美再投資，但對投入新資本普遍持觀望態度。（新華社）
-
----
-
-### 2026-08-16 20:48:14  #MKT News
-
-【Iranian parliament passes anti-infiltration bill】The Iranian parliament’s presidium spokesman Abbas Goudarzi said on the 16th the legislature passed an anti-infiltration bill to counter infiltration by hostile intelligence agencies and foreign governments or organisations. Hassan Kashkavi, spokesman for the parliament’s National Security and Foreign Policy Committee, said existing laws address espionage but left a legal gap on anti-infiltration that the new bill is intended to fill.
-
----
-
-### 2026-08-16 20:47:49  #國際
-
-巴勒斯坦訊息人士：庫什納決定在前往特拉維夫與以色列總理會晤之前，於開羅會見哈馬斯領導層。
-
----
-
-### 2026-08-16 20:47:31  #國際
-
-巴勒斯坦訊息人士透露：特朗普女婿庫什納將於稍後在開羅會見哈馬斯領導層，卡達、埃及和土耳其官員將出席。
-
----
-
-### 2026-08-16 20:47:03  #國際
-
-【伊朗議會透過反滲透法案】伊朗議會主席團發言人阿巴斯·古達爾齊16日宣佈，伊朗議會透過了一項反滲透法案，以應對敵方情報機構及外國政府或機構對伊朗的滲透。據伊朗塔斯尼姆通訊社報道，古達爾齊在接受採訪時說，議會當天審議並以183票贊成的投票結果透過了上述法案。據報道，伊朗議會國家安全與外交政策委員會發言人哈桑·卡什卡維在介紹該法案時說，伊朗針對間諜活動已有相關法律，但在反滲透問題上存在法律空白，制定該法案旨在填補這項空白。（新華社）
-
----
-
-### 2026-08-16 20:44:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says US forces expelled, barred from Persian Gulf, Gulf of Oman and Strait of Hormuz】Iran's army commander Hatami said on Aug. 16 US forces have been expelled and are no longer permitted to enter the Persian Gulf, Gulf of Oman or the Strait of Hormuz. He said US bases in the region can never be restored to their previous status and Iran will not allow that to happen.
-
----
-
-### 2026-08-16 20:39:40  #國際
-
-市場訊息：距離關鍵的國會中期選舉不到三個月，屆時國會將易主。根據最新民調，超過一半的美國選民表示，唐納德·特朗普入主白宮後，他們的生活變得更糟。
-
----
-
-### 2026-08-16 20:34:09  #其他
-
-辛巴威警方：卡里巴湖8月11日沉船事故遇難人數上升至80人，此前又尋獲多具遇難者遺體。
-
----
-
-### 2026-08-16 20:32:24  #公司
-
-【貝特利：首次公開發行股票並在創業板上市網上路演公告】貝特利公告稱，公司首次公開發行不超6570萬股人民幣普通股（A股）的申請已獲深交所上市稽核委員會審議透過，並獲中國證監會同意註冊。本次發行採用戰略配售、網下發行和網上發行相結合方式，發行後總股本為26270萬股。初始戰略配售1971萬股，約佔發行數量30%。發行人和保薦人國信證券定於2026年8月18日舉行網上路演，網址為全景路演（https://rs.p5w.net），時間為14:00 - 17:00 。
-
----
-
-### 2026-08-16 20:30:17  #MKT News
-
-【Fighting intensifies in Yemen; Iran-backed Houthi forces suffer heavy casualties】Al Arabiya English, citing military sources, reported about 200 Houthi fighters killed in the past 48 hours, most on the Taizz and Marib fronts. Sources said the deaths resulted from drone strikes and firefights, with numerous bodies delivered to hospitals in Sanaa, which is under Houthi control; the casualties follow a funeral last week for more than 184 fighters.
-
----
-
-### 2026-08-16 20:26:39  #國際
-
-【美海軍第五艦隊否認“拳師”號兩棲攻擊艦女性衛生用品短缺傳聞】針對近期外界有關美國海軍“拳師”號兩棲攻擊艦（USS Boxer）出現女性軍人衛生用品短缺的報道，美國海軍中央司令部及第五艦隊16日發表宣告予以明確否認，強調相關說法不屬實。宣告指出，“拳師”號自今年3月從聖迭戈出發以來，已先後進行了四次靠港訪問。該艦在上次靠港後在海上連續部署的時間不足兩個月。目前，艦上儲備充足，包括艦上商店和醫務室均備有女性衛生用品。此外，該艦在8月份已順利接收了兩次大型郵件補給。美國海軍第五艦隊強調，“拳師”號兩棲戒備大隊目前裝備齊全，具備執行所有指派任務的能力，隨時處於待命狀態。此前，有社交媒體賬號釋出影片稱，“拳師”號上的女性人員一直在“懇求”提供額外的衛生巾和棉條，稱基本的女性衛生用品在海上已經耗盡。
-
----
-
-### 2026-08-16 20:23:24  #國際
-
-伊朗陸軍總司令：美國人無權進入波斯灣、阿曼領海與霍爾木茲海峽。所有人都應該清楚，美國的任何基地都不可能恢復到戰前的狀態，伊朗絕不允許這種情況發生。
-
----
-
-### 2026-08-16 20:22:07  #MKT News
-
-【Israel post-war economy rebounds; Q2 GDP up 15.4% annualized】Israel's seasonally adjusted Q2 GDP rose 15.4% at an annualized rate, the Israel Central Bureau of Statistics said on Sunday, outpacing the Bloomberg median forecast of 8.3% from eight economists. Q1 GDP was revised to a 2.2% contraction. Goods and services exports led the rebound, up 35.2%; government consumption rose 19.5%, private consumption 14.7% and fixed capital formation 6.3%. Mizrahi‑Tefahot Bank chief strategist Yonie Fanning said before the release the economy is expected to see a "rapid recovery" after contraction linked to conflict with Iran, with consumer spending including durables a key driver.
 
 ---

@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:52:45_
-_本檔包含 3194 則快訊，約 605874 字_
+_更新時間：2026-08-18 04:35:50_
+_本檔包含 3196 則快訊，約 604090 字_
+
+---
+
+### 2026-08-14 13:45:40  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Interfax reports the Russian defence ministry said it sank two escort vessels that were accompanying ships transporting weapons to Ukraine.
+
+---
+
+### 2026-08-14 13:45:02  #其他
+
+算力租賃概念探底回升，網宿科技漲超17%，行雲科技漲超10%，資料港、奧飛資料、利通電子跟漲。
+
+---
+
+### 2026-08-14 13:44:36  #國際
+
+【臺灣多個黨派團體集會反對日本右翼擴軍與干涉臺灣問題】臺灣多個黨派團體14日在臺北舉行“反對日本軍國主義復辟”共同行動，嚴正反對日本右翼擴軍與干涉臺灣問題，絕不容許軍國主義復辟。集會活動在“日本臺灣交流協會”臺北事務所門前進行。活動發表宣告表示，臺灣問題純屬中國內政，絕不容許昔日侵略者說三道四。歷史不應遺忘，強烈譴責日本軍國主義死灰復燃，堅決反對日本右翼勾結“臺獨”分裂勢力。 (央視新聞)
+
+---
+
+### 2026-08-14 13:44:14  #國際
+
+俄羅斯稱其襲擊了兩艘為向烏克蘭運送武器的船隻護航的船隻。
+
+---
+
+### 2026-08-14 13:43:55  #MKT News #Important #Market Themes #Chip Wars #00981.HK #Impact bullish #02577.HK #03986.HK
+
+Hong Kong semiconductor stocks recovered in the afternoon. Semiconductor Manufacturing International Corp. (SMIC, 00981.HK) extended gains, up more than 6%; 02577.HK rose over 3%, while 02676.HK and GigaDevice Semiconductor (03986.HK) also advanced.
+
+---
+
+### 2026-08-14 13:43:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Interfax reported the Russian defence ministry said it struck a rail station inside Ukraine's Izmail port that was being used to transport military supplies.
+
+---
+
+### 2026-08-14 13:42:59  #國際
+
+俄羅斯稱其襲擊了烏克蘭伊茲梅爾港的火車站，該港口用於軍事貨物運輸。
+
+---
+
+### 2026-08-14 13:41:51  #其他
+
+B. RILEY將應用材料目標價從790美元下調至700美元。
+
+---
+
+### 2026-08-14 13:41:33  #MKT News
+
+Japan 5-year government bond yield rose 1 bp to 2.130%.
+
+---
+
+### 2026-08-14 13:41:27  #MKT News #USDJPY #Impact bearish
+
+USD/JPY slid more than 10 pips intraday to 159.24.
+
+---
+
+### 2026-08-14 13:41:10  #MKT News #Market Themes #AI Revolution
+
+【Zhipu (02513.HK) releases GLM-5.3, flags coding and long‑horizon gains】Zhipu (02513.HK) said it released GLM-5.3 today, using the same base model as GLM-5.2 and attributing all performance gains to post‑training optimization. The company said GLM-5.3 improves performance on complex coding and long‑horizon tasks, delivering a 50% uplift versus GLM-5.2 on its internal Z.ai code benchmark. Zhipu called GLM-5.3 the most capable open‑source weight model and said network‑capability gains during scaled post‑training deployment exceeded expectations. On the CyberGym platform, GLM-5.3 led vulnerability discovery tests, with improvements concentrated in later stages of exploit chains and more than double the exploitation‑benchmark performance of GLM-5.2. Pending security evaluation and hardening, Zhipu plans to publish the model weights two weeks after release.
+
+---
+
+### 2026-08-14 13:41:06  #市場 #國際
+
+5年期日本國債收益率上漲1個基點，至2.130%。
+
+---
+
+### 2026-08-14 13:40:58  #市場 #央行 #國際 #原創
+
+【訊息人士稱日本央行考慮9月加息，並加快緊縮步伐】據三位知情人士透露，日本央行最早可能在9月份加息，並考慮在此之後以比目前每年約兩次的頻率更積極的方式加息。此舉反映出日本央行對中東衝突帶來的價格壓力、強勁的全球人工智慧需求以及日元持續下跌趨勢日益增長的擔憂。儘管上個月日美罕見地聯合干預，日元的下跌趨勢依然持續。其中一位訊息人士表示：“提前加息已成定局”，這表明日本央行極有可能在9月17日至18日的下次政策會議上加息。另一位訊息人士也表達了類似的觀點，該訊息人士還表示：“日本央行也可能加快加息步伐。”
+
+---
+
+### 2026-08-14 13:40:55  #央行 #日本央行
+
+【訊息人士稱日本央行最早將於9月加息】訊息人士稱，日本央行最早將於9月加息，並考慮此後加快加息步伐。
+
+---
+
+### 2026-08-14 13:40:38  #MKT News #Important #USDJPY #Impact bearish #Nikkei 225
+
+Sources say the Bank of Japan could raise interest rates as early as September and is considering accelerating subsequent hikes.
+
+---
+
+### 2026-08-14 13:40:20  #MKT News
+
+【PHILIPPINE C.BANK governor signals less aggressive rate hikes as growth slows】PHILIPPINE C.BANK Governor Eli Remolona said slowing economic growth means the bank will not pursue as aggressive a pace of rate hikes, but policymakers still need to see a more convincing decline in inf before easing policy. The Philippines now has among Southeast Asia’s weakest growth and highest inf; a recent corruption scandal has dented market confidence and the Iran conflict has added to price pressures.
+
+---
+
+### 2026-08-14 13:38:46  #其他
+
+【天海防務等成立智慧船港航股權投資基金】企查查APP顯示，近日，九江市智慧船港航股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天海防務等共同出資。
+
+---
+
+### 2026-08-14 13:38:12  #其他
+
+【智譜釋出GLM-5.3】8月14日，智譜正式釋出GLM-5.3。據介紹，與GLM-5.2相比，GLM-5.3基座模型未變，但透過極致的後訓練Scaling大大提高了模型的智慧上界。GLM-5.3擁有更強的程式設計能力，在內部自建體感評測中較GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam (CLI)在內的公開基準測試中取得開源第一。智譜還表示，將在釋出兩週後開放模型權重。
+
+---
+
+### 2026-08-14 13:36:21  #其他
+
+【江蘇：推進太空計算全鏈條降本，支援太空超算中心等前瞻性試驗建設】《江蘇省商業航天高質量發展三年行動計劃（2026—2028年）》印發。其中提到，大力探索航天應用場景。實施多元化場景建設行動。支援衛星通訊、衛星導航、衛星遙感、太空計算、前沿方向等核心技術研發和應用，挖掘新領域新賽道、科學教育、社會治理、民生服務等領域需求，以提升生產力和改善生活為方向，推動打造一批“衛星+X”應用場景。其中，支援電、算、熱等產業鏈核心單位聯合攻關，加快國產算力晶片、伺服器在軌驗證，應用人工智慧技術，積極探索“天數天算”行業應用。推進太空計算全鏈條降本，支援太空超算中心等前瞻性試驗建設，強化“地數天算”技術儲備。
+
+---
+
+### 2026-08-14 13:35:59  #其他
+
+【江蘇：擬突破大運力和可重複使用火箭關鍵技術 強化發射回收驗證能力建設】《江蘇省商業航天高質量發展三年行動計劃（2026—2028年）》印發。其中提到，突破大運力和可重複使用火箭關鍵技術。支援重點企業開展先進液氧/煤油、液氧/甲烷火箭發動機研製，提升火箭運載能力，實施火箭發射與回收技術試驗驗證，加速技術迭代與成熟；提升關鍵零部元件與材料自主保障能力。支援開展火箭結構分系統、推進分系統、控制分系統等核心技術攻關，推進感測部件、高效能複合材料等基礎能力提升；強化發射回收驗證能力建設。支援有條件地區與國內現有發射場開展合作，推進海上機動發射裝備研製，提升海上發射服務保障能力。
+
+---
+
+### 2026-08-14 13:35:55  #其他
+
+【江蘇：到2028年有序推進若干個衛星星座建設 商業航天重點企業年產值力爭達到600億元】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，到2028年，建成1—2個省級製造業創新中心，中試驗證能力明顯提升；形成50個左右商業航天典型應用案例，有序推進若干個衛星星座建設，人工智慧應用賦能進一步深化；重點企業年產值力爭達到600億元，火箭、衛星製造能力穩步提升，在地面裝置和應用終端領域形成一批國內領先的標誌性產品，衛星服務規模持續擴大。
+
+---
+
+### 2026-08-14 13:35:36  #其他
+
+臺灣證交所加權股價指數收低0.5%報45,811.01。
+
+---
+
+### 2026-08-14 13:35:17  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index closed down 210.47 points, or 0.46%, at 45,811.01 on Friday, Aug. 14.
+
+---
+
+### 2026-08-14 13:34:46  #其他
+
+【江蘇：著力推進蘇州佈局火箭整機制造 做強關鍵材料和核心元器件】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，支援南京、無錫、常州、蘇州、南通、連雲港、鎮江等重點地區依託產業優勢，差異化佈局商業航天重點產業環節，推進省級未來產業先行集聚發展試點建設，打造國內有影響的商業航天產業叢集。而從蘇州來看，著力推進佈局火箭整機制造，做強關鍵材料和核心元器件、基礎軟體、衛星熱控、衛星電源、衛星推進、火箭貯箱等優勢單機及零部元件，發展鐳射通訊終端、遙感光學載荷研製與資料服務。
+
+---
+
+### 2026-08-14 13:34:38  #觀點 #國際
+
+日本國際協力銀行：本次貸款由花旗銀行北美東京分行與摩根大通銀行北美東京分行聯合融資，聯合融資總規模約為24億美元。
+
+---
+
+### 2026-08-14 13:33:08  #MKT News #Market Regions #Greater China
+
+【Jiangsu backs leading rocket and satellite systems and payload firms in accessing capital markets, speeding listings】Jiangsu province published a Three-Year Action Plan for high-quality commercial space development (2026-2028). It directs support for leading rocket and satellite systems and satellite-payload firms to connect with capital markets and accelerate listings. The plan targets core suppliers — including telemetry/control communication payloads, satellite laser communications and satellite power systems — for development into single-product market leaders and specialized, innovative "little giant" SMEs. It also pledges to nurture innovative SMEs in satellite applications, aerospace new materials and fundamental components. The province will form an aerospace industry development working group to strengthen cross-department coordination and seek national ministry support on launch-permit approvals, frequency and orbital resource coordination, constellation-operation qualifications and major project approvals.
+
+---
+
+### 2026-08-14 13:32:37  #宏觀
+
+【江蘇：支援火箭衛星總體、衛星載荷等領域龍頭企業對接資本市場，加快上市步伐】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，推動企業躍升發展。支援火箭衛星總體、衛星載荷等領域龍頭企業對接資本市場，加快上市步伐。支援測控通訊載荷、衛星鐳射通訊、衛星電源系統等核心配套企業成長為單項冠軍和專精特新“小巨人”企業。在衛星應用服務、航天新材料、基礎元器件等領域培育一批創新型中小企業；建立工作機制。組建省航空航天產業發展工作專班，加強跨部門協作，積極爭取國家部委在發射許可審批、頻率軌道資源協調、星座運營資質、重大專案核准等方面政策支援。
 
 ---
 
@@ -19083,155 +19245,5 @@ Abu Dhabi National Energy Company (TAQA) reported Q2 oil and gas production aver
 ### 2026-08-13 12:00:06  #宏觀 #兩會
 
 【外賣平臺“破卷向善” 三大平臺將在京率先落地“紅燈停表”】今天（13日），記者從北京市市場監督管理局獲悉，平臺經濟“破卷向善”第二次協商對話在京召開。京滬兩地市場監管部門圍繞外賣騎手演算法最佳化，組織三家外賣平臺與騎手共商共治，同時邀請專家學者、人大代表等多方協商最佳化舉措，進一步保護外賣騎手合法權益，推動行業從“速度競賽”轉向“質量競爭”，圍繞演算法評估最佳化、加強管理引導、常態化協商共治等三方面推出一系列措施。（央視新聞）
-
----
-
-### 2026-08-13 11:59:10  #公司 #市場
-
-【財通福鑫定開混合：將於8月13日下午開盤起至當日收盤停牌】財通基金管理有限公司公告，截至2026年8月13日上海證券交易所午間收盤，旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年8月13日下午開盤起至當日收盤停牌。
-
----
-
-### 2026-08-13 11:59:05  #其他
-
-北京市規劃自然資源委聯合市氣象局2026年8月13日12時降級釋出地質災害氣象風險藍色預警：8月13日12時至8月14日12時，我市昌平區北部、延慶區南部、密雲區、平谷區大部有發生崩塌、滑坡等地質災害的風險（藍色預警），請注意防範。
-
----
-
-### 2026-08-13 11:58:08  #公司
-
-【興業銀錫：前期已開展盾構機應用評估論證工作 現階段暫無相關實施計劃】興業銀錫(000426)8月13日在互動平臺表示，公司前期已開展盾構機應用評估論證工作，現階段暫無相關實施計劃。
-
----
-
-### 2026-08-13 11:57:24  #公司
-
-【眾擎機器人等在上海成立新公司 註冊資本6120萬】天眼查App顯示，上海星意擎坤科技有限公司於8月12日成立，註冊資本6120萬元人民幣，法定代表人為呂學敏，經營範圍含智慧機器人的研發、智慧機器人銷售、工業機器人銷售、人工智慧基礎軟體開發、人工智慧理論與演算法軟體開發等。股東資訊顯示，該公司由北京火星人視野科技有限公司持股約43.81%，上海傲意資訊科技有限公司持股約32.68%，深圳眾擎機器人科技股份有限公司持股約19.59%，上海坤亦商科技有限公司持股約3.92%，企業型別為有限責任公司（外商投資企業與內資合資）。
-
----
-
-### 2026-08-13 11:56:59  #MKT News
-
-Caitong Fuxin Interval Open-end Mixed Fund will suspend trading from the start of the afternoon session on Aug 13, 2026 through market close that day.
-
----
-
-### 2026-08-13 11:55:23  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Extends Losses, Trades Below MYR 4,700 — Malaysian palm oil futures slipped further, staying below MYR 4,700 per tonne and hovering near a one-week low amid weakness in edible oils on the Dalian and Chicago exchanges. Signs of ample supply continued to weigh on sentiment, with Malaysia’s July palm oil inventories rising 3.32% mom, while production surged 9.41%. Lower crude oil prices also pressured edible oils after forecasts pointed to softer global oil demand in 2026. Meanwhile, Malaysia lowered its September crude palm oil reference price, but the adjustment was not enough to push the export duty below 10%. Still, a weaker ringgit helped cushion the downside by making palm oil more affordable for overseas buyers. Export prospects also improved, with cargo surveyors estimating Malaysian palm oil shipments rose between 2.6% and 14.8% in the first 10 days of August. In top buyer India, expectations of stronger festive-season demand provided additional support after July edible oil imports climbed to a ten-month high.
-
----
-
-### 2026-08-13 11:51:40  #MKT News
-
-【IDC: Q2 China tablet shipments 7.96 mln, -4.4% YoY】IDC Q2 tracker: China tablet shipments 7.96 mln units, down 4.4% YoY, a slight narrowing versus Q1. Commercial segment posted sharp growth driven by demand front-loading ahead of expected price increases; consumer shipments fell 9.8% YoY on rising costs and earlier-than-normal demand release. Headline moderation masks widening market stress as cost inflation accelerates transmission to demand.
-
----
-
-### 2026-08-13 11:50:09  #MKT News
-
-【Yangtze Optical Fibre and Cable (YOFC) wins 159 mln yuan hollow-core cable framework tender from China Telecom Guangdong】Yangtze Optical Fibre and Cable (YOFC) said it won 100% of the 2026 China Telecom Guangdong hollow-core optical cable and G.654.E cable framework procurement with a bid of 159 mln yuan (incl. tax). The purchase is the largest single domestic hollow‑core cable procurement to date and signals hollow‑core fiber moving from pilot validation to commercial‑scale deployment.
-
----
-
-### 2026-08-13 11:49:29  #公司 #市場
-
-【機構：第二季度中國平板電腦市場出貨量796萬臺，同比下降4.4%】國際資料公司（IDC）釋出了2026年第二季度中國平板電腦市場季度跟蹤報告。資料顯示，2026年第二季度，中國平板電腦市場出貨量為796萬臺，同比下降4.4%，降幅較第一季度小幅收窄。但從市場表現來看，市場壓力並未緩解，反而進一步放大。商用市場的大幅增長主要來自漲價預期下的需求前置，而消費市場則在成本上漲、需求提前釋放等因素影響下同比下降9.8%。表面上市場跌幅收窄，實際上成本上漲正在加速向需求端傳導。
-
----
-
-### 2026-08-13 11:49:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Copper Slips as China Demand Slows — Copper futures fell below $6.55 per pound on Thursday, reaching an over one-week low as elevated prices weakened demand and discouraged buyers in top consumer China. The Yangshan premium, which reflects the premium paid above the benchmark LME copper price for refined copper imported into China, declined to $96 per ton after reaching $115 a ton last month. However, concerns over tightening supply continued to underpin prices amid expectations for constrained global mine output. Chilean state-owned miner Codelco reportedly expects lower copper production this year as it faces setbacks at its mines and development projects. The company has abandoned its previous target of producing 1.34 million metric tons this year, compared with last year’s revised output of 1.307 million tons. Traders also remained cautious about potential US import tariffs on copper, which have continued to divert metal away from international markets and into US warehouses.
-
----
-
-### 2026-08-13 11:48:56  #市場
-
-塔塔汽車股價上漲3.9%，此前公佈季度利潤增長。
-
----
-
-### 2026-08-13 11:48:42  #公司 #市場
-
-【8月13日午間漲停分析】創業板指半日漲1.61%，醫藥、算力概念股集體爆發。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>
-
----
-
-### 2026-08-13 11:47:27  #公司
-
-【長飛光纖中標中國電信廣東公司1.59億元空芯光纜集採】據長飛光纖訊息，近日，“2026年中國電信廣東公司空芯光纜、G.654.E光纜框架採購專案”中標結果正式公示，長飛光纖以1.59億元（含稅）報價中標100%份額。此次集採是目前國內最大單體空芯光纜採購專案，其定標結果標誌著空芯光纖技術已從試點驗證邁入規模化商用階段。
-
----
-
-### 2026-08-13 11:46:06  #公司
-
-【滄州明珠：具備生產5u超薄高強隔膜的能力 目前該類產品尚未形成批次供應、批次銷售】滄州明珠(002108)8月13日在互動平臺表示，公司具備生產5u超薄高強隔膜的能力。目前該類產品尚未形成批次供應、批次銷售，針對客戶尚處於小批次試用階段。
-
----
-
-### 2026-08-13 11:46:04  #國際
-
-【普京首次登上俄日爭議島嶼】據俄羅斯克里姆林宮網站釋出訊息，俄羅斯總統普京今天（8月13日）抵達南千島群島（日本稱“北方四島”）地區視察工作。普京行程的第一站是視察伊圖魯普島上一家水產品加工廠。這是普京首次登上南千島群島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）
-
----
-
-### 2026-08-13 11:45:06  #其他
-
-【北京3平臺騎手等紅燈將自動補時】記者從北京市市場監督管理局組織的平臺經濟“破卷向善”第二次協商對話會上瞭解到，美團、淘寶閃購、京東外賣三家平臺將率先集中在京落地“紅燈停表”。 記者從會上瞭解到，三家外賣平臺率先集中在北京落地“紅燈停表”（外賣騎手在等紅燈過程中，平臺將為騎手的配送時長“自動補時”，等紅燈多久，補時多久），目前已陸續啟動道路測試及試執行，近期將在朝陽、通州、經開區等部分割槽域上線執行。 （北京日報）
-
----
-
-### 2026-08-13 11:42:31  #公司
-
-【川潤股份：向特定物件發行股票申請獲深交所受理】川潤股份公告，公司近日收到深交所出具的《關於受理四川川潤股份有限公司向特定物件發行股票申請檔案的通知》（深證上審〔2026〕244號），深交所認為申請檔案齊備，決定予以受理。本次發行事項尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。
-
----
-
-### 2026-08-13 11:41:45  #MKT News #Star Stocks #Meituan #03690.HK #Impact bullish
-
-【Meituan begins Beijing road test of rider "wait-at-lights" stopwatch】Aug 13 — Meituan (03690.HK) released the first formal version of a rider "wait-at-lights" stopwatch and has begun road testing in Beijing. The delivery safety tech team ran internal tests on select Beijing roads in 1H and built a prototype; the pilot is now live on roads in Chaoyang, Tongzhou and the Beijing Economic-Technological Development Zone where traffic data is integrated. The feature will separately accumulate red-light waiting time and extend delivery ETAs accordingly. Meituan said more than 20 other cities are evaluating the feature; qualified cities will be rolled out progressively.
-
----
-
-### 2026-08-13 11:41:05  #其他
-
-【美團在京上線“等燈停表”首個正式版本，騎手已在部分路段路測】從美團獲悉，美團今天上線外賣騎手“等燈停表”功能在京首個正式版本，試點區域已開始路測。從多位騎手處證實，首批路測已完成。據悉，今年上半年，美團配送安全技術團隊已在北京部分道路開展產品內測，並搭建產品雛形，為全國各地試點落地提供了範本，目前已在率先接入交通資料的北京朝陽區、通州區、經濟技術開發區的部分道路進行試點路測。北京外賣騎手等紅燈時間，將逐步實現單獨累加計算並在配送時間中順延。（新浪科技）
-
----
-
-### 2026-08-13 11:40:40  #市場
-
-【國內多家金店金飾價格多數上漲，最高報1340元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數上漲，最高報1340元/克。
-
----
-
-### 2026-08-13 11:38:17  #市場 #焦點
-
-南向資金淨買入額達50億港元。
-
----
-
-### 2026-08-13 11:37:44  #公司 #國際
-
-【美防長慫恿美洲反販毒集團聯盟國家退出國際刑事法院】美國國防部長赫格塞思12日表示，拒絕國際刑事法院對美國等國的軍事人員和軍事行動行使管轄權，並慫恿參加美洲反販毒集團聯盟的國家退出該法院。 當天在巴拿馬城舉行的美洲反販毒集團聯盟會議上，赫格塞思為美國在拉美地區針對所謂“販毒恐怖分子”採取的軍事行動進行辯護，稱相關行動符合武裝衝突法。他還聲稱，國際刑事法院欲對美國及其夥伴國家軍事人員和軍事行動行使管轄權的做法“沒有合法依據”，並稱該聯盟的成員應退出國際刑事法院。 美國不是《國際刑事法院羅馬規約》締約國。特朗普政府曾對國際刑事法院有關人員實施制裁。
-
----
-
-### 2026-08-13 11:36:53  #公司
-
-【軟通動力中標哈電集團財務公司核心業務系統信創升級改造專案】據軟通動力訊息，近日，軟通動力成功中標哈爾濱電氣集團財務有限責任公司核心業務系統信創升級改造專案。
-
----
-
-### 2026-08-13 11:36:23  #其他
-
-【速賣通全面加碼“海外託管”，上半年新入駐超2萬商家】速賣通當前全面加碼“海外託管”出海模式，正加速招商。2026年上半年，速賣通海外託管模式新入駐商家已超2萬家。海外託管是速賣通目前重點推廣的出海模式，即賣家負責本地備貨發貨；平臺負責定價、營銷、售後等全鏈路經營託管。目前其海外託管已覆蓋全球30多個國家與地區。
-
----
-
-### 2026-08-13 11:36:20  #Trading Economics #Economy #China #Full Year GDP Growth #Importance 1
-
-PBoC Signals Targeted Support, No Major Easing — The People's Bank of China pledged to roll out “practical and effective” policy support promptly, while avoiding signals of major easing. In its quarterly monetary policy report released Wednesday, the central bank said it will intensify countercyclical adjustments, boost domestic demand, and channel more resources toward technological innovation and smaller firms. It vowed to conduct overnight reverse repo operations more frequently to fine-tune short-term rates, and urged that loans and bond financing be assessed together rather than focusing solely on credit growth. The PBoC noted that capital-heavy sectors like real estate and infrastructure have cooled, while emerging “new productive forces” are more asset-light, reducing traditional loan demand. It also stressed that global monetary recalibration is not a “drastic U-turn,” warning that history shows rapid tightening after massive easing tends to deliver sharper shocks to markets.
 
 ---
