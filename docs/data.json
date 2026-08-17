@@ -1,7 +1,131 @@
 {
-  "updated": "2026-08-17 21:31:53",
-  "count": 15248,
+  "updated": "2026-08-17 21:36:01",
+  "count": 15244,
   "items": [
+    {
+      "id": "te:markets:575875",
+      "time": "2026-08-17 21:34:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Energy Gains — The Ibovespa rose more than 0.5% to trade close to 168,000 on Monday, rebounding from a seven-month low with support from the energy sector. Petrobras added over 1% as oil prices rose amid persistent tensions in the Middle East. Prio (+1%) and Brava (+1%) also gained. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round. Heavyweight shares also supported the index, with Axia and Sabesp rising over 1% and WEG adding nearly 1%. In contrast, financials traded lower amid energy-driven inflation concerns. Itaú, Banco do Brasil and Itaúsa shed about 0.5%, while Bradesco lost 1%. Vale edged lower despite higher iron ore prices."
+    },
+    {
+      "id": "mkt:01a00fed-a6b4-7aab-9063-53f373c56586",
+      "time": "2026-08-17 21:33:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold."
+    },
+    {
+      "id": "5044464",
+      "time": "2026-08-17 21:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：內塔尼亞胡與庫什納已達成協議，以色列軍隊將保持\"行動自由”。"
+    },
+    {
+      "id": "mkt:01a00fed-03e7-7aab-9063-4ea5abfb8823",
+      "time": "2026-08-17 21:33:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 opened down 0.93 points (-0.01%) at 7,784.80 on Monday, Aug. 17; Dow Jones Industrial Average opened down 135.27 points (-0.25%) at 53,597.14; Nasdaq Composite opened up 47.27 points (0.18%) at 26,776.43."
+    },
+    {
+      "id": "5044463",
+      "time": "2026-08-17 21:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行投資研究所將2027年末金價目標區間從此前預測的每盎司5800-6000美元下調至每盎司5400-5600美元。"
+    },
+    {
+      "id": "5044462",
+      "time": "2026-08-17 21:31:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數漲1.5%，報12610.92點。"
+    },
+    {
+      "id": "5044461",
+      "time": "2026-08-17 21:31:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：泛大西洋投資集團近期已向美國證券交易委員會更新 IPO 申報檔案。"
+    },
+    {
+      "id": "mkt:01a00feb-e35d-7aab-9063-4479ac825ffe",
+      "time": "2026-08-17 21:31:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Supreme Court declined to hear Trump’s renewed bid to review his appeal of a $5 million judgment in favor of E. Jean Carroll."
+    },
+    {
+      "id": "5044460",
+      "time": "2026-08-17 21:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達(NVDA.O)上漲0.8%，OpenAI承諾將在2030年前大規模部署英偉達AI基礎設施。"
+    },
+    {
+      "id": "5044459",
+      "time": "2026-08-17 21:31:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，華住酒店集團漲8.78%，亞朵集團漲2.19%，新東方漲2.23%，世紀互聯漲2.11%，小鵬汽車漲2.14%。"
+    },
+    {
+      "id": "5044458",
+      "time": "2026-08-17 21:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "禮來以3.7億美元達成藥物發現合作，Omniab股價大漲19.5%。"
+    },
+    {
+      "id": "mkt:01a00feb-8745-7aab-9063-3c7bd04ffbe5",
+      "time": "2026-08-17 21:31:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) shares rose 0.8%. OpenAI pledged to deploy NVIDIA AI infrastructure at scale by 2030."
+    },
+    {
+      "id": "5044457",
+      "time": "2026-08-17 21:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國最高法院駁回特朗普關於就陪審團裁定伊·讓·卡羅爾獲賠500萬美元一案提起上訴的再次申請。"
+    },
     {
       "id": "mkt:01a00fea-f74c-7aab-9063-372e7d83d591",
       "time": "2026-08-17 21:30:51",
@@ -139598,164 +139722,6 @@
         "Impact bearish"
       ],
       "text": "Barrick Gold fell 8% after Q2 profit missed expectations."
-    },
-    {
-      "id": "mkt:019febe2-f350-7aab-8fda-c146c75f401d",
-      "time": "2026-08-10 21:35:46",
-      "tags": [
-        "MKT News",
-        "BRK.A.O",
-        "Impact bearish"
-      ],
-      "text": "Michael Burry, described as the \"big short,\" said he does not view Berkshire Hathaway as an attractive investment going forward."
-    },
-    {
-      "id": "5034268",
-      "time": "2026-08-10 21:35:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "META股價上漲2.1%，創兩週以來新高。"
-    },
-    {
-      "id": "5034267",
-      "time": "2026-08-10 21:34:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲迎來今年第五輪熱浪 河流、電力和農作物面臨壓力】本週又一輪強烈熱浪將席捲已經十分乾旱的歐洲，不僅將加劇野火風險、威脅農作物，還會進一步導致流域乾涸，而這些流域正為歐洲一些水位已降至極低水平的河流提供水源。法國氣象局預計，高壓形成的“熱穹頂”將推動法國北部氣溫在週二升至接近40攝氏度。歐洲中期天氣預報中心的資料顯示，英格蘭南部氣溫可能升至35攝氏度左右，德國法蘭克福週五則可能達到38攝氏度。這將可能是歐洲今年遭遇的第五輪大範圍熱浪。持續的高壓天氣可能阻擋攜帶水汽的雲系進入，使萊茵河、波河和多瑙河等河流難以獲得降水補給。"
-    },
-    {
-      "id": "5034266",
-      "time": "2026-08-10 21:34:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨漲超5.00%，現報2.796美元/百萬英熱。"
-    },
-    {
-      "id": "te:markets:574149",
-      "time": "2026-08-10 21:34:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "US Natgas Prices Rise on Strong LNG Demand — US natural gas prices rose more than 4% to $2.785 per MMBtu on Monday, supported by stronger demand from liquefied natural gas (LNG) export facilities. Daily flows to the nine major US LNG export plants were on track to reach a one-month high of 17.9 bcfd. Also, average feedgas demand stood at 17.2 bcfd in July, just below June’s monthly record of 17.4 bcfd. Meanwhile, natural gas production in the Lower 48 states averaged a record 111.2 bcfd in August, up from 110.7 bcfd in July. Strong output and relatively mild weather earlier this year have kept inventories above the five-year average since March. Analysts expect the storage surplus to narrow slightly to 6.6% above normal for the week ending August 7. However, forecasts point to continued above-normal temperatures through August 25, which should sustain gas demand from power generators as air-conditioning use remains elevated."
-    },
-    {
-      "id": "5034265",
-      "time": "2026-08-10 21:34:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "安全港遊艇碼頭公司（Safe Harbor Marinas）接近以15億美元收購海夢公司（MarineMax）後，海夢股價暴漲45%。"
-    },
-    {
-      "id": "5034264",
-      "time": "2026-08-10 21:34:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "AAON股價在公佈第二季度業績後下跌2.8%。"
-    },
-    {
-      "id": "5034263",
-      "time": "2026-08-10 21:33:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果股價下跌2.5%；傑富瑞將其評級由持有下調至弱於大盤。"
-    },
-    {
-      "id": "5034262",
-      "time": "2026-08-10 21:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴里克黃金（Barrick Mining）<ABX.TO>股價因季度利潤不及預期下跌5.5%。"
-    },
-    {
-      "id": "mkt:019febe0-5b37-7aab-8fda-b94906729d71",
-      "time": "2026-08-10 21:32:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) shares rose 1.8% to trade back above the $135 IPO price."
-    },
-    {
-      "id": "mkt:019febe0-237d-7aab-8fda-b069086b0ed6",
-      "time": "2026-08-10 21:32:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "TASS, citing a Russian diplomat, said Moscow will regard any military provocations along the banks of the Dniester River as an attack on Russia."
-    },
-    {
-      "id": "mkt:019febdf-f557-7aab-8fda-a85de41c472c",
-      "time": "2026-08-10 21:32:30",
-      "tags": [
-        "MKT News",
-        "ACHR.N",
-        "Impact bullish"
-      ],
-      "text": "Archer Aviation shares rose 14% after reports it would acquire Boeing subsidiaries Wisk Aero, Insitu and SkyGrid."
-    },
-    {
-      "id": "5034261",
-      "time": "2026-08-10 21:32:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數開盤變化不大。"
-    },
-    {
-      "id": "mkt:019febdf-b1e6-7aab-8fda-a0c42fb99f16",
-      "time": "2026-08-10 21:32:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "At the open on Monday, Aug. 10, the Dow Jones fell 17.50 points, or 0.03%, to 54,019.43; the S&P 500 dropped 1.00 point, or 0.01%, to 7,756.46; the Nasdaq Composite slipped 19.93 points, or 0.08%, to 26,670.69."
-    },
-    {
-      "id": "5034260",
-      "time": "2026-08-10 21:32:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "阿徹航空股份上漲14%，此前該公司將收購波音旗下威斯克航空、因西圖（Insitu）及SkyGrid三家子公司；波音將對該公司投資並開展合作。"
-    },
-    {
-      "id": "mkt:019febdf-8e68-7aab-8fda-9bc58c28c8e6",
-      "time": "2026-08-10 21:32:04",
-      "tags": [
-        "MKT News",
-        "TENX.O",
-        "Impact bearish"
-      ],
-      "text": "Tenax Therapeutics shares plunged 87.2% after the company said its cardiac drug failed to meet the primary endpoint in a late-stage trial."
-    },
-    {
-      "id": "5034259",
-      "time": "2026-08-10 21:31:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交官表態：莫斯科將德涅斯特河沿岸地區的任何軍事挑釁都視為對俄羅斯的襲擊。"
     }
   ]
 }
