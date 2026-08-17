@@ -1,7 +1,58 @@
 {
   "date": "2026-08-17",
-  "count": 2282,
+  "count": 2287,
   "items": [
+    {
+      "id": "mkt:01a00fe2-f1eb-7aab-9063-0d28a60910b2",
+      "time": "2026-08-17 21:22:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Saudi outlet Alhadath, citing Israeli political sources, reports that Prime Minister Benjamin Netanyahu and Jared Kushner have agreed to halt any Gaza reconstruction plans."
+    },
+    {
+      "id": "mkt:01a00fe2-de9d-7aab-9063-05a7c96c2fa5",
+      "time": "2026-08-17 21:22:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Seedance 2.5 adds native 1080p; limited-time price cut to ~2.7 yuan/sec until Sep 17】Volcano Engine's website shows Seedance 2.5 now supports native 1080p video generation and the API is live. Seedance 2.5 is positioned for \"cinematic long-form narrative\" with improved realistic imagery and long-shot capability; it previously supported 480p and 720p. The 1080p upgrade increases image clarity and post-production flexibility, expanding professional use cases. Volcano Engine launched a first-month promotional price: 1080p image-to-video pricing drops from 3.7 yuan/sec to about 2.7 yuan/sec through Sep 17."
+    },
+    {
+      "id": "5044449",
+      "time": "2026-08-17 21:21:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Seedance2.5正式支援1080p 7.2折限時優惠已開啟】火山引擎官網顯示Seedance 2.5正式支援原生1080p影片生成，API同步上線。Seedance 2.5定位為“電影級長敘事”的真實畫面質感和長鏡頭能力，此前已支援480p、720p影片生成。隨著1080p能力上線，Seedance 2.5進一步提升畫面清晰度和影像質感，拓展後期製作的空間和專業場景的能力上限。火山引擎官網顯示，Seedance2.5 1080p API已開啟首月限時優惠。活動期間，1080p圖生影片價格由3.7元/秒降至約2.7元/秒，優惠持續至9月17日。"
+    },
+    {
+      "id": "5044448",
+      "time": "2026-08-17 21:19:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "在匈牙利總理宣佈要重新審前政府時期國家與4IG公司簽署的所有合同後，匈牙利IT企業4IG股價週一下跌5.3%。"
+    },
+    {
+      "id": "te:economy:575871",
+      "time": "2026-08-17 21:19:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Nigeria Inflation Rate Slows to 4-Month Low in July — Nigeria’s annual inflation rate eased for the second month to 15.43% in July 2026, the lowest since March, compared to June's 15.91%. The continued relative stability in the naira helped to contain inflationary pressures. Price growth softened for some CPI items, including transportation (15.5% vs 15.6%); miscellaneous goods & services (15.6% vs 17.3%); restaurants & hotels (21.8% vs 23.6%) and clothing & footwear (4% vs 6.4%). However, food inflation, the largest component of the inflation basket, accelerated for the sixth month to 20.31% from 17.52% in June. Higher prices were also seen for housing & utilities (12.6% vs 11.2%). Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, also moderated for the second month to the lowest since May 2022 at 14.97%, down from June's 15.92%. On a monthly basis, the CPI rose by 1.57% in July, after a 1.66% increase in the previous month."
+    },
     {
       "id": "mkt:01a00fdf-7e2f-7aab-9062-f96e443823c0",
       "time": "2026-08-17 21:18:20",
