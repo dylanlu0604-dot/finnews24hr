@@ -1,7 +1,111 @@
 {
   "date": "2026-08-17",
-  "count": 1383,
+  "count": 1395,
   "items": [
+    {
+      "id": "mkt:01a00ece-f20a-7aab-905c-014a9e20e55c",
+      "time": "2026-08-17 16:20:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman BAGHAEI said the problem with the US is not mediation but Washington's mindset and misjudgments, and its insistence on methods repeatedly proven to fail; the current US administration is repeating past mistakes and the outcome will be unchanged."
+    },
+    {
+      "id": "mkt:01a00ece-907e-7aab-905b-fca2d13351f9",
+      "time": "2026-08-17 16:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said admitting mistakes can be a precondition for making correct decisions, but he questioned whether U.S. decision-makers have that courage."
+    },
+    {
+      "id": "5043804",
+      "time": "2026-08-17 16:20:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海艾錄：2026年上半年淨利潤1690.86萬元，同比增479.98%】上海艾錄公告，2026年上半年營業收入6.7億元，同比增長14.36%；歸屬於上市公司股東的淨利潤1690.86萬元，同比增長479.98%；扣非淨利潤1379.4萬元，同比增長346.63%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5043803",
+      "time": "2026-08-17 16:20:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國巨石：股東振石集團完成股份解質及重新質押】中國巨石公告稱，振石控股集團有限公司持有公司18.16%股份，其於2026年8月14日解除質押12668萬股股份，佔其所持股份比例17.42%、佔公司總股本比例3.16%，同日將該部分股份重新質押給中國民生銀行股份有限公司杭州分行，質押用途為自身生產經營需要。截至公告披露日，振石集團累計質押公司股份37476.80萬股，佔公司總股本的9.36%，佔其所持公司股份總數的51.54%。"
+    },
+    {
+      "id": "mkt:01a00ecd-c417-7aab-905b-f5f5532eb2c2",
+      "time": "2026-08-17 16:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NBS says measures to curb 'involution' continue to show effect】China's National Bureau of Statistics said at an Aug. 17 State Council press briefing that efforts to curb 'involution-style' competition and to govern capacity in key industries are continuing to show results. Supply‑demand has improved in some sectors: July prices for lithium‑ion battery manufacturing and photovoltaic (PV) equipment and components rose 8.9% and 2.8% YoY, respectively. Authorities said next steps will focus on expanding domestic demand, optimizing supply, cultivating new growth drivers, sustaining the comprehensive crackdown on 'involution', ensuring supply and stabilizing prices, and keeping industrial goods prices on an even footing."
+    },
+    {
+      "id": "5043802",
+      "time": "2026-08-17 16:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：美國所謂“前所未有”的制裁對伊朗立場毫無影響】據報道，伊朗外交部發言人在回答關於美國政府宣佈將對伊朗實施前所未有制裁（包括陸地封鎖）時表示：“這些舉措對伊朗的立場不會產生任何影響。無論是這次戰爭，還是過去50年來，美國都把自己困在了戰爭、歧視、施壓和制裁的惡性迴圈中。如果你們還記得，在民主黨執政時期曾提出所謂“癱瘓性制裁”的概念，隨後在特朗普政府第一任期又推出了“極限施壓”運動，這些都證明了美國人的反人類本性；他們切斷我國人民的藥物供應，用盡一切手段對伊朗施壓，最終還訴諸非法的軍事侵略，至今仍在承受其後果。今後請放心，用這些已經試過且無效的老辦法，不會產生新的結果。毫無疑問，不僅現在，早在很久以前，我們就已根據對美國可能以各種方式繼續對伊朗作惡的各種劇本的評估，做好了必要預案，伊朗必將動用其一切手段來應對新局面。”"
+    },
+    {
+      "id": "mkt:01a00ecd-2024-7aab-905b-eb0ffa3d4f7a",
+      "time": "2026-08-17 16:18:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Iran says US \"unprecedented\" sanctions have no impact on its stance】After the US announced what it called \"unprecedented\" sanctions, including a land blockade, an Iranian foreign ministry spokesperson said the measures would not affect Iran's position. The spokesperson said Iran has prepared contingency plans for further US action, accused the US of cutting medicine supplies and illegal military aggression, and said Iran will employ all available means to respond to the new situation."
+    },
+    {
+      "id": "5043801",
+      "time": "2026-08-17 16:18:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局新聞發言人王冠華：綜合整治內卷式競爭的成效在繼續顯現】國家統計局新聞發言人、國民經濟綜合統計司副司長王冠華8月17日在國新辦新聞釋出會上表示，綜合整治內卷式競爭的成效在繼續顯現。隨著重點行業產能治理和綜合整治內卷式競爭持續顯效，部分行業的供求關係改善，7月份鋰離子電池製造、光伏裝置及元器件製造價格同比分別上漲了8.9％和2.8％。下階段有關部門將進一步擴大內需，最佳化供給，著力培育壯大新動能，綜合整治內卷式競爭，營造公平競爭的市場環境，持續做好保供穩價工作，促進工業品價格平穩執行。（新華財經）"
+    },
+    {
+      "id": "te:economy:575785",
+      "time": "2026-08-17 16:18:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Inflation Eases to Four-Month Low — Bulgaria’s annual inflation rate eased to 4.5% in July 2026 from 5.4% in the previous month, slightly above the preliminary estimate of 4.4% and marking the lowest reading in four months. The slowdown was driven mainly by softer price growth for transport (14.5% vs. 16.8%), food and non-alcoholic beverages (1.2% vs. 2.4%), and recreation, sport and culture (7.5% vs. 10.8%). Inflation also moderated for restaurants and accommodation services (9.3% vs. 9.6%), alcoholic beverages and tobacco (5.7% vs. 6.7%), health (4.0% vs. 4.3%), and insurance and financial services (1.1% vs. 2.7%). Meanwhile, inflation accelerated slightly for housing and utilities (5.1% vs. 5.0%), while the decline in clothing and footwear prices eased (-0.4% vs. -1.0%). On a monthly basis, consumer prices rose 0.8% in July, rebounding from a 0.9% decline in June and exceeding the preliminary estimate of a 0.7% increase."
+    },
+    {
+      "id": "5043800",
+      "time": "2026-08-17 16:17:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今世緣：上半年淨利潤同比下降6.6%】今世緣公告，2026年上半年營業收入64.35億元，同比下降7.41%；淨利潤20.82億元，同比下降6.6%。"
+    },
+    {
+      "id": "5043798",
+      "time": "2026-08-17 16:17:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科晶片：聘任鄒鎮為公司董事會秘書】電科晶片公告稱，公司第十三屆董事會第十一次會議於2026年8月17日召開，審議透過聘任鄒鎮為公司董事會秘書，任期自本次董事會審議透過之日起至本屆董事會屆滿之日止。鄒鎮具備五年以上與履行董事會秘書職責相關的工作經驗，任職資格符合相關規定，未持有公司股票。"
+    },
+    {
+      "id": "5043797",
+      "time": "2026-08-17 16:16:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貝殼找房推出線上服務助手 累計服務近10萬人次】貝殼找房宣佈，自今年3月啟動試點以來，“線上服務助手”服務已累計服務近10萬人次。據介紹，“線上服務助手”會按照購房者的節奏，分階段、多維度進行溝通，圍繞購房預算、月供承受範圍、通勤時長與方式、家庭人口結構、未來居住規劃等維度，逐一展開細化，幫購房者在輕鬆的溝通氛圍中，逐步明確自身的購房側重點。（新浪科技）"
+    },
     {
       "id": "5043795",
       "time": "2026-08-17 16:16:24",
