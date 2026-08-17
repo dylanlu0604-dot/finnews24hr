@@ -1,7 +1,128 @@
 {
   "date": "2026-08-17",
-  "count": 1787,
+  "count": 1800,
   "items": [
+    {
+      "id": "mkt:01a00f3d-466f-7aab-905e-8b7ebca06b99",
+      "time": "2026-08-17 18:21:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "JPM.N"
+      ],
+      "text": "JP Morgan (JPM.N) July delinquency rate was 0.81%."
+    },
+    {
+      "id": "mkt:01a00f3d-2171-7aab-905e-82d204d475d0",
+      "time": "2026-08-17 18:20:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump reiterates Iran must not have nuclear weapons】In a recent post, President Trump said his primary and consistent objective remains that Iran must not, in any way or form, possess nuclear weapons."
+    },
+    {
+      "id": "te:markets:575840",
+      "time": "2026-08-17 18:20:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Falls for 2nd Day — India’s BSE Sensex closed about 0.4% down at 77,728 on Monday, extending previous session's losses, amid rising crude oil prices and persistent geopolitical tensions in the Middle East. Information technology stocks led the losses, with Infosys (-2.7%), HCL Technologies (-2.5%), Tata Consultancy Services (-1.9%) and Tech Mahindra (-1.8%) among the biggest laggards. Also, FMGC stocks weighed, with Hindustan Unilever falling more than 1%. By contrast, metals and private banks provided some support. Tata Steel advanced 1.5%, Axis Bank rose 1% and HDFC Bank added 0.4%."
+    },
+    {
+      "id": "5044118",
+      "time": "2026-08-17 18:20:44",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通 7 月逾期率為 0.81%  。"
+    },
+    {
+      "id": "te:economy:575839",
+      "time": "2026-08-17 18:20:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Israel Unemployment Rate at 6-Month High — Israel’s seasonally adjusted unemployment rate climbed to 3.1% in July 2026 from 2.9% in June, reaching its highest reading since January. The number of unemployed people increased by 20.2 thousand from the previous month and by 5.7 thousand from a year earlier to 148.2 thousand. Meanwhile, employment rose by 11.1 thousand month-on-month and 42.2 thousand year-on-year to 4.399 million. The labor force participation rate edged up to 62.2% from 62.0%, while the employment rate rose to 60.3% from 60.2%. The non-seasonally adjusted unemployment rate also increased, reaching 3.3% from 2.8% in June."
+    },
+    {
+      "id": "5044117",
+      "time": "2026-08-17 18:20:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓首都及十餘省因強降雨停課 超500萬人受災】菲律賓總統府17日釋出行政命令宣佈，首都大馬尼拉地區及其他12個省份學校全部暫停線下授課，相關政府機構及工廠調整工作生產安排，以應對強降雨侵襲。菲律賓氣象局當天對大馬尼拉地區釋出最高階別“紅色暴雨警報”，警示該地區正在發生極其嚴重且危險的洪澇，呼籲低窪和沿河地區居民立即撤離危險區域。此外，菲律賓民防局17日通報說，截至當天，菲全國受災人數已達508萬人，大量建築物受損。民防局此前釋出的資料顯示，全國已有至少50個市鎮正式宣佈進入“災難狀態”，其中多數位於呂宋島。受颱風“白海豚”和“鯨魚”疊加西南季風影響，菲律賓近期多地遭受持續強降雨侵襲，引發嚴重洪澇和泥石流等災害。受災嚴重的地區包括呂宋島北部、西部及首都大馬尼拉地區。（新華社）"
+    },
+    {
+      "id": "te:economy:575838",
+      "time": "2026-08-17 18:19:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Albania",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Albania Trade Gap Narrows in July — Albania’s trade deficit narrowed slightly to ALL 52.8 billion in July 2026 from ALL 53.0 billion in the same month a year earlier. Exports jumped 10.6% year-on-year to ALL 33.7 billion, lifted by higher shipments of construction materials and metals (72.1%), minerals, fuels, and electricity (32.4%), and machinery, equipment, and spare parts (7.8%). Among key trading partners, exports increased to Greece (+19.0%), China (+54.8%), the US (+729.2%), and Germany (+2.5%). Meanwhile, imports rose 3.6% to ALL 86.4 billion, driven largely by higher purchases of minerals, fuels, and electricity (12.7%), food, beverages, and tobacco (4.3%), and construction materials and metals (2.7%). Imports increased the most from China (+22.7%), Turkey (+10.5%), and Italy (+0.3%). During the January–July period, the country’s trade gap totalled ALL 309.1 billion, up from ALL 302.1 billion in the corresponding period of last year."
+    },
+    {
+      "id": "mkt:01a00f3b-91f0-7aab-905e-7e4721d49761",
+      "time": "2026-08-17 18:19:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iran must never possess nuclear weapons in any form or under any circumstances."
+    },
+    {
+      "id": "5044116",
+      "time": "2026-08-17 18:19:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：首要目標是伊朗不能擁有核武器。"
+    },
+    {
+      "id": "mkt:01a00f3b-4d92-7aab-905e-70c4a9ac2c7d",
+      "time": "2026-08-17 18:18:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the primary objective is for Iran not to possess nuclear weapons."
+    },
+    {
+      "id": "5044115",
+      "time": "2026-08-17 18:18:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【神奇製藥：股票交易異常波動 相關風險提示】神奇製藥公告稱，公司股票於2026年8月13日、8月14日、8月17日連續三個交易日漲停，累計漲幅達33.02%，收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動。2026年第一季度公司實現營收4.23億元，同比下滑11.87%，扣非淨利潤1267.72萬元，同比下滑15.44%。截至2026年8月17日收盤，公司動態市盈率為73.06倍，高於同行業平均水平。公司控股股東一致行動人張之君已減持1%公司股份，剩餘1.69%股份擬透過大宗交易減持，減持屆滿時間為2026年8月25日。公司目前生產經營正常，不存在應披露未披露的重大資訊。"
+    },
+    {
+      "id": "5044114",
+      "time": "2026-08-17 18:18:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐派家居：8月18日登出342.57萬股回購股份】歐派家居公告稱，公司將於2026年8月18日登出已回購的3425660股股份，登出完成後總股本將相應減少，控股股東及其一致行動人持股比例將從74.82%被動提升至75.25%，不會導致公司控制權發生變化。本次登出事項已履行全部審議決策程式，債權人公示期已滿45天未收到異議，後續將依法辦理工商變更登記手續。"
+    },
+    {
+      "id": "5044113",
+      "time": "2026-08-17 18:18:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL智家：將舉辦2026年半年度業績說明會】TCL智家公告稱，公司定於2026年8月21日15:00-16:00在“價值線上”平臺以網路互動方式舉辦2026年半年度業績說明會，參會人員包括獨立董事劉寧、總經理兼財務總監王浩、董事會秘書溫曉瑞。投資者可於2026年8月21日15:00-16:00透過指定網址或小程式碼參與互動交流，也可提前提交問題，公司將在資訊披露允許範圍內回應投資者普遍關注的問題。"
+    },
     {
       "id": "5044112",
       "time": "2026-08-17 18:18:32",
