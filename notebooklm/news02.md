@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:37:13_
-_本檔包含 3046 則快訊，約 604487 字_
+_更新時間：2026-08-18 03:52:45_
+_本檔包含 3053 則快訊，約 604484 字_
+
+---
+
+### 2026-08-16 20:20:56  #國際
+
+【韓國政府將建新機構追繳親日反民族行為者財產】韓國媒體16日報道，韓國政府將於12月新建一個調查委員會，負責追繳親日反民族行為者不當聚斂的財產。這將是韓國時隔16年首次重啟該工作，預計將追繳至少325億韓元（約合1.5億元人民幣）相關財產。
+
+---
+
+### 2026-08-16 20:20:02  #市場
+
+本週兩融餘額增幅最大：藥康生物兩融餘額：2.88億元，餘額增幅：274.1%；必易微兩融餘額：1.53億元，餘額增幅：145.88%
+
+---
+
+### 2026-08-16 20:19:18  #國際
+
+伊朗陸軍總司令：除3萬美元（50億土曼）獎賞外，任何成功消滅一名美軍勢力的個人，都將獲得其購買武器價格的兩倍獎賞，並領取一件新武器。
+
+---
+
+### 2026-08-16 20:14:00  #其他
+
+據燈塔專業版實時資料，截至8月16日20時11分，影片《歡迎來龍餐館》票房突破9億。
+
+---
+
+### 2026-08-16 20:08:49  #MKT News
+
+i24News reports Israeli prime minister NETANYAHU will meet in Israel tomorrow with U.S. envoy Kushner and senior officials from the High-Level Peace Committee.
+
+---
+
+### 2026-08-16 20:05:24  #市場
+
+【多家銀行競推算力貸，算力證明信用能走多遠】近日，廣東省首個詞元經濟專項金融產品“Token貸”的推出引發熱議，該產品以企業算力Token產出消耗、算力服務合約價值、算力業務產生的應收賬款、Token佣金結算量等作為核心授信依據，為企業提供授信額度。 市場人士認為，這類似於電商興起之時誕生的“流水貸”，即“以流水證明信用”，如今是以“算力證明信用”。 不過，電商流水是已實現的資金流，而Token消耗只是業務活躍度指標，二者仍有極大的區別。專家更傾向於認為，算力未來更可能成為科技型企業授信的補充維度，而非替代傳統信用體系。（一財）
+
+---
+
+### 2026-08-16 20:05:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel's Channel 12 reported Israeli warplanes struck Khan Younis in the southern Gaza Strip.
+
+---
+
+### 2026-08-16 20:03:07  #其他
+
+江蘇澤景汽車電子預計上半年淨虧損介於4.04億元至4.24億元區間。
+
+---
+
+### 2026-08-16 20:02:24  #央行 #市場 #國際
+
+【國金策略：市場反彈或逐漸步入平臺期 實物資產的彈性也將顯現】國金策略釋出研報指出，7月全球AI資產的快速下跌有產業內部基本面矛盾擔憂加劇、美伊地緣風險與流動性緊縮預期抬升等多方面的原因，8月以來在美伊重新釋放和談訊號、世界盃後美國就業與通脹資料走弱後聯儲緊縮預期緩和，科技資產表現逐漸回暖。 分母側驅動力減弱後，AI資產與非AI相關的實物資產逐漸步入平臺期。  具體配置建議上，我們推薦：第一，大宗商品反彈已經確立，能源+金屬的組合將從3月以來整體下行轉換進入整體上行時期，美伊衝突只決定內部分配關係，考慮到短期衝突正在加劇，當前資源品排序：能源（煤炭、石油石化）、有色金屬（金、銅、鋁）。第二，紅利風格受益於絕對收益者的切換，高股息+低波動+穩定現金流的紅利資產仍是絕對收益資金的核心迴流方向。第三，南方國家故事與中國製造的共振正在孕育，關注工程機械、電網裝置、煉化等方向。
+
+---
+
+### 2026-08-16 19:58:12  #國際
+
+【美媒：海灣盟友對美沮喪情緒持續上升】據美國《華盛頓郵報》15日報道，多名阿拉伯國家和西方國家官員稱，美國海灣盟友對美國的沮喪情緒正持續上升。據知情官員透露，沙烏地阿拉伯、阿聯酋和卡達等多個海灣國家在對特朗普政府的不滿上達成共識，部分國家開始討論是否還有必要繼續允許美國在本土部署大型軍事設施。近期，美國總統特朗普多次威脅要對伊朗發起新一輪大規模打擊，但隨後又都以談判取得進展為由收回這些威脅。這讓海灣國家越來越擔心，特朗普缺乏與伊朗達成和平協議的外交能力。（新華社）
+
+---
+
+### 2026-08-16 19:58:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Washington Post: Gulf allies' frustration with US continues to rise】The Washington Post reports multiple Arab and Western officials say U.S. Gulf allies’ frustration with Washington has increased; Saudi Arabia, the UAE and Qatar have coalesced around dissatisfaction and some are discussing whether to continue hosting large U.S. military facilities on their territory. Officials say recent episodes in which President Trump repeatedly threatened large-scale strikes on Iran and then withdrew those threats citing progress in talks have heightened Gulf concern that he lacks the diplomatic capacity to secure a peace agreement with Iran.
 
 ---
 
@@ -18365,29 +18431,5 @@ Taiwan Weighted Index closed down 210.47 points, or 0.46%, at 45,811.01 on Frida
 ### 2026-08-14 13:32:37  #宏觀
 
 【江蘇：支援火箭衛星總體、衛星載荷等領域龍頭企業對接資本市場，加快上市步伐】《江蘇省商業航天高質量發展三年行動計劃（2026-2028年）》印發。其中提到，推動企業躍升發展。支援火箭衛星總體、衛星載荷等領域龍頭企業對接資本市場，加快上市步伐。支援測控通訊載荷、衛星鐳射通訊、衛星電源系統等核心配套企業成長為單項冠軍和專精特新“小巨人”企業。在衛星應用服務、航天新材料、基礎元器件等領域培育一批創新型中小企業；建立工作機制。組建省航空航天產業發展工作專班，加強跨部門協作，積極爭取國家部委在發射許可審批、頻率軌道資源協調、星座運營資質、重大專案核准等方面政策支援。
-
----
-
-### 2026-08-14 13:31:50  #國際
-
-日本國際協力銀行與美國實體Japan Invest 4 LLC簽署約8.01億美元貸款協議。
-
----
-
-### 2026-08-14 13:31:16  #Trading Economics #Economy #Estonia #Unemployment Rate #Importance 1
-
-Estonia Unemployment Rate Drops to 6.6% in Q2 — Estonia’s unemployment rate fell to 6.6% in the second quarter of 2026 from 7.8% in the corresponding period last year, marking the lowest second-quarter reading since 2023. The number of unemployed persons declined by 10.2 thousand from a year ago to 49 thousand, comprising 24.6 thousand men and 24.4 thousand women. Unemployment among women decreased to 6.6% from 7.2%, while the rate for men fell to 6.6% from 8.4% in the same period a year ago. Across age groups, the youth unemployment rate, aged 15 to 24, decreased to 22.4% from 25.4%, while the rate for those aged 25–49 fell to 5.3% from 6.7% and for those aged 50–74 declined to 4.8% from 5.6%. The number of people not participating in the labor force, or economically inactive increased 13.1 thousand compared to a year ago. Meanwhile, employment decreased by 5.7 thousand to 691.6 thousand and the labor force participation rate fell by 1.4 percentage points to 73.4%.
-
----
-
-### 2026-08-14 13:31:08  #國際
-
-斯堪斯卡：獲得價值9.57億美元的美國輕軌交通建設合同。
-
----
-
-### 2026-08-14 13:30:44  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Indonesian Rupiah Inches Up, Set for Second Weekly Gain — The Indonesian rupiah edged higher to around IDR 17,830 per U.S. dollar around midday Friday, ending a three-session losing streak and heading for a second straight weekly advance. Sentiment was lifted by President Prabowo’s Independence Day address to parliament, in which he projected GDP growth could reach 6% by year-end, citing continued investment realisation and job creation. The government also plans to reclaim part of state-owned companies’ dividends to build a fiscal buffer and accelerate debt reduction, potentially strengthening fiscal credibility. Focus now turns to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo stepped down last month. Acting Governor Destry Damayanti, now the sole nominee to lead BI, is expected to provide policy continuity. BI has raised its policy rate by 100bps since May to support the rupiah. Globally, the dollar remained subdued as softer U.S. inflation data prompted traders to scale back bets on a Fed rate hike in September.
 
 ---

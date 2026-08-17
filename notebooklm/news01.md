@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:37:13_
-_本檔包含 2919 則快訊，約 605484 字_
+_更新時間：2026-08-18 03:52:45_
+_本檔包含 2915 則快訊，約 605499 字_
+
+---
+
+### 2026-08-18 03:51:18  #MKT News #WTI #Impact bullish
+
+【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017.
+
+---
+
+### 2026-08-18 03:41:42  #MKT News
+
+【Trump criticizes Lee Jae‑myung after South Korea declines participation in Iran action】Former President Trump told South Korean media he is frustrated Seoul refused to participate in a U.S. operation related to Iran and raised issues of defense cost-sharing. He said South Korea agreed during his first term to pay about $3 billion annually for U.S. protection; he sought $10 billion, and the short‑term deal was $3 billion with planned increases in subsequent years. Trump said President Biden later withdrew the $3 billion “for reasons I don’t know.” In a recent call with South Korean president Lee Jae‑myung, Trump said he asked if Seoul would “help a little” on Iran; Lee declined. Trump noted roughly 39,000 U.S. troops are deployed in South Korea and called Seoul’s refusal to assist in what he described as a “very easy” military action “strange.”
+
+---
+
+### 2026-08-18 03:40:18  #MKT News #Important #Market Themes #AI Revolution
+
+Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its IPO.
+
+---
+
+### 2026-08-18 03:38:25  #MKT News
+
+Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs.
+
+---
+
+### 2026-08-18 03:37:51  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish
+
+Sources said US officials proposed that, under a proposed 15% tariff on Canadian autos, only US-origin value be excluded from the tariff base; Canadian officials want all North American-origin content excluded.
+
+---
+
+### 2026-08-18 03:37:29  #公司 #其他 #焦點 #國際
+
+Anthropic 在 IPO 之前的年化營收突破 650 億美元。
+
+---
+
+### 2026-08-18 03:37:08  #國際
+
+【美國投資級債券8月發行創歷年同月新高 AI基建推動企業舉債】隨著人工智慧基礎設施建設支出推動企業舉債，美國投資級債券發行規模連續第三個月創歷年同月紀錄新高，創紀錄的發債速度仍在延續。資料顯示，截至週一，8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。今年1月、6月和7月也分別創下歷年同月最高紀錄，另有三個月的發行規模為歷年同月第二高。大量債券湧入市場已經讓投資者在買什麼債、以什麼價格買入方面變得更加挑剔。上週，初始認購訂單最終被撤回的比例大幅上升，就體現了這一點。不過，企業並未因此而止步，週一發行人合計擬發行91億美元債券。當日12筆交易中，有兩筆來自私募信貸基金。
 
 ---
 
@@ -17511,71 +17553,5 @@ Saudi state news agency said air-raid sirens were activated in the Jazan region.
 ### 2026-08-16 20:22:07  #MKT News
 
 【Israel post-war economy rebounds; Q2 GDP up 15.4% annualized】Israel's seasonally adjusted Q2 GDP rose 15.4% at an annualized rate, the Israel Central Bureau of Statistics said on Sunday, outpacing the Bloomberg median forecast of 8.3% from eight economists. Q1 GDP was revised to a 2.2% contraction. Goods and services exports led the rebound, up 35.2%; government consumption rose 19.5%, private consumption 14.7% and fixed capital formation 6.3%. Mizrahi‑Tefahot Bank chief strategist Yonie Fanning said before the release the economy is expected to see a "rapid recovery" after contraction linked to conflict with Iran, with consumer spending including durables a key driver.
-
----
-
-### 2026-08-16 20:20:56  #國際
-
-【韓國政府將建新機構追繳親日反民族行為者財產】韓國媒體16日報道，韓國政府將於12月新建一個調查委員會，負責追繳親日反民族行為者不當聚斂的財產。這將是韓國時隔16年首次重啟該工作，預計將追繳至少325億韓元（約合1.5億元人民幣）相關財產。
-
----
-
-### 2026-08-16 20:20:02  #市場
-
-本週兩融餘額增幅最大：藥康生物兩融餘額：2.88億元，餘額增幅：274.1%；必易微兩融餘額：1.53億元，餘額增幅：145.88%
-
----
-
-### 2026-08-16 20:19:18  #國際
-
-伊朗陸軍總司令：除3萬美元（50億土曼）獎賞外，任何成功消滅一名美軍勢力的個人，都將獲得其購買武器價格的兩倍獎賞，並領取一件新武器。
-
----
-
-### 2026-08-16 20:14:00  #其他
-
-據燈塔專業版實時資料，截至8月16日20時11分，影片《歡迎來龍餐館》票房突破9億。
-
----
-
-### 2026-08-16 20:08:49  #MKT News
-
-i24News reports Israeli prime minister NETANYAHU will meet in Israel tomorrow with U.S. envoy Kushner and senior officials from the High-Level Peace Committee.
-
----
-
-### 2026-08-16 20:05:24  #市場
-
-【多家銀行競推算力貸，算力證明信用能走多遠】近日，廣東省首個詞元經濟專項金融產品“Token貸”的推出引發熱議，該產品以企業算力Token產出消耗、算力服務合約價值、算力業務產生的應收賬款、Token佣金結算量等作為核心授信依據，為企業提供授信額度。 市場人士認為，這類似於電商興起之時誕生的“流水貸”，即“以流水證明信用”，如今是以“算力證明信用”。 不過，電商流水是已實現的資金流，而Token消耗只是業務活躍度指標，二者仍有極大的區別。專家更傾向於認為，算力未來更可能成為科技型企業授信的補充維度，而非替代傳統信用體系。（一財）
-
----
-
-### 2026-08-16 20:05:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel's Channel 12 reported Israeli warplanes struck Khan Younis in the southern Gaza Strip.
-
----
-
-### 2026-08-16 20:03:07  #其他
-
-江蘇澤景汽車電子預計上半年淨虧損介於4.04億元至4.24億元區間。
-
----
-
-### 2026-08-16 20:02:24  #央行 #市場 #國際
-
-【國金策略：市場反彈或逐漸步入平臺期 實物資產的彈性也將顯現】國金策略釋出研報指出，7月全球AI資產的快速下跌有產業內部基本面矛盾擔憂加劇、美伊地緣風險與流動性緊縮預期抬升等多方面的原因，8月以來在美伊重新釋放和談訊號、世界盃後美國就業與通脹資料走弱後聯儲緊縮預期緩和，科技資產表現逐漸回暖。 分母側驅動力減弱後，AI資產與非AI相關的實物資產逐漸步入平臺期。  具體配置建議上，我們推薦：第一，大宗商品反彈已經確立，能源+金屬的組合將從3月以來整體下行轉換進入整體上行時期，美伊衝突只決定內部分配關係，考慮到短期衝突正在加劇，當前資源品排序：能源（煤炭、石油石化）、有色金屬（金、銅、鋁）。第二，紅利風格受益於絕對收益者的切換，高股息+低波動+穩定現金流的紅利資產仍是絕對收益資金的核心迴流方向。第三，南方國家故事與中國製造的共振正在孕育，關注工程機械、電網裝置、煉化等方向。
-
----
-
-### 2026-08-16 19:58:12  #國際
-
-【美媒：海灣盟友對美沮喪情緒持續上升】據美國《華盛頓郵報》15日報道，多名阿拉伯國家和西方國家官員稱，美國海灣盟友對美國的沮喪情緒正持續上升。據知情官員透露，沙烏地阿拉伯、阿聯酋和卡達等多個海灣國家在對特朗普政府的不滿上達成共識，部分國家開始討論是否還有必要繼續允許美國在本土部署大型軍事設施。近期，美國總統特朗普多次威脅要對伊朗發起新一輪大規模打擊，但隨後又都以談判取得進展為由收回這些威脅。這讓海灣國家越來越擔心，特朗普缺乏與伊朗達成和平協議的外交能力。（新華社）
-
----
-
-### 2026-08-16 19:58:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Washington Post: Gulf allies' frustration with US continues to rise】The Washington Post reports multiple Arab and Western officials say U.S. Gulf allies’ frustration with Washington has increased; Saudi Arabia, the UAE and Qatar have coalesced around dissatisfaction and some are discussing whether to continue hosting large U.S. military facilities on their territory. Officials say recent episodes in which President Trump repeatedly threatened large-scale strikes on Iran and then withdrew those threats citing progress in talks have heightened Gulf concern that he lacks the diplomatic capacity to secure a peace agreement with Iran.
 
 ---

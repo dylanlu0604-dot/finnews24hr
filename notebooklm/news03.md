@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:37:13_
-_本檔包含 3195 則快訊，約 605675 字_
+_更新時間：2026-08-18 03:52:45_
+_本檔包含 3194 則快訊，約 605874 字_
+
+---
+
+### 2026-08-14 13:31:50  #國際
+
+日本國際協力銀行與美國實體Japan Invest 4 LLC簽署約8.01億美元貸款協議。
+
+---
+
+### 2026-08-14 13:31:16  #Trading Economics #Economy #Estonia #Unemployment Rate #Importance 1
+
+Estonia Unemployment Rate Drops to 6.6% in Q2 — Estonia’s unemployment rate fell to 6.6% in the second quarter of 2026 from 7.8% in the corresponding period last year, marking the lowest second-quarter reading since 2023. The number of unemployed persons declined by 10.2 thousand from a year ago to 49 thousand, comprising 24.6 thousand men and 24.4 thousand women. Unemployment among women decreased to 6.6% from 7.2%, while the rate for men fell to 6.6% from 8.4% in the same period a year ago. Across age groups, the youth unemployment rate, aged 15 to 24, decreased to 22.4% from 25.4%, while the rate for those aged 25–49 fell to 5.3% from 6.7% and for those aged 50–74 declined to 4.8% from 5.6%. The number of people not participating in the labor force, or economically inactive increased 13.1 thousand compared to a year ago. Meanwhile, employment decreased by 5.7 thousand to 691.6 thousand and the labor force participation rate fell by 1.4 percentage points to 73.4%.
+
+---
+
+### 2026-08-14 13:31:08  #國際
+
+斯堪斯卡：獲得價值9.57億美元的美國輕軌交通建設合同。
+
+---
+
+### 2026-08-14 13:30:44  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Indonesian Rupiah Inches Up, Set for Second Weekly Gain — The Indonesian rupiah edged higher to around IDR 17,830 per U.S. dollar around midday Friday, ending a three-session losing streak and heading for a second straight weekly advance. Sentiment was lifted by President Prabowo’s Independence Day address to parliament, in which he projected GDP growth could reach 6% by year-end, citing continued investment realisation and job creation. The government also plans to reclaim part of state-owned companies’ dividends to build a fiscal buffer and accelerate debt reduction, potentially strengthening fiscal credibility. Focus now turns to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo stepped down last month. Acting Governor Destry Damayanti, now the sole nominee to lead BI, is expected to provide policy continuity. BI has raised its policy rate by 100bps since May to support the rupiah. Globally, the dollar remained subdued as softer U.S. inflation data prompted traders to scale back bets on a Fed rate hike in September.
 
 ---
 
@@ -19209,35 +19233,5 @@ Copper Slips as China Demand Slows — Copper futures fell below $6.55 per pound
 ### 2026-08-13 11:36:20  #Trading Economics #Economy #China #Full Year GDP Growth #Importance 1
 
 PBoC Signals Targeted Support, No Major Easing — The People's Bank of China pledged to roll out “practical and effective” policy support promptly, while avoiding signals of major easing. In its quarterly monetary policy report released Wednesday, the central bank said it will intensify countercyclical adjustments, boost domestic demand, and channel more resources toward technological innovation and smaller firms. It vowed to conduct overnight reverse repo operations more frequently to fine-tune short-term rates, and urged that loans and bond financing be assessed together rather than focusing solely on credit growth. The PBoC noted that capital-heavy sectors like real estate and infrastructure have cooled, while emerging “new productive forces” are more asset-light, reducing traditional loan demand. It also stressed that global monetary recalibration is not a “drastic U-turn,” warning that history shows rapid tightening after massive easing tends to deliver sharper shocks to markets.
-
----
-
-### 2026-08-13 11:36:09  #公司
-
-【Shein據悉考慮8月28日左右在香港上市交易】據知情人士透露， Shein計劃最早於 8 月 20 日開始接受投資者對其期待已久的香港首次公開募股（IPO）的認購，並於 8 月 28 日左右在香港上市。據知情人士透露，Shein原本計劃在此次IPO中實現約300億美元的估值——僅為其巔峰時期的一小部分——但遭到了投資者的反對，估值可能進一步下調。知情人士還表示，現有股東可能會認購約一半的股份。此次發行預計將籌集 20 億至 30 億美元。知情人士表示，相關討論仍在進行中，規模、估值和時間等細節可能會有所變化。
-
----
-
-### 2026-08-13 11:35:36  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #SSE Composite #XAUUSD #Impact bearish
-
-【A-share midday: ChiNext opens higher, closes up 1.61% as innovative drug stocks rebound】All three A-share indexes opened higher; ChiNext rose over 2% intraday before paring gains to close up 1.61%. Shanghai Composite was up 0.42% and Shenzhen Composite Index rose 0.73%. Combined turnover on the two exchanges exceeded CNY 1.5 trillion and roughly 2,200 stocks advanced. Innovative drug stocks dipped early then rebounded to lead gains. The CPO sector was active. Compute-power leasing names spiked then pulled back. Precious metals eased, oil & gas exploration and services remained weak, and photovoltaic stocks retraced.
-
----
-
-### 2026-08-13 11:34:13  #其他
-
-Shein據悉考慮8月28日在香港上市交易。
-
----
-
-### 2026-08-13 11:33:56  #其他
-
-市場訊息：Shein計劃最早於 8 月 20 日開啟 IPO 認購。
-
----
-
-### 2026-08-13 11:33:16  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Hits Over 5-Week High as Tech Leads — The TAIEX, Taiwan’s benchmark stock index, climbed 471 points, or 1.0%, to 45,989 in Thursday morning trade, up for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders tried to maintain the upward momentum in the technology sector. Electronic technology stocks rose 1.2%, following a 1.1% gain on Wednesday, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, advancing 0.8%. Hon Hai Precision Industry soared 2.7%, while Unimicron rose 0.8%. Meanwhile, Foxconn Technology, the world's largest contract electronics maker, rose 0.5% after posting a 35% jump in Q2 profit, beating analyst forecasts, supported by continued strong AI demand. An upbeat session on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting.
 
 ---

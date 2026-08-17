@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:37:13_
-_本檔包含 3055 則快訊，約 604513 字_
+_更新時間：2026-08-18 03:52:45_
+_本檔包含 3049 則快訊，約 604795 字_
+
+---
+
+### 2026-08-12 08:47:55  #其他
+
+【鄭州市啟動防汛二級應急響應】記者從鄭州市防汛抗旱指揮部瞭解到，根據氣象部門最新預報，今天到明天，我市仍有大到暴雨。登封市、新密市、滎陽市、新鄭市、鞏義市已啟動或者針對部分鄉鎮啟動防汛二級應急響應。根據《鄭州市防汛應急預案》有關規定，經綜合會商研判，鄭州市防汛抗旱指揮部決定於8月12日8時將防汛三級應急響應提升至二級。（鄭州釋出）
+
+---
+
+### 2026-08-12 08:47:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【Combined Shanghai and Shenzhen margin financing balances up CNY1.299 bln】As of Aug 11, Shanghai Stock Exchange margin financing balance was 1.3504 tln yuan, up 335 mln yuan from the previous session; Shenzhen was 1.2792 tln yuan, up 964 mln yuan; combined 2.6296 tln yuan, up 1.299 bln yuan.
+
+---
+
+### 2026-08-12 08:47:26  #其他
+
+【兩市融資餘額較上日增加12.99億元】截至8月11日，上交所融資餘額報13504.24億元，較前一交易日增加3.35億元；深交所融資餘額報12791.68億元，較前一交易日增加9.64億元；兩市合計26295.92億元，較前一交易日增加12.99億元。
+
+---
+
+### 2026-08-12 08:47:19  #宏觀
+
+【未來5年 15萬億元或將投向這裡】《城市更新“十五五”規劃》的出臺，就是給全國的城市更新定調子、指路子。根據規劃，市場預測，“十五五”期間城市更新預計帶動投資15萬億元。規劃明確了23項重點任務，並拿出了10項量化指標。這些數字，個個關乎咱們的居住體驗，其中包括：新開工改造城鎮老舊小區11.5萬個；更新城鎮危舊房約50萬套；改造老舊街區廠區1500個；推進4000個城中村改造；建設改造城市地下管網36.5萬公里；新建及改擴建體育場地12.8萬公頃；城鎮房屋基礎資訊數字化率要達到95%以上。（央視）
+
+---
+
+### 2026-08-12 08:46:10  #公司 #國際
+
+【英特爾增發200億美元前據悉曾尋求美政府批准】當地時間8月11日，英特爾宣佈其普通股註冊公開發行定價為每股95美元，共發行210,526,315股普通股，發行規模從此前公佈的150億美元擴大至200億美元。據報道，英特爾CEO陳立武在公司增發股票前，曾致電美國商務部長盧特尼克尋求批准。美國政府最終決定不參與此次股票發行。
+
+---
+
+### 2026-08-12 08:44:44  #公司
+
+【三麗鷗一季度財報不及預期 股價重挫18%創 2014 年以來最大跌幅】Hello Kitty 母公司三麗鷗一季度營業利潤不及市場預期，股價最大跌幅達 18%，創下 2014 年 5 月以來最大單日跌幅。公司週一公佈一季度營業利潤 224 億日元，低於一致預期的 234 億日元。三井住友日興證券分析師在研報中表示：本次財報表現平淡，無超預期亮點。
+
+---
+
+### 2026-08-12 08:44:12  #其他
+
+【學而思就學習機登入異常致歉】8月11日晚，學而思部分學習機出現登入異常。當天23時49分，“學而思親子”App向使用者推送《關於登入異常的說明》。學而思學習機團隊稱，20時30分起，部分學習機因伺服器網路波動出現登入異常，目前系統已逐步恢復，使用者可以正常掃碼登入使用。學而思學習機團隊就此向使用者致歉。（新黃河）
+
+---
+
+### 2026-08-12 08:44:05  #公司
+
+【來凱醫藥：LAE002新藥上市申請獲國家藥監局受理】來凱醫藥-B公告，LAE002(afuresertib)的新藥上市申請已獲中國國家藥品監督管理局藥品審評中心受理，用於治療既往接受內分泌治療後出現疾病復發或進展，伴有PIK3CA/AKT1/PTEN改變的HR+/HER2-區域性晚期或轉移性乳腺癌患者。此次申請基於III期臨床試驗AFFIRM-205的積極結果，該研究達到無進展生存期主要終點。公司與齊魯製藥於2025年11月訂立獨家許可協議，有資格獲得總額最高達人民幣20.45億元的首付款及里程碑款項。
+
+---
+
+### 2026-08-12 08:43:47  #MKT News
+
+【Beijing Mianbi Intelligent files IPO counseling; CITIC Securities sponsor】CSRC posted that Beijing Mianbi Intelligent Technology Co., Ltd registered an IPO counseling record with the Beijing Securities Regulatory Bureau on Aug 11, 2026, intending an initial public offering and listing; counseling sponsor is CITIC Securities. The counseling report shows the company has no controlling shareholder; largest shareholder is Beijing Qingyu Qihang Technology Center (Limited Partnership) with a 16.45% stake.
 
 ---
 
@@ -18366,95 +18420,5 @@ Interim Venezuelan President Rodriguez said the earthquake death toll has risen 
 ### 2026-08-11 03:53:29  #其他
 
 市場資訊：英特爾股票發行認購倍數遠超預期。
-
----
-
-### 2026-08-11 03:52:15  #國際
-
-【伊朗外交部：美以是造成中東地區動盪的根源】10日，伊朗外交部發言人巴加埃就地區局勢、伊美關係等舉行新聞釋出會。巴加埃表示，伊朗與阿曼關於確定霍爾木茲海峽新航道的談判進展順利，而美國和以色列是造成中東地區動盪的根源。
-
----
-
-### 2026-08-11 03:52:00  #國際
-
-伊朗外長：與德國外長舉行電話會談，雙方就雙邊關係、地區及國際局勢發展交換了意見。
-
----
-
-### 2026-08-11 03:45:10  #央行 #國際
-
-【特朗普稱曾與美聯儲主席沃什通話】特朗普表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。
-
----
-
-### 2026-08-11 03:43:58  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he has a very good relationship with Netanyahu.
-
----
-
-### 2026-08-11 03:43:50  #MKT News
-
-【Axios: US, Israel and Syria reach understanding; IAEA to remove nuclear material from secret Syrian site】Axios reports US and Israeli officials say the IAEA will soon remove nuclear material stored at a secret Syrian site after a diplomatic understanding among the Trump administration, Israel and Syria. The Trump administration and the IAEA expedited talks to secure the material and prevent escalation involving Israel, Syria and Turkey. US officials say the episode validates Trump’s Syria policy and demonstrates US use of close ties with Syria’s new government to defuse a potential crisis. Months of behind-the-scenes threats and diplomatic wrangling preceded a solution reached weeks ago.
-
----
-
-### 2026-08-11 03:42:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【International crude futures settle about 5% higher】NYMEX September light sweet crude settled up $3.95 at $82.13/bbl (+5.05%); ICE Brent October settled up $4.17 at $87.72/bbl (+4.99%).
-
----
-
-### 2026-08-11 03:42:44  #市場
-
-【國際原油期貨結算價上漲5%】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。
-
----
-
-### 2026-08-11 03:41:07  #焦點 #國際
-
-【特朗普稱霍爾木茲海峽目前處於開放狀態】特朗普表示，霍爾木茲海峽現已開放，且僅由美國海軍掌控。特朗普在橢圓形辦公室稱：“我們實施的封鎖萬無一失。這是一道鋼鐵之牆，只允許我們想放行的船隻通行。”
-
----
-
-### 2026-08-11 03:40:26  #國際
-
-特朗普表示，美國對伊朗港口的封鎖行動堪稱完美，將其比作環繞伊朗的一道“鋼鐵之牆”。
-
----
-
-### 2026-08-11 03:39:47  #MKT News
-
-Turkey's parliament passed a bill to advance the peace process with the Kurdistan Workers' Party (PKK).
-
----
-
-### 2026-08-11 03:38:56  #國際
-
-特朗普談及伊朗：伊朗人造成數十萬人死亡。如今他們正在付出代價。
-
----
-
-### 2026-08-11 03:38:17  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump said he has spoken with Walsh only once since his appointment, denying Wall Street Journal reports they have been in frequent contact.
-
----
-
-### 2026-08-11 03:38:04  #央行 #國際
-
-特朗普：自從沃什接任（美聯儲主席）以來，和他談過一次。
-
----
-
-### 2026-08-11 03:37:52  #國際
-
-特朗普談內塔尼亞胡：（我們）關係良好。
-
----
-
-### 2026-08-11 03:37:38  #國際
-
-特朗普：我非常尊重沃什。
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 03:37:13_
-_本檔包含 3016 則快訊，約 604470 字_
+_更新時間：2026-08-18 03:52:45_
+_本檔包含 3012 則快訊，約 604291 字_
+
+---
+
+### 2026-08-13 11:36:09  #公司
+
+【Shein據悉考慮8月28日左右在香港上市交易】據知情人士透露， Shein計劃最早於 8 月 20 日開始接受投資者對其期待已久的香港首次公開募股（IPO）的認購，並於 8 月 28 日左右在香港上市。據知情人士透露，Shein原本計劃在此次IPO中實現約300億美元的估值——僅為其巔峰時期的一小部分——但遭到了投資者的反對，估值可能進一步下調。知情人士還表示，現有股東可能會認購約一半的股份。此次發行預計將籌集 20 億至 30 億美元。知情人士表示，相關討論仍在進行中，規模、估值和時間等細節可能會有所變化。
+
+---
+
+### 2026-08-13 11:35:36  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #SSE Composite #XAUUSD #Impact bearish
+
+【A-share midday: ChiNext opens higher, closes up 1.61% as innovative drug stocks rebound】All three A-share indexes opened higher; ChiNext rose over 2% intraday before paring gains to close up 1.61%. Shanghai Composite was up 0.42% and Shenzhen Composite Index rose 0.73%. Combined turnover on the two exchanges exceeded CNY 1.5 trillion and roughly 2,200 stocks advanced. Innovative drug stocks dipped early then rebounded to lead gains. The CPO sector was active. Compute-power leasing names spiked then pulled back. Precious metals eased, oil & gas exploration and services remained weak, and photovoltaic stocks retraced.
+
+---
+
+### 2026-08-13 11:34:13  #其他
+
+Shein據悉考慮8月28日在香港上市交易。
+
+---
+
+### 2026-08-13 11:33:56  #其他
+
+市場訊息：Shein計劃最早於 8 月 20 日開啟 IPO 認購。
+
+---
+
+### 2026-08-13 11:33:16  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+TAIEX Hits Over 5-Week High as Tech Leads — The TAIEX, Taiwan’s benchmark stock index, climbed 471 points, or 1.0%, to 45,989 in Thursday morning trade, up for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders tried to maintain the upward momentum in the technology sector. Electronic technology stocks rose 1.2%, following a 1.1% gain on Wednesday, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, advancing 0.8%. Hon Hai Precision Industry soared 2.7%, while Unimicron rose 0.8%. Meanwhile, Foxconn Technology, the world's largest contract electronics maker, rose 0.5% after posting a 35% jump in Q2 profit, beating analyst forecasts, supported by continued strong AI demand. An upbeat session on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting.
 
 ---
 
@@ -18148,59 +18178,5 @@ New Zealand Prime Minister Luxon said he has party support amid a leadership cha
 ### 2026-08-12 08:48:31  #MKT News #Commodities #Energy #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #WTI #Impact bullish #DXY #USDJPY
 
 【Oil rally sparks renewed inflation fears, JGB yields rise】Rising oil prices have rekindled inflation worries and pushed Japanese government bond yields higher. The five-year JGB yield hit a record high and the two-year yield rose to its strongest level since May 1995, prompting markets to increase bets on further BOJ tightening; Tokyo traders' association data place the probability of a September BOJ rate hike at roughly two-thirds. Domestic yield moves have not produced clear yen support: strategists say external forces — higher U.S. Treasury yields, firmer oil and a strong dollar/yen — remain the dominant drivers. Higher JGB yields could eventually help the yen by narrowing the Japan-U.S. yield gap, but current external pressure outweighs that effect. Wednesday's U.S. CPI print is the key near-term catalyst for the dollar and global yields.
-
----
-
-### 2026-08-12 08:47:55  #其他
-
-【鄭州市啟動防汛二級應急響應】記者從鄭州市防汛抗旱指揮部瞭解到，根據氣象部門最新預報，今天到明天，我市仍有大到暴雨。登封市、新密市、滎陽市、新鄭市、鞏義市已啟動或者針對部分鄉鎮啟動防汛二級應急響應。根據《鄭州市防汛應急預案》有關規定，經綜合會商研判，鄭州市防汛抗旱指揮部決定於8月12日8時將防汛三級應急響應提升至二級。（鄭州釋出）
-
----
-
-### 2026-08-12 08:47:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【Combined Shanghai and Shenzhen margin financing balances up CNY1.299 bln】As of Aug 11, Shanghai Stock Exchange margin financing balance was 1.3504 tln yuan, up 335 mln yuan from the previous session; Shenzhen was 1.2792 tln yuan, up 964 mln yuan; combined 2.6296 tln yuan, up 1.299 bln yuan.
-
----
-
-### 2026-08-12 08:47:26  #其他
-
-【兩市融資餘額較上日增加12.99億元】截至8月11日，上交所融資餘額報13504.24億元，較前一交易日增加3.35億元；深交所融資餘額報12791.68億元，較前一交易日增加9.64億元；兩市合計26295.92億元，較前一交易日增加12.99億元。
-
----
-
-### 2026-08-12 08:47:19  #宏觀
-
-【未來5年 15萬億元或將投向這裡】《城市更新“十五五”規劃》的出臺，就是給全國的城市更新定調子、指路子。根據規劃，市場預測，“十五五”期間城市更新預計帶動投資15萬億元。規劃明確了23項重點任務，並拿出了10項量化指標。這些數字，個個關乎咱們的居住體驗，其中包括：新開工改造城鎮老舊小區11.5萬個；更新城鎮危舊房約50萬套；改造老舊街區廠區1500個；推進4000個城中村改造；建設改造城市地下管網36.5萬公里；新建及改擴建體育場地12.8萬公頃；城鎮房屋基礎資訊數字化率要達到95%以上。（央視）
-
----
-
-### 2026-08-12 08:46:10  #公司 #國際
-
-【英特爾增發200億美元前據悉曾尋求美政府批准】當地時間8月11日，英特爾宣佈其普通股註冊公開發行定價為每股95美元，共發行210,526,315股普通股，發行規模從此前公佈的150億美元擴大至200億美元。據報道，英特爾CEO陳立武在公司增發股票前，曾致電美國商務部長盧特尼克尋求批准。美國政府最終決定不參與此次股票發行。
-
----
-
-### 2026-08-12 08:44:44  #公司
-
-【三麗鷗一季度財報不及預期 股價重挫18%創 2014 年以來最大跌幅】Hello Kitty 母公司三麗鷗一季度營業利潤不及市場預期，股價最大跌幅達 18%，創下 2014 年 5 月以來最大單日跌幅。公司週一公佈一季度營業利潤 224 億日元，低於一致預期的 234 億日元。三井住友日興證券分析師在研報中表示：本次財報表現平淡，無超預期亮點。
-
----
-
-### 2026-08-12 08:44:12  #其他
-
-【學而思就學習機登入異常致歉】8月11日晚，學而思部分學習機出現登入異常。當天23時49分，“學而思親子”App向使用者推送《關於登入異常的說明》。學而思學習機團隊稱，20時30分起，部分學習機因伺服器網路波動出現登入異常，目前系統已逐步恢復，使用者可以正常掃碼登入使用。學而思學習機團隊就此向使用者致歉。（新黃河）
-
----
-
-### 2026-08-12 08:44:05  #公司
-
-【來凱醫藥：LAE002新藥上市申請獲國家藥監局受理】來凱醫藥-B公告，LAE002(afuresertib)的新藥上市申請已獲中國國家藥品監督管理局藥品審評中心受理，用於治療既往接受內分泌治療後出現疾病復發或進展，伴有PIK3CA/AKT1/PTEN改變的HR+/HER2-區域性晚期或轉移性乳腺癌患者。此次申請基於III期臨床試驗AFFIRM-205的積極結果，該研究達到無進展生存期主要終點。公司與齊魯製藥於2025年11月訂立獨家許可協議，有資格獲得總額最高達人民幣20.45億元的首付款及里程碑款項。
-
----
-
-### 2026-08-12 08:43:47  #MKT News
-
-【Beijing Mianbi Intelligent files IPO counseling; CITIC Securities sponsor】CSRC posted that Beijing Mianbi Intelligent Technology Co., Ltd registered an IPO counseling record with the Beijing Securities Regulatory Bureau on Aug 11, 2026, intending an initial public offering and listing; counseling sponsor is CITIC Securities. The counseling report shows the company has no controlling shareholder; largest shareholder is Beijing Qingyu Qihang Technology Center (Limited Partnership) with a 16.45% stake.
 
 ---
