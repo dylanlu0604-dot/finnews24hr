@@ -1,7 +1,28 @@
 {
   "date": "2026-08-18",
-  "count": 327,
+  "count": 329,
   "items": [
+    {
+      "id": "5044803",
+      "time": "2026-08-18 06:44:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【提振投資者信心，多家券商權益分派實施中】8月份，上市券商2025年年度權益分派實施進入尾期。截至8月17日發稿時，8月以來包括東吳證券、申萬宏源、中金公司在內的8家上市券商（含券商母公司）釋出分紅相關公告，已完成2025年年度權益分派或明確實施日期，金額合計98.09億元。在業內人士看來，在經營業績穩健增長與監管層持續強化回報導向的雙重驅動下，證券公司正積極踐行“以投資者為本”理念，透過提高分紅頻率、最佳化分紅預案等方式，切實將經營成果轉化為股東可獲得的實際回報，進一步增強投資者的持有信心與獲得感。（中證報）"
+    },
+    {
+      "id": "mkt:01a011e3-a6e8-7aab-906a-2f0bacd80ed4",
+      "time": "2026-08-18 06:42:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "BHP said copper is the engine of its growth, forecasting copper demand alone to rise from about 34 mln tonnes a year now to more than 50 mln tonnes a year by 2050."
+    },
     {
       "id": "te:markets:575936",
       "time": "2026-08-18 06:40:16",
