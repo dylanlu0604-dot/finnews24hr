@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-18 04:43:27",
-  "count": 15214,
+  "updated": "2026-08-18 04:47:29",
+  "count": 15210,
   "items": [
+    {
+      "id": "5044762",
+      "time": "2026-08-18 04:44:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。"
+    },
     {
       "id": "mkt:01a01176-3382-7aab-9069-9b5d947e0f8d",
       "time": "2026-08-18 04:42:34",
@@ -139379,59 +139387,6 @@
         "公司"
       ],
       "text": "英偉達CEO黃仁勳：對於新一輪人工智慧融資計劃，無人拒絕。"
-    },
-    {
-      "id": "mkt:019fed6d-a076-7aab-8fe1-04710eba01cd",
-      "time": "2026-08-11 04:46:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Morgan Stanley launches $1.5 trillion US innovation infrastructure initiative focused on AI, semiconductors】Morgan Stanley said it will launch a US Innovation Infrastructure Initiative to mobilize about $1.5 trillion of capital raising, financing, advisory and related investment activity over the next 10 years to support companies, technologies and platforms seen as critical to the US economy and national security. The plan targets AI, advanced computing, quantum, semiconductors, data infrastructure, cybersecurity, aerospace and defense, and critical minerals, and aims to accelerate digital, physical and energy infrastructure buildout by integrating the firm’s investment banking, capital markets, wealth and asset-management capabilities to back firms from startup through scale."
-    },
-    {
-      "id": "5034596",
-      "time": "2026-08-11 04:44:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI回購70億美元員工股份】OpenAI已回購員工約70億美元的公司股份，為未來可能登陸華爾街進行首次公開募股（IPO）做準備。兩名知情人士表示，OpenAI此次要約收購併未尋求外部投資者參與，而是直接從現任和前員工手中回購股份。此次交易對這家AI初創公司的估值達到8520億美元，與其最近一輪融資中的估值保持一致。過去，OpenAI曾邀請Thrive Capital和軟銀集團等投資者購買員工股份。"
-    },
-    {
-      "id": "te:markets:574204",
-      "time": "2026-08-11 04:44:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Oil Prices Rally — The Ibovespa edged 0.2% lower to close at 172,180 on Monday as oil prices jumped after prospects for an agreement to reopen the Strait of Hormuz weakened. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Higher energy prices reignited inflation concerns, weighing on banks and the broader index. Itaú shed 0.8% and Bradesco lost 0.7%. Axia dropped 2.3% despite brokerages highlighting significant dividend potential and raising their price targets. Petrobras gained 3.3% on higher oil prices, while Vale added 1.3% despite lower iron ore prices. Embraer climbed 2.3% following a better-than-expected 2Q26 earnings report. Itaúsa shed 0.7% ahead of its results, due after the close, while Caixa Seguridade (-2%), Natura (-2.4%), and JBS (-1.7%) are also scheduled to report."
-    },
-    {
-      "id": "mkt:019fed6a-fe51-7aab-8fe0-fc1e3a4782c6",
-      "time": "2026-08-11 04:43:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI completes $7bn employee share buyback ahead of potential IPO】People familiar with the matter say OpenAI has completed a transaction to buy back about $7bn of shares from current and former employees as it prepares for a possible IPO. Sources said the tender did not involve external investors and bought shares directly from employees. The deal values OpenAI at $852bn, matching its most recent financing round. The company had previously invited investors such as Thrive Capital and SoftBank to purchase employee shares."
-    },
-    {
-      "id": "5034595",
-      "time": "2026-08-11 04:43:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國稀土公司盤後下跌5%，此前公佈第二季度業績並宣佈收購計劃。"
     }
   ]
 }
