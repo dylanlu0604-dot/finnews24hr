@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18 04:51:25",
-  "count": 15210,
+  "updated": "2026-08-18 04:55:20",
+  "count": 15209,
   "items": [
+    {
+      "id": "5044763",
+      "time": "2026-08-18 04:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：軍事規劃法案將於明日頒佈。我國軍隊預算將實現翻倍，2026 至 2030 年間軍隊將獲得 360 億歐元新增投資。"
+    },
+    {
+      "id": "te:markets:575931",
+      "time": "2026-08-18 04:51:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls for Tenth Straight Session — The Ibovespa edged 0.1% lower to close at 166,784 on Monday, marking a tenth consecutive session of losses. Tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. Itaú shed 1.6%, Bradesco lost 1.9% and Banco do Brasil retreated 2.3%. The IBC-Br showed a slightly larger-than-expected decline, falling 0.6%, its biggest drop since May 2025. The data added to evidence of a slowing economy. Casas Bahia (-33.3%) filed for judicial recovery following a multibillion-real loss in 2Q26. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round."
+    },
     {
       "id": "mkt:01a0117b-624c-7aab-9069-a43104181927",
       "time": "2026-08-18 04:48:13",
@@ -139350,43 +139370,6 @@
         "DXY"
       ],
       "text": "【Houthi drone strike kills three soldiers in Shabwah; UN envoy warns of escalation】A Houthi drone attack on the 10th against a government army position in Shabwah province in southeast Yemen killed three soldiers and wounded nine, a government officer said. UN special envoy for Yemen Hans Grundberg said on social media he is deeply concerned by the recent surge in Houthi attacks on government-held areas and warned the latest developments could push Yemen back into full-scale conflict."
-    },
-    {
-      "id": "mkt:019fed72-7171-7aab-8fe1-1094abf331f0",
-      "time": "2026-08-11 04:52:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said AI labs and AI startups need compute capacity."
-    },
-    {
-      "id": "5034598",
-      "time": "2026-08-11 04:51:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：人工智慧實驗室及AI初創企業存在算力需求。"
-    },
-    {
-      "id": "mkt:019fed71-d2b4-7aab-8fe1-0872d9585435",
-      "time": "2026-08-11 04:51:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said no one has turned down the new AI financing plan."
     }
   ]
 }
