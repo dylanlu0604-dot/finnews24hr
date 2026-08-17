@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 21:56:50",
+  "updated": "2026-08-17 22:00:56",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -2651,9 +2651,9 @@
               "title": "美國8月NAHB房產市場指數",
               "importance": 2,
               "previous": "34",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "33",
+              "actual": "35",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174629",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -26626,9 +26626,9 @@
       "title": "美國8月NAHB房產市場指數",
       "importance": 2,
       "previous": "34",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "33",
+      "actual": "35",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174629",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [

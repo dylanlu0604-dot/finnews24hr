@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-17 21:56:43",
-  "count": 15229,
+  "updated": "2026-08-17 22:00:48",
+  "count": 15230,
   "items": [
+    {
+      "id": "mkt:01a01005-c193-7aab-9063-e7e79d19ece8",
+      "time": "2026-08-17 22:00:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US NAHB housing market index for August 35, consensus 33, prior 34."
+    },
+    {
+      "id": "mkt:01a01005-a4f4-7aab-9063-dc136919cf4d",
+      "time": "2026-08-17 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34"
+    },
+    {
+      "id": "te:markets:575883",
+      "time": "2026-08-17 21:59:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%."
+    },
+    {
+      "id": "mkt:01a01004-aafd-7aab-9063-d6dd76e5305a",
+      "time": "2026-08-17 21:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues."
+    },
+    {
+      "id": "mkt:01a01003-c2c4-7aab-9063-cf91ab6193ca",
+      "time": "2026-08-17 21:57:56",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) hit an intraday high, rising 5.8%."
+    },
+    {
+      "id": "5044492",
+      "time": "2026-08-17 21:57:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX 漲幅擴大至盤中高點 5.8%。"
+    },
+    {
+      "id": "mkt:01a01003-a695-7aab-9063-c6c9b0de3c4d",
+      "time": "2026-08-17 21:57:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize."
+    },
+    {
+      "id": "5044491",
+      "time": "2026-08-17 21:57:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股半導體裝置股走高】美股半導體裝置股走高，AXT Inc大漲超11%，應用材料、艾馬克技術漲超5%，科磊、泰瑞達、泛林集團漲約2%。"
+    },
     {
       "id": "mkt:01a01001-1454-7aab-9063-bb42f5159227",
       "time": "2026-08-17 21:55:01",
@@ -139497,82 +139576,6 @@
         "市場"
       ],
       "text": "歐元區國債收益率延續升勢，德國兩年期國債收益率最新上漲5.13個基點，報2.7835%。"
-    },
-    {
-      "id": "5034306",
-      "time": "2026-08-10 22:00:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月諮商會就業趨勢指數 107.71，前值106.69。"
-    },
-    {
-      "id": "mkt:019febf9-a630-7aab-8fdb-51c96b616e4f",
-      "time": "2026-08-10 22:00:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US Conference Board Employment Trends Index rose to 107.71 in July from 106.69 previously."
-    },
-    {
-      "id": "mkt:019febf9-78ad-7aab-8fdb-4bc7c66c2533",
-      "time": "2026-08-10 22:00:22",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Employment Trends Index (Jul) | actual 107.71 | previous 106.69"
-    },
-    {
-      "id": "mkt:019febf8-b63b-7aab-8fdb-428280e4ad06",
-      "time": "2026-08-10 21:59:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【JP Morgan raises S&P 500 end-2026 target to 8,000】JP Morgan on the 10th raised its S&P 500 end-2026 target to 8,000 from 7,800, citing robust corporate earnings outlook and faster revenue growth as large tech firms ramp AI investment. The new target is about 3% above last Friday's close. At least seven brokerages now forecast the S&P 500 at 8,000 by end-2026. JP Morgan analysts say cloud backlog converting into revenue should sustain strong growth, validate AI capex and ease investor concern over returns on deployed capital. LSEG data show 85.1% of 436 S&P 500 companies that reported Q2 results beat analyst estimates, versus a 1994–present average of 68%. The S&P 500 is up roughly 13% year-to-date, driven by AI-related optimism."
-    },
-    {
-      "id": "mkt:019febf7-4527-7aab-8fdb-39730d929f2f",
-      "time": "2026-08-10 21:57:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude rose above $80.00/barrel, the strongest level since Aug. 4, gaining 4.78% intraday."
-    },
-    {
-      "id": "5034305",
-      "time": "2026-08-10 21:56:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞聖何塞‑德爾帕爾馬以南 5 公里處發生 7.4 級地震。"
-    },
-    {
-      "id": "te:markets:574163",
-      "time": "2026-08-10 21:56:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Muted as Earnings Take Focus — The S&P/TSX Composite Index was little changed around 36,000 on Monday after reaching a record high in the previous session, amid uncertainty surrounding US-Iran talks and a fresh batch of corporate earnings. Barrick slumped nearly 9% after reporting second-quarter earnings and revenue below expectations. Franco-Nevada (-1%) and Constellation Software (+2%) are scheduled to report earnings tomorrow. The market is also assessing last week's stronger-than-expected Canadian jobs report, which showed employment rising by 75,100 in July while the unemployment rate fell for the third consecutive month to 6.4%. The resilient labor market could support a more hawkish stance from the Bank of Canada. Meanwhile, oil prices rose as uncertainty persisted over efforts to reopen the Strait of Hormuz, while gold prices edged lower."
     }
   ]
 }

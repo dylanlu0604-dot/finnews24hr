@@ -1,7 +1,86 @@
 {
   "date": "2026-08-17",
-  "count": 2355,
+  "count": 2363,
   "items": [
+    {
+      "id": "mkt:01a01005-c193-7aab-9063-e7e79d19ece8",
+      "time": "2026-08-17 22:00:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US NAHB housing market index for August 35, consensus 33, prior 34."
+    },
+    {
+      "id": "mkt:01a01005-a4f4-7aab-9063-dc136919cf4d",
+      "time": "2026-08-17 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34"
+    },
+    {
+      "id": "te:markets:575883",
+      "time": "2026-08-17 21:59:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%."
+    },
+    {
+      "id": "mkt:01a01004-aafd-7aab-9063-d6dd76e5305a",
+      "time": "2026-08-17 21:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues."
+    },
+    {
+      "id": "mkt:01a01003-c2c4-7aab-9063-cf91ab6193ca",
+      "time": "2026-08-17 21:57:56",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) hit an intraday high, rising 5.8%."
+    },
+    {
+      "id": "mkt:01a01003-a695-7aab-9063-c6c9b0de3c4d",
+      "time": "2026-08-17 21:57:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize."
+    },
+    {
+      "id": "5044492",
+      "time": "2026-08-17 21:57:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX 漲幅擴大至盤中高點 5.8%。"
+    },
+    {
+      "id": "5044491",
+      "time": "2026-08-17 21:57:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股半導體裝置股走高】美股半導體裝置股走高，AXT Inc大漲超11%，應用材料、艾馬克技術漲超5%，科磊、泰瑞達、泛林集團漲約2%。"
+    },
     {
       "id": "mkt:01a01001-1454-7aab-9063-bb42f5159227",
       "time": "2026-08-17 21:55:01",
