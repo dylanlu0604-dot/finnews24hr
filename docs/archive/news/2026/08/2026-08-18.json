@@ -1,7 +1,21 @@
 {
   "date": "2026-08-18",
-  "count": 256,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:01a0115e-c57a-7aab-9069-8ee0dd9f2738",
+      "time": "2026-08-18 04:16:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 272.39 points (-0.51%) to 53,460.02; S&P 500 fell 40.39 points (-0.52%) to 7,745.37; Nasdaq Composite fell 84.25 points (-0.32%) to 26,644.91."
+    },
     {
       "id": "mkt:01a0115d-1a65-7aab-9069-823d89becc86",
       "time": "2026-08-18 04:15:09",
