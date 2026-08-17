@@ -1,7 +1,61 @@
 {
   "date": "2026-08-17",
-  "count": 2430,
+  "count": 2436,
   "items": [
+    {
+      "id": "5044535",
+      "time": "2026-08-17 22:37:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：就社交媒體平臺展示實時交易策略向投資者發出警示。"
+    },
+    {
+      "id": "5044534",
+      "time": "2026-08-17 22:37:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【耐克股價跌至 2014 年以來最低，最大跌幅達 3.2%】耐克股價面臨跌破 4 月以來形成的交易區間的風險。該股自 2021 年高點以來便處於長期下行通道，目前交易價格跌至 2014 年 9 月以來的最低水平。耐克公司今年以來總回報率為‑36.95%，而標普 500 指數總回報率為 14.33%。分析師對耐克公司給出 17 個買入評級、23 個持有評級、4 個賣出評級；平均目標價：50.65 美元。"
+    },
+    {
+      "id": "mkt:01a01026-e012-7aab-9064-b4801110eb77",
+      "time": "2026-08-17 22:36:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region."
+    },
+    {
+      "id": "mkt:01a01025-269a-7aab-9064-a814331e25e5",
+      "time": "2026-08-17 22:34:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry on Tuesday."
+    },
+    {
+      "id": "5044533",
+      "time": "2026-08-17 22:34:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本特使將於週二到訪俄羅斯外交部。"
+    },
+    {
+      "id": "5044532",
+      "time": "2026-08-17 22:34:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。"
+    },
     {
       "id": "mkt:01a01024-1d84-7aab-9064-a1ceb9eebd0c",
       "time": "2026-08-17 22:33:17",
