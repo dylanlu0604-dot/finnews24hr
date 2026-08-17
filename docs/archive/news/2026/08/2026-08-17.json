@@ -1,7 +1,48 @@
 {
   "date": "2026-08-17",
-  "count": 2320,
+  "count": 2324,
   "items": [
+    {
+      "id": "mkt:01a00ff5-e089-7aab-9063-61aca9610487",
+      "time": "2026-08-17 21:42:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【CIBC economist says BoC likely to remain on hold】CIBC capital markets economist Andrew Grantham said the Bank of Canada is unlikely to rush to re-evaluate policy after July CPI accelerated to 3.0%, slightly above forecasts, driven by energy and World Cup-related travel costs. Core inflation excluding volatile items remained around 2%, and inflation excluding gasoline held at 2.2%. Grantham said the BoC has ample time to assess the impact of energy prices and US-Canada trade tensions before adjusting rates; the next decision is Sept. 2."
+    },
+    {
+      "id": "5044470",
+      "time": "2026-08-17 21:41:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯 7 月工業產出同比增長 4.9%。"
+    },
+    {
+      "id": "te:markets:575878",
+      "time": "2026-08-17 21:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.29% Lower — The Dow Jones Index is falling 158 points. Losses were driven by McDonalds (-1.81%), UnitedHealth (-1.63%) and Microsoft (-1.09%). Biggest rises came from Cisco Systems (1.49%), Caterpillar (0.70%) and Goldman Sachs (0.31%)."
+    },
+    {
+      "id": "te:markets:575877",
+      "time": "2026-08-17 21:39:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Monday, rising about 0.5% to 2,878 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the second day, up 1.2% to 4,590 points; and the supramax index went up 0.4% to its highest level since July 28 at 1,628 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1% to its lowest since August 4 at 2,206 points."
+    },
     {
       "id": "5044469",
       "time": "2026-08-17 21:38:54",
