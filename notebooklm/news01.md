@@ -1,7 +1,208 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:57:16_
-_本檔包含 2917 則快訊，約 604455 字_
+_更新時間：2026-08-18 07:26:31_
+_本檔包含 2871 則快訊，約 604154 字_
+
+---
+
+### 2026-08-18 07:25:48  #MKT News
+
+【European banks commit £300m to Scottish data centre】DataVita has secured £300m (about $407m) from ING, ABN AMRO and other European banks to expand an existing Scottish data centre and build a new facility. The UK government guaranteed 80% of a £252m tranche provided by the two Dutch banks and Banco Santander; the remainder is unsecured financing from the Scottish National Investment Bank and Siemens Financial Services. Dell will relocate its Scotland headquarters to the site. The investment is being cited as a key signal of a revival for the UK’s AI growth zones under new Prime Minister Burnham; the zones were a central plank of the previous Labour government’s AI policy under Starmer.
+
+---
+
+### 2026-08-18 07:25:04  #公司 #市場
+
+【滾動市盈率相對較低的腦機介面概念股梳理】近日，腦機介面技術在國內醫療領域密集落地，多項臨床突破接連公佈。A股市場佈局腦機介面的上市公司超30家。麥瀾德圍繞AI與非侵入式腦機介面技術的融合開展研發，初步構建了基於“腦訊號採集—智慧解析—狀態識別—閉環反饋”的技術體系。美好醫療在腦機介面領域已協助客戶實現從實驗室研發到批次出貨的商業化轉化，相關元件產品已進入小批次供貨階段。偉思醫療在腦機介面領域聚焦“非侵入式”技術路線，致力於構建“診斷—治療—康復”的全週期閉環體系。二級市場方面，據證券時報·資料寶統計，截至8月17日收盤，腦機介面概念股今年以來平均下跌8.55%，跑輸同期上證指數。4只概念股累計漲幅超10%，分別為盛視科技、盈趣科技、達瑞電子、博拓生物。
+
+---
+
+### 2026-08-18 07:23:33  #市場
+
+【上半年業績翻倍的人形機器人概念股一覽】8月17日，人形機器人概念股持續走高。8月以來人形機器人概念股平均上漲10.99%，多股漲超40%。近期，行業迎來多重利好催化，機構加緊調研產業鏈個股，一批績優概念股獲得主力資金集中加倉。訊息面上，8月19日至23日，2026世界機器人大會將在北京舉行。宇樹科技董事長王興興將亮相主論壇，展望人形機器人產業的下一個十年。目前40餘隻人形機器人概念股釋出上半年業績資料，綜合業績預告下限、快報和半年報來看，江蘇北人、航天智裝扭虧。埃斯頓、凱爾達、昊志機電、拓斯達等10只概念股的淨利潤同比均翻倍。8月17日多隻人形機器人概念股獲得主力加倉，其中寧德時代、埃斯頓、比亞迪、全志科技、領益智造等9股的主力資金淨流入額超億元。11只績優人形機器人概念股獲得主力資金淨流入，包含埃斯頓、昊志機電、拓斯達、全志科技、東方鋯業等股。
+
+---
+
+### 2026-08-18 07:23:10  #公司
+
+【特斯拉據悉準備8月面向公眾推出CyberCab】媒體援引知情人士報道稱，特斯拉已告知員工正為Cybercab面向公眾推出做準備。這是特斯拉首款沒有方向盤和剎車踏板的車型。報道稱，特斯拉計劃首先在德克薩斯州奧斯汀向公眾推出Cybercab，最快可能本月啟動。近幾周，公司一直在為推出Cybercab做準備，包括開展試駕、在私人道路上安排員工乘坐，並與當地急救人員進行相關培訓。特斯拉已告知員工，計劃先讓員工在公共道路上乘坐Cybercab，隨後在數日內將這款車納入奧斯汀的Robotaxi服務。報道稱，特斯拉目前內部目標是在8月底前面向公眾推出Cybercab，時間表仍可能調整。
+
+---
+
+### 2026-08-18 07:21:43  #公司
+
+【銀行理財市場規模再攀新高 中小銀行自營理財卻加速退場】銀行理財市場規模再攀新高之際，中小銀行自營理財卻在加速退場。近日，證券時報記者從業內可信渠道彙總的獨家資料顯示，管理規模超1萬億元的14家理財公司，今年前7個月淨增規模達1.7萬億元。在此基礎上，當前銀行理財市場規模站穩了35萬億元大關，再次創下新高。與行業總量連創新高形成鮮明反差的是，未獲理財公司牌照的中小銀行，自營理財規模卻持續收縮。證券時報記者梳理2026年銀行理財業務半年報發現，已披露自營理財資料的65家中小銀行中，多達58家銀行的存續規模同比下降，合計壓降1722.67億元，部分銀行自營理財已逼近“清零”。
+
+---
+
+### 2026-08-18 07:21:03  #公司
+
+【行業景氣度上行 鋰電隔膜行業龍頭密集報喜】隨著下游動力電池與儲能需求持續放量，歷經深度價格調整的鋰電隔膜行業在2026年上半年迎來全面回暖。已披露的半年報及業績預告顯示，今年上半年恩捷股份扭虧為盈，中材科技隔膜業務淨利潤同比增長近20倍，滄州明珠、佛塑科技淨利潤大幅預增。在儲能電池出貨量接近翻倍的帶動下，隔膜行業量價齊升、盈利中樞系統性抬升，行業景氣上行週期正獲得業績驗證。
+
+---
+
+### 2026-08-18 07:19:08  #公司
+
+【儲存與邏輯晶片迭代升級 CMP市場迎來新風口】隨著半年報陸續釋出，以鼎龍股份為代表的國內CMP（化學機械拋光）公司成績單引人關注。長鑫科技的上市，更讓儲存晶片技術路線轉型的信心倍增。CMP作為積體電路製造的關鍵工藝之一，正站在新風口。記者調研獲悉，晶圓製造向高密度、三維化演進，直接拉動了拋光步驟和耗材更換頻率，CMP材料的市場彈性大幅釋放。在本土供應鏈需求增長和國產替代浪潮的雙重驅動下，這一關鍵工藝環節正迎來前所未有的發展良機。（上海證券報）
+
+---
+
+### 2026-08-18 07:18:19  #公司 #市場
+
+【A股中期分紅熱度攀升 千億元真金白銀回饋投資者】Wind資料顯示，截至8月17日17時，A股共有124家上市公司釋出現金分紅的2026年半年度利潤分配方案，合計擬派發現金紅利1018.85億元（含稅）。其中，中國移動以擬派現544.26億元（含稅）的金額高居榜首，寧德時代、海康威視緊隨其後，擬派現金額均超50億元（含稅）。從行業看，化工板塊最為踴躍，機械裝置、電子等緊隨其後。整體看，上市公司回報股東意願顯著增強，現金分紅意願較強。（中國證券報）
+
+---
+
+### 2026-08-18 07:18:13  #公司 #市場
+
+【必和必拓基礎利潤大漲30%，受益於銅價與鐵礦石產量】受大宗商品價格向好提振盈利，必和必拓集團利潤大漲近三分之一，全年銅業務營收首次超過鐵礦石業務。這家全球最大礦業企業表示，截至6月的過去12個月，基礎利潤攀升至132億美元，同比增長30%，高於分析師預期。公司於週二公告檔案中披露，將派發末期股息99美分，派息率72%。報告期內銅價飆升至歷史高位；必和必拓另一核心產品鐵礦石依舊保持強勢。執行長布蘭登・克雷格在宣告中表示：“生產運營穩定性疊加高企的產品價格，推動盈利大幅提升。銅是驅動必和必拓增長的引擎。”必和必拓預測，全球銅需求將從當前約3400萬噸/年，在2050年增至5000萬噸/年。
+
+---
+
+### 2026-08-18 07:17:28  #其他
+
+【醫藥創新邁入深耕期 全球化與造血能力成關鍵考題】近日，多款創新藥相繼迎來上市與臨床突破，國內藥企海外授權合作熱度攀升。業內專家與藥企負責人分析認為，未來行業競爭不再侷限於管線數量比拼，源頭創新能力、全球專利佈局、海內外商業化運營以及靈活的商務拓展（BD）資產運作策略，將成為創新藥企穿越週期的核心抓手。（中國證券報）
+
+---
+
+### 2026-08-18 07:16:52  #公司
+
+【寧德時代宜春鋰礦專案復產迎重要進展】備受關注的寧德時代(300750)梘下窩鋰礦的復產，迎來重要進展。8月17日，證券時報記者獲悉，宜春市生態環境局擬受理宜春時代新能源礦業有限公司（下稱“宜春時代”）江西省宜豐縣圳口裡—奉新縣梘下窩鋰礦採礦專案環境影響評價檔案。目前，上述專案的環評檔案及公眾參與說明，正處於擬受理前公示環節。公示期為2026年8月17日—2026年8月28日（10個工作日）。宜豐縣圳口裡—奉新縣梘下窩礦區採礦權為宜春時代所有，採礦權有效期為2022年8月9日至2025年8月9日，礦區由18個拐點圈定，面積2.5平方千米。2025年8月9日採礦證到期後礦山處於停產狀態。梘下窩鋰礦是全球已探明最大的鋰雲母礦，設計滿產年碳酸鋰產能約10萬噸。停產前，產出約佔全國總產量的8%—10%。因此，何時復產，備受社會關注。此次擬受理，也是寧德時代梘下窩鋰礦復產程序中的重要一步。
+
+---
+
+### 2026-08-18 07:16:02  #公司 #市場
+
+【長鑫科技市值突破四萬億元】8月17日，長鑫科技股價大漲12%，市值達到4.13萬億元，成為繼中國石油之後A股歷史上第二家市值突破4萬億元的上市公司。據統計，2000年以來，共有8只股票先後榮登A股市值冠軍，工商銀行、貴州茅臺、中國石油登頂次數分列前三，分別為29次、14次和13次。而今，這一接力棒交到了一家科創板儲存器製造公司手中。2025年，全球人工智慧（AI）建設浪潮推升半導體、算力需求井噴，電子行業A股市值首次登頂。截至昨日收盤，電子行業市值達24.81萬億元，佔A股總市值的比例為21.05%，均創歷年新高。若將電子與計算機、通訊、傳媒行業合併計算，這四大行業市值合計36.11萬億元，佔A股比重升至30.63%。從銀行、石油石化到食品飲料，從電力裝置再到電子行業登頂，這條市值結構變遷的軌跡，清晰對映出中國經濟動能從基建地產、傳統制造向科技創新的歷史性切換。長鑫科技市值破4萬億元，不只是資本市場的一次估值重排，更是新質生產力從政策敘事走向市場定價的里程碑式節點。（證券時報）
+
+---
+
+### 2026-08-18 07:15:25  #央行 #中國央行
+
+【7天期逆回購連續5日“零投放”】8月17日，央行根據公開市場業務一級交易商的需求，將7天期逆回購操作量設為零，同時開展5655億元隔夜逆回購操作。當日有3670億元逆回購到期，公開市場實現淨投放1985億元。這是自8月11日以來，央行連續第5個工作日未開展7天期逆回購操作。受訪人士認為，7天期逆回購“零投放”主要與銀行體系流動性較為充裕、一級交易商短期資金需求較弱有關。
+
+---
+
+### 2026-08-18 07:15:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【1bp rise signals phase recovery in Chinese banks' net interest margins】China's National Financial Regulatory Administration data show commercial banks' net interest margin rose to 1.41% in Q2, up 0.01 percentage point QoQ — the first quarterly increase since 2022. Margin moves were mixed by bank type: state-owned big banks, city commercial banks, rural commercial banks and private banks reported QoQ increases; joint-stock banks were flat; foreign banks fell. Regulators and market participants attribute the stabilization to the liability side — maturing high-yield deposits repriced lower and banks actively optimized funding mixes to reduce interest cost — while regulatory guidance and an interest-rate self-discipline mechanism helped curb irrational loan-rate cuts and supported asset-side pricing, propping up NIMs.
+
+---
+
+### 2026-08-18 07:14:16  #公司
+
+【0.01個百分點的訊號 銀行業淨息差迎來階段性修復】日前，國家金融監督管理總局釋出的2026年二季度銀行業保險業主要監管指標資料顯示，二季度商業銀行淨息差為1.41%，較一季度的1.40%上升0.01個百分點，是自2022年以來首次單季環比上升。但不同型別銀行走勢分化，其中國有大行、城商行、農商行、民營銀行二季度淨息差實現環比上行，股份行環比持平，外資銀行環比下降。業內人士分析，本輪息差企穩的核心動力來自負債端：存量高息存款集中到期重定價，疊加銀行主動最佳化負債結構，有效壓降了付息成本。在監管引導下，利率自律機制發揮作用，遏制信貸利率非理性降價競爭，助力穩定資產端定價，託舉淨息差。（中國證券報）
+
+---
+
+### 2026-08-18 07:12:41  #央行 #其他
+
+【7天期逆回購連續5日“零投放”】7天期逆回購連續第5個工作日“零投放”，但公開市場流動性投放並未缺席。8月17日，央行根據公開市場業務一級交易商的需求，將7天期逆回購操作量設為零，同時開展5655億元隔夜逆回購操作。當日有3670億元逆回購到期，公開市場實現淨投放1985億元。這是自8月11日以來，央行連續第5個工作日未開展7天期逆回購操作。受訪人士認為，7天期逆回購“零投放”主要與銀行體系流動性較為充裕、一級交易商短期資金需求較弱有關。與此同時，隔夜逆回購接續投放，顯示央行正在根據稅期等短期擾動因素靈活調節流動性。判斷政策態度是否發生變化，不能只看7天期逆回購這一單一工具，還需觀察中長期流動性投放、大行資金融出及資金利率走勢。（上海證券報）
+
+---
+
+### 2026-08-18 07:12:20  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、《石油天然氣發展“十五五”規劃》印發 到2030年油氣供應量達4.4億噸油當量
+2、前7月規模以上工業增加值同比增長5.3% “新”“智”“綠”，促動能轉換提速（權威釋出）
+3、《綜合交通運輸標準化發展“十五五”規劃》印發 大力加強關鍵核心標準供給
+4、二季度末 普惠型小微企業貸款餘額同比增8%
+5、李強主持召開國務院第十二次全體會議強調 深入貫徹落實黨中央決策部署 努力完成全年經濟社會發展目標任務
+6、我國在量子技術國際標準領域取得新進展
+7、前7個月中老鐵路進出口貨值超200億元
+8、“十四五”時期，我國生物製造產業總規模達1.1萬億元 “細胞工廠”裡的創新力量（經濟聚焦）
+9、我國將構建約6萬公里精品自駕旅遊公路
+10、數字人民幣業務運營機構擴容至30家
+11、汽車晶片五項認證認可行業標準釋出
+12、司法部發布規範涉企行政執法典型案例
+13、北京市消協約談20家兒童床生產企業 部分產品存在警示標識缺失、有害物質超標等問題
+14、市場監管總局公佈十起典型案例 深入推動公平競爭審查制度落實落地
+15、國內首個批次退役風電機組梯次利用專案正式啟動
+16、2026年《世界糧食安全和營養狀況》報告顯示——全球糧食安全治理成效初顯 實現“零飢餓”目標依然艱難（國際視點）2025年約6.45億人處於飢餓狀態 近1/3人口無力負擔健康膳食
+17、厄瓜多上半年出口額創新高 對華出口保持快速增長。
+
+---
+
+### 2026-08-18 07:12:07  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、紀念江澤民同志誕辰100週年大會在京隆重舉行 習近平發表重要講話，高度評價江澤民同志為黨和人民建立的不朽功勳，號召深入學習江澤民同志的崇高風範，把中國特色社會主義事業不斷推向前進 李強主持 趙樂際王滬寧蔡奇丁薛祥李希韓正出席
+2、習近平就印度尼西亞發生強烈地震向印尼總統普拉博沃致慰問電
+3、亞塞拜然語版節目《習近平的文化情緣》啟播活動在巴庫舉行
+4、《江澤民外交文選》出版發行。
+
+---
+
+### 2026-08-18 07:12:04  #公司
+
+【權益類公募倉位再抬升 電子行業獲增持幅度最大】近期A股市場震盪分化，權益類公募基金在保持較高倉位的同時，行業配置進一步調整。資料顯示，截至8月14日，公募權益類基金整體倉位升至94.42%，較前一週提高0.08個百分點，保持歷史中位偏高水平。從行業變化來看，電子成為當週主動增持幅度最大的行業，而通訊、電力裝置、建築材料等板塊受到不同程度的主動減持。多家基金公司認為，隨著8月下旬進入半年報密集披露期，市場定價重心正逐步從情緒和估值修復轉向業績兌現。在高倉位背景下，公募後續操作或更多體現為持倉結構最佳化。科技仍是機構關注的重要方向，但配置範圍正在進一步收斂，逐步聚焦至儲存、光通訊、半導體裝置、電源及液冷等細分環節。（上海證券報）
+
+---
+
+### 2026-08-18 07:12:00  #其他
+
+【8月以來兩融餘額回升700多億元 機構：市場進入情緒修復通道】經過一輪集中去槓桿後，A股市場在8月迎來槓桿資金修復視窗。8月以來，滬深北三市兩融餘額一度連續8個交易日回升，累計反彈超過700億元。8月14日，兩融餘額微降18.59億元，連增態勢暫告段落。與7月相比，兩融資金回補節奏相對溫和，結構上較此前科技板塊集中出逃前更趨均衡。業內普遍認為，槓桿資金快速撤離的階段已過，市場處於情緒修復初期，中長期配置型資金並未離場，後續反彈需要賺錢效應進一步催化。（人民財訊）
+
+---
+
+### 2026-08-18 07:11:47  #央行 #中國央行
+
+【存款“搬家”減速釋放什麼訊號】市場密切關注的“存款搬家”仍在持續，但已放慢腳步。中國人民銀行近日釋出的金融資料顯示，7月人民幣存款僅增加300億元，同比少增4700億元。其中：居民部門人民幣存款淨減少6300億元，同比少減4800億元；非銀金融機構存款增加1.11萬億元，同比少增1.03萬億元。
+
+---
+
+### 2026-08-18 07:10:04  #公司 #國際
+
+【三星顯示重啟OLED產線投資，擬押注摺疊屏需求增長】8月18日，據報道，三星顯示已於8月7日透過投資審查委員會審議，批准重啟韓國忠清南道牙山第二園區A7新廠的結構工程，預計本月啟動訂單，明年正式開工，目標於2028年初完工。該專案自2021年暫停後時隔約5年重啟，預計投資數萬億韓元。三星顯示目前為三星電子Galaxy Z系列獨家供應摺疊屏，並預計獨家供應蘋果首款摺疊屏手機的面板。三星Galaxy Z8系列預訂量達144萬部，與前代產品Z7系列相比，銷量增長了38.5%，創三星智慧手機預訂紀錄。
+
+---
+
+### 2026-08-18 07:09:38  #公司
+
+【PCB產業鏈半年報亮眼 高階產品供需偏緊或延續至2028年】據上證報，近期，多家PCB產業鏈企業披露2026年半年報，大多數公司營收、淨利潤實現較快增長。上海證券報記者梳理發現，AI算力需求增長、產品結構升級及產能釋放等成為推動企業業績增長的重要因素。與此同時，當前PCB行業仍處於結構性漲價過程中，高階HDI、高多層PCB等高階產品持續處於供需偏緊狀態。展望後市，有行業人士向記者表示，AI伺服器持續迭代、ASIC加速器加快放量將繼續支撐高階PCB需求，而高階產能釋放仍需要時間，預計高階PCB供需偏緊格局或延續至2028年。
+
+---
+
+### 2026-08-18 07:08:53  #公司 #國際
+
+【特斯拉Cybercab有望本月投放運營】據媒體援引知情人士的話稱，特斯拉正籌備Cybercab對外正式投放，最早將於本月就在美國得克薩斯州奧斯汀市啟動落地部署。Cybercab是一款專門為自動駕駛打造的車型，對特斯拉Robotaxi戰略至關重要，公司計劃未來將這款車投入其自動駕駛網約車服務。特斯拉已於6月開啟Cybercab量產版本的公開道路測試，該車預計將於今年晚些時候提升產能。近幾周特斯拉已經為正式推出做了多項準備，包括道路測試、在封閉園區道路向員工開放試乘，同時還對當地應急救援人員開展車輛處置培訓。（第一財經）
+
+---
+
+### 2026-08-18 07:08:36  #公司
+
+三星顯示器將新建OLED顯示器生產設施。
+
+---
+
+### 2026-08-18 07:06:09  #MKT News #US10Y #Impact bearish #USDJPY #Impact bullish #DXY
+
+【June: Japan cuts U.S. Treasuries sharply; strategist says unlikely to sell again】Foreign holdings of U.S. Treasuries fell $72.1bn in June to $9.3tln, U.S. Treasury data showed, led by reductions from Japan and China. Holdings have dropped in three of the past four months since a February peak. Treasuries declined amid concerns over large fiscal deficits and inflation remaining above target. Japan, the largest foreign holder, sold about $26.4bn in June, trimming its position to $1.12tln. Prolonged yen weakness prompted Japanese FX intervention, with the U.S. also involved in late July. Strategist Paresh Upadhyay said Japan’s moves were clearly driven by FX intervention needs; U.S. Treasury Secretary Bessent participated in July and signalled Tokyo could use Fed tools to avoid direct Treasury sales, and Upadhyay does not expect Japan to resume Treasury selling.
+
+---
+
+### 2026-08-18 07:05:24  #公司
+
+【中國政府援助哥倫比亞緊急人道主義地震救災物資啟運】8月18日凌晨，中國政府向哥倫比亞提供的緊急人道主義地震救災物資從北京首都國際機場啟運。 據瞭解，該批物資主要包括發電機、淨水車、消毒機、太陽能照明裝置、帳篷和毯子等救災急需物資，共約80噸，搭乘中國國際貨運航空公司包機運往哥首都波哥大，計劃於當地時間18日中午運抵。 哥倫比亞西部當地時間10日發生7.4級地震，造成嚴重人員傷亡和財產損失。中國政府還決定向哥方提供緊急現匯援助，支援哥方救災和災後重建。
+
+---
+
+### 2026-08-18 07:05:15  #公司
+
+【巴斯夫因萊茵河低水位致部分產品供應受阻】德國化工巨頭巴斯夫（BASF）執行長 Markus Kamieth 週一證實，持續乾旱引發的萊茵河低水位已導致部分產品無法足額供應。儘管目前公司財務未受明顯波及，但若干旱持續，生產受干擾的風險將逐周遞增。Kamieth 強調，得益於應對極端天氣準備工作的提升，目前整體局勢依舊可控，面臨的挑戰遠小於2018年。
+
+---
+
+### 2026-08-18 06:57:54  #公司 #市場 #國際
+
+【報道：美國要求韓國將儲存晶片作為首個對美投資重點】據韓國中央日報報道，韓國政府原計劃於本月晚些時候公佈的首個對美投資專案，因美國突然要求韓國投資儲存晶片生產設施而面臨不確定性。報道援引多名未具名執政黨人士報道稱，美國要求韓國投資儲存晶片專案，是8月13日韓國總統府閉門貿易會議討論的核心議題。報道指出，韓國政府最初將能源領域作為首個重大對美投資專案的優先方向。與會人士普遍認為，鑑於三星電子和SK海力士已承諾在韓國Honam地區進行大規模投資，在美國投資儲存晶片專案實際上會很困難。
+
+---
+
+### 2026-08-18 06:57:48  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Moves Away from Near 4-Week Low — New Zealand's stocks rose 56 points, or 0.4%, to 13,779 in Tuesday morning trade, erasing losses from the previous session, mainly supported by gains in real estate, utilities, and consumer staples. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with real estate (+1.0%) and consumer staples (+0.6%) rebounding after plunging in the previous session. Monday's data continued to lift sentiment as food inflation eased to a 19-month low while credit card spending rebounded. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions limited gains ahead of the release of the FOMC meeting minutes later this week. Among the early losers were Gentrack Group (-1.5%), ANZ Group (-0.9%), A2 Milk (-0.5%), and Mainfreight (-0.4%). Meanwhile, Mercury NZ rose 1.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June.
 
 ---
 
@@ -17130,461 +17331,5 @@ Qatar's foreign ministry said the prime minister spoke by phone with Syria's for
 ### 2026-08-17 02:53:48  #MKT News
 
 Qatar's foreign ministry said the prime minister reiterated Doha's full support for efforts to de-escalate tensions and to reach a comprehensive agreement aimed at securing lasting regional peace.
-
----
-
-### 2026-08-17 02:53:41  #國際
-
-卡達外交部：首相在與敘利亞外交部長的通話中討論了地區最新局勢及緩和局勢的努力。
-
----
-
-### 2026-08-17 02:53:24  #MKT News #WTI #Impact bearish #Brent
-
-Qatar's foreign ministry said the prime minister urged all parties to pursue dialogue and diplomacy and to implement the understandings in the US-Iran memorandum, including ensuring freedom of navigation in the Strait of Hormuz, to safeguard regional security, preserve gains and bolster stability.
-
----
-
-### 2026-08-17 02:52:37  #國際
-
-卡達外交部：首相在與沙特外交部長的通話中討論了地區最新局勢及緩和緊張局勢的努力。
-
----
-
-### 2026-08-17 02:52:27  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke with Jordan's foreign minister and discussed diplomatic efforts aimed at easing regional tensions.
-
----
-
-### 2026-08-17 02:51:51  #國際
-
-卡達外交部：首相強調各方必須堅持對話，並落實諒解備忘錄中達成的各項共識。
-
----
-
-### 2026-08-17 02:51:40  #國際
-
-卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。
-
----
-
-### 2026-08-17 02:43:06  #MKT News
-
-CENTCOM commander Brad Cooper praised USS Lincoln leadership for stepping up and making crew mental health and resilience a leadership priority.
-
----
-
-### 2026-08-17 02:42:48  #MKT News
-
-CENTCOM commander Brad Cooper said he has long regarded psychological and mental health as components of personal health, equal to physical health and deserving of attention.
-
----
-
-### 2026-08-17 02:42:13  #MKT News
-
-CENTCOM commander Brad Cooper said the USS Abraham Lincoln currently has one of the lowest counts of mental-health-related cases among the US Navy's 11 active aircraft carriers.
-
----
-
-### 2026-08-17 02:41:18  #MKT News
-
-CENTCOM commander Brad Cooper said his recent visit aboard the aircraft carrier USS Abraham Lincoln was "stunning" and he hopes every American can see the crew’s performance while carrying out their duties.
-
----
-
-### 2026-08-17 02:34:58  #國際
-
-美國中央司令部指揮官布拉德·庫珀：在美國海軍11艘現役航母中，亞伯拉罕·林肯號目前是（士兵）心理健康相關問題最少的一艘。
-
----
-
-### 2026-08-17 02:27:05  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation the group will not be included in any political process until Gaza is fully disarmed.
-
----
-
-### 2026-08-17 02:26:40  #MKT News
-
-Al Jazeera cited Palestinian sources saying a Hamas delegation told Kushner it would refuse to undertake any new measures that could not obtain Israel's prior consent.
-
----
-
-### 2026-08-17 02:25:48  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Hamas leadership briefed Kushner in detail on alleged Israeli violations of the ceasefire in the Gaza Strip.
-
----
-
-### 2026-08-17 02:25:30  #MKT News #Market Themes #The Trump Trade
-
-Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders Trump views disarming armed factions as a prerequisite to any further action in Gaza.
-
----
-
-### 2026-08-17 02:25:21  #國際
-
-【庫什納在開羅會晤哈馬斯領導層，強調解除武裝為先決條件】據巴勒斯坦訊息人士透露，特朗普特使庫什納與哈馬斯領導層在開羅進行了逾兩小時的會晤。庫什納向哈馬斯明確傳達，解除武裝是融入未來政治程序的關鍵前提；同時，美方堅決反對驅逐加沙居民，並建議哈馬斯不要寄望於以色列選舉結果。哈馬斯方面則向庫什納詳細通報了以色列違反停火協議的情況，並強調反對任何未獲以色列事先同意的新舉措。當前談判的核心死結仍在於行動順序：哈馬斯要求以色列先撤軍，而以色列堅持哈馬斯必須先全面繳械。庫什納此行旨在推動落實加沙和平計劃，試圖彌合各方分歧。
-
----
-
-### 2026-08-17 02:25:03  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner emphasized that Israel's position on the Gaza Strip is consistent.
-
----
-
-### 2026-08-17 02:23:48  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party.
-
----
-
-### 2026-08-17 02:23:07  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours.
-
----
-
-### 2026-08-17 02:22:33  #MKT News
-
-Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip.
-
----
-
-### 2026-08-17 02:22:04  #MKT News
-
-Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip.
-
----
-
-### 2026-08-17 02:21:39  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election.
-
----
-
-### 2026-08-17 02:18:05  #MKT News
-
-A spokesperson said Canada’s minister responsible for trade with the US, Dominic LeBlanc, will hold a video meeting with US Trade Representative Greer at 16:30 ET on Sunday (04:30 Beijing Monday).
-
----
-
-### 2026-08-17 02:17:10  #國際
-
-負責美國貿易事務的加拿大部長多米尼克·勒布朗將於美國東部時間週日下午4點30分與美國貿易代表格里爾舉行視訊會議。
-
----
-
-### 2026-08-17 02:14:37  #其他
-
-【巴西發生旅遊巴士翻車事故 至少10人死亡】據巴西里約熱內盧州消防部門16日確認，當日凌晨，該州彼得羅波利斯市附近發生一起旅遊大巴翻車事故，已造成至少10人死亡。
-
----
-
-### 2026-08-17 02:14:17  #公司
-
-【多家銀行助力落地全市場首單非金融企業自貿離岸債】近日，中國銀行、建設銀行、交通銀行、民生銀行等多家銀行協助上海電氣環球資本有限公司（以下簡稱“上海電氣環球”）成功發行15億元人民幣綠色自貿離岸債，期限三年，票面利率1.8%。據悉，該筆債券是全市場首單非金融企業自貿離岸債，即首單企業類自貿離岸債，進一步豐富了上海自貿離岸債市場生態，拓展了人民幣跨境投融資應用場景，標誌著自貿離岸債市場金融活水首次精準直達實體經濟。
-
----
-
-### 2026-08-17 02:12:55  #MKT News
-
-Saudi state TV reported the Saudi foreign minister met Yemen's foreign minister in Riyadh; the Saudi foreign ministry said Riyadh reiterated its firm support for Yemen's security and stability.
-
----
-
-### 2026-08-17 02:12:26  #國際
-
-以色列空襲黎巴嫩，造成包括一名真主黨高階指揮官在內的11人死亡。
-
----
-
-### 2026-08-17 01:56:19  #其他
-
-【比利時東南部野火持續蔓延 過火面積約3000公頃】16日，比利時東南部一處自然保護區發生的野火持續蔓延。目前過火面積已達約3000公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。據當地消防部門訊息，目前部分火勢已得到控制，但消防部門仍面臨較大壓力。目前已有超過250名消防員及應急人員，約50輛車輛加入滅火救援行動。（央視新聞）
-
----
-
-### 2026-08-17 01:49:59  #MKT News
-
-【Hurricane Lala weakens to tropical storm】On Aug 16 local time, Hurricane Lala weakened to a tropical storm near Hawaii, but heavy rain and strong winds may still trigger flooding, landslides and hazardous marine conditions. Lala struck the southern coast of the Big Island as a Category 1 hurricane on Aug 15 and was downgraded by the U.S. National Weather Service. Hawaii’s governor said the storm caused at least one death.
-
----
-
-### 2026-08-17 01:49:19  #國際
-
-【颶風“拉拉”減弱為熱帶風暴】當地時間8月16日，颶風“拉拉”在美國夏威夷附近海域減弱為熱帶風暴，但強降雨和大風仍可能引發洪水、山體滑坡及危險海況。“拉拉”15日以一級颶風強度襲擊夏威夷大島南部海岸，隨後被美國國家氣象局降級為熱帶風暴。不過，部分地區仍可能出現強降雨。夏威夷州州長表示，風暴15日造成至少1人死亡。（央視新聞）
-
----
-
-### 2026-08-17 01:46:07  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #USDJPY
-
-【US weighs sanctions on Brazilian Supreme Court justice Alexandre de Moraes, FT reports】The US government is discussing renewed sanctions on Brazilian Supreme Court justice Alexandre de Moraes, the Financial Times reports. Sources say the Trump administration is again considering action after sanctions were imposed last year on human-rights grounds and later lifted. Renewed measures could push US‑Brazil ties to their lowest level in decades, exacerbate trade and political tensions and increase uncertainty ahead of Brazil’s election.
-
----
-
-### 2026-08-17 01:39:31  #MKT News
-
-Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones.
-
----
-
-### 2026-08-17 01:34:25  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Israeli security sources said the Israeli military is preparing for a possible escalation in Lebanon following recent incidents on the Ali Taher Heights.
-
----
-
-### 2026-08-17 01:30:52  #MKT News
-
-Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades.
-
----
-
-### 2026-08-17 01:30:47  #國際
-
-美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。
-
----
-
-### 2026-08-17 01:28:55  #國際
-
-以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。
-
----
-
-### 2026-08-17 01:28:35  #國際
-
-伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。
-
----
-
-### 2026-08-17 01:27:31  #MKT News
-
-Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline.
-
----
-
-### 2026-08-17 01:24:32  #國際
-
-【WTT歐洲大滿貫：王曼昱奪得女單冠軍】當地時間8月16日，在瑞典馬爾默舉行的WTT歐洲大滿貫女單決賽中，中國選手王曼昱4:2戰勝隊友王藝迪，獲得冠軍。（央視新聞）
-
----
-
-### 2026-08-17 01:17:25  #市場
-
-【今年A股再融資規模已超過4700億元】整體來看，年內再融資市場熱度持續攀升。據統計，截至8月17日，年內186個再融資專案上市，同比增長超50%。其中包括139個定增專案、47個可轉債專案。年內再融資專案合計募集資金超4700億元，其中7個專案募集資金超百億元，還有75個專案超10億元。
-
----
-
-### 2026-08-17 01:15:56  #市場 #國際
-
-伊朗第一副總統：敵方企圖透過經濟戰來彌補其在軍事上的失敗，我們必須予以應對；物價上漲已達到令人惱火的程度，敵方的戰略正是企圖利用這一點。
-
----
-
-### 2026-08-17 01:13:47  #國際
-
-以色列：軍隊正準備可能返回黎巴嫩進行數天的戰鬥。
-
----
-
-### 2026-08-17 01:09:30  #MKT News
-
-Iran's first vice president said rising prices have reached an alarming level and that enemies are exploiting the situation.
-
----
-
-### 2026-08-17 01:08:26  #MKT News
-
-Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond.
-
----
-
-### 2026-08-17 00:54:55  #MKT News #Market Regions #Europe & UK
-
-【U.S. denies shift in stance on Malvinas (Falklands) sovereignty dispute】U.S. ambassador to Argentina Peter Lamelas on the 15th denied the U.S. government had changed its position on the Malvinas (Falklands) sovereignty dispute. In an interview with Argentine broadcaster TN he said the U.S. remains "neutral" in the dispute and "that has not changed." Media reports said a leaked U.S. Defense Department email in April indicated President Trump was considering no longer backing the U.K.'s position on the islands. Lamelas said he had heard of the "internal email" but was not aware of its contents.
-
----
-
-### 2026-08-17 00:54:27  #國際
-
-【美方否認在馬島主權爭端中改變立場】美國駐阿根廷大使彼得·拉梅拉斯15日否認美國政府改變了在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中的立場。拉梅拉斯在接受阿根廷媒體TN電視臺採訪時聲稱，美國政府仍在馬爾維納斯群島主權爭端中“保持中立”，“這一點沒有改變”。（新華社）
-
----
-
-### 2026-08-17 00:51:37  #其他
-
-【雲南就低價遊宰客問題展開調查】8月16日晚，總檯《財經調查》曝光低價遊宰客陷阱 。其中，雲南昆明、西雙版納等地一些旅遊行程豐富、標註純玩無購物、無自費的跟團遊產品，頻頻出現消費糾紛。旅遊實際行程與商家宣傳嚴重不符，隱性購物、強制消費、臨時加價等問題時有發生。針對節目曝光問題，雲南省文化和旅遊廳高度重視，通報立即組織有關州市對涉事的旅行社、導遊、購物場所開展調查。一經查實，將依法依規嚴肅處理。
-
----
-
-### 2026-08-17 00:48:20  #MKT News
-
-Al Arabiya TV reported Trump senior adviser Jared Kushner confirmed to Hamas leaders that Hamas weapons would be removed from Gaza and not stored there.
-
----
-
-### 2026-08-17 00:48:12  #宏觀
-
-伊拉克財政部長法利赫·薩里宣佈，霍爾木茲海峽的關閉對伊拉克經濟產生了直接影響。透過加強非石油收入，將克服當前的形勢。
-
----
-
-### 2026-08-17 00:47:36  #MKT News #Market Themes #The Trump Trade
-
-Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Mladenov insisted Hamas hand over weapons and dismantle its infrastructure.
-
----
-
-### 2026-08-17 00:47:12  #MKT News
-
-Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Nikolay Mladenov rejected a Hamas proposal to "store weapons".
-
----
-
-### 2026-08-17 00:32:26  #國際
-
-黎巴嫩：以色列炮擊黎巴嫩南部拜特亞胡恩與巴拉希特兩鎮之間的地區。
-
----
-
-### 2026-08-17 00:32:15  #MKT News
-
-Prime Minister Carney said the government is committed to building more affordable housing nationwide and has launched Maisons Canada, the Canadian Housing Plan, to rapidly scale construction using Canadian workers, materials and technology.
-
----
-
-### 2026-08-17 00:30:46  #國際
-
-中東和平委員會：絕不允許加沙再度成為針對以色列發動襲擊的策源地。
-
----
-
-### 2026-08-17 00:30:16  #國際
-
-中東和平委員會提出要求：若哈馬斯啟動上繳銷燬武器的程序，以色列必須在加沙開展對等撤軍行動。
-
----
-
-### 2026-08-17 00:29:06  #國際
-
-中東和平委員會要求哈馬斯著手拆除武器以及軍事基礎設施。
-
----
-
-### 2026-08-17 00:26:22  #MKT News
-
-Iraq's finance minister said the government will continue to strengthen non-oil revenues to offset the impact of a blockade of the Strait of Hormuz.
-
----
-
-### 2026-08-17 00:24:11  #國際
-
-阿拉伯和伊斯蘭國家外長發表宣告：呼籲支援和平委員會為落實路線圖及其第二階段所作的努力，呼籲和平理事會採取緊急措施，維護加沙計劃並防止其受阻。
-
----
-
-### 2026-08-17 00:23:48  #MKT News #WTI #Impact bullish #Brent
-
-Iraq's finance minister said the closure of the Strait of Hormuz has directly affected the Iraqi economy.
-
----
-
-### 2026-08-17 00:23:30  #MKT News
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement urging support for the peace committee’s efforts to implement the roadmap and advance to a second phase.
-
----
-
-### 2026-08-17 00:22:34  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Ukraine strikes major Russian logistics hub; Russia hits Ukrainian military-industrial sites, refineries】Ukraine's defence ministry said on social media that early on the 16th its forces launched a large-scale drone strike on a logistics hub in Moscow region operated by e-commerce platform Wildberries. Russia's defence ministry said its forces struck Ukrainian military-industrial facilities and refineries the same day.
-
----
-
-### 2026-08-17 00:19:43  #公司 #國際
-
-【烏軍襲擊俄大型物流樞紐 俄打擊烏軍工企業和煉油廠】烏克蘭國防部16日在社交媒體發文稱，當天凌晨，烏軍對俄大型電商平臺野莓公司位於莫斯科州的物流樞紐發動了大規模無人機襲擊。另據俄國防部16日釋出的訊息，俄軍當天打擊了烏克蘭的軍工企業和煉油廠等設施。
-
----
-
-### 2026-08-17 00:18:38  #國際
-
-哈馬斯表示，其高階代表團在開羅與埃及官員舉行的會談，重點在於鞏固加沙地帶的停火，並確保以色列履行美國支援的所謂“和平計劃”所作出的各項承諾。
-
----
-
-### 2026-08-17 00:17:04  #市場 #國際
-
-【原材料物流成本大幅抬升，伊朗三分之二藥品兩輪漲價】伊朗食品藥品管理局局長週日表示，自3月21日以來，伊朗約三分之二的藥品已經經歷兩輪漲價。邁赫迪·皮爾薩萊希稱，原材料、運輸以及生產成本上漲是推高藥價的部分原因。他表示，部分進口藥品的海運運費約3000美元，如今改為空運後運費已漲至30000美元。他補充，此番漲價旨在避免製藥企業虧損經營。皮爾薩萊希稱，伊朗今年已劃撥45億美元外匯用於採購藥品和醫療裝置，其中已有13億美元按照補貼匯率撥付到位。
-
----
-
-### 2026-08-17 00:12:44  #MKT News
-
-Market sources: French Prime Minister Lecornu will hold a crisis meeting on Monday to respond to a cyberattack disclosed last week that targeted the country's tax authority.
-
----
-
-### 2026-08-17 00:10:42  #其他
-
-巴西總統盧拉開啟連任競選。
-
----
-
-### 2026-08-17 00:08:48  #國際
-
-伊朗總統：那些在我國境內挑起紛爭的人應當明白，這隻會有利於美國和以色列。
-
----
-
-### 2026-08-17 00:07:57  #MKT News
-
-According to Al Jazeera, Iran's president said those stirring domestic divisions must realize this only benefits the United States and Israel.
-
----
-
-### 2026-08-17 00:01:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-IRNA quoted Iran's army general staff as saying it is confident the USS Abraham Lincoln was struck at least once by munitions fired by Iran, temporarily preventing all embarked fighters from launching.
-
----
-
-### 2026-08-17 00:00:34  #國際
-
-伊朗：儘管遭受戰時損毀，伊朗航天工業仍在繼續推進發展。
-
----
-
-### 2026-08-16 23:59:06  #國際
-
-伊朗陸軍總司令：我們確信林肯號航空母艦至少遭到過一次伊朗彈藥打擊，受此影響，該艦艦載戰鬥機曾有一段時間完全無法起飛。
-
----
-
-### 2026-08-16 23:57:47  #其他
-
-法國總理勒科爾尼將於週一召開危機會議，以應對上週曝光的針對該國稅務總局的網路攻擊事件。
-
----
-
-### 2026-08-16 23:55:09  #其他
-
-【巴西發生一起旅遊大巴翻車事故 已致9人死亡】當地時間8月16日凌晨，巴西里約熱內盧州發生一起交通事故，一輛旅遊大巴在行駛途中翻車，目前已造成至少9人死亡，包括8名成人和1名兒童。
-
----
-
-### 2026-08-16 23:51:41  #MKT News
-
-Al Arabiya TV reported Kushner, a senior adviser to Trump, has concluded a meeting with the Gaza Peace Committee.
-
----
-
-### 2026-08-16 23:50:56  #MKT News
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan said in a joint statement that Israel's refusal threatens Trump's intensified efforts to end the Gaza war.
 
 ---

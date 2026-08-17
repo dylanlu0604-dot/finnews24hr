@@ -1,7 +1,463 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:57:16_
-_本檔包含 3050 則快訊，約 604272 字_
+_更新時間：2026-08-18 07:26:31_
+_本檔包含 3093 則快訊，約 604167 字_
+
+---
+
+### 2026-08-17 02:53:41  #國際
+
+卡達外交部：首相在與敘利亞外交部長的通話中討論了地區最新局勢及緩和局勢的努力。
+
+---
+
+### 2026-08-17 02:53:24  #MKT News #WTI #Impact bearish #Brent
+
+Qatar's foreign ministry said the prime minister urged all parties to pursue dialogue and diplomacy and to implement the understandings in the US-Iran memorandum, including ensuring freedom of navigation in the Strait of Hormuz, to safeguard regional security, preserve gains and bolster stability.
+
+---
+
+### 2026-08-17 02:52:37  #國際
+
+卡達外交部：首相在與沙特外交部長的通話中討論了地區最新局勢及緩和緊張局勢的努力。
+
+---
+
+### 2026-08-17 02:52:27  #MKT News
+
+Qatar's foreign ministry said the prime minister spoke with Jordan's foreign minister and discussed diplomatic efforts aimed at easing regional tensions.
+
+---
+
+### 2026-08-17 02:51:51  #國際
+
+卡達外交部：首相強調各方必須堅持對話，並落實諒解備忘錄中達成的各項共識。
+
+---
+
+### 2026-08-17 02:51:40  #國際
+
+卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。
+
+---
+
+### 2026-08-17 02:43:06  #MKT News
+
+CENTCOM commander Brad Cooper praised USS Lincoln leadership for stepping up and making crew mental health and resilience a leadership priority.
+
+---
+
+### 2026-08-17 02:42:48  #MKT News
+
+CENTCOM commander Brad Cooper said he has long regarded psychological and mental health as components of personal health, equal to physical health and deserving of attention.
+
+---
+
+### 2026-08-17 02:42:13  #MKT News
+
+CENTCOM commander Brad Cooper said the USS Abraham Lincoln currently has one of the lowest counts of mental-health-related cases among the US Navy's 11 active aircraft carriers.
+
+---
+
+### 2026-08-17 02:41:18  #MKT News
+
+CENTCOM commander Brad Cooper said his recent visit aboard the aircraft carrier USS Abraham Lincoln was "stunning" and he hopes every American can see the crew’s performance while carrying out their duties.
+
+---
+
+### 2026-08-17 02:34:58  #國際
+
+美國中央司令部指揮官布拉德·庫珀：在美國海軍11艘現役航母中，亞伯拉罕·林肯號目前是（士兵）心理健康相關問題最少的一艘。
+
+---
+
+### 2026-08-17 02:27:05  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation the group will not be included in any political process until Gaza is fully disarmed.
+
+---
+
+### 2026-08-17 02:26:40  #MKT News
+
+Al Jazeera cited Palestinian sources saying a Hamas delegation told Kushner it would refuse to undertake any new measures that could not obtain Israel's prior consent.
+
+---
+
+### 2026-08-17 02:25:48  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Hamas leadership briefed Kushner in detail on alleged Israeli violations of the ceasefire in the Gaza Strip.
+
+---
+
+### 2026-08-17 02:25:30  #MKT News #Market Themes #The Trump Trade
+
+Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders Trump views disarming armed factions as a prerequisite to any further action in Gaza.
+
+---
+
+### 2026-08-17 02:25:21  #國際
+
+【庫什納在開羅會晤哈馬斯領導層，強調解除武裝為先決條件】據巴勒斯坦訊息人士透露，特朗普特使庫什納與哈馬斯領導層在開羅進行了逾兩小時的會晤。庫什納向哈馬斯明確傳達，解除武裝是融入未來政治程序的關鍵前提；同時，美方堅決反對驅逐加沙居民，並建議哈馬斯不要寄望於以色列選舉結果。哈馬斯方面則向庫什納詳細通報了以色列違反停火協議的情況，並強調反對任何未獲以色列事先同意的新舉措。當前談判的核心死結仍在於行動順序：哈馬斯要求以色列先撤軍，而以色列堅持哈馬斯必須先全面繳械。庫什納此行旨在推動落實加沙和平計劃，試圖彌合各方分歧。
+
+---
+
+### 2026-08-17 02:25:03  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner emphasized that Israel's position on the Gaza Strip is consistent.
+
+---
+
+### 2026-08-17 02:23:48  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party.
+
+---
+
+### 2026-08-17 02:23:07  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours.
+
+---
+
+### 2026-08-17 02:22:33  #MKT News
+
+Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip.
+
+---
+
+### 2026-08-17 02:22:04  #MKT News
+
+Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip.
+
+---
+
+### 2026-08-17 02:21:39  #MKT News
+
+Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election.
+
+---
+
+### 2026-08-17 02:18:05  #MKT News
+
+A spokesperson said Canada’s minister responsible for trade with the US, Dominic LeBlanc, will hold a video meeting with US Trade Representative Greer at 16:30 ET on Sunday (04:30 Beijing Monday).
+
+---
+
+### 2026-08-17 02:17:10  #國際
+
+負責美國貿易事務的加拿大部長多米尼克·勒布朗將於美國東部時間週日下午4點30分與美國貿易代表格里爾舉行視訊會議。
+
+---
+
+### 2026-08-17 02:14:37  #其他
+
+【巴西發生旅遊巴士翻車事故 至少10人死亡】據巴西里約熱內盧州消防部門16日確認，當日凌晨，該州彼得羅波利斯市附近發生一起旅遊大巴翻車事故，已造成至少10人死亡。
+
+---
+
+### 2026-08-17 02:14:17  #公司
+
+【多家銀行助力落地全市場首單非金融企業自貿離岸債】近日，中國銀行、建設銀行、交通銀行、民生銀行等多家銀行協助上海電氣環球資本有限公司（以下簡稱“上海電氣環球”）成功發行15億元人民幣綠色自貿離岸債，期限三年，票面利率1.8%。據悉，該筆債券是全市場首單非金融企業自貿離岸債，即首單企業類自貿離岸債，進一步豐富了上海自貿離岸債市場生態，拓展了人民幣跨境投融資應用場景，標誌著自貿離岸債市場金融活水首次精準直達實體經濟。
+
+---
+
+### 2026-08-17 02:12:55  #MKT News
+
+Saudi state TV reported the Saudi foreign minister met Yemen's foreign minister in Riyadh; the Saudi foreign ministry said Riyadh reiterated its firm support for Yemen's security and stability.
+
+---
+
+### 2026-08-17 02:12:26  #國際
+
+以色列空襲黎巴嫩，造成包括一名真主黨高階指揮官在內的11人死亡。
+
+---
+
+### 2026-08-17 01:56:19  #其他
+
+【比利時東南部野火持續蔓延 過火面積約3000公頃】16日，比利時東南部一處自然保護區發生的野火持續蔓延。目前過火面積已達約3000公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。據當地消防部門訊息，目前部分火勢已得到控制，但消防部門仍面臨較大壓力。目前已有超過250名消防員及應急人員，約50輛車輛加入滅火救援行動。（央視新聞）
+
+---
+
+### 2026-08-17 01:49:59  #MKT News
+
+【Hurricane Lala weakens to tropical storm】On Aug 16 local time, Hurricane Lala weakened to a tropical storm near Hawaii, but heavy rain and strong winds may still trigger flooding, landslides and hazardous marine conditions. Lala struck the southern coast of the Big Island as a Category 1 hurricane on Aug 15 and was downgraded by the U.S. National Weather Service. Hawaii’s governor said the storm caused at least one death.
+
+---
+
+### 2026-08-17 01:49:19  #國際
+
+【颶風“拉拉”減弱為熱帶風暴】當地時間8月16日，颶風“拉拉”在美國夏威夷附近海域減弱為熱帶風暴，但強降雨和大風仍可能引發洪水、山體滑坡及危險海況。“拉拉”15日以一級颶風強度襲擊夏威夷大島南部海岸，隨後被美國國家氣象局降級為熱帶風暴。不過，部分地區仍可能出現強降雨。夏威夷州州長表示，風暴15日造成至少1人死亡。（央視新聞）
+
+---
+
+### 2026-08-17 01:46:07  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #USDJPY
+
+【US weighs sanctions on Brazilian Supreme Court justice Alexandre de Moraes, FT reports】The US government is discussing renewed sanctions on Brazilian Supreme Court justice Alexandre de Moraes, the Financial Times reports. Sources say the Trump administration is again considering action after sanctions were imposed last year on human-rights grounds and later lifted. Renewed measures could push US‑Brazil ties to their lowest level in decades, exacerbate trade and political tensions and increase uncertainty ahead of Brazil’s election.
+
+---
+
+### 2026-08-17 01:39:31  #MKT News
+
+Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones.
+
+---
+
+### 2026-08-17 01:34:25  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Israeli security sources said the Israeli military is preparing for a possible escalation in Lebanon following recent incidents on the Ali Taher Heights.
+
+---
+
+### 2026-08-17 01:30:52  #MKT News
+
+Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades.
+
+---
+
+### 2026-08-17 01:30:47  #國際
+
+美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。
+
+---
+
+### 2026-08-17 01:28:55  #國際
+
+以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。
+
+---
+
+### 2026-08-17 01:28:35  #國際
+
+伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。
+
+---
+
+### 2026-08-17 01:27:31  #MKT News
+
+Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline.
+
+---
+
+### 2026-08-17 01:24:32  #國際
+
+【WTT歐洲大滿貫：王曼昱奪得女單冠軍】當地時間8月16日，在瑞典馬爾默舉行的WTT歐洲大滿貫女單決賽中，中國選手王曼昱4:2戰勝隊友王藝迪，獲得冠軍。（央視新聞）
+
+---
+
+### 2026-08-17 01:17:25  #市場
+
+【今年A股再融資規模已超過4700億元】整體來看，年內再融資市場熱度持續攀升。據統計，截至8月17日，年內186個再融資專案上市，同比增長超50%。其中包括139個定增專案、47個可轉債專案。年內再融資專案合計募集資金超4700億元，其中7個專案募集資金超百億元，還有75個專案超10億元。
+
+---
+
+### 2026-08-17 01:15:56  #市場 #國際
+
+伊朗第一副總統：敵方企圖透過經濟戰來彌補其在軍事上的失敗，我們必須予以應對；物價上漲已達到令人惱火的程度，敵方的戰略正是企圖利用這一點。
+
+---
+
+### 2026-08-17 01:13:47  #國際
+
+以色列：軍隊正準備可能返回黎巴嫩進行數天的戰鬥。
+
+---
+
+### 2026-08-17 01:09:30  #MKT News
+
+Iran's first vice president said rising prices have reached an alarming level and that enemies are exploiting the situation.
+
+---
+
+### 2026-08-17 01:08:26  #MKT News
+
+Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond.
+
+---
+
+### 2026-08-17 00:54:55  #MKT News #Market Regions #Europe & UK
+
+【U.S. denies shift in stance on Malvinas (Falklands) sovereignty dispute】U.S. ambassador to Argentina Peter Lamelas on the 15th denied the U.S. government had changed its position on the Malvinas (Falklands) sovereignty dispute. In an interview with Argentine broadcaster TN he said the U.S. remains "neutral" in the dispute and "that has not changed." Media reports said a leaked U.S. Defense Department email in April indicated President Trump was considering no longer backing the U.K.'s position on the islands. Lamelas said he had heard of the "internal email" but was not aware of its contents.
+
+---
+
+### 2026-08-17 00:54:27  #國際
+
+【美方否認在馬島主權爭端中改變立場】美國駐阿根廷大使彼得·拉梅拉斯15日否認美國政府改變了在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中的立場。拉梅拉斯在接受阿根廷媒體TN電視臺採訪時聲稱，美國政府仍在馬爾維納斯群島主權爭端中“保持中立”，“這一點沒有改變”。（新華社）
+
+---
+
+### 2026-08-17 00:51:37  #其他
+
+【雲南就低價遊宰客問題展開調查】8月16日晚，總檯《財經調查》曝光低價遊宰客陷阱 。其中，雲南昆明、西雙版納等地一些旅遊行程豐富、標註純玩無購物、無自費的跟團遊產品，頻頻出現消費糾紛。旅遊實際行程與商家宣傳嚴重不符，隱性購物、強制消費、臨時加價等問題時有發生。針對節目曝光問題，雲南省文化和旅遊廳高度重視，通報立即組織有關州市對涉事的旅行社、導遊、購物場所開展調查。一經查實，將依法依規嚴肅處理。
+
+---
+
+### 2026-08-17 00:48:20  #MKT News
+
+Al Arabiya TV reported Trump senior adviser Jared Kushner confirmed to Hamas leaders that Hamas weapons would be removed from Gaza and not stored there.
+
+---
+
+### 2026-08-17 00:48:12  #宏觀
+
+伊拉克財政部長法利赫·薩里宣佈，霍爾木茲海峽的關閉對伊拉克經濟產生了直接影響。透過加強非石油收入，將克服當前的形勢。
+
+---
+
+### 2026-08-17 00:47:36  #MKT News #Market Themes #The Trump Trade
+
+Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Mladenov insisted Hamas hand over weapons and dismantle its infrastructure.
+
+---
+
+### 2026-08-17 00:47:12  #MKT News
+
+Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Nikolay Mladenov rejected a Hamas proposal to "store weapons".
+
+---
+
+### 2026-08-17 00:32:26  #國際
+
+黎巴嫩：以色列炮擊黎巴嫩南部拜特亞胡恩與巴拉希特兩鎮之間的地區。
+
+---
+
+### 2026-08-17 00:32:15  #MKT News
+
+Prime Minister Carney said the government is committed to building more affordable housing nationwide and has launched Maisons Canada, the Canadian Housing Plan, to rapidly scale construction using Canadian workers, materials and technology.
+
+---
+
+### 2026-08-17 00:30:46  #國際
+
+中東和平委員會：絕不允許加沙再度成為針對以色列發動襲擊的策源地。
+
+---
+
+### 2026-08-17 00:30:16  #國際
+
+中東和平委員會提出要求：若哈馬斯啟動上繳銷燬武器的程序，以色列必須在加沙開展對等撤軍行動。
+
+---
+
+### 2026-08-17 00:29:06  #國際
+
+中東和平委員會要求哈馬斯著手拆除武器以及軍事基礎設施。
+
+---
+
+### 2026-08-17 00:26:22  #MKT News
+
+Iraq's finance minister said the government will continue to strengthen non-oil revenues to offset the impact of a blockade of the Strait of Hormuz.
+
+---
+
+### 2026-08-17 00:24:11  #國際
+
+阿拉伯和伊斯蘭國家外長發表宣告：呼籲支援和平委員會為落實路線圖及其第二階段所作的努力，呼籲和平理事會採取緊急措施，維護加沙計劃並防止其受阻。
+
+---
+
+### 2026-08-17 00:23:48  #MKT News #WTI #Impact bullish #Brent
+
+Iraq's finance minister said the closure of the Strait of Hormuz has directly affected the Iraqi economy.
+
+---
+
+### 2026-08-17 00:23:30  #MKT News
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement urging support for the peace committee’s efforts to implement the roadmap and advance to a second phase.
+
+---
+
+### 2026-08-17 00:22:34  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukraine strikes major Russian logistics hub; Russia hits Ukrainian military-industrial sites, refineries】Ukraine's defence ministry said on social media that early on the 16th its forces launched a large-scale drone strike on a logistics hub in Moscow region operated by e-commerce platform Wildberries. Russia's defence ministry said its forces struck Ukrainian military-industrial facilities and refineries the same day.
+
+---
+
+### 2026-08-17 00:19:43  #公司 #國際
+
+【烏軍襲擊俄大型物流樞紐 俄打擊烏軍工企業和煉油廠】烏克蘭國防部16日在社交媒體發文稱，當天凌晨，烏軍對俄大型電商平臺野莓公司位於莫斯科州的物流樞紐發動了大規模無人機襲擊。另據俄國防部16日釋出的訊息，俄軍當天打擊了烏克蘭的軍工企業和煉油廠等設施。
+
+---
+
+### 2026-08-17 00:18:38  #國際
+
+哈馬斯表示，其高階代表團在開羅與埃及官員舉行的會談，重點在於鞏固加沙地帶的停火，並確保以色列履行美國支援的所謂“和平計劃”所作出的各項承諾。
+
+---
+
+### 2026-08-17 00:17:04  #市場 #國際
+
+【原材料物流成本大幅抬升，伊朗三分之二藥品兩輪漲價】伊朗食品藥品管理局局長週日表示，自3月21日以來，伊朗約三分之二的藥品已經經歷兩輪漲價。邁赫迪·皮爾薩萊希稱，原材料、運輸以及生產成本上漲是推高藥價的部分原因。他表示，部分進口藥品的海運運費約3000美元，如今改為空運後運費已漲至30000美元。他補充，此番漲價旨在避免製藥企業虧損經營。皮爾薩萊希稱，伊朗今年已劃撥45億美元外匯用於採購藥品和醫療裝置，其中已有13億美元按照補貼匯率撥付到位。
+
+---
+
+### 2026-08-17 00:12:44  #MKT News
+
+Market sources: French Prime Minister Lecornu will hold a crisis meeting on Monday to respond to a cyberattack disclosed last week that targeted the country's tax authority.
+
+---
+
+### 2026-08-17 00:10:42  #其他
+
+巴西總統盧拉開啟連任競選。
+
+---
+
+### 2026-08-17 00:08:48  #國際
+
+伊朗總統：那些在我國境內挑起紛爭的人應當明白，這隻會有利於美國和以色列。
+
+---
+
+### 2026-08-17 00:07:57  #MKT News
+
+According to Al Jazeera, Iran's president said those stirring domestic divisions must realize this only benefits the United States and Israel.
+
+---
+
+### 2026-08-17 00:01:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+IRNA quoted Iran's army general staff as saying it is confident the USS Abraham Lincoln was struck at least once by munitions fired by Iran, temporarily preventing all embarked fighters from launching.
+
+---
+
+### 2026-08-17 00:00:34  #國際
+
+伊朗：儘管遭受戰時損毀，伊朗航天工業仍在繼續推進發展。
+
+---
+
+### 2026-08-16 23:59:06  #國際
+
+伊朗陸軍總司令：我們確信林肯號航空母艦至少遭到過一次伊朗彈藥打擊，受此影響，該艦艦載戰鬥機曾有一段時間完全無法起飛。
+
+---
+
+### 2026-08-16 23:57:47  #其他
+
+法國總理勒科爾尼將於週一召開危機會議，以應對上週曝光的針對該國稅務總局的網路攻擊事件。
+
+---
+
+### 2026-08-16 23:55:09  #其他
+
+【巴西發生一起旅遊大巴翻車事故 已致9人死亡】當地時間8月16日凌晨，巴西里約熱內盧州發生一起交通事故，一輛旅遊大巴在行駛途中翻車，目前已造成至少9人死亡，包括8名成人和1名兒童。
+
+---
+
+### 2026-08-16 23:51:41  #MKT News
+
+Al Arabiya TV reported Kushner, a senior adviser to Trump, has concluded a meeting with the Gaza Peace Committee.
+
+---
+
+### 2026-08-16 23:50:56  #MKT News
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan said in a joint statement that Israel's refusal threatens Trump's intensified efforts to end the Gaza war.
 
 ---
 
@@ -18213,203 +18669,5 @@ India Wholesale Inflation Below Forecasts — India’s wholesale prices increas
 ### 2026-08-14 14:40:30  #MKT News #Market Themes #AI Revolution
 
 【Goldman Sachs economist: large-scale AI job losses in India unlikely】Goldman Sachs' India chief economist Santanu Sengupta said India is unlikely to see widespread unemployment from AI, though some service-sector roles could be affected. He cited India's very large labor force and the high share employed in manual or physical jobs; construction and retail account for roughly 40% of the workforce and so far AI has had limited impact on those sectors. Goldman Sachs estimates that pacing AI deployment could mitigate employment shocks and that AI might raise aggregate productivity by about 0.4 percentage points over the next 10 years.
-
----
-
-### 2026-08-14 14:39:20  #MKT News
-
-Goldman Sachs says some roles in India’s services sector could be affected by AI, but widespread unemployment of the Indian workforce is unlikely.
-
----
-
-### 2026-08-14 14:37:54  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Slides 1.6% Over Week — The ASX 200 slipped 73 points, or 0.8%, to close at 9,115 on Friday, marking its third straight retreat and lowest finish in over a week. Sentiment weakened as U.S. futures fell after President Trump imposed fresh tariffs on drone imports, with analysts pointing to China as the main target. Meanwhile, US Treasury Secretary Bessent Thursday warned of unprecedented measures against Iran, promising “economic isolation like the world has never seen. Locally, Q2 housing lending in Australia dropped to a three-quarter low, though the pace of decline eased from the prior period. Attention now turns to July labor data due next week, following June’s steady jobless rate. Heavy losses hit transport, industrials, healthcare, and non-energy minerals. BHP and Rio Tinto shed 3.4% and 2.9%, while three of the four major banks also pulled back. Gold miners lagged, with Evolution Mining down 4.0% and Northern Star off 3.2%. For the week, the market fell 1.6%, erasing gains from the prior three weeks.
-
----
-
-### 2026-08-14 14:36:32  #其他
-
-【8月14日：“農產品批發價格200指數”比昨天上升0.29個點】據農業農村部監測，8月14日“農產品批發價格200指數”為115.19，比昨天上升0.29個點，“菜籃子”產品批發價格指數為115.63，比昨天上升0.33個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.77元/公斤，比昨天下降0.2%；牛肉67.69元/公斤，比昨天上升0.5%；羊肉64.79元/公斤，比昨天下降0.4%；雞蛋10.21元/公斤，比昨天上升1.0%；白條雞17.26元/公斤，比昨天下降0.9%。重點監測的28種蔬菜平均價格為4.58元/公斤，比昨天上升1.3%；重點監測的6種水果平均價格為7.01元/公斤，比昨天上升3.2%。鯽魚20.55元/公斤，比昨天上升1.2%；鯉魚14.60元/公斤，比昨天上升1.0%；白鰱魚10.41元/公斤，比昨天上升0.9%；大帶魚43.19元/公斤，比昨天上升3.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、鴨梨、大帶魚、大白菜和富士蘋果，幅度分別為6.1%、4.9%、3.9%、3.8%和3.2%；價格降幅前五名的是西瓜、洋白菜、蔥頭、白條雞和羊肉，幅度分別為2.5%、1.5%、1.1%、0.9%和0.4%。
-
----
-
-### 2026-08-14 14:36:27  #MKT News #Market Regions #Greater China
-
-【China wholesale pork average price down 0.2% from yesterday】Ministry of Agriculture and Rural Affairs monitoring—as of 14:00 on Aug 14: Agricultural Wholesale Price 200 Index 115.19, +0.29 points vs yesterday; vegetable-basket wholesale price index 115.63, +0.33 points. National wholesale market average prices: pork 15.77 yuan/kg, -0.2% vs yesterday; beef 67.69 yuan/kg, +0.5%; mutton 64.79 yuan/kg, -0.4%; eggs 10.21 yuan/kg, +1.0%; dressed chicken 17.26 yuan/kg, -0.9%.
-
----
-
-### 2026-08-14 14:35:04  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY
-
-France July CPI m/m final due in 10 minutes.
-
----
-
-### 2026-08-14 14:34:38  #MKT News #Important #Market Regions #Emerging Markets
-
-South Korea's KOSPI rose 11.5% this week, snapping a seven-week losing streak.
-
----
-
-### 2026-08-14 14:34:33  #Trading Economics #Markets #Commodity #Importance 0
-
-Oil Rises on Middle East Risks — Crude oil climbed above $82 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
-
----
-
-### 2026-08-14 14:33:52  #公司
-
-【林洋能源與馬來西亞沙撈越SMD達成戰略合作】據林洋能源訊息，8月13日，林洋能源與馬來西亞沙撈越州國有半導體企業SMD正式簽署戰略合作協議（MOA）。根據協議，雙方將重點推進半導體技術與新能源裝備深度融合，實現產品升級、效能提升與本地化適配；同時聯合開發東南亞光儲專案，共建“沙撈越晶片研發+中國製造整合+東盟及OIC市場落地”的跨境產業鏈體系。
-
----
-
-### 2026-08-14 14:33:51  #Trading Economics #Markets #Commodity #Importance 2
-
-Brent Rises on Middle East Risks — Brent crude climbed toward $88 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit.
-
----
-
-### 2026-08-14 14:32:32  #Trading Economics #Markets #Canada #currency #Importance 1
-
-Canadian Dollar Hits 9-week High — The Canadian Dollar touched 1.39 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar lost 0.94%, and in the last 12 months, it increased 0.66%.
-
----
-
-### 2026-08-14 14:32:11  #MKT News #Important #Market Regions #Japan & APAC
-
-South Korea's KOSPI index closed 164.0 points higher, up 2.41%, at 6,977.34 on Aug 14 (Friday).
-
----
-
-### 2026-08-14 14:31:43  #國際
-
-【日韓股市集體收漲】日經225指數收漲0.59%，報68713.80點。韓國綜指收漲2.41%，報6977.34點。
-
----
-
-### 2026-08-14 14:31:42  #公司
-
-【里昂：上調長江基建目標價至67港元，維持“跑贏大市”評級】里昂發表研報指，長江基建受惠於出售資產後累積的充足資金、穩定派息及監管重置帶來的順風，成為市場上相對安全的避風港。該行將公司目標價由63港元上調至67港元，維持“跑贏大市”評級。該行表示，長建上半年列賬純利213億港元，同比升389%。即使撇除一次性專案，上半年核心純利仍然穩健。中期息同比升2.7%至每股0.75港元，延續自1996年上市以來每年增加派息的紀錄。該行上調長建今年純利預測155%，以反映上半年出售資產收益，但由於相關資產出售後貢獻減少，下調明年預測15%。
-
----
-
-### 2026-08-14 14:30:54  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei index closed up 405.21 points, or 0.59%, at 68,713.80 on Friday, Aug. 14.
-
----
-
-### 2026-08-14 14:30:52  #MKT News #Market Regions #Greater China
-
-【China Motorcycle Association: July fuel motorcycle sales 1.8996 mln, up 18.85% YoY】China Motorcycle Association data: In July fuel motorcycle production was 1.9384 mln vehicles and sales 1.8996 mln, up 5.13% and 2.97% MoM and 22.32% and 18.85% YoY respectively. Electric motorcycle production was 0.3311 mln and sales 0.3212 mln, down 21.21% and 20.87% MoM but up 10.37% and 9.5% YoY. Total motorcycle production and sales were 2.2696 mln and 2.2208 mln, production +0.24% MoM, sales -1.33% MoM, YoY +20.42% and +17.4%. Domestic motorcycle sales were 0.8012 mln (-8.15% MoM, +7.6% YoY); domestic fuel motorcycle sales were 0.4849 mln (+0.79% MoM, +6.03% YoY).
-
----
-
-### 2026-08-14 14:30:09  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 0.63% Higher — The Nikkei 225 Index gained 432 points or 0.63 percent on Friday to close at 68741 points. Gains were led by Nintendo Co (6.80%), Sony (5.38%) and Furukawa (5.33%). Biggest losers were Isetan Mitsukoshi (-3.92%), DIC (-3.84%) and Toppan (-3.52%).
-
----
-
-### 2026-08-14 14:28:57  #MKT News #CSI300 #Impact bullish #SZSE Component
-
-China A-share electronic chemicals sector extended gains: Haixing Co. hit the daily upper trading limit, Zhongshi Technology was earlier locked at the limit. Siquan New Materials and Longchen Technology rose more than 10%; Fangbang, Guoci Materials, Tongyu New Materials, Tiancheng Technology and Jinhong Gas also advanced.
-
----
-
-### 2026-08-14 14:28:54  #市場 #焦點
-
-PTA連續主力合約日內漲2%，現報5784.00元。
-
----
-
-### 2026-08-14 14:28:22  #公司 #市場
-
-【電子化學品板塊持續走高，海星股份漲停】電子化學品板塊持續走高，海星股份漲停，中石科技此前封板, 思泉新材、龍辰科技漲超10%，方邦股份、國瓷材料、同宇新材、天承科技、金宏氣體等跟漲。
-
----
-
-### 2026-08-14 14:27:54  #觀點
-
-【威靈頓投資：對新興市場股票維持超配評級】8月14日，威靈頓投資管理釋出最新資產配置展望，認為新興市場股票估值接近過去十年最佳水平。該機構表示，繼續看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。具體來看，威靈頓投資管理認為，當前環境仍對全球股票構成支撐，企業盈利繼續推動市場表現，而流動性和企業基本面則有助於抵消地緣政治不確定性的影響。從區域來看，看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。“我們繼續超配新興市場股票，新興市場仍是我們在股票這一資產類別中最為看好的地區，其估值接近過去十年最具吸引力的水平。亞洲科技行業繼續貢獻大部分盈利增長；與此同時，在韓國企業持續去槓桿的背景下，我們仍然看好人工智慧基礎設施。展望未來，我們認為本輪漲勢仍有擴大空間，而大宗商品價格也有望利好拉丁美洲大部分地區。”威靈頓投資管理稱。
-
----
-
-### 2026-08-14 14:27:30  #市場 #焦點
-
-布倫特原油突破88美元/桶，日內漲1.07%。
-
----
-
-### 2026-08-14 14:27:15  #MKT News #Market Themes #China Tech Giants #AI Revolution
-
-【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition.
-
----
-
-### 2026-08-14 14:27:12  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Halts Gains, Retreats from Near 6-Week High — The TAIEX, Taiwan’s benchmark stock index, dropped 210 points, or 0.5%, to close at 45,811, reversing gains in morning trade and halting a four-session winning streak, weighed down by electronic technology. The broader index retreated from its highest level since July 6, reached a day earlier, with electronic technology falling 1.1%, reversing a 1.5% rise in the previous session. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.6% after gaining 0.8% on Thursday. Declines were also seen in MediaTek (-0.4%), Hon Hai Precision Industry (-1.0%), and ASE Technology Holding (-1.6%). Nanya Technology, a major Taiwanese memory chip maker, also shed 0.4%. An upbeat session on Wall Street overnight limited the fall as bets on the Fed hiking interest rates at its September meeting eased amid softer inflation. For the week, however, the index posted a 3.6% surge, the second straight weekly gain.
-
----
-
-### 2026-08-14 14:27:12  #MKT News #Important #Brent #Impact bullish
-
-Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl.
-
----
-
-### 2026-08-14 14:26:59  #市場
-
-布倫特原油日內漲1%，現報87.96美元/桶。
-
----
-
-### 2026-08-14 14:25:39  #其他
-
-【百度文庫網盤GenFlow官宣中文名“庫庫AI”】8月14日，在百度AI Day開放日上，百度文庫網盤通用智慧體GenFlow官宣中文名“庫庫AI”。GenFlow月活使用者已突破1億，目前AI辦公MAU超過2500萬。同時，文庫網盤宣佈上線“庫庫AI”獨立端，包括庫庫AI辦公PC客戶端、庫庫AI網頁端、小程式及庫庫AI企業版等。
-
----
-
-### 2026-08-14 14:25:18  #MKT News
-
-【Global funds accelerate into China; China equity funds net $50.82bn in past month】As of Aug. 5, global capital accelerated into Chinese equities: China equity funds recorded $50.82bn net inflows in the past month, roughly 60% of total emerging-market inflows, while overseas-listed China ETFs also expanded. Several foreign asset managers point to corporate earnings recovery and industrial upgrading as drivers for a sustained valuation rerating and identify semiconductors, internet, power and healthcare as preferred overweight sectors.
-
----
-
-### 2026-08-14 14:23:39  #其他
-
-【全球資金加速湧入 中國股票基金近一個月吸金逾500億美元】近期，國際資金正加速佈局中國權益資產。最新資金流向資料顯示，截至8月5日的近一個月，中國股票基金淨流入508.2億美元，佔新興市場總額近六成；海外上市的中國ETF規模同步擴張。近期，多家外資機構也密集發聲，認為中國企業盈利修復與產業升級將驅動估值重估行情延續，半導體、網際網路、電力及醫療等板塊被其視為核心配置方向。(上海證券報)
-
----
-
-### 2026-08-14 14:23:23  #公司 #市場
-
-【國信證券：資金再平衡驅動板塊反彈 黃金珠寶迎來預期雙重修復】國信證券釋出研報稱，維持板塊“優於大市”評級。短期外圍宏觀環境的複雜化並未改變內需的韌性，同時具備全球化佈局視野、深度擁抱AI技術實現全鏈路升級，以及憑藉強產品力精準契合消費者需求的龍頭公司，正加速兌現長期配置價值。大眾珠寶品牌Q2實際動銷不差，股價回撥系外部金價因素擾動，目前多數迴歸歷史估值下限，股息率也相對較高，未來金價企穩則股價反彈可期。跨境電商關稅中報景氣度比較優勢明顯，同時核心公司自身經營調整為企業帶來盈利端增量。
-
----
-
-### 2026-08-14 14:23:17  #焦點 #A股
-
-A股三大股指持續回升，滬指午後再度翻紅，創業板指漲逾1%。
-
----
-
-### 2026-08-14 14:23:09  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-China A-share benchmark indices extended gains; Shanghai Composite turned positive in the afternoon, while the ChiNext index climbed more than 1%.
-
----
-
-### 2026-08-14 14:22:09  #市場
-
-【浙江：對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 打造科技創新和產業協同發展高地。加快構建以杭州為核心，寧波新型材料研發製造、溫州臨床應用示範、嘉興關鍵零部件製造、紹興晶片先進製造及封裝測試為支撐的“一核四基地”腦機介面產業佈局。 加大企業培育力度。梯次培育初創型、成長型、領軍型腦機介面企業，給予產品研發、人才引進、金融供給等方面組合支援。鼓勵有條件的地方實施企業研發投入獎補政策，對研發費用佔營業收入比重3%以上且年增長20%以上的腦機介面企業，按照上年度研發費用的一定比例給予財政補助。 支援產業化落地。支援腦機介面產業化專案申報中央預算內投資專案、超長期特別國債專案等。鼓勵腦機介面創新專案申報新興產業強鏈補鏈、未來產業先導區攻堅任務、首臺（套）產品等專案，並按規定給予支援。
-
----
-
-### 2026-08-14 14:21:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Poised for Higher Open — European equity markets were set to open higher on Friday as softer-than-expected US inflation data eased concerns over an imminent Federal Reserve interest rate hike. Renewed demand for artificial intelligence-related stocks also supported broader risk sentiment across global markets. In Europe, investors will focus on the latest Eurozone GDP, employment and trade data, alongside German wholesale prices and French inflation figures. Meanwhile, no major earnings reports are scheduled in Europe on Friday. In premarket trading, futures for the Euro Stoxx 50 and Stoxx 600 were both up around 0.2%.
 
 ---
