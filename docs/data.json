@@ -1,7 +1,228 @@
 {
-  "updated": "2026-08-17 23:30:25",
-  "count": 15235,
+  "updated": "2026-08-17 23:34:21",
+  "count": 15245,
   "items": [
+    {
+      "id": "mkt:01a0105b-8767-7aab-9065-f47383f5210c",
+      "time": "2026-08-17 23:33:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 6-month Treasury auction as of Aug 17 — percentage of awards at the stop-out yield 18.55%, prior 96.11%."
+    },
+    {
+      "id": "mkt:01a0105b-5482-7aab-9065-e98e6513bdf1",
+      "time": "2026-08-17 23:33:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 3-month Treasury auction on Aug. 17: percentage of allotment awarded at the stop-out yield 44.68%, prior 82.94%."
+    },
+    {
+      "id": "mkt:01a0105b-53e2-7aab-9065-e110b4b891f9",
+      "time": "2026-08-17 23:33:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Aug.17) | actual 18.55% | previous 96.11%"
+    },
+    {
+      "id": "mkt:01a0105b-2eb4-7aab-9065-deeb42cf22e6",
+      "time": "2026-08-17 23:33:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Aug.17) | actual 44.68% | previous 82.94%"
+    },
+    {
+      "id": "mkt:01a0105a-da91-7aab-9065-d66430cf4c2a",
+      "time": "2026-08-17 23:33:04",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction bid-cover ratio 2.97 on Aug. 17; prior 2.85."
+    },
+    {
+      "id": "5044604",
+      "time": "2026-08-17 23:33:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【五角大樓下令30所大學對與外國實體間的科研合作進行全面審查】美國國防部發布宣告稱，已要求30所高校“立即對與受關注外國實體之間的學術、資金和科研合作展開全面審查”。五角大樓沒有點名具體高校。宣告稱，此舉旨在保護美國科研投資，防止未經授權的技術轉移和智慧財產權盜竊。"
+    },
+    {
+      "id": "mkt:01a0105a-bcbe-7aab-9065-cecad594ba1b",
+      "time": "2026-08-17 23:32:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 6-month Treasury auction on Aug 17: stop-out yield 3.78%, prior 3.83%."
+    },
+    {
+      "id": "mkt:01a0105a-b510-7aab-9065-c4129941bffc",
+      "time": "2026-08-17 23:32:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Aug.17) | actual 2.97 | previous 2.85"
+    },
+    {
+      "id": "mkt:01a0105a-9ca6-7aab-9065-bd30fc0f44b9",
+      "time": "2026-08-17 23:32:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Aug.17) | actual 3.78% | previous 3.83%"
+    },
+    {
+      "id": "mkt:01a0105a-97e6-7aab-9065-b1ddecaacc57",
+      "time": "2026-08-17 23:32:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y"
+      ],
+      "text": "US 3-month Treasury auction on Aug. 17: bid-cover ratio 2.86, prior 2.88."
+    },
+    {
+      "id": "mkt:01a0105a-81a4-7aab-9065-aa3d4c495f75",
+      "time": "2026-08-17 23:32:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. 3-month Treasury bill auction settled Aug 17 — stop-out yield 3.715% vs 3.74% prior."
+    },
+    {
+      "id": "mkt:01a0105a-7a13-7aab-9065-a75e3f6d4b72",
+      "time": "2026-08-17 23:32:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Aug.17) | actual 2.86 | previous 2.88"
+    },
+    {
+      "id": "mkt:01a0105a-63b5-7aab-9065-9f65742e0306",
+      "time": "2026-08-17 23:32:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Aug.17) | actual 3.715% | previous 3.74%"
+    },
+    {
+      "id": "5044603",
+      "time": "2026-08-17 23:32:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.715%，投標倍數2.86。拍賣六個月期國債，得標利率3.780%，投標倍數2.97。"
+    },
+    {
+      "id": "5044602",
+      "time": "2026-08-17 23:32:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "L3Harris股價跌幅擴大至4.3%，創盤中新低，此前其執行長離職。"
+    },
+    {
+      "id": "5044601",
+      "time": "2026-08-17 23:31:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀上漲近3%，至每盎司66.54美元。"
+    },
+    {
+      "id": "5044600",
+      "time": "2026-08-17 23:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "禮來加拿大公司：不同意加拿大稅務局申請中的定性描述，將在適當時候透過法院程式正式回應。"
+    },
+    {
+      "id": "5044599",
+      "time": "2026-08-17 23:31:14",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.12%，歐洲斯托克指數上漲0.03%，歐元區藍籌股指數下跌0.02%。英國富時100指數下跌0.2%，德國DAX指數下跌0.27%，法國CAC 40指數下跌0.59%，西班牙IBEX指數下跌0.71%。"
+    },
+    {
+      "id": "mkt:01a01059-06b1-7aab-9065-933123bf0760",
+      "time": "2026-08-17 23:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank to invest $200 million in Gravis Robotics."
+    },
+    {
+      "id": "5044598",
+      "time": "2026-08-17 23:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：五角大樓研判，沒有任何軍事方案能夠保障霍爾木茲海峽的安全與穩定。"
+    },
+    {
+      "id": "5044597",
+      "time": "2026-08-17 23:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國俄克拉荷馬州格倫普爾天然氣儲罐發生大型火災，當局開展處置，當地居民已疏散。"
+    },
+    {
+      "id": "mkt:01a01058-0ea4-7aab-9065-8df6b20a3b22",
+      "time": "2026-08-17 23:30:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian sources reported the Pentagon concluded that no military plan can guarantee security and stability in the Strait of Hormuz."
+    },
+    {
+      "id": "5044596",
+      "time": "2026-08-17 23:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“出口中國”埃及專場活動在開羅舉行】“出口中國”埃及專場活動17日在埃及首都開羅舉行。中埃兩國企業在活動上籤署多項貿易協議，合同總額近1.7億美元。 埃及投資和外貿部亞洲司司長賽義德·福阿德感謝中方在埃舉辦“出口中國”專場活動。他表示，埃方願與中方建立更長期的合作，加強經貿交流，推動兩國經貿關係更好發展。（新華社）"
+    },
     {
       "id": "5044595",
       "time": "2026-08-17 23:29:19",
@@ -139472,148 +139693,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖任命六名新軍事指揮官。"
-    },
-    {
-      "id": "mkt:019fec4f-3d80-7aab-8fdd-3d9ead636197",
-      "time": "2026-08-10 23:34:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 6-month Treasury bill auction on Aug. 10: bid-cover ratio 2.85, prior 2.98."
-    },
-    {
-      "id": "mkt:019fec4f-1fd8-7aab-8fdd-3461e7df2f6a",
-      "time": "2026-08-10 23:33:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 6-month Treasury auction through Aug 10: percentage of awards at the stop-out yield 96.11%, prior 65.4%."
-    },
-    {
-      "id": "mkt:019fec4f-0ce9-7aab-8fdd-2dc248fa4262",
-      "time": "2026-08-10 23:33:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 3-month Treasury auction as of Aug. 10 — share of issue allocated at the awarded yield 82.94%, prior 10.13%."
-    },
-    {
-      "id": "mkt:019fec4f-0b6b-7aab-8fdd-26a2bcceb62d",
-      "time": "2026-08-10 23:33:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 3-month Treasury auction to Aug. 10: bid-cover ratio 2.88, prior 2.61."
-    },
-    {
-      "id": "mkt:019fec4f-0b58-7aab-8fdd-1db49003eb77",
-      "time": "2026-08-10 23:33:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 6-month Treasury auction on Aug 10: stop-out yield 3.83%, prior 3.86%."
-    },
-    {
-      "id": "mkt:019fec4e-cfbe-7aab-8fdd-14b55e06816e",
-      "time": "2026-08-10 23:33:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Aug.10) | actual 2.85 | previous 2.98"
-    },
-    {
-      "id": "mkt:019fec4e-cf68-7aab-8fdd-0ffb7063b894",
-      "time": "2026-08-10 23:33:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Accepted at High (Aug.10) | actual 96.11% | previous 65.4%"
-    },
-    {
-      "id": "mkt:019fec4e-cf58-7aab-8fdd-041183c574b5",
-      "time": "2026-08-10 23:33:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction High Yield Rate (Aug.10) | actual 3.83% | previous 3.86%"
-    },
-    {
-      "id": "mkt:019fec4e-cf1d-7aab-8fdc-fbcbecccc57b",
-      "time": "2026-08-10 23:33:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Aug.10) | actual 2.88 | previous 2.61"
-    },
-    {
-      "id": "mkt:019fec4e-cf06-7aab-8fdc-f59b82b9c930",
-      "time": "2026-08-10 23:33:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Accepted at High (Aug.10) | actual 82.94% | previous 10.13%"
-    },
-    {
-      "id": "mkt:019fec4e-a8ae-7aab-8fdc-ef8d0aa87be2",
-      "time": "2026-08-10 23:33:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "U.S. 3-month Treasury auction on Aug. 10: stop-out yield 3.735% vs 3.75% prior."
-    },
-    {
-      "id": "mkt:019fec4e-808c-7aab-8fdc-e4068caa6463",
-      "time": "2026-08-10 23:33:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction High Yield Rate (Aug.10) | actual 3.735% | previous 3.75%"
-    },
-    {
-      "id": "5034411",
-      "time": "2026-08-10 23:32:33",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣三個月期國債，得標利率3.735%，投標倍數2.88。拍賣六個月期國債，得標利率3.830%，投標倍數2.85。"
     }
   ]
 }
