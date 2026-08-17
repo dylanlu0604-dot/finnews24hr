@@ -1,7 +1,65 @@
 {
   "date": "2026-08-17",
-  "count": 1066,
+  "count": 1071,
   "items": [
+    {
+      "id": "te:economy:575728",
+      "time": "2026-08-17 14:52:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "GDP Growth Annualized",
+        "Importance 0"
+      ],
+      "text": "Israel Economy Rebounds Strongly in Q2 — Israel’s economy grew at an annualized rate of 15.4% in the second quarter of 2026, rebounding sharply from a revised 2.2% contraction in the first quarter as the impact of the war with Iran eased. The growth, which easily beat expectations of 6.9%, was driven by a 35.2% surge in exports of goods and services, while government consumption rose 19.5% and private consumption increased 14.7%. Fixed capital formation also grew 6.3%. The Bank of Israel raised its 2026 growth forecast to 4% last month and expects growth to accelerate to 5.5% in 2027."
+    },
+    {
+      "id": "mkt:01a00e7d-aef2-7aab-9058-4dbd0014da9a",
+      "time": "2026-08-17 14:51:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Sci‑Tech Innovation 50 Index rose over 4%, led by gains in semiconductor‑equipment stocks; among constituents, Zhongke Feice advanced more than 12%."
+    },
+    {
+      "id": "5043628",
+      "time": "2026-08-17 14:51:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達4.00%，成分股中，中科飛測漲12.99%，芯原股份漲9.07%，晶合整合漲8.51%，石頭科技漲6.16%。"
+    },
+    {
+      "id": "5043627",
+      "time": "2026-08-17 14:51:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指<.STI>扭轉走勢，最新上漲0.01%。"
+    },
+    {
+      "id": "mkt:01a00e7c-1fa9-7aab-9058-426ef298161c",
+      "time": "2026-08-17 14:50:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "XAUUSD"
+      ],
+      "text": "China will publish July industrial production (enterprises above designated size) YoY, retail sales YoY, and the monthly residential sales-price report for 70 large- and medium-sized cities in 10 minutes."
+    },
     {
       "id": "mkt:01a00e7a-3f19-7aab-9058-3cd1d42871d0",
       "time": "2026-08-17 14:48:07",
