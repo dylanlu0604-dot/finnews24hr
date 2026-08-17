@@ -1,7 +1,61 @@
 {
   "date": "2026-08-17",
-  "count": 1007,
+  "count": 1013,
   "items": [
+    {
+      "id": "mkt:01a00e5c-7d75-7aab-9057-ce8b40c6de74",
+      "time": "2026-08-17 14:15:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe line) 2610 rose 10.89% intraday to 1,763 points. Open interest increased by more than 2,700 contracts intraday; position changes were pronounced."
+    },
+    {
+      "id": "5043593",
+      "time": "2026-08-17 14:15:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾德生物：艾惠捷在日本獲批新伴隨診斷適應症】據艾德生物訊息，8月17日，艾德生物和Riken Genesis Co.,Ltd.聯合宣佈，日本厚生勞動省已批准將艾德生物自主研發的艾惠捷®（PCR11）作為聖赫途®（宗艾替尼）在日本的伴隨診斷（CDx）。聖赫途®由日本勃林格殷格翰生產並推廣，適用於經化療後疾病進展、不可切除晚期或複發性HER2突變陽性非小細胞肺癌（NSCLC）患者的治療。"
+    },
+    {
+      "id": "5043592",
+      "time": "2026-08-17 14:15:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量1879億元。"
+    },
+    {
+      "id": "te:markets:575712",
+      "time": "2026-08-17 14:15:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were headed for a higher open on Monday as soft US economic data reduced expectations for an imminent Federal Reserve interest rate hike, supporting global risk sentiment. Investors also looked past heightened tensions in the Middle East as Israel launched fresh strikes on Lebanon, while President Donald Trump prepared new sanctions against Iran. In Europe, there are no major economic or earnings releases scheduled for Monday, though investors will look ahead to the ECB’s latest Monetary Policy Meeting Accounts this week after it left key interest rates unchanged in July. Other key economic reports due this week include the Eurozone and German ZEW economic surveys, as well as PMI readings from across the region. In premarket trade, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.3%."
+    },
+    {
+      "id": "5043591",
+      "time": "2026-08-17 14:13:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元上漲0.6%至31.852。"
+    },
+    {
+      "id": "5043590",
+      "time": "2026-08-17 14:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.5%，報9073.20點。"
+    },
     {
       "id": "5043589",
       "time": "2026-08-17 14:10:03",
