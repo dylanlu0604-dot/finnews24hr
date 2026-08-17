@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-18 03:41:07",
-  "count": 15229,
+  "updated": "2026-08-18 03:44:58",
+  "count": 15225,
   "items": [
+    {
+      "id": "mkt:01a0113e-7ab3-7aab-9069-1812afa0ed84",
+      "time": "2026-08-18 03:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump criticizes Lee Jae‑myung after South Korea declines participation in Iran action】Former President Trump told South Korean media he is frustrated Seoul refused to participate in a U.S. operation related to Iran and raised issues of defense cost-sharing. He said South Korea agreed during his first term to pay about $3 billion annually for U.S. protection; he sought $10 billion, and the short‑term deal was $3 billion with planned increases in subsequent years. Trump said President Biden later withdrew the $3 billion “for reasons I don’t know.” In a recent call with South Korean president Lee Jae‑myung, Trump said he asked if Seoul would “help a little” on Iran; Lee declined. Trump noted roughly 39,000 U.S. troops are deployed in South Korea and called Seoul’s refusal to assist in what he described as a “very easy” military action “strange.”"
+    },
     {
       "id": "mkt:01a0113d-3549-7aab-9069-14235ae65437",
       "time": "2026-08-18 03:40:18",
@@ -139515,54 +139523,6 @@
         "國際"
       ],
       "text": "【特朗普稱曾與美聯儲主席沃什通話】特朗普表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。"
-    },
-    {
-      "id": "mkt:019fed34-0b16-7aab-8fe0-7ddee8f45787",
-      "time": "2026-08-11 03:43:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he has a very good relationship with Netanyahu."
-    },
-    {
-      "id": "mkt:019fed33-eb39-7aab-8fe0-74422ba7dc49",
-      "time": "2026-08-11 03:43:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Axios: US, Israel and Syria reach understanding; IAEA to remove nuclear material from secret Syrian site】Axios reports US and Israeli officials say the IAEA will soon remove nuclear material stored at a secret Syrian site after a diplomatic understanding among the Trump administration, Israel and Syria. The Trump administration and the IAEA expedited talks to secure the material and prevent escalation involving Israel, Syria and Turkey. US officials say the episode validates Trump’s Syria policy and demonstrates US use of close ties with Syria’s new government to defuse a potential crisis. Months of behind-the-scenes threats and diplomatic wrangling preceded a solution reached weeks ago."
-    },
-    {
-      "id": "mkt:019fed32-f514-7aab-8fe0-690867419b1a",
-      "time": "2026-08-11 03:42:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【International crude futures settle about 5% higher】NYMEX September light sweet crude settled up $3.95 at $82.13/bbl (+5.05%); ICE Brent October settled up $4.17 at $87.72/bbl (+4.99%)."
-    },
-    {
-      "id": "5034573",
-      "time": "2026-08-11 03:42:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際原油期貨結算價上漲5%】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。"
-    },
-    {
-      "id": "5034572",
-      "time": "2026-08-11 03:41:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱霍爾木茲海峽目前處於開放狀態】特朗普表示，霍爾木茲海峽現已開放，且僅由美國海軍掌控。特朗普在橢圓形辦公室稱：“我們實施的封鎖萬無一失。這是一道鋼鐵之牆，只允許我們想放行的船隻通行。”"
     }
   ]
 }

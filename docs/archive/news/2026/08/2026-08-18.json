@@ -1,7 +1,15 @@
 {
   "date": "2026-08-18",
-  "count": 233,
+  "count": 234,
   "items": [
+    {
+      "id": "mkt:01a0113e-7ab3-7aab-9069-1812afa0ed84",
+      "time": "2026-08-18 03:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump criticizes Lee Jae‑myung after South Korea declines participation in Iran action】Former President Trump told South Korean media he is frustrated Seoul refused to participate in a U.S. operation related to Iran and raised issues of defense cost-sharing. He said South Korea agreed during his first term to pay about $3 billion annually for U.S. protection; he sought $10 billion, and the short‑term deal was $3 billion with planned increases in subsequent years. Trump said President Biden later withdrew the $3 billion “for reasons I don’t know.” In a recent call with South Korean president Lee Jae‑myung, Trump said he asked if Seoul would “help a little” on Iran; Lee declined. Trump noted roughly 39,000 U.S. troops are deployed in South Korea and called Seoul’s refusal to assist in what he described as a “very easy” military action “strange.”"
+    },
     {
       "id": "mkt:01a0113d-3549-7aab-9069-14235ae65437",
       "time": "2026-08-18 03:40:18",
