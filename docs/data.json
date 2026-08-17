@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-17 08:33:27",
-  "count": 15200,
+  "updated": "2026-08-17 08:37:14",
+  "count": 15199,
   "items": [
+    {
+      "id": "te:economy:575588",
+      "time": "2026-08-17 08:36:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Domestic Exports of Non Oil (nodx) (%yoy)",
+        "Importance 1"
+      ],
+      "text": "Singapore NODX Growth Accelerates in July — Singapore’s non-oil domestic exports (NODX) jumped 24.2% year-on-year in July 2026, accelerating from an upwardly revised 20.8% rise in June. It was the eleventh straight month of expansion, driven by electronics exports (112.1% vs. 105.1% in June), supported by robust AI-related demand."
+    },
+    {
+      "id": "5043100",
+      "time": "2026-08-17 08:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英矽智慧：將獲納入MSCI全球小盤股指數】英矽智慧在港交所公告，英矽智慧將獲納入MSCI（明晟公司）全球小盤股指數，該指數旨在反映發達市場及新興市場小型股公司涵蓋各多元化行業及產業的表現。此次納入將於2026年8月31日（星期一）收市後生效。"
+    },
+    {
+      "id": "mkt:01a00d25-7802-7aab-9052-0b816dd9bfca",
+      "time": "2026-08-17 08:35:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Eight ministries issue notice tightening industrial wastewater controls near farmland】The Ministry of Ecology and Environment, jointly with the Ministry of Industry and Information Technology, Ministry of Public Security, Ministry of Natural Resources, Ministry of Water Resources, Ministry of Agriculture and Rural Affairs, the Supreme People’s Court and the Supreme People’s Procuratorate issued a notice to strengthen prevention of industrial and other wastewater pollution risks and to safeguard agricultural irrigation water safety. The notice directs upgrades and retrofits of centralized wastewater treatment facilities in industrial parks bordering farmland; inspections and remediation of industrial and livestock‑farming water‑related problems; and requires localities to revise local pollutant discharge standards and tighten emission controls where industrial discharge of characteristic pollutants could threaten downstream irrigation water safety."
+    },
+    {
+      "id": "5043099",
+      "time": "2026-08-17 08:35:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【針對工業園區汙水汙染等問題 八部門聯合印發通知】近日，生態環境部聯合工業和資訊化部、公安部、自然資源部、水利部、農業農村部、最高人民法院、最高人民檢察院印發《關於進一步加強工業等汙水汙染風險防範 保障農業灌溉用水安全的通知》（以下簡稱《通知》）。按照《群眾身邊水體保護治理行動方案》有關規定，本《通知》作為其配套制度檔案，堅持問題導向、系統治理，針對當前工業企業及園區、畜禽養殖場空間佈局不夠合理，汙水排放管控要求不夠完善，農業灌溉用水水質保障機制不夠健全等突出問題，從最佳化空間佈局、加強汙水排放管控、強化農業灌溉用水水質保障、加強環境執法與宣傳培訓等四方面明確相關舉措，推動構建跨部門、全週期的風險防控體系。《通知》明確，在國土空間規劃管控、生態環境分割槽管控、建設專案環境影響評價等環節，進一步規範農田周邊、喀斯特地貌等風險較高地區，以及排放全鹽量、重金屬、有毒有害汙染物等特徵汙染物的建設專案准入要求，嚴防化工園區轉移帶來的環境風險。"
+    },
+    {
+      "id": "mkt:01a00d24-1a2d-7aab-9052-0214e22da456",
+      "time": "2026-08-17 08:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Crude ETF holdings report goes live; what changed in WTI and Brent positions?】Aug 14 — WTI (USO) nominal exposure ~24.58 mln bbl, +2.34 mln bbl on the day. Brent (BNO) futures holdings ~7.62 mln bbl, -46,000 bbl on the day."
+    },
     {
       "id": "5043097",
       "time": "2026-08-17 08:32:37",
@@ -138897,57 +138949,6 @@
         "其他"
       ],
       "text": "【浙江深化工業網際網路與人工智慧融合賦能】近日，浙江省經濟和資訊化廳、省通訊管理局印發《浙江省推進工業網際網路與人工智慧融合賦能行動方案》，提出到2028年，工業網際網路與人工智慧融合發展水平顯著提升，打造具有國內影響力的工業網際網路平臺50個，形成高質量行業資料集、高水平工業智慧體各100個，培育一批具有行業影響力的工業模型，推動產業模式、企業形態和服務正規化加速變革。"
-    },
-    {
-      "id": "5032833",
-      "time": "2026-08-10 08:36:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【蓋洛普調查顯示美國最高法院支援率創新低 特朗普的抨擊加劇爭議】美國最高法院正面臨聲譽危機。而總統唐納德·特朗普的攻擊正在使情況雪上加霜。多項民調顯示最高法院支援率持續低迷，其中一項調查更顯示其支援率跌至歷史最低水平。儘管最高法院整體具有明顯保守色彩，且9名大法官中有3人由特朗普提名，但特朗普在數起案件敗訴後的猛烈抨擊，仍導致共和黨選民對法院的支援度下降。蓋洛普7月進行的一項調查顯示：最高法院支援率僅為33%，創該機構自2000年開始相關調查以來最低紀錄。民調顯示，共和黨人對最高法院的支援率較去年9月下降21個百分點，從79%降至58%。調查誤差範圍為正負4個百分點。"
-    },
-    {
-      "id": "5032832",
-      "time": "2026-08-10 08:36:35",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【銀河證券：短期來看，結構性行情預計仍是主線】中國銀河證券研報稱，8月A股市場正從“預期博弈”轉向“現實驗證”，圍繞業績、政策、外圍風險三大線索展開。一是業績驗證。8月中下旬是A股中報披露最密集的視窗，市場有望圍繞中報業績預期驗證展開定價。二是政策驗證。7月政治局會議對下半年經濟工作做出部署，後續進入政策細則出臺與執行驗證階段。三是外圍風險驗證。美聯儲政策路徑仍是全球市場關注焦點。8月三大驗證視窗形成遞進邏輯——中報業績驗證提供基本面錨點，決定市場定價錨與結構性方向；政策落地驗證提供宏觀支撐，影響修復空間與節奏；外圍風險驗證提供估值修復節奏的外部條件。三大驗證線索將逐步明朗，策略上保持耐心與均衡，以業績確定性為矛、以防禦性資產為盾。短期來看，結構性行情預計仍是主線。"
-    },
-    {
-      "id": "5032831",
-      "time": "2026-08-10 08:35:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建省調整防颱風應急響應至四級】從福建省防汛抗旱指揮部瞭解到，今年第13號颱風“白海豚”10日6時中心位於浙江省麗水市慶元縣境內，中心附近最大風力9級。預計將以每小時20—25公里的速度向西北方向移動，強度逐漸減弱。福建省防指於10日7時將防颱風應急響應從二級調整至四級。"
-    },
-    {
-      "id": "5032830",
-      "time": "2026-08-10 08:35:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳地鐵客流單日客運量年內已累計12次突破1100萬人次】據深圳地鐵訊息，暑運以來，深圳城市軌道交通客流持續高位執行，8月7日，全網客運量達1148.62萬人次，再度重新整理普通工作日曆史紀錄並首次實現連續三個工作日客流突破1100萬人次。截至8月8日，工作日客流已連續23天超千萬人次，創歷史最長紀錄。7月客運量達3.07億人次，創單月歷史新高。截至8月8日，全市地鐵客流單日客運量年內已累計12次突破1100萬人次，66次突破1000萬人次。"
-    },
-    {
-      "id": "5032829",
-      "time": "2026-08-10 08:35:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波將防颱風應急響應調整為Ⅱ級，地鐵、市本級公交有序恢復運營】今年第13號颱風“白海豚”的中心已於9日17時30分前後在臺州玉環市坎門街道沿海登陸；18點40分前後在溫州樂清市翁垟街道沿海再次登陸。預計“白海豚”將以每小時15-20公里的速度向偏西方向移動，強度減弱。寧波市防指決定於8月10日7時將防颱風應急響應調整為Ⅱ級。寧波市軌道交通集團有限公司釋出通告，根據颱風最新情況，寧波地鐵自8月10日7時起，除高架相關區段外，其餘車站全部恢復運營，具體包括1號線望春橋站至東環南路站，2號線櫟社國際機場站至大通橋站，3號線高塘橋站至大通橋站，4號線麗江路站至國際會議中心站，以及5號線、6號線、7號線、8號線全線。此外，寧波市公交集團、城鄉公交、東方巴士、公運公交所屬公交線路（山區公交除外）自8月10日7時起有序恢復運營。"
-    },
-    {
-      "id": "5032828",
-      "time": "2026-08-10 08:34:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【金價持平 關注美國7月就業人數】亞洲交易時段金價企穩。蘇克敦金融在一份報告中表示，美國7月份就業人數報告促使投資者反映勞動力市場走弱的預期，這令美元承壓，同時對貴金屬構成支撐。蘇克敦金融表示，金價早些時候向每盎司4,355美元反彈，並保持在先前的4,300美元區間上方，這表明買家仍樂於增加對該金屬的敞口。該機構補充稱，儘管如此，美國10年期債券收益率反彈至4.7%附近意味著，如果利率繼續回升，市場可能更容易受到獲利回吐的影響。現貨黃金持平，報每盎司4,339.60美元。"
     }
   ]
 }
