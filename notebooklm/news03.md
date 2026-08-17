@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:39:21_
-_本檔包含 3171 則快訊，約 605493 字_
+_更新時間：2026-08-18 02:00:35_
+_本檔包含 3169 則快訊，約 605534 字_
+
+---
+
+### 2026-08-14 12:37:26  #公司 #國際
+
+哈薩克輸油公司KazTransOil：7月哈薩克經裡海管道財團（CPC）管道出口石油27.1萬噸；7月哈薩克經俄羅斯烏斯季-盧加港出口石油28.6萬噸，經俄羅斯新羅西斯克港出口石油36萬噸；7月哈薩克經巴庫-第比利斯-傑伊漢（BTC）管道出口石油15.5萬噸。
+
+---
+
+### 2026-08-14 12:37:08  #MKT News #Commodities #Energy
+
+KAZTRANSOIL said Kazakhstan's oil exports via the Baku-Tbilisi-Ceyhan pipeline were 155,000 tonnes in July.
+
+---
+
+### 2026-08-14 12:36:47  #MKT News #Important #Commodities #Energy
+
+KAZTRANSOIL said Kazakhstan's oil exports via the CPC pipeline reached 271,000 tonnes in July.
+
+---
+
+### 2026-08-14 12:36:45  #MKT News #Market Regions #Greater China
+
+【Dingdong Maicai to enter Hefei; plans 100+ new front warehouses in Yangtze River Delta by 2026】Dingdong Maicai will enter the Hefei market, opening three front warehouses in Baohe, Shushan and Yaohai districts. The company is densifying its Yangtze River Delta warehouse network and plans to add more than 100 front warehouses in the region by 2026.
+
+---
+
+### 2026-08-14 12:35:53  #公司
+
+【叮咚買菜：將進駐合肥市場 今年長三角地區計劃新增超百個前置倉】8月14日，記者從公司獲悉，叮咚買菜將進駐合肥，首批3個前置倉同步落地包河、蜀山、瑤海三大城區。據介紹，叮咚買菜持續加密長三角倉網體系，2026年計劃再新增超100個前置倉。
+
+---
+
+### 2026-08-14 12:35:34  #其他
+
+【閃迪預計到2030財年底將實現強勁增長】根據本週投資者日公佈的目標，閃迪預計到2030財年底，收入的年增長率將達到10%區間中高段水平。這家儲存晶片製造商概述了一項雄心勃勃的長期財務計劃，預測在2028財年至2030財年期間，平均毛利率約為80%，營業利潤率接近75%。預計調整後自由現金流利潤率約為50%，而資本支出預計將保持在佔收入中等個位數的百分比水平。閃迪表示，計劃優先發展更可靠的大批次業務，同時重點關注重視其產品的戰略客戶。
+
+---
+
+### 2026-08-14 12:34:06  #其他
+
+【調查：新加坡7月份出口可能提速】根據接受媒體調查的五位經濟學家的預期中位數，新加坡7月份非石油國內出口可能增長26.50%，較6月份的20.7%有所加快。星展經濟學家在一份報告中表示，在對儲存晶片和伺服器相關產品強勁的人工智慧相關需求的支撐下，出口增長應會繼續由電子產品出貨量主導。他們補充說，在有利的基數效應下，非電子產品出口可能出現反彈，不過由於霍爾木茲海峽的持續干擾，石化產品出貨量預計將保持疲軟。該資料將於下週一公佈。
+
+---
+
+### 2026-08-14 12:33:01  #公司
+
+【凌創電機：公司訂單已排到2028年】據南京釋出，一個“小圓盤”正在全球動力市場掀起巨浪，它叫“軸向磁通電機”，最近在中國實現首次規模化量產。在南京市江寧湯山度假區，剛成立4年的南京凌創電機技術有限公司（簡稱“凌創電機”），自主研發的軸向磁通電機也迎來新進展。目前，公司訂單已排到2028年，產品在手訂單金額突破1000萬元，一條自動化軸向磁通電機產線預計年底投用。據悉，隨著年底自動化軸向磁通電機產線的投用，公司電機產能將增加至2萬臺，預計到2028年迎來大規模生產，電機年產能預計達到10萬臺。
+
+---
+
+### 2026-08-14 12:32:03  #其他
+
+市場訊息：北約擊落一架進入拉脫維亞領空的無人機。
+
+---
+
+### 2026-08-14 12:29:44  #MKT News #Macro & Rates #CNH #Impact bullish
+
+【PBOC conducts 1 trillion yuan buyback reverse repo; experts say stance is prudent, mildly accommodative】The PBOC on Aug. 14 conducted a 1 trillion yuan buyback reverse repo via a fixed-amount, rate-bidding, multi-price tender. An equal 1 trillion yuan of six-month buyback reverse repos matured the same day, leaving outstanding buyback reverse repos at 6.3 trillion yuan. Oriental Jincheng chief macro analyst Wang Qing noted overnight money market rates (DR001) have traded below policy rates since Aug. 4, which may explain the decision not to expand the August 6M operation. CITIC Securities’ chief economist Mingming’s team said the large 6M rollover, combined with follow-up overnight reverse repos to protect liquidity, signals a prudent, mildly accommodative monetary policy orientation.
 
 ---
 
@@ -19023,77 +19083,5 @@ Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yie
 ### 2026-08-13 10:58:33  #Trading Economics #Markets #Commodity #Importance 1
 
 Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects.
-
----
-
-### 2026-08-13 10:55:58  #其他
-
-【國電電力廊坊熱電二期4號機組透過168小時試執行】據國電電力公眾號訊息，8月12日23時55分，國電電力廊坊熱電二期2×350MW等容量替代專案4號機組高標準透過168小時滿負荷試執行，各項效能指標達到設計要求，正式轉入商業執行。至此，廊坊熱電二期專案實現全容量投產。
-
----
-
-### 2026-08-13 10:54:54  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
-
-【Reserve Bank of Australia assistant governor says policy currently contractionary】Reserve Bank of Australia Assistant Governor Chris Kent said monetary policy is currently contractionary, with three rate rises earlier this year now restraining the economy. Borrowing costs and mortgage repayments have risen, the mature housing market has weakened, and the AUD’s year-to-date appreciation has amplified the effect. Kent said evidence suggests overall demand growth appears to be slowing — a development policymakers want and see as necessary to bring inflation back to target.
-
----
-
-### 2026-08-13 10:54:46  #其他
-
-【港股有色金屬股走低 中國鋁業跌近6%】截至發稿，中國鋁業(02600.HK)跌5.81%，中國有色礦業(01258.HK)跌5.55%，中國洪橋(01378.HK)跌5.16%。
-
----
-
-### 2026-08-13 10:54:41  #國際
-
-【美媒爆料：美軍“林肯”號航母部署中東海上時長“破紀錄”，艦上多名水兵試圖跳海自殺】據美國《星條旗報》、《海軍時報》等媒體當地時間8月12日報道，由於伊朗局勢緊張，美國“亞伯拉罕·林肯”號航母長期被部署在中東地區，並且已連續約250天未靠岸——創下現代航母紀錄，艦上的惡劣條件和士兵的心理壓力已達到臨界點，多名水兵試圖跳海自殺。（環球網）
-
----
-
-### 2026-08-13 10:53:54  #MKT News #Market Regions #Greater China #000895.SZ #Impact bullish
-
-China A-share meat-products sector jumped ahead of midday trade; Delis hit the daily limit, while Guangming Meat, Huatong, Guanghong Holdings, Shuanghui Development and Yike Food also rallied.
-
----
-
-### 2026-08-13 10:53:31  #國際
-
-【連雲港至儀徵原油管道首段投產運營】8月13日，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連淮段投產成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。
-
----
-
-### 2026-08-13 10:53:17  #公司 #市場
-
-【肉製品板塊直線拉昇，得利斯漲停】肉製品板塊直線拉昇，得利斯漲停，光明肉業、華統股份、廣弘控股、雙匯發展、益客食品等紛紛走高。
-
----
-
-### 2026-08-13 10:53:10  #公司 #國際
-
-【日企被判賠償韓國強徵勞工受害者】韓國大法院、也就是最高法院8月12日就“二戰中遭日本強徵勞工受害者遺屬對日本製鐵公司提起的索賠訴訟案”作出終審判決，維持二審判決結果，要求被告賠償8000萬韓元，約合38萬元人民幣。（CCTV國際時訊）
-
----
-
-### 2026-08-13 10:50:10  #宏觀
-
-【中央生態環境保護督察已實現三輪全覆蓋】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會，會上介紹，中央生態環境保護督察已走過10年曆程。十年磨一劍！已經實現三輪對全國31個省（區、市）和新疆生產建設兵團的全覆蓋例行督察。自2015年在河北省試點以來，中央生態環境保護督察已查實一大批突出問題，公開曝光349個典型案例，向被督察物件交辦6475項整改任務，受理轉辦38萬件群眾信訪舉報。在督察強力推動下，過去那種性質惡劣、情節嚴重的問題已經大幅減少，不少區域性、流域性的共性問題得到有效解決，人民群眾生態環境獲得感、幸福感、安全感明顯提升，督察利劍作用得到有效發揮。
-
----
-
-### 2026-08-13 10:49:51  #市場 #焦點
-
-純鹼連續主力合約日內跌3%，現報960.00元。
-
----
-
-### 2026-08-13 10:49:19  #公司
-
-【鎵仁半導體完成數億元A輪融資】近日，杭州鎵仁半導體有限公司（簡稱“鎵仁半導體”）宣佈完成數億元A輪融資。本輪由方廣資本、深創投集團聯合領投，遠致星火、中國中車、株洲高科產投、華睿投資、餘杭金控、傳化資本、嘉道資本跟投，原有股東九智資本、毅嶺資本同步超額追加。據鎵仁半導體介紹，本輪資金將重點投向氧化鎵產業化推進：一是支援下游晶片客戶完成器件驗證，協同打通“襯底外延－晶片器件－終端應用”全鏈路，推動終端示範應用；二是擴大6/8英寸襯底及外延量產產能，以更高良率和交付效率滿足客戶持續增長的訂單需求。
-
----
-
-### 2026-08-13 10:49:13  #公司
-
-【歐亞經濟聯盟對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查】據中國貿易救濟資訊網，8月11日，歐亞經濟委員會內部市場保護司釋出第2026/500/AD38R1號公告，應歐亞經濟聯盟生產商申請，對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查。涉案產品為乾量計二氧化鈦大於等於80％的顏料，涉及歐亞經濟聯盟稅號3206110000項下的產品，但不包括用於生產香料及化妝品、藥品和食品的二氧化鈦。案件調查期間，暫停徵收反傾銷稅。公告自發布之日起生效。
 
 ---

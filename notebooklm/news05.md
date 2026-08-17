@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:39:21_
-_本檔包含 3143 則快訊，約 605277 字_
+_更新時間：2026-08-18 02:00:35_
+_本檔包含 3143 則快訊，約 605085 字_
+
+---
+
+### 2026-08-12 08:04:23  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #S&P500
+
+【China International Capital Co: Firmly bullish on AI and tech growth】China International Capital Co (CICC) said recent gains in traditional sectors may not be sustainable and evidence of a style rotation is insufficient. CICC remains firmly bullish on the AI and technology growth theme. If a tech-led rally persists, both Chinese and U.S. equities could perform well in H2. CICC recommends overweighting A-shares and Hong Kong equities and maintaining market weight on U.S. equities.
+
+---
+
+### 2026-08-12 08:03:32  #市場
+
+新加坡交易所：7月衍生品交易量同比增長16%，達到3390萬份合約。
+
+---
+
+### 2026-08-12 08:03:16  #市場
+
+澳大利亞S&P/ASX 200指數下跌0.5%，報9,205.40點。
+
+---
+
+### 2026-08-12 08:03:10  #其他
+
+新加坡交易所：7月證券市場成交額同比增長37%，至462億新加坡元。
+
+---
+
+### 2026-08-12 08:01:31  #MKT News #Market Regions #Emerging Markets #005930.KS #Impact bullish #000660.KS
+
+South Korea's KOSPI opened 75.05 points higher on Aug 12 (Wed), up 1.18% at 6,420.58; Samsung Electronics and SK Hynix both rose more than 1%.
+
+---
+
+### 2026-08-12 08:01:13  #MKT News #Market Regions #Japan & APAC #Nikkei 225
+
+Japan's Nikkei 225 opened Aug 12 (Wed) up 17.26 points, or 0.03%, at 66,987.48.
+
+---
+
+### 2026-08-12 08:00:37  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲1.5%，至6438.50點。
+
+---
+
+### 2026-08-12 08:00:17  #市場
+
+【日韓股市開盤】日經225指數上午開盤報66994.05點，漲幅0.04％。韓國綜合股價指數（KOSPI）開盤上漲1.5％，至6438.50點。
+
+---
+
+### 2026-08-12 07:58:33  #國際
+
+【河南釋出暴雨紅色預警】河南省氣象臺2026年8月12日07時30分升級釋出暴雨紅色預警：過去24小時，我省黃淮之間大部出現暴雨或大暴雨，洛陽、鄭州、平頂山、許昌、漯河、周口、南陽局地特大暴雨，最大降水量葉縣常村356.9毫米。 預計12日08時至13日08時，沿淮及其以北大部有暴雨，其中焦作南部、新鄉中東部、洛陽東部、鄭州、開封、商丘中西部、平頂山、許昌、漯河、周口中西部和北部、南陽東北部、駐馬店北部部分縣（市、區）有大暴雨，鄭州東南部、開封南部、平頂山中部、許昌北部、周口西部局地特大暴雨（個別點250到350毫米），並伴有短時強降水（最大小時降水量40到60毫米，局地80毫米）、局地雷暴大風（8到10級）等強對流天氣。 請密切關注屬地氣象部門釋出的最新預報資訊和氣象災害預警訊號，做好防範應對工作。上述地區的相鄰縣（市、區）也需關注。
+
+---
+
+### 2026-08-12 07:58:15  #央行 #國際
+
+【日本7月M2總量同比增長2.2%】日本央行資料顯示，7月份日本M2貨幣供應量同比增長2.2%，M3貨幣供應量同比增長1.4%。
+
+---
+
+### 2026-08-12 07:57:21  #公司
+
+【林俊暘創辦AI公司語用科技 天使輪融資估值20億美元】8月12日，千問前技術負責人林俊暘宣佈已在上海創辦了一家新公司語用科技，研究方向為橫跨數字世界和物理世界的下一代智慧體。他同時透露，高榕創投和HSG（紅杉中國）共同領投本輪融資，騰訊和上海未來產業基金提供支援。從知情人士處獲悉，林俊暘所稱的“本輪融資”為語用科技天使輪融資，估值為20億美元。（證券時報）
+
+---
+
+### 2026-08-12 07:57:14  #公司
+
+【豐田汽車首位“外姓社長”、日本經團聯首任會長奧田碩去世，享年93歲】據報道，豐田汽車前社長、日本經濟團體聯合會（經團聯）前會長奧田碩於當地時間8月8日去世，享年93歲。1955年，奧田碩加入豐田汽車銷售公司，在1995年成為豐田汽車史上首位“外姓社長”，任內主導擴張全球產能並推出普銳斯等車型；後於1999年至2006年擔任豐田汽車董事長。2002年，奧田碩出任新合併成立的日本經團聯首任會長。卸任豐田汽車董事後，奧田碩曾擔任日本國際協力銀行（JBIC）行長。
+
+---
+
+### 2026-08-12 07:56:46  #MKT News #Market Themes #AI Revolution #Star Stocks #Tencent #0700.HK
+
+【Former Qianwen tech chief Lin Junyang launches AI start-up Yuyong Technology; angel round values it at $2.0 bln】On Aug. 12 former Qianwen head of technology Lin Junyang announced he has founded Shanghai-based AI company Yuyong Technology to develop next-generation agents spanning the digital and physical worlds. He said Gaorong Capital and HSG (Sequoia China) co-led the angel round, with Tencent and the Shanghai Future Industry Fund participating; sources put the angel valuation at about $2.0 billion.
 
 ---
 
@@ -18906,83 +18984,5 @@ The Hill reported that the Trump administration revoked more than 175,000 visas.
 ### 2026-08-11 02:03:17  #國際
 
 美國白宮稱特朗普今天將簽署疫苗行政命令。
-
----
-
-### 2026-08-11 01:52:46  #MKT News #Market Themes #The Trump Trade
-
-CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time.
-
----
-
-### 2026-08-11 01:52:13  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%.
-
----
-
-### 2026-08-11 01:50:00  #市場 #焦點
-
-上海原油連續主力合約日內漲4%，現報553.40元。
-
----
-
-### 2026-08-11 01:49:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
-
-【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs.
-
----
-
-### 2026-08-11 01:49:10  #國際
-
-市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。
-
----
-
-### 2026-08-11 01:48:12  #MKT News
-
-FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race.
-
----
-
-### 2026-08-11 01:46:10  #國際
-
-美國聯邦航空管理局：里根國家機場預計將於 8 月 23 日上午 10 點 15 分至下午 1 點 15 分暫停航班運營，以保障 Freedom 250 汽車賽事開展。
-
----
-
-### 2026-08-11 01:43:41  #國際
-
-嘉能可支援的一個美國投資者團體考慮拯救鈷冶煉商Sherritt。
-
----
-
-### 2026-08-11 01:43:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-On Iran talks, U.S. President Trump said Iran should be held responsible for the damage and deaths it has caused to the people of Lebanon, Syria, Yemen and Gaza.
-
----
-
-### 2026-08-11 01:40:23  #MKT News
-
-A minister said the Chilean government will recapitalize 100% of state-owned copper producer Codelco's 2025 profits.
-
----
-
-### 2026-08-11 01:40:22  #國際
-
-特朗普：伊朗也應對其給周邊國家造成的損害承擔責任，伊朗也應該為葉門和敘利亞的損失負責。
-
----
-
-### 2026-08-11 01:39:37  #國際
-
-特朗普：伊朗應為黎巴嫩和加沙的損失負責。
-
----
-
-### 2026-08-11 01:39:23  #MKT News
-
-【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations.
 
 ---

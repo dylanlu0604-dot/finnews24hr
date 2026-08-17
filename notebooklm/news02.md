@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:39:21_
-_本檔包含 3066 則快訊，約 605691 字_
+_更新時間：2026-08-18 02:00:35_
+_本檔包含 3075 則快訊，約 606196 字_
+
+---
+
+### 2026-08-16 18:07:47  #國際
+
+【菲律賓極端降雨天氣已致23人死亡】據菲律賓國家減災委員會16日釋出的最新資料，截至當日6時，本輪惡劣天氣已造成全國23人死亡、17人受傷，另有3人失蹤，受災人口超過490萬。據菲減災委通報，受颱風“白海豚”和“鯨魚”疊加西南季風影響，菲律賓近期多地遭受持續強降雨侵襲，引發嚴重洪澇和泥石流等災害。受災嚴重的地區包括呂宋島北部、西部及首都大馬尼拉地區。地方政府部門已設立數百處臨時避難所，集中安置轉移民眾。（新華社）
+
+---
+
+### 2026-08-16 18:06:47  #其他
+
+自然資源部與中國氣象局8月16日18時聯合釋出黃色地質災害氣象風險預警：預計，8月16日20時至17日20時，四川中北部、雲南西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。（國家預警釋出）
+
+---
+
+### 2026-08-16 18:03:59  #市場 #焦點
+
+布倫特原油暗盤突破86美元，日內漲超0.6%。
+
+---
+
+### 2026-08-16 18:01:56  #國際
+
+【特朗普再促參議院透過全年採用夏令時法案】美國總統特朗普15日在社交媒體再度發文，敦促國會參議院儘快表決透過全年採用夏令時的相關法案。特朗普說，參議院“必須儘快投票”，並“把它辦成”。他說，一天中較晚時段有更多陽光會更好，包括有助於打擊犯罪，但更重要的是，別再每年兩次調整時鐘和手錶了，這帶來的全是干擾和混亂。此前，特朗普4日在社交媒體發文，敦促國會參議院儘快透過全年採用夏令時的相關法案，稱絕大多數美國人都要求將夏令時永久化。（新華社）
+
+---
+
+### 2026-08-16 18:01:44  #MKT News #XAUUSD #Impact bullish #DXY #USDJPY #Impact bearish
+
+【South Korean military fires warning shots at N. Korea soldiers after crossing eastern military demarcation line】Yonhap, citing South Korean government sources on the 16th, reported several N. Korea soldiers crossed the eastern military demarcation line and ROK forces fired warning shots. Yonhap said it was the first time this year the South fired warning shots in response to a North Korean incursion.
+
+---
+
+### 2026-08-16 18:01:37  #國際
+
+【韓軍向越過東部軍事分界線朝鮮軍人鳴槍警告】據韓聯社8月16日援引韓國政府人士訊息報道，數名朝鮮軍人日前越過東部地區軍事分界線，韓軍隨後鳴槍警告。據稱，這是今年以來韓軍首次因朝軍越界實施警告射擊。（新華社）
+
+---
+
+### 2026-08-16 18:00:25  #資料 #國際
+
+以色列中央統計局修正資料顯示，以色列第一季度國內生產總值按年率計算下滑2.2%。
+
+---
+
+### 2026-08-16 18:00:19  #資料 #國際
+
+以色列統計局公佈：該國第二季度人均國內生產總值按年率計算增長14%。
+
+---
+
+### 2026-08-16 18:00:08  #資料 #國際
+
+以色列第二季度GDP按年率計算環比增長15.4%；此前預期增長8.3%。
+
+---
+
+### 2026-08-16 18:00:02  #市場
+
+未來一週將有杭蕭鋼構、皇馬科技等1052家AB股公司披露業績。
+
+---
+
+### 2026-08-16 17:59:34  #國際
+
+阿拉伯媒體：在伊朗伊斯蘭共和國與阿曼當前對話方塊架內，船隻透過霍爾木茲海峽南部航道的通行將被取消（這部分原屬於阿曼領海）。
+
+---
+
+### 2026-08-16 17:57:56  #市場 #國際
+
+【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。（央視財經）
+
+---
+
+### 2026-08-16 17:57:04  #其他
+
+中國地震臺網正式測定：08月16日17時48分在河北唐山市豐南區（北緯39.36度，東經117.90度）發生2.1級地震，震源深度27千米。
+
+---
+
+### 2026-08-16 17:54:59  #MKT News
+
+Yemeni armed forces told Saudi Al Arabiya TV they conducted 181 military operations against Houthi targets and threat sources over the past 24 hours.
+
+---
+
+### 2026-08-16 17:53:31  #公司 #國際
+
+【近800萬韓國人持有三星股票】根據三星電子向韓國金融監督院電子披露系統（DART）提交的半年報，截至6月底，該公司散戶股東人數達到創紀錄的7971242人，逼近800萬，較去年6月底的5049985人增加了約292萬人。 鑑於韓國成年人口為4300萬，這意味著每五名成年人中就有一人持有三星電子股票。散戶股東合計持有三星電子已發行股份的66.24%。與去年底4195927名散戶股東相比，半年內增加了約377萬人。
+
+---
+
+### 2026-08-16 17:51:20  #其他
+
+【北京解除雷電黃色預警訊號】目前，影響我市的雷雨雲團已減弱，市氣象臺2026年8月16日17時50分解除雷電黃色預警訊號。（氣象北京）
+
+---
+
+### 2026-08-16 17:49:49  #MKT News
+
+【Indonesia M7.7 quake kills 53】Indonesia’s National Disaster Management Agency official Abdul Muhari said on the afternoon of the 16th the M7.7 earthquake has killed 53 people. Local authorities have recorded 995 aftershocks since the quake.
+
+---
+
+### 2026-08-16 17:48:38  #市場 #觀點
+
+【中信建投： A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉】中信建投釋出研報稱，7月底全球科技去槓桿基本結束，海外科技在宏觀約束緩解和產業景氣驗證下率先修復，市場重新由資金面定價轉向基本面定價。A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉。歷史經驗表明，資金結構主要影響行情節奏，中期方向仍由業績兌現決定。當前算力產業鏈需求仍具韌性，A股科技修復尚未結束，配置上應優先選擇基本面確定性較高的核心資產，同時關注創新藥和工業金屬。行業重點關注：光通訊、伺服器、創新藥、有色金屬、機械、新能源等。
+
+---
+
+### 2026-08-16 17:46:49  #MKT News
+
+Hamas says its delegation in Cairo aims to secure the occupiers' commitment to the roadmap agreed with the peace committee.
 
 ---
 
@@ -18449,65 +18563,5 @@ KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were
 ### 2026-08-14 12:37:41  #Trading Economics #Economy #Malaysia #Current Account #Importance 1
 
 Malaysia Current Account Surplus Widens in Q2 — Malaysia’s current account surplus widened sharply to MYR 10.8 billion in the second quarter of 2026 from MYR 2.7 billion a year earlier, driven primarily by a substantial increase in the goods surplus. The goods surplus more than doubled to MYR 40.7 billion from MYR 16.0 billion a year ago, reflecting stronger external trade performance. Meanwhile, the services deficit rose slightly to MYR 0.7 billion from MYR 0.5 billion, mainly due to higher net outflows in travel, manufacturing services on physical inputs owned by others, and telecommunications, computer and information services, which more than offset increases in transport, insurance and pension services, and other business services. The primary income deficit widened sharply to MYR 27.2 billion from MYR 9.5 billion, as both investment income and compensation of employees recorded larger declines. The secondary income deficit narrowed to MYR 2.1 billion from MYR 3.2 billion.
-
----
-
-### 2026-08-14 12:37:26  #公司 #國際
-
-哈薩克輸油公司KazTransOil：7月哈薩克經裡海管道財團（CPC）管道出口石油27.1萬噸；7月哈薩克經俄羅斯烏斯季-盧加港出口石油28.6萬噸，經俄羅斯新羅西斯克港出口石油36萬噸；7月哈薩克經巴庫-第比利斯-傑伊漢（BTC）管道出口石油15.5萬噸。
-
----
-
-### 2026-08-14 12:37:08  #MKT News #Commodities #Energy
-
-KAZTRANSOIL said Kazakhstan's oil exports via the Baku-Tbilisi-Ceyhan pipeline were 155,000 tonnes in July.
-
----
-
-### 2026-08-14 12:36:47  #MKT News #Important #Commodities #Energy
-
-KAZTRANSOIL said Kazakhstan's oil exports via the CPC pipeline reached 271,000 tonnes in July.
-
----
-
-### 2026-08-14 12:36:45  #MKT News #Market Regions #Greater China
-
-【Dingdong Maicai to enter Hefei; plans 100+ new front warehouses in Yangtze River Delta by 2026】Dingdong Maicai will enter the Hefei market, opening three front warehouses in Baohe, Shushan and Yaohai districts. The company is densifying its Yangtze River Delta warehouse network and plans to add more than 100 front warehouses in the region by 2026.
-
----
-
-### 2026-08-14 12:35:53  #公司
-
-【叮咚買菜：將進駐合肥市場 今年長三角地區計劃新增超百個前置倉】8月14日，記者從公司獲悉，叮咚買菜將進駐合肥，首批3個前置倉同步落地包河、蜀山、瑤海三大城區。據介紹，叮咚買菜持續加密長三角倉網體系，2026年計劃再新增超100個前置倉。
-
----
-
-### 2026-08-14 12:35:34  #其他
-
-【閃迪預計到2030財年底將實現強勁增長】根據本週投資者日公佈的目標，閃迪預計到2030財年底，收入的年增長率將達到10%區間中高段水平。這家儲存晶片製造商概述了一項雄心勃勃的長期財務計劃，預測在2028財年至2030財年期間，平均毛利率約為80%，營業利潤率接近75%。預計調整後自由現金流利潤率約為50%，而資本支出預計將保持在佔收入中等個位數的百分比水平。閃迪表示，計劃優先發展更可靠的大批次業務，同時重點關注重視其產品的戰略客戶。
-
----
-
-### 2026-08-14 12:34:06  #其他
-
-【調查：新加坡7月份出口可能提速】根據接受媒體調查的五位經濟學家的預期中位數，新加坡7月份非石油國內出口可能增長26.50%，較6月份的20.7%有所加快。星展經濟學家在一份報告中表示，在對儲存晶片和伺服器相關產品強勁的人工智慧相關需求的支撐下，出口增長應會繼續由電子產品出貨量主導。他們補充說，在有利的基數效應下，非電子產品出口可能出現反彈，不過由於霍爾木茲海峽的持續干擾，石化產品出貨量預計將保持疲軟。該資料將於下週一公佈。
-
----
-
-### 2026-08-14 12:33:01  #公司
-
-【凌創電機：公司訂單已排到2028年】據南京釋出，一個“小圓盤”正在全球動力市場掀起巨浪，它叫“軸向磁通電機”，最近在中國實現首次規模化量產。在南京市江寧湯山度假區，剛成立4年的南京凌創電機技術有限公司（簡稱“凌創電機”），自主研發的軸向磁通電機也迎來新進展。目前，公司訂單已排到2028年，產品在手訂單金額突破1000萬元，一條自動化軸向磁通電機產線預計年底投用。據悉，隨著年底自動化軸向磁通電機產線的投用，公司電機產能將增加至2萬臺，預計到2028年迎來大規模生產，電機年產能預計達到10萬臺。
-
----
-
-### 2026-08-14 12:32:03  #其他
-
-市場訊息：北約擊落一架進入拉脫維亞領空的無人機。
-
----
-
-### 2026-08-14 12:29:44  #MKT News #Macro & Rates #CNH #Impact bullish
-
-【PBOC conducts 1 trillion yuan buyback reverse repo; experts say stance is prudent, mildly accommodative】The PBOC on Aug. 14 conducted a 1 trillion yuan buyback reverse repo via a fixed-amount, rate-bidding, multi-price tender. An equal 1 trillion yuan of six-month buyback reverse repos matured the same day, leaving outstanding buyback reverse repos at 6.3 trillion yuan. Oriental Jincheng chief macro analyst Wang Qing noted overnight money market rates (DR001) have traded below policy rates since Aug. 4, which may explain the decision not to expand the August 6M operation. CITIC Securities’ chief economist Mingming’s team said the large 6M rollover, combined with follow-up overnight reverse repos to protect liquidity, signals a prudent, mildly accommodative monetary policy orientation.
 
 ---

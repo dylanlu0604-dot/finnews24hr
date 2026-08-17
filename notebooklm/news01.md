@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:39:21_
-_本檔包含 2862 則快訊，約 605640 字_
+_更新時間：2026-08-18 02:00:35_
+_本檔包含 2860 則快訊，約 605760 字_
+
+---
+
+### 2026-08-18 01:59:41  #MKT News
+
+President Trump said Oman has not performed well and that the US will deal with them.
+
+---
+
+### 2026-08-18 01:59:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl.
+
+---
+
+### 2026-08-18 01:58:23  #國際
+
+土耳其外交部長與伊朗外長通話，討論了開放霍爾木茲海峽、繼續美伊停火等事宜。
+
+---
+
+### 2026-08-18 01:58:00  #國際
+
+特朗普：阿曼的表現不太好，但我們會處理好他們。
+
+---
+
+### 2026-08-18 01:57:30  #國際
+
+特朗普談及阿曼：我認為他們的表現並不理想。
+
+---
+
+### 2026-08-18 01:56:54  #市場
+
+布倫特原油日內漲3%，現報91.18美元/桶。
+
+---
+
+### 2026-08-18 01:56:47  #市場 #焦點
+
+WTI原油突破84美元/桶，日內漲3.12%。
+
+---
+
+### 2026-08-18 01:56:18  #市場 #焦點
+
+布倫特原油突破91美元/桶，日內漲2.87%。
+
+---
+
+### 2026-08-18 01:56:13  #市場
+
+WTI原油日內漲3%，現報83.92美元/桶。
+
+---
+
+### 2026-08-18 01:55:02  #MKT News #Market Regions #Japan & APAC
+
+【Russian FM Lavrov says Japan using criticism of Russia to mask its own military moves】Russian Foreign Minister Lavrov said on July 17 that Tokyo’s criticism of President Putin’s visit to Iturup Island appears aimed at diverting attention from Japan’s “openly aggressive” military trajectory. He urged Japan to focus on domestic issues, accused Tokyo of coordinating with the United States to “rewrite” international law, and warned that Japan is evading historical responsibility and breaching constitutional limits to expand Self-Defense Force operations overseas—developments he described as “very concerning.”
+
+---
+
+### 2026-08-18 01:54:22  #國際
+
+特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。
+
+---
+
+### 2026-08-18 01:52:48  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no reason to strike the Kurdistan Regional Government leader's official residence.
+
+---
+
+### 2026-08-18 01:50:33  #國際
+
+【俄外長：日本企圖借抨擊俄羅斯掩蓋自身軍事動向】俄羅斯外交部長拉夫羅夫17日在評論日本方面針對俄總統普京登上伊圖魯普島（日本稱擇捉島）的表態時對俄媒表示，建議日本領導層集中精力處理國內事務，而非對俄進行“攻擊”。拉夫羅夫說，如果日本企圖透過抨擊俄羅斯來轉移國際社會對其“公然帶有侵略性質的”軍事路線的注意，那麼“我建議他們管好自己的事，他們國內有很多問題需要解決”。拉夫羅夫表示，日本試圖聯合與其關係緊密的盟友美國，按照雙方意願“改寫”國際法。日本企圖逃避自身犯下罪行的歷史責任，當下還在突破憲法約束，謀求拓展自衛隊海外活動，種種動向“非常令人擔憂”。（新華社）
+
+---
+
+### 2026-08-18 01:50:01  #國際
+
+伊拉克外交部長與伊朗外長討論針對庫爾德斯坦地區政府主席官邸的無人機襲擊事件。
+
+---
+
+### 2026-08-18 01:50:00  #MKT News #Brent #Impact bullish #WTI
+
+【Iranian media: UAE-owned tanker seized in Strait of Hormuz】Fars News, citing maritime data, reports a tanker owned by a UAE company was seized in the Strait of Hormuz after being intercepted near Qeshm Island. Iranian officials have said all vessels must use Tehran-designated routes and comply with related regulations.
+
+---
+
+### 2026-08-18 01:46:40  #MKT News
+
+【US sell-off continues; 30-year Treasury yield highest since 2007】The 30-year Treasury yield rose 3bp on Monday to 5.29%, its highest level since 2007 and closing in on the 2007 peak of 5.44%. The rise reflects investor concern over a rapidly expanding US debt stock, heavy long-term issuance and inflation running above the Fed’s target for the past five years. Higher long-term yields are lifting US government financing costs as investors demand greater compensation against rising debt and persistent inflation that could keep short-term rates elevated for longer. Barclays US rates strategist Anshul Pradhan said the bank remains sceptical the long-end sell-off will soon abate; a constructive view on long Treasuries would likely require some combination of fiscal relief, a slowdown in AI-related bond issuance, a revised Treasury issuance strategy, or sustained weakness in economic activity.
+
+---
+
+### 2026-08-18 01:45:19  #Trading Economics #Markets #commodity #Importance 0
+
+Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%.
 
 ---
 
@@ -17121,119 +17223,5 @@ Saudi media, citing Yemen’s armed forces, reported strikes on Houthi positions
 ### 2026-08-16 18:08:19  #其他
 
 水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部部分地區發生山洪災害可能性大（橙色預警）。（國家預警釋出）
-
----
-
-### 2026-08-16 18:07:47  #國際
-
-【菲律賓極端降雨天氣已致23人死亡】據菲律賓國家減災委員會16日釋出的最新資料，截至當日6時，本輪惡劣天氣已造成全國23人死亡、17人受傷，另有3人失蹤，受災人口超過490萬。據菲減災委通報，受颱風“白海豚”和“鯨魚”疊加西南季風影響，菲律賓近期多地遭受持續強降雨侵襲，引發嚴重洪澇和泥石流等災害。受災嚴重的地區包括呂宋島北部、西部及首都大馬尼拉地區。地方政府部門已設立數百處臨時避難所，集中安置轉移民眾。（新華社）
-
----
-
-### 2026-08-16 18:06:47  #其他
-
-自然資源部與中國氣象局8月16日18時聯合釋出黃色地質災害氣象風險預警：預計，8月16日20時至17日20時，四川中北部、雲南西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。（國家預警釋出）
-
----
-
-### 2026-08-16 18:03:59  #市場 #焦點
-
-布倫特原油暗盤突破86美元，日內漲超0.6%。
-
----
-
-### 2026-08-16 18:01:56  #國際
-
-【特朗普再促參議院透過全年採用夏令時法案】美國總統特朗普15日在社交媒體再度發文，敦促國會參議院儘快表決透過全年採用夏令時的相關法案。特朗普說，參議院“必須儘快投票”，並“把它辦成”。他說，一天中較晚時段有更多陽光會更好，包括有助於打擊犯罪，但更重要的是，別再每年兩次調整時鐘和手錶了，這帶來的全是干擾和混亂。此前，特朗普4日在社交媒體發文，敦促國會參議院儘快透過全年採用夏令時的相關法案，稱絕大多數美國人都要求將夏令時永久化。（新華社）
-
----
-
-### 2026-08-16 18:01:44  #MKT News #XAUUSD #Impact bullish #DXY #USDJPY #Impact bearish
-
-【South Korean military fires warning shots at N. Korea soldiers after crossing eastern military demarcation line】Yonhap, citing South Korean government sources on the 16th, reported several N. Korea soldiers crossed the eastern military demarcation line and ROK forces fired warning shots. Yonhap said it was the first time this year the South fired warning shots in response to a North Korean incursion.
-
----
-
-### 2026-08-16 18:01:37  #國際
-
-【韓軍向越過東部軍事分界線朝鮮軍人鳴槍警告】據韓聯社8月16日援引韓國政府人士訊息報道，數名朝鮮軍人日前越過東部地區軍事分界線，韓軍隨後鳴槍警告。據稱，這是今年以來韓軍首次因朝軍越界實施警告射擊。（新華社）
-
----
-
-### 2026-08-16 18:00:25  #資料 #國際
-
-以色列中央統計局修正資料顯示，以色列第一季度國內生產總值按年率計算下滑2.2%。
-
----
-
-### 2026-08-16 18:00:19  #資料 #國際
-
-以色列統計局公佈：該國第二季度人均國內生產總值按年率計算增長14%。
-
----
-
-### 2026-08-16 18:00:08  #資料 #國際
-
-以色列第二季度GDP按年率計算環比增長15.4%；此前預期增長8.3%。
-
----
-
-### 2026-08-16 18:00:02  #市場
-
-未來一週將有杭蕭鋼構、皇馬科技等1052家AB股公司披露業績。
-
----
-
-### 2026-08-16 17:59:34  #國際
-
-阿拉伯媒體：在伊朗伊斯蘭共和國與阿曼當前對話方塊架內，船隻透過霍爾木茲海峽南部航道的通行將被取消（這部分原屬於阿曼領海）。
-
----
-
-### 2026-08-16 17:57:56  #市場 #國際
-
-【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。（央視財經）
-
----
-
-### 2026-08-16 17:57:04  #其他
-
-中國地震臺網正式測定：08月16日17時48分在河北唐山市豐南區（北緯39.36度，東經117.90度）發生2.1級地震，震源深度27千米。
-
----
-
-### 2026-08-16 17:54:59  #MKT News
-
-Yemeni armed forces told Saudi Al Arabiya TV they conducted 181 military operations against Houthi targets and threat sources over the past 24 hours.
-
----
-
-### 2026-08-16 17:53:31  #公司 #國際
-
-【近800萬韓國人持有三星股票】根據三星電子向韓國金融監督院電子披露系統（DART）提交的半年報，截至6月底，該公司散戶股東人數達到創紀錄的7971242人，逼近800萬，較去年6月底的5049985人增加了約292萬人。 鑑於韓國成年人口為4300萬，這意味著每五名成年人中就有一人持有三星電子股票。散戶股東合計持有三星電子已發行股份的66.24%。與去年底4195927名散戶股東相比，半年內增加了約377萬人。
-
----
-
-### 2026-08-16 17:51:20  #其他
-
-【北京解除雷電黃色預警訊號】目前，影響我市的雷雨雲團已減弱，市氣象臺2026年8月16日17時50分解除雷電黃色預警訊號。（氣象北京）
-
----
-
-### 2026-08-16 17:49:49  #MKT News
-
-【Indonesia M7.7 quake kills 53】Indonesia’s National Disaster Management Agency official Abdul Muhari said on the afternoon of the 16th the M7.7 earthquake has killed 53 people. Local authorities have recorded 995 aftershocks since the quake.
-
----
-
-### 2026-08-16 17:48:38  #市場 #觀點
-
-【中信建投： A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉】中信建投釋出研報稱，7月底全球科技去槓桿基本結束，海外科技在宏觀約束緩解和產業景氣驗證下率先修復，市場重新由資金面定價轉向基本面定價。A股科技修復相對偏慢，主要源於前期加速上漲積累的成交擁擠、融資盤壓力及監管降溫，而非產業趨勢發生逆轉。歷史經驗表明，資金結構主要影響行情節奏，中期方向仍由業績兌現決定。當前算力產業鏈需求仍具韌性，A股科技修復尚未結束，配置上應優先選擇基本面確定性較高的核心資產，同時關注創新藥和工業金屬。行業重點關注：光通訊、伺服器、創新藥、有色金屬、機械、新能源等。
-
----
-
-### 2026-08-16 17:46:49  #MKT News
-
-Hamas says its delegation in Cairo aims to secure the occupiers' commitment to the roadmap agreed with the peace committee.
 
 ---
