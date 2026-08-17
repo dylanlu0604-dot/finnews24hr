@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-18 02:08:23",
-  "count": 15268,
+  "updated": "2026-08-18 02:12:19",
+  "count": 15267,
   "items": [
+    {
+      "id": "mkt:01a010e9-2c09-7aab-9067-c1d1f5b29ffd",
+      "time": "2026-08-18 02:08:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the primary U.S. objective is to prevent Iran from acquiring nuclear weapons."
+    },
     {
       "id": "mkt:01a010e8-2d50-7aab-9067-bbf61f35ac50",
       "time": "2026-08-18 02:07:26",
@@ -139882,22 +139890,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas EU Rallies by 11.16% — Top commodity gainers are Natural Gas EU (11.16%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Brent Crude Oil (4.63%) and Crude Oil WTI (4.58%)."
-    },
-    {
-      "id": "5034489",
-      "time": "2026-08-11 02:09:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：我們正在降低加拿大鋼鐵運輸成本，讓更多加拿大鋼材能夠運往全國各地的建設專案現場，同時加強國內供應鏈。"
-    },
-    {
-      "id": "mkt:019fecdd-7559-7aab-8fde-c949784eeb7a",
-      "time": "2026-08-11 02:09:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Prime Minister Carney said the government is cutting steel transport costs to move more Canadian steel to construction sites nationwide and to strengthen domestic supply chains."
     }
   ]
 }

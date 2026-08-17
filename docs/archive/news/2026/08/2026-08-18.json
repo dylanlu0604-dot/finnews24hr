@@ -1,7 +1,15 @@
 {
   "date": "2026-08-18",
-  "count": 132,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:01a010e9-2c09-7aab-9067-c1d1f5b29ffd",
+      "time": "2026-08-18 02:08:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the primary U.S. objective is to prevent Iran from acquiring nuclear weapons."
+    },
     {
       "id": "mkt:01a010e8-2d50-7aab-9067-bbf61f35ac50",
       "time": "2026-08-18 02:07:26",
