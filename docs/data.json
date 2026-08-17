@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-18 02:55:56",
-  "count": 15261,
+  "updated": "2026-08-18 02:59:55",
+  "count": 15256,
   "items": [
+    {
+      "id": "5044727",
+      "time": "2026-08-18 02:55:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，美國政府將在未來幾日公佈若干舉措，助力煉油企業提高燃料產量。"
+    },
+    {
+      "id": "mkt:01a01114-81ad-7aab-9068-7c462f53e6ab",
+      "time": "2026-08-18 02:55:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the U.S. Strategic Petroleum Reserve still holds 300 mln barrels and will be higher than pre-conflict levels once the Iran conflict ends."
+    },
     {
       "id": "5044726",
       "time": "2026-08-18 02:54:51",
@@ -139767,62 +139788,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲0.09%，報25971.30點，高水33.81點。"
-    },
-    {
-      "id": "mkt:019fed0a-fbfe-7aab-8fdf-ab94f41111e3",
-      "time": "2026-08-11 02:59:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he will no longer recommend universal childhood vaccination against hepatitis B, COVID-19 and influenza."
-    },
-    {
-      "id": "5034524",
-      "time": "2026-08-11 02:58:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：乙肝、新冠、流感等疫苗，不再建議所有兒童接種。"
-    },
-    {
-      "id": "mkt:019fed0a-24df-7aab-8fdf-a4c46301ad8e",
-      "time": "2026-08-11 02:58:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the U.S. government recognizes only 11 core vaccines in its childhood immunization recommendations."
-    },
-    {
-      "id": "5034523",
-      "time": "2026-08-11 02:57:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：政府僅認可 11 種核心疫苗的兒童接種建議。"
-    },
-    {
-      "id": "mkt:019fed08-820a-7aab-8fdf-9c0ca22f661b",
-      "time": "2026-08-11 02:56:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump announced US recommendations on childhood vaccinations, including a vaccine for autism."
-    },
-    {
-      "id": "5034522",
-      "time": "2026-08-11 02:56:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普宣佈“美國疫苗推薦”。"
-    },
-    {
-      "id": "mkt:019fed08-32d1-7aab-8fdf-97bbc65d8620",
-      "time": "2026-08-11 02:56:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump signed an executive order on vaccines."
     }
   ]
 }

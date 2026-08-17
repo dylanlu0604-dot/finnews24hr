@@ -1,7 +1,28 @@
 {
   "date": "2026-08-18",
-  "count": 188,
+  "count": 190,
   "items": [
+    {
+      "id": "5044727",
+      "time": "2026-08-18 02:55:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，美國政府將在未來幾日公佈若干舉措，助力煉油企業提高燃料產量。"
+    },
+    {
+      "id": "mkt:01a01114-81ad-7aab-9068-7c462f53e6ab",
+      "time": "2026-08-18 02:55:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the U.S. Strategic Petroleum Reserve still holds 300 mln barrels and will be higher than pre-conflict levels once the Iran conflict ends."
+    },
     {
       "id": "5044726",
       "time": "2026-08-18 02:54:51",
