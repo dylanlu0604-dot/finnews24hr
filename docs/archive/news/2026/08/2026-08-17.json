@@ -1,7 +1,49 @@
 {
   "date": "2026-08-17",
-  "count": 1800,
+  "count": 1805,
   "items": [
+    {
+      "id": "mkt:01a00f41-f016-7aab-905e-93d05992fc27",
+      "time": "2026-08-17 18:26:14",
+      "tags": [
+        "MKT News",
+        "BABA.N"
+      ],
+      "text": "【Alibaba launches AI music model Happy Shrimp 1.0】Alibaba launched an AI music model, Happy Shrimp 1.0, which it says converts natural‑language prompts — including mood, story, lyrics, genre, era and vocal requirements — into complete songs. The model is built to lower the creative threshold by understanding ordinary language rather than requiring music theory or arrangement expertise, can plan long‑form structure and generate full tracks, and is available on PC in China and internationally. New users are offered large free credit packages."
+    },
+    {
+      "id": "5044123",
+      "time": "2026-08-17 18:25:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普再稱伊朗絕不能擁有核武器】最新訊息：美國總統特朗普今天（8月17日）在社交媒體平臺發帖稱，“（美國的）首要目標始終都是伊朗絕不能以任何方式、任何形式擁有核武器。”（CCTV國際時訊）"
+    },
+    {
+      "id": "5044121",
+      "time": "2026-08-17 18:25:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝斯特：2026年上半年淨利潤1.46億元，同比降1.53%】貝斯特公告，2026年上半年營業收入7.92億元，同比增長10.57%。歸屬於上市公司股東的淨利潤1.46億元，同比下降1.53%。扣非淨利潤1.36億元，同比下降2.32%。利潤分配預案為：以5.02億股為基數，每10股派發現金紅利0.3元（含稅）。"
+    },
+    {
+      "id": "5044120",
+      "time": "2026-08-17 18:25:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美伊諒解備忘錄60天談判到期】根據美國伊朗6月18日簽署的諒解備忘錄，雙方承諾在60天視窗期內進行談判以期達成最終協議。如今，60天視窗期已到期。伊朗外交部發言人巴加埃今天（8月17日）在例行記者會上表示，由於美國“公然且廣泛地違反了諒解備忘錄”，談判未能進行，因此，60天期限已“完全失去意義”——伊朗的政策制定也絕不會受到“最後通牒”或“最後期限”的影響。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5044119",
+      "time": "2026-08-17 18:24:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【舒華體育：2026年半年度營收7.89億元 同比增28.37%】舒華體育公告稱，2026年半年度實現營業收入7.89億元，同比增長28.37%；歸屬於上市公司股東的淨利潤4642.34萬元，同比增長130.05%。截至報告期末公司總資產19.74億元，歸屬於上市公司股東的淨資產12.18億元。報告期內無利潤分配預案，控股股東及實際控制人未發生變更。"
+    },
     {
       "id": "mkt:01a00f3d-466f-7aab-905e-8b7ebca06b99",
       "time": "2026-08-17 18:21:08",
