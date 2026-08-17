@@ -1,7 +1,99 @@
 {
   "date": "2026-08-17",
-  "count": 2450,
+  "count": 2460,
   "items": [
+    {
+      "id": "mkt:01a01036-d7c5-7aab-9064-f9931f0ee007",
+      "time": "2026-08-17 22:53:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border."
+    },
+    {
+      "id": "5044550",
+      "time": "2026-08-17 22:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。"
+    },
+    {
+      "id": "mkt:01a01036-504d-7aab-9064-f71780db56f7",
+      "time": "2026-08-17 22:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority recorded 10,623 vessel transits from October 2025 through July 2026, up 6.12% year-on-year."
+    },
+    {
+      "id": "mkt:01a01035-f531-7aab-9064-e936539272c1",
+      "time": "2026-08-17 22:52:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel said it will address the disarmament of Hamas and public health and sanitation conditions in Gaza."
+    },
+    {
+      "id": "5044549",
+      "time": "2026-08-17 22:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列方面：加沙和平斡旋方將設立兩個工作組】以色列總理辦公室：以色列總理與‘和平委員會’開展了深入且富有建設性的磋商。雙方同意設立兩個工作組：第一個工作組將聚焦加沙地帶的解除武裝與非軍事化工作。以色列與‘和平委員會’均決心快速推進該程序，並要求在加沙地帶啟動任何重建工作之前完成此項工作。第二個工作組將處理加沙居民的環境衛生、潔淨水供應以及其他公共衛生問題 —— 這些問題同樣會對以色列居民造成影響。"
+    },
+    {
+      "id": "mkt:01a01035-776e-7aab-9064-e3be350edc30",
+      "time": "2026-08-17 22:52:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel says Gaza peace mediators will form two working groups."
+    },
+    {
+      "id": "mkt:01a01035-4153-7aab-9064-dde88c59af49",
+      "time": "2026-08-17 22:52:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "Nike (NKE.N) shares fell 2.9% to a nearly 12-year low."
+    },
+    {
+      "id": "mkt:01a01034-ef3b-7aab-9064-d091823355d7",
+      "time": "2026-08-17 22:51:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "WDC.O"
+      ],
+      "text": "SanDisk (SNDK.O) shares rose more than 10%, Micron Technology (MU.O) gained 5.6%, and SK Hynix (SKHY.O) and Western Digital Corp (WDC.O) climbed over 6%."
+    },
+    {
+      "id": "5044548",
+      "time": "2026-08-17 22:51:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列表示，加沙和平斡旋方將設立兩個工作組。"
+    },
+    {
+      "id": "5044547",
+      "time": "2026-08-17 22:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局：2025年10月至2026年7月共記錄到10623艘次通行，同比增加6.12%。"
+    },
     {
       "id": "5044546",
       "time": "2026-08-17 22:49:26",

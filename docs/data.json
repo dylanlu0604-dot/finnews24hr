@@ -1,7 +1,99 @@
 {
-  "updated": "2026-08-17 22:50:32",
-  "count": 15208,
+  "updated": "2026-08-17 22:54:30",
+  "count": 15215,
   "items": [
+    {
+      "id": "mkt:01a01036-d7c5-7aab-9064-f9931f0ee007",
+      "time": "2026-08-17 22:53:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border."
+    },
+    {
+      "id": "5044550",
+      "time": "2026-08-17 22:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。"
+    },
+    {
+      "id": "mkt:01a01036-504d-7aab-9064-f71780db56f7",
+      "time": "2026-08-17 22:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority recorded 10,623 vessel transits from October 2025 through July 2026, up 6.12% year-on-year."
+    },
+    {
+      "id": "mkt:01a01035-f531-7aab-9064-e936539272c1",
+      "time": "2026-08-17 22:52:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel said it will address the disarmament of Hamas and public health and sanitation conditions in Gaza."
+    },
+    {
+      "id": "5044549",
+      "time": "2026-08-17 22:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列方面：加沙和平斡旋方將設立兩個工作組】以色列總理辦公室：以色列總理與‘和平委員會’開展了深入且富有建設性的磋商。雙方同意設立兩個工作組：第一個工作組將聚焦加沙地帶的解除武裝與非軍事化工作。以色列與‘和平委員會’均決心快速推進該程序，並要求在加沙地帶啟動任何重建工作之前完成此項工作。第二個工作組將處理加沙居民的環境衛生、潔淨水供應以及其他公共衛生問題 —— 這些問題同樣會對以色列居民造成影響。"
+    },
+    {
+      "id": "mkt:01a01035-776e-7aab-9064-e3be350edc30",
+      "time": "2026-08-17 22:52:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel says Gaza peace mediators will form two working groups."
+    },
+    {
+      "id": "mkt:01a01035-4153-7aab-9064-dde88c59af49",
+      "time": "2026-08-17 22:52:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "Nike (NKE.N) shares fell 2.9% to a nearly 12-year low."
+    },
+    {
+      "id": "mkt:01a01034-ef3b-7aab-9064-d091823355d7",
+      "time": "2026-08-17 22:51:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "WDC.O"
+      ],
+      "text": "SanDisk (SNDK.O) shares rose more than 10%, Micron Technology (MU.O) gained 5.6%, and SK Hynix (SKHY.O) and Western Digital Corp (WDC.O) climbed over 6%."
+    },
+    {
+      "id": "5044548",
+      "time": "2026-08-17 22:51:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列表示，加沙和平斡旋方將設立兩個工作組。"
+    },
+    {
+      "id": "5044547",
+      "time": "2026-08-17 22:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局：2025年10月至2026年7月共記錄到10623艘次通行，同比增加6.12%。"
+    },
     {
       "id": "5044546",
       "time": "2026-08-17 22:49:26",
@@ -139367,32 +139459,6 @@
         "國際"
       ],
       "text": "市場訊息：美國在中東的加油人員規模接近停火時期水平，約為 20 人。"
-    },
-    {
-      "id": "5034383",
-      "time": "2026-08-10 22:53:56",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【SOFR期權市場出現對2026年12月和2027年3月美聯儲降息押注的需求】週一（美國非農就業報告發布“次日”），SOFR期權交易流中，至少出現了兩筆引人注目的押注，押注美聯儲降息預期正被計入2026年12月和2027年3月到期的期貨合約中。在2026年12月到期的期權中，SFRZ6 96.50⁄97.00看漲期權價差以1個點的價格買入了2萬手；較低的行權價對應3.50%的利率；今年以來大多數交易日有效聯邦基金利率為3.63%，而12月到期期貨合約當前價格對應的利率為4.005%。在2027年3月到期的期權中，SFRH7 98.50看漲期權以1.25個點的價格買入了7000手，對應1.5%的利率，而當前期貨利率為4.10%。"
-    },
-    {
-      "id": "5034382",
-      "time": "2026-08-10 22:51:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哥倫比亞強震已致超20人死亡】哥倫比亞發生強烈地震，該國太平洋沿岸多省震感明顯。地震造成多地人員傷亡和重大財產損失。據各地報告，裡薩拉爾達省省會佩雷拉市多棟建築物嚴重受損，市長證實已有18人死亡；喬科省政府通報稱省會基布多已有人員受傷；考卡山谷省卡利市市長亞歷杭德羅·埃德爾表示，該市至少20棟建築倒塌，有人員被困，已請求救援隊協助。此外，地震還造成馬尼薩萊斯市和薩爾薩爾市4人死亡，多人受傷。哥倫比亞地質部門將此次地震震級修正為7.4級，震源深度96公里。美國海嘯預警中心稱，本次地震無引發海嘯風險。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fec28-9271-7aab-8fdc-48630db89575",
-      "time": "2026-08-10 22:51:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadath, citing Israel's Channel 12, reported the US is continuing to reduce the number of refueling vehicles at Israel's Ben Gurion Airport."
     }
   ]
 }
