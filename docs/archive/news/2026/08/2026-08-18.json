@@ -1,7 +1,38 @@
 {
   "date": "2026-08-18",
-  "count": 307,
+  "count": 310,
   "items": [
+    {
+      "id": "5044792",
+      "time": "2026-08-18 06:24:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【民調顯示特朗普支援率創第二任期內新低】當地時間8月17日，路透社與益普索集團釋出的一項民意調查結果顯示，美國總統特朗普的支援率降至33%，創下其第二任期內新低。民調顯示，64%的美國人不認可特朗普在白宮的表現，約80%的美國人預計美國和伊朗之間的戰事“將會持續很長時間”。本次調查在全美以線上方式進行，收集了1166名美國成年人的反饋。（央視新聞）"
+    },
+    {
+      "id": "5044791",
+      "time": "2026-08-18 06:23:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【主動退出與被動處置並行，今年以來多家中小券商股權被擺上“貨架”】近日，開源證券的一筆股權轉讓引發關注。開源證券的中小股東西安曲江文化金融控股（集團）有限公司，將其持有的開源證券股份（4784.60萬股）全部掛牌轉讓，轉讓底價2.10億元。據統計，今年以來，東海證券、大通證券等多家中小券商股權被擺上轉讓“貨架”。中小券商股權流轉的背後，是主動退出與被動處置兩條主線並行。主動退出方面，股東財務狀況是驅動因素之一。被動處置方面，股東債務觸發司法拍賣的案例持續增加。（上證報）"
+    },
+    {
+      "id": "mkt:01a011d0-a165-7aab-906a-051b11459501",
+      "time": "2026-08-18 06:21:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S.-Iran standoff persists; oil up about 3% on bleak talks outlook】International crude rose about 3% on Monday as prospects for a U.S.-Iran deal dimmed. President Trump said he does not intend to extend a U.S.-Iran memorandum of understanding signed in June that technically expired on Monday. Major disagreements remain, including over the Strait of Hormuz. Other U.S. officials signaled Washington is not in a hurry to end the nearly six-month confrontation. The U.S. Energy Secretary described U.S. policy toward the Islamic Republic as a long-term game, and senior adviser Jared Kushner said Trump will be patient on any agreement."
+    },
     {
       "id": "5044790",
       "time": "2026-08-18 06:20:24",
