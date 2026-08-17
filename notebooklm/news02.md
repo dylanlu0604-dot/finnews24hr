@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:02:17_
-_本檔包含 3057 則快訊，約 605418 字_
+_更新時間：2026-08-18 01:39:21_
+_本檔包含 3066 則快訊，約 605691 字_
+
+---
+
+### 2026-08-16 17:46:14  #MKT News
+
+Hamas said the delegation's meeting in Cairo is part of ongoing communications with mediators to inform them of Israeli violations.
+
+---
+
+### 2026-08-16 17:45:51  #MKT News
+
+Hamas delegation has arrived in Cairo and is set to begin meetings to discuss the Gaza situation.
+
+---
+
+### 2026-08-16 17:43:46  #公司
+
+【山東高速：披露回購股份事項前十大股東及持股情況】山東高速公告稱，公司於2026年8月3日審議透過以集中競價交易方式回購部分股份的議案，該事項尚需股東會審議批准。現披露2026年8月13日登記在冊的前十名股東和前十名無限售條件股東情況，山東高速集團有限公司以30.73億股、63.57%的持股比例位居榜首，招商局公路網路科技控股股份有限公司、安徽皖通高速公路股份有限公司分別以7.84億股、3.38億股緊隨其後，持股比例分別為16.21%、7.00%。
+
+---
+
+### 2026-08-16 17:41:52  #其他
+
+【生態環境部部長黃潤秋赴浙江調研生態環境保護工作】8月14日至15日，生態環境部部長黃潤秋赴浙江省麗水市、台州市、寧波市調研生態環境保護工作。積極安全有序發展核電是構建清潔低碳、安全高效能源體系，推動實現碳達峰碳中和的重要舉措。黃潤秋來到位於台州市的三門核電廠，深入執行機組主控室和在建機組核島廠房，詳細瞭解核電機組執行狀況和建設進展，看望慰問華東核與輻射安全監督站現場監督人員。他強調，要堅持理性、協調、並進的核安全觀，把保障核安全擺在最高優先順序，強化核電廠全過程監督，壓實核安全主體責任。要督促企業嚴格落實核安全法規標準要求，切實保障核電機組執行安全、建造質量受控，提升裝置穩定性和可靠性，加強核電廠輻射環境監測，以高水平安全護航核電事業高質量發展。
+
+---
+
+### 2026-08-16 17:41:27  #其他
+
+【男子稱買到 2027年“早產飲料”？東鵬特飲最新回應】吳先生8月10日晚上在陳倉區縣功鎮一商店購買了2瓶1L裝的東鵬飲料果之茶蜜桃烏龍，還參加了廠家的一元換購活動，換了4瓶，一共拿回家6瓶。 8月12日，他無意中發現其中一瓶瓶蓋上的噴碼為20270629，瓶身上面明確寫著生產日期見瓶蓋，“這是早產的飲料嗎？”15日，東鵬特飲工作人員回應，為配合新版標籤法規的最新要求，東鵬飲料逐步進行產品噴碼格式的切換工作，瓶蓋日期噴碼從標註生產日期調整為標註保質期到期日，過渡期內，新舊版標籤的產品並行流通銷售。 （南方日報）
+
+---
+
+### 2026-08-16 17:40:45  #MKT News
+
+IRGC says Kuwait withheld information from Tehran on the fate of four detained Iranians.
+
+---
+
+### 2026-08-16 17:40:15  #其他
+
+【我國科學家釋出大豆垂直大模型“豐菽”2.0】記者從安徽農業大學獲悉，8月16日，在廣西南寧召開的第32屆全國大豆科研生產研討會上，該校王曉波教授代表研發團隊釋出了大豆領域垂直大模型“豐菽”2.0。它實現了多模態資料融合，降低單一模型回答偏差，有助於推動實現大豆資料輔助育種。據瞭解，“豐菽”2.0整合了大豆種質資源、基因組與編碼序列、蛋白質、轉錄本、基因表達、病害樣本、育種試驗記錄及中外文獻資料，形成面向大豆科研的結構化知識體系。相較於初代版本，“豐菽”2.0新增多模型協同分析機制。 據研發團隊介紹，“豐菽”2.0嵌入了部分通用大模型介面，它們可分別回答同一大豆專業問題，再由“豐菽”2.0總結模組結合領域知識、私有資料和結構化比對規則，對各模型回答中的共識、差異及證據完整性進行綜合分析，形成更加清晰可靠的專業結論，有助於提高大豆專業知識服務的穩定性。（新華社）
+
+---
+
+### 2026-08-16 17:39:42  #國際
+
+【印尼地震死亡人數升至51人】據印尼救援部門官員釋出的訊息，截至今天（8月16日）上午，15日發生的印尼7.7級地震已導致51人死亡。印尼國家搜救局官員表示，聯合搜救隊今天繼續擴大搜救範圍，對受災民眾開展搜救和救助工作。隨著此前因山體滑坡中斷的部分道路逐步恢復通行，救援人員將進入相關受災地區開展救援。有關部門同時會加強協調，確保救援力量覆蓋所有受災地區。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 17:39:23  #國際
+
+【衝突爆發以來，特朗普政府對伊朗的戰略訴求已經大幅縮減】特朗普政府在應對持續六個月的伊朗戰爭困境時，其戰略目標正經歷顯著縮減與重排。戰爭初期，美方曾設定包括迫使伊朗徹底投降、實現政權更迭、阻止其擁核以及切斷其對中東代理人支援等一系列絕對化目標。然而，隨著戰事延宕，美國政府正逐漸接受更低的預期。當地時間週四，美國副總統J·D·萬斯在節目中明確提出了當前戰爭的兩大核心目標，其優先順序排序引發外界高度關注。萬斯表示，首要目標是確保海灣國家繼續向全球輸送油氣以維持能源價格穩定，即“讓全美各地的民眾都能用上價格低廉的石油和天然氣”；而“確保伊朗永遠無法獲得核武器”則被列為第二目標。這一表態與美方一貫將“防核擴散”置於首位的立場形成鮮明反差。儘管白宮新聞秘書卡羅琳·利維特隨後試圖“找補”，重申這兩個目標對總統而言“同等重要”，但將國內油氣價格納入核心戰略考量，並置於防核議題之上，仍標誌著美國對伊政策出現重大轉向。分析認為，這一最新表態進一步表明，在戰爭陷入僵局之際，美國政府正準備大幅降低其戰略目標預期。
+
+---
+
+### 2026-08-16 17:36:33  #國際
+
+【瞄準“多元人口” 美民主黨敲定初選“早鳥州”】美國民主黨全國委員會15日在得克薩斯州表決透過2028年總統選舉黨內初選“首發”日程，確定6個州為當年1月至2月舉行初選的“早鳥州”，主要瞄準了這些州選民中分量較重的少數族裔和工人群體，指望靠民主黨的“多元化”策略打響第一炮，從而鞏固並擴大其基本盤，爭取贏得兩年多後的總統選舉。按照新的初選日程，民主黨衝刺2028年大選的初選戰將在南卡羅來納州開鑼：2028年1月22日，位於東南部的南卡州將率先舉行民主黨初選投票、確認其支援哪位總統候選人。緊隨其後的是位於西部的內華達州，2月1日舉行初選。其餘“早鳥州”依次為新罕布什爾州、新墨西哥州、密歇根州和弗吉尼亞州，初選日程均集中於2月，即“超級星期二”之前。其他州3月及之後舉行初選。（央視新聞）
+
+---
+
+### 2026-08-16 17:34:29  #國際
+
+【日媒：高市政權迴避歷史反省 要警惕其“迴歸戰前”傾向】日本多家媒體16日發表社論，批評高市早苗政權在日本宣佈無條件投降81週年之際迴避歷史反省、淡化戰爭責任，並對日本政壇和安全政策日益顯現的“迴歸戰前”傾向表示警惕。15日，高市在日本政府舉辦的“全國戰歿者追悼儀式”上致辭時，隻字未提日本當年對鄰國發動的侵略戰爭及由此造成的深重災難，也沒有為日本的侵略歷史道歉，致辭中同樣沒有出現“反省”一詞。對此，日本《每日新聞》社論指出，如果不能正視戰爭教訓，日本作為和平國家的信譽將受到損害。（新華社）
+
+---
+
+### 2026-08-16 17:32:36  #國際
+
+【美媒曝美伊談判內幕：美方曾繞開伊朗官方啟用伊拉克庫區領導人作為秘密聯絡人】據媒體16日報道，在今年5月的美伊停戰談判期間，美國特朗普政府曾繞過伊朗官方談判代表，透過伊拉克庫爾德自治區（庫區）總統巴爾扎尼與伊朗伊斯蘭革命衛隊建立秘密聯絡渠道。這一罕見的外交舉動凸顯了美伊雙方在談判中面臨的信任危機與溝通障礙。報道援引多名知情人士的訊息稱，今年5月初，白宮認為與伊朗議長加利巴夫和外長阿拉格齊的談判陷入僵局，懷疑伊朗官方代表並未獲得最終決策權。為確認伊朗伊斯蘭革命衛隊的真實立場，時任美國國家情報總監加巴德於5月10日左右致電巴爾扎尼，請求其協助直接聯絡伊朗伊斯蘭革命衛隊指揮官瓦希迪。巴爾扎尼隨後在伊拉克庫區首府埃爾比勒的辦公室內，透過加密電話與瓦希迪進行了直接溝通。瓦希迪向巴爾扎尼明確表示，伊斯蘭革命衛隊完全支援伊朗官方談判代表的立場，傾向於透過談判解決危機。巴爾扎尼隨即向美方反饋了這一資訊。隨後，美方曾提議在埃爾比勒舉行美伊高階別秘密會談，但伊方出於對以色列情報機構可能實施暗殺的擔憂，最終未能成行。
+
+---
+
+### 2026-08-16 17:32:10  #MKT News
+
+Russian Defence Ministry said its forces have captured the villages of Pershomarivka in Ukraine's Donetsk region and Kudyivka in Kharkiv region.
+
+---
+
+### 2026-08-16 17:31:47  #MKT News #XAUUSD #Impact bullish #WTI
+
+Ukrainian military said it struck a missile-fuel production facility in Russia's Rostov region.
+
+---
+
+### 2026-08-16 17:31:36  #國際
+
+烏克蘭軍方稱，烏克蘭襲擊了俄羅斯羅斯托夫州的一個導彈燃料生產設施。
+
+---
+
+### 2026-08-16 17:31:14  #國際
+
+阿拉伯媒體：大多數船隻在透過霍爾木茲海峽時遵守了伊朗航道。
+
+---
+
+### 2026-08-16 17:27:17  #其他
+
+【上海港首次開展海上錨地雙船雙燃料加註作業】地處東海海域的綠華山錨地，是途經上海港國際航行船舶避風減載、待泊補給、半潛作業的重要水域，如今這裡清潔燃料補給功能日趨成熟。8月16日清晨，“海港未來”號LNG加註船、“海港致遠”號甲醇加註船在綠華山錨地相繼完成燃料加註作業。其中，“海港致遠”輪為馬耳他籍“達飛歐斯米姆”輪加註國產生物質甲醇；“海港未來”輪為新加坡籍“騰城”輪加註液化天然氣。本次雙船加註從8月15日延續至8月16日，這是上海港首次在海上錨地同步為國際航行船舶大規模加註兩類綠色燃料，標誌著上海港海上能源加註作業具備了多元化、規模化供應能力。（一財）
+
+---
+
+### 2026-08-16 17:23:39  #MKT News #S&P500 #Impact bullish #Brent #Impact bearish #XAUUSD
+
+Saudi outlet Alhadath cites sources saying Trump envoy Jared Kushner will meet Hamas representatives, with mediators from Egypt, Turkey and Qatar present, to try to prevent collapse of the Gaza agreement.
+
+---
+
+### 2026-08-16 17:23:21  #MKT News
+
+EMSC: A M4.2 earthquake struck the Flores region of Indonesia; depth 5 km.
+
+---
+
+### 2026-08-16 17:22:46  #國際
+
+【美媒：中國成為全球企業“繞不開的技術和創新來源”】美國消費者新聞與商業頻道（CNBC）近日刊文稱，中國企業正在成為全球企業“繞不開的技術和創新來源”。分析人士認為，儘管美國持續加碼對華科技限制，但從人工智慧到電動車電池，中國技術仍日益融入一些全球大型企業的業務。分析認為，中國技術崛起正在從低成本製造轉向依靠規模優勢、深厚的供應鏈能力以及快速創新能力，全球產業鏈與創新格局正發生結構性變化。（新華社）
+
+---
+
+### 2026-08-16 17:18:31  #MKT News #Brent #Impact bullish #WTI
+
+Saudi broadcaster Al Arabiya reported Yemen's military said Houthi forces fired six ballistic missiles and six drones at Mokha; air defenses shot down two drones.
+
+---
+
+### 2026-08-16 17:17:02  #國際
+
+俄羅斯國防部：俄羅斯軍隊佔領了哈爾科夫州的庫季耶夫卡和頓涅茨克共和國的佩爾紹馬裡耶夫卡。
+
+---
+
+### 2026-08-16 17:15:59  #國際
+
+過去24小時內，俄羅斯防空系統共擊落1478架無人機，創下歷史新高。
+
+---
+
+### 2026-08-16 17:15:29  #公司 #市場
+
+【利潤暴增715倍，股民卻虧麻了？ 江波龍560元定增埋雷，21家機構成“高位接盤俠”】儲存龍頭江波龍釋出“炸裂”業績。今年上半年歸母淨利105.77億元，同比增長約715倍，達到了業績預告的上線數值。而曾衝高到749.88元高點的江波龍股價，在半年報釋出後卻跌跌不休，至8月14日收盤，報收於406.45元。參與江波龍37億元定增的21家機構以及自然人投資者，560元/股買入，已成高位接盤俠，目前整體浮虧已超10億元。而在此次高溢價定增推進之前，江波龍實控人關聯主體及核心高管已透過多輪減持完成超50億元高位套現。江波龍也因此被市場詬病，被指“吃相難看”。 《BUG》欄目詢問了江波龍方面，工作人員表示，公司能決定的更多還是自身經營的因素，無法對股價發表評論。 江波龍已宣佈擬以4億元-8億元回購股份，用於股權激勵或員工持股計劃。但為了回購股票的資金，江波龍居然開始向銀行借錢。有投資者喊話江波龍應回購股份登出，但未獲回應。 江波龍經營淨現金流已由正傳負，但仍在大舉囤貨，分析人士認為，如果週期反轉，對江波龍的影響將是災難性的。
 
 ---
 
@@ -18365,95 +18509,5 @@ KAZTRANSOIL said Kazakhstan's oil exports via the CPC pipeline reached 271,000 t
 ### 2026-08-14 12:29:44  #MKT News #Macro & Rates #CNH #Impact bullish
 
 【PBOC conducts 1 trillion yuan buyback reverse repo; experts say stance is prudent, mildly accommodative】The PBOC on Aug. 14 conducted a 1 trillion yuan buyback reverse repo via a fixed-amount, rate-bidding, multi-price tender. An equal 1 trillion yuan of six-month buyback reverse repos matured the same day, leaving outstanding buyback reverse repos at 6.3 trillion yuan. Oriental Jincheng chief macro analyst Wang Qing noted overnight money market rates (DR001) have traded below policy rates since Aug. 4, which may explain the decision not to expand the August 6M operation. CITIC Securities’ chief economist Mingming’s team said the large 6M rollover, combined with follow-up overnight reverse repos to protect liquidity, signals a prudent, mildly accommodative monetary policy orientation.
-
----
-
-### 2026-08-14 12:29:34  #國際
-
-【韓國總統李在明：政府將負責確保恢復“慰安婦”受害者名譽】8月14日是世界“慰安婦”紀念日，韓國總統李在明當天在韓政府舉行的紀念儀式上表示，“直到現在，否定歷史、損害受害者名譽的反人權行為仍在繼續”，韓國政府“將始終負責到底，確保每一位受害者的名譽和尊嚴得到完整恢復”。韓國政府當天在位於首爾龍山區的白凡金九紀念館舉行了“慰安婦”紀念日紀念儀式，韓國總統秘書室室長姜勳植在儀式上宣讀了李在明的致辭。李在明在致辭中指出，“銘記真相，守護受害者尊嚴，創造一個不再讓此類悲劇重演的世界，這是我們這些生活在當下的人所能給予的最大敬意”。（央視）
-
----
-
-### 2026-08-14 12:28:59  #市場
-
-澳大利亞S&P/ASX 200指數下跌1%，至9095.80。
-
----
-
-### 2026-08-14 12:26:47  #其他
-
-【尼泊爾西部山體滑坡致10人死亡2人失蹤 】尼泊爾西部羅爾帕縣警方13日通報，持續強降雨引發的山體滑坡造成10人死亡，另有2人下落不明。通報說，滑坡12日晚發生在羅爾帕縣一處偏遠丘陵地帶，當地一個小村落幾乎被夷為平地。當地警方發言人什雷斯塔告訴新華社記者，救援人員在滑坡現場找到5具遇難者遺體，另有5具遺體在數公里外的比烏坦縣被發現。警方表示，搜救工作仍在進行中，因受災區域位置偏遠，相關工作面臨較大困難。
-
----
-
-### 2026-08-14 12:26:32  #公司
-
-哈薩克石油運輸公司：7月份向UST-LUGA的原油出口量下降16.9%。
-
----
-
-### 2026-08-14 12:25:58  #其他
-
-市場訊息：蘋果專門針對中國市場訓練了一款AI模型，該AI模型的訓練得到阿里巴巴的支援。蘋果未來幾個月將在中國發布一套AI工具。
-
----
-
-### 2026-08-14 12:23:39  #其他
-
-【今明兩天南方部分地區降雨持續 浙江成為強降雨中心】中央氣象臺預計，今天南方地區降雨範圍廣，強降雨分佈較為分散，中央氣象臺今天上午10時繼續釋出暴雨黃色預警。預計，今天14時至明天14時，江蘇、安徽、上海、浙江、湖北等地部分地區有大到暴雨，其中，江蘇南部、廣東南部沿海等地局地有大暴雨；上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。明天，華東地區普遍為中到大雨，浙江成為強降雨中心，局地有暴雨或大暴雨。
-
----
-
-### 2026-08-14 12:23:02  #其他
-
-西聯匯款與Intermex：已收到加州金融保護與創新部（DPFI）信函，暫停批准該項收購的延期申請。
-
----
-
-### 2026-08-14 12:22:02  #國際
-
-市場訊息：日本防衛大臣將於8月17日至21日訪問澳大利亞和印度。
-
----
-
-### 2026-08-14 12:21:26  #Trading Economics #Economy #Malaysia #GDP Annual Growth Rate #Importance 1
-
-Malaysia Q2 GDP Growth Stronger Than Initially Thought — Malaysia’s economy expanded by 6% year-on-year in Q2 2026, higher than the initially estimated 5.8% and picking up from 5.4% growth in Q1. Activity strongly rebounded in mining and quarrying (9.2% vs -2.1% in Q1), mainly driven by a sharp expansion in natural gas production (19.3%). Output also rose faster in manufacturing (7.3% vs 5.9%) and services (5.9% vs 5.6%). On the other hand, output growth slowed in construction (6.5% vs 7.7%), while agriculture contracted (-3.7% vs 2.6%), primarily due to declines in oil palm (-9.5%) and fishing (-4.4%). On the expenditure side, growth picked up in household consumption (4.8% vs 4.7%) and government spending (7.6% vs 4.1%). Net trade also contributed positively to GDP, as exports climbed 17% (vs 5.2%), while imports rose at a softer 13.9% (vs 4.6%). Meanwhile, growth slowed in gross fixed capital formation (4.6% vs 7.3%). On a quarterly basis, GDP expanded 2.5%, the strongest growth since Q2 2020, after stagnating in Q1.
-
----
-
-### 2026-08-14 12:20:11  #其他
-
-訊息人士稱，蘋果已專門針對中國市場訓練人工智慧模型。
-
----
-
-### 2026-08-14 12:19:49  #Trading Economics #Economy #Peru #Balance of Trade #Importance 1
-
-Peru Trade Surplus Expands in June — Peru’s trade surplus widened to USD 3,169 million in June from USD 2,795 million in the corresponding month of the previous year. Exports grew 23.4% year-on-year to USD 8,906 million, driven by higher sales of traditional products (30.2%), non-traditional products (1.2%), and other products (157.6%). Imports surged 29.7% to USD 5,737 million, led by increases in consumer goods (23.1%), supplies (27.1%), and capital goods (39.2%), while imports of other goods declined 30.7%. In the first half of the year, Peru recorded a trade surplus of USD 22,756 million, expanding sharply from USD 13,306 million in the same period last year. Exports totaled USD 56,438 million, 37.6% higher than a year earlier, while imports amounted to USD 33,682 million, an increase of 21.5%.
-
----
-
-### 2026-08-14 12:19:24  #公司
-
-【SK海力士考慮合資建儲存晶片工廠 降低資本支出和產能過剩風險】SK集團董事長崔泰源接受媒體採訪時表示，SK海力士正考慮以合資方式建設新的儲存晶片工廠，以降低傳統行業盛衰週期下鉅額資本支出和產能過剩帶來的風險。崔泰源還警告稱，目前儲存晶片供應緊張的局面將在2027年進一步加劇。
-
----
-
-### 2026-08-14 12:18:50  #公司
-
-據知情人士透露，亞洲私募股權公司Trustar Capital正接近達成收購阿里巴巴集團遊戲業務的交易。上述人士表示，Trustar已擊敗包括其他遊戲開發商在內的多家競購方，成為收購靈犀互娛（Lingxi Games）最有可能的買家。由於資訊敏感，這些人士要求匿名。此次交易可能使該工作室估值超過15億美元。他們還表示，目前相關談判仍在進行中，尚未做出最終決定。
-
----
-
-### 2026-08-14 12:17:41  #Trading Economics #Markets #Commodity #Importance 1
-
-Iron Ore Rises on Improving Fundamentals — Iron ore futures climbed above CNY 710 per ton, recovering modestly from multi-month lows as signs of tightening supply and improving steel demand in top consumer China provided support. Industry data showed iron ore inventories at major Chinese ports edged down to around 156.8 million tons, pointing to potentially tighter supply conditions in the coming weeks. Daily hot metal production at Chinese steel mills also increased to 2.38 million tons, up 0.17 million tons from the previous week, while mill profitability improved to 33.77%, rising 1.74 percentage points from the previous month. Meanwhile, the People’s Bank of China is set to conduct a 1 trillion yuan reverse repurchase operation, which could provide additional support to economic activity by improving liquidity and credit availability.
-
----
-
-### 2026-08-14 12:16:41  #MKT News #Star Stocks #JD.com #Hang Seng Index #Impact bearish #09618.HK #00001.HK
-
-【Hong Kong midday: Hang Seng slips 0.93% as JD.com falls over 10% post-results】Hang Seng Index extended weakness, opening about 200 points down, briefly cutting losses to under 100 before resuming decline; at the midday close the index fell 0.93% to 25,160.25. Hang Seng Tech Index lost 1.79% to 4,706.73. Market turnover was HKD 135.7 bln. Sector flows: gold and nonferrous metals outperformed, optical communications and memory-chip names popped then faded, while internet and innovative-drug stocks weakened. Notable movers: China Gold International (02099.HK) +12.93%, GigaDevice Semiconductor (03986.HK) +2.30%, SMIC (00981.HK) +1.92% after results, JD.com (09618.HK) -10.08% post-results, CK Hutchison (00001.HK) -5.12% post-results, Akeso (09926.HK) -6.08%.
 
 ---

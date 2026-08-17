@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:02:17_
-_本檔包含 2847 則快訊，約 605193 字_
+_更新時間：2026-08-18 01:39:21_
+_本檔包含 2862 則快訊，約 605640 字_
+
+---
+
+### 2026-08-18 01:34:40  #MKT News
+
+【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity.
+
+---
+
+### 2026-08-18 01:32:07  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures are up 2.0% intraday at $84.05/bbl.
+
+---
+
+### 2026-08-18 01:28:16  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%.
+
+---
+
+### 2026-08-18 01:27:00  #市場
+
+WTI原油日內漲2%，現報83.10美元/桶。
+
+---
+
+### 2026-08-18 01:26:56  #MKT News #Important #Brent #Impact bullish
+
+Brent crude up 2% intraday at $88.95/bbl.
+
+---
+
+### 2026-08-18 01:26:31  #市場
+
+布倫特原油日內漲2%，現報90.29美元/桶。
+
+---
+
+### 2026-08-18 01:25:52  #市場 #焦點
+
+WTI原油突破83美元/桶，日內漲1.88%。
+
+---
+
+### 2026-08-18 01:25:15  #其他
+
+葉門政府武裝稱，其對馬裡卜南部戰線的胡塞武裝陣地實施了打擊。
+
+---
+
+### 2026-08-18 01:22:46  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週一使用規模為25.5億美元，交易對手6家。
+
+---
+
+### 2026-08-18 01:22:20  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Climbs to 3-Week High — US gasoline futures traded above $3.20 per gallon, reaching a three-week high as Middle East peace talks stalled. Iran warned of further escalation if the US fails to fully implement an interim deal, while the US threatened military action against Oman and demanded Iran’s surrender. At the pump, the average US gasoline price reached $4.06 per gallon, more than $1 above its level a year earlier. Elsewhere, repeated Ukrainian strikes on Russian oil refineries triggered a fresh wave of fuel shortages, while Moscow extended its fuel export restrictions. However, continued crude shipments through the Persian Gulf waterway despite the conflict eased some supply concerns. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, stating refiners are operating at record high. Meanwhile, Russia received at least one gasoline shipment from India, seeking to alleviate domestic shortages.
+
+---
+
+### 2026-08-18 01:18:37  #市場 #焦點
+
+布倫特原油突破90美元/桶，日內漲1.71%。
+
+---
+
+### 2026-08-18 01:17:59  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted dlr 255 mln from six counterparties in a fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-18 01:17:22  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+U.S. Energy Secretary Wright, commenting on U.S. military operations in the Strait of Hormuz, said the U.S. is exporting about 8–9 million barrels of oil per day.
+
+---
+
+### 2026-08-18 01:17:03  #焦點 #國際
+
+美國能源部長賴特談及美軍在霍爾木茲海峽的行動：美國目前保障每日800‑900萬桶石油外運。
+
+---
+
+### 2026-08-18 01:16:47  #央行 #國際
+
+週一（8月17日），美聯儲隔夜逆回購協議（RRP）使用規模為25.5億美元，交易對手6家。
+
+---
+
+### 2026-08-18 01:16:42  #MKT News
+
+Iraqi prime minister says authorities will publicly announce findings from the investigation into the attack on the Kurdistan Regional Government prime minister's office.
+
+---
+
+### 2026-08-18 01:15:47  #市場
+
+納斯達克100指數轉跌，抹去了高達0.5%的漲幅。
+
+---
+
+### 2026-08-18 01:15:24  #MKT News
+
+Canadian Prime Minister Carney said Ottawa is engaged in tense, delicate negotiations with the United States that will not be conducted publicly.
+
+---
+
+### 2026-08-18 01:14:56  #市場 #央行 #國際
+
+【美國30年期國債收益率觸及2007年以來高位】美國30年期國債收益率攀升至5.29%，創下2007年以來新高。投資者擔憂美國債務規模膨脹、國債大量發行以及通脹持續頑固，推動收益率上行。AI相關企業舉債融資，疊加長期債券需求走弱，進一步帶來壓力。儘管就業、通脹與零售資料走弱，市場下調美聯儲短期加息預期，但美債拋售仍在延續。與此同時，長端收益率上行、短端收益率回落，收益率曲線陡峭化。
+
+---
+
+### 2026-08-18 01:14:40  #國際
+
+加拿大總理卡尼：正與美國進行緊張而微妙的談判，不會公開進行對話。
+
+---
+
+### 2026-08-18 01:14:02  #國際
+
+美國司法部對安德森·霍洛維茨基金董事會成員展開調查。
+
+---
+
+### 2026-08-18 01:13:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Press TV: Pentagon assessment says current military plans cannot guarantee Strait of Hormuz security】Iran's Press TV, citing a regional intelligence source, reported the Pentagon has concluded existing military plans cannot guarantee safe passage through the Strait of Hormuz or the stability of regional energy supplies. The source said the assessment reflects a strategic impasse in the Gulf, that no current military plan has sufficient political or security capacity to keep the strait open, protect shipping, and maintain energy stability. The source added the U.S. cannot control the waterway, dealing a serious blow to Washington's regional posture and exposing U.S. military limits against Iran's growing asymmetric capabilities.
+
+---
+
+### 2026-08-18 01:12:37  #MKT News #GBPUSD
+
+Carney said an opportunity will arise over the next 48 hours to discuss the progress of negotiations in greater detail.
+
+---
+
+### 2026-08-18 01:12:03  #MKT News
+
+US Energy Secretary Wright said the US is pursuing a long-term strategy on Iran.
+
+---
+
+### 2026-08-18 01:11:38  #MKT News #WTI #Impact mixed #Brent
+
+U.S. Energy Secretary Wright said the U.S. will continue to enhance its ability to escort shipping through the Strait of Hormuz.
+
+---
+
+### 2026-08-18 01:11:13  #其他
+
+加拿大總理卡尼：隨著談判推進，未來48小時內我們將有機會展開更詳細的討論。
+
+---
+
+### 2026-08-18 01:10:56  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US Energy Secretary Wright said Middle East oil supplies have not fully recovered.
+
+---
+
+### 2026-08-18 01:10:42  #國際
+
+美國能源部長賴特談及伊朗問題：美國正在打持久戰。
+
+---
+
+### 2026-08-18 01:10:20  #MKT News #Market Themes #The Trump Trade
+
+Canadian Prime Minister Carney said he expects to speak with U.S. President Trump before the tariff deadline on Aug. 19 local time.
+
+---
+
+### 2026-08-18 01:09:56  #MKT News
+
+Yemen's military said it used artillery in southwest Taiz province to strike one Houthi tank, one military vehicle and six patrol positions.
+
+---
+
+### 2026-08-18 01:09:46  #國際
+
+加拿大總理卡尼表示，他預計會在8月19日關稅截止日期前與特朗普通話。
+
+---
+
+### 2026-08-18 01:09:34  #國際
+
+美國能源部長賴特：在霍爾木茲海峽航運護航方面，我們的能力還將繼續提升。
+
+---
+
+### 2026-08-18 01:09:08  #國際
+
+美國能源部長賴特：中東的石油產量還沒有完全恢復到正常水平。
+
+---
+
+### 2026-08-18 01:08:06  #國際
+
+美國中央司令部：截至8月17日，中央司令部部隊已迫使64艘商船改道，癱瘓3艘船隻，並登船檢查2艘，以確保各方遵守封鎖要求。
+
+---
+
+### 2026-08-18 01:08:04  #MKT News
+
+【Iranian media: regional states see US as 'paralyzed', seek bilateral deals with Iran】Press TV quoted an Arab diplomat saying regional states view US President Trump’s "reckless" decisions and "condescending" posture as eroding trust in Washington. The diplomat said they believe the US has not only failed militarily against Iran but also lacks the ability and confidence to secure diplomatic understandings with Tehran, prompting some countries to pursue urgent bilateral negotiations with Iran rather than rely on US decision-making.
+
+---
+
+### 2026-08-18 01:08:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Central Command said on Aug. 17 it had forced 64 merchant vessels attempting to breach the blockade to divert, rendered three non‑compliant ships inoperable, and boarded and inspected two vessels to ensure compliance with requirements.
+
+---
+
+### 2026-08-18 01:05:55  #公司
+
+奈飛聘請華納兄弟高管凱蒂·馬丁·凱利擔任傳播副總裁。
+
+---
+
+### 2026-08-18 01:04:02  #MKT News #GD.O #Impact bullish #HII.O
+
+US Navy says Virginia-class nuclear-powered attack submarine USS Massachusetts has completed sea trials, is ready for fleet operations and has been granted an exemption from post-trial maintenance due to its good condition.
+
+---
+
+### 2026-08-18 01:03:27  #公司 #國際
+
+【伊朗：阿聯酋油輪在霍爾木茲海峽遭截停】船舶航行追蹤資料顯示，一艘阿聯酋公司所屬油輪在穿越霍爾木茲海峽途中被截停。這艘阿聯酋油輪是在格什姆島附近被攔停。
 
 ---
 
@@ -17001,149 +17235,5 @@ Yemeni armed forces told Saudi Al Arabiya TV they conducted 181 military operati
 ### 2026-08-16 17:46:49  #MKT News
 
 Hamas says its delegation in Cairo aims to secure the occupiers' commitment to the roadmap agreed with the peace committee.
-
----
-
-### 2026-08-16 17:46:14  #MKT News
-
-Hamas said the delegation's meeting in Cairo is part of ongoing communications with mediators to inform them of Israeli violations.
-
----
-
-### 2026-08-16 17:45:51  #MKT News
-
-Hamas delegation has arrived in Cairo and is set to begin meetings to discuss the Gaza situation.
-
----
-
-### 2026-08-16 17:43:46  #公司
-
-【山東高速：披露回購股份事項前十大股東及持股情況】山東高速公告稱，公司於2026年8月3日審議透過以集中競價交易方式回購部分股份的議案，該事項尚需股東會審議批准。現披露2026年8月13日登記在冊的前十名股東和前十名無限售條件股東情況，山東高速集團有限公司以30.73億股、63.57%的持股比例位居榜首，招商局公路網路科技控股股份有限公司、安徽皖通高速公路股份有限公司分別以7.84億股、3.38億股緊隨其後，持股比例分別為16.21%、7.00%。
-
----
-
-### 2026-08-16 17:41:52  #其他
-
-【生態環境部部長黃潤秋赴浙江調研生態環境保護工作】8月14日至15日，生態環境部部長黃潤秋赴浙江省麗水市、台州市、寧波市調研生態環境保護工作。積極安全有序發展核電是構建清潔低碳、安全高效能源體系，推動實現碳達峰碳中和的重要舉措。黃潤秋來到位於台州市的三門核電廠，深入執行機組主控室和在建機組核島廠房，詳細瞭解核電機組執行狀況和建設進展，看望慰問華東核與輻射安全監督站現場監督人員。他強調，要堅持理性、協調、並進的核安全觀，把保障核安全擺在最高優先順序，強化核電廠全過程監督，壓實核安全主體責任。要督促企業嚴格落實核安全法規標準要求，切實保障核電機組執行安全、建造質量受控，提升裝置穩定性和可靠性，加強核電廠輻射環境監測，以高水平安全護航核電事業高質量發展。
-
----
-
-### 2026-08-16 17:41:27  #其他
-
-【男子稱買到 2027年“早產飲料”？東鵬特飲最新回應】吳先生8月10日晚上在陳倉區縣功鎮一商店購買了2瓶1L裝的東鵬飲料果之茶蜜桃烏龍，還參加了廠家的一元換購活動，換了4瓶，一共拿回家6瓶。 8月12日，他無意中發現其中一瓶瓶蓋上的噴碼為20270629，瓶身上面明確寫著生產日期見瓶蓋，“這是早產的飲料嗎？”15日，東鵬特飲工作人員回應，為配合新版標籤法規的最新要求，東鵬飲料逐步進行產品噴碼格式的切換工作，瓶蓋日期噴碼從標註生產日期調整為標註保質期到期日，過渡期內，新舊版標籤的產品並行流通銷售。 （南方日報）
-
----
-
-### 2026-08-16 17:40:45  #MKT News
-
-IRGC says Kuwait withheld information from Tehran on the fate of four detained Iranians.
-
----
-
-### 2026-08-16 17:40:15  #其他
-
-【我國科學家釋出大豆垂直大模型“豐菽”2.0】記者從安徽農業大學獲悉，8月16日，在廣西南寧召開的第32屆全國大豆科研生產研討會上，該校王曉波教授代表研發團隊釋出了大豆領域垂直大模型“豐菽”2.0。它實現了多模態資料融合，降低單一模型回答偏差，有助於推動實現大豆資料輔助育種。據瞭解，“豐菽”2.0整合了大豆種質資源、基因組與編碼序列、蛋白質、轉錄本、基因表達、病害樣本、育種試驗記錄及中外文獻資料，形成面向大豆科研的結構化知識體系。相較於初代版本，“豐菽”2.0新增多模型協同分析機制。 據研發團隊介紹，“豐菽”2.0嵌入了部分通用大模型介面，它們可分別回答同一大豆專業問題，再由“豐菽”2.0總結模組結合領域知識、私有資料和結構化比對規則，對各模型回答中的共識、差異及證據完整性進行綜合分析，形成更加清晰可靠的專業結論，有助於提高大豆專業知識服務的穩定性。（新華社）
-
----
-
-### 2026-08-16 17:39:42  #國際
-
-【印尼地震死亡人數升至51人】據印尼救援部門官員釋出的訊息，截至今天（8月16日）上午，15日發生的印尼7.7級地震已導致51人死亡。印尼國家搜救局官員表示，聯合搜救隊今天繼續擴大搜救範圍，對受災民眾開展搜救和救助工作。隨著此前因山體滑坡中斷的部分道路逐步恢復通行，救援人員將進入相關受災地區開展救援。有關部門同時會加強協調，確保救援力量覆蓋所有受災地區。（CCTV國際時訊）
-
----
-
-### 2026-08-16 17:39:23  #國際
-
-【衝突爆發以來，特朗普政府對伊朗的戰略訴求已經大幅縮減】特朗普政府在應對持續六個月的伊朗戰爭困境時，其戰略目標正經歷顯著縮減與重排。戰爭初期，美方曾設定包括迫使伊朗徹底投降、實現政權更迭、阻止其擁核以及切斷其對中東代理人支援等一系列絕對化目標。然而，隨著戰事延宕，美國政府正逐漸接受更低的預期。當地時間週四，美國副總統J·D·萬斯在節目中明確提出了當前戰爭的兩大核心目標，其優先順序排序引發外界高度關注。萬斯表示，首要目標是確保海灣國家繼續向全球輸送油氣以維持能源價格穩定，即“讓全美各地的民眾都能用上價格低廉的石油和天然氣”；而“確保伊朗永遠無法獲得核武器”則被列為第二目標。這一表態與美方一貫將“防核擴散”置於首位的立場形成鮮明反差。儘管白宮新聞秘書卡羅琳·利維特隨後試圖“找補”，重申這兩個目標對總統而言“同等重要”，但將國內油氣價格納入核心戰略考量，並置於防核議題之上，仍標誌著美國對伊政策出現重大轉向。分析認為，這一最新表態進一步表明，在戰爭陷入僵局之際，美國政府正準備大幅降低其戰略目標預期。
-
----
-
-### 2026-08-16 17:36:33  #國際
-
-【瞄準“多元人口” 美民主黨敲定初選“早鳥州”】美國民主黨全國委員會15日在得克薩斯州表決透過2028年總統選舉黨內初選“首發”日程，確定6個州為當年1月至2月舉行初選的“早鳥州”，主要瞄準了這些州選民中分量較重的少數族裔和工人群體，指望靠民主黨的“多元化”策略打響第一炮，從而鞏固並擴大其基本盤，爭取贏得兩年多後的總統選舉。按照新的初選日程，民主黨衝刺2028年大選的初選戰將在南卡羅來納州開鑼：2028年1月22日，位於東南部的南卡州將率先舉行民主黨初選投票、確認其支援哪位總統候選人。緊隨其後的是位於西部的內華達州，2月1日舉行初選。其餘“早鳥州”依次為新罕布什爾州、新墨西哥州、密歇根州和弗吉尼亞州，初選日程均集中於2月，即“超級星期二”之前。其他州3月及之後舉行初選。（央視新聞）
-
----
-
-### 2026-08-16 17:34:29  #國際
-
-【日媒：高市政權迴避歷史反省 要警惕其“迴歸戰前”傾向】日本多家媒體16日發表社論，批評高市早苗政權在日本宣佈無條件投降81週年之際迴避歷史反省、淡化戰爭責任，並對日本政壇和安全政策日益顯現的“迴歸戰前”傾向表示警惕。15日，高市在日本政府舉辦的“全國戰歿者追悼儀式”上致辭時，隻字未提日本當年對鄰國發動的侵略戰爭及由此造成的深重災難，也沒有為日本的侵略歷史道歉，致辭中同樣沒有出現“反省”一詞。對此，日本《每日新聞》社論指出，如果不能正視戰爭教訓，日本作為和平國家的信譽將受到損害。（新華社）
-
----
-
-### 2026-08-16 17:32:36  #國際
-
-【美媒曝美伊談判內幕：美方曾繞開伊朗官方啟用伊拉克庫區領導人作為秘密聯絡人】據媒體16日報道，在今年5月的美伊停戰談判期間，美國特朗普政府曾繞過伊朗官方談判代表，透過伊拉克庫爾德自治區（庫區）總統巴爾扎尼與伊朗伊斯蘭革命衛隊建立秘密聯絡渠道。這一罕見的外交舉動凸顯了美伊雙方在談判中面臨的信任危機與溝通障礙。報道援引多名知情人士的訊息稱，今年5月初，白宮認為與伊朗議長加利巴夫和外長阿拉格齊的談判陷入僵局，懷疑伊朗官方代表並未獲得最終決策權。為確認伊朗伊斯蘭革命衛隊的真實立場，時任美國國家情報總監加巴德於5月10日左右致電巴爾扎尼，請求其協助直接聯絡伊朗伊斯蘭革命衛隊指揮官瓦希迪。巴爾扎尼隨後在伊拉克庫區首府埃爾比勒的辦公室內，透過加密電話與瓦希迪進行了直接溝通。瓦希迪向巴爾扎尼明確表示，伊斯蘭革命衛隊完全支援伊朗官方談判代表的立場，傾向於透過談判解決危機。巴爾扎尼隨即向美方反饋了這一資訊。隨後，美方曾提議在埃爾比勒舉行美伊高階別秘密會談，但伊方出於對以色列情報機構可能實施暗殺的擔憂，最終未能成行。
-
----
-
-### 2026-08-16 17:32:10  #MKT News
-
-Russian Defence Ministry said its forces have captured the villages of Pershomarivka in Ukraine's Donetsk region and Kudyivka in Kharkiv region.
-
----
-
-### 2026-08-16 17:31:47  #MKT News #XAUUSD #Impact bullish #WTI
-
-Ukrainian military said it struck a missile-fuel production facility in Russia's Rostov region.
-
----
-
-### 2026-08-16 17:31:36  #國際
-
-烏克蘭軍方稱，烏克蘭襲擊了俄羅斯羅斯托夫州的一個導彈燃料生產設施。
-
----
-
-### 2026-08-16 17:31:14  #國際
-
-阿拉伯媒體：大多數船隻在透過霍爾木茲海峽時遵守了伊朗航道。
-
----
-
-### 2026-08-16 17:27:17  #其他
-
-【上海港首次開展海上錨地雙船雙燃料加註作業】地處東海海域的綠華山錨地，是途經上海港國際航行船舶避風減載、待泊補給、半潛作業的重要水域，如今這裡清潔燃料補給功能日趨成熟。8月16日清晨，“海港未來”號LNG加註船、“海港致遠”號甲醇加註船在綠華山錨地相繼完成燃料加註作業。其中，“海港致遠”輪為馬耳他籍“達飛歐斯米姆”輪加註國產生物質甲醇；“海港未來”輪為新加坡籍“騰城”輪加註液化天然氣。本次雙船加註從8月15日延續至8月16日，這是上海港首次在海上錨地同步為國際航行船舶大規模加註兩類綠色燃料，標誌著上海港海上能源加註作業具備了多元化、規模化供應能力。（一財）
-
----
-
-### 2026-08-16 17:23:39  #MKT News #S&P500 #Impact bullish #Brent #Impact bearish #XAUUSD
-
-Saudi outlet Alhadath cites sources saying Trump envoy Jared Kushner will meet Hamas representatives, with mediators from Egypt, Turkey and Qatar present, to try to prevent collapse of the Gaza agreement.
-
----
-
-### 2026-08-16 17:23:21  #MKT News
-
-EMSC: A M4.2 earthquake struck the Flores region of Indonesia; depth 5 km.
-
----
-
-### 2026-08-16 17:22:46  #國際
-
-【美媒：中國成為全球企業“繞不開的技術和創新來源”】美國消費者新聞與商業頻道（CNBC）近日刊文稱，中國企業正在成為全球企業“繞不開的技術和創新來源”。分析人士認為，儘管美國持續加碼對華科技限制，但從人工智慧到電動車電池，中國技術仍日益融入一些全球大型企業的業務。分析認為，中國技術崛起正在從低成本製造轉向依靠規模優勢、深厚的供應鏈能力以及快速創新能力，全球產業鏈與創新格局正發生結構性變化。（新華社）
-
----
-
-### 2026-08-16 17:18:31  #MKT News #Brent #Impact bullish #WTI
-
-Saudi broadcaster Al Arabiya reported Yemen's military said Houthi forces fired six ballistic missiles and six drones at Mokha; air defenses shot down two drones.
-
----
-
-### 2026-08-16 17:17:02  #國際
-
-俄羅斯國防部：俄羅斯軍隊佔領了哈爾科夫州的庫季耶夫卡和頓涅茨克共和國的佩爾紹馬裡耶夫卡。
-
----
-
-### 2026-08-16 17:15:59  #國際
-
-過去24小時內，俄羅斯防空系統共擊落1478架無人機，創下歷史新高。
-
----
-
-### 2026-08-16 17:15:29  #公司 #市場
-
-【利潤暴增715倍，股民卻虧麻了？ 江波龍560元定增埋雷，21家機構成“高位接盤俠”】儲存龍頭江波龍釋出“炸裂”業績。今年上半年歸母淨利105.77億元，同比增長約715倍，達到了業績預告的上線數值。而曾衝高到749.88元高點的江波龍股價，在半年報釋出後卻跌跌不休，至8月14日收盤，報收於406.45元。參與江波龍37億元定增的21家機構以及自然人投資者，560元/股買入，已成高位接盤俠，目前整體浮虧已超10億元。而在此次高溢價定增推進之前，江波龍實控人關聯主體及核心高管已透過多輪減持完成超50億元高位套現。江波龍也因此被市場詬病，被指“吃相難看”。 《BUG》欄目詢問了江波龍方面，工作人員表示，公司能決定的更多還是自身經營的因素，無法對股價發表評論。 江波龍已宣佈擬以4億元-8億元回購股份，用於股權激勵或員工持股計劃。但為了回購股票的資金，江波龍居然開始向銀行借錢。有投資者喊話江波龍應回購股份登出，但未獲回應。 江波龍經營淨現金流已由正傳負，但仍在大舉囤貨，分析人士認為，如果週期反轉，對江波龍的影響將是災難性的。
 
 ---

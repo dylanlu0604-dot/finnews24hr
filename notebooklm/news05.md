@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 01:02:17_
-_本檔包含 3150 則快訊，約 604738 字_
+_更新時間：2026-08-18 01:39:21_
+_本檔包含 3143 則快訊，約 605277 字_
+
+---
+
+### 2026-08-12 07:56:24  #市場 #國際
+
+10年期日本國債收益率上漲1.5個基點，至2.820%。
+
+---
+
+### 2026-08-12 07:56:11  #宏觀 #觀點
+
+【住房納入大宗消費範疇 釋放內需增長動能 對於後市走勢機構普遍持向好預期】隨著國務院批覆的《擴大消費“十五五”規劃》將住房消費納入大宗耐用商品消費範疇並置於首位，房地產的政策定位正加速向“防風險與促消費並重”轉變。近日，多地密集出臺或儲備樓市新政，持續、多方位促進住房消費潛力釋放。當前，全國樓市政策最佳化已形成多點發力、全域推進的態勢。除了北京、濱州等多地，多個熱點城市正謀劃出臺住房消費提振舉措。成都正從優供給、增需求、去庫存、穩預期方面研究政策；武漢擬從一二手房市場聯動、商辦去化、高品質住房供應等方面完善政策工具箱；南京將深入開展住房消費“以舊換新”活動，助力改善型住房需求有序釋放。對於後市走勢，機構普遍持向好預期。中泰證券認為，購房支援政策持續最佳化，有助於穩定市場預期。隨著政策效果進一步釋放及市場預期逐步改善，銷售端有望迎來邊際改善。（經參報）
+
+---
+
+### 2026-08-12 07:56:07  #MKT News
+
+Japan broad money (M2) YoY July 4.4% vs 4.5% prior.
+
+---
+
+### 2026-08-12 07:56:01  #MKT News #Economic Calendar #Important
+
+Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%
+
+---
+
+### 2026-08-12 07:54:51  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen.
+
+---
+
+### 2026-08-12 07:54:26  #國際
+
+【美媒：美軍2025年對葉門的打擊致數百平民傷亡 】據美國《華爾街日報》11日報道，美國國防部內部調查顯示，美軍2025年對葉門發動的一系列打擊行動造成數百名平民傷亡。報道說，五角大樓當天向美國國會提交了一份長達12頁的非機密評估報告，概述了五角大樓對美軍2025年在全球所有軍事行動中造成平民傷亡情況的評估。負責中東地區美軍行動的美軍中央司令部在報告中認定，美軍2025年4月對葉門進行的3次大規模打擊行動共造成平民153人死亡和243人受傷。報告同時說，中央司令部正在審查針對胡塞武裝行動期間可能導致平民傷亡的另外15起事件。報道稱，這份報告標誌著特朗普政府首次正式承認其空襲葉門胡塞武裝的行動所造成的平民傷亡規模。
+
+---
+
+### 2026-08-12 07:53:20  #市場 #央行
+
+【機構普遍認為逆回購“零操作”不改變流動性合理充裕格局 超長債或進入高波動階段】中國央行8月11日未開展7天期逆回購操作，受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。展望後市，機構普遍認為，逆回購“零操作”不會改變下半年流動性合理充裕的總體環境。東方金誠首席宏觀分析師王青表示，此次“零操作”主要反映出金融機構申報需求不足，並非央行主動收緊流動性。 王青預計，隨著稅期來臨和政府債券發行節奏加快，金融機構融資需求將逐步回升，央行也將恢復7天期逆回購操作。8月末資金需求增加時，隔夜逆回購可能更多發揮調節作用。對於超長債，浙商銀行固定收益團隊認為，收益率下行趨勢尚未遭到破壞，收益率曲線仍有進一步壓平的空間。但短端收益率下行放緩，意味著資金價格下限逐漸清晰，長短端同步走強的空間已經收窄。（上證報）
+
+---
+
+### 2026-08-12 07:52:30  #MKT News #Market Regions #Japan & APAC
+
+Japan July M3 money supply YoY 1.4% (prior 1.5%).
+
+---
+
+### 2026-08-12 07:52:24  #MKT News #Economic Calendar #Important
+
+Japan | M3 Money Supply (YoY) (Jul) | actual 1.4% | previous 1.50%
+
+---
+
+### 2026-08-12 07:52:22  #MKT News
+
+Japan M2 money supply YoY +2.2% in July; prior +2.20%.
+
+---
+
+### 2026-08-12 07:52:19  #央行 #公司 #市場
+
+【華西證券：金價有望企穩回升，關注黃金飾品板塊修復機會】華西證券研報表示，短期金價反彈由預期修正與情緒驅動，但中長期支撐邏輯依然穩固——央行購金潮、去美元化趨勢及美債實際利率高位回落預期構成金價"底線支撐"，渣打銀行預計金價有望重新向5000美元關口邁進。金價企穩回升有望逐步修復黃金飾品板塊基本面與估值：上半年金價劇烈波動導致Q2國內金飾需求僅50噸（同比-28%），消費者"買漲不買跌"心態抑制終端動銷，相關龍頭公司Q2不同程度終端需求受到壓制，但隨著金價反彈企穩，預期前期被壓制的消費需求有望逐步釋放，看好龍頭公司下半年業績企穩回升，建議重點關注龍頭個股股價修復行情。
+
+---
+
+### 2026-08-12 07:52:16  #MKT News #Economic Calendar #Important
+
+Japan | M2 Money Supply (YoY) (Jul) | actual 2.2% | previous 2.20%
+
+---
+
+### 2026-08-12 07:51:52  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's 5-year government bond yield rose 1.5 bps to 2.10%, a record high.
+
+---
+
+### 2026-08-12 07:51:39  #市場 #國際
+
+5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。
+
+---
+
+### 2026-08-12 07:51:12  #經濟數據 #日本
+
+日本7月M2貨幣供應同比增長2.2%。
+
+---
+
+### 2026-08-12 07:51:10  #經濟數據 #美國
+
+【美國7月CPI即將揭曉 美聯儲加息預期再迎考驗】北京時間8月12日20時30分，美國勞工部將公佈7月消費者價格指數（CPI）。市場預計，美國整體CPI和核心CPI同比增速均將繼續回落，但環比增速可能由負轉正。市場人士認為，就業降溫降低了美聯儲加息的緊迫性，但美國失業率仍處於低位，能源價格和人工智慧投資帶來的通脹風險也未完全消退。相較於單月就業人數的變化，未來兩份通脹報告以及美聯儲主席凱文·沃什的政策風格可能更直接影響美聯儲9月的政策選擇。
+
+---
+
+### 2026-08-12 07:49:58  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish #S&P500
+
+【Huatai Securities: lithium peak season may support commodity and equity recovery】Huatai Securities said a prior drag on lithium prices reflected hidden inventories becoming visible and uncertainty about next-year demand. It expects H2 2026 cancellation of export tax rebates to front‑load demand, and seasonal peak demand to support a lithium-price rebound. Under a neutral 2027 scenario (global EV sales +10–15% YoY; energy‑storage cell shipments +30–40% YoY), global lithium carbonate supply‑demand is likely to remain tight and roughly balanced. The firm notes recent share-price pullbacks may already embed pessimistic lithium-price expectations and flags potential seasonal recovery opportunities in commodities and equities.
 
 ---
 
@@ -18882,149 +18984,5 @@ A minister said the Chilean government will recapitalize 100% of state-owned cop
 ### 2026-08-11 01:39:23  #MKT News
 
 【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations.
-
----
-
-### 2026-08-11 01:38:53  #Trading Economics #Markets #commodity #Importance 0
-
-Gasoline is up by 5% — Gasoline increased 5% to 3.1346 USD/Gal
-
----
-
-### 2026-08-11 01:37:48  #其他
-
-OpenAI 就人工智慧基礎設施事宜致函得克薩斯州州長，闡述對負責任開發的相關承諾。
-
----
-
-### 2026-08-11 01:35:58  #其他
-
-【南非多地遭遇持續強降雪 交通嚴重受阻】南非多地10日持續遭遇強降雪、凍雨和大風天氣，誇祖魯-納塔爾省山區積雪嚴重，部分道路被迫關閉，大量車輛滯留，交通運輸受到影響。南非道路交通管理部門當天警告，未來幾天部分高海拔地區仍將面臨低溫、降雪天氣，民眾非必要請勿前往受影響地區。有關部門已啟動應急響應，開展道路除冰和救援工作。 (央視新聞)
-
----
-
-### 2026-08-11 01:35:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose 6.0% intraday to $80.93/bbl.
-
----
-
-### 2026-08-11 01:34:51  #其他
-
-巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。
-
----
-
-### 2026-08-11 01:29:43  #MKT News #Important #Commodities #Energy #Brent
-
-Barclays maintains Brent price forecasts at $96/bbl for 2026 and $85/bbl for 2027.
-
----
-
-### 2026-08-11 01:28:43  #其他
-
-美軍非洲司令部證實8月9日一架軍機在吉布提墜毀。
-
----
-
-### 2026-08-11 01:21:54  #公司 #國際
-
-【比特幣資金流入創四個月新高，駭客事件動搖持有者信心】美國上市的比特幣交易所交易基金（ETFs）錄得自4月以來最強勁的單週資金流入，上週吸引超過8.5億美元資金。此次資金流入激增，正值加拿大公司Coinkite製造的Coldcard錢包被曝存在安全漏洞、約1.3億美元比特幣被盜事件被披露之後。這起駭客事件促使部分分析師認為，投資者可能正轉向華爾街受監管的加密產品（如現貨比特幣ETF），將其視為更具吸引力的選擇。
-
----
-
-### 2026-08-11 01:21:16  #MKT News #Important #Market Themes #AI Revolution
-
-OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work.
-
----
-
-### 2026-08-11 01:18:40  #其他
-
-OpenAI：我們正在擴充套件我們的網路安全計劃 Daybreak，並推出 GPT-5.6-Cyber，這是一個專為高階授權網路安全工作設計的新模型。
-
----
-
-### 2026-08-11 01:16:35  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-11 01:16:10  #央行 #國際
-
-週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。
-
----
-
-### 2026-08-11 01:16:06  #國際
-
-伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。
-
----
-
-### 2026-08-11 01:16:02  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
-
-The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes.
-
----
-
-### 2026-08-11 01:14:50  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump extends Jones Act waiver 90 days, narrows scope to energy shipments】President Trump extended the Jones Act waiver allowing foreign vessels to move oil and other goods in U.S. waters for 90 days, but narrowed the exemption to energy cargoes after Iran-related disruptions to crude flows pushed fuel costs higher. The new waiver targets gasoline, jet fuel, crude, napatha, LNG, soybean oil and fertilizer. The Pentagon must consult the U.S. Maritime Administration before approving waivers for individual voyages. The White House said the move secures supplies for the military and key industries and increases domestic transport of gasoline, diesel and jet fuel; U.S. shipbuilders and some members of Congress say the waiver weakens protections for the domestic shipping industry.
-
----
-
-### 2026-08-11 01:13:31  #MKT News
-
-【Colombia earthquake kills 77; government declares national disaster】An earthquake on the 10th killed 77 people in Colombia; the government declared a "state of national disaster". Valle del Cauca department reported 27 fatalities.
-
----
-
-### 2026-08-11 01:11:05  #MKT News
-
-White House official said President TRUMP extended a waiver to the Jones Act but imposed additional restrictions.
-
----
-
-### 2026-08-11 01:10:18  #國際
-
-白宮官員：特朗普延長《瓊斯法案》豁免並附加部分限制條件。
-
----
-
-### 2026-08-11 01:04:59  #國際
-
-美國得州州長Abbott：OpenAI承諾將遵守本地資料中心標準。
-
----
-
-### 2026-08-11 01:04:49  #其他
-
-【哥倫比亞因地震進入災難狀態】因受8月10日地震影響，哥倫比亞政府宣佈進入“國家災難狀態”。（CCTV國際時訊）
-
----
-
-### 2026-08-11 01:03:16  #MKT News #Important #Market Themes #The Trump Trade #WTI #Brent
-
-U.S. President Trump said he will extend and narrow Jones Act transportation waivers, limiting them to energy commodities and fertilizer.
-
----
-
-### 2026-08-11 01:02:55  #國際
-
-美國五角大樓和海事機構將就個案救濟進行磋商。
-
----
-
-### 2026-08-11 01:02:34  #國際
-
-特朗普將航運豁免範圍限制在能源大宗商品和化肥領域。
-
----
-
-### 2026-08-11 01:02:22  #其他
-
-《瓊斯法案》豁免延長90天，重點轉向能源領域。
 
 ---
