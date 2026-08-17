@@ -1,7 +1,41 @@
 {
   "date": "2026-08-17",
-  "count": 2426,
+  "count": 2430,
   "items": [
+    {
+      "id": "mkt:01a01024-1d84-7aab-9064-a1ceb9eebd0c",
+      "time": "2026-08-17 22:33:17",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Xiyin plans to seek a valuation of up to $27 bln in a Hong Kong IPO."
+    },
+    {
+      "id": "5044531",
+      "time": "2026-08-17 22:32:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：據訊息稱希音（SHEIN） IPO 目標估值最高達 270 億美元。"
+    },
+    {
+      "id": "mkt:01a01023-3364-7aab-9064-9a04469268e8",
+      "time": "2026-08-17 22:32:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House Speaker Johnson said no illegal immigrants have been permitted to enter the country for 15 consecutive months and credited Republican policies with restoring security and stability."
+    },
+    {
+      "id": "mkt:01a01022-3b17-7aab-9064-965569efd40e",
+      "time": "2026-08-17 22:31:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says secret channels with Iran's Revolutionary Guard open; IRGC calls claim a 'hallucination'】On the 17th, US President Trump said secret communications between US officials and Iran's Islamic Revolutionary Guard Corps (IRGC) remain open and urged Iran to \"raise the white flag and surrender.\" He told Fox News the private channel persists despite Iran's public confrontational posture, said his approach is unrelated to the US midterm elections, and added \"I have no timetable, I'm not in a hurry.\" The IRGC rejected the claim as a \"hallucination,\" saying its officials have not held secret talks and calling Trump's statements a \"lie\" born of \"war failures and despair.\""
+    },
     {
       "id": "5044530",
       "time": "2026-08-17 22:29:27",
