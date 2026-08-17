@@ -1,7 +1,57 @@
 {
   "date": "2026-08-18",
-  "count": 280,
+  "count": 286,
   "items": [
+    {
+      "id": "mkt:01a0119e-77d5-7aab-9069-cc4960933710",
+      "time": "2026-08-18 05:26:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge blocked the Trump administration’s plan to relocate the new FBI headquarters from Maryland to Washington, D.C."
+    },
+    {
+      "id": "5044776",
+      "time": "2026-08-18 05:26:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官阻止特朗普政府將聯邦調查局新總部選址從馬里蘭州遷至華盛頓特區的計劃。"
+    },
+    {
+      "id": "5044775",
+      "time": "2026-08-18 05:25:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震已致6438人死亡】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯在社交媒體發文稱，在6月24日地震中遇難的人數已升至6438人。羅德里格斯在社交媒體上釋出的訊息顯示，已有6462人獲救，超過8.6萬人曾在醫院接受治療。6月24日晚，委內瑞拉發生百餘年來最強地震，一分鐘內出現兩次7級以上強震。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a0119c-f7fc-7aab-9069-c520afde5b83",
+      "time": "2026-08-18 05:24:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A top Petrobras executive said oil recovered from Amazon-region drilling appears to be of high quality but requires further analysis. The company has identified locations for the next three wells in the Amazon region."
+    },
+    {
+      "id": "5044774",
+      "time": "2026-08-18 05:23:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "美加貿易談判因汽車關稅問題陷入僵局。"
+    },
+    {
+      "id": "5044773",
+      "time": "2026-08-18 05:23:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "勘探生產部門主管表示，巴西國家石油公司（Petrobras）已確定亞馬遜河口後續三口鑽井的選址。"
+    },
     {
       "id": "5044772",
       "time": "2026-08-18 05:22:57",
