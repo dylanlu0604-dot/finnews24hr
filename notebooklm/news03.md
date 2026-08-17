@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-17 23:34:21_
-_本檔包含 3135 則快訊，約 604696 字_
+_更新時間：2026-08-17 23:56:07_
+_本檔包含 3146 則快訊，約 604545 字_
+
+---
+
+### 2026-08-14 11:42:00  #MKT News #Important
+
+JD.com (09618.HK) Hong Kong-listed shares continued to weaken, down more than 10% before noon.
+
+---
+
+### 2026-08-14 11:41:51  #國際
+
+印尼總統普拉博沃：目標是最終只保留300家國有企業。
+
+---
+
+### 2026-08-14 11:41:28  #公司
+
+【何小鵬稱自動駕駛新強標更關注短】“小鵬是動力電池新國標、L3/L4高階自動駕駛強制國標的參與者和制定者，小鵬和其他造車新勢力在2020年左右，已將高速輔助駕駛帶到了中國，甚至走向全球。”日前，小鵬集團董事長何小鵬在接受採訪時如是說道。 7月，被業內視為“史上最嚴”的電池新國標正式實施；與此同時，國內首部針對L3、L4級別自動駕駛的強制性國標也正式釋出，汽車安全門檻進一步得到提升。 何小鵬談到，越來越多的車企將輔助駕駛作為汽車標配，因為中國和全球消費者都對智慧駕駛有需求，但很多車主不一定能夠區分自動駕駛和輔助駕駛，以及智慧駕駛功能的強弱，這個時候就需要制定一個更全面更體系化的強標。“這個標準（強標）不僅確保車企有長板，更重要的是關注車企在自動駕駛領域的短板，以及在體系規劃裡將中板補紮實。小鵬很早就開始研究自動駕駛、‘三電’強標，輔助駕駛在高速的萬公里安全接管和碰撞率都較低，所以我認為越好的強標越能夠讓廠商跟隨強標做出更安全的車。”（第一財經）
+
+---
+
+### 2026-08-14 11:38:37  #其他
+
+京東港股跌幅擴大至 10%。
+
+---
+
+### 2026-08-14 11:37:41  #國際
+
+印尼總統普拉博沃：並非反對市場，但市場可能被操縱。
+
+---
+
+### 2026-08-14 11:37:04  #觀點
+
+摩根大通將思科目標股價從145美元上調至150美元。
+
+---
+
+### 2026-08-14 11:36:21  #國際
+
+印尼總統：所有補貼商品將透過村級合作社進行分配。
+
+---
+
+### 2026-08-14 11:35:39  #公司 #市場
+
+朝日集團股價扭轉跌勢，一度上漲2.2%。
+
+---
+
+### 2026-08-14 11:34:50  #MKT News #Market Themes #Chip Wars #SSE Composite #Impact bearish #SZSE Component #Impact bullish
+
+【A-shares midday: ChiNext up 0.65%; CPO and fiber-optic sectors lead gains】Mainland Chinese shares diverged in the morning session. By the midday close the ChiNext Index was up 0.65% after intraday gains exceeding 1%; the Shanghai Composite fell 0.21% after testing the 3,900 level; the Shenzhen Composite Index rose 0.08%. Combined turnover on both boards exceeded 1.3 trillion yuan. More than 3,100 stocks declined and several high-flyers fell. Compute-hardware-related sectors led gains—fiber-optic, CPO, semiconductors, lithography machines and telecom equipment—while food & beverage saw patchy volatility, pharmaceuticals were active, rare-earth permanent magnets spiked then pulled back, and power utilities and cinema chains weakened.
+
+---
+
+### 2026-08-14 11:34:22  #國際
+
+印尼總統：我們已經建立並運營了1萬個鄉村合作社，目標是在年底前達到3萬個。
+
+---
+
+### 2026-08-14 11:34:01  #MKT News
+
+【Policies fail to cool hot property market; South Korea's Lee approval hits record low】South Korea's Lee's approval rating fell to a record low of 44% in a Gallup Korea poll released Friday, down 7 percentage points from July, reflecting growing public discontent with housing policy that has not cooled an overheated property market. Support among voters in their 20s dropped to 30%. The ruling Democratic Party's support slipped 3 points to 41%, while the main opposition People Power Party rose to 25% from 23%. Proposed property tax reforms have also raised market concern.
+
+---
+
+### 2026-08-14 11:33:13  #公司 #市場
+
+【長鑫科技旗下公司近期接連增資】據媒體報道，截至8月13日收盤，長鑫科技市值已超越騰訊控股。8月14日早盤，長鑫科技市值約等於工商銀行和中國平安的市值。 天眼查App顯示，長鑫科技集團股份有限公司成立於2016年6月，法定代表人為趙綸，註冊資本約601.93億人民幣，經營範圍包括積體電路設計、製造、加工等。值得一提的是，近期，該公司旗下長鑫儲存技術有限公司、長鑫芯聚股權投資（安徽）有限公司均發生增資。
+
+---
+
+### 2026-08-14 11:31:56  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning close】2-year bond futures (TS) main contract unchanged; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) down 0.05% at the morning session close.
+
+---
+
+### 2026-08-14 11:31:44  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bearish
+
+At the morning close, China's main futures contracts were mostly higher. Rapeseed oil and lithium carbonate rose over 2%. Industrial silicon, Soybean No.1, low‑sulfur fuel oil (LU), fuel oil, live hogs, synthetic rubber, polysilicon and coking coal gained more than 1%. On the downside, palladium fell over 3%; SHFE silver and platinum dropped more than 2%; stainless steel (SS) and SHFE gold declined about 2%.
+
+---
+
+### 2026-08-14 11:31:40  #公司 #市場
+
+【午評：滬指衝高回落跌0.21%，電子化學品、CPO、非金屬材料板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.21%，深證成指漲0.08%，創業板指漲0.65%，北證50跌0.84%，科創50指數跌0.57%。全市場成交額13964億元，較上日縮量2034億元，全市場超3400只個股下跌。板塊題材上，電子化學品、非金屬材料、CPO、光纖概念、元件板塊漲幅居前；影視院線、電力、文化傳媒、遊戲、乳業板塊跌幅居前。盤面上，電子化學品高開高走，中石科技20cm漲停，思泉新材、海星股份、龍辰科技、廣鋼氣體、中巨芯漲幅居前。CPO板塊表現活躍，阿萊德、共進股份、天洋新材漲停，金戈新材、富信科技、麥捷科技漲幅居前。稀土永磁板塊衝高回落，金田股份漲停，中國稀土、華宏科技、三祥新材漲幅居前。影視院線板塊震盪走低，中廣天擇、儒意電影、華智數媒跌幅居前。電力板塊大幅下挫，梅雁吉祥、華銀電力盤中一度逼近跌停，京能電力、粵電力A、豫能控股均大幅下跌。
+
+---
+
+### 2026-08-14 11:31:31  #其他
+
+國家能源局釋出2026年上半年光伏發電建設情況。
+
+---
+
+### 2026-08-14 11:31:30  #MKT News #CSI300 #Impact bearish
+
+【Index futures morning session close】Chinese equity index futures morning session close: CSI 300 (IF) front contract fell 0.49%; SSE 50 (IH) fell 0.66%; CSI 500 (IC) fell 0.62%; CSI 1000 (IM) fell 0.22%.
+
+---
+
+### 2026-08-14 11:30:04  #市場
+
+【商品期貨早盤收盤】鈀連續跌3.28%，碳酸鋰連續漲2.94%，白銀連續跌2.37%，鉑連續跌2.23%，菜油連續漲2.18%。
+
+---
+
+### 2026-08-14 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.06%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約基本持平。
+
+---
+
+### 2026-08-14 11:30:02  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續跌0.20%， 滬深300指數期貨連續跌0.47%， 中證500指數期貨連續跌0.66%， 上證50指數期貨連續跌0.64%。
+
+---
+
+### 2026-08-14 11:29:46  #公司
+
+【原力無限完成近10億元融資】8月14日，原力無限（INFIFORCE）宣佈，近期已完成A輪及A+輪融資，融資金額近10億元人民幣。本階段融資由敦鴻資產及頭部國資平臺領投，浙大科創集團、鹽都國控、麗水市國資公司等產業資本、頭部社會資本跟投，創世夥伴創投CCV等老股東持續加註。本輪融資資金將主要投入三個方向：具身大腦AtomBrain及因果世界模型研發、全棧AI Infra DataGrid持續升級，以及多形態機器人本體在真實產業場景中的規模化交付與驗證。
+
+---
+
+### 2026-08-14 11:29:07  #國際
+
+普拉博沃：印尼必須解決效率低下的官僚機構問題。
+
+---
+
+### 2026-08-14 11:27:04  #公司
+
+阿布扎比港口集團：連續性措施包括啟用新建陸橋與空橋，並新建額外倉儲設施。
+
+---
+
+### 2026-08-14 11:26:36  #公司
+
+阿布扎比港口集團：連續性運營措施包括將貨運業務和支線駁運服務改道至富查伊拉碼頭及豪爾費坎港。
+
+---
+
+### 2026-08-14 11:26:19  #公司
+
+阿布扎比港口集團：2026年第二季度，公司持續強化供應鏈韌性。
+
+---
+
+### 2026-08-14 11:25:56  #公司 #觀點
+
+【中泰證券：從營養補充到功能精準化 乳業結構性增長新引擎】中泰證券釋出研報稱，隨著乳企技術不斷迭代成熟，高蛋白、無乳糖等功能化新品湧現，複合功能產品也愈加豐富，功能性乳品有望持續保持高於大盤的增速。對於能夠開拓場景、擴充套件觸達人群、以品質驅動復購的乳企或將受益，建議重點關注伊利股份(600887.SH)、蒙牛乳業(02319)、新乳業(002946.SZ)等乳企。
 
 ---
 
@@ -18791,95 +18947,5 @@ Hong Kong non-ferrous metals sector slid; Chalco (02600.HK) fell more than 5%, G
 ### 2026-08-13 10:13:56  #央行 #美聯儲
 
 【沃什欲“手動降低”美聯儲透明度？華爾街警告：恐會付出代價！】在7月議息會議後的新聞釋出會上，沃什被問及刻意減少向市場發聲、特別是拒絕提供前瞻指引到底意欲何為。他回應稱，美聯儲不必始終成為市場關注的焦點，希望投資者能夠獨立於美聯儲的訊息進行交易，使得央行決策者能夠獲得有關美國經濟狀況的真實、未被“過濾”的訊號。
-
----
-
-### 2026-08-13 10:13:51  #其他
-
-【上海：推廣發放“算力券”“模型券”“語料券”，降低公共資料、算力、模型、語料等數字要素的使用成本】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，依法依規開展算力補貼，支援民營企業租用智算資源進行大模型研發訓練和應用，鼓勵高等院校、科研機構、國有企業使用包括民營企業在內的各類經營主體建設的資料儲存和算力資源。釋出公共資料開放清單並動態更新，支援民營企業對特定公共資料進行深度開發與場景化利用，推廣發放“算力券”“模型券”“語料券”，降低公共資料、算力、模型、語料等數字要素的使用成本。培育城市數字化轉型標杆企業和平臺企業，引導民營企業參與交通、物流、公共服務等領域數字化轉型專案建設和場景運營。鼓勵民營企業建設區塊鏈應用、機器人規模化應用等新型基礎設施示範專案。
-
----
-
-### 2026-08-13 10:13:11  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量1494億元。
-
----
-
-### 2026-08-13 10:13:06  #其他
-
-【上海：鼓勵民營企業進入虛擬電廠、車網互動、新型儲能等領域，對民間投資專案依法依規給予支援】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，聚焦低空基礎設施、內河航運、能源等重點領域，本市各級投資主管部門在專案審批（核准）過程中，需開展民間資本參與專案建設論證，按許可權稽核民間資本參與情況，鼓勵民間資本積極參與。鼓勵民營企業進入虛擬電廠、車網互動、新型儲能等領域，對民間投資專案依法依規給予支援。鼓勵民營物流企業完善物流網路設施建設，加快智慧化綠色化轉型，支援透過合作、合資、租賃、委託經營等多元化模式，參與國有企業和集體經濟低效倉儲資源盤活。規範實施政府和社會資本合作新機制，根據國家支援民營企業參與的特許經營專案清單，嚴格特許經營方案稽核，對符合規定的專案加強管理服務。
-
----
-
-### 2026-08-13 10:12:34  #公司 #市場
-
-CPO概念股持續拉昇，天孚通訊、德科立漲超10%，共進股份此前漲停，炬光科技、華懋科技、東山精密、銳捷網路漲超5%。
-
----
-
-### 2026-08-13 10:12:29  #其他
-
-【滁河、沙潁河發生2026年第1號洪水】受降雨影響，長江下游支流滁河、淮河中游支流沙潁河分別發生2026年第1號洪水。長江下游支流滁河，湖北漢江支流清河，河南沙潁河及支流澧河、北汝河、沙河、潁河、康溝河、洪汝河支流洪河，新疆和田河支流玉龍喀什河等10條河流發生超警以上洪水，最大超警幅度0.05～3.68米。
-
----
-
-### 2026-08-13 10:12:16  #其他
-
-【上海：支援推薦民營企業參與國家審批（核准）的鐵路、核電等領域專案】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，支援推薦民營企業參與國家審批（核准）的鐵路、核電、水電、跨省跨區直流輸電通道、油氣管道、進口液化天然氣接收和儲運設施、供水等領域專案，提升民間資本在國家重大基礎設施專案建設的參與度。引導民營企業透過參與國家重大專案拓展能源、交通領域產業佈局，加強在高階能源裝備研發、製造等細分領域投資。
-
----
-
-### 2026-08-13 10:10:26  #MKT News
-
-Tianfu Communications A-shares rose 10.04% intraday to 264.14 yuan, with turnover topping 7.7 bln yuan.
-
----
-
-### 2026-08-13 10:10:25  #Trading Economics #Economy #Australia #Interest Rate #Importance 1
-
-Monetary Policy Remains Restrictive, Tightening Working: RBA Kent — Monetary policy in Australia remains “somewhat restrictive,” with earlier tightening continuing to weigh on demand and inflation, Reserve Bank Assistant Governor Christopher Kent said in a speech. He highlighted rising borrowing costs and mortgage payments, a softer housing market, and year-to-date appreciation of the Australian dollar as signs that aggregate demand growth is slowing. Kent stressed this moderation is “intended and needed” to return inflation to target. While estimates of the nominal neutral rate are imprecise, they suggest the current stance is restrictive. Yet financial conditions reflect more than policy alone: housing has weakened more than rate increases imply, amplifying restraint, while resilient global demand tied to AI investment and higher overseas yields could offset it. The central bank will continue weighing these cross-currents as it refines its outlook and guides future decisions.
-
----
-
-### 2026-08-13 10:09:59  #其他
-
-【AI版支付寶“阿寶”鴻蒙版逐步開放測試】8月13日，支付寶宣佈AI版支付寶“阿寶”鴻蒙版逐步開放測試。鴻蒙使用者在華為應用市場搜尋“支付寶”或“螞蟻阿寶”，將支付寶APP升級到12.12.16鴻蒙版本，即可在支付寶首頁右劃體驗“阿寶”。
-
----
-
-### 2026-08-13 10:09:33  #公司
-
-【中國RISC‑V SoC市場規模預計到2031年增長至864億美元】在第五屆滴水湖中國RISC-V產業論壇上，芯原股份董事長執行長戴偉民在致辭中表示，2025年全球RISC‑V SoC出貨量達約69億顆，預計到2031年將增長至約360億顆，複合增長率達31.7%，其市場規模將從940億美元增長至3130億美元，符合增長率達22.5%。中國RISC‑V SoC市場規模預計從2025年的約240億美元增至2031年的約864億美元。
-
----
-
-### 2026-08-13 10:09:25  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-AUS 10Y Yield Trades Near Multi-Week Highs — Australia’s 10-year government bond yield traded above 4.9%, remaining near multi-week highs as the Reserve Bank’s latest comments reinforced a hawkish policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday.
-
----
-
-### 2026-08-13 10:09:24  #市場
-
-【天孚通訊盤中漲超10%】A股天孚通訊盤中漲10.04%，現報264.14元。
-
----
-
-### 2026-08-13 10:09:20  #其他
-
-【哈爾濱警方徵集涉黑涉惡線索，軟暴力催收、惡意索賠等被列入新型黑惡違法犯罪線索】哈爾濱市公安局微信公眾號8月12日晚間釋出《關於徵集涉黑涉惡違法犯罪線索的通告》。其中，通告列出十類新型黑惡違法犯罪線索,軟暴力催收、惡意索賠、輿情敲詐、務工敲詐、碰瓷敲詐等被列入。此外，操縱控制未成年人實施違法犯罪線索、侵害未成年人權益等等被列入“其他涉黑涉惡違法犯罪線索”範圍。（澎湃新聞）
-
----
-
-### 2026-08-13 10:07:39  #公司
-
-【凡拓數創成立物理智慧科技公司 含AI業務】企查查APP顯示，近日，方寸先機物理智慧科技（廣州）有限公司成立，經營範圍包含智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由凡拓數創全資持股。
-
----
-
-### 2026-08-13 10:07:27  #MKT News #Important #Market Regions #Greater China
-
-【China's national carbon market cumulative transactions exceed 930 million tonnes】The Ministry of Ecology and Environment said at an Aug. 13 State Council press briefing that China’s national carbon emissions trading market had cumulative transactions of more than 930 million tonnes as of end‑July, supporting low‑cost industrial decarbonization and advancing the country's green transition.
 
 ---
