@@ -1,7 +1,33 @@
 {
   "date": "2026-08-18",
-  "count": 165,
+  "count": 167,
   "items": [
+    {
+      "id": "mkt:01a01100-7bd0-7aab-9068-2ec775b6feb5",
+      "time": "2026-08-18 02:33:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【U.S.-Iran tensions add risk; 30-year Treasury yield at 19-year high】U.S. Treasury yields rose across the curve on Monday as renewed U.S.-Iran uncertainty lifted oil prices. The 30-year Treasury yield, typically sensitive to geopolitical risk, rose over 4 bps to 5.311%, its highest since June 2007. The 10-year yield, a benchmark for mortgages and consumer loans, climbed just over 2 bps to 4.724%. The 2-year yield, which tracks Fed policy expectations, gained just over 1 bp to 4.182%. A 60-day window tied to a U.S.-Iran peace accord expired on Monday and Iran ruled out extending it, supporting crude. Investors await this week’s Fed minutes for further clues on policy and the rate path; the Fed voted 9-3 on July 29 to keep rates at 3.50–3.75%, with three members preferring a 25-bp hike."
+    },
+    {
+      "id": "mkt:01a010fe-44ab-7aab-9068-21ae707d89d6",
+      "time": "2026-08-18 02:31:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US crude futures settled at $84.50/bbl, up $2.10 or 2.55%."
+    },
     {
       "id": "mkt:01a010fe-1497-7aab-9068-1cc0a7984128",
       "time": "2026-08-18 02:31:21",

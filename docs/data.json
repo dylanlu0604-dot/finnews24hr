@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-18 02:31:53",
-  "count": 15272,
+  "updated": "2026-08-18 02:35:46",
+  "count": 15269,
   "items": [
+    {
+      "id": "mkt:01a01100-7bd0-7aab-9068-2ec775b6feb5",
+      "time": "2026-08-18 02:33:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【U.S.-Iran tensions add risk; 30-year Treasury yield at 19-year high】U.S. Treasury yields rose across the curve on Monday as renewed U.S.-Iran uncertainty lifted oil prices. The 30-year Treasury yield, typically sensitive to geopolitical risk, rose over 4 bps to 5.311%, its highest since June 2007. The 10-year yield, a benchmark for mortgages and consumer loans, climbed just over 2 bps to 4.724%. The 2-year yield, which tracks Fed policy expectations, gained just over 1 bp to 4.182%. A 60-day window tied to a U.S.-Iran peace accord expired on Monday and Iran ruled out extending it, supporting crude. Investors await this week’s Fed minutes for further clues on policy and the rate path; the Fed voted 9-3 on July 29 to keep rates at 3.50–3.75%, with three members preferring a 25-bp hike."
+    },
+    {
+      "id": "mkt:01a010fe-44ab-7aab-9068-21ae707d89d6",
+      "time": "2026-08-18 02:31:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US crude futures settled at $84.50/bbl, up $2.10 or 2.55%."
+    },
     {
       "id": "mkt:01a010fe-1497-7aab-9068-1cc0a7984128",
       "time": "2026-08-18 02:31:21",
@@ -139899,59 +139925,6 @@
         "Impact bullish"
       ],
       "text": "Shanghai Gold Exchange Gold T+D closed up 0.69% at 947.62 yuan/gram in Monday evening trade on Aug 10; Shanghai Gold Exchange Silver T+D closed up 1.79% at 15,830 yuan/kg."
-    },
-    {
-      "id": "mkt:019fecf4-bd6c-7aab-8fdf-2f52aafa1182",
-      "time": "2026-08-11 02:34:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver's intraday gain widened to 3.00%, trading at $65.44/oz."
-    },
-    {
-      "id": "5034504",
-      "time": "2026-08-11 02:34:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4380美元/盎司，日內漲0.90%。"
-    },
-    {
-      "id": "5034503",
-      "time": "2026-08-11 02:34:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報65.44美元/盎司。"
-    },
-    {
-      "id": "mkt:019fecf4-5a71-7aab-8fdf-234c6ec47f96",
-      "time": "2026-08-11 02:34:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $82.13/bbl, up $3.95 or 5.05%."
-    },
-    {
-      "id": "mkt:019fecf2-6583-7aab-8fdf-1e801342cc08",
-      "time": "2026-08-11 02:32:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose $15 intraday to trade above $4,380/oz, up 0.90% on the day."
     }
   ]
 }
