@@ -1,7 +1,107 @@
 {
   "date": "2026-08-17",
-  "count": 2405,
+  "count": 2416,
   "items": [
+    {
+      "id": "mkt:01a0101c-19d9-7aab-9064-7093da1898aa",
+      "time": "2026-08-17 22:24:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "NXE.TO",
+        "Impact bullish",
+        "BHP.N",
+        "Impact mixed"
+      ],
+      "text": "Refinitiv: Uranium miner NexGen Energy said it is sharing technical information with BHP (BHP.N) as it seeks to raise more than $1 billion to finance its Rook I project. BHP last year evaluated NexGen as a potential takeover target."
+    },
+    {
+      "id": "5044525",
+      "time": "2026-08-17 22:24:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報66.41美元/盎司。"
+    },
+    {
+      "id": "5044524",
+      "time": "2026-08-17 22:24:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。"
+    },
+    {
+      "id": "5044523",
+      "time": "2026-08-17 22:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多7月消費者價格環比下降0.09%。"
+    },
+    {
+      "id": "5044522",
+      "time": "2026-08-17 22:23:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4481.81美元/盎司。"
+    },
+    {
+      "id": "5044521",
+      "time": "2026-08-17 22:23:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4480美元/盎司，日內漲0.96%。"
+    },
+    {
+      "id": "5044520",
+      "time": "2026-08-17 22:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理與庫什納會晤 討論加沙下階段安排】當地時間17日，以色列總理內塔尼亞胡與來訪的美國總統特朗普的女婿庫什納、“和平委員會”高階官員會晤。據悉，雙方的會談持續了約4個小時。相關政治訊息人士稱，雙方重點討論了加沙下一階段的安排。雙方同意：在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）完全解除武裝之前，加沙地帶不會進行任何重建；哈馬斯必須在監督下交出所有武器並進行銷燬，同時以色列國防軍仍有行動自由，以持續進行針對性打擊，這是實現加沙地帶非軍事化的第一步；此外，在加沙實施必要衛生措施，以防止疫情蔓延。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0101a-bc4d-7aab-9064-6c48bc293c8e",
+      "time": "2026-08-17 22:23:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Jerusalem Post, citing sources, reported Israel and the US have agreed that in the initial phase of disarming Hamas, weapons surrendered by Hamas will be destroyed by an international stabilization force led by US Major General Jasper Jeffers, rather than handed to the proposed Palestinian technocratic government (NCAG)."
+    },
+    {
+      "id": "5044519",
+      "time": "2026-08-17 22:22:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬銀2610成交額已超330億元，盤面短線上漲，最新報16145元/千克，漲幅0.91%，日內增倉近5400手，量倉活躍度同步抬升。"
+    },
+    {
+      "id": "mkt:01a0101a-45d6-7aab-9064-613fe37e8331",
+      "time": "2026-08-17 22:22:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver futures 2610 trading value has exceeded CNY33.0 bln; the contract is trading at CNY16,145/kg, up 0.91% intraday. Open interest rose by nearly 5,400 contracts, with volume and OI climbing in tandem."
+    },
+    {
+      "id": "5044518",
+      "time": "2026-08-17 22:21:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4420美元/盎司，日內漲1.04%。"
+    },
     {
       "id": "5044517",
       "time": "2026-08-17 22:21:31",

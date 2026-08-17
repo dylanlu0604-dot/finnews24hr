@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-17 22:22:18",
+  "updated": "2026-08-17 22:26:20",
   "count": 15223,
   "items": [
+    {
+      "id": "mkt:01a0101c-19d9-7aab-9064-7093da1898aa",
+      "time": "2026-08-17 22:24:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "NXE.TO",
+        "Impact bullish",
+        "BHP.N",
+        "Impact mixed"
+      ],
+      "text": "Refinitiv: Uranium miner NexGen Energy said it is sharing technical information with BHP (BHP.N) as it seeks to raise more than $1 billion to finance its Rook I project. BHP last year evaluated NexGen as a potential takeover target."
+    },
+    {
+      "id": "5044525",
+      "time": "2026-08-17 22:24:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報66.41美元/盎司。"
+    },
+    {
+      "id": "5044524",
+      "time": "2026-08-17 22:24:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。"
+    },
+    {
+      "id": "5044523",
+      "time": "2026-08-17 22:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多7月消費者價格環比下降0.09%。"
+    },
+    {
+      "id": "5044522",
+      "time": "2026-08-17 22:23:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4481.81美元/盎司。"
+    },
+    {
+      "id": "5044521",
+      "time": "2026-08-17 22:23:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4480美元/盎司，日內漲0.96%。"
+    },
+    {
+      "id": "5044520",
+      "time": "2026-08-17 22:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理與庫什納會晤 討論加沙下階段安排】當地時間17日，以色列總理內塔尼亞胡與來訪的美國總統特朗普的女婿庫什納、“和平委員會”高階官員會晤。據悉，雙方的會談持續了約4個小時。相關政治訊息人士稱，雙方重點討論了加沙下一階段的安排。雙方同意：在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）完全解除武裝之前，加沙地帶不會進行任何重建；哈馬斯必須在監督下交出所有武器並進行銷燬，同時以色列國防軍仍有行動自由，以持續進行針對性打擊，這是實現加沙地帶非軍事化的第一步；此外，在加沙實施必要衛生措施，以防止疫情蔓延。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0101a-bc4d-7aab-9064-6c48bc293c8e",
+      "time": "2026-08-17 22:23:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Jerusalem Post, citing sources, reported Israel and the US have agreed that in the initial phase of disarming Hamas, weapons surrendered by Hamas will be destroyed by an international stabilization force led by US Major General Jasper Jeffers, rather than handed to the proposed Palestinian technocratic government (NCAG)."
+    },
+    {
+      "id": "5044519",
+      "time": "2026-08-17 22:22:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬銀2610成交額已超330億元，盤面短線上漲，最新報16145元/千克，漲幅0.91%，日內增倉近5400手，量倉活躍度同步抬升。"
+    },
+    {
+      "id": "mkt:01a0101a-45d6-7aab-9064-613fe37e8331",
+      "time": "2026-08-17 22:22:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver futures 2610 trading value has exceeded CNY33.0 bln; the contract is trading at CNY16,145/kg, up 0.91% intraday. Open interest rose by nearly 5,400 contracts, with volume and OI climbing in tandem."
+    },
+    {
+      "id": "5044518",
+      "time": "2026-08-17 22:21:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4420美元/盎司，日內漲1.04%。"
+    },
     {
       "id": "5044517",
       "time": "2026-08-17 22:21:31",
@@ -139404,111 +139504,6 @@
         "市場"
       ],
       "text": "紐約期銀日內漲2%，現報64.78美元/盎司。"
-    },
-    {
-      "id": "mkt:019fec10-c224-7aab-8fdb-f01081d86f6e",
-      "time": "2026-08-10 22:25:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's benchmark stock index fell 1%."
-    },
-    {
-      "id": "mkt:019fec10-aa18-7aab-8fdb-eb7444b89a31",
-      "time": "2026-08-10 22:25:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Fars News reported a Yemeni drone strike targeted Saudi-backed proxies in the Mokha area."
-    },
-    {
-      "id": "5034343",
-      "time": "2026-08-10 22:24:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "德克薩斯州州長：設立防護措施以確保資料中心保護電網。"
-    },
-    {
-      "id": "5034342",
-      "time": "2026-08-10 22:23:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱擊中了位於秋明州的俄羅斯石化廠。"
-    },
-    {
-      "id": "mkt:019fec0e-c39e-7aab-8fdb-e5daf02bacba",
-      "time": "2026-08-10 22:23:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Ukraine's military said it struck a Russian petrochemical plant in Tyumen Oblast."
-    },
-    {
-      "id": "5034341",
-      "time": "2026-08-10 22:23:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鐵長江交通設計集團與北新路橋集團座談交流】據北新路橋訊息，8月10日，中鐵長江交通設計集團有限公司黨委書記、董事長羅立翔一行來北新路橋集團總部北新大廈座談交流。座談中，雙方就交通基建行業發展趨勢、市政更新類建設、智慧交通專案落地、中亞海外基建市場共拓等內容達成重要共識，期望雙方在良好合作基礎上，實現資源共享和優勢互補。"
-    },
-    {
-      "id": "5034340",
-      "time": "2026-08-10 22:23:14",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【知情人士：希音IPO向投資者推介估值不足300億美元】兩名知情人士透露，希音（Shein）承銷投行向潛在投資者給出的公司估值不足300億美元，較巔峰估值縮水約七成。 另有兩位熟悉公司規劃的人士表示，希音內部設定的目標估值為300億美元。其中一人稱，若最終IPO估值低於該標準，公司或需回頭與現有股東協商後才能繼續推進上市。 另一名知情人士透露，已有投資者表示願意在250億至290億美元區間的估值區間認購股份。 希音方面未回應置評請求；本次IPO兩大牽頭投行高盛、摩根士丹利均拒絕發表評論，第三家牽頭投行摩根大通則未回覆採訪問詢。"
-    },
-    {
-      "id": "mkt:019fec0e-5990-7aab-8fdb-dd8409185feb",
-      "time": "2026-08-10 22:23:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Texas government says Meta Platforms (META.O) has committed to comply with state data-center standards."
-    },
-    {
-      "id": "5034339",
-      "time": "2026-08-10 22:22:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震已致人員受傷和建築物受損】哥倫比亞西部10日上午發生7.4級地震，全國多地震感強烈。喬科省省長努比婭·卡羅琳娜·科爾多瓦透過社交媒體表示，該省首府基布多市有人員受傷，一些建築物嚴重受損。 首都波哥大市長卡洛斯·費爾南多·加蘭透過社交媒體表示，該市目前暫無人員傷亡報告。據當地媒體報道，波哥大、裡薩拉爾達省首府佩雷拉和卡爾達斯省首府馬尼薩萊斯等多個城市震感強烈，當地一些居民不得不從家中撤離。 據哥倫比亞地質局釋出的訊息，哥倫比亞西部當地時間10日7時34分（北京時間10日20時34分）發生7.4級地震，震中距離喬科省聖何塞－德爾帕爾馬市約20公里，震源深度96公里。（新華社）"
-    },
-    {
-      "id": "mkt:019fec0d-d70f-7aab-8fdb-d70f5d16d941",
-      "time": "2026-08-10 22:22:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Rezaei appointment signals tighter coordination among Iran's military, political and religious leadership】Former IRGC commander Mohsen Rezaei’s appointment as Iran’s new national security chief marks a rise in hardline influence and closer coordination between the IRGC, the Supreme Leader’s office and the presidency, security analyst Wolfgang Pustai said. He added that, although some hardliners and moderates have sought negotiation, Rezaei’s selection clearly signals Tehran intends to press its strategic posture in the Strait of Hormuz and its nuclear programme on its own terms and to handle the current situation in its preferred way."
-    },
-    {
-      "id": "mkt:019fec0d-916c-7aab-8fdb-cc534a13046c",
-      "time": "2026-08-10 22:22:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Zhipu API users near 7 mln; over 50k domestic compute chips activated】Sources say Zhipu's MaaS open platform has nearly 7 mln registered API users, up about 2 mln since early July, including roughly 23k enterprise clients. Developer product ZCode, positioned against CODEX, surpassed 1 mln users within a month. Zhipu's ARR has risen about 15-fold YTD; sources add ARR growth was unaffected by launches of Kimi and Alibaba's new models. One investor told reporters ARR has reached $2 bln, a claim Zhipu denies; people close to the company say the true figure is likely higher. Market reports from July 21 indicate Zhipu has built roughly 1 GW of domestic AI compute infrastructure, with more than 50k domestically produced compute chips activated to handle rising inference demand. On July 31 Zhipu reopened purchases of its long-locked Coding Plan after a substantial price increase."
     }
   ]
 }
