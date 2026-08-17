@@ -1,7 +1,44 @@
 {
   "date": "2026-08-17",
-  "count": 846,
+  "count": 852,
   "items": [
+    {
+      "id": "te:economy:575689",
+      "time": "2026-08-17 12:38:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Japan Industrial Output Growth Revised Higher — Japan’s industrial production rose 1.9% month-over-month in June 2026, exceeding flash data of 1.3% and picking up from a 0.1% increase in the previous month. It marked the third consecutive monthly expansion and the strongest growth since January, as manufacturing activity continued to recover amid easing supply chain disruptions and moderating energy cost pressures tied to prolonged Middle East tensions. Output rebounded sharply for production machinery (7.7% vs -3.5% in May), electrical machinery and information and communication electronics equipment (5.5% vs -5.1%), and general-purpose and business-oriented machinery (4.7% vs -6.0%). Meanwhile, production declined for electronic parts and devices (-6.1% vs 1.2%) and iron, steel, and non-ferrous metals (-0.4% vs 0.3%). On an annual basis, industrial output grew by 4.9%, reversing a 2.1% decline in May and marking the strongest rise sice September 2022."
+    },
+    {
+      "id": "5043474",
+      "time": "2026-08-17 12:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【倒影池風波不止 美司法部長力挺檢察官 】美國司法部長託德·布蘭奇16日公開表態支援哥倫比亞特區聯邦檢察官珍尼娜·皮羅，皮羅因撤銷對一名前奧運選手涉嫌破壞林肯紀念堂前倒影池的指控而觸怒總統特朗普。特朗普堅稱倒影池受到蓄意破壞，皮羅則說問題源於施工質量。布蘭奇曾任特朗普私人律師，後被特朗普任命為司法部副部長和代理部長，本月早些時候“轉正”，其提名在國會參議院“勉強過關”。他先前推動了一系列針對特朗普政治對手的訴訟，引起爭議。布蘭奇16日接受美國媒體採訪時，被問及倒影池事件。他說，“完全支援皮羅，特朗普總統也支援她”。（新華社）"
+    },
+    {
+      "id": "5043473",
+      "time": "2026-08-17 12:36:46",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【機構警告全球食品價格通脹或迎來新一輪危機 】美國金融機構摩根大通日前釋出最新報告預計，全球食品價格通脹率將從今年上半年的2.8%提升至明年上半年的5%。這家機構表示，下一次全球通脹衝擊可能不會出現在加油站，而是在超市的食品貨架。這份報告題為《糧食安全就是國家安全：一場疊加的風暴》。摩根大通在報告中警告，中東戰事導致霍爾木茲海峽通行受阻，加之強厄爾尼諾可能造成農作物減產，多重因素疊加將衝擊農業生產，導致食品價格在2027年上半年居高不下。（新華社）"
+    },
+    {
+      "id": "5043472",
+      "time": "2026-08-17 12:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國利郎釋出中期業績 股東應占利潤2.15億元 同比減少11.2%】中國利郎(01234)釋出截至2026年6月30日止6個月中期業績，收入20.65億元(人民幣，下同)，同比增長19.5%;權益股東應占期內利潤2.15億元，同比減少11.2%;每股基本盈利18分。擬派發每股中期股息10港仙及每股特別中期股息4港仙。"
+    },
     {
       "id": "5043471",
       "time": "2026-08-17 12:34:32",
@@ -207,6 +244,15 @@
       "text": "Japan June industrial production, final MoM +1.9% (prior +1.3%)."
     },
     {
+      "id": "em:jjsj_rbsj:202608173842972619",
+      "time": "2026-08-17 12:30:55",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月工業產值終值同比增長4.9%。"
+    },
+    {
       "id": "mkt:01a00dfc-9e27-7aab-9056-3320f620b413",
       "time": "2026-08-17 12:30:54",
       "tags": [
@@ -215,6 +261,15 @@
         "Important"
       ],
       "text": "Japan | Industrial Production Final (MoM) (Jun) | actual 1.9% | previous 1.30%"
+    },
+    {
+      "id": "em:qqyh_mlc:202608173842972457",
+      "time": "2026-08-17 12:30:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【高盛稱市場對美聯儲加息的預測仍過於激進】8月17日，據報道，高盛集團表示，鑑於全球最大經濟體的通脹正在降溫，市場對美聯儲加息的押注仍然過於激進。"
     },
     {
       "id": "5043466",
