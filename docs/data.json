@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-17 23:34:21",
+  "updated": "2026-08-17 23:38:26",
   "count": 15245,
   "items": [
+    {
+      "id": "mkt:01a0105f-0c66-7aab-9066-1004ea3722b3",
+      "time": "2026-08-17 23:37:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL CENTRAL BANK governor galipolo said progress is needed on the supply side and the bank will seek productivity gains."
+    },
+    {
+      "id": "5044608",
+      "time": "2026-08-17 23:37:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴克萊任命Khan和美國銀行的Joo為投資銀行新任負責人】巴克萊為投資銀行業務任命新的領導人，晉升全球市場主管Adeel Khan，並延攬美國銀行前投行人士Mike Joo。電子郵件宣告顯示，Khan和Joo將出任投資銀行聯席執行長。Khan將在倫敦繼續負責全球市場業務，Joo則將駐紐約領導投資銀行業務，相關任命將於2027年2月生效。"
+    },
+    {
+      "id": "mkt:01a0105e-e91c-7aab-9066-08e870106493",
+      "time": "2026-08-17 23:37:30",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Aug 17 (Mon) European equities closed lower: Germany DAX fell 97.04 points (-0.37%) to 26,335.82; UK FTSE 100 down 30.96 points (-0.29%) at 10,719.15; France CAC 40 down 57.20 points (-0.66%) at 8,579.60; Euro Stoxx 50 down 10.24 points (-0.16%) at 6,529.35; Spain IBEX 35 down 183.06 points (-0.91%) at 19,973.54; Italy FTSE MIB down 9.61 points (-0.02%) at 53,574.00."
+    },
+    {
+      "id": "5044607",
+      "time": "2026-08-17 23:37:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "以色列極右翼財政部長貝扎萊爾·斯莫特里奇表示，消滅哈馬斯的目標與同其領導人談判相互矛盾，這些領導人“本就不該存活於世”。"
+    },
+    {
+      "id": "mkt:01a0105e-22de-7aab-9066-01dcb47ee6e7",
+      "time": "2026-08-17 23:36:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL CENTRAL BANK governor galipolo said demand growth across components exceeds supply, and monetary policy’s task is to rebalance supply and demand via interest rates."
+    },
+    {
+      "id": "mkt:01a0105d-ee58-7aab-9065-fa8163c5903a",
+      "time": "2026-08-17 23:36:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Office of the Minister for Canada‑U.S. Trade said Minister Leblanc and chief negotiator Charette will meet U.S. Trade Representative Greer and Commerce Secretary Lutnick at the U.S. Commerce Department in Washington at 13:00 ET today (01:00 Beijing time tomorrow)."
+    },
+    {
+      "id": "5044606",
+      "time": "2026-08-17 23:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "負責美國貿易事務的加拿大部長勒布朗與首席談判代表沙雷特將於美國東部時間13:00，在華盛頓特區商務部與美國貿易代表格里爾及商務部長盧特尼克舉行會晤。"
+    },
+    {
+      "id": "5044605",
+      "time": "2026-08-17 23:34:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：一枚俄羅斯巡航導彈擊中摩爾多瓦境內。"
+    },
     {
       "id": "mkt:01a0105b-8767-7aab-9065-f47383f5210c",
       "time": "2026-08-17 23:33:48",
@@ -139614,85 +139683,6 @@
         "MKT News"
       ],
       "text": "Iran's Supreme Leader appoints Abdollahi as chief of staff of the armed forces."
-    },
-    {
-      "id": "mkt:019fec52-9888-7aab-8fdd-5ccaafe839f0",
-      "time": "2026-08-10 23:37:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equity closes Aug 10 (Mon): Germany DAX down 26.68 pts (-0.10%) at 26,328.67; UK FTSE 100 down 39.27 pts (-0.36%) at 10,861.82; France CAC 40 up 11.10 pts (+0.13%) at 8,726.03; Euro Stoxx 50 up 10.39 pts (+0.16%) at 6,534.25; Spain IBEX 35 down 31.41 pts (-0.16%) at 20,155.69; Italy FTSE MIB down 83.19 pts (-0.15%) at 53,634.00."
-    },
-    {
-      "id": "mkt:019fec52-4a2e-7aab-8fdd-545eed788c4f",
-      "time": "2026-08-10 23:37:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Iran's Supreme Leader has appointed six new military commanders."
-    },
-    {
-      "id": "mkt:019fec51-b8b1-7aab-8fdd-4bebece02d46",
-      "time": "2026-08-10 23:36:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 2-year/10-year Treasury yield curve steepened to its steepest since late May, with the 10s-2s spread at 45.7bps."
-    },
-    {
-      "id": "5034415",
-      "time": "2026-08-10 23:36:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日央行公佈會議意見 多名委員呼籲加快加息】當地時間10日，日本央行公佈了今年7月30日至31日的貨幣政策會議上出現的主要意見。儘管此次會議後，日本央行將政策利率維持在1%不變，但部分政策委員警告稱，不能忽視通脹超過2%的風險，並提出應當加快加息步伐。日本內閣府7月24日釋出的2026財年經濟財政白皮書指出，由於中東局勢帶來輸入性通脹壓力，同時勞動力短缺等結構性問題持續存在，日本經濟復甦仍面臨多重挑戰。（央視新聞）"
-    },
-    {
-      "id": "5034414",
-      "time": "2026-08-10 23:35:48",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部 2 年期‑10 年期國債收益率曲線創 5 月末以來最陡水平，最新利差 45.7 個基點。"
-    },
-    {
-      "id": "mkt:019fec50-bf52-7aab-8fdd-46cd93c1f6d2",
-      "time": "2026-08-10 23:35:42",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【RMB cross-border payment system launched in Namibia】Standard Bank's Namibian unit announced on the 10th it has gone live with the RMB Cross-border Interbank Payment System (CIPS), becoming the first bank in Namibia to offer direct RMB settlement. CEO Erwin Chipuka said the service will speed settlement, reduce FX risk and give companies trading with China a competitive edge."
-    },
-    {
-      "id": "5034413",
-      "time": "2026-08-10 23:35:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民幣跨境支付系統在奈米比亞啟動 】標準銀行奈米比亞子行10日宣佈正式啟動人民幣跨境支付系統（CIPS）服務，成為奈米比亞首家提供該服務的銀行。（新華社）"
-    },
-    {
-      "id": "5034412",
-      "time": "2026-08-10 23:34:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖任命六名新軍事指揮官。"
     }
   ]
 }
