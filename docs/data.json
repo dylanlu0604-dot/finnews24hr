@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-17 08:08:40",
-  "count": 15205,
+  "updated": "2026-08-17 08:12:30",
+  "count": 15199,
   "items": [
+    {
+      "id": "te:markets:575581",
+      "time": "2026-08-17 08:11:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Steady Amid Mixed Signals — Gold traded just below $4,400 an ounce on Monday, holding steady as investors weighed subdued US economic data that reduced expectations for an imminent Federal Reserve rate hike against persistent tensions in the Middle East. Data released last week pointed to tame US inflation, while consumer sentiment and retail sales weakened. Markets now see roughly a one-in-three chance of a Fed rate hike in September, down from nearly 50% before the data. Investors are now awaiting the FOMC’s latest meeting minutes and Fed Chair Kevin Warsh’s speech at the Jackson Hole symposium for further guidance. Meanwhile, tensions in the Middle East remain elevated after Israel launched fresh strikes on Lebanon over the weekend, while President Donald Trump is preparing new economic sanctions aimed at forcing Iran to surrender. Still, Middle Eastern producers are covertly moving millions of barrels of crude through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a00d0e-782a-7aab-9051-d0cb2bff30e4",
+      "time": "2026-08-17 08:10:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 34.8 points (-0.38%) at 9,080.40 on Monday, Aug 17."
+    },
+    {
+      "id": "5043076",
+      "time": "2026-08-17 08:09:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券港股策略：以均衡而非輪動應對高波動環境】華泰證券釋出港股策略稱，各風格重回同一起跑線，輪動加速，均衡配置或是最優解。7月底至今，全球市場經歷了新老經濟之間的平衡和硬體和軟體之間的平衡。但觀察到本輪再平衡中未有板塊走出強主線，快速輪動下短線抓取難度大，投資取向更加分散。在高集中度回撥時止損困難的經歷後，當前市場並非再度抱團某一主線，而是選擇各行業中強盈利龍頭。對港股而言，外部環境企穩和紅利股息率回落，資金流入最快階段可能告一段落，但依然能夠起到風險分散和平衡的作用，因此一是紅利底倉依然重要，二是擇股重要性上升。配置上建議：低波紅利（如大金融）持有；關注中報或確認經營底部的乳品、部分零售；需求景氣邏輯仍成立的AI鏈，如晶圓代工等，更多是進攻品種而非底倉。"
+    },
+    {
+      "id": "mkt:01a00d0c-563b-7aab-9051-cfc1282d0f70",
+      "time": "2026-08-17 08:08:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Japan Q2 GDP misses, complicating Bank of Japan rate-hike timeline】Japan's Q2 real GDP preliminary rose 0.3% QoQ (annualized 1.1%), missing forecasts of 0.5% QoQ (2.0% annualized), data showed on Monday. The shortfall complicates the Bank of Japan's path to further tightening: private consumption was flat and business investment contracted sharply, signalling private-sector caution that could prompt a more cautious BOJ stance at the next meeting despite elevated PPI and CPI that keep pressure on policymakers. A weaker growth profile raises downside risk for the yen if markets scale back September hike odds, and could push JGB yields lower as near-term tightening expectations fade; external demand partly offset the weakness but is unlikely to reverse the overall soft momentum."
+    },
     {
       "id": "5043075",
       "time": "2026-08-17 08:07:47",
@@ -138914,97 +138954,6 @@
         "公司"
       ],
       "text": "【康諾亞-B：CM512(TSLP x IL-13雙抗)注射液用於慢性鼻竇炎伴鼻息肉患者的II期臨床試驗達到所有研究終點】康諾亞-B(02162)釋出公告，公司自主研發的1類新藥CM512注射液治療慢性鼻竇炎伴鼻息肉(CRSwNP)的II期臨床研究已完成資料揭盲及初步統計分析。結果顯示：1、CM512達到了全部研究終點，各劑量組療效表現相當。CM512快速起效，給藥第4周即可快速縮小鼻息肉同時顯著改善鼻塞，並促進嗅覺功能恢復。給藥一針療效可維持半年，24周鼻息肉評分(NPS)較基線變化顯著優於對照組，同時明顯減輕整體鼻竇腔炎症。2、在CRSwNP患者中，CM512所有劑量組均展現出良好的安全性和耐受性，抗藥抗體(ADA)的發生率極低。治療期間不良事件(TEAEs)發生率與安慰劑組相當，CM512組未發生嚴重不良事件。詳細資料未來將於國際學術期刊或學術會議進一步公佈。基於此II期結果，公司正在快速啟動CM512注射液治療CRSwNP的臨床III期研究，並明確300mg，半年給藥一次(Q24W)為用藥方案。"
-    },
-    {
-      "id": "mkt:019fe903-07d2-7aab-8fcd-50203cff9d39",
-      "time": "2026-08-10 08:11:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 4.90 points, or 0.05%, at 9,258.70 on Monday, Aug. 10."
-    },
-    {
-      "id": "em:qqyh_mlc:202608103836054979",
-      "time": "2026-08-10 08:11:48",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中信證券：7月非農意外轉負 加息預期降溫】中信證券研報指出，2026年7月美國新增非農就業人數大幅低於預期，政府部門拖累顯著，主因是地方政府教育崗位人數在夏季減少。私人部門結構上，商品生產部門2025年合計減少13.5萬人，今年截至7月初值已增加10.5萬人，服務業部門則連續4月新增人數下降，其背後可能反映了資料中心建設的需求以及世界盃並未如預期提振服務業就業。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608103836054979",
-      "time": "2026-08-10 08:11:48",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【中信證券：7月非農意外轉負 加息預期降溫】中信證券研報指出，2026年7月美國新增非農就業人數大幅低於預期，政府部門拖累顯著，主因是地方政府教育崗位人數在夏季減少。私人部門結構上，商品生產部門2025年合計減少13.5萬人，今年截至7月初值已增加10.5萬人，服務業部門則連續4月新增人數下降，其背後可能反映了資料中心建設的需求以及世界盃並未如預期提振服務業就業。"
-    },
-    {
-      "id": "te:economy:573934",
-      "time": "2026-08-10 08:11:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Japan Current Account Surplus Below Estimates — Japan’s current account surplus decreased to JPY 923.0 billion in June 2026 from JPY 1,281.8 billion in the same month a year earlier, missing market expectations for a JPY 1,512 billion surplus. The goods account swung to a JPY 135.2 billion deficit from a JPY 467.3 billion surplus, as exports rose 16.3%, trailing a 24.3% increase in imports. Meanwhile, the services deficit widened to JPY 228.5 billion from JPY 160.6 billion. The primary income surplus also fell sharply to JPY 380.1 billion from JPY 1,444.9 billion. In contrast, the secondary income deficit narrowed to JPY 108.6 billion from JPY 469.8 billion."
-    },
-    {
-      "id": "5032809",
-      "time": "2026-08-10 08:11:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率上漲1.0個基點，至1.615%。"
-    },
-    {
-      "id": "5032808",
-      "time": "2026-08-10 08:10:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%。"
-    },
-    {
-      "id": "5032807",
-      "time": "2026-08-10 08:10:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲1.0個基點，至2.805%。"
-    },
-    {
-      "id": "5032806",
-      "time": "2026-08-10 08:09:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲3.5%。"
-    },
-    {
-      "id": "5032805",
-      "time": "2026-08-10 08:09:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本7月銀行放款餘額較上年同期增長5.4%】日本央行週一表示，7月銀行放款餘額較上年同期增長5.4%。包括“信金”銀行在內的四大類銀行放款餘額為679.199萬億日元（4.30萬億美元）。"
-    },
-    {
-      "id": "5032804",
-      "time": "2026-08-10 08:08:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經225指數上漲1%，至66270.48點。"
     }
   ]
 }

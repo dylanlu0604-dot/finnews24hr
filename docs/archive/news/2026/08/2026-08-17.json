@@ -1,7 +1,47 @@
 {
   "date": "2026-08-17",
-  "count": 278,
+  "count": 282,
   "items": [
+    {
+      "id": "te:markets:575581",
+      "time": "2026-08-17 08:11:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Steady Amid Mixed Signals — Gold traded just below $4,400 an ounce on Monday, holding steady as investors weighed subdued US economic data that reduced expectations for an imminent Federal Reserve rate hike against persistent tensions in the Middle East. Data released last week pointed to tame US inflation, while consumer sentiment and retail sales weakened. Markets now see roughly a one-in-three chance of a Fed rate hike in September, down from nearly 50% before the data. Investors are now awaiting the FOMC’s latest meeting minutes and Fed Chair Kevin Warsh’s speech at the Jackson Hole symposium for further guidance. Meanwhile, tensions in the Middle East remain elevated after Israel launched fresh strikes on Lebanon over the weekend, while President Donald Trump is preparing new economic sanctions aimed at forcing Iran to surrender. Still, Middle Eastern producers are covertly moving millions of barrels of crude through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a00d0e-782a-7aab-9051-d0cb2bff30e4",
+      "time": "2026-08-17 08:10:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 34.8 points (-0.38%) at 9,080.40 on Monday, Aug 17."
+    },
+    {
+      "id": "5043076",
+      "time": "2026-08-17 08:09:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券港股策略：以均衡而非輪動應對高波動環境】華泰證券釋出港股策略稱，各風格重回同一起跑線，輪動加速，均衡配置或是最優解。7月底至今，全球市場經歷了新老經濟之間的平衡和硬體和軟體之間的平衡。但觀察到本輪再平衡中未有板塊走出強主線，快速輪動下短線抓取難度大，投資取向更加分散。在高集中度回撥時止損困難的經歷後，當前市場並非再度抱團某一主線，而是選擇各行業中強盈利龍頭。對港股而言，外部環境企穩和紅利股息率回落，資金流入最快階段可能告一段落，但依然能夠起到風險分散和平衡的作用，因此一是紅利底倉依然重要，二是擇股重要性上升。配置上建議：低波紅利（如大金融）持有；關注中報或確認經營底部的乳品、部分零售；需求景氣邏輯仍成立的AI鏈，如晶圓代工等，更多是進攻品種而非底倉。"
+    },
+    {
+      "id": "mkt:01a00d0c-563b-7aab-9051-cfc1282d0f70",
+      "time": "2026-08-17 08:08:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Japan Q2 GDP misses, complicating Bank of Japan rate-hike timeline】Japan's Q2 real GDP preliminary rose 0.3% QoQ (annualized 1.1%), missing forecasts of 0.5% QoQ (2.0% annualized), data showed on Monday. The shortfall complicates the Bank of Japan's path to further tightening: private consumption was flat and business investment contracted sharply, signalling private-sector caution that could prompt a more cautious BOJ stance at the next meeting despite elevated PPI and CPI that keep pressure on policymakers. A weaker growth profile raises downside risk for the yen if markets scale back September hike odds, and could push JGB yields lower as near-term tightening expectations fade; external demand partly offset the weakness but is unlikely to reverse the overall soft momentum."
+    },
     {
       "id": "5043075",
       "time": "2026-08-17 08:07:47",
