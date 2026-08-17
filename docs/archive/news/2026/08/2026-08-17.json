@@ -1,7 +1,150 @@
 {
   "date": "2026-08-17",
-  "count": 1028,
+  "count": 1043,
   "items": [
+    {
+      "id": "te:economy:575721",
+      "time": "2026-08-17 14:31:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tunisia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Tunisia Q2 GDP Annual Growth Weakest in 5 Quarters — Tunisia’s economy advanced by 2.3% year-on-year in the second quarter of 2026, slowing from 2.6% expansion in the first quarter. It was the weakest growth since the first quarter of 2025. Compared with the previous quarter, Tunisia’s economy expanded by 1.4% in Q2 2026, after stalling in the previous quarter."
+    },
+    {
+      "id": "mkt:01a00e6b-4285-7aab-9058-04f7d0adec95",
+      "time": "2026-08-17 14:31:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Iran's agriculture minister said most agricultural operations have been integrated into smart systems and are under comprehensive control, and that assertions of complete food security rest on the ministry's full command of those information systems."
+    },
+    {
+      "id": "mkt:01a00e6b-2634-7aab-9057-f83e96c0df31",
+      "time": "2026-08-17 14:31:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's agriculture minister said there has been no panic buying in recent months and that, relying on credibility built over the past 14 months and contingency and forward-looking measures taken across government levels, food security will remain stable."
+    },
+    {
+      "id": "mkt:01a00e6a-fa97-7aab-9057-f08ea497e27d",
+      "time": "2026-08-17 14:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's agriculture minister said food security faces no risk despite months of difficulties, and that adversaries have been driven to despair over the issue."
+    },
+    {
+      "id": "5043611",
+      "time": "2026-08-17 14:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《蜘蛛俠：嶄新之日》延長上映至9月28日】電影《蜘蛛俠：嶄新之日》金鑰延期，延長上映至9月28日，據貓眼專業版資料，電影2026年7月29日上映，截至當前累計票房14.26億。"
+    },
+    {
+      "id": "5043610",
+      "time": "2026-08-17 14:30:57",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【事關國際單位制及應用標準 市場監管總局公開徵求意見】記者今天瞭解到，市場監管總局釋出公告，就強制性國家標準《國際單位制及其應用（徵求意見稿）》面向社會公開徵求意見，意見反饋截止時間為9月13日。 該強制性國家標準是我國法定計量單位制度的基礎性技術檔案，直接關係到教材、出版物、產品標籤、檢測報告、貿易檔案等使用計量單位的一致性，適用於國民經濟、科學技術、工業生產、文化教育等一切使用計量單位的場合。 本次修訂是繼《國際單位制及其應用》（GB 3100—1993）釋出實施30多年來，我國量和單位領域基礎性、強制性國家標準的一次重大修訂。修訂草案緊跟國際計量大會（CGPM）決議與國際標準更新，核心變化包括： 明確國際單位制以“秒、米、千克、安培、開爾文、摩爾、坎德拉”等7個採用物理常數新定義的基本單位為基礎； 取消“輔助單位”分類，將弧度、球面度納入具有專門名稱的國際單位制（簡稱SI）匯出單位（共計22個）； 將“十、百、千”等詞頭總數由20個增至24個，分別向上擴增“容[那]（1027）、昆[它]（1030）”，向下擴增“柔[託]（10-27）、虧[科託]（10-30）”； 將天文單位、道爾頓、奈培、貝、分貝等納入與SI並用的我國法定計量單位表等。 （央視新聞）"
+    },
+    {
+      "id": "5043609",
+      "time": "2026-08-17 14:30:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日經225指數收漲0.74%】日經225指數收漲0.74%，報69220.25點。韓國股市休市。"
+    },
+    {
+      "id": "te:markets:575720",
+      "time": "2026-08-17 14:30:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Rises Further on Supply Risks — UK natural gas prices rose above 154 pence a therm on Monday, reaching a fresh three-week high amid continued disruption to LNG supplies from the Gulf as US-Iran negotiations stalled. Renewed Israeli strikes against Tehran-backed Hezbollah in Lebanon, along with the latest US threats of additional sanctions on Iran, have further clouded prospects for an imminent agreement to reopen the Strait of Hormuz. Traffic through the waterway has fallen sharply following recent attacks on vessels, highlighting persistent security risks. For Europe, concerns over gas inventories are becoming increasingly pressing, as storage levels remain below historical averages and are lagging the pace needed to comfortably meet pre-winter storage targets. Efforts to rebuild inventories have also been hampered by heatwaves across Southern and Central Europe, which have boosted demand for gas-fired power generation, diverting supplies from storage."
+    },
+    {
+      "id": "te:markets:575719",
+      "time": "2026-08-17 14:30:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Slips for 4th Session, Hits 2-Week Low — The ASX 200 lost 50 points or 0.6% to close at 9,065 on Monday, marking its fourth straight decline and a two-week low. Sentiment stayed cautious ahead of key July data from main trading partner China, including industrial output, retail sales, and unemployment. Meantime, U.S. Dow futures weakened as no interim peace deal emerged between Washington and Tehran, with few catalysts on the calendar aside from the Fed’s minutes due Wednesday. Locally, July labor data is expected later this week after June’s steady jobless rate. Meanwhile, RBA Assistant Governor Kent signaled tight monetary settings remain necessary to curb inflation. NAB slumped 4.7% on concerns that repealing property-investment tax breaks could weigh on earnings and credit growth. JB Hi-Fi plunged near 12%, its worst session since March 2020, after reporting a drop in Australian sales for the first month of fiscal 2027. Other notable laggards included Suncorp Group (-5.0%), QBE Insurance (-2.1%), and Pro Medicus (-2.0%)."
+    },
+    {
+      "id": "te:markets:575717",
+      "time": "2026-08-17 14:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.61% Higher — The Nikkei 225 Index went up by 422 points or 0.61 percent on Monday to close at 69136 points. The rise was led by Mitsui Kinzoku (7.40%), Fujikura (6.94%) and Furukawa Electric (5.37%). On the downside, the weakerst performers were Trend Micro (-8.60%), Dentsu (-8.26%) and NEC (-7.22%)."
+    },
+    {
+      "id": "5043608",
+      "time": "2026-08-17 14:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月17日：“農產品批發價格200指數”比上週五上升0.28個點】據農業農村部監測，8月17日“農產品批發價格200指數”為115.47，比上週五上升0.28個點，“菜籃子”產品批發價格指數為115.97，比上週五上升0.34個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.03元/公斤，比上週五上升1.6%；牛肉68.10元/公斤，比上週五上升0.6%；羊肉65.03元/公斤，比上週五上升0.4%；雞蛋10.40元/公斤，比上週五上升1.9%；白條雞17.33元/公斤，比上週五上升0.4%。重點監測的28種蔬菜平均價格為4.64元/公斤，比上週五上升1.3%；重點監測的6種水果平均價格為6.92元/公斤，比上週五下降1.3%。鯽魚20.40元/公斤，比上週五下降0.7%；鯉魚14.50元/公斤，比上週五下降0.7%；白鰱魚10.60元/公斤，比上週五上升1.8%；大帶魚42.70元/公斤，比上週五下降1.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與上週五相比價格升幅前五名的是平菇、油菜、生菜、黃瓜和菠菜，幅度分別為6.7%、5.1%、4.0%、3.7%和3.2%；價格降幅前五名的是鴨梨、巨峰葡萄、富士蘋果、大白菜和大黃花魚，幅度分別為3.6%、3.6%、1.8%、1.6%和1.4%。"
+    },
+    {
+      "id": "5043607",
+      "time": "2026-08-17 14:29:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擎天租等在山西成立具身技術研究合夥企業】企查查APP顯示，近日，山西省太初智元具身技術研究合夥企業（有限合夥）成立，經營範圍包含：人工智慧應用軟體開發；智慧機器人的研發；人工智慧基礎軟體開發；工業機器人銷售；智慧機器人銷售等。企查查股權穿透顯示，該企業由擎天租（上海）科技有限公司等共同出資。"
+    },
+    {
+      "id": "5043606",
+      "time": "2026-08-17 14:29:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：液冷散熱成高階AI基礎設施標配 預估2026年滲透率可達53%】根據TrendForce集邦諮詢最新AI Server產業研究，在AI基礎設施的建設浪潮下，以NVIDIA、AMD、Google為首的AI晶片持續迭代，單晶片的熱設計功耗（TDP）普遍已超越1kW，整櫃式AI Server方案的功率更攀升至數百kW，液冷散熱逐步成為高階AI基礎設施的標準配置。TrendForce集邦諮詢預估，2026年液冷在AI晶片的滲透率將達53%，2027年有望逼近60%。"
+    },
+    {
+      "id": "mkt:01a00e68-377e-7aab-9057-ed0df7f232da",
+      "time": "2026-08-17 14:28:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Fed tightening expectations ease, EM currencies hit record high】An index tracking emerging-market currencies rose as much as 0.2% to 1,906.98 on Monday, hitting a record high, while an EM equity index gained about 0.6%. Softer US economic data trimmed expectations for further Fed tightening and weakened the dollar, supporting EM assets. BNY Mellon senior Asia strategist Wee Khoon Chong said EM FX is being bolstered by dollar softness and a renewed risk-on mood, with strong foreign inflows into emerging markets—particularly Asia. SocGen emerging-Asia strategist Galvin Chia added that Asian currencies have benefited from last week’s weak US data and early-week dollar weakness; an absence of fresh geopolitical headlines and Brent trading under $90 are additional supports as the market exits the seasonal summer lull."
+    },
+    {
+      "id": "5043605",
+      "time": "2026-08-17 14:28:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：全日空和日本航空正在商討避免在日本的航班重疊。自10月起，東京羽田機場和岡山機場之間的航班起飛時間將錯開。"
+    },
     {
       "id": "5043604",
       "time": "2026-08-17 14:26:54",
