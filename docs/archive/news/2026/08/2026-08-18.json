@@ -1,7 +1,23 @@
 {
   "date": "2026-08-18",
-  "count": 295,
+  "count": 297,
   "items": [
+    {
+      "id": "mkt:01a011ba-44ce-7aab-9069-feb2b46d94d0",
+      "time": "2026-08-18 05:56:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News reports a fuel tank fire and explosion in Sulaymaniyah, Iraq's Kurdistan Region."
+    },
+    {
+      "id": "5044781",
+      "time": "2026-08-18 05:56:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：認為市場對財政方面的擔憂合乎情理，盧拉政府若當選，需解決財政方面的擔憂。"
+    },
     {
       "id": "5044780",
       "time": "2026-08-18 05:44:43",

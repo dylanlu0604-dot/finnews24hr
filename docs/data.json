@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 05:55:03",
+  "updated": "2026-08-18 05:59:06",
   "count": 15208,
   "items": [
+    {
+      "id": "mkt:01a011ba-44ce-7aab-9069-feb2b46d94d0",
+      "time": "2026-08-18 05:56:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News reports a fuel tank fire and explosion in Sulaymaniyah, Iraq's Kurdistan Region."
+    },
+    {
+      "id": "5044781",
+      "time": "2026-08-18 05:56:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：認為市場對財政方面的擔憂合乎情理，盧拉政府若當選，需解決財政方面的擔憂。"
+    },
     {
       "id": "5044780",
       "time": "2026-08-18 05:44:43",
@@ -139314,33 +139330,6 @@
         "其他"
       ],
       "text": "中央氣象臺8月11日06時繼續釋出暴雨橙色預警。"
-    },
-    {
-      "id": "mkt:019fedad-bed3-7aab-8fe1-9270cef27b46",
-      "time": "2026-08-11 05:56:54",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "TSM.N"
-      ],
-      "text": "【Kuo denies TSMC amassed $1 bln of Apple A20 Pro chips awaiting memory】Reports said TSMC (TSM.N) had about $1 bln of A20 Pro (2nm/N2) processors for Apple (AAPL.O) stuck in-factory awaiting memory and unable to complete final packaging. Analyst Ming‑Chi Kuo said Apple did cut hardware shipments this year due to memory shortages, but Apple schedules TSMC processor production at least three months ahead based on expected memory availability rather than having TSMC prebuild large volumes of in‑process inventory. Kuo said he is not aware of TSMC accumulating roughly $1 bln of WIP that must wait for memory before packaging, and given the close supply‑chain coordination and execution at both companies such a scenario would be unusual."
-    },
-    {
-      "id": "mkt:019fedad-39b9-7aab-8fe1-8ccd7b26f453",
-      "time": "2026-08-11 05:56:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says US forces effectively control Strait of Hormuz, have cleared sea mines】Trump told reporters at the White House on Aug. 10 he will seek compensation from Iran after Tehran demanded reparations following a military clash, repeating earlier social media posts. He said US forces effectively control the Strait of Hormuz and have cleared Iranian-laid sea mines."
     }
   ]
 }
