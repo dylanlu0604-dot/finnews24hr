@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-18 02:52:02",
-  "count": 15262,
+  "updated": "2026-08-18 02:55:56",
+  "count": 15261,
   "items": [
+    {
+      "id": "5044726",
+      "time": "2026-08-18 02:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，（美國）戰略石油儲備目前仍保有3億桶庫存，伊朗衝突結束後，其儲備量將高於衝突前水平。"
+    },
+    {
+      "id": "mkt:01a01111-8978-7aab-9068-700909d0178e",
+      "time": "2026-08-18 02:52:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the government will announce measures in the coming days to help refineries boost fuel production."
+    },
     {
       "id": "5044725",
       "time": "2026-08-18 02:48:54",
@@ -139802,39 +139823,6 @@
         "MKT News"
       ],
       "text": "US President Trump signed an executive order on vaccines."
-    },
-    {
-      "id": "mkt:019fed05-3ba3-7aab-8fdf-8dc50b14bef6",
-      "time": "2026-08-11 02:52:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【U.S. federal deficit for first 10 months of fiscal 2026 at $1.8 trillion】Aug 10 — The Congressional Budget Office estimates the U.S. federal budget deficit for the first 10 months of fiscal 2026 at $1.8 trillion, $169 billion wider YoY as receipts rose $139 billion (3%) while outlays rose $308 billion (5%)."
-    },
-    {
-      "id": "mkt:019fed05-1154-7aab-8fdf-858a380ec8ef",
-      "time": "2026-08-11 02:52:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $87.72/bbl, up $4.17 or 4.99%."
-    },
-    {
-      "id": "5034521",
-      "time": "2026-08-11 02:52:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元上漲1%，報159.32。"
     }
   ]
 }

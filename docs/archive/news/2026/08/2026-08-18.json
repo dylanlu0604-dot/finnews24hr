@@ -1,7 +1,28 @@
 {
   "date": "2026-08-18",
-  "count": 186,
+  "count": 188,
   "items": [
+    {
+      "id": "5044726",
+      "time": "2026-08-18 02:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，（美國）戰略石油儲備目前仍保有3億桶庫存，伊朗衝突結束後，其儲備量將高於衝突前水平。"
+    },
+    {
+      "id": "mkt:01a01111-8978-7aab-9068-700909d0178e",
+      "time": "2026-08-18 02:52:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the government will announce measures in the coming days to help refineries boost fuel production."
+    },
     {
       "id": "5044725",
       "time": "2026-08-18 02:48:54",
