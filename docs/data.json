@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-17 22:54:30",
-  "count": 15215,
+  "updated": "2026-08-17 22:58:32",
+  "count": 15212,
   "items": [
+    {
+      "id": "te:markets:575897",
+      "time": "2026-08-17 22:57:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls for 6th Session — The FTSE 100 edged lower on Monday, extending its decline to a sixth consecutive session as weakness in consumer staples weighed on the index. Unilever fell nearly 2%, while British American Tobacco and Diageo dropped 1.6% and 2.8%, respectively. Tesco also lost almost 3%. In contrast, mining stocks benefited from stronger metals prices. Fresnillo and Endeavour Mining gained around 2% and 2.6%, supported by higher gold prices, while Antofagasta, Anglo American and Glencore also advanced as copper prices continued to rise. Pharmaceuticals provided some support, with AstraZeneca gaining about 1% and GSK rising more than 2%. Meanwhile, oil prices moved higher as renewed violence in the Middle East raised concerns about further escalation. Hopes for a diplomatic resolution weakened after President Donald Trump reportedly indicated he was in no rush to end the conflict with Iran, while fighting intensified again in Lebanon."
+    },
+    {
+      "id": "5044555",
+      "time": "2026-08-17 22:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國聯邦鐵路表示，相關談判目前仍處於非常初期的非約束性階段。"
+    },
+    {
+      "id": "5044554",
+      "time": "2026-08-17 22:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙IBEX35指數失守20000點，日內跌幅0.78%。"
+    },
+    {
+      "id": "mkt:01a01039-ab80-7aab-9065-092603e415e1",
+      "time": "2026-08-17 22:56:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day."
+    },
+    {
+      "id": "5044553",
+      "time": "2026-08-17 22:56:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "德鐵發言人表示，我們確認正在就出售英國子公司德鐵信可英國(DB Cargo UK)的可能性進行討論。"
+    },
+    {
+      "id": "5044552",
+      "time": "2026-08-17 22:55:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。"
+    },
+    {
+      "id": "mkt:01a01037-99f5-7aab-9065-003cdf8e1c40",
+      "time": "2026-08-17 22:54:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border."
+    },
+    {
+      "id": "5044551",
+      "time": "2026-08-17 22:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯襲擊葉門邊境地區 。"
+    },
     {
       "id": "mkt:01a01036-d7c5-7aab-9064-f9931f0ee007",
       "time": "2026-08-17 22:53:44",
@@ -139363,102 +139433,6 @@
         "市場"
       ],
       "text": "【能耗考核讓司機不敢開空調 蘭州公交：已暫停】近期，甘肅蘭州有公交車司機表示，由於公司實施的考核辦法把車輛的能耗和績效掛鉤，如果超出了規定的能耗標準，將按一定比例扣除司機的績效工資，導致個別司機不願在行駛過程中開空調，從而影響乘客體驗。蘭州公交集團第六客運公司工作人員表示，出臺考核辦法的初衷是引導駕駛員愛車護車、安全行駛，助力企業降本增效。辦法制定階段已兼顧車型、車況、線路差異，以平均能耗作為考核基準，考核數值每月動態調整，也考慮到高溫開啟空調帶來的能耗上漲因素。（央視新聞）"
-    },
-    {
-      "id": "5034389",
-      "time": "2026-08-10 22:57:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【NYMEX取暖油主力合約大漲6%】NYMEX取暖油主力合約大漲6%，現報4.14美元/加侖。"
-    },
-    {
-      "id": "5034388",
-      "time": "2026-08-10 22:57:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元跌勢擴大，美國和日本歷史性聯手干預激發的漲幅已半數回吐。該貨幣兌美元週一下跌多達0.8%，觸及159.06，在十國集團中表現墊底。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。"
-    },
-    {
-      "id": "mkt:019fec2d-8b5f-7aab-8fdc-746630e621db",
-      "time": "2026-08-10 22:57:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry spokesman said a maritime blockade of Iran is an act of aggression."
-    },
-    {
-      "id": "5034387",
-      "time": "2026-08-10 22:56:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "泰森食品股份有限公司宣佈發起債務要約收購。"
-    },
-    {
-      "id": "mkt:019fec2d-33bf-7aab-8fdc-6b5381ff910a",
-      "time": "2026-08-10 22:56:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "Iranian foreign ministry spokesman said the situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations."
-    },
-    {
-      "id": "mkt:019fec2c-a916-7aab-8fdc-60eea6ff0587",
-      "time": "2026-08-10 22:56:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market source: Iran's foreign ministry spokesman said negotiations with Oman are progressing smoothly, but some parties are attempting to obstruct the process."
-    },
-    {
-      "id": "5034386",
-      "time": "2026-08-10 22:55:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【蘋果9月釋出會或推8款新品 蘋果9月釋出會核心產品曝光】距離蘋果9月釋出會大約還有一個月的時間，蘋果預計將在該釋出會上推出8款新品。 報道指出，本次釋出會的核心產品將是：iPhone 18 Pro、iPhone 18 Pro Max、iPhone Ultra、Apple Watch Series 12、Apple Watch Ultra 4、新款Apple TV 4K、HomePod mini 2以及HomePad/HomePod Touch。 這些產品均有望在9月亮相。其中，iPhone和Apple Watch的產品更新屬於蘋果歷年的常規節奏，而智慧家居產品的集中釋出則被視為蘋果在該領域的重要佈局。蘋果首款智慧家居中心裝置預計在10月至明年年初上市，9月的釋出會可能對其進行預覽。 此外，新款iPad mini預計在今年秋季推出，但可能與其他產品（如搭載M6晶片的MacBook Pro）一同在10月釋出。 報道中雖未提及配備攝像頭的AirPods、第三代HomePod或安防攝像頭等產品，但此前相關報道提及過這些裝置，不排除它們在9月的釋出會上亮相的可能性。"
-    },
-    {
-      "id": "mkt:019fec2c-39f4-7aab-8fdc-5ececcb0adda",
-      "time": "2026-08-10 22:55:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Iran is set to announce appointments of several senior military commanders signed by Iran's Supreme Leader."
-    },
-    {
-      "id": "5034385",
-      "time": "2026-08-10 22:55:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數迅速回吐漲幅，納斯達克100指數轉跌。"
-    },
-    {
-      "id": "mkt:019fec2b-8ca7-7aab-8fdc-562de1715cbc",
-      "time": "2026-08-10 22:55:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadas, citing Israel's Channel 12, reported US personnel assigned to aerial refuelling number about 20, close to levels during the ceasefire."
-    },
-    {
-      "id": "5034384",
-      "time": "2026-08-10 22:54:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國在中東的加油人員規模接近停火時期水平，約為 20 人。"
     }
   ]
 }
