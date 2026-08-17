@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-17 23:02:31",
+  "updated": "2026-08-17 23:06:26",
   "count": 15215,
   "items": [
+    {
+      "id": "5044564",
+      "time": "2026-08-17 23:05:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多部門發文進一步保障農業灌溉用水安全】生態環境部會同工業和資訊化部、農業農村部等部門近日聯合印發通知，進一步加強工業、畜禽養殖等企業汙水汙染風險防範，保障農業灌溉用水安全。 生態環境部水生態環境司有關負責人17日介紹，近年來，一些工業企業及園區、畜禽養殖場等與農田相鄰，汙水排放管控不到位，農業灌溉用水安全隱患不容忽視。此次印發的通知以保障農業灌溉用水安全為核心，以源頭預防、過程把控、末端監管為主線，推動構建跨部門、全週期的風險防控體系。（新華社）"
+    },
+    {
+      "id": "5044563",
+      "time": "2026-08-17 23:05:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱襲擊了烏克蘭港口的兩艘貨船。"
+    },
+    {
+      "id": "5044562",
+      "time": "2026-08-17 23:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月13日當週大豆出口檢驗量270201噸（前值399201噸），玉米出口檢驗量191.1萬噸（前值174.0萬噸），小麥出口檢驗量493401噸（前值421277噸）。"
+    },
+    {
+      "id": "mkt:01a01040-d22c-7aab-9065-357fe7136824",
+      "time": "2026-08-17 23:04:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "RIA reported Russia said it struck two cargo ships at a Ukrainian port."
+    },
+    {
+      "id": "5044561",
+      "time": "2026-08-17 23:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【荷蘭報告一例本土西尼羅病毒感染病例】荷蘭國家公共衛生與環境研究所17日通報，近日從一名獻血者的血液內檢測出西尼羅病毒，這是該國2020年以來首例確診的本土感染病例。(新華社)"
+    },
+    {
+      "id": "mkt:01a0103f-ca65-7aab-9065-2c0ba028f508",
+      "time": "2026-08-17 23:03:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reports a magnitude 5.0 earthquake 32 km north of Ruteng, Indonesia."
+    },
     {
       "id": "mkt:01a0103d-9034-7aab-9065-2372e46ad1e8",
       "time": "2026-08-17 23:01:05",
@@ -139396,62 +139447,6 @@
         "其他"
       ],
       "text": "【中星4B衛星發射失利 】8月10日20時02分，我國在文昌航天發射場使用長征七號改運載火箭發射中星4B衛星，火箭飛行異常，發射任務失利。具體原因正在進一步分析排查。（新華社）"
-    },
-    {
-      "id": "5034397",
-      "time": "2026-08-10 23:06:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美國政府檔案顯示美聯儲主席沃什已完成所承諾的投資權益剝離】一項政府記錄顯示，美聯儲主席凱文·沃什表示，他已賣出了此前承諾剝離的全部金融持倉。沃什簽署了一份美國政府道德辦公室的道德協議合規認證檔案，日期標註為上週四。該檔案於週六在該機構網站公開。5月份正式上任的沃什此前已向該辦公室提交資產剝離證明，顯示他已經出售了承諾處置的大部分持倉。最新的披露顯示，他已出售協議所涵蓋的剩餘權益。"
-    },
-    {
-      "id": "mkt:019fec35-1cd1-7aab-8fdc-9592cd4ec3ac",
-      "time": "2026-08-10 23:05:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude oil up 5.00% intraday at $80.17/bbl; Brent crude up 5.00% intraday at $85.58/bbl."
-    },
-    {
-      "id": "5034396",
-      "time": "2026-08-10 23:05:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯方面報道：下卡姆斯克遭無人機襲擊，78 人受傷，其中 25 人住院。"
-    },
-    {
-      "id": "5034395",
-      "time": "2026-08-10 23:05:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破81美元/桶，日內漲3.64%。"
-    },
-    {
-      "id": "5034394",
-      "time": "2026-08-10 23:03:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所資料顯示：英國近月天然氣上漲 10.12%，報每熱姆 149.71 便士。"
-    },
-    {
-      "id": "mkt:019fec33-4ed7-7aab-8fdc-8eb92effb74c",
-      "time": "2026-08-10 23:03:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran president Pezeshkian says US, Israeli strikes rely on AI data; plots foiled】Iranian President Pezeshkian said US and Israeli strikes are based on artificial-intelligence data, espionage networks, mercenaries and domestic agents, but their plans have been thwarted one by one, according to Mehr news agency. He made the remarks at a Tehran University meeting."
     }
   ]
 }
