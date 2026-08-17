@@ -1,7 +1,93 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:59:19_
-_本檔包含 3067 則快訊，約 604040 字_
+_更新時間：2026-08-18 05:35:22_
+_本檔包含 3062 則快訊，約 604032 字_
+
+---
+
+### 2026-08-12 09:21:36  #MKT News #Market Regions #Greater China #0753.HK #Impact bullish
+
+【China's C919 begins international scheduled commercial service】From today (12th), Air China will operate its Beijing-Ulaanbaatar route with the domestically built C919, marking the aircraft’s first entry into regular international commercial service.
+
+---
+
+### 2026-08-12 09:21:36  #MKT News #Important #Star Stocks #Tencent #Hang Seng Index #Impact bearish #01698.HK
+
+Hong Kong stocks opened lower: the Hang Seng Index fell 0.6% and the Hang Seng Tech Index fell 0.8%. Gold shares mostly opened higher. Tencent Music (01698.HK) opened down 11.41% after reporting Q2 total revenue of 8.93 bln yuan, up 5.8% YoY, and increasing its buyback to $400m.
+
+---
+
+### 2026-08-12 09:21:18  #央行 #中國央行
+
+央行公告，根據公開市場業務一級交易商的需求，2026年8月12日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-12 09:21:02  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月12日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-12 09:21:01  #MKT News #Important #CNH #Impact bearish
+
+PBOC said the 7-day reverse repo operation on 12 Aug 2026 amounted to zero, citing demand from primary dealers in open market operations.
+
+---
+
+### 2026-08-12 09:20:44  #公司
+
+【中信海直等在合肥成立低空科技公司】企查查APP顯示，近日，中信海合低空科技（合肥）有限公司成立，經營範圍包含航空運營支援服務；航空商務服務；人工智慧行業應用系統整合服務；通用航空服務等。企查查股權穿透顯示，該公司由中信海直等共同持股。
+
+---
+
+### 2026-08-12 09:20:13  #市場
+
+【飛天、精品茅臺飆升領漲 國窖1573、青花郎大幅回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，8月12日中國白酒業11大單品六漲三平兩跌，盤面分化依然顯著。上漲方面，精品茅臺放量大漲22元/瓶，終端零售均價來到2454元，再度大幅重新整理近一個月新高，連續三天單日漲幅均超十元，飆漲勢頭強勁；飛天茅臺上漲8元至1789元，創下7月18日上調價格以來的最高紀錄；青花汾20小漲1元至391元，創下近一個月以來次高；洋河夢之藍M6+上漲7元至599元，逼近600元整數關口；古井貢古20上漲7元至534元，三連陽創下20多天以來最高紀錄；習酒君品漲6元至637元，走出高位二連陰區間。下跌方面，國窖1573下跌8元，終端零售價來到882元，自階段性高點啟動技術性調整；青花郎下跌7元至699元，三連跌失守700元大關。五糧液普五八代，五糧液1618與水晶劍南春三款大單品今日價盤保持平穩，全國零售均價依次為808元、826元與403元。
+
+今日11大單品的終端零售總價再度走高，頭部酒品漲勢強勁，部分次高階產品價格回落並未擾動整體穩健上行格局。如果11大單品各取一瓶整體打包售賣，今日總售價為10022元，較昨日大幅上漲36元，創下3月下旬以來新高，總價突破一萬元整數大關。
+
+---
+
+### 2026-08-12 09:19:29  #其他
+
+【C919國產大飛機正式執飛國際商業航線】今天（12日）起，國航北京至蒙古國首都烏蘭巴托航線將由國產大飛機C919執飛，標誌著國產大飛機正式開啟國際定期商業航線運營。此前，C919飛機多次亮相海外航展，先後參加了兩屆新加坡航展和一屆迪拜航展。
+
+---
+
+### 2026-08-12 09:19:22  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate most-active contract intraday gain widened to 2.00%, trading at 148,340 yuan/ton.
+
+---
+
+### 2026-08-12 09:17:45  #公司
+
+【鉑科新材：晶片電感業務訂單飽滿 產能利用率高】鉑科新材(300811)8月12日在互動平臺表示，公司晶片電感業務目前經營情況正常，訂單很飽滿，產能利用率非常高。目前惠東一期新產能已經投入使用，正全力提高交付。
+
+---
+
+### 2026-08-12 09:17:15  #MKT News #Important #Commodities #Industrial Metals
+
+China coking coal most-active contract up over 2.00% intraday at 1,337 yuan/ton.
+
+---
+
+### 2026-08-12 09:16:17  #MKT News #Copper #Impact bullish
+
+Freeport Indonesia expects maintenance to be completed in Q3 2026.
+
+---
+
+### 2026-08-12 09:15:59  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.37% at 25,533, trading 120 points below the cash index.
+
+---
+
+### 2026-08-12 09:15:58  #國際
+
+【印尼總統普拉博沃本週將發表全國講話 直面國內漸起的質疑聲音】當普拉博沃·蘇比安託本週登臺向這個世界第四大人口大國發表講話時，從表面看，他將顯得比以往任何時候都更有權勢。但現實要更復雜。現年74歲的普拉博沃，預計將在週五上午的國情諮文演講和下午的預算演講中，捍衛自身執政記錄、加倍押注其優先議程，並回擊批評者。最近一項調查將總統支援率定在約51%，低於去年的80%以上，且半數受訪者對經濟持負面評價。另一項民調顯示，他兩項最大的舉措——一項耗資數十億美元的免費營養餐計劃，以及大規模建立數萬家合作社的行動——被列為該國最不緊迫的事項之列。
 
 ---
 
@@ -18414,119 +18500,5 @@ Advisor to Ukraine's interior minister said Russia launched ballistic strikes ag
 ### 2026-08-11 05:36:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 Kyiv mayor says explosions have occurred in the capital and the city is under ballistic missile attack; residents are urged to remain in shelters.
-
----
-
-### 2026-08-11 05:34:22  #其他
-
-中國地震臺網自動測定：08月11日05時31分在四川宜賓市高縣附近（北緯28.55度，東經104.67度）發生4.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-11 05:33:41  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Middle East media report a U.S. general is set to assume command in the Gaza Strip within weeks.
-
----
-
-### 2026-08-11 05:32:34  #國際
-
-【特朗普稱美軍實際控制霍爾木茲】美國總統特朗普當地時間6月10日下午在白宮對媒體稱，在伊朗要求美國就軍事衝突進行賠償後，他也要向伊朗提出索賠——這一說法與他幾個小時前在社交媒體發帖內容一致。 特朗普還稱，美國實際控制著霍爾木茲海峽，並已在該戰略石油水道清除了伊朗佈設的水雷。
-
----
-
-### 2026-08-11 05:28:57  #國際
-
-基輔響起防空警報。
-
----
-
-### 2026-08-11 05:28:53  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
-
-Air-raid sirens sounded in Kyiv, Ukraine.
-
----
-
-### 2026-08-11 05:28:27  #MKT News
-
-Libya's military intelligence chief Fawzi Mansouri was targeted in an assassination incident in Benghazi, Saudi outlet Alhadath reported.
-
----
-
-### 2026-08-11 05:22:11  #國際
-
-特朗普：伊朗已經“囊中羞澀”，在約300%的通脹背景下無力給士兵發放軍餉。
-
----
-
-### 2026-08-11 05:18:56  #市場
-
-富時A50期指連續夜盤收跌0.23%，報15010點。
-
----
-
-### 2026-08-11 05:14:39  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Chilean Copper Commission (Cochilco): Collahuasi mine copper output rose 1.7% YoY to 34,900 tonnes in June.
-
----
-
-### 2026-08-11 05:14:36  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-Chile's National Copper Commission: Escondida copper mine produced 111,400 tonnes of copper in June, up 45.8% YoY.
-
----
-
-### 2026-08-11 05:12:34  #公司 #國際
-
-【美航客機遭鳥擊後返航】當地時間8月10日上午，一架原定從美國南卡羅來納州默特爾比奇飛往北卡羅來納州夏洛特的美國航空航班，起飛後遭遇鳥擊並出現發動機問題，被迫返回默特爾比奇國際機場。美國航空公司方面稱，飛機安全降落，機上172名乘客無人受傷。空管錄音顯示，飛行員曾報告“發動機出現問題”並宣佈“緊急狀態”。機場跑道上發現大量鳥類殘骸和羽毛。另有附近飛行員稱，看到這架客機撞上一群鳥後左側發動機冒煙。不過飛機落地檢查後據稱未發現起火或洩漏。美國聯邦航空局將對事件展開調查。（CCTV國際時訊）
-
----
-
-### 2026-08-11 05:11:30  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Chilean Copper Commission (Cochilco) said state-owned Codelco's June copper production fell 4.8% YoY to 114,400 tonnes.
-
----
-
-### 2026-08-11 05:09:38  #MKT News
-
-RBNZ released a consultation paper on introducing a prudential tax, proposing a full cost-recovery charge on all prudential costs and other fees.
-
----
-
-### 2026-08-11 05:08:59  #公司
-
-紐西蘭儲備銀行釋出新審慎徵費的諮詢檔案。該項徵費將適用於銀行、非銀行存款機構、保險公司以及金融市場基礎設施。
-
----
-
-### 2026-08-11 05:07:46  #其他
-
-【委內瑞拉地震遇難人數升至6301人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯10日說，6月24日地震造成的遇難人數已升至6301人。（新華社）
-
----
-
-### 2026-08-11 05:03:23  #市場
-
-【國際金價週一漲1.1%，現貨白銀漲3.2%】週一紐約尾盤，現貨黃金漲1.10%，報4389.38美元/盎司。COMEX黃金期貨漲1.10%，報4448.20美元/盎司，逼近6月17日頂部4465.90美元和6月4日頂部4607.40美元。現貨白銀漲3.20%，報65.7089美元/盎司。COMEX白銀期貨漲3.80%，報65.910美元/盎司。COMEX銅期貨漲0.68%，報6.6360美元/磅。現貨鉑金漲0.32%，現貨鈀金漲0.33%。
-
----
-
-### 2026-08-11 05:02:52  #國際
-
-伊朗外交部長表示，國際社會應當就霍爾木茲海峽封鎖所帶來的安全與經濟後果追究美國的責任，並指責美國與以色列造成這條戰略水道局勢動盪。
-
----
-
-### 2026-08-11 05:00:06  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【IRGC Quds Force commander visits Baghdad, meets Iraqi political bloc and militia leaders】On the evening of the 10th (local time), Iran’s Islamic Revolutionary Guard Corps Quds Force commander Kani arrived in Baghdad and met with the Coordination Framework Alliance, leaders of the Popular Mobilization Forces and commanders of various Iraqi militias. Discussions covered national weapons control and related security issues.
-
----
-
-### 2026-08-11 04:59:19  #國際
-
-【伊朗“聖城旅”指揮官到訪巴格達 同伊拉克多方會晤】當地時間10日晚，伊拉克安全部門訊息人士稱，伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼當晚抵達巴格達，與伊拉克國民議會最大黨團“協調框架聯盟”、“人民動員組織”及伊拉克各民兵組織領導人舉行會晤，會晤涉及伊拉克國家武器管控等議題。
 
 ---

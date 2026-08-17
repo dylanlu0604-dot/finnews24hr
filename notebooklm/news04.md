@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:59:19_
-_本檔包含 2989 則快訊，約 603824 字_
+_更新時間：2026-08-18 05:35:22_
+_本檔包含 2984 則快訊，約 604479 字_
+
+---
+
+### 2026-08-13 12:11:52  #MKT News #XAUUSD #Impact bearish
+
+New York gold futures slipped below $4,450/oz, down 0.43% on the day.
+
+---
+
+### 2026-08-13 12:11:39  #市場 #焦點
+
+紐約期金失守4450美元/盎司，日內跌0.39%。
+
+---
+
+### 2026-08-13 12:10:37  #Trading Economics #Economy #Malaysia #Construction Output #Importance 1
+
+Malaysia Q2 Construction Output Growth Accelerates — Malaysia’s construction activity grew 8.8% year-on-year in Q2 2026, quickening from an 8.5% increase in the previous quarter, which marked the sector’s slowest growth since Q4 2023. The solid result was mainly driven by faster civil engineering activity (2.7% vs 1.5% in Q1), which remained the largest contributor to the sector, accounting for 35.0% of total output. Growth in non-residential buildings also strengthened (13.3% vs 12.7%), representing 29.3% of overall activity. Meanwhile, residential building activity accelerated further (8.7% vs 6.1%), contributing 22.8% of total output. In contrast, special trade activities moderated sharply (17.6% vs 24.6%), although they still accounted for 12.9% of total construction activity.
+
+---
+
+### 2026-08-13 12:10:37  #公司
+
+【大陸航空科技控股：預計上半年虧損不多於1.05億港元】大陸航空科技控股公告，預期截至2026年6月30日止六個月錄得除稅後虧損不多於1.05億港元，上年同期除稅後溢利約6400萬港元。虧損由盈利警告公告所述的7000萬港元最多增至1.05億港元，乃由於就物業出售重新計量持作出售資產所產生的估計虧損撥備約3800萬港元所致。
+
+---
+
+### 2026-08-13 12:10:28  #公司
+
+【希慎興業：2026年上半年基本溢利11.07億港元同比增7.4%】希慎興業公告，截至2026年6月30日止6個月，營業額17.28億港元，同比微降0.1%。經常性基本溢利10.49億港元，同比增長1.7%；基本溢利11.07億港元，同比增長7.4%，主要受惠於出售竹林苑住宅單位的公平值收益帶動。公佈溢利7300萬港元，同比下降2.7%。每股基本盈利7港仙。董事會宣派第一次中期股息每股27港仙，與上年持平。
+
+---
+
+### 2026-08-13 12:10:23  #MKT News
+
+【Hong Kong midday: Hang Seng rebounds; compute-hardware names lead gains】Hang Seng rebounded from an opening drop to finish up 0.07% at 25,457.33 at midday after opening more than 150 points lower; Hang Seng Tech gained 0.30% to 4,790.56. Market turnover reached HKD 132.03 bln. Compute-hardware stocks led sector gains, with storage and optical-communications sub-sectors outperforming; nonferrous metals were the weakest group. Innovative-drug names recovered after an early dip. Selected movers: Cambridge Technology (06166.HK) +15.37%, Shengbang (03661.HK) +7.69%, CSPC PHARMA (01093.HK) +5.76%; Tencent Holdings (00700.HK) fell 3.81% after results; Lingbao Gold (03330.HK) -6.78%; Aluminum Corp of China (02600.HK) -5.01%.
+
+---
+
+### 2026-08-13 12:10:14  #公司
+
+瑞典法律人工智慧初創公司Legora尋求以超100億美元估值融資。
+
+---
+
+### 2026-08-13 12:08:15  #MKT News #Market Regions #Greater China #00992.HK #Impact bullish
+
+Lenovo Group (00992.HK) said adjusted profit attributable to equity holders rose 176% YoY in Q1 to $1.075 bln.
+
+---
+
+### 2026-08-13 12:08:12  #MKT News
+
+【Crew mental health deteriorates aboard USS Abraham Lincoln after prolonged deployment】Military Times reports multiple sailors aboard USS Abraham Lincoln have attempted to jump overboard amid what it calls a mental-health crisis that has reached the breaking point. About 5,000 sailors and Marines remain on a deployment that began Nov. 21 supporting U.S. actions in the Middle East against Iran; the deployment, originally due to end in May, has been extended with no return date announced. Families raised concerns about fatigue, safety and mental health at a recent online meeting. The acting Navy secretary told families a team will relieve Lincoln but gave no timeline, citing operational security; Sen. Richard Blumenthal has requested details on shipboard conditions and the extension.
 
 ---
 
@@ -17954,91 +18008,5 @@ European Gas Holds Losses as Traders Assess Hormuz Developments — European nat
 ### 2026-08-12 09:21:42  #MKT News #Market Regions #Greater China #HSI #Impact bearish #HSCEI #Hang Seng Tech Index
 
 Hong Kong's Hang Seng Index (HSI) opened down 154.43 points, or 0.6%, at 25,498.39 on Aug. 12 (Wed); the Hang Seng Tech Index opened down 38.67 points, or 0.8%, at 4,785.75; the Hang Seng China Enterprises Index (HSCEI) opened down 48.50 points, or 0.57%, at 8,479.60; the Hang Seng Red Chip Index opened down 5.66 points, or 0.14%, at 4,116.27.
-
----
-
-### 2026-08-12 09:21:36  #MKT News #Market Regions #Greater China #0753.HK #Impact bullish
-
-【China's C919 begins international scheduled commercial service】From today (12th), Air China will operate its Beijing-Ulaanbaatar route with the domestically built C919, marking the aircraft’s first entry into regular international commercial service.
-
----
-
-### 2026-08-12 09:21:36  #MKT News #Important #Star Stocks #Tencent #Hang Seng Index #Impact bearish #01698.HK
-
-Hong Kong stocks opened lower: the Hang Seng Index fell 0.6% and the Hang Seng Tech Index fell 0.8%. Gold shares mostly opened higher. Tencent Music (01698.HK) opened down 11.41% after reporting Q2 total revenue of 8.93 bln yuan, up 5.8% YoY, and increasing its buyback to $400m.
-
----
-
-### 2026-08-12 09:21:18  #央行 #中國央行
-
-央行公告，根據公開市場業務一級交易商的需求，2026年8月12日7天期逆回購操作量為零。
-
----
-
-### 2026-08-12 09:21:02  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，2026年8月12日7天期逆回購操作量為零。
-
----
-
-### 2026-08-12 09:21:01  #MKT News #Important #CNH #Impact bearish
-
-PBOC said the 7-day reverse repo operation on 12 Aug 2026 amounted to zero, citing demand from primary dealers in open market operations.
-
----
-
-### 2026-08-12 09:20:44  #公司
-
-【中信海直等在合肥成立低空科技公司】企查查APP顯示，近日，中信海合低空科技（合肥）有限公司成立，經營範圍包含航空運營支援服務；航空商務服務；人工智慧行業應用系統整合服務；通用航空服務等。企查查股權穿透顯示，該公司由中信海直等共同持股。
-
----
-
-### 2026-08-12 09:20:13  #市場
-
-【飛天、精品茅臺飆升領漲 國窖1573、青花郎大幅回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，8月12日中國白酒業11大單品六漲三平兩跌，盤面分化依然顯著。上漲方面，精品茅臺放量大漲22元/瓶，終端零售均價來到2454元，再度大幅重新整理近一個月新高，連續三天單日漲幅均超十元，飆漲勢頭強勁；飛天茅臺上漲8元至1789元，創下7月18日上調價格以來的最高紀錄；青花汾20小漲1元至391元，創下近一個月以來次高；洋河夢之藍M6+上漲7元至599元，逼近600元整數關口；古井貢古20上漲7元至534元，三連陽創下20多天以來最高紀錄；習酒君品漲6元至637元，走出高位二連陰區間。下跌方面，國窖1573下跌8元，終端零售價來到882元，自階段性高點啟動技術性調整；青花郎下跌7元至699元，三連跌失守700元大關。五糧液普五八代，五糧液1618與水晶劍南春三款大單品今日價盤保持平穩，全國零售均價依次為808元、826元與403元。
-
-今日11大單品的終端零售總價再度走高，頭部酒品漲勢強勁，部分次高階產品價格回落並未擾動整體穩健上行格局。如果11大單品各取一瓶整體打包售賣，今日總售價為10022元，較昨日大幅上漲36元，創下3月下旬以來新高，總價突破一萬元整數大關。
-
----
-
-### 2026-08-12 09:19:29  #其他
-
-【C919國產大飛機正式執飛國際商業航線】今天（12日）起，國航北京至蒙古國首都烏蘭巴托航線將由國產大飛機C919執飛，標誌著國產大飛機正式開啟國際定期商業航線運營。此前，C919飛機多次亮相海外航展，先後參加了兩屆新加坡航展和一屆迪拜航展。
-
----
-
-### 2026-08-12 09:19:22  #MKT News #Important #Commodities #Industrial Metals
-
-Lithium carbonate most-active contract intraday gain widened to 2.00%, trading at 148,340 yuan/ton.
-
----
-
-### 2026-08-12 09:17:45  #公司
-
-【鉑科新材：晶片電感業務訂單飽滿 產能利用率高】鉑科新材(300811)8月12日在互動平臺表示，公司晶片電感業務目前經營情況正常，訂單很飽滿，產能利用率非常高。目前惠東一期新產能已經投入使用，正全力提高交付。
-
----
-
-### 2026-08-12 09:17:15  #MKT News #Important #Commodities #Industrial Metals
-
-China coking coal most-active contract up over 2.00% intraday at 1,337 yuan/ton.
-
----
-
-### 2026-08-12 09:16:17  #MKT News #Copper #Impact bullish
-
-Freeport Indonesia expects maintenance to be completed in Q3 2026.
-
----
-
-### 2026-08-12 09:15:59  #MKT News #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened the day session down 0.37% at 25,533, trading 120 points below the cash index.
-
----
-
-### 2026-08-12 09:15:58  #國際
-
-【印尼總統普拉博沃本週將發表全國講話 直面國內漸起的質疑聲音】當普拉博沃·蘇比安託本週登臺向這個世界第四大人口大國發表講話時，從表面看，他將顯得比以往任何時候都更有權勢。但現實要更復雜。現年74歲的普拉博沃，預計將在週五上午的國情諮文演講和下午的預算演講中，捍衛自身執政記錄、加倍押注其優先議程，並回擊批評者。最近一項調查將總統支援率定在約51%，低於去年的80%以上，且半數受訪者對經濟持負面評價。另一項民調顯示，他兩項最大的舉措——一項耗資數十億美元的免費營養餐計劃，以及大規模建立數萬家合作社的行動——被列為該國最不緊迫的事項之列。
 
 ---

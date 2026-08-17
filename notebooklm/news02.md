@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:59:19_
-_本檔包含 3053 則快訊，約 603493 字_
+_更新時間：2026-08-18 05:35:22_
+_本檔包含 3042 則快訊，約 604659 字_
+
+---
+
+### 2026-08-16 22:01:05  #其他
+
+市場訊息：巴基斯坦和卡達的中間人仍在華盛頓與德黑蘭之間傳遞資訊，但尚未取得明顯進展。
+
+---
+
+### 2026-08-16 21:56:35  #MKT News
+
+Kushner said Egypt is an important U.S. partner in the Middle East.
+
+---
+
+### 2026-08-16 21:56:21  #MKT News
+
+Egyptian President Sisi and Kushner confirmed the need to resolve the current regional crisis and reiterated that parties must commit to fulfilling their obligations under the Gaza ceasefire agreement.
+
+---
+
+### 2026-08-16 21:52:21  #其他
+
+【國產大郵輪首次在大灣區啟航 產業鏈發展迎來新機遇】近日，首艘國產大型郵輪“愛達·魔都號”從深圳招商蛇口國際郵輪母港鳴笛啟航，開啟粵港澳大灣區（以下簡稱“大灣區”）航季，這也是該國產大郵輪首次落地大灣區開展國際運營，標誌著國產大型郵輪正式深度佈局華南市場，我國郵輪製造、港口運營、文旅消費全產業鏈迎來新的發展視窗。
+
+---
+
+### 2026-08-16 21:51:15  #市場
+
+【貨運eVTOL率先領跑低空產業化 配套鋰電迎來成長空間】2026年新版《民用航空法》正式落地實施後，國內低空空域開放程序明顯提速。8月10日，高工產研鋰電研究院（GGII）釋出行業洞察報告指出，低空產業將遵循先貨運、後載人，先遠郊、後城區，先試點、再全國鋪開的發展路徑推進商業化，貨運eVTOL將率先實現規模化量產，上游配套低空鋰電池賽道同步迎來長期增長機遇，2029—2035年或將成為整個低空經濟產業高速發展的黃金週期。 行業內對eVTOL有著清晰統一界定，該類飛行器依靠電力作為主動力，搭載3臺及以上獨立分散式電機旋翼，可完成垂直起降作業，通用判定標準為最大起飛重量不低於150公斤。現階段能夠實現小批次出貨的機型大多僅支援同點位往返作業，主要分為過載吊運、觀光載人兩大型別，跨區域貨運飛行仍處於試點探索階段。2026年7月1日新版《民用航空法》實施後，跨點位低空空域管控有序放開，行業發展節奏被明確劃定，只有貨運eVTOL運營模式經過市場驗證成熟後，載人跨區域飛行的空域使用許可權才會逐步放開。（中國經營報）
+
+---
+
+### 2026-08-16 21:47:32  #宏觀 #國際
+
+市場訊息：特朗普尋求對伊朗實施陸地封鎖，但成功機率渺茫，他後續將出臺上千項針對伊朗的新制裁措施。
+
+---
+
+### 2026-08-16 21:45:53  #其他
+
+【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月17日0時至8月19日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
+
+---
+
+### 2026-08-16 21:45:46  #MKT News
+
+【Kushner visits Egypt to press Gaza agreement implementation; to meet Hamas and mediators】Saudi outlet Alhadath reported Egyptian President received Trump envoy Jared Kushner in Al Alamein, where they discussed the need for parties to fulfil obligations under the Gaza agreement. Al Arabiya, citing sources, said Kushner will meet Hamas today to push the Gaza administrative committee to assume responsibilities; the committee’s Gaza senior representative Maladinov and delegations from Turkey, Egypt and Qatar will attend. Kushner and the Hamas delegation will discuss an international stabilization force, Israeli withdrawal and humanitarian aid; the stated goal is to implement the Trump plan, not to renegotiate it, with emphasis on ending the cycle of violence in Gaza.
+
+---
+
+### 2026-08-16 21:35:20  #其他
+
+有訊息來源報道稱，在胡塞武裝的打擊之後，吉贊省“阿布阿里什”地區聽到了數聲爆炸聲。
+
+---
+
+### 2026-08-16 21:33:52  #公司 #國際
+
+【印度一乘客欲攜槍登機 槍支走火擊傷安檢員】16日，印度一名男子攜帶槍支欲登機，在接受安檢時槍支意外擊發，兩名機場安檢員受傷。 據印度媒體援引印度民用航空部的宣告報道，這名55歲男子和其妻子當天上午打算乘坐印度航空公司旗下印度航空快運公司航班從北方邦瓦拉納西前往孟買。該男子攜帶一支經過註冊登記的手槍，在瓦拉納西機場接受安檢時，一發子彈“意外射出”，擊中一名安檢員腿部和另一名安檢員手部。（新華社）
+
+---
+
+### 2026-08-16 21:32:49  #國際
+
+市場訊息：伊朗稱霍爾木茲海峽是結束戰爭的籌碼、
+
+---
+
+### 2026-08-16 21:32:38  #國際
+
+伊朗總統：我們與國內任何一方均無分歧，各方正在尋求能夠解決國家問題。
+
+---
+
+### 2026-08-16 21:30:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Market Regions #Greater China #Star Stocks #Alibaba #Market Themes #China Tech Giants #WTI #Impact mixed #DXY #EURUSD
+
+【Weekly preview: China July economic 'report card'; Alibaba, Baidu earnings; Fed minutes; US warned of 'unprecedented' economic strike on Iran】Key market-moving items next week: China releases July retail sales, industrial output and total electricity consumption (Monday) — the closest thing to a July economic 'report card' for asset and policy watchers. The PBOC will conduct overnight reverse repos Aug 17–19, and China publishes Swift RMB global payments share and the 1-year LPR on Thursday. The Fed releases meeting minutes on Thursday. US energy inventories (API and EIA crude) are due Wednesday; NYMEX September crude contract rolls on Friday. US labor and activity data include ADP payrolls, housing starts/permits and pending home sales (Tuesday), initial jobless claims and the Philadelphia Fed index (Thursday), and S&P Global August manufacturing and services PMIs (Friday, flash). Europe and UK: German/euro-area ZEW (Tue), UK and euro-area CPI (UK on Wed; euro-area final CPI Wed), and preliminary Aug manufacturing PMIs across major European economies and UK on Friday. Other data: Canada July CPI (Mon), Japan July core CPI (Fri), Australia July unemployment (Thu), euro-area current account (Wed), and US leading indicators (Thu). Corporate calendar: major China/HK earnings include Geely (Mon); Baidu and Xiaomi (Tue); Kuaishou, ZTO, Kingsoft, HKEX and Weibo (Wed); Ping An, China Telecom, NetEase, Alibaba, AIA, Li Ning, Pop Mart and Futu (Thu); ZTE, Sinopec and Beike (Fri). Events and policy signals: ECB President Lagarde speaks at a WEF panel on global economic outlook (Wed); Seoul AI Summit runs Aug 19–21 and the World Robot Conference Aug 19–23 (sector sentiment). Geopolitical risk: market commentary flagged by Bessent warning of a possible 'unprecedented' US economic strike on Iran this week — presented as a forecast/preview, not an official action.
 
 ---
 
@@ -18287,149 +18365,5 @@ WTI crude's intraday gain widened to 1.00%, trading at $81.25/bbl.
 ### 2026-08-14 14:06:46  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
 
 【Fuel retail prices cut at 24:00 tonight; fifth reduction this year】China will lower retail price caps for gasoline and diesel at 24:00 on Aug 14, the fifth cut this year. Retail ceilings fall by 230 yuan/tonne for gasoline and 220 yuan/tonne for diesel, equivalent to per‑litre cuts of 92‑octane -0.18 yuan/litre, 95‑octane -0.19 yuan/litre and 0# diesel -0.19 yuan/litre. During the pricing cycle Middle East tensions intensified and China’s crude-price change rate swung negative. Short-term prospects for reopening of the Strait of Hormuz are unclear, keeping international oil prices biased high and volatile. A new round of crude-price change rate has opened in positive territory; the opening day's equivalent upward adjustment would be 150 yuan/tonne. Next pricing window is 24:00 on Aug 28.
-
----
-
-### 2026-08-14 14:06:28  #市場
-
-WTI原油日內漲1%，現報82.10美元/桶。
-
----
-
-### 2026-08-14 14:05:00  #MKT News #AMAT.O #Impact bullish
-
-JP Morgan raises PT on Applied Materials (AMAT.O) to $660 from $515.
-
----
-
-### 2026-08-14 14:04:49  #觀點
-
-摩根大通將應用材料目標價從515美元上調至660美元。
-
----
-
-### 2026-08-14 14:04:13  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures rose 1.0% intraday to $82.03 per barrel.
-
----
-
-### 2026-08-14 14:03:45  #其他
-
-【智譜GLM-5.3已上線京東雲MaaS平臺】據京東雲訊息，8月14日，京東雲接入智譜最新開源旗艦模型GLM-5.3，並已在模型服務平臺完成適配上線。
-
----
-
-### 2026-08-14 14:03:28  #MKT News #Important #Market Themes #AI Revolution #00100.HK #Impact bearish #02513.HK #02498.HK
-
-Hong Kong AI application stocks extended afternoon losses: MINIMAX-W (00100.HK) fell over 10%, Zhipu AI (02513.HK) dropped nearly 6%; Suteng Juchuang (02498.HK) and Youjia Innovation (02431.HK) also fell.
-
----
-
-### 2026-08-14 14:03:24  #其他
-
-港股AI應用板塊午後跌幅擴大，MINIMAX-W(00100.HK)跌超10%，智譜(02513.HK)跌近6%，速騰聚創(02498.HK)、佑駕創新(02431.HK)等跟跌。
-
----
-
-### 2026-08-14 14:02:43  #國際
-
-日本財務省：日本外匯事務負責人三村淳8月21日將在東京與韓國同行會面。
-
----
-
-### 2026-08-14 14:02:43  #MKT News #Market Regions #Japan & APAC
-
-Japan's Ministry of Finance said its top foreign-exchange official will meet the South Korean counterpart in Tokyo on Aug. 21.
-
----
-
-### 2026-08-14 14:02:27  #MKT News #Important #Commodities #Industrial Metals
-
-Most-active coking coal futures rose more than 5% to 1,387.5 yuan/ton, the highest since June 12.
-
----
-
-### 2026-08-14 14:02:16  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-Euro STOXX 50 futures up 0.26%, Germany's DAX futures up 0.42%, France's CAC 40 futures up 0.05%, Britain's FTSE 100 futures up 0.32%.
-
----
-
-### 2026-08-14 14:01:40  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225
-
-20-year Japanese government bond yield rose 1.5 bps to 3.755%.
-
----
-
-### 2026-08-14 14:01:31  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share gaming sector extended gains; Xunyou Technology and Century Huatong rose more than 6%, while Kaiying Network, Zhongqingbao and 37 Interactive Entertainment also advanced.
-
----
-
-### 2026-08-14 14:01:27  #市場
-
-【光纖概念板塊走高，亨通光電漲停】光纖概念板塊走高，亨通光電漲停，長芯博創、中天科技、太辰光、長飛光纖、鼎通科技。
-
----
-
-### 2026-08-14 14:01:07  #市場
-
-【CPO概念再度拉昇 金戈新材30cm漲停】午後CPO概念再度拉昇，金戈新材30cm漲停，此前中石科技、富信科技、阿萊德、劍橋科技漲停，長芯博創、中瓷電子、太辰光、新易盛、中際旭創、天孚通訊等紛紛衝高。
-
----
-
-### 2026-08-14 14:00:52  #市場 #國際
-
-歐洲斯托克50指數期貨上漲0.26%，德國DAX指數期貨上漲0.42%，法國CAC 40指數期貨上漲0.05%，英國富時期貨上漲0.32%。
-
----
-
-### 2026-08-14 14:00:38  #市場 #焦點
-
-WTI原油突破82美元/桶，日內漲0.92%。
-
----
-
-### 2026-08-14 14:00:27  #MKT News #WTI #Impact bullish
-
-WTI crude futures touched $82.00/bbl, up 0.97% intraday.
-
----
-
-### 2026-08-14 14:00:12  #資料
-
-德國7月批發物價指數月率 0.2%，前值-0.7%。德國7月批發物價指數年率 5.3%，前值4.9%。
-
----
-
-### 2026-08-14 14:00:12  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-Germany July wholesale price index YoY 5.3% vs 4.9% prior.
-
----
-
-### 2026-08-14 14:00:12  #MKT News #EURUSD #Impact mixed #XAUUSD #Impact bullish #DAX
-
-Germany July wholesale price index (MoM) +0.2%; prior -0.7%.
-
----
-
-### 2026-08-14 14:00:04  #MKT News #Economic Calendar #Important
-
-Germany | Wholesale Price Index (YoY) (Jul) | actual 5.3% | previous 4.9%
-
----
-
-### 2026-08-14 14:00:04  #MKT News #Economic Calendar #Important
-
-Germany | Wholesale Price Index (MoM) (Jul) | actual 0.2% | previous -0.7%
-
----
-
-### 2026-08-14 13:59:54  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX Erases Losses, Posts 2nd Weekly Gain — New Zealand's stocks rose 29 points, or 0.2%, to close at 13,854 on Friday, reversing morning weakness and extending gains from the previous session, tracking a rise on Wall Street overnight as bets on a Fed interest rate hike at the September meeting eased following soft inflation data. Moderating oil prices also lifted sentiment as inflation concerns eased and expectations grew that the RBNZ would slow the pace of monetary policy tightening. The latest data also supported sentiment, as New Zealand's factory activity grew for the 21st consecutive month in July, though at a softer rate. However, traders were cautious ahead of food inflation data and China's interest rate decision due next week. Energy, tech, consumer discretionary, and industrials mainly drove the index, with notable gains including Colonial Motor (9.2%), ANZ Group (1.6%), Henderson Far East Income (1.2%), and Mainfreight (1.1%). For the week, the index rose 0.2%, marking the second consecutive weekly gain.
 
 ---

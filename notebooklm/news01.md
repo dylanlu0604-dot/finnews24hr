@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:59:19_
-_本檔包含 2908 則快訊，約 605773 字_
+_更新時間：2026-08-18 05:35:22_
+_本檔包含 2913 則快訊，約 604468 字_
+
+---
+
+### 2026-08-18 05:26:33  #MKT News
+
+A U.S. judge blocked the Trump administration’s plan to relocate the new FBI headquarters from Maryland to Washington, D.C.
+
+---
+
+### 2026-08-18 05:26:07  #國際
+
+美國法官阻止特朗普政府將聯邦調查局新總部選址從馬里蘭州遷至華盛頓特區的計劃。
+
+---
+
+### 2026-08-18 05:25:53  #其他
+
+【委內瑞拉強震已致6438人死亡】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯在社交媒體發文稱，在6月24日地震中遇難的人數已升至6438人。羅德里格斯在社交媒體上釋出的訊息顯示，已有6462人獲救，超過8.6萬人曾在醫院接受治療。6月24日晚，委內瑞拉發生百餘年來最強地震，一分鐘內出現兩次7級以上強震。 (央視新聞)
+
+---
+
+### 2026-08-18 05:24:54  #MKT News #Commodities #Energy
+
+A top Petrobras executive said oil recovered from Amazon-region drilling appears to be of high quality but requires further analysis. The company has identified locations for the next three wells in the Amazon region.
+
+---
+
+### 2026-08-18 05:23:59  #其他
+
+美加貿易談判因汽車關稅問題陷入僵局。
+
+---
+
+### 2026-08-18 05:23:45  #公司
+
+勘探生產部門主管表示，巴西國家石油公司（Petrobras）已確定亞馬遜河口後續三口鑽井的選址。
+
+---
+
+### 2026-08-18 05:22:57  #公司
+
+勘探生產部門主管表示，巴西國家石油公司（Petrobras） 在亞馬遜河口鑽井發現的石油前景十分可觀，但仍需開展進一步分析。
+
+---
+
+### 2026-08-18 05:17:03  #MKT News #Commodities #Energy #PETR4.SA
+
+Petrobras top executive said drilling at the mouth of the Amazon has cost about $300 mln to date.
+
+---
+
+### 2026-08-18 05:15:31  #市場
+
+富時A50期指連續夜盤收跌0.23%，報15131點。
+
+---
+
+### 2026-08-18 05:13:24  #公司
+
+高管稱，巴西國家石油公司在亞馬遜河口的鑽井作業迄今已耗資約 3 億美元。
+
+---
+
+### 2026-08-18 05:13:04  #Trading Economics #Economy #United States #Capital Flows #Importance 1
+
+US TIC Inflows Reach $133.5 Billion in June — Net foreign acquisitions of long-term securities, short-term US securities and banking flows resulted in a net TIC inflow of $133.5 billion in June 2026. Net foreign private inflows totaled $85.0 billion, while official inflows reached $48.4 billion. Foreign residents increased their holdings of long-term US securities, with net purchases totaling $207.1 billion. Private foreign investors accounted for $169.8 billion, while official institutions purchased $37.3 billion. US residents also increased their holdings of long-term foreign securities, with net purchases of $34.4 billion. After adjustments, overall net foreign purchases of long-term securities were estimated at $172.7 billion in June. Foreign residents reduced their holdings of US Treasury bills by $29.0 billion, while holdings of dollar-denominated short-term US securities and other custody liabilities fell $4.9 billion.
+
+---
+
+### 2026-08-18 05:11:58  #市場
+
+週一（8月17日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7431元，較上週五紐約尾盤漲15點，日內整體交投於6.7439-6.7376元區間，整體衝高回落、北京時間16:30創2023年2月3日（最高達到6.7342元）以來盤中新高，逼近當年1月16日頂部6.6975元。
+
+---
+
+### 2026-08-18 05:11:17  #國際
+
+ROCKET LAB 加入美國太空部隊價值 9.81 億美元的 NITE‑STAR 專案，推進太空測試與訓練基礎設施建設。
+
+---
+
+### 2026-08-18 05:06:18  #MKT News
+
+【Kushner says U.S. and Iran have not yet reached consensus】On Aug. 17 local time, Jared Kushner, President Trump’s son-in-law, said dialogue between U.S. and Iranian government departments had reached "unprecedented" levels but that the sides had "not yet reached consensus".
+
+---
+
+### 2026-08-18 05:05:17  #國際
+
+【庫什納稱美伊雙方尚未達成共識】當地時間8月17日，美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。（央視新聞）
+
+---
+
+### 2026-08-18 05:02:58  #MKT News
+
+Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438.
+
+---
+
+### 2026-08-18 05:01:28  #市場
+
+【國際金價漲0.9%，白銀漲1.7%】週一（8月17日）紐約尾盤，現貨黃金漲0.91%，報4416.25美元/盎司，絕大部分時間處於上漲狀態，交投於4367.32-4428.88美元，最近數日持穩於4400美元附近——100日均線近期也膠著於這一水平附近。現貨白銀漲1.72%，報65.7945美元/盎司，已於8月7日漲穿50日均線（該技術指標目前報61.2981美元）。COMEX銅期貨跌0.11%，報6.7070美元/磅，亞太尾盤曾達到6.8420美元，持穩於8月6日頂部6.96美元附近。
+
+---
+
+### 2026-08-18 04:59:23  #市場
+
+牙買加7月消費者價格環比上漲1.2%。
 
 ---
 
@@ -17435,83 +17543,5 @@ Israeli media reported Kushner discussed maintaining a Gaza ceasefire with offic
 ### 2026-08-16 22:08:17  #公司
 
 【“凹公酒”為賈平凹授權？公司回應】8月16日，山東楊湖酒業有限公司、西安曲江凹凹文化傳播有限公司釋出關於近期惡意誤傷賈平凹先生及詆譭“凹公酒”事件的聯合宣告：近日，網路上出現大量針對我司產品“凹公酒”的不實言論，部分網民藉此強行關聯並惡意攻擊著名作家賈平凹先生，對其個人進行人格侮辱，言辭惡劣。賈平凹先生從未以授權、題字、代言、入股、合作等任何形式參與“凹公酒”專案，與本兩公司不存在商業合作、業務往來及相關利益約定。網路流傳的“賈平凹授權”“賈平凹題名”“賈平凹入股”等說法，均與客觀事實不符，屬於不實資訊。西安曲江凹凹文化傳播有限公司字號中的“凹凹”，為我司獨立構思的文化命名，取自企業自身文化理念，與賈平凹先生無關聯。“凹公酒”的品牌名稱、標識設計、文化定位以及全部產品創意，均為本兩公司獨立創作、自主運營。
-
----
-
-### 2026-08-16 22:01:05  #其他
-
-市場訊息：巴基斯坦和卡達的中間人仍在華盛頓與德黑蘭之間傳遞資訊，但尚未取得明顯進展。
-
----
-
-### 2026-08-16 21:56:35  #MKT News
-
-Kushner said Egypt is an important U.S. partner in the Middle East.
-
----
-
-### 2026-08-16 21:56:21  #MKT News
-
-Egyptian President Sisi and Kushner confirmed the need to resolve the current regional crisis and reiterated that parties must commit to fulfilling their obligations under the Gaza ceasefire agreement.
-
----
-
-### 2026-08-16 21:52:21  #其他
-
-【國產大郵輪首次在大灣區啟航 產業鏈發展迎來新機遇】近日，首艘國產大型郵輪“愛達·魔都號”從深圳招商蛇口國際郵輪母港鳴笛啟航，開啟粵港澳大灣區（以下簡稱“大灣區”）航季，這也是該國產大郵輪首次落地大灣區開展國際運營，標誌著國產大型郵輪正式深度佈局華南市場，我國郵輪製造、港口運營、文旅消費全產業鏈迎來新的發展視窗。
-
----
-
-### 2026-08-16 21:51:15  #市場
-
-【貨運eVTOL率先領跑低空產業化 配套鋰電迎來成長空間】2026年新版《民用航空法》正式落地實施後，國內低空空域開放程序明顯提速。8月10日，高工產研鋰電研究院（GGII）釋出行業洞察報告指出，低空產業將遵循先貨運、後載人，先遠郊、後城區，先試點、再全國鋪開的發展路徑推進商業化，貨運eVTOL將率先實現規模化量產，上游配套低空鋰電池賽道同步迎來長期增長機遇，2029—2035年或將成為整個低空經濟產業高速發展的黃金週期。 行業內對eVTOL有著清晰統一界定，該類飛行器依靠電力作為主動力，搭載3臺及以上獨立分散式電機旋翼，可完成垂直起降作業，通用判定標準為最大起飛重量不低於150公斤。現階段能夠實現小批次出貨的機型大多僅支援同點位往返作業，主要分為過載吊運、觀光載人兩大型別，跨區域貨運飛行仍處於試點探索階段。2026年7月1日新版《民用航空法》實施後，跨點位低空空域管控有序放開，行業發展節奏被明確劃定，只有貨運eVTOL運營模式經過市場驗證成熟後，載人跨區域飛行的空域使用許可權才會逐步放開。（中國經營報）
-
----
-
-### 2026-08-16 21:47:32  #宏觀 #國際
-
-市場訊息：特朗普尋求對伊朗實施陸地封鎖，但成功機率渺茫，他後續將出臺上千項針對伊朗的新制裁措施。
-
----
-
-### 2026-08-16 21:45:53  #其他
-
-【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月17日0時至8月19日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
-
----
-
-### 2026-08-16 21:45:46  #MKT News
-
-【Kushner visits Egypt to press Gaza agreement implementation; to meet Hamas and mediators】Saudi outlet Alhadath reported Egyptian President received Trump envoy Jared Kushner in Al Alamein, where they discussed the need for parties to fulfil obligations under the Gaza agreement. Al Arabiya, citing sources, said Kushner will meet Hamas today to push the Gaza administrative committee to assume responsibilities; the committee’s Gaza senior representative Maladinov and delegations from Turkey, Egypt and Qatar will attend. Kushner and the Hamas delegation will discuss an international stabilization force, Israeli withdrawal and humanitarian aid; the stated goal is to implement the Trump plan, not to renegotiate it, with emphasis on ending the cycle of violence in Gaza.
-
----
-
-### 2026-08-16 21:35:20  #其他
-
-有訊息來源報道稱，在胡塞武裝的打擊之後，吉贊省“阿布阿里什”地區聽到了數聲爆炸聲。
-
----
-
-### 2026-08-16 21:33:52  #公司 #國際
-
-【印度一乘客欲攜槍登機 槍支走火擊傷安檢員】16日，印度一名男子攜帶槍支欲登機，在接受安檢時槍支意外擊發，兩名機場安檢員受傷。 據印度媒體援引印度民用航空部的宣告報道，這名55歲男子和其妻子當天上午打算乘坐印度航空公司旗下印度航空快運公司航班從北方邦瓦拉納西前往孟買。該男子攜帶一支經過註冊登記的手槍，在瓦拉納西機場接受安檢時，一發子彈“意外射出”，擊中一名安檢員腿部和另一名安檢員手部。（新華社）
-
----
-
-### 2026-08-16 21:32:49  #國際
-
-市場訊息：伊朗稱霍爾木茲海峽是結束戰爭的籌碼、
-
----
-
-### 2026-08-16 21:32:38  #國際
-
-伊朗總統：我們與國內任何一方均無分歧，各方正在尋求能夠解決國家問題。
-
----
-
-### 2026-08-16 21:30:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Market Regions #Greater China #Star Stocks #Alibaba #Market Themes #China Tech Giants #WTI #Impact mixed #DXY #EURUSD
-
-【Weekly preview: China July economic 'report card'; Alibaba, Baidu earnings; Fed minutes; US warned of 'unprecedented' economic strike on Iran】Key market-moving items next week: China releases July retail sales, industrial output and total electricity consumption (Monday) — the closest thing to a July economic 'report card' for asset and policy watchers. The PBOC will conduct overnight reverse repos Aug 17–19, and China publishes Swift RMB global payments share and the 1-year LPR on Thursday. The Fed releases meeting minutes on Thursday. US energy inventories (API and EIA crude) are due Wednesday; NYMEX September crude contract rolls on Friday. US labor and activity data include ADP payrolls, housing starts/permits and pending home sales (Tuesday), initial jobless claims and the Philadelphia Fed index (Thursday), and S&P Global August manufacturing and services PMIs (Friday, flash). Europe and UK: German/euro-area ZEW (Tue), UK and euro-area CPI (UK on Wed; euro-area final CPI Wed), and preliminary Aug manufacturing PMIs across major European economies and UK on Friday. Other data: Canada July CPI (Mon), Japan July core CPI (Fri), Australia July unemployment (Thu), euro-area current account (Wed), and US leading indicators (Thu). Corporate calendar: major China/HK earnings include Geely (Mon); Baidu and Xiaomi (Tue); Kuaishou, ZTO, Kingsoft, HKEX and Weibo (Wed); Ping An, China Telecom, NetEase, Alibaba, AIA, Li Ning, Pop Mart and Futu (Thu); ZTE, Sinopec and Beike (Fri). Events and policy signals: ECB President Lagarde speaks at a WEF panel on global economic outlook (Wed); Seoul AI Summit runs Aug 19–21 and the World Robot Conference Aug 19–23 (sector sentiment). Geopolitical risk: market commentary flagged by Bessent warning of a possible 'unprecedented' US economic strike on Iran this week — presented as a forecast/preview, not an official action.
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:59:19_
-_本檔包含 3191 則快訊，約 603757 字_
+_更新時間：2026-08-18 05:35:22_
+_本檔包含 3206 則快訊，約 603679 字_
+
+---
+
+### 2026-08-14 14:06:28  #市場
+
+WTI原油日內漲1%，現報82.10美元/桶。
+
+---
+
+### 2026-08-14 14:05:00  #MKT News #AMAT.O #Impact bullish
+
+JP Morgan raises PT on Applied Materials (AMAT.O) to $660 from $515.
+
+---
+
+### 2026-08-14 14:04:49  #觀點
+
+摩根大通將應用材料目標價從515美元上調至660美元。
+
+---
+
+### 2026-08-14 14:04:13  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures rose 1.0% intraday to $82.03 per barrel.
+
+---
+
+### 2026-08-14 14:03:45  #其他
+
+【智譜GLM-5.3已上線京東雲MaaS平臺】據京東雲訊息，8月14日，京東雲接入智譜最新開源旗艦模型GLM-5.3，並已在模型服務平臺完成適配上線。
+
+---
+
+### 2026-08-14 14:03:28  #MKT News #Important #Market Themes #AI Revolution #00100.HK #Impact bearish #02513.HK #02498.HK
+
+Hong Kong AI application stocks extended afternoon losses: MINIMAX-W (00100.HK) fell over 10%, Zhipu AI (02513.HK) dropped nearly 6%; Suteng Juchuang (02498.HK) and Youjia Innovation (02431.HK) also fell.
+
+---
+
+### 2026-08-14 14:03:24  #其他
+
+港股AI應用板塊午後跌幅擴大，MINIMAX-W(00100.HK)跌超10%，智譜(02513.HK)跌近6%，速騰聚創(02498.HK)、佑駕創新(02431.HK)等跟跌。
+
+---
+
+### 2026-08-14 14:02:43  #國際
+
+日本財務省：日本外匯事務負責人三村淳8月21日將在東京與韓國同行會面。
+
+---
+
+### 2026-08-14 14:02:43  #MKT News #Market Regions #Japan & APAC
+
+Japan's Ministry of Finance said its top foreign-exchange official will meet the South Korean counterpart in Tokyo on Aug. 21.
+
+---
+
+### 2026-08-14 14:02:27  #MKT News #Important #Commodities #Industrial Metals
+
+Most-active coking coal futures rose more than 5% to 1,387.5 yuan/ton, the highest since June 12.
+
+---
+
+### 2026-08-14 14:02:16  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
+
+Euro STOXX 50 futures up 0.26%, Germany's DAX futures up 0.42%, France's CAC 40 futures up 0.05%, Britain's FTSE 100 futures up 0.32%.
+
+---
+
+### 2026-08-14 14:01:40  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225
+
+20-year Japanese government bond yield rose 1.5 bps to 3.755%.
+
+---
+
+### 2026-08-14 14:01:31  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share gaming sector extended gains; Xunyou Technology and Century Huatong rose more than 6%, while Kaiying Network, Zhongqingbao and 37 Interactive Entertainment also advanced.
+
+---
+
+### 2026-08-14 14:01:27  #市場
+
+【光纖概念板塊走高，亨通光電漲停】光纖概念板塊走高，亨通光電漲停，長芯博創、中天科技、太辰光、長飛光纖、鼎通科技。
+
+---
+
+### 2026-08-14 14:01:07  #市場
+
+【CPO概念再度拉昇 金戈新材30cm漲停】午後CPO概念再度拉昇，金戈新材30cm漲停，此前中石科技、富信科技、阿萊德、劍橋科技漲停，長芯博創、中瓷電子、太辰光、新易盛、中際旭創、天孚通訊等紛紛衝高。
+
+---
+
+### 2026-08-14 14:00:52  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.26%，德國DAX指數期貨上漲0.42%，法國CAC 40指數期貨上漲0.05%，英國富時期貨上漲0.32%。
+
+---
+
+### 2026-08-14 14:00:38  #市場 #焦點
+
+WTI原油突破82美元/桶，日內漲0.92%。
+
+---
+
+### 2026-08-14 14:00:27  #MKT News #WTI #Impact bullish
+
+WTI crude futures touched $82.00/bbl, up 0.97% intraday.
+
+---
+
+### 2026-08-14 14:00:12  #資料
+
+德國7月批發物價指數月率 0.2%，前值-0.7%。德國7月批發物價指數年率 5.3%，前值4.9%。
+
+---
+
+### 2026-08-14 14:00:12  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+Germany July wholesale price index YoY 5.3% vs 4.9% prior.
+
+---
+
+### 2026-08-14 14:00:12  #MKT News #EURUSD #Impact mixed #XAUUSD #Impact bullish #DAX
+
+Germany July wholesale price index (MoM) +0.2%; prior -0.7%.
+
+---
+
+### 2026-08-14 14:00:04  #MKT News #Economic Calendar #Important
+
+Germany | Wholesale Price Index (YoY) (Jul) | actual 5.3% | previous 4.9%
+
+---
+
+### 2026-08-14 14:00:04  #MKT News #Economic Calendar #Important
+
+Germany | Wholesale Price Index (MoM) (Jul) | actual 0.2% | previous -0.7%
+
+---
+
+### 2026-08-14 13:59:54  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX Erases Losses, Posts 2nd Weekly Gain — New Zealand's stocks rose 29 points, or 0.2%, to close at 13,854 on Friday, reversing morning weakness and extending gains from the previous session, tracking a rise on Wall Street overnight as bets on a Fed interest rate hike at the September meeting eased following soft inflation data. Moderating oil prices also lifted sentiment as inflation concerns eased and expectations grew that the RBNZ would slow the pace of monetary policy tightening. The latest data also supported sentiment, as New Zealand's factory activity grew for the 21st consecutive month in July, though at a softer rate. However, traders were cautious ahead of food inflation data and China's interest rate decision due next week. Energy, tech, consumer discretionary, and industrials mainly drove the index, with notable gains including Colonial Motor (9.2%), ANZ Group (1.6%), Henderson Far East Income (1.2%), and Mainfreight (1.1%). For the week, the index rose 0.2%, marking the second consecutive weekly gain.
 
 ---
 
@@ -19161,59 +19305,5 @@ Foxconn Industrial Internet earnings above expectations at 0.67 CNY — Foxconn 
 ### 2026-08-13 12:13:35  #公司 #國際
 
 【訊息人士：印度泰米爾納德邦將與海外企業簽署總值15.8億美元的新專案協議】印度泰米爾納德邦政府一位訊息人士週四表示，該邦即將與海外企業就十餘個新專案簽署總價值約 1505億盧比(15.8億美元)的協議 ，這是涉及近100項協議的更廣泛推動計劃的一部分。該邦政府在一則報紙廣告中表示，將簽署97項協議，總價值6745.2億盧比，預計將創造超過10萬個就業崗位。該訊息人士稱，這一總額包括印度企業的投資以及現有設施的擴建專案。該訊息人士還稱，新專案包括美國伺服器製造商超微計算機公司（Super Micro Computer） 約50億盧比的投資，以及總部位於法國的建築集團聖戈班（Saint-Gobain）200億盧比的投資。
-
----
-
-### 2026-08-13 12:11:52  #MKT News #XAUUSD #Impact bearish
-
-New York gold futures slipped below $4,450/oz, down 0.43% on the day.
-
----
-
-### 2026-08-13 12:11:39  #市場 #焦點
-
-紐約期金失守4450美元/盎司，日內跌0.39%。
-
----
-
-### 2026-08-13 12:10:37  #Trading Economics #Economy #Malaysia #Construction Output #Importance 1
-
-Malaysia Q2 Construction Output Growth Accelerates — Malaysia’s construction activity grew 8.8% year-on-year in Q2 2026, quickening from an 8.5% increase in the previous quarter, which marked the sector’s slowest growth since Q4 2023. The solid result was mainly driven by faster civil engineering activity (2.7% vs 1.5% in Q1), which remained the largest contributor to the sector, accounting for 35.0% of total output. Growth in non-residential buildings also strengthened (13.3% vs 12.7%), representing 29.3% of overall activity. Meanwhile, residential building activity accelerated further (8.7% vs 6.1%), contributing 22.8% of total output. In contrast, special trade activities moderated sharply (17.6% vs 24.6%), although they still accounted for 12.9% of total construction activity.
-
----
-
-### 2026-08-13 12:10:37  #公司
-
-【大陸航空科技控股：預計上半年虧損不多於1.05億港元】大陸航空科技控股公告，預期截至2026年6月30日止六個月錄得除稅後虧損不多於1.05億港元，上年同期除稅後溢利約6400萬港元。虧損由盈利警告公告所述的7000萬港元最多增至1.05億港元，乃由於就物業出售重新計量持作出售資產所產生的估計虧損撥備約3800萬港元所致。
-
----
-
-### 2026-08-13 12:10:28  #公司
-
-【希慎興業：2026年上半年基本溢利11.07億港元同比增7.4%】希慎興業公告，截至2026年6月30日止6個月，營業額17.28億港元，同比微降0.1%。經常性基本溢利10.49億港元，同比增長1.7%；基本溢利11.07億港元，同比增長7.4%，主要受惠於出售竹林苑住宅單位的公平值收益帶動。公佈溢利7300萬港元，同比下降2.7%。每股基本盈利7港仙。董事會宣派第一次中期股息每股27港仙，與上年持平。
-
----
-
-### 2026-08-13 12:10:23  #MKT News
-
-【Hong Kong midday: Hang Seng rebounds; compute-hardware names lead gains】Hang Seng rebounded from an opening drop to finish up 0.07% at 25,457.33 at midday after opening more than 150 points lower; Hang Seng Tech gained 0.30% to 4,790.56. Market turnover reached HKD 132.03 bln. Compute-hardware stocks led sector gains, with storage and optical-communications sub-sectors outperforming; nonferrous metals were the weakest group. Innovative-drug names recovered after an early dip. Selected movers: Cambridge Technology (06166.HK) +15.37%, Shengbang (03661.HK) +7.69%, CSPC PHARMA (01093.HK) +5.76%; Tencent Holdings (00700.HK) fell 3.81% after results; Lingbao Gold (03330.HK) -6.78%; Aluminum Corp of China (02600.HK) -5.01%.
-
----
-
-### 2026-08-13 12:10:14  #公司
-
-瑞典法律人工智慧初創公司Legora尋求以超100億美元估值融資。
-
----
-
-### 2026-08-13 12:08:15  #MKT News #Market Regions #Greater China #00992.HK #Impact bullish
-
-Lenovo Group (00992.HK) said adjusted profit attributable to equity holders rose 176% YoY in Q1 to $1.075 bln.
-
----
-
-### 2026-08-13 12:08:12  #MKT News
-
-【Crew mental health deteriorates aboard USS Abraham Lincoln after prolonged deployment】Military Times reports multiple sailors aboard USS Abraham Lincoln have attempted to jump overboard amid what it calls a mental-health crisis that has reached the breaking point. About 5,000 sailors and Marines remain on a deployment that began Nov. 21 supporting U.S. actions in the Middle East against Iran; the deployment, originally due to end in May, has been extended with no return date announced. Families raised concerns about fatigue, safety and mental health at a recent online meeting. The acting Navy secretary told families a team will relieve Lincoln but gave no timeline, citing operational security; Sen. Richard Blumenthal has requested details on shipboard conditions and the extension.
 
 ---
