@@ -1,7 +1,106 @@
 {
   "date": "2026-08-17",
-  "count": 2332,
+  "count": 2342,
   "items": [
+    {
+      "id": "5044481",
+      "time": "2026-08-17 21:51:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數漲2%，報12668.44點。"
+    },
+    {
+      "id": "mkt:01a00ffd-7fce-7aab-9063-9d6162af3542",
+      "time": "2026-08-17 21:51:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "According to CNN, U.S. envoy Jared Kushner urged Israeli leader Benjamin Netanyahu to advance a Trump-backed Gaza ceasefire plan, saying \"do not create obstacles\"."
+    },
+    {
+      "id": "5044480",
+      "time": "2026-08-17 21:50:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行拍賣7.25億英鎊剩餘期限為3-7年的金邊債券，投標倍數為2.18。"
+    },
+    {
+      "id": "5044479",
+      "time": "2026-08-17 21:50:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技：20億元公司債券更名】TCL科技公告稱，公司此前獲證監會註冊發行不超過100億元公司債券，本期擬發行規模不超過20.00億元的債券，原名稱“TCL科技集團股份有限公司2025年面向專業投資者公開發行公司債券”，現變更為“TCL科技集團股份有限公司2026年面向專業投資者公開發行科技創新公司債券(數字經濟)(第二期)”。本次債券名稱變更不改變原發行相關法律檔案的效力，原簽署的相關法律檔案對更名後的債券繼續有效。"
+    },
+    {
+      "id": "5044478",
+      "time": "2026-08-17 21:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前7個月訪港旅客3122萬人次】香港旅遊發展局17日公佈的資料顯示，7月訪港旅客達450萬人次，同比上升3%。今年前7個月訪港旅客累計約3122萬人次，同比增加11%。今年7月，多項國際大型展會及盛事活動在港舉行，為部分客源市場增長提供支援。7月非內地旅客約89.7萬人次，同比上升2%。香港旅發局表示，下半年將推出多項盛事活動，涵蓋體育、美食等多個領域，包括“香港單車節”“香港美酒佳餚巡禮”等專案，以豐富的體驗吸引旅客訪港。此外，旅發局將聯合業界推出多元的推廣活動，鼓勵旅客深度探索香港，延長逗留時間，進一步帶動旅遊相關消費。（新華社）"
+    },
+    {
+      "id": "mkt:01a00ffc-919b-7aab-9063-9322c30dadfe",
+      "time": "2026-08-17 21:50:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported the Yemeni side said the only safe, low-cost way to resolve the crisis is to end the blockade and stop interfering in Yemen's internal affairs."
+    },
+    {
+      "id": "mkt:01a00ffc-9016-7aab-9063-8eead5531550",
+      "time": "2026-08-17 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. August NAHB housing market index due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a00ffc-3ad6-7aab-9063-8301d5e12396",
+      "time": "2026-08-17 21:49:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRIB reported Yemen said any Saudi action that escalates tensions will be met with a reciprocal response."
+    },
+    {
+      "id": "5044477",
+      "time": "2026-08-17 21:49:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆逸石化：擬提前全額贖回“恆逸轉2”】恆逸石化公告稱，2026年8月17日公司股票已觸發“恆逸轉2”有條件贖回條款，董事會決定行使提前贖回權利，贖回價格為100.25元/張（含息稅）。贖回安排如下：9月4日起“恆逸轉2”停止交易，9月8日為贖回登記日，9月9日為贖回日且當日起停止轉股，贖回完成後“恆逸轉2”將在深交所摘牌。截至9月8日收市後仍未轉股的“恆逸轉2”將被強制贖回，提醒持有人注意在限期內轉股，避免面臨損失。"
+    },
+    {
+      "id": "5044476",
+      "time": "2026-08-17 21:48:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門：沙特但凡升級緊張局勢，必將予以對等回應。"
+    },
     {
       "id": "5044475",
       "time": "2026-08-17 21:47:45",
