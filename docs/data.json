@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-18 03:56:41",
-  "count": 15224,
+  "updated": "2026-08-18 04:00:34",
+  "count": 15228,
   "items": [
+    {
+      "id": "mkt:01a0114f-636b-7aab-9069-534ca5728608",
+      "time": "2026-08-18 04:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. net international capital inflows were $133.5 billion in June; prior reading revised from $132.2 billion to $131.5 billion."
+    },
+    {
+      "id": "5044754",
+      "time": "2026-08-18 04:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.35%】華住酒店集團漲11.32%，Tims中國漲6.92%，盛豐物流漲5.86%，老虎證券漲5.11%，小鵬汽車漲4.32%。"
+    },
+    {
+      "id": "mkt:01a0114f-3d96-7aab-9069-4b2417120671",
+      "time": "2026-08-18 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm TIC Flows (Jun) | actual 172700000000B | previous 232700000000B"
+    },
+    {
+      "id": "mkt:01a0114f-3d83-7aab-9069-46773dfe2a23",
+      "time": "2026-08-18 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net Foreign Purchases of Treasury Securities (Jun) | actual 6800000000B | previous 56600000000B"
+    },
+    {
+      "id": "mkt:01a0114f-3c11-7aab-9069-3955a34f57dd",
+      "time": "2026-08-18 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm International Capital Flows (Jun) | actual 133500000000B | previous 132200000000B"
+    },
+    {
+      "id": "mkt:01a0114c-e41c-7aab-9069-35e81cfdb5f7",
+      "time": "2026-08-18 03:57:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "Nasdaq will add a trading session from 9:00 p.m. to 4:00 a.m. U.S. Eastern Time, effective Dec. 6, 2026."
+    },
+    {
+      "id": "mkt:01a0114b-d49b-7aab-9069-2b98ecd8eb85",
+      "time": "2026-08-18 03:56:17",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq is in talks with regulators to offer near-continuous trading on the Nasdaq Stock Market, five days a week, 23 hours a day."
+    },
     {
       "id": "5044753",
       "time": "2026-08-18 03:54:36",
@@ -139490,32 +139559,6 @@
         "焦點"
       ],
       "text": "【美股收盤：三大股指集體收跌】道指跌0.11%，標普500指數跌0.06%，納指跌0.32%。Coherent Corp跌14.23%，Lumentum Holdings Inc. Common Stock When Issued跌8.56%，Ciena科技跌5.98%，Verisk Analytics跌5.55%，Arm Holdings Plc跌5.23%。“七姐妹”方面：亞馬遜漲1.30%，微軟漲1.23%，特斯拉漲0.70%，谷歌漲0.69%，Meta Platforms漲0.48%，蘋果跌1.56%，英偉達跌2.87%。"
-    },
-    {
-      "id": "5034580",
-      "time": "2026-08-11 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.59%】中進醫療漲36.74%，中比能源漲17.00%，陸金所控股漲11.33%，BOSS直聘漲5.92%，中汽系統漲5.59%。"
-    },
-    {
-      "id": "5034579",
-      "time": "2026-08-11 03:58:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉全國代表大會主席豪爾赫·羅德里格斯：委內瑞拉地震死亡人數升至6301人。"
-    },
-    {
-      "id": "5034578",
-      "time": "2026-08-11 03:57:50",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【克利夫蘭聯儲行長稱可能需要多次加息以遏制通脹】克利夫蘭聯儲行長貝絲·哈馬克表示，可能需要進行數次加息才能將通脹降至2%的目標，但她不想預先判斷終點會在哪裡。“總的來說，我認為一次25個基點的變動可能不會對經濟產生太大影響，”哈馬克週一接受採訪時表示。“所以可能需要一定次數，”但“我不想提前預判這個數字是多少。”"
     }
   ]
 }
