@@ -1,7 +1,119 @@
 {
   "date": "2026-08-17",
-  "count": 394,
+  "count": 406,
   "items": [
+    {
+      "id": "mkt:01a00d4c-a454-7aab-9052-c1950e11852b",
+      "time": "2026-08-17 09:18:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kedali: Most plants near full capacity; expects H2 improvement to continue】At an Aug. 14 earnings briefing, Kedali said H1 operations were solid and, given client delivery schedules, most production bases are now near full capacity. The company expects the improving trend to continue in H2. Looking to next year, Kedali said the lithium‑battery industry outlook remains positive and should sustain demand for precision structural components."
+    },
+    {
+      "id": "mkt:01a00d4c-567f-7aab-9052-bc841b9912aa",
+      "time": "2026-08-17 09:18:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.79% at 25,291, trading 174 points above the cash index."
+    },
+    {
+      "id": "5043170",
+      "time": "2026-08-17 09:18:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲9%，現報1733.00點。"
+    },
+    {
+      "id": "5043169",
+      "time": "2026-08-17 09:17:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國深入推進礦業綠色轉型發展】8月15日，從2026年全國生態日主場活動獲悉，自然資源部深入貫徹落實習近平生態文明思想，牢固樹立和踐行“兩山”理念，堅持“在保護中開發、在開發中保護”，透過築牢法治根基、強化全鏈條監管、加大礦區生態修復治理力度、全面推進綠色礦山建設等一系列舉措，深入推動礦業綠色轉型發展取得顯著成效。 綠色礦山建設全面推進。綠色礦山建設上升為法律要求。新修訂的礦產資源法首次在法律層面明確提出加強綠色礦山建設的要求，生態環境法典、礦產資源法實施條例也都對綠色礦山建設作出規定。自然資源部聯合生態環境部等部門印發《關於進一步加強綠色礦山建設的通知》，《綠色礦山評價通則》國家標準釋出實施，“政府引導、部門協作、企業主建、社會監督”的綠色礦山建設工作體系基本形成。建設綠色礦山，已經成為地方政府、管理部門、礦山企業和社會公眾關於礦業發展的普遍共識。目前，全國建成1000餘家國家級、4500餘家省級綠色礦山，持續推動礦區生態環境改善，有效提升資源綜合利用水平，有序推動礦業綠色轉型。 據介紹，下一步，自然資源部將全面落實新修訂的礦產資源法及實施條例要求，持續加強礦區生態修復，強化生產礦山生態修復監督管理，加大歷史遺留礦山生態修復力度，全面推進綠色礦山建設，健全綠色礦山建設標準體系，做好綠色礦山名錄動態管理，持續鞏固提升綠色礦山建設質量，加快推動礦業綠色低碳轉型升級，為促進自然資源保護和永續利用、建設美麗中國發揮積極作用。（自然資源部）"
+    },
+    {
+      "id": "mkt:01a00d4b-4040-7aab-9052-b0a0484194e1",
+      "time": "2026-08-17 09:17:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【New policy financial instrument plan issued; fiscal interest subsidies highlighted】Implementation plans for this year’s new policy financial instruments were recently distributed to local governments; localities will submit projects under the scheme. Unlike last year, fiscal authorities will provide interest subsidies for eligible instruments. Allocation guidance emphasizes stronger support for private investment and industry projects. 2025 priority sectors include the digital economy, artificial intelligence, consumption infrastructure, transport, energy, underground utility-network construction and urban-renewal projects."
+    },
+    {
+      "id": "5043168",
+      "time": "2026-08-17 09:16:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本10年期國債收益率再創近30年來新高】當地時間17日，在日本國債市場上，作為長期利率指標的新發10年期國債收益率繼續上升，一度升至2.91%。這一數值是自1996年9月以來的新高。據悉，由於中東局勢再次緊張，加之近一段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售，收益率持續上升。（央視）"
+    },
+    {
+      "id": "mkt:01a00d4a-4be2-7aab-9052-ab380148222d",
+      "time": "2026-08-17 09:16:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The front-month contract of the container shipping index (Europe route) rose 8.00% intraday to 1,716.5 points."
+    },
+    {
+      "id": "5043167",
+      "time": "2026-08-17 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7873元，較上日調高5點。"
+    },
+    {
+      "id": "5043166",
+      "time": "2026-08-17 09:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【家電ETF華安8月17日發行】家電ETF華安於8月17日開啟發行，該產品緊密跟蹤中證家電龍頭指數。"
+    },
+    {
+      "id": "5043165",
+      "time": "2026-08-17 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.70%，報25269.10點，高水152.25點。"
+    },
+    {
+      "id": "5043164",
+      "time": "2026-08-17 09:15:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲8%，現報1716.50點。"
+    },
+    {
+      "id": "mkt:01a00d49-3e6d-7aab-9052-a16596632061",
+      "time": "2026-08-17 09:14:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Container shipping index (Europe route) main contract intraday gain widened to 7.00%, now at 1,700.5 points."
+    },
     {
       "id": "5043163",
       "time": "2026-08-17 09:14:44",
