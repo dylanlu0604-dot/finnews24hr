@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-18 00:12:16",
-  "count": 15250,
+  "updated": "2026-08-18 00:16:09",
+  "count": 15248,
   "items": [
+    {
+      "id": "5044633",
+      "time": "2026-08-18 00:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿富汗喀布林一學校門前發生爆炸 多人受傷】阿富汗喀布林警察局發言人哈立德·扎德蘭17日晚證實，當地時間當天下午5時許喀布林一所私立學校門前發生爆炸，致多名學生受重傷。 據阿富汗當地媒體報道，爆炸發生時學生們正在離校，其中多數為女生。有目擊者說，約30名傷者已被送往當地醫院。 扎德蘭說，相關工作組已經抵達現場，正在對事件展開調查。"
+    },
+    {
+      "id": "te:markets:575913",
+      "time": "2026-08-18 00:12:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,587 on Monday, as positive corporate news offset a mostly negative session for banks. Technology stocks led gains, tracking broader sector strength following strong second-quarter revenue from Anthropic. STMicroelectronics rose 5%, while Prysmian added 2.4%. Ferrari gained 1.4% following the auction of its first fully electric vehicle for $40 million. Meanwhile, with markets largely ruling out a September Fed rate hike, Italian financials remained under pressure from ongoing consolidation prospects. MPS CEO reiterated over the weekend the need to preserve the bank’s independence amid a takeover bid from Intesa Sanpaolo (-0.5%). UniCredit declined 0.7% amid reports that Berlin could sell its 12% stake in Commerzbank to the lender. On the downside, Nexi fell 4.3%, and Stellantis dropped 4.1% after recalling 955,000 vehicles worldwide."
+    },
+    {
+      "id": "te:markets:575912",
+      "time": "2026-08-18 00:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.01% Higher — The FTSE MIB Index went up by 3 points or 0.01 percent on Monday to close at 53587 points. The rise was led by STMicroelectronics (5.04%), Prysmian (2.66%) and Finecobank (2.08%). On the downside, the weakerst performers were Stellantis N.V. (-3.90%), Fincantieri (-3.66%) and Nexi (-3.58%)."
+    },
     {
       "id": "te:markets:575911",
       "time": "2026-08-18 00:11:17",
@@ -139667,52 +139699,6 @@
         "國際"
       ],
       "text": "【德國兩年期國債收益率漲約5個基點，非農過後，投資者關注油價漲勢】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，德國10年期國債收益率漲4.6個基點，報3.179%，日內交投於3.125%-3.182%區間，北京時間14:30“開盤”以來、至20:33呈現出平坦的W形走勢，持穩於3.135%附近，之後擴大漲幅。兩年期德債收益率漲5.2個基點，報2.801%，日內交投於2.749%-2.804%區間，幾乎全天處於上漲狀態；30年期德債收益率漲3.2個基點，報3.672%。2/10年期德債收益率利差跌0.453個基點，報+37.533個基點。法國10年期國債收益率漲6.4個基點，報3.981%；兩年期法債收益率漲5.9個基點，30年期法債收益率漲4.6個基點。義大利10年期國債收益率漲6.4個基點，報3.965%。西班牙10年期國債收益率漲5.8個基點，報3.618%。希臘10年期國債收益率漲6.4個基點，報3.863%。"
-    },
-    {
-      "id": "5034435",
-      "time": "2026-08-11 00:15:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至8月11日0時10分，影片《奧德賽》點映及預售總票房突破8000萬。"
-    },
-    {
-      "id": "mkt:019fec73-8c9c-7aab-8fdd-b79e0ee29c39",
-      "time": "2026-08-11 00:13:43",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bullish"
-      ],
-      "text": "Netflix (NFLX.O) hit an intraday high, trading up more than 2% on the session."
-    },
-    {
-      "id": "5034434",
-      "time": "2026-08-11 00:13:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "哥倫比亞外交部長：哥倫比亞承認以色列對戈蘭高地擁有主權。"
-    },
-    {
-      "id": "te:markets:574183",
-      "time": "2026-08-11 00:13:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close at Records — European stocks closed slightly higher at new records on Monday with broad support from most major sectors. The Euro STOXX 50 added 0.3% to 6,540 and the STOXX Europe 600 inched higher to 661, both at record highs. Markets looked past a rebound in sovereign yields as uncertainty on the restart of energy exports from the Middle East maintained inflationary risks. TotalEnergies and ENI rose 2% and 1.5%, respectively, amid the slight rebound for fuel and natural gas prices. Tech stocks also rose, tracking the support from US counterparts on positive signals for cloud services. SAP, ASML, and Infineon rose around 1%. Also, the heavyweight financial sector also closed slightly higher, with Allianz and Deutsche Bank adding more than 1%."
-    },
-    {
-      "id": "mkt:019fec72-e58f-7aab-8fdd-aabbe3f1d655",
-      "time": "2026-08-11 00:13:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's foreign minister said the country recognizes Israel's sovereignty over the Golan Heights."
     }
   ]
 }
