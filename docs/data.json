@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-17 08:20:12",
-  "count": 15196,
+  "updated": "2026-08-17 08:29:36",
+  "count": 15192,
   "items": [
+    {
+      "id": "5043092",
+      "time": "2026-08-17 08:28:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲0.33%。"
+    },
+    {
+      "id": "5043091",
+      "time": "2026-08-17 08:28:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛空間：北京子公司全面暫停整裝零售業務，將逐戶推進合同解約、定損與債權核算】8月16日晚間，家裝公司愛空間集團釋出《關於愛空間北京子公司業務戰略調整的公告》。即日起，愛空間北京子公司全面暫停整裝零售業務，同步啟動內部整頓與業務最佳化工作。針對北京區域所有存量整裝零售專案，公司將有序開展逐戶合同解約、工程定損、債權核算等專項工作，並制定對應後續處置方案。北京區域線下門店全面休整，休整期間不再承接新零售訂單。本次調整僅針對愛空間北京子公司，系集團區域性區域業務最佳化舉措。愛空間集團總部正常存續、穩定運營，上海、天津、太原、廊坊、鄭州、廣州等全國各區域子公司經營狀態良好、業務運轉正常，整裝業務及落地交付工作均有序推進，且各區域子公司均與北京子公司相互獨立，各自負責自身運營。"
+    },
+    {
+      "id": "5043090",
+      "time": "2026-08-17 08:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國中東部高溫悶熱天氣持續 東北、西南等地降雨頻繁】今明天（8月17日至18日），我國東北、西南等地降雨頻繁，其中四川盆地等地雨勢較強，局地有暴雨或大暴雨，需注意防範次生災害發生。受到降雨影響，四川東部高溫將緩解，但我國中東部地區本週高溫悶熱天氣發展增多。"
+    },
+    {
+      "id": "5043089",
+      "time": "2026-08-17 08:26:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國會設障，“美國軍艦韓國造”計劃遇阻】面對美國造船業產能不足、成本高企和交付延遲問題，美國政府寄希望於藉助韓國等盟友的造船能力提升美國造艦速度。日前，美國總統特朗普簽署一份國家安全總統備忘錄，允許符合條件的外國船廠在本國建造最多兩艘美國海軍艦艇。然而，韓國《朝鮮日報》15日報道稱，由於美國國會對海外造艦持保留態度，加上美國本土造船業擔憂訂單外流，該計劃能否落地仍存疑。 這一計劃首先遭遇美國國內政治的阻力。據報道，備忘錄釋出後，緬因州民主黨眾議員賈裡德·戈爾登表示，政府一方面強調“美國優先”，另一方面卻推動海外造艦，將美國造船業就業崗位轉移到海外，這一做法可能影響美國造船業就業和產業基礎。 在特朗普正式批准相關政策前，美國國會已透過立法行動提前設定障礙。Breaking Defense等美國防務行業媒體日前報道稱，此前，參眾兩院已在2027財年《國防授權法案》草案中陸續提出相關限制措施。其中，參議院軍事委員會擬取消總統依據“國家安全利益”豁免海外造艦禁令的許可權，同時僅允許國防部在嚴格條件下采購部分輔助艦艇。 眾議院方面則提出修正案，禁止使用授權資金採購外國船廠建造的美國軍艦。 （環球網）"
+    },
+    {
+      "id": "5043088",
+      "time": "2026-08-17 08:25:05",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場分析：日本第二季度GDP增長疲軟或促使日本央行按兵不動】日本第二季度GDP增長弱於預期的初步資料。這一疲軟資料或促使日本央行最快在下個月暫緩加息。日本第二季度實際GDP環比增長0.3%，不及經濟學家預期的增長0.5%。日本第二季度實際國內生產總值按年率計算增長1.1%，低於上一季度修正後的1.9%，也低於經濟學家預期的2%。“細節喜憂參半，“凱投宏觀亞太區負責人Marcel Thieliant表示。"
+    },
+    {
+      "id": "5043087",
+      "time": "2026-08-17 08:22:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：國產模型快速迭代進步，持續關注國產大模型與算力產業鏈】中信建投表示，DeepSeek釋出新一代旗艦模型DeepSeek-V4-Pro，進一步強化複雜推理、Coding及Agent能力。 相比此前主打低成本、高效率的V4-Flash，V4-Pro更側重高難度任務與智慧體場景，Artificial Analysis Intelligence Index得分53分，高於V4-Flash的40分。智譜8月14日釋出新一代開源旗艦模型GLM-5.3，繼續重點強化Coding、長程任務執行及Agent能力。 根據智譜披露，GLM-5.3在內部Z.ai Code Bench上的表現較GLM-5.2提升約50%，支援100萬Token上下文和最高128K Token輸出，在複雜軟體工程和長時間自主執行任務方面進一步提升。持續建議關注國產大模型及算力產業鏈發展。近期DeepSeek、智譜等國產模型持續迭代，在推理、Coding、Agent等能力上加速追趕海外領先水平，模型生態與商業化程序不斷提速，國產模型與國產算力有望形成協同發展的正向迴圈。"
+    },
+    {
+      "id": "5043086",
+      "time": "2026-08-17 08:21:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【經濟日報：打新熱度高漲更需理性判斷】新股上市首日的價格，受市場情緒和短期供需影響較大，既可能被市場的樂觀情緒推高，也可能被短期的集中賣出壓低。因此，上市首日的價格並不能看作公司價值的穩定反映。對新股的收益預期，不妨放到更長的時間維度來看。持續的業績表現、現金流的穩定性、行業競爭中的真實位置，這些關乎一家公司核心價值的要素，往往需要在一定的週期裡才能得到檢驗。短期收益固然有吸引力，但市場的長期回報，終究來自企業的成長和盈利能力的提升。當越來越多的投資者理解了這一點，新股市場的熱度才能轉化為對優質企業的長期支援。"
+    },
+    {
+      "id": "5043085",
+      "time": "2026-08-17 08:20:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【油氣與通訊ETF領漲 資金向半導體裝置環節集中】上週（8月10日至8月14日），油氣、通訊、創業板人工智慧等主題漲幅居前，網際網路、黃金股票等主題跌幅明顯；在資金層面，半導體產業鏈尤其是裝置環節成為淨流入最集中的方向，大盤寬基指數和醫藥醫療主題則遭遇較大淨流出。多家機構認為，市場已從單一主線驅動轉向多主線輪動，業績驗證將成為後續走勢的關鍵。（中證報）"
+    },
+    {
+      "id": "5043084",
+      "time": "2026-08-17 08:19:49",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：LME現貨強升水，銅價直逼歷史前高】中信建投表示，本週有色商品在各自關鍵阻力位遭遇部分獲利了結，有色權益亦出現兌現的情形。但是，鑑於商品價格均還存在顯著的上行驅動，建議對有色多一些耐心。金價暫時承壓於4500美元關口，但就業及通脹資料均降低了中期選舉前的加息可能性，金價仍處於順風期。銅現貨端出現了罕見的高升水情形，凸顯了庫存極度緊張的狀態，銅價突破歷史新高近在咫尺，且權益僅計價10w銅價10倍出頭的PE提供了足夠的安全邊際，配置價效比凸顯。"
+    },
     {
       "id": "5043083",
       "time": "2026-08-17 08:17:59",
@@ -138801,139 +138877,6 @@
         "其他"
       ],
       "text": "CFETS： 人民幣匯率指數按周跌 0.16 至 102.03。"
-    },
-    {
-      "id": "mkt:019fe912-6996-7aab-8fcd-8529d87bde5c",
-      "time": "2026-08-10 08:28:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: Advanced packaging to drive high-end chip upgrades; glass substrates set for faster adoption】CITIC Securities research says advanced packaging will be a key route to sustaining steep performance upgrades for high-end chips. Glass substrates are expected to address current advanced-packaging bottlenecks — large-format scaling, higher-density/high-speed integration and yield/throughput — and are likely to enter an accelerated maturity and volume-ramp phase. Glass carrier-board penetration is clear and has high growth elasticity; the firm highlights supply-chain investment opportunities, notably in glass interposers, glass carriers and glass bridges."
-    },
-    {
-      "id": "5032825",
-      "time": "2026-08-10 08:28:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【夏普股價下跌8% 此前下調全年營業利潤預期】由於夏普公司下調了全年營業利潤預期，其股價一度下跌8%。夏普公司預計全年營業利潤預期為300億日元，低於此前預期的490億日元和市場預期的441.2億日元，公司預計淨利潤250.0億日元，此前預計420.0億日元，預估389.3億日元。"
-    },
-    {
-      "id": "5032824",
-      "time": "2026-08-10 08:28:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京經開區釋出“創新生態十條”】據“北京亦莊”公眾號訊息，近日，《北京經濟技術開發區關於進一步最佳化科技創新生態的若干措施》（簡稱“創新生態十條”）正式釋出。作為北京經開區“十五五”開局之年推動科技創新與產業創新深度融合的重要抓手，該政策系統部署十大計劃，形成“重大攻關有支撐、成果轉化有通道、場景示範有資金、創新風險有保障、專業服務有培育”的完整政策閉環，助力構建協同高效、開放融通、活力迸發的科技產業創新生態，築牢新質生產力生態根基。"
-    },
-    {
-      "id": "5032823",
-      "time": "2026-08-10 08:28:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受全年業績預期上調的影響，日本Recruit Holdings 的股價飆升超過 22%，觸及漲停板。"
-    },
-    {
-      "id": "5032822",
-      "time": "2026-08-10 08:27:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風北側螺旋雨帶影響今晨上海風雨明顯，多區釋出暴雨橙色預警】據“上海市天氣”微博訊息，受其北側螺旋雨帶影響，早晨到中午上海又風又雨。7時55分，“上海市天氣”微博稱，過去的1小時，明顯降水主要出現在嘉定南部、青浦南部、金山大部，浦東北部、中心城區北部以及寶山南部雨量也較大。陸上最大陣風出現在奉賢海灣鎮達10級。  記者注意到，目前上海青浦區、嘉定區、金山區、閔行區、浦東新區釋出暴雨橙色預警。此外，上海市颱風藍色預警仍在生效中。（澎湃）"
-    },
-    {
-      "id": "5032821",
-      "time": "2026-08-10 08:26:48",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：3.2T速率時代將至 提前佈局薄膜鈮酸鋰（TFLN）賽道】中信證券研報表示，3.2T速率時代將至，純矽方案逼近頻寬物理極限，薄膜鈮酸鋰（TFLN）有望成為下一代主流調製器方案。 AI算力瓶頸正從\"單卡\"轉向\"叢集\"，光互聯價值量佔比隨埠速率升級顯著提升。當前AI大模型的規模以約10x/yr的速度擴張，對應訓練叢集從2024年萬卡級躍遷至2026年的十萬卡級（xAI Colossus 10萬+GPU），叢集互聯中GPU/光模組配比由1:3.5進一步升至1:5帶動光價值量上升。與此同時，MoE模型通訊開銷佔整體時延高達約40%—50%，隨著Vera Rubin等新一代機櫃加速部署，計算節點間同時面臨功耗牆與網路牆兩大約束，共同指向更高頻寬、更低功耗、更低延遲的光互聯方案。中信證券認為在400G/lane節點上，材料體系將取代封裝工藝成為競爭核心，TFLN憑藉Pockels效應的先天優勢有望在3.2T時代實現份額躍升。"
-    },
-    {
-      "id": "te:markets:573944",
-      "time": "2026-08-10 08:26:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Gain After Weak US Jobs Report — Silver traded near $64 an ounce on Monday after surging more than 10% last week, supported by an unexpected contraction in the US labor market that led traders to reduce expectations for a near-term Federal Reserve interest rate hike. Data released Friday showed the US economy unexpectedly lost 23K jobs in July, following a downwardly revised 20K increase in June and falling well short of forecasts for an 80K gain. Markets now price around a 44% chance of a 25 basis point rate hike in September, down from 67% a week earlier. Silver also held its gains even after oil prices climbed higher as uncertainty persisted over efforts to reopen the Strait of Hormuz. Iran said talks with Oman were close to an agreement but denied holding direct negotiations with the US, despite Washington’s claims that a deal was imminent."
-    },
-    {
-      "id": "te:markets:573943",
-      "time": "2026-08-10 08:25:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Firm After Weak US Jobs Report — Gold remained above $4,300 an ounce on Monday after surging more than 7% last week, supported by an unexpected contraction in the US labor market that led traders to reduce expectations for a near-term Federal Reserve interest rate hike. Data released Friday showed the US economy unexpectedly lost 23K jobs in July, following a downwardly revised 20K increase in June and falling well short of forecasts for an 80K gain. Markets now price around a 44% chance of a 25 basis point rate hike in September, down from 67% a week earlier. Gold also held its gains even after oil prices climbed higher as uncertainty persisted over efforts to reopen the Strait of Hormuz. Iran said talks with Oman were close to an agreement but denied holding direct negotiations with the US, despite Washington’s claims that a deal was imminent."
-    },
-    {
-      "id": "mkt:019fe90d-777f-7aab-8fcd-7eb2e60f4f6d",
-      "time": "2026-08-10 08:23:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan July seasonally adjusted bank lending excluding trust accounts YoY 5.9%; prior reading revised to 6.2% from 6.30%."
-    },
-    {
-      "id": "5032820",
-      "time": "2026-08-10 08:23:17",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：持續推薦稀土產業鏈戰略配置價值】中信證券研報表示，指標約束疊加進口下滑背景下，稀土供給剛性持續加強，受稅收政策趨嚴影響廢料回收企業開工率持續低位，產業鏈剛需補庫疊加旺季漸近有望帶動需求回暖，機器人、低空經濟和工業電機等新興領域有望開啟遠期需求成長空間，稀土行業供需格局或持續偏緊，價格上漲帶動下稀土產業鏈公司中報業績有望超預期，持續推薦稀土產業鏈戰略配置價值。"
-    },
-    {
-      "id": "mkt:019fe90d-5dae-7aab-8fcd-7794eb2eae88",
-      "time": "2026-08-10 08:23:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Outstanding Bank Loan (exclude Shinkin Banks) (YoY) (Jul) | actual 5.9% | previous 6.30%"
-    },
-    {
-      "id": "5032819",
-      "time": "2026-08-10 08:20:56",
-      "tags": [
-        "宏觀",
-        "觀點"
-      ],
-      "text": "【中信證券：一線需求紮實，地產政策態度積極】中信證券研報指出，一線城市自住需求紮實，住宅空置率相對較低，租金也明顯走穩。2026年2月、4月和8月，上海、深圳和北京陸續出臺政策，內容主要涉及公積金貸款額度的提升，以及限購的進一步寬鬆。相比年初上海的政策，北京政策的內容更加豐富了一些，預計有助於真實需求從低總價段開始穩步釋放。"
-    },
-    {
-      "id": "mkt:019fe90b-40a9-7aab-8fcd-6ff07357cb50",
-      "time": "2026-08-10 08:20:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper",
-        "WTI"
-      ],
-      "text": "【Guojin Securities: Commodity rebound confirmed, energy and metals entering broad uptrend】Guojin Securities warns markets have focused on macro tensions and may have overlooked AI supply‑chain shifts; while investors debate AI’s path, non‑AI real assets and export sectors could become the primary market driver. The firm says the commodity rebound is established and the energy+metals complex is shifting from the downtrend since March into a broad upswing. Preferred resource ranking: non‑ferrous metals (gold, copper, aluminium) first, then energy (coal, oil and petrochemicals). Watch construction machinery, power‑grid equipment and refining/petrochemical stocks as demand from southern markets aligns with Chinese manufacturing. High‑dividend, low‑volatility, stable cash‑flow dividend names are likely targets for absolute‑return investors’ reallocation."
     }
   ]
 }
