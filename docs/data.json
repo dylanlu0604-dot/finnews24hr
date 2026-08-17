@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-18 01:47:14",
+  "updated": "2026-08-18 01:56:29",
   "count": 15255,
   "items": [
+    {
+      "id": "mkt:01a010dc-d4bd-7aab-9067-77c06007b099",
+      "time": "2026-08-18 01:55:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Russian FM Lavrov says Japan using criticism of Russia to mask its own military moves】Russian Foreign Minister Lavrov said on July 17 that Tokyo’s criticism of President Putin’s visit to Iturup Island appears aimed at diverting attention from Japan’s “openly aggressive” military trajectory. He urged Japan to focus on domestic issues, accused Tokyo of coordinating with the United States to “rewrite” international law, and warned that Japan is evading historical responsibility and breaching constitutional limits to expand Self-Defense Force operations overseas—developments he described as “very concerning.”"
+    },
+    {
+      "id": "5044683",
+      "time": "2026-08-18 01:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。"
+    },
+    {
+      "id": "mkt:01a010da-c9d3-7aab-9067-6945feabc88f",
+      "time": "2026-08-18 01:52:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no reason to strike the Kurdistan Regional Government leader's official residence."
+    },
+    {
+      "id": "5044682",
+      "time": "2026-08-18 01:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長：日本企圖借抨擊俄羅斯掩蓋自身軍事動向】俄羅斯外交部長拉夫羅夫17日在評論日本方面針對俄總統普京登上伊圖魯普島（日本稱擇捉島）的表態時對俄媒表示，建議日本領導層集中精力處理國內事務，而非對俄進行“攻擊”。拉夫羅夫說，如果日本企圖透過抨擊俄羅斯來轉移國際社會對其“公然帶有侵略性質的”軍事路線的注意，那麼“我建議他們管好自己的事，他們國內有很多問題需要解決”。拉夫羅夫表示，日本試圖聯合與其關係緊密的盟友美國，按照雙方意願“改寫”國際法。日本企圖逃避自身犯下罪行的歷史責任，當下還在突破憲法約束，謀求拓展自衛隊海外活動，種種動向“非常令人擔憂”。（新華社）"
+    },
+    {
+      "id": "5044681",
+      "time": "2026-08-18 01:50:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克外交部長與伊朗外長討論針對庫爾德斯坦地區政府主席官邸的無人機襲擊事件。"
+    },
+    {
+      "id": "mkt:01a010d8-36ed-7aab-9067-66fc7f645cc4",
+      "time": "2026-08-18 01:50:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iranian media: UAE-owned tanker seized in Strait of Hormuz】Fars News, citing maritime data, reports a tanker owned by a UAE company was seized in the Strait of Hormuz after being intercepted near Qeshm Island. Iranian officials have said all vessels must use Tehran-designated routes and comply with related regulations."
+    },
     {
       "id": "mkt:01a010d5-2c6f-7aab-9067-5d4de2665a3d",
       "time": "2026-08-18 01:46:40",
@@ -139716,66 +139774,6 @@
         "國際"
       ],
       "text": "美國白宮稱特朗普今天將簽署疫苗行政命令。"
-    },
-    {
-      "id": "mkt:019fecce-3b90-7aab-8fde-9ff1441e724f",
-      "time": "2026-08-11 01:52:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time."
-    },
-    {
-      "id": "te:markets:574189",
-      "time": "2026-08-11 01:52:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%."
-    },
-    {
-      "id": "5034483",
-      "time": "2026-08-11 01:50:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報553.40元。"
-    },
-    {
-      "id": "mkt:019feccb-529f-7aab-8fde-936bdd42c80c",
-      "time": "2026-08-11 01:49:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs."
-    },
-    {
-      "id": "5034482",
-      "time": "2026-08-11 01:49:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。"
-    },
-    {
-      "id": "mkt:019fecca-0f3d-7aab-8fde-8c29603ec337",
-      "time": "2026-08-11 01:48:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race."
     }
   ]
 }
