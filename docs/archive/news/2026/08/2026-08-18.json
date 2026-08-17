@@ -1,7 +1,44 @@
 {
   "date": "2026-08-18",
-  "count": 208,
+  "count": 212,
   "items": [
+    {
+      "id": "mkt:01a0112e-ac72-7aab-9068-d0d05c8cd8b5",
+      "time": "2026-08-18 03:24:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil prices rise on 17th】At the close on the 17th, WTI September futures rose $2.10 to $84.50/bbl (+2.55%); Brent October futures rose $2.35 to $90.87/bbl (+2.65%)."
+    },
+    {
+      "id": "5044738",
+      "time": "2026-08-18 03:23:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價17日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。"
+    },
+    {
+      "id": "mkt:01a0112c-b849-7aab-9068-ce972501907c",
+      "time": "2026-08-18 03:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. airport authority to vote on $19.9 bln redevelopment plan for Washington Dulles International Airport."
+    },
+    {
+      "id": "5044737",
+      "time": "2026-08-18 03:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "機場管理局將投票表決一項價值 199 億美元的華盛頓杜勒斯機場改造方案。"
+    },
     {
       "id": "mkt:01a01126-37a4-7aab-9068-c6611470d185",
       "time": "2026-08-18 03:15:12",

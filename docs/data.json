@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-18 03:21:28",
-  "count": 15249,
+  "updated": "2026-08-18 03:25:27",
+  "count": 15243,
   "items": [
+    {
+      "id": "mkt:01a0112e-ac72-7aab-9068-d0d05c8cd8b5",
+      "time": "2026-08-18 03:24:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil prices rise on 17th】At the close on the 17th, WTI September futures rose $2.10 to $84.50/bbl (+2.55%); Brent October futures rose $2.35 to $90.87/bbl (+2.65%)."
+    },
+    {
+      "id": "5044738",
+      "time": "2026-08-18 03:23:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價17日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。"
+    },
+    {
+      "id": "mkt:01a0112c-b849-7aab-9068-ce972501907c",
+      "time": "2026-08-18 03:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. airport authority to vote on $19.9 bln redevelopment plan for Washington Dulles International Airport."
+    },
+    {
+      "id": "5044737",
+      "time": "2026-08-18 03:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "機場管理局將投票表決一項價值 199 億美元的華盛頓杜勒斯機場改造方案。"
+    },
     {
       "id": "mkt:01a01126-37a4-7aab-9068-c6611470d185",
       "time": "2026-08-18 03:15:12",
@@ -139640,100 +139677,6 @@
         "國際"
       ],
       "text": "日本宇宙航空研究開發機構（JAXA）在鹿兒島縣種子島宇宙中心的吉信發射場發射一顆地理定位衛星。"
-    },
-    {
-      "id": "mkt:019fed22-caf1-7aab-8fe0-0263201352d6",
-      "time": "2026-08-11 03:25:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "President Trump said the US still has the ability to escalate the conflict with Iran and will demand Iran compensate for damages caused."
-    },
-    {
-      "id": "5034548",
-      "time": "2026-08-11 03:24:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破66美元/盎司，日內漲3.92%。"
-    },
-    {
-      "id": "5034547",
-      "time": "2026-08-11 03:24:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：美國將要求伊朗賠償其所造成的損失。"
-    },
-    {
-      "id": "mkt:019fed22-6320-7aab-8fdf-f869badbd3fb",
-      "time": "2026-08-11 03:24:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver touched $66/oz, up 3.89% intraday."
-    },
-    {
-      "id": "5034546",
-      "time": "2026-08-11 03:24:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：我們仍有能力升級事態。"
-    },
-    {
-      "id": "5034545",
-      "time": "2026-08-11 03:24:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：你們很快就會知道了。"
-    },
-    {
-      "id": "5034544",
-      "time": "2026-08-11 03:23:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普正式簽署兒童疫苗接種建議相關行政令。"
-    },
-    {
-      "id": "5034543",
-      "time": "2026-08-11 03:22:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "JBS股票恢復交易，下跌5%。"
-    },
-    {
-      "id": "mkt:019fed20-14b1-7aab-8fdf-f29f8997a404",
-      "time": "2026-08-11 03:22:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Al Jazeera reported a U.S. State Department official said U.S.-mediated talks between Lebanon and Israel will continue in Rome early next month."
-    },
-    {
-      "id": "5034542",
-      "time": "2026-08-11 03:21:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4384.71美元/盎司。"
     }
   ]
 }
