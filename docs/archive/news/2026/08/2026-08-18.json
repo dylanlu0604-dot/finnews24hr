@@ -1,7 +1,87 @@
 {
   "date": "2026-08-18",
-  "count": 109,
+  "count": 118,
   "items": [
+    {
+      "id": "mkt:01a010e1-15a2-7aab-9067-861e2a8d3c7d",
+      "time": "2026-08-18 01:59:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Oman has not performed well and that the US will deal with them."
+    },
+    {
+      "id": "mkt:01a010e0-9eb0-7aab-9067-7bf8173f3ddb",
+      "time": "2026-08-18 01:59:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl."
+    },
+    {
+      "id": "5044690",
+      "time": "2026-08-18 01:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長與伊朗外長通話，討論了開放霍爾木茲海峽、繼續美伊停火等事宜。"
+    },
+    {
+      "id": "5044689",
+      "time": "2026-08-18 01:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：阿曼的表現不太好，但我們會處理好他們。"
+    },
+    {
+      "id": "5044688",
+      "time": "2026-08-18 01:57:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及阿曼：我認為他們的表現並不理想。"
+    },
+    {
+      "id": "5044687",
+      "time": "2026-08-18 01:56:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報91.18美元/桶。"
+    },
+    {
+      "id": "5044686",
+      "time": "2026-08-18 01:56:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破84美元/桶，日內漲3.12%。"
+    },
+    {
+      "id": "5044685",
+      "time": "2026-08-18 01:56:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破91美元/桶，日內漲2.87%。"
+    },
+    {
+      "id": "5044684",
+      "time": "2026-08-18 01:56:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報83.92美元/桶。"
+    },
     {
       "id": "mkt:01a010dc-d4bd-7aab-9067-77c06007b099",
       "time": "2026-08-18 01:55:02",
