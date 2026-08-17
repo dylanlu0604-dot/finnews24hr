@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 19:34:40_
-_本檔包含 3052 則快訊，約 603333 字_
+_更新時間：2026-08-17 19:54:08_
+_本檔包含 3060 則快訊，約 602733 字_
+
+---
+
+### 2026-08-15 21:34:16  #公司
+
+【程福波到中國石油調研強調：堅決扛牢能源安全使命 加快建設世界一流綜合效能源化工企業】國務院國資委黨委書記、主任程福波8月14日到中國石油調研保障能源安全、科技創新和產業發展、深化改革和黨的建設等工作，強調要深入學習貫徹習近平總書記關於國家能源安全的重要論述，全面落實“四個革命、一個合作”能源安全新戰略，更好統籌發展和安全，樹牢底線思維、極限思維，全力強創新、促轉型、穩增長、防風險，持續加大油氣勘探開發力度，提升能源高效供給能力，推進產業綠色轉型與佈局最佳化，加快打造基業長青的世界一流綜合效能源與化工公司，為推進能源革命、保障能源安全提供有力支撐。程福波深入瞭解企業智慧運營中心執行情況，與集團領導班子座談交流，並聽取工作意見建議。他指出，中國石油的發展史是一部艱苦奮鬥的創業史，見證了我國石油工業從弱到強發展歷程。特別是近年來企業堅決落實黨中央、國務院決策部署，積極應對國際局勢動盪、行業形勢變化，持續加強油氣勘探開發和增儲上產，形成國內原油產量、國內天然氣產量當量、海外油氣權益產量當量“三個1億噸”格局並不斷鞏固，有力保供應、穩市場，高質量發展邁出堅實步伐，充分彰顯了能源保供“頂樑柱”作用。程福波強調，中國石油要堅持以習近平總書記重要指示精神為統領，突出抓好能源保供，加大增儲上產力度，統籌高效勘探和效益開發，著力增強優質資源獲取能力，把能源飯碗端得更牢；抓好轉型升級，找準發展方向，提升自主創新能力，在深地深海能源、高階化工新材料等領域加強應用基礎研究和基礎研究，強化關鍵核心技術攻關，推動傳統產業智慧化、綠色化、融合化發展，因地制宜發展新興產業，培育壯大新動能新優勢；紮實推進穩增長提效益，保持對市場供應跟蹤研判，及時調整經營策略，狠抓降本增效，合理擴大有效投資，提升高質量發展成色；抓好新一輪國資國企改革方案落地見效，加快構建與世界一流企業相適應的體制機制，進一步加強穿透式監管，壓緊壓實生態環境保護責任，堅決守住安全生產風險底線。要堅持黨的領導加強黨的建設，持續樹牢和踐行正確政績觀，弘揚石油精神和大慶精神、鐵人精神，縱深推進全面從嚴治黨，充分發揮高質量黨建引領保障作用。國務院國資委有關廳局負責同志參加調研。
+
+---
+
+### 2026-08-15 21:29:24  #其他
+
+【中國20家行業協會發布綠色低碳行動倡議】今年8月15日是中國第四個全國生態日。當日，中國商業聯合會、中國鋼鐵工業協會等20家行業協會，共同發出綠色低碳行動倡議並承諾，引導會員企業積極開展能源結構轉型，逐步提高可再生能源利用比例，不斷降低碳排放強度。
+
+---
+
+### 2026-08-15 21:27:06  #國際
+
+【伊朗戰事延宕 美航母部署時長恐將再刷紀錄】美國總統特朗普證實在中東地區長時間部署的“林肯”號核動力航空母艦將被替換後，美國有線電視新聞網15日報道，接替“林肯”號的將是“喬治·華盛頓”號航母，而“林肯”號可能在返回其位於加利福尼亞州的母港途中打破“福特”號航母今年創下的越南戰爭後美航母連續海上部署最長紀錄。此前，參與伊朗戰事的“福特”號航母於今年5月16日返回其位於美國弗吉尼亞州的母港諾福克海軍基地，創下越戰後美國航母連續海上部署最長時間紀錄，連續執行任務326天。（新華社）
+
+---
+
+### 2026-08-15 21:20:12  #國際
+
+伊朗總統佩澤希齊揚向印度總理莫迪祝賀印度第80個獨立日，並補充說，伊朗決心加強與印度的全面關係。
+
+---
+
+### 2026-08-15 21:19:50  #國際
+
+【印尼地震死亡人數上升至47人】根據印尼國家抗災署公佈的最新資料，截至印尼雅加達時間今天18時48分（北京時間19時48分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至47人。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 21:19:01  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+【Iran, Oman appear to agree shipping routes through Strait of Hormuz】Foreign reports say Iran and Oman appear to have agreed on shipping routes through the Strait of Hormuz as part of talks on managing the chokepoint. Iran foreign ministry spokesman Baghaei said a finalized "shipping map" would form part of a broader arrangement and an independent bilateral pact to protect sovereignty and ensure safe passage. State media gave no details on transit fees or security measures and said further negotiations are planned. The move follows recent attacks in the strait; the United States was not involved and is unlikely to accept any deal that does not restore free navigation.
+
+---
+
+### 2026-08-15 21:16:31  #央行 #中國央行
+
+【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。
+
+---
+
+### 2026-08-15 21:16:31  #經濟數據 #中國
+
+【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。
+
+---
+
+### 2026-08-15 21:16:21  #國際
+
+以色列襲擊黎巴嫩南部後，真主黨呼籲黎巴嫩政府停止與以色列的談判。
+
+---
+
+### 2026-08-15 21:05:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Russian foreign ministry said potential U.S. and Turkish plans to supply weapons to Kyiv would weaken Moscow's relations with Washington and Ankara.
+
+---
+
+### 2026-08-15 21:04:44  #國際 #原創
+
+【美國海軍據悉考慮應特朗普要求重新設計航空母艦】據多位現任和前任美國官員透露，美國海軍正在考慮對其新型航空母艦進行重大重新設計，以更好地符合美國總統特朗普對軍艦外觀的偏好。這些官員表示，海軍正在評估將作為航母指揮中心的多層艦橋向前移動至艦體中部，使其外觀更接近老式艦艇的可行性。據這些官員稱，此舉是為了回應特朗普對新型福特級航母“外觀”的擔憂，因為該級航母的艦島位置靠近艦尾。搬遷這座被稱為“艦島”的指揮中心，將是特朗普推動的第二項重大設計變更。週四，這位總統釋出了一份國家安全備忘錄，指示海軍制定一項計劃，在未來的航母上恢復使用老式的蒸汽彈射器。這些系統用於將噴氣式飛機從航母的飛行甲板上彈射出去。現任和前任海軍官員表示，特朗普傾向於讓新型航空母艦的外觀更接近二戰時期服役的航母。
+
+---
+
+### 2026-08-15 21:03:58  #MKT News
+
+Russia's foreign ministry said its spokesman has asked the United States and Turkey to explain reported plans to supply weapons to Kyiv.
+
+---
+
+### 2026-08-15 21:00:47  #國際
+
+市場訊息：美國海軍考慮應特朗普要求重新設計航空母艦。
+
+---
+
+### 2026-08-15 20:59:49  #國際
+
+【美國弗吉尼亞州立大學槍擊事件致5人受傷】當地時間8月15日，美國弗吉尼亞州立大學發生槍擊事件，造成5人受傷，其中1人情況危急。據悉，槍擊事件發生在當天凌晨1時30分左右，地點位於該校一棟學生宿舍樓外。校方表示，事件涉及多名嫌疑人。警方趕到現場後發現5人遭槍擊，傷者隨後被送往附近醫院接受治療，其中1人情況危急，其餘4人傷勢沒有生命危險。事件發生後，校方一度對校園實施封鎖。目前警方仍在現場展開調查，校園內有大批執法人員部署。截至目前，尚不清楚是否已有嫌疑人被捕。（央視新聞）
+
+---
+
+### 2026-08-15 20:53:04  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+【Iran says it reached agreement with Oman on Strait of Hormuz transit plan】On Aug 15 local time, Iranian foreign ministry spokesperson BAGHAEI said talks with Oman continued despite US obstruction and the two sides have reached an agreement on a transit plan for the Strait of Hormuz shipping lane.
+
+---
+
+### 2026-08-15 20:52:00  #公司
+
+【華天科技：公司與智元進行業務專案合作】有投資者向華天科技(002185)提問：公司與智元機器人有合作？華天科技8月15日在互動平臺回覆，公司與智元進行業務專案合作。
+
+---
+
+### 2026-08-15 20:50:55  #國際
+
+【伊朗稱已與阿曼就霍爾木茲海峽通行方案達成協議】伊朗外交部發言人巴加埃表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。
+
+---
+
+### 2026-08-15 20:48:26  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH said Israel's attacks in southern Lebanon will be met with a corresponding response.
+
+---
+
+### 2026-08-15 20:45:27  #MKT News
+
+Indonesia's West disaster management agency said deaths from an earthquake in eastern Indonesia have risen to 47.
+
+---
+
+### 2026-08-15 20:45:21  #國際
+
+印尼災害管理機構：印尼東部地震死亡人數已上升至47人。
+
+---
+
+### 2026-08-15 20:42:07  #國際
+
+【韓國西江大學18萬條個人資訊洩露 朴槿惠或在其中】韓國西江大學15日確認，該校約18萬條個人資訊洩露，涉及在校學生、畢業生、教職員和其他人員，據信包括韓國前總統朴槿惠的個人資訊。（新華社）
+
+---
+
+### 2026-08-15 20:41:00  #其他
+
+【聯合國追加資金應對埃博拉疫情】聯合國分管人道主義事務的副秘書長托馬斯·弗萊徹14日說，埃博拉病毒正在剛果（金）“佔據上風”。聯合國將追加3050萬美元撥款，增派工作人員，擴大應對疫情行動。弗萊徹14日主持了聯合國的機構間常設委員會緊急會議。他當天發表宣告說，本次埃博拉疫情是有記錄以來蔓延最快的一次，目前“每30分鐘就有一人在這次疫情中死亡”。（新華社）
+
+---
+
+### 2026-08-15 20:35:42  #MKT News #Important
+
+Yemen's military vows a strong response to a Houthi attack on the port city of Mocha, Al Arabiya reports.
+
+---
+
+### 2026-08-15 20:35:17  #MKT News #Commodities #Energy
+
+Oman News Agency (ONA) said oil contamination has reached about 12 km of shoreline near Ras Madrakah; Masirah Island has not been affected. Cleanup operations on the leaking oil tanker have progressed.
+
+---
+
+### 2026-08-15 20:34:04  #MKT News #Market Regions #Greater China
+
+【China's Henan seals 117m breach on Jialu River east‑bank levee in Zhoukou】Emergency teams working day and night sealed a 117‑meter breach on the east‑bank levee of the Jialu River in Chuanhui District, Zhoukou, Henan at 20:29 on Aug. 15.
+
+---
+
+### 2026-08-15 20:32:04  #國際
+
+美國地質調查局：印尼ENDE西北 78 公里處發生 5.2 級地震。
+
+---
+
+### 2026-08-15 20:30:34  #其他
+
+【河南周口川匯區賈魯河東岸堤防潰口成功合龍】記者瞭解到，經過多方應急搶險力量晝夜不停努力，8月15日晚上8時29分，河南省周口市川匯區賈魯河東岸堤防117米潰口成功合龍。（央視新聞）
+
+---
+
+### 2026-08-15 20:18:31  #公司
+
+【中國海誠中標雲南沃森生物能碳管理平臺專案】據中國海誠訊息，近日，中國海誠中標雲南沃森生物能碳管理平臺專案。此次中標是公司在生物醫藥能碳服務領域的重要突破，也進一步拓寬了公司在生物疫苗賽道的新業務佈局。
+
+---
+
+### 2026-08-15 20:16:45  #國際
+
+【美國弗吉尼亞州立大學發生槍擊事件，多人中槍】據美國媒體15日報道，美國弗吉尼亞州立大學發生槍擊事件，多人中槍，校園隨即進入封鎖狀態。（新華社）
+
+---
+
+### 2026-08-15 20:14:29  #國際
+
+以色列國防軍：我們對黎巴嫩的空襲是對真主黨違反停火協議的回應。
+
+---
+
+### 2026-08-15 20:13:33  #國際
+
+【印尼7.7級地震中三名中國遊客受輕傷】從中國駐登巴薩總領館獲悉，在印尼發生的7.7級地震中，有3名中國遊客受輕傷，目前均無大礙。據瞭解，其中一名中國遊客在地震發生後緊急避險過程中，因慌亂不慎頭部撞到牆壁。另外兩名遊客是腰部扭傷。目前，3名遊客傷勢均較輕。（央視新聞）
+
+---
+
+### 2026-08-15 20:11:16  #其他
+
+【2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇崑山舉辦】15日，2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇省崑山市開幕。此次活動由兩岸企業家峰會主辦，主題是“青創成就夢想 AI賦能未來”，約450名兩岸青年企業家代表、青年學生等嘉賓參加活動。（新華社）
+
+---
+
+### 2026-08-15 20:10:40  #其他
+
+【粵港澳大灣區首開至鎮江方向快速班列】8月15日，隨著一聲汽笛長鳴，一趟滿載著汽車零部件、日用百貨的棚車班列從廣州東部公鐵聯運樞紐(增城西站)緩緩啟動，預計將於8月17日上午直達江蘇鎮江上隍站。這標誌著粵港澳大灣區至江蘇鎮江方向的物流新通道正式打通。
+
+---
+
+### 2026-08-15 20:07:32  #MKT News
+
+State media reported Omani authorities said about 12 km of coastline in the Ras Madrakah area has been affected by oil pollution.
+
+---
+
+### 2026-08-15 20:06:12  #其他
+
+阿曼稱拉斯馬德拉卡地區約12公里海岸線受石油汙染影響。
+
+---
+
+### 2026-08-15 20:03:44  #國際
+
+【自然資源部海嘯預警中心：印尼6.8級地震不會引發海嘯】2026年08月15日18時54分（北京時間），印尼蘇門答臘島北部海域（2.95°N,99.05°E）發生6.8級地震，震源深度為170千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。
+
+---
+
+### 2026-08-15 20:02:11  #MKT News
+
+【Commemoration of Jiang Zemin’s 100th birth anniversary set for Aug. 17; Xi Jinping to attend and speak】A state ceremony marking the 100th anniversary of former leader Jiang Zemin’s birth will be held at 10:00 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping, General Secretary of the Communist Party, President and CMC chairman, will attend and deliver a major address. Chinese state broadcasters will provide live coverage.
+
+---
+
+### 2026-08-15 20:01:15  #其他
+
+【紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話】紀念江澤民同志誕辰100週年大會將於8月17日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將出席大會並發表重要講話。屆時，中央廣播電視總檯、新華網將對大會進行現場直播，人民網、央視網、中國網等中央重點新聞網站和人民日報客戶端、新華社客戶端、央視新聞客戶端等新媒體平臺同步轉播。（央視新聞）
+
+---
+
+### 2026-08-15 20:00:54  #市場
+
+【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。
+
+---
+
+### 2026-08-15 20:00:03  #國際 #原創
+
+【伊朗稱3名飛行員被卡達扣押六個月】伊朗方面稱，3月針對美軍基地的空襲行動中伊朗一架蘇‑24 戰鬥機墜毀後，三名飛行員被卡達部隊生擒，已在該國被扣押約六個月。伊朗武裝部隊總參謀部失蹤人員委員會負責人穆罕默德・巴蓋爾扎德在致紅十字國際委員會主席的一封信中披露了上述情況。信中列明三名飛行員為賈瓦德・薩利希、阿卜杜勒馬吉德・達什蒂安、奧姆蘭・貝赫拉維西安。巴蓋爾扎德表示，在扣押期間，卡達不允許這三人與家人會面、通話，也拒絕伊朗官員瞭解他們的相關情況。伊朗官員此前曾表示，三名飛行員下落不明，現有相關資訊並不完整，僅稱在針對卡達的行動過後，另一名飛行員馬吉德・卡澤米的遺體已運回伊朗。
+
+---
+
+### 2026-08-15 19:57:39  #國際
+
+【印尼7.7級地震中2名中國公民受輕傷】記者從中國駐登巴薩總領館瞭解到，暫未接到中國公民死亡的報告。地震造成2名中國公民受輕傷，總領館已為其提供必要領事協助。印尼外交部領事司通報說，此次地震暫未導致外國公民死亡。（新華社）
+
+---
+
+### 2026-08-15 19:56:01  #MKT News #Brent #Impact bullish #WTI
+
+【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests.
+
+---
+
+### 2026-08-15 19:53:58  #其他
+
+暑期檔票房破97億。（央視財經）
+
+---
+
+### 2026-08-15 19:50:49  #宏觀 #焦點
+
+【8月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】法治護航美麗中國建設 築牢中華民族永續發展生態根基； 2.文獻紀錄片《江澤民》今晚繼續播出； 3.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】北京建設歷史文化名城 讓保護與發展相融共生； 4.日本無條件投降81週年 各地舉行活動銘記歷史緬懷先烈； 5.我國多措並舉加快綠色低碳發展； 6.多地出現強降雨天氣 防汛救災加緊進行； 7.各地創新舉措 推進完整社群建設； 8.【新聞特寫】中國，我還會再來！ 9.國內聯播快訊： （1）前7個月全國鐵路傳送旅客28億人次； （2）前7個月中國—中東歐國家經貿合作示範區貿易額超370億元； （3）我國進一步規範檢驗類醫療服務專案收費； （4）中消協釋出《中國消費者綠色消費指南（2026版）》； （5）中歐北極快航季節性航線開啟常態化運營； （6）“CMG電影文化嘉年華·天津專場”啟動； 10.日本民眾舉行集會 敦促日本政府反省侵略戰爭罪行； 11.國際人士批評日本歪曲歷史 加速“再軍事化”等危險舉動； 12.國際聯播快訊： （1）印尼發生7.7級強震 已致38人死亡； （2）伊朗稱美破壞停火 協議無法延長； （3）古巴譴責美對古實施極限施壓和經濟扼殺； （4）資料顯示8月美消費者信心指數顯著下滑； （5）乾旱持續 歐洲多條河流水位達新低。
+
+---
+
+### 2026-08-15 19:47:26  #MKT News #Important
+
+【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing.
+
+---
+
+### 2026-08-15 19:47:24  #國際
+
+【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。
+
+---
+
+### 2026-08-15 19:47:11  #國際
+
+【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）
+
+---
+
+### 2026-08-15 19:45:59  #其他
+
+【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）
+
+---
+
+### 2026-08-15 19:42:20  #國際
+
+美國地質調查局：印尼PEMATANGSIANTAR西北偏北15公里處發生6.9級地震。
+
+---
+
+### 2026-08-15 19:41:44  #國際
+
+【印尼7.7級地震死亡人數升至40人】印尼國家搜救局公佈的最新資料顯示，截至印尼雅加達時間18時30分（震區時間19時30分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至40人，另有50人受傷。
+
+---
+
+### 2026-08-15 19:40:32  #觀點
+
+【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）
 
 ---
 
@@ -18144,263 +18450,5 @@ Semiconductor Manufacturing International earnings above expectations at 0.40 CN
 ### 2026-08-14 08:11:44  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
 
 Semiconductor Manufacturing International earnings above expectations at 0.06 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.06 USD, compared to market expectations of 0.04 USD.
-
----
-
-### 2026-08-14 08:11:44  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
-
-China Mobile earnings above expectations at 1.84 HKD — China Mobile (941) released earnings per share at 1.84 HKD, compared to market expectations of 1.38 HKD.
-
----
-
-### 2026-08-14 08:11:09  #MKT News #Market Regions #Japan & APAC
-
-Australia's S&P/ASX 200 opened down 53.3 points (-0.58%) at 9,135.2 on Aug 14 (Fri).
-
----
-
-### 2026-08-14 08:10:55  #MKT News
-
-【U.S. denies reports of crew deaths, suicide surge aboard USS Abraham Lincoln】U.S. Central Command (CENTCOM) said on social media that multiple media reports in the past 48 hours about the USS Abraham Lincoln's Middle East deployment were "false." CENTCOM said claims that seven sailors died in a shipboard brawl and that onboard suicide ideation had surged were "fabricated," and that there have been no deaths aboard the carrier; a sailor who went overboard on Aug. 3 was rapidly and safely rescued. CENTCOM added the Lincoln has one of the Navy's highest re-enlistment rates and, after more than 260 days at sea, roughly 10,000 sorties and 1.5 million pounds of ordnance, the carrier strike group's sailors and Marines remain "resolute" with "high morale."
-
----
-
-### 2026-08-14 08:10:52  #公司
-
-【早間公告：盛新鋰能向特定物件發行股票申請獲深交所受理】早間公告：①盛新鋰能：向特定物件發行股票申請獲深交所受理。②英可瑞：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。③天奇股份：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。④華天科技：發行股份及支付現金購買資產並募集配套資金暨關聯交易事項獲深交所併購重組稽核委員會稽核透過。
-
----
-
-### 2026-08-14 08:09:51  #Trading Economics #Markets #United Arab Emirates #Earnings #Importance 0
-
-Abu Dhabi National Energy earnings in line with market expectations at 0.02 AED — Abu Dhabi National Energy (TAQA) released earnings per share at 0.02 AED.
-
----
-
-### 2026-08-14 08:09:27  #國際
-
-【美否認林肯號水兵鬥毆致死自殺激增】美軍中央司令部今天（8月14日）在社交媒體平臺發帖稱，過去48小時內，多家媒體就“林肯”號航母部署中東期間的情況釋出了“虛假報道”。其中一則報道稱“有7名水兵在艦上鬥毆中喪生”，另一些報道則暗示“艦上水兵自殺念頭激增”——這些報道“純屬捏造”。美軍中央司令部稱，“林肯”號在所有美軍航母中，一直保持著“最高的人員續約率之一（84.4%）”。在海上連續部署超過260天、執行1萬架次飛行任務、投擲150萬磅彈藥之後，“林肯”號航母打擊群的海軍及海軍陸戰隊官兵依然“意志堅定、士氣高昂”。艦上“並無任何軍人死亡”，8月3日那名落水的水兵也已被迅速且安全地救起。（CCTV國際時訊）
-
----
-
-### 2026-08-14 08:09:11  #央行 #國際
-
-【日本財務省前財務官古澤滿宏：日本央行可能於9月加息，隨後於12月或明年1月再次加息】日本財務省前財務官古澤滿宏稱，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。日美協調幹預日元的行動隨時可能再次發生。如果日元再度回到7月底日美聯合干預前的水平，日本和美國可能再次進行干預。日本央行可能於9月加息，隨後於12月或明年1月再次加息。日本央行最終可能希望將利率提高至1.5%-1.75%左右。
-
----
-
-### 2026-08-14 08:08:18  #觀點
-
-【中信證券：隨著國產手術機器人與通用人形機器人的快速發展 行業有望迎來系統性降本】中信證券研報表示，機器人手術效益顯著，是醫學發展新趨勢，但高昂的手術費用導致滲透率長期偏低。中信證券認為隨著國產手術機器人與通用人形機器人的快速發展，行業有望迎來系統性降本，大幅提高滲透率。人形機器人或將從兩個方面推動行業發展：1.帶動上游供應鏈國產化+規模化，惠及下游大幅降本；2.Nature、Science等頂級期刊發表研究，人形機器人或能直接操縱器械進行外科手術，搭配具身智慧、物理世界AI，有望帶來新一輪手術革命。中信證券認為國產機器人有望在全球競爭中脫穎而出，或能孕育千億龍頭，建議關注能降本、有創新的機器人企業。同時中信證券也關注到器械龍頭在該領域的頻繁併購，或將帶來額外投資機遇。
-
----
-
-### 2026-08-14 08:05:26  #國際
-
-【外交部發言人就厄瓜多總統諾沃亞將訪華答記者問】據外交部網站訊息，8月14日，外交部發言人就厄瓜多總統諾沃亞將訪華答記者問。問：中方釋出了厄瓜多總統諾沃亞訪華的訊息，請問中方如何看待當前中厄關係？能否介紹此訪安排和中方期待？答：厄瓜多是拉美重要國家，中國和厄瓜多是全面戰略伙伴。近年來，在兩國元首戰略引領下，中厄關係保持良好發展勢頭，雙方簽署了共建“一帶一路”合作檔案和自由貿易協定，兩國各領域務實合作成果豐碩，人民友好不斷加深。此訪是諾沃亞總統首次對中國進行國事訪問。習近平主席將同諾沃亞總統舉行會談，李強總理、趙樂際委員長將分別同他會見。今年是中厄建立全面戰略伙伴關係十週年。中方期待透過此訪進一步夯實兩國政治互信，賡續傳統友誼，推動中厄全面戰略伙伴關係不斷取得新進展，更好造福兩國人民。
-
----
-
-### 2026-08-14 08:05:18  #央行 #觀點
-
-【中信證券：下階段央行或繼續加大金融對於實體經濟的支援力度】中信證券研報表示，央行2026年二季度貨政報告對國內經濟定調“穩定執行、向新向優”，國際方面強調對地緣風險和AI發展的關注。貨幣政策層面要求“綜合運用並適時調整貨幣政策工具”，定調略偏積極；流動性方面要求引導短端資金利率圍繞政策利率執行，而降成本層面則提及推動貸款定價基準多元化。總的來看，中信證券認為下階段央行或繼續加大金融對於實體經濟的支援力度。
-
----
-
-### 2026-08-14 08:04:40  #MKT News #Market Regions #Greater China
-
-【Ecuador president Daniel Noboa Azín to make state visit to China】China’s Foreign Ministry said Ecuador President Daniel Noboa Azín will make a state visit to China from Aug 16 to Aug 23 at the invitation of CHINA.
-
----
-
-### 2026-08-14 08:04:18  #其他
-
-【我國多型高階船舶及海工裝備集中交付】據中國船舶工業行業協會訊息，近期我國船舶工業在高階船舶與海工裝備領域再傳捷報，多艘極具特色的船舶及海工裝備相繼交付，標誌著中國在雙向航行自卸船、液氨運輸船、海纜施工船、風電安裝船等細分領域實現重要突破。
-
----
-
-### 2026-08-14 08:04:08  #公司 #觀點
-
-【華泰證券：算力升級下AI電源或呈現四大趨勢】華泰證券研報稱，在從“向外擴”Scale out走向“向內聚”Scale up的AI超節點機櫃趨勢下，AIDC功率密度迎來非線性增長。隨著下一代機櫃英偉達Kyber和位元組AI Rack 3.0功率突破500kW，在大電流下母線體積和散熱瓶頸或推動800V直流方案從優選走向必選，國內外800V產業化也有望齊頭並進。高密度、低損耗、高可控地送電到晶片訴求提升或帶來四大AI供配電趨勢，即更高電壓、多層備電、模組整合、升級前置。四大趨勢下，能夠提供HVDC/HV IBC的電源廠商有望受益；具備機電撬裝模組能力，以及SST技術積累的公司有望受益；車規400V/800V與AIDC互通性較強，因此相關車規半導體和功率半導體公司也將受益。
-
----
-
-### 2026-08-14 08:03:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
-
-A former senior Japanese foreign-exchange diplomat says the Bank of Japan may raise rates in September and again in December or January.
-
----
-
-### 2026-08-14 08:03:49  #央行 #日本央行
-
-【日本前高階外匯外交官：日本央行可能希望最終將利率提高至約1.5%至1.75%】日本前高階外匯外交官稱，如果日元回到7月底協調行動前的水平，日本和美國可能會再次干預。日本央行可能希望最終將利率提高至約1.5%至1.75%。
-
----
-
-### 2026-08-14 08:03:46  #MKT News
-
-A former senior Japanese foreign-exchange diplomat said the Bank of Japan may seek to eventually raise policy rates to about 1.5-1.75%.
-
----
-
-### 2026-08-14 08:03:46  #國際
-
-【中外科學家合作觀測到核子內部奇特結構】記者從中國科學技術大學獲悉，該校與美國肯特州立大學、布魯克海文國家實驗室等單位合作，透過高能原子核-原子核對撞實驗中淨重子數和淨電荷數的精確測量發現核子內部存在一種奇特結構。北京時間8月14日凌晨，研究結果發表於國際學術期刊《科學》。(新華社)
-
----
-
-### 2026-08-14 08:03:32  #市場
-
-SK海力士股價上漲6%。
-
----
-
-### 2026-08-14 08:03:29  #央行 #美聯儲
-
-【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。
-
----
-
-### 2026-08-14 08:03:13  #市場
-
-澳大利亞S&P/ASX 200指數開盤下跌0.6%，報9,130.50點。
-
----
-
-### 2026-08-14 08:02:48  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-A former senior Japanese foreign-exchange diplomat said if the yen returns to levels prevailing before the end-July coordinated action, Japan and the United States may intervene again.
-
----
-
-### 2026-08-14 08:02:05  #國際
-
-【厄瓜多總統諾沃亞將訪華】外交部發言人宣佈：應國家主席習近平邀請，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛將於8月16日至23日對中國進行國事訪問。
-
----
-
-### 2026-08-14 08:01:45  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 opened 438.23 points higher, up 0.64%, at 68,746.82 on Aug. 14 (Fri).
-
----
-
-### 2026-08-14 08:01:25  #央行 #國際
-
-日本前高階外匯外交官表示，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。
-
----
-
-### 2026-08-14 08:00:54  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲2.7%，至6995.67點。
-
----
-
-### 2026-08-14 08:00:51  #MKT News #Important #Market Regions #Japan & APAC #005930.KS #Impact bullish #000660.KS
-
-South Korean stocks opened higher: KOSPI +2.68% at the open; Samsung Electronics +2%; SK Hynix +6%.
-
----
-
-### 2026-08-14 08:00:19  #市場
-
-【日韓股市開盤】日經225指數上午開盤報68811.17點，漲幅0.74％。韓國綜合股價指數（KOSPI）開盤上漲2.7％，至6995.67點。三星電子漲2%，海力士漲6%。
-
----
-
-### 2026-08-14 08:00:14  #MKT News #CNH #Impact bearish #CSI300 #Impact bullish #SSE Composite
-
-【CITIC Securities: PBOC likely to step up financial support to the real economy】CITIC Securities says the PBOC's Q2 2026 monetary report sets domestic tone as "stable operation, shifting to new and better quality" and flags geopolitical risks and AI on the external front. The report calls for "comprehensive use and timely adjustment of monetary policy tools," indicating a slightly more active policy bias. It urges guiding short-term funding rates to trade around the policy rate and promotes diversification of loan pricing benchmarks to lower financing costs. CITIC concludes the PBOC may continue to increase financial support for the real economy in the next phase.
-
----
-
-### 2026-08-14 08:00:02  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-Japan 10-year government bond yield fell 2.5 bps to 2.845%.
-
----
-
-### 2026-08-14 07:59:39  #市場 #國際
-
-10年期日本國債收益率下跌2.5個基點，至2.845%。
-
----
-
-### 2026-08-14 07:59:28  #國際
-
-【希臘西尼羅病毒感染病例激增 】希臘國家公共衛生組織12日說，希臘過去兩週感染西尼羅病毒的人數激增，感染病例總數增至110例。據法新社13日報道，義大利、西班牙、北馬其頓和羅馬尼亞等歐洲國家也發現西尼羅病毒感染病例。 希臘國家公共衛生組織在宣告中說，截至12日，希臘全國範圍內共發現西尼羅病毒感染病例110例，這一資料在7月底為42例。西尼羅病毒感染已導致9人死亡，死者均為65歲以上老人。
-
----
-
-### 2026-08-14 07:59:10  #資料 #市場 #觀點 #央行 #國際
-
-【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。長期看，在油價穩定現狀的基準假設下，今年8月到明年2月美國CPI同比均值料在3.2%左右保持震盪，仍是因油價中樞抬升的脈衝所致。但明年3月—5月美國CPI同比增速料因油價脈衝結束導致的高基數效應顯著回落，分別跌至2.56%、2.03%、1.71%。因此，只要油價不出現顯著上行風險，2027年第二季度開始美聯儲將不再有加息的必要。策略方面，截至最新，交易員對今年12月、明年6月的加息預期分別為1.04、1.65次，較7月底的1.48、2.2次雖有回落，但仍有壓縮空間。東吳證券維持美聯儲今年不加息的觀點，當前隱含的全年26bps的加息預期料將回吐，對應2年美債利率&美元指數的走弱，黃金的走高。
-
----
-
-### 2026-08-14 07:59:01  #其他
-
-【非洲豬瘟持續 芬蘭擬擴大疫情“核心區” 】芬蘭食品管理局12日說，因發現更多因感染非洲豬瘟病毒而死亡的野豬，將擴大此前劃定的疫情核心區，禁止在這一區域內進行狩獵等活動，以防止疫情進一步擴散。 芬蘭食品管理局7月30日證實，在該國東南部維羅拉赫蒂的死亡野豬體內檢測到非洲豬瘟病毒，這是該國首次發現非洲豬瘟病例。芬蘭食品管理局隨即宣佈以感染野豬發現地為中心、半徑約3公里區域為疫情核心區，禁止在這一區域內進行狩獵、採摘、林業作業等活動。
-
----
-
-### 2026-08-14 07:58:43  #公司 #市場 #觀點 #國際
-
-【歐洲柴油價格一年多以來首超航煤，供應趨緊令市場擔憂】倫敦證交所集團（LSEG）資料顯示，歐洲柴油價格一年多以來首次超過航空煤油價格。這是因為歐洲能夠獲得其他供應來源替代來自中東的航空煤油，但在為工業和農業獲取更多柴油供應方面卻面臨困難。高盛分析師在報告中表示：“隨著冬季臨近，我們認為柴油價格持續出現稀缺性溢價的風險高於原油。LSEG資料顯示，本週柴油價格已超過航煤價格 。8月10日，運抵歐洲的航煤貨物報價較柴油期貨每噸低24美元。根據LSEG和Argus Media資料，這是自2025年7月以來的最大折價幅度。
-
----
-
-### 2026-08-14 07:58:13  #Trading Economics #Economy #India #Total Vehicle Sales #Importance 1
-
-India Passenger Car Sales Jump 31.2% in July — Passenger vehicle sales in India surged 31.2% year-on-year in July 2026, accelerating sharply from an 18.2% rise in the previous month to 395,199 units, according to data from the Society of Indian Automobile Manufacturers (SIAM). The strong performance was attributed to supportive domestic demand, aided by lower Goods and Services Tax rates and the introduction of new models. “India’s auto industry delivered its strongest-ever July sales, with robust double-digit growth across passenger vehicles. This positive momentum, sustained over several months, has continued as the industry enters the festive season with expectations of strong consumer sentiment,” Rajesh Menon, Director General of SIAM, said.
-
----
-
-### 2026-08-14 07:57:34  #觀點 #國際
-
-【中信證券：粘膠長絲行業有望進入供需偏緊與價格中樞上行階段】中信證券研報認為，出口需求持續增長、存量供給接近滿負荷執行，粘膠長絲行業有望進入供需偏緊與價格中樞上行階段。印度傳統服飾消費增長帶動中國粘膠長絲出口放量，2025年行業出口量同比增長18.2%至11.4萬噸，2026年上半年進一步同比增長30.9%；同時，2025年國內行業開工率已升至89.8%，半連續紡產能可能面臨政策淘汰、環保改造及搬遷壓力。我們預計2026-2028年行業將呈現供需缺口，產品價格具備向上彈性。重點推薦頭部企業。
-
----
-
-### 2026-08-14 07:57:32  #觀點 #國際
-
-【中信建投：霍爾木茲海峽僵局持續 地緣風險溢價維持高位】中信建投研報表示，霍爾木茲海峽僵局短期內難以根本解決。美方“軍事速勝”計劃已然落空，對伊政策正從高強度軍事打擊轉向“邊施壓、邊談判”的拉鋸式博弈。伊朗不會輕易放棄霍爾木茲海峽這一對美反制的重要手段。短期看，海峽持續受阻利好油氣開採及能源板塊，利空航空、海運等用能企業；中期走勢取決於美伊談判進展及海峽實際通航恢復情況，地緣不確定性仍將主導油價波動。
-
----
-
-### 2026-08-14 07:57:14  #市場
-
-【浙江省水利廳提升水旱災害防禦（防颱）應急響應至Ⅱ級】受強降雨影響，今日（8月14日）6時杭州市青山水庫水位上漲至30.44米，東苕溪瓶窯水文站水位上漲至6.76米。根據《浙江省水利廳水旱災害防禦應急工作預案》，省水利廳於今日6時30分將水旱災害防禦（防颱）應急響應提升至Ⅱ級（二級）。當前苕溪等江河高水位執行，相關地區水利部門要保持高度警惕，密切監視水情工情，科學排程水利工程，加強安全管理，做好水旱災害防禦工作。
-
----
-
-### 2026-08-14 07:56:52  #公司
-
-【北京市就細胞與基因治療高質量發展徵求意見，相關上市公司積極佈局】據北京市政府官網訊息，日前，北京市科學技術委員會、中關村科技園區管理委員會發布《關於促進細胞與基因治療領域高質量發展的若干措施（徵求意見稿）》（以下簡稱《措施》），旨在推動細胞與基因治療（CGT）產業邁向高質量發展。《措施》圍繞創新、臨床、平臺、監管、產業五大維度，推出覆蓋CGT全產業鏈的9項支援舉措。其中特別提出，強化創新品種產業化全鏈條服務機制，醫保部門提前介入、提供醫療服務價格政策輔導，為技術獲批後及時具備合規收費條件做好準備。上市公司積極佈局細胞療法，在投資者互動平臺上透露在細胞治療上的佈局。中源協和表示，公司高度重視細胞治療業務的國際化發展。東富龍表示，公司深耕細胞治療領域。開能健康表示，公司對細胞行業的前景持積極態度。海南海藥表示，在細胞治療領域形成了“參股+合作”的協同佈局。復星醫藥表示，CAR-T細胞治療產品奕凱達獲納入首版商保創新藥品目錄。百普賽斯表示，公司開發的一系列CD19、BCMA、Her2等重組蛋白和抗獨特型抗體產品，可被廣泛用於CAR-T產品開發的過程和測試。資金面上，8月以來共有13股獲融資淨買入，藥明康德、百普賽斯、睿智醫藥融資淨買入金額居前，分別為3.42億元、1.77億元、0.48億元。
-
----
-
-### 2026-08-14 07:56:01  #市場
-
-【國際金價再上4400美元 金飾漲價催生消費輕量化】時隔兩個月後，國際金價再度回到4400美元/盎司關口上方。國內金飾價格近日來也上漲明顯。卓創資訊研究員彭小真分析，高金價對黃金消費最直接的影響，是消費者的購買門檻明顯提高，但這並不意味著黃金消費會簡單地出現斷崖式下降，更值得關注的是消費結構發生了變化。“首先，消費者的到店諮詢可能仍然存在，但從‘看一看’到實際成交的轉化會有所下降，部分消費者會產生更強的觀望心理。其次，消費者可能透過降低購買克重來控制總預算。也就是說，高金價環境下，消費者並不一定完全不買黃金，而可能從過去購買較大克重的產品，轉向小克重、輕量化以及更加註重設計的產品。”彭小真認為，高金價下，剛需消費和非剛需消費的分化會更加明顯。婚嫁、節慶和部分傳統禮贈需求具有較強的剛性，即使價格上漲，消費者也很難無限期推遲，只是可能透過降低克重、調整款式等方式控制支出。而悅己消費以及非必要的裝飾性消費，價格彈性相對更高。這部分消費者更容易選擇等待價格回撥，或者減少購買克重。
-
----
-
-### 2026-08-14 07:55:34  #國際
-
-美國中央司令部：在過去48小時內，多家媒體報道了與“亞伯拉罕·林肯”號航空母艦（CVN 72）部署中東相關的多項虛假宣告。其中一則報道聲稱有七名水兵在航母上的一場鬥毆中喪生，其他報道則最近暗示自殺意念激增。這些報道是虛假的。事實是：“亞伯拉罕·林肯”號一直保持著美國海軍所有航母中最高的船員續服率之一（84.4%）。亞伯拉罕·林肯航母打擊群的水兵和海軍陸戰隊員在海上超過260天、執行10,000次飛機飛行並消耗150萬磅彈藥後，依然保持著堅韌和決心。航母上沒有服役人員死亡，而8月3日有一名落水的水兵已被迅速且安全地救回。對“亞伯拉罕·林肯”號歷史性部署的肆意錯誤報道是對我們軍服人員及其親人的不公。
-
----
-
-### 2026-08-14 07:54:33  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Flat After Strong Session — US stock futures were little changed on Friday after the major averages advanced in the previous session, with the S&P 500 reaching fresh record highs. In regular trading on Thursday, the S&P 500 and Nasdaq Composite rose 0.65% and 0.81%, respectively, putting both benchmarks on course for their third straight weekly gains. The Dow also climbed 70 points, although it remained set to finish the week lower. Seven of the 11 S&P sectors ended in positive territory, led by communication services, real estate and technology stocks. The gains came after headline and core producer prices rose less than expected in July, reinforcing the previous day’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Investors now turn their attention to July retail sales data for further clues on the strength of the economy. Meanwhile, no major earnings reports are scheduled for Friday.
-
----
-
-### 2026-08-14 07:53:24  #宏觀
-
-【從行業倡議到立法破局 反內捲進入制度化治理新階段】2024年7月，中共中央政治局會議首次提出防止“內卷式”惡性競爭。兩年多來，“內卷式”競爭治理持續進階，從個別行業發起自律倡議，演進為制度規則、行業標準、監管執法多管齊下的綜合治理格局。綜合整治“內卷式”競爭，既是攻堅戰，也是持久戰。2026年7月召開的中共中央政治局會議提出“繼續綜合整治‘內卷式’競爭”，強調將“制定實施全國統一大市場建設條例”。受訪專家認為，隨著未來全國統一大市場建設條例出臺，整治“內卷式”競爭將進入制度化長效治理的關鍵階段。
 
 ---
