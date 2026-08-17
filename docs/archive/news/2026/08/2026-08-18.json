@@ -1,7 +1,41 @@
 {
   "date": "2026-08-18",
-  "count": 205,
+  "count": 208,
   "items": [
+    {
+      "id": "mkt:01a01126-37a4-7aab-9068-c6611470d185",
+      "time": "2026-08-18 03:15:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "【AI-driven borrowing pushes US investment-grade bond issuance to August record】US investment-grade bond issuance hit an August record and marked the third consecutive month of monthly records, maintaining the fastest issuance pace on record. As of Monday, August issuance reached $145.2bn, exceeding the prior August record of $136.0bn in 2020. Heavy corporate spending on AI infrastructure has boosted borrowing demand; this month’s volume was led by Alphabet (GOOG.O)’s $25bn deal. This was the eighth $25bn-or-larger offering so far this year, and all eight came from technology companies."
+    },
+    {
+      "id": "mkt:01a01125-e09f-7aab-9068-b9c78c252e99",
+      "time": "2026-08-18 03:14:49",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact bearish",
+        "PARA.O"
+      ],
+      "text": "【Paramount-Skydance seeks $1.88bn bond from states over delays to $110bn Warner Bros. Discovery takeover】Paramount-Skydance on Monday asked a U.S. judge to require about a dozen states suing to block its $110bn acquisition of Warner Bros. Discovery (WBD.O) to post a $1.88bn bond to cover costs from the delayed close. The company says it would incur $7m of delay costs per day if the merger fails to close by Sept. 30. The states’ challenges are expected to be tried in March; Paramount-Skydance warned that by the time trial concludes and final briefs are filed it will have paid $1.3bn in non-recoverable ticking fees to WBD shareholders."
+    },
+    {
+      "id": "5044736",
+      "time": "2026-08-18 03:12:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "法院裁決：紐約州法官要求檢方於 10 月 9 日前對路易吉·曼焦內申請撤銷州級訴訟的請求作出回應，原定於 9 月的庭審因此推遲。"
+    },
     {
       "id": "mkt:01a01122-2393-7aab-9068-b37360393a61",
       "time": "2026-08-18 03:10:44",
