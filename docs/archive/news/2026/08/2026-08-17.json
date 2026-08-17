@@ -1,7 +1,64 @@
 {
   "date": "2026-08-17",
-  "count": 2287,
+  "count": 2292,
   "items": [
+    {
+      "id": "mkt:01a00fe7-03a7-7aab-9063-23f9b53110e0",
+      "time": "2026-08-17 21:26:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "AUDUSD",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) plans to raise $3.6 billion in its inaugural Australian bond offering."
+    },
+    {
+      "id": "5044451",
+      "time": "2026-08-17 21:25:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。美聯儲將在2027年加息25個基點，使基準利率升至4.00%-4.25%區間，此前預測為維持利率不變。"
+    },
+    {
+      "id": "mkt:01a00fe5-e5c9-7aab-9063-19fff8acf486",
+      "time": "2026-08-17 21:25:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fuguo Investment Research Institute forecasts the Federal Reserve will hike the federal funds target by 25bp in 2027 to 4.00%-4.25%, reversing a prior projection that rates would be held steady."
+    },
+    {
+      "id": "5044450",
+      "time": "2026-08-17 21:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊否認與美有秘密渠道】針對美國總統特朗普今天（8月17日）在接受採訪時稱“正透過秘密渠道與伊朗伊斯蘭革命衛隊官員進行談判”一事，伊朗伊斯蘭革命衛隊發言人穆罕默迪回應稱：“革命衛隊官員與美國人之間根本沒有任何會談。特朗普的謊言純屬幻想，是其戰敗和絕望導致的妄想和噩夢。”穆罕默迪進一步表示：“革命衛隊是伊朗人民和伊斯蘭共和國力量的象徵，向來用行動發聲，而外交磋商屬於伊朗政府其他部門的職權範圍。”他還援引伊朗外交部的表態強調指出，鑑於美國屢屢背信棄義的不良記錄，目前伊朗與美國未進行任何對話。 穆罕默迪強調：“特朗普的幻想對他毫無幫助。他試圖透過這些言論暫時控制石油等能源價格。然而，他只有一條真正的出路，那就是接受失敗並執行伊朗提出的條件。因此，美國越早接受失敗並據此作出決定，就越能避免國家遭受更大更嚴重的損失。”"
+    },
+    {
+      "id": "mkt:01a00fe4-3a5a-7aab-9063-100d871092a7",
+      "time": "2026-08-17 21:23:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fullgoal Investment Research Institute now expects the Federal Reserve to raise rates by 25bps this year; it had previously forecast no change in policy rates."
+    },
     {
       "id": "mkt:01a00fe2-f1eb-7aab-9063-0d28a60910b2",
       "time": "2026-08-17 21:22:06",
