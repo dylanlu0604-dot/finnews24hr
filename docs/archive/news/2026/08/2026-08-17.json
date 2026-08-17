@@ -1,7 +1,139 @@
 {
   "date": "2026-08-17",
-  "count": 697,
+  "count": 711,
   "items": [
+    {
+      "id": "te:markets:575671",
+      "time": "2026-08-17 11:19:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Prices Decline — US natural gas prices dropped more than 2% to around $2.66 per million British thermal units on Monday, hovering near three-month lows as robust production and comfortable inventory levels offset weather-driven demand. An EIA report showed energy firms injected 36 bcf of gas into storage in the week ended August 7, larger than expectations of a 31 bcf build and the five-year average increase of 33 bcf. Production in the Lower 48 states averaged a record 111.3 bcfd so far in August, up from 110.7 bcfd in July, keeping inventories above their five-year average since March. Adding to the downward pressure, gas flows to the nine major US LNG export facilities eased to 17.1 bcfd in August from 17.2 bcfd in July, reducing the volume of gas processed for export and leaving more supply available to the domestic market. However, hotter-than-normal weather is expected to persist through the end of August, likely prompting utilities to use more gas for power generation to meet cooling demand."
+    },
+    {
+      "id": "mkt:01a00dba-f7ca-7aab-9055-3cf107a4851b",
+      "time": "2026-08-17 11:19:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【APEC Third Senior Officials' Meeting Begins in Dalian, Liaoning】Aug 17–28: The third APEC senior officials' meeting and related sessions are being held in Dalian, Liaoning. The largest SOM to date, with the most sessions, aims to advance cross-sector cooperation under the APEC framework and prepare for the November leaders' meeting. Organizers expect over 2,300 delegates from member economies and the secretariat."
+    },
+    {
+      "id": "5043386",
+      "time": "2026-08-17 11:19:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【第二季度Anthropic營收暴增約14倍 史上規模最大IPO或將易主】據CNBC報道，Anthropic公司最新的一份檔案顯示，其第二季度營收超過115億美元，較2025年同期的7.87億美元實現約14倍的強勁增長。據路透社報道，兩位熟悉Anthropic公司財務情況的人士稱，預計到2028年，Anthropic公司年營收將達到1900億至2000億美元。據悉，Anthropic已於6月向美國證券交易委員會秘密提交IPO相關檔案，進入靜默期。受此約束，公司不得對外發布涉及自身財務表現的公開資訊。此前，英國《金融時報》報道稱，多位Anthropic的投資者透露，該公司預計將在10月以2萬億美元甚至更高的估值上市。若該預測成真，Anthropic將超越SpaceX，成為史上規模最大的首次公開募股。（央視財經）"
+    },
+    {
+      "id": "5043385",
+      "time": "2026-08-17 11:18:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC第三次高官會今起在遼寧大連舉行】今天（8月17日）起到8月28日，2026年亞太經合組織（APEC）第三次高官會及相關會議將在遼寧大連舉行。此次會議是出席人員規模最大、活動場次最多的一次高官會，將推動APEC框架下各領域、各機制達成更多合作成果，為11月領導人會議做好準備。預計將有來自APEC各成員經濟體、秘書處等2300多名代表與會。（央視新聞）"
+    },
+    {
+      "id": "5043384",
+      "time": "2026-08-17 11:18:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【肯亞公佈多元化融資計劃 擬發行熊貓債、武士債和歐元債】根據肯亞財政部的一份報告，這個東非國家計劃於2026年12月底前發行8.15億美元歐元債券，並於2027年3月底前發行總額8.81億美元的武士貸款和武士債券。"
+    },
+    {
+      "id": "mkt:01a00db9-a027-7aab-9055-35be47590fb5",
+      "time": "2026-08-17 11:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai state agencies expect Q3 GDP to improve."
+    },
+    {
+      "id": "mkt:01a00db9-6d7e-7aab-9055-2cc39cf1033f",
+      "time": "2026-08-17 11:17:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister for economic and fiscal affairs Kiuchi said Tokyo needs to closely monitor the impact of developments in the Middle East."
+    },
+    {
+      "id": "5043383",
+      "time": "2026-08-17 11:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光成立雲智算資料服務公司 註冊資本1億元】企查查APP顯示，近日，東陽市東陽光雲智算資料服務有限公司成立，法定代表人為周林，註冊資本為1億元，經營範圍包含：大資料服務；通訊裝置銷售；安防裝置銷售；第一類增值電信業務；第二類增值電信業務等。企查查股權穿透顯示，該公司由東陽光旗下東莞東陽光雲智算科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a00db9-622b-7aab-9055-22e9de416254",
+      "time": "2026-08-17 11:17:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "KIUCHI says Japan's economy may be supported by improvements in employment and wages and by government policy measures."
+    },
+    {
+      "id": "5043382",
+      "time": "2026-08-17 11:17:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國規劃機構：預計泰國第三季度國內生產總值將有所改善。"
+    },
+    {
+      "id": "5043381",
+      "time": "2026-08-17 11:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟大臣：日本經濟有望得益於就業環境、薪資環境改善以及政府政策措施的支撐。"
+    },
+    {
+      "id": "5043380",
+      "time": "2026-08-17 11:16:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟大臣：有必要密切監控中東局勢帶來的影響。"
+    },
+    {
+      "id": "5043379",
+      "time": "2026-08-17 11:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【庫珀：“林肯”號心理健康相關案例數在現役航母中最低】針對“林肯”號航母水兵被曝存在心理健康問題，美軍中央司令部司令布拉德·庫珀16日發文表示，航母水兵心理健康問題需要關注，但在美軍現役航母中，“林肯”號上與心理健康相關的案例數量“處於最低之列”。（新華社）"
+    },
+    {
+      "id": "mkt:01a00db7-dc08-7aab-9055-18982208f8d2",
+      "time": "2026-08-17 11:15:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Kiuchi says Japan's economy continues a moderate recovery."
+    },
     {
       "id": "5043377",
       "time": "2026-08-17 11:13:56",

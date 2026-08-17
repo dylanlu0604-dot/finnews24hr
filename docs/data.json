@@ -1,7 +1,139 @@
 {
-  "updated": "2026-08-17 11:16:02",
-  "count": 15168,
+  "updated": "2026-08-17 11:19:50",
+  "count": 15175,
   "items": [
+    {
+      "id": "te:markets:575671",
+      "time": "2026-08-17 11:19:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Prices Decline — US natural gas prices dropped more than 2% to around $2.66 per million British thermal units on Monday, hovering near three-month lows as robust production and comfortable inventory levels offset weather-driven demand. An EIA report showed energy firms injected 36 bcf of gas into storage in the week ended August 7, larger than expectations of a 31 bcf build and the five-year average increase of 33 bcf. Production in the Lower 48 states averaged a record 111.3 bcfd so far in August, up from 110.7 bcfd in July, keeping inventories above their five-year average since March. Adding to the downward pressure, gas flows to the nine major US LNG export facilities eased to 17.1 bcfd in August from 17.2 bcfd in July, reducing the volume of gas processed for export and leaving more supply available to the domestic market. However, hotter-than-normal weather is expected to persist through the end of August, likely prompting utilities to use more gas for power generation to meet cooling demand."
+    },
+    {
+      "id": "mkt:01a00dba-f7ca-7aab-9055-3cf107a4851b",
+      "time": "2026-08-17 11:19:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【APEC Third Senior Officials' Meeting Begins in Dalian, Liaoning】Aug 17–28: The third APEC senior officials' meeting and related sessions are being held in Dalian, Liaoning. The largest SOM to date, with the most sessions, aims to advance cross-sector cooperation under the APEC framework and prepare for the November leaders' meeting. Organizers expect over 2,300 delegates from member economies and the secretariat."
+    },
+    {
+      "id": "5043386",
+      "time": "2026-08-17 11:19:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【第二季度Anthropic營收暴增約14倍 史上規模最大IPO或將易主】據CNBC報道，Anthropic公司最新的一份檔案顯示，其第二季度營收超過115億美元，較2025年同期的7.87億美元實現約14倍的強勁增長。據路透社報道，兩位熟悉Anthropic公司財務情況的人士稱，預計到2028年，Anthropic公司年營收將達到1900億至2000億美元。據悉，Anthropic已於6月向美國證券交易委員會秘密提交IPO相關檔案，進入靜默期。受此約束，公司不得對外發布涉及自身財務表現的公開資訊。此前，英國《金融時報》報道稱，多位Anthropic的投資者透露，該公司預計將在10月以2萬億美元甚至更高的估值上市。若該預測成真，Anthropic將超越SpaceX，成為史上規模最大的首次公開募股。（央視財經）"
+    },
+    {
+      "id": "5043385",
+      "time": "2026-08-17 11:18:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC第三次高官會今起在遼寧大連舉行】今天（8月17日）起到8月28日，2026年亞太經合組織（APEC）第三次高官會及相關會議將在遼寧大連舉行。此次會議是出席人員規模最大、活動場次最多的一次高官會，將推動APEC框架下各領域、各機制達成更多合作成果，為11月領導人會議做好準備。預計將有來自APEC各成員經濟體、秘書處等2300多名代表與會。（央視新聞）"
+    },
+    {
+      "id": "5043384",
+      "time": "2026-08-17 11:18:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【肯亞公佈多元化融資計劃 擬發行熊貓債、武士債和歐元債】根據肯亞財政部的一份報告，這個東非國家計劃於2026年12月底前發行8.15億美元歐元債券，並於2027年3月底前發行總額8.81億美元的武士貸款和武士債券。"
+    },
+    {
+      "id": "mkt:01a00db9-a027-7aab-9055-35be47590fb5",
+      "time": "2026-08-17 11:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai state agencies expect Q3 GDP to improve."
+    },
+    {
+      "id": "5043383",
+      "time": "2026-08-17 11:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光成立雲智算資料服務公司 註冊資本1億元】企查查APP顯示，近日，東陽市東陽光雲智算資料服務有限公司成立，法定代表人為周林，註冊資本為1億元，經營範圍包含：大資料服務；通訊裝置銷售；安防裝置銷售；第一類增值電信業務；第二類增值電信業務等。企查查股權穿透顯示，該公司由東陽光旗下東莞東陽光雲智算科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a00db9-6d7e-7aab-9055-2cc39cf1033f",
+      "time": "2026-08-17 11:17:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister for economic and fiscal affairs Kiuchi said Tokyo needs to closely monitor the impact of developments in the Middle East."
+    },
+    {
+      "id": "mkt:01a00db9-622b-7aab-9055-22e9de416254",
+      "time": "2026-08-17 11:17:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "KIUCHI says Japan's economy may be supported by improvements in employment and wages and by government policy measures."
+    },
+    {
+      "id": "5043382",
+      "time": "2026-08-17 11:17:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國規劃機構：預計泰國第三季度國內生產總值將有所改善。"
+    },
+    {
+      "id": "5043381",
+      "time": "2026-08-17 11:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟大臣：日本經濟有望得益於就業環境、薪資環境改善以及政府政策措施的支撐。"
+    },
+    {
+      "id": "5043380",
+      "time": "2026-08-17 11:16:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟大臣：有必要密切監控中東局勢帶來的影響。"
+    },
+    {
+      "id": "5043379",
+      "time": "2026-08-17 11:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【庫珀：“林肯”號心理健康相關案例數在現役航母中最低】針對“林肯”號航母水兵被曝存在心理健康問題，美軍中央司令部司令布拉德·庫珀16日發文表示，航母水兵心理健康問題需要關注，但在美軍現役航母中，“林肯”號上與心理健康相關的案例數量“處於最低之列”。（新華社）"
+    },
+    {
+      "id": "mkt:01a00db7-dc08-7aab-9055-18982208f8d2",
+      "time": "2026-08-17 11:15:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Kiuchi says Japan's economy continues a moderate recovery."
+    },
     {
       "id": "5043377",
       "time": "2026-08-17 11:13:56",
@@ -138651,64 +138783,6 @@
         "其他"
       ],
       "text": "【國家防總、應急管理部針對湖北、山東啟動防汛四級應急響應】據氣象部門預報，8月10日至13日，受颱風“白海豚”影響，湖北中北部、山東等地有暴雨或大暴雨，局地有特大暴雨，山洪和地質災害、中小河流洪水等風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月10日8時針對湖北、山東啟動防汛四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5033149",
-      "time": "2026-08-10 11:19:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2026年度國家工業節能降碳診斷服務任務清單印發】工業和資訊化部辦公廳釋出通知稱，按照《工業和資訊化部辦公廳關於組織開展2026年度工業節能降碳診斷服務工作的通知》（簡稱《通知》），經省級工業和資訊化主管部門、中央企業集團推薦以及公開招標等程式，確定70家中標機構對1839家工業企業開展節能降碳診斷服務。現將任務清單印發。"
-    },
-    {
-      "id": "5033148",
-      "time": "2026-08-10 11:19:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約證券交易所總裁：正看到來自所有行業的需求。"
-    },
-    {
-      "id": "5033147",
-      "time": "2026-08-10 11:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【智庫：受晶片產業帶動，韓國經濟正顯現出“全面改善”的跡象】韓國國家智庫週一表示，受晶片相關產業的強勁表現帶動，韓國經濟正顯現出“全面改善”的跡象，但中東地區的不確定性預計將加劇通脹壓力。韓國開發研究院（KDI）在其月度經濟評估報告中指出：“在半導體相關行業的引領下，韓國經濟呈現出全面改善的跡象。”報告補充稱：“在半導體行業的帶動下，出口和裝置投資繼續保持強勁增長；同時，以耐用品消費為主導，消費增速也有所加快。”韓國開發研究院還表示：“隨著服務業保持良好態勢以及製造業的反彈，全行業生產實現了相對較高的增長。”不過，韓國開發研究院也指出，作為亞洲第四大經濟體，韓國仍面臨諸多不確定性，包括美國的關稅政策以及中東地區持續的地緣政治動盪。"
-    },
-    {
-      "id": "5033146",
-      "time": "2026-08-10 11:18:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華沿機器人等在廣東橫琴成立數智科技公司】企查查APP顯示，近日，華沿數智科技（廣東橫琴）有限公司成立，法定代表人為董斌，註冊資本為1000萬元，經營範圍包含人工智慧基礎軟體開發；人工智慧通用應用系統；區塊鏈技術相關軟體和服務；智慧機器人銷售等。企查查股權穿透顯示，該公司由華沿機器人、奧特萊斯商業運營管理（海南）有限公司等共同持股。"
-    },
-    {
-      "id": "5033145",
-      "time": "2026-08-10 11:17:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南省氣象臺釋出暴雨黃色預警 局地將有特大暴雨】河南省氣象臺8月10日9時30分發布暴雨黃色預警：預計10日14時至11日14時，鄭州東南部、開封南部、商丘、平頂山東部、許昌、漯河、周口、南陽東部、駐馬店、信陽部分縣（市、區）有暴雨，其中商丘東部、平頂山東部、周口、南陽東部、駐馬店、信陽部分縣（市、區）有大暴雨，局地特大暴雨（個別點200到300毫米），並伴有短時強降水（最大小時降水量60到100毫米）、局地雷暴大風（8到10級）等強對流天氣。受颱風“白海豚”影響，10日至13日河南省將出現暴雨、大暴雨，中北部區域性特大暴雨天氣。請密切關注屬地氣象部門釋出的最新預報資訊和氣象災害預警訊號，做好防範應對工作。上述地區的相鄰縣（市、區）也需關注。"
-    },
-    {
-      "id": "mkt:019fe9ac-42ab-7aab-8fd0-115f77768f25",
-      "time": "2026-08-10 11:16:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "YONHAP: A South Korean government think tank said on Monday that while Middle East uncertainty could add upward pressure to inf, the South Korean economy has shown signs of a broader improvement led by strong performance in chip-related industries."
-    },
-    {
-      "id": "5033144",
-      "time": "2026-08-10 11:16:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：特朗普傾向對伊朗經濟施壓而非軍事打擊】美國阿克西奧斯新聞網站9日報道稱，美國總統特朗普在接受其採訪時，傾向於對伊朗施加經濟壓力，而非發動新的軍事行動。特朗普在此次簡短電話採訪中表示，“我們正在低調處理此事”。“我們只是與他們（伊朗）進行半正式談判。我們只是在觀望伊朗，他們（面臨）嚴重的通貨膨脹以及沒錢的事實。”他強調，美國的海上封鎖令伊朗的經濟雪上加霜。特朗普還說，隨著油價降至略高於每桶75美元，美國消費者從戰事中感受到的痛苦有所減少。談及與伊朗的反覆博弈，“事情會解決的。它總能解決。這就像下棋一樣”。（新華社）"
     }
   ]
 }
