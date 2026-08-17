@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-17 11:19:50",
-  "count": 15175,
+  "updated": "2026-08-17 11:23:41",
+  "count": 15171,
   "items": [
+    {
+      "id": "mkt:01a00dbe-a23b-7aab-9055-407a1cfa81a0",
+      "time": "2026-08-17 11:23:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China successfully launches SEO satellite】China today launched the SEO satellite on a Long March-2C rocket from the Taiyuan Satellite Launch Center; the satellite reached its planned orbit and the mission was successful."
+    },
+    {
+      "id": "5043391",
+      "time": "2026-08-17 11:22:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射SEO衛星】今天，我國在太原衛星發射中心使用長征二號丙運載火箭，成功將SEO衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。（央視新聞）"
+    },
+    {
+      "id": "5043390",
+      "time": "2026-08-17 11:22:12",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【如果PMI顯示經濟保持強韌 歐洲央行9月或再度加息】接下來一週，歐元區PMI資料可能會成為市場關注的焦點。如果資料顯示，歐元區經濟面對大宗商品價格上漲持續展現出了韌性，歐洲央行可能會在9月再次加息，以防範能源衝擊帶來的通脹二次效應。"
+    },
+    {
+      "id": "5043389",
+      "time": "2026-08-17 11:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【斑斑駁駁 艦體遍佈鏽蝕 美網友吐槽美軍戰艦“像剛從海底撈上來的”】8月15日，美海軍士兵釋出影片顯示，正在進行海上補給的伯克級導彈驅逐艦“麥克福爾”號（DDG-74）的艦體上遍佈鏽蝕（與長期在海上航行，缺乏維護有關）。美網友吐槽說：“這艘戰艦就像剛從海底撈上來服役的一樣，太尷尬了”。（參考訊息）"
+    },
+    {
+      "id": "5043388",
+      "time": "2026-08-17 11:20:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海浦東引領區投資中心、和元生物成立創投合夥企業】企查查APP顯示，近日，上海和元弘盛一期創業投資合夥企業（有限合夥）成立，出資額5億元，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該合夥企業由和元生物、上海浦東引領區投資中心（有限合夥）、上海國投先導生物醫藥私募投資基金合夥企業（有限合夥）等共同持股。"
+    },
+    {
+      "id": "5043387",
+      "time": "2026-08-17 11:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南首個鄉村創客OPC在澄邁啟動運營】8月16日，由澄邁縣委組織部（縣委人才發展局）指導，澄邁縣農業農村局、共青團澄邁縣委員會、福山咖啡文化風情鎮管理委員會主辦，澄邁數字經濟研究院等協辦的海南首個鄉村創客OPC——農業歸谷·福山鄉村創客OPC啟動儀式在澄邁福山咖啡文化風情鎮舉行。 “鄉村創客OPC”是藉助網際網路、電商、AI工具，以個人或極小團隊為核心，結合鄉村本地資源，實現銷售增長與品牌化運營的鄉村創業者。（海南日報）"
+    },
     {
       "id": "te:markets:575671",
       "time": "2026-08-17 11:19:13",
@@ -138692,97 +138743,6 @@
         "MKT News"
       ],
       "text": "【Beijing to start citywide Level-2 flood emergency response on morning of Aug 11】Beijing flood-control office said the city meteorological observatory issued an orange heavy-rain warning on the morning of Aug 10; heavy to very heavy rain is forecast from the evening of Aug 11 through daytime Aug 13. The city plans to activate a citywide Level-2 flood emergency response on the morning of Aug 11. Authorities advised monitoring local forecasts, following flood-control instructions, taking precautionary measures, avoiding flooded roads, and staying away from rivers, low-lying and landslide-prone areas; do not enter mountainous areas."
-    },
-    {
-      "id": "5033155",
-      "time": "2026-08-10 11:23:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新易盛成交額達200億元】8月10日上午，新易盛成交額達200億元，現跌7.19%。"
-    },
-    {
-      "id": "5033154",
-      "time": "2026-08-10 11:23:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國與瑞典的核監管機構官員週一舉行會晤，就高放射性廢物和小型模組化反應堆（SMR）的政策與監管問題進行了探討。"
-    },
-    {
-      "id": "te:markets:573989",
-      "time": "2026-08-10 11:22:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Hold Near Multi-Week Lows — Soybean futures held around $11.5 per bushel, staying near five-week lows as traders adjusted positions ahead of the USDA’s upcoming crop report this week. The report will include the first survey-based estimate of 2026 US soybean yields and updated harvested acreage, potentially reshaping expectations for crop size and supplies. Meanwhile, weather has become less supportive, as warmer and drier conditions across parts of the Midwest raised concerns over soybean pod filling during August, adding uncertainty around US yields. While the USDA recently confirmed a private sale of 132,000 metric tons of US soybeans to China for delivery in the 2026/27 marketing year, the purchase did little to offset the bearish supply outlook. Traders now continued to monitor developments in the Black Sea region, where the ongoing Russia-Ukraine war threatened grain export routes, although expectations for another large harvest from the region continued to weigh on prices."
-    },
-    {
-      "id": "5033153",
-      "time": "2026-08-10 11:22:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京擬於8月11日9時啟動全市防汛二級應急響應】北京市防汛辦提示：8月10日上午市氣象臺已經發布暴雨橙色預警，預計11日傍晚至13日白天，北京市有暴雨至大暴雨。全市擬於11日上午啟動防汛二級應急響應，請大家關注臨近天氣預報，遵守防汛要求，提前採取避險措施，避開積水路段，遠離河道、低窪地帶、地質災害易發區，不進山遊玩。遇險撥打119或110。"
-    },
-    {
-      "id": "mkt:019fe9b1-1c75-7aab-8fd0-2716b79bff50",
-      "time": "2026-08-10 11:22:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【KDI: Strong semiconductor exports broaden South Korea's economic improvement】The Korea Development Institute (KDI) said in its monthly economic assessment on Monday that South Korea’s recovery is broadening, led by semiconductor-related industries. Exports and equipment investment have maintained strong growth driven by semiconductors, while durable-goods spending is accelerating overall consumption. Services remain solid and manufacturing has rebounded, lifting aggregate industrial production. KDI warned the economy still faces uncertainties from U.S. tariff policy and ongoing Middle East geopolitical instability, and noted elevated inflation and worsening employment are weighing on the recovery."
-    },
-    {
-      "id": "mkt:019fe9b0-a3ef-7aab-8fd0-1b0f19cfc143",
-      "time": "2026-08-10 11:21:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China initiates level-4 flood emergency in Hubei, Shandong ahead of Typhoon White Dolphin】The National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management initiated a level-4 flood-control emergency response for Hubei and Shandong at 08:00 on Aug 10. Meteorological forecasts for Aug 10–13 show heavy to very heavy rain in north-central Hubei and parts of Shandong, with locally extreme downpours. Authorities warn of elevated risks of flash floods, geological disasters and flooding on small- and medium-sized rivers."
-    },
-    {
-      "id": "5033152",
-      "time": "2026-08-10 11:21:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州市白雲區政數局局長陳佳毅帶隊到天億馬調研詞元出海業務】據天億馬股份訊息，8月7日，廣州市白雲區政務服務和資料管理局局長陳佳毅帶隊赴廣東天億馬資訊產業股份有限公司調研，實地考察企業詞元出海創新實踐情況。調研組重點考察了天億馬詞元（Token）工廠、算力服務、資料標註等業務佈局與運營成效，對公司在詞元出海與跨境數字服務領域的綜合實力和實踐經驗有了深入瞭解。座談會上，雙方圍繞詞元工廠規模化部署、詞元出海商業化模式、資料標註落地等內容進行了深入交流，並就跨境資料要素產業培育、國產AI出海等方面交換了意見，凝聚了共識。"
-    },
-    {
-      "id": "5033151",
-      "time": "2026-08-10 11:20:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【極兔速遞被立案調查後罰款7萬】天眼查經營風險資訊顯示，近日，極兔速遞有限公司因未嚴格督促極兔速遞相關企業落實安全風險管控措施，並深入排查整治事故隱患，被國家郵政局罰款7萬元。該公司成立於2007年9月，法定代表人為吳蓉眉，註冊資本1億人民幣。據媒體報道，此前，該公司被國家郵政局立案調查。"
-    },
-    {
-      "id": "te:economy:573988",
-      "time": "2026-08-10 11:20:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Motorbike Sales",
-        "Importance 1"
-      ],
-      "text": "Indonesia Motorbike Sales Rise 8.3% n July — Motorbike sales in Indonesia grew 8.3% year-on-year to 636,030 units in July 2026, after a 1.1% rise in the previous month. The number was the largest since October 2014, amid easing price pressures in July. For the first seven months of the year, motorbike sales were 2.0% higher than in the same period last year, reaching 3.77 million units. The Association of Indonesian Motorcycle Industry (AISI) expects sales to remain relatively stable at around 6.4 million to 6.7 million units this year. Last year, motorbike sales climbed 1.3% to 6.4 million units, within the target range of 6.4 million to 6.7 million units set by AISI. However, the growth rate was slightly slower than the 1.5% increase recorded in 2024. On a monthly basis, motorbike sales surged 23.0% in July, accelerating sharply from 7.5% growth in June."
-    },
-    {
-      "id": "5033150",
-      "time": "2026-08-10 11:20:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總、應急管理部針對湖北、山東啟動防汛四級應急響應】據氣象部門預報，8月10日至13日，受颱風“白海豚”影響，湖北中北部、山東等地有暴雨或大暴雨，局地有特大暴雨，山洪和地質災害、中小河流洪水等風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月10日8時針對湖北、山東啟動防汛四級應急響應。（央視新聞）"
     }
   ]
 }
