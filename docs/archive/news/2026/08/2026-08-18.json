@@ -1,7 +1,26 @@
 {
   "date": "2026-08-18",
-  "count": 155,
+  "count": 157,
   "items": [
+    {
+      "id": "te:markets:575926",
+      "time": "2026-08-18 02:25:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 5.19% — Top commodity gainers are Cocoa (5.19%) and Oat (2.18%). Biggest loser is Rubber (-0.68%)."
+    },
+    {
+      "id": "mkt:01a010f8-12a1-7aab-9068-012ed30d98a8",
+      "time": "2026-08-18 02:24:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's foreign minister spoke by phone with Iran's foreign minister to exchange views on the latest regional situation and matters of mutual concern."
+    },
     {
       "id": "5044710",
       "time": "2026-08-18 02:23:17",
