@@ -1,7 +1,41 @@
 {
   "date": "2026-08-17",
-  "count": 287,
+  "count": 290,
   "items": [
+    {
+      "id": "5043083",
+      "time": "2026-08-17 08:17:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【華泰證券：雙創超跌反彈接近尾聲，市場進入震盪築底和再平衡階段】華泰證券表示，上週海外擾動升溫，日本加息預期推動全球流動性預期收緊，港股尤其恒生科技承壓，A股震盪分化，主線持續性不強。短期看，雙創超跌反彈接近尾聲，市場進入震盪築底和再平衡階段。中期看，7月經濟資料外需偏強內需階段性偏弱、有效需求待催化，但中觀景氣改善面在擴散，盈利預期上修方向與景氣改善線索一致，向上趨勢基礎未變，關注三季度政策視窗和盈利修復廣度的訊號。配置上，AI鏈仍是首選，其中通訊裝置居首，其次國產算力鏈、AI電力；其他方向關注盈利預期不弱的CXO龍頭、有色和出海鏈龍頭；紅利底倉繼續持有，配置低波型的銀行和交運。"
+    },
+    {
+      "id": "5043082",
+      "time": "2026-08-17 08:16:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本電通集團股價下跌 10%，創下近七個月來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a00d13-676a-7aab-9051-d8a078be58c0",
+      "time": "2026-08-17 08:16:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【CITIC Securities: Domestic compute capacity to take on industrial and utility roles, may drive next wave of industrial upgrade and capital formation】CITIC Securities says during the 15th Five-Year Plan period China’s compute network could become core infrastructure supporting new productive forces and expanded effective investment. Policy initiatives — including East‑data‑West‑compute, a national integrated compute network, hyperscale intelligent compute clusters and compute‑power/power coordination — together with AI demand are driving a shift from fragmented builds to hub‑based layouts, scale expansion and nationwide dispatch. CITIC estimates incremental intelligent compute of about 30 million P and all‑in capex near CNY10 trillion over the period, and argues domestic compute will exhibit both industrial‑product and public‑utility characteristics, potentially becoming a major lever for industrial upgrading and capital formation."
+    },
     {
       "id": "5043081",
       "time": "2026-08-17 08:15:36",
