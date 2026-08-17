@@ -1,7 +1,82 @@
 {
   "date": "2026-08-17",
-  "count": 810,
+  "count": 818,
   "items": [
+    {
+      "id": "mkt:01a00df3-e3e6-7aab-9056-1d541eacb688",
+      "time": "2026-08-17 12:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jefferies raises Chevron (CVX.N) PT to $233 from $216."
+    },
+    {
+      "id": "te:economy:575684",
+      "time": "2026-08-17 12:20:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Malaysia Inflation Rate Hits 4-Month Low — The annual inflation rate in Malaysia edged down to 1.8% in July 2026 from 1.9% in the previous month. It marked the lowest reading since March and remained comfortably within Bank Negara Malaysia's target range of 1.5% to 2.5%, driven by slower price growth across most categories, notably transport (1.4% vs 2.8% in June), alcoholic beverages and tobacco (2.7% vs 2.9%), furnishings and household equipment (0.3% vs 0.4%), health (1.1% vs 1.2%), education (2% vs 2.1%), restaurants and accommodation services (2% vs 2.6%), insurance and financial services (1.1% vs 5.7%), and miscellaneous goods and services (2.9% vs 3.4%). Meanwhile, inflation accelerated for food and beverages (1.8% vs 1.4%), housing and utilities (1.8% vs 1.4%), information and communication (3.4% vs 2.4%), and recreation and culture (1.2% vs 1.1%). Core inflation, which excludes fuel, ticked lower to 1.8% from 1.9% in June. On a monthly basis, consumer prices stalled in July, unchanged from the previous month."
+    },
+    {
+      "id": "mkt:01a00df3-5d0b-7aab-9056-134618c8da03",
+      "time": "2026-08-17 12:20:47",
+      "tags": [
+        "MKT News",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "Jefferies raises its PT for Exxon Mobil (XOM.N) to $200 from $184."
+    },
+    {
+      "id": "5043461",
+      "time": "2026-08-17 12:20:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將埃克森美孚目標價從184美元上調至200美元。"
+    },
+    {
+      "id": "5043460",
+      "time": "2026-08-17 12:20:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度西孟加拉邦一酒店發生火災 已致7人死亡】當地時間17日清晨5時左右，印度西孟加拉邦一家酒店發生火災，造成至少7人死亡，另有多人重傷。當地警方通報，起火地點是一家四層高的酒店的底層，事發時大多數客人都在睡覺。根據當地消防部門的初步評估，火災可能是由電路短路引起的。"
+    },
+    {
+      "id": "5043459",
+      "time": "2026-08-17 12:19:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "宜家日本將從8月20日起上調約3700種商品價格。"
+    },
+    {
+      "id": "mkt:01a00df2-33e7-7aab-9056-0fa8cb8f6151",
+      "time": "2026-08-17 12:19:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Former Japan finance ministry official says BOJ should hike at every meeting】Former Japan finance ministry official and ex-Asian Development Bank president Takehiko Nakao said on Monday the Bank of Japan should raise rates at every policy meeting, targeting a policy rate above 2% to narrow the Japan–US yield gap and ease yen weakness. He added that even with a 1% policy rate Japan’s real rate remains negative while peers’ real rates are positive, and that with inflation around 2% a policy rate of about 2.25–2.5% would not be unusual."
+    },
+    {
+      "id": "5043458",
+      "time": "2026-08-17 12:18:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利汽車2026年上半年收入超1700億元，核心歸母淨利潤勁增46%】8月17日，吉利汽車控股有限公司（0175.HK，以下簡稱“吉利汽車”）釋出2026年中期業績，上半年公司總營收達1736億元，同比增長15%，創歷史新高，連續六年保持穩健增長。核心歸母淨利潤達96.8億元，同比勁增46%，增速超過營收增長；核心歸母淨利率5.6%，同比增長27%。毛利率提升至17.9%，單車收入同比提升16%至11.2萬元。在行業整體承壓的背景下，吉利汽車依託“一個吉利”戰略，四大品牌協同發力，高階化與全球化成果顯著，持續引領行業高質量發展。    2026年下半年，吉利汽車將穩固國內市場、加快海外佈局，以全域AI為核心引擎，持續深化高質量發展，向“全域AI智慧汽車引領者”加速邁進。"
+    },
     {
       "id": "5043457",
       "time": "2026-08-17 12:17:12",
