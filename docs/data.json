@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-17 09:30:28",
+  "updated": "2026-08-17 09:34:15",
   "count": 15193,
   "items": [
+    {
+      "id": "mkt:01a00d59-eae5-7aab-9053-4605738588b2",
+      "time": "2026-08-17 09:33:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share film and cinema sector plunged; Beijing Culture hit limit-down, with Ruyi Film, Huazhi Digital Media, Bona Film Group, Baina Qiancheng and Zhongshi Media also falling."
+    },
+    {
+      "id": "5043197",
+      "time": "2026-08-17 09:33:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度非銀金融機構將敦促印度央行重新考量迴圈信貸管控措施。"
+    },
+    {
+      "id": "5043196",
+      "time": "2026-08-17 09:32:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股千億市值深企增至24家】截至8月16日，今年共有9家深企登陸A股，位列全國各大城市前列。隨著大普微、惠科股份、華潤新能3家本土企業先後登陸A股並站穩千億市值梯隊，深圳本地千億市值A股公司數量已達24家，覆蓋金融、高階製造、新能源、半導體、生物醫療等核心賽道。"
+    },
+    {
+      "id": "5043195",
+      "time": "2026-08-17 09:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "商湯科技股價上漲11%。"
+    },
+    {
+      "id": "mkt:01a00d59-0040-7aab-9053-3a8e9bc8c3ba",
+      "time": "2026-08-17 09:32:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share grain sector surged intraday. Jinjian Rice Industry hit the daily limit; Qiule Seed, Kangnong Seed, Shenliang Holdings, Wanxiang Denong and Yuanda Holdings also advanced."
+    },
+    {
+      "id": "5043194",
+      "time": "2026-08-17 09:31:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊跳水，北京文化跌停】影視院線板塊跳水，北京文化跌停，儒意電影、華智數媒、博納影業、百納千成、中視傳媒等跟跌。"
+    },
+    {
+      "id": "5043193",
+      "time": "2026-08-17 09:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【糧食概念板塊短線拉昇，金健米業漲停】糧食概念板塊短線拉昇，金健米業漲停，秋樂種業、康農種業、深糧控股、萬向德農、遠大控股等紛紛走高。"
+    },
+    {
+      "id": "5043192",
+      "time": "2026-08-17 09:31:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念繼續活躍 中石科技20cm2連板】早盤CPO概念繼續活躍，中石科技20cm2連板，阿萊德漲超10%，共進股份、太辰光、富信科技、天孚通訊、長芯博創等漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a00d58-5927-7aab-9053-375657a0a1e4",
+      "time": "2026-08-17 09:31:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong stocks opened higher and extended gains; the Hang Seng Index rose over 1% in early trade and the Hang Seng TECH Index gained 1.62%."
+    },
+    {
+      "id": "5043191",
+      "time": "2026-08-17 09:31:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指開盤基本持平，報6298.57點。"
+    },
+    {
+      "id": "mkt:01a00d58-2069-7aab-9053-2bfaf1aa3c93",
+      "time": "2026-08-17 09:31:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "【Bond futures morning open】At the morning open, 2-year bond futures (TS) unchanged; 5-year (TF) unchanged; 10-year (T) unchanged; 30-year (TL) down 0.11%."
+    },
+    {
+      "id": "mkt:01a00d58-1bfb-7aab-9053-210797a45d4c",
+      "time": "2026-08-17 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "【China equity index futures open】CSI 300 index futures (IF) main contract +0.10%; SSE 50 index futures (IH) main contract -0.17%; CSI 500 index futures (IC) main contract +0.14%; CSI 1000 index futures (IM) main contract +0.02%."
+    },
+    {
+      "id": "5043190",
+      "time": "2026-08-17 09:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25370.010點；恒生科技指數現漲1.458%。"
+    },
+    {
+      "id": "5043189",
+      "time": "2026-08-17 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.03%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5043188",
+      "time": "2026-08-17 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.18%， 滬深300指數期貨連續漲0.10%， 中證500指數期貨連續漲0.18%， 上證50指數期貨連續跌0.02%。"
+    },
     {
       "id": "mkt:01a00d56-b256-7aab-9053-1df9fea2206d",
       "time": "2026-08-17 09:29:40",
@@ -138774,153 +138914,6 @@
         "其他"
       ],
       "text": "【威剛7月營收再創新高 同比增長331.3%】威剛公佈7月營收，單月合併營收達183.8億新臺幣，環比增長25.4%，同比暴增331.3%，連續第5個月改寫歷史新高。從產品組合來看，DRAM營收達140.8億新臺幣，佔整體比重76.6%；SSD佔比20.1%，儲存卡、隨身碟及其他產品則佔3.3%。今年前7個月累計合併營收達826.5億新臺幣，同比增長206.7%，已大幅超越2025年全年營收。"
-    },
-    {
-      "id": "mkt:019fe94e-2fa5-7aab-8fce-51b71b96c24d",
-      "time": "2026-08-10 09:34:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share pharmaceutical distribution sector spiked briefly; Kaikai Industrial hit the daily limit, while Ruikang Pharmaceutical, C&D Zhixin, Yaoyigou, Hefu China and Dajia Weikang also advanced."
-    },
-    {
-      "id": "mkt:019fe94e-24ee-7aab-8fce-4bead6f5a80a",
-      "time": "2026-08-10 09:34:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02359.HK",
-        "Impact bullish",
-        "09926.HK",
-        "02269.HK"
-      ],
-      "text": "Hong Kong biotech sector strengthened; WuXi AppTec (02359.HK) rose more than 5%, Akeso (09926.HK) gained over 3%, with WuXi Biologics (02269.HK) and Junshi Biosciences (01877.HK) also advancing."
-    },
-    {
-      "id": "5032941",
-      "time": "2026-08-10 09:33:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽重開前景未明 分析人士稱替代方案面臨多重困難】伊朗近日對美國提出了重開霍爾木茲海峽的前提條件，分析人士認為，霍爾木茲海峽是伊朗爭取戰略利益的重要籌碼，海峽能否正常通航仍取決於美伊雙方的博弈。在海峽重開前景撲朔迷離的背景下，地區多國選擇繞過海峽出口能源。不過專家指出，這一“能源咽喉”既是美伊當前“繞不開”的核心議題，也是全球能源供應體系中難以替代的關鍵節點。一方面，伊朗不會輕易放棄“海峽籌碼”。分析人士一致認為，伊朗尋求將其在戰事期間形成的海峽管控能力，轉化為對這一重要航道的長期管控安排，以便為自己爭取更多的利益，在自身訴求得到滿足前不會急於推動霍爾木茲海峽全面恢復通航。另一方面，美國難以接受伊朗提出的海峽重開條件，可以預見的是，美方短期內不會作出重大讓步，雙方後續還將就各自訴求“議價”，甚至不排除再度出現軍事衝突的可能。（央視）"
-    },
-    {
-      "id": "te:markets:573965",
-      "time": "2026-08-10 09:33:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Gains for Third Session — US gasoline futures rose above $3 per gallon on Monday, gaining for a third consecutive session, as uncertainty persisted over the reopening of the Strait of Hormuz. Iran said an agreement with Oman on new shipping routes was close to being finalized but warned that reopening the waterway remained conditional on Washington meeting additional demands. Tehran also ruled out direct talks with the US for now, saying it would not engage while Washington continues to violate an interim agreement reached in June, despite US assertions that a deal is close. Oil supply risks were further underscored by claims from Iran-aligned Houthis that they had struck Saudi Aramco’s Jazan refinery. Elsewhere, escalating attacks between Russia and Ukraine have increased the threat of further strikes on energy facilities, following Ukraine’s recent long-range drone attack on a major Russian refinery. Moscow has since extended its ban on gasoline and diesel exports through January 2027."
-    },
-    {
-      "id": "5032940",
-      "time": "2026-08-10 09:33:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥商業板塊短線拉昇，開開實業漲停】醫藥商業板塊短線拉昇，開開實業漲停，瑞康醫藥、建發致新、藥易購、合富中國、達嘉維康等紛紛走高。"
-    },
-    {
-      "id": "5032939",
-      "time": "2026-08-10 09:33:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股大模型概念股走強，MINIMAX-W漲超6%】港股大模型概念股走強，MINIMAX-W漲超6%，智譜漲超4%。"
-    },
-    {
-      "id": "5032938",
-      "time": "2026-08-10 09:32:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遊戲板塊短線走低，大晟文化跌超6%】遊戲板塊短線走低，大晟文化跌超6%，凱撒文化、愷英網路、崑崙萬維、盛天網路等跟跌。"
-    },
-    {
-      "id": "mkt:019fe94c-74a2-7aab-8fce-44ffd8aee36f",
-      "time": "2026-08-10 09:32:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Japan's Ministry of Finance will issue 2.5 trillion yen of 5-year government bonds on August 18."
-    },
-    {
-      "id": "5032937",
-      "time": "2026-08-10 09:32:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏利基金宣佈升級管理團隊：李輝擬任公司總經理】千億外資公募宏利基金人事調整落地。8月10日，21世紀經濟報道記者獲悉，原興業基金總經理李輝已於今日正式加入宏利基金，擬任公司總經理。目前，該任命尚需經過公司董事會審議透過，並需完成監管備案。與此同時，原宏利基金總經理丁聞聰將調任集團區域市場相關崗位。（21財經）"
-    },
-    {
-      "id": "5032936",
-      "time": "2026-08-10 09:31:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽省防災減災救災委員會啟動四級救災應急響應】據安徽省應急管理廳訊息，今年第13號颱風“白海豚”對安徽省產生較大風雨影響，根據颱風災害發展趨勢，依據《安徽省自然災害救助應急預案》規定，省防災減災救災委員會於8月10日9時對六安、宣城、池州、安慶、黃山市啟動安徽省四級救災應急響應。"
-    },
-    {
-      "id": "mkt:019fe94b-a49d-7aab-8fce-3478cb909d9a",
-      "time": "2026-08-10 09:31:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) main contract down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.02%, 30-year (TL) down 0.03%."
-    },
-    {
-      "id": "mkt:019fe94b-a308-7aab-8fce-286bef983247",
-      "time": "2026-08-10 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China index futures open morning session】CSI 300 index futures (IF) main contract up 0.45 pct; SSE 50 futures (IH) main contract up 0.47 pct; CSI 500 futures (IC) main contract up 0.66 pct; CSI 1000 futures (IM) main contract up 0.61 pct."
-    },
-    {
-      "id": "5032935",
-      "time": "2026-08-10 09:31:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市開盤下跌0.3%，至6273.62點。"
-    },
-    {
-      "id": "5032934",
-      "time": "2026-08-10 09:31:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本擬引入前沿AI強化主動網路防禦】一位日本政府高階官員表示，面對美國初創公司 Anthropic 的 Claude Mythos 等先進人工智慧模型可能帶來的攻擊風險，日本正考慮在其“主動網路防禦”政策中引入前沿的人工智慧系統。隨著人們對具備高能力安全漏洞探測功能的 AI 模型發動網路攻擊的擔憂日益加劇，日本國家網路總監Yoichi Iida表示，日本使用尖端 AI 技術是“不可避免的”。"
-    },
-    {
-      "id": "5032933",
-      "time": "2026-08-10 09:30:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本將於8月18日發行2.5萬億日元5年期國債。"
     }
   ]
 }

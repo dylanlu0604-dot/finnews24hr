@@ -1,7 +1,147 @@
 {
   "date": "2026-08-17",
-  "count": 435,
+  "count": 450,
   "items": [
+    {
+      "id": "mkt:01a00d59-eae5-7aab-9053-4605738588b2",
+      "time": "2026-08-17 09:33:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share film and cinema sector plunged; Beijing Culture hit limit-down, with Ruyi Film, Huazhi Digital Media, Bona Film Group, Baina Qiancheng and Zhongshi Media also falling."
+    },
+    {
+      "id": "5043197",
+      "time": "2026-08-17 09:33:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度非銀金融機構將敦促印度央行重新考量迴圈信貸管控措施。"
+    },
+    {
+      "id": "5043196",
+      "time": "2026-08-17 09:32:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股千億市值深企增至24家】截至8月16日，今年共有9家深企登陸A股，位列全國各大城市前列。隨著大普微、惠科股份、華潤新能3家本土企業先後登陸A股並站穩千億市值梯隊，深圳本地千億市值A股公司數量已達24家，覆蓋金融、高階製造、新能源、半導體、生物醫療等核心賽道。"
+    },
+    {
+      "id": "5043195",
+      "time": "2026-08-17 09:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "商湯科技股價上漲11%。"
+    },
+    {
+      "id": "mkt:01a00d59-0040-7aab-9053-3a8e9bc8c3ba",
+      "time": "2026-08-17 09:32:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share grain sector surged intraday. Jinjian Rice Industry hit the daily limit; Qiule Seed, Kangnong Seed, Shenliang Holdings, Wanxiang Denong and Yuanda Holdings also advanced."
+    },
+    {
+      "id": "5043194",
+      "time": "2026-08-17 09:31:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊跳水，北京文化跌停】影視院線板塊跳水，北京文化跌停，儒意電影、華智數媒、博納影業、百納千成、中視傳媒等跟跌。"
+    },
+    {
+      "id": "5043193",
+      "time": "2026-08-17 09:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【糧食概念板塊短線拉昇，金健米業漲停】糧食概念板塊短線拉昇，金健米業漲停，秋樂種業、康農種業、深糧控股、萬向德農、遠大控股等紛紛走高。"
+    },
+    {
+      "id": "5043192",
+      "time": "2026-08-17 09:31:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念繼續活躍 中石科技20cm2連板】早盤CPO概念繼續活躍，中石科技20cm2連板，阿萊德漲超10%，共進股份、太辰光、富信科技、天孚通訊、長芯博創等漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a00d58-5927-7aab-9053-375657a0a1e4",
+      "time": "2026-08-17 09:31:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong stocks opened higher and extended gains; the Hang Seng Index rose over 1% in early trade and the Hang Seng TECH Index gained 1.62%."
+    },
+    {
+      "id": "mkt:01a00d58-2069-7aab-9053-2bfaf1aa3c93",
+      "time": "2026-08-17 09:31:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "【Bond futures morning open】At the morning open, 2-year bond futures (TS) unchanged; 5-year (TF) unchanged; 10-year (T) unchanged; 30-year (TL) down 0.11%."
+    },
+    {
+      "id": "5043191",
+      "time": "2026-08-17 09:31:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指開盤基本持平，報6298.57點。"
+    },
+    {
+      "id": "mkt:01a00d58-1bfb-7aab-9053-210797a45d4c",
+      "time": "2026-08-17 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "【China equity index futures open】CSI 300 index futures (IF) main contract +0.10%; SSE 50 index futures (IH) main contract -0.17%; CSI 500 index futures (IC) main contract +0.14%; CSI 1000 index futures (IM) main contract +0.02%."
+    },
+    {
+      "id": "5043190",
+      "time": "2026-08-17 09:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25370.010點；恒生科技指數現漲1.458%。"
+    },
+    {
+      "id": "5043189",
+      "time": "2026-08-17 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.03%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5043188",
+      "time": "2026-08-17 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.18%， 滬深300指數期貨連續漲0.10%， 中證500指數期貨連續漲0.18%， 上證50指數期貨連續跌0.02%。"
+    },
     {
       "id": "mkt:01a00d56-b256-7aab-9053-1df9fea2206d",
       "time": "2026-08-17 09:29:40",
