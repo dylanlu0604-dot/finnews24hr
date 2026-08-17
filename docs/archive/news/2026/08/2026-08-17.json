@@ -1,7 +1,108 @@
 {
   "date": "2026-08-17",
-  "count": 2510,
+  "count": 2522,
   "items": [
+    {
+      "id": "5044591",
+      "time": "2026-08-17 23:25:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀向瑞士初創企業Gravis Robotics投資2億美元，該公司主打工程機械自主作業軟體。"
+    },
+    {
+      "id": "5044590",
+      "time": "2026-08-17 23:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊誓言“堅決粉碎一切威脅與侵略”，伊美相關協議到期。"
+    },
+    {
+      "id": "5044589",
+      "time": "2026-08-17 23:24:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會副議長：《裡海公約》將送交國家安全委員會審議，我們將評估該公約是否維護伊朗的國家利益。"
+    },
+    {
+      "id": "5044588",
+      "time": "2026-08-17 23:24:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "禮來加拿大公司：持續採取行動，打擊在加拿大推廣和銷售未經批准及非法的瑞他魯肽產品。"
+    },
+    {
+      "id": "5044587",
+      "time": "2026-08-17 23:24:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期國債收益率升至近三個月高點5.814%，日內上漲近2個基點。"
+    },
+    {
+      "id": "mkt:01a01052-05f3-7aab-9065-8024640bd658",
+      "time": "2026-08-17 23:23:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy parliament speaker said the Caspian Sea Convention will be submitted to Iran's National Security Council for review and that parliament will carefully evaluate whether the pact adequately protects national interests. He said the Caspian Sea is as strategically important to Iran as the Strait of Hormuz, the Persian Gulf or the Gulf of Oman and that, for ecological, economic and national-security reasons, its status is non‑negotiable; the rights and interests of all Caspian littoral states must be protected."
+    },
+    {
+      "id": "5044586",
+      "time": "2026-08-17 23:23:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列官員：內塔尼亞胡與庫什納已達成共識，由一名美國將軍負責監督哈馬斯武裝撤離行動。"
+    },
+    {
+      "id": "5044585",
+      "time": "2026-08-17 23:22:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，降低汽油價格將依賴於提高美國及全球煉油廠的加工量。"
+    },
+    {
+      "id": "5044584",
+      "time": "2026-08-17 23:22:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長表示，他將於週一與美國企業就如何提高煉油廠加工量進行商談。"
+    },
+    {
+      "id": "mkt:01a01051-1416-7aab-9065-7819c24b8e67",
+      "time": "2026-08-17 23:22:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright will meet on Monday with U.S. companies to discuss boosting refinery capacity."
+    },
+    {
+      "id": "5044583",
+      "time": "2026-08-17 23:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平委員會官員：以色列方面願意為此給予一次機會。"
+    },
+    {
+      "id": "mkt:01a01050-eb45-7aab-9065-75ad0691de23",
+      "time": "2026-08-17 23:22:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said lower gasoline prices will come from increased U.S. and global refining capacity."
+    },
     {
       "id": "5044582",
       "time": "2026-08-17 23:21:42",
