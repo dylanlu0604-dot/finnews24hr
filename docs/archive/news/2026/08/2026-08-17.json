@@ -1,7 +1,106 @@
 {
   "date": "2026-08-17",
-  "count": 539,
+  "count": 550,
   "items": [
+    {
+      "id": "5043269",
+      "time": "2026-08-17 10:15:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤基本持平，報1729.08點。"
+    },
+    {
+      "id": "mkt:01a00d80-78a0-7aab-9053-fb48e2f288e8",
+      "time": "2026-08-17 10:15:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-shares ports and shipping sector rallied; Phoenix Shipping hit limit-up, while Guohang Ocean, Ningbo Ocean, COSCO Shipping Energy, Haitong Development and China Merchants Shipping also advanced."
+    },
+    {
+      "id": "te:markets:575638",
+      "time": "2026-08-17 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Rises by 0.29% — Top currency gainers are South Korean Won (0.29%) and Japanese Yen (0.19%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "mkt:01a00d80-5824-7aab-9053-f3802e2a6434",
+      "time": "2026-08-17 10:15:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a M3.0 earthquake at 10:02 a.m. CST on Aug 17 in Longchang, Neijiang, Sichuan (29.22°N, 105.21°E); depth 5 km."
+    },
+    {
+      "id": "5043268",
+      "time": "2026-08-17 10:14:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊走高，鳳凰航運漲停】港口航運板塊走高，鳳凰航運漲停，國航遠洋、寧波遠洋、中遠海能、海通發展、招商輪船跟漲。"
+    },
+    {
+      "id": "5043267",
+      "time": "2026-08-17 10:14:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月17日10時02分在四川內江市隆昌市（北緯29.22度，東經105.21度）發生3.0級地震，震源深度5千米。"
+    },
+    {
+      "id": "5043266",
+      "time": "2026-08-17 10:14:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國進出口銀行向嘉能可提供 10 億美元貸款，保障銅供應】韓國進出口銀行週一釋出宣告稱，該行將向嘉能可國際公司提供 10 億美元貸款，換取其向韓國企業供應銅。宣告顯示，嘉能可將把該筆資金用作營運資金。"
+    },
+    {
+      "id": "mkt:01a00d7f-58b8-7aab-9053-edaaa2e8ba53",
+      "time": "2026-08-17 10:14:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Changqing Oilfield sets national record for longest horizontal section in deep coalbed methane well】Changqing Oilfield's appraisal team in the eastern Ordos Basin completed an ultra‑long horizontal deep coalbed methane (CBM) well. The horizontal section measured 3,100 meters and the coal seam encounter rate was 95.8%, the longest horizontal section recorded in China's deep CBM drilling."
+    },
+    {
+      "id": "5043265",
+      "time": "2026-08-17 10:13:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦供應鏈協同 寧德時代公佈2035全價值鏈碳中和行動計劃】據寧德時代微博訊息，今日，在2026寧德時代核心運營碳中和釋出會上，寧德時代採購中心部長&計劃與物料控制部部長黃斌表示，鋰電池全生命週期超過80%的碳排放都來自供應鏈各個環節。下一階段，寧德時代的目標是到2035年，實現從礦產資源到電池成品的全價值鏈碳中和。要實現這一目標，重點就在於供應鏈的協同努力。寧德時代從算清碳足跡到針對性減碳全過程，詳細拆解了目標，並制定了具體的行動計劃。"
+    },
+    {
+      "id": "5043264",
+      "time": "2026-08-17 10:12:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【富國銀行：摩根大通有望成為全球首家市值達1萬億美元的銀行】富國銀行在最新報告中已預計，受益於多項利好因素的摩根大通，將有望成為全球首家市值達到1萬億美元的銀行。富國銀行對摩根大通給出“增持”評級，並將其對該股的目標價從375美元上調至390美元。"
+    },
+    {
+      "id": "5043263",
+      "time": "2026-08-17 10:12:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2％，成分股中，中科飛測漲11％，沐曦股份漲6.4％，芯原股份漲5.7％，盛科通訊漲5.6％。"
+    },
     {
       "id": "5043262",
       "time": "2026-08-17 10:11:46",

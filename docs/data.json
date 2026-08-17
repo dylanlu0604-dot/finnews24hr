@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-17 10:12:30",
+  "updated": "2026-08-17 10:16:19",
   "count": 15154,
   "items": [
+    {
+      "id": "5043269",
+      "time": "2026-08-17 10:15:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤基本持平，報1729.08點。"
+    },
+    {
+      "id": "mkt:01a00d80-78a0-7aab-9053-fb48e2f288e8",
+      "time": "2026-08-17 10:15:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-shares ports and shipping sector rallied; Phoenix Shipping hit limit-up, while Guohang Ocean, Ningbo Ocean, COSCO Shipping Energy, Haitong Development and China Merchants Shipping also advanced."
+    },
+    {
+      "id": "te:markets:575638",
+      "time": "2026-08-17 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Rises by 0.29% — Top currency gainers are South Korean Won (0.29%) and Japanese Yen (0.19%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "mkt:01a00d80-5824-7aab-9053-f3802e2a6434",
+      "time": "2026-08-17 10:15:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a M3.0 earthquake at 10:02 a.m. CST on Aug 17 in Longchang, Neijiang, Sichuan (29.22°N, 105.21°E); depth 5 km."
+    },
+    {
+      "id": "5043268",
+      "time": "2026-08-17 10:14:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊走高，鳳凰航運漲停】港口航運板塊走高，鳳凰航運漲停，國航遠洋、寧波遠洋、中遠海能、海通發展、招商輪船跟漲。"
+    },
+    {
+      "id": "5043267",
+      "time": "2026-08-17 10:14:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月17日10時02分在四川內江市隆昌市（北緯29.22度，東經105.21度）發生3.0級地震，震源深度5千米。"
+    },
+    {
+      "id": "5043266",
+      "time": "2026-08-17 10:14:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國進出口銀行向嘉能可提供 10 億美元貸款，保障銅供應】韓國進出口銀行週一釋出宣告稱，該行將向嘉能可國際公司提供 10 億美元貸款，換取其向韓國企業供應銅。宣告顯示，嘉能可將把該筆資金用作營運資金。"
+    },
+    {
+      "id": "mkt:01a00d7f-58b8-7aab-9053-edaaa2e8ba53",
+      "time": "2026-08-17 10:14:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Changqing Oilfield sets national record for longest horizontal section in deep coalbed methane well】Changqing Oilfield's appraisal team in the eastern Ordos Basin completed an ultra‑long horizontal deep coalbed methane (CBM) well. The horizontal section measured 3,100 meters and the coal seam encounter rate was 95.8%, the longest horizontal section recorded in China's deep CBM drilling."
+    },
+    {
+      "id": "5043265",
+      "time": "2026-08-17 10:13:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦供應鏈協同 寧德時代公佈2035全價值鏈碳中和行動計劃】據寧德時代微博訊息，今日，在2026寧德時代核心運營碳中和釋出會上，寧德時代採購中心部長&計劃與物料控制部部長黃斌表示，鋰電池全生命週期超過80%的碳排放都來自供應鏈各個環節。下一階段，寧德時代的目標是到2035年，實現從礦產資源到電池成品的全價值鏈碳中和。要實現這一目標，重點就在於供應鏈的協同努力。寧德時代從算清碳足跡到針對性減碳全過程，詳細拆解了目標，並制定了具體的行動計劃。"
+    },
+    {
+      "id": "5043264",
+      "time": "2026-08-17 10:12:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【富國銀行：摩根大通有望成為全球首家市值達1萬億美元的銀行】富國銀行在最新報告中已預計，受益於多項利好因素的摩根大通，將有望成為全球首家市值達到1萬億美元的銀行。富國銀行對摩根大通給出“增持”評級，並將其對該股的目標價從375美元上調至390美元。"
+    },
+    {
+      "id": "5043263",
+      "time": "2026-08-17 10:12:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2％，成分股中，中科飛測漲11％，沐曦股份漲6.4％，芯原股份漲5.7％，盛科通訊漲5.6％。"
+    },
     {
       "id": "5043262",
       "time": "2026-08-17 10:11:46",
@@ -138435,112 +138534,6 @@
         "Chip Wars"
       ],
       "text": "【Memory prices back to 2007 levels; DDR5 at $11.41–13.28/GB (77–90 yuan)】AI-driven demand has pushed memory prices per GB back near 2007 levels, effectively erasing about two decades of price declines, Daniel Lemire, a computer science professor in Quebec, said, calling it a rare industry anomaly. A Stanford DAM project price series shows DDR5 trading at $11.41–13.28 per GB (about 77–90 yuan/GB), overlapping DDR2 price bands from around 2008; on an inflation-adjusted basis the series is roughly back to 2011 DDR3 levels."
-    },
-    {
-      "id": "5033038",
-      "time": "2026-08-10 10:15:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數開盤小幅變動，報1768.06點。"
-    },
-    {
-      "id": "5033037",
-      "time": "2026-08-10 10:15:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【皖儀科技與墨西哥安徽總商會簽署戰略合作框架協議】 據皖儀科技公眾號訊息，2026年8月7日，墨西哥庫埃納瓦卡市市長何塞·烏里奧斯特吉一行到訪皖儀科技，墨西哥江蘇總商會會長趙準、安徽總商會會長劉志中一行陪同考察。當日，皖儀科技與墨西哥安徽總商會正式簽署戰略合作框架協議，雙方將在高階科學儀器海外市場拓展、本土化服務體系建設及跨境資源對接等領域建立長效合作機制。"
-    },
-    {
-      "id": "te:markets:573974",
-      "time": "2026-08-10 10:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.57% — Top currency losers are South Korean Won (-0.57%) and Japanese Yen (-0.33%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5033036",
-      "time": "2026-08-10 10:15:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小紅書再陷期權爭議：前員工稱期權歸屬僅剩8天，遭遇公司“踩點辭退”】8月10日訊息，近日，有媒體訊息稱，繼原小紅書商業化華南直銷負責人陳浩公開期權維權經歷後，又一名前小紅書員工姜東透過公開平臺發文，披露其與小紅書之間一場持續多年的期權訴訟爭議。\n\n據姜東講述，他於2018年9月入職書行科技（北京）有限公司（小紅書旗下公司），擔任首席技術專家，後擔任媒體智慧團隊負責人。姜東稱，自己入職時獲承諾授予80萬股境外公司期權，約定工作滿2年歸屬50%。在職期間，姜東於2020年1月被額外授予6萬股期權。但7個月後，小紅書突然解除了與姜東的勞動關係。按姜東說法，此時距離他入職滿兩年、首批50%期權歸屬僅剩8天。\n\n此後，姜東與小紅書圍繞解約及期權歸屬問題進入司法程式，姜東要求小紅書兌其期權權益。判決書顯示，小紅書一方辯稱，（姜東）第一次行權需在授予日滿2年，即2020年10月30日，但（姜東）的勞動關係已於2020年8月25日合法解除。此外，小紅書還提出與姜東解除勞動關係是因其曠工等。最終，法院認定公司解除勞動關係合法，駁回姜東全部訴訟請求。\n\n姜東則認為，小紅書解除員工勞動關係的時間節點是“經過精心算計”。據姜東講述，大量同事都在關鍵行權節點前，被公司以不同理由辭退，他所在的同事群中，有幾十人都是這種情況。\n\n對此情況，新浪科技向小紅書官方進行求證，截至發稿暫無回應。（新浪科技）"
-    },
-    {
-      "id": "5033035",
-      "time": "2026-08-10 10:13:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【道通科技智慧能源直流充電系統透過CSA集團北美認證】據道通科技訊息，近日，國際標準制定與認證機構CSA集團向道通科技正式頒發北美認證系列證書。道通旗下智慧能源業務（道通能源/Autel Energy）新一代直流快充解決方案成功透過北美相關安全標準認證，標誌著該系列產品已滿足美國及加拿大市場安全合規要求。"
-    },
-    {
-      "id": "5033034",
-      "time": "2026-08-10 10:13:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "港股養殖板塊走強，中糧家佳康(01610.HK)漲超4%，牧原股份(02714.HK)、德康農牧(02419.HK)等跟漲。"
-    },
-    {
-      "id": "mkt:019fe972-4d2f-7aab-8fcf-653311ac6005",
-      "time": "2026-08-10 10:13:29",
-      "tags": [
-        "MKT News",
-        "01610.HK",
-        "Impact bullish",
-        "02714.HK",
-        "02419.HK"
-      ],
-      "text": "Hong Kong-listed livestock sector strengthened; COFCO Joycome (01610.HK) rose over 4%, while Muyuan Foods (02714.HK) and Dekang Agribusiness (02419.HK) also gained."
-    },
-    {
-      "id": "5033033",
-      "time": "2026-08-10 10:13:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民間組織批評政府推動修改“無核三原則”及憲法】日本原子彈氫彈爆炸受害者團體協議會10日發表宣告，批評日本現政府正試圖在沒有充分討論的情況下推動修改“無核三原則”和憲法，並要求維護和平憲法。宣告還要求日本政府向原子彈爆炸受害者等作出賠償、簽署並批准《禁止核武器條約》，並呼籲稱這是作為遭受原子彈轟炸國家所肩負的歷史責任，也是邁向和平世界的第一步。（央視新聞）"
-    },
-    {
-      "id": "te:markets:573973",
-      "time": "2026-08-10 10:13:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Shanghai Stocks Hit Near 1-Month High — The Shanghai Composite rose 0.6% to a near one-month high of 3,965 on Monday, while the Shenzhen Component slipped 0.5% to 14,233, as investors assessed soft inflation data that reinforced expectations of policy support for the economy. Annual consumer inflation eased to a six-month low of 0.5% in July, driven by further declines in food prices and slower growth in non-food costs. Producer price inflation also moderated to 3.5% from 4.1%, marking its first slowdown since turning positive in March following the oil-price surge linked to the Iran conflict. China's leaders vowed to bolster economic growth through faster infrastructure spending, seeking to offset persistent weakness in domestic demand despite resilient exports and factory activity. PetroChina (1.4%), Kweichow Moutai (1.4%), and Foxconn Industrial Internet (2.6%) were among the top gainers. Conversely, Zhongji Innolight (-3.9%), Eoptolink Technology (-4.7%), and Suzhou Dongshan Precision Manufacturing (-3.4%) lagged behind."
-    },
-    {
-      "id": "mkt:019fe971-b225-7aab-8fcf-5f5723ea46db",
-      "time": "2026-08-10 10:12:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share paper sector spiked intraday; Yibin Paper hit the daily limit, while Qifeng New Material, Hengfeng Paper, Senlin Packaging, Minfeng Special Paper and Hengda New Material also rose."
-    },
-    {
-      "id": "mkt:019fe971-880c-7aab-8fcf-545f1dc5ce41",
-      "time": "2026-08-10 10:12:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "China Tech Giants"
-      ],
-      "text": "【Qianwen Open Platform goes live】Aug. 10 — China’s Qianwen Open Platform went live, allowing partners and developers to integrate services on mobile, PC and AI glasses. Initial partners cover logistics, housing/residential services, local life, wealth management and auto. Integrated agents support end-to-end flows from inquiry and recommendation to order placement."
     }
   ]
 }
