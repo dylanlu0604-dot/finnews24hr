@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 25,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:01a0108c-6c3d-7aab-9066-7f7f8825b6c6",
+      "time": "2026-08-18 00:27:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner meets Netanyahu to push Gaza peace plan】Jared Kushner, President Trump's son-in-law, met in Jerusalem on the 17th with Prime Minister Netanyahu and a member of a Gaza peace committee to advance a Gaza peace plan. Netanyahu agreed to establish two working groups: one to oversee disarmament and demilitarization of the Palestinian Islamic Resistance Movement (Hamas), which both sides said should be completed as soon as possible and before Gaza reconstruction begins; the other to address health, clean water and related basic services."
+    },
+    {
+      "id": "5044639",
+      "time": "2026-08-18 00:26:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國切爾西俱樂部股東馬克·沃爾特與託德·伯利正就向克萊爾萊克出售所持股份進行談判。"
+    },
+    {
+      "id": "5044638",
+      "time": "2026-08-18 00:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【庫什納見內塔尼亞胡 尋求推進“加沙和平計劃”】據以色列多家媒體17日報道，美國總統特朗普的女婿庫什納以及加沙地帶“和平委員會”成員當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，以期進一步推進所謂“加沙和平計劃”。以總理辦公室在會後發表宣告說，內塔尼亞胡與“和平委員會”討論後，同意成立兩個工作組，一個負責巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的裁軍和非軍事化，雙方認為這項工作須在加沙重建工作開始前儘快完成；另一個將重點關注加沙地帶的衛生、清潔水源等問題。（新華社）"
+    },
+    {
+      "id": "5044637",
+      "time": "2026-08-18 00:24:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "上週美國戰略石油儲備的原油庫存下降約530萬桶，降至2.934億桶，為1982年以來最低水平。"
+    },
+    {
+      "id": "mkt:01a01089-f6b3-7aab-9066-75a150089352",
+      "time": "2026-08-18 00:24:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 5.3 million barrels last week to 293.4 million barrels, the lowest level since 1982."
+    },
+    {
+      "id": "5044636",
+      "time": "2026-08-18 00:24:25",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【谷歌收購精神航空資料，助力AI技術升級】谷歌在破產拍賣中勝出，拿下破產廉價航司精神航空控股的大批脫敏業務資料、軟體程式碼與運營記錄，表示將利用該批資產改進人工智慧。紐約南區美國破產法院8月14日公告顯示，谷歌1000萬美元報價涵蓋該倒閉航司海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。法庭檔案顯示，本次交易不包含個人資訊與特權資料，例如精神航空9750萬份乘客檔案，以及約5020萬份自由忠誠會員專案記錄。法庭卷宗表明，全部資料會經過處理，消除與特定客戶的關聯。谷歌週一宣告稱，公司不會獲取任何個人資訊，資料在移交前將由第三方嚴格清除全部個人可識別資訊。"
+    },
     {
       "id": "mkt:01a01087-cd29-7aab-9066-6c30091632c0",
       "time": "2026-08-18 00:22:10",
