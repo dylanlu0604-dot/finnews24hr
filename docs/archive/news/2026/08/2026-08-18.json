@@ -1,7 +1,81 @@
 {
   "date": "2026-08-18",
-  "count": 75,
+  "count": 83,
   "items": [
+    {
+      "id": "5044670",
+      "time": "2026-08-18 01:14:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國30年期國債收益率觸及2007年以來高位】美國30年期國債收益率攀升至5.29%，創下2007年以來新高。投資者擔憂美國債務規模膨脹、國債大量發行以及通脹持續頑固，推動收益率上行。AI相關企業舉債融資，疊加長期債券需求走弱，進一步帶來壓力。儘管就業、通脹與零售資料走弱，市場下調美聯儲短期加息預期，但美債拋售仍在延續。與此同時，長端收益率上行、短端收益率回落，收益率曲線陡峭化。"
+    },
+    {
+      "id": "5044669",
+      "time": "2026-08-18 01:14:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：正與美國進行緊張而微妙的談判，不會公開進行對話。"
+    },
+    {
+      "id": "5044668",
+      "time": "2026-08-18 01:14:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部對安德森·霍洛維茨基金董事會成員展開調查。"
+    },
+    {
+      "id": "mkt:01a010b6-b609-7aab-9067-1a465b8b445b",
+      "time": "2026-08-18 01:13:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Press TV: Pentagon assessment says current military plans cannot guarantee Strait of Hormuz security】Iran's Press TV, citing a regional intelligence source, reported the Pentagon has concluded existing military plans cannot guarantee safe passage through the Strait of Hormuz or the stability of regional energy supplies. The source said the assessment reflects a strategic impasse in the Gulf, that no current military plan has sufficient political or security capacity to keep the strait open, protect shipping, and maintain energy stability. The source added the U.S. cannot control the waterway, dealing a serious blow to Washington's regional posture and exposing U.S. military limits against Iran's growing asymmetric capabilities."
+    },
+    {
+      "id": "mkt:01a010b5-fcdb-7aab-9067-125f417d4887",
+      "time": "2026-08-18 01:12:37",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "Carney said an opportunity will arise over the next 48 hours to discuss the progress of negotiations in greater detail."
+    },
+    {
+      "id": "mkt:01a010b5-798c-7aab-9067-0a4c19a5f863",
+      "time": "2026-08-18 01:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Energy Secretary Wright said the US is pursuing a long-term strategy on Iran."
+    },
+    {
+      "id": "mkt:01a010b5-18b0-7aab-9067-0175ac8f5f7b",
+      "time": "2026-08-18 01:11:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the U.S. will continue to enhance its ability to escort shipping through the Strait of Hormuz."
+    },
+    {
+      "id": "5044667",
+      "time": "2026-08-18 01:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：隨著談判推進，未來48小時內我們將有機會展開更詳細的討論。"
+    },
     {
       "id": "mkt:01a010b4-754f-7aab-9066-fbbeec94cd7a",
       "time": "2026-08-18 01:10:56",
