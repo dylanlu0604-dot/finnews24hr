@@ -1,7 +1,105 @@
 {
   "date": "2026-08-17",
-  "count": 1416,
+  "count": 1427,
   "items": [
+    {
+      "id": "mkt:01a00ed9-765b-7aab-905c-1bd6b309ad78",
+      "time": "2026-08-17 16:32:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bearish"
+      ],
+      "text": "【Xiaomi earnings preview: Q2 profit under pressure as memory price rise, competition hit margins】Xiaomi Group (01810.HK) will report Q2 results on Tuesday. A Visible Alpha survey of analysts expects Q2 net profit of RMB 6.01 bln, down from RMB 11.9 bln a year earlier; revenue is forecast at RMB 109.82 bln, down 5.3% YoY. CITIGROUP cites weak sales across smartphones, IoT, internet and EV businesses plus higher memory costs and intensifying competition as margin headwinds, and projects Q2 gross margin may narrow to 19.7%."
+    },
+    {
+      "id": "5043832",
+      "time": "2026-08-17 16:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【【遊資動向】通富微電今日漲停 國泰海通證券武漢紫陽東路營業部淨買入3.08億元】8月17日，通富微電漲停，成交金額99.41億元。盤後龍虎榜資料顯示，活躍遊資國泰海通證券武漢紫陽東路營業部淨買入3.08億元，深股通買入9.55億元並賣出4.16億元。"
+    },
+    {
+      "id": "mkt:01a00ed9-2ec6-7aab-905c-16dca6ba0bb2",
+      "time": "2026-08-17 16:31:49",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7382 per U.S. dollar at 16:30 on Aug 17, up 39 pips from the previous trading session."
+    },
+    {
+      "id": "5043831",
+      "time": "2026-08-17 16:31:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉祥航空：2026年7月客運運力投入同比上升3.41%，客座率87.72%】吉祥航空公告，2026年7月客運運力投入（按可用座位公里計）同比上升3.41%，其中國內、國際和地區航線同比變動分別為6.09%、-3.60%和-2.33%；旅客週轉量（按收入客公里計）同比上升6.95%；客座率為87.72%，同比上升2.91%。當月新增浦東—嘉峪關、浦東—大同往返航線。"
+    },
+    {
+      "id": "5043830",
+      "time": "2026-08-17 16:30:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7382，較上一交易日上漲39點。"
+    },
+    {
+      "id": "5043828",
+      "time": "2026-08-17 16:30:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周鴻禕釋出全員信：360啟動AI時代組織變革，用領導力驅動AI原生轉型】8月17日下午訊息，今日，360集團創始人周鴻禕釋出名為《用領導力驅動業務創新和組織變革》的全員信，並明確提出，在公司向AI Native（AI原生）組織轉型過程中，各級管理者是培養超級個體、打造超級團隊的第一責任人，直言“這不是一次普通的幹部領導力升級，而是360用AI重新創業”。（新浪科技）"
+    },
+    {
+      "id": "te:markets:575787",
+      "time": "2026-08-17 16:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.01% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.01% increase."
+    },
+    {
+      "id": "5043827",
+      "time": "2026-08-17 16:30:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【智利外長佩雷斯將訪華】外交部發言人17日宣佈：應中共中央政治局委員、外交部長王毅邀請，智利外長佩雷斯將於8月18日至22日對中國進行正式訪問。(新華社)"
+    },
+    {
+      "id": "5043826",
+      "time": "2026-08-17 16:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石藥創新：2026年半年度淨利潤12.61億元，實現扭虧為盈】石藥創新公告，2026年半年度營業收入32.4億元，同比增長208.72%。歸屬於上市公司股東的淨利潤12.61億元，上年同期為-274.61萬元，實現扭虧為盈。扣非淨利潤12.26億元，上年同期為-4114.41萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5043825",
+      "time": "2026-08-17 16:29:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳大利亞對進口自中國的貨運鐵路車輪雙反作出部分終裁】8月14日，澳大利亞反傾銷委員會發布第2026/117號公告，對進口自中國的貨運鐵路車輪作出反傾銷部分終裁，裁定寶武集團馬鋼軌交材料科技有限公司在2024年7月1日至2025年6月30日的調查期間無傾銷，因此終止對其反傾銷調查。同時，委員會將繼續進行對其他出口商的反傾銷調查以及對所有出口商（包括寶武集團馬鋼軌交材料科技有限公司）的反補貼調查。"
+    },
+    {
+      "id": "5043824",
+      "time": "2026-08-17 16:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海油工程：2026年上半年淨利潤10.91億元，同比下降0.64%】海油工程公告，2026年上半年營業收入123.84億元，同比增長9.42%。歸屬於上市公司股東的淨利潤10.91億元，同比下降0.64%，上年同期淨利潤10.98億元。歸屬於上市公司股東的扣除非經常性損益的淨利潤8.8億元，同比下降8.28%。"
+    },
     {
       "id": "5043823",
       "time": "2026-08-17 16:28:09",
