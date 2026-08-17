@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:35:22_
-_本檔包含 3062 則快訊，約 604032 字_
+_更新時間：2026-08-18 05:55:03_
+_本檔包含 3059 則快訊，約 603691 字_
+
+---
+
+### 2026-08-12 09:24:18  #MKT News #Macro & Rates #DXY #Impact bullish
+
+【Westpac: further rate hikes not RBA baseline】Westpac chief economist Luci Ellis said further increases by the Reserve Bank of Australia are not the baseline. The RBA left the cash rate at 4.35% on Tuesday and used hawkish language on inflation-transmission risks and potential external shocks, but Ellis, a former RBA senior manager, said the bank’s own forecasts show inflation easing slowly toward target and this is not a forecast path that supports further rate increases.
+
+---
+
+### 2026-08-12 09:22:38  #其他
+
+【奧德賽預售票房破9000萬】據燈塔專業版實時資料，截至8月12日9時10分，影片《奧德賽》點映及預售總票房突破9000萬。
+
+---
+
+### 2026-08-12 09:21:50
+
+港股恒指低開跌0.6％，國企指數跌0.57％，科指開跌0.8%，黃金股多股高開。
+
+---
+
+### 2026-08-12 09:21:48  #央行 #其他
+
+央行公開市場今日淨回籠50億元人民幣。
+
+---
+
+### 2026-08-12 09:21:42  #MKT News #Market Regions #Greater China #HSI #Impact bearish #HSCEI #Hang Seng Tech Index
+
+Hong Kong's Hang Seng Index (HSI) opened down 154.43 points, or 0.6%, at 25,498.39 on Aug. 12 (Wed); the Hang Seng Tech Index opened down 38.67 points, or 0.8%, at 4,785.75; the Hang Seng China Enterprises Index (HSCEI) opened down 48.50 points, or 0.57%, at 8,479.60; the Hang Seng Red Chip Index opened down 5.66 points, or 0.14%, at 4,116.27.
 
 ---
 
@@ -18452,53 +18482,5 @@ Libya's National Oil Corporation (NOC) said a drone attack struck the Zawiya oil
 ### 2026-08-11 05:56:20  #MKT News #WTI #Impact bearish #Brent
 
 【Trump says US forces effectively control Strait of Hormuz, have cleared sea mines】Trump told reporters at the White House on Aug. 10 he will seek compensation from Iran after Tehran demanded reparations following a military clash, repeating earlier social media posts. He said US forces effectively control the Strait of Hormuz and have cleared Iranian-laid sea mines.
-
----
-
-### 2026-08-11 05:54:50  #國際
-
-【烏克蘭首都基輔響起持續強烈爆炸聲】當地時間11日零時30分至36分，新華社記者在基輔聽到兩輪強烈的持續爆炸聲。基輔市長克利奇科在社交媒體上說，俄軍正在對基輔市發動彈道導彈襲擊。（新華社）
-
----
-
-### 2026-08-11 05:54:47  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Sustained loud explosions heard in Kyiv】On the 11th at 00:30–00:36 local time, a Xinhua reporter in Kyiv heard two rounds of sustained, loud explosions. Kyiv Mayor Klitschko said on social media that Russian forces are conducting ballistic missile strikes on the city.
-
----
-
-### 2026-08-11 05:51:05  #MKT News
-
-Blackstone is set to acquire a minority stake in Air Canada’s Aeroplan loyalty program for $2 billion, injecting fresh capital to help Air Canada offset rising fuel costs and weaker U.S. travel demand.
-
----
-
-### 2026-08-11 05:48:49  #宏觀
-
-【劉海星率中共代表團訪問古巴並出席首屆“菲德爾國際對話”】8月8日至10日，中共中央對外聯絡部部長劉海星率中共代表團訪問古巴並出席首屆“菲德爾國際對話”。其間，同古共中央第一書記、古巴國家主席迪亞斯-卡內爾，古共中央政治局委員、中央組織書記莫拉萊斯，古共中央國際關係部部長洛薩達等會見交流。雙方表示，將共同落實好兩黨兩國最高領導人達成的重要共識，賡續傳統友誼，深化黨際交往，加強戰略溝通與協作，攜手推進各自國家社會主義事業，為中古命運共同體建設作出更大貢獻。（新華社）
-
----
-
-### 2026-08-11 05:42:42  #MKT News
-
-CENC recorded a magnitude-3.9 earthquake at 05:31 on Aug 11 in Gao County, Yibin, Sichuan (28.53°N, 104.66°E); focal depth 5 km.
-
----
-
-### 2026-08-11 05:38:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Advisor to Ukraine's interior minister said Russia launched ballistic strikes against Kyiv, Zaporizhia and Dnipropetrovsk regions; multiple explosions reported in Kyiv.
-
----
-
-### 2026-08-11 05:37:27  #公司
-
-黑石集團即將達成一筆20億美元交易，收購加拿大航空Aeroplan忠誠度專案的少數股權。
-
----
-
-### 2026-08-11 05:36:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Kyiv mayor says explosions have occurred in the capital and the city is under ballistic missile attack; residents are urged to remain in shelters.
 
 ---

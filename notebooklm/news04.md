@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:35:22_
-_本檔包含 2984 則快訊，約 604479 字_
+_更新時間：2026-08-18 05:55:03_
+_本檔包含 2985 則快訊，約 604751 字_
+
+---
+
+### 2026-08-13 12:18:18  #其他
+
+【摩洛哥稱監測到社媒帖文煽動民眾偷渡 已展開調查】當地時間12日，摩洛哥內政部發言人哈勒菲發表宣告稱，內政部近日監測到部分社交媒體平臺上流傳來源不明的帖文，煽動大規模群體性偷渡。摩洛哥政府正密切監控相關動向，已對多名涉嫌煽動非法偷渡的嫌疑人展開調查。摩洛哥政府已採取一切必要措施，嚴厲打擊任何企圖非法跨越邊境前往休達的行為，並攔截所有參與者。據悉，部分社交媒體平臺上出現帖文，煽動民眾在8月15日從摩洛哥越境進入西班牙飛地休達。
+
+---
+
+### 2026-08-13 12:17:05  #國際
+
+【普京：必須確保俄所有邊境和領土安全 】俄羅斯總統普京13日在“瓦良格”號導彈巡洋艦上與俄太平洋艦隊司令等高階軍官舉行會議。他在會上表示，必須確保俄所有邊境和領土安全。 普京說，目前確保俄國家安全的任務主要透過對烏克蘭特別軍事行動完成，俄還要確保所有邊境和領土的安全。 普京12日還觀摩了太平洋艦隊的演習。 據俄羅斯國防部此前通報，俄太平洋艦隊4日起在日本海、鄂霍次克海及西北太平洋水域舉行大規模軍事演習。
+
+---
+
+### 2026-08-13 12:16:46  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Foxconn Industrial Internet earnings above expectations at 0.67 CNY — Foxconn Industrial Internet (601138) released earnings per share at 0.67 CNY, compared to market expectations of 0.65 CNY.
+
+---
+
+### 2026-08-13 12:14:43  #其他
+
+【生態環境部：“十五五”期間中國執行的核電機組數量將躍居世界首位】生態環境部副部長、國家核安全域性局長董保同13日在國新辦新聞釋出會上表示，“十五五”期間，中國執行的核電機組數量將躍居世界首位。目前，我國在建是世界第一，執行是世界第二，已經取得執行許可證的機組達到65臺，到2030年接近100臺，屆時將成為世界第一，確保實現高水平核安全的任務將更加繁重。
+
+---
+
+### 2026-08-13 12:13:54  #其他
+
+【北信源中標某銀行終端安全管控平臺專案】北信源公眾號訊息，近日，北信源中標某銀行終端安全管控平臺專案，持續深化“技術+服務+生態”的戰略佈局，以人工智慧等先進技術賦能終端安全，助力千行百業構建更智慧、更主動、更彈性的安全防禦體系。
+
+---
+
+### 2026-08-13 12:13:35  #公司 #國際
+
+【訊息人士：印度泰米爾納德邦將與海外企業簽署總值15.8億美元的新專案協議】印度泰米爾納德邦政府一位訊息人士週四表示，該邦即將與海外企業就十餘個新專案簽署總價值約 1505億盧比(15.8億美元)的協議 ，這是涉及近100項協議的更廣泛推動計劃的一部分。該邦政府在一則報紙廣告中表示，將簽署97項協議，總價值6745.2億盧比，預計將創造超過10萬個就業崗位。該訊息人士稱，這一總額包括印度企業的投資以及現有設施的擴建專案。該訊息人士還稱，新專案包括美國伺服器製造商超微計算機公司（Super Micro Computer） 約50億盧比的投資，以及總部位於法國的建築集團聖戈班（Saint-Gobain）200億盧比的投資。
 
 ---
 
@@ -17978,35 +18014,5 @@ AP projects U.S. Rep. Tom Tiffany has won the Republican nomination for Wisconsi
 ### 2026-08-12 09:24:39  #Trading Economics #Markets #Commodity #Importance 1
 
 European Gas Holds Losses as Traders Assess Hormuz Developments — European natural gas prices hovered around €60 per MWh on Wednesday after falling in the previous session, as traders assessed diplomatic efforts to reopen the Strait of Hormuz and resume LNG flows from the Gulf. Pakistan’s defense minister said the US and Iran were “close to some sort of arrangement” over the waterway, while negotiations between Tehran and Oman were also reportedly making significant progress. However, uncertainty over a swift reopening of the strait persists, with both sides taking firmer positions. The ongoing disruption to shipping has severely constrained LNG shipments, leaving shipments from major exporter Qatar significantly delayed. Analysts expect European gas prices to keep a firm floor until storage levels show clearer signs of building toward seasonal targets before winter. Hot weather across Europe is also boosting electricity demand for cooling, adding further pressure to the market.
-
----
-
-### 2026-08-12 09:24:18  #MKT News #Macro & Rates #DXY #Impact bullish
-
-【Westpac: further rate hikes not RBA baseline】Westpac chief economist Luci Ellis said further increases by the Reserve Bank of Australia are not the baseline. The RBA left the cash rate at 4.35% on Tuesday and used hawkish language on inflation-transmission risks and potential external shocks, but Ellis, a former RBA senior manager, said the bank’s own forecasts show inflation easing slowly toward target and this is not a forecast path that supports further rate increases.
-
----
-
-### 2026-08-12 09:22:38  #其他
-
-【奧德賽預售票房破9000萬】據燈塔專業版實時資料，截至8月12日9時10分，影片《奧德賽》點映及預售總票房突破9000萬。
-
----
-
-### 2026-08-12 09:21:50
-
-港股恒指低開跌0.6％，國企指數跌0.57％，科指開跌0.8%，黃金股多股高開。
-
----
-
-### 2026-08-12 09:21:48  #央行 #其他
-
-央行公開市場今日淨回籠50億元人民幣。
-
----
-
-### 2026-08-12 09:21:42  #MKT News #Market Regions #Greater China #HSI #Impact bearish #HSCEI #Hang Seng Tech Index
-
-Hong Kong's Hang Seng Index (HSI) opened down 154.43 points, or 0.6%, at 25,498.39 on Aug. 12 (Wed); the Hang Seng Tech Index opened down 38.67 points, or 0.8%, at 4,785.75; the Hang Seng China Enterprises Index (HSCEI) opened down 48.50 points, or 0.57%, at 8,479.60; the Hang Seng Red Chip Index opened down 5.66 points, or 0.14%, at 4,116.27.
 
 ---

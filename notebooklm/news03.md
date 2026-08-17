@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:35:22_
-_本檔包含 3206 則快訊，約 603679 字_
+_更新時間：2026-08-18 05:55:03_
+_本檔包含 3207 則快訊，約 604408 字_
+
+---
+
+### 2026-08-14 14:09:59  #公司
+
+【冠盛股份旗下冠盛東馳與中核匯海簽署戰略合作框架協議 推進固液混合儲能規模化落地】冠盛股份8月14日官微訊息，8月13日，公司旗下冠盛東馳與中核匯海正式簽署戰略合作框架協議。中核匯海由中核集團、中國海油兩大央企合資設立，擁有豐富的風光新能源專案資源，為固液混合儲能系統提供廣闊落地載體。冠盛東馳固液混合電池具備超長迴圈壽命、全溫域高穩定性，適配新能源電站儲能嚴苛工況。根據協議，雙方將努力推動固液混合儲能解決方案落地各類新能源專案，打通技術產業化最後一公里。
+
+---
+
+### 2026-08-14 14:09:52  #其他
+
+【北京累計認定釋出超2萬項新技術新產品新服務】記者14日從北京市科學技術委員會瞭解到，自2014年以來，北京市已累計認定釋出21批次、超2萬項新產品新技術新服務，促進了科技創新與產業發展深度融合。作為最新一批成果，第21批次釋出活動於日前舉辦，這是三新產品認定工作開展以來首次舉辦集中釋出活動。該批次共認定新產品370個、新技術108個、新服務19個，以新一代資訊科技、高階裝備製造、醫藥健康三大領域為主，合計佔比超七成。據介紹，北京市三新產品認定工作自2014年啟動，2024年完成政策修訂升級，持續遴選原創性、顛覆性科創成果，為企業提供權威技術背書，助力企業拓展市場、對接產業資源。（新華社）
+
+---
+
+### 2026-08-14 14:08:35  #公司 #觀點 #國際
+
+【花旗：微升新秀麗目標價至16.3港元，美國雙重上市為潛在重估催化劑】花旗發表研報指，新秀麗第二季經調整純利優於預期，經調整EBITDA利潤率16.1%，若扣除美國關稅退款則為14.1%，相較首季13.1%及去年同期的16.3%。收入則遜預期，按固定匯率計同比跌1.7%至8.52億美元。管理層預期第三季按固定匯率計淨銷售增長與第二季相若，遜於市場預測。在消費信心疲弱及環球旅遊需求放緩下，下半年收入及利潤率或持續受壓。花旗微調公司盈測，目標價由16港元微升至16.3港元，續予“買入”評級。公司仍有意在條件改善下於今年完成美國雙重上市，該行視之為潛在估值重估催化劑。
+
+---
+
+### 2026-08-14 14:07:18  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude's intraday gain widened to 1.00%, trading at $81.25/bbl.
+
+---
+
+### 2026-08-14 14:07:11  #公司 #市場
+
+【半導體板塊震盪走強 敏芯股份、富信科技漲停】半導體板塊震盪走強，敏芯股份、富信科技漲停，優迅股份、明微電子等漲幅居前。
+
+---
+
+### 2026-08-14 14:07:03  #國際
+
+【成品油：今晚24時零售價遇年內第五次下調】本週期中東地緣局勢反覆發酵，國內原油變化率負值波動。8月14日24時零售限價兌現下調，汽、柴油零售限價每噸分別下調230、220元，摺合升價92#汽油、95#汽油、0#柴油分別下調0.18、0.19、0.19元。短期霍爾木茲海峽重開前景不明朗，國際油價或維持高位偏強波動，新一輪原油變化率正值開局，首日對應上調幅度150元/噸，下輪調價視窗在8月28日24時。（卓創資訊）
+
+---
+
+### 2026-08-14 14:06:46  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Fuel retail prices cut at 24:00 tonight; fifth reduction this year】China will lower retail price caps for gasoline and diesel at 24:00 on Aug 14, the fifth cut this year. Retail ceilings fall by 230 yuan/tonne for gasoline and 220 yuan/tonne for diesel, equivalent to per‑litre cuts of 92‑octane -0.18 yuan/litre, 95‑octane -0.19 yuan/litre and 0# diesel -0.19 yuan/litre. During the pricing cycle Middle East tensions intensified and China’s crude-price change rate swung negative. Short-term prospects for reopening of the Strait of Hormuz are unclear, keeping international oil prices biased high and volatile. A new round of crude-price change rate has opened in positive territory; the opening day's equivalent upward adjustment would be 150 yuan/tonne. Next pricing window is 24:00 on Aug 28.
 
 ---
 
@@ -19269,41 +19311,5 @@ China 10Y Yield Hits Over 1-Year Low — China’s 10-year government bond yield
 ### 2026-08-13 12:20:39  #Trading Economics #Markets #China #Currency #Importance 1
 
 Offshore Yuan Slips on Soft PBOC Fixing — The offshore yuan weakened to around 6.74 per dollar on Thursday, reversing gains from the previous session as a weaker-than-expected daily fixing by the People's Bank of China weighed on the currency. The central bank set the midpoint rate at 6.7888 per dollar, 418 pips weaker than a Reuters estimate. While seasonal factors as September approaches could support the yuan, the extent of any gains will likely depend on the PBOC's fixing strategy. The yuan's decline was partly cushioned by a softer US dollar after inflation data reduced expectations of an imminent Federal Reserve rate hike. Meanwhile, the PBOC reiterated its commitment to rolling out targeted policy support while avoiding broad-based easing in its quarterly monetary policy report. Separately, the PBOC conducted no seven-day reverse repos for a third consecutive day on Thursday, while announcing plans to inject up to CNY 600 billion per day through overnight reverse repos on August 14 and August 17–19.
-
----
-
-### 2026-08-13 12:18:18  #其他
-
-【摩洛哥稱監測到社媒帖文煽動民眾偷渡 已展開調查】當地時間12日，摩洛哥內政部發言人哈勒菲發表宣告稱，內政部近日監測到部分社交媒體平臺上流傳來源不明的帖文，煽動大規模群體性偷渡。摩洛哥政府正密切監控相關動向，已對多名涉嫌煽動非法偷渡的嫌疑人展開調查。摩洛哥政府已採取一切必要措施，嚴厲打擊任何企圖非法跨越邊境前往休達的行為，並攔截所有參與者。據悉，部分社交媒體平臺上出現帖文，煽動民眾在8月15日從摩洛哥越境進入西班牙飛地休達。
-
----
-
-### 2026-08-13 12:17:05  #國際
-
-【普京：必須確保俄所有邊境和領土安全 】俄羅斯總統普京13日在“瓦良格”號導彈巡洋艦上與俄太平洋艦隊司令等高階軍官舉行會議。他在會上表示，必須確保俄所有邊境和領土安全。 普京說，目前確保俄國家安全的任務主要透過對烏克蘭特別軍事行動完成，俄還要確保所有邊境和領土的安全。 普京12日還觀摩了太平洋艦隊的演習。 據俄羅斯國防部此前通報，俄太平洋艦隊4日起在日本海、鄂霍次克海及西北太平洋水域舉行大規模軍事演習。
-
----
-
-### 2026-08-13 12:16:46  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Foxconn Industrial Internet earnings above expectations at 0.67 CNY — Foxconn Industrial Internet (601138) released earnings per share at 0.67 CNY, compared to market expectations of 0.65 CNY.
-
----
-
-### 2026-08-13 12:14:43  #其他
-
-【生態環境部：“十五五”期間中國執行的核電機組數量將躍居世界首位】生態環境部副部長、國家核安全域性局長董保同13日在國新辦新聞釋出會上表示，“十五五”期間，中國執行的核電機組數量將躍居世界首位。目前，我國在建是世界第一，執行是世界第二，已經取得執行許可證的機組達到65臺，到2030年接近100臺，屆時將成為世界第一，確保實現高水平核安全的任務將更加繁重。
-
----
-
-### 2026-08-13 12:13:54  #其他
-
-【北信源中標某銀行終端安全管控平臺專案】北信源公眾號訊息，近日，北信源中標某銀行終端安全管控平臺專案，持續深化“技術+服務+生態”的戰略佈局，以人工智慧等先進技術賦能終端安全，助力千行百業構建更智慧、更主動、更彈性的安全防禦體系。
-
----
-
-### 2026-08-13 12:13:35  #公司 #國際
-
-【訊息人士：印度泰米爾納德邦將與海外企業簽署總值15.8億美元的新專案協議】印度泰米爾納德邦政府一位訊息人士週四表示，該邦即將與海外企業就十餘個新專案簽署總價值約 1505億盧比(15.8億美元)的協議 ，這是涉及近100項協議的更廣泛推動計劃的一部分。該邦政府在一則報紙廣告中表示，將簽署97項協議，總價值6745.2億盧比，預計將創造超過10萬個就業崗位。該訊息人士稱，這一總額包括印度企業的投資以及現有設施的擴建專案。該訊息人士還稱，新專案包括美國伺服器製造商超微計算機公司（Super Micro Computer） 約50億盧比的投資，以及總部位於法國的建築集團聖戈班（Saint-Gobain）200億盧比的投資。
 
 ---

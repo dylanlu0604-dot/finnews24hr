@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 05:35:22_
-_本檔包含 2913 則快訊，約 604468 字_
+_更新時間：2026-08-18 05:55:03_
+_本檔包含 2917 則快訊，約 604876 字_
+
+---
+
+### 2026-08-18 05:44:43  #公司
+
+布魯克菲爾德提出以每股 4.75 澳元現金收購信實環球公司。
+
+---
+
+### 2026-08-18 05:40:15  #MKT News #S&P500 #Impact mixed #DXY #US10Y
+
+【US, Canada working to bridge differences on potential auto-tariff cut, sources say】Three sources said on Monday the US and Canada are negotiating a possible cut to US auto tariffs from 25% to 15% after deducting some value content. If no deal is reached by a Wednesday deadline, the US will impose heavy new tariffs on US$20 billion of other Canadian goods. US officials propose the 15% tariff would exclude only US domestic value; Canadian officials want to exclude all North American content, including parts from Canada and Mexico. Auto industry officials said a broader regional-content deduction could cut the effective tariff on North American-made cars to the low single digits, well below the 15% applied to imports from Japan, Korea and the EU and the 10% tariff on most UK cars.
+
+---
+
+### 2026-08-18 05:39:14  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+Turkish President Erdogan told U.S. President Trump that Israel is attacking Palestinians in Gaza and that the second phase of the peace plan was supposed to take effect now.
+
+---
+
+### 2026-08-18 05:37:44  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+ERDOGAN told US President Trump that continued dialogue with Iran to make full use of diplomatic channels is important, and that Turkey is prepared to contribute.
+
+---
+
+### 2026-08-18 05:37:38  #國際
+
+土耳其總統埃爾多安告知特朗普，本應啟動和平計劃第二階段之際，以色列卻正在加沙地帶襲擊巴勒斯坦民眾。
+
+---
+
+### 2026-08-18 05:37:11  #國際
+
+土耳其總統埃爾多安告知特朗普，繼續與伊朗對話以發揮外交手段的作用十分重要，土耳其願意為此出力。
+
+---
+
+### 2026-08-18 05:36:48  #MKT News
+
+Turkish President Erdogan and U.S. President Trump discussed bilateral relations, the conflicts in Iran and Gaza, and defense agreements with Pakistan and Saudi Arabia.
+
+---
+
+### 2026-08-18 05:35:33  #MKT News
+
+Turkish President Erdogan held a phone call with U.S. President Trump; they discussed bilateral ties and regional and global developments.
+
+---
+
+### 2026-08-18 05:35:20  #國際
+
+土耳其埃爾多安與特朗普討論雙邊關係、伊朗及加沙戰事，以及同巴基斯坦、沙烏地阿拉伯的防務協議。
 
 ---
 
@@ -17513,35 +17567,5 @@ Israeli media reported Kushner discussed maintaining a Gaza ceasefire with offic
 ### 2026-08-16 22:12:20  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
 
 【Chan Mo‑po to further consolidate Hong Kong's international aviation hub status】Hong Kong Financial Secretary Chan Mo‑po said on 16th the city will further consolidate and enhance its role as an international aviation hub. In 1H aircraft movements exceeded 200,000, up 4.4% YoY, and passenger traffic reached 32.8m, up 11.7% YoY. Around 140 carriers now serve Hong Kong to more than 225 destinations. Jan–Jul visitor arrivals totalled 31.22m, up 12% YoY, with resumed exhibitions and events cited as drawing additional business and leisure travellers. Chan said the aviation hub underpins the local aviation industry and Hong Kong’s function as a super‑connector, supporting trade, logistics, MICE and tourism.
-
----
-
-### 2026-08-16 22:10:44  #國際
-
-以色列與宏都拉斯簽署諒解備忘錄，深化防務合作。
-
----
-
-### 2026-08-16 22:10:29  #其他
-
-黎巴嫩衛生部在其今日釋出的統計資料中宣佈，自3月2日以來，已有4346人死於以黎衝突當中，另有12301名傷者。
-
----
-
-### 2026-08-16 22:09:23  #公司
-
-【陳茂波：鞏固提升香港國際航空樞紐地位】香港特區政府財政司司長陳茂波16日發表網誌表示，今年上半年，香港國際機場的飛機升降量超過20萬架次，同比上升4.4%，機場客運量為3280萬人次，同比增加11.7%。香港將進一步鞏固提升國際航空樞紐的地位。 陳茂波說，目前約有140家航空公司提供航班往來香港與全球超過225個航點。香港高效便捷的國際聯絡與今年以來接連舉行的各類展覽等盛事，成功吸引更多商務及觀光旅客訪港。今年前七個月，已有3122萬訪港旅客人次，同比上升12%，往來不斷的人流為香港注入更大的活力、帶來更多商機。 陳茂波認為，香港國際航空樞紐的地位，不僅是本地航空業的命脈，更是香港發揮“超級增值人”和“超級聯絡人”功能的硬體底座，促進更蓬勃興旺的貿易、物流、會展、旅遊，以至更廣泛的人文交流。 陳茂波說，兩年前啟用的機場三跑道系統將逐步擴大飛機升降容量，今年5月啟用的二號客運大樓離境設施，亦已有15家航空公司進駐，預計第一年可以分流約800萬人次的旅客，提升機場處理出境客流的能力。 他說，香港會不斷努力，進一步鞏固提升國際航空樞紐的地位，併為其他相關經濟環節的聯動發展注入新活力。（新華社）
-
----
-
-### 2026-08-16 22:09:01  #其他
-
-【王祺揚與深圳市產業園區協會企業代表座談】據三亞日報，8月16日，三亞市委書記王祺揚在三亞與深圳市產業園區協會企業代表舉行座談，共商合作良策，共謀發展新篇。王祺揚指出，希望各位企業家充分發揮自身優勢，與三亞在推動高階文旅升級、總部經濟及園區經濟發展、現代服務業提質等領域深化合作，助推三亞產業轉型升級、擴大高水平對外開放，為三亞經濟社會高質量發展注入新動能。三亞將以市場化、法治化、國際化一流營商環境和“無事不擾、有求必應”的“店小二”貼心服務，積極為落地三亞的企業排憂解難，與企業攜手並肩、共謀發展、共創未來。
-
----
-
-### 2026-08-16 22:08:17  #公司
-
-【“凹公酒”為賈平凹授權？公司回應】8月16日，山東楊湖酒業有限公司、西安曲江凹凹文化傳播有限公司釋出關於近期惡意誤傷賈平凹先生及詆譭“凹公酒”事件的聯合宣告：近日，網路上出現大量針對我司產品“凹公酒”的不實言論，部分網民藉此強行關聯並惡意攻擊著名作家賈平凹先生，對其個人進行人格侮辱，言辭惡劣。賈平凹先生從未以授權、題字、代言、入股、合作等任何形式參與“凹公酒”專案，與本兩公司不存在商業合作、業務往來及相關利益約定。網路流傳的“賈平凹授權”“賈平凹題名”“賈平凹入股”等說法，均與客觀事實不符，屬於不實資訊。西安曲江凹凹文化傳播有限公司字號中的“凹凹”，為我司獨立構思的文化命名，取自企業自身文化理念，與賈平凹先生無關聯。“凹公酒”的品牌名稱、標識設計、文化定位以及全部產品創意，均為本兩公司獨立創作、自主運營。
 
 ---
