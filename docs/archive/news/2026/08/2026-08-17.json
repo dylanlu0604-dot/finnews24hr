@@ -1,7 +1,121 @@
 {
   "date": "2026-08-17",
-  "count": 2192,
+  "count": 2205,
   "items": [
+    {
+      "id": "mkt:01a00fc1-6583-7aab-9062-56fa6e717e92",
+      "time": "2026-08-17 20:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA (NVDA.O): OpenAI's commitments by 2030 would correspond to roughly $600 billion of NVIDIA compute business."
+    },
+    {
+      "id": "5044394",
+      "time": "2026-08-17 20:45:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司：OpenAI的相關承諾意味著，截至2030年，將產生約6000億美元的英偉達算力採購規模。"
+    },
+    {
+      "id": "mkt:01a00fc0-9934-7aab-9062-4a6648baf183",
+      "time": "2026-08-17 20:44:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "BCS.N"
+      ],
+      "text": "Financial Times reports Adeel Khan will be promoted to co-chief executive of Barclays (BCS.N), responsible for global markets."
+    },
+    {
+      "id": "te:markets:575863",
+      "time": "2026-08-17 20:44:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Russia",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Russian Ruble Hits 16-month Low — The Russian Ruble touched 87.09 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Russian Ruble gained 8.19%, and in the last 12 months, it increased 5.92%."
+    },
+    {
+      "id": "5044393",
+      "time": "2026-08-17 20:43:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：OPENAI將支付租金。"
+    },
+    {
+      "id": "5044392",
+      "time": "2026-08-17 20:43:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "匈牙利審查政府合同後，4IG股價下跌高達5.8%。"
+    },
+    {
+      "id": "5044391",
+      "time": "2026-08-17 20:43:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：初始承諾的支付義務上限為1050億美元。"
+    },
+    {
+      "id": "mkt:01a00fbf-3500-7aab-9062-41af7efcc5bd",
+      "time": "2026-08-17 20:43:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new \"dry eye\" indication. The program is registered as category 2.3 (modified new drug)."
+    },
+    {
+      "id": "5044390",
+      "time": "2026-08-17 20:42:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI將透過ChatGPT提供8400萬美元的Codex額度。"
+    },
+    {
+      "id": "5044389",
+      "time": "2026-08-17 20:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI承諾至2030年前大規模部署英偉達基礎設施。"
+    },
+    {
+      "id": "5044388",
+      "time": "2026-08-17 20:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。"
+    },
+    {
+      "id": "mkt:01a00fbe-6ed7-7aab-9062-3f2b07bb0ad7",
+      "time": "2026-08-17 20:42:13",
+      "tags": [
+        "MKT News",
+        "BCS.N"
+      ],
+      "text": "Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank."
+    },
+    {
+      "id": "5044387",
+      "time": "2026-08-17 20:41:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。"
+    },
     {
       "id": "mkt:01a00fbd-c94a-7aab-9062-34d022de9fe8",
       "time": "2026-08-17 20:41:31",
