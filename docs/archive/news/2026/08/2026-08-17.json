@@ -1,7 +1,72 @@
 {
   "date": "2026-08-17",
-  "count": 996,
+  "count": 1002,
   "items": [
+    {
+      "id": "5043583",
+      "time": "2026-08-17 14:07:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓美“乙支自由護盾”聯演啟動 美提第一島鏈引關注】韓國和美國軍方17日啟動代號為“乙支自由護盾”（UFS）的例行聯合軍演，將持續至27日。今年的演習將參考近期戰爭形態分析得出的戰訓經驗等內容展開。韓軍參演規模與往年相近，約1.8萬人。演習期間計劃開展14項營級以上規模的野外機動訓練（FTX），較去年（17項）有所減少。"
+    },
+    {
+      "id": "mkt:01a00e53-ed1c-7aab-9057-c78e830ea1bb",
+      "time": "2026-08-17 14:06:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Daiwa Securities: weak Japanese growth may delay government declaration ending deflation】Daiwa Securities economist Kento Minami said weak growth data on Monday make it unlikely the government will declare Japan out of deflation within the fiscal year to March 2027. Sanae Takaichi's government has said it will closely assess whether the economy is strong enough to avoid slipping back before announcing an end to deflation; markets are watching timing because it could affect the government's stance on pressing the Bank of Japan for further tightening. Minami said fundamentals are improving and that inflation, the output gap and unit labor costs point to a lower risk of a return to sustained deflation."
+    },
+    {
+      "id": "5043582",
+      "time": "2026-08-17 14:05:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛辣評Q2財報：AI支出持續激增，但盈利仍遙遙無期】高盛在最新報告中指出，在第二季度財報季，只有2%的標普500指數成分股公司量化了人工智慧對盈利的影響。而其中只有11%的公司指出，人工智慧在軟體編碼或客戶支援等特定領域帶來了可衡量的生產力提升。而且需要注意的是，公佈人工智慧生產力提升的公司，其盈利增長並未顯著高於市場其他公司。這些公司的盈利中位數較上年同期增長17%，而未量化人工智慧生產力提升的公司的盈利中位數則為14%。高盛表示，這一差異在統計學上並不顯著。"
+    },
+    {
+      "id": "mkt:01a00e53-3b30-7aab-9057-bb5dfe2aa4a3",
+      "time": "2026-08-17 14:05:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Naftogaz, Ukraine's state oil and gas company, said Russia struck its facilities 13 times over the past week."
+    },
+    {
+      "id": "5043581",
+      "time": "2026-08-17 14:05:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭石油天然氣公司表示，俄羅斯在過去一週對該公司的設施發動了13次襲擊。"
+    },
+    {
+      "id": "te:markets:575708",
+      "time": "2026-08-17 14:04:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Gains Ahead of Key BI Policy Meeting — The Indonesian rupiah firmed further, hovering just below IDR 17,800 per U.S. dollar around midday Monday in thin holiday trading as markets observed Independence Day. Meanwhile, the dollar index extended its recent decline after softer U.S. data reinforced expectations the Fed may ease policy rather than keep rates higher for longer. Locally, sentiment was supported by continuity prospects under acting Governor Destry Damayanti, the sole nominee to lead Bank Indonesia. The central bank will begin its first policy meeting Tuesday, the first time since Perry Warjiyo’s departure last month. BI had raised rates by 100bps in May and June to help the rupiah. Meantime, forex reserves stayed broadly stable in July, underscoring resilient external buffers. Fiscal optimism also lent support after President Prabowo said that GDP growth could reach 6% next year, with pledges to build a fiscal buffer and accelerate debt reduction, potentially improving credibility in Indonesia’s fiscal position."
+    },
     {
       "id": "mkt:01a00e4f-dc0c-7aab-9057-b6ef7bf8f595",
       "time": "2026-08-17 14:01:49",
