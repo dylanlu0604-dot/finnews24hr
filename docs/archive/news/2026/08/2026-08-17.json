@@ -1,7 +1,188 @@
 {
   "date": "2026-08-17",
-  "count": 2174,
+  "count": 2192,
   "items": [
+    {
+      "id": "mkt:01a00fbd-c94a-7aab-9062-34d022de9fe8",
+      "time": "2026-08-17 20:41:31",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation."
+    },
+    {
+      "id": "5044386",
+      "time": "2026-08-17 20:41:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。"
+    },
+    {
+      "id": "5044385",
+      "time": "2026-08-17 20:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)"
+    },
+    {
+      "id": "mkt:01a00fbd-30ec-7aab-9062-2a3d7d8674ed",
+      "time": "2026-08-17 20:40:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009."
+    },
+    {
+      "id": "5044384",
+      "time": "2026-08-17 20:40:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。"
+    },
+    {
+      "id": "mkt:01a00fbc-ecf3-7aab-9062-21b4750acadd",
+      "time": "2026-08-17 20:40:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030."
+    },
+    {
+      "id": "5044383",
+      "time": "2026-08-17 20:40:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。"
+    },
+    {
+      "id": "mkt:01a00fbc-a833-7aab-9062-1cce7c71a2d7",
+      "time": "2026-08-17 20:40:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will continue investing in safety architecture and control measures."
+    },
+    {
+      "id": "5044382",
+      "time": "2026-08-17 20:40:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。"
+    },
+    {
+      "id": "mkt:01a00fbc-3e48-7aab-9062-11f064739688",
+      "time": "2026-08-17 20:39:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%."
+    },
+    {
+      "id": "te:economy:575857",
+      "time": "2026-08-17 20:39:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "NY Empire State Manufacturing Index",
+        "Importance 2"
+      ],
+      "text": "New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity."
+    },
+    {
+      "id": "5044381",
+      "time": "2026-08-17 20:39:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曲江文旅：控股股東所持900萬股股份拍賣成交】曲江文旅公告稱，控股股東所持合計900萬股公司股份由杜邑投資集團競得，佔公司總股本比例為3.53%。本次拍賣後續涉及繳納拍賣餘款、股權變更過戶等環節，最終結果以相關法院出具的拍賣成交裁定為準。本次股權變更過戶完成後，相關股份變動均在同一實際控制人控制的主體之間進行，公司控股股東、實際控制人不會發生變化，杜邑投資集團受讓後6個月內不得減持該部分股份。"
+    },
+    {
+      "id": "mkt:01a00fbb-8c10-7aab-9062-0f59776e8775",
+      "time": "2026-08-17 20:39:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI is investing heavily in safety controls and deploying its models to help secure code."
+    },
+    {
+      "id": "5044380",
+      "time": "2026-08-17 20:38:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨轉跌，抹去早前漲幅。"
+    },
+    {
+      "id": "5044379",
+      "time": "2026-08-17 20:38:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將持續投入安全架構及管控體系建設。"
+    },
+    {
+      "id": "5044378",
+      "time": "2026-08-17 20:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：大規模重金投入基礎能力建設。利用模型幫助保障程式碼安全。"
+    },
+    {
+      "id": "mkt:01a00fba-eee6-7aab-9062-03f643ab676c",
+      "time": "2026-08-17 20:38:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will decisively strike any threats or acts of aggression."
+    },
+    {
+      "id": "te:economy:575856",
+      "time": "2026-08-17 20:38:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%."
+    },
     {
       "id": "5044377",
       "time": "2026-08-17 20:37:15",
