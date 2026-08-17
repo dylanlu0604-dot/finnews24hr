@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-17 21:36:01",
-  "count": 15244,
+  "updated": "2026-08-17 21:40:16",
+  "count": 15238,
   "items": [
+    {
+      "id": "5044469",
+      "time": "2026-08-17 21:38:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦國王阿卜杜拉二世接受新華社專訪。（新華社）"
+    },
+    {
+      "id": "te:markets:575876",
+      "time": "2026-08-17 21:38:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week."
+    },
+    {
+      "id": "5044468",
+      "time": "2026-08-17 21:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）"
+    },
+    {
+      "id": "5044467",
+      "time": "2026-08-17 21:35:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。"
+    },
+    {
+      "id": "mkt:01a00fef-7a41-7aab-9063-5c61b517642c",
+      "time": "2026-08-17 21:35:47",
+      "tags": [
+        "MKT News",
+        "LUNR.O",
+        "Impact bullish"
+      ],
+      "text": "Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m."
+    },
+    {
+      "id": "5044466",
+      "time": "2026-08-17 21:35:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。"
+    },
+    {
+      "id": "5044465",
+      "time": "2026-08-17 21:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。"
+    },
     {
       "id": "te:markets:575875",
       "time": "2026-08-17 21:34:10",
@@ -139593,135 +139657,6 @@
         "其他"
       ],
       "text": "哥倫比亞，聖何塞‑德爾帕爾馬以西16公里處發生5.0級地震。"
-    },
-    {
-      "id": "te:markets:574153",
-      "time": "2026-08-10 21:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.17% Lower — The Dow Jones Index is falling 89 points. Losses were driven by Apple (-2.38%), Sherwin-Williams (-1.53%) and Home Depot (-1.51%). Biggest rises came from Chevron (2.24%), Cisco Systems (1.53%) and UnitedHealth (1.18%)."
-    },
-    {
-      "id": "te:markets:574152",
-      "time": "2026-08-10 21:39:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Muted on Monday — US stock indices were muted on Monday, holding recent rallies as markets assessed the outlook on interest rates for this year. The S&P 500 and Dow were flat near their records and the Nasdaq 100 inched down. A small majority of the market positioned in accordance with a rate hold by the Federal Reserve next month. Nonfarm payrolls unexpectedly declined in July to challenge the view of a robust labor market, which was commonly cited by hawkish FOMC members following multiple dissents in the central bank's last meeting. Meanwhile, fuel costs remained below recent peaks despite risks of prolonged supply setbacks of oil from the Persian Gulf. Tech giants were mostly higher after a group of brokers signaled strong demand for cloud services, with Meta, Microsoft, and SpaceX adding around 1% each. On the other hand, Intel fell over 3% as it will be offering $15 billion in stock. Also, Apple fell by 2.5% after being downgraded to underperform by Jefferies."
-    },
-    {
-      "id": "5034275",
-      "time": "2026-08-10 21:39:03",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日本連續兩個月破產企業超千家】據新華社，日本東京商工調查公司10日釋出的報告顯示，日本7月共有1028家企業破產，繼6月後再次超過1000家。這是日本14年來首次出現連續兩個月破產企業逾千家的情況。該公司分析，日元貶值推高物價以及勞動力短缺是導致破產企業增多的主要原因。 資料顯示，日本7月破產企業數量較去年同期增加6.9%，為今年以來單月最高值。這些企業負債總額為2363億日元（1美元約合159日元），較去年同期激增41.4%。其中，總部位於大阪的信用卡結算代理公司“全東信”負債額為1151.6億日元，可能是今年以來負債規模最大的日本破產企業。 從破產原因看，因日元貶值、物價上漲而破產的企業有93家，為2022年以來單月最高。另有63家企業因勞動力短缺和人力成本增高破產。從行業看，10個主要行業中有7個行業破產企業數量同比增加，包括建築業、零售業和運輸業。 東京商工調查公司表示，在日本物價和勞動力成本持續上漲背景下，利息負擔不斷加重，預計破產企業數量可能持續增加。 該公司7月釋出資料顯示，日本6月共有1021家企業破產；今年上半年，日本負債1000萬日元以上並破產的企業共有5346家，連續5年同比增加，時隔12年再次超過5000家。"
-    },
-    {
-      "id": "5034274",
-      "time": "2026-08-10 21:38:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統：要求相關部門提交地震後的詳細報告。"
-    },
-    {
-      "id": "mkt:019febe5-3498-7aab-8fda-e425af15ac56",
-      "time": "2026-08-10 21:38:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures rose about 5% to a two-week high after LNG export flows reached their highest level in a month."
-    },
-    {
-      "id": "mkt:019febe5-187f-7aab-8fda-dd9dd5d2bf11",
-      "time": "2026-08-10 21:38:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombian President De la Espriella said he will travel to Pereira to inspect the area after an earthquake."
-    },
-    {
-      "id": "5034273",
-      "time": "2026-08-10 21:38:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：我們將查明所有參與對別爾哥羅德和下卡姆斯克發動襲擊的烏克蘭人員身份。"
-    },
-    {
-      "id": "mkt:019febe4-f056-7aab-8fda-d04f6d6f7dba",
-      "time": "2026-08-10 21:37:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "TSM.N"
-      ],
-      "text": "【Microsoft Maia 300 AI chip could debut as early as September; engaged TSMC for >300,000-unit capacity】The Information reports Microsoft (MSFT.O) plans to unveil its next‑generation Maia 300 AI chip this autumn, possibly as early as September. To meet 2027 delivery needs, Microsoft has engaged TSMC (TSM.N) to secure manufacturing capacity for more than 300,000 units."
-    },
-    {
-      "id": "5034272",
-      "time": "2026-08-10 21:37:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨延續漲勢，價格上漲5%觸及兩週高點，因液化天然氣出口量創下一個月新高。"
-    },
-    {
-      "id": "5034271",
-      "time": "2026-08-10 21:37:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【市預警釋出中心】浦東新區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。"
-    },
-    {
-      "id": "5034270",
-      "time": "2026-08-10 21:37:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【市預警釋出中心】青浦區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。"
-    },
-    {
-      "id": "5034269",
-      "time": "2026-08-10 21:36:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "錫耶納治療公司股價暴跌91%，原因是該公司實驗性藥物未達中期試驗目標。"
-    },
-    {
-      "id": "mkt:019febe3-89c0-7aab-8fda-cb7d89fd1950",
-      "time": "2026-08-10 21:36:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "GOLD.O",
-        "Impact bearish"
-      ],
-      "text": "Barrick Gold fell 8% after Q2 profit missed expectations."
     }
   ]
 }

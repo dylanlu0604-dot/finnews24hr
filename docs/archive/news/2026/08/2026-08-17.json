@@ -1,7 +1,71 @@
 {
   "date": "2026-08-17",
-  "count": 2313,
+  "count": 2320,
   "items": [
+    {
+      "id": "5044469",
+      "time": "2026-08-17 21:38:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦國王阿卜杜拉二世接受新華社專訪。（新華社）"
+    },
+    {
+      "id": "te:markets:575876",
+      "time": "2026-08-17 21:38:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week."
+    },
+    {
+      "id": "5044468",
+      "time": "2026-08-17 21:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）"
+    },
+    {
+      "id": "5044467",
+      "time": "2026-08-17 21:35:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。"
+    },
+    {
+      "id": "mkt:01a00fef-7a41-7aab-9063-5c61b517642c",
+      "time": "2026-08-17 21:35:47",
+      "tags": [
+        "MKT News",
+        "LUNR.O",
+        "Impact bullish"
+      ],
+      "text": "Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m."
+    },
+    {
+      "id": "5044466",
+      "time": "2026-08-17 21:35:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。"
+    },
+    {
+      "id": "5044465",
+      "time": "2026-08-17 21:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。"
+    },
     {
       "id": "te:markets:575875",
       "time": "2026-08-17 21:34:10",
