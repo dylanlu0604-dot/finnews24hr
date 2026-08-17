@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-18 05:03:18",
-  "count": 15207,
+  "updated": "2026-08-18 05:07:14",
+  "count": 15209,
   "items": [
+    {
+      "id": "mkt:01a0118b-f0b8-7aab-9069-b28ef13e5ba6",
+      "time": "2026-08-18 05:06:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner says U.S. and Iran have not yet reached consensus】On Aug. 17 local time, Jared Kushner, President Trump’s son-in-law, said dialogue between U.S. and Iranian government departments had reached \"unprecedented\" levels but that the sides had \"not yet reached consensus\"."
+    },
+    {
+      "id": "5044767",
+      "time": "2026-08-18 05:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【庫什納稱美伊雙方尚未達成共識】當地時間8月17日，美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01188-e35a-7aab-9069-a9e80efbd773",
+      "time": "2026-08-18 05:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438."
+    },
     {
       "id": "5044766",
       "time": "2026-08-18 05:01:28",
@@ -139338,14 +139362,6 @@
         "其他"
       ],
       "text": "【委內瑞拉地震遇難人數升至6301人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯10日說，6月24日地震造成的遇難人數已升至6301人。（新華社）"
-    },
-    {
-      "id": "5034602",
-      "time": "2026-08-11 05:03:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際金價週一漲1.1%，現貨白銀漲3.2%】週一紐約尾盤，現貨黃金漲1.10%，報4389.38美元/盎司。COMEX黃金期貨漲1.10%，報4448.20美元/盎司，逼近6月17日頂部4465.90美元和6月4日頂部4607.40美元。現貨白銀漲3.20%，報65.7089美元/盎司。COMEX白銀期貨漲3.80%，報65.910美元/盎司。COMEX銅期貨漲0.68%，報6.6360美元/磅。現貨鉑金漲0.32%，現貨鈀金漲0.33%。"
     }
   ]
 }

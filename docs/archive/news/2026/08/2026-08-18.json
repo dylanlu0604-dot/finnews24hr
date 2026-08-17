@@ -1,7 +1,31 @@
 {
   "date": "2026-08-18",
-  "count": 270,
+  "count": 273,
   "items": [
+    {
+      "id": "mkt:01a0118b-f0b8-7aab-9069-b28ef13e5ba6",
+      "time": "2026-08-18 05:06:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner says U.S. and Iran have not yet reached consensus】On Aug. 17 local time, Jared Kushner, President Trump’s son-in-law, said dialogue between U.S. and Iranian government departments had reached \"unprecedented\" levels but that the sides had \"not yet reached consensus\"."
+    },
+    {
+      "id": "5044767",
+      "time": "2026-08-18 05:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【庫什納稱美伊雙方尚未達成共識】當地時間8月17日，美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01188-e35a-7aab-9069-a9e80efbd773",
+      "time": "2026-08-18 05:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438."
+    },
     {
       "id": "5044766",
       "time": "2026-08-18 05:01:28",
