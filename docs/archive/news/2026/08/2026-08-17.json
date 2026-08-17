@@ -1,7 +1,105 @@
 {
   "date": "2026-08-17",
-  "count": 550,
+  "count": 560,
   "items": [
+    {
+      "id": "mkt:01a00d84-0620-7aab-9054-0de6c00665f2",
+      "time": "2026-08-17 10:19:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "01347.HK",
+        "Impact bullish",
+        "09630.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong-listed chip stocks advanced: Huahong Hongli (01347.HK) and Xinqi Microassembly (09630.HK) rose over 6%, SMIC (00981.HK) and GigaDevice (03986.HK) climbed more than 5%, and Montage Technology (06809.HK) gained 4.6%."
+    },
+    {
+      "id": "5043276",
+      "time": "2026-08-17 10:19:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經 225 指數微跌 0.01%，鎧俠控股上漲 5.14%，Archion 上漲 5.07%，Nexon 上漲 3.44%。"
+    },
+    {
+      "id": "5043275",
+      "time": "2026-08-17 10:18:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股晶片股走高，華虹宏力(01347.HK)、芯碁微裝(09630.HK)漲超6%，中芯國際(00981.HK)、兆易創新(03986.HK)漲超5%，瀾起科技(06809.HK)漲4.6%。"
+    },
+    {
+      "id": "5043274",
+      "time": "2026-08-17 10:18:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量722億元。"
+    },
+    {
+      "id": "5043273",
+      "time": "2026-08-17 10:16:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行官員：通脹前景仍處於高位，需採取有分寸的行動錨定通脹預期。"
+    },
+    {
+      "id": "5043272",
+      "time": "2026-08-17 10:16:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平：江澤民同志的一生，是光輝的一生、戰鬥的一生】8月17日上午，紀念江澤民同志誕辰100週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平出席大會並發表重要講話。\n\n習近平：江澤民同志的一生，是光輝的一生、戰鬥的一生，他為爭取民族獨立、人民解放和實現國家富強、人民幸福鞠躬盡瘁、奮鬥終身。他領導推動社會主義物質文明、政治文明、精神文明建設和黨的建設取得舉世矚目的新進展，為捍衛中國特色社會主義偉大事業、開創全面改革開放新局面、實現人民生活總體小康、成功把中國特色社會主義推向二十一世紀作出了不可磨滅的貢獻，贏得了全黨全軍全國各族人民衷心愛戴和國際社會廣泛讚譽！\n\n同志們、朋友們！\n\n在70多年的革命生涯中，特別是在黨的十三屆四中全會之後推動黨和國家事業取得巨大成就的偉大實踐中，江澤民同志充分展示了作為馬克思主義政治家的雄才大略、關鍵作用、領導藝術，樹立了永遠值得我們學習、永遠激勵我們前進的崇高風範。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00d81-81a9-7aab-9054-00bd161aad31",
+      "time": "2026-08-17 10:16:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300750.SZ",
+        "Impact mixed"
+      ],
+      "text": "【CATL unveils 2035 full value‑chain carbon‑neutral plan, emphasizes supply‑chain coordination】At a 2026 CATL core operations carbon‑neutral conference, Huang Bin, head of procurement and head of planning and materials control, said over 80% of lithium‑battery lifecycle emissions come from supply‑chain activities. CATL set a target to achieve full value‑chain carbon neutrality by 2035, covering minerals through finished batteries. The company said supply‑chain coordination is central and has broken the target down from carbon‑footprint accounting to targeted reductions, issuing a detailed action plan."
+    },
+    {
+      "id": "5043271",
+      "time": "2026-08-17 10:16:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元上漲0.5%至31.884。"
+    },
+    {
+      "id": "5043270",
+      "time": "2026-08-17 10:16:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊震盪走強 中科飛測漲超10%】半導體裝置板塊盤中震盪走強，中科飛測漲超10%，此前亞翔整合漲停，長川科技、金海通、京儀裝備、拓荊科技、富創精密等跟漲。"
+    },
+    {
+      "id": "te:markets:575639",
+      "time": "2026-08-17 10:15:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Gain as Economic Data Looms — The Shanghai Composite rose 0.2% to around 3,937 on Monday, while the Shenzhen Component gained 0.4% to 14,409, as investors positioned ahead of a busy week of economic data. Markets are awaiting key indicators, including fixed-asset investment, industrial production, retail sales, the unemployment rate, house prices, and foreign direct investment figures, for fresh clues on the strength of China's economic recovery. On the corporate front, Hygon Information Technology added 1.4% after reporting stronger revenue, net profit, and R&D spending. Other notable gainers included BYD (0.8%), NAURA Technology (1.1%) and Suzhou Dongshan Precision (2.5%). On the downside, Kweichow Moutai tumbled 3.9% after reporting a decline in first-half net profit. Investors also awaited GigaDevice Semiconductor's earnings report on Tuesday to gauge demand trends in the semiconductor industry."
+    },
     {
       "id": "5043269",
       "time": "2026-08-17 10:15:36",

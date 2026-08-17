@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-17 10:16:19",
-  "count": 15154,
+  "updated": "2026-08-17 10:20:07",
+  "count": 15155,
   "items": [
+    {
+      "id": "mkt:01a00d84-0620-7aab-9054-0de6c00665f2",
+      "time": "2026-08-17 10:19:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "01347.HK",
+        "Impact bullish",
+        "09630.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong-listed chip stocks advanced: Huahong Hongli (01347.HK) and Xinqi Microassembly (09630.HK) rose over 6%, SMIC (00981.HK) and GigaDevice (03986.HK) climbed more than 5%, and Montage Technology (06809.HK) gained 4.6%."
+    },
+    {
+      "id": "5043276",
+      "time": "2026-08-17 10:19:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經 225 指數微跌 0.01%，鎧俠控股上漲 5.14%，Archion 上漲 5.07%，Nexon 上漲 3.44%。"
+    },
+    {
+      "id": "5043275",
+      "time": "2026-08-17 10:18:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股晶片股走高，華虹宏力(01347.HK)、芯碁微裝(09630.HK)漲超6%，中芯國際(00981.HK)、兆易創新(03986.HK)漲超5%，瀾起科技(06809.HK)漲4.6%。"
+    },
+    {
+      "id": "5043274",
+      "time": "2026-08-17 10:18:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量722億元。"
+    },
+    {
+      "id": "5043273",
+      "time": "2026-08-17 10:16:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行官員：通脹前景仍處於高位，需採取有分寸的行動錨定通脹預期。"
+    },
+    {
+      "id": "5043272",
+      "time": "2026-08-17 10:16:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平：江澤民同志的一生，是光輝的一生、戰鬥的一生】8月17日上午，紀念江澤民同志誕辰100週年大會在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平出席大會並發表重要講話。\n\n習近平：江澤民同志的一生，是光輝的一生、戰鬥的一生，他為爭取民族獨立、人民解放和實現國家富強、人民幸福鞠躬盡瘁、奮鬥終身。他領導推動社會主義物質文明、政治文明、精神文明建設和黨的建設取得舉世矚目的新進展，為捍衛中國特色社會主義偉大事業、開創全面改革開放新局面、實現人民生活總體小康、成功把中國特色社會主義推向二十一世紀作出了不可磨滅的貢獻，贏得了全黨全軍全國各族人民衷心愛戴和國際社會廣泛讚譽！\n\n同志們、朋友們！\n\n在70多年的革命生涯中，特別是在黨的十三屆四中全會之後推動黨和國家事業取得巨大成就的偉大實踐中，江澤民同志充分展示了作為馬克思主義政治家的雄才大略、關鍵作用、領導藝術，樹立了永遠值得我們學習、永遠激勵我們前進的崇高風範。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00d81-81a9-7aab-9054-00bd161aad31",
+      "time": "2026-08-17 10:16:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300750.SZ",
+        "Impact mixed"
+      ],
+      "text": "【CATL unveils 2035 full value‑chain carbon‑neutral plan, emphasizes supply‑chain coordination】At a 2026 CATL core operations carbon‑neutral conference, Huang Bin, head of procurement and head of planning and materials control, said over 80% of lithium‑battery lifecycle emissions come from supply‑chain activities. CATL set a target to achieve full value‑chain carbon neutrality by 2035, covering minerals through finished batteries. The company said supply‑chain coordination is central and has broken the target down from carbon‑footprint accounting to targeted reductions, issuing a detailed action plan."
+    },
+    {
+      "id": "5043271",
+      "time": "2026-08-17 10:16:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元上漲0.5%至31.884。"
+    },
+    {
+      "id": "5043270",
+      "time": "2026-08-17 10:16:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊震盪走強 中科飛測漲超10%】半導體裝置板塊盤中震盪走強，中科飛測漲超10%，此前亞翔整合漲停，長川科技、金海通、京儀裝備、拓荊科技、富創精密等跟漲。"
+    },
+    {
+      "id": "te:markets:575639",
+      "time": "2026-08-17 10:15:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Gain as Economic Data Looms — The Shanghai Composite rose 0.2% to around 3,937 on Monday, while the Shenzhen Component gained 0.4% to 14,409, as investors positioned ahead of a busy week of economic data. Markets are awaiting key indicators, including fixed-asset investment, industrial production, retail sales, the unemployment rate, house prices, and foreign direct investment figures, for fresh clues on the strength of China's economic recovery. On the corporate front, Hygon Information Technology added 1.4% after reporting stronger revenue, net profit, and R&D spending. Other notable gainers included BYD (0.8%), NAURA Technology (1.1%) and Suzhou Dongshan Precision (2.5%). On the downside, Kweichow Moutai tumbled 3.9% after reporting a decline in first-half net profit. Investors also awaited GigaDevice Semiconductor's earnings report on Tuesday to gauge demand trends in the semiconductor industry."
+    },
     {
       "id": "5043269",
       "time": "2026-08-17 10:15:36",
@@ -138456,84 +138554,6 @@
         "國際"
       ],
       "text": "【交易員不肯建倉以押注原油價格持續上漲】在霍爾木茲海峽重開問題上，剛剛過去的週末仍無進展，週一原油價格走強，但交易員對油價能否持續上漲持懷疑態度。原油淨多頭頭寸7月份僅溫和反彈，但目前各原油合約的淨多頭頭寸正在縮減。投資者將有關特朗普總統採取“低調處理”和與伊朗“半談判”策略的報道，視為談判中新的審慎路線。美國經濟資料也起到了作用。近期疲軟的就業報告令那些寄望於美國經濟表現優於全球其他經濟體的投資者大受打擊。而本週的CPI資料預計將顯示核心通脹持續放緩，這將削弱原油期貨被用來對沖美聯儲提前加息風險的吸引力。"
-    },
-    {
-      "id": "5033045",
-      "time": "2026-08-10 10:19:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "5033044",
-      "time": "2026-08-10 10:19:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創新新材等成立光電科技新公司】企查查APP顯示，近日，深圳新盛無疆光電科技有限公司成立，經營範圍包含光通訊裝置銷售；光電子器件銷售；塑膠製品銷售；電子元器件批發等。企查查股權穿透顯示，該公司由創新新材等共同持股。"
-    },
-    {
-      "id": "5033043",
-      "time": "2026-08-10 10:18:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "藥明康德A股漲7.5%，港股上漲6.1%。"
-    },
-    {
-      "id": "5033042",
-      "time": "2026-08-10 10:18:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼股指創5月20日以來新高。"
-    },
-    {
-      "id": "5033041",
-      "time": "2026-08-10 10:17:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國總統李在明將視察AI相關投資計劃進展】韓國總統李在明定於週一（10日）主持召開會議，探討如何迅速落實針對半導體制造設施和人工智慧（AI）資料中心的大規模投資計劃。定於當日下午2時舉行的此次會議，是李在明政府6月底公佈“三大超級專案”以來的第二次同類會議。該“三大超級專案”規劃了在地方地區對半導體生產叢集、物理AI以及AI資料中心進行大規模投資。韓國總統府表示，本次會議將討論支援投資計劃迅速落實的相關事宜，並探討如何將投資紅利惠及全國各地區及整個產業生態系統。總統秘書室室長姜勳植、政策室長金容範、國務總理韓成淑、各政府部門長官，以及三星電子和SK集團的高管將出席此次會議。"
-    },
-    {
-      "id": "mkt:019fe976-4aea-7aab-8fcf-70644f56b544",
-      "time": "2026-08-10 10:17:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indonesia's Jakarta Composite Index rose as much as 0.7% to 6,454.388, its highest level since May 20."
-    },
-    {
-      "id": "5033040",
-      "time": "2026-08-10 10:17:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體板塊震盪下挫 鍇威特、炬光科技跌超9%】半導體板塊震盪下挫，鍇威特、炬光科技跌超9%，富信科技、普冉股份、芯原股份、寒武紀等股跌幅居前。"
-    },
-    {
-      "id": "5033039",
-      "time": "2026-08-10 10:16:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【記憶體價格貴回2007年 DDR5每GB賣到90塊】加拿大魁北克大學電腦科學教授丹尼爾·勒米爾近日表示，受AI需求持續拉昇帶動，按單位容量計價，記憶體價格已漲回接近2007年水平，相當於把近20年的降價成果基本抹平，屬於歷史罕見的行業異動。斯坦福大學DAM專案彙總的價格序列給出量化錨點，眼下DDR5每GB約11.41至13.28美元(約合人民幣77至90元)，與2008年前後DDR2價位帶高度重合，按通脹折算約回到2011年DDR3水平。"
-    },
-    {
-      "id": "mkt:019fe975-5eaa-7aab-8fcf-6e428b88ef40",
-      "time": "2026-08-10 10:16:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Memory prices back to 2007 levels; DDR5 at $11.41–13.28/GB (77–90 yuan)】AI-driven demand has pushed memory prices per GB back near 2007 levels, effectively erasing about two decades of price declines, Daniel Lemire, a computer science professor in Quebec, said, calling it a rare industry anomaly. A Stanford DAM project price series shows DDR5 trading at $11.41–13.28 per GB (about 77–90 yuan/GB), overlapping DDR2 price bands from around 2008; on an inflation-adjusted basis the series is roughly back to 2011 DDR3 levels."
     }
   ]
 }
