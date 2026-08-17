@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-17 13:17:53",
-  "count": 15189,
+  "updated": "2026-08-17 13:21:45",
+  "count": 15192,
   "items": [
+    {
+      "id": "5043525",
+      "time": "2026-08-17 13:21:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色、擴充套件分割槽暴雨黃色預警訊號】過去3小時，福田區和羅湖區（翠竹、東曉、清水河、南湖、桂園、東門、筍崗街道）已出現暴雨，預計未來1-2小時還將出現20-40毫米降水，深圳市氣象臺2026年08月17日13時17分在上述區域釋出暴雨橙色預警訊號。"
+    },
+    {
+      "id": "5043524",
+      "time": "2026-08-17 13:20:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達高管將於週二造訪 LG 電子機器人研發中心】業內訊息人士週一透露，英偉達高階總監黃敏珊（Madison Huang）—— 英偉達執行長黃仁勳之女，計劃於本週晚些時候到訪韓國 LG 電子機器人業務中心。本次訪問定於週二進行。黃敏珊計劃與 LG 電子高層舉行閉門會談，雙方將探討合作方向，深化兩家企業在人工智慧基礎設施與機器人領域的協作。會談地點設在 LG 電子位於首爾南部、尚在建設的資料工廠，議題將重點圍繞機器人業務展開。"
+    },
+    {
+      "id": "5043523",
+      "time": "2026-08-17 13:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股醫藥股延續漲勢 凱萊英漲超7%】截至發稿，凱萊英(06821.HK)漲7.52%，昭衍新藥(06127.HK)漲6.62%，藥明康德(02359.HK)漲4.46%。"
+    },
+    {
+      "id": "mkt:01a00e29-2978-7aab-9057-1ad53917903b",
+      "time": "2026-08-17 13:19:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Africa to finalise rules for US$9.3tn OTC derivatives market by 2028】South African regulators plan to require central clearing for OTC derivatives, aiming to complete new rules within two years and for final rules to take effect before 2028, the South African Reserve Bank said. The reform, intended to boost transparency and reduce risk, hinges on central counterparties obtaining licences and becoming operational. The Prudential Authority and the Financial Sector Conduct Authority closed a consultation on June 5 on eligibility criteria for central clearing; they propose ZAR‑denominated interest rate swaps and forward rate agreements as the first mandatory‑clearing products, with other contracts phased in based on industry feedback and market Data Talk. SARB data show over R150 trillion of rand‑linked OTC derivatives notional traded domestically and offshore (about US$9.3tn)."
+    },
+    {
+      "id": "5043522",
+      "time": "2026-08-17 13:19:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "麥格理：將韓國鋅業公司的評級從“中性”上調至“跑贏大盤”，目標價設定為150萬韓元；韓國鋅業公司8月5日公佈的季度銷售額超出預期。"
+    },
+    {
+      "id": "5043521",
+      "time": "2026-08-17 13:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【個人養老金開戶數、繳存額廣州持續位居全省前列】個人養老金制度是健全社會保障體系、應對人口老齡化的戰略性制度安排。從先行試點到全面施行，廣州歷經三年多探索沉澱，已形成較為成熟的服務模式。近日，記者從廣州市社保中心獲悉，截至今年7月，廣州個人養老金開戶數和繳存額持續位居全省乃至全國前列。越來越多的市民開始主動了解並參與個人養老金儲備，從“被動養老”向“主動規劃”的觀念轉變正在這座城市加速形成。（大洋網）"
+    },
+    {
+      "id": "5043520",
+      "time": "2026-08-17 13:17:51",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗對印度市場持積極看法 將Axis銀行納入印度首選標的】花旗表示，在印度一季度財報 “好於預期”，且基準指數 Nifty 50 處於長期平均估值水平的背景下，該行對印度股市前景維持積極態度。 Surendra Goyal與Vijit Jain在研報中寫道，孟買證交所 BSE‑100 指數成分股整體息稅折舊攤銷前利潤同比增速約 6%，稅後淨利潤同比增速約 9%，遠高於此前預期的零增長、小幅下滑。絕大多數行業營收增長超出預期，部分行業如預期般遭遇利潤率承壓。花旗將 Axis 銀行納入大盤股首選名單，維持對金融、電信、公用事業及醫療保健板塊的超配評級。"
+    },
+    {
+      "id": "mkt:01a00e27-4a85-7aab-9057-118223765988",
+      "time": "2026-08-17 13:17:30",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bearish"
+      ],
+      "text": "HSBC cuts Kweichow Moutai PT to 1,713 yuan from 1,732 yuan."
+    },
     {
       "id": "5043518",
       "time": "2026-08-17 13:16:50",
@@ -138940,50 +139010,6 @@
         "其他"
       ],
       "text": "【廣哈通訊建設大灣區首個智慧指揮排程專業化基地】廣哈通訊公眾號訊息，8月7日上午，廣哈通訊智慧指揮排程產業園專案啟動儀式在廣州市黃埔區順利舉行。該產業園由廣哈通訊投資建設，預計2028年12月全面竣工交付。園區科學佈局科技創新研發、智慧化生產製造、綜合運營服務三大核心功能板塊，著力打造粵港澳大灣區首個深耕智慧指揮排程垂直領域的專業化產業基地。"
-    },
-    {
-      "id": "5033282",
-      "time": "2026-08-10 13:21:39",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通將標普500指數年末目標位上調至8,000點】摩根大通週一將標普500指數年末目標位上調至8,000點，理由是企業盈利強勁，且有跡象表明大型雲服務提供商（hyperscaler）的AI投資即將推動營收實現更快增長。這一新目標較上週五7,757.64點的收盤價意味著約3.12%的上漲空間。"
-    },
-    {
-      "id": "mkt:019fea1d-a0d7-7aab-8fd1-c50d2c291dba",
-      "time": "2026-08-10 13:20:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's central bank governor said the bank's previous forecast of 1.8% inflation for 2026 remains achievable."
-    },
-    {
-      "id": "5033281",
-      "time": "2026-08-10 13:20:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗研究首次覆蓋領益智造，給予中性初始評級，將公司A股目標價定為13.00元，將H股目標價定為8.00港元。"
-    },
-    {
-      "id": "mkt:019fea1c-150d-7aab-8fd1-bdab825f3b9e",
-      "time": "2026-08-10 13:18:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KBW raises PT for Berkshire Hathaway (BRK.A.N) to $735,000 from $695,000."
-    },
-    {
-      "id": "5033280",
-      "time": "2026-08-10 13:18:38",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通將美國汽車零件供應商博格華納目標價從75美元上調至85美元。"
     }
   ]
 }
