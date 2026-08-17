@@ -1,7 +1,27 @@
 {
   "date": "2026-08-18",
-  "count": 190,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:01a01119-5ebe-7aab-9068-8353488ad5fd",
+      "time": "2026-08-18 03:01:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.27% at 25,355, trading 98 points below the cash index."
+    },
+    {
+      "id": "5044728",
+      "time": "2026-08-18 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.28%，報25352.93點，低水100.30點。"
+    },
     {
       "id": "5044727",
       "time": "2026-08-18 02:55:56",
