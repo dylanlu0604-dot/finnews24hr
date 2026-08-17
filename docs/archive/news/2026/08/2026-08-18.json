@@ -1,7 +1,42 @@
 {
   "date": "2026-08-18",
-  "count": 310,
+  "count": 313,
   "items": [
+    {
+      "id": "5044793",
+      "time": "2026-08-18 06:28:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【PCB產業鏈半年報亮眼，高階產品供需偏緊或延續至2028年】近期，多家PCB產業鏈企業披露2026年半年報，大多數公司營收、淨利潤實現較快增長。梳理發現，AI算力需求增長、產品結構升級及產能釋放等成為推動企業業績增長的重要因素。與此同時，當前PCB行業仍處於結構性漲價過程中，高階HDI、高多層PCB等高階產品持續處於供需偏緊狀態。展望後市，有行業人士表示，AI伺服器持續迭代、ASIC加速器加快放量將繼續支撐高階PCB需求，而高階產能釋放仍需要時間，預計高階PCB供需偏緊格局或延續至2028年。（上證報）"
+    },
+    {
+      "id": "mkt:01a011d5-d586-7aab-906a-17bb64a61a61",
+      "time": "2026-08-18 06:27:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Poll shows Trump approval at second-term low】Reuters/Ipsos poll on Aug. 17 found US President Trump’s approval rating at 33%, a second-term low. The survey showed 64% disapprove of his White House performance and roughly 80% expect fighting between the US and Iran to continue for a long time. The online poll sampled 1,166 US adults."
+    },
+    {
+      "id": "mkt:01a011d5-7e06-7aab-906a-0c1e2ae88c08",
+      "time": "2026-08-18 06:26:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bearish",
+        "US10Y",
+        "Nikkei 225"
+      ],
+      "text": "【Asian stocks set to open lower; oil, bond yields pose headwinds】Asian equities were set to open lower after US losses as rising oil prices raised inf concerns and hopes for an end to the US‑Iran conflict dimmed. Futures for Australia, Japan and Hong Kong fell on Tuesday. Market participants are focused on oil and government bond yields for signs of a sustained inf shock that could push up Fed rate expectations and pressure high‑valuation stocks. US 10‑year Treasury yields rose above 4.7% and remain elevated despite last week’s subdued inf data, a persistent headwind for investors, said Matt Maley, chief market strategist at Miller Tabak+Co."
+    },
     {
       "id": "5044792",
       "time": "2026-08-18 06:24:22",
