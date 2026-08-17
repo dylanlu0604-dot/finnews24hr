@@ -1,7 +1,126 @@
 {
   "date": "2026-08-18",
-  "count": 62,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:01a010b4-754f-7aab-9066-fbbeec94cd7a",
+      "time": "2026-08-18 01:10:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said Middle East oil supplies have not fully recovered."
+    },
+    {
+      "id": "5044666",
+      "time": "2026-08-18 01:10:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特談及伊朗問題：美國正在打持久戰。"
+    },
+    {
+      "id": "mkt:01a010b3-e7aa-7aab-9066-f65f500b91bb",
+      "time": "2026-08-18 01:10:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canadian Prime Minister Carney said he expects to speak with U.S. President Trump before the tariff deadline on Aug. 19 local time."
+    },
+    {
+      "id": "mkt:01a010b3-87e0-7aab-9066-ec42f7fc62dc",
+      "time": "2026-08-18 01:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's military said it used artillery in southwest Taiz province to strike one Houthi tank, one military vehicle and six patrol positions."
+    },
+    {
+      "id": "5044665",
+      "time": "2026-08-18 01:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，他預計會在8月19日關稅截止日期前與特朗普通話。"
+    },
+    {
+      "id": "5044664",
+      "time": "2026-08-18 01:09:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：在霍爾木茲海峽航運護航方面，我們的能力還將繼續提升。"
+    },
+    {
+      "id": "5044663",
+      "time": "2026-08-18 01:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：中東的石油產量還沒有完全恢復到正常水平。"
+    },
+    {
+      "id": "5044662",
+      "time": "2026-08-18 01:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至8月17日，中央司令部部隊已迫使64艘商船改道，癱瘓3艘船隻，並登船檢查2艘，以確保各方遵守封鎖要求。"
+    },
+    {
+      "id": "mkt:01a010b1-d3bd-7aab-9066-e69ea8e0e3f6",
+      "time": "2026-08-18 01:08:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media: regional states see US as 'paralyzed', seek bilateral deals with Iran】Press TV quoted an Arab diplomat saying regional states view US President Trump’s \"reckless\" decisions and \"condescending\" posture as eroding trust in Washington. The diplomat said they believe the US has not only failed militarily against Iran but also lacks the ability and confidence to secure diplomatic understandings with Tehran, prompting some countries to pursue urgent bilateral negotiations with Iran rather than rely on US decision-making."
+    },
+    {
+      "id": "mkt:01a010b1-c24a-7aab-9066-dc11596763c0",
+      "time": "2026-08-18 01:08:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Central Command said on Aug. 17 it had forced 64 merchant vessels attempting to breach the blockade to divert, rendered three non‑compliant ships inoperable, and boarded and inspected two vessels to ensure compliance with requirements."
+    },
+    {
+      "id": "5044661",
+      "time": "2026-08-18 01:05:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈飛聘請華納兄弟高管凱蒂·馬丁·凱利擔任傳播副總裁。"
+    },
+    {
+      "id": "mkt:01a010ae-2220-7aab-9066-d32b9b912855",
+      "time": "2026-08-18 01:04:02",
+      "tags": [
+        "MKT News",
+        "GD.O",
+        "Impact bullish",
+        "HII.O"
+      ],
+      "text": "US Navy says Virginia-class nuclear-powered attack submarine USS Massachusetts has completed sea trials, is ready for fleet operations and has been granted an exemption from post-trial maintenance due to its good condition."
+    },
+    {
+      "id": "5044660",
+      "time": "2026-08-18 01:03:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗：阿聯酋油輪在霍爾木茲海峽遭截停】船舶航行追蹤資料顯示，一艘阿聯酋公司所屬油輪在穿越霍爾木茲海峽途中被截停。這艘阿聯酋油輪是在格什姆島附近被攔停。"
+    },
     {
       "id": "mkt:01a010ab-1424-7aab-9066-cb8cf141933b",
       "time": "2026-08-18 01:00:42",
