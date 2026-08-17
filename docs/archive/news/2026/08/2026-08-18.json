@@ -1,7 +1,38 @@
 {
   "date": "2026-08-18",
-  "count": 49,
+  "count": 52,
   "items": [
+    {
+      "id": "5044653",
+      "time": "2026-08-18 00:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：支付違約導致歐洲違約事件增多。"
+    },
+    {
+      "id": "mkt:01a010a3-237a-7aab-9066-a9dd22b33e83",
+      "time": "2026-08-18 00:52:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fitch Ratings said the US corporate default rate was broadly unchanged in July, but the overall volume of defaults is expected to increase going forward."
+    },
+    {
+      "id": "5044652",
+      "time": "2026-08-18 00:51:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "維多集團稱，其可再生能源子公司從Meridan Gridworks手中收購南卡羅來納州一處資料中心園區，這也是大型大宗商品交易商涉足人工智慧基礎設施領域的早期案例之一。"
+    },
     {
       "id": "5044651",
       "time": "2026-08-18 00:50:06",
