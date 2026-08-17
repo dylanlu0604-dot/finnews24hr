@@ -1,7 +1,102 @@
 {
   "date": "2026-08-17",
-  "count": 901,
+  "count": 911,
   "items": [
+    {
+      "id": "5043518",
+      "time": "2026-08-17 13:16:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報14641.862點；上證指數漲0.97%，現報3965.406點；創業板指漲2.79%，現報3727.298點。"
+    },
+    {
+      "id": "5043517",
+      "time": "2026-08-17 13:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將 貴州茅臺  目標價從1732元人民幣下調至1713元。"
+    },
+    {
+      "id": "mkt:01a00e25-f3fc-7aab-9057-0c6357ad0c18",
+      "time": "2026-08-17 13:16:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhongji Xuchuang's A- and H-shares rose in afternoon trade; H‑shares climbed over 9%, A‑shares gained 6.5%."
+    },
+    {
+      "id": "mkt:01a00e25-ea6c-7aab-9057-048c694c0c73",
+      "time": "2026-08-17 13:16:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "CSI 1000 index futures (contract code IM) most-active contract up over 2.00% intraday, trading at 7,818.6 points."
+    },
+    {
+      "id": "5043516",
+      "time": "2026-08-17 13:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富創精密等成立科技公司 含新材料技術研發業務】企查查APP顯示，近日，瀋陽鴻創銳鋒科技有限公司成立，法定代表人為韓立營，經營範圍包含：新材料技術推廣服務；新材料技術研發；非金屬礦及製品銷售；金屬製品銷售等。企查查股權穿透顯示，該公司由富創精密等共同持股。"
+    },
+    {
+      "id": "te:markets:575693",
+      "time": "2026-08-17 13:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Climbs to Highest Level Since April — Malaysian palm oil futures surged over 2% to around MYR 4,820 per tonne, marking their highest level since early April and rebounding from recent weakness. Firmer edible oils on the Dalian exchange lifted sentiment, while bargain hunting added support. Demand prospects improved as India's edible oil imports hit a 10-month high in July, with refiners replenishing palm oil and soyoil stocks ahead of the festival season. However, gains were capped by a stronger ringgit and weaker soyoil futures in Chicago markets. Meanwhile, elevated inventories remained a drag, with Malaysia’s July palm oil stocks climbing to a five-month high as production outpaced exports. Simultaneously, export prospects softened, with Intertek estimating shipments fell 7.9% in August 1–15 from the same period in July. Traders also turned cautious ahead of China’s July activity data, including retail sales and industrial output, which could provide fresh clues on demand in another key market."
+    },
+    {
+      "id": "te:markets:575692",
+      "time": "2026-08-17 13:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Increases by 0.30% — Top currency gainers are New Zealand Dollar (0.30%), Australian Dollar (0.26%), Swedish Krona (0.25%), Japanese Yen (0.13%), Euro (0.12%) and British Pound (0.12%). Biggest loser is Dollar Index (-0.15%)."
+    },
+    {
+      "id": "5043515",
+      "time": "2026-08-17 13:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額達200億元】8月17日下午，新易盛成交額達200億元，現漲3.97%。"
+    },
+    {
+      "id": "5043514",
+      "time": "2026-08-17 13:13:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州：提高糧食綜合生產能力 “十五五”時期累計改造提升高標準農田5萬畝以上】《廣州市糧食安全保障“十五五”規劃（徵求意見稿）》公開徵求意見。其中提到，提高糧食綜合生產能力。強化糧食生產空間保障，嚴守耕地和永久基本農田保護底線，落實廣州市耕地保護專項規劃，持續最佳化耕地和永久基本農田佈局。聚焦從化、增城等糧食主產區，持續推進高標準農田新建與提質改造，重點實施土地平整、高效節水灌溉、農田防護等工程，打造集中連片、宜機作業、旱澇保收、高產穩產的糧食生產核心區，“十五五”時期累計改造提升高標準農田5萬畝以上。"
+    },
+    {
+      "id": "5043513",
+      "time": "2026-08-17 13:13:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創AH股午後走強】中際旭創AH股午後走強，A股漲超7%，H股漲超9%。"
+    },
     {
       "id": "mkt:01a00e23-763e-7aab-9056-fcbd38f6ffa3",
       "time": "2026-08-17 13:13:20",
