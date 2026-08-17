@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-17 23:18:19",
-  "count": 15225,
+  "updated": "2026-08-17 23:22:21",
+  "count": 15228,
   "items": [
+    {
+      "id": "5044582",
+      "time": "2026-08-17 23:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府訊息人士稱，帝亞吉歐獲三個月時間調整其威士忌與朗姆酒產品。"
+    },
+    {
+      "id": "5044581",
+      "time": "2026-08-17 23:21:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度政府訊息人士稱，帝亞吉歐印度分公司在調味成分受到審查後，已同意對部分威士忌和朗姆酒產品調整配方。"
+    },
+    {
+      "id": "mkt:01a0104f-09ae-7aab-9065-6ded9c01a624",
+      "time": "2026-08-17 23:20:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Gaza Peace Committee official says a path forward has been agreed with Israeli Prime Minister Netanyahu and the Israeli side will give it a chance."
+    },
+    {
+      "id": "5044580",
+      "time": "2026-08-17 23:19:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平委員會官員：我們與內塔尼亞胡就前進道路達成一致。"
+    },
+    {
+      "id": "mkt:01a0104e-91a6-7aab-9065-6121ed26fbda",
+      "time": "2026-08-17 23:19:39",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 30-year gilt yield rose 2bps to 5.81%, its highest level since May 18."
+    },
+    {
+      "id": "5044579",
+      "time": "2026-08-17 23:19:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期國債收益率上漲2個基點至5.81%，為5月18日以來最高水平。"
+    },
+    {
+      "id": "mkt:01a0104e-38f9-7aab-9065-5ac1436ce57a",
+      "time": "2026-08-17 23:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Gaza Peace Committee official said Kushner's meeting with Netanyahu was lengthy, substantive and highly productive."
+    },
+    {
+      "id": "5044578",
+      "time": "2026-08-17 23:19:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平促進委員會官員表示，庫什納與內塔尼亞胡的會談耗時長久、討論深入且成果豐碩。"
+    },
     {
       "id": "5044577",
       "time": "2026-08-17 23:17:33",
@@ -139492,54 +139564,6 @@
         "國際"
       ],
       "text": "【伊朗最高領袖將任命數名高階軍事指揮官】據伊朗最高領袖辦公室10日訊息，伊朗最高領袖穆傑塔巴將簽署對數名伊朗武裝部隊高階指揮官的任命令。（新華社）"
-    },
-    {
-      "id": "mkt:019fec44-67dd-7aab-8fdc-c68fcf62918a",
-      "time": "2026-08-10 23:22:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 6.1 mln barrels last week to 298.7 mln barrels, the lowest level since 1983."
-    },
-    {
-      "id": "mkt:019fec43-cbaf-7aab-8fdc-bad3fa520778",
-      "time": "2026-08-10 23:21:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index slips as capesize rates soften】The Baltic Dry Index (BDI) fell 6 points, or 0.19%, to 3,083, retreating from a June 3 peak as weaker capesize rates offset panamax gains. The capesize index (BCI) dropped 23 points, or 0.5%, to 5,105; capesize daily earnings fell $212 to $42,797. The panamax index (BPI) rose 8 points, or 0.4%, to 2,306, marking the highest level since June 2; panamax daily earnings gained $71 to $20,755. The supramax index (BSI) was steady at 1,603. The handysize index (BHSI) slipped 2 points to 872."
-    },
-    {
-      "id": "mkt:019fec43-3039-7aab-8fdc-b48380396624",
-      "time": "2026-08-10 23:20:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. actor Leonardo DiCaprio urged Chilean authorities to protect a critically endangered frog from a proposed power transmission project, bringing Hollywood pressure into the environmental dispute."
-    },
-    {
-      "id": "5034404",
-      "time": "2026-08-10 23:20:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗學生通訊社(ISNA)：大部分船舶已取道霍爾木茲海峽的伊朗航線通行。"
-    },
-    {
-      "id": "mkt:019fec40-f15e-7aab-8fdc-af8ee57c70ce",
-      "time": "2026-08-10 23:18:26",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Nikkei reports Japan plans to loosen lending rules to facilitate startup financing; the Financial Services Agency will discuss draft legislative amendments at a Financial System Council plenary as early as this month."
     }
   ]
 }
