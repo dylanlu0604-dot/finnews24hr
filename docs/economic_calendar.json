@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-17 14:56:56",
+  "updated": "2026-08-17 15:01:28",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 407,
+  "count": 411,
   "history_summary": {
     "cached": 407,
-    "fetched": 0,
+    "fetched": 4,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,11 +18,11 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 239,
+      "count": 243,
       "dates": [
         {
           "date": "2026-08-17",
-          "count": 45,
+          "count": 49,
           "events": [
             {
               "id": "capital:1174606",
@@ -1594,6 +1594,238 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-09 00:03:14"
+            },
+            {
+              "id": "capital:1183878",
+              "fid": "1183878",
+              "interval": "this_week",
+              "date": "2026-08-17",
+              "time": "15:00",
+              "datetime": "2026-08-17 15:00:00",
+              "display_time": "08/17 15:00",
+              "country": "中國",
+              "title": "中國7月今年迄今城鎮固定資產投資同比",
+              "importance": 1,
+              "previous": "-5.7 %",
+              "forecast": "-6 %",
+              "actual": "-6.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183878",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "-5.7",
+                  "forecast": "-4.9",
+                  "previous": "-4.1"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "-4.1",
+                  "forecast": "-2",
+                  "previous": "-1.6"
+                },
+                {
+                  "date": "05/18",
+                  "actual": "-1.6",
+                  "forecast": "1.6",
+                  "previous": "1.7"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "1.7",
+                  "forecast": "1.9",
+                  "previous": "1.8"
+                },
+                {
+                  "date": "03/16",
+                  "actual": "1.8",
+                  "forecast": "-2.1",
+                  "previous": "-3.8"
+                },
+                {
+                  "date": "01/19",
+                  "actual": "-3.8",
+                  "forecast": "-3",
+                  "previous": "-2.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-17 15:01:25"
+            },
+            {
+              "id": "capital:1183879",
+              "fid": "1183879",
+              "interval": "this_week",
+              "date": "2026-08-17",
+              "time": "15:00",
+              "datetime": "2026-08-17 15:00:00",
+              "display_time": "08/17 15:00",
+              "country": "中國",
+              "title": "中國7月城鎮調查失業率",
+              "importance": 1,
+              "previous": "5 %",
+              "forecast": "-- %",
+              "actual": "5.2 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183879",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "5",
+                  "forecast": "5.1",
+                  "previous": "5.1"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "5.1",
+                  "forecast": "5.2",
+                  "previous": "5.2"
+                },
+                {
+                  "date": "05/18",
+                  "actual": "5.2",
+                  "forecast": "5.3",
+                  "previous": "5.4"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "5.4",
+                  "forecast": "-",
+                  "previous": "5.3"
+                },
+                {
+                  "date": "03/16",
+                  "actual": "5.3",
+                  "forecast": "5.1",
+                  "previous": "-"
+                },
+                {
+                  "date": "01/19",
+                  "actual": "5.1",
+                  "forecast": "5.2",
+                  "previous": "5.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-17 15:01:25"
+            },
+            {
+              "id": "capital:1183876",
+              "fid": "1183876",
+              "interval": "this_week",
+              "date": "2026-08-17",
+              "time": "15:00",
+              "datetime": "2026-08-17 15:00:00",
+              "display_time": "08/17 15:00",
+              "country": "中國",
+              "title": "中國7月社會消費品零售總額同比",
+              "importance": 2,
+              "previous": "1 %",
+              "forecast": "1.5 %",
+              "actual": "0.6 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183876",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "1",
+                  "forecast": "-0.1",
+                  "previous": "-0.6"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "-0.6",
+                  "forecast": "0",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "05/18",
+                  "actual": "0.2",
+                  "forecast": "2",
+                  "previous": "1.7"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "1.7",
+                  "forecast": "2.3",
+                  "previous": "-"
+                },
+                {
+                  "date": "03/16",
+                  "actual": "2.8",
+                  "forecast": "2.5",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "01/19",
+                  "actual": "0.9",
+                  "forecast": "1.2",
+                  "previous": "1.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-17 15:01:25"
+            },
+            {
+              "id": "capital:1183877",
+              "fid": "1183877",
+              "interval": "this_week",
+              "date": "2026-08-17",
+              "time": "15:00",
+              "datetime": "2026-08-17 15:00:00",
+              "display_time": "08/17 15:00",
+              "country": "中國",
+              "title": "中國7月規模以上工業增加值同比",
+              "importance": 2,
+              "previous": "5.3 %",
+              "forecast": "4.8 %",
+              "actual": "4.5 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183877",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "5.3",
+                  "forecast": "4.7",
+                  "previous": "4.5"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "4.5",
+                  "forecast": "4.3",
+                  "previous": "4.1"
+                },
+                {
+                  "date": "05/18",
+                  "actual": "4.1",
+                  "forecast": "5.9",
+                  "previous": "5.7"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "5.7",
+                  "forecast": "5.5",
+                  "previous": "-"
+                },
+                {
+                  "date": "03/16",
+                  "actual": "6.3",
+                  "forecast": "5",
+                  "previous": "5.2"
+                },
+                {
+                  "date": "01/19",
+                  "actual": "5.2",
+                  "forecast": "5",
+                  "previous": "4.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-17 15:01:25"
             },
             {
               "id": "capital:1174624",
@@ -25163,6 +25395,238 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-09 00:03:14"
+    },
+    {
+      "id": "capital:1183878",
+      "fid": "1183878",
+      "interval": "this_week",
+      "date": "2026-08-17",
+      "time": "15:00",
+      "datetime": "2026-08-17 15:00:00",
+      "display_time": "08/17 15:00",
+      "country": "中國",
+      "title": "中國7月今年迄今城鎮固定資產投資同比",
+      "importance": 1,
+      "previous": "-5.7 %",
+      "forecast": "-6 %",
+      "actual": "-6.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183878",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "-5.7",
+          "forecast": "-4.9",
+          "previous": "-4.1"
+        },
+        {
+          "date": "06/16",
+          "actual": "-4.1",
+          "forecast": "-2",
+          "previous": "-1.6"
+        },
+        {
+          "date": "05/18",
+          "actual": "-1.6",
+          "forecast": "1.6",
+          "previous": "1.7"
+        },
+        {
+          "date": "04/16",
+          "actual": "1.7",
+          "forecast": "1.9",
+          "previous": "1.8"
+        },
+        {
+          "date": "03/16",
+          "actual": "1.8",
+          "forecast": "-2.1",
+          "previous": "-3.8"
+        },
+        {
+          "date": "01/19",
+          "actual": "-3.8",
+          "forecast": "-3",
+          "previous": "-2.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-17 15:01:25"
+    },
+    {
+      "id": "capital:1183879",
+      "fid": "1183879",
+      "interval": "this_week",
+      "date": "2026-08-17",
+      "time": "15:00",
+      "datetime": "2026-08-17 15:00:00",
+      "display_time": "08/17 15:00",
+      "country": "中國",
+      "title": "中國7月城鎮調查失業率",
+      "importance": 1,
+      "previous": "5 %",
+      "forecast": "-- %",
+      "actual": "5.2 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183879",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "5",
+          "forecast": "5.1",
+          "previous": "5.1"
+        },
+        {
+          "date": "06/16",
+          "actual": "5.1",
+          "forecast": "5.2",
+          "previous": "5.2"
+        },
+        {
+          "date": "05/18",
+          "actual": "5.2",
+          "forecast": "5.3",
+          "previous": "5.4"
+        },
+        {
+          "date": "04/16",
+          "actual": "5.4",
+          "forecast": "-",
+          "previous": "5.3"
+        },
+        {
+          "date": "03/16",
+          "actual": "5.3",
+          "forecast": "5.1",
+          "previous": "-"
+        },
+        {
+          "date": "01/19",
+          "actual": "5.1",
+          "forecast": "5.2",
+          "previous": "5.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-17 15:01:25"
+    },
+    {
+      "id": "capital:1183876",
+      "fid": "1183876",
+      "interval": "this_week",
+      "date": "2026-08-17",
+      "time": "15:00",
+      "datetime": "2026-08-17 15:00:00",
+      "display_time": "08/17 15:00",
+      "country": "中國",
+      "title": "中國7月社會消費品零售總額同比",
+      "importance": 2,
+      "previous": "1 %",
+      "forecast": "1.5 %",
+      "actual": "0.6 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183876",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "1",
+          "forecast": "-0.1",
+          "previous": "-0.6"
+        },
+        {
+          "date": "06/16",
+          "actual": "-0.6",
+          "forecast": "0",
+          "previous": "0.2"
+        },
+        {
+          "date": "05/18",
+          "actual": "0.2",
+          "forecast": "2",
+          "previous": "1.7"
+        },
+        {
+          "date": "04/16",
+          "actual": "1.7",
+          "forecast": "2.3",
+          "previous": "-"
+        },
+        {
+          "date": "03/16",
+          "actual": "2.8",
+          "forecast": "2.5",
+          "previous": "0.9"
+        },
+        {
+          "date": "01/19",
+          "actual": "0.9",
+          "forecast": "1.2",
+          "previous": "1.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-17 15:01:25"
+    },
+    {
+      "id": "capital:1183877",
+      "fid": "1183877",
+      "interval": "this_week",
+      "date": "2026-08-17",
+      "time": "15:00",
+      "datetime": "2026-08-17 15:00:00",
+      "display_time": "08/17 15:00",
+      "country": "中國",
+      "title": "中國7月規模以上工業增加值同比",
+      "importance": 2,
+      "previous": "5.3 %",
+      "forecast": "4.8 %",
+      "actual": "4.5 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183877",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "5.3",
+          "forecast": "4.7",
+          "previous": "4.5"
+        },
+        {
+          "date": "06/16",
+          "actual": "4.5",
+          "forecast": "4.3",
+          "previous": "4.1"
+        },
+        {
+          "date": "05/18",
+          "actual": "4.1",
+          "forecast": "5.9",
+          "previous": "5.7"
+        },
+        {
+          "date": "04/16",
+          "actual": "5.7",
+          "forecast": "5.5",
+          "previous": "-"
+        },
+        {
+          "date": "03/16",
+          "actual": "6.3",
+          "forecast": "5",
+          "previous": "5.2"
+        },
+        {
+          "date": "01/19",
+          "actual": "5.2",
+          "forecast": "5",
+          "previous": "4.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-17 15:01:25"
     },
     {
       "id": "capital:1174624",

@@ -1,7 +1,171 @@
 {
-  "updated": "2026-08-17 14:56:49",
-  "count": 15152,
+  "updated": "2026-08-17 15:01:19",
+  "count": 15157,
   "items": [
+    {
+      "id": "mkt:01a00e85-5b5d-7aab-9058-9c805dce10e4",
+      "time": "2026-08-17 15:00:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's July urban surveyed unemployment rate rose to 5.2% from 5.0% in June."
+    },
+    {
+      "id": "mkt:01a00e85-4d31-7aab-9058-9223d850a45c",
+      "time": "2026-08-17 15:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China urban fixed-asset investment Jan-Jul YoY -6.7% (consensus -6.0%, prior -5.7%)."
+    },
+    {
+      "id": "mkt:01a00e85-4560-7aab-9058-8b17dac89239",
+      "time": "2026-08-17 15:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's July industrial value added at firms above designated size rose 4.5% YoY, below consensus 4.8% and down from 5.3% in June."
+    },
+    {
+      "id": "mkt:01a00e85-44f9-7aab-9058-80e55a02eec5",
+      "time": "2026-08-17 15:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China retail sales, July YoY 0.6% (consensus 1.5%, June 1.0%)."
+    },
+    {
+      "id": "5043642",
+      "time": "2026-08-17 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲10.89%，乙二醇連續漲6.12%，丁二烯橡膠連續漲4.48%，純苯連續漲4.32%，對二甲苯連續漲3.71%，苯乙烯連續漲3.49%，PTA連續漲3.37%，鉑連續漲3.37%，瓶片連續漲3.30%，甲醇連續漲3.09%。"
+    },
+    {
+      "id": "5043641",
+      "time": "2026-08-17 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲2.74%， 滬深300指數期貨連續漲1.65%， 中證500指數期貨連續漲2.65%， 上證50指數期貨連續漲1.00%。"
+    },
+    {
+      "id": "5043640",
+      "time": "2026-08-17 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.53%，英國富時100指數跌0.21%，法國CAC40指數跌0.16%，歐洲斯托克50指數跌0.09%，義大利富時MIB指數跌0.2%。"
+    },
+    {
+      "id": "mkt:01a00e85-20a3-7aab-9058-738b5744c050",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (Jul) | actual 5.2% | previous 5.00%"
+    },
+    {
+      "id": "mkt:01a00e85-20a4-7aab-9058-7a49b2bb538c",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (Jul) | actual 0.6% | consensus 1.50% | previous 1.00%"
+    },
+    {
+      "id": "mkt:01a00e85-204c-7aab-9058-6fe60d994469",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment YTD (YoY) (Jul) | actual -6.7% | consensus -6% | previous -5.70%"
+    },
+    {
+      "id": "mkt:01a00e85-1eec-7aab-9058-619172330991",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (YoY) (Jul) | actual 4.5% | consensus 4.8% | previous 5.30%"
+    },
+    {
+      "id": "mkt:01a00e84-acba-7aab-9058-594b6e7c49eb",
+      "time": "2026-08-17 14:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container freight index (Europe route) lead contract rose more than 11.00% intraday to 1,764.0 points."
+    },
+    {
+      "id": "5043639",
+      "time": "2026-08-17 14:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：由滙豐銀行支援的機器人公司星動紀元正在考慮在香港上市。"
+    },
+    {
+      "id": "5043638",
+      "time": "2026-08-17 14:58:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲11%，現報1764.00點。"
+    },
+    {
+      "id": "5043636",
+      "time": "2026-08-17 14:57:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓民防局：持續強降雨已致500多萬人受災】菲律賓民防局17日通報說，因近期持續強降雨及其引發的洪水、山體滑坡等災害，截至當天，菲律賓全國受災人數已達508萬人，大量建築物受損。 據通報，目前菲律賓全國有10個行政大區受到嚴重影響，受災家庭超過145萬戶，大部分集中在呂宋島。位於中部的米沙鄢群島和南部的棉蘭老島也有部分地區受災嚴重。 （新華社）"
+    },
+    {
+      "id": "mkt:01a00e82-8797-7aab-9058-565620b7205a",
+      "time": "2026-08-17 14:57:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "GOOGL.O"
+      ],
+      "text": "【TrendForce: Liquid cooling becoming standard for high-end AI infrastructure; 53% AI-chip penetration by 2026】TrendForce said in a new AI server industry report that rapid iteration of AI chips led by NVIDIA, AMD and Google has pushed single-chip thermal design power (TDP) above 1 kW and driven cabinet-level power to hundreds of kW, making liquid cooling progressively standard for high-end AI infrastructure. TrendForce projects liquid-cooling penetration in AI chips will reach 53% in 2026 and approach 60% in 2027."
+    },
+    {
+      "id": "5043635",
+      "time": "2026-08-17 14:56:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年8月票房破35億】據貓眼專業版資料，2026年8月總票房破35億，《歡迎來龍餐館》《蜘蛛俠：嶄新之日》《八仙！》分列8月票房榜前三位。"
+    },
     {
       "id": "5043634",
       "time": "2026-08-17 14:56:11",
@@ -138514,120 +138678,6 @@
         "A股"
       ],
       "text": "【收評：滬指高開高走漲0.67%，醫療服務、能源金屬、養雞板塊漲幅居前】A股三大指數收盤漲跌不一，截至收盤，上證指數漲0.67%，深證成指漲0.04%，創業板指跌0.73%，北證50跌1%，科創50指數跌0.36%。全市場成交額25387億元，較上日縮量1447億元，全市場超4000只個股上漲。板塊題材上，兵裝重組概念、能源金屬、醫療服務、貴金屬、養雞、豬肉板塊漲幅居前；CPO、元件、通訊裝置、保險、AI PC板塊跌幅居前。盤面上，豬肉板塊全天強勢，益生股份漲停，大禹生物、天域生物、神農集團漲幅居前。影視院線板塊午後衝高，儒意電影、北京文化漲停，華智數媒、幸福藍海、博納影業漲幅居前。小金屬板塊臨近尾盤走高，翔鷺鎢業漲停，中鎢高新、西部材料、章源鎢業漲幅居前。CPO板塊全天水下震盪，長盈通、武漢凡谷、泰金新能、炬光科技、光迅科技跌幅居前。元件板塊表現疲軟，威爾高、迅捷興、生益電子跌幅居前。"
-    },
-    {
-      "id": "te:markets:574052",
-      "time": "2026-08-10 15:01:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Natural Gas Prices Advance — UK natural gas prices rose above 140 pence per therm on Monday, recovering part of the losses from the previous week amid uncertainty over the normalization of shipping through the Strait of Hormuz. Iran and Oman remained short of a final agreement over the weekend after Tehran renewed a lengthy list of demands for Washington as conditions for a full reopening of the strategic waterway, indicating any immediate relief for gas supplies could remain limited. Although Iran indicated that a deal was close, it cautioned that this did not mean the strait would reopen imminently, while again ruling out any direct negotiations with the US. With a deal still elusive, disruptions to LNG shipments through the key waterway are likely to persist, delaying cargoes from major exporters such as Qatar. The ongoing delays have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts."
-    },
-    {
-      "id": "mkt:019fea79-adb0-7aab-8fd3-6e35ebdb9303",
-      "time": "2026-08-10 15:01:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "At the midday close, China’s most-active futures were mixed. SHFE silver and soda ash rose over 3%; lithium carbonate and SHFE gold gained over 2%. Propylene, fuel oil, benzene and coking coal advanced more than 1.4%. Container shipping Europe route tumbled over 4%; polysilicon fell over 2%; PTA dropped nearly 2%."
-    },
-    {
-      "id": "5033419",
-      "time": "2026-08-10 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.67%，深證成指漲0.04%，創業板指跌0.73%。"
-    },
-    {
-      "id": "5033418",
-      "time": "2026-08-10 15:00:27",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "日月光投控：7月銷售額737.8億元新臺幣，同比增長43.2%。"
-    },
-    {
-      "id": "5033417",
-      "time": "2026-08-10 15:00:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1608億元。"
-    },
-    {
-      "id": "5033416",
-      "time": "2026-08-10 15:00:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指收盤基本持平，報6289.21點。"
-    },
-    {
-      "id": "5033415",
-      "time": "2026-08-10 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】集運指數歐線期貨連續跌4.49%，白銀連續漲3.34%，純鹼連續漲3.21%，碳酸鋰連續漲2.85%，多晶矽連續跌2.52%。"
-    },
-    {
-      "id": "5033414",
-      "time": "2026-08-10 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.58%， 滬深300指數期貨連續漲0.19%， 中證500指數期貨連續漲0.33%， 上證50指數期貨連續漲0.39%。"
-    },
-    {
-      "id": "5033413",
-      "time": "2026-08-10 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普漲，德國DAX指數漲0.69%，英國富時100指數漲0.31%，法國CAC40指數漲0.17%，歐洲斯托克50指數漲0.33%，義大利富時MIB指數漲0.06%。"
-    },
-    {
-      "id": "mkt:019fea76-c812-7aab-8fd3-63962e0d089f",
-      "time": "2026-08-10 14:58:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's prime minister Netanyahu said he will not establish a Palestinian state while he remains in office, neither in Gaza nor in the West Bank."
-    },
-    {
-      "id": "5033412",
-      "time": "2026-08-10 14:57:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：只要我還是總理，就不會建立任何巴勒斯坦國——無論是在加沙還是約旦河西岸。"
-    },
-    {
-      "id": "5033411",
-      "time": "2026-08-10 14:57:29",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【SK海力士回應“考慮出售重慶工廠”傳聞：尚未確定任何事項】8月10日，SK海力士就“4萬億韓元規模中國重慶工廠推進出售”的市場傳聞釋出公告稱，公司正在研究多種提升封裝業務競爭力的方案，但截至目前尚未確定任何具體事項。SK海力士表示，若未來相關事項確定，將在確定之日起或一個月內再次披露。此前，據中新經緯援引彭博社報道，有知情人士透露，韓國SK海力士正在考慮其位於中國重慶的工廠的多種處置方案，包括引進投資者以加速業務增長。上述人士稱，潛在的股權出售對該工廠的估值可能約為30億美元（約4.2萬億韓元）。（介面新聞）"
     }
   ]
 }

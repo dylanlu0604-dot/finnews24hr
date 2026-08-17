@@ -1,7 +1,171 @@
 {
   "date": "2026-08-17",
-  "count": 1077,
+  "count": 1094,
   "items": [
+    {
+      "id": "mkt:01a00e85-5b5d-7aab-9058-9c805dce10e4",
+      "time": "2026-08-17 15:00:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's July urban surveyed unemployment rate rose to 5.2% from 5.0% in June."
+    },
+    {
+      "id": "mkt:01a00e85-4d31-7aab-9058-9223d850a45c",
+      "time": "2026-08-17 15:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China urban fixed-asset investment Jan-Jul YoY -6.7% (consensus -6.0%, prior -5.7%)."
+    },
+    {
+      "id": "mkt:01a00e85-4560-7aab-9058-8b17dac89239",
+      "time": "2026-08-17 15:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's July industrial value added at firms above designated size rose 4.5% YoY, below consensus 4.8% and down from 5.3% in June."
+    },
+    {
+      "id": "mkt:01a00e85-44f9-7aab-9058-80e55a02eec5",
+      "time": "2026-08-17 15:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China retail sales, July YoY 0.6% (consensus 1.5%, June 1.0%)."
+    },
+    {
+      "id": "5043642",
+      "time": "2026-08-17 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲10.89%，乙二醇連續漲6.12%，丁二烯橡膠連續漲4.48%，純苯連續漲4.32%，對二甲苯連續漲3.71%，苯乙烯連續漲3.49%，PTA連續漲3.37%，鉑連續漲3.37%，瓶片連續漲3.30%，甲醇連續漲3.09%。"
+    },
+    {
+      "id": "5043641",
+      "time": "2026-08-17 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲2.74%， 滬深300指數期貨連續漲1.65%， 中證500指數期貨連續漲2.65%， 上證50指數期貨連續漲1.00%。"
+    },
+    {
+      "id": "5043640",
+      "time": "2026-08-17 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.53%，英國富時100指數跌0.21%，法國CAC40指數跌0.16%，歐洲斯托克50指數跌0.09%，義大利富時MIB指數跌0.2%。"
+    },
+    {
+      "id": "mkt:01a00e85-20a4-7aab-9058-7a49b2bb538c",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (Jul) | actual 0.6% | consensus 1.50% | previous 1.00%"
+    },
+    {
+      "id": "mkt:01a00e85-20a3-7aab-9058-738b5744c050",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (Jul) | actual 5.2% | previous 5.00%"
+    },
+    {
+      "id": "mkt:01a00e85-204c-7aab-9058-6fe60d994469",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment YTD (YoY) (Jul) | actual -6.7% | consensus -6% | previous -5.70%"
+    },
+    {
+      "id": "mkt:01a00e85-1eec-7aab-9058-619172330991",
+      "time": "2026-08-17 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (YoY) (Jul) | actual 4.5% | consensus 4.8% | previous 5.30%"
+    },
+    {
+      "id": "mkt:01a00e84-acba-7aab-9058-594b6e7c49eb",
+      "time": "2026-08-17 14:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container freight index (Europe route) lead contract rose more than 11.00% intraday to 1,764.0 points."
+    },
+    {
+      "id": "5043639",
+      "time": "2026-08-17 14:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：由滙豐銀行支援的機器人公司星動紀元正在考慮在香港上市。"
+    },
+    {
+      "id": "5043638",
+      "time": "2026-08-17 14:58:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲11%，現報1764.00點。"
+    },
+    {
+      "id": "5043636",
+      "time": "2026-08-17 14:57:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓民防局：持續強降雨已致500多萬人受災】菲律賓民防局17日通報說，因近期持續強降雨及其引發的洪水、山體滑坡等災害，截至當天，菲律賓全國受災人數已達508萬人，大量建築物受損。 據通報，目前菲律賓全國有10個行政大區受到嚴重影響，受災家庭超過145萬戶，大部分集中在呂宋島。位於中部的米沙鄢群島和南部的棉蘭老島也有部分地區受災嚴重。 （新華社）"
+    },
+    {
+      "id": "mkt:01a00e82-8797-7aab-9058-565620b7205a",
+      "time": "2026-08-17 14:57:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "GOOGL.O"
+      ],
+      "text": "【TrendForce: Liquid cooling becoming standard for high-end AI infrastructure; 53% AI-chip penetration by 2026】TrendForce said in a new AI server industry report that rapid iteration of AI chips led by NVIDIA, AMD and Google has pushed single-chip thermal design power (TDP) above 1 kW and driven cabinet-level power to hundreds of kW, making liquid cooling progressively standard for high-end AI infrastructure. TrendForce projects liquid-cooling penetration in AI chips will reach 53% in 2026 and approach 60% in 2027."
+    },
+    {
+      "id": "5043635",
+      "time": "2026-08-17 14:56:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年8月票房破35億】據貓眼專業版資料，2026年8月總票房破35億，《歡迎來龍餐館》《蜘蛛俠：嶄新之日》《八仙！》分列8月票房榜前三位。"
+    },
     {
       "id": "5043634",
       "time": "2026-08-17 14:56:11",
