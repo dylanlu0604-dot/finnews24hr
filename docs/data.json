@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18 01:27:34",
+  "updated": "2026-08-18 01:31:26",
   "count": 15263,
   "items": [
+    {
+      "id": "te:markets:575921",
+      "time": "2026-08-18 01:28:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%."
+    },
+    {
+      "id": "5044679",
+      "time": "2026-08-18 01:27:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報83.10美元/桶。"
+    },
     {
       "id": "mkt:01a010c3-19be-7aab-9067-46a57a40c78c",
       "time": "2026-08-18 01:26:56",
@@ -139825,26 +139845,6 @@
         "其他"
       ],
       "text": "巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。"
-    },
-    {
-      "id": "mkt:019fecb9-2238-7aab-8fde-6348ab3fb587",
-      "time": "2026-08-11 01:29:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Barclays maintains Brent price forecasts at $96/bbl for 2026 and $85/bbl for 2027."
-    },
-    {
-      "id": "5034474",
-      "time": "2026-08-11 01:28:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍非洲司令部證實8月9日一架軍機在吉布提墜毀。"
     }
   ]
 }

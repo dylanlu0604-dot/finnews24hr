@@ -1,7 +1,27 @@
 {
   "date": "2026-08-18",
-  "count": 97,
+  "count": 99,
   "items": [
+    {
+      "id": "te:markets:575921",
+      "time": "2026-08-18 01:28:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%."
+    },
+    {
+      "id": "5044679",
+      "time": "2026-08-18 01:27:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報83.10美元/桶。"
+    },
     {
       "id": "mkt:01a010c3-19be-7aab-9067-46a57a40c78c",
       "time": "2026-08-18 01:26:56",
