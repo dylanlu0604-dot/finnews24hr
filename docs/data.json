@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-17 13:25:36",
+  "updated": "2026-08-17 13:29:25",
   "count": 15190,
   "items": [
+    {
+      "id": "mkt:01a00e31-ca70-7aab-9057-3949e5dbe3e3",
+      "time": "2026-08-17 13:28:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analyst: Iran conflict and yen appreciation pose double shock to Japanese automakers】Japanese automakers face a double shock from the Iran conflict and a strengthening yen that could reverse recent currency-driven gains, analysts say. Toyota and Honda have raised full-year guidance and Nissan returned to profit after two years on a weak yen, but Morningstar senior analyst Vincent Sun warns yen appreciation will force firms to choose between overseas price hikes that risk market share or margin compression from currency translation. Bernstein estimates a 1% yen appreciation typically cuts Japanese carmakers' operating profit by about 2%, with some firms seeing up to a 4% hit. Continued Middle East conflict could push up costs for napatha, resins, aluminium, copper, steel and chips and raise shipping risks through the Strait of Hormuz and the Red Sea, further squeezing margins and earnings outlooks."
+    },
+    {
+      "id": "5043530",
+      "time": "2026-08-17 13:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "受供應緊張影響，銅現貨‑三月期價差飆升至500美元以上。"
+    },
+    {
+      "id": "5043529",
+      "time": "2026-08-17 13:25:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本多地欲申請成為“副首都”】據共同社8月14日報道，其調查獲悉，在日本“副首都”構想相關法正式成為法律後，已經有7個道府縣開始研究申請成為副首都。“副首都”構想相關法旨在當發生大規模災害時分散首都功能，緩解經濟過度集中於首都圈的問題。 報道指出，也有不少地方政府以指定條件“不明確”為由，對設立副首都持保留態度。該法律還規定設立區別於副首都的“首都中樞功能替代區域”，在東京都遭遇災害時分擔一部分首都的職能。 （參考訊息）"
+    },
+    {
+      "id": "5043528",
+      "time": "2026-08-17 13:25:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商湯科技上半年預盈5億至7億元 盤中大漲超12%】8月17日，商湯科技股價大幅拉昇，早盤最高漲幅達12.46%。記者注意到，商湯近日釋出正面盈利預警，預計2026年上半年錄得約5億至7億元期內利潤。"
+    },
     {
       "id": "mkt:01a00e2e-2bfe-7aab-9057-3719e264631a",
       "time": "2026-08-17 13:25:01",
@@ -431,6 +464,14 @@
         "市場"
       ],
       "text": "【光伏裝置板塊走高，聚合材料漲停】光伏裝置板塊走高，聚合材料漲停，華民股份逼近漲停，帝科股份、奧特維、宇邦新材、正泰電源跟漲。"
+    },
+    {
+      "id": "5043498",
+      "time": "2026-08-17 13:03:05",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告：國新辦就激發下沉市場活力活躍縣域消費有關情況舉行新聞釋出會】據中國網8月17日訊息，國務院新聞辦公室定於2026年8月18日（星期二）下午3時舉行新聞釋出會，請商務部部長助理袁曉明和農業農村部、文化和旅遊部、市場監管總局有關負責人介紹激發下沉市場活力活躍縣域消費有關情況，並答記者問。"
     },
     {
       "id": "mkt:01a00e19-e5e0-7aab-9056-b30f6f1ab30c",
@@ -138931,58 +138972,6 @@
         "國際"
       ],
       "text": "【李在明呼籲迅速推進Honam半導體產業叢集的建設】韓國總統李在明在主持召開會議審查該超級專案的進展時，呼籲迅速推進Honam半導體產業叢集的建設。他表示，Honam晶片叢集的建設應像日本熊本半導體樞紐那樣迅速推進。他呼籲採取措施，以便儘早啟用光州軍用機場原址用於該晶片叢集專案；同時，電力和供水計劃必須在不發生中斷的情況下提前做好準備。"
-    },
-    {
-      "id": "mkt:019fea25-66f4-7aab-8fd1-f1b3c1e5323f",
-      "time": "2026-08-10 13:29:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Reserve Bank of India may have intervened to support rupee】Four traders said the Reserve Bank of India may have intervened in the FX market on Monday to support the rupee amid persistent uncertainty from the Middle East conflict. Traders said the RBI has been intervening frequently in recent sessions, apparently to consolidate the rupee’s rebound since late July from near-record lows. They observed state-owned banks selling dollars, likely on behalf of the RBI."
-    },
-    {
-      "id": "5033288",
-      "time": "2026-08-10 13:27:04",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "經濟學家們推遲了對瑞士央行加息時點的預期，目前預計最早也要到明年6月之後才會加息。"
-    },
-    {
-      "id": "mkt:019fea22-ce01-7aab-8fd1-eb193342b1f2",
-      "time": "2026-08-10 13:26:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【JP Morgan raises year-end S&P 500 target to 8,000】JP Morgan on Monday raised its year-end S&P 500 target to 8,000, citing strong corporate profits and signs that major cloud providers' AI spending will soon accelerate revenue growth. The new target implies roughly 3.12% upside from the S&P's close at 7,757.64 last Friday."
-    },
-    {
-      "id": "mkt:019fea22-cce1-7aab-8fd1-e2f93383f972",
-      "time": "2026-08-10 13:26:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Interfax reports Kazakhstan is considering using the Baku-Tbilisi-Ceyhan (BTC) and Baku-Supsa oil pipelines, and trans-Caspian transport routes via Azerbaijan, as additional crude export routes to respond to a disruption of Caspian Pipeline Consortium (CPC) operations."
-    },
-    {
-      "id": "5033287",
-      "time": "2026-08-10 13:25:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克正考慮將 BTC 輸油管線、巴庫-蘇普薩輸油管線以及經亞塞拜然的跨裡海運輸作為補充石油出口路線，以應對裡海石油管道財團（CPC）運營中斷的影響。"
     }
   ]
 }
