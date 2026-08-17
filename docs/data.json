@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-17 19:34:40",
-  "count": 15247,
+  "updated": "2026-08-17 19:38:35",
+  "count": 15251,
   "items": [
+    {
+      "id": "5044284",
+      "time": "2026-08-17 19:37:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "SNAP盤前股價跌幅收窄至5%，此前一度下跌16%。"
+    },
+    {
+      "id": "5044283",
+      "time": "2026-08-17 19:36:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST準油：上半年淨虧損1868.96萬元】*ST準油(002207)8月17日披露半年報，2026年上半年，公司實現營業收入1.57億元，同比增長28.85%；歸屬於上市公司股東的淨利潤虧損1868.96萬元，上年同期虧損1892.79萬元。"
+    },
+    {
+      "id": "mkt:01a00f82-4af1-7aab-905f-b22136ef598f",
+      "time": "2026-08-17 19:36:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV, citing sources, reported armed factions had planned to use a drone to assassinate Faiq Zidan, chairman of Iraq's Supreme Judicial Council."
+    },
+    {
+      "id": "5044282",
+      "time": "2026-08-17 19:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德科立：擬使用剩餘超募資金投建研發測試平臺專案】德科立公告稱，截至2026年6月30日，公司剩餘超募資金2605.40萬元，擬全部投入總投資額2750萬元的光通訊高階器件研發測試平臺專案，剩餘144.60萬元資金由公司自籌。該專案建設週期為12個月，不涉及關聯交易，不構成重大資產重組，已完成專案備案，尚需提交公司股東會審議。"
+    },
+    {
+      "id": "5044281",
+      "time": "2026-08-17 19:36:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德科立：2026年上半年淨利潤9825.56萬元，同比增長249.74%】德科立公告，2026年上半年營業收入5.45億元，同比增長25.78%。歸屬於上市公司股東的淨利潤9825.56萬元，同比增長249.74%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2220.1萬元，同比增長16.17%。公司擬向全體股東每10股派發現金紅利1元（含稅）。"
+    },
+    {
+      "id": "5044280",
+      "time": "2026-08-17 19:36:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克庫區政府總理辦公室遭無人機襲擊】伊拉克庫爾德自治區（庫區）政府總理馬斯魯爾·巴爾扎尼17日在社交媒體發文稱，其私人辦公室和庫區安全情報局局長的住所當天遭到伊朗無人機襲擊。巴爾扎尼對襲擊行為予以強烈譴責。他說，此舉是危險的局勢升級，直接威脅庫區的安全與穩定。近日，伊拉克庫區頻遭無人機襲擊。（新華社）"
+    },
+    {
+      "id": "mkt:01a00f81-840b-7aab-905f-aa3bf461d8d9",
+      "time": "2026-08-17 19:35:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Saudi state TV, citing sources, reports Israeli Prime Minister Benjamin Netanyahu told US envoy Jared Kushner the IDF will only withdraw from Gaza after Hamas is fully disarmed. Netanyahu asked Kushner and the Gaza Peace Committee’s Gaza-based envoy to provide assurances on Hamas’s credibility regarding disarmament and to cut off Hamas’s funding sources."
+    },
+    {
+      "id": "5044279",
+      "time": "2026-08-17 19:35:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿爾蒙蒂股價盤前上漲4.6%，此前公司宣佈一項最高達3億美元的新股回購計劃。"
+    },
+    {
+      "id": "5044278",
+      "time": "2026-08-17 19:34:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北部灣港：2026年上半年淨利潤5.58億元同比增5.09%】北部灣港公告，2026年上半年營業收入35.86億元，同比增長0.84%；歸母淨利潤5.58億元，同比增長5.09%；扣非淨利潤4.56億元，同比下降3.46%。公司擬每10股派發現金紅利0.78元（含稅）。"
+    },
+    {
+      "id": "5044277",
+      "time": "2026-08-17 19:34:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張家界：2026年半年度營收2.12億元 淨利同比增超10倍】張家界公告稱，2026年半年度實現營收2.12億元，同比增長9.34%；歸母淨利潤3.08億元，同比增長1026.80%；扣非淨虧損1965.94萬元，同比減虧40.73%。報告期內公司接待購票遊客325.84萬人，同比增長9.09%，本次半年度不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
     {
       "id": "5044276",
       "time": "2026-08-17 19:33:53",
@@ -139538,66 +139624,6 @@
         "其他"
       ],
       "text": "【馬裡軍方稱打死50餘名恐怖分子】當地時間8月10日，馬裡武裝部隊總參謀部釋出通告稱，8月9日凌晨，大批恐怖分子對馬裡武裝部隊第23步兵團駐地發動突襲。駐守部隊迅速展開協同反擊，接連擊退多輪進攻，最終奪回營地控制權。經初步核查，已有50餘名恐怖分子被打死。截至通告發布時，馬裡軍方仍在事發區域持續搜捕追擊逃竄的恐怖分子。（央視新聞）"
-    },
-    {
-      "id": "5034039",
-      "time": "2026-08-10 19:38:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中晟高科：擬設兩全資子公司投建新專案，合計出資5000萬元】中晟高科公告，公司擬以自有資金或自籌資金出資3000萬元在福清市江陰鎮設立全資子公司“景晟(福建)新材料有限公司”，投資建設“景晟（福建）新材料聚丙烯深加工專案”；擬以實物及現金出資2000萬元在福州市羅源縣設立全資子公司“福建晟灝新材料有限公司”，投資建設“高分子新材料專案”。兩個專案均從事改性塑膠新材料領域生產與銷售，投資總額分別為5000萬元和3500萬元，資金來源為自有資金。"
-    },
-    {
-      "id": "mkt:019feb77-26e8-7aab-8fd8-374b6e1a6c18",
-      "time": "2026-08-10 19:38:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【40°C heat returns to Europe: rivers critical, wildfire risk high, power grids under strain】A fresh heatwave will sweep drought-hit Europe this week, raising wildfire risk, threatening crops and further depleting already record-low river levels. France’s weather service expects a high-pressure heat dome to push northern France toward 40°C on Tuesday; southern UK around 35°C; Frankfurt may reach 38°C on Friday. The heat could block moisture-bearing clouds and hinder replenishment of major waterways — the Rhine, Po and Danube — whose low flows have already disrupted navigation and power generation. Higher temperatures and continued dryness are adding stress to grids, cutting hydropower output and suppressing agricultural yields; EU Joint Research Centre models show elevated fire risk this week across the UK, Spain, France, Germany and Italy."
-    },
-    {
-      "id": "mkt:019feb75-3b3f-7aab-8fd8-2d58ae7df2c1",
-      "time": "2026-08-10 19:35:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "LLY.N",
-        "Impact bullish"
-      ],
-      "text": "UK approves Eli Lilly (LLY.N) drug FOUNDAYO for weight management and treatment of type 2 diabetes."
-    },
-    {
-      "id": "5034038",
-      "time": "2026-08-10 19:35:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博睿資料：持股5%以上股東孟曦東及其一致行動人減持股份】博睿資料公告稱，2026年8月4日至8月5日元亨利匯透過集中競價累計減持193,390股，佔總股本0.44%；8月10日孟曦東透過大宗交易減持441,000股，佔總股本0.99%。本次權益變動後，孟曦東及其一致行動人合計持股比例由10.00%降至8.57%。此次減持系履行已披露計劃，不會導致控股股東及實控人變化，不觸及要約收購等。"
-    },
-    {
-      "id": "5034037",
-      "time": "2026-08-10 19:35:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國批准禮來的 Foundayo 用於體重管理及 2 型糖尿病治療。"
-    },
-    {
-      "id": "5034036",
-      "time": "2026-08-10 19:34:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外交部：奉勸美方儘早解除對古巴的制裁封鎖 不要一再向他人“潑髒水”】8月10日外交部發言人郭嘉昆答記者問。據報道，美國最近再次以中俄與古巴的軍事合作為藉口，對更多古巴公司和個人實施制裁。中方如何看待這些新的單邊制裁，以及美方試圖干涉中國與古巴正常合作的行徑？郭嘉昆表示，中方已經多次就有關問題闡明立場。我們奉勸美方儘早解除對古巴的制裁封鎖，不要一再向他人“潑髒水”。中古合作光明正大，中方將繼續堅定支援古巴維護國家主權、反對外來干涉。（央視新聞）"
     }
   ]
 }
