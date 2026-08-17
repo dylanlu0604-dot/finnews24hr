@@ -1,7 +1,95 @@
 {
   "date": "2026-08-17",
-  "count": 369,
+  "count": 379,
   "items": [
+    {
+      "id": "5043154",
+      "time": "2026-08-17 09:07:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4410美元/盎司，日內漲0.79%。"
+    },
+    {
+      "id": "5043153",
+      "time": "2026-08-17 09:06:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達利凱普：公司產品未應用於光模組領域】達利凱普(301566)在互動平臺表示，截至目前，公司產品未應用於光模組領域。"
+    },
+    {
+      "id": "mkt:01a00d41-2128-7aab-9052-6aa4397c0271",
+      "time": "2026-08-17 09:06:07",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【Beijing summons 20 children's bedding makers over hazardous substances and safety defects】Beijing Municipal Market Supervision Administration said the Beijing Consumers Association, citing Article 40 of the Implementing Regulations of the PRC Law on the Protection of Consumer Rights and Interests, summoned 20 children's bedding manufacturers after comparative tests found safety defects and breaches including unrounded edges, exposed sharp points, non‑compliant holes and gaps, excessively long cords, missing warning labels and levels of harmful substances above regulatory limits. Companies were ordered to immediately stop sales of affected products, carry out comprehensive self-inspections against national standards and establish long‑term quality control mechanisms."
+    },
+    {
+      "id": "5043152",
+      "time": "2026-08-17 09:05:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方達：公司金剛石散熱片已透過客戶測試 並進入小批次供貨階段】四方達8月17日在互動平臺表示，公司金剛石散熱片已透過客戶測試，驗證進展符合預期，並進入小批次供貨階段。"
+    },
+    {
+      "id": "5043151",
+      "time": "2026-08-17 09:05:38",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：預計貴州茅臺下半年銷售將重新加速 投資者情緒或已觸底】花旗稱，貴州茅臺看起來疲弱的二季度銷售和淨利潤資料很大程度上受到向直銷模式（DTC）轉型而失真，預計下半年公司銷售將重新加速，重申對公司的買入評級。分析師Xiaopo Wei等在報告中指出，直銷模式放大了銷售的季節性波動，尤其是在傳統淡季的第二季度。鑑於茅臺已於7月18日實施第二輪提價，公司有動力將部分庫存供應從第二季度轉移至第三季度，且第三季度恰逢中秋節。隨著中央匯金和中證金公司二季度退出前十大股東名單，相信投資者的情緒已經觸底。"
+    },
+    {
+      "id": "5043150",
+      "time": "2026-08-17 09:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【產品有害物質超標等 20家兒童寢具生產企業被約談】今天，記者從北京市市場監督管理局瞭解到，近日，北京市消費者協會依據《中華人民共和國消費者權益保護法實施條例》第四十條，約談20家兒童寢具生產企業，通報近期比較試驗中部分產品存在邊緣未倒圓、銳利尖端突出、孔及間隙不合規、繩帶過長、警示標識缺失及有害物質超標等問題，並要求企業立即停售問題產品、對照國家標準全面自查、建立長效質量管控機制。"
+    },
+    {
+      "id": "5043148",
+      "time": "2026-08-17 09:04:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報5020.00元。"
+    },
+    {
+      "id": "5043147",
+      "time": "2026-08-17 09:04:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破66美元/盎司，日內漲1.40%。"
+    },
+    {
+      "id": "5043146",
+      "time": "2026-08-17 09:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【年內已有10家蘇企港股上市 募資總額超200億元】8月，勤浩醫藥第二次向港交所遞表；同月，已在A股上市多年的澤璟製藥，也向港交所遞交了上市申請。截至8月14日，江蘇今年共有10家企業在港交所上市，募資總額約202.26億港元，摺合人民幣173.9億元；同期，18家江蘇企業在A股上市，募資總額為149.7億元。從募資效率看，港股優勢明顯，平均單筆募資約20.23億港元，摺合人民幣17.39億元，約為A股平均單筆募資8.32億元的2.1倍。"
+    },
+    {
+      "id": "5043145",
+      "time": "2026-08-17 09:04:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報1685.00點。"
+    },
     {
       "id": "5043144",
       "time": "2026-08-17 09:02:47",
