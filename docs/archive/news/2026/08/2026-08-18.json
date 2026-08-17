@@ -1,7 +1,63 @@
 {
   "date": "2026-08-18",
-  "count": 11,
+  "count": 17,
   "items": [
+    {
+      "id": "te:markets:575911",
+      "time": "2026-08-18 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.38% Lower — The DAX Index fell 102 points or 0.38 percent on Monday to close at 26339 points. Leading the losses are Zalando (-3.90%), Adidas (-3.14%) and Beiersdorf (-2.66%). Top gainers were Deutsche Boerse (1.76%), Rheinmetall (1.30%) and Siemens Energy (1.29%)."
+    },
+    {
+      "id": "mkt:01a0107d-090a-7aab-9066-5ec30a007828",
+      "time": "2026-08-18 00:10:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanese president says UNIFIL presence in south Lebanon essential】On the 17th President Aoun welcomed parliament’s call to extend UNIFIL’s mandate in southern Lebanon, saying the force is essential for civilian security, close coordination with the Lebanese army and regional stability. He said extending the mandate is the preferred option; if that cannot be achieved, Lebanon seeks a framework to ensure international forces operate alongside and coordinate with the Lebanese army to fulfill their duties. Aoun noted Israel has opposed UNIFIL and has for nearly a year urged its withdrawal, while Lebanon presses for continued deployment."
+    },
+    {
+      "id": "5044632",
+      "time": "2026-08-18 00:10:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "初步計劃顯示：安哥拉10月份原油出口量預計為93.2萬桶/日。"
+    },
+    {
+      "id": "te:markets:575910",
+      "time": "2026-08-18 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.64% Lower — The CAC 40 Index dropped 55 points or 0.64 percent on Monday to close at 8582 points. Losses were led by Kering (-4.34%), Stellantis NV (-3.73%) and Saint-Gobain (-3.00%). Offsetting the fall, top gainers were STMicroelectronics (3.25%), Sanofi (1.17%) and Schneider Electric (0.66%)."
+    },
+    {
+      "id": "5044631",
+      "time": "2026-08-18 00:09:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黎巴嫩總統：聯黎部隊在黎南部的存在至關重要】當地時間17日，黎巴嫩總統奧恩對議會呼籲延長聯黎部隊在黎南部任務期限的倡議表示歡迎。奧恩表示，聯黎部隊在黎南部的存在至關重要，不僅能協助當地居民安居樂業，也有利於與黎軍隊密切協調、共同維護地區穩定。"
+    },
+    {
+      "id": "mkt:01a0107c-45c9-7aab-9066-57fe3152f6fc",
+      "time": "2026-08-18 00:09:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mitsubishi UFJ: Sustained, material decline in ultra-long JGB yields unlikely】German and Italian experience suggests a sustained, significant drop in ultra-long JGB yields is unlikely. If market concern that the BOJ is behind the curve abates, 30-year JGB yields may fall, but such declines are likely temporary. Fiscal worries that widen JGB ASW spreads can push ultra-long yields back up. Even with stable inflation expectations and ASW, uncertainty over the terminal BOJ policy rate can prevent a sustained downtrend—European 30-year yields rose until ECB rates topped out. Near term, easing BOJ-behind-the-curve fears could shave yields briefly, but year-end debate on the next fiscal-year budget and relatively rich JGB ASW versus peers argue against a durable, trend decline in ultra-long JGB yields."
+    },
     {
       "id": "te:markets:575909",
       "time": "2026-08-18 00:07:17",
