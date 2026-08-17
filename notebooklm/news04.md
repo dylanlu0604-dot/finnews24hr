@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:33:36_
-_本檔包含 2979 則快訊，約 604142 字_
+_更新時間：2026-08-18 06:57:16_
+_本檔包含 2983 則快訊，約 604341 字_
+
+---
+
+### 2026-08-13 12:47:52  #MKT News #Important #USDJPY #Impact bearish #DXY #EURUSD #Impact bullish
+
+Market sources: Japanese Prime Minister TAKAICHI is reported to support faster rate hikes by the Bank of Japan.
+
+---
+
+### 2026-08-13 12:47:19  #其他
+
+【世衛組織說剛果（金）埃博拉疫情傳播之快前所未有】世界衛生組織總幹事譚德塞12日說，剛果（金）本輪埃博拉疫情傳播速度之快前所未有，可能成為全球有記錄以來規模最大的埃博拉疫情。 “這已是有記錄以來第二大埃博拉疫情，傳播速度超過以往任何一次。”譚德塞當天在日內瓦舉行的例行記者會上說，“按照目前的發展速度，其規模可能超過2014年至2016年的西非埃博拉疫情。” 譚德塞說，剛果（金）已累計報告埃博拉確診病例4449例，死亡2061例，防控工作一直處於被動追趕狀態。最令人擔憂的是，較高比例的死亡病例出現在社群，既不在治療中心內，也不在密切接觸者名單中，這表明存在尚未被發現的傳播鏈條。只有摸清並切斷所有傳播鏈，疫情才能得到遏制。 世衛組織官員阿卜迪拉赫曼·馬哈茂德說，眼下疫情仍未達到峰值，如果加強監測、完善護理、落實安全安葬等防控措施能夠在各傳播區同步推進，疫情形勢有望在3個月內出現轉折。 世衛組織網站資料顯示，2014年至2016年的西非埃博拉疫情是1976年埃博拉病毒被發現以來規模最大的一次，累計報告病例超過2.86萬例，約1.13萬人死亡。(新華社)
+
+---
+
+### 2026-08-13 12:47:13  #MKT News
+
+Interfax cited local officials as saying drones struck an industrial area in Russia's Republic of Bashkortostan.
+
+---
+
+### 2026-08-13 12:46:35  #市場
+
+日元兌美元短線快速拉昇。
+
+---
+
+### 2026-08-13 12:46:33  #國際
+
+俄新社引述當地官員訊息：無人機襲擊俄羅斯巴什科爾託斯坦共和國一處工業區。
+
+---
+
+### 2026-08-13 12:46:08  #央行 #焦點 #國際
+
+高市政府據悉支援日本央行加快升息步伐。
+
+---
+
+### 2026-08-13 12:45:58  #央行 #國際
+
+據稱日本央行可能在9月或10月加息。
+
+---
+
+### 2026-08-13 12:45:43  #央行 #國際
+
+據訊息人士透露，日本央行正在考慮在10月份提高利率，政府也支援這一舉措，以維持其干預措施的有效性。
+
+---
+
+### 2026-08-13 12:45:26  #市場 #央行 #國際
+
+據訊息人士透露，日本央行和政府都對日元貶值導致物價上漲表示擔憂。
+
+---
+
+### 2026-08-13 12:45:04  #市場 #國際
+
+【鋁價從七週高位繼續回落 供應擔憂緩解】鋁價連續第二天下跌，中東一家大型鋁冶煉廠宣佈計劃提前恢復生產，緩解了市場對鋁供應日益緊張的擔憂。阿聯酋環球鋁業計劃明年第一季度將產量提升至戰前水平，伊朗3月份發動的襲擊曾導致其主要冶煉廠停產。受訊息影響，鋁價週三大幅回落。此前，由於伊朗與美國似乎就重開霍爾木茲海峽達成協議漸行漸遠，鋁價連續七個交易日上漲。倫敦金屬交易所的鋁庫存目前處於1990年以來最低水平。此外，澳大利亞最大鋁冶煉廠Tomago的所有者週四獲得25億澳元（約合18億美元）政府紓困資金，使該廠得以繼續運營，進一步加大了供應端壓力。鋁價下跌0.9%，至每噸3282.50美元。其他基本金屬價格也普遍走低，其中銅價下跌0.4%，鋅價下跌0.8%。
+
+---
+
+### 2026-08-13 12:45:02  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+【Putin says Russia must secure all borders and territory】On the 13th Putin, aboard missile cruiser Varyag, met senior Pacific Fleet officers and said Russia must secure all borders and territory, adding that national security tasks are being carried out primarily via the special military operation in Ukraine. He observed Pacific Fleet exercises on the 12th. Russia’s defence ministry said the Pacific Fleet has held large-scale drills since the 4th in the Sea of Japan, the Sea of Okhotsk and the northwest Pacific.
+
+---
+
+### 2026-08-13 12:43:45  #公司
+
+【深圳市地鐵集團、深灣發展成立綠景投資開發公司】企查查APP顯示，近日，深圳深灣綠景投資開發有限公司成立，法定代表人為熊海明，註冊資本為8.4億元，經營範圍包含商業綜合體管理服務；工程管理服務；物業管理；城市公園管理；合同能源管理；房地產開發經營等。企查查股權穿透顯示，該公司由深圳灣區城市建設發展有限公司、深圳市地鐵集團有限公司共同持股。
+
+---
+
+### 2026-08-13 12:43:41  #市場
+
+【交易員：對沖基金正在買入澳元/紐元看漲期權價差】交易員表示，在紐西蘭第三季度兩年期通脹預期較前三個月有所下降後，對沖基金一直在買入澳元/紐元短期看漲期權價差。澳元/紐元上漲0.3%至1.2090。
+
+---
+
+### 2026-08-13 12:42:40  #其他
+
+傑富瑞將 愛彼迎  目標價從175美元上調至215美元。
+
+---
+
+### 2026-08-13 12:41:14  #國際
+
+美國國防部官員科爾比：不認為核戰略會發生根本性變化。
+
+---
+
+### 2026-08-13 12:40:26  #其他
+
+【中國鈣鈦礦量產技術再登《自然》】南京大學助理教授肖科、教授譚海仁課題組聯合仁爍光能產業化團隊，開發出一種基於羧酸鉛材料的表面鈍化新策略，成功製備出認證效率達22.0%（0.72m²全面積）的鈣鈦礦光伏元件，並透過IEC61215/IEC61730全序列可靠性測試。研究成果以“Lead carboxylates passivation for meter-scale perovskite solar modules”為題，於2026年8月12日線上發表於國際頂級學術期刊《自然》。（上海證券報）
+
+---
+
+### 2026-08-13 12:39:04  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Extends Weakness for Third Day — India’s BSE Sensex fell about 0.2% to 77,775 on Thursday, marking its third consecutive session of decline, as investors remained cautious amid geopolitical tensions and stock-specific developments. Sentiment was weighed by uncertainty in the Middle East, even as softer US inflation data reduced expectations of a near-term Fed Reserve rate hike. India’s July annual inflation also rose to 4.45%, but remains unlikely to prompt a rate hike from the central bank in the coming months. Among corporate developments, Laurus Labs, Lenskart, Adani Energy and Groww will be added to the MSCI Global Standard Index effective Sept. 1, potentially attracting about $598 million, $352 million, $310 million and $256 million respectively in passive inflows. Eternal, Adani Enterprises and Adani Ports are also expected to benefit from higher MSCI weights, while Reliance Industries and Jio Financial could see passive outflows. Early losers included Cupid (-1.2%), Thyrocare (-4.5%), and Ather Energy (-3.5%).
 
 ---
 
@@ -17900,83 +18002,5 @@ China A-share food processing and manufacturing sector staged a short-term rally
 ### 2026-08-12 09:34:45  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
 
 South Korean Shares Climb as Chip Stocks Rally — The benchmark KOSPI rose nearly 3% to around 6,530 on Wednesday, extending gains for a third straight session, led by major technology stocks. Samsung Electronics jumped more than 4%, and SK hynix gained over 2%, while optimism over strong AI-related demand and expectations of increased shareholder returns supported sentiment. Other notable gainers included SK Square (9.1%), Hyundai Motor (1.4%), LG Energy Solution (3.4%), Hanwha Aerospace (3.0%), KB Financial Group (1.0%), Kia Corporation (1.6%), and Doosan Enerbility (3.0%). Investors also looked ahead to the US July inflation report, with a softer-than-expected reading potentially easing concerns over a September Federal Reserve rate hike. Meanwhile, renewed tensions in the Middle East remained a risk to sentiment after hopes for a potential US-Iran peace deal faded, while the continued closure of the Strait of Hormuz pushed US crude prices above $83 a barrel, keeping inflationary pressures in focus.
-
----
-
-### 2026-08-12 09:34:40  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share innovative drug sector spiked intraday; Baihua Pharmaceutical hit the daily limit, marking a seventh consecutive limit-up. Wanbang Pharmaceutical, Hongbo Pharmaceutical, Longshen Rongfa, Yuheng Pharmaceutical, Harbin Pharmaceutical and Boji Pharmaceutical also advanced.
-
----
-
-### 2026-08-12 09:34:35  #MKT News
-
-【New Zealand PM Christopher Luxon wins caucus confidence vote, remains National Party leader】Prime Minister Christopher Luxon won his National Party caucus confidence vote on the 12th and will remain party leader. Luxon said on social media on the 11th that media reports had increased speculation about his leadership and he called a caucus meeting for the 12th. New Zealand's parliamentary election is scheduled for Nov. 7.
-
----
-
-### 2026-08-12 09:34:30  #MKT News #Market Regions #Greater China
-
-【China mobile-wallet cash yield snapshot】WeChat Licaitong (current+7-day) 7-day annualised yield ranged 0.6810%–1.0520%; WeChat Wallet Lingqiantong 7-day annualised yield ranged 0.9010%–1.0010%; Alipay Yu'ebao 7-day annualised yield ranged 0.9010%–1.0090%.
-
----
-
-### 2026-08-12 09:34:21  #公司 #國際
-
-韓國綜指漲幅擴大至3%，現報6535.98點。個股方面，三星電子漲超5%，SK海力士漲超2%。
-
----
-
-### 2026-08-12 09:34:10  #MKT News #Important
-
-South Korea's KOSPI index rose 3.00% intraday to 6,535.98 points.
-
----
-
-### 2026-08-12 09:34:05  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-China A-share industrial "mother machine" theme stayed active: Huadong Numerical Control notched a third consecutive daily limit-up, Shenyang Machine Tool hit the daily limit, and Dongtu Technology, Ruike Laser, Kede Numerical Control and Dazhu Numerical Control also climbed.
-
----
-
-### 2026-08-12 09:33:44  #其他
-
-紐西蘭國家黨領導人、聯合政府總理克里斯托弗·拉克森12日贏得本黨國會黨團信任投票，繼續擔任主要執政黨國家黨領導人。 紐西蘭將於11月7日舉行國會選舉。拉克森11日在社交媒體發文說，從媒體報道等中可以明顯看出，關於他領導地位的猜測正在增多，他宣佈召集國家黨12日舉行國會黨團會議討論此事。（新華社）
-
----
-
-### 2026-08-12 09:33:21  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Rises to 2-Week High — US gasoline futures rose to around $3.16 per gallon on Wednesday, a two-week high, tracking gains in crude prices as markets assessed the viability of efforts toward a potential deal on the Strait of Hormuz. Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the waterway, while Iran-Oman talks have reached an advanced stage, according to a Qatari official cited by Al Jazeera. Meanwhile, API data showed gasoline stocks fell by 1.531 million barrels in the week ending August 7, following a 156,000-barrel increase the prior week. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further energy disruptions after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027. At the pump, the EIA raised its retail gasoline price forecast for this year and 2027.
-
----
-
-### 2026-08-12 09:33:14  #國際
-
-【國航將新開北京至羅馬尼亞、克羅埃西亞航線】從國航瞭解到，國航將於9月4日起新開北京-布加勒斯特-薩格勒布國際客運航線，每週一、三、五執行三個往返航班。該航線的開通將進一步豐富在中東歐航空市場的網路佈局，大幅縮短中國與中東歐腹地的時空距離。國航相關負責人介紹，國航持續在中歐市場最佳化網路佈局、加大運力投入，已通航27個歐洲航點，每週運營近260個航班。
-
----
-
-### 2026-08-12 09:33:02  #市場
-
-中證轉債指數開盤上漲0.07%。N賽斯轉、奧飛轉債、愛迪轉債、雙良轉債、精測轉2漲幅居前，分別漲30.00%、2.36%、2.31%、1.89%、1.65%。久吾轉02、航宇轉債、永吉轉債、運機轉債、銀輪轉債跌幅居前，分別跌0.99%、0.99%、0.85%、0.64%、0.63%。
-
----
-
-### 2026-08-12 09:33:00  #市場 #焦點
-
-焦煤連續主力合約日內漲3%，現報1487.50元。
-
----
-
-### 2026-08-12 09:32:51  #公司 #國際
-
-【Alpha Compute將斥資超5000萬美元，在美國賓州建天然氣資料中心園區】當地時間8月11日，人工智慧基礎設施公司Alpha Compute宣佈簽署有約束力意向書，計劃在美國賓夕法尼亞州收購天然氣資產，建設一座規劃容量200兆瓦、以天然氣供電的資料中心園區，並有可能擴建至1吉瓦。該資產的收購基準價格定為5500萬美元，在簽署最終協議後，Alpha Compute需支付300萬美元定金。
-
----
-
-### 2026-08-12 09:32:46  #市場
-
-【煤炭板塊盤初走弱，新大洲A跌停】煤炭板塊盤初走弱，新大洲A跌停，大有能源、潞安環能、淮北礦業、山西焦化、蘭花科創、恆源煤電等跟跌。
 
 ---

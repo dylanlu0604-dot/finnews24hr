@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:33:36_
-_本檔包含 3060 則快訊，約 604533 字_
+_更新時間：2026-08-18 06:57:16_
+_本檔包含 3058 則快訊，約 604196 字_
+
+---
+
+### 2026-08-12 09:34:40  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share innovative drug sector spiked intraday; Baihua Pharmaceutical hit the daily limit, marking a seventh consecutive limit-up. Wanbang Pharmaceutical, Hongbo Pharmaceutical, Longshen Rongfa, Yuheng Pharmaceutical, Harbin Pharmaceutical and Boji Pharmaceutical also advanced.
+
+---
+
+### 2026-08-12 09:34:35  #MKT News
+
+【New Zealand PM Christopher Luxon wins caucus confidence vote, remains National Party leader】Prime Minister Christopher Luxon won his National Party caucus confidence vote on the 12th and will remain party leader. Luxon said on social media on the 11th that media reports had increased speculation about his leadership and he called a caucus meeting for the 12th. New Zealand's parliamentary election is scheduled for Nov. 7.
+
+---
+
+### 2026-08-12 09:34:30  #MKT News #Market Regions #Greater China
+
+【China mobile-wallet cash yield snapshot】WeChat Licaitong (current+7-day) 7-day annualised yield ranged 0.6810%–1.0520%; WeChat Wallet Lingqiantong 7-day annualised yield ranged 0.9010%–1.0010%; Alipay Yu'ebao 7-day annualised yield ranged 0.9010%–1.0090%.
+
+---
+
+### 2026-08-12 09:34:21  #公司 #國際
+
+韓國綜指漲幅擴大至3%，現報6535.98點。個股方面，三星電子漲超5%，SK海力士漲超2%。
+
+---
+
+### 2026-08-12 09:34:10  #MKT News #Important
+
+South Korea's KOSPI index rose 3.00% intraday to 6,535.98 points.
+
+---
+
+### 2026-08-12 09:34:05  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+China A-share industrial "mother machine" theme stayed active: Huadong Numerical Control notched a third consecutive daily limit-up, Shenyang Machine Tool hit the daily limit, and Dongtu Technology, Ruike Laser, Kede Numerical Control and Dazhu Numerical Control also climbed.
+
+---
+
+### 2026-08-12 09:33:44  #其他
+
+紐西蘭國家黨領導人、聯合政府總理克里斯托弗·拉克森12日贏得本黨國會黨團信任投票，繼續擔任主要執政黨國家黨領導人。 紐西蘭將於11月7日舉行國會選舉。拉克森11日在社交媒體發文說，從媒體報道等中可以明顯看出，關於他領導地位的猜測正在增多，他宣佈召集國家黨12日舉行國會黨團會議討論此事。（新華社）
+
+---
+
+### 2026-08-12 09:33:21  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Rises to 2-Week High — US gasoline futures rose to around $3.16 per gallon on Wednesday, a two-week high, tracking gains in crude prices as markets assessed the viability of efforts toward a potential deal on the Strait of Hormuz. Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the waterway, while Iran-Oman talks have reached an advanced stage, according to a Qatari official cited by Al Jazeera. Meanwhile, API data showed gasoline stocks fell by 1.531 million barrels in the week ending August 7, following a 156,000-barrel increase the prior week. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further energy disruptions after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027. At the pump, the EIA raised its retail gasoline price forecast for this year and 2027.
+
+---
+
+### 2026-08-12 09:33:14  #國際
+
+【國航將新開北京至羅馬尼亞、克羅埃西亞航線】從國航瞭解到，國航將於9月4日起新開北京-布加勒斯特-薩格勒布國際客運航線，每週一、三、五執行三個往返航班。該航線的開通將進一步豐富在中東歐航空市場的網路佈局，大幅縮短中國與中東歐腹地的時空距離。國航相關負責人介紹，國航持續在中歐市場最佳化網路佈局、加大運力投入，已通航27個歐洲航點，每週運營近260個航班。
+
+---
+
+### 2026-08-12 09:33:02  #市場
+
+中證轉債指數開盤上漲0.07%。N賽斯轉、奧飛轉債、愛迪轉債、雙良轉債、精測轉2漲幅居前，分別漲30.00%、2.36%、2.31%、1.89%、1.65%。久吾轉02、航宇轉債、永吉轉債、運機轉債、銀輪轉債跌幅居前，分別跌0.99%、0.99%、0.85%、0.64%、0.63%。
+
+---
+
+### 2026-08-12 09:33:00  #市場 #焦點
+
+焦煤連續主力合約日內漲3%，現報1487.50元。
+
+---
+
+### 2026-08-12 09:32:51  #公司 #國際
+
+【Alpha Compute將斥資超5000萬美元，在美國賓州建天然氣資料中心園區】當地時間8月11日，人工智慧基礎設施公司Alpha Compute宣佈簽署有約束力意向書，計劃在美國賓夕法尼亞州收購天然氣資產，建設一座規劃容量200兆瓦、以天然氣供電的資料中心園區，並有可能擴建至1吉瓦。該資產的收購基準價格定為5500萬美元，在簽署最終協議後，Alpha Compute需支付300萬美元定金。
+
+---
+
+### 2026-08-12 09:32:46  #市場
+
+【煤炭板塊盤初走弱，新大洲A跌停】煤炭板塊盤初走弱，新大洲A跌停，大有能源、潞安環能、淮北礦業、山西焦化、蘭花科創、恆源煤電等跟跌。
 
 ---
 
@@ -18389,104 +18467,5 @@ United Kingdom | BRC Like-for-like Retail Sales (YoY) (Jul) | actual 1% | previo
 ### 2026-08-11 06:57:24  #MKT News
 
 A US official said they are optimistic about progress in Lebanon-Israel talks but acknowledged persistent difficulties. The US held separate talks with the Lebanese delegation on reconstruction; Lebanon and Israel discussed third-party demining operations. The official said Hezbollah continues to try to undermine the negotiations.
-
----
-
-### 2026-08-11 06:56:59  #MKT News
-
-ANTHROPIC said an unreleased research version of Claude attempted to tackle the Riemann hypothesis. It did not prove the conjecture but raised the lower bound on the proportion of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%.
-
----
-
-### 2026-08-11 06:56:50  #市場 #焦點
-
-現貨黃金突破4400美元/盎司，為6月5日以來新高，日內漲0.2%。
-
----
-
-### 2026-08-11 06:56:00  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold topped $4,400/oz, its highest since June 5, rising 0.2% intraday.
-
----
-
-### 2026-08-11 06:55:14  #市場 #焦點
-
-紐約期金突破4460美元/盎司，日內漲0.91%。
-
----
-
-### 2026-08-11 06:55:04  #國際
-
-【朝中社：日本2026年版《防衛白皮書》是再侵略白皮書】據朝中社11日報道，朝鮮國際安保問題評論家發表文章稱，國際社會譴責日本2026年版《防衛白皮書》是再侵略白皮書。文章說，日本把否定歷史犯罪和實現軍事大國化作為“國策”，比以往任何時候都進一步強化同美國等勢力的同盟。日本在《防衛白皮書》中把朝鮮等周邊國家描寫為“重大而緊迫的威脅”“最大的戰略挑戰”，企圖使其擴軍備武行為合理化。（新華社）
-
----
-
-### 2026-08-11 06:54:43  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Muted in Morning Trade — New Zealand's stocks were almost unchanged, trading around 13,890 in Tuesday morning deals, as gains in the technology, utilities, and materials sectors offset declines in healthcare, energy, and consumer discretionary. Rising oil prices raised doubts about whether the Fed will cut rates this year. Traders awaited the release of US inflation data this week for clues about the Fed's monetary policy at its upcoming meeting. Meanwhile, rising oil prices also raised questions about how they could affect the RBNZ's monetary policy decision at its September meeting amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the RBNZ's Q3 inflation expectations, due this week, after they accelerated in Q2. Contact Energy advanced 1.6%, ANZ Group rose 1.2%, and A2 Milk gained 0.6%, while Fisher & Paykel and EBOS Group fell 0.9% and 0.7%, respectively.
-
----
-
-### 2026-08-11 06:48:01  #公司
-
-【郭明錤稱蘋果縮減iPhone18Pro出貨計劃】天風國際證券分析師郭明錤在社交媒體釋出推文，分享了一份行業調查研究報告，指出由於DRAM記憶體短缺，蘋果公司正在縮減2026年的硬體出貨計劃。
-
----
-
-### 2026-08-11 06:44:59  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Drops by 1.86% — Top crypto losers are Ether (-1.86%) and Bitcoin (-1.41%).
-
----
-
-### 2026-08-11 06:42:58  #市場 #央行 #國際
-
-【週二財經資訊提醒（以下均為北京時間）】 
-① 全天 日本休市；
-② 12:30 澳洲聯儲公佈利率決議和貨幣政策宣告；
-③ 13:30 澳洲聯儲主席布洛克召開貨幣政策新聞釋出會；
-④ 港股盤後 騰訊音樂釋出業績報告；
-⑤ 時間待定 第六屆全球固態電池年度峰會在美國開幕（8月11-12日）；
-⑥ 22:00 美國7月成屋銷售總數年化；
-⑦ 23:00 美國紐約聯儲釋出信用報告；
-⑧ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；
-⑨ 美股盤後 Lumentum、CoreWeave、超微電腦等釋出業績報告。
-
----
-
-### 2026-08-11 06:39:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Rises by 4.26% — Top commodity gainers are Oat (4.26%), Barley (2%) and Cocoa (1.99%). Biggest losers are Rice (-1.97%) and Cotton (-0.75%).
-
----
-
-### 2026-08-11 06:36:09  #其他
-
-OpenAI道德事務負責人入職不到一年後離職。
-
----
-
-### 2026-08-11 06:35:32  #其他
-
-【土耳其議會透過法案 推動解除庫爾德工人黨武裝】土耳其議會當地時間10日晚透過一項法案，為庫爾德工人黨解除武裝和其成員重新融入社會建立法律框架，標誌著土政府推動結束持續數十年的衝突取得重要進展。該法案規定了實施下一階段庫爾德工人黨解除武裝程序的相關程式，並強調維持司法監督。土政府表示，該法案不構成全面大赦，而是建立有條件的法律機制，為符合條件的庫爾德工人黨成員返回土耳其並接受正式審查提供法律依據。根據規定，未參與嚴重暴力犯罪的低階別庫爾德工人黨成員，在符合條件的情況下，可從伊拉克北部相關據點返回土耳其。上述法案不適用於被關押的庫爾德工人黨領導人阿卜杜拉·厄賈蘭、該組織高階別成員以及正在服無期徒刑且刑罰等級較重的成員。（新華社）
-
----
-
-### 2026-08-11 06:35:24  #MKT News
-
-【Turkish parliament passes bill creating legal framework to disarm PKK and reintegrate members】Turkish parliament on the evening of the 10th (local time) passed a bill establishing procedures, with judicial oversight, to disarm the PKK (Kurdistan Workers' Party) and reintegrate its members, a move the government described as significant progress toward ending a decades-long conflict. The law is not a blanket amnesty but a conditional mechanism allowing eligible low-level PKK members not involved in serious violent crimes to return from northern Iraq to Turkey and undergo formal review. It excludes imprisoned leader Abdullah Ocalan, senior PKK figures and members serving life or similarly heavy sentences.
-
----
-
-### 2026-08-11 06:35:01  #國際
-
-美國能源部長賴特：特朗普總統下達振興美國核能產業的指令，正值一個關鍵時期。核能提供可靠電力，為美國的人工智慧領先地位提供支撐；與此同時，人工智慧推動下一代核能技術發展，二者相輔相成，助力美國取得能源主導地位。
-
----
-
-### 2026-08-11 06:34:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 3.46% — Top commodity gainers are Silver (3.46%), Lithium Carbonate (1.23%) and Gold (1.14%).
 
 ---

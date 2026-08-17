@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:33:36_
-_本檔包含 3207 則快訊，約 604976 字_
+_更新時間：2026-08-18 06:57:16_
+_本檔包含 3200 則快訊，約 604105 字_
+
+---
+
+### 2026-08-14 14:21:07  #公司 #觀點 #國際
+
+【高盛：印度不太可能因人工智慧出現大規模失業】高盛集團首席印度經濟學家桑塔努・森古普塔週五表示，印度勞動力不太可能因人工智慧出現大規模失業，但服務業部分崗位或將受到影響。森古普塔在接受採訪時稱，相較於許多其他國家，人工智慧對印度的影響將較為有限。他表示：“主要原因在於印度勞動力規模龐大，大量勞動者從事機械性或體力類工作。”他稱，建築業和零售業吸納了印度約 40% 的勞動力，“目前基本不會受到人工智慧衝擊，受影響的主要是服務業。” 高盛估算，若有序推進人工智慧落地應用，衝擊有望得到緩解，同時未來十年整體生產力或將提升 0.4 個百分點。
+
+---
+
+### 2026-08-14 14:20:40  #央行 #日本央行
+
+【日本央行加息或提速！美元對日元急跌 市場擔心潛在流動性衝擊】在“近期有必要加息”上，日本政府與央行形成了共識，下一次加息視窗指向9月18日或10月29~30日的央行會議。市場人士認為，日本政府的表態意味著，他們也已意識到單靠外匯干預無法持久支撐日元，日本央行加息步調才是日元能否企穩的關鍵。
+
+---
+
+### 2026-08-14 14:20:19  #MKT News
+
+Australia's S&P/ASX 200 closed down 83.50 points (-0.91%) at 9,105.00 on Friday, Aug. 14.
+
+---
+
+### 2026-08-14 14:20:02  #其他
+
+LG將推出基於NVIDIA Isaac GR00T平臺打造的下一代人形機器人。
+
+---
+
+### 2026-08-14 14:19:56  #其他
+
+【浙江：制定腦機介面產品醫療應用清單】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 釋出應用場景清單。圍繞感知運動增強、重大腦疾病治療、腦健康管理與干預等方向，重點打造一批典型醫療應用場景，推動腦機介面創新產品先行先試。 最佳化產品應用路徑。制定腦機介面產品醫療應用清單，根據產品獲批上市情況動態更新。鼓勵腦機介面企業自主合理定價。試點開展腦機介面創新醫療器械示範推廣應用專案。 推進政府首購訂購。對符合首臺（套）裝備、首批次材料等政策的腦機介面產品，按照相關要求選擇適宜方式開展政府首購、訂購。
+
+---
+
+### 2026-08-14 14:19:15  #市場 #焦點
+
+京投發展盤中跌停，上演“天地板”，現報11.64元，成交額10.9億元。
+
+---
+
+### 2026-08-14 14:19:10  #MKT News #WTI #Impact bullish #Brent
+
+【Cui Dongshu: July 2026 China auto market weakness driven by oil shock, macro slowdown and seasonality】CPCA-affiliated Cui Dongshu said July weakness in the China auto market was caused by a convergence of factors: an oil-price rebound, macro slowdown, seasonality, demand pull-forward and policy shifts. Geopolitical disruption around the Strait of Hormuz pushed international oil prices higher; domestic gasoline prices have been cumulatively raised by 1,575 yuan/ton in 2026, significantly raising running costs and sharply eroding demand for gasoline passenger cars while having little impact on commercial-vehicle demand. July saw MoM declines in CPI and PPI and a softer PMI; cautious income and consumption expectations and weak appetite for big-ticket durables depressed housing and transport spending and terminal auto demand. High July temperatures reduced showroom footfall, and a June half-year sales push pulled forward demand, leaving orders and retail traffic falling in tandem.
+
+---
+
+### 2026-08-14 14:18:40  #市場
+
+網宿科技盤中漲停，漲幅20.01%，成交額超69億元。
+
+---
+
+### 2026-08-14 14:18:32  #國際
+
+【美國二戰紀念碑遭汙損】據美國媒體報道，位於華盛頓的美國國家二戰紀念碑當地時間8月13日遭蓄意破壞，警方正在展開調查。事發現場能看到，部分紀念碑上被噴了紅色的英文塗鴉和油漆，塗鴉字樣為“乾淨的手、骯髒的美元（clean hands,dirty $）”。破壞者還將肥皂之類的藥劑倒入噴泉池中，導致池水大量起泡。調查人員在對受損情況進行勘驗後，工作人員已展開清理工作。 美國國家二戰紀念碑位於華盛頓特區的國家廣場公園內，坐落於林肯紀念堂與華盛頓紀念碑之間的鏡池東段。該紀念碑始建於2001年9月，2004年4月對公眾開放，同年5月舉行竣工典禮，旨在紀念二戰期間服役的1600萬美國軍人。（CCTV國際時訊）
+
+---
+
+### 2026-08-14 14:17:51  #其他
+
+【浙江：對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，提升概念驗證能力。支援腦機介面領域企業、高校院所、科創平臺等共建概念驗證中心。推動概念驗證中心與省重大科技專項、新產品試製計劃等聯動佈局。鼓勵高校院所推動腦機介面科研成果“應驗盡驗”。 支援開展臨床研究。結合臨床資源優勢、規範管理能力等，分類建設腦機介面臨床試驗基地、臨床與轉化病房、臨床預備佇列。對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元。
 
 ---
 
@@ -19211,107 +19271,5 @@ Market sources say the Bank of Japan may raise interest rates in September or Oc
 ### 2026-08-13 12:48:09  #央行 #焦點 #國際
 
 【日本政府據悉支援日本央行加快加息步伐】據知情人士透露，日本首相高市早苗領導的政府支援日本央行近期加息，下次加息行動大機率落在 9 月或 10 月。知情人士補充稱，央行擔憂日元走弱推高物價，而政府希望強化近期美日貨幣干預的效果，雙方就此達成共識，認為有必要在短期內加息。日本央行在貨幣政策上享有法定獨立權，但也需要就經濟政策目標與政府保持密切溝通。高市早苗內閣無法強迫日本央行設定具體利率，但可以釋放訊號，進而影響央行決策。首相辦公室在郵件宣告中表示，“我們認為，包括加息在內的具體貨幣政策措施，應交由日本央行決定”。宣告同時提到，央行應與政府緊密協作，以 “穩定方式” 實現 2% 的通脹目標。日本央行對此不予置評。
-
----
-
-### 2026-08-13 12:47:52  #MKT News #Important #USDJPY #Impact bearish #DXY #EURUSD #Impact bullish
-
-Market sources: Japanese Prime Minister TAKAICHI is reported to support faster rate hikes by the Bank of Japan.
-
----
-
-### 2026-08-13 12:47:19  #其他
-
-【世衛組織說剛果（金）埃博拉疫情傳播之快前所未有】世界衛生組織總幹事譚德塞12日說，剛果（金）本輪埃博拉疫情傳播速度之快前所未有，可能成為全球有記錄以來規模最大的埃博拉疫情。 “這已是有記錄以來第二大埃博拉疫情，傳播速度超過以往任何一次。”譚德塞當天在日內瓦舉行的例行記者會上說，“按照目前的發展速度，其規模可能超過2014年至2016年的西非埃博拉疫情。” 譚德塞說，剛果（金）已累計報告埃博拉確診病例4449例，死亡2061例，防控工作一直處於被動追趕狀態。最令人擔憂的是，較高比例的死亡病例出現在社群，既不在治療中心內，也不在密切接觸者名單中，這表明存在尚未被發現的傳播鏈條。只有摸清並切斷所有傳播鏈，疫情才能得到遏制。 世衛組織官員阿卜迪拉赫曼·馬哈茂德說，眼下疫情仍未達到峰值，如果加強監測、完善護理、落實安全安葬等防控措施能夠在各傳播區同步推進，疫情形勢有望在3個月內出現轉折。 世衛組織網站資料顯示，2014年至2016年的西非埃博拉疫情是1976年埃博拉病毒被發現以來規模最大的一次，累計報告病例超過2.86萬例，約1.13萬人死亡。(新華社)
-
----
-
-### 2026-08-13 12:47:13  #MKT News
-
-Interfax cited local officials as saying drones struck an industrial area in Russia's Republic of Bashkortostan.
-
----
-
-### 2026-08-13 12:46:35  #市場
-
-日元兌美元短線快速拉昇。
-
----
-
-### 2026-08-13 12:46:33  #國際
-
-俄新社引述當地官員訊息：無人機襲擊俄羅斯巴什科爾託斯坦共和國一處工業區。
-
----
-
-### 2026-08-13 12:46:08  #央行 #焦點 #國際
-
-高市政府據悉支援日本央行加快升息步伐。
-
----
-
-### 2026-08-13 12:45:58  #央行 #國際
-
-據稱日本央行可能在9月或10月加息。
-
----
-
-### 2026-08-13 12:45:43  #央行 #國際
-
-據訊息人士透露，日本央行正在考慮在10月份提高利率，政府也支援這一舉措，以維持其干預措施的有效性。
-
----
-
-### 2026-08-13 12:45:26  #市場 #央行 #國際
-
-據訊息人士透露，日本央行和政府都對日元貶值導致物價上漲表示擔憂。
-
----
-
-### 2026-08-13 12:45:04  #市場 #國際
-
-【鋁價從七週高位繼續回落 供應擔憂緩解】鋁價連續第二天下跌，中東一家大型鋁冶煉廠宣佈計劃提前恢復生產，緩解了市場對鋁供應日益緊張的擔憂。阿聯酋環球鋁業計劃明年第一季度將產量提升至戰前水平，伊朗3月份發動的襲擊曾導致其主要冶煉廠停產。受訊息影響，鋁價週三大幅回落。此前，由於伊朗與美國似乎就重開霍爾木茲海峽達成協議漸行漸遠，鋁價連續七個交易日上漲。倫敦金屬交易所的鋁庫存目前處於1990年以來最低水平。此外，澳大利亞最大鋁冶煉廠Tomago的所有者週四獲得25億澳元（約合18億美元）政府紓困資金，使該廠得以繼續運營，進一步加大了供應端壓力。鋁價下跌0.9%，至每噸3282.50美元。其他基本金屬價格也普遍走低，其中銅價下跌0.4%，鋅價下跌0.8%。
-
----
-
-### 2026-08-13 12:45:02  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-【Putin says Russia must secure all borders and territory】On the 13th Putin, aboard missile cruiser Varyag, met senior Pacific Fleet officers and said Russia must secure all borders and territory, adding that national security tasks are being carried out primarily via the special military operation in Ukraine. He observed Pacific Fleet exercises on the 12th. Russia’s defence ministry said the Pacific Fleet has held large-scale drills since the 4th in the Sea of Japan, the Sea of Okhotsk and the northwest Pacific.
-
----
-
-### 2026-08-13 12:43:45  #公司
-
-【深圳市地鐵集團、深灣發展成立綠景投資開發公司】企查查APP顯示，近日，深圳深灣綠景投資開發有限公司成立，法定代表人為熊海明，註冊資本為8.4億元，經營範圍包含商業綜合體管理服務；工程管理服務；物業管理；城市公園管理；合同能源管理；房地產開發經營等。企查查股權穿透顯示，該公司由深圳灣區城市建設發展有限公司、深圳市地鐵集團有限公司共同持股。
-
----
-
-### 2026-08-13 12:43:41  #市場
-
-【交易員：對沖基金正在買入澳元/紐元看漲期權價差】交易員表示，在紐西蘭第三季度兩年期通脹預期較前三個月有所下降後，對沖基金一直在買入澳元/紐元短期看漲期權價差。澳元/紐元上漲0.3%至1.2090。
-
----
-
-### 2026-08-13 12:42:40  #其他
-
-傑富瑞將 愛彼迎  目標價從175美元上調至215美元。
-
----
-
-### 2026-08-13 12:41:14  #國際
-
-美國國防部官員科爾比：不認為核戰略會發生根本性變化。
-
----
-
-### 2026-08-13 12:40:26  #其他
-
-【中國鈣鈦礦量產技術再登《自然》】南京大學助理教授肖科、教授譚海仁課題組聯合仁爍光能產業化團隊，開發出一種基於羧酸鉛材料的表面鈍化新策略，成功製備出認證效率達22.0%（0.72m²全面積）的鈣鈦礦光伏元件，並透過IEC61215/IEC61730全序列可靠性測試。研究成果以“Lead carboxylates passivation for meter-scale perovskite solar modules”為題，於2026年8月12日線上發表於國際頂級學術期刊《自然》。（上海證券報）
-
----
-
-### 2026-08-13 12:39:04  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Extends Weakness for Third Day — India’s BSE Sensex fell about 0.2% to 77,775 on Thursday, marking its third consecutive session of decline, as investors remained cautious amid geopolitical tensions and stock-specific developments. Sentiment was weighed by uncertainty in the Middle East, even as softer US inflation data reduced expectations of a near-term Fed Reserve rate hike. India’s July annual inflation also rose to 4.45%, but remains unlikely to prompt a rate hike from the central bank in the coming months. Among corporate developments, Laurus Labs, Lenskart, Adani Energy and Groww will be added to the MSCI Global Standard Index effective Sept. 1, potentially attracting about $598 million, $352 million, $310 million and $256 million respectively in passive inflows. Eternal, Adani Enterprises and Adani Ports are also expected to benefit from higher MSCI weights, while Reliance Industries and Jio Financial could see passive outflows. Early losers included Cupid (-1.2%), Thyrocare (-4.5%), and Ather Energy (-3.5%).
 
 ---

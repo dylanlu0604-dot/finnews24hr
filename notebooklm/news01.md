@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:33:36_
-_本檔包含 2915 則快訊，約 604622 字_
+_更新時間：2026-08-18 06:57:16_
+_本檔包含 2917 則快訊，約 604455 字_
+
+---
+
+### 2026-08-18 06:53:44  #公司
+
+市場訊息：三星Samsung Display將建設額外的OLED顯示設施。
+
+---
+
+### 2026-08-18 06:48:32  #公司
+
+【年內289只基金提前結束募集，同比增長逾17%】8月17日，在農銀滬深300質量ETF、寶盈裕安增利6個月持有期債券等多隻基金公告發行提前收官後，今年以來宣佈提前結束募集的基金數量已達289只，同比增長逾17%。在受訪人士看來，這一由權益類基金與含權類債券基金主導的“搶跑”現象，折射出資金借道公募產品加速流入權益市場的訊號。（證券日報）
+
+---
+
+### 2026-08-18 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Increases by 2.28% — Top crypto gainers are Bitcoin (2.28%) and Ether (1.54%).
+
+---
+
+### 2026-08-18 06:45:01  #MKT News #BHP.AX #Impact bearish #Brent #Impact bullish #XAUUSD
+
+BHP said the Middle East conflict has "materially changed" its cost environment.
+
+---
+
+### 2026-08-18 06:44:30  #公司 #觀點
+
+【提振投資者信心，多家券商權益分派實施中】8月份，上市券商2025年年度權益分派實施進入尾期。截至8月17日發稿時，8月以來包括東吳證券、申萬宏源、中金公司在內的8家上市券商（含券商母公司）釋出分紅相關公告，已完成2025年年度權益分派或明確實施日期，金額合計98.09億元。在業內人士看來，在經營業績穩健增長與監管層持續強化回報導向的雙重驅動下，證券公司正積極踐行“以投資者為本”理念，透過提高分紅頻率、最佳化分紅預案等方式，切實將經營成果轉化為股東可獲得的實際回報，進一步增強投資者的持有信心與獲得感。（中證報）
+
+---
+
+### 2026-08-18 06:42:07  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+BHP said copper is the engine of its growth, forecasting copper demand alone to rise from about 34 mln tonnes a year now to more than 50 mln tonnes a year by 2050.
+
+---
+
+### 2026-08-18 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Surges by 5.18% — Top commodity gainers are Cocoa (5.18%), Oat (2.63%) and Soybeans (1.85%). Biggest loser is Rubber (-0.68%).
+
+---
+
+### 2026-08-18 06:39:04  #MKT News #BHP.O #Impact bullish
+
+BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY.
+
+---
+
+### 2026-08-18 06:37:13  #公司 #其他 #焦點 #國際
+
+必和必拓本財年營收 587.6 億美元，同比增長 15%。
+
+---
+
+### 2026-08-18 06:36:43  #MKT News #BHP.O #Impact bullish
+
+BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln.
+
+---
+
+### 2026-08-18 06:36:12  #公司 #國際
+
+必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。
+
+---
+
+### 2026-08-18 06:36:02  #其他
+
+必和必拓：銅是驅動必和必拓業務增長的核心引擎。
+
+---
+
+### 2026-08-18 06:35:31  #其他
+
+必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。
+
+---
+
+### 2026-08-18 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%).
+
+---
+
+### 2026-08-18 06:34:17  #其他
+
+必和必拓全年基礎盈利132.0億美元，預估126.9億美元。
+
+---
+
+### 2026-08-18 06:33:42  #公司
+
+【險資股票和基金持倉規模半年增加近7000億元】根據金融監管總局近日披露的最新的保險公司資金運用情況表，截至今年二季度末，險資股票和證券投資基金投資規模達到6.4萬億元，較年初增加近0.7萬億元，其中二季度單季增加近0.5萬億元。分析人士認為，二季度險資權益配置提速，主要是其主動增配權益類資產和權益類資產公允價值抬升共同作用的結果。在增配的權益類資產中，主要分為FVOCI（以公允價值計量且其變動計入其他綜合收益）類和FVTPL（以公允價值計量且其變動計入當期損益）類，前者以獲取高股息為主，後者則以獲取資本利得為主。業內人士透露，未來險資還將繼續同時擁抱確定性與可能性，密切跟蹤資產的風險收益比變化。（中證報）
 
 ---
 
@@ -17490,89 +17586,5 @@ Al Arabiya TV reported Kushner, a senior adviser to Trump, has concluded a meeti
 ### 2026-08-16 23:50:56  #MKT News
 
 Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan said in a joint statement that Israel's refusal threatens Trump's intensified efforts to end the Gaza war.
-
----
-
-### 2026-08-16 23:50:45  #國際
-
-埃及、約旦、阿聯酋、卡達、印度尼西亞、沙烏地阿拉伯、土耳其和巴基斯坦聯合宣告譴責以色列拒絕特朗普關於加沙的計劃，並表示以色列需為阻礙加沙及巴勒斯坦領土的和平程序承擔責任，以色列的拒絕令特朗普加大力度終結加沙戰爭的行動面臨威脅。
-
----
-
-### 2026-08-16 23:50:04  #MKT News
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement saying Israel is responsible for obstructing peace efforts in Gaza and the Palestinian territories.
-
----
-
-### 2026-08-16 23:49:48  #國際
-
-伊朗議會議長卡利巴夫：伊朗在同美國、以色列的戰爭中，于軍事與政治兩條戰線均取得“真正勝利”。
-
----
-
-### 2026-08-16 23:49:15  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement condemning Israel's rejection of President Trump's plan for Gaza.
-
----
-
-### 2026-08-16 23:47:52  #國際
-
-【庫什納會見哈馬斯領導人，敦促其推進加沙非軍事化】特朗普特使賈裡德·庫什納週日在埃及會見了哈馬斯領導人，敦促他們履行解除武裝的承諾。這是自去年10月簽署結束加沙戰爭的協議以來，庫什納首次與哈馬斯領導人會面。此次會晤的目標是將哈馬斯關於加沙非軍事化的義務“轉化為具體、可核查的步驟”。為維持加沙停火，這些措施包括將執政權移交給巴勒斯坦技術官僚政府，並確保哈馬斯在加沙未來的治理中不扮演任何角色。和平委員會希望哈馬斯開始解除武器和軍事基礎設施的武裝，允許國際穩定部隊部署並協助加沙的恢復和重建工作，且不得對參與重建的巴勒斯坦人進行盜竊或恐嚇。該委員會還希望，如果哈馬斯開始解除武裝，以色列也應在加沙進行“相應的撤軍”，並加快向加沙地帶提供人道主義援助。訊息人士稱，庫什納預計將於週一訪問以色列，並與以色列總理內塔尼亞胡會面，討論以色列必須採取的“相應步驟”。
-
----
-
-### 2026-08-16 23:46:12  #MKT News
-
-Sources said Trump senior adviser Jared Kushner and 'Peace Committee' Gaza affairs representative Nikolay Mladenov promised Hamas that Israeli forces would withdraw from Gaza in tandem with the group's disarmament.
-
----
-
-### 2026-08-16 23:43:35  #MKT News
-
-Al Arabiya reported Kushner told Hamas that peace can be achieved only if all parties fulfill their commitments.
-
----
-
-### 2026-08-16 23:42:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Russian Defence Ministry said it struck three warships and two tankers used to deliver military supplies and fuel to Ukrainian forces based at the port of Odesa.
-
----
-
-### 2026-08-16 23:40:05  #MKT News
-
-【Forest fire on Greece's Salamis Island kills 2, injures 9】Greece's fire service says a forest fire on Salamis Island, about 20 km west of Athens, has killed 2 people and injured 9; roughly 90 people were evacuated.
-
----
-
-### 2026-08-16 23:39:50  #國際
-
-俄羅斯國防部：打擊了3艘船隻和2艘油輪，這些船隻正用於向烏克蘭軍隊在敖德薩港運送軍事物資和燃料。
-
----
-
-### 2026-08-16 23:39:31  #MKT News
-
-Following a Russian missile strike on Kyiv, firefighters battled a blaze at a book market; emergency services reported two people injured.
-
----
-
-### 2026-08-16 23:35:59  #其他
-
-【希臘薩拉米斯島森林火災已致2死9傷】希臘媒體16日援引該國消防部門訊息報道，位於希臘首都雅典以西約20公里的薩拉米斯島當天發生森林火災，已造成2人死亡、9人受傷，約90人被迫撤離。（新華社）
-
----
-
-### 2026-08-16 23:33:27  #其他
-
-市場資訊：針對多次延期的新一代Roadster跑車，特斯拉已研究過多種設計方案，包括改造Model S Plaid，以及借鑑蘭博基尼Countach與SR‑71“黑鳥”偵察機的外觀造型。
-
----
-
-### 2026-08-16 23:30:57  #公司
-
-【上市前夕 OpenAI高層劇烈震盪】在準備IPO之際，正在進入一個關鍵節點。2026年以來，至少13名高管和業務負責人離開OpenAI。一邊是業務繼續快速增長，年化營收已經超過400億美元，企業業務收入首次超過消費者業務；另一邊，公司核心管理層卻在持續調整。對於一家正在衝刺上市、同時業務規模快速擴張的公司來說，核心高管密集離開，自然引發了外界對管理層穩定性的關注。
 
 ---

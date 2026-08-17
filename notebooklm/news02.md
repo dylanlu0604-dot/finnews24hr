@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 06:33:36_
-_本檔包含 3046 則快訊，約 604561 字_
+_更新時間：2026-08-18 06:57:16_
+_本檔包含 3050 則快訊，約 604272 字_
+
+---
+
+### 2026-08-16 23:50:45  #國際
+
+埃及、約旦、阿聯酋、卡達、印度尼西亞、沙烏地阿拉伯、土耳其和巴基斯坦聯合宣告譴責以色列拒絕特朗普關於加沙的計劃，並表示以色列需為阻礙加沙及巴勒斯坦領土的和平程序承擔責任，以色列的拒絕令特朗普加大力度終結加沙戰爭的行動面臨威脅。
+
+---
+
+### 2026-08-16 23:50:04  #MKT News
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement saying Israel is responsible for obstructing peace efforts in Gaza and the Palestinian territories.
+
+---
+
+### 2026-08-16 23:49:48  #國際
+
+伊朗議會議長卡利巴夫：伊朗在同美國、以色列的戰爭中，于軍事與政治兩條戰線均取得“真正勝利”。
+
+---
+
+### 2026-08-16 23:49:15  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement condemning Israel's rejection of President Trump's plan for Gaza.
+
+---
+
+### 2026-08-16 23:47:52  #國際
+
+【庫什納會見哈馬斯領導人，敦促其推進加沙非軍事化】特朗普特使賈裡德·庫什納週日在埃及會見了哈馬斯領導人，敦促他們履行解除武裝的承諾。這是自去年10月簽署結束加沙戰爭的協議以來，庫什納首次與哈馬斯領導人會面。此次會晤的目標是將哈馬斯關於加沙非軍事化的義務“轉化為具體、可核查的步驟”。為維持加沙停火，這些措施包括將執政權移交給巴勒斯坦技術官僚政府，並確保哈馬斯在加沙未來的治理中不扮演任何角色。和平委員會希望哈馬斯開始解除武器和軍事基礎設施的武裝，允許國際穩定部隊部署並協助加沙的恢復和重建工作，且不得對參與重建的巴勒斯坦人進行盜竊或恐嚇。該委員會還希望，如果哈馬斯開始解除武裝，以色列也應在加沙進行“相應的撤軍”，並加快向加沙地帶提供人道主義援助。訊息人士稱，庫什納預計將於週一訪問以色列，並與以色列總理內塔尼亞胡會面，討論以色列必須採取的“相應步驟”。
+
+---
+
+### 2026-08-16 23:46:12  #MKT News
+
+Sources said Trump senior adviser Jared Kushner and 'Peace Committee' Gaza affairs representative Nikolay Mladenov promised Hamas that Israeli forces would withdraw from Gaza in tandem with the group's disarmament.
+
+---
+
+### 2026-08-16 23:43:35  #MKT News
+
+Al Arabiya reported Kushner told Hamas that peace can be achieved only if all parties fulfill their commitments.
+
+---
+
+### 2026-08-16 23:42:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Russian Defence Ministry said it struck three warships and two tankers used to deliver military supplies and fuel to Ukrainian forces based at the port of Odesa.
+
+---
+
+### 2026-08-16 23:40:05  #MKT News
+
+【Forest fire on Greece's Salamis Island kills 2, injures 9】Greece's fire service says a forest fire on Salamis Island, about 20 km west of Athens, has killed 2 people and injured 9; roughly 90 people were evacuated.
+
+---
+
+### 2026-08-16 23:39:50  #國際
+
+俄羅斯國防部：打擊了3艘船隻和2艘油輪，這些船隻正用於向烏克蘭軍隊在敖德薩港運送軍事物資和燃料。
+
+---
+
+### 2026-08-16 23:39:31  #MKT News
+
+Following a Russian missile strike on Kyiv, firefighters battled a blaze at a book market; emergency services reported two people injured.
+
+---
+
+### 2026-08-16 23:35:59  #其他
+
+【希臘薩拉米斯島森林火災已致2死9傷】希臘媒體16日援引該國消防部門訊息報道，位於希臘首都雅典以西約20公里的薩拉米斯島當天發生森林火災，已造成2人死亡、9人受傷，約90人被迫撤離。（新華社）
+
+---
+
+### 2026-08-16 23:33:27  #其他
+
+市場資訊：針對多次延期的新一代Roadster跑車，特斯拉已研究過多種設計方案，包括改造Model S Plaid，以及借鑑蘭博基尼Countach與SR‑71“黑鳥”偵察機的外觀造型。
+
+---
+
+### 2026-08-16 23:30:57  #公司
+
+【上市前夕 OpenAI高層劇烈震盪】在準備IPO之際，正在進入一個關鍵節點。2026年以來，至少13名高管和業務負責人離開OpenAI。一邊是業務繼續快速增長，年化營收已經超過400億美元，企業業務收入首次超過消費者業務；另一邊，公司核心管理層卻在持續調整。對於一家正在衝刺上市、同時業務規模快速擴張的公司來說，核心高管密集離開，自然引發了外界對管理層穩定性的關注。
 
 ---
 
@@ -18327,65 +18411,5 @@ China A-share benchmark indices extended gains; Shanghai Composite turned positi
 ### 2026-08-14 14:21:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
 
 European Stocks Poised for Higher Open — European equity markets were set to open higher on Friday as softer-than-expected US inflation data eased concerns over an imminent Federal Reserve interest rate hike. Renewed demand for artificial intelligence-related stocks also supported broader risk sentiment across global markets. In Europe, investors will focus on the latest Eurozone GDP, employment and trade data, alongside German wholesale prices and French inflation figures. Meanwhile, no major earnings reports are scheduled in Europe on Friday. In premarket trading, futures for the Euro Stoxx 50 and Stoxx 600 were both up around 0.2%.
-
----
-
-### 2026-08-14 14:21:07  #公司 #觀點 #國際
-
-【高盛：印度不太可能因人工智慧出現大規模失業】高盛集團首席印度經濟學家桑塔努・森古普塔週五表示，印度勞動力不太可能因人工智慧出現大規模失業，但服務業部分崗位或將受到影響。森古普塔在接受採訪時稱，相較於許多其他國家，人工智慧對印度的影響將較為有限。他表示：“主要原因在於印度勞動力規模龐大，大量勞動者從事機械性或體力類工作。”他稱，建築業和零售業吸納了印度約 40% 的勞動力，“目前基本不會受到人工智慧衝擊，受影響的主要是服務業。” 高盛估算，若有序推進人工智慧落地應用，衝擊有望得到緩解，同時未來十年整體生產力或將提升 0.4 個百分點。
-
----
-
-### 2026-08-14 14:20:40  #央行 #日本央行
-
-【日本央行加息或提速！美元對日元急跌 市場擔心潛在流動性衝擊】在“近期有必要加息”上，日本政府與央行形成了共識，下一次加息視窗指向9月18日或10月29~30日的央行會議。市場人士認為，日本政府的表態意味著，他們也已意識到單靠外匯干預無法持久支撐日元，日本央行加息步調才是日元能否企穩的關鍵。
-
----
-
-### 2026-08-14 14:20:19  #MKT News
-
-Australia's S&P/ASX 200 closed down 83.50 points (-0.91%) at 9,105.00 on Friday, Aug. 14.
-
----
-
-### 2026-08-14 14:20:02  #其他
-
-LG將推出基於NVIDIA Isaac GR00T平臺打造的下一代人形機器人。
-
----
-
-### 2026-08-14 14:19:56  #其他
-
-【浙江：制定腦機介面產品醫療應用清單】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 釋出應用場景清單。圍繞感知運動增強、重大腦疾病治療、腦健康管理與干預等方向，重點打造一批典型醫療應用場景，推動腦機介面創新產品先行先試。 最佳化產品應用路徑。制定腦機介面產品醫療應用清單，根據產品獲批上市情況動態更新。鼓勵腦機介面企業自主合理定價。試點開展腦機介面創新醫療器械示範推廣應用專案。 推進政府首購訂購。對符合首臺（套）裝備、首批次材料等政策的腦機介面產品，按照相關要求選擇適宜方式開展政府首購、訂購。
-
----
-
-### 2026-08-14 14:19:15  #市場 #焦點
-
-京投發展盤中跌停，上演“天地板”，現報11.64元，成交額10.9億元。
-
----
-
-### 2026-08-14 14:19:10  #MKT News #WTI #Impact bullish #Brent
-
-【Cui Dongshu: July 2026 China auto market weakness driven by oil shock, macro slowdown and seasonality】CPCA-affiliated Cui Dongshu said July weakness in the China auto market was caused by a convergence of factors: an oil-price rebound, macro slowdown, seasonality, demand pull-forward and policy shifts. Geopolitical disruption around the Strait of Hormuz pushed international oil prices higher; domestic gasoline prices have been cumulatively raised by 1,575 yuan/ton in 2026, significantly raising running costs and sharply eroding demand for gasoline passenger cars while having little impact on commercial-vehicle demand. July saw MoM declines in CPI and PPI and a softer PMI; cautious income and consumption expectations and weak appetite for big-ticket durables depressed housing and transport spending and terminal auto demand. High July temperatures reduced showroom footfall, and a June half-year sales push pulled forward demand, leaving orders and retail traffic falling in tandem.
-
----
-
-### 2026-08-14 14:18:40  #市場
-
-網宿科技盤中漲停，漲幅20.01%，成交額超69億元。
-
----
-
-### 2026-08-14 14:18:32  #國際
-
-【美國二戰紀念碑遭汙損】據美國媒體報道，位於華盛頓的美國國家二戰紀念碑當地時間8月13日遭蓄意破壞，警方正在展開調查。事發現場能看到，部分紀念碑上被噴了紅色的英文塗鴉和油漆，塗鴉字樣為“乾淨的手、骯髒的美元（clean hands,dirty $）”。破壞者還將肥皂之類的藥劑倒入噴泉池中，導致池水大量起泡。調查人員在對受損情況進行勘驗後，工作人員已展開清理工作。 美國國家二戰紀念碑位於華盛頓特區的國家廣場公園內，坐落於林肯紀念堂與華盛頓紀念碑之間的鏡池東段。該紀念碑始建於2001年9月，2004年4月對公眾開放，同年5月舉行竣工典禮，旨在紀念二戰期間服役的1600萬美國軍人。（CCTV國際時訊）
-
----
-
-### 2026-08-14 14:17:51  #其他
-
-【浙江：對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，提升概念驗證能力。支援腦機介面領域企業、高校院所、科創平臺等共建概念驗證中心。推動概念驗證中心與省重大科技專項、新產品試製計劃等聯動佈局。鼓勵高校院所推動腦機介面科研成果“應驗盡驗”。 支援開展臨床研究。結合臨床資源優勢、規範管理能力等，分類建設腦機介面臨床試驗基地、臨床與轉化病房、臨床預備佇列。對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元。
 
 ---
