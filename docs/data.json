@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-18 04:12:13",
-  "count": 15227,
+  "updated": "2026-08-18 04:16:06",
+  "count": 15226,
   "items": [
+    {
+      "id": "mkt:01a0115d-1a65-7aab-9069-823d89becc86",
+      "time": "2026-08-18 04:15:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "【Anthropic's annualized revenue tops $65 billion ahead of IPO】People familiar said Anthropic's current performance implies annualized recurring revenue (ARR) above $65 billion, more than a sevenfold increase versus year-end. One source said Anthropic reported the figure to investors in routine updates; ARR stood at $65 billion as of end-July. The revenue acceleration has strengthened the company's confidence in pursuing an IPO. Anthropic and OpenAI have privately filed listing documents; Anthropic could debut on Wall Street as soon as this fall, potentially ahead of OpenAI."
+    },
+    {
+      "id": "te:markets:575928",
+      "time": "2026-08-18 04:13:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Drop as Middle East Risks Escalate — US stock indices closed lower on Monday amid concerns that elevated oil prices will fuel inflation as hopes for a deal to end the war in the Middle East faded. The S&P 500 fell 0.5%, the Nasdaq lost 0.2% and the Dow shed 273 points. Prospects for peace suffered a setback, with fighting flaring anew and rhetoric escalating. Oil prices rose, rasing concerns that inflation could prompt the Fed to raise rates before the year is over. The 30-year Treasury yield hit its highest level since 2007, reflecting concerns over surging government spending. Credit-sensitive stocks, including financials and hyperscalers, closed lower. Google lost 0.6%, Microsoft was down 3% and Meta shed 3.5%. Berkshire Hathaway lost 1.1%, Visa shed 1.5% and Amex retreated 1.8%. Meanwhile, chipmakers posted gains after strong revenue growth from Anthropic. The company is meeting with banks over a potential IPO, which could be the biggest on record. Micron added 4.1%, Intel gained 1% and Sandisk soared 9%."
+    },
+    {
+      "id": "mkt:01a0115b-0142-7aab-9069-791d73b3e150",
+      "time": "2026-08-18 04:12:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FIFA dismisses COO after criticism of Infantino's plan to sell World Cup stakes】FIFA confirmed on Aug. 17 it has terminated the employment of chief operating officer Kevin Lamour. British media, including Sky News, reported the dismissal followed Lamour's public criticism of FIFA president Gianni Infantino's proposal to sell portions of World Cup and other tournament stakes to private investors."
+    },
     {
       "id": "mkt:01a01158-963d-7aab-9069-708dd3f6ed16",
       "time": "2026-08-18 04:10:13",
@@ -139507,49 +139537,6 @@
         "國際"
       ],
       "text": "摩根士丹利計劃未來十年促成最高1.5萬億美元資金，用於美國創新基建計劃，涵蓋AI、半導體等戰略領域。"
-    },
-    {
-      "id": "5034584",
-      "time": "2026-08-11 04:15:29",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根士丹利啟動美國創新基礎設施計劃，將重點關注人工智慧、基礎設施和國防領域。"
-    },
-    {
-      "id": "mkt:019fed50-93a9-7aab-8fe0-b9f230856be7",
-      "time": "2026-08-11 04:15:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MS.O",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley launched a US Innovation Infrastructure Program aiming to facilitate about $1.5 trillion of capital raising, financing, advisory and related investment activities over the next 10 years."
-    },
-    {
-      "id": "te:markets:574198",
-      "time": "2026-08-11 04:13:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Simon Property earnings below expectations at 1.49 USD — Simon Property (SPG) released earnings per share at 1.49 USD, compared to market expectations of 1.61 USD."
-    },
-    {
-      "id": "mkt:019fed4e-725a-7aab-8fe0-b417794d39db",
-      "time": "2026-08-11 04:12:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "German foreign minister Wadephul told Iranian foreign minister Araghchi in a call he urged Iran to enter constructive talks with regional neighbors and the US to end the conflict. He said the Strait of Hormuz must be unconditionally open to ensure all vessels can navigate freely and safely."
     }
   ]
 }
