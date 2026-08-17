@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-18 03:04:24",
-  "count": 15253,
+  "updated": "2026-08-18 03:08:15",
+  "count": 15261,
   "items": [
+    {
+      "id": "mkt:01a0111d-cd48-7aab-9068-a7afc7a8c12e",
+      "time": "2026-08-18 03:06:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kushner says talks are currently positive and proactive."
+    },
+    {
+      "id": "mkt:01a0111d-8295-7aab-9068-9a139eaf6425",
+      "time": "2026-08-18 03:05:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kushner: we have not yet reached a consensus."
+    },
+    {
+      "id": "5044733",
+      "time": "2026-08-18 03:05:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "庫什納：特朗普會在伊朗相關協議問題上保持耐心。"
+    },
+    {
+      "id": "mkt:01a0111d-49b0-7aab-9068-96d2ac549e07",
+      "time": "2026-08-18 03:05:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kushner, Trump's son-in-law, said US–Iranian government dialogue across multiple channels is more active than ever."
+    },
+    {
+      "id": "mkt:01a0111d-01dc-7aab-9068-8f3fa516557a",
+      "time": "2026-08-18 03:05:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "The Times reports U.S. Trade Representative Greer said Trump's threat to impose 100% tariffs on the UK \"is not bluster.\""
+    },
+    {
+      "id": "5044732",
+      "time": "2026-08-18 03:04:55",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "庫什納：我們尚未達成共識。"
+    },
+    {
+      "id": "5044731",
+      "time": "2026-08-18 03:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "庫什納：對話積極且富有成效。"
+    },
+    {
+      "id": "5044730",
+      "time": "2026-08-18 03:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "庫什納：美國與伊朗政府不同部門之間的對話，比以往任何時候都更為深入。"
+    },
+    {
+      "id": "5044729",
+      "time": "2026-08-18 03:03:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7417元，較上週五夜盤收盤漲5點。成交量311.47億美元。"
+    },
     {
       "id": "mkt:01a01119-5ebe-7aab-9068-8353488ad5fd",
       "time": "2026-08-18 03:01:10",
@@ -139755,15 +139839,6 @@
         "國際"
       ],
       "text": "【烏克蘭空軍一架米格-29戰機墜毀】烏克蘭空軍當地時間10日在社交媒體發文說，當晚，烏空軍一架米格-29戰機在敖德薩州空域執行戰鬥任務時突發緊急狀況墜毀。烏空軍稱，初步調查結果顯示，該戰機在發射導彈時起火，隨後失控，飛行員彈射逃生並被送醫。事故原因還在進一步調查中。"
-    },
-    {
-      "id": "5034529",
-      "time": "2026-08-11 03:07:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破66美元/盎司，日內漲3.94%。"
     }
   ]
 }

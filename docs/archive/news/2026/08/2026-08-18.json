@@ -1,7 +1,91 @@
 {
   "date": "2026-08-18",
-  "count": 192,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:01a0111d-cd48-7aab-9068-a7afc7a8c12e",
+      "time": "2026-08-18 03:06:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kushner says talks are currently positive and proactive."
+    },
+    {
+      "id": "mkt:01a0111d-8295-7aab-9068-9a139eaf6425",
+      "time": "2026-08-18 03:05:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kushner: we have not yet reached a consensus."
+    },
+    {
+      "id": "5044733",
+      "time": "2026-08-18 03:05:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "庫什納：特朗普會在伊朗相關協議問題上保持耐心。"
+    },
+    {
+      "id": "mkt:01a0111d-49b0-7aab-9068-96d2ac549e07",
+      "time": "2026-08-18 03:05:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kushner, Trump's son-in-law, said US–Iranian government dialogue across multiple channels is more active than ever."
+    },
+    {
+      "id": "mkt:01a0111d-01dc-7aab-9068-8f3fa516557a",
+      "time": "2026-08-18 03:05:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "The Times reports U.S. Trade Representative Greer said Trump's threat to impose 100% tariffs on the UK \"is not bluster.\""
+    },
+    {
+      "id": "5044732",
+      "time": "2026-08-18 03:04:55",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "庫什納：我們尚未達成共識。"
+    },
+    {
+      "id": "5044731",
+      "time": "2026-08-18 03:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "庫什納：對話積極且富有成效。"
+    },
+    {
+      "id": "5044730",
+      "time": "2026-08-18 03:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "庫什納：美國與伊朗政府不同部門之間的對話，比以往任何時候都更為深入。"
+    },
+    {
+      "id": "5044729",
+      "time": "2026-08-18 03:03:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7417元，較上週五夜盤收盤漲5點。成交量311.47億美元。"
+    },
     {
       "id": "mkt:01a01119-5ebe-7aab-9068-8353488ad5fd",
       "time": "2026-08-18 03:01:10",
