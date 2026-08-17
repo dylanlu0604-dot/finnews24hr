@@ -1,7 +1,77 @@
 {
   "date": "2026-08-17",
-  "count": 2376,
+  "count": 2384,
   "items": [
+    {
+      "id": "5044504",
+      "time": "2026-08-17 22:11:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "Equinor 將以 9.4 億美元收購拉克萬納能源中心 87.71% 的 A 類股份。"
+    },
+    {
+      "id": "mkt:01a01010-3b2c-7aab-9064-22a4fbe2249b",
+      "time": "2026-08-17 22:11:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EQUINOR to acquire a partial stake in Lackawanna Energy Center."
+    },
+    {
+      "id": "5044503",
+      "time": "2026-08-17 22:11:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷藍航空股價在海港研究將其股票評級下調至“中性”後下跌約3.5%。"
+    },
+    {
+      "id": "5044502",
+      "time": "2026-08-17 22:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，內塔尼亞胡在與庫什納會晤時，攜辛貝特（以色列國家安全總局）局長戴維・齊尼以及軍事情報局局長什洛米・賓德一同參會，向庫什納通報哈馬斯在加沙地帶的違規行為。"
+    },
+    {
+      "id": "mkt:01a0100f-7ef0-7aab-9064-1b45b34feec7",
+      "time": "2026-08-17 22:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios cited a source saying that during a meeting with Jared Kushner, Netanyahu brought Israel's Shin Bet chief David Zeni and Military Intelligence chief Shlomi Binder to brief Kushner on Hamas's violations in Gaza."
+    },
+    {
+      "id": "5044501",
+      "time": "2026-08-17 22:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：到2050年，加拿大的電力需求預計將翻倍。因此我們必須將電網的容量也翻倍。"
+    },
+    {
+      "id": "mkt:01a0100e-1eac-7aab-9064-159d43c13bdd",
+      "time": "2026-08-17 22:09:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Canada's Prime Minister Carney said electricity demand is expected to double by 2050 and that grid capacity must be doubled accordingly."
+    },
+    {
+      "id": "5044500",
+      "time": "2026-08-17 22:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：內塔尼亞胡‑庫什納會晤後，以色列與美國達成一致，哈馬斯第一階段上繳的武器將直接交由美軍銷燬。"
+    },
     {
       "id": "mkt:01a0100c-c221-7aab-9064-0ec80b25ec44",
       "time": "2026-08-17 22:07:46",
