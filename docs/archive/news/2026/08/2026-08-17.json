@@ -1,7 +1,145 @@
 {
   "date": "2026-08-17",
-  "count": 735,
+  "count": 749,
   "items": [
+    {
+      "id": "5043413",
+      "time": "2026-08-17 11:33:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF午評：科創成長ETF領漲5.02%，酒ETF領跌2.95%】ETF截止中午收盤漲跌不一，科創成長ETF（588110）領漲5.02%，科創成長ETF（589700）漲4.89%，科創成長ETF（588070）漲4.67%，酒ETF（512690）領跌2.95%，遊戲ETF（516010）跌2.72%，遊戲ETF（159869）跌2.62%。"
+    },
+    {
+      "id": "mkt:01a00dc7-faa6-7aab-9055-89a2ec5854ad",
+      "time": "2026-08-17 11:33:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Traders said the Reserve Bank of India may be selling U.S. dollars to support the rupee."
+    },
+    {
+      "id": "5043412",
+      "time": "2026-08-17 11:33:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據交易員稱，印度央行大機率正在拋售美元以支撐盧比匯率。"
+    },
+    {
+      "id": "5043411",
+      "time": "2026-08-17 11:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉發文稱，“展示FSD監督模式幫你規避過的最驚險的事故。直接在下方附上你的影片。”有分析認為，特斯拉車輛以及Cybercab在全自動駕駛模式下出現操作異常的影片，已在本平臺及其他網站廣泛傳播，特斯拉似乎正因此承受巨大壓力。"
+    },
+    {
+      "id": "mkt:01a00dc7-5cc1-7aab-9055-87f59f66fea1",
+      "time": "2026-08-17 11:32:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【ETF turnover on China's two exchanges 272.25 bln yuan, down 32.41 bln vs same time yesterday】As of now, ETF turnover on China's two exchanges stood at 272.25 bln yuan, 32.41 bln yuan lower than the same point in the prior session. By type: equity ETFs 91.15 bln; bond ETFs 127.40 bln; money-market ETFs 10.95 bln; commodity ETFs 4.54 bln; QDII ETFs 38.07 bln."
+    },
+    {
+      "id": "5043410",
+      "time": "2026-08-17 11:32:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府及執政聯盟擬於 9 月下旬召集國會。"
+    },
+    {
+      "id": "5043409",
+      "time": "2026-08-17 11:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報2722.54億元，較上一交易日此時縮量324.05億元】截至目前，ETF兩市成交額報2722.54億元，較上一交易日此時縮量324.05億元，分型別來看，股票型ETF成交額911.53億元，債券型ETF成交額1273.96億元，貨幣型ETF成交額109.52億元，商品型ETF成交額45.38億元，QDII型ETF成交額380.66億元。"
+    },
+    {
+      "id": "5043408",
+      "time": "2026-08-17 11:31:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期國債收益率上行3個基點，印度儲備銀行將提前終止外匯工具。"
+    },
+    {
+      "id": "mkt:01a00dc6-5c64-7aab-9055-782598a833f5",
+      "time": "2026-08-17 11:31:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Fujian records 344 mln yuan of imports on zero tariffs after China’s Africa tariff rollout】China implemented zero tariffs on imports from 53 African diplomatic partners from May 1. As of 100 days after rollout, Fujian province reported 344 mln yuan of imports benefiting from zero tariffs; 82 firms imported from 23 African countries and received 35.69 mln yuan in tariff relief. Agricultural and mineral goods accounted for 92% of the tariff benefits, reflecting strong Fujian demand for African resource products."
+    },
+    {
+      "id": "mkt:01a00dc6-3cc5-7aab-9055-706ffae0df16",
+      "time": "2026-08-17 11:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures morning session close】China bond futures at the morning close: 2-year (TS) most-active contract down 0.01%; 5-year (TF) flat; 10-year (T) down 0.02%; 30-year (TL) down 0.15%."
+    },
+    {
+      "id": "mkt:01a00dc6-20a1-7aab-9055-6ffe841e5554",
+      "time": "2026-08-17 11:31:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Stock index futures morning-session close】China stock index futures: CSI 300 (IF) main contract +0.83%; SSE 50 (IH) main contract +0.51%; CSI 500 (IC) main contract +1.80%; CSI 1000 (IM) main contract +1.62%."
+    },
+    {
+      "id": "5043407",
+      "time": "2026-08-17 11:31:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "夏威夷電氣公司：預計來自美國本土電力企業的援助將於週二抵達。"
+    },
+    {
+      "id": "mkt:01a00dc5-e810-7aab-9055-60e542b4c9e5",
+      "time": "2026-08-17 11:31:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning close, China's most-active futures were mostly higher. Container shipping Europe-route futures jumped nearly 9%; mono-ethylene glycol (MEG) rose over 5%. Synthetic rubber and benzene gained more than 4%; PTA, p-xylene and low-sulfur fuel oil climbed around 4%. Lagging: corn, starch and lithium carbonate fell over 1%."
+    },
+    {
+      "id": "5043406",
+      "time": "2026-08-17 11:30:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股午評：科創50指數高開高走漲3.04%，糧食概念、半導體、儲存晶片板塊漲幅居前】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.84%，深證成指漲1.26%，創業板指漲1.33%，北證50漲1.41%，科創50指數漲3.04%。全市場成交額15069億元，較上日放量1106億元，全市場超3800只個股上漲。板塊題材上，糧食概念、培育鑽石、電子化學品、半導體、儲存晶片板塊漲幅居前；白酒、遊戲、影視院線、網路遊戲、雲遊戲板塊跌幅居前。盤面上，糧食概念板塊高開高走，金健米業、農發種業、京糧控股漲停，秋樂種業一度漲超21%，神農種業、康農種業、登海種業漲幅居前。培育鑽石板塊表現活躍，黃河旋風、亞振家居漲停，惠豐鑽石、力量鑽石、國機精工漲幅居前。半導體板塊表現強勢，有研新材漲停，中微半導、普冉股份、中科飛測、芯朋微、盛合晶微漲幅居前。白酒板塊震盪走低，古井貢酒、迎駕貢酒、貴州茅臺領跌。影視院線板塊表現低迷，北京文化一字跌停，儒意電影跌超8%，華智數媒、中國電影、上海電影跟跌。"
+    },
     {
       "id": "5043405",
       "time": "2026-08-17 11:30:41",
