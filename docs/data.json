@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-17 09:57:08",
-  "count": 15182,
+  "updated": "2026-08-17 10:01:00",
+  "count": 15179,
   "items": [
+    {
+      "id": "5043247",
+      "time": "2026-08-17 10:00:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國汽車晶片五項認證認可行業標準釋出】記者今天瞭解到，市場監管總局（國家認監委）近日批准立項的《汽車晶片機構認證審查 通用評價要求》等五項認證認可行業標準釋出。該五項標準構建了全球首個針對汽車晶片全產業鏈相關機構的國家層面能力評價標準體系，標誌著我國在構建自主可控的汽車晶片質量保障體系方面取得重大制度突破。汽車晶片是智慧網聯汽車的中樞神經，也是核心戰略資源。長期以來，由於缺乏統一的評價體系，國產晶片在上車應用過程中面臨准入壁壘高、市場信任度低等挑戰，規模化應用受阻。此次釋出的五項標準，系統構建了汽車晶片領域機構能力評價體系，既確立了汽車晶片機構認證審查的通用評價要求，又為設計、認證、測試、算力等各類機構提供了能力評價的專業指引和操作遵循，將有力引導全產業鏈機構提升專業能力，保障汽車晶片認證審查活動的專業性、一致性和權威性，加速打通國產晶片從研發到上車應用的質量鏈條，為行業高質量發展奠定堅實制度基礎，推動形成萬億級汽車晶片產業生態。（央視新聞）"
+    },
+    {
+      "id": "5043246",
+      "time": "2026-08-17 09:59:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平等黨和國家領導人出席紀念江澤民同志誕辰100週年大會】8月17日上午，紀念江澤民同志誕辰100週年大會在人民大會堂隆重舉行。習近平等黨和國家領導人步入會場。（央視新聞）"
+    },
+    {
+      "id": "5043245",
+      "time": "2026-08-17 09:58:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Omdia：第二季度全球可穿戴腕帶裝置出貨量同比下降2%】Omdia最新資料顯示，2026年第二季度，全球可穿戴腕帶裝置出貨量同比下降2%，但這一總體下滑掩蓋了消費者需求中日益擴大的分化趨勢。得益於高階運動款的強勁表現，智慧手錶出貨量增長了6%；與此同時，新型無屏基礎手環也勢頭強勁，因為消費者正日益傾向於選擇極簡主義裝置或功能更強大的運動手錶。2026年第二季度，華為以18%的市場份額領跑整體可穿戴腕帶裝置市場，較2025年第二季度的17%上升了一個百分點。其表現得益於可穿戴產品線的持續擴充套件，包括其旗艦兒童智慧手錶的全球釋出。"
+    },
+    {
+      "id": "5043244",
+      "time": "2026-08-17 09:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微靈醫療宣佈完成超億元人民幣融資】微靈醫療近日宣佈完成超億元人民幣融資。本輪融資由君重資本領投，其管理的嘉興英諾特產業基金為主要出資方之一。此前，微靈醫療已獲得高榕資本、 生命園創投、鼎暉投資、力合科創等多家一線投資機構加持。募集資金將重點用於推進植入式腦機介面核心產品的臨床驗證，加快醫療器械註冊申報程序，完善生產製造體系建設，並持續拓展面向神經功能修復領域的臨床應用佈局。"
+    },
+    {
+      "id": "mkt:01a00d6f-dfae-7aab-9053-b1a6736a1425",
+      "time": "2026-08-17 09:57:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share pork sector rallied; Luoniushan hit the daily limit-up, with Delis, Jinxinnong, Huatong and Bright Food Meat also rising."
+    },
+    {
+      "id": "te:markets:575630",
+      "time": "2026-08-17 09:56:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Holds Near Two-Week High — US gasoline futures held around $3.18 per gallon, near a more than two-week high, as crude shipments through the Strait of Hormuz slowed while US-Iran negotiations stalled. Prospects for a peace deal remain limited after President Trump signaled plans to increase economic pressure on Tehran, while Treasury Secretary Scott Bessent said new sanctions could be announced this week. Meanwhile, more vessels came under attack in the key waterway late last week, including ships linked to Abu Dhabi National Oil Co. Despite the disruptions, Middle Eastern producers continue to transport substantial volumes of crude through the Persian Gulf. Elsewhere, repeated Ukrainian strikes on Russian oil refineries have disrupted fuel supplies, prompting gasoline rationing in at least two regions and restrictions on refined-product exports. Russia has since extended its existing diesel export ban until January 2027, maintaining restrictions on global middle-distillate supplies."
+    },
     {
       "id": "5043243",
       "time": "2026-08-17 09:55:48",
@@ -421,6 +473,14 @@
         "市場"
       ],
       "text": "【玻纖概念持續走強，卓郎智慧直線漲停】玻纖概念持續走強，卓郎智慧直線漲停，山東玻纖、中國巨石、宏和科技、金安國紀、國際復材、中材科技等跟漲。"
+    },
+    {
+      "id": "5043209",
+      "time": "2026-08-17 09:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【港股南方恒生科技上週被韓國投資者淨買入近700萬美元】韓國證券存管院（KSD）資料顯示，8月10日-8月16日，韓國投資者A股市場淨買入榜單排名前3依次為：長電科技（600584）淨買入151.6萬美元，中國化學（601117）淨買入127.2萬美元，萬華化學（600309）淨買入103.6萬美元。此外，韓國投資者港股市場上週淨買入榜單排名前3依次為：南方恒生科技（HK3033）淨買入694.7萬美元，華夏滬深三百-R（K83188）淨買入361.7萬美元，寧德時代（HK3750）淨買入82.6萬美元。"
     },
     {
       "id": "5043208",
@@ -138702,98 +138762,6 @@
         "公司"
       ],
       "text": "AP記憶體公司任命前高通副總裁JIAN ZHANG，強化全球領導團隊。"
-    },
-    {
-      "id": "mkt:019fe966-d0ac-7aab-8fce-fa25c54ff888",
-      "time": "2026-08-10 10:00:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "A-share gold sector extended gains; Chaohongji and Baoding Technology hit limit-up, while Shanjin International, Zhaojin Gold, Caibai Co. and Western Gold also rose."
-    },
-    {
-      "id": "5032997",
-      "time": "2026-08-10 10:00:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多瑙河水位降至新低 塞爾維亞航運與電力受影響】近日，受持續高溫天氣影響，多瑙河塞爾維亞段入口處水位降至百年來最低點，當地航運、電力生產及河流生態系統均受到威脅，部分地區宣佈進入緊急狀態。近日，在多瑙河流入塞爾維亞境內的入口處貝茲丹，河水水位較1909年有記錄以來的歷史最低水位還低出20釐米。受此影響，塞爾維亞境內多個河段出現大面積沙洲與淺灘，航道通行能力顯著下降。（央視新聞）"
-    },
-    {
-      "id": "5032996",
-      "time": "2026-08-10 10:00:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門聯合啟動2026年度計量支撐產業新質生產力發展專案徵集工作】記者今天（10日）瞭解到，市場監管總局、工業和資訊化部近日聯合印發通知，公開徵集2026年度計量支撐產業新質生產力發展專案。此舉旨在深入貫徹落實《計量支撐產業新質生產力發展行動方案（2025—2030年）》部署要求，圍繞戰略性新興產業和未來產業新質生產力發展迫切需求，持續發揮計量在科技創新、產業升級中的基礎性、戰略性作用，加快破解產業發展關鍵計量技術瓶頸，推動產業高質量發展。本次專案徵集圍繞新一代資訊科技、人工智慧、航空航天、新能源、新材料、高階裝備、生物醫藥、量子科技、積體電路、儀器儀表十大重點領域，聚焦產業鏈關鍵共性計量裝備研製、計量技術攻關與產業化應用，重點支援能夠破解“卡脖子”難題、實現國產替代、填補國內外空白的重大創新專案。（央視新聞）"
-    },
-    {
-      "id": "5032995",
-      "time": "2026-08-10 10:00:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【黃金概念持續走強，潮宏基等多股漲停】黃金概念持續走強，潮宏基、寶鼎科技、鵬欣資源漲停，華鈺礦業、招金黃金、菜百股份、西部黃金、盛屯礦業、盛達資源等跟漲。"
-    },
-    {
-      "id": "5032994",
-      "time": "2026-08-10 09:59:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紡服行業板塊震盪反彈，富春染織漲停】紡服行業板塊震盪反彈，富春染織漲停，雲中馬、比音勒芬、萬里馬、百隆東方、ST如意、報喜鳥等跟漲。"
-    },
-    {
-      "id": "5032993",
-      "time": "2026-08-10 09:58:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股寒武紀跌超5%，成交額超100億元。"
-    },
-    {
-      "id": "mkt:019fe964-c8b0-7aab-8fce-f1179a818b64",
-      "time": "2026-08-10 09:58:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "688256.SH",
-        "Impact bearish"
-      ],
-      "text": "Cambricon shares on the A-share market fell more than 5% as turnover topped 10 billion yuan."
-    },
-    {
-      "id": "5032992",
-      "time": "2026-08-10 09:58:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內漲3%，現報965.00元。"
-    },
-    {
-      "id": "5032991",
-      "time": "2026-08-10 09:58:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "軍工板塊異動拉昇，長城軍工直線漲停，北方長龍漲超10%，湖南天雁、建設工業、東安動力衝高。"
-    },
-    {
-      "id": "5032990",
-      "time": "2026-08-10 09:57:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【高爭民爆漲停走出3連板】高爭民爆漲停走出3連板，3天累計漲幅達33.11%。"
     }
   ]
 }
