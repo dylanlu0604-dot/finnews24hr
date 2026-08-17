@@ -1,7 +1,128 @@
 {
   "date": "2026-08-17",
-  "count": 1751,
+  "count": 1765,
   "items": [
+    {
+      "id": "mkt:01a00f33-d6e8-7aab-905e-57cd057fd95f",
+      "time": "2026-08-17 18:10:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported a large explosion in Mocha, western Yemen, after Yemeni armed forces fired dozens of ballistic missiles and drones at military positions and weapons depots of pro‑Saudi mercenaries in Mocha and Marib."
+    },
+    {
+      "id": "5044093",
+      "time": "2026-08-17 18:10:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST未名：股票交易異常波動 不存在應披露未披露重大事項】*ST未名公告稱，公司股票於2026年8月13日、8月14日及8月17日連續3個交易日收盤價格漲幅累計偏離22.94%，屬於股票交易異常波動情形。經自查並核實控股股東、實際控制人相關情況，近期公司經營情況及內外部經營環境未發生重大變化，公司及控股股東不存在應披露而未披露的重大事項，控股股東在本次異常波動期間不存在買賣公司股票的行為，不存在違反公平資訊披露規定的情形。公司股票自2026年4月30日開市起已被實施退市風險警示。"
+    },
+    {
+      "id": "te:economy:575837",
+      "time": "2026-08-17 18:10:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Peru Economic Activity Slows Further in June — Peru’s economy expanded 1.75% year-on-year in June 2026, easing slightly from 1.8% in May and marking the weakest growth since November 2025. Fishing recorded the steepest contraction, plunging 51.9% after a 73.1% decline in the previous month, as warmer surface waters linked to the El Niño phenomenon pushed fish into deeper waters. In turn, agriculture also weakened, falling 8.1% after a 0.1% increase. Growth in mining and hydrocarbons reversed to a 2.2% contraction from a 2.6% gain, while the decline in manufacturing narrowed to 6.2% from 10.7%. Offsetting some of the weakness, growth accelerated in commerce (7.8% vs 6.9%), construction (9% vs 4.7%) and utilities (6.8% vs 5.2%). In the first half of 2026, the economy expanded 3.05%, while growth over the 12 months through June reached 3.33%."
+    },
+    {
+      "id": "mkt:01a00f32-fe9f-7aab-905e-493524b4249d",
+      "time": "2026-08-17 18:09:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Two explosive-laden drones target Kurdistan Region PM office and security chief's residence; no casualties】On the 17th at 00:28 local time the Kurdistan Region Counter-Terrorism Directorate said two explosive‑laden Hadid‑110 drones were launched from the direction of the Iranian border, targeting the Kurdistan Region prime minister’s office and the residence of the Kurdistan Region Security Directorate chief in Pirmam district, Erbil province. The directorate said there were no casualties and vowed to hold the perpetrators accountable."
+    },
+    {
+      "id": "5044092",
+      "time": "2026-08-17 18:09:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克庫區稱兩架無人機襲擊總理辦公室】當地時間17日，據伊拉克庫爾德自治區（庫區）反恐總局宣告，當天凌晨0時28分，兩架裝載爆炸物的“哈迪德110”型無人機從伊朗邊境方向起飛，目標為伊拉克庫區總理辦公室和位於伊庫區埃爾比勒省皮爾馬姆區的庫區安全域性局長官邸。此次襲擊未造成人員傷亡。宣告強烈譴責此次襲擊和侵略行為，重申這些行為“完全不可接受”，並將追究肇事者的一切責任。（央視新聞）"
+    },
+    {
+      "id": "5044091",
+      "time": "2026-08-17 18:09:20",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元跌至三個月低點 因投資者削減對美聯儲加息的押注】美元跌至三個月低點，之前一系列疲軟的美國經濟資料導致投資者降低了對美聯儲進一步加息的預期。美元即期指數連續第三個交易日下跌，觸及5月15日以來的最低水平。目前市場反映的美聯儲下月加息機率降至三分之一，低於7月末的75%左右。之前美國公佈的7月就業資料不佳，通脹溫和，零售銷售資料則意外疲軟。而本週鮮有重大資料能夠引發美元大幅突破，週五的全球採購經理人指數或許是下一個實質性考驗所在。Brown Brothers Harriman市場戰略全球主管Elias Haddad稱，如果美國經濟資料改善，鞏固美國的增長優勢，則可能提振美元。 然而，市場目前預期本輪緊縮週期裡的進一步加息幅度僅為36個基點左右，期權市場顯示美元短期內將面臨更大壓力。1個月期期權自2月底以來首次轉為看空美元，更長期限的期權仍然看多。"
+    },
+    {
+      "id": "5044090",
+      "time": "2026-08-17 18:08:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青矩技術：2026年半年度淨利潤7466.69萬元，同比增長13.65%】青矩技術公告，2026年半年度營業收入3.51億元，同比下降0.17%。歸屬於上市公司股東的淨利潤7466.69萬元，同比增長13.65%；扣除非經常性損益後的淨利潤7199.48萬元，同比增長13.05%。本報告期未進行權益分派。"
+    },
+    {
+      "id": "5044089",
+      "time": "2026-08-17 18:08:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎陽科技：2026年上半年淨利潤9179.14萬元，同比增19.40%】鼎陽科技公告，2026年上半年營業收入3.58億元，同比增長28.31%。歸屬於上市公司股東的淨利潤9179.14萬元，同比增長19.40%。扣除非經常性損益的淨利潤8933.46萬元，同比增長18.30%。本報告期未進行利潤分配。"
+    },
+    {
+      "id": "5044088",
+      "time": "2026-08-17 18:08:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "KBR股價盤前上漲2.4%，此前該公司贏得北約一份合同，為愛國者防空反導系統提供服務，合同初始上限為6000萬美元。"
+    },
+    {
+      "id": "5044087",
+      "time": "2026-08-17 18:08:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歡樂家：控股子公司出資1000萬元設立全資公司並完成註冊】歡樂家公告，公司控股子公司廣東歡樂家新能源有限公司使用自有資金1000萬元，設立全資子公司湖南歡樂家新能源有限公司。近日，湖南歡樂家已完成工商註冊登記手續，並領取了營業執照。"
+    },
+    {
+      "id": "5044086",
+      "time": "2026-08-17 18:07:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德塔智慧與舞肌科技達成戰略合作，聯合規範全身協同靈巧運算元據採集】近日，原生人形機器人基礎模型公司德塔智慧（Delta Intelligence）宣佈與靈巧手硬體企業舞肌科技正式簽署戰略合作協議。雙方將圍繞全身協同靈巧操作的資料採集與模型訓練展開協同，打通“資料採集—模型訓練—靈巧操作”全鏈路，並計劃於年內推出聯合定義的“全身協同靈巧運算元據標準”與“模型訓練基線”。（新浪科技）"
+    },
+    {
+      "id": "5044085",
+      "time": "2026-08-17 18:07:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲天化：2026年半年度營收228.2億元 同比降8.92%】雲天化公告稱，2026年半年度實現營業收入228.21億元，同比下降8.92%；歸屬於上市公司股東的淨利潤29.34億元，同比增長6.14%。公司擬以權益分派股權登記日登記的總股本為基數，向全體股東每10股派發現金紅利2元（含稅），合計擬派發現金紅利3.65億元，本次利潤分配不送紅股、不以資本公積金轉增股本。"
+    },
+    {
+      "id": "5044084",
+      "time": "2026-08-17 18:07:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲天化：2026年半年度披露自產產品經營資料】雲天化公告稱，公司披露2026年半年度主要自產產品經營資料：磷肥產量209.65萬噸、銷量215.64萬噸，營收8.16億元；複合（混）肥產量119.88萬噸、銷量123.67萬噸，營收4.16億元；尿素產量154.02萬噸、銷量138.06萬噸，營收2.40億元；聚甲醛產量6.24萬噸、銷量5.76萬噸，營收55649.67萬元；黃磷產量1.66萬噸、銷量0.92萬噸，營收21821.10萬元；飼料級磷酸氫鈣產量30.90萬噸、銷量25.83萬噸，營收1.31億元；磷酸鐵產量5.15萬噸、銷量5.04萬噸，營收53978.76萬元。上述資料不含商貿、其他業務及零星產品收入，無其他重大經營影響事項。"
+    },
+    {
+      "id": "5044083",
+      "time": "2026-08-17 18:07:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【光庫科技：2026年上半年營收10.32億元 同比增長72.91%】光庫科技公告稱，2026年上半年公司實現營業收入10.32億元，同比增長72.91%；歸母淨利潤1.48億元，同比增長186.09%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。截至2026年6月9日，公司已將泰國光庫生產基地專案節餘募集資金3813.73萬元全部劃轉至普通賬戶並完成專戶銷戶。2025年7月啟動的收購蘇州安捷訊光電科技股份有限公司99.97%股份的重大資產重組事項截至報告期末尚未完成。"
+    },
     {
       "id": "5044082",
       "time": "2026-08-17 18:06:47",
