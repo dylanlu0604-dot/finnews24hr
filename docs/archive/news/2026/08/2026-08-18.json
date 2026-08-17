@@ -1,7 +1,43 @@
 {
   "date": "2026-08-18",
-  "count": 273,
+  "count": 277,
   "items": [
+    {
+      "id": "5044770",
+      "time": "2026-08-18 05:13:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "高管稱，巴西國家石油公司在亞馬遜河口的鑽井作業迄今已耗資約 3 億美元。"
+    },
+    {
+      "id": "te:economy:575932",
+      "time": "2026-08-18 05:13:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capital Flows",
+        "Importance 1"
+      ],
+      "text": "US TIC Inflows Reach $133.5 Billion in June — Net foreign acquisitions of long-term securities, short-term US securities and banking flows resulted in a net TIC inflow of $133.5 billion in June 2026. Net foreign private inflows totaled $85.0 billion, while official inflows reached $48.4 billion. Foreign residents increased their holdings of long-term US securities, with net purchases totaling $207.1 billion. Private foreign investors accounted for $169.8 billion, while official institutions purchased $37.3 billion. US residents also increased their holdings of long-term foreign securities, with net purchases of $34.4 billion. After adjustments, overall net foreign purchases of long-term securities were estimated at $172.7 billion in June. Foreign residents reduced their holdings of US Treasury bills by $29.0 billion, while holdings of dollar-denominated short-term US securities and other custody liabilities fell $4.9 billion."
+    },
+    {
+      "id": "5044769",
+      "time": "2026-08-18 05:11:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "週一（8月17日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7431元，較上週五紐約尾盤漲15點，日內整體交投於6.7439-6.7376元區間，整體衝高回落、北京時間16:30創2023年2月3日（最高達到6.7342元）以來盤中新高，逼近當年1月16日頂部6.6975元。"
+    },
+    {
+      "id": "5044768",
+      "time": "2026-08-18 05:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "ROCKET LAB 加入美國太空部隊價值 9.81 億美元的 NITE‑STAR 專案，推進太空測試與訓練基礎設施建設。"
+    },
     {
       "id": "mkt:01a0118b-f0b8-7aab-9069-b28ef13e5ba6",
       "time": "2026-08-18 05:06:18",
