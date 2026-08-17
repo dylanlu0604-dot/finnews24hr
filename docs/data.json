@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-18 06:37:31",
-  "count": 15209,
+  "updated": "2026-08-18 06:41:34",
+  "count": 15211,
   "items": [
+    {
+      "id": "te:markets:575936",
+      "time": "2026-08-18 06:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Surges by 5.18% — Top commodity gainers are Cocoa (5.18%), Oat (2.63%) and Soybeans (1.85%). Biggest loser is Rubber (-0.68%)."
+    },
+    {
+      "id": "mkt:01a011e0-dca1-7aab-906a-24d794155ac0",
+      "time": "2026-08-18 06:39:04",
+      "tags": [
+        "MKT News",
+        "BHP.O",
+        "Impact bullish"
+      ],
+      "text": "BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY."
+    },
+    {
+      "id": "5044802",
+      "time": "2026-08-18 06:37:13",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "必和必拓本財年營收 587.6 億美元，同比增長 15%。"
+    },
     {
       "id": "mkt:01a011de-b8f5-7aab-906a-19daa1f010fe",
       "time": "2026-08-18 06:36:43",
@@ -139338,17 +139370,6 @@
         "國際"
       ],
       "text": "【週二財經資訊提醒（以下均為北京時間）】 \n① 全天 日本休市；\n② 12:30 澳洲聯儲公佈利率決議和貨幣政策宣告；\n③ 13:30 澳洲聯儲主席布洛克召開貨幣政策新聞釋出會；\n④ 港股盤後 騰訊音樂釋出業績報告；\n⑤ 時間待定 第六屆全球固態電池年度峰會在美國開幕（8月11-12日）；\n⑥ 22:00 美國7月成屋銷售總數年化；\n⑦ 23:00 美國紐約聯儲釋出信用報告；\n⑧ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；\n⑨ 美股盤後 Lumentum、CoreWeave、超微電腦等釋出業績報告。"
-    },
-    {
-      "id": "te:markets:574208",
-      "time": "2026-08-11 06:39:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Rises by 4.26% — Top commodity gainers are Oat (4.26%), Barley (2%) and Cocoa (1.99%). Biggest losers are Rice (-1.97%) and Cotton (-0.75%)."
     }
   ]
 }
