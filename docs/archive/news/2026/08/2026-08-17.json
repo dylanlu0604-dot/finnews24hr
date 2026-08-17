@@ -1,7 +1,62 @@
 {
   "date": "2026-08-17",
-  "count": 504,
+  "count": 510,
   "items": [
+    {
+      "id": "5043243",
+      "time": "2026-08-17 09:55:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豬肉板塊衝高，羅牛山漲停】豬肉板塊衝高，羅牛山漲停，得利斯、金新農、華統股份、光明肉業跟漲。"
+    },
+    {
+      "id": "te:markets:575629",
+      "time": "2026-08-17 09:54:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Climbs as Supply Risks Persist — European natural gas prices climbed above €62 per MWh on Monday, hitting a fresh three-week high amid continued disruption to LNG supplies from the Gulf as US-Iran negotiations stalled. Renewed Israeli strikes against Tehran-backed Hezbollah in Lebanon, along with the latest US threats of additional sanctions on Iran, have further clouded prospects for an imminent agreement to reopen the Strait of Hormuz. Traffic through the waterway has fallen sharply following recent attacks on vessels, highlighting persistent security risks. For Europe, concerns over gas inventories are becoming increasingly pressing, as storage levels remain below historical averages and are lagging the pace needed to comfortably meet pre-winter storage targets. Efforts to rebuild inventories have also been hampered by heatwaves across Southern and Central Europe, which have boosted demand for gas-fired power generation, diverting supplies from storage."
+    },
+    {
+      "id": "5043241",
+      "time": "2026-08-17 09:54:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化肥概念持續走強，紅四方、農發種業雙雙漲停】化肥概念持續走強，紅四方、農發種業雙雙漲停，興發集團、川金諾、赤天化、農大科技、海新能科、六國化工等跟漲。"
+    },
+    {
+      "id": "5043240",
+      "time": "2026-08-17 09:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【填補行業空白 南疆首個礦產垂直大模型落地喀什】據新疆日報，8月14日，第十六屆新疆喀什·中亞南亞商品交易會上，南疆首個面向多礦種、全勘查場景礦產資源垂直領域大模型——“蔥嶺·智尋”AI智慧找礦大模型上線。據瞭解，“蔥嶺·智尋”大模型深度融合我國數十年一線地勘實測資料，構建高質量資料集和樣本庫，填補了南疆—中亞成礦帶多礦種智慧勘查專用礦產大模型的行業空白。"
+    },
+    {
+      "id": "5043239",
+      "time": "2026-08-17 09:53:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【知情人士：珀萊雅攜手Ulta Beauty進軍美國美妝市場】據知情人士透露，珀萊雅將與總部位於伊利諾伊州的零售商Ulta Beauty合作，在美國推出其主力品牌。知情人士稱，珀萊雅已與Ulta敲定合作，計劃於11月在美國該零售商的400家門店及其電商平臺上線兩套珀萊雅同名護膚系列產品。Ulta擁有逾1500家門店，是美國規模最大的專業美妝零售商之一。"
+    },
+    {
+      "id": "5043237",
+      "time": "2026-08-17 09:53:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2733.00元。"
+    },
     {
       "id": "mkt:01a00d6b-0828-7aab-9053-ab8862566ea3",
       "time": "2026-08-17 09:51:53",

@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-17 09:53:16",
-  "count": 15185,
+  "updated": "2026-08-17 09:57:08",
+  "count": 15182,
   "items": [
+    {
+      "id": "5043243",
+      "time": "2026-08-17 09:55:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豬肉板塊衝高，羅牛山漲停】豬肉板塊衝高，羅牛山漲停，得利斯、金新農、華統股份、光明肉業跟漲。"
+    },
+    {
+      "id": "te:markets:575629",
+      "time": "2026-08-17 09:54:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Climbs as Supply Risks Persist — European natural gas prices climbed above €62 per MWh on Monday, hitting a fresh three-week high amid continued disruption to LNG supplies from the Gulf as US-Iran negotiations stalled. Renewed Israeli strikes against Tehran-backed Hezbollah in Lebanon, along with the latest US threats of additional sanctions on Iran, have further clouded prospects for an imminent agreement to reopen the Strait of Hormuz. Traffic through the waterway has fallen sharply following recent attacks on vessels, highlighting persistent security risks. For Europe, concerns over gas inventories are becoming increasingly pressing, as storage levels remain below historical averages and are lagging the pace needed to comfortably meet pre-winter storage targets. Efforts to rebuild inventories have also been hampered by heatwaves across Southern and Central Europe, which have boosted demand for gas-fired power generation, diverting supplies from storage."
+    },
+    {
+      "id": "5043241",
+      "time": "2026-08-17 09:54:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化肥概念持續走強，紅四方、農發種業雙雙漲停】化肥概念持續走強，紅四方、農發種業雙雙漲停，興發集團、川金諾、赤天化、農大科技、海新能科、六國化工等跟漲。"
+    },
+    {
+      "id": "5043240",
+      "time": "2026-08-17 09:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【填補行業空白 南疆首個礦產垂直大模型落地喀什】據新疆日報，8月14日，第十六屆新疆喀什·中亞南亞商品交易會上，南疆首個面向多礦種、全勘查場景礦產資源垂直領域大模型——“蔥嶺·智尋”AI智慧找礦大模型上線。據瞭解，“蔥嶺·智尋”大模型深度融合我國數十年一線地勘實測資料，構建高質量資料集和樣本庫，填補了南疆—中亞成礦帶多礦種智慧勘查專用礦產大模型的行業空白。"
+    },
+    {
+      "id": "5043239",
+      "time": "2026-08-17 09:53:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【知情人士：珀萊雅攜手Ulta Beauty進軍美國美妝市場】據知情人士透露，珀萊雅將與總部位於伊利諾伊州的零售商Ulta Beauty合作，在美國推出其主力品牌。知情人士稱，珀萊雅已與Ulta敲定合作，計劃於11月在美國該零售商的400家門店及其電商平臺上線兩套珀萊雅同名護膚系列產品。Ulta擁有逾1500家門店，是美國規模最大的專業美妝零售商之一。"
+    },
+    {
+      "id": "5043237",
+      "time": "2026-08-17 09:53:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2733.00元。"
+    },
     {
       "id": "mkt:01a00d6b-0828-7aab-9053-ab8862566ea3",
       "time": "2026-08-17 09:51:53",
@@ -138739,93 +138794,6 @@
         "市場"
       ],
       "text": "【高爭民爆漲停走出3連板】高爭民爆漲停走出3連板，3天累計漲幅達33.11%。"
-    },
-    {
-      "id": "5032989",
-      "time": "2026-08-10 09:57:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "Polymarket預測市場認為：AI泡沫在年底前破裂的機率為14%。"
-    },
-    {
-      "id": "mkt:019fe962-9801-7aab-8fce-e99f3a67144f",
-      "time": "2026-08-10 09:56:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【US energy firm ships drilling equipment to Greenland; authorities issue stern warning】Greenland’s autonomous government issued a stern warning to a Texas-headquartered US energy firm after the company recently transported drilling equipment to Greenland, saying it must not undertake oil drilling without proper permits."
-    },
-    {
-      "id": "5032988",
-      "time": "2026-08-10 09:56:14",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【遠大醫藥(00512)早盤漲超5% 自研GPN01530-2斬獲美國FDA快速通道資格】遠大醫藥(00512)早盤漲超5%，截至發稿，漲5.35%，報5.515港元，成交額1337.45萬港元。訊息面上，8月9日，遠大醫藥釋出公告，集團自主研發的用於診斷實體瘤的全球創新放射性核素偶聯藥物 (“RDC”) GPN01530-2近日獲得美國食品藥品監督管理局(“FDA”)授予的快速通道資格(Fast Track Designation，“FTD”)。FDA 設立快速通道機制，旨在加速和促進用於治療當前並無有效治療方案的嚴重或危及生命的疾病、且展示出有滿足這一疾病當前未被滿足的醫療需求潛力的新藥的評審過程。"
-    },
-    {
-      "id": "5032987",
-      "time": "2026-08-10 09:55:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美能源企業運鑽探裝置赴格陵蘭島 遭嚴正警告】據英國方面當地時間9日訊息，丹麥格陵蘭島自治領地方面日前向一家美國能源企業發出“嚴正警告”，要求該企業不得在未經許可的情況下在當地開展石油鑽探活動。據悉，這家總部位於美國得克薩斯的能源企業近日將鑽探裝置運抵格陵蘭島，引發當地關注。（央視新聞）"
-    },
-    {
-      "id": "5032986",
-      "time": "2026-08-10 09:54:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【國泰君安國際漲超35% 獲國泰海通溢價44%建議私有化】截至發稿，國泰君安國際(01788.HK)漲35.10%。訊息面上，公司及控股股東國泰海通聯合公佈，國泰海通作為要約人建議把國泰君安國際私有化及撤銷上市地位，每股登出價3港元，比國泰君安國際停牌報收報2.08港元溢價約44.23%。"
-    },
-    {
-      "id": "mkt:019fe960-2b5e-7aab-8fce-e668cb2df284",
-      "time": "2026-08-10 09:53:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 exceeded 67,000 points, rising 2.13% intraday."
-    },
-    {
-      "id": "5032985",
-      "time": "2026-08-10 09:53:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股有色金屬股走強 贛鋒鋰業漲超6%】截至發稿，贛鋒鋰業(01772.HK)漲6.05%，天齊鋰業(09696.HK)漲5.48%，力勤資源(02245.HK)漲3.72%。"
-    },
-    {
-      "id": "mkt:019fe95f-cd69-7aab-8fce-d85a63bf43e7",
-      "time": "2026-08-10 09:53:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600519.SS",
-        "Impact bullish",
-        "000596.SZ",
-        "000568.SZ"
-      ],
-      "text": "China A-share liquor sector staged an intraday rally; Kuaijishan and Yingjia Gongjiu rose more than 5%, Kweichow Moutai gained over 2%, Gujing Gongjiu and Luzhou Laojiao also climbed."
-    },
-    {
-      "id": "5032984",
-      "time": "2026-08-10 09:53:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股白酒板塊短線走強，會稽山、迎駕貢酒漲超5%，貴州茅臺漲超2%，古井貢酒、瀘州老窖等跟漲。"
     }
   ]
 }
