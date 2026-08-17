@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-17 13:21:45",
-  "count": 15192,
+  "updated": "2026-08-17 13:25:36",
+  "count": 15190,
   "items": [
+    {
+      "id": "mkt:01a00e2e-2bfe-7aab-9057-3719e264631a",
+      "time": "2026-08-17 13:25:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Green compute (AI) conference in Hohhot on Aug. 22 to sign tens-of-billions-yuan projects】The 2026 Green Compute (AI) Conference will be held in Hohhot on Aug. 22. Organizers will publish the Green Compute Development Research Report (2026) and an East Data West Compute hub-node Green Compute Index report, and will sign a batch of major industrial projects totaling at the tens-of-billions-of-yuan level. Participants named include ByteDance, CICC Data, GCL Energy Technology, Cambricon, Shanghai Beigao High-tech and CATL; planned cooperation covers green smart compute centers, token-generation facilities, and compute-electricity equipment manufacturing. The event aims to expand the Horinger data center cluster and scale China’s green compute industry."
+    },
+    {
+      "id": "mkt:01a00e2d-b2bb-7aab-9057-283bbce7013b",
+      "time": "2026-08-17 13:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year government bond yield rose 6.5bps to 3.815%."
+    },
+    {
+      "id": "5043527",
+      "time": "2026-08-17 13:23:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【綠色算力（人工智慧）大會即將於呼和浩特舉辦 一批百億級專案將集中籤約】2026綠色算力（人工智慧）大會將於8月22日在呼和浩特市舉行，以“共築算電協同之路、共商詞元經濟新局、共創人工智慧未來”為主題。大會將釋出《綠色算力發展研究報告（2026年）》《“東數西算”樞紐節點綠色算力指數研究報告》等權威研究成果，集中籤約一批百億級重大產業專案。位元組跳動、中金資料、協鑫能科、寒武紀、上海市北高新、寧德時代等產業鏈重點企業，將圍繞綠色智算中心、詞元工廠、算電裝備製造等領域開展合作落地，持續做強和林格爾資料中心叢集，壯大綠色算力產業規模。"
+    },
+    {
+      "id": "5043526",
+      "time": "2026-08-17 13:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本20年期收益率上升6.5個基點至3.815%。"
+    },
+    {
+      "id": "mkt:01a00e2b-3e7b-7aab-9057-21833b4f0d0a",
+      "time": "2026-08-17 13:21:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russian authorities said overnight they attacked port infrastructure in Ukraine's Izmail area."
+    },
     {
       "id": "5043525",
       "time": "2026-08-17 13:21:03",
@@ -138939,77 +138983,6 @@
         "其他"
       ],
       "text": "哈薩克正考慮將 BTC 輸油管線、巴庫-蘇普薩輸油管線以及經亞塞拜然的跨裡海運輸作為補充石油出口路線，以應對裡海石油管道財團（CPC）運營中斷的影響。"
-    },
-    {
-      "id": "mkt:019fea21-82f1-7aab-8fd1-dba9139aacd9",
-      "time": "2026-08-10 13:24:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Swiss National Bank hike timing pushed back; earliest now seen after June next year】Economists have delayed expectations for a Swiss National Bank rate rise; a monthly survey shows the earliest timing is now judged to be after June next year. Respondents who had expected borrowing costs to rise this year largely now see the SNB holding off until 2027, and a majority expect the first hike only in early 2028. The shift follows reports that SNB staff internally expect the policy rate to remain at 0% through end‑2027 and rise only thereafter, conditional on no new major shocks."
-    },
-    {
-      "id": "5033286",
-      "time": "2026-08-10 13:24:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：黃河、太湖、滁河等河流可能發生編號洪水】今天上午，水利部舉行會商，分析研判全國的防汛形勢，未來兩天，黃河、太湖、滁河等主要河流可能發生編號洪水，安徽西南部局地需防範山洪災害。"
-    },
-    {
-      "id": "mkt:019fea20-95e0-7aab-8fd1-d44c9a7795e0",
-      "time": "2026-08-10 13:23:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Interfax reported Kazakhstan diverted some July oil exports to alternative routes after an operational disruption at the Caspian Pipeline Consortium (CPC)."
-    },
-    {
-      "id": "5033285",
-      "time": "2026-08-10 13:23:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【防禦颱風“白海豚” 福建轉移16.79萬人】為防禦今年第13號颱風“白海豚”帶來的風雨浪影響，福建各地各部門部署防範措施，組織轉移避險，做好應對工作。據福建省防汛辦統計，截至8月10日7時，福建省共下沉幹部5.1萬人次，轉移海上、陸上危險區域人員16.79萬人。"
-    },
-    {
-      "id": "5033284",
-      "time": "2026-08-10 13:22:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【訊息稱三星HBM4良率提前升至80%，內部HBM市佔目標擬提高至38%】據報道，儘管今年2月三星電子HBM4量產初期良率一度跌破60%，近期其良率已接近80%，且較原定年底達成80%的目標提前約4個月。此前，三星電子在季度財報電話會上表示，下半年HBM4的銷量將輕鬆超過HBM總銷量的60%。此外，三星電子據稱已設定內部目標，力爭在年底前將其HBM市場份額提升至與DRAM整體市場份額（約38%）相近的水平。"
-    },
-    {
-      "id": "mkt:019fea1f-16f7-7aab-8fd1-c95d002b604e",
-      "time": "2026-08-10 13:22:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Copper",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Copper steadies after six-week rally as supply squeeze and cooling Fed rate-hike bets underpin prices】After a six-week rally, copper is trading in a narrow range as supply tightness and softer US rate-hike expectations keep prices elevated. LME copper topped $14,000/ton last week, reaching the highest level since late-January. Market expectations that the WHITE HOUSE will impose import tariffs have driven large copper flows into the US, tightening available supply elsewhere and supporting LME prices. Softer Fed tightening odds were reinforced by weaker-than-expected US jobs data on Friday, easing inf concerns and bolstering risk assets. CITIC Futures expects copper to remain elevated with heightened volatility in the near term."
-    },
-    {
-      "id": "5033283",
-      "time": "2026-08-10 13:22:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣哈通訊建設大灣區首個智慧指揮排程專業化基地】廣哈通訊公眾號訊息，8月7日上午，廣哈通訊智慧指揮排程產業園專案啟動儀式在廣州市黃埔區順利舉行。該產業園由廣哈通訊投資建設，預計2028年12月全面竣工交付。園區科學佈局科技創新研發、智慧化生產製造、綜合運營服務三大核心功能板塊，著力打造粵港澳大灣區首個深耕智慧指揮排程垂直領域的專業化產業基地。"
     }
   ]
 }

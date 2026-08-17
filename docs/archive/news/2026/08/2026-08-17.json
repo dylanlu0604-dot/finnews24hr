@@ -1,7 +1,51 @@
 {
   "date": "2026-08-17",
-  "count": 919,
+  "count": 924,
   "items": [
+    {
+      "id": "mkt:01a00e2e-2bfe-7aab-9057-3719e264631a",
+      "time": "2026-08-17 13:25:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Green compute (AI) conference in Hohhot on Aug. 22 to sign tens-of-billions-yuan projects】The 2026 Green Compute (AI) Conference will be held in Hohhot on Aug. 22. Organizers will publish the Green Compute Development Research Report (2026) and an East Data West Compute hub-node Green Compute Index report, and will sign a batch of major industrial projects totaling at the tens-of-billions-of-yuan level. Participants named include ByteDance, CICC Data, GCL Energy Technology, Cambricon, Shanghai Beigao High-tech and CATL; planned cooperation covers green smart compute centers, token-generation facilities, and compute-electricity equipment manufacturing. The event aims to expand the Horinger data center cluster and scale China’s green compute industry."
+    },
+    {
+      "id": "mkt:01a00e2d-b2bb-7aab-9057-283bbce7013b",
+      "time": "2026-08-17 13:24:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 20-year government bond yield rose 6.5bps to 3.815%."
+    },
+    {
+      "id": "5043527",
+      "time": "2026-08-17 13:23:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【綠色算力（人工智慧）大會即將於呼和浩特舉辦 一批百億級專案將集中籤約】2026綠色算力（人工智慧）大會將於8月22日在呼和浩特市舉行，以“共築算電協同之路、共商詞元經濟新局、共創人工智慧未來”為主題。大會將釋出《綠色算力發展研究報告（2026年）》《“東數西算”樞紐節點綠色算力指數研究報告》等權威研究成果，集中籤約一批百億級重大產業專案。位元組跳動、中金資料、協鑫能科、寒武紀、上海市北高新、寧德時代等產業鏈重點企業，將圍繞綠色智算中心、詞元工廠、算電裝備製造等領域開展合作落地，持續做強和林格爾資料中心叢集，壯大綠色算力產業規模。"
+    },
+    {
+      "id": "5043526",
+      "time": "2026-08-17 13:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本20年期收益率上升6.5個基點至3.815%。"
+    },
+    {
+      "id": "mkt:01a00e2b-3e7b-7aab-9057-21833b4f0d0a",
+      "time": "2026-08-17 13:21:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russian authorities said overnight they attacked port infrastructure in Ukraine's Izmail area."
+    },
     {
       "id": "5043525",
       "time": "2026-08-17 13:21:03",
