@@ -1,7 +1,97 @@
 {
   "date": "2026-08-18",
-  "count": 122,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:01a010e8-2d50-7aab-9067-bbf61f35ac50",
+      "time": "2026-08-18 02:07:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said the UK prime minister faces immigration and energy issues."
+    },
+    {
+      "id": "5044697",
+      "time": "2026-08-18 02:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就英國首相發表看法：他面臨移民和能源問題。"
+    },
+    {
+      "id": "mkt:01a010e8-182d-7aab-9067-b6fac0faf988",
+      "time": "2026-08-18 02:07:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said he believes the UK prime minister will open up the North Sea."
+    },
+    {
+      "id": "mkt:01a010e7-d4e8-7aab-9067-a9a9491debac",
+      "time": "2026-08-18 02:07:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "TRUMP on South Korea: If Seoul does not help the United States, the U.S. cannot protect it."
+    },
+    {
+      "id": "5044696",
+      "time": "2026-08-18 02:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就英國首相表態：我認為他將開放北海。"
+    },
+    {
+      "id": "mkt:01a010e6-34fe-7aab-9067-a389d6332b37",
+      "time": "2026-08-18 02:05:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he gets on well with South Korea."
+    },
+    {
+      "id": "mkt:01a010e5-f248-7aab-9067-991a4a637bb6",
+      "time": "2026-08-18 02:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran wants a deal but will not agree to the kind of deal he deems necessary."
+    },
+    {
+      "id": "5044695",
+      "time": "2026-08-18 02:04:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗不會擁有核武器。"
+    },
+    {
+      "id": "5044694",
+      "time": "2026-08-18 02:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及韓國：如果韓國不提供協助，我們就無法為其提供保護。"
+    },
+    {
+      "id": "5044693",
+      "time": "2026-08-18 02:04:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗想要達成協議，但他們不會接受我認為必要的協議。"
+    },
     {
       "id": "5044692",
       "time": "2026-08-18 02:03:57",
