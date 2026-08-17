@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-18 05:35:22",
-  "count": 15207,
+  "updated": "2026-08-18 05:39:16",
+  "count": 15210,
   "items": [
+    {
+      "id": "mkt:01a011a8-b523-7aab-9069-e07e1d49b9b7",
+      "time": "2026-08-18 05:37:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "ERDOGAN told US President Trump that continued dialogue with Iran to make full use of diplomatic channels is important, and that Turkey is prepared to contribute."
+    },
+    {
+      "id": "5044779",
+      "time": "2026-08-18 05:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安告知特朗普，本應啟動和平計劃第二階段之際，以色列卻正在加沙地帶襲擊巴勒斯坦民眾。"
+    },
+    {
+      "id": "5044778",
+      "time": "2026-08-18 05:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安告知特朗普，繼續與伊朗對話以發揮外交手段的作用十分重要，土耳其願意為此出力。"
+    },
+    {
+      "id": "mkt:01a011a7-dd97-7aab-9069-dd7186d97105",
+      "time": "2026-08-18 05:36:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan and U.S. President Trump discussed bilateral relations, the conflicts in Iran and Gaza, and defense agreements with Pakistan and Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a011a6-b760-7aab-9069-d7211da8ee69",
+      "time": "2026-08-18 05:35:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan held a phone call with U.S. President Trump; they discussed bilateral ties and regional and global developments."
+    },
+    {
+      "id": "5044777",
+      "time": "2026-08-18 05:35:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其埃爾多安與特朗普討論雙邊關係、伊朗及加沙戰事，以及同巴基斯坦、沙烏地阿拉伯的防務協議。"
+    },
     {
       "id": "mkt:01a0119e-77d5-7aab-9069-cc4960933710",
       "time": "2026-08-18 05:26:33",
@@ -139299,38 +139352,6 @@
         "MKT News"
       ],
       "text": "CENC recorded a magnitude-3.9 earthquake at 05:31 on Aug 11 in Gao County, Yibin, Sichuan (28.53°N, 104.66°E); focal depth 5 km."
-    },
-    {
-      "id": "mkt:019fed9c-ad84-7aab-8fe1-6c7dee9260b1",
-      "time": "2026-08-11 05:38:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Advisor to Ukraine's interior minister said Russia launched ballistic strikes against Kyiv, Zaporizhia and Dnipropetrovsk regions; multiple explosions reported in Kyiv."
-    },
-    {
-      "id": "5034612",
-      "time": "2026-08-11 05:37:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團即將達成一筆20億美元交易，收購加拿大航空Aeroplan忠誠度專案的少數股權。"
-    },
-    {
-      "id": "mkt:019fed9a-ef8c-7aab-8fe1-62c0cb2b2bac",
-      "time": "2026-08-11 05:36:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Kyiv mayor says explosions have occurred in the capital and the city is under ballistic missile attack; residents are urged to remain in shelters."
     }
   ]
 }

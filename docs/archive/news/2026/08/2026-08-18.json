@@ -1,7 +1,60 @@
 {
   "date": "2026-08-18",
-  "count": 286,
+  "count": 292,
   "items": [
+    {
+      "id": "mkt:01a011a8-b523-7aab-9069-e07e1d49b9b7",
+      "time": "2026-08-18 05:37:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "ERDOGAN told US President Trump that continued dialogue with Iran to make full use of diplomatic channels is important, and that Turkey is prepared to contribute."
+    },
+    {
+      "id": "5044779",
+      "time": "2026-08-18 05:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安告知特朗普，本應啟動和平計劃第二階段之際，以色列卻正在加沙地帶襲擊巴勒斯坦民眾。"
+    },
+    {
+      "id": "5044778",
+      "time": "2026-08-18 05:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安告知特朗普，繼續與伊朗對話以發揮外交手段的作用十分重要，土耳其願意為此出力。"
+    },
+    {
+      "id": "mkt:01a011a7-dd97-7aab-9069-dd7186d97105",
+      "time": "2026-08-18 05:36:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan and U.S. President Trump discussed bilateral relations, the conflicts in Iran and Gaza, and defense agreements with Pakistan and Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a011a6-b760-7aab-9069-d7211da8ee69",
+      "time": "2026-08-18 05:35:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan held a phone call with U.S. President Trump; they discussed bilateral ties and regional and global developments."
+    },
+    {
+      "id": "5044777",
+      "time": "2026-08-18 05:35:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其埃爾多安與特朗普討論雙邊關係、伊朗及加沙戰事，以及同巴基斯坦、沙烏地阿拉伯的防務協議。"
+    },
     {
       "id": "mkt:01a0119e-77d5-7aab-9069-cc4960933710",
       "time": "2026-08-18 05:26:33",
