@@ -1,7 +1,101 @@
 {
   "date": "2026-08-17",
-  "count": 952,
+  "count": 962,
   "items": [
+    {
+      "id": "mkt:01a00e3f-c363-7aab-9057-6dcc758c6522",
+      "time": "2026-08-17 13:44:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Shanghai Composite Index +1.00%; Shenzhen Composite Index +1.94%; ChiNext Index +2.56%. More than 3,800 onshore stocks advanced."
+    },
+    {
+      "id": "mkt:01a00e3f-9daf-7aab-9057-6474201fa9b0",
+      "time": "2026-08-17 13:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Professor says Trump’s cut to US–South Korea drills aimed at deflecting blame for stalled Iran campaign】Robert Kelly, an international relations professor at Pusan National University, said Trump’s decision to sharply scale back US–South Korea joint military exercises appears intended to shift blame for a protracted, non‑decisive campaign against Iran. Kelly said Trump expected a quick, Venezuela‑style victory but the conflict became a slow, escalating stalemate; allies have become convenient scapegoats and South Korea was neither involved nor consulted."
+    },
+    {
+      "id": "5043554",
+      "time": "2026-08-17 13:43:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數漲1.00%，現報3966.520點；深證成指漲1.94%，現報14632.787點；創業板指漲2.55%，現報3718.766點。"
+    },
+    {
+      "id": "te:markets:575698",
+      "time": "2026-08-17 13:43:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Near 4-Week Low, Down 1% — New Zealand's stocks dropped 132 points, or 1.0%, to close at 13,722 on Monday, halting gains from the previous session, mainly weighed down by consumer staples, real estate, consumer discretionary, and industrials. Consumer staples slumped 3.9%, with A2 Milk plunging 5.7% after the company reported a 44% plunge in net profit for the 12 months ended June. The decline reflected supply chain disruptions affecting sales of its China-label infant formula. The broader index declined to its lowest level since July 21, tracking a fall on Wall Street on Friday amid disappointing economic data. Fresh data also weighed on sentiment, as New Zealand's private sector growth eased in July. However, easing food inflation to a 19-month low and a rebound in credit card spending limited the fall. Other bottom performers were Freightways Group (-4.5%), ANZ Group (-2.4%), Mainfreight (-2.0%), Westpac Banking Corp. (-1.6%), and Fisher & Paykel (-1.2%)."
+    },
+    {
+      "id": "5043553",
+      "time": "2026-08-17 13:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【強風暴和洪水已致美國印第安納州7人遇難】據美國方面訊息，美國印第安納州國土安全廳發言人8月16日通報說，連日來的強風暴和洪水導致的死亡人數已上升至7人。（央視新聞）"
+    },
+    {
+      "id": "5043552",
+      "time": "2026-08-17 13:43:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富加鎵業完成新一輪過億元融資】8月17日，杭州富加鎵業科技有限公司宣佈，公司於近日完成新一輪過億元融資。本輪融資由國家級資本及市場化機構衢州東峰、上海科創、富陽產投、源創基金聯合投資，老股東中網投及中科神光持續追加。本次融資資金主要用於大尺寸氧化鎵單晶及外延片研發及規模化量產、下游功率器件聯合驗證，以及核心長晶裝備的持續迭代。"
+    },
+    {
+      "id": "5043551",
+      "time": "2026-08-17 13:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國局地2天多降雨超800毫米】韓國南部地區近日遭遇強降雨。據韓國氣象部門訊息，從當地時間8月15日零點至今天（8月17日）上午8點，韓國慶尚南道巨濟市累計降雨量達805.7毫米，重新整理往年同期紀錄。（CCTV國際時訊）"
+    },
+    {
+      "id": "5043550",
+      "time": "2026-08-17 13:41:48",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【新興市場貨幣創歷史新高，美聯儲加息預期降溫】隨著美聯儲加息預期降溫，風險資產需求被提振，新興市場貨幣攀升至歷史高點。週一，一項追蹤新興市場貨幣的指數最高上漲0.2%，報1906.98點，創下歷史新高；同期同類股票指數最大漲幅達0.6%。美國經濟資料走弱壓低美聯儲收緊政策預期，美元走弱為上述上漲提供支撐。紐約梅隆銀行亞太高階市場策略師Wee Khoon Chong表示：“今日新興市場貨幣獲得支撐，主要受美元走弱以及股市風險偏好持續修復推動。我們觀察到外資大幅迴流新興市場，尤以亞洲地區最為明顯。”"
+    },
+    {
+      "id": "5043549",
+      "time": "2026-08-17 13:41:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念板塊持續拉昇，金祿電子漲停】PCB概念板塊持續拉昇，金祿電子漲停，壹石通、泰金新能、有研粉材紛紛走高。"
+    },
+    {
+      "id": "mkt:01a00e3c-8ca4-7aab-9057-5e49279780a3",
+      "time": "2026-08-17 13:40:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【DJI wins procedural victory as D.C. Circuit remands Pentagon CMC listing case】On Aug. 14 the U.S. Court of Appeals for the D.C. Circuit ordered the district court to rehear DJI's challenge to its inclusion on the Pentagon's Chinese Military Company (CMC) list, a procedural victory for the company in a multi-year U.S. legal dispute. DJI was first placed on the CMC list in Oct. 2022. After appeals failed, DJI sued the Pentagon in the U.S. District Court for the District of Columbia in Oct. 2024; a district ruling in 2025 upheld the Pentagon and DJI subsequently appealed."
+    },
     {
       "id": "5043548",
       "time": "2026-08-17 13:40:23",

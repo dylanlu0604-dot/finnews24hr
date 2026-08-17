@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-17 13:41:06",
-  "count": 15177,
+  "updated": "2026-08-17 13:44:56",
+  "count": 15179,
   "items": [
+    {
+      "id": "mkt:01a00e3f-c363-7aab-9057-6dcc758c6522",
+      "time": "2026-08-17 13:44:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Shanghai Composite Index +1.00%; Shenzhen Composite Index +1.94%; ChiNext Index +2.56%. More than 3,800 onshore stocks advanced."
+    },
+    {
+      "id": "mkt:01a00e3f-9daf-7aab-9057-6474201fa9b0",
+      "time": "2026-08-17 13:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Professor says Trump’s cut to US–South Korea drills aimed at deflecting blame for stalled Iran campaign】Robert Kelly, an international relations professor at Pusan National University, said Trump’s decision to sharply scale back US–South Korea joint military exercises appears intended to shift blame for a protracted, non‑decisive campaign against Iran. Kelly said Trump expected a quick, Venezuela‑style victory but the conflict became a slow, escalating stalemate; allies have become convenient scapegoats and South Korea was neither involved nor consulted."
+    },
+    {
+      "id": "5043554",
+      "time": "2026-08-17 13:43:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數漲1.00%，現報3966.520點；深證成指漲1.94%，現報14632.787點；創業板指漲2.55%，現報3718.766點。"
+    },
+    {
+      "id": "te:markets:575698",
+      "time": "2026-08-17 13:43:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Near 4-Week Low, Down 1% — New Zealand's stocks dropped 132 points, or 1.0%, to close at 13,722 on Monday, halting gains from the previous session, mainly weighed down by consumer staples, real estate, consumer discretionary, and industrials. Consumer staples slumped 3.9%, with A2 Milk plunging 5.7% after the company reported a 44% plunge in net profit for the 12 months ended June. The decline reflected supply chain disruptions affecting sales of its China-label infant formula. The broader index declined to its lowest level since July 21, tracking a fall on Wall Street on Friday amid disappointing economic data. Fresh data also weighed on sentiment, as New Zealand's private sector growth eased in July. However, easing food inflation to a 19-month low and a rebound in credit card spending limited the fall. Other bottom performers were Freightways Group (-4.5%), ANZ Group (-2.4%), Mainfreight (-2.0%), Westpac Banking Corp. (-1.6%), and Fisher & Paykel (-1.2%)."
+    },
+    {
+      "id": "5043553",
+      "time": "2026-08-17 13:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【強風暴和洪水已致美國印第安納州7人遇難】據美國方面訊息，美國印第安納州國土安全廳發言人8月16日通報說，連日來的強風暴和洪水導致的死亡人數已上升至7人。（央視新聞）"
+    },
+    {
+      "id": "5043552",
+      "time": "2026-08-17 13:43:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富加鎵業完成新一輪過億元融資】8月17日，杭州富加鎵業科技有限公司宣佈，公司於近日完成新一輪過億元融資。本輪融資由國家級資本及市場化機構衢州東峰、上海科創、富陽產投、源創基金聯合投資，老股東中網投及中科神光持續追加。本次融資資金主要用於大尺寸氧化鎵單晶及外延片研發及規模化量產、下游功率器件聯合驗證，以及核心長晶裝備的持續迭代。"
+    },
+    {
+      "id": "5043551",
+      "time": "2026-08-17 13:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國局地2天多降雨超800毫米】韓國南部地區近日遭遇強降雨。據韓國氣象部門訊息，從當地時間8月15日零點至今天（8月17日）上午8點，韓國慶尚南道巨濟市累計降雨量達805.7毫米，重新整理往年同期紀錄。（CCTV國際時訊）"
+    },
+    {
+      "id": "5043550",
+      "time": "2026-08-17 13:41:48",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【新興市場貨幣創歷史新高，美聯儲加息預期降溫】隨著美聯儲加息預期降溫，風險資產需求被提振，新興市場貨幣攀升至歷史高點。週一，一項追蹤新興市場貨幣的指數最高上漲0.2%，報1906.98點，創下歷史新高；同期同類股票指數最大漲幅達0.6%。美國經濟資料走弱壓低美聯儲收緊政策預期，美元走弱為上述上漲提供支撐。紐約梅隆銀行亞太高階市場策略師Wee Khoon Chong表示：“今日新興市場貨幣獲得支撐，主要受美元走弱以及股市風險偏好持續修復推動。我們觀察到外資大幅迴流新興市場，尤以亞洲地區最為明顯。”"
+    },
+    {
+      "id": "5043549",
+      "time": "2026-08-17 13:41:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念板塊持續拉昇，金祿電子漲停】PCB概念板塊持續拉昇，金祿電子漲停，壹石通、泰金新能、有研粉材紛紛走高。"
+    },
+    {
+      "id": "mkt:01a00e3c-8ca4-7aab-9057-5e49279780a3",
+      "time": "2026-08-17 13:40:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【DJI wins procedural victory as D.C. Circuit remands Pentagon CMC listing case】On Aug. 14 the U.S. Court of Appeals for the D.C. Circuit ordered the district court to rehear DJI's challenge to its inclusion on the Pentagon's Chinese Military Company (CMC) list, a procedural victory for the company in a multi-year U.S. legal dispute. DJI was first placed on the CMC list in Oct. 2022. After appeals failed, DJI sued the Pentagon in the U.S. District Court for the District of Columbia in Oct. 2024; a district ruling in 2025 upheld the Pentagon and DJI subsequently appealed."
+    },
     {
       "id": "5043548",
       "time": "2026-08-17 13:40:23",
@@ -138782,80 +138876,6 @@
         "公司"
       ],
       "text": "【中科慧思釋出三款靈巧手新品】北京中科慧靈機器人技術有限公司、藍思科技股份有限公司與湖南華夏投資集團有限公司共同成立中科慧思具身智慧（湖南）有限公司（以下簡稱“中科慧思”）。中科慧思釋出三款不同技術路線和功能的靈巧手新產品L1、D1、M1，預釋出F系列繩驅仿生靈巧手，並達成相關合作。"
-    },
-    {
-      "id": "5033321",
-      "time": "2026-08-10 13:44:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南：構建“有一種叫雲南的生活”具象化品牌矩陣】《雲南省人民政府辦公廳關於學習運用“千萬工程”經驗一體推進農村人居環境改善、“旅居雲南”發展和健康縣城建設的實施意見》釋出，其中提出，推動業態融合。堅持“旅居+”“+旅居”，依託鮮花、溫泉、茶咖、果蔬、道地藥材等特色資源，推出一批主題旅居村。創新旅居消費場景與業態模式，積極探索旅居與文化、教育、醫療、體育、農業等深度融合，發展休閒農業、醫療康養、戶外運動、科普研學等多元業態，推動旅居向旅創、旅學、旅養升級。培優“雲南之夜”“雲南禮物”等特色品牌，構建“有一種叫雲南的生活”具象化品牌矩陣。"
-    },
-    {
-      "id": "mkt:019fea33-05f5-7aab-8fd2-294380498dcb",
-      "time": "2026-08-10 13:44:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-shares MLCC sector oscillated higher and rebounded in the afternoon; Yunzong Technology and Longxin Intelligent rose more than 10%, Fenghua Hi‑Tech approached the daily trading limit, while Guoci Materials, Boqian New Materials and Jiemei Technology also gained."
-    },
-    {
-      "id": "te:markets:574011",
-      "time": "2026-08-10 13:43:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Snaps 2-Session Losing Streak, Ends 0.5% Higher — New Zealand's stocks rose 64 points, or 0.5%, to close at 13,888 on Monday, halting losses in the previous two sessions, tracking a rise on Wall Street on Friday after softer-than-expected labor data dampened expectations of a Fed rate hike at the September meeting. The broader index was mainly supported by gains in healthcare, financials, and industrials. Positive trade data from China, New Zealand's top trading partner, with export growth remaining robust, continued to help cap the losses, while inflation eased to a six-month low. However, traders anticipated the release of US inflation data this week for clues about the Fed's monetary policy at the upcoming meeting, while rising oil prices capped the gains amid uncertainty over whether to reopen the Strait of Hormuz. Among the top performers were Ryman Healthcare (2.4%), Infratil (2.2%), Ebos Group (1.8%), Fisher & Paykel (1.2%), F&C Investment (0.9%), Hallenstein Glasson (0.8%), and Mainfreight (0.7%)."
-    },
-    {
-      "id": "5033320",
-      "time": "2026-08-10 13:42:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中證協啟動專業人員水平測試全行業調研 測試體系迎最佳化視窗】從業內悉，中國證券業協會近日在行業內釋出通知，就證券行業專業人員水平評價測試開展全行業問卷調研。據悉，中證協此次同步面向證券公司與2026年以來參加過證券行業水平測試的從業人員發放雙向問卷，圍繞測試內容合理性與認可度、測試內容與監管導向及行業發展的適配度、測試組織執行效率、對專項測試的最佳化建議等核心維度徵集意見。本次調研截止時間為8月28日，相關反饋將作為後續測試大綱、教材、命題及組織模式調整的核心依據，標誌著證券業水平測試體系正迎來新一輪系統性評估與最佳化視窗期。從公司版調研問卷來看，調研直指行業人才需求轉型與測試定位的適配問題。 (中證金牛座)"
-    },
-    {
-      "id": "5033319",
-      "time": "2026-08-10 13:41:18",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "埃及7月城市消費者物價指數(CPI)年增率升至14.9%，6月為14.3%。"
-    },
-    {
-      "id": "5033318",
-      "time": "2026-08-10 13:41:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：黃河、太湖、滁河等河流可能發生編號洪水】今天（8月10日）上午，水利部舉行會商，分析研判全國的防汛形勢，未來兩天，黃河、太湖、滁河等主要河流可能發生編號洪水，安徽西南部局地需防範山洪災害。截至今天9時，浙江、上海、江蘇、黑龍江、內蒙古、雲南等地65條河流仍維持超警。8月10日至12日，受降雨影響，黃河、太湖、滁河、淠河、沙潁河、伊洛河、衛河等主要河流可能發生編號洪水，暴雨區內部分中小河流可能發生較大洪水；受上游來水影響，松花江幹流及支流呼蘭河、黑龍江干流同江以下江段將維持超警。8月10日8時至8月11日8時，河南東南部、安徽西南部、浙江北部發生山洪災害的可能性大（橙色預警）；其中，安徽西南部局地發生山洪災害的可能性很大（紅色預警）。水利部今天8時釋出紅色山洪災害氣象預警，維持洪水藍色預警。"
-    },
-    {
-      "id": "5033317",
-      "time": "2026-08-10 13:41:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【MLCC概念股震盪上漲 昀冢科技漲超6%】MLCC概念股午後震盪上漲，昀冢科技漲超6%，國瓷材料、風華高科、精測電子等股上漲。"
-    },
-    {
-      "id": "5033316",
-      "time": "2026-08-10 13:41:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【APEC峰會倒計時100天 深圳各口岸免簽入境外國人同比增長47.5%】今年以來，我國免籤政策不斷擴容，深圳各口岸出入境客流屢創新高。其中，免簽入境外國人達126.9萬人次，佔入境外國人總量50.9%，同比增長47.5%。（央視新聞）"
     }
   ]
 }
