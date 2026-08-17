@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-17 10:39:12",
-  "count": 15170,
+  "updated": "2026-08-17 10:43:00",
+  "count": 15165,
   "items": [
+    {
+      "id": "mkt:01a00d99-5611-7aab-9054-87ab064ed42e",
+      "time": "2026-08-17 10:42:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "XAUUSD"
+      ],
+      "text": "【Tchir: Fed may shift which inflation data it monitors, a bigger market risk than Warsh's reaction function】Academy Securities strategist Peter Tchir says markets are overfocused on whether Warsh will change his reaction function; a bigger risk is which data the Fed chooses to monitor. Rather than rewriting its policy rule, the Fed could reweight inputs—adding real‑time inflation measures, rental inflation, producer prices and other high‑frequency indicators alongside or instead of headline PCE. That would alter trading frameworks: policy moves could stem from the Fed looking at a different dataset, not merely from different interpretations of the same data, elevating some high‑frequency inflation signals to primary policy relevance."
+    },
+    {
+      "id": "te:economy:575655",
+      "time": "2026-08-17 10:42:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Advance — The yield on the 10-Year US Treasury note held around 4.69% on Monday after rising about 5 basis points in the previous session, reflecting concerns that the Federal Reserve may be complacent about inflationary risks in the US economy amid persistent tensions in the Middle East. The interim ceasefire agreement between the US and Iran is set to formally expire later today, with negotiations to end the conflict and reopen the Strait of Hormuz remaining deadlocked. Year-ahead inflation expectations compiled by the University of Michigan rose in August, marking a fifth consecutive month above the 4% level. Meanwhile, data released last week pointed to subdued US inflation, while consumer sentiment and retail sales declined. Markets now see roughly a 67% probability that the Fed will hold rates in September, up from below 50% a month ago."
+    },
+    {
+      "id": "mkt:01a00d98-b003-7aab-9054-78ce99b312bc",
+      "time": "2026-08-17 10:41:45",
+      "tags": [
+        "MKT News",
+        "00020.HK",
+        "Impact bullish",
+        "01347.HK"
+      ],
+      "text": "Hang Seng Tech Index rose 2% as tech and semiconductor stocks strengthened; SenseTime (00020.HK) jumped over 8%, Huahong Hongli (01347.HK) gained 6.76%."
+    },
+    {
+      "id": "5043322",
+      "time": "2026-08-17 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨買入超16億】截至目前，今日主力資金淨流入26.74億；淨流入半導體、半導體產業、儲存概念等板塊，其中半導體板塊淨流入98.52億；淨流出東數西算、算力概念、DeepSeek概念等板塊，其中東數西算板塊淨流出65.20億。\n  \n個股方面，長鑫科技淨買入16.22億元位居首位，兆易創新、通富微電、有研新材主力資金淨流入居前；新易盛淨賣出14.17億元位居首位，貴州茅臺、中際旭創、勝宏科技淨流出額居前。"
+    },
+    {
+      "id": "5043321",
+      "time": "2026-08-17 10:39:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2％，恒生指數現漲1.6％。"
+    },
+    {
+      "id": "te:economy:575652",
+      "time": "2026-08-17 10:39:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Thailand Q2 GDP Annual Growth Weakest in 3 Quarters — Thailand’s GDP expanded 1.9% year-on-year in Q2 2026, slowing from 2.8% in Q1 but surpassing market forecasts of 1.7%. It marked the weakest growth since Q3 2025, amid softer increases in private consumption (1.9% vs 3.3% in Q1), government spending (0.2% vs 3.4%), and investment (9.1% vs 9.9%). On the trade front, both exports (12.5% vs 12.4%) and imports (24.2% vs 21.4%) accelerated sharply."
+    },
+    {
+      "id": "5043320",
+      "time": "2026-08-17 10:39:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念再度拉昇 太辰光20cm漲停】CPO概念盤中再度拉昇，太辰光20cm漲停，此前中石科技、共進股份漲停，仕佳光子、天準科技、迅捷興漲超10%，阿萊德、長芯博創、天孚通訊、中瓷電子、長光華芯漲幅靠前。"
+    },
     {
       "id": "5043319",
       "time": "2026-08-17 10:38:31",
@@ -138583,107 +138656,6 @@
         "公司"
       ],
       "text": "【潤邦股份：子公司潤邦海洋第七艘SPP40平臺供應船順利上船臺】據潤邦股份訊息，近日，子公司潤邦海洋第七艘SPP40平臺供應船順利完成上船臺作業，正式邁入船臺總段合攏、全船搭載攻堅的關鍵階段。上船臺是船舶建造過程中承前啟後的核心節點，標誌著船體分段建造工作圓滿收官，意味著專案全面轉入總裝搭載施工新階段。"
-    },
-    {
-      "id": "5033087",
-      "time": "2026-08-10 10:42:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府稱胡塞武裝襲擊摩卡地區已致7死30傷】當地時間9日，葉門公共衛生和人口部長卡西姆·巴希卜表示，胡塞武裝對葉門塔伊茲省摩卡港和摩卡市發動的襲擊已造成7人死亡、30人受傷，其中包括2名兒童。襲擊還波及當地沙特野戰醫院。葉門胡塞武裝方面此前發表宣告稱，為回應沙特支援的武裝力量在葉門西海岸和塔伊茲省持續發動襲擊，葉門胡塞武裝當天對沙特支援的武裝力量在摩卡地區的軍事集結和武器庫發動了一次“大規模、高強度”軍事行動。（央視新聞）"
-    },
-    {
-      "id": "5033086",
-      "time": "2026-08-10 10:42:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨全國委員會主席喬·格魯特斯預測，在今年秋季的中期選舉之後，共和黨將保持對國會兩院的控制權。"
-    },
-    {
-      "id": "5033085",
-      "time": "2026-08-10 10:41:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧德時代高能量密度航空電池透過相鄰電芯熱失控不擴散驗證】低空經濟迎來關鍵安全技術突破。記者從寧德時代獲悉，其為載人版eVTOL（電動垂直起降飛行器）研發的航空動力電池系統，成功透過相鄰電芯熱失控不擴散驗證。這是全球首個採用能量密度高達350Wh/kg的方殼電芯並順利透過該項測試的航空電池系統，標誌著高能量密度航空電池安全水平邁上新臺階。不同位置觸發，全程無熱擴散。此次驗證過程中，測試人員在電池系統中間、角落等不同位置，同時觸發相鄰兩顆電芯發生熱失控。結果顯示，系統成功實現無熱擴散，未引發連鎖反應。這一突破為低空經濟規模化發展提供了更堅實的安全動力保障，也是寧德時代持續探索動力電池安全邊界的又一實證。（福建日報）"
-    },
-    {
-      "id": "mkt:019fe98c-21b8-7aab-8fcf-a95358a1617c",
-      "time": "2026-08-10 10:41:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【RNC chair expects Republicans to retain control of both US chambers after midterms】RNC chair Joe Gruters said he expects Republicans to hold majorities in both the House and Senate after this fall’s midterm elections, citing 212 GOP-leaning House seats and 18 toss-ups; Republicans need six of those toss-ups and he said he expects to win 10, adding he is very optimistic about the forecast."
-    },
-    {
-      "id": "5033084",
-      "time": "2026-08-10 10:41:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：駭客組織可能已洩露日冷（Nichirei）的個人資料。"
-    },
-    {
-      "id": "5033083",
-      "time": "2026-08-10 10:41:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【水泥概念震盪反彈，西藏天路漲停】水泥概念震盪反彈，西藏天路漲停，冀衡醫藥、海南瑞澤、紅寶麗、鄂爾多斯、福建水泥、四方新材等跟漲。"
-    },
-    {
-      "id": "5033082",
-      "time": "2026-08-10 10:40:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股民爆概念持續走強，凱龍股份、高爭民爆漲停，廣東宏大漲超4%，金奧博、四川美豐等跟漲。"
-    },
-    {
-      "id": "5033081",
-      "time": "2026-08-10 10:40:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇省成立“AI+新材料”產業聯盟】日前，由江蘇省工信廳指導，省新材料產業協會、省人工智慧學會主辦的江蘇省“AI+新材料”產業聯盟成立暨“製造強省·材料先行”AI+高分子材料研發專題活動在蘇州市吳江區舉辦，旨在搭建政策互通、技術共研、場景共享的一體化創新平臺，建立常態化協同合作機制，精準對接產業發展需求，加快推動新材料與人工智慧產業融合發展。據悉，江蘇省“AI+新材料”產業聯盟是在省工信廳指導監督下，由蘇州實驗室牽頭，聯合36家副理事長單位、60家理事單位共同組建的跨行業、開放性、非營利性技術創新合作組織，覆蓋新材料企業、AI服務商、高校院所、中試平臺、檢測機構、金融資本六大類主體。"
-    },
-    {
-      "id": "mkt:019fe98b-6936-7aab-8fcf-a52a82385f13",
-      "time": "2026-08-10 10:40:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share civil explosives sector continued to rally; Kailong Co. and Gaozheng Minbao hit the daily trading limit, Guangdong Hongda rose over 4%, and Jin Aobo and Sichuan Meifeng also gained."
-    },
-    {
-      "id": "5033080",
-      "time": "2026-08-10 10:40:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：中際旭創淨賣出超45億】截至目前，今日主力資金淨流出331.41億；淨流入醫藥生物、小盤、半導體裝置等板塊，其中醫藥生物板塊淨流入24.11億；淨流出轉融券標的、融資融券、TMT等板塊，其中轉融券標的板塊淨流出323.87億。\n  \n個股方面，貴州茅臺淨買入5.21億元位居首位，中微公司、仕佳光子、工業富聯主力資金淨流入居前；中際旭創淨賣出45.32億元位居首位，兆易創新、新易盛、東山精密淨流出額居前。"
-    },
-    {
-      "id": "5033079",
-      "time": "2026-08-10 10:39:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇已進入“白海豚”最強影響時段】8月10日早，今年第13號颱風“白海豚”已進入對江蘇的最強影響時段，全省風雨強度快速升級，沿江、蘇南多地遭遇猛烈暴雨、大風天氣，累計雨量大、陣風強度高，防災避險進入關鍵階段。在10日05時至08時短短三小時內，江蘇蘇南三市遭遇極強降雨侵襲，蘇州、無錫、常州降水量強勢突破100毫米，達到大暴雨級別。本輪短時降雨極值出現在無錫市錫山區鵝湖鎮，累計降水量高達207.1毫米，短時雨勢極為猛烈，致災風險極高。大風天氣同步席捲全省，全域風力明顯增強。目前江蘇省大部分地區極大風已達到8級，無錫、常州、蘇州三市陣風更為強勁，極大風維持在9級左右，風雨疊加影響顯著，對戶外設施、道路交通、居民生活造成明顯影響。（新華日報）"
-    },
-    {
-      "id": "5033078",
-      "time": "2026-08-10 10:39:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京多區釋出暴雨紅色預警】記者從北京市氣象部門瞭解到，通州、門頭溝、房山、大興相繼釋出暴雨紅色預警。通州區預計，8月11日傍晚至13日白天有大暴雨，6小時累計雨量可達150毫米以上，24小時累計雨量可達200毫米以上，低窪地區極易出現積水。門頭溝區預計，8月11日傍晚至13日白天普降大暴雨，大部分地區6小時累計雨量可達150毫米以上，24小時累計雨量可達200毫米以上，山區及淺山區出現中小河流洪水、山洪、泥石流、滑坡等災害的氣象風險極高，低窪地區極易出現積水。房山區預計，8月11日傍晚至13日白天有大暴雨，最強降雨時段為12日凌晨至夜間。6小時累計雨量可達150毫米以上，24小時累計雨量可達200毫米以上。山區及淺山區出現中小河流洪水、山洪、泥石流、滑坡等災害的氣象風險極高，低窪地區極易出現積水。大興區預計，8月11日傍晚至13日白天有大暴雨，6小時累計雨量可達150毫米以上，24小時累計雨量可達200毫米以上。（央視新聞）"
     }
   ]
 }

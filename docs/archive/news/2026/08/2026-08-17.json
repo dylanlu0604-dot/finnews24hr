@@ -1,7 +1,80 @@
 {
   "date": "2026-08-17",
-  "count": 616,
+  "count": 623,
   "items": [
+    {
+      "id": "mkt:01a00d99-5611-7aab-9054-87ab064ed42e",
+      "time": "2026-08-17 10:42:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "XAUUSD"
+      ],
+      "text": "【Tchir: Fed may shift which inflation data it monitors, a bigger market risk than Warsh's reaction function】Academy Securities strategist Peter Tchir says markets are overfocused on whether Warsh will change his reaction function; a bigger risk is which data the Fed chooses to monitor. Rather than rewriting its policy rule, the Fed could reweight inputs—adding real‑time inflation measures, rental inflation, producer prices and other high‑frequency indicators alongside or instead of headline PCE. That would alter trading frameworks: policy moves could stem from the Fed looking at a different dataset, not merely from different interpretations of the same data, elevating some high‑frequency inflation signals to primary policy relevance."
+    },
+    {
+      "id": "te:economy:575655",
+      "time": "2026-08-17 10:42:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Advance — The yield on the 10-Year US Treasury note held around 4.69% on Monday after rising about 5 basis points in the previous session, reflecting concerns that the Federal Reserve may be complacent about inflationary risks in the US economy amid persistent tensions in the Middle East. The interim ceasefire agreement between the US and Iran is set to formally expire later today, with negotiations to end the conflict and reopen the Strait of Hormuz remaining deadlocked. Year-ahead inflation expectations compiled by the University of Michigan rose in August, marking a fifth consecutive month above the 4% level. Meanwhile, data released last week pointed to subdued US inflation, while consumer sentiment and retail sales declined. Markets now see roughly a 67% probability that the Fed will hold rates in September, up from below 50% a month ago."
+    },
+    {
+      "id": "mkt:01a00d98-b003-7aab-9054-78ce99b312bc",
+      "time": "2026-08-17 10:41:45",
+      "tags": [
+        "MKT News",
+        "00020.HK",
+        "Impact bullish",
+        "01347.HK"
+      ],
+      "text": "Hang Seng Tech Index rose 2% as tech and semiconductor stocks strengthened; SenseTime (00020.HK) jumped over 8%, Huahong Hongli (01347.HK) gained 6.76%."
+    },
+    {
+      "id": "5043322",
+      "time": "2026-08-17 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨買入超16億】截至目前，今日主力資金淨流入26.74億；淨流入半導體、半導體產業、儲存概念等板塊，其中半導體板塊淨流入98.52億；淨流出東數西算、算力概念、DeepSeek概念等板塊，其中東數西算板塊淨流出65.20億。\n  \n個股方面，長鑫科技淨買入16.22億元位居首位，兆易創新、通富微電、有研新材主力資金淨流入居前；新易盛淨賣出14.17億元位居首位，貴州茅臺、中際旭創、勝宏科技淨流出額居前。"
+    },
+    {
+      "id": "5043321",
+      "time": "2026-08-17 10:39:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2％，恒生指數現漲1.6％。"
+    },
+    {
+      "id": "te:economy:575652",
+      "time": "2026-08-17 10:39:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Thailand Q2 GDP Annual Growth Weakest in 3 Quarters — Thailand’s GDP expanded 1.9% year-on-year in Q2 2026, slowing from 2.8% in Q1 but surpassing market forecasts of 1.7%. It marked the weakest growth since Q3 2025, amid softer increases in private consumption (1.9% vs 3.3% in Q1), government spending (0.2% vs 3.4%), and investment (9.1% vs 9.9%). On the trade front, both exports (12.5% vs 12.4%) and imports (24.2% vs 21.4%) accelerated sharply."
+    },
+    {
+      "id": "5043320",
+      "time": "2026-08-17 10:39:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念再度拉昇 太辰光20cm漲停】CPO概念盤中再度拉昇，太辰光20cm漲停，此前中石科技、共進股份漲停，仕佳光子、天準科技、迅捷興漲超10%，阿萊德、長芯博創、天孚通訊、中瓷電子、長光華芯漲幅靠前。"
+    },
     {
       "id": "5043319",
       "time": "2026-08-17 10:38:31",
