@@ -1,7 +1,17 @@
 {
   "date": "2026-08-18",
-  "count": 234,
+  "count": 235,
   "items": [
+    {
+      "id": "mkt:01a01147-454d-7aab-9069-23c032f9e642",
+      "time": "2026-08-18 03:51:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017."
+    },
     {
       "id": "mkt:01a0113e-7ab3-7aab-9069-1812afa0ed84",
       "time": "2026-08-18 03:41:42",

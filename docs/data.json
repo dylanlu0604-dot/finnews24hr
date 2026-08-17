@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-18 03:48:51",
-  "count": 15224,
+  "updated": "2026-08-18 03:52:45",
+  "count": 15223,
   "items": [
+    {
+      "id": "mkt:01a01147-454d-7aab-9069-23c032f9e642",
+      "time": "2026-08-18 03:51:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017."
+    },
     {
       "id": "mkt:01a0113e-7ab3-7aab-9069-1812afa0ed84",
       "time": "2026-08-18 03:41:42",
@@ -139498,22 +139508,6 @@
         "其他"
       ],
       "text": "市場資訊：英特爾股票發行認購倍數遠超預期。"
-    },
-    {
-      "id": "5034576",
-      "time": "2026-08-11 03:52:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：美以是造成中東地區動盪的根源】10日，伊朗外交部發言人巴加埃就地區局勢、伊美關係等舉行新聞釋出會。巴加埃表示，伊朗與阿曼關於確定霍爾木茲海峽新航道的談判進展順利，而美國和以色列是造成中東地區動盪的根源。"
-    },
-    {
-      "id": "5034575",
-      "time": "2026-08-11 03:52:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：與德國外長舉行電話會談，雙方就雙邊關係、地區及國際局勢發展交換了意見。"
     }
   ]
 }
