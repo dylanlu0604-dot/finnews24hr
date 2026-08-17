@@ -1,7 +1,60 @@
 {
   "date": "2026-08-17",
-  "count": 327,
+  "count": 333,
   "items": [
+    {
+      "id": "5043115",
+      "time": "2026-08-17 08:54:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST南都：公司產品可廣泛應用於資料中心、智算中心、超算中心等提供後備電源支撐】ST南都(300068)在互動平臺回覆投資者提問時稱，受資金緊張影響，生產及訂單交付總體不及預期。另外，IDC資料中心相關業務一直是公司重點業務之一，公司產品可廣泛應用於資料中心、智算中心、超算中心等提供後備電源支撐。"
+    },
+    {
+      "id": "5043114",
+      "time": "2026-08-17 08:54:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：印度尼西亞弗洛勒斯地區發生5.8級地震。"
+    },
+    {
+      "id": "5043113",
+      "time": "2026-08-17 08:53:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲2.5個基點，至2.900%。"
+    },
+    {
+      "id": "5043112",
+      "time": "2026-08-17 08:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出地質災害黃色預警】8月17日上午，山西省自然資源廳、山西省氣象局聯合釋出地質災害氣象風險預警，預計8月17日8時至8月18日8時，山西省臨汾市、呂梁市等2個市4個縣（市、區）地質災害發生風險較高（黃色預警）；陽泉市、運城市、臨汾市、呂梁市等4個市27個縣（市、區）地質災害發生有一定風險（藍色預警）。上述地區政府、部門和群眾應根據預警等級採取相應的防範措施。"
+    },
+    {
+      "id": "te:markets:575595",
+      "time": "2026-08-17 08:52:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Rises to 10-Week High — The Australian dollar rose above $0.709, hitting a ten-week high as the Reserve Bank maintained a hawkish policy stance, while the US dollar weakened as Fed rate hike bets faded amid softer US economic data. Recent figures pointed to subdued US inflation, while consumer sentiment and retail sales also weakened. Markets now price roughly a one-in-three chance of a September rate hike, down from nearly 50% before the latest data. In Australia, the RBA held its cash rate at 4.35% for a second consecutive meeting last week, but Governor Michele Bullock said rates might need to rise again as the Strait of Hormuz remained closed and productivity growth stayed weak. RBA Assistant Governor Christopher Kent also said tighter monetary policy was working as designed, although its full effects on activity and inflation would take time. Markets now price around a 70% chance of one final move to 4.60% by early next year. Meanwhile, Australia’s July employment report will be in focus on Thursday."
+    },
+    {
+      "id": "5043111",
+      "time": "2026-08-17 08:52:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星輝環材成立新公司 含智慧機器人研發業務】企查查APP顯示，近日，星輝九識（自貢）科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧行業應用系統整合服務；物聯網裝置銷售；智慧機器人銷售；智慧機器人的研發等。企查查股權穿透顯示，該公司由星輝環材間接全資持股。"
+    },
     {
       "id": "5043110",
       "time": "2026-08-17 08:50:46",
