@@ -1,7 +1,57 @@
 {
   "date": "2026-08-18",
-  "count": 228,
+  "count": 233,
   "items": [
+    {
+      "id": "mkt:01a0113d-3549-7aab-9069-14235ae65437",
+      "time": "2026-08-18 03:40:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its IPO."
+    },
+    {
+      "id": "mkt:01a0113b-78dc-7aab-9069-0ffe51b70098",
+      "time": "2026-08-18 03:38:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs."
+    },
+    {
+      "id": "mkt:01a0113a-f546-7aab-9069-055d9d0412a9",
+      "time": "2026-08-18 03:37:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Sources said US officials proposed that, under a proposed 15% tariff on Canadian autos, only US-origin value be excluded from the tariff base; Canadian officials want all North American-origin content excluded."
+    },
+    {
+      "id": "5044751",
+      "time": "2026-08-18 03:37:29",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Anthropic 在 IPO 之前的年化營收突破 650 億美元。"
+    },
+    {
+      "id": "5044750",
+      "time": "2026-08-18 03:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國投資級債券8月發行創歷年同月新高 AI基建推動企業舉債】隨著人工智慧基礎設施建設支出推動企業舉債，美國投資級債券發行規模連續第三個月創歷年同月紀錄新高，創紀錄的發債速度仍在延續。資料顯示，截至週一，8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。今年1月、6月和7月也分別創下歷年同月最高紀錄，另有三個月的發行規模為歷年同月第二高。大量債券湧入市場已經讓投資者在買什麼債、以什麼價格買入方面變得更加挑剔。上週，初始認購訂單最終被撤回的比例大幅上升，就體現了這一點。不過，企業並未因此而止步，週一發行人合計擬發行91億美元債券。當日12筆交易中，有兩筆來自私募信貸基金。"
+    },
     {
       "id": "mkt:01a01139-d732-7aab-9068-fa092b3e7a2a",
       "time": "2026-08-18 03:36:38",

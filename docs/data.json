@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-18 03:37:13",
-  "count": 15231,
+  "updated": "2026-08-18 03:41:07",
+  "count": 15229,
   "items": [
+    {
+      "id": "mkt:01a0113d-3549-7aab-9069-14235ae65437",
+      "time": "2026-08-18 03:40:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its IPO."
+    },
+    {
+      "id": "mkt:01a0113b-78dc-7aab-9069-0ffe51b70098",
+      "time": "2026-08-18 03:38:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs."
+    },
+    {
+      "id": "mkt:01a0113a-f546-7aab-9069-055d9d0412a9",
+      "time": "2026-08-18 03:37:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Sources said US officials proposed that, under a proposed 15% tariff on Canadian autos, only US-origin value be excluded from the tariff base; Canadian officials want all North American-origin content excluded."
+    },
+    {
+      "id": "5044751",
+      "time": "2026-08-18 03:37:29",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Anthropic 在 IPO 之前的年化營收突破 650 億美元。"
+    },
+    {
+      "id": "5044750",
+      "time": "2026-08-18 03:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國投資級債券8月發行創歷年同月新高 AI基建推動企業舉債】隨著人工智慧基礎設施建設支出推動企業舉債，美國投資級債券發行規模連續第三個月創歷年同月紀錄新高，創紀錄的發債速度仍在延續。資料顯示，截至週一，8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。今年1月、6月和7月也分別創下歷年同月最高紀錄，另有三個月的發行規模為歷年同月第二高。大量債券湧入市場已經讓投資者在買什麼債、以什麼價格買入方面變得更加挑剔。上週，初始認購訂單最終被撤回的比例大幅上升，就體現了這一點。不過，企業並未因此而止步，週一發行人合計擬發行91億美元債券。當日12筆交易中，有兩筆來自私募信貸基金。"
+    },
     {
       "id": "mkt:01a01139-d732-7aab-9068-fa092b3e7a2a",
       "time": "2026-08-18 03:36:38",
@@ -139513,66 +139563,6 @@
         "國際"
       ],
       "text": "【特朗普稱霍爾木茲海峽目前處於開放狀態】特朗普表示，霍爾木茲海峽現已開放，且僅由美國海軍掌控。特朗普在橢圓形辦公室稱：“我們實施的封鎖萬無一失。這是一道鋼鐵之牆，只允許我們想放行的船隻通行。”"
-    },
-    {
-      "id": "5034571",
-      "time": "2026-08-11 03:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，美國對伊朗港口的封鎖行動堪稱完美，將其比作環繞伊朗的一道“鋼鐵之牆”。"
-    },
-    {
-      "id": "mkt:019fed30-3648-7aab-8fe0-61714b21e3ac",
-      "time": "2026-08-11 03:39:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's parliament passed a bill to advance the peace process with the Kurdistan Workers' Party (PKK)."
-    },
-    {
-      "id": "5034570",
-      "time": "2026-08-11 03:38:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：伊朗人造成數十萬人死亡。如今他們正在付出代價。"
-    },
-    {
-      "id": "mkt:019fed2e-d7ba-7aab-8fe0-5b4c5acea1a4",
-      "time": "2026-08-11 03:38:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he has spoken with Walsh only once since his appointment, denying Wall Street Journal reports they have been in frequent contact."
-    },
-    {
-      "id": "5034569",
-      "time": "2026-08-11 03:38:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：自從沃什接任（美聯儲主席）以來，和他談過一次。"
-    },
-    {
-      "id": "5034568",
-      "time": "2026-08-11 03:37:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談內塔尼亞胡：（我們）關係良好。"
-    },
-    {
-      "id": "5034567",
-      "time": "2026-08-11 03:37:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我非常尊重沃什。"
     }
   ]
 }
