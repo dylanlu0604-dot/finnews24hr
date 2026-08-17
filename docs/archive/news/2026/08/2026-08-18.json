@@ -1,7 +1,44 @@
 {
   "date": "2026-08-18",
-  "count": 118,
+  "count": 122,
   "items": [
+    {
+      "id": "5044692",
+      "time": "2026-08-18 02:03:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：他們不會達成我認為有必要的協議。"
+    },
+    {
+      "id": "mkt:01a010e4-c49d-7aab-9067-96d687644190",
+      "time": "2026-08-18 02:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said South Korea's president told him he would rather not get involved in the Iran issue."
+    },
+    {
+      "id": "5044691",
+      "time": "2026-08-18 02:03:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：截至7月底信用卡拖欠率為1.32%。"
+    },
+    {
+      "id": "mkt:01a010e3-96bf-7aab-9067-8eb4e43359f5",
+      "time": "2026-08-18 02:02:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Turkish diplomatic sources said Turkey's foreign minister spoke with Iran's foreign minister to discuss efforts to reopen the Strait of Hormuz and to extend the U.S.-Iran ceasefire."
+    },
     {
       "id": "mkt:01a010e1-15a2-7aab-9067-861e2a8d3c7d",
       "time": "2026-08-18 01:59:41",
