@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18 01:31:26",
-  "count": 15263,
+  "updated": "2026-08-18 01:35:21",
+  "count": 15264,
   "items": [
+    {
+      "id": "mkt:01a010ca-2fae-7aab-9067-53784ba2523a",
+      "time": "2026-08-18 01:34:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity."
+    },
+    {
+      "id": "mkt:01a010c7-d7ce-7aab-9067-4ea793200793",
+      "time": "2026-08-18 01:32:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures are up 2.0% intraday at $84.05/bbl."
+    },
     {
       "id": "te:markets:575921",
       "time": "2026-08-18 01:28:16",
@@ -139837,14 +139857,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude rose 6.0% intraday to $80.93/bbl."
-    },
-    {
-      "id": "5034475",
-      "time": "2026-08-11 01:34:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。"
     }
   ]
 }

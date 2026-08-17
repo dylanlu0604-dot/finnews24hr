@@ -1,7 +1,27 @@
 {
   "date": "2026-08-18",
-  "count": 99,
+  "count": 101,
   "items": [
+    {
+      "id": "mkt:01a010ca-2fae-7aab-9067-53784ba2523a",
+      "time": "2026-08-18 01:34:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity."
+    },
+    {
+      "id": "mkt:01a010c7-d7ce-7aab-9067-4ea793200793",
+      "time": "2026-08-18 01:32:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures are up 2.0% intraday at $84.05/bbl."
+    },
     {
       "id": "te:markets:575921",
       "time": "2026-08-18 01:28:16",
