@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-18 04:00:34",
-  "count": 15228,
+  "updated": "2026-08-18 04:04:27",
+  "count": 15230,
   "items": [
+    {
+      "id": "5044757",
+      "time": "2026-08-18 04:03:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "杜克能源感謝大辛辛那提地區使用者的耐心與支援，公司搶修人員已在罕見的直線風暴過後完成電力恢復工作。"
+    },
+    {
+      "id": "mkt:01a01151-ba76-7aab-9069-6ad46bff8836",
+      "time": "2026-08-18 04:02:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "MU.O",
+        "Impact bullish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: major indices down; storage stocks rally】Dow Jones -0.5%, S&P 500 -0.5%, Nasdaq -0.32% at Monday close. Storage/memory names outperformed: SK Hynix (SKHY.O) +3%, Micron Technology (MU.O) +4%, SanDisk (SNDK.O) +8.8%. Nike (NKE.N) -4%. Nasdaq Golden Dragon China Index +0.37%; XPeng (XPEV.N) +4%, Miniso (MNSO.N) -8%."
+    },
+    {
+      "id": "5044756",
+      "time": "2026-08-18 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.51%，標普500指數跌0.52%，納指跌0.32%。Carvana Co.跌7.26%，特許通訊跌6.59%，星座跌6.20%，阿萊技術公司跌5.60%，The Trade Desk跌5.23%，現在服務跌5.08%。“七姐妹”方面：英偉達跌0.07%，蘋果跌0.11%，亞馬遜跌0.51%，谷歌跌0.61%，特斯拉跌0.87%，微軟跌3.04%，Meta Platforms跌3.54%。"
+    },
+    {
+      "id": "5044755",
+      "time": "2026-08-18 04:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月國際資本淨流入 1335億美元，前值由1322億美元修正為1315億美元。\n美國6月外資淨買入美國公債 68億美元，前值566億美元。\n美國6月長期資本淨流入 1727億美元，前值由2327億美元修正為2312億美元。"
+    },
+    {
+      "id": "mkt:01a0114f-8264-7aab-9069-6683ac20edc3",
+      "time": "2026-08-18 04:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US net long-term capital inflows were $172.7bln in June; the prior reading was revised from $232.7bln to $231.2bln."
+    },
+    {
+      "id": "mkt:01a0114f-6bbc-7aab-9069-588c6d82af9c",
+      "time": "2026-08-18 04:00:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Foreign net purchases of US Treasuries in June were $6.8bn, versus $56.6bn previously."
+    },
     {
       "id": "mkt:01a0114f-636b-7aab-9069-534ca5728608",
       "time": "2026-08-18 04:00:10",
@@ -139520,45 +139588,6 @@
         "焦點"
       ],
       "text": "英偉達將聯合KKR、高盛、布魯克菲爾德等六家機構，籌集超5000億美元用於AI算力建設。"
-    },
-    {
-      "id": "mkt:019fed44-ee24-7aab-8fe0-8ac4466272c1",
-      "time": "2026-08-11 04:02:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "AAPL.O",
-        "BABA.N",
-        "Impact bullish"
-      ],
-      "text": "【U.S. close: major indexes down; Nasdaq Golden Dragon China Index +1.65%】U.S. equities closed lower Monday: Dow -0.10%, S&P 500 -0.06%, Nasdaq -0.32%. Apple (AAPL.O) -1.5%, SpaceX (SPCX.O) +4.0%, SK Hynix (SKHY.O) -1.9%, Intel (INTC.O) -4.0%. Nasdaq Golden Dragon China Index +1.65%; Alibaba (BABA.N) +3.0%."
-    },
-    {
-      "id": "5034582",
-      "time": "2026-08-11 04:01:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500能源指數上漲4.6%，創2025年4月以來最佳單日表現。"
-    },
-    {
-      "id": "mkt:019fed44-126d-7aab-8fe0-871336e9a156",
-      "time": "2026-08-11 04:01:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interim Venezuelan President Rodriguez said the earthquake death toll has risen to 6,301."
-    },
-    {
-      "id": "5034581",
-      "time": "2026-08-11 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.11%，標普500指數跌0.06%，納指跌0.32%。Coherent Corp跌14.23%，Lumentum Holdings Inc. Common Stock When Issued跌8.56%，Ciena科技跌5.98%，Verisk Analytics跌5.55%，Arm Holdings Plc跌5.23%。“七姐妹”方面：亞馬遜漲1.30%，微軟漲1.23%，特斯拉漲0.70%，谷歌漲0.69%，Meta Platforms漲0.48%，蘋果跌1.56%，英偉達跌2.87%。"
     }
   ]
 }
