@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 52,
+  "count": 58,
   "items": [
+    {
+      "id": "5044656",
+      "time": "2026-08-18 00:57:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦可可期貨上漲超4.5%，報每噸4360英鎊。"
+    },
+    {
+      "id": "5044655",
+      "time": "2026-08-18 00:57:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨上漲近5%，報每噸6,048美元。"
+    },
+    {
+      "id": "mkt:01a010a7-7d1d-7aab-9066-c6c7114bc117",
+      "time": "2026-08-18 00:56:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Fitch Ratings says overdue payments are driving an increase in corporate defaults in Europe."
+    },
+    {
+      "id": "mkt:01a010a5-c4e2-7aab-9066-b87bafe72454",
+      "time": "2026-08-18 00:54:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF staff will visit Dakar, Senegal from Aug 19 to Sep 1."
+    },
+    {
+      "id": "5044654",
+      "time": "2026-08-18 00:54:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：基金組織工作人員團隊將於8月19日至9月1日訪問塞內加爾達喀爾。"
+    },
+    {
+      "id": "mkt:01a010a5-90b2-7aab-9066-b60199287f0d",
+      "time": "2026-08-18 00:54:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Ukrainian official said the Odesa region was struck again in a Russian attack, injuring four people including two children. The strike caused partial damage, ignited the roof of a private home and nearby hay, and its shockwave damaged surrounding buildings."
+    },
     {
       "id": "5044653",
       "time": "2026-08-18 00:53:35",
