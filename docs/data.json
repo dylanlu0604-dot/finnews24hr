@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-17 20:05:54",
-  "count": 15207,
+  "updated": "2026-08-17 20:09:45",
+  "count": 15210,
   "items": [
+    {
+      "id": "5044335",
+      "time": "2026-08-17 20:09:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：成功打擊沙特的一處武器庫。"
+    },
+    {
+      "id": "mkt:01a00f9f-7a35-7aab-9060-8973a042e2ae",
+      "time": "2026-08-17 20:08:24",
+      "tags": [
+        "MKT News",
+        "RTX.N",
+        "Impact bullish"
+      ],
+      "text": "Raytheon Technologies (RTX.N) rose about 1% in premarket trading after the U.S. Navy awarded the company a $22.9 billion Tomahawk missile contract."
+    },
+    {
+      "id": "5044334",
+      "time": "2026-08-17 20:08:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "直覺機器獲專案遴選後盤前股價上漲4.1%。"
+    },
+    {
+      "id": "5044333",
+      "time": "2026-08-17 20:07:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【頎中科技：三季度顯示晶片封測業務產能有望滿負荷執行】頎中科技近日在接待機構調研時表示，2026年第三季度，顯示晶片封測業務方面，顯示產業轉移效應持續發酵，疊加控產控銷策略推進、國家補貼政策延續及賽事帶動等多重因素，產能有望實現滿負荷執行；小尺寸TDDI維修業務整體保持平穩；AMOLED中尺寸應用的拓展，將為穿戴裝置領域帶來業務增量，車載TDDI持續上量。"
+    },
+    {
+      "id": "mkt:01a00f9e-61cd-7aab-9060-81570f9e4270",
+      "time": "2026-08-17 20:07:12",
+      "tags": [
+        "MKT News",
+        "LUNR.O",
+        "Impact bullish"
+      ],
+      "text": "Intuitive Machines shares rose 3.4% in pre-market trading after the company obtained authorization for a multi-satellite project valued at over $600 mln."
+    },
+    {
+      "id": "mkt:01a00f9e-17ff-7aab-9060-7d6c18ef68d2",
+      "time": "2026-08-17 20:06:54",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures and Nasdaq-100 futures rapidly erased earlier gains."
+    },
+    {
+      "id": "5044332",
+      "time": "2026-08-17 20:06:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以總理所在政黨舉行黨內初選 為議會選舉作準備】據以色列多家媒體17日報道，以色列總理內塔尼亞胡領導的右翼政黨利庫德集團當天舉行黨內初選，以確定該黨在預計於10月舉行的議會選舉中議員候選人“名單順位”。《以色列時報》報道說，投票從17日10時開始，計劃於21時結束。共有約14萬利庫德集團成員有投票資格。以色列議會選舉定於不晚於今年10月27日舉行。以色列議會選舉實行“比例代表制”，選民只投黨派，各政黨按照所獲票數的比例份額獲得議會席位。利庫德集團透過黨內初選投票決定議員候選人“名單順位”。（新華社）"
+    },
+    {
+      "id": "mkt:01a00f9d-b4ac-7aab-9060-75b379c88702",
+      "time": "2026-08-17 20:06:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu's Likud holds primary to set candidate list ahead of parliamentary election】Netanyahu's Likud held a party primary on the 17th to determine the order of its candidate list ahead of a Knesset election scheduled no later than Oct. 27. Voting ran from 10:00 to 21:00, with roughly 140,000 party members eligible to vote. Israel allocates Knesset seats by proportional representation."
+    },
+    {
+      "id": "5044331",
+      "time": "2026-08-17 20:06:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨和納斯達克100指數期貨迅速回吐漲幅。"
+    },
     {
       "id": "5044330",
       "time": "2026-08-17 20:05:09",
@@ -139209,66 +139289,6 @@
         "其他"
       ],
       "text": "【警惕！我國境內發現多起“Sorry”勒索病毒攻擊事件】近日，國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）在我國境內發現多起使用者遭“Sorry”勒索病毒攻擊事件。使用者重要檔案被加密後檔名被更改為原檔名+“.sorry”字尾字串，攻擊者還在使用者主機上留下勒索信，要求使用者下載加密通訊工具與其聯絡。（央視新聞）"
-    },
-    {
-      "id": "5034118",
-      "time": "2026-08-10 20:09:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "ARCHER：波音同意交易完成後對價股份實施12個月禁售期。"
-    },
-    {
-      "id": "mkt:019feb92-b76e-7aab-8fd9-725eaad6e170",
-      "time": "2026-08-10 20:08:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "KYODO reports that signals the Bank of Japan may raise rates in September prompted U.S. intervention."
-    },
-    {
-      "id": "5034117",
-      "time": "2026-08-10 20:08:01",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：日本央行9月加息訊號促成美日聯合干預匯市。"
-    },
-    {
-      "id": "5034116",
-      "time": "2026-08-10 20:07:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：高快速路解除管控，東海大橋繼續封閉，長江大橋限速60公里/小時】據“上海釋出”微信公眾號8月10日19時36分訊息，市公安局交通管理總隊介紹，當前暴雨、颱風更新為藍色預警。公安交管部門針對上海市高快速路解除管控措施，恢復正常通行。東海大橋風力9級以上，繼續採取封閉措施。長江大橋風力7-8級，限速60公里/小時。"
-    },
-    {
-      "id": "mkt:019feb91-64cd-7aab-8fd9-6d922275b0f6",
-      "time": "2026-08-10 20:06:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) supports Texas Governor Abbott's scrutiny of data centers."
-    },
-    {
-      "id": "5034115",
-      "time": "2026-08-10 20:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta支援阿博特州長對得克薩斯州資料中心開展審查。"
     }
   ]
 }
