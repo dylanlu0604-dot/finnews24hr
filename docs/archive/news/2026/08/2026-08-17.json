@@ -1,7 +1,36 @@
 {
   "date": "2026-08-17",
-  "count": 753,
+  "count": 756,
   "items": [
+    {
+      "id": "te:markets:575674",
+      "time": "2026-08-17 11:41:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Weakens as RBI Shortens FX Swap Window — The Indian rupee weakened to around 95.49 per dollar, reaching two-week lows as the Reserve Bank of India unexpectedly shortened the deadline for its discounted forex swap facility for non-resident deposits, raising concerns over future dollar inflows. The RBI brought forward the cutoff for the zero-cost hedging facility for FCNR(B) deposits to August 31 from September 30, despite more than $50 billion in inflows through the scheme. The move weighed on sentiment as elevated oil prices continued to pressure the currency and importer hedging demand remained strong. The rupee's decline came despite a softer dollar following weak US retail sales data, which reduced expectations of a Federal Reserve rate hike next month. Meanwhile, the RBI continued selling dollars through state-run banks to cushion the rupee, while stronger foreign-exchange reserves, which rose to a four-month high of $707 billion through August 7, provided the central bank with greater room to support the currency."
+    },
+    {
+      "id": "5043418",
+      "time": "2026-08-17 11:41:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華爾街投行看好茅臺轉型 目標價2100元】傑富瑞（Jefferies）於8月16日釋出研究報告，分析師John Chou、Lisa Liao等人指出，茅臺正在加速向奢侈品品牌運營模式轉型。這一判斷背後有兩個關鍵變化：一是“茅臺銀行”的清退，二是定價哲學的根本轉變。 基於DCF估值，傑富瑞給出基準目標價2100元人民幣，較當前股價1341.99元有約56%的上行空間，維持買入評級。"
+    },
+    {
+      "id": "5043417",
+      "time": "2026-08-17 11:38:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty銀行期貨指數盤前交易下跌0.22%。"
+    },
     {
       "id": "5043416",
       "time": "2026-08-17 11:38:24",
