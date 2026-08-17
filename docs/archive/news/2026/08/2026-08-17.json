@@ -1,7 +1,33 @@
 {
   "date": "2026-08-17",
-  "count": 315,
+  "count": 318,
   "items": [
+    {
+      "id": "5043103",
+      "time": "2026-08-17 08:44:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澄天偉業等成立智慧安全技術公司，含多項AI業務】企查查APP顯示，近日，寧波澄天智慧安全技術有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧行業應用系統整合服務；物聯網技術服務等。企查查股權穿透顯示，該公司由澄天偉業等共同持股。"
+    },
+    {
+      "id": "mkt:01a00d2b-c1da-7aab-9052-166abff7fca7",
+      "time": "2026-08-17 08:42:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Refinitiv: US reportedly pressing countries to pick sides in US‑China AI competition】Refinitiv says it obtained a draft US State Department letter and cites anonymous US officials indicating Washington plans to send letters to the 30+ countries that signed the June AI Opportunities Partnership joint statement, asking them to choose between the US and China in the AI competition. The US would exclude countries that join a China‑led AI framework from participation in a US‑led AI alliance, per the report. Chinese commentators say the US, after courting 20+ economies with its “Silicon Peace” initiative, is now forcing countries to pick sides, a move they characterize as technology bullying."
+    },
+    {
+      "id": "5043102",
+      "time": "2026-08-17 08:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案：梅卡曼德機器人將評估投資者對香港IPO的需求。"
+    },
     {
       "id": "5043101",
       "time": "2026-08-17 08:38:13",

@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-17 08:41:02",
-  "count": 15196,
+  "updated": "2026-08-17 08:44:47",
+  "count": 15195,
   "items": [
+    {
+      "id": "5043103",
+      "time": "2026-08-17 08:44:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澄天偉業等成立智慧安全技術公司，含多項AI業務】企查查APP顯示，近日，寧波澄天智慧安全技術有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧行業應用系統整合服務；物聯網技術服務等。企查查股權穿透顯示，該公司由澄天偉業等共同持股。"
+    },
+    {
+      "id": "mkt:01a00d2b-c1da-7aab-9052-166abff7fca7",
+      "time": "2026-08-17 08:42:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Refinitiv: US reportedly pressing countries to pick sides in US‑China AI competition】Refinitiv says it obtained a draft US State Department letter and cites anonymous US officials indicating Washington plans to send letters to the 30+ countries that signed the June AI Opportunities Partnership joint statement, asking them to choose between the US and China in the AI competition. The US would exclude countries that join a China‑led AI framework from participation in a US‑led AI alliance, per the report. Chinese commentators say the US, after courting 20+ economies with its “Silicon Peace” initiative, is now forcing countries to pick sides, a move they characterize as technology bullying."
+    },
+    {
+      "id": "5043102",
+      "time": "2026-08-17 08:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案：梅卡曼德機器人將評估投資者對香港IPO的需求。"
+    },
     {
       "id": "5043101",
       "time": "2026-08-17 08:38:13",
@@ -138889,44 +138915,6 @@
         "國際"
       ],
       "text": "【上半年空調出口1079億元：歐洲“一機難求”，中國製造送去清涼】今年上半年，我國空調、電扇、冰箱等家電合計出口1079.1億元。從國別來看，今年前5個月，中國對法國、荷蘭、比利時等國家的空調出口額同比大幅增長。多款中國空調一經上市就被搶購，在一些國家甚至一度“一機難求”。空調熱銷歐洲，一方面是今年歐洲大範圍長時間出現高溫天氣，一方面是全歐家庭空調普及率不高，供需缺口很大。滾滾熱浪下，中國製造又一次接住了集中爆發的巨大需求，為歐洲消費者送去清涼和舒適。（新華社）"
-    },
-    {
-      "id": "5032842",
-      "time": "2026-08-10 08:43:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "三井金屬公佈第一季度業績後，股價下跌 19%。"
-    },
-    {
-      "id": "5032841",
-      "time": "2026-08-10 08:41:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【澳大利亞富人區受房價下跌打擊最嚴重】澳大利亞房地產市場的回落對最昂貴的郊區影響最大。較高的利率和對房地產投資者較不利的稅務安排，導致悉尼Point Piper、Mosman、Vaucluse、Hunters Hills和Woolahra等高檔郊區的房價受到重創。房地產研究機構Cotality的這一資料發表在《澳大利亞金融評論報》上。在墨爾本，Toorak和Kew East首當其衝地受到了房地產低迷的影響。悉尼北部海灘的North Curl Curl領跌全國房價，其住宅價值中位數較2025年9月410萬澳元的峰值暴跌19.4%，至7月份的330萬澳元。"
-    },
-    {
-      "id": "5032840",
-      "time": "2026-08-10 08:41:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上漲1.5個基點，至2.090%。"
-    },
-    {
-      "id": "mkt:019fe91d-d864-7aab-8fcd-8de281f30c55",
-      "time": "2026-08-10 08:41:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI pulled back from intraday highs, with gains narrowing to 0.75%; SK Hynix rose 1.8% and Samsung Electronics gained 1.0%."
     }
   ]
 }
