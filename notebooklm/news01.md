@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 22:38:30_
-_本檔包含 2797 則快訊，約 603713 字_
+_更新時間：2026-08-17 22:58:32_
+_本檔包含 2806 則快訊，約 604025 字_
+
+---
+
+### 2026-08-17 22:57:24  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls for 6th Session — The FTSE 100 edged lower on Monday, extending its decline to a sixth consecutive session as weakness in consumer staples weighed on the index. Unilever fell nearly 2%, while British American Tobacco and Diageo dropped 1.6% and 2.8%, respectively. Tesco also lost almost 3%. In contrast, mining stocks benefited from stronger metals prices. Fresnillo and Endeavour Mining gained around 2% and 2.6%, supported by higher gold prices, while Antofagasta, Anglo American and Glencore also advanced as copper prices continued to rise. Pharmaceuticals provided some support, with AstraZeneca gaining about 1% and GSK rising more than 2%. Meanwhile, oil prices moved higher as renewed violence in the Middle East raised concerns about further escalation. Hopes for a diplomatic resolution weakened after President Donald Trump reportedly indicated he was in no rush to end the conflict with Iran, while fighting intensified again in Lebanon.
+
+---
+
+### 2026-08-17 22:56:56  #其他
+
+德國聯邦鐵路表示，相關談判目前仍處於非常初期的非約束性階段。
+
+---
+
+### 2026-08-17 22:56:49  #其他
+
+西班牙IBEX35指數失守20000點，日內跌幅0.78%。
+
+---
+
+### 2026-08-17 22:56:49  #MKT News #Market Regions #Europe & UK
+
+Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
+
+---
+
+### 2026-08-17 22:56:40  #公司
+
+德鐵發言人表示，我們確認正在就出售英國子公司德鐵信可英國(DB Cargo UK)的可能性進行討論。
+
+---
+
+### 2026-08-17 22:55:24  #國際
+
+【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。
+
+---
+
+### 2026-08-17 22:54:34  #MKT News
+
+Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border.
+
+---
+
+### 2026-08-17 22:54:01  #其他
+
+市場訊息：沙烏地阿拉伯襲擊葉門邊境地區 。
+
+---
+
+### 2026-08-17 22:53:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border.
+
+---
+
+### 2026-08-17 22:53:31  #其他
+
+市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。
+
+---
+
+### 2026-08-17 22:53:09  #MKT News
+
+Panama Canal Authority recorded 10,623 vessel transits from October 2025 through July 2026, up 6.12% year-on-year.
+
+---
+
+### 2026-08-17 22:52:46  #MKT News
+
+Israel said it will address the disarmament of Hamas and public health and sanitation conditions in Gaza.
+
+---
+
+### 2026-08-17 22:52:43  #國際
+
+【以色列方面：加沙和平斡旋方將設立兩個工作組】以色列總理辦公室：以色列總理與‘和平委員會’開展了深入且富有建設性的磋商。雙方同意設立兩個工作組：第一個工作組將聚焦加沙地帶的解除武裝與非軍事化工作。以色列與‘和平委員會’均決心快速推進該程序，並要求在加沙地帶啟動任何重建工作之前完成此項工作。第二個工作組將處理加沙居民的環境衛生、潔淨水供應以及其他公共衛生問題 —— 這些問題同樣會對以色列居民造成影響。
+
+---
+
+### 2026-08-17 22:52:14  #MKT News
+
+Israel says Gaza peace mediators will form two working groups.
+
+---
+
+### 2026-08-17 22:52:00  #MKT News #Important #NKE.N #Impact bearish
+
+Nike (NKE.N) shares fell 2.9% to a nearly 12-year low.
+
+---
+
+### 2026-08-17 22:51:39  #MKT News #Important #SNDK.O #Impact bullish #MU.O #WDC.O
+
+SanDisk (SNDK.O) shares rose more than 10%, Micron Technology (MU.O) gained 5.6%, and SK Hynix (SKHY.O) and Western Digital Corp (WDC.O) climbed over 6%.
+
+---
+
+### 2026-08-17 22:51:38  #國際
+
+市場訊息：以色列表示，加沙和平斡旋方將設立兩個工作組。
+
+---
+
+### 2026-08-17 22:51:22  #其他
+
+巴拿馬運河管理局：2025年10月至2026年7月共記錄到10623艘次通行，同比增加6.12%。
+
+---
+
+### 2026-08-17 22:49:26  #市場
+
+美股儲存板塊進一步擴大漲幅，SK海力士股價上漲6.5%，美光科技股價上漲5.7%，閃迪股價上漲10.5%。
+
+---
+
+### 2026-08-17 22:47:28  #宏觀 #國際
+
+市場訊息：美國財政部提出《GENIUS 法案》穩定幣監管規則。
+
+---
+
+### 2026-08-17 22:47:10  #國際
+
+【伊朗官員：已為美國履行諒解備忘錄設定最後期限】一名伊朗高階官員17日在接受路透社採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了數週的最後期限，伊朗不會無限期等待美國繼續實施海上封鎖。該官員表示，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”。該官員說，如果外交努力失敗，“伊朗人已準備好將升級霍爾木茲海峽及（中東）地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。”美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿，由於在霍爾木茲海峽等問題上存在嚴重分歧，美伊談判陷入僵局，沒有取得實質性進展。（新華社）
+
+---
+
+### 2026-08-17 22:47:06  #央行 #市場
+
+巴西央行續作全部 50000 份外匯互換合約。
+
+---
+
+### 2026-08-17 22:46:41  #Trading Economics #Markets #commodity #Importance 0
+
+Heating Oil Hits 18-week High — Heating Oil increased to 4.38 USD/Gal, the highest since April 2026. Over the past 4 weeks, Heating Oil gained 6.18%, and in the last 12 months, it increased 95.21%.
+
+---
+
+### 2026-08-17 22:46:32  #MKT News #DXY #Impact bearish
+
+Central Bank of Chile sold USD 64 mln of FX forward contracts at an average rate of 914.04 CLP per USD.
+
+---
+
+### 2026-08-17 22:46:13  #市場 #國際
+
+【美國8月住宅建築商信心僅小幅改善 高成本繼續壓制樓市】美國住宅建築商信心8月僅小幅改善，高企的建築和借貸成本繼續壓制住房市場。美國全國住宅建築商協會（NAHB）和富國銀行週一公佈的資料顯示，整體住宅市場指數（HMI）本月上升1點至35。指數低於50意味著認為市場狀況不佳的建築商多於認為狀況良好的建築商，該指數自2024年5月以來一直低於50。“我們最新的建築商調查繼續顯示住宅建築市場疲軟，”NAHB首席經濟學家Robert Dietz在宣告中表示，“8月是連續第16個月至少有30%的建築商表示透過降價來支撐需求，同時也是HMI連續第16個月低於40。”分項指標中，一項當前銷售指標上升2點至39。未來銷售預期指標和潛在買家客流指標均與上月持平。建築商情緒低迷反映新房市場依賴各種優惠措施和抵押貸款利率補貼來刺激需求。30年期固定利率抵押貸款的合約利率徘徊在一年高點下方，該高點於7月底觸及。建築商一直透過各種優惠吸引潛在買家，這侵蝕了他們的利潤；與此同時，燃料價格上漲推高了材料成本。8月，63%的建築商表示使用了銷售優惠措施，與上月持平。35%的建築商表示降價，低於7月的37%。
+
+---
+
+### 2026-08-17 22:43:28  #市場 #國際
+
+【日本國債遭遇拋售潮 日美聯手仍未扭轉日元跌勢】由於中東局勢再次緊張，加之近段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售。17 日，日本10年期國債收益率繼續上升，一度升至2.93%，創下近30年來的新高。與此同時，距離美國和日本聯手干預外匯市場僅過了兩週，日元匯率再度逼近1美元兌160日元的低位。業內分析稱，外匯干預可以暫時改變匯率，卻難以改變日本的經濟邏輯。在弱日元、低增長、高債務三大壓力下，日本經濟正面臨越來越嚴峻的考驗。有分析人士表示，日本越是試圖透過刺激託舉經濟，財政和匯率承受的壓力可能就越大。因此，能穩定日元匯率的，只有日本經濟增長模式、財政結構的最佳化。對日本政府而言，真正需要面對的，或許從來不只是“保衛日元”，而是日本經濟重新獲得持續增長的能力。（央視財經）
+
+---
+
+### 2026-08-17 22:41:43  #其他
+
+【理想汽車被曝或自研雲端推理晶片】近日，有訊息稱，理想汽車正在探索自研雲端推理晶片，專案仍處早期階段，並可能採用與其車端智駕晶片相近的資料流架構。對此，理想汽車方面表示：“暫時還沒有聽到這方面的訊息。”業內人士認為，隨著智慧駕駛大模型、車載智慧體和多模態互動功能持續演進，智慧汽車背後的雲端推理需求還會繼續增長。未來車企之間的智慧化競爭，或許不只取決於車上有多少算力，也取決於車企能否建立一套支撐模型持續迭代、低成本呼叫和規模化交付的雲端AI基礎設施。（每經）
+
+---
+
+### 2026-08-17 22:41:39  #MKT News #Market Themes #AI Revolution #02015.HK
+
+【Li Auto reportedly exploring in-house cloud inference chip】Li Auto (02015.HK) is reportedly exploring an in-house cloud inference chip; the project is in an early stage and may adopt a dataflow architecture similar to its vehicle-side autonomous driving chip. Li Auto said: "We have not heard anything about this so far." Industry insiders say cloud inference demand will rise as autonomous-driving large models, in-car agents and multimodal interaction evolve. Future competition among automakers may hinge not only on in-vehicle compute but on the ability to build cloud AI infrastructure that supports continuous model iteration, low-cost invocation and scalable delivery.
+
+---
+
+### 2026-08-17 22:41:01  #國際
+
+【伊朗指責卡達扣押3名伊朗飛行員】近日，伊朗指責三名伊方飛行員遭到卡達方面的扣押，而卡達對此予以否認，雙方爭執不下。8月17日，伊朗外交部發言人巴加埃稱，伊朗正透過外交渠道關注伊朗飛行員的下落，在事情明朗前，伊朗仍然認為失蹤的三名飛行員是被卡達方面俘獲。巴加埃同時表示，伊朗與卡達的外交關係並不與追查伊朗軍方飛行員的下落相沖突。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 22:40:23  #公司 #國際
+
+【英偉達聯手OpenAI鎖定12吉瓦算力基建，黃仁勳：即便OpenAI不續租，還可以給其他客戶】AI（人工智慧）晶片龍頭英偉達披露了在AI基礎設施戰略佈局上的最新動作。8月17日，英偉達CEO黃仁勳發表題為《保障智慧基礎設施安全》（Securing the Infrastructure of Intelligence）的署名文章稱，英偉達已與能源開發商SB Energy達成合作，鎖定位於美國俄亥俄州波特斯茅斯PORTS-Pike科技園區的土地、電力與廠房（LPS）資源。該場地將專門用於承載英偉達算力系統，而OpenAI將作為租戶在此建造並運營AI工廠。黃仁勳在文中指出，AI工廠是AI時代的決定性基礎設施。當前，基礎設施的競爭焦點已從先進晶片與封裝，延伸到了土地、電力與廠房。AI實驗室對訓練和推理算力的需求極其驚人，“更多的算力意味著更高的智慧、更多的產品、更多的使用者以及更高的收入”，但其發展正受到算力供給不足的嚴重製約。如果未來OpenAI無法繼續使用該園區，其算力可以轉售給英偉達全球生態系統中其他符合條件的租戶。黃仁勳強調，英偉達算力具備通用性與可互換性：“可互換性驅動了利用率和永續性，使英偉達算力成為一種可出租、可融資的生產性資產。”因此，PORTS-Pike這種優質場地的價值絕不侷限於單一客戶或單代算力。在文章的最後，黃仁勳梳理了英偉達的戰略進化路徑：從最初製造加速計算晶片，到擴充套件至系統、網路、CUDA軟體，再到全棧AI工廠，如今進一步延伸至幫助客戶鎖定建造這些工廠所需的關鍵底層資源。黃仁勳表示，英偉達未來在LPS上的佈局仍將保持“戰略性與自律性”，絕大多數客戶將繼續獨立獲取LPS資源，英偉達僅會選擇性地鎖定那些具備明確、持久需求且能承載多代算力升級的卓越場地。 隨後，黃仁勳為這項融資計劃正名，回應外界對“迴圈融資”的質疑。他指出，公司可能會為相關合作提供“最高達專案規模25%”的融資支援：“我們的作用是幫助解鎖龐大的獨立資本池，同時保持自律的風險敞口。”（澎湃）
+
+---
+
+### 2026-08-17 22:40:16  #MKT News
+
+Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year.
+
+---
+
+### 2026-08-17 22:38:21  #其他
+
+市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。
 
 ---
 
@@ -16707,147 +16899,5 @@ TASNIM News reported Iran's official responsible for missing military personnel 
 ### 2026-08-16 13:58:56  #MKT News
 
 【US Navy finds unidentified drone at largest Italian base; base-wide security measures enacted】Stars and Stripes reported on 14 that the US Navy discovered an unidentified small drone at its largest base in Italy and implemented base-wide security measures. The drone was found on 13 at a support site, prompting precautionary action. Separately, a brief shelter-in-place order was issued at a garrison about 13 miles (21 km) from the discovery; officials have not confirmed whether the order was related to the drone or whether similar orders were issued at the support site.
-
----
-
-### 2026-08-16 13:57:56  #國際
-
-【美媒：美海軍在義大利最大基地內發現無人機，並採取全基地安全措施】據美國《星條旗報》當地時間14日報道，美國海軍在義大利最大基地內日前發現一架身份不明的無人機，並採取了全基地安全措施。報道稱，該小型無人機於13日在美海軍基地一支援點中被發現，促使安全部隊採取預防措施。在發現該無人機前後，美海軍基地在其位於距離事發地點約13英里（約21千米）的一個駐地釋出了短暫的就地避險令。目前尚不清楚這項避險令是否與發現了無人機有關，也不清楚支援點中是否也釋出了類似的命令。（環球網）
-
----
-
-### 2026-08-16 13:52:36  #國際
-
-匈牙利總理：一輛波蘭巴士在匈牙利發生事故，已造成12人死亡，至少10人受傷。
-
----
-
-### 2026-08-16 13:52:18  #公司 #市場 #央行 #國際
-
-【“恐慌指數”跌至年內低位 科技股高位震盪】本週美股各大指數表現分化，標普500迎來7800點里程碑的同時道指結束周線兩連陽。美國通脹資料疊加零售銷售下滑，提升了美聯儲9月暫停加息的機率；與此同時，特朗普政府對中東局勢釋放的訊號，成為打壓風險偏好的理由。 未來一週，隨著財報季臨近尾聲，地緣政治因素和美聯儲貨幣政策預期或重新主導市場，而衡量市場波動性的芝商所“恐慌指數”VIX跌至年內低位，可能醞釀著新一輪波動的風險。 牛津經濟研究院高階經濟學家鮑勃·施瓦茨在接受記者採訪時表示，美國物價最大的不確定性變數仍是能源價格，中東衝突可以把通脹推向完全不同的方向。核心通脹已經回落至2.5%，但自 2021年之後就很難進一步跌破該水平，這也給美聯儲鷹派提供了支援繼續加息的論據。他認為，長期來看，AI帶來的生產率提升有望抑制通脹；但短期，資料中心、半導體、儲存晶片的鉅額需求，已經推高科技板塊部分環節的價格，對AI長期抗通脹的前景形成短期對沖。（第一財經）
-
----
-
-### 2026-08-16 13:48:55  #MKT News #Market Regions #Greater China
-
-【China launches batch of 24 LEO satellites for satellite internet】At 12:10 Beijing time on Aug 16, 2026, China launched a batch of 24 low‑Earth‑orbit satellites for a satellite internet constellation from its Hainan commercial spaceport aboard a Long March‑12 rocket; the satellites reached their planned orbit and the launch was successful.
-
----
-
-### 2026-08-16 13:46:12  #其他
-
-【我國成功發射衛星網際網路低軌24組衛星】北京時間2026年8月16日12時10分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌24組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）
-
----
-
-### 2026-08-16 13:43:58  #公司
-
-【雲南約談通報投訴量排名前50旅行社：將實施重點監管】近日，雲南省文化和旅遊廳召開全省投訴較多旅行社負責人影片約談通報會，對昆明康輝旅行社有限公司、雲南中青國際旅行社（集團）有限公司、西雙版納怡程國際旅行社有限公司等全省投訴量排名前50的旅行社進行通報。
-
----
-
-### 2026-08-16 13:40:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon.
-
----
-
-### 2026-08-16 13:38:18  #觀點
-
-【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。
-
----
-
-### 2026-08-16 13:38:00  #MKT News
-
-【2026 Wenchang International Aerospace Forum to run Aug. 24-26 in Hainan】The 2026 Wenchang International Aerospace Forum will be held Aug. 24-26 in Wenchang, Hainan, showcasing recent advances in Hainan’s aerospace industry. The forum aims to accelerate commercialization of reusable rockets, attract global aerospace resources, and scale rocket, satellite and data supply chains plus ‘aerospace+’ sectors to build a multi-layered aerospace ecosystem. Hainan says it will push key projects to rapidly develop high-density, high-reliability, low-cost commercial launch capacity to support ‘hundreds of rockets, thousands of satellites’ deployment.
-
----
-
-### 2026-08-16 13:37:45  #市場 #國際
-
-【多隻美股ETF加倉中國晶片股】多隻海外ETF聚焦中國晶片股，釋放出國際資本增配中國科技資產的積極訊號。近日，聚焦儲存晶片產業鏈的Roundhill Memory ETF（DRAM）調整持倉。截至8月14日收盤，A股儲存企業長鑫科技在該基金中的權重為4.52%，位列第六大重倉股。今年6月首次被納入基金的兆易創新，權重為1.16%。美國主動管理型ETF機構Tema ETFs近期宣佈，已將長鑫科技納入旗下聚焦儲存晶片行業的產品Tema記憶體ETF（DISK），截至8月14日收盤持倉比例為7.54%。（央視財經）
-
----
-
-### 2026-08-16 13:36:17  #國際
-
-【以部長稱每晚都應殺掉加沙數十人】以色列國家安全部長、極右翼政治人士本-格維爾在今天（8月16日）播出的一檔播客節目中表示，應該每晚在加沙定點清除30個、40個人。他表示，那裡有些人本不該活著，稱他們為“人”已經算慷慨了。本-格維爾說，有人說他“瘋了”，他承認這一點，但是“在中東你必須得瘋”。（CCTV國際時訊）
-
----
-
-### 2026-08-16 13:31:02  #國際
-
-【美國關稅壓力之下 韓國產業部長再度前往華盛頓】訊息人士週日透露，在多項雙邊貿易懸而未決、韓國面臨美國與日俱增的關稅壓力背景下，韓國產業部長已於當日早些時候啟程前往華盛頓。產業部長金正官此次訪美正值雙邊貿易關係敏感節點，美國不斷施壓，要求韓國加快落實雙邊關稅協議項下的投資承諾。
-
----
-
-### 2026-08-16 13:28:02  #其他
-
-【中國紅十字會總會向河南洪澇災區追加調撥救災物資】8月16日，針對河南洪澇災害救助進一步需求，中國紅十字會總會追加調撥賑濟家庭包、毛巾被等救災物資5500件，支援災區做好群眾轉移安置和生活保障工作。目前，中國紅十字會總會已累計向河南洪澇災區調撥救災物資9000件。（新華社）
-
----
-
-### 2026-08-16 13:25:55  #國際
-
-【美媒體人：“海峽吞併言論”只是“政治止損口號”】8月16日，英國《泰晤士報》旗下播客欄目“TIMES NEWS”播出對美國《國會山報》（The Hill）副主編兼白宮專欄作家尼爾·斯坦納奇（Niall Stanage）的專訪。在被問及對美國總統特朗普近日在一次演講中聲稱“在擊敗伊朗後將宣佈霍爾木茲海峽為美國領土”這一言論的評價時，尼爾·斯坦納奇認為，上述言論只是“表演式的口號”。（央視）
-
----
-
-### 2026-08-16 13:23:55  #國際
-
-印尼7.7級地震死亡人數升至51人。（央視新聞）
-
----
-
-### 2026-08-16 13:14:10  #公司
-
-【電影《牛來》宣告：多平臺出現冒充賬號 嚴重損害影片與觀眾權益】電影《牛來》透過官方賬號釋出宣告。宣告內容提到，近期，我們發現多個社交平臺上出現冒充電影《牛來》官方團隊的賬號，這些賬號未經授權，擅自發布不實資訊、誤導大家，甚至進行商業活動，嚴重損害了影片與觀眾的權益。
-
-宣告稱，“為此，我們鄭重宣告：電影《牛來》官方團隊僅在以下平臺擁有唯一官方賬號(平臺名稱：抖音/微博/公眾號/小紅書：牛來電影官方團隊)。除以上認證賬號外，其他平臺的所有賬號均為冒充，與我們無任何關聯，所釋出的內容均不代表官方立場。”
-
-宣告指出，“請大家提高警惕，認準官方賬號，避免受到誤導，保護好自身的合法權益。對於任何冒用我方名義的行為，我們保留追究其法律責任的權利。”（新浪科技）
-
----
-
-### 2026-08-16 13:12:12  #國際
-
-以色列軍方：對代爾阿扎拉尼實施打擊，擊斃黎巴嫩南部與真主黨有關聯的巴德爾部隊指揮官。
-
----
-
-### 2026-08-16 13:11:48  #市場
-
-【Sorry勒索病毒發起攻擊】近日，國家計算機病毒應急處理中心、計算機病毒防治技術國家工程實驗室聯合釋出安全預警：我國境內已出現多起“Sorry”勒索病毒攻擊案例。該病毒入侵後會加密使用者裝置內全部重要檔案，統一追加“Sorry”字尾，同時留存勒索信。專家表示，這次的勒索病毒，與以往大多數需要欺騙網民主動安裝的程式不同，而是透過系統漏洞，直接登入伺服器，入侵過程使用者毫無感知。據網路安全專家表示，“Sorry”勒索病毒重點瞄準的是各類“資料量大”的企業主體。其中防護能力薄弱、資料資產密集的中小企業成為主要受害群體。同時該病毒採用高強度加密技術，一旦中招，資料破解恢復難度極大。當前全球勒索軟體攻擊態勢持續高發，資料顯示，今年上半年，全球勒索軟體攻擊索賠案例同比上漲25%，總數達4544起，活躍勒索軟體團伙多達146個。（央視財經）
-
----
-
-### 2026-08-16 13:05:28  #國際
-
-【美媒稱特朗普再次要求修改新航母設計】美國《華盛頓郵報》15日援引多名美國官員訊息報道說，應美國總統特朗普要求，美國海軍再次考慮對“福特”級航母作出重大設計調整，將艦島向艦體中部移動，此舉預計將耗費數十億美元並延長交付週期。此前，特朗普要求新航母棄用電磁彈射系統。據知情官員透露，由於特朗普對“福特”級航母的外觀“存在擔憂”，希望其更接近二戰時期的航母設計，美國海軍正考慮將新航母上艦島位置從原來的位於後方調整為更靠近艦體中部。報道說，美國海軍方面認為這一改動可能花費高昂且耗時漫長。實際上，特朗普第一任期內美海軍已就該問題進行過研究。評估顯示，移動艦島位置預計將增加數十億美元的重新設計成本，並導致航母交付週期大幅延長。報道援引美官員的話說，艦島靠後可以為艦載機提供更多停放空間，縮短其起飛時間，並降低返航時遭遇的風險，提高著艦安全性。美國智庫哈得孫研究所專家布賴恩·克拉克說，改動艦島位置屬於“重大設計調整”，將影響航母的浮力和重量。這是特朗普推動的第二項重大航母設計改動。13日，他下令要求第四艘“福特”級航母棄用電磁彈射系統，恢復老式的蒸汽彈射。（新華社）
-
----
-
-### 2026-08-16 13:01:19  #MKT News #HII.O #Impact bearish
-
-【US Navy weighing Ford‑class carrier redesign at Trump’s request, Washington Post says】The US Navy is considering redesigning upcoming Ford‑class aircraft carriers to reflect former President Trump’s aesthetic preferences, the Washington Post reports. Proposed changes include relocating the carriers’ multi‑level island command center to the ship’s midsection. Officials say the alteration could cost billions of dollars, exacerbate existing construction delays and forfeit three operational advantages: increased deck parking capacity, shorter intervals between catapult launches, and reduced turbulence on landings. The moves remain under study and could extend build timelines as the conflict with Iran has pushed carrier demand higher.
-
----
-
-### 2026-08-16 12:59:47  #國際
-
-伊朗官員阿里・內赫班達尼警告，美國、以色列以及地區敵對勢力的挑釁行為，將招致代價更為沉重的報復。
-
----
-
-### 2026-08-16 12:54:59  #MKT News
-
-According to Maoyan Pro data, the film Welcome to Long Restaurant has grossed over CNY 800 mln in its first six days of release.
-
----
-
-### 2026-08-16 12:54:50  #公司 #市場
-
-【本週南向資金淨買入騰訊控股超70億港元 14股南向資金持股量環比增長超15%】本週（8月10日至14日）港股市場主要股指集體下跌，恒生指數累計跌2.15%，恒生科技指數跌3.1%，恒生中國企業指數跌2.24%。據證券時報·資料寶統計，本週南向資金合計成交淨買入0.89億港元。從本週上榜成交活躍股名單來看，本週共有19只個股上榜，騰訊控股本週港股通合計買賣總額最高，達到356.59億港元；智譜緊隨其後，為343.04億港元；其他還有MINIMAX-W、中芯國際、建滔積層板本周港股通買賣總額超過200億港元。從成交淨買入金額來看，本週南向資金對網際網路巨頭買賣不一，騰訊控股獲南向資金淨買入77.29億港元，小米集團-W獲南向資金淨買入9.65億港元，阿里巴巴-W淨賣出26.14億港元。其他還有美團-W遭南向資金淨賣出3.2億港元。從持股量變化來看，本週14股獲得南向資金持股量環比增長超15%，芯碁微裝居首，環比增長69.62%，其他還有南華期貨股份、明略科技-W、滬上阿姨持股量環比增幅居前，持股量環比增幅分別為55.26%、38.49%、33.61%。
 
 ---

@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 22:38:30_
-_本檔包含 3025 則快訊，約 604239 字_
+_更新時間：2026-08-17 22:58:32_
+_本檔包含 3009 則快訊，約 603833 字_
+
+---
+
+### 2026-08-13 09:49:31  #其他
+
+【廣東：鼓勵社會資本以市場化方式建立支援企業標準創新專項基金】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，激發企業標準化創新活力。聚焦戰略性新興產業、未來產業和優勢產業，鼓勵重點產業鏈上下游企業，制定共同使用的企業標準，推動“創新鏈—標準鏈—產業鏈”融合發展。鼓勵社會資本以市場化方式建立支援企業標準創新專項基金。支援將先進企業標準化成果納入社會組織、企業等設立的社會科技獎獎勵範疇。
+
+---
+
+### 2026-08-13 09:48:10  #公司 #市場
+
+【CPO概念震盪拉昇 天孚通訊漲近10%】早盤CPO概念震盪拉昇，天孚通訊漲近10%，炬光科技、源傑科技、華懋科技、新易盛、東山精密等跟漲。
+
+---
+
+### 2026-08-13 09:47:19  #MKT News #Important #Market Regions #Greater China #Market Themes #Chip Wars #SZSE Component #Impact bullish
+
+China's ChiNext index continued to strengthen, rising over 2% in early trade; computing-power leasing, storage chips and CPO sectors led gains.
+
+---
+
+### 2026-08-13 09:46:42  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Holds Firm — The Australian dollar held above $0.705, staying near multi-week highs as the Reserve Bank’s latest remarks reinforced a restrictive policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and slowing broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and said financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday.
+
+---
+
+### 2026-08-13 09:46:35  #市場 #焦點
+
+創業板指漲2％，上證指數漲0.50％，深證成指漲1.16％。算力租賃、儲存晶片、CPO等板塊漲幅居前。
+
+---
+
+### 2026-08-13 09:46:26  #公司
+
+【新致軟體成立智算科技公司 含AI及積體電路業務】企查查APP顯示，近日，武漢新致智算科技有限公司成立，經營範圍包含積體電路製造；積體電路晶片及產品製造；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由新致軟體全資持股。
+
+---
+
+### 2026-08-13 09:45:43  #市場
+
+【生物科技板塊拉昇 博濟醫藥漲超10%】生物科技板塊拉昇，博濟醫藥漲超10%，賽分科技、皓元醫藥、康龍化成等跟漲。
+
+---
+
+### 2026-08-13 09:45:39  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+China A-share CPO concept stocks surged briefly; Gongjin Co. hit the daily limit, while Juguang Technology, Yuanjie Technology, Liante Technology, Tianfu Communication and Taichengguang advanced.
+
+---
+
+### 2026-08-13 09:45:06  #公司 #市場
+
+【共封裝光學(CPO)板塊短線拉昇，共進股份漲停】共封裝光學(CPO)板塊短線拉昇，共進股份漲停，炬光科技、源傑科技、聯特科技、天孚通訊、太辰光等紛紛走高。
+
+---
+
+### 2026-08-13 09:45:00  #市場 #國際
+
+國債期貨漲幅擴大，30年期主力合約漲0.35%，10年期主力合約漲0.05%，5年期主力合約漲0.03%，2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-13 09:44:57  #其他
+
+【廣東：圍繞人工智慧等關鍵領域 研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，最佳化新興產業標準佈局。圍繞人工智慧、新能源汽車、低空經濟、新型儲能、商業航天等關鍵領域，研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準。大力開拓新技術新產品應用場景，開展標準化應用試點，完善相關標準應用實施指引。
+
+---
+
+### 2026-08-13 09:44:05  #MKT News #Market Themes #AI Revolution
+
+【Guangdong to plan standards systems for embodied intelligence and other frontier fields, exploring standardization to speed iteration of leading disruptive technologies】Guangdong provincial CPC committee and provincial government issued guidance to carry out future-industry standards planning. It directs standards-system research focused on embodied intelligence, biomanufacturing, quantum technology and other frontier areas, and to explore using standardization to accelerate iteration of pioneering and disruptive technologies. The guidance calls for stronger standards pre-research to improve scientific and practical feasibility and to shorten the cycle for converting scientific achievements into standards. It also backs formation of standardization technical organizations for future industries and advancement of key standards’ development and implementation.
+
+---
+
+### 2026-08-13 09:44:01  #其他
+
+訊息人士稱，墨西哥在美墨加協定談判中推動降低汽車關稅。
+
+---
+
+### 2026-08-13 09:43:58  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+Wall Street Journal, citing sources, says Mexico is pushing to lower auto tariffs in USMCA negotiations.
+
+---
+
+### 2026-08-13 09:43:53  #公司 #市場
+
+【食品飲料板塊再度活躍 皇氏集團4連板】早盤食品飲料板塊再度活躍，皇氏集團4連板，一鳴食品、會稽山、熊貓乳品、百合股份、好想你等跟漲。
+
+---
+
+### 2026-08-13 09:43:43  #其他
+
+【廣東：圍繞具身智慧等前沿領域開展標準體系規劃研究，探索以標準化手段引領先導性、顛覆性技術快速迭代】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，開展未來產業標準規劃。圍繞具身智慧、生物製造、量子科技等前沿領域開展標準體系規劃研究，探索以標準化手段引領先導性、顛覆性技術快速迭代。加強標準預研工作，提升標準研製的科學性、可行性，縮短科技成果向標準轉化的週期。支援組建未來產業的標準化技術組織，推進重點標準的研製與實施。
+
+---
+
+### 2026-08-13 09:43:38  #其他
+
+【廣東：力爭在積體電路等重點領域形成一批原創技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，強化科技攻關與標準同步。聚焦“廣東強芯”工程、汽車晶片“攀登計劃”、核心軟體攻關工程、顯示製造關鍵裝備攻關及產業化行動等，同步開展關鍵標準研製，力爭在積體電路、工業軟體、工業母機、科學儀器、醫療器械等重點領域形成一批原創技術標準。推動更多共性關鍵技術和應用類科技計劃專案形成標準研究成果。
+
+---
+
+### 2026-08-13 09:43:33  #MKT News #Important #Market Regions #Greater China
+
+China A-share innovative drug sector bounced off intraday lows; Boji Medical rose over 12%, while Ruilian New Materials, Yuheng Pharmaceutical, Kanglong Huacheng, Baipusaisi and Puluo Pharmaceutical also advanced.
+
+---
+
+### 2026-08-13 09:43:31  #市場
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-08-13 09:43:21  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies Ahead of PPI Data — The dollar index steadied around 99.9 on Thursday after experiencing heightened volatility in the previous session, as investors looked ahead to July’s producer inflation report for further clues on recent price trends. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Meanwhile, investors continued to assess prospects for a deal to reopen the Strait of Hormuz, although escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement. Elsewhere, traders remained alert for potential intervention to support the yen as the currency approaches the 160 level against the dollar.
+
+---
+
+### 2026-08-13 09:42:47  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量949億元。
+
+---
+
+### 2026-08-13 09:42:32  #MKT News #Market Regions #Greater China #000300.SS #Impact bullish
+
+China A-share data-center power-supply stocks strengthened; Maigemit hit the daily trading limit, with Oulutong, Zhongheng Electric, Kstar, Aikesaibo and Ketai Power also higher.
+
+---
+
+### 2026-08-13 09:42:22  #MKT News
+
+【Counterpoint Research: 2025 global commercial cleaning robot shipments to exceed 50,000; revenue over $400m】Counterpoint Research projects global commercial cleaning robot shipments will exceed 50,000 units in 2025, with revenue above $400m. Pudu Robotics ranks first in both shipments and revenue; leading firms are beginning to show scale effects. Commercial cleaning robots combine multi-sensor suites, environmental perception, 3D mapping, autonomous path planning and intelligent obstacle avoidance. With cloud-based dispatch, devices can perform unattended, large-area cleaning and produce automated cleaning and maintenance reports. Unlike manual push or ride-on equipment, which remain operator-dependent, commercial robots function as autonomous agents whose cleaning standards and operational quality are enforced by AI algorithms and data systems, marking the start of a commercial cleaning industry 2.0.
+
+---
+
+### 2026-08-13 09:41:59  #其他
+
+【廣東：推進通訊網路、算力等新型基礎設施技術標準研製】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，夯實關鍵技術標準基礎。加快交通運輸、建築、水利、電力等傳統基礎設施核心關鍵技術、共性技術標準研製，完善現代工程技術標準體系。強化核心基礎零部件、先進基礎工藝、關鍵基礎材料與產業技術基礎標準建設。加強高階裝備製造標準化建設，加快推進工業機械、數控機床、電力裝備等技術標準研製與應用。強化新型基礎設施標準化建設，推進通訊網路、算力等新型基礎設施技術標準研製。
 
 ---
 
@@ -18032,266 +18176,5 @@ Crypto Updates: Binance Rises by 2.36% — Today's cryptos market is characteriz
 ### 2026-08-12 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
 
 Agricultural Commodities Updates: Cocoa Slumps by 5.07% — Top commodity losers are Cocoa (-5.07%) and Canola (-1.77%). Gains are led by Barley (2%), Sugar (1.59%) and Cotton (0.62%).
-
----
-
-### 2026-08-12 06:39:21  #其他
-
-【古特雷斯：對哥倫比亞地震造成人員傷亡感到“悲痛” 】聯合國秘書長古特雷斯11日透過副發言人哈克發表宣告表示，對哥倫比亞地震造成人員傷亡感到“悲痛”。（新華社）
-
----
-
-### 2026-08-12 06:36:25  #市場
-
-【波動緩衝墊增厚，可轉債策略悄然走紅】“近期，投資者態度出現了明顯轉變，此前觀望的資金開始主動諮詢。”一位資深私募可轉債策略基金經理表示。在剛剛過去的7月，當股票、量化指增等產品普遍回撤時，一批此前並不起眼的可轉債策略產品卻扛住了市場波動，部分產品甚至取得正收益。私募排排網資料顯示，7月主觀多頭、量化多頭和股票多空策略指數分別下跌9.29%、15.38%和7.73%，可轉債交易策略指數逆勢上漲0.81%，今年以來累計上漲1.35%，在高波動的市場環境中，含金量凸顯。（中證報）
-
----
-
-### 2026-08-12 06:35:45  #央行 #公司 #市場 #國際
-
-【8月12日隔夜要聞一覽】
-1、美軍稱使用導彈襲擊一艘駛向伊朗港口的商船。
-2、國際油價11日上漲。紐約商品交易所9月交貨的輕質原油期貨價格上漲1.07美元，收於每桶83.20美元，漲幅為1.3%；10月交貨的倫敦布倫特原油期貨價格上漲1.19美元，收於每桶88.91美元，漲幅為1.36%。
-3、美國一名聯邦法官下令，禁止美國郵政總署依據美國總統特朗普的行政命令限制郵寄投票。
-4、受伊朗戰爭影響，全球航運企業尋找替代路線，導致巴拿馬運河擁堵加劇。一艘名為Seaspan Benefactor的集裝箱船支付400萬美元競價費用，以跳過排隊優先透過巴拿馬運河，金額接近歷史最高水平。
-5、胡塞武裝稱打擊葉門多地的與沙特相關軍事目標。
-6、法國央行週二援引月度企業調查稱，預計第三季度GDP將增長0.2%。
-7、蘋果再迎高層更替，支付和錢包服務負責人Bailey將退休。
-8、谷歌稱Gemini的月使用者數已超過10億。
-9、伊朗石油部長：伊天然氣日產能有望大幅回升。
-
----
-
-### 2026-08-12 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Falls by 1.30% — Top commodity losers are Silver (-1.30%) and Gold (-0.31%). Gains are led by Iron Ore CNY (1.12%), Silicon (0.58%) and Iron Ore (0.56%).
-
----
-
-### 2026-08-12 06:32:11  #公司
-
-【公募調倉方向漸顯，醫藥生物關注度升溫】公募基金正在尋找新的結構性機會，醫藥生物成為重點關注方向。最新測算資料顯示，公募權益類基金整體倉位進一步升至94.34%，處於歷史中位高水平。與此同時，公募資金調倉跡象逐步顯現，食品飲料、非銀金融、銀行獲得主動增持，電子等前期熱門板塊則被減持。值得關注的是，機構調研風向也發生變化。8月3日至9日，公募機構對醫藥生物行業調研104次，熱度超過此前持續受到關注的電子行業。（上證報）
-
----
-
-### 2026-08-12 06:31:08  #公司 #資料 #市場 #國際
-
-【週三重要財經資訊提醒（以下均為北京時間）】
-① 時間待定 國產大飛機C919首條國際航線開通；
-② 14:00 德國7月CPI終值；
-③ 港股收盤之後 騰訊控股釋出業績報告；
-④ 16:00 國際能源署（IEA）公佈月度原油市場報告（OMR）；
-⑤ 美股盤前 Nebius Group NV釋出業績報告；
-⑥ 時間待定 石油輸出國組織（OPEC，歐佩克）公佈月度原油市場報告；
-⑦ 20:30 美國7月CPI；
-⑧ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
-⑨ 次日 02:00 美國7月政府預算；
-⑩ 美股盤後 思科、高意公司/相干公司Coherent、Cerebras Systems等釋出業績報告；
-⑪ 時間待定 明晟公司MSCI 8月指數調整公告發布；
-⑫ 次日06:00 谷歌新品釋出會，推出Pixel 11系列手機。
-
----
-
-### 2026-08-12 06:30:33  #MKT News
-
-【Iran oil minister says gas capacity could rise 95 mln cu m/day by end-September】Iran’s oil minister said on the 11th that repairs to gas production facilities damaged in recent hostilities are underway and that daily capacity could recover by about 95 mln cubic meters by end-September. Reconstruction of four attacked gas-processing plants is progressing rapidly, contractors have started work, and projects are expected to finish ahead of schedule and fully restore pre-attack output. Earlier reports said Iranian gas output had fallen roughly 230 mln cu m/day since U.S. and Israeli military actions.
-
----
-
-### 2026-08-12 06:30:15  #國際
-
-【伊朗石油部長：伊天然氣日產能有望大幅回升】伊朗石油部長穆赫辛·帕克內賈德11日表示，伊朗正在修復因戰事受損的天然氣生產設施，按計劃9月底前其日產能可回升9500萬立方米。帕克內賈德稱，伊朗4座遇襲受損的天然氣處理設施重建工程正在迅速推進，重建承包商已經開工，預計將比計劃日程提前完工，完全恢復戰前產能。此前有訊息稱，自美以對伊朗發起軍事行動以來，伊朗天然氣日產量減少約2.3億立方米。（央視新聞）
-
----
-
-### 2026-08-12 06:30:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Drops by 3.47% — Top commodity losers are Germany Natural Gas THE (-3.47%), Natural Gas UK (-1.59%) and Natural gas (-1.54%). Gains are led by Heating Oil (1.97%), Brent Crude Oil (1.77%) and Crude Oil WTI (1.62%).
-
----
-
-### 2026-08-12 06:29:44  #國際
-
-【美國得州資料中心暫停後，電力需求預測被下調】在美國得克薩斯州對新資料中心專案下達暫停令後，該州的電力需求增速預計將大幅放緩。根據週二釋出的政府資料，得州電力需求明年將增長5.6%。這一增速低於7月報告預測的14%年負荷增速，而後者本將是十年來最大的增幅。此次修正源於得州8月3日決定對所有申請接入州電網的資料中心專案展開審計，此舉實際上暫停了這一蓬勃發展的行業。
-
----
-
-### 2026-08-12 06:24:51  #央行 #市場
-
-【央行逆回購再現“零操作”，分析稱債市調整多出於止盈需求】央行逆回購再現“零操作”。8月11日，央行未開展7天期逆回購操作，當日有465億元逆回購到期，公開市場實現淨回籠465億元。8月11日，資金面總體平穩，債市則在前期連續走強後震盪回撥。受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。債市調整更多來自收益率快速下行後的止盈需求。隨著稅期臨近、政府債券發行提速，加之超長債交易趨於擁擠，債券市場短期內仍將有所波動。（上證報）
-
----
-
-### 2026-08-12 06:21:48  #公司
-
-【險資二季度持倉淨增1.83億股，近期積極調研AI算力、醫藥與硬科技】二季度，保險資金整體呈現淨增持態勢，持倉數量淨增加約1.83億股。下半年以來，保險機構與理財公司都在積極調研上市公司，高度關注AI算力、光通訊、醫藥、硬科技等板塊。受訪人士認為，出於提升長期投資回報考慮，兩類資金下半年有望繼續加大權益資產配置力度。（上證報）
-
----
-
-### 2026-08-12 06:20:37  #公司
-
-【央企“瘦身健體”改革攻堅提速，上市公司產權最佳化與總部架構重塑同步推進】央企控股上市公司股份無償劃轉近期再添新案例。8月初，華電新能控股股東華電福瑞與母公司中國華電集團簽署協議，將所持29%股份無償劃轉至集團總部，華電新能產權層級由三級提升至二級。據統計，2026年已披露及正在推進的央企控股上市公司股權無償劃轉案例已超過10起。 上市公司的股權最佳化是中央企業“瘦身健體”、壓縮管理層級改革的重要一環。2026年以來，中建集團、中國石化、中國能建等多家央企相繼啟動較大規模的總部機構改革，透過壓縮層級、整合部門、新設戰略性新興產業機構等方式，推動總部向價值化、扁平化方向改革。（上證報）
-
----
-
-### 2026-08-12 06:19:22  #公司 #市場
-
-【深度參與明星IPO專案，券商“投資+投行”模式加速兌現紅利】近日，宇樹科技同步開啟網上、網下申購。此次發行價格為150.80元/股，預計募集資金總額約60.99億元。天眼查App顯示，有十餘家券商透過另類投資子公司、私募股權基金、產業基金等不同方式現身宇樹科技的股權架構中。從宇樹科技到此前登陸科創板的長鑫科技，券商用真金白銀“下場”投資，越來越早地介入硬科技企業成長過程。業內人士認為，這種“投資+投行”的業務協同正成為券商服務科技企業的重要路徑，也成為拉動券商盈利的動能。（上證報）
-
----
-
-### 2026-08-12 06:15:06  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Drops by 1.06% — Top currency loser is Brazilian Real (-1.06%). Gains are led by Mexican Peso (0.37%) and South Korean Won (0.37%). Meanwhile, British Pound and Japanese Yen were little changed.
-
----
-
-### 2026-08-12 06:02:27  #央行 #國際
-
-【美聯儲9月加息25個基點的機率為48%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為52%，累計加息25個基點的機率為48%。美聯儲到10月維持利率不變的機率為38.7%，累計加息25個基點的機率為49%，累計加息50個基點的機率為12.2%。
-
----
-
-### 2026-08-12 06:00:35  #市場 #焦點
-
-現貨白銀突破65美元/盎司，日內漲0.09%。
-
----
-
-### 2026-08-12 06:00:03  #市場 #焦點
-
-紐約期金突破4430美元/盎司，日內跌0.22%。
-
----
-
-### 2026-08-12 06:00:03  #市場 #焦點
-
-紐約期銀突破65美元/盎司，日內跌0.04%。
-
----
-
-### 2026-08-12 05:57:45  #其他
-
-加拿大航空預期：2028 年營業收入約 300 億加元。設定 2030 年目標：營業收入超 300 億加元；調整後息稅折舊攤銷前利潤率 18%-20%。
-
----
-
-### 2026-08-12 05:52:11  #其他
-
-【哥倫比亞強震死亡人數升至188人】哥倫比亞全國首府協會11日釋出最新統計顯示，10日在該國西部發生的7.4級強震已造成188人死亡、1677人受傷。（新華社）
-
----
-
-### 2026-08-12 05:51:36  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
-
-AWS: OpenAI's Daybreak Red and Daybreak Blue are now available to eligible customers on Amazon Bedrock.
-
----
-
-### 2026-08-12 05:50:44  #公司
-
-亞馬遜：OpenAI Daybreak 模型現已在亞馬遜 Bedrock 向符合條件的客戶開放。
-
----
-
-### 2026-08-12 05:49:56  #公司
-
-OpenAI向亞馬遜Redrock開放Daybreak許可權。
-
----
-
-### 2026-08-12 05:48:30  #其他
-
-【葉門胡塞武裝表示願與沙特對話 】葉門胡塞武裝11日表示，願與沙烏地阿拉伯保持對話，但同時稱，除非有關要求得到滿足，否則將繼續對沙特相關船隻以及沙特支援的軍事目標發動襲擊。胡塞武裝首席談判代表兼發言人穆罕默德·阿卜杜勒薩拉姆當天在社交媒體平臺發表宣告說，胡塞武裝談判代表團正就當前局勢與地區及國際各方保持聯絡並舉行會談，“我們沒有關閉對話和談判大門”。但宣告同時指責沙特拒絕談判並準備在葉門採取進一步軍事行動。（新華社）
-
----
-
-### 2026-08-12 05:48:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Yemeni Houthi militia says willing to dialogue with Saudi Arabia】On the 11th the Houthi militia said it is willing to hold dialogue with Saudi Arabia but warned it will continue attacks on Saudi-linked vessels and Saudi-backed military targets unless its demands are met.
-
----
-
-### 2026-08-12 05:46:58  #其他
-
-穆迪評級：南亞仍易受能源價格衝擊，但抗風險能力較以往有所增強。
-
----
-
-### 2026-08-12 05:46:40  #其他
-
-巴西證券交易所第二季度淨利潤為17億雷亞爾，高於市場預期的16.1億雷亞爾。
-
----
-
-### 2026-08-12 05:46:36  #公司
-
-黑石集團、魁北克儲蓄投資集團向加拿大航空 Aeroplan 投資 25 億加元。
-
----
-
-### 2026-08-12 05:43:43  #MKT News #CRWV.O
-
-CoreWeave (CRWV.O) CFO expects Q3 revenue of $3.45–3.6 bln and capex of $11.5–13.5 bln.
-
----
-
-### 2026-08-12 05:42:41  #MKT News #CRWV.O #Impact bullish
-
-CoreWeave (CRWV.O) CFO expects active compute capacity to exceed 1.85 GW by year-end, above prior guidance of >1.7 GW.
-
----
-
-### 2026-08-12 05:40:05  #MKT News #CRWV.O #Impact bullish
-
-CoreWeave (CRWV.O) CFO said the company raised its full-year 2026 revenue forecast to $12.4-$13.2 billion.
-
----
-
-### 2026-08-12 05:39:20  #MKT News #CRWV.O #Impact mixed
-
-CoreWeave (CRWV.O) CFO says the company currently expects 2026 capital expenditures of $35–39 billion.
-
----
-
-### 2026-08-12 05:38:09  #MKT News
-
-The Information reports prediction-market platform Kalshi's annualized revenue has topped $4.0 billion and the company is seeking a $40 billion valuation.
-
----
-
-### 2026-08-12 05:37:23  #其他
-
-CoreWeave 首席財務官：上調 2026 全年營收指引至 124 億‑132 億美元。目前預計 2026 年資本支出介於 350 億‑390 億美元區間。
-
----
-
-### 2026-08-12 05:36:35  #其他
-
-CoreWeave 首席財務官：預計第三季度營收介於 34.5 億至 36 億美元區間。
-
----
-
-### 2026-08-12 05:36:11  #其他
-
-CoreWeave 首席財務官： 預計年末在用電力規模將超過 1.85 吉瓦，高於此前給出的超 1.7 吉瓦指引。
-
----
-
-### 2026-08-12 05:32:18  #其他
-
-CoreWeave 首席財務官： 現有待交付訂單中，超 50% 對應的合同已啟動向客戶交付。
-
----
-
-### 2026-08-12 05:31:33  #其他
-
-澳大利亞聯邦銀行全財年淨利潤108.7億澳元，預估107.5億澳元。
-
----
-
-### 2026-08-12 05:31:02  #MKT News
-
-【U.S. judge blocks USPS from enforcing Trump order to curb mailed ballots】On the 11th, a U.S. federal judge ordered the U.S. Postal Service barred from enforcing President Trump’s executive order that would restrict mailed ballots. Trump issued the order on March 31 directing the Department of Homeland Security and the Social Security Administration to compile state-by-state lists of citizens eligible to vote and prohibiting the USPS from processing ballots from voters not on those lists. Twenty-three Democratic-led states and Washington, D.C., sued, arguing the order is unconstitutional. A Boston federal judge enjoined the order on June 25; the U.S. Court of Appeals for the First Circuit upheld that injunction on July 25. The administration subsequently filed an emergency appeal to the U.S. Supreme Court.
 
 ---
