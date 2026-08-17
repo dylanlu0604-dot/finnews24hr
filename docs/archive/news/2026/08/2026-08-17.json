@@ -1,7 +1,61 @@
 {
   "date": "2026-08-17",
-  "count": 2496,
+  "count": 2502,
   "items": [
+    {
+      "id": "5044577",
+      "time": "2026-08-17 23:17:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沃爾德：終止2026年度簡易程式定增】沃爾德公告稱，公司董事會審議透過《關於終止2026年度以簡易程式向特定物件發行股票的議案》，決定終止該次發行。"
+    },
+    {
+      "id": "mkt:01a0104b-497a-7aab-9065-529b5b6bd4d8",
+      "time": "2026-08-17 23:16:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesman BAGHAEI said that after two wars imposed on Iran by the US and Israel—particularly the most recent—the key regional shift is that states have concluded the US is an unreliable and untrustworthy partner."
+    },
+    {
+      "id": "mkt:01a0104a-b4e7-7aab-9065-4fbf454b17e2",
+      "time": "2026-08-17 23:15:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to the Iranian Students' News Agency, Iraqi Prime Minister Al-Zaidi said Iraq would be among the countries most affected if the Strait of Hormuz were closed, and that Iraq cannot rely on a single oil export route or remain dependent on a single corridor."
+    },
+    {
+      "id": "5044575",
+      "time": "2026-08-17 23:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：繼美國與以色列對伊朗發動兩場強加戰爭之後，尤其是在最近這場衝突過後，本地區發生的最重大變化是，地區各國得出結論，美國是一個不可靠、不值得信賴的合作伙伴。"
+    },
+    {
+      "id": "5044574",
+      "time": "2026-08-17 23:14:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理扎伊迪：伊拉克石油出口不能依賴單一通道，不能受制於某一條運輸走廊。"
+    },
+    {
+      "id": "5044573",
+      "time": "2026-08-17 23:13:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【BTIG警告美股將迎來季節性回撥】美國頭部獨立券商BTIG警示，美國股市正進入中期選舉年份歷史表現最弱的階段，當前估值處於高位，波動率接近2026年低點。自1990年以來，等權重標普500指數在中期選舉年份的8‑10月通常會出現至少7%的回撥。BTIG建議投資者降低風險敞口或對股票頭寸進行對沖。從歷史表現看醫療板塊抗跌性最強，半導體板塊技術面已經走弱。"
+    },
     {
       "id": "te:markets:575901",
       "time": "2026-08-17 23:13:04",
