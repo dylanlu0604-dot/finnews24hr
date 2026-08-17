@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-18 00:04:26",
-  "count": 15243,
+  "updated": "2026-08-18 00:08:19",
+  "count": 15248,
   "items": [
+    {
+      "id": "te:markets:575909",
+      "time": "2026-08-18 00:07:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.21% Lower — The FTSE 100 Index decreased 22 points or 0.21 percent on Monday to close at 10728 points. The decline was led by Howden Joinery (-3.63%), Diageo (-3.33%) and J Sainsbury (-3.11%). On the upside, the strongest performers were Endeavour (2.63%), Anglo American (2.03%) and GlaxoSmithKline (2.02%)."
+    },
+    {
+      "id": "5044630",
+      "time": "2026-08-18 00:07:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場資訊：英國首相安迪·伯納姆曾與冒充白宮幕僚長蘇西·懷爾斯的人員互發訊息，但雙方並未傳遞重要資訊。"
+    },
+    {
+      "id": "te:economy:575908",
+      "time": "2026-08-18 00:05:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ecuador Inflation Eases in July — Ecuador’s annual inflation rate eased to 1.39% in July 2026 from 1.65% in June. The strongest price pressures were recorded in goods, with prices rising 1.44%. Non-food prices drove inflation, increasing 2.01%, while services costs rose 1.33%. Meanwhile, food prices fell 0.7%. On a monthly basis, consumer prices declined 0.09% after rising 0.8% in June. Year-to-date inflation reached 1.30%."
+    },
+    {
+      "id": "5044629",
+      "time": "2026-08-18 00:05:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通公佈7月壞賬沖銷率為1.7%，7月逾期率為1.1%。"
+    },
+    {
+      "id": "5044628",
+      "time": "2026-08-18 00:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通：截至7月底，美國小企業信用卡會員貸款中逾期30天貸款佔貸款總額的比例為1.3%。"
+    },
+    {
+      "id": "5044627",
+      "time": "2026-08-18 00:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列炮擊位於汗尤尼斯市東部的佔領軍控制區。"
+    },
+    {
+      "id": "5044626",
+      "time": "2026-08-18 00:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stripe推出即時貨幣兌換功能。"
+    },
+    {
+      "id": "mkt:01a01076-daa8-7aab-9066-4d3cc1861593",
+      "time": "2026-08-18 00:03:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Lighthouse Pro real-time data, as of 00:00 on Aug 18 the film Welcome to Long Restaurant has surpassed 1 billion yuan in cumulative box office."
+    },
     {
       "id": "5044625",
       "time": "2026-08-18 00:02:14",
@@ -139630,35 +139703,6 @@
         "Impact bullish"
       ],
       "text": "Netflix (NFLX.O): U.S. ad commitments for 2026 nearly doubled."
-    },
-    {
-      "id": "te:markets:574179",
-      "time": "2026-08-11 00:07:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.32% Lower — The FTSE 100 Index decreased 35 points or 0.32 percent on Monday to close at 10867 points. The decline was led by Imperial Brands (-5.28%), Coca-Cola (-4.40%) and British American Tobacco (-4.05%). On the upside, the strongest performers were Fresnillo (3.25%), Metlen Energy & Metals (2.52%) and Glencore (2.21%)."
-    },
-    {
-      "id": "5034433",
-      "time": "2026-08-11 00:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "奈飛：2026 年美國廣告預售簽約額近乎翻倍。"
-    },
-    {
-      "id": "5034432",
-      "time": "2026-08-11 00:04:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，中進醫療漲63.38%，中比能源漲15.77%，陸金所控股漲13.00%，搜狐漲6.60%，海天網路漲5.49%。"
     }
   ]
 }
