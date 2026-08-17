@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-17 12:43:19",
-  "count": 15198,
+  "updated": "2026-08-17 12:47:09",
+  "count": 15200,
   "items": [
+    {
+      "id": "5043480",
+      "time": "2026-08-17 12:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴正式出售靈犀互娛，買方為信宸資本】今日，靈犀互娛CEO周炳樞釋出內部全員信，宣佈阿里巴巴集團與信宸資本已正式達成交易協議。根據協議安排，阿里巴巴將出讓所持有的靈犀互娛股份，信宸資本將成為靈犀互娛的新任股東。有訊息稱，中信資本旗下信宸資本以超15億美元（摺合人民幣超101 億元）收購阿里巴巴靈犀互娛。之前的“候選者”包括三七互娛、巨人網路、中國儒意等多家上市遊戲企業全程參與競購卻全部出局。（新浪科技）"
+    },
+    {
+      "id": "5043479",
+      "time": "2026-08-17 12:44:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其前七個月汽車單車產量同比下降8.1%】根據土耳其汽車製造商協會（簡稱OSD）的資料，1月至7月期間，汽車產量（按單位計）下降了8.1%，至767,216輛。前七個月汽車產量下降18.6%，至424,667輛。前七個月出口量下降12.3%，至462,552輛上半年出口額按美元計算增長1.8%，達到239億美元。7月份機動車產量下降19.2%至103,817輛，轎車產量下降31.8%至56,187輛。7月份出口額按美元計算下降6.8%，至35億美元。"
+    },
+    {
+      "id": "mkt:01a00e09-36e0-7aab-9056-a85f70adbd27",
+      "time": "2026-08-17 12:44:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran warns against joking about Strait of Hormuz】On Aug. 16 Iran’s armed forces chief Hatami warned that U.S. President Trump’s recent claim that Washington would declare the Strait of Hormuz U.S. territory after “defeating Iran” would be “a huge mistake,” even if uttered as a joke. Hatami added: “This is Iran — the defenders will break the invaders’ legs.”"
+    },
+    {
+      "id": "5043478",
+      "time": "2026-08-17 12:44:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月17日午間漲停分析】科創50指數半日漲超3%，晶片、農業股集體走強。澳洋健康、天洋新材4連板，一圖看懂>>"
+    },
+    {
+      "id": "te:markets:575690",
+      "time": "2026-08-17 12:43:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Starts Week Lower on Rising Oil Prices — India’s BSE Sensex fell about 0.5% to 77,643 on Monday, following losses in the previous session amid persistent concerns over elevated crude oil prices and ongoing tensions in the Middle East. Brent crude hovered around $89 a barrel on Monday after rising 4.6% last week, as uncertainty over efforts to end the Iran war raised concerns about global oil supplies. Among individual stocks, Reliance Industries was in focus after announcing plans to work with Britain’s Rolls-Royce to develop and produce an engine for India’s fighter aircraft program, although shares opened 0.4% lower. Voltas fell 2.6% despite reporting a jump in first-quarter earnings, supported by robust air conditioner demand. Meanwhile, PhysicsWallah drew attention after posting a narrower first-quarter consolidated loss of 775.7 million rupees, versus 1.2 billion rupees a year earlier, as revenue climbed 24.4%, with shares rising 6.8%. Other notable laggards were BSE Ltd (-4.2%), Embassy (-2.9%), and Cupid (-2.2%)."
+    },
     {
       "id": "5043477",
       "time": "2026-08-17 12:41:46",
@@ -139030,33 +139078,6 @@
         "國際"
       ],
       "text": "馬來西亞棕櫚油局(MPOB)：馬來西亞7月末棕櫚油庫存為263萬噸，較6月上漲3.32%。"
-    },
-    {
-      "id": "5033242",
-      "time": "2026-08-10 12:46:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞棕櫚油局(MPOB)：馬來西亞7月毛棕櫚油產量為179萬噸，較6月增長9.41% 。"
-    },
-    {
-      "id": "5033241",
-      "time": "2026-08-10 12:45:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿聯酋Adnoc Gas將投資逾80億美元推進擴張】阿聯酋的Adnoc Gas表示，將投資逾80億美元提升產能。就在幾個月前，阿聯酋剛剛退出石油輸出國組織，此舉讓阿聯酋的阿布扎比酋長國擺脫了歐佩克的產量配額限制。Adnoc Gas由國營的阿布扎比國家石油公司控股，目前已是全球最大的天然氣生產商之一。眼下，該公司正押注一項大規模增長計劃，以滿足人口激增和高耗能資料中心帶來的不斷攀升的天然氣需求。阿聯酋正開足馬力提高石油產量，意在進一步鞏固其能源超級大國地位。Adnoc Gas則負責為國內和國際市場加工天然氣和液化天然氣(LNG)。根據週一公佈的計劃，Adnoc Gas將在該國最大的天然氣加工設施哈布尚(Habshan)新建一個國內天然氣加工裝置。此外，該公司還將在魯韋斯(Ruwais)新建一個天然氣出口設施。上述舉措是富天然氣開發(Rich Gas Development)專案的一部分。Adnoc Gas希望藉此獲取高利潤率的天然氣，將其轉化為優質產品，從而拉動利潤增長。"
-    },
-    {
-      "id": "5033240",
-      "time": "2026-08-10 12:43:44",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【銅價守住14000美元關口，美國利率前景提振金屬板塊】在連續六週上漲後，銅價陷入窄幅震盪，供給收緊以及市場對美國加息的擔憂降溫為行情提供支撐。上週銅價突破每噸14000美元，觸及1月末大幅衝高以來的盤中最高位。市場預判白宮將出臺進口關稅，大量銅金屬流入美國，造成其他地區供應縮減，推高倫敦金屬交易所銅價。市場對美聯儲今年加息的預期不斷消退，同樣利好銅價。上週五美國就業資料不及預期，通脹憂慮得到緩解，風險資產由此迎來做多情緒。利率走高會壓制全球經濟，進而對金屬價格形成衝擊。中信期貨在研報中表示：“短期銅價預計維持高位且波動劇烈。”銅價報每噸14080美元，基本持平；鋁價上漲0.5%，鋅價下跌0.3%。新加坡鐵礦石期貨下跌0.2%，報每噸94.55美元。"
     }
   ]
 }
