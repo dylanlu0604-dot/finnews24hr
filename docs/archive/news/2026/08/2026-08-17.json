@@ -1,7 +1,415 @@
 {
   "date": "2026-08-17",
-  "count": 1094,
+  "count": 1134,
   "items": [
+    {
+      "id": "mkt:01a00e89-719a-7aab-9059-344bdd4388ef",
+      "time": "2026-08-17 15:04:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jordan's King Abdullah II to make state visit to China Aug 18–24】At CHINA's invitation, Jordan's King Abdullah II will make a state visit to China from Aug 18–24, China's Foreign Ministry said."
+    },
+    {
+      "id": "mkt:01a00e89-3560-7aab-9059-2880747cfcf8",
+      "time": "2026-08-17 15:04:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China's industrial robot output rose 28.5% YoY in Jan–Jul, Xinhua reported."
+    },
+    {
+      "id": "mkt:01a00e89-09b3-7aab-9059-215205f89f6a",
+      "time": "2026-08-17 15:04:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai, Shenzhen combined turnover RMB 2.387 trillion; Zhongji Xuchuang leads by turnover】On Aug. 17, Shanghai and Shenzhen markets posted combined turnover of 2.387 trillion yuan, up 244.6 billion yuan from the prior trading day. Shanghai turnover was 1.113 trillion yuan (prev. 990.37 billion), trading volume 490 million lots; Shenzhen turnover was 1.275 trillion yuan (prev. 1,152.47 billion), trading volume 642 million lots. Turnover leader was Zhongji Xuchuang at 35.27 billion yuan, followed by Changxin Technology 33.52 billion, Xinyisheng 26.57 billion, GigaDevice 25.71 billion and Hengtong Optic‑Electric 19.24 billion."
+    },
+    {
+      "id": "5043666",
+      "time": "2026-08-17 15:04:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲半導體企業阿斯麥（ASML）、ASM International、貝施（BESI）、索特克（SOITEC）、意法半導體（STMicroelectronics）股價上漲2.6%至3.6%不等。"
+    },
+    {
+      "id": "5043665",
+      "time": "2026-08-17 15:04:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度東北部發生踩踏事件 已致十餘人死傷】據印度方面17日訊息，印度東北部比哈爾邦勒基瑟賴地區一座印度教寺廟當天早晨發生踩踏事件，造成至少7人死亡、10餘人受傷。（央視新聞）"
+    },
+    {
+      "id": "5043662",
+      "time": "2026-08-17 15:03:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【中國人民銀行新增8家數字人民幣業務運營機構】中國人民銀行新增平安銀行、恆豐銀行、渤海銀行、上海銀行、杭州銀行、徽商銀行、長沙銀行、廣西北部灣銀行成為銀行類數字人民幣業務運營機構，並接入央行端數字人民幣系統。新增機構將在完成業務、技術準備後開展數字人民幣業務。目前，數字人民幣業務運營機構已擴容至30家。下一步，中國人民銀行將按照市場化、法治化原則有序推進運營機構擴容，進一步激發市場主體的積極性和創造性，建設開放包容、公平競爭的數字人民幣發展環境。"
+    },
+    {
+      "id": "mkt:01a00e87-d5ae-7aab-9059-1a6e1b9c7e58",
+      "time": "2026-08-17 15:02:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NBS: Employment broadly stable; urban surveyed unemployment rises seasonally】The National Bureau of Statistics said employment is broadly stable. The average urban surveyed unemployment rate for Jan–Jul was 5.2%, unchanged from Jan–Jun and year-earlier. In July the urban surveyed unemployment rate was 5.2%, up 0.2 percentage point MoM, a seasonal increase. Surveyed unemployment for local hukou and migrant workers both 5.2%; surveyed unemployment for migrant agricultural-hukou workers 4.9%. The urban surveyed unemployment rate across 31 major cities was 5.2%, up 0.2 ppt MoM. National average weekly working hours for enterprise employees were 48.2 hours."
+    },
+    {
+      "id": "mkt:01a00e87-a893-7aab-9059-1611b41a87ef",
+      "time": "2026-08-17 15:02:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the close on Monday, Aug 17, China's Shanghai Composite Index rose 55.48 points, or 1.41%, to 3,982.65; China's Shenzhen Composite Index rose 349.97 points, or 2.44%, to 14,704.27; the CSI 300 Index rose 75.22 points, or 1.61%, to 4,741.10; the ChiNext Index rose 113.86 points, or 3.14%, to 3,740.16; China's STAR 50 Index rose 71.17 points, or 4.14%, to 1,788.85."
+    },
+    {
+      "id": "mkt:01a00e87-8be5-7aab-9059-0d11488415d5",
+      "time": "2026-08-17 15:02:39",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities opened mixed on Aug 17 (Mon): Germany's DAX up 0.20% (+53.64 pts) at 26,486.50; FTSE 100 up 0.29% (+31.59) at 10,781.70; France's CAC 40 down 0.05% (-4.25) at 8,632.55; Euro Stoxx 50 up 0.27% (+17.36) at 6,556.95; Spain's IBEX 35 down 0.11% (-21.60) at 20,135.00; Italy's FTSE MIB up 0.28% (+150.39) at 53,734.00."
+    },
+    {
+      "id": "mkt:01a00e87-8a97-7aab-9059-02f57ac4cc20",
+      "time": "2026-08-17 15:02:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China urban fixed-asset investment fell 1.42% MoM in July, versus a 0.37% decline in June."
+    },
+    {
+      "id": "5043659",
+      "time": "2026-08-17 15:02:37",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：市場價格溫和上漲，7月份漲幅有所回落】1—7月份，全國居民消費價格（CPI）同比上漲0.9%。分類別看，食品菸酒及在外餐飲價格同比下降0.2%，衣著價格上漲1.6%，居住價格下降0.2%，生活用品及服務價格上漲1.7%，交通通訊價格上漲1.6%，教育文化娛樂價格上漲1.2%，醫療保健價格上漲2.1%，其他用品及服務價格上漲10.8%。在食品菸酒及在外餐飲價格中，豬肉價格下降13.4%，糧食價格下降0.3%，鮮果價格上漲1.1%，鮮菜價格上漲3.5%。7月份，全國居民消費價格同比上漲0.5%，環比下降0.1%。1—7月份，扣除食品和能源價格後的核心CPI同比上漲1.1%。其中，7月份核心CPI同比上漲0.9%。 1—7月份，全國工業生產者出廠價格同比上漲1.8%。其中，7月份同比上漲3.5%，環比下降0.7%。1—7月份，全國工業生產者購進價格同比上漲2.8%。其中，7月份同比上漲5.5%，環比下降1.0%。"
+    },
+    {
+      "id": "mkt:01a00e87-5837-7aab-9058-f9a58fa1bcc2",
+      "time": "2026-08-17 15:02:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment (MoM) (Jul) | actual -1.42% | previous -0.37%"
+    },
+    {
+      "id": "5043658",
+      "time": "2026-08-17 15:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：就業形勢總體穩定，城鎮調查失業率季節性上升】1—7月份，全國城鎮調查失業率平均值為5.2%，與1—6月份和上年同期持平。7月份，全國城鎮調查失業率為5.2%，比上月上升0.2個百分點。本地戶籍勞動力調查失業率為5.2%；外來戶籍勞動力調查失業率為5.2%，其中外來農業戶籍勞動力調查失業率為4.9%。31個大城市城鎮調查失業率為5.2%，比上月上升0.2個百分點。全國企業就業人員周平均工作時間為48.2小時。"
+    },
+    {
+      "id": "5043657",
+      "time": "2026-08-17 15:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：貨物進出口較快增長，貿易結構繼續最佳化】1—7月份，貨物進出口總額301264億元，同比增長17.3%。其中，出口174400億元，增長14.0%；進口126864億元，增長22.0%。1—7月份，一般貿易進出口同比增長10.2%。對共建“一帶一路”國家進出口增長15.5%。民營企業進出口增長17.2%，佔進出口總額的比重為56.9%。機電產品出口增長21.2%，佔出口總額的比重為63.8%。7月份，貨物進出口總額46580億元，同比增長19.2%。其中，出口27125億元，增長17.8%；進口19454億元，增長21.2%。"
+    },
+    {
+      "id": "mkt:01a00e87-2b8c-7aab-9058-f176662faad8",
+      "time": "2026-08-17 15:02:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact mixed",
+        "CNH"
+      ],
+      "text": "China's National Bureau of Statistics said electricity generation by industrial enterprises above designated size was 943.9 billion kWh in July, down 0.1% YoY, with a daily average of 30.45 billion kWh. Jan–Jul cumulative generation was 5,698.5 billion kWh, up 3.0% YoY."
+    },
+    {
+      "id": "5043656",
+      "time": "2026-08-17 15:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4354.5億元，較上一交易日此時縮量206.51億元】截至目前，ETF兩市成交額報4354.5億元，較上一交易日此時縮量206.51億元，分型別來看，股票型ETF成交額1535.05億元，債券型ETF成交額1862.94億元，貨幣型ETF成交額250.62億元，商品型ETF成交額84.3億元，QDII型ETF成交額621.59億元。"
+    },
+    {
+      "id": "5043655",
+      "time": "2026-08-17 15:02:07",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家統計局：固定資產投資下降，智慧財產權產品投資快速增長】1—7月份，全國固定資產投資（不含農戶）260328億元，同比下降6.7%；扣除房地產開發的固定資產投資下降3.7%。其中，智慧財產權產品投資同比增長9.1%。分領域看，基礎設施投資同比下降3.6%，製造業投資下降1.7%，房地產開發投資下降19.2%。全國新建商品房銷售面積45021萬平方米，同比下降11.8%；新建商品房銷售額42718億元，下降13.1%。分產業看，第一產業投資同比下降0.5%，第二產業投資下降2.1%，第三產業投資下降9.5%。民間投資同比下降9.4%；扣除房地產開發的民間投資下降5.7%。高技術產業投資同比增長5.0%，其中資訊服務業，航空、航天器及裝置製造業，電子及通訊裝置製造業投資分別增長19.2%、12.3%、7.1%。7月份，固定資產投資（不含農戶）環比下降1.42%。"
+    },
+    {
+      "id": "5043654",
+      "time": "2026-08-17 15:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：市場銷售規模擴大，服務零售增長較快】1—7月份，社會消費商品和服務零售總額同比增長2.6%，其中服務零售額增長5.0%，商品零售額增長1.1%。在服務零售額中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類零售額較快增長。1—7月份，社會消費品零售總額287744億元，同比增長1.2%。按經營單位所在地分，城鎮消費品零售額249285億元，同比增長1.1%；鄉村消費品零售額38459億元，增長2.4%。按消費型別分，商品零售額254922億元，同比增長1.1%；餐飲收入32822億元，增長2.6%。基本生活類和部分升級類商品銷售較快增長，限額以上單位糧油食品類、通訊器材類、化妝品類商品零售額同比分別增長7.2%、15.1%、6.3%。7月份，社會消費品零售總額39022億元，同比增長0.6%，環比增長0.06%。1—7月份，全國網上商品和服務零售額117214億元，同比增長4.8%。其中，網上商品零售額73965億元，增長4.6%；網上服務零售額43249億元，增長5.2%。"
+    },
+    {
+      "id": "mkt:01a00e86-cf3d-7aab-9058-ee31a2638f10",
+      "time": "2026-08-17 15:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China's industrial value added for enterprises above designated size rose 4.5% YoY in July (real terms), the National Bureau of Statistics said."
+    },
+    {
+      "id": "5043653",
+      "time": "2026-08-17 15:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：服務業平穩增長，現代服務業發展向好】1—7月份，全國服務業生產指數同比增長4.7%。分行業看，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，金融業，交通運輸、倉儲和郵政業生產指數同比分別增長10.6%、9.5%、6.3%、5.1%。7月份，全國服務業生產指數同比增長4.3%。7月份，服務業商務活動指數為49.3%，服務業業務活動預期指數為56.0%。其中，郵政、電信廣播電視及衛星傳輸服務、文化體育娛樂等行業商務活動指數位於55.0%以上較高景氣區間。1—6月份，規模以上服務業企業營業收入同比增長5.9%。"
+    },
+    {
+      "id": "5043652",
+      "time": "2026-08-17 15:01:37",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【國家統計局： 工業生產較快增長，裝備製造業和高技術製造業增勢良好】1—7月份，全國規模以上工業增加值同比增長5.3%。分三大門類看，採礦業增加值同比增長2.5%，製造業增長5.6%，電力、熱力、燃氣及水生產和供應業增長5.4%。裝備製造業增加值同比增長9.7%，高技術製造業增加值增長13.8%，分別快於全部規模以上工業增加值4.4和8.5個百分點。分經濟型別看，國有控股企業增加值同比增長3.9%；股份制企業增長5.8%，外商及港澳臺投資企業增長3.1%；私營企業增長4.5%。分產品看，3D列印裝置、鋰離子電池、工業機器人產品產量同比分別增長52.3%、40.2%、28.5%。7月份，全國規模以上工業增加值同比增長4.5%，環比增長0.11%。7月份，製造業採購經理指數為49.2%，企業生產經營活動預期指數為54.1%。1—6月份，全國規模以上工業企業實現利潤總額39480億元，同比增長18.7%。"
+    },
+    {
+      "id": "5043651",
+      "time": "2026-08-17 15:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：科創成長ETF領漲6.52%，酒ETF領跌2.49%】ETF收盤漲跌不一，科創成長ETF（589700）領漲6.52%，科創成長ETF（588110）漲6.43%，科創成長ETF（588070）漲6.33%，酒ETF（512690）領跌2.49%，遊戲ETF（516010）跌2.02%，遊戲ETF（159869）跌2.01%。"
+    },
+    {
+      "id": "mkt:01a00e86-98fb-7aab-9058-e334a8f0ad2c",
+      "time": "2026-08-17 15:01:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures midday close】At midday, China’s index futures most-active contracts were higher: CSI 300 (IF) +1.65%, SSE 50 (IH) +1.00%, CSI 500 (IC) +2.65%, CSI 1000 (IM) +2.74%."
+    },
+    {
+      "id": "mkt:01a00e86-821e-7aab-9058-d9731d895c6e",
+      "time": "2026-08-17 15:01:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "CSI300"
+      ],
+      "text": "China NBS: Jan–Jul real-estate development investment RMB 4.3009 trillion, down 19.2% YoY."
+    },
+    {
+      "id": "5043650",
+      "time": "2026-08-17 15:01:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：創業板指午後拉昇漲超3%，算力硬體股表現強勢】A股三大指數今日集體上漲，截至收盤，上證指數漲1.41%，深證成指漲2.44%，創業板指漲3.14%，北證50漲1.91%，科創50指數漲4.14%。全市場成交額24025億元，較上日放量2459億元，全市場超4300只個股上漲。板塊題材上，電子化學品、培育鑽石、半導體、糧食概念、CPO板塊漲幅居前；白酒、影視院線、遊戲、醫藥商業、煤炭開採加工板塊跌幅居前。盤面上，電子化學品板塊持續走強，中石科技、宏昌電子、天通股份漲停，奧來德、德邦科技、天通股份、上海新陽漲幅居前。半導體板塊表現強勢，通富微電、有研新材漲停，中微半導、芯朋微、中科飛測、普冉股份漲幅居前。CPO板塊午後漲幅擴大，太辰光、中瓷電子、沃格光電等多股漲停，仕佳光子、長芯博創、鼎通科技漲幅居前。影視院線板塊全天低迷，北京文化跌停，儒意電影、中國電影、上海電影跟跌。白酒板塊表現疲軟，貴州茅臺、迎駕貢酒、古井貢酒領跌板塊。"
+    },
+    {
+      "id": "mkt:01a00e86-3bd8-7aab-9058-d3ea4afef706",
+      "time": "2026-08-17 15:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China's National Bureau of Statistics: In July 2026, across 70 large and medium-sized cities, residential property sales prices in first-tier cities rose MoM overall, while prices in second- and third-tier cities fell MoM; YoY declines across first-, second- and third-tier cities continued to narrow overall."
+    },
+    {
+      "id": "mkt:01a00e86-32e2-7aab-9058-c98184970885",
+      "time": "2026-08-17 15:01:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China July retail sales MoM +0.06%, prior +0.38%."
+    },
+    {
+      "id": "5043649",
+      "time": "2026-08-17 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲1.41%，深證成指漲2.44%，創業板指漲3.14%。"
+    },
+    {
+      "id": "mkt:01a00e86-0cfb-7aab-9058-c7ad6f743f26",
+      "time": "2026-08-17 15:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (MoM) (Jul) | actual 0.06% | previous 0.38%"
+    },
+    {
+      "id": "mkt:01a00e85-f0ea-7aab-9058-ba12ad09dd8a",
+      "time": "2026-08-17 15:00:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "National Bureau of Statistics: Jan-Jul total retail sales of consumer goods were 28.7744 trillion yuan, up 1.2% YoY."
+    },
+    {
+      "id": "mkt:01a00e85-ed52-7aab-9058-b03dc2cdebcf",
+      "time": "2026-08-17 15:00:53",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China's industrial value added for enterprises above designated size rose 0.11% MoM in July, down from 0.76% in June."
+    },
+    {
+      "id": "5043648",
+      "time": "2026-08-17 15:00:53",
+      "tags": [
+        "行業",
+        "市場",
+        "焦點"
+      ],
+      "text": "【國家統計局：7月份一二三線城市商品住宅銷售價格同比降幅總體繼續收窄】國家統計局資料顯示，7月份，一線城市新建商品住宅銷售價格同比下降1.1%，降幅比上月收窄0.2個百分點。其中，北京、廣州和深圳分別下降2.3%、2.2%和2.9%，上海上漲3.0%。二線城市新建商品住宅銷售價格同比下降2.8%，降幅收窄0.3個百分點。三線城市新建商品住宅銷售價格同比下降4.2%，降幅與上月相同。7月份，一線城市二手住宅銷售價格同比下降3.7%，降幅比上月收窄1.2個百分點。其中，北京、上海、廣州和深圳分別下降4.5%、2.0%、4.7%和3.6%。二、三線城市二手住宅銷售價格同比分別下降5.1%和5.8%，降幅分別收窄0.3個和0.2個百分點。"
+    },
+    {
+      "id": "5043647",
+      "time": "2026-08-17 15:00:52",
+      "tags": [
+        "宏觀",
+        "資料",
+        "市場"
+      ],
+      "text": "【1至7月份國民經濟保持總體平穩 向新向優發展態勢】國務院新聞辦公室今天下午召開新聞釋出會，國家統計局相關負責人表示，1—7月份國民經濟保持總體平穩，向新向優發展態勢。其中：1—7月份，全國規模以上工業增加值同比增長5.3%。1—7月份，全國服務業生產指數同比增長4.7%。1—7月份，社會消費商品和服務零售總額同比增長2.6%，其中服務零售額增長5.0%，商品零售額增長1.1%。1—7月份，全國固定資產投資(不含農戶)260328億元，同比下降6.7%；扣除房地產開發的固定資產投資下降3.7%。1—7月份，貨物進出口總額301264億元，同比增長17.3%。1—7月份，全國城鎮調查失業率平均值為5.2%，與1-6月份和上年同期持平。1—7月份，全國居民消費價格（CPI）同比上漲0.9%。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00e85-d6ab-7aab-9058-a981c2656efb",
+      "time": "2026-08-17 15:00:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "At midday close, China's main onshore futures contracts were mostly higher. Europe-bound container freight surged over 10%. Monoethylene glycol (MEG) rose more than 6%, PTA gained over 5%, synthetic rubber and benzene climbed above 4%, while p‑xylene, SC crude oil and styrene (EB) advanced over 3%. Corn and starch fell more than 1%."
+    },
+    {
+      "id": "5043646",
+      "time": "2026-08-17 15:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年1—7月份社會消費品零售總額增長1.2%】1—7月份，社會消費品零售總額287744億元，同比增長1.2%。其中，除汽車以外的消費品零售額265142億元，增長2.7%。7月份，社會消費品零售總額39022億元，同比增長0.6%。其中，除汽車以外的消費品零售額35892億元，增長2.5%。 按經營單位所在地分，1—7月份，城鎮消費品零售額249285億元，同比增長1.1%；鄉村消費品零售額38459億元，增長2.4%。7月份，城鎮消費品零售額33780億元，同比增長0.5%；鄉村消費品零售額5242億元，增長1.6%。 按消費型別分，1—7月份，商品零售額254922億元，同比增長1.1%；餐飲收入32822億元，增長2.6%。7月份，商品零售額34455億元，同比增長0.5%；餐飲收入4567億元，增長1.4%。"
+    },
+    {
+      "id": "te:markets:575734",
+      "time": "2026-08-17 15:00:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Norway",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Norway Hit All-time High — Oslo increased to an all-time high of 2473.00 Index Points. Over the past 4 weeks, Norway Stock Market Index (Oslo Bors All-Share) gained 7.23%, and in the last 12 months, it increased 31.38%."
+    },
+    {
+      "id": "mkt:01a00e85-c420-7aab-9058-a69e02ef12d5",
+      "time": "2026-08-17 15:00:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (MoM) (Jul) | actual 0.11% | previous 0.76%"
+    },
+    {
+      "id": "5043645",
+      "time": "2026-08-17 15:00:40",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【2026年7月份規模以上工業增加值增長4.5%】7月份，規模以上工業增加值同比實際增長4.5%（增加值增速均為扣除價格因素的實際增長率）。從環比看，7月份，規模以上工業增加值比上月增長0.11%。1—7月份，規模以上工業增加值同比增長5.3%。 分三大門類看，7月份，採礦業增加值同比下降4.2%，製造業增長5.5%，電力、熱力、燃氣及水生產和供應業增長5.0%。 分經濟型別看，7月份，國有控股企業增加值同比增長1.6%；股份制企業增長5.0%，外商及港澳臺投資企業增長2.8%；私營企業增長3.7%。 分行業看，7月份，41個大類行業中有25個行業增加值保持同比增長。其中，煤炭開採和洗選業下降10.8%，石油和天然氣開採業增長6.1%，農副食品加工業增長3.8%，酒、飲料和精製茶製造業增長2.6%，紡織業增長2.3%，化學原料和化學制品製造業下降1.2%，非金屬礦物製品業下降3.3%，黑色金屬冶煉和壓延加工業增長0.3%，有色金屬冶煉和壓延加工業下降2.5%，通用裝置製造業增長9.5%，專用裝置製造業增長12.6%，汽車製造業增長8.7%，鐵路、船舶、航空航天和其他運輸裝置製造業增長13.6%，電氣機械和器材製造業增長8.8%，計算機、通訊和其他電子裝置製造業增長19.1%，電力、熱力生產和供應業增長5.3%。 分產品看，7月份，規模以上工業626種產品中有279種產品產量同比增長。其中，鋼材11646萬噸，同比下降4.1%；水泥12671萬噸，下降11.6%；十種有色金屬697萬噸，增長2.5%；乙烯348萬噸，增長0.1%；汽車252.9萬輛，下降0.1%，其中新能源汽車155.0萬輛，增長29.9%；發電量9439億千瓦時，下降0.1%；原油加工量5311萬噸，下降15.8%。 7月份，規模以上工業企業產品銷售率為96.9%，同比下降0.6個百分點；規模以上工業企業實現出口交貨值14133億元，同比名義增長10.4%。"
+    },
+    {
+      "id": "5043644",
+      "time": "2026-08-17 15:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年7月份規模以上工業增加值增長4.5%】7月份，規模以上工業增加值同比實際增長4.5%（增加值增速均為扣除價格因素的實際增長率）。從環比看，7月份，規模以上工業增加值比上月增長0.11%。1—7月份，規模以上工業增加值同比增長5.3%。 分三大門類看，7月份，採礦業增加值同比下降4.2%，製造業增長5.5%，電力、熱力、燃氣及水生產和供應業增長5.0%。 分經濟型別看，7月份，國有控股企業增加值同比增長1.6%；股份制企業增長5.0%，外商及港澳臺投資企業增長2.8%；私營企業增長3.7%。 分行業看，7月份，41個大類行業中有25個行業增加值保持同比增長。其中，煤炭開採和洗選業下降10.8%，石油和天然氣開採業增長6.1%，農副食品加工業增長3.8%，酒、飲料和精製茶製造業增長2.6%，紡織業增長2.3%，化學原料和化學制品製造業下降1.2%，非金屬礦物製品業下降3.3%，黑色金屬冶煉和壓延加工業增長0.3%，有色金屬冶煉和壓延加工業下降2.5%，通用裝置製造業增長9.5%，專用裝置製造業增長12.6%，汽車製造業增長8.7%，鐵路、船舶、航空航天和其他運輸裝置製造業增長13.6%，電氣機械和器材製造業增長8.8%，計算機、通訊和其他電子裝置製造業增長19.1%，電力、熱力生產和供應業增長5.3%。"
+    },
+    {
+      "id": "5043643",
+      "time": "2026-08-17 15:00:26",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【黑龍江省政協民族和宗教委員會副主任高環接受審查調查】中央紀委國家監委網站8月17日通報， 據黑龍江省紀委監委訊息：黑龍江省政協民族和宗教委員會副主任高環涉嫌嚴重違紀違法，目前正接受黑龍江省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "mkt:01a00e85-5b5d-7aab-9058-9c805dce10e4",
       "time": "2026-08-17 15:00:15",
