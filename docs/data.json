@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-17 11:46:48",
-  "count": 15167,
+  "updated": "2026-08-17 11:50:38",
+  "count": 15168,
   "items": [
+    {
+      "id": "5043424",
+      "time": "2026-08-17 11:49:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本10年國債收益率升至30年來最高 市場押注央行最快9月升息】日本國債價格因財政疑慮及市場日益揣測日本央行未來數月或升息而下跌，推動10年期國債收益率升至1996年來最高。10年期國債收益率一度上漲5.5個基點至2.93%。30年期國債收益率上漲5個基點至4.06%，接近5月觸及的紀錄高點。知情人士上週透露，首相高市早苗的政府支援日本央行近期升息，下一次升息可能會在9月或10月。財政疑慮也對市場構成壓力，因政府迄今尚未說明，如何籌措擬將食品消費稅下調兩年所需的資金。隔夜指數互換(OIS)顯示，9月升息的可能性約為80%。週一公佈的資料顯示，日本截至6月的三個月內經濟增長意外放緩，這項結果可能使日本央行在權衡下一次加息時機時面臨更復雜的政策溝通挑戰。"
+    },
+    {
+      "id": "5043423",
+      "time": "2026-08-17 11:48:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【覓蜂科技再獲數億元融資，中國電信領投】近日，一站式物理AI資料服務平臺覓蜂科技宣佈獲新一輪數億元融資。本輪融資由中國電信領投，張江集團跟投，紅杉中國、元啟創新等老股東超額追加投資。 據悉，本輪融資資金將用於持續衝破行業“資料荒漠”瓶頸，建設具身智慧資料平臺型供給基礎設施，擴大MEgo無本體產品量產規模，夯實資料採集、資料治理、閉環評測全棧能力，加速千萬小時級物理互動資料產能落地。 自2026年初創立以來，覓蜂科技在約半年時間內連續完成數輪融資，投資方包括國資產業平臺、頭部市場化基金和產業鏈龍頭企業。持續而密集的資本加持，印證了資本市場與產業界對物理AI資料賽道長期發展機遇的看好。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a00dd4-a27f-7aab-9055-9f7e6a3d61d2",
+      "time": "2026-08-17 11:47:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Export-Import Bank of Korea to lend US$1bn to Glencore for copper supply】The Export-Import Bank of Korea said on Monday it will provide a US$1bn loan to commodity trader Glencore to secure copper supplies for Korean firms. The loan will be made to Swiss-based, wholly owned unit Glencore International for general working capital; Glencore has agreed to supply copper to Korean companies during the loan term but details were not disclosed. South Korea is heavily reliant on imported copper, and demand has risen on an AI data-center buildout and higher power needs. Copper prices are up about 15% year-to-date and near record highs. The bank said the financing is intended to stabilise critical raw-material supplies for Korea’s advanced industry supply chains."
+    },
+    {
+      "id": "5043422",
+      "time": "2026-08-17 11:47:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公募調研熱情升溫 上週調研次數超540次】隨著上市公司中報業績陸續披露，公募機構調研熱情逐漸升溫。公募排排網資料顯示，上週（8月10日—8月16日）共有130家公募機構參與到A股調研活動中，覆蓋到17個申萬一級行業中的46只個股，合計調研達546次，環比增幅42.19%。"
+    },
+    {
+      "id": "5043421",
+      "time": "2026-08-17 11:46:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【多方面最佳化升級 帳篷用織物新國標明年實施】記者今天從市場監管總局瞭解到，《野營帳篷和遮陽篷用織物》國家標準，將於2027年8月1日起實施。該標準規定了各類野營帳篷用外帳織物和遮陽篷用織物的質量技術要求，旨在引導企業提高戶外紡織品功能性指標，提升消費者戶外露營的使用體驗。隨著露營經濟快速發展，野營帳篷、遮陽篷產品品類豐富，登山探險、長期旅居等多元場景對織物使用效能提出更高要求。本次標準修訂從產品分類、質量指標、檢測方法等方面進行最佳化升級。一是細化產品分類。標準按照適用場景，將產品劃分為晴天短期使用、陰雨天氣使用、全氣候通用三類，更加匹配各類戶外實際使用需求。二是升級質量要求。標準提高斷裂強力、撕破強力、防水效能等關鍵指標，並按產品類別差異化設定防水效能、防寒效能、耐氣候性等指標，持續提升產品的使用效能和質量。三是統一檢測規範。標準不僅對原有試驗方法進行更新升級，還同步新增耐溼摩擦色牢度、幅寬偏差專項檢測方法，豐富檢測技術手段，提高檢測技術能力。（央視新聞）"
+    },
     {
       "id": "5043420",
       "time": "2026-08-17 11:44:59",
@@ -138682,43 +138728,6 @@
         "市場"
       ],
       "text": "【8月10日午間漲停分析】創業板指半日跌逾2%，醫藥、大消費板塊逆勢走強。寶鼎科技、百花醫藥均5連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019fe9ca-5d6d-7aab-8fd0-9ec3cbbb2b6e",
-      "time": "2026-08-10 11:49:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media report that despite NETANYAHU's opposition to a 15-point plan, a US-led unit based in Kiryat Gat is continuing preparations for the next phase of a Gaza agreement; construction of the first multinational force base in Rafah is expected to begin on Aug 30."
-    },
-    {
-      "id": "mkt:019fe9c9-1ed5-7aab-8fd0-924c7096fec8",
-      "time": "2026-08-10 11:48:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "ADNOC Gas said increased UAE oil output has bolstered supply confidence."
-    },
-    {
-      "id": "5033188",
-      "time": "2026-08-10 11:48:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海釋出中心城區暴雨橙色預警 多區釋出大風橙色預警訊號】上海市氣象臺2026年8月10日10時54分更新中心城區暴雨黃色預警訊號為暴雨橙色預警訊號：預計未來12小時內，中心城區大部6小時累計降水量將達150毫米以上，暴雨黃色預警訊號更新為暴雨橙色預警訊號，強降雨可能引發城市積澇、交通擁堵等情況，請特別加強防範極端強降雨。此外，金山、青浦、松江、浦東釋出大風橙色預警訊號。此前釋出的颱風、黃浦江高潮位、海浪預警訊號依舊高掛。"
-    },
-    {
-      "id": "5033187",
-      "time": "2026-08-10 11:47:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【退市新規徵求意見，全球晶片LOF跌停，白銀LOF重挫】週一早盤，多隻前期高溢價LOF同步回撥。其中，全球晶片LOF跌停，但溢價仍居高不下、維持在18%；國投白銀LOF盤中一度大跌超8%，溢價率同樣突破18%。行情異動或源於上週末的重磅監管新規。滬深交易所聯合釋出LOF退市新規徵求意見稿，明確兩類產品強制退市情形，精準直擊場內LOF長期存在的高溢價投機炒作、迷你基金流動性枯竭、價格易被操縱等市場頑疾。滬上一位公募人士受訪稱，對於當前溢價率較高的QDII或商品期貨LOF，退市預期或將直接打擊投機情緒。（第一財經）"
     }
   ]
 }
