@@ -1,7 +1,19 @@
 {
   "date": "2026-08-18",
-  "count": 24,
+  "count": 25,
   "items": [
+    {
+      "id": "mkt:01a01087-cd29-7aab-9066-6c30091632c0",
+      "time": "2026-08-18 00:22:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【U.S.-Israel rift: Trump urges Israel to stop Gaza strikes】President Trump said on Monday Israel should stop strikes in the Gaza Strip. His envoy Jared Kushner met Netanyahu on Monday to try to revive a U.S. plan to disarm Hamas and end the Gaza war after Netanyahu rejected a phased disarmament proposal last week. After a brief pause Israel has resumed near-daily strikes on Palestinian militants; Trump told Fox News he believes Israel should not be carrying out those strikes because, he said, Hamas has agreed to lay down its arms."
+    },
     {
       "id": "te:markets:575914",
       "time": "2026-08-18 00:17:43",
