@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-18 00:31:34",
-  "count": 15246,
+  "updated": "2026-08-18 00:35:22",
+  "count": 15242,
   "items": [
+    {
+      "id": "5044644",
+      "time": "2026-08-18 00:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我方正協同團隊推動新一輪戰俘交換，期待很快取得進展。"
+    },
+    {
+      "id": "mkt:01a01091-de18-7aab-9066-8136ce9bf0ca",
+      "time": "2026-08-18 00:33:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts."
+    },
+    {
+      "id": "5044643",
+      "time": "2026-08-18 00:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "中東和平委員會一名官員表示，哈馬斯全部輕重武器以及地下隧道都將被拆除。"
+    },
+    {
+      "id": "5044642",
+      "time": "2026-08-18 00:32:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐敘利亞和伊拉克特使湯姆·布拉克：我們支援總理阿里·扎伊迪恢復伊拉克的主權，並確保武器與安全部隊始終處於國家權威之下。"
+    },
     {
       "id": "5044641",
       "time": "2026-08-18 00:30:40",
@@ -139593,84 +139629,6 @@
         "國際"
       ],
       "text": "【特朗普要求伊朗賠償】美國總統特朗普當地時間8月10日在社交媒體發帖稱，他注意到，伊朗正在要求就過去五個月軍事衝突中遭受的損失獲得賠償。特朗普稱，“我同樣要求伊朗進行賠償，我已指示我的代表們將這一要求明確納入未來所有談判之中。”（CCTV國際時訊）"
-    },
-    {
-      "id": "5034450",
-      "time": "2026-08-11 00:35:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數跌0.1%，觸及至盤中低點。"
-    },
-    {
-      "id": "mkt:019fec86-adcf-7aab-8fdd-da5eaae68248",
-      "time": "2026-08-11 00:34:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "US President Trump said Iran is demanding compensation for losses from military clashes over the past five months; he said he likewise demands Iran compensate and has instructed his representatives to press that point in any future negotiations."
-    },
-    {
-      "id": "5034449",
-      "time": "2026-08-11 00:33:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對抗議者的賠償應納入與伊朗的談判，應該向抗議者家屬支付賠償。"
-    },
-    {
-      "id": "5034448",
-      "time": "2026-08-11 00:33:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已指示我的代表，將此項內容堅決納入今後所有談判當中。"
-    },
-    {
-      "id": "mkt:019fec85-38f5-7aab-8fdd-d642f1e9e88c",
-      "time": "2026-08-11 00:33:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA (NVDA.O) fell to an intraday low, down 2.6% on the day."
-    },
-    {
-      "id": "5034447",
-      "time": "2026-08-11 00:32:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我同樣要求伊朗賠償。"
-    },
-    {
-      "id": "5034446",
-      "time": "2026-08-11 00:32:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗正要求就過去五個月軍事衝突中自身遭受的損失獲得賠償。"
-    },
-    {
-      "id": "5034445",
-      "time": "2026-08-11 00:32:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破87美元/桶，日內漲4.26%。"
     }
   ]
 }
