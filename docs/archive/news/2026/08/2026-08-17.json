@@ -1,7 +1,108 @@
 {
   "date": "2026-08-17",
-  "count": 1287,
+  "count": 1297,
   "items": [
+    {
+      "id": "5043741",
+      "time": "2026-08-17 15:49:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鷺燕醫藥：2026年上半年營收105.83億元 淨利潤同比降7.46%】鷺燕醫藥公告稱，2026年上半年營收105.83億元，同比增長1.75%；歸屬於上市公司股東的淨利潤1.43億元，同比下降7.46%；扣非淨利潤1.38億元，同比下降9.88%；經營活動產生的現金流量淨額為-1.01億元，同比下降147.98%。此外，公司子公司成都禾創因收購前原股東隱瞞的擔保事項被列為被執行人，案件執行期間債權人已收到相關款項，目前法院已恢復案件執行，公司將推動解決相關事項。"
+    },
+    {
+      "id": "5043740",
+      "time": "2026-08-17 15:49:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國散戶扎堆個股槓桿ETF 券商與交易所兩月大賺超千億韓元手續費】自跟蹤三星電子與SK海力士的單一股票槓桿、反向ETF上市以來，韓國交易所與各家券商兩個多月累計賺取手續費收入超1170億韓元。有觀點指出，個人投資者蜂擁入局這類高風險產品，負責市場運營的交易所與提供交易中介服務的券商賺取了鉅額手續費。 17日從金融監督院、韓國交易所獲取並提交的資料顯示：三星電子、SK海力士相關單一股票槓桿及反向ETF自5月27日上市至上月末，交易所與券商合計收取相關手續費達1172.6億韓元，相關產品共計16只。 交易活躍的交易日，交易所單日手續費收入便可突破10億韓元。6月24日手續費收入10.51億韓元，上月14日達10.11億韓元。"
+    },
+    {
+      "id": "mkt:01a00eb1-cd30-7aab-905b-152b59950f34",
+      "time": "2026-08-17 15:48:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Interfax reports Ukrainian drones struck industrial facilities in Russia's Astrakhan region."
+    },
+    {
+      "id": "5043739",
+      "time": "2026-08-17 15:47:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，法國日前基荷電力價格下跌6.4%，至每兆瓦時166歐元。"
+    },
+    {
+      "id": "5043738",
+      "time": "2026-08-17 15:47:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鷺燕醫藥：2026年上半年淨利潤1.43億元，同比下降7.46%】鷺燕醫藥公告，2026年上半年營業收入105.83億元，同比增長1.75%。歸屬於上市公司股東的淨利潤1.43億元，同比下降7.46%。扣非淨利潤1.38億元，同比下降9.88%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:markets:575765",
+      "time": "2026-08-17 15:47:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Near 3-Week Top — Soybean futures rose above $11.8 per bushel, hitting nearly a three-week high, as firm Chinese demand continued to support prices. According to traders, China had already purchased about 7 million metric tons of US soybeans, while China’s Sinograin said it would auction 360,000 tons of imported soybeans, its fourth sale since late July, in an effort to free up storage space for incoming US supplies. Last week, the USDA raised its 2026 US soybean production estimate by by 44 million bushels to a record 4.519 billion bushels but lowered its yield forecast in the monthly report to 52.7 bushels per acre from 53, reflecting the impact of extreme heat and dryness in parts of the Midwest. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects after weeks of heat and dryness supported prices. Traders are also monitoring a major US field tour this week for further indications on soybean and corn yield prospects."
+    },
+    {
+      "id": "te:markets:575764",
+      "time": "2026-08-17 15:46:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rebounds on Monday — The FTSE 100 started the week higher, attempting to recover from five consecutive sessions of losses, with mining stocks providing the main support. Rising copper prices lifted shares in Antofagasta and Anglo American by 2.4% and 2.2%, respectively, while Glencore also gained around 2.4%. Higher gold prices supported precious-metals miners, with Fresnillo advancing about 2% and Endeavour Mining adding 1.6%. AstraZeneca also rose more than 1% after providing updates on several drug trials, although the pharmaceutical company said it would discontinue a Phase 3 trial for a lung-cancer treatment. Broader sentiment remained cautious as investors continued to monitor developments around the Strait of Hormuz and the wider US-Iran conflict. Iran called on the US to accept defeat over the weekend, while President Donald Trump described Tehran as “very evil” and warned Americans to prepare for continued high fuel prices."
+    },
+    {
+      "id": "mkt:01a00eaf-79fb-7aab-905b-0f9917312a5c",
+      "time": "2026-08-17 15:46:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【NBS: New industrial momentum accounted for half of growth in China's industrial output above designated size in first seven months】On Aug 17 NBS spokesperson and chief economist Fu Linghui said at a press briefing that new growth drivers continued to make a clear contribution in July. In the first seven months new industrial momentum accounted for 50% of growth in China’s industrial output of enterprises above designated size. Accelerating digitalization and smart manufacturing are visibly boosting related sectors."
+    },
+    {
+      "id": "5043737",
+      "time": "2026-08-17 15:46:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元觸及時段低點，最新下跌0.32%，報158.865。"
+    },
+    {
+      "id": "mkt:01a00eaf-6b9f-7aab-905b-011aab23d9c6",
+      "time": "2026-08-17 15:46:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman Baghaei said cooperation by some neighboring countries with the aggressor violates good-neighbor relations."
+    },
     {
       "id": "5043736",
       "time": "2026-08-17 15:45:39",
