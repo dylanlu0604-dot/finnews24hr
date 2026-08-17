@@ -1,7 +1,93 @@
 {
   "date": "2026-08-17",
-  "count": 979,
+  "count": 988,
   "items": [
+    {
+      "id": "5043574",
+      "time": "2026-08-17 13:59:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美媒：哈馬斯領導人與庫什納會談】據美國阿克西奧斯新聞網站16日援引知情人士的話報道，美國總統特朗普的女婿庫什納當天與巴勒斯坦伊斯蘭抵抗運動（哈馬斯）政治局主席哈利勒·哈亞在埃及舉行會談，重點談及哈馬斯解除武裝問題。這名知情人士稱，“庫什納告訴他們（哈馬斯），在解除武裝問題上沒有談判餘地，但如果他們拿出實際行動，美國將盡力確保以色列也採取相應步驟”。（新華社）"
+    },
+    {
+      "id": "5043573",
+      "time": "2026-08-17 13:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宇樹科技釋出“超人”】宇樹科技：原地跳高2米，極限速度12.66m/s，（0.85米腿長），超越全世界全人類原地跳高和奔跑速度記錄。全新整機剛用3個多月研發出來，未來幾個月還有很大的完善空間。"
+    },
+    {
+      "id": "5043572",
+      "time": "2026-08-17 13:58:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪回升 東方材料漲停】午後算力租賃概念震盪回升，東方材料漲停，此前鴻博股份、甘諮詢漲停，宇順電子、威星智慧、日科化學、朗科科技、弘信電子、邁信林等跟漲。"
+    },
+    {
+      "id": "mkt:01a00e4c-15cb-7aab-9057-9c6eb0626b83",
+      "time": "2026-08-17 13:57:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. to auction $16bn 20-year Treasury on Wednesday; will long-end pressure rise?】The U.S. Treasury will auction $16bn of 20-year notes on Wednesday. Pre-auction trading yield is around 5.27%; if the stop-out holds, it would be the highest since the tenor was reintroduced in 2020. Recent 10-year and 30-year auction stop-out yields were 4.683% and 5.216%, the highest since 2007 and 2001, respectively. High stop-out yields have not implied demand failure—last week's 30-year bid-cover ratio was 2.39. Market-watch items: whether the stop-out exceeds pre-auction trading (a tail), the share of indirect bidders, and the proportion taken by primary dealers. A clear tail and rising dealer uptake would indicate investors are demanding wider fiscal, inflation and term premia and the long end is decoupling from the Fed policy path; if high yields instead attract long-term buyers, it would signal markets are absorbing supply."
+    },
+    {
+      "id": "5043571",
+      "time": "2026-08-17 13:57:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【融創房地產集團等被恢復執行21.3億】天眼查法律訴訟資訊顯示，近日，融創房地產集團有限公司等新增一則恢復執行資訊，執行標的21.3億餘元，執行法院為江西省南昌市中級人民法院。該公司成立於2003年1月，法定代表人為汪孟德，註冊資本150.15億人民幣，經營範圍包括房地產開發及商品房銷售、物業管理、自有房屋租賃、房地產資訊諮詢等。"
+    },
+    {
+      "id": "5043570",
+      "time": "2026-08-17 13:57:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲6%，現報5166.00元。"
+    },
+    {
+      "id": "5043569",
+      "time": "2026-08-17 13:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“林肯”號水兵厭戰：一場不該打的仗】伊朗戰事延宕超過5個月，何時結束尚未可知。多家美國媒體爆料，美軍“林肯”號核動力航空母艦因在海上航行8個多月，部署期多次延長，加上物資短缺、生活條件糟糕，艦員士氣低落、厭戰情緒滋生，已有多人精神崩潰，試圖跳海。一些艦員表示，艦上士氣低落，他們有時不得不一天工作12至16小時，稱那樣的日子為“土撥鼠日”。有艦員說，比起生活條件差、工作強度大，最大的問題還是不知道何時能回家。“這次部署比以往糟糕得多，主要原因是我們本不該來這裡打這場仗。”一名不願公開姓名的水兵說。（新華社）"
+    },
+    {
+      "id": "mkt:01a00e4a-b523-7aab-9057-93ae613f05b0",
+      "time": "2026-08-17 13:56:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【CATL says core operations carbon neutral by end-2025; 20 plants ISO14068-1 certified】CATL said at a press event in Ningde, Fujian that its core operations achieved carbon neutrality by end-2025, and it is the only battery maker at TWh-scale shipments to claim core-operational carbon neutrality. The company published its first value-chain carbon-neutral roadmap to 2035 and said the effort marks a shift from company-only measures to industry ecosystem co-construction. Chairman and CEO Zeng Yiqun said 20 battery plants have been certified under ISO14068-1 as zero-carbon factories and that 100% of core operational power use is zero-carbon."
+    },
+    {
+      "id": "mkt:01a00e4a-83c4-7aab-9057-8f1f7593810e",
+      "time": "2026-08-17 13:55:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said the government will continue cooperating with Saudi Arabia and Turkey to play a constructive role in defending Pakistan's and the region's security."
+    },
     {
       "id": "5043568",
       "time": "2026-08-17 13:54:53",
