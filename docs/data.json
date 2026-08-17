@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-17 15:50:09",
-  "count": 15229,
+  "updated": "2026-08-17 15:54:03",
+  "count": 15225,
   "items": [
+    {
+      "id": "5043743",
+      "time": "2026-08-17 15:53:25",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：完成2025年度第七期短期融資券本息兌付】東吳證券公告稱，公司於2025年12月17日成功發行2025年度第七期短期融資券，發行總額20億元，票面利率1.74%，期限240天。2026年8月14日，公司完成兌付本期短期融資券本息共計20.23億元。"
+    },
+    {
+      "id": "te:economy:575767",
+      "time": "2026-08-17 15:52:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Remains at Over 1-Year Low — China's 10-year government bond yield traded around 1.68% on Monday, remaining at its lowest level in over a year as a raft of disappointing economic data reinforced expectations for additional policy stimulus to bolster growth. Fixed-asset investment shrank 6.7% year-on-year in the first seven months of 2026, worse than the expected 6.2% fall. Industrial output slowed to 4.5% in July from 5.3% in June, missing expectations of 5%, while retail sales rose just 0.6%, below forecasts of 1.5% and down from 1% in the previous month. In addition, the surveyed unemployment rate edged up to 5.2%, its highest level in three months. China's National Bureau of Statistics said the economy has remained \"generally stable\" this year, though it warned of a \"complicated and volatile\" external environment and weak domestic demand, prompting investors to expect further stimulus to keep the economy on track to meet this year's growth target."
+    },
+    {
+      "id": "5043742",
+      "time": "2026-08-17 15:51:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓國多地出臺中小學限用智慧手機措施】韓國多地教育部門近日出臺措施，擬進一步強化中小學校園內學生智慧手機使用管控，以期提升學生課堂專注力、遏制網路霸凌等。據悉，韓國修訂版《初等及中等教育法》今年3月正式生效，明令禁止學生課堂使用智慧手機，但未明確校方該如何保管手機，也沒有對課堂以外使用智慧手機等情形作出規定。數月來，越來越多人呼籲出臺細則。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00eb2-f861-7aab-905b-1f346b43ee8a",
+      "time": "2026-08-17 15:50:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran reiterates sovereign rights over Strait of Hormuz】Iran Foreign Ministry spokesman Baghaei said existing law covers Iran’s sovereign rights in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, and the ministry will work with parliament to advance legislation related to those rights. He said the ministry will take current law and facts into account, is obliged to cooperate with parliament on all legislative matters, and has already provided — and will provide if requested — expert comments on related bills."
+    },
     {
       "id": "5043741",
       "time": "2026-08-17 15:49:21",
@@ -139356,83 +139397,6 @@
         "公司"
       ],
       "text": "【德豪潤達：聘任郝守超為高階副總經理、強媛媛為財務總監】德豪潤達公告稱，公司第八屆董事會第十八次會議於2026年8月10日召開，審議透過聘任郝守超為高階副總經理、強媛媛為財務總監的議案。表決結果為同意5票、反對0票、棄權0票。二人任職資格符合相關要求。"
-    },
-    {
-      "id": "mkt:019feaa9-8a6b-7aab-8fd4-99ae085230e9",
-      "time": "2026-08-10 15:53:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry spokesman said reopening the Strait of Hormuz requires the United States to lift its blockade and provide compensation; an agreement with Oman includes charging maritime service fees."
-    },
-    {
-      "id": "5033507",
-      "time": "2026-08-10 15:53:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST人福：控股子公司枸櫞酸舒芬太尼注射液獲臨床試驗批准】ST人福公告稱，其控股子公司宜昌人福（持股80%）近日收到國家藥監局核准簽發的枸櫞酸舒芬太尼注射液《藥物臨床試驗批准通知書》，同意開展“作為鎮痛劑與布比卡因聯合硬膜外給藥用於分娩鎮痛”的臨床試驗。該注射液於2005年獲批上市，2020年透過一致性評價，此次為申請增加新適應症。截至目前，宜昌人福在該專案累計研發投入約30萬元。後續需開展臨床研究，再申報生產上市，提醒投資者注意風險。"
-    },
-    {
-      "id": "5033506",
-      "time": "2026-08-10 15:53:14",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【敷爾佳：2025年營收18.93億元 同比下降6.14%】敷爾佳公告稱，中信證券對其2025年度持續督導工作進行現場檢查。2025年，公司實現營收18.93億元，同比下降6.14%，主要因主動開展銷售渠道最佳化與產品價格梳理工作；淨利潤4.33億元，同比下降34.56%，系線上渠道加大營銷推廣力度所致。檢查顯示，公司在公司治理、內部控制、關聯交易、募集資金使用等方面均符合相關要求，且無現場檢查發現的問題。"
-    },
-    {
-      "id": "5033505",
-      "time": "2026-08-10 15:53:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇州市釋出京杭運河蘇州段洪水紅色預警】蘇州市水務局8月10日15時釋出京杭運河蘇州段洪水紅色預警。提醒影響區域各級政府及有關部門密切關注水雨情變化，加強應急值守和分析研判，組織巡堤查險，做好應急搶險準備。（央視新聞）"
-    },
-    {
-      "id": "mkt:019feaa7-7d07-7aab-8fd4-93b3d262f196",
-      "time": "2026-08-10 15:51:12",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iran's Foreign Ministry spokesperson said management and security of the Strait of Hormuz are Iran's responsibility."
-    },
-    {
-      "id": "5033503",
-      "time": "2026-08-10 15:51:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中瓷電子：目前訂單飽滿 產能利用率維持在較高水平】有投資者問，目前公司電子陶瓷材料及元件、第三代半導體器件及模組（氮化鎵、碳化矽）業務經營狀況究竟是處於怎祥的情況？中瓷電子在互動平臺表示，公司生產經營正常，公司及子公司目前訂單飽滿，目前產能利用率維持在較高的水平。"
-    },
-    {
-      "id": "mkt:019feaa7-339e-7aab-8fd4-8df62956cd5a",
-      "time": "2026-08-10 15:50:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry spokesman said the southern channel of the Strait of Hormuz is illegal, unsafe and violates a memorandum of understanding."
-    },
-    {
-      "id": "5033502",
-      "time": "2026-08-10 15:50:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中曼石油：1000萬元認購天誠基金10%份額】中曼石油公告稱，公司作為有限合夥人，以自有資金1000萬元參與認購天誠基金份額，該基金認繳出資總額為1億元，公司出資金額佔比10%。本次交易不構成關聯交易和重大資產重組，無需提交董事會、股東會審議。基金尚需完成工商登記和協會備案，投資可能面臨回收期長、收益不達預期或本金損失等風險。"
     }
   ]
 }
