@@ -1,7 +1,59 @@
 {
   "date": "2026-08-17",
-  "count": 2363,
+  "count": 2369,
   "items": [
+    {
+      "id": "em:jjsj_mgsj:202608173843536058",
+      "time": "2026-08-17 22:01:59",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月份NAHB住宅建築商指數升至35；預估33。"
+    },
+    {
+      "id": "5044495",
+      "time": "2026-08-17 22:01:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威國家石油公司：以9.4億美元從貝萊德旗下GIP手中收購賓夕法尼亞州一座燃氣發電廠的股份。"
+    },
+    {
+      "id": "mkt:01a01006-9e99-7aab-9063-f0c0be2ab3fd",
+      "time": "2026-08-17 22:01:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi offers cargoes loaded off Oman coast; may be shifting to transshipment】Saudi Arabia is offering cargoes loaded off the coast of Oman, suggesting it may be following the UAE in routing more oil via transshipment rather than conventional Strait of Hormuz shipments. Sources say Aramco is supplying ship‑to‑ship cargoes loaded at Gulf of Oman ports such as Sohar. The cargoes are Arab Medium and Heavy grades, pointing to Persian Gulf origin. In March Aramco CEO Amin Nasser said the Yanbu pipeline mainly carries Arab Light and Extra Light, while near‑shore Persian Gulf fields supply the kingdom’s medium and heavy barrels. Aramco declined to comment."
+    },
+    {
+      "id": "5044494",
+      "time": "2026-08-17 22:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【閃迪股價漲幅擴大至8.7% 股價創7月14日以來新高】閃迪股價漲幅擴大至8.70%，報1784.159美元/股，股價創7月14日以來新高，總市值報2605億美元。"
+    },
+    {
+      "id": "mkt:01a01006-7495-7aab-9063-ef760a31e7a9",
+      "time": "2026-08-17 22:00:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EQNR.O"
+      ],
+      "text": "Equinor to buy a stake in a Pennsylvania gas-fired power plant for $940m from GIP, a BlackRock affiliate."
+    },
+    {
+      "id": "5044493",
+      "time": "2026-08-17 22:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月NAHB房產市場指數 35，預期 33，前值 34。"
+    },
     {
       "id": "mkt:01a01005-c193-7aab-9063-e7e79d19ece8",
       "time": "2026-08-17 22:00:07",
