@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-18 02:16:16",
-  "count": 15279,
+  "updated": "2026-08-18 02:20:13",
+  "count": 15275,
   "items": [
+    {
+      "id": "5044706",
+      "time": "2026-08-18 02:18:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，針對伊拉克庫爾德地區的襲擊並非從伊朗領土發起。"
+    },
+    {
+      "id": "5044705",
+      "time": "2026-08-18 02:16:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普稱美國不尋求延長伊朗協議備忘錄。"
+    },
     {
       "id": "mkt:01a010ef-e52f-7aab-9067-f2911c18d5eb",
       "time": "2026-08-18 02:15:52",
@@ -139959,58 +139976,6 @@
         "Impact bullish"
       ],
       "text": "Brent crude rose above $87/bbl, up 6.77% intraday."
-    },
-    {
-      "id": "te:markets:574191",
-      "time": "2026-08-11 02:20:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 2.40% — Top commodity gainers are Silver (2.40%), Lithium Carbonate (1.23%) and Gold (0.45%). Biggest loser is Platinum (-0.55%)."
-    },
-    {
-      "id": "mkt:019fece6-58be-7aab-8fde-da21f60f4c19",
-      "time": "2026-08-11 02:19:06",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "Refinitiv cited two sources saying a fuel tank at Libya's Zawiya refinery exploded; the nature and cause of the blast were unclear."
-    },
-    {
-      "id": "5034493",
-      "time": "2026-08-11 02:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "據兩位訊息人士透露：利比亞扎維耶煉油廠燃料罐發生爆炸，爆炸起因不明。"
-    },
-    {
-      "id": "5034492",
-      "time": "2026-08-11 02:18:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲5%，現報87.74美元/桶。"
-    },
-    {
-      "id": "5034491",
-      "time": "2026-08-11 02:18:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲5%，現報82.09美元/桶。"
-    },
-    {
-      "id": "mkt:019fece5-6e46-7aab-8fde-d6b8d4b892fe",
-      "time": "2026-08-11 02:18:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration revokes over 175,000 foreign visas】The US State Department says the Trump administration has revoked more than 175,000 foreign visas, citing criminal activity, visa violations and violent rhetoric toward US citizens. Most revocations stem from “law enforcement contact records,” including assault, DUI, theft and drug offenses. Visa cancellations have risen sharply in 2026, with monthly revocations exceeding 10,000 year-to-date. The action is described as part of an ongoing review mechanism to ensure visa holders comply and do not threaten US security; immigration lawyers warn revocations may follow minor enforcement contacts or unproven allegations. The State Department said a US visa is “a privilege, not a right.”"
     }
   ]
 }
