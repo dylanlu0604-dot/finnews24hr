@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-17 13:02:26",
+  "updated": "2026-08-17 13:06:19",
   "count": 15186,
   "items": [
+    {
+      "id": "5043502",
+      "time": "2026-08-17 13:05:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精工科技成立碳纖維裝備技術公司】企查查APP顯示，近日，精工（長春）碳纖維裝備技術有限公司成立，經營範圍包含：石墨及碳素製品製造；石墨及碳素製品銷售；工業設計服務；工業工程設計服務等。企查查股權穿透顯示，該公司由精工科技全資持股。"
+    },
+    {
+      "id": "mkt:01a00e1c-4761-7aab-9056-d4b0d635f7aa",
+      "time": "2026-08-17 13:05:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext rose more than 2%; Shenzhen Composite Index added 1.57%; Shanghai Composite gained 0.82%. More than 3,700 stocks advanced across the A-share market."
+    },
+    {
+      "id": "mkt:01a00e1c-3f86-7aab-9056-cb0268b24898",
+      "time": "2026-08-17 13:05:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【ANZ: NZ election unlikely to stop RBNZ hiking in October】A November New Zealand election may complicate RBNZ policy, but ANZ senior strategist David Croy says the central bank is still likely to raise rates in October. The RBNZ has signaled it wants to return policy to neutral; ANZ estimates the neutral rate at around 3% or slightly higher versus the current policy rate of 2.50%. Croy says with policy still accommodative and inflation above target, there is no clear reason to pause hikes — the burden is on the RBNZ to find a reason not to raise in October."
+    },
+    {
+      "id": "5043501",
+      "time": "2026-08-17 13:04:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.01%，現報3699.117點；上證指數漲0.82%，現報3959.441點；深證成指漲1.56%，現報14578.483點。"
+    },
+    {
+      "id": "mkt:01a00e1b-7163-7aab-9056-c220bf75862a",
+      "time": "2026-08-17 13:04:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 Index futures rose 1%."
+    },
+    {
+      "id": "mkt:01a00e1a-e0f5-7aab-9056-ba526958e195",
+      "time": "2026-08-17 13:03:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "China's Changxin Technology shares surged more than 10% in afternoon trade, hitting a record high since listing. Market capitalization reached 4.07 trillion yuan and turnover exceeded 23.0 billion yuan."
+    },
+    {
+      "id": "5043500",
+      "time": "2026-08-17 13:03:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【長鑫科技再創新高 總市值超4萬億】長鑫科技大幅拉昇漲近10%，股價再創新高，總市值再次突破4萬億，日內成交額近230億元。"
+    },
+    {
+      "id": "5043499",
+      "time": "2026-08-17 13:03:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏裝置板塊走高，聚合材料漲停】光伏裝置板塊走高，聚合材料漲停，華民股份逼近漲停，帝科股份、奧特維、宇邦新材、正泰電源跟漲。"
+    },
+    {
+      "id": "mkt:01a00e19-e5e0-7aab-9056-b30f6f1ab30c",
+      "time": "2026-08-17 13:02:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukrainian strike on Russia's Belgorod region kills six】Acting Belgorod governor Shuyaev said on social media on the 17th that a village in Valuysky District was struck by Ukrainian forces, killing six and wounding four."
+    },
+    {
+      "id": "5043497",
+      "time": "2026-08-17 13:02:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯別爾哥羅德州遭烏軍襲擊 6人喪生 】俄羅斯別爾哥羅德州代理州長舒瓦耶夫17日在社交媒體發文稱，該州瓦盧伊斯基區一村莊遭到烏軍襲擊，造成6人喪生、4人受傷。"
+    },
+    {
+      "id": "5043496",
+      "time": "2026-08-17 13:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7月江蘇省對上合組織其他成員國進出口同比增長15.9%】據南京海關統計，今年1—7月，江蘇對上海合作組織其他成員國進出口2304.1億元，同比增長15.9%。"
+    },
     {
       "id": "5043495",
       "time": "2026-08-17 13:01:38",
@@ -138846,107 +138953,6 @@
         "市場"
       ],
       "text": "【CPO板塊震盪走弱，光迅科技跌停】CPO板塊震盪走弱，光迅科技跌停，中際旭創、通宇通訊、新易盛、劍橋科技、長芯博創、羅博特科等跟跌。"
-    },
-    {
-      "id": "mkt:019fea10-843a-7aab-8fd1-714d38a8793d",
-      "time": "2026-08-10 13:06:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Fujian ends typhoon emergency response; offshore production resumes】Fujian provincial flood control and drought relief headquarters terminated its typhoon emergency response at 12:00 on the 10th. Coastal and maritime and fisheries authorities are orderly restoring normal offshore production operations. To guard against Typhoon White Dolphin, authorities relocated 167,900 people from high‑risk areas. The headquarters warned residual circulation from the storm continues to bring rain to parts of Fujian and urged local departments to maintain defensive measures."
-    },
-    {
-      "id": "5033267",
-      "time": "2026-08-10 13:06:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聚力青年人才培育 2026國際基礎科學大會舉行】昨天（9日），2026國際基礎科學大會在北京開幕。本次大會主題為“聚焦基礎科學，引領人類未來”，共有千餘名中外科學家、科研工作者和青年學子參會，大會將持續到8月21日。在為期兩週的會議期間，將舉辦500餘場學術會議，涉及基礎科學各個分支與交叉方向，同時覆蓋生成式大模型推理、計算機視覺、人機互動、量子資訊等前沿熱點。多位國際頂尖科學家將領銜主講基礎科學報告、前沿科學獎報告，分享各領域最新突破性成果。（央視）"
-    },
-    {
-      "id": "mkt:019fea10-2094-7aab-8fd1-6b77df607b42",
-      "time": "2026-08-10 13:05:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "China A-share memory-chip names slid in the afternoon; Puran fell over 10%, with Beijing Junzheng, GigaDevice, Changxin Technology, Hengshuo and Dapuwei also down."
-    },
-    {
-      "id": "mkt:019fea0f-9bdf-7aab-8fd1-6727cc1d5b36",
-      "time": "2026-08-10 13:05:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia will allocate about 10 bln rubles to support rail transport of agricultural exports."
-    },
-    {
-      "id": "5033266",
-      "time": "2026-08-10 13:04:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九識智慧生產製造基地專案落戶海口國家高新區】據海南日報，近日，海口國家高新區管委會與九識智慧科技有限公司在海口進行交流座談，並正式簽署合作協議，標誌著九識智慧生產製造基地專案落戶海口國家高新區。據悉，九識智慧生產製造基地專案選址於高新區美安科技新城康迪基地，計劃總投資約1億元，分兩期建設。首期擬委託園區生產製造企業承接年產2000臺功能型無人車本地生產任務；二期將選取約1萬平方米合適廠房及測試場自建產線，全面達產後預計年產1萬臺無人車產品，實現年產值約3億元。專案落地後，將充分聯動海南自貿港政策優勢，打造面向華南及東南亞市場的智慧物流裝備生產樞紐。"
-    },
-    {
-      "id": "5033265",
-      "time": "2026-08-10 13:04:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "海南省氣象臺2026年08月10日13時00分解除瓊州海峽海面海上雷雨大風黃色預警訊號。"
-    },
-    {
-      "id": "5033264",
-      "time": "2026-08-10 13:03:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建終止防颱風應急響應 海上生產作業陸續恢復】福建省防汛抗旱指揮部於10日12時終止防颱風應急響應。沿海各地及海洋與漁業部門正有序組織，恢復海上正常生產作業。防禦颱風“白海豚”，福建省轉移危險區域人員16.79萬人。福建省防指提醒，受颱風殘餘環流影響，當前福建省部分地區仍有降雨，各地各有關部門要善始善終做好各項防禦工作。"
-    },
-    {
-      "id": "5033263",
-      "time": "2026-08-10 13:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京釋出地質災害氣象風險橙色預警】北京市規劃和自然資源委聯合市氣象局於2026年8月10日10時提前釋出地質災害氣象風險橙色預警：預警生效時間為8月11日20時至8月12日20時，我市西部山區發生崩塌、滑坡、泥石流等地質災害的風險高（橙色預警）；北部山區發生崩塌、滑坡、泥石流等地質災害的風險較高（黃色預警），請注意防範。"
-    },
-    {
-      "id": "5033262",
-      "time": "2026-08-10 13:03:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【巴克萊：日本央行料將在9月而非10月加息】巴克萊的兩名經濟學家表示，日本央行料將在9月而不是10月加息，與此同時，他們將加息預期提前。這些經濟學家表示，今天釋出的日本央行7月30日至31日會議的意見摘要“整體聽起來比植田和男行長的言論更偏緊縮，並給人一種印象，即決策者對在9月會議上決定加息持積極態度“。巴克萊目前預計日本央行將加息三次：分別在2026年9月、2027年1月和2027年7月，終端利率為1.75%，而此前的預測是在10月和4月加息兩次，終端利率為1.5%。"
-    },
-    {
-      "id": "mkt:019fea0d-969b-7aab-8fd1-5d6521827fca",
-      "time": "2026-08-10 13:03:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indian rupee last at 95.2275 per U.S. dollar, showing little intraday movement."
-    },
-    {
-      "id": "mkt:019fea0d-641a-7aab-8fd1-55c75c0c5000",
-      "time": "2026-08-10 13:02:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Traders say the Reserve Bank of India may be selling dollars to support the rupee."
     }
   ]
 }
