@@ -1,7 +1,36 @@
 {
   "date": "2026-08-18",
-  "count": 335,
+  "count": 338,
   "items": [
+    {
+      "id": "mkt:01a011f9-a907-7aab-906a-395ecc429efb",
+      "time": "2026-08-18 07:06:09",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【June: Japan cuts U.S. Treasuries sharply; strategist says unlikely to sell again】Foreign holdings of U.S. Treasuries fell $72.1bn in June to $9.3tln, U.S. Treasury data showed, led by reductions from Japan and China. Holdings have dropped in three of the past four months since a February peak. Treasuries declined amid concerns over large fiscal deficits and inflation remaining above target. Japan, the largest foreign holder, sold about $26.4bn in June, trimming its position to $1.12tln. Prolonged yen weakness prompted Japanese FX intervention, with the U.S. also involved in late July. Strategist Paresh Upadhyay said Japan’s moves were clearly driven by FX intervention needs; U.S. Treasury Secretary Bessent participated in July and signalled Tokyo could use Fed tools to avoid direct Treasury sales, and Upadhyay does not expect Japan to resume Treasury selling."
+    },
+    {
+      "id": "5044808",
+      "time": "2026-08-18 07:05:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國政府援助哥倫比亞緊急人道主義地震救災物資啟運】8月18日凌晨，中國政府向哥倫比亞提供的緊急人道主義地震救災物資從北京首都國際機場啟運。 據瞭解，該批物資主要包括發電機、淨水車、消毒機、太陽能照明裝置、帳篷和毯子等救災急需物資，共約80噸，搭乘中國國際貨運航空公司包機運往哥首都波哥大，計劃於當地時間18日中午運抵。 哥倫比亞西部當地時間10日發生7.4級地震，造成嚴重人員傷亡和財產損失。中國政府還決定向哥方提供緊急現匯援助，支援哥方救災和災後重建。"
+    },
+    {
+      "id": "5044807",
+      "time": "2026-08-18 07:05:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴斯夫因萊茵河低水位致部分產品供應受阻】德國化工巨頭巴斯夫（BASF）執行長 Markus Kamieth 週一證實，持續乾旱引發的萊茵河低水位已導致部分產品無法足額供應。儘管目前公司財務未受明顯波及，但若干旱持續，生產受干擾的風險將逐周遞增。Kamieth 強調，得益於應對極端天氣準備工作的提升，目前整體局勢依舊可控，面臨的挑戰遠小於2018年。"
+    },
     {
       "id": "5044806",
       "time": "2026-08-18 06:57:54",
