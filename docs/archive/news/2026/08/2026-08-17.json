@@ -1,7 +1,92 @@
 {
   "date": "2026-08-17",
-  "count": 385,
+  "count": 394,
   "items": [
+    {
+      "id": "5043163",
+      "time": "2026-08-17 09:14:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報1700.50點。"
+    },
+    {
+      "id": "te:economy:575608",
+      "time": "2026-08-17 09:14:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Bond Yield Hits Near 30-year High — Japan 10 Year Government Bond Yield increased to 2.91%, the highest since September 1996. Over the past 4 weeks, Japan 10Y Bond Yield gained 17.74 basis points, and in the last 12 months, it increased 133.44 basis points."
+    },
+    {
+      "id": "5043162",
+      "time": "2026-08-17 09:13:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型政策性金融工具方案印發 貼息成亮點】記者獲悉，今年新型政策性金融工具相關實施方案已於近期印發到地方，各地將據此進行專案申報。與去年不同的是，今年財政對符合條件的新型政策性金融工具資金給予貼息；投向佈局上，突出強調對於民間投資、產業類專案的重點支援。記者瞭解到，目前新型政策性金融工具的相關實施方案已印發，明確了總體要求、支援領域。2025年，政策性金融工具重點投向數字經濟、人工智慧、消費基礎設施，以及交通、能源、地下管網建設改造等城市更新領域。今年，新型政策性金融工具投向在此前基礎上進一步最佳化，其中，更突出強調對民間投資專案、產業類專案的支援。（經參報）"
+    },
+    {
+      "id": "5043161",
+      "time": "2026-08-17 09:12:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元上漲0.3%至31.948。"
+    },
+    {
+      "id": "5043160",
+      "time": "2026-08-17 09:12:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲3.5個基點，至1.685%。40年期日本國債收益率上漲3.5個基點，至4.110%。30年期日本國債收益率上漲3.5個基點，至4.045%。今早公佈的第一份初步資料顯示，日本第二季度實際GDP增長慢於預期，這可能會降低日本央行下個月加息的可能性。"
+    },
+    {
+      "id": "mkt:01a00d46-30c2-7aab-9052-9c11262de85d",
+      "time": "2026-08-17 09:11:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Haier, Tianjin University sign pact to pilot brain–computer interface ward and create industry fund】Haier Group said on Aug. 15 in Qingdao that its healthcare brand Yingkang Yisheng will partner with Tianjin University’s Brain–Computer Interaction and Human–Machine Integration Haihe Laboratory to co-develop a brain–computer interface model ward. Yingkang Yisheng will open hospital clinical scenarios and use its HaiyiHui platform to run clinical pilots and technology validation focused on neurorehabilitation and brain disease diagnosis. The parties will also establish a dedicated brain–computer interface industry fund to support commercialization of innovations and project incubation."
+    },
+    {
+      "id": "mkt:01a00d46-0dc3-7aab-9052-9721cf0a974b",
+      "time": "2026-08-17 09:11:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 2-year government bond yield rose 3.5 bps to 1.685%."
+    },
+    {
+      "id": "mkt:01a00d46-05c4-7aab-9052-8faf5598e6af",
+      "time": "2026-08-17 09:11:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year government bond yield rose 3.5 bps to 4.045%."
+    },
+    {
+      "id": "5043159",
+      "time": "2026-08-17 09:11:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾攜手天津大學腦機海河實驗室 簽署全面戰略合作協議】據海爾集團訊息，8月15日，海爾集團旗下大健康生態品牌盈康一生與天津大學腦機互動與人機共融海河實驗室（簡稱“腦機海河實驗室”）在青島正式簽署全面戰略合作協議。根據協議，盈康一生將開放旗下醫院臨床場景，依託“海醫匯”平臺機制，與腦機海河實驗室共建腦機介面樣板病房，聚焦神經康復和腦部疾病診療開展臨床試點與技術驗證。雙方還將聯合設立腦機介面專項產業基金，支援創新成果轉化和優質專案孵化。"
+    },
     {
       "id": "mkt:01a00d45-211e-7aab-9052-8420f44c2df1",
       "time": "2026-08-17 09:10:29",
