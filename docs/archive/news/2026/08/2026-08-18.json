@@ -1,7 +1,43 @@
 {
   "date": "2026-08-18",
-  "count": 37,
+  "count": 41,
   "items": [
+    {
+      "id": "5044646",
+      "time": "2026-08-18 00:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼表示，渥太華將為鷗島電力專案落實資金保障。"
+    },
+    {
+      "id": "5044645",
+      "time": "2026-08-18 00:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "海事追蹤資料證實，一艘油輪因違反霍爾木茲海峽的有關規定而在伊朗的格什姆島附近被攔截。"
+    },
+    {
+      "id": "mkt:01a01094-4010-7aab-9066-8980a57bed2d",
+      "time": "2026-08-18 00:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he is working with relevant task forces to push for a new prisoner exchange and hopes to see results soon."
+    },
+    {
+      "id": "te:markets:575917",
+      "time": "2026-08-18 00:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Ease Further — European stocks closed marginally lower on Monday as the sustained increase in energy prices added to macroeconomic headwinds for the European economy. The Euro STOXX 50 eased 0.1% to 6,530 and the STOXX Europe 600 dropped 0.2% to 656. European natural gas prices extended their surge toward multi-year highs as the prolonged blockade of LNG tankers from the Middle East magnified shortages in renewable power generation in the central part of the continent, as low river-tides forced multiple nuclear power plants to shut down. Yields in major economies rose to multi-decade highs, pressuring banks consumer-sensitive luxury companies. Santander, Deutsche Bank, LVMH, and Adidas lost between 1% and 3.4%. On the other hand, ASML rose 2.6%, tracking US AI companies following strong results from Anthropic. Also, Argenx surged 1% after reporting a successful trial for its drug Vyvgart."
+    },
     {
       "id": "5044644",
       "time": "2026-08-18 00:33:59",
