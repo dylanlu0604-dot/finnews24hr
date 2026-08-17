@@ -1,7 +1,59 @@
 {
   "date": "2026-08-17",
-  "count": 2436,
+  "count": 2442,
   "items": [
+    {
+      "id": "5044539",
+      "time": "2026-08-17 22:41:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想汽車被曝或自研雲端推理晶片】近日，有訊息稱，理想汽車正在探索自研雲端推理晶片，專案仍處早期階段，並可能採用與其車端智駕晶片相近的資料流架構。對此，理想汽車方面表示：“暫時還沒有聽到這方面的訊息。”業內人士認為，隨著智慧駕駛大模型、車載智慧體和多模態互動功能持續演進，智慧汽車背後的雲端推理需求還會繼續增長。未來車企之間的智慧化競爭，或許不只取決於車上有多少算力，也取決於車企能否建立一套支撐模型持續迭代、低成本呼叫和規模化交付的雲端AI基礎設施。（每經）"
+    },
+    {
+      "id": "mkt:01a0102b-c860-7aab-9064-c589e9d254e6",
+      "time": "2026-08-17 22:41:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02015.HK"
+      ],
+      "text": "【Li Auto reportedly exploring in-house cloud inference chip】Li Auto (02015.HK) is reportedly exploring an in-house cloud inference chip; the project is in an early stage and may adopt a dataflow architecture similar to its vehicle-side autonomous driving chip. Li Auto said: \"We have not heard anything about this so far.\" Industry insiders say cloud inference demand will rise as autonomous-driving large models, in-car agents and multimodal interaction evolve. Future competition among automakers may hinge not only on in-vehicle compute but on the ability to build cloud AI infrastructure that supports continuous model iteration, low-cost invocation and scalable delivery."
+    },
+    {
+      "id": "5044538",
+      "time": "2026-08-17 22:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗指責卡達扣押3名伊朗飛行員】近日，伊朗指責三名伊方飛行員遭到卡達方面的扣押，而卡達對此予以否認，雙方爭執不下。8月17日，伊朗外交部發言人巴加埃稱，伊朗正透過外交渠道關注伊朗飛行員的下落，在事情明朗前，伊朗仍然認為失蹤的三名飛行員是被卡達方面俘獲。巴加埃同時表示，伊朗與卡達的外交關係並不與追查伊朗軍方飛行員的下落相沖突。（CCTV國際時訊）"
+    },
+    {
+      "id": "5044537",
+      "time": "2026-08-17 22:40:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達聯手OpenAI鎖定12吉瓦算力基建，黃仁勳：即便OpenAI不續租，還可以給其他客戶】AI（人工智慧）晶片龍頭英偉達披露了在AI基礎設施戰略佈局上的最新動作。8月17日，英偉達CEO黃仁勳發表題為《保障智慧基礎設施安全》（Securing the Infrastructure of Intelligence）的署名文章稱，英偉達已與能源開發商SB Energy達成合作，鎖定位於美國俄亥俄州波特斯茅斯PORTS-Pike科技園區的土地、電力與廠房（LPS）資源。該場地將專門用於承載英偉達算力系統，而OpenAI將作為租戶在此建造並運營AI工廠。黃仁勳在文中指出，AI工廠是AI時代的決定性基礎設施。當前，基礎設施的競爭焦點已從先進晶片與封裝，延伸到了土地、電力與廠房。AI實驗室對訓練和推理算力的需求極其驚人，“更多的算力意味著更高的智慧、更多的產品、更多的使用者以及更高的收入”，但其發展正受到算力供給不足的嚴重製約。如果未來OpenAI無法繼續使用該園區，其算力可以轉售給英偉達全球生態系統中其他符合條件的租戶。黃仁勳強調，英偉達算力具備通用性與可互換性：“可互換性驅動了利用率和永續性，使英偉達算力成為一種可出租、可融資的生產性資產。”因此，PORTS-Pike這種優質場地的價值絕不侷限於單一客戶或單代算力。在文章的最後，黃仁勳梳理了英偉達的戰略進化路徑：從最初製造加速計算晶片，到擴充套件至系統、網路、CUDA軟體，再到全棧AI工廠，如今進一步延伸至幫助客戶鎖定建造這些工廠所需的關鍵底層資源。黃仁勳表示，英偉達未來在LPS上的佈局仍將保持“戰略性與自律性”，絕大多數客戶將繼續獨立獲取LPS資源，英偉達僅會選擇性地鎖定那些具備明確、持久需求且能承載多代算力升級的卓越場地。 隨後，黃仁勳為這項融資計劃正名，回應外界對“迴圈融資”的質疑。他指出，公司可能會為相關合作提供“最高達專案規模25%”的融資支援：“我們的作用是幫助解鎖龐大的獨立資本池，同時保持自律的風險敞口。”（澎湃）"
+    },
+    {
+      "id": "mkt:01a0102a-83a6-7aab-9064-bad7ce71c960",
+      "time": "2026-08-17 22:40:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year."
+    },
+    {
+      "id": "5044536",
+      "time": "2026-08-17 22:38:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。"
+    },
     {
       "id": "5044535",
       "time": "2026-08-17 22:37:28",
