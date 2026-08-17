@@ -1,7 +1,104 @@
 {
   "date": "2026-08-17",
-  "count": 2264,
+  "count": 2275,
   "items": [
+    {
+      "id": "mkt:01a00fd9-2781-7aab-9062-f4104a14a6ea",
+      "time": "2026-08-17 21:11:24",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raised its end-2026 target for Japan's TOPIX to 4,600 from 4,400."
+    },
+    {
+      "id": "5044442",
+      "time": "2026-08-17 21:10:52",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通將日本東證股價指數2026年年終點位目標從4400點上調至4600點。"
+    },
+    {
+      "id": "5044441",
+      "time": "2026-08-17 21:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱襲擊沙特軍艦】當地時間17日，葉門胡塞武裝發言人葉海亞·薩雷亞在社交媒體發文稱，該組織向紅海海域“一艘沙特軍艦及其四艘護衛船隻”發動了導彈襲擊。沙特方面尚未對此作出回應。（央視新聞）"
+    },
+    {
+      "id": "5044440",
+      "time": "2026-08-17 21:10:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯堪察加彼得羅巴甫洛夫斯克以東 72 公里處發生 5.8 級地震。"
+    },
+    {
+      "id": "mkt:01a00fd7-b2f5-7aab-9062-e8a08eb94807",
+      "time": "2026-08-17 21:09:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said the Ports-Pike project is expected to create 35,000 construction jobs during a six-year build ending in 2032 and 2,500 long-term operations jobs."
+    },
+    {
+      "id": "5044439",
+      "time": "2026-08-17 21:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：PORTS-PIKE專案預計在截至2032年的六年建設期內創造35,000個建築崗位，以及2,500個長期運營崗位。"
+    },
+    {
+      "id": "mkt:01a00fd7-1df8-7aab-9062-e141059c295a",
+      "time": "2026-08-17 21:09:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC denies secret-channel talks with US】Iran's Islamic Revolutionary Guard Corps (IRGC) said its officials did not engage in secret-channel talks with the United States, Iranian media reported on 17."
+    },
+    {
+      "id": "mkt:01a00fd6-c659-7aab-9062-db92275de98b",
+      "time": "2026-08-17 21:08:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Traders say strong demand has pushed October-delivered Russian ESPO blend cargoes back into a premium to ICE Brent."
+    },
+    {
+      "id": "5044438",
+      "time": "2026-08-17 21:08:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗媒體17日報道，伊朗伊斯蘭革命衛隊發言人說，革命衛隊官員並未與美國方面透過秘密渠道進行對話。（新華社）"
+    },
+    {
+      "id": "5044437",
+      "time": "2026-08-17 21:08:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，10月裝船的俄羅斯ESPO混合原油實貨已恢復對ICE布倫特原油的升水。"
+    },
+    {
+      "id": "5044436",
+      "time": "2026-08-17 21:07:45",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛：標普 500 指數成分股營收增速創五年新高】高盛表示，剔除能源板塊後，標普 500 成分股二季度營收同比增長 6.4%，為五年來最快增速。大型科技企業成為增長主力；剔除科技板塊後，標普 500 成分股營收中位數僅增長 3%。企業盈利同比大漲近 50%，部分源於科技企業上調私人投資估值。與此同時，企業收到超 1000 億美元關稅退款，這筆意外收益被用於營銷、緩解成本壓力以及下調產品售價。"
+    },
     {
       "id": "5044435",
       "time": "2026-08-17 21:06:21",
