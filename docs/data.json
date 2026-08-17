@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 04:59:19",
-  "count": 15208,
+  "updated": "2026-08-18 05:03:18",
+  "count": 15207,
   "items": [
+    {
+      "id": "5044766",
+      "time": "2026-08-18 05:01:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價漲0.9%，白銀漲1.7%】週一（8月17日）紐約尾盤，現貨黃金漲0.91%，報4416.25美元/盎司，絕大部分時間處於上漲狀態，交投於4367.32-4428.88美元，最近數日持穩於4400美元附近——100日均線近期也膠著於這一水平附近。現貨白銀漲1.72%，報65.7945美元/盎司，已於8月7日漲穿50日均線（該技術指標目前報61.2981美元）。COMEX銅期貨跌0.11%，報6.7070美元/磅，亞太尾盤曾達到6.8420美元，持穩於8月6日頂部6.96美元附近。"
+    },
+    {
+      "id": "5044765",
+      "time": "2026-08-18 04:59:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "牙買加7月消費者價格環比上漲1.2%。"
+    },
     {
       "id": "5044764",
       "time": "2026-08-18 04:56:28",
@@ -139330,34 +139346,6 @@
         "市場"
       ],
       "text": "【國際金價週一漲1.1%，現貨白銀漲3.2%】週一紐約尾盤，現貨黃金漲1.10%，報4389.38美元/盎司。COMEX黃金期貨漲1.10%，報4448.20美元/盎司，逼近6月17日頂部4465.90美元和6月4日頂部4607.40美元。現貨白銀漲3.20%，報65.7089美元/盎司。COMEX白銀期貨漲3.80%，報65.910美元/盎司。COMEX銅期貨漲0.68%，報6.6360美元/磅。現貨鉑金漲0.32%，現貨鈀金漲0.33%。"
-    },
-    {
-      "id": "5034601",
-      "time": "2026-08-11 05:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長表示，國際社會應當就霍爾木茲海峽封鎖所帶來的安全與經濟後果追究美國的責任，並指責美國與以色列造成這條戰略水道局勢動盪。"
-    },
-    {
-      "id": "mkt:019fed79-bfe1-7aab-8fe1-2253709619e8",
-      "time": "2026-08-11 05:00:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IRGC Quds Force commander visits Baghdad, meets Iraqi political bloc and militia leaders】On the evening of the 10th (local time), Iran’s Islamic Revolutionary Guard Corps Quds Force commander Kani arrived in Baghdad and met with the Coordination Framework Alliance, leaders of the Popular Mobilization Forces and commanders of various Iraqi militias. Discussions covered national weapons control and related security issues."
-    },
-    {
-      "id": "5034600",
-      "time": "2026-08-11 04:59:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗“聖城旅”指揮官到訪巴格達 同伊拉克多方會晤】當地時間10日晚，伊拉克安全部門訊息人士稱，伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼當晚抵達巴格達，與伊拉克國民議會最大黨團“協調框架聯盟”、“人民動員組織”及伊拉克各民兵組織領導人舉行會晤，會晤涉及伊拉克國家武器管控等議題。"
     }
   ]
 }
