@@ -1,7 +1,238 @@
 {
-  "updated": "2026-08-17 12:25:36",
-  "count": 15190,
+  "updated": "2026-08-17 12:35:32",
+  "count": 15196,
   "items": [
+    {
+      "id": "5043471",
+      "time": "2026-08-17 12:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國秋糧長勢總體正常 強化管理夯實豐收基礎】記者最新獲悉，從前期排程和各地反映情況看，當前全國秋糧生產有較好基礎，秋糧播種面積預計穩中略增。目前，雙季晚稻栽插已基本結束，秋糧播種面積預計穩中略增，除區域性地方受災外，全國大部分秋糧長勢總體正常。（央視）"
+    },
+    {
+      "id": "5043470",
+      "time": "2026-08-17 12:33:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.5%，至181,005.10點。"
+    },
+    {
+      "id": "mkt:01a00dfe-dd4d-7aab-9056-a2f8b079ebcd",
+      "time": "2026-08-17 12:33:21",
+      "tags": [
+        "MKT News",
+        "BRK.B",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raised its PT on Berkshire Hathaway (BRK.B) to $529 from $481."
+    },
+    {
+      "id": "5043469",
+      "time": "2026-08-17 12:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD Cowen將伯克希爾哈撒韋目標價從721,000美元上調至792,000美元。"
+    },
+    {
+      "id": "mkt:01a00dfd-6e8b-7aab-9056-9a1c07e65d2d",
+      "time": "2026-08-17 12:31:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Nikkei 225"
+      ],
+      "text": "Japanese 30-year government bond yield rose 5.5 bps to 4.065%."
+    },
+    {
+      "id": "mkt:01a00dfd-6c8e-7aab-9056-97e52c9ae921",
+      "time": "2026-08-17 12:31:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan tertiary industry activity index MoM -0.2% in June; previous +1.10%."
+    },
+    {
+      "id": "mkt:01a00dfd-518e-7aab-9056-88bbd2f05732",
+      "time": "2026-08-17 12:31:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tertiary Sector Activity Index (MoM) (Jun) | actual -0.2% | previous 1.10%"
+    },
+    {
+      "id": "mkt:01a00dfd-3811-7aab-9056-803f06512618",
+      "time": "2026-08-17 12:31:33",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Nikkei 225"
+      ],
+      "text": "Japan June final inventories MoM +2.8% (prior +2.3%)."
+    },
+    {
+      "id": "mkt:01a00dfd-2627-7aab-9056-7e6bb5fc0d14",
+      "time": "2026-08-17 12:31:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan June equipment utilization index 107.2, previous 103."
+    },
+    {
+      "id": "mkt:01a00dfd-2146-7aab-9056-75cf37c3b4df",
+      "time": "2026-08-17 12:31:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventories Final (MoM) (Jun) | actual 2.8% | previous 2.3%"
+    },
+    {
+      "id": "5043468",
+      "time": "2026-08-17 12:31:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海南部實彈射擊】據中國海事局網站訊息，連雲港海事局釋出航行警告，8月17日10時至13時，8月18日12時至15時，8月19日14時至17時，8月20日15時至18時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a00dfd-08ab-7aab-9056-6d90742681d0",
+      "time": "2026-08-17 12:31:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (Jun) | actual 107.2 | previous 103"
+    },
+    {
+      "id": "mkt:01a00dfc-f1d4-7aab-9056-627cf04973a7",
+      "time": "2026-08-17 12:31:15",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June industrial production final YoY 4.9% vs prior 4.2%."
+    },
+    {
+      "id": "mkt:01a00dfc-dd72-7aab-9056-5a5b6f712555",
+      "time": "2026-08-17 12:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June industrial capacity utilization index MoM +4.1% (previous +0.10%)."
+    },
+    {
+      "id": "mkt:01a00dfc-dbf1-7aab-9056-55617dafc0e4",
+      "time": "2026-08-17 12:31:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (YoY) (Jun) | actual 4.9% | previous 4.20%"
+    },
+    {
+      "id": "mkt:01a00dfc-bf24-7aab-9056-4ea015d57fa4",
+      "time": "2026-08-17 12:31:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (MoM) (Jun) | actual 4.1% | previous 0.10%"
+    },
+    {
+      "id": "5043467",
+      "time": "2026-08-17 12:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率<JP30YTN=JBTC>上漲5.5個基點，至4.065%。"
+    },
+    {
+      "id": "mkt:01a00dfc-baa9-7aab-9056-4427092bb46c",
+      "time": "2026-08-17 12:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues navigation warning: live-fire drills in southern Yellow Sea】Lianyungang Maritime Safety Administration posted on the China MSA website that parts of the southern Yellow Sea will be closed for live-fire drills. Vessels are prohibited from entering during: Aug 17 10:00–13:00; Aug 18 12:00–15:00; Aug 19 14:00–17:00; Aug 20 15:00–18:00 (all times local)."
+    },
+    {
+      "id": "mkt:01a00dfc-b538-7aab-9056-3bca670c0c47",
+      "time": "2026-08-17 12:31:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June industrial production, final MoM +1.9% (prior +1.3%)."
+    },
+    {
+      "id": "mkt:01a00dfc-9e27-7aab-9056-3320f620b413",
+      "time": "2026-08-17 12:30:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (MoM) (Jun) | actual 1.9% | previous 1.30%"
+    },
+    {
+      "id": "5043466",
+      "time": "2026-08-17 12:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國週末多地發生槍擊事件 】在剛剛過去的這個週末，美國多地發生槍擊事件，導致多人死傷。根據美國“槍支暴力檔案”網站的資料，截至8月16日，今年美國已有8144人死於槍支暴力，超過15000人受傷。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608173842970730",
+      "time": "2026-08-17 12:24:41",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【高盛稱市場對美聯儲加息的預期仍過於激進】高盛集團稱，鑑於全球最大經濟體的通脹正在降溫，目前對美聯儲加息的押注仍然過於激進。該投資銀行的首席經濟學家JanHatzius在致客戶的報告中寫道，由於零售銷售資料下滑，就業人數令人失望，通脹放緩，美聯儲在9月會議上加息已變得“極不可能”。Hatzius在週日釋出的報告中寫道：“根據我們的基線經濟預測，通脹形勢接下來更有可能進一步改善，而不是再次惡化。我們仍然認為市場對聯邦基金利率的定價過於鷹派。”"
+    },
     {
       "id": "5043465",
       "time": "2026-08-17 12:24:23",
@@ -138807,146 +139038,6 @@
         "Impact bullish"
       ],
       "text": "JP Morgan raised its year-end 2026 S&P 500 target to 8,000 from 7,800."
-    },
-    {
-      "id": "5033234",
-      "time": "2026-08-10 12:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日聯科技第10000臺智檢裝備成功交付】近日，日聯科技舉辦第10000臺智慧檢測裝備交付活動，相關智慧檢測裝備成功交付安捷利電子。日聯科技業務現已拓展至半導體先進封裝、儲存晶片、光模組、商業航天、固態電池等前沿產業領域。"
-    },
-    {
-      "id": "5033233",
-      "time": "2026-08-10 12:34:21",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通將標普500指數2026年底目標位從7,800點上調至8,000點。"
-    },
-    {
-      "id": "5033232",
-      "time": "2026-08-10 12:33:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤後上漲0.4%，至182,158.40點。"
-    },
-    {
-      "id": "5033231",
-      "time": "2026-08-10 12:33:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【高溫催熱避暑遊 “清涼目的地”航線機票量同比增長超5倍】這個暑期，避暑遊成為不少人出行的重要主題。記者在多家線上旅遊預訂平臺上發現，西南、西北、華北及東北等方向的清涼目的地客流顯著增長，部分“追涼”航線旅客機票量同比增長超過5倍。記者梳理多家平臺大資料發現，7月西北方向，德令哈、巴里坤等地到達客流同比增幅均超150%；華北方向，張家口到達客流同比增長約170%。此外，記者發現在鄰近貴州的雲南，東南亞遊客正在掀起“避暑熱”，帶動麗江、昆明等目的地熱度快速攀升。線上旅遊預訂平臺大資料顯示，7月麗江入境遊預訂量同比增長1.2倍，其中越南遊客赴麗江、昆明的增幅分別達4.5倍和2.4倍，新加坡及馬來西亞遊客赴雲南的機票預訂量增長超四成。（央視）"
-    },
-    {
-      "id": "mkt:019fe9f2-490e-7aab-8fd0-f02e8ccdb1ee",
-      "time": "2026-08-10 12:33:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin Periodic-Open-Ended Hybrid Fund will suspend trading from the afternoon session open on Aug 10, 2026 through the close of trading that day."
-    },
-    {
-      "id": "te:markets:574002",
-      "time": "2026-08-10 12:31:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Begins Week Lower — India’s BSE Sensex fell about 0.2% to 78,348 on Monday, extending losses from the previous session as investors weighed rising oil prices against easing expectations for a near-term US Federal Reserve rate hike. Investor sentiment received some support from weaker-than-expected US jobs data, which reduced expectations of an imminent Fed Reserve rate hike. The positive global backdrop was partly offset by higher crude prices. Brent crude rose around $84.5 a barrel as uncertainty over the reopening of the Strait of Hormuz continued. Traders will also be watching how the new closing auction behaves as the market enters another week of trading. Among stocks, Titan will be in focus after a sharp rise in quarterly profit, while Dr. Reddy’s ended its distribution agreement with Novartis India. Oil India’s profit more than tripled, while Ola Electric narrowed its first-quarter loss. Top losers were State Bank of India (-1.6%), Kaynes (-1.5%), Cupid (-0.5%), and Hindalco (-0.5%)."
-    },
-    {
-      "id": "5033230",
-      "time": "2026-08-10 12:31:56",
-      "tags": [],
-      "text": "【CPI溫和上漲！紅利低波ETF華泰柏瑞（512890）近5年回報超62％ 機構建議作為底倉配置】8月10日，A股三大指數分化震盪，截至午間收盤，滬指漲0.20％，創指跌2.18％。在此背景下，紅利低波ETF華泰柏瑞（512890）漲0.86％，報1.168元，換手率1.52％，半日成交額4.92億元，居同類標的ETF首位。訊息面上，國家統計局近日釋出資料顯示，7月份居民消費價格指數（CPI）環比下降0.1％，同比上漲0.5％，扣除食品和能源價格的核心CPI環比上漲0.3％，同比上漲0.9％，CPI總體保持溫和上漲；工業生產者出廠價格指數（PPI）環比下降0.7％，同比上漲3.5％，漲幅比6月份回落0.6個百分點。華泰證券表示，展望後市，超跌反彈仍有演繹空間，重點關注創業板指。節奏上，8月中下旬的中報密集期或是檢驗反彈成色的視窗。配置上，錨定中報均衡配置。中期視角下，價效比出海鏈及必需消費處於增配視窗。紅利底倉繼續持有，結構上，重點配置銀行與交運。國信證券指出，A股高景氣行業股價頂部往往呈現“M頂”形態，這一次科技行情或也不例外。M頂第二波機會需要產業層面分歧消除且擁擠度回落，目前AI科技M頂第二波行情的啟動因素正在累積。擾動後A股牛途繼續，結構上均衡佈局，成長或向AI應用擴散，重視紅利，以及基本面較優的醫藥券商、受益政策的內需。投資者可將紅利低波ETF華泰柏瑞（512890）作為底倉配置，無股票賬戶的投資者也可透過其場外聯接基金進行配置（A類：007466；C類：007467；I類：022678；Y類：022951）。"
-    },
-    {
-      "id": "mkt:019fe9f0-e5cc-7aab-8fd0-ecf33377dd81",
-      "time": "2026-08-10 12:31:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Senior US defense official Colby said the United States will absolutely not withdraw from Asia."
-    },
-    {
-      "id": "5033229",
-      "time": "2026-08-10 12:30:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【法巴：亞洲料將抵禦潛在的AI投資放緩】法國巴黎銀行亞太區市場策略師Chi Lo表示，亞洲將能夠抵禦潛在的AI投資放緩。自6月底以來，主要AI相關股票的拋售引發了亞洲投資者的擔憂，因為強勁的資本支出一直是該地區增長前景的關鍵驅動力。不過，Lo認為，可再生能源轉型、能源安全投資和國防支出將支援AI和半導體以外的工業和資本支出。強勁的資本支出也反映在強勁的資本貨物進口和處於多年高位的工業增長指標上。該地區的企業資產負債表保持健康，近40%的亞洲（除日本外）公司淨現金為正。法國巴黎銀行表示，市場預計2027年至2031年該地區的資本支出將以16%的複合年增長率增長。"
-    },
-    {
-      "id": "5033228",
-      "time": "2026-08-10 12:29:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階國防官員科爾比：美國絕對不會從亞洲抽身。"
-    },
-    {
-      "id": "5033227",
-      "time": "2026-08-10 12:29:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國學校設金屬探測器防再出槍擊案】今天（8月10日），泰國曼谷市中心的一些學校加強了安保措施，包括設定金屬探測器進行安檢。上週五（8月7日），曼谷以北暖武裡府的一所中學發生槍擊事件。一名14歲的學生在家殺害祖父母后，又帶槍進入校園，殺害了至少6人，打傷20多人，隨後飲彈自盡。警方稱，槍手使用了其祖父的一把手槍，至少射擊了26發子彈，現場還發現了另外34發子彈。這是自2022年以來泰國最嚴重的群體性槍擊事件。這起慘劇再次引發了人們對這個東南亞最大擁槍國槍支管控的討論。泰國總理阿努廷在案發後表示，政府擬提議一項新的槍支管控方案來限制公眾攜帶槍支，“相關部門必須加強監管槍支援有情況，除執行公務，無論是政府官員還是普通民眾，不得攜槍支進入公共場所”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5033226",
-      "time": "2026-08-10 12:28:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風減弱≠影響結束！警惕“三碰頭”疊加風險】“白海豚”雖已減弱為熱帶風暴級，但影響遠未結束。福建省海峽氣象科學研究所副所長、高階工程師陳思提醒，需高度警惕颱風影響期間可能帶來的“三碰頭”疊加風險。何為“三碰頭”？“三碰頭”也叫“風雨潮三碰頭”，指的是颱風帶來的強風、暴雨與天文大潮在相近時間、同一沿海區域疊加出現的極端情況。陳思解釋，風、雨、潮三者本就各有威力，一旦“碰頭”，破壞力將呈幾何級放大。“三碰頭”的危害主要體現為：狂風肆虐，破壞力極強；暴雨傾盆，洪澇風險陡增；潮位頂託，海水倒灌風險高。（央視）"
-    },
-    {
-      "id": "5033225",
-      "time": "2026-08-10 12:28:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "烏茲別克7月份官方外匯儲備增至643.47億美元。"
-    },
-    {
-      "id": "5033224",
-      "time": "2026-08-10 12:27:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【安本投資：9月加息與否機率相若 不排除美聯儲為顯示抗通脹決心而加息】安本投資亞洲固定收益高階投資經理邴竹君接受媒體專訪時認為，現時加息與不加息的機率相若，但不排除美聯儲為展示其抗通脹的決心，被迫在9月加息。邴竹君表示，美聯儲於最近一次會議維持利率不變，但有3位委員支援加息，說明美聯儲內部對通脹風險存在分歧，目前9月加息與不加息的比例很接近，但仍要留意油價、通脹資料及中東局勢的發展。邴竹君表示，“如果通脹壓力大、沒有緩和跡象，霍爾木茲海峽持續封閉，油價反彈到90美元甚至100美元以上，加息的機會將進一步提升。目前中東局勢反覆，海峽那邊也比較緊張，能源價格有可能進一步提升。”"
-    },
-    {
-      "id": "mkt:019fe9ec-60ee-7aab-8fd0-e1669a0fb5cd",
-      "time": "2026-08-10 12:26:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Airports Company CEO said war-affected airports have resumed operations despite sustaining significant damage."
-    },
-    {
-      "id": "5033223",
-      "time": "2026-08-10 12:26:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【健世科技-B預計中期收入同比增加385%至400%】健世科技-B(09877)釋出公告，集團預期截至2026年6月30日止六個月實現收入人民幣約6300萬元至6500萬元，同比增加385%至400%。其他收入及收益人民幣約900萬至1100萬元，共計人民幣約7200萬至7600萬元，與上年同期相比，將增加人民幣4700萬元至5100萬元，同比增加188%至204%。報告期間業績增長的主要原因包括：1.集團經導管人工主動脈瓣膜系統Ken-Valve商業化持續實現穩健收入增長。Ken-Valve可適用於主動脈瓣反流或合併狹窄，其產品設計特點及操作效能的優勢使得術式快速在多層級醫療機構推廣應用;2.集團多款結構性心臟病介入類產品積極於海外開展收費臨床植入。產品的良好臨床效果和應用優勢獲得全球關鍵意見領袖及專家的高度評價，可滿足全球龐大的結構性心臟病長期未被滿足的臨床需求。"
     }
   ]
 }

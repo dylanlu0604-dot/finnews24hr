@@ -1,7 +1,238 @@
 {
   "date": "2026-08-17",
-  "count": 824,
+  "count": 846,
   "items": [
+    {
+      "id": "5043471",
+      "time": "2026-08-17 12:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國秋糧長勢總體正常 強化管理夯實豐收基礎】記者最新獲悉，從前期排程和各地反映情況看，當前全國秋糧生產有較好基礎，秋糧播種面積預計穩中略增。目前，雙季晚稻栽插已基本結束，秋糧播種面積預計穩中略增，除區域性地方受災外，全國大部分秋糧長勢總體正常。（央視）"
+    },
+    {
+      "id": "5043470",
+      "time": "2026-08-17 12:33:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.5%，至181,005.10點。"
+    },
+    {
+      "id": "mkt:01a00dfe-dd4d-7aab-9056-a2f8b079ebcd",
+      "time": "2026-08-17 12:33:21",
+      "tags": [
+        "MKT News",
+        "BRK.B",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raised its PT on Berkshire Hathaway (BRK.B) to $529 from $481."
+    },
+    {
+      "id": "5043469",
+      "time": "2026-08-17 12:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD Cowen將伯克希爾哈撒韋目標價從721,000美元上調至792,000美元。"
+    },
+    {
+      "id": "mkt:01a00dfd-6e8b-7aab-9056-9a1c07e65d2d",
+      "time": "2026-08-17 12:31:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Nikkei 225"
+      ],
+      "text": "Japanese 30-year government bond yield rose 5.5 bps to 4.065%."
+    },
+    {
+      "id": "mkt:01a00dfd-6c8e-7aab-9056-97e52c9ae921",
+      "time": "2026-08-17 12:31:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan tertiary industry activity index MoM -0.2% in June; previous +1.10%."
+    },
+    {
+      "id": "mkt:01a00dfd-518e-7aab-9056-88bbd2f05732",
+      "time": "2026-08-17 12:31:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tertiary Sector Activity Index (MoM) (Jun) | actual -0.2% | previous 1.10%"
+    },
+    {
+      "id": "mkt:01a00dfd-3811-7aab-9056-803f06512618",
+      "time": "2026-08-17 12:31:33",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Nikkei 225"
+      ],
+      "text": "Japan June final inventories MoM +2.8% (prior +2.3%)."
+    },
+    {
+      "id": "mkt:01a00dfd-2627-7aab-9056-7e6bb5fc0d14",
+      "time": "2026-08-17 12:31:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan June equipment utilization index 107.2, previous 103."
+    },
+    {
+      "id": "mkt:01a00dfd-2146-7aab-9056-75cf37c3b4df",
+      "time": "2026-08-17 12:31:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventories Final (MoM) (Jun) | actual 2.8% | previous 2.3%"
+    },
+    {
+      "id": "mkt:01a00dfd-08ab-7aab-9056-6d90742681d0",
+      "time": "2026-08-17 12:31:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (Jun) | actual 107.2 | previous 103"
+    },
+    {
+      "id": "5043468",
+      "time": "2026-08-17 12:31:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海南部實彈射擊】據中國海事局網站訊息，連雲港海事局釋出航行警告，8月17日10時至13時，8月18日12時至15時，8月19日14時至17時，8月20日15時至18時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a00dfc-f1d4-7aab-9056-627cf04973a7",
+      "time": "2026-08-17 12:31:15",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June industrial production final YoY 4.9% vs prior 4.2%."
+    },
+    {
+      "id": "mkt:01a00dfc-dd72-7aab-9056-5a5b6f712555",
+      "time": "2026-08-17 12:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June industrial capacity utilization index MoM +4.1% (previous +0.10%)."
+    },
+    {
+      "id": "mkt:01a00dfc-dbf1-7aab-9056-55617dafc0e4",
+      "time": "2026-08-17 12:31:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (YoY) (Jun) | actual 4.9% | previous 4.20%"
+    },
+    {
+      "id": "mkt:01a00dfc-bf24-7aab-9056-4ea015d57fa4",
+      "time": "2026-08-17 12:31:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (MoM) (Jun) | actual 4.1% | previous 0.10%"
+    },
+    {
+      "id": "mkt:01a00dfc-baa9-7aab-9056-4427092bb46c",
+      "time": "2026-08-17 12:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues navigation warning: live-fire drills in southern Yellow Sea】Lianyungang Maritime Safety Administration posted on the China MSA website that parts of the southern Yellow Sea will be closed for live-fire drills. Vessels are prohibited from entering during: Aug 17 10:00–13:00; Aug 18 12:00–15:00; Aug 19 14:00–17:00; Aug 20 15:00–18:00 (all times local)."
+    },
+    {
+      "id": "5043467",
+      "time": "2026-08-17 12:31:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率<JP30YTN=JBTC>上漲5.5個基點，至4.065%。"
+    },
+    {
+      "id": "mkt:01a00dfc-b538-7aab-9056-3bca670c0c47",
+      "time": "2026-08-17 12:31:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June industrial production, final MoM +1.9% (prior +1.3%)."
+    },
+    {
+      "id": "mkt:01a00dfc-9e27-7aab-9056-3320f620b413",
+      "time": "2026-08-17 12:30:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (MoM) (Jun) | actual 1.9% | previous 1.30%"
+    },
+    {
+      "id": "5043466",
+      "time": "2026-08-17 12:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國週末多地發生槍擊事件 】在剛剛過去的這個週末，美國多地發生槍擊事件，導致多人死傷。根據美國“槍支暴力檔案”網站的資料，截至8月16日，今年美國已有8144人死於槍支暴力，超過15000人受傷。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608173842970730",
+      "time": "2026-08-17 12:24:41",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【高盛稱市場對美聯儲加息的預期仍過於激進】高盛集團稱，鑑於全球最大經濟體的通脹正在降溫，目前對美聯儲加息的押注仍然過於激進。該投資銀行的首席經濟學家JanHatzius在致客戶的報告中寫道，由於零售銷售資料下滑，就業人數令人失望，通脹放緩，美聯儲在9月會議上加息已變得“極不可能”。Hatzius在週日釋出的報告中寫道：“根據我們的基線經濟預測，通脹形勢接下來更有可能進一步改善，而不是再次惡化。我們仍然認為市場對聯邦基金利率的定價過於鷹派。”"
+    },
     {
       "id": "5043465",
       "time": "2026-08-17 12:24:23",
