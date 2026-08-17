@@ -1,7 +1,82 @@
 {
   "date": "2026-08-17",
-  "count": 792,
+  "count": 799,
   "items": [
+    {
+      "id": "mkt:01a00de8-c8d6-7aab-9055-f23b8797bf56",
+      "time": "2026-08-17 12:09:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD climbed to 0.71, up 0.25% intraday."
+    },
+    {
+      "id": "5043449",
+      "time": "2026-08-17 12:09:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國兩大水庫水位相繼跌至歷史最低點】受持續嚴重乾旱影響，繼美國第一大水庫米德湖的水位本月7日降至歷史最低點後，其上游的美國第二大水庫鮑威爾湖水位15日也跌破歷史紀錄。美國專家指出，這凸顯出被稱為美國西南部“生命之河”的科羅拉多河正面臨嚴峻危機。（新華社）"
+    },
+    {
+      "id": "5043448",
+      "time": "2026-08-17 12:08:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【位元組跳動在昆明成立新公司 註冊資本7億】天眼查App顯示，昆明貝葉數擎科技有限公司近日成立，法定代表人為邱京昊，註冊資本7億人民幣，企業型別為有限責任公司（外商投資企業法人獨資），登記狀態為存續，註冊地址位於磨憨 - 磨丁合作區口岸圍網區數字經濟產業園。該公司經營範圍包含軟體開發、資訊系統整合服務、資訊科技諮詢服務、計算機軟硬體及輔助裝置零售等。股東資訊顯示，北京字跳網路技術有限公司持有該公司100%股權，認繳出資7億人民幣。"
+    },
+    {
+      "id": "te:markets:575680",
+      "time": "2026-08-17 12:08:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Copper Jumps on Supply Concerns — Copper futures jumped above $6.7 per pound on Monday, moving toward fresh record highs amid further signs of tightening global supply. China’s refined copper output is expected to decline for a second consecutive month in August as persistent shortages of copper concentrate and other smelter feedstocks continue to weigh on operating rates, highlighting increasingly tight raw material availability. At the same time, tighter domestic tax-invoice regulations have reduced the availability of VAT-compliant recycled copper, limiting another key source of smelter feedstock and putting further pressure on refined output. In top producer Chile, state-owned miner Codelco reportedly expects copper production to decline this year as it faces setbacks at its mines and development projects. Traders also remained cautious about potential US import tariffs on copper, which have continued to divert metal away from international markets and into US warehouses."
+    },
+    {
+      "id": "mkt:01a00de7-d1dd-7aab-9055-ed90024d6fd5",
+      "time": "2026-08-17 12:08:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03986.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng Tech up 2% as semiconductors rally】Hong Kong stocks rose at midday; the Hang Seng gained 1.61% to 25,521.99 and the Hang Seng TECH Index climbed 2.01% to 4,802.32, led by strength in semiconductors. Ports & shipping, software development and esports sectors advanced; nonferrous metals were active while IT services and forestry underperformed. Selected movers: SenseTime (00020.HK) +10.68%; Yangtze Optical Fibre & Cable (06869.HK), Hua Hong (01347.HK) and SMIC (00981.HK) each >+7%; GigaDevice (03986.HK) +6.85%; Kingboard Laminates (01888.HK) and Kingboard Holdings (00148.HK) >+5%; Montage Technology (06809.HK), Leapmotor (09863.HK) and WuXi AppTec (02359.HK) >+4%; Chalco (02600.HK) and XPeng (09868.HK) >+3%. Decliners included MINISO (09896.HK) -7.5%, Zhipu Technology (02513.HK) -5.9% and Lenovo Group (00992.HK) -1%."
+    },
+    {
+      "id": "mkt:01a00de7-72cf-7aab-9055-e1c5cc7b1838",
+      "time": "2026-08-17 12:07:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "9513.T",
+        "Impact bullish"
+      ],
+      "text": "J-Power will build a data center in Kaminokuni Town, Hokkaido, and begin selling GPU compute capacity to external customers from summer 2027."
+    },
+    {
+      "id": "5043447",
+      "time": "2026-08-17 12:07:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "AI影片初創企業 Higgsfield 完成 4 億美元融資，估值 54 億美元，投資方包括高盛、英特爾和DST GLOBAL等。"
+    },
     {
       "id": "5043446",
       "time": "2026-08-17 12:05:25",

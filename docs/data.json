@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-17 12:06:21",
-  "count": 15181,
+  "updated": "2026-08-17 12:10:13",
+  "count": 15184,
   "items": [
+    {
+      "id": "mkt:01a00de8-c8d6-7aab-9055-f23b8797bf56",
+      "time": "2026-08-17 12:09:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD climbed to 0.71, up 0.25% intraday."
+    },
+    {
+      "id": "5043449",
+      "time": "2026-08-17 12:09:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國兩大水庫水位相繼跌至歷史最低點】受持續嚴重乾旱影響，繼美國第一大水庫米德湖的水位本月7日降至歷史最低點後，其上游的美國第二大水庫鮑威爾湖水位15日也跌破歷史紀錄。美國專家指出，這凸顯出被稱為美國西南部“生命之河”的科羅拉多河正面臨嚴峻危機。（新華社）"
+    },
+    {
+      "id": "5043448",
+      "time": "2026-08-17 12:08:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【位元組跳動在昆明成立新公司 註冊資本7億】天眼查App顯示，昆明貝葉數擎科技有限公司近日成立，法定代表人為邱京昊，註冊資本7億人民幣，企業型別為有限責任公司（外商投資企業法人獨資），登記狀態為存續，註冊地址位於磨憨 - 磨丁合作區口岸圍網區數字經濟產業園。該公司經營範圍包含軟體開發、資訊系統整合服務、資訊科技諮詢服務、計算機軟硬體及輔助裝置零售等。股東資訊顯示，北京字跳網路技術有限公司持有該公司100%股權，認繳出資7億人民幣。"
+    },
+    {
+      "id": "te:markets:575680",
+      "time": "2026-08-17 12:08:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Copper Jumps on Supply Concerns — Copper futures jumped above $6.7 per pound on Monday, moving toward fresh record highs amid further signs of tightening global supply. China’s refined copper output is expected to decline for a second consecutive month in August as persistent shortages of copper concentrate and other smelter feedstocks continue to weigh on operating rates, highlighting increasingly tight raw material availability. At the same time, tighter domestic tax-invoice regulations have reduced the availability of VAT-compliant recycled copper, limiting another key source of smelter feedstock and putting further pressure on refined output. In top producer Chile, state-owned miner Codelco reportedly expects copper production to decline this year as it faces setbacks at its mines and development projects. Traders also remained cautious about potential US import tariffs on copper, which have continued to divert metal away from international markets and into US warehouses."
+    },
+    {
+      "id": "mkt:01a00de7-d1dd-7aab-9055-ed90024d6fd5",
+      "time": "2026-08-17 12:08:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03986.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng Tech up 2% as semiconductors rally】Hong Kong stocks rose at midday; the Hang Seng gained 1.61% to 25,521.99 and the Hang Seng TECH Index climbed 2.01% to 4,802.32, led by strength in semiconductors. Ports & shipping, software development and esports sectors advanced; nonferrous metals were active while IT services and forestry underperformed. Selected movers: SenseTime (00020.HK) +10.68%; Yangtze Optical Fibre & Cable (06869.HK), Hua Hong (01347.HK) and SMIC (00981.HK) each >+7%; GigaDevice (03986.HK) +6.85%; Kingboard Laminates (01888.HK) and Kingboard Holdings (00148.HK) >+5%; Montage Technology (06809.HK), Leapmotor (09863.HK) and WuXi AppTec (02359.HK) >+4%; Chalco (02600.HK) and XPeng (09868.HK) >+3%. Decliners included MINISO (09896.HK) -7.5%, Zhipu Technology (02513.HK) -5.9% and Lenovo Group (00992.HK) -1%."
+    },
+    {
+      "id": "mkt:01a00de7-72cf-7aab-9055-e1c5cc7b1838",
+      "time": "2026-08-17 12:07:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "9513.T",
+        "Impact bullish"
+      ],
+      "text": "J-Power will build a data center in Kaminokuni Town, Hokkaido, and begin selling GPU compute capacity to external customers from summer 2027."
+    },
+    {
+      "id": "5043447",
+      "time": "2026-08-17 12:07:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "AI影片初創企業 Higgsfield 完成 4 億美元融資，估值 54 億美元，投資方包括高盛、英特爾和DST GLOBAL等。"
+    },
     {
       "id": "5043446",
       "time": "2026-08-17 12:05:25",
@@ -138811,39 +138886,6 @@
         "公司"
       ],
       "text": "【中國神華在內蒙古成立煤炭技術研究院公司】企查查APP顯示，近日，國能（內蒙古）煤炭技術研究院有限公司成立，註冊資本10億元，經營範圍包含工程和技術研究和試驗發展；規劃設計管理；碳減排、碳轉化、碳捕捉、碳封存技術研發等。企查查股權穿透顯示，該公司由中國神華全資持股。"
-    },
-    {
-      "id": "5033210",
-      "time": "2026-08-10 12:09:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南：支援“投貸聯動” 重點培育一批具有影響力的創業投資機構】海南省人民政府辦公廳近日印發《海南省關於進一步深化投融資改革的若干舉措》，其中提出，提升創業投資便利化。支援“投貸聯動”，重點培育一批具有影響力的創業投資機構；鼓勵銀行機構加強與創業投資機構合作，為企業提供“股權+債權”全生命週期金融服務。符合條件的外商投資企業從事創業投資，依法依規享受相關稅收優惠政策，吸引境內外知名創業投資機構落戶。"
-    },
-    {
-      "id": "5033209",
-      "time": "2026-08-10 12:09:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國導彈與無人機攔截器初創企業劍橋航空航天公司以34億美元的估值融資3億美元。"
-    },
-    {
-      "id": "5033207",
-      "time": "2026-08-10 12:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津發布暴雨橙色預警】天津市氣象臺於2026年8月10日10時43分發布暴雨橙色預警訊號：預計8月11日夜間至13日白天，天津市有暴雨，大部分地區累計雨量70-100毫米，薊州、武清、西青、靜海、濱海新區南部區域性100-150毫米，個別點累計雨量可達200毫米以上，主要降雨時段在12日。強降雨易引發城市積澇，山區及淺山區有發生中小河流洪水、山洪、地質災害的風險，低窪地區易發生農田漬澇，請有關單位和人員做好防範準備。"
-    },
-    {
-      "id": "5033206",
-      "time": "2026-08-10 12:06:43",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【北京君正二闖港交所，已透過港交所聆訊】8月10日，據港交所披露的資訊顯示，北京君正積體電路股份有限公司更新聆訊後資料集，該公司港交所IPO透過聆訊，獨家保薦人為國泰君安國際。公司於今年5月26日再次向香港聯交所遞交主機板上市申請。此前，公司已於6月24日收到中國證監會出具的境外發行上市備案通知書，核准其發行不超過61658000股境外上市普通股並在港交所上市。招股書顯示，北京君正是一家全球化的“儲存+計算+模擬”晶片提供商，產品廣泛應用於汽車電子、工業醫療、AIoT及智慧安防裝置。"
     }
   ]
 }
