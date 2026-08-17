@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-18 02:48:08",
-  "count": 15268,
+  "updated": "2026-08-18 02:52:02",
+  "count": 15262,
   "items": [
+    {
+      "id": "5044725",
+      "time": "2026-08-18 02:48:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶90.87美元，上漲2.35美元，漲幅2.65%。"
+    },
+    {
+      "id": "5044724",
+      "time": "2026-08-18 02:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日駐俄大使一度未接受俄方召見】俄羅斯外長拉夫羅夫8月17日在評論日本方面針對俄羅斯總統普京登上俄日爭議島嶼的表態時證實，俄羅斯外交部近日連續召見日本駐俄羅斯大使武藤顯，可日本駐俄大使館卻以武藤“不在莫斯科”或“身體不適”等理由回應，稱武藤無法接受召見。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0110d-2ee0-7aab-9068-6d18db9c1009",
+      "time": "2026-08-18 02:47:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $90.87 a barrel, up $2.35 or 2.65%."
+    },
     {
       "id": "mkt:01a0110c-f854-7aab-9068-6091c547e086",
       "time": "2026-08-18 02:47:37",
@@ -139807,102 +139835,6 @@
         "市場"
       ],
       "text": "美元/日元上漲1%，報159.32。"
-    },
-    {
-      "id": "mkt:019fed04-7a9c-7aab-8fdf-7bf84be6eddf",
-      "time": "2026-08-11 02:52:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. July average temperature highest on record since 1895】NOAA data show July was the hottest month on record for the contiguous U.S., with the lower 48 averaging 3.3°F above 20th-century levels. A prolonged, intense heat dome drove record monthly highs from the East Coast through the Great Plains and the Southwest; July’s nationwide average was roughly 0.1–0.2°F higher than previous record months in July 1936 and July 2012."
-    },
-    {
-      "id": "mkt:019fed04-6f6f-7aab-8fdf-7636000c2947",
-      "time": "2026-08-11 02:51:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's HAMMACK said markets are a complement to the Fed, not a substitute."
-    },
-    {
-      "id": "mkt:019fed03-a606-7aab-8fdf-688df48acf47",
-      "time": "2026-08-11 02:51:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Hammack said the labor market still shows no signs of problems."
-    },
-    {
-      "id": "mkt:019fed03-4e1d-7aab-8fdf-64ea244661c9",
-      "time": "2026-08-11 02:50:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed's Hammack said he does not expect inf to fall on its own."
-    },
-    {
-      "id": "5034520",
-      "time": "2026-08-11 02:50:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：我們必須以行動兌現言辭。"
-    },
-    {
-      "id": "5034519",
-      "time": "2026-08-11 02:50:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：市場是美聯儲的補充，而非替代品。"
-    },
-    {
-      "id": "5034518",
-      "time": "2026-08-11 02:49:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：目前仍未看到就業市場出現問題。"
-    },
-    {
-      "id": "mkt:019fed02-5b15-7aab-8fdf-5cbbb47de3e9",
-      "time": "2026-08-11 02:49:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's Harmak said current interest rates are not materially restraining the economy, and it is time for the Fed to act."
-    },
-    {
-      "id": "5034517",
-      "time": "2026-08-11 02:49:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：不認為通脹會自行回落。"
     }
   ]
 }
