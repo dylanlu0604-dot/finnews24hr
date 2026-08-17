@@ -1,7 +1,44 @@
 {
   "date": "2026-08-18",
-  "count": 212,
+  "count": 216,
   "items": [
+    {
+      "id": "5044741",
+      "time": "2026-08-18 03:28:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：特斯拉準備於 8 月推出 Cybercab 無人駕駛計程車。"
+    },
+    {
+      "id": "5044740",
+      "time": "2026-08-18 03:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據《泰晤士報》：美國貿易代表格里爾稱，特朗普揚言對英國徵收 100% 關稅並非虛張聲勢。"
+    },
+    {
+      "id": "mkt:01a01131-42d6-7aab-9068-de96ec75d5c4",
+      "time": "2026-08-18 03:27:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls on 17th】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.03% to 99.636 at the New York close. At the close the euro was $1.1572 (prior $1.1566); the pound $1.3538 (prior $1.3533). The dollar was 159.59 yen (prior 159.38); 0.8115 Swiss franc (prior 0.8131); 1.3877 Canadian dollar (unchanged); and 9.5193 Swedish krona (prior 9.5246)."
+    },
+    {
+      "id": "5044739",
+      "time": "2026-08-18 03:27:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數17日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於99.636。截至紐約匯市尾市，1歐元兌換1.1572美元，高於前一交易日的1.1566美元；1英鎊兌換1.3538美元，高於前一交易日的1.3533美元。1美元兌換159.59日元，高於前一交易日的159.38日元；1美元兌換0.8115瑞士法郎，低於前一交易日的0.8131瑞士法郎；1美元兌換1.3877加元，與前一交易日持平；1美元兌換9.5193瑞典克朗，低於前一交易日的9.5246瑞典克朗。"
+    },
     {
       "id": "mkt:01a0112e-ac72-7aab-9068-d0d05c8cd8b5",
       "time": "2026-08-18 03:24:26",
