@@ -1,7 +1,67 @@
 {
   "date": "2026-08-17",
-  "count": 2369,
+  "count": 2376,
   "items": [
+    {
+      "id": "mkt:01a0100c-c221-7aab-9064-0ec80b25ec44",
+      "time": "2026-08-17 22:07:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rises for second day】The Baltic Dry Index (BDI) rose for a second session, up 15 points (0.52%) to 2,878 as gains in Capesize freight outweighed weakness in Panamax rates. The Capesize index (BCI) climbed 52 points (1.2%) to 4,590; Capesize daily earnings rose $470 to $38,122. The Panamax index (BPI) fell 22 points (1%) to 2,206, its lowest since Aug. 4; Panamax daily earnings dropped $202 to $19,853. Supramax (BSI) added 6 points (0.4%) to 1,628, a high since July 28. Handysize (BHSI) slipped 2 points to 864."
+    },
+    {
+      "id": "5044499",
+      "time": "2026-08-17 22:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：媒體表示用管道替代霍爾木茲海峽的方案可行性不大。 伊拉克‑敘利亞石油通道專案至少需要四年工期以及 150 億美元資金，而伊拉克資金短缺，且專案週期漫長。"
+    },
+    {
+      "id": "mkt:01a0100b-9a92-7aab-9064-0292fb6ce183",
+      "time": "2026-08-17 22:06:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Glencore invested in Radiant World via a warrant transaction maturing end‑2025; Glencore has not exercised those warrants."
+    },
+    {
+      "id": "te:economy:575884",
+      "time": "2026-08-17 22:05:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Nahb Housing Market Index",
+        "Importance 1"
+      ],
+      "text": "US Homebuilder Sentiment Recovers in August — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, inched up to 25 in August of 2026 from 34 in the previous month. The result contrasted with expectations that it would ease to 33. Current sales conditions rose by two points from the previous month to 39, while sales expectations over the next six months were unchanged at 43. Despite this, 35% of builders were forced to cut prices in August, down two percentage points from July. Among those, the average price reduction was 6%."
+    },
+    {
+      "id": "5044498",
+      "time": "2026-08-17 22:05:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "嘉能可在 2025 年末透過認股權證交易支援 Radiant World 公司。"
+    },
+    {
+      "id": "5044497",
+      "time": "2026-08-17 22:05:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "汽車製造商斯泰蘭蒂斯表示，因無線電軟體可能導致倒車攝像頭無法顯示影像，該公司將召回95.5萬輛汽車。"
+    },
+    {
+      "id": "mkt:01a01009-aa1b-7aab-9063-fe8aafe0a29e",
+      "time": "2026-08-17 22:04:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's supreme leader said he will remain vigilant and actively safeguard Iran's interests."
+    },
     {
       "id": "em:jjsj_mgsj:202608173843536058",
       "time": "2026-08-17 22:01:59",
