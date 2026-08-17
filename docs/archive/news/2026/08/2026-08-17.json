@@ -1,7 +1,302 @@
 {
   "date": "2026-08-17",
-  "count": 2128,
+  "count": 2157,
   "items": [
+    {
+      "id": "5044370",
+      "time": "2026-08-17 20:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5044369",
+      "time": "2026-08-17 20:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）"
+    },
+    {
+      "id": "5044368",
+      "time": "2026-08-17 20:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。"
+    },
+    {
+      "id": "5044367",
+      "time": "2026-08-17 20:32:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）"
+    },
+    {
+      "id": "5044366",
+      "time": "2026-08-17 20:31:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲隔夜回購操作未收到任何投標。"
+    },
+    {
+      "id": "mkt:01a00fb4-32c2-7aab-9061-b023c67a0535",
+      "time": "2026-08-17 20:31:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously."
+    },
+    {
+      "id": "mkt:01a00fb4-03b9-7aab-9061-af9f9e45dee0",
+      "time": "2026-08-17 20:30:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6"
+    },
+    {
+      "id": "mkt:01a00fb3-f510-7aab-9061-a6682da0dcba",
+      "time": "2026-08-17 20:30:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4."
+    },
+    {
+      "id": "mkt:01a00fb3-d470-7aab-9061-9ca506c27641",
+      "time": "2026-08-17 20:30:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608173843424260",
+      "time": "2026-08-17 20:30:36",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。"
+    },
+    {
+      "id": "mkt:01a00fb3-c33f-7aab-9061-9249bee93a03",
+      "time": "2026-08-17 20:30:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2."
+    },
+    {
+      "id": "mkt:01a00fb3-a2da-7aab-9061-88bd9634a757",
+      "time": "2026-08-17 20:30:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2"
+    },
+    {
+      "id": "mkt:01a00fb3-94d8-7aab-9061-85575f629526",
+      "time": "2026-08-17 20:30:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln."
+    },
+    {
+      "id": "5044365",
+      "time": "2026-08-17 20:30:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。"
+    },
+    {
+      "id": "mkt:01a00fb3-890b-7aab-9061-7806bd3397cc",
+      "time": "2026-08-17 20:30:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada July core CPI YoY 2.3% vs prev 2.1%."
+    },
+    {
+      "id": "5044364",
+      "time": "2026-08-17 20:30:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。"
+    },
+    {
+      "id": "mkt:01a00fb3-7974-7aab-9061-7671bd27d4a5",
+      "time": "2026-08-17 20:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln."
+    },
+    {
+      "id": "mkt:01a00fb3-7919-7aab-9061-683b2931157e",
+      "time": "2026-08-17 20:30:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June."
+    },
+    {
+      "id": "mkt:01a00fb3-7908-7aab-9061-63440377b931",
+      "time": "2026-08-17 20:30:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior."
+    },
+    {
+      "id": "mkt:01a00fb3-78a5-7aab-9061-5e5957462d10",
+      "time": "2026-08-17 20:30:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%."
+    },
+    {
+      "id": "mkt:01a00fb3-784b-7aab-9061-568915c7c119",
+      "time": "2026-08-17 20:30:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6."
+    },
+    {
+      "id": "mkt:01a00fb3-633e-7aab-9061-4c25ab4c069c",
+      "time": "2026-08-17 20:30:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade."
+    },
+    {
+      "id": "mkt:01a00fb3-4260-7aab-9061-44a9dd89a34e",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B"
+    },
+    {
+      "id": "mkt:01a00fb3-41ba-7aab-9061-3b224f2d1b59",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%"
+    },
+    {
+      "id": "mkt:01a00fb3-41b9-7aab-9061-370629b387f9",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%"
+    },
+    {
+      "id": "mkt:01a00fb3-41b7-7aab-9061-2887dbde48af",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B"
+    },
+    {
+      "id": "mkt:01a00fb3-4191-7aab-9061-268b9ed40d8e",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%"
+    },
+    {
+      "id": "mkt:01a00fb3-4150-7aab-9061-1e13e372b6e6",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%"
+    },
+    {
+      "id": "mkt:01a00fb3-3e2b-7aab-9061-1408a447cf1b",
+      "time": "2026-08-17 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6"
+    },
     {
       "id": "5044363",
       "time": "2026-08-17 20:29:33",
