@@ -1,7 +1,63 @@
 {
   "date": "2026-08-18",
-  "count": 216,
+  "count": 222,
   "items": [
+    {
+      "id": "mkt:01a01135-d8e3-7aab-9068-f223522ac830",
+      "time": "2026-08-18 03:32:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "The Times reports that when asked whether the UK would face a deadline to repeal its digital services tax, US Trade Representative Greer said the US would not set an artificial timetable."
+    },
+    {
+      "id": "mkt:01a01135-ce46-7aab-9068-eebe316956d5",
+      "time": "2026-08-18 03:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Kim Jong Un responded to his request for talks】On Aug. 17 ET at the White House, President Trump said North Korean leader Kim Jong Un had responded to his request for talks but provided no further details."
+    },
+    {
+      "id": "5044744",
+      "time": "2026-08-18 03:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：國際足聯已解僱營運長凱文・拉穆爾"
+    },
+    {
+      "id": "5044743",
+      "time": "2026-08-18 03:31:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱金正恩回應其對話請求】美國東部時間8月17日下午，美國總統特朗普在白宮被媒體問及朝鮮最高領導人金正恩“為何未回應其對話請求”。特朗普對此回答道：“他回應了。”但未透露更多細節。此前一天，特朗普在社交媒體發帖稱，已下令美國縮減與韓國的聯合軍演規模。 特朗普還稱：“金正恩一直對我非常尊重，我們有過兩次重要的會晤，談了話，共度了時光。我瞭解他，他也瞭解我。” 此外，特朗普還向媒體抱怨韓國不願按他要求的金額支付所謂“保護費”，即防衛費分攤。（ CCTV國際時訊）"
+    },
+    {
+      "id": "5044742",
+      "time": "2026-08-18 03:29:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "據《泰晤士報》：當被問及英國廢除數字服務稅是否設有最後期限時，格里爾表示：“我不會設定人為劃定的時間期限。”"
+    },
+    {
+      "id": "mkt:01a01132-f1a5-7aab-9068-e0316f12f0ed",
+      "time": "2026-08-18 03:29:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "According to The Information, Tesla (TSLA.O) is preparing to launch a driverless taxi without a steering wheel, called Cybercab, in August."
+    },
     {
       "id": "5044741",
       "time": "2026-08-18 03:28:12",
