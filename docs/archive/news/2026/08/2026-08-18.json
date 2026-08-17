@@ -1,7 +1,91 @@
 {
   "date": "2026-08-18",
-  "count": 173,
+  "count": 183,
   "items": [
+    {
+      "id": "mkt:01a0110c-f854-7aab-9068-6091c547e086",
+      "time": "2026-08-18 02:47:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Ukrainian lawmaker said President Zelenskiy has not yet submitted nominees for defense minister or foreign minister to the Verkhovna Rada (parliament)."
+    },
+    {
+      "id": "5044723",
+      "time": "2026-08-18 02:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：64%美國人不認可特朗普在白宮的施政表現。"
+    },
+    {
+      "id": "mkt:01a0110b-ef67-7aab-9068-5f4814b8784f",
+      "time": "2026-08-18 02:46:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Refinitiv/Ipsos poll shows 80% of Americans expect U.S. involvement in Iran to be prolonged."
+    },
+    {
+      "id": "5044722",
+      "time": "2026-08-18 02:46:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：特朗普支援率跌至33%，創下其第二任期新低。"
+    },
+    {
+      "id": "mkt:01a0110b-d0be-7aab-9068-51c61bf50033",
+      "time": "2026-08-18 02:46:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters/Ipsos poll shows 64% of Americans disapprove of Trump's performance in the White House."
+    },
+    {
+      "id": "5044721",
+      "time": "2026-08-18 02:46:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：80%美國人預計美國對伊朗的介入行動將長期持續。"
+    },
+    {
+      "id": "mkt:01a0110b-4a0e-7aab-9068-4b1e877960cc",
+      "time": "2026-08-18 02:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters/Ipsos poll shows U.S. President Trump’s approval rating fell to 33%, a new low in his second term."
+    },
+    {
+      "id": "mkt:01a0110a-7e21-7aab-9068-44c3301d030c",
+      "time": "2026-08-18 02:44:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US investment-grade corporates issued $145.2bn of bonds in August."
+    },
+    {
+      "id": "5044720",
+      "time": "2026-08-18 02:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員：截至目前，澤連斯基尚未向最高拉達（議會）提交國防部長與外交部長的人選提名。"
+    },
+    {
+      "id": "mkt:01a01109-8b4c-7aab-9068-3aee06b2ee87",
+      "time": "2026-08-18 02:43:53",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US blue-chip corporate bond issuance hit a record high in August."
+    },
     {
       "id": "mkt:01a01107-0297-7aab-9068-3437bec08d21",
       "time": "2026-08-18 02:41:07",

@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-18 02:44:11",
-  "count": 15265,
+  "updated": "2026-08-18 02:48:08",
+  "count": 15268,
   "items": [
+    {
+      "id": "mkt:01a0110c-f854-7aab-9068-6091c547e086",
+      "time": "2026-08-18 02:47:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Ukrainian lawmaker said President Zelenskiy has not yet submitted nominees for defense minister or foreign minister to the Verkhovna Rada (parliament)."
+    },
+    {
+      "id": "5044723",
+      "time": "2026-08-18 02:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：64%美國人不認可特朗普在白宮的施政表現。"
+    },
+    {
+      "id": "mkt:01a0110b-ef67-7aab-9068-5f4814b8784f",
+      "time": "2026-08-18 02:46:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Refinitiv/Ipsos poll shows 80% of Americans expect U.S. involvement in Iran to be prolonged."
+    },
+    {
+      "id": "5044722",
+      "time": "2026-08-18 02:46:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：特朗普支援率跌至33%，創下其第二任期新低。"
+    },
+    {
+      "id": "mkt:01a0110b-d0be-7aab-9068-51c61bf50033",
+      "time": "2026-08-18 02:46:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters/Ipsos poll shows 64% of Americans disapprove of Trump's performance in the White House."
+    },
+    {
+      "id": "5044721",
+      "time": "2026-08-18 02:46:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示：80%美國人預計美國對伊朗的介入行動將長期持續。"
+    },
+    {
+      "id": "mkt:01a0110b-4a0e-7aab-9068-4b1e877960cc",
+      "time": "2026-08-18 02:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters/Ipsos poll shows U.S. President Trump’s approval rating fell to 33%, a new low in his second term."
+    },
+    {
+      "id": "mkt:01a0110a-7e21-7aab-9068-44c3301d030c",
+      "time": "2026-08-18 02:44:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US investment-grade corporates issued $145.2bn of bonds in August."
+    },
+    {
+      "id": "5044720",
+      "time": "2026-08-18 02:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員：截至目前，澤連斯基尚未向最高拉達（議會）提交國防部長與外交部長的人選提名。"
+    },
+    {
+      "id": "mkt:01a01109-8b4c-7aab-9068-3aee06b2ee87",
+      "time": "2026-08-18 02:43:53",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US blue-chip corporate bond issuance hit a record high in August."
+    },
     {
       "id": "mkt:01a01107-0297-7aab-9068-3437bec08d21",
       "time": "2026-08-18 02:41:07",
@@ -139819,74 +139903,6 @@
         "國際"
       ],
       "text": "美聯儲哈馬克：不認為通脹會自行回落。"
-    },
-    {
-      "id": "5034516",
-      "time": "2026-08-11 02:48:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國7月平均氣溫重新整理1895年以來最高紀錄】美國國家海洋和大氣管理局（NOAA）釋出的資料顯示，7月是有記錄以來美國平均氣溫最高的一個月。當月出現了持續時間長且強度大的“熱穹頂”現象，導致從東海岸到大平原地區及西南部各州的氣溫均創下歷史新高。NOAA的氣溫記錄可追溯至1895年。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fed00-7f13-7aab-8fdf-57c453961f3b",
-      "time": "2026-08-11 02:47:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed official Harmak said several rate hikes may be required and he will not pre-judge the number of hikes or the eventual policy (terminal) rate."
-    },
-    {
-      "id": "5034515",
-      "time": "2026-08-11 02:46:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：現在正是我們開始行動的時候。"
-    },
-    {
-      "id": "5034514",
-      "time": "2026-08-11 02:46:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：當前利率並未對經濟形成實質性抑制。"
-    },
-    {
-      "id": "5034513",
-      "time": "2026-08-11 02:45:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：不想預先判定加息次數以及最終利率點位。"
-    },
-    {
-      "id": "mkt:019fecfd-f6ce-7aab-8fdf-4da334dd5f62",
-      "time": "2026-08-11 02:44:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to a statement, a fire has broken out in diesel tanks at Libya's Zawiya oil depot; cause and extent unknown."
-    },
-    {
-      "id": "5034512",
-      "time": "2026-08-11 02:44:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：可能需要進行 “一定次數” 的加息。"
     }
   ]
 }
