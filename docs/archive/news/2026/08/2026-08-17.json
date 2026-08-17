@@ -1,7 +1,80 @@
 {
   "date": "2026-08-17",
-  "count": 2324,
+  "count": 2332,
   "items": [
+    {
+      "id": "5044475",
+      "time": "2026-08-17 21:47:45",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：股票買盤群體範圍“廣泛”】由安德魯・泰勒牽頭的摩根大通市場情報團隊表示，未來數週，大批股票買方或將尋求重新提高總敞口、重新加槓桿。該團隊在研報中寫道，潛在買方包括計劃回購股份的企業、個人投資者以及量化交易機構。團隊維持 “戰術性看多” 觀點。他們稱：“市場繼續在擔憂聲浪中上行。” 本週市場關注點為週三美聯儲會議紀要，市場將從中挖掘主席凱文・沃什的政策思路線索；下週重點則是英偉達財報以及傑克遜霍爾全球央行年會。他們寫道，後兩項事件或將 “改變市場敘事”。上週市場擔憂因素包括通脹、零售銷售等增長資料，以及美債拍賣與美聯儲官員講話。上月末，摩根大通表示其內部指標 “發出買入訊號”，該訊號歷史上通常預示標普 500 指數即將上漲。自那以後，該基準指數已累計上漲約 5%。"
+    },
+    {
+      "id": "mkt:01a00ff9-a2c7-7aab-9063-7d756ae6d5d9",
+      "time": "2026-08-17 21:46:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Saudi state television, Kushner and Mladenov told Netanyahu mediators are in full agreement that Hamas must be disarmed; under the agreement, all Hamas weapons will be removed from Gaza."
+    },
+    {
+      "id": "mkt:01a00ff9-0042-7aab-9063-76dd8e586313",
+      "time": "2026-08-17 21:46:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state TV said a meeting on a Gaza plan involving Kushner, Mladenov (senior 'peace committee' representative for Gaza), Netanyahu and the Israeli president has concluded; Kushner and Mladenov delivered a message from Trump urging Netanyahu to move the plan into its implementation phase."
+    },
+    {
+      "id": "5044474",
+      "time": "2026-08-17 21:45:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國能日新：公司已在人工智慧、平行計算等方向進行前瞻性資源佈局】國能日新8月17日在業績說明會上表示，公司已在人工智慧、平行計算等方向進行前瞻性資源佈局，建成多套由HPC與GPU叢集構成的高效能算力底座。硬體資源不僅支撐了大規模氣象模型與深度學習模型的訓練與推理，也為實時交易決策所需的密集計算提供堅實基礎，形成顯著的算力壁壘。"
+    },
+    {
+      "id": "5044473",
+      "time": "2026-08-17 21:45:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行在附帶回購協議的美元拍賣中出售10億美元。"
+    },
+    {
+      "id": "mkt:01a00ff8-20b7-7aab-9063-6aef7b40ff7d",
+      "time": "2026-08-17 21:45:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Brazil's central bank sold $1 bln in a dollar auction backed by repurchase agreements."
+    },
+    {
+      "id": "5044472",
+      "time": "2026-08-17 21:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書：特朗普總統稱讚防務協議，稱中東地區正 “走向團結”。"
+    },
+    {
+      "id": "5044471",
+      "time": "2026-08-17 21:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股光通訊板塊盤初走高】美股光通訊板塊盤初走高，邁威爾科技漲超6%，Coherent漲超4%，Lumentum漲超3%。"
+    },
     {
       "id": "mkt:01a00ff5-e089-7aab-9063-61aca9610487",
       "time": "2026-08-17 21:42:47",

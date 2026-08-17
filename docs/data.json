@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-17 21:44:28",
-  "count": 15232,
+  "updated": "2026-08-17 21:48:38",
+  "count": 15230,
   "items": [
+    {
+      "id": "5044475",
+      "time": "2026-08-17 21:47:45",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：股票買盤群體範圍“廣泛”】由安德魯・泰勒牽頭的摩根大通市場情報團隊表示，未來數週，大批股票買方或將尋求重新提高總敞口、重新加槓桿。該團隊在研報中寫道，潛在買方包括計劃回購股份的企業、個人投資者以及量化交易機構。團隊維持 “戰術性看多” 觀點。他們稱：“市場繼續在擔憂聲浪中上行。” 本週市場關注點為週三美聯儲會議紀要，市場將從中挖掘主席凱文・沃什的政策思路線索；下週重點則是英偉達財報以及傑克遜霍爾全球央行年會。他們寫道，後兩項事件或將 “改變市場敘事”。上週市場擔憂因素包括通脹、零售銷售等增長資料，以及美債拍賣與美聯儲官員講話。上月末，摩根大通表示其內部指標 “發出買入訊號”，該訊號歷史上通常預示標普 500 指數即將上漲。自那以後，該基準指數已累計上漲約 5%。"
+    },
+    {
+      "id": "mkt:01a00ff9-a2c7-7aab-9063-7d756ae6d5d9",
+      "time": "2026-08-17 21:46:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Saudi state television, Kushner and Mladenov told Netanyahu mediators are in full agreement that Hamas must be disarmed; under the agreement, all Hamas weapons will be removed from Gaza."
+    },
+    {
+      "id": "mkt:01a00ff9-0042-7aab-9063-76dd8e586313",
+      "time": "2026-08-17 21:46:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state TV said a meeting on a Gaza plan involving Kushner, Mladenov (senior 'peace committee' representative for Gaza), Netanyahu and the Israeli president has concluded; Kushner and Mladenov delivered a message from Trump urging Netanyahu to move the plan into its implementation phase."
+    },
+    {
+      "id": "5044474",
+      "time": "2026-08-17 21:45:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國能日新：公司已在人工智慧、平行計算等方向進行前瞻性資源佈局】國能日新8月17日在業績說明會上表示，公司已在人工智慧、平行計算等方向進行前瞻性資源佈局，建成多套由HPC與GPU叢集構成的高效能算力底座。硬體資源不僅支撐了大規模氣象模型與深度學習模型的訓練與推理，也為實時交易決策所需的密集計算提供堅實基礎，形成顯著的算力壁壘。"
+    },
+    {
+      "id": "5044473",
+      "time": "2026-08-17 21:45:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行在附帶回購協議的美元拍賣中出售10億美元。"
+    },
+    {
+      "id": "mkt:01a00ff8-20b7-7aab-9063-6aef7b40ff7d",
+      "time": "2026-08-17 21:45:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Brazil's central bank sold $1 bln in a dollar auction backed by repurchase agreements."
+    },
+    {
+      "id": "5044472",
+      "time": "2026-08-17 21:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書：特朗普總統稱讚防務協議，稱中東地區正 “走向團結”。"
+    },
+    {
+      "id": "5044471",
+      "time": "2026-08-17 21:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股光通訊板塊盤初走高】美股光通訊板塊盤初走高，邁威爾科技漲超6%，Coherent漲超4%，Lumentum漲超3%。"
+    },
     {
       "id": "mkt:01a00ff5-e089-7aab-9063-61aca9610487",
       "time": "2026-08-17 21:42:47",
@@ -139500,108 +139573,6 @@
         "其他"
       ],
       "text": "【中國工程機械工業協會：7月工程機械主要產品開工率為49.9% 同比下降6.34個百分點】據中國工程機械工業協會統計，2026年7月工程機械主要產品月開工率為49.9%，同比下降6.34個百分點，環比下降1.17個百分點。其中：挖掘機48.2%；裝載機53.9%；汽車起重機53%；履帶起重機48.7%；塔式起重機44.9%；壓路機29.9%；攤鋪機38.7%；旋挖鑽機41.4%；非公路礦用自卸車32.4%；混凝土泵車30.3%；混凝土攪拌車38.6%；叉車65.8%。工作時長方面，7月工程機械主要產品月平均工作時長為73.6小時，同比下降8.82%，環比下降0.17%。其中：挖掘機54.3小時；裝載機98.2小時；汽車起重機84.2小時；履帶起重機77.4小時；塔式起重機45.4小時；壓路機23.4小時；攤鋪機27.7小時；旋挖鑽機64.9小時；非公路礦用自卸車112小時；混凝土泵車33.1小時；混凝土攪拌車91小時；叉車107小時。"
-    },
-    {
-      "id": "5034286",
-      "time": "2026-08-10 21:47:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "布倫特、美國原油期貨每桶上漲超2美元，因伊朗削弱霍爾木茲海峽重開的預期。"
-    },
-    {
-      "id": "5034285",
-      "time": "2026-08-10 21:47:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "隨著油價上漲，英國國債跌幅擴大；英國10年期國債收益率上漲5個基點至4.97%。"
-    },
-    {
-      "id": "5034284",
-      "time": "2026-08-10 21:47:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "NLC 可再生能源子公司獲得印度太陽能能源公司 200 兆瓦風電專案訂單。"
-    },
-    {
-      "id": "5034283",
-      "time": "2026-08-10 21:47:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY向上觸及159，日內漲0.78%。"
-    },
-    {
-      "id": "mkt:019febed-5188-7aab-8fdb-1e557f492b6b",
-      "time": "2026-08-10 21:47:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY hit 159 intraday, up 0.78% on the day."
-    },
-    {
-      "id": "mkt:019febed-0000-7aab-8fdb-11cf12fcc7f4",
-      "time": "2026-08-10 21:46:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude traded above $85/bbl, the highest since Aug. 4, up 4.31% intraday."
-    },
-    {
-      "id": "mkt:019febec-177b-7aab-8fdb-0b155a9d11b6",
-      "time": "2026-08-10 21:45:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude up 4.0% intraday at $79.41/bbl."
-    },
-    {
-      "id": "mkt:019febec-06ad-7aab-8fdb-0431b95b08d6",
-      "time": "2026-08-10 21:45:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China crude-complex futures main contracts rose: SC crude +2.12% to 543.4 yuan/barrel; low-sulfur fuel oil (LU) +2.05% to 4,671 yuan/ton; fuel oil +2.25% to 3,587 yuan/ton; asphalt +0.98% to 4,215 yuan/ton."
-    },
-    {
-      "id": "5034282",
-      "time": "2026-08-10 21:45:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第38屆大眾電影百花獎揭曉】38屆大眾電影百花獎8月10日在北京揭曉。《哪吒之魔童鬧海》獲最佳影片獎，《驚蟄無聲》獲優秀影片獎，許淥洋、張珂、申奧憑藉《南京照相館》獲最佳編劇獎，大鵬憑藉《長安的荔枝》獲最佳導演獎，易烊千璽獲最佳男主角獎，衛詩雅獲最佳女主角獎。（新華社）"
-    },
-    {
-      "id": "5034281",
-      "time": "2026-08-10 21:45:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "威睿仕表示強烈反對針對 Acculynx 的裁決。"
     }
   ]
 }
