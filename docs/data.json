@@ -1,7 +1,257 @@
 {
-  "updated": "2026-08-17 15:05:15",
-  "count": 15183,
+  "updated": "2026-08-17 15:09:16",
+  "count": 15201,
   "items": [
+    {
+      "id": "mkt:01a00e8c-a44b-7aab-9059-b08c5ea902fa",
+      "time": "2026-08-17 15:08:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: Jan–Jul funds to property developers CNY 4.575 trln, down 20.3% YoY】NBS data: Jan–Jul funds to property developers totaled CNY 4.575 trln, down 20.3% YoY. Breakdown: domestic loans CNY 630 bln (-32.1% YoY); self‑raised funds CNY 1.654 trln (-18.5%); deposits and advance receipts CNY 1.438 trln (-14.4%); individual mortgage loans CNY 604 bln (-23.5%)."
+    },
+    {
+      "id": "mkt:01a00e8c-958a-7aab-9059-adafca0fb418",
+      "time": "2026-08-17 15:08:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【July: China first‑tier new‑home prices flat MoM; second‑tier -0.1%, third‑tier -0.3%】China's National Bureau of Statistics July data show new‑home prices in first‑tier cities were flat MoM, down from +0.1% in June. Shanghai +0.2%, Guangzhou +0.1%, Shenzhen +0.2%, Beijing -0.3%. Second‑tier new‑home prices fell 0.1% MoM after holding steady the prior month. Third‑tier new‑home prices declined 0.3% MoM, unchanged from June. Of 70 major cities, 23 recorded MoM price rises or no change, two more than the previous month."
+    },
+    {
+      "id": "te:economy:575736",
+      "time": "2026-08-17 15:07:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Industrial Production",
+        "Importance 3"
+      ],
+      "text": "China Industrial Output Growth Below Forecasts — China’s industrial production expanded 4.5% yoy in July 2026, slowing from a 5.3% rise in June, which was the fastest growth in three months, and below expectations of 5.0%. The deceleration came amid softer growth in manufacturing (5.5% vs 6.0% in June) and electricity, heat, gas, and water (5.0% vs 7.4%), while mining output fell 4.2%, after a 2.2% drop in June."
+    },
+    {
+      "id": "mkt:01a00e8c-6735-7aab-9059-a29f88585375",
+      "time": "2026-08-17 15:07:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: Jan–Jul new commercial housing sales area 450.21 mln sq m, down 11.8% YoY】National Bureau of Statistics: Jan–Jul new commercial housing sales area 450.21 mln sq m, down 11.8% YoY; residential sales area down 12.7% YoY. New commercial housing sales value 4.27 trillion yuan, down 13.1%; residential sales value down 13.2%. At end‑July, commercial housing for sale 759.11 mln sq m, down 0.8% YoY; stock under three years 555.59 mln sq m, down 3.6%."
+    },
+    {
+      "id": "mkt:01a00e8c-0fb0-7aab-9059-98a0fa33e03e",
+      "time": "2026-08-17 15:07:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "National Bureau of Statistics: Shanghai second-hand residential prices in July MoM +0.3% (prev +0.4%), YoY -2.0% (prev -3.2%)."
+    },
+    {
+      "id": "mkt:01a00e8b-fbce-7aab-9059-95232a656aab",
+      "time": "2026-08-17 15:07:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "National Bureau of Statistics: Beijing July resale residential prices MoM 0.0% (June +0.1%), YoY -4.5% (June -5.5%)."
+    },
+    {
+      "id": "mkt:01a00e8b-da60-7aab-9059-8d4c698d4940",
+      "time": "2026-08-17 15:07:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【NBS: Jan–Jul housing under construction 5.576 bln sqm, down 12.7% YoY】China NBS data: Jan–Jul total housing under construction by property developers 5.576 bln sqm, down 12.7% YoY; residential under construction 3.871 bln sqm, down 13.0% YoY. New housing starts 267.0 mln sqm, down 24.0% YoY; residential starts 194.9 mln sqm, down 24.6% YoY. Housing completions 192.0 mln sqm, down 23.2% YoY; residential completions 134.4 mln sqm, down 25.5% YoY."
+    },
+    {
+      "id": "mkt:01a00e8b-cc9a-7aab-9059-8436e6e361b9",
+      "time": "2026-08-17 15:07:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "NBS: Guangzhou resale home prices July MoM +0.4% (prior +0.4%), YoY -4.7% (prior -6.1%)."
+    },
+    {
+      "id": "mkt:01a00e8b-c011-7aab-9059-7d4ae3b58599",
+      "time": "2026-08-17 15:07:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Bureau of Statistics: Shenzhen second-hand residential prices rose 0.2% MoM in July (June +0.3%) and fell 3.6% YoY (June -4.7%)."
+    },
+    {
+      "id": "mkt:01a00e8b-974e-7aab-9059-71ee17137674",
+      "time": "2026-08-17 15:07:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's National Bureau of Statistics said Shanghai new commercial housing prices rose 0.2% MoM in July (June +0.3%) and 3.0% YoY (June +3.1%)."
+    },
+    {
+      "id": "mkt:01a00e8b-8b6f-7aab-9059-6c92f95e6ff9",
+      "time": "2026-08-17 15:07:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【National Bureau of Statistics: Jan–Jul online goods and services retail sales RMB 11.72 trillion, +4.8% YoY】China's National Bureau of Statistics said Jan–Jul online goods and services retail sales totaled RMB 11.72 trillion, up 4.8% YoY. Online goods retail was RMB 7.40 trillion, up 4.6%; within online goods, food, apparel and household-goods categories rose 16.9%, 5.8% and 1.1%, respectively. Online services retail was RMB 4.32 trillion, up 5.2%. Among retail enterprises above designated size, convenience store and supermarket sales rose 6.1% and 3.8% YoY, while specialty stores, department stores and brand outlets fell 1.8%, 2.4% and 9.3%."
+    },
+    {
+      "id": "mkt:01a00e8b-83c9-7aab-9059-67c99b73d429",
+      "time": "2026-08-17 15:06:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【China NBS: Jan–Jul urban retail sales 24.93 tln yuan, +1.1% YoY】China's National Bureau of Statistics said Jan–Jul urban retail sales of consumer goods totaled 24.93 tln yuan, up 1.1% YoY; rural retail sales were 3.85 tln yuan, up 2.4%. July urban retail sales amounted to 3.38 tln yuan, up 0.5% YoY; rural sales were 524.2 bln yuan, up 1.6%. By type, Jan–Jul retail sales of goods were 25.49 tln yuan, up 1.1% YoY; catering revenue was 3.28 tln yuan, up 2.6%. In July, goods retail was 3.45 tln yuan, up 0.5% YoY; catering revenue was 456.7 bln yuan, up 1.4%."
+    },
+    {
+      "id": "mkt:01a00e8b-7660-7aab-9059-59483ed3b2d3",
+      "time": "2026-08-17 15:06:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "National Bureau of Statistics: Guangzhou new home prices in July rose 0.1% MoM (June +0.2%) and fell 2.2% YoY (June -2.6%)."
+    },
+    {
+      "id": "mkt:01a00e8b-4bdc-7aab-9059-5590fad72151",
+      "time": "2026-08-17 15:06:44",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China NBS: Shenzhen July new‑home prices +0.2% MoM (prev +0.3%); -2.9% YoY (prev -3.6%)."
+    },
+    {
+      "id": "mkt:01a00e8b-3678-7aab-9059-4d827a33ac96",
+      "time": "2026-08-17 15:06:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "National Bureau of Statistics: Beijing newly built commercial residential prices in July -0.3% MoM (prev. -0.3%), -2.3% YoY (prev. -2.1%)."
+    },
+    {
+      "id": "5043668",
+      "time": "2026-08-17 15:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "據上海航運交易所資料，截至2026年8月17日，上海出口集裝箱結算運價指數（歐洲航線）報3246.38點，與上期相比跌4.1%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608173843119231",
+      "time": "2026-08-17 15:06:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：7月規模以上數字產品製造業增加值同比增長17.3% 增速較上月加快3.5個百分點】國家統計局釋出資料，7月份，規模以上數字產品製造業增加值同比增長17.3%，增速較上月加快3.5個百分點。從行業看，電子元器件及裝置製造、智慧裝置製造、計算機制造等行業增加值分別增長24.7%、15.1%、10.9%。"
+    },
+    {
+      "id": "5043667",
+      "time": "2026-08-17 15:05:57",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家統計局：2026年1—7月份全國房地產市場基本情況】1—7月份，全國房地產開發投資43009億元，同比下降19.2%（按可比口徑計算）；其中，住宅投資33172億元，下降19.1%。 1—7月份，房地產開發企業房屋施工面積557572萬平方米，同比下降12.7%。其中，住宅施工面積387051萬平方米，下降13.0%。房屋新開工面積26700萬平方米，下降24.0%。其中，住宅新開工面積19490萬平方米，下降24.6%。房屋竣工面積19195萬平方米，下降23.2%。其中，住宅竣工面積13443萬平方米，下降25.5%。 1—7月份，新建商品房銷售面積45021萬平方米，同比下降11.8%；其中住宅銷售面積下降12.7%。新建商品房銷售額42718億元，下降13.1%；其中住宅銷售額下降13.2%。 7月末，商品房待售面積75911萬平方米，同比下降0.8%。其中，待售3年以下面積55559萬平方米，下降3.6%。 1—7月份，房地產開發企業到位資金45748億元，同比下降20.3%。其中，國內貸款6300億元，下降32.1%；自籌資金16544億元，下降18.5%；定金及預收款14376億元，下降14.4%；個人按揭貸款6040億元，下降23.5%。"
+    },
+    {
+      "id": "mkt:01a00e8a-0fac-7aab-9059-40c6a0feb1cf",
+      "time": "2026-08-17 15:05:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【China close: ChiNext +3.14%, STAR 50 +4.14%; chip stocks lead gains】Chinese markets closed higher after a broad rally. Shanghai Composite +1.41%, Shenzhen Composite Index +2.44%, ChiNext +3.14%, STAR 50 Index +4.14%. Turnover on Shanghai and Shenzhen totaled 2.39 trillion yuan, up 244.6 billion yuan from the prior session; more than 4,300 stocks advanced. Semiconductor supply chain led gains—glass substrates, advanced packaging, CPO and optical-fiber-related names outperformed—while storage-chip segments posted strong gains and multiple chip suppliers hit daily up-limits. Grain and seed-related shares jumped, with several staples stocks trading at daily limits. Lab-grown diamond producers remained active. Battery (BC), Apple-supply and dairy sectors also outperformed. Liquor stocks underperformed—including Kweichow Moutai—while cinema/exhibition-related stocks fell."
+    },
+    {
+      "id": "mkt:01a00e89-fb87-7aab-9059-3b10d971d938",
+      "time": "2026-08-17 15:05:18",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【NBS: Jan–Jul fixed-asset investment down 6.7% YoY】China National Bureau of Statistics: Jan–Jul fixed-asset investment (ex rural households) fell 6.7% YoY to 26.03 trillion yuan. Investment in intellectual property products rose 9.1% YoY."
+    },
+    {
+      "id": "em:jjsj_zgsj:202608173843118110",
+      "time": "2026-08-17 15:05:17",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：7月份規模以上工業原煤生產同比下降 原油生產由降轉增】國家統計局資料顯示，7月份，規上工業原煤產量3.4億噸，同比下降10.1%；日均產量1107萬噸。1—7月份，規上工業原煤產量27.0億噸，同比下降2.9%。7月份，規上工業原油產量1827萬噸，同比增長0.8%，6月份為下降0.5%；日均產量58.9萬噸。"
+    },
     {
       "id": "mkt:01a00e89-719a-7aab-9059-344bdd4388ef",
       "time": "2026-08-17 15:04:43",
@@ -9,6 +259,15 @@
         "MKT News"
       ],
       "text": "【Jordan's King Abdullah II to make state visit to China Aug 18–24】At CHINA's invitation, Jordan's King Abdullah II will make a state visit to China from Aug 18–24, China's Foreign Ministry said."
+    },
+    {
+      "id": "em:jjsj_zgsj:202608173843115960",
+      "time": "2026-08-17 15:04:31",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1-7月全國固定資產投資260328億元 同比下降6.7%】據國家統計局，1—7月份，全國固定資產投資（不含農戶）260328億元，同比下降6.7%（按可比口徑計算）。其中，智慧財產權產品投資同比增長9.1%。"
     },
     {
       "id": "mkt:01a00e89-3560-7aab-9059-2880747cfcf8",
@@ -51,6 +310,15 @@
       "text": "【印度東北部發生踩踏事件 已致十餘人死傷】據印度方面17日訊息，印度東北部比哈爾邦勒基瑟賴地區一座印度教寺廟當天早晨發生踩踏事件，造成至少7人死亡、10餘人受傷。（央視新聞）"
     },
     {
+      "id": "em:jjsj_zgsj:202608173843116226",
+      "time": "2026-08-17 15:03:52",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：7月規模以上高技術製造業增加值同比增長16.9% 增速較上月加快2.8個百分點】國家統計局釋出資料，7月份，規模以上高技術製造業增加值同比增長16.9%，增速較上月加快2.8個百分點。從行業看，積體電路製造、飛機制造、電子工業專用裝置製造、電子專用材料製造等行業增加值分別增長109.3%、38.3%、34.8%、30.8%。"
+    },
+    {
       "id": "5043662",
       "time": "2026-08-17 15:03:29",
       "tags": [
@@ -82,6 +350,15 @@
         "SZSE Component"
       ],
       "text": "At the close on Monday, Aug 17, China's Shanghai Composite Index rose 55.48 points, or 1.41%, to 3,982.65; China's Shenzhen Composite Index rose 349.97 points, or 2.44%, to 14,704.27; the CSI 300 Index rose 75.22 points, or 1.61%, to 4,741.10; the ChiNext Index rose 113.86 points, or 3.14%, to 3,740.16; China's STAR 50 Index rose 71.17 points, or 4.14%, to 1,788.85."
+    },
+    {
+      "id": "em:jjsj_zgsj:202608173843116169",
+      "time": "2026-08-17 15:02:44",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：就業形勢總體穩定 城鎮調查失業率季節性上升】國家統計局資料顯示，1—7月份，全國城鎮調查失業率平均值為5.2%，與1—6月份和上年同期持平。7月份，全國城鎮調查失業率為5.2%，比上月上升0.2個百分點。本地戶籍勞動力調查失業率為5.2%；外來戶籍勞動力調查失業率為5.2%，其中外來農業戶籍勞動力調查失業率為4.9%。31個大城市城鎮調查失業率為5.2%，比上月上升0.2個百分點。全國企業就業人員周平均工作時間為48.2小時。"
     },
     {
       "id": "mkt:01a00e87-8be5-7aab-9059-0d11488415d5",
@@ -182,6 +459,15 @@
       "text": "【國家統計局：市場銷售規模擴大，服務零售增長較快】1—7月份，社會消費商品和服務零售總額同比增長2.6%，其中服務零售額增長5.0%，商品零售額增長1.1%。在服務零售額中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類零售額較快增長。1—7月份，社會消費品零售總額287744億元，同比增長1.2%。按經營單位所在地分，城鎮消費品零售額249285億元，同比增長1.1%；鄉村消費品零售額38459億元，增長2.4%。按消費型別分，商品零售額254922億元，同比增長1.1%；餐飲收入32822億元，增長2.6%。基本生活類和部分升級類商品銷售較快增長，限額以上單位糧油食品類、通訊器材類、化妝品類商品零售額同比分別增長7.2%、15.1%、6.3%。7月份，社會消費品零售總額39022億元，同比增長0.6%，環比增長0.06%。1—7月份，全國網上商品和服務零售額117214億元，同比增長4.8%。其中，網上商品零售額73965億元，增長4.6%；網上服務零售額43249億元，增長5.2%。"
     },
     {
+      "id": "em:jjsj_zgsj:202608173843115882",
+      "time": "2026-08-17 15:01:52",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—7月份規上工業發電量56985億千瓦時 同比增長3.0%】國家統計局資料顯示，規上工業電力生產基本平穩。7月份，規上工業發電量9439億千瓦時，同比略降0.1%；日均發電304.5億千瓦時。1—7月份，規上工業發電量56985億千瓦時，同比增長3.0%。分品種看，7月份，規上工業火電由增轉降，水電增速加快，核電、太陽能發電增速放緩，風電由降轉增。"
+    },
+    {
       "id": "mkt:01a00e86-cf3d-7aab-9058-ee31a2638f10",
       "time": "2026-08-17 15:01:50",
       "tags": [
@@ -196,12 +482,30 @@
       "text": "China's industrial value added for enterprises above designated size rose 4.5% YoY in July (real terms), the National Bureau of Statistics said."
     },
     {
+      "id": "em:jjsj_zgsj:202608173843115565",
+      "time": "2026-08-17 15:01:49",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：7月份全國規模以上工業增加值同比增長4.5%】國家統計局釋出資料，7月份，全國規模以上工業增加值同比增長4.5%，剔除季節因素後環比增長0.11%。作為工業的主體，製造業增加值增長5.5%，增速高於全部規模以上工業1.0個百分點。新動能對工業經濟的貢獻不斷增強，初步測算，1—7月份，以高技術製造業、數字產品製造業等為代表的新動能領域對規模以上工業增加值增長的貢獻率為五成左右，較上半年提高約3個百分點，引領作用持續增強。"
+    },
+    {
       "id": "5043653",
       "time": "2026-08-17 15:01:46",
       "tags": [
         "其他"
       ],
       "text": "【國家統計局：服務業平穩增長，現代服務業發展向好】1—7月份，全國服務業生產指數同比增長4.7%。分行業看，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，金融業，交通運輸、倉儲和郵政業生產指數同比分別增長10.6%、9.5%、6.3%、5.1%。7月份，全國服務業生產指數同比增長4.3%。7月份，服務業商務活動指數為49.3%，服務業業務活動預期指數為56.0%。其中，郵政、電信廣播電視及衛星傳輸服務、文化體育娛樂等行業商務活動指數位於55.0%以上較高景氣區間。1—6月份，規模以上服務業企業營業收入同比增長5.9%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608173843115447",
+      "time": "2026-08-17 15:01:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：7月份一二三線城市商品住宅銷售價格同比降幅總體繼續收窄】國家統計局資料顯示，7月份，一線城市新建商品住宅銷售價格同比下降1.1%，降幅比上月收窄0.2個百分點。其中，北京、廣州和深圳分別下降2.3%、2.2%和2.9%，上海上漲3.0%。二線城市新建商品住宅銷售價格同比下降2.8%，降幅收窄0.3個百分點。"
     },
     {
       "id": "5043652",
@@ -138873,86 +139177,6 @@
         "公司"
       ],
       "text": "【華瓷股份：奈米氧化鋯、氧化鋯研磨珠產品已在新能源等領域批次供貨】華瓷股份(001216)8月10日在互動平臺回覆稱，目前公司奈米氧化鋯、氧化鋯研磨珠產品已在新能源、電子元器件、醫用齒科領域實現規模化批次供貨。"
-    },
-    {
-      "id": "5033436",
-      "time": "2026-08-10 15:09:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【經銷商人士證實：雪佛蘭已暫停在華新車銷售】近日，雪佛蘭退出中國市場話題在業內引發熱議。通用中國今日回應稱，在中國，凱迪拉克與別克在各自的細分市場中具備良好的競爭優勢，能夠支援業務的可持續增長；而合資企業旗下的雪佛蘭產品線則最契合出口市場需求。通用中國方面強調，雪佛蘭產品將繼續在中國生產，並積極探索在美國以外的海外市場機遇。對於現有的中國雪佛蘭車主，公司將提供完善的售後服務保障。多位雪佛蘭授權經銷商內部人士證實，雪佛蘭已經暫停在華新車銷售，但各方提及的停售時點存在差異：有經銷商稱，停售大致從去年年底啟動，也有經銷商表示，銷售停滯已持續一年有餘。（第一財經）"
-    },
-    {
-      "id": "5033435",
-      "time": "2026-08-10 15:08:40",
-      "tags": [
-        "行業",
-        "其他"
-      ],
-      "text": "【百花獎首次設立AIGC單元】第38屆大眾電影百花獎AIGC推優單元榮譽盛典日前在北京舉辦。這是百花獎創辦64年來首次為AIGC影像開設專門徵集通道。活動在一個多月內收到2038件投稿，最終30部作品進入終審，24部獲入圍榮譽，6部獲推優榮譽。終審評委俞白眉把AI比作“牛奶倒進了水”，是分子結合而非簡單替代，“目前所有創意靈感都來自於人類，方向盤還在人的手裡”。"
-    },
-    {
-      "id": "5033434",
-      "time": "2026-08-10 15:08:27",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "據上海航運交易所資料，截至2026年8月10日，上海出口集裝箱結算運價指數（歐洲航線）報3383.88點，與上期相比跌3.9%。"
-    },
-    {
-      "id": "5033433",
-      "time": "2026-08-10 15:08:25",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "和碩：7月銷售額860.2億元新臺幣，同比增長11.6%。"
-    },
-    {
-      "id": "mkt:019fea7f-526e-7aab-8fd3-9943bfc1f803",
-      "time": "2026-08-10 15:07:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Drone strike on Nizhnekamsk petrochemical hub kills 12】Nizhnekamsk mayor Radmir Belyaev said Ukrainian drones struck industrial and civilian targets in the Tatarstan city on Aug. 10; RIA reported 12 dead and 39 injured. Multiple Russian outlets said one of the region’s most technologically advanced refineries was damaged; Nizhnekamsk, on the Kama River, is a major Russian petrochemical and refining centre."
-    },
-    {
-      "id": "5033432",
-      "time": "2026-08-10 15:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄石化重鎮遭烏無人機襲擊已致12人死】俄羅斯韃靼斯坦共和國下卡姆斯克市市長拉德米爾·別利亞耶夫今天（8月10日）在社交媒體平臺發宣告稱，烏克蘭無人機對該市的工業和民用目標實施了襲擊。據俄新社報道，襲擊已造成當地12人死亡、39人受傷。據多家俄羅斯媒體報道，該地區技術最為先進的煉油廠之一在此次襲擊中受損。 下卡姆斯克是俄羅斯韃靼斯坦共和國的一座工業城市，位於卡馬河沿岸，是該地區重要的石油化工中心，擁有大型煉油廠。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5033431",
-      "time": "2026-08-10 15:06:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年服貿會進入倒計時一個月180餘項創新成果將集中釋出】今天（10日），距離2026年中國國際服務貿易交易會（以下簡稱“服貿會”）開幕還有一個月。在服貿會永久會址首鋼園區，一系列組展辦會和服務保障細節正式釋出。本屆服貿會上，80餘家企業和機構計劃釋出180餘項創新成果，並首次設定“出海服務企業展區”，展會國際化、專業化、市場化水平進一步提升。（央視新聞）"
-    },
-    {
-      "id": "5033430",
-      "time": "2026-08-10 15:05:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪能股份等在瀘州成立新材料科技公司 註冊資本200萬歐元】天眼查App顯示，近日，豪能梯愛司新材料科技（瀘州）有限公司成立，法定代表人為楊貴根，註冊資本200萬歐元，經營範圍包括新材料技術研發、金屬表面處理及熱處理加工、真空鍍膜加工、新型膜材料製造等，由成都豪能科技股份有限公司等共同持股。"
-    },
-    {
-      "id": "5033429",
-      "time": "2026-08-10 15:05:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東鵬飲料在鄭州成立維他命飲料公司】企查查APP顯示，近日，鄭州東鵬維他命飲料有限公司成立，法定代表人為徐仕兵，註冊資本為1億元，經營範圍包含飲料生產；食品生產；食品用塑膠包裝容器工具製品生產；食品網際網路銷售（僅銷售預包裝食品）等。企查查股權穿透顯示，該公司由東鵬飲料全資持股。"
     }
   ]
 }
