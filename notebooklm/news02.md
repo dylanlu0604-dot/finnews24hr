@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-17 22:58:32_
-_本檔包含 3048 則快訊，約 603532 字_
+_更新時間：2026-08-17 23:34:21_
+_本檔包含 3051 則快訊，約 604530 字_
+
+---
+
+### 2026-08-16 15:16:49  #國際
+
+【聯合國教科文組織：烏克蘭敖德薩6座文化遺產建築遭襲受損】聯合國教科文組織8月16日確認，烏克蘭敖德薩世界遺產“敖德薩歷史中心”範圍內有6座文化遺產建築在8月9日的襲擊中受損。聯合國教科文組織在一份宣告中說，受損建築包括布蘭特和舒爾茨宅邸、加加林公寓樓、斯圖爾扎宅邸、羅西公寓樓以及另外兩座歷史住宅建築。敖德薩歷史中心於2023年被列入聯合國教科文組織《世界遺產名錄》，同時被列入《瀕危世界遺產名錄》。（央視新聞）
+
+---
+
+### 2026-08-16 15:16:45  #MKT News #Market Regions #Europe & UK #Market Themes #AI Revolution #DAX #Impact bullish
+
+【BNP Paribas: European autos deeply undervalued; AI upside for Europe may take 1-2 years】Sophie Huynh, portfolio manager and strategist at BNP Paribas Asset Management, said Europe is more likely to be a beneficiary of AI than a developer and the auto sector stands to gain. European auto equities are currently very cheap and their upside is largely overlooked; it may take one to two years for market consensus to recognise the case. Many US consumer-driven positives are already priced in, she added, so US growth momentum is slowing while Europe is only beginning to recover.
+
+---
+
+### 2026-08-16 15:14:40  #公司
+
+【全國首座電網友好型大功率重卡充電示範站投運】國家電網有限公司積極探索電動重卡規模化應用路徑，服務新能源汽車產業發展和交通綠色低碳轉型。8月4日，國家電網京滬高速章丘服務區（上海方向）重卡充電示範站正式投入運營，是全國首座電網友好型電動重卡大功率充電示範站。章丘重卡充電示範站由國網（山東）電動汽車服務有限公司建設運營，設定6個重卡專用充電車位，配備12支大功率充電終端，單槍最大充電功率800千瓦，一輛電池電量為450千瓦時的重卡最快15～20分鐘就能充滿。示範站6個充電車位採用3種技術路線，分為直流微網柔性充電區、高效能大功率充電區和預裝一體式整合充電區，採用了量子電池安全檢測、零功耗待機、柔性電網適配等前沿技術，為電動重卡大功率充電站建設提供了樣板。（國家電網）
+
+---
+
+### 2026-08-16 15:14:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran Armed Forces General Staff: We will not relent until enemies are thoroughly defeated】Iran Armed Forces General Staff said on the anniversary of returning POWs it will not relent until the country’s enemies are thoroughly defeated. The statement said the resistance ethos of released veterans has passed to a new generation, cited more than 160 consecutive days of public support for the military, and called for strengthening the armed forces’ capabilities, prestige and will to resist amid calls to avenge the late leader. It described the United States as the leading "terrorist" hegemon, criticised global imperialist forces and Israel, and pledged to uphold the people’s demands and the Supreme Leader’s directives on the "aggressive United States" until US and Israeli forces in the region are defeated, Iranian rights are vindicated and the enemy submits.
+
+---
+
+### 2026-08-16 15:12:35  #國際
+
+美國地質調查局：印度尼西亞魯滕以北 76 公里處發生 5.5 級地震。
+
+---
+
+### 2026-08-16 15:12:19  #其他
+
+【電影《去你的島》票房破億】據燈塔專業版，截至8月16日，影片《去你的島》票房突破1億。
+
+---
+
+### 2026-08-16 15:11:40  #國際
+
+【卡達否認扣押3名伊朗飛行員 伊方呼籲允許伊空軍入境調查】當地時間16日，針對卡達方面此前否認扣押伊朗飛行員的表態，伊朗武裝部隊總參謀部失蹤人員搜尋委員會負責人穆罕默德·巴蓋爾扎德呼籲卡達政府允許伊朗空軍專家組入境開展現場調查。巴蓋爾扎德表示，由伊朗空軍專家組成的調查小組已等待數月，準備前往卡達就相關情況進行調查，但因卡方拖延與阻撓，相關工作至今無法推進。他強調，卡達政府應停止推諉，允許伊朗事實調查組入境，同時呼籲紅十字國際委員會介入調查。此外，巴蓋爾扎德還對科威特發出警告，指責科威特政府同樣在拖延通報在其境內被扣的4名伊朗人的下落。（央視新聞）
+
+---
+
+### 2026-08-16 15:11:25  #國際
+
+【烏克蘭多地遭俄方導彈及無人機打擊】烏克蘭空軍今天（8月16日）通報稱，自15日18:00起，俄軍使用“縞瑪瑙”巡航導彈、“伊斯坎德爾-M”彈道導彈在內的多種導彈襲擊了基輔、克列緬丘格和克里沃羅格等地，還向烏克蘭出動了106架無人機。烏克蘭擊落了至少3枚俄方導彈以及85架無人機，已確認俄軍擊中13個地點，另外3個地點發現被擊落目標的殘骸。 俄羅斯國防部今天通報稱，俄軍當日早間使用陸基、空基高精度武器及遠端攻擊型無人機，對烏克蘭基輔的軍工企業、波爾塔瓦州克列緬丘格煉油廠及第聶伯羅彼得羅夫斯克州克里沃羅格冶金廠實施叢集打擊。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 15:10:57  #其他
+
+【監管推動銀行開發AI貸產品 機構主推最高1000萬元信用貸】多個地方監管近期發文表示，引導銀行金融機構支援AI產業發展，研發與人工智慧行業產業鏈匹配的金融產品。《中國經營報》記者採訪瞭解到，目前機構推出的AI相關貸款產品主要為最高額度1000萬元的信用貸，部分機構搭建了專屬測算模型，同等條件下給予AI相關企業更大金融支援。（中國經營報）
+
+---
+
+### 2026-08-16 15:09:56  #國際
+
+【伊朗武裝力量總參謀部：在徹底擊敗美國敵人之前，我們絕不會退縮 】武裝力量總參謀部在紀念獲釋人員迴歸週年之際發表宣告稱：在徹底擊敗該地區敵對勢力、維護伊朗的正當權利之前，我們將絕不放棄我國的正當訴求，堅決抵抗。
+
+---
+
+### 2026-08-16 15:08:31  #其他
+
+【鄭州終止防汛四級應急響應】鄭州市防汛抗旱指揮部關於終止防汛四級應急響應的通知各開發區、區縣（市）防汛抗旱指揮部，市防指各成員單位： 颱風“白海豚”對我市的影響已結束。當前氣象形勢良好，全市水情平穩，無汛情發生，重點水利工程執行正常，根據《鄭州市防汛應急預案》有關規定，經綜合會商研判，市防汛抗旱指揮部決定於8月16日14時終止防汛四級應急響應。 當前我市仍處於主汛期，各級各部門要牢固樹立底線思維、極限思維，壓緊壓實防汛工作責任，繼續保持高度戒備狀態。要重點圍繞崩塌、滑坡等各類次生災害風險，持續開展雨後複查，落實巡查防守措施。要認真開展覆盤總結，嚴格落實值班值守制度，密切跟蹤天氣變化，及時補充搶險物料，維護保養搶險救援裝備，紮實做好下一輪降雨過程防範應對準備，全力保障人民群眾生命財產安全。 （鄭州釋出）
+
+---
+
+### 2026-08-16 15:08:22  #國際
+
+【美媒爆猛料：CIA發動秘密襲擊！】“幾名厄瓜多漁民正在加拉帕戈斯群島海域捕撈作業，突然遭到滿載炸藥的無人機襲擊，漁船爆炸起火，船員逃離……”近日，美國《華盛頓郵報》和CNN報道了今年早些時候發生在太平洋深處的三起“神秘襲擊”事件。CNN在標題中直接提問“幕後襲擊者是誰？”而《華盛頓郵報》直接給出答案，稱該報獲悉，這些神秘襲擊事件被認為是中央情報局（CIA）的一項秘密計劃。 CNN在報道中也提到了《華盛頓郵報》的結論，但表示該媒體無法獨立核實《華盛頓郵報》說法的真實性。CNN的選擇是採訪了遭襲厄瓜多漁船的多名倖存者，他們的經歷幾乎相同：出海捕魚幾天後，他們發現一艘神秘的藍色船隻和幾架無人機似乎在遠處跟蹤他們。當時他們並不在意，認為自己並不是目標，所以繼續作業。但一兩天後，他們的船隻突然遭到襲擊。 《華盛頓郵報》稱，這些襲擊今年1月造成一艘厄瓜多漁船“菲奧雷拉號”（Fiorella）上的8名船員失蹤，另外兩艘3月遭襲漁船的船員幸運生還。倖存者在接受採訪時表示，當時有盤旋在空中的小型無人機向他們的漁船投擲彈藥，還有無人機直接撞擊漁船後爆炸。（環球時報）
+
+---
+
+### 2026-08-16 15:06:38  #MKT News
+
+【5.7-magnitude earthquake strikes East Nusa Tenggara, Indonesia】A 5.7-magnitude earthquake struck East Nusa Tenggara province at 14:51 Central Indonesia Time on Aug 16; epicenter 81 km northeast of Ruteng in Manggarai Regency; focal depth 10 km.
+
+---
+
+### 2026-08-16 15:06:30  #國際
+
+【印尼東努沙登加拉省發生5.7級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部時間8月16日14時51分，印尼東努沙登加拉省芒加萊縣魯滕鎮東北81公里處發生5.7級地震，震源深度10公里。（央視新聞）
+
+---
+
+### 2026-08-16 15:05:32  #國際
+
+俄羅斯官員通報：烏克蘭武裝部隊對羅斯托夫州的夜間襲擊造成的死亡人數已增至五人。
+
+---
+
+### 2026-08-16 15:02:24  #國際
+
+當地時間16日上午9時49分至52分，新華社記者在烏克蘭首都基輔聽到多次強烈爆炸聲。烏克蘭空軍在社交媒體發文稱，俄軍導彈正向基輔飛來。（新華社）
+
+---
+
+### 2026-08-16 14:59:33  #其他
+
+【阿富汗塔利班發表宣告】據參考訊息援引埃菲社報道，阿富汗政府8月15日在慶祝執政五週年的宣告中表示，希望與世界和平共處，並要求結束針對阿富汗的“陰謀”，同時保證阿富汗領土絕不會被用於侵略其他國家。阿富汗塔利班在宣告中表示：“阿富汗願與世界各國在和平與安寧的氛圍中相處，絕不允許任何人利用阿富汗領土採取針對別國的行動。同時希望其他國家也不要參與任何針對阿富汗的陰謀，尊重阿富汗的領土、領空和相關利益。”
+
+---
+
+### 2026-08-16 14:58:38  #MKT News
+
+TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said Qatar should allow an IRGC expert team to be stationed to investigate the case of a missing pilot, rather than deny that it detained the pilot.
+
+---
+
+### 2026-08-16 14:57:38  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【Explosions heard in Kyiv】Explosions were heard in Kyiv on Aug. 16 local time.
+
+---
+
+### 2026-08-16 14:56:06  #國際
+
+當地時間8月16日，烏克蘭基輔市響起爆炸聲。（央視新聞）
+
+---
+
+### 2026-08-16 14:50:00  #MKT News
+
+TASNIM News reported Iran's official responsible for missing military personnel said Qatar must allow an Iranian air force investigative team to enter Qatar.
+
+---
+
+### 2026-08-16 14:49:36  #其他
+
+【重慶釋出“森林草原火險橙色預警訊號”】重慶市森林草原防滅火指揮部、重慶市應急管理局、重慶市林業局、重慶市氣象局8月16日14時30分聯合釋出“森林草原火險橙色預警訊號”。重慶市兩江新區、大渡口、沙坪壩、九龍坡、南岸、北碚、巴南、高新區、潼南、合川、銅梁、大足、榮昌、永川、璧山、江津、綦江、萬盛、南川、長壽、涪陵、墊江、豐都、梁平、忠縣、萬州、開州、雲陽、奉節、巫溪、巫山、武隆等32個區縣已出現高森林草原火險氣象等級。預計8月16日到20日上述區縣仍將持續高或極高森林草原火險氣象等級，發生森林草原火災的風險高。
+
+---
+
+### 2026-08-16 14:49:04  #國際
+
+【波蘭旅遊大巴在匈牙利發生重大交通事故 已致12人死亡】當地時間8月16日凌晨，一輛波蘭旅遊大巴在匈牙利東北部M3高速公路發生交通事故，已造成12人死亡、至少10人重傷。事故發生後，匈牙利救援部門迅速展開救援，傷者已被送往醫院接受治療。據匈牙利方面通報，事故發生於當地時間16日凌晨1時左右。一輛載有57名乘客和2名司機的波蘭旅遊大巴在行駛過程中駛離路面，衝入路邊溝渠。事故具體原因目前仍在調查中。匈牙利總理毛焦爾當天透過社交媒體向遇難者家屬表示慰問，並感謝參與救援的消防、醫療和警務人員。（央視新聞）
+
+---
+
+### 2026-08-16 14:43:02  #其他
+
+【皇崗口岸港方口岸區舉行第二次大型演練】15日，香港特別行政區政府於皇崗口岸港方口岸區舉行第二次大型演練並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。此次演練動員超過5000名來自共約30個政策局和部門的人員參與。此前，香港特區政府曾於13日在皇崗口岸港方口岸區舉行首次大型演練。（央視新聞）
+
+---
+
+### 2026-08-16 14:42:38  #國際
+
+【伊朗外交部強烈譴責以色列對黎襲擊】當地時間15日，伊朗外交部發言人巴加埃強烈譴責以色列當天對黎巴嫩南部的襲擊。巴加埃指出，以色列持續對黎巴嫩進行襲擊，侵犯該國的國家主權和領土完整。他強調，伊朗將與黎巴嫩團結一致，共同捍衛該國的國家主權、獨立和尊嚴。（央視新聞）
+
+---
+
+### 2026-08-16 14:42:30  #MKT News
+
+【Iran's foreign ministry condemns Israeli strike on southern Lebanon】On the 15th (local time), Iran's foreign ministry spokesman Baghaei strongly condemned an Israeli strike on southern Lebanon, saying Israel's continued attacks violate Lebanon's sovereignty and territorial integrity. Baghaei said Iran will stand with Lebanon to defend its sovereignty, independence and dignity.
+
+---
+
+### 2026-08-16 14:42:08  #國際
+
+伊朗最高領袖穆傑塔巴・哈梅內伊辦公室週日宣佈，伊朗前最高領袖阿里・哈梅內伊及其家屬的四十日悼念儀式將在德黑蘭、庫姆與馬什哈德舉辦。相關活動是為紀念阿里・哈梅內伊下葬滿四十天。
+
+---
+
+### 2026-08-16 14:41:22  #國際
+
+伊朗軍方失蹤事務主管稱，卡達應當允許伊朗空軍真相調查團入境。
+
+---
+
+### 2026-08-16 14:38:21  #其他
+
+據燈塔專業版，截至8月16日，影片《去你的島》票房突破1億。
+
+---
+
+### 2026-08-16 14:35:25  #其他
+
+【中國電建設計承建的西北兩座抽蓄電站透過驗收】據中國電建訊息，近日，中國電建設計承建的西北地區兩座百萬千瓦級抽水蓄能電站接連迎來重大節點，新疆阜康抽蓄電站透過工程竣工驗收，陝西鎮安抽蓄電站透過樞紐工程專項驗收。
+
+---
+
+### 2026-08-16 14:30:27  #國際
+
+當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）
+
+---
+
+### 2026-08-16 14:27:23  #MKT News #Market Themes #AI Revolution
+
+【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry.
+
+---
+
+### 2026-08-16 14:24:30  #公司
+
+【固德威與深算院達成戰略合作 共建AI+智慧能源聯合創新中心】據固德威訊息，8月16日，固德威技術股份有限公司（簡稱“固德威”）與深圳計算科學研究院（簡稱“深算院”）在蘇州固德威智慧能源大廈簽署戰略合作協議。同期，還舉行了“AI+智慧能源”聯合創新中心揭牌儀式，中心圍繞AI+資料+新型電力系統深度融合展開長期聯合研發，著力推進智慧能源行業的正規化躍遷。
+
+---
+
+### 2026-08-16 14:17:19  #其他
+
+莫斯科市長：從週六晚間至週日莫斯科時間6時30分，共有600架無人機飛向莫斯科地區，其中201架在莫斯科地區被摧毀。
+
+---
+
+### 2026-08-16 14:16:41  #國際
+
+【烏稱基輔遭導彈襲擊 3人受傷】烏克蘭首都基輔市市長克利奇科16日通報稱，俄軍當天凌晨使用彈道導彈襲擊了烏克蘭首都基輔，導致奧博隆區和霍洛西伊夫區發生火災，截至當地時間7時20分，已有3人受傷。（央視新聞）
+
+---
+
+### 2026-08-16 14:16:10  #公司
+
+【機械傷害事故致1死，深圳龍崗釋出調查報告：存在瞞報，建議對5人追究刑責】龍崗區應急管理局日前公佈《龍崗南灣“3·4”一般機械傷害死亡事故調查報告》。3月4日14時38分許，深圳市龍崗區南灣街道下李朗社群深圳國際綜合物流樞紐中心（C2）一標段專案發生一起機械傷害事故，造成1人死亡，直接經濟損失200萬元。經調查認定，上述事故是一起因施工人員違章作業，施工單位安全生產主體責任不落實，現場安全管理不到位，監理單位疏於監理造成的生產安全責任事故，且存在瞞報事故情形。調查報告顯示，國際物流中心（C2）一標段總承包專案執行經理卿某文等5人被建議追究刑事責任。中鐵二十五局集團有限公司廣東省專案主要負責人王某新、國際物流中心（C2）一標段總承包專案專案經理周某平等22人對事故發生負有責任，建議由相關部門對其進行調查處理。
+
+---
+
+### 2026-08-16 14:15:18  #MKT News
+
+【Six killed in Indiana storms and flooding】The U.S. state of Indiana emergency operations center and state officials said on Aug. 15 that consecutive strong storms and flooding have killed at least six people. Heavy rain over the past week raised river levels across multiple waterways and forced several hundred residents to evacuate. Indianapolis Mayor Joe Hogsett said the city is experiencing its worst flooding in more than 30 years. More than a dozen Indiana counties have declared local disaster; emergency crews and the National Guard are conducting rescue and relief operations. Earlier this week severe storms across the U.S. Midwest, also affecting Illinois, Kentucky and Ohio, spawned tornadoes, heavy rain and flash floods and temporarily cut power to nearly 1 million customers.
+
+---
+
+### 2026-08-16 14:11:55  #公司 #觀點
+
+【外資“喜好”變了，最新調倉動向揭曉】三季度以來，高盛、摩根士丹利、摩根大通、瑞銀、巴克萊等國際機構旗下QFII賬戶，明顯扎堆中小盤硬科技與高階製造。據已披露公告，高盛公司三季度新進大恆科技（機器視覺）、金智科技（智慧電網）、浩辰軟體（工業軟體）、鴻富瀚（消費電子）、朗坤科技（生物質能發電）、常潤股份（汽車維保裝置）等多家公司的十大流通股東。高盛國際則出現在熊貓乳品、中恆集團、蓮花控股、潤建股份、三友聯眾、鋒龍股份、寧波韻升等公司名單中。值得關注的是，多家機構集中出現在一批並不算“大白馬”的中小市值公司股東名單中。其中，摩根士丹利、瑞銀與高盛同步新進大恆科技十大流通股東；瑞銀、巴克萊與高盛同步新進常潤股份；摩根大通、瑞銀與高盛國際同步新進通合科技；摩根士丹利、巴克萊和高盛新進唯萬密封；摩根士丹利、摩根大通和瑞銀新進科安達。（21財經）
+
+---
+
+### 2026-08-16 14:08:27  #公司 #國際
+
+【韓國股市反彈 韓國投資者再度融資買入】市場資料週日顯示，隨著韓國股市自深度低點反彈，本土投資者再度大舉融資買入本國股票。 韓國金融投資協會（KOFIA）統計資料顯示，截至週四，用於買入股票的融資融券餘額（即保證金債務）達到30.93萬億韓元（摺合218億美元），高於8月3日的27.44萬億韓元。 此番融資規模攀升，背景是三星電子、SK海力士等市場權重股，從AI相關投資盈利擔憂引發的震盪行情中大幅回升。 分析師認為，鑑於AI投資相關憂慮有所緩解，韓國股市暫無即刻降溫跡象，融資規模或將在一段時間內繼續走高，有望創下新高。
+
+---
+
+### 2026-08-16 14:02:06  #國際
+
+【俄政治學者：日本走軍國主義道路 俄無需顧及日方感受】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。對此，俄羅斯政治學者表示，俄方意在告訴日本，日方再次走上軍國主義道路，俄方無需向日本展示善意。據俄羅斯方面近日訊息，俄羅斯政治學者盧基揚諾夫表示，普京此次登島在某種意義上劃下了一條界線，同時，向日本釋放出一個訊號：如果日本不願對俄奉行獨立於西方的自主政策，那麼俄羅斯方面將不再顧及日方的感受。更何況，俄羅斯總統對國內任何地區的視察都是完全正常的行為。（央視新聞）
+
+---
+
+### 2026-08-16 14:01:03  #宏觀 #國際
+
+【朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀】中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志的遺體，將於18日在北京火化。為悼念朱鎔基同志，18日，首都天安門、新華門、人民大會堂、外交部，各省、自治區、直轄市黨委和政府所在地，香港特別行政區、澳門特別行政區，各邊境口岸，對外海空港口，中國駐外使領館將下半旗誌哀。（新華社）
+
+---
+
+### 2026-08-16 13:58:56  #MKT News
+
+【US Navy finds unidentified drone at largest Italian base; base-wide security measures enacted】Stars and Stripes reported on 14 that the US Navy discovered an unidentified small drone at its largest base in Italy and implemented base-wide security measures. The drone was found on 13 at a support site, prompting precautionary action. Separately, a brief shelter-in-place order was issued at a garrison about 13 miles (21 km) from the discovery; officials have not confirmed whether the order was related to the drone or whether similar orders were issued at the support site.
 
 ---
 
@@ -18167,239 +18419,5 @@ At the morning close, China's main futures contracts were mostly higher. Rapesee
 ### 2026-08-14 11:25:56  #公司 #觀點
 
 【中泰證券：從營養補充到功能精準化 乳業結構性增長新引擎】中泰證券釋出研報稱，隨著乳企技術不斷迭代成熟，高蛋白、無乳糖等功能化新品湧現，複合功能產品也愈加豐富，功能性乳品有望持續保持高於大盤的增速。對於能夠開拓場景、擴充套件觸達人群、以品質驅動復購的乳企或將受益，建議重點關注伊利股份(600887.SH)、蒙牛乳業(02319)、新乳業(002946.SZ)等乳企。
-
----
-
-### 2026-08-14 11:25:33  #公司
-
-阿布扎比港口集團：已將霍爾木茲海峽航運中斷對其客戶、阿聯酋及海灣合作委員會更廣泛經濟生態系統的影響降至最低。
-
----
-
-### 2026-08-14 11:24:17  #MKT News
-
-The regional governor said a fire broke out at Russia's Ust-Luga port.
-
----
-
-### 2026-08-14 11:24:08  #國際
-
-印尼總統普拉博沃：有信心到年底經濟增長率能達到6%。
-
----
-
-### 2026-08-14 11:23:58  #MKT News #Market Themes #The Trump Trade
-
-【Trump's Friday schedule】BJT 20:00 — handle administrative affairs at the White House; BJT 23:00 — policy meeting in the Oval Office; BJT 00:00 (next day) — signing ceremony in the Oval Office; BJT 03:00 (next day) — speech to a traveling delegation.
-
----
-
-### 2026-08-14 11:23:56  #MKT News #Market Regions #Emerging Markets
-
-Indonesia's president said he believes GDP growth could reach 6% by year-end.
-
----
-
-### 2026-08-14 11:23:56  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Hang Seng Index
-
-【Shanghai Jan–Jul total trade 3.00 tln yuan, up 17.7% YoY】Shanghai Customs said total imports and exports in the first seven months reached 3.00 tln yuan, up 17.7% YoY. July trade was 447.57 bln yuan, up 12.6% YoY, marking the 18th consecutive month of growth.
-
----
-
-### 2026-08-14 11:23:46  #MKT News #Market Regions #Emerging Markets
-
-Indonesian president said real investment continues to grow amid global uncertainty and is creating more jobs.
-
----
-
-### 2026-08-14 11:23:35  #MKT News #Important #Commodities #Industrial Metals
-
-Front-month industrial-silicon contract rose 2.0% intraday to 8,755 yuan/ton.
-
----
-
-### 2026-08-14 11:23:30  #公司
-
-【致尚科技等成立新公司 含光電子器件製造業務】企查查APP顯示，近日，深圳市致景聯創科技有限公司成立，法定代表人為陳和先，註冊資本為6000萬元，經營範圍包含光電子器件製造；光電子器件銷售；電子元器件製造；電力電子元器件製造；光通訊裝置製造等。企查查股權穿透顯示，該公司由致尚科技全資子公司深圳市致尚新科技發展有限公司、劉東利共同持股。
-
----
-
-### 2026-08-14 11:23:07  #國際
-
-【萬斯稱美將實現對伊朗雙重目標】美國副總統萬斯當地時間8月13日在接受採訪時表示，他堅信美國將實現對伊朗的雙重目標：阻止伊朗獲得核武器，並維持能源價格穩定。萬斯稱，美國將在與伊朗的博弈後“處於更有利的地位”，特朗普政府正在“非常有選擇性、極具戰略性地”運用外交、軍事和經濟工具來確保目標達成。萬斯還補充稱，由於伊朗“有時不遵守對我們的承諾”，局勢仍具不可預測性。
-
----
-
-### 2026-08-14 11:22:47  #市場 #國際 #原創
-
-【韓國啟動24小時外匯交易以來 日均成交量增長超10%】韓國財政部週五表示，自上月推出全天候外匯交易以來，外匯市場日均即期交易量增長超過10%。韓國財政部表示：“自7月6日24小時外匯交易系統啟動以來，市場基礎設施執行平穩，未發生任何事故，韓元兌美元匯率與主要貨幣相比保持穩定。”據韓國政府統計，今年上半年外匯市場日均即期交易量為173.9億美元，而24小時交易系統啟動後增長10.1%，達到191.4億美元。與會人員指出，由於系統尚處於初期階段以及與海外市場存在時差等因素，深夜時段交易量的增長速度較為溫和。
-
----
-
-### 2026-08-14 11:19:02  #公司
-
-【天津允新海河創業投資基金登記成立 出資額1億】天眼查App顯示，近日，天津允新海河創業投資基金合夥企業（有限合夥）成立，出資額1億人民幣，執行事務合夥人為公能日新（天津）私募股權投資基金管理有限公司，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，由允公聚能（天津）新能源集團有限公司、天津市天使投資引導基金合夥企業（有限合夥）、天津津鑠鼎和金匯投資有限公司、公能日新（天津）私募股權投資基金管理有限公司等共同出資。
-
----
-
-### 2026-08-14 11:18:14  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Copper
-
-【Australia housing market cools; Q2 new home lending posts biggest drop in over three years】New home loans in Australia fell 5.2% QoQ in the three months to June, the largest quarterly decline since end-2022. Investor lending fell over 10% while owner-occupier loans dropped 1.9%. The fall aligns with major banks' reports of sharply lower mortgage applications. Reduced tax incentives for investors and continued house-price declines are prompting buyers to wait for a market bottom, suggesting housing demand may remain weak. The concurrent drop in prices and lending indicates Albanese's recent tax reforms to curb an unaffordable housing market have begun to take effect.
-
----
-
-### 2026-08-14 11:17:32  #公司
-
-跨境支付公司XTransfer：全球企業客戶數量突破百萬。
-
----
-
-### 2026-08-14 11:16:14  #MKT News #Commodities #Precious Metals #02099.HK #Impact bullish #03330.HK #02899.HK
-
-Hong Kong-listed gold miners firmed; China Gold International (02099.HK) jumped over 12% after reporting results, Lingbao Gold (03330.HK) rose more than 4%, and Chifeng Gold (06693.HK) and Zijin Mining (02899.HK) also gained.
-
----
-
-### 2026-08-14 11:15:32  #MKT News #HON.O #Impact bearish
-
-JP Morgan cuts Honeywell price target to $255 from $262.
-
----
-
-### 2026-08-14 11:15:25  #MKT News
-
-【Iran crisis disrupts energy markets, uncertainty drives surge in Japan power futures】Japanese firms are increasingly using power futures to hedge fuel-price risk as the Iran crisis roils energy markets. On the European Energy Exchange (EEX), combined July daytime, weekend and weekly volumes nearly doubled YoY to just over 10,000 contracts, a second consecutive monthly record. EEX accounted for about 97% of the Japanese power futures market in 2025. Intraday contract prices hit record highs in June and July. Leo Takai, EEX research and management manager, said the Iran crisis has made fuel markets unpredictable, prompting participants to shift trading toward futures—particularly intraday contracts.
-
----
-
-### 2026-08-14 11:13:03  #其他
-
-【守護美麗中國 生態環境法典8月15日起施行】8月15日是第四個全國生態日。繼民法典之後我國第二部以“法典”命名的法律——《中華人民共和國生態環境法典》將自15日起施行，標誌著我國生態環境法治建設邁入新境界，為實現人與自然和諧共生的現代化進一步築牢法治根基。
-
----
-
-### 2026-08-14 11:12:29  #央行 #國際 #原創
-
-【美聯儲FIMA回購機制上週仍未被使用 表明日本沒有動用該工具支撐日元】美聯儲一項鮮少使用的流動性工具上週沒有進行任何操作，再次表明日本在最近一次支撐日元的行動中沒有使用該工具。與此同時，海外貨幣當局向美聯儲存入了更多現金。根據美聯儲最新資料，截至8月12日當週，外國和國際貨幣當局回購機制(FIMA)的平均餘額為零。同期美聯儲的外國逆回購資金池的使用規模增加約400億美元，至3570億美元，為11月5日以來最高，也是自2022年11月以來最大的單週增幅。非美國實體可在該資金池存放隔夜資金，並按市場利率獲得收益，目前利率為3.5%。
-
----
-
-### 2026-08-14 11:11:40  #MKT News
-
-【China launches drafting of national testing standards for humanoid robots】Aug 13, Optics Valley — China has launched drafting of a national standards series for humanoid robot testing, initiating seven draft standards including general rules, environmental perception, decision and planning, and motion control. More than 200 industry and academic representatives attended, including Unitree Robotics, Xiaomi Robotics, Magic Atom, ZTE, CloudMinds, Horizon Robotics, Lingxin Qiaoshou and other domestic robotics firms, plus Wuhan University, Huazhong University of Science and Technology, Nanjing University of Aeronautics and Astronautics, Northwestern Polytechnical University, China Jiliang University and University of Bamberg. Hubei provincial electronic information standardization committee unveiled a Humanoid Robot and Embodied Intelligence standards working group; the first 29 members include the Hubei Humanoid Robot Innovation Center, Hubei Institute of Metrology and Testing Technology, Wuhan University and HUST.
-
----
-
-### 2026-08-14 11:11:36  #市場 #焦點
-
-科創50日內跌幅達1.00%，成分股中，華虹宏力跌8.75%，中科飛測跌5.15%，中控技術跌3.68%，百利天恆跌3.30%。
-
----
-
-### 2026-08-14 11:11:17  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-【Asian memory-chip makers gain after SanDisk's upbeat long-term outlook】Asian memory-chip stocks rose after SanDisk's upbeat long-term outlook. Kioxia Holdings jumped as much as 8.7% in Tokyo and SK Hynix rose as much as 6.5% in Seoul. The Bloomberg Asia Semiconductor Index climbed 1.6%, poised for a fifth straight session of gains. SanDisk said it expects revenue to grow 15–20% in 2028–2030, driven by long-term pricing agreements with customers. Ortus Advisors Japan equity strategist Andrew Jackson wrote that long-term contracts for NAND flash could help smooth the classic boom‑and‑bust cycle versus more volatile spot memory prices.
-
----
-
-### 2026-08-14 11:11:04  #其他
-
-【快手短劇7月頭部十家版權分賬1300萬】快手內容消費中心資料顯示，原生短劇版權方7月分賬金額環比6月翻倍，單月規模創歷史新高。其中，Top10版權方分賬金額達1300萬，環比增幅113%。預計8月短劇分賬規模將再翻倍。
-
----
-
-### 2026-08-14 11:10:36  #公司
-
-【東方甄選回應遭“薅羊毛式”黑灰產詐騙：犯罪嫌疑人已被採取刑事強制措施】東方甄選8月13日發文稱，近日，東方甄選在訂單資料日常監測中發現大量異常僅退款訂單，涉及金額較大，存在“薅羊毛式”黑灰產詐騙嫌疑。公司立即固定證據並向公安機關報案，全程配合調查取證。經警方縝密工作，目前，某張姓犯罪嫌疑人因涉嫌詐騙罪，已被警方依法採取刑事強制措施，案件正在進一步辦理中。未來，東方甄選將持續完善風控體系，加大對惡意退賠、職業索賠等行為的排查與打擊力度。
-
----
-
-### 2026-08-14 11:10:24  #其他
-
-【人形機器人試驗方法系列國家標準編制工作啟動】據“中國光谷”訊息，8月13日，《人形機器人試驗方法》系列國家標準啟動會在光谷舉行。會上，總則、環境感知、決策規劃、運動控制等7項標準同步啟動編制。來自宇樹科技、小米機器人、魔法原子、中興通訊、雲深處科技、地平線、靈心巧手、銀河通用等國內頭部企業，和武漢大學、華中科技大學、南京航空航天大學、西北工業大學、中國計量大學、班貝格大學等高校的200多名行業代表參會。現場，湖北省電子資訊標準化技術委員會人形機器人與具身智慧標準工作組揭牌成立，首批委員涵蓋湖北人形機器人創新中心、湖北省計量測試技術研究院、武漢大學、華中科技大學等29家單位。
-
----
-
-### 2026-08-14 11:09:59  #國際
-
-【外國企業對特定二次圓柱形電池、電池元件及包含該元件的產品提起337調查申請】2026年7月21日，韓國LG Energy Solution Ltd.、美國LG Energy Solution Arizona, Inc.根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）違反了美國337條款。
-
----
-
-### 2026-08-14 11:09:52  #國際
-
-普拉博沃：印尼目標是在5-6年內實現肉類自給自足。
-
----
-
-### 2026-08-14 11:09:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share food processing and manufacturing sector spiked intraday; Guifaxiang went straight to the daily limit-up, Lianhua Holdings had earlier hit the limit, and Sanquan Food, Black Sesame, Xianle Health, Qingdao Food and Anjoy Food also rose.
-
----
-
-### 2026-08-14 11:09:13  #市場
-
-【食品加工製造板塊短線衝高，桂發祥直線漲停】食品加工製造板塊短線衝高，桂發祥直線漲停，蓮花控股此前漲停，三全食品、黑芝麻、仙樂健康、青島食品、安井食品跟漲。
-
----
-
-### 2026-08-14 11:08:59  #公司 #國際
-
-【美國ITC釋出對墨盒及其元件II的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定墨盒及其元件II（調查編碼：337-TA-1452）作出337部分終裁：本案存在侵權，向侵權美國註冊專利號8,764,172、9,370,934、11,535,038、12,240,248、12,240,249的第1和第7項權利要求的涉案產品釋出普遍排除令，向列名被告美國Mountain Peak, Inc. d/b/a/ Billiontree Technology USA, Inc. d/b/a Toner Kingdom of China等釋出禁止令，本案調查終止。
-
----
-
-### 2026-08-14 11:08:37  #MKT News #Commodities
-
-Indonesia's president said the country has achieved self-sufficiency this year in eight commodities, including rice and corn.
-
----
-
-### 2026-08-14 11:08:30  #國際
-
-印尼總統普拉博沃：今年我們已在包括大米、玉米在內的八種大宗商品上實現自給自足。
-
----
-
-### 2026-08-14 11:08:10  #公司
-
-【小米汽車標誌升降裝置專利獲授權】天眼查智慧財產權資訊顯示，小米汽車科技有限公司申請的“標誌升降裝置及車輛”專利獲授權。摘要顯示，本公開提供一種標誌升降裝置及車輛，涉及車輛技術領域。該標誌升降裝置包括：安裝架，包括移動塊和架體，架體與移動塊以第一方向所在的直線為軸轉動連線；第一標誌；第二標誌，第一標誌和第二標誌沿第二方向間隔設於架體上，且分別與架體以第一方向所在的直線為軸轉動連線；驅動元件，用於驅動移動塊沿第二方向移動，且包括導軌，導軌沿第二方向延伸，且具有沿第二方向連線的直線部和彎曲部，彎曲部朝向遠離所述移動塊的方向彎曲。可提高車輛的續航里程。
-
----
-
-### 2026-08-14 11:06:53  #MKT News
-
-Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon.
-
----
-
-### 2026-08-14 11:06:08  #國際
-
-普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。
-
----
-
-### 2026-08-14 11:05:22  #國際
-
-印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。
-
----
-
-### 2026-08-14 11:05:07  #市場 #焦點
-
-北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。
-
----
-
-### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
-
----
-
-### 2026-08-14 11:05:01  #公司 #國際
-
-【美國ITC釋出對具有影片功能的電子裝置的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定具有影片功能的電子裝置（Certain Video-Capable Electronic Devices，調查編碼：337-TA-1481）作出337部分終裁：對本案行政法官於2026年7月17日作出的初裁（No.18）不予複審，即基於仲裁協議（arbitration agreement），終止本案調查。
 
 ---

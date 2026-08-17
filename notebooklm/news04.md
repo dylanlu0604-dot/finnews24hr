@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-17 22:58:32_
-_本檔包含 3009 則快訊，約 603833 字_
+_更新時間：2026-08-17 23:34:21_
+_本檔包含 3019 則快訊，約 604650 字_
+
+---
+
+### 2026-08-13 10:07:23  #其他
+
+【諾仕機器人完成近億元A+輪融資】近日，精密傳動部件供應商諾仕機器人（NOUSBOT）完成近億元A+輪融資。本輪由順為資本領投，望千銘誠跟投。資金將主要用於微型行星滾柱絲槓產能擴張、產品迭代及海外市場佈局。
+
+---
+
+### 2026-08-13 10:07:16  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Bond Yield Hits 4-week High — Japan 10 Year Government Bond Yield increased to 2.86%, the highest since July 2026. Over the past 4 weeks, Japan 10Y Bond Yield gained 15.56 basis points, and in the last 12 months, it increased 130.70 basis points.
+
+---
+
+### 2026-08-13 10:06:59  #焦點
+
+【全國碳排放權交易市場累計成交量突破9億噸】生態環境部部長黃潤秋在8月13日國務院新聞辦公室舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，截至7月底，全國碳排放權交易市場累計成交量突破9.3億噸，在推動行業低成本降碳的同時，有力促進綠色低碳轉型。 （新華社）
+
+---
+
+### 2026-08-13 10:06:34  #其他
+
+【中際旭創漲超3% 成交額超100億元】中際旭創成交額超100億元，漲超3%；天孚通訊成交額超70億元，漲超9%；新易盛成交額超70億元，漲超4%。
+
+---
+
+### 2026-08-13 10:06:10  #MKT News
+
+【China's environmental quality improves through July, ministry says】Jan–Jul national PM2.5 concentration fell 1.8 µg/m3 YoY, a 6.2% decline; proportion of 'good' air days rose 3.9 percentage points YoY. Share of surface water monitoring sections rated Class I–III reached 86.5%, up 2.4 percentage points YoY, the Ministry of Ecology and Environment said.
+
+---
+
+### 2026-08-13 10:06:04  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish #DXY
+
+Japan 10-year government bond yield rose 0.5 bps to 2.855%.
+
+---
+
+### 2026-08-13 10:05:36  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bearish #000660.KS
+
+【Capital Economics: South Korea semiconductor boom may cool within two years】Capital Economics economist Marcel Thieliant said that while South Korea’s GDP faces near-term upside risks, the semiconductor-driven boom could lose momentum within two years. He expects the US AI investment surge to cool by 2028, which could prompt Korean chipmakers to pare capital spending given the sector’s cyclicality. Samsung Electronics and SK Hynix have announced a combined investment plan totaling 800 trillion won to build new fabs in southwest South Korea, but provided no timetable. Thieliant noted SK Hynix cut capex by two-thirds in 2023 after the post-pandemic electronics upswing reversed.
+
+---
+
+### 2026-08-13 10:05:23  #公司
+
+【奇點智控完成近億元天使輪融資】近日，致力於重塑具身智慧感知標準的創新型科技企業奇點智控（上海）科技有限公司宣佈，已完成近億元人民幣天使輪融資。本輪融資由隱峰資本領投，張江科投、浦東創投、傅利葉及兩家上市公司共同跟投。
+
+---
+
+### 2026-08-13 10:05:01  #宏觀
+
+【今年以來我國生態環境質量持續向好】生態環境部部長黃潤秋在8月13日國務院新聞辦公室舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年以來我國生態環境質量持續向好、主要指標明顯改善。1至7月，全國細顆粒物（PM2.5）濃度同比下降1.8微克/立方米、下降幅度達6.2%；優良天數比例同比上升3.9個百分點。地表水Ⅰ至Ⅲ類水質斷面比例達到86.5%，同比上升2.4個百分點。（新華社）
+
+---
+
+### 2026-08-13 10:04:51  #MKT News #02208.HK #Impact bullish #02338.HK #02402.HK
+
+Hong Kong-listed power equipment sector strengthened; Goldwind (02208.HK) rose over 3%, Weichai Power (02338.HK) nearly 2%, while 02402.HK and 03393.HK also advanced.
+
+---
+
+### 2026-08-13 10:03:51  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Remains on Intervention Watch — The Japanese yen traded around 159.3 per dollar on Thursday, hovering near the key psychological level of 160 per dollar and keeping traders on alert for further intervention from authorities amid persistent weakness. The currency remained pressured by longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. The yen also struggled to gain momentum even after subdued US inflation data reduced pressure on the Federal Reserve to raise interest rates in the near term. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate.
+
+---
+
+### 2026-08-13 10:03:47  #MKT News
+
+A-share brokerage sector strengthened; Caitong Securities jumped over 8%, while Changjiang Securities, Tianfeng Securities and CSC Financial also rose.
+
+---
+
+### 2026-08-13 10:03:43  #公司
+
+【中興通訊與明陽集團圍繞算力專案推進等座談交流】據明陽集團訊息，8月11日，中興通訊高階副總裁、數字能源經營部總裁彭愛光一行到訪明陽集團，與明陽集團董事、中國市場總裁張瑞座談，雙方圍繞算力專案推進、風光儲氫一體化創新等議題深入交流。座談中，張瑞指出，新型電力系統建設與綠色算力產業同步迎來重要發展機遇，但算力用電成本偏高、出海競爭力不足是行業普遍痛點。雙方產業鏈優勢互補、協同潛力巨大，期待與中興通訊深化全方位戰略對接，聯合打造綠電算力融合創新示範，構建裝備製造與數字能源協同發展、雙向賦能的合作樣板。彭愛光表示，雙方在多能融合、綠電算力一體化創新領域高度契合，期待持續探索技術協同、示範專案打造等多元合作空間。
+
+---
+
+### 2026-08-13 10:03:03  #市場 #觀點
+
+【券商板塊走強 財通證券漲超8%】券商板塊走強，財通證券漲超8%，長江證券，天風證券、中信建投等跟漲。
+
+---
+
+### 2026-08-13 10:02:12  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share CRO sector rallied. Boji Pharmaceutical hit the daily limit-up and was sealed at 20cm; Haoyuan Pharmaceutical rose over 9%; Wanbang Pharmaceutical and Zhaoyan New Drug also advanced.
+
+---
+
+### 2026-08-13 10:02:09  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-08-13 10:01:29  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields
+
+Japan 30-year bond yield rose 1.0bp to 4.000%.
+
+---
+
+### 2026-08-13 10:01:16  #市場 #國際
+
+印尼股市基準指數開盤上漲0.2%，至6388.23點。
+
+---
+
+### 2026-08-13 10:00:53  #MKT News #Market Themes #AI Revolution
+
+【Anthropic in talks to buy Decart AI for about $6bn to bolster AI infrastructure】Anthropic is in talks to acquire AI startup Decart AI for about $6bn, sources said. The deal is not final and negotiations could collapse. If completed it would be Anthropic’s largest-known acquisition and comes amid market anticipation of an Anthropic IPO. Decart’s software increases chip efficiency, lowering AI model training costs and potentially allowing Anthropic to scale existing infrastructure. Anthropic rarely pursues large acquisitions but has been investing heavily in compute to develop products and serve customers.
+
+---
+
+### 2026-08-13 10:00:00  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+A-share baijiu sector rallied; Kuaijishan hit the daily limit-up, Guyue Longshan and Shuijingfang rose over 2%, with Huangtai Jiuye and Kouzi Jiao also gaining.
+
+---
+
+### 2026-08-13 09:59:48  #市場
+
+【CRO概念板塊短線拉昇，博濟醫藥漲停】CRO概念板塊短線拉昇，博濟醫藥漲停，近岸蛋白、和元生物、普蕊斯、萬邦醫藥、成都先導等紛紛走高。
+
+---
+
+### 2026-08-13 09:57:52  #公司
+
+【智飛生物控股子公司宸安生物CA111注射液Ib期臨床試驗完成首批受試者入組】8月13日，據智飛生物訊息，其控股子公司宸安生物自主研發的CA111注射液Ib期臨床試驗於8月12日完成第1劑量組受試者入組。本次Ib期臨床試驗旨在評估CA111注射液在肥胖/超重受試者中的安全性、耐藥性、藥代動力學及藥效特徵。
+
+---
+
+### 2026-08-13 09:57:42  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Track Asian Peers Higher — The Shanghai Composite rose 0.3% to 3,957 on Thursday, while the Shenzhen Component climbed 1% to 14,554, extending gains from the previous session and tracking strength across Asian markets amid a renewed global AI-driven rally. Investor appetite for technology stocks continued to recover after last month’s sharp selloff, as strong earnings from major tech companies reinforced confidence in sustained spending on AI infrastructure and growing evidence that AI adoption is expanding across a wider range of applications. In China, attention remained firmly on Semiconductor Manufacturing International Corp., which is set to report earnings later on Thursday, with net profit expected to more than double from a year earlier. Cambricon Technologies (1.4%), SMIC (2%), Zhongji Innolight (3.8%), Eoptolink Technology (3.1%), and NAURA Technology (1.9%) were among the sector's top gainers. In contrast, energy stocks lagged, with PetroChina (-3.6%) and CNOOC (-2.5%) among the worst performers.
+
+---
+
+### 2026-08-13 09:57:13  #其他
+
+越南國家銀行：越南盾存貸缺口達 762 億美元。
+
+---
+
+### 2026-08-13 09:56:58  #公司 #市場
+
+【其他酒類板塊短線拉昇，會稽山漲停】其他酒類板塊短線拉昇，會稽山漲停，金楓酒業、古越龍山、張裕A、威龍股份、百潤股份等紛紛走高。
+
+---
+
+### 2026-08-13 09:56:30  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share cultural and media sector extended gains; Duke Culture hit a 20% limit-up, Fengyuzhu, Yinli Media, Shengguang Group and Chuban Media reached daily limit-ups, while Yidian Tianxia, CITIC Publishing and Guomai Culture also rose.
+
+---
+
+### 2026-08-13 09:56:26  #市場
+
+恒指盤中轉漲，恒生科技指數現漲0.46%。
+
+---
+
+### 2026-08-13 09:56:25  #MKT News #Market Regions #Hang Seng Index #Impact bullish #Hang Seng Tech Index
+
+Hang Seng Index turned positive intraday; Hang Seng Tech Index up 0.46%.
+
+---
+
+### 2026-08-13 09:55:58  #公司 #國際
+
+【豐田等日本企業在美遭消費者起訴，要求返還特朗普退稅費用】8月13日，據報道，包括豐田汽車、任天堂、索尼集團以及迅銷在內的日本企業美國子公司，近期相繼遭美國消費者起訴。原告稱，相關企業將“對等關稅”成本轉嫁至商品價格，在美國最高法院認定該關稅違法並啟動約1660億美元關稅退還後，企業若獲得退款卻未向消費者返還相應款項，將構成不當得利。
+
+---
+
+### 2026-08-13 09:55:44  #公司 #市場
+
+【文化傳媒板塊大幅拉昇，讀客文化20cm漲停】文化傳媒板塊大幅拉昇，讀客文化20cm漲停，風語築、引力傳媒、省廣集團、出版傳媒漲停，易點天下、中信出版、果麥文化跟漲。
+
+---
+
+### 2026-08-13 09:54:57  #MKT News #Market Regions #Greater China #03308.HK #Impact bullish #01191.HK #06869.HK
+
+Hong Kong-listed optical-communications stocks firmed: 03308.HK rose over 5%, 01191.HK rose over 3%; 06869.HK (Yangtze Optical Fibre & Cable) and 01347.HK also advanced.
+
+---
+
+### 2026-08-13 09:54:54  #其他
+
+【創新藥概念震盪走高 譽衡藥業5天4板】創新藥概念震盪走高，譽衡藥業5天4板，科拓生物、百普賽斯、熱景生物、君實生物跟漲。
+
+---
+
+### 2026-08-13 09:54:00  #市場 #焦點
+
+【A股大眾出版板塊異動拉昇】讀客文化、出版傳媒觸及漲停，中信出版、中國科傳、中國出版、中文線上、榮信文化跟漲。
+
+---
+
+### 2026-08-13 09:53:32  #MKT News #CSI300 #Impact bullish
+
+China A-share dairy sector rallied intraday; Yiming Food hit the daily limit, with Huang's Group earlier at the limit. Panda Dairy, Pinwo Food, Tianrun Dairy, Sunshine Dairy and Western Pastoral also advanced.
+
+---
+
+### 2026-08-13 09:53:24  #公司 #市場
+
+【關志鷗會見中國船舶集團董事長徐鵬】據湖北日報，8月12日下午，湖北省委書記關志鷗在武漢會見中國船舶集團有限公司黨組書記、董事長徐鵬。關志鷗說，中船集團是我國船舶工業發展的國家隊、主力軍。希望集團充分發揮龍頭企業帶動作用，進一步與湖北在戰略科技力量建設、科研成果轉化、綠色智慧船舶和應急特種裝備製造等領域深化合作，推動科技創新和產業創新深度融合，助力湖北爭做高質量發展“優等生”。我們將全力做好服務保障，支援中船集團等各類企業在鄂實現更好發展。
+
+---
+
+### 2026-08-13 09:52:38  #其他
+
+【八仙票房破15億】據燈塔專業版實時資料，截至8月13日9時51分，影片《八仙！》票房突破15億。
+
+---
+
+### 2026-08-13 09:51:16  #公司 #市場
+
+【乳品板塊短線拉昇，一鳴食品漲停】乳品板塊短線拉昇，一鳴食品漲停，皇氏集團此前封板，熊貓乳品、品渥食品、天潤乳業、陽光乳業、西部牧業等跟漲。
+
+---
+
+### 2026-08-13 09:50:44  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
+
+PBoC Pauses 7-Day Repos for 3rd Day, Plans Big Overnight Liquidity — The People’s Bank of China (PBoC) said Thursday, August 13, it conducted zero seven-day reverse repos for a third straight day, citing demand from primary dealers. Separately, the central bank announced it will carry out up to CNY 600 billion of overnight reverse repos per day on August 14 and August 17–19. The PBoC uses these short-term liquidity tools to “fine-tune cash conditions” in the banking system, balancing market demand with stability in funding.
 
 ---
 
@@ -18007,174 +18235,5 @@ Japan Manufacturers' Mood Highest in 5 Months — The Reuters Tankan index for J
 ### 2026-08-12 07:10:36  #Trading Economics #Economy #South Korea #Unemployment Rate #Importance 2
 
 South Korea Jobless Rate Edges Up to 2.8% — South Korea’s seasonally adjusted unemployment rate rose to 2.8% in July 2026 from 2.7% in the previous month. The economy added 108,000 jobs during the month, marking the second consecutive month of increase, bringing total employment to 29.14 million from 29.03 million a year earlier. Employment gains were driven by business, personal, public services, and others (+247,000) and electricity, transport, communication, and finance (+66,000).
-
----
-
-### 2026-08-12 07:09:18  #國際
-
-【中央氣象臺繼續釋出暴雨橙色預警】中央氣象臺8月12日06時繼續釋出暴雨橙色預警：預計，8月12日08時至13日08時，河南、山東西部、湖北中北部、湖南北部、西部和南部、浙江北部和東部、上海、安徽中北部、河北東北部和中南部、北京、天津、山西東部以及廣西東部、廣東中部、內蒙古東南部、黑龍江中部、吉林西部、遼寧西北部和東部、雲南西南部等地部分地區有大到暴雨，其中，河南中東部和南部、安徽北部、湖北北部、浙江東部、河北中西部、北京西南部等地部分地區有大暴雨，河南中部和西部沿山等地部分地區有特大暴雨(250-280毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。
-
----
-
-### 2026-08-12 07:08:39  #公司 #市場
-
-【港股通重塑AI資產估值中樞 大模型從價格戰邁向價值戰】8月以來，港股AI板塊迎來一輪明顯的估值重塑行情。隨著多家AI大模型公司相繼納入港股通標的，南向資金配置中國AI核心資產的通道進一步開啟。Wind資料顯示，6月26日以來，恒生科技指數累計上漲9.50%。分析人士認為，港股通資金通道擴容、頭部大模型釋放提價訊號等多重訊號疊加，標誌著國產AI大模型正從低價搶份額的粗放競爭邁入價值變現的新階段，港股AI板塊估值邏輯正經歷系統性重塑。（中國證券報）
-
----
-
-### 2026-08-12 07:08:23  #市場 #央行 #國際
-
-【宏觀利好疊加工業需求加持 銀價短期有望偏強震盪】近期，國際貴金屬市場熱度升溫。倫敦現貨黃金價格從3940美元/盎司附近一路衝高至4400美元/盎司上方，倫敦現貨白銀價格也由54美元/盎司附近最高升破66美元/盎司，兩者區間累計最大漲幅分別超12%、21%。本輪上漲行情中，白銀市場呈現行情啟動滯後、價格漲勢更猛的特徵。業內人士認為，美國非農就業資料等表現不及預期、美債收益率下行、美元指數回落以及市場對美聯儲貨幣政策預期調整，共同改善了近期貴金屬價格執行的宏觀環境。全球央行持續購金也為貴金屬板塊提供了中長期支撐，而光伏、新能源等領域的工業需求又賦予白銀區別於黃金的基本面支撐。另外，白銀市場規模相對較小、價格彈性更高，一旦資金風險偏好改善，其上漲幅度往往更加突出。短期來看，銀價依託多重利好支撐，有望延續偏強震盪態勢。銀價中長期走勢則高度依賴美聯儲貨幣政策轉向節奏等因素，行情整體易漲難跌。（中國證券報）
-
----
-
-### 2026-08-12 07:07:43  #公司 #市場
-
-【CoreWeave股價盤後飆升 人工智慧需求旺盛提振業績展望】人工智慧(AI)算力供應商CoreWeave Inc.盤後股價大漲，AI支出熱潮推動其銷售增長快於預期。該公司週二表示，第三季度銷售額預計為34.5億至36億美元。資料顯示，分析師此前的預期處於這一區間的低端。CoreWeave還表示，截至第二季度末，其在手合同金額為1040億美元。該指標備受關注，被視為衡量未來銷售的重要參考。該公司稱，在第二季度結束後，新增客戶承諾逾250億美元。財報釋出後，CoreWeave股價在盤後交易中上漲約15%。截至週二收盤，該股今年以來累計上漲26%。資料中心運營商Applied Digital Corp.以及新型雲服務商Nebius Group NV和IREN Ltd.的股價盤後也上漲。
-
----
-
-### 2026-08-12 07:06:11  #市場
-
-【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加106.82噸】截至2026年08月11日，全球最大的白銀ETF iShares Silver Trust持倉量為15313.54噸，較前一個交易日增加106.82噸。
-
----
-
-### 2026-08-12 07:05:13  #公司 #資料 #國際
-
-【瑞安航空與谷歌雲簽署為期五年的合作協議 擴大人工智慧在航空運營中的應用】瑞安航空（Ryanair）週三表示，將根據一項為期五年的新雲端合作協議，在其運營中全面部署谷歌的Gemini人工智慧工具和DeepMind模型，利用該技術協助管理機組人員排班並輔助運營決策。按客運量計算，瑞安航空是歐洲最大的航空公司。該公司表示，將向其全球網路中的3.5萬名員工推出Alphabet旗下 的Google Workspace和Google Cloud服務，以支援其實現到2034年年客運量達到3億人次的目標。瑞安航空與谷歌雲達成的協議，是其現有亞馬遜網路服務（AWS）使用方案的補充，旨在降低技術中斷的風險。這家愛爾蘭航空公司表示，將利用 Gemini Enterprise 開發定製化人工智慧代理，以實現部分決策自動化、最佳化機組人員排班並減少運營中斷。
-
----
-
-### 2026-08-12 07:03:50  #MKT News #Macro & Rates #DXY #Impact bullish #XAUUSD #Impact bearish
-
-National Australia Bank says it still expects the Reserve Bank of Australia to hold the cash rate unchanged for the remainder of 2026, with the first rate cut expected around mid-2027.
-
----
-
-### 2026-08-12 07:03:06  #市場
-
-【波動緩衝墊增厚 可轉債策略悄然走紅】“近期，投資者態度出現了明顯轉變，此前觀望的資金開始主動諮詢。”一位資深私募可轉債策略基金經理表示。資金態度的變化，源於一組反差鮮明的淨值表現。在剛剛過去的7月，當股票、量化指增等產品普遍回撤時，一批此前並不起眼的可轉債策略產品卻扛住了市場波動，部分產品甚至取得正收益。私募排排網資料顯示，7月主觀多頭、量化多頭和股票多空策略指數分別下跌9.29%、15.38%和7.73%，可轉債交易策略指數逆勢上漲0.81%，今年以來累計上漲1.35%，在高波動的市場環境中，含金量凸顯。（中國證券報）
-
----
-
-### 2026-08-12 07:02:58  #其他
-
-【新股提示：北交所信勝科技今日申購】今日可申購北交所新股信勝科技，信勝科技發行總數約3600萬股，發行市盈率9.20倍，申購程式碼為：920093，申購價格：14.35元。
-
----
-
-### 2026-08-12 07:02:24  #其他
-
-【生物醫藥賽道迎來機構扎堆調研 商業化與全球化進展成關注重點】資料顯示，8月1日至11日，生物醫藥行業獲機構調研熱度高漲，獲調研家數在全部申萬一級行業中排名第一，百濟神州、澤璟製藥、九洲藥業等11家公司受到機構青睞。從調研內容看，公司管線的研發和商業化進展、出海的最新規劃和BD（商務拓展）交易動態，是機構關注的重點。中金公司認為，創新藥產業趨勢明確，震盪後仍具配置價值。中國創新藥BD交易維持較高景氣，交易模式由單品License-out逐步向多管線合作、共同開發及NewCo等形式拓展，臨床資料質量與全球競爭力不斷獲得驗證。隨著國內外醫藥投融資回暖，研發投入有望進一步增加，逐步向CXO（醫藥研發生產外包服務）、科研服務和製藥供應鏈傳導。創新藥與CXO仍是全年重點方向。（上海證券報）
-
----
-
-### 2026-08-12 07:01:18  #MKT News #DXY #Impact bullish
-
-【Westpac: RBA guidance has effectively cooled rate-hike expectations】Westpac chief economist Luci Ellis said the RBA's decision to hold rates met expectations but its guidance — "only prepared to raise rates if upside inflation risks materialise", firmer than May's "if necessary" — has effectively lowered market odds of further hikes. Westpac now expects rates to remain on hold through mid‑next year, citing inflation and labour‑market data running below the RBA's May forecasts. The bank describes the move as a "hawkish pause" rather than a loosening; a small chance of further hikes this year remains, conditional on energy-related cost pass-through or escalation in the Middle East.
-
----
-
-### 2026-08-12 07:00:15  #國際
-
-日本8月路透短觀製造業景氣判斷指數 18，前值13。
-日本8月路透短觀非製造業景氣判斷指數 28，前值25。
-
----
-
-### 2026-08-12 07:00:09  #國際
-
-韓國7月失業率 2.8%，預期2.7%，前值2.70%。
-
----
-
-### 2026-08-12 07:00:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan Refinitiv Tankan manufacturing business conditions index 18 in August, up from 13 previously.
-
----
-
-### 2026-08-12 07:00:09  #MKT News
-
-South Korea July unemployment rate 2.8% vs. 2.7% expected; previous 2.70%.
-
----
-
-### 2026-08-12 07:00:08  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-Japan Aug Refinitiv Tankan non-manufacturing sentiment index 28, prior 25.
-
----
-
-### 2026-08-12 07:00:00  #MKT News #Economic Calendar #Important
-
-Japan | Reuters-Tankan Manufacturing Index (Aug) | actual 18 | previous 13
-
----
-
-### 2026-08-12 07:00:00  #MKT News #Economic Calendar #Important
-
-Japan | Reuters-Tankan Non-manufacturing Index (Aug) | actual 28 | previous 25
-
----
-
-### 2026-08-12 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Unemployment Rate (Jul) | actual 2.8% | consensus 2.7% | previous 2.70%
-
----
-
-### 2026-08-12 06:59:55  #市場
-
-【下半年A股投資圖譜浮現：科技為矛、改善為盾，兩大核心主線成機構共識】進入下半年，A股市場在震盪磨底中加快尋找新的執行主線。多方調研獲悉，多家一線機構已形成明確共識：機構資金可依託基本面研究適度左側佈局，普通投資者在右側訊號出現時可進一步提高風險偏好；在配置方向上，應由單一賽道抱團轉向科技成長、基本面改善與高股息資產的均衡組合。AI產業趨勢延續、政策支援持續加碼以及資本市場雙向開放提速，將為下半年結構性行情提供支撐，但海外貨幣政策、地緣局勢等不確定因素仍需警惕。（中證報）
-
----
-
-### 2026-08-12 06:57:05  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Edges Higher in Morning Trade — New Zealand's stocks rose 28 points, or 0.2%, to 13,889 in Wednesday morning trade, after retreating in the previous session, mainly boosted by consumer discretionary, consumer staples, and utilities. However, rising oil prices amid uncertainty over the reopening of the Strait of Hormuz capped the gain, raising concerns over inflation and also raising questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Traders also awaited the release of the RBNZ's business inflation expectations for Q3, due on Thursday, after accelerating slightly in Q2. Among the early gainers were A2 Milk (1.2%), Infratil (0.9%), Westpac Banking Corp. (0.9%), Channel Infrastructure (0.6%), EBOS Group (0.5%), and F&C Investment (0.4%).
-
----
-
-### 2026-08-12 06:51:42  #其他
-
-【評級“分水嶺”顯現，中小銀行信用分層格局漸明】近日，多家評級機構密集釋出銀行2026年跟蹤評級報告。截至8月11日，已有重慶三峽銀行、陝西秦農農商行、浙江富陽農商行等7家中小銀行主體信用評級獲上調，其中重慶三峽銀行與陝西秦農農商行躋身AAA信用梯隊。與此同時，湖北孝感農商行、山西長子農商行等4家機構評級被下調。銀行信用評級有升有降的背後，是中小銀行在經營效益、資產質量、資本實力等方面的分化，中小銀行信用“分水嶺”正在顯現。業內人士認為，在淨息差持續收窄的背景下，中小銀行信用分層將成為長期趨勢，不同銀行需找準自身突圍路徑，夯實經營底盤。（中證報）
-
----
-
-### 2026-08-12 06:51:23  #公司
-
-【兩大龍頭中報披露在即，機構研判港股後市或轉入震盪整固期】在經歷一個多月的持續反彈後，近幾個交易日港股市場漲勢放緩，主要股指呈現區間震盪態勢。本週，騰訊控股、京東集團-SW等行業龍頭將披露的2026年中報是市場關注的重點，對於整個港股市場而言，中報季的盈利確定性將成為行情的主導變數。在業內人士看來，港股8月或轉入震盪整固期，隨著中報披露進入高峰期，市場定價邏輯正從情緒修復與資金輪動切換至基本面驗證與結構性再平衡，市場整體或仍以結構性行情為主。在具體配置上，在繼續將高股息紅利資產作為投資組合“穩定器”的同時，建議可適當增加對港股高彈性方向的關注。（中證報）
-
----
-
-### 2026-08-12 06:46:39  #其他
-
-【截至今年6月 我國可再生能源制氫產能規模超140萬噸】國家能源局昨天（11日）釋出的《中國氫能發展報告（2026）》顯示，截至今年6月，我國以電解水制氫為主要路線的建成和在建可再生能源制氫年產能規模已超140萬噸，氫能產業取得積極進展。當前，我國氫能基礎設施穩步建設。截至6月，全國累計建成加氫站約620座，建成投運純氫管道長度超350公里。
-
----
-
-### 2026-08-12 06:45:07  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Rises by 2.36% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 2.36% increase.
-
----
-
-### 2026-08-12 06:43:31  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-【TRUMP reportedly weighing capital gains tax cut to boost midterms】A senior White House economic adviser and a former administration official said President TRUMP is seeking new policy pledges ahead of the midterms that could include calling on Congress to cut the capital gains tax and creating an exclusion for certain home sales. HASSETT said TRUMP wants additional incentives to secure voter support in November. Former NEC director Larry Kudlow, a TRUMP ally, said he recently discussed indexing capital gains to inflation so gains would be taxed after inflation adjustment, and proposed exempting home sales of $2 million or less from capital gains tax, adding TRUMP is "very interested".
-
----
-
-### 2026-08-12 06:42:31  #其他
-
-【數量創近五年新高，單隻平均規模縮水，今年新發基金“細分賽道”撬動大市場】8月以來，公募基金髮行市場熱度不減。本週（8月10日至14日），49只基金進入發行期，被動指數型產品佔比超四成，硬科技與紅利策略成為主線。一方面是指數型產品聚焦細分賽道，另一方面是FOF產品顯著升溫。將時間軸拉長至今年年內，新基金成立數量創近五年新高，但單隻平均募集規模卻呈現下滑態勢。已成立產品的業績出現明顯分化，同一賽道的基金，因成立時點不同，收益差距較大。（中證報）
-
----
-
-### 2026-08-12 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Slumps by 5.07% — Top commodity losers are Cocoa (-5.07%) and Canola (-1.77%). Gains are led by Barley (2%), Sugar (1.59%) and Cotton (0.62%).
 
 ---
