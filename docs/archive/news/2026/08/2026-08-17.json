@@ -1,7 +1,97 @@
 {
   "date": "2026-08-17",
-  "count": 725,
+  "count": 735,
   "items": [
+    {
+      "id": "5043405",
+      "time": "2026-08-17 11:30:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旺旺食品旗下多家公司已登出】據媒體報道，近日，日前，旺旺集團的一封內部公開信流傳網路，董事長蔡衍明將集團2026財年第一季度的業績失速直接定性為“重大經營危機”。天眼查App顯示，旺旺集團關聯公司旺旺（中國）投資有限公司成立於2004年9月，法定代表人為李玉生，註冊資本5000萬美元，經營範圍包括在中國的食品、飲料以及相關產品及房地產、醫療機構等國家允許外商投資的領域依法進行投資等。對外投資資訊顯示，該公司旗下多家企業已登出。此外，該公司存在歷史被執行人資訊。"
+    },
+    {
+      "id": "5043404",
+      "time": "2026-08-17 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲1.62%， 滬深300指數期貨連續漲0.83%， 中證500指數期貨連續漲1.80%， 上證50指數期貨連續漲0.51%。"
+    },
+    {
+      "id": "5043403",
+      "time": "2026-08-17 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續漲8.59%，乙二醇連續漲5.09%，丁二烯橡膠連續漲4.66%，純苯連續漲4.10%，對二甲苯連續漲3.84%，低硫燃料油連續漲3.70%，丙烯連續漲3.69%，苯乙烯連續漲3.52%，塑膠連續漲3.35%，PTA連續漲3.20%。"
+    },
+    {
+      "id": "5043402",
+      "time": "2026-08-17 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5043401",
+      "time": "2026-08-17 11:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "夏威夷電力公司：截至下午4點，工作人員已為近18萬使用者恢復供電，目前仍在繼續開展災情評估工作。"
+    },
+    {
+      "id": "5043400",
+      "time": "2026-08-17 11:29:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【福建省超3億元進口非洲貨物享受零關稅】今年5月1日起，我國對53個非洲建交國全面實施零關稅舉措。記者獲悉，截至該舉措落地百日，福建省累計共有3.44億元進口貨物享受零關稅，82家企業從23個非洲建交國進口貨物，享受關稅優惠3569萬元。從商品結構看，農產品、礦產品成為享惠主力，佔享惠總額的92%，反映出福建市場對非洲資源類產品的旺盛需求。（福建日報）"
+    },
+    {
+      "id": "5043399",
+      "time": "2026-08-17 11:28:37",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "法國巴黎銀行資產管理公司高階債券策略師Ryutaro Kimura：隨著投資者結束暑假、市場流動性改善，債券市場再次開始計入日本央行更快加息的可能性。"
+    },
+    {
+      "id": "mkt:01a00dc3-3338-7aab-9055-59c1ce958c96",
+      "time": "2026-08-17 11:28:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "【Fiscal concerns and rate‑hike bets push Japanese government bond yields to 30‑year highs】Japanese 10‑year government bond yields rose 5.5bps to 2.93%, theirhighest since 1996; 30‑year yields climbed 5bps to 4.06%, nearing May record highs. The move reflects fiscal funding uncertainty after the government has not clarified how it will finance a two‑year cut to the food consumption tax, and reports that Prime Minister Takaichi's administration supports near‑term Bank of Japan rate increases, with a next hike possible in September or October. Ryutaro Kimura, senior bond strategist at BNP Paribas Asset Management, said improving liquidity as investors return from summer holidays has prompted markets to price faster Bank of Japan tightening, and warned that unless Takaichi abandons expansionary fiscal policy, yields may fall only gradually."
+    },
+    {
+      "id": "mkt:01a00dc2-dde3-7aab-9055-50f7ad725830",
+      "time": "2026-08-17 11:27:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhuhai to implement cross‑border clearance facilitation at multiple ports from Aug 18】Zhuhai Border Inspection Station said the National Immigration Administration approved, and in coordination with the Macau Public Security Police Force, it will implement three facilitation measures under an optimized \"cooperative inspection, one‑time release\" model at the Hong Kong–Zhuhai–Macau Bridge, Hengqin and Qingmao cooperative inspection ports from 00:00 on Aug. 18, 2026. Measures include streamlined document checks for Hong Kong and Macau residents, dedicated cooperative fast lanes and expanded eligibility for joint one‑stop vehicle lanes. Authorities say the changes are intended to speed passenger clearance and ease people flows across the Guangdong‑Hong Kong‑Macao Greater Bay Area."
+    },
+    {
+      "id": "5043398",
+      "time": "2026-08-17 11:27:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：伊朗借美伊協議視窗期備戰】特朗普總統 6 月中旬與伊朗簽署諒解備忘錄後，美國政府官員四處奔走，爭取各方支援該協議，希望藉此重開霍爾木茲海峽，並逐步結束戰爭。據伊朗及阿拉伯官員透露，伊朗強硬派領導人在德黑蘭召開密會，擬定了另一套方案。在他們看來，這份協議很可能只是美國和以色列的一種手段，目的是緩解全球經濟壓力，為日後發動更大規模襲擊爭取時間。伊朗方面並未寄希望於談判，而是利用過去兩個月為更大規模衝突做準備。伊朗的舉措包括：讓實力強大的伊斯蘭革命衛隊加大對正規軍的掌控力度，擴大國內反情報行動，同時提升導彈與無人機產能。伊朗領導層迅速掌握主動權，襲擊船隻以強化對霍爾木茲海峽的控制，並將戰場拓展至紅海，沙特一直依靠紅海航道規避伊朗對波斯灣的封鎖。瞭解相關情報的官員稱，阿拉伯情報部門已掌握相關證據，包括伊朗與葉門、伊拉克等國民兵盟友之間的通訊記錄，證明伊朗強硬領導層內部發生戰略轉向，正在武裝力量做好準備，以擴大戰爭規模，抬高美國的作戰代價。"
+    },
     {
       "id": "mkt:01a00dc1-99c7-7aab-9055-4b487aa82ec1",
       "time": "2026-08-17 11:26:26",
