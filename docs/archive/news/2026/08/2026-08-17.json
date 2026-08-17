@@ -1,7 +1,103 @@
 {
   "date": "2026-08-17",
-  "count": 1723,
+  "count": 1733,
   "items": [
+    {
+      "id": "mkt:01a00f2a-749a-7aab-905e-33b6ae5ed69a",
+      "time": "2026-08-17 18:00:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report Netanyahu and Kushner's meeting has been underway for nearly two hours."
+    },
+    {
+      "id": "5044065",
+      "time": "2026-08-17 18:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "希格斯菲爾德（HiggsField）完成4億美元B輪融資，估值達54億美元，年化收入已突破7億美元。"
+    },
+    {
+      "id": "5044064",
+      "time": "2026-08-17 17:59:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "比利時大臣弗：支奴幹直升機專案遭到其他政黨反對。"
+    },
+    {
+      "id": "5044063",
+      "time": "2026-08-17 17:58:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【含“新、智、綠”量持續提升，7月我國鋰離子電池產量增長58.8%】今天（17日）下午，在國務院新聞辦公室舉行的新聞釋出會上，國家統計局新聞發言人表示，今年以來，我國經濟呈現動能向新、結構向優的發展態勢。含“綠”量持續提升，綠色新動能加快培育。7月份，生物基材料製造行業增加值同比增長20.6%，新能源汽車和新型儲能需求增加，帶動鋰離子電池產量增長58.8%。前7個月，我國以更低的能源消費支撐了更高質量的工業增長，規模以上工業單位增加值能耗同比下降3.5%。新能源乘用車零售滲透率連續4個月超過60%，7月份達到65.1%，相當於每賣出3輛乘用車就有約2輛是新能源汽車。"
+    },
+    {
+      "id": "te:markets:575835",
+      "time": "2026-08-17 17:58:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Remains Firm — The South African rand traded around 16.2 per US dollar, close to its highest since early March, drawing support from a weaker dollar and rising prices of precious metals on easing Fed rate hike bets. Weaker-than-expected US data has scaled back bets on a September Fed hike, providing support to higher-yielding emerging-market currencies such as the rand. Meanwhile, attention turns to domestic July inflation data due on Wednesday for clues on the interest rate outlook. Headline inflation is anticipated to moderate to 4.5% in July from 5% in June, still above the central bank’s 3% target, reflecting a decline in oil prices following the partial reopening of the Strait of Hormuz. The South African Reserve Bank (SARB), which unexpectedly kept rates unchanged on July 23, after raising them in May, still sees upside risks to inflation linked to the Middle East confict. Headline Inflation is seen above 4% until early next year."
+    },
+    {
+      "id": "mkt:01a00f28-87c7-7aab-905e-299a76b91777",
+      "time": "2026-08-17 17:58:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "00175.HK",
+        "Impact bullish",
+        "F.O",
+        "Impact mixed"
+      ],
+      "text": "【Geely Holding Group CEO An Conghui: Volvo European plant to build Geely luxury models from 2028】Geely Holding Group will coordinate group brands and external partners to co-invest, co-develop and share production capacity, local supply chains, talent, channels and service networks. Volvo’s European plant will be a key European base for Geely group’s high-end luxury models, slated to start production in 2028. The Proton plant in Malaysia acquired by Geely is being retooled into a Southeast Asia manufacturing hub with 500,000‑vehicle capacity. The Geely‑Ford JV plant in Spain will also produce Geely models with 500,000‑vehicle capacity, targeting 2028 start-up. Geely Automobile (00175.HK) raised its 2026 export target to 920,000 vehicles from 640,000 and said it will challenge a one‑million sales target."
+    },
+    {
+      "id": "5044062",
+      "time": "2026-08-17 17:58:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《逃出絕命街》上映4天 ，總票房破1000萬 。"
+    },
+    {
+      "id": "mkt:01a00f27-d613-7aab-905e-2562ff5c073a",
+      "time": "2026-08-17 17:57:43",
+      "tags": [
+        "MKT News",
+        "00175.HK",
+        "Impact bullish"
+      ],
+      "text": "【Geely Holding Group CEO An Conghui: group to continue closing/transferring redundant units and projects】At Geely Automobile’s (00175.HK) interim results, Geely Holding Group CEO An Conghui said the group will in H2 continue to streamline operations and strategic allocation, improve system-wide synergies, reduce unnecessary intra-group transactions and construction, and close or transfer redundant companies and projects. He said the group will also fold more valuable existing and incubating projects into Geely Auto Group."
+    },
+    {
+      "id": "5044061",
+      "time": "2026-08-17 17:57:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際基礎科學大會基礎科學創新學者2026年度入選名單揭曉】2026年8月17日，澎湃新聞從國際基礎科學大會（ICBS）主辦方獲悉，2026國際基礎科學大會“基礎科學創新學者”（ICBS Innovation Fellowship）評選結果揭曉，來自中外的11位學者入選。經過兩輪嚴格評審，根據申請人研究履歷、專家推薦信及科研專案方案，評審委員會最終從初選候選人中，遴選出11位優秀學者，入選本年度“基礎科學創新學者”支援計劃。入選學者研究領域廣泛，覆蓋幾何、代數幾何、數論、計算數學、量子場論、量子引力、中微子實驗物理、幾何影象的醫學應用、最佳化問題及人工智慧與精細證明等基礎與前沿交叉方向。（澎湃）"
+    },
+    {
+      "id": "mkt:01a00f27-3dd0-7aab-905e-186cfb1624a3",
+      "time": "2026-08-17 17:57:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "HMC.N",
+        "Impact bullish"
+      ],
+      "text": "Honda Motor (HMC.N) to resume vehicle production at its Saitama, Suzuka and Yokkaichi plants from Aug. 20."
+    },
     {
       "id": "mkt:01a00f26-ab7c-7aab-905e-13f059194a43",
       "time": "2026-08-17 17:56:27",
