@@ -1,7 +1,53 @@
 {
   "date": "2026-08-17",
-  "count": 2277,
+  "count": 2282,
   "items": [
+    {
+      "id": "mkt:01a00fdf-7e2f-7aab-9062-f96e443823c0",
+      "time": "2026-08-17 21:18:20",
+      "tags": [
+        "MKT News",
+        "4IG.BU",
+        "Impact bearish"
+      ],
+      "text": "Hungary's prime minister Magyar said the government will review all contracts the state signed with 4iG during the previous government's term."
+    },
+    {
+      "id": "5044447",
+      "time": "2026-08-17 21:17:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "匈牙利總理：政府將審查前政府時期國家與4IG公司簽署的所有合同。"
+    },
+    {
+      "id": "te:economy:575869",
+      "time": "2026-08-17 21:17:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belarus",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Belarus Industrial Activity Rebounds — Belarus’ industrial production edged up 0.1% year-on-year in the first seven months of 2026, improving from a 0.7% decline in the first half of the year and returning to positive growth after remaining in contraction for the last twelve months. Growth was supported by a 7.9% increase in electricity, gas, steam, hot water and air-conditioning supply, while mining and quarrying output rose 2.7%. Water supply, waste management and remediation activities also recorded modest growth of 1.8%. However, manufacturing output contracted 1.2%, offsetting gains across other sectors and remaining in contraction for a year."
+    },
+    {
+      "id": "5044446",
+      "time": "2026-08-17 21:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道：伊朗外交部一名外交官表示：如果我們重回談判，將以伊斯蘭堡協議為基礎，而非麥納麥會議。"
+    },
+    {
+      "id": "5044445",
+      "time": "2026-08-17 21:15:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：RedCloud簽署阿根廷三年合作協議，預計透過其RedAI平臺實現營收2000萬美元，快速消費品貿易額達12億美元。"
+    },
     {
       "id": "5044444",
       "time": "2026-08-17 21:14:38",
