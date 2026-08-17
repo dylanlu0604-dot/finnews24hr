@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 00:43:02_
-_本檔包含 3175 則快訊，約 605604 字_
+_更新時間：2026-08-18 01:02:17_
+_本檔包含 3172 則快訊，約 604577 字_
+
+---
+
+### 2026-08-14 12:16:03  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #GS.O
+
+【Goldman in talks to join NVIDIA $500 billion AI financing plan - sources】Goldman Sachs is negotiating with potential investors to participate in NVIDIA’s roughly $500 billion third‑party capital raise for AI infrastructure, people familiar with the matter said. Sources said U.S. insurers, asset managers and banks are expected to form the core investor group, and asset managers plan to take a large share. NVIDIA on Aug. 10 said it had partnered with six major financial firms, including Goldman, to launch a computing platform aimed at raising over $500 billion for AI infrastructure. One source said Goldman Asset Management could supply subordinated capital and private credit, while Goldman’s investment banking arm could help allocate debt to private credit funds and ultimately into the public bond market.
+
+---
+
+### 2026-08-14 12:15:12  #Trading Economics #Economy #Malaysia #Foreign Direct Investment #Importance 1
+
+Malaysia Q2 FDI Inflows Fall to One-Year Low — Malaysia’s foreign direct investment (FDI) inflows dropped sharply to MYR 7.4 billion in Q2 2026 from MYR 22.8 billion in the previous quarter, marking the lowest level since Q2 2025. The sharp quarterly drop suggested that Malaysia’s FDI performance remained vulnerable to a more cautious global investment environment. By sector, FDI was mainly channelled into services, particularly the information & communication subsector, while manufacturing and construction were the next-largest recipients. Investment was led by China, Hong Kong and Singapore.
 
 ---
 
@@ -19091,35 +19103,5 @@ US 10-Year Yield Eases Ahead of PPI Data — The yield on the 10-year US Treasur
 ### 2026-08-13 10:34:32  #公司 #市場 #國際 #原創
 
 【韓國股市10天內上漲約23% 晶片股重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，韓國基準Kospi指數一度上漲4.8%，自7月30日低點以來的累計漲幅約23%。晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均漲超5%。今年迄今，受散戶資金推動，韓國Kospi指數已上漲逾60%，但較6月底的高點仍下跌約24%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。上個月的市場動盪導致交易暫停次數創下紀錄新高，韓國Kospi指數日內波幅超過5%的情況屢見不鮮。隨著波動率指標降至4月以來的最低水平，市場開始恢復冷靜。
-
----
-
-### 2026-08-13 10:34:12  #國際
-
-【機構：馬來西亞第二季度經濟可能增長5.9%】豐隆投行經濟學家Felicia Ling和Chong Lih Herng在一份報告中表示，馬來西亞第二季度經濟可能增長了5.9%，略高於5.8%的初步估計。他們表示，預計製造業和採礦業的產出，以及服務業和建築業的擴張，對經濟增長構成了支撐。他們補充說，製造業的勢頭是由強勁的電子產品生產和全球半導體需求推動的，而採礦業的增長則受到天然氣產出的支撐。豐隆預計，由於高基數效應，到下半年底經濟增長將放緩，儘管對電子產品的強勁外部需求和有韌性的國內需求應會繼續支撐馬來西亞經濟。
-
----
-
-### 2026-08-13 10:33:13  #MKT News #Important
-
-【16 countries to attend 2nd World Humanoid Robot Games; teams +138% YoY】The 2nd World Humanoid Robot Games will open on Aug. 22 at Beijing’s National Speed Skating Oval Ice Ribbon, hosted by the Beijing municipal government and China Media Group. The event attracted 666 teams from 16 countries across six continents with 2,056 robots, a 138% increase in teams and roughly a fourfold rise in robots YoY. International entrants include teams from the United States, Germany and Japan; Brazil fielded a national combined squad drawn from five robot-football World Cup champion teams. Domestic participation comprises 157 companies, 641 teams and 1,975 robots, including nearly all first‑tier robotics firms and 27 '985' universities covering 30 provinces, municipalities and SARs. Competition categories expanded from 26 to 51 events.
-
----
-
-### 2026-08-13 10:32:50  #MKT News
-
-Australian Mining and Energy Union says the new agreement resolves accident-compensation issues and includes other improvements sought by members.
-
----
-
-### 2026-08-13 10:32:37  #MKT News #BTU.O
-
-The Australian Mining and Energy Union said 19 workers at the Wybong joint coal wash plant have reached an agreement with Peabody that delivers an overall pay increase of about 4%.
-
----
-
-### 2026-08-13 10:32:30  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Stocks Retreat After MSCI Review — Indonesian equities slipped 58 points or 0.9% to 6,318 in Thursday morning trade, reversing a rally the day before. Losses were broad-based, led by basic materials, cyclicals, and healthcare. Sentiment soured after MSCI’s August review confirmed no new inclusions and 11 removals from its key indices, citing a strict global “freeze” policy. While Indonesia retains its Emerging Markets status, the weight of local equities has been trimmed, with changes effective after market close on August 31, 2026. Meanwhile, U.S.stock futures were mixed following Wall Street’s mostly higher close overnight, supported by softer inflation that eased Fed hike concerns. Domestically, downside was cushioned by reports that the government will reclaim part of state-company dividends to build a fiscal buffer fund. Notable laggards included ESSA Industries (-4.2%), Adaro Andalan (-2.8%), Merdeka Battery (-2.7%), and Sumber Alfaria Trijaya (-2.2%), underscoring the pressure across sectors.
 
 ---

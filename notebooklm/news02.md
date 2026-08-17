@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 00:43:02_
-_本檔包含 3050 則快訊，約 605229 字_
+_更新時間：2026-08-18 01:02:17_
+_本檔包含 3057 則快訊，約 605418 字_
+
+---
+
+### 2026-08-16 17:12:40  #公司 #市場
+
+【納指ETF廣發：二級市場價格溢價 8月17日停牌後復牌】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為1.699元，收盤時基金份額參考淨值為1.5248元。為保護投資者利益，基金於8月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若8月17日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-08-16 17:12:33  #公司 #市場
+
+【納指ETF嘉實：二級市場價格溢價 8月17日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.121元，收盤時基金份額參考淨值為1.9122元。為保護投資者利益，基金將於8月17日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。
+
+---
+
+### 2026-08-16 17:12:21  #公司
+
+【華夏越秀高速公路REIT：2026年7月路費收入2021萬元 同比增3%】華夏越秀高速公路REIT公告稱，2026年7月1日至31日，湖北漢孝高速日均收費車流量35,618輛次，環比增長3.4%、同比增長1.5%；路費收入2021萬元，環比增長5.5%、同比增長3%。2026年累計日均收費車流量34,533輛次，同比增長0.2%；累計路費收入13,452萬元，同比增長1.8%。目前，基金投資運作正常，無應披露而未披露的重大資訊。
+
+---
+
+### 2026-08-16 17:12:18  #公司
+
+【匯添富納斯達克100ETF：更新基金產品資料概要 基金經理變更】匯添富納斯達克100ETF公告稱，因基金經理變更，更新基金產品資料概要。新基金經理樂無穹於2026年8月12日上任，證券從業日期為2014年7月1日。基金主要採用完全複製法跟蹤納斯達克100指數，力爭日均跟蹤偏離度絕對值不超0.35%，年跟蹤誤差不超4%。投資涉及銷售、運作等費用，還揭示了市場、流動性等多種風險。
+
+---
+
+### 2026-08-16 17:12:05  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 8月17日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.869元，參考淨值為2.3120元。為保護投資者利益，基金於8月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-08-16 17:10:47  #市場
+
+【平均業績比較基準下降！7月發行理財產品環比減少】日前，普益標準披露的資料顯示，7月全市場共新發2932款理財產品，環比減少197款。其中，新發開放式產品及封閉式產品平均業績比較基準均環比下跌。同時，7月份固收類產品區間收益率普遍下跌。《中國經營報》記者採訪瞭解到，固收類產品區間收益率普遍下跌，核心還在於債券市場的震盪行情。（中國經營報）
+
+---
+
+### 2026-08-16 17:05:22  #其他
+
+【京東旗下24小時無人咖啡店落地北京】8月16日，京東旗下七鮮咖啡首家24小時智慧化無人咖啡店正式開業，落地北京市朝陽區銀河SOHO。 京東方面透露，該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。京東將透過AI大模型與具身智慧，依託咖啡茶飲消費場景，以AI技術實現場景賦能，這也是京東持續建設全球最大物理世界運營中心的組成部分。（新京報）
+
+---
+
+### 2026-08-16 17:04:36  #國際
+
+馬來西亞民主行動黨投票決定繼續留在安瓦爾·易卜拉欣內閣。
+
+---
+
+### 2026-08-16 17:03:59  #其他
+
+【2026新能源汽車下鄉活動長春站啟動】據中汽協訊息，8月15日，2026年新能源汽車下鄉活動——吉林長春站在長春農博園正式啟動。活動現場集中展示多款新能源車型，同步展出充電樁等配套設施，設定政策諮詢、以舊換新辦理、充電體驗、金融保險等一站式服務專區，並透過展板和講解清晰解讀購車補貼、申報流程等惠民政策，構建起覆蓋“看車—購車—用車”全鏈條的服務生態。此外，與長春站下鄉活動同步，長春市淨月高新區和南關區推出總額100萬元的汽車專項消費券補貼，進一步釋放區域汽車消費潛力，讓廣大城鄉居民在家門口享受實實在在的購車實惠。
 
 ---
 
@@ -18401,17 +18455,5 @@ Iron Ore Rises on Improving Fundamentals — Iron ore futures climbed above CNY 
 ### 2026-08-14 12:16:41  #MKT News #Star Stocks #JD.com #Hang Seng Index #Impact bearish #09618.HK #00001.HK
 
 【Hong Kong midday: Hang Seng slips 0.93% as JD.com falls over 10% post-results】Hang Seng Index extended weakness, opening about 200 points down, briefly cutting losses to under 100 before resuming decline; at the midday close the index fell 0.93% to 25,160.25. Hang Seng Tech Index lost 1.79% to 4,706.73. Market turnover was HKD 135.7 bln. Sector flows: gold and nonferrous metals outperformed, optical communications and memory-chip names popped then faded, while internet and innovative-drug stocks weakened. Notable movers: China Gold International (02099.HK) +12.93%, GigaDevice Semiconductor (03986.HK) +2.30%, SMIC (00981.HK) +1.92% after results, JD.com (09618.HK) -10.08% post-results, CK Hutchison (00001.HK) -5.12% post-results, Akeso (09926.HK) -6.08%.
-
----
-
-### 2026-08-14 12:16:03  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #GS.O
-
-【Goldman in talks to join NVIDIA $500 billion AI financing plan - sources】Goldman Sachs is negotiating with potential investors to participate in NVIDIA’s roughly $500 billion third‑party capital raise for AI infrastructure, people familiar with the matter said. Sources said U.S. insurers, asset managers and banks are expected to form the core investor group, and asset managers plan to take a large share. NVIDIA on Aug. 10 said it had partnered with six major financial firms, including Goldman, to launch a computing platform aimed at raising over $500 billion for AI infrastructure. One source said Goldman Asset Management could supply subordinated capital and private credit, while Goldman’s investment banking arm could help allocate debt to private credit funds and ultimately into the public bond market.
-
----
-
-### 2026-08-14 12:15:12  #Trading Economics #Economy #Malaysia #Foreign Direct Investment #Importance 1
-
-Malaysia Q2 FDI Inflows Fall to One-Year Low — Malaysia’s foreign direct investment (FDI) inflows dropped sharply to MYR 7.4 billion in Q2 2026 from MYR 22.8 billion in the previous quarter, marking the lowest level since Q2 2025. The sharp quarterly drop suggested that Malaysia’s FDI performance remained vulnerable to a more cautious global investment environment. By sector, FDI was mainly channelled into services, particularly the information & communication subsector, while manufacturing and construction were the next-largest recipients. Investment was led by China, Hong Kong and Singapore.
 
 ---

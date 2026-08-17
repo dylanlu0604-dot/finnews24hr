@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 00:43:02_
-_本檔包含 3162 則快訊，約 604363 字_
+_更新時間：2026-08-18 01:02:17_
+_本檔包含 3150 則快訊，約 604738 字_
+
+---
+
+### 2026-08-12 07:49:22  #其他
+
+【中國駐哥倫比亞使館提醒中國公民非必要不前往受災區域】截至目前，哥倫比亞7.4級強震已造成逾二百人死亡和大量財產損失，哥政府宣佈進入“國家災難狀態”。喬科省、考卡山谷省、裡薩拉爾達省和卡爾達斯省的部分地區和城市受災最為嚴重，哥地質局提醒餘震可能持續數日甚至數週。中國駐哥倫比亞使館提醒在哥和擬來哥中國同胞非必要不前往上述區域，建議跟進相關資訊，並在“中國領事”APP完成“海外公民登記”，以便使館掌握資訊，及時提供領事保護與協助。如遇緊急情況，請及時報警並聯系中國駐哥倫比亞使館尋求協助。（ 中國駐哥倫比亞使館  ）
+
+---
+
+### 2026-08-12 07:47:17  #市場 #國際
+
+【在伊朗衝突存在不確定性之際 日經指數或維持區間震盪】隨著圍繞伊朗衝突和能源成本的不確定性持續，日本股市或將維持區間震盪。新加坡交易所的日經指數期貨開盤報67,120點，較週二上漲260點，較週一上漲35點。日本市場週二因全國性假日休市。美元報159.28日元，相比之下，週一東京股市收盤時為158.41日元。投資者正關注中東局勢的發展和原油價格。日經指數週一上漲2.1%，至66,970.22點。
+
+---
+
+### 2026-08-12 07:46:01  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.15點。
+
+---
+
+### 2026-08-12 07:45:56  #市場 #國際
+
+日本日經指數期貨早盤上漲0.06%。
+
+---
+
+### 2026-08-12 07:45:50  #其他
+
+【雷軍回應小米自研發光材料】雷軍發文稱：小米是國內首家能從發光材料層做研發的手機廠商，我們在螢幕技術上的投入是長期的、堅定的。去年我們打造了紅色主材，今年又突破了綠色主材。這裡面最核心，第四代pTSF是中國首創的底層顯示技術方案，由我們與清華團隊一道，歷經兩年多的時間，將實驗室理論轉為最終工程量產。
+
+---
+
+### 2026-08-12 07:45:14  #公司
+
+【多家公司宣佈半年度分紅 海康威視分紅超50億元】8月11日晚間，上市公司集中釋出2026年半年度分紅實施方案或預案，多家企業分紅總額超億元。海康威視釋出《2026年半年度權益分派實施公告》，將向全體股東每10股派發現金紅利5.50元（含稅），累計分紅總額達50.41億元。公告顯示，本次權益分派股權登記日為8月18日，除息日、現金紅利發放日為8月19日。
+
+---
+
+### 2026-08-12 07:45:00  #宏觀 #公司
+
+【調查階段預警退市風險 監管質效進一步提升】近日，上海證監局、遼寧證監局相繼公佈卓然股份、萃華珠寶兩起案件的階段性調查情況，向市場提示兩家公司存在觸及重大違法強制退市情形的風險。調查環節預警企業退市風險，在資本市場尚屬首次，折射出資本市場監管質效的進一步升級。按照慣例，監管部門一般在行政處罰事先告知階段，才會明確涉事公司涉嫌觸及重大違法強制退市情形，在此之前的案件調查期間，非必要情況，監管部門不會主動披露案件階段性調查情況。從立案調查到行政處罰事先告知書下發，大多需要經歷數月甚至更長時間的調查取證。然而，上述兩起個案退市預警的釋出時間，均是在調查尚未終結、行政處罰事先告知書尚未作出的階段，時間節點明顯前移。業內人士指出，監管部門及時公開階段性調查結果，尤其是涉嫌財務造假類案件的調查情況，能夠更早地向市場釋放退市風險訊號，便利投資者及時調整投資策略，壓縮市場炒作空間，避免不實資訊對市場的干擾，促使市場定價迴歸基本面。
+
+---
+
+### 2026-08-12 07:44:55  #國際
+
+【瑞士再保險瑞再研究院：野火威脅加劇令保險風險居高不下】瑞士再保險(Swiss Re)的研究部門表示，2026年上半年保險業的自然災害估算損失大幅下降，但野火和天氣事件帶來的風險依然很高。瑞士再保險瑞再研究院週二警告稱，野火風險是全球增長最快的氣象災害。該機構還表示，6月份創紀錄的高溫和乾燥天氣增加了歐洲迎來活躍野火季的可能性。瑞士再保險的巨災風險主管巴爾茨.格羅利蒙德(Balz Grollimund)表示：“歐洲最近的野火凸顯出，更炎熱、更乾燥的天氣正導致大型野火更有可能發生，而且隨著越來越多的住宅、商業和基礎設施建在風險敞口較大的地區，災害造成的損失也更為慘重。”瑞士再保險瑞再研究院的資料顯示，2026年上半年，自然災害造成的保險損失估算為420億美元，低於上年同期的910億美元。該機構表示，這一數字創下了自2020年新冠疫情高峰期以來的上半年最低水平，也比500億美元的10年平均水平低16%。該機構表示，上半年自然災害損失較少並不一定意味著全年都會比較平靜，因為受北大西洋颶風季的影響，保險損失通常更多地集中在下半年。
+
+---
+
+### 2026-08-12 07:43:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Steady Ahead of Key Inflation Data — US stock futures were little changed on Wednesday as investors awaited a key inflation reading that could shape the Federal Reserve’s next policy decision. The consumer price index report is due later today, followed by producer inflation data on Thursday. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing expectations for a more hawkish stance. In corporate news, CoreWeave surged more than 14% in extended trading after the artificial intelligence spending boom lifted the company’s sales outlook. Super Micro Computer also jumped more than 7% after the data center infrastructure provider issued upbeat guidance for first-quarter earnings and revenue. Investors now turn their attention to more earnings reports on Wednesday from Cisco Systems, Cerebras and Enersys, among others.
 
 ---
 
@@ -18972,131 +19026,5 @@ U.S. President Trump said he will extend and narrow Jones Act transportation wai
 ### 2026-08-11 01:02:22  #其他
 
 《瓊斯法案》豁免延長90天，重點轉向能源領域。
-
----
-
-### 2026-08-11 01:00:15  #焦點 #國際
-
-特朗普延長並收緊美國《瓊斯法案》航運豁免條款。
-
----
-
-### 2026-08-11 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.02%，滬銅收漲0.16%，滬鋁收漲0.64%，滬鋅收漲0.35%，滬鉛收漲0.51%，滬鎳收跌0.42%，滬錫收跌0.46%。氧化鋁夜盤收跌0.45%，鋁合金收漲0.28%。不鏽鋼夜盤收跌0.62%。
-
----
-
-### 2026-08-11 01:00:01  #公司
-
-谷歌：期待與阿博特州長、得州電力可靠性委員會、公共事業委員會開展合作。
-
----
-
-### 2026-08-11 00:59:29  #公司
-
-谷歌：確信自身符合得克薩斯州資料中心相關標準。
-
----
-
-### 2026-08-11 00:55:49  #其他
-
-LME期銅收漲84美元，報14160美元/噸。LME期鋁收漲38美元，報3318美元/噸。LME期鋅收漲30美元，報3738美元/噸。LME期鉛收漲16美元，報1903美元/噸。LME期鎳收跌79美元，報16925美元/噸。LME期錫收漲222美元，報55752美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-08-11 00:53:09  #MKT News
-
-Plant operator said Hungary's Paks nuclear power plant has begun increasing output from Unit 2; Unit 2 is expected to reach full power at 20:00 GMT.
-
----
-
-### 2026-08-11 00:52:23  #MKT News #Market Themes #AI Revolution
-
-OpenAI said its new Premium Seat offers a usage allowance five times that of the standard tier, removes the 5-hour usage cap and introduces a predictable weekly usage-quota reset.
-
----
-
-### 2026-08-11 00:52:20  #MKT News
-
-OpenAI is offering a limited-time promotion: eligible workspace administrators will receive a $100 account credit for each additional Premium Seat added, capped at five seats (maximum $500).
-
----
-
-### 2026-08-11 00:52:04  #其他
-
-OpenAI：新版高階席位使用許可權較標準版提升五倍，無五小時使用上限，每週使用額度按固定週期重置。
-
----
-
-### 2026-08-11 00:51:40  #其他
-
-OpenAI：限時活動期間，符合條件的工作區所有者每新增一個高階席位，即可獲得價值 100 美元的額度，新增五個席位最高可獲 500 美元。
-
----
-
-### 2026-08-11 00:51:38  #MKT News
-
-OpenAI prices Premium Seats at $125 per user per month billed monthly, or $100 per user per month billed annually.
-
----
-
-### 2026-08-11 00:51:25  #MKT News #Market Themes #AI Revolution
-
-OpenAI launches Premium Seats for ChatGPT Business.
-
----
-
-### 2026-08-11 00:51:04  #其他
-
-OpenAI：高階席位每位使用者每月 125 美元，按年計費則每位使用者每月 100 美元。
-
----
-
-### 2026-08-11 00:50:53  #MKT News #Commodities #Energy #BP.L
-
-Sources said BP will sell a 20% stake in the Cocuina gas field in Venezuela to the National Gas Company of Trinidad and Tobago. Around 70% of the gas is planned for LNG production, with the remainder for petrochemicals. A final investment decision could be taken before year-end.
-
----
-
-### 2026-08-11 00:50:46  #其他
-
-OpenAI：推出 ChatGPT 企業版高階席位。
-
----
-
-### 2026-08-11 00:50:10  #公司
-
-訊息人士：英國石油公司擬將其位於委內瑞拉的科庫伊納氣田 20% 的股份出售給特立尼達國家天然氣公司。70% 的天然氣將用於生產液化天然氣，剩餘部分供給石化產業。最終投資決定或將於年底前作出。
-
----
-
-### 2026-08-11 00:49:34  #MKT News
-
-Russia's Supreme Court has barred the anti-war Yabloko party from participating in parliamentary elections.
-
----
-
-### 2026-08-11 00:49:13  #國際
-
-市場訊息：俄羅斯最高法院禁止Yabloko黨派參與杜馬選舉。
-
----
-
-### 2026-08-11 00:49:13  #MKT News
-
-Israel Defense Forces chief of staff said the military is well prepared for defense and remains ready to resume high-intensity combat at any time.
-
----
-
-### 2026-08-11 00:47:19  #國際
-
-【美國32所高校被指控招生過程相互合謀】當地時間8月10日，美國一位法官裁定，包括杜克大學、康奈爾大學和西北大學在內的32所美國主要高校必須面對一項擬議的集體訴訟。該訴訟指控這些學校合謀，利用廣受歡迎的“提前錄取”招生程式，抬高了數萬名學生的學費成本。馬薩諸塞州聯邦地區法官安吉爾·凱利表示，原告（其中包括兩名衛斯理大學的前學生）提出的指控具有合理依據。這些指控稱，各校之間存在合謀行為，即同意互不爭搶透過彼此“提前錄取”專案錄取的學生。原告於去年對這些學校提起訴訟，聲稱它們違反了聯邦反壟斷法，並透過“提前錄取”招生程式抬高了數萬名學生的學費。（央視新聞）
-
----
-
-### 2026-08-11 00:45:31  #MKT News #Nasdaq100 #Impact bearish #Dow #S&P500
-
-U.S. equity indices fell: Nasdaq Composite down 0.51%, Dow Jones Industrial Average down 0.25%, S&P 500 down 0.17%.
 
 ---
