@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 00:27:43",
-  "count": 15249,
+  "updated": "2026-08-18 00:31:34",
+  "count": 15246,
   "items": [
+    {
+      "id": "5044641",
+      "time": "2026-08-18 00:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋6月M3貨幣供應量同比增長14.3%。"
+    },
+    {
+      "id": "5044640",
+      "time": "2026-08-18 00:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐敘利亞和伊拉克特使湯姆·布拉克：譴責針對庫爾德斯坦地區總理及其在埃爾比勒辦公室的襲擊。"
+    },
     {
       "id": "mkt:01a0108c-6c3d-7aab-9066-7f7f8825b6c6",
       "time": "2026-08-18 00:27:13",
@@ -139655,47 +139671,6 @@
         "焦點"
       ],
       "text": "布倫特原油突破87美元/桶，日內漲4.26%。"
-    },
-    {
-      "id": "mkt:019fec83-7f4d-7aab-8fdd-cde250c861d5",
-      "time": "2026-08-11 00:31:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran's supreme leader announces six armed forces leadership appointments】On the 10th Iran's supreme leader Mojtaba Khamenei announced six armed forces appointments: Air Force Major General Ali Abdollahi was named chief of the general staff; Brigadier General Ahmad Vahidi was promoted to major general and appointed commander of the Islamic Revolutionary Guard Corps (IRGC); Brigadier General Keyumars Heidari was named deputy chief of the general staff; Major General Mostafa Izadi was appointed deputy commander of the IRGC; Brigadier General Ali Azmai was named IRGC navy commander; and Hossein Taeb was appointed head of the Basij militia."
-    },
-    {
-      "id": "5034444",
-      "time": "2026-08-11 00:30:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：英格蘭近四分之三地區目前遭遇乾旱。"
-    },
-    {
-      "id": "5034443",
-      "time": "2026-08-11 00:30:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：現於紐約約克敦高地，與 IBM 執行長會面。"
-    },
-    {
-      "id": "5034442",
-      "time": "2026-08-11 00:29:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta否認推遲社交媒體成癮案開庭時間."
-    },
-    {
-      "id": "5034441",
-      "time": "2026-08-11 00:29:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖公佈多項任命 調整武裝力量領導層】當地時間10日，伊朗最高領袖穆傑塔巴·哈梅內伊對伊朗武裝力量進行6項新的人事任命，其中包括：任命阿里·阿卜杜拉希空軍少將為伊朗武裝部隊總參謀長；艾哈邁德·瓦希迪准將晉升少將，被任命為伊朗伊斯蘭革命衛隊總司令。此外，准將凱尤馬爾斯·海達裡出任武裝力量副總參謀長，少將穆斯塔法·伊扎迪出任革命衛隊副總司令，准將阿里·阿茲馬伊出任革命衛隊海軍司令，侯賽因·塔伊卜出任巴斯基民兵組織負責人。（央視新聞）"
     }
   ]
 }
