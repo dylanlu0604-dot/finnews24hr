@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 02:52:02_
-_本檔包含 3097 則快訊，約 605183 字_
+_更新時間：2026-08-18 03:37:13_
+_本檔包含 3055 則快訊，約 604513 字_
+
+---
+
+### 2026-08-12 08:42:19  #公司 #國際
+
+【在俄服刑的美國前海軍陸戰隊員羅伯特·吉爾曼獲釋返美，特朗普發聲】綜合塔斯社、美國全國廣播公司（NBC）等媒體11日報道，此前因酒後鬧事等行為在俄羅斯被判服刑的美國前海軍陸戰隊員羅伯特·吉爾曼獲釋。美國總統特朗普當地時間11日在社交平臺上發帖，證實吉爾曼獲釋。“我很自豪地宣佈，美國公民、美國前海軍陸戰隊員羅伯特·吉爾曼即將回家！”特朗普在帖子中稱，2022年，吉爾曼於拜登政府時期在俄羅斯被判入獄。（環球網）
+
+---
+
+### 2026-08-12 08:41:59  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan 5-year government bond yield rose 2.0 bps to 2.105%.
+
+---
+
+### 2026-08-12 08:41:43  #公司
+
+【瑞士再保險：山火已成全球“發展速度最快”極端天氣風險】全球最大再保險公司之一的瑞士再保險公司11日表示，2026年上半年全球自然災害造成的經濟損失據估算已達1000億美元。而在今年下半年，厄爾尼諾現象可能會加劇氣象災害的破壞力，風險不容忽視。
+
+---
+
+### 2026-08-12 08:40:44  #公司 #觀點
+
+【面壁智慧啟動IPO】證監會網站披露，北京面壁智慧科技股份有限公司於2026年8月11日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。輔導備案報告顯示，該公司無控股股東，公司第一大股東為北京清語啟航科技中心（有限合夥），持股比例16.45%。
+
+---
+
+### 2026-08-12 08:39:16  #國際
+
+據報道，美國已故參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆和美國聯邦眾議員拉爾夫·諾曼預計將進入南卡羅來納州共和黨參議員初選的決選。
+
+---
+
+### 2026-08-12 08:39:02  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Market Tracks Wall Street Losses — Australian equities retreated Wednesday, with the benchmark slipping 40 points or 0.5% to 9,207 in morning trade, erasing the prior day’s modest uptick after Wall Street’s overnight weakness and stalled Strait of Hormuz talks lifted oil prices ahead of key inflation data. Locally, the Reserve Bank kept the cash rate steady at 4.35% after three hikes this year, stressing inflation remains uncomfortably high and expectations elevated. Sectoral weakness was led by tech services, manufacturing, consumer services, and retail, though consumer durables and logistics offered partial support. The four major banks eased between 0.1% and 0.7%, while notable laggards included BHP Group (-0.5%), South32 (-2.7%), Computershare (-2.0%), and Bluescope Steel (-1.8%). Market focus now shifts to testimony from Governor Michele Bullock before parliament on Friday, preceded by Assistant Governor Chris Kent’s appearance Thursday, as investors weigh policy signals against persistent inflationary pressures.
+
+---
+
+### 2026-08-12 08:38:56  #其他
+
+【星巴克中國並未取消14薪、門店規模還在擴張】相關傳聞提到，星巴克中國已開啟裁員和降低人工成本，比如取消14薪、修改員工合同，除店經理以外的大部分員工改為兼職合同、取消部分帶薪假期。對此，據記者多方確認，星巴克中國並未取消14薪、修改員工合同乃至取消部分帶薪假期。但要看到，隨著星巴克中國走向合資狀態，此前的員工持股計劃確實會出現一定變化。而基於此前星巴克全球與博裕投資的相關協議，種種變化會在下個財年落地。星巴克下個財年將於今年10月開啟。還有相關傳聞提及，在剛過去的財季（5月-7月）裡，星巴克中國門店首次出現了負增長。對此，據記者確認，星巴克中國門店規模處於增長區間。據星巴克年初發布的財務指引，其在中國本財年預計門店數量淨增長250家左右。亦要看到，星巴克上個財季為4-6月，尚未釋出與7月相關的經營資料。（21財經）
+
+---
+
+### 2026-08-12 08:38:55  #MKT News #Market Themes #AI Revolution #Chip Wars
+
+【South Korea to inject more than $700m into sovereign fund targeting AI, strategic industries next year】South Korea’s finance ministry expects to deploy 600 billion–1 trillion won (about $707m) of new capital into a sovereign-wealth fund targeting AI and other strategic industries next year, and the final amount could exceed initial estimates depending on selected targets and their funding needs, the ministry’s Innovation Growth Office head said on Tuesday. There are currently no plans for the fund to invest directly in Samsung Electronics or SK Hynix. In July Seoul said the Korea Investment Corporation would set up a “strategic industry investment account” with initial capital of at least 20 trillion won (about RMB94bn), targeting AI, semiconductors, data centres and overseas supply-chain core firms and due to be formally launched and operated next year. The fund will also target robotics, energy and battery and grid infrastructure; nuclear, space and quantum technologies are under consideration.
+
+---
+
+### 2026-08-12 08:37:31  #其他
+
+【沈曉明調研出海企業經營發展情況】據湖南日報，8月11日，湖南省委書記沈曉明在長沙調研出海企業經營發展情況，強調要持續深化體制機制改革，著力營造良好發展環境，千方百計為企業排憂解難，推動全省外資外貿高質量發展。
+
+---
+
+### 2026-08-12 08:36:13  #公司 #國際
+
+【西班牙政府力挺中企費羅爾工廠】據西班牙《國家報》10日報道，針對西班牙國防部與國家情報中心就中國車企在費羅爾設立工廠發出預警引發的輿論風波，西班牙中央和地方政府官員當天緊急出面回應，對這一專案明確表達支援。復旦大學國際問題研究院中歐關係研究中心主任簡軍波11日記者表示，圍繞費羅爾工廠的博弈，本質上是發展訴求與安全泛化的較量。西班牙政府的選擇表明，在切實的經濟利益與就業紅利面前，理性的商業邏輯終將佔據上風。 西班牙加利西亞自治區政府6月初宣佈，中國上汽集團將在加利西亞拉科魯尼亞省費羅爾市建設其在歐洲的首家電動汽車工廠。該自治區政府主席魯埃達當時表示，該專案初期投資額為2億歐元，預計將為當地創造超過2300個就業崗位。（環球時報）
+
+---
+
+### 2026-08-12 08:34:57  #國際
+
+【世界氣象組織：今年全球7月氣溫為有記錄以來第二高】當地時間11日，世界氣象組織發言人克萊爾·納利斯表示，西歐今年6月至7月經歷有記錄以來最熱時期，全球7月氣溫為有記錄以來第二高，全球海洋表面平均溫度則創同期最高紀錄。世界氣象組織統計顯示，日本和韓國上週均出現破紀錄高溫，亞洲其他地區和拉丁美洲部分地區也遭遇高溫，西非部分地區出現強季風降雨和洪水。今年1月至6月底，全球約82%的海洋經歷不同程度的海洋熱浪。
+
+---
+
+### 2026-08-12 08:34:01  #公司
+
+【中國銀河證券：FDE重構AI應用新正規化，軟體行業或迎價值重估】中國銀河證券研報稱，前沿部署工程師（Forward Deployed Engineer，簡稱“FDE”）將成為AI落地的標準化路徑，軟體行業或迎價值重估。AI大模型時代，FDE不再是傳統意義上的人力外包的淺層定位，而是依託於前向程式碼能力與業務know-how，將通用大模型能力深度落地並沉澱為企業可複用的資料資產與智慧基座，所以傳統軟體行業收入增長將不再依靠傳統軟體授權模式，AI定製化服務、私有化部署、模型運維、駐場工程服務等將提高客單價。中國銀河證券認為，FDE帶來軟體行業交付正規化革命，提升客戶黏性以及客單價，商業模式上從傳統軟體授權轉向ROI、使用效果導向的全生命週期增量價值服務，故行業know-how將成為未來AI應用公司的護城河，部分軟體公司將迎來價值體系重估，開啟估值天花板。
+
+---
+
+### 2026-08-12 08:33:40  #其他
+
+【華為nova16 SE今日正式開售】據“華為終端”，華為nova16 SE今日正式開售，起售價2499元，國補到手價僅2124.15元起。
+
+---
+
+### 2026-08-12 08:33:24  #其他
+
+紐西蘭總理克里斯托弗·盧克森將於紐西蘭時間下午12:35發表講話。
+
+---
+
+### 2026-08-12 08:32:45  #MKT News #Commodities #Precious Metals
+
+Spot silver hit an intraday high of $65/oz, up 0.52% on the day.
+
+---
+
+### 2026-08-12 08:32:29  #公司 #市場
+
+【澳大利亞招聘平臺Seek計劃出售10億澳元基金資產以進行資本返還】澳大利亞招聘平臺Seek的執行長伊恩·納雷夫(Ian Narev)表示，在該公司持有多數股權的成長型基金出售了價值超過7億美元的資產後，Seek計劃向股東返還資本。Seek週三表示，其持有近84%股份的成長型基金的管理層打算出售價值逾10億澳元的資產，合7.062億美元。該公司預計這些計劃將在12月底前敲定。納雷夫在一次採訪中說，雖然該基金將對新機會進行再投資，但在澳大利亞證券交易所(ASX)上市的Seek打算將其部分所得款項返還給股東。納雷夫說：“該基金的首要目標是為包括我們在內的所有投資者創造長期價值。”Seek股價在澳洲證交所早盤下跌13%。
+
+---
+
+### 2026-08-12 08:31:27  #其他
+
+【家：哥倫比亞強震與委內瑞拉強震無直接關聯】當地時間11日，哥倫比亞地質局專家佛雷迪·託瓦爾·貝爾卡拉在接受總檯記者專訪時表示，此次發生在哥倫比亞的7.5級強地震是該國有地震監測記錄以來的最強地震之一。同時，此次地震與今年6月24日發生在委內瑞拉的強震沒有直接關聯。
+
+---
+
+### 2026-08-12 08:30:31  #其他
+
+上海證交所上日融資餘額幾無變動，報13,504.2億元。
+
+---
+
+### 2026-08-12 08:29:28  #市場 #焦點
+
+紐約期金突破4440美元/盎司，日內跌0.02%。
+
+---
+
+### 2026-08-12 08:28:26  #公司 #觀點
+
+【2026年8月11日ETF資金整體淨流出50.05億元】據同花順iFinD資料顯示，2026年8月11日，ETF資金整體淨流出50.05億元，股票型淨流出64.46億元，寬基型淨流出47.64億元。當日ETF資金淨流出榜單排名前3依次為：易方達創業板ETF（159915）淨流出14.56億元，南方中證1000ETF（512100）淨流出7.19億元，上證綜指ETF（510210）淨流出6.52億元。
+
+---
+
+### 2026-08-12 08:27:49  #公司 #市場 #央行 #國際
+
+【日本東證指數上漲 銀行股和服務業板塊領漲 提前加息預期提振銀行股】日本東證指數上漲，主要受銀行和服務業板塊上漲的帶動。東證指數上漲0.3%至4,112.59；日經指數下跌0.1%至66,886.70。市場對日本央行提早加息的預期升溫，提振銀行板塊，其中三菱日聯金融集團對東證指數的漲幅貢獻最大，上漲2.3%。該指數的1637只成分股中，942只上漲，608只下跌，87只持平。
+
+---
+
+### 2026-08-12 08:26:25  #市場 #國際
+
+日本三麗鷗股價在第一季度業績公佈後下跌17%。
+
+---
+
+### 2026-08-12 08:24:29  #公司
+
+【中國生物科技服務稱與Stella Pharma就硼中子治療藥物在中國商業化訂立協議】中國生物科技服務：本集團於與Stella Pharma就聯合推進Steboronine®(全球首個獲批准的硼中子治療藥物)在中國的開發及商業化訂立主合作協議。此合作與本集團的鵬博海南硼中子醫院旗艦專案形成協同效應，標誌本集團將先進硼中子治療技術引入中國市場的重要戰略舉措，以進一步鞏固和發展在中國的業務。
+
+---
+
+### 2026-08-12 08:23:26  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加1.71噸】截至2026年08月11日，全球最大的黃金ETF SPDR Gold Trust持倉量為1022.67噸，較前一個交易日增加1.71噸。
+
+---
+
+### 2026-08-12 08:22:10  #市場
+
+樂天股價下跌10%，此前公佈的第二季度營業利潤不及預期。
+
+---
+
+### 2026-08-12 08:21:17  #市場
+
+【國投證券：預計全國豬價有望啟動旺季反彈】國投證券研報稱，低價區川渝領漲，近期豬價抬頭。7月28日以來，川渝地區豬價企穩回升，截至8月6日的漲幅已分別達0.9元/公斤和0.8元/公斤。全國生豬均價亦有同步企穩跡象。同時，川渝生豬養殖龍頭企業巨星農牧的銷售月報顯示其7月的商品豬出欄量再度出現環比下降、出欄體重環比大降3.2公斤/頭，湧益諮詢資料顯示四川的最新生豬出欄均重較7月初下降0.9公斤/頭（降幅明顯大於其他省）、肥標價差也有明顯提升，或側面反映川渝地區的生豬供給壓力或已有明顯緩解。值得注意的是，去年下半年農業農村部等中央機構就已開始對全國生豬產能進行調減指導、四川省農業農村廳及下屬各地市仍在透過良種補貼和出欄激勵等方式支援生豬產業發展，或導致今年四川的生豬供給壓力大於其他省份。而供給壓力理論上相對更大的豬價低價區川渝既然已經出現供給改善、豬價上漲，國投證券預計全國豬價也有望啟動旺季反彈。
+
+---
+
+### 2026-08-12 08:21:10  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 2-year government bond yield rose 2.0 bps to 1.630%.
+
+---
+
+### 2026-08-12 08:20:46  #市場 #國際
+
+2年期日本國債收益率上漲2.0個基點，至1.630%，創1995年5月以來新高。
+
+---
+
+### 2026-08-12 08:20:33  #市場 #國際
+
+【亞市早盤油價上漲 中東局勢發展之際預計將出現波動】亞洲交易時段油價上漲。Infinox的Thadeu Dos Santos在評論中表示，隨著市場對中東局勢的發展作出反應，原油價格保持波動。據報道，美國軍方表示，其部隊週二早些時候向一艘懸掛巴拿馬國旗的船隻開火，該船隻試圖衝破美國對伊朗港口的封鎖。該Infinox區域總監表示，如果沒有該地區外交上的具體突破，原油價格的波動性可能會保持在高位。近月西得州中質油期貨上漲0.55%，至每桶83.66美元；布倫特原油期貨上漲0.5%，至每桶89.36美元。
+
+---
+
+### 2026-08-12 08:20:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose above $4,380/oz, up 0.28% on the day.
+
+---
+
+### 2026-08-12 08:20:12  #市場 #焦點
+
+現貨黃金突破4380美元/盎司，日內漲0.28%。
 
 ---
 
@@ -18270,443 +18456,5 @@ Trump said he has spoken with Walsh only once since his appointment, denying Wal
 ### 2026-08-11 03:37:38  #國際
 
 特朗普：我非常尊重沃什。
-
----
-
-### 2026-08-11 03:36:54  #MKT News
-
-U.S. President Trump said he spoke with Federal Reserve Chair Kevin Warsh a few days ago.
-
----
-
-### 2026-08-11 03:36:03  #其他
-
-土耳其議會透過標誌性法案，推進庫爾德工人黨和平程序。
-
----
-
-### 2026-08-11 03:36:01  #國際
-
-特朗普談沃什：我知道我想要什麼，但得由沃什來主持運作。
-
----
-
-### 2026-08-11 03:35:31  #央行 #國際
-
-特朗普：幾天前與美聯儲主席沃什進行了交談。
-
----
-
-### 2026-08-11 03:35:01  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump said only the United States can control the Strait of Hormuz.
-
----
-
-### 2026-08-11 03:34:56  #MKT News #Important #WTI #Impact bearish #Brent
-
-President Trump said the US has cleared mines across the entire Strait of Hormuz.
-
----
-
-### 2026-08-11 03:34:33  #國際
-
-特朗普：由於偶爾有水雷，（霍爾木茲）海峽的情況有點複雜。
-
----
-
-### 2026-08-11 03:34:15  #國際
-
-特朗普談及伊朗問題：美國已完成整個（霍爾木茲）海峽的排雷工作。
-
----
-
-### 2026-08-11 03:34:07  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-U.S. President Trump: The Strait of Hormuz is now open, we control it.
-
----
-
-### 2026-08-11 03:34:04  #國際
-
-特朗普：只有美國（能）掌控霍爾木茲海峽。
-
----
-
-### 2026-08-11 03:33:45  #國際
-
-特朗普談及霍爾木茲海峽：目前航道處於開放狀態。
-
----
-
-### 2026-08-11 03:33:45  #MKT News #Commodities #Energy
-
-ECOPETROL: crude oil production, refining and fuel supply unaffected after earthquake.
-
----
-
-### 2026-08-11 03:32:47  #國際
-
-【因伊朗提出戰爭賠償 特朗普稱也要向伊朗索賠】美國總統特朗普10日在社交媒體發文稱，在伊朗要求美國就軍事衝突進行賠償後，他也要向伊朗提出索賠，並已指示美方談判代表將這一要求明確納入今後所有談判議程中。
-
----
-
-### 2026-08-11 03:32:24  #其他
-
-【哥倫比亞總統：強震已致111死87傷】哥倫比亞總統德拉埃斯普列亞10日在首都波哥大通報說，該國西部當天發生的強震已造成全國111人死亡、87人受傷。
-
----
-
-### 2026-08-11 03:32:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up on 10th】Dollar index rose 0.27% to 99.809 at the New York close on the 10th. EUR/USD fell to 1.1542 from 1.1564; GBP/USD rose to 1.3509 from 1.3499. USD/JPY climbed to 159.24 from 157.55; USD/CHF 0.8101 from 0.8076; USD/CAD 1.3942 from 1.3937; USD/SEK 9.5016 from 9.4701.
-
----
-
-### 2026-08-11 03:31:04  #市場
-
-【美元指數10日上漲】美元指數10日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於99.809。截至紐約匯市尾市，1歐元兌換1.1542美元，低於前一交易日的1.1564美元；1英鎊兌換1.3509美元，高於前一交易日的1.3499美元。1美元兌換159.24日元，高於前一交易日的157.55日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8076瑞士法郎；1美元兌換1.3942加元，高於前一交易日的1.3937加元；1美元兌換9.5016瑞典克朗，高於前一交易日的9.4701瑞典克朗。
-
----
-
-### 2026-08-11 03:29:35  #MKT News
-
-A US judge dismissed the Department of Justice's criminal charges against Indian billionaire Gautam Adani.
-
----
-
-### 2026-08-11 03:29:33  #市場 #焦點
-
-紐約期金突破4450美元/盎司，日內漲1.14%。
-
----
-
-### 2026-08-11 03:28:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump, when asked what would happen next in a war with Iran, said you will know soon.
-
----
-
-### 2026-08-11 03:28:37  #市場 #焦點
-
-現貨黃金突破4390美元/盎司，日內漲1.14%。
-
----
-
-### 2026-08-11 03:28:20  #國際
-
-國際原子能機構（IAEA）即將轉移存放在敘利亞一處秘密設施內的核材料。
-
----
-
-### 2026-08-11 03:28:06  #國際
-
-美國就敘利亞秘密核設施促成一項協議。
-
----
-
-### 2026-08-11 03:27:57  #MKT News
-
-Axios reports the International Atomic Energy Agency (IAEA) is set to remove nuclear material stored at a secret site in Syria.
-
----
-
-### 2026-08-11 03:27:25  #國際
-
-特朗普表示，他的目標是降低自閉症發病率，同時承認“尚不完全清楚自閉症的確切致病原因”。
-
----
-
-### 2026-08-11 03:27:13  #MKT News
-
-U.S. President Trump said Attorney General Branch will decide the future of weaponized funds.
-
----
-
-### 2026-08-11 03:26:43  #國際
-
-特朗普：武器化基金的未來將由司法部長布蘭奇決定。
-
----
-
-### 2026-08-11 03:26:25  #國際
-
-美國法官駁回司法部對印度億萬富翁高塔姆·阿達尼的刑事訴訟。
-
----
-
-### 2026-08-11 03:26:15  #國際
-
-日本宇宙航空研究開發機構（JAXA）在鹿兒島縣種子島宇宙中心的吉信發射場發射一顆地理定位衛星。
-
----
-
-### 2026-08-11 03:25:07  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
-
-President Trump said the US still has the ability to escalate the conflict with Iran and will demand Iran compensate for damages caused.
-
----
-
-### 2026-08-11 03:24:45  #市場 #焦點
-
-現貨白銀突破66美元/盎司，日內漲3.92%。
-
----
-
-### 2026-08-11 03:24:44  #焦點 #國際
-
-特朗普談伊朗問題：美國將要求伊朗賠償其所造成的損失。
-
----
-
-### 2026-08-11 03:24:41  #MKT News #Commodities #Precious Metals
-
-Spot silver touched $66/oz, up 3.89% intraday.
-
----
-
-### 2026-08-11 03:24:12  #國際
-
-特朗普談伊朗問題：我們仍有能力升級事態。
-
----
-
-### 2026-08-11 03:24:03  #國際
-
-特朗普談伊朗：你們很快就會知道了。
-
----
-
-### 2026-08-11 03:23:33  #國際
-
-特朗普正式簽署兒童疫苗接種建議相關行政令。
-
----
-
-### 2026-08-11 03:22:51  #市場
-
-JBS股票恢復交易，下跌5%。
-
----
-
-### 2026-08-11 03:22:10  #MKT News #XAUUSD #Impact bearish #Brent #S&P500 #Impact bullish
-
-Al Jazeera reported a U.S. State Department official said U.S.-mediated talks between Lebanon and Israel will continue in Rome early next month.
-
----
-
-### 2026-08-11 03:21:33  #市場
-
-現貨黃金日內漲1%，現報4384.71美元/盎司。
-
----
-
-### 2026-08-11 03:21:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold's intraday gain widened to 1.00%, trading at $4,384.81/oz.
-
----
-
-### 2026-08-11 03:21:02  #市場
-
-紐約期金日內漲1%，現報4444.12美元/盎司。
-
----
-
-### 2026-08-11 03:20:23  #其他
-
-現貨金漲近1%，報每盎司4,382.91美元。
-
----
-
-### 2026-08-11 03:20:23  #MKT News
-
-【Todd Blanche sworn in as US attorney general】Todd Blanche was sworn in as US attorney general on Aug 10. President Trump announced on April 2 that Pam Bondi would no longer serve and that Blanche would act as attorney general. The White House submitted Blanche’s nomination to the Senate on June 8. The Senate confirmed him in the early hours of Aug 8 by a 50-49 vote.
-
----
-
-### 2026-08-11 03:19:31  #市場
-
-紐約期銀日內漲4%，現報66.05美元/盎司。
-
----
-
-### 2026-08-11 03:18:21  #MKT News #WTI #Impact bearish #Brent
-
-Iranian foreign ministry spokesman BAGHAEI said the country will not be "strangled" by measures such as economic sanctions that are already ineffective.
-
----
-
-### 2026-08-11 03:17:48  #MKT News
-
-Iranian foreign ministry spokesman BAGHAEI said the U.S. Treasury Secretary had boasted of 'strangling' Iran with economic sanctions, which BAGHAEI said exposed Washington's coercive reliance on sanctions.
-
----
-
-### 2026-08-11 03:17:21  #國際
-
-伊朗外交部發言人：數十年來，伊朗已經證明，不會被這些老調重彈的（制裁）手段扼殺。美國政客固守這一惡習，反而會親手葬送自己從這場自作自受的危機中體面脫身的僅剩機會。
-
----
-
-### 2026-08-11 03:16:50  #宏觀 #國際
-
-伊朗外交部發言人：美國財政部長吹噓透過經濟制裁令伊朗窒息。這番說辭除了盡顯可悲之外，也赤裸裸證明美國對制裁有著病態般的執迷。每當華盛頓發現自己無力開展外交，就會退而訴諸制裁；而當制裁無法奏效時，便只會加碼制裁力度。這已然算不上政策，而是一種習慣；更危險的是，這種執迷已經取代了理性思考。
-
----
-
-### 2026-08-11 03:15:25  #公司
-
-利比亞國家石油公司主席：一架無人機擊中扎維耶煉油廠的滿載燃料儲罐。週六還發生了另一起襲擊，但並未引發火災。
-
----
-
-### 2026-08-11 03:14:46  #公司 #市場 #焦點 #國際
-
-【英偉達信用違約互換躍升 鉅額融資報道引發關注】一項衡量英偉達信用風險的指標躍升，創兩週來最大升幅，此前有報道稱，包括多家美國投資巨頭在內的一批機構接近與英偉達達成合作，擬為人工智慧基礎設施建設提供5000億美元融資。ICE Data Services資料顯示，英偉達債務的5年期信用違約互換價格週一一度升至77.215個基點，上漲約5.3個基點。英偉達此前已與AI生態系統內多家公司簽署價值數千億美元的協議，引發市場對這些協議具有迴圈交易性質以及估值被推高的擔憂。
-
----
-
-### 2026-08-11 03:13:51  #國際
-
-【託德·布蘭奇宣誓就任美國司法部長】當地時間8月10日，託德·布蘭奇正式宣誓就任美國司法部長。特朗普4月2日宣佈，帕姆·邦迪不再擔任司法部長，由副部長布蘭奇代理。6月8日，美國白宮表示，總統特朗普向美國參議院提交託德·布蘭奇出任司法部長的提名。8月8日凌晨，美國參議院以50票贊成、49票反對的投票結果，確認託德·布蘭奇擔任司法部長。（央視新聞）
-
----
-
-### 2026-08-11 03:13:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's parliament deputy speaker said the US must accept Iran's arrangements in the Strait of Hormuz, which have already established a new political and military order in the Persian Gulf.
-
----
-
-### 2026-08-11 03:12:40  #國際
-
-伊朗議會副議長阿里·尼克扎德表示，美國必須接受伊朗在霍爾木茲海峽確立的相關安排，這些安排促成了波斯灣全新的政治與軍事格局。
-
----
-
-### 2026-08-11 03:12:14  #MKT News
-
-Mehr news agency: Bushehr provincial governor said unexploded ordnance left from US and Israeli strikes will be cleared and destroyed near Bushehr airbase on Tuesday between 08:00 and 12:00 Iran local time. Explosions will be controlled detonations; residents need not be concerned.
-
----
-
-### 2026-08-11 03:12:01  #宏觀 #國際
-
-【美政府自去年初以來已吊銷逾17.5萬份非移民簽證】美國國務院當地時間10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。
-
----
-
-### 2026-08-11 03:10:15  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Cleveland Fed's Hammack: multiple rate hikes may be needed to curb inflation】Cleveland Fed President Hammack said inflation remains above target and the Fed may need multiple rate hikes to bring it down. She said a 25bp hike would not have a material economic impact but would not predict the number of moves or the terminal rate. Hammack judged the current 3.50%-3.75% policy range is not clearly restrictive and said businesses have not cut growth investment, arguing prompt action is preferable because delays make returning to 2% harder. She added the labor market shows no obvious problems and July payrolls will not change her inflation focus. Hammack dissented at July’s FOMC, preferring a 25bp increase, and said markets can only assist—not substitute for—Fed policy action.
-
----
-
-### 2026-08-11 03:08:47  #國際
-
-美國衛生部長小羅伯特·肯尼迪：正在評估孕期接種的疫苗。
-
----
-
-### 2026-08-11 03:08:20  #國際
-
-【烏克蘭空軍一架米格-29戰機墜毀】烏克蘭空軍當地時間10日在社交媒體發文說，當晚，烏空軍一架米格-29戰機在敖德薩州空域執行戰鬥任務時突發緊急狀況墜毀。烏空軍稱，初步調查結果顯示，該戰機在發射導彈時起火，隨後失控，飛行員彈射逃生並被送醫。事故原因還在進一步調查中。
-
----
-
-### 2026-08-11 03:07:01  #市場 #焦點
-
-紐約期銀突破66美元/盎司，日內漲3.94%。
-
----
-
-### 2026-08-11 03:02:42  #其他
-
-市場資訊：微軟希望在僅生產數萬個當前一代Maia人工智慧晶片後，大幅擴大該晶片的產能。
-
----
-
-### 2026-08-11 03:02:31  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.07% at 25,966, trading a 29-point premium to the cash index.
-
----
-
-### 2026-08-11 03:00:36  #國際
-
-特朗普：兒童疫苗仍將由保險承保。
-
----
-
-### 2026-08-11 03:00:29  #國際
-
-【我國科學家首次揭示冰室氣候下極熱事件完整圖景】記者從中國科學院南京地質古生物研究所獲悉，該所晚古生代研究團隊要樂副研究員、王秋來副研究員牽頭與國內外科研機構合作，首次系統揭示了地球倒數第二次大冰期中一次極熱事件的完整圖景。研究顯示，在約3億年前的冰室氣候背景下，地球曾經歷過一次快速升溫事件，全球平均地表溫度升高約7.5℃，大氣CO2濃度飆升。相關成果近日在《美國國家科學院院刊》發表。（央視新聞）
-
----
-
-### 2026-08-11 03:00:02  #市場
-
-恒指期貨夜盤收漲0.09%，報25971.30點，高水33.81點。
-
----
-
-### 2026-08-11 02:59:07  #MKT News
-
-Trump said he will no longer recommend universal childhood vaccination against hepatitis B, COVID-19 and influenza.
-
----
-
-### 2026-08-11 02:58:44  #國際
-
-特朗普：乙肝、新冠、流感等疫苗，不再建議所有兒童接種。
-
----
-
-### 2026-08-11 02:58:12  #MKT News
-
-President Trump said the U.S. government recognizes only 11 core vaccines in its childhood immunization recommendations.
-
----
-
-### 2026-08-11 02:57:29  #國際
-
-特朗普：政府僅認可 11 種核心疫苗的兒童接種建議。
-
----
-
-### 2026-08-11 02:56:25  #MKT News
-
-President Trump announced US recommendations on childhood vaccinations, including a vaccine for autism.
-
----
-
-### 2026-08-11 02:56:07  #國際
-
-美國總統特朗普宣佈“美國疫苗推薦”。
-
----
-
-### 2026-08-11 02:56:05  #MKT News
-
-US President Trump signed an executive order on vaccines.
-
----
-
-### 2026-08-11 02:52:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY
-
-【U.S. federal deficit for first 10 months of fiscal 2026 at $1.8 trillion】Aug 10 — The Congressional Budget Office estimates the U.S. federal budget deficit for the first 10 months of fiscal 2026 at $1.8 trillion, $169 billion wider YoY as receipts rose $139 billion (3%) while outlays rose $308 billion (5%).
-
----
-
-### 2026-08-11 02:52:40  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $87.72/bbl, up $4.17 or 4.99%.
-
----
-
-### 2026-08-11 02:52:16  #市場
-
-美元/日元上漲1%，報159.32。
 
 ---
