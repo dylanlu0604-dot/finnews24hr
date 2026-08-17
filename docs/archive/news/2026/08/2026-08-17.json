@@ -1,7 +1,23 @@
 {
   "date": "2026-08-17",
-  "count": 2577,
+  "count": 2579,
   "items": [
+    {
+      "id": "5044622",
+      "time": "2026-08-17 23:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖高階顧問批評了美國政府對伊朗的威脅性言辭，稱美國家庭最終將承受華盛頓敵對政策帶來的後果。"
+    },
+    {
+      "id": "mkt:01a01070-0779-7aab-9066-42ecb1a34bbf",
+      "time": "2026-08-17 23:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Jerusalem Post, Israeli officials say Netanyahu criticized Jared Kushner for meeting Hamas leaders, calling Hamas the mastermind of the Oct. 7 attack; Kushner did not respond."
+    },
     {
       "id": "5044621",
       "time": "2026-08-17 23:54:40",
