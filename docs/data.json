@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-17 21:27:53",
-  "count": 15257,
+  "updated": "2026-08-17 21:31:53",
+  "count": 15248,
   "items": [
+    {
+      "id": "mkt:01a00fea-f74c-7aab-9063-372e7d83d591",
+      "time": "2026-08-17 21:30:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "Impact bullish",
+        "MU.O"
+      ],
+      "text": "U.S. open: Dow down 0.3%, S&P 500 near flat, Nasdaq +0.2%. Storage stocks led gains: Micron Technology (MU.O) +3.6%, SanDisk (SNDK.O) +4.5%. Alphabet (GOOG.O) +0.2%; Berkshire Hathaway continued adding to its Alphabet stake in Q2. Alibaba (BABA.N) +1.6% after agreeing to sell its gaming unit for $1.5 bln."
+    },
+    {
+      "id": "5044456",
+      "time": "2026-08-17 21:30:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯工業平均指數開盤後下跌122.81點，跌幅0.23%，報53609.60點。"
+    },
+    {
+      "id": "5044455",
+      "time": "2026-08-17 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.24%，標普500指數漲0.04%，納指漲0.19%。閃迪漲4.61%，美光漲3.76%，L3 HARRIS TECHNOLOGIES INC跌3.15%，工時公司跌2.42%。“七姐妹”方面：亞馬遜漲0.80%，英偉達漲0.79%，蘋果漲0.39%，谷歌漲0.20%，Meta Platforms跌0.70%，特斯拉跌1.00%，微軟跌1.04%。"
+    },
+    {
+      "id": "5044454",
+      "time": "2026-08-17 21:30:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多S&P/TSX綜合股指開盤下跌42.89點，跌幅0.12%，報36687.38點。"
+    },
+    {
+      "id": "5044453",
+      "time": "2026-08-17 21:29:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【4家深企獲美國蓋倫獎提名】近日，享有“醫藥界諾貝爾獎”之稱的美國蓋倫獎（PrixGalienUSA）公佈2026年提名名單。深圳新銳科技企業萊芒生物、默達生物、瑞圖生物、深信生物入圍“最佳初創公司（BestStartup）”獎項。值得一提的是，萊芒生物、默達生物這兩家企業都是由晶泰科技孵化，也是繼2025年晶泰孵化企業希格生科獲得“最佳生物技術產品獎”提名後，晶泰生態圈企業連續第二年登上蓋倫獎榜單。（深圳釋出）"
+    },
+    {
+      "id": "mkt:01a00fe9-7341-7aab-9063-2d6dd4589706",
+      "time": "2026-08-17 21:29:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fullgoal Investment Research Institute upgraded its rating on the global energy sector to Neutral from Unfavorable."
+    },
+    {
+      "id": "5044452",
+      "time": "2026-08-17 21:27:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Evercore ISI：標普 500 指數或觸及 9000 點】Evercore ISI 策略師朱利安・伊曼紐爾表示，標普 500 指數有望在 12 個月內達到 9000 點，較當前水平大約有 16% 的上行空間。他認為，經濟衰退、長期收益率飆升、投資者極度追漲情緒這些傳統牛市終結因素目前尚未顯現。伊曼紐爾還指出，人工智慧熱潮、企業低槓桿水平以及投資者多元化持倉將帶來進一步上漲動力。其基準情景下標普 500 指數目標位仍為 7750 點。"
+    },
     {
       "id": "mkt:01a00fe7-03a7-7aab-9063-23f9b53110e0",
       "time": "2026-08-17 21:26:32",
@@ -35,6 +101,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fuguo Investment Research Institute forecasts the Federal Reserve will hike the federal funds target by 25bp in 2027 to 4.00%-4.25%, reversing a prior projection that rates would be held steady."
+    },
+    {
+      "id": "em:qqyh_mlc:202608173843488785",
+      "time": "2026-08-17 21:25:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【富國投資研究所：美聯儲今年將加息25個基點】富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。"
     },
     {
       "id": "5044450",
@@ -139681,177 +139756,6 @@
         "國際"
       ],
       "text": "俄羅斯外交官表態：莫斯科將德涅斯特河沿岸地區的任何軍事挑釁都視為對俄羅斯的襲擊。"
-    },
-    {
-      "id": "5034258",
-      "time": "2026-08-10 21:31:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "SPACEX股價上漲1.8%，重回135美元IPO發行價上方。"
-    },
-    {
-      "id": "5034257",
-      "time": "2026-08-10 21:31:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "英特爾股價在公司宣佈150億美元股票發售計劃後下跌4.4%。"
-    },
-    {
-      "id": "5034256",
-      "time": "2026-08-10 21:31:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Meta股價上漲1.4%，此前該公司推出全新人工智慧模型。"
-    },
-    {
-      "id": "mkt:019febde-c248-7aab-8fda-94058856dd37",
-      "time": "2026-08-10 21:31:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "META.O"
-      ],
-      "text": "Microsoft (MSFT.O) shares rose 1.4% after the company said it will sharply ramp up production of AI chips. Meta Platforms (META.O) shares rose 1.16% after launching a lightweight AI model, Muse Glimmer."
-    },
-    {
-      "id": "te:markets:574146",
-      "time": "2026-08-10 21:30:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lockheed Martin Stock Price Hits 16-week High — Lockheed Martin shares increased to 595.00 USD, the highest since April 2026. Over the past 4 weeks, Lockheed Martin gained 13.68%, and in the last 12 months, it increased 38.86%."
-    },
-    {
-      "id": "te:economy:574145",
-      "time": "2026-08-10 21:30:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tanzania",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Tanzania Inflation Edges Higher in July — Tanzania’s annual inflation rate rose to 4.2% in July 2026 from 4.0% in June, returning to the level last seen in May, which was the highest since January 2023. The acceleration was mainly driven by higher inflation for transport (13.8% vs 13.6%), housing and utilities (1.6% vs 1.2%), restaurants and hotels (2.7% vs 1.9%), health (1.4% vs 1.3%), recreation and culture (0.7% vs 0.5%), education (2.8% vs 2.7%) and clothing and footwear (1.6% vs 1.3%). Meanwhile, inflation for food and alcoholic beverages and tobacco stood at 4.1% and 1.9%, respectively. In contrast, inflation eased for furnishings (2.2% vs 2.5%) and information and communication (0.6% vs 0.5%). On a monthly basis, consumer prices fell 0.1%, reversing a 0.1% increase in June."
-    },
-    {
-      "id": "mkt:019febde-70a5-7aab-8fda-8b90aa870ed9",
-      "time": "2026-08-10 21:30:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: South China Sea military training】Qinglan Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for military training on Aug 11 from 06:00 to 15:00; entry is prohibited."
-    },
-    {
-      "id": "mkt:019febde-6e95-7aab-8fda-81c9b876fb01",
-      "time": "2026-08-10 21:30:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "INTC.O",
-        "S&P500"
-      ],
-      "text": "U.S. stocks opened lower: the Dow fell 0.1%, the S&P 500 fell 0.06% and the Nasdaq fell 0.06%. Apple (AAPL.O) dropped 2.1% after Jefferies cut its rating. Intel (INTC.O) fell 4% after announcing plans for a $15 billion common stock offering."
-    },
-    {
-      "id": "5034255",
-      "time": "2026-08-10 21:30:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安部開展深化掃黑除惡專項鬥爭第一輪集中收網行動】為深入貫徹落實黨中央關於開展深化掃黑除惡專項鬥爭的決策部署和全國掃黑除惡專項鬥爭視訊會議要求，近日，公安部指揮全國公安機關同步開展深化掃黑除惡專項鬥爭第一輪集中收網行動，成功打掉各類犯罪團伙1000餘個，抓獲犯罪嫌疑人8200餘名，破獲各類刑事案件5400餘起。（新華社）"
-    },
-    {
-      "id": "5034254",
-      "time": "2026-08-10 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊跌】道指跌0.09%，標普500指數跌0.07%，納指跌0.04%。英特爾跌4.36%，Verisk Analytics跌4.21%，希捷跌3.17%，艾利跌2.90%。“七姐妹”方面：微軟漲1.45%，Meta Platforms漲1.21%，亞馬遜漲0.55%，谷歌漲0.30%，特斯拉跌0.23%，英偉達跌0.31%，蘋果跌1.92%。"
-    },
-    {
-      "id": "te:markets:574144",
-      "time": "2026-08-10 21:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Oracle Stock Price Hits 4-week High — Oracle shares increased to 148.92 USD, the highest since July 2026. Over the past 4 weeks, Oracle gained 12.37%, and in the last 12 months, it decreased 41.5%."
-    },
-    {
-      "id": "5034253",
-      "time": "2026-08-10 21:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月11日6時至15時，南海部分海域進行軍事訓練，禁止駛入。"
-    },
-    {
-      "id": "5034252",
-      "time": "2026-08-10 21:29:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯官方訊息稱，無人機襲擊俄羅斯下卡姆斯克造成的13名遇難者中，有9人死於一家旅館。"
-    },
-    {
-      "id": "5034251",
-      "time": "2026-08-10 21:28:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "布萊克博德透過Raiser's Edge NXT®與微軟365 AI助手實現整合，提升了籌款情報獲取的靈活性。"
-    },
-    {
-      "id": "5034250",
-      "time": "2026-08-10 21:28:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭想自產“愛國者”，特朗普表態前後不一】美國是否會授權烏克蘭生產“愛國者”防空系統攔截彈，近期備受輿論關注。美國《大西洋》雜誌9日報道，美國兩家軍工企業將正式向美國政府說明它們在相關生產技術轉讓和智慧財產權風險方面的擔憂。這兩家軍工企業均生產“愛國者”攔截彈。美國國會訊息人士說，這兩家企業真正擔心的是，烏克蘭將對攔截彈作出改進，而後以更快速度更低造價大批次生產。這是美國當前生產線無法辦到的。現階段，烏克蘭要求獲得更多攔截彈，以滿足防空需求；美國被曝在伊朗戰事中大量消耗該型攔截彈，自顧不暇；美國的海灣和歐洲盟友基於自身需求，要麼看緊庫存、要麼也想“補貨”。烏克蘭總統澤連斯基7月28日訪美時表示，他與美國總統特朗普討論了烏克蘭生產“愛國者”攔截彈等議題。兩人同月8日在土耳其安卡拉北約峰會期間會晤，特朗普當時稱將授權烏克蘭生產。但特朗普日前改口稱，美方尚未同意授權烏克蘭生產該型攔截彈。相關討論在進行中，轉讓這類技術“必須非常謹慎”。（環球網）"
-    },
-    {
-      "id": "5034249",
-      "time": "2026-08-10 21:28:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【官方通報“2人將生活垃圾倒進大海”】8月10日，汕頭市潮南區隴田鎮人民政府釋出情況通報：近日，網傳“兩名男子將生活垃圾倒進大海”相關影片，我鎮立即開展核查處置，現將有關情況通報如下：經核查，8月9日23時許，隴田鎮石坑村村民林某、方某兩人，酒後在海邊將生活垃圾傾倒入海。事件發生後，我鎮迅速組織人員對現場垃圾全面清理、徹底清運，目前已清運完畢。同時，執法部門對林某、方某兩人開展調查取證，依法給予行政處罰，並對其進行嚴肅批評教育。下一步，我鎮將持續壓實管護責任，加密巡查頻次，強化群眾普法教育，堅決杜絕亂傾倒生活垃圾等行為，切實維護環境整潔。"
-    },
-    {
-      "id": "5034248",
-      "time": "2026-08-10 21:27:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中文線上攜手火山引擎探索AI與IP內容融合路徑】8月10日，中文線上宣佈，公司與火山引擎近日達成深度業務合作。雙方將圍繞影片生成模型Seedance落地、IP內容開發、海內外內容供給以及雲服務等方向展開協同，探索生成式AI與優質IP結合的可行路徑。"
     }
   ]
 }

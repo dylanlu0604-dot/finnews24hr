@@ -1,7 +1,73 @@
 {
   "date": "2026-08-17",
-  "count": 2292,
+  "count": 2300,
   "items": [
+    {
+      "id": "mkt:01a00fea-f74c-7aab-9063-372e7d83d591",
+      "time": "2026-08-17 21:30:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "Impact bullish",
+        "MU.O"
+      ],
+      "text": "U.S. open: Dow down 0.3%, S&P 500 near flat, Nasdaq +0.2%. Storage stocks led gains: Micron Technology (MU.O) +3.6%, SanDisk (SNDK.O) +4.5%. Alphabet (GOOG.O) +0.2%; Berkshire Hathaway continued adding to its Alphabet stake in Q2. Alibaba (BABA.N) +1.6% after agreeing to sell its gaming unit for $1.5 bln."
+    },
+    {
+      "id": "5044456",
+      "time": "2026-08-17 21:30:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯工業平均指數開盤後下跌122.81點，跌幅0.23%，報53609.60點。"
+    },
+    {
+      "id": "5044455",
+      "time": "2026-08-17 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.24%，標普500指數漲0.04%，納指漲0.19%。閃迪漲4.61%，美光漲3.76%，L3 HARRIS TECHNOLOGIES INC跌3.15%，工時公司跌2.42%。“七姐妹”方面：亞馬遜漲0.80%，英偉達漲0.79%，蘋果漲0.39%，谷歌漲0.20%，Meta Platforms跌0.70%，特斯拉跌1.00%，微軟跌1.04%。"
+    },
+    {
+      "id": "5044454",
+      "time": "2026-08-17 21:30:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多S&P/TSX綜合股指開盤下跌42.89點，跌幅0.12%，報36687.38點。"
+    },
+    {
+      "id": "5044453",
+      "time": "2026-08-17 21:29:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【4家深企獲美國蓋倫獎提名】近日，享有“醫藥界諾貝爾獎”之稱的美國蓋倫獎（PrixGalienUSA）公佈2026年提名名單。深圳新銳科技企業萊芒生物、默達生物、瑞圖生物、深信生物入圍“最佳初創公司（BestStartup）”獎項。值得一提的是，萊芒生物、默達生物這兩家企業都是由晶泰科技孵化，也是繼2025年晶泰孵化企業希格生科獲得“最佳生物技術產品獎”提名後，晶泰生態圈企業連續第二年登上蓋倫獎榜單。（深圳釋出）"
+    },
+    {
+      "id": "mkt:01a00fe9-7341-7aab-9063-2d6dd4589706",
+      "time": "2026-08-17 21:29:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fullgoal Investment Research Institute upgraded its rating on the global energy sector to Neutral from Unfavorable."
+    },
+    {
+      "id": "5044452",
+      "time": "2026-08-17 21:27:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Evercore ISI：標普 500 指數或觸及 9000 點】Evercore ISI 策略師朱利安・伊曼紐爾表示，標普 500 指數有望在 12 個月內達到 9000 點，較當前水平大約有 16% 的上行空間。他認為，經濟衰退、長期收益率飆升、投資者極度追漲情緒這些傳統牛市終結因素目前尚未顯現。伊曼紐爾還指出，人工智慧熱潮、企業低槓桿水平以及投資者多元化持倉將帶來進一步上漲動力。其基準情景下標普 500 指數目標位仍為 7750 點。"
+    },
     {
       "id": "mkt:01a00fe7-03a7-7aab-9063-23f9b53110e0",
       "time": "2026-08-17 21:26:32",
@@ -35,6 +101,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fuguo Investment Research Institute forecasts the Federal Reserve will hike the federal funds target by 25bp in 2027 to 4.00%-4.25%, reversing a prior projection that rates would be held steady."
+    },
+    {
+      "id": "em:qqyh_mlc:202608173843488785",
+      "time": "2026-08-17 21:25:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【富國投資研究所：美聯儲今年將加息25個基點】富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。"
     },
     {
       "id": "5044450",
