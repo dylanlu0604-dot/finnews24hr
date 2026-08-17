@@ -1,7 +1,29 @@
 {
   "date": "2026-08-18",
-  "count": 333,
+  "count": 335,
   "items": [
+    {
+      "id": "5044806",
+      "time": "2026-08-18 06:57:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【報道：美國要求韓國將儲存晶片作為首個對美投資重點】據韓國中央日報報道，韓國政府原計劃於本月晚些時候公佈的首個對美投資專案，因美國突然要求韓國投資儲存晶片生產設施而面臨不確定性。報道援引多名未具名執政黨人士報道稱，美國要求韓國投資儲存晶片專案，是8月13日韓國總統府閉門貿易會議討論的核心議題。報道指出，韓國政府最初將能源領域作為首個重大對美投資專案的優先方向。與會人士普遍認為，鑑於三星電子和SK海力士已承諾在韓國Honam地區進行大規模投資，在美國投資儲存晶片專案實際上會很困難。"
+    },
+    {
+      "id": "te:markets:575938",
+      "time": "2026-08-18 06:57:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Moves Away from Near 4-Week Low — New Zealand's stocks rose 56 points, or 0.4%, to 13,779 in Tuesday morning trade, erasing losses from the previous session, mainly supported by gains in real estate, utilities, and consumer staples. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with real estate (+1.0%) and consumer staples (+0.6%) rebounding after plunging in the previous session. Monday's data continued to lift sentiment as food inflation eased to a 19-month low while credit card spending rebounded. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions limited gains ahead of the release of the FOMC meeting minutes later this week. Among the early losers were Gentrack Group (-1.5%), ANZ Group (-0.9%), A2 Milk (-0.5%), and Mainfreight (-0.4%). Meanwhile, Mercury NZ rose 1.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June."
+    },
     {
       "id": "5044805",
       "time": "2026-08-18 06:53:44",
