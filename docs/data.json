@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-18 00:16:09",
-  "count": 15248,
+  "updated": "2026-08-18 00:20:01",
+  "count": 15249,
   "items": [
+    {
+      "id": "te:markets:575914",
+      "time": "2026-08-18 00:17:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Finishes on Negative Note — The DAX 40 closed about 0.4% down at 26,339 on Monday, reversing gains from the prior session, despite remaining close to record highs. Heightened Middle East tensions offset growing investor optimism over artificial intelligence.The 60-day Washington-Tehran truce expires today, with the standoff over Hormuz continuing and threats from both sides escalating. Meanwhile, investors continued to adjust their expectations for US interest rates following a series of weaker-than-expected economic data. Several sectors faced selling pressure, particularly retailers and autos, while tech and financials provided support. Among single stocks, Zalando, Adidas, Scout24, Beiersdorf, Henkel and Symrise posted the largest declines, ranging between 1.9%-3.4%. On the upside, top gainers included Deutsche Borse (1.8%), Rheinmetall (1.3%), Siemens Energy (1.1%) and Infineon Technologies (0.9%)."
+    },
+    {
+      "id": "mkt:01a01083-4937-7aab-9066-672aaa1e9b49",
+      "time": "2026-08-18 00:17:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion outside private school in Kabul injures multiple】Kabul police spokesman Khalid Zadran said on the evening of the 17th that an explosion hit the gate of a private school at about 5 p.m. local time, seriously wounding multiple students. Local media reported most victims were girls and that students were leaving school when the blast occurred. A witness said about 30 wounded were taken to local hospitals. An investigative team is on site."
+    },
+    {
+      "id": "5044635",
+      "time": "2026-08-18 00:16:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "城堡證券表示，通脹長期高於目標水平，但美聯儲不願收緊貨幣政策，這使得長期債券收益率維持在多年高位，給各類市場帶來更廣泛風險。"
+    },
+    {
+      "id": "5044634",
+      "time": "2026-08-18 00:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Stripe將於年底把多幣種結算拓展至37個市場】Stripe宣佈向更多市場拓展多幣種結算業務，並推出即時貨幣兌換功能。到2026年末，分佈於37個市場的企業，可依據自身經營所在地，選擇最多18種貨幣完成收款收益結算。即時貨幣兌換功能支援企業在15種貨幣之間劃轉資金，報價透明，具備市場領先水平。2026年還計劃新增更多幣種。"
+    },
     {
       "id": "5044633",
       "time": "2026-08-18 00:15:17",
@@ -139670,35 +139707,6 @@
         "Importance 1"
       ],
       "text": "DAX Closes Flat — The DAX 40 closed broadly flat at 26,320 on Monday, remaining at record levels, as gains in financial and selected industrial stocks offset losses in telecommunications and consumer shares. QIAGEN jumped 5.1% after Deutsche Bank reiterated its “Buy” recommendation, while Infineon gained 2.3% after launching a limited-term share buyback programme. Siemens Energy advanced 1.5%, tracking US power generators with high exposure to power-hungry AI infrastructure. Financials mostly outperformed, with Allianz rising 1.1% after announcing plans to reduce supplier coverage by up to 70% for Vistry. On the downside, Deutsche Telekom led the declines, falling 3.2% after reports that its US affiliate, T-Mobile US, had cut more than 4,500 jobs in the first half of the year. Beiersdorf and Brenntag each lost 2.2%, while Bayer fell 1.3% and Hannover Re slipped 0.3%."
-    },
-    {
-      "id": "mkt:019fec78-8e89-7aab-8fdd-ba01770023be",
-      "time": "2026-08-11 00:19:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy commander said any foreign vessel transiting the Strait of Hormuz will be identified, tracked and monitored by Iranian forces."
-    },
-    {
-      "id": "5034437",
-      "time": "2026-08-11 00:18:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍司令：任何外國船只經過霍爾木茲海峽，都逃不過伊朗軍方的識別、追蹤與監控。"
-    },
-    {
-      "id": "5034436",
-      "time": "2026-08-11 00:16:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德國兩年期國債收益率漲約5個基點，非農過後，投資者關注油價漲勢】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，德國10年期國債收益率漲4.6個基點，報3.179%，日內交投於3.125%-3.182%區間，北京時間14:30“開盤”以來、至20:33呈現出平坦的W形走勢，持穩於3.135%附近，之後擴大漲幅。兩年期德債收益率漲5.2個基點，報2.801%，日內交投於2.749%-2.804%區間，幾乎全天處於上漲狀態；30年期德債收益率漲3.2個基點，報3.672%。2/10年期德債收益率利差跌0.453個基點，報+37.533個基點。法國10年期國債收益率漲6.4個基點，報3.981%；兩年期法債收益率漲5.9個基點，30年期法債收益率漲4.6個基點。義大利10年期國債收益率漲6.4個基點，報3.965%。西班牙10年期國債收益率漲5.8個基點，報3.618%。希臘10年期國債收益率漲6.4個基點，報3.863%。"
     }
   ]
 }
