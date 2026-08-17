@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-17 10:04:51",
-  "count": 15169,
+  "updated": "2026-08-17 10:08:43",
+  "count": 15165,
   "items": [
+    {
+      "id": "5043260",
+      "time": "2026-08-17 10:08:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行官員：分析顯示第二輪影響將更為顯著。"
+    },
+    {
+      "id": "5043259",
+      "time": "2026-08-17 10:07:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行官員：通脹展望已惡化。"
+    },
+    {
+      "id": "5043258",
+      "time": "2026-08-17 10:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長慶油田重新整理國內深層煤層氣鑽井最長水平段紀錄】據中國石油訊息，近日，長慶油田盆地東部天然氣評價專案組部署在鄂爾多斯盆地東部的一口深層煤層氣超長水平井順利完鑽。該井水平段長3100米，煤層鑽遇率高達95.8%，一舉重新整理國內深層煤層氣鑽井最長水平段紀錄。"
+    },
+    {
+      "id": "te:markets:575633",
+      "time": "2026-08-17 10:06:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rebound on Tech Rally — The Hang Seng Index rose 1.5%, or 375 points, to 25,490 on Monday, rebounding from a fourth consecutive session of decline as investors returned to beaten down stocks. Technology shares were among the main drivers of the recovery. SenseTime surged around 8.2% after the artificial-intelligence company forecast a first-half profit of RMB500 million to RMB700 million, which would mark its first profit since its Hong Kong listing. Investor sentiment was supported by continued optimism over Hong Kong’s capital markets and strong IPO activity. However, investors remained cautious about geopolitical risks and oil prices, while awaiting China’s latest economic data for signs of the strength of its recovery. Among notable movers included Tencent (1.3%), Semiconductor Manufacturing International Corporation (3.3%), MiniMax (2.5%), and Lenovo (0.5%)."
+    },
+    {
+      "id": "mkt:01a00d78-0ee0-7aab-9053-da1d1cb872ec",
+      "time": "2026-08-17 10:06:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share commercial retail stocks rebounded; Liqun hit limit-up, while Fiyta, Pengfei Green Energy, Mankalong, Caibai and Hanshang Group also gained."
+    },
+    {
+      "id": "5043257",
+      "time": "2026-08-17 10:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平出席大會並發表重要講話。（新華社）"
+    },
+    {
+      "id": "mkt:01a00d77-2936-7aab-9053-d035ac3aca5e",
+      "time": "2026-08-17 10:05:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "2359.HK",
+        "Impact bullish"
+      ],
+      "text": "China A-share innovative drug sector rebounded after an intraday trough; Yuheng Pharmaceutical hit the daily limit, following an earlier limit-up in Huasen Pharmaceutical. Zhijiang Bio, Shiyao Innovation, Longshen Rongfa, Tailong Pharmaceutical and WuXi AppTec also advanced."
+    },
     {
       "id": "5043256",
       "time": "2026-08-17 10:04:05",
@@ -138580,100 +138648,6 @@
         "市場"
       ],
       "text": "【AI應用概念異動拉昇 石基資訊直線漲停】AI應用概念盤中異動拉昇，石基資訊直線漲停，此前榕基軟體漲停，三維天地漲近15%，鷗瑪軟體、南威軟體、通達海、恆鋒資訊等快速跟漲。"
-    },
-    {
-      "id": "5033022",
-      "time": "2026-08-10 10:08:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光學元件板塊短線走低，戈碧迦跌超6%】光學元件板塊短線走低，戈碧迦跌超6%，美迪凱、光智科技、騰景科技、藍特光學等跟跌。"
-    },
-    {
-      "id": "5033021",
-      "time": "2026-08-10 10:08:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門稱防空系統在襲擊期間攔截了11架胡塞武裝無人機。"
-    },
-    {
-      "id": "5033020",
-      "time": "2026-08-10 10:07:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "HD現代重工贏得9560億韓元的美國發動機發電機供應訂單。"
-    },
-    {
-      "id": "5033019",
-      "time": "2026-08-10 10:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟機構：西歐經歷有記錄以來最熱6月至7月，多瑙河等水位告急】2026年7月，西歐持續的炎熱乾燥天氣導致極端野火蔓延並加劇。8月10日，由歐洲中期天氣預報中心（ECMWF）下哥白尼氣候變化服務局（C3S）釋出最新資料顯示，7月全球非極地海域的海面溫度創下當月歷史最高紀錄，這在一定程度上受到赤道太平洋地區正在形成的厄爾尼諾現象的推動。西歐則經歷了有記錄以來最熱的6月至7月，且7月出現了自5月以來的第三和第四波熱浪，標誌著今夏極端高溫天氣的持續態勢非同尋常。該地區大部分割槽域延續並加劇了5月和6月出現的普遍乾旱狀況，法國、西班牙以及德國和英國部分地區報告了極低的降雨量和/或土壤溼度。（第一財經）"
-    },
-    {
-      "id": "5033018",
-      "time": "2026-08-10 10:06:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【索尼集團與臺積電將在熊本工廠投資1萬億日元，2029年量產下一代影象感測器】索尼集團與臺積電計劃於2029年在日本熊本縣實現下一代影象半導體感測器的量產。生產工作將由雙方共同出資成立的合資公司負責，預計總投資規模將達到1萬億日元。其中，索尼方面出資約60%，臺積電出資約40%。雙方已於今年5月就下一代感測器的開發與生產達成基本協議，此次明確了具體的合作細節。雙方預計將於近期就量產投資達成一致，並在2026財年內正式成立合資公司。"
-    },
-    {
-      "id": "mkt:019fe96b-6a0c-7aab-8fcf-3c665c63d54f",
-      "time": "2026-08-10 10:05:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Commission for Disaster Reduction and Ministry of Emergency Management activate national level-4 disaster emergency response】Aug 10 — The National Commission for Disaster Reduction and the Ministry of Emergency Management activated a national level-4 disaster emergency response after Typhoon No.13 \"White Dolphin\" caused severe impact in Zhejiang province. A relief working group was dispatched to the affected areas to assess conditions and to guide and assist local authorities with damage verification, evacuee resettlement and assistance, and basic livelihood support."
-    },
-    {
-      "id": "5033017",
-      "time": "2026-08-10 10:05:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防減救災委、應急管理部啟動國家四級救災應急響應】8月10日，國家防減救災委、應急管理部針對第13號颱風“白海豚”對浙江省造成的嚴重影響，啟動國家四級救災應急響應，派出救災工作組赴災區實地檢視災情，指導協助地方做好災情統計核查、群眾安置救助、基本生活保障等救災救助工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe96a-f29a-7aab-8fcf-3118698f02e7",
-      "time": "2026-08-10 10:05:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan to use advanced AI models in proactive cyber defense as AI-enabled attack risk rises】KYODO reported a senior government official said Japan is considering deploying cutting-edge AI systems under its 'proactive cyber defense' policy to counter attack risks from advanced models such as ANTHROPIC's Claude MYTHOS. National cybersecurity director Yoichi Iida said using advanced AI is \"unavoidable\" and warned the time from discovering a vulnerability to exploiting it could plausibly shrink to 1% or 0.1% of previous lengths. The cabinet led by Prime Minister TAKAICHI decided in March that, from Oct. 1, the government may take proactive cyber-defense measures to preempt severe attacks on critical infrastructure, economic activity and livelihoods."
-    },
-    {
-      "id": "5033016",
-      "time": "2026-08-10 10:05:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺8月10日10時繼續釋出颱風藍色預警。"
-    },
-    {
-      "id": "mkt:019fe96a-938e-7aab-8fcf-2a9c2a503b7e",
-      "time": "2026-08-10 10:05:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share food and beverage sector extended gains; Xiangpiaopiao, Jindawei and Yiming Food hit daily price limits, while Pinwo Food, Dongpeng Beverage, Yingjia Gongjiu, Zhongjing Food, Kuaijishan and Ligao Food also rose."
-    },
-    {
-      "id": "5033015",
-      "time": "2026-08-10 10:04:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【食品飲料概念持續走強，香飄飄等多股漲停】食品飲料行業板塊持續走強，香飄飄、金達威、一鳴食品漲停，品渥食品、東鵬飲料、迎駕貢酒、仲景食品、會稽山、立高食品等跟漲。"
     }
   ]
 }

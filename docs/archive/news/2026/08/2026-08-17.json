@@ -1,7 +1,75 @@
 {
   "date": "2026-08-17",
-  "count": 529,
+  "count": 536,
   "items": [
+    {
+      "id": "5043260",
+      "time": "2026-08-17 10:08:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行官員：分析顯示第二輪影響將更為顯著。"
+    },
+    {
+      "id": "5043259",
+      "time": "2026-08-17 10:07:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行官員：通脹展望已惡化。"
+    },
+    {
+      "id": "5043258",
+      "time": "2026-08-17 10:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長慶油田重新整理國內深層煤層氣鑽井最長水平段紀錄】據中國石油訊息，近日，長慶油田盆地東部天然氣評價專案組部署在鄂爾多斯盆地東部的一口深層煤層氣超長水平井順利完鑽。該井水平段長3100米，煤層鑽遇率高達95.8%，一舉重新整理國內深層煤層氣鑽井最長水平段紀錄。"
+    },
+    {
+      "id": "te:markets:575633",
+      "time": "2026-08-17 10:06:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rebound on Tech Rally — The Hang Seng Index rose 1.5%, or 375 points, to 25,490 on Monday, rebounding from a fourth consecutive session of decline as investors returned to beaten down stocks. Technology shares were among the main drivers of the recovery. SenseTime surged around 8.2% after the artificial-intelligence company forecast a first-half profit of RMB500 million to RMB700 million, which would mark its first profit since its Hong Kong listing. Investor sentiment was supported by continued optimism over Hong Kong’s capital markets and strong IPO activity. However, investors remained cautious about geopolitical risks and oil prices, while awaiting China’s latest economic data for signs of the strength of its recovery. Among notable movers included Tencent (1.3%), Semiconductor Manufacturing International Corporation (3.3%), MiniMax (2.5%), and Lenovo (0.5%)."
+    },
+    {
+      "id": "mkt:01a00d78-0ee0-7aab-9053-da1d1cb872ec",
+      "time": "2026-08-17 10:06:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share commercial retail stocks rebounded; Liqun hit limit-up, while Fiyta, Pengfei Green Energy, Mankalong, Caibai and Hanshang Group also gained."
+    },
+    {
+      "id": "5043257",
+      "time": "2026-08-17 10:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平出席大會並發表重要講話。（新華社）"
+    },
+    {
+      "id": "mkt:01a00d77-2936-7aab-9053-d035ac3aca5e",
+      "time": "2026-08-17 10:05:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "2359.HK",
+        "Impact bullish"
+      ],
+      "text": "China A-share innovative drug sector rebounded after an intraday trough; Yuheng Pharmaceutical hit the daily limit, following an earlier limit-up in Huasen Pharmaceutical. Zhijiang Bio, Shiyao Innovation, Longshen Rongfa, Tailong Pharmaceutical and WuXi AppTec also advanced."
+    },
     {
       "id": "5043256",
       "time": "2026-08-17 10:04:05",
