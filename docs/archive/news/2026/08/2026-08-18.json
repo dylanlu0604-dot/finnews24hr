@@ -1,7 +1,15 @@
 {
   "date": "2026-08-18",
-  "count": 264,
+  "count": 265,
   "items": [
+    {
+      "id": "mkt:01a0117b-624c-7aab-9069-a43104181927",
+      "time": "2026-08-18 04:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections."
+    },
     {
       "id": "5044762",
       "time": "2026-08-18 04:44:57",

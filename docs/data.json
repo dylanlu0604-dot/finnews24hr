@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-18 04:47:29",
+  "updated": "2026-08-18 04:51:25",
   "count": 15210,
   "items": [
+    {
+      "id": "mkt:01a0117b-624c-7aab-9069-a43104181927",
+      "time": "2026-08-18 04:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections."
+    },
     {
       "id": "5044762",
       "time": "2026-08-18 04:44:57",
@@ -139379,14 +139387,6 @@
         "Impact bullish"
       ],
       "text": "NVIDIA (NVDA.O) CEO Jensen Huang said no one has turned down the new AI financing plan."
-    },
-    {
-      "id": "5034597",
-      "time": "2026-08-11 04:49:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：對於新一輪人工智慧融資計劃，無人拒絕。"
     }
   ]
 }
