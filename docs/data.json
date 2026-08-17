@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-17 16:13:29",
-  "count": 15218,
+  "updated": "2026-08-17 16:17:19",
+  "count": 15219,
   "items": [
+    {
+      "id": "5043795",
+      "time": "2026-08-17 16:16:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳音控股：2026年上半年營收354.31億元 同比增21.85%】傳音控股公告稱，2026年上半年公司實現營業收入354.31億元，同比上升21.85%；歸母淨利潤17.73億元，同比上升46.22%；扣非歸母淨利潤14.80億元，同比上升64.98%。2026年上半年研發費用同比增長20.15%，新增專利申請231件、授權專利158件、軟體著作權5件。公司2026年半年度擬向全體股東每10股派發現金紅利8.00元（含稅），合計擬派發現金紅利9.21億元，佔當期歸母淨利潤比例為51.93%。"
+    },
+    {
+      "id": "5043793",
+      "time": "2026-08-17 16:14:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天富龍：2026年上半年淨利潤2.53億元，同比增長12.09%】天富龍公告，2026年上半年營業收入15.93億元，同比下降6.32%；歸屬於上市公司股東的淨利潤2.53億元，同比增長12.09%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.36億元，同比增長4.26%；上年同期淨利潤2.26億元。公司2026年半年度利潤分配預案為每股派發現金紅利0.50元（含稅），合計擬派發現金紅利2億元（含稅），佔2026年上半年歸母淨利潤比例78.95%。"
+    },
+    {
+      "id": "5043792",
+      "time": "2026-08-17 16:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部發布8月10日—8月16日，全國物流保通保暢執行資料】國家鐵路運輸貨物7929萬噸，環比增長2.91%；全國高速公路貨車通行5378.8萬輛，環比增長1.75%；監測港口完成貨物吞吐量22184.2萬噸，環比下降5.65%，完成集裝箱吞吐量620.3萬標箱，環比下降1.02%；民航保障航班13.9萬班（其中貨運航班4657班，包括國際貨運航班3057班，國內貨運航班1600班），環比增長0.85%；郵政快遞攬收量約37.51億件，環比增長0.54%；投遞量約36.94億件，環比下降1.34%。"
+    },
+    {
+      "id": "mkt:01a00ec9-9c86-7aab-905b-e5ddbfa76270",
+      "time": "2026-08-17 16:14:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Japan imposes provisional anti-dumping duties on cold-rolled stainless steel coils from mainland China and Taiwan】Japan’s cabinet (decree No.224) on July 9, 2026 imposed provisional anti-dumping duties on cold-rolled stainless steel coils originating in mainland China and Taiwan. Rates for mainland China range 27.7%–42.1%; for Taiwan 3.6%–20.1%. Affected Japanese tariff codes: 7219.31, 7219.32, 7219.33, 7219.34, 7219.35, 7219.90, 7220.20, 7220.90. Measures are effective for four months, through Nov. 8, 2026."
+    },
+    {
+      "id": "mkt:01a00ec9-5f37-7aab-905b-dc898a6eb787",
+      "time": "2026-08-17 16:14:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) will implement multiple changes across the EU, including revisions to its advertising transparency consent tool, following review by Germany's competition regulator."
+    },
+    {
+      "id": "mkt:01a00ec8-f1f6-7aab-905b-d661b6d5f869",
+      "time": "2026-08-17 16:14:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "00981.HK",
+        "Impact bullish",
+        "06869.HK",
+        "06809.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng +1.3%; chip and optical-communications stocks lead】Hong Kong stocks closed higher: the Hang Seng rose 1.34% to 25,453.23, the Hang Seng Tech index gained 1.58% to 4,782.03. Market turnover was HKD210.77 billion. Semiconductors and optical-communications led gains; nonferrous metals were active; ports & shipping and autos advanced while power-grid equipment lagged. Notable movers: Yangtze Optical Fibre and Cable (06869.HK) +12%, Montage Technology (06809.HK) and Kingboard Laminates (01888.HK) +9%+, SenseTime (00020.HK) +8.9%, GigaDevice (03986.HK) and Zhongji Xuchuang (03308.HK) +8%+, Hua Hong Hongli (01347.HK), Biren Technology (06082.HK) and Kingboard Holdings (00148.HK) ~+7%, SMIC (00981.HK) +6%+, Laopu Gold (06181.HK) +5.2%. Losers included Zhipu (02513.HK) -5.3% and Lenovo Group (00992.HK) -1.7%."
+    },
+    {
+      "id": "5043791",
+      "time": "2026-08-17 16:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：158個基層病種同病同付】記者今日從國家醫保局獲悉，在即將印發的按病種付費3.0版分組方案中，新增了一項制度安排：國家層面遴選158個基層病種，其核心機制是“同病同付”，即在一個統籌區內，基層病種在不同等級的醫療機構執行相同的支付標準。 此次31個DRG（按疾病診斷相關分組付費）基層病種中，內科病種27個、手術操作病種4個。內科病種覆蓋了基層日常診療中最常面對的高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病等；手術操作病種選取了闌尾切除術、腹股溝疝手術、肛周手術、骨科固定裝置去除術，這些都是技術成熟、基層具備開展條件的一二級手術。DIP（按病種分值付費）方面，127個病種中內科病種97個、手術操作類30個，覆蓋了呼吸、消化、迴圈、泌尿、骨骼肌肉等多個系統的常見疾病。（央視新聞）"
+    },
+    {
+      "id": "5043790",
+      "time": "2026-08-17 16:13:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【林平發展：2026年上半年淨利潤1.16億元，同比增27.33%】林平發展公告，2026年上半年營業收入17.27億元，同比增長41.13%；歸屬於上市公司股東的淨利潤1.16億元，同比增長27.33%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.13億元，同比增長23.96%。上年同期淨利潤9141.9萬元。本報告期無利潤分配預案。"
+    },
     {
       "id": "5043789",
       "time": "2026-08-17 16:12:19",
@@ -139309,64 +139388,6 @@
         "國際"
       ],
       "text": "俄羅斯央行表示，已建議債權人對受恐怖襲擊影響的企業提供支援。"
-    },
-    {
-      "id": "mkt:019feabf-59d6-7aab-8fd5-541a785eaf32",
-      "time": "2026-08-10 16:17:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UEFA, the Asian Football Confederation and CONCACAF issued a joint statement accusing FIFA president Gianni Infantino of betraying their trust \"through deception\" in a proposal to sell World Cup shares."
-    },
-    {
-      "id": "5033566",
-      "time": "2026-08-10 16:17:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：煤層氣勘探開發】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中《煤層氣（煤礦瓦斯）開發利用方案》提到兩個重點任務：\n（一）煤層氣勘探開發\n1.推動沁水盆地煤層氣產業基地穩產增產\n實施晉城礦區、鄭莊、潘莊等在產區塊老區綜合治理，開展滾動評價和縱向挖潛，加密佈置新井，推進精細開發，穩定煤層氣產量。加快沁南、馬必東、馬必合作、柿莊北等區塊開發建設，推動煤層氣產量較快提升。加大和順橫嶺、法中、中峪、和順馬坊東等區塊勘探力度，擴大增產空間。\n2.推進鄂爾多斯盆地東部煤層氣產業基地快速上產\n聚焦深層煤層氣資源，加快大寧—吉縣、米脂北、神府、石樓西、臨興中、大牛地、宜川、佳縣、延川南等區塊有利區資源動用，大力推進新增產能建設。積極開展三交北、臨興西、臨興東、安河—南河溝、石樓北、柳林石西、綏德等區塊初步建產和試驗試採，儘快形成有效產能。推動保德、三交—磧口、柳林、韓城等區塊產量穩中有升。\n3.加快新疆煤層氣產業化發展\n創新央企與地方合作模式，堅持中淺層、深層統籌謀劃，推動塔里木盆地庫拜區域煤層氣資源高效開發。紮實做好準噶爾盆地阜康等區塊擴邊勘探開發，力爭取得新發現；加快準噶爾盆地沙灣—齊古、和什托洛蓋—烏倫古、伊犁盆地尼勒克、三塘湖盆地淖毛湖等區域煤層氣資源勘查，科學實施有利區資源評價和試驗試採。\n4.積極拓展其他資源開發區域\n加大黔西盆地、四川盆地試驗開發，擴大勘探開發規模；推進南華北盆地、松遼盆地、海拉爾盆地、二連盆地、渤海灣盆地等區域煤層氣資源勘查，爭取獲得新探明資源。"
-    },
-    {
-      "id": "mkt:019feabe-700b-7aab-8fd5-4d3c577e4356",
-      "time": "2026-08-10 16:16:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Index Academy: Local SOE-backed long-term rental apartment openings steady with modest increase】China Index Academy’s July 2026 housing rental enterprise scale ranking shows TOP30 centralized long-term rental apartment operators had 1.471 mln opened units in July, up 23,000 MoM. Local state-owned enterprise–backed chains’ share within the TOP30 rose to 30%. Graduation-season leasing demand widened the MoM increase in 50-city average residential rents in July."
-    },
-    {
-      "id": "5033565",
-      "time": "2026-08-10 16:15:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中指研究院：地方國企系長租公寓開業規模穩中有增】中指研究院最新發布《2026年7月中國住房租賃企業規模排行榜》，據中指研究院統計，2026年7月，TOP30集中式長租公寓企業累計開業房源量為147.1萬間，較6月增加2.3萬間；具體來看，地方國企系開業規模穩中有增，在TOP30中的規模佔比提升至30%。市場執行方面，受畢業季租賃需求持續釋放影響，2026年7月50城住宅平均租金環比漲幅有所擴大。"
-    },
-    {
-      "id": "5033564",
-      "time": "2026-08-10 16:14:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商港口：2025年度第二期超短期融資券到期兌付20億元】招商港口公告稱，公司2025年11月12日發行的2025年度第二期超短期融資券（“25招商局港SCP002”），發行規模20億元，期限267天，票面利率1.58%。該融資券已於2026年8月7日到期，公司已在到期日兌付本息。"
-    },
-    {
-      "id": "5033563",
-      "time": "2026-08-10 16:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞總理醫療團隊表示，總理目前正在醫學專家的監督下接受物理治療。"
-    },
-    {
-      "id": "5033562",
-      "time": "2026-08-10 16:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞總理醫療團隊表示：總理安瓦爾已成功完成擇期腹腔鏡手術，治療臍旁疝。"
     }
   ]
 }

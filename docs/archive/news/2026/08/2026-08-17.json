@@ -1,7 +1,86 @@
 {
   "date": "2026-08-17",
-  "count": 1375,
+  "count": 1383,
   "items": [
+    {
+      "id": "5043795",
+      "time": "2026-08-17 16:16:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳音控股：2026年上半年營收354.31億元 同比增21.85%】傳音控股公告稱，2026年上半年公司實現營業收入354.31億元，同比上升21.85%；歸母淨利潤17.73億元，同比上升46.22%；扣非歸母淨利潤14.80億元，同比上升64.98%。2026年上半年研發費用同比增長20.15%，新增專利申請231件、授權專利158件、軟體著作權5件。公司2026年半年度擬向全體股東每10股派發現金紅利8.00元（含稅），合計擬派發現金紅利9.21億元，佔當期歸母淨利潤比例為51.93%。"
+    },
+    {
+      "id": "5043793",
+      "time": "2026-08-17 16:14:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天富龍：2026年上半年淨利潤2.53億元，同比增長12.09%】天富龍公告，2026年上半年營業收入15.93億元，同比下降6.32%；歸屬於上市公司股東的淨利潤2.53億元，同比增長12.09%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.36億元，同比增長4.26%；上年同期淨利潤2.26億元。公司2026年半年度利潤分配預案為每股派發現金紅利0.50元（含稅），合計擬派發現金紅利2億元（含稅），佔2026年上半年歸母淨利潤比例78.95%。"
+    },
+    {
+      "id": "5043792",
+      "time": "2026-08-17 16:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部發布8月10日—8月16日，全國物流保通保暢執行資料】國家鐵路運輸貨物7929萬噸，環比增長2.91%；全國高速公路貨車通行5378.8萬輛，環比增長1.75%；監測港口完成貨物吞吐量22184.2萬噸，環比下降5.65%，完成集裝箱吞吐量620.3萬標箱，環比下降1.02%；民航保障航班13.9萬班（其中貨運航班4657班，包括國際貨運航班3057班，國內貨運航班1600班），環比增長0.85%；郵政快遞攬收量約37.51億件，環比增長0.54%；投遞量約36.94億件，環比下降1.34%。"
+    },
+    {
+      "id": "mkt:01a00ec9-9c86-7aab-905b-e5ddbfa76270",
+      "time": "2026-08-17 16:14:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Japan imposes provisional anti-dumping duties on cold-rolled stainless steel coils from mainland China and Taiwan】Japan’s cabinet (decree No.224) on July 9, 2026 imposed provisional anti-dumping duties on cold-rolled stainless steel coils originating in mainland China and Taiwan. Rates for mainland China range 27.7%–42.1%; for Taiwan 3.6%–20.1%. Affected Japanese tariff codes: 7219.31, 7219.32, 7219.33, 7219.34, 7219.35, 7219.90, 7220.20, 7220.90. Measures are effective for four months, through Nov. 8, 2026."
+    },
+    {
+      "id": "mkt:01a00ec9-5f37-7aab-905b-dc898a6eb787",
+      "time": "2026-08-17 16:14:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) will implement multiple changes across the EU, including revisions to its advertising transparency consent tool, following review by Germany's competition regulator."
+    },
+    {
+      "id": "mkt:01a00ec8-f1f6-7aab-905b-d661b6d5f869",
+      "time": "2026-08-17 16:14:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "00981.HK",
+        "Impact bullish",
+        "06869.HK",
+        "06809.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng +1.3%; chip and optical-communications stocks lead】Hong Kong stocks closed higher: the Hang Seng rose 1.34% to 25,453.23, the Hang Seng Tech index gained 1.58% to 4,782.03. Market turnover was HKD210.77 billion. Semiconductors and optical-communications led gains; nonferrous metals were active; ports & shipping and autos advanced while power-grid equipment lagged. Notable movers: Yangtze Optical Fibre and Cable (06869.HK) +12%, Montage Technology (06809.HK) and Kingboard Laminates (01888.HK) +9%+, SenseTime (00020.HK) +8.9%, GigaDevice (03986.HK) and Zhongji Xuchuang (03308.HK) +8%+, Hua Hong Hongli (01347.HK), Biren Technology (06082.HK) and Kingboard Holdings (00148.HK) ~+7%, SMIC (00981.HK) +6%+, Laopu Gold (06181.HK) +5.2%. Losers included Zhipu (02513.HK) -5.3% and Lenovo Group (00992.HK) -1.7%."
+    },
+    {
+      "id": "5043791",
+      "time": "2026-08-17 16:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：158個基層病種同病同付】記者今日從國家醫保局獲悉，在即將印發的按病種付費3.0版分組方案中，新增了一項制度安排：國家層面遴選158個基層病種，其核心機制是“同病同付”，即在一個統籌區內，基層病種在不同等級的醫療機構執行相同的支付標準。 此次31個DRG（按疾病診斷相關分組付費）基層病種中，內科病種27個、手術操作病種4個。內科病種覆蓋了基層日常診療中最常面對的高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病等；手術操作病種選取了闌尾切除術、腹股溝疝手術、肛周手術、骨科固定裝置去除術，這些都是技術成熟、基層具備開展條件的一二級手術。DIP（按病種分值付費）方面，127個病種中內科病種97個、手術操作類30個，覆蓋了呼吸、消化、迴圈、泌尿、骨骼肌肉等多個系統的常見疾病。（央視新聞）"
+    },
+    {
+      "id": "5043790",
+      "time": "2026-08-17 16:13:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【林平發展：2026年上半年淨利潤1.16億元，同比增27.33%】林平發展公告，2026年上半年營業收入17.27億元，同比增長41.13%；歸屬於上市公司股東的淨利潤1.16億元，同比增長27.33%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.13億元，同比增長23.96%。上年同期淨利潤9141.9萬元。本報告期無利潤分配預案。"
+    },
     {
       "id": "5043789",
       "time": "2026-08-17 16:12:19",
