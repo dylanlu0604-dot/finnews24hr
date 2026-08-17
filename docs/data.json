@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-18 06:33:36",
-  "count": 15207,
+  "updated": "2026-08-18 06:37:31",
+  "count": 15209,
   "items": [
+    {
+      "id": "mkt:01a011de-b8f5-7aab-906a-19daa1f010fe",
+      "time": "2026-08-18 06:36:43",
+      "tags": [
+        "MKT News",
+        "BHP.O",
+        "Impact bullish"
+      ],
+      "text": "BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln."
+    },
+    {
+      "id": "5044801",
+      "time": "2026-08-18 06:36:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。"
+    },
+    {
+      "id": "5044800",
+      "time": "2026-08-18 06:36:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：銅是驅動必和必拓業務增長的核心引擎。"
+    },
+    {
+      "id": "5044799",
+      "time": "2026-08-18 06:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。"
+    },
+    {
+      "id": "te:markets:575935",
+      "time": "2026-08-18 06:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%)."
+    },
+    {
+      "id": "5044798",
+      "time": "2026-08-18 06:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓全年基礎盈利132.0億美元，預估126.9億美元。"
+    },
+    {
+      "id": "5044797",
+      "time": "2026-08-18 06:33:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【險資股票和基金持倉規模半年增加近7000億元】根據金融監管總局近日披露的最新的保險公司資金運用情況表，截至今年二季度末，險資股票和證券投資基金投資規模達到6.4萬億元，較年初增加近0.7萬億元，其中二季度單季增加近0.5萬億元。分析人士認為，二季度險資權益配置提速，主要是其主動增配權益類資產和權益類資產公允價值抬升共同作用的結果。在增配的權益類資產中，主要分為FVOCI（以公允價值計量且其變動計入其他綜合收益）類和FVTPL（以公允價值計量且其變動計入當期損益）類，前者以獲取高股息為主，後者則以獲取資本利得為主。業內人士透露，未來險資還將繼續同時擁抱確定性與可能性，密切跟蹤資產的風險收益比變化。（中證報）"
+    },
     {
       "id": "5044796",
       "time": "2026-08-18 06:32:56",
@@ -139287,49 +139349,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Oat Rises by 4.26% — Top commodity gainers are Oat (4.26%), Barley (2%) and Cocoa (1.99%). Biggest losers are Rice (-1.97%) and Cotton (-0.75%)."
-    },
-    {
-      "id": "5034633",
-      "time": "2026-08-11 06:36:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI道德事務負責人入職不到一年後離職。"
-    },
-    {
-      "id": "5034632",
-      "time": "2026-08-11 06:35:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其議會透過法案 推動解除庫爾德工人黨武裝】土耳其議會當地時間10日晚透過一項法案，為庫爾德工人黨解除武裝和其成員重新融入社會建立法律框架，標誌著土政府推動結束持續數十年的衝突取得重要進展。該法案規定了實施下一階段庫爾德工人黨解除武裝程序的相關程式，並強調維持司法監督。土政府表示，該法案不構成全面大赦，而是建立有條件的法律機制，為符合條件的庫爾德工人黨成員返回土耳其並接受正式審查提供法律依據。根據規定，未參與嚴重暴力犯罪的低階別庫爾德工人黨成員，在符合條件的情況下，可從伊拉克北部相關據點返回土耳其。上述法案不適用於被關押的庫爾德工人黨領導人阿卜杜拉·厄賈蘭、該組織高階別成員以及正在服無期徒刑且刑罰等級較重的成員。（新華社）"
-    },
-    {
-      "id": "mkt:019fedd0-feda-7aab-8fe1-b4d898028433",
-      "time": "2026-08-11 06:35:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Turkish parliament passes bill creating legal framework to disarm PKK and reintegrate members】Turkish parliament on the evening of the 10th (local time) passed a bill establishing procedures, with judicial oversight, to disarm the PKK (Kurdistan Workers' Party) and reintegrate its members, a move the government described as significant progress toward ending a decades-long conflict. The law is not a blanket amnesty but a conditional mechanism allowing eligible low-level PKK members not involved in serious violent crimes to return from northern Iraq to Turkey and undergo formal review. It excludes imprisoned leader Abdullah Ocalan, senior PKK figures and members serving life or similarly heavy sentences."
-    },
-    {
-      "id": "5034631",
-      "time": "2026-08-11 06:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：特朗普總統下達振興美國核能產業的指令，正值一個關鍵時期。核能提供可靠電力，為美國的人工智慧領先地位提供支撐；與此同時，人工智慧推動下一代核能技術發展，二者相輔相成，助力美國取得能源主導地位。"
-    },
-    {
-      "id": "te:markets:574207",
-      "time": "2026-08-11 06:34:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 3.46% — Top commodity gainers are Silver (3.46%), Lithium Carbonate (1.23%) and Gold (1.14%)."
     }
   ]
 }

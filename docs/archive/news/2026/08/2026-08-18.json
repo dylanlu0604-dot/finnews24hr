@@ -1,7 +1,69 @@
 {
   "date": "2026-08-18",
-  "count": 317,
+  "count": 324,
   "items": [
+    {
+      "id": "mkt:01a011de-b8f5-7aab-906a-19daa1f010fe",
+      "time": "2026-08-18 06:36:43",
+      "tags": [
+        "MKT News",
+        "BHP.O",
+        "Impact bullish"
+      ],
+      "text": "BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln."
+    },
+    {
+      "id": "5044801",
+      "time": "2026-08-18 06:36:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。"
+    },
+    {
+      "id": "5044800",
+      "time": "2026-08-18 06:36:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：銅是驅動必和必拓業務增長的核心引擎。"
+    },
+    {
+      "id": "5044799",
+      "time": "2026-08-18 06:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。"
+    },
+    {
+      "id": "te:markets:575935",
+      "time": "2026-08-18 06:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%)."
+    },
+    {
+      "id": "5044798",
+      "time": "2026-08-18 06:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓全年基礎盈利132.0億美元，預估126.9億美元。"
+    },
+    {
+      "id": "5044797",
+      "time": "2026-08-18 06:33:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【險資股票和基金持倉規模半年增加近7000億元】根據金融監管總局近日披露的最新的保險公司資金運用情況表，截至今年二季度末，險資股票和證券投資基金投資規模達到6.4萬億元，較年初增加近0.7萬億元，其中二季度單季增加近0.5萬億元。分析人士認為，二季度險資權益配置提速，主要是其主動增配權益類資產和權益類資產公允價值抬升共同作用的結果。在增配的權益類資產中，主要分為FVOCI（以公允價值計量且其變動計入其他綜合收益）類和FVTPL（以公允價值計量且其變動計入當期損益）類，前者以獲取高股息為主，後者則以獲取資本利得為主。業內人士透露，未來險資還將繼續同時擁抱確定性與可能性，密切跟蹤資產的風險收益比變化。（中證報）"
+    },
     {
       "id": "5044796",
       "time": "2026-08-18 06:32:56",
