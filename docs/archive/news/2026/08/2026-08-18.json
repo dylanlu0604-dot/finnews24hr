@@ -1,7 +1,32 @@
 {
   "date": "2026-08-18",
-  "count": 292,
+  "count": 294,
   "items": [
+    {
+      "id": "mkt:01a011ab-030a-7aab-9069-f67c24803990",
+      "time": "2026-08-18 05:40:15",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【US, Canada working to bridge differences on potential auto-tariff cut, sources say】Three sources said on Monday the US and Canada are negotiating a possible cut to US auto tariffs from 25% to 15% after deducting some value content. If no deal is reached by a Wednesday deadline, the US will impose heavy new tariffs on US$20 billion of other Canadian goods. US officials propose the 15% tariff would exclude only US domestic value; Canadian officials want to exclude all North American content, including parts from Canada and Mexico. Auto industry officials said a broader regional-content deduction could cut the effective tariff on North American-made cars to the low single digits, well below the 15% applied to imports from Japan, Korea and the EU and the 10% tariff on most UK cars."
+    },
+    {
+      "id": "mkt:01a011aa-147b-7aab-9069-eea96fe2232f",
+      "time": "2026-08-18 05:39:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Turkish President Erdogan told U.S. President Trump that Israel is attacking Palestinians in Gaza and that the second phase of the peace plan was supposed to take effect now."
+    },
     {
       "id": "mkt:01a011a8-b523-7aab-9069-e07e1d49b9b7",
       "time": "2026-08-18 05:37:44",
