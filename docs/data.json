@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-18 01:15:37",
-  "count": 15256,
+  "updated": "2026-08-18 01:19:38",
+  "count": 15259,
   "items": [
+    {
+      "id": "5044674",
+      "time": "2026-08-18 01:18:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破90美元/桶，日內漲1.71%。"
+    },
+    {
+      "id": "mkt:01a010ba-e9ba-7aab-9067-3c0924254749",
+      "time": "2026-08-18 01:17:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted dlr 255 mln from six counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:01a010ba-55b7-7aab-9067-322e13a325fc",
+      "time": "2026-08-18 01:17:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright, commenting on U.S. military operations in the Strait of Hormuz, said the U.S. is exporting about 8–9 million barrels of oil per day."
+    },
+    {
+      "id": "5044673",
+      "time": "2026-08-18 01:17:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長賴特談及美軍在霍爾木茲海峽的行動：美國目前保障每日800‑900萬桶石油外運。"
+    },
+    {
+      "id": "5044672",
+      "time": "2026-08-18 01:16:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月17日），美聯儲隔夜逆回購協議（RRP）使用規模為25.5億美元，交易對手6家。"
+    },
+    {
+      "id": "mkt:01a010b9-b977-7aab-9067-2e2a4b78a2d6",
+      "time": "2026-08-18 01:16:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi prime minister says authorities will publicly announce findings from the investigation into the attack on the Kurdistan Regional Government prime minister's office."
+    },
+    {
+      "id": "5044671",
+      "time": "2026-08-18 01:15:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌，抹去了高達0.5%的漲幅。"
+    },
+    {
+      "id": "mkt:01a010b8-8c07-7aab-9067-251108f40377",
+      "time": "2026-08-18 01:15:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Ottawa is engaged in tense, delicate negotiations with the United States that will not be conducted publicly."
+    },
     {
       "id": "5044670",
       "time": "2026-08-18 01:14:56",
@@ -139735,54 +139809,6 @@
         "AI Revolution"
       ],
       "text": "OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work."
-    },
-    {
-      "id": "5034472",
-      "time": "2026-08-11 01:18:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：我們正在擴充套件我們的網路安全計劃 Daybreak，並推出 GPT-5.6-Cyber，這是一個專為高階授權網路安全工作設計的新模型。"
-    },
-    {
-      "id": "mkt:019fecad-1ac4-7aab-8fde-54dbf8e1b15e",
-      "time": "2026-08-11 01:16:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "5034471",
-      "time": "2026-08-11 01:16:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。"
-    },
-    {
-      "id": "5034470",
-      "time": "2026-08-11 01:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。"
-    },
-    {
-      "id": "mkt:019fecac-99e1-7aab-8fde-4b4c28d032d7",
-      "time": "2026-08-11 01:16:02",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes."
     }
   ]
 }
