@@ -1,7 +1,79 @@
 {
   "date": "2026-08-17",
-  "count": 770,
+  "count": 778,
   "items": [
+    {
+      "id": "5043436",
+      "time": "2026-08-17 11:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發帖後美韓按計劃開始軍演】美國東部時間8月16日下午，北京時間今天（8月17日）凌晨，美國總統特朗普在社交媒體平臺發文稱，鑑於他與朝鮮最高領導人金正恩的“良好關係”，他對美國此前同意參加與韓國的聯合軍事演習感到不滿。特朗普稱，“這些軍演不僅耗資巨大，並且大部分費用由美國承擔，更是在向一個在我擔任總統期間始終未具威脅性、且保持尊重的國家，發出完全不當且充滿敵意的訊號。”特朗普帖文釋出幾個小時後，美韓“乙支自由之盾”大規模聯合軍演開始，將持續到8月27日。特朗普在帖文中也稱，由於現在取消軍演為時已晚，他已“指示美國國防部長赫格塞思大幅縮減此次軍演”。 韓國國防部今天表示，“乙支自由之盾”聯合軍演正按計劃進行。據稱韓軍參演規模與往年相近，大約1.8萬人。演習期間計劃開展14項營級以上規模的野外機動訓練，較去年（17項）有所減少。韓聯社的報道稱，本次演習期間，韓美還將就移交戰時作戰指揮權相關內容開展評估。 朝鮮外務省此前表示，美韓聯合軍演的本質是侵略戰爭的預演。"
+    },
+    {
+      "id": "5043435",
+      "time": "2026-08-17 11:56:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里Qwen3.8-27B登頂Hugging Face模型榜榜首，開源兩天下載破100萬次】8月17日，阿里Qwen3.8-27B登頂Hugging Face全球大模型趨勢榜，開源2天下載量便破100萬次。Hugging Face最新報告指出，阿里千問大模型（Qwen）已成為全球開源社群的基座模型。"
+    },
+    {
+      "id": "te:economy:575679",
+      "time": "2026-08-17 11:56:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Remittances",
+        "Importance 1"
+      ],
+      "text": "Philippine Cash Remittances Up 1.7% in June — Cash remittances coursed through banks in the Philippines rose 1.7% year-on-year to USD 3.04 billion in June 2026, up from USD 2.99 billion a year earlier. This was the slowest annual growth in more than four years, but the monthly inflow reached its highest level since December last year. The US remained the largest source of remittances, followed by Singapore and Saudi Arabia. In the first half of the year, cash remittances increased by 2.4% to USD 17.15 billion from USD 16.75 billion in the corresponding period a year earlier. Meanwhile, personal remittances, which include transfers through banks, informal channels, and in-kind transfers, rose by 1.8% to USD 3.39 billion in June and increased by 2.4% to USD 19.12 billion on a year-to-date basis."
+    },
+    {
+      "id": "5043433",
+      "time": "2026-08-17 11:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【釘釘全球商業總裁楊猛將離任，下一站螞蟻集團】在阿里加速AI商業化的背景下，集團對企業服務業務的收入增長和商業轉化提出了更高預期。釘釘新管理層完成組織調整不到兩個月，負責商業化多年的核心高管楊猛即將離任。記者從接近釘釘的知情人士處獲悉，釘釘全球商業總裁、客戶發展部負責人楊猛已完成離職相關內部流程，計劃加入螞蟻集團。阿里釘釘悟空副總裁任卿（花名“易統”）將接手楊猛負責的商業化工作。（21世紀經濟報道）"
+    },
+    {
+      "id": "5043432",
+      "time": "2026-08-17 11:55:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海鷗住工：控股股東籌劃公司控制權變更事項】海鷗住工(002084)8月17日午間公告，公司控股股東中餘投資有限公司正在籌劃公司控制權變更相關事宜，該事項可能導致公司控股股東、實際控制人發生變更。公司股票自8月17日（星期一）開市起停牌，停牌時間預計不超過2個交易日。"
+    },
+    {
+      "id": "mkt:01a00ddb-c7f9-7aab-9055-b394f7cb1826",
+      "time": "2026-08-17 11:55:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhou Semiconductor opens Central China HQ and R&D in Wuhan Optics Valley to develop RF power products】Shenzhou Semiconductor has established its Central China headquarters and an R&D center in Wuhan’s Optics Valley computing-storage innovation park to develop semiconductor RF power supplies and matching units. The company is registering a wholly owned Optics Valley subsidiary; the project is slated to begin operations in Q1 next year."
+    },
+    {
+      "id": "5043431",
+      "time": "2026-08-17 11:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神州半導體落子光谷 開展半導體射頻電源、匹配器等產品研發】據“中國光谷”公眾號訊息，近日，神州半導體科技股份有限公司（簡稱“神州半導體”）落戶光谷存算雙創園，建設華中總部及研發中心，開展半導體射頻電源、匹配器等產品研發。目前，神州半導體正在光谷註冊全資子公司，專案預計明年一季度正式投入運營。"
+    },
+    {
+      "id": "5043430",
+      "time": "2026-08-17 11:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥商品交易所（CME）表示，無本金交割遠期外匯交易（NDF）定價和結算日期問題已解決。"
+    },
     {
       "id": "5043429",
       "time": "2026-08-17 11:53:28",

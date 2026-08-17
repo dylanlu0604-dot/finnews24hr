@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-17 11:54:28",
-  "count": 15174,
+  "updated": "2026-08-17 11:58:17",
+  "count": 15178,
   "items": [
+    {
+      "id": "5043436",
+      "time": "2026-08-17 11:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發帖後美韓按計劃開始軍演】美國東部時間8月16日下午，北京時間今天（8月17日）凌晨，美國總統特朗普在社交媒體平臺發文稱，鑑於他與朝鮮最高領導人金正恩的“良好關係”，他對美國此前同意參加與韓國的聯合軍事演習感到不滿。特朗普稱，“這些軍演不僅耗資巨大，並且大部分費用由美國承擔，更是在向一個在我擔任總統期間始終未具威脅性、且保持尊重的國家，發出完全不當且充滿敵意的訊號。”特朗普帖文釋出幾個小時後，美韓“乙支自由之盾”大規模聯合軍演開始，將持續到8月27日。特朗普在帖文中也稱，由於現在取消軍演為時已晚，他已“指示美國國防部長赫格塞思大幅縮減此次軍演”。 韓國國防部今天表示，“乙支自由之盾”聯合軍演正按計劃進行。據稱韓軍參演規模與往年相近，大約1.8萬人。演習期間計劃開展14項營級以上規模的野外機動訓練，較去年（17項）有所減少。韓聯社的報道稱，本次演習期間，韓美還將就移交戰時作戰指揮權相關內容開展評估。 朝鮮外務省此前表示，美韓聯合軍演的本質是侵略戰爭的預演。"
+    },
+    {
+      "id": "5043435",
+      "time": "2026-08-17 11:56:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里Qwen3.8-27B登頂Hugging Face模型榜榜首，開源兩天下載破100萬次】8月17日，阿里Qwen3.8-27B登頂Hugging Face全球大模型趨勢榜，開源2天下載量便破100萬次。Hugging Face最新報告指出，阿里千問大模型（Qwen）已成為全球開源社群的基座模型。"
+    },
+    {
+      "id": "te:economy:575679",
+      "time": "2026-08-17 11:56:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Remittances",
+        "Importance 1"
+      ],
+      "text": "Philippine Cash Remittances Up 1.7% in June — Cash remittances coursed through banks in the Philippines rose 1.7% year-on-year to USD 3.04 billion in June 2026, up from USD 2.99 billion a year earlier. This was the slowest annual growth in more than four years, but the monthly inflow reached its highest level since December last year. The US remained the largest source of remittances, followed by Singapore and Saudi Arabia. In the first half of the year, cash remittances increased by 2.4% to USD 17.15 billion from USD 16.75 billion in the corresponding period a year earlier. Meanwhile, personal remittances, which include transfers through banks, informal channels, and in-kind transfers, rose by 1.8% to USD 3.39 billion in June and increased by 2.4% to USD 19.12 billion on a year-to-date basis."
+    },
+    {
+      "id": "5043433",
+      "time": "2026-08-17 11:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【釘釘全球商業總裁楊猛將離任，下一站螞蟻集團】在阿里加速AI商業化的背景下，集團對企業服務業務的收入增長和商業轉化提出了更高預期。釘釘新管理層完成組織調整不到兩個月，負責商業化多年的核心高管楊猛即將離任。記者從接近釘釘的知情人士處獲悉，釘釘全球商業總裁、客戶發展部負責人楊猛已完成離職相關內部流程，計劃加入螞蟻集團。阿里釘釘悟空副總裁任卿（花名“易統”）將接手楊猛負責的商業化工作。（21世紀經濟報道）"
+    },
+    {
+      "id": "5043432",
+      "time": "2026-08-17 11:55:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海鷗住工：控股股東籌劃公司控制權變更事項】海鷗住工(002084)8月17日午間公告，公司控股股東中餘投資有限公司正在籌劃公司控制權變更相關事宜，該事項可能導致公司控股股東、實際控制人發生變更。公司股票自8月17日（星期一）開市起停牌，停牌時間預計不超過2個交易日。"
+    },
+    {
+      "id": "mkt:01a00ddb-c7f9-7aab-9055-b394f7cb1826",
+      "time": "2026-08-17 11:55:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhou Semiconductor opens Central China HQ and R&D in Wuhan Optics Valley to develop RF power products】Shenzhou Semiconductor has established its Central China headquarters and an R&D center in Wuhan’s Optics Valley computing-storage innovation park to develop semiconductor RF power supplies and matching units. The company is registering a wholly owned Optics Valley subsidiary; the project is slated to begin operations in Q1 next year."
+    },
+    {
+      "id": "5043431",
+      "time": "2026-08-17 11:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神州半導體落子光谷 開展半導體射頻電源、匹配器等產品研發】據“中國光谷”公眾號訊息，近日，神州半導體科技股份有限公司（簡稱“神州半導體”）落戶光谷存算雙創園，建設華中總部及研發中心，開展半導體射頻電源、匹配器等產品研發。目前，神州半導體正在光谷註冊全資子公司，專案預計明年一季度正式投入運營。"
+    },
+    {
+      "id": "5043430",
+      "time": "2026-08-17 11:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥商品交易所（CME）表示，無本金交割遠期外匯交易（NDF）定價和結算日期問題已解決。"
+    },
     {
       "id": "5043429",
       "time": "2026-08-17 11:53:28",
@@ -138742,41 +138814,6 @@
         "市場"
       ],
       "text": "阿布扎比國家石油公司天然氣業務：宣佈已為魯韋斯‑達芙拉‑吉拉專案二期、三期授予總金額 82 億美元的工程總承包合同。三季度淨利潤預測基於霍爾木茲海峽海上航道持續受擾的假設。公司表示全年利潤預測的前提是第四季度海上作業完全恢復、產品實際售價迴歸正常。上半年國內天然氣銷售量下滑 20%，至 948 萬億英熱單位，主要因回注氣量減少。受 3 月起霍爾木茲海峽擾動並貫穿整個二季度的影響，出口及貿易液態產品銷量下滑 36%，至 319 萬億英熱單位，液化石油氣、石腦油、液化天然氣出口受限。受地區衝突影響，二季度把握市場高價的能力受限。已與客戶及合作伙伴密切協作，減輕擾動帶來的衝擊，應對階段性產能制約，儘可能履行各項合約義務。"
-    },
-    {
-      "id": "mkt:019fe9d0-4cd9-7aab-8fd0-a6eea3b730ab",
-      "time": "2026-08-10 11:56:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hainan issues measures to deepen investment-financing reform】Hainan provincial government office issued measures to further reform investment and financing. The plan directs coordination of government funds, policy financial tools and commercial bank lending cadence, and urges policy banks and commercial lenders to join major-project planning earlier. It requires setting a balanced mix of government capital, credit and sponsor own funds and seeks to build a full-cycle capital recycling system—“fund efficiency, investment fund structure, credit-based construction, securitized operations.” Projects with strong returns and broad financing access should see reduced or no government funding. The measures also issue operational guidance to expand a “invest first, convert to equity later” model for science-and-technology fiscal funds; fiscal capital may initially finance commercialization projects (eg, biomedicine, deep-sea technology) and convert to equity once firms mature to share risk and returns."
-    },
-    {
-      "id": "5033192",
-      "time": "2026-08-10 11:56:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿布扎比國家石油天然氣公司二季度淨利潤超出預期】阿布扎比國家石油天然氣公司公佈第二季度淨利潤，高於分析師平均預期。第二季度業績：淨利潤 6.65 億美元，同比下降 52%；分析師預期為 6.161 億美元；營收 36.2 億美元，同比下降 39%；每股收益 0.900 美分，上年同期 1.80 美分；息稅折舊攤銷前利潤 11.9 億美元，同比下降 47%；息稅折舊攤銷前利潤率 32.9%，上年同期 37.9%。哈卜尚綜合體產能恢復至 85%，恢復進度快於計劃；受霍爾木茲海峽局勢擾動，預計三季度利潤 6 億‑8 億美元；預計 2026 財年利潤 35 億‑40 億美元；將 2030 年息稅折舊攤銷前利潤增長目標上調至 60%；預計 2026 年總資本開支 45 億‑50 億美元。"
-    },
-    {
-      "id": "te:markets:573996",
-      "time": "2026-08-10 11:55:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Pulls Back from Record Highs — Copper futures slipped below $6.6 per pound on Monday, retreating from record levels reached last week as traders took profits while weighing signs of tightening global supply. Concerns over potential supply disruptions from the Democratic Republic of Congo’s copper concentrate export ban also eased, with Goldman Sachs saying it expected the measure to have no significant impact on global copper balances. However, traders remained cautious over possible US import tariffs on copper, which continued to redirect metal from international markets into US warehouses. On the demand front, data released over the weekend showed both consumer and producer inflation in top consumer China slowed in July, pointing to persistently weak domestic demand. Data on Friday also showed China’s imports of unwrought copper and copper products dropped 11.5% year on year to 425,000 tonnes in July, while imports for January-July fell 6.2% to 2.92 million tonnes."
-    },
-    {
-      "id": "5033191",
-      "time": "2026-08-10 11:54:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【普洛斯上海多園區拓展半導體晶片產業客戶 】8月10日，據普洛斯訊息，當前，上海正深入實施“人工智慧+”行動，加快建設人工智慧高地和世界級產業叢集。近期，普洛斯上海浦東新區、奉賢區、臨港新片區等地多處園區成功拓展半導體晶片產業客戶，服務領域涵蓋晶片設計、半導體裝置及相關產業供應鏈運營。具體來看，普洛斯上海南匯園中物流園迎來國內領先的模擬晶片設計企業思瑞浦；普洛斯上海奉城物流園與半導體產業供應鏈服務商泓明供應鏈達成新的租賃合作；普洛斯上海合慶物流園引入一家國內半導體裝置頭部企業；普洛斯臨港科創稜鏡產業園迎來半導體裝置頭部企業盛美半導體入駐。（澎湃新聞）"
     }
   ]
 }
