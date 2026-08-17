@@ -1,7 +1,123 @@
 {
   "date": "2026-08-17",
-  "count": 2342,
+  "count": 2355,
   "items": [
+    {
+      "id": "mkt:01a01001-1454-7aab-9063-bb42f5159227",
+      "time": "2026-08-17 21:55:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Bolivia will increase diesel prices by 84% for purchases exceeding 120 liters per month."
+    },
+    {
+      "id": "5044489",
+      "time": "2026-08-17 21:54:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "美股網路安全公司盤初集體走低，Cloudflare跌近3%，飛塔資訊跌2%，CrowdStrike跌超1%。"
+    },
+    {
+      "id": "5044488",
+      "time": "2026-08-17 21:54:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金15分鐘內拉昇逾20美元，現報4404美元/盎司。"
+    },
+    {
+      "id": "5044487",
+      "time": "2026-08-17 21:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：玻利維亞對月購買量超過 120 升的柴油，提價 84%。"
+    },
+    {
+      "id": "mkt:01a01000-ab3e-7aab-9063-b638832eafdd",
+      "time": "2026-08-17 21:54:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold jumped over $20 within 15 minutes to $4,404/oz."
+    },
+    {
+      "id": "5044486",
+      "time": "2026-08-17 21:54:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三峽能源與國網天津電力座談】據三峽能源訊息，8月17日，三峽能源董事長、黨委書記朱承軍，總經理、黨委副書記劉姿赴天津與國網天津電力董事長、黨委書記錢慶林，董事、總經理、黨委副書記武登峰舉行座談，雙方就深化務實合作開展深入交流。座談中，雙方回顧了長期以來緊密協作、互信共贏的良好合作基礎，並表示將持續深化戰略協同，聚焦陸上新能源專案建設、海上風電開發、綠電消納等重點領域深耕務實合作，合力推進“十五五”時期新型電力系統建設。"
+    },
+    {
+      "id": "5044485",
+      "time": "2026-08-17 21:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國的天然氣產量位居全球首位。得益於特朗普總統推行的美國能源主導議程，未來數十年我們仍將保持領先地位。今日很高興來到得克薩斯州米德蘭市，這裡是二疊紀盆地油氣產業的核心地帶，該地自 2016 年以來石油產量增長了 250%。"
+    },
+    {
+      "id": "mkt:01a01000-08cd-7aab-9063-a86d2fe8c36e",
+      "time": "2026-08-17 21:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: Trump administration and TrumpRx are sharply lowering prescription drug prices; pledge fulfilled."
+    },
+    {
+      "id": "te:economy:575879",
+      "time": "2026-08-17 21:53:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Approaches 19-Year High — The yield on the 10-year US Treasury note rose past 4.7% on Monday, not far from the 19-month high of 4.75% tested last week as lingering concerns of inflation and increasing credit supply extended the aversion to bonds in the long end of the curve. Oil prices rose further as President Trump signaled there was no rush to end the blockade against Iran energy, preventing the flow of tankers from the Persian Gulf. Higher energy prices lifted underlying inflation this year, although a softer CPI cooled immediate worries. Still, concerns that the Federal Reserve may be complacent against inflation were reflected by the surge in long-dated yields. These were initially flagged by Fed Chair Warsh stating a rate hike may not be the preferred tool to combat higher prices. Lastly, debt issuance in the US soared as AI companies raised $1.5 trillion in bonds this year, lifting the supply of dollar-denominated fixed-income that could limit the relative appetite for Treasury securities."
+    },
+    {
+      "id": "5044484",
+      "time": "2026-08-17 21:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛巴威警方：卡里巴湖8月11日沉船事故遇難人數在找到更多遺體後已升至92人。"
+    },
+    {
+      "id": "mkt:01a00fff-924a-7aab-9063-a6779af790ce",
+      "time": "2026-08-17 21:53:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said the United States is the world's leading natural gas producer and, thanks to President Trump's 'energy dominance' agenda, will remain so for decades."
+    },
+    {
+      "id": "5044483",
+      "time": "2026-08-17 21:53:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：美國新一輪制裁不會動搖伊朗的決心。"
+    },
+    {
+      "id": "5044482",
+      "time": "2026-08-17 21:52:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【叮咚買菜在部分割槽域試點每筆訂單收取基礎包裝費，上海暫不收】叮咚買菜官方公告稱，自2026年8月24日起，每筆訂單收取0.6元基礎包裝費；若訂單包含需保溫配送的商品，在基礎包裝費上加收0.4元每單的保溫包裝費。澎湃新聞記者從叮咚買菜獲悉，目前，這一收費在江浙等部分割槽域試行，試行區域暫不包括上海。"
+    },
     {
       "id": "5044481",
       "time": "2026-08-17 21:51:10",
