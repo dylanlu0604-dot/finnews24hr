@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-17 10:01:00",
-  "count": 15179,
+  "updated": "2026-08-17 10:04:51",
+  "count": 15169,
   "items": [
+    {
+      "id": "5043256",
+      "time": "2026-08-17 10:04:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國產業部長：韓美力求解決投資計劃尚存的懸而未決問題】韓國產業部長表示，韓美雙方需要解決雙邊關稅談判中達成的 2000 億美元投資計劃所遺留的各項未決問題。正值韓國面臨來自美國持續的關稅壓力，多項雙邊貿易問題懸而未決，韓國產業部長金正寬於當地時間週日抵達得克薩斯州達拉斯，並發表了上述表態。韓國去年與美國達成貿易協議，協議將美國對韓國進口商品的關稅由 25% 下調至 15%，作為交換，韓國承諾對美投資 3500 億美元。被問及相關投資專案能否最早於 8 月底公佈時，金正寬稱，雙方正以此為目標磋商細節。"
+    },
+    {
+      "id": "5043254",
+      "time": "2026-08-17 10:03:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報4857.00元。"
+    },
+    {
+      "id": "5043253",
+      "time": "2026-08-17 10:03:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 風範股份11天7板】電網裝置板塊異動拉昇，風範股份11天7板，思源電氣逼近漲停，神馬電力、韶能股份、金冠電氣、伊戈爾等跟漲。"
+    },
+    {
+      "id": "mkt:01a00d74-f0d6-7aab-9053-ce389380f953",
+      "time": "2026-08-17 10:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine central bank governor said the bank stands ready to take necessary measures to return inflation to target."
+    },
+    {
+      "id": "5043252",
+      "time": "2026-08-17 10:02:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "公告顯示，谷歌母公司Alphabet已委任投資銀行負責其首筆澳元債券發行業務。"
+    },
+    {
+      "id": "mkt:01a00d74-df17-7aab-9053-c00fc6caee2e",
+      "time": "2026-08-17 10:02:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine central bank governor said the bank expects inflation to gradually ease over the medium term."
+    },
+    {
+      "id": "5043251",
+      "time": "2026-08-17 10:02:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長：通脹面臨上行風險。"
+    },
+    {
+      "id": "5043250",
+      "time": "2026-08-17 10:02:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長：我們預計通脹將在中期內逐步回落。"
+    },
+    {
+      "id": "mkt:01a00d74-9740-7aab-9053-bccabbef6895",
+      "time": "2026-08-17 10:02:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China fuel oil front-month futures rose 4.00% intraday to 3,950 yuan/ton."
+    },
+    {
+      "id": "5043249",
+      "time": "2026-08-17 10:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【創新藥概念震盪回升 譽衡藥業7天5板】創新藥概念日內震盪回升，譽衡藥業7天5板，華森製藥2連板，隴神戎發、太龍藥業、立方製藥、瑞康醫藥、石藥創新等漲幅靠前。"
+    },
+    {
+      "id": "5043248",
+      "time": "2026-08-17 10:00:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【覓蜂科技完成新一輪數億元融資，中國電信領投】近日，一站式物理AI資料服務平臺覓蜂科技完成新一輪數億元融資。本輪融資由中國電信領投，張江集團跟投，紅杉中國、元啟創新等老股東超額追加投資。據覓蜂科技介紹，本輪資金將用於持續衝破行業 “資料荒漠” 瓶頸，建設具身智慧資料平臺型供給基礎設施，擴大MEgo無本體產品量產規模，夯實資料採集、資料治理、閉環評測全棧能力，加速千萬小時級物理互動資料產能落地。"
+    },
+    {
+      "id": "te:economy:575632",
+      "time": "2026-08-17 10:00:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jordan",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Jordan Inflation Rate Eases Slightly to 2.7% in July — The annual inflation rate in Jordan eased for the second consecutive month to 2.70% in July 2026, down from 2.79% in June, as the impact of the fuel price hike continued to fade. However, the latest reading remained close to the highest level since April 2023, recorded in May at 2.83%, driven primarily by higher fuel prices. The country raised fuel prices by 11% in April, the first increase since the Middle East conflict began, and partially adjusted fuel prices in May. On a monthly basis, the CPI fell 0.18% in July, reversing a 0.14% increase in June and marking the first monthly decline since November 2025."
+    },
     {
       "id": "5043247",
       "time": "2026-08-17 10:00:18",
@@ -138567,201 +138674,6 @@
         "市場"
       ],
       "text": "【食品飲料概念持續走強，香飄飄等多股漲停】食品飲料行業板塊持續走強，香飄飄、金達威、一鳴食品漲停，品渥食品、東鵬飲料、迎駕貢酒、仲景食品、會稽山、立高食品等跟漲。"
-    },
-    {
-      "id": "5033014",
-      "time": "2026-08-10 10:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國法院成功化解發生在霍爾木茲海峽的外輪碰撞糾紛】記者8月10日從最高人民法院獲悉，廣州海事法院近日成功審理並調解一起發生在霍爾木茲海峽的外籍船舶碰撞糾紛案，充分展示了中國海事審判的公正專業和高效便捷。據瞭解，“阿達琳”輪和“前線老鷹”輪於2025年6月在霍爾木茲海峽附近海域碰撞後，外籍當事人一致同意適用我國法律，由廣州海事法院解決雙方實體爭議。廣州海事法院在扣押船舶、庭前會議、設立基金、開庭審理、技術事實核查、開展司法調解等多個環節，展現了中國海事法院駕馭複雜疑難海事案件的司法能力和高效務實的司法作風，贏得外方當事人的充分信任，最終促成雙方達成和解協議，圓滿化解該起標的額高達1.8億元的外輪碰撞事故責任糾紛。（新華社）"
-    },
-    {
-      "id": "5033013",
-      "time": "2026-08-10 10:04:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "集運指數歐線期貨主力合約下跌4%，報1614點。"
-    },
-    {
-      "id": "mkt:019fe969-c4a6-7aab-8fcf-23412f314e09",
-      "time": "2026-08-10 10:04:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Malaysia's Prime Minister Anwar Ibrahim undergoing medical checks】On Aug 10 the Prime Minister's Office said Anwar Ibrahim is undergoing examinations arranged by his medical team and will be observed for two days. The office did not disclose the reason for the checks."
-    },
-    {
-      "id": "5033012",
-      "time": "2026-08-10 10:03:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指開盤上漲0.5%，至6,440.60點。"
-    },
-    {
-      "id": "5033011",
-      "time": "2026-08-10 10:03:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉峰科技新設智慧裝備公司 含無人飛行器業務】企查查APP顯示，近日，四川吉峰智慧裝備有限公司成立，經營範圍包含智慧農機裝備銷售；智慧無人飛行器銷售；軟體開發；大資料服務等。企查查股權穿透顯示，該公司由吉峰科技全資持股。"
-    },
-    {
-      "id": "5033010",
-      "time": "2026-08-10 10:03:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市自6月低點上漲20%，即將邁入牛市。"
-    },
-    {
-      "id": "5033009",
-      "time": "2026-08-10 10:03:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬來西亞總理安瓦爾正在接受醫療檢查】8月10日，馬來西亞總理辦公室發表宣告說，總理安瓦爾·易卜拉欣目前正在接受醫療團隊安排的檢查，預計接受兩天觀察。宣告未透露安瓦爾接受檢查的具體原因。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fe969-2590-7aab-8fcf-1cb6ec004099",
-      "time": "2026-08-10 10:03:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "6758.T",
-        "Impact bullish",
-        "2330.TW"
-      ],
-      "text": "Nikkei reports Sony and TSMC aim to begin mass production of next-generation image sensors as early as 2029."
-    },
-    {
-      "id": "5033008",
-      "time": "2026-08-10 10:03:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "索尼集團與臺積電最快將於2029年量產下一代影象感測器。"
-    },
-    {
-      "id": "5033007",
-      "time": "2026-08-10 10:03:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "復星醫藥H股早盤一度升3.7%，A股漲3.4%。"
-    },
-    {
-      "id": "mkt:019fe968-494d-7aab-8fcf-16e8e9b17121",
-      "time": "2026-08-10 10:02:33",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "SNE.O",
-        "TSM.O"
-      ],
-      "text": "Nikkei reports Sony Group and TSMC will invest JPY 1 tln in a Kumamoto plant."
-    },
-    {
-      "id": "5033006",
-      "time": "2026-08-10 10:02:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾在早盤交易中走強，美元兌印尼盾跌至1美元兌換17785印尼盾。"
-    },
-    {
-      "id": "5033005",
-      "time": "2026-08-10 10:02:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "索尼集團將與臺積電在熊本工廠合計投資1萬億日元。"
-    },
-    {
-      "id": "5033004",
-      "time": "2026-08-10 10:01:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Wolfspeed與光寶科技合作800 VDC碳化矽電源解決方案】據Wolfspeed訊息，Wolfspeed與光寶科技宣佈達成戰略合作，Wolfspeed碳化矽(SiC)技術在光寶科技800 VDC sidecar（側車/側掛式機架）及計算機架電源供應單元等平臺完成適配，以支援超大規模資料中心客戶的下一代人工智慧資料中心，並有望獲多家雲服務提供商平臺及未來部署採用。"
-    },
-    {
-      "id": "mkt:019fe967-a1e8-7aab-8fcf-0d1da67a7096",
-      "time": "2026-08-10 10:01:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South-to-North Water Diversion Phase I east and middle routes transfers exceed 90 bln cubic meters】The Ministry of Water Resources and China South-to-North Water Diversion Group said that as of Aug 10 Phase I transfers on the east and middle routes have exceeded 90.0 bln cubic meters; middle-route Phase I transfers exceeded 80.05 bln cubic meters and east-route Phase I transfers exceeded 9.95 bln cubic meters."
-    },
-    {
-      "id": "5033003",
-      "time": "2026-08-10 10:01:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京釋出暴雨橙色預警訊號】8月10日10時，北京市氣象臺釋出暴雨橙色預警訊號：預計，8月11日傍晚至13日白天，北京市有暴雨到大暴雨，大部分地區將出現6小時累計雨量100毫米、24小時累計雨量150毫米以上的強降雨，最強降雨時段為12日凌晨至夜間。"
-    },
-    {
-      "id": "5033002",
-      "time": "2026-08-10 10:01:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量1544億元。"
-    },
-    {
-      "id": "mkt:019fe967-7aff-7aab-8fcf-0491d0033e72",
-      "time": "2026-08-10 10:01:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Coking coal most-active futures contract up 2.0% intraday, trading at 1,281 yuan/ton."
-    },
-    {
-      "id": "5033001",
-      "time": "2026-08-10 10:01:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲2%，現報1281.00元。"
-    },
-    {
-      "id": "5033000",
-      "time": "2026-08-10 10:01:26",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場"
-      ],
-      "text": "【中華人民共和國財政部、澳門特別行政區中央政府在澳門發行人民幣國債】中華人民共和國財政部和澳門特別行政區政府今日公告，中央政府將於2026年8月20日在澳門發行60億元人民幣國債。2026年是國家“十五五”規劃開局之年，中央政府連續第五年在澳門發行人民幣國債，凸顯了中央政府對澳門經濟適度多元發展及特色金融產業競爭力提升的有力支援。此次國債發行的期限結構更趨多元，有利於進一步完善常態化發行機制，為投資者提供更多安全穩健的人民幣投資選項，對持續最佳化澳門債券市場生態、推動澳門與內地及國際市場互聯互通發揮積極作用。"
-    },
-    {
-      "id": "5032999",
-      "time": "2026-08-10 10:01:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南水北調東中線一期工程調水超900億立方米】記者從水利部和中國南水北調集團獲悉，截至8月10日，南水北調東中線一期工程調水超900億立方米。其中中線一期工程調水超800.5億立方米，東線一期工程調水超99.5億立方米。（新華社）"
-    },
-    {
-      "id": "5032998",
-      "time": "2026-08-10 10:01:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "AP記憶體公司任命前高通副總裁JIAN ZHANG，強化全球領導團隊。"
     }
   ]
 }

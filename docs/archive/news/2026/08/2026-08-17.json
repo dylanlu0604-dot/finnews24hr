@@ -1,7 +1,114 @@
 {
   "date": "2026-08-17",
-  "count": 517,
+  "count": 529,
   "items": [
+    {
+      "id": "5043256",
+      "time": "2026-08-17 10:04:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國產業部長：韓美力求解決投資計劃尚存的懸而未決問題】韓國產業部長表示，韓美雙方需要解決雙邊關稅談判中達成的 2000 億美元投資計劃所遺留的各項未決問題。正值韓國面臨來自美國持續的關稅壓力，多項雙邊貿易問題懸而未決，韓國產業部長金正寬於當地時間週日抵達得克薩斯州達拉斯，並發表了上述表態。韓國去年與美國達成貿易協議，協議將美國對韓國進口商品的關稅由 25% 下調至 15%，作為交換，韓國承諾對美投資 3500 億美元。被問及相關投資專案能否最早於 8 月底公佈時，金正寬稱，雙方正以此為目標磋商細節。"
+    },
+    {
+      "id": "5043254",
+      "time": "2026-08-17 10:03:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報4857.00元。"
+    },
+    {
+      "id": "5043253",
+      "time": "2026-08-17 10:03:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 風範股份11天7板】電網裝置板塊異動拉昇，風範股份11天7板，思源電氣逼近漲停，神馬電力、韶能股份、金冠電氣、伊戈爾等跟漲。"
+    },
+    {
+      "id": "mkt:01a00d74-f0d6-7aab-9053-ce389380f953",
+      "time": "2026-08-17 10:02:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine central bank governor said the bank stands ready to take necessary measures to return inflation to target."
+    },
+    {
+      "id": "5043252",
+      "time": "2026-08-17 10:02:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "公告顯示，谷歌母公司Alphabet已委任投資銀行負責其首筆澳元債券發行業務。"
+    },
+    {
+      "id": "mkt:01a00d74-df17-7aab-9053-c00fc6caee2e",
+      "time": "2026-08-17 10:02:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine central bank governor said the bank expects inflation to gradually ease over the medium term."
+    },
+    {
+      "id": "5043251",
+      "time": "2026-08-17 10:02:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長：通脹面臨上行風險。"
+    },
+    {
+      "id": "5043250",
+      "time": "2026-08-17 10:02:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長：我們預計通脹將在中期內逐步回落。"
+    },
+    {
+      "id": "mkt:01a00d74-9740-7aab-9053-bccabbef6895",
+      "time": "2026-08-17 10:02:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China fuel oil front-month futures rose 4.00% intraday to 3,950 yuan/ton."
+    },
+    {
+      "id": "5043249",
+      "time": "2026-08-17 10:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【創新藥概念震盪回升 譽衡藥業7天5板】創新藥概念日內震盪回升，譽衡藥業7天5板，華森製藥2連板，隴神戎發、太龍藥業、立方製藥、瑞康醫藥、石藥創新等漲幅靠前。"
+    },
+    {
+      "id": "5043248",
+      "time": "2026-08-17 10:00:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【覓蜂科技完成新一輪數億元融資，中國電信領投】近日，一站式物理AI資料服務平臺覓蜂科技完成新一輪數億元融資。本輪融資由中國電信領投，張江集團跟投，紅杉中國、元啟創新等老股東超額追加投資。據覓蜂科技介紹，本輪資金將用於持續衝破行業 “資料荒漠” 瓶頸，建設具身智慧資料平臺型供給基礎設施，擴大MEgo無本體產品量產規模，夯實資料採集、資料治理、閉環評測全棧能力，加速千萬小時級物理互動資料產能落地。"
+    },
+    {
+      "id": "te:economy:575632",
+      "time": "2026-08-17 10:00:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jordan",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Jordan Inflation Rate Eases Slightly to 2.7% in July — The annual inflation rate in Jordan eased for the second consecutive month to 2.70% in July 2026, down from 2.79% in June, as the impact of the fuel price hike continued to fade. However, the latest reading remained close to the highest level since April 2023, recorded in May at 2.83%, driven primarily by higher fuel prices. The country raised fuel prices by 11% in April, the first increase since the Middle East conflict began, and partially adjusted fuel prices in May. On a monthly basis, the CPI fell 0.18% in July, reversing a 0.14% increase in June and marking the first monthly decline since November 2025."
+    },
     {
       "id": "5043247",
       "time": "2026-08-17 10:00:18",
