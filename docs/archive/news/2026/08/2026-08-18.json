@@ -1,7 +1,26 @@
 {
   "date": "2026-08-18",
-  "count": 277,
+  "count": 279,
   "items": [
+    {
+      "id": "mkt:01a01195-c845-7aab-9069-b90574c50e86",
+      "time": "2026-08-18 05:17:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA"
+      ],
+      "text": "Petrobras top executive said drilling at the mouth of the Amazon has cost about $300 mln to date."
+    },
+    {
+      "id": "5044771",
+      "time": "2026-08-18 05:15:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.23%，報15131點。"
+    },
     {
       "id": "5044770",
       "time": "2026-08-18 05:13:24",
