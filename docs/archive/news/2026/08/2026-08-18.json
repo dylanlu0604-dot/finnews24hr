@@ -1,7 +1,53 @@
 {
   "date": "2026-08-18",
-  "count": 41,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a01099-4438-7aab-9066-a128ade8cf39",
+      "time": "2026-08-18 00:41:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "{\"title\":\"US Treasury yields stay elevated; Castle Securities flags Fed as market risk\",\"content\":\"Castle Securities said the Fed's reluctance to tighten further despite prolonged above-target inflation has left long-term Treasury yields at multi-year highs, posing broader market risk. Noshad Shah, head of EMEA fixed-income sales at Castle Securities, noted policy rates are roughly 175 bps below their peak while long-term Treasuries remain near 20-year highs. On Monday the 30-year Treasury yield rose above 5.28% to a 19-year high. Last week's data showing softer inflation and weaker consumer demand lowered market odds of a September Fed rate cut. Shah warned recent easing in inflation and labor-market cooling should not be taken as the removal of rate risk, noting more than 55% of core goods prices are still rising. He called next month's Fed meeting \"a close contest.\"\"}"
+    },
+    {
+      "id": "mkt:01a01099-3ca3-7aab-9066-98fa2ed2e1ba",
+      "time": "2026-08-18 00:41:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran official says 'weeks' deadline for US on MOU, warns possible Strait of Hormuz escalation】A senior Iranian official told Refinitiv on Aug. 17 that Iran has set a deadline of several weeks for the US to fully implement a US-Iran memorandum of understanding and will not allow an indefinite US maritime blockade. The official said efforts to secure a permanent ceasefire have stalled and Iran has decided to shift its posture \"from defensive to full offensive\" — if diplomacy fails Tehran is prepared to escalate tensions in the Strait of Hormuz and the wider Middle East. Iran said its timeline will be conveyed to the US via mediators."
+    },
+    {
+      "id": "5044647",
+      "time": "2026-08-18 00:39:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗官員稱已為美設定最後期限】據路透社報道，一名伊朗高階官員8月17日在接受採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。該官員稱，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”——如果外交努力失敗，伊朗已準備好將升級霍爾木茲海峽及中東地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。” （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a01097-130b-7aab-9066-904954816509",
+      "time": "2026-08-18 00:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada will ensure financing support for the \"Seagull Island power project\"."
+    },
     {
       "id": "5044646",
       "time": "2026-08-18 00:37:26",
