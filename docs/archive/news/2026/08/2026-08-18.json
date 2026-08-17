@@ -1,7 +1,27 @@
 {
   "date": "2026-08-18",
-  "count": 258,
+  "count": 260,
   "items": [
+    {
+      "id": "te:markets:575929",
+      "time": "2026-08-18 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index decreased 273 points or 0.51 percent on Monday to close at 53460 points. The decline was led by Nike (-4.05%), Salesforce (-3.06%) and Walt Disney (-3.02%). On the upside, the strongest performers were Caterpillar (3.13%), Chevron (1.41%) and Goldman Sachs (1.18%)."
+    },
+    {
+      "id": "5044761",
+      "time": "2026-08-18 04:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：OPS 合同總上限金額為 1 億美元。"
+    },
     {
       "id": "5044760",
       "time": "2026-08-18 04:31:13",

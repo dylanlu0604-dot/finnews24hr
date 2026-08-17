@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18 04:31:56",
-  "count": 15215,
+  "updated": "2026-08-18 04:35:50",
+  "count": 15214,
   "items": [
+    {
+      "id": "te:markets:575929",
+      "time": "2026-08-18 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index decreased 273 points or 0.51 percent on Monday to close at 53460 points. The decline was led by Nike (-4.05%), Salesforce (-3.06%) and Walt Disney (-3.02%). On the upside, the strongest performers were Caterpillar (3.13%), Chevron (1.41%) and Goldman Sachs (1.18%)."
+    },
+    {
+      "id": "5044761",
+      "time": "2026-08-18 04:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：OPS 合同總上限金額為 1 億美元。"
+    },
     {
       "id": "5044760",
       "time": "2026-08-18 04:31:13",
@@ -139407,38 +139427,6 @@
         "國際"
       ],
       "text": "【美以敘達成諒解 敘利亞秘密地點核材料將被轉移】美國、以色列和敘利亞達成諒解，國際原子能機構將從敘利亞一處秘密地點轉移核材料。"
-    },
-    {
-      "id": "te:markets:574203",
-      "time": "2026-08-11 04:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.11% Lower — The Dow Jones Index decreased 61 points or 0.11 percent on Monday to close at 53976 points. The decline was led by Nvidia (-2.79%), Travelers Companies (-2.21%) and Sherwin-Williams (-1.96%). On the upside, the strongest performers were Chevron (4.38%), Salesforce (2.71%) and Merck (1.71%)."
-    },
-    {
-      "id": "te:markets:574202",
-      "time": "2026-08-11 04:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Renews Record High — The S&P/TSX Composite Index added 0.2% to close at 36,458 on Monday, reaching another record high as energy and technology stocks advanced. Crude oil rallied amid growing uncertainty over a deal between the US and Iran to end the conflict and reopen the Strait of Hormuz. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Energy producers led gains, with Canadian Natural up 3.7%, Suncor advancing 4.3%, Imperial Oil adding 3%, and Cenovus jumping 4.6%. Technology stocks tracked gains in US hyperscalers after brokers signaled strong cloud demand. Shopify rose 2.2%, while Constellation Software gained 2.6% ahead of its earnings tomorrow. Miners were mixed, with Barrick down 6.4% after disappointing second-quarter results, while Franco-Nevada gained 0.8% ahead of its earnings tomorrow."
-    },
-    {
-      "id": "5034592",
-      "time": "2026-08-11 04:34:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗南部賈斯克將於週二上午10點拉響防空警報，該警報屬於測試演練。"
     }
   ]
 }
