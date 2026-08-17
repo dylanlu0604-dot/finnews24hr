@@ -1,7 +1,19 @@
 {
   "date": "2026-08-18",
-  "count": 172,
+  "count": 173,
   "items": [
+    {
+      "id": "mkt:01a01107-0297-7aab-9068-3437bec08d21",
+      "time": "2026-08-18 02:41:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russia says it struck Ukrainian targets at Odesa port; Ukraine says it hit factory in Russia's Rostov region】On the 17th, Russia said it struck Ukrainian military targets at Odesa port. Ukraine said it struck a factory in Russia’s Rostov region."
+    },
     {
       "id": "5044719",
       "time": "2026-08-18 02:39:17",
