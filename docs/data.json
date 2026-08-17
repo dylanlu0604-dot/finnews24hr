@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-17 07:57:05",
-  "count": 15218,
+  "updated": "2026-08-17 08:00:57",
+  "count": 15210,
   "items": [
+    {
+      "id": "5043064",
+      "time": "2026-08-17 08:00:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日經225指數上午開盤報68882.06點，漲幅0.24%。韓國股市今日休市。"
+    },
+    {
+      "id": "5043063",
+      "time": "2026-08-17 08:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "公安機關網安部門破獲3起影視領域輿情敲詐案件。"
+    },
+    {
+      "id": "5043062",
+      "time": "2026-08-17 07:59:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四年來首次環比增長 二季度商業銀行淨息差現企穩跡象】近日，國家金融監督管理總局公佈了2026年二季度銀行業保險業主要監管指標資料情況。資料顯示，今年二季度商業銀行淨息差為1.41%，較一季度環比增加0.01%。值得一提的是，這是自2022年一季度以來，商業銀行淨息差首次實現企穩回升。記者瞭解到，淨息差是衡量銀行主營業務盈利能力的關鍵指標。淨息差出現增長，意味著銀行盈利能力的提升，是銀行核心經營狀況改善的訊號。招聯首席經濟學家董希淼在接受記者採訪時表示，二季度商業銀行淨息差環比微升0.01個百分點，雖較一季度1.40%的歷史低點止跌回升，但相較2025年末仍下降0.01個百分點。“這一變化略好於市場此前普遍對淨息差環比小幅下行的預期，或意味著淨息差自2022年以來持續單邊下行的態勢進入震盪築底階段。”董希淼說。（經參報）"
+    },
+    {
+      "id": "te:economy:575577",
+      "time": "2026-08-17 07:59:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "GDP Growth Annualized",
+        "Importance 1"
+      ],
+      "text": "Japan Economy Advances at Annualized 1.1% in Q2 — Japan’s economy expanded at an annualized rate of 1.1% in Q2 2026, easing from a marginally revised 1.9% growth in the prior quarter and missing market forecasts of 2%. Still, it was the third straight quarter of yearly growth."
+    },
+    {
+      "id": "5043061",
+      "time": "2026-08-17 07:56:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【債券的心頭大患不只美聯儲 全球利率升勢蠢蠢欲動】在投資人爭論美聯儲是否升息以及何時升息之際，全球各地對進一步緊縮的市場預期正在升高，這對債市來說是一個壞訊息。交易員預計，未來一年日本、加拿大、歐元區和英國的借貸成本升幅將快於美國。在彭博追蹤的32個利率交換市場中，三分之二已反映升息預期，其中韓國居首，市場定價的升幅已超過100個基點。這標誌著近年來由美聯儲主導的利率週期出現轉變。這次，各國央行面臨多重壓力交織：包括伊朗戰爭導致油價上漲、政府支出大幅增加、AI投資熱潮帶來的強勁增長動能。經合組織(OECD)成員國的通貨膨脹最近升至兩年來的最高水準。"
+    },
     {
       "id": "te:economy:575575",
       "time": "2026-08-17 07:56:08",
@@ -139006,127 +139053,6 @@
         "國際"
       ],
       "text": "【中信建投：有色商品價格在優異的基本面推動下 有望保持強勁勢頭】中信建投研報表示，近期有色呈現股期聯動上漲的勢頭，一方面，有色價格在供應端出現擾動、消費尚可及美國加息預期緩解的背景下保持強勢，金價創7周以來新高，銅價直逼歷史前高，鋁價重奪24000關口；另一方面，極致的市場風格再均衡，處於低配的有色板塊以其優異的業績和較低的PE持續吸引資金的流入。中信建投認為，有色商品價格在優異的基本面推動下，有望保持著強勁勢頭；有色權益目前PE修復尚不充分，仍有進一步上漲的空間。"
-    },
-    {
-      "id": "5032790",
-      "time": "2026-08-10 08:00:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.8%，至6306.33點。"
-    },
-    {
-      "id": "5032789",
-      "time": "2026-08-10 08:00:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "公安部網安局再次公佈15起涉汛涉災網路謠言案例。"
-    },
-    {
-      "id": "5032788",
-      "time": "2026-08-10 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報65905.10點，漲幅0.45％。韓國綜合股價指數（KOSPI）開盤上漲0.8％，至6306.33點。"
-    },
-    {
-      "id": "5032787",
-      "time": "2026-08-10 07:59:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣府代表稱，希望日本央行實施適當的貨幣政策，並與政府密切協調政策。"
-    },
-    {
-      "id": "mkt:019fe8f7-3515-7aab-8fcd-304b0056dade",
-      "time": "2026-08-10 07:59:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan July meeting summary: one member said the bank must accelerate withdrawal of monetary support because the cost of delaying rate hikes is significant."
-    },
-    {
-      "id": "5032786",
-      "time": "2026-08-10 07:58:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議意見摘要：內閣府代表表示，有助於物價穩定的適當貨幣政策對實現強勁經濟非常重要。"
-    },
-    {
-      "id": "5032785",
-      "time": "2026-08-10 07:58:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議摘要：一名成員表示，日本央行必須加快貨幣支援措施的調整節奏，因為推遲加息的代價不容小覷。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608103836051757",
-      "time": "2026-08-10 07:58:14",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行七月會議意見摘要顯示，一位成員表示，日本央行必須透過將政策利率上調至中性利率預估區間下限以上，來實現貨幣政策正常化。"
-    },
-    {
-      "id": "mkt:019fe8f6-3cb6-7aab-8fcd-29593da6220e",
-      "time": "2026-08-10 07:57:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan July meeting minutes: one board member said the Bank must make clear its resolve to prevent inflation from overshooting, as inflationary pressure may begin to emerge from the summer."
-    },
-    {
-      "id": "mkt:019fe8f5-d266-7aab-8fcd-2685d1a018e7",
-      "time": "2026-08-10 07:57:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan July meeting minutes: a member said flexible adjustment of the policy rate is important to monitor potential inflation risks."
-    },
-    {
-      "id": "mkt:019fe8f5-c063-7aab-8fcd-1eeb3c750565",
-      "time": "2026-08-10 07:57:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan July meeting minutes show one member said the bank must normalize monetary policy by raising the policy rate above the lower bound of the estimated neutral-rate range."
-    },
-    {
-      "id": "5032783",
-      "time": "2026-08-10 07:57:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，由於通脹壓力可能從夏季開始顯現，央行必須明確其避免通脹超調的決心。"
-    },
-    {
-      "id": "5032782",
-      "time": "2026-08-10 07:57:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行意見摘要：一位委員表示，央行必須透過將政策利率推升至中性利率預估區間底部以上，來實現貨幣政策正常化。"
     }
   ]
 }
