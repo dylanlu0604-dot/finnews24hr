@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-18 03:08:15",
+  "updated": "2026-08-18 03:12:05",
   "count": 15261,
   "items": [
+    {
+      "id": "mkt:01a01122-2393-7aab-9068-b37360393a61",
+      "time": "2026-08-18 03:10:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Kushner said the US would be willing to strike a deal if Iran completed the previously discussed agreement and relinquished the capability to build nuclear weapons, but Iran has so far not shown willingness to take steps consistent with US interests."
+    },
+    {
+      "id": "5044735",
+      "time": "2026-08-18 03:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚： 我們自由的國民在被俘歲月裡所遭受的一切，絕非僅僅是戰爭史的片段；這是一群歷經苦難卻絕不捨棄伊朗尊嚴之人的堅毅敘事。面對日益加劇的外部壓力與威脅，忍耐、團結與希望，是伊朗堅守不屈的關鍵。"
+    },
+    {
+      "id": "mkt:01a01120-0e84-7aab-9068-ae2c4f0c4eeb",
+      "time": "2026-08-18 03:08:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner said Trump will remain patient in pursuing an agreement with Iran."
+    },
+    {
+      "id": "5044734",
+      "time": "2026-08-18 03:07:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥大豆期貨漲約2%，大豆油漲超2.6%】週一（8月17日）紐約尾盤，彭博穀物分類指數漲1.14%，報32.4651點，美股開盤以來持續走高，最近兩個交易日累計上漲3.50%。CBOT玉米期貨漲1.19%，報4.89美元/蒲式耳。CBOT小麥期貨跌0.04%，報6.8925美元/蒲式耳。CBOT大豆期貨漲1.97%，報12.16美元/蒲式耳，最近四天累計上漲4.04%；豆粕期貨漲0.79%，豆油期貨漲2.62%。CBOT瘦肉豬期貨跌0.09%，活牛期貨跌0.10%，飼牛期貨跌0.05%。"
+    },
     {
       "id": "mkt:01a0111d-cd48-7aab-9068-a7afc7a8c12e",
       "time": "2026-08-18 03:06:00",
@@ -139798,47 +139835,6 @@
         "MKT News"
       ],
       "text": "Mehr news agency: Bushehr provincial governor said unexploded ordnance left from US and Israeli strikes will be cleared and destroyed near Bushehr airbase on Tuesday between 08:00 and 12:00 Iran local time. Explosions will be controlled detonations; residents need not be concerned."
-    },
-    {
-      "id": "5034532",
-      "time": "2026-08-11 03:12:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美政府自去年初以來已吊銷逾17.5萬份非移民簽證】美國國務院當地時間10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。"
-    },
-    {
-      "id": "mkt:019fed15-2c33-7aab-8fdf-bec0e4b8bc03",
-      "time": "2026-08-11 03:10:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Cleveland Fed's Hammack: multiple rate hikes may be needed to curb inflation】Cleveland Fed President Hammack said inflation remains above target and the Fed may need multiple rate hikes to bring it down. She said a 25bp hike would not have a material economic impact but would not predict the number of moves or the terminal rate. Hammack judged the current 3.50%-3.75% policy range is not clearly restrictive and said businesses have not cut growth investment, arguing prompt action is preferable because delays make returning to 2% harder. She added the labor market shows no obvious problems and July payrolls will not change her inflation focus. Hammack dissented at July’s FOMC, preferring a 25bp increase, and said markets can only assist—not substitute for—Fed policy action."
-    },
-    {
-      "id": "5034531",
-      "time": "2026-08-11 03:08:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生部長小羅伯特·肯尼迪：正在評估孕期接種的疫苗。"
-    },
-    {
-      "id": "5034530",
-      "time": "2026-08-11 03:08:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭空軍一架米格-29戰機墜毀】烏克蘭空軍當地時間10日在社交媒體發文說，當晚，烏空軍一架米格-29戰機在敖德薩州空域執行戰鬥任務時突發緊急狀況墜毀。烏空軍稱，初步調查結果顯示，該戰機在發射導彈時起火，隨後失控，飛行員彈射逃生並被送醫。事故原因還在進一步調查中。"
     }
   ]
 }

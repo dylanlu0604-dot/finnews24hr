@@ -1,7 +1,44 @@
 {
   "date": "2026-08-18",
-  "count": 201,
+  "count": 205,
   "items": [
+    {
+      "id": "mkt:01a01122-2393-7aab-9068-b37360393a61",
+      "time": "2026-08-18 03:10:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Kushner said the US would be willing to strike a deal if Iran completed the previously discussed agreement and relinquished the capability to build nuclear weapons, but Iran has so far not shown willingness to take steps consistent with US interests."
+    },
+    {
+      "id": "5044735",
+      "time": "2026-08-18 03:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚： 我們自由的國民在被俘歲月裡所遭受的一切，絕非僅僅是戰爭史的片段；這是一群歷經苦難卻絕不捨棄伊朗尊嚴之人的堅毅敘事。面對日益加劇的外部壓力與威脅，忍耐、團結與希望，是伊朗堅守不屈的關鍵。"
+    },
+    {
+      "id": "mkt:01a01120-0e84-7aab-9068-ae2c4f0c4eeb",
+      "time": "2026-08-18 03:08:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kushner said Trump will remain patient in pursuing an agreement with Iran."
+    },
+    {
+      "id": "5044734",
+      "time": "2026-08-18 03:07:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥大豆期貨漲約2%，大豆油漲超2.6%】週一（8月17日）紐約尾盤，彭博穀物分類指數漲1.14%，報32.4651點，美股開盤以來持續走高，最近兩個交易日累計上漲3.50%。CBOT玉米期貨漲1.19%，報4.89美元/蒲式耳。CBOT小麥期貨跌0.04%，報6.8925美元/蒲式耳。CBOT大豆期貨漲1.97%，報12.16美元/蒲式耳，最近四天累計上漲4.04%；豆粕期貨漲0.79%，豆油期貨漲2.62%。CBOT瘦肉豬期貨跌0.09%，活牛期貨跌0.10%，飼牛期貨跌0.05%。"
+    },
     {
       "id": "mkt:01a0111d-cd48-7aab-9068-a7afc7a8c12e",
       "time": "2026-08-18 03:06:00",
