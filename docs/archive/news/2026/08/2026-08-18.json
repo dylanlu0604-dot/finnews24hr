@@ -1,7 +1,40 @@
 {
   "date": "2026-08-18",
-  "count": 359,
+  "count": 363,
   "items": [
+    {
+      "id": "mkt:01a0120b-a64e-7aab-906a-4933f138f2d5",
+      "time": "2026-08-18 07:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【European banks commit £300m to Scottish data centre】DataVita has secured £300m (about $407m) from ING, ABN AMRO and other European banks to expand an existing Scottish data centre and build a new facility. The UK government guaranteed 80% of a £252m tranche provided by the two Dutch banks and Banco Santander; the remainder is unsecured financing from the Scottish National Investment Bank and Siemens Financial Services. Dell will relocate its Scotland headquarters to the site. The investment is being cited as a key signal of a revival for the UK’s AI growth zones under new Prime Minister Burnham; the zones were a central plank of the previous Labour government’s AI policy under Starmer."
+    },
+    {
+      "id": "5044829",
+      "time": "2026-08-18 07:25:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【滾動市盈率相對較低的腦機介面概念股梳理】近日，腦機介面技術在國內醫療領域密集落地，多項臨床突破接連公佈。A股市場佈局腦機介面的上市公司超30家。麥瀾德圍繞AI與非侵入式腦機介面技術的融合開展研發，初步構建了基於“腦訊號採集—智慧解析—狀態識別—閉環反饋”的技術體系。美好醫療在腦機介面領域已協助客戶實現從實驗室研發到批次出貨的商業化轉化，相關元件產品已進入小批次供貨階段。偉思醫療在腦機介面領域聚焦“非侵入式”技術路線，致力於構建“診斷—治療—康復”的全週期閉環體系。二級市場方面，據證券時報·資料寶統計，截至8月17日收盤，腦機介面概念股今年以來平均下跌8.55%，跑輸同期上證指數。4只概念股累計漲幅超10%，分別為盛視科技、盈趣科技、達瑞電子、博拓生物。"
+    },
+    {
+      "id": "5044828",
+      "time": "2026-08-18 07:23:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上半年業績翻倍的人形機器人概念股一覽】8月17日，人形機器人概念股持續走高。8月以來人形機器人概念股平均上漲10.99%，多股漲超40%。近期，行業迎來多重利好催化，機構加緊調研產業鏈個股，一批績優概念股獲得主力資金集中加倉。訊息面上，8月19日至23日，2026世界機器人大會將在北京舉行。宇樹科技董事長王興興將亮相主論壇，展望人形機器人產業的下一個十年。目前40餘隻人形機器人概念股釋出上半年業績資料，綜合業績預告下限、快報和半年報來看，江蘇北人、航天智裝扭虧。埃斯頓、凱爾達、昊志機電、拓斯達等10只概念股的淨利潤同比均翻倍。8月17日多隻人形機器人概念股獲得主力加倉，其中寧德時代、埃斯頓、比亞迪、全志科技、領益智造等9股的主力資金淨流入額超億元。11只績優人形機器人概念股獲得主力資金淨流入，包含埃斯頓、昊志機電、拓斯達、全志科技、東方鋯業等股。"
+    },
+    {
+      "id": "5044827",
+      "time": "2026-08-18 07:23:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特斯拉據悉準備8月面向公眾推出CyberCab】媒體援引知情人士報道稱，特斯拉已告知員工正為Cybercab面向公眾推出做準備。這是特斯拉首款沒有方向盤和剎車踏板的車型。報道稱，特斯拉計劃首先在德克薩斯州奧斯汀向公眾推出Cybercab，最快可能本月啟動。近幾周，公司一直在為推出Cybercab做準備，包括開展試駕、在私人道路上安排員工乘坐，並與當地急救人員進行相關培訓。特斯拉已告知員工，計劃先讓員工在公共道路上乘坐Cybercab，隨後在數日內將這款車納入奧斯汀的Robotaxi服務。報道稱，特斯拉目前內部目標是在8月底前面向公眾推出Cybercab，時間表仍可能調整。"
+    },
     {
       "id": "5044826",
       "time": "2026-08-18 07:21:43",
