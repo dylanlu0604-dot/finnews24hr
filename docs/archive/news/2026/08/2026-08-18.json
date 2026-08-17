@@ -1,7 +1,148 @@
 {
   "date": "2026-08-18",
-  "count": 133,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:01a010ef-e52f-7aab-9067-f2911c18d5eb",
+      "time": "2026-08-18 02:15:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said the United States does not seek to extend its memorandum of understanding with Iran."
+    },
+    {
+      "id": "mkt:01a010ef-2d3d-7aab-9067-e91be783cc56",
+      "time": "2026-08-18 02:15:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the Strait of Hormuz remains open and oil prices are retreating."
+    },
+    {
+      "id": "te:markets:575924",
+      "time": "2026-08-18 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Rises by 3.73% — Top commodity gainers are Heating Oil (3.73%), Brent Crude Oil (2.75%) and Crude Oil WTI (2.67%). Biggest loser is Natural gas (-1.56%)."
+    },
+    {
+      "id": "5044704",
+      "time": "2026-08-18 02:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗麻煩大了。"
+    },
+    {
+      "id": "5044703",
+      "time": "2026-08-18 02:14:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率達到5.31%，創最近十九年新高。"
+    },
+    {
+      "id": "mkt:01a010ee-687d-7aab-9067-e37526925f59",
+      "time": "2026-08-18 02:14:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 30-year Treasury yield climbed above 5.31%, hitting a 19-year high."
+    },
+    {
+      "id": "5044702",
+      "time": "2026-08-18 02:14:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽是開放的，油價在下跌。"
+    },
+    {
+      "id": "mkt:01a010ed-e6d0-7aab-9067-df2ebb2009d6",
+      "time": "2026-08-18 02:13:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said the US ships several million barrels of oil per week through the Strait of Hormuz and that the waterway is open."
+    },
+    {
+      "id": "mkt:01a010ed-7557-7aab-9067-d79ecdcf1830",
+      "time": "2026-08-18 02:13:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said Iran is facing a major crisis."
+    },
+    {
+      "id": "5044701",
+      "time": "2026-08-18 02:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在我看來，反對宴會廳專案的這些人，對我們國家極度不忠。對我們國家極其不忠。"
+    },
+    {
+      "id": "5044700",
+      "time": "2026-08-18 02:12:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一艘阿聯酋油輪在霍爾木茲海峽被攔截】海事資料顯示，一艘屬於阿聯酋公司的油輪在穿越霍爾木茲海峽時，在格什姆島附近被攔截。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a010ec-bdd0-7aab-9067-ce40ea78ad15",
+      "time": "2026-08-18 02:12:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Trump says the US controls the Strait of Hormuz."
+    },
+    {
+      "id": "5044699",
+      "time": "2026-08-18 02:12:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申將霍爾木茲海峽劃為美國領土的“想法”。"
+    },
+    {
+      "id": "5044698",
+      "time": "2026-08-18 02:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申美國控制霍爾木茲海峽。"
+    },
     {
       "id": "mkt:01a010e9-2c09-7aab-9067-c1d1f5b29ffd",
       "time": "2026-08-18 02:08:31",
