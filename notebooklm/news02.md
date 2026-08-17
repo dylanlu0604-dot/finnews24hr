@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:35:50_
-_本檔包含 3056 則快訊，約 604957 字_
+_更新時間：2026-08-18 04:59:19_
+_本檔包含 3053 則快訊，約 603493 字_
+
+---
+
+### 2026-08-16 21:29:26  #公司
+
+挪威加斯科公司計劃於8月17日04:00至8月18日04:00停運卡爾斯托氣田，天然氣日供氣量減少500萬立方米。
+
+---
+
+### 2026-08-16 21:29:09  #國際
+
+伊朗總統：我們本應擁有足以令敵人不敢膽敢襲擊我國領土的軍事能力。
+
+---
+
+### 2026-08-16 21:26:25  #其他
+
+【辛巴威船隻傾覆已致80人死亡 搜救工作仍在持續】當地時間16日，辛巴威警方公佈，該國北部卡里巴湖11日下午發生的船隻傾覆事故死亡人數上升到80人。辛巴威政府方面說，事故發生時，船上載有119名成人，另有數量不明的兒童。事發後已有77人獲救。目前，搜救工作仍在進行中。隨著搜救工作的推進，更多遇難者遺體被打撈，船上乘客實際數量已遠超登記人數。辛巴威總統姆南加古瓦已宣佈這起事故為“國家災難”。（央視新聞）
+
+---
+
+### 2026-08-16 21:21:47  #其他
+
+環球星確認全部8顆HIBLEO-4替代衛星成功發射。
+
+---
+
+### 2026-08-16 21:21:04  #公司
+
+法國電力公司將特里卡斯廷4號反應堆的輸出功率從915兆瓦削減至180兆瓦。
+
+---
+
+### 2026-08-16 21:17:58  #市場 #國際
+
+【五角大樓公佈的傷亡資料“翻車”】據巴西247新聞網8月12日報道，五角大樓在公佈其2025年度傷亡估算報告後，面臨低估和掩蓋美國軍事行動致平民傷亡人數的指控。該檔案承認有153名平民死亡、243人受傷。這些數字遠低於跟蹤美國軍事行動的獨立組織所提供的資料。報道指出，圍繞該報告的主要爭議不僅涉及官方數字與獨立調查之間的差異，還涉及未將美軍在加勒比海和東太平洋針對涉嫌販毒船隻的行動所致的平民傷亡納入統計。根據五角大樓的評估，2025年所有平民傷亡事件均發生在美國對葉門胡塞武裝的轟炸行動中。除官方傷亡資料外，另有15名可能的受害者仍在美軍當局的審查中。然而，獨立組織提供的資料顯示，葉門的人員損失規模更大。據報道，空中戰爭跟蹤組織估計，在美國對葉門的軍事行動期間，至少有258名平民喪生。（參考訊息）
+
+---
+
+### 2026-08-16 21:16:32  #其他
+
+【新能源冷藏車銷量快速增長，冷鏈綠色轉型提速】中國物流與採購聯合會今天（16日）釋出上半年冷鏈物流執行資料。在宏觀經濟回升向好、物流執行韌性增長的背景下，上半年冷鏈物流保持穩步發展態勢，冷鏈消費需求溫和回升，綠色低碳轉型加速推進。在生鮮電商與城配需求增長、新能源政策強力推動等因素驅動下，新能源冷藏車銷量繼續保持快速增長。上半年新能源冷藏車銷量為20285輛，同比增長92.3%，保持高速增長態勢。新能源冷藏車滲透率達48.2%，較上年同期提升12.4個百分點。二季度滲透率升至54.7%，首次超越傳統燃料車型，冷鏈運輸綠色化程序進入加速發展階段。（央視財經）
+
+---
+
+### 2026-08-16 21:14:58  #國際
+
+白宮新聞秘書：經濟學家稱，伊朗在封鎖下面臨經濟“嚴重崩潰”。
+
+---
+
+### 2026-08-16 21:13:37  #央行 #國際
+
+【招商證券： 市場將更加聚焦於業績主線的結構性機會 】招商證券釋出研報指出，近期市場快速反彈後轉為震盪，本質上是基於美聯儲TACO與非農、就業資料，交易寬鬆流動性與降息預期。對於市場而言，8月以來由宏微觀流動性改善共振帶來的風險偏好回升和市場系統性修復或已進入尾聲，疊加中報業績集中披露視窗臨近，市場將更加聚焦於業績主線的結構性機會。配置上建議沿科技創新+企業出海+傳統低估值再平衡三線均衡佈局，重點關注電子、電力裝置、化學制藥、有色金屬、煤炭。
+
+---
+
+### 2026-08-16 21:13:11  #MKT News
+
+Hamas said a delegation arrived in Egypt at midday local time on Sunday and held talks with the head of the Egyptian General Intelligence Directorate, IRNA reported.
 
 ---
 
@@ -18371,83 +18431,5 @@ Germany | Wholesale Price Index (MoM) (Jul) | actual 0.2% | previous -0.7%
 ### 2026-08-14 13:59:54  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX Erases Losses, Posts 2nd Weekly Gain — New Zealand's stocks rose 29 points, or 0.2%, to close at 13,854 on Friday, reversing morning weakness and extending gains from the previous session, tracking a rise on Wall Street overnight as bets on a Fed interest rate hike at the September meeting eased following soft inflation data. Moderating oil prices also lifted sentiment as inflation concerns eased and expectations grew that the RBNZ would slow the pace of monetary policy tightening. The latest data also supported sentiment, as New Zealand's factory activity grew for the 21st consecutive month in July, though at a softer rate. However, traders were cautious ahead of food inflation data and China's interest rate decision due next week. Energy, tech, consumer discretionary, and industrials mainly drove the index, with notable gains including Colonial Motor (9.2%), ANZ Group (1.6%), Henderson Far East Income (1.2%), and Mainfreight (1.1%). For the week, the index rose 0.2%, marking the second consecutive weekly gain.
-
----
-
-### 2026-08-14 13:59:47  #其他
-
-【遊戲板塊持續走高，迅遊科技、世紀華通漲超6%】遊戲板塊持續走高，迅遊科技、世紀華通漲超6%，愷英網路、中青寶、三七互娛跟漲。
-
----
-
-### 2026-08-14 13:56:21  #市場 #焦點
-
-焦煤連續主力合約日內漲4%，現報1525.00元。
-
----
-
-### 2026-08-14 13:56:17  #國際
-
-日本折扣零售業巨頭特里亞控股（Trial Holdings）年營收首次突破1萬億日元大關。
-
----
-
-### 2026-08-14 13:56:16  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-【Bank of Japan could raise rates as soon as September, sources say】Three people familiar with Bank of Japan policy thinking told foreign media the central bank could raise rates as soon as September and is considering a more aggressive tightening path than the current roughly two hikes per year. The prospective move reflects growing concern about price pressure from the Middle East conflict, strong global AI-driven demand and persistent yen weakness despite a rare Japan‑US coordinated FX intervention last month. One source said a rate hike "has entered the view," implying a likely move at the Sept. 17-18 policy meeting. The source added the bank may speed up the pace of hikes; a second source gave a similar account.
-
----
-
-### 2026-08-14 13:56:03  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude traded above $81/bbl, up 0.7% on the day.
-
----
-
-### 2026-08-14 13:54:32  #其他
-
-【信達生物聯合美團買藥探索即時零售 首發小規格新品】8月11日—16日，第十九屆健康產業生態大會（2026西普會）在海南博鰲舉行。會議期間，信達生物聯合美團買藥探索即時零售，釋出2mg 1支裝瑪仕度肽新品。
-
----
-
-### 2026-08-14 13:53:49  #國際
-
-美國駐日本大使稱，美國支援日本在北方爭議領土問題上的立場。
-
----
-
-### 2026-08-14 13:53:31  #公司
-
-【交通銀行推動全市場首單企業自貿離岸債業務落地】近日，作為主承銷團成員之一，交銀集團助力上海電氣發行全市場首單企業自貿離岸債，總額15億元，這也是自貿離岸債首次在香港交易所掛牌。本次發行是上海自貿試驗區離岸金融創新的重要進展，也是2026陸家嘴論壇《上海國際金融中心發展離岸金融行動方案》釋出後自貿離岸債領域的標誌性成果。（上證報）
-
----
-
-### 2026-08-14 13:52:54  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan 2-year JGB yield rose 0.5 bps to 1.650%; 5-year JGB yield rose 1.5 bps to 2.135%.
-
----
-
-### 2026-08-14 13:51:34  #MKT News #CNH #Impact bullish
-
-【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan.
-
----
-
-### 2026-08-14 13:47:44  #其他
-
-臺積電第二季淨利潤為臺幣7067.8億元，上年同期為臺幣3974.9億元。
-
----
-
-### 2026-08-14 13:46:28  #MKT News #Important #300017.SZ #Impact bullish
-
-China A-share compute-power leasing sector jumped intraday: DataPort hit limit-up, Wangsu Technology neared limit-up; Caixun, Xingyun Technology, Aofei Data and Litong Electronics also advanced.
-
----
-
-### 2026-08-14 13:46:07  #MKT News
-
-【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations.
 
 ---

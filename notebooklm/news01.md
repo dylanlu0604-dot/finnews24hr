@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:35:50_
-_本檔包含 2910 則快訊，約 604529 字_
+_更新時間：2026-08-18 04:59:19_
+_本檔包含 2908 則快訊，約 605773 字_
+
+---
+
+### 2026-08-18 04:56:28  #國際
+
+哥倫比亞總統與特朗普舉行通話，並對美方援助表示感謝。
+
+---
+
+### 2026-08-18 04:52:35  #國際
+
+法國總統馬克龍：軍事規劃法案將於明日頒佈。我國軍隊預算將實現翻倍，2026 至 2030 年間軍隊將獲得 360 億歐元新增投資。
+
+---
+
+### 2026-08-18 04:51:11  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls for Tenth Straight Session — The Ibovespa edged 0.1% lower to close at 166,784 on Monday, marking a tenth consecutive session of losses. Tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. Itaú shed 1.6%, Bradesco lost 1.9% and Banco do Brasil retreated 2.3%. The IBC-Br showed a slightly larger-than-expected decline, falling 0.6%, its biggest drop since May 2025. The data added to evidence of a slowing economy. Casas Bahia (-33.3%) filed for judicial recovery following a multibillion-real loss in 2Q26. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round.
+
+---
+
+### 2026-08-18 04:48:13  #MKT News
+
+The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections.
+
+---
+
+### 2026-08-18 04:44:57  #公司
+
+明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。
+
+---
+
+### 2026-08-18 04:42:34  #MKT News #LHX.O #Impact bullish
+
+NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million.
+
+---
+
+### 2026-08-18 04:38:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining.
+
+---
+
+### 2026-08-18 04:37:23  #MKT News
+
+UAE state news agency said the UAE foreign minister spoke by phone with Kuwait’s foreign minister to discuss recent regional developments and measures to bolster security and stability in the Middle East.
 
 ---
 
@@ -17465,65 +17513,5 @@ Egyptian President Sisi and Kushner confirmed the need to resolve the current re
 ### 2026-08-16 21:30:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Market Regions #Greater China #Star Stocks #Alibaba #Market Themes #China Tech Giants #WTI #Impact mixed #DXY #EURUSD
 
 【Weekly preview: China July economic 'report card'; Alibaba, Baidu earnings; Fed minutes; US warned of 'unprecedented' economic strike on Iran】Key market-moving items next week: China releases July retail sales, industrial output and total electricity consumption (Monday) — the closest thing to a July economic 'report card' for asset and policy watchers. The PBOC will conduct overnight reverse repos Aug 17–19, and China publishes Swift RMB global payments share and the 1-year LPR on Thursday. The Fed releases meeting minutes on Thursday. US energy inventories (API and EIA crude) are due Wednesday; NYMEX September crude contract rolls on Friday. US labor and activity data include ADP payrolls, housing starts/permits and pending home sales (Tuesday), initial jobless claims and the Philadelphia Fed index (Thursday), and S&P Global August manufacturing and services PMIs (Friday, flash). Europe and UK: German/euro-area ZEW (Tue), UK and euro-area CPI (UK on Wed; euro-area final CPI Wed), and preliminary Aug manufacturing PMIs across major European economies and UK on Friday. Other data: Canada July CPI (Mon), Japan July core CPI (Fri), Australia July unemployment (Thu), euro-area current account (Wed), and US leading indicators (Thu). Corporate calendar: major China/HK earnings include Geely (Mon); Baidu and Xiaomi (Tue); Kuaishou, ZTO, Kingsoft, HKEX and Weibo (Wed); Ping An, China Telecom, NetEase, Alibaba, AIA, Li Ning, Pop Mart and Futu (Thu); ZTE, Sinopec and Beike (Fri). Events and policy signals: ECB President Lagarde speaks at a WEF panel on global economic outlook (Wed); Seoul AI Summit runs Aug 19–21 and the World Robot Conference Aug 19–23 (sector sentiment). Geopolitical risk: market commentary flagged by Bessent warning of a possible 'unprecedented' US economic strike on Iran this week — presented as a forecast/preview, not an official action.
-
----
-
-### 2026-08-16 21:29:26  #公司
-
-挪威加斯科公司計劃於8月17日04:00至8月18日04:00停運卡爾斯托氣田，天然氣日供氣量減少500萬立方米。
-
----
-
-### 2026-08-16 21:29:09  #國際
-
-伊朗總統：我們本應擁有足以令敵人不敢膽敢襲擊我國領土的軍事能力。
-
----
-
-### 2026-08-16 21:26:25  #其他
-
-【辛巴威船隻傾覆已致80人死亡 搜救工作仍在持續】當地時間16日，辛巴威警方公佈，該國北部卡里巴湖11日下午發生的船隻傾覆事故死亡人數上升到80人。辛巴威政府方面說，事故發生時，船上載有119名成人，另有數量不明的兒童。事發後已有77人獲救。目前，搜救工作仍在進行中。隨著搜救工作的推進，更多遇難者遺體被打撈，船上乘客實際數量已遠超登記人數。辛巴威總統姆南加古瓦已宣佈這起事故為“國家災難”。（央視新聞）
-
----
-
-### 2026-08-16 21:21:47  #其他
-
-環球星確認全部8顆HIBLEO-4替代衛星成功發射。
-
----
-
-### 2026-08-16 21:21:04  #公司
-
-法國電力公司將特里卡斯廷4號反應堆的輸出功率從915兆瓦削減至180兆瓦。
-
----
-
-### 2026-08-16 21:17:58  #市場 #國際
-
-【五角大樓公佈的傷亡資料“翻車”】據巴西247新聞網8月12日報道，五角大樓在公佈其2025年度傷亡估算報告後，面臨低估和掩蓋美國軍事行動致平民傷亡人數的指控。該檔案承認有153名平民死亡、243人受傷。這些數字遠低於跟蹤美國軍事行動的獨立組織所提供的資料。報道指出，圍繞該報告的主要爭議不僅涉及官方數字與獨立調查之間的差異，還涉及未將美軍在加勒比海和東太平洋針對涉嫌販毒船隻的行動所致的平民傷亡納入統計。根據五角大樓的評估，2025年所有平民傷亡事件均發生在美國對葉門胡塞武裝的轟炸行動中。除官方傷亡資料外，另有15名可能的受害者仍在美軍當局的審查中。然而，獨立組織提供的資料顯示，葉門的人員損失規模更大。據報道，空中戰爭跟蹤組織估計，在美國對葉門的軍事行動期間，至少有258名平民喪生。（參考訊息）
-
----
-
-### 2026-08-16 21:16:32  #其他
-
-【新能源冷藏車銷量快速增長，冷鏈綠色轉型提速】中國物流與採購聯合會今天（16日）釋出上半年冷鏈物流執行資料。在宏觀經濟回升向好、物流執行韌性增長的背景下，上半年冷鏈物流保持穩步發展態勢，冷鏈消費需求溫和回升，綠色低碳轉型加速推進。在生鮮電商與城配需求增長、新能源政策強力推動等因素驅動下，新能源冷藏車銷量繼續保持快速增長。上半年新能源冷藏車銷量為20285輛，同比增長92.3%，保持高速增長態勢。新能源冷藏車滲透率達48.2%，較上年同期提升12.4個百分點。二季度滲透率升至54.7%，首次超越傳統燃料車型，冷鏈運輸綠色化程序進入加速發展階段。（央視財經）
-
----
-
-### 2026-08-16 21:14:58  #國際
-
-白宮新聞秘書：經濟學家稱，伊朗在封鎖下面臨經濟“嚴重崩潰”。
-
----
-
-### 2026-08-16 21:13:37  #央行 #國際
-
-【招商證券： 市場將更加聚焦於業績主線的結構性機會 】招商證券釋出研報指出，近期市場快速反彈後轉為震盪，本質上是基於美聯儲TACO與非農、就業資料，交易寬鬆流動性與降息預期。對於市場而言，8月以來由宏微觀流動性改善共振帶來的風險偏好回升和市場系統性修復或已進入尾聲，疊加中報業績集中披露視窗臨近，市場將更加聚焦於業績主線的結構性機會。配置上建議沿科技創新+企業出海+傳統低估值再平衡三線均衡佈局，重點關注電子、電力裝置、化學制藥、有色金屬、煤炭。
-
----
-
-### 2026-08-16 21:13:11  #MKT News
-
-Hamas said a delegation arrived in Egypt at midday local time on Sunday and held talks with the head of the Egyptian General Intelligence Directorate, IRNA reported.
 
 ---

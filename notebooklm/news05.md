@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:35:50_
-_本檔包含 3053 則快訊，約 604287 字_
+_更新時間：2026-08-18 04:59:19_
+_本檔包含 3067 則快訊，約 604040 字_
+
+---
+
+### 2026-08-12 09:15:27  #市場
+
+【人民幣兌美元中間價報6.7882，較上日調高18點】人民幣兌美元中間價報6.7882，較上日調高18點。
+
+---
+
+### 2026-08-12 09:15:20  #市場
+
+人民幣兌美元中間價報6.7882元。
+
+---
+
+### 2026-08-12 09:15:20  #MKT News #Copper #Impact bullish
+
+Freeport Indonesia said its Gresik copper smelter halted operations from Aug 8 for furnace maintenance.
+
+---
+
+### 2026-08-12 09:15:02  #市場
+
+恒指期貨日盤開盤跌0.32%，報25546.68點，低水106.14點。
+
+---
+
+### 2026-08-12 09:13:47  #國際
+
+【特朗普：伊朗局勢良好 美國控制著霍爾木茲海峽】美國總統特朗普在安德魯斯聯合基地向記者表示，伊朗方面局勢整體良好。在被問及伊朗衝突相關問題時特朗普稱：“我們完全掌控霍爾木茲海峽。”“目前，我們佔據極為有利的局面。”
+
+---
+
+### 2026-08-12 09:13:28  #其他
+
+【浙江省水利廳、省氣象局8月12日8時聯合釋出山洪災害預警】據“浙江水利”公眾號訊息，浙江省水利廳、省氣象局8月12日8時聯合釋出山洪災害預警：根據省氣象臺未來降雨預報，預計8月12日8時至8月13日8時，北侖區、定海區、普陀區發生山洪災害可能性大（橙色預警），鄞州區、奉化區、象山縣、寧海縣、岱山縣發生山洪災害可能性較大（黃色預警），海曙區、餘姚市、吳興區、德清縣、長興縣、安吉縣、嵊泗縣、三門縣、溫嶺市、臨海市可能發生山洪災害（藍色預警）。
+
+---
+
+### 2026-08-12 09:12:27  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,390/oz, up 0.5% intraday; New York gold futures traded above $4,450/oz, up 0.5% intraday.
+
+---
+
+### 2026-08-12 09:12:13  #市場 #焦點
+
+現貨黃金突破4390美元/盎司，日內漲0.51%。
+
+---
+
+### 2026-08-12 09:12:09  #公司
+
+【科藍軟體與圖靈量子達成深度戰略合作 共建金融量子安全與算力一體化產業底座】據科藍軟體訊息，8月5日，北京科藍軟體系統股份有限公司（簡稱“科藍軟體”）與上海圖靈智算量子科技股份有限公司（簡稱“圖靈量子”）正式簽署戰略合作協議，雙方將打通“量子底層硬體—量子安全基礎設施—金融算力服務—銀行業務系統”全產業鏈條，打造國內金融行業量子科技規模化落地標杆。
+
+---
+
+### 2026-08-12 09:12:01  #市場 #焦點
+
+紐約期金突破4450美元/盎司，日內漲0.20%。
+
+---
+
+### 2026-08-12 09:10:39  #公司
+
+【中銀基金執行總裁張家文離任 陳衛星代任執行總裁】中銀基金今日公告稱，執行總裁張家文離任，離任日期為8月10日，離任原因為工作調整。在新任執行總裁履職前，暫由督察長、副執行總裁陳衛星代行執行總裁職務。陳衛星曆任中國銀行總行金融市場總部(託管投資服務)助理總經理、中國銀行深圳市分行黨委委員、行長助理、副行長、中國銀行總行養老金融部副總經理。 2022 年加入中銀基金管理有限公司，現任督察長，副執行總裁。
+
+---
+
+### 2026-08-12 09:09:03  #國際
+
+【美國總統特朗普就土耳其境內換機一事以安全為由作出辯解】針對此前從土耳其返程航班相關提問，美國總統特朗普表示，是美國特勤局出於安全考慮，要求他換乘另一架飛機。特朗普在安德魯斯聯合基地向記者表示：“這件事完全由特勤局決定，我只遵從他們的安排。”“我推測當時出現了相關威脅，我並沒有過多追問細節。”
+
+---
+
+### 2026-08-12 09:09:02  #MKT News #Commodities #Energy #CNH #Impact bearish
+
+Fuel oil most-active contract rose 4.00% intraday to 3,785 yuan/ton.
+
+---
+
+### 2026-08-12 09:08:54  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures rose above $84 per barrel, up 0.93% on the day.
+
+---
+
+### 2026-08-12 09:07:48  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+【Trump weighs inflation-indexed capital gains cut ahead of midterms; market implications】Trump is considering capital gains relief ahead of the midterm elections, including inflation-indexing of capital gains and raising the home-sale exclusion (currently $250,000 individual / $500,000 married). Indexing would tax only real gains — e.g., a 50% nominal gain with 20% inflation taxed only on the residual real appreciation — effectively lowering the tax burden on long-term holdings of equities, real estate and businesses and likely supporting asset prices and trading activity. Larry Kudlow publicly promoted the idea in July. These are policy signals, not law: direct rate changes or expanded exclusions require congressional legislation, and any administrative inflation-indexing would face substantial legal challenge.
+
+---
+
+### 2026-08-12 09:06:42  #其他
+
+【紐西蘭總理拉克森贏得國家黨的信任投票】紐西蘭總理拉克森表示，執政的國家黨在信任投票中支援他繼續擔任黨魁。拉克森週三在惠靈頓參加國家黨議員會議後宣佈了投票結果。這是拉克森四個月來第二次獲得黨團支援。四個月前，他曾主動發起並贏得一次信任投票，但此舉未能平息外界持續質疑他是否適合擔任總理的聲音。
+
+---
+
+### 2026-08-12 09:04:34  #其他
+
+【我國多地雨勢強勁 河南部分地區有特大暴雨】今天（8月12日），黃淮、江淮西部、華北東部等地雨勢強勁，河南多地有大暴雨；明天至15日，江淮、江南東部、東北以及山東等地也將出現強降雨。同時，華北、東北等地暑熱將緩解，南方多地最高氣溫會持續偏低，不過新疆和四川盆地的高溫仍然強盛，需做好防暑降溫措施。
+
+---
+
+### 2026-08-12 09:04:25  #其他
+
+【紐西蘭總理拉克森繼續擔任國家黨領導人】當地時間8月12日，紐西蘭國家黨召開緊急黨團會議，紐西蘭總理拉克森在黨內信任投票中獲得黨內支援，繼續擔任國家黨領導人職位。紐西蘭中右翼國家黨在2023年10月舉行的議會選舉中勝出，但因所獲議席未超半數，選擇與優先黨和行動黨組成執政聯盟。
+
+---
+
+### 2026-08-12 09:04:11  #其他
+
+鄭州市氣象臺2026年8月12日8時36分繼續釋出暴雨橙色預警訊號：目前，經開區局地累計雨量已達203毫米。預計未來3小時降水仍將持續，鄭州市主城區、上街區、航空港區等全部鄉鎮和街道有20-40毫米的降水，局地最大累計降水量可達250毫米以上，請注意防範強降雨引發的山洪、地質災害和城市內澇等次生災害。
+
+---
+
+### 2026-08-12 09:03:37  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump said he does not trust Iran.
+
+---
+
+### 2026-08-12 09:03:34  #國際
+
+【提醒】特朗普結束對記者的講話。
+
+---
+
+### 2026-08-12 09:03:08  #國際
+
+特朗普：我不信任伊朗。
+
+---
+
+### 2026-08-12 09:02:36  #MKT News
+
+US President Trump said the plane he flies will face greater risk.
+
+---
+
+### 2026-08-12 09:02:06  #MKT News
+
+U.S. President Trump said the situation with Iran is good and that the U.S. controls the Strait of Hormuz.
+
+---
+
+### 2026-08-12 09:02:02  #國際
+
+特朗普談及第三任期：我很想競選連任，但法律很硬。
+
+---
+
+### 2026-08-12 09:01:36  #MKT News #Market Themes #The Trump Trade
+
+Trump said he followed the Secret Service's instructions during a flight change.
+
+---
+
+### 2026-08-12 09:01:30  #MKT News #Market Themes #China EV Leaders
+
+Xiaomi Auto said SU7 sold 21,044 units in July 2026, marking four consecutive months as the top-selling sedan in the over-200,000 yuan price segment.
+
+---
+
+### 2026-08-12 09:01:24  #MKT News
+
+【China launches first double‑deck bulk rail‑sea intermodal half‑height container train】Today (12th) China launched its first double‑deck bulk rail‑sea intermodal half‑height container train from Baotou Wanshuiquan South station, Inner Mongolia, to Huanghua port, Hebei. The service links double‑deck rail transport with sea shipping without re‑boxing: standard 2.6m containers are compressed to 1.7m half‑height units compatible with existing port‑rail handling, enabling single‑box end‑to‑end transfer, cutting more than five transshipment steps and reducing unit transport cost by over 25%. The operator describes the option as a no‑rebox, no‑open, one‑box‑through logistics solution for bulk cargo.
 
 ---
 
@@ -18360,89 +18528,5 @@ RBNZ released a consultation paper on introducing a prudential tax, proposing a 
 ### 2026-08-11 04:59:19  #國際
 
 【伊朗“聖城旅”指揮官到訪巴格達 同伊拉克多方會晤】當地時間10日晚，伊拉克安全部門訊息人士稱，伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼當晚抵達巴格達，與伊拉克國民議會最大黨團“協調框架聯盟”、“人民動員組織”及伊拉克各民兵組織領導人舉行會晤，會晤涉及伊拉克國家武器管控等議題。
-
----
-
-### 2026-08-11 04:56:01  #其他
-
-【胡塞武裝再襲政府軍 聯合國特使警告葉門衝突升級】葉門政府軍一名軍官10日說，葉門胡塞武裝當天對該國東南部舍卜沃省一處政府軍陣地發動無人機襲擊，造成3名士兵死亡，另有9名士兵受傷。聯合國葉門問題特使漢斯·格倫德貝里當天在社交媒體發表宣告，對近期胡塞武裝頻頻襲擊葉門政府控制地區深表關切，並警告說，最新事態可能將葉門重新推入全面衝突。（新華社）
-
----
-
-### 2026-08-11 04:55:52  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Houthi drone strike kills three soldiers in Shabwah; UN envoy warns of escalation】A Houthi drone attack on the 10th against a government army position in Shabwah province in southeast Yemen killed three soldiers and wounded nine, a government officer said. UN special envoy for Yemen Hans Grundberg said on social media he is deeply concerned by the recent surge in Houthi attacks on government-held areas and warned the latest developments could push Yemen back into full-scale conflict.
-
----
-
-### 2026-08-11 04:52:08  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said AI labs and AI startups need compute capacity.
-
----
-
-### 2026-08-11 04:51:46  #公司
-
-英偉達CEO黃仁勳：人工智慧實驗室及AI初創企業存在算力需求。
-
----
-
-### 2026-08-11 04:51:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) CEO Jensen Huang said no one has turned down the new AI financing plan.
-
----
-
-### 2026-08-11 04:49:44  #公司
-
-英偉達CEO黃仁勳：對於新一輪人工智慧融資計劃，無人拒絕。
-
----
-
-### 2026-08-11 04:46:52  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500
-
-【Morgan Stanley launches $1.5 trillion US innovation infrastructure initiative focused on AI, semiconductors】Morgan Stanley said it will launch a US Innovation Infrastructure Initiative to mobilize about $1.5 trillion of capital raising, financing, advisory and related investment activity over the next 10 years to support companies, technologies and platforms seen as critical to the US economy and national security. The plan targets AI, advanced computing, quantum, semiconductors, data infrastructure, cybersecurity, aerospace and defense, and critical minerals, and aims to accelerate digital, physical and energy infrastructure buildout by integrating the firm’s investment banking, capital markets, wealth and asset-management capabilities to back firms from startup through scale.
-
----
-
-### 2026-08-11 04:44:57  #公司
-
-【OpenAI回購70億美元員工股份】OpenAI已回購員工約70億美元的公司股份，為未來可能登陸華爾街進行首次公開募股（IPO）做準備。兩名知情人士表示，OpenAI此次要約收購併未尋求外部投資者參與，而是直接從現任和前員工手中回購股份。此次交易對這家AI初創公司的估值達到8520億美元，與其最近一輪融資中的估值保持一致。過去，OpenAI曾邀請Thrive Capital和軟銀集團等投資者購買員工股份。
-
----
-
-### 2026-08-11 04:44:49  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls as Oil Prices Rally — The Ibovespa edged 0.2% lower to close at 172,180 on Monday as oil prices jumped after prospects for an agreement to reopen the Strait of Hormuz weakened. US President Donald Trump criticized Iran's demands for war compensation, while Tehran said Washington must lift its blockade before agreeing to fully reopen the waterway. Higher energy prices reignited inflation concerns, weighing on banks and the broader index. Itaú shed 0.8% and Bradesco lost 0.7%. Axia dropped 2.3% despite brokerages highlighting significant dividend potential and raising their price targets. Petrobras gained 3.3% on higher oil prices, while Vale added 1.3% despite lower iron ore prices. Embraer climbed 2.3% following a better-than-expected 2Q26 earnings report. Itaúsa shed 0.7% ahead of its results, due after the close, while Caixa Seguridade (-2%), Natura (-2.4%), and JBS (-1.7%) are also scheduled to report.
-
----
-
-### 2026-08-11 04:43:59  #MKT News #Market Themes #AI Revolution
-
-【OpenAI completes $7bn employee share buyback ahead of potential IPO】People familiar with the matter say OpenAI has completed a transaction to buy back about $7bn of shares from current and former employees as it prepares for a possible IPO. Sources said the tender did not involve external investors and bought shares directly from employees. The deal values OpenAI at $852bn, matching its most recent financing round. The company had previously invited investors such as Thrive Capital and SoftBank to purchase employee shares.
-
----
-
-### 2026-08-11 04:43:49  #公司 #市場 #國際
-
-美國稀土公司盤後下跌5%，此前公佈第二季度業績並宣佈收購計劃。
-
----
-
-### 2026-08-11 04:42:27  #市場 #國際
-
-【美戰略石油儲備降至3億桶以下 國際油價顯著上漲】國際油價10日顯著上漲，同時美國的戰略石油儲備（SPR）降至3億桶以下，徘徊在20世紀80年代以來的最低水平。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。
-
----
-
-### 2026-08-11 04:37:11  #MKT News
-
-【Fire at Pyeongtaek hazardous-chemicals warehouse storing about 1.91 mln liters】A fire broke out at a single-storey warehouse in Cheongbuk-eup, Pyeongtaek, Gyeonggi Province, South Korea, at about 00:03 on Aug 11. The facility stored Class 4 hazardous chemicals (flammable liquids), estimated at roughly 1.91 mln liters across about 100 different substances. Authorities raised a level-2 emergency response and deployed 56 vehicles and 140 personnel to fight the blaze. No casualties have been confirmed. Officials said they will investigate the cause after the fire is brought under control.
-
----
-
-### 2026-08-11 04:36:14  #國際
-
-【美以敘達成諒解 敘利亞秘密地點核材料將被轉移】美國、以色列和敘利亞達成諒解，國際原子能機構將從敘利亞一處秘密地點轉移核材料。
 
 ---

@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 04:35:50_
-_本檔包含 3196 則快訊，約 604090 字_
+_更新時間：2026-08-18 04:59:19_
+_本檔包含 3191 則快訊，約 603757 字_
+
+---
+
+### 2026-08-14 13:59:47  #其他
+
+【遊戲板塊持續走高，迅遊科技、世紀華通漲超6%】遊戲板塊持續走高，迅遊科技、世紀華通漲超6%，愷英網路、中青寶、三七互娛跟漲。
+
+---
+
+### 2026-08-14 13:56:21  #市場 #焦點
+
+焦煤連續主力合約日內漲4%，現報1525.00元。
+
+---
+
+### 2026-08-14 13:56:17  #國際
+
+日本折扣零售業巨頭特里亞控股（Trial Holdings）年營收首次突破1萬億日元大關。
+
+---
+
+### 2026-08-14 13:56:16  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+【Bank of Japan could raise rates as soon as September, sources say】Three people familiar with Bank of Japan policy thinking told foreign media the central bank could raise rates as soon as September and is considering a more aggressive tightening path than the current roughly two hikes per year. The prospective move reflects growing concern about price pressure from the Middle East conflict, strong global AI-driven demand and persistent yen weakness despite a rare Japan‑US coordinated FX intervention last month. One source said a rate hike "has entered the view," implying a likely move at the Sept. 17-18 policy meeting. The source added the bank may speed up the pace of hikes; a second source gave a similar account.
+
+---
+
+### 2026-08-14 13:56:03  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude traded above $81/bbl, up 0.7% on the day.
+
+---
+
+### 2026-08-14 13:54:32  #其他
+
+【信達生物聯合美團買藥探索即時零售 首發小規格新品】8月11日—16日，第十九屆健康產業生態大會（2026西普會）在海南博鰲舉行。會議期間，信達生物聯合美團買藥探索即時零售，釋出2mg 1支裝瑪仕度肽新品。
+
+---
+
+### 2026-08-14 13:53:49  #國際
+
+美國駐日本大使稱，美國支援日本在北方爭議領土問題上的立場。
+
+---
+
+### 2026-08-14 13:53:31  #公司
+
+【交通銀行推動全市場首單企業自貿離岸債業務落地】近日，作為主承銷團成員之一，交銀集團助力上海電氣發行全市場首單企業自貿離岸債，總額15億元，這也是自貿離岸債首次在香港交易所掛牌。本次發行是上海自貿試驗區離岸金融創新的重要進展，也是2026陸家嘴論壇《上海國際金融中心發展離岸金融行動方案》釋出後自貿離岸債領域的標誌性成果。（上證報）
+
+---
+
+### 2026-08-14 13:52:54  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan 2-year JGB yield rose 0.5 bps to 1.650%; 5-year JGB yield rose 1.5 bps to 2.135%.
+
+---
+
+### 2026-08-14 13:51:34  #MKT News #CNH #Impact bullish
+
+【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan.
+
+---
+
+### 2026-08-14 13:47:44  #其他
+
+臺積電第二季淨利潤為臺幣7067.8億元，上年同期為臺幣3974.9億元。
+
+---
+
+### 2026-08-14 13:46:28  #MKT News #Important #300017.SZ #Impact bullish
+
+China A-share compute-power leasing sector jumped intraday: DataPort hit limit-up, Wangsu Technology neared limit-up; Caixun, Xingyun Technology, Aofei Data and Litong Electronics also advanced.
+
+---
+
+### 2026-08-14 13:46:07  #MKT News
+
+【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations.
 
 ---
 
@@ -19137,113 +19215,5 @@ Lenovo Group (00992.HK) said adjusted profit attributable to equity holders rose
 ### 2026-08-13 12:08:12  #MKT News
 
 【Crew mental health deteriorates aboard USS Abraham Lincoln after prolonged deployment】Military Times reports multiple sailors aboard USS Abraham Lincoln have attempted to jump overboard amid what it calls a mental-health crisis that has reached the breaking point. About 5,000 sailors and Marines remain on a deployment that began Nov. 21 supporting U.S. actions in the Middle East against Iran; the deployment, originally due to end in May, has been extended with no return date announced. Families raised concerns about fatigue, safety and mental health at a recent online meeting. The acting Navy secretary told families a team will relieve Lincoln but gave no timeline, citing operational security; Sen. Richard Blumenthal has requested details on shipboard conditions and the extension.
-
----
-
-### 2026-08-13 12:08:02  #其他
-
-【2026未來科學大獎獲獎者名單公佈：張宏、趙東元、袁新意獲獎】未來科學大獎評審委員會於8月13日公佈2026年獲獎名單。張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；趙東元因其對介孔材料的開創性貢獻，包括合成控制、機制理解和工業應用，而獲得“物質科學獎”；袁新意因其在算術幾何領域作出的奠基性貢獻，特別是創立了Arakelov幾何中的算術大性理論，並將其開創性地應用於一致Bogomolov猜想和一致Mordell猜想，而獲得“數學與電腦科學獎”。
-
----
-
-### 2026-08-13 12:07:50  #MKT News #00992.HK #Impact bullish
-
-Lenovo Group (00992.HK) said first-quarter group revenue rose 43% YoY to $26.9 bln, a single-quarter record.
-
----
-
-### 2026-08-13 12:07:14  #國際
-
-【歐洲最高活火山持續噴發 西西里島航班遭嚴重干擾】由於義大利西西里島東岸的“歐洲最高活火山”埃特納火山持續噴發，位於火山附近的卡塔尼亞機場12日兩次宣佈延長關閉狀態，最新時限至當地時間14日2時。自7日以來，埃特納火山噴發出大量火山灰和熾熱的碎岩石。義大利國家地球物理學與火山學研究所說，兩股濃密的熔岩流分別從海拔2360米和2750米的兩個位置湧出。此後，又有兩股新的熔岩流形成。火山噴發嚴重干擾了西西里島的航班執行。卡塔尼亞機場12日先是宣佈將暫停航班起降延長至13日16時，當天深夜又將停航時限延長至14日2時。此次斷航正值度假高峰期，該機場自8日以來已有數百航班取消，另有大量航班延誤或轉至西西里島其他機場起降，數千旅客行程受到影響。埃特納火山噴發還波及馬耳他，當地因出現火山灰雲而取消部分航班。（新華社）
-
----
-
-### 2026-08-13 12:05:44  #公司
-
-【潮州應急管理局闢謠“潮州將發生10級地震”】潮州市應急管理局8月13日釋出闢謠通告：8月12、13日，有自媒體在抖音、今日頭條等平臺釋出“潮州將發生10級地震”的地震謠言。截至目前，我市沒有收到上級權威部門釋出的地震預報資訊。
-
----
-
-### 2026-08-13 12:05:17  #公司
-
-【諾仕機器人完成近億元A+輪融資】精密傳動部件供應商諾仕機器人（NOUSBOT）近日完成近億元A+輪融資。本輪由順為資本領投，望千銘誠跟投。資金將主要用於微型行星滾柱絲槓產能擴張、產品迭代及海外市場佈局。至此，該公司已完成四輪融資，歷史投資方包括上汽創投、浦東科創、聯想創投等產業資本。（科創板日報）
-
----
-
-### 2026-08-13 12:05:04  #MKT News
-
-Japan's foreign minister MOTEGI strongly protested Russian President Putin's visit to disputed islands.
-
----
-
-### 2026-08-13 12:04:51  #其他
-
-電影《四渡》官宣金鑰延期，延長上映至9月30日，據貓眼專業版資料，電影2026年6月26日上映，截至當前累計票房2.83億。
-
----
-
-### 2026-08-13 12:04:44  #其他
-
-北京市規劃自然資源委提示：08月13日12時-08月14日12時昌平、延慶、懷柔、密雲、平谷山區道路沿線區域性路段山體斜坡有發生崩塌災害的風險，請注意防範。
-
----
-
-### 2026-08-13 12:04:10  #MKT News #Commodities #Energy
-
-Abu Dhabi National Energy Company (TAQA) said 1H oil and gas production fell after scheduled decommissioning of its UK North Sea assets.
-
----
-
-### 2026-08-13 12:04:04  #其他
-
-希慎興業上半年營收17.3億港元，預估17.4億港元；希慎興業 上半年基礎盈利11.1億港元。
-
----
-
-### 2026-08-13 12:03:48  #MKT News #Commodities #Energy
-
-Abu Dhabi National Energy Company (TAQA) reported Q2 oil and gas production averaged 925,000 barrels of oil equivalent per day.
-
----
-
-### 2026-08-13 12:03:00  #市場
-
-【港股午評：三大指數窄幅震盪，科網股走勢分化，晶片股活躍，黃金股回撥 】連續2日下跌後，港股三大指數今日上午盤呈現止跌窄幅震盪行情，恒生指數微幅上漲0.07%，國企指數微跌0.04%，恒生科技指數漲0.3%。大型科網股走勢分化，騰訊績後大跌近4%，小米小幅走低，百度則漲超2%，阿里巴巴、京東飄紅；韓股強勁反彈帶動，儲存晶片股、光通訊概念股、PCB概念股集體活躍，另外，昨日領漲的黃金等有色金屬股集體下跌。
-
----
-
-### 2026-08-13 12:02:31  #公司
-
-【中國化學成立新公司 含汽車零部件製造業務】企查查APP顯示，近日，中化學科學技術研究（北京）有限公司成立，法定代表人為周偉，註冊資本為5000萬元，經營範圍包含機械裝置銷售；汽車零部件及配件製造；環境保護專用裝置製造；合成材料銷售等。企查查股權穿透顯示，該公司由中國化學間接全資持股。
-
----
-
-### 2026-08-13 12:02:27  #國際
-
-日本外相茂木敏充：對俄羅斯總統普京訪問爭議島嶼提出強烈抗議。
-
----
-
-### 2026-08-13 12:01:33  #公司
-
-【聯想集團2026/27財年第一財季業績經調整淨利同比增176% ISG利潤率達9.1%】8月13日，聯想集團（0992.HK）披露2026/27財年第一財季業績，實現營收269.43億美元（約1834億元人民幣），同比增長43%；經調整淨利潤達10.75億美元（約73億元人民幣），同比增長176%；經調整淨利潤率達4%，同比接近翻倍。其中，ISG基礎設施方案業務集團營收達579元人民幣，同比增長98%；運營利潤約53億元人民幣，同比增98%；運營利潤率為9.1%，同比提升11.1個百分點，環比提升 5.5個百分點。AI伺服器儲備訂單從上一財季的1400億元，大幅提高至3600億元人民幣。
-
----
-
-### 2026-08-13 12:00:45  #宏觀 #兩會
-
-【探索“紅燈停表”等 京滬共治外賣平臺“內卷式”競爭】今天（13日），記者從北京市市場監督管理局獲悉，平臺經濟“破卷向善”第二次協商對話在京召開。京滬兩地市場監管部門圍繞外賣騎手演算法最佳化，組織三家外賣平臺與騎手共商共治，同時邀請專家學者、人大代表等多方協商最佳化舉措，進一步保護外賣騎手合法權益，推動行業從“速度競賽”轉向“質量競爭”，圍繞演算法評估最佳化、加強管理引導、常態化協商共治等三方面推出一系列措施。演算法評估最佳化方面，三家平臺將率先集中在京落地“紅燈停表”，騎手等紅燈的時長在考核時間中順延。保障轉單場景下騎手配送時長，適度增加騎手配送考核時長；計算配送時長時，對於駕駛電動腳踏車配送的情況，以平均時速不超過15公里/小時計算；對惡劣天氣、複雜路況等加大補時力度。科學設定商家列表首頁顯示的配送參考送達時長，避免“分鐘級競速”。因商家出餐慢導致的超時訂單，不影響騎手服務分。加強管理引導方面，開展“智慧騎手”行動，探索開發騎手AI智慧體助手，為騎手提供優惠智慧裝置。加大安全分正向激勵作用，營造遵規守法良好風尚。加大技術力量投入，強化交通違法行為監測，引導騎手安全行駛並按規定停放車輛。協商共治方面，圍繞騎手演算法常態化開展“破卷向善”協商對話，履行演算法備案手續並主動公開，組織演算法宣講與答疑活動，提升演算法透明度。京滬兩地市場監管部門相關負責人表示，將繼續發揮多方協商對話機制的橋樑作用，圍繞更多行業共性問題開展專題協商，引導形成更多可感可及的舉措，為促進全國平臺經濟創新和健康發展提供有益探索。
-
----
-
-### 2026-08-13 12:00:19  #其他
-
-【廣深港高鐵跨境客流破2000萬人次】截至8月10日，廣深港高鐵今年累計運送跨境旅客達2005.4萬人次，比去年提前11天突破2000萬人次大關。其中，內地前往香港客流達1032.7萬人次；香港前往內地客流達972.7萬人次，客流雙向流動旺盛。
-
----
-
-### 2026-08-13 12:00:06  #宏觀 #兩會
-
-【外賣平臺“破卷向善” 三大平臺將在京率先落地“紅燈停表”】今天（13日），記者從北京市市場監督管理局獲悉，平臺經濟“破卷向善”第二次協商對話在京召開。京滬兩地市場監管部門圍繞外賣騎手演算法最佳化，組織三家外賣平臺與騎手共商共治，同時邀請專家學者、人大代表等多方協商最佳化舉措，進一步保護外賣騎手合法權益，推動行業從“速度競賽”轉向“質量競爭”，圍繞演算法評估最佳化、加強管理引導、常態化協商共治等三方面推出一系列措施。（央視新聞）
 
 ---
