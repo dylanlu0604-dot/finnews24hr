@@ -1,7 +1,96 @@
 {
   "date": "2026-08-17",
-  "count": 463,
+  "count": 473,
   "items": [
+    {
+      "id": "5043216",
+      "time": "2026-08-17 09:41:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜修改使用條款，再度禁止使用者發起集體訴訟】根據亞馬遜當地時間本月 14 日更新的使用條款，這家全球電商與科技巨頭帶回了曾在 2021 年被移除的一系列爭議處理條款，再度禁止使用者發起集體訴訟。此次更新的爭議條款還表示，使用者與亞馬遜的爭議或索賠應透過具有約束力的仲裁而非法律訴訟解決（例外包括符合小額索賠法庭管轄範圍、涉及智慧財產權、涉及全體公眾利益），雙方放棄在法院提起訴訟並由法官或陪審團審判的權利。"
+    },
+    {
+      "id": "te:markets:575625",
+      "time": "2026-08-17 09:41:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Drop for 4th Session as Week Opens — Australian stocks fell 26 points, or 0.3%, to 9,089 in early trade Monday, extending losses for a fourth straight session to hit a two-week low. Sentiment weakened after Wall Street’s retreat Friday, driven by a soft U.S. retail sales report and declines in tech shares. Investors also stayed cautious ahead of key data from top trading partner China later today, including July industrial output, retail sales, and the surveyed unemployment figures. Locally, Q2 housing lending in Australia slipped to a three-quarter low, though the pace of decline eased from the prior period. Meanwhile, July labor data is due later this week following June’s steady jobless rate. Sectoral weakness was broad, led by retail trade, consumer non-durables, manufacturing, and transport. Two of the four big banks slipped between 1.5% and 3.8%. Notable decliners included Suncorp Group (-4.6%), Westfarmers Ltd. (-2.9%), Pro Medicus (-2.4%), and Technology One (-1.4%)."
+    },
+    {
+      "id": "mkt:01a00d60-56dd-7aab-9053-61c3d61d663a",
+      "time": "2026-08-17 09:40:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share photoresist sector rallied; Baihehua hit the daily limit. Dawei, Gangyan Nake, Shanghai Xinyang, Kent Catalysis and Aolaide also advanced."
+    },
+    {
+      "id": "5043215",
+      "time": "2026-08-17 09:40:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率上行5個基點，報4.06%。"
+    },
+    {
+      "id": "5043214",
+      "time": "2026-08-17 09:39:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻膠板塊走高，百合花漲停】光刻膠板塊走高，百合花漲停，達威股份、鋼研納克、上海新陽、肯特催化、奧來德跟漲。"
+    },
+    {
+      "id": "5043213",
+      "time": "2026-08-17 09:39:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印度尼西亞恩代西北偏北65公里處發生5.7級地震。"
+    },
+    {
+      "id": "5043212",
+      "time": "2026-08-17 09:38:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股儲存概念股走強 兆易創新漲超5%】截至發稿，兆易創新(03986.HK)漲5.58%，瀾起科技(06809.HK)漲2.96%，偉仕佳傑(00856.HK)漲2.61%。"
+    },
+    {
+      "id": "5043211",
+      "time": "2026-08-17 09:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西安咸陽國際機場空鐵聯運旅客服務中心投用】據陝西日報，近日，西安咸陽國際機場空鐵聯運旅客服務中心在西安北站投入執行，標誌著西安空鐵聯運從產品協同邁入線下實體服務雙向覆蓋新階段。"
+    },
+    {
+      "id": "5043210",
+      "time": "2026-08-17 09:38:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖概念持續走強，卓郎智慧直線漲停】玻纖概念持續走強，卓郎智慧直線漲停，山東玻纖、中國巨石、宏和科技、金安國紀、國際復材、中材科技等跟漲。"
+    },
+    {
+      "id": "5043208",
+      "time": "2026-08-17 09:37:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.13%，成分股中，盛科通訊漲4.49%，中科飛測漲4.48%，芯原股份漲4.40%，佰維儲存漲3.68%。"
+    },
     {
       "id": "mkt:01a00d5d-5cd8-7aab-9053-5bcaf2341300",
       "time": "2026-08-17 09:36:57",
