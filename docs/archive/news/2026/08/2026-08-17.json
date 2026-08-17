@@ -1,7 +1,80 @@
 {
   "date": "2026-08-17",
-  "count": 1621,
+  "count": 1629,
   "items": [
+    {
+      "id": "mkt:01a00f09-e583-7aab-905d-689cb312d150",
+      "time": "2026-08-17 17:25:01",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "【ECB blog: frothy US tech vulnerable to correction, could have broad spillovers】The ECB said in a Monday blog that frothy US tech valuations may be vulnerable to a market correction and that limited fiscal and monetary policy space would constrain the ability to cushion any economic shock. Prices could fall even if technologies succeed and corporate profits rise because profit expectations may be overly optimistic; when investor sentiment reverses, losses can outpace what would occur under rational pricing. A US tech downturn would pose a financial‑stability risk for Europe: European household exposure to the seven largest US tech firms is roughly €440bn, with pension funds and insurers holding similar-sized exposures. Given high correlation between European and US markets, European equities would likely be affected."
+    },
+    {
+      "id": "5043986",
+      "time": "2026-08-17 17:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文峰大世界：披露2025年報監管問詢函回覆】文峰大世界公告稱，公司就2025年年報資訊披露監管問詢函相關問題作出回覆：說明貨幣資金與利息收入匹配性、短期借款相關情況，不存在與關聯方聯合共管賬戶情形；披露對巴特米食品、港能智慧的兩筆投資詳情及減值計提依據，相關資金未流向控股股東等關聯方；說明應收賬款、其他應收款相關明細及壞賬計提情況，相關款項不存在被控股股東等關聯方非經營性佔用情形。年審會計師核查後認可公司相關表述。"
+    },
+    {
+      "id": "mkt:01a00f09-6897-7aab-905d-652599f181c6",
+      "time": "2026-08-17 17:24:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alipay launches China’s first full-stack intelligent-agent commercial platform and AHA protocol】At its Aug 17 AI ecosystem partners conference, Alipay unveiled China’s first full-stack intelligent-agent commercial platform and a multi-agent cross-end interconnection AHA protocol, designed to support large-scale deployment of agents into life-service scenarios. Partners include Qianwen, Huawei, OPPO, BYD, Geely and more than 20 other firms to co-develop the intelligent-agent interconnection ecosystem."
+    },
+    {
+      "id": "5043985",
+      "time": "2026-08-17 17:23:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支付寶釋出國內首個智慧體商業底座，支援智慧體大規模進入生活服務場景】在8月17日舉行的支付寶AI生態合作伙伴大會上，支付寶釋出國內首個全棧智慧體商業底座及多智慧體跨端互聯AHA協議體系，聯合千問、華為、OPPO、比亞迪、吉利等20餘家企業共建智慧體互聯生態。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a00f08-784e-7aab-905d-5a7fd5d67310",
+      "time": "2026-08-17 17:23:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Thailand to overhaul key factory output indicator】Thailand is planning a comprehensive revision of a key factory output indicator after US officials flagged a widening gap between a surge in Thai exports and a decline in domestic production, suggesting the discrepancy could indicate goods transshipped through Thailand to evade tariffs. Thailand’s manufacturing production index contracted 3.1% while exports rose 20.8% YoY in June, marking a fourth consecutive month of double-digit export growth. Thai officials denied the US allegation, saying the current production metric is outdated, overweights traditional industries and fails to capture rapid growth in semiconductors and other AI-related electronics. The secretary-general of the National Economic and Social Development Council said Deputy Prime Minister and Finance Minister Ekniti aims to complete the revision by September."
+    },
+    {
+      "id": "mkt:01a00f07-f174-7aab-905d-54569ed4a805",
+      "time": "2026-08-17 17:22:53",
+      "tags": [
+        "MKT News",
+        "QTEC.O"
+      ],
+      "text": "Invesco Nasdaq Technology ETF said trading will be suspended from market open on Aug 18, 2026 and will resume at 10:30 on Aug 18, 2026; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "5043984",
+      "time": "2026-08-17 17:22:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百宏實業：上半年溢利9.85億元，同比增長161.6%】8月17日，百宏實業在港交所公告，2026年上半年收益約為127.12億元，較去年同期上升34%；溢利9.85億元，較去年同期上升161.6%；基本每股盈利0.47元。"
+    },
+    {
+      "id": "5043983",
+      "time": "2026-08-17 17:21:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "深圳投資控股：預計上半年未經稽核歸屬於普通股股東的淨虧損為19億至21億港元。"
+    },
     {
       "id": "5043982",
       "time": "2026-08-17 17:21:20",

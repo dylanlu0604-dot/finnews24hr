@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-17 17:22:01",
-  "count": 15249,
+  "updated": "2026-08-17 17:25:53",
+  "count": 15245,
   "items": [
+    {
+      "id": "mkt:01a00f09-e583-7aab-905d-689cb312d150",
+      "time": "2026-08-17 17:25:01",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "【ECB blog: frothy US tech vulnerable to correction, could have broad spillovers】The ECB said in a Monday blog that frothy US tech valuations may be vulnerable to a market correction and that limited fiscal and monetary policy space would constrain the ability to cushion any economic shock. Prices could fall even if technologies succeed and corporate profits rise because profit expectations may be overly optimistic; when investor sentiment reverses, losses can outpace what would occur under rational pricing. A US tech downturn would pose a financial‑stability risk for Europe: European household exposure to the seven largest US tech firms is roughly €440bn, with pension funds and insurers holding similar-sized exposures. Given high correlation between European and US markets, European equities would likely be affected."
+    },
+    {
+      "id": "5043986",
+      "time": "2026-08-17 17:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文峰大世界：披露2025年報監管問詢函回覆】文峰大世界公告稱，公司就2025年年報資訊披露監管問詢函相關問題作出回覆：說明貨幣資金與利息收入匹配性、短期借款相關情況，不存在與關聯方聯合共管賬戶情形；披露對巴特米食品、港能智慧的兩筆投資詳情及減值計提依據，相關資金未流向控股股東等關聯方；說明應收賬款、其他應收款相關明細及壞賬計提情況，相關款項不存在被控股股東等關聯方非經營性佔用情形。年審會計師核查後認可公司相關表述。"
+    },
+    {
+      "id": "mkt:01a00f09-6897-7aab-905d-652599f181c6",
+      "time": "2026-08-17 17:24:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alipay launches China’s first full-stack intelligent-agent commercial platform and AHA protocol】At its Aug 17 AI ecosystem partners conference, Alipay unveiled China’s first full-stack intelligent-agent commercial platform and a multi-agent cross-end interconnection AHA protocol, designed to support large-scale deployment of agents into life-service scenarios. Partners include Qianwen, Huawei, OPPO, BYD, Geely and more than 20 other firms to co-develop the intelligent-agent interconnection ecosystem."
+    },
+    {
+      "id": "5043985",
+      "time": "2026-08-17 17:23:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支付寶釋出國內首個智慧體商業底座，支援智慧體大規模進入生活服務場景】在8月17日舉行的支付寶AI生態合作伙伴大會上，支付寶釋出國內首個全棧智慧體商業底座及多智慧體跨端互聯AHA協議體系，聯合千問、華為、OPPO、比亞迪、吉利等20餘家企業共建智慧體互聯生態。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a00f08-784e-7aab-905d-5a7fd5d67310",
+      "time": "2026-08-17 17:23:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Thailand to overhaul key factory output indicator】Thailand is planning a comprehensive revision of a key factory output indicator after US officials flagged a widening gap between a surge in Thai exports and a decline in domestic production, suggesting the discrepancy could indicate goods transshipped through Thailand to evade tariffs. Thailand’s manufacturing production index contracted 3.1% while exports rose 20.8% YoY in June, marking a fourth consecutive month of double-digit export growth. Thai officials denied the US allegation, saying the current production metric is outdated, overweights traditional industries and fails to capture rapid growth in semiconductors and other AI-related electronics. The secretary-general of the National Economic and Social Development Council said Deputy Prime Minister and Finance Minister Ekniti aims to complete the revision by September."
+    },
+    {
+      "id": "mkt:01a00f07-f174-7aab-905d-54569ed4a805",
+      "time": "2026-08-17 17:22:53",
+      "tags": [
+        "MKT News",
+        "QTEC.O"
+      ],
+      "text": "Invesco Nasdaq Technology ETF said trading will be suspended from market open on Aug 18, 2026 and will resume at 10:30 on Aug 18, 2026; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "5043984",
+      "time": "2026-08-17 17:22:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百宏實業：上半年溢利9.85億元，同比增長161.6%】8月17日，百宏實業在港交所公告，2026年上半年收益約為127.12億元，較去年同期上升34%；溢利9.85億元，較去年同期上升161.6%；基本每股盈利0.47元。"
+    },
+    {
+      "id": "5043983",
+      "time": "2026-08-17 17:21:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "深圳投資控股：預計上半年未經稽核歸屬於普通股股東的淨虧損為19億至21億港元。"
+    },
     {
       "id": "5043982",
       "time": "2026-08-17 17:21:20",
@@ -139531,112 +139604,6 @@
         "公司"
       ],
       "text": "【天士力：部分董事及高管變更，席凱擬任總經理，蔡金勇任董事長】天士力公告稱，因工作調整，鍾江不再擔任公司第九屆董事會非獨立董事，在股東會選舉產生新任董事前繼續履職；席凱不再擔任職工代表董事，擬被增補為非獨立董事，同時被聘任為公司總經理；蔡金勇不再擔任總經理，被推舉為公司第九屆董事會董事長。上述人員任期至第九屆董事會屆滿。截至公告日，三人未持有公司股票，無未履行承諾事項。"
-    },
-    {
-      "id": "5033732",
-      "time": "2026-08-10 17:25:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海優新材：擬向全資子公司泰州海優威增資4500萬元】海優新材公告，公司擬以自有資金或自籌資金向全資子公司泰州海優威應用材料有限公司增資人民幣4500萬元。本次增資事項已經公司第四屆董事會第三十八次會議審議透過，無需提交公司股東會審議。增資完成後泰州海優威註冊資本將由人民幣1.5億元增至1.95億元，公司持股比例保持100%。本次增資不構成關聯交易，亦不構成重大資產重組。"
-    },
-    {
-      "id": "5033731",
-      "time": "2026-08-10 17:25:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行稱，各銀行向其存入2萬億歐元隔夜存款。"
-    },
-    {
-      "id": "mkt:019feafd-d4b2-7aab-8fd6-b09002b0a40b",
-      "time": "2026-08-10 17:25:31",
-      "tags": [
-        "MKT News",
-        "2317.TW",
-        "Impact bearish"
-      ],
-      "text": "Foxconn's electric-vehicle unit Foxtron reported a Jan–June net loss of NT$2.01 billion, or a NT$1.15 loss per share."
-    },
-    {
-      "id": "te:economy:574119",
-      "time": "2026-08-10 17:25:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Greece",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Greece Industrial Production Expands for 10th Month — Industrial output in Greece rose by 1.1% from the previous year in June of 2026, slowing from the downwardly revised 3.7% in the previous month. Still, it marked ten consecutive months of growth despite turbulent macroeconomic conditions in the period due to the war in the Middle East and its impact on higher energy prices for goods producers. Growth was supported by manufacturing (2.4%) amid higher output for machinery and equipment (5%), fabricated metal products (2.2%), printing and reproduction of recorded products (8.1%), textiles (2.2%), and food (2.2%). In turn, production fell for mining and quarrying (-3%), electricity supply (-3.8%), and water supply (-2.6%). From the previous month, industrial production eased by 0.4%."
-    },
-    {
-      "id": "5033730",
-      "time": "2026-08-10 17:25:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【依頓電子：控股股東九洲集團首次增持330萬股】依頓電子公告，控股股東四川九洲投資控股集團有限公司於2026年8月10日透過上海證券交易所集中競價交易方式首次增持公司股份330萬股，佔公司總股本比例約為0.33%，增持金額為人民幣3784.25萬元。根據此前披露的增持計劃，九洲集團擬自2026年8月8日起3個月內增持公司股份，累計增持數量不低於總股本的1%且不超過總股本的2%。本次增持前，九洲集團持有公司股份3億股，佔公司總股本的30.00000%。"
-    },
-    {
-      "id": "5033729",
-      "time": "2026-08-10 17:24:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海螺水泥：8月10日回購85萬股 耗資1518.45萬元】海螺水泥公告稱，8月10日，公司透過上海證券交易所回購85萬股股份，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.0215%，每股回購價在17.83-17.94元之間，付出的價格總額為1518.45萬元，回購股份將被持作庫存股份。截至8月10日，公司庫存股份為2721.98萬股。"
-    },
-    {
-      "id": "5033728",
-      "time": "2026-08-10 17:24:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄石化重鎮遭烏無人機襲擊 俄偵委稱以恐襲立案偵查】當地時間8月10日，俄羅斯聯邦偵查委員會通報稱，已經以恐怖襲擊對下卡姆斯克市遭無人機襲擊一事立案偵查。俄偵委會表示，遭襲目標均為與軍事行動無關的平民，死者中有一名兒童。截至目前，據俄韃靼斯坦共和國官方通報，烏克蘭方面對下卡姆斯克市的無人機襲擊已造成13人死亡。烏克蘭方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "5033727",
-      "time": "2026-08-10 17:23:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德銀Q2增持美光科技 英偉達位列第一重倉股】根據美國證監會(SEC)披露，德意志銀行二季度持倉總市值達3440億美元，上一季度總市值為3030億美元，環比增長13.5%。在前十大重倉股中：英偉達躍居第一位，持倉9195.4萬股，持倉市值約183.99億美元，佔投資組合比重為5.34%。從持倉比例變化來看，前五大買入標的分別是：美光科技、谷歌-A、邁威爾科技、谷歌-C、亞馬遜。"
-    },
-    {
-      "id": "5033726",
-      "time": "2026-08-10 17:23:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院任免國家工作人員：免去羅文的國家市場監督管理總局局長職務】國務院任免國家工作人員。任命孫碩鵬為民政部副部長；任命蔣瑋（女）為中國老齡協會會長。免去羅文的國家市場監督管理總局局長職務；免去孫碩鵬的中國老齡協會會長職務。(央視新聞)"
-    },
-    {
-      "id": "5033725",
-      "time": "2026-08-10 17:23:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "Raysearch公佈訂單最新情況後股價上漲4.7%。"
-    },
-    {
-      "id": "5033724",
-      "time": "2026-08-10 17:22:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盟固利：1.87億股限售股8月12日上市流通】盟固利公告稱，本次解除限售的股份為首次公開發行部分限售股份，解除限售股東共4戶，數量為1.87億股，佔公司總股本的40.6475%，限售期36個月，上市流通日期為2026年8月12日。截至公告出具日，股東均嚴格履行承諾，不存在相關承諾未履行影響限售股上市流通的情況。此外，公司控股股東及其一致行動人在2025年度向特定物件發行股票事項中有相關減持承諾，該發行正在履行註冊程式。"
-    },
-    {
-      "id": "mkt:019feafa-ea1f-7aab-8fd6-ab2fdf20cf9c",
-      "time": "2026-08-10 17:22:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Singapore's Straits Times Index closed up 1.05% at 5,698.43 points."
     }
   ]
 }
