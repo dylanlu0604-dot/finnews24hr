@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-17 15:57:56",
-  "count": 15223,
+  "updated": "2026-08-17 16:01:47",
+  "count": 15228,
   "items": [
+    {
+      "id": "mkt:01a00ebd-399a-7aab-905b-54f458871f82",
+      "time": "2026-08-17 16:01:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "US S&P 500 E-mini futures rose 0.18%, Nasdaq-100 futures gained 0.54%, and Dow Jones futures fell 0.09%."
+    },
+    {
+      "id": "mkt:01a00ebd-2816-7aab-905b-4d3c89890aa2",
+      "time": "2026-08-17 16:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank opened a one-week gold-for-lira sell-side swap auction via the conventional method, size 4 tonnes."
+    },
+    {
+      "id": "mkt:01a00ebd-1fe8-7aab-905b-42fdd27820f4",
+      "time": "2026-08-17 16:01:10",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【NBS: China's fixed‑asset investment down YoY in first seven months; structure and quality improving】China's fixed‑asset investment fell year‑on‑year in the first seven months, NBS spokesperson and chief economist Fu Linghui said at a State Council briefing on Aug 17. He attributed the decline to localized heat and heavy rain delaying construction, a complex external environment and a domestic economic transition and adjustment phase. Officials said assessment should emphasize investment structure, quality and efficiency as well as headline growth. Strengthened innovation and more effective policy implementation this year have pushed investment to play a larger role in promoting industrial transformation, shoring up infrastructure and supporting livelihoods, shown by wider, higher‑quality investment in new sectors, continued increases in key areas and bigger allocations to people‑focused spending. NBS said investment structure is steadily optimising and quality rising, which should help sustain growth momentum."
+    },
+    {
+      "id": "5043762",
+      "time": "2026-08-17 16:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：禁止兩名法國駐伊朗大使館員工返回伊朗。"
+    },
+    {
+      "id": "5043761",
+      "time": "2026-08-17 16:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，儲存晶片股普漲，閃迪漲約6%，SK海力士漲約4%，希捷科技漲約3%，西部資料漲約4%，美光科技漲約3%。"
+    },
+    {
+      "id": "mkt:01a00ebc-e081-7aab-905b-3fa9f433f091",
+      "time": "2026-08-17 16:00:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "Lead",
+        "Impact bullish",
+        "Aluminium"
+      ],
+      "text": "LME inventories: nickel +30t, copper +2,850t, lead -1,700t, tin -165t, aluminium -1,375t, zinc -1,175t."
+    },
+    {
+      "id": "5043760",
+      "time": "2026-08-17 16:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鎳庫存增加30噸，銅庫存增加2850噸，鉛庫存減少1700噸，錫庫存減少165噸，鋁庫存減少1375噸，鋅庫存減少1175噸。"
+    },
+    {
+      "id": "5043759",
+      "time": "2026-08-17 16:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國農業發展銀行原黨委委員、副行長徐一丁嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00ebc-7f40-7aab-905b-3590f9af0904",
+      "time": "2026-08-17 16:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said two staff at the French embassy in Tehran have been barred from returning to Iran."
+    },
+    {
+      "id": "5043758",
+      "time": "2026-08-17 16:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤基本持平，報1727.46。"
+    },
+    {
+      "id": "5043757",
+      "time": "2026-08-17 16:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其中央銀行透過傳統方式開展4噸一週期“黃金換里拉”賣方掉券拍賣。"
+    },
+    {
+      "id": "te:markets:575774",
+      "time": "2026-08-17 16:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 3.32% — Top commodity losers are Natural gas (-3.32%) and Crude Oil WTI (-0.53%). Gains are led by Natural Gas UK (0.91%), Natural Gas EU (0.65%) and Brent Crude Oil (0.06%)."
+    },
+    {
+      "id": "5043756",
+      "time": "2026-08-17 15:58:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月杭州新房價格環比漲幅居前】國家統計局的資料顯示，7月，70個大中城市中，新房價格環比上漲的城市有17個，比上月減少3個。其中，杭州漲幅0.3%，位居第一；長春、上海、深圳、揚州漲幅均為0.2%，並列第二；大連、南京、寧波、青島、武漢、廣州、南寧、重慶、無錫、煙臺、濟寧、宜昌漲幅均為0.1%，並列第三。"
+    },
+    {
+      "id": "5043755",
+      "time": "2026-08-17 15:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬馬科技：股東閆楠10萬股股份將於9月被司法拍賣】萬馬科技公告稱，浙江省杭州市臨安區人民法院將於2026年9月15日10時至9月16日10時，在淘寶網司法拍賣網路平臺，將股東閆楠所持公司的10萬股股份（佔其所持股份4.17%，佔公司總股本0.07%）公開拍賣，該股份為董事離職限售股。截至公告披露日，閆楠累計240萬股公司股份正處司法拍賣流程，其中230萬股已完成競拍但未過戶，10萬股正處公告階段。閆楠非控股股東等，本次拍賣不影響公司控制權。"
+    },
+    {
+      "id": "5043754",
+      "time": "2026-08-17 15:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森林包裝：以5098.27萬元購買康恩貝印刷包裝100%股權】森林包裝公告稱，2026年8月6日，公司以5098.27萬元的轉讓價，在浙江產權交易所以公開競拍的方式中標康恩貝持有的康恩貝印刷包裝100%股權。8月17日，公司與康恩貝簽訂《東陽市康恩貝印刷包裝有限公司100%股權交易合同》。公司採用一次性付款方式，將在合同生效之日起5個工作日內完成支付。公司將持續履約並及時披露進展。"
+    },
+    {
+      "id": "5043753",
+      "time": "2026-08-17 15:57:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維科技術：持股5%以上股東減持201.44萬股 減持計劃實施完畢】維科技術公告稱，截至減持計劃實施前，寧波市工業投資有限責任公司及一致行動人寧波工業投資集團有限公司合計持有公司5.12%股份。2026年5月15日至8月14日，寧波市工業投資有限責任公司透過集中競價交易減持201.44萬股，減持比例0.38%，減持總金額2447.84萬元。本次減持計劃已實施完畢，二者目前合計持股比例降至4.74%。"
+    },
     {
       "id": "mkt:01a00eb8-785d-7aab-905b-2c6c09bb2255",
       "time": "2026-08-17 15:56:05",
@@ -139279,109 +139427,6 @@
         "國際"
       ],
       "text": "美國標普500微型股指期貨上漲0.2%，納斯達克股指期貨上漲0.4%，道瓊斯股指期貨持平。"
-    },
-    {
-      "id": "5033526",
-      "time": "2026-08-10 16:01:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前普漲，SpaceX漲1%】美股大型科技股盤前普漲，SpaceX漲1%，特斯拉、美光科技漲0.9%，英偉達漲0.5%，SK海力士、谷歌A漲0.4%，Meta漲0.2%，亞馬遜、微軟、蘋果持平。"
-    },
-    {
-      "id": "5033525",
-      "time": "2026-08-10 16:01:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前多數上漲，貝殼漲2%】美股中概股盤前多數上漲，貝殼漲2%，百濟神州漲0.8%，阿里巴巴漲0.7%，京東漲0.4%，攜程漲0.3%，拼多多漲0.2%，理想汽車、網易跌1%。"
-    },
-    {
-      "id": "mkt:019feab0-5461-7aab-8fd4-ad29f408207a",
-      "time": "2026-08-10 16:00:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Lead",
-        "Aluminium"
-      ],
-      "text": "LME stocks: zinc +50 tonnes, lead -2,775 tonnes, copper -4,675 tonnes, aluminium -1,500 tonnes, tin -100 tonnes; nickel unchanged."
-    },
-    {
-      "id": "5033524",
-      "time": "2026-08-10 16:00:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鋅庫存增加50噸，鉛庫存減少2775噸，銅庫存減少4675噸，鋁庫存減少1500噸，錫庫存減少100噸，鎳庫存持平。"
-    },
-    {
-      "id": "5033523",
-      "time": "2026-08-10 16:00:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【陽光照明：向泰國子公司增資3.24億 推進海外生產基地建設】陽光照明公告稱，公司於2026年3月6日決定以自有資金向全資子公司泰國陽光增資3.24億元，建設泰國生產基地。目前已完成境外投資備案登記，確定在泰國春武里府愛馬仕園區建設，土地面積約107.3畝，泰國陽光已簽署《土地買賣協議》並支付定金，權屬轉移登記預計9月15日前完成。截至公告日，公司已支付增資款1億元。本次交易不構成關聯和重大資產重組，但存在審批、經營及匯率風險。"
-    },
-    {
-      "id": "te:markets:574085",
-      "time": "2026-08-10 16:00:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.94% — Top commodity gainers are Natural Gas UK (3.94%), Natural Gas EU (3.50%), Natural gas (3.40%), Brent Crude Oil (0.25%) and Crude Oil WTI (0.07%)."
-    },
-    {
-      "id": "te:markets:574084",
-      "time": "2026-08-10 16:00:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Rises to Fresh High — The DAX 40 edged up 0.2% to around 26,360 in early trading on Monday, extending the previous week’s gains and reaching a fresh all-time high. Still, investors remained alert to developments in the Middle East amid uncertainty over the reopening of the Strait of Hormuz. Iran and Oman remained short of a final deal, with Tehran demanding major concessions before agreeing to reopen the critical waterway. Siemens Energy rose 2.5%, while Infineon gained 3.0%, supported by continued strength in the technology and industrial sectors. Allianz advanced 1.4%, Merck gained 1.2%, and Qiagen NV climbed 2.6%. On the other hand, sharp losses were seen in Porsche Automobil (-2.5%), Siemens Healthineers (-1.3%), and Brenntag (-1.5%)."
-    },
-    {
-      "id": "5033522",
-      "time": "2026-08-10 15:59:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中礦資源：子公司兩條高純鋰鹽生產線恢復生產】中礦資源公告，公司全資子公司江西中礦鋰業此前因鋰精礦運輸與生產排程錯配，自2026年6月30日起對“年產3萬噸高純鋰鹽”和“年產3.5萬噸高純鋰鹽”生產線臨時停產檢修。截至公告披露日，檢修工作已完成，公司決定“年產3萬噸高純鋰鹽”生產線於2026年8月10日恢復生產，“年產3.5萬噸高純鋰鹽”生產線計劃於2026年8月中旬逐步恢復生產。"
-    },
-    {
-      "id": "mkt:019feaae-851f-7aab-8fd4-a61390120a3b",
-      "time": "2026-08-10 15:58:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says no current discussion on Hormuz transit fees; proposed accord would include related provisions】IRNA: Foreign Ministry spokesperson Baghaei said at a press briefing that Iran and Oman have not yet discussed fee details for a proposed new Strait of Hormuz shipping route and discussions are ongoing. He said the parties have agreed on route proposals but technical issues remain on a joint statement and are under negotiation. While fee details have not been settled, a mechanism will be set up to ensure safe navigation and to arrange environmental protection, maritime-service cooperation and anti-crime measures, and maritime services are expected to be compensated."
-    },
-    {
-      "id": "5033521",
-      "time": "2026-08-10 15:58:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST啟環：持股5%以上股東部分股份將被第四次拍賣】*ST啟環公告稱，股東桑德集團及其一致行動人桑德投資合計持有公司股份102,338,553股，佔總股本7.18%。本次擬第四次拍賣其合計持有的50,713,780股股份，佔其持股總數的49.55%，佔公司總股本3.56%。拍賣事項尚處公示階段，結果存在不確定性，所導致的被動減持不會對公司治理及經營產生重大影響，也不會導致公司控制權變更。"
-    },
-    {
-      "id": "5033520",
-      "time": "2026-08-10 15:58:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部針對冀魯豫鄂4省啟動洪水防禦Ⅳ級應急響應】據預報，受第13號颱風“白海豚”和冷空氣共同影響，8月10日至16日，湖北、河南、河北、山東將先後出現大到暴雨，其中湖北西北部、河南東南部和北部、河北中部南部等地部分地區將有大暴雨，區域性將有特大暴雨。受降雨影響，長江中游幹流及支流漢江，淮河上中游干支流及沂沭泗水系，黃河中下游幹流及支流伊洛河、沁河，海河流域漳衛河、徒駭馬頰河、子牙河、大清河等主要河流將出現明顯漲水過程；其中沙潁河、伊洛河、黃河、衛河等主要河流可能發生編號洪水，湖北漢江支流北河，河南沙潁河上游支流北汝河、伊洛河支流蠻峪河、衛河支流淇河，河北滏陽河水系李陽河，山東沭河支流雞龍河等中小河流可能發生較大洪水。依據《水利部水旱災害防禦應急響應工作規程》，水利部於8月10日14時針對河北、山東、河南、湖北省啟動洪水防禦Ⅳ級應急響應。"
     }
   ]
 }

@@ -1,7 +1,155 @@
 {
   "date": "2026-08-17",
-  "count": 1312,
+  "count": 1328,
   "items": [
+    {
+      "id": "mkt:01a00ebd-399a-7aab-905b-54f458871f82",
+      "time": "2026-08-17 16:01:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "US S&P 500 E-mini futures rose 0.18%, Nasdaq-100 futures gained 0.54%, and Dow Jones futures fell 0.09%."
+    },
+    {
+      "id": "mkt:01a00ebd-2816-7aab-905b-4d3c89890aa2",
+      "time": "2026-08-17 16:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank opened a one-week gold-for-lira sell-side swap auction via the conventional method, size 4 tonnes."
+    },
+    {
+      "id": "mkt:01a00ebd-1fe8-7aab-905b-42fdd27820f4",
+      "time": "2026-08-17 16:01:10",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【NBS: China's fixed‑asset investment down YoY in first seven months; structure and quality improving】China's fixed‑asset investment fell year‑on‑year in the first seven months, NBS spokesperson and chief economist Fu Linghui said at a State Council briefing on Aug 17. He attributed the decline to localized heat and heavy rain delaying construction, a complex external environment and a domestic economic transition and adjustment phase. Officials said assessment should emphasize investment structure, quality and efficiency as well as headline growth. Strengthened innovation and more effective policy implementation this year have pushed investment to play a larger role in promoting industrial transformation, shoring up infrastructure and supporting livelihoods, shown by wider, higher‑quality investment in new sectors, continued increases in key areas and bigger allocations to people‑focused spending. NBS said investment structure is steadily optimising and quality rising, which should help sustain growth momentum."
+    },
+    {
+      "id": "5043762",
+      "time": "2026-08-17 16:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：禁止兩名法國駐伊朗大使館員工返回伊朗。"
+    },
+    {
+      "id": "5043761",
+      "time": "2026-08-17 16:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，儲存晶片股普漲，閃迪漲約6%，SK海力士漲約4%，希捷科技漲約3%，西部資料漲約4%，美光科技漲約3%。"
+    },
+    {
+      "id": "mkt:01a00ebc-e081-7aab-905b-3fa9f433f091",
+      "time": "2026-08-17 16:00:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "Lead",
+        "Impact bullish",
+        "Aluminium"
+      ],
+      "text": "LME inventories: nickel +30t, copper +2,850t, lead -1,700t, tin -165t, aluminium -1,375t, zinc -1,175t."
+    },
+    {
+      "id": "5043760",
+      "time": "2026-08-17 16:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鎳庫存增加30噸，銅庫存增加2850噸，鉛庫存減少1700噸，錫庫存減少165噸，鋁庫存減少1375噸，鋅庫存減少1175噸。"
+    },
+    {
+      "id": "5043759",
+      "time": "2026-08-17 16:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國農業發展銀行原黨委委員、副行長徐一丁嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00ebc-7f40-7aab-905b-3590f9af0904",
+      "time": "2026-08-17 16:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman Baghaei said two staff at the French embassy in Tehran have been barred from returning to Iran."
+    },
+    {
+      "id": "5043758",
+      "time": "2026-08-17 16:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤基本持平，報1727.46。"
+    },
+    {
+      "id": "5043757",
+      "time": "2026-08-17 16:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其中央銀行透過傳統方式開展4噸一週期“黃金換里拉”賣方掉券拍賣。"
+    },
+    {
+      "id": "te:markets:575774",
+      "time": "2026-08-17 16:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 3.32% — Top commodity losers are Natural gas (-3.32%) and Crude Oil WTI (-0.53%). Gains are led by Natural Gas UK (0.91%), Natural Gas EU (0.65%) and Brent Crude Oil (0.06%)."
+    },
+    {
+      "id": "5043756",
+      "time": "2026-08-17 15:58:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月杭州新房價格環比漲幅居前】國家統計局的資料顯示，7月，70個大中城市中，新房價格環比上漲的城市有17個，比上月減少3個。其中，杭州漲幅0.3%，位居第一；長春、上海、深圳、揚州漲幅均為0.2%，並列第二；大連、南京、寧波、青島、武漢、廣州、南寧、重慶、無錫、煙臺、濟寧、宜昌漲幅均為0.1%，並列第三。"
+    },
+    {
+      "id": "5043755",
+      "time": "2026-08-17 15:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬馬科技：股東閆楠10萬股股份將於9月被司法拍賣】萬馬科技公告稱，浙江省杭州市臨安區人民法院將於2026年9月15日10時至9月16日10時，在淘寶網司法拍賣網路平臺，將股東閆楠所持公司的10萬股股份（佔其所持股份4.17%，佔公司總股本0.07%）公開拍賣，該股份為董事離職限售股。截至公告披露日，閆楠累計240萬股公司股份正處司法拍賣流程，其中230萬股已完成競拍但未過戶，10萬股正處公告階段。閆楠非控股股東等，本次拍賣不影響公司控制權。"
+    },
+    {
+      "id": "5043754",
+      "time": "2026-08-17 15:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森林包裝：以5098.27萬元購買康恩貝印刷包裝100%股權】森林包裝公告稱，2026年8月6日，公司以5098.27萬元的轉讓價，在浙江產權交易所以公開競拍的方式中標康恩貝持有的康恩貝印刷包裝100%股權。8月17日，公司與康恩貝簽訂《東陽市康恩貝印刷包裝有限公司100%股權交易合同》。公司採用一次性付款方式，將在合同生效之日起5個工作日內完成支付。公司將持續履約並及時披露進展。"
+    },
+    {
+      "id": "5043753",
+      "time": "2026-08-17 15:57:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維科技術：持股5%以上股東減持201.44萬股 減持計劃實施完畢】維科技術公告稱，截至減持計劃實施前，寧波市工業投資有限責任公司及一致行動人寧波工業投資集團有限公司合計持有公司5.12%股份。2026年5月15日至8月14日，寧波市工業投資有限責任公司透過集中競價交易減持201.44萬股，減持比例0.38%，減持總金額2447.84萬元。本次減持計劃已實施完畢，二者目前合計持股比例降至4.74%。"
+    },
     {
       "id": "mkt:01a00eb8-785d-7aab-905b-2c6c09bb2255",
       "time": "2026-08-17 15:56:05",
