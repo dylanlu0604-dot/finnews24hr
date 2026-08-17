@@ -1,7 +1,38 @@
 {
   "date": "2026-08-17",
-  "count": 799,
+  "count": 802,
   "items": [
+    {
+      "id": "mkt:01a00deb-0154-7aab-9055-ffe10639cb19",
+      "time": "2026-08-17 12:11:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EUR/USD broke above 1.1585, its highest level since June 17."
+    },
+    {
+      "id": "5043451",
+      "time": "2026-08-17 12:11:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元升至1.15853美元上方，為6月17日以來最高。"
+    },
+    {
+      "id": "5043450",
+      "time": "2026-08-17 12:10:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【VinFast 與 Gowa Motor 簽署諒解備忘錄 佈局印尼電動汽車經銷合資專案】據企業公告，Vingroup 集團旗下 VinFast 與 Gowa 汽車集團簽署諒解備忘錄，擬成立合資企業，在印尼全國搭建電動汽車經銷網路。該合資企業目標是在印尼建成至少 30 家展廳及服務中心。簽署協議的代表包括 VinFast 東南亞區執行長安東尼奧・扎拉、Gowa 汽車集團專員薩迪金・阿克薩。"
+    },
     {
       "id": "mkt:01a00de8-c8d6-7aab-9055-f23b8797bf56",
       "time": "2026-08-17 12:09:14",
