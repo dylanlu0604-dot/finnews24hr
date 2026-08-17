@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-18 04:08:19",
-  "count": 15228,
+  "updated": "2026-08-18 04:12:13",
+  "count": 15227,
   "items": [
+    {
+      "id": "mkt:01a01158-963d-7aab-9069-708dd3f6ed16",
+      "time": "2026-08-18 04:10:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【China, UK, Japan reduced US Treasury holdings in June】U.S. Treasury data showed holdings of U.S. Treasuries by Japan, the United Kingdom and China fell month-on-month in June. Japan held $1.117 trillion, down $26.4 billion; the UK held $939.9 billion, down $8.7 billion; China held $633.4 billion, down $26.0 billion."
+    },
+    {
+      "id": "5044759",
+      "time": "2026-08-18 04:10:12",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中英日在6月均減持美債】美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。"
+    },
     {
       "id": "5044758",
       "time": "2026-08-18 04:03:56",
@@ -139524,40 +139550,6 @@
         "Brent"
       ],
       "text": "German foreign minister Wadephul told Iranian foreign minister Araghchi in a call he urged Iran to enter constructive talks with regional neighbors and the US to end the conflict. He said the Strait of Hormuz must be unconditionally open to ensure all vessels can navigate freely and safely."
-    },
-    {
-      "id": "te:markets:574197",
-      "time": "2026-08-11 04:10:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Retreat on Fed Hike Concerns — US stock indices closed slightly lower on Monday as markets assessed the outlook for interest rates this year. The S&P 500 lost 0.1%, the Nasdaq retreated 0.3%, and the Dow shed 61 points. A rally in oil prices pushed bond yields higher on concerns over energy-driven inflation, just days ahead of the CPI report. Higher energy costs raised fears that the Federal Reserve may need to raise rates this year despite a cooling labor market. Credit-sensitive stocks were mixed, with financials mostly lower. Visa shed 0.3%, Amex lost 0.6%, and Morgan Stanley fell 0.5%. Chipmakers tumbled, with Nvidia down 2.9% amid reports that Wall Street giants are working with the company on a $500 billion AI funding package. Intel fell 4.1% as it prepares to offer $15 billion in stock. Apple also declined 1.5% after Jefferies downgraded the stock to underperform. Meanwhile, hyperscalers mostly gained after brokers signaled strong demand for cloud services, with Microsoft up 1.2% and SpaceX advancing 4.2%."
-    },
-    {
-      "id": "mkt:019fed4b-2782-7aab-8fe0-a96b5e29dd73",
-      "time": "2026-08-11 04:09:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The SEC filed suit against Adit Ventures Management and others, alleging they defrauded investors and misused client funds in pre-IPO investments in SpaceX and Klarna.com."
-    },
-    {
-      "id": "mkt:019fed4a-58f6-7aab-8fe0-a0dae48cc845",
-      "time": "2026-08-11 04:08:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O): new financing platform aims to convert the company’s compute and full‑stack AI infrastructure into an asset class investable by global capital."
     }
   ]
 }

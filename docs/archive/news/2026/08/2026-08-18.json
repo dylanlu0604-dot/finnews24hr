@@ -1,7 +1,33 @@
 {
   "date": "2026-08-18",
-  "count": 251,
+  "count": 253,
   "items": [
+    {
+      "id": "mkt:01a01158-963d-7aab-9069-708dd3f6ed16",
+      "time": "2026-08-18 04:10:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【China, UK, Japan reduced US Treasury holdings in June】U.S. Treasury data showed holdings of U.S. Treasuries by Japan, the United Kingdom and China fell month-on-month in June. Japan held $1.117 trillion, down $26.4 billion; the UK held $939.9 billion, down $8.7 billion; China held $633.4 billion, down $26.0 billion."
+    },
+    {
+      "id": "5044759",
+      "time": "2026-08-18 04:10:12",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中英日在6月均減持美債】美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。"
+    },
     {
       "id": "5044758",
       "time": "2026-08-18 04:03:56",
