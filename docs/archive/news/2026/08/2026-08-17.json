@@ -1,7 +1,76 @@
 {
   "date": "2026-08-17",
-  "count": 988,
+  "count": 996,
   "items": [
+    {
+      "id": "mkt:01a00e4f-dc0c-7aab-9057-b6ef7bf8f595",
+      "time": "2026-08-17 14:01:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equity futures rose: Euro Stoxx 50 futures +0.32%, DAX futures +0.27%, CAC 40 futures +0.24%, FTSE 100 futures +0.20%."
+    },
+    {
+      "id": "5043579",
+      "time": "2026-08-17 14:01:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1338.95美元/盎司。"
+    },
+    {
+      "id": "mkt:01a00e4e-d120-7aab-9057-a876e68d5849",
+      "time": "2026-08-17 14:00:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says media a battlefield; IRGC claims state media repelled hostile information offensive】IRGC spokesman Mohbi said media are part of the combat mechanism in hybrid warfare and media professionals act as officers on that front. He said Iranian state media appeared promptly and successfully resisted an enemy information offensive."
+    },
+    {
+      "id": "5043578",
+      "time": "2026-08-17 14:00:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【涉及出借營業執照等違法行為 招投標領域系統整治典型案例公佈】記者今天（17日）瞭解到，市場監管總局組織指導全國市場監管部門依法查處招標投標領域相關違法行為，著力營造規範有序、公平競爭的招標投標市場環境。現公佈第二批典型案例。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a00e4e-4ae3-7aab-9057-a72067274972",
+      "time": "2026-08-17 14:00:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Wenzhou maritime authority issues navigational warning for military exercises east of Oufeitan】China's Wenzhou Maritime Safety Administration posted a navigational warning on the China Maritime Safety Administration website saying military training will take place in waters east of Oufeitan, Wenzhou. The area will be closed to navigation on Aug 18 13:30–15:30, Aug 19 14:30–16:30 and Aug 20 09:00–16:30 (local time)."
+    },
+    {
+      "id": "5043577",
+      "time": "2026-08-17 14:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭敖德薩州州長表示，俄羅斯夜間襲擊港口基礎設施，導致一艘懸掛多哥國旗的民用船隻受損。"
+    },
+    {
+      "id": "5043576",
+      "time": "2026-08-17 13:59:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新加坡住宅銷量回升 開發商恢復專案推出】新加坡7月份的住宅銷量有所回升，此前該資料在6月份曾跌至兩年多以來的最低點，因為新專案吸引了買家且學校假期已結束。根據市區重建局週一公佈的資料，開發商上月售出731套新建私人住宅。相比之下，6月份的銷量為156套，去年同期為940套。"
+    },
+    {
+      "id": "5043575",
+      "time": "2026-08-17 13:59:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！溫州甌飛灘以東水域軍事活動】據中國海事局網站訊息，溫州海事局釋出航行警告，8月18日13時30分至15時30分、8月19日14時30分至16時30分、8月20日9時至16時30分，溫州甌飛灘以東水域開展軍事訓練，禁止駛入。"
+    },
     {
       "id": "5043574",
       "time": "2026-08-17 13:59:14",
