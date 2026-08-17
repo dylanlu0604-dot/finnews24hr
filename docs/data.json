@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-17 22:58:32",
-  "count": 15212,
+  "updated": "2026-08-17 23:02:31",
+  "count": 15215,
   "items": [
+    {
+      "id": "mkt:01a0103d-9034-7aab-9065-2372e46ad1e8",
+      "time": "2026-08-17 23:01:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SYF.O"
+      ],
+      "text": "Synchrony Financial said it has entered an enterprise partnership with OpenAI to deploy GPT-5.6 Sol, Terra and Luna models and to launch a ChatGPT plugin."
+    },
+    {
+      "id": "mkt:01a0103d-52df-7aab-9065-1b8b29645de6",
+      "time": "2026-08-17 23:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CNH"
+      ],
+      "text": "As of 23:00 close, China’s main futures contracts were mostly higher: ethylene glycol (EG) up nearly 3%, synthetic rubber up over 2%, liquefied petroleum gas (LPG) up nearly 2%. Fuel oil, bottle‑grade PET chips, benzene and asphalt rose above 1%; PTA up nearly 1%. Starch fell more than 1%."
+    },
+    {
+      "id": "5044560",
+      "time": "2026-08-17 23:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Synchrony 將部署 GPT‑5.6 SOL、TERRA、LUNA 模型。"
+    },
+    {
+      "id": "5044559",
+      "time": "2026-08-17 23:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Synchrony 宣佈與 OpenAI 達成企業合作協議。"
+    },
+    {
+      "id": "te:markets:575899",
+      "time": "2026-08-17 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.62% — Top currency gainers are Brazilian Real (0.62%), Swiss Franc (0.46%), Australian Dollar (0.41%), Euro (0.15%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5044558",
+      "time": "2026-08-17 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續漲2.96%，液化石油氣連續漲1.83%，澱粉連續跌1.03%，燃料油連續漲1.00%，瀝青連續漲1.00%。"
+    },
+    {
+      "id": "mkt:01a0103c-381b-7aab-9065-112934785e62",
+      "time": "2026-08-17 22:59:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldman Sachs: Global bond issuance down 16% YoY last week】Goldman Sachs data show global bond issuance fell 16% YoY last week, though year-to-date issuance is 9% higher than the same period a year ago. By segment, investment-grade corporate issuance rose 60% YoY, high-yield fell 41% YoY and leveraged loan issuance plunged 88% YoY. Financial-sector bond issuance increased 38% YoY while structured finance issuance dropped 64% YoY. Assets in ETFs tracking the S&P and MSCI indices continued to expand, up 32% and 36%, respectively."
+    },
+    {
+      "id": "5044557",
+      "time": "2026-08-17 22:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美政府縮減對伊朗戰爭目標】美國有線電視新聞網在8月16日的一篇報道中分析稱，美國政府已進一步縮減對伊朗戰爭的目標，這表明美國可能準備退而求其次，甚至大幅降低預期。隨著美國中期選舉的臨近，伊朗戰事正在嚴重拖累共和黨的選情。共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。有知情人士透露，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（CCTV國際時訊）"
+    },
+    {
+      "id": "5044556",
+      "time": "2026-08-17 22:58:00",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛：全球債券發行規模下滑 16%】高盛資料顯示，上週全球債務發行規模同比下降 16%，但年初至今發行規模仍高出 9%。投資級企業債券發行規模激增 60%，高收益債券發行下滑 41%，槓桿貸款大幅下跌 88%。金融行業債券發行規模上漲 38%，結構性金融產品發行下降 64%。與此同時，跟蹤標普以及明晟指數的 ETF 資產規模持續強勁增長，分別上漲 32% 和 36%。"
+    },
     {
       "id": "te:markets:575897",
       "time": "2026-08-17 22:57:24",
@@ -236,6 +320,15 @@
         "國際"
       ],
       "text": "【日本國債遭遇拋售潮 日美聯手仍未扭轉日元跌勢】由於中東局勢再次緊張，加之近段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售。17 日，日本10年期國債收益率繼續上升，一度升至2.93%，創下近30年來的新高。與此同時，距離美國和日本聯手干預外匯市場僅過了兩週，日元匯率再度逼近1美元兌160日元的低位。業內分析稱，外匯干預可以暫時改變匯率，卻難以改變日本的經濟邏輯。在弱日元、低增長、高債務三大壓力下，日本經濟正面臨越來越嚴峻的考驗。有分析人士表示，日本越是試圖透過刺激託舉經濟，財政和匯率承受的壓力可能就越大。因此，能穩定日元匯率的，只有日本經濟增長模式、財政結構的最佳化。對日本政府而言，真正需要面對的，或許從來不只是“保衛日元”，而是日本經濟重新獲得持續增長的能力。（央視財經）"
+    },
+    {
+      "id": "5044540",
+      "time": "2026-08-17 22:42:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【法國30年期國債收益率升至4.86% 重返近二十年最高水平】由於市場持續擔憂財政風險，超長期債券再次遭遇拋售，法國30年期國債收益率重新升至近20年來最高水平。法國30年期國債收益率上升1個基點，至4.86%，繼上週五觸及2008年以來最高水平後繼續攀升。其他歐洲國家的長期債券也受到衝擊。德國30年期國債收益率上漲1個基點，至3.74%，延續上週後段的升勢，至2011年以來最高水平。"
     },
     {
       "id": "5044539",
@@ -139359,80 +139452,6 @@
         "MKT News"
       ],
       "text": "【Iran president Pezeshkian says US, Israeli strikes rely on AI data; plots foiled】Iranian President Pezeshkian said US and Israeli strikes are based on artificial-intelligence data, espionage networks, mercenaries and domestic agents, but their plans have been thwarted one by one, according to Mehr news agency. He made the remarks at a Tehran University meeting."
-    },
-    {
-      "id": "mkt:019fec31-bc29-7aab-8fdc-87879b69b750",
-      "time": "2026-08-10 23:01:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran: Strait of Hormuz situation depends on US actions】An Iranian foreign ministry spokesperson said: \"Talks with Oman are progressing smoothly, but some parties are attempting to obstruct the process. The situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations. A maritime blockade against Iran is an act of aggression. The Strait of Hormuz remained open from antiquity until the war that began this year.\""
-    },
-    {
-      "id": "5034393",
-      "time": "2026-08-10 23:01:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元兌美元一度下跌0.8%，至159.06，在十國集團中表現墊底，美國和日本歷史性聯手干預激發的漲幅已半數回吐。週二是日本的公眾假期，交易員擔心減弱的流動性可能為新一輪干預創造條件。儘管如此，近期的干預似乎難以改變日元的疲態，因其面臨諸多重大不利因素，例如市場擔心日本可能增加財政支出。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。"
-    },
-    {
-      "id": "mkt:019fec30-c83c-7aab-8fdc-7b31ed3b3575",
-      "time": "2026-08-10 23:00:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "CNH",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "By 23:00 local close, China's most-active futures contracts were mostly higher. Fuel oil and low-sulfur fuel oil (LU) climbed nearly 3%; propylene, coking coal, polypropylene (including monthly-average contract), asphalt and synthetic rubber rose more than 1%. PTA fell over 1%; pulp and caustic soda were down nearly 1%."
-    },
-    {
-      "id": "te:markets:574173",
-      "time": "2026-08-10 23:00:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Drops by 0.74% — Top currency losers are Japanese Yen (-0.74%), South Korean Won (-0.72%) and Euro (-0.06%). Gains are led by British Pound (0.20%) and Dollar Index (0.19%)."
-    },
-    {
-      "id": "5034392",
-      "time": "2026-08-10 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續漲2.89%，燃料油連續漲2.36%，瀝青連續漲1.37%，聚丙烯連續漲1.19%，焦煤連續漲1.14%。"
-    },
-    {
-      "id": "5034391",
-      "time": "2026-08-10 22:59:59",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：日元貶值壓力恐將隨著時間的推移再次出現】“日本要過盂蘭盆節了，市場參與可能會受到限制，而且國內事件日程也相對清淡，” 野村證券策略師Yujiro Goto在一份研報中報告寫道，“焦點還是會在日本和美國當局的干預立場上，投資者會密切關注官員們的表態。”此次逆轉凸顯了在日元貶值背後的驅動因素基本保持不變的情況下，干預措施在改變整體走勢方面的侷限性。儘管東京和華盛頓都警告稱，若有必要他們準備再次採取行動，但與美國之間巨大的利差、對日本財政前景的擔憂以及地緣政治的不確定性仍然對日元構成壓力。“我們認為，市場對此次干預相對平淡的回應反映了貨幣疲軟的根本原因，” 高盛集團Kamakshya Trivedi等策略師在一份報告中預計，“除非全球形勢發生變化或出現意外政策，否則貶值壓力將隨著時間的推移再次出現”。"
-    },
-    {
-      "id": "5034390",
-      "time": "2026-08-10 22:59:47",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場"
-      ],
-      "text": "【能耗考核讓司機不敢開空調 蘭州公交：已暫停】近期，甘肅蘭州有公交車司機表示，由於公司實施的考核辦法把車輛的能耗和績效掛鉤，如果超出了規定的能耗標準，將按一定比例扣除司機的績效工資，導致個別司機不願在行駛過程中開空調，從而影響乘客體驗。蘭州公交集團第六客運公司工作人員表示，出臺考核辦法的初衷是引導駕駛員愛車護車、安全行駛，助力企業降本增效。辦法制定階段已兼顧車型、車況、線路差異，以平均能耗作為考核基準，考核數值每月動態調整，也考慮到高溫開啟空調帶來的能耗上漲因素。（央視新聞）"
     }
   ]
 }
