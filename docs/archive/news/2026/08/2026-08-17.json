@@ -1,7 +1,89 @@
 {
   "date": "2026-08-17",
-  "count": 406,
+  "count": 414,
   "items": [
+    {
+      "id": "mkt:01a00d4f-92f2-7aab-9052-e33ff8d4854b",
+      "time": "2026-08-17 09:21:53",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "PBOC said that, based on primary dealers' demand in open-market operations, it will conduct no 7-day reverse repo on Aug. 17, 2026."
+    },
+    {
+      "id": "5043174",
+      "time": "2026-08-17 09:21:53",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行：根據公開市場業務一級交易商的需求，2026年8月17日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:01a00d4f-0b9e-7aab-9052-dc1cfba22b3b",
+      "time": "2026-08-17 09:21:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "At the open on Monday Aug 17, Hong Kong's Hang Seng Index (HSI) rose 186.56 points (+0.74%) to 25,303.41; the Hang Seng TECH Index gained 53.58 points (+1.14%) to 4,761.20; the Hang Seng China Enterprises Index (HSCEI) added 71.04 points (+0.85%) to 8,411.87; the Hang Seng Red Chip Index was up 18.92 points (+0.46%) at 4,151.61."
+    },
+    {
+      "id": "mkt:01a00d4f-008b-7aab-9052-d70dd15d1936",
+      "time": "2026-08-17 09:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "JD.com",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00020.HK",
+        "09618.HK"
+      ],
+      "text": "Hong Kong shares opened higher: the Hang Seng rose 0.74% and the Hang Seng TECH index gained 1.14% at the open. Gold and semiconductor stocks were broadly higher. SenseTime (00020.HK) jumped more than 7%; JD.com (09618.HK) rose over 3%."
+    },
+    {
+      "id": "5043173",
+      "time": "2026-08-17 09:20:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破66美元/盎司，日內漲2.06%。"
+    },
+    {
+      "id": "5043172",
+      "time": "2026-08-17 09:19:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報65.98美元/盎司。"
+    },
+    {
+      "id": "mkt:01a00d4c-dbe8-7aab-9052-caa1787a5dbf",
+      "time": "2026-08-17 09:18:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 2.00% intraday to $65.96/oz."
+    },
+    {
+      "id": "5043171",
+      "time": "2026-08-17 09:18:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科達利：當前大部分生產基地基本滿產 預計下半年有望延續向好態勢】科達利8月14日在業績說明會上表示，公司上半年經營狀況良好，結合客戶端交付規劃，當前大部分生產基地基本滿產，預計下半年有望延續向好態勢。展望明年，鋰電池行業前景保持樂觀，有望帶動精密結構件需求持續釋放。"
+    },
     {
       "id": "mkt:01a00d4c-a454-7aab-9052-c1950e11852b",
       "time": "2026-08-17 09:18:41",

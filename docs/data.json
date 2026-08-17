@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-17 09:19:08",
-  "count": 15206,
+  "updated": "2026-08-17 09:22:54",
+  "count": 15203,
   "items": [
+    {
+      "id": "5043174",
+      "time": "2026-08-17 09:21:53",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行：根據公開市場業務一級交易商的需求，2026年8月17日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:01a00d4f-92f2-7aab-9052-e33ff8d4854b",
+      "time": "2026-08-17 09:21:53",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "PBOC said that, based on primary dealers' demand in open-market operations, it will conduct no 7-day reverse repo on Aug. 17, 2026."
+    },
+    {
+      "id": "mkt:01a00d4f-0b9e-7aab-9052-dc1cfba22b3b",
+      "time": "2026-08-17 09:21:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "At the open on Monday Aug 17, Hong Kong's Hang Seng Index (HSI) rose 186.56 points (+0.74%) to 25,303.41; the Hang Seng TECH Index gained 53.58 points (+1.14%) to 4,761.20; the Hang Seng China Enterprises Index (HSCEI) added 71.04 points (+0.85%) to 8,411.87; the Hang Seng Red Chip Index was up 18.92 points (+0.46%) at 4,151.61."
+    },
+    {
+      "id": "mkt:01a00d4f-008b-7aab-9052-d70dd15d1936",
+      "time": "2026-08-17 09:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "JD.com",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00020.HK",
+        "09618.HK"
+      ],
+      "text": "Hong Kong shares opened higher: the Hang Seng rose 0.74% and the Hang Seng TECH index gained 1.14% at the open. Gold and semiconductor stocks were broadly higher. SenseTime (00020.HK) jumped more than 7%; JD.com (09618.HK) rose over 3%."
+    },
+    {
+      "id": "5043173",
+      "time": "2026-08-17 09:20:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破66美元/盎司，日內漲2.06%。"
+    },
+    {
+      "id": "5043172",
+      "time": "2026-08-17 09:19:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報65.98美元/盎司。"
+    },
+    {
+      "id": "mkt:01a00d4c-dbe8-7aab-9052-caa1787a5dbf",
+      "time": "2026-08-17 09:18:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 2.00% intraday to $65.96/oz."
+    },
+    {
+      "id": "5043171",
+      "time": "2026-08-17 09:18:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科達利：當前大部分生產基地基本滿產 預計下半年有望延續向好態勢】科達利8月14日在業績說明會上表示，公司上半年經營狀況良好，結合客戶端交付規劃，當前大部分生產基地基本滿產，預計下半年有望延續向好態勢。展望明年，鋰電池行業前景保持樂觀，有望帶動精密結構件需求持續釋放。"
+    },
     {
       "id": "mkt:01a00d4c-a454-7aab-9052-c1950e11852b",
       "time": "2026-08-17 09:18:41",
@@ -138930,114 +139012,6 @@
         "其他"
       ],
       "text": "【長江防總、長江委啟動Ⅳ級應急響應】8月7日，長江委組織會商，針對性安排部署颱風暴雨洪水防禦工作。會商指出，受颱風“白海豚”影響，8月9日至12日，長江中下游幹流及兩湖水系有一次強降雨過程。預計長江下游幹流及附近青弋水陽江、滁河、巢湖水系等支流，鄱陽湖五河、洞庭湖湘江上游和陸水等長江中游幹流附近支流將發生漲水過程，區域性強降雨引發山洪災害的風險高，部分中小河流可能發生超警及以上洪水。長江防總、長江委於8月7日21時對江西、安徽、江蘇、上海4省（市）分別啟動防汛Ⅳ級應急響應和洪水防禦Ⅳ級應急響應，並向湖北、湖南、江西、安徽、江蘇、上海6省（市）釋出汛情通報，提醒近期颱風強降雨過程，要求針對性做好颱風暴雨洪水防禦工作，全力保障人民群眾生命財產安全。長江委已預置2個工作組，根據颱風“白海豚”防禦需要，隨時趕赴一線做好技術支撐。"
-    },
-    {
-      "id": "5032912",
-      "time": "2026-08-10 09:22:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝西造大型離心壓縮機組為西氣東輸添動力】8月6日，據省國資委訊息：近日，由陝西鼓風機（集團）有限公司（以下簡稱“陝鼓”）負責的多套大型離心壓縮機組在國家重大能源基礎設施工程西氣東輸壓氣站全面投入執行。這批機組各項效能指標優異，實現了“一次投產成功”的目標。（陝西釋出）"
-    },
-    {
-      "id": "5032911",
-      "time": "2026-08-10 09:22:07",
-      "tags": [
-        "央行"
-      ],
-      "text": "中國央行公開市場今日淨回籠450.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019fe942-8407-7aab-8fcd-e66f93c15db7",
-      "time": "2026-08-10 09:21:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "HSCEI"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) opened up 137.15 pts (+0.53%) at 25,805.18 on Monday, Aug 10; Hang Seng Tech Index opened up 41.22 pts (+0.85%) at 4,899.51; Hang Seng China Enterprises Index (HSCEI) opened up 52.24 pts (+0.61%) at 8,583.82; Red Chips Index opened up 4.13 pts (+0.10%) at 4,125.14."
-    },
-    {
-      "id": "5032910",
-      "time": "2026-08-10 09:21:15",
-      "tags": [],
-      "text": "港股恒指高開漲0.53％，國企指數漲0.61％，科指開漲0.85%，國泰君安國際今日復牌開漲37.02%。"
-    },
-    {
-      "id": "mkt:019fe942-49ac-7aab-8fcd-dabac2f70ecb",
-      "time": "2026-08-10 09:21:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "01788.HK",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Hang Seng Tech Index"
-      ],
-      "text": "Hong Kong open: Hang Seng +0.53%, Hang Seng Tech Index +0.85%. Guotai Junan International (01788.HK) resumed trading, opening up 37.02% after Guotai Haitong (02611.HK) proposed a take-private at about a 44.2% premium."
-    },
-    {
-      "id": "5032909",
-      "time": "2026-08-10 09:20:58",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "中國央行：今日開展180億元7天逆回購操作，投標量180億元，中標量180億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "5032908",
-      "time": "2026-08-10 09:20:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海機場今天取消航班近千架次#】受今年第13號颱風“白海豚”影響，上海兩機場今日近四成進出港航班取消，其中浦東機場取消642架次、虹橋機場取消航班301架次。 滬昆高鐵等多條線路列車今日陸續恢復開行。（第一財經）"
-    },
-    {
-      "id": "mkt:019fe942-2e0f-7aab-8fcd-d49a93736911",
-      "time": "2026-08-10 09:20:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC conducted a 7-day reverse repo of 18.0 bln yuan today; bids and allotments were 18.0 bln yuan and the rate was 1.40%, unchanged."
-    },
-    {
-      "id": "em:qqyh_zgyh:202608103836077346",
-      "time": "2026-08-10 09:20:54",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "中國央行今日開展180億元人民幣7天期逆回購操作，利率1.40%。"
-    },
-    {
-      "id": "5032907",
-      "time": "2026-08-10 09:20:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國科天成等成立新公司 含AI及積體電路晶片業務】企查查APP顯示，近日，北京國科天建科技有限公司成立，經營範圍包含積體電路晶片設計及服務；積體電路晶片及產品銷售；人工智慧公共服務平臺技術諮詢服務；人工智慧公共資料平臺；人工智慧雙創服務平臺等。企查查股權穿透顯示，該公司由國科天成等共同持股。"
-    },
-    {
-      "id": "te:markets:573958",
-      "time": "2026-08-10 09:20:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Ease Further as New Week Opens — Australian shares fell 45 points, or 0.5%, to 9,218 in early trading on Monday, extending losses for a second session as U.S. stock futures weakened amid growing doubts that the U.S. and Iran will soon reach a deal to reopen the Strait of Hormuz. Caution also lingered ahead of the Reserve Bank’s policy decision later this week, as sticky costs cloud the outlook despite three hikes so far this year. Data from main trading partner China added to the unease, with July inflation easing to a six-month low and producer prices rising the least in three months, underscoring soft demand. Financials led declines: the big four banks fell between 1.4% and 4.6% after Westpac’s soft Q3 update. Insurers followed lower, with QBE (-2.3%), Insurance Australia (-2.5%) and AUB Group (-1.7%) among the laggards. Losses also spread to consumer durables, commercial services and logistics. Offsetting the weakness, miners advanced, with BHP (1.1%), Northern Star (1.8%) and Evolution (1.5%) posting solid gains."
     }
   ]
 }
