@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-17 23:56:07_
-_本檔包含 2848 則快訊，約 604878 字_
+_更新時間：2026-08-18 00:43:02_
+_本檔包含 2839 則快訊，約 605225 字_
+
+---
+
+### 2026-08-18 00:41:14  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+{"title":"US Treasury yields stay elevated; Castle Securities flags Fed as market risk","content":"Castle Securities said the Fed's reluctance to tighten further despite prolonged above-target inflation has left long-term Treasury yields at multi-year highs, posing broader market risk. Noshad Shah, head of EMEA fixed-income sales at Castle Securities, noted policy rates are roughly 175 bps below their peak while long-term Treasuries remain near 20-year highs. On Monday the 30-year Treasury yield rose above 5.28% to a 19-year high. Last week's data showing softer inflation and weaker consumer demand lowered market odds of a September Fed rate cut. Shah warned recent easing in inflation and labor-market cooling should not be taken as the removal of rate risk, noting more than 55% of core goods prices are still rising. He called next month's Fed meeting "a close contest.""}
+
+---
+
+### 2026-08-18 00:41:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran official says 'weeks' deadline for US on MOU, warns possible Strait of Hormuz escalation】A senior Iranian official told Refinitiv on Aug. 17 that Iran has set a deadline of several weeks for the US to fully implement a US-Iran memorandum of understanding and will not allow an indefinite US maritime blockade. The official said efforts to secure a permanent ceasefire have stalled and Iran has decided to shift its posture "from defensive to full offensive" — if diplomacy fails Tehran is prepared to escalate tensions in the Strait of Hormuz and the wider Middle East. Iran said its timeline will be conveyed to the US via mediators.
+
+---
+
+### 2026-08-18 00:39:07  #焦點 #國際
+
+【伊朗官員稱已為美設定最後期限】據路透社報道，一名伊朗高階官員8月17日在接受採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。該官員稱，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”——如果外交努力失敗，伊朗已準備好將升級霍爾木茲海峽及中東地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。” （CCTV國際時訊）
+
+---
+
+### 2026-08-18 00:38:51  #MKT News
+
+Canadian Prime Minister Carney said Canada will ensure financing support for the "Seagull Island power project".
+
+---
+
+### 2026-08-18 00:37:26  #其他
+
+加拿大總理卡尼表示，渥太華將為鷗島電力專案落實資金保障。
+
+---
+
+### 2026-08-18 00:36:38  #國際
+
+海事追蹤資料證實，一艘油輪因違反霍爾木茲海峽的有關規定而在伊朗的格什姆島附近被攔截。
+
+---
+
+### 2026-08-18 00:35:46  #MKT News
+
+Ukrainian President Zelenskiy said he is working with relevant task forces to push for a new prisoner exchange and hopes to see results soon.
+
+---
+
+### 2026-08-18 00:35:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Ease Further — European stocks closed marginally lower on Monday as the sustained increase in energy prices added to macroeconomic headwinds for the European economy. The Euro STOXX 50 eased 0.1% to 6,530 and the STOXX Europe 600 dropped 0.2% to 656. European natural gas prices extended their surge toward multi-year highs as the prolonged blockade of LNG tankers from the Middle East magnified shortages in renewable power generation in the central part of the continent, as low river-tides forced multiple nuclear power plants to shut down. Yields in major economies rose to multi-decade highs, pressuring banks consumer-sensitive luxury companies. Santander, Deutsche Bank, LVMH, and Adidas lost between 1% and 3.4%. On the other hand, ASML rose 2.6%, tracking US AI companies following strong results from Anthropic. Also, Argenx surged 1% after reporting a successful trial for its drug Vyvgart.
+
+---
+
+### 2026-08-18 00:33:59  #國際
+
+烏克蘭總統澤連斯基：我方正協同團隊推動新一輪戰俘交換，期待很快取得進展。
+
+---
+
+### 2026-08-18 00:33:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts.
+
+---
+
+### 2026-08-18 00:33:09  #國際
+
+中東和平委員會一名官員表示，哈馬斯全部輕重武器以及地下隧道都將被拆除。
+
+---
+
+### 2026-08-18 00:32:20  #國際
+
+美國駐敘利亞和伊拉克特使湯姆·布拉克：我們支援總理阿里·扎伊迪恢復伊拉克的主權，並確保武器與安全部隊始終處於國家權威之下。
+
+---
+
+### 2026-08-18 00:30:40  #其他
+
+阿聯酋6月M3貨幣供應量同比增長14.3%。
+
+---
+
+### 2026-08-18 00:30:33  #國際
+
+美國駐敘利亞和伊拉克特使湯姆·布拉克：譴責針對庫爾德斯坦地區總理及其在埃爾比勒辦公室的襲擊。
+
+---
+
+### 2026-08-18 00:27:13  #MKT News
+
+【Kushner meets Netanyahu to push Gaza peace plan】Jared Kushner, President Trump's son-in-law, met in Jerusalem on the 17th with Prime Minister Netanyahu and a member of a Gaza peace committee to advance a Gaza peace plan. Netanyahu agreed to establish two working groups: one to oversee disarmament and demilitarization of the Palestinian Islamic Resistance Movement (Hamas), which both sides said should be completed as soon as possible and before Gaza reconstruction begins; the other to address health, clean water and related basic services.
+
+---
+
+### 2026-08-18 00:26:36  #公司
+
+英國切爾西俱樂部股東馬克·沃爾特與託德·伯利正就向克萊爾萊克出售所持股份進行談判。
+
+---
+
+### 2026-08-18 00:24:54  #國際
+
+【庫什納見內塔尼亞胡 尋求推進“加沙和平計劃”】據以色列多家媒體17日報道，美國總統特朗普的女婿庫什納以及加沙地帶“和平委員會”成員當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，以期進一步推進所謂“加沙和平計劃”。以總理辦公室在會後發表宣告說，內塔尼亞胡與“和平委員會”討論後，同意成立兩個工作組，一個負責巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的裁軍和非軍事化，雙方認為這項工作須在加沙重建工作開始前儘快完成；另一個將重點關注加沙地帶的衛生、清潔水源等問題。（新華社）
+
+---
+
+### 2026-08-18 00:24:37  #國際
+
+上週美國戰略石油儲備的原油庫存下降約530萬桶，降至2.934億桶，為1982年以來最低水平。
+
+---
+
+### 2026-08-18 00:24:32  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. Strategic Petroleum Reserve crude stocks fell about 5.3 million barrels last week to 293.4 million barrels, the lowest level since 1982.
+
+---
+
+### 2026-08-18 00:24:25  #公司 #焦點 #國際
+
+【谷歌收購精神航空資料，助力AI技術升級】谷歌在破產拍賣中勝出，拿下破產廉價航司精神航空控股的大批脫敏業務資料、軟體程式碼與運營記錄，表示將利用該批資產改進人工智慧。紐約南區美國破產法院8月14日公告顯示，谷歌1000萬美元報價涵蓋該倒閉航司海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。法庭檔案顯示，本次交易不包含個人資訊與特權資料，例如精神航空9750萬份乘客檔案，以及約5020萬份自由忠誠會員專案記錄。法庭卷宗表明，全部資料會經過處理，消除與特定客戶的關聯。谷歌週一宣告稱，公司不會獲取任何個人資訊，資料在移交前將由第三方嚴格清除全部個人可識別資訊。
+
+---
+
+### 2026-08-18 00:22:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【U.S.-Israel rift: Trump urges Israel to stop Gaza strikes】President Trump said on Monday Israel should stop strikes in the Gaza Strip. His envoy Jared Kushner met Netanyahu on Monday to try to revive a U.S. plan to disarm Hamas and end the Gaza war after Netanyahu rejected a phased disarmament proposal last week. After a brief pause Israel has resumed near-daily strikes on Palestinian militants; Trump told Fox News he believes Israel should not be carrying out those strikes because, he said, Hamas has agreed to lay down its arms.
+
+---
+
+### 2026-08-18 00:17:43  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Finishes on Negative Note — The DAX 40 closed about 0.4% down at 26,339 on Monday, reversing gains from the prior session, despite remaining close to record highs. Heightened Middle East tensions offset growing investor optimism over artificial intelligence.The 60-day Washington-Tehran truce expires today, with the standoff over Hormuz continuing and threats from both sides escalating. Meanwhile, investors continued to adjust their expectations for US interest rates following a series of weaker-than-expected economic data. Several sectors faced selling pressure, particularly retailers and autos, while tech and financials provided support. Among single stocks, Zalando, Adidas, Scout24, Beiersdorf, Henkel and Symrise posted the largest declines, ranging between 1.9%-3.4%. On the upside, top gainers included Deutsche Borse (1.8%), Rheinmetall (1.3%), Siemens Energy (1.1%) and Infineon Technologies (0.9%).
+
+---
+
+### 2026-08-18 00:17:14  #MKT News
+
+【Explosion outside private school in Kabul injures multiple】Kabul police spokesman Khalid Zadran said on the evening of the 17th that an explosion hit the gate of a private school at about 5 p.m. local time, seriously wounding multiple students. Local media reported most victims were girls and that students were leaving school when the blast occurred. A witness said about 30 wounded were taken to local hospitals. An investigative team is on site.
+
+---
+
+### 2026-08-18 00:16:37  #央行 #國際
+
+城堡證券表示，通脹長期高於目標水平，但美聯儲不願收緊貨幣政策，這使得長期債券收益率維持在多年高位，給各類市場帶來更廣泛風險。
+
+---
+
+### 2026-08-18 00:16:03  #其他
+
+【Stripe將於年底把多幣種結算拓展至37個市場】Stripe宣佈向更多市場拓展多幣種結算業務，並推出即時貨幣兌換功能。到2026年末，分佈於37個市場的企業，可依據自身經營所在地，選擇最多18種貨幣完成收款收益結算。即時貨幣兌換功能支援企業在15種貨幣之間劃轉資金，報價透明，具備市場領先水平。2026年還計劃新增更多幣種。
+
+---
+
+### 2026-08-18 00:15:17  #其他
+
+【阿富汗喀布林一學校門前發生爆炸 多人受傷】阿富汗喀布林警察局發言人哈立德·扎德蘭17日晚證實，當地時間當天下午5時許喀布林一所私立學校門前發生爆炸，致多名學生受重傷。 據阿富汗當地媒體報道，爆炸發生時學生們正在離校，其中多數為女生。有目擊者說，約30名傷者已被送往當地醫院。 扎德蘭說，相關工作組已經抵達現場，正在對事件展開調查。
+
+---
+
+### 2026-08-18 00:12:23  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,587 on Monday, as positive corporate news offset a mostly negative session for banks. Technology stocks led gains, tracking broader sector strength following strong second-quarter revenue from Anthropic. STMicroelectronics rose 5%, while Prysmian added 2.4%. Ferrari gained 1.4% following the auction of its first fully electric vehicle for $40 million. Meanwhile, with markets largely ruling out a September Fed rate hike, Italian financials remained under pressure from ongoing consolidation prospects. MPS CEO reiterated over the weekend the need to preserve the bank’s independence amid a takeover bid from Intesa Sanpaolo (-0.5%). UniCredit declined 0.7% amid reports that Berlin could sell its 12% stake in Commerzbank to the lender. On the downside, Nexi fell 4.3%, and Stellantis dropped 4.1% after recalling 955,000 vehicles worldwide.
+
+---
+
+### 2026-08-18 00:12:17  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.01% Higher — The FTSE MIB Index went up by 3 points or 0.01 percent on Monday to close at 53587 points. The rise was led by STMicroelectronics (5.04%), Prysmian (2.66%) and Finecobank (2.08%). On the downside, the weakerst performers were Stellantis N.V. (-3.90%), Fincantieri (-3.66%) and Nexi (-3.58%).
+
+---
+
+### 2026-08-18 00:11:17  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.38% Lower — The DAX Index fell 102 points or 0.38 percent on Monday to close at 26339 points. Leading the losses are Zalando (-3.90%), Adidas (-3.14%) and Beiersdorf (-2.66%). Top gainers were Deutsche Boerse (1.76%), Rheinmetall (1.30%) and Siemens Energy (1.29%).
+
+---
+
+### 2026-08-18 00:10:24  #MKT News
+
+【Lebanese president says UNIFIL presence in south Lebanon essential】On the 17th President Aoun welcomed parliament’s call to extend UNIFIL’s mandate in southern Lebanon, saying the force is essential for civilian security, close coordination with the Lebanese army and regional stability. He said extending the mandate is the preferred option; if that cannot be achieved, Lebanon seeks a framework to ensure international forces operate alongside and coordinate with the Lebanese army to fulfill their duties. Aoun noted Israel has opposed UNIFIL and has for nearly a year urged its withdrawal, while Lebanon presses for continued deployment.
+
+---
+
+### 2026-08-18 00:10:23  #其他
+
+初步計劃顯示：安哥拉10月份原油出口量預計為93.2萬桶/日。
+
+---
+
+### 2026-08-18 00:10:17  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.64% Lower — The CAC 40 Index dropped 55 points or 0.64 percent on Monday to close at 8582 points. Losses were led by Kering (-4.34%), Stellantis NV (-3.73%) and Saint-Gobain (-3.00%). Offsetting the fall, top gainers were STMicroelectronics (3.25%), Sanofi (1.17%) and Schneider Electric (0.66%).
+
+---
+
+### 2026-08-18 00:09:39  #其他
+
+【黎巴嫩總統：聯黎部隊在黎南部的存在至關重要】當地時間17日，黎巴嫩總統奧恩對議會呼籲延長聯黎部隊在黎南部任務期限的倡議表示歡迎。奧恩表示，聯黎部隊在黎南部的存在至關重要，不僅能協助當地居民安居樂業，也有利於與黎軍隊密切協調、共同維護地區穩定。
+
+---
+
+### 2026-08-18 00:09:34  #MKT News
+
+【Mitsubishi UFJ: Sustained, material decline in ultra-long JGB yields unlikely】German and Italian experience suggests a sustained, significant drop in ultra-long JGB yields is unlikely. If market concern that the BOJ is behind the curve abates, 30-year JGB yields may fall, but such declines are likely temporary. Fiscal worries that widen JGB ASW spreads can push ultra-long yields back up. Even with stable inflation expectations and ASW, uncertainty over the terminal BOJ policy rate can prevent a sustained downtrend—European 30-year yields rose until ECB rates topped out. Near term, easing BOJ-behind-the-curve fears could shave yields briefly, but year-end debate on the next fiscal-year budget and relatively rich JGB ASW versus peers argue against a durable, trend decline in ultra-long JGB yields.
+
+---
+
+### 2026-08-18 00:07:17  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.21% Lower — The FTSE 100 Index decreased 22 points or 0.21 percent on Monday to close at 10728 points. The decline was led by Howden Joinery (-3.63%), Diageo (-3.33%) and J Sainsbury (-3.11%). On the upside, the strongest performers were Endeavour (2.63%), Anglo American (2.03%) and GlaxoSmithKline (2.02%).
+
+---
+
+### 2026-08-18 00:07:01  #其他 #焦點
+
+市場資訊：英國首相安迪·伯納姆曾與冒充白宮幕僚長蘇西·懷爾斯的人員互發訊息，但雙方並未傳遞重要資訊。
+
+---
+
+### 2026-08-18 00:05:38  #Trading Economics #Economy #Ecuador #Inflation Rate #Importance 1
+
+Ecuador Inflation Eases in July — Ecuador’s annual inflation rate eased to 1.39% in July 2026 from 1.65% in June. The strongest price pressures were recorded in goods, with prices rising 1.44%. Non-food prices drove inflation, increasing 2.01%, while services costs rose 1.33%. Meanwhile, food prices fell 0.7%. On a monthly basis, consumer prices declined 0.09% after rising 0.8% in June. Year-to-date inflation reached 1.30%.
+
+---
+
+### 2026-08-18 00:05:04  #國際
+
+美國運通公佈7月壞賬沖銷率為1.7%，7月逾期率為1.1%。
+
+---
+
+### 2026-08-18 00:04:30  #國際
+
+美國運通：截至7月底，美國小企業信用卡會員貸款中逾期30天貸款佔貸款總額的比例為1.3%。
+
+---
+
+### 2026-08-18 00:04:20  #國際
+
+以色列炮擊位於汗尤尼斯市東部的佔領軍控制區。
+
+---
+
+### 2026-08-18 00:03:55  #其他
+
+Stripe推出即時貨幣兌換功能。
+
+---
+
+### 2026-08-18 00:03:39  #MKT News
+
+According to Lighthouse Pro real-time data, as of 00:00 on Aug 18 the film Welcome to Long Restaurant has surpassed 1 billion yuan in cumulative box office.
+
+---
+
+### 2026-08-18 00:02:14  #其他 #焦點
+
+據燈塔專業版實時資料，截至8月18日0時0分，影片《歡迎來龍餐館》票房突破10億。
+
+---
+
+### 2026-08-18 00:00:40  #國際
+
+美國媒體：烏克蘭幾乎已耗盡“愛國者”導彈儲備。
+
+---
+
+### 2026-08-18 00:00:08  #央行 #焦點 #國際
+
+市場定價顯示，美聯儲9月維持利率不變的機率為69%。
+
+---
+
+### 2026-08-17 23:56:49  #國際
+
+伊朗最高領袖高階顧問批評了美國政府對伊朗的威脅性言辭，稱美國家庭最終將承受華盛頓敵對政策帶來的後果。
+
+---
+
+### 2026-08-17 23:56:12  #MKT News
+
+According to the Jerusalem Post, Israeli officials say Netanyahu criticized Jared Kushner for meeting Hamas leaders, calling Hamas the mastermind of the Oct. 7 attack; Kushner did not respond.
 
 ---
 
@@ -16815,341 +17097,5 @@ Saudi broadcaster Al Arabiya reported Yemen's military said Houthi forces fired 
 ### 2026-08-16 17:03:59  #其他
 
 【2026新能源汽車下鄉活動長春站啟動】據中汽協訊息，8月15日，2026年新能源汽車下鄉活動——吉林長春站在長春農博園正式啟動。活動現場集中展示多款新能源車型，同步展出充電樁等配套設施，設定政策諮詢、以舊換新辦理、充電體驗、金融保險等一站式服務專區，並透過展板和講解清晰解讀購車補貼、申報流程等惠民政策，構建起覆蓋“看車—購車—用車”全鏈條的服務生態。此外，與長春站下鄉活動同步，長春市淨月高新區和南關區推出總額100萬元的汽車專項消費券補貼，進一步釋放區域汽車消費潛力，讓廣大城鄉居民在家門口享受實實在在的購車實惠。
-
----
-
-### 2026-08-16 17:03:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【IDF says it killed senior Hezbollah commander】Israel Defense Forces (IDF) said on the 16th that a strike on the 15th in southern Lebanon killed Abu Hassan Arra, a senior commander of Hezbollah’s Badr Unit. The IDF said Arra was involved in planning and directing multiple attacks on IDF troops deployed in the southern Lebanon "security zone" and for years led several Hezbollah operational units that attacked Israeli soldiers and civilians.
-
----
-
-### 2026-08-16 17:02:09  #MKT News #Important #Market Regions #Greater China
-
-【China summer 2026 box office tops 10 bln yuan】As of now, China’s 2026 summer-season film box office (including presales) has surpassed 10 bln yuan; daily box office has exceeded 100 mln yuan for 37 consecutive days.
-
----
-
-### 2026-08-16 17:00:12  #其他
-
-【暑期檔票房破100億】據網路平臺資料，截至8月16日，2026年暑期檔總票房（含預售）突破100億元。（央視新聞）
-
----
-
-### 2026-08-16 16:58:39  #宏觀
-
-【澳大利亞推出“槍支回收計劃”，新南威爾士州將率先施行】當地時間8月16日上午，澳大利亞總理阿爾巴尼斯和新南威爾士州州長宣佈澳聯邦政府和新州正式聯合推出“槍支回收計劃”。新州州長明斯表示，雖然回收計劃可能花費上千萬甚至上億澳元，“但這是值得付出的代價”。阿爾巴尼斯也稱讚該計劃。根據該計劃，從11月2日起，新州將有27.4萬支槍支被收繳，不同型別槍支的補償標準從每支450至1000澳元不等，到明年年初，市值超過3000澳元的槍支，補償標準將提高到1萬澳元。這是2025年12月悉尼邦迪海灘恐怖襲擊事件後新州出臺的新法律“第一階段”的一部分，新州也成為澳大利亞首個實施相關槍支回購計劃的州。（央視新聞）
-
----
-
-### 2026-08-16 16:57:35  #國際
-
-【普京登俄日爭議島嶼明確宣示主權】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。此舉引發日本方面的強烈抗議。日本首相高市早苗稱，北方四島是日本的“固有領土”，對普京此舉“絕對無法接受”。由於在島嶼歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。中國社科院日本研究所助理研究員孟明銘分析表示，普京以現任總統身份首次登上俄日爭議島嶼，並視察當地日常生活，這本身就是高度政治化的訊號。在俄羅斯看來，這些島嶼已經不是爭議領土，普京是用實際行動否定了這裡存在主權爭議。中國社會科學院俄羅斯東歐中亞研究所研究員張弘也表示，普京此行向外證明，俄羅斯依然保有維護遠東領土與海上安全的能力，打破西方炒作“俄軍深陷烏克蘭危機，無瑕顧及遠東”的西方外交敘事，告訴日本及其盟友，俄羅斯有能力兼顧東西兩線安全。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:53:13  #MKT News #Brent #Impact bullish #WTI
-
-Fars News reported the mayor of Mahshahr said explosions heard in Mahshahr minutes earlier were caused by the demolition of wartime ordnance in Iraq.
-
----
-
-### 2026-08-16 16:50:42  #國際
-
-美國國家颶風中心：拉拉颶風目前仍為颶風級別，並繼續沿夏威夷大島背風面向西北方向移動。
-
----
-
-### 2026-08-16 16:47:42  #公司
-
-【萬和電氣董事長盧宇聰：當下廚衛市場競爭邏輯已發生轉變】8月16日，萬和電氣(002543)董事長盧宇聰在公司釋出會上表示，當下廚衛市場的競爭邏輯已發生轉變，從單一產品比拼加速轉向全屋系統解決方案的價值競爭。基於這一判斷，萬和電氣正全面推進從“單一產品供應商”向“綜合解決方案提供者”的戰略轉型，打造覆蓋家用、商用全場景的熱水與採暖系統方案。
-
----
-
-### 2026-08-16 16:47:39  #國際
-
-【專家：普京登島 俄日關係或處於長期緊張狀態】中國現代國際關係研究院歐亞研究所副所長 陳宇：長期以來南千島群島，也就是日本所稱的北方四島歸屬的爭議，一直是俄日兩國幾十年來的結構性障礙。但過去由於雙方在經貿層面還有一定的相互需求，雙邊關係沒有達到很僵的程度，包括持續存在關於領土問題的一些對話。這也是為什麼普京此前一直沒有去南千島群島，也就是日本所稱北方四島的原因。但俄烏衝突後，俄羅斯和西方的關係破裂了，日本作為美國的盟友，緊跟著西方，對俄羅斯進行了全方位的制裁。包括其自身也不斷加速防務擴張，不斷強化美日同盟，俄日關係也因此迅速惡化。雙方原有的合作與對話也趨於停滯。去年，俄方也正式宣佈已經看不到俄日締結和平協議的可能性。本次普京正式登上了南千島群島，也是日本所稱的北方四島，說明過去曾經存在的和平條約的談判空間，目前已經凍結了。短期內不存在妥協的現實基礎，締結和平條約也遙遙無期。同時，由於長期存在此種制裁的原因，雙方經貿人文的往來也不斷萎縮，原本就有限的能源和漁業合作空間也持續壓縮，民間交流的渠道也在不斷收窄，過去的經濟紐帶也已經不復存在。此外，兩國間軍事安全對立的加劇，也決定了俄日關係在可預見的未來，將始終處於一個緊張的狀態。（央視新聞）
-
----
-
-### 2026-08-16 16:45:11  #國際
-
-【比利時發生大規模野火 數百居民被疏散】比利時東部地區日前發生大規模野火，截至15日晚，過火面積已超過2700公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。 這場野火14日在靠近德國邊境的一個自然保護區開始燒起，後迅速蔓延。當地政府說，過火面積已從14日的約80公頃迅速擴大至15日晚的2700多公頃。 歐洲森林火災資訊系統的資料顯示，此次火災過火面積幾乎兩倍於比利時2011年大火時近1400公頃的過火面積，為該國有記錄以來最大規模的野火。 （新華社）
-
----
-
-### 2026-08-16 16:43:47  #MKT News
-
-【Niu Lai cumulative box office tops 5 mln yuan】According to Lighthouse Professional, on its 12th day the film Niu Lai has a cumulative box office exceeding 5 mln yuan.
-
----
-
-### 2026-08-16 16:39:05  #國際
-
-【俄羅斯火箭航天中心遭襲】據德國新聞電影片道網站8月15日報道，烏克蘭軍方聲稱襲擊了位於俄羅斯薩馬拉的火箭航天中心。烏克蘭總統澤連斯基在“電報”軟體上宣佈，烏軍使用“火烈鳥”巡航導彈擊中了距離俄烏邊境約900公里、位於薩馬拉的火箭工廠。澤連斯基稱，此舉旨在進一步對俄羅斯政府施壓，以迫使其停戰。他在社交平臺X上寫道：“削弱俄羅斯的戰爭潛力至關重要。和平是必要的，必須透過對特定設施的具體破壞行動讓俄羅斯感受到這點。”烏克蘭武裝部隊總參謀部稱，位於俄羅斯薩馬拉州的“進步”火箭航天中心被擊中並起火。有關損失的更多細節尚未公佈。其首府薩馬拉市是俄羅斯航空航天業最重要的中心之一。這座城市在蘇聯時期發展成為生產運載火箭和衛星的航天技術基地。 （參考訊息）
-
----
-
-### 2026-08-16 16:36:53  #國際
-
-【印尼東努沙登加拉省宣佈進入災害緊急響應狀態】據印度尼西亞媒體16日報道，印尼東努沙登加拉省省長萊納簽署省長令，宣佈全省因15日發生的7.7級地震及多次餘震進入為期14天的災害緊急響應狀態。萊納表示，宣佈進入災害緊急響應狀態旨在提高災後處置效率、統籌調配資源、加強各部門協調溝通。災害緊急響應狀態從8月15日持續至8月28日。（新華社）
-
----
-
-### 2026-08-16 16:34:53  #國際
-
-伊朗陸軍總司令：伊朗軍人逮捕或者擊斃一名美國士兵可獲得3萬美元的獎勵。
-
----
-
-### 2026-08-16 16:31:39  #公司 #國際
-
-【烏克蘭克里沃羅格一鋼鐵廠遭襲，致2死13傷】烏克蘭克里沃羅格安賽樂米塔爾鋼鐵廠8月16日通報稱，該企業當天凌晨遭俄羅斯導彈襲擊，截至目前，已有2人死亡、13人受傷。襲擊導致企業主要設施受損，工廠部分生產流程暫停。目前，相關專家正在評估損失程度以及恢復生產的可能性。通報還稱，2022年該企業曾遭受俄軍導彈襲擊，當時軋鋼車間被摧毀，一名員工死亡。公司強調，該企業屬於冶金工業民用設施。（央視新聞）
-
----
-
-### 2026-08-16 16:28:35  #國際
-
-【日政要參拜靖國神社遭國際社會強烈反對】在日本宣佈無條件投降81週年之際，日本首相高市早苗15日以“自民黨總裁”身份，向供奉有二戰甲級戰犯的靖國神社供奉“玉串料”（祭祀費），並在出席日本政府舉辦的“全國戰歿者追悼儀式”前從會場停車場朝靖國神社所在方向“遙拜”。此外，日本防衛大臣小泉進次郎等多名政客分別前往靖國神社參拜，這是日本連續第7年有現任閣僚在這一天參拜靖國神社。日方錯誤行徑引發國際社會和日本國內愛好和平人士強烈反對。（新華社）
-
----
-
-### 2026-08-16 16:28:01  #國際
-
-【脫離民眾、部署混亂 航母風波凸顯美軍困境】美國“亞伯拉罕·林肯”號核動力航空母艦因長期部署被媒體曝出諸多問題後，許多輿論認為這艘航母的困境是美軍在伊朗戰事中陷入僵局的象徵。有媒體認為，美國政府的決策與士兵家屬的感受及民眾對戰事的態度脫節，同時也暴露出美國軍事資源快速消耗這一重大問題。 （新華社）
-
----
-
-### 2026-08-16 16:26:43  #國際
-
-【俄媒稱莫斯科遭最大規模無人機襲擊】俄羅斯莫斯科市長索比亞寧今天（8月16日）稱，當地時間15日晚至16日6時30分，飛向莫斯科的無人機數量達到600架塔斯社報道稱，這是近兩年來莫斯科遭到的規模最大的一次無人機襲擊。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:24:41  #公司
-
-【豐林集團：收到稅務通知 或繳回約2700萬元已退稅款】豐林集團公告稱，8月14日收到稅務機關《稅務事項通知書》，要求繳回2022年1月1日至2025年12月31日期間，不符合即徵即退增值稅優惠政策的已退稅款。公司初步估算繳回稅費約2700萬元，後續將進一步核算。該事項不涉及行政處罰和前期財務資料追溯調整，相關財務影響將計入2026年當期損益。公司將與稅務機關積極溝通，必要時申請行政複議或訴訟。
-
----
-
-### 2026-08-16 16:24:26  #其他
-
-【南海開漁季來了】今天（8月16日）中午12點，為期三個半月的南海伏季休漁結束。在廣東陽江，閘坡國家級中心漁港的800多艘漁船陸續出港，奔赴南海。 開漁後的第一網海鮮什麼時候能吃到？ 按照往年的作業節奏，近海漁船最快今晚到明天凌晨就會陸續返港，帶回海蝦、海蟹以及當地其他海魚。這些漁獲上岸後，一邊是進入港口市場、餐館和景區商鋪，另一邊則可能會進入預冷、鎖鮮、冷藏和加工環節，再透過冷鏈運往更遠的市場。 今天的開漁現場，不只是漁船集中出港。開漁令釋出前這裡還有非常豐富的表演活動，來自陽江各縣區以及港澳地區的13艘特色彩船在港池裡巡遊，昨天碼頭邊還舉行了漁家婚嫁非遺表演等15項系列活動，活動規模和種類均為歷屆最多。本屆開漁季活動期間，預計吸引客流將達100萬人次左右。（央視財經）
-
----
-
-### 2026-08-16 16:22:05  #MKT News #Market Regions #Europe & UK
-
-ZELENSKIY said Europe must not leave interceptor missiles sitting in warehouses.
-
----
-
-### 2026-08-16 16:22:01  #國際
-
-【俄羅斯在烏克蘭全境實施大規模夜間打擊】俄羅斯國防部通報稱，部隊打擊了基輔的火力點設施，該設施生產火烈鳥導彈，以及製造無人機的基輔-111工廠；克列緬丘格最大的煉油廠也被列為目標，克里沃羅格的鋼鐵廠亦然。
-
----
-
-### 2026-08-16 16:21:16  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-ZELENSKIY said 13 Ukrainian regions were attacked this week; Russia launched more than 1,550 attack drones, about 1,560 guided aerial bombs and 62 missiles at Ukrainian cities and communities.
-
----
-
-### 2026-08-16 16:17:15  #其他
-
-【長江儲存產投基金2026年已出手4次】長存產業投資基金累計投資成本2.70億元，最新持股價值12.10億元，當前賬面回報倍數4.48倍。長存鴻圖基金累計投資成本2.32億元，最新持股價值合計約15.74億元，當前賬面回報倍數6.78倍。
-
----
-
-### 2026-08-16 16:16:19  #MKT News
-
-【Iran chamber of commerce head says economy has emerged from war shock】IRNA cited the head of the Iran Chamber of Commerce, Industries, Mines and Agriculture saying the latest economic report shows improving signals, indicating Iran has largely moved past the sharp post-war downturn and economic activity is beginning to recover.
-
----
-
-### 2026-08-16 16:13:58  #公司
-
-【ChatGPT新功能更新】OpenAI 為 ChatGPT 訂閱使用者推出新功能，可將谷歌雲盤檔案直接新增到對話中並編輯，無需頻繁切換應用。此外，本週還新增了 AI 互動測驗工具及 Yelp 餐廳推薦整合。
-
----
-
-### 2026-08-16 16:13:29  #公司
-
-【華聯控股：收到加拿大FIRES對鋰鹽湖專案投資審查通知】華聯控股公告稱，2026年8月14日收到加拿大外國投資審查及經濟安全主管機構（FIRES）《通知函》，其認為公司對阿根廷阿里扎羅鋰鹽湖專案投資可能影響加拿大國家安全，或在45日內啟動進一步審查。公司於2025年12月擬1.75億美元受讓Argentum Lithium S.A.100%股份獲專案80%權益。目前公司與賣方將積極溝通應對，暫無法評估影響，交易存在不確定性。
-
----
-
-### 2026-08-16 16:09:37  #其他
-
-【《牛來》發文回應爭議：承認“粗糙稚嫩”，虛心接納“各類批評”】8月16日下午，針對近期動畫電影《牛來》上映並引發廣泛爭議與批評，《牛來》微博官方賬號最新發布長文，就影片質量爭議及意外走紅作出正式回應。 《牛來》官方坦言，影片上映之初幾乎沒有任何宣傳鋪墊，這部在有限條件下完成的作品能獲得如此多目光，完全在意料之外。對於觀眾自發走進影院、真誠分享以及大量直接坦率的批評，團隊均已逐條閱覽，並進行了冷靜覆盤。 針對外界對影片質量的質疑，官方坦誠道：“對照成熟院線動畫工業標準，本片在畫面、敘事等方面確實留有遺憾。”回應稱，好評值得感恩，各類批評意見同樣值得虛心接納，可視為寶貴的提醒。
-
----
-
-### 2026-08-16 16:06:27  #其他
-
-【電影《牛來》進入2026年國產動畫票房榜前10】據燈塔專業版，電影《牛來》進入2026年國產動畫票房榜前10。
-
----
-
-### 2026-08-16 16:04:10  #國際
-
-【俄國防部稱攔截822架烏克蘭無人機】俄羅斯首都莫斯科市長索比亞寧今天（8月16日）通報說，從當地時間15日晚到16日清晨6點30分，共有600架無人機飛向莫斯科地區，其中201架在莫斯科地區範圍內被擊落。莫斯科州州長通報稱，烏方無人機襲擊造成1人死亡，還造成該州至少2處倉庫發生火災。俄羅斯國防部今天通報說，自當地時間15日20時至16日8時，俄防空力量共攔截並摧毀822架烏克蘭固定翼無人機。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:03:55  #國際
-
-市場訊息：以色列軍隊在黎巴嫩南部馬吉德爾祖恩鎮執行一次爆破行動。
-
----
-
-### 2026-08-16 16:02:18  #公司 #市場 #國際
-
-【華爾街多頭信心大振：標普500盈利增速創30年新高】標普500二季度盈利同比增長31%，為1992年以來剔除衰退復甦期後的最強增速，遠超23%的預期。AI驅動利潤率從14%躍升至接近16%，估值從26倍回落至22倍以下完成“重置”。盈利擴張已蔓延至中小盤股及歐洲、亞太市場。Nationwide Funds Group首席市場策略師Mark Hackett直接點明轉折：“過去五年，AI對大多數企業而言是成本中心，只有超大規模雲廠商從股價層面受益。今年是一個拐點——AI開始真正充當利潤中心。”22V Research測算，AI對利潤率的提振約達150個基點。科技板塊依然擁有標普500中最高的利潤率，但越來越多其他行業的企業也開始在財報電話會上明確量化AI帶來的效益。這一趨勢並非美國獨有。據德意志銀行資料，歐洲企業二季度淨利潤率飆升至創紀錄的12%。BI資料顯示，歐洲企業高管在財報電話會上提及AI的平均次數超過4次，創歷史峰值，遠高於2016年以來0.5次的均值。巴克萊策略師Emmanuel Cau等人指出：“可量化的成本與效率收益已成為核心議題，越來越多的管理層開始談及已實現的收益。”
-
----
-
-### 2026-08-16 15:55:58  #國際
-
-【俄國防部：俄防空系統夜間在俄上空擊落822架烏克蘭無人機】俄羅斯國防部16日表示，俄防空系統夜間在俄羅斯上空攔截並摧毀822架烏克蘭無人機。俄國防部表示：“隔夜，執勤防空系統在別爾哥羅德州、布良斯克州、弗拉基米爾州、伏爾加格勒州、沃羅涅日州、卡盧加州、庫爾斯克州、利佩茨克州、下諾夫哥羅德州、奧廖爾州、羅斯托夫州、梁贊州、坦波夫州、圖拉州、莫斯科地區、克拉斯諾達爾邊疆區、克里米亞共和國、黑海和亞速海水域上空攔截並摧毀822架烏克蘭固定翼無人機。”
-
----
-
-### 2026-08-16 15:55:55  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Russian Defence Ministry says air-defence systems shot down 822 Ukrainian drones overnight over Russian airspace】Russian Defence Ministry said on the 16th that Russian air-defence systems intercepted and destroyed 822 Ukrainian fixed-wing drones overnight across Russian airspace, including over Belgorod, Bryansk, Vladimir, Volgograd, Voronezh, Kaluga, Kursk, Lipetsk, Nizhny Novgorod, Oryol, Rostov, Ryazan, Tambov, Tula, Moscow region, Krasnodar Krai, the Republic of Crimea and the Black Sea and Sea of Azov.
-
----
-
-### 2026-08-16 15:54:57  #其他
-
-【廣州地質災害氣象風險預警】經廣州市規劃和自然資源局與市氣象局聯合會商，預計未來24小時，白雲區黃石街道、景泰街道、雲城街道、同和街道，花都區花山鎮、梯面鎮，黃埔區九佛街道、聯和街道、龍湖街道、長嶺街道、新龍鎮，天河區長興街道、鳳凰街道、龍洞街道、興華街道、五山街道、元崗街道地質災害氣象風險預警級別為3級，請有關單位做好防禦。廣州預警釋出中心2026年8月16日15時30分發布 。（廣州天氣）
-
----
-
-### 2026-08-16 15:51:15  #MKT News #DXY #Impact bullish #Brent #EURUSD #Impact bearish
-
-A NATO military headquarters spokesman said the drone shot down in Romanian airspace appears to be Russian.
-
----
-
-### 2026-08-16 15:51:03  #MKT News
-
-Al Arabiya TV cited Yemeni military sources saying government air defenses successfully intercepted a Houthi drone over Mokha, Yemen.
-
----
-
-### 2026-08-16 15:49:17  #國際
-
-北約軍事總部發言人就早前羅馬尼亞領空被擊落的無人機發表講話：該無人機疑似為俄羅斯所有。
-
----
-
-### 2026-08-16 15:48:54  #其他
-
-葉門政府軍：防空部隊擊落一架胡塞武裝無人機，第二枚彈道導彈在穆哈墜落。
-
----
-
-### 2026-08-16 15:48:18  #公司
-
-【前7月全國鐵路傳送旅客28億人次】記者從中國國家鐵路集團有限公司獲悉，今年前7個月，全國鐵路傳送旅客28億人次，同比增長4.1%，再創歷史同期新高。前7個月，鐵路部門統籌用好武漢至西安高鐵西安東至十堰東段、金華至建德高鐵蘭溪東至建德段等新線新站資源，加大運力投放，全國鐵路日均安排開行旅客列車11462列，同比增加571列、增長5.2%。跨境旅客運輸方面，廣深港高鐵傳送跨境旅客2004.9萬人次，中老鐵路傳送跨境旅客21.4萬人次，同比分別增長11.5%、38.2%。鐵路部門積極適應國家過境免籤政策帶來的客流增長，為外籍旅客出行提供便利，全國鐵路傳送外籍旅客1485.2萬人次，同比增長32.5%。與此同時，鐵旅融合發展成效顯著。鐵路部門積極對接各地文旅部門，強化與景區、酒店的銜接，催生“鐵路+旅遊”新場景、新業態，有效拉動文旅消費。前7個月，全國鐵路累計開行旅遊列車2159列，其中旅遊專列1184列、旅遊專線975列。（經濟日報）
-
----
-
-### 2026-08-16 15:46:36  #MKT News
-
-【Bohai Strait, northern Yellow Sea closed for military tasks; navigation prohibited】China Maritime Safety Administration posted that the Dalian Maritime Safety Administration issued a navigational warning: parts of the Bohai Strait and northern Yellow Sea will be closed for military tasks and are off-limits to vessels from 16:00 on Aug 16 until 16:00 on Aug 30.
-
----
-
-### 2026-08-16 15:44:01  #其他
-
-葉門政府軍：胡塞武裝再次以導彈和無人機襲擊摩卡港。
-
----
-
-### 2026-08-16 15:43:35  #其他
-
-【航行警告！渤海海峽黃海北部執行軍事任務 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，8月16日16時至30日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。
-
----
-
-### 2026-08-16 15:41:08  #公司
-
-【三瑞智慧：上半年歸母淨利潤同比增長65.45%】三瑞智慧8月16日披露半年報，公司上半年實現營業收入7.35億元，同比增長68.79%；歸屬於上市公司股東的淨利潤2.65億元，同比增長65.45%；基本每股收益0.71元/股。
-
----
-
-### 2026-08-16 15:38:53  #國際
-
-【烏克蘭多地遭大規模空襲致人員傷亡，澤連斯基呼籲西方加快防空援助】烏克蘭總統澤連斯基16日表示，俄羅斯近日對烏克蘭多地發動大規模空襲，造成包括基輔在內的多個地區平民傷亡和基礎設施受損。他呼籲西方夥伴加快提供防空武器，以保護平民生命和關鍵基礎設施。澤連斯基指出，俄軍在過去一週內對烏克蘭13個地區發動襲擊，共發射超過1550架攻擊型無人機、近1560枚滑翔制導炸彈和62枚各型導彈，其中大部分為彈道導彈。在16日的襲擊中，基輔市及周邊地區有6人受傷，克雷門丘克和克里沃羅格也遭到彈道導彈打擊。克里沃羅格市有2人死亡、14人受傷，蘇梅州有1人遇難。澤連斯基對烏克蘭緊急救援部門、警察和醫療人員的快速響應表示感謝。他強調，面對俄軍持續使用包括朝鮮產彈道導彈在內的武器對歐洲平民目標實施打擊，西方盟友的防空攔截彈不應繼續閒置在倉庫中。他敦促夥伴國家儘快提供新的防空援助方案，以挽救生命並保護關鍵基礎設施。
-
----
-
-### 2026-08-16 15:37:26  #公司
-
-【王府井：首次以集中競價方式回購8萬股股份 耗資78.84萬元】王府井公告稱，公司於2026年7月2日及7月20日分別召開董事會及股東會，審議透過回購股份方案，將在12個月內使用5000萬元-10000萬元自有資金，以不超15.60元/股的價格回購股份用於減少註冊資本。8月14日，公司首次以集中競價方式回購8萬股，佔總股本的0.01%，成交最高價9.87元/股，最低價9.85元/股，支付資金78.84萬元。
-
----
-
-### 2026-08-16 15:35:54  #公司
-
-【高爭民爆：藏建集團擬無償劃轉34%股權至地礦集團】高爭民爆公告稱，藏建集團擬將其持有的公司94,195,640股（佔總股本34.00%）控股權股份，無償劃轉至地礦集團。雙方於2026年8月5日簽訂《無償劃轉協議》。本次劃轉已獲西藏自治區國資委通知，且經雙方董事會審議透過，但尚需取得深交所合規性確認意見，並辦理股份過戶登記手續。本次劃轉不涉及職工安置，劃轉後股份仍為國有性質。
-
----
-
-### 2026-08-16 15:35:36  #公司 #市場
-
-【絲路視覺：絲路轉債自2026年8月17日起恢復轉股】絲路視覺公告，因公司股票連續三十個交易日收盤價低於當期轉股價格26.53元/股的70%，觸發有條件回售條款，絲路轉債於2026年8月10日至8月14日暫停轉股。自回售申報期結束的次一交易日，即2026年8月17日起，絲路轉債恢復轉股。
-
----
-
-### 2026-08-16 15:35:32  #公司
-
-【先鋒電子：2026年上半年營收3.45億元 同比增長21.04%】先鋒電子公告稱，2026年上半年營收3.45億元，同比增長21.04%；歸屬於上市公司股東的淨利潤1341.37萬元，同比增長2.10%；扣除非經常性損益的淨利潤1177.77萬元，同比增長14.82%。經營活動產生的現金流量淨額-1.46億元，同比下降293.07%。報告期末，總資產12.87億元，較上年度末下降1.00%；歸屬於上市公司股東的淨資產8.71億元，較上年度末增長1.14%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-16 15:34:47  #公司
-
-【錦龍股份：2026年上半年淨利潤1424.89萬元，同比下降88.59%】錦龍股份公告，2026年上半年營業總收入3.49億元，同比下降16.28%；歸屬於上市公司股東的淨利潤1424.89萬元，同比下降88.59%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1941.9萬元，同比增長120.30%。上年同期歸屬於上市公司股東的淨利潤1.25億元，上年同期歸屬於上市公司股東的扣除非經常性損益的淨利潤-9566.62萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-16 15:34:44  #公司
-
-【天力鋰能：2025年營收22.04億元 淨虧損2.01億元】天力鋰能公告稱，2025年公司營收22.04億元，同比增長25.70%；淨虧損2.01億元，同比減虧56.80%。報告期內，公司主要從事鋰電池材料研產銷，核心產品有三元材料等。公司研發費用投入7112.64萬元，新增專利申請24項。公司經營模式穩定，業績驅動源於行業需求回暖、技術創新、業務拓展、精細化管理等。
-
----
-
-### 2026-08-16 15:34:40  #公司
-
-【天力鋰能：2023年營收26.18億元 淨虧損4.96億元】天力鋰能公告稱，2023年營收26.18億元，同比減少6.66%；歸屬於上市公司股東的淨利潤淨虧損4.96億元，同比減少478.79%。公司自2023年1月1日起執行新會計規定。此外，公司於2023年12月計劃用1億-1.3億元超募資金回購股份用於登出，截至報告期末尚未回購。
-
----
-
-### 2026-08-16 15:34:34  #公司
-
-【天力鋰能：更正2023-2025年度財務報表會計差錯】天力鋰能公告稱，經自查，2023-2024年存在漏記關聯方非經營性資金佔用情況，補記2023年度500萬元、2024年度135.77萬元；2023年同一控制下合併雅安天藍新材料科技有限公司合併報表有誤，錯誤確認商譽623.98萬元。公司已對2023-2025年度合併及母公司財務報表進行調整，採用追溯重述法更正會計差錯，涉及預付款項、其他應收款、商譽等科目。
-
----
-
-### 2026-08-16 15:33:49  #公司
-
-【朗新科技：2026年上半年由盈轉虧，淨利潤虧損1.8億元】朗新科技公告，2026年上半年營業收入14.82億元，同比下降3.89%。歸屬於上市公司股東的淨利潤虧損1.8億元，上年同期淨利潤2863.8萬元，同比下降730.23%。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2.2億元，上年同期1363.85萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-16 15:33:17  #公司
-
-【千里科技：回購26.06萬股，使用資金總額211.99萬元】千里科技8月16日公告，8月14日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購股份26.06萬股，佔公司總股本的比例為0.0058%，回購成交的最高價為8.15元/股，最低價為8.12元/股，支付的資金總額為人民幣211.99萬元（不含交易費用）。
-
----
-
-### 2026-08-16 15:33:04  #公司
-
-【恆鑫生活：首次回購公司股份20000股，支付58.52萬元】恆鑫生活公告，公司此前審議透過回購方案，擬以不低於3000萬元且不超過5000萬元自有資金或自籌資金回購股份，回購價格不超過40元/股，用於股權激勵或員工持股計劃。2026年8月14日，公司首次透過回購專用賬戶以集中競價方式回購股份20000股，佔當前總股本的0.0135%，最高成交價29.3元/股，最低成交價29.2元/股，成交總金額58.52萬元（不含交易費用）。
 
 ---

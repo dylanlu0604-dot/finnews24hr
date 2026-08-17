@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-17 23:56:07_
-_本檔包含 3181 則快訊，約 604113 字_
+_更新時間：2026-08-18 00:43:02_
+_本檔包含 3162 則快訊，約 604363 字_
+
+---
+
+### 2026-08-12 07:41:46  #MKT News #Market Regions #Greater China
+
+【China International Capital Co: high-end photosensitive dry‑film demand expanding; long-term investment case】China International Capital Co. says acceleration in China’s PCB industry is creating openings for domestic dry‑film manufacturers; high technical barriers plus sustained demand underpin a long‑term investment case. CICC estimates the photosensitive dry‑film market at $2.333 bln in 2026, rising to $3.348 bln by 2030 (CAGR 9.44%). Prismark data: global PCB market $85.8 bln in 2025 (+16.7% YoY), about $102.0 bln this year (+19% YoY) and c.$144.6 bln by 2030. Rapid AI-driven demand for higher‑end boards—multilayer, HDI and packaging substrates—will lift corresponding dry‑film markets: CICC forecasts 2030 sizes up 45.2%, 50.6% and 54.4% versus 2026, respectively.
+
+---
+
+### 2026-08-12 07:41:44  #其他
+
+【暴雨、雷電預警生效中 北京最明顯降雨時段在今晨至白天】雖然颱風“白海豚”已停編，但它帶來的降雨影響仍在持續。今天（8月12日）早晨至明天白天，北京強降雨持續，最明顯降雨時段在今天早晨至白天，夜間開始降雨將逐漸減弱。受冷空氣和颱風外圍水汽輸送的共同影響，昨天開始，北京迎來一次強降雨過程。監測顯示，11日12時至12日06時，北京市平均降雨量達16.6毫米，城區平均12.3毫米；最大降雨出現在延慶區石佛寺，達175.6毫米。今天早晨至白天是北京此次降雨過程中降雨最明顯時段，夜間至明天白天降雨將逐漸減弱，目前北京市暴雨橙色和雷電黃色預警訊號正在生效中。（央視）
+
+---
+
+### 2026-08-12 07:40:25  #公司 #觀點
+
+【中金：高階感光幹膜需求擴張 具備長期投資價值】中金公司研報認為，近年來我國PCB產業加速發展，為內資企業發展幹膜製造產業提供了機會。幹膜技術壁壘高，疊加需求持續增長，具備長期投資價值。測算2026感光幹膜市場規模約23.33億美元，到2030年有望達到33.48億美元，CAGR 9.44%。根據Prismark資料，2025全球PCB市場規模達到858億美元，同比+16.7%；今年有望達到1020億美元，同比+19%，Prismark預期2030年市場規模約1446億美元。AI領域增速迅猛，多層板/HDI/封裝基板等高階PCB板需求快速增長，我們預計2030年多層板/HDI/封裝基板對應幹膜市場規模較2026年分別增長45.2%/50.6%/54.4%。
+
+---
+
+### 2026-08-12 07:40:22  #觀點
+
+【華泰證券：關注盈利處於拐點的新能源運營商，持續看好儲能發展】華泰證券研報表示，2026年8月3日《新型電力系統建設“十五五”規劃》提出全國新能源利用率保持在90%左右，歷史首次分地區指導新能源利用率指導目標，第一檔地區新能源利用率原則上不低於95%，第二檔不低於90%，第三檔不低於85%。市場普遍認為風光消納看不到拐點。華泰證券結合各省“十五五”發展規劃，量化分析新能源消納出路與趨勢，認為2026年大機率是風光消納的底部，關注盈利處於拐點的新能源運營商，持續看好儲能發展。
+
+---
+
+### 2026-08-12 07:39:01  #公司
+
+【創業板再添三條新指數 聚焦智慧駕駛、機器人、光伏產業】深圳證券交易所全資子公司深圳證券資訊有限公司於近期陸續釋出創業板智慧駕駛指數、創業板機器人指數、創業板光伏指數三條創業板主題指數相關公告。業內人士認為，本次三條指數的釋出，標誌著“創系列”指數進一步提質擴面，將為投資者把握經濟轉型升級紅利提供優質工具。創業板在智慧駕駛、機器人、光伏等細分領域培育發展了一批代表性公司，市值分別達0.6萬億元、1.4萬億元、0.7萬億元。 本次釋出的三條主題指數聚焦創業板市場特色產業優勢，在所屬業務領域分別選取市值大、流動性好的50只創業板股票構成樣本股，多維度彰顯創業板市場優質創新特色。  （中證報）
+
+---
+
+### 2026-08-12 07:38:31  #其他
+
+【IIF：7月新興市場結束了連續兩個月的資金外流態勢】國際金融協會（IIF）資料顯示，7月外國投資者向新興市場投資組合注入近190億美元，結束了連續兩個月的資金外流態勢，這得益於股市資金外流速度大幅放緩。
+
+---
+
+### 2026-08-12 07:37:18  #觀點
+
+【華泰證券：2026年或將是AI陪伴機器人行業由概念展示切換到商業落地的關鍵一年】華泰證券研報表示，AI陪伴機器人產業正經歷從“主題敘事”走向“商業驗證”，2026年或將是行業由概念展示切換到商業落地的關鍵一年。需求、技術、渠道與生態四個變數開始共振：孤獨、老齡化與家庭小型化抬升了陪伴型終端的需求基礎；大模型端側化、核心零部件價格帶下探，使產品具備了進入大眾家庭的可行性。2026年CES和AWE眾多頭部企業釋出家庭場景陪伴機器人，定價下探至2000-4000元區間。這標誌著產業從"概念驗證期"正式進入"規模化滲透期"，出貨量或將成為短期核心催化劑，中期跟蹤留存及訂閱續費率，長期看家庭智慧生態的卡位價值。
+
+---
+
+### 2026-08-12 07:36:36  #公司
+
+住友製藥株式會社：公司將採取適當行動，包括在必要時採取法律行動，以應對不準確或誤導性資訊，從而保護公司及其股東和投資者的利益。
+
+---
+
+### 2026-08-12 07:36:32  #公司
+
+住友製藥株式會社： 做空機構哥譚市研究（Gotham City Research，簡稱GCR） 於2026年8月3日釋出了一份報告，其中包含了對公司財務報告的單方面觀點。
+
+---
+
+### 2026-08-12 07:35:23  #公司 #國際
+
+【空中計程車公司Joby以5億美元收購一家國防科技公司】Joby Aviation週二表示，將以約5億美元收購國防技術公司Resonant Sciences，旨在不斷擴大的國防市場中拓展業務。隨著商用開發耗時超出預期，且受烏克蘭和中東戰爭推動國防開支激增，電動垂直起降飛機（eVTOL）企業正將更多精力轉向軍用市場。Joby表示，公司將繼續開發其空中計程車eVTOL專案，並將包括混合動力和自主垂直起降（VTOL）專案在內的國防專案移交至Resonant Sciences旗下。總部位於俄亥俄州代頓市的Resonant公司為美國國家安全客戶設計、製造並提供先進的射頻和任務系統。
+
+---
+
+### 2026-08-12 07:34:51  #國際
+
+【擔憂人員聚集引發火災 西班牙“嚴陣以待”日全食 】西班牙將在12日迎來難得一見的日全食景象，政府將投入大量警力，在數百個觀測點維持秩序，預防人流密集引發的安全事故，同時密切防範人為引發山火的風險。 根據本次日全食路徑，歐洲大陸的“最佳觀景位”位於西班牙和冰島——當地時間8月12日傍晚時分，這兩國部分地區可以觀賞到完整的日全食景象。西班牙西北部和中部的日全食路徑沿途各地方政府一共公佈了660個官方觀測點，同時指定停車場和露營點供觀賞者使用。官方預測屆時將有600萬人湧入這些觀測點。 位於日全食觀測範圍內的幾個地區嚴陣以待，因為西班牙國家氣象局已釋出高溫警報：12日當天，這幾個區氣溫可能高達40攝氏度，爆發山火風險從“高”到“很高”。
+
+---
+
+### 2026-08-12 07:33:18  #公司 #市場
+
+【A股限售股解禁一覽：87.03億元市值限售股今日解禁】Wind資料顯示，週三（8月12日），共有11家公司限售股解禁，合計解禁量為5.89億股，按最新收盤價計算，合計解禁市值為87.03億元。從解禁量來看，6家公司解禁股數超千萬股。盟固利、風神股份、廣東建科解禁量居前，解禁股數分別為1.87億股、1.17億股、1.11億股。從解禁市值來看，6家公司解禁市值超億元。盟固利、江淮汽車、廣東建科解禁市值居前，解禁市值分別為30.68億元、16.85億元、16.77億元。從解禁股數佔總股本比例來看，3家公司解禁比例超10%。盟固利、廣東建科、風神股份解禁比例居前，解禁比例分別為40.65%、26.41%、13.12%。
+
+---
+
+### 2026-08-12 07:32:41  #觀點 #國際
+
+【摩根大通：全球燃氣輪機訂單飆升至歷史新高】摩根大通稱，受電力需求激增推動，今年二季度全球燃氣輪機訂單創下歷史紀錄。分析師菲爾・布勒（Phil Buller）等人釋出研報表示，該季度訂單規模約 38 吉瓦，較一季度增長 29%，較去年同期大增 71%。美國依舊是主要市場，佔據近半數訂單。受資料中心擴張與電氣化浪潮推動，近年燃氣輪機訂單大幅增長。天然氣相較煤炭燃燒更為清潔，同時相比風電、光伏發電供電穩定性更強。行業景氣度高漲造成部分地區出現供給緊張，東南亞尤為突出，燃氣輪機供貨不足，制約規劃新增裝機落地。需求上行推高成本。分析師表示，2031 年交付的聯合迴圈燃氣輪機，價格將達到去年機型的三倍。
+
+---
+
+### 2026-08-12 07:32:25  #市場
+
+日經指數期貨在新加坡交易所開盤上漲260點，報67120點。
+
+---
+
+### 2026-08-12 07:32:16  #其他
+
+【動力電池從“灰盒”走向“白盒” 車企重構核心零部件定義權】從小米“龍甲”到理想“麒麟5C”，從比亞迪“刀片”到吉利“金磚”，一場由車企主導的動力電池“冠姓運動”正席捲中國新能源汽車產業。作為汽車心臟的電池，從採購側的“灰盒模式”轉向車企深度參與的“白盒模式”。受訪者認為，這是一場圍繞新能源汽車核心零部件定義權的重構——車企不再滿足於採購標準化整包方案，而是以穿透式管理滲透電芯材料、生產工藝乃至二三級供應鏈，並試圖主導技術標準與質量體系。產品同質化困局、利潤失衡倒逼，以及新國標落地等，主機廠正加速從電池廠商手中“奪回心臟”。產業觀察人士認為，“白盒化”只是序章，車企與供應鏈的博弈走向，或將深刻影響中國新能源產業版圖。
+
+---
+
+### 2026-08-12 07:31:40  #觀點
+
+【中信建投：機器人主線“量產節奏+資本化”雙催化落地】中信建投研報認為，機器人主線“量產節奏+資本化”雙催化落地。宇樹正式確定了150.8元/股的發行價和610億元的發行市值，發行較原募資計劃上修45%，戰配名單呈現“技術盟友+產業巨頭+國家隊”強勢組合，超預期；其意義一是為具身智慧賽道樹立估值試金石，二是上市後有望引導資本覆蓋演算法、整機制造、核心零部件、場景運營全鏈條，強化頭部示範，加速產業協同。當前市場對於機器人板塊預期較弱，但根據產業鏈調研Optimus量產已然在路上，發酵了4-5年的機器人產業預計正面臨拐點；國內鏈催化加快，除宇樹/雲深處遞表衝擊IPO外，後續智元/銀河通用/眾擎/靈心巧手/普渡等今年或也有資本化進度更新；同時，國內機器人量產及場景驗證同步加快。因此，投資策略我們強調——長期佈局、逢低配置、聚焦核心標的。建議關注以下方向標的配置價值，包括特斯拉鍊高勝率、技術迭代升級方向、具備預期差的低估值；具備放量能力的國產鏈。
+
+---
+
+### 2026-08-12 07:29:59  #公司 #市場
+
+【生態保護規劃出爐，部分低估值的環保股一覽】近日，生態環境部等六部門印發的《生態保護“十五五”規劃》提出，到2030年，我國生態空間格局持續最佳化，生態質量穩步改善，生物多樣性喪失趨勢得到有效緩解，優質生態產品供給更加豐富，國家生態安全將得到有效保障。據統計，截至8月11日收盤，環保（申萬）指數今年以來小幅下跌1.04%，7只環保股年內漲幅超過50%，包括恆譽環保、德林海和高能環境等。估值水平方面，截至8月11日收盤，滾動市盈率低於30倍，且市淨率低於2倍的環保股有30只。上述30只股票當中，股息率（近12個月）最高的是洪城環境，達到5.17%。公司以自來水、汙水處理、燃氣能源、固廢處置、工程等業務為主導，2025年供水產能為191萬立方米/日，汙水處理業務總設計規模達423.4萬立方米/日。股息率較高的還有軍信股份、綠色動力、永興股份、首創環保和創業環保等。（證券時報）
+
+---
+
+### 2026-08-12 07:29:36  #Trading Economics #Economy #Russia #Balance of Trade #Importance 0
+
+Russia Trade Surplus Widens in June — The Russian trade surplus widened to USD 12.5 billion in June of 2026 from USD 8.2 billion in the corresponding period of the previous year. Exports climbed by 32.6% year-on-year to USD 43.3 billion, the highest this year, supported by stronger energy revenues as oil and gas prices remained elevated amid disruptions to tanker flows from the Persian Gulf following the escalation of the war in the Middle East. Higher global energy prices boosted the value of Russian crude and gas shipments, while the easing of some US sanctions also supported exports. Meanwhile, imports rose by 26% to USD 30.8 billion, reflecting stronger purchases of machinery, equipment and transport vehicles as domestic demand and investment remained resilient.
+
+---
+
+### 2026-08-12 07:28:55  #國際
+
+【伊朗戰爭致巴拿馬運河擁堵 有船不惜支付400萬美元“插隊”】受伊朗戰爭影響，船舶紛紛尋求替代航線，巴拿馬運河的通行等待時間已超過一週，一艘集裝箱船為“插隊”支付了400萬美元。知情人士稱，這筆接近歷史紀錄的中標金額是Seaspan Benefactor號的船東付的。由於招標資料不公開，知情人士要求匿名。 通常情況下，船舶透過預訂，支付標準費用即可穿越這條航道。不過，巴拿馬運河管理局也向客戶提供免排隊的競價選項。
+
+---
+
+### 2026-08-12 07:28:22  #宏觀 #市場
+
+【巴西擬年內在華髮行50億元人民幣熊貓債】巴西財政部日前表示，巴西計劃於2026年內首次在中國市場發行以人民幣計價的主權熊貓債，擬發行規模為50億元人民幣。若首次發行順利，巴西未來考慮形成常態化發行機制，並透過建立主權債券定價基準，為巴西企業進入中國債券市場、拓展人民幣融資渠道創造條件。（新華財經）
+
+---
+
+### 2026-08-12 07:28:01  #國際
+
+【美國FDA代理局長呼籲對生菜保持信心 並更新農產品安全指南】美國食品藥品監督管理局（FDA）代理局長迪亞曼塔斯（Kyle Diamantas）週二表示，鑑於該機構針對持續發生的食源性疫情最終確定了關於正確處理和包裝的指導方針，美國民眾應放心食用新鮮農產品。鑑於與新鮮農產品相關的 環孢子蟲病和沙門氏菌疫情持續爆發， 美國食品藥品監督管理局（FDA）針對生產商和供應商釋出的更新版指南建議採取衛生控制、供應商核查和冷藏等 措施 。受汙染的生菜和墨西哥辣椒 引發的疫情已導致美國數千人患病。“目前，美國民眾應放心食用新鮮農產品，包括葉類蔬菜。FDA確信，截至7月17日召回行動，所有與環孢子蟲病疫情相關的冰山生菜均已有效從市場上撤下，”迪亞曼塔斯在接受媒體採訪時表示。
+
+---
+
+### 2026-08-12 07:26:00  #宏觀 #公司 #國際
+
+【韓國主權財富基金加入全球人工智慧、機器人領域角逐】韓國計劃於明年向一支全新主權財富基金投入超 1 萬億韓元（合 7.07 億美元）新增資金，重點佈局人工智慧及其他戰略產業，跟進全球多國政府的行動，調動投資力量，以期在高科技領域取得競爭優勢。韓國負責創新與增長事務的財政部副部長Min Kyung-seol週二接受媒體採訪時表示：“細節暫不便透露，但明年投資規模區間或在 6000 億韓元至 1 萬億韓元以上。” 他稱，最終投資金額會視篩選出的投資標的及其資金需求，有可能超過初步預估。Min Kyung-seol表示，現階段該基金暫無直接投資三星電子、SK 海力士的計劃，這兩家晶片企業已是全球人工智慧浪潮的核心支柱。韓國上月宣佈，將向韓國投資公社注資 20 萬億韓元，投向人工智慧、資料中心及基礎設施。其介紹，這支新設基金將承擔獨立的戰略投資職能，與韓國投資公社傳統的外匯儲備管理業務並行運作。
+
+---
+
+### 2026-08-12 07:25:41  #公司
+
+【打破慣例 北交所新股戰配比例觸及30%上限】近日，北交所2只新股信勝科技、雙英集團均公告稱，在IPO發行過程中，戰略投資者的配售比例均為30%。這一安排，打破了北交所一段時間以來新股預設為10%的戰配比例。受訪人士向記者表示，這主要是基於當前市場情況的考慮，更多的戰配比例有望助力新股表現，減少破發。“當然，30%的比例大機率不會常態化，這更像是一種臨時性的安排。因為在打新收益強勁之下，戰配比例越大越容易出現尋租的可能。”資深投資人士周運南說。
+
+---
+
+### 2026-08-12 07:25:03  #MKT News #Market Regions #Japan & APAC #Market Themes #Chip Wars #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact bullish
+
+【Chip boom lifts Japan manufacturing confidence to highest since March】REUTERS TANKAN shows Japan manufacturing confidence rose from 13 in July to 18 in August, the strongest reading since March 2026. Non-manufacturing confidence gained to 28 from 25, supported by robust domestic consumption. The three‑month outlook signals a moderation in sentiment. Semiconductor‑related demand is the main driver: sharp jumps in chemical and metal‑machinery subindices suggest strength in the semiconductor supply chain is spreading across Japan’s industrial base rather than remaining concentrated in a few chipmakers. The manufacturing index peak implies earlier global trade uncertainty that had weighed on chip‑demand exporters has largely faded. The transportation equipment index remained at 0, indicating the auto sector has not yet meaningfully benefited from the broader recovery.
+
+---
+
+### 2026-08-12 07:23:50  #國際
+
+韓國主權財富基金將加入全球人工智慧和機器人技術競賽。
+
+---
+
+### 2026-08-12 07:22:22  #其他
+
+【人民日報：“產能過剩”導致貿易順差的論調違背經濟常識】近年來，中國製造業國際競爭力快速提升，在世界市場中份額不斷提高，貿易順差有所擴大。對此，部分國家和經濟體擔憂其產業發展空間受到壓縮，個別國家炮製所謂“中國擠壓論”的錯誤論調，認為是中國的“產能過剩”導致了貿易順差的上升，進而危及其國內產業的發展。這種論調有違基本經濟常識，顯然站不住腳。中國實現貿易順差，說明中國產業體系完備高效，是全球分工體系和貿易格局變化的客觀結果。中國出口增長既源於規模經濟與創新能力提升，也來自各國綠色轉型和工業化發展的需求。從貿易利益分配看，“順差在中國，利益在各方”。當前，單邊主義和保護主義抬頭，各類貿易壁壘措施不僅抑制全球經濟增長，更嚴重擾亂正常的國際貿易秩序，阻礙全球產能的合理流動與最佳化佈局。各方尤其是主要貿易大國應當共同維護自由貿易體制，多行暢通便利之舉，少做築牆設壘之事，推動全球貿易朝著更加平衡、更可持續的方向發展。
+
+---
+
+### 2026-08-12 07:22:13  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Advance as US-Iran Deal Eyed — Brent held above $89 per barrel on Wednesday after rising for five consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February.
+
+---
+
+### 2026-08-12 07:21:23  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Advance as US-Iran Deal Eyed — Crude oil held above $83 per barrel on Wednesday after rising for four consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February.
 
 ---
 
@@ -18930,287 +19098,5 @@ Israel Defense Forces chief of staff said the military is well prepared for defe
 ### 2026-08-11 00:45:31  #MKT News #Nasdaq100 #Impact bearish #Dow #S&P500
 
 U.S. equity indices fell: Nasdaq Composite down 0.51%, Dow Jones Industrial Average down 0.25%, S&P 500 down 0.17%.
-
----
-
-### 2026-08-11 00:38:56  #焦點 #國際
-
-【特朗普要求伊朗賠償】美國總統特朗普當地時間8月10日在社交媒體發帖稱，他注意到，伊朗正在要求就過去五個月軍事衝突中遭受的損失獲得賠償。特朗普稱，“我同樣要求伊朗進行賠償，我已指示我的代表們將這一要求明確納入未來所有談判之中。”（CCTV國際時訊）
-
----
-
-### 2026-08-11 00:35:15  #市場
-
-標普500指數跌0.1%，觸及至盤中低點。
-
----
-
-### 2026-08-11 00:34:36  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-US President Trump said Iran is demanding compensation for losses from military clashes over the past five months; he said he likewise demands Iran compensate and has instructed his representatives to press that point in any future negotiations.
-
----
-
-### 2026-08-11 00:33:45  #國際
-
-特朗普：對抗議者的賠償應納入與伊朗的談判，應該向抗議者家屬支付賠償。
-
----
-
-### 2026-08-11 00:33:25  #國際
-
-特朗普：已指示我的代表，將此項內容堅決納入今後所有談判當中。
-
----
-
-### 2026-08-11 00:33:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #Nasdaq100
-
-NVIDIA (NVDA.O) fell to an intraday low, down 2.6% on the day.
-
----
-
-### 2026-08-11 00:32:55  #國際
-
-特朗普：我同樣要求伊朗賠償。
-
----
-
-### 2026-08-11 00:32:45  #焦點 #國際
-
-特朗普：伊朗正要求就過去五個月軍事衝突中自身遭受的損失獲得賠償。
-
----
-
-### 2026-08-11 00:32:03  #市場 #焦點
-
-布倫特原油突破87美元/桶，日內漲4.26%。
-
----
-
-### 2026-08-11 00:31:08  #MKT News
-
-【Iran's supreme leader announces six armed forces leadership appointments】On the 10th Iran's supreme leader Mojtaba Khamenei announced six armed forces appointments: Air Force Major General Ali Abdollahi was named chief of the general staff; Brigadier General Ahmad Vahidi was promoted to major general and appointed commander of the Islamic Revolutionary Guard Corps (IRGC); Brigadier General Keyumars Heidari was named deputy chief of the general staff; Major General Mostafa Izadi was appointed deputy commander of the IRGC; Brigadier General Ali Azmai was named IRGC navy commander; and Hossein Taeb was appointed head of the Basij militia.
-
----
-
-### 2026-08-11 00:30:39  #其他
-
-英國政府：英格蘭近四分之三地區目前遭遇乾旱。
-
----
-
-### 2026-08-11 00:30:19  #公司 #國際
-
-美國商務部長盧特尼克：現於紐約約克敦高地，與 IBM 執行長會面。
-
----
-
-### 2026-08-11 00:29:41  #其他
-
-市場訊息：Meta否認推遲社交媒體成癮案開庭時間.
-
----
-
-### 2026-08-11 00:29:04  #國際
-
-【伊朗最高領袖公佈多項任命 調整武裝力量領導層】當地時間10日，伊朗最高領袖穆傑塔巴·哈梅內伊對伊朗武裝力量進行6項新的人事任命，其中包括：任命阿里·阿卜杜拉希空軍少將為伊朗武裝部隊總參謀長；艾哈邁德·瓦希迪准將晉升少將，被任命為伊朗伊斯蘭革命衛隊總司令。此外，准將凱尤馬爾斯·海達裡出任武裝力量副總參謀長，少將穆斯塔法·伊扎迪出任革命衛隊副總司令，准將阿里·阿茲馬伊出任革命衛隊海軍司令，侯賽因·塔伊卜出任巴斯基民兵組織負責人。（央視新聞）
-
----
-
-### 2026-08-11 00:27:37  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
-
-Financial Times reports multiple Wall Street firms are partnering with NVIDIA (NVDA.O) on a $500 billion AI financing initiative.
-
----
-
-### 2026-08-11 00:25:38  #觀點
-
-市場訊息：由阿波羅、黑石、貝萊德旗下部門、布魯克菲爾德、高盛以及 KKR 組成的財團，將與英偉達建立合作關係。
-
----
-
-### 2026-08-11 00:24:16  #其他
-
-市場訊息：華爾街巨頭攜手英偉達達成 5000 億美元人工智慧融資合作。參與該交易的機構包括阿波羅、黑石、貝萊德。
-
----
-
-### 2026-08-11 00:21:55  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Ends Flat — The FTSE MIB closed broadly flat at 53,656 on Monday, as gains in energy and industrial stocks offset losses among utilities. Stellantis led the advance, rising 1.9%, while energy shares outperformed amid higher global oil prices. Eni gained 1.5% and Saipem added 1.4%. Financial stocks were mixed as investors continued to assess consolidation prospects in the sector. UniCredit edged up 0.2% following reports that it held its first formal talks with Commerzbank over managing potential future changes at the German lender. Utilities weighed on the index as European gas prices increased. A2A fell 1.1% after reports that Italy’s energy regulator fined the company €5 million for alleged market manipulation linked to the 2022 European energy crisis. Terna (-1.7%), Italgas (-1.3%) and Snam (-1.2%) were also among the biggest decliners.
-
----
-
-### 2026-08-11 00:21:17  #市場 #國際
-
-【霍爾木茲海峽重開前景未明，歐洲天然氣價格大漲】週一（8月10日）歐市尾盤，ICE英國天然氣期貨漲10.98%，報150.880便士/千卡，北京時間14:00以來持續走高。TTF基準荷蘭天然氣期貨漲12.54%，報61.400歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）跌1.38%，報81.61歐元/噸。伊朗與阿曼就重新開放霍爾木茲海峽展開磋商，但交易員並不相信協議能迅速恢復全球液化天然氣運輸。上週末，伊朗表示協議“已非常接近”，但同時暗示，即使達成協議，霍爾木茲海峽也不會立即重新開放。這給市場原本期待LNG運輸迅速恢復的樂觀情緒降溫，而歐洲正需要這些供應來補充天然氣庫存。
-
----
-
-### 2026-08-11 00:21:16  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Edges Higher on Defense Gains — The CAC 40 inched up 0.1% to close at 8,726 on Monday amid ongoing uncertainty over the reopening of the Strait of Hormuz. US President Donald Trump said Washington was only “semi-negotiating” with Tehran and would wait for economic pressure on Iran to intensify. Meanwhile, Iranian Foreign Minister Abbas Araghchi denied direct talks with the US and reiterated that the Strait would remain closed until Tehran's demands, including the lifting of the naval blockade, are met. The impasse kept concerns over energy supplies, inflation, and the interest-rate outlook in focus. TotalEnergies gained 2% on higher oil prices. Defense stocks outperformed, with Safran up 1.6%, Airbus gaining 0.5%, and Thales rising 1%. Luxury and financial stocks were mixed, while technology shares declined, with STMicroelectronics down 0.9% and Schneider Electric losing 0.5%.
-
----
-
-### 2026-08-11 00:20:18  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Closes Flat — The DAX 40 closed broadly flat at 26,320 on Monday, remaining at record levels, as gains in financial and selected industrial stocks offset losses in telecommunications and consumer shares. QIAGEN jumped 5.1% after Deutsche Bank reiterated its “Buy” recommendation, while Infineon gained 2.3% after launching a limited-term share buyback programme. Siemens Energy advanced 1.5%, tracking US power generators with high exposure to power-hungry AI infrastructure. Financials mostly outperformed, with Allianz rising 1.1% after announcing plans to reduce supplier coverage by up to 70% for Vistry. On the downside, Deutsche Telekom led the declines, falling 3.2% after reports that its US affiliate, T-Mobile US, had cut more than 4,500 jobs in the first half of the year. Beiersdorf and Brenntag each lost 2.2%, while Bayer fell 1.3% and Hannover Re slipped 0.3%.
-
----
-
-### 2026-08-11 00:19:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) navy commander said any foreign vessel transiting the Strait of Hormuz will be identified, tracked and monitored by Iranian forces.
-
----
-
-### 2026-08-11 00:18:25  #國際
-
-伊朗革命衛隊海軍司令：任何外國船只經過霍爾木茲海峽，都逃不過伊朗軍方的識別、追蹤與監控。
-
----
-
-### 2026-08-11 00:16:35  #市場 #國際
-
-【德國兩年期國債收益率漲約5個基點，非農過後，投資者關注油價漲勢】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，德國10年期國債收益率漲4.6個基點，報3.179%，日內交投於3.125%-3.182%區間，北京時間14:30“開盤”以來、至20:33呈現出平坦的W形走勢，持穩於3.135%附近，之後擴大漲幅。兩年期德債收益率漲5.2個基點，報2.801%，日內交投於2.749%-2.804%區間，幾乎全天處於上漲狀態；30年期德債收益率漲3.2個基點，報3.672%。2/10年期德債收益率利差跌0.453個基點，報+37.533個基點。法國10年期國債收益率漲6.4個基點，報3.981%；兩年期法債收益率漲5.9個基點，30年期法債收益率漲4.6個基點。義大利10年期國債收益率漲6.4個基點，報3.965%。西班牙10年期國債收益率漲5.8個基點，報3.618%。希臘10年期國債收益率漲6.4個基點，報3.863%。
-
----
-
-### 2026-08-11 00:15:30  #其他
-
-據燈塔專業版實時資料，截至8月11日0時10分，影片《奧德賽》點映及預售總票房突破8000萬。
-
----
-
-### 2026-08-11 00:13:43  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) hit an intraday high, trading up more than 2% on the session.
-
----
-
-### 2026-08-11 00:13:24  #國際
-
-哥倫比亞外交部長：哥倫比亞承認以色列對戈蘭高地擁有主權。
-
----
-
-### 2026-08-11 00:13:19  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close at Records — European stocks closed slightly higher at new records on Monday with broad support from most major sectors. The Euro STOXX 50 added 0.3% to 6,540 and the STOXX Europe 600 inched higher to 661, both at record highs. Markets looked past a rebound in sovereign yields as uncertainty on the restart of energy exports from the Middle East maintained inflationary risks. TotalEnergies and ENI rose 2% and 1.5%, respectively, amid the slight rebound for fuel and natural gas prices. Tech stocks also rose, tracking the support from US counterparts on positive signals for cloud services. SAP, ASML, and Infineon rose around 1%. Also, the heavyweight financial sector also closed slightly higher, with Allianz and Deutsche Bank adding more than 1%.
-
----
-
-### 2026-08-11 00:13:00  #MKT News
-
-Colombia's foreign minister said the country recognizes Israel's sovereignty over the Golan Heights.
-
----
-
-### 2026-08-11 00:12:03  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.10% Lower — The FTSE MIB Index decreased 53 points or 0.10 percent on Monday to close at 53664 points. The decline was led by Italgas (-1.54%), Poste Italiane (-1.36%) and Nexi (-1.34%). On the upside, the strongest performers were Stellantis N.V. (1.71%), Saipem (1.60%) and Amplifon (1.30%).
-
----
-
-### 2026-08-11 00:11:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.02% Higher — The DAX Index rose 4 points or 0.02 percent on Monday to close at 26324 points. Leading the gains are Qiagen NV (5.07%), Adidas (2.01%) and Scout24 (1.75%). Top losers were Deutsche Telekom (-3.24%), Beiersdorf (-2.22%) and Brenntag (-1.34%).
-
----
-
-### 2026-08-11 00:10:03  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.13% Higher — The CAC 40 Index gained 11 points or 0.13 percent on Monday to close at 8726 points. Gains were led by ArcelorMittal (1.97%), Credit Agricole (1.66%) and TotalEnergies SE (1.64%). Biggest losers were TP (-2.37%), Orange (-2.19%) and Edenred (-2.11%).
-
----
-
-### 2026-08-11 00:08:34  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O): U.S. ad commitments for 2026 nearly doubled.
-
----
-
-### 2026-08-11 00:07:02  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.32% Lower — The FTSE 100 Index decreased 35 points or 0.32 percent on Monday to close at 10867 points. The decline was led by Imperial Brands (-5.28%), Coca-Cola (-4.40%) and British American Tobacco (-4.05%). On the upside, the strongest performers were Fresnillo (3.25%), Metlen Energy & Metals (2.52%) and Glencore (2.21%).
-
----
-
-### 2026-08-11 00:04:39  #國際
-
-奈飛：2026 年美國廣告預售簽約額近乎翻倍。
-
----
-
-### 2026-08-11 00:04:35  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，中進醫療漲63.38%，中比能源漲15.77%，陸金所控股漲13.00%，搜狐漲6.60%，海天網路漲5.49%。
-
----
-
-### 2026-08-11 00:03:35  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls on Monday — The FTSE 100 fell on Monday as weakness in several heavyweight stocks outweighed gains in energy and mining shares. Imperial Brands dropped more than 5% following reports that the tobacco company is preparing to cut thousands of jobs across key markets, including the US and Europe. British American Tobacco also fell more than 4%, while HSBC, Unilever and GSK declined between 0.4% and 1.8%. In contrast, oil majors Shell and BP gained 0.7% and 1.5%, respectively, as crude prices extended their recent advance amid uncertainty over a potential US-Iran agreement to end the conflict and reopen the Strait of Hormuz. Mining stocks also benefited from stronger metals prices, with Fresnillo rising 3.3% and Glencore gaining 2.2%. Elsewhere, Plus500's trading update showed stronger first-half growth driven by higher trading income. Pharos Energy confirmed it would not increase its offer, while Vistry reduced coverage for the housebuilder’s suppliers.
-
----
-
-### 2026-08-11 00:03:16  #市場 #國際
-
-【英國國債收益率普遍漲約6個基點】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，英國10年期國債收益率漲6.7個基點，報4.989%。兩年期英債收益率漲6.0個基點，報4.341%。30年期英債收益率漲5.9個基點，50年期英債收益率漲6.0個基點。2/10年期英債收益率利差漲0.709個基點，報+64.543個基點。
-
----
-
-### 2026-08-11 00:03:06  #市場
-
-紐約期銀日內漲3%，現報65.41美元/盎司。
-
----
-
-### 2026-08-11 00:02:58  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-A U.S. appeals court refused to pause thousands of social-media addiction lawsuits against Meta Platforms (META.O), TikTok and other companies.
-
----
-
-### 2026-08-11 00:01:57  #國際
-
-美國上訴法院拒絕叫停針對Meta及其他多家企業的數千起社交媒體成癮相關訴訟。
-
----
-
-### 2026-08-11 00:01:47  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Netflix Stock Price Hits 4-week High — Netflix shares increased to 75.40 USD, the highest since July 2026. Over the past 4 weeks, Netflix gained 1.75%, and in the last 12 months, it decreased 38.34%.
-
----
-
-### 2026-08-11 00:00:19  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver rose above $65/oz, gaining 2.32% intraday.
-
----
-
-### 2026-08-10 23:58:38  #市場 #焦點
-
-白銀連續主力合約日內漲2%，現報15902.00元。
-
----
-
-### 2026-08-10 23:58:32  #市場 #焦點
-
-現貨白銀突破65美元/盎司，日內漲2.33%。
-
----
-
-### 2026-08-10 23:58:24  #公司 #國際
-
-【霍爾木茲海峽風險推高油輪租船成本 中東航線日費逼近50萬美元】隨著伊朗戰爭持續令許多船東不願駛入霍爾木茲海峽，在作為行業基準的中東至亞洲航線上，租用一艘超大型油輪運輸原油的成本已逼近每天50萬美元。由於船隻在試圖穿越霍爾木茲海峽時不時遭到襲擊，願意停靠波斯灣內港口的船東數量已經大幅減少，不過仍有部分船隻繼續透過這一咽喉要道。目前，從波斯灣內出發的許多航次由中東產油國控制的船隻承擔，此外還有行事較為低調的Sinokor，以及少數風險承受能力較高、願意駛入這一存在衝突風險水域的小型航運公司。這反過來導致該航線公開可見的租船成交數量減少，市場流動性下降，也使得評估超大型油輪收益的主要基準指標變得更加困難。相關市場擾動甚至導致全球一家大型大宗商品交易商對負責釋出這一基準指標的波羅的海交易所提起訴訟。
-
----
-
-### 2026-08-10 23:56:24  #MKT News
-
-Iranian and Pakistani foreign ministers discussed negotiations over the Strait of Hormuz and a defence pact in a phone call.
 
 ---
