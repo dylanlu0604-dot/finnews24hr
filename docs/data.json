@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-18 13:40:06",
+  "updated": "2026-08-18 13:43:59",
   "count": 15181,
   "items": [
+    {
+      "id": "5045287",
+      "time": "2026-08-18 13:42:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥西南近海發生5.8級地震】據墨西哥國家地震監測局釋出的資訊，當地時間8月17日23時02分，墨西哥西南近海發生5.8級地震，震源深度3公里。目前暫無海嘯預警資訊。"
+    },
+    {
+      "id": "mkt:01a01363-94f6-7aab-906f-f3759396c798",
+      "time": "2026-08-18 13:41:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "South Korea's KOSPI index fell more than 2% at the close."
+    },
+    {
+      "id": "mkt:01a01363-7e37-7aab-906f-e98fed2d9803",
+      "time": "2026-08-18 13:41:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Front-month polysilicon contract fell 2.47% intraday to 38,305 yuan/ton."
+    },
+    {
+      "id": "5045286",
+      "time": "2026-08-18 13:41:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國綜指跌幅擴大至2%，現報6838.13點。個股方面，三星電子跌超2%。"
+    },
+    {
+      "id": "5045285",
+      "time": "2026-08-18 13:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土與美伊密集磋商 討論延長美伊諒解備忘錄】美國和伊朗諒解備忘錄所設60天談判視窗期到期之際，美伊雙方均表示“不尋求延長”諒解備忘錄。作為地區重要斡旋方，土耳其總統埃爾多安、外交部長哈坎·費丹同美伊雙方多次通話，呼籲兩國透過外交手段緩和緊張局勢。埃爾多安17日與美國總統特朗普通電話。根據土耳其總統府新聞局發表的宣告，埃爾多安在通話中說，最大程度透過外交手段緩和美伊緊張局勢“至關重要”。他呼籲美伊繼續推進對話，土方願為兩國實現和平的努力“提供支援”。（新華社）"
+    },
+    {
+      "id": "5045284",
+      "time": "2026-08-18 13:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東前7月離境退稅申請增6.4倍，電子產品和服裝成熱門商品】記者從海關總署廣東分署瞭解到，1—7月，廣東省內海關合計驗核離境退稅申請18.6萬票，驗核申請單金額16.9億元，同比分別增長6.4倍、1.2倍。電子產品和服裝成為旅客申請離境退稅的熱門商品。海關總署廣東分署表示，下一步將進一步最佳化通關服務，加強部門協同，提升離境退稅辦理便利度。（21世紀經濟報道）"
+    },
+    {
+      "id": "mkt:01a01362-8c00-7aab-906f-e66836906c45",
+      "time": "2026-08-18 13:40:20",
+      "tags": [
+        "MKT News",
+        "06869.HK",
+        "Impact mixed"
+      ],
+      "text": "【HSBC cuts Yangtze Optical Fibre & Cable PT to HK$276; maintains Buy】HSBC Global Research cut its price target for Yangtze Optical Fibre & Cable (06869.HK) to HK$276 from HK$277 and kept a Buy rating. The bank said weaker sentiment toward cyclical AI-hardware names prompted lowering the 2027 target P/E from 18x to 15x. HSBC raised its 2026 and 2027 EPS forecasts by 24% and 20.8%, respectively, citing a Q2 profit alert and a larger share of data‑center fibre; 2026 EPS is now RMB11.21."
+    },
+    {
+      "id": "mkt:01a01362-2e51-7aab-906f-ddc5ad32b87b",
+      "time": "2026-08-18 13:39:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【HSBC asks some mainland investment clients to submit source-of-funds declaration; non-compliance may lead to service termination】Following earlier new-account rules requiring confirmation that funds originate from lawful offshore channels, some Hong Kong banks have begun seeking source-of-funds declarations from selected existing mainland China investment clients. HSBC Hong Kong has told affected clients to submit an Account Opening/Maintenance declaration via the HSBC Hong Kong app and update contact details by Sept 12. The declaration requires confirmation that investment funds come from lawful sources outside mainland China and notes the bank may disclose personal data to law enforcement or regulators. The notice warns that failure to submit by Aug 20 may result in suspension of investment services, and failure to submit by Sept 12 could lead to termination. An HSBC spokesperson on Aug 18 said the bank is following regulatory requirements and is asking affected mainland investors to self-declare and confirm their KYC and client due-diligence information is current; the requirement applies only to investment-service clients."
+    },
     {
       "id": "mkt:01a0135f-8598-7aab-906f-d69cd0407101",
       "time": "2026-08-18 13:37:02",
@@ -138986,90 +139064,6 @@
         "國際"
       ],
       "text": "印度央行行長敦促各銀行梳理全部人工智慧模型，建立經董事會批准的人工智慧治理政策。"
-    },
-    {
-      "id": "5035107",
-      "time": "2026-08-11 13:43:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：銀行必須儲存完整的人工智慧模型清單。"
-    },
-    {
-      "id": "em:qqyh_ozlc:202608113837762131",
-      "time": "2026-08-11 13:43:38",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "【澳洲聯儲主席：如有必要將再次加息】據報道，澳洲聯儲主席布洛克表示，委員會希望放緩經濟增長，認為通脹存在上行風險；如有必要，將再次加息。"
-    },
-    {
-      "id": "5035106",
-      "time": "2026-08-11 13:42:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲4%，現報1325.50元。"
-    },
-    {
-      "id": "te:economy:574303",
-      "time": "2026-08-11 13:42:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brunei",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Brunei Inflation Hits 2-1/2-Year High in June — Brunei’s annual inflation rose to 0.3% in June 2026 from 0.1% in each of the previous two months, marking the highest reading since December 2023. The latest result also marked the third consecutive month of rising consumer prices, with upward pressure broadening across several categories, including food and non-alcoholic beverages (1.5% vs 1.2% in May), clothing and footwear (3.5% vs -1.5%), furnishings and household maintenance (0.4% vs 0.2%), health (0.6% vs 0.4%), education (0.3% vs 0.3%), restaurants and hotels (0.5% vs 0.4%), recreation and culture (0.4% vs -1.0%). In the meantime, housing and utilities were almost flat (0.03% vs 0.2%), while prices fell further for communication (-0.2% vs -3.4%) and miscellaneous goods and services (-0.6% vs -0.6%). Also, transport cost fell 0.2%, shifting from a 0.4% gain in May. On a monthly basis, the CPI rose 0.2%, swinging from a 0.1% fall in May."
-    },
-    {
-      "id": "5035105",
-      "time": "2026-08-11 13:42:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金溢科技在襄陽成立車路通科技公司】企查查APP顯示，近日，襄陽市車路通科技有限公司成立，法定代表人為吳國慶，註冊資本為1000萬元，經營範圍包含人工智慧應用軟體開發；物聯網技術研發；智慧車載裝置製造；通訊裝置製造；汽車零部件研發等。企查查股權穿透顯示，該公司由金溢科技間接全資持股。"
-    },
-    {
-      "id": "mkt:019fef57-6636-7aab-8fe8-6b3efe7a91ba",
-      "time": "2026-08-11 13:41:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Analyst: Multiple indicators show Reserve Bank of Australia nearing end of tightening cycle】Analyst James Glynn says revised Reserve Bank of Australia forecasts point to a policy setting close to comfortable. The RBA has raised its unemployment path to 4.5% by December from 4.3% previously, cut its headline CPI forecast to 3.6% by December from 4.0%, and lowered trimmed‑mean inflation to 3.3% by December from 3.5%, with trimmed mean expected to reach 2.4% by June 2028. Glynn says the direction of these revisions is consistent with the RBA nearing the end of its tightening cycle."
-    },
-    {
-      "id": "mkt:019fef56-fe6b-7aab-8fe8-668e619f8672",
-      "time": "2026-08-11 13:41:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.com",
-        "Xiaomi",
-        "09618.HK",
-        "Impact bearish",
-        "01810.HK",
-        "09888.HK"
-      ],
-      "text": "Hong Kong-listed tech shares weakened in choppy trading; JD.com (09618.HK) and Xiaomi Group (01810.HK) fell more than 3%, while Kuaishou (01024.HK) and Baidu (09888.HK) also slipped."
-    },
-    {
-      "id": "mkt:019fef56-11d1-7aab-8fe8-59e950c50ad1",
-      "time": "2026-08-11 13:40:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said the board is carefully weighing the timing of a rate increase."
     }
   ]
 }
