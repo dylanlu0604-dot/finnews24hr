@@ -1,7 +1,51 @@
 {
   "date": "2026-08-18",
-  "count": 2221,
+  "count": 2227,
   "items": [
+    {
+      "id": "5046094",
+      "time": "2026-08-18 20:39:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省發生5.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月18日19時03分，印尼東努沙登加拉省芒加萊縣魯滕鎮東北83公里處發生5.0級地震，震源深度10公里。無海嘯風險。"
+    },
+    {
+      "id": "5046093",
+      "time": "2026-08-18 20:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SemiAnalysis：OpenAI剛剛宣佈，針對OpenRouter和Vercel的AI Gateway平臺上的GPT-5.6 Sol模型降價 50%，很可能是一次巧妙的營銷策略】研究機構SemiAnalysis發文稱，OpenAI剛剛宣佈，針對OpenRouter 和Vercel的AI Gateway平臺上的GPT-5.6 Sol模型，降價 50%。這很可能是一次巧妙的營銷策略。儘管OpenRouter和Vercel在OpenAI總token用量中的佔比很小，但它們的影響力卻不成比例地大——因為這兩個平臺正是外界用來估算各大 AI 實驗室/模型市場份額的核心資料來源之一。如果此次降價能在未來一個月內讓5.6 Sol的token用量翻倍以上，許多投資者很可能就會簡單地將此視為OpenAI對陣Anthropic的一場重大勝利。"
+    },
+    {
+      "id": "5046092",
+      "time": "2026-08-18 20:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝達藥業：合作伙伴DURAVYUⅢ期關鍵試驗未達主要終點】貝達藥業公告，公司合作伙伴EyePoint公佈DURAVYU™治療溼性年齡相關性黃斑變性開展的兩項關鍵Ⅲ期臨床試驗中的首項試驗LUGANO資料。基於完整資料集，該研究未達成預設主要終點，DURAVYU未實現相對於阿柏西普的非劣效。關鍵次要終點均達成，包括安全性良好、治療負擔降低42%等。第二項關鍵Ⅲ期臨床LUCIA頂線資料預計2026年第四季度公佈。"
+    },
+    {
+      "id": "te:economy:576142",
+      "time": "2026-08-18 20:37:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Import Prices MoM",
+        "Importance 2"
+      ],
+      "text": "US Import Prices Unexpectedly Fall Further — US import prices fell by 0.4% month-over-month in July 2026, following a revised 0.3% decrease in June and contrasting with market forecasts of a 0.1% increase. This marked the largest monthly decline since May 2025. Import fuel prices fell 7.2% in July, following declines of 3.8% in June and 12.1% in May, marking the largest monthly drop since September 2024. The decline was driven by a 7.5% fall in petroleum and petroleum product prices, which more than offset a 5.3% rise in natural gas prices. On a yearly basis, US import prices rose by 5.9%."
+    },
+    {
+      "id": "5046091",
+      "time": "2026-08-18 20:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞官員因震後海灘度假挨批】哥倫比亞新任住房部長海梅·安德烈斯·貝爾特蘭被指在該國10日發生大地震後攜家人前往一海濱城市度假，遭到批評。（新華社）"
+    },
     {
       "id": "mkt:01a014df-186d-7aab-907a-6fc181d25b8f",
       "time": "2026-08-18 20:36:00",
@@ -32,6 +76,15 @@
         "S&P500"
       ],
       "text": "【US 10-year yield rises to highest since early 2025】A global bond selloff pushed the US 10-year Treasury yield to its highest level since early 2025 amid thin August trading, with investors wary of inflation and heavy corporate issuance. Sovereign bonds from Europe to Japan moved similarly as uncertainty over the inflation outlook and changes to bond-buying structures weighed on demand. Germany sold 30-year debt via banks earlier, sending yields to 15-year highs. BMO Capital Markets US rates strategist Ian Ling said the selloff \"has become a macro event.\" He said he does not expect a Fed hike next month but markets may not price a zero probability ahead of the decision; the cancellation of forward guidance has further complicated the policy outlook."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608183844769162",
+      "time": "2026-08-18 20:35:30",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月進口價格同比上漲5.9% 市場預期上漲6.7%】美國7月進口價格同比上漲5.9%，市場預期上漲6.7%；7月出口價格同比上升8.2%，市場預期上升9.7%。"
     },
     {
       "id": "5046089",

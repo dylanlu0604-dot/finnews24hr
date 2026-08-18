@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-18 20:36:35",
-  "count": 15163,
+  "updated": "2026-08-18 20:40:29",
+  "count": 15161,
   "items": [
+    {
+      "id": "5046094",
+      "time": "2026-08-18 20:39:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省發生5.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月18日19時03分，印尼東努沙登加拉省芒加萊縣魯滕鎮東北83公里處發生5.0級地震，震源深度10公里。無海嘯風險。"
+    },
+    {
+      "id": "5046093",
+      "time": "2026-08-18 20:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SemiAnalysis：OpenAI剛剛宣佈，針對OpenRouter和Vercel的AI Gateway平臺上的GPT-5.6 Sol模型降價 50%，很可能是一次巧妙的營銷策略】研究機構SemiAnalysis發文稱，OpenAI剛剛宣佈，針對OpenRouter 和Vercel的AI Gateway平臺上的GPT-5.6 Sol模型，降價 50%。這很可能是一次巧妙的營銷策略。儘管OpenRouter和Vercel在OpenAI總token用量中的佔比很小，但它們的影響力卻不成比例地大——因為這兩個平臺正是外界用來估算各大 AI 實驗室/模型市場份額的核心資料來源之一。如果此次降價能在未來一個月內讓5.6 Sol的token用量翻倍以上，許多投資者很可能就會簡單地將此視為OpenAI對陣Anthropic的一場重大勝利。"
+    },
+    {
+      "id": "5046092",
+      "time": "2026-08-18 20:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝達藥業：合作伙伴DURAVYUⅢ期關鍵試驗未達主要終點】貝達藥業公告，公司合作伙伴EyePoint公佈DURAVYU™治療溼性年齡相關性黃斑變性開展的兩項關鍵Ⅲ期臨床試驗中的首項試驗LUGANO資料。基於完整資料集，該研究未達成預設主要終點，DURAVYU未實現相對於阿柏西普的非劣效。關鍵次要終點均達成，包括安全性良好、治療負擔降低42%等。第二項關鍵Ⅲ期臨床LUCIA頂線資料預計2026年第四季度公佈。"
+    },
+    {
+      "id": "te:economy:576142",
+      "time": "2026-08-18 20:37:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Import Prices MoM",
+        "Importance 2"
+      ],
+      "text": "US Import Prices Unexpectedly Fall Further — US import prices fell by 0.4% month-over-month in July 2026, following a revised 0.3% decrease in June and contrasting with market forecasts of a 0.1% increase. This marked the largest monthly decline since May 2025. Import fuel prices fell 7.2% in July, following declines of 3.8% in June and 12.1% in May, marking the largest monthly drop since September 2024. The decline was driven by a 7.5% fall in petroleum and petroleum product prices, which more than offset a 5.3% rise in natural gas prices. On a yearly basis, US import prices rose by 5.9%."
+    },
+    {
+      "id": "5046091",
+      "time": "2026-08-18 20:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞官員因震後海灘度假挨批】哥倫比亞新任住房部長海梅·安德烈斯·貝爾特蘭被指在該國10日發生大地震後攜家人前往一海濱城市度假，遭到批評。（新華社）"
+    },
     {
       "id": "mkt:01a014df-186d-7aab-907a-6fc181d25b8f",
       "time": "2026-08-18 20:36:00",
@@ -32,6 +76,15 @@
         "S&P500"
       ],
       "text": "【US 10-year yield rises to highest since early 2025】A global bond selloff pushed the US 10-year Treasury yield to its highest level since early 2025 amid thin August trading, with investors wary of inflation and heavy corporate issuance. Sovereign bonds from Europe to Japan moved similarly as uncertainty over the inflation outlook and changes to bond-buying structures weighed on demand. Germany sold 30-year debt via banks earlier, sending yields to 15-year highs. BMO Capital Markets US rates strategist Ian Ling said the selloff \"has become a macro event.\" He said he does not expect a Fed hike next month but markets may not price a zero probability ahead of the decision; the cancellation of forward guidance has further complicated the policy outlook."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608183844769162",
+      "time": "2026-08-18 20:35:30",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月進口價格同比上漲5.9% 市場預期上漲6.7%】美國7月進口價格同比上漲5.9%，市場預期上漲6.7%；7月出口價格同比上升8.2%，市場預期上升9.7%。"
     },
     {
       "id": "5046089",
@@ -139038,73 +139091,6 @@
         "公司"
       ],
       "text": "【鵬翎股份：公司在液冷領域已取得階段性進展】鵬翎股份8月11日在互動平臺表示，公司在液冷領域已取得階段性進展：儲能液冷業務已實現交付；算力中心及伺服器液冷方面，部分技術對接已結項並達成初步合作意向。公司現有汽車管路產線可相容生產部分液冷產品，三元乙丙橡膠+丁基橡膠組合方案可滿足冷板式液冷系統要求，具備工藝鏈自制能力，生產成本相對較低。公司將加速推進客戶驗證與合同簽訂。"
-    },
-    {
-      "id": "5035967",
-      "time": "2026-08-11 20:39:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徵和工業：向特定物件發行股票申請獲深交所稽核透過】徵和工業公告稱，公司於2026年8月11日收到深交所上市稽核中心意見告知函，深交所認為公司向特定物件發行股票申請符合發行、上市條件和資訊披露要求，後續將報中國證監會履行註冊程式。該事項尚需獲中國證監會同意註冊方可實施，最終結果及時間存在不確定性。"
-    },
-    {
-      "id": "5035966",
-      "time": "2026-08-11 20:39:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度航空CEO表示，已向印度政府通報普吉島航班事件調查進展。"
-    },
-    {
-      "id": "5035965",
-      "time": "2026-08-11 20:38:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "ONDAS INC：獲選為以色列打造新一代軍用戰術攻擊無人機。"
-    },
-    {
-      "id": "5035964",
-      "time": "2026-08-11 20:37:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Upwork股價盤前下跌17%，此前公司預計2026年營收和利潤低於預期。"
-    },
-    {
-      "id": "5035963",
-      "time": "2026-08-11 20:37:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "ONDAS：獲以色列國防部授予數百萬美元戰略招標。"
-    },
-    {
-      "id": "5035962",
-      "time": "2026-08-11 20:37:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【森麒麟：持續督導保薦代表人變更 葛龍龍接替葉盛蔭】森麒麟公告稱，公司收到國泰海通出具的更換持續督導保薦代表人的函。原保薦代表人葉盛蔭因工作變動，無法繼續履職，國泰海通委派葛龍龍接替。截至公告披露日，2020年首次公開發行股票和2023年向特定物件發行股票專案法定督導期已屆滿，但仍需就2026年度募集資金情況出具核查報告。更換後，持續督導保薦代表人為陳軼超、葛龍龍。"
-    },
-    {
-      "id": "5035961",
-      "time": "2026-08-11 20:37:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小鵬動力總成負責人顧捷：小鵬G9L不挑油品，能加92號汽油】在小鵬G9L全球首秀暨預售釋出會上，小鵬動力總成負責人顧捷發表演講。他介紹，小鵬G9L推出純電與超級增程兩種能源形式；搭載5C超充大電池，充電9分鐘CLTC續航增加450km。超級增程標配四驅，綜合續航1602km、純電續航435km；純電版共3個版本，755km | 702km | 660km。能耗表現方面，超級增程每度電可以支援車輛行駛6.8公里，純電版最高可達7.6公里。超級增程版本四驅零百加速4.95秒，純電版本四驅零百加速4.45秒。他還提到，透過ENC主動降噪和增程器主動停缸等靜音設計，打造純電般無感增程體驗。不挑油品，能加92號汽油，自駕到偏遠地區也不存在補能焦慮。（新浪科技）"
-    },
-    {
-      "id": "5035960",
-      "time": "2026-08-11 20:37:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鈦能化學：子公司擬54.62億元投建60萬噸前驅體專案】鈦能化學公告稱，公司於2026年8月11日召開董事會，審議透過全資子公司甘肅東方鈦業投資建設年產60萬噸【磷酸鐵鋰/磷酸鐵鈉】前驅體（磷酸鐵）專案的議案。專案分兩期建設，總投資預計54.62億元，資金來源為自有及自籌資金。專案建設地點為白銀高新區銀東工業園，一期預計18個月內完成並投入使用，二期將視情況決定。該專案有助於增強公司競爭力，但存在實施、融資及盈利等風險。"
     }
   ]
 }
