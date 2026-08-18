@@ -1,7 +1,93 @@
 {
   "date": "2026-08-18",
-  "count": 1294,
+  "count": 1303,
   "items": [
+    {
+      "id": "mkt:01a013ce-e9f1-7aab-9072-a28c905ad790",
+      "time": "2026-08-18 15:38:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Three major foreign holders cut US Treasuries; is overseas demand waning?】US Treasury Department TIC data show June reductions in UST holdings by Japan, China and the UK of about $26.0bn, $26.0bn and $9.0bn respectively. China’s holdings fell to $633.4bn, the lowest since Sep 2008. Net foreign purchases of medium- and long-term Treasuries plunged to $6.8bn in June from $56.6bn in May. However, foreigners still net-bought $181.4bn of US equities and $35.6bn of corporate bonds in June, leaving aggregate TIC net inflows of $133.5bn — consistent with reallocation into equities and credit rather than a wholesale flight from US assets. Country-level holdings are reported on a market-value/custody basis; data from financial centres such as the UK can include third-country assets, so monthly declines do not necessarily indicate active selling."
+    },
+    {
+      "id": "5045450",
+      "time": "2026-08-18 15:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國擬發行30年期債券，收益率創2011年以來新高】由於投資者要求為向債務規模不斷攀升的政府提供貸款獲取更高補償，德國在一場大規模長期債券發行中，融資成本即將創下15年新高。德國將透過銀行承銷團發行2056年8月到期債券，該債券收益率較同型別2054年期債券高出0.4個基點，後者當前交易收益率為3.77%。德國商業銀行利率與信用研究主管克里斯托夫・裡格爾表示，週二這筆交易預計最高可募資35億歐元，而德國2027年的融資需求將大幅攀升。"
+    },
+    {
+      "id": "te:markets:576052",
+      "time": "2026-08-18 15:38:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Outperforms Europe — The FTSE 100 was little changed on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 1.8% and 1.4%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. Iran indicated it could adopt a more aggressive military stance after negotiations stalled, while Washington ruled out extending the temporary ceasefire, adding to geopolitical uncertainty. Lower gold prices weighed on mining stocks, with Fresnillo falling around 1.2% and Endeavour Mining declining 1.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations."
+    },
+    {
+      "id": "5045448",
+      "time": "2026-08-18 15:38:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：截至7月底，下沉市場個體工商戶數量是企業數量的2倍多】8月18日，市場監管總局登記註冊局負責人杜林亞在國新辦新聞釋出會上表示，個體工商戶是下沉市場中數量最多的經營主體，截至今年7月底，下沉市場中在冊個體工商戶數量對比企業數量為209:100，顯著高於一二線城市中85:100，數量超過7800萬，其中86%以上從事的是服務業相關行業。"
+    },
+    {
+      "id": "5045447",
+      "time": "2026-08-18 15:37:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【面向人工智慧等行業 這4個線上專場招聘2.4萬人次】記者從人力資源社會保障部獲悉，8月17日至23日，百日千萬招聘專項行動推出人工智慧、先進製造、醫療衛生、外貿行業4個線上招聘專場，共3000餘家用人單位參與，招聘需求2.4萬人次。（央視新聞）"
+    },
+    {
+      "id": "5045446",
+      "time": "2026-08-18 15:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方祝賀希奇萊馬總統連任】8月18日，外交部發言人林劍主持例行記者會。 有記者提問，據報道，尚比亞選舉委員會宣佈現任總統希奇萊馬贏得2026年的總統選舉，獲得連任。請問中方對此有何評論？ “中方向希奇萊馬總統當選連任表示祝賀。”林劍表示，中方高度重視發展中贊關係，願同尚比亞新政府共同努力，推動中贊全面戰略合作伙伴關係不斷深入發展，更好地造福兩國人民。（北京日報）"
+    },
+    {
+      "id": "5045445",
+      "time": "2026-08-18 15:36:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達130億港元。"
+    },
+    {
+      "id": "te:markets:576051",
+      "time": "2026-08-18 15:35:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX at Near 2-Week Low — The DAX 40 was down for a second session on Tuesday, falling about 0.4% to near 26,200, a level not seen since August 6. Rising oil prices and higher bond yields, driven by escalating tensions between the US and Iran, weighed on the market, alongside fresh weakness in tech stocks. The expiry of the 60-day US-Iran interim agreement on Monday without a breakthrough added to geopolitical uncertainty. Washington has rejected an extension, while Iran warned of a tougher response if progress is not made in the coming weeks, raising concerns over further disruption in the Strait of Hormuz and global energy supplies. Technology and industrial stocks were among the hardest hit, with Infineon Technologies, Siemens Energy, Siemens and Hochtief ranking among the biggest decliners."
+    },
+    {
+      "id": "5045444",
+      "time": "2026-08-18 15:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰晶科技：高基頻產品已對部分光模組、伺服器批次供應】泰晶科技8月18日在互動平臺表示，公司高基頻產品已對部分光模組、伺服器批次供應，另有一些使用者在持續匯入中。產能在持續擴充中。"
+    },
     {
       "id": "mkt:01a013cb-ec03-7aab-9072-9cdb720f6d66",
       "time": "2026-08-18 15:35:26",

@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-18 15:35:57",
-  "count": 15149,
+  "updated": "2026-08-18 15:39:51",
+  "count": 15143,
   "items": [
+    {
+      "id": "mkt:01a013ce-e9f1-7aab-9072-a28c905ad790",
+      "time": "2026-08-18 15:38:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Three major foreign holders cut US Treasuries; is overseas demand waning?】US Treasury Department TIC data show June reductions in UST holdings by Japan, China and the UK of about $26.0bn, $26.0bn and $9.0bn respectively. China’s holdings fell to $633.4bn, the lowest since Sep 2008. Net foreign purchases of medium- and long-term Treasuries plunged to $6.8bn in June from $56.6bn in May. However, foreigners still net-bought $181.4bn of US equities and $35.6bn of corporate bonds in June, leaving aggregate TIC net inflows of $133.5bn — consistent with reallocation into equities and credit rather than a wholesale flight from US assets. Country-level holdings are reported on a market-value/custody basis; data from financial centres such as the UK can include third-country assets, so monthly declines do not necessarily indicate active selling."
+    },
+    {
+      "id": "5045450",
+      "time": "2026-08-18 15:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國擬發行30年期債券，收益率創2011年以來新高】由於投資者要求為向債務規模不斷攀升的政府提供貸款獲取更高補償，德國在一場大規模長期債券發行中，融資成本即將創下15年新高。德國將透過銀行承銷團發行2056年8月到期債券，該債券收益率較同型別2054年期債券高出0.4個基點，後者當前交易收益率為3.77%。德國商業銀行利率與信用研究主管克里斯托夫・裡格爾表示，週二這筆交易預計最高可募資35億歐元，而德國2027年的融資需求將大幅攀升。"
+    },
+    {
+      "id": "te:markets:576052",
+      "time": "2026-08-18 15:38:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Outperforms Europe — The FTSE 100 was little changed on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 1.8% and 1.4%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. Iran indicated it could adopt a more aggressive military stance after negotiations stalled, while Washington ruled out extending the temporary ceasefire, adding to geopolitical uncertainty. Lower gold prices weighed on mining stocks, with Fresnillo falling around 1.2% and Endeavour Mining declining 1.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations."
+    },
+    {
+      "id": "5045448",
+      "time": "2026-08-18 15:38:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：截至7月底，下沉市場個體工商戶數量是企業數量的2倍多】8月18日，市場監管總局登記註冊局負責人杜林亞在國新辦新聞釋出會上表示，個體工商戶是下沉市場中數量最多的經營主體，截至今年7月底，下沉市場中在冊個體工商戶數量對比企業數量為209:100，顯著高於一二線城市中85:100，數量超過7800萬，其中86%以上從事的是服務業相關行業。"
+    },
+    {
+      "id": "5045447",
+      "time": "2026-08-18 15:37:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【面向人工智慧等行業 這4個線上專場招聘2.4萬人次】記者從人力資源社會保障部獲悉，8月17日至23日，百日千萬招聘專項行動推出人工智慧、先進製造、醫療衛生、外貿行業4個線上招聘專場，共3000餘家用人單位參與，招聘需求2.4萬人次。（央視新聞）"
+    },
+    {
+      "id": "5045446",
+      "time": "2026-08-18 15:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方祝賀希奇萊馬總統連任】8月18日，外交部發言人林劍主持例行記者會。 有記者提問，據報道，尚比亞選舉委員會宣佈現任總統希奇萊馬贏得2026年的總統選舉，獲得連任。請問中方對此有何評論？ “中方向希奇萊馬總統當選連任表示祝賀。”林劍表示，中方高度重視發展中贊關係，願同尚比亞新政府共同努力，推動中贊全面戰略合作伙伴關係不斷深入發展，更好地造福兩國人民。（北京日報）"
+    },
+    {
+      "id": "5045445",
+      "time": "2026-08-18 15:36:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達130億港元。"
+    },
+    {
+      "id": "te:markets:576051",
+      "time": "2026-08-18 15:35:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX at Near 2-Week Low — The DAX 40 was down for a second session on Tuesday, falling about 0.4% to near 26,200, a level not seen since August 6. Rising oil prices and higher bond yields, driven by escalating tensions between the US and Iran, weighed on the market, alongside fresh weakness in tech stocks. The expiry of the 60-day US-Iran interim agreement on Monday without a breakthrough added to geopolitical uncertainty. Washington has rejected an extension, while Iran warned of a tougher response if progress is not made in the coming weeks, raising concerns over further disruption in the Strait of Hormuz and global energy supplies. Technology and industrial stocks were among the hardest hit, with Infineon Technologies, Siemens Energy, Siemens and Hochtief ranking among the biggest decliners."
+    },
+    {
+      "id": "5045444",
+      "time": "2026-08-18 15:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰晶科技：高基頻產品已對部分光模組、伺服器批次供應】泰晶科技8月18日在互動平臺表示，公司高基頻產品已對部分光模組、伺服器批次供應，另有一些使用者在持續匯入中。產能在持續擴充中。"
+    },
     {
       "id": "mkt:01a013cb-ec03-7aab-9072-9cdb720f6d66",
       "time": "2026-08-18 15:35:26",
@@ -138672,143 +138758,6 @@
         "公司"
       ],
       "text": "【深度求索開設“DeepSeek Harness團隊”公眾號】深度求索已設立“DeepSeek Harness團隊”公眾號，公眾號認證主體為北京深度求索人工智慧基礎技術研究有限公司。公開資訊顯示，後者由杭州深度求索人工智慧基礎技術研究有限公司100%持股。6月下旬DeepSeek Harness團隊負責人崔添翼曾在社交平臺發文稱，作為一個新成立的部門，DeepSeek Harness團隊目標宏大且工作繁重，目前人員仍然非常緊缺，“我每天都在面試，也在各個平臺釋出些招聘小廣告”。"
-    },
-    {
-      "id": "te:markets:574366",
-      "time": "2026-08-11 15:39:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Retreat on Geopolitical Jitters — The CAC 40 edged lower to around 8,719 on Tuesday, retreating from the record high reached in the previous session as investors grew more cautious amid rising uncertainty surrounding US-Iran relations. Market sentiment weakened after President Donald Trump called on Iran to compensate victims of conflicts involving Tehran, following Iranian demands for reparations over damage caused by recent US and Israeli strikes. The escalating rhetoric reduced expectations for a near-term breakthrough and dimmed hopes for a reopening of the Strait of Hormuz, fueling concerns over continued disruptions to energy supplies and broader risk sentiment. On the corporate front, heavyweight industrial and healthcare stocks came under modest pressure, with Airbus falling 1%, Safran slipping 0.5%, and Sanofi losing 0.3%. Meanwhile, energy shares outperformed, as TotalEnergies gained 1.1%, supported by higher crude prices."
-    },
-    {
-      "id": "5035286",
-      "time": "2026-08-11 15:39:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通化東寶：1.62億元認購特寶生物可轉債獲配售將上市】通化東寶公告稱，2026年7月28日，公司透過上交所交易系統認購特寶生物可轉換公司債券162.042萬張，認購金額1.62億元。8月3日，公司認購金額全部獲得配售。8月11日，特寶生物披露公告，本次發行的可轉債將於8月13日起在上交所上市交易。公司承諾，認購後6個月內不減持該可轉債。"
-    },
-    {
-      "id": "5035285",
-      "time": "2026-08-11 15:38:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鈺礦業：總經理陳旭因個人意願離任】華鈺礦業公告稱，公司董事會近日收到總經理陳旭書面辭職報告，因個人意願，其不再擔任公司總經理職務，辭職後也不再擔任公司及子公司任何職務。原定任期至2028年4月23日，辭職報告自送達董事會之日起生效。陳旭已做好交接工作，其辭職不會影響公司正常運作及經營管理。截至公告披露日，陳旭未持有公司股份，無未履行承諾事項。"
-    },
-    {
-      "id": "mkt:019fefc1-9c9e-7aab-8feb-f9ba8153486e",
-      "time": "2026-08-11 15:37:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine considers using Moldova rail to export grain】Ukraine is exploring use of Moldova’s rail network to export grain to Romania’s Constanta port amid disruption to Black Sea shipping. Moldova deputy prime minister and infrastructure and regional development minister Vladimir Bolea visited Ukraine’s Odesa region on the 10th to discuss improving rail links and boosting transit capacity. Talks focus on scheduling, volumes and freight: Kyiv seeks a 50% discount off standard tariffs; Moldova is asking Ukraine to guarantee transit volumes."
-    },
-    {
-      "id": "5035284",
-      "time": "2026-08-11 15:37:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海建工：7月為子公司提供7.03億元擔保 累計擔保餘額563.59億元】上海建工公告稱，2026年7月，公司為9家子公司提供合計7.03億元擔保，其中為8家資產負債率高於70%的子公司擔保6.72億元，為1家資產負債率低於70%的子公司擔保0.31億元。截至7月31日，公司對外擔保餘額為563.59億元，佔最近一期經審計淨資產的112%。公司及控股子公司對外擔保總額超最近一期經審計淨資產100%，本月為資產負債率超70%子公司擔保6.72億元，提請投資者注意風險。"
-    },
-    {
-      "id": "5035283",
-      "time": "2026-08-11 15:37:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【銀都股份：境外子公司收到美關稅退稅 預計增利近7900萬元】銀都股份公告稱，截至公告披露日，其境外全資子公司ATOSA USA及ATOSA PUERTO RICO累計收到美國關稅退回1159.99604萬美元（含關稅及利息）。按2026年8月11日匯率折算，預計影響2026年度淨利潤約7876.373112萬元，佔最近一期經審計歸母淨利潤的16.18%。最終結果以審計確認後為準。"
-    },
-    {
-      "id": "mkt:019fefc1-6e8d-7aab-8feb-f1c1a38f51c3",
-      "time": "2026-08-11 15:37:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Huayu Mining said Chen Xu has resigned as general manager at his request and will not hold any positions in the company or its subsidiaries after his resignation."
-    },
-    {
-      "id": "5035282",
-      "time": "2026-08-11 15:37:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SovECON諮詢公司表示，其估計俄羅斯8月小麥出口量為300萬至340萬噸，低於去年同期的450萬噸，也低於500萬噸的歷史均值。"
-    },
-    {
-      "id": "5035281",
-      "time": "2026-08-11 15:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭考慮藉助摩爾多瓦鐵路出口糧食】摩爾多瓦副總理兼基礎設施與地區發展部長弗拉基米爾·博萊亞10日訪問烏克蘭敖德薩州，與烏方官員討論最佳化鐵路聯通、提升過境運輸規模等問題。據英國媒體報道，面對黑海航運受阻的局面，烏克蘭正考慮藉助摩爾多瓦鐵路出口糧食。10日有訊息稱，烏克蘭希望透過摩爾多瓦境內鐵路將糧食運往羅馬尼亞康斯坦察港。雙方目前正圍繞運糧時間安排、運量和運費等問題展開磋商。訊息稱，烏克蘭在談判中試圖砍價，希望在標準運價基礎上享受50%折扣；摩方則要求烏克蘭對糧食過境運輸量作出保證。（央視新聞）"
-    },
-    {
-      "id": "5035280",
-      "time": "2026-08-11 15:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據稱 DAYONE 資料中心已秘密提交 50 億美元的美國 IPO 申請，最快下季度上市。"
-    },
-    {
-      "id": "5035279",
-      "time": "2026-08-11 15:36:48",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價從兩個月高位回落 市場關注焦點轉向美國CPI資料】在美國通脹報告即將釋出之際，金價從兩個月高位回落。這份報告可能會提供有關美聯儲加息意願的新線索。金價週二一度下跌逾0.7%，儘管其早盤曾突破每盎司4400美元，創下6月初以來的新高。金價之前連續兩天上漲，對100日移動均線的突破刺激了技術性買盤，繼近幾周抄底買家出現、中國黃金ETF獲得資金流入後再添復甦跡象。交易員們正將目光轉向週三將公佈的最新美國通脹資料。根據接受調查的經濟學家的預測中值，備受關注的CPI 7月料上升0.1%，此前一個月為下降0.4%。在美國上週五公佈了疲軟的就業報告之後，物價漲幅溫和可能有助於緩解美聯儲的通脹焦慮。"
-    },
-    {
-      "id": "mkt:019fefc0-8134-7aab-8feb-ed2be0ba90fb",
-      "time": "2026-08-11 15:36:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Brent and WTI crude futures rose more than 2% to their highest levels since July 31."
-    },
-    {
-      "id": "mkt:019fefc0-6959-7aab-8feb-e00e18a26716",
-      "time": "2026-08-11 15:36:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "On Aug 11 (Tue), Shanghai Gold Exchange Gold T+D closed up 0.59% at 946.69 yuan/gram; Silver T+D closed up 0.81% at 15,678.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019fefc0-31e0-7aab-8feb-d840e9fd0bde",
-      "time": "2026-08-11 15:36:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Global oil prices continue to rise; European energy stocks up at open】Global oil prices continued to rise, lifting European energy stocks at the open, after Mitsubishi UFJ analyst Soojin Kim said tougher demands from the US and Iran have slowed progress toward an agreement to restore normal shipping through the Strait of Hormuz. Brent futures rose for a fourth consecutive session. Equinor gained about 2%, ENI about 2%, Repsol 1.5%, BP and Shell around 1%, and Total 1.3%."
-    },
-    {
-      "id": "5035278",
-      "time": "2026-08-11 15:36:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：沒人料到伊朗可以迫使敵人提出談判要求】伊朗外長阿拉格齊：沒人料到伊朗可以迫使敵人提出談判要求。我們的武裝力量犧牲了生命，擊敗了世界上最大的所謂軍隊。這不是口號，而是全世界公認的事實。在最近的戰爭中，伊朗向全世界證明了自己，展現出其作為一支強大且不可戰勝的力量的形象。"
     }
   ]
 }
