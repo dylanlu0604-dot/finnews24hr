@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-19 03:54:34",
-  "count": 15114,
+  "updated": "2026-08-19 03:58:26",
+  "count": 15112,
   "items": [
+    {
+      "id": "5046469",
+      "time": "2026-08-19 03:57:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4340美元/盎司，日內跌1.76%。"
+    },
+    {
+      "id": "5046468",
+      "time": "2026-08-19 03:56:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：派拉蒙再度聘用兩名谷歌前高管。"
+    },
+    {
+      "id": "5046467",
+      "time": "2026-08-19 03:54:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超3.00%，現報2.811美元/百萬英熱。"
+    },
     {
       "id": "mkt:01a0166e-aae0-7aab-9081-a6c02862ea76",
       "time": "2026-08-19 03:52:26",
@@ -138501,50 +138527,6 @@
         "DXY"
       ],
       "text": "Gen. Nahdi said Iran can sustain missile and drone production even if the conflict lasts years, and will retain the ability to launch ballistic missiles until the war ends."
-    },
-    {
-      "id": "mkt:019ff266-1291-7aab-8ffa-187ec3016c7a",
-      "time": "2026-08-12 03:56:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's Congressional Economic Committee voted to send the 2027 budget proposal back to the incoming government for revisions."
-    },
-    {
-      "id": "mkt:019ff266-0651-7aab-8ffa-14363483b879",
-      "time": "2026-08-12 03:56:40",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N): Under the partnership agreement, Oracle Cloud Infrastructure customers will have direct access to Quantinum's Helios platform."
-    },
-    {
-      "id": "mkt:019ff264-e9c4-7aab-8ffa-0d4d1be7e886",
-      "time": "2026-08-12 03:55:27",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Quantum computing firm Quantinum has partnered with Oracle (ORCL.N) to accelerate adoption of hybrid quantum computing on Oracle Cloud Infrastructure."
-    },
-    {
-      "id": "5036362",
-      "time": "2026-08-12 03:55:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞國會經濟委員會投票決定，將 2027 年預算草案退回新一屆政府進行調整。"
-    },
-    {
-      "id": "5036361",
-      "time": "2026-08-12 03:54:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文公司：根據本次合作協議，OCI 客戶將可直接訪問 Quantinuum 的 Helios。"
     }
   ]
 }
