@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 01:37:32_
-_本檔包含 3027 則快訊，約 605082 字_
+_更新時間：2026-08-19 01:57:01_
+_本檔包含 3015 則快訊，約 605050 字_
+
+---
+
+### 2026-08-13 08:11:10  #市場 #觀點
+
+【華泰證券：關注氮化鋁國產替代機遇】華泰證券研報表示，需求側，AI算力擴容驅動光模組功耗提升，氮化鋁憑藉高導熱性、高絕緣、高熱適配性等優勢，有望從可選項轉為必選項，華泰證券測算2027年光模組有望拉動高階氮化鋁粉體需求超2000噸。供給側，日系企業受稀土管控影響原材料短缺供應受限，疊加下游旺盛需求，供需錯配有望驅動價格上漲，國內企業積極推進產線爬坡與客戶匯入，或迎來國產替代機遇。
+
+---
+
+### 2026-08-13 08:11:06  #公司
+
+【中國銀河證券：動車組高階修招標落地，鐵路板塊景氣延續】中國銀河證券表示，鐵路客流量持續旺盛以及貨運穩健增長下，國鐵集團今年各類鐵路車輛招標維持高位。今年以來國鐵累計招標時速350公里動車組70組（25年同期68組）、時速160公里動集67.375組（25年同期42組）、貨車34800輛（超25年全年）、機車398臺（25年同期455臺）。根據我們對線路的梳理，26-28年預計年均新投產里程有望超3000公里，其中27年為通車高峰，未來三年動車組新車招標有望維持高位；同時，動車組維修按照修程修制推進，24年起進入放量週期，我們測算十五五期間年均高階修市場空間有望超500億元；持續看好鐵路裝備高景氣延續。
+
+---
+
+### 2026-08-13 08:11:03  #公司 #市場 #央行 #國際
+
+【韓國Kospi指數早盤勁揚 自7月低點以來已上漲逾20%】韓國Kospi指數一度上漲4%，較7月30日的低點累計漲幅超過20%。美國通脹資料溫和提振了投資者情緒，緩解外界對美聯儲即將升息的擔憂。三星電子和SK海力士領漲，兩家公司股價均上漲超過4%。Mirae Asset Securities在一份報告中指出，SK海力士股價的回檔似乎過頭，維持買入評級，目標價為280萬韓元。韓國Kosdaq指數上漲1.3%。
+
+---
+
+### 2026-08-13 08:10:38  #Trading Economics #Economy #Azerbaijan #Inflation Rate MoM #Importance 0
+
+Azerbaijan Monthly Inflation Declines at Slower Pace — Azerbaijan’s consumer prices fell 0.1% month-on-month in July 2026, following a sharper 0.3% decline in June. The slower decline was reflected in food, alcoholic beverages and tobacco prices, which fell 0.4% after decreasing 0.7% in the previous month. Food prices alone declined 0.4%, compared with a 0.8% drop in June, mainly due to lower prices for vegetables and fruit, while egg prices increased. Meanwhile, non-food prices were unchanged after rising 0.1% in June, as higher prices for paint, passenger car spare parts and engine oils were offset by lower jewelry prices. Prices for paid services rose 0.3%, following a 0.1% rise in June, driven by higher apartment rents, domestic leisure tours and catering services. On an annual basis, consumer prices rose by 5.8% in July, the same pace as in the preceding period and still the highest reading since October last year.
 
 ---
 
@@ -18215,101 +18239,5 @@ Banco BTG Pactual earnings above expectations at 1.33 BRL — Banco BTG Pactual 
 ### 2026-08-12 01:58:13  #資料 #央行 #國際
 
 “新美聯儲通訊社”Nick Timiraos：美國7月CPI月度通脹資料將受到密切關注，更多美聯儲官員正在尋找證據，判斷通脹能否在無需進一步收緊政策的情況下回落至2%。
-
----
-
-### 2026-08-12 01:56:07  #國際
-
-【美國預計伊朗戰爭造成的石油供應受阻將持續到2027年底】美國目前預計，美伊戰爭導致的日均約60萬桶的石油供應受阻將持續到明年年底，因衝突繼續阻礙石油經關鍵航道霍爾木茲海峽運輸。根據美國能源資訊管理局(EIA)《短期能源展望》的估算，今年第二季度，日均490萬桶石油經霍爾木茲海峽運輸。相比之下，2025年第四季度為日均2,160萬桶，當時美國和以色列尚未對伊朗發動襲擊。
-
----
-
-### 2026-08-12 01:55:47  #公司
-
-【谷歌稱Gemini的月使用者數已超過10億】Alphabet執行長Sundar Pichai在社交媒體平臺上發帖稱，目前每月有超過10億人使用Gemini。他說：“這是我們歷來增長最快的產品，也是我們第14款使用者數量達到10億的產品”
-
----
-
-### 2026-08-12 01:55:00  #其他
-
-【哥倫比亞地震已致240人遇難】據哥倫比亞媒體當地時間8月11日報道，綜合各地區政府的統計，哥倫比亞地震造成的遇難人數已升至240人，此外還有1300多人受傷，數百人失蹤。
-
----
-
-### 2026-08-12 01:54:33  #其他 #焦點
-
-蘋果負責支付和錢包服務的高管即將離職。
-
----
-
-### 2026-08-12 01:51:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) top executive responsible for payments and Apple Wallet services will depart in October.
-
----
-
-### 2026-08-12 01:51:44  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-TASNIM NEWS reported Yemen's armed forces attacked a vessel carrying Saudi military equipment in the Bab al-Mandeb Strait.
-
----
-
-### 2026-08-12 01:47:55  #MKT News
-
-Musk said the team will first fix foundational issues in the Grok Bot beta and, after releasing Grok 4.6 later this week, expand beta access to more users.
-
----
-
-### 2026-08-12 01:47:10  #其他 #焦點
-
-葉門武裝部隊在曼德海峽襲擊了一艘載有沙烏地阿拉伯軍事裝備的船隻。
-
----
-
-### 2026-08-12 01:47:08  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Aziz, chair of Iran's parliamentary National Security and Foreign Policy Committee, said the nuclear issue is a central public demand and will be a complex part of negotiations, adding that talks will be very difficult.
-
----
-
-### 2026-08-12 01:45:46  #國際
-
-伊朗國家安全委員會成員阿齊茲就核問題表示：就此展開談判將會十分困難。
-
----
-
-### 2026-08-12 01:45:12  #其他
-
-馬斯克：我們在解決早期測試版的基礎問題後，會擴大Grok聊天機器人測試版的開放範圍，並將於本週晚些時候推出Grok 4.6版本。
-
----
-
-### 2026-08-12 01:42:44  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-Google (GOOG.O) said the GEMINI app exceeded 1 billion monthly active users (MAU), making it the fastest-growing product in the company's history.
-
----
-
-### 2026-08-12 01:42:11  #公司 #焦點
-
-谷歌執行長皮查伊：Gemini月活使用者現已突破10億，Gemini是谷歌有史以來增長最快的產品。
-
----
-
-### 2026-08-12 01:39:52  #MKT News
-
-Colombia's finance minister said the government will declare an economic state of emergency following the earthquake.
-
----
-
-### 2026-08-12 01:38:35  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #Copper
-
-Colombia's finance minister says the country is facing the most severe economic crisis in its history.
-
----
-
-### 2026-08-12 01:38:19  #MKT News #Commodities #Energy #Brent #WTI
-
-Libya's National Oil Corporation said a fire at a fuel tank at the Zawiya refinery has been brought under control.
 
 ---

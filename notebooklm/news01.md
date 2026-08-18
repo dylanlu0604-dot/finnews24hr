@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 01:37:32_
-_本檔包含 3059 則快訊，約 605223 字_
+_更新時間：2026-08-19 01:57:01_
+_本檔包含 3052 則快訊，約 605226 字_
+
+---
+
+### 2026-08-19 01:53:29  #國際
+
+伊朗方面報道：調查顯示，有關伊朗向阿聯酋發動導彈襲擊的說法尚無證據證實；伊朗只承認自己實際實施過的行動。
+
+---
+
+### 2026-08-19 01:53:04  #MKT News
+
+Fox News reported Rep. Buddy Carter has held discussions with the White House about serving as the next FDA commissioner, and sources said he is interested in the post.
+
+---
+
+### 2026-08-19 01:50:48  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran foreign minister: recent clashes show countries without US bases suffer less damage】On the 18th, Iran's foreign minister Araqchi said recent clashes show countries without US military bases suffer less damage, and that US bases cannot shield US interests from strikes by resistance forces. He said Qatar and Pakistan played effective mediating roles between Iran and the US and that Tehran's ties with Qatar are currently very good. He urged a new Middle East security concept based on "common security" and addressing economic imbalances, warning the Persian Gulf cannot achieve lasting peace without comprehensive cooperation.
+
+---
+
+### 2026-08-19 01:43:41  #國際
+
+【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）
 
 ---
 
@@ -18397,71 +18421,5 @@ Belarus Industrial Activity Rebounds — Belarus’ industrial production edged 
 ### 2026-08-17 21:13:45  #公司 #國際
 
 【臉書照片牆被控誘導青少年成癮 Meta被全美29州起訴】美國元公司因涉嫌針對青少年設計成癮性產品，遭到美國多州的聯合訴訟。案件定於18日，也就是明天在加利福尼亞州奧克蘭開庭審理。法庭檔案顯示，加利福尼亞、科羅拉多、肯塔基和新澤西4個州指控，“元”公司刻意將旗下的臉書、照片牆設計為容易讓未成年人成癮的模式，並刻意隱瞞平臺對青少年心理健康造成的負面影響，涉嫌誤導公眾、侵害未成年人權益，向“元”公司尋求約2000億美元的賠償。目前，全美有29個州起訴“元”公司，多數州指控其違反《兒童線上隱私保護法》，在未經父母同意的情況下非法收集兒童個人資訊。除“元”公司外，其他社交媒體平臺也面臨數千起類似訴訟。（央視財經）
-
----
-
-### 2026-08-17 21:11:24  #MKT News #Nikkei 225 #Impact bullish
-
-JP Morgan raised its end-2026 target for Japan's TOPIX to 4,600 from 4,400.
-
----
-
-### 2026-08-17 21:10:52  #觀點 #國際
-
-摩根大通將日本東證股價指數2026年年終點位目標從4400點上調至4600點。
-
----
-
-### 2026-08-17 21:10:32  #其他
-
-【葉門胡塞武裝稱襲擊沙特軍艦】當地時間17日，葉門胡塞武裝發言人葉海亞·薩雷亞在社交媒體發文稱，該組織向紅海海域“一艘沙特軍艦及其四艘護衛船隻”發動了導彈襲擊。沙特方面尚未對此作出回應。（央視新聞）
-
----
-
-### 2026-08-17 21:10:11  #國際
-
-俄羅斯堪察加彼得羅巴甫洛夫斯克以東 72 公里處發生 5.8 級地震。
-
----
-
-### 2026-08-17 21:09:49  #MKT News
-
-OpenAI said the Ports-Pike project is expected to create 35,000 construction jobs during a six-year build ending in 2032 and 2,500 long-term operations jobs.
-
----
-
-### 2026-08-17 21:09:31  #其他
-
-OPENAI：PORTS-PIKE專案預計在截至2032年的六年建設期內創造35,000個建築崗位，以及2,500個長期運營崗位。
-
----
-
-### 2026-08-17 21:09:11  #MKT News
-
-【IRGC denies secret-channel talks with US】Iran's Islamic Revolutionary Guard Corps (IRGC) said its officials did not engage in secret-channel talks with the United States, Iranian media reported on 17.
-
----
-
-### 2026-08-17 21:08:48  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Traders say strong demand has pushed October-delivered Russian ESPO blend cargoes back into a premium to ICE Brent.
-
----
-
-### 2026-08-17 21:08:31  #焦點 #國際
-
-據伊朗媒體17日報道，伊朗伊斯蘭革命衛隊發言人說，革命衛隊官員並未與美國方面透過秘密渠道進行對話。（新華社）
-
----
-
-### 2026-08-17 21:08:11  #國際
-
-交易商稱，10月裝船的俄羅斯ESPO混合原油實貨已恢復對ICE布倫特原油的升水。
-
----
-
-### 2026-08-17 21:07:45  #市場 #觀點
-
-【高盛：標普 500 指數成分股營收增速創五年新高】高盛表示，剔除能源板塊後，標普 500 成分股二季度營收同比增長 6.4%，為五年來最快增速。大型科技企業成為增長主力；剔除科技板塊後，標普 500 成分股營收中位數僅增長 3%。企業盈利同比大漲近 50%，部分源於科技企業上調私人投資估值。與此同時，企業收到超 1000 億美元關稅退款，這筆意外收益被用於營銷、緩解成本壓力以及下調產品售價。
 
 ---

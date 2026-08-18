@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 01:37:32_
-_本檔包含 3096 則快訊，約 604834 字_
+_更新時間：2026-08-19 01:57:01_
+_本檔包含 3089 則快訊，約 604875 字_
+
+---
+
+### 2026-08-16 08:10:25  #MKT News #Market Themes #AI Revolution
+
+【Fujian to boost AI infrastructure and build province-wide integrated compute network】Fujian provincial government issued its "15th Five-Year" plan for emerging and future industries, prioritizing AI deployment. The plan targets accelerated AI infrastructure: a province-wide integrated compute network, public intelligent-computing centers in Fuzhou, Xiamen and Zhangzhou, and deployment of edge compute nodes. It calls for scaling AI pilot and pilot-test bases, co‑building an AI for Science platform with national strategic science bodies, and implementing a "data-element" initiative to create AI-ready high-quality datasets in government, healthcare and marine sectors, plus provincial data-labeling bases and a data development/service ecosystem. The plan designates provincial AI industry parks in Fuzhou, Xiamen and Quanzhou, supports R&D on AI chips and core algorithms, encourages AI-native startups and promotes low-cost, open OPC1 innovation communities offering vertical-domain prototyping services.
+
+---
+
+### 2026-08-16 08:10:06  #其他
+
+【否認使用槓桿資金，牛散“鑫多多”回應舉牌風波，稱不存在爆倉風險】8月15日凌晨，知名牛散劉鑫（網名“鑫多多”）在微信公眾號“億萬鑫”釋出長文，就其舉牌德龍匯能及相關市場關切作出回應。在長文中，劉鑫否認使用槓桿資金舉牌，稱個人資產負債率低於10%，德龍匯能持倉為全部現金倉位購買，不存在爆倉風險。他同時透露，其最早買入德龍匯能時為短線操作，後經研究看好長期價值，遂將股票轉至普通賬戶並歸還融資。然而，在此前披露的權益變動報告書中，劉鑫將信用賬戶股票種類標註為“人民幣融資股”。值得一提的是，這一類別在近年自然人舉牌案例中尚無先例。記者採訪了多個券商及投資人士，各方對此解讀不一。有人認為是融資買入，有人理解為僅指兩融標的，亦有觀點認為可能指信用賬戶中自有資金買入的擔保品。此外，劉鑫向德龍匯能報送的交易記錄曾進行過大面積修正，普通賬戶部分月份的交易數量發生較大調整，但其在長文中未就修正原因作出說明。（每經）
 
 ---
 
@@ -18617,59 +18629,5 @@ CK Hutchison (00001.HK) slid further after results, dropping more than 5% at the
 ### 2026-08-14 09:30:52  #其他
 
 【亮源新創完成數億元Pre-A輪融資】8月14日，亮源新創（Light Origins）宣佈完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資，資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設、軟硬體全棧平臺研發以及高人才密度的團隊擴張。
-
----
-
-### 2026-08-14 09:30:13  #國際
-
-韓國7月家庭貸款增至1194.8萬億韓元。
-
----
-
-### 2026-08-14 09:30:12  #MKT News #Market Regions #Greater China
-
-Shenzhen Stock Exchange halted trading in Yuhe convertible bond (123277) from 09:30:00 today after its intraday traded price first rose 30% or more above the issue price; trading resumed at 14:57:00.
-
----
-
-### 2026-08-14 09:30:03  #市場 #焦點
-
-科創50日內漲幅達1.23%，成分股中，中芯國際漲3.52%，佰維儲存漲2.63%，晶合整合漲2.55%，芯原股份漲2.34%。
-
----
-
-### 2026-08-14 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.10%， 10年期主力合約基本持平， 5年期主力合約跌0.01%， 2年期主力合約基本持平。
-
----
-
-### 2026-08-14 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲0.09%， 滬深300指數期貨連續跌0.04%， 中證500指數期貨連續跌0.04%， 上證50指數期貨連續跌0.08%。
-
----
-
-### 2026-08-14 09:29:28  #國際
-
-【特朗普允許美海軍海外建造艦船 要求棄用電磁彈射系統】白宮當地時間8月13日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射系統。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
-
----
-
-### 2026-08-14 09:29:16  #公司 #市場
-
-【深交所：“玉禾轉債”盤中臨時停牌】深交所公告，“玉禾轉債”（123277）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-08-14 09:27:58  #公司
-
-【國家藥監局批准1款創新藥上市】近日，國家藥品監督管理局批准天境生物藥業（杭州）股份有限公司申報的注射用菲澤妥單抗（商品名：境斐）上市，該品種聯合來那度胺和地塞米松用於既往至少接受過一線治療的多發性骨髓瘤成年患者。該品種的上市為相關患者提供了新的治療選擇。
-
----
-
-### 2026-08-14 09:27:57  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish #Hang Seng Index
-
-【SMIC co-CEO Zhao Haijun: Chinese internet firms’ hardware spending exceeds expectations; compute and supporting chips in short supply】SMIC co-CEO Zhao Haijun said at the company earnings meeting that Chinese internet companies have materially ramped hardware investment beyond SMIC’s prior forecasts; customers’ expected future volumes are far above earlier projections. Demand tied to data-center circuit boards and compute modules, and supporting chips — including logic, BCD power devices and optical-module transceivers — is outstripping supply.
 
 ---
