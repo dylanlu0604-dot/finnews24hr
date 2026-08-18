@@ -1,7 +1,111 @@
 {
   "date": "2026-08-18",
-  "count": 2089,
+  "count": 2102,
   "items": [
+    {
+      "id": "mkt:01a014b9-1f90-7aab-9079-0b242b3154fa",
+      "time": "2026-08-18 19:54:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media calls Trump's labeling of the Strait of Hormuz as US territory 'delusional'】Fars news agency on the 18th dismissed President Trump's social-media post that labelled the Strait of Hormuz 'America's new territory' as delusional, posting a screenshot and saying 'Trump continues in his delusion to claim the Strait of Hormuz is US territory.'"
+    },
+    {
+      "id": "5046018",
+      "time": "2026-08-18 19:54:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑芝麻智慧與美創希簽署晶片供應商合作意向框架協議】據黑芝麻智慧訊息，近日，黑芝麻智慧與廣東美創希科技有限公司（美的旗下全資子公司，簡稱“美創希”）正式簽署晶片供應商合作意向框架協議。根據協議，黑芝麻智慧將依託自身成熟的晶片研發、產能及供應鏈資源，為美創希提供符合機器人與家電產品需求的國產晶片產品。雙方將以工業機器人、人形機器人為核心合作切入點，推進晶片方案的適配驗證與場景落地，助力機器人產品實現高效能、高可靠的端側算力支撐，同步覆蓋家電品類的晶片需求，協同推進國產晶片在多場景下的替代升級。"
+    },
+    {
+      "id": "te:economy:576128",
+      "time": "2026-08-18 19:54:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yield Rises Toward 3-Week High — Switzerland’s 10-year government bond yield rose to around 0.42%, heading toward a three-week high, amid uncertainty over geopolitical tensions in the Middle East and the impact on inflation and monetary policy. Fading hopes of a resolution to the conflict pushed oil prices higher, renewing inflation concerns. Meanwhile, economic growth accelerated to 1.5% quarter-on-quarter in Q2 2026, the strongest pace since 2021, while foreign exchange interventions supported exporters by limiting safe-haven flows into the franc and preventing excessive appreciation. Still, US trade policy remains a key uncertainty. On the other hand, Swiss inflation slowed to 0.4% in July, its lowest level in four months. The SNB kept its policy rate at 0% at its latest meeting and is expected to hold it there through 2027, with further cuts viewed as a contingency rather than the base case. Most economists expect the first rate hike in early 2028, while markets are pricing in one as early as March 2027."
+    },
+    {
+      "id": "5046017",
+      "time": "2026-08-18 19:53:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲漢芯城：2026年上半年淨利潤1.66億元，同比增長207.69%】雲漢芯城公告，2026年上半年營業收入27.46億元，同比增長90.66%。歸屬於上市公司股東的淨利潤1.66億元，同比增長207.69%。扣非淨利潤1.61億元，同比增長219.23%。公司擬以8465.09萬股為基數，向全體股東每10股派發現金紅利4.1元（含稅）。"
+    },
+    {
+      "id": "5046016",
+      "time": "2026-08-18 19:53:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒稱特朗普將霍爾木茲海峽列為美國領土是“妄想”】伊朗法爾斯通訊社18日駁斥美國總統特朗普有關霍爾木茲海峽言論，稱其為“妄想”。 特朗普當天早些時候在社交媒體上釋出地圖，將霍爾木茲海峽標註為“美國新領土”。法爾斯通訊社隨即在社交媒體附上特朗普這條帖文的截圖並駁斥道，“特朗普在其妄想中繼續聲稱‘霍爾木茲海峽是美國領土’”。（新華社）"
+    },
+    {
+      "id": "mkt:01a014b8-1ebe-7aab-9079-03b313d8b34a",
+      "time": "2026-08-18 19:53:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO director-general says the Ebola outbreak in the Democratic Republic of the Congo is \"far from controlled\"."
+    },
+    {
+      "id": "5046015",
+      "time": "2026-08-18 19:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內大容量熔鹽儲能光熱示範專案正式投產】據中國能建訊息，近日，中國能建浙江火電承建的三峽能源青豫直流10萬千瓦光熱專案順利透過14天試執行，各項執行引數穩定，各項考核指標全部達標，正式投產。該專案位於青海戈壁荒漠區域，是國內大容量熔鹽儲能光熱示範專案。專案依託12小時超長時熔鹽儲能系統，有效解決傳統新能源隨機性、間歇性、波動性短板，具備極強的調峰穩壓、削峰填谷能力，可為青豫直流特高壓通道持續輸送穩定、可靠、優質的清潔綠電，是新型電力系統建設中源網荷儲協同發展的典型實踐專案。"
+    },
+    {
+      "id": "5046014",
+      "time": "2026-08-18 19:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【BBA集體大降價：寶馬5系跌至28萬】“官方指導價為36.8萬元的寶馬525Li，採用分期付款裸車優惠價格為28萬元左右。而過去幾年寶馬3系落地價格為40萬元，如今二十多萬即可提車，這主要是官方售價整體下調，目前3系起售價僅為25.8萬元。”近日，寶馬北京一家經銷商門店銷售經理王於告訴記者。 伴隨著國內汽車市場競爭格局的變化，傳統豪華車市場迎來嚴峻考驗。一方面，中國車企在新能源領域快速滲透，搶奪豪華車市場蛋糕，在不同價格地帶的細分領域形成國產替代；另一方面，傳統豪華車的品牌護城河不再堅挺，價格下探已成為常態。 傳統豪華車曾經堅挺的價格體系，正以前所未有的速度瓦解。（第一財經）"
+    },
+    {
+      "id": "5046013",
+      "time": "2026-08-18 19:52:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠柏新材：子公司擬1.78億元投建纖維複合材料專案】惠柏新材公告，公司全資子公司上海帝福擬透過招拍掛方式購買位於上海市奉賢區柘林鎮約35畝工業用地，並在該地塊投資建設“纖維複合材料生產專案”，計劃投資總額約人民幣1.78億元。該事項已於2026年8月18日經公司第四屆董事會第十五次會議審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "5046012",
+      "time": "2026-08-18 19:51:36",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點",
+        "國際",
+        "兩會"
+      ],
+      "text": "【8月18日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.朱鎔基同志遺體在京火化； 2.習近平舉行儀式歡迎厄瓜多總統訪華； 3.習近平同厄瓜多總統會談； 4.李強簽署國務院令 公佈《國務院關於修改〈住房公積金管理條例〉的決定》； 5.趙樂際主持召開十四屆全國人大常委會第七十一次委員長會議 決定十四屆全國人大常委會第二十四次會議8月25日至28日在京舉行； 6.多項舉措進一步激發下沉市場活力； 7.“十五五”我國將加快建設現代油氣產業體系； 8.長三角外貿規模創新高 “新動能”引領高質量發展； 9.澳門特區政府正式公佈第三個五年規劃； 10.2025年南海區海洋生態狀況總體穩定； 11.國內聯播快訊： （1）兩部門再次撥付6000萬元 支援河南做好防汛搶險救災工作； （2）跨國公司資金池政策推廣至全國； （3）醫保基金即時結算年度目標任務提前完成； （4）我國已將建築門窗等6大類72種產品納入綠色建材認證範疇； （5）橫琴口岸新旅檢區域通關旅客累計超1.1億人次； （6）田灣核電7號機組進入帶核除錯階段； （7）新疆奇台射電望遠鏡完成核心結構安裝； （8）99000立方米超大型乙烷乙烯運輸船今天交付； （9）厄爾尼諾快速發展 大機率成為歷史最強； 12.俄外長批評日本企圖借抨擊俄羅斯掩蓋具有侵略性質的軍事動向； 13.美稱不延長諒解備忘錄 伊朗稱不接受最後通牒； 14.國際聯播快訊： （1）美特使與哈馬斯及以總理會面 進展有限； （2）俄就烏使用英無人機打擊俄縱深警告英國； （3）超22萬加拿大人請願驅逐美國大使。"
+    },
+    {
+      "id": "mkt:01a014b6-65b9-7aab-9078-fb365700b8cc",
+      "time": "2026-08-18 19:51:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state television, citing unnamed sources, said Israel has submitted to Jared Kushner a detailed plan to disarm Hamas and is seeking to participate in the disarmament operation."
+    },
+    {
+      "id": "5046011",
+      "time": "2026-08-18 19:51:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "PIMCO總裁斯特拉克表示，由於今年多家大型直接貸款基金突然限制贖回，財富管理公司正撤離私募信貸，並加緊尋找替代品。"
+    },
     {
       "id": "mkt:01a014b5-4bf4-7aab-9078-f3b5e2f962d1",
       "time": "2026-08-18 19:50:20",
@@ -14,6 +118,14 @@
         "Nasdaq100"
       ],
       "text": "【PIMCO: Wealth managers are exiting private credit】PIMCO president Strack said wealth managers are withdrawing from private-credit strategies after several large direct-lending funds imposed sudden redemption limits, accelerating searches for alternatives. Wealth-management distributors are unwilling and often unable to sell retail private-credit products tied to direct lending. PIMCO estimates most business development companies (BDCs) have about 15% of AUM in redemption queues that will take several quarters to clear, and more than $14.5bn of investor capital is trapped in over a dozen funds. Some BDCs have accumulated large pools of stressed loans, notably software loans maturing in 2027–28. The software sector faces roughly $386bn of syndicated loan maturities in 2028–29, creating refinancing pressure and a projected rise in default rates over the next few years."
+    },
+    {
+      "id": "5046010",
+      "time": "2026-08-18 19:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委、天津市人民政府召開中國—上海合作組織綠色產業合作平臺全體會議】2026年8月18日，國家發展改革委、天津市人民政府召開中國—上海合作組織綠色產業合作平臺全體會議，深入學習貫徹習近平主席重要講話精神，總結平臺成立1週年以來各項工作，部署下一步重點工作任務。平臺指導委員會主任、國家發展改革委副主任周海兵和天津市人民政府常務副市長王旭出席會議，指導委員會辦公室主任、國家發展改革委環資司司長王善成主持會議，上海合作組織副秘書長戴思澤到會指導。會議強調，成立中國—上海合作組織綠色產業合作平臺，是深入貫徹落實習近平主席重要講話精神的具體舉措，是以高水平國際合作助力綠色產業高質量發展的重要載體。平臺各成員單位、各有關地方和企業要深刻認識推進平臺建設的重大意義，增強做好各項工作的政治自覺、思想自覺和行動自覺。平臺成立以來，各成員單位紮實推進各項工作，取得積極成效，平臺建設起好步、開好局的目標已經基本實現。"
     },
     {
       "id": "mkt:01a014b5-0b29-7aab-9078-eb8d3225c19f",
