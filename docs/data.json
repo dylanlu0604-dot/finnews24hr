@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-19 04:57:23",
-  "count": 15120,
+  "updated": "2026-08-19 05:01:25",
+  "count": 15118,
   "items": [
+    {
+      "id": "5046500",
+      "time": "2026-08-19 04:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）"
+    },
     {
       "id": "mkt:01a016a6-9cc4-7aab-9082-d63c69c072d9",
       "time": "2026-08-19 04:53:32",
@@ -138584,34 +138592,6 @@
         "國際"
       ],
       "text": "案件卷宗顯示：美國一名法官阻止美國郵政局依據特朗普總統的行政令對郵寄投票實施限制。"
-    },
-    {
-      "id": "5036390",
-      "time": "2026-08-12 04:59:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（8月11日）紐約尾盤，現貨黃金跌0.50%，報4368.81美元/盎司。現貨白銀跌1.63%，報6.46705美元/盎司。COMEX銅期貨漲0.19%，報6.6285美元/磅。現貨鉑金跌0.82%，現貨鈀金跌1.20%。"
-    },
-    {
-      "id": "mkt:019ff29d-c9bc-7aab-8ffb-26a59dff1280",
-      "time": "2026-08-12 04:57:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Commodity Futures Trading Commission (CFTC) has asked prediction platform Kalshi to continue operating."
-    },
-    {
-      "id": "te:economy:574518",
-      "time": "2026-08-12 04:57:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier."
     }
   ]
 }
