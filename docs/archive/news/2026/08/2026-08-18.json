@@ -1,7 +1,81 @@
 {
   "date": "2026-08-18",
-  "count": 2102,
+  "count": 2111,
   "items": [
+    {
+      "id": "5046025",
+      "time": "2026-08-18 19:57:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 沙特敵方炮火轟擊葉門薩達省塔哈爾區加費拉地區人口稠密的村莊。"
+    },
+    {
+      "id": "5046024",
+      "time": "2026-08-18 19:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【首屆電競世界盃推遲至2027年舉行】總部位於沙烏地阿拉伯利雅得的電競發展基金會18日宣佈，首屆電競世界盃將推遲至2027年11月舉行。這項賽事原定於2026年11月在利雅得舉行。基金會稱，推遲賽事的決定是在評估中東整體地緣局勢、與各利益相關方廣泛討論後作出的。（新華社）"
+    },
+    {
+      "id": "5046023",
+      "time": "2026-08-18 19:56:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商局置地：2026年上半年收益38.57億元，期內虧損3.01億元】招商局置地公告，截至2026年6月30日止六個月，集團收益38.57億元，上年同期48.99億元。期內虧損3.01億元，上年同期虧損2.54億元。本公司擁有人應占期內虧損2.27億元，上年同期虧損2.31億元。每股基本虧損4.63分。"
+    },
+    {
+      "id": "5046022",
+      "time": "2026-08-18 19:56:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三諾生物：目前暫未推出手錶式血壓計】三諾生物8月18日在互動平臺表示，公司在血壓監測領域已佈局臂筒式、臂式、腕式三大類血壓計產品，並推出了具備物聯網功能的智慧血壓計。公司近期已上市房顫臂筒式血壓計S21等新品，持續提升血壓監測的臨床價值與使用者體驗。公司目前暫未推出手錶式血壓計，將基於該類產品可及的測量準確性和市場需求進行審慎評估與規劃佈局。"
+    },
+    {
+      "id": "5046021",
+      "time": "2026-08-18 19:56:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多浦樂：持股5%以上股東廈門融昱及其一致行動人擬減持不超過3.4862%股份】多浦樂公告，合計持有公司股份394.94萬股（佔公司總股本比例4.4002%）的股東廈門融昱佳弘投資合夥企業（有限合夥）及其一致行動人蘇州融昱瑞海投資合夥企業（有限合夥），計劃自2026年9月9日至2026年12月8日，以大宗交易方式合計減持公司股份不超過312.91萬股（即不超過公司總股本的3.4862%）。"
+    },
+    {
+      "id": "5046020",
+      "time": "2026-08-18 19:55:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利比亞國家石油公司：利比亞需要多達400億美元來恢復大型石油生產國地位】利比亞國家石油公司主席馬蘇德·蘇萊曼表示，利比亞需要高達400億美元的投資用於油田開發，以恢復其最大石油生產國之一的地位。他表示，利比亞的“頗具雄心但現實的目標”是到2030年將原油產量從目前的約每日140萬桶提高至每日200萬桶。蘇萊曼補充稱，該國已發現60多個尚未開發的油氣田。"
+    },
+    {
+      "id": "mkt:01a014b9-b4da-7aab-9079-1c097c27f76c",
+      "time": "2026-08-18 19:55:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Black Sesame Intelligent signs chip supply framework agreement with Guangdong Meichuangxi Technology】Black Sesame Intelligent said it has signed a framework cooperation agreement to serve as chip supplier to Guangdong Meichuangxi Technology. Under the deal Black Sesame will use its chip R&D, production capacity and supply-chain resources to provide domestically produced chips for robot and home-appliance applications. The partners will prioritize industrial and humanoid robots for solution adaptation, validation and deployment to deliver high-performance, high-reliability edge compute, while also covering appliance chip requirements and jointly promoting domestic chip substitution and upgrades across scenarios."
+    },
+    {
+      "id": "mkt:01a014b9-962e-7aab-9079-13aec62941e3",
+      "time": "2026-08-18 19:55:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni media reported Saudi artillery struck a densely populated village in Al-Tahhar district, Saada governorate, Yemen."
+    },
+    {
+      "id": "5046019",
+      "time": "2026-08-18 19:54:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高偉達：收到某集團客戶中選通知書，中選金額為3090萬元】高偉達公告，公司近日收到某集團客戶的中選通知書，確認中選相關專案，中選金額為3090萬元。本次中選專案屬於公司主營業務範疇，後續將根據客戶要求推進合同簽署及專案實施工作。"
+    },
     {
       "id": "mkt:01a014b9-1f90-7aab-9079-0b242b3154fa",
       "time": "2026-08-18 19:54:31",
