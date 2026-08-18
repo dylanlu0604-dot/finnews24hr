@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-19 04:36:53",
-  "count": 15095,
+  "updated": "2026-08-19 04:40:44",
+  "count": 15096,
   "items": [
+    {
+      "id": "te:markets:576234",
+      "time": "2026-08-19 04:39:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed."
+    },
+    {
+      "id": "5046490",
+      "time": "2026-08-19 04:38:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）"
+    },
+    {
+      "id": "mkt:01a01698-5d9b-7aab-9082-214810196400",
+      "time": "2026-08-19 04:37:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance."
+    },
     {
       "id": "5046489",
       "time": "2026-08-19 04:35:43",
@@ -138339,24 +138369,6 @@
         "其他"
       ],
       "text": "惠譽：簡街資本計劃提前償還 55 億美元定期貸款。"
-    },
-    {
-      "id": "5036384",
-      "time": "2026-08-12 04:39:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "CoreWeave盤後漲幅擴大至10%。"
-    },
-    {
-      "id": "mkt:019ff28c-fec2-7aab-8ffb-12f8f759cb92",
-      "time": "2026-08-12 04:39:14",
-      "tags": [
-        "MKT News",
-        "CRWV.O",
-        "Impact bullish"
-      ],
-      "text": "CoreWeave (CRWV.O) U.S. shares rose 10% in after-hours trading."
     }
   ]
 }
