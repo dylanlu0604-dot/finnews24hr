@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-19 00:17:44",
-  "count": 15131,
+  "updated": "2026-08-19 00:22:04",
+  "count": 15117,
   "items": [
+    {
+      "id": "5046365",
+      "time": "2026-08-19 00:20:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國柴油利潤飆升至每桶100美元以上，創歷史新高】美國用原油生產柴油的利潤已飆升至每桶100美元以上，創下新的歷史最高紀錄。與此同時，全球煉油產能緊缺的局面仍在加劇燃料價格上漲。這一備受關注的指標——即柴油裂解價差——週二徘徊在每桶100美元附近，較此前超過102美元/桶的歷史高點小幅回落。該價差在週一首次收於三位數水平。在此之前，該指標從未突破每桶89美元，此前的歷史紀錄是在2022年10月創下的，當時全球正面臨進入俄烏衝突首個冬季前的燃料短缺問題。"
+    },
+    {
+      "id": "5046364",
+      "time": "2026-08-19 00:20:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：阿布扎比與華盛頓領導人通電話，商討阿聯酋與美國多領域合作及強化合作的途徑；此前一週，霍爾木茲海峽已發生三起涉及阿聯酋船隻的事件。"
+    },
+    {
+      "id": "mkt:01a015a9-c89a-7aab-907f-1d2fd0106475",
+      "time": "2026-08-19 00:17:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency cites Houthi sources denying reports they launched a missile attack on the UAE."
+    },
     {
       "id": "5046363",
       "time": "2026-08-19 00:15:24",
@@ -138591,166 +138616,6 @@
         "Impact bearish"
       ],
       "text": "Chile's Copper Commission Cochilco forecasts copper production at 5.55 mln tonnes in 2027, up 5.2% from 2026."
-    },
-    {
-      "id": "mkt:019ff1a1-61f8-7aab-8ff7-7b8e9001dc42",
-      "time": "2026-08-12 00:21:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK Prime Minister Burnham said fiscal space for government support is limited. He faces a severe fiscal outlook and will not propose any measures he cannot fund."
-    },
-    {
-      "id": "5036258",
-      "time": "2026-08-12 00:21:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思將於週三前往巴拿馬，與穆利諾總統會面。"
-    },
-    {
-      "id": "5036257",
-      "time": "2026-08-12 00:21:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX跌超5%。"
-    },
-    {
-      "id": "5036256",
-      "time": "2026-08-12 00:21:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國消費者金融保護局阻止加薪及獎金的訴求已提交仲裁。"
-    },
-    {
-      "id": "mkt:019ff1a0-6ba8-7aab-8ff7-715ad7b073eb",
-      "time": "2026-08-12 00:20:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "BBC reports UK Prime Minister Burnham says the government is considering additional support for businesses."
-    },
-    {
-      "id": "5036255",
-      "time": "2026-08-12 00:20:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部長：週日有2000萬桶石油從海灣地區流出，這一數量高於衝突爆發前的平均水平。"
-    },
-    {
-      "id": "mkt:019ff1a0-55c3-7aab-8ff7-6c2e549c8359",
-      "time": "2026-08-12 00:20:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA projects Texas electricity load will rise 6% in 2027, down from the 14% increase forecast in July’s Short-Term Energy Outlook (STEO)."
-    },
-    {
-      "id": "5036254",
-      "time": "2026-08-12 00:20:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國首相伯納姆表示，政府正考慮為企業出臺更多支援措施。"
-    },
-    {
-      "id": "5036253",
-      "time": "2026-08-12 00:20:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：我正面臨嚴峻財政前景，不會推出任何超出我財力範圍的措施。"
-    },
-    {
-      "id": "5036252",
-      "time": "2026-08-12 00:20:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆：我目前所處境況下，在爭取政府支援方面的操作空間十分有限。"
-    },
-    {
-      "id": "5036251",
-      "time": "2026-08-12 00:19:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計，中東原油日產約60萬桶的供應中斷將持續至2027年底。"
-    },
-    {
-      "id": "5036250",
-      "time": "2026-08-12 00:18:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署(EIA)在8月短期能源展望(STEO)中預計，2027年德克薩斯州電力負荷將增長6%，低於7月14%的先前預測增幅。"
-    },
-    {
-      "id": "mkt:019ff19e-614b-7aab-8ff7-60f08996974d",
-      "time": "2026-08-12 00:18:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The EIA expects a sustained disruption to Middle East crude output of about 600,000 barrels per day to persist through the end of 2027."
-    },
-    {
-      "id": "mkt:019ff19e-2239-7aab-8ff7-5a3a616ac4e0",
-      "time": "2026-08-12 00:18:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA says Strait of Hormuz shipments remain severely constrained and now expects Middle East oil supply disruptions to be larger than its July forecast. It projects most Middle East crude output will recover to near pre-conflict levels by early 2027, but estimates disruptions will persist through end-2027 at about 600,000 bpd."
-    },
-    {
-      "id": "5036249",
-      "time": "2026-08-12 00:18:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利銅委員會預計，智利2027年銅產量將達555萬噸，較2026年增長5.2%。"
-    },
-    {
-      "id": "5036248",
-      "time": "2026-08-12 00:17:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列與委內瑞拉自2009年斷交以來，首次建立官方溝通協調渠道。"
-    },
-    {
-      "id": "5036247",
-      "time": "2026-08-12 00:17:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔釋出防空警報。"
     }
   ]
 }
