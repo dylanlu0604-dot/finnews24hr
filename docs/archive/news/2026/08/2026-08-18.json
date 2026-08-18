@@ -1,7 +1,164 @@
 {
   "date": "2026-08-18",
-  "count": 1469,
+  "count": 1486,
   "items": [
+    {
+      "id": "mkt:01a01404-c6ad-7aab-9074-617a7e04b1fe",
+      "time": "2026-08-18 16:37:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry lodged a strong protest with Japan's ambassador over anti-Russia remarks by the Japanese prime minister."
+    },
+    {
+      "id": "mkt:01a01404-a45a-7aab-9074-59a956b37573",
+      "time": "2026-08-18 16:37:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media reported Ghalibaf said the Strait of Hormuz will remain closed until the US lifts its oil blockade and sanctions."
+    },
+    {
+      "id": "5045565",
+      "time": "2026-08-18 16:37:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部表示，已就日本首相的反俄言論向日本駐俄大使提出強烈抗議。"
+    },
+    {
+      "id": "te:economy:576076",
+      "time": "2026-08-18 16:36:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Spain Trade Gap Widens as Imports Hit Record High — Spain’s trade deficit rose to €7.69 billion in June 2026 from €3.59 billion in the same month of the previous year, as imports increased much faster than exports. Imports climbed by 15.7% yoy to an all-time high of €43.23 billion, mainly boosted by purchases of energy products (43.8%). Imports also increased significantly for non-chemical semi-manufactured products (18.7%); food, beverages & tobacco (16.6%); consumer manufactures (11.3%) and autos (8.4%). Meanwhile, exports advanced by 5.3% to €35.55 billion, driven by shipments of energy products (49.9%); raw materials (12%) and non-chemical semi-manufactured products (8.1%)."
+    },
+    {
+      "id": "mkt:01a01404-1384-7aab-9074-55552a766799",
+      "time": "2026-08-18 16:36:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00762.HK",
+        "Impact bullish"
+      ],
+      "text": "China Unicom (00762.HK) said 1H2026 capital expenditure totaled RMB 24.1 bln. Compute-capacity investment accounted for 37% of capex, with spending up more than 80% YoY."
+    },
+    {
+      "id": "5045564",
+      "time": "2026-08-18 16:36:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國機通用：2026年上半年淨利潤3277.98萬元，同比增2.23%】國機通用公告，2026年上半年營業收入4.78億元，同比增長16.19%。歸屬於上市公司股東的淨利潤3277.98萬元，同比增長2.23%。歸屬於上市公司股東的扣除非經常性損益的淨利潤3135.4萬元，同比下降3.53%。本報告期不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "te:economy:576075",
+      "time": "2026-08-18 16:36:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Productivity",
+        "Importance 1"
+      ],
+      "text": "UK Labor Productivity Falls More than Expected — Labor productivity in the United Kingdom, measured by output per hour worked, fell by 0.8% quarter-on-quarter in Q2 2026, more than market expectations of a 0.5% decrease. It follows an upwardly revised 1.1% rise in Q1. On an annual basis, productivity increased by 0.7%, compared with a 2.1% rise in the prior period."
+    },
+    {
+      "id": "mkt:01a01403-b574-7aab-9074-4b488a82875f",
+      "time": "2026-08-18 16:36:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00762.HK",
+        "Impact bullish"
+      ],
+      "text": "China Unicom (00762.HK) said 1H 2026 compute revenue was RMB 41.9 bln, up 13% YoY; intelligent computing center revenue rose 11% YoY and intelligent computing revenue rose 9% YoY."
+    },
+    {
+      "id": "mkt:01a01403-acae-7aab-9074-42e64607c556",
+      "time": "2026-08-18 16:36:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media quoted Iran's chief negotiator Ghalibaf saying the Strait of Hormuz will remain closed until the U.S. meets conditions of an interim agreement."
+    },
+    {
+      "id": "mkt:01a01403-7d73-7aab-9074-3d54ebe668c8",
+      "time": "2026-08-18 16:36:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00762.HK",
+        "Impact bullish"
+      ],
+      "text": "China Unicom (00762.HK): 1H26 net cash inflow from operations RMB 32.9 bln, up 13.6% YoY and a multi-year high; accounts receivable growth slowed markedly versus a year earlier."
+    },
+    {
+      "id": "5045562",
+      "time": "2026-08-18 16:36:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫稱，霍爾木茲海峽將持續關閉，直至美方滿足臨時協議要求。"
+    },
+    {
+      "id": "5045561",
+      "time": "2026-08-18 16:35:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國聯通香港：2026上半年資本開支人民幣241億元。算力投資佔比提升至37%，投資額同比提升超過80%。2026上半年算力收入人民幣419億元，同比增長13%，其中智算中心收入同比增長11%，智慧計算收入同比增長9%。"
+    },
+    {
+      "id": "5045560",
+      "time": "2026-08-18 16:35:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大華銀行新設東盟及大中華區主管】大華銀行今日宣佈，任命陳俊興為東盟及大中華區主管，自2026年9月1日起生效。履新後，陳俊興將負責推動大華銀行的區域業務發展，此外，陳俊興還將負責管理銀行的外國直接投資諮詢部。大華銀行方面表示，該部門透過連結東盟與中國的生態系統夥伴和行業合作資源，協助企業把握跨境發展機遇。"
+    },
+    {
+      "id": "5045559",
+      "time": "2026-08-18 16:34:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科藍訊：2026年上半年淨利潤4.8億元，同比增長265.77%】中科藍訊公告，2026年上半年營業收入9.05億元，同比增長11.52%。歸屬於上市公司股東的淨利潤4.8億元，同比增長265.77%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.02億元，同比下降7.95%。上年同期淨利潤1.31億元。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "mkt:01a01402-4bdd-7aab-9074-328561b5893b",
+      "time": "2026-08-18 16:34:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00762.HK",
+        "Impact bearish"
+      ],
+      "text": "China Unicom (00762.HK) faces near-term profit pressure; reported pre-tax profit of 11.3 billion yuan and profit attributable to owners of 9.5 billion yuan, down 34.6% YoY."
+    },
+    {
+      "id": "5045558",
+      "time": "2026-08-18 16:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列航空獲美國批准，可向美國民眾出售機票。"
+    },
     {
       "id": "mkt:01a01401-6ccd-7aab-9074-2b405003c855",
       "time": "2026-08-18 16:33:52",
@@ -10,6 +167,14 @@
         "Important"
       ],
       "text": "China Unicom (00762.HK) reported 1H2026 operating revenue of 201.4 bln yuan, up 0.6% YoY; service revenue was 178.0 bln yuan, down 0.2% YoY."
+    },
+    {
+      "id": "5045557",
+      "time": "2026-08-18 16:33:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卓創資訊：2026年上半年淨利潤3646.2萬元，同比增3.76%】卓創資訊公告，2026年上半年營業收入1.85億元，同比增長8.26%。歸屬於上市公司股東的淨利潤3646.2萬元，同比增長3.76%。扣非淨利潤3448.84萬元，同比增長7.55%。公司擬以6066.26萬股為基數，向全體股東每10股派發現金紅利2元（含稅）。"
     },
     {
       "id": "5045556",
