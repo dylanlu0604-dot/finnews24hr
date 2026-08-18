@@ -1,7 +1,156 @@
 {
   "date": "2026-08-18",
-  "count": 1533,
+  "count": 1551,
   "items": [
+    {
+      "id": "mkt:01a01416-cbdd-7aab-9074-cc92fe556619",
+      "time": "2026-08-18 16:57:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO spokesperson says an Emergency Committee on Ebola will convene on Tuesday."
+    },
+    {
+      "id": "mkt:01a01416-9387-7aab-9074-c033b1820e67",
+      "time": "2026-08-18 16:56:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Iranian official told state Press TV that since the start of the year Iran's non-oil commercial goods exports and imports were $15 bln and $17 bln respectively, down an average 24% YoY."
+    },
+    {
+      "id": "mkt:01a01416-901b-7aab-9074-b8876225e235",
+      "time": "2026-08-18 16:56:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Global diesel supply tightens; US market faces greater strain ahead of winter】Wall Street Journal reports global diesel supplies are tightening, with disruptions to Russian and Middle East flows increasing competition for US diesel as winter approaches. OPIS (Dow Jones price service) shows the European diesel benchmark rose to $167/bbl late last week from about $87/bbl a year earlier; the Northwest Europe diesel crack was roughly $90/bbl on Friday versus an average near $24/bbl last year. Unusually rich refining margins are pushing US refiners to export more product: US distillate exports jumped to a record c.1.9 mln b/d in the first week of August, cutting domestic buffers. US distillate inventories are at the lowest seasonal level in about 30 years. BofA says the market is entering peak seasonal demand with very limited room for error."
+    },
+    {
+      "id": "5045615",
+      "time": "2026-08-18 16:56:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "美伊緊張局勢持續擾亂霍爾木茲海峽航運，超大型原油油輪日運費飆升至 51 萬美元。"
+    },
+    {
+      "id": "5045614",
+      "time": "2026-08-18 16:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織發言人：埃博拉問題緊急委員會會議將於週二召開。"
+    },
+    {
+      "id": "5045613",
+      "time": "2026-08-18 16:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：敘利亞巴尼亞斯熱電廠發生爆炸。目前正在調查爆炸原因。"
+    },
+    {
+      "id": "5045612",
+      "time": "2026-08-18 16:56:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達美股盤前跌超2%】英偉達美股盤前跌超2%，現報220.5美元。"
+    },
+    {
+      "id": "5045611",
+      "time": "2026-08-18 16:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄嚴正抗議日本首相反俄言論】據俄羅斯外交部今天（8月18日）通報，已就日本首相高市早苗在俄羅斯總統普京視察伊圖魯普島（日方稱澤捉島）後發表的反俄言論，向日本駐俄羅斯大使提出嚴正抗議。俄羅斯外交部向日方強調，俄羅斯對南千島群島（日方稱北方四島）的主權和管轄權不可動搖，任何日方直接或間接質疑南千島群島歸屬的企圖都是不可接受且非法的。（CCTV國際時訊）"
+    },
+    {
+      "id": "5045610",
+      "time": "2026-08-18 16:55:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正生材：全資子公司涉建設工程合同糾紛，涉案金額6760.74萬元】海正生材公告，公司全資子公司浙江海創達生物材料有限公司近日收到法院應訴通知書，中化學曙光建設有限公司就建設工程合同糾紛提起訴訟，法院已受理但尚未開庭審理。原告請求判令海創達支付工程款6523.75萬元及違約金236.99萬元，合計涉案金額6760.74萬元，並承擔訴訟費及保全費。公司表示已積極應訴，但最終影響以法院判決為準。"
+    },
+    {
+      "id": "mkt:01a01415-3b5d-7aab-9074-b0f790d6a456",
+      "time": "2026-08-18 16:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SANA reports an explosion at Syria's Baniyas thermal power plant; cause under investigation."
+    },
+    {
+      "id": "5045609",
+      "time": "2026-08-18 16:55:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【騰訊雲加碼馬來西亞 宣佈柔佛州開服計劃】騰訊雲宣佈將在馬來西亞柔佛開服，首期計劃設立三個可用區，並同步與馬來西亞理工大學、Boost及Genting Plantations Group等本地企業或機構達成一系列合作。這是騰訊雲首次在馬來西亞開服。開服後，柔佛將成為騰訊雲在東南亞的重要節點，當地企業可就近部署AI相關業務。"
+    },
+    {
+      "id": "5045608",
+      "time": "2026-08-18 16:54:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金河生物：子公司取得一項發明專利證書】金河生物公告稱，公司子公司內蒙古金河環保科技有限公司近日獲得國家智慧財產權局頒發的發明專利證書，專利名稱為“一種雙層封蓋預曝氣池､生化法廢氣處理系統及工藝”，專利號為ZL 2020 1 0515442.5，授權公告日為2026年6月2日。該專利涉及廢氣處理技術領域，專利權人為內蒙古金河環保科技有限公司。"
+    },
+    {
+      "id": "5045607",
+      "time": "2026-08-18 16:54:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽升藥業：一致行動人劉淑芹1.82%股份由馬麗繼承】賽升藥業公告，公司控股股東、實際控制人馬驫先生及其一致行動人馬麗女士之母親劉淑芹女士去世，其生前持有公司股份874.8萬股（佔總股本1.82%）由馬麗女士依法繼承。本次權益變動後，控股股東、實際控制人及其一致行動人合計持股數量未發生變化，仍為2.71億股（佔總股本56.19%），過戶手續尚未辦理完成。"
+    },
+    {
+      "id": "5045606",
+      "time": "2026-08-18 16:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍旗科技：8月18日回購51.69萬股A股股份】龍旗科技公告稱，公司於2026年8月18日透過上海證券交易所回購51.69萬股A股股份，擬將該部分股份用作股權激勵計劃及員工持股計劃。本次回購每股最高成交價39.2元，最低成交價38.28元，累計支付總金額1999.94萬元。本次回購完成後，公司庫存股份數量增至695.89萬股，已發行股份總數保持4.70億股不變。"
+    },
+    {
+      "id": "5045605",
+      "time": "2026-08-18 16:54:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金溢科技：全資子公司完成工商變更登記並換髮營業執照】金溢科技公告稱，公司全資子公司車路通科技（成都）有限公司近日完成住所、經營範圍變更的工商登記手續，取得成都高新技術產業開發區市場監督管理局換髮的營業執照。本次變更後，子公司住所遷至中國（四川）自由貿易試驗區成都高新區天府大道中段666號2棟25層2503號，經營範圍新增充電樁銷售、電動汽車充電基礎設施運營、儲能技術服務等多項業務，註冊資本為1381.58萬元。"
+    },
+    {
+      "id": "5045604",
+      "time": "2026-08-18 16:54:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙數文化：受讓容騰二號基金2.2843%份額事項獲進展】浙數文化公告稱，公司此前以5068.42萬元受讓杭州容騰二號創業投資合夥企業（有限合夥）2.2843%份額，對應基金實繳出資4000萬元。2026年8月18日，公司收到基金普通合夥人通知，基金各合夥人已簽署新的有限合夥協議。本次交易完成後公司將成為該基金有限合夥人，不委派投資決策委員會及諮詢委員會委員。"
+    },
+    {
+      "id": "5045603",
+      "time": "2026-08-18 16:54:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇瑞汽車在上海成立新科技公司 註冊資本2000萬】天眼查App顯示，近日，綠能慧碳（上海）科技有限公司成立，法定代表人為尹航，註冊資本2000萬人民幣，經營範圍含技術服務、儲能技術服務、電動汽車充電基礎設施運營、碳減排、碳轉化、碳捕捉、碳封存技術研發等，由奇瑞汽車旗下安徽奇瑞綠能生態科技有限公司全資持股。"
+    },
+    {
+      "id": "5045602",
+      "time": "2026-08-18 16:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京科銳：中標南方電網配網裝置專案 金額約3.04億元】北京科銳(002350.SZ)公告稱，公司為南方電網2026年配網裝置第一批框架招標專案中標人，中標金額合計約3.04億元，約佔公司2025年經審計營收的14.15%。上述專案合同的履行將對公司2026年度及以後年度的經營業績產生積極影響。截至目前，公司尚未取得正式中標通知書及簽訂正式合同，實際執行金額可能與預估存在差異。"
+    },
     {
       "id": "5045601",
       "time": "2026-08-18 16:53:05",
