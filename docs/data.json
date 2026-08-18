@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-19 06:37:15",
-  "count": 15104,
+  "updated": "2026-08-19 06:41:07",
+  "count": 15107,
   "items": [
+    {
+      "id": "te:markets:576240",
+      "time": "2026-08-19 06:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%)."
+    },
+    {
+      "id": "mkt:01a01707-2dd1-7aab-9083-2c1558f7e1d8",
+      "time": "2026-08-19 06:39:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns."
+    },
+    {
+      "id": "5046535",
+      "time": "2026-08-19 06:38:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。"
+    },
+    {
+      "id": "5046534",
+      "time": "2026-08-19 06:37:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)"
+    },
+    {
+      "id": "mkt:01a01705-995e-7aab-9083-253865e264c5",
+      "time": "2026-08-19 06:37:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic."
+    },
     {
       "id": "5046533",
       "time": "2026-08-19 06:36:34",
@@ -138463,25 +138519,6 @@
         "其他"
       ],
       "text": "【數量創近五年新高，單隻平均規模縮水，今年新發基金“細分賽道”撬動大市場】8月以來，公募基金髮行市場熱度不減。本週（8月10日至14日），49只基金進入發行期，被動指數型產品佔比超四成，硬科技與紅利策略成為主線。一方面是指數型產品聚焦細分賽道，另一方面是FOF產品顯著升溫。將時間軸拉長至今年年內，新基金成立數量創近五年新高，但單隻平均募集規模卻呈現下滑態勢。已成立產品的業績出現明顯分化，同一賽道的基金，因成立時點不同，收益差距較大。（中證報）"
-    },
-    {
-      "id": "te:markets:574522",
-      "time": "2026-08-12 06:40:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.07% — Top commodity losers are Cocoa (-5.07%) and Canola (-1.77%). Gains are led by Barley (2%), Sugar (1.59%) and Cotton (0.62%)."
-    },
-    {
-      "id": "5036433",
-      "time": "2026-08-12 06:39:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古特雷斯：對哥倫比亞地震造成人員傷亡感到“悲痛” 】聯合國秘書長古特雷斯11日透過副發言人哈克發表宣告表示，對哥倫比亞地震造成人員傷亡感到“悲痛”。（新華社）"
     }
   ]
 }
