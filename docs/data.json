@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 01:37:32",
-  "count": 15101,
+  "updated": "2026-08-19 01:41:29",
+  "count": 15098,
   "items": [
     {
       "id": "mkt:01a015f2-cede-7aab-907f-eadefecf53ef",
@@ -138417,39 +138417,6 @@
         "焦點"
       ],
       "text": "谷歌執行長皮查伊：Gemini月活使用者現已突破10億，Gemini是谷歌有史以來增長最快的產品。"
-    },
-    {
-      "id": "mkt:019ff1e8-c738-7aab-8ff8-9577942df2b2",
-      "time": "2026-08-12 01:39:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's finance minister said the government will declare an economic state of emergency following the earthquake."
-    },
-    {
-      "id": "mkt:019ff1e7-9ab1-7aab-8ff8-8d2651cc5c4d",
-      "time": "2026-08-12 01:38:35",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Colombia's finance minister says the country is facing the most severe economic crisis in its history."
-    },
-    {
-      "id": "mkt:019ff1e7-5d3e-7aab-8ff8-836df026dc41",
-      "time": "2026-08-12 01:38:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Libya's National Oil Corporation said a fire at a fuel tank at the Zawiya refinery has been brought under control."
     }
   ]
 }
