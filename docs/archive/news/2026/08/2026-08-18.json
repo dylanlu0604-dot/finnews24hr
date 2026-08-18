@@ -1,7 +1,136 @@
 {
   "date": "2026-08-18",
-  "count": 642,
+  "count": 656,
   "items": [
+    {
+      "id": "5045024",
+      "time": "2026-08-18 09:52:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【房地產板塊短線走低，深深房A跌超7%】房地產板塊短線走低，深深房A跌超7%，京投發展、市北高新、華聯控股、沙河股份等跟跌。"
+    },
+    {
+      "id": "mkt:01a01291-7fed-7aab-906c-d80db808bf4d",
+      "time": "2026-08-18 09:52:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wenchang commercial launch pads 1–2 operational; satellite super-factory enters trial production】Wenchang International Space City said commercial launch pads 1 and 2 are now in routine operation and its satellite super-factory has entered trial production. Sea recovery platform and telemetry/control systems are being accelerated. Pads 3 and 4 are expected to be launch-capable by year-end, with the factory’s first satellite scheduled to roll off concurrently. Major rocket-chain projects by domestic commercial launch firms including China Commercial Rocket, Kuaizhou Space, Tianbing Technology and Jiayuan Technology have begun construction. Upgrades to transfer roads and transport docks are underway to build high-density, high-reliability, low-cost commercial launch capacity to support a planned 'hundreds of rockets, thousands of satellites' deployment."
+    },
+    {
+      "id": "5045023",
+      "time": "2026-08-18 09:51:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文昌商業發射場1、2號工位已實現常態化運營，衛星超級工廠進入試生產】8月17日上午，海南省“開局起步‘十五五’”系列主題新聞釋出會迎來市縣層面第二場——文昌市專場。文昌國際航天城管理局副局長袁世英表示，文昌著力提升發射製造能級，目前商業發射場1、2號工位已實現常態化運營，衛星超級工廠進入試生產，海上回收平臺和測控系統加速建設。今年年底前，3、4號新工位將具備發射能力，衛星超級工廠首星同步下線，中國商火、快舟空間、天兵科技、箭元科技等火箭鏈重大專案已陸續開工。透過持續完善轉運道路、運輸碼頭等配套工程，文昌將加快形成高密度、高可靠、低成本的商業發射能力，高效支撐“百箭千星”任務。（海南日報）"
+    },
+    {
+      "id": "5045022",
+      "time": "2026-08-18 09:51:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擎天租新設子公司 含工業機器人相關業務】企查查APP顯示，近日，擎天租（嘉興）科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；智慧機器人的研發；人工智慧基礎軟體開發；資訊科技諮詢服務；工業機器人銷售等。企查查股權穿透顯示，該公司由擎天租（上海）科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a01290-ff99-7aab-906c-d52b05c71cf3",
+      "time": "2026-08-18 09:51:27",
+      "tags": [
+        "MKT News",
+        "002385.SZ",
+        "Impact bullish",
+        "002124.SZ",
+        "002157.SZ"
+      ],
+      "text": "A-share pork sector rallies; Luoniushan posts second straight daily limit-up; Tianbang Food earlier hit limit-up; Dabeinong, Dayu Biological, Zhengbang Technology and Juxing Agribusiness also advanced."
+    },
+    {
+      "id": "5045021",
+      "time": "2026-08-18 09:50:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【天然氣概念震盪拉昇，石化機械漲停】天然氣概念震盪拉昇，石化機械漲停，海油工程、中泰股份、石化油服、中油工程、勝通能源、山東墨龍等跟漲。"
+    },
+    {
+      "id": "5045020",
+      "time": "2026-08-18 09:50:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4733.190點；恒生指數現跌0.478%。"
+    },
+    {
+      "id": "5045019",
+      "time": "2026-08-18 09:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股“大模型雙雄”走低，智譜(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超8%。"
+    },
+    {
+      "id": "mkt:01a0128f-e7c4-7aab-906c-ccbcbb420d76",
+      "time": "2026-08-18 09:50:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong large AI-model stocks fell; Zhipu (02513.HK) dropped over 10% and MINIMAX-W (00100.HK) fell more than 8%."
+    },
+    {
+      "id": "5045018",
+      "time": "2026-08-18 09:50:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【豬肉概念再度活躍 羅牛山2連板】早盤豬肉概念再度活躍，羅牛山2連板，此前天邦食品漲停，大北農、大禹生物、正邦科技、巨星農牧等跟漲。"
+    },
+    {
+      "id": "5045017",
+      "time": "2026-08-18 09:50:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5045016",
+      "time": "2026-08-18 09:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓南部城市三寶顏市長證實一所高中發生槍擊事件。"
+    },
+    {
+      "id": "mkt:01a0128e-9612-7aab-906c-c721cb1d6664",
+      "time": "2026-08-18 09:48:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01548.HK",
+        "Impact bullish",
+        "02269.HK",
+        "03759.HK"
+      ],
+      "text": "Hong Kong-listed pharmaceutical outsourcing stocks advanced: GenScript Biotech (01548.HK) up 7%, WuXi Biologics (02269.HK) up about 5%, Pharmaron (03759.HK) up about 3%."
+    },
+    {
+      "id": "5045015",
+      "time": "2026-08-18 09:48:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1323.50美元/盎司。"
+    },
     {
       "id": "5045014",
       "time": "2026-08-18 09:48:01",

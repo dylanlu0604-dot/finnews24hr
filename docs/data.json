@@ -1,7 +1,136 @@
 {
-  "updated": "2026-08-18 09:48:46",
-  "count": 15200,
+  "updated": "2026-08-18 09:52:50",
+  "count": 15195,
   "items": [
+    {
+      "id": "5045024",
+      "time": "2026-08-18 09:52:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【房地產板塊短線走低，深深房A跌超7%】房地產板塊短線走低，深深房A跌超7%，京投發展、市北高新、華聯控股、沙河股份等跟跌。"
+    },
+    {
+      "id": "mkt:01a01291-7fed-7aab-906c-d80db808bf4d",
+      "time": "2026-08-18 09:52:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wenchang commercial launch pads 1–2 operational; satellite super-factory enters trial production】Wenchang International Space City said commercial launch pads 1 and 2 are now in routine operation and its satellite super-factory has entered trial production. Sea recovery platform and telemetry/control systems are being accelerated. Pads 3 and 4 are expected to be launch-capable by year-end, with the factory’s first satellite scheduled to roll off concurrently. Major rocket-chain projects by domestic commercial launch firms including China Commercial Rocket, Kuaizhou Space, Tianbing Technology and Jiayuan Technology have begun construction. Upgrades to transfer roads and transport docks are underway to build high-density, high-reliability, low-cost commercial launch capacity to support a planned 'hundreds of rockets, thousands of satellites' deployment."
+    },
+    {
+      "id": "5045023",
+      "time": "2026-08-18 09:51:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【文昌商業發射場1、2號工位已實現常態化運營，衛星超級工廠進入試生產】8月17日上午，海南省“開局起步‘十五五’”系列主題新聞釋出會迎來市縣層面第二場——文昌市專場。文昌國際航天城管理局副局長袁世英表示，文昌著力提升發射製造能級，目前商業發射場1、2號工位已實現常態化運營，衛星超級工廠進入試生產，海上回收平臺和測控系統加速建設。今年年底前，3、4號新工位將具備發射能力，衛星超級工廠首星同步下線，中國商火、快舟空間、天兵科技、箭元科技等火箭鏈重大專案已陸續開工。透過持續完善轉運道路、運輸碼頭等配套工程，文昌將加快形成高密度、高可靠、低成本的商業發射能力，高效支撐“百箭千星”任務。（海南日報）"
+    },
+    {
+      "id": "5045022",
+      "time": "2026-08-18 09:51:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擎天租新設子公司 含工業機器人相關業務】企查查APP顯示，近日，擎天租（嘉興）科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；智慧機器人的研發；人工智慧基礎軟體開發；資訊科技諮詢服務；工業機器人銷售等。企查查股權穿透顯示，該公司由擎天租（上海）科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a01290-ff99-7aab-906c-d52b05c71cf3",
+      "time": "2026-08-18 09:51:27",
+      "tags": [
+        "MKT News",
+        "002385.SZ",
+        "Impact bullish",
+        "002124.SZ",
+        "002157.SZ"
+      ],
+      "text": "A-share pork sector rallies; Luoniushan posts second straight daily limit-up; Tianbang Food earlier hit limit-up; Dabeinong, Dayu Biological, Zhengbang Technology and Juxing Agribusiness also advanced."
+    },
+    {
+      "id": "5045021",
+      "time": "2026-08-18 09:50:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【天然氣概念震盪拉昇，石化機械漲停】天然氣概念震盪拉昇，石化機械漲停，海油工程、中泰股份、石化油服、中油工程、勝通能源、山東墨龍等跟漲。"
+    },
+    {
+      "id": "5045020",
+      "time": "2026-08-18 09:50:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4733.190點；恒生指數現跌0.478%。"
+    },
+    {
+      "id": "5045019",
+      "time": "2026-08-18 09:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股“大模型雙雄”走低，智譜(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超8%。"
+    },
+    {
+      "id": "mkt:01a0128f-e7c4-7aab-906c-ccbcbb420d76",
+      "time": "2026-08-18 09:50:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong large AI-model stocks fell; Zhipu (02513.HK) dropped over 10% and MINIMAX-W (00100.HK) fell more than 8%."
+    },
+    {
+      "id": "5045018",
+      "time": "2026-08-18 09:50:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【豬肉概念再度活躍 羅牛山2連板】早盤豬肉概念再度活躍，羅牛山2連板，此前天邦食品漲停，大北農、大禹生物、正邦科技、巨星農牧等跟漲。"
+    },
+    {
+      "id": "5045017",
+      "time": "2026-08-18 09:50:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5045016",
+      "time": "2026-08-18 09:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓南部城市三寶顏市長證實一所高中發生槍擊事件。"
+    },
+    {
+      "id": "mkt:01a0128e-9612-7aab-906c-c721cb1d6664",
+      "time": "2026-08-18 09:48:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01548.HK",
+        "Impact bullish",
+        "02269.HK",
+        "03759.HK"
+      ],
+      "text": "Hong Kong-listed pharmaceutical outsourcing stocks advanced: GenScript Biotech (01548.HK) up 7%, WuXi Biologics (02269.HK) up about 5%, Pharmaron (03759.HK) up about 3%."
+    },
+    {
+      "id": "5045015",
+      "time": "2026-08-18 09:48:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1323.50美元/盎司。"
+    },
     {
       "id": "5045014",
       "time": "2026-08-18 09:48:01",
@@ -139134,178 +139263,6 @@
         "Alibaba"
       ],
       "text": "China A-share compute-power leasing sector jumped intraday, led by Alibaba Cloud-linked names. Hanggang and Hongbo hit daily limit-up; Langyuan climbed over 10%. Jialitu, Meiliyun, Tongniu Information and DataPort also advanced."
-    },
-    {
-      "id": "5034873",
-      "time": "2026-08-11 09:52:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念異動拉昇 杭鋼股份、鴻博股份直線漲停】算力租賃概念盤中異動拉昇，阿里雲方向領漲，杭鋼股份、鴻博股份直線漲停，朗源股份漲超10%，佳力圖、美利雲、銅牛資訊、資料港等跟漲。"
-    },
-    {
-      "id": "5034872",
-      "time": "2026-08-11 09:52:15",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【裕信銀行與德國商業銀行據悉首次就監管控制變化正式磋商】知情人士稱，上週五，裕信銀行執行長Andrea Orcel與德國商業銀行執行長Bettina Orlopp通話，重點討論一旦歐洲央行將德國商業銀行視為裕信銀行的子公司、並要求實施合併監管後，將產生的會計、法律和風險管理影響。據悉，雙方還有數位其他高管參加了此次會議，為未來幾個月進一步磋商鋪平了道路。"
-    },
-    {
-      "id": "te:markets:574240",
-      "time": "2026-08-11 09:51:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Futures Near 2-Month High — Platinum futures rose around $1,780 an ounce, approaching an eight-week high and tracking a broader rally across the precious metals complex. Investment demand for precious metals improved as Chinese institutional investors increased bullion holdings amid heightened market volatility, with gold-backed ETF in China recording their longest streak of inflows in months. Meanwhile, AI and data-center expansion are emerging as potential new sources of future platinum-group metals (PGM) demand. In July, Valterra Platinum said it estimated current AI-related PGM demand at 200,000–400,000 ounces annually and that it could grow fivefold by 2030, citing PGMs' electrical and thermal properties as relevant to AI infrastructure. Still, the World Platinum Investment Council expects platinum markets to remain in deficit over the longer term due to constrained mine output, particularly in South Africa, although higher prices could encourage more recycling and eventually weigh on some demand."
-    },
-    {
-      "id": "5034871",
-      "time": "2026-08-11 09:51:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲5%，現報4619.00元。"
-    },
-    {
-      "id": "5034870",
-      "time": "2026-08-11 09:51:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億嘉和新設子公司 含AI及機器人業務】企查查APP顯示，近日，遼寧億嘉和科技有限公司成立，經營範圍包含智慧機器人的研發；工業機器人制造；人工智慧硬體銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由億嘉和全資持股。"
-    },
-    {
-      "id": "5034869",
-      "time": "2026-08-11 09:50:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京全市啟動防汛二級應急響應】據“北京應急”，根據市氣象臺預報，8月11日傍晚至13日白天，北京市大部分地區將出現6小時累計雨量100毫米、24小時累計雨量150毫米以上的強降雨，其中通州、大興、房山、門頭溝、經開、懷柔、豐臺等7區，6小時累計雨量可達150毫米以上，24小時累計雨量可達200毫米以上。8月11日9時，市防汛抗旱指揮部啟動全市防汛二級應急響應，全市上下迅速投入防汛應汛相關工作。"
-    },
-    {
-      "id": "5034868",
-      "time": "2026-08-11 09:50:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【油氣概念表現活躍 科力股份漲超10%】油氣概念表現活躍，科力股份漲超10%，通源石油、山東墨龍、中海油服、潛能恆信跟漲。"
-    },
-    {
-      "id": "5034867",
-      "time": "2026-08-11 09:50:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊短線拉昇，湖南白銀漲停】貴金屬板塊短線拉昇，湖南白銀漲停，招金黃金、四川黃金、山金國際、湖南黃金、興業銀錫等紛紛走高。"
-    },
-    {
-      "id": "5034866",
-      "time": "2026-08-11 09:50:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【發電裝置板塊走弱 金風科技跌超7%】發電裝置板塊走弱，金風科技跌超7%，海力風電、泰勝風能等跌幅靠前。"
-    },
-    {
-      "id": "mkt:019fee83-09e2-7aab-8fe4-5c02f7ff7a97",
-      "time": "2026-08-11 09:49:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver up 1.00% intraday at $66.39/oz."
-    },
-    {
-      "id": "mkt:019fee82-ad00-7aab-8fe4-570b169fbb57",
-      "time": "2026-08-11 09:49:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SHFE main silver contract up 4.00% intraday, trading at 16,214.00 yuan/kg."
-    },
-    {
-      "id": "5034865",
-      "time": "2026-08-11 09:49:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電網裝置板塊震盪下挫 京泉華跌停】早盤電網裝置板塊震盪下挫，京泉華跌停，北京科銳、中能電氣、信通電子、華菱線纜均跌超5%。"
-    },
-    {
-      "id": "mkt:019fee82-a3b4-7aab-8fe4-486a9ef34a00",
-      "time": "2026-08-11 09:49:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai gold main contract intraday gain widened to 2.00%, trading at 963.04 yuan/gram."
-    },
-    {
-      "id": "5034864",
-      "time": "2026-08-11 09:49:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報66.40美元/盎司。"
-    },
-    {
-      "id": "5034863",
-      "time": "2026-08-11 09:49:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【航天軍工板塊震盪下行 中國衛星跌超7%】航天軍工板塊震盪下行，中國衛星跌超7%，捷強裝備、航天環宇、電科藍天等下跌。"
-    },
-    {
-      "id": "mkt:019fee82-70c3-7aab-8fe4-423c9f190ec4",
-      "time": "2026-08-11 09:49:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures rose more than 1.0% intraday to $66.54/oz."
-    },
-    {
-      "id": "5034862",
-      "time": "2026-08-11 09:49:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲4%，現報16214.00元。"
-    },
-    {
-      "id": "5034861",
-      "time": "2026-08-11 09:49:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "港股“三桶油”集體走強，中國海洋石油漲超4%，中國石油股份漲超3%，中國石油化工股份漲超1%。"
-    },
-    {
-      "id": "5034860",
-      "time": "2026-08-11 09:49:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報66.59美元/盎司。"
     }
   ]
 }
