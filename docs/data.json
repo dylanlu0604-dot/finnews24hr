@@ -1,7 +1,136 @@
 {
-  "updated": "2026-08-18 14:11:19",
-  "count": 15172,
+  "updated": "2026-08-18 14:15:14",
+  "count": 15178,
   "items": [
+    {
+      "id": "mkt:01a01381-88e9-7aab-9070-e73c0592191c",
+      "time": "2026-08-18 14:14:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06990.HK",
+        "Impact bullish"
+      ],
+      "text": "【UBS raises Kelun Botai Bio (06990.HK) PT to HK$678, reiterates Buy】UBS raised its target price for Kelun Botai Bio (06990.HK) to HK$678 from HK$667 and reiterated a Buy rating. UBS said H1 product revenue was 657 mln yuan, above its expectation. The bank lifted EPS forecasts for 2026–28 to 2.41, 2.09 and 8.29 yuan per share and now projects 2026 product revenue of 14.3 bln yuan."
+    },
+    {
+      "id": "5045324",
+      "time": "2026-08-18 14:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：升科倫博泰生物目標價至678港元，重申“買入”評級】瑞銀髮表研報指，科倫博泰生物上半年收入為9.78億元，同比增長3%，低於該行及市場分別預測的12億及13億元。產品銷售額同比增112%達6.57億元，超出該行預期的5.5億元，部分抵銷了授權收入較低的影響。期內純利3.88億元，遠勝該行原先估計的淨虧損1.34億元及市場預期的純利1.28億元。該行上調科倫博泰生物今年產品銷售預測，由13.8億元上調至14.3億元，帶動2026至28年每股盈測升至2.41、2.09及8.29元，目標價則由667港元調升至678港元，重申“買入”評級。"
+    },
+    {
+      "id": "5045323",
+      "time": "2026-08-18 14:13:59",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【聯想劉軍：算力不但不過剩 而且仍處於緊缺階段】聯想集團執行副總裁兼中國區總裁劉軍表示，當前行業競爭邏輯已從“峰值算力”轉向“Token生產效率”，算力仍處於緊缺階段。他認為，隨著大模型和智慧體應用持續發展，訓練與推理需求加速增長，全球AI基礎設施投入仍具持續性。國家發改委公佈的“十五五”期間4萬億算力網路投資規劃資料也表明，算力行業的核心矛盾並非“過剩”，而是“結構升級”的緊迫性。"
+    },
+    {
+      "id": "5045322",
+      "time": "2026-08-18 14:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：Q2全球前五大NAND Flash品牌合計營收環比增長77% 達688.7億美元】根據TrendForce集邦諮詢最新NAND Flash產業研究，2026年第二季AI Server採購力度維持穩健，尤其Enterprise SSD需求旺盛，導致整體NAND Flash市場供不應求，原廠得以藉由議價機制大幅調漲產品平均銷售單價（ASP）。因此，在已上市NAND Flash品牌中，前五大廠商合計營收環比增長77%，達688.7億美元。"
+    },
+    {
+      "id": "mkt:01a01380-e6d6-7aab-9070-df64fec05c71",
+      "time": "2026-08-18 14:13:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【TrendForce: Q2 2026 top five global NAND flash vendors' combined revenue up 77% QoQ to $68.87 bln】TrendForce says Q2 2026 AI server procurement remained robust, with particularly strong enterprise SSD demand, leaving the NAND flash market undersupplied. Vendors exercised pricing leverage to sharply raise average selling prices (ASPs); the five largest listed NAND vendors posted combined revenue up 77% QoQ to $68.87 bln."
+    },
+    {
+      "id": "te:economy:576010",
+      "time": "2026-08-18 14:12:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Belgium 10Y Bond Yield Hits 14-1/2-year High — Belgium 10 Year Government Bond Yield increased to 3.81%, the highest since February 2012. Over the past 4 weeks, Belgium 10Y Bond Yield gained 8.11 basis points, and in the last 12 months, it increased 48.20 basis points."
+    },
+    {
+      "id": "5045321",
+      "time": "2026-08-18 14:12:43",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "周生生日內漲超20%，公司料中期應占溢利21億港元至22億港元。"
+    },
+    {
+      "id": "mkt:01a01380-30ab-7aab-9070-d5fd0c66fd67",
+      "time": "2026-08-18 14:12:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00116.HK",
+        "Impact bullish"
+      ],
+      "text": "Chow Sang Sang (00116.HK) rose over 20% intraday; the company expects interim profit attributable to shareholders of HK$2.1-2.2 bln."
+    },
+    {
+      "id": "te:economy:576009",
+      "time": "2026-08-18 14:12:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Average Earnings Excluding Bonus",
+        "Importance 1"
+      ],
+      "text": "UK Wage Growth Above Estimates — UK regular pay, excluding bonuses, increased 3.5% year-on-year to GBP 703 per week in the three months to June 2026, following growth in the previous two periods of 3.4%, which was in line with market expectations. It was the fastest annual rise since the three months to February, as public sector pay accelerated to 6.1% from 5.5%, marking the strongest increase since the three months to December 2025. Meanwhile, private sector wage growth eased slightly to 2.8% from 2.9%, the slowest since the three months to October 2020. By industry, wages rose in wholesale, retail, hotels and restaurants (3.5%), manufacturing (2.8%), services (3.8%), and finance and business services (2.3%), but declined in construction (-0.1%). After adjusting for inflation, real regular pay increased 0.5%, up from 0.3% in the prior period and pointing to the strongest growth since the three months to December 2025."
+    },
+    {
+      "id": "mkt:01a0137f-a3f6-7aab-9070-ca6868decf78",
+      "time": "2026-08-18 14:12:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Data show the 10-year sovereign yield spread between France and Germany widened to 86bps, the widest since October 2025."
+    },
+    {
+      "id": "5045320",
+      "time": "2026-08-18 14:11:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國和德國10年期公債收益率之差<DE10FR10=RR>觸及2025年10月以來最闊的86個基點。"
+    },
+    {
+      "id": "5045319",
+      "time": "2026-08-18 14:11:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞蘇門答臘島發生 6.1 級地震。"
+    },
+    {
+      "id": "mkt:01a0137e-90c4-7aab-9070-c6358e0a8d90",
+      "time": "2026-08-18 14:10:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kumtor delegation meets China Ruilin to discuss Togolok EPC, industry digitalisation】Aug 17 — China Ruilin party secretary, chairman and general manager Wu Runhua met at company headquarters with Toktosunov Kanimet, chairman of Kyrgyzstan’s Kumtor Closed Joint-Stock Company. The parties discussed implementation of the Togolok gold mine EPC project, rollout of an end-to-end digital-intelligence solution for the NDI non-ferrous industry chain, and plans to deepen and expand subsequent cooperation."
+    },
     {
       "id": "mkt:01a0137e-60bc-7aab-9070-bdae7a9a642f",
       "time": "2026-08-18 14:10:44",
@@ -138933,77 +139062,6 @@
         "其他"
       ],
       "text": "【哥倫比亞5個省會城市紅色警戒】當地時間8月10日上午，哥倫比亞西部地區發生強震，首都波哥大震感明顯。據總檯記者瞭解，地震目前已造成132人遇難，500多人受傷，哥倫比亞5個省會城市處於紅色警戒狀態。目前，各地傷亡人數還在不斷更新中。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:574308",
-      "time": "2026-08-11 14:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Muted Open — European equity markets were headed for a slightly weaker open on Tuesday as oil prices extended their gains on fading hopes for a near-term deal between the US and Iran, keeping inflation risks and the interest rate outlook in focus. After Tehran demanded financial compensation for damages suffered during the conflict, Trump said he had instructed US representatives to firmly press for compensation from Iran as part of any future negotiations, adding another hurdle to diplomatic efforts. In Europe, investors will focus on Italy’s trade data, while earnings are due from Intercontinental Hotels, Lion Finance Group and Turkiye Petrol Rafinerileri, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.1%."
-    },
-    {
-      "id": "5035153",
-      "time": "2026-08-11 14:13:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【主動投案，南京市交通集團黨委書記、董事長奚暉接受審查調查】南京市交通建設投資控股（集團）有限責任公司黨委書記、董事長奚暉涉嫌嚴重違紀違法，主動投案，目前正接受南京市紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5035152",
-      "time": "2026-08-11 14:13:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中信科移動中標中國移動遼寧公司2026年OTT眾測技術支援服務採購專案】中信科移動公眾號訊息，近日，中信科移動成功中標中國移動遼寧公司2026年OTT眾測技術支援服務採購專案。該專案可開展OTT端網路感知與業務體驗的眾測採集分析，實現網路體驗資料的自動化彙總、問題定位與量化評估，有效輔助運營商進行網路質量評估和業務體驗最佳化，從而提升使用者感知和網路運維分析效率。"
-    },
-    {
-      "id": "5035151",
-      "time": "2026-08-11 14:13:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.2%，至9250.60點。"
-    },
-    {
-      "id": "te:economy:574307",
-      "time": "2026-08-11 14:12:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Lithuania Producer Inflation Picks Up in July — Producer prices in Lithuania increased 11.5% year-on-year in July 2026, accelerating from 9.6% in the previous month and marking the fifth consecutive annual increase. Price growth picked up in manufacturing (11.0% vs 8.9% in June), mainly driven by a faster increase in coke and refined petroleum products (50.1% vs. 41.0%). Inflation also accelerated for mining and quarrying (3.5% vs 2.1%) and water supply, sewerage, waste management, and remediation activities (5.8% vs 4.1%). Meanwhile, price growth eased slightly for electricity, gas, steam and air conditioning supply (16.6% vs 16.9%). On a monthly basis, producer prices rose 2.1% in July, rebounding from a revised 2.5% decline in June."
-    },
-    {
-      "id": "mkt:019fef72-703b-7aab-8fe9-54fce6141040",
-      "time": "2026-08-11 14:11:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Renminbi hits highest since Feb 2023; three factors behind rally】Renminbi strengthened further on Aug. 10. The renminbi central parity was set 20bp stronger at 6.7884 per dollar, the strongest since Feb. 10, 2023. Onshore renminbi traded as strong as 6.7429 intraday, a high since Feb. 6, 2023; at the time of writing it was 6.7458 per dollar. Lian Ping, chairman of the China Chief Economists Forum, said a phase of dollar weakness has been the primary catalyst, citing three factors: US-Japan joint intervention in the yen and the yen’s short-term rebound weighing on the dollar index; easing Middle East geopolitical risk reducing safe-haven flows; and weak US macro data exacerbating dollar weakness and supporting broad gains in non-dollar currencies."
-    },
-    {
-      "id": "mkt:019fef72-6f2e-7aab-8fe9-4d3fcce7c6c1",
-      "time": "2026-08-11 14:11:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock says the rate outlook remains unbalanced."
     }
   ]
 }
