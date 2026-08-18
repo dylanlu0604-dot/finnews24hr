@@ -1,7 +1,192 @@
 {
-  "updated": "2026-08-18 15:01:02",
-  "count": 15152,
+  "updated": "2026-08-18 15:04:55",
+  "count": 15150,
   "items": [
+    {
+      "id": "te:markets:576039",
+      "time": "2026-08-18 15:04:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Drop on Surging Bond Yields — US stock futures declined on Tuesday as global bond yields surged to multi-year highs amid mounting concerns over massive government spending and persistent inflationary pressures. The 10-year US Treasury yield climbed toward 4.75%, approaching its highest level since January 2025, while the 30-year yield rose to its highest since 2007. Markets also remained concerned about persistent tensions in the Middle East and rising oil prices amid fading prospects for a new peace agreement between the US and Iran, while efforts to reopen the Strait of Hormuz remained deadlocked. In regular trading on Monday, the Dow fell 0.51%, the S&P 500 declined 0.52% and the Nasdaq Composite lost 0.32%. Ten of the 11 S&P sectors ended lower, led by communication services, consumer staples and financials. Investors now turn their attention to retail earnings from Home Depot, Lowe’s and Walmart due this week for fresh insights into consumer strength."
+    },
+    {
+      "id": "mkt:01a013ad-9383-7aab-9071-d3cc93242d8f",
+      "time": "2026-08-18 15:02:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "Aug 18 (Tue) close: China's Shanghai Composite Index +7.65 pts (+0.19%) at 3,990.30; Shenzhen Composite Index -81.78 pts (-0.56%) at 14,622.50; CSI 300 index -15.28 pts (-0.32%) at 4,725.81; China's ChiNext Index -34.59 pts (-0.92%) at 3,705.56; China's STAR 50 Index +2.02 pts (+0.11%) at 1,790.87."
+    },
+    {
+      "id": "mkt:01a013ad-7517-7aab-9071-ca7b9de29a61",
+      "time": "2026-08-18 15:02:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Mainland combined turnover CNY 2,400.78 bln; GigaDevice top by turnover】Aug 18 — Shanghai and Shenzhen combined turnover totaled CNY 2,400.78 bln, up CNY 13.32 bln vs the prior trading day. Shanghai turnover CNY 1,135.19 bln (prev. CNY 1,112.82 bln), volume 511 mln lots (prev. 490 mln). Shenzhen turnover CNY 1,265.59 bln (prev. CNY 1,274.64 bln), volume 675 mln lots (prev. 642 mln). Top-by-turnover: GigaDevice CNY 26.795 bln; ChangXin Technology CNY 25.460 bln; Zhongji Xuchuang CNY 21.831 bln; BOE A CNY 20.484 bln; Eoptolink CNY 17.685 bln."
+    },
+    {
+      "id": "mkt:01a013ad-4397-7aab-9071-c084a603bef8",
+      "time": "2026-08-18 15:01:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "European stocks opened mixed on Aug 18: FTSE 100 +5.84 pts (+0.05%) at 10,726.14; STOXX Europe 50 -17.70 pts (-0.27%) at 6,512.75; Spain's IBEX 35 +11.89 pts (+0.06%) at 19,993.79; Italy's FTSE MIB -114.98 pts (-0.21%) at 53,472.00; Germany's DAX -89.91 pts (-0.34%) at 26,279.75; France's CAC 40 -17.44 pts (-0.20%) at 8,562.16."
+    },
+    {
+      "id": "5045393",
+      "time": "2026-08-18 15:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4922.78億元，較昨日此時放量568.28億元】截至目前，ETF兩市成交額報4922.78億元，較昨日此時放量568.28億元，分型別來看，股票型ETF成交額1533.51億元，債券型ETF成交額2397.12億元，貨幣型ETF成交額244.45億元，商品型ETF成交額83.4億元，QDII型ETF成交額664.31億元。"
+    },
+    {
+      "id": "mkt:01a013ad-352b-7aab-9071-bd4c9428fffc",
+      "time": "2026-08-18 15:01:53",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Pantheon Macroeconomics: UK unemployment report suggests Bank of England may pause further rate hikes】Pantheon Macroeconomics chief UK economist Ashley Webb said a rise in June unemployment shows the labour market is weakening and reduces the risk of second‑round inflation, arguing the Bank of England is unlikely to push rates above 3.75%. The three‑month unemployment rate to June rose to 4.9% from 4.8% previously; the single‑month rate increased to 5.4% from 4.6%. Webb said the readings portray a cooling jobs market."
+    },
+    {
+      "id": "mkt:01a013ac-df8e-7aab-9071-b4ec2f64b860",
+      "time": "2026-08-18 15:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT: loans rose 2.0% YoY in Q2."
+    },
+    {
+      "id": "mkt:01a013ac-cabc-7aab-9071-ad59c55a2ada",
+      "time": "2026-08-18 15:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China equity index futures midday close】CSI 300 index futures (IF) main contract down 0.50% at midday; SSE 50 index futures (IH) main contract down 0.19%; CSI 500 index futures (IC) main contract down 0.55%; CSI 1000 index futures (IM) main contract down 0.64%."
+    },
+    {
+      "id": "5045392",
+      "time": "2026-08-18 15:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：糧食ETF領漲10.05%，日經225ETF領跌2.83%】ETF收盤漲跌不一，糧食ETF（159063）領漲10.05%，糧食ETF（159072）漲8.33%，糧食ETF（159030）漲7.78%，日經225ETF（513000）領跌2.83%，日經ETF（159866）跌2.72%，港股通資訊科技ETF（159185）跌2.58%。"
+    },
+    {
+      "id": "5045391",
+      "time": "2026-08-18 15:01:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：滬指探底回升漲0.19%，種業及糧食概念股集體爆發】A股三大指數今日漲跌不一，截至收盤，上證指數漲0.19%，深證成指跌0.56%，創業板指跌0.93%，北證50漲2.67%，科創50指數漲0.11%。全市場成交額24198億元，較上日放量173億元，全市場超3200只個股下跌。板塊題材上，轉基因、種植業與林業、糧食概念、農業種植、豬肉板塊漲幅居前；能源金屬、影視院線、遊戲、證券、算力租賃跌幅居前。盤面上，受“厄爾尼諾現象”來襲的影響，糧食概念板塊大漲，金健米業、農發種業、京糧控股、黑芝麻、秋樂種業、神農種業等股漲停，康農種業、大北農、國投豐樂漲幅居前。豬肉板塊表現活躍，天邦食品、羅牛山漲停，大禹生物、傲農生物、新希望漲幅居前。國產作業系統板塊午後大幅拉昇，誠邁科技、麒麟信安、中國軟體等股漲停，潤和軟體、神思電子、軟通動力漲幅居前。影視院線板塊低開低走，北京文化逼近跌停，中廣天擇、奧飛娛樂、博納影業跌幅居前。能源金屬板塊表現低迷，永杉鋰業、融捷股份、博遷新材跌幅居前。"
+    },
+    {
+      "id": "5045390",
+      "time": "2026-08-18 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.19%，深證成指跌0.56%，創業板指跌0.92%。"
+    },
+    {
+      "id": "mkt:01a013ac-63af-7aab-9071-a2718f00b42f",
+      "time": "2026-08-18 15:00:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's household solar water-heating efficiency standard takes effect Aug. 1; sector efficiency to rise ~15%】The Standardization Administration of China (SAC) said the revised household solar water-heating efficiency standard, GB26969-2025, takes effect Aug. 1. The standard will force retirement of obsolete capacity and accelerate adoption of higher-efficiency absorber materials, lower-heat-loss insulation, low-energy smart production equipment and investment in intelligent control systems. SAC expects sector-average product efficiency to improve about 15% (average +15% across system types, up to +50% for some models) and projects annual electricity savings of roughly 2.4 mln kWh."
+    },
+    {
+      "id": "mkt:01a013ac-5123-7aab-9071-9c073f0b8a4e",
+      "time": "2026-08-18 15:00:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "At midday close, China’s front-month futures were mostly higher. SC crude oil jumped nearly 6%; fuel oil rose over 5%; LPG gained about 5%; ethylene glycol climbed more than 4%; low-sulfur fuel oil (LU), synthetic rubber and benzene were up over 3%. On the downside, polysilicon fell over 4%; eggs, Shanghai tin and international copper lost more than 1%; Shanghai copper and red dates declined around 1%."
+    },
+    {
+      "id": "te:markets:576037",
+      "time": "2026-08-18 15:00:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Climb — UK natural gas prices climbed toward 154 pence per therm on Tuesday, extending gains from previous sessions amid fading hopes for a Middle East peace deal that could facilitate the reopening of the Strait of Hormuz. President Trump said he was in no rush to resolve the conflict and warned of military action against Oman if it obstructed US efforts to reach an agreement with Iran. Also, talks between Iranian and Omani officials over a provisional framework to manage shipping through the strait have yet to yield any concrete results. The continued maritime blockade has delayed LNG shipments from Qatar, limiting supplies available to Europe. At the same time, intense heatwaves across parts of Europe have boosted gas-fired power demand for air conditioning. These factors are slowing the pace of inventory replenishment, leaving European storage levels under greater pressure ahead of the winter heating season."
+    },
+    {
+      "id": "5045389",
+      "time": "2026-08-18 15:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【能效指標平均提高15% 新版家用太陽能熱水系統能效標準實施】記者今天從國家標準委瞭解到，新版《家用太陽能熱水系統能效限定值及能效等級》（GB 26969—2025）今年8月1日起實施，將倒逼企業淘汰落後產能，加大高效集熱材料、低熱損保溫技術、低能耗智慧化生產裝置的使用和智慧控制系統的研發投入力度。 預計標準有效實施後，全行業的產品平均能效水平將提升15%，各型別家用太陽能熱水系統能效指標平均提高15%，最高提高50%。據初步測算，預計每年將節電240萬度。"
+    },
+    {
+      "id": "5045388",
+      "time": "2026-08-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】液化石油氣連續漲4.80%，上海原油連續漲4.50%，燃料油連續漲4.46%，多晶矽連續跌4.30%，乙二醇連續漲4.17%，低硫燃料油連續漲3.98%，丁二烯橡膠連續漲3.43%，純苯連續漲3.38%，瀝青連續漲2.69%，豆二連續漲2.56%。"
+    },
+    {
+      "id": "5045387",
+      "time": "2026-08-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.38%，英國富時100指數跌0.28%，法國CAC40指數跌0.66%，歐洲斯托克50指數跌0.14%，義大利富時MIB指數漲0.01%。"
+    },
+    {
+      "id": "5045386",
+      "time": "2026-08-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.64%， 滬深300指數期貨連續跌0.50%， 中證500指數期貨連續跌0.55%， 上證50指數期貨連續跌0.19%。"
+    },
     {
       "id": "5045385",
       "time": "2026-08-18 14:58:22",
@@ -138617,197 +138802,6 @@
         "其他"
       ],
       "text": "【路易威登位於K11 MUSEA的旗艦店申請酒牌】奢侈品牌巨頭路易威登位於尖沙咀K11 MUSEA的旗艦店已申請酒牌。該旗艦店佔地4萬平方英尺，預計將於今年年底開業。酒牌申請人為JUDEAUX, VICTOR BERNARD，其職務為LV現任北亞區款待業務總監。尖沙咀店預計將開設香港首家Le Café及LV The Place Hong Kong。路易威登已在曼谷和首爾開設了類似的概念店。"
-    },
-    {
-      "id": "mkt:019fefa3-44eb-7aab-8feb-0f5dc53496d3",
-      "time": "2026-08-11 15:04:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sweden's National Institute of Economic Research (NIER) forecasts 2.8% GDP growth in 2027, unchanged from its June projection."
-    },
-    {
-      "id": "5035228",
-      "time": "2026-08-11 15:04:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利埃尼集團股價早盤上漲1.8%。"
-    },
-    {
-      "id": "te:markets:574338",
-      "time": "2026-08-11 15:04:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Heating Oil Extends Rally — US heating oil prices extended their rally above $4.20 per gallon, moving back toward a four-month high as prospects for a deal to reopen the Strait of Hormuz dimmed. President Donald Trump made demands on Iran, further dimming hopes for an agreement to reopen the waterway. This followed Iran’s statement that a deal with Oman on new shipping routes was close to being finalized, while warning that reopening the waterway remained conditional on Washington meeting additional demands. Meanwhile, an attack claimed by Iran-backed Houthi militants on Saudi Arabia’s Jazan refinery in the Red Sea compounded supply concerns. Saudi authorities said the fire was extinguished early Sunday but gave no further details. Russia’s fuel export restrictions have also added to supply concerns. Refinery capacity remains strained as demand outpaces supply, with US refiners processing crude at the highest seasonal pace since 2018 despite capacity having fallen by 600,000 barrels per day over the same period."
-    },
-    {
-      "id": "mkt:019fefa3-1844-7aab-8feb-04a070d01323",
-      "time": "2026-08-11 15:04:30",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "The Swedish National Institute of Economic Research (NIER) now projects 2026 GDP growth of 2.4%, up from its June forecast of 2.2%."
-    },
-    {
-      "id": "mkt:019fefa2-dcbe-7aab-8fea-fc2e6737e080",
-      "time": "2026-08-11 15:04:15",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China's Shanghai Composite Index closed down 32.5 points (-0.82%) at 3,934.09 on Tuesday; Shenzhen Composite Index fell 57.52 points (-0.40%) to 14,259.44; CSI 300 Index dropped 38.24 points (-0.81%) to 4,663.79; ChiNext Index rose 11.95 points (+0.34%) to 3,549.16; China's STAR 50 Index fell 28.27 points (-1.63%) to 1,709.50."
-    },
-    {
-      "id": "mkt:019fefa2-d379-7aab-8fea-f09fd044d2e9",
-      "time": "2026-08-11 15:04:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai and Shenzhen turnover CNY 2.321 trillion; Zhongji Xuchuang top by turnover】Total turnover on the Shanghai and Shenzhen exchanges on Aug 11 was CNY 2.321 trillion, down CNY 202.12 billion from the prior session. Shanghai turnover was CNY 1.067 trillion (prior CNY 1.167 trillion), volume 529 mln lots (prior 542 mln lots). Shenzhen turnover was CNY 1.254 trillion (prior CNY 1.356 trillion), volume 643 mln lots (prior 688 mln lots). Top stock by turnover was Zhongji Xuchuang CNY 29.959 billion, followed by Xinyisheng CNY 19.977 billion, Zhaoyi Innovation CNY 17.721 billion, Dongshan Precision CNY 17.589 billion and Fenghua Hi‑Tech CNY 17.293 billion. Data flagged as possibly erroneous; manual verification required."
-    },
-    {
-      "id": "mkt:019fefa2-a3fd-7aab-8fea-e8788cd0bfbd",
-      "time": "2026-08-11 15:04:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Korea senior deputy governor says further rate hikes are necessary and the pace of additional tightening should be data-dependent."
-    },
-    {
-      "id": "mkt:019fefa2-0cae-7aab-8fea-e23535df1489",
-      "time": "2026-08-11 15:03:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Bank of Korea senior deputy governor: strong semiconductor market is boosting wages and domestic demand."
-    },
-    {
-      "id": "mkt:019fefa1-d437-7aab-8fea-dac674c4788d",
-      "time": "2026-08-11 15:03:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Bank of Korea senior deputy governor said the direct impact of higher oil prices and indirect effects through the value chain are still ongoing."
-    },
-    {
-      "id": "mkt:019fefa1-8b06-7aab-8fea-d3a5186d755b",
-      "time": "2026-08-11 15:02:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea senior deputy governor: South Korea's inf is currently driven by both demand and supply factors."
-    },
-    {
-      "id": "5035227",
-      "time": "2026-08-11 15:02:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "Uniper已確定歐洲約10處可用於出售或出租、開發資料中心的地點。"
-    },
-    {
-      "id": "5035226",
-      "time": "2026-08-11 15:02:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "Uniper執行長被問及政府計劃退出持股一事時表示：我只能重申，柏林方面正在推進雙線方案，最終可能選擇出售股權或進行 IPO。"
-    },
-    {
-      "id": "mkt:019fefa0-f95b-7aab-8fea-cfaf259dd224",
-      "time": "2026-08-11 15:02:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European equity indices opened narrowly mixed on Tuesday Aug 11: Germany's DAX rose 22.14 pts (+0.08%) to 26,377.21; UK's FTSE 100 gained 4.51 pts (+0.04%) to 10,867.01; France's CAC 40 slipped 1.00 pt (-0.01%) to 8,725.03; Euro Stoxx 50 climbed 3.93 pts (+0.06%) to 6,539.55; Spain's IBEX 35 added 11.39 pts (+0.06%) to 20,194.29; Italy's FTSE MIB advanced 32.12 pts (+0.06%) to 53,696.00."
-    },
-    {
-      "id": "5035225",
-      "time": "2026-08-11 15:02:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【30名中國公民涉嫌非法採金被抓扣，中國駐巴新使館再發嚴肅提醒】據媒體報道，8月9日凌晨，警察、移民局及礦產石油部在布干維爾自治區科帕尼地區展開聯合執法行動，在一非法採礦點抓扣了30名涉嫌非法採金的中國公民。中國駐巴布亞紐幾內亞使館再次嚴肅提醒，在巴新的中國公民和機構務必遵守當地法律法規，切勿從事非法採金、黃金走私違法活動，避免違法行為給自身帶來安全風險以及財產損失。如遇緊急情況第一時間報警並與中國駐巴新使館聯絡尋求協助。"
-    },
-    {
-      "id": "mkt:019fefa0-b369-7aab-8fea-c73dd5b4158c",
-      "time": "2026-08-11 15:01:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK",
-        "UN01.DE",
-        "Impact bullish"
-      ],
-      "text": "【Uniper targets AI boom, plans to convert 10 European energy sites into data centers】Uniper has identified about 10 European sites that could be sold, leased or developed into data centers to capture surging AI infrastructure demand, according to documents released Tuesday. The portfolio includes four UK, three German, two Swedish and one Dutch location; three projects are at an advanced stage and investment decisions could be made this year. After a multibillion-euro rescue during the 2022 energy crisis, the German government is prepared to gradually reduce its stake in Uniper, and the company says the moves are intended to boost investor appeal."
-    },
-    {
-      "id": "5035224",
-      "time": "2026-08-11 15:01:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：標普油氣ETF領漲6.82%，黃金股ETF跌5.94%】ETF收盤漲跌不一，標普油氣ETF（513350）領漲6.82%，標普油氣ETF（159518）漲6.06%，石油ETF（159189）漲3.08%，創業板綜ETF（159287）領跌16.43%，民企300ETF（159106）跌8.6%，黃金股ETF（517520）跌5.94%。"
-    },
-    {
-      "id": "mkt:019fefa0-283b-7aab-8fea-bf7bf3733856",
-      "time": "2026-08-11 15:01:18",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China index futures midday close】CSI 300 index futures (IF) most-active contract fell 0.32% at the midday close; SSE 50 index futures (IH) fell 0.87%; CSI 500 index futures (IC) rose 0.01%; CSI 1000 index futures (IM) rose 0.11%."
-    },
-    {
-      "id": "5035223",
-      "time": "2026-08-11 15:01:13",
-      "tags": [
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：滬指震盪走低跌0.82%，有色金屬板塊集體回撥】A股三大指數今日漲跌不一，截至收盤，上證指數跌0.82%，深證成指跌0.4%，創業板指漲0.34%，北證50跌0.86%，科創50指數跌1.63%。全市場成交額23356億元，較上日縮量2031億元，全市場超3700只個股下跌。板塊題材上，影視院線、MLCC概念、油氣開採及服務、醫藥商業、減速器板塊漲幅居前；貴金屬、小金屬、能源金屬、工業金屬、軍工裝備板塊居前。盤面上，影視院線板塊全天強勢，華智數媒、北京文化、文投控股漲停，儒意電影、上海電影、橫店影視漲幅居前。MLCC概念板塊衝高回落，雙星新材、潔美科技、國風新材漲停，達利凱普漲超13%，風華高科、昀冢科技、東材科技漲幅居前。醫藥商業板塊表現活躍，開開實業、第一醫藥、老百姓漲停，一心堂、益豐藥房、大參林漲幅居前。貴金屬板塊持續走低，赤峰黃金、四川黃金、紫金礦業領跌板塊。工業金屬板塊亦表現疲軟，西部礦業、洛陽鉬業、盛達資源跌幅居前。"
-    },
-    {
-      "id": "mkt:019fefa0-0312-7aab-8fea-b3d52238db16",
-      "time": "2026-08-11 15:01:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE presidential adviser said a fragile agreement cannot underpin the next phase of development in the Arab region."
-    },
-    {
-      "id": "5035222",
-      "time": "2026-08-11 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌0.82%，深證成指跌0.40%，創業板指漲0.34%。"
     }
   ]
 }

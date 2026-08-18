@@ -1,7 +1,192 @@
 {
   "date": "2026-08-18",
-  "count": 1197,
+  "count": 1215,
   "items": [
+    {
+      "id": "te:markets:576039",
+      "time": "2026-08-18 15:04:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Drop on Surging Bond Yields — US stock futures declined on Tuesday as global bond yields surged to multi-year highs amid mounting concerns over massive government spending and persistent inflationary pressures. The 10-year US Treasury yield climbed toward 4.75%, approaching its highest level since January 2025, while the 30-year yield rose to its highest since 2007. Markets also remained concerned about persistent tensions in the Middle East and rising oil prices amid fading prospects for a new peace agreement between the US and Iran, while efforts to reopen the Strait of Hormuz remained deadlocked. In regular trading on Monday, the Dow fell 0.51%, the S&P 500 declined 0.52% and the Nasdaq Composite lost 0.32%. Ten of the 11 S&P sectors ended lower, led by communication services, consumer staples and financials. Investors now turn their attention to retail earnings from Home Depot, Lowe’s and Walmart due this week for fresh insights into consumer strength."
+    },
+    {
+      "id": "mkt:01a013ad-9383-7aab-9071-d3cc93242d8f",
+      "time": "2026-08-18 15:02:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "Aug 18 (Tue) close: China's Shanghai Composite Index +7.65 pts (+0.19%) at 3,990.30; Shenzhen Composite Index -81.78 pts (-0.56%) at 14,622.50; CSI 300 index -15.28 pts (-0.32%) at 4,725.81; China's ChiNext Index -34.59 pts (-0.92%) at 3,705.56; China's STAR 50 Index +2.02 pts (+0.11%) at 1,790.87."
+    },
+    {
+      "id": "mkt:01a013ad-7517-7aab-9071-ca7b9de29a61",
+      "time": "2026-08-18 15:02:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Mainland combined turnover CNY 2,400.78 bln; GigaDevice top by turnover】Aug 18 — Shanghai and Shenzhen combined turnover totaled CNY 2,400.78 bln, up CNY 13.32 bln vs the prior trading day. Shanghai turnover CNY 1,135.19 bln (prev. CNY 1,112.82 bln), volume 511 mln lots (prev. 490 mln). Shenzhen turnover CNY 1,265.59 bln (prev. CNY 1,274.64 bln), volume 675 mln lots (prev. 642 mln). Top-by-turnover: GigaDevice CNY 26.795 bln; ChangXin Technology CNY 25.460 bln; Zhongji Xuchuang CNY 21.831 bln; BOE A CNY 20.484 bln; Eoptolink CNY 17.685 bln."
+    },
+    {
+      "id": "mkt:01a013ad-4397-7aab-9071-c084a603bef8",
+      "time": "2026-08-18 15:01:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "European stocks opened mixed on Aug 18: FTSE 100 +5.84 pts (+0.05%) at 10,726.14; STOXX Europe 50 -17.70 pts (-0.27%) at 6,512.75; Spain's IBEX 35 +11.89 pts (+0.06%) at 19,993.79; Italy's FTSE MIB -114.98 pts (-0.21%) at 53,472.00; Germany's DAX -89.91 pts (-0.34%) at 26,279.75; France's CAC 40 -17.44 pts (-0.20%) at 8,562.16."
+    },
+    {
+      "id": "mkt:01a013ad-352b-7aab-9071-bd4c9428fffc",
+      "time": "2026-08-18 15:01:53",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Pantheon Macroeconomics: UK unemployment report suggests Bank of England may pause further rate hikes】Pantheon Macroeconomics chief UK economist Ashley Webb said a rise in June unemployment shows the labour market is weakening and reduces the risk of second‑round inflation, arguing the Bank of England is unlikely to push rates above 3.75%. The three‑month unemployment rate to June rose to 4.9% from 4.8% previously; the single‑month rate increased to 5.4% from 4.6%. Webb said the readings portray a cooling jobs market."
+    },
+    {
+      "id": "5045393",
+      "time": "2026-08-18 15:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4922.78億元，較昨日此時放量568.28億元】截至目前，ETF兩市成交額報4922.78億元，較昨日此時放量568.28億元，分型別來看，股票型ETF成交額1533.51億元，債券型ETF成交額2397.12億元，貨幣型ETF成交額244.45億元，商品型ETF成交額83.4億元，QDII型ETF成交額664.31億元。"
+    },
+    {
+      "id": "mkt:01a013ac-df8e-7aab-9071-b4ec2f64b860",
+      "time": "2026-08-18 15:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOT: loans rose 2.0% YoY in Q2."
+    },
+    {
+      "id": "mkt:01a013ac-cabc-7aab-9071-ad59c55a2ada",
+      "time": "2026-08-18 15:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China equity index futures midday close】CSI 300 index futures (IF) main contract down 0.50% at midday; SSE 50 index futures (IH) main contract down 0.19%; CSI 500 index futures (IC) main contract down 0.55%; CSI 1000 index futures (IM) main contract down 0.64%."
+    },
+    {
+      "id": "5045392",
+      "time": "2026-08-18 15:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：糧食ETF領漲10.05%，日經225ETF領跌2.83%】ETF收盤漲跌不一，糧食ETF（159063）領漲10.05%，糧食ETF（159072）漲8.33%，糧食ETF（159030）漲7.78%，日經225ETF（513000）領跌2.83%，日經ETF（159866）跌2.72%，港股通資訊科技ETF（159185）跌2.58%。"
+    },
+    {
+      "id": "5045391",
+      "time": "2026-08-18 15:01:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：滬指探底回升漲0.19%，種業及糧食概念股集體爆發】A股三大指數今日漲跌不一，截至收盤，上證指數漲0.19%，深證成指跌0.56%，創業板指跌0.93%，北證50漲2.67%，科創50指數漲0.11%。全市場成交額24198億元，較上日放量173億元，全市場超3200只個股下跌。板塊題材上，轉基因、種植業與林業、糧食概念、農業種植、豬肉板塊漲幅居前；能源金屬、影視院線、遊戲、證券、算力租賃跌幅居前。盤面上，受“厄爾尼諾現象”來襲的影響，糧食概念板塊大漲，金健米業、農發種業、京糧控股、黑芝麻、秋樂種業、神農種業等股漲停，康農種業、大北農、國投豐樂漲幅居前。豬肉板塊表現活躍，天邦食品、羅牛山漲停，大禹生物、傲農生物、新希望漲幅居前。國產作業系統板塊午後大幅拉昇，誠邁科技、麒麟信安、中國軟體等股漲停，潤和軟體、神思電子、軟通動力漲幅居前。影視院線板塊低開低走，北京文化逼近跌停，中廣天擇、奧飛娛樂、博納影業跌幅居前。能源金屬板塊表現低迷，永杉鋰業、融捷股份、博遷新材跌幅居前。"
+    },
+    {
+      "id": "5045390",
+      "time": "2026-08-18 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.19%，深證成指跌0.56%，創業板指跌0.92%。"
+    },
+    {
+      "id": "mkt:01a013ac-63af-7aab-9071-a2718f00b42f",
+      "time": "2026-08-18 15:00:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's household solar water-heating efficiency standard takes effect Aug. 1; sector efficiency to rise ~15%】The Standardization Administration of China (SAC) said the revised household solar water-heating efficiency standard, GB26969-2025, takes effect Aug. 1. The standard will force retirement of obsolete capacity and accelerate adoption of higher-efficiency absorber materials, lower-heat-loss insulation, low-energy smart production equipment and investment in intelligent control systems. SAC expects sector-average product efficiency to improve about 15% (average +15% across system types, up to +50% for some models) and projects annual electricity savings of roughly 2.4 mln kWh."
+    },
+    {
+      "id": "mkt:01a013ac-5123-7aab-9071-9c073f0b8a4e",
+      "time": "2026-08-18 15:00:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "At midday close, China’s front-month futures were mostly higher. SC crude oil jumped nearly 6%; fuel oil rose over 5%; LPG gained about 5%; ethylene glycol climbed more than 4%; low-sulfur fuel oil (LU), synthetic rubber and benzene were up over 3%. On the downside, polysilicon fell over 4%; eggs, Shanghai tin and international copper lost more than 1%; Shanghai copper and red dates declined around 1%."
+    },
+    {
+      "id": "te:markets:576037",
+      "time": "2026-08-18 15:00:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Climb — UK natural gas prices climbed toward 154 pence per therm on Tuesday, extending gains from previous sessions amid fading hopes for a Middle East peace deal that could facilitate the reopening of the Strait of Hormuz. President Trump said he was in no rush to resolve the conflict and warned of military action against Oman if it obstructed US efforts to reach an agreement with Iran. Also, talks between Iranian and Omani officials over a provisional framework to manage shipping through the strait have yet to yield any concrete results. The continued maritime blockade has delayed LNG shipments from Qatar, limiting supplies available to Europe. At the same time, intense heatwaves across parts of Europe have boosted gas-fired power demand for air conditioning. These factors are slowing the pace of inventory replenishment, leaving European storage levels under greater pressure ahead of the winter heating season."
+    },
+    {
+      "id": "5045389",
+      "time": "2026-08-18 15:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【能效指標平均提高15% 新版家用太陽能熱水系統能效標準實施】記者今天從國家標準委瞭解到，新版《家用太陽能熱水系統能效限定值及能效等級》（GB 26969—2025）今年8月1日起實施，將倒逼企業淘汰落後產能，加大高效集熱材料、低熱損保溫技術、低能耗智慧化生產裝置的使用和智慧控制系統的研發投入力度。 預計標準有效實施後，全行業的產品平均能效水平將提升15%，各型別家用太陽能熱水系統能效指標平均提高15%，最高提高50%。據初步測算，預計每年將節電240萬度。"
+    },
+    {
+      "id": "5045388",
+      "time": "2026-08-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】液化石油氣連續漲4.80%，上海原油連續漲4.50%，燃料油連續漲4.46%，多晶矽連續跌4.30%，乙二醇連續漲4.17%，低硫燃料油連續漲3.98%，丁二烯橡膠連續漲3.43%，純苯連續漲3.38%，瀝青連續漲2.69%，豆二連續漲2.56%。"
+    },
+    {
+      "id": "5045387",
+      "time": "2026-08-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.38%，英國富時100指數跌0.28%，法國CAC40指數跌0.66%，歐洲斯托克50指數跌0.14%，義大利富時MIB指數漲0.01%。"
+    },
+    {
+      "id": "5045386",
+      "time": "2026-08-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.64%， 滬深300指數期貨連續跌0.50%， 中證500指數期貨連續跌0.55%， 上證50指數期貨連續跌0.19%。"
+    },
     {
       "id": "5045385",
       "time": "2026-08-18 14:58:22",
