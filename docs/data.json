@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-18 13:24:26",
-  "count": 15201,
+  "updated": "2026-08-18 13:28:15",
+  "count": 15198,
   "items": [
+    {
+      "id": "5045269",
+      "time": "2026-08-18 13:27:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "馬來西亞財政部：2027年財政預算案將重點關注包括社會公正、生活成本壓力等10個領域。"
+    },
+    {
+      "id": "mkt:01a01355-9e40-7aab-906f-adf40d3d2c77",
+      "time": "2026-08-18 13:26:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia's Finance Ministry said targeted subsidies could save about 15.5 bln ringgit a year."
+    },
+    {
+      "id": "5045268",
+      "time": "2026-08-18 13:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：東風汽車取消在義大利建廠計劃。"
+    },
+    {
+      "id": "mkt:01a01355-634a-7aab-906f-a298130987a2",
+      "time": "2026-08-18 13:25:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a magnitude 5.7 earthquake off the coast of Chiapas, Mexico."
+    },
+    {
+      "id": "5045267",
+      "time": "2026-08-18 13:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長將於週三訪問巴格達】據知情訊息人士透露，伊朗議會議長穆罕默德・巴蓋爾・加利巴夫將於週三率高階代表團前往巴格達，與伊拉克官員及政界人士舉行會談。會談首要議題是一項允許伊拉克石油經霍爾木茲海峽出口的提案，這條狹窄水道通常承擔伊拉克約 90% 的原油外運量。訊息人士稱，代表團還將探討推動伊拉克各武裝派系所持武器全部收歸國家管控的相關工作，預計將闡明德黑蘭在該問題上的立場，以及對巴格達迄今為止所採取舉措的評估。該訊息人士補充表示，會談還將談及伊朗對沖突再度爆發風險的擔憂，同時討論地區局勢進展，及其對伊拉克、伊朗乃至更廣泛區域造成的影響。"
+    },
     {
       "id": "5045266",
       "time": "2026-08-18 13:22:19",
@@ -139185,90 +139226,6 @@
         "市場"
       ],
       "text": "【太湖發生2026年第1號洪水】受第13號颱風“白海豚”強降雨影響，太湖水位持續上漲，已於8月11日11時25分穩定漲至警戒水位3.80米，並將繼續上漲，依據水利部《全國主要江河洪水編號規定》，編號為“太湖2026年第1號洪水”。"
-    },
-    {
-      "id": "mkt:019fef4a-cb9c-7aab-8fe7-ecf35286e9bf",
-      "time": "2026-08-11 13:28:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "02899.HK",
-        "Impact bearish",
-        "03330.HK",
-        "01818.HK"
-      ],
-      "text": "Hong Kong-listed gold stocks widened afternoon losses: Zijin Mining (02899.HK) fell more than 5%, Lingbao Gold (03330.HK) dropped over 6%, while Zhaojin Mining (01818.HK) and Shandong Gold (01787.HK) also declined."
-    },
-    {
-      "id": "5035084",
-      "time": "2026-08-11 13:27:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：各銀行按計劃順利落實巴塞爾協議III準則。"
-    },
-    {
-      "id": "5035083",
-      "time": "2026-08-11 13:26:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報65.06美元/盎司。"
-    },
-    {
-      "id": "5035082",
-      "time": "2026-08-11 13:26:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金失守4390美元/盎司】現貨黃金失守4390美元/盎司，日內跌0.08%。"
-    },
-    {
-      "id": "mkt:019fef49-46b2-7aab-8fe7-e7646759b82d",
-      "time": "2026-08-11 13:26:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Spot silver fell more than 1.00% intraday to $65.07/oz."
-    },
-    {
-      "id": "5035081",
-      "time": "2026-08-11 13:26:16",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將法拉利的目標股價從381歐元上調至407歐元。"
-    },
-    {
-      "id": "mkt:019fef48-0d6c-7aab-8fe7-dcff39f671fa",
-      "time": "2026-08-11 13:25:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "601872.SS",
-        "Impact bearish",
-        "600026.SS"
-      ],
-      "text": "China A-share shipping sector extended afternoon losses; China Merchants Shipping fell over 7%, with COSCO Shipping Energy and Haitong Development also sliding."
-    },
-    {
-      "id": "mkt:019fef47-7a74-7aab-8fe7-d6e43eb0c675",
-      "time": "2026-08-11 13:24:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "159272.SS",
-        "Impact bullish",
-        "159278.SS",
-        "159530.SS"
-      ],
-      "text": "China's A-share robotics sector jumped in the afternoon; individual stocks Ludi Xiebo and Zhongda Lide gained more than 8%. Robotics ETFs Fullgoal (159272), Penghua (159278) and E Fund (159530) rose over 2%."
     }
   ]
 }
