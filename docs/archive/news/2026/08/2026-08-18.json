@@ -1,7 +1,110 @@
 {
   "date": "2026-08-18",
-  "count": 802,
+  "count": 813,
   "items": [
+    {
+      "id": "mkt:01a012d8-fb95-7aab-906d-e045f37f99d5",
+      "time": "2026-08-18 11:10:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "ChiNext Index fell over 2%; Shenzhen Composite Index down 1.62%; Shanghai Composite Index down 0.64%. Compute power, IPv6, gaming and CRO sectors led losses. More than 4,000 stocks declined across the market."
+    },
+    {
+      "id": "5045137",
+      "time": "2026-08-18 11:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首批國家公園生態系統質量和旗艦物種數量實現雙提升】從國家林草局瞭解到，我國全面推進以國家公園為主體的自然保護地體系建設，取得顯著階段性成效，首批國家公園生態系統質量和旗艦物種數量實現雙提升。我國建立國家公園體制以來，全面推進以國家公園為主體的自然保護地體系建設，目前中國特色國家公園“四梁八柱”已基本形成。在生境恢復方面，首批5個國家公園整合120多個各類自然保護地，全面最佳化生態系統的原真性、完整性，整體保護長江、黃河、瀾滄江源頭生態系統，連通野生大熊貓13個局域種群棲息地；旗艦物種種群得到有效恢復，藏羚種群數量增至7萬餘隻，野生東北虎由公園建設初期的27只增至72只、野生東北豹由42只增至115只，海南長臂猿種群增至7群44只，武夷山發現雨神角蟾等多個新物種，實現了生態系統質量和旗艦物種數量雙提升。在生態惠民方面，持續完善生態補償機制，共享生態保護成果。5個國家公園吸納5萬當地居民成為生態管護員，年均獲得工資性收入1萬—2萬元；海南熱帶雨林國家公園依託好山好水好生態，生態系統生產總值提升至2087億元；打造武夷山國家公園1號風景道，串聯起30多處自然文化景觀，探索環國家公園保護髮展帶新模式，每年為地方增收6000多萬元。"
+    },
+    {
+      "id": "5045136",
+      "time": "2026-08-18 11:09:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大連化物所提出“輕石腦油全組分梯級膜分離”策略】8月18日，中國科學院大連化物所釋出訊息，近日，該所能源催化轉化全國重點實驗室無機膜與催化新材料研究組（504組）楊維慎研究員、班宇傑研究員等聯合中山大學陳小明院士、張傑鵬教授、周東東教授團隊提出“輕石腦油梯級膜分離”策略，為輕石腦油全組分精準分離提供了新思路。"
+    },
+    {
+      "id": "5045135",
+      "time": "2026-08-18 11:09:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3665.145點；上證指數跌0.64%，現報3956.994點；深證成指跌1.60%，現報14468.384點。"
+    },
+    {
+      "id": "mkt:01a012d8-2673-7aab-906d-dcb75d5ae54e",
+      "time": "2026-08-18 11:09:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US ITC opens Section 337 probe into transformers and components】On Aug 17 the U.S. International Trade Commission (ITC) voted to institute a Section 337 investigation into certain transformers and their components. The action follows a July 16, 2026 petition by U.S. firm AyrEnergy alleging Section 337 violations and seeking a limited exclusion order and cease-and-desist orders. Named respondents are Zetwerk Manufacturing (India and U.S.), KRYFS Power Components (India) and Unimacts Global (U.S.)."
+    },
+    {
+      "id": "5045134",
+      "time": "2026-08-18 11:08:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內跌超1%，現報2887.6點。"
+    },
+    {
+      "id": "5045133",
+      "time": "2026-08-18 11:08:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓執行長表示，在當前市場環境下，併購很難找到價值所在。"
+    },
+    {
+      "id": "5045132",
+      "time": "2026-08-18 11:08:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國ITC正式對變壓器及其部件啟動337調查】8月17日，美國國際貿易委員會（ITC）投票決定對特定變壓器及其部件啟動337調查（調查編碼：337-TA-1517）。2026年7月16日，美國Ayr Energy向美國ITC提出337立案調查申請，主張對美出口、在美進口和在美銷售的該產品違反了美國337條款（盜用商業秘密、虛假廣告、不正當競爭、商標侵權、虛假原產地標註等），請求美國ITC釋出有限排除令、禁止令。印度Zetwerk Manufacturing、美國Zetwerk Manufacturing、印度KRYFS Power Components、美國Unimacts Global為列名被告。"
+    },
+    {
+      "id": "5045131",
+      "time": "2026-08-18 11:07:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量1230億元。"
+    },
+    {
+      "id": "mkt:01a012d6-a8c1-7aab-906d-d26f71eec45b",
+      "time": "2026-08-18 11:07:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bearish"
+      ],
+      "text": "Zhipu (02513.HK) fell nearly 17%, touching an intraday low near HK$1,000; turnover exceeded HK$6.6 billion."
+    },
+    {
+      "id": "5045130",
+      "time": "2026-08-18 11:07:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "智譜(02513.HK)跌近17%，股價最低觸及1000港元關口，成交額超66億港元。"
+    },
     {
       "id": "5045129",
       "time": "2026-08-18 11:05:36",
