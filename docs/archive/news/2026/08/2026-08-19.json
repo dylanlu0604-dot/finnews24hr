@@ -1,7 +1,78 @@
 {
   "date": "2026-08-19",
-  "count": 113,
+  "count": 120,
   "items": [
+    {
+      "id": "mkt:01a01625-2134-7aab-9080-87a70a92f3d4",
+      "time": "2026-08-19 02:32:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Major eastern Belgium wildfire preliminarily contained】A wildfire that started on the 14th in eastern Belgium has been preliminarily contained, the Liège provincial governor's office said on the 18th; about 3,000 hectares burned. The fire occurred in a nature reserve with peat wetlands, so underground smouldering may persist; fire services have reinforced ground firefighting resources."
+    },
+    {
+      "id": "mkt:01a01624-6aca-7aab-9080-7cdd505fde81",
+      "time": "2026-08-19 02:31:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.95% to 949 yuan/gram, Shanghai silver main contract fell 2.95% to 15,620 yuan/kg, and SC crude oil main contract rose 0.85% to 580 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a01624-25fa-7aab-9080-7125d5c6c1cd",
+      "time": "2026-08-19 02:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $84.94/bbl, up $0.44, or 0.52%."
+    },
+    {
+      "id": "5046414",
+      "time": "2026-08-19 02:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收報84.94美元/桶。NYMEX 9月天然氣期貨收報2.7760美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.3017美元/加侖，NYMEX 9月取暖油期貨收報4.4501美元/加侖。"
+    },
+    {
+      "id": "mkt:01a01623-dd4f-7aab-9080-6aadfa48175c",
+      "time": "2026-08-19 02:30:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange: Gold T+D closed down 0.91% at 945.5 yuan/gram in the evening session on Aug 18 (Tue); Silver T+D closed down 2.63% at 15,576 yuan/kg."
+    },
+    {
+      "id": "5046413",
+      "time": "2026-08-19 02:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時東部大規模野火初步得到控制】比利時東部地區本月14日發生野火。比利時列日省省長辦公室18日通報稱，目前野火已初步得到控制，過火面積約3000公頃。由於發生野火的自然保護區內分佈著泥炭溼地，地下火可能持續陰燃。消防部門已加強地面消防力量。通報還表示，兩名消防員在滅火過程中受傷，目前情況穩定。（央視新聞）"
+    },
+    {
+      "id": "5046412",
+      "time": "2026-08-19 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.85%，報580.30元人民幣/桶。滬金夜盤收跌0.95%，滬銀收跌2.95%。"
+    },
     {
       "id": "mkt:01a01622-20e1-7aab-9080-6416b800ab95",
       "time": "2026-08-19 02:28:50",

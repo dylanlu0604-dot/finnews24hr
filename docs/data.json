@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-19 02:30:33",
-  "count": 15090,
+  "updated": "2026-08-19 02:34:23",
+  "count": 15093,
   "items": [
+    {
+      "id": "mkt:01a01625-2134-7aab-9080-87a70a92f3d4",
+      "time": "2026-08-19 02:32:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Major eastern Belgium wildfire preliminarily contained】A wildfire that started on the 14th in eastern Belgium has been preliminarily contained, the Liège provincial governor's office said on the 18th; about 3,000 hectares burned. The fire occurred in a nature reserve with peat wetlands, so underground smouldering may persist; fire services have reinforced ground firefighting resources."
+    },
+    {
+      "id": "mkt:01a01624-6aca-7aab-9080-7cdd505fde81",
+      "time": "2026-08-19 02:31:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.95% to 949 yuan/gram, Shanghai silver main contract fell 2.95% to 15,620 yuan/kg, and SC crude oil main contract rose 0.85% to 580 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a01624-25fa-7aab-9080-7125d5c6c1cd",
+      "time": "2026-08-19 02:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $84.94/bbl, up $0.44, or 0.52%."
+    },
+    {
+      "id": "5046414",
+      "time": "2026-08-19 02:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收報84.94美元/桶。NYMEX 9月天然氣期貨收報2.7760美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.3017美元/加侖，NYMEX 9月取暖油期貨收報4.4501美元/加侖。"
+    },
+    {
+      "id": "mkt:01a01623-dd4f-7aab-9080-6aadfa48175c",
+      "time": "2026-08-19 02:30:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange: Gold T+D closed down 0.91% at 945.5 yuan/gram in the evening session on Aug 18 (Tue); Silver T+D closed down 2.63% at 15,576 yuan/kg."
+    },
+    {
+      "id": "5046413",
+      "time": "2026-08-19 02:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時東部大規模野火初步得到控制】比利時東部地區本月14日發生野火。比利時列日省省長辦公室18日通報稱，目前野火已初步得到控制，過火面積約3000公頃。由於發生野火的自然保護區內分佈著泥炭溼地，地下火可能持續陰燃。消防部門已加強地面消防力量。通報還表示，兩名消防員在滅火過程中受傷，目前情況穩定。（央視新聞）"
+    },
+    {
+      "id": "5046412",
+      "time": "2026-08-19 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.85%，報580.30元人民幣/桶。滬金夜盤收跌0.95%，滬銀收跌2.95%。"
+    },
     {
       "id": "mkt:01a01622-20e1-7aab-9080-6416b800ab95",
       "time": "2026-08-19 02:28:50",
@@ -138294,43 +138365,6 @@
         "XAUUSD"
       ],
       "text": "【U.S. military intelligence assesses Iran has shifted focus to Strait of Hormuz】MSNBC reports U.S. military intelligence assesses Iran has shifted its strategic focus from its nuclear program to the Strait of Hormuz. U.S. officials say the military told President Trump it could attempt to seize control of the strait but the operation would be \"lengthy, deadly and very costly\" and \"it is unclear whether the U.S. could ultimately prevail.\" Military planning estimates an order to act would produce \"substantial U.S. military casualties.\" Officials say the risk of such large-scale military action has factored in Trump’s deliberations with advisers. Two European officials added Iran believes de facto control of the strait gives it negotiating leverage and is a stronger bargaining chip than its nuclear program."
-    },
-    {
-      "id": "5036323",
-      "time": "2026-08-12 02:33:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國華盛頓州斯波坎國際機場因空中管制設施受附近火災影響人員疏散，已實施地面停飛。西雅圖航路交通管制中心將接管該空域。"
-    },
-    {
-      "id": "mkt:019ff219-141f-7aab-8ff9-07152e9f0cae",
-      "time": "2026-08-12 02:32:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $83.20 a barrel, up $1.07, or 1.30%."
-    },
-    {
-      "id": "mkt:019ff218-4575-7aab-8ff8-fa0eda44699a",
-      "time": "2026-08-12 02:31:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China rebukes US over 'ballistic missile launch notification' joint statement at Geneva】China's disarmament ambassador Li Chijiang on the 11th at the Geneva Conference on Disarmament sharply rejected a U.S.-led joint statement framed as a 'ballistic missile launch notification' concerning China. Li said China's legitimate, reasonable defence modernization is beyond doubt and that China's practice of advance-notifying missile launches should not be hijacked for geopolitical ends. He said Beijing firmly opposes some countries' misuse of the conference platform for political manipulation."
-    },
-    {
-      "id": "5036322",
-      "time": "2026-08-12 02:31:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶83.20美元，上漲1.07美元，漲幅1.30%。"
     }
   ]
 }
