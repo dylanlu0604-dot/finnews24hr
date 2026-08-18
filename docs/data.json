@@ -1,7 +1,170 @@
 {
-  "updated": "2026-08-18 21:13:09",
-  "count": 15145,
+  "updated": "2026-08-18 21:17:08",
+  "count": 15154,
   "items": [
+    {
+      "id": "te:markets:576163",
+      "time": "2026-08-18 21:16:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stock Futures Fall on Rising Yields — Futures tracking Canada’s stock market edged lower on Tuesday amid rising global bond yields and continued uncertainty in the Middle East. Oil prices gained as hopes of a US-Iran peace deal faded, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, pressuring financials and the broader market. Gold prices slipped and weighed on mining stocks. Elsewhere, NexGen Energy is sharing information and “talking regularly” with mining giant BHP about its Rook I mining project in Saskatchewan, CEO Leigh Curyer said when asked about a potential equity stake. On the data front, home sales rose less than expected in July. Separately, Canada faces a new round of 50% US tariffs this week, with negotiators from the two countries still far from reaching a draft trade deal."
+    },
+    {
+      "id": "5046145",
+      "time": "2026-08-18 21:15:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月礦業產出環比上升0.2%，6月為上升0.3%；公用事業產出環比上升0.5%，6月為上升0.1%。美國7月裝置利用率為76.3%，符合市場共識預期76.3%，6月前值由此前公佈的76.1%修正為76.2%。"
+    },
+    {
+      "id": "mkt:01a01503-a36f-7aab-907b-66546dde9bbb",
+      "time": "2026-08-18 21:15:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US manufacturing capacity utilization rose to 76.0% in July from 75.7% in June, up 30 bps."
+    },
+    {
+      "id": "mkt:01a01503-8338-7aab-907b-5c18396d1c5a",
+      "time": "2026-08-18 21:15:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Capacity Utilization (Jul) | actual 76% | previous 75.7%"
+    },
+    {
+      "id": "5046144",
+      "time": "2026-08-18 21:15:20",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月製造業產出月率 0.2%，預期0.2%，前值由0.00%修正為0.3%。美國7月產能利用率 76.3%，預期76.30%，前值由76.10%修正為76.2%。美國7月工業產出月率 0.2%，預期0.30%，前值由0.10%修正為0.3%。"
+    },
+    {
+      "id": "mkt:01a01503-0fb7-7aab-907b-50f64ca4429c",
+      "time": "2026-08-18 21:15:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US industrial capacity utilization in July 76.3% (exp. 76.3%); June revised up to 76.2% from 76.1%."
+    },
+    {
+      "id": "mkt:01a01503-0756-7aab-907b-49d0476d7299",
+      "time": "2026-08-18 21:15:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "US July industrial production m/m +0.2% vs expected +0.3%; June revised up to +0.3% from +0.1%."
+    },
+    {
+      "id": "mkt:01a01503-0748-7aab-907b-42e2ce797abc",
+      "time": "2026-08-18 21:15:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Copper"
+      ],
+      "text": "US manufacturing output, July m/m 0.2% (consensus 0.2%); June revised to 0.3% from 0.0%."
+    },
+    {
+      "id": "mkt:01a01502-dc8a-7aab-907b-3bcd99058ffb",
+      "time": "2026-08-18 21:15:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Production (MoM) (Jul) | actual 0.2% | consensus 0.2% | previous 0.00%"
+    },
+    {
+      "id": "mkt:01a01502-dc72-7aab-907b-365399596bd2",
+      "time": "2026-08-18 21:15:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Capacity Utilization (Jul) | actual 76.3% | consensus 76.30% | previous 76.10%"
+    },
+    {
+      "id": "mkt:01a01502-dc59-7aab-907b-2ed9fc79d84a",
+      "time": "2026-08-18 21:15:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Industrial Production (MoM) (Jul) | actual 0.2% | consensus 0.30% | previous 0.10%"
+    },
+    {
+      "id": "5046143",
+      "time": "2026-08-18 21:15:03",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【綠控傳動：首次公開發行股票擬在創業板上市】綠控傳動公告稱，公司2025年度營收33.54億元，扣除非經常性損益前後孰低淨利潤1.40億元。本次發行上市已履行內部批准手續，2026年5月13日獲深交所上市稽核委員會審議透過，2026年6月26日獲中國證監會同意註冊，2026年8月18日獲深交所同意其股票在創業板上市，證券簡稱為“綠控傳動”，證券程式碼為“301655”。本次擬發行新股6834.1235萬股，發行前總股本38726.70萬股，發行後股本總額不低於3000萬元，發行數量佔發行後總股本比例不低於10%。本次上市由中金公司保薦，指定卜權政、趙歡為保薦代表人，相關責任主體出具的上市相關承諾及約束措施符合合規要求，公司本次發行上市符合各項法定條件。"
+    },
+    {
+      "id": "5046142",
+      "time": "2026-08-18 21:14:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "首爾保證保險股東擬出讓45萬股。"
+    },
+    {
+      "id": "te:economy:576162",
+      "time": "2026-08-18 21:14:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Slovakia 10Y Bond Yield Hits 33-month High — Slovakia 10 Year Government Bond Yield increased to 3.96%, the highest since November 2023. Over the past 4 weeks, Slovakia 10Y Bond Yield gained 14.80 basis points, and in the last 12 months, it increased 43.00 basis points."
+    },
+    {
+      "id": "5046141",
+      "time": "2026-08-18 21:13:35",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國7月新屋開工全面下滑 單戶型住宅開工降至2022年以來最低】美國7月新屋開工活動下降，其中單戶型住宅開工降至2022年以來最低。美國政府週二公佈的資料顯示，7月新屋開工數下降12.4%，摺合年率為124萬套，低於預期值135萬套。單戶型住宅開工下降9.9%，摺合年率為80.8萬套，為2022年11月以來最低。多戶型住宅開工下降近17%，在前一個月大幅增長後回落。新屋開工下降顯示美國房地產市場增長依然乏力。自伊朗戰爭開始以來，抵押貸款利率上升，加之房價仍處高位，持續抑制住房需求。"
+    },
+    {
+      "id": "5046140",
+      "time": "2026-08-18 21:13:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "在恢復收購交易後，WEAVE 的股價盤前飆升 32%。"
+    },
     {
       "id": "mkt:01a01500-6486-7aab-907b-236bbb8e7724",
       "time": "2026-08-18 21:12:22",
@@ -138847,62 +139010,6 @@
         "其他"
       ],
       "text": "葉門交通部：胡塞武裝襲擊商船，危及數百萬葉門民眾的糧食供應。"
-    },
-    {
-      "id": "5036029",
-      "time": "2026-08-11 21:16:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“白海豚”對物流和商品有啥影響？業內：運費會漲】隨著近日颱風“白海豚”強勢來襲，自8月8日起，上海港進入封港狀態，港口作業受阻波及集裝箱進港、提櫃、送櫃全鏈條。記者實探某物流服務平臺發現，疊加寧波港同步受颱風衝擊，就近替代港口選擇十分有限，海運交期或將拉長7至10天。而供應鏈擾動也在持續傳導至大宗商品市場，機構人士指出，過去一週沿海乾散貨運費出現顯著上漲；燃料油需求收縮強於供給收縮，價格或走出先跌後漲再回落行情。（第一財經）"
-    },
-    {
-      "id": "5036028",
-      "time": "2026-08-11 21:16:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局局長預計，20年內美國年航空旅客量將從10億翻倍至20億人次。"
-    },
-    {
-      "id": "5036027",
-      "time": "2026-08-11 21:16:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國防部和防衛廳新設機構專責核潛艇建造】韓國國防部與防衛事業廳新設專門機構，負責推進核動力潛艇建造專案。報道稱，防衛事業廳計劃將原有的“韓國型潛艇專案團”重組擴編為“核動力潛艇專案團”，並新設“核動力潛艇專案組”和“核動力系統專案組”，主導核潛艇設計與建造的整個過程，以及核潛艇反應堆等核心技術開發工作。"
-    },
-    {
-      "id": "5036026",
-      "time": "2026-08-11 21:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦內政部長將於數小時內抵達伊朗舉行會談。"
-    },
-    {
-      "id": "mkt:019ff0f7-63d9-7aab-8ff3-1cc3d61a65f3",
-      "time": "2026-08-11 21:16:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's parliament elected Andras Baka as president."
-    },
-    {
-      "id": "mkt:019ff0f7-36a5-7aab-8ff3-159bd4669020",
-      "time": "2026-08-11 21:16:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's interior minister will arrive in Iran for talks within hours, Iranian outlet Fars News reports."
-    },
-    {
-      "id": "5036025",
-      "time": "2026-08-11 21:15:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利議會選舉安德拉什・巴卡為總統。"
     }
   ]
 }
