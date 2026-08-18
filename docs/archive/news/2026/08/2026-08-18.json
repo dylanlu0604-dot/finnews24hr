@@ -1,7 +1,71 @@
 {
   "date": "2026-08-18",
-  "count": 2333,
+  "count": 2339,
   "items": [
+    {
+      "id": "5046156",
+      "time": "2026-08-18 21:24:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2792.00元。"
+    },
+    {
+      "id": "5046155",
+      "time": "2026-08-18 21:22:35",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德意志銀行：美日聯合干預適得其反 當局若未出手日元可能會升更多】德意志銀行全球外匯研究主管George Saravelos在一份報告中表示，美日上月聯合干預以支撐日元的行動不僅“無效”，而且“適得其反”，因為如果當局沒有出手，日元可能反而會升得更多。他寫道：“透過明確鼓勵日本當局使用美聯儲的FIMA機制，政府釋放了一個訊號，即美國並不希望日本直接出售美國國債。指望日本以懲罰性水平的FIMA利率借入美元現金來實施干預並不現實，因此進一步干預的門檻提高了”Saravelos還表示：“其次，美國參與外匯市場的行動其實不能算真正意義上的干預。美國財政部長貝森特稱其為一次‘儲備重新配置’操作，而根據我們對SOMA資產負債表每週估值變化的測算，美聯儲根本沒有為這次干預做貢獻，並非歷史上各承擔一半的做法”德意志銀行還指出，日本經濟並不存在債務問題。該行稱：“對於一個擁有如此龐大淨外國資產頭寸的國家而言，其中相當一部分還由政府持有，債務並不是問題”該行表示：“如果日本央行開始像一家‘正常’央行那樣迅速加息，使日元不再是一種低收益貨幣，那麼日元最終會升值。歸根結底，問題在於日本政府是否願意支援這一結果”"
+    },
+    {
+      "id": "mkt:01a01508-d09c-7aab-907b-997bbf448e5e",
+      "time": "2026-08-18 21:21:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Analyst: Bond sell-off driven by inflation risk, large government borrowing and capital competition】Investors have reason to worry about inflation, but that may not be the main driver of rising yields. Breakeven inflation is roughly in line with the Fed's 2% long-run target. A Capital.com analyst said investors can assume long-term inflation of about 2-2.5%, but oil, tariffs, fiscal policy and other supply shocks make that estimate less certain. She said the bond sell-off is being driven by persistent inflation risks, large-scale government borrowing and intensifying capital competition, rather than by a sharp rise in expected inflation alone."
+    },
+    {
+      "id": "te:economy:576164",
+      "time": "2026-08-18 21:21:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Italy 10Y Bond Yield Hits 20-week High — Italy 10 Year Government Bond Yield increased to 4.09%, the highest since March 2026. Over the past 4 weeks, Italy 10Y Bond Yield gained 10.36 basis points, and in the last 12 months, it increased 50.34 basis points."
+    },
+    {
+      "id": "5046154",
+      "time": "2026-08-18 21:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【八馬茶業26H1淨利增超60% 門店規模行業前列】八馬茶業(06980.HK)2026年上半年營收14.02億元，同比增長31.8%；淨利潤1.98億元，同比增長64.8%；擬每股派息1.2元。截至6月30日，線下門店超3845家，覆蓋全國所有省份，門店規模位居行業前列。公司落地第八代沉浸式門店，全面入駐淘寶閃購、美團閃送、京東秒送，即時零售GMV同比增90%。線上粉絲保持高速增長，已達超4100萬人，線上收入5.12億元，同比增幅36.1%。"
+    },
+    {
+      "id": "5046153",
+      "time": "2026-08-18 21:20:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1580.00元。"
+    },
     {
       "id": "mkt:01a01507-61c4-7aab-907b-948f62dd0a72",
       "time": "2026-08-18 21:20:00",
