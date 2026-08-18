@@ -1,7 +1,55 @@
 {
   "date": "2026-08-18",
-  "count": 433,
+  "count": 438,
   "items": [
+    {
+      "id": "mkt:01a0123a-b78b-7aab-906a-d207eb0ba85a",
+      "time": "2026-08-18 08:17:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China expands fund advisory licenses as pilot moves toward regularization】With the end‑of‑August filing deadline approaching, a new round of approvals for fund advisory licenses has entered its final sprint. Since the pilot began in 2019 the number of licensed fund advisers has risen from 5 to 60; industry participants say the expansion, coinciding with the window to convert the pilot into a routine regime, marks a key transition toward normalizing fund advisory services."
+    },
+    {
+      "id": "5044884",
+      "time": "2026-08-18 08:17:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡慶餘堂藥業年產22億粒膠囊劑生產車間建設專案開工】據上海醫藥訊息，8月15日上午，上海醫藥旗下杭州胡慶餘堂藥業有限公司年產22億粒膠囊劑生產車間建設專案開工。據介紹，本次年產22億粒膠囊劑智慧車間專案是突破產能瓶頸、落地公司大品種戰略的關鍵舉措。"
+    },
+    {
+      "id": "5044883",
+      "time": "2026-08-18 08:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基金投顧牌照持續擴容 行業發展迎新機遇】隨著8月末申報節點臨近，基金投顧牌照新一輪擴容進入衝刺階段。自2019年基金投顧試點啟動以來，試點機構已從首批5家擴容至60家。本次擴容恰逢試點轉常規的關鍵視窗期，業內人士判斷，這是基金投顧從試點探索邁向常規化發展的重要過渡階段。（經濟參考報）"
+    },
+    {
+      "id": "5044882",
+      "time": "2026-08-18 08:16:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加7.13噸】截至2026年08月17日，全球最大的黃金ETF SPDR Gold Trust持倉量為1030.66噸，較前一個交易日增加7.13噸。"
+    },
+    {
+      "id": "mkt:01a01239-968e-7aab-906a-cbc8d1301673",
+      "time": "2026-08-18 08:15:58",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group shares rose 5.5%."
+    },
     {
       "id": "5044881",
       "time": "2026-08-18 08:15:28",
