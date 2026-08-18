@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-18 22:19:35",
+  "updated": "2026-08-18 22:23:35",
   "count": 15142,
   "items": [
+    {
+      "id": "5046246",
+      "time": "2026-08-18 22:22:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "家得寶股價上漲1%，因第二季度業績超出預期。"
+    },
+    {
+      "id": "5046245",
+      "time": "2026-08-18 22:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長：法國將於下週起通知企業有關資料洩露事件的資訊。"
+    },
+    {
+      "id": "mkt:01a01540-2586-7aab-907c-e141a30550fe",
+      "time": "2026-08-18 22:22:00",
+      "tags": [
+        "MKT News",
+        "HD.N",
+        "Impact bullish"
+      ],
+      "text": "Home Depot (HD.N) shares rose 1% after second-quarter results beat expectations."
+    },
+    {
+      "id": "5046244",
+      "time": "2026-08-18 22:21:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算部長阿米爾就稅務資料洩露事件發表講話。"
+    },
     {
       "id": "mkt:01a0153c-bce2-7aab-907c-db3f2150c089",
       "time": "2026-08-18 22:18:17",
@@ -138871,43 +138905,6 @@
         "國際"
       ],
       "text": "【拉脫維亞啟動全國協同行動遏制非法移民】拉脫維亞政府11日啟動代號“狼人行動”的全國協同行動，以遏制該國與白俄羅斯接壤的邊境非法移民活動。據拉脫維亞總理府釋出的新聞公告，此次行動由總理安德里斯·庫爾貝格斯發起，總理府危機管理中心協調內政部下屬邊防警衛隊、國家警察局以及國家武裝部隊等多方聯合行動，計劃持續到8月底。自2021年以來，拉脫維亞方面因移民強行越境持續收緊與白俄羅斯交界處的邊境管制政策，帕特涅基口岸現僅允許機動車通行。拉脫維亞政府7月1日決定將拉白邊境地區的強化警戒狀態延長至今年年底。據當地媒體報道，今年以來，拉脫維亞邊防人員已攔截近9500次非法越境企圖。（新華社）"
-    },
-    {
-      "id": "mkt:019ff134-cec3-7aab-8ff4-c1dd24fe53b0",
-      "time": "2026-08-11 22:23:17",
-      "tags": [
-        "MKT News",
-        "ORCL.O",
-        "Impact bullish"
-      ],
-      "text": "Texas governor says Oracle has pledged to comply with data-center standards."
-    },
-    {
-      "id": "mkt:019ff133-cecd-7aab-8ff4-be4c4e059294",
-      "time": "2026-08-11 22:22:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Pakistan's interior minister to meet Iran's foreign minister."
-    },
-    {
-      "id": "te:markets:574467",
-      "time": "2026-08-11 22:20:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls for 2nd Session — The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the supramax index went down 0.2% to 1,600, the lowest in nine weeks. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.3% to 2,312, its highest level since June 2."
-    },
-    {
-      "id": "mkt:019ff131-dc14-7aab-8ff4-b7d2db6b26b8",
-      "time": "2026-08-11 22:20:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict."
     }
   ]
 }
