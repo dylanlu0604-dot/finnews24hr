@@ -1,7 +1,98 @@
 {
   "date": "2026-08-18",
-  "count": 743,
+  "count": 753,
   "items": [
+    {
+      "id": "5045096",
+      "time": "2026-08-18 10:34:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報153750元/噸，較上日16:30價格上漲1000元/噸。"
+    },
+    {
+      "id": "5045095",
+      "time": "2026-08-18 10:34:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆一連續主力合約日內漲2%，現報5107.00元。"
+    },
+    {
+      "id": "mkt:01a012b8-5461-7aab-906d-654f0d5c0b94",
+      "time": "2026-08-18 10:34:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "02475.HK",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs initiates coverage of Luxshare Precision with Buy; PT HKD93.2】Goldman Sachs initiates coverage of Luxshare Precision (02475.HK) with a Buy rating and HKD93.2 target price. The bank forecasts revenue CAGR of 24% for 2025-28 and projects 2026/27 net profit of RMB25.615 bln and RMB36.466 bln, respectively—about 18% and 30% above consensus. Key drivers cited: stronger-than-peer Apple (AAPL.O) demand despite elevated memory costs, rapid scaling and share gains in the AI server business, product mix shift from consumer electronics toward data centers supporting higher margins, and cost controls reducing the operating-expense ratio."
+    },
+    {
+      "id": "5045094",
+      "time": "2026-08-18 10:33:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "MOTIF TECHNOLOGIES執行長表示公司接受韓國政府公佈的人工智慧競賽結果。"
+    },
+    {
+      "id": "mkt:01a012b7-29dd-7aab-906d-5c4056fa3cb3",
+      "time": "2026-08-18 10:33:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google plans to stop manufacturing Pixel products in China from 2027, Nikkei reports."
+    },
+    {
+      "id": "5045093",
+      "time": "2026-08-18 10:32:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【必和必拓CEO回應政府擬推澳企聯合談判傳聞：堅持浮動定價、高效市場化執行】8月18日，在必和必拓（BHP）2026財年業績電話會上。針對市場傳聞澳大利亞聯邦政府擬推動必和必拓、力拓、福德士河等澳礦企聯合，與中國礦產資源集團開展集體談判、以此增強澳方議價權的話題，公司執行長布蘭登·克雷格(Brandon Craig)表示，必和必拓堅持的原則是，支援全球化、可流通的海運大宗商品市場，追求高效的價格形成機制。市場應當高效運轉，由邊際噸位形成價格訊號，幫助行業判斷未來鐵礦石的投資節奏，滿足全球鋼鐵客戶的需求。“這一立場沒有改變，我們也會持續為此發聲。也就是堅持浮動定價、高效市場化執行，這是我們的核心立場。”克雷格稱。"
+    },
+    {
+      "id": "5045092",
+      "time": "2026-08-18 10:32:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞太藥業等成立生物科技公司】企查查APP顯示，近日，浙江星萃生物科技有限公司成立，法定代表人為程娜娜，註冊資本為2000萬元，經營範圍包含：細胞技術研發和應用；生物基材料技術研發；生物化工產品技術研發；生物基材料製造等。企查查股權穿透顯示，該公司由亞太藥業全資子公司浙江雅泰利眾控股有限公司、美睿達健康投資（武漢）合夥企業（有限合夥）共同持股。"
+    },
+    {
+      "id": "5045091",
+      "time": "2026-08-18 10:32:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌計劃2027年起停止在中國生產Pixel產品。"
+    },
+    {
+      "id": "5045090",
+      "time": "2026-08-18 10:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數跌1.6%，東證指數跌0.5%。"
+    },
+    {
+      "id": "mkt:01a012b5-a8b0-7aab-906d-52842edb24c6",
+      "time": "2026-08-18 10:31:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Copper"
+      ],
+      "text": "【BHP CEO on Canadian uranium talk: focus on four core commodities, copper priority】On the Aug. 18 FY2026 results call, BHP CEO Brandon Craig responded to market reports linking the group to NexGen Energy’s Saskatchewan uranium project, saying uranium at BHP is primarily a by‑product of Olympic Dam and the company represents about 5% of the global uranium market. He said BHP’s near‑term priority is managing existing businesses and concentrating investment on four core commodities, with a particular emphasis on copper growth projects in South Australia, Argentina and Chile. Craig said BHP will only reassess expanding its uranium exposure after those core investments are delivered. He declined to comment on speculation about exploring other Canadian uranium projects but said the group will continue to study potential opportunities in other commodities and is satisfied with its four core categories."
+    },
     {
       "id": "te:economy:575976",
       "time": "2026-08-18 10:30:07",

@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-18 10:31:25",
-  "count": 15214,
+  "updated": "2026-08-18 10:35:24",
+  "count": 15216,
   "items": [
+    {
+      "id": "5045096",
+      "time": "2026-08-18 10:34:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報153750元/噸，較上日16:30價格上漲1000元/噸。"
+    },
+    {
+      "id": "5045095",
+      "time": "2026-08-18 10:34:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆一連續主力合約日內漲2%，現報5107.00元。"
+    },
+    {
+      "id": "mkt:01a012b8-5461-7aab-906d-654f0d5c0b94",
+      "time": "2026-08-18 10:34:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "02475.HK",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs initiates coverage of Luxshare Precision with Buy; PT HKD93.2】Goldman Sachs initiates coverage of Luxshare Precision (02475.HK) with a Buy rating and HKD93.2 target price. The bank forecasts revenue CAGR of 24% for 2025-28 and projects 2026/27 net profit of RMB25.615 bln and RMB36.466 bln, respectively—about 18% and 30% above consensus. Key drivers cited: stronger-than-peer Apple (AAPL.O) demand despite elevated memory costs, rapid scaling and share gains in the AI server business, product mix shift from consumer electronics toward data centers supporting higher margins, and cost controls reducing the operating-expense ratio."
+    },
+    {
+      "id": "5045094",
+      "time": "2026-08-18 10:33:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "MOTIF TECHNOLOGIES執行長表示公司接受韓國政府公佈的人工智慧競賽結果。"
+    },
+    {
+      "id": "mkt:01a012b7-29dd-7aab-906d-5c4056fa3cb3",
+      "time": "2026-08-18 10:33:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google plans to stop manufacturing Pixel products in China from 2027, Nikkei reports."
+    },
+    {
+      "id": "5045093",
+      "time": "2026-08-18 10:32:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【必和必拓CEO回應政府擬推澳企聯合談判傳聞：堅持浮動定價、高效市場化執行】8月18日，在必和必拓（BHP）2026財年業績電話會上。針對市場傳聞澳大利亞聯邦政府擬推動必和必拓、力拓、福德士河等澳礦企聯合，與中國礦產資源集團開展集體談判、以此增強澳方議價權的話題，公司執行長布蘭登·克雷格(Brandon Craig)表示，必和必拓堅持的原則是，支援全球化、可流通的海運大宗商品市場，追求高效的價格形成機制。市場應當高效運轉，由邊際噸位形成價格訊號，幫助行業判斷未來鐵礦石的投資節奏，滿足全球鋼鐵客戶的需求。“這一立場沒有改變，我們也會持續為此發聲。也就是堅持浮動定價、高效市場化執行，這是我們的核心立場。”克雷格稱。"
+    },
+    {
+      "id": "5045092",
+      "time": "2026-08-18 10:32:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞太藥業等成立生物科技公司】企查查APP顯示，近日，浙江星萃生物科技有限公司成立，法定代表人為程娜娜，註冊資本為2000萬元，經營範圍包含：細胞技術研發和應用；生物基材料技術研發；生物化工產品技術研發；生物基材料製造等。企查查股權穿透顯示，該公司由亞太藥業全資子公司浙江雅泰利眾控股有限公司、美睿達健康投資（武漢）合夥企業（有限合夥）共同持股。"
+    },
+    {
+      "id": "5045091",
+      "time": "2026-08-18 10:32:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌計劃2027年起停止在中國生產Pixel產品。"
+    },
+    {
+      "id": "5045090",
+      "time": "2026-08-18 10:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數跌1.6%，東證指數跌0.5%。"
+    },
+    {
+      "id": "mkt:01a012b5-a8b0-7aab-906d-52842edb24c6",
+      "time": "2026-08-18 10:31:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Copper"
+      ],
+      "text": "【BHP CEO on Canadian uranium talk: focus on four core commodities, copper priority】On the Aug. 18 FY2026 results call, BHP CEO Brandon Craig responded to market reports linking the group to NexGen Energy’s Saskatchewan uranium project, saying uranium at BHP is primarily a by‑product of Olympic Dam and the company represents about 5% of the global uranium market. He said BHP’s near‑term priority is managing existing businesses and concentrating investment on four core commodities, with a particular emphasis on copper growth projects in South Australia, Argentina and Chile. Craig said BHP will only reassess expanding its uranium exposure after those core investments are delivered. He declined to comment on speculation about exploring other Canadian uranium projects but said the group will continue to study potential opportunities in other commodities and is satisfied with its four core categories."
+    },
     {
       "id": "te:economy:575976",
       "time": "2026-08-18 10:30:07",
@@ -139344,86 +139435,6 @@
         "公司"
       ],
       "text": "【北京資料集團與華為達成戰略合作意向 銅牛資訊將參與北京算力基礎設施建設任務】銅牛資訊官微訊息，近日，北京資料集團與華為公司舉行工作會談，達成戰略合作意向。雙方將在全面深化自主創新算力叢集與城市級算力基礎設施建設、夯實可信資料基礎設施底座、完善可信資料空間與資料要素流通機制、拓展垂直行業資料價值化應用、築牢資料安全與數字信任體系等方面開展深度合作。下一步，雙方將重點深化算力叢集與城市級算力基礎設施建設合作。北京資料集團旗下銅牛資訊將參與北京市城市級算力基礎設施建設任務，統籌集團自主創新算力叢集落地部署、日常運營與算力服務。"
-    },
-    {
-      "id": "5034922",
-      "time": "2026-08-11 10:34:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南釋出紅色山洪災害氣象風險預警】河南省水利廳、河南省氣象局8月11日8時聯合釋出紅色山洪災害氣象風險預警。預計8月11日8時至8月12日8時，新密市、新鄭市、欒川縣、嵩縣、汝陽縣、寶豐縣、魯山縣、郟縣、汝州市、長葛市、南召縣、西峽縣、鎮平縣、內鄉縣、唐河縣、泌陽縣部分山區發生山洪災害的可能性較大（黃色預警），襄城縣、禹州市、淅川縣局地發生山洪災害的可能性大（橙色預警），鄧州市局地發生山洪災害的可能性很大（紅色預警），請各地注意做好防範避險工作。"
-    },
-    {
-      "id": "te:markets:574254",
-      "time": "2026-08-11 10:34:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Retreats from 4-Week High — The TAIEX, Taiwan’s benchmark stock index, fell 233 points, or 0.5%, to 44,695 in Tuesday morning trade, erasing gains from the previous session and tracking a decline on Wall Street overnight as rising oil prices raised questions about the Fed's monetary policy decision at its upcoming meeting. The broader index moved down from its highest level since July 16, touched a day earlier, mainly weighed down by losses in electronic technology, finance, process industries, and technology services. Traders also awaited the release of US inflation data due this week for clues about the Fed's monetary policy decision at its upcoming meeting. Electronic technology stocks fell 0.6%, reversing a 2.1% gain in the previous session, with MediaTek declining 0.9%, while Delta Electronics and Hon Hai Precision shed 0.3% and 1.1%, respectively. However, TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 0.2%, following a 0.4% rise on Monday."
-    },
-    {
-      "id": "5034921",
-      "time": "2026-08-11 10:33:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中科芯知完成天使輪融資】據萬創投行訊息，近日，具身智慧情緒感知大模型企業“中科芯知”宣佈完成天使輪融資，本輪由上海芯智衍企業管理合夥企業（有限合夥）投資。本輪資金將主要用於跨模態情緒感知大模型的技術迭代與資料合規建設、智慧硬體產品的設計與量產推進，以及標準化感知模組的研發部署。"
-    },
-    {
-      "id": "mkt:019feeaa-f5e0-7aab-8fe5-079ea749380d",
-      "time": "2026-08-11 10:33:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "China's STAR 50 index turned positive intraday after earlier falling more than 2%."
-    },
-    {
-      "id": "5034920",
-      "time": "2026-08-11 10:33:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50盤中翻紅，此前一度跌逾2%。"
-    },
-    {
-      "id": "mkt:019feeaa-e897-7aab-8fe4-fbd2b5539bf3",
-      "time": "2026-08-11 10:33:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【JP Morgan: Power demand surge lifts Q2 global gas-turbine orders to record】JP Morgan said global gas-turbine orders in Apr–Jun hit a record about 38 GW, up 29% QoQ and 71% YoY, driven by a sharp rise in power demand. The US accounted for nearly half of orders. Analysts led by Phil Buller said data-center expansion and broader electrification underpinned the surge; natural gas burns cleaner than coal and offers greater reliability than wind or solar. Supply constraints have emerged, with shortages in regions including Southeast Asia limiting delivery of planned capacity. Analysts said a combined-cycle gas turbine scheduled for 2031 delivery would cost roughly three times the price of the same unit delivered last year."
-    },
-    {
-      "id": "5034919",
-      "time": "2026-08-11 10:33:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股醫藥股多數走強 金斯瑞生物科技漲近7%】截至發稿，金斯瑞生物科技(01548.HK)漲6.71%，康龍化成(03759.HK)漲5.75%，凱萊英(06821.HK)漲2.98%，藥明生物(02269.HK)漲2.73%。"
-    },
-    {
-      "id": "5034918",
-      "time": "2026-08-11 10:32:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內漲3%，現報988.00元。"
     }
   ]
 }
