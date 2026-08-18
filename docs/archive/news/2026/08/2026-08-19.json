@@ -1,7 +1,43 @@
 {
   "date": "2026-08-19",
-  "count": 120,
+  "count": 124,
   "items": [
+    {
+      "id": "5046417",
+      "time": "2026-08-19 02:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞國會投票透過對經濟部長的譴責決議，迫使其卸任。"
+    },
+    {
+      "id": "5046416",
+      "time": "2026-08-19 02:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧同哥倫比亞總統就美方支援事宜舉行會談。"
+    },
+    {
+      "id": "5046415",
+      "time": "2026-08-19 02:36:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會發布數字資產監管提案。"
+    },
+    {
+      "id": "mkt:01a01627-ccfb-7aab-9080-8fbee777f3f1",
+      "time": "2026-08-19 02:35:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran security official says US rebuffed at Strait of Hormuz; Persian Gulf entering 'post‑American era'】Rezai, secretary of Iran’s Supreme National Security Council, said Washington cannot reopen the Strait of Hormuz, exposing a gap between US claims of control and its actual capability and marking the start of a Persian Gulf “post‑American order.” He wrote the gap “is greater than the 7,000‑mile distance between Washington and the Strait” and added “welcome to the Persian Gulf’s ‘post‑American order’” and “some dreams are too far from reality.” The remarks followed a social‑media image posted by US President Trump that labeled the Strait of Hormuz “US new territory.”"
+    },
     {
       "id": "mkt:01a01625-2134-7aab-9080-87a70a92f3d4",
       "time": "2026-08-19 02:32:07",
