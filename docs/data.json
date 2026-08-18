@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-19 00:25:54",
-  "count": 15108,
+  "updated": "2026-08-19 00:29:42",
+  "count": 15107,
   "items": [
+    {
+      "id": "5046368",
+      "time": "2026-08-19 00:28:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios記者：以色列一名高階官員聲稱，對伊德利卜地區敘利亞空軍基地發動襲擊，目的是阻止土耳其軍隊在該地構築陣地。土耳其一名高階官員回應：該空軍基地並無土耳其人員駐守。以色列編造藉口轟炸鄰國，破壞地區穩定。"
+    },
+    {
+      "id": "5046367",
+      "time": "2026-08-19 00:27:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國人工智慧企業 Quantera 執行長稱，公司正考慮赴英國或美國股市上市，也不排除兩地同時上市。"
+    },
     {
       "id": "5046366",
       "time": "2026-08-19 00:25:15",
@@ -138490,34 +138507,6 @@
         "國際"
       ],
       "text": "美國能源資訊署(EIA)目前預計，2027年美國WTI原油現貨均價為每桶65.39美元，此前預測為每桶60.76美元。"
-    },
-    {
-      "id": "5036264",
-      "time": "2026-08-12 00:29:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）目前預計2026年美國西德克薩斯中質原油（WTI）現貨均價為每桶80.88美元，此前預測值為每桶76.26美元。"
-    },
-    {
-      "id": "5036263",
-      "time": "2026-08-12 00:29:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）目前預計2026年布倫特原油現貨均價將為每桶86.81美元，此前預期為每桶81.91美元。"
-    },
-    {
-      "id": "te:markets:574496",
-      "time": "2026-08-12 00:26:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Climbs to Fresh Record — The DAX rose 0.3% to a record of 26,385 on Tuesday as gains for utilities offset losses elsewhere. Siemens Energy led the advance, rising 3.2% after reports that the company booked the most gas-turbine orders in the second quarter. The company continued to trade in tandem with AI infrastructure companies amid the development of power-hungry data centers. Likewise, data center projects were due to boost RWE (1.7%) and E.ON (0.9%) ahead of their earnings this week. Auto stocks also outperformed following data showing US auto loans at record levels. BMW rose 1.2% and Volkswagen gained 0.1%, while Daimler Truck Holdings fell 1.9% as rising Middle East tensions pushed fuel prices higher and concerns over the shift toward electric vehicles weighed on sentiment. Adidas dropped 3% after On Holding missed estimates for second-quarter net sales, highlighting a tougher macroeconomic environment. Zalando fell 2.6%."
     }
   ]
 }
