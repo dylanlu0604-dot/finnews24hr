@@ -1,7 +1,110 @@
 {
-  "updated": "2026-08-18 15:16:35",
-  "count": 15143,
+  "updated": "2026-08-18 15:20:26",
+  "count": 15144,
   "items": [
+    {
+      "id": "5045413",
+      "time": "2026-08-18 15:19:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【單籤最高浮盈55.66萬元！N頻準首日躋身A股千元股陣營】今日，鐳射賽道新貴——頻準鐳射正式登陸科創板，其186.88元的發行價不僅重新整理年內最高紀錄，同時高出第二名恆運昌（92.18元）約一倍。首日上市，該股以516.44%的漲幅收盤，按單籤500股計算，打新投資者首日盈利規模達48.26萬元；若以盤中595.63%的最大漲幅測算，單籤最大浮盈可達55.66萬元，這兩個資料均大幅超越了去年年末上市的衛冕冠軍沐曦股份，並登頂A股史上“最賺錢新股”排行榜。受大漲提振，頻準鐳射今日收盤價高達1152元，首日上市股價便躋身A股千元股陣營，位列全市場第五把交椅，僅次於寒武紀。"
+    },
+    {
+      "id": "mkt:01a013bd-1913-7aab-9072-2c366a2a5ba0",
+      "time": "2026-08-18 15:19:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Analyst: US Treasury yield surge could threaten Asia's AI-driven equity rally】Rapid rises in US Treasury yields are a key risk to Asia's AI-led stock rally, underscoring tech firms' sensitivity to higher financing costs. In the past five years, during the 20 weeks when the 10-year Treasury yield rose at least 20 bps in a single week, the MSCI Asia Pacific index fell in 17 of those weeks, with an average decline of 1.7%. With investor concern about US fiscal health pushing global bond losses wider, the transmission from bond volatility to Asian markets has strengthened, Vantage Global Prime analyst Hebe Chen said, adding that Taiwan and South Korea are increasingly linked to the US tech cycle and cross-border flows. Recent Asian gains have been concentrated in tech and AI — the segments most exposed to rising capital costs, higher discount rates, FX swings and global macro stress."
+    },
+    {
+      "id": "5045412",
+      "time": "2026-08-18 15:18:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿爾卑斯山冰川消融加劇 “歐洲水塔”面臨考驗】近期歐洲多地持續高溫少雨，萊茵河、多瑙河等多條河流水位降至歷史低位，不僅影響貨物運輸，也波及遊輪旅遊。跨國遊輪公司維京遊輪中國區董事總經理唐博文告訴記者，目前萊茵河和多瑙河航線受影響較為明顯，部分河段水位過低，影響船舶正常航行，行程需要靈活調整。（新華社）"
+    },
+    {
+      "id": "mkt:01a013bb-cca8-7aab-9072-20591cca1d45",
+      "time": "2026-08-18 15:17:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Iran’s interests section in Egypt said Iran’s military and political victories are evident."
+    },
+    {
+      "id": "mkt:01a013bb-68ea-7aab-9072-1f68a1c3f66a",
+      "time": "2026-08-18 15:17:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Iran's interests section in Egypt said Iran will rely on its own capabilities and, while maintaining a cooperative stance toward neighbouring states, continue to counter threats and pursue its regional policy."
+    },
+    {
+      "id": "mkt:01a013bb-525d-7aab-9072-15cae5badcc9",
+      "time": "2026-08-18 15:17:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Head of Iran's interests section in Egypt said Iran's nuclear rights and sovereignty over the Strait of Hormuz are absolute and non-negotiable red lines."
+    },
+    {
+      "id": "5045410",
+      "time": "2026-08-18 15:16:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）銅日內價差觸及110美元，創2021年以來新高。"
+    },
+    {
+      "id": "mkt:01a013ba-5a87-7aab-9072-0c31ce2c254c",
+      "time": "2026-08-18 15:16:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】2-year China government bond futures (TS) main contract up 0.03%; 5-year (TF) up 0.04%; 10-year (T) up 0.07%; 30-year (TL) up 0.27% at midday close."
+    },
+    {
+      "id": "5045409",
+      "time": "2026-08-18 15:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩艇碰撞3人落水死亡事件調查報告：兩艇均系三無船舶，路亞艇駕駛員擔主責】8月17日，貴州望謨縣政府官網釋出《紅水河5月4日水上碰撞事件調查報告》。調查報告表示，2026年5月4日19時35分許，龍灘庫區紅水河（黔桂交界共管水域，望謨縣蔗香鎮—樂業縣雅長鄉交界）發生路亞艇與橡皮艇碰撞事件，造成橡皮艇上3人落水死亡。經認定，本次事件是兩名自然人駕駛用於休閒涉漁活動的“三無”船舶，在自發出行途中，因雙方操作違規導致艇具碰撞，造成3人溺水死亡、船艇受損的水上事件。碰撞後橡皮艇上落水的3人均未穿著救生衣，落水後因無有效浮力支撐，直接導致溺水死亡。路亞艇駕駛員陳某承擔此次事件主要責任，建議將其涉嫌犯罪線索移送公安機關立案偵查，依法追究其責任。"
+    },
+    {
+      "id": "te:markets:576041",
+      "time": "2026-08-18 15:16:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.21% Higher — The Shangai Composite Index rose 8 points or 0.21 percent on Tuesday to close at 3991 points. Leading the gains are Sanan Optoelectron (3.04%), Hengli Petrochemical (2.92%) and China Coal (2.65%). Top losers were Datang Intl (-4.20%), BAIC BluePark (-2.08%) and China Life Insurance (-2.05%)."
+    },
     {
       "id": "5045408",
       "time": "2026-08-18 15:15:37",
@@ -138659,95 +138762,6 @@
         "公司"
       ],
       "text": "【孟凡利分別會見招商銀行王小青、建設銀行張毅】8月11日，廣東省委副書記、省長孟凡利在廣州分別會見招商銀行黨委書記、行長王小青，中國建設銀行黨委副書記、行長張毅。王小青表示，招商銀行作為總部在廣東的全國性股份制商業銀行，始終與廣東發展同向同行，將持續深耕廣東發展，加大在粵資源投放力度，在科技創新、先進製造、綠色發展、高水平對外開放、“百縣千鎮萬村高質量發展工程”等方面提供更多更優質的金融服務，以多元化、高質量的金融供給全力支撐廣東經濟社會發展和粵港澳大灣區建設。孟凡利表示，希望招商銀行發揮總部優勢，持續做好對全省產業、企業、個體工商戶、政府和居民個人等方面的金融服務，在支援和服務全省發展中實現自身更好更大發展。張毅表示，廣東是建設銀行業務佈局的重點區域，建設銀行將扛牢國有大型商業銀行的職責使命，密切對接廣東發展所需，做優做強在粵業務，圍繞科技金融、專案建設、產業發展、促進消費等領域深化合作，推出更多針對性個性化的產品和服務，持續提升金融服務實體經濟質效，努力為廣東高質量發展作出更大貢獻。孟凡利表示，希望建設銀行與廣東進一步深化合作，引導推動更多金融資源支援廣東實體經濟和民生社會事業發展，共同做好金融“五篇大文章”，助力廣東加快構建以先進製造業為骨幹的現代化產業體系。"
-    },
-    {
-      "id": "5035248",
-      "time": "2026-08-11 15:19:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭稱俄軍大規模襲擊造成至少9人死亡】據烏克蘭地方官員和烏國家緊急情況局11日釋出的訊息，10日以來，扎波羅熱、第聶伯羅彼得羅夫斯克、基輔等烏克蘭多地遭俄軍大規模襲擊。截至11日上午，襲擊已造成至少9人死亡，另有數十人受傷。（新華社）"
-    },
-    {
-      "id": "5035247",
-      "time": "2026-08-11 15:19:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4360美元/盎司，日內跌0.69%。"
-    },
-    {
-      "id": "5035246",
-      "time": "2026-08-11 15:19:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【澳央行維持利率不變 警告通脹風險猶存】澳大利亞儲備銀行（央行）11日宣佈將基準利率維持在4.35%不變，符合市場預期。這是澳央行再次維持利率不變，但同時也警告通脹風險猶存。 澳大利亞央行當天發表宣告說，貨幣政策委員會一致作出上述決定。宣告指出，儘管中東衝突對通脹的影響迄今為止低於預期，但澳大利亞總體通脹率仍然過高，經濟活動和通脹前景都存在不確定性。 澳大利亞統計局資料顯示，該國消費者價格指數同比漲幅從今年5月的4.0%回落至6月的3.8%，仍高於澳央行設定的2%至3%的目標區間。 澳央行今年以來已召開5次貨幣政策會議，2月、3月和5月分別將基準利率上調25個基點，6月維持利率不變。澳央行貨幣政策委員會下一次會議將於9月舉行。(新華社)"
-    },
-    {
-      "id": "mkt:019fefaf-8bd9-7aab-8feb-6ead4501066b",
-      "time": "2026-08-11 15:18:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian Students' News Agency (ISNA) reported on the 11th that a Saudi Arabian vessel was attacked in the Bab el-Mandeb Strait, with at least three people killed."
-    },
-    {
-      "id": "mkt:019fefaf-4bda-7aab-8feb-6394488fea66",
-      "time": "2026-08-11 15:17:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "According to Tradeweb data, the UK 10-year government bond yield rose to 5.024%, the highest in about 1.5 weeks."
-    },
-    {
-      "id": "5035245",
-      "time": "2026-08-11 15:17:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗學生通訊社11日報道，一艘沙烏地阿拉伯船隻在曼德海峽遭到襲擊，至少3人死亡。（新華社）"
-    },
-    {
-      "id": "5035244",
-      "time": "2026-08-11 15:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "據Tradeweb資料：英國10年期金邊債券收益率觸及一週半新高，報5.024%。"
-    },
-    {
-      "id": "mkt:019fefae-9bda-7aab-8feb-5cada5471464",
-      "time": "2026-08-11 15:17:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Trump says US has three 'strategies' for Iran】Al Jazeera reported on the 11th that President Trump told Real America’s Voice the US has three strategies toward Iran: monitor how severely the situation deteriorates, strike it hard, or apply economic pressure. He added the US controls large amounts of Iranian funds and assets, \"completely under our control\"."
-    },
-    {
-      "id": "mkt:019fefae-6515-7aab-8feb-5772700fd5c3",
-      "time": "2026-08-11 15:16:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran analyst: Strait of Hormuz standoff hinges on which side endures longer】Iranian political analyst Hussein Ruivalan said the outcome of the Strait of Hormuz standoff will depend on which side can endure longer, framing it as a contest between closing the strait and blockading Iran. He said the US is feeling the pain of higher oil prices, rising inflation and living costs, which has reduced domestic appetite for war, while Iranians view the conflict as an imposed defensive action and can tolerate it longer. Ruivalan warned a protracted conflict could have domestic political costs for the US president and Republicans if no solution is found. He denied US reports of Iranian supply shortages, saying Caspian ports are meeting domestic demand, and argued Iran’s roughly 7,000 km land borders and 3,000 km coastline make a true blockade infeasible."
     }
   ]
 }
