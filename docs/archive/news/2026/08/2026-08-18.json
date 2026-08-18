@@ -1,7 +1,80 @@
 {
   "date": "2026-08-18",
-  "count": 1104,
+  "count": 1112,
   "items": [
+    {
+      "id": "te:markets:576013",
+      "time": "2026-08-18 14:18:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Lower Open — European equity markets were set to open lower on Tuesday, extending their retreat from record highs as global bond yields surged amid mounting fiscal and inflation concerns across major economies. The Eurozone 10-year sovereign bond yield climbed above 3.2%, its highest level in 15 years, while benchmark 10-year yields in Germany and France also reached multi-year highs. The moves came as oil prices advanced further on fading hopes for a diplomatic resolution to the Middle East conflict and the reopening of the Strait of Hormuz. Meanwhile, investors will assess UK jobs data, along with the Eurozone and Germany’s ZEW Economic Sentiment surveys, for fresh clues on the region’s economic health. There are no major earnings releases in Europe on Tuesday. In premarket trade, Euro Stoxx 50 and Stoxx 600 futures fell 0.6% and 0.4%, respectively."
+    },
+    {
+      "id": "5045329",
+      "time": "2026-08-18 14:17:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產作業系統板塊持續走高，中國軟體漲停】國產作業系統板塊持續走高，中國軟體漲停，誠邁科技此前封板，麒麟信安、飛天誠信、東方中科漲幅居前。"
+    },
+    {
+      "id": "mkt:01a01384-6947-7aab-9070-ef2241f45d81",
+      "time": "2026-08-18 14:17:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran starts construction of largest science and electronics center in southern Iran】IRNA reported Minab mayor said construction will start in Minab on the largest science and electronics center in southern Iran, with an investment of 7 tln rials. The project is expected to upgrade national science and electronics infrastructure and boost local employment."
+    },
+    {
+      "id": "5045328",
+      "time": "2026-08-18 14:16:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【安踏前CEO徐陽首度回應離職：“因家庭原因”並非藉口 將陪家人海外留學】8月18日，安踏前CEO徐陽發朋友圈首次回應離職原因，稱因家人留學原因離職安踏，即將陪伴家人遷居美國洛杉磯。“沒有安排任何一場道別，是因為辜負信任的愧疚和不願示人的軟弱，希望大家都好好的！”徐陽於7月15日因“家庭原因”辭任安踏品牌CEO一職，由集團聯席CEO賴世賢代理。"
+    },
+    {
+      "id": "te:economy:576012",
+      "time": "2026-08-18 14:16:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Netherlands 10Y Bond Yield Hits 33-month High — Netherlands 10 Year Government Bond Yield increased to 3.34%, the highest since October 2023. Over the past 4 weeks, Netherlands 10Y Bond Yield gained 7.27 basis points, and in the last 12 months, it increased 38.54 basis points."
+    },
+    {
+      "id": "5045327",
+      "time": "2026-08-18 14:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本第二次非競爭性招標發行 833 億日元債券。"
+    },
+    {
+      "id": "5045326",
+      "time": "2026-08-18 14:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【集邦諮詢：第二季度全球前五大NAND Flash品牌合計營收季增77% 達688.7億美元】根據TrendForce集邦諮詢最新NAND Flash產業研究，2026年第二季AI Server採購力度維持穩健，尤其Enterprise SSD需求旺盛，導致整體NAND Flash市場供不應求，原廠得以藉由議價機制大幅調漲產品平均銷售單價（ASP）。因此，在已上市NAND Flash品牌中，前五大廠商合計營收季增77%，達688.7億美元。展望第三季營收概況，儘管智慧手機、PC終端因BOM（物料清單）成本墊高推升整機售價，動能較弱，AI Server對Enterprise SSD需求持續旺盛，加上原廠普遍優先投入資本支出於DRAM/HBM，NAND Flash新增產能有限，預估第三季ASP將繼續支撐產業總額成長。"
+    },
+    {
+      "id": "5045325",
+      "time": "2026-08-18 14:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站所在城市遭襲 已致1死15傷】當地時間8月18日，扎波羅熱核電站所在的埃涅爾戈達爾市市長普霍夫通報稱，烏軍無人機對該市發動襲擊，造成1人死亡、15人受傷。截至目前，烏克蘭方面對此暫無回應。（央視新聞）"
+    },
     {
       "id": "mkt:01a01381-88e9-7aab-9070-e73c0592191c",
       "time": "2026-08-18 14:14:11",

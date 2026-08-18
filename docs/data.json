@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-18 14:15:14",
-  "count": 15178,
+  "updated": "2026-08-18 14:19:10",
+  "count": 15181,
   "items": [
+    {
+      "id": "te:markets:576013",
+      "time": "2026-08-18 14:18:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Lower Open — European equity markets were set to open lower on Tuesday, extending their retreat from record highs as global bond yields surged amid mounting fiscal and inflation concerns across major economies. The Eurozone 10-year sovereign bond yield climbed above 3.2%, its highest level in 15 years, while benchmark 10-year yields in Germany and France also reached multi-year highs. The moves came as oil prices advanced further on fading hopes for a diplomatic resolution to the Middle East conflict and the reopening of the Strait of Hormuz. Meanwhile, investors will assess UK jobs data, along with the Eurozone and Germany’s ZEW Economic Sentiment surveys, for fresh clues on the region’s economic health. There are no major earnings releases in Europe on Tuesday. In premarket trade, Euro Stoxx 50 and Stoxx 600 futures fell 0.6% and 0.4%, respectively."
+    },
+    {
+      "id": "5045329",
+      "time": "2026-08-18 14:17:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產作業系統板塊持續走高，中國軟體漲停】國產作業系統板塊持續走高，中國軟體漲停，誠邁科技此前封板，麒麟信安、飛天誠信、東方中科漲幅居前。"
+    },
+    {
+      "id": "mkt:01a01384-6947-7aab-9070-ef2241f45d81",
+      "time": "2026-08-18 14:17:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran starts construction of largest science and electronics center in southern Iran】IRNA reported Minab mayor said construction will start in Minab on the largest science and electronics center in southern Iran, with an investment of 7 tln rials. The project is expected to upgrade national science and electronics infrastructure and boost local employment."
+    },
+    {
+      "id": "5045328",
+      "time": "2026-08-18 14:16:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【安踏前CEO徐陽首度回應離職：“因家庭原因”並非藉口 將陪家人海外留學】8月18日，安踏前CEO徐陽發朋友圈首次回應離職原因，稱因家人留學原因離職安踏，即將陪伴家人遷居美國洛杉磯。“沒有安排任何一場道別，是因為辜負信任的愧疚和不願示人的軟弱，希望大家都好好的！”徐陽於7月15日因“家庭原因”辭任安踏品牌CEO一職，由集團聯席CEO賴世賢代理。"
+    },
+    {
+      "id": "te:economy:576012",
+      "time": "2026-08-18 14:16:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Netherlands 10Y Bond Yield Hits 33-month High — Netherlands 10 Year Government Bond Yield increased to 3.34%, the highest since October 2023. Over the past 4 weeks, Netherlands 10Y Bond Yield gained 7.27 basis points, and in the last 12 months, it increased 38.54 basis points."
+    },
+    {
+      "id": "5045327",
+      "time": "2026-08-18 14:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本第二次非競爭性招標發行 833 億日元債券。"
+    },
+    {
+      "id": "5045326",
+      "time": "2026-08-18 14:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【集邦諮詢：第二季度全球前五大NAND Flash品牌合計營收季增77% 達688.7億美元】根據TrendForce集邦諮詢最新NAND Flash產業研究，2026年第二季AI Server採購力度維持穩健，尤其Enterprise SSD需求旺盛，導致整體NAND Flash市場供不應求，原廠得以藉由議價機制大幅調漲產品平均銷售單價（ASP）。因此，在已上市NAND Flash品牌中，前五大廠商合計營收季增77%，達688.7億美元。展望第三季營收概況，儘管智慧手機、PC終端因BOM（物料清單）成本墊高推升整機售價，動能較弱，AI Server對Enterprise SSD需求持續旺盛，加上原廠普遍優先投入資本支出於DRAM/HBM，NAND Flash新增產能有限，預估第三季ASP將繼續支撐產業總額成長。"
+    },
+    {
+      "id": "5045325",
+      "time": "2026-08-18 14:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站所在城市遭襲 已致1死15傷】當地時間8月18日，扎波羅熱核電站所在的埃涅爾戈達爾市市長普霍夫通報稱，烏軍無人機對該市發動襲擊，造成1人死亡、15人受傷。截至目前，烏克蘭方面對此暫無回應。（央視新聞）"
+    },
     {
       "id": "mkt:01a01381-88e9-7aab-9070-e73c0592191c",
       "time": "2026-08-18 14:14:11",
@@ -139022,46 +139095,6 @@
         "SSE Composite"
       ],
       "text": "SSE 50 Index fell more than 1% in the afternoon session."
-    },
-    {
-      "id": "5035158",
-      "time": "2026-08-11 14:18:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【訊息人士：SHEIN將於下週開啟香港IPO認購簿記，目標估值350億美元】知情人士透露，快時尚零售商希音（SHEIN）計劃最早於下週開啟香港首次公開發行（IPO）的投資者認購簿記，目標估值350億美元。多位因涉及涉密資訊要求匿名的知情人士透露：該企業計劃最高募資28億美元，已於上週開啟投資者需求摸底工作。另有訊息人士表示，此次上市的發行時間與募資規模仍存在變動可能，公司原本計劃在本月底前完成上市流程。 一位訊息人士稱，SHEIN估值“不會低於300億美元，公司正全力爭取達成350億美元的目標估值”。"
-    },
-    {
-      "id": "5035157",
-      "time": "2026-08-11 14:18:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿維塔陳卓：不能淪為“硬體整合商”，IPO相關工作穩步推進】阿維塔科技總裁陳卓表示，立足高階賽道競爭，品牌必須守住算力排程、整車解決方案層面的獨立性，避免淪為硬體整合商。品牌後續研發將錨定原創設計、細分場景定製、AI智慧座艙三大主線。今年四季度，品牌還將推出全新六座旗艦SUV。對於外界關注的IPO進展，陳卓表示，公司IPO相關工作正按監管要求穩步推進報批流程，暫無更多細節對外釋放。 (中證金牛座)"
-    },
-    {
-      "id": "5035156",
-      "time": "2026-08-11 14:18:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奕境X9座艙正式釋出，首搭鴻蒙座艙HarmonySpace 6】8月11日下午訊息，奕境X9座艙正式公佈內飾。依託東風與華為乾崑“全棧合作”模式打造，這款新一代家庭旗艦大六座SUV迎來鴻蒙座艙HarmonySpace 6全球首秀，此前已作為載體完成華為乾崑智駕ADS 5首次公開暗夜測試。（新浪科技）"
-    },
-    {
-      "id": "5035155",
-      "time": "2026-08-11 14:17:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：APPLE MUSIC報告稱部分使用者遇到效能問題。"
-    },
-    {
-      "id": "5035154",
-      "time": "2026-08-11 14:15:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞5個省會城市紅色警戒】當地時間8月10日上午，哥倫比亞西部地區發生強震，首都波哥大震感明顯。據總檯記者瞭解，地震目前已造成132人遇難，500多人受傷，哥倫比亞5個省會城市處於紅色警戒狀態。目前，各地傷亡人數還在不斷更新中。（CCTV國際時訊）"
     }
   ]
 }
