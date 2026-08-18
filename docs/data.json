@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-18 19:47:22",
-  "count": 15150,
+  "updated": "2026-08-18 19:51:16",
+  "count": 15153,
   "items": [
+    {
+      "id": "mkt:01a014b5-4bf4-7aab-9078-f3b5e2f962d1",
+      "time": "2026-08-18 19:50:20",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【PIMCO: Wealth managers are exiting private credit】PIMCO president Strack said wealth managers are withdrawing from private-credit strategies after several large direct-lending funds imposed sudden redemption limits, accelerating searches for alternatives. Wealth-management distributors are unwilling and often unable to sell retail private-credit products tied to direct lending. PIMCO estimates most business development companies (BDCs) have about 15% of AUM in redemption queues that will take several quarters to clear, and more than $14.5bn of investor capital is trapped in over a dozen funds. Some BDCs have accumulated large pools of stressed loans, notably software loans maturing in 2027–28. The software sector faces roughly $386bn of syndicated loan maturities in 2028–29, creating refinancing pressure and a projected rise in default rates over the next few years."
+    },
+    {
+      "id": "mkt:01a014b5-0b29-7aab-9078-eb8d3225c19f",
+      "time": "2026-08-18 19:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BIDU.O",
+        "Impact mixed"
+      ],
+      "text": "Baidu to hold earnings conference call in 10 minutes."
+    },
+    {
+      "id": "mkt:01a014b3-a85c-7aab-9078-e115ba01e8fa",
+      "time": "2026-08-18 19:48:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Saudi Arabian TV cited sources saying Israel has demanded the removal of mid-level Hamas military commanders from Gaza and the establishment of a sufficiently large buffer zone inside the Gaza Strip."
+    },
+    {
+      "id": "5046009",
+      "time": "2026-08-18 19:48:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油天然氣公司（ONGC）正建設連線設施，以將更多焦哈爾油田接入東北天然氣管網。"
+    },
+    {
+      "id": "5046008",
+      "time": "2026-08-18 19:48:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "KLARNA公佈業績後，AFFIRM HOLDINGS股價盤前下跌4%。"
+    },
     {
       "id": "5046007",
       "time": "2026-08-18 19:46:29",
@@ -138928,22 +138982,6 @@
         "國際"
       ],
       "text": "路透調查：預計美國2年期國債收益率三個月後將降至4.07%，六個月後降至3.92%，一年後降至3.80%（7月調查對應預期分別為4.00%、3.90%、3.85%）"
-    },
-    {
-      "id": "5035879",
-      "time": "2026-08-11 19:50:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國合署發言人：中國願向哥倫比亞提供人道主義地震救災援助】2026年8月11日，國家國際發展合作署新聞發言人湯瑛表示，哥倫比亞近日發生強震，造成重大人員傷亡和財產損失。中方密切關注地震災害，願根據哥方需要，以適當方式提供力所能及的幫助，支援哥地震救災。（新華社）"
-    },
-    {
-      "id": "5035878",
-      "time": "2026-08-11 19:50:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣聚能源：修正2026年上半年業績預告 淨利潤同比大增】廣聚能源公告稱，修正2026年半年度業績預告，預計歸屬於上市公司股東的淨利潤為6555.96 - 6856.42萬元，同比增長603.02% - 635.24%；扣非淨利潤為6401.19 - 6701.65萬元，同比增長3247.38% - 3404.50%。業績同向上升主要因參股企業媽灣電力提前分紅，增加投資收益4039.04萬元。此外，公司全資子公司重大貿易合同風險調查仍在進行，若需補充計提減值損失，或影響業績。"
     }
   ]
 }

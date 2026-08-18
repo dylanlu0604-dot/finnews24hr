@@ -1,7 +1,61 @@
 {
   "date": "2026-08-18",
-  "count": 2084,
+  "count": 2089,
   "items": [
+    {
+      "id": "mkt:01a014b5-4bf4-7aab-9078-f3b5e2f962d1",
+      "time": "2026-08-18 19:50:20",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【PIMCO: Wealth managers are exiting private credit】PIMCO president Strack said wealth managers are withdrawing from private-credit strategies after several large direct-lending funds imposed sudden redemption limits, accelerating searches for alternatives. Wealth-management distributors are unwilling and often unable to sell retail private-credit products tied to direct lending. PIMCO estimates most business development companies (BDCs) have about 15% of AUM in redemption queues that will take several quarters to clear, and more than $14.5bn of investor capital is trapped in over a dozen funds. Some BDCs have accumulated large pools of stressed loans, notably software loans maturing in 2027–28. The software sector faces roughly $386bn of syndicated loan maturities in 2028–29, creating refinancing pressure and a projected rise in default rates over the next few years."
+    },
+    {
+      "id": "mkt:01a014b5-0b29-7aab-9078-eb8d3225c19f",
+      "time": "2026-08-18 19:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BIDU.O",
+        "Impact mixed"
+      ],
+      "text": "Baidu to hold earnings conference call in 10 minutes."
+    },
+    {
+      "id": "mkt:01a014b3-a85c-7aab-9078-e115ba01e8fa",
+      "time": "2026-08-18 19:48:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Saudi Arabian TV cited sources saying Israel has demanded the removal of mid-level Hamas military commanders from Gaza and the establishment of a sufficiently large buffer zone inside the Gaza Strip."
+    },
+    {
+      "id": "5046009",
+      "time": "2026-08-18 19:48:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油天然氣公司（ONGC）正建設連線設施，以將更多焦哈爾油田接入東北天然氣管網。"
+    },
+    {
+      "id": "5046008",
+      "time": "2026-08-18 19:48:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "KLARNA公佈業績後，AFFIRM HOLDINGS股價盤前下跌4%。"
+    },
     {
       "id": "5046007",
       "time": "2026-08-18 19:46:29",
