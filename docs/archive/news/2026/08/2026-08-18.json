@@ -1,7 +1,76 @@
 {
   "date": "2026-08-18",
-  "count": 690,
+  "count": 697,
   "items": [
+    {
+      "id": "mkt:01a012a2-53c7-7aab-906d-01ceef63b2a4",
+      "time": "2026-08-18 10:10:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped to $4,400/oz, down 0.37% intraday."
+    },
+    {
+      "id": "5045058",
+      "time": "2026-08-18 10:09:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【投資額近14億元 北京車路雲一體化專案前期中標公示】記者今日從中關村智慧城市資訊化產業聯盟獲悉，北京市車路雲一體化新型基礎設施建設專案（四環及四環內區域）（初步設計、施工圖設計）中標候選人公示，包括北京市市政工程設計研究總院有限公司等。資訊顯示，該專案建設地點為北京市市轄區四環內涉及的朝陽區、海淀區、豐臺區、東城區、西城區5個行政區範圍及四環路全段65.3公里，投資額133571.94萬元，建設資金來源為政府投資+國有企業自籌，專案出資比例為政府投資70%，國有企業自籌30%。 (財聯社)"
+    },
+    {
+      "id": "te:markets:575968",
+      "time": "2026-08-18 10:09:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Ease After Rally — The Hang Seng Index edged lower by around 0.6%, or 160 points, to 25,289 on Tuesday, giving back part of previous sessions strong gains as investors turned cautious amid renewed geopolitical tensions and a rebound in oil prices. Brent crude climbed above $91 a barrel after the US-Iran ceasefire expired, fueling concerns that higher energy costs. A mixed overnight performance on Wall Street also weighed on sentiment. Among individual stocks, Xiaomi remained in focus ahead of its quarterly earnings after the strong results could extend the company's best quarterly share-price rally in more than a year, provided it reassures investors that rising material costs are coming under control. Meanwhile, sentiment remained restrained following weaker-than-expected July economic data from China released a day earlier. Notable laggards included Tencent (-0.9%), MiniMax (-6.4%), Lenovo (-1.2%), AIA (-2.0%), and Kingboard Laminates (-3.2%)."
+    },
+    {
+      "id": "5045057",
+      "time": "2026-08-18 10:09:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普和加拿大總理卡尼當地時間週一就貿易問題進行了電話會談。"
+    },
+    {
+      "id": "te:markets:575967",
+      "time": "2026-08-18 10:09:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Holds Near 10-Week Top — The Australian dollar held above $0.71, staying near a ten-week high as a broadly weaker US dollar and improving domestic economic sentiment supported the currency. The greenback came under pressure as softer-than-expected US economic data prompted traders to trim the odds for further Federal Reserve rate hikes, raising concerns about US economic growth and the dollar’s yield advantage. The Aussie also drew support from improving domestic sentiment after the Reserve Bank of Australia held its interest rate at 4.35% following three hikes earlier in the year. Australian consumer confidence improved to a nine-month high in August, adding to expectations that the economy remains resilient. Markets are now focused on Thursday’s jobs report, with employment expected to rise by 15,000 in July after a strong 76,300 increase in June, while unemployment is forecast to remain at 4.4%. Quarterly wages data are also due on Wednesday, while RBA Deputy Governor Andrew Hauser will also be speaking."
+    },
+    {
+      "id": "5045056",
+      "time": "2026-08-18 10:08:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "新股N頻準漲逾550%，最高報1300元/股。"
+    },
+    {
+      "id": "5045055",
+      "time": "2026-08-18 10:08:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體板塊早盤拉昇，立昂微直線漲停，優迅股份、有研矽、西安奕材漲超10%，上海合晶、滬矽產業、有研新材跟漲。"
+    },
     {
       "id": "5045054",
       "time": "2026-08-18 10:08:29",
