@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-19 01:09:57",
+  "updated": "2026-08-19 01:14:02",
   "count": 15098,
   "items": [
+    {
+      "id": "mkt:01a015dc-6043-7aab-907f-9bd6adb4b59a",
+      "time": "2026-08-19 01:12:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An adviser to Turkish President ERDOGAN said, regarding the attack in Syria, that Turkey will continue to support Syrian sovereignty."
+    },
+    {
+      "id": "mkt:01a015da-60fb-7aab-907f-90062ef2772c",
+      "time": "2026-08-19 01:10:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Israeli security sources say that given the current political situation they do not expect any progress on a Gaza agreement, and that no major action in the Gaza Strip will be taken before Israel's election."
+    },
     {
       "id": "5046388",
       "time": "2026-08-19 01:08:28",
@@ -138392,22 +138411,6 @@
         "MKT News"
       ],
       "text": "【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234."
-    },
-    {
-      "id": "mkt:019ff1cd-e44e-7aab-8ff8-46486344d320",
-      "time": "2026-08-12 01:10:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's Ministry of Defense said the Bahrain Defence Force chief of general staff met the UK deputy chief of the defence staff for strategy and operations and a visiting delegation to discuss bilateral defence cooperation and regional security."
-    },
-    {
-      "id": "5036291",
-      "time": "2026-08-12 01:10:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震已致234人死亡】根據哥倫比亞市政聯合會當地時間11日通報，該國8月10日發生的強震死亡人數已上升為234人。"
     }
   ]
 }
