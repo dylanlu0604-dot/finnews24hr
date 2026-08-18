@@ -1,7 +1,34 @@
 {
   "date": "2026-08-19",
-  "count": 328,
+  "count": 331,
   "items": [
+    {
+      "id": "5046533",
+      "time": "2026-08-19 06:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。"
+    },
+    {
+      "id": "5046532",
+      "time": "2026-08-19 06:36:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。"
+    },
+    {
+      "id": "te:markets:576239",
+      "time": "2026-08-19 06:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%)."
+    },
     {
       "id": "5046531",
       "time": "2026-08-19 06:32:00",
