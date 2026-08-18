@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-18 23:18:24",
-  "count": 15184,
+  "updated": "2026-08-18 23:22:22",
+  "count": 15189,
   "items": [
+    {
+      "id": "5046331",
+      "time": "2026-08-18 23:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際足聯副主席恰尼據稱撤回對因凡蒂諾的支援。"
+    },
+    {
+      "id": "mkt:01a01576-33e5-7aab-907e-69801aaaab81",
+      "time": "2026-08-18 23:21:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Italy's FTSE MIB index fell as much as 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a01576-2e50-7aab-907e-6466417e3c26",
+      "time": "2026-08-18 23:21:01",
+      "tags": [
+        "MKT News",
+        "UGI.O",
+        "Impact bullish"
+      ],
+      "text": "Sources said KKR has proposed to acquire UGI, the Pennsylvania‑headquartered U.S. energy distributor, at $42.50 a share."
+    },
+    {
+      "id": "5046330",
+      "time": "2026-08-18 23:20:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：美方言論助長日本復仇主義和修正主義】當地時間18日，俄羅斯外交部就美國駐日本大使格拉斯涉南千島群島（日本稱北方四島）相關言論表示，美方言論毫無新意，只會助長日本的復仇主義和修正主義。（央視新聞）"
+    },
+    {
+      "id": "5046329",
+      "time": "2026-08-18 23:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：KKR 提出以每股 42.50 美元收購 UGI 公司。"
+    },
+    {
+      "id": "mkt:01a01575-58bf-7aab-907e-5cdfc0bd5fad",
+      "time": "2026-08-18 23:20:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran holds 40-day memorial for late supreme leader in Tehran】Iran held a 40-day memorial for the burial of the late supreme leader Ali Khamenei on the 18th at the courtyard outside Tehran's Imam Khomeini Mosque, Iranian sources said. Large crowds attended. Delegates present included Majlis Speaker Ghalibaf, Hassan Khomeini (grandson of Iran’s first supreme leader), and children of Ali Khamenei. Earlier Iranian reports said Supreme Leader Mujtaba Khamenei would preside in Tehran; live feeds had not shown him by the time of reporting."
+    },
+    {
+      "id": "5046328",
+      "time": "2026-08-18 23:20:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.45%。"
+    },
+    {
+      "id": "5046327",
+      "time": "2026-08-18 23:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國考慮戰爭結束後減少在海灣地區的軍事存在】據《華盛頓郵報》援引訊息人士稱，美國國防部正考慮在伊朗戰爭結束後縮減其海灣地區軍事部署，伊朗的打擊暴露了美國主要基地存在的防禦短板。 備選方案包括將兵力向西調往約旦、以色列或沙烏地阿拉伯，而非重建受損設施。尚未作出正式決定。"
+    },
+    {
+      "id": "5046326",
+      "time": "2026-08-18 23:19:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報15612.00元。"
+    },
+    {
+      "id": "mkt:01a01573-b9ff-7aab-907e-5454fe499635",
+      "time": "2026-08-18 23:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Ministry of Defense told citizens that any sounds they hear are from air-defence intercepts."
+    },
     {
       "id": "mkt:01a01572-b38b-7aab-907e-4d18eb4a4002",
       "time": "2026-08-18 23:17:13",
@@ -139249,55 +139340,6 @@
         "市場"
       ],
       "text": "【芝商所將在紐約商品交易所上市H100和B200租賃指數期貨】芝加哥商品交易所集團（CME GROUP）和矽谷資料公司（SILICON DATA）將於10月5日推出算力期貨。新合同將在芝加哥商品交易所上市，並受紐約商品交易所規則的約束，等待監管部門的批准。芝商所將在紐約商品交易所上市H100和B200租賃指數期貨，這兩份合約將跟蹤衡量每小時GPU租賃成本的指數。"
-    },
-    {
-      "id": "mkt:019ff169-9f34-7aab-8ff5-60de8e7b525a",
-      "time": "2026-08-11 23:20:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index hits five-day low as capesize demand weakens】BDI fell 37 pts (1.2%) to 3,046, a five-day low, as capesize and supramax rates retreated, offsetting a tenth consecutive daily rise in panamax rates. The capesize index (BCI) dropped 104 pts (2.04%) to 5,001; capesize average daily earnings fell $941 to $41,856. The panamax index (BPI) rose 6 pts (0.26%) to 2,312, its highest since June 2 and marking a 10th straight gain; panamax daily earnings increased $58 to $20,813. The supramax index (BSI) slid 3 pts (0.19%) to 1,600, the lowest since June 8."
-    },
-    {
-      "id": "te:markets:574482",
-      "time": "2026-08-11 23:20:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "other",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "XRP /USD traded above 1 — The Xrp exchange rate rose above 1 US Dollars in the foreign exchange interbank market."
-    },
-    {
-      "id": "mkt:019ff168-56f0-7aab-8ff5-5a3c090ac2de",
-      "time": "2026-08-11 23:19:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "New York Fed quarterly report shows U.S. household loan delinquencies have eased."
-    },
-    {
-      "id": "5036193",
-      "time": "2026-08-11 23:19:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "負責美國貿易關係的加拿大部長將於週二與美國貿易代表格里爾會面。"
-    },
-    {
-      "id": "5036192",
-      "time": "2026-08-11 23:19:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南非西北省一礦區塌方致14人死亡】南非西北省警方11日釋出宣告說，勒斯滕堡附近一處礦區發生塌方事故，造成14名非法採礦人員死亡、8人受傷。"
     }
   ]
 }
