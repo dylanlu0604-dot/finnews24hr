@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-19 05:05:19",
-  "count": 15119,
+  "updated": "2026-08-19 05:09:14",
+  "count": 15117,
   "items": [
+    {
+      "id": "mkt:01a016b2-ae3d-7aab-9082-d8feb047434c",
+      "time": "2026-08-19 05:06:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "CSAN.N",
+        "Impact bearish"
+      ],
+      "text": "According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS)."
+    },
     {
       "id": "5046502",
       "time": "2026-08-19 05:03:14",
@@ -138576,30 +138588,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.09%，報14925點。"
-    },
-    {
-      "id": "5036394",
-      "time": "2026-08-12 05:08:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "CoreWeave 執行長： 短期算力產能實際上已全部售罄，由此達成的簽約承諾，合同條款正變得愈發有利。"
-    },
-    {
-      "id": "5036393",
-      "time": "2026-08-12 05:07:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "CoreWeave 執行長：第二季度簽署的客戶合同預期貢獻利潤率較近幾個季度新增合同高出 5‑10 個百分點。"
-    },
-    {
-      "id": "5036392",
-      "time": "2026-08-12 05:07:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "超微電腦CEO：受電力、散熱及網路業務部分客戶短期延遲影響，第四季度營收為 111 億美元。"
     }
   ]
 }

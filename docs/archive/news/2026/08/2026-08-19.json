@@ -1,7 +1,19 @@
 {
   "date": "2026-08-19",
-  "count": 288,
+  "count": 289,
   "items": [
+    {
+      "id": "mkt:01a016b2-ae3d-7aab-9082-d8feb047434c",
+      "time": "2026-08-19 05:06:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "CSAN.N",
+        "Impact bearish"
+      ],
+      "text": "According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS)."
+    },
     {
       "id": "5046502",
       "time": "2026-08-19 05:03:14",
