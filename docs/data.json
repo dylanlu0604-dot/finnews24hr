@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-18 13:36:13",
-  "count": 15190,
+  "updated": "2026-08-18 13:40:06",
+  "count": 15181,
   "items": [
+    {
+      "id": "mkt:01a0135f-8598-7aab-906f-d69cd0407101",
+      "time": "2026-08-18 13:37:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Sumitomo Mitsui DS Asset Management: fiscal discipline and BOJ rate hikes key to curbing yen weakness】Sumitomo Mitsui DS Asset Management strategist Masahiro Ichikawa said a Japanese government commitment to fiscal discipline, combined with appropriate Bank of Japan rate hikes, would curb further yen depreciation without the need for repeated FX intervention. He added interventions rarely change overall market trends, but the recent action worked because it halted a rapid, disorderly slide in USD/JPY toward the 164 handle."
+    },
+    {
+      "id": "5045283",
+      "time": "2026-08-18 13:35:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至275.95點。"
+    },
     {
       "id": "5045282",
       "time": "2026-08-18 13:35:39",
@@ -139049,109 +139070,6 @@
         "MKT News"
       ],
       "text": "Reserve Bank of Australia Governor Bullock said the board is carefully weighing the timing of a rate increase."
-    },
-    {
-      "id": "5035104",
-      "time": "2026-08-11 13:40:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "布洛克：委員會正在認真考慮何時可能適合加息。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608113837761376",
-      "time": "2026-08-11 13:39:55",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲官員布洛克：委員會討論了加息或維持利率不變 而非降息】美聯儲官員布洛克表示，委員會討論了加息或維持利率不變，而非降息。委員會正在認真考慮何時可能適合加息，首要考慮的是通貨膨脹、中東衝突和人工智慧熱潮。"
-    },
-    {
-      "id": "5035103",
-      "time": "2026-08-11 13:38:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "布洛克：首要考慮的是通貨膨脹、中東衝突和人工智慧熱潮。"
-    },
-    {
-      "id": "mkt:019fef54-1ec6-7aab-8fe8-57375344422a",
-      "time": "2026-08-11 13:38:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Capital Economics: RESERVE BANK OF AUSTRALIA does not rule out further hike but ties action to upside risks materializing】Capital Economics Asia-Pacific senior economist Abhijit Surya says the RESERVE BANK OF AUSTRALIA has only marginally softened its hawkish tilt. The RBA reiterated it will take whatever measures it deems necessary to return inflation to target, including further increases in the cash rate, but attached that commitment to a condition—action would follow only if upside risks to inflation materialize. Surya adds that despite the committee's firm wording on inflation, Capital Economics does not expect another rate hike in this cycle."
-    },
-    {
-      "id": "5035102",
-      "time": "2026-08-11 13:38:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "布洛克：房地產市場並非委員會的主要關注點。"
-    },
-    {
-      "id": "mkt:019fef53-b7f3-7aab-8fe8-498a48da3005",
-      "time": "2026-08-11 13:37:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Indonesia copper exports delayed after Gresik smelter outage; LME copper stays above $14,000/t】Indonesia's copper exports are being delayed after the Gresik smelter halted over the weekend due to a boiler leak; buyers were told the plant will pause operations for several weeks for assessment and repairs. The outage adds pressure to an already tight global copper market, with large flows to the United States and increased shipments to China coinciding with LME copper trading above $14,000/t for a fifth consecutive session. The Grasberg mine in Papua, which was hit by a mudflow last year and has only partially resumed output, is not expected to fully restart until around 2028."
-    },
-    {
-      "id": "mkt:019fef53-9265-7aab-8fe8-442d88a2b807",
-      "time": "2026-08-11 13:37:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said the meeting did not discuss rate cuts and only considered either rate hikes or leaving the cash rate unchanged."
-    },
-    {
-      "id": "5035101",
-      "time": "2026-08-11 13:37:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "布洛克：委員會討論了加息或維持利率不變，而沒有討論降息。"
-    },
-    {
-      "id": "mkt:019fef53-3faa-7aab-8fe8-3f8782b36edc",
-      "time": "2026-08-11 13:37:18",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "RBA Governor Bullock said the Reserve Bank of Australia board discussed the prospect of raising interest rates."
-    },
-    {
-      "id": "5035100",
-      "time": "2026-08-11 13:36:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "布洛克：委員會討論了加息問題。"
-    },
-    {
-      "id": "mkt:019fef52-9d1c-7aab-8fe8-316f13388782",
-      "time": "2026-08-11 13:36:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said house prices have eased but are not the bank's primary focus."
     }
   ]
 }

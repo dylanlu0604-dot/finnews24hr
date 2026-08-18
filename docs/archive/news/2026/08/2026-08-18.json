@@ -1,7 +1,28 @@
 {
   "date": "2026-08-18",
-  "count": 1021,
+  "count": 1023,
   "items": [
+    {
+      "id": "mkt:01a0135f-8598-7aab-906f-d69cd0407101",
+      "time": "2026-08-18 13:37:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Sumitomo Mitsui DS Asset Management: fiscal discipline and BOJ rate hikes key to curbing yen weakness】Sumitomo Mitsui DS Asset Management strategist Masahiro Ichikawa said a Japanese government commitment to fiscal discipline, combined with appropriate Bank of Japan rate hikes, would curb further yen depreciation without the need for repeated FX intervention. He added interventions rarely change overall market trends, but the recent action worked because it halted a rapid, disorderly slide in USD/JPY toward the 164 handle."
+    },
+    {
+      "id": "5045283",
+      "time": "2026-08-18 13:35:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至275.95點。"
+    },
     {
       "id": "5045282",
       "time": "2026-08-18 13:35:39",
