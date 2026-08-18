@@ -1,7 +1,110 @@
 {
-  "updated": "2026-08-19 04:44:33",
-  "count": 15113,
+  "updated": "2026-08-19 04:48:26",
+  "count": 15122,
   "items": [
+    {
+      "id": "5046498",
+      "time": "2026-08-19 04:47:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。"
+    },
+    {
+      "id": "mkt:01a016a0-e1a2-7aab-9082-b66d45a9ed1a",
+      "time": "2026-08-19 04:47:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations."
+    },
+    {
+      "id": "5046497",
+      "time": "2026-08-19 04:46:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。"
+    },
+    {
+      "id": "te:economy:576235",
+      "time": "2026-08-19 04:46:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon."
+    },
+    {
+      "id": "mkt:01a0169e-8cc4-7aab-9082-af60b86c2631",
+      "time": "2026-08-19 04:44:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d."
+    },
+    {
+      "id": "mkt:01a0169e-7810-7aab-9082-a33bc1884784",
+      "time": "2026-08-19 04:44:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d."
+    },
+    {
+      "id": "mkt:01a0169e-6c88-7aab-9082-9c48ad0d00ed",
+      "time": "2026-08-19 04:44:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M"
+    },
+    {
+      "id": "mkt:01a0169e-49e9-7aab-9082-93f42303aab1",
+      "time": "2026-08-19 04:44:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M"
+    },
+    {
+      "id": "mkt:01a0169e-272f-7aab-9082-8812e8ed097c",
+      "time": "2026-08-19 04:44:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week."
+    },
+    {
+      "id": "5046496",
+      "time": "2026-08-19 04:44:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人警告稱存在\"假旗行動\"，並指責（阿聯酋）相關指控\"毫無根據\"。"
+    },
     {
       "id": "mkt:01a0169e-053f-7aab-9082-8144237f4e36",
       "time": "2026-08-19 04:44:09",
@@ -138525,14 +138628,6 @@
         "其他"
       ],
       "text": "惠譽：簡街資本贖回 57 億美元高階擔保票據。"
-    },
-    {
-      "id": "5036385",
-      "time": "2026-08-12 04:48:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：簡街資本計劃提前償還 55 億美元定期貸款。"
     }
   ]
 }
