@@ -1,7 +1,82 @@
 {
   "date": "2026-08-18",
-  "count": 1486,
+  "count": 1494,
   "items": [
+    {
+      "id": "mkt:01a01408-6300-7aab-9074-826e023b3ca2",
+      "time": "2026-08-18 16:41:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi rebels say drones struck ARAMCO refinery in southwest Saudi Arabia】Houthi rebels said on the 18th they used multiple drones to attack an ARAMCO refinery in Saudi Arabia's Jazan region, the Houthi-controlled Saba news agency reported. The group described the strike as 'precise' and said it was in response to Saudi incursions into the airspace of Yemen's Saada and Hajjah provinces. No casualties or damage have been reported. Saudi authorities and ARAMCO have not commented."
+    },
+    {
+      "id": "5045569",
+      "time": "2026-08-18 16:41:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寶鷹股份：股票交易異常波動 不存在應披露未披露重大事項】寶鷹股份公告稱，公司股票於2026年8月14日、8月17日、8月18日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司近期經營情況正常，內外部經營環境未發生重大變化，公司、控股股東和實際控制人不存在應披露而未披露的重大事項，異常波動期間控股股東、實際控制人未買賣公司股票。公司預計2026年上半年淨虧損1650萬元至2350萬元，目前不存在業績預告修正情況。"
+    },
+    {
+      "id": "5045568",
+      "time": "2026-08-18 16:40:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉門胡塞武裝稱使用無人機襲擊沙特一煉油廠】葉門胡塞武裝18日稱，該組織使用多架無人機襲擊了沙烏地阿拉伯西南部吉贊地區的沙特阿美公司一座煉油廠。據胡塞武裝控制的薩巴通訊社報道，此次“精準”襲擊是對“沙烏地阿拉伯侵犯其控制的（葉門）北部薩達省和哈傑省領空的回應”。目前沒有人員傷亡或財產損失報告。沙特方面和阿美公司尚未對此發表評論。胡塞武裝15日稱，沙特軍隊當日早晨對薩達省部分地區發動炮彈和導彈襲擊。自7月下旬宣佈對沙特實施“海上封鎖”以來，胡塞武裝多次襲擊沙特油輪和沙特境內石油設施。（新華社）"
+    },
+    {
+      "id": "5045567",
+      "time": "2026-08-18 16:39:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團在上海成立智寶科技公司】天眼查App顯示，近日，上海螞蟻智寶科技有限公司成立，法定代表人為李俊，註冊資本1000萬人民幣，經營範圍含技術服務、技術開發、軟體開發、人力資源服務、第二類增值電信業務等，由螞蟻科技集團股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a01406-1927-7aab-9074-7a1a1242124d",
+      "time": "2026-08-18 16:38:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dongwei Technology said it signed a sales contract with a second-tier wholly-owned subsidiary of a publicly listed company for a vertical continuous copper-plating line (pulse and DC) and supporting software, with a total value of 163 mln yuan (incl. tax). The company expects the contract to have a positive impact on 2027 operating results."
+    },
+    {
+      "id": "5045566",
+      "time": "2026-08-18 16:38:44",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【發改委公佈全國雞蛋出場價格及飼料市場價格】據國家發改委價格監測中心、卓創資訊資料，截至8月12日當週，本週全國蛋料比價為3.46，環比上漲2.67%。按目前價格及成本推算，未來蛋雞養殖每隻盈利42.50元。本週雞蛋價格持續上漲，老雞淘汰量增加，大碼雞蛋供應收緊，疊加下游食品企業中秋備貨逐步啟動，且貿易商採購積極性提升，市場走貨持續向好，蛋價穩步上行。目前正值傳統需求旺季，立秋之後天氣轉涼，貿易商採購意向提升，以及下週學校開學，食堂備貨也陸續啟動，雞蛋需求趨勢性向好，預計下週雞蛋價格或維持上漲趨勢。"
+    },
+    {
+      "id": "mkt:01a01405-7b7a-7aab-9074-71b694e09640",
+      "time": "2026-08-18 16:38:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【State Administration for Market Regulation: individual businesses in China's lower-tier markets outnumber companies by more than 2x】State Administration for Market Regulation registration bureau head Du Linya said at a briefing on July 18 that, as of end-July this year, registered individual businesses in China's lower-tier markets exceed companies by a ratio of 209:100—well above the 85:100 ratio in first- and second-tier cities. There are more than 78 mln such individual businesses, about 86% engaged in services-related sectors."
+    },
+    {
+      "id": "mkt:01a01405-1e7e-7aab-9074-68eca6927d35",
+      "time": "2026-08-18 16:37:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00005.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing showed HSBC (00005.HK) repurchased 850,000 shares on Aug 17, spending HKD 13.1 mln."
+    },
     {
       "id": "mkt:01a01404-c6ad-7aab-9074-617a7e04b1fe",
       "time": "2026-08-18 16:37:32",
