@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-19 03:21:14",
+  "updated": "2026-08-19 03:25:09",
   "count": 15095,
   "items": [
+    {
+      "id": "5046447",
+      "time": "2026-08-19 03:24:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。"
+    },
+    {
+      "id": "mkt:01a01654-b1ae-7aab-9081-293cdb3290ea",
+      "time": "2026-08-19 03:24:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment."
+    },
+    {
+      "id": "5046446",
+      "time": "2026-08-19 03:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。"
+    },
     {
       "id": "mkt:01a01651-5e23-7aab-9081-23bdb9e318b2",
       "time": "2026-08-19 03:20:26",
@@ -138345,40 +138370,6 @@
         "公司"
       ],
       "text": "【聯合海事資訊中心：阿曼灣一艘集裝箱船被直升機發射的導彈擊中】聯合海事資訊中心（JMIC）表示，一家航運公司報告，集裝箱船Vela Nova週二早些時候在距巴基斯坦海岸71海里處被一枚從直升機發射的導彈擊中。船長確認，船尾操舵艙被擊中，該船已無法被正常操縱。爆炸引發火災，火勢已被撲滅。所有船員均已確認安全，沒有人員受傷的報告。"
-    },
-    {
-      "id": "mkt:019ff247-dde7-7aab-8ff9-cb98599f4678",
-      "time": "2026-08-12 03:23:43",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Mexican peso per US dollar rose to 17.0862, the highest level since February."
-    },
-    {
-      "id": "mkt:019ff247-3a71-7aab-8ff9-c5d471e6a26d",
-      "time": "2026-08-12 03:23:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple payments head Jennifer Bailey to retire in October】Jennifer Bailey, head of Apple’s payments and Wallet services, said she will retire and leave the company in October. The exit adds to a wave of senior executive departures at Apple — including Kate Adams and Lisa Jackson — and accelerates management turnover. Apple is also scheduled for a CEO transition on Sept. 1, when Tim Cook will step down and hardware chief John Ternus will succeed him."
-    },
-    {
-      "id": "5036351",
-      "time": "2026-08-12 03:22:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（8月11日）紐約尾盤，ICE原糖期貨漲1.64%，ICE白糖期貨漲1.15%。ICE阿拉比卡咖啡期貨衝高回落最終漲0.08%，咖啡“C”期貨跌0.35%、報312.80美分/磅、北京時間18:50達到327.55美分。羅布斯塔咖啡期貨跌0.37%。紐約可可期貨跌4.97%，報5637美元/噸。倫敦可可期貨跌0.17%。芝加哥WCE雙低油菜籽期貨跌1.75%。ICE棉花期貨漲0.68%。"
     }
   ]
 }

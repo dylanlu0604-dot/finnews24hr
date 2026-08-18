@@ -1,7 +1,32 @@
 {
   "date": "2026-08-19",
-  "count": 171,
+  "count": 174,
   "items": [
+    {
+      "id": "5046447",
+      "time": "2026-08-19 03:24:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。"
+    },
+    {
+      "id": "mkt:01a01654-b1ae-7aab-9081-293cdb3290ea",
+      "time": "2026-08-19 03:24:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment."
+    },
+    {
+      "id": "5046446",
+      "time": "2026-08-19 03:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。"
+    },
     {
       "id": "mkt:01a01651-5e23-7aab-9081-23bdb9e318b2",
       "time": "2026-08-19 03:20:26",
