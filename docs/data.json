@@ -1,7 +1,165 @@
 {
-  "updated": "2026-08-18 16:06:58",
-  "count": 15133,
+  "updated": "2026-08-18 16:10:56",
+  "count": 15138,
   "items": [
+    {
+      "id": "te:markets:576068",
+      "time": "2026-08-18 16:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 1.39% — Top commodity gainers are Rice (1.39%), Soybeans (0.69%) and Palm Oil (0.68%). Biggest loser is Oat (-0.76%)."
+    },
+    {
+      "id": "5045519",
+      "time": "2026-08-18 16:09:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國和義大利10年期國債收益率分別上漲5個基點至4.12%和4.07%。"
+    },
+    {
+      "id": "5045518",
+      "time": "2026-08-18 16:09:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國已基本實現縣鄉村三級商業網點全覆蓋】在國務院新聞辦今天舉行的新聞釋出會上，商務部有關負責人表示將逐步構建起覆蓋城鄉的商業網路，有效助力城鄉融合發展和鄉村全面振興。商務部部長助理袁曉明表示，商務部將推進農村現代流通體系建設，順應城鄉融合發展趨勢，促進商業網路升級。同時，促進流通方式升級，拓寬農村電商等應用場景，提高供應鏈協同效率，延伸產業鏈，提升價值鏈。此外，順應品牌連鎖下沉趨勢，促進服務業態升級，支援連鎖品牌因地制宜創新經營模式。鼓勵本土品牌與外來品牌良性競合，推動服務業態日益多元。商務部部長助理 袁曉明：2021年以來，我們深入推進縣域商業體系建設，建設改造縣城綜合商貿服務中心3159個，鄉鎮商貿中心1.5萬個，村級便民商店16.8萬個，全國已基本實現縣鄉村三級商業網點全覆蓋。累計支援升級改造縣鄉物流配送網點3600多個，每天有超過1億件包裹進出農村，農產品供應鏈轉型升級。支援建設農產品分揀、預冷、初加工等設施近4000個。（央視新聞）"
+    },
+    {
+      "id": "5045517",
+      "time": "2026-08-18 16:09:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安德利：控股股東45%股權轉讓給王萌，法定代表人變更】安德利公告，公司控股股東安德利集團股權結構變動，系實際控制人之一王安先生向其女王萌女士轉讓其持有的安德利集團45%股權，及股東楊玉華女士將其持有的安德利集團10%股權轉讓給王淑娟女士。本次變動後，公司控股股東及實際控制人均未發生變更，實際控制人仍為王安先生、王萌女士，雙方仍保持一致行動關係。安德利集團法定代表人由王安先生變更為王萌女士。"
+    },
+    {
+      "id": "5045516",
+      "time": "2026-08-18 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.070%，恒生科技指數跌0.896%】藥明生物漲5.329%，極兔速遞-W漲5.038%，阿里巴巴-W漲4.255%，中國海外發展漲3.502%，地平線機器人-W跌5.516%，華虹宏力跌8.077%，智譜跌13.217%。"
+    },
+    {
+      "id": "mkt:01a013ea-8fb9-7aab-9073-af8b22dba381",
+      "time": "2026-08-18 16:08:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "01347.HK",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong stocks closed with the Hang Seng Index up 0.07% and the Hang Seng Tech Index down 0.9%. The AI sector slid: Zhipu (02513.HK) fell more than 13% and Huahong Hongli (01347.HK) dropped about 8%."
+    },
+    {
+      "id": "mkt:01a013ea-7a67-7aab-9073-a4482a05317a",
+      "time": "2026-08-18 16:08:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "066570.KS",
+        "Impact mixed"
+      ],
+      "text": "Market sources said LG Electronics is accelerating its robotics collaboration with NVIDIA (NVDA.O)."
+    },
+    {
+      "id": "5045515",
+      "time": "2026-08-18 16:08:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子加快與英偉達的機器人業務合作。"
+    },
+    {
+      "id": "mkt:01a013ea-2f60-7aab-9073-9c6ff307b70e",
+      "time": "2026-08-18 16:08:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Spain: debt-to-GDP ratio 101.5% at end-June."
+    },
+    {
+      "id": "5045514",
+      "time": "2026-08-18 16:08:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "據捷克通訊社（CTK）報道，由於核電站運營期限延長，捷克能源集團CEZ預計年度投資規模最高將達120億捷克克朗。"
+    },
+    {
+      "id": "5045513",
+      "time": "2026-08-18 16:07:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德邁仕：2026年上半年淨利潤1522.15萬元，同比下降36.55%】德邁仕公告，2026年上半年營業收入3.19億元，同比增長2.14%。歸屬於上市公司股東的淨利潤1522.15萬元，同比下降36.55%。扣非淨利潤1506.32萬元，同比下降32.51%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5045512",
+      "time": "2026-08-18 16:07:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【據悉沙特恢復霍爾木茲海峽內原油裝載和銷售】據航運資料和貿易訊息人士透露，沙特阿美上週恢復了在霍爾木茲海峽內的原油裝載，目前還有更多油輪等待裝貨；與此同時，該公司正提供現貨重質原油。週一，沙特向部分亞洲煉廠提供了阿拉伯中質原油和阿拉伯重質原油，計劃於本月透過船對船（STS）轉運方式在阿聯酋富查伊拉附近裝載。此前，由於上月美伊衝突升級期間沙特油輪船隊在霍爾木茲海峽遭到襲擊，沙特已暫停銷售數週。航運追蹤機構Vortexa和Kpler的資料顯示，8月12日至16日期間，三艘超大型原油運輸船（VLCC）——“馬來西亞繁榮號”、“阿爾及利亞繁榮號”和“新加坡繁榮號”——分別從朱艾馬和拉斯塔努拉碼頭裝載了200萬桶原油。此前這兩個港口已有三週沒有裝載作業。尚不清楚這些油輪裝載的是哪種原油。Kpler初步資料顯示，本月晚些時候還可能有另外六艘VLCC從霍爾木茲海峽內裝載沙特原油。交易員表示，除了Sinokor公司的船隻外，沙特阿美還可能派遣沙特油輪進行霍爾木茲海峽的過境運輸。"
+    },
+    {
+      "id": "5045511",
+      "time": "2026-08-18 16:07:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國電建在林芝成立機電裝置製造公司】企查查APP顯示，近日，中電建（林芝）機電裝置製造有限公司成立，法定代表人為周建平，註冊資本為5000萬元，經營範圍包含：機械裝置研發；金屬結構製造；水資源專用機械裝置製造；風力發電機組及零部件銷售等。企查查股權穿透顯示，該公司由中國電建旗下中國水利水電第七工程局有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a013e9-7f14-7aab-9073-95c58dfc29ff",
+      "time": "2026-08-18 16:07:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Rising oil and US Treasury yields weigh on gold】Gold fell on Tuesday as higher oil and US Treasury yields raised the opportunity cost of holding non-yielding bullion, though it remains over 10% higher month-to-date. A Mitsubishi UFJ Financial Group analyst said recovering investor demand and central-bank purchases continue to underpin prices. The Fed’s July minutes and Fed Chair Kevin Warsh’s remarks at the Jackson Hole symposium will be key for the rate outlook."
+    },
+    {
+      "id": "5045510",
+      "time": "2026-08-18 16:06:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "對沖基金Dymon從阿布扎比投資委員會籌集了10億美元。"
+    },
     {
       "id": "5045509",
       "time": "2026-08-18 16:06:15",
@@ -100,6 +258,14 @@
         "國際"
       ],
       "text": "【伊朗加大霍爾木茲海峽控制力度 一艘燃料運輸船反覆掉頭後停駛】伊朗正加大對霍爾木茲海峽的管控力度。一艘燃料運輸船試圖進入波斯灣時拐來拐去，最後在伊朗格什姆島附近停了下來。船舶追蹤資料顯示，Amara週一空載駛入波斯灣，船上的應答器也一直開著，隨後至少有過五次掉頭。目前，這艘船停在伊朗批准的通行航道北部。伊朗半官方媒體法爾斯通訊社週一報道稱，一艘隸屬於阿聯酋公司的油輪在霍爾木茲海峽被扣，但未披露船東名稱。報道還稱，船舶透過霍爾木茲海峽必須繳納通行費。"
+    },
+    {
+      "id": "5045501",
+      "time": "2026-08-18 16:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【品茗科技與天津電建深化戰略合作】據品茗科技訊息，8月17日，品茗科技黨委書記、副董事長李繼剛率隊赴中國能建天津電建總部，與天津電建黨委書記、董事長許棟舉行座談。雙方立足前期戰略合作成果，就深化企業數智化轉型、一體化平臺迭代及智慧建造場景創新等議題開展深度座談交流，就進一步拓寬合作邊界、強化技術協同達成廣泛共識。"
     },
     {
       "id": "mkt:01a013e5-b45e-7aab-9073-79cce68f9085",
@@ -238,6 +404,14 @@
         "066570.KS"
       ],
       "text": "【Nvidia senior director Huang Madi, daughter of CEO Jensen Huang, visits LG Electronics robotics centre to discuss expanded AI infrastructure and robotics cooperation】Huang Madi, a senior director at Nvidia and daughter of CEO Jensen Huang, visited LG Electronics’ robotics R&D centre on Tuesday and met with LG executives to discuss expanding cooperation on AI infrastructure and robotics. Last week LG said it intends to use Nvidia’s robot platform to launch a bipedal next‑generation humanoid robot in Q1 2027."
+    },
+    {
+      "id": "5045494",
+      "time": "2026-08-18 16:02:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院安委辦通報近期道路交通典型事故 部署進一步加強道路交通安全工作】近日，國務院安委會辦公室通報近期重點地區道路交通典型事故，部署進一步加強道路交通安全工作，督促指導各地區、各有關單位採取針對性措施有效防控風險，堅決扭轉事故多發態勢。通報指出，7月以來，全國發生多起涉及客車、貨車和運送務農務工人員車輛的重大涉險事故，安全形勢嚴峻複雜，暴露出一些地區對交通安全重視程度不高、重點車輛安全管理存在漏洞、風險隱患排查整治不到位等突出問題。"
     },
     {
       "id": "5045493",
@@ -138577,125 +138751,6 @@
         "公司"
       ],
       "text": "【上汽大眾高管：很多品牌的車現在還會生鏽，防腐防鏽並不難，但考慮到成本可能做得不到位】“很多品牌的車現在還會出現生鏽情況，其實從技術上講，防腐防鏽並不難。但一些品牌考慮到成本，可能做得不到位。上汽大眾ID.ERA 5S採用了30%的熱成型鋼，把防腐工作做到位了。”8月11日，上汽大眾汽車有限公司銷售與市場執行副總經理、上海上汽大眾汽車銷售有限公司總經理傅強，在上汽大眾ID.ERA 5S產品日釋出會上談到了當下造車品控的問題。在釋出會上，有現場嘉賓進一步透露，個別車型白車身熱成型鋼的含量已低到了18%。“很多汽車品牌會宣傳彩電冰箱大沙發，但是在看不見的地方下功夫也很重要。”上汽大眾汽車有限公司大眾品牌營銷事業執行總監李俊說。傅強表示，在行業價格競爭加劇、控本壓力下，不少車型可能會在車身材料、耐久防護這類消費者難以直觀感知的環節壓縮投入，但是在家轎市場，安全是最為重要的基礎。（每經）"
-    },
-    {
-      "id": "mkt:019fefdf-62df-7aab-8fec-dd1719796385",
-      "time": "2026-08-11 16:10:22",
-      "tags": [
-        "MKT News",
-        "NIO.O",
-        "Impact bullish",
-        "XPEV.O",
-        "LI.O"
-      ],
-      "text": "【CPCA: July NEV retail penetration in China's passenger-car market 65.1%】CPCA: July retail penetration of new energy vehicles (NEVs) in China's passenger-car market was 65.1%, up 11.6ppt YoY and 2.1ppt MoM. NEV penetration by segment: independent domestic brands 83.8%, luxury brands 30.9%, mainstream joint ventures 13.7%. By domestic NEV retail share: independent domestic brands 64.6% (down 5.3ppt YoY), mainstream joint ventures 4.5% (up 0.9ppt YoY), new-energy entrants 26.8%; Leapmotor, NIO and other entrants lifted the entrants' share by 5.4ppt YoY."
-    },
-    {
-      "id": "te:markets:574385",
-      "time": "2026-08-11 16:10:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Falls by 1.44% — Today's Agricultural commodities market is characterized by modest daily movements, with Rice standing out as the frontrunner with a -1.44% decrease."
-    },
-    {
-      "id": "5035362",
-      "time": "2026-08-11 16:10:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國悄然重組情報機構】據德國《世界報》網站8月10日報道，過去幾個月裡，德國政府出人意料地悄然推進了情報機構的重組。相關法案將於8月12日提交內閣批准。報道稱，該法案的核心意圖是，將德國聯邦情報局這個迄今只負責收集並向德國政府提供情報的機構，打造成戰後德國前所未有的活躍情報機構，使之發揮與歐洲友邦情報機構類似的作用。友邦的情報機構正密切關注這一變革，並對此表示歡迎。（參考訊息）"
-    },
-    {
-      "id": "mkt:019fefde-aaa2-7aab-8fec-d6908f0e6bf1",
-      "time": "2026-08-11 16:09:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "CPCA: Manufacturer wholesale NEV penetration in July 64.2%, up 11 percentage points versus July 2025. By segment: domestic brands 73.6%; luxury brands 57.1%; mainstream joint-venture brands 17.1%."
-    },
-    {
-      "id": "5035361",
-      "time": "2026-08-11 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.098%，恒生科技指數跌1.932%】比亞迪電子跌3.941%，吉利汽車跌4.261%，蔚來-SW跌4.426%，洛陽鉬業跌5.506%，紫金礦業跌5.751%，智譜跌5.910%，老鋪黃金跌8.342%。"
-    },
-    {
-      "id": "mkt:019fefde-075e-7aab-8fec-cf17330a0ffa",
-      "time": "2026-08-11 16:08:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "02899.HK"
-      ],
-      "text": "Hong Kong stocks closed lower: Hang Seng Index down 1.1%, Hang Seng Tech Index down 1.93%. Non-ferrous metals sector underperformed; Zijin Mining (02899.HK) fell 5.8%."
-    },
-    {
-      "id": "5035360",
-      "time": "2026-08-11 16:08:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Hims & Hers Health股價盤前下跌7.3%，此前該公司公佈第二季度虧損幅度超出市場預期。"
-    },
-    {
-      "id": "5035359",
-      "time": "2026-08-11 16:08:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase Global 向英國專業投資者開放衍生品交易許可權。"
-    },
-    {
-      "id": "5035358",
-      "time": "2026-08-11 16:08:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 剛果（金）埃博拉確診死亡病例已達 2011 例。衛生官員稱此次疫情為有記錄以來傳播速度最快的一次疫情，這一數字是又一個嚴峻的節點。"
-    },
-    {
-      "id": "5035357",
-      "time": "2026-08-11 16:08:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中郵科技：核心技術人員徐玲退休離任 不影響公司研發實力】中郵科技公告稱，核心技術人員徐玲因達到法定退休年齡，近期辦理退休離任手續，不再擔任公司任何職務。截至公告披露日，徐玲間接持有公司股份92,971股，佔總股本的0.068%。其任職期間成果屬公司，且嚴格遵守保密和競業限制協議。公司稱已構建完備研發體系，徐玲原承擔專案已由團隊承接，其離任不會對公司整體研發實力及持續創新能力產生重大不利影響。"
-    },
-    {
-      "id": "te:markets:574384",
-      "time": "2026-08-11 16:07:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 24.92 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 10.81%, and in the last 12 months, it increased 57.42%."
-    },
-    {
-      "id": "5035356",
-      "time": "2026-08-11 16:07:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【高市早苗送禮反被澳總理侮辱？日方回應曝光】據澳大利亞SBS電視臺等澳媒報道，今年7月初，澳大利亞總理阿爾巴尼斯在節目中的一段講話被指侮辱日本首相高市早苗。而澳媒8月10日披露了日本政府對此事的正式回應：淡化處理。 報道稱，當時在一檔播客節目中，阿爾巴尼斯談及高市早苗5月訪澳時贈送給他的高檔哈密瓜，主持人尼基·奧斯本詢問日方如何將水果帶過澳大利亞海關，問道：“她是（將哈密瓜）走私進來的嗎？”阿爾巴尼斯回答“我不知道”，並稱高市當時“帶了兩個哈密瓜”，同時模仿主持人的手勢在胸前比劃…… 阿爾巴尼斯此番肢體動作和言論被一些人解讀為低俗玩笑。澳大利亞反對黨自由黨領導人安格斯·泰勒要求阿爾巴尼斯為此道歉，稱“這些言論具有侮辱性，總理應該親自道歉”。自由黨副黨魁簡·休姆也批評上述言論“粗俗”和“不恰當”。 阿爾巴尼斯的發言人則表示，外界對澳總理相關手勢的解讀“是不正確的”。 據澳大利亞新聞集團旗下網站news.com.au報道，日本前駐澳大利亞大使山上信吾撰文批評阿爾巴尼斯，稱這不是政治問題，而是“禮節、外交禮儀和相互尊重的問題”。他寫道：“我認為，無論是在澳大利亞、日本，還是其他任何地方，你都不應該拿朋友精心準備並友好贈送的禮物開玩笑。”山上還稱，皇冠哈密瓜是日本珍貴的水果，並經過特殊溫室精心培育。（環球時報）"
     }
   ]
 }
