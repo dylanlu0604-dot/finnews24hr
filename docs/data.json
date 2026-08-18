@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 09:17:04",
-  "count": 15197,
+  "updated": "2026-08-18 09:21:01",
+  "count": 15195,
   "items": [
+    {
+      "id": "mkt:01a01272-a534-7aab-906b-f873a622aeb9",
+      "time": "2026-08-18 09:18:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Hengqin port marks six years; cross-border travellers top 110 mln】Zhuhai border inspection’s Hengqin checkpoint said that from its opening on Aug 18, 2020 through Aug 17, 2026 it processed more than 110 mln cross-border passengers and about 13 mln vehicle trips. Annual average growth rates were 37.5% for people and 35.1% for vehicles. Hengqin has become one of the busiest cross-border channels in the Guangdong–Hong Kong–Macao Greater Bay Area."
+    },
+    {
+      "id": "5044953",
+      "time": "2026-08-18 09:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新橫琴口岸啟用六週年 出入境旅客超1.1億人次】今天（18日），新橫琴口岸迎來啟用六週年。據珠海邊檢總站橫琴邊檢站統計，自2020年8月18日開通至2026年8月17日，橫琴邊檢站累計查驗出入境人員超1.1億人次，車輛超1300萬輛次，人員、車輛年均增長率分別達37.5%、35.1%，橫琴口岸已成為粵港澳大灣區最繁忙的跨境通道之一。"
+    },
     {
       "id": "mkt:01a01270-f434-7aab-906b-f1a0c55bb13f",
       "time": "2026-08-18 09:16:27",
@@ -139240,39 +139256,6 @@
         "06693.HK"
       ],
       "text": "Hong Kong stocks opened higher: Hang Seng Index +0.24%, Hang Seng Tech +0.27%. Gold miners led gains at the open; Zijin Gold International (02259.HK) +3.13%, Chifeng Gold (06693.HK) +2.55%."
-    },
-    {
-      "id": "5034806",
-      "time": "2026-08-11 09:19:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南自貿港首單油田裝備保稅維修業務正式落地】據海南日報，日前，海南龍盤油田科技有限公司承接的境外油田工業裝置配套柴油發動機維修業務，在海口海關所屬椰城海關完成保稅維修手冊設立及進口申報全流程手續。這標誌著海南自貿港首單油田裝備保稅維修業務正式落地，為封關後高階裝備全球維修產業拓展注入新動能。"
-    },
-    {
-      "id": "5034805",
-      "time": "2026-08-11 09:19:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【伊朗外交部發言人：美國對制裁“病態依賴”】伊朗外交部發言人巴加埃10日在社交媒體發文說，美國財政部長貝森特鼓吹透過經濟制裁“扼殺”伊朗，凸顯了美國對制裁的“病態依賴”。 巴加埃表示，每當美國無力推動外交斡旋時便訴諸制裁，若制裁未能奏效，便進一步加大制裁力度。“這已不只是一種‘政策’，而是形成了一種‘習慣’，制裁成‘癮’讓美方喪失了自身的思考。” 巴加埃還說，伊朗不會為這些言論所束縛。若美方繼續沉湎於這種“惡習”，將扼殺其擺脫這場由其一手製造的危機的機會。"
-    },
-    {
-      "id": "5034804",
-      "time": "2026-08-11 09:18:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國官員：對個股槓桿ETF的投資已經減少。"
-    },
-    {
-      "id": "mkt:019fee65-328e-7aab-8fe3-3313c308514a",
-      "time": "2026-08-11 09:17:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian Prime Minister Albanese said he agreed to strengthen trade and investment ties between Australia and Vietnam."
     }
   ]
 }
