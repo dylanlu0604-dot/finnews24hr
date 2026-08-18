@@ -1,7 +1,48 @@
 {
   "date": "2026-08-19",
-  "count": 350,
+  "count": 354,
   "items": [
+    {
+      "id": "te:economy:576243",
+      "time": "2026-08-19 06:59:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Producer Price Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand PPI Output Prices Rise More than Expected — Producer output prices in New Zealand increased 1.6% quarter-on-quarter in the June quarter of 2026, exceeding both the previous quarter’s 0.8% rise and market expectations of a 0.8% increase. It marked the fastest pace since the first quarter of 2025, boosted mainly by three sectors, with the largest contributions coming from electricity and gas supply (11.0%), dairy product manufacturing (3.9%), and road transport (8.4%)."
+    },
+    {
+      "id": "5046542",
+      "time": "2026-08-19 06:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。"
+    },
+    {
+      "id": "5046541",
+      "time": "2026-08-19 06:56:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓媒：美韓聯合軍演日程預計將縮減一半。"
+    },
+    {
+      "id": "mkt:01a01717-4ea1-7aab-9083-7224425a4089",
+      "time": "2026-08-19 06:56:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved."
+    },
     {
       "id": "5046540",
       "time": "2026-08-19 06:55:51",

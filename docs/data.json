@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-19 06:56:41",
-  "count": 15115,
+  "updated": "2026-08-19 07:01:43",
+  "count": 15108,
   "items": [
+    {
+      "id": "te:economy:576243",
+      "time": "2026-08-19 06:59:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Producer Price Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand PPI Output Prices Rise More than Expected — Producer output prices in New Zealand increased 1.6% quarter-on-quarter in the June quarter of 2026, exceeding both the previous quarter’s 0.8% rise and market expectations of a 0.8% increase. It marked the fastest pace since the first quarter of 2025, boosted mainly by three sectors, with the largest contributions coming from electricity and gas supply (11.0%), dairy product manufacturing (3.9%), and road transport (8.4%)."
+    },
+    {
+      "id": "5046542",
+      "time": "2026-08-19 06:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。"
+    },
+    {
+      "id": "5046541",
+      "time": "2026-08-19 06:56:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓媒：美韓聯合軍演日程預計將縮減一半。"
+    },
+    {
+      "id": "mkt:01a01717-4ea1-7aab-9083-7224425a4089",
+      "time": "2026-08-19 06:56:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved."
+    },
     {
       "id": "5046540",
       "time": "2026-08-19 06:55:51",
@@ -138476,118 +138517,6 @@
         "其他"
       ],
       "text": "【生物醫藥賽道迎來機構扎堆調研 商業化與全球化進展成關注重點】資料顯示，8月1日至11日，生物醫藥行業獲機構調研熱度高漲，獲調研家數在全部申萬一級行業中排名第一，百濟神州、澤璟製藥、九洲藥業等11家公司受到機構青睞。從調研內容看，公司管線的研發和商業化進展、出海的最新規劃和BD（商務拓展）交易動態，是機構關注的重點。中金公司認為，創新藥產業趨勢明確，震盪後仍具配置價值。中國創新藥BD交易維持較高景氣，交易模式由單品License-out逐步向多管線合作、共同開發及NewCo等形式拓展，臨床資料質量與全球競爭力不斷獲得驗證。隨著國內外醫藥投融資回暖，研發投入有望進一步增加，逐步向CXO（醫藥研發生產外包服務）、科研服務和製藥供應鏈傳導。創新藥與CXO仍是全年重點方向。（上海證券報）"
-    },
-    {
-      "id": "mkt:019ff30f-1251-7aab-8ffb-d180f6525385",
-      "time": "2026-08-12 07:01:18",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Westpac: RBA guidance has effectively cooled rate-hike expectations】Westpac chief economist Luci Ellis said the RBA's decision to hold rates met expectations but its guidance — \"only prepared to raise rates if upside inflation risks materialise\", firmer than May's \"if necessary\" — has effectively lowered market odds of further hikes. Westpac now expects rates to remain on hold through mid‑next year, citing inflation and labour‑market data running below the RBA's May forecasts. The bank describes the move as a \"hawkish pause\" rather than a loosening; a small chance of further hikes this year remains, conditional on energy-related cost pass-through or escalation in the Middle East."
-    },
-    {
-      "id": "5036442",
-      "time": "2026-08-12 07:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本8月路透短觀製造業景氣判斷指數 18，前值13。\n日本8月路透短觀非製造業景氣判斷指數 28，前值25。"
-    },
-    {
-      "id": "5036441",
-      "time": "2026-08-12 07:00:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國7月失業率 2.8%，預期2.7%，前值2.70%。"
-    },
-    {
-      "id": "mkt:019ff30e-03cb-7aab-8ffb-cacbd8e7256a",
-      "time": "2026-08-12 07:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan Refinitiv Tankan manufacturing business conditions index 18 in August, up from 13 previously."
-    },
-    {
-      "id": "mkt:019ff30e-018a-7aab-8ffb-c1099c529ca0",
-      "time": "2026-08-12 07:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea July unemployment rate 2.8% vs. 2.7% expected; previous 2.70%."
-    },
-    {
-      "id": "mkt:019ff30d-ff46-7aab-8ffb-b86bc79017e5",
-      "time": "2026-08-12 07:00:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan Aug Refinitiv Tankan non-manufacturing sentiment index 28, prior 25."
-    },
-    {
-      "id": "mkt:019ff30d-ded7-7aab-8ffb-a6c693a0f588",
-      "time": "2026-08-12 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Reuters-Tankan Manufacturing Index (Aug) | actual 18 | previous 13"
-    },
-    {
-      "id": "mkt:019ff30d-deec-7aab-8ffb-b0d9317d817f",
-      "time": "2026-08-12 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Reuters-Tankan Non-manufacturing Index (Aug) | actual 28 | previous 25"
-    },
-    {
-      "id": "mkt:019ff30d-dede-7aab-8ffb-afb060b5d84b",
-      "time": "2026-08-12 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Unemployment Rate (Jul) | actual 2.8% | consensus 2.7% | previous 2.70%"
-    },
-    {
-      "id": "5036440",
-      "time": "2026-08-12 06:59:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【下半年A股投資圖譜浮現：科技為矛、改善為盾，兩大核心主線成機構共識】進入下半年，A股市場在震盪磨底中加快尋找新的執行主線。多方調研獲悉，多家一線機構已形成明確共識：機構資金可依託基本面研究適度左側佈局，普通投資者在右側訊號出現時可進一步提高風險偏好；在配置方向上，應由單一賽道抱團轉向科技成長、基本面改善與高股息資產的均衡組合。AI產業趨勢延續、政策支援持續加碼以及資本市場雙向開放提速，將為下半年結構性行情提供支撐，但海外貨幣政策、地緣局勢等不確定因素仍需警惕。（中證報）"
-    },
-    {
-      "id": "te:markets:574524",
-      "time": "2026-08-12 06:57:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Edges Higher in Morning Trade — New Zealand's stocks rose 28 points, or 0.2%, to 13,889 in Wednesday morning trade, after retreating in the previous session, mainly boosted by consumer discretionary, consumer staples, and utilities. However, rising oil prices amid uncertainty over the reopening of the Strait of Hormuz capped the gain, raising concerns over inflation and also raising questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Traders also awaited the release of the RBNZ's business inflation expectations for Q3, due on Thursday, after accelerating slightly in Q2. Among the early gainers were A2 Milk (1.2%), Infratil (0.9%), Westpac Banking Corp. (0.9%), Channel Infrastructure (0.6%), EBOS Group (0.5%), and F&C Investment (0.4%)."
     }
   ]
 }
