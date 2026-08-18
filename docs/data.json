@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-19 02:38:12",
-  "count": 15094,
+  "updated": "2026-08-19 02:42:02",
+  "count": 15096,
   "items": [
+    {
+      "id": "mkt:01a0162c-d0b8-7aab-9080-a794bb6fe418",
+      "time": "2026-08-19 02:40:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Criminal Court said its position is firm and unwavering and that it resolutely supports its staff."
+    },
+    {
+      "id": "mkt:01a0162c-7de7-7aab-9080-9bb3fd231de8",
+      "time": "2026-08-19 02:40:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Criminal Court said US measures targeting judges, prosecutors and staff carrying out ICC duties undermine the rule of law."
+    },
+    {
+      "id": "5046419",
+      "time": "2026-08-19 02:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士：特朗普與卡尼預計將於週二再次會談。"
+    },
+    {
+      "id": "5046418",
+      "time": "2026-08-19 02:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國週二淡化了與加拿大達成貿易協議的預期。"
+    },
+    {
+      "id": "mkt:01a0162a-6402-7aab-9080-93c089c2bb95",
+      "time": "2026-08-19 02:37:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bolivia's congress passed a censure motion against the economy minister, forcing his resignation."
+    },
     {
       "id": "5046417",
       "time": "2026-08-19 02:37:23",
@@ -138340,39 +138380,6 @@
         "市場"
       ],
       "text": "布倫特原油期貨結算價報每桶88.91美元，上漲1.19美元，漲幅1.36%。"
-    },
-    {
-      "id": "mkt:019ff221-19e2-7aab-8ff9-27637e3e82c6",
-      "time": "2026-08-12 02:41:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night-session most-active contracts settle】At the 02:30 night-session close, Shanghai gold most-active contract fell 0.28% to 950 yuan/gram; Shanghai silver most-active contract fell 0.42% to 15,795 yuan/kg; SC crude oil most-active contract fell 0.25% to 549 yuan/barrel."
-    },
-    {
-      "id": "mkt:019ff221-0ca1-7aab-8ff9-1ef6921f58fe",
-      "time": "2026-08-12 02:41:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 0.58% to 947.2 yuan/gram in the Aug. 11 (Tue) night session; Silver T+D fell 0.92% to 15,701.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019ff21e-9d19-7aab-8ff9-1101ee8d94a4",
-      "time": "2026-08-12 02:38:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Hungary president-elect Andras Boka pledges to rebuild ties with international allies】In a speech after a parliamentary vote on the 11th, president-elect Andras Boka said rebuilding partnerships with international allies will be a key task during his term."
     }
   ]
 }

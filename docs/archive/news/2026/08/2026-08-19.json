@@ -1,7 +1,47 @@
 {
   "date": "2026-08-19",
-  "count": 124,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:01a0162c-d0b8-7aab-9080-a794bb6fe418",
+      "time": "2026-08-19 02:40:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Criminal Court said its position is firm and unwavering and that it resolutely supports its staff."
+    },
+    {
+      "id": "mkt:01a0162c-7de7-7aab-9080-9bb3fd231de8",
+      "time": "2026-08-19 02:40:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Criminal Court said US measures targeting judges, prosecutors and staff carrying out ICC duties undermine the rule of law."
+    },
+    {
+      "id": "5046419",
+      "time": "2026-08-19 02:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士：特朗普與卡尼預計將於週二再次會談。"
+    },
+    {
+      "id": "5046418",
+      "time": "2026-08-19 02:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國週二淡化了與加拿大達成貿易協議的預期。"
+    },
+    {
+      "id": "mkt:01a0162a-6402-7aab-9080-93c089c2bb95",
+      "time": "2026-08-19 02:37:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bolivia's congress passed a censure motion against the economy minister, forcing his resignation."
+    },
     {
       "id": "5046417",
       "time": "2026-08-19 02:37:23",
