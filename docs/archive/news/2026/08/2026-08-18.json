@@ -1,7 +1,48 @@
 {
   "date": "2026-08-18",
-  "count": 2227,
+  "count": 2231,
   "items": [
+    {
+      "id": "te:economy:576149",
+      "time": "2026-08-18 20:43:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Export Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Export Prices Fall at Fastest Pace Since 2023 — US export prices fell 1.3% month-over-month in July 2026, reversing a upwardly revised 0.7% decline in May, contrary to expectations for a 0.2% increase. It marked the second consecutive monthly drop and the largest monthly decline since May 2023, driven by a 1.5% fall in nonagricultural export prices, as lower prices for industrial supplies and materials (-4%), driven by lower prices for fuel, nonferrous metals, and chemicals, outweighed gains in capital goods (0.5%), consumer goods, excluding automotives (0.2%), and automotive products (0.7%). The latter marks its the largest monthly increase since April 2025. Meanwhile, agricultural export prices rose 1%, extending gains for a seventh straight month. On an annual basis, US export prices increased 8.2% in July."
+    },
+    {
+      "id": "5046096",
+      "time": "2026-08-18 20:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【VE寵物凍幹中國內地代理商回應“試吃裝現活蟲”：初判是儲運環節包裝破損造成】Vital Essentials（簡稱VE）凍幹試吃裝內出現活蟲一事，引發養寵人士關注。8月18日下午，VE中國內地代理負責人宮先生獨家回應，已抽檢同批次產品，未發現生蟲現象。初步判定是包裝破損、漏氣造成。宮先生稱，目前收到4名消費者反饋活蟲問題，涉事產品均生產於2025年7月。工作人員進行自查，抽檢國內倉庫同批次共35包產品，並未發現生蟲現象；同時美方工廠對出廠留存樣品完成核查，同樣未檢出生蟲問題。結合凍乾產品生產工藝，基本排除產品出廠自帶蟲卵生蟲的可能性。（澎湃）"
+    },
+    {
+      "id": "te:economy:576144",
+      "time": "2026-08-18 20:40:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Housing Starts",
+        "Importance 3"
+      ],
+      "text": "US Housing Starts Drop More than Expected — Housing starts in the US dropped by 12.4% from the previous month to a seasonally adjusted annualized rate of 1.239 units in July of 2026. The result was firmly below market expectations of a softer drop to 1.35 million units, not far from the six-year low of 1.182 million from two months prior. Starts sank by 15.6% in multi-unit houses, while they dropped by 9.9% in single-unit housing. Among different geographical locations, units sank in the Midwest, (27.6% to 173 thousand), South (-12.6% to 645 thousand), and West (-13.8% to 149 thousand). In turn, starts were higher in the Northeast (17.1% to 164 thousand)."
+    },
+    {
+      "id": "5046095",
+      "time": "2026-08-18 20:39:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金螳螂：股票交易異常波動 提示炒作風險】金螳螂公告稱，公司股票於2026年8月14日、8月17日、8月18日連續三個交易日收盤價格漲幅偏離值累計超20%，屬於交易異常波動。2026年8月12日至18日，公司股票連續五個交易日累計漲幅達57.93%，存在市場情緒過熱、非理性炒作風險。公司不從事商業航天、資料中心算力運營、半導體晶片相關核心產業，相關配套專案營收佔比不足1%，對業績無重大影響。2025年營收同比降5.58%，歸母淨利潤同比降18.42%；2026年一季度營收同比降14.09%，歸母淨利潤同比降17.73%，經營基本面未發生實質性改善。"
+    },
     {
       "id": "5046094",
       "time": "2026-08-18 20:39:48",
