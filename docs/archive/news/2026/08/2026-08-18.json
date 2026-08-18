@@ -1,7 +1,75 @@
 {
   "date": "2026-08-18",
-  "count": 1179,
+  "count": 1186,
   "items": [
+    {
+      "id": "5045378",
+      "time": "2026-08-18 14:48:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素推遲與土耳其股票相關的指數調整。"
+    },
+    {
+      "id": "5045377",
+      "time": "2026-08-18 14:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本考慮為油輪再保險提供支援。"
+    },
+    {
+      "id": "te:markets:576034",
+      "time": "2026-08-18 14:47:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares End Lower — The benchmark KOSPI fell 1.55% to close at 6,870 on Tuesday, snapping a five-day rally, as fading hopes for a US-Iran deal prompted profit-taking following a sharp semiconductor-led rally. Foreign investors remained net buyers of Korean equities, while retail investors and institutions sold, suggesting the pullback was driven more by profit-taking than a broad retreat from Korean assets. Samsung Electronics slipped 2.00%, along with notable losses in SK Square (-2.17%), Hyundai Motor (-4.42%), LG Energy Solution (-5.01%), Hanwha Aerospace (-1.29%), Kia Corporation (-3.39%), HD Hyundai Heavy Industries (-4.12%), and Doosan Enerbility (-5.57%). Additionally, renewed uncertainty over the US-Iran agreement pushed oil prices higher and revived inflation concerns, while elevated Treasury yields added to pressure on global risk appetite. Ongoing US-Korea trade negotiations over the planned US$200 billion investment commitment also remained a source of uncertainty for Korean exporters."
+    },
+    {
+      "id": "5045376",
+      "time": "2026-08-18 14:46:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視板塊持續走弱 北京文化觸及跌停】午後影視板塊持續走弱，北京文化觸及跌停，中廣天擇、奧飛娛樂、博納影業、華智數媒、華策影視等跟跌。"
+    },
+    {
+      "id": "5045375",
+      "time": "2026-08-18 14:46:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的集團在重慶成立數智樓宇裝置公司】人民財訊8月18日電，企查查APP顯示，近日，重慶美的數智樓宇裝置有限公司成立，法定代表人為李凱，經營範圍包含：製冷、空調裝置銷售；家用電器銷售；家用電器零配件銷售；機械電氣裝置銷售等。企查查股權穿透顯示，該公司由美的集團旗下海南美的樓宇科技有限公司及佛山市美的空調工業投資有限公司共同持股。"
+    },
+    {
+      "id": "te:markets:576032",
+      "time": "2026-08-18 14:45:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Muted as CSL Rally Counter Bank Losses — Australia’s ASX 200 closed nearly flat at 9,070 on Tuesday, halting a four-day slide after hitting a two-week low. Bargain hunters stepped in, while sentiment steadied as August consumer confidence improved, with mortgage holders less anxious about further rate hikes. Meanwhile, U.S. stock futures softened amid stalled U.S.–Iran peace talks. In China, July data showed slowing momentum with weaker spending and rising unemployment in Australia's top trading partner. Gains in healthcare, manufacturing, and consumer durables were offset by weakness in tech, consumer non-durables, and commercial services. BHP rose 3% after beating profit forecasts and declaring its highest dividend in four years. CSL surged almost 18% on strong 2027 growth guidance, its best session since 2001. Energy stocks Woodside (1.1%) and Santos (1.2%) gained on firmer oil prices. In contrast, the big four banks slipped 0.3%–1.3% after reporting sharp declines in home-loan applications following May’s tax changes."
+    },
+    {
+      "id": "mkt:01a0139d-a58e-7aab-9071-7bcf36fd5536",
+      "time": "2026-08-18 14:44:53",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "EURGBP",
+        "Impact bullish"
+      ],
+      "text": "【Pound slips after UK jobs data】UK jobs data: unemployment unexpectedly unchanged at 4.9% (vs 4.8% expected); employment fell in the three months to June; three-month average pay excluding bonuses rose 3.5% (vs 3.4% expected). Aberdeen Group strategist Felix Feather said the labour market has been easing for some time, supporting the case for the Bank of England to keep policy rates unchanged for the remainder of the year. After the release, GBP/USD dipped 0.1% to 1.3519 and EUR/GBP rose 0.1% to 0.8554."
+    },
     {
       "id": "5045374",
       "time": "2026-08-18 14:43:12",
