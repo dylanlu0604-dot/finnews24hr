@@ -1,7 +1,28 @@
 {
   "date": "2026-08-19",
-  "count": 235,
+  "count": 237,
   "items": [
+    {
+      "id": "mkt:01a0168c-2e6d-7aab-9081-f319ecad0cd0",
+      "time": "2026-08-19 04:24:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister's Office said Syria, by allowing Turkish forces to deploy to an airbase near Aleppo, had \"come close\" to breaking the security status quo with Israel."
+    },
+    {
+      "id": "5046483",
+      "time": "2026-08-19 04:21:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4390美元/盎司，日內跌1.88%。"
+    },
     {
       "id": "5046482",
       "time": "2026-08-19 04:20:52",
