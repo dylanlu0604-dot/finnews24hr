@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-19 03:35:12",
-  "count": 15102,
+  "updated": "2026-08-19 03:39:09",
+  "count": 15106,
   "items": [
+    {
+      "id": "5046458",
+      "time": "2026-08-19 03:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a01661-4127-7aab-9081-76b582c0029b",
+      "time": "2026-08-19 03:37:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%)."
+    },
+    {
+      "id": "5046457",
+      "time": "2026-08-19 03:37:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。"
+    },
+    {
+      "id": "mkt:01a0165e-a0f1-7aab-9081-6998aca1fb76",
+      "time": "2026-08-19 03:34:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August."
+    },
     {
       "id": "mkt:01a0165e-09f2-7aab-9081-61808d57a3c4",
       "time": "2026-08-19 03:34:16",
