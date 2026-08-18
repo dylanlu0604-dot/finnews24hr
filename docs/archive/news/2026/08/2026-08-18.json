@@ -1,7 +1,78 @@
 {
   "date": "2026-08-18",
-  "count": 2599,
+  "count": 2606,
   "items": [
+    {
+      "id": "mkt:01a01572-b38b-7aab-907e-4d18eb4a4002",
+      "time": "2026-08-18 23:17:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Washington Post reports sources say the Pentagon is evaluating whether to withdraw U.S. forces from the Persian Gulf. The report says major U.S. overseas bases have been struck by Iran for months and sustained significant damage, creating an opening for the Pentagon to reconsider its regional force posture."
+    },
+    {
+      "id": "5046325",
+      "time": "2026-08-18 23:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國考慮戰爭結束後縮減海灣地區軍事部署規模。"
+    },
+    {
+      "id": "mkt:01a01570-c606-7aab-907e-429b17d5113d",
+      "time": "2026-08-18 23:15:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The Washington Post reports the US is considering reducing its military presence in the Gulf region once the war ends."
+    },
+    {
+      "id": "mkt:01a01570-87a5-7aab-907e-3db9bd0567e2",
+      "time": "2026-08-18 23:14:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Market sources say iron ore trader Radiant World has started layoffs as it faces mounting pressure."
+    },
+    {
+      "id": "mkt:01a01570-3a82-7aab-907e-375299333af3",
+      "time": "2026-08-18 23:14:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver fell 3% intraday to $63.80/oz. Spot gold dropped below $4,360/oz, down 1.28% on the day."
+    },
+    {
+      "id": "5046324",
+      "time": "2026-08-18 23:14:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報63.72美元/盎司。"
+    },
+    {
+      "id": "5046323",
+      "time": "2026-08-18 23:14:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌1.29%。"
+    },
     {
       "id": "5046322",
       "time": "2026-08-18 23:12:19",

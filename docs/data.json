@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-18 23:14:27",
-  "count": 15181,
+  "updated": "2026-08-18 23:18:24",
+  "count": 15184,
   "items": [
+    {
+      "id": "mkt:01a01572-b38b-7aab-907e-4d18eb4a4002",
+      "time": "2026-08-18 23:17:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Washington Post reports sources say the Pentagon is evaluating whether to withdraw U.S. forces from the Persian Gulf. The report says major U.S. overseas bases have been struck by Iran for months and sustained significant damage, creating an opening for the Pentagon to reconsider its regional force posture."
+    },
+    {
+      "id": "5046325",
+      "time": "2026-08-18 23:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國考慮戰爭結束後縮減海灣地區軍事部署規模。"
+    },
+    {
+      "id": "mkt:01a01570-c606-7aab-907e-429b17d5113d",
+      "time": "2026-08-18 23:15:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The Washington Post reports the US is considering reducing its military presence in the Gulf region once the war ends."
+    },
+    {
+      "id": "mkt:01a01570-87a5-7aab-907e-3db9bd0567e2",
+      "time": "2026-08-18 23:14:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Market sources say iron ore trader Radiant World has started layoffs as it faces mounting pressure."
+    },
+    {
+      "id": "mkt:01a01570-3a82-7aab-907e-375299333af3",
+      "time": "2026-08-18 23:14:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver fell 3% intraday to $63.80/oz. Spot gold dropped below $4,360/oz, down 1.28% on the day."
+    },
+    {
+      "id": "5046324",
+      "time": "2026-08-18 23:14:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報63.72美元/盎司。"
+    },
+    {
+      "id": "5046323",
+      "time": "2026-08-18 23:14:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌1.29%。"
+    },
     {
       "id": "5046322",
       "time": "2026-08-18 23:12:19",
@@ -139227,40 +139298,6 @@
         "其他"
       ],
       "text": "【南非西北省一礦區塌方致14人死亡】南非西北省警方11日釋出宣告說，勒斯滕堡附近一處礦區發生塌方事故，造成14名非法採礦人員死亡、8人受傷。"
-    },
-    {
-      "id": "5036191",
-      "time": "2026-08-11 23:17:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交大臣：已向以色列外長強調，必須停止約旦河西岸的暴力行為，並解除對加沙援助的封鎖。"
-    },
-    {
-      "id": "5036190",
-      "time": "2026-08-11 23:17:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門政府軍：胡塞武裝今日連續發動襲擊，動用了10枚導彈和4架無人機，目標為西海岸多處據點。"
-    },
-    {
-      "id": "5036189",
-      "time": "2026-08-11 23:15:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行維持2026年底結構性流動性赤字預測，為2.4-3.6萬億盧布。"
-    },
-    {
-      "id": "5036188",
-      "time": "2026-08-11 23:15:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行預計，2026年銀行在央行拍賣中的流動性需求將達到6-7.2萬億盧布。"
     }
   ]
 }
