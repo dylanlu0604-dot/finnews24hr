@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-19 05:17:00",
-  "count": 15120,
+  "updated": "2026-08-19 05:20:50",
+  "count": 15118,
   "items": [
+    {
+      "id": "mkt:01a016be-060b-7aab-9082-e941797db2d1",
+      "time": "2026-08-19 05:19:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil."
+    },
     {
       "id": "5046505",
       "time": "2026-08-19 05:15:28",
@@ -138592,33 +138606,6 @@
         "公司"
       ],
       "text": "CoreWeave 執行長：預計國際市場將成為主要增長驅動力。"
-    },
-    {
-      "id": "5036397",
-      "time": "2026-08-12 05:20:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦CFO：第四季度，企業及渠道客戶在升級計算、儲存與網路基礎設施方面的需求有所回暖。"
-    },
-    {
-      "id": "5036396",
-      "time": "2026-08-12 05:19:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦首席財務官：26 財年有 9 家客戶各自貢獻營收超 10 億美元，而 25 財年僅為 4 家。"
-    },
-    {
-      "id": "mkt:019ff2b0-fefb-7aab-8ffb-2dfd3f6150d9",
-      "time": "2026-08-12 05:18:33",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish",
-        "LMT.O"
-      ],
-      "text": "【US $185bn 'Golden Dome' space missile-defence program posts early progress】SpaceX and Northrop Grumman completed initial critical tests for the Trump-era $185 billion 'Golden Dome' space-based missile-defence program, including sensor-to-interceptor data links and spacecraft propulsion demonstrations, the US Space Force said. The project will enter a next phase to validate operation in the space environment, a Space Force admiral added. In April the Space Force awarded armed-satellite development contracts to 12 firms, including RTX, Anduril and Lockheed Martin; the government has invested $3.2 billion to date and future contract value could reach hundreds of billions of dollars."
     }
   ]
 }

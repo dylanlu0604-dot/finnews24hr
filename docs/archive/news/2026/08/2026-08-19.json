@@ -1,7 +1,21 @@
 {
   "date": "2026-08-19",
-  "count": 293,
+  "count": 294,
   "items": [
+    {
+      "id": "mkt:01a016be-060b-7aab-9082-e941797db2d1",
+      "time": "2026-08-19 05:19:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil."
+    },
     {
       "id": "5046505",
       "time": "2026-08-19 05:15:28",
