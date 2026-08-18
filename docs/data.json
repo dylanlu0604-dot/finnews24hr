@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-18 23:42:04",
-  "count": 15197,
+  "updated": "2026-08-18 23:46:02",
+  "count": 15193,
   "items": [
+    {
+      "id": "5046347",
+      "time": "2026-08-18 23:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。"
+    },
+    {
+      "id": "mkt:01a0158b-7dd7-7aab-907e-f5a66055a69c",
+      "time": "2026-08-18 23:44:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gaza sources say the death toll from an attack on Gaza port has risen to six."
+    },
+    {
+      "id": "mkt:01a0158b-44ff-7aab-907e-e90ddcef54ab",
+      "time": "2026-08-18 23:44:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas."
+    },
+    {
+      "id": "5046346",
+      "time": "2026-08-18 23:43:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）"
+    },
+    {
+      "id": "te:markets:576206",
+      "time": "2026-08-18 23:42:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations."
+    },
     {
       "id": "te:economy:576204",
       "time": "2026-08-18 23:41:30",
@@ -139345,91 +139392,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year."
-    },
-    {
-      "id": "5036211",
-      "time": "2026-08-11 23:45:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗人是善於耍花招的談判者，他們在談判中同意某些事項，隨後又在媒體面前予以否認。"
-    },
-    {
-      "id": "5036210",
-      "time": "2026-08-11 23:44:56",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人：我們正對伊朗實施最大施壓行動，以切斷其為活動提供資金的渠道。"
-    },
-    {
-      "id": "5036209",
-      "time": "2026-08-11 23:44:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人：我們正與財政部採取措施，繼續對伊朗實施極限施壓行動。"
-    },
-    {
-      "id": "mkt:019ff17e-b840-7aab-8ff5-e6ad851ad082",
-      "time": "2026-08-11 23:44:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran."
-    },
-    {
-      "id": "5036208",
-      "time": "2026-08-11 23:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。"
-    },
-    {
-      "id": "mkt:019ff17e-13e1-7aab-8ff5-d80cb4ecbbcf",
-      "time": "2026-08-11 23:43:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue."
-    },
-    {
-      "id": "mkt:019ff17d-c83b-7aab-8ff5-d0f78a82f96f",
-      "time": "2026-08-11 23:42:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds."
-    },
-    {
-      "id": "5036207",
-      "time": "2026-08-11 23:42:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.06%，歐洲斯托克指數上漲0.29%，歐元區藍籌股上漲0.26%。英國富時100指數下跌0.17%，德國DAX指數上漲0.27%，法國CAC 40指數下跌0.13%，西班牙IBEX指數上漲0.2%。"
-    },
-    {
-      "id": "mkt:019ff17d-16f6-7aab-8ff5-c9e98518528f",
-      "time": "2026-08-11 23:42:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said New York City must immediately stop levying a second-home tax."
     }
   ]
 }

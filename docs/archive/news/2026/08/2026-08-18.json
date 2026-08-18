@@ -1,7 +1,54 @@
 {
   "date": "2026-08-18",
-  "count": 2649,
+  "count": 2654,
   "items": [
+    {
+      "id": "5046347",
+      "time": "2026-08-18 23:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。"
+    },
+    {
+      "id": "mkt:01a0158b-7dd7-7aab-907e-f5a66055a69c",
+      "time": "2026-08-18 23:44:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gaza sources say the death toll from an attack on Gaza port has risen to six."
+    },
+    {
+      "id": "mkt:01a0158b-44ff-7aab-907e-e90ddcef54ab",
+      "time": "2026-08-18 23:44:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas."
+    },
+    {
+      "id": "5046346",
+      "time": "2026-08-18 23:43:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）"
+    },
+    {
+      "id": "te:markets:576206",
+      "time": "2026-08-18 23:42:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations."
+    },
     {
       "id": "te:economy:576204",
       "time": "2026-08-18 23:41:30",
