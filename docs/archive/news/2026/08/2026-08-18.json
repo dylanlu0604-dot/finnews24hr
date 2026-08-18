@@ -1,7 +1,85 @@
 {
   "date": "2026-08-18",
-  "count": 2642,
+  "count": 2649,
   "items": [
+    {
+      "id": "te:economy:576204",
+      "time": "2026-08-18 23:41:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter."
+    },
+    {
+      "id": "mkt:01a01588-a7ee-7aab-907e-e1e1255e3432",
+      "time": "2026-08-18 23:41:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax: Putin said Russia and Myanmar are discussing construction of an oil refinery."
+    },
+    {
+      "id": "5046345",
+      "time": "2026-08-18 23:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京稱俄羅斯與緬甸已就煉油廠建設展開磋商。"
+    },
+    {
+      "id": "te:economy:576201",
+      "time": "2026-08-18 23:39:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Activity Growth Slows in June — Colombia’s leading economic index rose 3.51% year-on-year in June 2026, following an upwardly revised 4.24% increase in May. The index for tertiary activities rose 4.28%, while the index for secondary activities increased 3.21%. The index for primary activities edged up 0.58%."
+    },
+    {
+      "id": "mkt:01a01587-046d-7aab-907e-da66bed69d3c",
+      "time": "2026-08-18 23:39:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish",
+        "Euro STOXX 50"
+      ],
+      "text": "European equities closed mixed on Tuesday, Aug 18: Germany's DAX fell 238.91 points, or 0.91%, to 26,130.75; the UK's FTSE 100 rose 5.09 points, or 0.05%, to 10,725.39; France's CAC 40 fell 70.24 points, or 0.82%, to 8,509.36; the Euro STOXX 50 fell 61.60 points, or 0.94%, to 6,468.85; Spain's IBEX 35 fell 52.08 points, or 0.26%, to 19,929.82; Italy's FTSE MIB fell 554.98 points, or 1.04%, to 53,032.00."
+    },
+    {
+      "id": "mkt:01a01586-ec37-7aab-907e-d77e11cf83c7",
+      "time": "2026-08-18 23:39:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say Russia will reroute Kazakh oil exports from Ust-Luga to Novorossiysk to free up Baltic port capacity for additional Russian crude shipments."
+    },
+    {
+      "id": "5046344",
+      "time": "2026-08-18 23:38:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯將哈薩克的石油出口從烏斯季‑盧加港改至新羅西斯克港，以便透過波羅的海港口外運更多本國石油。"
+    },
     {
       "id": "mkt:01a01584-e995-7aab-907e-c9ca99165572",
       "time": "2026-08-18 23:37:07",

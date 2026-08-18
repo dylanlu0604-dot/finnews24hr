@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-18 23:38:12",
-  "count": 15201,
+  "updated": "2026-08-18 23:42:04",
+  "count": 15197,
   "items": [
+    {
+      "id": "te:economy:576204",
+      "time": "2026-08-18 23:41:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter."
+    },
+    {
+      "id": "mkt:01a01588-a7ee-7aab-907e-e1e1255e3432",
+      "time": "2026-08-18 23:41:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax: Putin said Russia and Myanmar are discussing construction of an oil refinery."
+    },
+    {
+      "id": "5046345",
+      "time": "2026-08-18 23:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京稱俄羅斯與緬甸已就煉油廠建設展開磋商。"
+    },
+    {
+      "id": "te:economy:576201",
+      "time": "2026-08-18 23:39:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Activity Growth Slows in June — Colombia’s leading economic index rose 3.51% year-on-year in June 2026, following an upwardly revised 4.24% increase in May. The index for tertiary activities rose 4.28%, while the index for secondary activities increased 3.21%. The index for primary activities edged up 0.58%."
+    },
+    {
+      "id": "mkt:01a01587-046d-7aab-907e-da66bed69d3c",
+      "time": "2026-08-18 23:39:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish",
+        "Euro STOXX 50"
+      ],
+      "text": "European equities closed mixed on Tuesday, Aug 18: Germany's DAX fell 238.91 points, or 0.91%, to 26,130.75; the UK's FTSE 100 rose 5.09 points, or 0.05%, to 10,725.39; France's CAC 40 fell 70.24 points, or 0.82%, to 8,509.36; the Euro STOXX 50 fell 61.60 points, or 0.94%, to 6,468.85; Spain's IBEX 35 fell 52.08 points, or 0.26%, to 19,929.82; Italy's FTSE MIB fell 554.98 points, or 1.04%, to 53,032.00."
+    },
+    {
+      "id": "mkt:01a01586-ec37-7aab-907e-d77e11cf83c7",
+      "time": "2026-08-18 23:39:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say Russia will reroute Kazakh oil exports from Ust-Luga to Novorossiysk to free up Baltic port capacity for additional Russian crude shipments."
+    },
+    {
+      "id": "5046344",
+      "time": "2026-08-18 23:38:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯將哈薩克的石油出口從烏斯季‑盧加港改至新羅西斯克港，以便透過波羅的海港口外運更多本國石油。"
+    },
     {
       "id": "mkt:01a01584-e995-7aab-907e-c9ca99165572",
       "time": "2026-08-18 23:37:07",
@@ -139352,107 +139430,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said New York City must immediately stop levying a second-home tax."
-    },
-    {
-      "id": "5036205",
-      "time": "2026-08-11 23:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普威脅將針對紐約市稅收採取聯邦層面行動】特朗普批評紐約市的非居民公寓稅以及擁堵收費政策，稱這類政策正促使居民與稅收流向佛羅里達、得克薩斯等州。特朗普警告，上述政策可能給紐約造成經濟與社會層面的損害。他表示，其政府正在研判聯邦政府是否擁有法律授權，介入並叫停這些政策。"
-    },
-    {
-      "id": "mkt:019ff17c-b287-7aab-8ff5-c625a0c4f36c",
-      "time": "2026-08-11 23:41:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China ice-making companies surge 62% in 2025; sector at seasonal production peak】As of Aug 2026 China had 42,900 ice-related companies. In 2025, 11,900 new firms registered, up 62.08% YoY and the highest annual total in a decade. Strong cooling and cold-chain preservation demand have pushed the industry into a production peak with many plants running at full capacity. In Jiashan, Zhejiang, an automated ice plant supplying East China supermarkets, convenience stores and new-tea chains commissioned a new line this year that produces ice spheres with roughly three-hour melt time and lifted daily capacity from 150 to 170 tonnes."
-    },
-    {
-      "id": "5036204",
-      "time": "2026-08-11 23:41:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正在研判聯邦政府是否具備法律許可權，阻止馬姆達尼推出的紐約市非居民公寓稅。"
-    },
-    {
-      "id": "mkt:019ff17b-eb79-7aab-8ff5-bbf9ab371b41",
-      "time": "2026-08-11 23:40:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he is investigating whether the federal government has the authority to block Mandani from imposing a 'second-home tax' in New York City."
-    },
-    {
-      "id": "5036203",
-      "time": "2026-08-11 23:40:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1367.11美元/盎司。"
-    },
-    {
-      "id": "5036202",
-      "time": "2026-08-11 23:40:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：紐約市公寓附加稅是一項危險的試驗。"
-    },
-    {
-      "id": "mkt:019ff17b-1a7d-7aab-8ff5-b4605093d771",
-      "time": "2026-08-11 23:40:04",
-      "tags": [
-        "MKT News",
-        "SLG.O",
-        "Impact bearish",
-        "EQR.O",
-        "VNO.O"
-      ],
-      "text": "President Trump said New York City's apartment tax is a dangerous experiment."
-    },
-    {
-      "id": "mkt:019ff17a-a8ea-7aab-8ff5-ac82a99e7598",
-      "time": "2026-08-11 23:39:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "Aug 11 (Tue) European close: Germany's DAX up 44.25 pts (+0.17%) at 26,399.32; UK's FTSE 100 down 17.90 pts (-0.16%) at 10,844.60; France's CAC 40 down 11.09 pts (-0.13%) at 8,714.94; Euro Stoxx 50 up 16.23 pts (+0.25%) at 6,551.85; Spain's IBEX 35 up 30.99 pts (+0.15%) at 20,213.89; Italy's FTSE MIB up 67.12 pts (+0.13%) at 53,731.00."
-    },
-    {
-      "id": "mkt:019ff17a-94cb-7aab-8ff5-a68ded00d705",
-      "time": "2026-08-11 23:39:30",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "Semafor reports U.S. Commerce Secretary Lutnick supports the idea of Intel conducting a secondary share offering."
-    },
-    {
-      "id": "5036201",
-      "time": "2026-08-11 23:39:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英特爾CEO陳立武尋求美國方面批准英特爾二次增發，美國商務部長盧特尼克曾認可英特爾二次增發這一構想。但美國政府 決定不參與英特爾本次二次增發。"
-    },
-    {
-      "id": "mkt:019ff17a-160f-7aab-8ff5-9a1b8937211a",
-      "time": "2026-08-11 23:38:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Semafor reports the U.S. government has decided not to participate in Intel's follow-on offering."
     }
   ]
 }
