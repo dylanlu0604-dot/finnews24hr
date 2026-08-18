@@ -1,7 +1,137 @@
 {
   "date": "2026-08-18",
-  "count": 2379,
+  "count": 2393,
   "items": [
+    {
+      "id": "5046190",
+      "time": "2026-08-18 21:36:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "挪威郵輪股價下跌約2%，此前瑞穗將該股評級下調至\"中性\"。"
+    },
+    {
+      "id": "te:markets:576171",
+      "time": "2026-08-18 21:36:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pull Back Further — US stocks were mostly lower on Tuesday, extending losses from the previous session as higher borrowing costs offset recent support from AI infrastructure companies. The S&P 500 fell 0.5%, the Nasdaq lost 1.6%, and the Dow eased 150 points. Long-term Treasury yields extended their surge to multi-year highs as inflation risks and surging bond issuance from AI companies raised different estimates on term premia. Inflationary concerns were magnified by more increases in energy prices as the US signaled a prolonged blockade on Iran tanker exports. AI companies were mostly lower, with Nvidia, Meta, Tesla, and Oracle dropping up to 3%. Credit-sensitive financial companies were also under pressure with Goldman Sachs and JPMorgan trading in the red. Meanwhile, Home Depot gained around 1% after beating earnings estimates despite high"
+    },
+    {
+      "id": "5046189",
+      "time": "2026-08-18 21:35:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "Amer Sports上調年度業績預測後，股價上漲約5%。"
+    },
+    {
+      "id": "5046188",
+      "time": "2026-08-18 21:35:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至8月18日，廣東省新增25款已完成備案的生成式人工智慧服務，累計已完成193款生成式人工智慧服務備案。"
+    },
+    {
+      "id": "5046187",
+      "time": "2026-08-18 21:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：哥倫比亞2026年財政赤字將接近GDP的7%。"
+    },
+    {
+      "id": "mkt:01a01514-8598-7aab-907c-12d33f861e1d",
+      "time": "2026-08-18 21:34:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch expects Colombia's fiscal deficit to approach 7% of GDP in 2026."
+    },
+    {
+      "id": "5046186",
+      "time": "2026-08-18 21:34:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【迪士尼旗下ABC援引第一修正案起訴聯邦通訊委員會】迪士尼旗下美國廣播公司（ABC）依據美國憲法第一修正案，對美國聯邦通訊委員會（FCC）提起訴訟，指控該政府機構針對本公司發起調查屬於報復性行動，起因是ABC播出了批評唐納德·特朗普總統的節目內容。 這家廣播電視網於週二向華盛頓哥倫比亞特區一家地區法院提交訴狀。 數月前，FCC以對ABC的多元、公平與包容工作存在關切為由，啟動對ABC一批廣播電臺牌照的提前續審程式。 而就在此次提前審查啟動前不久，ABC因旗下深夜檔節目主持人吉米·坎摩爾發表的言論再度遭遇政治層面的強烈反彈。 ABC在訴狀中請求FCC終止廣播牌照的提前續審流程。 截至發稿，美國聯邦通訊委員會尚未就該訴訟的置評請求作出回應。"
+    },
+    {
+      "id": "mkt:01a01514-2e9f-7aab-907c-0c1879b97cd4",
+      "time": "2026-08-18 21:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's foreign minister said the government will endeavor to provide the necessary conditions to process and securely store the materials."
+    },
+    {
+      "id": "5046185",
+      "time": "2026-08-18 21:33:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外長：將致力於提供必要條件，以處理這些材料並安全儲存。"
+    },
+    {
+      "id": "mkt:01a01513-f9f8-7aab-907c-04095d81203d",
+      "time": "2026-08-18 21:33:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Syria's foreign minister said Syria has the right to use nuclear energy for civilian and peaceful purposes."
+    },
+    {
+      "id": "5046184",
+      "time": "2026-08-18 21:33:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：目前沒有與伊朗伊斯蘭共和國開展任何會談或對話】美國總統特朗普在真相社交平臺發文：目前沒有與伊朗伊斯蘭共和國開展任何會談或對話，也沒有安排相關計劃。海上封鎖仍全面生效。霍爾木茲海峽保持通航正常。所有水雷均已清除或引爆。"
+    },
+    {
+      "id": "mkt:01a01513-c40e-7aab-907b-fb29d3726ddd",
+      "time": "2026-08-18 21:33:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "At the open on Tuesday, Aug. 18, the Dow Jones Industrial Average slipped 133.56 points, or 0.25%, to 53,326.22; the Nasdaq Composite fell 286.81 points, or 1.08%, to 26,358.10; the S&P 500 dropped 34.63 points, or 0.45%, to 7,710.76."
+    },
+    {
+      "id": "5046183",
+      "time": "2026-08-18 21:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外長：強調敘利亞有權為民事與和平目的使用核能。"
+    },
+    {
+      "id": "mkt:01a01513-839a-7aab-907b-f0eebb0cc196",
+      "time": "2026-08-18 21:33:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Spot gold slid nearly $20 intraday before quickly rebounding."
+    },
     {
       "id": "5046182",
       "time": "2026-08-18 21:32:42",
