@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:32:28_
-_本檔包含 2804 則快訊，約 604820 字_
+_更新時間：2026-08-19 05:52:01_
+_本檔包含 2809 則快訊，約 604537 字_
+
+---
+
+### 2026-08-17 22:54:34  #MKT News
+
+Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border.
+
+---
+
+### 2026-08-17 22:54:01  #其他
+
+市場訊息：沙烏地阿拉伯襲擊葉門邊境地區 。
+
+---
+
+### 2026-08-17 22:53:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border.
+
+---
+
+### 2026-08-17 22:53:31  #其他
+
+市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。
+
+---
+
+### 2026-08-17 22:53:09  #MKT News
+
+Panama Canal Authority recorded 10,623 vessel transits from October 2025 through July 2026, up 6.12% year-on-year.
+
+---
+
+### 2026-08-17 22:52:46  #MKT News
+
+Israel said it will address the disarmament of Hamas and public health and sanitation conditions in Gaza.
+
+---
+
+### 2026-08-17 22:52:43  #國際
+
+【以色列方面：加沙和平斡旋方將設立兩個工作組】以色列總理辦公室：以色列總理與‘和平委員會’開展了深入且富有建設性的磋商。雙方同意設立兩個工作組：第一個工作組將聚焦加沙地帶的解除武裝與非軍事化工作。以色列與‘和平委員會’均決心快速推進該程序，並要求在加沙地帶啟動任何重建工作之前完成此項工作。第二個工作組將處理加沙居民的環境衛生、潔淨水供應以及其他公共衛生問題 —— 這些問題同樣會對以色列居民造成影響。
+
+---
+
+### 2026-08-17 22:52:14  #MKT News
+
+Israel says Gaza peace mediators will form two working groups.
 
 ---
 
@@ -16869,23 +16917,5 @@ According to the Jerusalem Post, the Israel Defense Forces killed senior Hezboll
 ### 2026-08-16 13:38:18  #觀點
 
 【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。
-
----
-
-### 2026-08-16 13:38:00  #MKT News
-
-【2026 Wenchang International Aerospace Forum to run Aug. 24-26 in Hainan】The 2026 Wenchang International Aerospace Forum will be held Aug. 24-26 in Wenchang, Hainan, showcasing recent advances in Hainan’s aerospace industry. The forum aims to accelerate commercialization of reusable rockets, attract global aerospace resources, and scale rocket, satellite and data supply chains plus ‘aerospace+’ sectors to build a multi-layered aerospace ecosystem. Hainan says it will push key projects to rapidly develop high-density, high-reliability, low-cost commercial launch capacity to support ‘hundreds of rockets, thousands of satellites’ deployment.
-
----
-
-### 2026-08-16 13:37:45  #市場 #國際
-
-【多隻美股ETF加倉中國晶片股】多隻海外ETF聚焦中國晶片股，釋放出國際資本增配中國科技資產的積極訊號。近日，聚焦儲存晶片產業鏈的Roundhill Memory ETF（DRAM）調整持倉。截至8月14日收盤，A股儲存企業長鑫科技在該基金中的權重為4.52%，位列第六大重倉股。今年6月首次被納入基金的兆易創新，權重為1.16%。美國主動管理型ETF機構Tema ETFs近期宣佈，已將長鑫科技納入旗下聚焦儲存晶片行業的產品Tema記憶體ETF（DISK），截至8月14日收盤持倉比例為7.54%。（央視財經）
-
----
-
-### 2026-08-16 13:36:17  #國際
-
-【以部長稱每晚都應殺掉加沙數十人】以色列國家安全部長、極右翼政治人士本-格維爾在今天（8月16日）播出的一檔播客節目中表示，應該每晚在加沙定點清除30個、40個人。他表示，那裡有些人本不該活著，稱他們為“人”已經算慷慨了。本-格維爾說，有人說他“瘋了”，他承認這一點，但是“在中東你必須得瘋”。（CCTV國際時訊）
 
 ---

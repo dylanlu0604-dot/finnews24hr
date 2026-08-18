@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:32:28_
-_本檔包含 3088 則快訊，約 604692 字_
+_更新時間：2026-08-19 05:52:01_
+_本檔包含 3086 則快訊，約 604562 字_
+
+---
+
+### 2026-08-19 05:48:18  #其他
+
+中國地震臺網正式測定：08月19日05時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。
+
+---
+
+### 2026-08-19 05:48:12  #國際
+
+美國商務部長盧特尼克：美國商務部人口普查局剛剛釋出的分析報告顯示，2020年大選中有超過24000名非公民非法投票。這批人不只是完成選民登記，而是確確實實進行了非法投票。而這僅僅是開始。未來數週內，還有超過3200萬條選民記錄將接受分析，這些記錄很可能還會查出數萬名額外的非法投票者。
+
+---
+
+### 2026-08-19 05:41:36  #國際
+
+伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。
+
+---
+
+### 2026-08-19 05:40:20  #其他 #焦點
+
+中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-19 05:33:23  #公司
+
+【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”
+
+---
+
+### 2026-08-19 05:33:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'.
 
 ---
 
@@ -18591,53 +18627,5 @@ Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
 ### 2026-08-17 22:55:24  #國際
 
 【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。
-
----
-
-### 2026-08-17 22:54:34  #MKT News
-
-Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border.
-
----
-
-### 2026-08-17 22:54:01  #其他
-
-市場訊息：沙烏地阿拉伯襲擊葉門邊境地區 。
-
----
-
-### 2026-08-17 22:53:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border.
-
----
-
-### 2026-08-17 22:53:31  #其他
-
-市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。
-
----
-
-### 2026-08-17 22:53:09  #MKT News
-
-Panama Canal Authority recorded 10,623 vessel transits from October 2025 through July 2026, up 6.12% year-on-year.
-
----
-
-### 2026-08-17 22:52:46  #MKT News
-
-Israel said it will address the disarmament of Hamas and public health and sanitation conditions in Gaza.
-
----
-
-### 2026-08-17 22:52:43  #國際
-
-【以色列方面：加沙和平斡旋方將設立兩個工作組】以色列總理辦公室：以色列總理與‘和平委員會’開展了深入且富有建設性的磋商。雙方同意設立兩個工作組：第一個工作組將聚焦加沙地帶的解除武裝與非軍事化工作。以色列與‘和平委員會’均決心快速推進該程序，並要求在加沙地帶啟動任何重建工作之前完成此項工作。第二個工作組將處理加沙居民的環境衛生、潔淨水供應以及其他公共衛生問題 —— 這些問題同樣會對以色列居民造成影響。
-
----
-
-### 2026-08-17 22:52:14  #MKT News
-
-Israel says Gaza peace mediators will form two working groups.
 
 ---

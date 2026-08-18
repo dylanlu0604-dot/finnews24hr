@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:32:28_
-_本檔包含 3024 則快訊，約 604515 字_
+_更新時間：2026-08-19 05:52:01_
+_本檔包含 3013 則快訊，約 604350 字_
+
+---
+
+### 2026-08-13 09:43:33  #MKT News #Important #Market Regions #Greater China
+
+China A-share innovative drug sector bounced off intraday lows; Boji Medical rose over 12%, while Ruilian New Materials, Yuheng Pharmaceutical, Kanglong Huacheng, Baipusaisi and Puluo Pharmaceutical also advanced.
+
+---
+
+### 2026-08-13 09:43:31  #市場
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-08-13 09:43:21  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies Ahead of PPI Data — The dollar index steadied around 99.9 on Thursday after experiencing heightened volatility in the previous session, as investors looked ahead to July’s producer inflation report for further clues on recent price trends. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Meanwhile, investors continued to assess prospects for a deal to reopen the Strait of Hormuz, although escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement. Elsewhere, traders remained alert for potential intervention to support the yen as the currency approaches the 160 level against the dollar.
+
+---
+
+### 2026-08-13 09:42:47  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量949億元。
+
+---
+
+### 2026-08-13 09:42:32  #MKT News #Market Regions #Greater China #000300.SS #Impact bullish
+
+China A-share data-center power-supply stocks strengthened; Maigemit hit the daily trading limit, with Oulutong, Zhongheng Electric, Kstar, Aikesaibo and Ketai Power also higher.
 
 ---
 
@@ -18191,101 +18221,5 @@ FX Updates: Brazilian Real Drops by 1.06% — Top currency loser is Brazilian Re
 ### 2026-08-12 05:52:11  #其他
 
 【哥倫比亞強震死亡人數升至188人】哥倫比亞全國首府協會11日釋出最新統計顯示，10日在該國西部發生的7.4級強震已造成188人死亡、1677人受傷。（新華社）
-
----
-
-### 2026-08-12 05:51:36  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
-
-AWS: OpenAI's Daybreak Red and Daybreak Blue are now available to eligible customers on Amazon Bedrock.
-
----
-
-### 2026-08-12 05:50:44  #公司
-
-亞馬遜：OpenAI Daybreak 模型現已在亞馬遜 Bedrock 向符合條件的客戶開放。
-
----
-
-### 2026-08-12 05:49:56  #公司
-
-OpenAI向亞馬遜Redrock開放Daybreak許可權。
-
----
-
-### 2026-08-12 05:48:30  #其他
-
-【葉門胡塞武裝表示願與沙特對話 】葉門胡塞武裝11日表示，願與沙烏地阿拉伯保持對話，但同時稱，除非有關要求得到滿足，否則將繼續對沙特相關船隻以及沙特支援的軍事目標發動襲擊。胡塞武裝首席談判代表兼發言人穆罕默德·阿卜杜勒薩拉姆當天在社交媒體平臺發表宣告說，胡塞武裝談判代表團正就當前局勢與地區及國際各方保持聯絡並舉行會談，“我們沒有關閉對話和談判大門”。但宣告同時指責沙特拒絕談判並準備在葉門採取進一步軍事行動。（新華社）
-
----
-
-### 2026-08-12 05:48:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Yemeni Houthi militia says willing to dialogue with Saudi Arabia】On the 11th the Houthi militia said it is willing to hold dialogue with Saudi Arabia but warned it will continue attacks on Saudi-linked vessels and Saudi-backed military targets unless its demands are met.
-
----
-
-### 2026-08-12 05:46:58  #其他
-
-穆迪評級：南亞仍易受能源價格衝擊，但抗風險能力較以往有所增強。
-
----
-
-### 2026-08-12 05:46:40  #其他
-
-巴西證券交易所第二季度淨利潤為17億雷亞爾，高於市場預期的16.1億雷亞爾。
-
----
-
-### 2026-08-12 05:46:36  #公司
-
-黑石集團、魁北克儲蓄投資集團向加拿大航空 Aeroplan 投資 25 億加元。
-
----
-
-### 2026-08-12 05:43:43  #MKT News #CRWV.O
-
-CoreWeave (CRWV.O) CFO expects Q3 revenue of $3.45–3.6 bln and capex of $11.5–13.5 bln.
-
----
-
-### 2026-08-12 05:42:41  #MKT News #CRWV.O #Impact bullish
-
-CoreWeave (CRWV.O) CFO expects active compute capacity to exceed 1.85 GW by year-end, above prior guidance of >1.7 GW.
-
----
-
-### 2026-08-12 05:40:05  #MKT News #CRWV.O #Impact bullish
-
-CoreWeave (CRWV.O) CFO said the company raised its full-year 2026 revenue forecast to $12.4-$13.2 billion.
-
----
-
-### 2026-08-12 05:39:20  #MKT News #CRWV.O #Impact mixed
-
-CoreWeave (CRWV.O) CFO says the company currently expects 2026 capital expenditures of $35–39 billion.
-
----
-
-### 2026-08-12 05:38:09  #MKT News
-
-The Information reports prediction-market platform Kalshi's annualized revenue has topped $4.0 billion and the company is seeking a $40 billion valuation.
-
----
-
-### 2026-08-12 05:37:23  #其他
-
-CoreWeave 首席財務官：上調 2026 全年營收指引至 124 億‑132 億美元。目前預計 2026 年資本支出介於 350 億‑390 億美元區間。
-
----
-
-### 2026-08-12 05:36:35  #其他
-
-CoreWeave 首席財務官：預計第三季度營收介於 34.5 億至 36 億美元區間。
-
----
-
-### 2026-08-12 05:36:11  #其他
-
-CoreWeave 首席財務官： 預計年末在用電力規模將超過 1.85 吉瓦，高於此前給出的超 1.7 吉瓦指引。
 
 ---
