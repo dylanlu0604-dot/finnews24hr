@@ -1,7 +1,57 @@
 {
   "date": "2026-08-18",
-  "count": 2415,
+  "count": 2420,
   "items": [
+    {
+      "id": "5046207",
+      "time": "2026-08-18 21:50:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500醫療保健板塊觸及紀錄高位，最新上漲1.8%。"
+    },
+    {
+      "id": "mkt:01a01523-4009-7aab-907c-535e32db7720",
+      "time": "2026-08-18 21:50:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 health-care sector hits record high, up 1.8%."
+    },
+    {
+      "id": "mkt:01a01522-eed1-7aab-907c-4831a0c610e6",
+      "time": "2026-08-18 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US July Pending Home Sales Index MoM due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a01521-e4d2-7aab-907c-46830849a8ff",
+      "time": "2026-08-18 21:48:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell below $1,300/oz, down 2.07% intraday."
+    },
+    {
+      "id": "5046206",
+      "time": "2026-08-18 21:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代與東風柳汽簽署五年戰略合作協議】近日，寧德時代與東風柳汽簽署五年戰略合作協議。本次合作兩大方向：全場景技術攻關+定標準：覆蓋牽引、自卸、載貨、專用車及氫燃料等全系商用車，共同制定電池技術規範；創新商業模式+生態閉環：加速“電池銀行”落地，車電分離、資產運營化降低使用者購置成本與運營風險。"
+    },
     {
       "id": "mkt:01a0151f-7f8a-7aab-907c-396e4d7d95b4",
       "time": "2026-08-18 21:46:20",

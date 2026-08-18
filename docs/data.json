@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-18 21:47:29",
-  "count": 15163,
+  "updated": "2026-08-18 21:51:29",
+  "count": 15157,
   "items": [
+    {
+      "id": "5046207",
+      "time": "2026-08-18 21:50:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500醫療保健板塊觸及紀錄高位，最新上漲1.8%。"
+    },
+    {
+      "id": "mkt:01a01523-4009-7aab-907c-535e32db7720",
+      "time": "2026-08-18 21:50:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 health-care sector hits record high, up 1.8%."
+    },
+    {
+      "id": "mkt:01a01522-eed1-7aab-907c-4831a0c610e6",
+      "time": "2026-08-18 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US July Pending Home Sales Index MoM due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a01521-e4d2-7aab-907c-46830849a8ff",
+      "time": "2026-08-18 21:48:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell below $1,300/oz, down 2.07% intraday."
+    },
+    {
+      "id": "5046206",
+      "time": "2026-08-18 21:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代與東風柳汽簽署五年戰略合作協議】近日，寧德時代與東風柳汽簽署五年戰略合作協議。本次合作兩大方向：全場景技術攻關+定標準：覆蓋牽引、自卸、載貨、專用車及氫燃料等全系商用車，共同制定電池技術規範；創新商業模式+生態閉環：加速“電池銀行”落地，車電分離、資產運營化降低使用者購置成本與運營風險。"
+    },
     {
       "id": "5046205",
       "time": "2026-08-18 21:46:20",
@@ -138992,106 +139042,6 @@
         "國際"
       ],
       "text": "埃及衛生部11日發表宣告說，該國東北部當天發生一起交通事故，造成至少15人死亡。（新華社）"
-    },
-    {
-      "id": "5036095",
-      "time": "2026-08-11 21:50:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債收益率下跌5個基點，創下5月以來最大日內波動幅度。"
-    },
-    {
-      "id": "mkt:019ff116-cb3a-7aab-8ff3-d53f013e551a",
-      "time": "2026-08-11 21:50:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera said Saudi Arabia condemned Colombia's recognition of Israeli sovereignty over the occupied Golan Heights."
-    },
-    {
-      "id": "5036094",
-      "time": "2026-08-11 21:50:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府軍與胡塞武裝在馬裡卜省交火致11人死亡】亞丁訊息：葉門一名軍方人士11日稱，葉門政府軍與胡塞武裝當天在該國東北部的馬裡卜省交火，造成至少8名胡塞武裝人員和3名政府軍士兵死亡。這一匿名的當地軍方人士告訴新華社記者，雙方在該省首府馬裡卜市附近的陣地展開了激烈交鋒。政府軍摧毀了位於馬裡卜市以西的一處胡塞武裝通訊站和導彈發射平臺。截至目前，胡塞武裝尚未就此次交火發表評論。馬裡卜省是政府軍的關鍵據點，也是葉門主要的石油和天然氣生產地。葉門胡塞武裝曾多次試圖向該省首府推進，並曾與政府軍在此激烈交戰。2014年9月，胡塞武裝奪取葉門首都薩那。2018年12月，在聯合國斡旋下，葉門政府和胡塞武裝就停火、戰俘交換等議題達成一致，但不久雙方就互相指責對方破壞停火協議。此後聯合國再次斡旋，葉門衝突方同意自2022年4月2日起停火兩個月，隨後延期至同年10月2日，到期後未再達成延期協議。（新華社）"
-    },
-    {
-      "id": "mkt:019ff116-69bd-7aab-8ff3-c825b7730acc",
-      "time": "2026-08-11 21:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US July existing-home sales (annualized) due in 10 minutes."
-    },
-    {
-      "id": "5036093",
-      "time": "2026-08-11 21:50:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿根廷石油公司YPF執行長表示，該公司預計2026年息稅折舊及攤銷前利潤（EBITDA）為80億美元，高於此前60億美元的預期。"
-    },
-    {
-      "id": "5036092",
-      "time": "2026-08-11 21:49:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "Manus：為遵守相關法規，部分使用者資料將被刪除。"
-    },
-    {
-      "id": "5036091",
-      "time": "2026-08-11 21:49:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "AI 初創企業 Manus 將恢復獨立公司運營模式，Manus 表示，該舉措是脫離 Meta 的一部分。"
-    },
-    {
-      "id": "te:markets:574457",
-      "time": "2026-08-11 21:48:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Slips After Copom Minutes — The Ibovespa edged down to trade below 172,000 on Tuesday following the release of July’s inflation data and the minutes from Copom’s latest meeting. Brazil’s annual inflation rate eased to 4.44% in July 2026 from 4.64% in June, in line with forecasts and returning to within the central bank’s 1.5%-4.5% target range. In the minutes, the monetary authority said that although monetary policy is making a decisive contribution to the disinflation process, inflation remains pressured by demand, requiring a restrictive policy stance. Financials traded mostly lower, with Caixa extending losses by nearly 3% after reporting a 0.2% quarter-on-quarter decline in adjusted net income and a 0.8% year-on-year drop in financial income. BTG fell more than 2% despite reporting its strongest semester on record. B3, down 0.3%, is set to release its results later today. Petrobras shed nearly 0.5% as the oil rally lost momentum. Vale gained more than 0.5% as iron ore prices rose on signs of tighter supply."
-    },
-    {
-      "id": "5036090",
-      "time": "2026-08-11 21:48:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報81.29美元/桶。"
-    },
-    {
-      "id": "mkt:019ff114-cf6f-7aab-8ff3-c595ddf13bc8",
-      "time": "2026-08-11 21:48:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German gas importer Securing Energy for Europe (SEFE) failed to sell gas storage capacity at Rehden on Tuesday."
-    },
-    {
-      "id": "5036089",
-      "time": "2026-08-11 21:48:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國 SEFE 公司週二未能售出雷登儲氣庫庫容。"
     }
   ]
 }
