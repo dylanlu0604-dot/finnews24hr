@@ -1,7 +1,198 @@
 {
   "date": "2026-08-18",
-  "count": 598,
+  "count": 618,
   "items": [
+    {
+      "id": "mkt:01a01286-c297-7aab-906c-9889a4743639",
+      "time": "2026-08-18 09:40:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share printed circuit board sector rallied intraday: Bomin Electronics hit the daily limit, Jinlu Electronics rose more than 15%; Yidun Electronics, Jingwang Electronics, Xianfeng Holdings, Junya Technology and Xingsen Technology also advanced."
+    },
+    {
+      "id": "5044996",
+      "time": "2026-08-18 09:40:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大股指悉數轉漲，糧食概念、玻璃基板、先進封裝板塊漲幅居前。"
+    },
+    {
+      "id": "mkt:01a01286-88db-7aab-906c-908cac17ed8a",
+      "time": "2026-08-18 09:40:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "All three major A-share indices turned higher; grain, glass substrate and advanced packaging sectors led gains."
+    },
+    {
+      "id": "te:markets:575963",
+      "time": "2026-08-18 09:39:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Hit 1-Month High — The benchmark KOSPI climbed more than 2% to around 7,150 on Tuesday, extending gains to its highest level in a month, led by strong advances in major chipmakers. Samsung Electronics rose nearly 3%, while SK hynix jumped more than 7%, as continued strength in the global semiconductor sector and optimism over AI-related demand supported technology stocks. Notable gains were also recorded in SK Square (7.4%), Samsung C&T Corp. (3.3%), LG Electronics (1.6%), SK Inc (4.8%), and LS Electric Co. (5.1%). Meanwhile, global risk appetite was limited, as the expiration of a 60-day US-Iran agreement without an extension heightened concerns over renewed conflict and disruptions to oil supplies through the Strait of Hormuz, pushing oil prices higher and lifting Treasury yields. At the same time, investors continued to monitor South Korea’s trade negotiations with the US, with Seoul seeking to resolve outstanding issues surrounding its planned US$200 billion investment commitment."
+    },
+    {
+      "id": "mkt:01a01286-3ccb-7aab-906c-8c12e9db5dbd",
+      "time": "2026-08-18 09:39:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "EYPT",
+        "Impact bearish"
+      ],
+      "text": "Betta Pharmaceuticals shares hit the down limit after EyePoint Pharmaceuticals’ US-listed stock plunged ~67% overnight following a Phase III failure of fulonib in wAMD; Betta holds Greater China rights to the candidate."
+    },
+    {
+      "id": "5044995",
+      "time": "2026-08-18 09:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝達藥業20CM跌停，EyePoint美股隔夜大跌67%，伏羅尼布wAMD三期臨床失敗，貝達藥業擁有大中華區權益。"
+    },
+    {
+      "id": "5044994",
+      "time": "2026-08-18 09:39:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創港股早盤一度上漲3.9%，報1319.00港元，創上市以來新高。"
+    },
+    {
+      "id": "5044993",
+      "time": "2026-08-18 09:39:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.11%，成分股中，戈碧迦漲6.49%，科力股份漲4.81%，穎泰生物漲4.48%，聚星科技漲3.85%。"
+    },
+    {
+      "id": "5044992",
+      "time": "2026-08-18 09:38:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊短線拉昇，博敏電子漲停】印製電路板板塊短線拉昇，博敏電子漲停，金祿電子漲超15%，依頓電子、景旺電子、賢豐控股、駿亞科技、興森科技等跟漲。"
+    },
+    {
+      "id": "te:markets:575962",
+      "time": "2026-08-18 09:38:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Weakens on Easing Fed Hike Bets — The dollar index traded around 99.5 on Tuesday, hovering near two-month lows as traders scaled back expectations for a Federal Reserve interest rate hike this year following a run of weak US economic data. Data released last week showed US retail sales and consumer sentiment declined, while inflation readings remained subdued. Markets now expect the Fed to hold policy steady in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors are also looking ahead to the minutes of the Fed’s July meeting and Chairman Kevin Warsh’s remarks at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal."
+    },
+    {
+      "id": "5044991",
+      "time": "2026-08-18 09:38:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光學光電子板塊短線拉昇，駿成科技漲停】光學光電子板塊短線拉昇，彩虹股份、駿成科技漲停，凱盛科技、視涯科技、雷曼光電、三安光電、萊寶高科等紛紛走高。"
+    },
+    {
+      "id": "5044990",
+      "time": "2026-08-18 09:38:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃基板概念震盪走強 紅星發展、彩虹股份雙雙漲停】玻璃基板概念震盪走強，紅星發展、彩虹股份雙雙漲停，沃格光電觸及漲停，京東方A、金瑞礦業、力諾藥包跟漲。"
+    },
+    {
+      "id": "mkt:01a01284-b37f-7aab-906c-80d0d7f8b3ec",
+      "time": "2026-08-18 09:38:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's 2026 cumulative box office tops 26.0 bln yuan】According to Lighthouse Professional Edition data, as of Aug 18 China’s 2026 box office including presales has surpassed 26.0 billion yuan. Year-to-date top five titles by revenue are Pegasus 3, Kung Fu Women's Football, A Letter to Grandma, Eight Immortals, and Biao Ren: Wind Rises Over the Desert."
+    },
+    {
+      "id": "mkt:01a01284-a7b1-7aab-906c-7f2042f00578",
+      "time": "2026-08-18 09:37:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share coal mining and beneficiation sector firmed in early trade; Wuchan Huaneng hit the daily limit, while Jiangwu Equipment, Huayang Co., Xinji Energy, Baotailong, Shaanxi Black Cat and Shaanxi Coal Industry also rallied."
+    },
+    {
+      "id": "5044989",
+      "time": "2026-08-18 09:37:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5044988",
+      "time": "2026-08-18 09:37:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念異動拉昇 嶸泰股份漲停】早盤機器人概念異動拉昇，嶸泰股份漲停，此前正裕工業3連板，日豐股份漲停，亞太股份、上緯新材、世運電路、豐光精密跟漲。"
+    },
+    {
+      "id": "5044987",
+      "time": "2026-08-18 09:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度總票房破260億】據燈塔專業版資料，截至8月18日，2026年度大盤票房(含預售)突破260億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《八仙！》《鏢人：風起大漠》暫列年度票房前五名。"
+    },
+    {
+      "id": "5044986",
+      "time": "2026-08-18 09:36:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭採選板塊盤初走強，物產環能觸及漲停】煤炭採選板塊盤初走強，物產環能觸及漲停，江鎢裝備、華陽股份、新集能源、寶泰隆、陝西黑貓、陝西煤業等跟漲。"
+    },
+    {
+      "id": "5044985",
+      "time": "2026-08-18 09:36:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲5%，現報5688.00元。"
+    },
+    {
+      "id": "5044984",
+      "time": "2026-08-18 09:36:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第168次中老緬泰湄公河聯合巡邏執法行動啟動】8月17日，中方53108艇、53109艇組成編隊，從雲南西雙版納景哈警務碼頭鳴笛啟航，寮國003艇從孟莫碼頭、緬甸161艇從萬崩碼頭同步離港，標誌著第168次中老緬泰湄公河聯合巡邏執法行動正式啟動。此次行動中老緬泰四方共出動執法人員106名，歷時12天。其中，8月17日至21日開展湄公河全線聯合巡邏，四方執法艇在既定水域匯合後組成聯合編隊，對重點航道、險灘水域、沿岸碼頭及支流渡口實施分段巡航與水陸聯動查緝；8月22日至28日在寮國開展第70批執法船艇聯合駐訓工作。其間，中老緬泰四方將在泰國清盛召開多邊資訊交流會，通報各國近期出入國（邊）境、打擊流域犯罪等情況，並就進一步加強四方工作互助、資訊共享和打擊流域突出違法犯罪案件等進行磋商交流。中方與泰方開展以貫徹落實《中華人民共和國政府和泰王國政府關於面向繁榮中泰命運共同體的聯合宣告》為主題的雙邊交流會。當前，因湄公河正值汛期，水文條件複雜，中老緬泰四方執法部門將同步開展水上應急救援演練、航道隱患摸排和汛期安全警示宣傳等系列工作，全力確保國際航道暢通，切實保障沿岸各國船艇和群眾生命財產安全，為維護流域安全穩定、促進地區繁榮發展作出更大貢獻。（央視新聞）"
+    },
     {
       "id": "5044983",
       "time": "2026-08-18 09:36:19",
