@@ -1,7 +1,90 @@
 {
   "date": "2026-08-18",
-  "count": 2570,
+  "count": 2578,
   "items": [
+    {
+      "id": "5046310",
+      "time": "2026-08-18 23:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到導彈威脅。阿聯酋內政部當晚釋出提醒說，鑑於當前局勢及潛在導彈威脅，民眾應立即前往最近的安全建築物內避險，並等待進一步指示。（新華社）"
+    },
+    {
+      "id": "5046309",
+      "time": "2026-08-18 23:02:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股晶片半導體板塊持續走低 費城半導體指數跌6%】費城半導體指數跌6%，報11864.18點。成分股中，英偉達股價下跌2.71%，臺積電股價下跌4.13%，博通股價下跌3.52%，SK海力士股價下跌8.11%，美光科技股價下跌7.47%，超威半導體股價下跌5.76%，阿斯麥股價下跌5.3%，英特爾股價下跌7.34%，泛林集團股價下跌7.07%，ARM股價下跌7.93%，閃迪股價下跌9.29%。"
+    },
+    {
+      "id": "mkt:01a01565-0d91-7aab-907d-dd50be9d4490",
+      "time": "2026-08-18 23:02:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Colombia's statistics bureau reported the economy grew 3.5% YoY in Q2 2026."
+    },
+    {
+      "id": "mkt:01a01563-cb63-7aab-907d-d33f30d749cf",
+      "time": "2026-08-18 23:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "As of the 23:00 close, China's domestic most-active futures were mixed: fuel oil led gains, up over 3%; low-sulfur fuel oil (LU), coke and coking coal rose over 2%; corn and starch were up around 2%. Decliners included soda ash, down more than 1%, and ethylene glycol (EG) and PTA, each down about 1%."
+    },
+    {
+      "id": "mkt:01a01563-7e0b-7aab-907d-ce31d657f5cc",
+      "time": "2026-08-18 23:00:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "France's budget minister said the government will not adopt OpenAI."
+    },
+    {
+      "id": "te:markets:576194",
+      "time": "2026-08-18 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Depreciates by 0.36% — Top currency losers are New Zealand Dollar (-0.36%), Polish Zloty (-0.25%) and Japanese Yen (-0.07%). Gains are led by South Korean Won (0.31%). Meanwhile, Dollar Index, Euro and British Pound were little changed."
+    },
+    {
+      "id": "5046308",
+      "time": "2026-08-18 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續漲2.52%，焦炭連續漲2.42%，燃料油連續漲2.38%，焦煤連續漲2.22%，玉米連續漲1.85%。"
+    },
+    {
+      "id": "mkt:01a01562-d252-7aab-907d-c779359f2f3e",
+      "time": "2026-08-18 22:59:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid $20 intraday, down more than 1%, breaking below $4,370/oz."
+    },
     {
       "id": "5046307",
       "time": "2026-08-18 22:59:39",
