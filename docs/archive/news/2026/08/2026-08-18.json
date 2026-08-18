@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 1034,
+  "count": 1039,
   "items": [
+    {
+      "id": "5045292",
+      "time": "2026-08-18 13:51:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "虛擬軟體公司Virtualware簽署協議收購英國企業Virtalis。"
+    },
+    {
+      "id": "mkt:01a0136b-87fb-7aab-9070-027f3df58716",
+      "time": "2026-08-18 13:50:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reported the Caspian Pipeline Consortium transported 33.35 mln tonnes of crude oil in 1H 2026, down from 36.024 mln tonnes in 1H 2025."
+    },
+    {
+      "id": "mkt:01a0136b-7dfe-7aab-906f-fba8793d41ce",
+      "time": "2026-08-18 13:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK three-month ILO unemployment rate for June and July claimant count and unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "5045291",
+      "time": "2026-08-18 13:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理稱正考慮消費稅改革。"
+    },
+    {
+      "id": "te:markets:576002",
+      "time": "2026-08-18 13:47:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX Ends 1.1% Higher as Consumer Stocks Rebound — New Zealand's stocks rose 144 points, or 1.1%, to close at 13,866 on Tuesday, rebounding from losses in the previous session, mainly buoyed by gains in consumer staples, consumer discretionary, and real estate. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with consumer staples rebounding sharply, surging 6.8% after plunging in the previous session. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions and rising Treasury yields capped gains. A2 Milk jumped 10.1%, recovering sharply from a 5.7% plunge on Monday after the company reported a 44% plunge in net profit for the 12 months ended June. Other top movers were Hallenstein Glasson (5.4%), EBOS Group (2.3%), Vulcan Steel (1.8%), and Mainfreight (0.9%). Meanwhile, Mercury NZ rose 2.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June."
+    },
     {
       "id": "5045290",
       "time": "2026-08-18 13:46:30",
