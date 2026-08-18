@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-18 12:14:50",
-  "count": 15261,
+  "updated": "2026-08-18 12:18:41",
+  "count": 15259,
   "items": [
+    {
+      "id": "mkt:01a01317-3047-7aab-906e-f1782cf06aab",
+      "time": "2026-08-18 12:18:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Another vessel reported struck in Strait of Hormuz】UK Maritime Trade Operations said on Aug 18 it received a report that a vessel departing the Strait of Hormuz was struck by an unknown projectile, damaging its engine room; one crew member was injured and may have died. Remaining crew were rescued by the Oman coastguard."
+    },
+    {
+      "id": "mkt:01a01315-c70f-7aab-906e-ec0afd588376",
+      "time": "2026-08-18 12:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM to hold first regular August press briefing on Aug. 20, 2026】MOFCOM will hold its first regular August press briefing at 3:00pm Beijing time on Aug. 20, 2026. A ministry spokesperson will outline recent key commerce work and answer reporters' questions."
+    },
+    {
+      "id": "5045212",
+      "time": "2026-08-18 12:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾力斯回應甲磺酸伏美替尼片被湘雅二院暫停採購傳聞：正在核查真實性】針對市場流傳的甲磺酸伏美替尼片被中南大學湘雅二醫院暫停採購一事，艾力斯證券部對以投資者身份致電的財聯社記者回應稱，公司目前正在內部核查相關資訊的真實性。市場流傳的相關“協辦函”，因右下角落款為醫院醫務部，公司仍在核實是否為湘雅二醫院官方出具。對於該事件是否會影響甲磺酸伏美替尼片後續放量，上述人士表示，目前公司“一切經營都是正常的”。其介紹，甲磺酸伏美替尼片今年年初已有兩個適應症續約納入醫保，同時新增適應症獲批上市，“從整體來看，我們的經營還是走一個比較良好的趨勢”。一份落款為湘雅二醫院醫務部、日期為8月13日的《關於暫停有關藥品的協辦函》顯示，因發現多家藥企醫藥代表未經預約擅自進入診療區域接觸醫務人員，醫院決定暫停採購和使用包括艾力斯甲磺酸伏美替尼片在內的4款藥品，暫停期限為2026年8月17日至11月16日。財聯社記者昨日以患者身份致電湘雅二院獲悉，甲磺酸伏美替尼片在院內已無庫存。 (財聯社)"
+    },
     {
       "id": "5045211",
       "time": "2026-08-18 12:13:53",
@@ -139790,50 +139817,6 @@
         "其他"
       ],
       "text": "【前7個月四川外貿進出口同比增長4% 規模創歷史同期新高】從成都海關獲悉，今年前7個月，四川貨物貿易進出口總值6260.6億元，規模創歷史同期新高，位列全國第九、西部第一，同比增長4%。其中，出口3439.2億元，同比下降5.5%；進口2821.4億元，同比增長18.4%。 一般貿易佔比提升，保稅物流快速增長。前7個月，四川一般貿易方式進出口2467.1 億 元 ，同 比 增 長23.2%，佔全省外貿總值的39.4%，比重較去年同期提升6.2個百分點；保稅物流進出口 905.6 億元，同比增長20%，佔全省外貿總值的14.5%。"
-    },
-    {
-      "id": "5035014",
-      "time": "2026-08-11 12:17:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【直衝38℃！成都多地高溫橙色預警訊號繼續】今天上午11時，成都市氣溫區間在30.9℃~34.8℃。目前，成都多地已釋出高溫橙色預警訊號，最高直衝38℃。"
-    },
-    {
-      "id": "te:economy:574274",
-      "time": "2026-08-11 12:16:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Malaysia Industrial Output Growth Slows in July — Industrial production in Malaysia rose by 6.5% year-on-year in June 2026, slowing from an 8.4% increase in the previous month, which had marked the strongest growth since September 2022. Production softened significantly in the mining sector, rising just 3.1% after a 19.8% surge in May, as crude oil and condensate output recorded a further decrease (-3.3% vs -0.7%), while growth sharply eased for natural gas production (7.4% vs 37.4%). In contrast, manufacturing activity continued to drive output growth (7.3% vs 6.6%), driven by higher production for wood products, furniture, paper products, and printing (5.7% vs 3.8%) and transport equipment and other manufactures (9.4% vs -4.8%). Additionally, electricity generation increased at a faster pace, up 6.7% from 4.8% in the previous month. On a seasonally adjusted monthly basis, industrial output dropped by 0.5% in June, slipping further from a 0.3% fall in the preceding period."
-    },
-    {
-      "id": "5035013",
-      "time": "2026-08-11 12:16:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：預估2028年全球衛星火箭發射市場規模將達404億美元】8月11日，根據TrendForce集邦諮詢最新衛星產業研究，Starlink（星鏈）近期完成首批V3衛星部署，藉由搭載2,048陣列單元的超大相位陣列天線、降低軌道高度等舉措，可提供極低延遲頻寬和手機直連衛星服務。隨著V3衛星將邁入規模部署，對Starlink母公司SpaceX的發射任務需求逐步成長，預計將帶動全球衛星火箭發射市場規模於2028年上升至404億美元。"
-    },
-    {
-      "id": "5035012",
-      "time": "2026-08-11 12:16:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年規上網際網路企業完成網際網路業務收入超萬億元 同比增長10.1%】上半年，我國規模以上網際網路和相關服務企業（以下簡稱網際網路企業）完成網際網路業務收入10675億元，同比增長10.1%，增速較1—5月份回落0.3個百分點。利潤總額增速加快。上半年，我國規模以上網際網路企業實現利潤總額989.9億元，同比增長16.6%，增速較1—5月份提高6.9個百分點。研發經費投入穩定增長。上半年，我國規模以上網際網路企業共投入研發經費595.5億元，同比增長14.1%，增速較1—5月份回落1.2個百分點。上半年，東部地區、中部地區、西部地區、東北地區網際網路業務收入分別同比增長11.5%、-13.8%、3.5%、-28.6%。東部地區網際網路業務收入佔全國的90.5%。京津冀地區網際網路業務收入同比增長14%，長三角地區網際網路業務收入同比增長8.3%，兩個地區網際網路業務收入佔全國的比例分別為33.6%和30.7%。上半年，全國網際網路業務收入實現正增長的省（區、市）有16個，北京、廣東、上海、浙江和貴州網際網路業務收入居全國前5。附註：規模以上網際網路和相關服務企業口徑為上年網際網路和相關服務收入2000萬元及以上，文中所有同比增速均按可比口徑計算。（工信微報）"
-    },
-    {
-      "id": "5035011",
-      "time": "2026-08-11 12:14:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震重災區附近發生山體滑坡和泥石流】在哥倫比亞強震發生後，重災區佩雷拉東北部的一座山體發生滑坡並出現泥石流。泥石流衝入附近居民區，造成恐慌，但尚不清楚是否造成人員傷亡。此外，該市其他地區也發生了山體滑坡災害，導致多條公路封閉，給的搜救工作帶來了挑戰。"
     }
   ]
 }

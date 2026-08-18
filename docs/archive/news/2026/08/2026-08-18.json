@@ -1,7 +1,34 @@
 {
   "date": "2026-08-18",
-  "count": 923,
+  "count": 926,
   "items": [
+    {
+      "id": "mkt:01a01317-3047-7aab-906e-f1782cf06aab",
+      "time": "2026-08-18 12:18:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Another vessel reported struck in Strait of Hormuz】UK Maritime Trade Operations said on Aug 18 it received a report that a vessel departing the Strait of Hormuz was struck by an unknown projectile, damaging its engine room; one crew member was injured and may have died. Remaining crew were rescued by the Oman coastguard."
+    },
+    {
+      "id": "mkt:01a01315-c70f-7aab-906e-ec0afd588376",
+      "time": "2026-08-18 12:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM to hold first regular August press briefing on Aug. 20, 2026】MOFCOM will hold its first regular August press briefing at 3:00pm Beijing time on Aug. 20, 2026. A ministry spokesperson will outline recent key commerce work and answer reporters' questions."
+    },
+    {
+      "id": "5045212",
+      "time": "2026-08-18 12:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾力斯回應甲磺酸伏美替尼片被湘雅二院暫停採購傳聞：正在核查真實性】針對市場流傳的甲磺酸伏美替尼片被中南大學湘雅二醫院暫停採購一事，艾力斯證券部對以投資者身份致電的財聯社記者回應稱，公司目前正在內部核查相關資訊的真實性。市場流傳的相關“協辦函”，因右下角落款為醫院醫務部，公司仍在核實是否為湘雅二醫院官方出具。對於該事件是否會影響甲磺酸伏美替尼片後續放量，上述人士表示，目前公司“一切經營都是正常的”。其介紹，甲磺酸伏美替尼片今年年初已有兩個適應症續約納入醫保，同時新增適應症獲批上市，“從整體來看，我們的經營還是走一個比較良好的趨勢”。一份落款為湘雅二醫院醫務部、日期為8月13日的《關於暫停有關藥品的協辦函》顯示，因發現多家藥企醫藥代表未經預約擅自進入診療區域接觸醫務人員，醫院決定暫停採購和使用包括艾力斯甲磺酸伏美替尼片在內的4款藥品，暫停期限為2026年8月17日至11月16日。財聯社記者昨日以患者身份致電湘雅二院獲悉，甲磺酸伏美替尼片在院內已無庫存。 (財聯社)"
+    },
     {
       "id": "5045211",
       "time": "2026-08-18 12:13:53",
