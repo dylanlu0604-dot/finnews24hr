@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-19 04:02:20",
-  "count": 15113,
+  "updated": "2026-08-19 04:06:15",
+  "count": 15108,
   "items": [
+    {
+      "id": "mkt:01a01678-0ae5-7aab-9081-b925325a2f12",
+      "time": "2026-08-19 04:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "MU.O",
+        "Impact bearish",
+        "SKHY.O",
+        "NVDA.O"
+      ],
+      "text": "【US close: major indexes lower; SK Hynix down over 9%】U.S. stocks closed lower on Tuesday: the Dow Jones Industrial Average fell 0.2%, the S&P 500 dropped 0.69% and the Nasdaq Composite fell 1.33%. Semiconductor names led declines—SanDisk (SNDK.O) down 9%, Western Digital (WDC.O) down 7%, Micron Technology (MU.O) down 7% and SK Hynix (SKHY.O) down over 9%—while NVIDIA (NVDA.O) slipped 2%. The Nasdaq Golden Dragon China Index fell 1%; Alibaba (BABA.N) rose 2.8%."
+    },
     {
       "id": "5046475",
       "time": "2026-08-19 04:01:40",
@@ -138480,61 +138498,6 @@
         "MKT News"
       ],
       "text": "【Pezeshkian says strengthening ties with Pakistan would help regional security】Iranian President Pezeshkian, after meeting Pakistan Interior Minister Naqvi, said Tehran is willing to deepen relations with Islamabad across political, economic, trade, cultural and security fields and that stronger bilateral cooperation would \"enhance regional stability and security.\" Naqvi called Iran-Pakistan ties \"firm and unbreakable\" and said Islamabad is determined to expand relations with Tehran."
-    },
-    {
-      "id": "mkt:019ff26e-9f13-7aab-8ffa-3b1abbe04527",
-      "time": "2026-08-12 04:06:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mali military says killed more than 1,800 terrorists in two months】Mali's military said on the 11th that between June 1 and July 31 its forces killed 1,850 terrorists and destroyed 45 terrorist bases. The air force flew 1,545 sorties and carried out 307 air strikes, the military press office said at a briefing in Bamako."
-    },
-    {
-      "id": "5036370",
-      "time": "2026-08-12 04:05:52",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "超微電腦第四財季淨銷售111.2億美元，分析師預期112.6億美元。\n第四財季調整後每股收益（EPS）為1.70美元，分析師預期1.59美元。\n預計第一財季淨銷售145億-155億美元，分析師預期119.9億美元。\n預計第一財季調整後EPS為1.01-1.10美元，分析師預期0.74美元。\n超微電腦美股盤後漲8%。"
-    },
-    {
-      "id": "te:markets:574510",
-      "time": "2026-08-12 04:05:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Lumentum Holdings Inc earnings above expectations at 3.23 USD — Lumentum Holdings Inc (LITE) released earnings per share at 3.23 USD, compared to market expectations of 2.71 USD."
-    },
-    {
-      "id": "mkt:019ff26d-fd5e-7aab-8ffa-340e5a0a3c14",
-      "time": "2026-08-12 04:05:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Flavio Bolsonaro, son of Brazil’s former president and a senator, is drafting a campaign fiscal framework that would seek a constitutional amendment to cap government spending growth and set fiscal constraints and targets tied to public debt levels."
-    },
-    {
-      "id": "5036369",
-      "time": "2026-08-12 04:03:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lumentum第四財季淨營收10.1億美元，分析師預期9.90億美元，上年同期4.807億美元。\n第四財季元件與零部件營收6.494億美元，分析師預期6.369億美元，上年同期3.204億美元。\n第四財季系統營收3.569億美元，分析師預期3.504億美元，上年同期1.603億美元。"
-    },
-    {
-      "id": "5036368",
-      "time": "2026-08-12 04:03:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "KKR週二收盤上漲6.9%，創4月13日以來最大單日漲幅。"
     }
   ]
 }

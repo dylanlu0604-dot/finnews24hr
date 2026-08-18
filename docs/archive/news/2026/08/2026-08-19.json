@@ -1,7 +1,25 @@
 {
   "date": "2026-08-19",
-  "count": 220,
+  "count": 221,
   "items": [
+    {
+      "id": "mkt:01a01678-0ae5-7aab-9081-b925325a2f12",
+      "time": "2026-08-19 04:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "MU.O",
+        "Impact bearish",
+        "SKHY.O",
+        "NVDA.O"
+      ],
+      "text": "【US close: major indexes lower; SK Hynix down over 9%】U.S. stocks closed lower on Tuesday: the Dow Jones Industrial Average fell 0.2%, the S&P 500 dropped 0.69% and the Nasdaq Composite fell 1.33%. Semiconductor names led declines—SanDisk (SNDK.O) down 9%, Western Digital (WDC.O) down 7%, Micron Technology (MU.O) down 7% and SK Hynix (SKHY.O) down over 9%—while NVIDIA (NVDA.O) slipped 2%. The Nasdaq Golden Dragon China Index fell 1%; Alibaba (BABA.N) rose 2.8%."
+    },
     {
       "id": "5046475",
       "time": "2026-08-19 04:01:40",
