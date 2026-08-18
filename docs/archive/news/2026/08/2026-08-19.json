@@ -1,7 +1,69 @@
 {
   "date": "2026-08-19",
-  "count": 48,
+  "count": 55,
   "items": [
+    {
+      "id": "mkt:01a015d5-b424-7aab-907f-810530ddb90c",
+      "time": "2026-08-19 01:05:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Markets, anticipating effects from global risk aversion, priced Argentina's country risk index at 500bps, the highest since June 10."
+    },
+    {
+      "id": "5046385",
+      "time": "2026-08-19 01:04:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商：受全球風險規避情緒影響，阿根廷國家風險溢價攀升至 500 個基點，創 6 月 10 日以來新高。"
+    },
+    {
+      "id": "mkt:01a015d4-9a29-7aab-907f-78e02837a6e6",
+      "time": "2026-08-19 01:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury announces new sanctions related to the International Criminal Court."
+    },
+    {
+      "id": "5046384",
+      "time": "2026-08-19 01:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛杉磯港7月貨物吞吐量接近歷史紀錄。"
+    },
+    {
+      "id": "5046383",
+      "time": "2026-08-19 01:03:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國針對國際刑事法院出臺新一輪制裁。"
+    },
+    {
+      "id": "mkt:01a015d2-be66-7aab-907f-75c382a59d84",
+      "time": "2026-08-19 01:02:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf said Americans believe increased pressure on Iran will force concessions, but those concessions were never part of the agreement; he said US Treasury Secretary BESSENT and Defense Secretary Hegseth are powerless."
+    },
+    {
+      "id": "5046382",
+      "time": "2026-08-19 01:02:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭議會議長卡利巴夫： 美國人以為對伊朗施加更大壓力，就能拿到協議中從未包含的讓步。貝森特與赫格塞斯完全不自量力。別再指望這群跳樑小醜能變出什麼奇蹟，趕緊收拾你們自己捅出來的爛攤子。"
+    },
     {
       "id": "5046381",
       "time": "2026-08-19 01:00:02",
