@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-19 03:42:58",
-  "count": 15104,
+  "updated": "2026-08-19 03:46:47",
+  "count": 15108,
   "items": [
+    {
+      "id": "mkt:01a01668-0e61-7aab-9081-82fb3173f300",
+      "time": "2026-08-19 03:45:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,350/oz, down 1.51% on the day."
+    },
+    {
+      "id": "5046462",
+      "time": "2026-08-19 03:45:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4350美元/盎司，日內跌1.53%。"
+    },
+    {
+      "id": "5046461",
+      "time": "2026-08-19 03:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。"
+    },
+    {
+      "id": "mkt:01a01666-acb5-7aab-9081-7e7aeb2335f8",
+      "time": "2026-08-19 03:43:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet."
+    },
+    {
+      "id": "5046460",
+      "time": "2026-08-19 03:42:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）"
+    },
     {
       "id": "5046459",
       "time": "2026-08-19 03:41:58",
@@ -138442,14 +138490,6 @@
         "Importance 1"
       ],
       "text": "Uruguay Industrial Output Rebounds in June — Uruguay's industrial production rose 5.4% year-on-year in June 2026 after falling 3.5% in the previous month, marking a strong rebound in manufacturing activity. The increase was driven primarily by a 7.8% rise in food products manufacturing, which contributed 3.2 percentage points to overall growth. Other food products manufacturing increased 6.3%. On a seasonally adjusted basis, industrial output climbed 8.0% month-on-month. Meanwhile, hours worked in the industrial sector rose 0.3% from a year earlier, while industrial employment declined 3.0%. On a year-to-date basis, industrial production increased 2.9%, while hours worked and employment fell 1.7% and 1.9%, respectively."
-    },
-    {
-      "id": "mkt:019ff25a-2c84-7aab-8ff9-fe9a19cd1cee",
-      "time": "2026-08-12 03:43:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraq condemns Colombia's recognition of Israeli \"sovereignty\" over Golan Heights】Iraq's foreign ministry on the 11th strongly condemned Colombia's decision to recognize Israeli \"sovereignty\" over the occupied Golan Heights, saying the territory is Syrian and that no party may change its legal status or confer legitimacy on the occupier. The ministry said Colombia's move has no legal force and does not alter the fact that the Golan Heights are an inseparable part of Syrian territory."
     }
   ]
 }
