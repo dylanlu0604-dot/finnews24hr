@@ -1,7 +1,135 @@
 {
-  "updated": "2026-08-18 22:44:10",
-  "count": 15142,
+  "updated": "2026-08-18 22:48:11",
+  "count": 15151,
   "items": [
+    {
+      "id": "mkt:01a01557-5527-7aab-907d-70c6eedfdc88",
+      "time": "2026-08-18 22:47:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor said Israel's economy has shown strong resilience during the war."
+    },
+    {
+      "id": "mkt:01a01557-3394-7aab-907d-6dd798de0f4a",
+      "time": "2026-08-18 22:47:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor says next monetary policy meeting will be a \"real-time\" meeting."
+    },
+    {
+      "id": "5046285",
+      "time": "2026-08-18 22:46:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞龍：戰爭期間以色列經濟展現出極強韌性。"
+    },
+    {
+      "id": "5046284",
+      "time": "2026-08-18 22:46:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽：完善耐心資本投早、投小、投長期、投硬科技支援政策】8月18日訊息，日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。完善耐心資本投早、投小、投長期、投硬科技支援政策。加快金融支援科創企業“共同成長計劃”和“貸投批次聯動”提質擴面。鼓勵發展金融資產投資公司股權投資、科技企業併購貸款等新模式。擴大風險投資基金、天使基金規模，發展私募股權二級市場基金。推進合肥科創金融改革試驗區建設。"
+    },
+    {
+      "id": "5046283",
+      "time": "2026-08-18 22:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽：引導推進合肥全國供應鏈金融整合服務基地提質增效】8月18日訊息，日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。引導推進合肥全國供應鏈金融整合服務基地提質增效。鼓勵發展應收賬款、訂單、存貨、倉單質押融資等模式。發揮政府性融資擔保機構作用，建立供應鏈金融風險共擔機制。支援融資租賃企業提升新興產業、未來產業、傳統產業等重點領域融資租賃服務能力。建設合肥融資租賃集聚區。"
+    },
+    {
+      "id": "5046282",
+      "time": "2026-08-18 22:45:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽：引導銀行業金融機構向綜合金融服務商轉型，打造安徽（合肥）併購集聚區】日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。引導銀行業金融機構向綜合金融服務商轉型。打造安徽（合肥）併購集聚區。創新“投、貸、擔、保、補”金融組團服務。支援法人證券公司特色化、差異化發展。鼓勵探索組建重點產業保險共同體。鼓勵金融機構開發適配服務業輕資產特性的融資產品。"
+    },
+    {
+      "id": "5046281",
+      "time": "2026-08-18 22:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞龍：下次貨幣政策會議將以直播形式舉行。"
+    },
+    {
+      "id": "5046280",
+      "time": "2026-08-18 22:45:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "BTAB電子商務集團公司：BTAB與全球製造商合作，擴大其進入美國市場的渠道。"
+    },
+    {
+      "id": "mkt:01a01555-5eb8-7aab-907d-601ed3a9d5c1",
+      "time": "2026-08-18 22:45:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The Russian administration at the Zaporizhzhia nuclear plant confirmed a bus stop used to transport plant staff was attacked."
+    },
+    {
+      "id": "mkt:01a01555-26c8-7aab-907d-5e79892b3529",
+      "time": "2026-08-18 22:44:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel governor says recently released GDP data were very strong but contain some warnings."
+    },
+    {
+      "id": "5046279",
+      "time": "2026-08-18 22:44:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "扎波羅熱核電站俄方管理層證實，電站員工使用的公交車站遭襲。"
+    },
+    {
+      "id": "5046278",
+      "time": "2026-08-18 22:44:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽：支援為中小企業提供彈性算力和詞元服務，謀劃建設量子人工智慧交叉融合創新中心】近日，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。其中提到，協同推進算力叢集和邊緣算力建設。打造集“量算、通算、智算、超算”為一體的協同排程平臺。支援為中小企業提供彈性算力和詞元服務。謀劃建設量子人工智慧交叉融合創新中心。推進實施人工智慧算力券政策。"
+    },
+    {
+      "id": "5046277",
+      "time": "2026-08-18 22:44:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【藍盾光電：股票8月19日起停牌核查 股價5日漲197.21%】藍盾光電公告稱，公司股票2026年8月10日至8月18日累計5個交易日漲停，漲幅達197.21%，嚴重偏離基本面，將於2026年8月19日開市起停牌核查，預計停牌不超3個交易日。2025年公司營收3.99億元，同比降34.53%，淨虧損8876.65萬元，同比降1468.72%；2026年一季度營收8811.63萬元，同比降13.20%，淨虧損866.43萬元，同比降271.99%。公司擬發行股份及支付現金購買蘇州嵐創科技控股權並募集配套資金，該交易後續推進存在重大不確定性。"
+    },
+    {
+      "id": "5046276",
+      "time": "2026-08-18 22:44:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞龍：我們剛剛公佈了非常強勁的GDP資料，但也存在一些需要注意的地方。"
+    },
+    {
+      "id": "5046275",
+      "time": "2026-08-18 22:43:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行行長阿米爾・亞龍接受採訪。"
+    },
     {
       "id": "5046274",
       "time": "2026-08-18 22:41:35",
@@ -138848,58 +138976,6 @@
         "Importance 1"
       ],
       "text": "Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.68% on Tuesday, after rising above 4.71% the previous day, as oil prices steadied amid signs that diplomatic efforts are underway to reach a deal between the US and Iran and reopen the Strait of Hormuz. Pakistan signaled the possibility of an agreement that could help ease tensions roiling energy markets, although the situation remains highly fragile and uncertain. Meanwhile, the highly anticipated US CPI report is due on Wednesday and should provide further insight into the path of inflation. The report is expected to continue pointing to a slowdown in energy-related price pressures that intensified in the months immediately following the start of the US war with Iran. Markets are pricing in roughly even odds of a Fed rate hike next month, with about a 50% probability of rates being left unchanged."
-    },
-    {
-      "id": "5036166",
-      "time": "2026-08-11 22:47:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "赫茲環球股價上漲 25%，創 6 月 29 日以來新高。"
-    },
-    {
-      "id": "5036165",
-      "time": "2026-08-11 22:47:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：世界冰壺聯合會將對俄羅斯運動員的禁賽延長至 2026 年底。"
-    },
-    {
-      "id": "te:markets:574474",
-      "time": "2026-08-11 22:47:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Market Weighs Supply Risks and Weak Demand — Wheat prices fluctuated around $6.40 per bushel, remaining more than 10% below the two-year high of $7.08 on July 22, as weaker Russian prices, subdued international demand and alternative export routes eased concerns over Black Sea disruptions. Hopes for progress in negotiations to restore shipping through the Strait of Hormuz also improved broader market sentiment, after Pakistan said the US and Iran were “close to some sort of arrangement” to reduce tensions. However, risks to grain exports remain as Ukraine and Russia continue to target each other’s shipping routes. Ukraine has lowered its 2026/27 grain export forecast by up to 12% from its previous estimate, while Russia’s wheat export outlook has also been reduced. Consultancy IKAR cut its forecast for Russian wheat exports to 44.5 million tonnes, while Sovecon expects August shipments to reach their lowest level in a decade. Traders now await the US government’s latest crop forecasts on Wednesday."
-    },
-    {
-      "id": "5036164",
-      "time": "2026-08-11 22:46:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【馬斯克：強烈推薦大家去中國看看】美國企業家、電動汽車製造商特斯拉公司執行長埃隆·馬斯克11日在社交媒體上寫道：“中國太棒了。我強烈推薦大家去看看。”在社交媒體平臺X上一條討論特斯拉在華業務的帖子下，馬斯克作上述評論。馬斯克的母親梅耶·馬斯克隨後引用馬斯克的這條帖文寫道：“我同意。（中國的）每個城市都有其獨特魅力，有不同的文化景點可以參觀。建築物和街道乾淨整潔，維護良好。同時，人們彬彬有禮、勤勞且尊重他人。我（在中國）感到安全，所以很享受去中國（旅行）。”近期，美國皮尤研究中心等機構的調查顯示，國際民眾對中國的好感度不斷上升。（新華社）"
-    },
-    {
-      "id": "5036163",
-      "time": "2026-08-11 22:45:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：蘋果執行長蒂姆・庫克表示，部分蘋果智慧功能將會產生費用，同時最新的 iOS 27 測試版中出現了 HomeKit 安全影片的 iCloud + 套餐等級限制。"
-    },
-    {
-      "id": "5036162",
-      "time": "2026-08-11 22:44:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "肯亞預計截至 2026 年 6 月經常賬戶缺口佔國內生產總值的 3%。"
     }
   ]
 }
