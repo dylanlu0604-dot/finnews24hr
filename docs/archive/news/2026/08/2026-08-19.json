@@ -1,7 +1,70 @@
 {
   "date": "2026-08-19",
-  "count": 68,
+  "count": 75,
   "items": [
+    {
+      "id": "5046395",
+      "time": "2026-08-19 01:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多外交官巴基角逐下一任聯合國秘書長】聯大主席發言人柯林斯18日宣佈，厄瓜多外交官伊沃內·巴基角逐下一任聯合國秘書長。柯林斯說，巴基的候選人身份由湯加提名。目前，除巴基外，另有7人角逐下一任聯合國秘書長職位，分別為：智利前總統米歇爾·巴切萊特、來自厄瓜多的聯大前主席瑪麗亞·費爾南達·埃斯皮諾薩、來自阿根廷的現任國際原子能機構總幹事拉斐爾·格羅西、來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、來自烏干達的聯合國前副秘書長奧拉拉·奧通努、現任蓋亞那常駐聯合國代表卡羅琳·羅德里格斯-伯基特、塞內加爾前總統麥基·薩勒。現任聯合國秘書長古特雷斯的任期至今年12月31日。（新華社）"
+    },
+    {
+      "id": "mkt:01a015eb-7d3a-7aab-907f-d600b4f90844",
+      "time": "2026-08-19 01:29:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ecuador's Ivonne Baki enters race for next UN secretary-general】Ecuadorian diplomat Ivonne Baki has entered the race for UN secretary-general after being nominated by Tonga, UNGA president’s spokesperson Collins said. Other declared candidates are former Chilean president Michelle Bachelet; former UNGA president Maria Fernanda Espinosa (Ecuador); IAEA director-general Rafael Grossi (Argentina); UNCTAD secretary-general Rebeca Grynspan (Costa Rica); former UN deputy secretary-general Olara Otunnu (Uganda); Guyana’s permanent UN representative Caroline Rodrigues‑Birkett; and former Senegal president Macky Sall. Incumbent UN secretary-general Guterres’ term runs through Dec. 31."
+    },
+    {
+      "id": "mkt:01a015ea-506b-7aab-907f-c992e8d1f8a2",
+      "time": "2026-08-19 01:27:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CBC News reports Canada and US trade negotiators are expected to meet again before a midnight tariff deadline."
+    },
+    {
+      "id": "5046394",
+      "time": "2026-08-19 01:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大與美國談判代表預計將在午夜關稅截止期限前再次會晤。"
+    },
+    {
+      "id": "5046393",
+      "time": "2026-08-19 01:26:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛巴威渡輪事故遇難人數升至 94 人，政府證實該渡輪超載。"
+    },
+    {
+      "id": "mkt:01a015e9-26e7-7aab-907f-c65853b5d272",
+      "time": "2026-08-19 01:26:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it has received a report of an incident 40 nautical miles southeast of Mokha port, Yemen."
+    },
+    {
+      "id": "mkt:01a015e8-6403-7aab-907f-bdb9955d8095",
+      "time": "2026-08-19 01:25:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations said an unmanned cargo vessel was struck by multiple rounds of unknown ordnance and sustained damage."
+    },
     {
       "id": "5046392",
       "time": "2026-08-19 01:24:48",
