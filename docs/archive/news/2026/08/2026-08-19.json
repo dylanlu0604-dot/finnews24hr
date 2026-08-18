@@ -1,7 +1,29 @@
 {
   "date": "2026-08-19",
-  "count": 300,
+  "count": 302,
   "items": [
+    {
+      "id": "5046509",
+      "time": "2026-08-19 05:33:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”"
+    },
+    {
+      "id": "mkt:01a016ca-ea6f-7aab-9083-0a162271a1bd",
+      "time": "2026-08-19 05:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'."
+    },
     {
       "id": "mkt:01a016c9-b3a6-7aab-9083-00e33a05e9bf",
       "time": "2026-08-19 05:31:52",
