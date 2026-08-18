@@ -1,7 +1,282 @@
 {
-  "updated": "2026-08-18 20:28:43",
-  "count": 15145,
+  "updated": "2026-08-18 20:32:36",
+  "count": 15157,
   "items": [
+    {
+      "id": "mkt:01a014da-d3f1-7aab-907a-5af21d28bdb5",
+      "time": "2026-08-18 20:31:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. oil import prices fell 7.5% in July; non-oil import prices rose 0.3% in July."
+    },
+    {
+      "id": "mkt:01a014da-7f59-7aab-907a-5638d4d1ebca",
+      "time": "2026-08-18 20:30:58",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chile Q2 GDP contracted 0.2% YoY, versus market consensus for 0.1% growth."
+    },
+    {
+      "id": "mkt:01a014da-4cf3-7aab-907a-4b7a941fd6ad",
+      "time": "2026-08-18 20:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US export prices rose 8.2% year-on-year in July, down from 10.2% in June."
+    },
+    {
+      "id": "mkt:01a014da-47e0-7aab-907a-4106770cc892",
+      "time": "2026-08-18 20:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Copper"
+      ],
+      "text": "US July building permits 1.443 mln housing units; consensus 1.37 mln; prior 1.374 mln."
+    },
+    {
+      "id": "mkt:01a014da-47e0-7aab-907a-3930635b8913",
+      "time": "2026-08-18 20:30:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US July building permits MoM +5.0% (prior -2.6%)."
+    },
+    {
+      "id": "mkt:01a014da-2648-7aab-907a-308b2608cdce",
+      "time": "2026-08-18 20:30:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US import price index YoY +5.9% in July, down from 7.1% previously."
+    },
+    {
+      "id": "5046083",
+      "time": "2026-08-18 20:30:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利第二季度GDP同比下降0.2%；預計+0.1%。"
+    },
+    {
+      "id": "mkt:01a014da-09c4-7aab-907a-2f2728fd8792",
+      "time": "2026-08-18 20:30:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Export Price Index (YoY) (Jul) | actual 8.2% | previous 10.20%"
+    },
+    {
+      "id": "mkt:01a014d9-f250-7aab-907a-2269ab008794",
+      "time": "2026-08-18 20:30:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US July export price index MoM -1.3% vs. +0.2% expected; June revised to -0.7% from -0.6%."
+    },
+    {
+      "id": "mkt:01a014d9-f1fe-7aab-907a-1aa2b6d7f181",
+      "time": "2026-08-18 20:30:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US housing starts in July fell 12.4% (annualized monthly); June revised to +19.7% from +19.0%."
+    },
+    {
+      "id": "mkt:01a014d9-f1fb-7aab-907a-1067c620654e",
+      "time": "2026-08-18 20:30:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US July housing starts (SAAR) 1.239 mln, versus expected 1.350 mln; June revised to 1.415 mln from 1.427 mln."
+    },
+    {
+      "id": "mkt:01a014d9-f0cf-7aab-907a-0d9de9479398",
+      "time": "2026-08-18 20:30:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Import Price Index (YoY) (Jul) | actual 5.9% | previous 7.10%"
+    },
+    {
+      "id": "5046082",
+      "time": "2026-08-18 20:30:20",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月新屋開工總數年化 123.9萬戶，預期135萬戶，前值由142.7萬戶修正為141.5萬戶。美國7月新屋開工年化月率 -12.4%，前值由19.00%修正為19.7%。"
+    },
+    {
+      "id": "5046081",
+      "time": "2026-08-18 20:30:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月出口物價指數月率 -1.3%，預期0.2%，前值由-0.60%修正為-0.7%。美國7月進口物價指數月率 -0.4%，預期0.10%，前值由0.30%修正為-0.3%。"
+    },
+    {
+      "id": "mkt:01a014d9-cd9c-7aab-907a-072e0be6842d",
+      "time": "2026-08-18 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US import price index MoM (July) -0.4% vs. +0.1% expected; June revised from +0.3% to -0.3%."
+    },
+    {
+      "id": "5046080",
+      "time": "2026-08-18 20:30:08",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國7月出口物價指數月率 -1.3%，預期0.2%，前值由-0.60%修正為-0.7%。\n美國7月進口物價指數月率 -0.4%，預期0.10%，前值由0.30%修正為-0.3%。\n美國7月石油進口價格下降7.5%，7月非石油進口價格上漲0.3%。"
+    },
+    {
+      "id": "mkt:01a014d9-a417-7aab-9079-fbe4d32db5d7",
+      "time": "2026-08-18 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Building Permits Total (Jul) | actual 1443000M | consensus 1370000M | previous 1374000M"
+    },
+    {
+      "id": "mkt:01a014d9-a416-7aab-9079-f63eeea6c483",
+      "time": "2026-08-18 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Building Permits (MoM) (Jul) | actual 5% | previous -2.60%"
+    },
+    {
+      "id": "mkt:01a014d9-a29d-7aab-9079-ec7d55a31333",
+      "time": "2026-08-18 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Export Price Index (MoM) (Jul) | actual -1.3% | consensus 0.2% | previous -0.60%"
+    },
+    {
+      "id": "mkt:01a014d9-a121-7aab-9079-e66e0395f157",
+      "time": "2026-08-18 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Import Price Index (MoM) (Jul) | actual -0.4% | consensus 0.10% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a014d9-9cf6-7aab-9079-d73e2227a99e",
+      "time": "2026-08-18 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Housing Starts SAAR (MoM) (Jul) | actual -12.4% | previous 19.00%"
+    },
+    {
+      "id": "mkt:01a014d9-9cf9-7aab-9079-dddb50821133",
+      "time": "2026-08-18 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Housing Starts Total SAAR (Jul) | actual 1239000K | consensus 1350000K | previous 1427000K"
+    },
+    {
+      "id": "5046079",
+      "time": "2026-08-18 20:29:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海看股份：持股5%以上股東擬減持不超1.00%股份】海看股份公告稱，截至公告日，持股5%以上股東新餘市中文產業投資合夥企業(有限合夥)持有公司股份2093.82萬股，佔公司總股本比例5.02%。其計劃於2026年9月9日至2026年12月8日期間，透過集中競價或大宗交易方式減持公司股份合計不超過417萬股，即減持比例不超過公司總股本的1.00%。本次減持系股東自身資金需求，不會導致公司控制權變更。"
+    },
+    {
+      "id": "5046078",
+      "time": "2026-08-18 20:29:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【九州一軌：股票交易異常波動 涉及多事項說明】九州一軌公告稱，公司股票於2026年8月14日、8月17日、8月18日連續三個交易日收盤價格漲幅偏離值累計達30%，屬於交易異常波動情形。2026年第一季度公司營收3201.27萬元，同比增長22.85%；淨虧損435.28萬元。全資子公司晶禧半導體擬投資不超過6.3億元建設先進半導體晶圓鐳射隱形切割產業化專案，尚處初步規劃階段，實施存在不確定性。2026年8月6日公司透過集中競價出售已回購股份139.79萬股，佔總股本0.93%。2026年8月12日至8月14日，持股5%以上股東廣州軌道交通產業投資發展基金合計減持2.0623%股份，減持計劃實施完畢。2026年8月14日，董事、核心技術人員邵斌減持0.26%股份，減持計劃提前終止；公司副總裁陶為銀增持1.76%股份。公司日常經營正常，無其他應披露未披露重大事項。"
+    },
+    {
+      "id": "5046077",
+      "time": "2026-08-18 20:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞瑪芬體育：將持續擴大薩洛蒙在美國的批發業務。"
+    },
     {
       "id": "5046076",
       "time": "2026-08-18 20:28:10",
@@ -138768,116 +139043,6 @@
         "其他"
       ],
       "text": "KIDZ AI宣佈對A類和B類普通股進行15比1的反向股票分割。"
-    },
-    {
-      "id": "mkt:019ff0cf-7530-7aab-8ff2-07b1c2a1e9bf",
-      "time": "2026-08-11 20:32:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's prime minister said the government will accelerate fulfilment of commitments under the 'Ukraine Assistance Fund' to secure as much partner funding as possible, calling it a vital resource for the state."
-    },
-    {
-      "id": "5035954",
-      "time": "2026-08-11 20:32:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "BIG DIGITAL ENERGY - TLH：將為TENSOR IQ預留並開發高達17兆瓦的電力容量。"
-    },
-    {
-      "id": "mkt:019ff0cf-17d4-7aab-8ff1-fab87e456abd",
-      "time": "2026-08-11 20:32:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Supreme National Security Council: Iran at historic turning point, 'zero tolerance' for threats】Iran's Supreme National Security Council secretary Rezai said Iran is at a historic turning point and will show \"zero tolerance\" for threats, according to Iranian media. He said decisions must be firmer than before, based on precise assessments and taken with resolve. Following the Supreme Leader's overall guidance, foreign-policy priorities will be strengthening deterrence, resisting enemy coercion, responding swiftly and decisively to any aggression, maximizing national welfare, safeguarding Iran's regional and global interests, and fully employing diplomatic tools through firm engagement."
-    },
-    {
-      "id": "5035953",
-      "time": "2026-08-11 20:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "BIG DIGITAL ENERGY：計劃初步部署7,748塊英偉達B300 GPU。"
-    },
-    {
-      "id": "5035952",
-      "time": "2026-08-11 20:31:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：紐約聯儲隔夜回購操作未收到任何投標。"
-    },
-    {
-      "id": "5035951",
-      "time": "2026-08-11 20:30:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "分析師預計智利9月關鍵利率為4.5%。"
-    },
-    {
-      "id": "5035950",
-      "time": "2026-08-11 20:30:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤建股份攜手南航推出“里程兌換Token權益”服務】據潤建股份訊息，潤建股份攜手中國南方航空，將Token服務能力引入航空會員權益體系，南航明珠俱樂部會員客戶能夠透過“里程兌換Token權益”的方式，獲取AI算力服務體驗。"
-    },
-    {
-      "id": "5035949",
-      "time": "2026-08-11 20:29:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所：擬將票據發行淨收益用於支付MarketAxess收購對價。"
-    },
-    {
-      "id": "mkt:019ff0cc-d606-7aab-8ff1-f6fae86ca5d1",
-      "time": "2026-08-11 20:29:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran Supreme National Security Council Secretary Rezai said diplomatic policy will follow the Supreme Leader’s guidance, prioritizing stronger deterrence, resistance to enemy coercion and an immediate, decisive response to any aggression."
-    },
-    {
-      "id": "5035948",
-      "time": "2026-08-11 20:29:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "AURORA CANNABIS在美國盤前交易中股價飆升17%。"
-    },
-    {
-      "id": "mkt:019ff0cc-5ccb-7aab-8ff1-ef07856d2759",
-      "time": "2026-08-11 20:29:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran will not back down if its people's rights or interests are threatened."
-    },
-    {
-      "id": "5035947",
-      "time": "2026-08-11 20:29:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所提交五部分高階債券發行申請，規模未披露。"
-    },
-    {
-      "id": "mkt:019ff0cc-20b6-7aab-8ff1-e70ad9b5f745",
-      "time": "2026-08-11 20:28:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Supreme National Security Council secretary Rezaei said he will do his utmost to strengthen Iran's national capabilities."
     }
   ]
 }
