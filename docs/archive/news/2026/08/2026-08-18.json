@@ -1,7 +1,153 @@
 {
   "date": "2026-08-18",
-  "count": 627,
+  "count": 642,
   "items": [
+    {
+      "id": "5045014",
+      "time": "2026-08-18 09:48:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局徵求《可可及焙炒咖啡產品生產許可審查細則（徵求意見稿）》意見】為規範指導可可及焙炒咖啡產品生產許可工作，加強可可及焙炒咖啡產品質量安全監管，市場監管總局組織起草了《可可及焙炒咖啡產品生產許可審查細則（徵求意見稿）》，現向社會公開徵求意見。歡迎各有關單位和個人提出修改意見，並於2026年9月18日前將《公開徵求意見反饋表》反饋市場監管總局。"
+    },
+    {
+      "id": "5045013",
+      "time": "2026-08-18 09:48:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股種植業板塊異動拉昇】農發種業、萬向德農、亞盛集團觸及漲停，秋樂種業、華綠生物、神農種業、雪榕生物跟漲。"
+    },
+    {
+      "id": "mkt:01a0128d-80ac-7aab-906c-bc6d3e445a0d",
+      "time": "2026-08-18 09:47:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Al Arabiya reported airstrikes hit the Abu al-Duhur military airbase in eastern Idlib, Syria."
+    },
+    {
+      "id": "te:markets:575965",
+      "time": "2026-08-18 09:46:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Rise After Recent Declines — Australian shares rose 25 points or 0.3% to 9,098 on Tuesday morning, reversing weakness in the prior four sessions. Bargain hunters entered after markets hit a two-week low, picking selective stocks in healthcare, manufacturing, non-energy minerals, and consumer non-durables. Sentiment also improved after August consumer sentiment hit a nine-month peak as mortgage holders became less concerned about further interest rate increases. However, gains were capped by losses on Wall Street overnight as oil prices spiked, stoking inflation concerns, amid escalating geopolitical tensions in the Middle East. In top trading partner China, July activity data showed the economy lost momentum as consumer spending stalled and urban investment contracted at a faster pace while unemployment ticked higher. Heavyweight BHP Group jumped 3.3% while other movers included Pro Medicus (13.1%), Cochlear Ltd. (6.0%), and JB Hi-Fi (1.5%). In contrast, the four big banks fell between 0.5% and 1.4%."
+    },
+    {
+      "id": "mkt:01a0128c-3149-7aab-906c-b7e919e36a94",
+      "time": "2026-08-18 09:46:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 1.00% intraday."
+    },
+    {
+      "id": "5045012",
+      "time": "2026-08-18 09:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音成立匯智觀雲科技公司 註冊資本15.6億元】企查查APP顯示，近日，匯智觀雲（上海）科技有限公司成立，註冊資本15.6億元，經營範圍包含：資訊科技諮詢服務；軟體開發；非居住房地產租賃；物業管理等。企查查股權穿透顯示，該公司由抖音集團（香港）有限公司間接全資持股。"
+    },
+    {
+      "id": "5045011",
+      "time": "2026-08-18 09:45:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌1%，至68,526.32點。"
+    },
+    {
+      "id": "5045010",
+      "time": "2026-08-18 09:45:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "10年期國債期貨價格攀升至歷史新高。"
+    },
+    {
+      "id": "mkt:01a0128b-3885-7aab-906c-abd08c6fbe3b",
+      "time": "2026-08-18 09:45:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 30-year Treasury yield climbed to 5.321%, the highest since mid-2007."
+    },
+    {
+      "id": "mkt:01a0128b-0969-7aab-906c-a7de391e5d28",
+      "time": "2026-08-18 09:44:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Aili Home resumed trading at the daily limit, marking 12 limit-up days in the past 13 trading sessions. The company had been suspended twice previously for verification."
+    },
+    {
+      "id": "5045009",
+      "time": "2026-08-18 09:44:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率攀升至5.321%，創2007年年中以來新高。"
+    },
+    {
+      "id": "5045008",
+      "time": "2026-08-18 09:44:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "愛麗家居復牌漲停，走出13天12板，公司此前兩度停牌核查。"
+    },
+    {
+      "id": "5045007",
+      "time": "2026-08-18 09:44:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【豬肉概念早盤拉昇 天邦食品漲停】豬肉概念早盤拉昇，天邦食品、金字火腿漲停，羅牛山、大北農、正邦科技、傲農生物、巨星農牧跟漲。"
+    },
+    {
+      "id": "5045006",
+      "time": "2026-08-18 09:44:32",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式附息（十七期）國債】據財政部訊息，財政部擬發行2026年記賬式附息（十七期）國債。本期國債為3年期固定利率附息債。本期國債競爭性招標面值總額1400億元，進行甲類成員追加投標。招標時間為2026年8月24日上午10:35至11:35。招標結束至2026年8月25日進行分銷，8月27日起上市交易。"
+    },
+    {
+      "id": "5045005",
+      "time": "2026-08-18 09:44:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
     {
       "id": "5045004",
       "time": "2026-08-18 09:43:52",
