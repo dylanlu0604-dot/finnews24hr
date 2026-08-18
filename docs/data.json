@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-19 02:18:55",
+  "updated": "2026-08-19 02:22:48",
   "count": 15095,
   "items": [
+    {
+      "id": "te:markets:576223",
+      "time": "2026-08-19 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 3.46% — Top commodity losers are Platinum (-3.46%), Silver (-2.91%), Copper (-2.07%) and Gold (-1.29%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%)."
+    },
+    {
+      "id": "5046409",
+      "time": "2026-08-19 02:19:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯黑海港口附近至少五艘糧船遇襲 糧食供應風險升溫】知情人士透露，在俄羅斯因烏克蘭襲擊升級而艱難維持糧食出口之際，至少有五艘糧船在俄羅斯黑海港口新羅西斯克和圖阿普謝附近遭到襲擊。俄羅斯和烏克蘭加大了對黑海地區商船和港口的相互攻擊，引發對全球糧食供應的擔憂。兩國合計佔全球小麥出口逾四分之一，而襲擊發生之際正值今年糧食收穫季。這是首次有訊息證實，服務於受影響俄羅斯港口的糧船遭到襲擊。隨著越來越多船東擔憂停靠俄羅斯港口存在風險，莫斯科一直試圖淡化襲擊造成的影響。"
+    },
     {
       "id": "mkt:01a01617-8f4d-7aab-9080-5a417c1c9a8e",
       "time": "2026-08-19 02:17:17",
@@ -138352,26 +138371,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.05% — Top commodity losers are Cocoa (-5.05%) and Canola (-1.91%). Gains are led by Sugar (1.64%), Cotton (0.62%) and Palm Oil (0.53%)."
-    },
-    {
-      "id": "5036316",
-      "time": "2026-08-12 02:20:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：被告（歌利亞風投）涉嫌以加密貨幣交易為名非法募集資金，要求追繳贓款並申請永久禁令。"
-    },
-    {
-      "id": "te:markets:574506",
-      "time": "2026-08-12 02:20:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 1.72% — Top commodity losers are Silver (-1.72%) and Gold (-0.55%). Gains are led by Iron Ore CNY (1.12%), Silicon (0.58%) and Steel Rebar (0.53%)."
     }
   ]
 }
