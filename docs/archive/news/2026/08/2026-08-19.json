@@ -1,7 +1,149 @@
 {
   "date": "2026-08-19",
-  "count": 174,
+  "count": 190,
   "items": [
+    {
+      "id": "mkt:01a0165e-09f2-7aab-9081-61808d57a3c4",
+      "time": "2026-08-19 03:34:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic."
+    },
+    {
+      "id": "5046456",
+      "time": "2026-08-19 03:33:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。"
+    },
+    {
+      "id": "mkt:01a0165d-6d03-7aab-9081-59c55f97feb4",
+      "time": "2026-08-19 03:33:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond."
+    },
+    {
+      "id": "5046455",
+      "time": "2026-08-19 03:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。"
+    },
+    {
+      "id": "mkt:01a0165c-f1c2-7aab-9081-56432645ea04",
+      "time": "2026-08-19 03:33:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it."
+    },
+    {
+      "id": "mkt:01a0165c-d2be-7aab-9081-49b1129702e7",
+      "time": "2026-08-19 03:32:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term."
+    },
+    {
+      "id": "5046454",
+      "time": "2026-08-19 03:31:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。"
+    },
+    {
+      "id": "5046453",
+      "time": "2026-08-19 03:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。"
+    },
+    {
+      "id": "5046452",
+      "time": "2026-08-19 03:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。"
+    },
+    {
+      "id": "5046451",
+      "time": "2026-08-19 03:27:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。"
+    },
+    {
+      "id": "mkt:01a01657-80d4-7aab-9081-42aef80746fb",
+      "time": "2026-08-19 03:27:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight."
+    },
+    {
+      "id": "5046450",
+      "time": "2026-08-19 03:27:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）"
+    },
+    {
+      "id": "5046449",
+      "time": "2026-08-19 03:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。"
+    },
+    {
+      "id": "5046448",
+      "time": "2026-08-19 03:25:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。"
+    },
+    {
+      "id": "mkt:01a01655-dbed-7aab-9081-3a472425e01c",
+      "time": "2026-08-19 03:25:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%."
+    },
+    {
+      "id": "mkt:01a01655-7946-7aab-9081-32027d55f085",
+      "time": "2026-08-19 03:24:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery."
+    },
     {
       "id": "5046447",
       "time": "2026-08-19 03:24:05",
