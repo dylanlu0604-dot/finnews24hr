@@ -1,7 +1,91 @@
 {
   "date": "2026-08-18",
-  "count": 859,
+  "count": 867,
   "items": [
+    {
+      "id": "5045170",
+      "time": "2026-08-18 11:37:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債拍賣認購倍數為4.15，而12個月均值為3.34。"
+    },
+    {
+      "id": "5045169",
+      "time": "2026-08-18 11:36:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【垣信衛星完成近70億元增資】上海聯合產權交易所顯示，8月17日，上海垣信衛星科技有限公司（以下簡稱“垣信衛星”）完成增資專案，本次增資共引入18位投資方，合計增資金額達69.76億元人民幣，新增持股比例合計13.94%。其中，增資金額最大的投資方為國調二期協同發展基金股份有限公司等24位聯合體，合計出資約57.64億元，獲得11.5167%的股權。以最新融資金額和持股比例計算，垣信衛星估值為500億元。垣信衛星是千帆星座運營主體，截至7月5日，千帆星座在軌衛星數量達到238顆。"
+    },
+    {
+      "id": "5045168",
+      "time": "2026-08-18 11:36:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞防長馬爾斯：澳大利亞有望在本十年迎來首艘最上級艦艇 。"
+    },
+    {
+      "id": "mkt:01a012f0-aefb-7aab-906e-708966806cc2",
+      "time": "2026-08-18 11:35:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CHA.O",
+        "Impact bullish"
+      ],
+      "text": "【Shenzhen signs strategic cooperation framework with China Telecom】Aug 18 — The Shenzhen municipal government and China Telecom signed a strategic cooperation framework to deepen collaboration on new infrastructure, artificial intelligence, satellite communications and urban digital governance. Shenzhen Airport Group and China Telecom Investment also signed a cooperation memorandum at the event."
+    },
+    {
+      "id": "5045167",
+      "time": "2026-08-18 11:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞防長馬爾斯：已達成協議，日本可使用澳大利亞導彈靶場。"
+    },
+    {
+      "id": "mkt:01a012ef-b342-7aab-906e-6b2b63c6543f",
+      "time": "2026-08-18 11:34:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【A-shares midday: ChiNext down 1.3%; grain and seed stocks extend rally】A-share indices opened lower, rallied briefly then slid; at midday the Shanghai Composite fell 0.39%, the Shenzhen Composite dropped 1.09% and the ChiNext index eased 1.3%. Turnover across Shanghai and Shenzhen was 1.64 trillion yuan, up 139.3 billion yuan from the prior session. More than 3,900 stocks were down. Grain-related names extended gains, with genetically modified/seed stocks leading—several seed producers including Qiule Seed, Nongfa Seed, Jingliang Holdings, Wanxiang Denong, Denghai Seed and Yasheng Group hit daily limits. Pork names were active: Luoniushan posted a second consecutive limit-up and Tianbang Foods hit the limit. Fertilizer, dairy and glass-substrate sectors outperformed. AI-related names underperformed, with Daheng Technology, Zhongguang Tianze and Kaipu Cloud among decliners. Compute-rental names plunged; Hongbo fell over 9%, and Xingyun Technology, Jinkai New Energy, Huijin and Qunxing Toys each fell more than 5%. Software development, cloud office and gaming sectors were also among the day’s laggards."
+    },
+    {
+      "id": "5045166",
+      "time": "2026-08-18 11:34:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳市與中國電信簽署戰略合作框架協議】據深視新聞，8月18日，深圳市人民政府與中國電信集團有限公司簽署戰略合作框架協議。根據協議，雙方將在新型基礎設施建設、人工智慧、衛星通訊、城市數字化治理等領域開展深度合作。當天，現場還見證了深圳市機場（集團）有限公司與中國電信集團投資有限公司簽署合作備忘錄。"
+    },
+    {
+      "id": "mkt:01a012ef-20a2-7aab-906e-6026b3967804",
+      "time": "2026-08-18 11:34:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【ING: US-Iran truce expiry to prolong bearish tone in US Treasury market】US Treasury Department data show foreign holdings of US Treasuries fell to $9.299 trillion in June from $9.371 trillion in May, though holdings are still up 2.3% YoY. Japan remains the largest non-US holder but cut holdings 2.3% to $1.116 trillion (well below the Nov 2021 peak of $1.325 trillion). Foreign investors net sold about $72 billion of Treasuries in June; Japan, China and some custody centres were net sellers while Canada, Belgium and Switzerland were net buyers. Foreigners have been net sellers of $56 billion over the past three months but net buyers of $205 billion over the past 12 months; total US inflows including equities were $173 billion in June. ING says with the 60-day US‑Iran truce due to expire unresolved and ongoing heavy corporate issuance, the Treasury market bias remains bearish and could drive yields higher. ING attributes recent real-yield rises to a reversion toward pre‑global‑financial‑crisis norms rather than market dislocation. In the euro area, ECB balance-sheet runoff is tightening liquidity, reinforcing a structural bearish case for German Bunds."
+    },
     {
       "id": "5045165",
       "time": "2026-08-18 11:33:43",
