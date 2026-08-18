@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-18 22:07:31",
-  "count": 15145,
+  "updated": "2026-08-18 22:11:38",
+  "count": 15140,
   "items": [
+    {
+      "id": "mkt:01a01535-d68c-7aab-907c-a7952c13f03f",
+      "time": "2026-08-18 22:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign ministry urged the international community to hold Israel accountable for violations of international law."
+    },
+    {
+      "id": "5046234",
+      "time": "2026-08-18 22:10:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：呼籲國際社會確保以色列違反國際法的行為受到追究。"
+    },
+    {
+      "id": "mkt:01a01535-1aa7-7aab-907c-9ad0e02fb6f9",
+      "time": "2026-08-18 22:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign ministry strongly condemned Israel's airstrike on a Syrian base."
+    },
+    {
+      "id": "5046233",
+      "time": "2026-08-18 22:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：強烈譴責以色列對敘利亞基地發動空襲。"
+    },
+    {
+      "id": "5046232",
+      "time": "2026-08-18 22:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Paradox Arc宣佈與藍島工作室達成發行合作伙伴關係，將推出生存建造類生物收集冒險遊戲《荒野天空守護者》。"
+    },
+    {
+      "id": "te:economy:576175",
+      "time": "2026-08-18 22:08:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Pending Home Sales MoM",
+        "Importance 2"
+      ],
+      "text": "US Pending Home Sales Unexpectedly Fall — US pending home sales fell by 2.3% month-over-month in July 2026, following a downwardly revised 4.8% decline in June and against market forecasts of a 0.3% rise. This marked the second consecutive monthly decrease, with contract signings falling across all four major regions: the West (-4.7%), the South (-2.2%), the Northeast (-2%) and the Midwest (-0.7%). Compared with a year earlier, pending home sales dropped by 2.2%, as declines across the West (-7.1%), the South (-3%) and the Northeast (-0.2%) offset stronger activity in the Midwest (1.7%)."
+    },
+    {
+      "id": "5046231",
+      "time": "2026-08-18 22:07:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【8月18日增減持彙總】8月18日盤後，據不完全統計，包括海看股份、潔雅股份、多浦樂、匯通能源、克來機電、格爾軟體、康美特在內的7家A股上市公司披露擬減持情況。當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5046230",
+      "time": "2026-08-18 22:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空（INDIGO）：稅務總局已作出處罰決定。"
+    },
+    {
+      "id": "5046229",
+      "time": "2026-08-18 22:07:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "小米集團ADR上漲1%，此前公佈了第二季度財報。"
+    },
     {
       "id": "5046228",
       "time": "2026-08-18 22:06:46",
@@ -138820,137 +138898,6 @@
         "其他"
       ],
       "text": "巴西CNT/MDA 民調：盧拉政府支援率 35.3%，不支援率 36.2%。"
-    },
-    {
-      "id": "mkt:019ff129-d122-7aab-8ff4-a04fdd0cbedc",
-      "time": "2026-08-11 22:11:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump: We can deploy \"powerful force\" to strike Iran】U.S. President Trump said Iran's inflation is about 300% and its currency is worthless, that Iranians are not paying their soldiers' salaries and the U.S. \"completely controls\" Iran's funds. He said the U.S. can deploy \"powerful force\" against Iran and that there is no shortage of missile ammunition."
-    },
-    {
-      "id": "5036122",
-      "time": "2026-08-11 22:10:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣汽旗下人形機器人公司慧侖科技完成億元融資】據廣汽集團訊息，近日，廣汽集團孵化的人形機器人公司廣東慧侖科技有限公司（簡稱“慧侖科技”）宣佈完成超億元融資，由中車國創基金、招銀國際、四川科創等機構聯合投資。慧侖科技本輪融資所得資金將投入垂類模型持續最佳化、汽車產線與綜合服務場景拓展、核心硬體產品迭代以及高階人才梯隊建設，全力推動人形機器人整機與核心零部件規模化商用。"
-    },
-    {
-      "id": "5036121",
-      "time": "2026-08-11 22:10:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯1-7月預算赤字擴大至6.455萬億盧布。"
-    },
-    {
-      "id": "te:economy:574459",
-      "time": "2026-08-11 22:10:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10-Year Gilt Yield Falls Below 5% — The UK 10-year gilt yield fell to around 4.95% as renewed hopes for a deal to reopen the Strait of Hormuz pushed oil prices lower, easing concerns over inflation. Crude declined after Pakistan signaled that the US and Iran were “close to some sort of arrangement” aimed at reducing tensions and restoring shipping through the strategic waterway. The comments offered a more positive assessment after President Donald Trump had toughened his stance toward Tehran, demanding reparations for deaths linked to Iran and domestic protests. Meanwhile, the Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying the disinflation process remained on track despite external risks. Recent BRC data showed UK retail sales increased 1.3% year-on-year in July, below the 12-month average, suggesting subdued consumer activity, while Barclays data showed household spending rose 2%, its strongest growth of the year."
-    },
-    {
-      "id": "mkt:019ff128-af6e-7aab-8ff4-9b4fa42a3715",
-      "time": "2026-08-11 22:10:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Eleven French nationals detained in Thailand on suspicion of drug trafficking."
-    },
-    {
-      "id": "5036120",
-      "time": "2026-08-11 22:09:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【何小鵬談電池和自動駕駛新國標：確保不只有長板，更重要的是沒有短板】在小鵬G9L全球首秀暨預售釋出會後，小鵬集團董事長、CEO何小鵬與媒體對話。談及動力電池安全和自動駕駛安全兩個新國標，何小鵬表示，小鵬也是標準的參與者、制定者。以自動駕駛為例，小鵬和其它造車新勢力在2020年左右，就將高速的輔助駕駛帶到了中國，甚至能夠走向全球。現在也看到有越來越多的車廠都能夠把自動輔助駕駛當做一個標配，這是一個非常好的事情，因為不管是中國客戶還是全球客戶都有需求。他同時指出，有非常多的細節場景，很多車主朋友們不一定知道哪些是自動輔助駕駛能力強的，哪些是能力弱的，能力弱的時候該怎麼辦？這個時候就需要制定一個更全面體系的強制標準，這個標準要確保不光你有長板，更重要的是你沒有短板，還重要的是你能夠在整個體系規劃裡把中板補結實，這是我們一直在強標裡期望去做的事情。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ff128-572b-7aab-8ff4-928268b87fc1",
-      "time": "2026-08-11 22:09:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the United States does not lack missiles or munitions."
-    },
-    {
-      "id": "mkt:019ff128-1b46-7aab-8ff4-8fad59a36aa4",
-      "time": "2026-08-11 22:09:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the U.S. controls Iran’s funds and has full control over them."
-    },
-    {
-      "id": "mkt:019ff127-7d31-7aab-8ff4-864bbf950761",
-      "time": "2026-08-11 22:08:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the US could use \"powerful force\" to strike Iran."
-    },
-    {
-      "id": "te:economy:574458",
-      "time": "2026-08-11 22:08:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Existing Home Sales",
-        "Importance 2"
-      ],
-      "text": "US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 1.7% from the previous month to a seasonally adjusted, annualized rate of 4.06 units in July of 2026, relatively close to market expectations of 4.06 million. “Home sales have been remarkably stable, even amid the rising mortgage rate environment of the past few months,” said NAR Chief Economist Lawrence Yun. “Year-to-date sales are up 2.4% and there’s no doubt that the housing market would be thriving if average mortgage rates were to return near 6%.”"
-    },
-    {
-      "id": "5036119",
-      "time": "2026-08-11 22:08:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國交通運輸聯合會（CNT）首輪民調：盧拉支援率 42.4%，弗拉維奧・博索納羅 28.7% 。"
-    },
-    {
-      "id": "5036118",
-      "time": "2026-08-11 22:08:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普表示，伊朗通貨膨脹率高達300%，其貨幣一文不值。美國可以用“巨大力量”打擊伊朗。"
-    },
-    {
-      "id": "mkt:019ff126-c6e5-7aab-8ff4-7c9f6ff5b6ef",
-      "time": "2026-08-11 22:07:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Iran's inflation is as high as 300% and its currency is effectively worthless."
-    },
-    {
-      "id": "mkt:019ff126-6925-7aab-8ff4-7048ee76a7ad",
-      "time": "2026-08-11 22:07:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Iranians do not pay soldiers' salaries."
     }
   ]
 }

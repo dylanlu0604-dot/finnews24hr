@@ -1,7 +1,85 @@
 {
   "date": "2026-08-18",
-  "count": 2451,
+  "count": 2460,
   "items": [
+    {
+      "id": "mkt:01a01535-d68c-7aab-907c-a7952c13f03f",
+      "time": "2026-08-18 22:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign ministry urged the international community to hold Israel accountable for violations of international law."
+    },
+    {
+      "id": "5046234",
+      "time": "2026-08-18 22:10:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：呼籲國際社會確保以色列違反國際法的行為受到追究。"
+    },
+    {
+      "id": "mkt:01a01535-1aa7-7aab-907c-9ad0e02fb6f9",
+      "time": "2026-08-18 22:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign ministry strongly condemned Israel's airstrike on a Syrian base."
+    },
+    {
+      "id": "5046233",
+      "time": "2026-08-18 22:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部：強烈譴責以色列對敘利亞基地發動空襲。"
+    },
+    {
+      "id": "5046232",
+      "time": "2026-08-18 22:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Paradox Arc宣佈與藍島工作室達成發行合作伙伴關係，將推出生存建造類生物收集冒險遊戲《荒野天空守護者》。"
+    },
+    {
+      "id": "te:economy:576175",
+      "time": "2026-08-18 22:08:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Pending Home Sales MoM",
+        "Importance 2"
+      ],
+      "text": "US Pending Home Sales Unexpectedly Fall — US pending home sales fell by 2.3% month-over-month in July 2026, following a downwardly revised 4.8% decline in June and against market forecasts of a 0.3% rise. This marked the second consecutive monthly decrease, with contract signings falling across all four major regions: the West (-4.7%), the South (-2.2%), the Northeast (-2%) and the Midwest (-0.7%). Compared with a year earlier, pending home sales dropped by 2.2%, as declines across the West (-7.1%), the South (-3%) and the Northeast (-0.2%) offset stronger activity in the Midwest (1.7%)."
+    },
+    {
+      "id": "5046231",
+      "time": "2026-08-18 22:07:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【8月18日增減持彙總】8月18日盤後，據不完全統計，包括海看股份、潔雅股份、多浦樂、匯通能源、克來機電、格爾軟體、康美特在內的7家A股上市公司披露擬減持情況。當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5046230",
+      "time": "2026-08-18 22:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空（INDIGO）：稅務總局已作出處罰決定。"
+    },
+    {
+      "id": "5046229",
+      "time": "2026-08-18 22:07:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "小米集團ADR上漲1%，此前公佈了第二季度財報。"
+    },
     {
       "id": "5046228",
       "time": "2026-08-18 22:06:46",
