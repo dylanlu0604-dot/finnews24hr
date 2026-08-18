@@ -1,7 +1,23 @@
 {
   "date": "2026-08-19",
-  "count": 82,
+  "count": 84,
   "items": [
+    {
+      "id": "5046399",
+      "time": "2026-08-19 01:53:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道：調查顯示，有關伊朗向阿聯酋發動導彈襲擊的說法尚無證據證實；伊朗只承認自己實際實施過的行動。"
+    },
+    {
+      "id": "mkt:01a01601-6253-7aab-907f-f93157abb5cf",
+      "time": "2026-08-19 01:53:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported Rep. Buddy Carter has held discussions with the White House about serving as the next FDA commissioner, and sources said he is interested in the post."
+    },
     {
       "id": "mkt:01a015ff-4def-7aab-907f-f410595902a1",
       "time": "2026-08-19 01:50:48",
