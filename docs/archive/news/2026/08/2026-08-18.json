@@ -1,7 +1,156 @@
 {
   "date": "2026-08-18",
-  "count": 978,
+  "count": 995,
   "items": [
+    {
+      "id": "te:markets:576000",
+      "time": "2026-08-18 13:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Drops by 0.41% — Top currency losers are New Zealand Dollar (-0.41%), Japanese Yen (-0.17%), Euro (-0.09%) and British Pound (-0.08%). Gains are led by South Korean Won (0.35%) and Dollar Index (0.08%)."
+    },
+    {
+      "id": "5045261",
+      "time": "2026-08-18 13:15:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【支付寶釋出中國首個全棧智慧體商業產品底座】根據公司新聞稿，支付寶釋出中國首個全棧智慧體商業產品底座，旨在幫助商家從數字化運營轉型為人工智慧驅動的運營，加快智慧體商業規模化落地。智慧體商業產品底座搭載多套可獨立選用的智慧經營元件，提供一站式智慧託管，將頁面、商品、服務流程轉化為可被智慧體呼叫的Skills、MCP、智慧體標準化單元。"
+    },
+    {
+      "id": "5045260",
+      "time": "2026-08-18 13:13:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華是科技參與的浙江省科技廳尖兵專案取得階段性成果】據華是科技訊息，近日，由華是科技參與承擔的2025年度浙江省“尖兵領雁+X”科技計劃專案《極限場景動靜態小目標精準感知與立體監測關鍵技術及應用》取得階段性成果——專案已完成全部研究內容，研製樣機一套，授權發明專利5項；樣機在衢州機場完成實地測試，結果表明系統實現了對機場動靜態小目標的精準感知與立體監測。"
+    },
+    {
+      "id": "mkt:01a01348-e646-7aab-906f-97c4f5f10c4d",
+      "time": "2026-08-18 13:12:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong departure tax-refund applications jump 6.4x in Jan–Jul; electronics, apparel lead】China Customs' Guangdong branch said Jan–Jul provincial customs verified 186,000 departure tax-refund applications, up 6.4x year-on-year, with verified application value of 1.69 bln yuan, up 1.2x. Electronics and apparel were the most frequent tax-free purchases. The branch said it will streamline clearance services, strengthen interagency coordination and improve convenience of departure tax-refund processing."
+    },
+    {
+      "id": "5045259",
+      "time": "2026-08-18 13:12:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養殖業板塊走高，中水漁業漲停】養殖業板塊走高，中水漁業漲停，羅牛山、天邦食品、天山生物此前封板，國聯水產漲超10%，曉鳴股份、獐子島、好當家、華英農業、開創國際等跟漲。"
+    },
+    {
+      "id": "mkt:01a01348-5354-7aab-906f-890343a144fb",
+      "time": "2026-08-18 13:11:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan 30-year government bond yield continued to rise, up 6bps to 4.135%."
+    },
+    {
+      "id": "5045258",
+      "time": "2026-08-18 13:11:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共生知行釋出人形機器人賽車Demo】8月17日，具身智慧初創公司共生知行（Symbiosis Robotics）釋出雙足人形機器人駕駛卡丁車Demo，官方網站同步上線。這是公司成立後首次較為完整地對外展示技術方向和階段性研發成果。公開影片中，人形機器人進入卡丁車駕駛位，雙手接觸方向盤、雙腳進入踏板區域，並在封閉賽道上完成車輛行駛。駕駛不是單一動作：機器人需要根據環境調整方向，在狹窄座艙中保持穩定，並協調手部轉向與腳部油門、剎車控制。"
+    },
+    {
+      "id": "5045257",
+      "time": "2026-08-18 13:10:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東前7月離境退稅申請增6.4倍，電子產品和服裝成熱門商品】8月18日，記者從海關總署廣東分署瞭解到，1—7月，廣東省內海關合計驗核離境退稅申請18.6萬票，驗核申請單金額16.9億元，同比分別增長6.4倍、1.2倍。電子產品和服裝成為旅客申請離境退稅的熱門商品。海關總署廣東分署表示，下一步將進一步最佳化通關服務，加強部門協同，提升離境退稅辦理便利度。（21財經）"
+    },
+    {
+      "id": "5045256",
+      "time": "2026-08-18 13:09:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度國家證券交易所據悉擬在印度創紀錄 IPO 中爭取最高 550 億美元估值】據知情人士透露，全球交易量最大衍生品交易所運營方 —— 印度國家證券交易所有限公司，計劃透過首次公開募股謀求最高 5.26 萬億盧比（摺合 550 億美元）的估值。知情人士表示，在與潛在投資者會晤期間，該交易所給出的股票推介定價區間為每股 2000‑2100 盧比；因相關資訊尚未公開，知情人士要求匿名。訊息稱，印度國家證券交易所已完成大部分全球路演，僅中東地區的會面尚待收尾。知情人士稱，相關磋商仍在進行，本次交易細節或發生變動。訊息稱，此次 IPO 預計將於 9 月下旬正式啟動。"
+    },
+    {
+      "id": "mkt:01a01346-20fb-7aab-906f-8655a6acbf8d",
+      "time": "2026-08-18 13:09:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC-run Financial News warns A-share name-driven rallies tied to homophones are speculative and short-lived】Financial News, supervised by the PBOC, said the film Niu Lai, released Aug 5, took just 7,169 yuan in nine-day box office revenue with 236 viewers yet went viral on social media; its catchy name led some retail investors to assign market meaning. The paper said this echoes recurring A-share episodes where name- or homophone-linked stocks draw short-term flows—from Valentine’s Day concept plays to event-driven homophone moves—and share the same features: tenuous causality, flimsy logic, rapid capital in/out and ephemeral rallies. When the hype fades, late-following investors are typically first to incur losses."
+    },
+    {
+      "id": "mkt:01a01344-00de-7aab-906f-7f477e24b888",
+      "time": "2026-08-18 13:06:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China Academy of Information and Communications Technology AI Research Institute and CHINA'S CPU MAKER HAIGUANG, industry groups publish study on enterprise compute-base construction】Aug 18, Beijing — The China Academy of Information and Communications Technology AI Research Institute, CHINA'S CPU MAKER HAIGUANG, the Haiguang industry ecosystem cooperation body and the China AI Industry Development Alliance working group jointly released a report on enterprise compute-base construction. The study says assessment is shifting from scale expansion toward quality improvement; supply‑chain security and resilience, software ecosystem and system compatibility, commercial deployment and application traction, and energy constraints and sustainable operations are now core criteria for building and selecting enterprise compute platforms."
+    },
+    {
+      "id": "5045255",
+      "time": "2026-08-18 13:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本30年期公債收益率上升6個基點至4.135%。"
+    },
+    {
+      "id": "mkt:01a01343-8dd4-7aab-906f-72604adcb7ec",
+      "time": "2026-08-18 13:06:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-shares agricultural-products processing sector extended gains; COFCO Sugar hit its daily limit, while COFCO Technology, Joyvio Foods, Baolingbao, Chenguang Bio and Huazi Industrial advanced."
+    },
+    {
+      "id": "5045254",
+      "time": "2026-08-18 13:06:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方國信成立科技新公司 含AI軟體開發業務】企查查APP顯示，近日，寧夏長河國信科技有限公司成立，經營範圍包含：人工智慧應用軟體開發；文藝創作；廣告製作等。企查查股權穿透顯示，該公司由東方國信全資持股。"
+    },
+    {
+      "id": "5045253",
+      "time": "2026-08-18 13:06:21",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【央行主管媒體：諧音梗怎能炒出真收益】中國人民銀行主管的《金融時報》發文稱，一部被網友調侃“畫質感人”的國產動畫電影，成了暑期檔最魔幻的院線“奇蹟”。8月16日下午，同花順熱股榜前五席中，金牛化工、公牛集團、銅牛資訊3只名稱帶“牛”字的個股集體上榜，金牛化工以39.6萬的熱度登頂。8月17日，“牛字輩”個股盤中一度衝高，但最終漲幅收窄，這本質上是“諧音梗”引發的短期情緒脈衝。熱鬧歸熱鬧，事實還是要釐清。3家上市公司與《牛來》沒有任何股權關係、業務合作或收益分成，影片出品方也不是A股公司。金牛化工主營業務為甲醇生產和銷售，銅牛資訊提供網際網路資料中心服務、雲服務等網際網路綜合服務，公牛集團則聚焦民用電工產品領域。換句話說，“牛字輩”個股受到的關注，主要來自名稱諧音帶來的情緒聯想，與公司自身的經營狀況關係不大。事實上，A股歷史上類似的“名字行情”並不少見。每逢熱點事件，名稱沾邊的個股總會被資金短暫“關照”一番，但行情往往來得快去得也快。從早年的“情人節概念股”，到重大事件期間名稱諧音的個股異動，再到各種“概念加持”下的無厘頭漲停，類似戲碼反覆出現，其共同特徵是起因牽強附會、邏輯經不起推敲、資金快進快出、行情曇花一現。當炒作退潮，最先受傷的往往是後知後覺的跟風者。對於突然出現的“《牛來》概念股”，投資者仍需注意其中的情緒炒作風險，避免將網路熱梗直接等同於上市公司的投資邏輯。"
+    },
+    {
+      "id": "5045252",
+      "time": "2026-08-18 13:05:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所（NSE）據悉計劃在印度IPO中尋求高達550億美元的估值。"
+    },
     {
       "id": "mkt:01a01342-30d5-7aab-906f-6c4acedb717b",
       "time": "2026-08-18 13:04:59",
@@ -10,6 +159,14 @@
         "Important"
       ],
       "text": "【Indonesia's planned commodity exchange likely to cover palm oil, nickel and coal】Indonesia plans to launch a \"minerals and strategic commodities\" exchange expected to include crude palm oil (CPO), nickel and coal, the presidential spokesman said. The government is preparing the exchange and plans an official launch on Jan. 1 next year. As Southeast Asia's largest economy, Indonesia is the world's largest exporter of CPO, thermal coal and nickel and a major supplier of coffee, bauxite, tin and copper. Spokesman Prasetyo Hadi said authorities are finalizing implementation details, including which commodities will trade, and that the exchange will \"certainly\" cover core products such as CPO, nickel and coal. Indonesia Financial Services Authority (OJK) chair Friderica Widyasari Dewi said OJK will issue regulatory rules for the exchange by Sept. 17."
+    },
+    {
+      "id": "5045251",
+      "time": "2026-08-18 13:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國信通院人工智慧研究所聯合海光及產業組織釋出企業算力底座建設研究報告】8月18日訊息，中國人工智慧產業發展聯盟第十八次全體會議在北京召開。會上，《數智時代企業算力基座建設路徑與行業實踐研究報告》正式釋出，由海光資訊科技股份有限公司、中國資訊通訊研究院人工智慧研究所、海光產業生態合作組織、中國人工智慧產業發展聯盟基礎軟硬體與生態工作組聯合編寫。報告指出，算力底座建設的評價邏輯正從規模擴張轉向質量提升，供應鏈安全與韌性、軟體生態與系統適配、商業落地與應用牽引、能源約束與可持續執行正成為企業算力底座建設與選型的核心考量。"
     },
     {
       "id": "5045250",
