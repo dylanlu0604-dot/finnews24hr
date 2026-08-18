@@ -1,7 +1,207 @@
 {
   "date": "2026-08-18",
-  "count": 490,
+  "count": 513,
   "items": [
+    {
+      "id": "mkt:01a01262-3680-7aab-906b-79d86b228d36",
+      "time": "2026-08-18 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the morning open, China’s main futures contracts were mostly higher: Shanghai crude (SC) up about 5%; fuel oil and ethylene glycol (EG) up nearly 4%; Europe-route container freight futures rose over 3%; synthetic rubber and liquefied petroleum gas (LPG) up around 3%; asphalt and low‑sulfur fuel oil (LU) climbed over 2%. Lagging were Shanghai tin and starch, down more than 1%; international copper, eggs and Shanghai copper fell about 1%."
+    },
+    {
+      "id": "5044935",
+      "time": "2026-08-18 09:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報45,922.40。"
+    },
+    {
+      "id": "5044934",
+      "time": "2026-08-18 09:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海北部執行軍事任務】據中國海事局網站訊息，營口海事局釋出航行警告，8月19日8時至8月21日18時，渤海北部部分海域進行軍事演習，禁止駛入。"
+    },
+    {
+      "id": "5044933",
+      "time": "2026-08-18 09:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報1792.00點。"
+    },
+    {
+      "id": "5044932",
+      "time": "2026-08-18 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報5280.00元。"
+    },
+    {
+      "id": "5044931",
+      "time": "2026-08-18 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續漲4.17%，集運指數歐線期貨連續漲3.46%，燃料油連續漲3.20%，上海原油連續漲3.06%，丁二烯橡膠連續漲2.90%，液化石油氣連續漲2.82%，瓶片連續漲2.38%，低硫燃料油連續漲2.25%，甲醇連續漲2.25%，純苯連續漲2.04%。"
+    },
+    {
+      "id": "5044930",
+      "time": "2026-08-18 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.12%。"
+    },
+    {
+      "id": "5044929",
+      "time": "2026-08-18 08:59:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報66.43美元/盎司。"
+    },
+    {
+      "id": "5044928",
+      "time": "2026-08-18 08:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝國投等成立商業航天創投基金】企查查APP顯示，近日，陝西匯新白相商業航天創業投資基金合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由陝國投等共同出資。"
+    },
+    {
+      "id": "te:markets:575952",
+      "time": "2026-08-18 08:58:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Gains on Easing Fed Hike Bets — Silver climbed above $66 an ounce on Tuesday, rising for the third straight session amid fading expectations for a Federal Reserve interest rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors now look ahead to the minutes of the Fed’s July meeting and comments from Chairman Kevin Warsh at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Elsewhere, silver remains supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles, and artificial intelligence data center infrastructure."
+    },
+    {
+      "id": "5044927",
+      "time": "2026-08-18 08:57:41",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利認為韓國Kospi指數有望逐步復甦 而非V型反轉】摩根士丹利表示，截至8月中旬，韓國股市Kospi指數已實現較為健康的復甦，漲勢不再侷限於晶片股，市場風險也有所緩解，不過短期內走勢仍可能出現波動。該指數已重回7,000點附近，但仍低於該行設定的9,000點目標位。包括Joon Seok和Heewon Choi在內的策略師在報告中寫道：“我們預計Kospi將逐步復甦，而非出現V型反轉”。他們表示，除晶片製造商及其相關概念股外，更多板塊開始參與上漲，也為市場提供了支撐。這些板塊包括國防、醫療保健、建築和電信。報告稱，由於韓國散戶投資者再次將目光投向海外市場，短期內散戶交易活動預計仍將保持低迷；外資流向仍將是市場流動性的關鍵來源。"
+    },
+    {
+      "id": "5044926",
+      "time": "2026-08-18 08:56:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北部灣港集團拜訪廈門國貿和安通控股 圍繞通道物流、港航合作等開展深入交流】據北部灣港集團訊息，8月17日，北部灣港集團拜訪廈門國貿、安通控股，圍繞通道物流、港航合作、供應鏈與貿易、東盟市場開拓等開展深入交流，深化產業協同合作，共促向海經濟高質量發展。"
+    },
+    {
+      "id": "5044925",
+      "time": "2026-08-18 08:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【超21萬加拿大民眾請願驅逐美國駐加大使】據加拿大國會眾議院網站公佈的資料，截至當地時間17日，超過21萬加拿大民眾實名聯署一項請願，要求驅逐美國駐加大使皮特·胡克斯特拉。請願書指認胡克斯特拉屢次發表損害加美關係的言論並干涉加拿大內政，包括將美國總統特朗普威脅吞併加拿大為美國“第51州”的言論“正常化”。請願書呼籲加拿大政府正式宣佈胡克斯特拉為“不受歡迎的人”，同時指派一個國會委員會對美國外交干涉加拿大內政的情況展開調查。請願書還要求就胡克斯特拉不符合《維也納外交關係公約》的行為模式向美方提出交涉。這項請願由來自加拿大卡爾加里的民眾發起。請願自7月21日開放簽署以來，聯署人數不到一個月就突破20萬人，成為國會自2015年設立電子請願系統以來關注度最高、簽名人數最多的請願之一。聯署時間定於11月18日截止。"
+    },
+    {
+      "id": "mkt:01a0125e-24bf-7aab-906b-777c7da9ff2f",
+      "time": "2026-08-18 08:55:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China delivers 99,000 cbm ultra-large ethane/ethylene carrier】China has delivered a domestically developed and built 99,000 cubic metre ultra-large ethane/ethylene carrier to its owner on the 18th. The 230-metre vessel is configured to carry ethane, ethylene and liquefied petroleum gas (LPG); its technical specifications meet international-leading standards. Designed for long-haul voyages, the ship features lower fuel consumption and maintenance costs and is positioned as an economical, environmentally friendly transport solution for liquefied industrial and energy gases."
+    },
+    {
+      "id": "5044924",
+      "time": "2026-08-18 08:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月17日444股獲融資買入超億元 中際旭創穫買入58.47億元居首】8月17日共有3518只個股獲融資資金買入，有444股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入58.47億元、42.83億元、42.34億元。"
+    },
+    {
+      "id": "te:markets:575951",
+      "time": "2026-08-18 08:54:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Slip on Surging Bond Yields — The Nikkei 225 Index fell 0.4% to below 69,000 on Tuesday, giving back some of the previous session’s gains as global bond yields surged amid persistent concerns over inflation and rising government spending. Japan’s benchmark 10-year government bond yield climbed to around 2.95%, its highest level in three decades, as mounting fiscal concerns and growing expectations of an imminent Bank of Japan interest rate hike weighed on sentiment. Notable declines came from technology and consumer stocks, including Tokyo Electron (-2.9%), Advantest (-1.7%), Lasertec (-1.6%), Fast Retailing (-1.3%) and Nintendo (-2.4%). In corporate news, Nvidia agreed to invest as much as $105 billion to support SB Energy, a SoftBank Group subsidiary developing a major data center project in Ohio for OpenAI."
+    },
+    {
+      "id": "5044923",
+      "time": "2026-08-18 08:54:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗農業部長：將全力確保糧食安全】當地時間17日，伊朗農業部長古拉姆雷扎·努裡表示，有證據顯示，美國將糧食等生活物資也納入到對伊朗的戰爭範疇當中，伊朗將使用一切必要措施，確保本國糧食安全。努裡指出，長期以來，美國在人權、糧食安全、醫療等方面，均採取了雙重標準政策。近年來，伊朗始終受到敵對國家的惡意干擾，且美國等國將糧食安全也納入到對伊朗的戰爭範疇中。儘管目前美國對伊朗的封鎖還在持續，但伊朗將利用一切必要措施，確保本國糧食安全。"
+    },
+    {
+      "id": "5044920",
+      "time": "2026-08-18 08:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【離境退稅2.0版政策上線，鄭州海關離境退稅業務量暴漲】隨著中國免籤“朋友圈”持續擴容和離境退稅2.0版新政正式落地實施，“中國遊”“中國購”持續升溫。據鄭州海關統計，今年1-7月，該關辦理離境退稅驗核申請單285票，同比增長150%，境外旅客入境消費潛力持續釋放。 （鄭州釋出）"
+    },
+    {
+      "id": "5044919",
+      "time": "2026-08-18 08:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國電影協會與位元組跳動達成協議，加強生成式AI智慧財產權保護】當地時間8月17日，美國電影協會（MPA）與位元組跳動宣佈達成諒解備忘錄，就加強Seedance、Seedream等生成式AI影片和影象模型的智慧財產權保護建立合作框架。雙方表示，將繼續完善相關智慧財產權保護措施，以保護影視行業創意內容。"
+    },
+    {
+      "id": "5044918",
+      "time": "2026-08-18 08:52:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與中國一重共商深化產業鏈協同】據上海電氣訊息，8月17日上午，上海電氣集團黨委書記、董事長吳磊率隊拜訪中國一重集團有限公司，與中國一重黨委書記、董事長呂智強舉行座談，雙方圍繞深化央地合作、強化產業鏈協同、拓寬新能源、高階裝備領域合作等議題進行了交流。"
+    },
+    {
+      "id": "5044917",
+      "time": "2026-08-18 08:52:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【微軟、賽富時有意在 Darwinbox 計劃 IPO 之前收購該公司】據印度媒體Mint，三位知情人士透露，由 KKR 投資的人力資源與薪資服務提供商 Darwinbox 正收到收購邀約，與此同時該公司計劃未來數年推進潛在上市。現有投資方賽富時、微軟，以及美國人力資源薪資服務商 ADP，已接觸公司創始人和董事會，意圖收購其他股東所持股份。"
+    },
+    {
+      "id": "5044916",
+      "time": "2026-08-18 08:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國敦促美伊儘快恢復談判 避免採取軍事行動】當地時間17日，聯合國秘書長發言人迪雅裡克在例行釋出會上表示，近日黎巴嫩南部暴力活動明顯加劇，黎巴嫩一側出現平民傷亡，一些剛剛返回家園的家庭再次被迫流離失所。聯合國駐黎巴嫩臨時部隊報告稱，上週末以軍發起多次空襲。聯合國敦促各方保持最大限度剋制，遵守停火安排，透過對話推動局勢降級。迪雅裡克還就美國和伊朗此前達成的諒解備忘錄所設定的60天談判視窗期期滿一事表示，聯合國秘書長古特雷斯一直強調，當前衝突不存在軍事解決方案，敦促美伊儘快恢復談判，避免採取軍事行動。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608183843661622",
+      "time": "2026-08-18 08:50:46",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐央行專欄預警：AI估值極度樂觀 是否將重演網際網路泡沫？】歐洲央行研究員承認，當前科技股高估值，有可能反映市場對AI真實生產力潛力的理性預期。但文章同時提出另一種偏悲觀的解讀：歷史上每一輪科技繁榮，往往都遵循一套可預見的發展軌跡：初期市場狂熱、估值飆升、投資者風險認知逐步發生轉變，隨後迎來回撥，讓過度樂觀的投資者猝不及防。"
+    },
     {
       "id": "5044915",
       "time": "2026-08-18 08:50:38",
