@@ -1,7 +1,23 @@
 {
   "date": "2026-08-19",
-  "count": 75,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:01a015ee-4a79-7aab-907f-df25fa5eecaf",
+      "time": "2026-08-19 01:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Yemen government-backed armed group said Houthi shelling in Hodeidah province's Khokha district killed three people, including a child."
+    },
+    {
+      "id": "5046396",
+      "time": "2026-08-19 01:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）"
+    },
     {
       "id": "5046395",
       "time": "2026-08-19 01:29:10",

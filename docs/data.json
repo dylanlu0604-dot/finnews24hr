@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-19 01:29:48",
+  "updated": "2026-08-19 01:33:41",
   "count": 15100,
   "items": [
+    {
+      "id": "mkt:01a015ee-4a79-7aab-907f-df25fa5eecaf",
+      "time": "2026-08-19 01:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Yemen government-backed armed group said Houthi shelling in Hodeidah province's Khokha district killed three people, including a child."
+    },
+    {
+      "id": "5046396",
+      "time": "2026-08-19 01:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）"
+    },
     {
       "id": "5046395",
       "time": "2026-08-19 01:29:10",
@@ -138426,22 +138442,6 @@
         "MKT News"
       ],
       "text": "Venezuelan government said it has reached an agreement with Israel to establish a coordination mechanism to provide consular services."
-    },
-    {
-      "id": "mkt:019ff1e2-56b9-7aab-8ff8-763744e53119",
-      "time": "2026-08-12 01:32:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Fars News, citing sources, reports two more explosions struck Saudi mercenaries' positions in Marib, Yemen."
-    },
-    {
-      "id": "5036299",
-      "time": "2026-08-12 01:30:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部長：哥倫比亞不會透過增稅來應對財政危機。"
     }
   ]
 }
