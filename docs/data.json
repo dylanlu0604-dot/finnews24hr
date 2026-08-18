@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-19 01:17:55",
-  "count": 15097,
+  "updated": "2026-08-19 01:21:57",
+  "count": 15096,
   "items": [
+    {
+      "id": "mkt:01a015e1-bf8b-7aab-907f-aa8b1eb2a199",
+      "time": "2026-08-19 01:18:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【UAE, US leaders discuss regional security as US‑Iran talks stall】UAE President Mohammed bin Zayed spoke by phone with US President Trump on the 18th to discuss bilateral cooperation and the regional situation. The US‑Iran conflict remains ongoing; a two‑month window for peace talks recently ended with no progress, and the US says Iran refused to make concessions in indirect negotiations. On the 17th, Mohammed met Oman’s Sultan Haitham in Abu Dhabi to discuss regional security and deepen economic cooperation; both sides agreed to continue cooperating on shared regional challenges and to strengthen their partnership for security and stability."
+    },
+    {
+      "id": "5046390",
+      "time": "2026-08-19 01:17:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（8月18日），美聯儲隔夜逆回購協議（RRP）使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。"
+    },
     {
       "id": "mkt:01a015df-f5c7-7aab-907f-a3ed08593def",
       "time": "2026-08-19 01:16:33",
@@ -138378,30 +138399,6 @@
         "國際"
       ],
       "text": "伊朗總統府：巴基斯坦內政部長表示，此行旨在跟進伊朗人員訪巴期間達成的共識。"
-    },
-    {
-      "id": "mkt:019ff1d6-8287-7aab-8ff8-647ff7fa948a",
-      "time": "2026-08-12 01:19:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State broadcaster IRIB reported the Iranian president met Pakistan's interior minister."
-    },
-    {
-      "id": "mkt:019ff1d5-5c79-7aab-8ff8-580d381f0362",
-      "time": "2026-08-12 01:18:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim News reported sounds of explosions in Marib, Yemen."
-    },
-    {
-      "id": "5036293",
-      "time": "2026-08-12 01:18:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅擴大至0.5%。"
     }
   ]
 }

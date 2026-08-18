@@ -1,7 +1,28 @@
 {
   "date": "2026-08-19",
-  "count": 63,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:01a015e1-bf8b-7aab-907f-aa8b1eb2a199",
+      "time": "2026-08-19 01:18:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【UAE, US leaders discuss regional security as US‑Iran talks stall】UAE President Mohammed bin Zayed spoke by phone with US President Trump on the 18th to discuss bilateral cooperation and the regional situation. The US‑Iran conflict remains ongoing; a two‑month window for peace talks recently ended with no progress, and the US says Iran refused to make concessions in indirect negotiations. On the 17th, Mohammed met Oman’s Sultan Haitham in Abu Dhabi to discuss regional security and deepen economic cooperation; both sides agreed to continue cooperating on shared regional challenges and to strengthen their partnership for security and stability."
+    },
+    {
+      "id": "5046390",
+      "time": "2026-08-19 01:17:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（8月18日），美聯儲隔夜逆回購協議（RRP）使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。"
+    },
     {
       "id": "mkt:01a015df-f5c7-7aab-907f-a3ed08593def",
       "time": "2026-08-19 01:16:33",
