@@ -1,7 +1,96 @@
 {
   "date": "2026-08-18",
-  "count": 2019,
+  "count": 2029,
   "items": [
+    {
+      "id": "mkt:01a01498-eeb3-7aab-9078-9531e0f1737b",
+      "time": "2026-08-18 19:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ant Group plans to sell a 3% stake in Indian digital payments and fintech firm Paytm for $309 million."
+    },
+    {
+      "id": "mkt:01a01498-001e-7aab-9078-8f93cae75eaa",
+      "time": "2026-08-18 19:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese company Shengxiang Bio said its dengue virus and chikungunya virus nucleic acid test kits (PCR-fluorescent probe method) have received a Medical Device Registration Certificate from the National Medical Products Administration."
+    },
+    {
+      "id": "5045961",
+      "time": "2026-08-18 19:18:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精智達：2026年半年度淨利潤4890.99萬元，同比增長59.90%】精智達公告，2026年上半年營業收入8.04億元，同比增長81.17%。歸屬於上市公司股東的淨利潤4890.99萬元，同比增長59.90%；扣非淨利潤4449.17萬元，同比增長62.48%。上年同期淨利潤3058.7萬元。"
+    },
+    {
+      "id": "5045960",
+      "time": "2026-08-18 19:17:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "ABERCROMBIE & FITCH盤前股價下跌約2%，此前RAYMOND JAMES將其評級下調至\"與大盤持平\"。"
+    },
+    {
+      "id": "mkt:01a01497-5c70-7aab-9078-83f1ec9f6f95",
+      "time": "2026-08-18 19:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India said the India-Singapore ministerial roundtable will be held on Aug 20."
+    },
+    {
+      "id": "5045959",
+      "time": "2026-08-18 19:17:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【克來機電：控股股東陳久康擬減持不超過3%股份】克來機電公告，控股股東、實際控制人之一陳久康持有公司股份4182.45萬股，佔公司總股本的15.9515%，計劃自2026年9月9日至2026年12月8日，透過集中競價和大宗交易方式合計減持不超過786.58萬股，佔公司總股本的3%。其中，集中競價減持不超過262.19萬股（佔比1%），大宗交易減持不超過524.39萬股（佔比2%），減持原因為自身資金需要。"
+    },
+    {
+      "id": "5045957",
+      "time": "2026-08-18 19:16:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本廣播協會18日援引日本千葉縣方面釋出的訊息報道說，關東地區強降雨已造成13人死亡、1人失蹤，當地居民生活受到較大影響。（新華社）"
+    },
+    {
+      "id": "mkt:01a01495-ee0c-7aab-9078-7b359b87d4aa",
+      "time": "2026-08-18 19:16:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "UK Prime Minister Burnham, responding to Russia's warning, said the UK is 100% behind Ukraine and opposes this illegal war."
+    },
+    {
+      "id": "mkt:01a01495-ece8-7aab-9078-703634e7654e",
+      "time": "2026-08-18 19:16:04",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【BofA August survey: AI bubble seen as top tail risk】BofA's August Global Fund Manager Survey found 32% of respondents named an AI bubble as the biggest tail risk; 27% cited a disorderly rise in bond yields as the second-largest."
+    },
+    {
+      "id": "5045956",
+      "time": "2026-08-18 19:15:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆就俄羅斯警告表態：英國立場不變，將百分之百支援烏克蘭。"
+    },
     {
       "id": "5045955",
       "time": "2026-08-18 19:15:26",
