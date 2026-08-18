@@ -1,7 +1,171 @@
 {
-  "updated": "2026-08-19 04:40:44",
-  "count": 15096,
+  "updated": "2026-08-19 04:44:33",
+  "count": 15113,
   "items": [
+    {
+      "id": "mkt:01a0169e-053f-7aab-9082-8144237f4e36",
+      "time": "2026-08-19 04:44:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M"
+    },
+    {
+      "id": "mkt:01a0169d-fd05-7aab-9082-7d880151b628",
+      "time": "2026-08-19 04:44:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl."
+    },
+    {
+      "id": "mkt:01a0169d-d334-7aab-9082-77be545717d0",
+      "time": "2026-08-19 04:43:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl."
+    },
+    {
+      "id": "mkt:01a0169d-d1f3-7aab-9082-6bc4af6dafc4",
+      "time": "2026-08-19 04:43:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M"
+    },
+    {
+      "id": "mkt:01a0169d-abc2-7aab-9082-623e827ea394",
+      "time": "2026-08-19 04:43:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M"
+    },
+    {
+      "id": "mkt:01a0169d-a070-7aab-9082-5a304a3448c7",
+      "time": "2026-08-19 04:43:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week."
+    },
+    {
+      "id": "5046495",
+      "time": "2026-08-19 04:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。"
+    },
+    {
+      "id": "mkt:01a0169d-769d-7aab-9082-54d19ec22441",
+      "time": "2026-08-19 04:43:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week."
+    },
+    {
+      "id": "mkt:01a0169d-6ffd-7aab-9082-484a8f6331df",
+      "time": "2026-08-19 04:43:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M"
+    },
+    {
+      "id": "mkt:01a0169d-4f48-7aab-9082-45769f34fc59",
+      "time": "2026-08-19 04:43:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels."
+    },
+    {
+      "id": "mkt:01a0169d-41a6-7aab-9082-3c00e7244a06",
+      "time": "2026-08-19 04:43:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M"
+    },
+    {
+      "id": "5046494",
+      "time": "2026-08-19 04:43:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：美國醫療保健網路風險日益增加。"
+    },
+    {
+      "id": "mkt:01a0169d-1673-7aab-9082-3787bdf9a665",
+      "time": "2026-08-19 04:43:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M"
+    },
+    {
+      "id": "5046493",
+      "time": "2026-08-19 04:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）"
+    },
+    {
+      "id": "5046492",
+      "time": "2026-08-19 04:42:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。"
+    },
+    {
+      "id": "5046491",
+      "time": "2026-08-19 04:41:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾福克南方鐵路盤後上漲2.4%。"
+    },
+    {
+      "id": "mkt:01a0169b-8fff-7aab-9082-28a075617e2e",
+      "time": "2026-08-19 04:41:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles."
+    },
     {
       "id": "te:markets:576234",
       "time": "2026-08-19 04:39:55",
