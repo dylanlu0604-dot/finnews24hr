@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-18 09:09:12",
-  "count": 15208,
+  "updated": "2026-08-18 09:13:06",
+  "count": 15204,
   "items": [
+    {
+      "id": "mkt:01a0126d-2fc8-7aab-906b-e68e969b8de8",
+      "time": "2026-08-18 09:12:20",
+      "tags": [
+        "MKT News",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS"
+      ],
+      "text": "China is continuing its push to boost consumption in lower-tier markets, MOFCOM said, noting third- and fourth-tier cities plus counties account for over 70% of the population and about 60% of GDP and retail sales. In the first five months, county- and township-level retail sales of consumer goods made up 39.3% of national retail sales; key beneficiaries include county commercial renovations, chain retail, elderly-care and childcare services, cultural tourism and rural services, and the policy may help local governments convert inefficient state assets from sunk costs into operating assets."
+    },
+    {
+      "id": "mkt:01a0126c-e4f5-7aab-906b-dc465ccf9beb",
+      "time": "2026-08-18 09:12:01",
+      "tags": [
+        "MKT News",
+        "09992.HK",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley cuts Pop Mart (09992.HK) target 13% to HK$214, cites high-base and weak overseas sales】Morgan Stanley cut its target price for Pop Mart (09992.HK) to HK$214 from HK$247, a 13% reduction, citing high base pressures in H2 and a sharp slowdown in overseas sales. The bank says limited new information and high-frequency indicators of weaker overseas demand have left investors broadly bearish ahead of results; retail shareholders' elevated expectations and large ownership are flagged as the primary downside risk. Morgan Stanley forecasts H1 sales +29% YoY and net profit +18% to RMB 5.4 bln, expects management to guide H2 sales above H1 while remaining cautious on YoY outlook. It keeps an Overweight rating, projecting a 13% EPS CAGR for 2026-28 driven by a reacceleration in overseas sales and expects total sales to resume growth in 2027."
+    },
+    {
+      "id": "5044946",
+      "time": "2026-08-18 09:11:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利將泡泡瑪特目標價下調13% 稱公司面臨高基數等壓力】摩根士丹利將泡泡瑪特目標價由247港元下調至214港元，稱公司下半年面臨高基數壓力，且海外銷售大幅放緩。分析師Dustin Wei等人在報告中表示，因增量資訊匱乏且高頻資料顯示海外銷售大幅放緩，投資者在業績公佈前錨定最利空資料而普遍持看空態度。散戶投資者的過高預期仍是主要下行風險，因為他們在股東結構中佔據很大比例；預測上半年銷售額增長29%，淨利潤增長18%至54億元人民幣；預計管理層將指引下半年銷售額超過上半年，同時對同比展望保持審慎；維持“增持”評級，因為預估2026-2028年的盈利複合年增長率將達到13%，這主要由海外市場銷售的重新加速所推動；並預計總銷售額將在2027年恢復增長。注：泡泡瑪特將於本週四釋出業績。"
+    },
+    {
+      "id": "te:markets:575956",
+      "time": "2026-08-18 09:10:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Hit 3-Week High — Soybean futures rose above $12 per bushel, hitting a three-week high as stronger soybean crushing activity and higher crude oil prices supported the market. The National Oilseed Processors Association data showed members crushed 216.647 million bushels of US soybeans in July, up 1.1% from June and 10.7% from a year earlier. However, the daily crush rate eased to 6.989 million bushels from 7.145 million a month earlier. Traders now await the Pro Farmer field tour for fresh indications on US soybean yields after the USDA lowered its official yield forecasts last week. Heavy Midwest rainfall has also raised concerns over excess moisture and crop conditions. Elsewhere, Chinese demand continued to provide support, with traders reporting that China had already purchased around 7 million metric tons of US soybeans. Meanwhile, disruptions to Russian and Ukrainian grain shipments through the Black Sea, including reduced loadings at Russian ports, added broader support to agricultural markets."
+    },
     {
       "id": "mkt:01a01269-9e5b-7aab-906b-d12ef0557f1b",
       "time": "2026-08-18 09:08:26",
@@ -139295,76 +139336,6 @@
         "國際"
       ],
       "text": "韓國部長：將採取一切可行政策措施緩解市場波動。"
-    },
-    {
-      "id": "5034796",
-      "time": "2026-08-11 09:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部公開徵求《面向車路協同的車雲通訊安全技術要求》等50項通訊行業標準報批意見】工信部：根據行業標準制修訂計劃，相關標準化技術組織已完成《面向車路協同的車雲通訊安全技術要求》等50項通訊行業標準。為進一步聽取社會各界意見，現予以公示。以上標準報批稿請登入“工業和資訊化標準資訊服務平臺”網站（https://std.miit.gov.cn）“專案公示”欄目閱覽，如有意見請於公示期內反饋。公示時間：2026年8月12日—2026年9月10日。"
-    },
-    {
-      "id": "mkt:019fee5f-4321-7aab-8fe2-f0d562631627",
-      "time": "2026-08-11 09:10:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's Ministry of Industry and Information Technology (MIIT) opened a public consultation on draft approvals for 50 telecom industry standards, including Technical Requirements for Vehicle‑Cloud Communication Security for Vehicle‑Road Collaboration."
-    },
-    {
-      "id": "5034795",
-      "time": "2026-08-11 09:10:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華宏科技：目前暫未從事新能源汽車廢舊電池拆解業務】華宏科技(002645)8月11日在互動平臺表示，公司目前暫未從事新能源汽車廢舊電池拆解業務。但公司將持續關注該行業的發展動態與政策導向，並結合公司整體戰略規劃與實際經營需要，決定後續是否開展相關業務。"
-    },
-    {
-      "id": "te:markets:574230",
-      "time": "2026-08-11 09:10:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Gives Back Half of Intervention Gains — The Japanese yen weakened past 159 per dollar on Tuesday, retracing about half of the gains from its recent intervention-driven rally and testing the resolve of both Tokyo and Washington to support the currency. Japan and the US carried out a record coordinated yen-buying operation at the end of July as the currency fell to 40-year lows and raised concerns about global economic stability, but disappointed markets by not following up with additional measures. The yen remained under pressure from longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate."
-    },
-    {
-      "id": "5034794",
-      "time": "2026-08-11 09:09:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【西子航空啟動IPO輔導】證監會網站披露，浙江西子航空工業集團股份有限公司（簡稱“西子航空”）於2026年8月10日在浙江證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。輔導備案報告顯示，西子航空控股股東為西子聯合控股有限公司，持股比例為57.54%。"
-    },
-    {
-      "id": "5034793",
-      "time": "2026-08-11 09:09:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Strategy上週出售價值超1.08億美元的比特幣】8月10日，Strategy披露上週出售價值1.086億美元的比特幣，同時出售660萬股普通股，價值約6.53億美元，並回購價值1.086億美元的Stretch優先股（STRC）。"
-    },
-    {
-      "id": "5034792",
-      "time": "2026-08-11 09:09:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度砸8400億盧比，支援該國迄今規模最大海上油氣勘探計劃】面對高企的能源進口依賴成本和地緣衝突帶來的供應風險，印度正將目光投向海洋深處。據《印度教徒報》等媒體日前報道，印度政府近期批准“攪動乳海”國家近海勘探計劃，擬投入8400億盧比（約合88億美元）支援印度發展深水油氣勘探開發。(環球時報)"
-    },
-    {
-      "id": "5034791",
-      "time": "2026-08-11 09:09:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic在重磅IPO之前與潛在投資者會面以穩定投資者信心】據報道，人工智慧初創公司Anthropic正與潛在投資者會面，為計劃於9月或10月初啟動的IPO提振市場信心。投資者就多項挑戰向Anthropic施壓，包括成本更低的AI系統、特朗普政府帶來的緊張局勢，以及資料中心建設遭遇的阻力。Anthropic向部分投資者透露，計劃進一步拓展醫療與生物領域業務。"
     }
   ]
 }
