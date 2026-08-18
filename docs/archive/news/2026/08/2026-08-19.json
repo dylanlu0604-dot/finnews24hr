@@ -1,7 +1,52 @@
 {
   "date": "2026-08-19",
-  "count": 237,
+  "count": 241,
   "items": [
+    {
+      "id": "te:markets:576230",
+      "time": "2026-08-19 04:28:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Drops on Banking and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,368 on Tuesday, weighed down by losses in the mining and financial sectors amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with RBC losing 1.3%, TD Bank shedding 1.7%, BMO down 1.2%, CIBC losing 1.3% and Scotiabank retreating 1.1%. Miners also declined as gold prices slipped, with Agnico Eagle down 0.8%, Barrick losing 0.9% and WPM shedding 2.8%. Most technology stocks tumbled, tracking a selloff in US chipmakers, with Shopify losing 1.2% and Celestica sinking 8.4%. In contrast, energy stocks gained on rising oil prices, with Canadian Natural up 0.9% and Suncor adding 1.7%. NexGen Energy (-4.4%) is discussing a potential equity stake with BHP in its Rook I mining project in Saskatchewan, CEO Leigh Curyer said."
+    },
+    {
+      "id": "mkt:01a0168e-d329-7aab-9082-01a1fea49743",
+      "time": "2026-08-19 04:27:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【UAE suspends all trade, commercial and financial transactions with Iran】The UAE Foreign Ministry said it has suspended all trade, commercial and financial transactions with Iran until further notice amid regional escalation. The ministry’s director of strategic communications, Afra Mahash Al Hameli, dismissed reports questioning the state of UAE‑Iran economic ties."
+    },
+    {
+      "id": "5046484",
+      "time": "2026-08-19 04:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室表示，以色列不會容忍對其安全的威脅。"
+    },
+    {
+      "id": "mkt:01a0168c-867a-7aab-9081-fae55482b21d",
+      "time": "2026-08-19 04:25:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Prime Minister's Office said Syria chose to ignore Israeli warnings about such deployments and that Israel will not tolerate threats to its security."
+    },
     {
       "id": "mkt:01a0168c-2e6d-7aab-9081-f319ecad0cd0",
       "time": "2026-08-19 04:24:40",
