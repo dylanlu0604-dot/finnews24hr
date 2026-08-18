@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-18 22:56:15",
-  "count": 15163,
+  "updated": "2026-08-18 23:00:20",
+  "count": 15170,
   "items": [
+    {
+      "id": "5046307",
+      "time": "2026-08-18 22:59:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國第24批赴黎維和部隊向當地機構捐贈人道主義物資】當地時間8月18日，中國第24批赴黎維和部隊在黎巴嫩南部提爾地區開展人道主義物資捐贈活動，向提爾藝術協會和提爾市政聯盟移交共計1600餘件援助物資。捐贈物資涵蓋主副食品、生活用品、學習用品三大類。面向提爾藝術協會，重點提供糧油、速食、飲品等生活物資；面向提爾市政聯盟，配套捐贈餅乾糖果、書包文具、清潔護理用品及驅蚊保暖等便民物資。維和官兵分工協作，有序完成解除安裝、清點、登記和交接工作。（央視新聞）"
+    },
+    {
+      "id": "5046306",
+      "time": "2026-08-18 22:59:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內跌1.20%。"
+    },
+    {
+      "id": "5046305",
+      "time": "2026-08-18 22:59:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌1.13%。"
+    },
+    {
+      "id": "5046304",
+      "time": "2026-08-18 22:59:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報64.23美元/盎司。"
+    },
+    {
+      "id": "5046303",
+      "time": "2026-08-18 22:58:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4370.93美元/盎司。"
+    },
+    {
+      "id": "5046302",
+      "time": "2026-08-18 22:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋稱防空系統探測到導彈威脅。"
+    },
+    {
+      "id": "5046301",
+      "time": "2026-08-18 22:58:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算部長：政府將採用主權人工智慧，例如Mistral。"
+    },
+    {
+      "id": "mkt:01a01561-945a-7aab-907d-be769d1877bc",
+      "time": "2026-08-18 22:58:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UAE defense ministry said UAE air defenses detected a missile threat."
+    },
+    {
+      "id": "mkt:01a01560-9c35-7aab-907d-b436ff1aa122",
+      "time": "2026-08-18 22:57:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Market news: Dubai residents received missile threat alerts from UAE authorities."
+    },
+    {
+      "id": "5046300",
+      "time": "2026-08-18 22:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【味千（中國）：預計上半年公司擁有人應占溢利不超2000萬元】味千（中國）8月18日公告，預計上半年將錄得公司擁有人應占溢利不超過2000萬元，上年同期公司擁有人應占溢利約人民幣2420萬元。董事會認為，該等溢利減少主要是由於其他經營開支增加及租金收入減少。"
+    },
+    {
+      "id": "5046299",
+      "time": "2026-08-18 22:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀認為英偉達因AI風險折價高達50%】美國銀行表示，由於投資者誇大了與這家AI晶片龍頭相關的風險，英偉達的股價折價幅度可能高達50%。該行的分析顯示，即便考慮了融資風險，該股票仍有34%至50%的折價，這一折價”可能誇大了風險，並創造了一個極具吸引力的機會”。美銀對該股給出”買入”評級，目標價為350美元，並建議英偉達可透過將更大比例的自由現金流用於股票回購，來緩解市場對盈利質量下降的擔憂。"
+    },
+    {
+      "id": "5046298",
+      "time": "2026-08-18 22:56:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪拜居民收到阿聯酋導彈威脅警報。"
+    },
+    {
+      "id": "5046297",
+      "time": "2026-08-18 22:55:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算部長：政府不會僱傭OpenAI。"
+    },
     {
       "id": "5046296",
       "time": "2026-08-18 22:55:28",
@@ -139049,62 +139160,6 @@
         "XAUUSD"
       ],
       "text": "【Analyst: Iran's bargaining chip in Strait of Hormuz 'depreciating'】International Policy Research Center vice chairman Rashid Muhannadi said talks to resolve the Strait of Hormuz crisis are advancing despite public US‑Iran hardline rhetoric. He said Iran views control of the strait as a national security concern and is using it as a bargaining chip, but called that chip a 'depreciating asset.' Muhannadi added actions that impede freedom of navigation remain widely opposed, and parties appear willing to explore a mutually acceptable regional mechanism to manage transit through the strait."
-    },
-    {
-      "id": "te:markets:574476",
-      "time": "2026-08-11 23:00:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Drops by 0.59% — Top currency loser is Brazilian Real (-0.59%). Gains are led by South Korean Won (0.42%). Meanwhile, Japanese Yen and Euro were little changed."
-    },
-    {
-      "id": "5036176",
-      "time": "2026-08-11 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】焦煤連續漲2.04%，低硫燃料油連續漲1.22%，焦炭連續漲1.01%，紙漿連續跌0.78%，純鹼連續漲0.71%。"
-    },
-    {
-      "id": "5036175",
-      "time": "2026-08-11 22:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "法律商業新聞網：美國法院支援對獲假釋移民實施快速驅逐程式。"
-    },
-    {
-      "id": "mkt:019ff155-492c-7aab-8ff5-303d8e24682e",
-      "time": "2026-08-11 22:58:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. court backs expedited removal of immigrants granted parole."
-    },
-    {
-      "id": "mkt:019ff154-5e65-7aab-8ff5-29c8571b339c",
-      "time": "2026-08-11 22:57:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Libya's National Oil Corporation president said the Zawiya refinery has resumed operations."
-    },
-    {
-      "id": "5036174",
-      "time": "2026-08-11 22:57:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司負責人：扎維耶煉油廠恢復運營。"
     }
   ]
 }
