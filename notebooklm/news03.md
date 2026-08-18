@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:52:01_
-_本檔包含 3058 則快訊，約 604494 字_
+_更新時間：2026-08-19 06:37:15_
+_本檔包含 3050 則快訊，約 604382 字_
+
+---
+
+### 2026-08-16 14:02:06  #國際
+
+【俄政治學者：日本走軍國主義道路 俄無需顧及日方感受】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。對此，俄羅斯政治學者表示，俄方意在告訴日本，日方再次走上軍國主義道路，俄方無需向日本展示善意。據俄羅斯方面近日訊息，俄羅斯政治學者盧基揚諾夫表示，普京此次登島在某種意義上劃下了一條界線，同時，向日本釋放出一個訊號：如果日本不願對俄奉行獨立於西方的自主政策，那麼俄羅斯方面將不再顧及日方的感受。更何況，俄羅斯總統對國內任何地區的視察都是完全正常的行為。（央視新聞）
+
+---
+
+### 2026-08-16 14:01:03  #宏觀 #國際
+
+【朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀】中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志的遺體，將於18日在北京火化。為悼念朱鎔基同志，18日，首都天安門、新華門、人民大會堂、外交部，各省、自治區、直轄市黨委和政府所在地，香港特別行政區、澳門特別行政區，各邊境口岸，對外海空港口，中國駐外使領館將下半旗誌哀。（新華社）
+
+---
+
+### 2026-08-16 13:58:56  #MKT News
+
+【US Navy finds unidentified drone at largest Italian base; base-wide security measures enacted】Stars and Stripes reported on 14 that the US Navy discovered an unidentified small drone at its largest base in Italy and implemented base-wide security measures. The drone was found on 13 at a support site, prompting precautionary action. Separately, a brief shelter-in-place order was issued at a garrison about 13 miles (21 km) from the discovery; officials have not confirmed whether the order was related to the drone or whether similar orders were issued at the support site.
+
+---
+
+### 2026-08-16 13:57:56  #國際
+
+【美媒：美海軍在義大利最大基地內發現無人機，並採取全基地安全措施】據美國《星條旗報》當地時間14日報道，美國海軍在義大利最大基地內日前發現一架身份不明的無人機，並採取了全基地安全措施。報道稱，該小型無人機於13日在美海軍基地一支援點中被發現，促使安全部隊採取預防措施。在發現該無人機前後，美海軍基地在其位於距離事發地點約13英里（約21千米）的一個駐地釋出了短暫的就地避險令。目前尚不清楚這項避險令是否與發現了無人機有關，也不清楚支援點中是否也釋出了類似的命令。（環球網）
+
+---
+
+### 2026-08-16 13:52:36  #國際
+
+匈牙利總理：一輛波蘭巴士在匈牙利發生事故，已造成12人死亡，至少10人受傷。
+
+---
+
+### 2026-08-16 13:52:18  #公司 #市場 #央行 #國際
+
+【“恐慌指數”跌至年內低位 科技股高位震盪】本週美股各大指數表現分化，標普500迎來7800點里程碑的同時道指結束周線兩連陽。美國通脹資料疊加零售銷售下滑，提升了美聯儲9月暫停加息的機率；與此同時，特朗普政府對中東局勢釋放的訊號，成為打壓風險偏好的理由。 未來一週，隨著財報季臨近尾聲，地緣政治因素和美聯儲貨幣政策預期或重新主導市場，而衡量市場波動性的芝商所“恐慌指數”VIX跌至年內低位，可能醞釀著新一輪波動的風險。 牛津經濟研究院高階經濟學家鮑勃·施瓦茨在接受記者採訪時表示，美國物價最大的不確定性變數仍是能源價格，中東衝突可以把通脹推向完全不同的方向。核心通脹已經回落至2.5%，但自 2021年之後就很難進一步跌破該水平，這也給美聯儲鷹派提供了支援繼續加息的論據。他認為，長期來看，AI帶來的生產率提升有望抑制通脹；但短期，資料中心、半導體、儲存晶片的鉅額需求，已經推高科技板塊部分環節的價格，對AI長期抗通脹的前景形成短期對沖。（第一財經）
+
+---
+
+### 2026-08-16 13:48:55  #MKT News #Market Regions #Greater China
+
+【China launches batch of 24 LEO satellites for satellite internet】At 12:10 Beijing time on Aug 16, 2026, China launched a batch of 24 low‑Earth‑orbit satellites for a satellite internet constellation from its Hainan commercial spaceport aboard a Long March‑12 rocket; the satellites reached their planned orbit and the launch was successful.
+
+---
+
+### 2026-08-16 13:46:12  #其他
+
+【我國成功發射衛星網際網路低軌24組衛星】北京時間2026年8月16日12時10分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌24組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）
+
+---
+
+### 2026-08-16 13:43:58  #公司
+
+【雲南約談通報投訴量排名前50旅行社：將實施重點監管】近日，雲南省文化和旅遊廳召開全省投訴較多旅行社負責人影片約談通報會，對昆明康輝旅行社有限公司、雲南中青國際旅行社（集團）有限公司、西雙版納怡程國際旅行社有限公司等全省投訴量排名前50的旅行社進行通報。
+
+---
+
+### 2026-08-16 13:40:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon.
+
+---
+
+### 2026-08-16 13:38:18  #觀點
+
+【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。
 
 ---
 
@@ -18347,119 +18413,5 @@ Indonesia's president said food supplies remain guaranteed despite concerns over
 ### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
 
 TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
-
----
-
-### 2026-08-14 11:05:01  #公司 #國際
-
-【美國ITC釋出對具有影片功能的電子裝置的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定具有影片功能的電子裝置（Certain Video-Capable Electronic Devices，調查編碼：337-TA-1481）作出337部分終裁：對本案行政法官於2026年7月17日作出的初裁（No.18）不予複審，即基於仲裁協議（arbitration agreement），終止本案調查。
-
----
-
-### 2026-08-14 11:04:32  #公司 #國際
-
-【美國ITC釋出對開放式耳機的337部分終裁】據中國貿易救濟資訊網訊息，2026年8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定開放式耳機（Certain Open-Ear Earpiece Devices，調查編碼：337-TA-1470）作出337部分終裁：對本案行政法官於2026年7月15日作出的初裁（No.15）不予複審，即基於申請方撤回，部分終止本案對無法聯絡的應訴方（the“Unreachable Respondents”）的調查。
-
----
-
-### 2026-08-14 11:03:17  #MKT News
-
-【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot avg unchanged vs previous day】TrendForce data showed on Aug 14 the spot average price for DDR5 16Gb (2Gx8) 4800/5600 was unchanged vs the previous day; DDR4 16Gb (2Gx8) 3200 spot average rose 0.56 pct; DDR4 8Gb (1Gx8) 3200 spot average rose 0.25 pct.
-
----
-
-### 2026-08-14 11:02:10  #公司 #國際
-
-【美國ITC釋出對越野車輛及其零部件的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定越野車輛及其零部件（Certain Off-Road Vehicles and Components Thereof，調查編碼：337-TA-1490）作出337部分終裁：對本案行政法官於2026年7月14日作出的初裁（No.14）不予複審，即終止本案對美國註冊專利號7,819,220第7和第8項權利要求的調查，投訴和調查通知已修改為主張美國註冊專利號7,950,486第31項權利要求、美國註冊專利號12,187,127第9–15項和第22項權利要求。
-
----
-
-### 2026-08-14 11:00:52  #公司
-
-【南模生物成立科技公司 含實驗動物生產業務】企查查APP顯示，近日，安徽南模生物科技有限公司成立，法定代表人為費儉，註冊資本為2000萬元，經營範圍包含實驗動物生產；實驗動物經營；實驗動物墊料銷售；實驗分析儀器銷售；生物飼料研發等。企查查股權穿透顯示，該公司由南模生物全資持股。
-
----
-
-### 2026-08-14 11:00:48  #MKT News
-
-South Korea June M2 money supply MoM +0.7% (prior +0.8%).
-
----
-
-### 2026-08-14 11:00:44  #國際 #原創
-
-【民調顯示李在明上任以來反對率首次超過支援率】週五公佈的一項調查顯示，韓國總統李在明的反對率自上任以來首次超過支援率，原因是其房地產政策受到越來越多的批評。蓋洛普韓國公司於週二至週四對1000名18歲及以上人士進行的調查顯示，44%的受訪者對李在明的治國理政給予了積極評價，較7月24日公佈的上一次調查結果下降了7個百分點。負面評價躍升 8 個百分點至 46%，這是自李在明2025 年 6 月就任以來，蓋洛普民意調查中其負面評價首次超過正面評價。
-
----
-
-### 2026-08-14 11:00:43  #MKT News
-
-South Korea June L money supply MoM 0.8%, prior 1.10%.
-
----
-
-### 2026-08-14 11:00:42  #MKT News #Economic Calendar #Important
-
-South Korea | M2 Money Supply (MoM) (Jun) | actual 0.7% | previous 0.80%
-
----
-
-### 2026-08-14 11:00:36  #MKT News #Economic Calendar #Important
-
-South Korea | L Money Supply (MoM) (Jun) | actual 0.8% | previous 1.10%
-
----
-
-### 2026-08-14 11:00:23  #市場
-
-【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月14日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.56%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.25%。
-
----
-
-### 2026-08-14 11:00:21  #央行 #中國央行
-
-【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。
-
----
-
-### 2026-08-14 11:00:19  #國際
-
-韓國6月經調整後的M2貨幣供應量環比增長0.7%。
-
----
-
-### 2026-08-14 11:00:08  #MKT News
-
-South Korea June L-money supply YoY 9.4%; prior unchanged at 9.2%.
-
----
-
-### 2026-08-14 11:00:08  #國際
-
-韓國6月經調整後的L貨幣供應量環比增長0.8%。
-
----
-
-### 2026-08-14 11:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | L Money Supply (YoY) (Jun) | actual 9.4% | previous 9.2%
-
----
-
-### 2026-08-14 10:59:54  #公司
-
-【軟通動力與廣西電信簽署戰略協議 圍繞產業智慧化、AI基礎設施等方向展開深度合作】軟通動力訊息，8月12日，軟通動力與中國電信股份有限公司廣西分公司（簡稱“廣西電信”）在南寧正式簽署戰略合作協議。雙方將圍繞產業智慧化、AI基礎設施及東盟市場聯合拓展等方向展開深度合作，以激發區域數字經濟新動能，助力中資企業揚帆出海。
-
----
-
-### 2026-08-14 10:59:27  #央行 #國際
-
-【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。
-
----
-
-### 2026-08-14 10:59:16  #MKT News
-
-【PBOC deputy governor Zou Lan attended BRICS finance ministers and central bank governors meeting in Jaipur】On Aug 12-13, 2026, PBOC deputy governor Zou Lan attended this year’s first BRICS finance ministers and central bank governors meeting in Jaipur, India. Delegates discussed global economic development and governance, enhancements to the Contingent Reserve Arrangement (CRA), and stepped-up BRICS cooperation on cross-border payments, sustainable finance, information security and fintech.
 
 ---

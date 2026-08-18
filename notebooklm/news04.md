@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:52:01_
-_本檔包含 3133 則快訊，約 604594 字_
+_更新時間：2026-08-19 06:37:15_
+_本檔包含 3135 則快訊，約 603776 字_
+
+---
+
+### 2026-08-14 11:05:01  #公司 #國際
+
+【美國ITC釋出對具有影片功能的電子裝置的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定具有影片功能的電子裝置（Certain Video-Capable Electronic Devices，調查編碼：337-TA-1481）作出337部分終裁：對本案行政法官於2026年7月17日作出的初裁（No.18）不予複審，即基於仲裁協議（arbitration agreement），終止本案調查。
+
+---
+
+### 2026-08-14 11:04:32  #公司 #國際
+
+【美國ITC釋出對開放式耳機的337部分終裁】據中國貿易救濟資訊網訊息，2026年8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定開放式耳機（Certain Open-Ear Earpiece Devices，調查編碼：337-TA-1470）作出337部分終裁：對本案行政法官於2026年7月15日作出的初裁（No.15）不予複審，即基於申請方撤回，部分終止本案對無法聯絡的應訴方（the“Unreachable Respondents”）的調查。
+
+---
+
+### 2026-08-14 11:03:17  #MKT News
+
+【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot avg unchanged vs previous day】TrendForce data showed on Aug 14 the spot average price for DDR5 16Gb (2Gx8) 4800/5600 was unchanged vs the previous day; DDR4 16Gb (2Gx8) 3200 spot average rose 0.56 pct; DDR4 8Gb (1Gx8) 3200 spot average rose 0.25 pct.
+
+---
+
+### 2026-08-14 11:02:10  #公司 #國際
+
+【美國ITC釋出對越野車輛及其零部件的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定越野車輛及其零部件（Certain Off-Road Vehicles and Components Thereof，調查編碼：337-TA-1490）作出337部分終裁：對本案行政法官於2026年7月14日作出的初裁（No.14）不予複審，即終止本案對美國註冊專利號7,819,220第7和第8項權利要求的調查，投訴和調查通知已修改為主張美國註冊專利號7,950,486第31項權利要求、美國註冊專利號12,187,127第9–15項和第22項權利要求。
+
+---
+
+### 2026-08-14 11:00:52  #公司
+
+【南模生物成立科技公司 含實驗動物生產業務】企查查APP顯示，近日，安徽南模生物科技有限公司成立，法定代表人為費儉，註冊資本為2000萬元，經營範圍包含實驗動物生產；實驗動物經營；實驗動物墊料銷售；實驗分析儀器銷售；生物飼料研發等。企查查股權穿透顯示，該公司由南模生物全資持股。
+
+---
+
+### 2026-08-14 11:00:48  #MKT News
+
+South Korea June M2 money supply MoM +0.7% (prior +0.8%).
+
+---
+
+### 2026-08-14 11:00:44  #國際 #原創
+
+【民調顯示李在明上任以來反對率首次超過支援率】週五公佈的一項調查顯示，韓國總統李在明的反對率自上任以來首次超過支援率，原因是其房地產政策受到越來越多的批評。蓋洛普韓國公司於週二至週四對1000名18歲及以上人士進行的調查顯示，44%的受訪者對李在明的治國理政給予了積極評價，較7月24日公佈的上一次調查結果下降了7個百分點。負面評價躍升 8 個百分點至 46%，這是自李在明2025 年 6 月就任以來，蓋洛普民意調查中其負面評價首次超過正面評價。
+
+---
+
+### 2026-08-14 11:00:43  #MKT News
+
+South Korea June L money supply MoM 0.8%, prior 1.10%.
+
+---
+
+### 2026-08-14 11:00:42  #MKT News #Economic Calendar #Important
+
+South Korea | M2 Money Supply (MoM) (Jun) | actual 0.7% | previous 0.80%
+
+---
+
+### 2026-08-14 11:00:36  #MKT News #Economic Calendar #Important
+
+South Korea | L Money Supply (MoM) (Jun) | actual 0.8% | previous 1.10%
+
+---
+
+### 2026-08-14 11:00:23  #市場
+
+【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月14日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.56%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.25%。
+
+---
+
+### 2026-08-14 11:00:21  #央行 #中國央行
+
+【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。
+
+---
+
+### 2026-08-14 11:00:19  #國際
+
+韓國6月經調整後的M2貨幣供應量環比增長0.7%。
+
+---
+
+### 2026-08-14 11:00:08  #MKT News
+
+South Korea June L-money supply YoY 9.4%; prior unchanged at 9.2%.
+
+---
+
+### 2026-08-14 11:00:08  #國際
+
+韓國6月經調整後的L貨幣供應量環比增長0.8%。
+
+---
+
+### 2026-08-14 11:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | L Money Supply (YoY) (Jun) | actual 9.4% | previous 9.2%
+
+---
+
+### 2026-08-14 10:59:54  #公司
+
+【軟通動力與廣西電信簽署戰略協議 圍繞產業智慧化、AI基礎設施等方向展開深度合作】軟通動力訊息，8月12日，軟通動力與中國電信股份有限公司廣西分公司（簡稱“廣西電信”）在南寧正式簽署戰略合作協議。雙方將圍繞產業智慧化、AI基礎設施及東盟市場聯合拓展等方向展開深度合作，以激發區域數字經濟新動能，助力中資企業揚帆出海。
+
+---
+
+### 2026-08-14 10:59:27  #央行 #國際
+
+【中國人民銀行副行長鄒瀾出席金磚國家財長和央行行長會議】2026年8月12日至13日，中國人民銀行副行長鄒瀾出席在印度齋浦爾舉行的本年度首次金磚國家財長和央行行長會議，與會各方圍繞全球經濟發展與治理，完善應急儲備安排，加強金磚國家在跨境支付、可持續金融、資訊保安和金融科技等方面的合作進行了討論。
+
+---
+
+### 2026-08-14 10:59:16  #MKT News
+
+【PBOC deputy governor Zou Lan attended BRICS finance ministers and central bank governors meeting in Jaipur】On Aug 12-13, 2026, PBOC deputy governor Zou Lan attended this year’s first BRICS finance ministers and central bank governors meeting in Jaipur, India. Delegates discussed global economic development and governance, enhancements to the Contingent Reserve Arrangement (CRA), and stepped-up BRICS cooperation on cross-border payments, sustainable finance, information security and fintech.
 
 ---
 
@@ -18767,107 +18881,5 @@ China A-share dairy sector rallied intraday; Yiming Food hit the daily limit, wi
 ### 2026-08-13 09:50:44  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
 
 PBoC Pauses 7-Day Repos for 3rd Day, Plans Big Overnight Liquidity — The People’s Bank of China (PBoC) said Thursday, August 13, it conducted zero seven-day reverse repos for a third straight day, citing demand from primary dealers. Separately, the central bank announced it will carry out up to CNY 600 billion of overnight reverse repos per day on August 14 and August 17–19. The PBoC uses these short-term liquidity tools to “fine-tune cash conditions” in the banking system, balancing market demand with stability in funding.
-
----
-
-### 2026-08-13 09:49:31  #其他
-
-【廣東：鼓勵社會資本以市場化方式建立支援企業標準創新專項基金】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，激發企業標準化創新活力。聚焦戰略性新興產業、未來產業和優勢產業，鼓勵重點產業鏈上下游企業，制定共同使用的企業標準，推動“創新鏈—標準鏈—產業鏈”融合發展。鼓勵社會資本以市場化方式建立支援企業標準創新專項基金。支援將先進企業標準化成果納入社會組織、企業等設立的社會科技獎獎勵範疇。
-
----
-
-### 2026-08-13 09:48:10  #公司 #市場
-
-【CPO概念震盪拉昇 天孚通訊漲近10%】早盤CPO概念震盪拉昇，天孚通訊漲近10%，炬光科技、源傑科技、華懋科技、新易盛、東山精密等跟漲。
-
----
-
-### 2026-08-13 09:47:19  #MKT News #Important #Market Regions #Greater China #Market Themes #Chip Wars #SZSE Component #Impact bullish
-
-China's ChiNext index continued to strengthen, rising over 2% in early trade; computing-power leasing, storage chips and CPO sectors led gains.
-
----
-
-### 2026-08-13 09:46:42  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Holds Firm — The Australian dollar held above $0.705, staying near multi-week highs as the Reserve Bank’s latest remarks reinforced a restrictive policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and slowing broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and said financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday.
-
----
-
-### 2026-08-13 09:46:35  #市場 #焦點
-
-創業板指漲2％，上證指數漲0.50％，深證成指漲1.16％。算力租賃、儲存晶片、CPO等板塊漲幅居前。
-
----
-
-### 2026-08-13 09:46:26  #公司
-
-【新致軟體成立智算科技公司 含AI及積體電路業務】企查查APP顯示，近日，武漢新致智算科技有限公司成立，經營範圍包含積體電路製造；積體電路晶片及產品製造；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由新致軟體全資持股。
-
----
-
-### 2026-08-13 09:45:43  #市場
-
-【生物科技板塊拉昇 博濟醫藥漲超10%】生物科技板塊拉昇，博濟醫藥漲超10%，賽分科技、皓元醫藥、康龍化成等跟漲。
-
----
-
-### 2026-08-13 09:45:39  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-China A-share CPO concept stocks surged briefly; Gongjin Co. hit the daily limit, while Juguang Technology, Yuanjie Technology, Liante Technology, Tianfu Communication and Taichengguang advanced.
-
----
-
-### 2026-08-13 09:45:06  #公司 #市場
-
-【共封裝光學(CPO)板塊短線拉昇，共進股份漲停】共封裝光學(CPO)板塊短線拉昇，共進股份漲停，炬光科技、源傑科技、聯特科技、天孚通訊、太辰光等紛紛走高。
-
----
-
-### 2026-08-13 09:45:00  #市場 #國際
-
-國債期貨漲幅擴大，30年期主力合約漲0.35%，10年期主力合約漲0.05%，5年期主力合約漲0.03%，2年期主力合約漲0.01%。
-
----
-
-### 2026-08-13 09:44:57  #其他
-
-【廣東：圍繞人工智慧等關鍵領域 研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，最佳化新興產業標準佈局。圍繞人工智慧、新能源汽車、低空經濟、新型儲能、商業航天等關鍵領域，研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準。大力開拓新技術新產品應用場景，開展標準化應用試點，完善相關標準應用實施指引。
-
----
-
-### 2026-08-13 09:44:05  #MKT News #Market Themes #AI Revolution
-
-【Guangdong to plan standards systems for embodied intelligence and other frontier fields, exploring standardization to speed iteration of leading disruptive technologies】Guangdong provincial CPC committee and provincial government issued guidance to carry out future-industry standards planning. It directs standards-system research focused on embodied intelligence, biomanufacturing, quantum technology and other frontier areas, and to explore using standardization to accelerate iteration of pioneering and disruptive technologies. The guidance calls for stronger standards pre-research to improve scientific and practical feasibility and to shorten the cycle for converting scientific achievements into standards. It also backs formation of standardization technical organizations for future industries and advancement of key standards’ development and implementation.
-
----
-
-### 2026-08-13 09:44:01  #其他
-
-訊息人士稱，墨西哥在美墨加協定談判中推動降低汽車關稅。
-
----
-
-### 2026-08-13 09:43:58  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Wall Street Journal, citing sources, says Mexico is pushing to lower auto tariffs in USMCA negotiations.
-
----
-
-### 2026-08-13 09:43:53  #公司 #市場
-
-【食品飲料板塊再度活躍 皇氏集團4連板】早盤食品飲料板塊再度活躍，皇氏集團4連板，一鳴食品、會稽山、熊貓乳品、百合股份、好想你等跟漲。
-
----
-
-### 2026-08-13 09:43:43  #其他
-
-【廣東：圍繞具身智慧等前沿領域開展標準體系規劃研究，探索以標準化手段引領先導性、顛覆性技術快速迭代】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，開展未來產業標準規劃。圍繞具身智慧、生物製造、量子科技等前沿領域開展標準體系規劃研究，探索以標準化手段引領先導性、顛覆性技術快速迭代。加強標準預研工作，提升標準研製的科學性、可行性，縮短科技成果向標準轉化的週期。支援組建未來產業的標準化技術組織，推進重點標準的研製與實施。
-
----
-
-### 2026-08-13 09:43:38  #其他
-
-【廣東：力爭在積體電路等重點領域形成一批原創技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，強化科技攻關與標準同步。聚焦“廣東強芯”工程、汽車晶片“攀登計劃”、核心軟體攻關工程、顯示製造關鍵裝備攻關及產業化行動等，同步開展關鍵標準研製，力爭在積體電路、工業軟體、工業母機、科學儀器、醫療器械等重點領域形成一批原創技術標準。推動更多共性關鍵技術和應用類科技計劃專案形成標準研究成果。
 
 ---

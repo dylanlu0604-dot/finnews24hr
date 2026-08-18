@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:52:01_
-_本檔包含 3086 則快訊，約 604562 字_
+_更新時間：2026-08-19 06:37:15_
+_本檔包含 3101 則快訊，約 604100 字_
+
+---
+
+### 2026-08-19 06:36:34  #其他
+
+OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。
+
+---
+
+### 2026-08-19 06:36:25  #其他
+
+Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。
+
+---
+
+### 2026-08-19 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%).
+
+---
+
+### 2026-08-19 06:32:00  #國際
+
+土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。
+
+---
+
+### 2026-08-19 06:31:48  #MKT News #Market Themes #AI Revolution
+
+OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports.
+
+---
+
+### 2026-08-19 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%).
+
+---
+
+### 2026-08-19 06:29:33  #國際
+
+伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。
+
+---
+
+### 2026-08-19 06:25:25  #國際
+
+【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。（新華社）
+
+---
+
+### 2026-08-19 06:22:30  #其他
+
+OpenAI第二季度營收67億美元。
+
+---
+
+### 2026-08-19 06:21:59  #MKT News #Important
+
+Market sources say ANTHROPIC is expected to launch an IPO process within weeks.
+
+---
+
+### 2026-08-19 06:21:38  #其他
+
+OpenAI向投資者表示，第三季度業務增長已經提速。
+
+---
+
+### 2026-08-19 06:21:32  #其他
+
+Anthropic（二季度）營收較一季度實現翻倍以上增長。
+
+---
+
+### 2026-08-19 06:20:15  #其他 #焦點
+
+Anthropic預計將在數週內啟動IPO流程。
+
+---
+
+### 2026-08-19 06:18:12  #國際
+
+韓國LG新能源正與美方洽談無人機電池合作事宜。
+
+---
+
+### 2026-08-19 06:15:04  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Zealand Dollar (-0.47%), Australian Dollar (-0.29%), Polish Zloty (-0.26%), Japanese Yen (-0.12%) and British Pound (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile, Euro and Dollar Index were little changed.
+
+---
+
+### 2026-08-19 06:14:56  #其他
+
+【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
+
+---
+
+### 2026-08-19 06:14:24  #宏觀
+
+英國首相伯納姆表示，作為權力移交的一部分，北部唐寧街10號將從財政部手中接管經濟增長相關權責。
+
+---
+
+### 2026-08-19 06:07:09  #國際
+
+以色列再次轟炸黎巴嫩南部地區。
+
+---
+
+### 2026-08-19 06:03:15  #市場
+
+現貨白銀日內跌1%，現報62.17美元/盎司。
+
+---
+
+### 2026-08-19 06:03:08  #其他
+
+中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。
+
+---
+
+### 2026-08-19 06:02:01  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
+
+---
+
+### 2026-08-19 06:01:56  #市場
+
+紐約期銀日內跌1%，現報63.39美元/盎司。
+
+---
+
+### 2026-08-19 06:00:45  #市場 #焦點
+
+現貨白銀突破63美元/盎司，日內跌0.51%。
+
+---
+
+### 2026-08-19 06:00:08  #公司 #國際
+
+美國地面運輸委員會：決定啟動評估聯合太平洋鐵路公司與諾福克南方鐵路公司擬議合併交易價值的程式。
+
+---
+
+### 2026-08-19 05:58:28  #公司 #焦點 #國際
+
+美國地面運輸委員會：採納聯合太平洋鐵路公司與諾福克南方鐵路公司合併審議程式時間表，將該合併程式移出擱置狀態。
 
 ---
 
@@ -18567,65 +18717,5 @@ Synchrony 將部署 GPT‑5.6 SOL、TERRA、LUNA 模型。
 ### 2026-08-17 23:00:14  #Trading Economics #Markets #Currency #Importance 1
 
 FX Updates: Brazilian Real Appreciates by 0.62% — Top currency gainers are Brazilian Real (0.62%), Swiss Franc (0.46%), Australian Dollar (0.41%), Euro (0.15%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-08-17 23:00:03  #市場
-
-【夜盤期貨收盤】乙二醇連續漲2.96%，液化石油氣連續漲1.83%，澱粉連續跌1.03%，燃料油連續漲1.00%，瀝青連續漲1.00%。
-
----
-
-### 2026-08-17 22:59:36  #MKT News
-
-【Goldman Sachs: Global bond issuance down 16% YoY last week】Goldman Sachs data show global bond issuance fell 16% YoY last week, though year-to-date issuance is 9% higher than the same period a year ago. By segment, investment-grade corporate issuance rose 60% YoY, high-yield fell 41% YoY and leveraged loan issuance plunged 88% YoY. Financial-sector bond issuance increased 38% YoY while structured finance issuance dropped 64% YoY. Assets in ETFs tracking the S&P and MSCI indices continued to expand, up 32% and 36%, respectively.
-
----
-
-### 2026-08-17 22:58:30  #國際
-
-【美媒稱美政府縮減對伊朗戰爭目標】美國有線電視新聞網在8月16日的一篇報道中分析稱，美國政府已進一步縮減對伊朗戰爭的目標，這表明美國可能準備退而求其次，甚至大幅降低預期。隨著美國中期選舉的臨近，伊朗戰事正在嚴重拖累共和黨的選情。共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。有知情人士透露，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（CCTV國際時訊）
-
----
-
-### 2026-08-17 22:58:00  #市場 #觀點
-
-【高盛：全球債券發行規模下滑 16%】高盛資料顯示，上週全球債務發行規模同比下降 16%，但年初至今發行規模仍高出 9%。投資級企業債券發行規模激增 60%，高收益債券發行下滑 41%，槓桿貸款大幅下跌 88%。金融行業債券發行規模上漲 38%，結構性金融產品發行下降 64%。與此同時，跟蹤標普以及明晟指數的 ETF 資產規模持續強勁增長，分別上漲 32% 和 36%。
-
----
-
-### 2026-08-17 22:57:24  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls for 6th Session — The FTSE 100 edged lower on Monday, extending its decline to a sixth consecutive session as weakness in consumer staples weighed on the index. Unilever fell nearly 2%, while British American Tobacco and Diageo dropped 1.6% and 2.8%, respectively. Tesco also lost almost 3%. In contrast, mining stocks benefited from stronger metals prices. Fresnillo and Endeavour Mining gained around 2% and 2.6%, supported by higher gold prices, while Antofagasta, Anglo American and Glencore also advanced as copper prices continued to rise. Pharmaceuticals provided some support, with AstraZeneca gaining about 1% and GSK rising more than 2%. Meanwhile, oil prices moved higher as renewed violence in the Middle East raised concerns about further escalation. Hopes for a diplomatic resolution weakened after President Donald Trump reportedly indicated he was in no rush to end the conflict with Iran, while fighting intensified again in Lebanon.
-
----
-
-### 2026-08-17 22:56:56  #其他
-
-德國聯邦鐵路表示，相關談判目前仍處於非常初期的非約束性階段。
-
----
-
-### 2026-08-17 22:56:49  #其他
-
-西班牙IBEX35指數失守20000點，日內跌幅0.78%。
-
----
-
-### 2026-08-17 22:56:49  #MKT News #Market Regions #Europe & UK
-
-Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
-
----
-
-### 2026-08-17 22:56:40  #公司
-
-德鐵發言人表示，我們確認正在就出售英國子公司德鐵信可英國(DB Cargo UK)的可能性進行討論。
-
----
-
-### 2026-08-17 22:55:24  #國際
-
-【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。
 
 ---

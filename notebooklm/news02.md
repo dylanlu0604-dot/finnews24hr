@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 05:52:01_
-_本檔包含 2809 則快訊，約 604537 字_
+_更新時間：2026-08-19 06:37:15_
+_本檔包含 2808 則快訊，約 604157 字_
+
+---
+
+### 2026-08-17 23:00:03  #市場
+
+【夜盤期貨收盤】乙二醇連續漲2.96%，液化石油氣連續漲1.83%，澱粉連續跌1.03%，燃料油連續漲1.00%，瀝青連續漲1.00%。
+
+---
+
+### 2026-08-17 22:59:36  #MKT News
+
+【Goldman Sachs: Global bond issuance down 16% YoY last week】Goldman Sachs data show global bond issuance fell 16% YoY last week, though year-to-date issuance is 9% higher than the same period a year ago. By segment, investment-grade corporate issuance rose 60% YoY, high-yield fell 41% YoY and leveraged loan issuance plunged 88% YoY. Financial-sector bond issuance increased 38% YoY while structured finance issuance dropped 64% YoY. Assets in ETFs tracking the S&P and MSCI indices continued to expand, up 32% and 36%, respectively.
+
+---
+
+### 2026-08-17 22:58:30  #國際
+
+【美媒稱美政府縮減對伊朗戰爭目標】美國有線電視新聞網在8月16日的一篇報道中分析稱，美國政府已進一步縮減對伊朗戰爭的目標，這表明美國可能準備退而求其次，甚至大幅降低預期。隨著美國中期選舉的臨近，伊朗戰事正在嚴重拖累共和黨的選情。共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。有知情人士透露，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 22:58:00  #市場 #觀點
+
+【高盛：全球債券發行規模下滑 16%】高盛資料顯示，上週全球債務發行規模同比下降 16%，但年初至今發行規模仍高出 9%。投資級企業債券發行規模激增 60%，高收益債券發行下滑 41%，槓桿貸款大幅下跌 88%。金融行業債券發行規模上漲 38%，結構性金融產品發行下降 64%。與此同時，跟蹤標普以及明晟指數的 ETF 資產規模持續強勁增長，分別上漲 32% 和 36%。
+
+---
+
+### 2026-08-17 22:57:24  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls for 6th Session — The FTSE 100 edged lower on Monday, extending its decline to a sixth consecutive session as weakness in consumer staples weighed on the index. Unilever fell nearly 2%, while British American Tobacco and Diageo dropped 1.6% and 2.8%, respectively. Tesco also lost almost 3%. In contrast, mining stocks benefited from stronger metals prices. Fresnillo and Endeavour Mining gained around 2% and 2.6%, supported by higher gold prices, while Antofagasta, Anglo American and Glencore also advanced as copper prices continued to rise. Pharmaceuticals provided some support, with AstraZeneca gaining about 1% and GSK rising more than 2%. Meanwhile, oil prices moved higher as renewed violence in the Middle East raised concerns about further escalation. Hopes for a diplomatic resolution weakened after President Donald Trump reportedly indicated he was in no rush to end the conflict with Iran, while fighting intensified again in Lebanon.
+
+---
+
+### 2026-08-17 22:56:56  #其他
+
+德國聯邦鐵路表示，相關談判目前仍處於非常初期的非約束性階段。
+
+---
+
+### 2026-08-17 22:56:49  #其他
+
+西班牙IBEX35指數失守20000點，日內跌幅0.78%。
+
+---
+
+### 2026-08-17 22:56:49  #MKT News #Market Regions #Europe & UK
+
+Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
+
+---
+
+### 2026-08-17 22:56:40  #公司
+
+德鐵發言人表示，我們確認正在就出售英國子公司德鐵信可英國(DB Cargo UK)的可能性進行討論。
+
+---
+
+### 2026-08-17 22:55:24  #國際
+
+【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。
 
 ---
 
@@ -16851,71 +16911,5 @@ TASNIM News reported Iran's official responsible for missing military personnel 
 ### 2026-08-16 14:08:27  #公司 #國際
 
 【韓國股市反彈 韓國投資者再度融資買入】市場資料週日顯示，隨著韓國股市自深度低點反彈，本土投資者再度大舉融資買入本國股票。 韓國金融投資協會（KOFIA）統計資料顯示，截至週四，用於買入股票的融資融券餘額（即保證金債務）達到30.93萬億韓元（摺合218億美元），高於8月3日的27.44萬億韓元。 此番融資規模攀升，背景是三星電子、SK海力士等市場權重股，從AI相關投資盈利擔憂引發的震盪行情中大幅回升。 分析師認為，鑑於AI投資相關憂慮有所緩解，韓國股市暫無即刻降溫跡象，融資規模或將在一段時間內繼續走高，有望創下新高。
-
----
-
-### 2026-08-16 14:02:06  #國際
-
-【俄政治學者：日本走軍國主義道路 俄無需顧及日方感受】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。對此，俄羅斯政治學者表示，俄方意在告訴日本，日方再次走上軍國主義道路，俄方無需向日本展示善意。據俄羅斯方面近日訊息，俄羅斯政治學者盧基揚諾夫表示，普京此次登島在某種意義上劃下了一條界線，同時，向日本釋放出一個訊號：如果日本不願對俄奉行獨立於西方的自主政策，那麼俄羅斯方面將不再顧及日方的感受。更何況，俄羅斯總統對國內任何地區的視察都是完全正常的行為。（央視新聞）
-
----
-
-### 2026-08-16 14:01:03  #宏觀 #國際
-
-【朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀】中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志的遺體，將於18日在北京火化。為悼念朱鎔基同志，18日，首都天安門、新華門、人民大會堂、外交部，各省、自治區、直轄市黨委和政府所在地，香港特別行政區、澳門特別行政區，各邊境口岸，對外海空港口，中國駐外使領館將下半旗誌哀。（新華社）
-
----
-
-### 2026-08-16 13:58:56  #MKT News
-
-【US Navy finds unidentified drone at largest Italian base; base-wide security measures enacted】Stars and Stripes reported on 14 that the US Navy discovered an unidentified small drone at its largest base in Italy and implemented base-wide security measures. The drone was found on 13 at a support site, prompting precautionary action. Separately, a brief shelter-in-place order was issued at a garrison about 13 miles (21 km) from the discovery; officials have not confirmed whether the order was related to the drone or whether similar orders were issued at the support site.
-
----
-
-### 2026-08-16 13:57:56  #國際
-
-【美媒：美海軍在義大利最大基地內發現無人機，並採取全基地安全措施】據美國《星條旗報》當地時間14日報道，美國海軍在義大利最大基地內日前發現一架身份不明的無人機，並採取了全基地安全措施。報道稱，該小型無人機於13日在美海軍基地一支援點中被發現，促使安全部隊採取預防措施。在發現該無人機前後，美海軍基地在其位於距離事發地點約13英里（約21千米）的一個駐地釋出了短暫的就地避險令。目前尚不清楚這項避險令是否與發現了無人機有關，也不清楚支援點中是否也釋出了類似的命令。（環球網）
-
----
-
-### 2026-08-16 13:52:36  #國際
-
-匈牙利總理：一輛波蘭巴士在匈牙利發生事故，已造成12人死亡，至少10人受傷。
-
----
-
-### 2026-08-16 13:52:18  #公司 #市場 #央行 #國際
-
-【“恐慌指數”跌至年內低位 科技股高位震盪】本週美股各大指數表現分化，標普500迎來7800點里程碑的同時道指結束周線兩連陽。美國通脹資料疊加零售銷售下滑，提升了美聯儲9月暫停加息的機率；與此同時，特朗普政府對中東局勢釋放的訊號，成為打壓風險偏好的理由。 未來一週，隨著財報季臨近尾聲，地緣政治因素和美聯儲貨幣政策預期或重新主導市場，而衡量市場波動性的芝商所“恐慌指數”VIX跌至年內低位，可能醞釀著新一輪波動的風險。 牛津經濟研究院高階經濟學家鮑勃·施瓦茨在接受記者採訪時表示，美國物價最大的不確定性變數仍是能源價格，中東衝突可以把通脹推向完全不同的方向。核心通脹已經回落至2.5%，但自 2021年之後就很難進一步跌破該水平，這也給美聯儲鷹派提供了支援繼續加息的論據。他認為，長期來看，AI帶來的生產率提升有望抑制通脹；但短期，資料中心、半導體、儲存晶片的鉅額需求，已經推高科技板塊部分環節的價格，對AI長期抗通脹的前景形成短期對沖。（第一財經）
-
----
-
-### 2026-08-16 13:48:55  #MKT News #Market Regions #Greater China
-
-【China launches batch of 24 LEO satellites for satellite internet】At 12:10 Beijing time on Aug 16, 2026, China launched a batch of 24 low‑Earth‑orbit satellites for a satellite internet constellation from its Hainan commercial spaceport aboard a Long March‑12 rocket; the satellites reached their planned orbit and the launch was successful.
-
----
-
-### 2026-08-16 13:46:12  #其他
-
-【我國成功發射衛星網際網路低軌24組衛星】北京時間2026年8月16日12時10分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌24組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）
-
----
-
-### 2026-08-16 13:43:58  #公司
-
-【雲南約談通報投訴量排名前50旅行社：將實施重點監管】近日，雲南省文化和旅遊廳召開全省投訴較多旅行社負責人影片約談通報會，對昆明康輝旅行社有限公司、雲南中青國際旅行社（集團）有限公司、西雙版納怡程國際旅行社有限公司等全省投訴量排名前50的旅行社進行通報。
-
----
-
-### 2026-08-16 13:40:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon.
-
----
-
-### 2026-08-16 13:38:18  #觀點
-
-【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。
 
 ---
