@@ -1,7 +1,65 @@
 {
   "date": "2026-08-19",
-  "count": 434,
+  "count": 440,
   "items": [
+    {
+      "id": "mkt:01a0174d-5c4b-7aab-9083-cdb18d2e40b4",
+      "time": "2026-08-19 07:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WWA: Marine heatwaves could amplify European storm season】World Weather Attribution (WWA) warns rising ocean temperatures could produce stronger storms in Europe later this year. The study says Mediterranean warming is running at roughly twice the global ocean average and parts of the Mediterranean and Europe’s Atlantic coast recorded June sea surface temperature anomalies above 6°C. Catherine Gregory, a co‑author and researcher at the University of Bern, said very high SSTs supply extra energy to storms and can prolong their duration, and that the topic is a relatively new research area that may be one of the most significant human impacts of marine heatwaves."
+    },
+    {
+      "id": "5046611",
+      "time": "2026-08-19 07:55:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：下半年人民幣對美元匯率再現上半年持續較快升值的可能性較小 全年可能呈現“先升後穩”的執行態勢】東方金誠首席宏觀分析師王青分析稱，近期美元指數跌破100，帶動包括人民幣在內的非美貨幣普遍升值。此外，7月份我國出口延續高增狀態，外部經貿環境保持穩定，這意味著近期支撐人民幣匯率走強的核心動力沒有變化。 “後期人民幣匯率將主要取決於我國出口走勢，以及美聯儲貨幣政策調整等因素對美元指數帶來的影響。”王青預計，下半年人民幣對美元匯率再現上半年持續較快升值的可能性較小，會更多處於雙向波動狀態，全年可能呈現“先升後穩”的執行態勢。"
+    },
+    {
+      "id": "5046610",
+      "time": "2026-08-19 07:54:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【人民幣對美元創三年半新高 專家料年內有望溫和升值】日前，人民幣對美元匯率創階段新高。Wind資料顯示，8月17日，離岸人民幣對美元匯率盤中最高升至6.7376，在岸人民幣對美元匯率盤中最高觸及6.7370，雙雙創下2023年2月6日以來新高，即創三年半新高。中信證券首席經濟學家明明認為，美聯儲年內維持政策利率水平不變的機率較高，在此背景下，預計年內美元指數有支撐，但也難以持續衝高，人民幣外部壓力可控。從內部因素來看，國內經濟基本面穩定，尤其是出口保持強勁，為人民幣匯率提供堅實支撐。同時，中國人民銀行穩匯率政策的使用節奏張弛有度，增強了人民幣匯率的韌性。總的來看，人民幣年內有望溫和升值。（證券日報）"
+    },
+    {
+      "id": "te:markets:576258",
+      "time": "2026-08-19 07:54:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Tech-Led Selloff — US stock futures steadied on Wednesday after the major averages tumbled in the previous session amid heavy selling in semiconductor and other technology stocks. Rising global bond yields and firmer oil prices also dampened sentiment, with the 30-year Treasury yield reaching a 19-year high this week. On the geopolitical front, the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. In regular trading on Tuesday, the Dow fell 0.22%, the S&P 500 declined 0.69% and the Nasdaq Composite plunged 1.33%, with all three benchmarks losing ground for a third consecutive session. AI-linked chipmakers suffered steep losses, including Micron (-7%), Sandisk (-9%), Nvidia (-2.3%), Intel (-6.6%) and AMD (-4.3%). Investors now await minutes from the Federal Reserve’s July meeting, along with earnings reports from major retailers including Target, TJX and Lowe’s."
+    },
+    {
+      "id": "5046609",
+      "time": "2026-08-19 07:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608193845180893",
+      "time": "2026-08-19 07:50:38",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月核心機械訂單同比增長16.9%，預期10.8%，前值-1.90%。"
+    },
     {
       "id": "5046608",
       "time": "2026-08-19 07:50:25",

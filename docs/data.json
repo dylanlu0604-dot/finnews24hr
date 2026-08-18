@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-19 07:52:12",
-  "count": 15126,
+  "updated": "2026-08-19 07:56:07",
+  "count": 15123,
   "items": [
+    {
+      "id": "mkt:01a0174d-5c4b-7aab-9083-cdb18d2e40b4",
+      "time": "2026-08-19 07:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WWA: Marine heatwaves could amplify European storm season】World Weather Attribution (WWA) warns rising ocean temperatures could produce stronger storms in Europe later this year. The study says Mediterranean warming is running at roughly twice the global ocean average and parts of the Mediterranean and Europe’s Atlantic coast recorded June sea surface temperature anomalies above 6°C. Catherine Gregory, a co‑author and researcher at the University of Bern, said very high SSTs supply extra energy to storms and can prolong their duration, and that the topic is a relatively new research area that may be one of the most significant human impacts of marine heatwaves."
+    },
+    {
+      "id": "5046611",
+      "time": "2026-08-19 07:55:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：下半年人民幣對美元匯率再現上半年持續較快升值的可能性較小 全年可能呈現“先升後穩”的執行態勢】東方金誠首席宏觀分析師王青分析稱，近期美元指數跌破100，帶動包括人民幣在內的非美貨幣普遍升值。此外，7月份我國出口延續高增狀態，外部經貿環境保持穩定，這意味著近期支撐人民幣匯率走強的核心動力沒有變化。 “後期人民幣匯率將主要取決於我國出口走勢，以及美聯儲貨幣政策調整等因素對美元指數帶來的影響。”王青預計，下半年人民幣對美元匯率再現上半年持續較快升值的可能性較小，會更多處於雙向波動狀態，全年可能呈現“先升後穩”的執行態勢。"
+    },
+    {
+      "id": "5046610",
+      "time": "2026-08-19 07:54:51",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【人民幣對美元創三年半新高 專家料年內有望溫和升值】日前，人民幣對美元匯率創階段新高。Wind資料顯示，8月17日，離岸人民幣對美元匯率盤中最高升至6.7376，在岸人民幣對美元匯率盤中最高觸及6.7370，雙雙創下2023年2月6日以來新高，即創三年半新高。中信證券首席經濟學家明明認為，美聯儲年內維持政策利率水平不變的機率較高，在此背景下，預計年內美元指數有支撐，但也難以持續衝高，人民幣外部壓力可控。從內部因素來看，國內經濟基本面穩定，尤其是出口保持強勁，為人民幣匯率提供堅實支撐。同時，中國人民銀行穩匯率政策的使用節奏張弛有度，增強了人民幣匯率的韌性。總的來看，人民幣年內有望溫和升值。（證券日報）"
+    },
+    {
+      "id": "te:markets:576258",
+      "time": "2026-08-19 07:54:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Tech-Led Selloff — US stock futures steadied on Wednesday after the major averages tumbled in the previous session amid heavy selling in semiconductor and other technology stocks. Rising global bond yields and firmer oil prices also dampened sentiment, with the 30-year Treasury yield reaching a 19-year high this week. On the geopolitical front, the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. In regular trading on Tuesday, the Dow fell 0.22%, the S&P 500 declined 0.69% and the Nasdaq Composite plunged 1.33%, with all three benchmarks losing ground for a third consecutive session. AI-linked chipmakers suffered steep losses, including Micron (-7%), Sandisk (-9%), Nvidia (-2.3%), Intel (-6.6%) and AMD (-4.3%). Investors now await minutes from the Federal Reserve’s July meeting, along with earnings reports from major retailers including Target, TJX and Lowe’s."
+    },
+    {
+      "id": "5046609",
+      "time": "2026-08-19 07:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608193845180893",
+      "time": "2026-08-19 07:50:38",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月核心機械訂單同比增長16.9%，預期10.8%，前值-1.90%。"
+    },
     {
       "id": "5046608",
       "time": "2026-08-19 07:50:25",
@@ -138556,93 +138614,6 @@
         "MKT News"
       ],
       "text": "Japan broad money (M2) YoY July 4.4% vs 4.5% prior."
-    },
-    {
-      "id": "mkt:019ff341-2a03-7aab-8ffc-295f109dcea6",
-      "time": "2026-08-12 07:56:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%"
-    },
-    {
-      "id": "mkt:019ff340-17d7-7aab-8ffc-2358a50e0206",
-      "time": "2026-08-12 07:54:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen."
-    },
-    {
-      "id": "5036495",
-      "time": "2026-08-12 07:54:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美軍2025年對葉門的打擊致數百平民傷亡 】據美國《華爾街日報》11日報道，美國國防部內部調查顯示，美軍2025年對葉門發動的一系列打擊行動造成數百名平民傷亡。報道說，五角大樓當天向美國國會提交了一份長達12頁的非機密評估報告，概述了五角大樓對美軍2025年在全球所有軍事行動中造成平民傷亡情況的評估。負責中東地區美軍行動的美軍中央司令部在報告中認定，美軍2025年4月對葉門進行的3次大規模打擊行動共造成平民153人死亡和243人受傷。報告同時說，中央司令部正在審查針對胡塞武裝行動期間可能導致平民傷亡的另外15起事件。報道稱，這份報告標誌著特朗普政府首次正式承認其空襲葉門胡塞武裝的行動所造成的平民傷亡規模。"
-    },
-    {
-      "id": "5036494",
-      "time": "2026-08-12 07:53:20",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "【機構普遍認為逆回購“零操作”不改變流動性合理充裕格局 超長債或進入高波動階段】中國央行8月11日未開展7天期逆回購操作，受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。展望後市，機構普遍認為，逆回購“零操作”不會改變下半年流動性合理充裕的總體環境。東方金誠首席宏觀分析師王青表示，此次“零操作”主要反映出金融機構申報需求不足，並非央行主動收緊流動性。 王青預計，隨著稅期來臨和政府債券發行節奏加快，金融機構融資需求將逐步回升，央行也將恢復7天期逆回購操作。8月末資金需求增加時，隔夜逆回購可能更多發揮調節作用。對於超長債，浙商銀行固定收益團隊認為，收益率下行趨勢尚未遭到破壞，收益率曲線仍有進一步壓平的空間。但短端收益率下行放緩，意味著資金價格下限逐漸清晰，長短端同步走強的空間已經收窄。（上證報）"
-    },
-    {
-      "id": "mkt:019ff33d-f1e3-7aab-8ffc-1ca2bae39371",
-      "time": "2026-08-12 07:52:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan July M3 money supply YoY 1.4% (prior 1.5%)."
-    },
-    {
-      "id": "mkt:019ff33d-d820-7aab-8ffc-122ee4f34772",
-      "time": "2026-08-12 07:52:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | M3 Money Supply (YoY) (Jul) | actual 1.4% | previous 1.50%"
-    },
-    {
-      "id": "mkt:019ff33d-d1cb-7aab-8ffc-0c51525dee48",
-      "time": "2026-08-12 07:52:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan M2 money supply YoY +2.2% in July; prior +2.20%."
-    },
-    {
-      "id": "5036493",
-      "time": "2026-08-12 07:52:19",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【華西證券：金價有望企穩回升，關注黃金飾品板塊修復機會】華西證券研報表示，短期金價反彈由預期修正與情緒驅動，但中長期支撐邏輯依然穩固——央行購金潮、去美元化趨勢及美債實際利率高位回落預期構成金價\"底線支撐\"，渣打銀行預計金價有望重新向5000美元關口邁進。金價企穩回升有望逐步修復黃金飾品板塊基本面與估值：上半年金價劇烈波動導致Q2國內金飾需求僅50噸（同比-28%），消費者\"買漲不買跌\"心態抑制終端動銷，相關龍頭公司Q2不同程度終端需求受到壓制，但隨著金價反彈企穩，預期前期被壓制的消費需求有望逐步釋放，看好龍頭公司下半年業績企穩回升，建議重點關注龍頭個股股價修復行情。"
-    },
-    {
-      "id": "mkt:019ff33d-baa3-7aab-8ffc-037d02e20c45",
-      "time": "2026-08-12 07:52:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | M2 Money Supply (YoY) (Jul) | actual 2.2% | previous 2.20%"
     }
   ]
 }
