@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-18 10:13:01",
-  "count": 15201,
+  "updated": "2026-08-18 10:16:57",
+  "count": 15210,
   "items": [
+    {
+      "id": "mkt:01a012a7-cb30-7aab-906d-19a8a45d1f6a",
+      "time": "2026-08-18 10:16:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euro STOXX 50 futures down 0.3%, Germany's DAX futures down 0.3%, UK FTSE 100 futures up 0.1%."
+    },
+    {
+      "id": "5045065",
+      "time": "2026-08-18 10:15:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數跌幅擴大；最新報68351.44點，下跌1.3%。"
+    },
+    {
+      "id": "mkt:01a012a7-1659-7aab-906d-122b9f805b49",
+      "time": "2026-08-18 10:15:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity futures weakened; S&P 500 futures down 0.2%, Nasdaq futures down 0.4%."
+    },
+    {
+      "id": "te:markets:575971",
+      "time": "2026-08-18 10:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Increases by 0.38% — Top currency gainer is South Korean Won (0.38%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
+    },
+    {
+      "id": "5045064",
+      "time": "2026-08-18 10:14:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.2%，納斯達克指數期貨下跌0.4%。"
+    },
+    {
+      "id": "5045063",
+      "time": "2026-08-18 10:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI驅動的超聲腦機介面公司思昇科技完成數千萬元種子+輪融資】近日，AI驅動的超聲腦機介面公司思昇科技宣佈完成數千萬元種子+輪融資。本輪融資由國汽投資領投，元禾璞華、全球健康產業創新中心（GHIC）跟投，老股東英諾科創基金、水木清華校友種子基金繼續加註，由光源資本擔任獨家財務顧問。本輪資金將主要用於超聲腦機介面核心技術研發、醫療器械產品推進、多模態腦資料與AI腦科學平臺建設，以及跨學科人才團隊擴充。"
+    },
+    {
+      "id": "mkt:01a012a5-9c25-7aab-906d-0f0f3570217e",
+      "time": "2026-08-18 10:13:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Moscow mayor says Russia shot down 180 drones over the Moscow region overnight."
+    },
+    {
+      "id": "5045062",
+      "time": "2026-08-18 10:13:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內漲2%，現報3238.00元。"
+    },
+    {
+      "id": "5045061",
+      "time": "2026-08-18 10:13:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量451億元。"
+    },
+    {
+      "id": "te:markets:575970",
+      "time": "2026-08-18 10:13:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Shanghai Stocks Hit Over 1-Month High — The Shanghai Composite rose 0.2% to an over one-month high of around 3,991 on Tuesday, while the Shenzhen Component fell 0.6% to 14,613, with markets turning choppy after recent gains in technology and semiconductor stocks. Sentiment in the sector has recently been buoyed by strong corporate earnings and Beijing’s continued push to develop a self-sufficient semiconductor industry, with Huawei and CXMT making notable progress in chip development. Meanwhile, caution lingered after July economic data highlighted a weak start to the second half of the year, with fixed-asset investment, industrial production, and retail sales all falling short of expectations. Technology, semiconductor, and AI-related shares posted declines, including Hygon Information Technology (-1.3%), SMIC (-0.4%), Giga Device Semiconductor (-0.4%), and Eoptolink Technology (-1%). In contrast, PetroChina (1.2%) and CNOOC (1.5%) outperformed on higher oil prices amid fading hopes for a Middle East peace deal."
+    },
+    {
+      "id": "5045060",
+      "time": "2026-08-18 10:12:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【山東出臺11項措施規範綠電直連發展】據山東釋出，今天（8月18日）上午，山東省人民政府新聞辦公室舉行新聞釋出會，邀請省能源局負責同志等介紹山東推進綠電直連新業態、大力促進綠色電力消費情況。面對“十五五”發展新形勢、新要求，立足全省用電基數大、高載能企業綠色低碳轉型需求旺盛的實際，今年7月省能源局印發公佈了《關於加強和規範綠電直連發展的通知》，從最佳化管理方式、加大政策支援、規範實施程式三個方面提出11項具體措施，有力破解標準不一、機制不暢、邊界不清等問題。"
+    },
+    {
+      "id": "5045059",
+      "time": "2026-08-18 10:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯夜間在莫斯科州擊落180架無人機。"
+    },
     {
       "id": "mkt:01a012a2-53c7-7aab-906d-01ceef63b2a4",
       "time": "2026-08-18 10:10:22",
@@ -139269,37 +139384,6 @@
         "Importance 2"
       ],
       "text": "Australia Business Sentiment Stays Weak — Australia’s NAB Business Confidence Index held at -6 in July 2026, unchanged from a revised reading in the previous month and remaining well below the level recorded in February before the U.S.-Israeli war on Iran began. Meanwhile, business conditions edged up (4 vs 3 in June, but stayed below the long-run average of 7. Employment and profitability improved, while sales were unchanged. Capacity utilisation rose sharply to 83.0%, led by the finance, business and property, and wholesale industries. NAB said that despite improved outcomes from the peak impact of the Middle East crisis, “elevated uncertainty has continued to weigh on business confidence.” It also noted that cost pressures alongside a softer outlook for forward demand were likely to keep margins under pressure. Final prices and purchase costs increased, driven largely by swings in fuel prices, with transport and utilities among the key contributors."
-    },
-    {
-      "id": "mkt:019fee99-fdaf-7aab-8fe4-bd3f158e4a84",
-      "time": "2026-08-11 10:14:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold's intraday gain widened to 1.00%, trading at $4,434.15/oz."
-    },
-    {
-      "id": "5034897",
-      "time": "2026-08-11 10:13:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "深證成指盤中轉漲，創業板指現漲0.4%。"
-    },
-    {
-      "id": "mkt:019fee98-cc19-7aab-8fe4-b10b73c7d427",
-      "time": "2026-08-11 10:13:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "Shenzhen Composite Index turned positive intraday; ChiNext Index up 0.4%."
     }
   ]
 }
