@@ -1,7 +1,23 @@
 {
   "date": "2026-08-19",
-  "count": 139,
+  "count": 141,
   "items": [
+    {
+      "id": "5046427",
+      "time": "2026-08-19 02:54:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元下跌0.3%，至日內低點1.3910加元兌1美元。"
+    },
+    {
+      "id": "mkt:01a01639-6681-7aab-9080-c58c6f78d374",
+      "time": "2026-08-19 02:54:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian government statistics show the earthquake death toll has risen to 304."
+    },
     {
       "id": "mkt:01a01637-322f-7aab-9080-bc5ac1a51f50",
       "time": "2026-08-19 02:51:51",

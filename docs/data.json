@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-19 02:53:45",
-  "count": 15096,
+  "updated": "2026-08-19 02:57:38",
+  "count": 15094,
   "items": [
+    {
+      "id": "5046427",
+      "time": "2026-08-19 02:54:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元下跌0.3%，至日內低點1.3910加元兌1美元。"
+    },
+    {
+      "id": "mkt:01a01639-6681-7aab-9080-c58c6f78d374",
+      "time": "2026-08-19 02:54:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian government statistics show the earthquake death toll has risen to 304."
+    },
     {
       "id": "mkt:01a01637-322f-7aab-9080-bc5ac1a51f50",
       "time": "2026-08-19 02:51:51",
@@ -138360,40 +138376,6 @@
         "國際"
       ],
       "text": "美軍：美國海軍MH-60直升機向“維拉諾瓦”號機艙發射了兩枚“地獄火”導彈。"
-    },
-    {
-      "id": "5036334",
-      "time": "2026-08-12 02:57:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍摧毀了一艘懸掛巴拿馬國旗的船隻的轉向裝置。"
-    },
-    {
-      "id": "5036333",
-      "time": "2026-08-12 02:57:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國太空部隊蓋特萊因將軍：我們需要落實2027年“金色穹頂”專案的資金。"
-    },
-    {
-      "id": "5036332",
-      "time": "2026-08-12 02:54:57",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國銀行：美元對CPI低於預期會更為敏感】美國銀行分析師認為，如果美國通貨膨脹報告意外低於預期，美元可能會出現相對而言更強烈的反應，因為這將“基本排除”美聯儲9月份加息的可能性，並對當前的市場定價構成挑戰。"
-    },
-    {
-      "id": "mkt:019ff22d-06bd-7aab-8ff9-4ddec660cf99",
-      "time": "2026-08-12 02:54:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said the government needs to build affordable housing quickly and at scale and has launched the \"Build Canada Homes\" project to achieve that."
     }
   ]
 }
