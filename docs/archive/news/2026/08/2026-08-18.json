@@ -1,7 +1,57 @@
 {
   "date": "2026-08-18",
-  "count": 2491,
+  "count": 2496,
   "items": [
+    {
+      "id": "5046256",
+      "time": "2026-08-18 22:30:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理局表示，將於2026年8月25日透過拍賣出售40億英鎊的2033年到期、票面利率4.125%的國債。"
+    },
+    {
+      "id": "5046255",
+      "time": "2026-08-18 22:29:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲0.73%。"
+    },
+    {
+      "id": "mkt:01a01546-c03f-7aab-907d-264b2c169fe3",
+      "time": "2026-08-18 22:29:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "French budget minister said the French tax authority will conduct AI-powered cyberattack testing."
+    },
+    {
+      "id": "mkt:01a01545-9ac9-7aab-907d-1f0d50f41492",
+      "time": "2026-08-18 22:27:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "TIMIRAOS: Cleveland Fed survey of corporate executives sees one-year-ahead CPI inflation at 3.3% (vs 3.7% in Q2). Respondents expect wage growth of 2.8% over the next year (vs 2.9% in last year’s survey) and little change in employment. R&D spending growth forecast to slow to 2.0% over the next year, down from 3.1% in last year’s survey."
+    },
+    {
+      "id": "5046253",
+      "time": "2026-08-18 22:27:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【調查顯示：逾八成內地企業以香港作為首選出海平臺】香港貿易發展局18日釋出的調查報告顯示，內地企業正積極拓展海外業務，有94%的受訪內地涉外企業表示有意前往共建“一帶一路”國家和地區，有83%企業以香港作為首選的出海服務平臺。"
+    },
     {
       "id": "mkt:01a01544-4598-7aab-907d-1089a0c74229",
       "time": "2026-08-18 22:26:30",
