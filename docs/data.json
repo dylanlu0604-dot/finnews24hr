@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-19 01:49:13",
-  "count": 15092,
+  "updated": "2026-08-19 01:53:06",
+  "count": 15091,
   "items": [
+    {
+      "id": "mkt:01a015ff-4def-7aab-907f-f410595902a1",
+      "time": "2026-08-19 01:50:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister: recent clashes show countries without US bases suffer less damage】On the 18th, Iran's foreign minister Araqchi said recent clashes show countries without US military bases suffer less damage, and that US bases cannot shield US interests from strikes by resistance forces. He said Qatar and Pakistan played effective mediating roles between Iran and the US and that Tehran's ties with Qatar are currently very good. He urged a new Middle East security concept based on \"common security\" and addressing economic imbalances, warning the Persian Gulf cannot achieve lasting peace without comprehensive cooperation."
+    },
     {
       "id": "5046398",
       "time": "2026-08-19 01:43:41",
@@ -138329,32 +138341,6 @@
         "焦點"
       ],
       "text": "蘋果負責支付和錢包服務的高管即將離職。"
-    },
-    {
-      "id": "mkt:019ff1f3-abe2-7aab-8ff8-be98e405f4aa",
-      "time": "2026-08-12 01:51:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) top executive responsible for payments and Apple Wallet services will depart in October."
-    },
-    {
-      "id": "mkt:019ff1f3-a531-7aab-8ff8-b7c6f313f2f1",
-      "time": "2026-08-12 01:51:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TASNIM NEWS reported Yemen's armed forces attacked a vessel carrying Saudi military equipment in the Bab al-Mandeb Strait."
     }
   ]
 }
