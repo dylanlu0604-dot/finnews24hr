@@ -1,7 +1,97 @@
 {
   "date": "2026-08-18",
-  "count": 2163,
+  "count": 2173,
   "items": [
+    {
+      "id": "5046068",
+      "time": "2026-08-18 20:23:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【利亞德：累計收到美國關稅退稅約1655.98萬美元】利亞德公告，公司合併範圍內子公司於近期陸續收到美國關稅退回款項，截至目前已累計收到美國關稅及利息退回合計1655.98萬美元（其中關稅16,035,950.66美元、利息523,879.16美元），按2026年8月18日匯率折算約1.12億元人民幣。本次退稅無需追溯調整以前年度財務報表，但對2026年經營業績的具體影響金額尚待確認。"
+    },
+    {
+      "id": "mkt:01a014d3-9630-7aab-9079-c36fed7c4f7c",
+      "time": "2026-08-18 20:23:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "EU foreign policy chief said Albania, Bosnia and Herzegovina, Iceland, Liechtenstein, Montenegro, North Macedonia, Norway and Ukraine have aligned with the relevant measures."
+    },
+    {
+      "id": "5046067",
+      "time": "2026-08-18 20:23:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兔寶寶：2026年上半年營收4.27億元 淨利同比降7.67%】兔寶寶公告稱，2026年上半年實現營業收入42.67億元，同比增長17.40%；歸屬於上市公司股東的淨利潤2.47億元，同比下降7.67%。公司董事會審議透過利潤分配預案，以權益分派實施時股權登記日總股本扣除回購賬戶股數後的股本為基數，向全體股東每10股派發現金紅利1.20元（含稅），不送紅股，不以公積金轉增股本。報告期末公司回購專用證券賬戶持股比例為1.28%，持有普通股1063.34萬股。"
+    },
+    {
+      "id": "5046066",
+      "time": "2026-08-18 20:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英特集團與杭州人保達成戰略合作】據英特集團訊息，8月18日，英特集團與杭州人保舉行戰略合作簽約儀式，聯合推出省內專屬特藥商業保險——“英特-人保‘藥’康保”。“藥”康保聚焦使用者核心需求，遴選高價值品種，打造可落地的商保解決方案。首期覆蓋45個品種，涉及恆瑞、諾華、阿斯利康等30餘家藥企，覆蓋肺癌、乳腺癌、胃癌等10餘種高發癌種，另包含視神經脊髓炎、神經母細胞瘤等罕見病用藥。"
+    },
+    {
+      "id": "5046065",
+      "time": "2026-08-18 20:21:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全球債券遭大舉拋售，美債收益率創2025年初以來新高】全球債券拋售潮持續加劇，8月市場交投清淡，疊加投資者對通脹的擔憂以及企業債大量供給，美國基準國債收益率攀升至2025年初以來最高水平。週二美國國債進一步走弱，各期限收益率上行1‑2個基點。10年期美債收益率小幅上行約2個基點，報4.75%，創下19個月新高。受通脹前景不明、債券買方結構發生變化影響，從歐洲到日本的主權債券市場同步出現波動。當日早些時候，德國透過銀行渠道發行30年期國債，發行收益率創下15年新高。蒙特利爾銀行資本市場美國利率策略主管伊恩·林根在客戶研報中寫道：“美債拋售本身已經演變成一項宏觀層面事件。”"
+    },
+    {
+      "id": "5046064",
+      "time": "2026-08-18 20:21:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，8月巴西豆粕出口量將達到252萬噸，此前一週的預測值為253萬噸。"
+    },
+    {
+      "id": "mkt:01a014d1-cd19-7aab-9079-bb7e4c2dc34a",
+      "time": "2026-08-18 20:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU foreign policy chief said the EU welcomes other countries reaching agreement on restrictive measures against Belarus."
+    },
+    {
+      "id": "5046063",
+      "time": "2026-08-18 20:21:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西8月大豆出口量將達1056萬噸，低於上週預估的1088萬噸。"
+    },
+    {
+      "id": "mkt:01a014d1-4b16-7aab-9079-b7f7ae78145c",
+      "time": "2026-08-18 20:20:55",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【Institution: UK jobs data supports Bank of England holding rates】Pansen Macro analyst Rob Wood said the latest UK jobs data will make Bank of England policymakers comfortable leaving rates unchanged. He said employment was slightly weaker than expected, signaling the labour market is still slowing but only very gradually. Wage growth is in a range consistent with the inflation target, though it may not decelerate further and could edge up in coming months. Private‑sector regular pay excluding bonuses rose 4.8% MoM, the largest monthly gain since December last year."
+    },
+    {
+      "id": "5046062",
+      "time": "2026-08-18 20:20:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚燦光電完成銀鏡倒裝晶片規模化量產】記者從聚燦光電獲悉，該公司已經完成銀鏡倒裝晶片的規模化量產。目前，年產600萬片銀鏡倒裝晶片技改專案正式落地，總投資4億元，達產後年產值超5億元、淨增值超2億元。2026年上半年，銀鏡產品收入同比增長101.69%，銀鏡產品售價約為普通產品的1.5倍。"
+    },
     {
       "id": "mkt:01a014d0-8d61-7aab-9079-add7d2122d34",
       "time": "2026-08-18 20:20:06",
