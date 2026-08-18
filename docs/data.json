@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-18 09:13:06",
-  "count": 15204,
+  "updated": "2026-08-18 09:17:04",
+  "count": 15197,
   "items": [
+    {
+      "id": "mkt:01a01270-f434-7aab-906b-f1a0c55bb13f",
+      "time": "2026-08-18 09:16:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said maintaining peace is paramount, but the country must prepare for the worst."
+    },
+    {
+      "id": "mkt:01a01270-549c-7aab-906b-ea57f5478b18",
+      "time": "2026-08-18 09:15:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.17% at 25,380, trading 73 points below the cash index."
+    },
+    {
+      "id": "5044952",
+      "time": "2026-08-18 09:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7905，較上日調低32點】人民幣兌美元中間價報6.7905，較上日調低32點。"
+    },
+    {
+      "id": "5044951",
+      "time": "2026-08-18 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7905元。"
+    },
+    {
+      "id": "5044950",
+      "time": "2026-08-18 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.26%，報25357.81點，低水95.42點。"
+    },
+    {
+      "id": "5044949",
+      "time": "2026-08-18 09:14:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德馬科技：莫安迪擬投建節能型一體化永磁電機研發生產基地】據德馬科技訊息，近日，德馬科技（688360.SH）旗下核心子公司莫安迪（蘇州）電機技術有限公司與太倉高新區正式簽約，將投資建設節能型一體化永磁電機研發生產基地。"
+    },
+    {
+      "id": "5044948",
+      "time": "2026-08-18 09:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新一輪食在廣州餐飲消費券來了】8月18日起，支付寶平臺重磅加入新一輪“食在廣州”餐飲消費券活動，10時準時開搶。（廣州商務）"
+    },
+    {
+      "id": "5044947",
+      "time": "2026-08-18 09:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞總統：強震波及450個市鎮 損失約30萬億比索】當地時間8月17日晚，哥倫比亞總統德拉埃斯普列亞表示，該國西部10日發生的7.5級強震已波及全國15個省的450個市鎮，其中考卡山谷省和裡薩拉爾達省人員傷亡最為嚴重。初步資料顯示，地震造成的損失估計為30萬億比索。德拉埃斯普列亞介紹，截至目前，地震已造成289人死亡、4187人受傷、143人失蹤。其中，考卡山谷省報告163人死亡、2672人受傷、80人失蹤；裡薩拉爾達省報告104人死亡、565人受傷、61人失蹤。"
+    },
     {
       "id": "mkt:01a0126d-2fc8-7aab-906b-e68e969b8de8",
       "time": "2026-08-18 09:12:20",
@@ -139205,137 +139273,6 @@
         "MKT News"
       ],
       "text": "Australian Prime Minister Albanese said he agreed to strengthen trade and investment ties between Australia and Vietnam."
-    },
-    {
-      "id": "mkt:019fee64-d969-7aab-8fe3-2979dbccf917",
-      "time": "2026-08-11 09:16:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesian Automotive Industry Association said Indonesia's July vehicle sales rose 33.3% YoY."
-    },
-    {
-      "id": "mkt:019fee64-58e0-7aab-8fe3-27432b82ab3f",
-      "time": "2026-08-11 09:16:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "China's most-active palladium futures contract rose more than 3% to 334.95 yuan/gram."
-    },
-    {
-      "id": "5034803",
-      "time": "2026-08-11 09:16:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞總理阿爾巴尼斯：越南與澳大利亞全面戰略伙伴關係深化取得實質性進展。"
-    },
-    {
-      "id": "mkt:019fee64-1ea6-7aab-8fe3-1d40ba65f911",
-      "time": "2026-08-11 09:16:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australian Prime Minister Albanese said progress has been significant in deepening the comprehensive strategic partnership between Vietnam and Australia."
-    },
-    {
-      "id": "em:qqyh_mlc:202608113837435569",
-      "time": "2026-08-11 09:15:52",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【檔案顯示美聯儲主席沃什已完成承諾的投資權益剝離】8月11日訊息，美國政府道德辦公室（OGE）網站檔案顯示，美聯儲主席凱文·沃什上週簽署道德協議合規證明，確認已出售此前承諾剝離的全部金融資產。"
-    },
-    {
-      "id": "mkt:019fee63-e380-7aab-8fe3-15cfbdda3806",
-      "time": "2026-08-11 09:15:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A South Korean minister said investment in single-stock leveraged ETFs has been reduced."
-    },
-    {
-      "id": "mkt:019fee63-c253-7aab-8fe3-0c44d9bd9a01",
-      "time": "2026-08-11 09:15:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session 0.17% higher at 25,991, trading a 57-point premium to the cash index."
-    },
-    {
-      "id": "mkt:019fee63-9176-7aab-8fe3-061eddf6c159",
-      "time": "2026-08-11 09:15:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A South Korean minister said authorities will take all possible policy measures to reduce market volatility."
-    },
-    {
-      "id": "5034802",
-      "time": "2026-08-11 09:15:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7900，較上日調低16點】人民幣兌美元中間價報6.7900，較上日調低16點。"
-    },
-    {
-      "id": "5034801",
-      "time": "2026-08-11 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7900元。"
-    },
-    {
-      "id": "5034800",
-      "time": "2026-08-11 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.25%，報26012.90點，高水75.41點。"
-    },
-    {
-      "id": "5034799",
-      "time": "2026-08-11 09:14:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼協會資料：7月汽車銷量同比增長33.3%。"
-    },
-    {
-      "id": "mkt:019fee62-bdb1-7aab-8fe2-ff5e44250795",
-      "time": "2026-08-11 09:14:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【1H2026 global humanoid robot shipments near 19,100; China manufacturers >97% — Smart Analytics Global】Independent market researcher Smart Analytics Global estimates global humanoid robot shipments in 1H2026 at about 19,100 units, nearly 3x YoY. China-based manufacturers accounted for over 97% of shipments. Zhiyuan Robotics overtook Yushu Technology for the first time, shipping 8,400 units (44% of global shipments) versus Yushu’s 5,900. Shipments significantly exceeded volumes from Tesla and Figure AI. Industrial and commercial applications comprised over 70% of shipments, up from about 50% a year earlier."
-    },
-    {
-      "id": "5034798",
-      "time": "2026-08-11 09:14:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓部長：單一股票槓桿ETF投資規模已縮減。"
-    },
-    {
-      "id": "5034797",
-      "time": "2026-08-11 09:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國部長：將採取一切可行政策措施緩解市場波動。"
     }
   ]
 }
