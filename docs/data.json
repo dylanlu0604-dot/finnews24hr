@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-18 19:35:37",
-  "count": 15161,
+  "updated": "2026-08-18 19:39:31",
+  "count": 15160,
   "items": [
+    {
+      "id": "te:economy:576125",
+      "time": "2026-08-18 19:38:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 19-month High — US 10 Year Government Bond Yield increased to 4.75%, the highest since January 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 15.20 basis points, and in the last 12 months, it increased 44.00 basis points."
+    },
+    {
+      "id": "5045998",
+      "time": "2026-08-18 19:38:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【匯通能源：重慶元素擬減持不超過0.97%股份】 匯通能源公告，持股5%以上股東重慶元素私募證券投資基金管理有限公司－元素黃金閃耀私募證券投資基金（簡稱“重慶元素”）持有公司股份1135萬股，佔公司總股本比例為5.50%，因自身資金需求，擬自2026年9月9日至2026年12月8日期間，透過集中競價方式減持公司股份合計不超過200萬股，即不超過公司總股本的0.97%。"
+    },
+    {
+      "id": "5045997",
+      "time": "2026-08-18 19:37:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲南通報低價團調查結果：涉事旅行社導遊被查】8月18日，雲南省文化和旅遊廳釋出情況通報：在雲南省文化和旅遊廳統籌督導下，昆明、大理、麗江、西雙版納等4個州市文化和旅遊部門依法依規對央視財經報道雲南“低價團”相關問題涉事旅行社和導遊立案調查。現通報如下。\n一、昆明市文化和旅遊局對湖北愛旅紛途國際旅遊有限公司昆明第一分公司涉嫌網路虛假宣傳行為立案調查。經查屬實。依據《中華人民共和國旅遊法》第九十七條第一項之規定，擬對設立社湖北愛旅紛途國際旅遊有限公司吊銷《旅行社業務經營許可證》。\n二、大理州文化和旅遊局對導遊扎史培某涉嫌脅迫旅遊者消費行為立案調查。經查屬實。依據《導遊人員管理條例》第二十四條之規定，擬吊銷其《導遊證》，其他違法線索已移交公安機關。\n三、麗江市文化和旅遊局對麗江鴻輝旅行社有限公司委派導遊高某涉嫌欺騙、脅迫旅遊者消費行為立案調查。經查屬實。依據《旅行社條例》第五十九條第三項之規定，擬吊銷麗江鴻輝旅行社有限公司《旅行社業務經營許可證》、吊銷高某的《導遊證》，高某的其他違法線索已移交公安機關。\n四、西雙版納州文化和旅遊局對西雙版納雲歐耶國際旅行社有限公司涉嫌出借旅行社業務經營許可證行為立案調查。經查屬實。依據《中華人民共和國旅遊法》第九十五條第二款之規定，擬吊銷其《旅行社業務經營許可證》；對該社負責人處20000元人民幣罰款。\n五、昆明市文化和旅遊局對昆明相約春澄國際旅行社涉嫌指定購物場所行為立案調查。經查屬實。依據《中華人民共和國旅遊法》第九十八條之規定，擬吊銷其《旅行社業務經營許可證》。對其委派的導遊依某豔涉嫌變相強迫購物、降低旅遊服務質量的行為，依據《旅行社條例》第五十九條第三項之規定，擬吊銷其《導遊證》。\n六、昆明市文化和旅遊局對山東未來國際旅行社有限公司昆明分公司進行調查。因該旅行社分公司《工商營業執照》於2026年7月21日登出，相關涉案線索擬按規定移交查處。\n七、西雙版納州景洪市文化和旅遊局對雲南傣遇國際旅行社有限公司涉嫌違法經營行為進行調查，暫未發現其存在違法違規經營行為，繼續核查。"
+    },
+    {
+      "id": "mkt:01a014a8-ff36-7aab-9078-d12ce25c1d7d",
+      "time": "2026-08-18 19:36:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Survey: Kevin Warsh likely to adopt neutral tone at Jackson Hole】BofA’s August Global Fund Manager Survey found a majority expect Fed Chair Kevin Warsh to take a neutral tone at the Fed’s annual Jackson Hole symposium later this month. Among respondents, 31% expect him to deliver hawkish remarks and 7% expect dovish remarks."
+    },
+    {
+      "id": "mkt:01a014a8-ebf4-7aab-9078-ca7d8cf478a4",
+      "time": "2026-08-18 19:36:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury yield rose to 4.75%, the highest since January 2025."
+    },
+    {
+      "id": "5045996",
+      "time": "2026-08-18 19:36:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率升至4.75%，為2025年1月以來最高水平。"
+    },
+    {
+      "id": "mkt:01a014a8-9095-7aab-9078-c157ad5011ff",
+      "time": "2026-08-18 19:36:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said that, despite Trump's correct use of Persian Gulf, his mistaken view of the Strait of Hormuz will either be corrected or Iran will correct the delusion."
+    },
+    {
+      "id": "5045995",
+      "time": "2026-08-18 19:36:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾艾精工：收購方明確表示未來36個月內不存在透過上市公司借殼上市的計劃或安排】艾艾精工釋出異動公告，經與收購方再次確認，收購方明確表示未來36個月內不存在透過上市公司借殼上市的計劃或安排，未來12個月也不存在與上市公司開展業務合作的計劃。截至目前，上海譽升及其控股股東廣西譽升、實際控制人袁源無在未來12個月內對上市公司及其子公司的資產和業務進行出售、合併、與他人合資或合作的明確計劃，或上市公司擬購買或置換資產的明確重組計劃。"
+    },
+    {
+      "id": "5045994",
+      "time": "2026-08-18 19:35:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【乾照光電今日大宗交易折價成交746.5萬股，成交額1.41億元】8月18日，乾照光電大宗交易成交746.5萬股，成交額1.41億元，佔當日總成交額的12.48%，成交價18.89元，較市場收盤價20.16元折價6.3%。"
+    },
+    {
+      "id": "5045993",
+      "time": "2026-08-18 19:35:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯通能源：2026年半年度營收同比增長44.34%】匯通能源公告稱，2026年半年度實現營業收入8320.10萬元，同比增長44.34%；歸屬於上市公司股東的淨利潤2578.55萬元，同比增長25.04%。本報告期無利潤分配預案或公積金轉增股本預案。"
+    },
+    {
+      "id": "5045992",
+      "time": "2026-08-18 19:35:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能國際：2026年上半年營收1069.09億元】華能國際公告稱，2026年上半年實現營業收入1069.09億元，歸母淨利潤65.86億元。新增可控發電裝機容量3040兆瓦，均為低碳清潔能源專案，低碳清潔能源裝機比例同比提高4個百分點至42.16%。截至2026年6月30日，累計申請發明專利2102件，授權發明專利665件。已落實2025年度權益分派，每股派發現金紅利0.40元（含稅），合計派現62.79億元，派息比例53.96%。"
+    },
+    {
+      "id": "5045991",
+      "time": "2026-08-18 19:35:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【匯通能源：持股5%以上股東擬減持不超0.97%股份】匯通能源公告稱，截至公告披露日，股東重慶元素私募證券投資基金管理有限公司-元素黃金閃耀私募證券投資基金持有公司股份1135萬股，佔公司總股本比例5.50%。該股東因自身資金需求，擬於2026年9月9日至2026年12月8日期間，透過集中競價方式減持公司股份不超過200萬股，即不超過公司總股本的0.97%。本次減持計劃不會導致公司控制權發生變更，減持實施存在不確定性。"
+    },
     {
       "id": "5045990",
       "time": "2026-08-18 19:34:47",
@@ -138903,124 +139019,6 @@
         "公司"
       ],
       "text": "【科德教育：擬1億-2億元回購股份用於激勵計劃】科德教育公告稱，公司擬使用銀行專項貸款、自有資金和/或自籌資金回購股份，資金總額不低於1億元且不超過2億元，回購價格不超過23.27元/股。預計可回購股份429.74萬股至859.48萬股，約佔公司總股本的0.93%-1.87%，用於股權激勵或員工持股計劃。若36個月內未使用完畢，未使用股份將登出。回購期限自股東會審議透過之日起12個月內。"
-    },
-    {
-      "id": "mkt:019ff09e-c9c5-7aab-8ff0-bfa22b820917",
-      "time": "2026-08-11 19:39:25",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Germany's transport minister said he convened a crisis meeting and has taken measures, including suspending state-level driving restrictions on public holidays, to keep supply chains moving."
-    },
-    {
-      "id": "mkt:019ff09e-9003-7aab-8ff0-b07e0787bbca",
-      "time": "2026-08-11 19:39:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's transport minister said the country is not yet facing a supply crisis and supply chains remain operational, but some regions are experiencing isolated price spikes."
-    },
-    {
-      "id": "5035859",
-      "time": "2026-08-11 19:39:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【涉及電風扇、玩具等產品 市場監管總局撤銷764張CCC認證證書】記者今天瞭解到，市場監管總局通報2025年度認證（強制性產品認證目錄內產品）有效性抽查結果。對強制性產品認證領域（電風扇、玩具、載重車輛、家用燃氣灶具、電動腳踏車、電線電纜等39種產品）的2483批次產品實施了認證有效性抽查，認證機構覆蓋率為41.18%。市場監管總局已將抽查發現不符合認證要求的獲證生產企業和產品資訊通報至有關認證機構，並部署認證機構開展認證質量追溯和風險排查，要求以問題為導向，進一步落實獲證生產企業質量安全主體責任，強化對認證活動的質量管控，提高認證有效性。認證機構已依據相關規定對不符合認證要求的獲證生產企業和產品共計作出撤銷764張認證證書的處理。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ff09e-6b3e-7aab-8ff0-ac614166fd43",
-      "time": "2026-08-11 19:39:01",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Germany's transport minister said the government is monitoring a surge in fuel prices; this summer's extreme heat has lowered water levels and already pushed up prices in some regions."
-    },
-    {
-      "id": "5035858",
-      "time": "2026-08-11 19:38:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅豆股份：控股股東及其一致行動人權益變動跨越5%整數倍】紅豆股份公告稱，控股股東紅豆集團及其一致行動人權益變動，比例從64.30%減至57.85%，跨越5%整數倍。變動涉及減持、增持、限制性股票回購登出、一致行動人範圍調整及司法拍賣等。如2026年7月3 - 4日，紅豆集團8150萬股被司法拍賣，8月7日完成過戶。此次變動不影響控股權和公司經營，符合法規要求。"
-    },
-    {
-      "id": "5035857",
-      "time": "2026-08-11 19:37:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "科思創表示，儘管採取了廣泛的應對措施，但在當前嚴重低水位情況下，運力不足的問題仍無法完全彌補。"
-    },
-    {
-      "id": "5035856",
-      "time": "2026-08-11 19:37:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【批覆同意 雲南將建設這個風電場專案】日前，雲南省發展和改革委員會作出批覆，同意建設紅河哈尼族彝族自治州彌勒市永寧風電場（五期）專案。專案總裝機容量5.4萬千瓦，主要建設9颱風電機組。專案總投資26303.40萬元，其中專案資本金為5260.68萬元，佔專案總投資的比例為20%，由專案單位自籌解決；其餘資金由專案單位申請銀行貸款解決。（雲南釋出）"
-    },
-    {
-      "id": "5035855",
-      "time": "2026-08-11 19:36:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寮國水電首經中老500千伏通道送達粵港澳大灣區】記者從南方電網瀾湄國際能源有限責任公司瞭解到，近日，寮國水電首次經中老500千伏聯網工程接入雲南後送達粵港澳大灣區，本次送電工作預計持續到10月底，輸送總量約6億千瓦時，相關電量同步參與南方區域電力市場交易。 中老500千伏聯網工程於4月20日正式投運，寮國北部清潔能源基地的光伏電能當日即透過該通道送入雲南。此次寮國水電成功送達粵港澳大灣區，進一步拓寬了跨境清潔能源的消納範圍，推動形成“光伏+水電”互補的跨境清潔能源輸送格局。 南網瀾湄國際公司市場交易部副總經理嚴明輝表示，2026年透過中老500千伏聯網工程輸送的光伏和水電參與市場化交易電量預計可達15億千瓦時，下一步將持續發揮中老500千伏聯網工程與“西電東送”大通道的協同效能，促進兩國能源優勢互補，提升瀾湄區域能源資源配置效率，推進“一帶一路”能源合作走深走實。 據瞭解，中老電力聯網合作已走過十餘年曆程。2009年，南方電網首次透過115千伏線路向寮國北部地區供電；2022年，中老雙向電力貿易透過115千伏線路正式啟動；中老500千伏聯網工程投運後，兩國電力合作正式邁入更高電壓等級、更大輸送規模的新階段。(新華社)"
-    },
-    {
-      "id": "5035854",
-      "time": "2026-08-11 19:36:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體11日報道，巴基斯坦內政部長穆赫辛·納克維當天抵達伊朗首都德黑蘭，將與伊朗官員舉行會談。（新華國際）"
-    },
-    {
-      "id": "5035853",
-      "time": "2026-08-11 19:36:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【本週行業市場SSD和記憶體條價格持平】隨著原廠積極推動PC OEM匯入驗證QLC cSSD，QLC在PC終端的應用正不斷擴大。原廠基於採用QLC新資源生產的相對應SSD給予一定的價格傾斜而更具價格優勢，仍在原廠供應範疇的頭部PC OEM亦將此作為其採購價格衡量標準之一。另外，從個別原廠Q3 PC NAND初步合約報價來看，價格漲幅也較Q2明顯溫和且低於市場預期，導致市場雜音正不斷動搖行業客戶採購意願，甚至部分中小客戶目標價位逐漸下移，買賣雙方價格持續拉鋸。本週行業市場SSD和記憶體條價格持平。（CFM快閃記憶體市場）"
-    },
-    {
-      "id": "5035852",
-      "time": "2026-08-11 19:35:58",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Beyond Meat美股盤前一度跌近21%，公司董事會批准按1:30比例進行反向股票分割】Beyond Meat美股盤前一度跌近21%，Beyond Meat董事會已選定以1比30的比例對其普通股進行反向股票分割，自2026年8月13日晚上11:59（美國東部時間）起生效，此舉旨在重新達到納斯達克的合規要求。"
-    },
-    {
-      "id": "te:markets:574428",
-      "time": "2026-08-11 19:35:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indian Stocks Close at August Low — Indian stocks closed firmly lower on Tuesday, their lowest so far this month as the risk of a prolonged Middle East conflict deteriorated the Indian macroeconomic backdrop. The S&P/BSE Sensex fell 0.5% to 78,154 and the NSE Nifty 50 dropped 0.5% to 24,472. Crude oil and refined fuel prices extended their increase during the session after US President Trump hardened his stance on Iran and reiterated that the US can force a deal by waiting until Iran's economy worsens further. Higher oil prices raise costs for India's major import and magnify capital outflows to pressure the rupee, denting demand for domestic assets for foreign investors. Higher energy prices also pressure the RBI to tighten policy. Financial companies closed lower with InduSind Bank, Axis Bank, and Bajaj Finance dropping more than 1%. Energy dependent consumer goods companies also fell with Neste and Hindustan Unilever falling over 1%."
-    },
-    {
-      "id": "5035851",
-      "time": "2026-08-11 19:35:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST長園：多項訴訟案件處於執行、上訴或重審階段】ST長園公告稱，公司多項訴訟有新進展。建設工程施工合同類訴訟中，兩起案件已判決生效，子公司申請強制執行；股權交易類訴訟中，一起案件子公司上訴未判決，另一起被髮回重審；山東至博訴公司證券虛假陳述責任糾紛案件處於二審審理階段，涉案金額約5.72億元，公司已按一審判決付款。本次訴訟對淨利潤的最終影響以審計結果為準。"
     }
   ]
 }
