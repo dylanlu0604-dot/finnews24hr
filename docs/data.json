@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-18 23:46:02",
-  "count": 15193,
+  "updated": "2026-08-18 23:49:55",
+  "count": 15183,
   "items": [
+    {
+      "id": "mkt:01a0158d-6826-7aab-907e-fe5740d9e4d0",
+      "time": "2026-08-18 23:46:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces."
+    },
     {
       "id": "5046347",
       "time": "2026-08-18 23:44:44",
@@ -139291,107 +139299,6 @@
         "Brent"
       ],
       "text": "EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes."
-    },
-    {
-      "id": "mkt:019ff183-fdf1-7aab-8ff5-ecee9f51fb6a",
-      "time": "2026-08-11 23:49:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya."
-    },
-    {
-      "id": "5036219",
-      "time": "2026-08-11 23:49:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。"
-    },
-    {
-      "id": "5036218",
-      "time": "2026-08-11 23:49:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。"
-    },
-    {
-      "id": "5036217",
-      "time": "2026-08-11 23:48:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。"
-    },
-    {
-      "id": "5036216",
-      "time": "2026-08-11 23:47:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國安委秘書：只要美國不改變自身行為、不接受伊朗提出的條件，霍爾木茲海峽就不會開放。"
-    },
-    {
-      "id": "5036215",
-      "time": "2026-08-11 23:47:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國安委秘書：伊朗與阿曼就霍爾木茲海峽航運達成的任何協議，都將與海峽封鎖問題相互獨立。"
-    },
-    {
-      "id": "te:markets:574488",
-      "time": "2026-08-11 23:47:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly lower. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened but credit-sensitive hyperscalers booked losses, with Oracle, Amazon, and SpaceX down more than 2%. Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. Still, Nvidia rose 1% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell."
-    },
-    {
-      "id": "5036214",
-      "time": "2026-08-11 23:47:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國安委秘書：其他（談判）條件已透過中間人進行轉達。"
-    },
-    {
-      "id": "5036213",
-      "time": "2026-08-11 23:46:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國安委秘書：必須結束整個地區的戰爭，包括黎巴嫩與加沙。"
-    },
-    {
-      "id": "5036212",
-      "time": "2026-08-11 23:46:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達稱以色列拒絕加沙和平方案，是在故意拖延程序。"
-    },
-    {
-      "id": "te:markets:574487",
-      "time": "2026-08-11 23:46:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year."
     }
   ]
 }

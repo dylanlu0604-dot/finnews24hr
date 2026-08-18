@@ -1,7 +1,15 @@
 {
   "date": "2026-08-18",
-  "count": 2654,
+  "count": 2655,
   "items": [
+    {
+      "id": "mkt:01a0158d-6826-7aab-907e-fe5740d9e4d0",
+      "time": "2026-08-18 23:46:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces."
+    },
     {
       "id": "5046347",
       "time": "2026-08-18 23:44:44",
