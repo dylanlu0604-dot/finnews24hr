@@ -1,7 +1,109 @@
 {
   "date": "2026-08-18",
-  "count": 2537,
+  "count": 2547,
   "items": [
+    {
+      "id": "mkt:01a0155b-285a-7aab-907d-9890144be23e",
+      "time": "2026-08-18 22:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: UK 2026 inflation forecast averaged 3.1% and GDP growth 1.1%; July survey figures were 3.1% and 1.0%, respectively."
+    },
+    {
+      "id": "te:markets:576184",
+      "time": "2026-08-18 22:51:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Near Highs as Hormuz Risks Persist — Crude oil traded near a two-week high around $85 a barrel on Tuesday as uncertainty over the Strait of Hormuz continued to support prices. Tensions remain elevated, with the US and Iran showing little sign of reaching an agreement over control of the key shipping route. President Donald Trump said Washington is not currently holding or planning talks with Tehran, while confirming that the US naval blockade remains in place. Despite his claim that Hormuz is open and mines have been cleared, shipping risks persist. A vessel was reportedly attacked while leaving the strait, suffering engine-room damage and a crew casualty, according to UK maritime authorities. Meanwhile, Gulf producers are finding alternative ways to maintain exports despite the disruption. Saudi Arabia has begun offering crude cargoes sourced from outside the chokepoint, suggesting it may be adopting measures similar to the United Arab Emirates to move oil through or around the affected area."
+    },
+    {
+      "id": "mkt:01a0155b-067b-7aab-907d-93dad42f817b",
+      "time": "2026-08-18 22:51:21",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Reuters survey: 56 of 64 economists expect the Bank of England to keep interest rates at 3.75% in 2026."
+    },
+    {
+      "id": "mkt:01a01558-a3b2-7aab-907d-8f345b50375c",
+      "time": "2026-08-18 22:48:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Interfax reports the Russian Defence Ministry said Russian forces struck a cargo ship in the Black Sea."
+    },
+    {
+      "id": "mkt:01a01558-664c-7aab-907d-87348beaf6e1",
+      "time": "2026-08-18 22:48:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "S&P affirmed NVIDIA (NVDA.O)'s ratings, including an \"AA\" issuer credit rating."
+    },
+    {
+      "id": "5046289",
+      "time": "2026-08-18 22:48:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍襲擊黑海一艘貨船。"
+    },
+    {
+      "id": "5046288",
+      "time": "2026-08-18 22:48:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "扎波羅熱核電站的俄羅斯管理方表示，襲擊造成1人遇難，17人受傷。"
+    },
+    {
+      "id": "5046287",
+      "time": "2026-08-18 22:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認英偉達評級，包含AA級發行人信用評級。"
+    },
+    {
+      "id": "mkt:01a01557-e92c-7aab-907d-7af5235a6f98",
+      "time": "2026-08-18 22:47:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Atlanta Fed says its GDPNow model nowcasts real GDP growth for Q3 2026 at 4.0%."
+    },
+    {
+      "id": "5046286",
+      "time": "2026-08-18 22:47:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊低開低走 SK海力士下跌7.4%、閃迪下跌8%】美股儲存板塊低開低走，擴大跌幅，該板塊此前連續數日上漲。美光科技下跌6.33%，SK海力士下跌7.41%，閃迪下跌8.05%，西部資料下跌7.10%，希捷科技下跌7.58%，鎧俠ADR下跌10.63%。"
+    },
     {
       "id": "mkt:01a01557-5527-7aab-907d-70c6eedfdc88",
       "time": "2026-08-18 22:47:19",
