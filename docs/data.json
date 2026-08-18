@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-18 08:47:31",
-  "count": 15200,
+  "updated": "2026-08-18 08:51:27",
+  "count": 15196,
   "items": [
+    {
+      "id": "5044915",
+      "time": "2026-08-18 08:50:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西南華南東北等地降雨頻繁 江南持續高溫悶熱】今天（8月18日），我國西南、華南和東北部分地區雨勢較強，四川、廣西、黑龍江等地部分地區有暴雨或大暴雨，需注意防範降雨可能引發的次生災害。在降水較少、較弱的江南等地，未來幾天高溫悶熱天氣盛行，需注意防暑。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608183843875555",
+      "time": "2026-08-18 08:48:18",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【鷹派還不夠多！高盛最新預測：美聯儲9月不加息】美聯儲貨幣政策正走到十字路口：聯邦公開市場委員會（FOMC）對於是否需要加息以遏制通脹意見分裂，而美國總統特朗普則要求降息來刺激經濟。在上月美聯儲會議紀要釋出前夕，高盛認為，結合最新的經濟資料，下月聯邦公開市場委員會不會有足夠多委員轉向鷹派立場，不足以觸發加息。"
+    },
+    {
+      "id": "5044912",
+      "time": "2026-08-18 08:48:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米入股影像科技公司海寧奕都視】企查查APP顯示，近日，海寧奕都視影像科技有限公司發生工商變更，新增北京小米智造股權投資基金合夥企業（有限合夥）等為股東，同時註冊資本增至1258萬元。企查查資訊顯示，該公司成立於2024年，經營範圍包含：電子專用裝置製造；光電子器件製造；電子真空器件製造；電子真空器件銷售等。"
+    },
+    {
+      "id": "mkt:01a01256-ac39-7aab-906b-6a78f6b362be",
+      "time": "2026-08-18 08:47:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Margin financing at Chinese exchanges rises CNY17.765 bln】As of Aug 17, margin financing balances were CNY1,364.85 bln on the Shanghai Stock Exchange, up CNY9.852 bln from the prior session; CNY1,292.443 bln on the Shenzhen Stock Exchange, up CNY7.913 bln; combined CNY2,657.293 bln, up CNY17.765 bln."
+    },
     {
       "id": "5044911",
       "time": "2026-08-18 08:46:46",
@@ -139224,81 +139263,6 @@
         "國際"
       ],
       "text": "【巴西央行評估Pix支付系統跨境互聯，頂住美國壓力拓展支付網路】巴西央行週一表示，正在評估其廣受歡迎的即時支付系統Pix與國外類似平臺建立連線的前景；這是該系統在受到美國調查之際，朝著跨境整合邁出的更具體一步。在一份關於Pix的報告中，巴西央行表示，在跨境支付中，連線即時支付系統可以降低成本、加快交易速度、擴大覆蓋範圍並提高透明度。Pix最近被美國政府指控涉嫌不公平競爭，並被用作美國對巴西商品加徵新關稅的依據。這一表述比監管機構2023年釋出的上一份Pix管理報告更為堅定，上一份報告僅表示該平臺“未來可能”與國際即時支付系統實現互聯。最新報告稱，當局正在討論建立雙邊連線以及參與多邊支付樞紐事宜。巴西央行7月告訴路透，已與包括德國、加拿大、南非和土耳其在內的65個外國同行簽署了關於Pix的資訊共享協議。"
-    },
-    {
-      "id": "5034765",
-      "time": "2026-08-11 08:51:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特阿美煉油廠遭胡塞武裝襲擊，機構：或停產至本月底】能源行業監測機構IIR Energy當地時間8月10日釋出報告稱，沙特阿美日加工能力40萬桶的吉贊煉油廠綜合設施可能會在整個8月期間保持停工狀態。葉門胡塞武裝8月9日稱，當天使用一架無人機對沙特阿美位於沙特吉讚的煉油廠實施襲擊，並“成功命中目標”。IIR Energy稱，襲擊未對煉油工藝裝置造成影響。"
-    },
-    {
-      "id": "5034764",
-      "time": "2026-08-11 08:50:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信期貨：白銀同步跟隨黃金震盪上行，關注海峽復航進展和周內將公佈的美國7月通脹資料指引】日內白銀漲幅顯著高於黃金，其中COMEX白銀漲幅超2%，SHFE白銀漲幅超1%；核心驅動為美國非農資料持續疲軟，市場對美聯儲加息計價緩解。相較黃金，白銀對宏觀流動性與市場情緒的反應更為靈敏，美聯儲加息預期降溫進一步放大了其價格上漲彈性。資金層面，上週全球白銀ETF持倉與期貨市場持倉量同步上行，市場資金熱度明顯回升。現貨端驅動則相對有限，倫敦市場白銀租賃利率持續低位震盪，現貨供需暫未對價格形成明顯拉動。"
-    },
-    {
-      "id": "5034763",
-      "time": "2026-08-11 08:50:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國7月氣溫創下有記錄以來新高】美國國家海洋與大氣管理局( NOAA)週一表示，美國本土7月錄得有史以來最高月均氣溫，為這個本已酷熱的夏季留下醒目註腳。當月平均氣溫為華氏76.9度，為該機構132年記錄中的最高值，較20世紀平均水平高逾3華氏度。NOAA稱，這一數值比1936年7月和2012年7月創下的此前高點高出不到1華氏度。7月日間最高氣溫的平均值接近華氏90度。"
-    },
-    {
-      "id": "mkt:019fee4b-bd81-7aab-8fe2-a8930b28785f",
-      "time": "2026-08-11 08:49:28",
-      "tags": [
-        "MKT News",
-        "AZA.AX",
-        "Impact bullish"
-      ],
-      "text": "【Hanwha bids over $1 billion for Austal USA shipyard】South Korea’s Hanwha Group has submitted a non-binding offer exceeding $1 billion to acquire Austal USA, Austal Ltd said, valuing the unit at $1.05–$1.2 billion. The purchase would give Hanwha the Mobile, Alabama shipyard that builds for the US Coast Guard and Navy and supplies submarine modules to General Dynamics Electric Boat for Virginia- and Columbia-class submarines. Hanwha said any deal is subject to due diligence."
-    },
-    {
-      "id": "5034762",
-      "time": "2026-08-11 08:49:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國出售兩艘在委內瑞拉行動後扣押的受制裁油輪，將送往印度拆解】據Lloyd's List)報道，美國政府已將兩艘受制裁的油輪出售給船舶回收企業進行拆解。這兩艘油輪是在華盛頓突襲委內瑞拉後幾天內被扣押的。據報道，總部位於迪拜的船舶回收公司Global Marketing Systems(GMS)上個月以未公開的價格購得了這兩艘油輪。報道稱，此次出售的船隻包括此前曾以“Marinera”和“Bella 1”為名的“Era”號，以及此前曾以“Galileo”和“Veronica”為名的“Lileo”號。這些油輪將在印度的拆船廠進行拆解。“美國政府已將這些油輪出售給我們，且法院已下令批准出售，但其中存在諸多複雜情況，尤其是我們並不完全確定它們此前由誰所有，”GMS執行長Anil Sharma表示。"
-    },
-    {
-      "id": "mkt:019fee4a-5658-7aab-8fe2-a478ad84ec6d",
-      "time": "2026-08-11 08:47:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Mainland China margin financing balance up CNY 14.03 bln】As of Aug. 10, Shanghai Stock Exchange margin financing balance was CNY 1.3501 tln, up CNY 5.47 bln from the prior trading day; Shenzhen Stock Exchange stood at CNY 1.2782 tln, up CNY 8.56 bln; combined margin financing across both exchanges was CNY 2.6283 tln, up CNY 14.03 bln."
-    },
-    {
-      "id": "5034761",
-      "time": "2026-08-11 08:47:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日增加140.31億元】截至8月10日，上交所融資餘額報13500.88億元，較前一交易日增加54.71億元；深交所融資餘額報12782.04億元，較前一交易日增加85.60億元；兩市合計26282.92億元，較前一交易日增加140.31億元。"
-    },
-    {
-      "id": "5034760",
-      "time": "2026-08-11 08:47:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡表示，餐飲行業正受高成本拖累陷入經營困境。"
     }
   ]
 }
