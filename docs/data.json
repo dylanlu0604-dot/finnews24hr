@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-19 00:46:34",
-  "count": 15108,
+  "updated": "2026-08-19 00:50:26",
+  "count": 15109,
   "items": [
+    {
+      "id": "mkt:01a015c6-42da-7aab-907f-4ade61f58e41",
+      "time": "2026-08-19 00:48:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Axios, citing White House sources, reports the White House will hold an event tomorrow with Trump and several tech leaders; prediction-market firms were not invited and will not attend."
+    },
+    {
+      "id": "mkt:01a015c5-0122-7aab-907f-423b94da642f",
+      "time": "2026-08-19 00:47:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: ANTHROPIC has asked lead banks to provide about $1.25 bln each in loans; other major participating banks are expected to provide about $1.0 bln each."
+    },
     {
       "id": "mkt:01a015c2-27ae-7aab-907f-3fc78564818c",
       "time": "2026-08-19 00:44:00",
@@ -138517,14 +138535,6 @@
         "國際"
       ],
       "text": "美國能源資訊署預計，7月份中東原油停產規模平均為每日550萬桶。"
-    },
-    {
-      "id": "5036274",
-      "time": "2026-08-12 00:49:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。"
     }
   ]
 }
