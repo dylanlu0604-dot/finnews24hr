@@ -1,7 +1,84 @@
 {
   "date": "2026-08-18",
-  "count": 2250,
+  "count": 2259,
   "items": [
+    {
+      "id": "mkt:01a014f0-f1e7-7aab-907a-aa144e35f9bd",
+      "time": "2026-08-18 20:55:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Redbook weekly chain-store sales YoY 7.6% in week to Aug 15, down from 8.3% in the prior week."
+    },
+    {
+      "id": "5046112",
+      "time": "2026-08-18 20:55:23",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至8月15日當週紅皮書商業零售銷售年率 7.6%，前值8.3%。"
+    },
+    {
+      "id": "5046111",
+      "time": "2026-08-18 20:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦7月經常賬戶逆差3.28億美元。"
+    },
+    {
+      "id": "mkt:01a014f0-bf78-7aab-907a-a268a45fb9bc",
+      "time": "2026-08-18 20:55:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Aug.15) | actual 7.6% | previous 8.3%"
+    },
+    {
+      "id": "mkt:01a014ef-45f2-7aab-907a-9de8746e42e4",
+      "time": "2026-08-18 20:53:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chengdu center says world-first fully autonomous, extended-field-of-view robot task-execution system】Chengdu Humanoid Robot Innovation Center said it released what it calls the world's first fully autonomous (no remote control) task-execution system for complex language instruction sets using an extended field-of-view vision. The center said the system — for which an invention patent has been granted — addresses robots' prior inability to autonomously plan and decide in unfamiliar environments and unifies a world model, VLA and other contemporary techniques. In a demonstration video the center's ultra-lightweight humanoid Gongga-1 autonomously executed a single complex command, completing three sequential sub-tasks without remote control."
+    },
+    {
+      "id": "5046110",
+      "time": "2026-08-18 20:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗的軍事能力和戰場能力為其在談判中的外交行動提供了力量。"
+    },
+    {
+      "id": "5046109",
+      "time": "2026-08-18 20:53:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：我們贏得了戰爭，也贏得了外交勝利，並迫使敵人接受我們的條件。"
+    },
+    {
+      "id": "mkt:01a014ee-c52b-7aab-907a-974ec8817a7a",
+      "time": "2026-08-18 20:53:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Iran FM: US now 'begging' to negotiate on our terms】Al Jazeera reported Iranian foreign minister Araghchi said the US sought to force Iran to surrender in the conflict but \"we will not surrender,\" and is now \"begging\" to negotiate on Iran's terms. He said a memorandum of understanding with the US contains 13 clauses favorable to Iran and one favorable to the US, accused Israel of trying to block its implementation, and said Iran's military and battlefield capabilities underpin its diplomatic leverage."
+    },
+    {
+      "id": "5046108",
+      "time": "2026-08-18 20:52:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都人形機器人創新中心釋出了全球首個複雜語言指令集全自主（無遙控）超長視野機器人任務執行系統】據成都人形機器人創新中心訊息，該中心釋出了全球首個複雜語言指令集全自主（無遙控）超長視野機器人任務執行系統，解決了機器人在陌生環境無法自主完成決策規劃的難題，讓機器人擺脫實驗室的“預設擺拍”，走進複雜多變的真實場景中，相關技術已取得發明專利授權。成都人形機器人創新中心首發的這套任務執行系統，將世界模型、VLA等一系列當下流行的技術方案納入一套統一的框架之中。 (科技日報)"
+    },
     {
       "id": "5046107",
       "time": "2026-08-18 20:51:35",

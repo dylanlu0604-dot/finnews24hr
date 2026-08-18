@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-18 20:52:14",
-  "count": 15156,
+  "updated": "2026-08-18 20:56:14",
+  "count": 15157,
   "items": [
+    {
+      "id": "mkt:01a014f0-f1e7-7aab-907a-aa144e35f9bd",
+      "time": "2026-08-18 20:55:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Redbook weekly chain-store sales YoY 7.6% in week to Aug 15, down from 8.3% in the prior week."
+    },
+    {
+      "id": "5046112",
+      "time": "2026-08-18 20:55:23",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至8月15日當週紅皮書商業零售銷售年率 7.6%，前值8.3%。"
+    },
+    {
+      "id": "5046111",
+      "time": "2026-08-18 20:55:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦7月經常賬戶逆差3.28億美元。"
+    },
+    {
+      "id": "mkt:01a014f0-bf78-7aab-907a-a268a45fb9bc",
+      "time": "2026-08-18 20:55:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Aug.15) | actual 7.6% | previous 8.3%"
+    },
+    {
+      "id": "mkt:01a014ef-45f2-7aab-907a-9de8746e42e4",
+      "time": "2026-08-18 20:53:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chengdu center says world-first fully autonomous, extended-field-of-view robot task-execution system】Chengdu Humanoid Robot Innovation Center said it released what it calls the world's first fully autonomous (no remote control) task-execution system for complex language instruction sets using an extended field-of-view vision. The center said the system — for which an invention patent has been granted — addresses robots' prior inability to autonomously plan and decide in unfamiliar environments and unifies a world model, VLA and other contemporary techniques. In a demonstration video the center's ultra-lightweight humanoid Gongga-1 autonomously executed a single complex command, completing three sequential sub-tasks without remote control."
+    },
+    {
+      "id": "5046110",
+      "time": "2026-08-18 20:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗的軍事能力和戰場能力為其在談判中的外交行動提供了力量。"
+    },
+    {
+      "id": "5046109",
+      "time": "2026-08-18 20:53:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：我們贏得了戰爭，也贏得了外交勝利，並迫使敵人接受我們的條件。"
+    },
+    {
+      "id": "mkt:01a014ee-c52b-7aab-907a-974ec8817a7a",
+      "time": "2026-08-18 20:53:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Iran FM: US now 'begging' to negotiate on our terms】Al Jazeera reported Iranian foreign minister Araghchi said the US sought to force Iran to surrender in the conflict but \"we will not surrender,\" and is now \"begging\" to negotiate on Iran's terms. He said a memorandum of understanding with the US contains 13 clauses favorable to Iran and one favorable to the US, accused Israel of trying to block its implementation, and said Iran's military and battlefield capabilities underpin its diplomatic leverage."
+    },
+    {
+      "id": "5046108",
+      "time": "2026-08-18 20:52:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都人形機器人創新中心釋出了全球首個複雜語言指令集全自主（無遙控）超長視野機器人任務執行系統】據成都人形機器人創新中心訊息，該中心釋出了全球首個複雜語言指令集全自主（無遙控）超長視野機器人任務執行系統，解決了機器人在陌生環境無法自主完成決策規劃的難題，讓機器人擺脫實驗室的“預設擺拍”，走進複雜多變的真實場景中，相關技術已取得發明專利授權。成都人形機器人創新中心首發的這套任務執行系統，將世界模型、VLA等一系列當下流行的技術方案納入一套統一的框架之中。 (科技日報)"
+    },
     {
       "id": "5046107",
       "time": "2026-08-18 20:51:35",
@@ -138979,84 +139056,6 @@
         "公司"
       ],
       "text": "【中國金茂7月簽約銷售額92.02億元】8月11日，中國金茂披露7月銷售簡報。簡報顯示，7月中國金茂及其附屬公司簽約銷售金額為92.02億元，簽約銷售建築面積約27.32萬平方米。"
-    },
-    {
-      "id": "5035989",
-      "time": "2026-08-11 20:55:48",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利房地產投資公司以1.585億美元從Hunt Midwest手中收購位於堪薩斯城的Ace Hardware配送設施。"
-    },
-    {
-      "id": "5035988",
-      "time": "2026-08-11 20:55:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：納斯達克擬收購暗池交易平臺Level，用於股票市場業務。"
-    },
-    {
-      "id": "mkt:019ff0e4-138f-7aab-8ff2-7befd0b88907",
-      "time": "2026-08-11 20:55:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Redbook weekly chain-store retail sales YoY for week to Aug 8 8.3% vs 8.7% prior."
-    },
-    {
-      "id": "mkt:019ff0e3-f99b-7aab-8ff2-74dc07bd31d0",
-      "time": "2026-08-11 20:55:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Redbook Retail Sales (YoY) (Aug.8) | actual 8.3% | previous 8.7%"
-    },
-    {
-      "id": "mkt:019ff0e2-d95a-7aab-8ff2-6d1fe2e74644",
-      "time": "2026-08-11 20:53:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "LME spot copper is trading at a near-$200/tonne premium to the three-month forward, the largest premium in almost 10 months, underscoring acute tightness in physical supply."
-    },
-    {
-      "id": "5035987",
-      "time": "2026-08-11 20:53:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國航將新開北京至羅馬尼亞、克羅埃西亞航線】據國航訊息，國航將於9月4日起新開北京至羅馬尼亞首都布加勒斯特、克羅埃西亞首都薩格勒布航線。"
-    },
-    {
-      "id": "te:markets:574442",
-      "time": "2026-08-11 20:53:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Steady as Oil Stabilizes — Futures tracking Canadian stocks were little changed on Tuesday after a record in the previous session, as energy prices held off from rebounding further. Oil prices traded near flat after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Risks of a hawkish BoC remained after the strong domestic labor data released last week. Meanwhile, Franco Nevada took the spotlight among the miners ahead of its earnings after the bell, while markets continued to digest Barrick's earnings report yesterday."
-    },
-    {
-      "id": "5035986",
-      "time": "2026-08-11 20:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月11日，全球基金淨買入25.9億印度盧比的印度股票。國內基金淨買入2.477億印度盧比的印度股票。"
     }
   ]
 }
