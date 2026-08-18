@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-19 01:21:57",
-  "count": 15096,
+  "updated": "2026-08-19 01:25:51",
+  "count": 15097,
   "items": [
+    {
+      "id": "5046392",
+      "time": "2026-08-19 01:24:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室稱，一艘無人貨船遭多枚不明拋射物擊中，船體受損。"
+    },
+    {
+      "id": "5046391",
+      "time": "2026-08-19 01:23:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室稱，收到一則事件報告，事發地點位於葉門穆哈港東南 40 海里處。"
+    },
+    {
+      "id": "mkt:01a015e6-3e46-7aab-907f-b78e131d7382",
+      "time": "2026-08-19 01:23:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Canadian Oil Sands Alliance chair says Canadian oil sands companies plan to take a final investment decision on the Pathways carbon-capture project by the end of next year."
+    },
     {
       "id": "mkt:01a015e1-bf8b-7aab-907f-aa8b1eb2a199",
       "time": "2026-08-19 01:18:31",
@@ -138383,22 +138412,6 @@
         "宏觀"
       ],
       "text": "哥倫比亞財政部長：哥倫比亞尋求世界銀行4億美元貸款以應對緊急情況。"
-    },
-    {
-      "id": "5036295",
-      "time": "2026-08-12 01:24:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部長：哥倫比亞或於今日宣佈進入經濟緊急狀態。"
-    },
-    {
-      "id": "5036294",
-      "time": "2026-08-12 01:22:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統府：巴基斯坦內政部長表示，此行旨在跟進伊朗人員訪巴期間達成的共識。"
     }
   ]
 }
