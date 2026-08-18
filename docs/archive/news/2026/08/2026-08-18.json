@@ -1,7 +1,34 @@
 {
   "date": "2026-08-18",
-  "count": 867,
+  "count": 871,
   "items": [
+    {
+      "id": "mkt:01a012f4-fb3f-7aab-906e-7dbbec7e250a",
+      "time": "2026-08-18 11:40:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai Yuanxin Satellite raises nearly 7 bln yuan in capital increase】Shanghai United Assets Exchange shows Shanghai Yuanxin Satellite Technology Co. completed a capital increase on Aug 17, bringing in 18 investors and 6.976 bln yuan of new capital that added 13.94% of equity. The largest investor was a 24-member consortium led by Guodiao Phase II Collaborative Development Fund Co., Ltd., which invested about 5.764 bln yuan for an 11.5167% stake. The financing implies an estimated valuation of 50 bln yuan. Yuanxin is the operator of the Qianfan satellite constellation; as of July 5 the constellation had 238 in‑orbit satellites."
+    },
+    {
+      "id": "5045172",
+      "time": "2026-08-18 11:39:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：7月汽車出口104.3萬輛，同比增長81.3%】據中國汽車工業協會分析，2026年7月，出口繼續保持高速增長，月度出口量連續兩個月超過100萬輛，新能源汽車出口佔比連續兩個月超過50%。2026年7月，汽車出口104.3萬輛，環比增長0.6%，同比增長81.3%。2026年1-7月，汽車出口614萬輛，同比增長66.8%。"
+    },
+    {
+      "id": "5045171",
+      "time": "2026-08-18 11:38:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債拍賣認購倍數4.15，創2025年6月以來新高。"
+    },
     {
       "id": "5045170",
       "time": "2026-08-18 11:37:09",
@@ -10,6 +37,15 @@
         "國際"
       ],
       "text": "日本5年期國債拍賣認購倍數為4.15，而12個月均值為3.34。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608183844370341",
+      "time": "2026-08-18 11:36:47",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【北京：1-7月全市居民消費價格同比上漲0.6%】8月18日，北京市統計局釋出資料顯示，1-7月，全市居民消費價格同比上漲0.6%。其中，消費品價格上漲0.6%，服務價格上漲0.6%。八大類商品和服務專案中，其他用品及服務類價格上漲10.2%，生活用品及服務類、教育文化娛樂類、交通通訊類、衣著類、醫療保健類價格分別上漲2.1%、1.7%、1.5%、1.1%和0.9%；食品菸酒及在外餐飲類和居住類價格分別下降0.9%和0.4%。7月份，居民消費價格同比、環比均上漲0.2%。"
     },
     {
       "id": "5045169",
