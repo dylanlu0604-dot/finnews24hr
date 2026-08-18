@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-18 23:30:16",
-  "count": 15190,
+  "updated": "2026-08-18 23:34:17",
+  "count": 15198,
   "items": [
+    {
+      "id": "mkt:01a01581-5ede-7aab-907e-bef846f83265",
+      "time": "2026-08-18 23:33:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 6-week Treasury auction to Aug. 18: percentage of award at the winning yield 37.04%, prior 2.86%."
+    },
+    {
+      "id": "mkt:01a01581-3411-7aab-907e-b7f3469d67a4",
+      "time": "2026-08-18 23:33:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury bill auction on Aug 18: bid-cover ratio 2.97, prior 2.93."
+    },
+    {
+      "id": "mkt:01a01581-1313-7aab-907e-aae41469f71d",
+      "time": "2026-08-18 23:32:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. 6-week Treasury auction settling Aug. 18 awarded yield 3.645%, vs 3.67% previous."
+    },
+    {
+      "id": "5046339",
+      "time": "2026-08-18 23:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然：奶粉各合同期FAS拍賣均價3,873美元/噸。批發奶粉價格指數漲3%，報3,591美元/噸。"
+    },
+    {
+      "id": "5046338",
+      "time": "2026-08-18 23:32:22",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.645%，投標倍數2.97。"
+    },
+    {
+      "id": "mkt:01a01580-2503-7aab-907e-a4f2e83c3b1c",
+      "time": "2026-08-18 23:31:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade price index to Aug. 4 up 2.3% (previous 0.1%)."
+    },
+    {
+      "id": "mkt:01a01580-0105-7aab-907e-9fc1bd61f886",
+      "time": "2026-08-18 23:31:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Aug.4) | actual 2.3% | previous 0.1%"
+    },
+    {
+      "id": "5046337",
+      "time": "2026-08-18 23:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "恆天然全球乳製品交易價格指數上漲 2.3%。"
+    },
+    {
+      "id": "mkt:01a0157f-875c-7aab-907e-9124d3b22661",
+      "time": "2026-08-18 23:31:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude's intraday gain widened to 1.00%, trading at $90.66/bbl."
+    },
+    {
+      "id": "te:markets:576200",
+      "time": "2026-08-18 23:30:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up on Tuesday — The FTSE 100 edged higher on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 3% and 2%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. President Donald Trump said there were no talks scheduled with Iran and confirmed that the US naval blockade remained in place, adding to uncertainty over the conflict and the Strait of Hormuz. Lower gold prices weighed on mining stocks, with Fresnillo falling around 3% and Endeavour Mining declining 2.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations."
+    },
+    {
+      "id": "5046336",
+      "time": "2026-08-18 23:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約據報制定對俄陸戰構想戰略】德國《圖片報》8月17日報道稱，北約已經制定名為“北約陸戰構想”的戰略，以應對與俄羅斯可能爆發的衝突。（CCTV國際時訊）"
+    },
+    {
+      "id": "5046335",
+      "time": "2026-08-18 23:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.81%，報26124點。法國股指初步收跌0.73%，義大利股指初步收跌0.94%、銀行指數跌0.85%，英國股指初步收漲0.17%。"
+    },
+    {
+      "id": "5046334",
+      "time": "2026-08-18 23:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.65%，報652.13點。歐元區STOXX 50指數初步收跌0.96%，報6468.00點。富時泛歐績優300指數初步收跌0.65%，報2607.03點。"
+    },
+    {
+      "id": "te:economy:576199",
+      "time": "2026-08-18 23:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: South Korea 10Y Bond Yield Rises by 10 bps — Majority of government bonds yields are higher on Tuesday. Top gainers are South Korea 10Y (10.20bps), Germany 10Y (4.23bps) and Japan 10Y (1.34bps). Biggest losers are US 10Y (-0.80bps)."
+    },
     {
       "id": "mkt:01a0157e-1834-7aab-907e-8dfaabfcd228",
       "time": "2026-08-18 23:29:40",
@@ -139294,65 +139434,6 @@
         "Brent"
       ],
       "text": "Iran says the Strait of Hormuz will remain closed until relevant conditions are met."
-    },
-    {
-      "id": "mkt:019ff175-78a4-7aab-8ff5-7f5e0ec06451",
-      "time": "2026-08-11 23:33:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. 6-week Treasury bill auction for Aug. 11 settlement — stop-out yield 3.67%, prior 3.64%."
-    },
-    {
-      "id": "5036200",
-      "time": "2026-08-11 23:33:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本物價攀升下調消費稅難解壓力】近日，日本政府召開臨時內閣會議，透過食品消費稅減稅政策，決定自2027年4月起將稅率由現行的8%下調至1%，政策有效期2年。記者在街頭隨機採訪時，不少日本民眾表示明顯感覺到一年來物價出現上漲，而對於高市內閣的經濟措施，則難以給予正面評價。日本專家表示，下調食品消費稅效果容易被持續上漲的物價抵消，消費稅下調未必能有效緩解民眾生活壓力。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ff175-1546-7aab-8ff5-71e8948cd5fd",
-      "time": "2026-08-11 23:33:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 6-week Treasury auction on Aug 11 - bid-cover ratio 2.93, prior 2.93."
-    },
-    {
-      "id": "5036199",
-      "time": "2026-08-11 23:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息人士：美國正向以色列施加巨大壓力，促使其推進特朗普關於加沙地帶的計劃。"
-    },
-    {
-      "id": "5036198",
-      "time": "2026-08-11 23:32:23",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.670%，投標倍數2.93。"
-    },
-    {
-      "id": "mkt:019ff174-0c32-7aab-8ff5-6cf91951c8bb",
-      "time": "2026-08-11 23:32:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico registered unemployed in July: 19,550 people."
     }
   ]
 }
