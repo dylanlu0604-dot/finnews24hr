@@ -1,7 +1,37 @@
 {
   "date": "2026-08-19",
-  "count": 206,
+  "count": 209,
   "items": [
+    {
+      "id": "mkt:01a0166e-aae0-7aab-9081-a6c02862ea76",
+      "time": "2026-08-19 03:52:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193)."
+    },
+    {
+      "id": "5046466",
+      "time": "2026-08-19 03:52:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0166e-02f2-7aab-9081-9df2f4214527",
+      "time": "2026-08-19 03:51:43",
+      "tags": [
+        "MKT News",
+        "DIS.N"
+      ],
+      "text": "U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license."
+    },
     {
       "id": "mkt:01a0166c-29fc-7aab-9081-949272db6fd1",
       "time": "2026-08-19 03:49:42",
