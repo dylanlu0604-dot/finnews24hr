@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 03:35:12_
-_本檔包含 3077 則快訊，約 605455 字_
+_更新時間：2026-08-19 03:54:34_
+_本檔包含 3082 則快訊，約 604789 字_
+
+---
+
+### 2026-08-19 03:52:26  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193).
+
+---
+
+### 2026-08-19 03:52:21  #市場
+
+【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。
+
+---
+
+### 2026-08-19 03:51:43  #MKT News #DIS.N
+
+U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license.
+
+---
+
+### 2026-08-19 03:49:42  #MKT News #XAUUSD #Impact bearish
+
+COMEX gold futures fell below $4,400/oz, down 1.64% intraday.
+
+---
+
+### 2026-08-19 03:49:34  #國際
+
+美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。
+
+---
+
+### 2026-08-19 03:49:26  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%.
+
+---
+
+### 2026-08-19 03:49:24  #市場
+
+紐約期銀日內跌4%，現報63.57美元/盎司。
+
+---
+
+### 2026-08-19 03:49:24  #市場 #焦點
+
+紐約期金失守4400美元/盎司，日內跌1.67%。
+
+---
+
+### 2026-08-19 03:47:18  #MKT News
+
+【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
+
+---
+
+### 2026-08-19 03:45:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,350/oz, down 1.51% on the day.
+
+---
+
+### 2026-08-19 03:45:09  #市場 #焦點
+
+現貨黃金失守4350美元/盎司，日內跌1.53%。
+
+---
+
+### 2026-08-19 03:44:56  #國際
+
+【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。
+
+---
+
+### 2026-08-19 03:43:42  #MKT News #Commodities #Energy
+
+A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet.
+
+---
+
+### 2026-08-19 03:42:35  #宏觀 #國際
+
+【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）
+
+---
+
+### 2026-08-19 03:41:58  #公司
+
+委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
+
+---
+
+### 2026-08-19 03:38:27  #國際
+
+伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。
+
+---
+
+### 2026-08-19 03:37:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%).
+
+---
+
+### 2026-08-19 03:37:21  #市場
+
+【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。
+
+---
+
+### 2026-08-19 03:34:55  #MKT News #Commodities #Energy #WTI #Brent
+
+A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August.
 
 ---
 
@@ -18489,89 +18603,5 @@ US Homebuilder Sentiment Recovers in August — The NAHB/Wells Fargo Housing Mar
 ### 2026-08-17 22:04:23  #MKT News
 
 Iran's supreme leader said he will remain vigilant and actively safeguard Iran's interests.
-
----
-
-### 2026-08-17 22:01:59  #經濟數據 #美國
-
-美國8月份NAHB住宅建築商指數升至35；預估33。
-
----
-
-### 2026-08-17 22:01:47  #公司 #市場 #觀點
-
-【摩根士丹利給予亞馬遜 500 美元目標價】摩根士丹利表示，若亞馬遜雲科技增長提速，亞馬遜股價到 2027 年末有望觸及 500 美元，較當前水平近乎翻倍。該樂觀情景的前提是，在人工智慧算力需求與產能擴張的推動下，AWS 最終實現 1 萬億美元年度營收。亞馬遜近期將 2026 年人工智慧支出預期上調至 2200 億美元。摩根士丹利基準情景目標價仍為 335 美元，對應約 28% 的上漲空間。
-
----
-
-### 2026-08-17 22:01:19  #公司
-
-挪威國家石油公司：以9.4億美元從貝萊德旗下GIP手中收購賓夕法尼亞州一座燃氣發電廠的股份。
-
----
-
-### 2026-08-17 22:01:04  #MKT News
-
-【Saudi offers cargoes loaded off Oman coast; may be shifting to transshipment】Saudi Arabia is offering cargoes loaded off the coast of Oman, suggesting it may be following the UAE in routing more oil via transshipment rather than conventional Strait of Hormuz shipments. Sources say Aramco is supplying ship‑to‑ship cargoes loaded at Gulf of Oman ports such as Sohar. The cargoes are Arab Medium and Heavy grades, pointing to Persian Gulf origin. In March Aramco CEO Amin Nasser said the Yanbu pipeline mainly carries Arab Light and Extra Light, while near‑shore Persian Gulf fields supply the kingdom’s medium and heavy barrels. Aramco declined to comment.
-
----
-
-### 2026-08-17 22:01:03  #其他
-
-【閃迪股價漲幅擴大至8.7% 股價創7月14日以來新高】閃迪股價漲幅擴大至8.70%，報1784.159美元/股，股價創7月14日以來新高，總市值報2605億美元。
-
----
-
-### 2026-08-17 22:00:53  #MKT News #Commodities #Energy #EQNR.O
-
-Equinor to buy a stake in a Pennsylvania gas-fired power plant for $940m from GIP, a BlackRock affiliate.
-
----
-
-### 2026-08-17 22:00:12  #國際
-
-美國8月NAHB房產市場指數 35，預期 33，前值 34。
-
----
-
-### 2026-08-17 22:00:07  #MKT News #Important
-
-US NAHB housing market index for August 35, consensus 33, prior 34.
-
----
-
-### 2026-08-17 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34
-
----
-
-### 2026-08-17 21:59:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%.
-
----
-
-### 2026-08-17 21:58:56  #MKT News
-
-Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues.
-
----
-
-### 2026-08-17 21:57:56  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) hit an intraday high, rising 5.8%.
-
----
-
-### 2026-08-17 21:57:49  #市場
-
-SpaceX 漲幅擴大至盤中高點 5.8%。
-
----
-
-### 2026-08-17 21:57:49  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent #XAUUSD
-
-【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 03:35:12_
-_本檔包含 3150 則快訊，約 604151 字_
+_更新時間：2026-08-19 03:54:34_
+_本檔包含 3144 則快訊，約 604499 字_
+
+---
+
+### 2026-08-14 10:07:36  #市場
+
+【年內熊貓債發行規模超2000億元創歷史新高】資料顯示，截至8月13日，年內熊貓債發行規模達2024.75億元，同比上漲73.57%，這一資料也超過2025年全年的1835.6億元、2024年全年的1948億元，創歷史新高。“今年以來熊貓債市場的火熱態勢，是多重有利因素共同推動的結果。”中關村物聯網產業聯盟副秘書長袁帥表示，近年來監管層不斷簡化熊貓債的發行流程，降低了境外主體的發行門檻與制度性成本，讓更多境外機構有意願、有條件進入中國債券市場。同時，相較於部分發達經濟體的高利率環境，人民幣融資成本長期保持在相對合理的區間，能夠為境外發行主體降低融資成本，提升債務結構的穩定性。（21財經）
+
+---
+
+### 2026-08-14 10:07:30  #國際
+
+【巴西啟動經濟對等法案程式反制美新關稅措施】巴西政府13日宣佈，已根據經濟對等法案啟動相關程式，反制美國政府對巴西的產品採取的新關稅措施。 巴西政府當天發表宣告說，美方單方面採取的關稅措施不合理且武斷。巴西政府此前已提供證據，駁斥有關巴西存在不公平貿易行為的指控，並將繼續捍衛自身立場。(新華社)
+
+---
+
+### 2026-08-14 10:07:17  #公司
+
+【OpenAI任命Dali Rajic為首席營收官】8月13日，OpenAI宣佈，Dali Rajic將加入OpenAI擔任首席營收官，領導OpenAI的全球營收團隊。現任首席營收官Denise Dresser將在過渡期結束後離開OpenAI，尋求其他發展機會。OpenAI稱，公司產品目前每週活躍使用者超過10億，服務企業超過200萬家，是去年同期的兩倍，而Denise為這一切的實現做出了巨大貢獻。
+
+---
+
+### 2026-08-14 10:06:58  #市場
+
+【港股SaaS概念股走強 邁富時漲超8%】截至發稿，邁富時(02556.HK)漲8.54%，匯量科技(01860.HK)漲5.22%，金蝶國際(00268.HK)漲2.99%。
+
+---
+
+### 2026-08-14 10:06:36  #MKT News
+
+PHILIPPINE C.BANK governor said that, given the observed slowdown in economic growth, the bank can take a more moderate approach to containing inf.
+
+---
+
+### 2026-08-14 10:06:21  #公司 #觀點
+
+【高盛：中芯國際Q2業績超過預期 給予港股目標價135港元】高盛發表報告指，中芯國際第二季收入30億美元，按年升36%，按季升20%，高於該行及市場預期，亦勝過管理層按季增長14%至16%的指引。期內毛利率25.3%，高於該行及市場預期的21%及21.4%，亦高於管理層20%至22%的指引範圍。高盛表示，收入按季增長主要由晶圓付運量及平均售價上升帶動，管理層將毛利率改善歸因於產品組合改善及平均售價上升。至於第三季指引方面，收入按季增長2%至4%，符合該行及市場預期；毛利率指引為26%至28%，則勝過該行及市場預期。該行維持對中芯國際的買入評級，對公司長期增長前景正面，認為增長由本地無廠半導體客戶需求增加及人工智慧相關機遇所帶動。高盛給予港股目標價135港元。
+
+---
+
+### 2026-08-14 10:05:58  #央行 #國際
+
+菲律賓央行行長雷莫洛納：鑑於當前我們觀察到經濟增長走弱，我們在抑制通脹方面可以不必過於激進。
+
+---
+
+### 2026-08-14 10:05:32  #MKT News #Macro & Rates
+
+PHILIPPINE C.BANK governor said growth and inf data mean more convincing trends are needed before policy can be eased.
+
+---
+
+### 2026-08-14 10:05:19  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
+
+【Goldman Sachs: SMIC Q2 results beat expectations, sets HK$135 target price】Goldman Sachs says SMIC reported Q2 revenue of $3.0bn, up 36% YoY and 20% QoQ, above Goldman and market forecasts and exceeding management's QoQ guide of 14–16%. Gross margin was 25.3% versus Goldman/market expectations of 21%/21.4% and management guidance of 20–22%. Goldman attributes the QoQ revenue lift to higher wafer shipments and average selling prices; management links margin improvement to better product mix and higher ASPs. Q3 guidance: revenue +2–4% QoQ, in line with Goldman and the market; gross margin guide 26–28%, above Goldman/market expectations. Goldman maintains a buy rating on SMIC, cites long‑term growth from domestic fabless demand and AI‑related opportunities, and sets a HK$135 target price.
 
 ---
 
@@ -18882,95 +18936,5 @@ FDI into the Philippines Sank to Decade Low — Net foreign direct investment (F
 ### 2026-08-13 09:07:27  #MKT News #Star Stocks #Xiaomi #1810.HK
 
 【Xiaomi says Surge OS 4 beta imminent】Aug 13 — Xiaomi partner and president Lu Weibing said the company’s Surge OS 4 beta will be released imminently. There will be no launch event; Xiaomi will iterate the build based on user feedback. Recruitment for the first batch of beta devices opens on the Xiaomi Community at 11:00am today.
-
----
-
-### 2026-08-13 09:07:10  #公司
-
-【小米澎湃OS4 Beta版即將釋出】8月13日，小米集團合夥人、總裁@盧偉冰 發文稱，小米澎湃OS4Beta版即將釋出。這次不開釋出會，而是透過更多的使用者反饋，持續最佳化體驗。今天上午11點，首批Beta版機型招募將在小米社群開啟。
-
----
-
-### 2026-08-13 09:05:18  #市場 #焦點
-
-純鹼連續主力合約日內跌2%，現報970.00元。
-
----
-
-### 2026-08-13 09:02:33  #公司
-
-【廣州粵科低空創業投資基金合夥企業成立】企查查APP顯示，近日，廣州粵科低空創業投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由廣州開發區交通投資集團有限公司、廣東省新興產業投資基金合夥企業（有限合夥）等共同出資。
-
----
-
-### 2026-08-13 09:02:04  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 626.68 points higher, +1.38%, at 46,144.75 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 09:02:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D rose 0.64% in early trade on Aug 13 to 959.84 yuan/gram; Silver T+D rose 0.67% to 16,058.0 yuan/kg.
-
----
-
-### 2026-08-13 09:01:52  #MKT News #CSI300 #Impact bullish
-
-FTSE China A50 index futures opened 0.36% higher.
-
----
-
-### 2026-08-13 09:00:34  #MKT News
-
-China Maritime Safety Administration posted a navigation warning from the Qinglan Maritime Safety Bureau: rocket launches will take place in parts of the South China Sea on Aug 16–17, daily 11:00–13:00; vessels are prohibited from entering the affected areas.
-
----
-
-### 2026-08-13 09:00:28  #市場
-
-臺灣證交所加權股價指數上漲1.1%至46,010.21點。
-
----
-
-### 2026-08-13 09:00:23  #其他
-
-【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月16日至8月17日，每日11時至13時，南海部分海域進行火箭發射，禁止駛入。
-
----
-
-### 2026-08-13 09:00:13  #其他
-
-臺灣證交所加權股價指數開高0.3%報45,676.54。
-
----
-
-### 2026-08-13 09:00:03  #市場 #焦點
-
-雞蛋連續主力合約日內漲2%，現報3922.00元。
-
----
-
-### 2026-08-13 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.42%。
-
----
-
-### 2026-08-13 09:00:03  #市場
-
-【商品期貨開盤】玻璃連續跌2.36%，雞蛋連續漲1.95%，純鹼連續跌1.41%，纖維板連續漲1.20%，紙漿連續漲1.17%。
-
----
-
-### 2026-08-13 09:00:01  #MKT News #Important #Commodities #Precious Metals
-
-At the open, China's main futures contracts were mixed. Glass fell more than 2%; soda ash and coking coal declined over 1%; low-sulfur fuel oil (LU) and alumina were down about 1%. On the upside, eggs, pulp and Shanghai silver gained more than 1%; synthetic rubber, lithium carbonate, rapeseed oil and polypropylene (month-to-date average) rose roughly 1%.
-
----
-
-### 2026-08-13 08:59:30  #MKT News #Market Themes #Chip Wars #TSM.O #Impact bullish
-
-【TSMC says yields for some CoWoS AI products reach 98–99%】TSMC said its CoWoS advanced packaging for AI chips has achieved production yields of 98–99% for some products. He Jun, VP of advanced packaging technology and services, said the high yields mainly apply to CoWoS AI products using a 5.5x reticle size, which are now in mass production, and TSMC expects to scale CoWoS to a 14x reticle size by 2029.
 
 ---

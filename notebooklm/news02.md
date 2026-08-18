@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 03:35:12_
-_本檔包含 2787 則快訊，約 603851 字_
+_更新時間：2026-08-19 03:54:34_
+_本檔包含 2792 則快訊，約 604986 字_
+
+---
+
+### 2026-08-17 22:01:59  #經濟數據 #美國
+
+美國8月份NAHB住宅建築商指數升至35；預估33。
+
+---
+
+### 2026-08-17 22:01:47  #公司 #市場 #觀點
+
+【摩根士丹利給予亞馬遜 500 美元目標價】摩根士丹利表示，若亞馬遜雲科技增長提速，亞馬遜股價到 2027 年末有望觸及 500 美元，較當前水平近乎翻倍。該樂觀情景的前提是，在人工智慧算力需求與產能擴張的推動下，AWS 最終實現 1 萬億美元年度營收。亞馬遜近期將 2026 年人工智慧支出預期上調至 2200 億美元。摩根士丹利基準情景目標價仍為 335 美元，對應約 28% 的上漲空間。
+
+---
+
+### 2026-08-17 22:01:19  #公司
+
+挪威國家石油公司：以9.4億美元從貝萊德旗下GIP手中收購賓夕法尼亞州一座燃氣發電廠的股份。
+
+---
+
+### 2026-08-17 22:01:04  #MKT News
+
+【Saudi offers cargoes loaded off Oman coast; may be shifting to transshipment】Saudi Arabia is offering cargoes loaded off the coast of Oman, suggesting it may be following the UAE in routing more oil via transshipment rather than conventional Strait of Hormuz shipments. Sources say Aramco is supplying ship‑to‑ship cargoes loaded at Gulf of Oman ports such as Sohar. The cargoes are Arab Medium and Heavy grades, pointing to Persian Gulf origin. In March Aramco CEO Amin Nasser said the Yanbu pipeline mainly carries Arab Light and Extra Light, while near‑shore Persian Gulf fields supply the kingdom’s medium and heavy barrels. Aramco declined to comment.
+
+---
+
+### 2026-08-17 22:01:03  #其他
+
+【閃迪股價漲幅擴大至8.7% 股價創7月14日以來新高】閃迪股價漲幅擴大至8.70%，報1784.159美元/股，股價創7月14日以來新高，總市值報2605億美元。
+
+---
+
+### 2026-08-17 22:00:53  #MKT News #Commodities #Energy #EQNR.O
+
+Equinor to buy a stake in a Pennsylvania gas-fired power plant for $940m from GIP, a BlackRock affiliate.
+
+---
+
+### 2026-08-17 22:00:12  #國際
+
+美國8月NAHB房產市場指數 35，預期 33，前值 34。
+
+---
+
+### 2026-08-17 22:00:07  #MKT News #Important
+
+US NAHB housing market index for August 35, consensus 33, prior 34.
+
+---
+
+### 2026-08-17 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34
+
+---
+
+### 2026-08-17 21:59:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%.
+
+---
+
+### 2026-08-17 21:58:56  #MKT News
+
+Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues.
+
+---
+
+### 2026-08-17 21:57:56  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) hit an intraday high, rising 5.8%.
+
+---
+
+### 2026-08-17 21:57:49  #市場
+
+SpaceX 漲幅擴大至盤中高點 5.8%。
+
+---
+
+### 2026-08-17 21:57:49  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent #XAUUSD
+
+【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize.
 
 ---
 
@@ -16739,65 +16823,5 @@ Romanian Defence Ministry says drones violated its airspace.
 ### 2026-08-16 10:52:03  #MKT News #Market Regions #Greater China
 
 【Ministry of Water Resources: 52 rivers remain above warning levels】The Ministry of Water Resources said at a briefing on Aug 16 that as of 09:00, 52 rivers in Zhejiang, Shanghai, Jiangsu, Anhui, Henan, Heilongjiang and Inner Mongolia remain above warning levels, with a maximum exceedance of 4.27 meters; 28 are above guaranteed flood-control levels. Forecasts for Aug 16–17 show rainfall and upstream inflows will keep Taihu rising slowly; lower Yangtze tributaries including the Chuhe, mid-Huai River tributary Shaying and the Heilongjiang mainstem below Tongjiang are expected to remain above warning. Min and Qingyi rivers in Sichuan will experience rising water and some small rivers in heavy-rain areas may exceed warning levels. From 08:00 Aug 16 to 08:00 Aug 17 there is a high risk of flash floods in north-central Sichuan and an orange mountain-flood warning has been issued. The ministry maintained a yellow flood warning and urged affected areas to take precautions.
-
----
-
-### 2026-08-16 10:49:38  #國際
-
-【近期惡劣天氣致菲律賓23人死亡 逾490萬人受災】菲律賓國家減災委釋出訊息稱，截至8月16日上午6時，受近期的颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓共有23人死亡，17人受傷，另有3人失蹤。受災人口超過490萬。（央視新聞）
-
----
-
-### 2026-08-16 10:48:35  #其他
-
-【“加大綠色金融專案支援 助力江西‘十五五’良好開局”座談會召開】8月15日，“加大綠色金融專案支援 助力江西‘十五五’良好開局”座談會召開。副省長、農工黨江西省委會主委史可出席並講話。 會議指出，近年來江西省綠色金融改革取得積極成效，“十五五”期間還需加大綠色金融專案支撐力度，強化標準先行，夯實轉型金融和生態金融制度底座；聚焦實體經濟，以精準金融服務賦能生態文明高地建設；提升能力、健全機制，打通政策落地“最後一公里”，推動綠色金融從規模擴張轉向提質增效，助力我省經濟高質量發展。（江西日報）
-
----
-
-### 2026-08-16 10:48:10  #其他
-
-【水利部：全國52條河流仍維持超警】今天（16日）上午，水利部舉行會商，分析研判全國的防汛形勢，截至今天9時，浙江、上海、江蘇、安徽、河南、黑龍江、內蒙古等地52條河流仍維持超警，最大超警幅度4.27米，其中28條河流維持超保。據預報，8月16日至17日，受降雨及上游來水影響，太湖水位將維持緩漲，長江下游支流滁河、淮河中游支流沙潁河、黑龍江干流同江以下江段仍將維持超警；四川岷江、青衣江等河流將出現漲水過程；暴雨區內部分中小河流可能發生超警洪水。16日8時至17日8時，四川中北部發生山洪災害的可能性大，釋出山洪橙色預警。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。（央視新聞）
-
----
-
-### 2026-08-16 10:44:16  #國際
-
-【美軍倉皇撤離阿富汗5週年】當地時間8月15日，阿富汗首都喀布林舉行一系列活動，紀念阿富汗戰爭結束五年。當天，大量民眾走上街頭，參加遊行集會。在接受總檯記者採訪時，許多人表達了對美國發動阿富汗戰爭的強烈不滿。有阿富汗民眾表示，美軍入侵阿富汗導致了社會動盪，連年戰亂將阿富汗拖入深淵。還有人表示，美軍在阿富汗製造的暴行不勝列舉。2021年8月15日，阿富汗塔利班武裝人員進入並控制首都喀布林。美國政府匆忙組織軍隊和公民撤離。2021年8月30日，隨著最後一架美軍運輸機從喀布林國際機場起飛，長達20年的阿富汗戰爭以美軍倉促撤離告終。8月31日則被阿富汗官方設為“外國軍隊撤離紀念日”。（CCTV國際時訊）
-
----
-
-### 2026-08-16 10:44:15  #MKT News
-
-【Shooting in Lexington, Kentucky kills 1, injures 4】US reports say a shooting in Lexington, Kentucky on the 15th killed one person and wounded four others.
-
----
-
-### 2026-08-16 10:43:41  #公司
-
-【獨家 | 旺旺“三公子”蔡旺庭喊話經銷商：飲料業務一季度保持5%增長，將嚴控渠道亂價】新浪財經獲悉，在旺旺集團董事長蔡衍明發布《致全體旺旺人的一封信》引發熱議後，8月15日，旺旺集團總經理、旺江山雙贏事業部負責人蔡旺庭向旺旺經銷商釋出了一封公開信。
-
-蔡旺庭在信中談及旺旺集團飲料業務的最新業績情況。他指出，“剛收官的2025年我們收穫亮眼成績，渠道規模持續突破，全域營銷持續發力，品牌發展邁上新臺階。回顧過去八年，業績一路穩進，從未衰退，今年一季度業績依舊保持5%穩步增長。”
-
-蔡旺庭還分享了旺旺集團飲料業務後續的渠道規劃與行動標準，包括：主動找增量，開拓新市場、新通路，與經銷商共謀長期生意；不流於表面，全力配合解決終端動銷、市場競爭中的各類難題；重中之重，嚴格管控市場價格，規範渠道，杜絕亂價、無序競爭，守住經銷商合理利潤；做好新品銜接、庫存排程、活動落地，把各項服務細節做到位；確定的市場策略堅決落地，遇到困難不退縮、不找藉口；持續孵化爆款產品，持續擴大市場佔有率，不止守住現有市場，更要持續增長。
-
-“八年風雨同行，我們年年保持正增長。過往的實戰成果就是最好的證明，無論面對怎樣的市場挑戰，我們對自己團隊、對各位客戶夥伴都充滿信心，有能力繼續打贏接下來的仗。我們將以高效行動力，與大家並肩衝刺。”蔡旺庭在信中表示。
-
----
-
-### 2026-08-16 10:43:06  #公司
-
-【全球首臺5000噸過載折彎機湖北下線】8月14日，全球首臺5000噸過載C形折彎機，在湖北三環鍛壓裝置有限公司（以下簡稱“三環鍛壓”）黃石工業園正式下線。作為我國工業母機領域的重大科創成果，該裝置由三環鍛壓自主研發，打破了海外企業在高階過載折彎裝備領域的長期壟斷格局。（湖北日報）
-
----
-
-### 2026-08-16 10:39:57  #其他
-
-【民盟河南省委會：收到的一些社情民意資訊存在明顯AI生成痕跡】中國民主同盟河南省委員會8月15日通報，7月，民盟河南省委會累計收到全省各級盟組織報送的社情民意資訊261篇，其中採用97篇，整體採用率37.2%。通報指出，當前資訊報送工作仍存在諸多突出問題，其中包括，AI創作濫用且稽核把關不嚴。一些稿件存在明顯AI生成痕跡，受“AI幻覺”影響，稿件中案例、資料存在編造、不實問題，相關單位未嚴格核實內容真實性便直接報送，嚴重影響資訊公信力與稿件質量。
-
----
-
-### 2026-08-16 10:38:43  #其他
-
-【餘紅勝在長沙調研時強調打造特色消費品牌 推動消費擴容提質】8月14日，湖南副省長餘紅勝在長沙市調研消費場景打造與新消費品牌培育工作。 餘紅勝先後走進長沙油脂廠·1936、碧湘楚巷、TX長沙年輕力中心、潮宗街歷史文化街區、零食王國，詳細瞭解老舊廠區活化利用、歷史街區商業提質、沉浸式消費場景打造、新消費主體孵化培育、夜間經濟發展等情況，與經營主體負責人深入交流，仔細瞭解業態佈局、經營營收、市場拓展情況。（湖南日報）
 
 ---

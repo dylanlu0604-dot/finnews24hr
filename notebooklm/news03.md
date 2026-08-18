@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 03:35:12_
-_本檔包含 3066 則快訊，約 604927 字_
+_更新時間：2026-08-19 03:54:34_
+_本檔包含 3066 則快訊，約 605020 字_
+
+---
+
+### 2026-08-16 10:49:38  #國際
+
+【近期惡劣天氣致菲律賓23人死亡 逾490萬人受災】菲律賓國家減災委釋出訊息稱，截至8月16日上午6時，受近期的颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓共有23人死亡，17人受傷，另有3人失蹤。受災人口超過490萬。（央視新聞）
+
+---
+
+### 2026-08-16 10:48:35  #其他
+
+【“加大綠色金融專案支援 助力江西‘十五五’良好開局”座談會召開】8月15日，“加大綠色金融專案支援 助力江西‘十五五’良好開局”座談會召開。副省長、農工黨江西省委會主委史可出席並講話。 會議指出，近年來江西省綠色金融改革取得積極成效，“十五五”期間還需加大綠色金融專案支撐力度，強化標準先行，夯實轉型金融和生態金融制度底座；聚焦實體經濟，以精準金融服務賦能生態文明高地建設；提升能力、健全機制，打通政策落地“最後一公里”，推動綠色金融從規模擴張轉向提質增效，助力我省經濟高質量發展。（江西日報）
+
+---
+
+### 2026-08-16 10:48:10  #其他
+
+【水利部：全國52條河流仍維持超警】今天（16日）上午，水利部舉行會商，分析研判全國的防汛形勢，截至今天9時，浙江、上海、江蘇、安徽、河南、黑龍江、內蒙古等地52條河流仍維持超警，最大超警幅度4.27米，其中28條河流維持超保。據預報，8月16日至17日，受降雨及上游來水影響，太湖水位將維持緩漲，長江下游支流滁河、淮河中游支流沙潁河、黑龍江干流同江以下江段仍將維持超警；四川岷江、青衣江等河流將出現漲水過程；暴雨區內部分中小河流可能發生超警洪水。16日8時至17日8時，四川中北部發生山洪災害的可能性大，釋出山洪橙色預警。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。（央視新聞）
+
+---
+
+### 2026-08-16 10:44:16  #國際
+
+【美軍倉皇撤離阿富汗5週年】當地時間8月15日，阿富汗首都喀布林舉行一系列活動，紀念阿富汗戰爭結束五年。當天，大量民眾走上街頭，參加遊行集會。在接受總檯記者採訪時，許多人表達了對美國發動阿富汗戰爭的強烈不滿。有阿富汗民眾表示，美軍入侵阿富汗導致了社會動盪，連年戰亂將阿富汗拖入深淵。還有人表示，美軍在阿富汗製造的暴行不勝列舉。2021年8月15日，阿富汗塔利班武裝人員進入並控制首都喀布林。美國政府匆忙組織軍隊和公民撤離。2021年8月30日，隨著最後一架美軍運輸機從喀布林國際機場起飛，長達20年的阿富汗戰爭以美軍倉促撤離告終。8月31日則被阿富汗官方設為“外國軍隊撤離紀念日”。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 10:44:15  #MKT News
+
+【Shooting in Lexington, Kentucky kills 1, injures 4】US reports say a shooting in Lexington, Kentucky on the 15th killed one person and wounded four others.
+
+---
+
+### 2026-08-16 10:43:41  #公司
+
+【獨家 | 旺旺“三公子”蔡旺庭喊話經銷商：飲料業務一季度保持5%增長，將嚴控渠道亂價】新浪財經獲悉，在旺旺集團董事長蔡衍明發布《致全體旺旺人的一封信》引發熱議後，8月15日，旺旺集團總經理、旺江山雙贏事業部負責人蔡旺庭向旺旺經銷商釋出了一封公開信。
+
+蔡旺庭在信中談及旺旺集團飲料業務的最新業績情況。他指出，“剛收官的2025年我們收穫亮眼成績，渠道規模持續突破，全域營銷持續發力，品牌發展邁上新臺階。回顧過去八年，業績一路穩進，從未衰退，今年一季度業績依舊保持5%穩步增長。”
+
+蔡旺庭還分享了旺旺集團飲料業務後續的渠道規劃與行動標準，包括：主動找增量，開拓新市場、新通路，與經銷商共謀長期生意；不流於表面，全力配合解決終端動銷、市場競爭中的各類難題；重中之重，嚴格管控市場價格，規範渠道，杜絕亂價、無序競爭，守住經銷商合理利潤；做好新品銜接、庫存排程、活動落地，把各項服務細節做到位；確定的市場策略堅決落地，遇到困難不退縮、不找藉口；持續孵化爆款產品，持續擴大市場佔有率，不止守住現有市場，更要持續增長。
+
+“八年風雨同行，我們年年保持正增長。過往的實戰成果就是最好的證明，無論面對怎樣的市場挑戰，我們對自己團隊、對各位客戶夥伴都充滿信心，有能力繼續打贏接下來的仗。我們將以高效行動力，與大家並肩衝刺。”蔡旺庭在信中表示。
+
+---
+
+### 2026-08-16 10:43:06  #公司
+
+【全球首臺5000噸過載折彎機湖北下線】8月14日，全球首臺5000噸過載C形折彎機，在湖北三環鍛壓裝置有限公司（以下簡稱“三環鍛壓”）黃石工業園正式下線。作為我國工業母機領域的重大科創成果，該裝置由三環鍛壓自主研發，打破了海外企業在高階過載折彎裝備領域的長期壟斷格局。（湖北日報）
+
+---
+
+### 2026-08-16 10:39:57  #其他
+
+【民盟河南省委會：收到的一些社情民意資訊存在明顯AI生成痕跡】中國民主同盟河南省委員會8月15日通報，7月，民盟河南省委會累計收到全省各級盟組織報送的社情民意資訊261篇，其中採用97篇，整體採用率37.2%。通報指出，當前資訊報送工作仍存在諸多突出問題，其中包括，AI創作濫用且稽核把關不嚴。一些稿件存在明顯AI生成痕跡，受“AI幻覺”影響，稿件中案例、資料存在編造、不實問題，相關單位未嚴格核實內容真實性便直接報送，嚴重影響資訊公信力與稿件質量。
+
+---
+
+### 2026-08-16 10:38:43  #其他
+
+【餘紅勝在長沙調研時強調打造特色消費品牌 推動消費擴容提質】8月14日，湖南副省長餘紅勝在長沙市調研消費場景打造與新消費品牌培育工作。 餘紅勝先後走進長沙油脂廠·1936、碧湘楚巷、TX長沙年輕力中心、潮宗街歷史文化街區、零食王國，詳細瞭解老舊廠區活化利用、歷史街區商業提質、沉浸式消費場景打造、新消費主體孵化培育、夜間經濟發展等情況，與經營主體負責人深入交流，仔細瞭解業態佈局、經營營收、市場拓展情況。（湖南日報）
 
 ---
 
@@ -18443,59 +18503,5 @@ Dollar Muted on Tame Inflation Data — The dollar index traded around 99.9 on F
 ### 2026-08-14 10:07:51  #MKT News #Market Regions #Greater China #CNH #Impact bullish
 
 【Panda bond issuance tops CNY 202.5 bln YTD, a record】As of Aug 13, year-to-date panda bond issuance reached CNY 202.475 bln, up 73.57% YoY and exceeding full-year totals of CNY 183.56 bln in 2025 and CNY 194.8 bln in 2024, a record high. Zhongguancun IoT Industry Alliance deputy secretary-general Yuan Shuai said regulators have simplified issuance procedures and lowered thresholds and institutional costs for foreign issuers, encouraging more offshore institutions to enter the Chinese bond market. He added that, versus high-rate environments in some developed economies, RMB financing costs have remained relatively moderate, reducing funding costs for foreign issuers and supporting debt-structure stability.
-
----
-
-### 2026-08-14 10:07:36  #市場
-
-【年內熊貓債發行規模超2000億元創歷史新高】資料顯示，截至8月13日，年內熊貓債發行規模達2024.75億元，同比上漲73.57%，這一資料也超過2025年全年的1835.6億元、2024年全年的1948億元，創歷史新高。“今年以來熊貓債市場的火熱態勢，是多重有利因素共同推動的結果。”中關村物聯網產業聯盟副秘書長袁帥表示，近年來監管層不斷簡化熊貓債的發行流程，降低了境外主體的發行門檻與制度性成本，讓更多境外機構有意願、有條件進入中國債券市場。同時，相較於部分發達經濟體的高利率環境，人民幣融資成本長期保持在相對合理的區間，能夠為境外發行主體降低融資成本，提升債務結構的穩定性。（21財經）
-
----
-
-### 2026-08-14 10:07:30  #國際
-
-【巴西啟動經濟對等法案程式反制美新關稅措施】巴西政府13日宣佈，已根據經濟對等法案啟動相關程式，反制美國政府對巴西的產品採取的新關稅措施。 巴西政府當天發表宣告說，美方單方面採取的關稅措施不合理且武斷。巴西政府此前已提供證據，駁斥有關巴西存在不公平貿易行為的指控，並將繼續捍衛自身立場。(新華社)
-
----
-
-### 2026-08-14 10:07:17  #公司
-
-【OpenAI任命Dali Rajic為首席營收官】8月13日，OpenAI宣佈，Dali Rajic將加入OpenAI擔任首席營收官，領導OpenAI的全球營收團隊。現任首席營收官Denise Dresser將在過渡期結束後離開OpenAI，尋求其他發展機會。OpenAI稱，公司產品目前每週活躍使用者超過10億，服務企業超過200萬家，是去年同期的兩倍，而Denise為這一切的實現做出了巨大貢獻。
-
----
-
-### 2026-08-14 10:06:58  #市場
-
-【港股SaaS概念股走強 邁富時漲超8%】截至發稿，邁富時(02556.HK)漲8.54%，匯量科技(01860.HK)漲5.22%，金蝶國際(00268.HK)漲2.99%。
-
----
-
-### 2026-08-14 10:06:36  #MKT News
-
-PHILIPPINE C.BANK governor said that, given the observed slowdown in economic growth, the bank can take a more moderate approach to containing inf.
-
----
-
-### 2026-08-14 10:06:21  #公司 #觀點
-
-【高盛：中芯國際Q2業績超過預期 給予港股目標價135港元】高盛發表報告指，中芯國際第二季收入30億美元，按年升36%，按季升20%，高於該行及市場預期，亦勝過管理層按季增長14%至16%的指引。期內毛利率25.3%，高於該行及市場預期的21%及21.4%，亦高於管理層20%至22%的指引範圍。高盛表示，收入按季增長主要由晶圓付運量及平均售價上升帶動，管理層將毛利率改善歸因於產品組合改善及平均售價上升。至於第三季指引方面，收入按季增長2%至4%，符合該行及市場預期；毛利率指引為26%至28%，則勝過該行及市場預期。該行維持對中芯國際的買入評級，對公司長期增長前景正面，認為增長由本地無廠半導體客戶需求增加及人工智慧相關機遇所帶動。高盛給予港股目標價135港元。
-
----
-
-### 2026-08-14 10:05:58  #央行 #國際
-
-菲律賓央行行長雷莫洛納：鑑於當前我們觀察到經濟增長走弱，我們在抑制通脹方面可以不必過於激進。
-
----
-
-### 2026-08-14 10:05:32  #MKT News #Macro & Rates
-
-PHILIPPINE C.BANK governor said growth and inf data mean more convincing trends are needed before policy can be eased.
-
----
-
-### 2026-08-14 10:05:19  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
-
-【Goldman Sachs: SMIC Q2 results beat expectations, sets HK$135 target price】Goldman Sachs says SMIC reported Q2 revenue of $3.0bn, up 36% YoY and 20% QoQ, above Goldman and market forecasts and exceeding management's QoQ guide of 14–16%. Gross margin was 25.3% versus Goldman/market expectations of 21%/21.4% and management guidance of 20–22%. Goldman attributes the QoQ revenue lift to higher wafer shipments and average selling prices; management links margin improvement to better product mix and higher ASPs. Q3 guidance: revenue +2–4% QoQ, in line with Goldman and the market; gross margin guide 26–28%, above Goldman/market expectations. Goldman maintains a buy rating on SMIC, cites long‑term growth from domestic fabless demand and AI‑related opportunities, and sets a HK$135 target price.
 
 ---

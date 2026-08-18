@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 03:35:12_
-_本檔包含 3022 則快訊，約 604494 字_
+_更新時間：2026-08-19 03:54:34_
+_本檔包含 3030 則快訊，約 604530 字_
+
+---
+
+### 2026-08-13 09:07:10  #公司
+
+【小米澎湃OS4 Beta版即將釋出】8月13日，小米集團合夥人、總裁@盧偉冰 發文稱，小米澎湃OS4Beta版即將釋出。這次不開釋出會，而是透過更多的使用者反饋，持續最佳化體驗。今天上午11點，首批Beta版機型招募將在小米社群開啟。
+
+---
+
+### 2026-08-13 09:05:18  #市場 #焦點
+
+純鹼連續主力合約日內跌2%，現報970.00元。
+
+---
+
+### 2026-08-13 09:02:33  #公司
+
+【廣州粵科低空創業投資基金合夥企業成立】企查查APP顯示，近日，廣州粵科低空創業投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由廣州開發區交通投資集團有限公司、廣東省新興產業投資基金合夥企業（有限合夥）等共同出資。
+
+---
+
+### 2026-08-13 09:02:04  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened 626.68 points higher, +1.38%, at 46,144.75 on Thursday, Aug. 13.
+
+---
+
+### 2026-08-13 09:02:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D rose 0.64% in early trade on Aug 13 to 959.84 yuan/gram; Silver T+D rose 0.67% to 16,058.0 yuan/kg.
+
+---
+
+### 2026-08-13 09:01:52  #MKT News #CSI300 #Impact bullish
+
+FTSE China A50 index futures opened 0.36% higher.
+
+---
+
+### 2026-08-13 09:00:34  #MKT News
+
+China Maritime Safety Administration posted a navigation warning from the Qinglan Maritime Safety Bureau: rocket launches will take place in parts of the South China Sea on Aug 16–17, daily 11:00–13:00; vessels are prohibited from entering the affected areas.
+
+---
+
+### 2026-08-13 09:00:28  #市場
+
+臺灣證交所加權股價指數上漲1.1%至46,010.21點。
+
+---
+
+### 2026-08-13 09:00:23  #其他
+
+【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月16日至8月17日，每日11時至13時，南海部分海域進行火箭發射，禁止駛入。
+
+---
+
+### 2026-08-13 09:00:13  #其他
+
+臺灣證交所加權股價指數開高0.3%報45,676.54。
+
+---
+
+### 2026-08-13 09:00:03  #市場 #焦點
+
+雞蛋連續主力合約日內漲2%，現報3922.00元。
+
+---
+
+### 2026-08-13 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.42%。
+
+---
+
+### 2026-08-13 09:00:03  #市場
+
+【商品期貨開盤】玻璃連續跌2.36%，雞蛋連續漲1.95%，純鹼連續跌1.41%，纖維板連續漲1.20%，紙漿連續漲1.17%。
+
+---
+
+### 2026-08-13 09:00:01  #MKT News #Important #Commodities #Precious Metals
+
+At the open, China's main futures contracts were mixed. Glass fell more than 2%; soda ash and coking coal declined over 1%; low-sulfur fuel oil (LU) and alumina were down about 1%. On the upside, eggs, pulp and Shanghai silver gained more than 1%; synthetic rubber, lithium carbonate, rapeseed oil and polypropylene (month-to-date average) rose roughly 1%.
+
+---
+
+### 2026-08-13 08:59:30  #MKT News #Market Themes #Chip Wars #TSM.O #Impact bullish
+
+【TSMC says yields for some CoWoS AI products reach 98–99%】TSMC said its CoWoS advanced packaging for AI chips has achieved production yields of 98–99% for some products. He Jun, VP of advanced packaging technology and services, said the high yields mainly apply to CoWoS AI products using a 5.5x reticle size, which are now in mass production, and TSMC expects to scale CoWoS to a 14x reticle size by 2029.
 
 ---
 
@@ -18239,47 +18329,5 @@ Quantum computing firm Quantinum has partnered with Oracle (ORCL.N) to accelerat
 ### 2026-08-12 03:54:51  #公司
 
 甲骨文公司：根據本次合作協議，OCI 客戶將可直接訪問 Quantinuum 的 Helios。
-
----
-
-### 2026-08-12 03:53:55  #其他
-
-Quantinuum 與 Oracle 達成合作，推動 Oracle 雲基礎設施上混合量子計算的落地應用。
-
----
-
-### 2026-08-12 03:53:22  #MKT News #Market Themes #AI Revolution
-
-Business Insider reports people familiar with the matter say former OpenAI chief product officer Kevin Weil is seeking a valuation of at least $750 mln for his newly founded AI science startup.
-
----
-
-### 2026-08-12 03:50:03  #Trading Economics #Economy #Uruguay #Industrial Production #Importance 1
-
-Uruguay Industrial Output Rebounds in June — Uruguay's industrial production rose 5.4% year-on-year in June 2026 after falling 3.5% in the previous month, marking a strong rebound in manufacturing activity. The increase was driven primarily by a 7.8% rise in food products manufacturing, which contributed 3.2 percentage points to overall growth. Other food products manufacturing increased 6.3%. On a seasonally adjusted basis, industrial output climbed 8.0% month-on-month. Meanwhile, hours worked in the industrial sector rose 0.3% from a year earlier, while industrial employment declined 3.0%. On a year-to-date basis, industrial production increased 2.9%, while hours worked and employment fell 1.7% and 1.9%, respectively.
-
----
-
-### 2026-08-12 03:43:43  #MKT News
-
-【Iraq condemns Colombia's recognition of Israeli "sovereignty" over Golan Heights】Iraq's foreign ministry on the 11th strongly condemned Colombia's decision to recognize Israeli "sovereignty" over the occupied Golan Heights, saying the territory is Syrian and that no party may change its legal status or confer legitimacy on the occupier. The ministry said Colombia's move has no legal force and does not alter the fact that the Golan Heights are an inseparable part of Syrian territory.
-
----
-
-### 2026-08-12 03:42:44  #國際
-
-市場訊息：由於《明晰法案》推進受阻，美國證券交易委員會即將公佈加密領域重大方案。
-
----
-
-### 2026-08-12 03:41:25  #國際
-
-【伊拉克譴責哥倫比亞承認以色列對戈蘭高地“主權” 】伊拉克外交部11日發表宣告，強烈譴責哥倫比亞承認以色列對被佔領的戈蘭高地擁有“主權”的決定。宣告強調，戈蘭高地是被佔領的敘利亞領土，任何一方都無權改變其法律地位，或賦予佔領方任何缺乏依據的合法性。哥倫比亞的這一決定不具備任何法律效力，也無法改變“戈蘭高地是敘利亞領土不可分割的一部分”這一事實。伊拉克外交部指出，承認佔領國對被佔領土擁有“主權”開創了危險先例，破壞國際法原則和《聯合國憲章》。宣告重申，伊拉克完全支援敘利亞維護國家主權和領土完整。（新華社）
-
----
-
-### 2026-08-12 03:40:52  #公司
-
-知情人士：OpenAI 前高管為其初創公司尋求 7.5 億美元估值。
 
 ---
