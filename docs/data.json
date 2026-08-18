@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-19 00:50:26",
-  "count": 15109,
+  "updated": "2026-08-19 00:54:19",
+  "count": 15108,
   "items": [
+    {
+      "id": "mkt:01a015cb-2406-7aab-907f-5ee8b29d1b7b",
+      "time": "2026-08-19 00:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources report a large explosion at a factory in Finland near the Russian border."
+    },
+    {
+      "id": "5046377",
+      "time": "2026-08-19 00:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯邊境附近的芬蘭工廠發生劇烈爆炸。"
+    },
+    {
+      "id": "mkt:01a015c8-cd9f-7aab-907f-52a5c8854459",
+      "time": "2026-08-19 00:51:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel strikes Abu Zuhur airbase in NW Syria; Turkey denies troop presence, US expresses concern】Axios, citing an Israeli official, reported Israel struck the Abu Zuhur airbase in northwest Syria to prevent Turkey from expanding military facilities in the area. A Turkish official denied Turkish forces were stationed at the base and accused Israel of fabricating a pretext for the attack; the United States said it was deeply concerned."
+    },
     {
       "id": "mkt:01a015c6-42da-7aab-907f-4ade61f58e41",
       "time": "2026-08-19 00:48:29",
@@ -138502,39 +138530,6 @@
         "Brent"
       ],
       "text": "The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production."
-    },
-    {
-      "id": "5036278",
-      "time": "2026-08-12 00:54:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）目前認為，近期途經曼德海峽運輸沙特石油的船隻遭遇的威脅並未導致產油設施停產。"
-    },
-    {
-      "id": "5036277",
-      "time": "2026-08-12 00:54:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大與美國貿易官員正在擬定潛在協議，計劃下週提交給特朗普。"
-    },
-    {
-      "id": "5036276",
-      "time": "2026-08-12 00:53:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞國防部長稱，在黑海專屬經濟區內、靠近海王星深海海上天然氣專案的空域擊落兩架無人機。"
-    },
-    {
-      "id": "5036275",
-      "time": "2026-08-12 00:52:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署預計，7月份中東原油停產規模平均為每日550萬桶。"
     }
   ]
 }

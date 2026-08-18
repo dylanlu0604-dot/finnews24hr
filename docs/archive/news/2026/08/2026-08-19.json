@@ -1,7 +1,35 @@
 {
   "date": "2026-08-19",
-  "count": 39,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:01a015cb-2406-7aab-907f-5ee8b29d1b7b",
+      "time": "2026-08-19 00:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources report a large explosion at a factory in Finland near the Russian border."
+    },
+    {
+      "id": "5046377",
+      "time": "2026-08-19 00:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯邊境附近的芬蘭工廠發生劇烈爆炸。"
+    },
+    {
+      "id": "mkt:01a015c8-cd9f-7aab-907f-52a5c8854459",
+      "time": "2026-08-19 00:51:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel strikes Abu Zuhur airbase in NW Syria; Turkey denies troop presence, US expresses concern】Axios, citing an Israeli official, reported Israel struck the Abu Zuhur airbase in northwest Syria to prevent Turkey from expanding military facilities in the area. A Turkish official denied Turkish forces were stationed at the base and accused Israel of fabricating a pretext for the attack; the United States said it was deeply concerned."
+    },
     {
       "id": "mkt:01a015c6-42da-7aab-907f-4ade61f58e41",
       "time": "2026-08-19 00:48:29",
