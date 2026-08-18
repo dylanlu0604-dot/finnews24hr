@@ -1,7 +1,224 @@
 {
   "date": "2026-08-18",
-  "count": 709,
+  "count": 732,
   "items": [
+    {
+      "id": "5045081",
+      "time": "2026-08-18 10:26:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢蔚來能源公司增資至74.84億元】企查查APP顯示，近日，武漢蔚來能源有限公司發生工商變更，註冊資本從17.84億元增加到74.84億元。企查查顯示，該公司成立於2017年5月，法定代表人為郭成鋼，由蔚來能源投資（湖北）有限公司全資持股。"
+    },
+    {
+      "id": "5045080",
+      "time": "2026-08-18 10:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華測導航：新品下半年陸續交付上市 公司整體業務增長預計將好於上半年】華測導航(300627)近日接受機構調研時表示，2026年第二季度，公司營業收入與歸母淨利潤增速較2026年第一季度有所提升。隨著上半年釋出的新品於下半年陸續交付上市，預計將利好地信與時空智慧板塊及海外業務發展，公司整體業務增長預計亦將好於上半年。"
+    },
+    {
+      "id": "5045079",
+      "time": "2026-08-18 10:25:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1.1%至45,363.33點。"
+    },
+    {
+      "id": "te:markets:575973",
+      "time": "2026-08-18 10:24:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Advance — The New Zealand dollar hovered around $0.590 after reaching a two-and-a-half-month high, supported by a weaker US dollar. The greenback stayed under pressure as a series of soft US economic data prompted investors to reduce bets on a Federal Reserve rate hike in September. The kiwi also found support from expectations that the Reserve Bank of New Zealand will deliver another 25-basis-point rate hike next month, after repeatedly signalling the need to make monetary policy less accommodative. However, recent economic data have raised doubts about how much further the RBNZ can tighten policy. Meanwhile, investor sentiment remained cautious amid a lack of meaningful progress toward a peace deal in the Middle East, keeping demand for risk-sensitive currencies such as the kiwi in check."
+    },
+    {
+      "id": "mkt:01a012ae-aa5f-7aab-906d-3e1eebffce72",
+      "time": "2026-08-18 10:23:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share transgenic seed sector extended gains. Qiule Seed hit a 30% daily limit; Shennong Seed hit a 20% daily limit. Jingliang Holdings, Wanxiang Denong, Nongfa Seed and Denghai Seed had earlier closed at limit-up. Kangnong Seed, Dunhuang Seed, Longping High‑Tech and Top Yunong also advanced."
+    },
+    {
+      "id": "mkt:01a012ae-9102-7aab-906d-3682aa9d6950",
+      "time": "2026-08-18 10:23:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Barclays: South Korean won strength could weigh on GDP and GDI】Barclays economist Bum Ki Son warned recent appreciation of the South Korean won versus the dollar could trim Q2 GDP growth by about 20bps and reduce GDI growth by as much as 200bps. He said non-tech firms are particularly exposed because the same amount of overseas sales converts into fewer won; non-tech companies make up 26% of net profit among KOSPI-listed firms but could account for roughly 66% of FX translation losses in Q3. FactSet shows the won has strengthened more than 5% against the dollar over the past month."
+    },
+    {
+      "id": "5045078",
+      "time": "2026-08-18 10:23:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國物流地產商安博據悉考慮發行點心債，擬籌資約20億元人民幣。"
+    },
+    {
+      "id": "5045077",
+      "time": "2026-08-18 10:22:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【轉基因板塊持續走高，神農種業漲停】轉基因板塊持續走高，神農種業、秋樂種業、京糧控股漲停，萬向德農、農發種業、登海種業此前封板，康農種業、穎泰生物、敦煌種業、隆平高科、託普雲農等跟漲。"
+    },
+    {
+      "id": "5045076",
+      "time": "2026-08-18 10:22:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "5045075",
+      "time": "2026-08-18 10:21:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉騰機器人完成數千萬戰略融資】近日，嘉騰機器人宣佈完成數千萬戰略融資，由上市公司和而泰（002402.SZ）領投、道禾基金（LP是東方精工、樂聚機器人和道禾自有資金）、金木資本跟投，雲岫資本擔任後續融資獨家財務顧問。"
+    },
+    {
+      "id": "mkt:01a012ac-c67d-7aab-906d-2ae1d65347cd",
+      "time": "2026-08-18 10:21:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index fell more than 1%, the Shenzhen Composite fell 0.76% and the Shanghai Composite fell 0.15%; AI training-data, cloud office and compute-power leasing sectors led declines."
+    },
+    {
+      "id": "5045074",
+      "time": "2026-08-18 10:21:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓南部三寶顏雅典耀大學校長表示，目前已無活躍槍手，無新增死亡或受傷記錄。"
+    },
+    {
+      "id": "5045073",
+      "time": "2026-08-18 10:21:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1％，成分股中，芯原股份跌4.48％，翱捷科技跌3.77％，海光資訊跌3.74％，格科微跌2.74％。"
+    },
+    {
+      "id": "5045072",
+      "time": "2026-08-18 10:21:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.02%，現報3702.018點；上證指數跌0.14%，現報3977.270點；深證成指跌0.71%，現報14599.646點。"
+    },
+    {
+      "id": "5045071",
+      "time": "2026-08-18 10:21:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.01%，成分股中，聚星科技漲7.66%，穎泰生物漲7.59%，戈碧迦漲6.86%，華密新材漲5.83%。"
+    },
+    {
+      "id": "5045070",
+      "time": "2026-08-18 10:20:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "長鑫科技成交額達100億元，現跌3.12%。"
+    },
+    {
+      "id": "5045069",
+      "time": "2026-08-18 10:19:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指上漲1.4%，報6488.913點，創5月19日以來新高。"
+    },
+    {
+      "id": "mkt:01a012aa-d7db-7aab-906d-26e1d3736b41",
+      "time": "2026-08-18 10:19:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "SSE 50 index futures (IH) most-active contract slipped below 2,900, down 0.59% on the day."
+    },
+    {
+      "id": "5045068",
+      "time": "2026-08-18 10:19:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "夏威夷電力公司：再次呼籲瓦胡島使用者在晚上 10 點前節約用電。"
+    },
+    {
+      "id": "5045067",
+      "time": "2026-08-18 10:19:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國夏威夷電力公司：截至下午 2:30，約有 103,980 名使用者停電。"
+    },
+    {
+      "id": "5045066",
+      "time": "2026-08-18 10:18:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工業母機概念異動拉昇 秦川機床直線漲停】工業母機概念盤中異動拉昇，秦川機床直線漲停，華東數控、恆進感應、大族數控、華中數控、日發精機等跟漲。消"
+    },
+    {
+      "id": "em:jjsj_ozsj:202608183844294026",
+      "time": "2026-08-18 10:17:41",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【8月澳大利亞消費者信心指數繼續回升 悲觀情緒仍較重】西太平洋銀行（WestpacBank）和墨爾本研究院（MelbourneInstitute）18日釋出的報告顯示，2026年8月澳大利亞西太平洋銀行/墨爾本研究院消費者信心指數（暨消費者情緒指數）從7月的83.9點升至88.9點。"
+    },
+    {
+      "id": "te:markets:575972",
+      "time": "2026-08-18 10:16:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Remains Under Pressure — The Japanese yen slipped to around 159.5 per dollar on Tuesday, erasing gains from the previous session amid mounting fiscal concerns and persistent inflationary pressures. The Takaichi administration’s plan to cut the consumption tax on food to 1% for two years has fueled market concerns, as the government has yet to identify an alternative revenue source and the measure is viewed as an ineffective response to inflation that may not deliver lasting price stability. Markets also remained concerned about elevated energy costs, which are weighing on Japan’s oil-dependent economy and currency. Additionally, the yen continued to face pressure from wide interest rate differentials, as surging Japanese government bond yields were offset by a similar rise in US Treasury yields. Meanwhile, traders are increasingly speculating on a Bank of Japan interest rate hike in September to support the yen and curb inflation."
+    },
     {
       "id": "mkt:01a012a7-cb30-7aab-906d-19a8a45d1f6a",
       "time": "2026-08-18 10:16:21",
