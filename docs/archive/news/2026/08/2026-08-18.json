@@ -1,7 +1,92 @@
 {
   "date": "2026-08-18",
-  "count": 2286,
+  "count": 2297,
   "items": [
+    {
+      "id": "5046136",
+      "time": "2026-08-18 21:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "南印度銀行：調整多期限邊際成本貸款利率，自2026年8月20日起生效。"
+    },
+    {
+      "id": "mkt:01a014fb-ee98-7aab-907b-14754c684f62",
+      "time": "2026-08-18 21:07:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Department of Justice to monitor primary elections in Florida and Wyoming."
+    },
+    {
+      "id": "5046135",
+      "time": "2026-08-18 21:07:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國司法部將對佛羅里達州及懷俄明州初選開展選舉監督。"
+    },
+    {
+      "id": "5046134",
+      "time": "2026-08-18 21:06:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業銀錫：擬斥資不超18億元收購威領股份控制權】興業銀錫公告稱，公司擬收購威領股份控制權，總體投資支出金額預計不超過18.00億元，目標持股比例不少於威領股份總股本的15%。公司全資子公司西藏山南銻金資源有限公司擬向威領股份全體無限售條件流通股股東發起部分要約收購，要約價格18.00元/股，要約收購股份數量7817.75萬股，佔威領股份總股本的30%，所需最高資金總額為14.07億元。本次對外投資事項已獲公司董事會審議透過，無需提交公司股東會審議。"
+    },
+    {
+      "id": "5046133",
+      "time": "2026-08-18 21:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：聯合健康保險公司擴大了兒童及家庭行為輔導服務的覆蓋範圍。"
+    },
+    {
+      "id": "5046132",
+      "time": "2026-08-18 21:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：FLEXENTIAL設立8億美元信貸額度用於開發資料中心。"
+    },
+    {
+      "id": "mkt:01a014fa-1fc2-7aab-907b-0eeba6b2c9c6",
+      "time": "2026-08-18 21:05:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "NOK.N"
+      ],
+      "text": "Nokia (NOK.N) will shut nearly all its offices in China by year-end, the South China Morning Post reports."
+    },
+    {
+      "id": "mkt:01a014f9-c383-7aab-907b-047ef247fcd5",
+      "time": "2026-08-18 21:05:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "US July industrial production m/m due in 10 minutes."
+    },
+    {
+      "id": "5046131",
+      "time": "2026-08-18 21:05:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：安全團隊發現惡意DAO治理提案，試圖盜取價值120萬美元的財庫代幣。"
+    },
+    {
+      "id": "mkt:01a014f9-a65d-7aab-907a-fb2d0885bd9e",
+      "time": "2026-08-18 21:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar again denies detaining Iranian pilots】Qatar’s foreign ministry spokesman Majid Ansari on the 18th again denied Iranian claims that three Iranian pilots were detained, saying Iranian military aircraft had “violated” Qatari airspace. Qatar said it confirmed the aircraft’s flight and attack trajectories, attempted to contact the pilots with no response, and then “took measures under the rules of engagement.” Qatari search-and-rescue teams found one pilot’s remains on March 19; the search ended on April 6. Qatar notified Iran; Iran recovered the remains, repatriated them and held a funeral."
+    },
     {
       "id": "5046130",
       "time": "2026-08-18 21:04:31",
@@ -136,6 +221,15 @@
         "國際"
       ],
       "text": "8月17日美國聯邦基金有效利率為3.63%，與8月14日持平。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608183844786989",
+      "time": "2026-08-18 21:00:10",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行首席經濟學家連恩：歐元區通脹比歐洲央行2%的目標高出一個百分點】歐洲央行首席經濟學家連恩表示，歐元區通脹比歐洲央行2%的目標高出一個百分點，這個差距很大。"
     },
     {
       "id": "5046123",
