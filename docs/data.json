@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-18 15:08:49",
-  "count": 15146,
+  "updated": "2026-08-18 15:12:40",
+  "count": 15147,
   "items": [
+    {
+      "id": "5045402",
+      "time": "2026-08-18 15:11:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "SIXT SE <SIXG.DE>股價上漲4.55%，此前貝倫貝格銀行將其評級從持有上調至買入。"
+    },
+    {
+      "id": "5045401",
+      "time": "2026-08-18 15:11:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率觸及3.5周高點5.094%。"
+    },
+    {
+      "id": "mkt:01a013b5-4f25-7aab-9071-fa04a065e710",
+      "time": "2026-08-18 15:10:44",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Rising bond yields pressure market, South Korean stocks end five-day rally】South Korean stocks hit a one-month intraday high Tuesday but closed down over 1%, ending a five-day winning streak as government bond yields surged. The most liquid 3-year Korean government bond yield rose 8.5bps to 3.854%; the 10-year yield climbed 9.5bps to 4.395%. Semiconductor names outperformed early after the Philadelphia semiconductor index rose 1.6% overnight, but gains narrowed: Samsung Electronics reversed an intraday high of +4.9% to close down 2.19%, while SK Hynix closed up 1.03% after an intraday high of +8.9%. Analyst Seo Sang-young said early foreign inflows became unstable as rising yields destabilized fund flows and market sentiment."
+    },
+    {
+      "id": "mkt:01a013b4-b34f-7aab-9071-f56336f47224",
+      "time": "2026-08-18 15:10:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRGC deputy commander Izadi said Iran has shot down more than 200 enemy aircraft."
+    },
+    {
+      "id": "mkt:01a013b4-634f-7aab-9071-ee333c7c6226",
+      "time": "2026-08-18 15:09:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【US equity futures fall as bond yields and oil rise】US equity futures slipped as rising bond yields and a spike in oil unsettled investors. Nasdaq 100 futures were down about 0.7% intraday, S&P 500 futures fell 0.4%. Growth names were sold amid concern over the long end of the Treasury market, while Brent crude extended Monday's gains. Stocks had rallied earlier this month on renewed AI optimism and lower Fed rate-hike expectations but have since retraced. A BofA fund manager survey showed global equity allocations at their highest since Nov 2021, with 56% of respondents overweight stocks. Nasdaq 100 has largely recovered last month's pullback and the S&P 500 is near record highs. Florian Ielpo, head of macro at Swiss Longao Asset Management, said: \"The hurdle rate for investment returns has risen again. This time it is a function of oil, fiscal supply and the term premium, not a renewed acceleration in short-rate expectations.\""
+    },
+    {
+      "id": "em:qqyh_ozyh:202608183844506750",
+      "time": "2026-08-18 15:08:26",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委Rehn撰文稱，前瞻性指引應繼續保留。"
+    },
+    {
+      "id": "5045400",
+      "time": "2026-08-18 15:08:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告：寶馬北美有限公司召回 27,720 輛美國車輛。"
+    },
+    {
+      "id": "5045399",
+      "time": "2026-08-18 15:08:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告：豐田汽車公司召回 48,280 輛美國車輛。"
+    },
     {
       "id": "5045398",
       "time": "2026-08-18 15:06:14",
@@ -138705,69 +138787,6 @@
         "國際"
       ],
       "text": "伊朗外長：‘簽署合作諒解備忘錄：協同外交與衛生，重建戰爭造成的破壞’。"
-    },
-    {
-      "id": "mkt:019fefa9-5f3d-7aab-8feb-42bc4ff4779a",
-      "time": "2026-08-11 15:11:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mammoth, Shandong Taikoo to build China’s first Boeing 777 P2F conversion line in Qingdao; first unit due Sep 2026】US Mammoth Cargo and Shandong Taikoo Aircraft Engineering will build China’s first Boeing 777 passenger-to-freighter (P2F) conversion line at Qingdao Jiaodong International Airport. Mammoth plans nine global P2F lines: Fort Worth 5, Manchester 2 and Qingdao 2; the first Qingdao line is scheduled to enter production in Sept 2026, the second in 2027."
-    },
-    {
-      "id": "5035236",
-      "time": "2026-08-11 15:10:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團資料：法國日前基荷電力上漲 20.5%，報 141 歐元 / 兆瓦時。"
-    },
-    {
-      "id": "5035235",
-      "time": "2026-08-11 15:10:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【波音777寬體客機改裝貨機生產線落地青島，計劃9月投產】據山東省交通運輸廳訊息，近日，美國猛獁貨機公司與山東太古飛機工程有限公司達成戰略合作，將在青島膠東國際機場建設中國首條波音777寬體客機改裝貨機生產線。根據規劃，猛獁在全球共佈局9條客改貨生產線，其中美國沃斯堡5條、英國曼徹斯特2條、中國青島2條（首條計劃2026年9月正式投產，第二條預計2027年建成投用）。"
-    },
-    {
-      "id": "mkt:019fefa8-37e9-7aab-8feb-3be2f456e9b6",
-      "time": "2026-08-11 15:10:06",
-      "tags": [
-        "MKT News",
-        "UN01.DE"
-      ],
-      "text": "Uniper expects to disclose details of discussions on a data-center transaction within the next 18 months."
-    },
-    {
-      "id": "5035234",
-      "time": "2026-08-11 15:09:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特斯拉、Rivian、豐田在美召回部分車輛】美國國家公路交通安全管理局：特斯拉正在召回20,349輛美國車輛，原因是前大燈近光燈過亮，可能會降低迎面而來的駕駛員的能見度，從而增加發生碰撞的風險；Rivian正在召回3,829輛美國車輛，因轉向訊號燈無法正常工作，從而增加了發生碰撞的風險；豐田汽車工程製造公司正在召回508354輛美國市場車輛，原因是儀表盤無法顯示關鍵安全資訊，會提升碰撞事故及人員受傷風險。"
-    },
-    {
-      "id": "te:markets:574347",
-      "time": "2026-08-11 15:09:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Gas Prices Rise Further — UK natural gas prices extended sharp gains on Tuesday, rising to 151 pence per therm, as the prospect of a deal to reopen the Strait of Hormuz faded amid demands from the US and Iran. President Trump on Monday called for Iran to compensate for people it has killed in conflicts, after Tehran sought compensation for damage caused by US and Israeli attacks. This tempered hopes for an immediate resolution that would restore LNG flows through the Persian Gulf. The ongoing disruption has tightened global LNG supplies, intensifying competition with Asian buyers and hampering Europe’s efforts to replenish gas stockpiles ahead of winter. European gas storage sites recently fell to their lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Traders are also monitoring extended supply cuts at Norway’s Ormen Lange gas field, Europe’s largest pipeline supplier, as further disruptions could amplify price volatility."
-    },
-    {
-      "id": "5035233",
-      "time": "2026-08-11 15:09:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：從昨晚開始，我們一直在努力消除俄羅斯對扎波羅熱攻擊的後果。目前，該市已有6人死亡、19人受傷的報告。"
     }
   ]
 }

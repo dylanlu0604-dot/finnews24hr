@@ -1,7 +1,89 @@
 {
   "date": "2026-08-18",
-  "count": 1220,
+  "count": 1228,
   "items": [
+    {
+      "id": "5045402",
+      "time": "2026-08-18 15:11:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "SIXT SE <SIXG.DE>股價上漲4.55%，此前貝倫貝格銀行將其評級從持有上調至買入。"
+    },
+    {
+      "id": "5045401",
+      "time": "2026-08-18 15:11:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率觸及3.5周高點5.094%。"
+    },
+    {
+      "id": "mkt:01a013b5-4f25-7aab-9071-fa04a065e710",
+      "time": "2026-08-18 15:10:44",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Rising bond yields pressure market, South Korean stocks end five-day rally】South Korean stocks hit a one-month intraday high Tuesday but closed down over 1%, ending a five-day winning streak as government bond yields surged. The most liquid 3-year Korean government bond yield rose 8.5bps to 3.854%; the 10-year yield climbed 9.5bps to 4.395%. Semiconductor names outperformed early after the Philadelphia semiconductor index rose 1.6% overnight, but gains narrowed: Samsung Electronics reversed an intraday high of +4.9% to close down 2.19%, while SK Hynix closed up 1.03% after an intraday high of +8.9%. Analyst Seo Sang-young said early foreign inflows became unstable as rising yields destabilized fund flows and market sentiment."
+    },
+    {
+      "id": "mkt:01a013b4-b34f-7aab-9071-f56336f47224",
+      "time": "2026-08-18 15:10:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRGC deputy commander Izadi said Iran has shot down more than 200 enemy aircraft."
+    },
+    {
+      "id": "mkt:01a013b4-634f-7aab-9071-ee333c7c6226",
+      "time": "2026-08-18 15:09:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【US equity futures fall as bond yields and oil rise】US equity futures slipped as rising bond yields and a spike in oil unsettled investors. Nasdaq 100 futures were down about 0.7% intraday, S&P 500 futures fell 0.4%. Growth names were sold amid concern over the long end of the Treasury market, while Brent crude extended Monday's gains. Stocks had rallied earlier this month on renewed AI optimism and lower Fed rate-hike expectations but have since retraced. A BofA fund manager survey showed global equity allocations at their highest since Nov 2021, with 56% of respondents overweight stocks. Nasdaq 100 has largely recovered last month's pullback and the S&P 500 is near record highs. Florian Ielpo, head of macro at Swiss Longao Asset Management, said: \"The hurdle rate for investment returns has risen again. This time it is a function of oil, fiscal supply and the term premium, not a renewed acceleration in short-rate expectations.\""
+    },
+    {
+      "id": "em:qqyh_ozyh:202608183844506750",
+      "time": "2026-08-18 15:08:26",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委Rehn撰文稱，前瞻性指引應繼續保留。"
+    },
+    {
+      "id": "5045400",
+      "time": "2026-08-18 15:08:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告：寶馬北美有限公司召回 27,720 輛美國車輛。"
+    },
+    {
+      "id": "5045399",
+      "time": "2026-08-18 15:08:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告：豐田汽車公司召回 48,280 輛美國車輛。"
+    },
     {
       "id": "5045398",
       "time": "2026-08-18 15:06:14",
