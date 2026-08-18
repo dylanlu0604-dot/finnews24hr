@@ -1,7 +1,76 @@
 {
   "date": "2026-08-18",
-  "count": 2076,
+  "count": 2084,
   "items": [
+    {
+      "id": "5046007",
+      "time": "2026-08-18 19:46:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Klarna稱正在物色駐紐約的新任首席財務官。"
+    },
+    {
+      "id": "5046006",
+      "time": "2026-08-18 19:45:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Klarna集團宣佈計劃於2027年初完成首席財務官與首席營銷官職位交接。"
+    },
+    {
+      "id": "5046005",
+      "time": "2026-08-18 19:45:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Klarna集團股價盤前下跌17.2%，此前該公司公佈的財年營收低於市場預期。"
+    },
+    {
+      "id": "5046004",
+      "time": "2026-08-18 19:45:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Klarna公佈首席財務官與首席營銷官人事更迭計劃。"
+    },
+    {
+      "id": "5046003",
+      "time": "2026-08-18 19:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞一法院判處前總統巴沙爾堂弟死刑】敘利亞大馬士革第四刑事法院18日判處敘前總統巴沙爾·阿薩德的堂弟瓦西姆·阿薩德死刑。法官法赫爾丁·阿里延在當天的宣判聽證會上宣佈，瓦西姆·阿薩德對多人實施故意殺害和酷刑，構成反人類罪和戰爭罪。（新華社）"
+    },
+    {
+      "id": "5046002",
+      "time": "2026-08-18 19:44:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星1d DRAM熱測試良率達標，量產時間表曝光】據報道，儘管1d DRAM的商業化仍需時日，但三星電子已將其良率提升至令人滿意的水平，足以應對高溫環境下的熱測試。據評估，1D DRAM的良率提升速度超出預期。雖然具體資料尚未公佈，但熱測試良率已達到目標水平，目前的工作重點是確保低溫環境下的冷測試良率。時間進度方面，三星電子將1d DRAM的開發完成目標定於今年9月，並計劃在12月將研發成果移交至量產線，明年底有望實現首批次產。"
+    },
+    {
+      "id": "5046001",
+      "time": "2026-08-18 19:44:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子啟動升級半導體工藝分析實驗室，提升良率實現利潤最大化】據悉，三星電子DS事業部已啟動半導體工藝分析實驗室的升級工作。該公司正透過合作伙伴引進新一代裝置，用於驗證半導體和晶圓電路圖案並診斷缺陷。知情人士表示，三星正在籌備能夠直接檢測和分析晶圓的全新基礎設施，超越目前在半導體晶片（晶粒）層面進行的工藝分析。"
+    },
+    {
+      "id": "te:markets:576126",
+      "time": "2026-08-18 19:43:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Turn Lower — US equity futures were mostly lower on Tuesday, extending losses from the previous session as higher borrowing costs offset recent support from AI infrastructure companies. Contracts for the S&P 500 and Nasdaq were 0.5% and 1.3% down, respectively, and those for the Dow were flat. Long-term Treasury yields extended their surge to multi-year highs as inflation risks and surging bond issuance from AI companies raised different estimates on term premia. Inflationary concerns were magnified by more increases in energy prices as the US signaled a prolonged blockade on Iran tanker exports. AI companies were mostly lower, with Nvidia, Meta, Tesla, and Oracle dropping up to 3% premarket. Credit-sensitive financial companies were also under pressure with Goldman Sachs and JPMorgan trading in the red. Meanwhile, Home Depot gained around 1% after beating earnings estimates despite high borrowing and housing costs."
+    },
     {
       "id": "5046000",
       "time": "2026-08-18 19:41:38",
