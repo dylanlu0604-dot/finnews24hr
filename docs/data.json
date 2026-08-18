@@ -1,7 +1,278 @@
 {
-  "updated": "2026-08-18 21:29:01",
-  "count": 15162,
+  "updated": "2026-08-18 21:33:23",
+  "count": 15167,
   "items": [
+    {
+      "id": "5046182",
+      "time": "2026-08-18 21:32:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "多鄰國股價上漲3.7%。"
+    },
+    {
+      "id": "mkt:01a01512-fc1a-7aab-907b-efd8bb3bd416",
+      "time": "2026-08-18 21:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's foreign minister said nuclear material will remain in Syrian custody and will be subject to IAEA safeguards and oversight."
+    },
+    {
+      "id": "mkt:01a01512-dfa7-7aab-907b-e0626bdb4267",
+      "time": "2026-08-18 21:32:33",
+      "tags": [
+        "MKT News",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "Baidu (BIDU.O) stock fell 10%, the largest decline since June 5."
+    },
+    {
+      "id": "5046181",
+      "time": "2026-08-18 21:32:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外長：核材料將留在敘利亞保管，並接受國際原子能機構的保障監督。"
+    },
+    {
+      "id": "5046180",
+      "time": "2026-08-18 21:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通：全面收斂在售套餐數量 智算規模超45EFLOPS】中國聯通高管在今日晚間的半年度業績說明會上表示，傳統通訊市場進入存量競爭階段後，穩固和提升使用者價值已成為增收增利的關鍵，公司全面收斂在售套餐數量，持續開展資費精簡專項工作。針對國家“六張網”戰略，公司在新一代通訊網方面，與電信合作建設最大5G共建共享網路；算力網方面，資料中心佈局持續最佳化，智算規模超45EFLOPS。 (財聯社)"
+    },
+    {
+      "id": "mkt:01a01512-81ba-7aab-907b-d9da8e9ae1e7",
+      "time": "2026-08-18 21:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Philadelphia Semiconductor Index fell 3.7%, its largest decline since July 29."
+    },
+    {
+      "id": "5046179",
+      "time": "2026-08-18 21:31:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "百度ADR下跌10%，創6月5日以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a01512-0b28-7aab-907b-d4fc7258d93f",
+      "time": "2026-08-18 21:31:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said there are no negotiations or talks with Iran ongoing or scheduled; the naval blockade remains fully effective; the Strait of Hormuz is open and operating normally; all sea mines have been removed or detonated."
+    },
+    {
+      "id": "5046178",
+      "time": "2026-08-18 21:31:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "KLARNA GROUP股價暴跌18%，此前公司預計全年營收低於預期。"
+    },
+    {
+      "id": "5046177",
+      "time": "2026-08-18 21:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：所有水雷都已被清除或引爆。"
+    },
+    {
+      "id": "5046176",
+      "time": "2026-08-18 21:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌3.7%，創7月29日以來最大跌幅。"
+    },
+    {
+      "id": "5046175",
+      "time": "2026-08-18 21:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "FABRINET股價下跌近15%，創2月份以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:576170",
+      "time": "2026-08-18 21:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Slips to Over 2-Week Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, slipped about 2.2% to 2,815 points on Tuesday, its lowest level since July 31, snapping a two-day advance. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also halted a two-session winniinf streak, dropping by 3.1% to its lowest since July 31 at 4,452 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, declined by 2.3% to its lowest since August 3 at 2,155 points. On the other hand, the supramax index rise by 0.2% to 1,631 points, its highest since July 28."
+    },
+    {
+      "id": "mkt:01a01511-73db-7aab-907b-ce98bed3e59d",
+      "time": "2026-08-18 21:31:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "BIDU.O",
+        "Impact bearish",
+        "SNDK.O",
+        "PONY.O"
+      ],
+      "text": "At the New York open, the Dow was down 0.2%, the S&P 500 fell 0.5% and the Nasdaq dropped 1.1%. Storage names led declines: SanDisk (SNDK.O) -5%, Micron Technology (MU.O) -4.6%. Major tech names were mostly lower; Meta Platforms (META.O) -1.9% ahead of a high-value damages trial Tuesday. Chinese internet names under pressure after results: Baidu (BIDU.O) -9% post-earnings; Pony.ai (PONY.O) -7%; iQiyi (IQ.O) -3.7%."
+    },
+    {
+      "id": "5046174",
+      "time": "2026-08-18 21:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海上封鎖仍然全面有效。"
+    },
+    {
+      "id": "5046173",
+      "time": "2026-08-18 21:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽處於開放通航狀態。"
+    },
+    {
+      "id": "5046172",
+      "time": "2026-08-18 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.29%，標普500指數跌0.57%，納指跌1.06%。Coherent Corp跌7.05%，康寧跌6.40%，Arm Holdings Plc跌5.93%，英特爾跌5.14%，泰瑞達跌4.99%，泛林集團跌4.88%。“七姐妹”方面：蘋果漲0.50%，微軟漲0.14%，亞馬遜跌0.43%，谷歌跌0.78%，Meta Platforms跌1.95%，英偉達跌2.12%，特斯拉跌2.19%。"
+    },
+    {
+      "id": "5046171",
+      "time": "2026-08-18 21:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒有與伊朗進行任何會談或對話，也沒有安排任何會談或對話。"
+    },
+    {
+      "id": "5046170",
+      "time": "2026-08-18 21:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，禾賽科技跌12.33%，世紀互聯跌9.34%，百度跌8.93%，中進醫療跌4.91%，再鼎醫藥跌3.00%。"
+    },
+    {
+      "id": "5046169",
+      "time": "2026-08-18 21:30:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數.GSPTSE開盤下跌52.41點，跌幅0.14%，報36,615.51點。"
+    },
+    {
+      "id": "5046168",
+      "time": "2026-08-18 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌0.88%。"
+    },
+    {
+      "id": "5046167",
+      "time": "2026-08-18 21:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特擴大Xfinity安全服務，以深化寬頻客戶關係。"
+    },
+    {
+      "id": "5046166",
+      "time": "2026-08-18 21:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破85美元/桶，日內漲1.56%。"
+    },
+    {
+      "id": "5046165",
+      "time": "2026-08-18 21:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4440美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "5046164",
+      "time": "2026-08-18 21:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特：客戶可透過Xfinity應用以每月15美元升級至Shield Select服務。"
+    },
+    {
+      "id": "te:economy:576169",
+      "time": "2026-08-18 21:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing Output Rises 0.2% in July — Manufacturing output in the US increased 0.2% in July 2026, in line with market expectations. Production of durable goods rose 0.7%, with most categories expanding more than 1%. Among the industry groups within durables, only the indexes for nonmetallic mineral products and for motor vehicles and parts decreased in July, moving down 0.2% and 2.1%, respectively. Production of nondurable goods fell 0.4%, with gains in the output of textile and product mills and of petroleum and coal products more than offset by declines in all other categories. Capacity utilization for manufacturing edged up to 76% in July, a rate that is 2.2 percentage points below its long-run (1972–2025) average."
+    },
+    {
+      "id": "5046163",
+      "time": "2026-08-18 21:29:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率<IT10YT=RR>攀升至4.097%，創下今年3月以來新高。"
+    },
+    {
+      "id": "mkt:01a0150f-954b-7aab-907b-c4b09382fe6b",
+      "time": "2026-08-18 21:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Italy 10-year government bond yield rose to 4.097%, the highest level since March."
+    },
+    {
+      "id": "5046162",
+      "time": "2026-08-18 21:28:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "AIXC宣佈戰略轉向實體人工智慧與機器人運營商業化；ROBOSHARE完成首筆付費商業訂單。"
+    },
     {
       "id": "5046161",
       "time": "2026-08-18 21:28:01",
@@ -138879,231 +139150,6 @@
         "MKT News"
       ],
       "text": "Malaysia's defense minister said the country stands with Iran to help establish global peace and security."
-    },
-    {
-      "id": "5036064",
-      "time": "2026-08-11 21:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗天然氣日產能9月有望回升近1億立方米】伊朗石油部長穆赫辛·帕克內賈德11日說，伊朗正在修復因戰事受損的天然氣生產設施，按計劃9月底前其日產能可回升9500萬立方米。這個數量接近伊朗因戰事而損失的天然氣日產量的一半。隸屬於伊朗石油部的沙納通訊社援引帕克內賈德的話報道，伊朗將在9月底前恢復因南部阿薩盧耶天然氣處理設施遇襲而損失的約9500萬立方米天然氣日產能。據路透社報道，自美國和以色列2月底對伊朗發起軍事行動以來，伊朗天然氣日產量減少約2.3億立方米。帕克內賈德說，伊朗4座遇襲受損的天然氣處理設施重建工程正在迅速推進，廢墟已清理乾淨，重建承包商已經開工，預計將比計劃日程提前完工，完全恢復戰前產能。帕克內賈德7月表示，儘管美國取消對伊朗的石油制裁豁免並威脅海上封鎖，伊朗的石油出口未受影響，一切“照常”。帕克內賈德當時說，伊朗多年來發展出一套可以“抵消美國製裁影響”的國家機制，其石油出口“不會有問題”。英國《金融時報》先前報道，面對西方制裁，伊朗數十年來一直奉行“抵抗經濟”政策，鼓勵自力更生和本國生產，建立了獨立自主的國民經濟和國防產業，抗壓能力較強。一名伊朗前經濟官員認為，哪怕戰事持續一年，伊朗經濟仍能挺過難關。（新華社）"
-    },
-    {
-      "id": "te:markets:574449",
-      "time": "2026-08-11 21:33:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Natural Gas Prices Fall — European natural gas prices fell below €59 per megawatt-hour as hopes for progress in US-Iran negotiations eased concerns over energy supplies. Pakistan’s Defense Minister Khawaja Asif said the two sides were “close to some sort of arrangement,” while talks between Iran and Oman over reopening the Strait of Hormuz were reportedly at an advanced stage. A deal could help restore LNG flows through the Persian Gulf and reduce pressure on European gas markets. Despite the optimism, Commerzbank raised its year-end European gas price forecast to €50/MWh from €45/MWh, while Uniper expects prices to remain around €50-€60/MWh as long as Hormuz remains closed. European storage levels recently fell to the lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Meanwhile, persistent European heatwaves are boosting power demand and adding further pressure to gas markets."
-    },
-    {
-      "id": "5036063",
-      "time": "2026-08-11 21:32:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "Gap股價下跌約4%，此前巴克萊將其評級下調至\"持股觀望\"。"
-    },
-    {
-      "id": "5036062",
-      "time": "2026-08-11 21:32:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國運輸部長達菲表示，正針對近期“海軍一號”直升機事件後被指出的電信問題研究解決方案。"
-    },
-    {
-      "id": "5036061",
-      "time": "2026-08-11 21:32:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城半導體指數漲1%，報12117.63點。"
-    },
-    {
-      "id": "5036060",
-      "time": "2026-08-11 21:32:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2026年中國時尚零售與時尚消費TOP100釋出 泡泡瑪特、老鋪黃金首次躋身前十】8月11日，中國連鎖經營協會（CCFA）釋出\"2026年中國時尚零售與時尚消費TOP100\"（以下簡稱\"時尚TOP100\"）。根據企業提交資料及公開資料整理，2025年中國時尚零售與時尚消費TOP100企業營業收入合計約9163億元，同比增長10.1%，店鋪總數（可比精確口徑）同比下降4.5%，整體呈現營收較大幅度提升、店鋪數量穩步減少的良性轉變，該轉變是中國時尚零售與時尚消費頭部企業正從規模擴張的外延式增長方式，向運營能力增強、單店效率提高、供應鏈最佳化等內涵式增長轉變的階段性成果，同時也是企業在商品、服務及場景等全方位創新和質量提升的整體體現。頭部格局保持穩定，TOP10企業營收總額達4641億元，佔時尚TOP100總營收的50.6%。其中，黃金珠寶企業（5家）與運動戶外企業（3家）合計佔據八成，周大福、安踏、中國黃金連續兩年穩居前三。值得關注的是，泡泡瑪特和老鋪黃金憑藉強勁增長首次躋身前十，前者營收同比增長184.7%，後者增長221%。（北京商報）"
-    },
-    {
-      "id": "5036059",
-      "time": "2026-08-11 21:32:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "比特幣礦業公司Riot Platforms 開盤股價大漲 22%，為 7 月 30 日以來最大漲幅。"
-    },
-    {
-      "id": "mkt:019ff105-d18b-7aab-8ff3-6bc2500fed5c",
-      "time": "2026-08-11 21:31:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "Intel shares fell 1.1% after the company said earlier it had expanded and priced a share offering."
-    },
-    {
-      "id": "5036058",
-      "time": "2026-08-11 21:31:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "英特爾股價下跌1.1%，此前該公司宣佈上調200億美元股票發售規模並定價。"
-    },
-    {
-      "id": "mkt:019ff105-7459-7aab-8ff3-65ae7a684b91",
-      "time": "2026-08-11 21:31:34",
-      "tags": [
-        "MKT News",
-        "RKLB.O",
-        "Impact bearish"
-      ],
-      "text": "Rocket Lab shares fell 3.9% after the company said the likelihood of a Neutron rocket maiden flight this year was diminishing and reported second-quarter results."
-    },
-    {
-      "id": "5036057",
-      "time": "2026-08-11 21:31:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，騰訊音樂跌16.97%，中進醫療跌7.36%，蔚來跌5.91%，嗶哩嗶哩跌4.84%，1藥網跌4.63%。"
-    },
-    {
-      "id": "5036056",
-      "time": "2026-08-11 21:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京老字號協會等多個行業協會聯合倡議：遏制“天價”月餅】中秋節臨近，8月11日，北京市商業聯合會聯合北京老字號協會等多家行業協會發布《關於遏制“天價”月餅、促進行業健康發展的倡議書》（以下簡稱“倡議書“），向月餅生產、銷售相關經營者及從業者發出倡議。在定價方面，倡議書倡導合理定價，盒裝月餅單價控制在500元以內，讓月餅迴歸傳統節日大眾食品本質，更好滿足大眾消費需求。在包裝方面，要求嚴格遵守關於食品包裝的強制性標準，不使用貴金屬、紅木等貴重材料，避免過度包裝，推廣環保、可迴圈的包裝材料，讓包裝回歸保護商品的本質功能。在銷售行為規範上，強調銷售盒裝月餅時，不以任何形式搭售其他商品，也不以禮盒等形式將月餅同其他產品混合銷售。同時，要規範月餅券、月餅卡發行兌付行為，嚴格遵守商務部《單用途商業預付卡管理辦法（試行）》及《北京市單用途預付卡管理條例》相關規定。對於平臺企業，倡議書要求電商平臺加強對入駐商戶的監督，對銷售單價超過500元的盒裝月餅和提供定製服務的平臺內經營者進行重點監督，引導商戶合規經營。"
-    },
-    {
-      "id": "5036055",
-      "time": "2026-08-11 21:31:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Venture Global股價下跌5.4%，此前該公司第二季度營收未達市場預期。"
-    },
-    {
-      "id": "mkt:019ff105-5900-7aab-8ff3-5ec9023d2f0b",
-      "time": "2026-08-11 21:31:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities opened higher Tuesday, Aug. 11: Dow Jones Industrial Average up 113.13 points, or 0.21%, at 54,089.11; S&P 500 up 9.24 points, or 0.12%, at 7,762.26; Nasdaq Composite up 61.57 points, or 0.23%, at 26,666.92."
-    },
-    {
-      "id": "5036054",
-      "time": "2026-08-11 21:31:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "海納集團（SEA Ltd）紐約交易時段上漲 13%，創 1 月以來新高。"
-    },
-    {
-      "id": "5036053",
-      "time": "2026-08-11 21:31:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "火箭實驗室股價下跌3.9%，此前該公司認為中子火箭今年首飛的可能性下降，並公佈了第二季度業績。"
-    },
-    {
-      "id": "5036052",
-      "time": "2026-08-11 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.22%，標普500指數漲0.13%，納指漲0.23%。第一太陽能漲3.73%，阿斯麥漲3.08%，泰瑞達漲2.67%，百思買漲2.64%，閃迪漲2.45%，超微電腦漲2.38%。“七姐妹”方面：英偉達漲1.84%，特斯拉漲0.49%，蘋果漲0.33%，Meta Platforms漲0.06%，微軟跌0.25%，亞馬遜跌0.72%，谷歌跌0.77%。"
-    },
-    {
-      "id": "mkt:019ff104-afbc-7aab-8ff3-52c8ea3d41d7",
-      "time": "2026-08-11 21:30:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "SKHY.O",
-        "SNDK.O"
-      ],
-      "text": "US stocks opened higher: Dow +0.11%, S&P 500 +0.14%, Nasdaq +0.25%. NVIDIA (NVDA.O) rose 1.8% after reports it is rolling out an open-source AI model, Nemotron 4. Memory/storage names led gains: SK Hynix (SKHY.O) +2.4%, SanDisk (SNDK.O) +1.7%."
-    },
-    {
-      "id": "5036051",
-      "time": "2026-08-11 21:30:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，騰訊音樂跌14.85%，蔚來跌5.39%，中進醫療跌9.24%，1藥網跌4.63%，嗶哩嗶哩跌4.07%。"
-    },
-    {
-      "id": "5036050",
-      "time": "2026-08-11 21:30:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證交所S&P/TSX綜合指數開盤上漲33.71點，漲幅0.09%，報36492.04點。"
-    },
-    {
-      "id": "5036049",
-      "time": "2026-08-11 21:29:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國穀物出口商協會（ANEC）資料顯示，8月巴西豆粕出口量預計將達到253萬噸，高於前周預估的202萬噸。"
-    },
-    {
-      "id": "5036048",
-      "time": "2026-08-11 21:29:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：將MongoDB加入90天上行催化劑觀察名單，目標價545美元】花旗將MongoDB加入90天上行催化劑觀察名單，認為其有機會繼續迎來顯著的正向盈利預測調整，並且未來幾個月存在多項積極催化劑。花旗給予MongoDB“買入”評級，目標價為545美元。"
-    },
-    {
-      "id": "5036047",
-      "time": "2026-08-11 21:29:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報86.84美元/桶。"
-    },
-    {
-      "id": "5036046",
-      "time": "2026-08-11 21:29:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西8月份玉米出口量將達到517萬噸，高於此前一週預估的408萬噸。"
     }
   ]
 }

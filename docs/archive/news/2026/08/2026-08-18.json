@@ -1,7 +1,278 @@
 {
   "date": "2026-08-18",
-  "count": 2350,
+  "count": 2379,
   "items": [
+    {
+      "id": "5046182",
+      "time": "2026-08-18 21:32:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "多鄰國股價上漲3.7%。"
+    },
+    {
+      "id": "mkt:01a01512-fc1a-7aab-907b-efd8bb3bd416",
+      "time": "2026-08-18 21:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's foreign minister said nuclear material will remain in Syrian custody and will be subject to IAEA safeguards and oversight."
+    },
+    {
+      "id": "mkt:01a01512-dfa7-7aab-907b-e0626bdb4267",
+      "time": "2026-08-18 21:32:33",
+      "tags": [
+        "MKT News",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "Baidu (BIDU.O) stock fell 10%, the largest decline since June 5."
+    },
+    {
+      "id": "5046181",
+      "time": "2026-08-18 21:32:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外長：核材料將留在敘利亞保管，並接受國際原子能機構的保障監督。"
+    },
+    {
+      "id": "5046180",
+      "time": "2026-08-18 21:32:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通：全面收斂在售套餐數量 智算規模超45EFLOPS】中國聯通高管在今日晚間的半年度業績說明會上表示，傳統通訊市場進入存量競爭階段後，穩固和提升使用者價值已成為增收增利的關鍵，公司全面收斂在售套餐數量，持續開展資費精簡專項工作。針對國家“六張網”戰略，公司在新一代通訊網方面，與電信合作建設最大5G共建共享網路；算力網方面，資料中心佈局持續最佳化，智算規模超45EFLOPS。 (財聯社)"
+    },
+    {
+      "id": "mkt:01a01512-81ba-7aab-907b-d9da8e9ae1e7",
+      "time": "2026-08-18 21:32:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Philadelphia Semiconductor Index fell 3.7%, its largest decline since July 29."
+    },
+    {
+      "id": "5046179",
+      "time": "2026-08-18 21:31:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "百度ADR下跌10%，創6月5日以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a01512-0b28-7aab-907b-d4fc7258d93f",
+      "time": "2026-08-18 21:31:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said there are no negotiations or talks with Iran ongoing or scheduled; the naval blockade remains fully effective; the Strait of Hormuz is open and operating normally; all sea mines have been removed or detonated."
+    },
+    {
+      "id": "5046178",
+      "time": "2026-08-18 21:31:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "KLARNA GROUP股價暴跌18%，此前公司預計全年營收低於預期。"
+    },
+    {
+      "id": "5046177",
+      "time": "2026-08-18 21:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：所有水雷都已被清除或引爆。"
+    },
+    {
+      "id": "5046176",
+      "time": "2026-08-18 21:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌3.7%，創7月29日以來最大跌幅。"
+    },
+    {
+      "id": "5046175",
+      "time": "2026-08-18 21:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "FABRINET股價下跌近15%，創2月份以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:576170",
+      "time": "2026-08-18 21:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Slips to Over 2-Week Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, slipped about 2.2% to 2,815 points on Tuesday, its lowest level since July 31, snapping a two-day advance. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also halted a two-session winniinf streak, dropping by 3.1% to its lowest since July 31 at 4,452 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, declined by 2.3% to its lowest since August 3 at 2,155 points. On the other hand, the supramax index rise by 0.2% to 1,631 points, its highest since July 28."
+    },
+    {
+      "id": "mkt:01a01511-73db-7aab-907b-ce98bed3e59d",
+      "time": "2026-08-18 21:31:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "BIDU.O",
+        "Impact bearish",
+        "SNDK.O",
+        "PONY.O"
+      ],
+      "text": "At the New York open, the Dow was down 0.2%, the S&P 500 fell 0.5% and the Nasdaq dropped 1.1%. Storage names led declines: SanDisk (SNDK.O) -5%, Micron Technology (MU.O) -4.6%. Major tech names were mostly lower; Meta Platforms (META.O) -1.9% ahead of a high-value damages trial Tuesday. Chinese internet names under pressure after results: Baidu (BIDU.O) -9% post-earnings; Pony.ai (PONY.O) -7%; iQiyi (IQ.O) -3.7%."
+    },
+    {
+      "id": "5046174",
+      "time": "2026-08-18 21:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海上封鎖仍然全面有效。"
+    },
+    {
+      "id": "5046173",
+      "time": "2026-08-18 21:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽處於開放通航狀態。"
+    },
+    {
+      "id": "5046172",
+      "time": "2026-08-18 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.29%，標普500指數跌0.57%，納指跌1.06%。Coherent Corp跌7.05%，康寧跌6.40%，Arm Holdings Plc跌5.93%，英特爾跌5.14%，泰瑞達跌4.99%，泛林集團跌4.88%。“七姐妹”方面：蘋果漲0.50%，微軟漲0.14%，亞馬遜跌0.43%，谷歌跌0.78%，Meta Platforms跌1.95%，英偉達跌2.12%，特斯拉跌2.19%。"
+    },
+    {
+      "id": "5046171",
+      "time": "2026-08-18 21:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒有與伊朗進行任何會談或對話，也沒有安排任何會談或對話。"
+    },
+    {
+      "id": "5046170",
+      "time": "2026-08-18 21:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，禾賽科技跌12.33%，世紀互聯跌9.34%，百度跌8.93%，中進醫療跌4.91%，再鼎醫藥跌3.00%。"
+    },
+    {
+      "id": "5046169",
+      "time": "2026-08-18 21:30:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數.GSPTSE開盤下跌52.41點，跌幅0.14%，報36,615.51點。"
+    },
+    {
+      "id": "5046168",
+      "time": "2026-08-18 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌0.88%。"
+    },
+    {
+      "id": "5046167",
+      "time": "2026-08-18 21:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特擴大Xfinity安全服務，以深化寬頻客戶關係。"
+    },
+    {
+      "id": "5046166",
+      "time": "2026-08-18 21:30:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破85美元/桶，日內漲1.56%。"
+    },
+    {
+      "id": "5046165",
+      "time": "2026-08-18 21:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4440美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "5046164",
+      "time": "2026-08-18 21:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特：客戶可透過Xfinity應用以每月15美元升級至Shield Select服務。"
+    },
+    {
+      "id": "te:economy:576169",
+      "time": "2026-08-18 21:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing Output Rises 0.2% in July — Manufacturing output in the US increased 0.2% in July 2026, in line with market expectations. Production of durable goods rose 0.7%, with most categories expanding more than 1%. Among the industry groups within durables, only the indexes for nonmetallic mineral products and for motor vehicles and parts decreased in July, moving down 0.2% and 2.1%, respectively. Production of nondurable goods fell 0.4%, with gains in the output of textile and product mills and of petroleum and coal products more than offset by declines in all other categories. Capacity utilization for manufacturing edged up to 76% in July, a rate that is 2.2 percentage points below its long-run (1972–2025) average."
+    },
+    {
+      "id": "5046163",
+      "time": "2026-08-18 21:29:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率<IT10YT=RR>攀升至4.097%，創下今年3月以來新高。"
+    },
+    {
+      "id": "mkt:01a0150f-954b-7aab-907b-c4b09382fe6b",
+      "time": "2026-08-18 21:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Italy 10-year government bond yield rose to 4.097%, the highest level since March."
+    },
+    {
+      "id": "5046162",
+      "time": "2026-08-18 21:28:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "AIXC宣佈戰略轉向實體人工智慧與機器人運營商業化；ROBOSHARE完成首筆付費商業訂單。"
+    },
     {
       "id": "5046161",
       "time": "2026-08-18 21:28:01",
