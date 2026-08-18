@@ -1,7 +1,59 @@
 {
   "date": "2026-08-18",
-  "count": 438,
+  "count": 444,
   "items": [
+    {
+      "id": "te:markets:575944",
+      "time": "2026-08-18 08:23:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Fast Retailing Stock Price Hits 12-week Low — Fast Retailing shares decreased to 75420.00 JPY, the lowest since May 2026. Over the past 4 weeks, Fast Retailing lost 6.54%, and in the last 12 months, it increased 53.43%."
+    },
+    {
+      "id": "mkt:01a0123e-5136-7aab-906a-da7878464e5c",
+      "time": "2026-08-18 08:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M&G boosts Korean government bond holdings, says market has priced in too much Bank of Korea tightening】M&G Investments has increased holdings of Korean government bonds, saying markets have priced in excessive Bank of Korea tightening. Low Guan Yi, head of Asian fixed income at M&G, said easing inflation and a surge in AI-driven revenue for Korean chipmakers and hardware suppliers should enable the government to cut borrowing and reduce future bond supply. We believe the Korean yield curve is pricing in too much tightening, she said, adding M&G has added Korea bonds over the past two months. The view mirrors a growing cohort of Korea observers who expect geopolitical factors and sustained AI momentum to help ease near-term bond-market pressure, even as foreign investors net sold about $1.2bn in July and the 10-year yield has risen roughly 22bp since end-June."
+    },
+    {
+      "id": "5044888",
+      "time": "2026-08-18 08:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統德拉埃斯普列亞：重申哥倫比亞將宣佈經濟緊急狀態。"
+    },
+    {
+      "id": "5044887",
+      "time": "2026-08-18 08:20:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統德拉埃斯普列亞：哥倫比亞的財政狀況“糟糕”。"
+    },
+    {
+      "id": "5044886",
+      "time": "2026-08-18 08:20:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統德拉埃斯普列亞：敦促銀行降低地震災區的利率。"
+    },
+    {
+      "id": "5044885",
+      "time": "2026-08-18 08:19:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遇見小面連續4年降價 上半年客單下降11.5%】8月17日，廣州遇見小面餐飲股份有限公司釋出2026年上半年中期業績公告。公告顯示，2026年上半年公司同店訂單平均消費額（客單價）由上年同期的人民幣31.3元降至人民幣27.7元，同比下降11.5%。這是遇見小面自2022年以來連續第四年主動下調菜品價格，持續踐行“為顧客提供更實惠用餐體驗”的承諾。"
+    },
     {
       "id": "mkt:01a0123a-b78b-7aab-906a-d207eb0ba85a",
       "time": "2026-08-18 08:17:12",
