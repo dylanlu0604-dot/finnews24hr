@@ -1,7 +1,110 @@
 {
   "date": "2026-08-18",
-  "count": 2339,
+  "count": 2350,
   "items": [
+    {
+      "id": "5046161",
+      "time": "2026-08-18 21:28:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "DLH公司：成為價值4億美元、期限最長可達7年的合同的29家主要承包商之一。"
+    },
+    {
+      "id": "5046160",
+      "time": "2026-08-18 21:27:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "DLH公司：獲得美國海軍網路空間支援專案的多項授予、不定期交付/不確定數量合同。"
+    },
+    {
+      "id": "te:economy:576167",
+      "time": "2026-08-18 21:27:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "US Industrial Output Rises Less than Expected — Industrial production in the United States increased by 0.2% in July 2026, falling short of market expectations for a 0.3% rise, following an upwardly revised 0.3% increase in June. Manufacturing output, which accounts for about 78% of total industrial production, went up 0.2% in July after rising 0.3% in June, in line with forecasts. Manufacturing output excluding motor vehicles and parts increased 0.4%. Mining production increased by 1.3%. Meanwhile, mining output grew 0.2%, and utilities output rose 0.5%, with similarly sized increases in electric and natural gas utilities. Capacity utilization edged up to 76.3%, a rate that is 3.1 percentage points below its long-run (1972–2025) average."
+    },
+    {
+      "id": "5046159",
+      "time": "2026-08-18 21:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際原子能機構說扎波羅熱核電站遭遇“最嚴重事件”】國際原子能機構社交媒體賬號18日發文說，一架無人機當天在扎波羅熱核電站一通勤公交站發生爆炸，造成16人傷亡，並稱這是該核電站有史以來遭遇的“最嚴重事件”。（新華社）"
+    },
+    {
+      "id": "mkt:01a0150d-5ec0-7aab-907b-bd8187b8e9e3",
+      "time": "2026-08-18 21:26:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【IAEA says Zaporizhzhia nuclear plant suffered \"most serious incident\"】The IAEA posted on its social media account on the 18th that a drone exploded at a commuter bus stop at the Zaporizhzhia nuclear plant, causing 16 casualties (killed or injured), and described the event as the plant's most serious incident to date."
+    },
+    {
+      "id": "te:economy:576165",
+      "time": "2026-08-18 21:26:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "US Capacity Utilization Reaches Highest in a Year — US capacity utilization edged up to 76.3% in July 2026, the highest level in a year, from an upwardly revised 76.2% in June, matching market expectations. Despite the modest increase, the utilization rate remained 3.1 percentage points below its 1972-2025 historical average. Among the major sectors, utilities utilization rose the most, increasing 0.2 percentage points to 70%, although it also remained below its historical average. Manufacturing utilization increased 0.1 percentage point to 76%. Mining utilization also rose 0.1 percentage point to 86.1%, staying 0.9 percentage points above its long-term average."
+    },
+    {
+      "id": "5046158",
+      "time": "2026-08-18 21:26:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "家得寶(HD.N)高管：公司在第二季度獲得了7.3億美元的關稅退款。"
+    },
+    {
+      "id": "mkt:01a0150c-f8e2-7aab-907b-b31cdb89fa0f",
+      "time": "2026-08-18 21:26:06",
+      "tags": [
+        "MKT News",
+        "HD.N",
+        "Impact bullish"
+      ],
+      "text": "Home Depot (HD.N) top executive said the company received $730 mln in tariff refunds in the second quarter."
+    },
+    {
+      "id": "mkt:01a0150c-bd59-7aab-907b-ae55928987e2",
+      "time": "2026-08-18 21:25:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE state news agency WAM said Trump discussed cooperation with the United States and ways to deepen U.S.-UAE ties to support shared interests."
+    },
+    {
+      "id": "mkt:01a0150b-d294-7aab-907b-a1374fa27154",
+      "time": "2026-08-18 21:24:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Lala re-intensified to hurricane strength in the central Pacific."
+    },
+    {
+      "id": "5046157",
+      "time": "2026-08-18 21:24:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，熱帶風暴“拉拉”在中太平洋上空再次增強為颶風。"
+    },
     {
       "id": "5046156",
       "time": "2026-08-18 21:24:10",

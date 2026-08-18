@@ -1,7 +1,110 @@
 {
-  "updated": "2026-08-18 21:25:02",
-  "count": 15158,
+  "updated": "2026-08-18 21:29:01",
+  "count": 15162,
   "items": [
+    {
+      "id": "5046161",
+      "time": "2026-08-18 21:28:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "DLH公司：成為價值4億美元、期限最長可達7年的合同的29家主要承包商之一。"
+    },
+    {
+      "id": "5046160",
+      "time": "2026-08-18 21:27:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "DLH公司：獲得美國海軍網路空間支援專案的多項授予、不定期交付/不確定數量合同。"
+    },
+    {
+      "id": "te:economy:576167",
+      "time": "2026-08-18 21:27:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "US Industrial Output Rises Less than Expected — Industrial production in the United States increased by 0.2% in July 2026, falling short of market expectations for a 0.3% rise, following an upwardly revised 0.3% increase in June. Manufacturing output, which accounts for about 78% of total industrial production, went up 0.2% in July after rising 0.3% in June, in line with forecasts. Manufacturing output excluding motor vehicles and parts increased 0.4%. Mining production increased by 1.3%. Meanwhile, mining output grew 0.2%, and utilities output rose 0.5%, with similarly sized increases in electric and natural gas utilities. Capacity utilization edged up to 76.3%, a rate that is 3.1 percentage points below its long-run (1972–2025) average."
+    },
+    {
+      "id": "5046159",
+      "time": "2026-08-18 21:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際原子能機構說扎波羅熱核電站遭遇“最嚴重事件”】國際原子能機構社交媒體賬號18日發文說，一架無人機當天在扎波羅熱核電站一通勤公交站發生爆炸，造成16人傷亡，並稱這是該核電站有史以來遭遇的“最嚴重事件”。（新華社）"
+    },
+    {
+      "id": "mkt:01a0150d-5ec0-7aab-907b-bd8187b8e9e3",
+      "time": "2026-08-18 21:26:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【IAEA says Zaporizhzhia nuclear plant suffered \"most serious incident\"】The IAEA posted on its social media account on the 18th that a drone exploded at a commuter bus stop at the Zaporizhzhia nuclear plant, causing 16 casualties (killed or injured), and described the event as the plant's most serious incident to date."
+    },
+    {
+      "id": "te:economy:576165",
+      "time": "2026-08-18 21:26:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "US Capacity Utilization Reaches Highest in a Year — US capacity utilization edged up to 76.3% in July 2026, the highest level in a year, from an upwardly revised 76.2% in June, matching market expectations. Despite the modest increase, the utilization rate remained 3.1 percentage points below its 1972-2025 historical average. Among the major sectors, utilities utilization rose the most, increasing 0.2 percentage points to 70%, although it also remained below its historical average. Manufacturing utilization increased 0.1 percentage point to 76%. Mining utilization also rose 0.1 percentage point to 86.1%, staying 0.9 percentage points above its long-term average."
+    },
+    {
+      "id": "5046158",
+      "time": "2026-08-18 21:26:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "家得寶(HD.N)高管：公司在第二季度獲得了7.3億美元的關稅退款。"
+    },
+    {
+      "id": "mkt:01a0150c-f8e2-7aab-907b-b31cdb89fa0f",
+      "time": "2026-08-18 21:26:06",
+      "tags": [
+        "MKT News",
+        "HD.N",
+        "Impact bullish"
+      ],
+      "text": "Home Depot (HD.N) top executive said the company received $730 mln in tariff refunds in the second quarter."
+    },
+    {
+      "id": "mkt:01a0150c-bd59-7aab-907b-ae55928987e2",
+      "time": "2026-08-18 21:25:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE state news agency WAM said Trump discussed cooperation with the United States and ways to deepen U.S.-UAE ties to support shared interests."
+    },
+    {
+      "id": "mkt:01a0150b-d294-7aab-907b-a1374fa27154",
+      "time": "2026-08-18 21:24:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Lala re-intensified to hurricane strength in the central Pacific."
+    },
+    {
+      "id": "5046157",
+      "time": "2026-08-18 21:24:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，熱帶風暴“拉拉”在中太平洋上空再次增強為颶風。"
+    },
     {
       "id": "5046156",
       "time": "2026-08-18 21:24:10",
@@ -139001,66 +139104,6 @@
         "其他"
       ],
       "text": "巴西全國穀物出口商協會（ANEC）預測，巴西8月份玉米出口量將達到517萬噸，高於此前一週預估的408萬噸。"
-    },
-    {
-      "id": "5036045",
-      "time": "2026-08-11 21:27:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦內政部長抵達德黑蘭，受到伊朗內政部長穆梅尼的接待。"
-    },
-    {
-      "id": "mkt:019ff101-e1be-7aab-8ff3-4a02463285ef",
-      "time": "2026-08-11 21:27:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's interior minister arrived in Tehran."
-    },
-    {
-      "id": "te:markets:574448",
-      "time": "2026-08-11 21:27:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "US Dollar Holds Rebound — The dollar index was at the 99.8 mark on Tuesday, holding the rebound from the two-month low of 99.5 on Friday amid fresh pressure on the yen, while markets further assessed the Federal Reserve's policy outlook. Markets mounted on short positions on the Japanese currency after the US Treasury completed its joint intervention on the foreign exchange market with Tokyo. Treasury Secretary Bessent had bought yen with euros in the Exchange Stabilization Fund to prevent Japan from selling more US bonds to defend their currency, but mountain fiscal pressures for Japan and the surge in US long yields drove the dollar to rebound against the yen. Meanwhile, Cleveland Fed President Hammack reiterated her view that a Fed hike is appropriate to combat inflation ahead of tomorrow's CPI report. The data is expected to show that core inflation measures should slow for a second month. Still, the elevated levels of wholesale energy commodities challenge the argument for a hold."
-    },
-    {
-      "id": "5036044",
-      "time": "2026-08-11 21:27:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濰柴動力：暫無開展商業衛星及商業航天用電源電池產品的研發規劃】濰柴動力在互動平臺表示，公司現階段暫無開展商業衛星及商業航天用電源電池產品以及月球基建方向獨立供電產品的研發規劃。"
-    },
-    {
-      "id": "5036043",
-      "time": "2026-08-11 21:26:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【熊貓金控：收到證監會湖南監管局《行政處罰決定書》，被處以700萬元罰款】熊貓金控公告，公司收到中國證監會湖南監管局《行政處罰決定書》。經查，*ST熊貓與昆朋資產的債權轉讓為虛假交易，*ST熊貓為債權轉讓提供資金，後續透過資金拆借掩蓋虛假交易，上述債權由國峻實業控股有限公司代持。依照相關規定，湖南證監局決定：一、對熊貓金控股份有限公司責令改正，給予警告，並處以700萬元罰款；二、對徐金煥給予警告，並處以400萬元罰款；三、對李民給予警告，並處以200萬元罰款；四、對羅春豔給予警告，並處以150萬元罰款；五、對楊恆偉、黃玉岸給予警告，並分別處以100萬元罰款。鑑於徐金煥、李民的相關違法情節嚴重，依據相關規定，湖南證監局決定：對徐金煥採取5年證券市場禁入措施，對李民採取3年證券市場禁入措施。自湖南證監局宣佈決定之日起，在禁入期間內，上述人員除不得繼續在原機構從事證券業務、證券服務業務或者擔任原證券發行人的董事、監事、高階管理人員職務外，也不得在其他任何機構中從事證券業務、證券服務業務或者擔任其他證券發行人的董事、監事、高階管理人員職務。"
-    },
-    {
-      "id": "5036042",
-      "time": "2026-08-11 21:25:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將巴西股票評級從“增持”下調至“中性”。"
-    },
-    {
-      "id": "5036041",
-      "time": "2026-08-11 21:25:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "METINVEST稱俄軍襲擊造成扎波羅熱鋼鐵廠 7 名員工死亡。"
     }
   ]
 }
