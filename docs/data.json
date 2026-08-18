@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-19 02:57:38",
-  "count": 15094,
+  "updated": "2026-08-19 03:01:59",
+  "count": 15087,
   "items": [
+    {
+      "id": "5046429",
+      "time": "2026-08-19 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.29%，報25368.39點，低水102.76點。"
+    },
+    {
+      "id": "5046428",
+      "time": "2026-08-19 02:59:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蓋茨支援的TerraPower將於今年宣佈第二座核電站】TerraPower LLC是美國唯一一家正在建設公用事業級核電站的公司，該公司預計將於今年宣佈其下一個專案——該專案計劃服務於一座資料中心。該公司執行長克里斯·勒貝克（Chris Levesque）表示，這將使這家由比爾·蓋茨支援的公司有望在2027年為其第二個專案破土動工。他拒絕透露客戶身份。"
+    },
     {
       "id": "5046427",
       "time": "2026-08-19 02:54:52",
@@ -138301,81 +138318,6 @@
         "國際"
       ],
       "text": "美國芝加哥商業交易所集團（CME）將推出國家冰球聯盟（NHL）冰球期貨。"
-    },
-    {
-      "id": "mkt:019ff233-3c28-7aab-8ff9-6d81646cb66d",
-      "time": "2026-08-12 03:01:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. MILITARY says the vessel is no longer violating the U.S. blockade en route to Iran."
-    },
-    {
-      "id": "mkt:019ff232-f15f-7aab-8ff9-64cd369277b4",
-      "time": "2026-08-12 03:00:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. military said a U.S. Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the cargo ship Vilanova."
-    },
-    {
-      "id": "mkt:019ff232-3144-7aab-8ff9-582076b820b3",
-      "time": "2026-08-12 03:00:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. military said earlier today that U.S. Central Command forces disabled the steering system of the Panama‑flagged cargo ship Villanova."
-    },
-    {
-      "id": "5036339",
-      "time": "2026-08-12 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.37%，報25531.96點，低水120.86點。"
-    },
-    {
-      "id": "mkt:019ff231-ac15-7aab-8ff9-541dd9d2579d",
-      "time": "2026-08-12 02:59:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "As of Aug. 11 local time, the U.S. military said U.S. Central Command had redirected 55 merchant vessels attempting to breach the blockade, disabled three non-compliant ships and boarded and inspected two."
-    },
-    {
-      "id": "5036338",
-      "time": "2026-08-12 02:58:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：（遭到攻擊後）該船隻不再違反美國封鎖令駛往伊朗。"
-    },
-    {
-      "id": "5036337",
-      "time": "2026-08-12 02:58:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：截至8月11日，中央司令部已引導55艘試圖突破封鎖的商船改變航線，迫使3艘違規船隻喪失航行能力，並對2艘船隻實施了登船檢查。"
-    },
-    {
-      "id": "5036336",
-      "time": "2026-08-12 02:57:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍：今日早些時候，中央司令部部隊癱瘓了懸掛巴拿馬國旗的“維拉諾瓦”號貨輪的轉向系統。"
-    },
-    {
-      "id": "5036335",
-      "time": "2026-08-12 02:57:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍：美國海軍MH-60直升機向“維拉諾瓦”號機艙發射了兩枚“地獄火”導彈。"
     }
   ]
 }
