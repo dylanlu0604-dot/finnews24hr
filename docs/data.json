@@ -1,7 +1,146 @@
 {
-  "updated": "2026-08-18 18:27:15",
-  "count": 15136,
+  "updated": "2026-08-18 18:31:10",
+  "count": 15141,
   "items": [
+    {
+      "id": "5045855",
+      "time": "2026-08-18 18:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米表示，智慧手機業務最困難的時期已經過去。"
+    },
+    {
+      "id": "5045854",
+      "time": "2026-08-18 18:30:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦 KSE‑100 指數盤中暫跌 1.3%，報 178211.30 點 。"
+    },
+    {
+      "id": "te:markets:576120",
+      "time": "2026-08-18 18:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.52% Lower — The SENSEX Index decreased 402 points or 0.52 percent on Tuesday to close at 77326 points. The decline was led by Asian Paints (-2.51%), Infosys (-2.29%) and HCL Tech (-2.26%). On the upside, the strongest performers were Axis Bank (1.44%), Mahindra & Mahindra (0.65%) and Power Grid (0.58%)."
+    },
+    {
+      "id": "5045853",
+      "time": "2026-08-18 18:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州頤能與廣東省開源鴻蒙適配中心簽署戰略合作協議】據潤和軟體訊息，8月18日，廣州潤和頤能軟體技術有限公司（簡稱“廣州頤能”）與廣東省開源鴻蒙適配中心在廣州簽署戰略合作協議。根據協議，雙方將聚焦電力行業鴻蒙化改造、行業示範場景建設、產教融合實訓、生態推廣服務等重點方向，建立長期穩定的戰略合作關係。"
+    },
+    {
+      "id": "mkt:01a0146b-6f97-7aab-9077-8c6b89cc7006",
+      "time": "2026-08-18 18:29:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Tianfu Communication H1 2026 net profit RMB 1.204 bln, up 33.92%】Tianfu Communication reported H1 2026 revenue RMB 2.828 bln, up 15.15% YoY, and net profit attributable to shareholders RMB 1.204 bln, up 33.92% YoY. Management attributed the profit uplift to accelerated global AI adoption and ongoing global data center and AI supercomputing buildouts, which have sustained demand for high‑speed optical components. The company proposed a cash dividend of RMB 5 per 10 shares (tax included)."
+    },
+    {
+      "id": "5045852",
+      "time": "2026-08-18 18:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息報道：以色列對黎巴嫩南部實施炮火打擊。"
+    },
+    {
+      "id": "mkt:01a0146a-dd92-7aab-9077-80e576cb6f6b",
+      "time": "2026-08-18 18:29:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli forces shelled southern Lebanon."
+    },
+    {
+      "id": "mkt:01a0146a-c169-7aab-9077-7d314956ba7c",
+      "time": "2026-08-18 18:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GigaDevice fourth-largest shareholder Ge Weidong raises stake by 185,100 shares in Q2】GigaDevice's 2026 interim report shows fourth-largest shareholder Ge Weidong increased holdings by 185,100 shares versus Q1 to 16,446,700 shares, equal to 2.34% of total share capital."
+    },
+    {
+      "id": "5045851",
+      "time": "2026-08-18 18:28:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛麗家居：提示股價異常波動及收購相關風險】愛麗家居公告稱，2026年7月21日至8月18日，公司累計12個交易日漲停，區間累計漲幅214.80%，截至8月18日收盤價30元/股，靜態市盈率423.11倍，遠高於行業28.99倍的估值水平，股價嚴重偏離基本面，存在非理性炒作風險，若股價進一步異常上漲將申請停牌核查。公司預計2026年半年度歸母淨虧損3450萬元至4050萬元。公司擬現金收購歐康諾不低於77.08%股權，標的估值不超過6.50億元，目前相關盡調、審計評估尚未完成，正式協議未簽署，交易尚需股東會審議，存在中止、終止的不確定性風險。"
+    },
+    {
+      "id": "5045850",
+      "time": "2026-08-18 18:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新里程：擬4.37億元收購澤普醫療51%股權】新里程公告稱，公司或子公司擬以自有及自籌資金合計4.37億元，透過股權轉讓及增資擴股形式取得山東澤普醫療科技有限公司51%股權，其中以1.30億元收購其23.6364%股權，同時以3.07億元向其增資。交易完成後澤普醫療將納入公司合併報表範圍，本次交易預計形成商譽約2.1億元至2.4億元，已獲公司董事會審議透過，無需提交股東會審議，尚需辦理標的股權工商變更登記，最終能否完成存在不確定性。"
+    },
+    {
+      "id": "5045849",
+      "time": "2026-08-18 18:28:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊：2026年半年度淨利潤同比增長33.92%】天孚通訊(300394.SZ)釋出2026年半年度報告，實現營業收入28.28億元，同比增長15.15%；歸屬於上市公司股東的淨利潤12.04億元，同比增長33.92%。業績增長主要得益於全球人工智慧行業加速發展與全球資料中心、AI超算中心建設，帶動高速光器件產品需求持續穩定增長。公司擬向全體股東每10股派發現金紅利5元(含稅)。公司Q2淨利潤7.12億，Q1淨利潤4.92億，據此計算，Q2淨利潤環比增長44%。"
+    },
+    {
+      "id": "5045848",
+      "time": "2026-08-18 18:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達表示重點在於重啟美伊談判。"
+    },
+    {
+      "id": "5045846",
+      "time": "2026-08-18 18:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：我們拒絕伊朗將卡達捲入其內部問題。我們要求雙方全面落實達成的停火計劃。"
+    },
+    {
+      "id": "mkt:01a01469-7dc1-7aab-9077-74e9dd2a056a",
+      "time": "2026-08-18 18:27:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry spokesman said both parties must fully implement the agreed ceasefire plan."
+    },
+    {
+      "id": "5045845",
+      "time": "2026-08-18 18:27:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊吐司推出上架App功能，生成應用可一站式上架應用寶】近日，騰訊應用寶旗下的 AI 應用生成平臺吐司推出了“上架App”能力並上線了“開發者權益包”。使用者在吐司內透過自然語言生成安卓應用後，即可在應用內完成軟體著作權申請、App備案、合規檔案生成等流程，並可一站式提交上架申請，透過稽核後，應用可在應用寶上架分發，供使用者下載使用。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a01468-e684-7aab-9077-6e71b30440cf",
+      "time": "2026-08-18 18:26:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry spokesman said Doha rejects Iran dragging Qatar into its internal affairs."
+    },
     {
       "id": "5045844",
       "time": "2026-08-18 18:26:24",
@@ -138744,103 +138883,6 @@
         "MKT News"
       ],
       "text": "Qatar foreign ministry spokesperson said Qatar supports any measures that ensure security and freedom of navigation in the Strait of Hormuz and prevent the waterway from being used as a tool of political pressure."
-    },
-    {
-      "id": "5035738",
-      "time": "2026-08-11 18:30:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "超大規模資料董事會正考慮所有能最大化股東價值的方案，其中包括出售其位於密歇根州的資料中心的可能性。"
-    },
-    {
-      "id": "5035737",
-      "time": "2026-08-11 18:30:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【碳酸鋰現貨成交偏弱但遠端預期修復 預計下半年逐月去庫】碳酸鋰短期在13-16萬元/噸區間震盪。現貨成交偏弱，但遠端預期修復，月間價差收窄。供給端生產去庫、貿易累庫，倉單高位壓制反彈；8月排產環比增加。需求端鐵鋰訂單飽滿，電池排產走高，步入旺季備貨週期。政策方面，9月起鋰電池徵收消費稅，長期將抬升成本並加速產能出清。預計下半年逐月去庫，年底庫銷比下行。 (Mysteel)"
-    },
-    {
-      "id": "te:markets:574416",
-      "time": "2026-08-11 18:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.49% Lower — The SENSEX Index decreased 388 points or 0.49 percent on Tuesday to close at 78154 points. The decline was led by Nestle India (-2.32%), UltraTech Cement (-2.23%) and Indusind Bank (-1.79%). On the upside, the strongest performers were Tata Consultancy (0.68%), Infosys (0.65%) and HCL Tech (0.60%)."
-    },
-    {
-      "id": "5035736",
-      "time": "2026-08-11 18:30:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晉西車軸：2026年上半年淨利潤1977.5萬元，同比增長42.26%】晉西車軸公告，2026年上半年營業收入6.63億元，同比增長9.11%。歸屬於上市公司股東的淨利潤1977.5萬元，同比增長42.26%；扣除非經常性損益的淨利潤202.83萬元，上年同期為-80.8萬元。"
-    },
-    {
-      "id": "5035735",
-      "time": "2026-08-11 18:30:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "光大銀行：本行執行董事、副行長楊兵兵先生因工作調整向本行董事會提交辭呈，辭去本行執行董事，董事會社會責任、普惠金融發展和消費者權益保護委員會委員及副行長職務。"
-    },
-    {
-      "id": "5035734",
-      "time": "2026-08-11 18:29:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大一省野火失控，逾2萬人撤離 加防長：軍方已進入待命狀態】據美聯社報道，加拿大軍隊當地時間10日已進入待命狀態，準備協助撲滅該國不列顛哥倫比亞省內的致命野火。此前，一名女子已在災情中死亡，逾2萬人連夜撤離家園。 加拿大不列顛哥倫比亞省境內野火快速蔓延，當地政府8日宣佈全省進入緊急狀態。疏散令涵蓋薩默蘭、皮奇蘭等多個地區，逾2萬人連夜逃命。美聯社在11日的最新報道中稱，這場野火被稱為“禿山野火”，至今仍未得到控制。不列顛哥倫比亞省相關機構表示，此次火災面積已擴大至約60平方英里（約155平方公里）。 美聯社報道稱，加拿大國防部長戴維·麥金蒂表示，加拿大武裝部隊與省政府和聯邦政府官員保持密切聯絡，如果不列顛哥倫比亞省正式請求援助，加拿大武裝部隊已做好準備。（環球網）"
-    },
-    {
-      "id": "mkt:019ff05e-7b46-7aab-8fef-99213e776607",
-      "time": "2026-08-11 18:29:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar foreign ministry spokesperson said Doha hopes the international community will pressure Israel to implement the Gaza agreement."
-    },
-    {
-      "id": "5035733",
-      "time": "2026-08-11 18:28:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光：控股子公司增資擴股 引入投資者東方資產】東陽光公告稱，公司控股子公司乳源東陽光氟有限公司擬新增註冊資本777.78萬元，由東方資產以5億元全額認購。公司及全資子公司放棄優先認購權。本次增資完成後，東陽光直接及間接持股比例將由96.9827%降至94.9367%，仍為控股股東。此次交易不構成關聯交易和重大資產重組，已獲董事會透過，無需股東會審議，有利於增強標的公司實力，符合公司發展戰略。"
-    },
-    {
-      "id": "mkt:019ff05e-2952-7aab-8fef-92acec6ff062",
-      "time": "2026-08-11 18:28:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "COMMERZBANK raises its European gas price forecast to €50/MWh for end-2026, up from a prior forecast of €45/MWh."
-    },
-    {
-      "id": "mkt:019ff05d-19a3-7aab-8fef-898d747725f6",
-      "time": "2026-08-11 18:27:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Qatar foreign ministry spokesman said Qatar, acting as mediator, hopes the Strait of Hormuz can be reopened as soon as possible."
-    },
-    {
-      "id": "5035732",
-      "time": "2026-08-11 18:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國商業銀行將2026年末歐洲天然氣價格預測從每兆瓦時45歐元上調至每兆瓦時50歐元。"
     }
   ]
 }
