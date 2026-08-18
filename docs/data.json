@@ -1,7 +1,145 @@
 {
-  "updated": "2026-08-18 14:07:27",
-  "count": 15165,
+  "updated": "2026-08-18 14:11:19",
+  "count": 15172,
   "items": [
+    {
+      "id": "mkt:01a0137e-60bc-7aab-9070-bdae7a9a642f",
+      "time": "2026-08-18 14:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said its air-defence systems destroyed 791 Ukrainian drones overnight across multiple Russian regions."
+    },
+    {
+      "id": "5045318",
+      "time": "2026-08-18 14:10:36",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：首予紫金黃金國際“買入”評級及目標價178港元】花旗發表研報，首予紫金黃金國際“買入”評級，目標價178港元。該行指，紫金礦業持有紫金黃金國際85%股權，並向其提供具豐富經驗的併購團隊。受惠於新收購資產及擴產，紫金黃金國際黃金產量增長速度領先同業，同時有效控制成本及勘探開支。花旗預測紫金黃金國際2025至2028年權益黃金產量複合年增長率達17%，高於同業，主要受Rosebel、Akyem及RG Gold等專案擴產帶動。公司目標2030年礦產金產量達100噸，其中70至75噸來自現有礦山，20至25噸來自潛在併購。"
+    },
+    {
+      "id": "mkt:01a0137e-3667-7aab-9070-b2955bc34d51",
+      "time": "2026-08-18 14:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk appoints Bruno Plantaz as new Global Head of Solutions."
+    },
+    {
+      "id": "5045317",
+      "time": "2026-08-18 14:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基任命布魯諾・普蘭塔茲為新任全球解決方案業務負責人。"
+    },
+    {
+      "id": "mkt:01a0137e-0c37-7aab-9070-a88daa87944b",
+      "time": "2026-08-18 14:10:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a 6.1-magnitude earthquake in Sumatra, Indonesia."
+    },
+    {
+      "id": "5045314",
+      "time": "2026-08-18 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：轉融券標的板塊淨流出超659億】截至目前，今日主力資金淨流出707.42億；淨流入農林牧漁、農業種植、大矽片等板塊，其中農林牧漁板塊淨流入29.70億；淨流出轉融券標的、融資融券、納入富時羅素等板塊，其中轉融券標的板塊淨流出659.85億。\n  \n個股方面，京東方Ａ淨買入5.64億元位居首位，彩虹股份、農業銀行、盈新發展主力資金淨流入居前；中際旭創淨賣出22.13億元位居首位，長鑫科技、新易盛、兆易創新淨流出額居前。"
+    },
+    {
+      "id": "5045313",
+      "time": "2026-08-18 14:09:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量430億元。"
+    },
+    {
+      "id": "te:economy:576006",
+      "time": "2026-08-18 14:09:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "UK Payroll Employment Falls 13K in July — The number of payrolled employees in the UK dropped by 13 thousand to 30.3 million in July 2026, following a revised increase of 13 thousand in June. Compared with a year earlier, employment fell by 0.3%, or 94 thousand. The wholesale and retail sector recorded the biggest annual decline in payroll employment, shedding 75,000 jobs, whereas the administrative and support services sector recorded the largest increase, adding 63,000 employees. Across NUTS3 regions, Camden and City of London experienced a decrease of 1.8% in payrolled employees, while Mid Ulster recorded a 1.5% increase. Meanwhile, median monthly pay rose by 4.2% year-on-year to £2,642, easing slightly from a 4.3% increase in May. Growth in median pay was highest in the health and social work sector (+5.3%) and lowest in the education sector (+3.3%)."
+    },
+    {
+      "id": "5045312",
+      "time": "2026-08-18 14:09:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉爾吉斯斯坦庫姆托爾公司到訪中國瑞林】據中國瑞林訊息，8月17日，中國瑞林黨委書記、董事長、總經理吳潤華在公司總部會見吉爾吉斯斯坦庫姆托爾封閉式股份有限公司（簡稱“庫姆托爾公司”）董事會主席托克托蘇諾夫·卡尼梅特一行。雙方圍繞託戈洛克金礦EPC專案實施、NDI有色產業鏈全流程數智化整體解決方案落地應用，以及拓展深化後續合作等事宜展開深入交流。"
+    },
+    {
+      "id": "5045311",
+      "time": "2026-08-18 14:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞蘇門答臘島附近海域發生6.1級地震。"
+    },
+    {
+      "id": "te:economy:576005",
+      "time": "2026-08-18 14:08:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "UK Jobless Rate Steady at 4.9% — The UK unemployment rate was unchanged at 4.9% in the three months to June 2026, defying expectations for a decline to 4.8%. The number of unemployed people fell by 36 thousand to 1.772 million, driven by a decrease in those unemployed for up to six months. However, unemployment was up by 88 thousand from a year earlier, reflecting an increase in the number of people unemployed for between six and 12 months."
+    },
+    {
+      "id": "5045310",
+      "time": "2026-08-18 14:07:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產作業系統板塊持續走高，中國軟體觸及漲停】國產作業系統板塊持續走高，中國軟體觸及漲停，誠邁科技此前封板，麒麟信安、飛天誠信、東方中科跟漲。"
+    },
+    {
+      "id": "5045309",
+      "time": "2026-08-18 14:07:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌4%，現報37715.00元。"
+    },
+    {
+      "id": "mkt:01a0137b-1741-7aab-9070-a1039c71fa86",
+      "time": "2026-08-18 14:07:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Germany's 10-year government bond yield rose to 3.2231%, the highest since May 2011."
+    },
+    {
+      "id": "5045308",
+      "time": "2026-08-18 14:06:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率<DE10YT=RR>攀升至3.2231%，創2011年5月以來新高。"
+    },
     {
       "id": "5045307",
       "time": "2026-08-18 14:06:31",
@@ -138866,76 +139004,6 @@
         "MKT News"
       ],
       "text": "Reserve Bank of Australia Governor Bullock says the rate outlook remains unbalanced."
-    },
-    {
-      "id": "mkt:019fef72-586d-7aab-8fe9-4387b0c4b444",
-      "time": "2026-08-11 14:11:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia governor Bullock said committee members are at least somewhat concerned about inflation."
-    },
-    {
-      "id": "5035150",
-      "time": "2026-08-11 14:11:05",
-      "tags": [
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "A股*ST聞泰短線異動拉昇，現漲超7%。"
-    },
-    {
-      "id": "5035149",
-      "time": "2026-08-11 14:11:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【實控人慾轉讓價值5億元股份 天合光能回應】8月10日晚間，天合光能釋出《股東詢價轉讓計劃書》，出讓方高紀凡及其一致行動人江蘇盤基投資有限公司本次詢價轉讓的股份數量為3630萬股，佔公司總股本比例為1.55%。公告提及的轉讓原因為“自身資金需求”，轉讓價格下限不低於含8月10日在內的前20個交易日天合光能股票交易均價的70%，即約9.25元/股。而若參照8月10日的收盤價，高紀凡及其一致行動人盤基投資此次詢價轉讓的股份市值約5億元。針對此次股份轉讓計劃，天合光能方面8月11日回應表示：“轉讓是出於個人資金需求及前期債務還款安排，實控人對公司發展前景充滿信心。”(21世紀經濟報道)"
-    },
-    {
-      "id": "mkt:019fef71-672a-7aab-8fe9-3f03ed2cb623",
-      "time": "2026-08-11 14:10:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Four Sichuan banks advance plan for joint wealth-management company; working group formed】A consortium led by Sichuan Rural Commercial Bank, together with Bank of Sichuan, Chengdu Bank and Chengdu Rural Commercial Bank, has moved into a substantive preparatory phase to set up a joint wealth-management company. A special working group has been established and each bank has seconded key staff to the project, with preparatory work underway. The banks say their current proprietary wealth-management operations are focused on maintaining scale, though some institutions continue to show shrinking assets. Since the December 2023 approval of Zhejiang Bank Wealth, no new bank wealth-management company licences have been issued; if approved, the Sichuan joint vehicle would end the licence drought and would be the first wealth-management company set up jointly by multiple banks. It would also be the second western-region bank wealth manager to open after Chongqing Rural Commercial Bank Wealth, filling a regional gap."
-    },
-    {
-      "id": "5035148",
-      "time": "2026-08-11 14:10:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：轉融券標的板塊淨流出超143億】截至目前，今日主力資金淨流出182.60億；淨流入IDC概念（資料中心）、小米概念、光通訊等板塊，其中IDC概念（資料中心）板塊淨流入75.91億；淨流出轉融券標的、標普道瓊斯中國、政府控股等板塊，其中轉融券標的板塊淨流出143.13億。\n  \n個股方面，N超純淨買入22.68億元位居首位，新易盛、中際旭創、東山精密主力資金淨流入居前；紫金礦業淨賣出14.38億元位居首位，洛陽鉬業、工業富聯、中微公司淨流出額居前。"
-    },
-    {
-      "id": "5035147",
-      "time": "2026-08-11 14:09:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【週六福等成立供應鏈運營公司】企查查APP顯示，近日，深圳市喵際供應鏈運營有限公司成立，法定代表人為李偉蓬，經營範圍包含：供應鏈管理服務；包裝服務；資訊科技諮詢服務；物聯網技術服務；國內貿易代理等。企查查股權穿透顯示，該公司由週六福、深圳市從盛安科技有限公司共同持股。"
-    },
-    {
-      "id": "5035144",
-      "time": "2026-08-11 14:08:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：跨境支付是金磚國家關注的領域，因為在降低成本和提高速度方面存在潛力。金磚國家的央行數字貨幣和快速支付系統的聯絡正在討論階段。"
-    },
-    {
-      "id": "mkt:019fef6e-ff6d-7aab-8fe9-369b55c6bd82",
-      "time": "2026-08-11 14:07:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "Reserve Bank of India governor says linking BRICS central bank digital currencies and fast payment systems is under discussion."
     }
   ]
 }
