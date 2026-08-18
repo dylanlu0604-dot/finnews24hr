@@ -1,7 +1,45 @@
 {
   "date": "2026-08-18",
-  "count": 961,
+  "count": 964,
   "items": [
+    {
+      "id": "mkt:01a01333-93ea-7aab-906f-4b076cbae544",
+      "time": "2026-08-18 12:49:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Bond sell-off drives long-term borrowing costs to multi-decade highs】Long-term bonds are the focus of investor anxiety, with concerns from inf to a debt-fueled AI boom driving a global rise in sovereign yields. This week the 30-year US Treasury yield reached its highest since 2007, French borrowing costs hit levels not seen since 2008, German yields are near 2011 highs, UK yields are approaching 6%, and like-maturity Japanese yields are near record highs. While domestic factors differ, the move reflects global structural forces: a more fragmented world raising the risk of supply shocks and persistent inf; worries governments may be unable to rein in spending, sustaining higher rates; and market-structure and demographic shifts that have eroded formerly stable buyer demand. AXA IM Core CIO Chris Iggo said: \"It's hard to judge what yield level would improve total return prospects for long-dated fixed income. Only a sudden weakening in economic data or some external shock would change that picture; the latter appears more likely.\""
+    },
+    {
+      "id": "5045240",
+      "time": "2026-08-18 12:47:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港龍中國地產：前7個月合同銷售金額約8.142億元 同比減少74.16%】港龍中國地產(06968)釋出公告，集團連同其合營公司和聯營公司由2026年1月至7月共實現合同銷售金額約人民幣8.142億元，同比減少74.16%。"
+    },
+    {
+      "id": "mkt:01a01330-ba4f-7aab-906f-4217b59b3825",
+      "time": "2026-08-18 12:45:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan 2-year government bond yield fell 2bps to 1.67%."
+    },
     {
       "id": "5045239",
       "time": "2026-08-18 12:44:59",
