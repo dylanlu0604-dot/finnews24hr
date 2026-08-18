@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-18 10:55:06",
-  "count": 15219,
+  "updated": "2026-08-18 10:58:57",
+  "count": 15223,
   "items": [
+    {
+      "id": "5045120",
+      "time": "2026-08-18 10:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "初步資料顯示，霍爾木茲海峽船隻通行依然緩慢，週一僅有六艘船隻透過。"
+    },
+    {
+      "id": "5045119",
+      "time": "2026-08-18 10:58:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌1%。"
+    },
+    {
+      "id": "mkt:01a012ce-31f1-7aab-906d-b9d6b07aad0b",
+      "time": "2026-08-18 10:58:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell 1%."
+    },
+    {
+      "id": "5045118",
+      "time": "2026-08-18 10:58:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【深交所首單酒店型商業不動產REITs獲批】8月17日，華泰華住安住REIT獲證監會批文，成為深交所首單酒店型商業不動產REITs，也是華泰證券資管獲批的首單商業不動產REITs專案。目前，酒店不動產REITs在國內公募REITs中尚屬於稀缺品類。華泰華住安住REIT的資產專案位於廣州、上海的核心商貿及交通樞紐區域，具備顯著的區位優勢，彙集大量商務客源及會展需求，有望為REITs市場投資者提供更為廣闊的品種選擇。伴隨著首批以及後續商業不動產REITs的逐漸獲批和落地，C-REITs專案底層資產多元化趨勢顯著，種類實現迅速擴充，常態化申報、常態化發行邁入提質增速的全新階段。 (財聯社)"
+    },
+    {
+      "id": "5045117",
+      "time": "2026-08-18 10:58:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "5045116",
+      "time": "2026-08-18 10:57:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌1%至4,693.67點。"
+    },
     {
       "id": "5045115",
       "time": "2026-08-18 10:54:32",
@@ -139450,22 +139501,6 @@
         "Nikkei 225"
       ],
       "text": "Jiji Press cited people familiar with the matter saying the Bank of Japan may consider another rate hike at its Sept. 17-18 policy meeting to address the risk of accelerating inflation."
-    },
-    {
-      "id": "mkt:019feec1-01d3-7aab-8fe5-57a2807fdc3f",
-      "time": "2026-08-11 10:57:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vietnamese aerospace firm VinSpace has signed a contract with SpaceX to launch satellites on a Transporter rideshare mission planned for 2027."
-    },
-    {
-      "id": "5034942",
-      "time": "2026-08-11 10:55:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南綜合性企業Vingroup旗下的VinSpace：與SpaceX簽署衛星發射服務合同，將於2027年透過SpaceX的“拼車”運輸任務發射衛星 。"
     }
   ]
 }
