@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-18 15:04:55",
-  "count": 15150,
+  "updated": "2026-08-18 15:08:49",
+  "count": 15146,
   "items": [
+    {
+      "id": "5045398",
+      "time": "2026-08-18 15:06:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燕京啤酒：2027年1月起實施的啤酒新國標對公司經營無實質影響】燕京啤酒(000729)8月18日在互動平臺表示，2027年1月起實施的啤酒新國標對公司經營無實質影響。公司生產經營始終嚴格對標國家相關標準開展生產，旗下啤酒產品麥芽含量均符合新國標要求。"
+    },
+    {
+      "id": "mkt:01a013b0-4c0d-7aab-9071-e24b1c4e8022",
+      "time": "2026-08-18 15:05:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Sources say an unidentified strike hit a Syrian airbase used for training."
+    },
+    {
+      "id": "5045397",
+      "time": "2026-08-18 15:05:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、當地時間8月17日，特朗普在社交平臺上發文表示，美國“首要的目標，而且始終如此”，是確保伊朗“以任何方式、任何形式”都不能擁有核武器。\n2、據美媒17日報道，美國總統特朗普稱他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，針對此事，伊朗革命衛隊發言人回應稱：“革命衛隊官員與美國人之間根本沒有任何會談。特朗普的謊言純屬幻想。“\n3、當地時間8月17日，特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。\n4、當地時間8月17日，美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。\n5、土總統埃爾多安與美國總統特朗普通電話，呼籲外交解決美國和伊朗之間的問題。\n6、特朗普和加拿大總理卡尼當地時間週一就貿易問題進行了電話會談。\n7、一項民意調查結果顯示，美國總統特朗普的支援率降至33%，創下其第二任期內新低。\n8、知情人士稱，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於在中期選舉中支援共和黨候選人。"
+    },
+    {
+      "id": "5045394",
+      "time": "2026-08-18 15:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "軍方訊息人士：不明空襲擊中一座用於訓練的敘利亞空軍基地。"
+    },
+    {
+      "id": "mkt:01a013af-b5ed-7aab-9071-dd83e1447cc2",
+      "time": "2026-08-18 15:04:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "【A-share close: ChiNext down 0.92%; grain stocks rack up multiple limit-ups】A-shares closed mixed: Shanghai Composite +0.19%, Shenzhen Composite -0.56%, ChiNext -0.92%, Beijing Stock Exchange 50 Index +2.67%. Turnover across Shanghai and Shenzhen was 2.4 trillion yuan, about 13.3 billion yuan higher than the previous session. More than 3,200 stocks fell. Grain/agriculture names led gains, with multiple seed and agricultural stocks — including Qiule Seed, Shennong Seed, Da Bei Nong, Dunhuang Seed, Nongfa Seed, Jingliang Holdings and Longping Hi-Tech — hitting daily limit-ups. Pork names were active: Luoniushan posted a second straight limit-up and Tianbang Food hit the limit. Domestic OS/software plays jumped in the afternoon, with Chengmai Technology, Qilin Xinan and ChinaSoft among limit-ups. Dairy, fertilizer, combustible-ice and glass-substrate sectors outperformed. Kuaishou-related names led declines; Shengyang, Ruijie Networks and Zhongguang Tianze fell more than 7%. Compute-rental stocks underperformed, with Hongbo, Xingyun Technology and Xinkai Xinneng lower; cloud gaming, futures, CRO and Zhipu AI concepts also lagged. The most expensive A-share IPO of the year surged 516.44% on its debut, closing at 1,152 yuan/share."
+    },
     {
       "id": "te:markets:576039",
       "time": "2026-08-18 15:04:02",
@@ -138717,91 +138768,6 @@
         "國際"
       ],
       "text": "澤連斯基：從昨晚開始，我們一直在努力消除俄羅斯對扎波羅熱攻擊的後果。目前，該市已有6人死亡、19人受傷的報告。"
-    },
-    {
-      "id": "5035232",
-      "time": "2026-08-11 15:08:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美不斷收緊移民政策，今年以來吊銷17.5萬份簽證】美國國務院10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。宣告說，美國務院針對各類危害美國公民、宣揚暴力傷害美國人、組織非法生育旅遊、實施詐騙的犯罪分子吊銷簽證，並將動用“一切可用手段”打擊濫用美國簽證的人。（新華社）"
-    },
-    {
-      "id": "mkt:019fefa6-2b8f-7aab-8feb-3654afb90c33",
-      "time": "2026-08-11 15:07:52",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "【China A-shares close: Shanghai Composite Index down 0.82%; robotics spike in afternoon】China A-shares reversed early gains to close lower: Shanghai Composite Index -0.82%, Shenzhen Composite Index -0.40%, ChiNext Index +0.34%. Turnover on the two exchanges topped 2.3 trillion yuan and more than 3,500 stocks fell. Innovative-drug names were intermittently active, with Baihua Medical posting a sixth straight daily limit-up. Robotics stocks surged in the afternoon and MLCC names led sector gains. Non-ferrous metals fell broadly; Luoyang Molybdenum, Zijin Mining and Chifeng Gold were notable decliners."
-    },
-    {
-      "id": "mkt:019fefa5-9ac7-7aab-8feb-28eff50f4f19",
-      "time": "2026-08-11 15:07:15",
-      "tags": [
-        "MKT News",
-        "RIVN.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. National Highway Traffic Safety Administration said Rivian (RIVN.O) is recalling 3,829 U.S. vehicles because turn signals do not function properly, increasing the risk of a collision."
-    },
-    {
-      "id": "5035231",
-      "time": "2026-08-11 15:06:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【芬蘭研究機構：歐盟仍是俄天然氣最大買家】芬蘭能源與清潔空氣研究中心10日釋出的報告顯示，儘管歐盟持續減少對俄羅斯能源的依賴，但仍是俄羅斯液化天然氣和管道天然氣的最大買家。報告說，以7月為例，俄液化天然氣出口總量的49%流向歐盟。在管道天然氣方面，歐盟進口占比為32%。資料顯示，歐盟7月支付俄羅斯約15億歐元（1歐元約合7.78元人民幣），是俄化石燃料第四大買家。在俄能源出口收入中，管道天然氣和液化天然氣分別貢獻5.61億歐元和5.26億歐元。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fefa4-f846-7aab-8feb-24642a18d003",
-      "time": "2026-08-11 15:06:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. National Highway Traffic Safety Administration said Tesla (TSLA.O) is recalling 20,349 U.S. vehicles because low-beam headlights may be excessively bright, potentially reducing visibility for oncoming drivers and increasing collision risk."
-    },
-    {
-      "id": "5035230",
-      "time": "2026-08-11 15:06:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年度電影總票房突破245億 國產電影強勢領跑】據網路平臺資料，截至8月11日，2026年度電影總票房（含預售）突破245億元，《飛馳人生3》《功夫女足》《給阿嬤的情書》暫列2026年度電影票房榜前三。（央視財經）"
-    },
-    {
-      "id": "mkt:019fefa4-7336-7aab-8feb-19fe92132f0e",
-      "time": "2026-08-11 15:05:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China's 2026 box office surpasses 24.5 bln yuan; domestic films lead】Online platform data show that as of Aug 11, 2026 China’s total 2026 box office (including presales) exceeded 24.5 billion yuan. Domestic releases Pegasus 3, Kung Fu Women's Football and A Letter to Grandma rank first through third on the 2026 box-office chart."
-    },
-    {
-      "id": "mkt:019fefa3-9e96-7aab-8feb-106abca1642e",
-      "time": "2026-08-11 15:05:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The National Institute of Economic Research (NIER) expects Sweden's CPIF inflation at 1.3% in 2026, unchanged from its June forecast, and at 2.1% in 2027, down from June's 2.2%."
-    },
-    {
-      "id": "5035229",
-      "time": "2026-08-11 15:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【路易威登位於K11 MUSEA的旗艦店申請酒牌】奢侈品牌巨頭路易威登位於尖沙咀K11 MUSEA的旗艦店已申請酒牌。該旗艦店佔地4萬平方英尺，預計將於今年年底開業。酒牌申請人為JUDEAUX, VICTOR BERNARD，其職務為LV現任北亞區款待業務總監。尖沙咀店預計將開設香港首家Le Café及LV The Place Hong Kong。路易威登已在曼谷和首爾開設了類似的概念店。"
     }
   ]
 }

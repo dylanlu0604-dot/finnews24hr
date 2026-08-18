@@ -1,7 +1,58 @@
 {
   "date": "2026-08-18",
-  "count": 1215,
+  "count": 1220,
   "items": [
+    {
+      "id": "5045398",
+      "time": "2026-08-18 15:06:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燕京啤酒：2027年1月起實施的啤酒新國標對公司經營無實質影響】燕京啤酒(000729)8月18日在互動平臺表示，2027年1月起實施的啤酒新國標對公司經營無實質影響。公司生產經營始終嚴格對標國家相關標準開展生產，旗下啤酒產品麥芽含量均符合新國標要求。"
+    },
+    {
+      "id": "mkt:01a013b0-4c0d-7aab-9071-e24b1c4e8022",
+      "time": "2026-08-18 15:05:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Sources say an unidentified strike hit a Syrian airbase used for training."
+    },
+    {
+      "id": "5045397",
+      "time": "2026-08-18 15:05:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、當地時間8月17日，特朗普在社交平臺上發文表示，美國“首要的目標，而且始終如此”，是確保伊朗“以任何方式、任何形式”都不能擁有核武器。\n2、據美媒17日報道，美國總統特朗普稱他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，針對此事，伊朗革命衛隊發言人回應稱：“革命衛隊官員與美國人之間根本沒有任何會談。特朗普的謊言純屬幻想。“\n3、當地時間8月17日，特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。\n4、當地時間8月17日，美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。\n5、土總統埃爾多安與美國總統特朗普通電話，呼籲外交解決美國和伊朗之間的問題。\n6、特朗普和加拿大總理卡尼當地時間週一就貿易問題進行了電話會談。\n7、一項民意調查結果顯示，美國總統特朗普的支援率降至33%，創下其第二任期內新低。\n8、知情人士稱，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於在中期選舉中支援共和黨候選人。"
+    },
+    {
+      "id": "5045394",
+      "time": "2026-08-18 15:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "軍方訊息人士：不明空襲擊中一座用於訓練的敘利亞空軍基地。"
+    },
+    {
+      "id": "mkt:01a013af-b5ed-7aab-9071-dd83e1447cc2",
+      "time": "2026-08-18 15:04:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "【A-share close: ChiNext down 0.92%; grain stocks rack up multiple limit-ups】A-shares closed mixed: Shanghai Composite +0.19%, Shenzhen Composite -0.56%, ChiNext -0.92%, Beijing Stock Exchange 50 Index +2.67%. Turnover across Shanghai and Shenzhen was 2.4 trillion yuan, about 13.3 billion yuan higher than the previous session. More than 3,200 stocks fell. Grain/agriculture names led gains, with multiple seed and agricultural stocks — including Qiule Seed, Shennong Seed, Da Bei Nong, Dunhuang Seed, Nongfa Seed, Jingliang Holdings and Longping Hi-Tech — hitting daily limit-ups. Pork names were active: Luoniushan posted a second straight limit-up and Tianbang Food hit the limit. Domestic OS/software plays jumped in the afternoon, with Chengmai Technology, Qilin Xinan and ChinaSoft among limit-ups. Dairy, fertilizer, combustible-ice and glass-substrate sectors outperformed. Kuaishou-related names led declines; Shengyang, Ruijie Networks and Zhongguang Tianze fell more than 7%. Compute-rental stocks underperformed, with Hongbo, Xingyun Technology and Xinkai Xinneng lower; cloud gaming, futures, CRO and Zhipu AI concepts also lagged. The most expensive A-share IPO of the year surged 516.44% on its debut, closing at 1,152 yuan/share."
+    },
     {
       "id": "te:markets:576039",
       "time": "2026-08-18 15:04:02",
