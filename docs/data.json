@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-19 04:06:15",
-  "count": 15108,
+  "updated": "2026-08-19 04:10:04",
+  "count": 15107,
   "items": [
+    {
+      "id": "mkt:01a0167d-6a8f-7aab-9081-ca207c66ce2d",
+      "time": "2026-08-19 04:08:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-5.1 earthquake in Afghanistan at 03:51 on Aug 19 at 36.45N, 70.80E; hypocenter depth 200 km."
+    },
+    {
+      "id": "5046477",
+      "time": "2026-08-19 04:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月19日03時51分在阿富汗（北緯36.45度，東經70.80度）發生5.1級地震，震源深度200千米。"
+    },
+    {
+      "id": "5046476",
+      "time": "2026-08-19 04:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特公共投資基金（PIF）去年管理資產規模縮水100億美元，降至約9000億美元。"
+    },
+    {
+      "id": "mkt:01a0167a-e9bc-7aab-9081-c23a6379d205",
+      "time": "2026-08-19 04:05:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed lower on Tuesday, August 18: Dow Jones Industrial Average down 116.20 points (-0.22%) at 53,343.58; S&P 500 down 53.15 points (-0.69%) at 7,691.91; Nasdaq Composite down 355.20 points (-1.33%) at 26,289.71."
+    },
     {
       "id": "mkt:01a01678-0ae5-7aab-9081-b925325a2f12",
       "time": "2026-08-19 04:02:40",
@@ -138455,49 +138493,6 @@
         "其他"
       ],
       "text": "CoreWeave二季度營收25.8億美元，分析師預期25.6億美元。"
-    },
-    {
-      "id": "5036374",
-      "time": "2026-08-12 04:09:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國參議院Sanders發函，要求OpenAI、Anthropic、Meta等眾多AI公司暫停開發。"
-    },
-    {
-      "id": "5036373",
-      "time": "2026-08-12 04:09:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Oracle 部分團隊裁員比例或將達到兩位數。"
-    },
-    {
-      "id": "mkt:019ff271-4b95-7aab-8ffa-4e2f3d2afd57",
-      "time": "2026-08-12 04:08:58",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bearish"
-      ],
-      "text": "Business Insider cites sources saying Oracle (ORCL.N) has drawn up a new round of layoffs, slated to be implemented this month."
-    },
-    {
-      "id": "5036372",
-      "time": "2026-08-12 04:07:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Anthropic 將向 EROCK 採購約 470 兆瓦電力裝置。"
-    },
-    {
-      "id": "mkt:019ff26f-63e8-7aab-8ffa-4453e9bc5c26",
-      "time": "2026-08-12 04:06:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pezeshkian says strengthening ties with Pakistan would help regional security】Iranian President Pezeshkian, after meeting Pakistan Interior Minister Naqvi, said Tehran is willing to deepen relations with Islamabad across political, economic, trade, cultural and security fields and that stronger bilateral cooperation would \"enhance regional stability and security.\" Naqvi called Iran-Pakistan ties \"firm and unbreakable\" and said Islamabad is determined to expand relations with Tehran."
     }
   ]
 }
