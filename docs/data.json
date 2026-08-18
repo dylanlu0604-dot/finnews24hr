@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-19 02:11:07",
-  "count": 15092,
+  "updated": "2026-08-19 02:15:01",
+  "count": 15095,
   "items": [
+    {
+      "id": "mkt:01a01614-a1b0-7aab-9080-3aeb04024124",
+      "time": "2026-08-19 02:14:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said frontier reinforcement-learning training in its largest-scale program remains paused pending completion of safety verification."
+    },
+    {
+      "id": "mkt:01a01614-312a-7aab-9080-322bf398c023",
+      "time": "2026-08-19 02:13:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will temporarily slow its expansion, including a two-week pause in reinforcement-learning training on newly deployed models."
+    },
+    {
+      "id": "5046407",
+      "time": "2026-08-19 02:12:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：規模最大的既定前沿模型強化學習訓練任務仍處於暫停狀態，等待安全驗證完成。"
+    },
+    {
+      "id": "5046406",
+      "time": "2026-08-19 02:12:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門親政府武裝稱，沙卜瓦省東南部發生無人機襲擊，多名胡塞武裝人員身亡，多輛軍用車輛被毀。"
+    },
+    {
+      "id": "mkt:01a01612-a879-7aab-9080-29463acf550e",
+      "time": "2026-08-19 02:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas said the group and Palestinian factions remain committed to advancing the agreement."
+    },
+    {
+      "id": "5046405",
+      "time": "2026-08-19 02:11:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：暫時放緩模型擴容節奏，其中包括暫停兩週對擬上線最新模型的強化學習訓練。"
+    },
+    {
+      "id": "mkt:01a01612-5124-7aab-9080-21cb282c6765",
+      "time": "2026-08-19 02:11:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Hamas said recent Israeli strikes in Gaza indicate Netanyahu is attempting to \"deliberately sabotage negotiations and undermine\" regional and international efforts to advance Trump's plan."
+    },
     {
       "id": "mkt:01a01611-633b-7aab-9080-19a17b4971d5",
       "time": "2026-08-19 02:10:33",
@@ -138311,44 +138374,6 @@
         "MKT News"
       ],
       "text": "President Zelenskiy said Ukraine has submitted a proposal to the U.S. negotiating representative to end the war with Russia."
-    },
-    {
-      "id": "te:markets:574500",
-      "time": "2026-08-12 02:13:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Back Above $88 — Brent prices remained volatile on Tuesday, swinging between gains and losses before rising above $88 a barrel as traders weighed conflicting signals over developments in the Middle East. Prices initially came under pressure after Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the US and Iran were “close to some sort of arrangement,” with conditions appearing to move in favor of peace. Reports that talks between Iran and Oman on reopening the Strait of Hormuz to some maritime shipping had reached an advanced stage also fueled optimism. However, the gains were tempered by uncertainty over whether the strategic waterway will actually reopen. A senior Iranian official said the Strait of Hormuz would remain closed until Tehran’s conditions are met by Washington. On Monday, US President Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
-    },
-    {
-      "id": "5036313",
-      "time": "2026-08-12 02:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方評估認為，伊朗的優先事項已從核武器轉向霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019ff206-bc63-7aab-8ff8-d76a049d42cd",
-      "time": "2026-08-12 02:12:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's prime minister said military institutions' capabilities must be strengthened to ensure domestic stability."
-    },
-    {
-      "id": "te:markets:574499",
-      "time": "2026-08-12 02:11:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Swing — Crude oil prices remained volatile on Tuesday, swinging between gains and losses before rising above $83 a barrel as traders weighed conflicting signals over developments in the Middle East. Prices initially came under pressure after Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the US and Iran were “close to some sort of arrangement,” with conditions appearing to move in favor of peace. Reports that talks between Iran and Oman on reopening the Strait of Hormuz to some maritime shipping had reached an advanced stage also fueled optimism. However, the gains were tempered by uncertainty over whether the strategic waterway will actually reopen. A senior Iranian official said the Strait of Hormuz would remain closed until Tehran’s conditions are met by Washington. On Monday, US President Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
     }
   ]
 }

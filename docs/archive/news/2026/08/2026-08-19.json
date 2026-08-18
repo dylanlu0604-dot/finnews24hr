@@ -1,7 +1,70 @@
 {
   "date": "2026-08-19",
-  "count": 94,
+  "count": 101,
   "items": [
+    {
+      "id": "mkt:01a01614-a1b0-7aab-9080-3aeb04024124",
+      "time": "2026-08-19 02:14:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said frontier reinforcement-learning training in its largest-scale program remains paused pending completion of safety verification."
+    },
+    {
+      "id": "mkt:01a01614-312a-7aab-9080-322bf398c023",
+      "time": "2026-08-19 02:13:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will temporarily slow its expansion, including a two-week pause in reinforcement-learning training on newly deployed models."
+    },
+    {
+      "id": "5046407",
+      "time": "2026-08-19 02:12:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：規模最大的既定前沿模型強化學習訓練任務仍處於暫停狀態，等待安全驗證完成。"
+    },
+    {
+      "id": "5046406",
+      "time": "2026-08-19 02:12:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門親政府武裝稱，沙卜瓦省東南部發生無人機襲擊，多名胡塞武裝人員身亡，多輛軍用車輛被毀。"
+    },
+    {
+      "id": "mkt:01a01612-a879-7aab-9080-29463acf550e",
+      "time": "2026-08-19 02:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hamas said the group and Palestinian factions remain committed to advancing the agreement."
+    },
+    {
+      "id": "mkt:01a01612-5124-7aab-9080-21cb282c6765",
+      "time": "2026-08-19 02:11:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Hamas said recent Israeli strikes in Gaza indicate Netanyahu is attempting to \"deliberately sabotage negotiations and undermine\" regional and international efforts to advance Trump's plan."
+    },
+    {
+      "id": "5046405",
+      "time": "2026-08-19 02:11:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：暫時放緩模型擴容節奏，其中包括暫停兩週對擬上線最新模型的強化學習訓練。"
+    },
     {
       "id": "mkt:01a01611-633b-7aab-9080-19a17b4971d5",
       "time": "2026-08-19 02:10:33",
