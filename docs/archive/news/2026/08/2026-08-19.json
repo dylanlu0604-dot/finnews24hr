@@ -1,7 +1,98 @@
 {
   "date": "2026-08-19",
-  "count": 24,
+  "count": 33,
   "items": [
+    {
+      "id": "mkt:01a015c0-5620-7aab-907f-2b3935247479",
+      "time": "2026-08-19 00:42:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Global supply squeeze intensifies as US diesel margin tops $100/bbl】US diesel refining margin (diesel crack spread) has surged above $100/bbl, a record level amid tightening global fuel production. The diesel crack hovered around $100/bbl on Tuesday, slightly below a prior peak above $102/bbl; it first closed above $100/bbl on Monday. Before this year the metric had never exceeded $89/bbl; the previous record was set in October 2022 during a diesel shortage ahead of winter. A combination of factors has created a near \"perfect storm\" pushing diesel prices higher and may lift winter heating costs and add renewed inflationary pressure."
+    },
+    {
+      "id": "mkt:01a015c0-48bc-7aab-907f-271f7d368fc1",
+      "time": "2026-08-19 00:41:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Interfax reported Russian Foreign Minister Lavrov said Russia has the right to treat UK missile forces directly involved in strikes on Russia as participants in the conflict."
+    },
+    {
+      "id": "5046374",
+      "time": "2026-08-19 00:41:41",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Anthropic 上市前信貸安排規模預計將突破 100 億美元目標。"
+    },
+    {
+      "id": "5046373",
+      "time": "2026-08-19 00:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫：我們有權將英國導彈部隊直接參與打擊俄羅斯的行為視作介入衝突。"
+    },
+    {
+      "id": "5046372",
+      "time": "2026-08-19 00:35:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市錄得去年年末以來最長連跌 成交量接近年內最低水平】隨著美國與伊朗之間緊張局勢升溫，油價和債券收益率上漲，歐洲股市錄得今年以來的最長連跌。歐洲斯托克600指數週二收跌0.7%，連續第五個交易日走低。上一次出現這樣的連跌是在2025年11月。科技股表現最差，其中Soitec和Austria Technologie & Systemtechnik AG等硬體股領跌。能源股則上漲，布倫特原油升破每桶90美元，此前美國總統特朗普表示，目前沒有與伊朗進行談判。此輪下跌之前，強勁的財報季曾推動該指數創下紀錄高位。隨著企業財報釋出節奏放緩，投資者正在評估油價上漲帶來的通脹影響，以及人工智慧支出增加的影響。歐洲股市成交量目前接近年內最低水平，夏季流動性清淡可能進一步放大市場波動。"
+    },
+    {
+      "id": "5046371",
+      "time": "2026-08-19 00:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋國防部：一枚導彈落入領海以外海域，另一枚則墜入領海範圍內。"
+    },
+    {
+      "id": "5046370",
+      "time": "2026-08-19 00:34:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿聯酋國防部稱，其探測到兩枚從伊朗發射的彈道導彈。"
+    },
+    {
+      "id": "5046369",
+      "time": "2026-08-19 00:33:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀指英偉達遭低估且折價或深達50%】美國銀行認為，英偉達的股價被嚴重低估，從而造就了“一個極具吸引力的機會”，因投資者誇大了這家AI晶片龍頭企業面臨的風險。分析師Vivek Arya在研報中寫道：““我們基於自由現金流用途的概念性分部估值法顯示，即便考慮進融資風險，該股仍有34%至50%的折讓”。美銀指出，對這種折讓的“最有力反推”可能是將更大比例的自由現金流用於股票回購來提高投資者的現金回報。但也表示若人工智慧需求放緩，英偉達的增長率和資產負債表都可能面臨壓力。"
+    },
+    {
+      "id": "te:markets:576220",
+      "time": "2026-08-19 00:31:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Pull Back — European stocks closed firmly lower on Tuesday, tracking a negative session for global equities as longer-term bond yields extended their increase. The Euro STOXX 50 lost 0.9% to 6,473 and the STOXX Europe 600 fell 0.6% to 652. Sovereign yields in Europe's largest economies rose sharply in the session, tracking those in North America as soaring levels of debt issuance by AI giants took the market's forefront. This magnified stretched deficit spending both in the US and the Eurozone, adding to concerns of rate hikes by central banks. ASML sank 5% and Infineon lost more than 7%, erasing gains from the last sessions. Meanwhile, Schneider Electric and Siemens fell 4.5% and 2.3%, while Siemens Energy fell 5.5%, aligned with losses in AI infrastructure."
+    },
     {
       "id": "5046368",
       "time": "2026-08-19 00:28:04",
