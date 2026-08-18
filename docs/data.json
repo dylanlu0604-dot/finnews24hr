@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-18 22:35:52",
-  "count": 15152,
+  "updated": "2026-08-18 22:40:11",
+  "count": 15139,
   "items": [
+    {
+      "id": "5046265",
+      "time": "2026-08-18 22:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：由於預計拉拉颱風將轉向北行，帕帕哈瑙莫誇基亞海洋國家紀念碑部分割槽域已釋出預警。"
+    },
+    {
+      "id": "5046264",
+      "time": "2026-08-18 22:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "ETS與PASSAGE宣佈建立戰略合作伙伴關係，共同革新全球人才發展路徑。"
+    },
+    {
+      "id": "5046263",
+      "time": "2026-08-18 22:35:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "QUALCO GROUP SA：將為希臘衛生部提供網路平臺，並協助評估約4000處房產。"
+    },
     {
       "id": "mkt:01a0154b-e4c1-7aab-907d-3c4a8c9e4e7d",
       "time": "2026-08-18 22:34:50",
@@ -138848,165 +138872,6 @@
         "其他"
       ],
       "text": "【南方電網用電負荷今年五創新高 突破2.78億千瓦】據南方電網訊息，8月11日17時16分，南方電網用電負荷突破2.78億千瓦，今年第五次創歷史新高。當天中午，廣東最高用電負荷達1.76億千瓦，今年第四次創新高，廣東省內陽江、汕頭、揭陽、潮州等地市用電負荷創歷史新高。據南方電網預測，8月份，南方電網用電負荷仍將持續高位執行，最高負荷或達2.83億千瓦，較去年同期增長12.9%。"
-    },
-    {
-      "id": "5036154",
-      "time": "2026-08-11 22:39:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：該指南代表本機構目前關於防控鮮切農產品汙染相關問題的最新思路。"
-    },
-    {
-      "id": "5036153",
-      "time": "2026-08-11 22:39:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "肯亞央行維持基準利率在8.75%不變；預計利率為8.75%。"
-    },
-    {
-      "id": "mkt:019ff143-8e55-7aab-8ff5-0fe21fc57c58",
-      "time": "2026-08-11 22:39:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Atlanta Fed first vice president Venable said there are \"subtle risks\" to the Fed's inflation and employment mandates."
-    },
-    {
-      "id": "5036152",
-      "time": "2026-08-11 22:39:07",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "亞特蘭大聯儲第一副總裁維納布林：美聯儲的通脹與就業使命存在“細微風險。"
-    },
-    {
-      "id": "5036151",
-      "time": "2026-08-11 22:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局根據《人類食品預防性控制規則》敲定即食鮮切農產品生產操作指南。"
-    },
-    {
-      "id": "mkt:019ff142-e81a-7aab-8ff5-043fc32007ff",
-      "time": "2026-08-11 22:38:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Atlanta Fed first vice president Venable said the Fed’s assessment of maximum employment is being affected by a stagnating labor supply, which is \"an unusual situation\" for the United States."
-    },
-    {
-      "id": "5036150",
-      "time": "2026-08-11 22:38:36",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "亞特蘭大聯儲第一副總裁維納布林：最大化就業的理解受到勞動力供應停滯的影響，這對美國而言是一種“異常情況”。"
-    },
-    {
-      "id": "mkt:019ff142-86da-7aab-8ff4-fe21ab9d796d",
-      "time": "2026-08-11 22:38:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Atlanta Fed first vice president Venable said the key question is whether price pressures will ease over the coming months, which will largely depend on the outcome of the Middle East conflict."
-    },
-    {
-      "id": "te:markets:574473",
-      "time": "2026-08-11 22:38:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuit Stock Price Hits 10-week High — Intuit shares increased to 337.05 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 16.27%, and in the last 12 months, it decreased 52.78%."
-    },
-    {
-      "id": "mkt:019ff142-591d-7aab-8ff4-f6c51bce10a2",
-      "time": "2026-08-11 22:38:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Atlanta Fed first vice president said the U.S. labor market is broadly stable."
-    },
-    {
-      "id": "mkt:019ff142-584c-7aab-8ff4-eac93313b25f",
-      "time": "2026-08-11 22:38:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Atlanta Fed first vice president Venable said inflation remains too high and contacts in the Southeast report the same."
-    },
-    {
-      "id": "5036149",
-      "time": "2026-08-11 22:37:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所倫敦可可期貨<LCCc2>下跌近6%，至每噸4038英鎊。"
-    },
-    {
-      "id": "5036148",
-      "time": "2026-08-11 22:37:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "火箭實驗室執行長：從未見過火箭行業處境如此窘迫。"
-    },
-    {
-      "id": "5036147",
-      "time": "2026-08-11 22:37:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "亞特蘭大聯儲銀行維納布林：核心問題在於未來數月價格壓力是否會緩解，而局勢走向很大程度上取決於中東衝突的結局。"
-    },
-    {
-      "id": "mkt:019ff140-d34f-7aab-8ff4-e48fe0e89f7a",
-      "time": "2026-08-11 22:36:25",
-      "tags": [
-        "MKT News",
-        "RKLB.O",
-        "Impact bullish"
-      ],
-      "text": "Rocket Lab says it aims to complete the maiden launch of its Neutron rocket this year."
-    },
-    {
-      "id": "5036146",
-      "time": "2026-08-11 22:35:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "亞特蘭大聯儲銀行維納布林：通脹水平仍過高，東南部各受訪機構反饋一致。"
     }
   ]
 }
