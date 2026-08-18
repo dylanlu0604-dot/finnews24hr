@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-18 10:47:12",
-  "count": 15224,
+  "updated": "2026-08-18 10:51:09",
+  "count": 15219,
   "items": [
+    {
+      "id": "5045110",
+      "time": "2026-08-18 10:48:47",
+      "tags": [
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【麥格理：美國在聯合干預中或僅買進5億美元的日元 示範效應的震撼大】麥格理外匯及利率策略主管Gareth Berry表示，美日聯合干預對日元產生的“示範效應”，其“震撼遠大於干預資金的規模”。Berry在最近的一份報告中寫道：“我們估計，美國當局在7月31日週五賣出價值5億美元的歐元兌日元。”“從規模上看，這與日本在7月30日至31日兩天內估計賣出約850億美元的美元兌日元相比，只是小菜一碟。”鑑於美國上個月在干預行動中花費相對較少，因此可見“火力依然充足”。“光是美國財政部與美聯儲合計，就能單獨調動高達259億美元的歐元計價儲備，因此如果日元再度走軟，他們完全有能力以類似規模、多次干預歐元兌日元。”理論上講，如果美國轉而干預美元兌日元，那麼彈藥幾乎是無限的。"
+    },
+    {
+      "id": "5045109",
+      "time": "2026-08-18 10:47:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4651.60點。"
+    },
+    {
+      "id": "mkt:01a012c3-c1d4-7aab-906d-aefe124999a7",
+      "time": "2026-08-18 10:46:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 500 index futures (IC) main contract fell 1.00% intraday to 7,986.4 points."
+    },
     {
       "id": "mkt:01a012c3-8828-7aab-906d-a0427a37202a",
       "time": "2026-08-18 10:46:39",
@@ -139429,91 +139461,6 @@
         "MKT News"
       ],
       "text": "CENC measured a magnitude-3.4 earthquake at 10:46 on Aug 11 in Gao County, Yibin, Sichuan (28.54°N, 104.66°E); focal depth 5 km."
-    },
-    {
-      "id": "mkt:019feebb-02d5-7aab-8fe5-3793aee28a01",
-      "time": "2026-08-11 10:51:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【Huawei to provide Ascend compute devices to Beijing Data Group under strategic cooperation intent】Beijing Data Group and Huawei reached a strategic cooperation intent on Aug. 7 to deepen collaboration on compute clusters and city-level compute infrastructure. Beijing Data Group unit Tongniu Information will participate in Beijing’s city-level compute infrastructure construction, coordinating deployment, daily operations and compute services for the group’s proprietary compute clusters. Huawei will supply advanced Ascend compute devices plus full technical solutions and service support to build a Beijing city-level trusted compute foundation and provide stable, reliable compute capacity for the city’s digital-intelligence initiatives."
-    },
-    {
-      "id": "5034936",
-      "time": "2026-08-11 10:50:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈爾濱哈深私募基金被監管採取責令改正措施】8月11日，黑龍江證監局披露，經查，哈爾濱哈深私募基金管理有限公司存在以下行為：一是專職人員不足5人；二是與股東辦公場地混同；三是未建立關聯交易制度；四是從事與私募基金管理無關的諮詢服務。黑龍江證監局決定，對該公司採取責令改正行政監管措施，該公司應按照相關法律法規要求加強整改，並於收到決定書之日起30日內向監管提交書面整改報告。"
-    },
-    {
-      "id": "mkt:019feeba-946b-7aab-8fe5-2e95a794388a",
-      "time": "2026-08-11 10:50:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-share humanoid-robot theme rallied after intraday volatility; Siling Zhiqu surged more than 10%, with Tuo Si Da, Wuzhou Xinchun, Orbbec, Beizi Technology and Sanhua Intelligent Controls also trading higher."
-    },
-    {
-      "id": "te:economy:574258",
-      "time": "2026-08-11 10:50:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Reverse Repo Rate",
-        "Importance 1"
-      ],
-      "text": "PBoC Skips Seven-Day Reverse Repos for First Time Since June — The People’s Bank of China (PBoC) conducted zero seven-day reverse repos in open market operations on Tuesday, according to an online statement, marking the first time since June that it injected no liquidity through the short-term tool. The move was made in response to demand from primary dealers and came as the central bank continued to use reverse repos flexibly to fine-tune liquidity conditions in the banking system. The absence of an injection suggests the central bank saw limited need to provide additional short-term funds, while allowing existing liquidity conditions to guide operations."
-    },
-    {
-      "id": "5034935",
-      "time": "2026-08-11 10:50:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用汽車據悉接近達成2交易，將計劃中的電池合資企業的一半股份出售給三星SDI。"
-    },
-    {
-      "id": "5034934",
-      "time": "2026-08-11 10:48:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人形機器人概念震盪拉昇 斯菱智驅漲超10%】人形機器人概念震盪拉昇，斯菱智驅漲超10%，拓斯達、五洲新春、奧比中光、北自科技、三花智控跟漲。"
-    },
-    {
-      "id": "5034933",
-      "time": "2026-08-11 10:48:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國財長：單股槓桿ETF交易規模大幅縮減，將採取一切可能措施降低市場波動性】據報道，韓國副總理兼財政經濟部長官具潤哲8月11日表示，實施針對單一股票槓桿ETF的應對措施後，交易規模已從7月30日的12.4萬億韓元縮減至8月7日的8000億韓元，較6月25日的19.4萬億韓元峰值減少近96%，“將採取一切可能的政策措施降低市場波動性”。"
-    },
-    {
-      "id": "mkt:019feeb8-940f-7aab-8fe5-23a39d92cb17",
-      "time": "2026-08-11 10:48:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Gains widened in crude-related futures: low-sulfur fuel oil (LU) most-active contract up over 5%, while fuel oil and SC crude most-active contracts rose more than 4%."
     }
   ]
 }
