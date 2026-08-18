@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-18 23:26:13",
+  "updated": "2026-08-18 23:30:16",
   "count": 15190,
   "items": [
+    {
+      "id": "mkt:01a0157e-1834-7aab-907e-8dfaabfcd228",
+      "time": "2026-08-18 23:29:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UGI shares rose 11.3% after KKR made a $9 bln takeover offer for the U.S. energy distributor."
+    },
+    {
+      "id": "5046333",
+      "time": "2026-08-18 23:27:44",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀調查：基金經理股票配置升至近五年最高 空頭幾乎絕跡】美國銀行的Michael Hartnett表示，全球投資者進一步提高股票持倉，股票配置升至近五年來最高水平，市場幾乎沒有給悲觀者留下空間。Hartnett為首的美銀策略師團隊在報告中寫道，美銀最新行業調查顯示，淨56%的基金經理超配股票，佔比為2021年11月以來最高。現金配置則降至“極低”的3.5%。報告稱，市場共識是經濟不會出現明顯“著陸”、美聯儲不會加息、AI資本開支不會削減、民主黨不會在中期選舉中大勝。他們認為當前倉位仍意味著投資者更應在風險資產內部撤退或輪動，而不是進一步加倉，報告重申了近期轉向更防禦性市場板塊的觀點。8月調查顯示，投資者預計美聯儲在11月中期選舉前不會加息，民主黨的選舉表現不足以削弱股市的強勁勢頭。基金經理的普遍看法是，經濟不會出現明顯惡化，而大舉投資人工智慧基礎設施的公司也會繼續維持支出。"
+    },
+    {
+      "id": "mkt:01a0157b-edc1-7aab-907e-806c2f904d61",
+      "time": "2026-08-18 23:27:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US crude futures rose more than $1 intraday as prospects for a US-Iran peace deal faded."
+    },
     {
       "id": "5046332",
       "time": "2026-08-18 23:23:36",
@@ -139323,38 +139353,6 @@
         "MKT News"
       ],
       "text": "Mexico registered unemployed in July: 19,550 people."
-    },
-    {
-      "id": "te:economy:574484",
-      "time": "2026-08-11 23:30:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Zambia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.81%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 2.00 basis points, and in the last 12 months, it decreased 271.80 basis points."
-    },
-    {
-      "id": "5036196",
-      "time": "2026-08-11 23:29:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱：條件未滿足，霍爾木茲海峽將持續封鎖】一名伊朗官員警告，在伊朗的條件得到滿足之前，霍爾木茲海峽將保持關閉。該官員表示，任何新一輪襲擊或是背棄承諾的行為，都將招致伊朗更為強硬的回擊與抵抗。這名官員補充道，對“侵略者的懲戒”將會持續，並告誡對手切勿重蹈覆轍。"
-    },
-    {
-      "id": "te:economy:574483",
-      "time": "2026-08-11 23:29:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kenya",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Kenya Leaves Interest Rate Unchanged for 3rd Meeting — The Central Bank of Kenya left its benchmark interest rate at 8.75% on August 11th, 2026, a third straight hold, as policymakers stated that the current stance of monetary policy remained appropriate to ensure price and exchange rate stability. Headline inflation rose to 6.5%, driven by higher fuel costs that pushed up transportation and food prices, but remained within the bank’s 5% ±2.5% target range. Meanwhile, economic growth accelerated to 5.3% in the first quarter of 2026, from 4% in the previous quarter. Looking ahead, inflation is expected to remain within the target range in the near term, assuming a de-escalation of the Middle East conflict. However, risks remain elevated as the stop-start US-Iran conflict continues to disrupt global energy and fertilizer markets."
     }
   ]
 }
