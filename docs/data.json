@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-19 03:01:59",
-  "count": 15087,
+  "updated": "2026-08-19 03:05:50",
+  "count": 15088,
   "items": [
+    {
+      "id": "5046432",
+      "time": "2026-08-19 03:03:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美加關稅談判進入最後關頭 特朗普政府淡化達成協議預期】據知情人士透露，特朗普政府正淡化外界對美加兩國在最後一刻達成協議以避免將於週三生效的新關稅的預期。美方私下表示，雙方週二達成協議的可能性只有五五開甚至更低。兩國需要在午夜截止期限前達成協議，否則美國將對價值數十億美元的加拿大商品徵收50%的關稅。"
+    },
+    {
+      "id": "mkt:01a01641-2b56-7aab-9080-dde9f3a39f03",
+      "time": "2026-08-19 03:02:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "U.S. Deputy Energy Secretary Haositeweit said roughly half of Venezuela's oil production is currently being exported to the United States."
+    },
+    {
+      "id": "mkt:01a01640-f18f-7aab-9080-d47dcfd78c46",
+      "time": "2026-08-19 03:02:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Politico reports several US independent oil producers are expected to sign production contracts with Venezuela's state oil company PDVSA on Tuesday; three people familiar with the matter said the signing ceremony is scheduled for Tuesday evening in Houston."
+    },
+    {
+      "id": "5046431",
+      "time": "2026-08-19 03:01:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國石油企業即將敲定委內瑞拉相關協議】數家美國獨立石油生產商預計將於週二同委內瑞拉國有石油公司PDVSA簽署生產合同。三名知情人士透露，簽約儀式定於週二晚間在休斯頓舉行。該系列協議或將標誌著美國在委內瑞拉的能源參與力度大幅提升。"
+    },
+    {
+      "id": "5046430",
+      "time": "2026-08-19 03:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部副部長豪斯特維特表示，委內瑞拉目前約有一半的石油產量出口至美國。"
+    },
+    {
+      "id": "mkt:01a0163f-d33d-7aab-9080-cc18509c64ef",
+      "time": "2026-08-19 03:01:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.28% at 25,371, trading 100 points below the cash index."
+    },
     {
       "id": "5046429",
       "time": "2026-08-19 03:00:02",
@@ -138273,51 +138334,6 @@
         "公司"
       ],
       "text": "挪威主權財富基金：截至 6 月 30 日，持有SpaceX 0.05% 股份，價值 12.2 億美元。"
-    },
-    {
-      "id": "mkt:019ff237-23c2-7aab-8ff9-798a4bb9c629",
-      "time": "2026-08-12 03:05:27",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng futures fell 0.37% in night trade to 25,533, trading about 120 points below the spot index."
-    },
-    {
-      "id": "5036342",
-      "time": "2026-08-12 03:05:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超3%，騰訊音樂跌11.87%，1藥網跌8.29%，Tims中國跌8.05%，信也科技跌5.93%，陸金所控股跌5.72%。"
-    },
-    {
-      "id": "5036341",
-      "time": "2026-08-12 03:04:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7466元，較週一夜盤收盤漲29點。成交量264.04億美元。"
-    },
-    {
-      "id": "mkt:019ff234-2bce-7aab-8ff9-7263a076b22c",
-      "time": "2026-08-12 03:02:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Space Force General Gatlin said funding for the 'Golden Dome' must be resolved for 2027."
-    },
-    {
-      "id": "5036340",
-      "time": "2026-08-12 03:02:04",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國芝加哥商業交易所集團（CME）將推出國家冰球聯盟（NHL）冰球期貨。"
     }
   ]
 }
