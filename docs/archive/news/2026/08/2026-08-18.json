@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 903,
+  "count": 908,
   "items": [
+    {
+      "id": "mkt:01a0130c-6135-7aab-906e-ba94e488592d",
+      "time": "2026-08-18 12:06:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Hong Kong midday: Hang Seng Tech down nearly 2%; Zhipu off >16%】Hong Kong stocks opened lower: Hang Seng fell 0.65% to 25,287.25 and the Hang Seng Tech Index dropped 1.99% to 4,686.98. Large-model/AI concept names and PCB plays led declines while planting/agriculture and innovative drug stocks outperformed. Post-results winners included Chow Sang Sang (00116.HK) +16%, GenScript Biotech (01548.HK) +7.6%, WuXi Biologics (02269.HK) +5% and Shandong Molong (00568.HK) +4%. Heavy losers: Zhipu (02513.HK) down over 16%—shares touched HK$1,000 intraday; MINIMAX-W (00100.HK) -12%, Xunce (03317.HK) -8%, Tianshu Zhixin (09903.HK) -7.7%, Kingboard Laminates (01888.HK) -7%, Horizon Robotics (09660.HK), Shenghong Technology (02476.HK) and Lanqi Technology (06809.HK) down more than 6%, SenseTime (00020.HK) -6% and Kingboard Group (00148.HK) down over 5%."
+    },
+    {
+      "id": "5045202",
+      "time": "2026-08-18 12:05:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司考慮恢復特許經營協議以吸引資金。"
+    },
+    {
+      "id": "5045201",
+      "time": "2026-08-18 12:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司主席：利比亞需要400億美元用於石油資源開發。"
+    },
+    {
+      "id": "mkt:01a01309-f241-7aab-906e-b3829a2f0c71",
+      "time": "2026-08-18 12:03:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Financial Times reports Libya is seeking up to $40 bln in funding to develop oil resources."
+    },
+    {
+      "id": "mkt:01a01309-9fc5-7aab-906e-af1b73e78a80",
+      "time": "2026-08-18 12:03:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Japan five-year bond auction demand highest since June 2025】Demand at Tuesday's five-year JGB auction was the strongest since June 2025 as higher yields attracted buyers. The bid-cover ratio was 4.15 versus 3.43 at the prior auction and a 12-month average of 3.34. The tail (average price minus lowest accepted price) tightened to 0.02 from 0.03 a month earlier. JGB yields have risen in recent weeks amid reports the TAKAICHI-led government supports near-term tightening by the BANK OF JAPAN; overnight index swaps imply a 75% chance of a BANK OF JAPAN hike before September and fully price an October move. The rise in yields reflects weakening global confidence in bonds, with investors demanding greater compensation for duration risk. 30-year US Treasury yields climbed to near 20-year highs on concerns about higher government spending, heavy long-term issuance and persistent inflation."
+    },
     {
       "id": "mkt:01a01308-128a-7aab-906e-a401e8690ee8",
       "time": "2026-08-18 12:01:31",

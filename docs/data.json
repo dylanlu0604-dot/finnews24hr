@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-18 12:02:56",
-  "count": 15258,
+  "updated": "2026-08-18 12:06:54",
+  "count": 15256,
   "items": [
+    {
+      "id": "mkt:01a0130c-6135-7aab-906e-ba94e488592d",
+      "time": "2026-08-18 12:06:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Hong Kong midday: Hang Seng Tech down nearly 2%; Zhipu off >16%】Hong Kong stocks opened lower: Hang Seng fell 0.65% to 25,287.25 and the Hang Seng Tech Index dropped 1.99% to 4,686.98. Large-model/AI concept names and PCB plays led declines while planting/agriculture and innovative drug stocks outperformed. Post-results winners included Chow Sang Sang (00116.HK) +16%, GenScript Biotech (01548.HK) +7.6%, WuXi Biologics (02269.HK) +5% and Shandong Molong (00568.HK) +4%. Heavy losers: Zhipu (02513.HK) down over 16%—shares touched HK$1,000 intraday; MINIMAX-W (00100.HK) -12%, Xunce (03317.HK) -8%, Tianshu Zhixin (09903.HK) -7.7%, Kingboard Laminates (01888.HK) -7%, Horizon Robotics (09660.HK), Shenghong Technology (02476.HK) and Lanqi Technology (06809.HK) down more than 6%, SenseTime (00020.HK) -6% and Kingboard Group (00148.HK) down over 5%."
+    },
+    {
+      "id": "5045202",
+      "time": "2026-08-18 12:05:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司考慮恢復特許經營協議以吸引資金。"
+    },
+    {
+      "id": "5045201",
+      "time": "2026-08-18 12:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司主席：利比亞需要400億美元用於石油資源開發。"
+    },
+    {
+      "id": "mkt:01a01309-f241-7aab-906e-b3829a2f0c71",
+      "time": "2026-08-18 12:03:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Financial Times reports Libya is seeking up to $40 bln in funding to develop oil resources."
+    },
+    {
+      "id": "mkt:01a01309-9fc5-7aab-906e-af1b73e78a80",
+      "time": "2026-08-18 12:03:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Japan five-year bond auction demand highest since June 2025】Demand at Tuesday's five-year JGB auction was the strongest since June 2025 as higher yields attracted buyers. The bid-cover ratio was 4.15 versus 3.43 at the prior auction and a 12-month average of 3.34. The tail (average price minus lowest accepted price) tightened to 0.02 from 0.03 a month earlier. JGB yields have risen in recent weeks amid reports the TAKAICHI-led government supports near-term tightening by the BANK OF JAPAN; overnight index swaps imply a 75% chance of a BANK OF JAPAN hike before September and fully price an October move. The rise in yields reflects weakening global confidence in bonds, with investors demanding greater compensation for duration risk. 30-year US Treasury yields climbed to near 20-year highs on concerns about higher government spending, heavy long-term issuance and persistent inflation."
+    },
     {
       "id": "mkt:01a01308-128a-7aab-906e-a401e8690ee8",
       "time": "2026-08-18 12:01:31",
@@ -139737,76 +139792,6 @@
         "其他"
       ],
       "text": "【天津海事局啟動轄區河道行洪洩洪四級響應】根據最新氣象資訊，受颱風“白海豚”殘渦北上影響，預計8月11日夜間至13日，天津將出現大到暴雨，局地特大暴雨，海河流域上游洩洪風險與颱風帶來的風雨影響持續疊加，為切實做好防禦工作，天津海事部門落實天津市防汛響應工作部署，於8月11日啟動轄區河道行洪洩洪四級響應。目前轄區旅遊客船、渡船、遊艇等各類涉客船舶已嚴格落實“應停盡停、應關盡關、應撤盡撤”要求，全部停航避洪。"
-    },
-    {
-      "id": "mkt:019feeff-9fb6-7aab-8fe5-fbc1d088c58d",
-      "time": "2026-08-11 12:05:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "At 11:00 on Aug 11, China's Central Meteorological Observatory said Typhoon \"Baihaidun\" had weakened to a tropical depression and was located over Huanggang, Hubei province."
-    },
-    {
-      "id": "5035003",
-      "time": "2026-08-11 12:05:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鐵塔：2026年上半年淨利潤74.89億元，同比增長30.1%】中國鐵塔公告，2026年上半年營業收入486.93億元，同比下降1.8%。歸屬於本公司股東的利潤為74.89億元，同比增長30.1%。董事會決定派發中期股息每股人民幣0.19122元（稅前）。"
-    },
-    {
-      "id": "5035002",
-      "time": "2026-08-11 12:05:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "派傑投資將美國再保險集團目標價從261美元上調至274美元。"
-    },
-    {
-      "id": "5035001",
-      "time": "2026-08-11 12:04:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：阿布扎比國家石油公司6月以來第8次招標出售現貨原油】貿易訊息人士稱，阿布扎比國家石油公司（ADNOC）正在透過招標出售現貨原油，這是自6月初以來該公司的第八次招標。這家阿聯酋國有石油企業正致力於轉運霍爾木茲海峽內的原油。阿布扎比國家石油公司週一放出上扎庫姆、烏姆露露以及達斯原油，裝船期為10月和11月。投標截止時間為8月13日，投標有效期至8月14日。這三類原油均產自海灣油田，經由霍爾木茲海峽出口。訊息人士表示，阿布扎比國家石油公司本次最新招標並未放出穆爾班原油。與此前招標條件一致，買家可選擇在阿聯酋富查伊拉倉儲區、澤爾庫島或達斯島按船上交貨價採購。買家也可選擇在富查伊拉‑蘇哈爾海域區間或馬來西亞海域開展船對船過駁作業。"
-    },
-    {
-      "id": "5035000",
-      "time": "2026-08-11 12:03:54",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "哈薩克央行：7月哈薩克淨黃金外匯儲備環比增長3.18%，達到617.24億美元。"
-    },
-    {
-      "id": "mkt:019feefd-a2ec-7aab-8fe5-f42fed2efadb",
-      "time": "2026-08-11 12:03:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "09688.HK",
-        "Impact bullish",
-        "00883.HK",
-        "09866.HK",
-        "Impact bearish"
-      ],
-      "text": "【Hong Kong midday: Hang Seng falls 0.63% after early spike above 26,000; innovative drugs lead】Hang Seng opened higher, briefly topped 26,000 before reversing and closed down 0.63% at 25,773.56, trading back beneath its 250-day moving average. The Hang Seng Tech Index underperformed, down 1.27% at 4,857.12. Market turnover was HKD 115.84 bln. Innovative drug names led gains, memory-chip plays showed recovery, oil stocks were among top advancers, gold opened strong then faded and autos lagged. Notable moves: Zai Lab (09688.HK) +5.34%, WuXi AppTec (02359.HK) +2.02%, CNOOC (00883.HK) +3.76%, Lanqi Technology (06809.HK) +4.97%, Zijin Mining (02899.HK) -3.51%, NIO-SW (09866.HK) -3.11%."
-    },
-    {
-      "id": "mkt:019feefd-7c32-7aab-8fe5-eafe604efe60",
-      "time": "2026-08-11 12:03:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Kazakhstan's central bank said net FX and gold reserves were $61.724 billion in July, a month-on-month change of 3.2%."
     }
   ]
 }
