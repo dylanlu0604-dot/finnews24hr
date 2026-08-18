@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-18 12:42:11",
-  "count": 15205,
+  "updated": "2026-08-18 12:46:06",
+  "count": 15203,
   "items": [
+    {
+      "id": "5045239",
+      "time": "2026-08-18 12:44:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠東股份：AIDC用全合成光纖預製棒製造專案主體封頂】據遠東股份訊息，8月18日，遠東股份AIDC用全合成光纖預製棒製造專案主體順利封頂。該專案總投資約‌19.88億元‌，專為人工智慧資料中心（AIDC）的高頻寬、低損耗需求打造。目前，核心生產裝置如全合成VAD+OVD沉積系統、高精度拉絲塔等已進場除錯。根據專案建設規劃，將形成光棒及配套光纖/空芯光纖/保偏光纖/跳線等產銷規模，持續服務全球雲服務商、通訊基建設施企業、全球光互領域企業等客戶。"
+    },
+    {
+      "id": "5045238",
+      "time": "2026-08-18 12:44:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率回吐早前漲幅，最新下跌2個基點至1.67%。"
+    },
+    {
+      "id": "5045237",
+      "time": "2026-08-18 12:43:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "據日本廣播協會18日報道，日本自衛隊一架飛機在沖繩那霸機場發生故障。（新華社）"
+    },
+    {
+      "id": "5045236",
+      "time": "2026-08-18 12:43:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【媒體：俄羅斯考慮芳烴出口禁令】俄羅斯《生意人報》援引未具名知情人士訊息報道，俄羅斯政府正探討可能出臺針對苯、苯酚、甲苯、二甲苯等芳烴產品的出口禁令。工作組於 8 月中旬就此議題展開討論，但因各方在苯與苯酚問題上存在分歧，未形成具體決議。各部委將在進一步磋商前徵集市場參與者的意見。此番討論的背景為煉油廠檢修導致芳烴產量下滑，同時燃料生產對芳烴的消耗有所增加。芳烴可用作汽油辛烷值提升劑以及石化原料；煉油企業可將更多石腦油基組分轉向燃料生產，而非出售給石化採購方。部分俄羅斯煉油廠目前獲准生產歐 2、歐 3 標準燃料，這類燃料的芳烴含量可以高於歐 5 汽油。"
+    },
+    {
+      "id": "mkt:01a0132d-7c8d-7aab-906f-3f866303d6ec",
+      "time": "2026-08-18 12:42:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 5-year government bond yield extended its decline, down 2bps to 2.14%."
+    },
     {
       "id": "5045235",
       "time": "2026-08-18 12:40:39",
@@ -139235,71 +139279,6 @@
         "國際"
       ],
       "text": "【三星SDI將完全接管與通用汽車在美合資企業，同意聯合開發下一代電動汽車電池】8月11日，三星SDI宣佈與通用汽車達成協議，共同開發下一代電動汽車電池。根據該協議開發的稜柱形電池產品預計將應用於通用汽車的下一代電動汽車車型。三星SDI還同意收購通用汽車在美國印第安納州合資企業SynergyCells中所持全部股份，並接管該公司。Synergy Cells設計年產能為27GWh，計劃投資額35億美元，工廠目前正在建設中。"
-    },
-    {
-      "id": "5035057",
-      "time": "2026-08-11 12:46:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "受收購通用汽車電池合資公司股份訊息影響，三星SDI股價下跌近5%。"
-    },
-    {
-      "id": "te:markets:574286",
-      "time": "2026-08-11 12:45:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Retreats on Weak Domestic Data, BI Continuity in Focus — The Indonesian rupiah slipped back toward IDR 17,810 per U.S. dollar on Tuesday, easing from a near seven-week high and reversing gains from the prior two sessions. Pressure stemmed from soft domestic data, with retail sales declining for a third month in July and consumer confidence sliding to a 15-month low. Still, losses were cushioned by expectations of policy continuity at Bank Indonesia after acting Governor Destry Damayanti was named the sole candidate to lead the central bank. Lawmakers are set to reconvene later this week for the 2027 budget presentation ahead of Independence Day, and her approval is expected to proceed smoothly. The central bank is likely to keep its focus on rupiah stability and inflation control while supporting growth where space allows. Meanwhile, the U.S. dollar index steadied as investors weighed the Fed’s policy outlook before key inflation data, following a weaker-than-expected July jobs report."
-    },
-    {
-      "id": "5035056",
-      "time": "2026-08-11 12:45:14",
-      "tags": [
-        "央行"
-      ],
-      "text": "【澳洲聯儲因企業投資增強和人口增長而上調GDP預期 同時下調通脹預期】澳大利亞儲備銀行因企業投資增強和人口增長而上調GDP預期。該行預計2026年第四季GDP增速為1.4%，2027年第四季為1.6%，2028年第四季為1.8%；該行預計2027年第四季通脹率為3.6%，2028年第四季為2.6%，2028年第四季為2.4%。澳洲聯儲預計2026年第四季失業率為4.5%，2027年第四季為4.7%，2028年第四季為4.8%。澳洲聯儲預計經濟將於2027年恢復平衡，略早於此前預期。"
-    },
-    {
-      "id": "5035055",
-      "time": "2026-08-11 12:45:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "據菲律賓國家減災委員會11日通報，受熱帶氣旋和西南季風引發的極端降雨影響，菲律賓近期頻發山體滑坡等災害，截至11日早上，極端降雨天氣導致的死亡人數已升至19人，約227萬人受災。"
-    },
-    {
-      "id": "5035054",
-      "time": "2026-08-11 12:44:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英格蘭近四分之三地區進入乾旱狀態 】英國環境局等部門10日釋出公告說，8月以來持續少雨，英格蘭乾旱形勢惡化，目前近四分之三的地區處於乾旱狀態，波及約4500萬人口，超過2700萬人用水受限。 公告介紹，英國政府為應對乾旱而設立的協調機構“國家乾旱小組”10日召開會議並警告說，英格蘭所有地區的水資源均面臨壓力，對農業、公共供水、航運和環境的影響日益加劇。 公告說，8月以來，英格蘭降雨量僅為預期的5%。7月，英格蘭水庫蓄水量下降16%，為至少30年來7月最大降幅。目前，僅有14%的河流水量處於正常水平，22%的河流水量處於“異常低”水平。8家供水企業已在全部或部分服務區實施臨時用水限制措施。"
-    },
-    {
-      "id": "5035053",
-      "time": "2026-08-11 12:44:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行：預計經濟將於2027年恢復平衡，略早於此前預期。"
-    },
-    {
-      "id": "te:economy:574280",
-      "time": "2026-08-11 12:42:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Dutch July Inflation Revised Slightly Up to 3.2% — The annual inflation rate in the Netherlands for July 2026 was revised slightly upward to 3.2% from a preliminary estimate of 3.1%, compared with 2.9% in June. The main upward pressure came from a faster increase in motor fuel prices (22% vs 17.3% in June) and a rebound in energy costs (1.1% vs -1.8%). The expansion of import duties on consumer goods ordered from outside the European Union also contributed to higher inflation. Meanwhile, housing price growth slowed to 4.3% from 4.7%. On a monthly basis, consumer prices rose 1.6%, rebounding from a 0.6% fall in the previous month."
     }
   ]
 }
