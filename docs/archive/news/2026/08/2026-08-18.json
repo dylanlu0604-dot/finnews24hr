@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 1839,
+  "count": 1845,
   "items": [
+    {
+      "id": "mkt:01a01461-5096-7aab-9077-13bbe6775d06",
+      "time": "2026-08-18 18:18:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Egypt's foreign minister and Oman's foreign minister discussed plans for Iran and Oman to issue a joint statement on opening the Strait of Hormuz and cited Oman's efforts; they called for continued diplomacy to ease tensions, safeguard freedom of navigation and avoid actions that could escalate regional tensions."
+    },
+    {
+      "id": "5045827",
+      "time": "2026-08-18 18:18:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：埃及與阿曼外交部長討論了伊朗‑阿曼即將釋出的關於霍爾木茲海峽通航及阿曼斡旋工作的聯合宣告。雙方同時強調，需持續開展外交努力以緩和緊張局勢，保障航行自由，並避免任何會加劇地區緊張的行為。"
+    },
+    {
+      "id": "mkt:01a01460-a6d7-7aab-9077-0b6fcea29dfc",
+      "time": "2026-08-18 18:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: Saudi tightens controls on transfers to UAE banks】Three people familiar with the matter said Saudi Arabia has imposed additional controls on financial transfers to banks in the United Arab Emirates, measures typically applied to jurisdictions judged high-risk for illicit flows. The steps have not been publicly announced but may explain why some firms recently reported difficulty moving funds from Saudi accounts to the UAE; business sources said transfers in multiple currencies were delayed or returned by Saudi banks without explanation. The developments signal a widening rift between the two Gulf states. The Saudi central bank said currently there are no direct restrictions targeting specific countries."
+    },
+    {
+      "id": "te:economy:576113",
+      "time": "2026-08-18 18:17:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at Over 2-Week High — South Africa’s 10-year government bond yield rose further to around 8.72%, the highest since late July, amid renewed pressure across global markets. Growing doubts over a quick resolution to the Middle East conflict lifted oil prices and reignited concerns about persistent inflation. The risk of further escalation and a prolonged war kept investors cautious, despite easing expectations for additional Federal Reserve rate hikes. Domestically, investors awaited July inflation data due on August 19 for clues on the outlook for interest rates. Headline inflation is expected to ease to around 4.5% from 5.0% in June, helped by lower fuel and transport costs after the sharp increase seen in the previous month. A moderation in inflation toward 4.5% would reduce the likelihood of further monetary tightening, while keeping expectations for near-term rate cuts contained."
+    },
+    {
+      "id": "mkt:01a0145f-2808-7aab-9077-02afe91061e6",
+      "time": "2026-08-18 18:16:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvest Nasdaq ETF will suspend trading from market open on Aug. 19, 2026 and resume at 10:30. Redemption operations will continue as normal during the suspension."
+    },
+    {
+      "id": "5045826",
+      "time": "2026-08-18 18:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【社群所有新聘崗位向高校畢業生開放】日前，人力資源社會保障部、中央社會工作部、民政部聯合印發《關於最佳化城鄉社群崗位吸納高校畢業生就業工作的通知》，全力促進更多高校畢業生到城鄉社群就業，為基層治理提供人才支撐。《通知》明確，暢通高校畢業生到城鄉社群就業各類渠道，原則上所有新招聘崗位全部面向高校畢業生開放。鼓勵有條件的地方重點開發一批適合高校畢業生的就業崗位。動員城鄉社群服務領域企業和社會組織吸納一批崗位，支援城鄉社群服務領域企業和專業化社會組織，透過政府購買服務、專案合作等方式承接城鄉社群服務，加大招聘高校畢業生力度。（央視新聞）"
+    },
     {
       "id": "mkt:01a0145e-08b6-7aab-9076-f953a91cee0c",
       "time": "2026-08-18 18:15:01",
