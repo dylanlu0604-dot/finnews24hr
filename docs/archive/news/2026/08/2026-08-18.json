@@ -1,7 +1,58 @@
 {
   "date": "2026-08-18",
-  "count": 935,
+  "count": 941,
   "items": [
+    {
+      "id": "mkt:01a01321-e9e6-7aab-906f-0aedbf75d611",
+      "time": "2026-08-18 12:29:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Climate Center: El Niño developing rapidly, high probability of becoming strongest on record】The National Climate Center says equatorial central-to-eastern Pacific sea surface temperatures are rising and the event is expected to peak around November–December, forming an ultra-strong El Niño with a high probability of being the strongest on record. Since summer, China has shown typical El Niño impacts: eastern China has two north–south rain belts, heavy-rain episodes have been widespread and locally intense with overlapping affected areas causing compound disasters, and typhoon activity has been elevated with stronger storms and prolonged wind-and-rain impacts."
+    },
+    {
+      "id": "5045226",
+      "time": "2026-08-18 12:29:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港宏福苑火災獨立委員會報告延至十月底前完成】據香港特區政府新聞公告，就大埔宏福苑火災成立的獨立委員會今日（8月18日）表示，委員會已獲行政長官同意，將提交報告的期限延展。委員會現正繼續處理書面證供及其他陸續收到的資料（包括超過一百萬個檔案），並開始草擬報告。委員會職權範圍所涵蓋的事項繁多而且性質複雜，涉事方眾多。而委員會須以事實基礎就職權範圍所提的事宜作出研判及結論，以及提出建議，因此需要較多時間分析和研究由各方提交的大量資料。有見及此，委員會向行政長官提出請求准予延展提交報告的期限，並已獲行政長官同意。根據最新的工作進度，委員會預計於10月底之前完成工作，並向行政長官提交報告。"
+    },
+    {
+      "id": "5045225",
+      "time": "2026-08-18 12:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國家氣候中心：厄爾尼諾快速發展 大機率成歷史最強】記者從國家氣候中心瞭解到，當前赤道中東太平洋海表溫度持續升高，預計將於11—12月前後達到峰值，形成一次超強厄爾尼諾事件，大機率成為歷史最強事件。今年夏季以來，我國氣候特徵反映出厄爾尼諾發展階段的典型影響：東部呈南北兩條多雨帶，暴雨過程面廣點強、落區重疊且致災複合；颱風活躍、強度強，風雨影響久。（央視）"
+    },
+    {
+      "id": "mkt:01a01320-44a1-7aab-906f-06b5e25fcac5",
+      "time": "2026-08-18 12:27:56",
+      "tags": [
+        "MKT News",
+        "09999.HK",
+        "Impact mixed"
+      ],
+      "text": "【NetEase Q2 preview: net profit seen +13% YoY; new-game pipeline could lift H2】NetEase (09999.HK) will report Q2 results Thursday. A FactSet survey of nine analysts forecasts reported net profit up 13% YoY to RMB 9.72 bln and adjusted net profit up 7.3% YoY to RMB 10.23 bln; revenue is seen +4.3% YoY to RMB 29.1 bln, supported by evergreen titles including Fantasy Westward Journey and Eggy Party. Nomura warns NetEase’s holdings in Alibaba and Pinduoduo could widen investment losses and weigh on reported net profit. Nomura expects July release The Forgotten Sea could generate RMB 200–300 mln monthly gross revenue, potentially accelerating game revenue growth in H2. CITIGROUP tracking shows 57 games in the pipeline, 23 approved for domestic launch; any management update to the release schedule could be an additional stock catalyst."
+    },
+    {
+      "id": "5045224",
+      "time": "2026-08-18 12:27:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商證券：7月社零同比增長0.6% 電商增長保持韌性】招商證券釋出研報稱，7月社會消費品零售總額為39022億元，同比增長0.6%；電商增長保持韌性，7月網上商品零售額同比增長3.3%。服務消費延續較好增長趨勢，1-7月服務零售額增長5.0%。建議關注經營效率優、估值具價效比的零售龍頭及消費網際網路龍頭，以及受益於消費結構升級、具備增長彈性的服務消費企業。"
+    },
+    {
+      "id": "5045223",
+      "time": "2026-08-18 12:26:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【紅杉中國據悉尋求為其單飛以來的首支美元基金募資12億美元】據知情人士透露，紅杉中國已與投資者就多支基金展開初步洽談，其中包括其“單飛”以來的首支美元基金。知情人士稱，該投資公司在商議為一支早期階段投資基金募集至少12億美元資金，以支援AI、醫療和消費領域的公司。紅杉中國自2005年以來一直由沈南鵬掌舵。他們還說，紅杉中國也考慮設立一隻成長基金，但具體時間和規模尚未確定。其中一人補充說，該公司另外也在考慮一支人民幣計價基金。此次募資將考驗這家專注中國的老牌投資機構的號召力。原本紅杉品牌傘下的三個實體就已然基本獨立，一家專注美歐、一家專注中國，第三家聚焦印度和東南亞。拆分後，中國這一分支最終以HSG為英文名，投資了宇樹科技、Minimax和月之暗面等AI新興企業。"
+    },
     {
       "id": "5045222",
       "time": "2026-08-18 12:24:35",
