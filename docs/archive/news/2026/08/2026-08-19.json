@@ -1,7 +1,82 @@
 {
   "date": "2026-08-19",
-  "count": 212,
+  "count": 220,
   "items": [
+    {
+      "id": "5046475",
+      "time": "2026-08-19 04:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）表示，就次級汽車貸款機構Tricolor涉19億美元倒閉事件，對多名前高管提起欺詐指控。"
+    },
+    {
+      "id": "5046474",
+      "time": "2026-08-19 04:01:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司：初步調查顯示，爆炸是蓄意破壞行為的結果。"
+    },
+    {
+      "id": "mkt:01a01676-5827-7aab-9081-b7011d4a38f7",
+      "time": "2026-08-19 04:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Syrian state news agency says Syria Petroleum Company reported an explosion on the gas export pipeline at the Jabusa gas plant, cutting gas flows. Preliminary investigation attributes the blast to deliberate sabotage; no casualties reported."
+    },
+    {
+      "id": "5046473",
+      "time": "2026-08-19 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.22%，標普500指數跌0.69%，納指跌1.32%。Coherent Corp跌12.84%，Lumentum Holdings Inc. Common Stock When Issued跌9.95%，希捷跌9.16%，閃迪跌9.01%。“七姐妹”方面：蘋果漲1.49%，微軟漲0.23%，谷歌跌0.02%，亞馬遜跌0.70%，特斯拉跌0.72%，英偉達跌2.36%，Meta Platforms跌4.47%。"
+    },
+    {
+      "id": "5046472",
+      "time": "2026-08-19 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.04%】Tims中國跌17.65%，世紀互聯跌16.92%，百度跌12.80%，中進醫療跌10.12%，愛奇藝跌7.89%。"
+    },
+    {
+      "id": "5046471",
+      "time": "2026-08-19 03:59:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司表示，員工無人受傷。"
+    },
+    {
+      "id": "5046470",
+      "time": "2026-08-19 03:58:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司表示，賈布薩天然氣廠的一條天然氣出口管道發生爆炸，導致該管道停止輸氣。"
+    },
+    {
+      "id": "mkt:01a01674-958f-7aab-9081-ac88077687ff",
+      "time": "2026-08-19 03:58:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid to $4,340/oz, down 1.75% intraday."
+    },
     {
       "id": "5046469",
       "time": "2026-08-19 03:57:24",

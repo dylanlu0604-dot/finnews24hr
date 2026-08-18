@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-19 03:58:26",
-  "count": 15112,
+  "updated": "2026-08-19 04:02:20",
+  "count": 15113,
   "items": [
+    {
+      "id": "5046475",
+      "time": "2026-08-19 04:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）表示，就次級汽車貸款機構Tricolor涉19億美元倒閉事件，對多名前高管提起欺詐指控。"
+    },
+    {
+      "id": "5046474",
+      "time": "2026-08-19 04:01:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司：初步調查顯示，爆炸是蓄意破壞行為的結果。"
+    },
+    {
+      "id": "mkt:01a01676-5827-7aab-9081-b7011d4a38f7",
+      "time": "2026-08-19 04:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Syrian state news agency says Syria Petroleum Company reported an explosion on the gas export pipeline at the Jabusa gas plant, cutting gas flows. Preliminary investigation attributes the blast to deliberate sabotage; no casualties reported."
+    },
+    {
+      "id": "5046473",
+      "time": "2026-08-19 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.22%，標普500指數跌0.69%，納指跌1.32%。Coherent Corp跌12.84%，Lumentum Holdings Inc. Common Stock When Issued跌9.95%，希捷跌9.16%，閃迪跌9.01%。“七姐妹”方面：蘋果漲1.49%，微軟漲0.23%，谷歌跌0.02%，亞馬遜跌0.70%，特斯拉跌0.72%，英偉達跌2.36%，Meta Platforms跌4.47%。"
+    },
+    {
+      "id": "5046472",
+      "time": "2026-08-19 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.04%】Tims中國跌17.65%，世紀互聯跌16.92%，百度跌12.80%，中進醫療跌10.12%，愛奇藝跌7.89%。"
+    },
+    {
+      "id": "5046471",
+      "time": "2026-08-19 03:59:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司表示，員工無人受傷。"
+    },
+    {
+      "id": "5046470",
+      "time": "2026-08-19 03:58:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司表示，賈布薩天然氣廠的一條天然氣出口管道發生爆炸，導致該管道停止輸氣。"
+    },
+    {
+      "id": "mkt:01a01674-958f-7aab-9081-ac88077687ff",
+      "time": "2026-08-19 03:58:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid to $4,340/oz, down 1.75% intraday."
+    },
     {
       "id": "5046469",
       "time": "2026-08-19 03:57:24",
@@ -138460,73 +138535,6 @@
         "市場"
       ],
       "text": "KKR週二收盤上漲6.9%，創4月13日以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019ff26a-5f9b-7aab-8ffa-2b761c232697",
-      "time": "2026-08-12 04:01:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "JD.O",
-        "Impact bearish",
-        "NTES.O",
-        "NIO.N"
-      ],
-      "text": "【US stocks close lower; Nasdaq Golden Dragon China Index down about 3%】US equities closed lower on Tuesday. The Dow Jones Industrial Average fell 0.34%, the S&P 500 lost 0.30% and the Nasdaq Composite dropped 0.60%. SK Hynix (SKHY.O) rose 4.7%, SpaceX (SPCX.O) fell 3.9% and Apple (AAPL.O) slipped 1.0%. The Nasdaq Golden Dragon China Index closed down 2.95%; JD.com (JD.O), NetEase (NTES.O) and NIO (NIO.N) each fell about 4%."
-    },
-    {
-      "id": "5036367",
-      "time": "2026-08-12 04:01:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Apollo Global收漲6.3%，創2025年5月份以來最佳單日表現。"
-    },
-    {
-      "id": "5036366",
-      "time": "2026-08-12 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.34%，標普500指數跌0.32%，納指跌0.60%。APP AppLovin跌5.99%，芬塔公司跌5.42%，Datadog跌5.37%，霍尼韋爾跌5.30%。“七姐妹”方面：Meta Platforms漲0.71%，特斯拉漲0.58%，英偉達跌0.02%，微軟跌0.44%，蘋果跌1.09%，亞馬遜跌2.09%，谷歌跌3.61%。"
-    },
-    {
-      "id": "5036365",
-      "time": "2026-08-12 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.95%】騰訊音樂跌11.92%，1藥網跌8.05%，信也科技跌6.04%，嗶哩嗶哩跌5.21%，海天網路跌5.20%。"
-    },
-    {
-      "id": "5036364",
-      "time": "2026-08-12 03:58:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗將軍納赫迪：即使衝突持續數年，伊朗也能維持導彈和無人機的生產。伊朗將保持發射彈道導彈的能力，直至戰爭結束。"
-    },
-    {
-      "id": "5036363",
-      "time": "2026-08-12 03:58:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西參議員弗拉維奧・博索納羅的總統競選團隊正透過憲法修正案起草全新財政框架。草案提案將依據公共債務水平收緊巴西政府的支出上限，博索納羅競選團隊擬定的財政框架草案將包含支出增長上限及財政目標。"
-    },
-    {
-      "id": "mkt:019ff267-f85a-7aab-8ffa-2097f7b97f64",
-      "time": "2026-08-12 03:58:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Gen. Nahdi said Iran can sustain missile and drone production even if the conflict lasts years, and will retain the ability to launch ballistic missiles until the war ends."
     }
   ]
 }
