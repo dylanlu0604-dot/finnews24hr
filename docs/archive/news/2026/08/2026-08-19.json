@@ -1,7 +1,35 @@
 {
   "date": "2026-08-19",
-  "count": 153,
+  "count": 156,
   "items": [
+    {
+      "id": "mkt:01a01649-7911-7aab-9080-f2817fa8309e",
+      "time": "2026-08-19 03:11:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Officials say Trump threatened Oman over proposed Iran-Oman Strait of Hormuz deal】Two regional officials told CBS on Tuesday that President Trump threatened to bomb Oman over a proposed Oman-Iran agreement to manage ship transit through the Strait of Hormuz. The officials said the Trump administration informed Oman it opposed parts of the not-yet-public deal, including arrangements for Iran and Oman to jointly manage exit lanes from the strait. U.S. officials viewed Oman as insufficiently tough in negotiations and objected to Oman's agreement to levy voluntary fees on vessels purportedly for security and marine-environment protection."
+    },
+    {
+      "id": "5046436",
+      "time": "2026-08-19 03:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普正在考慮暫緩對加拿大徵收關稅。"
+    },
+    {
+      "id": "5046435",
+      "time": "2026-08-19 03:11:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普本週正在面試美國食品藥品監督管理局（FDA）最高職位的候選人。"
+    },
     {
       "id": "mkt:01a01646-9116-7aab-9080-eaa1d67a164f",
       "time": "2026-08-19 03:08:38",
