@@ -1,7 +1,60 @@
 {
   "date": "2026-08-18",
-  "count": 791,
+  "count": 797,
   "items": [
+    {
+      "id": "5045124",
+      "time": "2026-08-18 11:02:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價漲幅收窄；最新上漲2.0%，報1,678,000韓元。"
+    },
+    {
+      "id": "mkt:01a012d1-74dc-7aab-906d-cf114e8ccf28",
+      "time": "2026-08-18 11:01:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Copper supply squeeze intensifies; key tenor spreads widen】An LME measure of near-term supply tightness surged as copper resumed sharp volatility. The LME one-day contract traded at a $75/tonne premium to the next-day contract, the widest since January when the spread hit $100/tonne amid record LME benchmark prices. The tightness largely reflected traders rerouting several hundred thousand tonnes of copper to the United States ahead of a Trump administration decision on import tariffs. Tom/next spreads widened sharply on Tuesday, signalling short-position pressure ahead of the LME August contract expiry on Wednesday. At one point on Monday spot copper traded $545/tonne above three-month futures."
+    },
+    {
+      "id": "5045123",
+      "time": "2026-08-18 11:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【優刻得公有云正式上線海光天曦系列】據優刻得訊息，近日，優刻得與海光資訊的合作取得重大階段性成果，搭載海光天曦系列的伺服器於今日正式上線優刻得烏蘭察布可用區。這是海光天曦系列首次在公有云上規模化上線，標誌著雙方在國產化算力上雲、異構智算生態共建方面邁出關鍵一步，對推動自主可控AI基礎設施落地具有里程碑意義。"
+    },
+    {
+      "id": "mkt:01a012d0-cd0c-7aab-906d-c23382a2348d",
+      "time": "2026-08-18 11:01:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Data show vessel traffic through the Strait of Hormuz remains slow; only six ships transited on Monday."
+    },
+    {
+      "id": "5045122",
+      "time": "2026-08-18 11:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【企業微信全面升級CLI與MCP，主流AI Agent可直接接入】企業微信全面升級CLI與MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent均可直接接入企業微信呼叫企微能力完成任務，企業也可基於開放介面接入自建Agent。此次開放升級，面向所有規模的企業全面開放，不再受企業人數、資質等門檻限制，覆蓋文件、表格、郵件、會議、日程、通訊錄等十個能力模組。在具體應用中，智慧體可直接讀取、寫入並操作企微資料，完成經營資料分析、提案生成等複雜工作流。針對企業風控合規，企微在MCP接入鏈路上疊加審批機制，實現“人機許可權隔離”：AI執行關鍵動作需人工審批，授權設有效期且全程留痕，確保資料呼叫合規可追溯。"
+    },
+    {
+      "id": "5045121",
+      "time": "2026-08-18 11:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國股市指數開盤變動不大，報1626.26點。"
+    },
     {
       "id": "5045120",
       "time": "2026-08-18 10:58:26",

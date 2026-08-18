@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-18 10:58:57",
-  "count": 15223,
+  "updated": "2026-08-18 11:02:48",
+  "count": 15224,
   "items": [
+    {
+      "id": "5045124",
+      "time": "2026-08-18 11:02:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價漲幅收窄；最新上漲2.0%，報1,678,000韓元。"
+    },
+    {
+      "id": "mkt:01a012d1-74dc-7aab-906d-cf114e8ccf28",
+      "time": "2026-08-18 11:01:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Copper supply squeeze intensifies; key tenor spreads widen】An LME measure of near-term supply tightness surged as copper resumed sharp volatility. The LME one-day contract traded at a $75/tonne premium to the next-day contract, the widest since January when the spread hit $100/tonne amid record LME benchmark prices. The tightness largely reflected traders rerouting several hundred thousand tonnes of copper to the United States ahead of a Trump administration decision on import tariffs. Tom/next spreads widened sharply on Tuesday, signalling short-position pressure ahead of the LME August contract expiry on Wednesday. At one point on Monday spot copper traded $545/tonne above three-month futures."
+    },
+    {
+      "id": "5045123",
+      "time": "2026-08-18 11:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【優刻得公有云正式上線海光天曦系列】據優刻得訊息，近日，優刻得與海光資訊的合作取得重大階段性成果，搭載海光天曦系列的伺服器於今日正式上線優刻得烏蘭察布可用區。這是海光天曦系列首次在公有云上規模化上線，標誌著雙方在國產化算力上雲、異構智算生態共建方面邁出關鍵一步，對推動自主可控AI基礎設施落地具有里程碑意義。"
+    },
+    {
+      "id": "mkt:01a012d0-cd0c-7aab-906d-c23382a2348d",
+      "time": "2026-08-18 11:01:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Data show vessel traffic through the Strait of Hormuz remains slow; only six ships transited on Monday."
+    },
+    {
+      "id": "5045122",
+      "time": "2026-08-18 11:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【企業微信全面升級CLI與MCP，主流AI Agent可直接接入】企業微信全面升級CLI與MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent均可直接接入企業微信呼叫企微能力完成任務，企業也可基於開放介面接入自建Agent。此次開放升級，面向所有規模的企業全面開放，不再受企業人數、資質等門檻限制，覆蓋文件、表格、郵件、會議、日程、通訊錄等十個能力模組。在具體應用中，智慧體可直接讀取、寫入並操作企微資料，完成經營資料分析、提案生成等複雜工作流。針對企業風控合規，企微在MCP接入鏈路上疊加審批機制，實現“人機許可權隔離”：AI執行關鍵動作需人工審批，授權設有效期且全程留痕，確保資料呼叫合規可追溯。"
+    },
+    {
+      "id": "5045121",
+      "time": "2026-08-18 11:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國股市指數開盤變動不大，報1626.26點。"
+    },
     {
       "id": "5045120",
       "time": "2026-08-18 10:58:26",
@@ -139439,68 +139492,6 @@
         "MKT News"
       ],
       "text": "【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot average price up 0.32% on Aug 11】TrendForce data show on Aug 11 spot average prices for DDR5 16Gb (2Gx8) 4800/5600 rose 0.32% day-on-day; DDR4 16Gb (2Gx8) 3200 rose 0.14% and DDR4 8Gb (1Gx8) 3200 rose 0.13%."
-    },
-    {
-      "id": "mkt:019feec4-83e2-7aab-8fe5-6d3a1f2e91ad",
-      "time": "2026-08-11 11:01:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02589.HK",
-        "Impact bearish",
-        "06181.HK",
-        "01364.HK"
-      ],
-      "text": "Hong Kong new-consumer names weakened: Hushang Ayi (02589.HK) fell over 3%, Laopu Gold (06181.HK) dropped more than 2%, Guming (01364.HK) and Mingming Henmang (01768.HK) also slipped."
-    },
-    {
-      "id": "5034944",
-      "time": "2026-08-11 11:00:50",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行據悉將在9月加息以應對通脹風險】據知情人士透露，日本央行在6月份加息後，可能會在9月17日至18日的下一次政策會議上考慮再次加息，以應對不斷上升的通脹風險。受人工智慧相關需求快速增長、日元大幅貶值以及原油價格上漲的影響，日本物價可能進一步上漲。此前，許多金融市場參與者一度預期日本央行大約每六個月加息一次。然而，根據週一公佈的會議意見摘要，在日本央行7月30日至31日舉行的最新政策制定會議上，一些政策委員會成員已表示應該加快加息步伐。一位成員表示，“政策利率上調的速度可能會超過市場預期”，而另一位成員則表示，日本央行有必要“加快貨幣寬鬆程度的調整步伐”。"
-    },
-    {
-      "id": "mkt:019feec3-dfc8-7aab-8fe5-6670904bbda5",
-      "time": "2026-08-11 11:00:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "【Japanese media: Bank of Japan may hike again at Sept. 17-18 meeting to counter rising inflation risk】Japanese media, citing people familiar with the matter, report the Bank of Japan could raise its policy rate again at the Sept. 17-18 policy meeting after a June increase, citing rising inflation risks driven by rapid AI-related demand growth, a sharp yen depreciation and higher oil prices. Markets had previously expected roughly six-month spacing between hikes. Minutes from the BOJ’s July 30-31 meeting showed some board members urged a faster pace of tightening; one said the pace of policy-rate increases could exceed market expectations, another said it was necessary to speed up the adjustment of monetary easing."
-    },
-    {
-      "id": "5034943",
-      "time": "2026-08-11 11:00:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.32%】TrendForce資料顯示，8月11日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.32%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.14%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.13%。"
-    },
-    {
-      "id": "mkt:019feec2-c97f-7aab-8fe5-5d22012245b6",
-      "time": "2026-08-11 10:59:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Jiji Press cited people familiar with the matter saying the Bank of Japan may consider another rate hike at its Sept. 17-18 policy meeting to address the risk of accelerating inflation."
     }
   ]
 }
