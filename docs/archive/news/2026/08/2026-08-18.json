@@ -1,7 +1,87 @@
 {
   "date": "2026-08-18",
-  "count": 1749,
+  "count": 1758,
   "items": [
+    {
+      "id": "5045758",
+      "time": "2026-08-18 17:46:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷特科技：2026年半年度淨利潤1453.31萬元，同比減少28.39%】雷特科技公告，2026年半年度營業收入9381.18萬元，同比增長4.16%。歸屬於上市公司股東的淨利潤1453.31萬元，同比減少28.39%。歸屬於上市公司股東的扣除非經常性損益後的淨利潤1384.72萬元，同比減少28.74%。"
+    },
+    {
+      "id": "5045757",
+      "time": "2026-08-18 17:45:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部週二（當地時間8月18日）將發行950億美元6週期國債。"
+    },
+    {
+      "id": "5045755",
+      "time": "2026-08-18 17:45:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞康股份：下屬公司簽訂合計8.68億元算力採購合同】亞康股份公告稱，公司下屬北京亞康智算科技有限公司與供應商A公司簽訂兩份通用算力技術服務協議，每份合同含稅金額均為4.34億元，合計8.68億元。兩份合同服務期均為60個月，分別約定對方於2026年10月7日、2026年10月31日前完成全部算力服務交付。本次交易不構成關聯交易及重大資產重組，合同履行存在外部環境變化、雙方喪失履約能力等風險。"
+    },
+    {
+      "id": "5045754",
+      "time": "2026-08-18 17:44:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微盟上半年實現AI收入1.33億元 同比增長89%】8月18日，微盟集團釋出2026年上半年財報，總收入為人民幣8.69億元，較上年同期增長12.1%。報告期內，公司毛利達6.12億元，同比增長5.1%；經調整EBITDA為0.56億元；經調整淨利潤為0.05億元。截至2026年6月30日，公司現金及銀行存款餘額約為19.95億元。分業務來看，上半年，AI應用收入同比增長89.2%至1.33億元，已超越去年全年的AI收入。據介紹，微盟集團以“AI First”為核心戰略，推出星元、星啟、星樞、星拓、星創等AI原生產品，並在零售、營銷等高頻場景滲透率持續提升。上半年，公司SaaS及AI收入為4.61億元，同比增長5.4%，其中，微盟零售收入約為2.75億元；同期，公司精準營銷收入約為4.08億元，同比增長20.9%。"
+    },
+    {
+      "id": "5045753",
+      "time": "2026-08-18 17:44:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組旗下紅燭故事App正式停運】8月17日，位元組跳動旗下付費小說平臺紅燭故事App正式停運，伺服器關閉。此前，紅燭故事App曾釋出《站內停服通知》。通知顯示，該App於7月9日起至8月17日，逐步停止相關運營服務。根據通知安排，7月9日停止會員充值續費 書幣購買、小說章節/整本購買等所有付費服務；7月10日停止App內所有小說更新等內容消費場景，僅保留客服服務，並開始使用者剩餘資產自動退款；8月17日App全平臺運營將全面停止，伺服器正式關閉，屆時及以後將無法登入App或訪問相關服務。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a01441-dcf9-7aab-9076-af186f3aee07",
+      "time": "2026-08-18 17:44:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "MOODY'S: Australia's economy is expected to remain resilient, supported by a flexible economy, effective institutions and proactive policymaking."
+    },
+    {
+      "id": "te:economy:576107",
+      "time": "2026-08-18 17:44:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "South Africa Business Sentiment Up to 4-Month High: SACCI — The South African Chamber of Commerce and Industry (SACCI) business confidence index rose to 125.4 in July 2026, the highest reading since March, up from 123.5 in the prior month. Higher new vehicle sales, stronger merchandise export volumes and lower energy prices supported the improvement, while higher inflation and lower precious metal prices weighed on business confidence. Sacci added that the number of foreign travellers to South Africa remained a positive factor despite short-term instability linked to the Middle East conflict."
+    },
+    {
+      "id": "5045752",
+      "time": "2026-08-18 17:43:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金祿電子：清遠基地PCB擴建專案首條適配AI和算力產品的生產線預計將在第三季度內建成並投產】金祿電子(301282.SZ)釋出投資者關係活動記錄表公告，根據目前實際建設情況，廣東清遠生產基地PCB擴建專案首條適配AI和算力產品的生產線預計將在第三季度內建成並投產。"
+    },
+    {
+      "id": "5045751",
+      "time": "2026-08-18 17:43:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中百集團：第一大股東及其一致行動人權益被動增加超1%】中百集團公告稱，公司已完成643.41萬股限制性股票回購登出手續，總股本由6.62億股變更為6.56億股。2026年8月17日，公司第一大股東武商聯及其一致行動人華漢投資持股數量不變，合計持股比例由35.98%被動增加至36.33%，權益變動觸及1%整數倍，本次權益變動不涉及資金來源。"
+    },
     {
       "id": "5045750",
       "time": "2026-08-18 17:43:05",
