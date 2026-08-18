@@ -1,7 +1,92 @@
 {
-  "updated": "2026-08-18 22:11:38",
-  "count": 15140,
+  "updated": "2026-08-18 22:15:36",
+  "count": 15142,
   "items": [
+    {
+      "id": "mkt:01a01539-7a68-7aab-907c-cfbb861508b8",
+      "time": "2026-08-18 22:14:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The US Food and Drug Administration (FDA) set Oct. 19 as the deadline for comments on its framework for generative AI medical devices."
+    },
+    {
+      "id": "5046239",
+      "time": "2026-08-18 22:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國FDA將10月19日定為生成式AI裝置框架意見徵集截止日期。"
+    },
+    {
+      "id": "mkt:01a01538-7527-7aab-907c-c56590e65581",
+      "time": "2026-08-18 22:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Food and Drug Administration (FDA) is seeking public comment on regulatory oversight of generative AI in medical devices."
+    },
+    {
+      "id": "5046238",
+      "time": "2026-08-18 22:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦第13次飛行任務正在從海上回收。"
+    },
+    {
+      "id": "mkt:01a01538-5795-7aab-907c-bb9317f84166",
+      "time": "2026-08-18 22:13:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said Starship's 13th flight is being recovered from the sea."
+    },
+    {
+      "id": "5046237",
+      "time": "2026-08-18 22:13:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局就生成式AI醫療裝置相關法規徵集公眾意見。"
+    },
+    {
+      "id": "mkt:01a01537-756d-7aab-907c-b3f9aebb9849",
+      "time": "2026-08-18 22:12:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Think-tank: Iran likely to pair diplomacy with deterrence post-war; US containment may backfire】Ross Harrison, senior fellow at the U.S. Middle East Institute, says Iran’s post-war foreign policy is unlikely to revert to total isolation or to rapidly follow a Vietnam-style full integration. Economic realities make decades-long, gradual change more likely than a near-term transformation. The more probable outcome is a dual-track strategy: engaging diplomatically with Gulf Arab states while keeping military coercion — missile threats and the option to close the Strait of Hormuz — as leverage. The 2025–26 wars have weakened Iran and unsettled neighbors, prompting some Gulf capitals to privately reassess long-term reliance on U.S. security and consider hedging with Tehran. Washington’s instinct to tighten containment by arming Israel and Gulf partners could validate Tehran’s worst-case expectations and risk provoking further attacks on Gulf states. Harrison argues policymakers should leave space for Iranian regional diplomacy and evaluate whether such moves produce more constructive behavior rather than judging them solely on whether they solve all underlying issues."
+    },
+    {
+      "id": "mkt:01a01536-7bc1-7aab-907c-ab597fd6d512",
+      "time": "2026-08-18 22:11:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian presidential aide Ushakov said Russia rules out the possibility of freezing the Russia-Ukraine conflict along the contact line."
+    },
+    {
+      "id": "5046236",
+      "time": "2026-08-18 22:11:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1295.50美元/盎司。"
+    },
+    {
+      "id": "5046235",
+      "time": "2026-08-18 22:10:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【iQOO Neo11至尊版釋出：搭載2K屏與9100mAh電池，國補到手價2899元起】iQOO Neo11 至尊版正式釋出，國補後到手價 2899 元起。iQOO Neo11 至尊版行業首發天璣 9500M 旗艦芯，由 iQOO 與 MediaTek 深度聯合定製，採用臺積電第三代 3nm 製程和全大核 CPU 架構，搭配全系 LPDDR5X Ultra 和 UFS 4.1，攜手新一代 Monster 超核引擎；新機首發 iQOO 第三代 3D VC，助力全新 8K 冰穹 VC 均熱板均熱效能提升 5%；天璣 9500 M 攜手自研電競晶片 Q2，帶來 2K+144FPS 超分超幀併發、原畫級2K 紋理超分和原生級144FPS 超幀。（新浪科技）"
+    },
     {
       "id": "mkt:01a01535-d68c-7aab-907c-a7952c13f03f",
       "time": "2026-08-18 22:10:44",
@@ -138827,77 +138912,6 @@
         "其他"
       ],
       "text": "法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。"
-    },
-    {
-      "id": "te:markets:574462",
-      "time": "2026-08-11 22:15:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027."
-    },
-    {
-      "id": "5036128",
-      "time": "2026-08-11 22:15:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。"
-    },
-    {
-      "id": "5036127",
-      "time": "2026-08-11 22:14:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。"
-    },
-    {
-      "id": "5036126",
-      "time": "2026-08-11 22:14:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪2027款海豹06正式上市，提供DM-i和EV純電兩種動力版本選擇，售價為9.99萬至15.59萬元。"
-    },
-    {
-      "id": "mkt:019ff12b-7511-7aab-8ff4-a82baedf319a",
-      "time": "2026-08-11 22:13:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Zonghuixin Photonics to build high-end optical-communications chip and device R&D and manufacturing base in Changzhou】On Aug 11 Zonghuixin Photonics signed an agreement to establish a high-end optical-communications chip and device R&D and manufacturing base in Changzhou. The project includes total committed investment of about 5 bln yuan and will prioritize R&D and mass-production lines for indium phosphide high-end laser chips to promote domestic localization of core optical-communications chips."
-    },
-    {
-      "id": "5036125",
-      "time": "2026-08-11 22:12:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【縱慧芯光高階光通訊晶片及器件研發製造基地落戶常州】8月11日上午，縱慧芯光高階光通訊晶片及器件研發製造基地簽約落戶常州。本次簽約專案持續投入總計約50億元，將重點建設磷化銦高階鐳射晶片研發及量產產線，助推國內光通訊核心晶片的國產化程序。（常州釋出）"
-    },
-    {
-      "id": "5036124",
-      "time": "2026-08-11 22:12:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【睫毛膠水問題曝光後，山東平度成立聯合調查組】平度市市場監督管理局辦公室主任張明法表示，針對8月7日總檯報道的假睫毛膠水產品質量問題，平度市第一時間成立聯合調查組，對涉事企業開展全面核查，重點核查產品配方備案、原料採購、生產工藝等情況，調查工作正在有序推進，目前已要求對存在風險隱患的膠水停止分裝、使用。平度市市場監督管理局表示，下一步將部署開展全行業專項整治，進一步規範睫毛製品生產經營行為。引導相關龍頭企業聯合行業協會、檢測機構，共同參與制定睫毛膠水相關團體標準或行業規範，推動這一產業向規範化、標準化發展。（澎湃）"
-    },
-    {
-      "id": "5036123",
-      "time": "2026-08-11 22:11:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西CNT/MDA 民調：盧拉政府支援率 35.3%，不支援率 36.2%。"
     }
   ]
 }

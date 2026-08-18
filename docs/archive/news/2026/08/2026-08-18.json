@@ -1,7 +1,92 @@
 {
   "date": "2026-08-18",
-  "count": 2460,
+  "count": 2470,
   "items": [
+    {
+      "id": "mkt:01a01539-7a68-7aab-907c-cfbb861508b8",
+      "time": "2026-08-18 22:14:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The US Food and Drug Administration (FDA) set Oct. 19 as the deadline for comments on its framework for generative AI medical devices."
+    },
+    {
+      "id": "5046239",
+      "time": "2026-08-18 22:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國FDA將10月19日定為生成式AI裝置框架意見徵集截止日期。"
+    },
+    {
+      "id": "mkt:01a01538-7527-7aab-907c-c56590e65581",
+      "time": "2026-08-18 22:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Food and Drug Administration (FDA) is seeking public comment on regulatory oversight of generative AI in medical devices."
+    },
+    {
+      "id": "mkt:01a01538-5795-7aab-907c-bb9317f84166",
+      "time": "2026-08-18 22:13:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said Starship's 13th flight is being recovered from the sea."
+    },
+    {
+      "id": "5046238",
+      "time": "2026-08-18 22:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦第13次飛行任務正在從海上回收。"
+    },
+    {
+      "id": "5046237",
+      "time": "2026-08-18 22:13:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局就生成式AI醫療裝置相關法規徵集公眾意見。"
+    },
+    {
+      "id": "mkt:01a01537-756d-7aab-907c-b3f9aebb9849",
+      "time": "2026-08-18 22:12:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Think-tank: Iran likely to pair diplomacy with deterrence post-war; US containment may backfire】Ross Harrison, senior fellow at the U.S. Middle East Institute, says Iran’s post-war foreign policy is unlikely to revert to total isolation or to rapidly follow a Vietnam-style full integration. Economic realities make decades-long, gradual change more likely than a near-term transformation. The more probable outcome is a dual-track strategy: engaging diplomatically with Gulf Arab states while keeping military coercion — missile threats and the option to close the Strait of Hormuz — as leverage. The 2025–26 wars have weakened Iran and unsettled neighbors, prompting some Gulf capitals to privately reassess long-term reliance on U.S. security and consider hedging with Tehran. Washington’s instinct to tighten containment by arming Israel and Gulf partners could validate Tehran’s worst-case expectations and risk provoking further attacks on Gulf states. Harrison argues policymakers should leave space for Iranian regional diplomacy and evaluate whether such moves produce more constructive behavior rather than judging them solely on whether they solve all underlying issues."
+    },
+    {
+      "id": "mkt:01a01536-7bc1-7aab-907c-ab597fd6d512",
+      "time": "2026-08-18 22:11:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian presidential aide Ushakov said Russia rules out the possibility of freezing the Russia-Ukraine conflict along the contact line."
+    },
+    {
+      "id": "5046236",
+      "time": "2026-08-18 22:11:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1295.50美元/盎司。"
+    },
+    {
+      "id": "5046235",
+      "time": "2026-08-18 22:10:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【iQOO Neo11至尊版釋出：搭載2K屏與9100mAh電池，國補到手價2899元起】iQOO Neo11 至尊版正式釋出，國補後到手價 2899 元起。iQOO Neo11 至尊版行業首發天璣 9500M 旗艦芯，由 iQOO 與 MediaTek 深度聯合定製，採用臺積電第三代 3nm 製程和全大核 CPU 架構，搭配全系 LPDDR5X Ultra 和 UFS 4.1，攜手新一代 Monster 超核引擎；新機首發 iQOO 第三代 3D VC，助力全新 8K 冰穹 VC 均熱板均熱效能提升 5%；天璣 9500 M 攜手自研電競晶片 Q2，帶來 2K+144FPS 超分超幀併發、原畫級2K 紋理超分和原生級144FPS 超幀。（新浪科技）"
+    },
     {
       "id": "mkt:01a01535-d68c-7aab-907c-a7952c13f03f",
       "time": "2026-08-18 22:10:44",
