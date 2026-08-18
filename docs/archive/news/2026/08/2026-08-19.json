@@ -1,7 +1,19 @@
 {
   "date": "2026-08-19",
-  "count": 348,
+  "count": 349,
   "items": [
+    {
+      "id": "te:economy:576241",
+      "time": "2026-08-19 06:50:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "PPI Input",
+        "Importance 1"
+      ],
+      "text": "New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%)."
+    },
     {
       "id": "5046539",
       "time": "2026-08-19 06:47:22",

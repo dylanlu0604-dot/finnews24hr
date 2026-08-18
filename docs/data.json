@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-19 06:48:50",
-  "count": 15115,
+  "updated": "2026-08-19 06:52:45",
+  "count": 15114,
   "items": [
+    {
+      "id": "te:economy:576241",
+      "time": "2026-08-19 06:50:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "PPI Input",
+        "Importance 1"
+      ],
+      "text": "New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%)."
+    },
     {
       "id": "5046539",
       "time": "2026-08-19 06:47:22",
@@ -138568,22 +138580,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Edges Higher in Morning Trade — New Zealand's stocks rose 28 points, or 0.2%, to 13,889 in Wednesday morning trade, after retreating in the previous session, mainly boosted by consumer discretionary, consumer staples, and utilities. However, rising oil prices amid uncertainty over the reopening of the Strait of Hormuz capped the gain, raising concerns over inflation and also raising questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Traders also awaited the release of the RBNZ's business inflation expectations for Q3, due on Thursday, after accelerating slightly in Q2. Among the early gainers were A2 Milk (1.2%), Infratil (0.9%), Westpac Banking Corp. (0.9%), Channel Infrastructure (0.6%), EBOS Group (0.5%), and F&C Investment (0.4%)."
-    },
-    {
-      "id": "5036437",
-      "time": "2026-08-12 06:51:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【評級“分水嶺”顯現，中小銀行信用分層格局漸明】近日，多家評級機構密集釋出銀行2026年跟蹤評級報告。截至8月11日，已有重慶三峽銀行、陝西秦農農商行、浙江富陽農商行等7家中小銀行主體信用評級獲上調，其中重慶三峽銀行與陝西秦農農商行躋身AAA信用梯隊。與此同時，湖北孝感農商行、山西長子農商行等4家機構評級被下調。銀行信用評級有升有降的背後，是中小銀行在經營效益、資產質量、資本實力等方面的分化，中小銀行信用“分水嶺”正在顯現。業內人士認為，在淨息差持續收窄的背景下，中小銀行信用分層將成為長期趨勢，不同銀行需找準自身突圍路徑，夯實經營底盤。（中證報）"
-    },
-    {
-      "id": "5036436",
-      "time": "2026-08-12 06:51:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兩大龍頭中報披露在即，機構研判港股後市或轉入震盪整固期】在經歷一個多月的持續反彈後，近幾個交易日港股市場漲勢放緩，主要股指呈現區間震盪態勢。本週，騰訊控股、京東集團-SW等行業龍頭將披露的2026年中報是市場關注的重點，對於整個港股市場而言，中報季的盈利確定性將成為行情的主導變數。在業內人士看來，港股8月或轉入震盪整固期，隨著中報披露進入高峰期，市場定價邏輯正從情緒修復與資金輪動切換至基本面驗證與結構性再平衡，市場整體或仍以結構性行情為主。在具體配置上，在繼續將高股息紅利資產作為投資組合“穩定器”的同時，建議可適當增加對港股高彈性方向的關注。（中證報）"
     }
   ]
 }
