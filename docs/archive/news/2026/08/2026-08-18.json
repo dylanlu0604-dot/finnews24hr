@@ -1,7 +1,115 @@
 {
   "date": "2026-08-18",
-  "count": 2259,
+  "count": 2271,
   "items": [
+    {
+      "id": "5046122",
+      "time": "2026-08-18 20:59:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所官網更新管理層資訊 李永春任總經理】北京證券交易所官網管理層資訊已更新，李永春出任北交所總經理。李永春現任全國中小企業股份轉讓系統有限責任（下稱“全國股轉公司”）公司黨委副書記，北京證券交易所副董事長、總經理。此前，李永春擔任全國股轉公司黨委委員、副總經理，北京證券交易所副總經理。（上證報）"
+    },
+    {
+      "id": "5046121",
+      "time": "2026-08-18 20:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼強震死亡人數升至70人】印度尼西亞國家抗災署18日說，印尼近日發生的強震及多次強餘震造成的死亡人數已升至70人，另有132人受傷。目前暫無人員失蹤報告。印尼國家搜救局行動負責人布拉曼蒂約說，傷者中40人傷勢嚴重，其餘92人受輕傷。由於目前沒有收到新的人員失蹤報告，搜救人員正協助印尼國家抗災署開展災後恢復工作。（新華社）"
+    },
+    {
+      "id": "5046120",
+      "time": "2026-08-18 20:58:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：位元組跳動的大額銀團貸款吸引了超過300億美元的需求。"
+    },
+    {
+      "id": "5046119",
+      "time": "2026-08-18 20:58:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "小米ADR美股盤前跌0.25%。"
+    },
+    {
+      "id": "mkt:01a014f3-5562-7aab-907a-bce519b1ebf1",
+      "time": "2026-08-18 20:58:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB chief economist Lane said eurozone inflation is one percentage point above the ECB's 2% target, a large gap."
+    },
+    {
+      "id": "5046117",
+      "time": "2026-08-18 20:57:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行萊恩：歐元區通脹較歐洲央行2%的通脹目標高出1個百分點，幅度已相當大。"
+    },
+    {
+      "id": "5046116",
+      "time": "2026-08-18 20:57:52",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德意志銀行：美國上月干預日元“適得其反”】德意志銀行全球外匯研究主管喬治・薩拉韋洛斯在研報中表示，美國上月聯合干預託舉日元的舉措不僅 “無效”，還起到了 “反效果”；倘若日本當局完全不進行干預，日元本可能出現更大幅度的走強。他在研報中寫道：“美國政府公開鼓動日本當局動用美聯儲的 FIMA 工具，釋放出一個訊號，即美方並不樂見美國財政部直接拋售美元。指望日本以 FIMA 的懲罰性利率借入美元現金實施干預並不現實，這也抬高了日本進一步實施干預的門檻。”"
+    },
+    {
+      "id": "5046115",
+      "time": "2026-08-18 20:57:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必和必拓與Port Hedland工會薪資談判破裂，復工談判定檔8月25日】礦業巨頭必和必拓與其西澳大利亞Port Hedland鐵礦業務工會代表的薪資談判未能達成協議，雙方定於8月25日恢復磋商。必和必拓在該港口僱傭員工逾800人。聯合港口工會(Combined BHP Ports Unions)表示，公司最新提案未能充分回應工人的核心關切，並指出必和必拓上一財年錄得132億美元淨利潤，且派發了四年來最高股息。工會宣告稱：“在今天的會議上，必和必拓提交的提案並未充分解決那些以辛勤勞動創造132億美元利潤的員工們的關切。”工會補充道，工人將就包括反提案在內的各項選項諮詢其民選代表。"
+    },
+    {
+      "id": "te:economy:576157",
+      "time": "2026-08-18 20:56:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Chile GDP Falls Unexpectedly in Q2 — Chile’s economy contracted 0.2% year-on-year in the second quarter of 2026, missing forecasts of a 0.2% expansion. The weak GDP performance was mainly driven by a 6.4% decline in mining, with copper mining falling 10.5%. Fishing (-5.9%), construction (-3.2%), transport (-0.6%), agriculture and forestry (-0.3%), manufacturing (-0.3%) and public administration (-0.2%) also contracted. Meanwhile, utilities output rose 1.7%, commerce, restaurants and hotels expanded 2.0%, retail services increased 2.3%, personal services rose 2.4%, financial and business services grew 0.6%, and communications and information services increased 0.2%. Non-mining GDP expanded 0.7%. Overall GDP was unchanged quarter-on-quarter after declining 0.3% in the first quarter of 2026."
+    },
+    {
+      "id": "5046114",
+      "time": "2026-08-18 20:56:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度CFO何海建：年內主機板轉換生效後 將盡快納入港股通】8月18日晚，百度CFO何海建在百度財報電話會透露，百度計劃於8月26日召開股東特別大會，就若干相關事項尋求股東批准，並預計主機板轉換將於今年內生效。電話會上，百度方面表示正在為轉換後納入南向港股通做準備，希望轉換完成後能夠儘早納入。7月，百度董事會已批准將香港上市地位由第二上市轉換為雙重主要上市，並向港交所遞交申請，港交所已回覆確認。"
+    },
+    {
+      "id": "mkt:01a014f1-9d7c-7aab-907a-b367b018d377",
+      "time": "2026-08-18 20:56:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "According to foreign media, ByteDance attracted over $30 bln of subscription orders for a large bank loan."
+    },
+    {
+      "id": "5046113",
+      "time": "2026-08-18 20:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古：著力打造全國高質量詞元供給地、詞元出海樞紐和詞元經濟發展先行示範區】近日，內蒙古自治區政務服務與資料管理局等六部門聯合印發《內蒙古自治區促進詞元經濟高質量發展的若干措施》。其中提到，按照自治區黨委“1571”工作部署，加快推動詞元經濟高質量發展，著力打造全國高質量詞元供給地、詞元出海樞紐和詞元經濟發展先行示範區，賦能產業數智化轉型，加快培育智慧經濟新增長點，結合自治區實際，制定該措施。"
+    },
     {
       "id": "mkt:01a014f0-f1e7-7aab-907a-aa144e35f9bd",
       "time": "2026-08-18 20:55:29",
