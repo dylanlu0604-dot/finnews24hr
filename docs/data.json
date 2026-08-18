@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-18 12:06:54",
-  "count": 15256,
+  "updated": "2026-08-18 12:10:51",
+  "count": 15258,
   "items": [
+    {
+      "id": "mkt:01a0130f-cbbd-7aab-906e-dcaa826b0212",
+      "time": "2026-08-18 12:09:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Libya seeks up to $40 bln to develop oil and gas, aims to lift output to 2.0 mln bpd by 2030】Libya's National Oil Corporation says it needs about $30–40 bln to develop oil and gas resources and regain a leading role in global crude production, targeting output growth from roughly 1.4 mln bpd to 2.0 mln bpd by 2030. NOC chairman Masoud Suleman said more than 60 discovered fields remain undeveloped and that funding shortages are delaying projects. According to the EIA, Libya holds Africa's largest proved oil reserves. International majors including Eni, TotalEnergies, Chevron and ConocoPhillips operate in Libya but investment progress has been slow."
+    },
+    {
+      "id": "mkt:01a0130f-2447-7aab-906e-d0a64aa6706d",
+      "time": "2026-08-18 12:09:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.O",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba Cloud opens third South Korea data centre, launches Agentic AI services】Alibaba Cloud opened its third South Korea data centre and simultaneously launched its Agentic AI service suite. Gwangju-based AI firm Gendive integrated Alibaba Cloud video-generation models Wan and HappyHorse into its Agentic WorkOS product DevDive to enable low-code/no-code document analysis and visual/multimedia content-generation workflows. Naver Z’s Zepeto is using Alibaba Cloud infrastructure to support real-time 3D avatar generation and immersive interactions across Asian markets."
+    },
+    {
+      "id": "te:markets:575990",
+      "time": "2026-08-18 12:09:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls on Profit-Taking — Copper futures fell to around $6.55 per pound on Tuesday, hitting a two-week low as investors locked in profits after the metal surged to record highs earlier this month. The broader metals market also remained under pressure from rising oil prices, which kept inflationary risks and interest rate concerns in focus. The moves came as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Meanwhile, signs of tightening global copper supply continued to provide a floor for prices, as the metal keeps flowing to the US and China while becoming increasingly scarce elsewhere. Top producer Chile also expects copper production to fall 2.6% this year amid persistent setbacks at mines and development projects."
+    },
+    {
+      "id": "mkt:01a0130e-ead1-7aab-906e-c8d73edd154f",
+      "time": "2026-08-18 12:08:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,390/oz, down 0.60% intraday."
+    },
+    {
+      "id": "5045205",
+      "time": "2026-08-18 12:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：交通運輸部定於8月20日就“人工智慧+交通運輸”典型應用場景創新行動舉行專題新聞釋出會】交通運輸部定於2026年8月20日（週四）上午10時在部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。"
+    },
+    {
+      "id": "mkt:01a0130e-4e20-7aab-906e-c60ce7d6700c",
+      "time": "2026-08-18 12:08:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Preview: Ministry of Transport to hold Aug. 20 press briefing on \"AI+transport\" application scenarios initiative】China's Ministry of Transport will hold a press conference at 10:00 a.m. on August 20, 2026, at the ministry to outline its \"AI+transport\" typical application scenarios innovation action and answer questions."
+    },
+    {
+      "id": "5045204",
+      "time": "2026-08-18 12:07:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【企微CLI、MCP全面開放，WorkBuddy、DeepSeek等均可接入】記者今日從騰訊方面獲悉，企業微信全面升級CLI與MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent均可直接接入企業微信呼叫企微能力完成任務，企業也可基於開放介面接入自建Agent。此次開放升級，面向所有規模的企業全面開放，不再受企業人數、資質等門檻限制，覆蓋文件、表格、郵件、會議、日程、通訊錄等十個能力模組。 (財聯社)"
+    },
+    {
+      "id": "5045203",
+      "time": "2026-08-18 12:06:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【券商培訓大綱迎首次大調整：紀法知識納入必修 新增財富管理、國際化多項內容】記者瞭解到，中證協近日就《證券公司從業人員業務培訓大綱》向行業徵求意見。本次修訂系2022年版大綱釋出以來首次系統性更新，重點圍繞課程分類體系重構、紀法知識擴容、金融\"五篇大文章\"專題增設及監管規則更新四大方向調整，進一步強化從業人員合規底線與專業服務能力。本次大綱新增五大行業發展專題，旨在提升行業服務金融\"五篇大文章\"能力；更新錄入資本市場修訂核心內容包括：紀法知識首次單獨納入通識必修內容，成為突出亮點；規則\"立改廢釋\"成果，納入新\"國九條\"、深化上市公司併購重組市場改革意見、科創板改革八條措施等近年重要監管檔案，並補充財富管理轉型、國際化發展等行業轉型實踐經驗與路徑探索內容。"
+    },
     {
       "id": "mkt:01a0130c-6135-7aab-906e-ba94e488592d",
       "time": "2026-08-18 12:06:13",
@@ -139736,62 +139815,6 @@
         "國際"
       ],
       "text": "【馬來西亞新計劃目標到2035年實現210億美元節能效益】馬來西亞於週二推出全新的十年國家能效計劃，目標到2035年實現850億林吉特（208億美元）的節能效益。馬來西亞能源轉型與水務轉型部發布宣告稱，該計劃力求到2035年，各行業整體能源消費效率提升11.6%。宣告表示，累計節能量預計可達815000太焦，相當於馬來西亞半島兩年的能源需求量。"
-    },
-    {
-      "id": "5035007",
-      "time": "2026-08-11 12:09:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：一季度維修和翻新智慧手機市場顯示面板出貨量達2.98億片，創歷史新高】8月11日，Omdia最新發布的《智慧手機顯示市場資訊服務》報告顯示，隨著智慧手機廠商需求放緩，顯示面板製造商正將過剩產能轉向維修和翻機市場，推動該市場顯示面板出貨量快速增長。Omdia預測，2026年用於新智慧手機的顯示面板需求將下降12%。與此同時，隨著供應商積極尋求新的需求來源，面向維修和翻新機市場的顯示面板出貨量持續加速增長。2026年第一季度，維修和翻新智慧手機市場的顯示面板出貨量同比增長20%，達到2.98億片，首次超過同期面向智慧手機製造商的顯示面板出貨量（2.89億片）。"
-    },
-    {
-      "id": "5035006",
-      "time": "2026-08-11 12:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國總統特朗普簽署行政令推動拆分麻疹、腮腺炎和風疹三聯疫苗】美國總統唐納德·特朗普再次推動調整兒童疫苗接種計劃，將矛頭直接指向麻疹疫苗。在距離中期選舉僅剩數月之際，他重新聚焦這一政治上並不受歡迎的議題，並提出缺乏科學證據支援的說法。 特朗普週一簽署一項行政命令，建議將麻疹、腮腺炎和風疹三聯疫苗拆分為單獨接種。乙肝、新冠和流感等此前被普遍推薦的疫苗將不再獲得普遍推薦。此外，疫苗接種將被劃分為三類，並安排在不同時間就診時完成，這將增加新生兒醫療護理的時間和複雜性。 如果這些調整付諸實施，意味著家長需要更多次帶孩子就醫，才能讓年幼子女獲得相同的疾病防護。這增加了部分兒童錯過疫苗接種的風險，而此時美國疫苗接種覆蓋率本已出現下滑趨勢，使更多兒童面臨感染本可透過疫苗預防疾病的風險。"
-    },
-    {
-      "id": "te:economy:574270",
-      "time": "2026-08-11 12:08:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "Malaysia Jobless Rate Holds Steady at 3% — Malaysia’s unemployment rate held steady at 3.0% in June 2026, unchanged from the previous month and remaining at its highest level since October 2025. The number of unemployed persons increased to 517.8 thousand from 513.4 thousand in the previous month, indicating continued softness in the labor market. Meanwhile, total employment was little changed at 16.83 million. The labor force was unchanged at 17.34 million, with the labor force participation rate remaining stable at 70.9%. The number of people outside the labor force was little changed at 7.11 million."
-    },
-    {
-      "id": "te:economy:574269",
-      "time": "2026-08-11 12:07:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Indonesia Retail Sales Fall the Least in 3 Months — Indonesia’s retail sales dropped 3.0% year-on-year in June 2026, easing from a 3.9% decline in the prior month and marking the mildest fall since the downturn began in April. The softer decrease reflected the initial impact of government support measures aimed at cushioning households from persistent cost pressures and encouraging spending. Sectoral performance stayed uneven: food, beverages and tobacco sales slipped 3.6% (vs -4.1% in May), clothing fell 3.1% (vs -12.0%), and information and communication equipment plunged 20.2% (vs -18.4%). Recreational goods dropped 6.2% after a slight gain previously, while fuel sales reversed into a 1.5% decline. In contrast, household equipment rebounded 2.8% (vs -0.9%), and automotive parts surged 18.8% (vs 11.2%). On a monthly basis, retail sales rose 0.7%, the first rise in three months. With fiscal support measures gaining traction, retail activity is expected to strengthen in July, offering tentative signs of stabilisation in consumer demand."
-    },
-    {
-      "id": "5035005",
-      "time": "2026-08-11 12:07:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風白海豚已減弱為熱帶低壓】據中央氣象臺訊息，8月11日11時，颱風“白海豚”已減弱為熱帶低壓，位於湖北黃岡境內。（中央氣象臺）"
-    },
-    {
-      "id": "5035004",
-      "time": "2026-08-11 12:07:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津海事局啟動轄區河道行洪洩洪四級響應】根據最新氣象資訊，受颱風“白海豚”殘渦北上影響，預計8月11日夜間至13日，天津將出現大到暴雨，局地特大暴雨，海河流域上游洩洪風險與颱風帶來的風雨影響持續疊加，為切實做好防禦工作，天津海事部門落實天津市防汛響應工作部署，於8月11日啟動轄區河道行洪洩洪四級響應。目前轄區旅遊客船、渡船、遊艇等各類涉客船舶已嚴格落實“應停盡停、應關盡關、應撤盡撤”要求，全部停航避洪。"
     }
   ]
 }

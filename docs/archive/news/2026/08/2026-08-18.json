@@ -1,7 +1,86 @@
 {
   "date": "2026-08-18",
-  "count": 908,
+  "count": 916,
   "items": [
+    {
+      "id": "mkt:01a0130f-cbbd-7aab-906e-dcaa826b0212",
+      "time": "2026-08-18 12:09:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Libya seeks up to $40 bln to develop oil and gas, aims to lift output to 2.0 mln bpd by 2030】Libya's National Oil Corporation says it needs about $30–40 bln to develop oil and gas resources and regain a leading role in global crude production, targeting output growth from roughly 1.4 mln bpd to 2.0 mln bpd by 2030. NOC chairman Masoud Suleman said more than 60 discovered fields remain undeveloped and that funding shortages are delaying projects. According to the EIA, Libya holds Africa's largest proved oil reserves. International majors including Eni, TotalEnergies, Chevron and ConocoPhillips operate in Libya but investment progress has been slow."
+    },
+    {
+      "id": "mkt:01a0130f-2447-7aab-906e-d0a64aa6706d",
+      "time": "2026-08-18 12:09:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.O",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba Cloud opens third South Korea data centre, launches Agentic AI services】Alibaba Cloud opened its third South Korea data centre and simultaneously launched its Agentic AI service suite. Gwangju-based AI firm Gendive integrated Alibaba Cloud video-generation models Wan and HappyHorse into its Agentic WorkOS product DevDive to enable low-code/no-code document analysis and visual/multimedia content-generation workflows. Naver Z’s Zepeto is using Alibaba Cloud infrastructure to support real-time 3D avatar generation and immersive interactions across Asian markets."
+    },
+    {
+      "id": "te:markets:575990",
+      "time": "2026-08-18 12:09:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls on Profit-Taking — Copper futures fell to around $6.55 per pound on Tuesday, hitting a two-week low as investors locked in profits after the metal surged to record highs earlier this month. The broader metals market also remained under pressure from rising oil prices, which kept inflationary risks and interest rate concerns in focus. The moves came as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Meanwhile, signs of tightening global copper supply continued to provide a floor for prices, as the metal keeps flowing to the US and China while becoming increasingly scarce elsewhere. Top producer Chile also expects copper production to fall 2.6% this year amid persistent setbacks at mines and development projects."
+    },
+    {
+      "id": "mkt:01a0130e-ead1-7aab-906e-c8d73edd154f",
+      "time": "2026-08-18 12:08:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,390/oz, down 0.60% intraday."
+    },
+    {
+      "id": "5045205",
+      "time": "2026-08-18 12:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：交通運輸部定於8月20日就“人工智慧+交通運輸”典型應用場景創新行動舉行專題新聞釋出會】交通運輸部定於2026年8月20日（週四）上午10時在部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。"
+    },
+    {
+      "id": "mkt:01a0130e-4e20-7aab-906e-c60ce7d6700c",
+      "time": "2026-08-18 12:08:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Preview: Ministry of Transport to hold Aug. 20 press briefing on \"AI+transport\" application scenarios initiative】China's Ministry of Transport will hold a press conference at 10:00 a.m. on August 20, 2026, at the ministry to outline its \"AI+transport\" typical application scenarios innovation action and answer questions."
+    },
+    {
+      "id": "5045204",
+      "time": "2026-08-18 12:07:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【企微CLI、MCP全面開放，WorkBuddy、DeepSeek等均可接入】記者今日從騰訊方面獲悉，企業微信全面升級CLI與MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent均可直接接入企業微信呼叫企微能力完成任務，企業也可基於開放介面接入自建Agent。此次開放升級，面向所有規模的企業全面開放，不再受企業人數、資質等門檻限制，覆蓋文件、表格、郵件、會議、日程、通訊錄等十個能力模組。 (財聯社)"
+    },
+    {
+      "id": "5045203",
+      "time": "2026-08-18 12:06:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【券商培訓大綱迎首次大調整：紀法知識納入必修 新增財富管理、國際化多項內容】記者瞭解到，中證協近日就《證券公司從業人員業務培訓大綱》向行業徵求意見。本次修訂系2022年版大綱釋出以來首次系統性更新，重點圍繞課程分類體系重構、紀法知識擴容、金融\"五篇大文章\"專題增設及監管規則更新四大方向調整，進一步強化從業人員合規底線與專業服務能力。本次大綱新增五大行業發展專題，旨在提升行業服務金融\"五篇大文章\"能力；更新錄入資本市場修訂核心內容包括：紀法知識首次單獨納入通識必修內容，成為突出亮點；規則\"立改廢釋\"成果，納入新\"國九條\"、深化上市公司併購重組市場改革意見、科創板改革八條措施等近年重要監管檔案，並補充財富管理轉型、國際化發展等行業轉型實踐經驗與路徑探索內容。"
+    },
     {
       "id": "mkt:01a0130c-6135-7aab-906e-ba94e488592d",
       "time": "2026-08-18 12:06:13",
