@@ -1,7 +1,481 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 19:00:16_
-_本檔包含 3082 則快訊，約 605708 字_
+_更新時間：2026-08-18 19:35:37_
+_本檔包含 3096 則快訊，約 605848 字_
+
+---
+
+### 2026-08-13 23:58:11  #市場
+
+洲際交易所9月柴油期貨結算價為每噸1250.75美元。
+
+---
+
+### 2026-08-13 23:56:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 1.2% and 1.7%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 6%, Rio Tinto dropped 4.7% and Anglo American declined 3.5%. Precious-metal miners Fresnillo (-5.1%) and Endeavour (-4.2%) also fell sharply. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations.
+
+---
+
+### 2026-08-13 23:56:13  #公司
+
+利比亞國家石油公司負責人：蘇爾特石油公司已將哈蒂巴油田的一口新氣井投產，日增天然氣產能500萬立方英尺。
+
+---
+
+### 2026-08-13 23:55:37  #MKT News
+
+OpenAI appointed a new chief revenue officer less than a year after its previous appointment.
+
+---
+
+### 2026-08-13 23:55:23  #其他
+
+市場訊息：OpenAI不到一年便聘任新任首席營收官。
+
+---
+
+### 2026-08-13 23:55:21  #MKT News #AMD.O #Impact bullish
+
+AI chipmaker Cerebras says demand for its joint product with AMD is huge.
+
+---
+
+### 2026-08-13 23:54:07  #其他
+
+【葉門政府軍基地遭胡塞武裝襲擊 致3死15傷】葉門政府軍一名訊息人士13日對記者說，胡塞武裝當天使用無人機襲擊了葉門東南部哈德拉毛省一處政府軍基地，造成至少3名政府軍士兵死亡、15人受傷。（新華社）
+
+---
+
+### 2026-08-13 23:54:02  #MKT News
+
+【Houthi drone strike on Yemen government base in Hadramawt kills three, wounds 15】An unnamed Yemeni military officer said Houthi drones hit a government army base in the Abur area of Hadramawt province in southeast Yemen, near the Saudi border, killing at least three soldiers and wounding 15, several seriously. The officer said multiple drones struck the third brigade of the National Shield force; casualties could rise. The Houthi movement had not responded.
+
+---
+
+### 2026-08-13 23:53:30  #公司
+
+CEREBRAS執行長表示，市場對AMD聯合產品的需求巨大。
+
+---
+
+### 2026-08-13 23:51:53  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts.
+
+---
+
+### 2026-08-13 23:50:52  #公司
+
+CEREBRAS執行長：公司業務將以驚人的速度增長。資料中心對所有人來說都是一個挑戰。
+
+---
+
+### 2026-08-13 23:50:18  #MKT News #Market Themes #AI Revolution
+
+AI chipmaker Cerebras says its business will grow at an exceptional pace.
+
+---
+
+### 2026-08-13 23:50:12  #MKT News #Market Themes #AI Revolution
+
+AI chipmaker Cerebras says data centers pose a challenge for everyone.
+
+---
+
+### 2026-08-13 23:49:01  #公司
+
+【荷蘭警方確認鹿特丹港爆炸系工作事故】荷蘭鹿特丹警方13日初步確認，當天發生在鹿特丹港一家能源公司廠區的爆炸屬於工作事故。警方在宣告中說，目前來看爆炸是一起工作事故。荷蘭社會事務與就業部將對事故進行繼續調查，並負責處理後續事宜。（新華社）
+
+---
+
+### 2026-08-13 23:47:50  #MKT News #Important
+
+The Washington Post reports that about 25% of US "Reaper" drones were shot down during the Iran war.
+
+---
+
+### 2026-08-13 23:47:23  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Chip Producers Return to Market Lead — US stocks remained mostly higher on Thursday after soft price data consolidated bets of a Federal Reserve rate hold next month. The S&P 500 rose 0.5% to a new record and the Nasdaq jumped 0.8%. Headline and core producer prices were lower than expected in July, aligned with the tame CPI report from yesterday and limiting recent concerns of hawkish signals by FOMC members. Chip stocks extended gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and is aiming to acquire Decart AI for $6 billion continued to underpin the outlook for compute expenditures. Micron, Intel, and Marvel rose more than 6%, while Sandisk surged 15%. In turn, Cisco slumped 8% after it projected a slowdown in sales tied to AI data centers for this fiscal year. Also, bank holdings and industrial companies pulled back with Bank of America and RTX each dropping 1.5%, pressuring the Dow to below the flatline.
+
+---
+
+### 2026-08-13 23:47:13  #其他
+
+巴西國家統計局表示，部分客戶沒有可用的資料中心。
+
+---
+
+### 2026-08-13 23:46:04  #國際
+
+市場訊息：美國在伊朗戰爭中損失了約25%的“死神”無人機。
+
+---
+
+### 2026-08-13 23:45:28  #市場
+
+智利中央銀行以平均每份913.00智利比索的價格賣出7300萬美元外匯遠期合約。
+
+---
+
+### 2026-08-13 23:44:57  #MKT News #Important #WTI #Impact bullish
+
+【Iran supreme leader adviser says Tehran may escalate conflict if demands unmet】On the 13th an adviser to Iran's supreme leader posted on social media that if Iran's conditions are not met the supreme leader has made a strategic decision to respond by escalating the conflict. He said recent events show the United States lacks the ability to protect its Persian Gulf allies and urged advancing the "Hormuz Economic Security Mechanism" as the most durable path to a new regional order and to reduce reliance on U.S. military guarantees.
+
+---
+
+### 2026-08-13 23:44:38  #國際
+
+【伊朗最高領袖顧問：若條件得不到滿足 或升級衝突】伊朗最高領袖顧問穆赫貝爾13日在社交媒體上發文說，如果伊朗提出的條件得不到滿足，最高領袖已明確作出戰略決策，將採取升級衝突的方式予以回應。穆赫貝爾說，當前局勢已證明美國缺乏保護其波斯灣盟友的能力。他還表示，建立地區新秩序最為持久的路徑，在於推動實施“霍爾木茲經濟安全機制”，以擺脫對美國軍事保障的依賴。（新華社）
+
+---
+
+### 2026-08-13 23:43:57  #公司
+
+【億萬富豪阿克曼旗下Pershing將推出首支風險投資基金 押注IPO前企業】對沖基金億萬富豪比爾·阿克曼旗下投資公司正在籌備一項新的投資工具，讓投資者能夠投資首次公開募股（IPO）前的公司，成為又一家推出新基金、為投資者提供高增長初創企業投資敞口的公司。阿克曼和公司首席投資官Ryan Israel週三在致股東信中表示，Pershing Square Inc.已啟動Pershing Square Ventures Ltd.基金的籌備工作。這是一種常青型永久資本投資工具，在所投企業上市後仍可繼續持有其股份。
+
+---
+
+### 2026-08-13 23:43:37  #MKT News
+
+Billionaire Bill Ackman's Pershing Square plans to launch its first venture-capital fund to invest in pre-IPO companies.
+
+---
+
+### 2026-08-13 23:43:20  #MKT News #WDC.O #Impact bullish
+
+SanDisk top executive said the company expects to deliver first high-bandwidth flash (HBF) samples for AI inference devices to customers next year and has completed tape-out of its initial HBF chip.
+
+---
+
+### 2026-08-13 23:42:55  #焦點 #國際
+
+【美媒：美國將向中東部署“華盛頓”號航母】美國《華爾街日報》13日援引美官員的話報道，美國正準備將“喬治·華盛頓”號航母部署到中東，以替換“亞伯拉罕·林肯”號航母。（新華社）
+
+---
+
+### 2026-08-13 23:42:20  #其他
+
+【尼泊爾西部發生山體滑坡 已致10人死亡】近日，尼泊爾西部羅爾帕地區連降暴雨並引發山體滑坡。當地警方表示，截至當地時間13日，災害已造成至少10人死亡。當地警方通報稱，此次山體滑坡掩埋了多棟建築。救援人員和醫療衛生工作組已趕赴災區現場。（央視新聞）
+
+---
+
+### 2026-08-13 23:41:26  #市場
+
+洲際交易所英國9月天然氣期貨結算價為148.48便士/撒姆。
+
+---
+
+### 2026-08-13 23:40:12  #公司
+
+閃迪高管稱公司預計明年向客戶交付首批用於推理裝置的HBF樣品。
+
+---
+
+### 2026-08-13 23:38:52  #公司
+
+閃迪高管稱公司已完成首款高頻寬快閃記憶體晶片的流片。
+
+---
+
+### 2026-08-13 23:38:42  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+On Thursday, August 13, major European bourses closed: Germany's DAX fell 37.69 points (0.14%) to 26,308.60; the UK FTSE 100 dropped 63.95 points (0.59%) to 10,769.20; France's CAC 40 lost 24.38 points (0.28%) to 8,650.56; the Euro STOXX 50 rose 13.96 points (0.21%) to 6,547.95; Spain's IBEX 35 slipped 25.25 points (0.12%) to 20,179.15; Italy's FTSE MIB ticked up 26.34 points (0.05%) to 53,725.00.
+
+---
+
+### 2026-08-13 23:37:23  #宏觀
+
+【工業旅遊市場有望突破3000億元】七部門出臺政策扶持工業旅遊，開放產線觀摩、手工體驗等多元業態。2025年國內工業旅遊總收入1200億元，同比增長10%。研究機構預測，中國工業旅遊年均增速達18%，2029年市場有望突破3000億元，產業增長空間廣闊。（央視財經）
+
+---
+
+### 2026-08-13 23:36:44  #公司
+
+巴西CSN公司首席財務官稱，該公司仍在為旗下鋼鐵業務分析戰略可能性，這些可能性"將提升該業務的現金創造能力"。
+
+---
+
+### 2026-08-13 23:36:01  #公司 #市場 #國際
+
+【報道稱AMD擬透過債券發行融資高達50億美元】據報道，AMD擬透過債券發行融資高達50億美元，或為該公司史上最大規模投資級債券發行，加入AI熱潮驅動的企業發債浪潮。據知情人士透露，此次發行的最終規模尚未確定，可能根據需求進行調整。另一位知情人士表示，AMD將分四批發行票據，期限從3年到10年不等。最長期限品種的初始價格指引為較美國國債收益率溢價1.15個百分點。
+
+---
+
+### 2026-08-13 23:35:53  #公司
+
+【高爭民爆：上半年淨利潤同比下降53.11%】高爭民爆公告顯示，2026年上半年營業收入7.32億元，同比下降5.16%；淨利潤3245.04萬元，同比下降53.11%。其中，第二季度淨利潤環比第一季度增長142%。
+
+---
+
+### 2026-08-13 23:35:46  #公司
+
+市場訊息：馬克·沃爾特質押古根海姆股份，用以快速獲取貸款。
+
+---
+
+### 2026-08-13 23:35:12  #MKT News
+
+【Industrial tourism market could exceed 300 bln yuan】Seven government departments rolled out policies to support industrial tourism, opening factory-line visits and hands-on experiences. Domestic industrial tourism revenue is projected at 120 bln yuan in 2025, up 10% YoY. A research institute forecasts ~18% annual growth, projecting the market could surpass 300 bln yuan by 2029.
+
+---
+
+### 2026-08-13 23:35:10  #MKT News
+
+A U.S. judge dismissed the Trump administration's lawsuit alleging Harvard failed to protect Jewish students.
+
+---
+
+### 2026-08-13 23:34:44  #公司 #觀點 #央行 #國際
+
+【高盛副董事長稱美聯儲7月未加息絕對正確 或可“拖一拖”觀察更多訊號】高盛集團副董事長、前達拉斯聯儲銀行行長Robert Kaplan表示，美聯儲7月沒有加息“絕對”是正確的決定，並呼籲決策者在9月前保持開放態度。Kaplan認為，當前推升和壓低通脹的力量相互交織，過於僵化的前瞻指引反而可能適得其反。“如果我看到有切實的改善，我可能願意拖一拖，什麼都不做，”Kaplan表示。“但在作出判斷前，我希望充分利用從現在到9月的每一點時間，避免過於僵化或提前確定立場。”
+
+---
+
+### 2026-08-13 23:34:28  #MKT News #Macro & Rates #US10Y #Impact bullish #XAUUSD #DXY #Impact bearish
+
+U.S. 8-week Treasury bill auction on Aug. 13: stop-out yield 3.665%, prior 3.71%.
+
+---
+
+### 2026-08-13 23:34:16  #MKT News #Economic Calendar
+
+United States | 8-Week Bill Auction High Yield Rate (Aug.13) | actual 3.665% | previous 3.71%
+
+---
+
+### 2026-08-13 23:34:15  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+US 8-week Treasury bill auction to Aug 13: percentage allocated at the stop-out yield 36.84% (prior 17.93%).
+
+---
+
+### 2026-08-13 23:34:05  #國際
+
+市場訊息：美國大使館稱已在墨西哥米卻肯州恢複相關活動。
+
+---
+
+### 2026-08-13 23:33:59  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 8-week Treasury auction bid-cover ratio 2.85 on Aug 13, versus 2.74 previously.
+
+---
+
+### 2026-08-13 23:33:46  #MKT News #Economic Calendar
+
+United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.85 | previous 2.74
+
+---
+
+### 2026-08-13 23:33:46  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+US 4-week Treasury bill auction for Aug. 13: share of allotment awarded at the stop-out yield 79.23% vs 72.82% prior.
+
+---
+
+### 2026-08-13 23:33:42  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 4-week Treasury auction as of Aug. 13, bid-cover ratio 2.77; prior 2.68.
+
+---
+
+### 2026-08-13 23:33:39  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+U.S. 4-week Treasury auction to Aug. 13: stop-out yield 3.625%, prior 3.64%.
+
+---
+
+### 2026-08-13 23:33:30  #MKT News #Economic Calendar
+
+United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.77 | previous 2.68
+
+---
+
+### 2026-08-13 23:33:30  #MKT News #Economic Calendar
+
+United States | 4-Week Bill Auction High Yield Rate (Aug.13) | actual 79.23% | previous 72.82%
+
+---
+
+### 2026-08-13 23:33:30  #MKT News #Economic Calendar
+
+United States | 4-Week Bill Auction Accepted at High (Aug.13) | actual 3.625% | previous 3.64%
+
+---
+
+### 2026-08-13 23:33:14  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【USS Washington to relieve USS Lincoln in Middle East; lawmakers cite crew fatigue】US officials told the Wall Street Journal the carrier USS Washington will rotate into the Middle East to relieve USS Lincoln under a planned swap. Lincoln has been on an extended deployment since November with few port calls and was redeployed to the region in January ahead of operations against Iran. The carrier and its air wing were central to the US 'Epic of Fury' bombing campaign and later participated in a blockade of Iranian ports. Lawmakers say the sustained high operational tempo and prolonged deployment have strained crew welfare and are pressing the Pentagon for more information on living conditions and mental-health issues.
+
+---
+
+### 2026-08-13 23:33:10  #國際
+
+【華盛頓號赴中東換防 林肯號艦員身心俱疲遭議員問責】據報道，知情美國官員稱，美國正準備按此前計劃好的輪換方案，派遣“華盛頓”號航空母艦前往中東接替“林肯”號。“林肯”號已執行了漫長的部署任務，停靠港口次數極少，引發國會議員對艦上生活條件的擔憂。“林肯”號於去年11月開始按計劃部署，並於今年1月在對伊開戰前被調往中東。該航母及其搭載的飛機在美國“史詩之怒”轟炸行動中發揮了關鍵作用，此後還參與了美國對伊朗港口的封鎖。據國會議員稱，高強度的作戰節奏和長時間部署帶來的壓力已令艦員不堪重負。他們正向五角大樓施壓，要求提供更多關於艦上生活條件和心理健康問題的資訊。
+
+---
+
+### 2026-08-13 23:32:57  #Trading Economics #Economy #Colombia #Consumer Confidence #Importance 1
+
+Colombia Consumer Confidence Weakens in July — Colombia’s Consumer Confidence Index fell 3.6 percentage points to 20.7% in July 2026 from 24.3% in June. The decline was driven by a 7.4-point drop in the Economic Conditions Index to 6.4%, while the Consumer Expectations Index fell 1.1 points to 30.3%. The share of respondents expecting “good economic times” over the next 12 months declined to 24.8% from 31.3%. Meanwhile, expectations for an improvement in the national economy rose to 24.3% from 22.5%, while households reported a better outlook for their current financial situation, with the indicator rising to 41.8% from 40.2%. The share of respondents reporting a deterioration in their household’s financial condition fell slightly to 11.1% from 11.5%. Meanwhile, willingness to purchase durable goods slumped to 1.7% from 16.1%.
+
+---
+
+### 2026-08-13 23:32:29  #國際
+
+市場訊息：美國八週期國庫券的投標/承銷比率為2.85，高於上一次拍賣的2.74。
+
+---
+
+### 2026-08-13 23:31:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+Bank of England chief economist Pill said recent UK GDP data make him more confident the economy will avoid a sharp downturn.
+
+---
+
+### 2026-08-13 23:31:44  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
+
+SanDisk (SNDK.O) top executive said Meta Platforms (META.O) will join an industry group to co-develop open standards for high-bandwidth flash (HBF).
+
+---
+
+### 2026-08-13 23:31:24  #其他
+
+市場訊息：新的航空母艦將取代林肯號航母。
+
+---
+
+### 2026-08-13 23:31:09  #市場 #國際
+
+歐洲STOXX指數上漲0.18%；歐元區藍籌股上漲0.16%。
+
+---
+
+### 2026-08-13 23:31:04  #市場
+
+法國CAC 40指數下跌0.29%；西班牙IBEX指數下跌0.1%。
+
+---
+
+### 2026-08-13 23:31:00  #市場
+
+英國富時100指數下跌0.69%；德國DAX指數下跌0.15%。
+
+---
+
+### 2026-08-13 23:30:44  #MKT News #HII.O #Impact bullish
+
+Wall Street Journal reports a new aircraft carrier will replace the Lincoln.
+
+---
+
+### 2026-08-13 23:30:43  #國際
+
+市場訊息：美國法官駁回特朗普政府指控哈佛大學未能保護猶太學生的訴訟。
+
+---
+
+### 2026-08-13 23:30:34  #其他
+
+閃迪高管稱，Meta將加入聯盟，共同制定高頻寬快閃記憶體開放標準。
+
+---
+
+### 2026-08-13 23:30:26  #市場 #國際
+
+京東在美國上市的股票跌幅擴大，最新下跌7.9%。
+
+---
+
+### 2026-08-13 23:29:51  #市場 #焦點
+
+納斯達克中國金龍指數跌超2%，京東跌7.87%，盛豐物流跌6.28%，中比能源跌4.81%，Tims中國跌4.71%，滿幫跌4.64%。
+
+---
+
+### 2026-08-13 23:29:16  #央行 #其他
+
+英國央行貨幣政策委員會委員就英國GDP資料發表看法：這朝著讓我確信我們並未陷入急劇衰退的方向發展。
+
+---
+
+### 2026-08-13 23:29:11  #MKT News #Important #WTI #Impact bullish #Brent #S&P500 #Impact bearish
+
+The U.S. will deploy a new aircraft carrier to the Middle East.
+
+---
+
+### 2026-08-13 23:28:52  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
+
+Reports of a Houthi attack on an ARAMCO refinery pushed diesel crack spreads above $98, their highest on record.
+
+---
+
+### 2026-08-13 23:28:31  #國際
+
+市場訊息：美國將向中東派遣新型航空母艦。
+
+---
+
+### 2026-08-13 23:26:42  #其他
+
+柴油裂解價差<HOc1-CLc1>升至每桶98美元上方，創歷史新高，此前有報道稱葉門胡塞武裝襲擊了沙烏地阿拉伯的阿美煉油廠。
+
+---
+
+### 2026-08-13 23:25:15  #MKT News #Important #AMD.O
+
+AMD plans to raise up to $5 billion through a bond offering.
+
+---
+
+### 2026-08-13 23:24:44  #MKT News #Important #SNDK.O #Impact bullish
+
+SanDisk (SNDK.O) continues to rally; gains widen to 15%.
+
+---
+
+### 2026-08-13 23:24:39  #其他
+
+閃迪(SNDK.O)持續走高，漲幅擴大至15%。
+
+---
+
+### 2026-08-13 23:24:10  #其他
+
+市場訊息：AMD擬透過發債募資至多50億美元。
+
+---
+
+### 2026-08-13 23:21:52  #MKT News
+
+U.S. Defense Secretary Hegseth said reports about the situation aboard the USS Abraham Lincoln are misinformation.
+
+---
+
+### 2026-08-13 23:21:27  #MKT News #Important #WTI #Impact bullish #Brent
+
+U.S. Defense Secretary Hegseth said the United States can sustain a blockade of Iran for as long as necessary.
+
+---
+
+### 2026-08-13 23:21:08  #國際
+
+美國國防部長赫格塞斯稱，關於“亞伯拉罕·林肯”號航母上狀況的報道存在失實陳述。
+
+---
+
+### 2026-08-13 23:20:23  #市場 #國際
+
+美國原油期貨<CLc1>和布蘭特原油期貨<LCOc1>縮減跌幅，下跌1美元，此前有報導稱，胡塞武裝用兩架無人機襲擊了沙特阿美在吉讚的煉油廠。
+
+---
+
+### 2026-08-13 23:19:47  #焦點 #國際
+
+美國國防部長赫格塞思就伊朗問題表態：美國可根據需要長時間實施封鎖。
 
 ---
 
@@ -18171,395 +18645,5 @@ The Dow Jones Index Opens 0.27% Higher — The Dow Jones Index is gaining 147 po
 ### 2026-08-12 21:36:05  #MKT News #Brent #Impact bullish #WTI #XAUUSD
 
 A Russian governor said a Ukrainian strike on Novorossiysk port killed three people and wounded 24.
-
----
-
-### 2026-08-12 21:35:56  #國際
-
-澤連斯基表示，自今年1月以來，烏克蘭已重新控制26個村莊。
-
----
-
-### 2026-08-12 21:35:53  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Ukrainian President Zelenskiy said Ukraine has liberated 745 sq km of territory since January.
-
----
-
-### 2026-08-12 21:35:45  #國際
-
-澤連斯基稱，自1月以來烏克蘭已收復745平方公里領土。
-
----
-
-### 2026-08-12 21:35:45  #MKT News #LITE.O #Impact bullish #COHR.O #MRVL.O
-
-U.S. optical-communications sector rallied: Lumentum up 5%, Coherent up 6%, MARVELL (MRVL.O) and Corning (GLW.N) up about 5%.
-
----
-
-### 2026-08-12 21:35:26  #MKT News #S&P500 #Impact bearish #Copper
-
-【Baltic Dry Index falls for third straight session】The Baltic Dry Index (BDI) fell for a third straight session, down 107 points (3.5%) to 2,939, after Capesize and Panamax rates weakened while Supramax/Ultramax rates ticked up. The Capesize index (BCI) slid 289 points (-5.8%) to 4,712; Capesize daily earnings dropped $2,619 to $39,237. The Panamax index (BPI) fell 10 points (-0.4%) to 2,302, ending a ten-session gain; Panamax daily earnings fell $97 to $20,716. The Supramax/Ultramax index (BSI) rose 3 points (0.2%) to 1,603. The Handysize index (BHSI) eased 3 points to 867. The BDI had reached its highest level since June 3 on Friday.
-
----
-
-### 2026-08-12 21:35:06  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Advance on Wednesday — US stocks were firmly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to test its record, the Nasdaq 100 rose nearly 1%, and the Dow edged higher. CoreWeave surged 20% after posting stronger than expected sales results. Similarly, SMCI advanced nearly 15% after its revenue forecast was higher than expected by analysts. Hyperscalers and chip producers also gained from strong results from Tencent, while Temasek took fresh stakes on SK Hynix and Samsung. The results injected fresh optimism on AI infrastructure stocks amid their volatile start to the third quarter. Nvidia, Oracle, and Amazon were up. Meanwhile, new inflation data showed relatively stable core inflation to ease pressure on the FOMC to raise interest rates. Still, uncertainty on the return of energy supply from the Middle East maintained inflationary concerns.
-
----
-
-### 2026-08-12 21:34:52  #國際
-
-俄羅斯一州長表示，烏克蘭襲擊新羅西斯克港造成3人死亡、24人受傷。
-
----
-
-### 2026-08-12 21:34:38  #公司
-
-【益生股份：已在部分養殖場區試點開展AI應用工作】益生股份在互動平臺表示，目前公司已在部分養殖場區的部分養殖場景試點開展AI應用工作，例如，人員入場消毒識別、人工授精行為規範等應用，具體應當以公司資訊披露為準。具身智慧養殖機器人屬於行業前沿探索，後續公司會密切關注相關技術發展。
-
----
-
-### 2026-08-12 21:34:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Commodities #Energy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-【US July CPI — key market takeaways】Core CPI (ex food and energy) rose 0.2% MoM and 2.5% YoY, the weakest YoY gain since Mar 2021. Energy and gasoline fell for a second month; grocery prices declined for the first time since March, partly driven by a record drop in lettuce prices amid a cyclospora outbreak. Housing rent/owners-equivalent rent rose 0.1% MoM and accounted for roughly two-thirds of the headline CPI increase. AI-related price pressure showed in a record 21.2% YoY rise in computer software and accessories; computers, peripherals and smart-home assistants posted their largest gains in over four years. Market reaction: traders trimmed odds of a Fed September rate hike after the release.
-
----
-
-### 2026-08-12 21:33:55  #MKT News
-
-Iran says oil cleanup operations along the southern Qeshm coast are underway.
-
----
-
-### 2026-08-12 21:33:49  #國際
-
-市場訊息：伊朗稱格什姆島南部海岸正在開展石油清理作業。
-
----
-
-### 2026-08-12 21:32:59  #公司
-
-【騰訊總裁劉熾平再談微信AI：微信會成為以AI為先的生態系統，有望轉化成巨大的價值】8月12日，在騰訊2026Q2財報業績電話會上，騰訊總裁劉熾平談及二季度微信AI“小微”灰測的反饋。他表示，AI可以讓微信變得更加智慧化，幫助使用者進行交易、探索內容以及管理日常生活。在 PC 時代，QQ 主要是一個通訊和社交工具，到了移動網際網路時代，微信又將 QQ 的價值放大了 10 倍以上。而到了AI時代，隨著時間的推移，微信會成為以AI為先的生態系統。使用者給出一個指令，系統就會自行執行。他表示，如果騰訊能夠在控制成本的同時提供這種體驗，並且滿足使用者隱私需求、成本效益，就能為微信賦予強大的能力。“未來微信的生態系統將會擴大，基於目前的盈利機制轉化為巨大的價值。這就是我們看到的未來。隨著原型的推出，我們對此越來越有信心。”
-
----
-
-### 2026-08-12 21:32:53  #市場
-
-T1能源股價繼公佈第二季度業績後上漲1.9%。
-
----
-
-### 2026-08-12 21:32:49  #市場
-
-諾基亞股價漲幅進一步擴大，最新上漲10%，為斯托克指數表現第二好的個股。
-
----
-
-### 2026-08-12 21:32:41  #MKT News #Market Regions #Europe & UK #NOKIA.HE #Impact bullish
-
-Nokia shares extended gains, rising 10% to become the second-best performer on the Stoxx Europe index.
-
----
-
-### 2026-08-12 21:32:24  #MKT News
-
-CoreWeave shares jumped 22%; Nebius rose 18%.
-
----
-
-### 2026-08-12 21:32:23  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-At the open on Aug 12 (Wednesday) the Dow Jones Industrial Average rose 14.50 points (+0.03%) to 53,806.35; the S&P 500 rose 27.19 points (+0.35%) to 7,755.28; the Nasdaq Composite rose 189.14 points (+0.71%) to 26,634.59.
-
----
-
-### 2026-08-12 21:31:59  #MKT News #Important #SMCI.O #Impact bullish
-
-Super Micro Computer (SMCI.O) shares rose 9% after the company said it expects fiscal 2027 revenue to exceed expectations.
-
----
-
-### 2026-08-12 21:31:44  #市場
-
-COREWEAVE股價飆升22%，NEBIUS股價上漲18%。
-
----
-
-### 2026-08-12 21:31:37  #市場
-
-LUMENTUM股價在盈利超預期後一度上漲12%。
-
----
-
-### 2026-08-12 21:31:29  #市場
-
-【費城半導體指數開盤上漲3.5%】費城半導體指數開盤上漲3.5%。成分股方面，英偉達股價上漲1.64%，臺積電股價上漲2.41%，博通股價上漲2.2%，美光科技股價上漲4.89%，超威半導體股價上漲2.75%，阿斯麥股價上漲2.37%。
-
----
-
-### 2026-08-12 21:31:25  #公司 #市場
-
-超威電腦股價上漲9%，此前該公司公佈的2027財年營收預期高於市場預估。
-
----
-
-### 2026-08-12 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲0.27%，標普500指數漲0.45%，納指漲0.88%。Lumentum Holdings Inc. Common Stock When Issued漲10.67%，超微電腦漲8.66%，Coherent Corp漲7.45%，Ciena科技漲6.96%，閃迪漲6.31%。“七姐妹”方面：英偉達漲1.79%，Meta Platforms漲0.70%，谷歌漲0.47%，特斯拉漲0.26%，亞馬遜漲0.19%，蘋果跌0.12%，微軟跌0.82%。
-
----
-
-### 2026-08-12 21:30:36  #MKT News #Important
-
-【US CPI in line with expectations; US equities open higher】At the open, the Dow was up 0.33%, the S&P 500 was up 0.49% and the Nasdaq was up 0.9%. Storage names led gains: SanDisk (SNDK.O) +6.9%, SK Hynix (SKHY.O) +5.8%, Micron Technology (MU.O) +5.5%.
-
----
-
-### 2026-08-12 21:30:32  #MKT News
-
-【Navigation warning: military exercise in East China Sea】Ningbo Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the East China Sea will hold military exercises on Aug 13 from 07:00 to 10:00; entry into the exercise area is prohibited.
-
----
-
-### 2026-08-12 21:30:26  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，中進醫療跌15.44%，網易跌4.33%，再鼎醫藥跌2.46%，新東方跌3.37%，中通跌0.78%。
-
----
-
-### 2026-08-12 21:30:25  #公司
-
-【鎧俠與閃迪釋出第九代2Tb QLC 3D快閃記憶體】8月12日，鎧俠控股旗下鎧俠公司與閃迪公司釋出其第九代高效能2Tb QLC 3D快閃記憶體技術，專為AI和資料密集型應用設計。相較第八代 2Tb QLC，新技術實現了更高的寫入與讀取頻寬，以及更優的讀寫功耗效率；其 NAND 介面速度達4.8Gb/s，較第八代器件提升33%。
-
----
-
-### 2026-08-12 21:30:09  #其他
-
-【航行警告！東海海域軍事演練】據中國海事局網站訊息，寧波海事局釋出航行警告，8月13日7時至10時，東海部分水域進行軍事演練活動，禁止駛入。
-
----
-
-### 2026-08-12 21:30:00  #Trading Economics #Markets #commodity #Importance 0
-
-Wind Energy Index Hits 5-week High — Wind Energy Index increased to 24.78 USD, the highest since July 2026. Over the past 4 weeks, Wind Energy Index gained 0.38%, and in the last 12 months, it increased 28.1%.
-
----
-
-### 2026-08-12 21:29:45  #MKT News #Macro & Rates #CSI300 #Impact bullish #CNH #Impact mixed #Hang Seng Index
-
-【PBOC: New corporate loan and mortgage rates around 3% in Q2】The PBOC released its Q2 2026 monetary policy implementation report, saying China’s moderately accommodative policy continued to take effect, social financing conditions remained relatively loose and banking-system liquidity was ample. Total financing grew at a reasonable pace and credit allocation improved; at end-June loans to technology, green projects, inclusive finance, the elderly-care industry and the digital economy continued to outpace overall loan growth. Newly issued corporate loans and mortgages carried rates around 3%, and aggregate social financing costs remained at a low level.
-
----
-
-### 2026-08-12 21:29:37  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-GlaxoSmithKline Stock Price Hits 9-week Low — GlaxoSmithKline shares decreased to 1850.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 5.13%, and in the last 12 months, it increased 29.15%.
-
----
-
-### 2026-08-12 21:29:32  #公司
-
-【“Open Water rooms”，甘肅省高速公路服務集團道歉】8月12日，甘肅省高速公路服務集團釋出情況通報：8月11日，有網民反映我公司所轄鴛鴦服務區開水間英文標識翻譯有誤，引發網民關注，給廣大公眾帶來了不良體驗。對此我公司深感不安，向所有關注此事的公眾深表歉意！經核實，該問題屬實。目前，鴛鴦服務區錯誤英文標識已拆除。我公司將以此次事件為警示，舉一反三，在全公司所轄各服務區開展標識標牌專項整治，全面規範管理工作：一是全域排查見底。對所有服務區中英文標識標牌進行全面校核，覆蓋功能用房、場區指引等全部對外展示點位，發現問題即知即改。二是完善稽核機制。建立標識標牌“先稽核、後上牆、定期複核”管理制度，統一中英文翻譯規範，明確專人負責設計、製作、安裝全流程把關，從制度層面堵塞管理漏洞。三是強化常態化管理。完善工作機制，從源頭防範各類問題，持續提升服務區標準化建設水平與對外服務形象。感謝社會各界與廣大司乘人員的監督與指正。
-
----
-
-### 2026-08-12 21:28:12  #觀點 #國際
-
-高盛稱，美國7月消費者物價指數表現“令人鼓舞”。
-
----
-
-### 2026-08-12 21:27:30  #公司
-
-【榮耀CEO李健談記憶體漲價、競爭壓力：不經歷磨難的企業不可能走向偉大】在榮耀Robot Phone新品釋出會後，榮耀CEO李健、榮耀產品線總裁方飛、榮耀硬體工程部總裁劉洋、榮耀AI與軟體部總裁孫建發等高管與媒體對話。提到榮耀當前面臨的局面，榮耀CEO李健表示，一方面，榮耀面臨一股向下的壓力，記憶體漲價、行業競爭等，都是狂風暴雨；同時還有一股向上的力量，榮耀戰略調整以後，技術、產業、生態都在向上拉。（新浪科技）
-
----
-
-### 2026-08-12 21:27:02  #其他
-
-市場訊息：iPhone 20 Pro 螢幕將沿用前代機型的螢幕比例，尺寸略有增大。搭配玻璃蓋板，有望實現近乎無邊框效果。
-
----
-
-### 2026-08-12 21:25:47  #其他
-
-市場訊息：LIGHTSPEED為佈局 Anthropic、OpenAI，擬募資 6 億美元。
-
----
-
-### 2026-08-12 21:25:13  #公司
-
-【騰訊：今年底至明年初GPU資源將更加充足】騰訊高管在業績會上表示，騰訊雲今年持續推進算力佈局，預計今年底至明年初GPU資源將更加充足，進一步提升雲服務能力。公司正關注GPU算力、模型即服務等業務機會，將統籌調配算力資源，兼顧內部模型開發與對外出租需求。
-
----
-
-### 2026-08-12 21:23:46  #市場
-
-【Lumentum控股美股盤前漲超10%】Lumentum控股美股盤前漲超10%，現報903.0美元。
-
----
-
-### 2026-08-12 21:21:19  #央行 #美聯儲
-
-【交易員進一步降低9月份美聯儲加息的壓注】交易員進一步降低9月份美聯儲加息的壓注，最新機率為36%，一天前為48%。
-
----
-
-### 2026-08-12 21:21:06  #其他
-
-市場訊息：科威特宣佈逮捕一名據稱與“伊斯蘭國”有關聯的本國公民。
-
----
-
-### 2026-08-12 21:20:28  #MKT News
-
-Kuwait state news agency said Kuwaiti authorities foiled a 'terrorist plot' to attack critical infrastructure.
-
----
-
-### 2026-08-12 21:20:21  #其他
-
-【榮耀將亮相第二屆世界人形機器人運動會】榮耀將參與第二屆世界人形機器人運動會。據悉，該賽事將於8月22日至26日在北京國家速滑館舉辦，是全球首個以人形機器人為競賽主體的國際綜合性科技體育盛會，聚焦機器人運動能力、協同智慧及真實場景應用。在今年4月落幕的2026人形機器人半程馬拉松中，榮耀自研機器人奪冠，包攬2026機器人半馬前六。（科創板日報）
-
----
-
-### 2026-08-12 21:20:02  #其他
-
-科威特國家通訊社稱，科威特挫敗了一起針對要害設施的“恐怖陰謀”。
-
----
-
-### 2026-08-12 21:19:40  #公司
-
-【康方生物：依沃西聯合化療治療一線sq-NSCLC獲批上市】8月12日，康方生物宣佈，公司全球首創的腫瘤免疫2.0基石藥物依達方®（通用名：依沃西單抗注射液）聯合化療一線治療晚期鱗狀非小細胞肺癌（sq-NSCLC）的新藥上市申請（sNDA），已獲得國家藥品監督管理局批准上市。
-
----
-
-### 2026-08-12 21:18:36  #資料 #央行 #國際
-
-【預測市場Polymarket最新顯示：美聯儲9月加息的機率已經跌至32%】美國7月CPI資料公佈後，預測市場Polymarket的資料顯示，美聯儲9月加息的機率已經跌至32%，為近一個月來最低值。維持不變的機率跳漲至67%。
-
----
-
-### 2026-08-12 21:18:07  #央行 #美聯儲
-
-【預測市場Polymarket最新顯示：美聯儲9月加息的機率已經跌至32%】美國7月CPI資料公佈後，預測市場Polymarket的資料顯示，美聯儲9月加息的機率已經跌至32%，為近一個月來最低值。維持不變的機率跳漲至67%。
-
----
-
-### 2026-08-12 21:17:41  #央行 #國際
-
-根據芝商所的FedWatch工具，對美聯儲9月會議加息的預期小幅下降。投資者目前預計加息25個基點的機率為42.1%，低於週二的48.4%。
-
----
-
-### 2026-08-12 21:17:17  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Extends Gains — The DAX 40 extended initial gains on Wednesday, rising 0.5% to a fresh high above 26,500 and extending gains for a fifth straight session. Traders weighed economic data, Middle East developments and corporate earnings. The latest US data showed inflation eased in line with expectations in July, while core inflation also slowed slightly to 2.5% from 2.6%, tempering expectations of Fed rate hikes. Tech stocks rallied, with Infineon Technologies rising 3.8%, following surprisingly strong earnings from US companies CoreWeave and Super Micro Computer. Industrials also advanced firmly, with Rheinmetall and Siemens Energy adding more than 4% each.
-
----
-
-### 2026-08-12 21:17:09  #國際
-
-【731部隊海拉爾支隊檔案揭露日軍掩蓋細菌戰罪行】侵華日軍第七三一部隊罪證陳列館8月12日公佈了原731部隊海拉爾支隊（滿洲第543部隊）《身上申告書》檔案。該檔案顯示侵華日軍曾假借常規步兵名義掩護細菌戰罪行，並揭示了戰後蘇聯持續追責日本細菌戰罪行的歷史細節。侵華日軍第七三一部隊罪證陳列館研究人員金士成說，此次研究主要有兩項重要發現。一是揭露了日軍曾假借步兵名義掩蓋細菌戰罪行，例如假借滿洲第97部隊、第177部隊、第201部隊等常規步兵部隊名義徵召人員，經731部隊本部3個月培訓後，再分配至海拉爾支隊。這種徵召方式具有明顯的欺騙性，目的是掩護731部隊進行人體實驗等秘密犯罪行為。二是證實了戰後對日軍細菌戰罪行追查的連續性。檔案顯示，這156人中有145人在戰後被蘇軍抓捕並羈押於蘇聯境內，其中4人於1950年4月至9月間在伯力接受審判。這一線索證實蘇聯對日本細菌戰罪行的調查與司法追責，在1949年進行的公開審判後仍持續推進。專家表示，海拉爾支隊《身上申告書》深化了731部隊問題研究，與此前獲取的原隊員口述證言形成了證據鏈。這一官方檔案拆穿了日軍掩蓋反人類罪行的偽裝，進一步證實了日本發動細菌戰的國家犯罪體系，對加強731部隊罪證研究及戰後審判史研究具有重要補充價值。（新華社）
-
----
-
-### 2026-08-12 21:16:51  #市場 #焦點
-
-純鹼連續主力合約日內跌1%，現報980.00元。
-
----
-
-### 2026-08-12 21:16:32  #公司 #國際
-
-雅培印度公司：穆尼爾·謝赫辭去董事長一職。
-
----
-
-### 2026-08-12 21:16:13  #國際
-
-雅培印度第一季度淨利潤 42.9 億盧比，市場預期 43.3 億盧比。
-
----
-
-### 2026-08-12 21:15:48  #公司 #國際
-
-【阿聯酋環球鋁業表示將斥資 4 億美元，在遭伊朗襲擊後恢復生產】阿聯酋環球鋁業表示，在今年 3 月遭遇伊朗導彈與無人機襲擊導致一座大型冶煉廠停產之後，預計將投入約 4 億美元，於明年初恢復生產。眼下地區企業正承受戰爭帶來的連鎖衝擊，全球經濟也隨之承壓。阿聯酋環球鋁業是全球頂級高階鋁生產商之一。該公司週三稱，位於阿布扎比的阿爾塔維拉廠區在 3 月 28 日的襲擊中遭受嚴重損毀，生產被迫緊急關停。該廠區設有一座大型電解鋁冶煉廠，以及為冶煉廠提供原料的氧化鋁精煉廠。阿聯酋環球鋁業在釋出半年財報時表示，公司已經啟動阿爾塔維拉廠區的復產工作，預計液態鋁產能將在 2027 年第一季度逐步恢復至遇襲前水平，復產成本約為 4 億美元。
-
----
-
-### 2026-08-12 21:15:35  #公司
-
-【中國主動量化策略首度嵌入境外主動ETF】富國基金旗下全資子公司富國香港獲銀河國際證券（新加坡）有限公司委任為投資顧問，為一隻聚焦新加坡本地中小市值股票的主動管理型權益ETF提供選股支援。據悉，該產品已啟動發行，預計9月3日在新加坡交易所主機板掛牌。近年來，公募“出海”持續升級。在境外機構設定方面，公募境外子公司已超30家，遍佈新加坡、北美等地區；產品層面，互聯互通發展如火如荼，互掛ETF相繼落地，並聯合境外多家資管機構發行基金產品，吸引海外資金投資A股。（中國基金報）
-
----
-
-### 2026-08-12 21:15:22  #公司
-
-【李嘉輝已出任長安銀行黨委副書記，原系陝西省委金融辦副主任】據“陝煤集團”訊息，該集團相關負責人於8月12日在總部會見長安銀行黨委副書記李嘉輝一行。據瞭解，李嘉輝原系陝西省委金融辦副主任、省委金融工委委員，陝西省委組織部今年7月底釋出幹部任前公示顯示，李嘉輝擬任省屬大型企業正職。
-
----
-
-### 2026-08-12 21:15:03  #MKT News #XAUUSD #Impact bullish #DXY
-
-Russia's foreign ministry said Ukrainian attacks have worsened global food shortages and driven global food prices higher.
-
----
-
-### 2026-08-12 21:14:38  #MKT News
-
-UAE aluminium producer will spend $400m to resume production after being attacked by Iran.
-
----
-
-### 2026-08-12 21:13:24  #其他
-
-【鴻海斥資10億新臺幣買地，規劃光通訊及超精密模具成型業務】8月12日晚，鴻海召開重大訊息說明會宣佈，董事會透過向鑫鴻國際投資購置新北市土城區中山路部分土地及地上物，交易金額新臺幣10億元，將朝光通訊、超精密模具及精密成型等相關業務發展方向整體規劃。鴻海說明，此案賣方鑫鴻國際投資負責人郭臺強，與鴻海主要股東郭臺銘具有血親關係，依據規定此次交易依法認定為關聯交易。
-
----
-
-### 2026-08-12 21:13:21  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russian intelligence agencies said Ukraine is using Western intelligence services to carry out strikes on transport and logistics infrastructure and vessels in the Sea of Azov and the Black Sea.
-
----
-
-### 2026-08-12 21:13:00  #國際
-
-俄羅斯外交部訊息：烏克蘭正利用西方情報，對亞速海與黑海的交通物流基礎設施及船隻發動襲擊。
-
----
-
-### 2026-08-12 21:12:18  #市場
-
-【美股儲存板塊盤前走高】美光科技、SK海力士、閃迪分別漲4％、5％、6％。
-
----
-
-### 2026-08-12 21:12:14  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Interfax, citing Russian official sources, said Russia will continue to strike ships transporting Western weapons to Ukraine.
-
----
-
-### 2026-08-12 21:12:10  #國際
-
-俄羅斯外交部訊息：烏克蘭攪動糧食市場的行動符合部分西方國家的利益。
-
----
-
-### 2026-08-12 21:12:04  #國際
-
-俄羅斯外交部稱，若船隻繼續為烏克蘭輸送西方武器，俄羅斯將持續對其發動打擊。
-
----
-
-### 2026-08-12 21:12:02  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
-
-European Stocks Edge Up — Both the STOXX 50 and STOXX 600 gaining 0.1% on Wednesday after a lacklustre opening. The move followed gains on Wall Street after an in-line US CPI report reinforced expectations that the Fed is unlikely to need to raise interest rates in the near term. However, uncertainty surrounding the situation in the Middle East continued to weigh on sentiment and limited gains. Meanwhile, the earnings season is drawing to a close, although several companies continued to report results. ABN AMRO surged more than 5% after beating expectations across the board, while Vestas jumped almost 20% after reporting higher revenue. The tech sector was among the top performers, benefiting from a broader global tech rally after CoreWeave reported better-than-expected sales growth. ASML Holding rose 2.1%, Infineon Technologies gained 3.7%, Siemens Energy advanced 4%. Luxury stocks, meanwhile, came under pressure, with LVMH falling 2.5% Hermes declining 1.5%, and Kering dropping 2.9%.
 
 ---

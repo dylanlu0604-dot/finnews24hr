@@ -1,7 +1,523 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 19:00:16_
-_本檔包含 3183 則快訊，約 604786 字_
+_更新時間：2026-08-18 19:35:37_
+_本檔包含 3190 則快訊，約 606998 字_
+
+---
+
+### 2026-08-15 05:09:43  #MKT News #Important
+
+According to the Iranian Students' News Agency (ISNA), Iranian foreign minister Araghchi said Iran has not decided whether to resume talks with the United States. Qatar and Pakistan, acting as coordinators, are exchanging information with Iran, but that does not mean the US and Iran have entered negotiations.
+
+---
+
+### 2026-08-15 05:08:18  #公司 #焦點
+
+ANTHROPICO公司在IPO前夕，初步預測2026年第二季度營收將超過115億美元。
+
+---
+
+### 2026-08-15 05:07:23  #國際
+
+伊朗外長阿拉格齊稱，調解方卡達和巴基斯坦正與伊朗交換資訊，但這並不意味著進行談判。
+
+---
+
+### 2026-08-15 05:05:57  #其他
+
+惠譽：預計英國政府總體赤字將持續收窄，2028年降至GDP的4.2%。英國政府總體債務佔GDP比重到2028年底將升至106%。
+
+---
+
+### 2026-08-15 05:05:51  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+FITCH says the UK prime minister's position within Labour has strengthened and approval ratings have risen, which will help maintain political stability for the remainder of the parliamentary term.
+
+---
+
+### 2026-08-15 05:05:33  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
+
+Fitch projects the UK general government debt-to-GDP ratio will rise to 106% by end-2028.
+
+---
+
+### 2026-08-15 05:05:23  #其他
+
+惠譽：英國首相在工黨內部地位“更具主導性”，更高的支援率將有助於本屆議會剩餘任期內實現更大的政治穩定。
+
+---
+
+### 2026-08-15 05:05:12  #其他
+
+市場訊息：查理・厄根同意取得 MobileX 控股權。
+
+---
+
+### 2026-08-15 05:04:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+Fitch expects the UK's current-account deficit to widen modestly this year due to higher energy imports.
+
+---
+
+### 2026-08-15 05:04:00  #MKT News
+
+Fitch expects the UK general government deficit to continue narrowing, falling to 4.2% of GDP by 2028.
+
+---
+
+### 2026-08-15 05:03:54  #其他
+
+惠譽確認英國評級為“AA-”，展望穩定。
+
+---
+
+### 2026-08-15 05:03:52  #其他
+
+惠譽就英國發表看法：預計今年因能源進口增加，經常專案赤字將溫和擴大。
+
+---
+
+### 2026-08-15 05:03:25  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+Fitch affirms the United Kingdom's sovereign rating at AA-; outlook stable.
+
+---
+
+### 2026-08-15 05:03:14  #其他
+
+Quaest 民調：大選第二輪模擬投票，盧拉支援率 43%，弗拉維奧・博索納羅 40%。
+
+---
+
+### 2026-08-15 05:02:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran deputy foreign minister said Tehran will not be intimidated by US threats or displays of force, responding to Trump’s remark that he would declare the Strait of Hormuz US territory.
+
+---
+
+### 2026-08-15 05:01:31  #國際
+
+伊朗副外長就特朗普宣稱將把霍爾木茲海峽宣佈為美國領土一事作出表態 ：伊朗不會被美國的威脅或武力炫耀所嚇倒。
+
+---
+
+### 2026-08-15 05:00:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Deputy Foreign Minister Karibabadi said the opening or closure of the Strait of Hormuz can only be decided by Iran.
+
+---
+
+### 2026-08-15 05:00:11  #市場
+
+布倫特原油日內漲2%，現報88.89美元/桶。
+
+---
+
+### 2026-08-15 04:59:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Soros Fund Management disclosed it increased its Apple (AAPL.O) holding by 29,004 shares to 529,538 shares.
+
+---
+
+### 2026-08-15 04:58:18  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canadian Yields Rise on Strong Macroeconomic Data — Canada’s 10-year government bond yield rose to 3.68%, approaching the over-two-month high of 3.72% touched on August 10th, following stronger-than-expected manufacturing sales data. Canadian factory sales rose 0.1% in June from May, beating expectations for a decline and marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Recent data also showed a stronger Canadian labor market, while Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast. The strong macroeconomic data raised expectations for a potential BoC rate hike if energy prices remain elevated. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery.
+
+---
+
+### 2026-08-15 04:53:59  #其他
+
+市場訊息：APACHE 伺服器暫停執行狀態將持續生效，直至崩潰原因查明。
+
+---
+
+### 2026-08-15 04:53:42  #MKT News
+
+【Lula says Brazil will decide after October election whether to accept Trump ambassador nominee】President Lula said on the 14th Brazil will decide after October’s presidential election whether to accept US President Trump’s nomination of Daniel Perez as ambassador to Brazil. In a media interview he accused the US of attempting to interfere, noting the nomination came 45 days before the vote after the post had been vacant for more than a year and saying the timing suggested electoral meddling.
+
+---
+
+### 2026-08-15 04:52:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【White House official says unaware of any plan to extend US‑Iran ceasefire】Politico reports the one‑month US‑Iran ceasefire expires next Monday; if not extended, the near six‑month conflict could resume. A White House official said talks were 'stalled' as of Friday afternoon and they had not heard of any extension plan, adding distance is irrelevant — the key is whether Iran will return to the table, and so far it has not. Negotiations are hampered by fragmented power in Iran — the IRGC, clerical authorities and the government hold divergent positions and all factions must sign off — with key disputes on sanctions, frozen assets and passage of the Strait of Hormuz; US officials say any fees or transit control are 'unacceptable.' The Trump administration says it reserves 'all options' if Iran refuses a deal and that sanctions and a blockade have severely damaged Iran's economy; sources say the US may be underestimating Iran's endurance and would need rapid action to stabilise the situation ahead of the midterm elections.
+
+---
+
+### 2026-08-15 04:52:05  #市場 #國際
+
+【特朗普：永遠不會因為戰爭導致美國汽油價格上漲而道歉】美國總統特朗普表示，他不會因為伊朗戰爭導致美國人承擔更高汽油價格而道歉。特朗普在長島的一場活動上作出上述表態。特朗普還表示，美國人需要為汽油“多付那麼一點點”。他說：“我永遠不會道歉。我做了正確的事”。
+
+---
+
+### 2026-08-15 04:51:10  #其他
+
+市場訊息：美軍陸軍在發生致命墜機事故後，下令阿帕奇直升機臨時停飛。
+
+---
+
+### 2026-08-15 04:48:29  #國際
+
+【盧拉：巴西將在大選後決定是否接受美駐巴大使提名】巴西總統盧拉14日表示，巴西政府將在今年10月大選結束後，再決定是否認可美國總統特朗普提名的丹尼爾·佩雷斯作為美駐巴西大使人選。盧拉當天在接受巴西媒體採訪時批評美國政府試圖干涉巴西內政。他說，美國在巴西舉行總統選舉前45天突然提出大使任命，而此前一年多該職位一直空缺。盧拉認為美方此舉具有干涉選舉的意圖。（新華社）
+
+---
+
+### 2026-08-15 04:47:35  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Extends Seven-Month Low — The Ibovespa shed 0.1% to close at 166,934 on Friday, extending its seven-month low. Oil and gas prices gained as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares as bond yields moved higher. Bradesco lost 0.7%, Itaúsa shed 0.4% and B3 fell 0.6%, while Itaú (+1.8%) and Banco do Brasil (+0.9%) bucked the trend. Utilities also traded lower, with Sabesp down over 2% and CPFL losing over 4.5% after reporting earnings, as growth in its industrial sector was modest and net debt rose 19.2%. Renner shed 2.6% after UBS BB abandoned its buy recommendation and cut its price target. Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Vale (-0.8%), Ambev (-1.1%) and Rede D’Or (-2.5%) also weighed on the index. On the upside, Petrobras rose 0.4% on higher oil prices, while Embraer added 2.4% after JPMorgan raised its price target.
+
+---
+
+### 2026-08-15 04:46:55  #MKT News
+
+Market sources said Canada's head of U.S. trade and chief negotiator will remain in Washington over the weekend to continue talks.
+
+---
+
+### 2026-08-15 04:45:16  #MKT News #AMD.O
+
+SEC filings show AMD (AMD.O) holds 3.3 mln Class A shares of SpaceX (SPCX.O).
+
+---
+
+### 2026-08-15 04:45:15  #公司 #國際
+
+美國證券交易委員會檔案顯示，AMD(AMD.O)持有330萬股SpaceX(SPCX.O)A類股份。
+
+---
+
+### 2026-08-15 04:45:02  #其他
+
+市場訊息：加拿大負責對美雙邊貿易事務的部長及加拿大首席貿易談判代表本週末將留駐華盛頓開展會談。
+
+---
+
+### 2026-08-15 04:39:57  #資料
+
+市場訊息：DIANA SHIPPING撤回了對GENCO SHIPPING的收購要約。
+
+---
+
+### 2026-08-15 04:39:33  #MKT News
+
+Harvard University disclosed a US$2.2 billion holding in SpaceX (SPCX.O).
+
+---
+
+### 2026-08-15 04:39:00  #公司 #國際
+
+美國證券交易委員會檔案顯示，英特爾(INTC.O)CEO陳立武於8月11日在公開市場以平均每股95美元的價格購買了105,263股英特爾股票。
+
+---
+
+### 2026-08-15 04:38:39  #MKT News #INTC.O #Impact bullish
+
+SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 105,263 shares in the open market on Aug. 11 at an average price of $95 per share.
+
+---
+
+### 2026-08-15 04:35:12  #公司 #國際
+
+【索羅斯第二季度新建Nebius等頭寸】索羅斯在第二季度新建了美國電力（AEP）、Nebius集團（NBIS）、Apogee Therapeutics（APGE）、DigitalBridge集團（DBRG）、Taylor Morrison住宅（TMHC）的頭寸；清倉了賽富時（CRM）、Penumbra（PEN）、Select Medical控股（SEM）、格芯（GFS）、Clear Channel戶外廣告（CCO）。
+
+---
+
+### 2026-08-15 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index dropped 108 points or 0.20 percent on Friday to close at 53732 points. Losses were led by Salesforce (-2.25%), Cisco Systems (-1.67%) and Amgen (-1.28%). Offsetting the fall, top gainers were Walt Disney (2.05%), Chevron (1.16%) and UnitedHealth (0.61%).
+
+---
+
+### 2026-08-15 04:34:39  #國際
+
+美國國家颶風中心預測，拉拉颶風將於週六給夏威夷大島帶來颶風天氣。
+
+---
+
+### 2026-08-15 04:34:22  #其他
+
+哈佛大學披露持有SpaceX價值22億美元的股權。
+
+---
+
+### 2026-08-15 04:34:15  #國際
+
+美國國家颶風中心表示，颶風赫爾南幾乎停滯不前，並減弱為熱帶低氣壓。
+
+---
+
+### 2026-08-15 04:33:58  #國際
+
+【美媒：美對古戰略側重經濟制裁而非軍事選項】據美國彭博社14日報道，特朗普政府對古巴的戰略正日益側重於加大經濟制裁和施壓，而非部署軍事力量。報道援引不願透露姓名的知情人士的話說，美方目前關注重點在於切斷古巴政權的所有收入來源，而不是採取類似今年1月針對委內瑞拉總統馬杜羅的那種軍事行動，並稱該戰略“旨在製造內部分裂，為談判創造空間”。（新華社）
+
+---
+
+### 2026-08-15 04:31:55  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+SEC filing shows NVIDIA (NVDA.O) holds 122.8 mln Class A common shares of SpaceX (SPCX.O), valued at about $21.0 bln.
+
+---
+
+### 2026-08-15 04:31:33  #國際
+
+特朗普在紐約的活動上結束講話。
+
+---
+
+### 2026-08-15 04:30:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Retreats From Record High — The S&P/TSX Composite Index shed 0.1% to close at 36,730 on Friday, retreating slightly from the record reached in the prior session amid losses in the technology and retail sectors. The technology sector tracked weakness among Wall Street-listed hyperscalers, with Shopify losing 3%, Constellation Software down 2.3% and Celestica tumbling 4%. Meanwhile, Canadian retailers traded lower amid disappointing US data pointing to a slowdown in the sector. ATD shed 0.7% and Loblaw lost 1.1%. The industrial sector was also mostly lower, with Enbridge down 1.2% despite fresh data showing growth in Canada’s factory sales. Financials traded mostly higher despite energy-driven inflationary pressures, as signs of macroeconomic headwinds in the US supported expectations of a Fed rate hold at the next FOMC meeting. TD Bank added 0.5% and CIBC gained 0.8%. Gold prices rose on expectations for US monetary policy, lifting miners. Agnico Eagle rose 2.9%, while WPM and Barrick gained 1.3%.
+
+---
+
+### 2026-08-15 04:29:12  #其他
+
+市場訊息：英偉達在SpaceX的持股價值約210億美元。
+
+---
+
+### 2026-08-15 04:27:50  #公司
+
+市場訊息：阿波羅債務解決方案公司將最高收購股東提交的2900萬股要約股份。
+
+---
+
+### 2026-08-15 04:26:37  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US President Trump said Iran still has missiles and drones, but not many remain.
+
+---
+
+### 2026-08-15 04:25:58  #MKT News
+
+U.S. President Trump said no one knows how successful we have been in Iran, and that Iran knows best how well we have done.
+
+---
+
+### 2026-08-15 04:25:06  #MKT News #Commodities #Energy #WTI #Brent
+
+President Trump said the US draws millions of barrels of oil from Venezuela each week.
+
+---
+
+### 2026-08-15 04:24:58  #國際
+
+特朗普：伊朗貨幣毫無價值。
+
+---
+
+### 2026-08-15 04:24:43  #國際
+
+特朗普：伊朗仍然擁有導彈和無人機，但不多。
+
+---
+
+### 2026-08-15 04:24:37  #國際
+
+特朗普重申伊朗已無防禦力量。
+
+---
+
+### 2026-08-15 04:23:57  #國際
+
+特朗普：我們在伊朗問題上取得了重大勝利。
+
+---
+
+### 2026-08-15 04:23:35  #國際
+
+特朗普：每週從委內瑞拉獲取數百萬桶石油。
+
+---
+
+### 2026-08-15 04:21:19  #MKT News #XAUUSD #Impact bearish #WTI #DXY
+
+Trump said the U.S. has the capability to destroy Iran but does not want to do so.
+
+---
+
+### 2026-08-15 04:20:56  #國際
+
+特朗普發言吹捧美國股市。
+
+---
+
+### 2026-08-15 04:20:12  #MKT News #Important
+
+Politico reports a White House official said the U.S.-Iran situation is unchanged and there is no word yet on an extension of the U.S.-Iran ceasefire agreement.
+
+---
+
+### 2026-08-15 04:19:57  #公司
+
+索羅斯基金管理有限責任公司將亞馬遜持股削減39.2%，至120萬股。
+
+---
+
+### 2026-08-15 04:18:24  #公司
+
+索羅斯基金管理有限責任公司增持蘋果公司股份5.8%，至529,538股。
+
+---
+
+### 2026-08-15 04:18:04  #公司
+
+【伯克希爾·哈撒韋第二季度增持谷歌】伯克希爾·哈撒韋在第二季度清倉了星座品牌（STZ）；減持了克羅格（KR）、第一資本金融（COF）、紐柯鋼鐵（NUE）、Ally金融（ALLY）、達維塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、達美航空（DAL）、萊納房屋（LEN）、梅西百貨（M）。
+
+---
+
+### 2026-08-15 04:18:01  #公司 #市場
+
+受伯克希爾哈撒韋公司13F檔案顯示增持股份影響，梅西百貨股價上漲1.2%。
+
+---
+
+### 2026-08-15 04:17:51  #國際
+
+特朗普：美國有能力摧毀伊朗，但我們不想那樣做。
+
+---
+
+### 2026-08-15 04:17:11  #其他
+
+市場訊息：有報道稱美伊停火協議目前暫無延期計劃。
+
+---
+
+### 2026-08-15 04:16:33  #其他
+
+市場訊息：白宮官員稱美伊局勢“穩定”。
+
+---
+
+### 2026-08-15 04:16:08  #國際
+
+美國銀行存款從前一週的19.368萬億美元增至19.496萬億美元。
+
+---
+
+### 2026-08-15 04:14:14  #Trading Economics #Economy #Paraguay #Consumer Confidence #Importance 0
+
+Paraguay Consumer Confidence Edges Higher — Paraguay’s Consumer Confidence Index rose to 42.99 in July 2026 from 41.23 in June, although it remained below the neutral threshold. The Economic Situation Index increased 2.17 points to 32.42, while the Economic Expectations Index rose 1.34 points to 53.55. Meanwhile, 13.50% of respondents said they were willing to save, down 1.50 percentage points from the previous month. Regarding willingness to purchase durable goods, intentions to buy houses and motorcycles increased, while those for household appliances and automobiles declined.
+
+---
+
+### 2026-08-15 04:14:04  #MKT News #GOOGL.O #Impact bullish #GOOG.O
+
+SEC filing shows Berkshire Hathaway raised its stake in Alphabet (GOOG.O) Class A shares by 45.2% to 78.8 mln shares; Class C holdings rose to 27.2 mln shares.
+
+---
+
+### 2026-08-15 04:13:20  #市場
+
+D.R. HORTON股價盤後上漲3.3%。
+
+---
+
+### 2026-08-15 04:12:38  #公司
+
+APPALOOSA第二季度減持阿里巴巴、惠而浦、高通、AMD和美光。
+
+---
+
+### 2026-08-15 04:12:07  #公司 #國際
+
+美國國家鐵路客運公司（Amtrak）：新建中西部維修設施預計將在約18個月的開發建設階段創造約3000個就業崗位。
+
+---
+
+### 2026-08-15 04:11:53  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump says he will soon declare Strait of Hormuz "U.S. territory"】Trump said he will soon declare the Strait of Hormuz "U.S. territory" after defeating Iran. He called a blockade of Iran "unstoppable" and a "wall of steel," and said the U.S. is fully prepared to respond to Iran, will not allow Iran to continue related actions or to acquire nuclear weapons. He said U.S. consumers would pay only a very small price for higher gasoline, said he did not care about hitting Iran's economy before the midterms, and said the U.S. has made a lot of money from tariffs.
+
+---
+
+### 2026-08-15 04:11:11  #公司 #國際
+
+美國鐵路公司(Amtrak)：獲得最高5.72億美元及最高8700萬美元的撥款，將用於解決芝加哥長期存在的鐵路基礎設施需求。
+
+---
+
+### 2026-08-15 04:11:03  #公司
+
+伯克希爾哈撒韋公司增持達美航空股份44.0%，至5,730萬股。
+
+---
+
+### 2026-08-15 04:10:45  #其他
+
+COATUE MANAGEMENT LLC將微軟持股增加18.4%至290萬股。
+
+---
+
+### 2026-08-15 04:08:55  #公司
+
+維京全球投資公司清倉谷歌母公司Alphabet Inc A類普通股股份。增持META PLATFORMS INC A類股股份75.8%，至190萬股。
+
+---
+
+### 2026-08-15 04:08:33  #公司
+
+市場訊息：維京全球投資公司減持微軟公司股份36.8%，至150萬股。
+
+---
+
+### 2026-08-15 04:08:04  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Gains for Third Straight Week — The Canadian dollar strengthened to 1.39 per USD, posting a third consecutive weekly gain as yield spreads narrowed. Domestic factory data supported the recent narrowing in the gap between US and Canadian bond yields. The spread between Canada’s 2-year yield and the US equivalent has narrowed by about 17 basis points this month. Canadian factory sales rose 0.1% in June from May, marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Meanwhile, US retail sales unexpectedly fell in July by the most in more than a year. Recent data also showed a stronger Canadian labor market and weaker US employment, reducing expectations for a Federal Reserve rate hike this year while raising the prospect of a BoC hike if energy prices remain elevated. Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast.
+
+---
+
+### 2026-08-15 04:07:56  #公司
+
+市場訊息：維京全球投資公司清倉蘋果公司股份。
+
+---
+
+### 2026-08-15 04:05:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall on Signs of Economic Cooling — US stock indices closed lower on Friday as macroeconomic headwinds weighed. The S&P 500 eased 0.2% from its record high, while the Dow shed 108 points and the Nasdaq 100 fell 0.1%. The University of Michigan’s preliminary August sentiment index fell to 51, below forecasts of 55. Meanwhile, retail sales dropped in July by the most in over a year. The data, alongside weak jobs figures and soft inflation, suggested that the economy is showing signs of cooling. A slowdown in consumer spending could weigh on corporate profits and the stock market. Hyperscalers, including Meta (-0.9%), Oracle (-3.8%) and Amazon (-0.9%), posted losses. Heavyweight chipmakers closed mixed, with Broadcom down 5.9%, Intel losing 2%, and Nvidia edging lower, while AMD (+6.5%) and memory producers extended their strong gains from earlier in the week. Micron added 2.3% on bullish recommendations from analysts and brokers, while Sandisk jumped 7.4% following its 14% surge on Thursday.
+
+---
+
+### 2026-08-15 04:04:36  #MKT News #S&P500 #Impact bullish #Dow #Impact bearish
+
+This week the S&P 500 rose 0.4%, the Dow Jones Industrial Average fell 0.6%, and the Nasdaq Composite rose 0.1%.
+
+---
+
+### 2026-08-15 04:04:12  #MKT News
+
+Fitch affirms Brazil's Rio de Janeiro state rating at 'BB'; outlook stable.
+
+---
+
+### 2026-08-15 04:04:09  #MKT News
+
+U.S. banking regulators have conditionally approved a bank charter for World Liberty Trust Co., an entity affiliated with the Trump family, according to a letter.
+
+---
+
+### 2026-08-15 04:04:07  #國際
+
+【特朗普聲稱將宣佈霍爾木茲海峽為“美國領土”】美國總統特朗普14日在白宮發表講話談及伊朗問題時，宣稱“很快就會宣佈霍爾木茲海峽成為美國的領土”。（新華社）
+
+---
+
+### 2026-08-15 04:03:48  #市場
+
+本週，標普500指數上漲0.4%，道指下跌0.6%，納斯達克指數上漲0.1%。
+
+---
+
+### 2026-08-15 04:03:43  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+On Friday, Aug. 14, U.S. equities closed lower: the Dow Jones Industrial Average fell 107.46 points (0.20%) to 53,732.53; the S&P 500 fell 13.30 points (0.17%) to 7,785.69; the Nasdaq Composite fell 73.86 points (0.28%) to 26,729.16.
+
+---
+
+### 2026-08-15 04:03:00  #MKT News #Important #AVGO.O #Impact bearish #S&P500
+
+【US close: major indices lower; Broadcom down nearly 6%】US stocks posted a preliminary close lower on Friday: Dow Jones -0.20%, S&P 500 -0.17%, Nasdaq -0.28%. Drone-tech Unusual Machines (UMAC.N) jumped 24.83%. Storage names extended gains: SanDisk (SNDK.O) +7.39%, Micron Technology (MU.O) +2.3%. Semiconductors were mixed: AMD (AMD.O) +6.5%, Broadcom (AVGO.O) -5.94%, Applied Materials (AMAT.O) -5.12%. The Nasdaq Golden Dragon China Index rose 0.6%.
 
 ---
 
@@ -18713,479 +19229,5 @@ Fannie Mae said the U.S. 30-year fixed-rate mortgage averaged 6.67% in the week 
 ### 2026-08-14 00:00:13  #Trading Economics #Economy #Poland #Balance of Trade #Importance 0
 
 Poland Trade Deficit Widens in June — Poland’s trade deficit widened sharply to €1.47 billion in June 2026, from €0.13 billion in the same month a year earlier. Imports increased 16.9% year-on-year to €33.47 billion, driven mainly by higher purchases of supplies and capital goods, while rising fuel prices also contributed to the increase. The continued growth in computer hardware exports was reflected in stronger imports of related parts and components. Meanwhile, exports rose 12.3% to €32 billion, supported by significant increases in sales of computer equipment, raw silver and refined copper. However, exports from the automotive and furniture industries declined.
-
----
-
-### 2026-08-13 23:58:11  #市場
-
-洲際交易所9月柴油期貨結算價為每噸1250.75美元。
-
----
-
-### 2026-08-13 23:56:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 1.2% and 1.7%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 6%, Rio Tinto dropped 4.7% and Anglo American declined 3.5%. Precious-metal miners Fresnillo (-5.1%) and Endeavour (-4.2%) also fell sharply. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations.
-
----
-
-### 2026-08-13 23:56:13  #公司
-
-利比亞國家石油公司負責人：蘇爾特石油公司已將哈蒂巴油田的一口新氣井投產，日增天然氣產能500萬立方英尺。
-
----
-
-### 2026-08-13 23:55:37  #MKT News
-
-OpenAI appointed a new chief revenue officer less than a year after its previous appointment.
-
----
-
-### 2026-08-13 23:55:23  #其他
-
-市場訊息：OpenAI不到一年便聘任新任首席營收官。
-
----
-
-### 2026-08-13 23:55:21  #MKT News #AMD.O #Impact bullish
-
-AI chipmaker Cerebras says demand for its joint product with AMD is huge.
-
----
-
-### 2026-08-13 23:54:07  #其他
-
-【葉門政府軍基地遭胡塞武裝襲擊 致3死15傷】葉門政府軍一名訊息人士13日對記者說，胡塞武裝當天使用無人機襲擊了葉門東南部哈德拉毛省一處政府軍基地，造成至少3名政府軍士兵死亡、15人受傷。（新華社）
-
----
-
-### 2026-08-13 23:54:02  #MKT News
-
-【Houthi drone strike on Yemen government base in Hadramawt kills three, wounds 15】An unnamed Yemeni military officer said Houthi drones hit a government army base in the Abur area of Hadramawt province in southeast Yemen, near the Saudi border, killing at least three soldiers and wounding 15, several seriously. The officer said multiple drones struck the third brigade of the National Shield force; casualties could rise. The Houthi movement had not responded.
-
----
-
-### 2026-08-13 23:53:30  #公司
-
-CEREBRAS執行長表示，市場對AMD聯合產品的需求巨大。
-
----
-
-### 2026-08-13 23:51:53  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts.
-
----
-
-### 2026-08-13 23:50:52  #公司
-
-CEREBRAS執行長：公司業務將以驚人的速度增長。資料中心對所有人來說都是一個挑戰。
-
----
-
-### 2026-08-13 23:50:18  #MKT News #Market Themes #AI Revolution
-
-AI chipmaker Cerebras says its business will grow at an exceptional pace.
-
----
-
-### 2026-08-13 23:50:12  #MKT News #Market Themes #AI Revolution
-
-AI chipmaker Cerebras says data centers pose a challenge for everyone.
-
----
-
-### 2026-08-13 23:49:01  #公司
-
-【荷蘭警方確認鹿特丹港爆炸系工作事故】荷蘭鹿特丹警方13日初步確認，當天發生在鹿特丹港一家能源公司廠區的爆炸屬於工作事故。警方在宣告中說，目前來看爆炸是一起工作事故。荷蘭社會事務與就業部將對事故進行繼續調查，並負責處理後續事宜。（新華社）
-
----
-
-### 2026-08-13 23:47:50  #MKT News #Important
-
-The Washington Post reports that about 25% of US "Reaper" drones were shot down during the Iran war.
-
----
-
-### 2026-08-13 23:47:23  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Chip Producers Return to Market Lead — US stocks remained mostly higher on Thursday after soft price data consolidated bets of a Federal Reserve rate hold next month. The S&P 500 rose 0.5% to a new record and the Nasdaq jumped 0.8%. Headline and core producer prices were lower than expected in July, aligned with the tame CPI report from yesterday and limiting recent concerns of hawkish signals by FOMC members. Chip stocks extended gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and is aiming to acquire Decart AI for $6 billion continued to underpin the outlook for compute expenditures. Micron, Intel, and Marvel rose more than 6%, while Sandisk surged 15%. In turn, Cisco slumped 8% after it projected a slowdown in sales tied to AI data centers for this fiscal year. Also, bank holdings and industrial companies pulled back with Bank of America and RTX each dropping 1.5%, pressuring the Dow to below the flatline.
-
----
-
-### 2026-08-13 23:47:13  #其他
-
-巴西國家統計局表示，部分客戶沒有可用的資料中心。
-
----
-
-### 2026-08-13 23:46:04  #國際
-
-市場訊息：美國在伊朗戰爭中損失了約25%的“死神”無人機。
-
----
-
-### 2026-08-13 23:45:28  #市場
-
-智利中央銀行以平均每份913.00智利比索的價格賣出7300萬美元外匯遠期合約。
-
----
-
-### 2026-08-13 23:44:57  #MKT News #Important #WTI #Impact bullish
-
-【Iran supreme leader adviser says Tehran may escalate conflict if demands unmet】On the 13th an adviser to Iran's supreme leader posted on social media that if Iran's conditions are not met the supreme leader has made a strategic decision to respond by escalating the conflict. He said recent events show the United States lacks the ability to protect its Persian Gulf allies and urged advancing the "Hormuz Economic Security Mechanism" as the most durable path to a new regional order and to reduce reliance on U.S. military guarantees.
-
----
-
-### 2026-08-13 23:44:38  #國際
-
-【伊朗最高領袖顧問：若條件得不到滿足 或升級衝突】伊朗最高領袖顧問穆赫貝爾13日在社交媒體上發文說，如果伊朗提出的條件得不到滿足，最高領袖已明確作出戰略決策，將採取升級衝突的方式予以回應。穆赫貝爾說，當前局勢已證明美國缺乏保護其波斯灣盟友的能力。他還表示，建立地區新秩序最為持久的路徑，在於推動實施“霍爾木茲經濟安全機制”，以擺脫對美國軍事保障的依賴。（新華社）
-
----
-
-### 2026-08-13 23:43:57  #公司
-
-【億萬富豪阿克曼旗下Pershing將推出首支風險投資基金 押注IPO前企業】對沖基金億萬富豪比爾·阿克曼旗下投資公司正在籌備一項新的投資工具，讓投資者能夠投資首次公開募股（IPO）前的公司，成為又一家推出新基金、為投資者提供高增長初創企業投資敞口的公司。阿克曼和公司首席投資官Ryan Israel週三在致股東信中表示，Pershing Square Inc.已啟動Pershing Square Ventures Ltd.基金的籌備工作。這是一種常青型永久資本投資工具，在所投企業上市後仍可繼續持有其股份。
-
----
-
-### 2026-08-13 23:43:37  #MKT News
-
-Billionaire Bill Ackman's Pershing Square plans to launch its first venture-capital fund to invest in pre-IPO companies.
-
----
-
-### 2026-08-13 23:43:20  #MKT News #WDC.O #Impact bullish
-
-SanDisk top executive said the company expects to deliver first high-bandwidth flash (HBF) samples for AI inference devices to customers next year and has completed tape-out of its initial HBF chip.
-
----
-
-### 2026-08-13 23:42:55  #焦點 #國際
-
-【美媒：美國將向中東部署“華盛頓”號航母】美國《華爾街日報》13日援引美官員的話報道，美國正準備將“喬治·華盛頓”號航母部署到中東，以替換“亞伯拉罕·林肯”號航母。（新華社）
-
----
-
-### 2026-08-13 23:42:20  #其他
-
-【尼泊爾西部發生山體滑坡 已致10人死亡】近日，尼泊爾西部羅爾帕地區連降暴雨並引發山體滑坡。當地警方表示，截至當地時間13日，災害已造成至少10人死亡。當地警方通報稱，此次山體滑坡掩埋了多棟建築。救援人員和醫療衛生工作組已趕赴災區現場。（央視新聞）
-
----
-
-### 2026-08-13 23:41:26  #市場
-
-洲際交易所英國9月天然氣期貨結算價為148.48便士/撒姆。
-
----
-
-### 2026-08-13 23:40:12  #公司
-
-閃迪高管稱公司預計明年向客戶交付首批用於推理裝置的HBF樣品。
-
----
-
-### 2026-08-13 23:38:52  #公司
-
-閃迪高管稱公司已完成首款高頻寬快閃記憶體晶片的流片。
-
----
-
-### 2026-08-13 23:38:42  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-On Thursday, August 13, major European bourses closed: Germany's DAX fell 37.69 points (0.14%) to 26,308.60; the UK FTSE 100 dropped 63.95 points (0.59%) to 10,769.20; France's CAC 40 lost 24.38 points (0.28%) to 8,650.56; the Euro STOXX 50 rose 13.96 points (0.21%) to 6,547.95; Spain's IBEX 35 slipped 25.25 points (0.12%) to 20,179.15; Italy's FTSE MIB ticked up 26.34 points (0.05%) to 53,725.00.
-
----
-
-### 2026-08-13 23:37:23  #宏觀
-
-【工業旅遊市場有望突破3000億元】七部門出臺政策扶持工業旅遊，開放產線觀摩、手工體驗等多元業態。2025年國內工業旅遊總收入1200億元，同比增長10%。研究機構預測，中國工業旅遊年均增速達18%，2029年市場有望突破3000億元，產業增長空間廣闊。（央視財經）
-
----
-
-### 2026-08-13 23:36:44  #公司
-
-巴西CSN公司首席財務官稱，該公司仍在為旗下鋼鐵業務分析戰略可能性，這些可能性"將提升該業務的現金創造能力"。
-
----
-
-### 2026-08-13 23:36:01  #公司 #市場 #國際
-
-【報道稱AMD擬透過債券發行融資高達50億美元】據報道，AMD擬透過債券發行融資高達50億美元，或為該公司史上最大規模投資級債券發行，加入AI熱潮驅動的企業發債浪潮。據知情人士透露，此次發行的最終規模尚未確定，可能根據需求進行調整。另一位知情人士表示，AMD將分四批發行票據，期限從3年到10年不等。最長期限品種的初始價格指引為較美國國債收益率溢價1.15個百分點。
-
----
-
-### 2026-08-13 23:35:53  #公司
-
-【高爭民爆：上半年淨利潤同比下降53.11%】高爭民爆公告顯示，2026年上半年營業收入7.32億元，同比下降5.16%；淨利潤3245.04萬元，同比下降53.11%。其中，第二季度淨利潤環比第一季度增長142%。
-
----
-
-### 2026-08-13 23:35:46  #公司
-
-市場訊息：馬克·沃爾特質押古根海姆股份，用以快速獲取貸款。
-
----
-
-### 2026-08-13 23:35:12  #MKT News
-
-【Industrial tourism market could exceed 300 bln yuan】Seven government departments rolled out policies to support industrial tourism, opening factory-line visits and hands-on experiences. Domestic industrial tourism revenue is projected at 120 bln yuan in 2025, up 10% YoY. A research institute forecasts ~18% annual growth, projecting the market could surpass 300 bln yuan by 2029.
-
----
-
-### 2026-08-13 23:35:10  #MKT News
-
-A U.S. judge dismissed the Trump administration's lawsuit alleging Harvard failed to protect Jewish students.
-
----
-
-### 2026-08-13 23:34:44  #公司 #觀點 #央行 #國際
-
-【高盛副董事長稱美聯儲7月未加息絕對正確 或可“拖一拖”觀察更多訊號】高盛集團副董事長、前達拉斯聯儲銀行行長Robert Kaplan表示，美聯儲7月沒有加息“絕對”是正確的決定，並呼籲決策者在9月前保持開放態度。Kaplan認為，當前推升和壓低通脹的力量相互交織，過於僵化的前瞻指引反而可能適得其反。“如果我看到有切實的改善，我可能願意拖一拖，什麼都不做，”Kaplan表示。“但在作出判斷前，我希望充分利用從現在到9月的每一點時間，避免過於僵化或提前確定立場。”
-
----
-
-### 2026-08-13 23:34:28  #MKT News #Macro & Rates #US10Y #Impact bullish #XAUUSD #DXY #Impact bearish
-
-U.S. 8-week Treasury bill auction on Aug. 13: stop-out yield 3.665%, prior 3.71%.
-
----
-
-### 2026-08-13 23:34:16  #MKT News #Economic Calendar
-
-United States | 8-Week Bill Auction High Yield Rate (Aug.13) | actual 3.665% | previous 3.71%
-
----
-
-### 2026-08-13 23:34:15  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-US 8-week Treasury bill auction to Aug 13: percentage allocated at the stop-out yield 36.84% (prior 17.93%).
-
----
-
-### 2026-08-13 23:34:05  #國際
-
-市場訊息：美國大使館稱已在墨西哥米卻肯州恢複相關活動。
-
----
-
-### 2026-08-13 23:33:59  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 8-week Treasury auction bid-cover ratio 2.85 on Aug 13, versus 2.74 previously.
-
----
-
-### 2026-08-13 23:33:46  #MKT News #Economic Calendar
-
-United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.85 | previous 2.74
-
----
-
-### 2026-08-13 23:33:46  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-US 4-week Treasury bill auction for Aug. 13: share of allotment awarded at the stop-out yield 79.23% vs 72.82% prior.
-
----
-
-### 2026-08-13 23:33:42  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 4-week Treasury auction as of Aug. 13, bid-cover ratio 2.77; prior 2.68.
-
----
-
-### 2026-08-13 23:33:39  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-U.S. 4-week Treasury auction to Aug. 13: stop-out yield 3.625%, prior 3.64%.
-
----
-
-### 2026-08-13 23:33:30  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.77 | previous 2.68
-
----
-
-### 2026-08-13 23:33:30  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction High Yield Rate (Aug.13) | actual 79.23% | previous 72.82%
-
----
-
-### 2026-08-13 23:33:30  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction Accepted at High (Aug.13) | actual 3.625% | previous 3.64%
-
----
-
-### 2026-08-13 23:33:14  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【USS Washington to relieve USS Lincoln in Middle East; lawmakers cite crew fatigue】US officials told the Wall Street Journal the carrier USS Washington will rotate into the Middle East to relieve USS Lincoln under a planned swap. Lincoln has been on an extended deployment since November with few port calls and was redeployed to the region in January ahead of operations against Iran. The carrier and its air wing were central to the US 'Epic of Fury' bombing campaign and later participated in a blockade of Iranian ports. Lawmakers say the sustained high operational tempo and prolonged deployment have strained crew welfare and are pressing the Pentagon for more information on living conditions and mental-health issues.
-
----
-
-### 2026-08-13 23:33:10  #國際
-
-【華盛頓號赴中東換防 林肯號艦員身心俱疲遭議員問責】據報道，知情美國官員稱，美國正準備按此前計劃好的輪換方案，派遣“華盛頓”號航空母艦前往中東接替“林肯”號。“林肯”號已執行了漫長的部署任務，停靠港口次數極少，引發國會議員對艦上生活條件的擔憂。“林肯”號於去年11月開始按計劃部署，並於今年1月在對伊開戰前被調往中東。該航母及其搭載的飛機在美國“史詩之怒”轟炸行動中發揮了關鍵作用，此後還參與了美國對伊朗港口的封鎖。據國會議員稱，高強度的作戰節奏和長時間部署帶來的壓力已令艦員不堪重負。他們正向五角大樓施壓，要求提供更多關於艦上生活條件和心理健康問題的資訊。
-
----
-
-### 2026-08-13 23:32:57  #Trading Economics #Economy #Colombia #Consumer Confidence #Importance 1
-
-Colombia Consumer Confidence Weakens in July — Colombia’s Consumer Confidence Index fell 3.6 percentage points to 20.7% in July 2026 from 24.3% in June. The decline was driven by a 7.4-point drop in the Economic Conditions Index to 6.4%, while the Consumer Expectations Index fell 1.1 points to 30.3%. The share of respondents expecting “good economic times” over the next 12 months declined to 24.8% from 31.3%. Meanwhile, expectations for an improvement in the national economy rose to 24.3% from 22.5%, while households reported a better outlook for their current financial situation, with the indicator rising to 41.8% from 40.2%. The share of respondents reporting a deterioration in their household’s financial condition fell slightly to 11.1% from 11.5%. Meanwhile, willingness to purchase durable goods slumped to 1.7% from 16.1%.
-
----
-
-### 2026-08-13 23:32:29  #國際
-
-市場訊息：美國八週期國庫券的投標/承銷比率為2.85，高於上一次拍賣的2.74。
-
----
-
-### 2026-08-13 23:31:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-Bank of England chief economist Pill said recent UK GDP data make him more confident the economy will avoid a sharp downturn.
-
----
-
-### 2026-08-13 23:31:44  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7
-
-SanDisk (SNDK.O) top executive said Meta Platforms (META.O) will join an industry group to co-develop open standards for high-bandwidth flash (HBF).
-
----
-
-### 2026-08-13 23:31:24  #其他
-
-市場訊息：新的航空母艦將取代林肯號航母。
-
----
-
-### 2026-08-13 23:31:09  #市場 #國際
-
-歐洲STOXX指數上漲0.18%；歐元區藍籌股上漲0.16%。
-
----
-
-### 2026-08-13 23:31:04  #市場
-
-法國CAC 40指數下跌0.29%；西班牙IBEX指數下跌0.1%。
-
----
-
-### 2026-08-13 23:31:00  #市場
-
-英國富時100指數下跌0.69%；德國DAX指數下跌0.15%。
-
----
-
-### 2026-08-13 23:30:44  #MKT News #HII.O #Impact bullish
-
-Wall Street Journal reports a new aircraft carrier will replace the Lincoln.
-
----
-
-### 2026-08-13 23:30:43  #國際
-
-市場訊息：美國法官駁回特朗普政府指控哈佛大學未能保護猶太學生的訴訟。
-
----
-
-### 2026-08-13 23:30:34  #其他
-
-閃迪高管稱，Meta將加入聯盟，共同制定高頻寬快閃記憶體開放標準。
-
----
-
-### 2026-08-13 23:30:26  #市場 #國際
-
-京東在美國上市的股票跌幅擴大，最新下跌7.9%。
-
----
-
-### 2026-08-13 23:29:51  #市場 #焦點
-
-納斯達克中國金龍指數跌超2%，京東跌7.87%，盛豐物流跌6.28%，中比能源跌4.81%，Tims中國跌4.71%，滿幫跌4.64%。
-
----
-
-### 2026-08-13 23:29:16  #央行 #其他
-
-英國央行貨幣政策委員會委員就英國GDP資料發表看法：這朝著讓我確信我們並未陷入急劇衰退的方向發展。
-
----
-
-### 2026-08-13 23:29:11  #MKT News #Important #WTI #Impact bullish #Brent #S&P500 #Impact bearish
-
-The U.S. will deploy a new aircraft carrier to the Middle East.
-
----
-
-### 2026-08-13 23:28:52  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
-
-Reports of a Houthi attack on an ARAMCO refinery pushed diesel crack spreads above $98, their highest on record.
-
----
-
-### 2026-08-13 23:28:31  #國際
-
-市場訊息：美國將向中東派遣新型航空母艦。
-
----
-
-### 2026-08-13 23:26:42  #其他
-
-柴油裂解價差<HOc1-CLc1>升至每桶98美元上方，創歷史新高，此前有報道稱葉門胡塞武裝襲擊了沙烏地阿拉伯的阿美煉油廠。
-
----
-
-### 2026-08-13 23:25:15  #MKT News #Important #AMD.O
-
-AMD plans to raise up to $5 billion through a bond offering.
-
----
-
-### 2026-08-13 23:24:44  #MKT News #Important #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) continues to rally; gains widen to 15%.
-
----
-
-### 2026-08-13 23:24:39  #其他
-
-閃迪(SNDK.O)持續走高，漲幅擴大至15%。
-
----
-
-### 2026-08-13 23:24:10  #其他
-
-市場訊息：AMD擬透過發債募資至多50億美元。
-
----
-
-### 2026-08-13 23:21:52  #MKT News
-
-U.S. Defense Secretary Hegseth said reports about the situation aboard the USS Abraham Lincoln are misinformation.
-
----
-
-### 2026-08-13 23:21:27  #MKT News #Important #WTI #Impact bullish #Brent
-
-U.S. Defense Secretary Hegseth said the United States can sustain a blockade of Iran for as long as necessary.
-
----
-
-### 2026-08-13 23:21:08  #國際
-
-美國國防部長赫格塞斯稱，關於“亞伯拉罕·林肯”號航母上狀況的報道存在失實陳述。
-
----
-
-### 2026-08-13 23:20:23  #市場 #國際
-
-美國原油期貨<CLc1>和布蘭特原油期貨<LCOc1>縮減跌幅，下跌1美元，此前有報導稱，胡塞武裝用兩架無人機襲擊了沙特阿美在吉讚的煉油廠。
-
----
-
-### 2026-08-13 23:19:47  #焦點 #國際
-
-美國國防部長赫格塞思就伊朗問題表態：美國可根據需要長時間實施封鎖。
 
 ---
