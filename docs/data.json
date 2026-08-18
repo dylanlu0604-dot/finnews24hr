@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-19 00:54:19",
-  "count": 15108,
+  "updated": "2026-08-19 00:58:11",
+  "count": 15105,
   "items": [
+    {
+      "id": "mkt:01a015ce-c218-7aab-907f-6695416e0a49",
+      "time": "2026-08-19 00:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Anthropic draws bank demand; pre-IPO revolving credit may top $10bn】Anthropic is expanding a planned revolving credit facility ahead of an IPO, with the size now expected to exceed about $10bn, sources said. The AI firm, developer of Claude, has pitched higher allocations to banks: lead arrangers were asked to commit roughly $1.25bn each, a second tier about $1.0bn, and less-active banks around $0.75bn or lower."
+    },
+    {
+      "id": "5046378",
+      "time": "2026-08-19 00:54:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌171美元，報13986美元/噸。LME期鋁收跌46美元，報3220美元/噸。LME期鋅收跌76美元，報3693美元/噸。LME期鉛收跌1美元，報1887美元/噸。LME期鎳收跌83美元，報16751美元/噸。LME期錫收跌951美元，報54819美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "mkt:01a015cb-2406-7aab-907f-5ee8b29d1b7b",
       "time": "2026-08-19 00:53:49",
@@ -138482,54 +138498,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。"
-    },
-    {
-      "id": "mkt:019ff1c1-16ae-7aab-8ff7-df999fe3797f",
-      "time": "2026-08-12 00:56:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SPACEXAI launched Grok bot."
-    },
-    {
-      "id": "5036280",
-      "time": "2026-08-12 00:56:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。"
-    },
-    {
-      "id": "mkt:019ff1c0-b4b8-7aab-8ff7-d015b6e548f3",
-      "time": "2026-08-12 00:56:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week."
-    },
-    {
-      "id": "5036279",
-      "time": "2026-08-12 00:55:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。"
-    },
-    {
-      "id": "mkt:019ff1bf-c94b-7aab-8ff7-c9c6e23ffb62",
-      "time": "2026-08-12 00:55:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production."
     }
   ]
 }

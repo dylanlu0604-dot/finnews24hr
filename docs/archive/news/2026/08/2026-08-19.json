@@ -1,7 +1,23 @@
 {
   "date": "2026-08-19",
-  "count": 42,
+  "count": 44,
   "items": [
+    {
+      "id": "mkt:01a015ce-c218-7aab-907f-6695416e0a49",
+      "time": "2026-08-19 00:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Anthropic draws bank demand; pre-IPO revolving credit may top $10bn】Anthropic is expanding a planned revolving credit facility ahead of an IPO, with the size now expected to exceed about $10bn, sources said. The AI firm, developer of Claude, has pitched higher allocations to banks: lead arrangers were asked to commit roughly $1.25bn each, a second tier about $1.0bn, and less-active banks around $0.75bn or lower."
+    },
+    {
+      "id": "5046378",
+      "time": "2026-08-19 00:54:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌171美元，報13986美元/噸。LME期鋁收跌46美元，報3220美元/噸。LME期鋅收跌76美元，報3693美元/噸。LME期鉛收跌1美元，報1887美元/噸。LME期鎳收跌83美元，報16751美元/噸。LME期錫收跌951美元，報54819美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "mkt:01a015cb-2406-7aab-907f-5ee8b29d1b7b",
       "time": "2026-08-19 00:53:49",
