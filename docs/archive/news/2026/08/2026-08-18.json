@@ -1,7 +1,38 @@
 {
   "date": "2026-08-18",
-  "count": 2073,
+  "count": 2076,
   "items": [
+    {
+      "id": "5046000",
+      "time": "2026-08-18 19:41:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【敘利亞一熱電站爆炸致3人死亡】據敘利亞國家電視臺18日報道，敘利亞西部塔爾圖斯省巴尼亞斯熱電站發生爆炸，造成至少3名工人死亡。 敘國家電視臺援引塔爾圖斯省安全部門的訊息說，當時工人正在對一個儲罐進行焊接，但儲罐內氣體未被完全排空，導致爆炸發生。 敘通社援引敘利亞電力公司的訊息說，目前該熱電站仍在正常執行。（新華社）"
+    },
+    {
+      "id": "5045999",
+      "time": "2026-08-18 19:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國司法部一位高階官員透露，斯坦福大學正因其境外資金捐贈、國際學生及招生相關做法，受到美國司法部越來越嚴格的審查。"
+    },
+    {
+      "id": "mkt:01a014ab-6df3-7aab-9078-dc8659f228a1",
+      "time": "2026-08-18 19:39:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Analysis: Weak UK labour market may reduce odds of September Bank of England rate hike】Accountancy lobby group ICAEW said the weak UK labour market appears likely to restrain inflation by suppressing wage growth, lowering the probability of a September Bank of England rate hike. ICAEW chief economist Suren Thiru said the labour market remains low‑mobility and stagnant, with rising costs, worsening global headwinds and greater policy uncertainty leaving employers reluctant to hire, fire or award large pay rises. Falling vacancies point to weakening labour demand, and speculation over the autumn budget could further curb hiring."
+    },
     {
       "id": "te:economy:576125",
       "time": "2026-08-18 19:38:17",

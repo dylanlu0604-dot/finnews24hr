@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-18 19:39:31",
-  "count": 15160,
+  "updated": "2026-08-18 19:43:27",
+  "count": 15155,
   "items": [
+    {
+      "id": "5046000",
+      "time": "2026-08-18 19:41:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【敘利亞一熱電站爆炸致3人死亡】據敘利亞國家電視臺18日報道，敘利亞西部塔爾圖斯省巴尼亞斯熱電站發生爆炸，造成至少3名工人死亡。 敘國家電視臺援引塔爾圖斯省安全部門的訊息說，當時工人正在對一個儲罐進行焊接，但儲罐內氣體未被完全排空，導致爆炸發生。 敘通社援引敘利亞電力公司的訊息說，目前該熱電站仍在正常執行。（新華社）"
+    },
+    {
+      "id": "5045999",
+      "time": "2026-08-18 19:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國司法部一位高階官員透露，斯坦福大學正因其境外資金捐贈、國際學生及招生相關做法，受到美國司法部越來越嚴格的審查。"
+    },
+    {
+      "id": "mkt:01a014ab-6df3-7aab-9078-dc8659f228a1",
+      "time": "2026-08-18 19:39:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Analysis: Weak UK labour market may reduce odds of September Bank of England rate hike】Accountancy lobby group ICAEW said the weak UK labour market appears likely to restrain inflation by suppressing wage growth, lowering the probability of a September Bank of England rate hike. ICAEW chief economist Suren Thiru said the labour market remains low‑mobility and stagnant, with rising costs, worsening global headwinds and greater policy uncertainty leaving employers reluctant to hire, fire or award large pay rises. Falling vacancies point to weakening labour demand, and speculation over the autumn budget could further curb hiring."
+    },
     {
       "id": "te:economy:576125",
       "time": "2026-08-18 19:38:17",
@@ -138954,71 +138985,6 @@
         "MKT News"
       ],
       "text": "【Jilin governor Hu Yuting chairs meeting on deepening state-farm reform】On Aug. 11 Jilin Governor Hu Yuting chaired a meeting on deepening reform of state-owned agricultural reclamation (state farms). He ordered corporatized governance and market-oriented operation, creation of regional state-farm groups segmented by planting, livestock and processing, and a one-company-one-policy approach to product positioning, input–output and business models. He pushed expanded partnerships with private/social capital and leading agribusinesses to boost internal dynamism and competitiveness. He also called for improving state land-use and management rules, promoting intensive, efficient and unified use of farm land and accelerating appropriate-scale operations to raise agriculture sector returns."
-    },
-    {
-      "id": "5035867",
-      "time": "2026-08-11 19:42:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦7月份汽車銷量增至17216輛。"
-    },
-    {
-      "id": "5035866",
-      "time": "2026-08-11 19:42:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【本月伺服器DDR5價格上漲15%至23%】隨著三季度原廠價格進一步上行，本月伺服器DDR5價格上漲15%至23%，32GB/64GB/96GB DDR5 RDIMM分別上漲至900/1590/2650美金。現貨伺服器RDIMM市場上，貿易端32GB D5介於1800~2100美金，64GB D5介於3000~3200美金，96GB D5介於3800~4100美金，合約與現貨DDR5尤其是96GB的價差呈現收窄趨勢。原廠DDR5供應依然維持供不應求，不過隨著合約價逐季上漲，伺服器大客戶對記憶體成本的上漲更為敏感，加之長協相繼落地，大客戶D5供應得到一定保障，DDR5漲幅預計將更加溫和。（快閃記憶體市場）"
-    },
-    {
-      "id": "5035865",
-      "time": "2026-08-11 19:42:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【潤邦股份：子公司籤28億-33億元造船合同】潤邦股份公告稱，近日全資子公司潤邦海洋與歐洲某知名船東簽訂《造船合同》，將為其建造6艘4500立方米活魚運輸船（含選擇權船舶訂單），合同總金額摺合人民幣約28億元至33億元。合同生效後第29個月開始分批次交付，滿足收到買方首筆付款等條件後生效。該合同預計對公司未來業績有積極影響，但存在不能執行、匯率、不能生效、選擇權履行不確定等風險。"
-    },
-    {
-      "id": "5035864",
-      "time": "2026-08-11 19:42:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【胡玉亭主持召開深化農墾改革發展專題會議】據“吉林釋出”，8月11日，吉林省委副書記、省長鬍玉亭主持召開深化農墾改革發展專題會議。胡玉亭強調，要堅持公司化治理、企業化運營，科學謀劃佈局區域性農墾集團，圍繞種植類、養殖類、加工類功能屬性，“一企一策”確定產品定位、投入產出、經營模式，強化與社會資本、龍頭企業合作，增強農墾內生動力、發展活力、整體實力。要完善國有土地資源使用經營管理制度，穩妥推進農墾土地資源集約高效利用，提升統一經營、統一管理水平，加快實現多種形式適度規模經營，提升農業產業綜合效益。"
-    },
-    {
-      "id": "5035863",
-      "time": "2026-08-11 19:42:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：花旗聘請摩根士丹利資深銀行家Jean-Baptiste Charlet負責法國業務。"
-    },
-    {
-      "id": "5035862",
-      "time": "2026-08-11 19:41:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北新建材與法國阿雷蒙集團開展座談交流】據北新建材訊息，近日，法國阿雷蒙集團GSBU建築總監Nicolas Petitfils一行到訪北新建材。雙方重點圍繞將工業領域成熟的快速連線安裝技術引入裝配式建築領域展開交流。"
-    },
-    {
-      "id": "5035861",
-      "time": "2026-08-11 19:40:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利比亞主要煉油廠一儲油罐遭襲起火】的黎波里訊息：利比亞國家石油公司10日晚釋出宣告說，位於利比亞西部扎維亞煉油廠的一處儲油罐遭襲，引發嚴重火災並完全坍塌。目前尚無人員傷亡報告。 宣告說，遭襲儲油罐儲存有約450萬升汽油，消防和安全小組正在努力控制火勢。當地媒體報道稱，儲油罐是遭無人機襲擊，火災已持續12小時。 宣告還說，該事件是近期發生的多起扎維亞石油設施遭襲事件中的最新一起。如襲擊持續發生，利比亞國家石油公司可能宣佈遭遇“不可抗力”並全面停止扎維亞煉油廠運營。 扎維亞煉油廠日加工能力約12萬桶，是利比亞西部最大煉油廠之一，也是利比亞國內重要燃料供應樞紐。(新華社)"
-    },
-    {
-      "id": "5035860",
-      "time": "2026-08-11 19:40:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科德教育：擬1億-2億元回購股份用於激勵計劃】科德教育公告稱，公司擬使用銀行專項貸款、自有資金和/或自籌資金回購股份，資金總額不低於1億元且不超過2億元，回購價格不超過23.27元/股。預計可回購股份429.74萬股至859.48萬股，約佔公司總股本的0.93%-1.87%，用於股權激勵或員工持股計劃。若36個月內未使用完畢，未使用股份將登出。回購期限自股東會審議透過之日起12個月內。"
     }
   ]
 }
