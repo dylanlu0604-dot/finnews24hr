@@ -1,7 +1,59 @@
 {
   "date": "2026-08-18",
-  "count": 941,
+  "count": 947,
   "items": [
+    {
+      "id": "5045230",
+      "time": "2026-08-18 12:33:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞必和必拓港口聯合工會：該公司的提議未能充分解決工人的關切。"
+    },
+    {
+      "id": "mkt:01a01324-99f9-7aab-906f-1ed7a792e38b",
+      "time": "2026-08-18 12:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said the war was unforgettable and that the enemy had failed to achieve any objectives."
+    },
+    {
+      "id": "5045229",
+      "time": "2026-08-18 12:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電電力等在內蒙古投資成立發電新公司】企查查APP顯示，近日，內蒙古國電電力鄂托克發電有限公司成立，經營範圍包含：發電業務、輸電業務、供（配）電業務；熱力生產和供應；特種裝置安裝改造修理等。企查查股權穿透顯示，該公司由國電電力旗下國電電力淮能大基地（內蒙古）能源有限公司全資持股。"
+    },
+    {
+      "id": "5045228",
+      "time": "2026-08-18 12:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國評估無法獲取前沿人工智慧所帶來的經濟衝擊】英國《金融時報》援引未具名知情人士訊息報道，英國內閣辦公室已要求商業、創新與科學貿易部，評估英國若被禁止使用最新前沿人工智慧模型將對本國經濟造成的影響。該評估預計數週內完成。美國總統特朗普 6 月釋出指令，要求撤銷外國使用者對 Anthropic 的 Fable 5 模型的訪問許可權，此事引發英國國家安全秘書處對未來模型獲取許可權問題的擔憂。"
+    },
+    {
+      "id": "5045227",
+      "time": "2026-08-18 12:30:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零跑汽車正式登陸阿根廷市場】記者今日獲悉，零跑汽車攜零跑B10、零跑C10兩款全球車型正式登陸阿根廷市場。"
+    },
+    {
+      "id": "mkt:01a01322-5951-7aab-906f-13b09ecf974b",
+      "time": "2026-08-18 12:30:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian Foreign Minister Araghchi said Iran has achieved success and victory both diplomatically and on the battlefield."
+    },
     {
       "id": "mkt:01a01321-e9e6-7aab-906f-0aedbf75d611",
       "time": "2026-08-18 12:29:44",

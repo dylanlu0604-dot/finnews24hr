@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-18 12:30:21",
-  "count": 15252,
+  "updated": "2026-08-18 12:34:17",
+  "count": 15228,
   "items": [
+    {
+      "id": "5045230",
+      "time": "2026-08-18 12:33:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞必和必拓港口聯合工會：該公司的提議未能充分解決工人的關切。"
+    },
+    {
+      "id": "mkt:01a01324-99f9-7aab-906f-1ed7a792e38b",
+      "time": "2026-08-18 12:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said the war was unforgettable and that the enemy had failed to achieve any objectives."
+    },
+    {
+      "id": "5045229",
+      "time": "2026-08-18 12:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電電力等在內蒙古投資成立發電新公司】企查查APP顯示，近日，內蒙古國電電力鄂托克發電有限公司成立，經營範圍包含：發電業務、輸電業務、供（配）電業務；熱力生產和供應；特種裝置安裝改造修理等。企查查股權穿透顯示，該公司由國電電力旗下國電電力淮能大基地（內蒙古）能源有限公司全資持股。"
+    },
+    {
+      "id": "5045228",
+      "time": "2026-08-18 12:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國評估無法獲取前沿人工智慧所帶來的經濟衝擊】英國《金融時報》援引未具名知情人士訊息報道，英國內閣辦公室已要求商業、創新與科學貿易部，評估英國若被禁止使用最新前沿人工智慧模型將對本國經濟造成的影響。該評估預計數週內完成。美國總統特朗普 6 月釋出指令，要求撤銷外國使用者對 Anthropic 的 Fable 5 模型的訪問許可權，此事引發英國國家安全秘書處對未來模型獲取許可權問題的擔憂。"
+    },
+    {
+      "id": "5045227",
+      "time": "2026-08-18 12:30:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零跑汽車正式登陸阿根廷市場】記者今日獲悉，零跑汽車攜零跑B10、零跑C10兩款全球車型正式登陸阿根廷市場。"
+    },
+    {
+      "id": "mkt:01a01322-5951-7aab-906f-13b09ecf974b",
+      "time": "2026-08-18 12:30:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian Foreign Minister Araghchi said Iran has achieved success and victory both diplomatically and on the battlefield."
+    },
     {
       "id": "mkt:01a01321-e9e6-7aab-906f-0aedbf75d611",
       "time": "2026-08-18 12:29:44",
@@ -139478,277 +139530,6 @@
         "市場"
       ],
       "text": "澳大利亞儲備銀行：房地產市場動能已經發生轉變，部分首府城市房價下跌，新增住房貸款降幅顯著。"
-    },
-    {
-      "id": "mkt:019fef19-79ac-7aab-8fe6-d40c3fcde841",
-      "time": "2026-08-11 12:34:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Reserve Bank of Australia says today's policy decision was unanimous."
-    },
-    {
-      "id": "mkt:019fef19-4dcc-7aab-8fe6-c87ecabd9cd9",
-      "time": "2026-08-11 12:34:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia says housing market is weaker than expected and loan growth will slow further."
-    },
-    {
-      "id": "5035039",
-      "time": "2026-08-11 12:33:57",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數在央行維持利率不變後擴大漲幅，最新上漲0.5%，報9,282.90點。"
-    },
-    {
-      "id": "mkt:019fef19-423a-7aab-8fe6-c6cd6885c77e",
-      "time": "2026-08-11 12:33:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AUDUSD",
-        "Impact bullish",
-        "S&P500",
-        "Copper"
-      ],
-      "text": "Reserve Bank of Australia upgrades global growth outlook, citing the AI boom and resilience to the Gulf conflict."
-    },
-    {
-      "id": "mkt:019fef19-0add-7aab-8fe6-b860d976b4c3",
-      "time": "2026-08-11 12:33:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia: recent government budget has not changed the outlook for public demand."
-    },
-    {
-      "id": "mkt:019fef18-fbf2-7aab-8fe6-b58a8c97e358",
-      "time": "2026-08-11 12:33:39",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia says the labour market remains slightly tight and is expected to stay stable in the near term before gradually easing."
-    },
-    {
-      "id": "5035038",
-      "time": "2026-08-11 12:33:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行：全球石油供應中斷正在直接加劇通脹。"
-    },
-    {
-      "id": "mkt:019fef18-ddc9-7aab-8fe6-ab643cd68b06",
-      "time": "2026-08-11 12:33:31",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Reserve Bank of Australia says its forecasts are based on technical assumptions that the cash rate will be 4.4% in Q4 2026, 4.5% in Q4 2027 and 4.4% in Q4 2028."
-    },
-    {
-      "id": "mkt:019fef18-8001-7aab-8fe6-a5c395d3e08c",
-      "time": "2026-08-11 12:33:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia projects revised average inflation will remain above 3% through mid-2027 and decline to 2.5% in early 2028."
-    },
-    {
-      "id": "mkt:019fef18-7f51-7aab-8fe6-9a783bd831b3",
-      "time": "2026-08-11 12:33:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia says resolution of the Middle East conflict remains uncertain; scenarios include inflation running above expectations and economic activity below expectations."
-    },
-    {
-      "id": "mkt:019fef18-45f2-7aab-8fe6-940dce0f889a",
-      "time": "2026-08-11 12:32:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia expects inflation to return to the midpoint of its target range only by end‑2027 and says there is upside risk to that outlook."
-    },
-    {
-      "id": "mkt:019fef18-110f-7aab-8fe6-8a2c8eb1f557",
-      "time": "2026-08-11 12:32:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia says inflation remains elevated and risks are skewed to the upside."
-    },
-    {
-      "id": "5035037",
-      "time": "2026-08-11 12:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）：如果通脹上行風險成為現實，將提高利率。"
-    },
-    {
-      "id": "mkt:019fef17-d42a-7aab-8fe6-85823b7101b0",
-      "time": "2026-08-11 12:32:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia projects unemployment at 4.5% in Q4 2026, 4.7% in Q4 2027 and 4.8% in Q4 2028."
-    },
-    {
-      "id": "5035036",
-      "time": "2026-08-11 12:32:22",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）：自年初以來，三次上調現金利率目標後，目前金融條件已較此前收緊，經濟增速也如預期呈現放緩態勢。"
-    },
-    {
-      "id": "mkt:019fef17-b6e7-7aab-8fe6-7bbe4eeb708e",
-      "time": "2026-08-11 12:32:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia expects CPI inflation of 3.6% in Q4 2027, 2.6% in Q4 2028 and 2.4% in Q4 2029."
-    },
-    {
-      "id": "em:jjsj_ozsj:202608113837718060",
-      "time": "2026-08-11 12:32:13",
-      "tags": [
-        "經濟數據",
-        "澳洲"
-      ],
-      "text": "澳洲聯儲預計2026年第四季度GDP增速為1.4%，2027年第四季度為1.6%，2028年第四季度為1.8%。"
-    },
-    {
-      "id": "5035035",
-      "time": "2026-08-11 12:32:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行：整體通脹率仍過高。"
-    },
-    {
-      "id": "mkt:019fef17-6d56-7aab-8fe6-72b15b262401",
-      "time": "2026-08-11 12:31:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Reserve Bank of Australia projects GDP growth of 1.4% in Q4 2026, 1.6% in Q4 2027 and 1.8% in Q4 2028."
-    },
-    {
-      "id": "5035034",
-      "time": "2026-08-11 12:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行（RBA）：截尾平均通脹率仍處於高位，較去年第三季度基本未變。"
-    },
-    {
-      "id": "5035033",
-      "time": "2026-08-11 12:31:41",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行：央行董事會仍將重點放在防止高通脹根深蒂固上。"
-    },
-    {
-      "id": "mkt:019fef17-083c-7aab-8fe6-6ddbd3053cb7",
-      "time": "2026-08-11 12:31:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia expects average inflation of 3.3% in Q4 2026, 2.6% in Q4 2027 and 2.4% in Q4 2028."
-    },
-    {
-      "id": "5035032",
-      "time": "2026-08-11 12:31:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "澳大利亞儲備銀行：今日的政策決定一致透過。儘管中東衝突對通脹的影響目前來看低於預期，但標題通脹率（Headline Inflation）依然過高。委員會將密切關注資料以及對前景和風險的動態評估，以此指導未來決策。"
-    },
-    {
-      "id": "mkt:019fef16-f3ef-7aab-8fe6-679d94915488",
-      "time": "2026-08-11 12:31:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Following the Reserve Bank of Australia's rate decision, AUD/USD briefly fell about 20 pips to 0.7043."
-    },
-    {
-      "id": "mkt:019fef16-ab88-7aab-8fe6-581799168558",
-      "time": "2026-08-11 12:31:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia said it has slightly raised its assumed rate of potential economic growth, citing population growth."
-    },
-    {
-      "id": "mkt:019fef16-71dc-7aab-8fe6-56937f46fd16",
-      "time": "2026-08-11 12:30:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia expects the Australian economy to return to balance in 2027, slightly earlier than previously estimated."
-    },
-    {
-      "id": "5035031",
-      "time": "2026-08-11 12:30:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星SDI：具體投資計劃變更尚未最終確定。"
-    },
-    {
-      "id": "mkt:019fef16-2fd7-7aab-8fe6-496bed142136",
-      "time": "2026-08-11 12:30:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Reserve Bank of Australia adjusted its inflation expectations and expects the unemployment rate to rise slightly."
-    },
-    {
-      "id": "5035030",
-      "time": "2026-08-11 12:30:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞儲備銀行：董事會在今日召開的會議上決定，將現金利率目標維持在4.35%不變。"
-    },
-    {
-      "id": "em:qqyh_ozlc:202608113837717840",
-      "time": "2026-08-11 12:30:28",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "澳大利亞央行現金利率目標維持在4.35%，預估為4.35%。"
     }
   ]
 }
