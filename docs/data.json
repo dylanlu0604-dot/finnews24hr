@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-19 02:22:48",
-  "count": 15095,
+  "updated": "2026-08-19 02:26:40",
+  "count": 15094,
   "items": [
+    {
+      "id": "te:markets:576224",
+      "time": "2026-08-19 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Gains by 4.31% — Top commodity gainers are Coffee (4.31%), Sugar (3.62%) and Rubber (1.77%). Biggest losers are Canola (-2.56%), Cocoa (-2.39%) and Wheat (-1.72%)."
+    },
     {
       "id": "te:markets:576223",
       "time": "2026-08-19 02:20:13",
@@ -138352,25 +138363,6 @@
         "國際"
       ],
       "text": "【委內瑞拉外長：委以同意恢復領事服務】委內瑞拉外交與外貿部長普拉森西亞11日在社交媒體釋出政府公報稱，委內瑞拉和以色列同意恢復領事服務。公報稱：“兩國同意建立協調機制，以便在需要時為居住在對方國家的本國公民提供領事服務。”2009年1月14日，委內瑞拉時任總統查韋斯決定與以色列“斷絕一切關係”。此前一週，他驅逐以色列駐委大使，以表達對巴勒斯坦的支援。"
-    },
-    {
-      "id": "5036317",
-      "time": "2026-08-12 02:26:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克總理：我們已指示起草一項法律草案，依據憲法將武器管控權收歸國家。"
-    },
-    {
-      "id": "te:markets:574507",
-      "time": "2026-08-12 02:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.05% — Top commodity losers are Cocoa (-5.05%) and Canola (-1.91%). Gains are led by Sugar (1.64%), Cotton (0.62%) and Palm Oil (0.53%)."
     }
   ]
 }

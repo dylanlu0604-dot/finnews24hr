@@ -1,7 +1,18 @@
 {
   "date": "2026-08-19",
-  "count": 109,
+  "count": 110,
   "items": [
+    {
+      "id": "te:markets:576224",
+      "time": "2026-08-19 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Gains by 4.31% — Top commodity gainers are Coffee (4.31%), Sugar (3.62%) and Rubber (1.77%). Biggest losers are Canola (-2.56%), Cocoa (-2.39%) and Wheat (-1.72%)."
+    },
     {
       "id": "te:markets:576223",
       "time": "2026-08-19 02:20:13",
