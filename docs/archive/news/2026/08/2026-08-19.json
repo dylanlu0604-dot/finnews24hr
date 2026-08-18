@@ -1,7 +1,39 @@
 {
   "date": "2026-08-19",
-  "count": 149,
+  "count": 153,
   "items": [
+    {
+      "id": "mkt:01a01646-9116-7aab-9080-eaa1d67a164f",
+      "time": "2026-08-19 03:08:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO director-general TEDROS said the Ebola outbreak in the Democratic Republic of the Congo remains a public health emergency of international concern."
+    },
+    {
+      "id": "mkt:01a01645-a49e-7aab-9080-e22dacb84df0",
+      "time": "2026-08-19 03:07:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former Ukrainian defense minister Fedorov called for wartime elections in Ukraine."
+    },
+    {
+      "id": "5046434",
+      "time": "2026-08-19 03:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織總幹事譚德塞：剛果（金）埃博拉疫情仍構成國際關注的突發公共衛生事件。"
+    },
+    {
+      "id": "5046433",
+      "time": "2026-08-19 03:05:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "被解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉。"
+    },
     {
       "id": "5046432",
       "time": "2026-08-19 03:03:15",
