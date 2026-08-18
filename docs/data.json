@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-18 14:03:34",
-  "count": 15170,
+  "updated": "2026-08-18 14:07:27",
+  "count": 15165,
   "items": [
+    {
+      "id": "5045307",
+      "time": "2026-08-18 14:06:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.52%，道瓊斯指數期貨跌0.21%。"
+    },
+    {
+      "id": "mkt:01a0137a-3e47-7aab-9070-9933056521cf",
+      "time": "2026-08-18 14:06:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Changxin Technology trading turnover exceeded 20 bln yuan; shares down 4.8%."
+    },
+    {
+      "id": "5045306",
+      "time": "2026-08-18 14:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度宣佈405項國防產品可本地化生產。"
+    },
+    {
+      "id": "5045305",
+      "time": "2026-08-18 14:05:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報84.59美元/桶。"
+    },
+    {
+      "id": "5045304",
+      "time": "2026-08-18 14:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月我國動力和儲能電池銷量環比下降5.5% 同比增長45.5%】資料顯示，7月，我國動力和儲能電池銷量為185.2GWh，環比下降5.5%，同比增長45.5%。其中，動力電池銷量為129.1GWh，佔總銷量69.7%，環比下降3.3%，同比增長41.6%；儲能電池銷量為56.1GWh，佔總銷量30.3%，環比下降10.3%，同比增長55.4%。"
+    },
+    {
+      "id": "te:markets:576004",
+      "time": "2026-08-18 14:03:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CNOOC Stock Price Hits 9-week High — CNOOC shares increased to 24.64 HKD, the highest since June 2026. Over the past 4 weeks, CNOOC gained 2.93%, and in the last 12 months, it increased 32.54%."
+    },
     {
       "id": "5045303",
       "time": "2026-08-18 14:02:53",
@@ -63,6 +119,15 @@
         "Nikkei 225"
       ],
       "text": "Japan 40-year government bond yield rose 7 bps to 4.205%."
+    },
+    {
+      "id": "em:jjsj_ygsj:202608183844448790",
+      "time": "2026-08-18 14:00:38",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國7月失業率為4.33%，前值4.40%。"
     },
     {
       "id": "mkt:01a01374-ee6e-7aab-9070-7f6509a6ef65",
@@ -588,6 +653,14 @@
         "其他"
       ],
       "text": "卡利巴夫訪問伊拉克旨在探討聯合安全解決方案。"
+    },
+    {
+      "id": "5045273",
+      "time": "2026-08-18 13:29:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【許昆林王新偉會見中國石化董事長侯啟軍】據遼寧日報，8月18日，遼寧省委書記許昆林、省長王新偉在瀋陽會見中國石油化工集團有限公司董事長侯啟軍一行。許昆林說，希望中國石化與遼寧深度合作，充分發揮自身優勢，積極佈局高階化工新材料產業，推動煉化企業向綠色化、精細化、高階化轉型；加快謀劃實施風光制氫、綠氫化工等產業專案，完善相關基礎設施，助力構建多元互補的新型能源體系；深化科創協同，推動更多優質技術產品在遼寧轉化應用，攜手實現更高水平的互利共贏。我們將全力最佳化營商環境，提供全生命週期服務保障，實打實排憂解難，為企業在遼發展創造更好條件。"
     },
     {
       "id": "5045272",
@@ -138863,130 +138936,6 @@
         "Crypto Concepts"
       ],
       "text": "Reserve Bank of India governor says linking BRICS central bank digital currencies and fast payment systems is under discussion."
-    },
-    {
-      "id": "5035142",
-      "time": "2026-08-11 14:07:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲5%，現報1338.50元。"
-    },
-    {
-      "id": "5035141",
-      "time": "2026-08-11 14:07:07",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "市場訊息：希音（SHEIN）將於下週開始接受香港IPO的訂單。"
-    },
-    {
-      "id": "5035140",
-      "time": "2026-08-11 14:06:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：將繼續努力推進盧比國際化。"
-    },
-    {
-      "id": "5035139",
-      "time": "2026-08-11 14:06:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【專家談人民幣強勢突圍三大原因】人民幣匯率持續表現強勁。8月10日，人民幣對美元中間價調升20個基點，報6.7884，創2023年2月10日以來最高。同日，在岸人民幣對美元盤中最高升至6.7429，創下2023年2月6日以來新高。截至發稿，在岸人民幣匯率最新報6.7458。“美元階段性走弱是本輪人民幣升值的首要催化劑。”中國首席經濟學家論壇理事長連平接受採訪時表示，一方面，美日聯合干預日元匯率，日元短期反彈拖累美元指數權重；另一方面，中東地緣風險降溫，緩解避險情緒，進一步推動美元回撥。此外，美國宏觀資料的疲軟進一步加劇了美元的弱勢，使非美貨幣普遍獲得修復動能。（中新經緯）"
-    },
-    {
-      "id": "mkt:019fef6d-ce39-7aab-8fe9-2d75edabb655",
-      "time": "2026-08-11 14:06:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia says it struck Kyiv and other sites; Ukraine reports six dead in Zaporizhia】Ukraine’s Zaporizhia military-civil administration said on 11 that Russian forces struck Zaporizhia city in the early hours with missiles and guided aerial bombs, killing six and wounding 19; four apartment blocks and other buildings were damaged and all wounded have been attended to. The Russian Defence Ministry said on 11 that it used land-based high-precision weapons in the early hours to strike military-industrial enterprises and logistics centres in Kyiv and Zaporizhia."
-    },
-    {
-      "id": "mkt:019fef6d-7e1d-7aab-8fe9-220e25b3d3b8",
-      "time": "2026-08-11 14:05:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said cross-border payments are a focus for BRICS given potential to lower costs and increase speed."
-    },
-    {
-      "id": "5035138",
-      "time": "2026-08-11 14:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱對基輔等地發動打擊 烏稱襲擊已致6人死亡】烏克蘭扎波羅熱州軍政管理局當地時間11日通報稱，俄羅斯當天凌晨使用導彈和制導航空炸彈對扎波羅熱市發動大規模組合式襲擊，截至目前已造成6人死亡、19人受傷。襲擊造成4棟住宅樓及非住宅建築受損，目前所有傷者均已獲得救助。俄羅斯國防部11日通報，當天凌晨，俄軍使用陸基高精度武器，對基輔市和扎波羅熱市的軍工企業及物流中心發動了打擊。（央視新聞）"
-    },
-    {
-      "id": "5035137",
-      "time": "2026-08-11 14:05:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "鋁價連續第七天上漲，因迅速達成重啟霍爾木茲海峽協議的前景愈發渺茫，加劇了市場對中東供應在可預見的未來仍將受限的擔憂。"
-    },
-    {
-      "id": "mkt:019fef6c-ee06-7aab-8fe9-1f7979500c97",
-      "time": "2026-08-11 14:05:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Aluminum rises for seventh day as slim hopes for Strait of Hormuz reopening heighten supply concerns】Aluminum climbed for a seventh straight session as prospects for a rapid reopening of the Strait of Hormuz faded, raising concern that Middle East supply will remain constrained. US and Iranian positions have hardened, implying negotiations to restore flows could be prolonged and dampening hopes of near-term normalization; global inventories sit near multi-decade lows and the region accounted for roughly 10% of pre-conflict global output. Prices initially spiked at the outbreak of hostilities, eased during early talks and have resumed gains, up more than 8% since late June as delayed conflict resolution coincides with reduced market bets on further US rate hikes, supporting a broader rally in base metals."
-    },
-    {
-      "id": "mkt:019fef6c-3e95-7aab-8fe9-11d5fa110c3e",
-      "time": "2026-08-11 14:04:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "Euro Stoxx 50 futures fell 0.02%, Germany's DAX futures rose 0.05% and the FTSE 100 futures fell 0.11%."
-    },
-    {
-      "id": "5035136",
-      "time": "2026-08-11 14:04:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報1521.50點。"
-    },
-    {
-      "id": "5035135",
-      "time": "2026-08-11 14:03:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行高階副行長：央行更關注需求側通脹壓力，而非供給側。將會有額外的加息。美元兌韓元匯率仍在1400區間，依然“非常高”。"
-    },
-    {
-      "id": "mkt:019fef6b-720a-7aab-8fe9-0a0a421aba62",
-      "time": "2026-08-11 14:03:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said he is not concerned about vulnerabilities in private credit."
     }
   ]
 }
