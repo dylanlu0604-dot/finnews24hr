@@ -1,7 +1,150 @@
 {
   "date": "2026-08-18",
-  "count": 2271,
+  "count": 2286,
   "items": [
+    {
+      "id": "5046130",
+      "time": "2026-08-18 21:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達再次否認扣押伊朗飛行員】針對伊朗方面近期有關三名伊朗飛行員被卡達扣押的說法，卡達外交部發言人馬吉德·安薩里18日再次予以否認，並公佈了卡方此前處置相關事件和搜救工作的更多細節。安薩里表示，相關伊朗軍機當時“侵犯”卡達領空，在卡方確認其飛行和攻擊軌跡後曾嘗試與飛行員取得聯絡，但未得到回應，隨後卡方“按照交戰規則採取措施”。安薩里強調，卡達搜救人員於3月19日發現一名飛行員的遺骸，搜救行動於4月6日結束。卡方隨後向伊朗通報情況，伊方接收遺骸後將其運回伊朗，併為其舉行了葬禮。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a014f9-0c4b-7aab-907a-f7d5dbf279e3",
+      "time": "2026-08-18 21:04:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【Baidu's Li says market recognition for Kunlun AI chips is rising】Baidu CEO Robin Li said on the company earnings call that Kunlun AI chips maintained strong momentum in Q2, with robust demand and expanding cross-industry adoption. Market recognition of Kunlun's stability, efficiency and compatibility for large-scale deployment is increasing. Inference throughput and overall compute efficiency have improved, and Kunlun's scalability to support diverse, high-demand AI workloads has been enhanced. Baidu has developed and commercialized three generations of Kunlun chips and will continue product rollout, including the M100 optimized for large-scale inference and a future M300."
+    },
+    {
+      "id": "mkt:01a014f8-ba5a-7aab-907a-e8f55f1d472c",
+      "time": "2026-08-18 21:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TWG Global is working with Delaware regulators to resolve investment-related issues."
+    },
+    {
+      "id": "5046129",
+      "time": "2026-08-18 21:03:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度李彥宏：市場對崑崙芯的認可度正不斷提升】8月18日晚，李彥宏在百度財報電話會上表示，二季度崑崙芯保持強勁勢頭，在需求旺盛的同時持續向多行業擴充套件。市場對崑崙芯在大規模應用中的穩定性、效率和適配能力的認可度正在不斷提升。崑崙芯推理吞吐量和整體算力效率進一步提升，並增強了規模化支援多樣化、高要求AI工作負載的能力。基於對文心及國內主流基礎模型的支援，崑崙芯二季度進一步覆蓋Kimi K3、GLM 5.2等模型更新版本。目前崑崙芯已完成三代AI晶片的研發和商業化，未來將繼續推進產品佈局，包括面向大規模推理最佳化的最新M100以及未來將推出的M300。"
+    },
+    {
+      "id": "mkt:01a014f8-001a-7aab-907a-e029990ae06b",
+      "time": "2026-08-18 21:03:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China's Shanghai crude (SC) front-month contract rose more than 2.00% intraday to 587.00 yuan/bbl."
+    },
+    {
+      "id": "5046128",
+      "time": "2026-08-18 21:02:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "TWG正與特拉華州監管機構協作處理投資相關事宜。"
+    },
+    {
+      "id": "5046127",
+      "time": "2026-08-18 21:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "eBay：正品保障服務現已覆蓋售價500美元及以上的符合條件的美國及世界錢幣，將專業鑑定服務拓展至全新收藏品類。"
+    },
+    {
+      "id": "mkt:01a014f7-0eff-7aab-907a-dc1ff5600b94",
+      "time": "2026-08-18 21:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09888.HK",
+        "Impact bullish"
+      ],
+      "text": "【Baidu to seek Aug. 26 shareholder approval; aims for Southbound Stock Connect inclusion after main-board conversion】Baidu (09888.HK) CFO He Haijian said on the earnings call the company will hold a special shareholders meeting on Aug. 26 to seek approval for measures tied to converting its Hong Kong listing. He said the main-board conversion is expected to take effect this year and Baidu is preparing to seek inclusion in Southbound Stock Connect once conversion is complete. In July the board approved changing the Hong Kong listing from a secondary listing to a dual primary listing; Baidu has filed with HKEX and received an acknowledgment."
+    },
+    {
+      "id": "mkt:01a014f6-2bae-7aab-907a-d41b112e7584",
+      "time": "2026-08-18 21:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Stock Exchange lists Li Yongchun as general manager on website】Beijing Stock Exchange updated its management page to list Li Yongchun as general manager. Li is deputy party secretary of the National Equities Exchange and Quotations (NEEQ) and vice chairman of the Beijing Stock Exchange; he previously served as a NEEQ party committee member and as deputy general manager at both NEEQ and the Beijing Stock Exchange."
+    },
+    {
+      "id": "5046126",
+      "time": "2026-08-18 21:00:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國航空公司將於2028年起為新交付的空客和波音窄體機隊配備座椅背螢幕，並對現有飛機進行改裝。美國航空將在超過800架飛機上增加座椅背螢幕。"
+    },
+    {
+      "id": "mkt:01a014f5-a9bb-7aab-907a-cf90b033d16d",
+      "time": "2026-08-18 21:00:39",
+      "tags": [
+        "MKT News",
+        "AAL.O"
+      ],
+      "text": "WSJ reports American Airlines will install seatback screens on newly delivered Airbus and Boeing narrowbodies from 2028 and retrofit the feature on more than 800 existing aircraft."
+    },
+    {
+      "id": "5046125",
+      "time": "2026-08-18 21:00:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行稱外匯儲備減少5億歐元，至3484億歐元。"
+    },
+    {
+      "id": "mkt:01a014f5-7614-7aab-907a-c6177cfd7ef5",
+      "time": "2026-08-18 21:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals"
+      ],
+      "text": "Night session opened; most major Chinese futures contracts rose. Shanghai crude (SC), low-sulfur fuel oil (LU), rapeseed meal, propylene, coking coal and fuel oil gained over 1%; synthetic rubber, iron ore, PET flakes and Soybean No.2 were up around 1%. Shanghai silver fell more than 1%."
+    },
+    {
+      "id": "5046124",
+      "time": "2026-08-18 21:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月17日美國聯邦基金有效利率為3.63%，與8月14日持平。"
+    },
+    {
+      "id": "5046123",
+      "time": "2026-08-18 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】多晶矽連續跌4.30%，集運指數歐線期貨連續漲2.15%，雞蛋連續跌1.50%，上海原油連續漲1.49%，焦煤連續漲1.37%。"
+    },
     {
       "id": "5046122",
       "time": "2026-08-18 20:59:21",
