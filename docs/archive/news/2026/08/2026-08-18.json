@@ -1,7 +1,76 @@
 {
   "date": "2026-08-18",
-  "count": 767,
+  "count": 774,
   "items": [
+    {
+      "id": "mkt:01a012c3-8828-7aab-906d-a0427a37202a",
+      "time": "2026-08-18 10:46:39",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell more than 2%; HSI fell 0.71%."
+    },
+    {
+      "id": "mkt:01a012c3-349a-7aab-906d-998562049875",
+      "time": "2026-08-18 10:46:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Chinese A-shares extended losses: Shenzhen Component fell more than 1%, ChiNext index down 1.27%, Shanghai Composite down 0.28%."
+    },
+    {
+      "id": "5045108",
+      "time": "2026-08-18 10:46:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4686.300點；恒生指數現跌0.733%。"
+    },
+    {
+      "id": "5045107",
+      "time": "2026-08-18 10:45:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股豬肉股走強 德康農牧漲超6%】截至發稿，德康農牧(02419.HK)漲6.56%，中糧家佳康(01610.HK)漲5.45%，牧原股份(02714.HK)漲3.72%。"
+    },
+    {
+      "id": "5045106",
+      "time": "2026-08-18 10:45:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報14556.086點；上證指數跌0.27%，現報3972.021點；創業板指跌1.26%，現報3692.922點。"
+    },
+    {
+      "id": "5045105",
+      "time": "2026-08-18 10:45:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報6905.25點。個股方面，三星電子跌超2%。"
+    },
+    {
+      "id": "mkt:01a012c2-85a3-7aab-906d-97c6bd7d9144",
+      "time": "2026-08-18 10:45:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions"
+      ],
+      "text": "South Korea's KOSPI fell more than 1 pct intraday, having earlier in the session risen over 2 pct."
+    },
     {
       "id": "mkt:01a012bf-7971-7aab-906d-8d407290dc14",
       "time": "2026-08-18 10:42:13",
