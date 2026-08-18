@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-19 00:10:00",
-  "count": 15152,
+  "updated": "2026-08-19 00:13:52",
+  "count": 15138,
   "items": [
+    {
+      "id": "te:markets:576219",
+      "time": "2026-08-19 00:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.06% Lower — The FTSE MIB Index dropped 569 points or 1.06 percent on Tuesday to close at 53018 points. Losses were led by STMicroelectronics (-7.35%), Prysmian (-5.00%) and Buzzi Unicem (-3.35%)."
+    },
+    {
+      "id": "te:markets:576218",
+      "time": "2026-08-19 00:11:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.80% Lower — The DAX Index decreased 210 points or 0.80 percent on Tuesday to close at 26128 points. The decline was led by Infineon (-7.15%), Siemens Energy (-5.23%) and HeidelbergCement (-2.65%). On the upside, the strongest performers were SAP (2.24%), Bayer (1.75%) and Deutsche Telekom (1.66%)."
+    },
+    {
+      "id": "te:markets:576217",
+      "time": "2026-08-19 00:10:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 percent on Tuesday to close at 8514 points. Leading the losses are STMicroelectronics (-7.31%), Schneider Electric (-4.50%) and Legrand (-3.98%). Top gainers were Essilor (2.77%), Dassault Systemes (2.48%) and TotalEnergies SE (1.73%)."
+    },
     {
       "id": "5046362",
       "time": "2026-08-19 00:09:09",
@@ -138788,180 +138824,6 @@
         "其他"
       ],
       "text": "智利銅委員會預計，2026年全球銅礦產量將達到2350萬噸，較2025年增長0.2%。"
-    },
-    {
-      "id": "5036242",
-      "time": "2026-08-12 00:13:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利國家銅業委員會宣告，維持2027年銅均價預期為每磅5.10美元。"
-    },
-    {
-      "id": "mkt:019ff199-5a22-7aab-8ff7-350ece3a4142",
-      "time": "2026-08-12 00:13:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve Governor Goolsbee said labor-market indicators show stability but are not strong."
-    },
-    {
-      "id": "5036241",
-      "time": "2026-08-12 00:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利國家銅業委員會宣告，將2026年銅均價預期上調至每磅5.95美元。"
-    },
-    {
-      "id": "mkt:019ff198-e656-7aab-8ff7-2a10139e8add",
-      "time": "2026-08-12 00:12:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper"
-      ],
-      "text": "Chile's Copper Commission (Cochilco) maintained its 2027 average copper price forecast at $5.10/lb."
-    },
-    {
-      "id": "te:markets:574495",
-      "time": "2026-08-12 00:12:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,706 on Tuesday, as gains in energy and defense stocks offset losses in autos and utilities. Eni advanced 2% amid uncertainty surrounding conflicting statements over a potential Middle East peace agreement, while Saipem added 0.4%. Defense stocks also outperformed, led by Leonardo, which gained 0.7% after RBC analysts rated the stock “outperform”. Fincantieri rose 0.2%. Financials were mixed despite Morningstar DBRS reporting another solid set of first-half results from Italy’s largest banks. UniCredit (0.3%), BPER Banca (0.2%) and BMPS (0.2%) all advanced, while Banco BPM fell 0.9% and Intesa Sanpaolo lost 0.3%. On the downside, Stellantis fell 2.6% as intensifying competition from Chinese automakers weighed on sentiment, while the company’s backing of Leapmotor underscored the growing competitive pressure in overseas markets. Utilities extended losses from the previous session, led by Enel, which fell 0.9%."
-    },
-    {
-      "id": "5036240",
-      "time": "2026-08-12 00:12:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：勞動力市場趨於穩定，但並不算景氣。"
-    },
-    {
-      "id": "mkt:019ff198-8bf0-7aab-8ff7-2598a59baedf",
-      "time": "2026-08-12 00:12:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Chile's Cochilco raised its 2026 average copper price forecast to $5.95 per lb."
-    },
-    {
-      "id": "te:markets:574494",
-      "time": "2026-08-12 00:12:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.08% Higher — The FTSE MIB Index gained 42 points or 0.08 percent on Tuesday to close at 53706 points. Gains were led by Eni (2.01%), Prysmian (1.77%) and Azimut Holding (1.60%). Biggest losers were Stellantis N.V. (-2.13%), Enel (-0.91%) and Banco BPM SPA (-0.88%)."
-    },
-    {
-      "id": "mkt:019ff198-05fb-7aab-8ff7-1b3ac71ceea2",
-      "time": "2026-08-12 00:11:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Robert is imprisoned in Russia and will arrive in Washington, D.C., tonight."
-    },
-    {
-      "id": "5036239",
-      "time": "2026-08-12 00:11:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國公民羅伯特·吉爾曼，前美國海軍陸戰隊員，即將回國。羅伯特曾被關押在俄羅斯。在我與普京總統會談後，俄羅斯已同意釋放他。我們對這一決定表示讚賞，也對俄羅斯未要求任何回報這點予以肯定。"
-    },
-    {
-      "id": "mkt:019ff197-b0ef-7aab-8ff7-119e6b633d4b",
-      "time": "2026-08-12 00:11:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said he welcomed the decision and that Russia did not request anything in return."
-    },
-    {
-      "id": "mkt:019ff197-b087-7aab-8ff7-09b9d91afc45",
-      "time": "2026-08-12 00:11:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP said after his discussion with Putin, Russia agreed to release him."
-    },
-    {
-      "id": "te:markets:574493",
-      "time": "2026-08-12 00:11:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.26% Higher — The DAX Index went up by 68 points or 0.26 percent on Tuesday to close at 26391 points. The rise was led by Siemens Energy (2.56%), Deutsche Telekom (1.64%) and RWE (1.52%). On the downside, the weakerst performers were Qiagen NV (-3.38%), Adidas (-3.08%) and Zalando (-2.82%)."
-    },
-    {
-      "id": "mkt:019ff197-844f-7aab-8ff7-05a00c9dc49e",
-      "time": "2026-08-12 00:11:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said U.S. citizen Robert Gilman, a former U.S. Marine, is coming home."
-    },
-    {
-      "id": "te:markets:574492",
-      "time": "2026-08-12 00:10:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Extend Records — European stocks inched higher to new records on Tuesday as gains for technology and energy stocks offset a muted session elsewhere. The Euro STOXX 50 closed 0.5% higher at a record of 6,553 and the STOXX Europe 600 inched higher to a record of 660.8. ASML jumped 2.7%, supported by a recommendation upgrade by Bernstein. Other companies with exposure to AI infrastructure also rose, with Siemens Energy gaining close to 3%. In turn, energy stocks rose after US President Trump hardened his rhetoric against Iran, prolonging expectations of suspended exports through the Persian Gulf despite optimistic signals of a deal from Pakistan and Qatar. TotalEnergies and ENI advanced nearly 2%."
-    },
-    {
-      "id": "5036238",
-      "time": "2026-08-12 00:10:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：俄羅斯經北極航道向亞洲的石油出口開局表現強勁。"
-    },
-    {
-      "id": "te:markets:574491",
-      "time": "2026-08-12 00:10:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.13% Lower — The CAC 40 Index fell 11 points or 0.13 percent on Tuesday to close at 8715 points. Leading the losses are STMicroelectronics (-3.21%), Stellantis NV (-2.25%) and Bouygues (-1.72%). Top gainers were TP (2.95%), TotalEnergies SE (1.41%) and Capgemini (1.39%)."
     }
   ]
 }
