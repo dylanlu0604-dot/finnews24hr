@@ -1,7 +1,113 @@
 {
   "date": "2026-08-18",
-  "count": 1457,
+  "count": 1469,
   "items": [
+    {
+      "id": "mkt:01a01401-6ccd-7aab-9074-2b405003c855",
+      "time": "2026-08-18 16:33:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China Unicom (00762.HK) reported 1H2026 operating revenue of 201.4 bln yuan, up 0.6% YoY; service revenue was 178.0 bln yuan, down 0.2% YoY."
+    },
+    {
+      "id": "5045556",
+      "time": "2026-08-18 16:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國聯通香港：上半年營收2,013.6億元人民幣，淨利潤94.7億元人民幣。"
+    },
+    {
+      "id": "5045555",
+      "time": "2026-08-18 16:32:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾賽：2026年第二季度淨收入8.61億元，同比增長21.9%】禾賽科技公告，公司截至2026年6月30日止第二季度未經審計財務業績顯示，淨收入為人民幣8.61億元，較2025年同期的人民幣7.06億元增加21.9%；淨利潤為人民幣7060萬元，同比增長60.0%。第二季度鐳射雷達總出貨量達62.83萬臺，較2025年同期的35.21萬臺增長78.4%。其中ADAS鐳射雷達出貨量48.59萬臺，同比增長60.1%；機器人鐳射雷達出貨量14.24萬臺，同比增長193.4%。"
+    },
+    {
+      "id": "mkt:01a01400-0686-7aab-9074-22294e6d1826",
+      "time": "2026-08-18 16:32:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reuters poll: All 13 economists expect Hungary's central bank to cut its policy rate by 25 bps to 5.5% on Aug. 25. The median forecast sees the policy rate at 5.0% by end-2026, unchanged from July."
+    },
+    {
+      "id": "5045554",
+      "time": "2026-08-18 16:31:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華安基金：旗下德國ETF華安出現大幅溢價 提示交易風險】華安基金公告稱，旗下華安國際龍頭(DAX)交易型開放式指數證券投資基金（擴位簡稱：德國ETF華安，交易程式碼：513030）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若該基金2026年8月18日二級市場交易價格溢價幅度未有效回落，基金管理人有權向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施警示風險。目前該基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5045553",
+      "time": "2026-08-18 16:31:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國泰基金：納指ETF國泰出現較大幅度溢價 提示交易風險】國泰基金公告稱，旗下納斯達克100交易型開放式指數證券投資基金（場內簡稱：納指ETF國泰，交易程式碼：513100）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。該基金已於2024年11月25日起暫停申購業務，目前運作正常且無應披露而未披露的重大資訊。若後續溢價幅度未有效回落，基金管理人有權向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施警示風險，提示投資者警惕盲目投資可能帶來的重大損失。"
+    },
+    {
+      "id": "mkt:01a013ff-0568-7aab-9074-1a0a7339dc2b",
+      "time": "2026-08-18 16:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7427 per U.S. dollar at 16:30 on Aug. 18, down 45 points from the previous session."
+    },
+    {
+      "id": "5045552",
+      "time": "2026-08-18 16:31:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華安基金：旗下德國ETF華安出現大幅溢價 提示交易風險】華安基金公告稱，旗下華安國際龍頭(DAX)交易型開放式指數證券投資基金（擴位簡稱：德國ETF華安，交易程式碼：513030）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若該基金2026年8月18日二級市場交易價格溢價幅度未有效回落，基金管理人有權向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施警示風險。目前該基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5045551",
+      "time": "2026-08-18 16:31:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華泰柏瑞：提示納指ETF二級市場溢價風險】華泰柏瑞公告稱，旗下華泰柏瑞納斯達克100交易型開放式指數證券投資基金（QDII，交易程式碼513110）近期二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若後續該基金二級市場交易價格溢價幅度未有效回落，基金管理人有權向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施警示風險。目前該基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "mkt:01a013fe-ca77-7aab-9074-1298b91f4df1",
+      "time": "2026-08-18 16:31:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran central bank governor in Baghdad seeks about $12 bln owed by Iraq, access to FX funds】Iran central bank governor Hemmati met Iraq’s prime minister in Baghdad on Monday. Tasnim News Agency, citing the Iran‑Iraq Joint Chamber chairman, said talks covered Iran’s claims on Iraq — about $12 bln — and ways to facilitate use of Iranian foreign‑exchange funds currently held in Iraq. The reported $12 bln figure may fluctuate with trade and payments. Excluding energy, bilateral trade has risen roughly 15% YTD and could expand toward about $20 bln given current potential."
+    },
+    {
+      "id": "5045550",
+      "time": "2026-08-18 16:30:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7427，較上一交易日下降45點。"
+    },
+    {
+      "id": "5045549",
+      "time": "2026-08-18 16:30:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【易方達日經225ETF：提示基金午間收盤溢價風險】易方達基金公告稱，截至2026年8月18日11:30，旗下易方達奧明日經225交易型開放式指數證券投資基金(QDII)二級市場收盤價為2.351元，相對當日午間收盤的基金份額參考淨值溢價幅度達3.63%。若當日該基金二級市場交易價格溢價幅度未有效回落，基金管理人可向上海證券交易所申請盤中臨時停牌、延長停牌時間等方式警示風險。目前該基金運作正常，無其他應披露未披露重大資訊，提示投資者關注高溢價買入的潛在損失風險。"
+    },
     {
       "id": "5045548",
       "time": "2026-08-18 16:29:45",
