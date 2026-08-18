@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 00:02:12_
-_本檔包含 2761 則快訊，約 605875 字_
+_更新時間：2026-08-19 00:42:37_
+_本檔包含 2764 則快訊，約 604644 字_
+
+---
+
+### 2026-08-17 20:56:02  #其他
+
+【第七屆中非媒體合作論壇將在京舉行】由國家廣播電視總局、北京市人民政府、非洲廣播聯盟共同主辦的第七屆中非媒體合作論壇將於8月19日至21日在北京舉行。（新華社）
+
+---
+
+### 2026-08-17 20:55:14  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) spokesman said Trump's claim that the US held secret backchannel talks with IRGC officials about war is "a delusion born of failure".
+
+---
+
+### 2026-08-17 20:54:36  #其他
+
+【OpenAI與英偉達擴大計算機會 到2030年計算規模或達6000億美元】根據英偉達釋出的新聞稿，OpenAI將在PORTS-Pike建設並運營一座世界級的人工智慧工廠。AI工廠將採用英偉達的全棧DSX AI工廠平臺，包括GPU、CPU、網路和基礎設施軟體。 初步部署預計將提供4.25吉瓦的AI工廠產能。PORTS-Pike部署的每代NVIDIA AI工廠系統約可代表150萬塊NVIDIA GPU，約佔1500億美元至2000億美元的NVIDIA收入。經過20年的發展，該站點支援多次升級週期。 NVIDIA也可能選擇將PORTS-Pike的安排延長至初始4.25吉瓦以上，以確保剩餘的3.75吉瓦容量。 OpenAI承諾將在2030年前大規模部署NVIDIA AI基礎設施。OpenAI現有和計劃中的承諾約佔NVIDIA計算12吉瓦，如果NVIDIA將PORTS-Pike協議擴充套件至約16吉瓦，將有機會擴充套件至約16吉瓦。 英偉達表示，在這些層面上，這一機會代表到2030年NVIDIA計算量約為6000億美元。
+
+---
+
+### 2026-08-17 20:54:32  #公司
+
+【泰恩康與普羅凱融達成戰略合作】據泰恩康訊息，近日，泰恩康已完成對廣東普羅凱融生物醫藥科技有限公司（簡稱“普羅凱融”）的增資，並與普羅凱融及其實際控制人曾皓宇簽署《戰略合作協議》。增資交割完成後，泰恩康取得全球首創眼表細胞治療產品MSCohiO鏡片專案（SZ018）在中國區域的獨家商業推廣服務權益，雙方將共同推動眼表重症細胞治療創新成果實現商業化落地。
+
+---
+
+### 2026-08-17 20:54:06  #公司 #國際
+
+【美軍宣佈與雷神公司簽訂229億美元“戰斧”導彈合同】當地時間8月17日，美國海軍方面宣佈已與美國雷神公司簽訂一份價值229億美元的合同，以提高“戰斧”巡航導彈的產量。據悉，美海軍代理部長表示，將“透過與業界的密切合作，擴大彈藥工業基地的產能”，海軍部門“正在利用一切可用手段來滿足當前行動的需求”。美海軍方面尚未詳細透露“戰斧”導彈具體增產幅度及合同期限。（央視新聞）
+
+---
+
+### 2026-08-17 20:53:22  #公司
+
+【泰凌微：原一致行動協議到期解除 部分股東續簽】泰凌微公告稱，公司原一致行動關係將於2026年8月24日到期，王維航及華勝天成、盛文軍、鄭明劍、金海鵬、凌析微於2026年8月14日簽署新一致行動協議，自2026年8月25日起生效，期限1年。中域昭拓因進入清算期不再續簽，其所持1.53%公司股份不再合併計算。本次權益變動後，王維航控制公司股權比例為28.57%，公司實際控制人未發生變更，不涉及各方實際持股數量增減，不會影響公司治理結構和持續經營。
+
+---
+
+### 2026-08-17 20:52:58  #公司
+
+【芯原股份：2026年上半年營收18.64億元 同比增長91.37%】芯原股份公告稱，2026年上半年公司實現營業收入18.64億元，同比增長91.37%；歸屬於上市公司股東的淨虧損61212.50萬元，上年同期淨虧損31984.86萬元。經營活動產生的現金流量淨額6.26億元，上年同期為-3.65億元。報告期內研發投入佔營業收入比例為50.49%，較上年同期減少15.22個百分點。截至報告期末公司股東總數為53346戶，前十大股東中VeriSilicon Limited持股比例11.39%，為第一大股東。
+
+---
+
+### 2026-08-17 20:52:56  #Trading Economics #Economy #Sri Lanka #Manufacturing PMI #Importance 1
+
+Sri Lanka Manufacturing Activity Picks Up in July — Sri Lanka’s Manufacturing PMI rose to 55 in July 2026, up from 53 in June, indicating a faster expansion in manufacturing activity. New orders (55.9 vs 50) and production (54.5 vs 52) increased, driven by robust performance in the food and beverage manufacturing sector. Reflecting positive expectations for activity, employment rose to 51 from 50.5, while stocks of purchases remained in expansionary territory at 51.5, despite easing from 56.6. Meanwhile, suppliers’ delivery times remained extended at 61.5, little changed from 61.6, pointing to persistent supply-chain pressures as geopolitical tensions persist. Overall, manufacturers remained optimistic about activity over the next three months, while maintaining caution amid global uncertainties.
+
+---
+
+### 2026-08-17 20:52:18  #其他
+
+【上半年雄安新區外貿進出口總值同比增長6.2倍】據石家莊海關統計，今年上半年，雄安新區實現外貿進出口總值462.4億元，同比增長6.2倍。其中，雄安綜合保稅區增長態勢尤為突出，進出口總值達242.5億元，同比增長52.5倍。
+
+---
+
+### 2026-08-17 20:51:44  #MKT News
+
+Saudi Arabia TV reported Iran's foreign ministry said the Islamabad agreement has not collapsed and could still be restored.
+
+---
+
+### 2026-08-17 20:51:20  #其他
+
+【禮來1類新藥在中國啟動新III期臨床】藥物臨床試驗登記與資訊公示平臺官網顯示，禮來登記了一項Brenipatide注射液在成人抑鬱症參與者中的III期臨床研究。Insight資料庫顯示，Brenipatide是全球首個啟動抑鬱症III期臨床的GLP-1類產品。
+
+---
+
+### 2026-08-17 20:50:06  #公司
+
+【好利科技：股東孫劍波減持後持股降至5%以下】好利科技公告稱，孫劍波於2026年8月13日至2026年8月14日透過集中競價方式減持公司股份5700股，佔公司總股本的0.00311%。截至權益變動報告書籤署日，孫劍波持有公司股份9148455股，佔公司總股本的4.99998%，不再是公司持股5%以上股東。本次減持在其此前披露的減持計劃範圍內，不觸及要約收購，不會導致公司控股股東和實際控制人發生變化，該減持計劃尚未實施完畢。
+
+---
+
+### 2026-08-17 20:50:01  #公司
+
+【多氟多：2026年上半年淨利潤5.12億元，同比增長897.19%】多氟多公告，2026年上半年營業收入70.36億元，同比增長62.55%。歸屬於上市公司股東的淨利潤5.12億元，同比增長897.19%；扣非淨利潤4.96億元，上年同期為-480.93萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 20:49:54  #其他
+
+阿聯酋國民銀行率先推出專項轉型融資框架，推動阿聯酋脫碳程序。
+
+---
+
+### 2026-08-17 20:49:47  #其他
+
+Groq已以35億美元的估值融資3.5億美元。
+
+---
+
+### 2026-08-17 20:49:47  #MKT News
+
+South Africa's finance minister to present medium-term budget on Oct. 21.
+
+---
+
+### 2026-08-17 20:49:41  #宏觀
+
+南非財政部長將於10月21日提交中期預算案。
+
+---
+
+### 2026-08-17 20:49:36  #MKT News
+
+Groq raised $350 mln at a $3.5 bln valuation.
+
+---
+
+### 2026-08-17 20:49:28  #公司
+
+據悉，BDT出售Alliance Laundry股份的交易將於週二定價。
+
+---
+
+### 2026-08-17 20:47:17  #國際
+
+【OpenAI宣佈加入位於俄亥俄州派克縣的PORTS-Pike專案】OpenAI宣佈，已與SB Energy、NVIDIA及美國能源部合作，在俄亥俄州派克縣的PORTS-Pike技術園區獲得約8吉瓦的IT裝置。該專案預計在建設期至2032年的六年內創造35,000個建築崗位，以及2,500個長期運營崗位。SB Energy將根據與OpenAI簽訂的20年租賃協議，建設、擁有並運營該資料中心，並逐步交付容量。 OpenAI將成為客戶，利用該站點的容量，該站點將專門託管NVIDIA AI計算基礎設施。
+
+---
+
+### 2026-08-17 20:47:08  #其他
+
+【渝昆高鐵昭通段車站建設進展順利】目前，渝昆高鐵雲貴站房一標專案正在加緊施工，多個車站工程進展順利。渝（重慶）昆（昆明）高鐵是國家“八縱八橫”高鐵網京昆高鐵的重要組成部分，設計行車時速350公里。（新華社）
+
+---
+
+### 2026-08-17 20:46:16  #MKT News #Market Regions #Europe & UK #BCS.N
+
+Financial Times reports Barclays (BCS.N) has hired Mike Joo as co-CEO of its investment bank.
+
+---
+
+### 2026-08-17 20:45:56  #市場
+
+義大利30年期國債收益率<IT30YT=RR>升至4.8185%，創下2023年11月以來新高。
+
+---
+
+### 2026-08-17 20:45:43  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #DAX
+
+Italy's 30-year bond yield reached 4.8185%, the highest since November 2023.
+
+---
+
+### 2026-08-17 20:45:27  #MKT News
+
+NVIDIA (NVDA.O): OpenAI's commitments by 2030 would correspond to roughly $600 billion of NVIDIA compute business.
+
+---
+
+### 2026-08-17 20:45:19  #公司
+
+英偉達公司：OpenAI的相關承諾意味著，截至2030年，將產生約6000億美元的英偉達算力採購規模。
+
+---
+
+### 2026-08-17 20:44:35  #MKT News #Market Regions #Europe & UK #BCS.N
+
+Financial Times reports Adeel Khan will be promoted to co-chief executive of Barclays (BCS.N), responsible for global markets.
+
+---
+
+### 2026-08-17 20:44:31  #Trading Economics #Markets #Russia #currency #Importance 0
+
+Russian Ruble Hits 16-month Low — The Russian Ruble touched 87.09 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Russian Ruble gained 8.19%, and in the last 12 months, it increased 5.92%.
+
+---
+
+### 2026-08-17 20:43:57  #其他
+
+英偉達：OPENAI將支付租金。
+
+---
+
+### 2026-08-17 20:43:40  #市場
+
+匈牙利審查政府合同後，4IG股價下跌高達5.8%。
+
+---
+
+### 2026-08-17 20:43:11  #國際
+
+英偉達：初始承諾的支付義務上限為1050億美元。
+
+---
+
+### 2026-08-17 20:43:04  #MKT News #Market Regions #Greater China
+
+【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new "dry eye" indication. The program is registered as category 2.3 (modified new drug).
+
+---
+
+### 2026-08-17 20:42:55  #其他
+
+OpenAI將透過ChatGPT提供8400萬美元的Codex額度。
+
+---
+
+### 2026-08-17 20:42:28  #其他
+
+OpenAI承諾至2030年前大規模部署英偉達基礎設施。
+
+---
+
+### 2026-08-17 20:42:15  #其他
+
+市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。
+
+---
+
+### 2026-08-17 20:42:13  #MKT News #BCS.N
+
+Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank.
+
+---
+
+### 2026-08-17 20:41:50  #其他
+
+【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。
+
+---
+
+### 2026-08-17 20:41:31  #MKT News #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation.
+
+---
+
+### 2026-08-17 20:41:25  #市場
+
+法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。
+
+---
+
+### 2026-08-17 20:41:18  #其他
+
+【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)
+
+---
+
+### 2026-08-17 20:40:51  #MKT News #Important #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish
+
+France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009.
+
+---
+
+### 2026-08-17 20:40:41  #其他
+
+英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。
+
+---
+
+### 2026-08-17 20:40:34  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030.
+
+---
+
+### 2026-08-17 20:40:28  #其他
+
+英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。
+
+---
+
+### 2026-08-17 20:40:17  #MKT News #Market Themes #AI Revolution
+
+OpenAI will continue investing in safety architecture and control measures.
+
+---
+
+### 2026-08-17 20:40:00  #公司
+
+【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。
+
+---
+
+### 2026-08-17 20:39:49  #MKT News #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
+
+U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%.
+
+---
+
+### 2026-08-17 20:39:17  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
+
+New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity.
+
+---
+
+### 2026-08-17 20:39:07  #公司
+
+【曲江文旅：控股股東所持900萬股股份拍賣成交】曲江文旅公告稱，控股股東所持合計900萬股公司股份由杜邑投資集團競得，佔公司總股本比例為3.53%。本次拍賣後續涉及繳納拍賣餘款、股權變更過戶等環節，最終結果以相關法院出具的拍賣成交裁定為準。本次股權變更過戶完成後，相關股份變動均在同一實際控制人控制的主體之間進行，公司控股股東、實際控制人不會發生變化，杜邑投資集團受讓後6個月內不得減持該部分股份。
+
+---
+
+### 2026-08-17 20:39:04  #MKT News #Market Themes #AI Revolution
+
+OpenAI is investing heavily in safety controls and deploying its models to help secure code.
+
+---
+
+### 2026-08-17 20:38:56  #市場
+
+標普500指數期貨轉跌，抹去早前漲幅。
+
+---
+
+### 2026-08-17 20:38:52  #其他
+
+OpenAI：將持續投入安全架構及管控體系建設。
+
+---
+
+### 2026-08-17 20:38:38  #其他
+
+OpenAI：大規模重金投入基礎能力建設。利用模型幫助保障程式碼安全。
+
+---
+
+### 2026-08-17 20:38:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will decisively strike any threats or acts of aggression.
+
+---
+
+### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
+
+Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
 
 ---
 
@@ -16330,328 +16660,5 @@ Colombian president asked U.S. President Trump on a call to temporarily suspend 
 ### 2026-08-16 07:33:09  #其他
 
 【孫志洋會見電子科技大學校長鬍俊及校友企業代表】8月15日上午，廣州市市長孫志洋在廣州會見電子科技大學校長鬍俊及校友企業代表一行並座談交流。 孫志洋對電子科技大學長期以來給予廣州發展的支援表示感謝，並對學校建校70週年表示祝賀。他說，當前廣州正深入貫徹落實黨中央決策部署，積極服務國家戰略，著力建設全國先進製造業基地和國際科技創新中心重要承載地，以粵港澳大灣區國家技術創新中心和全國高校區域技術轉移轉化中心（粵港澳大灣區）廣州分中心等平臺建設為抓手，持續完善科技成果轉化機制，推動更多創新技術轉化為新質生產力。面向“十五五”，希望電子科技大學充分發揮自身研發和技術優勢，深度對接廣州教育科技人才資源，聚焦積體電路、智慧出行、高階儀器、人工智慧等重點產業領域，深化校地合作，共建協同創新平臺，共築產學研深度融合發展高地。同時，希望學校積極推薦優秀團隊參與廣州各類科創競賽，廣泛連結校友企業資源，帶動更多優質專案落戶廣州。廣州將全力支援校地合作專案做大做強，持續最佳化產業版營商環境，開放更多應用場景，助力校友企業在廣州實現更好發展。（廣州日報）
-
----
-
-### 2026-08-16 07:29:54  #行業 #市場
-
-【降價未能換來銷量、市場份額跌至兩成，合資汽車品牌出路何在？】在過去的5年左右時間裡，合資品牌與自主品牌在市場份額上已經發生逆轉。據乘聯分會資料，2026年7月，全國乘用車市場零售銷量146.1萬輛，其中主流合資品牌零售銷量僅29萬輛，當期合資品牌市場份額佔比兩成。2020年合資品牌乘用車市場份額則超60%。面對份額持續縮水、庫存高企的壓力，2026年以來，主流合資品牌普遍加大終端促銷力度，以價換量成為行業常態。德系、日系、美系多款主力車型終端優惠持續放寬，一汽-大眾速騰、上汽大眾途觀L等熱門車型終端降幅普遍超25%，東風日產軒逸、本田思域等走量家用車型價格不斷下探，部分車型終端售價創下近年新低。“合資車企當下承壓，並不是中國市場對合資品牌不友好。中國始終高度重視外資合資企業的發展，全面落實製造業外資全面放開准入的制度。現在，是完整的市場化競爭環境催生了自主品牌的強勢成長。這種競爭力已經走出國門，成為全球汽車產業當中一個顯著趨勢。”有行業協會負責人接受記者採訪時強調。（澎湃）
-
----
-
-### 2026-08-16 07:26:26  #國際
-
-【美銀：共和黨守住兩關，美股接下來還能漲】美國銀行策略團隊表示，近期剛經歷劇烈波動的人工智慧相關股票，下一關將面臨美國中期選舉的考驗。在最新報告中，邁克爾·哈內特（Michael Hartnett）領導的團隊特別指出，如果特朗普領導的共和黨能夠在11月3日的選舉中保住參議院，且格雷格·阿博特能在得克薩斯州的州長選舉中連任，美國股市（特別是人工智慧板塊）將一路猛漲，並在2027年進入“泡沫化行情”（bubbly 2027）。美銀策略師同時指出，反之若民主黨奪回參議院控制權，並將艾伯特拉下馬，那麼股市將面臨超過10%的“大幅下挫”。
-
----
-
-### 2026-08-16 07:25:11  #公司 #國際
-
-【英偉達首度披露SpaceX持倉 成後者第六大股東】英偉達當地時間週五首度披露，其今年截止二季度末持有1.228億股SpaceX的股票，這進一步凸顯了這家晶片製造商與其部分最大客戶之間錯綜複雜的財務關係。根據週五提交給美國證券交易委員會(SEC)的13F檔案顯示，這家市值5.5萬億美元的公司截至6月底持有價值近210億美元的SpaceX股票。
-
----
-
-### 2026-08-16 07:23:39  #市場 #國際
-
-【中歐北極快航常態化 20天直達歐洲】8月15日19時許，海傑航運“迪拜塔”號緩緩駛離浙江寧波舟山港穿山港區集裝箱碼頭，標誌著中歐北極集裝箱航線（以下簡稱“中歐北極快航”）實現常態化運營，為中歐貿易開闢一條快捷高效、綠色低碳的北向物流大通道。 據介紹，中歐北極快航在時效及安全性上優勢突出。相較傳統蘇伊士運河40天左右的航程，該航線單程僅需20天，航程縮減近一半，可有效避開地緣衝突帶來的船期不穩、成本上漲等問題。（人民日報）
-
----
-
-### 2026-08-16 07:21:48  #其他
-
-【集中展示體育前沿技術、新型業態與產業實踐成果 服貿會體育服務專題展9月亮相首鋼園6號館】2026年中國國際服務貿易交易會體育服務專題展將於9月9日至9月13日落戶首鋼園6號館。記者日前從媒體通氣會上獲悉，本屆服貿會體育服務專題展延續“賽事名城 鏈動全球”主題，集中展示體育前沿技術、新型業態與產業實踐成果。 本屆服貿會體育服務專題展展覽面積6600平方米，緊扣賽事經濟、科技賦能、產業聚合、全球協同四大主線。目前線下參展企業60餘家、線上350餘家，匯聚40餘家國際機構、20餘家行業頭部企業，覆蓋賽事表演、體育科技、IP運營、體育旅遊幾大服務賽道。期間將舉行一場主論壇和兩場專題分論壇。（北京日報）
-
----
-
-### 2026-08-16 07:20:28  #國際
-
-【菲防長稱中國工人從事違法活動，中使館：毫無根據、歪曲事實、顛倒黑白】中國駐菲律賓使館8月15日發文指出，菲律賓防長特奧多羅發表宣告並接受採訪，攻擊中國外交部發言人相關表態為虛假資訊，繼續指稱三佳鋼廠中國工人在菲從事違法活動，並稱中國使館官員介入菲執法行動。對此，中國駐菲律賓使館發言人季凌鵬表示，特奧多羅有關言論毫無根據、歪曲事實、顛倒黑白。今年5月，特奧多羅指揮軍隊衝到三佳鋼廠抓捕手無寸鐵的中國工人，他到底是防長還是警察局長？為什麼要插手執法行動？出於什麼目的？據中國工人告，該廠所有工人平日上班時，只穿正常勞動服裝，從未穿過防護服。突襲當天，一群執法人員讓3名中國工人穿上防護服擺拍，事後大肆炒作說中國工人日常穿防護服，菲律賓工人卻不穿。這不是汙衊構陷又是什麼？中國使館第一時間向菲方提供了所有中國工人護照、簽證合法齊備的資訊資料。為什麼菲方既不反饋，也不放人？
-
----
-
-### 2026-08-16 07:20:05  #其他
-
-【2026 E-Town機器人消費節啟動】昨天，北京經濟技術開發區啟動“2026 E-Town機器人消費節”。今年的消費節在2025年基礎上全面升級，以“買賣機器人，到北京亦莊”為主題，持續創新機器人消費節的服務全過程，打通從技術到市場的“最後一公里”。 據介紹，今年消費節的促消費專項資金從首屆的1500萬元提升至1800萬元，重點向人工智慧、具身智慧產業傾斜。消費券領取流程大幅簡化，依託微信小程式實現手機號一鍵驗證，讓補貼直達消費者。（北京日報）
-
----
-
-### 2026-08-16 07:17:38  #宏觀
-
-【經濟日報：平臺保證金監管絕不能“裝睡”】網路消費是平臺經濟的核心場景。近年來，隨著平臺經濟快速發展，網路交易行為逐步規範，但也出現了主體權責邊界模糊、競爭規則適配不足、依法經營指引不夠清晰等突出問題，成為網路消費維權痛點。如果退貨容易退款難，求償磕磕絆絆，消費者的權益如何保障？根據2025年7月出臺的《網路交易平臺收費行為合規指南》，基於消費者權益保護等確需向平臺內經營者收取保證金的，平臺要合理確定保證金收取標準和收取方式，可以一次性收取，也可以在額度內按經營收入的一定比例逐步提取，直至提取滿額為止。可見，保證金制度既約束商家經營行為，也是為消費者權益兜底。
-
----
-
-### 2026-08-16 07:17:12  #其他
-
-【清理光伏專案 告別“跑馬圈地”】今年以來，超1000個長期圈佔指標、遲遲不開工、逾期不落地的閒置光伏專案被陸續終止、撤銷備案或銷戶。如此大規模的集中清理，在光伏行業並不多見。仔細梳理發現，多數專案的紙面年齡遠大於工地年齡，很多專案手續完備、流程齊全，然而裝置沒影子、施工隊沒進場、電網預留的接入容量閒置，導致想用的用不上、佔用的卻不著急。這些光伏建設專案為何圈而不建，動機可能是囤積資源。光伏建設指標和電網接入容量是稀缺資源，有的企業等著指標漲價轉手，有的企業等著技術成本再降一降，還有的是盲目跟風。如此行事，導致大量資源凍結在備案階段。清退閒置光伏專案，破除資源套利亂象，可以將寶貴空間騰給真正能發電、具備穩定經濟效益的專案。除了做好清退工作，還需建立長效管理機制。（經濟日報）
-
----
-
-### 2026-08-16 07:16:37  #其他
-
-【經濟日報：研學遊加快品質升級】在西雙版納的夜晚雨林間，聆聽蟲鳴，瞭解熱帶昆蟲的生活習性；在玉溪澄江的化石地，穿越億年時光，探尋自然演化的奧秘；在麗江的非遺工坊，瞭解東巴文化，感受非遺的持久魅力……得益於獨特的生物多樣性、地質奇觀、民族文化非遺資源等，雲南成為研學旅遊的熱門目的地。今年暑期，雲南深化研學旅遊產品創新，完善研學服務體系，強化研學旅遊辨識度，將豐富的文旅資源轉化為遊客可參與、可感知的深度體驗。
-
----
-
-### 2026-08-16 07:16:17  #其他
-
-【經濟日報金觀平：為中國式現代化厚植綠色底色】8月15日是第四個全國生態日。今年“厚植中國式現代化的綠色底色”的主題，不僅是對我國生態文明建設成果的致敬與回望，更傳遞出新時代發展的鮮明導向——生態保護不再是發展的約束條件，而是中國式現代化的核心要素。厚植中國式現代化的綠色底色，本質上是發展理念的一場深刻變革。從近年來全國生態日主題的演進邏輯不難看出，我國生態文明建設正在從理念傳播走向制度深耕，從區域性突破走向系統整合，從政策推動走向全民自覺。以綠色變革驅動發展的新模式，必將為我國經濟社會高質量發展注入不竭動能。
-
----
-
-### 2026-08-16 07:15:06  #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、四十批醫療服務價格專案立項指南編制完成 醫療檢驗收費迎來全國“一把尺”；
-2、中歐北極快航常態化 20天直達歐洲；
-3、中國品牌汽車走進非洲千家萬戶；
-4、厄瓜多總統諾沃亞今起對我國進行國事訪問。
-
----
-
-### 2026-08-16 07:15:01  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、《求是》雜誌發表習近平總書記重要文章 提高防災減災救災能力；
-2、紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話；
-3、切實維護人民群眾生命財產安全和社會穩定——習近平總書記關心關愛災區群眾；
-4、浙江在科技前沿領域加快突破（活力中國調研行）；
-5、志願巡河護生態；
-6、廣東潮州推進古城保護利用 古城新“潮”；
-7、算好三本賬 走穩綠色路（今日談）。
-
----
-
-### 2026-08-16 07:13:32  #國際
-
-【金正恩回電普京：展望兩國美好未來時感到自豪】據朝中社16日報道，朝鮮國務委員長金正恩15日向俄羅斯總統普京回電，感謝其在朝鮮解放81週年之際發來賀電，並表示在展望朝俄兩國關係更加美好的未來時感到自豪。回電說，堅信俄羅斯軍民在普京的領導下將完成維護國家主權、安全利益和領土完整、建設強大俄羅斯的偉業，並衷心希望普京取得更大成就。（新華社）
-
----
-
-### 2026-08-16 07:13:11  #國際
-
-美國地質調查局（USGS）：密克羅尼西亞科洛尼亞東北19公里處發生5.4級地震。
-
----
-
-### 2026-08-16 06:59:04  #其他
-
-【上半年煤炭供應充足 迎峰度夏用能有保障】記者從中國煤炭工業協會瞭解到，今年上半年全國規模以上工業原煤日均產量達1307萬噸，為歷史同期第二高，煤炭作為主體能源的壓艙石作用持續發揮。目前，我國進入迎峰度夏用能高峰時期，全國大部分地區氣溫較常年同期偏高，部分地區出現了階段性高溫熱浪。為積極應對極端氣候，做好迎峰度夏煤炭保供工作，煤炭行業充分發揮大型現代化煤礦和智慧化煤礦優勢，全國煤炭生產供應平穩有序。（央視新聞）
-
----
-
-### 2026-08-16 06:53:02  #國際
-
-【俄稱控制一居民點 烏稱遠端打擊俄目標】俄羅斯國防部15日通報稱，俄軍控制了扎波羅熱地區的一個居民點。過去一天，俄軍對烏軍後勤中心、燃料能源和交通基礎設施、遠端無人機和無人艇組裝車間實施了打擊。此外，俄軍還對147個區域內的烏軍和外國僱傭軍臨時部署點實施了打擊。通報稱，俄軍繼續對服務於烏軍的烏克蘭港口基礎設施和船隻實施打擊。烏克蘭武裝部隊總參謀部15日通報稱，過去一天，前線地區發生233次戰鬥，烏軍在多個方向擊退俄軍進攻。烏軍對俄軍指揮所、兵力集結區、火炮系統以及無人機控制點等目標發動了打擊。（央視新聞）
-
----
-
-### 2026-08-16 06:45:49  #其他
-
-【經濟日報：“龍餐館”從容迎戰“奧德賽”】2026暑期檔熱浪奔湧，票房資料屢創新高。檔期後半程，本土現實題材影片《歡迎來龍餐館》與國外史詩大片《奧德賽》正面交鋒，市場熱度持續攀升。《歡迎來龍餐館》從容迎戰，這一場景放在多年前幾乎難以想象。那時，我國影視工業化建設尚處於爬坡階段，產業體系尚不成熟、型別創作不夠完善，面對海外成熟IP、國際知名導演打造的重磅工業化大片，國產影片普遍缺乏直面競爭的信心，大多透過提檔、延後調檔等方式規避正面比拼。經過多年積澱，國內影視工業化鏈條日趨完備，從劇本打磨、拍攝製作到後期特效、宣發排片全流程愈發規範成熟，大眾對本土故事的認同感、消費意願也持續攀升，電影產業生態得以全方位進步，這正是國產影片敢於主動和國際大片同臺較量的底氣所在。
-
----
-
-### 2026-08-16 06:45:29  #國際
-
-【伊朗稱與阿曼達成海峽通航協議 美證實繼續中東“航母接力”】在美國總統特朗普14日揚言“很快將宣佈霍爾木茲海峽為美國領土”後，伊朗就於15日宣佈已與阿曼達成了霍爾木茲海峽航道通航的協議。不過圍繞海峽的控制權，美伊雙方仍然在各說各話。與此同時，特朗普此前所說的，替換當前部署在中東地區的“林肯”號核動力航空母艦的“接班艦”也被曝光。（央視新聞）
-
----
-
-### 2026-08-16 06:42:28  #國際
-
-美國海軍第二艘傑拉爾德·R·福特級航空母艦——尚未正式服役的約翰·F·肯尼迪號，已完成接收試驗。
-
----
-
-### 2026-08-16 06:24:02  #其他
-
-【摩洛哥加強邊境管控 攔截294名企圖非法越境人員】摩洛哥當地媒體15日援引摩安全部門訊息人士的話報道，截至當地時間14時45分，摩安全部隊在靠近西班牙北非飛地休達的邊境地區攔截294名企圖非法越境人員，其中248人來自撒哈拉以南非洲國家，46人為摩洛哥人。（新華社）
-
----
-
-### 2026-08-16 06:20:23  #公司
-
-市場資訊：英國水務公司計劃在乾旱時期提高水費。
-
----
-
-### 2026-08-16 06:18:59  #國際
-
-哥倫比亞總統稱，他與特朗普通話時表示，已請求美國在地震後暫停對哥倫比亞產品加徵關稅。
-
----
-
-### 2026-08-16 06:17:11  #國際
-
-伊朗資深議員易卜拉欣·阿齊茲：美國總統與其就霍爾木茲海峽不斷虛張聲勢，不如操心自身安全，免得最後躲進食品卡車裡避難。
-
----
-
-### 2026-08-16 06:15:05  #國際
-
-以色列再度轟炸黎巴嫩南部。
-
----
-
-### 2026-08-16 06:11:16  #國際
-
-醫療部門訊息：加沙地帶遭以色列火力打擊，造成1名巴勒斯坦人死亡，7人受傷。
-
----
-
-### 2026-08-16 06:10:08  #其他
-
-英國首相伯納姆呼籲（英國）社會展開反思，此前一名遭抄襲指控的劍橋大學前教授離世。
-
----
-
-### 2026-08-16 06:06:04  #國際
-
-美國緊急事務官員表示，印第安納州遭遇風暴和洪水後已造成六人死亡。
-
----
-
-### 2026-08-16 06:01:42  #MKT News #Market Regions #Japan & APAC
-
-【Heavy rain in Chiba kills nine, floods over 1,000 homes】As of the 16th, heavy rain that began on the 13th in Chiba Prefecture, Japan, has killed nine people and flooded more than 1,000 homes, the prefectural government and police said.
-
----
-
-### 2026-08-16 06:00:22  #國際
-
-【日本千葉縣暴雨已致9人死亡 超千棟房屋被淹】據日本千葉縣政府和警方16日公佈的訊息，截至目前，千葉縣13日開始的暴雨已導致9人死亡，受淹房屋超過1000棟。
-
----
-
-### 2026-08-16 05:59:29  #國際
-
-美國中央司令部發布一張地圖，將加沙地帶與約旦河西岸標註為以色列領土。
-
----
-
-### 2026-08-16 05:58:42  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support "Epic Rage", regional security missions and the U.S. maritime blockade against Iran.
-
----
-
-### 2026-08-16 05:57:48  #MKT News
-
-CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history.
-
----
-
-### 2026-08-16 05:56:15  #MKT News
-
-CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel.
-
----
-
-### 2026-08-16 05:55:36  #MKT News
-
-CENTCOM said Admiral Brad Cooper met with sailors and Marines aboard the USS Abraham Lincoln at sea, his second such meeting this year.
-
----
-
-### 2026-08-16 05:54:48  #MKT News
-
-CENTCOM said Admiral Brad Cooper met senior military and political leaders in Bahrain, Iraq, Israel, Jordan, Saudi Arabia and the UAE and visited U.S. service members stationed there. More than 50,000 U.S. service members are currently carrying out missions across the Middle East.
-
----
-
-### 2026-08-16 05:54:13  #MKT News
-
-CENTCOM said its commander ended a 10-day Middle East visit on Aug. 15, during which he visited six countries and inspected a U.S. Navy aircraft carrier operating in the Arabian Sea.
-
----
-
-### 2026-08-16 05:53:55  #國際
-
-【美國中央司令部指揮官完成為期10天的中東之行】美國中央司令部指揮官於8月15日結束為期10天的中東行程，此行到訪六個國家，並登上部署於阿拉伯海的美國海軍航空母艦。布拉德·庫珀上將先後會見巴林、伊拉克、以色列、約旦、沙烏地阿拉伯、阿聯酋的軍政高層，同時慰問駐外美軍。目前有超5萬名美軍部署在中東地區，執行多項任務。
-
----
-
-### 2026-08-16 05:42:43  #其他
-
-SpaceX：佛羅里達與加利福尼亞兩處發射場的獵鷹9號火箭均已豎立就位，準備於今日執行發射任務。
-
----
-
-### 2026-08-16 05:42:00  #MKT News
-
-SpaceX (SPCX.O): Falcon 9 rockets are in position in Florida and California and ready for launches scheduled today.
-
----
-
-### 2026-08-16 05:32:29  #國際
-
-伊朗稱霍爾木茲海峽實現完全安全，前提是美國解除封鎖、停止威脅。
-
----
-
-### 2026-08-16 05:26:51  #國際
-
-市場資訊：週六，伊朗從格什姆島以及本國南部海岸朝霍爾木茲海峽與阿曼灣方向發射多枚反艦導彈。
-
----
-
-### 2026-08-16 05:26:16  #MKT News #Market Regions #Greater China
-
-【Ecuadorian President Daniel Noboa arrives in Beijing, begins state visit】Ecuadorian President Daniel Noboa Azín arrived in Beijing on the morning of the 16th to begin an eight-day state visit to China, his first official visit to the country.
-
----
-
-### 2026-08-16 05:26:03  #其他
-
-【厄瓜多總統諾沃亞抵達北京 開啟訪華行程】今天（16日）早晨，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛抵達北京，開始為期8天的訪華行程。此訪是諾沃亞總統首次對中國進行國事訪問。
-
----
-
-### 2026-08-16 05:15:42  #國際
-
-市場資訊：特斯拉在美國最本土化生產的車輛中佔據前兩名，超越了福特和通用汽車。
-
----
-
-### 2026-08-16 05:08:16  #MKT News
-
-【Severe storms and floods in Indiana kill at least five】As of Aug. 15 local time, Indiana officials said storms and flooding that swept the U.S. state this week have killed at least five people. Heavy rain over the past week pushed several rivers to record highs and forced residents onto higher ground. More than a dozen counties have declared local disaster; the latest damage is concentrated along the river corridor from Hamilton County into Indianapolis’s northern suburbs.
-
----
-
-### 2026-08-16 05:00:45  #MKT News #Commodities #Energy
-
-Head of Iran's Energy Optimization Organization outlined three gasoline allocation options: 1) keep pump prices unchanged but cap total allocation at 121 mln litres; once the cap is reached pumps will close; 2) allocate daily production of 121 mln litres to vehicles, with any demand above quotas charged at free-market prices; 3) issue 30 litres per person per month quotas to the public, with quotas transferable and tradable.
-
----
-
-### 2026-08-16 04:59:11  #國際
-
-【美國印第安納州遭遇惡劣天氣 至少5人死亡】美國印第安納州當局表示，本週席捲全州的強風暴和洪水已導致至少5人死亡。過去一週，該州連降暴雨，導致多條河流的水位創下歷史新高，迫使居民紛紛向高處轉移。目前已有十多個縣宣佈進入地方災害狀態，最新的災情主要集中在從漢密爾頓縣延伸至印第安納波利斯北部郊區的河道沿線。
-
----
-
-### 2026-08-16 04:59:11  #MKT News
-
-Head of Iran's Energy Optimization Organization said Iran, as part of three gasoline-supply management plans under review, is considering a proposal to allocate 30 liters of gasoline per person per month, with the quota transferable and tradable.
-
----
-
-### 2026-08-16 04:56:12  #焦點 #國際
-
-伊朗能源最佳化組織負責人：伊朗正在審議三套汽油供應管理方案，其中一項提案計劃向每位公民每月分配 30 升汽油配額，配額允許流轉、交易。
-
----
-
-### 2026-08-16 04:54:12  #國際
-
-【特朗普釋放可能參與2028年大選的訊號】美國總統特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。圖片配文寫道：“我們必將取勝。”該帖再次公開釋放訊號，特朗普有意角逐2028年總統的又一屆任期。
-
----
-
-### 2026-08-16 04:53:30  #MKT News #Market Themes #Chip Wars #AI Revolution #GBPUSD #Impact mixed
-
-【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices.
 
 ---
