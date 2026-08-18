@@ -1,7 +1,116 @@
 {
   "date": "2026-08-18",
-  "count": 2120,
+  "count": 2132,
   "items": [
+    {
+      "id": "mkt:01a014c4-4d37-7aab-9079-61687dea84d3",
+      "time": "2026-08-18 20:06:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai Stock Exchange said it has suspended trading accounts of investors involved in abnormal trading in Aili Home, in accordance with regulations."
+    },
+    {
+      "id": "5046037",
+      "time": "2026-08-18 20:06:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊副指揮官表示：“敵人已然束手無策。”"
+    },
+    {
+      "id": "5046036",
+      "time": "2026-08-18 20:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞瑪芬體育：始祖鳥女性產品線為增長最快的業務板塊。"
+    },
+    {
+      "id": "mkt:01a014c2-cf85-7aab-9079-5948cf970022",
+      "time": "2026-08-18 20:05:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "US ADP private payrolls for week ended Aug 1 due in 10 minutes."
+    },
+    {
+      "id": "5046035",
+      "time": "2026-08-18 20:04:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京樓市新政後首周：二手住宅網籤量增長10%】北京樓市新政落地後首周，線上諮詢、預約帶看等先行指標已出現增長。同時，北京市住建委官網資料顯示，新政釋出後首周（8月10日-16日）北京市二手住宅網籤量為3104套，較前一週增長約10%。58安居客研究院院長張波提到，政策釋出後，原本被政策門檻壓制的高質量潛在購房群體、購買動力被釋放，率先從觀望轉向實操看房。安居客線上資料顯示，新政後一週使用者主動發起微聊對數、發起微聊使用者數週環比同步上漲4.6%；1周內使用者回覆率小幅上行，使用者微聊溝通深度環比提升4.3%；留電使用者數環比上漲5.9%，預約帶看確認量大幅增長33.3%。（澎湃）"
+    },
+    {
+      "id": "mkt:01a014c1-d204-7aab-9079-54cadc153100",
+      "time": "2026-08-18 20:04:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Feiling Kesi said it currently has no CPO co-packaged switch prototype. Internal preliminary R&D on thermal management, hardware development and testing has begun."
+    },
+    {
+      "id": "5046034",
+      "time": "2026-08-18 20:03:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "七月份美國房價上漲0.27%，與上月基本持平。"
+    },
+    {
+      "id": "mkt:01a014c1-8b1a-7aab-9079-4ad235751833",
+      "time": "2026-08-18 20:03:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Redfin said U.S. home prices rose 0.27% in July MoM, essentially unchanged from June."
+    },
+    {
+      "id": "mkt:01a014c1-4f33-7aab-9079-40c151940edb",
+      "time": "2026-08-18 20:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "American Life Insurance Company's Delaware Life will cut $6.5 bln of affiliated investments. Delaware Life's affiliated investments totaled $17.76 bln in Q1."
+    },
+    {
+      "id": "5046033",
+      "time": "2026-08-18 20:03:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尚太科技：上半年淨利潤4億元 同比下降16.6%】尚太科技(001301)8月18日披露半年報，2026年上半年，公司實現營業收入45.1億元，同比增長33.11%；歸屬於上市公司股東的淨利潤4億元，同比下降16.6%；基本每股收益1.1元。報告期內，儲能電池延續火熱態勢，動力電池穩定增長，下游客戶需求快速增加，公司負極材料產品供不應求，大規模提升外協加工採購比重，實現了負極材料銷售數量和營業收入的大幅增加。但是，上游焦類原材料價格抬升，且石墨化外協加工受到需求火熱刺激，價格顯著提升，形成了產品成本壓力，公司產品價格傳導滯後於上游剛性價格變動，價格調整機制緩慢，公司負極材料產品毛利率同比下降，隨著行業需求火熱態勢的持續，預計相關不利因素將有所糾正。"
+    },
+    {
+      "id": "5046032",
+      "time": "2026-08-18 20:02:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數下跌2.19%，至2815點。"
+    },
+    {
+      "id": "mkt:01a014c0-a111-7aab-9079-3dd63fe6651c",
+      "time": "2026-08-18 20:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 2.19% to 2,815."
+    },
     {
       "id": "5046031",
       "time": "2026-08-18 20:02:23",

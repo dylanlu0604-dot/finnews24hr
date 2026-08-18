@@ -1,7 +1,116 @@
 {
-  "updated": "2026-08-18 20:03:13",
-  "count": 15146,
+  "updated": "2026-08-18 20:07:20",
+  "count": 15143,
   "items": [
+    {
+      "id": "mkt:01a014c4-4d37-7aab-9079-61687dea84d3",
+      "time": "2026-08-18 20:06:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai Stock Exchange said it has suspended trading accounts of investors involved in abnormal trading in Aili Home, in accordance with regulations."
+    },
+    {
+      "id": "5046037",
+      "time": "2026-08-18 20:06:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊副指揮官表示：“敵人已然束手無策。”"
+    },
+    {
+      "id": "5046036",
+      "time": "2026-08-18 20:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞瑪芬體育：始祖鳥女性產品線為增長最快的業務板塊。"
+    },
+    {
+      "id": "mkt:01a014c2-cf85-7aab-9079-5948cf970022",
+      "time": "2026-08-18 20:05:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "US ADP private payrolls for week ended Aug 1 due in 10 minutes."
+    },
+    {
+      "id": "5046035",
+      "time": "2026-08-18 20:04:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京樓市新政後首周：二手住宅網籤量增長10%】北京樓市新政落地後首周，線上諮詢、預約帶看等先行指標已出現增長。同時，北京市住建委官網資料顯示，新政釋出後首周（8月10日-16日）北京市二手住宅網籤量為3104套，較前一週增長約10%。58安居客研究院院長張波提到，政策釋出後，原本被政策門檻壓制的高質量潛在購房群體、購買動力被釋放，率先從觀望轉向實操看房。安居客線上資料顯示，新政後一週使用者主動發起微聊對數、發起微聊使用者數週環比同步上漲4.6%；1周內使用者回覆率小幅上行，使用者微聊溝通深度環比提升4.3%；留電使用者數環比上漲5.9%，預約帶看確認量大幅增長33.3%。（澎湃）"
+    },
+    {
+      "id": "mkt:01a014c1-d204-7aab-9079-54cadc153100",
+      "time": "2026-08-18 20:04:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Feiling Kesi said it currently has no CPO co-packaged switch prototype. Internal preliminary R&D on thermal management, hardware development and testing has begun."
+    },
+    {
+      "id": "5046034",
+      "time": "2026-08-18 20:03:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "七月份美國房價上漲0.27%，與上月基本持平。"
+    },
+    {
+      "id": "mkt:01a014c1-8b1a-7aab-9079-4ad235751833",
+      "time": "2026-08-18 20:03:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Redfin said U.S. home prices rose 0.27% in July MoM, essentially unchanged from June."
+    },
+    {
+      "id": "mkt:01a014c1-4f33-7aab-9079-40c151940edb",
+      "time": "2026-08-18 20:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "American Life Insurance Company's Delaware Life will cut $6.5 bln of affiliated investments. Delaware Life's affiliated investments totaled $17.76 bln in Q1."
+    },
+    {
+      "id": "5046033",
+      "time": "2026-08-18 20:03:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尚太科技：上半年淨利潤4億元 同比下降16.6%】尚太科技(001301)8月18日披露半年報，2026年上半年，公司實現營業收入45.1億元，同比增長33.11%；歸屬於上市公司股東的淨利潤4億元，同比下降16.6%；基本每股收益1.1元。報告期內，儲能電池延續火熱態勢，動力電池穩定增長，下游客戶需求快速增加，公司負極材料產品供不應求，大規模提升外協加工採購比重，實現了負極材料銷售數量和營業收入的大幅增加。但是，上游焦類原材料價格抬升，且石墨化外協加工受到需求火熱刺激，價格顯著提升，形成了產品成本壓力，公司產品價格傳導滯後於上游剛性價格變動，價格調整機制緩慢，公司負極材料產品毛利率同比下降，隨著行業需求火熱態勢的持續，預計相關不利因素將有所糾正。"
+    },
+    {
+      "id": "5046032",
+      "time": "2026-08-18 20:02:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數下跌2.19%，至2815點。"
+    },
+    {
+      "id": "mkt:01a014c0-a111-7aab-9079-3dd63fe6651c",
+      "time": "2026-08-18 20:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 2.19% to 2,815."
+    },
     {
       "id": "5046031",
       "time": "2026-08-18 20:02:23",
@@ -138757,142 +138866,6 @@
         "其他"
       ],
       "text": "波羅的海航空公佈轉型及債務削減計劃。"
-    },
-    {
-      "id": "mkt:019ff0b7-ddf1-7aab-8ff1-62720da1cdb8",
-      "time": "2026-08-11 20:06:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "CME Group said since launching on July 24, weekend trading turnover in 1-ounce gold futures has exceeded $200 million."
-    },
-    {
-      "id": "mkt:019ff0b7-d08b-7aab-8ff1-5a5b3a6f25c3",
-      "time": "2026-08-11 20:06:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai neutral-atom quantum computing firm Buchou Quantum raises several hundred million yuan in A round; cumulative funding near 1 bln yuan】Buchou Quantum, a Shanghai neutral-atom quantum computing company, said it has completed an A round of several hundred million yuan, bringing total financing to nearly 1 billion yuan. Investors include Guotai Haitong, Jinding Capital, Zhongxin Juyuan, Shanghai Sci‑Tech Innovation Group, a CITIC-affiliated fund, TCL Ventures and other strategic and industrial backers. Proceeds will be used for core neutral-atom quantum computing R&D, engineering and productization of full systems and key modules, core team build-out, and expansion of the quantum computing application ecosystem."
-    },
-    {
-      "id": "5035914",
-      "time": "2026-08-11 20:06:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "JOBY航空股下跌幅度高達7.7%。"
-    },
-    {
-      "id": "5035913",
-      "time": "2026-08-11 20:06:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西外交部：杜里根將於當地時間下午4點與盧拉會面。"
-    },
-    {
-      "id": "5035912",
-      "time": "2026-08-11 20:06:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海量子計算企業不籌量子宣佈完成數億元A輪融資】8月11日訊息，不籌量子宣佈近日完成A輪融資，截至目前公司累計融資近10億元。本輪融資由國泰海通、金鼎資本、中芯聚源、上海科創集團、頭部產投方、中信旗下基金、TCL創投、金浦智慧、道禾長期投資、元禾控股、楊浦夢航、上海產業智慧財產權基金、川創投等投資機構及產業方共同參與。本輪融資將主要用於中性原子量子計算核心技術研發、整機及關鍵模組的工程化與產品化、核心團隊建設，以及量子計算應用生態拓展。"
-    },
-    {
-      "id": "mkt:019ff0b6-eb3b-7aab-8ff1-5356c407444d",
-      "time": "2026-08-11 20:05:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "IBM.O"
-      ],
-      "text": "IBM said under a multi-year $240m agreement it plans to deploy a large number of NVIDIA HGX B300 systems on IBM Cloud, with availability expected in Q1 2027."
-    },
-    {
-      "id": "5035911",
-      "time": "2026-08-11 20:05:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【立訊精密今日大宗交易平價成交476.63萬股，成交額2.65億元】8月11日，立訊精密大宗交易成交476.63萬股，成交額2.65億元，佔當日總成交額的5.34%，成交價55.63元，較市場收盤價55.63元持平。"
-    },
-    {
-      "id": "mkt:019ff0b6-4f8e-7aab-8ff1-4dadcc62da52",
-      "time": "2026-08-11 20:05:07",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "【Dan Bin says Changjiang Oriental Harbour Fund No.2 stayed fully invested in July drawdown; only minimal structural tweaks】Dan Bin, chairman of Oriental Harbour, told investors Changjiang Oriental Harbour Fund No.2 remained fully invested heading into July’s deep pullback and was heavily exposed to AI industry-chain names. The fund, which captured NVIDIA-led global AI gains in 2023 but only began large-scale A-share AI allocations in 2026, suffered a significant drawdown with the AI sector and did not carry out material de-risking—only very small, structural micro-adjustments."
-    },
-    {
-      "id": "mkt:019ff0b6-4e64-7aab-8ff1-448a1eb77cbd",
-      "time": "2026-08-11 20:05:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US ADP weekly employment change for week ended July 25 due in 10 minutes."
-    },
-    {
-      "id": "5035910",
-      "time": "2026-08-11 20:04:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三安光電：為子公司6.5億元借款展期提供連帶責任擔保】三安光電公告稱，全資子公司湖南三安此前向農業銀行申請的10億元綜合授信額度融資，剩餘借款本金6.5億元原到期日為2026年8月11日。近期，三方簽訂《借款展期協議》，借款本金展期至2028年8月11日，公司為該筆借款展期提供連帶責任擔保，保證期間為借款展期到期日起三年。截至公告日，公司實際對外擔保總額為114.93億元，佔2025年末經審計淨資產的32.95%，無逾期對外擔保。"
-    },
-    {
-      "id": "5035909",
-      "time": "2026-08-11 20:04:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華智數媒：股票交易異常波動 不存在應披露未披露重大資訊】華智數媒公告稱，公司股票於2026年8月10日、8月11日連續2個交易日收盤價格漲幅偏離值累計超30%，屬於異常波動。經自查及問詢控股股東和實控人，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大資訊，控股股東和實控人在異常波動期間無買賣公司股票情形。提醒投資者注意交易風險。"
-    },
-    {
-      "id": "5035908",
-      "time": "2026-08-11 20:04:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【青海首開寮國國際班列 尿素實現自營出口】8月11日，裝載1150噸青海雲天化國際化肥有限公司自產尿素的中老鐵路國際貨物列車，從青藏鐵路西寧雙寨物流中心啟程開往寮國永珍。這是青海首趟直達寮國永珍的國際貨運班列，青海自產尿素首次實現自營出口，標誌著青海面向東盟的國際物流通道建設迎來新突破。（新華社）"
-    },
-    {
-      "id": "5035907",
-      "time": "2026-08-11 20:04:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【但斌回應投資人質疑：東方港灣在7月深度回撥中沒有大幅減倉 僅極小比例結構性微調】東方港灣董事長但斌回應投資人質疑稱，長江東方港灣2號目前依舊保持滿倉狀態，在7月本輪深度回撥之前，該基金重倉AI產業鏈標的，一路堅持、未做大規模減倉，本輪跟隨AI賽道出現了較大幅度回撤。東方港灣在2023年把握了英偉達為代表的全球AI核心機會，對A股本土AI產業鏈的佈局啟動偏晚，直到2026年才全面全力以赴重倉。本輪7月大跌行情中，東方港灣沒有恐慌割肉、沒有大幅減倉，僅做了極小比例的結構性微調。"
-    },
-    {
-      "id": "5035906",
-      "time": "2026-08-11 20:03:52",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "芝商所集團將把全天候交易範圍擴大至100盎司白銀期貨。"
-    },
-    {
-      "id": "5035905",
-      "time": "2026-08-11 20:03:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "NOVO表示，AWIQLI現已在美國上市。"
     }
   ]
 }
