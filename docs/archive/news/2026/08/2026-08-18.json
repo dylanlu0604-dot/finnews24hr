@@ -1,7 +1,95 @@
 {
   "date": "2026-08-18",
-  "count": 2496,
+  "count": 2506,
   "items": [
+    {
+      "id": "mkt:01a0154b-e4c1-7aab-907d-3c4a8c9e4e7d",
+      "time": "2026-08-18 22:34:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. judge allows Trump administration to end deportation protection for more than 5,000 Ethiopian nationals."
+    },
+    {
+      "id": "5046262",
+      "time": "2026-08-18 22:34:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官允許特朗普政府終止對5000多名衣索比亞人的驅逐保護。"
+    },
+    {
+      "id": "5046261",
+      "time": "2026-08-18 22:34:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALL IN! GAMES：投資者宣佈有意進行500萬茲羅提的資本投資。"
+    },
+    {
+      "id": "5046260",
+      "time": "2026-08-18 22:33:24",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【克利夫蘭聯儲調查：企業高管預計未來一年CPI通脹率將降至3.3%】克利夫蘭聯儲調查的企業高管預計，未來一年CPI通脹率為3.3%，較第二季度的3.7%略有下降。他們預計工資增長（未來一年為2.8%，去年調查為2.9%）和就業水平不會出現明顯變化。預計研發支出增速將放緩，未來一年預計為2.0%，低於去年調查中的3.1%。"
+    },
+    {
+      "id": "mkt:01a0154a-8007-7aab-907d-34923e5d1dce",
+      "time": "2026-08-18 22:33:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Estonia's prime minister said authorities are investigating a fire at a defence manufacturer linked to Russia."
+    },
+    {
+      "id": "5046259",
+      "time": "2026-08-18 22:32:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞總理：該國正在調查國防製造商火災事件是否與俄羅斯存在關聯。"
+    },
+    {
+      "id": "te:markets:576181",
+      "time": "2026-08-18 22:32:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise on Tuesday — US natural gas prices climbed above $2.71/MMBtu as forecasts pointed to prolonged and intense heat across the southern and western parts of the country. Particularly high temperatures in Texas are driving greater air-conditioning use, increasing electricity demand and placing additional pressure on gas-fired power plants and the regional grid. Houston temperatures are expected to average around 100°F between August 20 and 23, while peak demand on the Texas power grid could reach a new record as wind generation declines. However, the price gains were limited by exceptionally strong domestic production. Average output in the Lower 48 states has reached 111.6 billion cubic feet per day in August, surpassing July’s record of 110.7 bcfd. Strong production and relatively mild weather earlier this year have also kept inventories above the five-year average since March. Meanwhile, gas flows to the nine major US LNG export facilities are averaging 17.2 bcfd in August, unchanged from July."
+    },
+    {
+      "id": "mkt:01a01549-77d9-7aab-907d-28d8ffa88f9a",
+      "time": "2026-08-18 22:32:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AI platform Behavox opens regional headquarters in Milan."
+    },
+    {
+      "id": "5046258",
+      "time": "2026-08-18 22:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：AI平臺Behavox設立米蘭辦事處，作為區域總部。"
+    },
+    {
+      "id": "5046257",
+      "time": "2026-08-18 22:31:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "Strategic Beverage Services收購BevZero美國業務，交易條款未披露。"
+    },
     {
       "id": "5046256",
       "time": "2026-08-18 22:30:25",

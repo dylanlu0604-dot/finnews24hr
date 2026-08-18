@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-18 22:31:34",
-  "count": 15149,
+  "updated": "2026-08-18 22:35:52",
+  "count": 15152,
   "items": [
+    {
+      "id": "mkt:01a0154b-e4c1-7aab-907d-3c4a8c9e4e7d",
+      "time": "2026-08-18 22:34:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. judge allows Trump administration to end deportation protection for more than 5,000 Ethiopian nationals."
+    },
+    {
+      "id": "5046262",
+      "time": "2026-08-18 22:34:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官允許特朗普政府終止對5000多名衣索比亞人的驅逐保護。"
+    },
+    {
+      "id": "5046261",
+      "time": "2026-08-18 22:34:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALL IN! GAMES：投資者宣佈有意進行500萬茲羅提的資本投資。"
+    },
+    {
+      "id": "5046260",
+      "time": "2026-08-18 22:33:24",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【克利夫蘭聯儲調查：企業高管預計未來一年CPI通脹率將降至3.3%】克利夫蘭聯儲調查的企業高管預計，未來一年CPI通脹率為3.3%，較第二季度的3.7%略有下降。他們預計工資增長（未來一年為2.8%，去年調查為2.9%）和就業水平不會出現明顯變化。預計研發支出增速將放緩，未來一年預計為2.0%，低於去年調查中的3.1%。"
+    },
+    {
+      "id": "mkt:01a0154a-8007-7aab-907d-34923e5d1dce",
+      "time": "2026-08-18 22:33:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Estonia's prime minister said authorities are investigating a fire at a defence manufacturer linked to Russia."
+    },
+    {
+      "id": "5046259",
+      "time": "2026-08-18 22:32:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞總理：該國正在調查國防製造商火災事件是否與俄羅斯存在關聯。"
+    },
+    {
+      "id": "te:markets:576181",
+      "time": "2026-08-18 22:32:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise on Tuesday — US natural gas prices climbed above $2.71/MMBtu as forecasts pointed to prolonged and intense heat across the southern and western parts of the country. Particularly high temperatures in Texas are driving greater air-conditioning use, increasing electricity demand and placing additional pressure on gas-fired power plants and the regional grid. Houston temperatures are expected to average around 100°F between August 20 and 23, while peak demand on the Texas power grid could reach a new record as wind generation declines. However, the price gains were limited by exceptionally strong domestic production. Average output in the Lower 48 states has reached 111.6 billion cubic feet per day in August, surpassing July’s record of 110.7 bcfd. Strong production and relatively mild weather earlier this year have also kept inventories above the five-year average since March. Meanwhile, gas flows to the nine major US LNG export facilities are averaging 17.2 bcfd in August, unchanged from July."
+    },
+    {
+      "id": "mkt:01a01549-77d9-7aab-907d-28d8ffa88f9a",
+      "time": "2026-08-18 22:32:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AI platform Behavox opens regional headquarters in Milan."
+    },
+    {
+      "id": "5046258",
+      "time": "2026-08-18 22:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：AI平臺Behavox設立米蘭辦事處，作為區域總部。"
+    },
+    {
+      "id": "5046257",
+      "time": "2026-08-18 22:31:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "Strategic Beverage Services收購BevZero美國業務，交易條款未披露。"
+    },
     {
       "id": "5046256",
       "time": "2026-08-18 22:30:25",
@@ -138919,65 +139007,6 @@
         "其他"
       ],
       "text": "亞特蘭大聯儲銀行維納布林：通脹水平仍過高，東南部各受訪機構反饋一致。"
-    },
-    {
-      "id": "5036145",
-      "time": "2026-08-11 22:35:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所紐約可可期貨<CCc2>跌幅近7%，跌至每噸5,536美元。"
-    },
-    {
-      "id": "5036144",
-      "time": "2026-08-11 22:35:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯釋放自 2022 年起在俄服刑的前美國海軍陸戰隊士兵。"
-    },
-    {
-      "id": "5036143",
-      "time": "2026-08-11 22:34:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "火箭實驗室：力爭今年完成中子火箭首次發射。"
-    },
-    {
-      "id": "mkt:019ff13e-5f70-7aab-8ff4-d9944f7626d6",
-      "time": "2026-08-11 22:33:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China rejects U.S. 'microphone diplomacy' over missile test criticism】On Aug. 11 at the Conference on Disarmament in Geneva, the U.S. and other countries issued a joint 'ballistic missile launch notification' statement criticizing China’s July submarine-launched intercontinental ballistic missile test. China’s disarmament ambassador Li Chijiang strongly rejected the criticism, saying Beijing had given advance notice of the test, accusing the U.S. of enlisting non-members, abusing the forum for political manipulation and applying double standards, and calling the move 'microphone diplomacy' that China will not accept."
-    },
-    {
-      "id": "5036142",
-      "time": "2026-08-11 22:32:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【資產管理公司股價上漲】阿波羅全球管理公司股價上漲5%，藍鴞資本股價上漲4.5%，黑石集團股價上漲3%，凱雷集團股價上漲2.7%。貝萊德股價上漲1.2%，阿瑞斯管理集團股價上漲3.3%，KKR股價上漲4.5%，GCM格羅夫納股價上漲3.6%。"
-    },
-    {
-      "id": "5036141",
-      "time": "2026-08-11 22:32:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "加拿大182天期國債收益率平均為2.436%，364天期國債收益率平均為2.718%"
-    },
-    {
-      "id": "5036140",
-      "time": "2026-08-11 22:32:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方在裁談會嚴正駁斥美方無端指責】今天（8月11日），在日內瓦裁軍談判會議上，美國等國發表所謂“彈道導彈發射通報”共同發言，無端指責中國7月進行的潛射洲際彈道導彈試射。中國裁軍事務大使李馳江發言予以嚴正駁斥，闡明中方立場。 李馳江大使強調，中方堅決反對個別國家濫用裁談會平臺搞政治操弄。美方為一己政治私利，誘拉包括非裁談會成員國在內的一些國家參加共同發言，對中方提前通報導彈試射的善意舉動吹毛求疵、無端指責，大搞“麥克風外交”。這是典型的政治操弄和赤裸裸的雙重標準，中方對此絕不接受，堅決反對。 李馳江大使指出，美方無端指責完全站不住腳。美方援引自願性政治承諾“防止彈道導彈擴散海牙行為準則”要求中方提前通報導彈發射，但中方不是“準則”成員，不受“準則”約束。中方始終安全、規範、負責任地開展洲際彈道導彈試射活動，提前向美國等國家作通報，採取審慎且合理的措施，確保我試射未損害任何國家利益，充分體現中方的善意和負責任態度。中方有關善意舉措絕不應被地緣政治算計所綁架。 李馳江大使表示，美方沒有資格在導彈試射問題上對中方說三道四。中方至今僅進行過三次洲際導彈試射，在五核國中試射次數最少。美國是全世界洲際導彈試射次數最多、最頻繁的國家，大肆“毀約退群”，斥巨資投入核力量建設，大搞“核共享”和“延伸威懾”安排，對國際和平與安全構成嚴重威脅。美國未認真履行導彈試射通報責任，沒有資格對中方提前通報的善意行為求全責備。 李馳江大使強調，中國始終堅持走和平發展道路，奉行自衛防禦核戰略，始終將核力量維持在國家安全需要最低水平，不參加任何形式的核軍備競賽。中國核力量是懾止核戰爭、維護世界和平安全與全球戰略穩定不可或缺的力量。中國正當合理的國防現代化建設不容置疑。中方敦促美方反躬自省，多做真正有利於世界和平與穩定的事情。（CCTV國際時訊）"
     }
   ]
 }
