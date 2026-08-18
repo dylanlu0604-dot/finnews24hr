@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-18 21:17:08",
-  "count": 15154,
+  "updated": "2026-08-18 21:21:10",
+  "count": 15160,
   "items": [
+    {
+      "id": "mkt:01a01507-61c4-7aab-907b-948f62dd0a72",
+      "time": "2026-08-18 21:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates News Agency said the UAE president spoke by phone with US President Trump to discuss regional affairs."
+    },
+    {
+      "id": "5046152",
+      "time": "2026-08-18 21:19:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：阿聯酋總統與特朗普通電話討論地區問題。"
+    },
+    {
+      "id": "mkt:01a01506-7b57-7aab-907b-8f8e7ca70e0b",
+      "time": "2026-08-18 21:19:01",
+      "tags": [
+        "MKT News",
+        "HD.N",
+        "Impact bullish"
+      ],
+      "text": "Home Depot (HD.N) top executive said a tariff refund under the International Emergency Economic Powers Act reduced Q2 cost of goods sold by $685 million."
+    },
+    {
+      "id": "5046151",
+      "time": "2026-08-18 21:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "家得寶高管表示，已收到IEEPA關稅退款，使第二季度銷售成本減少6.85億美元。"
+    },
+    {
+      "id": "5046150",
+      "time": "2026-08-18 21:18:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：無人機爆炸後未報告核安全或核安保受損情況。"
+    },
+    {
+      "id": "mkt:01a01505-93a1-7aab-907b-80a31ffa9e2b",
+      "time": "2026-08-18 21:18:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA: No reported nuclear safety or security damage after drone explosion."
+    },
+    {
+      "id": "mkt:01a01505-72e0-7aab-907b-7baddb565354",
+      "time": "2026-08-18 21:17:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Qatar says pushing to revive US-Iran talks and reopen Strait of Hormuz】On Aug 18 Qatar Foreign Ministry spokesman Majid Ansari said Doha is concentrating diplomatic efforts on de-escalation by securing a US‑Iran ceasefire, reopening the Strait of Hormuz and ensuring freedom of navigation, and by getting both parties back to the negotiating table. Ansari said Qatar, with Pakistan, helped mediate a memorandum of understanding between the US and Iran and is pressing to restore dialogue and implement the MoU; ceasefire breaches have so far prevented full implementation. Qatar is awaiting an Oman‑Iran agreement on the Strait as a catalyst to resume talks and said its priority is a pact that both reopens the Strait and secures a ceasefire."
+    },
+    {
+      "id": "5046149",
+      "time": "2026-08-18 21:17:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達稱正推動美伊恢復談判並開放霍爾木茲海峽】當地時間8月18日，卡達外交部發言人馬吉德·安薩里表示，當前卡方外交努力主要集中在緩和危機、阻止局勢進一步升級，解決當前危機的途徑是實現美伊停火、開放霍爾木茲海峽並保障航行自由，同時推動美伊雙方重返談判桌。安薩里表示，卡達與巴基斯坦此前參與斡旋，促成美國和伊朗達成諒解備忘錄，卡方正努力推動危機雙方恢復對話並落實備忘錄內容，但由於停火遭到破壞，有關條款未能得到全面執行。目前，卡方正在等待阿曼與伊朗就霍爾木茲海峽問題達成協議，希望以此推動恢復談判程序，避免局勢進一步升級。安薩里還稱，當前優先事項是達成一項能夠同時確保開放霍爾木茲海峽和實現停火的協議。卡達將繼續推動有關各方重返談判，以落實此前達成的諒解備忘錄，或達成結束戰爭的協議。（央視新聞）"
+    },
+    {
+      "id": "5046148",
+      "time": "2026-08-18 21:17:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司：換股吸收合併東興證券、信達證券報告書修訂】中金公司公告稱，公司擬以發行A股股票方式換股吸收合併東興證券、信達證券。公司於2026年6月17日收到上交所稽核問詢函後，聯合相關方及中介機構對重組報告書進行修訂完善，披露了重組報告書（修訂稿）。本次修訂僅對報告書部分內容補充調整，不改變本次交易方案。"
+    },
+    {
+      "id": "mkt:01a01505-1933-7aab-907b-76babc264abc",
+      "time": "2026-08-18 21:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA: an explosion caused casualties among 16 staff and contractors, including one killed and three critically injured."
+    },
+    {
+      "id": "mkt:01a01504-f23e-7aab-907b-6f9bc04cbee7",
+      "time": "2026-08-18 21:17:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "The IAEA said it learned that at about 06:00 local time today a drone exploded at a bus stop used by staff en route to the Zaporizhzhia nuclear plant."
+    },
+    {
+      "id": "5046147",
+      "time": "2026-08-18 21:17:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：爆炸導致工作人員和分包商共16人傷亡，其中1人死亡、3人重傷。"
+    },
+    {
+      "id": "5046146",
+      "time": "2026-08-18 21:16:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：獲悉今日約06:00，一架無人機在扎波羅熱核電站員工通勤巴士站發生爆炸。"
+    },
     {
       "id": "te:markets:576163",
       "time": "2026-08-18 21:16:29",
@@ -39,6 +155,15 @@
         "Important"
       ],
       "text": "United States | Manufacturing Capacity Utilization (Jul) | actual 76% | previous 75.7%"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608183844797871",
+      "time": "2026-08-18 21:15:45",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月份工業產值增長0.2%，市場預估為0.3%。"
     },
     {
       "id": "5046144",
@@ -138939,77 +139064,6 @@
         "其他"
       ],
       "text": "據交易商協會資料統計，2026年1-7月信用風險緩釋憑證（CRMW）創設規模前三位機構為浙商銀行、上海農商行和交通銀行，金額分別為9.71億元、4.78億元和4.69億元，創設只數為8只、3只和2只。"
-    },
-    {
-      "id": "mkt:019ff0fb-ea55-7aab-8ff3-2dd6cae291e8",
-      "time": "2026-08-11 21:21:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Former Supreme Court president elected Hungary's president】Hungary's parliament on the 11th voted to elect former Supreme Court president András Baka as president."
-    },
-    {
-      "id": "5036035",
-      "time": "2026-08-11 21:20:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭剛剛為一座金銻礦開闢快速審批通道，為首個鑽探專案掃清了障礙。"
-    },
-    {
-      "id": "5036034",
-      "time": "2026-08-11 21:19:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼： Disney+與ESPN宣佈自2026/27賽季起達成多年全球電動方程式錦標賽流媒體轉播協議。"
-    },
-    {
-      "id": "5036033",
-      "time": "2026-08-11 21:19:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利國會11日經過投票表決，選舉前最高法院院長鮑卡·安德拉什為新任總統。（新華社）"
-    },
-    {
-      "id": "5036032",
-      "time": "2026-08-11 21:19:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Venture Global執行長邁克·薩貝爾表示，由於天然氣庫存水平較低，歐洲正面臨越來越大的風險。"
-    },
-    {
-      "id": "5036031",
-      "time": "2026-08-11 21:18:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯國王對沙特、土耳其、巴基斯坦三方簽署的麥加聯合防務協議予以讚揚，稱該協議搭建起長期防務夥伴關係，以及深化合作與協同的框架。"
-    },
-    {
-      "id": "mkt:019ff0f8-b93e-7aab-8ff3-21b39740b0c3",
-      "time": "2026-08-11 21:17:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude slipped below $86/bbl, down 1.32% on the day. WTI crude fell 1.00% to $80.59/bbl."
-    },
-    {
-      "id": "5036030",
-      "time": "2026-08-11 21:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門交通部：胡塞武裝襲擊商船，危及數百萬葉門民眾的糧食供應。"
     }
   ]
 }
