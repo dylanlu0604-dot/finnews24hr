@@ -1,7 +1,199 @@
 {
-  "updated": "2026-08-18 21:37:32",
-  "count": 15166,
+  "updated": "2026-08-18 21:47:29",
+  "count": 15163,
   "items": [
+    {
+      "id": "5046205",
+      "time": "2026-08-18 21:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體18日報道，伊朗最高領袖即將在德黑蘭主持一場宗教活動。（新華社）"
+    },
+    {
+      "id": "mkt:01a0151f-7f8a-7aab-907c-396e4d7d95b4",
+      "time": "2026-08-18 21:46:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported on the 18th that Iran’s Supreme Leader will preside over a religious event in Tehran."
+    },
+    {
+      "id": "5046204",
+      "time": "2026-08-18 21:46:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百度下跌7.8%，此前該公司公佈的第二季度營收不及預期。"
+    },
+    {
+      "id": "5046203",
+      "time": "2026-08-18 21:45:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌4%】費城半導體指數跌4%，報12106.61點。"
+    },
+    {
+      "id": "5046202",
+      "time": "2026-08-18 21:45:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "EINRIDE股價上漲10%，此前公司預測下半年營收將實現樂觀增長，並宣佈與特斯拉達成合作。"
+    },
+    {
+      "id": "5046201",
+      "time": "2026-08-18 21:45:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅里厄營養科學擬收購Certified Group，交易條款未披露。"
+    },
+    {
+      "id": "mkt:01a0151e-1acc-7aab-907c-3140dbbd90ae",
+      "time": "2026-08-18 21:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's July primary budget surplus was 2.960 trillion Argentine pesos."
+    },
+    {
+      "id": "5046200",
+      "time": "2026-08-18 21:44:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊飛醫療科技：上半年營收4.46億元 同比增長49.4%】8月18日晚間，訊飛醫療科技（02506.HK）釋出2026年中期業績，上半年公司實現營收4.46億元，同比增長49.4%；毛利潤為2.36億元，同比增長53.5%；歸母淨利潤為-5930.3萬元，虧損幅度同比收窄20%。報告期內，公司大模型能力持續轉化為收入，AI診療助理、AI健康助手、AI數字基座等業務板塊營收實現全面增長。"
+    },
+    {
+      "id": "5046199",
+      "time": "2026-08-18 21:43:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷7月基本預算盈餘2.960萬億阿根廷比索。"
+    },
+    {
+      "id": "te:markets:576173",
+      "time": "2026-08-18 21:43:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Petrobras and Axia Gain — The Ibovespa rose over 0.5% to trade close to 168,000 on Tuesday, supported by heavyweight stocks. Petrobras rose nearly 1% as oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Axia (+0.5%) announced the results of its second Class C preferred share buyback operation, totaling approximately R$2 billion. Itaú BBA reiterated its buy recommendation for the stock. Rede D’Or added about 1%, while WEG gained 0.5%. Major banks traded below the flatline, pressured by rising global bond yields as energy-driven inflation concerns persisted. Meanwhile, Casas Bahia (-7%) is seeking a R$1 billion loan and betting on its marketplace after filing for judicial recovery. The company’s shares were halted several times during Monday’s session amid sharp volatility and closed down 33%."
+    },
+    {
+      "id": "5046198",
+      "time": "2026-08-18 21:41:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "家得寶：住房市場尚未出現“轉折點”。"
+    },
+    {
+      "id": "5046197",
+      "time": "2026-08-18 21:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：目前和未來不會與伊朗進行任何會談】美國總統特朗普18日在社交媒體上稱，目前和未來不會與伊朗進行任何會談或對話。他還稱美國對伊朗的海上封鎖依然全面有效，霍爾木茲海峽開放且正常執行，所有水雷已被清除或引爆。（新華社）"
+    },
+    {
+      "id": "5046196",
+      "time": "2026-08-18 21:40:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽預測哥倫比亞2026年經濟增長2.7%。"
+    },
+    {
+      "id": "mkt:01a0151a-3dc8-7aab-907c-2933ab845124",
+      "time": "2026-08-18 21:40:36",
+      "tags": [
+        "MKT News",
+        "SNOW.N",
+        "Impact bullish"
+      ],
+      "text": "UBS raises Snowflake (SNOW.N) PT to $425 from $370."
+    },
+    {
+      "id": "te:markets:576172",
+      "time": "2026-08-18 21:40:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.26% Lower — The Dow Jones Index is losing 139 points. Losses were led by Caterpillar (-2.86%), Nvidia (-1.90%) and Home Depot (-1.24%). Offsetting the fall, top gainers were J&J (2.29%), IBM (1.43%) and Chevron (1.41%)."
+    },
+    {
+      "id": "mkt:01a01519-f6a9-7aab-907c-250c88642d39",
+      "time": "2026-08-18 21:40:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH forecasts Colombia's GDP growth at 2.7% in 2026."
+    },
+    {
+      "id": "mkt:01a01519-dd07-7aab-907c-1a74e97238c4",
+      "time": "2026-08-18 21:40:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi state television, citing sources, said Israel has asked Hamas to hand over tunnel maps to verify they are consistent with Israeli-held information."
+    },
+    {
+      "id": "5046195",
+      "time": "2026-08-18 21:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "家得寶預計第四季度毛利率同比持平。"
+    },
+    {
+      "id": "5046194",
+      "time": "2026-08-18 21:38:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "DOCGO股價在第二季度業績公佈後下跌24.7%。"
+    },
+    {
+      "id": "5046193",
+      "time": "2026-08-18 21:37:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500能源指數有望收於3月以來的首個歷史新高。"
+    },
+    {
+      "id": "5046192",
+      "time": "2026-08-18 21:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "康明斯獲選為美國大型資料中心專案供應電池儲能系統。"
+    },
+    {
+      "id": "5046191",
+      "time": "2026-08-18 21:36:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杜旭亮主持召開杭州市政府黨組（擴大）會議和常務會議：堅定不移推動技術攻關應用 不斷壯大具身智慧產業叢集】今天，杭州市長杜旭亮主持召開市政府黨組（擴大）會議和常務會議，認真學習貫徹習近平總書記近期重要講話、重要指示、重要文章精神，聽取關於具身智慧領域核心技術研發應用和重點科研攻關清單工作機制的情況彙報，研究1—7月全市經濟執行情況等。會議指出，要鍛強具身智慧機器人的硬體底座，堅定不移推動核心技術攻關應用，按照“政府引導、市場主導”原則，健全具身智慧領域重點科研攻關專案統籌實施機制，集中優勢資源支援企業對關鍵共性技術、前沿引領技術、顛覆性技術開展攻關，不斷增強具身智慧產業核心競爭力。要集中力量培育、招引一批優質專案和專業人才，充分發揮好國家人工智慧應用中試基地（具身智慧）作用和行業企業集中、應用場景豐富等比較優勢，深化產業鏈上下游企業協同創新，打造更為成熟、更具競爭力的一流產業生態。（杭州釋出）"
+    },
     {
       "id": "5046190",
       "time": "2026-08-18 21:36:22",
@@ -138900,248 +139092,6 @@
         "公司"
       ],
       "text": "德國 SEFE 公司週二未能售出雷登儲氣庫庫容。"
-    },
-    {
-      "id": "5036088",
-      "time": "2026-08-11 21:46:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦內政部長訪問伊朗】巴基斯坦內政部長納克維今天（8月11日）訪問伊朗，他將就兩國關係等議題與伊朗多名官員舉行會晤。（CCTV國際時訊）"
-    },
-    {
-      "id": "5036087",
-      "time": "2026-08-11 21:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：沙烏地阿拉伯譴責哥倫比亞承認以色列對被佔領戈蘭高地擁有主權。"
-    },
-    {
-      "id": "te:markets:574456",
-      "time": "2026-08-11 21:46:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Abbott Stock Price Hits 21-week High — Abbott shares increased to 110.08 USD, the highest since March 2026. Over the past 4 weeks, Abbott gained 19.34%, and in the last 12 months, it decreased 16.32%."
-    },
-    {
-      "id": "mkt:019ff112-66cf-7aab-8ff3-bb24b104ef27",
-      "time": "2026-08-11 21:45:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: South China Sea live-fire exercises on Aug 12 and 14】China Maritime Safety Administration website says Shantou Maritime Safety Administration issued a navigation warning that on Aug 12 and 14, 08:00–18:00 local time, live-fire exercises will be conducted in parts of the South China Sea; vessels are prohibited from entering the affected waters."
-    },
-    {
-      "id": "5036086",
-      "time": "2026-08-11 21:45:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海實彈射擊】據中國海事局網站訊息，汕頭海事局釋出航行警告，8月12日和14日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "mkt:019ff112-153b-7aab-8ff3-b0472d8936f9",
-      "time": "2026-08-11 21:45:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tanker-tracking data show Russian crude exports averaged 3.71 mln bpd in the four weeks to Aug 9, the lowest since late May, suggesting the earlier export surge tied to sustained Ukrainian strikes on Russian refineries is fading."
-    },
-    {
-      "id": "5036085",
-      "time": "2026-08-11 21:43:49",
-      "tags": [
-        "公司",
-        "資料",
-        "觀點"
-      ],
-      "text": "【高盛：谷歌AI戰略或轉向規模化商業化 雲業務成核心增長引擎】高盛在研報中表示，谷歌母公司Alphabet近期AI管理層調整可能意味著公司戰略正在從“研究驅動”轉向更強調規模化商業化。谷歌DeepMind負責人Demis Hassabis將更多聚焦AGI、科學研究和長期AI開發，Koray Kavukcuoglu則接管Gemini產品開發與商業化。高盛認為，這並非谷歌放棄前沿模型競爭，而是開始將資源更多投入其真正具備長期優勢的領域。未來，谷歌仍將保持前沿AI研發能力，高盛預計Gemini 4可能在今年晚些時候或明年初推出。同時，Gemini消費者採用率提升有望強化谷歌的分發優勢，而Google Cloud將成為AI基礎設施變現的重要載體。高盛預計，未來4至6個季度Google Cloud收入複合增速可能接近三位數，GAAP營業利潤率有望超過30%。高盛認為，谷歌正在演變為一家規模化AI平臺公司：消費者AI擴大分發，雲業務承接基礎設施需求，前沿研究則更多服務整體商業戰略。"
-    },
-    {
-      "id": "5036084",
-      "time": "2026-08-11 21:43:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【衛星影象顯示油輪在霍爾木茲海峽外接力轉運 維繫中東原油出口生命線】儘管近期襲擊事件頻發，中東一條涉及油輪在霍爾木茲海峽外接力運輸的關鍵石油供應通道仍在運作。衛星影象顯示，有船隻在霍爾木茲海峽外進行貨物轉運，表明部分油輪仍在關閉追蹤訊號的情況下穿越這一水道。歐盟“Sentinel 2”衛星資料顯示，週一在阿曼和阿聯酋沿岸一段超過100公里（62英里）的海域內，共發現12起此類轉運活動。根據媒體彙編的船舶追蹤資料以及Kpler和Vortexa的資料，自週六以來，至少有4艘出港的超大型油輪在穿越霍爾木茲海峽後重新出現在追蹤系統中，這些油輪共載有800萬桶原油。其中一些船只過去曾參與這種接力運輸，另一些則可能繼續駛往世界其他地區的煉油廠。這種接力運輸和原油轉運正為地區緊張局勢持續之際的全球能源市場提供重要的生命線，並有助於抑制油價。有時每天仍有數百萬桶原油經這一水道運出，從而緩解衝突造成的全球市場供應損失。 不過，這種運輸方式並非沒有風險。阿聯酋主要石油公司是衝突期間最積極透過霍爾木茲海峽運出原油的企業之一。該公司上週晚些時候表示，衝突期間其15艘船隻遭到襲擊。宣告發布後，週末又有一艘船隻遇襲。許多駛離霍爾木茲海峽的船隻都選擇貼近阿曼海岸線的航線。這些船隻在透過相關水域時通常會得到美軍協助。由於針對航運的襲擊仍在持續，願意進入波斯灣的船東數量依然相對有限。這推動油輪公司收入大幅上漲，基準航線的日費再次接近50萬美元。"
-    },
-    {
-      "id": "5036083",
-      "time": "2026-08-11 21:42:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟電力協調小組：本週電力形勢仍將緊張。"
-    },
-    {
-      "id": "mkt:019ff10f-c760-7aab-8ff3-a9076bd53247",
-      "time": "2026-08-11 21:42:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "EU electricity coordination group says power supply will remain tight this week."
-    },
-    {
-      "id": "mkt:019ff10f-bd6d-7aab-8ff3-a33225807bd0",
-      "time": "2026-08-11 21:42:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "EU electricity coordination group says there is no short-term risk to power supply adequacy."
-    },
-    {
-      "id": "mkt:019ff10f-60bd-7aab-8ff3-989060b48555",
-      "time": "2026-08-11 21:42:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Satellite imagery shows tankers outside the Strait of Hormuz sustaining Middle East crude exports via ship-to-ship relay transshipment."
-    },
-    {
-      "id": "te:markets:574454",
-      "time": "2026-08-11 21:42:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Natural Gas Market Balances Heat and Strong Supply — US natural gas prices fluctuated around $2.80 per million British thermal units as investors weighed hotter weather forecasts and rising LNG demand against strong supply levels. Forecasts now point to significantly hotter conditions across the central and southern US, which could boost electricity demand as consumers increase air-conditioning use and raise gas consumption by power generators. Also, flows to US LNG export terminals on the Gulf Coast climbed to their highest level in more than a month as some facilities appeared to complete seasonal maintenance, reducing gas available to the domestic market. However, elevated inventories continue to limit the upside, with storage expected to remain 6.6% above the five-year average for the week ending August 7. Strong production and additional supply from West Texas pipelines coming online are also expected to keep the market well supplied."
-    },
-    {
-      "id": "5036082",
-      "time": "2026-08-11 21:42:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟電力協調小組：不存在短期電力供應充足性風險。"
-    },
-    {
-      "id": "5036081",
-      "time": "2026-08-11 21:41:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美官員稱美軍向一艘與伊朗有關的船隻開火】美國《華爾街日報》11日援引一名美國官員的話報道稱，美軍當日向一艘懸掛巴拿馬國旗、與伊朗有關的船隻開火。報道稱，這名官員表示，該船“試圖突破美國對伊朗港口的封鎖”，一架美國軍用直升機向該船船舵開火。此後，該船“似乎試圖將船員轉移到另一艘民用船隻上”。報道稱，目前該事件尚無人員傷亡報告。另據一名海員11日告訴新華社記者，一艘集裝箱船在阿曼灣海域遇襲，船員緊急呼叫救援並準備棄船。被襲船隻上的船員透過船舶間無線電公共頻道通報，事發地點位於阿曼灣東部邊緣，船上共17人，疑似被“直升機襲擊”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ff10e-a21f-7aab-8ff3-931c711863fb",
-      "time": "2026-08-11 21:41:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An EU power coordination group discussed electricity supply security."
-    },
-    {
-      "id": "5036080",
-      "time": "2026-08-11 21:41:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟電力協調小組就電力供應安全展開討論。"
-    },
-    {
-      "id": "5036079",
-      "time": "2026-08-11 21:40:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中際旭創子公司新進成為鵬鼎控股第四大股東 按收盤價計對應市值23.2億元】鵬鼎控股(002938.SZ)披露2026年半年報。截至二季度末，中際旭創(上海)投資有限公司持有鵬鼎控股2400萬股，持股比例1.04%，為公司的第四大股東。以鵬鼎控股今日收盤價96.67元/股計算，旭創投資的持股市值約23.2億元。"
-    },
-    {
-      "id": "te:markets:574453",
-      "time": "2026-08-11 21:40:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.31% Higher — The Dow Jones Index is picking up 167 points or 0.31 percent on Tuesday. Gains are led by Caterpillar (1.90%), Boeing (1.67%) and Home Depot (1.14%). Biggest losers are Nike (-1.95%), Alphabet (-1.72%) and Cisco Systems (-1.46%)."
-    },
-    {
-      "id": "5036078",
-      "time": "2026-08-11 21:39:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【連日高溫晴熱 河西走廊農作物受影響 旱情或將持續】甘肅省河西走廊連日來的高溫晴熱天氣，對農作物灌溉產生不利影響。張掖市種植玉米160餘萬畝，其中制種玉米110萬畝左右。總檯記者在甘州區一處制種玉米種植基地看到，受高溫少雨缺水多因素影響，農作物生長狀況欠佳。在一些田塊，處於灌漿後期的玉米苞葉乾枯，籽粒數量少於往年。據甘肅省氣象局8月11日訊息，7月中旬以來，甘肅省大部氣溫偏高，降水整體偏多，但空間分佈不均。預計未來30天，河西山旱地和白銀市大部有輕度乾旱風險。為了保障作物生長，張掖市農業部門已採取舉措應對旱情。全市選派60餘名市級專業技術人員組建6支抗旱科技小分隊，以縣區為單位深入田間地頭，開展抗旱管護、田間保墒等技術指導服務，緩解乾旱影響、減少農業損失。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ff10d-1316-7aab-8ff3-8a6cf6b9665e",
-      "time": "2026-08-11 21:39:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources say Russia's SIBUR-owned petrochemical plant ZapSibNeftekhim was struck by drones on Monday and has suspended operations."
-    },
-    {
-      "id": "5036077",
-      "time": "2026-08-11 21:39:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數漲幅擴大至1.5%，半導體裝置板塊強勢領漲，臺積電股價上漲0.41%，阿斯麥股價上漲3.69%，應用材料股價上漲1.73%，科磊股價上漲3.6%。"
-    },
-    {
-      "id": "5036076",
-      "time": "2026-08-11 21:39:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯西布林旗下的扎普西伯石油化工石化企業週一遭無人機襲擊，目前已停止運營。"
-    },
-    {
-      "id": "5036075",
-      "time": "2026-08-11 21:38:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商局集團與中國長安汽車簽署戰略合作框架協議】8月11日，招商局集團與中國長安汽車在深圳簽署戰略合作框架協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞物流運輸、汽車檢測認證、綜合金融、物業管理、新能源與綠色低碳等領域開展戰略合作。"
-    },
-    {
-      "id": "te:markets:574452",
-      "time": "2026-08-11 21:38:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Mixed — US stocks were mixed on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened and lent respite to banks, with JPMorgan and Goldman Sachs inching up. Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell."
     }
   ]
 }
