@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-19 00:58:11",
-  "count": 15105,
+  "updated": "2026-08-19 01:02:06",
+  "count": 15099,
   "items": [
+    {
+      "id": "5046381",
+      "time": "2026-08-19 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.06%，滬銅收跌0.89%，滬鋁收跌0.75%，滬鋅收跌1.07%，滬鉛收漲0.47%，滬鎳收跌0.25%，滬錫收跌1.21%。氧化鋁夜盤收跌0.07%，鋁合金收跌0.46%。不鏽鋼夜盤收漲0.25%。"
+    },
+    {
+      "id": "5046380",
+      "time": "2026-08-19 00:59:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔斯尼姆通訊社：沙特僱傭兵襲擊葉門塔伊茲省多地。"
+    },
+    {
+      "id": "mkt:01a015cf-bfd4-7aab-907f-6a7f04dc252d",
+      "time": "2026-08-19 00:58:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ukrainian forces launched an airstrike in Russia's Belgorod region, killing one and wounding three."
+    },
+    {
+      "id": "5046379",
+      "time": "2026-08-19 00:58:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛一週內達成第二筆交易，收購LCN瞄準“省心收租”模式】高盛集團一週內達成第二筆交易，繼續推進擴大其4萬億美元資產管理業務的計劃。高盛財富與資產管理部門主管Marc Nachmann時表示，這家華爾街巨頭將支付不超4.1億美元，收購商業地產投資公司LCN Capital Partners。LCN主要業務是售後回租協議和“三重淨租賃”專案。"
+    },
     {
       "id": "mkt:01a015ce-c218-7aab-907f-6695416e0a49",
       "time": "2026-08-19 00:57:46",
@@ -138403,101 +138440,6 @@
         "國際"
       ],
       "text": "美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。"
-    },
-    {
-      "id": "mkt:019ff1c6-32e9-7aab-8ff8-00361edd1ce2",
-      "time": "2026-08-12 01:02:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Romanian defence minister said Romanian forces destroyed two \"Gerbera\"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project."
-    },
-    {
-      "id": "5036285",
-      "time": "2026-08-12 01:01:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：Threads現已在Meta Quest上作為原生VR應用推出。"
-    },
-    {
-      "id": "5036284",
-      "time": "2026-08-12 01:01:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。"
-    },
-    {
-      "id": "mkt:019ff1c5-1ec2-7aab-8ff7-fa020f37beb1",
-      "time": "2026-08-12 01:00:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks."
-    },
-    {
-      "id": "mkt:019ff1c4-8515-7aab-8ff7-f5324f221d3d",
-      "time": "2026-08-12 01:00:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million."
-    },
-    {
-      "id": "5036283",
-      "time": "2026-08-12 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。"
-    },
-    {
-      "id": "mkt:019ff1c4-1a9d-7aab-8ff7-e8ebebb33166",
-      "time": "2026-08-12 00:59:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels."
-    },
-    {
-      "id": "mkt:019ff1c3-2ac0-7aab-8ff7-e38db43177a9",
-      "time": "2026-08-12 00:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS."
-    },
-    {
-      "id": "5036282",
-      "time": "2026-08-12 00:58:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。"
-    },
-    {
-      "id": "5036281",
-      "time": "2026-08-12 00:58:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。"
     }
   ]
 }
