@@ -1,7 +1,89 @@
 {
   "date": "2026-08-18",
-  "count": 1423,
+  "count": 1431,
   "items": [
+    {
+      "id": "5045531",
+      "time": "2026-08-18 16:17:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【群核科技增資至16.91億 增幅約13%】天眼查App顯示，近日，杭州群核資訊科技有限公司發生工商變更，註冊資本由約14.91億人民幣增至約16.91億人民幣，增幅約13%。杭州群核資訊科技有限公司成立於2011年11月，法定代表人為黃曉煌，經營範圍包括資訊科技諮詢服務、貨物進出口、技術進出口、技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等。"
+    },
+    {
+      "id": "mkt:01a013f1-da2b-7aab-9073-e98d2058a95b",
+      "time": "2026-08-18 16:16:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports SoftBank plans to issue $6.3 bln of retail bonds."
+    },
+    {
+      "id": "5045530",
+      "time": "2026-08-18 16:16:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀計劃發行規模63億美元的零售債券。"
+    },
+    {
+      "id": "mkt:01a013f1-b645-7aab-9073-e69f6d685059",
+      "time": "2026-08-18 16:16:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Naghdi, an adviser to the commander of Iran's Islamic Revolutionary Guard Corps (IRGC), said the Strait of Hormuz will never lose its importance and that finding alternative routes to transport oil and other cargo would take many years and impose very high costs."
+    },
+    {
+      "id": "5045529",
+      "time": "2026-08-18 16:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆華科技：2026年半年度營收1.55億元 淨虧損3113.54萬元】恆華科技公告稱，2026年半年度實現營業收入1.55億元，同比下降58.54%；歸屬於上市公司股東的淨利潤為淨虧損3113.54萬元，同比下降613.58%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a013f0-0196-7aab-9073-df62e3fd85ea",
+      "time": "2026-08-18 16:14:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bearish",
+        "09988.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "【Hong Kong close: Hang Seng Tech -0.9%; Zhipu -13.3%】Hong Kong equities closed mixed: Hang Seng +0.07% at 25,471.15; Hang Seng Tech Index -0.9% at 4,739.18. Market turnover HKD255.54bn. Sector flow: innovative drug names outperformed; property and plantation stocks rose and large banks firmed; AI large-model concept names lagged and parts of the semiconductor sector weakened. Notable movers: 06158.HK +125.0%; 06683.HK +35.0%; Chow Sang Sang (00116.HK) +19.1%; GenScript Biotech (01548.HK) +8.4%; WuXi Biologics (02269.HK) +>5%; Alibaba (09988.HK) +3.7%. Decliners included Zhipu AI (02513.HK) -13.3%; 03317.HK and 01888.HK ->8%; 01347.HK -7.9%; 03986.HK and 06809.HK ->6.5%; Lenovo Group (00992.HK) and Horizon Robotics (09660.HK) ->5%; MINIMAX‑W (00100.HK) -4.5%."
+    },
+    {
+      "id": "5045528",
+      "time": "2026-08-18 16:14:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【至純科技：擬轉讓參股公司1.1527%股權，交易金額2000萬元】至純科技公告，公司擬將持有的參股公司威頓晶磷1.1527%股權（對應76.4601萬股）轉讓給晶匯創芯，轉讓金額為2000萬元。本次交易以現金方式支付，有利於公司聚焦主營業務，最佳化資產負債結構。交易已獲公司董事會審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:01a013ef-9992-7aab-9073-d4027e710fc2",
+      "time": "2026-08-18 16:14:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India is considering cutting sugar import tariffs to curb domestic record-high sugar prices."
+    },
     {
       "id": "mkt:01a013ef-3a34-7aab-9073-c920a4bb06bf",
       "time": "2026-08-18 16:14:00",
