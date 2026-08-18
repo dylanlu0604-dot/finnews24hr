@@ -1,7 +1,91 @@
 {
   "date": "2026-08-19",
-  "count": 84,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:01a01611-633b-7aab-9080-19a17b4971d5",
+      "time": "2026-08-19 02:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said it has paused inference of Frontier models capable of executing code in its research cluster following the Hugging Face incident."
+    },
+    {
+      "id": "5046404",
+      "time": "2026-08-19 02:10:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：在 Hugging‑Face 事件發生後，我們立刻暫停了研究叢集中可能執行程式碼的前沿模型推理任務。"
+    },
+    {
+      "id": "5046403",
+      "time": "2026-08-19 02:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯表示，以色列近期對加沙發動的襲擊表明，內塔尼亞胡企圖 “蓄意破壞談判”，並阻撓地區及國際社會為推進特朗普方案所做的努力。"
+    },
+    {
+      "id": "mkt:01a0160f-5446-7aab-9080-10b075d4728a",
+      "time": "2026-08-19 02:08:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, OpenAI is rewriting its primary safety documentation following an incident involving Hugging Face."
+    },
+    {
+      "id": "5046402",
+      "time": "2026-08-19 02:07:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長：兩名伊朗外交官將於未來數日內被驅逐出境。"
+    },
+    {
+      "id": "mkt:01a0160d-2e6d-7aab-9080-0d4a5fb97bb8",
+      "time": "2026-08-19 02:05:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan warns AI positioning crowding poses concentration risk across equity and bond markets】Gabriela Santos of JP Morgan Asset Management warned AI-related concentration risk has spilled from equities into fixed income. She said the AI supercycle investment case remains intact but investors must be cautious about portfolio construction. July’s tech sell-off — the PHLX Semiconductor Index plunged 21% (its largest monthly drop since 2008) and the KOSPI fell 22% — highlighted crowding risks. Santos urged tighter position-size controls, prudent use of leverage and diversification beyond AI, saying traditional risk factors, sectors, regions and even asset classes may no longer capture AI-driven concentration."
+    },
+    {
+      "id": "mkt:01a0160b-38b5-7aab-9080-07d73316d22f",
+      "time": "2026-08-19 02:03:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "DTEK said a Russian strike severely damaged a thermal power plant in central Ukraine, forcing the plant offline."
+    },
+    {
+      "id": "5046401",
+      "time": "2026-08-19 02:02:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【據傳優步透過大宗交易出售部分 Aurora Innovation 股權】知情人士透露，優步科技公司於週一透過一筆 4.766 億美元的非註冊大宗交易，出售了所持 Aurora Innovation 公司的部分股權。本次發售這家自動駕駛技術企業的 7200 萬股股票，定價 6.62 美元，處於 6.62‑6.97 美元推介價格區間的下限。摩根大通負責本次發售相關工作。"
+    },
+    {
+      "id": "5046400",
+      "time": "2026-08-19 02:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 在 Hugging Face 資料洩露事件後調整人工智慧安全機制。"
+    },
     {
       "id": "5046399",
       "time": "2026-08-19 01:53:29",
@@ -169,6 +253,15 @@
         "Brent"
       ],
       "text": "Canadian Oil Sands Alliance chair says Canadian oil sands companies plan to take a final investment decision on the Pathways carbon-capture project by the end of next year."
+    },
+    {
+      "id": "em:qqyh_mlc:202608193844954554",
+      "time": "2026-08-19 01:20:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。"
     },
     {
       "id": "mkt:01a015e1-bf8b-7aab-907f-aa8b1eb2a199",
