@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-18 09:40:54",
-  "count": 15197,
+  "updated": "2026-08-18 09:44:49",
+  "count": 15193,
   "items": [
+    {
+      "id": "5045004",
+      "time": "2026-08-18 09:43:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "據菲律賓媒體報道，菲律賓南部棉蘭老島18日上午發生校園槍擊事件。（新華社）"
+    },
+    {
+      "id": "5045003",
+      "time": "2026-08-18 09:43:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量39億元。"
+    },
+    {
+      "id": "5045002",
+      "time": "2026-08-18 09:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念震盪下挫 貝達藥業跌停】早盤創新藥概念震盪下挫，貝達藥業20cm跌停，太龍藥業、百普賽斯、三力製藥、復旦張江、萬邦醫藥等跟跌。"
+    },
+    {
+      "id": "5045001",
+      "time": "2026-08-18 09:42:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "化肥概念持續走強，赤天化、紅四方、農發種業、萬向德農等漲停，雲天化、農大科技、興發集團、新洋豐、雪峰科技、潞化科技等跟漲。"
+    },
+    {
+      "id": "5045000",
+      "time": "2026-08-18 09:42:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【BC電池板塊短線拉昇，英諾鐳射漲超10%】BC電池板塊短線拉昇，英諾鐳射漲超10%，華民股份、捷佳偉創、海目星、東材科技、奧特維等跟漲。"
+    },
+    {
+      "id": "5044999",
+      "time": "2026-08-18 09:41:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷化銦概念反覆活躍 宿遷聯盛漲停】近期磷化銦概念反覆活躍，宿遷聯盛漲停，有研新材、三安光電、博傑股份、雲南鍺業、興業科技漲幅靠前。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608183844191489",
+      "time": "2026-08-18 09:41:47",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【7月份工業資料出爐 積體電路緣何實現三位數增長？】8月17日，國家統計局釋出最新工業生產資料。7月份，全國規模以上工業增加值同比增長4.5%，新動能貢獻不斷增強，裝備製造業、高技術製造業、數字產品製造業等增長亮眼。"
+    },
+    {
+      "id": "5044998",
+      "time": "2026-08-18 09:41:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報582.20元。"
+    },
+    {
+      "id": "5044997",
+      "time": "2026-08-18 09:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古陸路口岸貨運量突破1億噸大關】據內蒙古日報，自治區口岸辦訊息，截至8月14日，2026年內蒙古陸路口岸進出境貨運量突破1億噸大關，較上一年度提前一個月突破億噸，貨運規模繼續穩居全國首位，為暢通國內國際雙迴圈提供了堅實的通道支撐。"
+    },
     {
       "id": "mkt:01a01286-c297-7aab-906c-9889a4743639",
       "time": "2026-08-18 09:40:16",
@@ -139167,126 +139245,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超5000億元，較上日此時縮量1858億元。"
-    },
-    {
-      "id": "mkt:019fee7e-1de0-7aab-8fe4-1f06d6596700",
-      "time": "2026-08-11 09:44:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Most-active polysilicon contract fell 2.0% intraday to 35,915 yuan/ton."
-    },
-    {
-      "id": "5034855",
-      "time": "2026-08-11 09:44:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【建築材料板塊走弱，寧夏建材跌停】建築材料板塊走弱，寧夏建材跌停，西藏天路、中材科技、宏和科技、中國巨石、法獅龍、再升科技等跟跌。"
-    },
-    {
-      "id": "5034854",
-      "time": "2026-08-11 09:43:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局8月11日8時聯合釋出橙色地質災害氣象風險預警：2026年8月11日8時至12日8時，北京西南部、河北中部、浙江大部、安徽西部和東南區域性、河南中部區域性發生地質災害的風險較高（黃色預警）；浙江東部和西北區域性發生地質災害的風險高（橙色預警）。"
-    },
-    {
-      "id": "5034853",
-      "time": "2026-08-11 09:43:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【智慧駕駛概念異動拉昇 大眾交通直線漲停】智慧駕駛概念異動拉昇，大眾交通直線漲停，北路智控、浙江世寶、錦江線上、萬集科技、索菱股份衝高。"
-    },
-    {
-      "id": "mkt:019fee7c-4c4b-7aab-8fe4-15a9ec12fe04",
-      "time": "2026-08-11 09:42:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude rose above $87/bbl, up 0.10% on the day."
-    },
-    {
-      "id": "mkt:019fee7c-3f67-7aab-8fe4-0e95dccf4ed2",
-      "time": "2026-08-11 09:42:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share poultry sector briefly rallied; Yisheng hit the daily trading limit, while Minhe, Shengnong Development, Huaying Agriculture, Guanghong Holdings and Jinlongyu also advanced."
-    },
-    {
-      "id": "5034852",
-      "time": "2026-08-11 09:42:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "mkt:019fee7b-e7f7-7aab-8fe4-04d56ce24834",
-      "time": "2026-08-11 09:42:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【LandSpace ZhuQue-3 Yao-2 launch delayed】Sources confirm LandSpace's ZhuQue-3 Yao-2 launch, scheduled for the morning of Aug. 11, has been postponed. A prior notice had set temporary airspace restrictions at Jiuquan Satellite Launch Center for Beijing time 07:40–08:27 on Aug. 11, 2026."
-    },
-    {
-      "id": "5034851",
-      "time": "2026-08-11 09:42:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破88美元/桶，日內漲0.35%。"
-    },
-    {
-      "id": "5034849",
-      "time": "2026-08-11 09:41:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界最大沖擊式水電機組順利完成轉子吊裝】今天（11日），世界最大沖擊式水電機組在大唐扎拉水電站順利完成轉子吊裝，標誌著我國超高水頭、大容量衝擊式水電裝備核心技術躋身世界領先行列，有力助推藏東南清潔能源基地建設。大唐扎拉水電站是國家“藏電外送”骨幹工程，裝機兩臺500兆瓦衝擊式機組，為全球同型別單機容量最大裝置。作為我國能源領域首臺（套）重大技術裝備，具有高海拔、高水頭、大容量等技術優勢。本次吊裝的轉子是發電機組實現能量轉換的“動力心臟”。轉子約840噸，相當於560輛家用小轎車的總重。它的成功安裝，標誌著專案已進入投產前的最後衝刺階段。電站全面投產後，每年可發出近40億度清潔綠電，可節約標準煤130萬噸，減少二氧化碳排放342萬噸。"
-    },
-    {
-      "id": "te:markets:574237",
-      "time": "2026-08-11 09:41:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Rise on AI Investment Push — The benchmark KOSPI edged higher to around 6,320 on Tuesday, extending gains from the previous session, supported by plans to accelerate AI-related investment. The government plans to enact a special law this year to streamline the implementation of AI investment projects, including a semiconductor cluster backed by combined investment commitments of 800 trillion won from Samsung Electronics and SK hynix. Sentiment was also supported by strong semiconductor exports, which surged 155.4% year-on-year in the first 10 days of August to $9.95 billion amid robust global AI demand. Meanwhile, gains were tempered by overnight weakness in US technology stocks and higher oil prices amid uncertainty over the reopening of the Strait of Hormuz. Large-cap performance was mixed, as Samsung Electronics increased 2.6%, while losses were recorded in SK hynix (-0.9%), SK Square (-1.4%), Hyundai Motor (-0.7%), LG Energy Solution (-0.7%), KB Financial Group (-1.5%), and Hanwha Aerospace (-2.8%)."
-    },
-    {
-      "id": "5034848",
-      "time": "2026-08-11 09:41:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【養雞板塊短線拉昇，益生股份漲停】養雞板塊短線拉昇，益生股份漲停，民和股份、聖農發展、華英農業、廣弘控股、金龍魚等紛紛走高。"
-    },
-    {
-      "id": "5034847",
-      "time": "2026-08-11 09:41:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【藍箭航天朱雀三號遙二運載火箭發射推遲】有知情人士確認，藍箭航天朱雀三號遙二運載火箭原定於8月11日早上的發射推遲。此前根據通告，酒泉衛星發射中心相關空域的臨時管制時段為北京時間2026年8月11日7時40分至8時27分。（第一財經）"
     }
   ]
 }
