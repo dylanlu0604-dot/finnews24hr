@@ -1,7 +1,102 @@
 {
-  "updated": "2026-08-18 16:10:56",
-  "count": 15138,
+  "updated": "2026-08-18 16:14:50",
+  "count": 15132,
   "items": [
+    {
+      "id": "mkt:01a013ef-3a34-7aab-9073-c920a4bb06bf",
+      "time": "2026-08-18 16:14:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India mulls cutting 100% sugar import duty to rein in domestic prices】Officials are considering reducing or removing the current 100% import duty on sugar to boost domestic supply and curb prices ahead of the festival season. The proposal highlights tightening global sugar supply: El Nifio is raising harvest concerns and has pushed New York sugar futures to near one-year highs."
+    },
+    {
+      "id": "5045526",
+      "time": "2026-08-18 16:13:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三暉電氣：2026年上半年淨利潤虧損4457.43萬元】三暉電氣公告，2026年上半年營業收入1.03億元，同比下降29.14%。歸屬於上市公司股東的淨利潤虧損4457.43萬元，上年同期虧損1630.97萬元。"
+    },
+    {
+      "id": "5045525",
+      "time": "2026-08-18 16:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度正考慮削減食糖進口關稅，以遏制國內創下紀錄的食糖價格。"
+    },
+    {
+      "id": "mkt:01a013ed-b17b-7aab-9073-c52f6c5972a9",
+      "time": "2026-08-18 16:12:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "HSI closed up 17.92 pts (0.07%) at 25,471.15 on Aug 18 (Tue); Hang Seng Tech Index closed down 42.85 pts (0.90%) at 4,739.18; HSCEI closed up 13.23 pts (0.16%) at 8,453.20; Hang Seng Red Chip Index closed up 21.56 pts (0.52%) at 4,183.04."
+    },
+    {
+      "id": "mkt:01a013ed-25b1-7aab-9073-ba33cad3f430",
+      "time": "2026-08-18 16:11:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Macau SAR formally releases 2026-30 third five-year plan】The Macau SAR government on the 18th formally released its Third Five-Year Plan for economic and social development, covering 2026-2030."
+    },
+    {
+      "id": "5045524",
+      "time": "2026-08-18 16:11:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技美股盤前跌超4%】美光科技美股盤前跌超4%，現報971.13美元。"
+    },
+    {
+      "id": "5045523",
+      "time": "2026-08-18 16:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門特區“三五”規劃正式公佈】澳門特區政府8月18日正式公佈《澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）》。（新華社）"
+    },
+    {
+      "id": "mkt:01a013ec-84a5-7aab-9073-b00b7ccc93ba",
+      "time": "2026-08-18 16:11:02",
+      "tags": [
+        "MKT News",
+        "066570.KS"
+      ],
+      "text": "LG Electronics said its data factory will be fully operational by year-end."
+    },
+    {
+      "id": "5045522",
+      "time": "2026-08-18 16:10:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巍華新材：取得金融機構不高於1.08億元回購股票專項融資支援】8月18日，巍華新材釋出公告稱，近日公司取得由中國建設銀行股份有限公司上虞支行出具的《中國建設銀行貸款承諾書》，貸款承諾額度不高於1.08億元，貸款期限3年，貸款用途為股票回購增持，承諾函有效期2年。此前，公司於2026年8月12日召開董事會審議透過回購方案，同意使用自有資金和/或自籌資金以集中競價方式回購部分A股股份，用於員工持股計劃或股權激勵，回購資金總額不低於8000萬元且不超過1.2億元。"
+    },
+    {
+      "id": "5045521",
+      "time": "2026-08-18 16:10:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天有為與黑龍江移動簽署戰略合作協議】據天有為訊息，8月18日，天有為與中國行動通訊集團黑龍江有限公司（簡稱“黑龍江移動”）在綏化市舉行戰略合作簽約儀式。雙方將圍繞新一代資訊科技與汽車產業深度融合，持續深化資源互補與戰略協同，共同推動產業融合創新，實現互利共贏。"
+    },
+    {
+      "id": "5045520",
+      "time": "2026-08-18 16:10:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德邁仕：聘任宋博、宋豔為公司副總經理】德邁仕公告稱，公司於2026年8月18日召開第四屆董事會第十五次會議，審議透過聘任宋博、宋豔為公司副總經理，任期自本次董事會審議透過之日起至第四屆董事會屆滿之日止。其中宋博合計持有公司12.69萬股股份，宋豔未持有公司股份，二人均符合相關法律法規規定的任職資格。"
+    },
     {
       "id": "te:markets:576068",
       "time": "2026-08-18 16:10:03",
@@ -138583,174 +138678,6 @@
         "觀點"
       ],
       "text": "【黃仁勳否認迴圈融資】當地時間8月10日，英偉達正式官宣重磅合作，與阿波羅、貝萊德、黑石、博楓、高盛、KKR六大全球頂級資管機構簽署諒解備忘錄，聯合搭建獨立算力融資平臺，計劃長期調動超5000億美元第三方資本，專門供給雲廠商、AI實驗室與實體企業，用於採購英偉達晶片、建設大型資料中心AI工廠。儘管英偉達和高盛、貝萊德在內的金融巨頭都對這一合作前景信心滿滿，但資本市場上關於“迴圈融資”泡沫的質疑聲浪卻快速湧來。面對質疑，英偉達CEO黃仁勳努力否認關於“迴圈融資”的質疑，並在訪談中強調，當前AI算力已經成為新時代剛需基礎設施，搭建融資平臺背後代表著市場對於AI基建的“真實而長期的需求”，並非資本單純炒作催生的泡沫需求。"
-    },
-    {
-      "id": "5035372",
-      "time": "2026-08-11 16:14:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST萬邦：子公司產品石杉鹼甲注射液中選省際聯盟採購】ST萬邦公告稱，公司全資子公司萬邦德製藥參加省際聯盟集中帶量採購投標，其產品石杉鹼甲注射液中選。本輪採購週期2年，參與省份眾多。該產品為公司核心獨家劑型，2018年獲註冊證，核心成分有多項榮譽及多國專利。公司為唯一生產廠家，有原料藥+製劑一體化優勢。中選利於拓寬渠道、擴大銷售、提升佔有率和品牌影響力，但後續執行和銷售受政策、市場影響，對業績影響有不確定性。"
-    },
-    {
-      "id": "5035371",
-      "time": "2026-08-11 16:14:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國日前基荷電力價格上漲23.6%，至139.4歐元/兆瓦時。"
-    },
-    {
-      "id": "5035370",
-      "time": "2026-08-11 16:14:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【可租賃可定製 青島首家機器人6S體驗店開業】近日，山東省青島市首家機器人6S體驗店開業，吸引眾多消費者前來參觀體驗。該店採用“六位一體”模式，整合銷售、零配件、售後服務、資訊反饋、租賃、個性化定製六大功能，助力機器人從實驗室走向日常生活。（新華社）"
-    },
-    {
-      "id": "mkt:019fefe3-2c0a-7aab-8fed-14daf340282b",
-      "time": "2026-08-11 16:14:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Lianxin Bank: July inflation data likely to matter more for next Fed decision than this month's jobs report】Lianxin Bank chief economist Bill Adams said July CPI (Wednesday) and PPI (Thursday) will likely carry more weight for the Fed's next decision than this month's jobs report. Economists expect July CPI YoY to slow to 3.4% from 3.5% in June (4.2% in May); weaker gasoline-price volatility is a key driver. Stable oil-product prices should also slightly cool PPI, and core CPI may improve as housing inflation moderates. If the prints match expectations, they would support a Fed pause at the Sept. 16 meeting, though August jobs and CPI data — due before the meeting — could still change that outlook."
-    },
-    {
-      "id": "5035369",
-      "time": "2026-08-11 16:13:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓媒：韓國宣佈將不會向烏克蘭提供武器】據俄羅斯衛星社網站8月11日報道，《韓民族日報》援引韓國外交部發言人的話報道稱，韓國將不會向烏克蘭提供武器，因為韓國法律禁止向正在發生激烈戰鬥衝突的國家提供致命性武器。8月8日，烏克蘭總統澤連斯基在接受烏克蘭媒體影片採訪時公開要求韓國提供防空系統。據該報報道，韓國外交部發言人在回答記者關於澤連斯基要求提供國防產品的問題時表示：“我國向各國交付國防產品一直以來都遵守相關國內法律和國家政策。”（參考訊息）"
-    },
-    {
-      "id": "mkt:019fefe2-31a8-7aab-8fed-0cbbbede4639",
-      "time": "2026-08-11 16:13:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Copper"
-      ],
-      "text": "【CPCA: July new-energy passenger car exports 540,000 units, up 147.8% YoY】CPCA data show July 2026 exports of Chinese new-energy passenger vehicles totaled 540,000 units, up 147.8% YoY and 8.1% MoM. NEVs comprised 58.8% of passenger-car exports, +14 ppt YoY. Battery-electric vehicles accounted for 59.5% of NEV exports (65.1% a year earlier); A00 and A0-class BEVs made up 42.2% of BEV exports (36.6%). Narrow plug-in hybrids were 35.9% of NEV exports (32.4%); range-extended models 4.6% (2.5%)."
-    },
-    {
-      "id": "5035368",
-      "time": "2026-08-11 16:13:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特里貝卡開發商創始人：在目前已公佈的海得拉巴特朗普大廈專案之後，我們將計劃在該城市開發另一個專案，同時也在考察班加羅爾的機會。"
-    },
-    {
-      "id": "mkt:019fefe1-6921-7aab-8fed-02c1b24bea7e",
-      "time": "2026-08-11 16:12:34",
-      "tags": [
-        "MKT News",
-        "Nickel",
-        "Impact bearish",
-        "Lead",
-        "Impact bullish",
-        "Aluminium"
-      ],
-      "text": "【LME on-warrants and canceled warrants daily】LME on-warrants and canceled warrants (t): Copper on-warrants 90,025t, +50t; canceled warrants 124,525t, -3,800t. Aluminium on-warrants 244,550t, -100t; canceled warrants 8,850t, -1,400t. Zinc on-warrants 74,725t, unchanged; canceled warrants 22,350t, -50t. Nickel on-warrants 256,188t, +300t; canceled warrants 8,556t, unchanged. Lead on-warrants 361,025t, -500t; canceled warrants 59,275t, -1,000t. Tin on-warrants 4,775t, -10t; canceled warrants 865t, +865t."
-    },
-    {
-      "id": "5035367",
-      "time": "2026-08-11 16:12:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【LME有色金屬庫存日報】倫敦金屬交易所（LME）有色金屬庫存及變化如下：1. 銅庫存214550噸，減少3750噸。2. 鋁庫存253400噸，減少1500噸。3. 鋅庫存97075噸，減少50噸。4. 鎳庫存264744噸，增加300噸。5. 鉛庫存420300噸，減少1500噸。6. 錫庫存5640噸，增加50噸。"
-    },
-    {
-      "id": "mkt:019fefe1-4bad-7aab-8fec-fb3d62916165",
-      "time": "2026-08-11 16:12:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【LME base metals stocks (daily)】LME base metals stocks: copper 214,550 t, down 3,750 t; aluminium 253,400 t, down 1,500 t; zinc 97,075 t, down 50 t; nickel 264,744 t, up 300 t; lead 420,300 t, down 1,500 t; tin 5,640 t, up 50 t."
-    },
-    {
-      "id": "mkt:019fefe1-4901-7aab-8fec-f2d50d4a148a",
-      "time": "2026-08-11 16:12:26",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong HSI closed down 284.67 points, or 1.10%, at 25,652.82 on Aug 11. Hang Seng Tech fell 95.04 points, or 1.93%, to 4,824.42. Hang Seng China Enterprises Index (HSCEI) dropped 93.74 points, or 1.09%, to 8,528.10. Hang Seng Red-Chip Index slipped 20.92 points, or 0.50%, to 4,121.93."
-    },
-    {
-      "id": "5035366",
-      "time": "2026-08-11 16:12:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【同力天啟：股價異常波動 上半年淨利潤預降82.39%】同力天啟公告稱，公司股票於2026年8月10日、8月11日連續2個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大資訊。公司預計2026年半年度淨利潤2039.70萬元左右，同比減少9544.93萬元，降幅82.39%；扣非淨利潤2162.73萬元左右，同比減少9133萬元，降幅80.85%，存在業績下滑風險。"
-    },
-    {
-      "id": "5035365",
-      "time": "2026-08-11 16:12:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浦東金橋：成功發行7億元中期票據 期限3年票面利率1.68%】浦東金橋公告稱，公司於2026年8月收到交易商協會接受中期票據註冊的通知，註冊金額15.3億元，有效期2年。8月7日，公司發行2026年度第二期中期票據，實際發行金額7億元，期限3年，起息日為8月10日，兌付日為2029年8月10日，票面利率1.68%，募集資金已於8月10日全額到賬。中國民生銀行為簿記管理人和主承銷商，招商銀行為聯席主承銷商。"
-    },
-    {
-      "id": "mkt:019fefe0-e465-7aab-8fec-eff893b91940",
-      "time": "2026-08-11 16:12:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump rejection of Iran compensation seen as move to strip Tehran’s bargaining leverage】Jordan University international relations professor Hasan Balari said Trump’s refusal to meet Iran’s compensation demand is aimed at eroding Tehran’s negotiating leverage. The US has described the demands as “unrealistic and unverifiable,” and Balari said accepting them would amount to admitting US responsibility for the war; both sides have since raised their asks. He said the US position rests on military power, a de facto maritime blockade of Iranian ports and Iran’s economic deterioration, but both sides show weaknesses — US military capacity is limited and Iran’s political and military positions are weak. Balari identified the Strait of Hormuz as Iran’s primary remaining leverage and said Tehran will seek to maximise that card to compel a US return to the memorandum framework; he said the standoff is likely to continue unless maintaining the status quo becomes costlier than returning to the memorandum."
-    },
-    {
-      "id": "5035364",
-      "time": "2026-08-11 16:11:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特里貝卡開發商創始人：在目前已公佈的海得拉巴特朗普大廈專案之後，我們將計劃在該城市開發另一個專案，同時也在考察班加羅爾的機會。"
-    },
-    {
-      "id": "mkt:019fefe0-2fbc-7aab-8fec-e37ec6616e76",
-      "time": "2026-08-11 16:11:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【CPCA: August 2026 passenger car market shows weak aggregate recovery, strong structural divergence】CPCA expects the August 2026 passenger car market to exhibit a weak overall recovery and pronounced structural divergence; 21 production-and-sales working days and peak summer seasonality keep end-market recovery sluggish. Disruption to navigation in the Strait of Hormuz pushed July international oil prices higher; China raised retail refined-fuel prices in two rounds totalling about 985 yuan/ton, materially raising running and maintenance costs for internal-combustion-engine (ICE) vehicles, suppressing ICE purchase intent and weakening ICE demand—a key external tailwind for continued NEV strength and expanded domestic and overseas NEV growth space."
-    },
-    {
-      "id": "5035363",
-      "time": "2026-08-11 16:11:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上汽大眾高管：很多品牌的車現在還會生鏽，防腐防鏽並不難，但考慮到成本可能做得不到位】“很多品牌的車現在還會出現生鏽情況，其實從技術上講，防腐防鏽並不難。但一些品牌考慮到成本，可能做得不到位。上汽大眾ID.ERA 5S採用了30%的熱成型鋼，把防腐工作做到位了。”8月11日，上汽大眾汽車有限公司銷售與市場執行副總經理、上海上汽大眾汽車銷售有限公司總經理傅強，在上汽大眾ID.ERA 5S產品日釋出會上談到了當下造車品控的問題。在釋出會上，有現場嘉賓進一步透露，個別車型白車身熱成型鋼的含量已低到了18%。“很多汽車品牌會宣傳彩電冰箱大沙發，但是在看不見的地方下功夫也很重要。”上汽大眾汽車有限公司大眾品牌營銷事業執行總監李俊說。傅強表示，在行業價格競爭加劇、控本壓力下，不少車型可能會在車身材料、耐久防護這類消費者難以直觀感知的環節壓縮投入，但是在家轎市場，安全是最為重要的基礎。（每經）"
     }
   ]
 }

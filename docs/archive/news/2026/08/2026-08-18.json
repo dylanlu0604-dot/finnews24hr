@@ -1,7 +1,102 @@
 {
   "date": "2026-08-18",
-  "count": 1412,
+  "count": 1423,
   "items": [
+    {
+      "id": "mkt:01a013ef-3a34-7aab-9073-c920a4bb06bf",
+      "time": "2026-08-18 16:14:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India mulls cutting 100% sugar import duty to rein in domestic prices】Officials are considering reducing or removing the current 100% import duty on sugar to boost domestic supply and curb prices ahead of the festival season. The proposal highlights tightening global sugar supply: El Nifio is raising harvest concerns and has pushed New York sugar futures to near one-year highs."
+    },
+    {
+      "id": "5045526",
+      "time": "2026-08-18 16:13:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三暉電氣：2026年上半年淨利潤虧損4457.43萬元】三暉電氣公告，2026年上半年營業收入1.03億元，同比下降29.14%。歸屬於上市公司股東的淨利潤虧損4457.43萬元，上年同期虧損1630.97萬元。"
+    },
+    {
+      "id": "5045525",
+      "time": "2026-08-18 16:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度正考慮削減食糖進口關稅，以遏制國內創下紀錄的食糖價格。"
+    },
+    {
+      "id": "mkt:01a013ed-b17b-7aab-9073-c52f6c5972a9",
+      "time": "2026-08-18 16:12:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish"
+      ],
+      "text": "HSI closed up 17.92 pts (0.07%) at 25,471.15 on Aug 18 (Tue); Hang Seng Tech Index closed down 42.85 pts (0.90%) at 4,739.18; HSCEI closed up 13.23 pts (0.16%) at 8,453.20; Hang Seng Red Chip Index closed up 21.56 pts (0.52%) at 4,183.04."
+    },
+    {
+      "id": "mkt:01a013ed-25b1-7aab-9073-ba33cad3f430",
+      "time": "2026-08-18 16:11:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Macau SAR formally releases 2026-30 third five-year plan】The Macau SAR government on the 18th formally released its Third Five-Year Plan for economic and social development, covering 2026-2030."
+    },
+    {
+      "id": "5045524",
+      "time": "2026-08-18 16:11:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技美股盤前跌超4%】美光科技美股盤前跌超4%，現報971.13美元。"
+    },
+    {
+      "id": "5045523",
+      "time": "2026-08-18 16:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門特區“三五”規劃正式公佈】澳門特區政府8月18日正式公佈《澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）》。（新華社）"
+    },
+    {
+      "id": "mkt:01a013ec-84a5-7aab-9073-b00b7ccc93ba",
+      "time": "2026-08-18 16:11:02",
+      "tags": [
+        "MKT News",
+        "066570.KS"
+      ],
+      "text": "LG Electronics said its data factory will be fully operational by year-end."
+    },
+    {
+      "id": "5045522",
+      "time": "2026-08-18 16:10:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巍華新材：取得金融機構不高於1.08億元回購股票專項融資支援】8月18日，巍華新材釋出公告稱，近日公司取得由中國建設銀行股份有限公司上虞支行出具的《中國建設銀行貸款承諾書》，貸款承諾額度不高於1.08億元，貸款期限3年，貸款用途為股票回購增持，承諾函有效期2年。此前，公司於2026年8月12日召開董事會審議透過回購方案，同意使用自有資金和/或自籌資金以集中競價方式回購部分A股股份，用於員工持股計劃或股權激勵，回購資金總額不低於8000萬元且不超過1.2億元。"
+    },
+    {
+      "id": "5045521",
+      "time": "2026-08-18 16:10:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天有為與黑龍江移動簽署戰略合作協議】據天有為訊息，8月18日，天有為與中國行動通訊集團黑龍江有限公司（簡稱“黑龍江移動”）在綏化市舉行戰略合作簽約儀式。雙方將圍繞新一代資訊科技與汽車產業深度融合，持續深化資源互補與戰略協同，共同推動產業融合創新，實現互利共贏。"
+    },
+    {
+      "id": "5045520",
+      "time": "2026-08-18 16:10:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德邁仕：聘任宋博、宋豔為公司副總經理】德邁仕公告稱，公司於2026年8月18日召開第四屆董事會第十五次會議，審議透過聘任宋博、宋豔為公司副總經理，任期自本次董事會審議透過之日起至第四屆董事會屆滿之日止。其中宋博合計持有公司12.69萬股股份，宋豔未持有公司股份，二人均符合相關法律法規規定的任職資格。"
+    },
     {
       "id": "te:markets:576068",
       "time": "2026-08-18 16:10:03",
