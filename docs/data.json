@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-19 03:39:09",
-  "count": 15106,
+  "updated": "2026-08-19 03:42:58",
+  "count": 15104,
   "items": [
+    {
+      "id": "5046459",
+      "time": "2026-08-19 03:41:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。"
+    },
     {
       "id": "5046458",
       "time": "2026-08-19 03:38:27",
@@ -138442,30 +138450,6 @@
         "MKT News"
       ],
       "text": "【Iraq condemns Colombia's recognition of Israeli \"sovereignty\" over Golan Heights】Iraq's foreign ministry on the 11th strongly condemned Colombia's decision to recognize Israeli \"sovereignty\" over the occupied Golan Heights, saying the territory is Syrian and that no party may change its legal status or confer legitimacy on the occupier. The ministry said Colombia's move has no legal force and does not alter the fact that the Golan Heights are an inseparable part of Syrian territory."
-    },
-    {
-      "id": "5036359",
-      "time": "2026-08-12 03:42:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：由於《明晰法案》推進受阻，美國證券交易委員會即將公佈加密領域重大方案。"
-    },
-    {
-      "id": "5036358",
-      "time": "2026-08-12 03:41:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克譴責哥倫比亞承認以色列對戈蘭高地“主權” 】伊拉克外交部11日發表宣告，強烈譴責哥倫比亞承認以色列對被佔領的戈蘭高地擁有“主權”的決定。宣告強調，戈蘭高地是被佔領的敘利亞領土，任何一方都無權改變其法律地位，或賦予佔領方任何缺乏依據的合法性。哥倫比亞的這一決定不具備任何法律效力，也無法改變“戈蘭高地是敘利亞領土不可分割的一部分”這一事實。伊拉克外交部指出，承認佔領國對被佔領土擁有“主權”開創了危險先例，破壞國際法原則和《聯合國憲章》。宣告重申，伊拉克完全支援敘利亞維護國家主權和領土完整。（新華社）"
-    },
-    {
-      "id": "5036357",
-      "time": "2026-08-12 03:40:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "知情人士：OpenAI 前高管為其初創公司尋求 7.5 億美元估值。"
     }
   ]
 }
