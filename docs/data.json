@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-19 05:40:13",
+  "updated": "2026-08-19 05:44:05",
   "count": 15105,
   "items": [
+    {
+      "id": "5046511",
+      "time": "2026-08-19 05:41:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。"
+    },
+    {
+      "id": "5046510",
+      "time": "2026-08-19 05:40:20",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "5046509",
       "time": "2026-08-19 05:33:23",
@@ -138487,25 +138504,6 @@
         "公司"
       ],
       "text": "黑石集團、魁北克儲蓄投資集團向加拿大航空 Aeroplan 投資 25 億加元。"
-    },
-    {
-      "id": "mkt:019ff2c8-082c-7aab-8ffb-7e75ee9c6a69",
-      "time": "2026-08-12 05:43:43",
-      "tags": [
-        "MKT News",
-        "CRWV.O"
-      ],
-      "text": "CoreWeave (CRWV.O) CFO expects Q3 revenue of $3.45–3.6 bln and capex of $11.5–13.5 bln."
-    },
-    {
-      "id": "mkt:019ff2c7-1861-7aab-8ffb-770d809cfcb6",
-      "time": "2026-08-12 05:42:41",
-      "tags": [
-        "MKT News",
-        "CRWV.O",
-        "Impact bullish"
-      ],
-      "text": "CoreWeave (CRWV.O) CFO expects active compute capacity to exceed 1.85 GW by year-end, above prior guidance of >1.7 GW."
     }
   ]
 }
