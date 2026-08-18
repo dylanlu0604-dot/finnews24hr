@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 00:42:37_
-_本檔包含 3046 則快訊，約 604360 字_
+_更新時間：2026-08-19 01:37:32_
+_本檔包含 3027 則快訊，約 605082 字_
+
+---
+
+### 2026-08-13 08:10:37  #觀點
+
+【中信證券：預計2026年全年銀行理財規模有望達到35萬億元—36萬億元】中信證券研報表示，經測算，2026年7月末銀行理財規模增長至35.2萬億元—35.4萬億元區間內，較6月末的33.66萬億元增長1.6萬億元—1.7萬億元，漲幅低於去年同期水平，但基本符合歷年季節性規律。銀行理財的“類存款”定位及相對收益優勢仍然是理財行業負債擴張的重要支撐。從產品結構看，7月理財規模的大幅擴張主要由固收類產品拉動，含權理財規模的增速有所放緩。展望8月，理財規模或延續小幅增長，存款搬家邏輯延續，但短期或存在階段性擾動。展望全年，預計2026年全年銀行理財規模有望達到35萬億元—36萬億元。
+
+---
+
+### 2026-08-13 08:10:23  #市場
+
+MSCI亞太指數上漲1%至277.49點。
+
+---
+
+### 2026-08-13 08:10:18  #MKT News
+
+S&P/ASX 200 opened down 23.5 points (-0.26%) at 9,185.90 on Aug. 13 (Thursday).
+
+---
+
+### 2026-08-13 08:10:18  #市場
+
+【天風證券：金價上行對金飾企業有望形成積極催化】天風證券研報認為，金價上行對金飾企業有望形成積極催化。近兩年行業不斷推出融合了平價鑽石、彩色寶石及琺琅元素的輕量化設計，為消費者提供兼具價效比與情感價值的選擇。由於其產品融合設計、創意以及多種非黃金類材質，透過一口價形式定價，其產品毛利率或優於傳統素金產品；若其銷售佔比提升，有望最佳化金飾企業毛利率。
+
+---
+
+### 2026-08-13 08:10:07  #公司 #觀點
+
+【華泰證券：3D列印行業仍處於快速發展紅利期，未來5年行業規模有望保持30%複合增速】華泰證券研報表示，軟硬體技術的不斷進步、生成式AI普及、社群生態建設和消費者個性化創作表達，共同推動消費級3D印表機行業持續繁榮，並在全球範圍內快速滲透，消費者的“造物”需求與創意不斷得到滿足。華泰證券認為3D列印破圈得益於以拓竹科技、創想三維等為代表的中國企業依託供應鏈整合、成本控制和技術精進帶來的產品力提升，奠定了中國企業的“鏈主”地位，當前已形成一超多強競爭格局。展望未來，行業仍處於快速發展紅利期，未來5年行業規模有望保持30%複合增速，硬體+耗材+生態將成為競爭關鍵。在產品力仍有進步空間背景下，預計軟硬體研發和生態構建領先的公司將持續展現競爭優勢。
+
+---
+
+### 2026-08-13 08:09:52  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Coherent earnings above expectations at 1.74 USD — Coherent (IIVI) released earnings per share at 1.74 USD, compared to market expectations of 1.62 USD.
+
+---
+
+### 2026-08-13 08:09:29  #市場 #央行 #國際
+
+【日本7月批發通脹攀升 加息可能性上升】週四公佈的資料顯示，日本7月批發通脹同比繼續走高，體現物價壓力範圍擴大，強化了市場對9月加息的預期。日本央行資料顯示，7月生產者物價指數同比上漲7.2%，6月修正後漲幅為7.3%；市場預期為上漲7.4%。此前日本央行釋放愈發偏鷹的政策訊號，包括公佈7月會議意見摘要，部分政策制定者呼籲加快加息步伐以應對通脹風險，本次資料正是在此背景下出爐。資料顯示，環比來看，該指數7月微漲0.1%，6月修正後環比上漲0.5%。以日元計價的進口物價指數7月同比上漲29.1%，6月修正後大幅上漲30.1%，表明日元走弱推高進口成本，進而抬升整體通脹水平。日本央行上月維持政策不變，但首次警告核心通脹可能超出目標，並表示後續討論將重點關注物價上行風險，釋放最早9月就可能加息的訊號。
+
+---
+
+### 2026-08-13 08:08:52  #其他
+
+未來資產證券給予北方華創買進的初始評級，目標價1,100元。
+
+---
+
+### 2026-08-13 08:08:51  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內漲0.28%。
+
+---
+
+### 2026-08-13 08:08:29  #其他
+
+【領益智造AIDC業務總部及量產中心專案落戶蘇州】據蘇州日報，8月12日，領益智造AIDC業務總部及量產中心專案簽約落戶蘇州。此次落地相城區的領益智造AIDC業務總部及量產中心專案，佈局建設人工智慧製造驗證中心、AIDC量產中心，推動領益智造新能源汽車及AI產業叢集專案開花結果，帶動算力硬體製造、運營及人工智慧應用等上下游企業集聚。儀式上，相城區人工智慧製造驗證中心，領益智造AIDC製造基地、領益智造和英特爾聯合實驗室揭牌。領益智造與一批生態夥伴簽署合作協議。
+
+---
+
+### 2026-08-13 08:08:27  #公司 #市場 #國際
+
+SK海力士領漲韓國晶片股。SK海力士股價早盤上漲6.3%，至1,599,000韓元；三星電子股價早盤上漲4.9%，至268,000韓元。
+
+---
+
+### 2026-08-13 08:08:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+【CITIC Securities: Derivatives pricing of Fed rate hikes has further downside】CITIC Securities said in a research note that July US CPI met expectations, core inflation remained mild and second‑round effects were weak, easing inflation risks. The firm judges US inflation is not highly sticky and expects headline CPI YoY to continue moderating through Q3, trough in September, rebound slightly in Q4 and then fall rapidly by March next year. CITIC still forecasts the Fed will keep policy unchanged this year and sees further room for derivatives to reprice lower on rate‑hike expectations.
+
+---
+
+### 2026-08-13 08:07:52  #市場 #焦點
+
+現貨黃金突破4420美元/盎司，日內漲0.26%。
+
+---
+
+### 2026-08-13 08:07:49  #其他
+
+中國地震臺網正式測定：08月13日08時01分在內蒙古錫林郭勒盟蘇尼特左旗（北緯42.95度，東經114.69度）發生3.3級地震，震源深度10千米。
+
+---
+
+### 2026-08-13 08:06:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration.
+
+---
+
+### 2026-08-13 08:06:08  #市場
+
+SK海力士股價早盤上漲6.3%，至1,599,000韓元。
+
+---
+
+### 2026-08-13 08:05:16  #公司 #國際
+
+【調查：絕大多數日本企業尚未全面採用人工智慧】路透週四公佈的一項調查顯示，超過80%的日本企業在運營中僅在有限範圍內使用人工智慧（AI），或根本未採用，這一趨勢可能阻礙政府提高生產率的努力。約60%受訪者表示，AI僅應用於公司部分業務或以其他有限方式使用。另有18%表示尚未決定是否將AI引入工作場所，6%甚至未考慮採用AI。調查顯示，其餘16%的企業已將AI作為不可或缺的工具部署在整個公司。“我們已開始在全公司範圍內使用AI，但其應用僅限於建立文件等任務。”某批發商的經理在調查中寫道。另一家房地產公司的主管表示，“我們不知該如何將它投入使用。”政府今年的一份報告顯示，日本在AI應用方面落後於其他工業強國：有86.4%日企至少在一項任務中使用生成式AI；而中國為98.1%、德國為91.6%、美國為90.9%。
+
+---
+
+### 2026-08-13 08:04:48  #央行 #美聯儲
+
+【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
+
+---
+
+### 2026-08-13 08:03:44  #MKT News #Market Regions #Japan & APAC #Hang Seng Index #Impact bullish #Nikkei 225
+
+South Korea's KOSPI jumped 4.00% intraday to 6,843.21 points.
+
+---
+
+### 2026-08-13 08:03:39  #市場 #國際
+
+韓國綜合股價指數（KOSPI）上漲4%，至6843.21點。
+
+---
+
+### 2026-08-13 08:03:16  #資料 #觀點 #央行 #國際
+
+【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
+
+---
+
+### 2026-08-13 08:02:08
+
+三星電子漲4％，SK海力士漲5％。
+
+---
+
+### 2026-08-13 08:01:52  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 opened up 580.21 points, or 0.86%, at 68,104.27 on Thursday, Aug. 13.
+
+---
+
+### 2026-08-13 08:01:48  #MKT News
+
+KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13.
+
+---
+
+### 2026-08-13 08:01:45  #公司 #市場
+
+三星電子股價上漲超4%。
+
+---
+
+### 2026-08-13 08:01:37  #MKT News #Important #005930.KS #Impact bullish #000660.KS
+
+South Korea's KOSPI up 3.38% in early trade; Samsung Electronics +4%, SK Hynix +5%.
+
+---
+
+### 2026-08-13 08:01:17  #市場 #焦點 #國際
+
+韓國綜合股價指數（KOSPI）較7月30日低點上漲20%。
+
+---
+
+### 2026-08-13 08:01:06  #其他
+
+日經指數在交易時段內升至68000點以上，為自7月16日以來首次。
+
+---
+
+### 2026-08-13 08:00:42  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。
+
+---
+
+### 2026-08-13 08:00:21  #市場
+
+【日韓股市開盤】日經225指數上午開盤報68033.17點，漲幅0.75％。韓國綜合股價指數（KOSPI）開盤上漲3％，至6773.92點。
+
+---
+
+### 2026-08-13 08:00:07  #市場 #焦點
+
+布倫特原油突破89美元/桶，日內跌0.66%。
+
+---
+
+### 2026-08-13 07:58:33  #觀點 #國際
+
+【中信證券：海峽通航風險難以徹底化解】中信證券研報認為，美以伊衝突已延宕逾五個月，針對近期市場關注的伊朗-阿曼潛在通航協議，我們認為該協議無法徹底化解海峽通航風險，中東局勢或仍將處於特朗普在 “TACO式退讓”與“惱羞成怒式升級”之間反覆迴圈的僵局之中。究其原因，一來該協議本質是伊朗對美施壓工具，但其強硬態度將直接危及特朗普的政治遺產，因而雙方談判難有進展。二來各方圍繞海峽控制權仍存在結構性矛盾，或難形成長期穩定的管理制度。綜合來看，後續真正具有觀測意義的訊號是美國是否正式啟動制裁豁免、資產解凍及海上封鎖調整。展望後續影響，在中短期，即使各方達成海峽管理安排並解除封鎖，通航量也未必能夠迅速、完全恢復至戰前水平。在有限通航情景下，全球通脹壓力仍在，但極端風險可控。在長期，圍繞霍爾木茲海峽的博弈顯示美國維護全球秩序的能力和意願正加速衰落，並將推動中東地緣格局與全球供應鏈加速重構。
 
 ---
 
@@ -18119,311 +18311,5 @@ Colombia's finance minister says the country is facing the most severe economic 
 ### 2026-08-12 01:38:19  #MKT News #Commodities #Energy #Brent #WTI
 
 Libya's National Oil Corporation said a fire at a fuel tank at the Zawiya refinery has been brought under control.
-
----
-
-### 2026-08-12 01:36:55  #公司
-
-利比亞國家石油公司稱，消防員已撲滅扎維亞煉油廠的所有火情。
-
----
-
-### 2026-08-12 01:34:05  #MKT News
-
-Venezuelan government said it has reached an agreement with Israel to establish a coordination mechanism to provide consular services.
-
----
-
-### 2026-08-12 01:32:50  #MKT News
-
-Iran's Fars News, citing sources, reports two more explosions struck Saudi mercenaries' positions in Marib, Yemen.
-
----
-
-### 2026-08-12 01:30:59  #宏觀
-
-哥倫比亞財政部長：哥倫比亞不會透過增稅來應對財政危機。
-
----
-
-### 2026-08-12 01:27:58  #MKT News #GOOG.O
-
-Google (GOOG.O) to add video-on-demand service to Google TV Freeplay.
-
----
-
-### 2026-08-12 01:27:36  #國際
-
-委內瑞拉政府表示已與以色列達成協議，將設立協調機制以提供領事服務。
-
----
-
-### 2026-08-12 01:27:29  #公司
-
-谷歌：將影片點播引入谷歌電視免費播放平臺。
-
----
-
-### 2026-08-12 01:25:53  #宏觀
-
-哥倫比亞財政部長：哥倫比亞尋求世界銀行4億美元貸款以應對緊急情況。
-
----
-
-### 2026-08-12 01:24:59  #宏觀
-
-哥倫比亞財政部長：哥倫比亞或於今日宣佈進入經濟緊急狀態。
-
----
-
-### 2026-08-12 01:22:51  #國際
-
-伊朗總統府：巴基斯坦內政部長表示，此行旨在跟進伊朗人員訪巴期間達成的共識。
-
----
-
-### 2026-08-12 01:19:54  #MKT News
-
-State broadcaster IRIB reported the Iranian president met Pakistan's interior minister.
-
----
-
-### 2026-08-12 01:18:39  #MKT News
-
-Tasnim News reported sounds of explosions in Marib, Yemen.
-
----
-
-### 2026-08-12 01:18:33  #其他
-
-納斯達克100指數跌幅擴大至0.5%。
-
----
-
-### 2026-08-12 01:16:30  #央行 #國際
-
-2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。
-
----
-
-### 2026-08-12 01:16:15  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-08-12 01:15:40  #MKT News
-
-【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234.
-
----
-
-### 2026-08-12 01:10:30  #MKT News
-
-Bahrain's Ministry of Defense said the Bahrain Defence Force chief of general staff met the UK deputy chief of the defence staff for strategy and operations and a visiting delegation to discuss bilateral defence cooperation and regional security.
-
----
-
-### 2026-08-12 01:10:21  #其他
-
-【哥倫比亞強震已致234人死亡】根據哥倫比亞市政聯合會當地時間11日通報，該國8月10日發生的強震死亡人數已上升為234人。
-
----
-
-### 2026-08-12 01:06:55  #公司 #市場 #國際
-
-【英偉達信用風險指標回落 CEO澄清5000億美元融資計劃】一項與英偉達相關的信用風險指標週二回落，此前該公司表示將限制自身在一項5000億美元融資計劃中的風險敞口。該計劃旨在為人工智慧投資提供融資，而這類投資正推動對英偉達晶片的需求。英偉達票息5.625%、2056年到期債券的收益率較可比美國國債高113個基點，利差收窄2個基點。與此同時，根據ICE Data Services的資料，5年期信用違約掉期報價一度收窄5個基點，至72.11個基點。
-
----
-
-### 2026-08-12 01:05:15  #市場 #國際
-
-美國三年期國債收益率在三年期國債標售過後縮小跌幅；最新報4.289%，較前值下跌1.6個基點。
-
----
-
-### 2026-08-12 01:05:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500
-
-US three-year Treasury yield trimmed losses after a three-year note auction, falling 1.6 bps to 4.289%.
-
----
-
-### 2026-08-12 01:05:06  #公司 #市場 #央行 #國際
-
-【巴克萊：美債對價格敏感型買家的依賴顯著上升 料使收益率維持高位】巴克萊表示，美國國債買家結構正在轉向更注重價值的共同基金、家庭和其他私人投資者，這一變化幫助推動30年期美債收益率升至數十年來高位。策略師Demi Hu和Anshul Pradan在一份報告中寫道，只要通脹持續存在，這些買家就會要求越來越高的補償，才願意持有長期債券。兩位策略師表示：“美國國債的買家基礎已經發生變化。”自2022年美聯儲開始縮減持倉以來，外國央行和美聯儲等官方部門的需求持續減弱，使得“私人投資者成為吸收新增供應的邊際買家”。
-
----
-
-### 2026-08-12 01:03:41  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-US 3-year Treasury auction on Aug. 11: share of awards at the stop-out yield 18.31% vs 2.17% previously.
-
----
-
-### 2026-08-12 01:03:33  #MKT News #Economic Calendar
-
-United States | 3-Year Note Auction Accepted at High (Aug.11) | actual 18.31% | previous 2.17%
-
----
-
-### 2026-08-12 01:03:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. 3-year Treasury auction on Aug. 11 — awarded yield 4.291%, up from 4.18% at the prior auction.
-
----
-
-### 2026-08-12 01:03:17  #MKT News #Economic Calendar
-
-United States | 3-Year Note Auction High Yield Rate (Aug.11) | actual 4.291% | previous 4.18%
-
----
-
-### 2026-08-12 01:02:58  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 3-year Treasury auction on Aug 11 posted a bid-cover ratio of 2.71, versus 2.6 previously.
-
----
-
-### 2026-08-12 01:02:48  #MKT News #Economic Calendar
-
-United States | 3-Year Note Auction Bid/Cover Ratio (Aug.11) | actual 2.71 | previous 2.6
-
----
-
-### 2026-08-12 01:02:44  #市場 #國際
-
-美國3年期國債中標收益率4.291%，發行前虛盤交易收益率為4.296%。
-
----
-
-### 2026-08-12 01:02:23  #宏觀 #市場 #國際
-
-美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。
-
----
-
-### 2026-08-12 01:02:05  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
-
-Romanian defence minister said Romanian forces destroyed two "Gerbera"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project.
-
----
-
-### 2026-08-12 01:01:45  #其他
-
-Meta：Threads現已在Meta Quest上作為原生VR應用推出。
-
----
-
-### 2026-08-12 01:01:20  #市場
-
-巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。
-
----
-
-### 2026-08-12 01:00:55  #MKT News #WTI #Impact bullish #Brent
-
-Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks.
-
----
-
-### 2026-08-12 01:00:15  #MKT News
-
-IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million.
-
----
-
-### 2026-08-12 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。
-
----
-
-### 2026-08-12 00:59:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels.
-
----
-
-### 2026-08-12 00:58:47  #MKT News
-
-SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS.
-
----
-
-### 2026-08-12 00:58:42  #焦點 #國際
-
-美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。
-
----
-
-### 2026-08-12 00:58:35  #其他
-
-國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。
-
----
-
-### 2026-08-12 00:56:31  #MKT News #Market Themes #AI Revolution
-
-SPACEXAI launched Grok bot.
-
----
-
-### 2026-08-12 00:56:29  #其他
-
-SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。
-
----
-
-### 2026-08-12 00:56:05  #MKT News #Market Themes #The Trump Trade
-
-CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week.
-
----
-
-### 2026-08-12 00:55:47  #公司
-
-利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。
-
----
-
-### 2026-08-12 00:55:05  #MKT News #Important #WTI #Impact bearish #Brent
-
-The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production.
-
----
-
-### 2026-08-12 00:54:12  #焦點 #國際
-
-美國能源資訊署（EIA）目前認為，近期途經曼德海峽運輸沙特石油的船隻遭遇的威脅並未導致產油設施停產。
-
----
-
-### 2026-08-12 00:54:04  #國際
-
-加拿大與美國貿易官員正在擬定潛在協議，計劃下週提交給特朗普。
-
----
-
-### 2026-08-12 00:53:49  #其他
-
-羅馬尼亞國防部長稱，在黑海專屬經濟區內、靠近海王星深海海上天然氣專案的空域擊落兩架無人機。
-
----
-
-### 2026-08-12 00:52:21  #國際
-
-美國能源資訊署預計，7月份中東原油停產規模平均為每日550萬桶。
-
----
-
-### 2026-08-12 00:49:50  #其他
-
-英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。
-
----
-
-### 2026-08-12 00:43:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d.
 
 ---

@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 00:42:37_
-_本檔包含 3141 則快訊，約 604633 字_
+_更新時間：2026-08-19 01:37:32_
+_本檔包含 3144 則快訊，約 605205 字_
+
+---
+
+### 2026-08-14 09:27:52  #Trading Economics #Economy #United States #Credit Rating #Importance 1
+
+Fitch Affirms U.S. at AA+ Amid Fiscal Strains — Fitch affirmed the U.S. sovereign credit rating at AA+ with a stable outlook, highlighting the country’s large economy, high per-capita income, and the dollar’s global reserve status. Despite tariffs, spending cuts, tighter border controls, and policy uncertainty, the economy has shown resilience and flexibility. Growth is projected to slow to 1.9% in 2026-2027 from 2.8% in 2025, with weaker labor demand and slower job creation. Inflation remains elevated, averaging 3.4% in 2026, above the Fed’s 2% target, partly due to tariffs on core goods. The fiscal outlook is pressured, with the deficit expected to widen to 7.4% of GDP in 2026-2027, the highest among AA-rated peers, driven by military, interest, Medicare, and Social Security costs. Moody's credit rating for the United States was last set at Aa1 with stable outlook. DBRS' credit rating for the United States was last reported at AAA with stable outlook.
+
+---
+
+### 2026-08-14 09:27:47  #市場
+
+【CPO板塊高開，中石科技20cm漲停】CPO板塊高開，中石科技20cm漲停，阿萊德、飛榮達、天洋新材紛紛高開。
+
+---
+
+### 2026-08-14 09:27:33  #公司 #市場
+
+儲存晶片板塊開盤活躍，阿萊德漲超10%，聯芸科技、普冉股份、兆易創新、德明利、長鑫科技等集體高開。
+
+---
+
+### 2026-08-14 09:27:27  #公司
+
+【中芯國際趙海軍：中國網際網路公司硬體投資超預期 算力及配套晶片供不應求】中芯國際聯合CEO趙海軍在業績會上表示，中國網際網路公司大幅提高硬體投資在公司此前預測之外，能夠明顯感受到客戶在跟公司談以後的合作時，後續下線量都遠遠超過原來的預期。直接相關的需求，以及資料中心的電路板跟算力板相關的配套晶片，比如邏輯電路、BCD、光模組傳送接收，都供不應求。
+
+---
+
+### 2026-08-14 09:27:26  #MKT News #SSE Composite #Impact bullish #CSI300 #SZSE Component
+
+China's Shanghai Composite opened up 3.06 points (+0.08%) at 3,930.02 on Friday, Aug. 14; Shenzhen Composite opened up 45.97 points (+0.32%) at 14,335.41; CSI 300 opened up 9.02 points (+0.19%) at 4,672.98; ChiNext Index opened up 24.15 points (+0.67%) at 3,610.19; STAR 50 Index opened up 21.07 points (+1.23%) at 1,738.82.
+
+---
+
+### 2026-08-14 09:27:20  #MKT News #Important #981.HK #Impact bullish
+
+China A-share storage chip sector opened higher; Alaide up >11%, Lianyun Technology up >5%; GigaDevice, SMIC and Demingli also gained.
+
+---
+
+### 2026-08-14 09:27:20  #MKT News
+
+【Retail cash yield snapshot: Licaitong, WeChat Lingqian Tong, Alipay Yu'e Bao】Licaitong (Tencent) current+7-day annualized yield: 0.6990%–1.0740%. WeChat Lingqian Tong 7-day annualized yield: 0.9010%–1.0010%. Alipay Yu'e Bao 7-day annualized yield: 0.9010%–1.0100%.
+
+---
+
+### 2026-08-14 09:26:58  #其他
+
+中芯國際：2026年折舊成本將達到50億美元，2027年將繼續增加。
+
+---
+
+### 2026-08-14 09:26:46  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #CSI300
+
+PBOC conducted 349 billion yuan of overnight reverse repo operations today.
+
+---
+
+### 2026-08-14 09:25:29  #其他 #焦點
+
+三大股指高開，滬指漲0.08％，深成指漲0.32％，創業板漲0.67％。
+
+---
+
+### 2026-08-14 09:25:28  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+At the A-share open, the Shanghai Composite rose 0.08%, the Shenzhen Composite Index rose 0.32% and the ChiNext Index rose 0.67%.
+
+---
+
+### 2026-08-14 09:25:23  #其他
+
+廣達電腦與Quantinuum宣佈合作，為大規模量子計算構建產業基礎。
+
+---
+
+### 2026-08-14 09:24:54  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
+
+【PBOC nets CNY 1.001 tln drain via reverse repos today; CNY 1.0985 tln net drain this week】Today the PBOC did not conduct new reverse repos; CNY 1.0 bln of 7-day reverse repos and CNY 1.0 tln of outright reverse-repo maturities led to a CNY 1.001 tln net drain. This week the PBOC injected CNY 18 bln of 7-day reverse repos while CNY 116.5 bln of 7-day maturities and CNY 1.0 tln of outright reverse-repo maturities rolled off, producing a CNY 1.0985 tln weekly net drain.
+
+---
+
+### 2026-08-14 09:23:26  #MKT News #Market Regions #Greater China #09698.HK #Impact bullish
+
+Wanguo Data (09698.HK) shares opened 9.28% higher after the company reported Q2 net profit of 838 mln yuan, reversing a year-earlier loss.
+
+---
+
+### 2026-08-14 09:23:23  #國際
+
+【印度一在建隧道塌方 已致至少7人死亡】當地時間13日，印度北阿坎德邦一在建隧道發生塌方。據當地警方和救援人員透露，事故造成至少7人死亡，另有多人受傷，救援工作還在繼續。
+
+---
+
+### 2026-08-14 09:22:01  #央行 #其他
+
+央行公開市場今日淨投放3480億元人民幣。
+
+---
+
+### 2026-08-14 09:21:59  #央行 #中國央行
+
+央行公告，根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-14 09:21:54  #MKT News #Important #Star Stocks #JD.com #09618.HK #Impact bearish
+
+JD.com (09618.HK) shares opened down 6.5% after earnings; Q2 2026 net profit CNY 7.1 bln, net margin 2.1%.
+
+---
+
+### 2026-08-14 09:21:51  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-14 09:21:42  #MKT News #Market Regions #Greater China
+
+【Foreign Ministry comments on Ecuador President Noboa's upcoming China visit】China's Foreign Ministry said Ecuador President Daniel Noboa will make his first state visit to China and will hold talks with President Xi Jinping; he will also meet Premier Li Qiang and NPC Standing Committee chairman Zhao Leji. Beijing described Ecuador as a major Latin American partner and a comprehensive strategic partner; the two countries have signed Belt and Road cooperation documents and a free trade agreement. The visit coincides with the 10th anniversary of the comprehensive strategic partnership and is aimed at consolidating political trust and advancing bilateral cooperation.
+
+---
+
+### 2026-08-14 09:21:25  #市場
+
+京東港股開盤跌6.5%。
+
+---
+
+### 2026-08-14 09:21:08  #MKT News #Important #Macro & Rates #CNH #Impact bearish
+
+PBOC says, based on primary dealers' demand in open market operations, the 7-day reverse repo on Aug 14, 2026 was zero.
+
+---
+
+### 2026-08-14 09:21:07  #MKT News #Hang Seng Index #Impact bearish
+
+Hong Kong open Aug 14 (Fri): HSI opened down 177.36 pts (-0.7%) at 25,219.15; Hang Seng Tech opened down 28.63 pts (-0.6%) at 4,763.76; Hang Seng China Enterprises Index (HSCEI) opened down 50.02 pts (-0.59%) at 8,376.47; Red Chip Index opened up 2.43 pts (+0.06%) at 4,091.63.
+
+---
+
+### 2026-08-14 09:21:05  #焦點
+
+港股恒指低開跌0.7％，國企指數跌0.59％，科指開跌0.6%，中芯國際績後開漲4.74%。
+
+---
+
+### 2026-08-14 09:20:58  #MKT News #Important #Hang Seng Index #Impact bearish #00981.HK #Impact bullish
+
+Hong Kong stocks opened lower: the Hang Seng Index fell 0.7% and the Hang Seng Tech Index dropped 0.6%. SMIC (00981.HK) opened up 4.74% post-earnings, guiding Q3 revenue +2–4% QoQ and gross margin of 26–28%.
+
+---
+
+### 2026-08-14 09:19:15  #國際
+
+【美軍中央司令部稱將組建多國攻擊無人機部隊】美軍中央司令部13日在社交媒體釋出訊息稱，將組建首支多國攻擊無人機部隊。 訊息說，這支部隊被稱為“獵鷹打擊”特遣部隊，將使用單向攻擊無人機作戰。這些無人機將由來自美國及地區合作伙伴的軍事人員操作，可以從空中、海上以及水下展開攻擊。 美軍中央司令部稱，已啟動與地區合作伙伴的磋商及正式邀請程式。隨著地區合作伙伴加入，“獵鷹打擊”特遣部隊將整合整個中東地區的攻擊型無人機能力，“打造成一支統一的、跨域且多國參與的威懾力量”。 不過，美軍中央司令部在訊息中並未說明將參與的具體國家。 美軍中央司令部總部位於美國佛羅里達州坦帕市，負責中東、中亞和南亞部分地區的軍事行動。(新華社)
+
+---
+
+### 2026-08-14 09:19:10  #市場 #焦點
+
+現貨黃金失守4320美元/盎司，日內跌0.76%。
+
+---
+
+### 2026-08-14 09:18:24  #公司
+
+中芯國際聯合執行長：漲價將進一步推高毛利率。
+
+---
+
+### 2026-08-14 09:18:14  #公司
+
+= 中芯國際聯合執行長：人工智慧相關晶片需求增長40%。
+
+---
+
+### 2026-08-14 09:18:09  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said demand for AI-enabled chips has risen 40%.
+
+---
+
+### 2026-08-14 09:18:01  #MKT News #0981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said higher pricing will further boost gross margins.
+
+---
+
+### 2026-08-14 09:17:43  #MKT News #Market Regions #Greater China
+
+SMIC (Semiconductor Manufacturing International Corp) co‑CEO Zhao Haijun said wafers shipped in Q3 were subject to a new pricing scheme.
+
+---
+
+### 2026-08-14 09:16:29  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.6% at 25,218, trading 177 points below the cash index.
+
+---
+
+### 2026-08-14 09:16:18  #公司
+
+【寧德時代成立新公司 含太陽能發電業務】企查查APP顯示，近日，尋甸潤時新能源有限公司成立，經營範圍包含物聯網技術研發；物聯網技術服務；物聯網應用服務；風力發電技術服務；太陽能發電技術服務等。企查查股權穿透顯示，該公司由寧德時代間接全資持股。
+
+---
+
+### 2026-08-14 09:16:17  #MKT News #Market Themes #Chip Wars #AI Revolution #Market Regions #Greater China #Nasdaq100 #Impact bullish #S&P500
+
+【SMIC co-CEO Zhao Haijun says AI-driven demand, spillovers to persist in H2】Aug 14 — At its Q2 results meeting, SMIC co-CEO Zhao Haijun said AI-driven industrial push and spillover effects will continue into H2, supporting broad demand for integrated circuit manufacturing. The company is flexibly reallocating existing capacity and fast-tracking validation of new capacity to ease supply tightness. He added rising supply-chain costs have begun to pass through to manufacturing; SMIC will take measures to mitigate the impact and minimize disruption.
 
 ---
 
@@ -18724,197 +18934,5 @@ Tokio Marine earnings above expectations at 138.25 JPY — Tokio Marine (8766) r
 ### 2026-08-13 08:10:38  #Trading Economics #Economy #Azerbaijan #Inflation Rate MoM #Importance 0
 
 Azerbaijan Monthly Inflation Declines at Slower Pace — Azerbaijan’s consumer prices fell 0.1% month-on-month in July 2026, following a sharper 0.3% decline in June. The slower decline was reflected in food, alcoholic beverages and tobacco prices, which fell 0.4% after decreasing 0.7% in the previous month. Food prices alone declined 0.4%, compared with a 0.8% drop in June, mainly due to lower prices for vegetables and fruit, while egg prices increased. Meanwhile, non-food prices were unchanged after rising 0.1% in June, as higher prices for paint, passenger car spare parts and engine oils were offset by lower jewelry prices. Prices for paid services rose 0.3%, following a 0.1% rise in June, driven by higher apartment rents, domestic leisure tours and catering services. On an annual basis, consumer prices rose by 5.8% in July, the same pace as in the preceding period and still the highest reading since October last year.
-
----
-
-### 2026-08-13 08:10:37  #觀點
-
-【中信證券：預計2026年全年銀行理財規模有望達到35萬億元—36萬億元】中信證券研報表示，經測算，2026年7月末銀行理財規模增長至35.2萬億元—35.4萬億元區間內，較6月末的33.66萬億元增長1.6萬億元—1.7萬億元，漲幅低於去年同期水平，但基本符合歷年季節性規律。銀行理財的“類存款”定位及相對收益優勢仍然是理財行業負債擴張的重要支撐。從產品結構看，7月理財規模的大幅擴張主要由固收類產品拉動，含權理財規模的增速有所放緩。展望8月，理財規模或延續小幅增長，存款搬家邏輯延續，但短期或存在階段性擾動。展望全年，預計2026年全年銀行理財規模有望達到35萬億元—36萬億元。
-
----
-
-### 2026-08-13 08:10:23  #市場
-
-MSCI亞太指數上漲1%至277.49點。
-
----
-
-### 2026-08-13 08:10:18  #MKT News
-
-S&P/ASX 200 opened down 23.5 points (-0.26%) at 9,185.90 on Aug. 13 (Thursday).
-
----
-
-### 2026-08-13 08:10:18  #市場
-
-【天風證券：金價上行對金飾企業有望形成積極催化】天風證券研報認為，金價上行對金飾企業有望形成積極催化。近兩年行業不斷推出融合了平價鑽石、彩色寶石及琺琅元素的輕量化設計，為消費者提供兼具價效比與情感價值的選擇。由於其產品融合設計、創意以及多種非黃金類材質，透過一口價形式定價，其產品毛利率或優於傳統素金產品；若其銷售佔比提升，有望最佳化金飾企業毛利率。
-
----
-
-### 2026-08-13 08:10:07  #公司 #觀點
-
-【華泰證券：3D列印行業仍處於快速發展紅利期，未來5年行業規模有望保持30%複合增速】華泰證券研報表示，軟硬體技術的不斷進步、生成式AI普及、社群生態建設和消費者個性化創作表達，共同推動消費級3D印表機行業持續繁榮，並在全球範圍內快速滲透，消費者的“造物”需求與創意不斷得到滿足。華泰證券認為3D列印破圈得益於以拓竹科技、創想三維等為代表的中國企業依託供應鏈整合、成本控制和技術精進帶來的產品力提升，奠定了中國企業的“鏈主”地位，當前已形成一超多強競爭格局。展望未來，行業仍處於快速發展紅利期，未來5年行業規模有望保持30%複合增速，硬體+耗材+生態將成為競爭關鍵。在產品力仍有進步空間背景下，預計軟硬體研發和生態構建領先的公司將持續展現競爭優勢。
-
----
-
-### 2026-08-13 08:09:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Coherent earnings above expectations at 1.74 USD — Coherent (IIVI) released earnings per share at 1.74 USD, compared to market expectations of 1.62 USD.
-
----
-
-### 2026-08-13 08:09:29  #市場 #央行 #國際
-
-【日本7月批發通脹攀升 加息可能性上升】週四公佈的資料顯示，日本7月批發通脹同比繼續走高，體現物價壓力範圍擴大，強化了市場對9月加息的預期。日本央行資料顯示，7月生產者物價指數同比上漲7.2%，6月修正後漲幅為7.3%；市場預期為上漲7.4%。此前日本央行釋放愈發偏鷹的政策訊號，包括公佈7月會議意見摘要，部分政策制定者呼籲加快加息步伐以應對通脹風險，本次資料正是在此背景下出爐。資料顯示，環比來看，該指數7月微漲0.1%，6月修正後環比上漲0.5%。以日元計價的進口物價指數7月同比上漲29.1%，6月修正後大幅上漲30.1%，表明日元走弱推高進口成本，進而抬升整體通脹水平。日本央行上月維持政策不變，但首次警告核心通脹可能超出目標，並表示後續討論將重點關注物價上行風險，釋放最早9月就可能加息的訊號。
-
----
-
-### 2026-08-13 08:08:52  #其他
-
-未來資產證券給予北方華創買進的初始評級，目標價1,100元。
-
----
-
-### 2026-08-13 08:08:51  #市場 #焦點
-
-紐約期金突破4480美元/盎司，日內漲0.28%。
-
----
-
-### 2026-08-13 08:08:29  #其他
-
-【領益智造AIDC業務總部及量產中心專案落戶蘇州】據蘇州日報，8月12日，領益智造AIDC業務總部及量產中心專案簽約落戶蘇州。此次落地相城區的領益智造AIDC業務總部及量產中心專案，佈局建設人工智慧製造驗證中心、AIDC量產中心，推動領益智造新能源汽車及AI產業叢集專案開花結果，帶動算力硬體製造、運營及人工智慧應用等上下游企業集聚。儀式上，相城區人工智慧製造驗證中心，領益智造AIDC製造基地、領益智造和英特爾聯合實驗室揭牌。領益智造與一批生態夥伴簽署合作協議。
-
----
-
-### 2026-08-13 08:08:27  #公司 #市場 #國際
-
-SK海力士領漲韓國晶片股。SK海力士股價早盤上漲6.3%，至1,599,000韓元；三星電子股價早盤上漲4.9%，至268,000韓元。
-
----
-
-### 2026-08-13 08:08:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-【CITIC Securities: Derivatives pricing of Fed rate hikes has further downside】CITIC Securities said in a research note that July US CPI met expectations, core inflation remained mild and second‑round effects were weak, easing inflation risks. The firm judges US inflation is not highly sticky and expects headline CPI YoY to continue moderating through Q3, trough in September, rebound slightly in Q4 and then fall rapidly by March next year. CITIC still forecasts the Fed will keep policy unchanged this year and sees further room for derivatives to reprice lower on rate‑hike expectations.
-
----
-
-### 2026-08-13 08:07:52  #市場 #焦點
-
-現貨黃金突破4420美元/盎司，日內漲0.26%。
-
----
-
-### 2026-08-13 08:07:49  #其他
-
-中國地震臺網正式測定：08月13日08時01分在內蒙古錫林郭勒盟蘇尼特左旗（北緯42.95度，東經114.69度）發生3.3級地震，震源深度10千米。
-
----
-
-### 2026-08-13 08:06:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration.
-
----
-
-### 2026-08-13 08:06:08  #市場
-
-SK海力士股價早盤上漲6.3%，至1,599,000韓元。
-
----
-
-### 2026-08-13 08:05:16  #公司 #國際
-
-【調查：絕大多數日本企業尚未全面採用人工智慧】路透週四公佈的一項調查顯示，超過80%的日本企業在運營中僅在有限範圍內使用人工智慧（AI），或根本未採用，這一趨勢可能阻礙政府提高生產率的努力。約60%受訪者表示，AI僅應用於公司部分業務或以其他有限方式使用。另有18%表示尚未決定是否將AI引入工作場所，6%甚至未考慮採用AI。調查顯示，其餘16%的企業已將AI作為不可或缺的工具部署在整個公司。“我們已開始在全公司範圍內使用AI，但其應用僅限於建立文件等任務。”某批發商的經理在調查中寫道。另一家房地產公司的主管表示，“我們不知該如何將它投入使用。”政府今年的一份報告顯示，日本在AI應用方面落後於其他工業強國：有86.4%日企至少在一項任務中使用生成式AI；而中國為98.1%、德國為91.6%、美國為90.9%。
-
----
-
-### 2026-08-13 08:04:48  #央行 #美聯儲
-
-【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
-
----
-
-### 2026-08-13 08:03:44  #MKT News #Market Regions #Japan & APAC #Hang Seng Index #Impact bullish #Nikkei 225
-
-South Korea's KOSPI jumped 4.00% intraday to 6,843.21 points.
-
----
-
-### 2026-08-13 08:03:39  #市場 #國際
-
-韓國綜合股價指數（KOSPI）上漲4%，至6843.21點。
-
----
-
-### 2026-08-13 08:03:16  #資料 #觀點 #央行 #國際
-
-【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。
-
----
-
-### 2026-08-13 08:02:08
-
-三星電子漲4％，SK海力士漲5％。
-
----
-
-### 2026-08-13 08:01:52  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 opened up 580.21 points, or 0.86%, at 68,104.27 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 08:01:48  #MKT News
-
-KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 08:01:45  #公司 #市場
-
-三星電子股價上漲超4%。
-
----
-
-### 2026-08-13 08:01:37  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI up 3.38% in early trade; Samsung Electronics +4%, SK Hynix +5%.
-
----
-
-### 2026-08-13 08:01:17  #市場 #焦點 #國際
-
-韓國綜合股價指數（KOSPI）較7月30日低點上漲20%。
-
----
-
-### 2026-08-13 08:01:06  #其他
-
-日經指數在交易時段內升至68000點以上，為自7月16日以來首次。
-
----
-
-### 2026-08-13 08:00:42  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。
-
----
-
-### 2026-08-13 08:00:21  #市場
-
-【日韓股市開盤】日經225指數上午開盤報68033.17點，漲幅0.75％。韓國綜合股價指數（KOSPI）開盤上漲3％，至6773.92點。
-
----
-
-### 2026-08-13 08:00:07  #市場 #焦點
-
-布倫特原油突破89美元/桶，日內跌0.66%。
-
----
-
-### 2026-08-13 07:58:33  #觀點 #國際
-
-【中信證券：海峽通航風險難以徹底化解】中信證券研報認為，美以伊衝突已延宕逾五個月，針對近期市場關注的伊朗-阿曼潛在通航協議，我們認為該協議無法徹底化解海峽通航風險，中東局勢或仍將處於特朗普在 “TACO式退讓”與“惱羞成怒式升級”之間反覆迴圈的僵局之中。究其原因，一來該協議本質是伊朗對美施壓工具，但其強硬態度將直接危及特朗普的政治遺產，因而雙方談判難有進展。二來各方圍繞海峽控制權仍存在結構性矛盾，或難形成長期穩定的管理制度。綜合來看，後續真正具有觀測意義的訊號是美國是否正式啟動制裁豁免、資產解凍及海上封鎖調整。展望後續影響，在中短期，即使各方達成海峽管理安排並解除封鎖，通航量也未必能夠迅速、完全恢復至戰前水平。在有限通航情景下，全球通脹壓力仍在，但極端風險可控。在長期，圍繞霍爾木茲海峽的博弈顯示美國維護全球秩序的能力和意願正加速衰落，並將推動中東地緣格局與全球供應鏈加速重構。
 
 ---

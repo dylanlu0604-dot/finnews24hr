@@ -1,7 +1,226 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 00:42:37_
-_本檔包含 2764 則快訊，約 604644 字_
+_更新時間：2026-08-19 01:37:32_
+_本檔包含 2775 則快訊，約 605513 字_
+
+---
+
+### 2026-08-17 21:06:21  #公司
+
+【OpenAI總裁回應高管流失潮：並非十分反常】OpenAI總裁格雷格・布羅克曼於週一回應，淡化市場對這家人工智慧公司高管流失的擔憂，他認為這一輪離職潮“實際上並非十分反常”。 布羅克曼表示：“我其實覺得，OpenAI和其他機構的區別在於我們處在極高的聚光燈下，每一次人員離職都會受到格外審視，而普通企業的人員變動不會遭遇這樣的待遇。” 就在上週，OpenAI營收負責人丹尼斯・德雷瑟突然離職，其任職僅8個月。她此前的核心工作是擴張企業業務板塊，該業務利潤率較高，目標是直接對標主要競爭對手Anthropic。 德雷瑟離職的兩天前，另一位資深高管布拉德・萊特卡普宣佈結束在這家ChatGPT開發公司長達八年的任職，準備“開啟新事業”。今年4月，OpenAI宣布萊特卡普不再擔任營運長，轉崗負責“專項專案”，德雷瑟接手了他手中的大部分工作。
+
+---
+
+### 2026-08-17 21:06:20  #MKT News
+
+UK Maritime Trade Operations said armed personnel have taken control of a vessel off the coast of Somalia.
+
+---
+
+### 2026-08-17 21:06:13  #其他
+
+英國海事貿易行動辦公室：武裝人員在索馬利亞附近控制船隻。
+
+---
+
+### 2026-08-17 21:05:55  #公司 #國際
+
+【印度航空又有兩名飛行員涉嫌“毒駕”】印度航空公司一架客機本月初發生空中驟降傷人事件後，該公司對其飛行員實施強制藥檢。當地時間8月17日，印度方面援引訊息人士的話稱，該公司又有兩名飛行員未能透過檢查，涉嫌“毒駕”。根據訊息人士的說法，印度航空公司13日起對該公司及旗下印度航空快運公司全體5000多名飛行員啟動藥檢，已有近400人完成檢查，其中兩人檢測結果為“非陰性”，將接受複檢。印度航空公司表示，出於安全考慮，這兩名飛行員已被停飛。印度民航總局規定，如果飛行員首次藥檢為陽性，將被要求接受戒毒和康復訓練，檢測結果轉為陰性後可再次上崗；如果第二次被檢出陽性，涉事飛行員將被吊銷執照三年；第三次藥檢呈陽性則將被撤銷飛行執照。（央視新聞）
+
+---
+
+### 2026-08-17 21:05:32  #其他
+
+英國海事貿易行動辦公室：貨輪遭 8 名武裝非授權人員登船。
+
+---
+
+### 2026-08-17 21:05:32  #MKT News
+
+UK Maritime Trade Operations said eight unauthorised armed individuals boarded a cargo ship.
+
+---
+
+### 2026-08-17 21:05:20  #MKT News
+
+UK Maritime Trade Operations said it received a report of an incident 4 nm south of Mareyo, Somalia.
+
+---
+
+### 2026-08-17 21:05:03  #Trading Economics #Economy #Sri Lanka #Services PMI #Importance 1
+
+Sri Lanka Services Growth Accelerates for Fourth Month — Sri Lanka’s Services PMI rose to 61.4 in July 2026, up from 58.4 in June, marking the highest reading since January and a fourth consecutive month of expansion, signaling a faster expansion in services activity. New business continued to grow, although at a slower pace (60.2 vs 62.5), led mainly by the transportation and professional services sub-sectors, with financial and other personal services also contributing to the expansion. Employment increased at a slower pace (52.9 vs 54), supported by new recruitment and fewer staff resignations. Meanwhile, backlogs of work moved further into expansionary territory, rising to 51.2 from a neutral reading in June. Business expectations for the coming quarter strengthened further, supported by anticipated economic improvements and strong tourist arrivals for the Kandy Esala Perahera. However, broader global economic uncertainties continued to pose downside risks to the outlook.
+
+---
+
+### 2026-08-17 21:04:39  #其他
+
+英國海事貿易行動辦公室收到報告，索馬利亞馬雷約以南 4 海里處發生事件。
+
+---
+
+### 2026-08-17 21:04:07  #其他
+
+GAP 與 Iconic Brands 將登陸北歐、波羅的海地區市場。
+
+---
+
+### 2026-08-17 21:04:06  #公司 #市場 #觀點 #央行 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨漲跌不一：道指期貨跌0.16%，標普500指數期貨漲0.12%，納指期貨漲0.52%。
+②德國DAX指數漲0.10%，英國富時100指數漲0.21%，法國CAC40指數跌0.13%，歐洲斯托克50指數漲0.30%。
+③WTI原油漲0.48%，報81.64美元/桶。布倫特原油漲0.18%，報87.23美元/桶。
+④高盛：市場對美聯儲政策押注仍太鷹，9月加息“可能性非常小”。
+⑤大摩、小摩齊看標普8000點，半導體與韓國股市暴力反攻驗證“盈利主升浪”。
+⑥霍爾木茲海峽航運近乎停滯，伊朗稱正在起草與阿曼的海上航線計劃。
+⑦Snap美股盤前跌4.6%，此前一度跌超16%。
+⑧EyePoint股價盤前暴跌超69%，因公司眼疾藥物在後期試驗中未達主要目標。
+⑨Astera Labs股價盤前上漲近5%，此前Northland Capital將其評級上調至“跑贏大盤”。
+
+---
+
+### 2026-08-17 21:03:58  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Ukraine's military said it struck a factory in Russia's Rostov Oblast linked to missile fuel production.
+
+---
+
+### 2026-08-17 21:03:46  #國際
+
+烏克蘭軍方稱，其打擊了俄羅斯羅斯托夫州一處與導彈燃料生產相關的設施。
+
+---
+
+### 2026-08-17 21:03:37  #市場 #國際
+
+美國 30 年期國債收益率觸及 5.29%，為 2007 年以來最高水平。
+
+---
+
+### 2026-08-17 21:03:01  #其他
+
+GAP：將於八月在瑞典、丹麥、挪威、芬蘭的奢侈品時尚購物平臺Boozt上線發售。
+
+---
+
+### 2026-08-17 21:02:40  #其他
+
+派拉蒙‑天空之舞：要約到期日延長至 8 月 28 日。
+
+---
+
+### 2026-08-17 21:02:35  #MKT News #PSKY.O
+
+Paramount (PSKY.O) extended its tender offer deadline to Aug. 28.
+
+---
+
+### 2026-08-17 21:02:20  #MKT News #Market Themes #AI Revolution
+
+US Department of Defense (DoD) awards $100 million contract to NODA AI to expand mission-command capabilities for autonomous joint-force systems.
+
+---
+
+### 2026-08-17 21:02:05  #公司 #國際
+
+市場訊息：美國陸軍部授予Node.AI公司1億美元合同，為聯合部隊自主作戰力量擴編任務指揮能力。
+
+---
+
+### 2026-08-17 21:01:15  #其他
+
+AUDIOCODES VOCA CIC現透過微軟TEAMS UNIFY整合認證，適用於語音代理。
+
+---
+
+### 2026-08-17 21:00:45  #MKT News #PSKY.O
+
+Paramount (PSKY.O) said it has extended the deadline for its previously announced exchange offer and tender offer.
+
+---
+
+### 2026-08-17 21:00:22  #Trading Economics #Economy #Canada #Foreign Stock Investment #Importance 1
+
+Foreign Investment in Canadian Securities Surges — Foreign investors added C$40.8 billion of Canadian securities to their holdings in June 2026, sharply higher than C$8.8 billion in May and well above market expectations of C$15 billion. The increase was led by strong foreign purchases of debt securities, which totaled C$39.9 billion. Federal government debt securities accounted for most of the increase, with non-resident investors acquiring C$25.4 billion. Non-resident investors also purchased C$16.2 billion of private corporate bonds, mainly instruments issued by Canadian chartered banks and denominated in US dollars and euros. Foreign investors acquired C$901 million of Canadian shares after divesting C$16.1 billion in May. By sector, investors mainly acquired shares in manufacturing, partly offset by divestments in the trade and transportation, and finance and insurance sectors. Foreign investors acquired a record C$100.6 billion of Canadian securities in the second quarter.
+
+---
+
+### 2026-08-17 21:00:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Night session opened; China’s main futures were mostly higher. Ethylene glycol (EG) rose >3%. Benzene, PTA and Shanghai crude (SC) gained >2%. Asphalt up ~2%. Fuel oil, PET flakes, LPG, propylene, plastics and BR rubber rose >1%. Starch fell nearly 1%.
+
+---
+
+### 2026-08-17 21:00:12  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2743.00元。
+
+---
+
+### 2026-08-17 21:00:03  #市場 #焦點
+
+乙二醇連續主力合約日內漲3%，現報5217.00元。
+
+---
+
+### 2026-08-17 21:00:02  #市場
+
+【國內期貨夜盤開盤】集運指數歐線期貨連續漲10.89%，鉑連續漲3.37%，乙二醇連續漲3.12%，純苯連續漲2.22%，鈀連續漲2.03%。
+
+---
+
+### 2026-08-17 20:59:50  #公司
+
+【聚和材料：釋出股票交易風險提示公告】聚和材料公告稱，公司近期生產經營狀況正常，內外部經營環境未發生重大變化，股價短期漲幅較大，或存在市場情緒過熱及非理性炒作情形，短期股價或有較大回撥風險。2026年3月31日公司已完成對SKE旗下空白掩模版相關業務的收購，標的業務處於虧損狀態，國內生產基地尚在建設，短期內不會對公司業績產生較大影響。公司擬與關聯人共同向國聚同輝新增出資，該事項尚無實質性進展，尚需提交股東會審議，存在未獲透過風險。公司光伏導電漿料核心原材料銀的價格中長期波動不確定性較強，將直接影響生產成本。
+
+---
+
+### 2026-08-17 20:59:30  #國際
+
+美國聯邦基金有效利率8月14日報3.63%，成交量為990億美元，8月13日為3.63%，成交量為1,060億美元。
+
+---
+
+### 2026-08-17 20:59:13  #國際
+
+美國地質調查局：俄羅斯彼得羅巴甫洛夫斯克-堪察加東南偏東75公里處發生5.3級地震。
+
+---
+
+### 2026-08-17 20:58:57  #MKT News
+
+USGS reports a magnitude 5.3 earthquake 75 km ESE of Petropavlovsk-Kamchatsky, Russia.
+
+---
+
+### 2026-08-17 20:58:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+【OpenAI signs 10 GW Ohio data‑center deal with SB Energy; NVIDIA to back financing】OpenAI has signed a 10 GW data‑center lease with SB Energy in Ohio. People familiar with the matter say NVIDIA has committed support to help raise debt financing by guaranteeing part of the value of completed data‑center assets, starting with the first phase (about 5 GW). In return NVIDIA will be the exclusive chip supplier for the first half of the project and will take an equity stake in SB Energy. NVIDIA may later expand its guarantees to the entire campus. The guarantees are structured against asset value rather than OpenAI’s ongoing rent, a design intended to limit NVIDIA’s risk while boosting lender confidence and lowering financing costs.
+
+---
+
+### 2026-08-17 20:58:14  #市場 #國際
+
+【紐約州製造業活動在8月份出現2021年底以來最快擴張】由於訂單增長和積壓訂單保持強勁，8月份紐約州製造業活動出現2021年底以來的最快擴張。週一公佈的資料顯示，紐約聯邦儲備銀行8月份的製造業整體企業狀況指數上升5點，達到20.6。該資料高於零表明製造業在擴張。之前接受彭博新聞社調查的經濟學家的預測中值為10。對未來六個月整體企業狀況的展望指數也出現上升，對新訂單的預期指數達到2022年以來最高。今年美國製造業發展勢頭增強，消費者需求展現任性，企業投資也保持穩健，尤其是在人工智慧建設相關的領域。不過，企業也面臨著伊朗衝突導致的原材料價格上漲以及衝突持續時間不確定性的挑戰。衡量當前未交貨訂單的指標躍升10.5點，達到15.5，為2022年4月以來最高水平。衡量當前原材料支付價格的指標自5月以來首次上漲，而接收價格指數出現下降。
+
+---
+
+### 2026-08-17 20:57:02  #市場
+
+BLUE RIDGE BANKSHARES 恢復交易，股價盤前上漲 5%。
+
+---
+
+### 2026-08-17 20:56:34  #其他
+
+市場訊息：維瑞塔斯資本宣佈以11億美元出售Epiq Solutions。
+
+---
+
+### 2026-08-17 20:56:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Lower After CPI — Futures tracking Canadian stocks edged lower on Monday following the release of CPI data, after the S&P/TSX Composite Index reached a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. July’s inflation report also showed fuel prices rising at a faster pace. Elsewhere, Abaxx Technologies’ net loss widened in the second quarter. OceanaGold plans to acquire Ausgold in a deal valued at A$776 million. Canada and the US remain far from reaching a draft trade deal despite regular meetings, Canadian Trade Minister Dominic LeBlanc told an advisory committee on Friday.
 
 ---
 
@@ -16516,149 +16735,5 @@ Fox News reported Harvard University made up to a $2.2 bln investment in SpaceX 
 ### 2026-08-16 08:10:06  #其他
 
 【否認使用槓桿資金，牛散“鑫多多”回應舉牌風波，稱不存在爆倉風險】8月15日凌晨，知名牛散劉鑫（網名“鑫多多”）在微信公眾號“億萬鑫”釋出長文，就其舉牌德龍匯能及相關市場關切作出回應。在長文中，劉鑫否認使用槓桿資金舉牌，稱個人資產負債率低於10%，德龍匯能持倉為全部現金倉位購買，不存在爆倉風險。他同時透露，其最早買入德龍匯能時為短線操作，後經研究看好長期價值，遂將股票轉至普通賬戶並歸還融資。然而，在此前披露的權益變動報告書中，劉鑫將信用賬戶股票種類標註為“人民幣融資股”。值得一提的是，這一類別在近年自然人舉牌案例中尚無先例。記者採訪了多個券商及投資人士，各方對此解讀不一。有人認為是融資買入，有人理解為僅指兩融標的，亦有觀點認為可能指信用賬戶中自有資金買入的擔保品。此外，劉鑫向德龍匯能報送的交易記錄曾進行過大面積修正，普通賬戶部分月份的交易數量發生較大調整，但其在長文中未就修正原因作出說明。（每經）
-
----
-
-### 2026-08-16 08:09:42  #MKT News #Market Themes #AI Revolution #Chip Wars
-
-【Fujian targets strategic emerging industries to reach about 35% of large-scale industrial output by 2030】Fujian issued a development plan targeting by 2030 strategic emerging industries to account for about 35% of large-scale industrial output and for total social R&D spending to grow roughly 10% annually. The plan aims to build a 1 tln yuan new-energy industry cluster; shrink-wrap new materials to exceed 900 bln yuan; push integrated circuits and optoelectronics past 300 bln yuan; establish AI, biomedicine, energy-efficiency/environmental and low‑altitude economy clusters at ~100 bln yuan each; and cultivate several hydrogen and biomanufacturing future-industry clusters at the hundred‑billion yuan scale, with the goal of a domestically leading, distinctive emerging- and future-industry system.
-
----
-
-### 2026-08-16 08:07:51  #MKT News
-
-【President Trump's Sunday schedule】Beijing time Aug 16 20:00 — at Trump National Golf Club, Bedminster, New Jersey, conducting official business; later departs Bedminster for the White House; arrival time TBD.
-
----
-
-### 2026-08-16 08:06:57  #其他
-
-【福建：完善AI基礎設施建設，加快構建全省一體化算力網】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 推動AI+應用示範，深入實施“人工智慧+”引領示範行動，加快福建人工智慧產業發展，推動AI與工業、醫療、教育、人社等各領域深度融合，支援AI技術在研發設計、中試驗證、生產製造、營銷服務與運營管理等全流程的應用創新。完善AI基礎設施建設，加快構建全省一體化算力網，推進福州、廈門、漳州公共智算中心建設，合理佈局邊緣算力節點；做強做大人工智慧中試基地，聯合國家戰略科技力量打造AI for Science平臺；實施“資料要素×”行動，在政務、醫療、海洋等重點領域建設滿足人工智慧就緒（AI-Ready）的高質量資料集，推動省級資料標註基地建設，構建資料資源開發服務體系。營造AI發展生態，高質量建設福州、廈門、泉州省級人工智慧產業園和省級人工智慧產業集聚區，梯度培育“AI+”企業；支援共建創新平臺，攻關智慧晶片、核心演算法等關鍵技術；支援AI原生創業，推動AI原生組織創新；鼓勵各地探索建設低成本、開放式的OPC1創新社群，面向垂直領域提供原型開發等服務。
-
----
-
-### 2026-08-16 08:06:30  #MKT News #Market Themes #The Trump Trade
-
-Colombian president asked U.S. President Trump on a call to temporarily suspend U.S. tariffs on Colombian goods, citing the earthquake's impact.
-
----
-
-### 2026-08-16 08:05:41  #其他
-
-【前7個月廈門進出口超6000億元】據廈門海關統計，1—7月，廈門市進出口6075.5億元，同比增長12.1%。其中出口3207.4億元，同比增長5%；進口2868.1億元，同比增長21.3%。值得關注的是，7月進出口規模達965.9億元，創單月歷史新高。
-
----
-
-### 2026-08-16 08:03:18  #其他
-
-【福建：先進結構材料圍繞航空航天、深遠海裝備等需求，拓展高價值環節與高效能產品】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 立足福建戰略性礦產資源稟賦，發揮龍頭企業牽引能力，培育能源與電子材料、先進結構材料、先進化工材料、前沿新材料四大賽道，推動新材料基礎研究、中試驗證、規模製造與市場應用全鏈條發展，打造特色鮮明、競爭力強的新型功能材料產業叢集。其中，能源與電子材料圍繞新能源與半導體等產業需求，打造具有全球影響力的能源電子關鍵材料供給基地；先進結構材料圍繞航空航天、深遠海裝備等需求，拓展高價值環節與高效能產品；先進化工材料聚焦高階精細化學品和化工新材料，推動基礎原料向高附加值環節延伸；前沿新材料以場景牽引前沿技術產業化應用，提升基礎研究、概念驗證與中試生產能力。
-
----
-
-### 2026-08-16 08:00:37  #國際
-
-美國國家颶風中心（NHC）：颶風拉拉開始與夏威夷大島發生相互作用，移動速度放緩並轉向西北方向。
-
----
-
-### 2026-08-16 08:00:09  #其他
-
-【福建：培育積體電路、化合物半導體、新型顯示、光電元器件四大賽道】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 面向人工智慧等產業重大需求，充分發揮我省半導體制造與核心器件源頭創新優勢，培育積體電路、化合物半導體、新型顯示、光電元器件四大賽道。積體電路圍繞未來高算力低功耗晶片發展需求，提升晶片設計、特色工藝晶片製造、封裝測試、零部件配套等水平；化合物半導體推動寬禁帶與超寬禁帶半導體發展，加快構建全鏈條產業生態；新型顯示聚焦未來顯示技術創新，引領高階顯示市場；光電元器件以核心材料、關鍵器件攻關為核心，打造光電材料與器件創新策源地。
-
----
-
-### 2026-08-16 07:59:40  #其他
-
-【福建：深耕新型儲能、新能源汽車與零部件、海上風電、先進核能四大賽道】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 立足福建在全球鋰電製造引領優勢與優質能源資源稟賦，深耕新型儲能、新能源汽車與零部件、海上風電、先進核能四大賽道，推動技術共研、場景共建與生態共融，構建“源網荷儲”高度協同的產業創新生態，建設世界級新能源產業叢集。其中，新型儲能以鋰離子電池儲能為核心，多元拓展鈉離子電池儲能、液流儲能、壓縮空氣儲能等技術路線，構建覆蓋關鍵材料、專用電芯、系統整合到回收利用的全產業鏈；新能源汽車與零部件建設車能路雲一體化生態，打造東南區域新能源汽車製造與出口基地；海上風電著力提升裝置製造和服務的配套能力，構建覆蓋全省域的海上風電運維服務網路；先進核能探索拓展供汽等多元化利用場景，構建“風光核儲”多能互補的清潔能源體系。
-
----
-
-### 2026-08-16 07:58:36  #其他
-
-【福建：到2030年力爭全省工業戰略性新興產業產值佔規模以上工業產值比重達35%左右】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 到2030年，力爭全省工業戰略性新興產業產值佔規模以上工業產值比重達35%左右，全社會研發經費投入年均增長10%，培育萬億級新能源產業叢集，力爭新材料產業叢集突破九千億，積體電路和光電產業叢集突破三千億，打造人工智慧、生物醫藥、節能環保、低空經濟等千億級產業叢集，爭取培育氫能、生物製造等若干百億級未來產業叢集，建成國內領先、特色鮮明的新興產業和未來產業體系。
-
----
-
-### 2026-08-16 07:55:25  #其他
-
-【澳大利亞新南威爾士州將於11月啟動槍支回購計劃】繼去年悉尼邦迪區槍擊命案發生後，澳大利亞新南威爾士州將於11月推行槍支回購專案。 自11月2日起，該州槍支援有者上交符合回收條件的步槍、霰彈槍以及手槍，最高可獲1000澳元（摺合708美元）補償。 去年12月，悉尼東部邦迪海灘旁的猶太節日活動現場發生槍擊事件，造成15人遇難，本次政策調整即由此而起。澳大利亞人口最多的新南威爾士州將與聯邦政府共同承擔該專案開支。
-
----
-
-### 2026-08-16 07:54:57  #其他
-
-【北京今天仍有雷雨天氣局地陣風6級 明天以晴為主最高氣溫32℃】北京今天（8月16日）仍有雷雨天氣，最高氣溫29℃，雷電黃色預警訊號生效中，雷雨時局地陣風可達六級，需注意防範。明天，北京以晴為主，最高氣溫將升至32℃，後天還將有分散雷雨天氣。
-
----
-
-### 2026-08-16 07:51:51  #公司 #市場 #國際
-
-【近一週機構調研個股逾70只 九號公司-WD調研機構數最多】近一週機構調研個股有70多隻，九號公司-WD調研機構數最多。九號公司-WD有267家機構調研，包括49家基金公司、61家證券公司、91傢俬募、16家保險公司等。九號公司-WD在調研中透露，目前歐盟對割草機器人反傾銷調查的最終裁定尚未作出，預計將於明年年初公佈終裁結果，相關時間安排以主管機構正式釋出的資訊為準。公司正積極推進海外產能建設，已在東南亞三家代工廠開展代工及擴產工作，並將結合政策變化、產能進度、供應鏈條件及客戶需求等因素，推動更多產能向東南亞佈局。鵬鼎控股、盛弘股份、恆逸石化等個股均有100家以上機構評級。恆逸石化最新動態市盈率為5.4倍，屬於半年報業績暴增的低市盈率品種。另外，五洲特紙、中原內配、國航遠洋等個股半年報歸母淨利（按照半年報、快報、預告淨利中值計算）同比增長超50%，折算動態市盈率低於20倍且近一週均有10家以上機構調研。從市場表現來看，近一週機構調研股平均上漲0.16%，炬光科技、盛弘股份、藥石科技等個股均漲超10%。
-
----
-
-### 2026-08-16 07:51:14  #其他
-
-【江蘇南通開通OPC線上服務視窗】8月14日，南通數視界OPC社群啟用，首批12家企業入駐，“崇創視界”OPC全棧生態平臺同步上線，進一步完善OPC線上線下綜合服務體系。“崇創視界”是政府部門搭建的OPC線上綜合服務視窗，包含政策申報、算力租賃、供需對接、人才服務、專案孵化等功能，實現相關業務“一網通辦”，有助於更好集聚技術、算力、場景等關鍵要素，為企業提供從技術研發到市場落地的全週期服務。目前，崇川區已陸續啟用“星鏈·新電商”“天工開物”等OPC社群。數視界OPC社群由港閘經濟開發區運營，總面積超2萬平方米，重點聚焦AI動漫遊戲等數字文化細分賽道，將進一步完善全區人工智慧、數字文化產業佈局，促進OPC叢集化發展。（新華日報）
-
----
-
-### 2026-08-16 07:50:30  #其他
-
-馬克斯：我希望人工智慧對我們友善。
-
----
-
-### 2026-08-16 07:49:04  #國際
-
-【伊朗外交部：美以非法行動導致霍爾木茲海峽“不穩定”】伊朗外交部發言人巴加埃15日表示，霍爾木茲海峽目前的局勢是美國和以色列“非法行動”的直接結果。他表示，在美以對伊朗的“非法軍事行動”之前，霍爾木茲海峽是完全開放的，而美國和以色列利用這條水道以及鄰近地區策劃對伊朗的襲擊，這導致了海峽的不穩定。他強調，伊朗作為霍爾木茲海峽的沿岸國家，過去和現在都有權採取一系列措施來維護自身利益和國家安全。巴加埃還譴責美國對伊朗的海上封鎖是侵略行為，這一行動也違反了此前雙方達成的諒解備忘錄。此外他還表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。（央視新聞）
-
----
-
-### 2026-08-16 07:46:59  #國際
-
-市場訊息：超過 1300 名 Strava 應用使用者公開記錄了在美國中央司令部責任區內各美軍軍事基地的運動訓練軌跡。其中多處軍事設施後來遭到伊朗打擊。
-
----
-
-### 2026-08-16 07:40:40  #其他
-
-【昇騰0Day適配小紅書最新開源大模型dots3-note preview】2026年8月14日，小紅書正式釋出dots3-note preview開源大模型。昇騰Atlas 800 A3、Atlas 900 A3 SuperPoD超節點已完成 dots3-note preview的全量適配，基於vLLM Ascend開源推理引擎提供完整的部署與推理能力，效能持續迭代最佳化。
-
----
-
-### 2026-08-16 07:39:45  #其他
-
-【事關8萬億養老金 長週期考核落地中】“我們正在做方案，9月之前落地完成。”一位國有企業人力資源部門相關人士說。他所說的方案，指的是所在企業正制定新的企業年金委託管理方案，其中重點是設定新的考核管理方式。這家企業與企業年金受託管理人溝通協商，對企業年金進行長週期考核，並促進年金基金長期投資。相關要求來自去年9月人力資源社會保障部等4部門聯合釋出的一份指導意見，這份指導意見旨在完善長週期考核，促進企業年金和職業年金基金長期投資。資料顯示，企業年金和職業年金基金規模已超8萬億元。截至2026年一季度末，全國企業年金基金積累基金規模約4.28萬億元，建立企業約18.66萬家，參加職工3389萬人。截至2025年年底，全國31個省（自治區、直轄市）、新疆生產建設兵團和中央單位職業年金基金投資運營規模3.78萬億元。（券商中國）
-
----
-
-### 2026-08-16 07:37:23  #其他
-
-【深圳龍崗建立“電力、運力、飛力、算力”協同的新市政體系】目前全區已有949條無人配送線路、投入288臺無人車，夜間專屬線路265條。得益於全天候綠色電力保障，運力利用率提升66%，運營成本下降20%，夜間配送貨量佔到全天四成，很好補齊了城市夜間末端配送的短板。地面運力日趨成熟後，龍崗依託低空力量，構建空地一體治理格局，裝置依靠電力驅動，全部納入算力統一排程管控，讓城市治理從平面走向立體。如今龍崗建成7個低空產業園、202個無人機起降平臺、千條管控航線，落地華南低空智慧融合測試基地，集聚300多家低空相關企業。（深圳特區報）
-
----
-
-### 2026-08-16 07:36:26  #國際
-
-美國地質調查局（USGS）：印度尼西亞魯滕以北80公里處發生5.0級地震。
-
----
-
-### 2026-08-16 07:35:16  #其他
-
-【深圳港國際綠色航運走廊建設提速】當前，亞太地區綠色航運低碳轉型、供應鏈可持續發展成為APEC經貿合作重要議題，區域內港口互聯互通、綠色共治協作持續深化。深圳正攜手APEC區域內重要港口夥伴共建綠色航運生態，近期，《深圳港國際綠色航運走廊合作倡議》正式釋出，標誌著深圳港國際綠色航運走廊建設全面提速。
-
----
-
-### 2026-08-16 07:33:57  #其他
-
-【廣東上線千門AI課程】8月15日，由廣東省人力資源和社會保障廳主辦的“粵能學——人工智慧培訓進萬家”活動在粵港澳大灣區（廣東）人才港正式釋出。活動以“AI賦能·技創未來”為主題，推動AI知識技能走進千行百業、惠及千家萬戶，在全省營造“人人皆學、處處能學、時時可學”的AI技能學習濃厚氛圍，助力全民終身學習體系建設，促進高質量充分就業創業。（廣州日報）
-
----
-
-### 2026-08-16 07:33:09  #其他
-
-【孫志洋會見電子科技大學校長鬍俊及校友企業代表】8月15日上午，廣州市市長孫志洋在廣州會見電子科技大學校長鬍俊及校友企業代表一行並座談交流。 孫志洋對電子科技大學長期以來給予廣州發展的支援表示感謝，並對學校建校70週年表示祝賀。他說，當前廣州正深入貫徹落實黨中央決策部署，積極服務國家戰略，著力建設全國先進製造業基地和國際科技創新中心重要承載地，以粵港澳大灣區國家技術創新中心和全國高校區域技術轉移轉化中心（粵港澳大灣區）廣州分中心等平臺建設為抓手，持續完善科技成果轉化機制，推動更多創新技術轉化為新質生產力。面向“十五五”，希望電子科技大學充分發揮自身研發和技術優勢，深度對接廣州教育科技人才資源，聚焦積體電路、智慧出行、高階儀器、人工智慧等重點產業領域，深化校地合作，共建協同創新平臺，共築產學研深度融合發展高地。同時，希望學校積極推薦優秀團隊參與廣州各類科創競賽，廣泛連結校友企業資源，帶動更多優質專案落戶廣州。廣州將全力支援校地合作專案做大做強，持續最佳化產業版營商環境，開放更多應用場景，助力校友企業在廣州實現更好發展。（廣州日報）
 
 ---
