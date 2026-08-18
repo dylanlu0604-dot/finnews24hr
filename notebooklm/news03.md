@@ -1,7 +1,125 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:36:53_
-_本檔包含 3068 則快訊，約 603123 字_
+_更新時間：2026-08-19 04:57:23_
+_本檔包含 3062 則快訊，約 604847 字_
+
+---
+
+### 2026-08-16 12:53:04  #其他
+
+據貓眼專業版資料，電影 《歡迎來龍餐館》 上映6天， 總票房破8億。
+
+---
+
+### 2026-08-16 12:51:29  #國際
+
+印度總理莫迪：感謝內塔尼亞胡總理的美好祝願。祝願印以特殊戰略伙伴關係進一步鞏固，挖掘新機遇，推動兩國人文交往更加緊密。
+
+---
+
+### 2026-08-16 12:48:22  #國際
+
+【上海迪士尼正擴建“飛越地平線”，第九大主題園區建設迎新進展】記者從上海迪士尼度假區獲悉，第九大主題園區——蜘蛛俠主題園區建設迎來又一重要里程碑。繼今年6月主題園區遊樂裝置軌道安裝完成後，首批乘騎裝置已於數日前就位，乘騎裝置除錯工作即將啟動。上述訊息於正在美國加利福尼亞州召開的迪士尼終極粉絲大會D23（以下簡稱“D23 粉絲大會”）公佈。此外，上海迪士尼樂園內標誌性主題景點“翱翔·飛越地平線”的擴建工作正在同步推進；毗鄰樂園的兩座全新主題酒店的擴建工作也在進行中；為演職人員打造的全新居住社群也正在建設，旨在更好地支援一線演職人員為遊客創造難忘回憶。（澎湃）
+
+---
+
+### 2026-08-16 12:43:55  #其他
+
+【2026文昌國際航空航天論壇8月下旬啟幕】記者從文昌國際航天城管理局獲悉，2026文昌國際航空航天論壇將於8月24日至26日在海南文昌舉辦，將集中展示海南航天產業最新發展成果。2026文昌國際航空航天論壇的舉辦，旨在搶抓可複用火箭產業化新風口，匯聚全球航天資源，助力壯大火箭鏈、衛星鏈、資料鏈以及“航天+”產業，構建全方位、多層次的航天產業生態體系。海南將全力推動重點專案落地，加快形成高密度、高可靠、低成本的商業發射能力，高效支撐“百箭千星”任務。
+
+---
+
+### 2026-08-16 12:43:53  #宏觀 #國際
+
+【庫什納訪以埃在即 哈馬斯領導人赴埃會談】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）訊息人士15日透露，哈馬斯政治局主席哈利勒·哈亞當晚啟程前往埃及，定於16日與埃及情報總局局長哈桑·拉沙德舉行會晤。媒體注意到，哈亞赴埃時間節點比較敏感。美國總統特朗普的女婿庫什納將在美國發起的所謂“和平委員會”加沙高階代表尼古拉·姆拉德諾夫陪同下，於下週訪問以色列和埃及，試圖彌合美國和以色列圍繞加沙和平計劃產生的分歧。（新華社）
+
+---
+
+### 2026-08-16 12:43:47  #MKT News #Important
+
+【Preview: State Council Information Office to hold press briefing Aug. 17 on July 2026 national economic data】State Council Information Office will hold a press conference at 3:00 pm on Monday, Aug. 17, 2026. Fu Linghui, National Bureau of Statistics spokesperson, chief economist and director of the Department of Comprehensive National Economic Statistics, will present July 2026 national economic performance and take questions.
+
+---
+
+### 2026-08-16 12:42:11  #國際
+
+【今日特朗普要聞】
+1、特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。
+2、一項民調顯示，多數美國選民表示自身生活境況在特朗普執政期間出現惡化，民眾對總統處理經濟、生活成本問題的不滿情緒持續攀升。
+3、據多位現任和前任美國官員透露，美國海軍正在考慮對其新型航空母艦進行重大重新設計，以更好地符合美國總統特朗普對軍艦外觀的偏好。
+4、特朗普表示，參議院必須儘快投票透過《不再改變時鐘法案》。
+
+---
+
+### 2026-08-16 12:41:53  #其他
+
+【7月湖南軌道交通裝備出口創歷史新高 單月首次突破2億元】據湖南日報，長沙海關日前釋出，前7個月，湖南軌道交通裝備出口9.6億元，比去年同期增長24.4%。7月，湖南軌道交通裝備出口創歷史新高，單月首次突破2億元，增長117.5%。
+
+---
+
+### 2026-08-16 12:39:48  #國際
+
+伊朗副外長喊話美國官員：徹底認清現實，迄今為止，你們已經遭受重大戰略挫敗。霍爾木茲海峽過去是、現在是、未來也仍屬於伊朗。該海峽的開放與關閉完全由伊朗掌控。只要你們拒絕接受失敗的現實、依舊沉溺於妄想，伊朗就將持續實施封鎖。
+
+---
+
+### 2026-08-16 12:38:56  #其他
+
+【又一央企基金落地南京】近日，中核（江蘇）戰新創業投資合夥企業（有限合夥）在南京江北新區註冊成立，標誌著這隻聚焦戰略性新興產業的創投基金正式落地江北新區，基金規模27億元。值得注意的是，基金合夥人匯聚央企、國家級國資運營平臺與江蘇省、市、區三級地方產業基金。（南京釋出）
+
+---
+
+### 2026-08-16 12:37:15  #MKT News
+
+【Iran says Qatar detained three pilots; Qatar denies】Iran's military said on the 15th that three Iranian pilots were "captured" by Qatari forces in March after strikes on a US military base in Qatar and have been detained since, and urged Qatar to "release them". Qatar's Foreign Ministry denied detaining the pilots, called the claims "misleading", said it conducted search-and-rescue operations, recovered one pilot's remains and has coordinated handover arrangements with Iranian authorities.
+
+---
+
+### 2026-08-16 12:35:53  #市場 #國際
+
+【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。 （央視財經）
+
+---
+
+### 2026-08-16 12:34:35  #MKT News #Macro & Rates #US Economy
+
+【Poll: Majority of US voters say life has worsened under Trump】An FT-published Focaldata national poll finds more than 53% of registered US voters say their finances have worsened since Donald Trump returned to the White House in January 2025. Nearly 57% of independents and about 25% of self-identified Republicans also report deterioration. With under three months to the November midterms, respondents were more likely to view Democrats than Republicans as better able to handle inflation and cost-of-living issues; Democrats also hold a slight edge on jobs and the economy.
+
+---
+
+### 2026-08-16 12:32:43  #國際
+
+以色列國防部長：以色列將採取強硬回應以捍衛自身安全。
+
+---
+
+### 2026-08-16 12:27:07  #公司
+
+【哈電集團與鞍鋼集團舉行會談】據哈電集團訊息，近日，哈電集團總經理、黨委副書記劉清勇接待了鞍鋼集團總經理、黨委副書記郭斌一行，雙方圍繞貫徹落實國家重大戰略部署，就深化“十五五”戰略協同、加強科技創新合作、強化產業協同發展等方面進行了深入交流。
+
+---
+
+### 2026-08-16 12:23:57  #公司 #國際
+
+【高毅資產二季度調倉：美光、閃迪獲大幅增持，英偉達等科技股遭減持】具體來看，高毅二季度大幅增持美光科技和閃迪，其中美光持股數量環比增加283.48%，持倉市值約3973萬美元；閃迪持股數量增加約192%，持倉市值約3638萬美元，兩者分別位列第六、第七大重倉股。此外，高毅增持BOSS直聘、攜程、貝殼、華住集團、百勝中國和拼多多；新建倉維諦技術、文遠知行、Visa和阿里巴巴。減持方面，高毅降低英偉達、網易、愛奇藝和霧芯科技倉位，其中英偉達和網易持股數量分別下降72.41%和76.47%，並清倉富途、Lumentum、小鵬汽車、蔚來等股票。
+
+---
+
+### 2026-08-16 12:23:31  #國際
+
+【伊朗指控兩名法國外交官從事“非法干涉”活動】據新加坡《聯合早報》網站8月16日報道，伊朗情報部門指控兩名法國外交官從事“非法干涉”活動，警告法國政府不要“非法干涉”伊朗內政。 據報道，伊朗情報部門8月15日發表宣告稱，兩名法國外交官7月在德黑蘭與涉嫌“重大外國滲透和干涉案件”的人員舉行了一次秘密會晤。經調查，這兩名外交官“有大量違反伊朗國內法和外交義務的記錄”。 伊朗政府強調，絕不允許外國駐伊朗外交官從事“非法干涉”活動，並警告任何此類行為的再次發生都將招致“相應的”回應。 報道稱，法國外長巴羅7月20日說，兩名法國外交官在德黑蘭遭到拘留和虐待。他說這一事件“令人震驚”，並已警告伊朗外長阿拉格齊，此事“絕不能不了了之”。 阿拉格齊隨後在與巴羅的通話中提出抗議，稱這兩名法國外交官的“非常規”行為“違反外交規範，是不可接受的”。 （參考訊息）
+
+---
+
+### 2026-08-16 12:21:48  #宏觀 #國際
+
+美國國務院發言人就黎巴嫩局勢近期升級向以色列表示：試點區域方案仍是黎巴嫩與以色列實現長期和平與安全唯一可行的途徑。解除真主黨武裝是該程序不可或缺的組成部分。
+
+---
+
+### 2026-08-16 12:21:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【US-mediated ceasefire effectively gives Israel de facto impunity to strike Lebanon, analyst says】Ziad Abu Rish, associate professor of Middle East studies at Bard College, said most observers believe Netanyahu is escalating strikes on Lebanon to demonstrate unstoppable resolve—seeking to occupy southern Lebanon and to hit Hezbollah and Lebanese civilians. Saturday’s attack that killed 11 continues a pattern since the ceasefire: Israel, with perceived US acquiescence, attacking Hezbollah and Lebanese civilians without consequences. The ceasefire was largely nominal and only briefly held June 19-23 after Iran pressed for a US understanding to halt Israeli strikes. In US-mediated talks with Israel and Lebanon, Washington proposed Israel limit its operations and occupation to southern Lebanon and the Bekaa Valley in exchange for refraining from strikes on Beirut. The result, Abu Rish said, is that southern Lebanese civilians continue to live under Israeli occupation and air strikes, and most destruction of civilian infrastructure in the south—homes, hospitals, schools, fortifications and farmland—occurred in Israeli-controlled areas during the ceasefire.
 
 ---
 
@@ -18363,157 +18481,5 @@ China A-share power sector extended losses; Huayin Power and Meiyan Jixiang appr
 ### 2026-08-14 10:43:28  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
 
 Indonesian Shares Track First Weekly Decline in a Month — Indonesia's IDX Composite slipped 23 points or 0.4% to 6,282 in early Friday trade, extending weakness from the prior session as transport, healthcare, and financials weighed on sentiment. Traders stayed guarded ahead of President Prabowo’s address to parliament on the 2027 budget later today, expected to lean on consumption despite sliding approval and investor unease over commodity export curbs. Focus also turned to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo’s sudden departure, following a cumulative 100bps of hikes between May and June. Meanwhile, MSCI’s August review kept pressure on equities after confirming no new inclusions and 11 deletions effective after August 31. Mitra Adiperkasa (-2.3%), Indika Energy (-1.6%), Bank Central Asia (-1.2%) and Bumi Resources (-1.1%) led decliners. For the week, local shares are set to break a three-week winning streak, down about 0.4% so far.
-
----
-
-### 2026-08-14 10:43:09  #公司 #國際
-
-馬來西亞國家石油煉化公司（Petronas PRefChem）煉油廠的燃料油自2023年以來首次運往美國。
-
----
-
-### 2026-08-14 10:42:13  #MKT News
-
-【Equity-strategy private funds post average July return of -9.50%】Data from a private fund ranking site show 8,162 equity-strategy private funds with performance records posted an average July return of -9.50% and a year-to-date return of 0.12%.
-
----
-
-### 2026-08-14 10:41:41  #其他
-
-【河南清潩河鄢陵縣倉頭村段發生潰口險情】從河南省防汛抗旱指揮部瞭解到，受近期連續強降雨影響，清潩河水位持續高位執行，8月13日，清潩河鄢陵縣倉頭村段發生潰口險情。情況發生後，鄢陵縣第一時間啟動應急響應，組織專門力量全力做好人員轉移和風險防範工作，目前無人員傷亡。
-
----
-
-### 2026-08-14 10:41:20  #MKT News
-
-【Average return for bond‑strategy private funds -0.91% in July】Private fund platform SimuPaipai reported that 1,043 bond‑strategy private funds with performance records averaged -0.91% in July; year‑to‑date average return is +0.80%.
-
----
-
-### 2026-08-14 10:41:05  #其他
-
-【債券策略私募產品7月平均收益率為-0.91%】私募排排網資料顯示，有業績記錄的1043只債券策略私募產品，7月平均收益率為-0.91%，今年以來平均收益率為0.80%。
-
----
-
-### 2026-08-14 10:40:27  #其他
-
-【股票策略私募產品7月平均收益率為-9.50%】私募排排網資料顯示，有業績記錄的8162只股票策略私募產品，7月平均收益率為-9.50%，今年以來收益率為0.12%。
-
----
-
-### 2026-08-14 10:40:18  #公司 #市場
-
-【四連板后皇氏集團跌停 公司回應】記者以投資者身份致電皇氏集團董秘辦，相關工作人員表示目前並未監控到市場有相關利空訊息，公司也沒有內部訊息需要披露。當被問及是否和前一日披露的風險提示公告有關，該工作人員稱，公司前兩天（8月11日晚）也發了一份股票交易異常波動公告，內容基本一致。“這兩天也沒有別的突發事情。”（中新經緯）
-
----
-
-### 2026-08-14 10:40:03  #市場
-
-【主力資金：大唐發電淨賣出超10億】截至目前，今日主力資金淨流出153.73億；淨流入光通訊、通訊裝置、通訊等板塊，其中光通訊板塊淨流入41.49億；淨流出轉融券標的、融資融券、深股通等板塊，其中轉融券標的板塊淨流出145.65億。
-  
-個股方面，長鑫科技淨買入13.13億元位居首位，亨通光電、蓮花控股、中國巨石主力資金淨流入居前；大唐發電淨賣出10.77億元位居首位，東方財富、勝宏科技、華虹宏力淨流出額居前。
-
----
-
-### 2026-08-14 10:38:25  #其他
-
-【華創證券：PX和純苯供給擴張趨緩 地緣擾動不改修復邏輯】華創證券釋出研報稱，PX與純苯行業盈利處於底部修復階段，具備較高的彈性。PX交易邏輯已由成本抬升逐步切換至供應收縮，價格韌性強於原料;純苯對外依存度持續提升，現貨支撐強勁，結構性偏強格局正在形成。若通航與原料供應改善，低位價差有望修復，一體化大煉化企業憑藉原料保障和成本協同優勢，盈利韌性及修復彈性相對更強。
-
----
-
-### 2026-08-14 10:37:20  #公司
-
-【潤邦股份子公司承接兩大海上風電鋼管樁訂單】據潤邦股份公眾號訊息，近日，子公司潤邦海洋先後與國內兩大頭部能源企業達成深度合作，成功承接海上風電鋼管樁製造訂單。本次合作訂單單體直徑大，單件重量約2400噸，重新整理潤邦海洋現有製造紀錄。產品適配大功率海上風電機組建設需求，專案技術標準高、市場含金量足、交付週期緊，整體制造總量突破萬噸。
-
----
-
-### 2026-08-14 10:37:07  #公司 #市場
-
-【光纖概念震盪反彈 長盈通漲超10%】光纖概念盤中震盪反彈，長盈通漲超10%，杭電股份、亨通光電、中天科技、長飛光纖、特發資訊、通鼎互聯等跟漲。
-
----
-
-### 2026-08-14 10:36:58  #公司
-
-【中國雄安集團成立資產運營公司】企查查APP顯示，近日，雄安鑫城資產運營有限公司成立，法定代表人為李煒，註冊資本為10億元，經營範圍包含以自有資金從事投資活動；非居住房地產租賃；住房租賃；物業管理；商業綜合體管理服務等。企查查股權穿透顯示，該公司由中國雄安集團有限公司旗下中國雄安集團投資管理有限公司全資持股。
-
----
-
-### 2026-08-14 10:36:39  #國際
-
-日本外相將於8月17日起訪問沙烏地阿拉伯和阿曼。
-
----
-
-### 2026-08-14 10:36:32  #MKT News #Important
-
-China's state reserve website said a central reserve rotational release auction will be held on 19 Aug 2026, offering 9,700 tonnes of domestically produced frozen pork for bidding.
-
----
-
-### 2026-08-14 10:36:21  #公司 #市場
-
-【通訊裝置板塊拉昇 共進股份、大唐電信漲停】通訊裝置板塊拉昇，共進股份、大唐電信漲停，長盈通、太辰光、長芯博創等漲幅居前。
-
----
-
-### 2026-08-14 10:36:10  #其他
-
-【中亦科技中標兩家省級農村信用社聯合社技術服務專案】中亦科技公眾號訊息，中亦科技中標兩家省級農村信用社聯合社技術服務專案——山東農信資料庫服務專案、湖北農信資料中心支援服務專案。
-
----
-
-### 2026-08-14 10:36:03  #其他
-
-【為農作物“解渴” 甘肅累計調水近7億立方米】甘肅省水利廳已協調黑河上游黃藏寺水庫補水超過3000萬立方米，適時加大水庫日均出庫流量，全力保障中游灌溉用水需求。截至8月上旬，全省已統籌調配抗旱應急水量近7億立方米，其中張掖市1.2億立方米。
-
----
-
-### 2026-08-14 10:36:02  #MKT News #Important #Market Regions #Greater China
-
-China State Reserves website posted a notice that a central reserve rotational release auction of frozen pork will be held on Aug 18, 2026, listing 12,000 tonnes of domestic frozen pork.
-
----
-
-### 2026-08-14 10:34:52  #公司
-
-朝日集團：計劃在2027財年恢復並超越2024財年的盈利水平。
-
----
-
-### 2026-08-14 10:34:05  #其他
-
-【東北證券：引種缺口催化景氣上行 蛋白替代拓長期空間】東北證券釋出研報稱，豬肉依舊是我國第一大肉類消費來源，但人均消費量增速放緩、消費佔比逐年下行，而禽類消費佔比則快速提升。白羽肉雞憑藉極致養殖效率成為國內禽肉供給核心品種。白羽肉雞行業具備清晰的產業鏈週期執行特徵，週期核心驅動源自上游祖代種源供給波動。白羽雞行業長期成長邏輯清晰，長期維度重點看好下游深加工帶來的持續增量空間。
-
----
-
-### 2026-08-14 10:33:29  #市場
-
-截至早盤收盤，日經225指數漲0.8%，東證指數漲0.7%。
-
----
-
-### 2026-08-14 10:33:22  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-shares CPO concept stocks extended intraday gains, led by optical-module cooling names. Alaide, Zhongshi Technology and Fuxin Technology hit daily limit-up; Jinge New Materials surged over 17%. Jianqiao Technology, Dingtong Technology, Taichen Guang, Zhongci Electronics and Changxin Bochuang were among the top gainers.
-
----
-
-### 2026-08-14 10:32:58  #市場
-
-【CPO概念持續走高 阿萊德20cm漲停】CPO概念盤中持續走高，光模組散熱方向領漲，阿萊德20cm漲停，此前中石科技、富信科技20cm漲停，金戈新材漲超17%，劍橋科技、鼎通科技、太辰光、中瓷電子、長芯博創等漲幅靠前。
-
----
-
-### 2026-08-14 10:32:42  #公司
-
-【旺旺董事長蔡衍明全員信：公司面臨重大經營危機 沒有貢獻就要被淘汰】近日，旺旺集團董事長蔡衍明發布《致全體旺旺人的一封信》。蔡衍明在信中表示，“因為2026財年第一季度中國旺旺業績及利潤表現未達預期，公司於7月26日傍晚在香港聯交所網站公佈了一份自願性公告，就經營現況及未來展望做了一次說明。我希望全體旺旺人一定要高度重視公司這次的重大經營危機。”信中內容稱，“今天的苦果，是我們過去幾年來因循怠惰、未能及時採取正本清源的做法所致。所以，我們一定要切實反思自己，不是怪市場、怪客戶、抱怨大環境。”蔡衍明還強調，如果是不能有所貢獻的幹部，那就要被淘汰。“集團現在要的是能有貢獻、有功勞的旺旺人！沒有產出、沒有功勞的，都會需要被淘汰！”（新浪科技）
-
----
-
-### 2026-08-14 10:32:26  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Market sources say LG will launch a next-generation humanoid robot built on NVIDIA's ISAAC GR00T platform (NVDA.O).
 
 ---

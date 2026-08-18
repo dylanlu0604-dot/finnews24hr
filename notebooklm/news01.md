@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:36:53_
-_本檔包含 3072 則快訊，約 604465 字_
+_更新時間：2026-08-19 04:57:23_
+_本檔包含 3088 則快訊，約 605406 字_
+
+---
+
+### 2026-08-19 04:53:32  #MKT News
+
+RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector.
+
+---
+
+### 2026-08-19 04:51:16  #MKT News #Market Regions #Europe & UK
+
+【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions "extremely serious and unacceptable" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention.
+
+---
+
+### 2026-08-19 04:49:08  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran.
+
+---
+
+### 2026-08-19 04:48:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,330/oz, down nearly 2% intraday.
+
+---
+
+### 2026-08-19 04:47:55  #市場
+
+紐約期金日內跌2%，現報4384.16美元/盎司。
+
+---
+
+### 2026-08-19 04:47:42  #焦點 #國際
+
+以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。
+
+---
+
+### 2026-08-19 04:47:17  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations.
+
+---
+
+### 2026-08-19 04:46:44  #國際
+
+美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。
+
+---
+
+### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
+
+Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
+
+---
+
+### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
+
+---
+
+### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
+
+---
+
+### 2026-08-19 04:44:36  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
+
+---
+
+### 2026-08-19 04:44:27  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
+
+---
+
+### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
+
+US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
+
+---
+
+### 2026-08-19 04:44:17  #國際
+
+伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
+
+---
+
+### 2026-08-19 04:44:09  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
+
+---
+
+### 2026-08-19 04:44:07  #MKT News
+
+API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
+
+US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
+
+---
+
+### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
+
+---
+
+### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:41  #國際
+
+美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
+
+---
+
+### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
+
+---
+
+### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
+
+US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
+
+---
+
+### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
+
+---
+
+### 2026-08-19 04:43:14  #國際
+
+惠譽評級：美國醫療保健網路風險日益增加。
+
+---
+
+### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
+
+---
+
+### 2026-08-19 04:42:50  #國際
+
+【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
+
+---
+
+### 2026-08-19 04:42:30  #國際
+
+伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
+
+---
+
+### 2026-08-19 04:41:37  #市場
+
+諾福克南方鐵路盤後上漲2.4%。
+
+---
+
+### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
+
+Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
+
+---
+
+### 2026-08-19 04:39:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed.
+
+---
+
+### 2026-08-19 04:38:45  #國際
+
+【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
+
+---
+
+### 2026-08-19 04:37:59  #MKT News #Market Themes #AI Revolution
+
+【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance.
 
 ---
 
@@ -18429,119 +18639,5 @@ Central Bank of Chile sold USD 64 mln of FX forward contracts at an average rate
 ### 2026-08-17 22:41:39  #MKT News #Market Themes #AI Revolution #02015.HK
 
 【Li Auto reportedly exploring in-house cloud inference chip】Li Auto (02015.HK) is reportedly exploring an in-house cloud inference chip; the project is in an early stage and may adopt a dataflow architecture similar to its vehicle-side autonomous driving chip. Li Auto said: "We have not heard anything about this so far." Industry insiders say cloud inference demand will rise as autonomous-driving large models, in-car agents and multimodal interaction evolve. Future competition among automakers may hinge not only on in-vehicle compute but on the ability to build cloud AI infrastructure that supports continuous model iteration, low-cost invocation and scalable delivery.
-
----
-
-### 2026-08-17 22:41:01  #國際
-
-【伊朗指責卡達扣押3名伊朗飛行員】近日，伊朗指責三名伊方飛行員遭到卡達方面的扣押，而卡達對此予以否認，雙方爭執不下。8月17日，伊朗外交部發言人巴加埃稱，伊朗正透過外交渠道關注伊朗飛行員的下落，在事情明朗前，伊朗仍然認為失蹤的三名飛行員是被卡達方面俘獲。巴加埃同時表示，伊朗與卡達的外交關係並不與追查伊朗軍方飛行員的下落相沖突。（CCTV國際時訊）
-
----
-
-### 2026-08-17 22:40:23  #公司 #國際
-
-【英偉達聯手OpenAI鎖定12吉瓦算力基建，黃仁勳：即便OpenAI不續租，還可以給其他客戶】AI（人工智慧）晶片龍頭英偉達披露了在AI基礎設施戰略佈局上的最新動作。8月17日，英偉達CEO黃仁勳發表題為《保障智慧基礎設施安全》（Securing the Infrastructure of Intelligence）的署名文章稱，英偉達已與能源開發商SB Energy達成合作，鎖定位於美國俄亥俄州波特斯茅斯PORTS-Pike科技園區的土地、電力與廠房（LPS）資源。該場地將專門用於承載英偉達算力系統，而OpenAI將作為租戶在此建造並運營AI工廠。黃仁勳在文中指出，AI工廠是AI時代的決定性基礎設施。當前，基礎設施的競爭焦點已從先進晶片與封裝，延伸到了土地、電力與廠房。AI實驗室對訓練和推理算力的需求極其驚人，“更多的算力意味著更高的智慧、更多的產品、更多的使用者以及更高的收入”，但其發展正受到算力供給不足的嚴重製約。如果未來OpenAI無法繼續使用該園區，其算力可以轉售給英偉達全球生態系統中其他符合條件的租戶。黃仁勳強調，英偉達算力具備通用性與可互換性：“可互換性驅動了利用率和永續性，使英偉達算力成為一種可出租、可融資的生產性資產。”因此，PORTS-Pike這種優質場地的價值絕不侷限於單一客戶或單代算力。在文章的最後，黃仁勳梳理了英偉達的戰略進化路徑：從最初製造加速計算晶片，到擴充套件至系統、網路、CUDA軟體，再到全棧AI工廠，如今進一步延伸至幫助客戶鎖定建造這些工廠所需的關鍵底層資源。黃仁勳表示，英偉達未來在LPS上的佈局仍將保持“戰略性與自律性”，絕大多數客戶將繼續獨立獲取LPS資源，英偉達僅會選擇性地鎖定那些具備明確、持久需求且能承載多代算力升級的卓越場地。 隨後，黃仁勳為這項融資計劃正名，回應外界對“迴圈融資”的質疑。他指出，公司可能會為相關合作提供“最高達專案規模25%”的融資支援：“我們的作用是幫助解鎖龐大的獨立資本池，同時保持自律的風險敞口。”（澎湃）
-
----
-
-### 2026-08-17 22:40:16  #MKT News
-
-Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year.
-
----
-
-### 2026-08-17 22:38:21  #其他
-
-市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。
-
----
-
-### 2026-08-17 22:37:28  #宏觀 #國際
-
-印度市場監管機構：就社交媒體平臺展示實時交易策略向投資者發出警示。
-
----
-
-### 2026-08-17 22:37:01  #公司 #市場
-
-【耐克股價跌至 2014 年以來最低，最大跌幅達 3.2%】耐克股價面臨跌破 4 月以來形成的交易區間的風險。該股自 2021 年高點以來便處於長期下行通道，目前交易價格跌至 2014 年 9 月以來的最低水平。耐克公司今年以來總回報率為‑36.95%，而標普 500 指數總回報率為 14.33%。分析師對耐克公司給出 17 個買入評級、23 個持有評級、4 個賣出評級；平均目標價：50.65 美元。
-
----
-
-### 2026-08-17 22:36:18  #MKT News #Market Themes #The Trump Trade
-
-Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region.
-
----
-
-### 2026-08-17 22:34:25  #MKT News #Market Regions #Japan & APAC
-
-Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry on Tuesday.
-
----
-
-### 2026-08-17 22:34:10  #國際
-
-市場訊息：日本特使將於週二到訪俄羅斯外交部。
-
----
-
-### 2026-08-17 22:34:00  #市場
-
-Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。
-
----
-
-### 2026-08-17 22:33:17  #MKT News #Hang Seng Index #Impact bullish
-
-Market sources say Xiyin plans to seek a valuation of up to $27 bln in a Hong Kong IPO.
-
----
-
-### 2026-08-17 22:32:30  #其他
-
-市場訊息：據訊息稱希音（SHEIN） IPO 目標估值最高達 270 億美元。
-
----
-
-### 2026-08-17 22:32:17  #MKT News
-
-U.S. House Speaker Johnson said no illegal immigrants have been permitted to enter the country for 15 consecutive months and credited Republican policies with restoring security and stability.
-
----
-
-### 2026-08-17 22:31:13  #MKT News
-
-【Trump says secret channels with Iran's Revolutionary Guard open; IRGC calls claim a 'hallucination'】On the 17th, US President Trump said secret communications between US officials and Iran's Islamic Revolutionary Guard Corps (IRGC) remain open and urged Iran to "raise the white flag and surrender." He told Fox News the private channel persists despite Iran's public confrontational posture, said his approach is unrelated to the US midterm elections, and added "I have no timetable, I'm not in a hurry." The IRGC rejected the claim as a "hallucination," saying its officials have not held secret talks and calling Trump's statements a "lie" born of "war failures and despair."
-
----
-
-### 2026-08-17 22:29:27  #國際
-
-【颶風掠過夏威夷 22萬戶斷電】一場颶風上週末掠過美國夏威夷州南部近海，強風和暴雨造成洪水，至少100棟住宅受損，部分道路、橋樑和電力設施遭到破壞。根據當地電力供應網站16日資料，全州一度超過22萬戶斷電。（新華社）
-
----
-
-### 2026-08-17 22:28:31  #國際
-
-【韓美軍演引發韓國民間團體抗議】韓美軍方17日正式啟動“乙支自由之盾”聯合軍演，韓國民間團體當天在首爾示威抗議，呼籲停止韓美聯合軍演。韓國民間團體“和平統一開創者”當天在位於首爾市中心光化門廣場的美國駐韓國大使館前舉行抗議集會。該團體表示，韓國政府應立即、全面收回戰時作戰指揮權，並廢止美國對韓國提供的所謂“延伸威懾”安排。（新華社）
-
----
-
-### 2026-08-17 22:28:09  #MKT News #WTI #Impact bullish #Brent
-
-【Trump threatens to declare Strait of Hormuz US territory; experts say unlikely】President Trump last week said that after defeating Iran he would declare the Strait of Hormuz US territory and has previously asserted the US “owns” the waterway, despite parts lying within Iranian and Omani territorial seas. Maritime law experts say such a claim faces major legal obstacles. A City, University of London maritime-law professor said under US law a presidential proclamation or order alone would be insufficient to claim territory and would have to meet constitutional requirements. Under international law, annexation would violate the UN Charter; territory, including maritime areas, can only be acquired by treaty or cession. Occupation may give de facto control but does not confer legal title, a Swansea shipping-law professor said, and any transfer would require Iran’s consent, which is highly unlikely. The professor added a hypothetical US–Iran–Oman deal to open the strait and levy transit fees would also conflict with international law and UNCLOS. Experts emphasized Iran and Oman do not have absolute property rights over the strait; freedom of navigation is the governing legal principle and military control does not equal legal ownership.
-
----
-
-### 2026-08-17 22:27:46  #國際
-
-伊朗外交部：烏茲別克外交部副部長與伊朗外交部長阿拉格齊於當地時間週一下午舉行會晤。
-
----
-
-### 2026-08-17 22:27:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above $3.2 per pound, hovering near their highest since late July, supported by the slower pace of the Brazilian harvest and concerns about supply. Safras & Mercado reported on August 14 that the Brazil 2026/27 coffee harvest was 90% completed as of August 12, behind 97% last year and the 5-year average of 94%. Brazil's arabica coffee harvest was 86% complete, behind last year's 95%. In the meantime, latest data showed ICE arabica coffee inventories fell to a 2.75-year low of 231,445 bags. Meanwhile, market participants continued to assess the extent of disruptions to coffee exports from Colombia due to a devastating earthquake.
 
 ---

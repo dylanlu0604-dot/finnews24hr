@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:36:53_
-_本檔包含 2801 則快訊，約 604944 字_
+_更新時間：2026-08-19 04:57:23_
+_本檔包含 2801 則快訊，約 604966 字_
+
+---
+
+### 2026-08-17 22:41:01  #國際
+
+【伊朗指責卡達扣押3名伊朗飛行員】近日，伊朗指責三名伊方飛行員遭到卡達方面的扣押，而卡達對此予以否認，雙方爭執不下。8月17日，伊朗外交部發言人巴加埃稱，伊朗正透過外交渠道關注伊朗飛行員的下落，在事情明朗前，伊朗仍然認為失蹤的三名飛行員是被卡達方面俘獲。巴加埃同時表示，伊朗與卡達的外交關係並不與追查伊朗軍方飛行員的下落相沖突。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 22:40:23  #公司 #國際
+
+【英偉達聯手OpenAI鎖定12吉瓦算力基建，黃仁勳：即便OpenAI不續租，還可以給其他客戶】AI（人工智慧）晶片龍頭英偉達披露了在AI基礎設施戰略佈局上的最新動作。8月17日，英偉達CEO黃仁勳發表題為《保障智慧基礎設施安全》（Securing the Infrastructure of Intelligence）的署名文章稱，英偉達已與能源開發商SB Energy達成合作，鎖定位於美國俄亥俄州波特斯茅斯PORTS-Pike科技園區的土地、電力與廠房（LPS）資源。該場地將專門用於承載英偉達算力系統，而OpenAI將作為租戶在此建造並運營AI工廠。黃仁勳在文中指出，AI工廠是AI時代的決定性基礎設施。當前，基礎設施的競爭焦點已從先進晶片與封裝，延伸到了土地、電力與廠房。AI實驗室對訓練和推理算力的需求極其驚人，“更多的算力意味著更高的智慧、更多的產品、更多的使用者以及更高的收入”，但其發展正受到算力供給不足的嚴重製約。如果未來OpenAI無法繼續使用該園區，其算力可以轉售給英偉達全球生態系統中其他符合條件的租戶。黃仁勳強調，英偉達算力具備通用性與可互換性：“可互換性驅動了利用率和永續性，使英偉達算力成為一種可出租、可融資的生產性資產。”因此，PORTS-Pike這種優質場地的價值絕不侷限於單一客戶或單代算力。在文章的最後，黃仁勳梳理了英偉達的戰略進化路徑：從最初製造加速計算晶片，到擴充套件至系統、網路、CUDA軟體，再到全棧AI工廠，如今進一步延伸至幫助客戶鎖定建造這些工廠所需的關鍵底層資源。黃仁勳表示，英偉達未來在LPS上的佈局仍將保持“戰略性與自律性”，絕大多數客戶將繼續獨立獲取LPS資源，英偉達僅會選擇性地鎖定那些具備明確、持久需求且能承載多代算力升級的卓越場地。 隨後，黃仁勳為這項融資計劃正名，回應外界對“迴圈融資”的質疑。他指出，公司可能會為相關合作提供“最高達專案規模25%”的融資支援：“我們的作用是幫助解鎖龐大的獨立資本池，同時保持自律的風險敞口。”（澎湃）
+
+---
+
+### 2026-08-17 22:40:16  #MKT News
+
+Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year.
+
+---
+
+### 2026-08-17 22:38:21  #其他
+
+市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。
+
+---
+
+### 2026-08-17 22:37:28  #宏觀 #國際
+
+印度市場監管機構：就社交媒體平臺展示實時交易策略向投資者發出警示。
+
+---
+
+### 2026-08-17 22:37:01  #公司 #市場
+
+【耐克股價跌至 2014 年以來最低，最大跌幅達 3.2%】耐克股價面臨跌破 4 月以來形成的交易區間的風險。該股自 2021 年高點以來便處於長期下行通道，目前交易價格跌至 2014 年 9 月以來的最低水平。耐克公司今年以來總回報率為‑36.95%，而標普 500 指數總回報率為 14.33%。分析師對耐克公司給出 17 個買入評級、23 個持有評級、4 個賣出評級；平均目標價：50.65 美元。
+
+---
+
+### 2026-08-17 22:36:18  #MKT News #Market Themes #The Trump Trade
+
+Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region.
+
+---
+
+### 2026-08-17 22:34:25  #MKT News #Market Regions #Japan & APAC
+
+Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry on Tuesday.
+
+---
+
+### 2026-08-17 22:34:10  #國際
+
+市場訊息：日本特使將於週二到訪俄羅斯外交部。
+
+---
+
+### 2026-08-17 22:34:00  #市場
+
+Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。
+
+---
+
+### 2026-08-17 22:33:17  #MKT News #Hang Seng Index #Impact bullish
+
+Market sources say Xiyin plans to seek a valuation of up to $27 bln in a Hong Kong IPO.
+
+---
+
+### 2026-08-17 22:32:30  #其他
+
+市場訊息：據訊息稱希音（SHEIN） IPO 目標估值最高達 270 億美元。
+
+---
+
+### 2026-08-17 22:32:17  #MKT News
+
+U.S. House Speaker Johnson said no illegal immigrants have been permitted to enter the country for 15 consecutive months and credited Republican policies with restoring security and stability.
+
+---
+
+### 2026-08-17 22:31:13  #MKT News
+
+【Trump says secret channels with Iran's Revolutionary Guard open; IRGC calls claim a 'hallucination'】On the 17th, US President Trump said secret communications between US officials and Iran's Islamic Revolutionary Guard Corps (IRGC) remain open and urged Iran to "raise the white flag and surrender." He told Fox News the private channel persists despite Iran's public confrontational posture, said his approach is unrelated to the US midterm elections, and added "I have no timetable, I'm not in a hurry." The IRGC rejected the claim as a "hallucination," saying its officials have not held secret talks and calling Trump's statements a "lie" born of "war failures and despair."
+
+---
+
+### 2026-08-17 22:29:27  #國際
+
+【颶風掠過夏威夷 22萬戶斷電】一場颶風上週末掠過美國夏威夷州南部近海，強風和暴雨造成洪水，至少100棟住宅受損，部分道路、橋樑和電力設施遭到破壞。根據當地電力供應網站16日資料，全州一度超過22萬戶斷電。（新華社）
+
+---
+
+### 2026-08-17 22:28:31  #國際
+
+【韓美軍演引發韓國民間團體抗議】韓美軍方17日正式啟動“乙支自由之盾”聯合軍演，韓國民間團體當天在首爾示威抗議，呼籲停止韓美聯合軍演。韓國民間團體“和平統一開創者”當天在位於首爾市中心光化門廣場的美國駐韓國大使館前舉行抗議集會。該團體表示，韓國政府應立即、全面收回戰時作戰指揮權，並廢止美國對韓國提供的所謂“延伸威懾”安排。（新華社）
+
+---
+
+### 2026-08-17 22:28:09  #MKT News #WTI #Impact bullish #Brent
+
+【Trump threatens to declare Strait of Hormuz US territory; experts say unlikely】President Trump last week said that after defeating Iran he would declare the Strait of Hormuz US territory and has previously asserted the US “owns” the waterway, despite parts lying within Iranian and Omani territorial seas. Maritime law experts say such a claim faces major legal obstacles. A City, University of London maritime-law professor said under US law a presidential proclamation or order alone would be insufficient to claim territory and would have to meet constitutional requirements. Under international law, annexation would violate the UN Charter; territory, including maritime areas, can only be acquired by treaty or cession. Occupation may give de facto control but does not confer legal title, a Swansea shipping-law professor said, and any transfer would require Iran’s consent, which is highly unlikely. The professor added a hypothetical US–Iran–Oman deal to open the strait and levy transit fees would also conflict with international law and UNCLOS. Experts emphasized Iran and Oman do not have absolute property rights over the strait; freedom of navigation is the governing legal principle and military control does not equal legal ownership.
+
+---
+
+### 2026-08-17 22:27:46  #國際
+
+伊朗外交部：烏茲別克外交部副部長與伊朗外交部長阿拉格齊於當地時間週一下午舉行會晤。
+
+---
+
+### 2026-08-17 22:27:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above $3.2 per pound, hovering near their highest since late July, supported by the slower pace of the Brazilian harvest and concerns about supply. Safras & Mercado reported on August 14 that the Brazil 2026/27 coffee harvest was 90% completed as of August 12, behind 97% last year and the 5-year average of 94%. Brazil's arabica coffee harvest was 86% complete, behind last year's 95%. In the meantime, latest data showed ICE arabica coffee inventories fell to a 2.75-year low of 231,445 bags. Meanwhile, market participants continued to assess the extent of disruptions to coffee exports from Colombia due to a devastating earthquake.
 
 ---
 
@@ -16759,123 +16873,5 @@ According to Maoyan Pro data, the film Welcome to Long Restaurant has grossed ov
 ### 2026-08-16 12:54:50  #公司 #市場
 
 【本週南向資金淨買入騰訊控股超70億港元 14股南向資金持股量環比增長超15%】本週（8月10日至14日）港股市場主要股指集體下跌，恒生指數累計跌2.15%，恒生科技指數跌3.1%，恒生中國企業指數跌2.24%。據證券時報·資料寶統計，本週南向資金合計成交淨買入0.89億港元。從本週上榜成交活躍股名單來看，本週共有19只個股上榜，騰訊控股本週港股通合計買賣總額最高，達到356.59億港元；智譜緊隨其後，為343.04億港元；其他還有MINIMAX-W、中芯國際、建滔積層板本周港股通買賣總額超過200億港元。從成交淨買入金額來看，本週南向資金對網際網路巨頭買賣不一，騰訊控股獲南向資金淨買入77.29億港元，小米集團-W獲南向資金淨買入9.65億港元，阿里巴巴-W淨賣出26.14億港元。其他還有美團-W遭南向資金淨賣出3.2億港元。從持股量變化來看，本週14股獲得南向資金持股量環比增長超15%，芯碁微裝居首，環比增長69.62%，其他還有南華期貨股份、明略科技-W、滬上阿姨持股量環比增幅居前，持股量環比增幅分別為55.26%、38.49%、33.61%。
-
----
-
-### 2026-08-16 12:53:04  #其他
-
-據貓眼專業版資料，電影 《歡迎來龍餐館》 上映6天， 總票房破8億。
-
----
-
-### 2026-08-16 12:51:29  #國際
-
-印度總理莫迪：感謝內塔尼亞胡總理的美好祝願。祝願印以特殊戰略伙伴關係進一步鞏固，挖掘新機遇，推動兩國人文交往更加緊密。
-
----
-
-### 2026-08-16 12:48:22  #國際
-
-【上海迪士尼正擴建“飛越地平線”，第九大主題園區建設迎新進展】記者從上海迪士尼度假區獲悉，第九大主題園區——蜘蛛俠主題園區建設迎來又一重要里程碑。繼今年6月主題園區遊樂裝置軌道安裝完成後，首批乘騎裝置已於數日前就位，乘騎裝置除錯工作即將啟動。上述訊息於正在美國加利福尼亞州召開的迪士尼終極粉絲大會D23（以下簡稱“D23 粉絲大會”）公佈。此外，上海迪士尼樂園內標誌性主題景點“翱翔·飛越地平線”的擴建工作正在同步推進；毗鄰樂園的兩座全新主題酒店的擴建工作也在進行中；為演職人員打造的全新居住社群也正在建設，旨在更好地支援一線演職人員為遊客創造難忘回憶。（澎湃）
-
----
-
-### 2026-08-16 12:43:55  #其他
-
-【2026文昌國際航空航天論壇8月下旬啟幕】記者從文昌國際航天城管理局獲悉，2026文昌國際航空航天論壇將於8月24日至26日在海南文昌舉辦，將集中展示海南航天產業最新發展成果。2026文昌國際航空航天論壇的舉辦，旨在搶抓可複用火箭產業化新風口，匯聚全球航天資源，助力壯大火箭鏈、衛星鏈、資料鏈以及“航天+”產業，構建全方位、多層次的航天產業生態體系。海南將全力推動重點專案落地，加快形成高密度、高可靠、低成本的商業發射能力，高效支撐“百箭千星”任務。
-
----
-
-### 2026-08-16 12:43:53  #宏觀 #國際
-
-【庫什納訪以埃在即 哈馬斯領導人赴埃會談】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）訊息人士15日透露，哈馬斯政治局主席哈利勒·哈亞當晚啟程前往埃及，定於16日與埃及情報總局局長哈桑·拉沙德舉行會晤。媒體注意到，哈亞赴埃時間節點比較敏感。美國總統特朗普的女婿庫什納將在美國發起的所謂“和平委員會”加沙高階代表尼古拉·姆拉德諾夫陪同下，於下週訪問以色列和埃及，試圖彌合美國和以色列圍繞加沙和平計劃產生的分歧。（新華社）
-
----
-
-### 2026-08-16 12:43:47  #MKT News #Important
-
-【Preview: State Council Information Office to hold press briefing Aug. 17 on July 2026 national economic data】State Council Information Office will hold a press conference at 3:00 pm on Monday, Aug. 17, 2026. Fu Linghui, National Bureau of Statistics spokesperson, chief economist and director of the Department of Comprehensive National Economic Statistics, will present July 2026 national economic performance and take questions.
-
----
-
-### 2026-08-16 12:42:11  #國際
-
-【今日特朗普要聞】
-1、特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。
-2、一項民調顯示，多數美國選民表示自身生活境況在特朗普執政期間出現惡化，民眾對總統處理經濟、生活成本問題的不滿情緒持續攀升。
-3、據多位現任和前任美國官員透露，美國海軍正在考慮對其新型航空母艦進行重大重新設計，以更好地符合美國總統特朗普對軍艦外觀的偏好。
-4、特朗普表示，參議院必須儘快投票透過《不再改變時鐘法案》。
-
----
-
-### 2026-08-16 12:41:53  #其他
-
-【7月湖南軌道交通裝備出口創歷史新高 單月首次突破2億元】據湖南日報，長沙海關日前釋出，前7個月，湖南軌道交通裝備出口9.6億元，比去年同期增長24.4%。7月，湖南軌道交通裝備出口創歷史新高，單月首次突破2億元，增長117.5%。
-
----
-
-### 2026-08-16 12:39:48  #國際
-
-伊朗副外長喊話美國官員：徹底認清現實，迄今為止，你們已經遭受重大戰略挫敗。霍爾木茲海峽過去是、現在是、未來也仍屬於伊朗。該海峽的開放與關閉完全由伊朗掌控。只要你們拒絕接受失敗的現實、依舊沉溺於妄想，伊朗就將持續實施封鎖。
-
----
-
-### 2026-08-16 12:38:56  #其他
-
-【又一央企基金落地南京】近日，中核（江蘇）戰新創業投資合夥企業（有限合夥）在南京江北新區註冊成立，標誌著這隻聚焦戰略性新興產業的創投基金正式落地江北新區，基金規模27億元。值得注意的是，基金合夥人匯聚央企、國家級國資運營平臺與江蘇省、市、區三級地方產業基金。（南京釋出）
-
----
-
-### 2026-08-16 12:37:15  #MKT News
-
-【Iran says Qatar detained three pilots; Qatar denies】Iran's military said on the 15th that three Iranian pilots were "captured" by Qatari forces in March after strikes on a US military base in Qatar and have been detained since, and urged Qatar to "release them". Qatar's Foreign Ministry denied detaining the pilots, called the claims "misleading", said it conducted search-and-rescue operations, recovered one pilot's remains and has coordinated handover arrangements with Iranian authorities.
-
----
-
-### 2026-08-16 12:35:53  #市場 #國際
-
-【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。 （央視財經）
-
----
-
-### 2026-08-16 12:34:35  #MKT News #Macro & Rates #US Economy
-
-【Poll: Majority of US voters say life has worsened under Trump】An FT-published Focaldata national poll finds more than 53% of registered US voters say their finances have worsened since Donald Trump returned to the White House in January 2025. Nearly 57% of independents and about 25% of self-identified Republicans also report deterioration. With under three months to the November midterms, respondents were more likely to view Democrats than Republicans as better able to handle inflation and cost-of-living issues; Democrats also hold a slight edge on jobs and the economy.
-
----
-
-### 2026-08-16 12:32:43  #國際
-
-以色列國防部長：以色列將採取強硬回應以捍衛自身安全。
-
----
-
-### 2026-08-16 12:27:07  #公司
-
-【哈電集團與鞍鋼集團舉行會談】據哈電集團訊息，近日，哈電集團總經理、黨委副書記劉清勇接待了鞍鋼集團總經理、黨委副書記郭斌一行，雙方圍繞貫徹落實國家重大戰略部署，就深化“十五五”戰略協同、加強科技創新合作、強化產業協同發展等方面進行了深入交流。
-
----
-
-### 2026-08-16 12:23:57  #公司 #國際
-
-【高毅資產二季度調倉：美光、閃迪獲大幅增持，英偉達等科技股遭減持】具體來看，高毅二季度大幅增持美光科技和閃迪，其中美光持股數量環比增加283.48%，持倉市值約3973萬美元；閃迪持股數量增加約192%，持倉市值約3638萬美元，兩者分別位列第六、第七大重倉股。此外，高毅增持BOSS直聘、攜程、貝殼、華住集團、百勝中國和拼多多；新建倉維諦技術、文遠知行、Visa和阿里巴巴。減持方面，高毅降低英偉達、網易、愛奇藝和霧芯科技倉位，其中英偉達和網易持股數量分別下降72.41%和76.47%，並清倉富途、Lumentum、小鵬汽車、蔚來等股票。
-
----
-
-### 2026-08-16 12:23:31  #國際
-
-【伊朗指控兩名法國外交官從事“非法干涉”活動】據新加坡《聯合早報》網站8月16日報道，伊朗情報部門指控兩名法國外交官從事“非法干涉”活動，警告法國政府不要“非法干涉”伊朗內政。 據報道，伊朗情報部門8月15日發表宣告稱，兩名法國外交官7月在德黑蘭與涉嫌“重大外國滲透和干涉案件”的人員舉行了一次秘密會晤。經調查，這兩名外交官“有大量違反伊朗國內法和外交義務的記錄”。 伊朗政府強調，絕不允許外國駐伊朗外交官從事“非法干涉”活動，並警告任何此類行為的再次發生都將招致“相應的”回應。 報道稱，法國外長巴羅7月20日說，兩名法國外交官在德黑蘭遭到拘留和虐待。他說這一事件“令人震驚”，並已警告伊朗外長阿拉格齊，此事“絕不能不了了之”。 阿拉格齊隨後在與巴羅的通話中提出抗議，稱這兩名法國外交官的“非常規”行為“違反外交規範，是不可接受的”。 （參考訊息）
-
----
-
-### 2026-08-16 12:21:48  #宏觀 #國際
-
-美國國務院發言人就黎巴嫩局勢近期升級向以色列表示：試點區域方案仍是黎巴嫩與以色列實現長期和平與安全唯一可行的途徑。解除真主黨武裝是該程序不可或缺的組成部分。
-
----
-
-### 2026-08-16 12:21:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【US-mediated ceasefire effectively gives Israel de facto impunity to strike Lebanon, analyst says】Ziad Abu Rish, associate professor of Middle East studies at Bard College, said most observers believe Netanyahu is escalating strikes on Lebanon to demonstrate unstoppable resolve—seeking to occupy southern Lebanon and to hit Hezbollah and Lebanese civilians. Saturday’s attack that killed 11 continues a pattern since the ceasefire: Israel, with perceived US acquiescence, attacking Hezbollah and Lebanese civilians without consequences. The ceasefire was largely nominal and only briefly held June 19-23 after Iran pressed for a US understanding to halt Israeli strikes. In US-mediated talks with Israel and Lebanon, Washington proposed Israel limit its operations and occupation to southern Lebanon and the Bekaa Valley in exchange for refraining from strikes on Beirut. The result, Abu Rish said, is that southern Lebanese civilians continue to live under Israeli occupation and air strikes, and most destruction of civilian infrastructure in the south—homes, hospitals, schools, fortifications and farmland—occurred in Israeli-controlled areas during the ceasefire.
 
 ---

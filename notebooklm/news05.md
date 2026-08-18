@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:36:53_
-_本檔包含 3024 則快訊，約 604106 字_
+_更新時間：2026-08-19 04:57:23_
+_本檔包含 3034 則快訊，約 605012 字_
+
+---
+
+### 2026-08-13 09:36:27  #市場 #國際
+
+菲律賓股市指數下跌1.1%，至6298.84點。
+
+---
+
+### 2026-08-13 09:36:10  #其他
+
+【光輪智慧與源策未來探索全身智慧資料與評測合作】據光輪智慧訊息，近日，光輪智慧與源策未來達成戰略合作。光輪智慧面向物理AI建設資料與評測基礎設施，覆蓋人類資料生產、物理模擬、規模化評測和真實場景反饋全閉環。源策未來聚焦通用全身智慧基礎模型，圍繞全身移動與操作、長時序任務、多模態感知和跨本體能力遷移開展研發。未來，雙方將圍繞更多全身任務、環境和本體條件展開密切合作，持續完善從資料生產、模擬訓練、能力評測到真實反饋的持續學習系統，為全身智慧基礎模型走向穩定執行和跨場景應用提供規模化、可複用的物理AI基礎設施。
+
+---
+
+### 2026-08-13 09:36:06  #公司
+
+【PCB概念表現活躍 方邦股份漲超10%】PCB概念表現活躍，方邦股份漲超10%，華正新材、生益科技、金祿電子、滬電股份跟漲。
+
+---
+
+### 2026-08-13 09:35:57  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Holds at 2-Week Low — The New Zealand dollar hovered around $0.585, its lowest level in two weeks, as the greenback firmed despite a subdued US consumer inflation report. The data reduced the likelihood of monetary policy tightening by the Federal Reserve at its September meeting, with traders having already trimmed their rate-hike bets following Friday’s weak jobs report. Investors also remained cautious as talks between the US and Iran appeared to have reached an impasse, with both sides hardening their positions, while President Donald Trump said the US has “total control” over the Strait of Hormuz. Domestically, however, the NZ dollar continues to draw support from expectations that the Reserve Bank of New Zealand will deliver another quarter-point interest rate increase next month.
+
+---
+
+### 2026-08-13 09:35:56  #公司 #市場
+
+【電子化學品板塊短線拉昇，海星股份漲停】電子化學品板塊短線拉昇，海星股份漲停，方邦股份、天通股份、瑞聯新材、三孚新科、中船特氣等紛紛走高。
+
+---
+
+### 2026-08-13 09:35:47  #市場 #國際
+
+【中證1000股指期貨(IM)主力合約日內漲超1%】中證1000股指期貨(IM)主力合約日內漲超1%，現報7759.2點。
+
+---
+
+### 2026-08-13 09:35:36  #公司
+
+【南興股份等成立光聯科技公司 含光通訊裝置業務】企查查APP顯示，近日，廣東飛瑞光聯科技有限公司成立，經營範圍包含光通訊裝置製造；光通訊裝置銷售；通訊裝置製造；通訊裝置銷售；通訊裝置銷售等。企查查股權穿透顯示，該公司由南興股份等共同持股。
+
+---
+
+### 2026-08-13 09:35:34  #其他
+
+【薩爾瓦多南部近海發生5.7級地震】當地時間8月12日18時30分，薩爾瓦多南部太平洋近海發生5.7級地震。根據薩爾瓦多環境與自然資源部發布的通報，震中位於北緯12.68度、西經88.2度，震源深度50.89公里。(央視新聞)
+
+---
+
+### 2026-08-13 09:35:29  #其他
+
+凱德投資：70‑90 億新元存量資產主要在中國。
+
+---
+
+### 2026-08-13 09:34:45  #MKT News #Market Regions #Greater China #Star Stocks #Tencent
+
+【Where to park spare cash? Money-market yield tracker】Tencent's Licaitong (Huoqi+) 7-day annualized yield ranged 0.6990%–1.0610%. WeChat Wallet's Lingqiantong 7-day annualized yield ranged 0.9020%–1.0020%. Alipay Yu'e Bao 7-day annualized yield ranged 1.0090%–1.9010%.
+
+---
+
+### 2026-08-13 09:34:14  #市場
+
+【遊戲板塊短線拉昇，遊族網路漲停】遊戲板塊短線拉昇，遊族網路漲停，迅遊科技、凱撒文化、崑崙萬維、大晟文化、浙數文化跟漲。
+
+---
+
+### 2026-08-13 09:34:06  #公司 #市場
+
+【通用裝置板塊盤初活躍，銀都股份漲停】通用裝置板塊盤初活躍，銀都股份漲停，春暉智控、思看科技、集智股份、鼎泰高科、偉隆股份、咸亨國際等跟漲。
+
+---
+
+### 2026-08-13 09:34:04  #市場 #焦點
+
+科創50日內漲幅達2.11%，成分股中，華虹宏力漲5.85%，源傑科技漲5.67%，寒武紀漲3.70%，中芯國際漲3.59%。
+
+---
+
+### 2026-08-13 09:34:00  #市場
+
+【港股人工智慧股走強 芯碁微裝漲近7%】截至發稿，芯碁微裝(09630.HK)漲6.91%，深演智慧(02723.HK)漲3.27%，智譜(02513.HK)漲5.79%。
+
+---
+
+### 2026-08-13 09:33:30  #MKT News #Important #CSI300 #Impact bearish
+
+China A-share innovative drug sector opened weaker; Baihua Pharmaceutical fell about 5%, Gan & Lee Pharmaceuticals dropped over 4%, with Zhejiang Medicine and Borui Pharmaceutical also declining.
+
+---
+
+### 2026-08-13 09:33:17  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-08-13 09:33:15  #公司 #市場
+
+【AI應用端盤初走強 榕基軟體、理工能科雙雙漲停】早盤AI應用端走強，榕基軟體、理工能科漲停，利歐股份、盛視科技、每日互動、漢鑫科技、立方控股跟漲。
+
+---
+
+### 2026-08-13 09:32:28  #市場 #其他
+
+光纖概念延續強勢，通鼎互聯2連板，長進光子、天孚通訊、炬光科技、長盈通、源傑科技漲超5%。
+
+---
+
+### 2026-08-13 09:31:29  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish
+
+Shenzhen Composite Index rallies more than 1% in early trade.
+
+---
+
+### 2026-08-13 09:31:25  #MKT News
+
+【China bond futures open】China bond futures opened: 2-year (TS) main contract flat; 5-year (TF) +0.01%; 10-year (T) +0.02%; 30-year (TL) +0.12%.
 
 ---
 
@@ -18227,65 +18347,5 @@ The US Commodity Futures Trading Commission (CFTC) has asked prediction platform
 ### 2026-08-12 04:57:25  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
 
 US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier.
-
----
-
-### 2026-08-12 04:55:23  #市場 #國際
-
-美國商品期貨交易委員會宣告：已命令 KalshiEX 繼續運營。
-
----
-
-### 2026-08-12 04:55:16  #Trading Economics #Markets #Mexico #currency #Importance 0
-
-Mexican Peso Hits 26-month High — The Mexican Peso touched 17.08 against the USD, the highest since June 2024. Over the past 4 weeks, US Dollar Mexican Peso lost 2.54%, and in the last 12 months, it decreased 8.08%.
-
----
-
-### 2026-08-12 04:53:04  #國際
-
-市場訊息：普京已抵達南薩哈林斯克，出席太平洋艦隊演習最後階段活動。
-
----
-
-### 2026-08-12 04:52:58  #MKT News
-
-Putin has arrived in Yuzhno-Sakhalinsk, Russia, to take part in the final phase of Pacific Fleet exercises.
-
----
-
-### 2026-08-12 04:52:21  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Hits Seven-Month Low — The Ibovespa tumbled 2.5% to close at 167,875 on Tuesday, its lowest close since January 20th and the sharpest decline since March 12th. JPMorgan downgraded Brazilian equities to neutral within Latin America, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates, and increased volatility ahead of the presidential election. The bank also cut its year-end Ibovespa target. In its minutes, Copom said inflation remains pressured by demand and requires a restrictive monetary policy stance. July's inflation reading also added to concerns, coming in slightly above forecasts. Political risk also rose after a new election poll showed President Lula widening his lead over Flávio Bolsonaro, as investors remain focused on the potential fiscal direction of the next government. Banks fell sharply, with Banco do Brasil down 3.7%, Bradesco losing 2.3%, and Itaú shedding 3.5%. Petrobras fell 1.3% despite higher oil prices, while Vale declined 2%.
-
----
-
-### 2026-08-12 04:51:06  #公司 #市場 #國際
-
-【Eurizon料美日撐場能推高日元至125 勸說空頭勿負隅頑抗】Eurizon SLJ Capital執行長Stephen Jen認為，美國和日本聯手撐日元之舉是“一個分水嶺時刻”，將阻止它兌美元跌回四十年低點。 “美元-日元很可能已經見頂了，因為美國和日本都不會放棄，也不會向市場讓步，” 他和該公司經濟學家兼投資組合經理Joana Freire週二在報告中寫道，“抵抗是徒勞的。”
-
----
-
-### 2026-08-12 04:48:58  #其他
-
-惠譽：簡街資本贖回 57 億美元高階擔保票據。
-
----
-
-### 2026-08-12 04:48:20  #其他
-
-惠譽：簡街資本計劃提前償還 55 億美元定期貸款。
-
----
-
-### 2026-08-12 04:39:36  #市場
-
-CoreWeave盤後漲幅擴大至10%。
-
----
-
-### 2026-08-12 04:39:14  #MKT News #CRWV.O #Impact bullish
-
-CoreWeave (CRWV.O) U.S. shares rose 10% in after-hours trading.
 
 ---
