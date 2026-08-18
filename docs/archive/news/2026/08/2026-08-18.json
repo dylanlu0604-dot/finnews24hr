@@ -1,7 +1,41 @@
 {
   "date": "2026-08-18",
-  "count": 839,
+  "count": 842,
   "items": [
+    {
+      "id": "mkt:01a012e9-760e-7aab-906e-2853bcf2ff0d",
+      "time": "2026-08-18 11:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Sichuan pushes unmanned logistics expansion, green logistics upgrade】Sichuan provincial government office issued implementation opinions to accelerate integration of corridor, logistics and data networks and to orderly expand unmanned logistics across urban-rural delivery, trunk transport, park short‑haul, warehousing/sorting and loading operations. The plan promotes air‑ground smart coordination scenarios combining unmanned vehicles and drones and mixed manned‑vehicle/drone operations. It prioritises supply chains for lithium batteries, PV modules and new‑energy vehicles and calls for government‑market collaboration to build carbon emissions accounting and carbon‑footprint management systems, guiding firms to establish carbon‑asset management and participate in carbon trading to drive green transformation across production, distribution and consumption."
+    },
+    {
+      "id": "mkt:01a012e8-9ccf-7aab-906e-27fa67ca1d77",
+      "time": "2026-08-18 11:27:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【DBS says BOJ could speed up hikes to every 3-4 months】DBS Group Research says the Bank of Japan could accelerate its rate-hike cadence from about one every six months to one every 3–4 months. DBS has moved its expected next BOJ hike forward to September and forecasts two further hikes in Q1 and Q2 2027, taking the overnight call rate to 1.75% by mid-2027. Analysts note BOJ rhetoric has turned more hawkish and the government appears less opposed to earlier tightening. DBS raises Japan GDP forecasts to 0.9% for 2026 (from 0.5%) and 1.0% for 2027 (from 0.5%)."
+    },
+    {
+      "id": "5045154",
+      "time": "2026-08-18 11:26:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川：有序推進無人物流培育拓展 積極推進綠色物流轉型升級】四川省人民政府辦公廳近日印發《關於加快推進通道網、物流網、數聯網“三網”融合的實施意見》，意見提出，有序推進無人物流培育拓展。在城鄉配送、幹線運輸、園區短駁、倉儲分揀、裝卸搬運等領域，有序拓展無人物流場景。積極培育“無人車+無人機”“有人車+無人機”空地智慧協同場景。積極推進綠色物流轉型升級。依託骨幹物流通道、綠色氫路、零碳運輸走廊，完善充換電站、加氫站等補能網路，推動新能源重卡規模化應用。支援打造零碳貨運樞紐。重點瞄準鋰電池、光伏元件、新能源汽車等“新三樣”產品，推動政府與市場協同構建碳排放核算與碳足跡管理體系，引導企業建立碳資產管理體系並參與碳交易，帶動生產、流通、消費全行業綠色低碳轉型。"
+    },
     {
       "id": "5045153",
       "time": "2026-08-18 11:25:47",

@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-18 11:26:35",
-  "count": 15238,
+  "updated": "2026-08-18 11:30:28",
+  "count": 15232,
   "items": [
+    {
+      "id": "mkt:01a012e9-760e-7aab-906e-2853bcf2ff0d",
+      "time": "2026-08-18 11:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Sichuan pushes unmanned logistics expansion, green logistics upgrade】Sichuan provincial government office issued implementation opinions to accelerate integration of corridor, logistics and data networks and to orderly expand unmanned logistics across urban-rural delivery, trunk transport, park short‑haul, warehousing/sorting and loading operations. The plan promotes air‑ground smart coordination scenarios combining unmanned vehicles and drones and mixed manned‑vehicle/drone operations. It prioritises supply chains for lithium batteries, PV modules and new‑energy vehicles and calls for government‑market collaboration to build carbon emissions accounting and carbon‑footprint management systems, guiding firms to establish carbon‑asset management and participate in carbon trading to drive green transformation across production, distribution and consumption."
+    },
+    {
+      "id": "mkt:01a012e8-9ccf-7aab-906e-27fa67ca1d77",
+      "time": "2026-08-18 11:27:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【DBS says BOJ could speed up hikes to every 3-4 months】DBS Group Research says the Bank of Japan could accelerate its rate-hike cadence from about one every six months to one every 3–4 months. DBS has moved its expected next BOJ hike forward to September and forecasts two further hikes in Q1 and Q2 2027, taking the overnight call rate to 1.75% by mid-2027. Analysts note BOJ rhetoric has turned more hawkish and the government appears less opposed to earlier tightening. DBS raises Japan GDP forecasts to 0.9% for 2026 (from 0.5%) and 1.0% for 2027 (from 0.5%)."
+    },
+    {
+      "id": "5045154",
+      "time": "2026-08-18 11:26:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川：有序推進無人物流培育拓展 積極推進綠色物流轉型升級】四川省人民政府辦公廳近日印發《關於加快推進通道網、物流網、數聯網“三網”融合的實施意見》，意見提出，有序推進無人物流培育拓展。在城鄉配送、幹線運輸、園區短駁、倉儲分揀、裝卸搬運等領域，有序拓展無人物流場景。積極培育“無人車+無人機”“有人車+無人機”空地智慧協同場景。積極推進綠色物流轉型升級。依託骨幹物流通道、綠色氫路、零碳運輸走廊，完善充換電站、加氫站等補能網路，推動新能源重卡規模化應用。支援打造零碳貨運樞紐。重點瞄準鋰電池、光伏元件、新能源汽車等“新三樣”產品，推動政府與市場協同構建碳排放核算與碳足跡管理體系，引導企業建立碳資產管理體系並參與碳交易，帶動生產、流通、消費全行業綠色低碳轉型。"
+    },
     {
       "id": "5045153",
       "time": "2026-08-18 11:25:47",
@@ -139532,92 +139566,6 @@
         "Impact mixed"
       ],
       "text": "At the morning close, China’s front-month futures were mixed. Low-sulfur fuel oil (LU), fuel oil and Shanghai crude (SC) rose more than 4%; soda ash and Shanghai silver gained over 3%; coking coal, propylene, methanol and the monthly average price of polypropylene climbed over 2%. On the downside, Europe-route container freight slid more than 6%; eggs fell over 2%; red dates and pulp declined a little more than 1%."
-    },
-    {
-      "id": "mkt:019feede-e785-7aab-8fe5-a2ceefa12290",
-      "time": "2026-08-11 11:30:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【New Indonesian central bank governor faces test balancing growth and independence】Destry Damayanti, named acting governor two weeks ago, has been nominated by President Prabowo as the sole candidate to lead Indonesia’s central bank. The nomination seeks to balance pro-market technocrats with officials pushing a faster growth agenda. Markets will watch whether she can preserve central bank independence while delivering the president’s growth objectives. Economists and analysts view the appointment positively, expecting policy continuity with an early emphasis on stabilizing the rupiah. Her close ties with the finance minister imply tighter government-central bank coordination and a potentially more dovish policy stance. CITIGROUP economist Hermy Alman said communication between the central bank and government is likely to improve, but broader institutional credibility risks remain."
-    },
-    {
-      "id": "5034970",
-      "time": "2026-08-11 11:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續跌6.08%，低硫燃料油連續漲5.11%，上海原油連續漲4.27%，燃料油連續漲4.08%，純鹼連續漲3.55%，白銀連續漲3.07%，焦煤連續漲2.51%，丙烯連續漲2.44%，甲醇連續漲2.30%。"
-    },
-    {
-      "id": "5034969",
-      "time": "2026-08-11 11:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.03%， 10年期主力合約跌0.02%， 5年期主力合約跌0.01%， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "5034968",
-      "time": "2026-08-11 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.82%， 滬深300指數期貨連續漲0.31%， 中證500指數期貨連續漲0.74%， 上證50指數期貨連續跌0.10%。"
-    },
-    {
-      "id": "mkt:019feede-4f00-7aab-8fe5-9eabe959f65e",
-      "time": "2026-08-11 11:29:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "09688.HK",
-        "Impact bullish",
-        "06160.HK",
-        "02359.HK"
-      ],
-      "text": "Hong Kong innovative-drug stocks strengthened after volatile trading: Zai Lab (09688.HK) up over 5%, BeiGene (06160.HK) up over 4%, WuXi AppTec (02359.HK) and Fosun Pharma (02196.HK) also gained."
-    },
-    {
-      "id": "5034967",
-      "time": "2026-08-11 11:27:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【禾望電氣等在新疆成立新公司 含電氣裝置銷售業務】企查查APP顯示，近日，禾望電氣（新疆）有限公司成立，法定代表人為楊湘，註冊資本為2000萬元，經營範圍包含電氣裝置銷售；電器輔件銷售；機械電氣裝置銷售；風電場相關裝備銷售；風電場相關係統研發等。企查查股權穿透顯示，該公司由禾望電氣全資子公司深圳市禾望科技有限公司等共同持股。"
-    },
-    {
-      "id": "5034966",
-      "time": "2026-08-11 11:27:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲1%，現報901.00元。"
-    },
-    {
-      "id": "mkt:019feedc-89d5-7aab-8fe5-9206aa909c54",
-      "time": "2026-08-11 11:27:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China Index Academy: Jan–Jul nationwide judicial-auction residential sales +42.7% YoY; avg price -9.1%】China Index Academy data show Jan–Jul nationwide judicial-auction residential listings 245,000 units, up 23.1% YoY; sold units 89,000, up 42.7% YoY. Clearance rate 36.2%, up 4.97 ppt YoY. Total transaction value 96.98 bln yuan, up 21.04% YoY. Average transaction price 8,081 yuan/sq m, down 9.1% YoY."
-    },
-    {
-      "id": "5034965",
-      "time": "2026-08-11 11:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中指研究院：前7個月全國法拍住宅成交同比增長超四成】中指研究院釋出的資料顯示，1—7月全國法拍住宅掛拍房源數量24.5萬套，同比增加23.1%；成交拍品8.9萬套，同比增加42.7%；清倉率36.2%，較上年提升4.97個百分點；成交總金額969.75億元，同比增加21.04%。1—7月法拍住宅成交均價8081元/㎡，同比下降9.1%。"
     }
   ]
 }
