@@ -1,7 +1,58 @@
 {
   "date": "2026-08-19",
-  "count": 280,
+  "count": 285,
   "items": [
+    {
+      "id": "mkt:01a016a6-9cc4-7aab-9082-d63c69c072d9",
+      "time": "2026-08-19 04:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector."
+    },
+    {
+      "id": "mkt:01a016a4-8652-7aab-9082-c9362334fc1e",
+      "time": "2026-08-19 04:51:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions \"extremely serious and unacceptable\" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention."
+    },
+    {
+      "id": "mkt:01a016a2-93e2-7aab-9082-c5cacb92a7e5",
+      "time": "2026-08-19 04:49:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran."
+    },
+    {
+      "id": "mkt:01a016a1-e4af-7aab-9082-bc443994b783",
+      "time": "2026-08-19 04:48:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,330/oz, down nearly 2% intraday."
+    },
+    {
+      "id": "5046499",
+      "time": "2026-08-19 04:47:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4384.16美元/盎司。"
+    },
     {
       "id": "5046498",
       "time": "2026-08-19 04:47:42",

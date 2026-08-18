@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-19 04:48:26",
-  "count": 15122,
+  "updated": "2026-08-19 04:57:23",
+  "count": 15120,
   "items": [
+    {
+      "id": "mkt:01a016a6-9cc4-7aab-9082-d63c69c072d9",
+      "time": "2026-08-19 04:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector."
+    },
+    {
+      "id": "mkt:01a016a4-8652-7aab-9082-c9362334fc1e",
+      "time": "2026-08-19 04:51:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions \"extremely serious and unacceptable\" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention."
+    },
+    {
+      "id": "mkt:01a016a2-93e2-7aab-9082-c5cacb92a7e5",
+      "time": "2026-08-19 04:49:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran."
+    },
+    {
+      "id": "mkt:01a016a1-e4af-7aab-9082-bc443994b783",
+      "time": "2026-08-19 04:48:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,330/oz, down nearly 2% intraday."
+    },
+    {
+      "id": "5046499",
+      "time": "2026-08-19 04:47:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4384.16美元/盎司。"
+    },
     {
       "id": "5046498",
       "time": "2026-08-19 04:47:42",
@@ -138561,73 +138612,6 @@
         "Importance 1"
       ],
       "text": "US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier."
-    },
-    {
-      "id": "5036389",
-      "time": "2026-08-12 04:55:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會宣告：已命令 KalshiEX 繼續運營。"
-    },
-    {
-      "id": "te:markets:574517",
-      "time": "2026-08-12 04:55:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "Mexican Peso Hits 26-month High — The Mexican Peso touched 17.08 against the USD, the highest since June 2024. Over the past 4 weeks, US Dollar Mexican Peso lost 2.54%, and in the last 12 months, it decreased 8.08%."
-    },
-    {
-      "id": "5036388",
-      "time": "2026-08-12 04:53:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：普京已抵達南薩哈林斯克，出席太平洋艦隊演習最後階段活動。"
-    },
-    {
-      "id": "mkt:019ff299-932a-7aab-8ffb-1e62ea8c59c0",
-      "time": "2026-08-12 04:52:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin has arrived in Yuzhno-Sakhalinsk, Russia, to take part in the final phase of Pacific Fleet exercises."
-    },
-    {
-      "id": "te:markets:574516",
-      "time": "2026-08-12 04:52:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Hits Seven-Month Low — The Ibovespa tumbled 2.5% to close at 167,875 on Tuesday, its lowest close since January 20th and the sharpest decline since March 12th. JPMorgan downgraded Brazilian equities to neutral within Latin America, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates, and increased volatility ahead of the presidential election. The bank also cut its year-end Ibovespa target. In its minutes, Copom said inflation remains pressured by demand and requires a restrictive monetary policy stance. July's inflation reading also added to concerns, coming in slightly above forecasts. Political risk also rose after a new election poll showed President Lula widening his lead over Flávio Bolsonaro, as investors remain focused on the potential fiscal direction of the next government. Banks fell sharply, with Banco do Brasil down 3.7%, Bradesco losing 2.3%, and Itaú shedding 3.5%. Petrobras fell 1.3% despite higher oil prices, while Vale declined 2%."
-    },
-    {
-      "id": "5036387",
-      "time": "2026-08-12 04:51:06",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Eurizon料美日撐場能推高日元至125 勸說空頭勿負隅頑抗】Eurizon SLJ Capital執行長Stephen Jen認為，美國和日本聯手撐日元之舉是“一個分水嶺時刻”，將阻止它兌美元跌回四十年低點。 “美元-日元很可能已經見頂了，因為美國和日本都不會放棄，也不會向市場讓步，” 他和該公司經濟學家兼投資組合經理Joana Freire週二在報告中寫道，“抵抗是徒勞的。”"
-    },
-    {
-      "id": "5036386",
-      "time": "2026-08-12 04:48:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：簡街資本贖回 57 億美元高階擔保票據。"
     }
   ]
 }
