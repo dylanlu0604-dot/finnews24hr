@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 656,
+  "count": 662,
   "items": [
+    {
+      "id": "5045029",
+      "time": "2026-08-18 09:56:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股大模型概念股大幅下挫，智譜跌超13%，MINIMAX-W跌超10%。"
+    },
+    {
+      "id": "5045028",
+      "time": "2026-08-18 09:54:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊持續走高，華綠生物漲停】種植業與林業板塊持續走高，農發種業2連板，平潭發展、亞盛集團、萬向德農、華綠生物漲停，秋樂種業漲超15%，雪榕生物漲超10%，康農種業、神農種業、登海種業、敦煌種業、北大荒跟漲。"
+    },
+    {
+      "id": "5045027",
+      "time": "2026-08-18 09:54:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "5045026",
+      "time": "2026-08-18 09:53:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報65.56美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01292-a997-7aab-906c-e1c617b2843a",
+      "time": "2026-08-18 09:53:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector briefly slid; Shenshenfang A fell more than 7%, with Jingtou Development, Shibei Hi-tech, Hualian Holdings and Shahe Co. also lower."
+    },
+    {
+      "id": "5045025",
+      "time": "2026-08-18 09:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓三寶顏市長稱校園槍擊事件共造成兩人傷亡，其中包括槍手本人。"
+    },
     {
       "id": "5045024",
       "time": "2026-08-18 09:52:06",
