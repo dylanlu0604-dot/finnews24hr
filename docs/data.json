@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-18 21:09:13",
+  "updated": "2026-08-18 21:13:09",
   "count": 15145,
   "items": [
+    {
+      "id": "mkt:01a01500-6486-7aab-907b-236bbb8e7724",
+      "time": "2026-08-18 21:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Death toll from Indonesia quake rises to 70】Indonesia's National Disaster Management Agency said the recent strong quake and multiple aftershocks have killed 70 and injured 132, with no missing reported. The National Search and Rescue Agency said 40 of the injured are seriously hurt and 92 sustained minor injuries; teams are assisting post-quake recovery. Indonesia's Meteorology, Climatology and Geophysics Agency said that as of 1500 local time on the 18th the Flores region had recorded 2,357 aftershocks, the strongest magnitude 6.2; 24 aftershocks exceeded magnitude 5.0 and 72 were felt."
+    },
+    {
+      "id": "te:economy:576161",
+      "time": "2026-08-18 21:11:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to 20-Month High — The yield on the 10-year US Treasury note rose toward 4.75% on Tuesday, the highest in 20 months, as surging credit supply and risks of entrenched inflation extended the aversion to longer maturity bonds. Corporate debt issuance in the US gained ground on the markets' forefront, with estimates pointing to $1.5 trillion in bonds by AI companies this year. The surge in dollar-denominated fixed-income magnified ongoing concerns of accelerating deficit spending in the US and other G10 economies, raising estimates on the term premia in bond markets worldwide. Meanwhile, oil prices rose further as President Trump signaled there was no rush to end the blockade against Iranian tankers in the Persian Gulf. Higher energy prices had already lifted underlying inflation this year, raising the pressure on Treasuries, as Fed Chairman Warsh spurred worries of inflation complacency after noting a rate hike may not be his preferred tool against inflation."
+    },
+    {
+      "id": "mkt:01a014fe-83a8-7aab-907b-1a2d42f29760",
+      "time": "2026-08-18 21:10:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian lawmaker says President Zelenskiy has submitted Yevgeny Hemara as nominee for defence minister."
+    },
+    {
+      "id": "5046139",
+      "time": "2026-08-18 21:10:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員表示，澤連斯基提名葉夫根尼·赫馬拉為國防部長候選人。"
+    },
+    {
+      "id": "5046138",
+      "time": "2026-08-18 21:10:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1310.10美元/盎司。"
+    },
+    {
+      "id": "5046137",
+      "time": "2026-08-18 21:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐麟會見上海格派鎳鈷材料股份有限公司董事長曹棟強一行】8月18日，貴州省委書記徐麟在貴陽會見上海格派鎳鈷材料股份有限公司董事長曹棟強一行，共商雙方合作事宜。副省長羅強，上海市社會經濟文化交流協會常務副會長陳彪，上海久有私募基金管理有限公司董事長、格派股份董事劉小龍參加。會後，省有關部門單位、貴安新區負責人與曹棟強一行就有關產業專案進行交流。"
+    },
     {
       "id": "5046136",
       "time": "2026-08-18 21:08:31",
@@ -138851,59 +138903,6 @@
         "其他"
       ],
       "text": "匈牙利議會選舉安德拉什・巴卡為總統。"
-    },
-    {
-      "id": "5036024",
-      "time": "2026-08-11 21:12:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "AGILE DEFENSE：獲得價值8800萬美元的美國海軍陸戰隊網路空間作戰大隊高階網路支援服務III重新競標合同。"
-    },
-    {
-      "id": "5036023",
-      "time": "2026-08-11 21:12:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書：面對任何威脅，伊朗伊斯蘭共和國絕不會在本國人民的權益問題上退讓，在此方面，相關領域的決策必須比以往更為強硬。"
-    },
-    {
-      "id": "5036022",
-      "time": "2026-08-11 21:11:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "藍貓頭鷹資本公告高階票據發行。"
-    },
-    {
-      "id": "5036021",
-      "time": "2026-08-11 21:11:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震死亡人數升至181人】哥倫比亞全國首府協會負責人11日對當地媒體說，10日在該國西部發生的7.4級強震已造成181人死亡、1310人受傷。（新華社）"
-    },
-    {
-      "id": "5036020",
-      "time": "2026-08-11 21:09:58",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞士央行的美股持倉創新高 前三大持股為英偉達、蘋果和微軟】今年第二季度，瑞士央行以美國股票形式持有的外匯儲備增長超過10%，並達到歷史最高水平。根據週二公佈的瑞士央行提交給美國證券交易委員會的所謂13F申報，截至6月30日，該行在2300多家在美國上市公司中的持股價值1914億美元。瑞士央行略微超過四分之一的外匯儲備以股票方式持有，其中一部分投資於在美國上市的股票。前三大持股分別是英偉達、蘋果和微軟。該央行還持有防務軟體公司Palantir Technologies Inc.價值7.166億美元的股份。"
-    },
-    {
-      "id": "te:markets:574445",
-      "time": "2026-08-11 21:09:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
     }
   ]
 }

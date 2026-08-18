@@ -1,7 +1,59 @@
 {
   "date": "2026-08-18",
-  "count": 2297,
+  "count": 2303,
   "items": [
+    {
+      "id": "mkt:01a01500-6486-7aab-907b-236bbb8e7724",
+      "time": "2026-08-18 21:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Death toll from Indonesia quake rises to 70】Indonesia's National Disaster Management Agency said the recent strong quake and multiple aftershocks have killed 70 and injured 132, with no missing reported. The National Search and Rescue Agency said 40 of the injured are seriously hurt and 92 sustained minor injuries; teams are assisting post-quake recovery. Indonesia's Meteorology, Climatology and Geophysics Agency said that as of 1500 local time on the 18th the Flores region had recorded 2,357 aftershocks, the strongest magnitude 6.2; 24 aftershocks exceeded magnitude 5.0 and 72 were felt."
+    },
+    {
+      "id": "te:economy:576161",
+      "time": "2026-08-18 21:11:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Rises to 20-Month High — The yield on the 10-year US Treasury note rose toward 4.75% on Tuesday, the highest in 20 months, as surging credit supply and risks of entrenched inflation extended the aversion to longer maturity bonds. Corporate debt issuance in the US gained ground on the markets' forefront, with estimates pointing to $1.5 trillion in bonds by AI companies this year. The surge in dollar-denominated fixed-income magnified ongoing concerns of accelerating deficit spending in the US and other G10 economies, raising estimates on the term premia in bond markets worldwide. Meanwhile, oil prices rose further as President Trump signaled there was no rush to end the blockade against Iranian tankers in the Persian Gulf. Higher energy prices had already lifted underlying inflation this year, raising the pressure on Treasuries, as Fed Chairman Warsh spurred worries of inflation complacency after noting a rate hike may not be his preferred tool against inflation."
+    },
+    {
+      "id": "mkt:01a014fe-83a8-7aab-907b-1a2d42f29760",
+      "time": "2026-08-18 21:10:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian lawmaker says President Zelenskiy has submitted Yevgeny Hemara as nominee for defence minister."
+    },
+    {
+      "id": "5046139",
+      "time": "2026-08-18 21:10:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員表示，澤連斯基提名葉夫根尼·赫馬拉為國防部長候選人。"
+    },
+    {
+      "id": "5046138",
+      "time": "2026-08-18 21:10:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1310.10美元/盎司。"
+    },
+    {
+      "id": "5046137",
+      "time": "2026-08-18 21:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐麟會見上海格派鎳鈷材料股份有限公司董事長曹棟強一行】8月18日，貴州省委書記徐麟在貴陽會見上海格派鎳鈷材料股份有限公司董事長曹棟強一行，共商雙方合作事宜。副省長羅強，上海市社會經濟文化交流協會常務副會長陳彪，上海久有私募基金管理有限公司董事長、格派股份董事劉小龍參加。會後，省有關部門單位、貴安新區負責人與曹棟強一行就有關產業專案進行交流。"
+    },
     {
       "id": "5046136",
       "time": "2026-08-18 21:08:31",
