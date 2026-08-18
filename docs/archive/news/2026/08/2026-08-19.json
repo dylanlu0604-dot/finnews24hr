@@ -1,7 +1,44 @@
 {
   "date": "2026-08-19",
-  "count": 324,
+  "count": 328,
   "items": [
+    {
+      "id": "5046531",
+      "time": "2026-08-19 06:32:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。"
+    },
+    {
+      "id": "mkt:01a01700-92c5-7aab-9083-1e78d26c8265",
+      "time": "2026-08-19 06:31:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports."
+    },
+    {
+      "id": "te:markets:576238",
+      "time": "2026-08-19 06:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%)."
+    },
+    {
+      "id": "5046530",
+      "time": "2026-08-19 06:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。"
+    },
     {
       "id": "5046529",
       "time": "2026-08-19 06:25:25",
