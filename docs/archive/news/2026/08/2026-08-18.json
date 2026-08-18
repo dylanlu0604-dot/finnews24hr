@@ -1,7 +1,76 @@
 {
   "date": "2026-08-18",
-  "count": 466,
+  "count": 474,
   "items": [
+    {
+      "id": "mkt:01a0124e-bef2-7aab-906b-4718c52d7f0c",
+      "time": "2026-08-18 08:39:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nine ministries including MOFCOM push to expand premium goods supply, back NEVs and green products for rural markets】MOFCOM and eight other ministries issued guidance to boost county-level consumption, directing firms to expand supply of higher-quality/higher-priced goods into county markets and, where conditions permit, launch new products in counties simultaneously to promote urban-rural parity of models and quality. The guidance urges development of products tailored to county consumption and supports trade/distribution firms building flexible supply chains via own-brand and demand-driven production. It also calls for strong support for new-energy vehicles, green smart products and green building materials going to rural areas and for expansion of rural charging infrastructure coverage."
+    },
+    {
+      "id": "5044905",
+      "time": "2026-08-18 08:37:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4490美元/盎司，日內漲0.36%。"
+    },
+    {
+      "id": "5044904",
+      "time": "2026-08-18 08:37:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：預計三季度銀行板塊基本面預期穩定，全年絕對收益空間仍將延續】中信證券研報表示，二季度監管資料顯示，上市銀行息差表現樂觀，資產質量穩定，資本持續夯實，盈利增速企穩回升。7月金融資料一方面具備季節性特徵，另一方面對映實體K型加劇。投資視角看，銀行板塊7-8月受市場風格影響，前期流入的彈性資金已經大幅流出，指數反彈後回撥，上週表現開始走穩。下週開始進入財報季，上市銀行經營格局穩定，盈利增速小幅修復，基本面超預期空間不大，隱含板塊表現短時仍將保持低波格局。展望三季度，預計盈利趨勢仍保持穩定，宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益空間仍將延續。"
+    },
+    {
+      "id": "5044903",
+      "time": "2026-08-18 08:36:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部等9部門：發展承載地方文化的小店、老字號、作坊式品牌，支援國貨潮品下沉縣域市場】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導連鎖企業加速下沉。促進本地品牌守正創新。發展承載地方文化的小店、老字號、作坊式品牌，支援國貨潮品下沉縣域市場。分級打造中國消費名品方陣。支援縣域本土品牌與連鎖品牌跨界聯名。深入實施農業品牌精品培育計劃，最佳化農業品牌目錄體系。深化廣告助農行動，支援優質廣告資源下沉。進一步最佳化縣域“個轉企”證照聯辦等審批流程。因地制宜發展新興業態。鼓勵有條件的地方發展虛擬現實、沉浸式體驗、“人工智慧+消費”等，推廣二手交易、商品租賃等綠色消費模式。深化實施促進健康消費專項行動。創新一二三產業融合的消費鏈條。"
+    },
+    {
+      "id": "mkt:01a0124b-d016-7aab-906b-3fa02c667ef0",
+      "time": "2026-08-18 08:35:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI jumped 3.00% intraday to 7,188.14."
+    },
+    {
+      "id": "mkt:01a0124b-cfbf-7aab-906b-309471a640a2",
+      "time": "2026-08-18 08:35:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MOFCOM and eight ministries urge local development of VR, immersive experiences and AI+consumption】MOFCOM and eight other ministries issued guidance to boost county-level consumption, urging eligible localities to develop emerging formats such as virtual reality, immersive experiences and AI+consumption; promote green consumption models including second-hand trading and goods rental; deepen a special campaign to expand health-related consumption; and foster integrated consumption chains across primary, secondary and tertiary industries."
+    },
+    {
+      "id": "5044902",
+      "time": "2026-08-18 08:35:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國創中心成功完成全新端側AI推理晶片的深度效能測試】近日，國家新能源汽車技術創新中心（簡稱“國創中心”）成功完成對原粒（北京）半導體技術有限公司（簡稱“原粒半導體”）全新端側AI推理晶片的深度效能測試。標誌著國創中心在端側應用評估體系建設與下一代人工智慧及AI基礎設施佈局上取得關鍵突破，加速AI及機器人晶片的場景賦能。"
+    },
+    {
+      "id": "5044901",
+      "time": "2026-08-18 08:35:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部等9部門：引導連鎖企業加速下沉 不得對連鎖企業跨區域經營設定顯性隱性障礙】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導連鎖企業加速下沉。對開辦超市、便利店等簡化審批流程，推進“高效辦成一件事”。在符合條件的同一縣域地區推行連鎖企業和商貿個體工商戶“一照多址”。規範和最佳化消防、市場監管等領域審批流程。鼓勵國有物業適度延長商業專案租賃期限。不得對連鎖企業跨區域經營設定顯性隱性障礙。"
+    },
     {
       "id": "5044900",
       "time": "2026-08-18 08:34:29",
