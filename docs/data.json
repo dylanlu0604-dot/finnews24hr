@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-18 12:22:34",
+  "updated": "2026-08-18 12:26:29",
   "count": 15259,
   "items": [
+    {
+      "id": "5045222",
+      "time": "2026-08-18 12:24:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "中通快遞-W(02057)釋出公告，於2026年8月17日斥資499.56萬美元回購21.84萬股。"
+    },
+    {
+      "id": "mkt:01a0131c-b523-7aab-906e-f8e3a191eb31",
+      "time": "2026-08-18 12:24:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $65.12/oz."
+    },
+    {
+      "id": "5045221",
+      "time": "2026-08-18 12:23:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海數字化管控樞紐計程車 “限制名單”機制成效顯著】計程車營運服務直接關乎城市視窗形象。為整治樞紐計程車各類違規亂象，上海推出樞紐“限制名單”自律管理機制。自5月10日實施以來，上海各大交通樞紐計程車拒載類事件下降近五成。樞紐限制名單自律管理機制規定，在上海浦東國際機場、上海虹橋國際機場、鐵路上海虹橋站運營的巡遊計程車及駕駛員，若存在拒載、中途拋客、騙取短途補償等違規行為，將被納入限制名單。首次違規，限制進入上海浦東國際機場、上海虹橋國際機場、鐵路上海虹橋站3個月；第二次違規，限制上述樞紐6個月；第三次違規，永久禁止進入上述樞紐運營。（央視）"
+    },
+    {
+      "id": "5045220",
+      "time": "2026-08-18 12:23:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報65.10美元/盎司。"
+    },
     {
       "id": "5045218",
       "time": "2026-08-18 12:21:57",
@@ -139782,38 +139817,6 @@
         "市場"
       ],
       "text": "【申萬宏源：重視鋼鐵行業積極變化 頭部企業具備不錯向上彈性】申萬宏源釋出研報稱，當前鋼鐵行業基本面、估值、機構持倉均處於底部區域，重視行業積極變化。行業兼併重組也有望推動未來集中度的提升，預計供給格局整體將有所最佳化。該行預計後續鐵礦石價格中樞回落，推動鋼企利潤修復。綜合來看，當前週期底部情況下，頭部企業整體利潤均有一定支撐，且成本改善預期下，也有不錯向上彈性。"
-    },
-    {
-      "id": "mkt:019fef12-0172-7aab-8fe6-180d7b23331f",
-      "time": "2026-08-11 12:26:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Doubao PR says hotel commission not an advertising fee, does not affect recommendation ranking】Douyin Life Services has set an independent rate for the Doubao channel's hotel orders: a software service fee of 11.4% plus a 0.6% payment fee, totaling 12%. After online debate over whether this is a fee for hotel recommendations or advertising, Doubao PR head Liu Xing said Doubao Life Services currently has no paid-promotion program; recommended hotels are not charged advertising fees; merchants cannot pay to influence recommendations or ranking; channel service fees are payable only after an order is completed."
-    },
-    {
-      "id": "5035020",
-      "time": "2026-08-11 12:25:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "據塔斯社：俄羅斯共青城煉油廠發生火災；共青城煉油廠未停止運營。"
-    },
-    {
-      "id": "5035019",
-      "time": "2026-08-11 12:23:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司物流與航運事業部（ADNOC L&S）確認其中期展望維持樂觀。"
-    },
-    {
-      "id": "5035018",
-      "time": "2026-08-11 12:22:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將eBay目標價從75美元上調至80美元。"
     }
   ]
 }
