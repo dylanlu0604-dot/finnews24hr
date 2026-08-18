@@ -1,7 +1,31 @@
 {
   "date": "2026-08-19",
-  "count": 294,
+  "count": 297,
   "items": [
+    {
+      "id": "5046507",
+      "time": "2026-08-19 05:25:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。"
+    },
+    {
+      "id": "mkt:01a016c4-2e98-7aab-9082-f188f100edb5",
+      "time": "2026-08-19 05:25:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations."
+    },
+    {
+      "id": "5046506",
+      "time": "2026-08-19 05:25:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。"
+    },
     {
       "id": "mkt:01a016be-060b-7aab-9082-e941797db2d1",
       "time": "2026-08-19 05:19:07",
