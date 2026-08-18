@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-19 07:48:12",
-  "count": 15125,
+  "updated": "2026-08-19 07:52:12",
+  "count": 15126,
   "items": [
+    {
+      "id": "5046608",
+      "time": "2026-08-19 07:50:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月核心機械訂單同比 16.9%，預期 9.6%，前值 -1.9%。日本6月核心機械訂單環比 9.7%，預期 7.2%，前值 -12.4%。"
+    },
+    {
+      "id": "mkt:01a01748-484f-7aab-9083-c697b12f85e0",
+      "time": "2026-08-19 07:50:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan June core machinery orders +9.7% MoM vs 7.8% est; prior -12.4%."
+    },
+    {
+      "id": "mkt:01a01748-45b0-7aab-9083-bbd79f91c938",
+      "time": "2026-08-19 07:50:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan core machinery orders YoY (June) +16.9% vs consensus 10.8%; prior -1.9%."
+    },
+    {
+      "id": "mkt:01a01748-2ae3-7aab-9083-b78f66ce2551",
+      "time": "2026-08-19 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (YoY) (Jun) | actual 16.9% | consensus 10.8% | previous -1.90%"
+    },
+    {
+      "id": "mkt:01a01748-2add-7aab-9083-aaafa1a78cc1",
+      "time": "2026-08-19 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (MoM) (Jun) | actual 9.7% | consensus 7.80% | previous -12.40%"
+    },
+    {
+      "id": "5046607",
+      "time": "2026-08-19 07:49:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【重大突破！我國首次實現火箭陸地回收】今天（8月19日），朱雀三號遙二運載火箭在東風商業航天創新試驗區發射升空，火箭一子級按預定程式成功著陸於甘肅省民勤縣朱雀三號著陸場坪。這是我國在重複使用火箭關鍵技術上取得的又一重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。（央視）"
+    },
+    {
+      "id": "5046606",
+      "time": "2026-08-19 07:48:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週35只新基金啟動發行】本週（8月17日至8月23日）全市場共有35只新基金啟動募集，涉及廣發基金、天弘基金、易方達基金、招商基金、富國基金、銀華基金、匯添富基金、南方基金、鵬華基金等多家基金公司。"
+    },
     {
       "id": "5046605",
       "time": "2026-08-19 07:46:42",
@@ -138569,67 +138643,6 @@
         "Important"
       ],
       "text": "Japan | M2 Money Supply (YoY) (Jul) | actual 2.2% | previous 2.20%"
-    },
-    {
-      "id": "mkt:019ff33d-5c8b-7aab-8ffb-fd3522ea593c",
-      "time": "2026-08-12 07:51:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's 5-year government bond yield rose 1.5 bps to 2.10%, a record high."
-    },
-    {
-      "id": "5036492",
-      "time": "2026-08-12 07:51:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608123838460672",
-      "time": "2026-08-12 07:51:12",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月M2貨幣供應同比增長2.2%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608123838315231",
-      "time": "2026-08-12 07:51:10",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月CPI即將揭曉 美聯儲加息預期再迎考驗】北京時間8月12日20時30分，美國勞工部將公佈7月消費者價格指數（CPI）。市場預計，美國整體CPI和核心CPI同比增速均將繼續回落，但環比增速可能由負轉正。市場人士認為，就業降溫降低了美聯儲加息的緊迫性，但美國失業率仍處於低位，能源價格和人工智慧投資帶來的通脹風險也未完全消退。相較於單月就業人數的變化，未來兩份通脹報告以及美聯儲主席凱文·沃什的政策風格可能更直接影響美聯儲9月的政策選擇。"
-    },
-    {
-      "id": "mkt:019ff33b-a032-7aab-8ffb-f451e44218c9",
-      "time": "2026-08-12 07:49:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Huatai Securities: lithium peak season may support commodity and equity recovery】Huatai Securities said a prior drag on lithium prices reflected hidden inventories becoming visible and uncertainty about next-year demand. It expects H2 2026 cancellation of export tax rebates to front‑load demand, and seasonal peak demand to support a lithium-price rebound. Under a neutral 2027 scenario (global EV sales +10–15% YoY; energy‑storage cell shipments +30–40% YoY), global lithium carbonate supply‑demand is likely to remain tight and roughly balanced. The firm notes recent share-price pullbacks may already embed pessimistic lithium-price expectations and flags potential seasonal recovery opportunities in commodities and equities."
-    },
-    {
-      "id": "5036491",
-      "time": "2026-08-12 07:49:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐哥倫比亞使館提醒中國公民非必要不前往受災區域】截至目前，哥倫比亞7.4級強震已造成逾二百人死亡和大量財產損失，哥政府宣佈進入“國家災難狀態”。喬科省、考卡山谷省、裡薩拉爾達省和卡爾達斯省的部分地區和城市受災最為嚴重，哥地質局提醒餘震可能持續數日甚至數週。中國駐哥倫比亞使館提醒在哥和擬來哥中國同胞非必要不前往上述區域，建議跟進相關資訊，並在“中國領事”APP完成“海外公民登記”，以便使館掌握資訊，及時提供領事保護與協助。如遇緊急情況，請及時報警並聯系中國駐哥倫比亞使館尋求協助。（ 中國駐哥倫比亞使館  ）"
     }
   ]
 }
