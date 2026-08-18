@@ -1,7 +1,40 @@
 {
   "date": "2026-08-19",
-  "count": 319,
+  "count": 323,
   "items": [
+    {
+      "id": "5046528",
+      "time": "2026-08-19 06:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI第二季度營收67億美元。"
+    },
+    {
+      "id": "mkt:01a016f7-96d4-7aab-9083-11087153352f",
+      "time": "2026-08-19 06:21:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources say ANTHROPIC is expected to launch an IPO process within weeks."
+    },
+    {
+      "id": "5046527",
+      "time": "2026-08-19 06:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI向投資者表示，第三季度業務增長已經提速。"
+    },
+    {
+      "id": "5046526",
+      "time": "2026-08-19 06:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic（二季度）營收較一季度實現翻倍以上增長。"
+    },
     {
       "id": "5046525",
       "time": "2026-08-19 06:20:15",
