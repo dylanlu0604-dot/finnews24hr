@@ -1,7 +1,71 @@
 {
   "date": "2026-08-18",
-  "count": 971,
+  "count": 978,
   "items": [
+    {
+      "id": "mkt:01a01342-30d5-7aab-906f-6c4acedb717b",
+      "time": "2026-08-18 13:04:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Indonesia's planned commodity exchange likely to cover palm oil, nickel and coal】Indonesia plans to launch a \"minerals and strategic commodities\" exchange expected to include crude palm oil (CPO), nickel and coal, the presidential spokesman said. The government is preparing the exchange and plans an official launch on Jan. 1 next year. As Southeast Asia's largest economy, Indonesia is the world's largest exporter of CPO, thermal coal and nickel and a major supplier of coffee, bauxite, tin and copper. Spokesman Prasetyo Hadi said authorities are finalizing implementation details, including which commodities will trade, and that the exchange will \"certainly\" cover core products such as CPO, nickel and coal. Indonesia Financial Services Authority (OJK) chair Friderica Widyasari Dewi said OJK will issue regulatory rules for the exchange by Sept. 17."
+    },
+    {
+      "id": "5045250",
+      "time": "2026-08-18 13:03:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崑崙萬維釋出AI音樂生成模型Mureka V9.5】8月18日，崑崙萬維正式釋出新一代AI音樂生成模型MurekaV9.5。MurekaV9.5現已在全平臺陸續開放。"
+    },
+    {
+      "id": "te:markets:575995",
+      "time": "2026-08-18 13:03:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Softens as BI Policy Meeting Kicks Off — The Indonesian rupiah edged lower to around IDR 17,850 per U.S. dollar on Tuesday, following a muted session in the prior day. Sentiment remained cautious as Bank Indonesia began its two-day policy meeting, with the interest rate decision due Wednesday. The central bank is widely expected to keep its policy rate unchanged under acting Governor Destry Damayanti, after delivering a cumulative 100bps of hikes since May. Focus also shifted to the upcoming Q2 current account data, with the Q1 deficit reaching its widest level since 2019 amid weaker trade performance. Still, weakness was partly cushioned by fiscal optimism after President Prabowo indicated resilient GDP growth next year, while the government vowed to build a fiscal buffer and bolster investor confidence. Externally, the dollar index slipped to a near two-month low as traders pared back expectations for further Fed tightening this year amid softer U.S. economic data."
+    },
+    {
+      "id": "5045249",
+      "time": "2026-08-18 13:03:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股光伏裝置板塊午後拉昇，邁為股份漲超12%，捷佳偉創、聚和材料、拉普拉斯、華民股份、TCL中環等漲幅居前。"
+    },
+    {
+      "id": "mkt:01a01340-70d3-7aab-906f-61c42a36d749",
+      "time": "2026-08-18 13:03:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Erdogan, Trump hold phone call; urge diplomatic solution to U.S.-Iran tensions】Turkey’s presidential office said on the 18th that President Erdogan and U.S. President Trump held a telephone call in which both urged a diplomatic resolution to tensions between the United States and Iran. The office said Erdogan stressed the need for diplomacy, expressed hope the parties would continue dialogue and pledged Turkey’s support for peace efforts; the leaders also exchanged views on Turkey‑U.S. bilateral ties and regional issues. Erdogan said Turkey has signed a joint defense agreement with Pakistan and Saudi Arabia, describing it as a commitment to regional stability and security. He added Turkey will continue to support measures aimed at a lasting peace in Gaza and reconstruction there."
+    },
+    {
+      "id": "mkt:01a01340-6087-7aab-906f-5e3345599a0a",
+      "time": "2026-08-18 13:03:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【JASDF F-15 suspected malfunction at Naha Airport; runway closed】Local time on the 18th, an F-15 of the Japan Air Self-Defense Force is suspected to have suffered a landing-gear fault and remained parked at Naha Airport, Okinawa. One runway at Naha Airport has been closed."
+    },
+    {
+      "id": "5045248",
+      "time": "2026-08-18 13:01:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃爾多安與特朗普通話呼籲外交解決美伊問題】土耳其總統府新聞局18日發表宣告說，土總統埃爾多安與美國總統特朗普通電話，呼籲外交解決美國和伊朗之間的問題。 宣告說，埃爾多安強調了在伊朗與美國緊張局勢中充分發揮外交作用的重要性，表達了土耳其希望雙方繼續對話的願望，並表示土耳其將繼續支援各項和平努力。 宣告說，雙方還就土美雙邊關係及地區問題交換了意見。埃爾多安表示，土耳其與巴基斯坦、沙烏地阿拉伯簽署共同防務協議，表明了確保地區穩定與安全的堅定立場。談及加沙局勢，他表示，土耳其將繼續支援為實現該地區持久和平以及加沙重建所採取的各項舉措。 美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿。(新華社)"
+    },
     {
       "id": "5045247",
       "time": "2026-08-18 13:00:25",
