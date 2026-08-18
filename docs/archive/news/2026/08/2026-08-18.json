@@ -1,7 +1,23 @@
 {
   "date": "2026-08-18",
-  "count": 966,
+  "count": 968,
   "items": [
+    {
+      "id": "mkt:01a0133a-fdb2-7aab-906f-531e1a0a7f50",
+      "time": "2026-08-18 12:57:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy minister of agriculture said that despite wartime price increases, supplies of basic commodities have not faced shortages."
+    },
+    {
+      "id": "5045244",
+      "time": "2026-08-18 12:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自衛隊一戰機機翼觸地】今天（8月18日），日本航空自衛隊一架F-15J戰鬥機“疑似發生故障”，長時間停在那霸機場的跑道上。從現場畫面來看，機身左翼與地面發生接觸。據稱該戰機起落架可能發生故障。受此影響，機場已關閉事發跑道。（CCTV國際時訊）"
+    },
     {
       "id": "5045242",
       "time": "2026-08-18 12:51:49",

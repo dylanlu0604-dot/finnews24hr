@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 12:53:47",
+  "updated": "2026-08-18 12:57:43",
   "count": 15200,
   "items": [
+    {
+      "id": "mkt:01a0133a-fdb2-7aab-906f-531e1a0a7f50",
+      "time": "2026-08-18 12:57:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy minister of agriculture said that despite wartime price increases, supplies of basic commodities have not faced shortages."
+    },
+    {
+      "id": "5045244",
+      "time": "2026-08-18 12:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自衛隊一戰機機翼觸地】今天（8月18日），日本航空自衛隊一架F-15J戰鬥機“疑似發生故障”，長時間停在那霸機場的跑道上。從現場畫面來看，機身左翼與地面發生接觸。據稱該戰機起落架可能發生故障。受此影響，機場已關閉事發跑道。（CCTV國際時訊）"
+    },
     {
       "id": "5045242",
       "time": "2026-08-18 12:51:49",
@@ -139243,26 +139259,6 @@
         "國際"
       ],
       "text": "【特朗普稱美國百分百控制霍爾木茲海峽 霍爾木茲海峽通行量持續低迷】美國總統特朗普10日表示，美國“百分百”控制霍爾木茲海峽。特朗普稱霍爾木茲海峽“航道暢通”，“目前唯一掌控霍爾木茲海峽的是美國海軍”。他還說，美軍對伊朗實施海上封鎖，只允許那些美方“想放行的船隻透過”。但他同時承認，霍爾木茲海峽“情況有點複雜”，伊朗“會投放水雷”；不過，他還稱美軍已對整個海峽進行了掃雷。 美國有線電視新聞網10日援引船舶追蹤機構克普勒公司的資料包道，過去一週霍爾木茲海峽的通行量一直處於“低迷”狀態，並“在週末進一步減弱”。透過該海峽的船隻7日為15艘，8日降至11艘，9日則降至6艘。 此前伊朗方面表示，如果美國不改變其行為，霍爾木茲海峽將維持關閉狀態，重開霍爾木茲海峽的前提是美國滿足伊朗全部條件。（央視財經）"
-    },
-    {
-      "id": "5035063",
-      "time": "2026-08-11 12:57:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北襄陽35座水庫超汛限 9705人轉移避險】記者今天從襄陽市水利部門獲悉，自8月10日20時起，襄陽市自東向西逐漸出現降雨，東部中到大雨、區域性暴雨，平均降雨15.5毫米，最大降雨為棗陽市白竹園寺站82.7毫米。截至11日上午9時，襄陽市江河水位水勢較為平穩，有35座水庫超汛限，已累計轉移避險9705人。"
-    },
-    {
-      "id": "mkt:019fef2c-ea01-7aab-8fe7-6810bbf677d0",
-      "time": "2026-08-11 12:55:25",
-      "tags": [
-        "MKT News",
-        "GM.N",
-        "Impact bearish",
-        "006400.KS",
-        "Impact bullish"
-      ],
-      "text": "【Sources: GM to sell 50% stake in Indiana battery JV to Samsung SDI】Foreign media report GM will sell its 50% stake in a planned Indiana EV battery joint venture to partner Samsung SDI. Samsung SDI will acquire the 680-acre site, take control of the JV and own the planned battery plant in New Carlisle, Indiana. GM's exit from battery manufacturing is its latest strategic shift after EV demand fell short of expectations. People familiar say it is unclear how Samsung SDI will operate or dispose of the plant."
     }
   ]
 }
