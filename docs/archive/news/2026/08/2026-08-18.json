@@ -1,7 +1,25 @@
 {
   "date": "2026-08-18",
-  "count": 891,
+  "count": 893,
   "items": [
+    {
+      "id": "mkt:01a01304-b2a8-7aab-906e-985b152664fa",
+      "time": "2026-08-18 11:57:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS cut Marvell Technology (MRVL.O) target price to $300 from $340, maintaining a Buy rating."
+    },
+    {
+      "id": "mkt:01a01303-e559-7aab-906e-90a74332ad97",
+      "time": "2026-08-18 11:56:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Minde Electronics says wafer capacity to start material ramp from Q4 into 1H next year】Chinese chip-equipment supplier Minde Electronics said at an earnings briefing it has signed contracts to expand wafer capacity to 60,000 wafers/month, with some equipment already on-site, and is negotiating further orders to target 100,000 wafers/month. The company expects wafer-fab capacity to be materially released from Q4 and into 1H next year, timing contingent on equipment delivery and commissioning."
+    },
     {
       "id": "5045190",
       "time": "2026-08-18 11:52:35",
