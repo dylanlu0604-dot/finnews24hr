@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 05:20:50",
-  "count": 15118,
+  "updated": "2026-08-19 05:24:43",
+  "count": 15114,
   "items": [
     {
       "id": "mkt:01a016be-060b-7aab-9082-e941797db2d1",
@@ -138574,38 +138574,6 @@
         "SPCX.O"
       ],
       "text": "An SEC filing shows BlueCat Capital held 1.4 mln Class A common shares of SpaceX (SPCX.O) as of June 30, 2026."
-    },
-    {
-      "id": "5036400",
-      "time": "2026-08-12 05:24:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦CFO：第四季度毛利率環比改善，源於客戶與產品組合好於預期，同時部分合同遞延至 27 財年第一季度。"
-    },
-    {
-      "id": "mkt:019ff2b4-933c-7aab-8ffb-308e2509ba73",
-      "time": "2026-08-12 05:22:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Medicaid will no longer fund gender-confirmation surgeries or hormone treatments for minors."
-    },
-    {
-      "id": "5036399",
-      "time": "2026-08-12 05:22:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：醫療補助計劃將不再為未成年人的性別重置手術及激素治療提供資金。"
-    },
-    {
-      "id": "5036398",
-      "time": "2026-08-12 05:22:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "CoreWeave 執行長：預計國際市場將成為主要增長驅動力。"
     }
   ]
 }
