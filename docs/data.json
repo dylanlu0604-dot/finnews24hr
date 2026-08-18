@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-18 21:51:29",
-  "count": 15157,
+  "updated": "2026-08-18 21:55:29",
+  "count": 15155,
   "items": [
+    {
+      "id": "5046210",
+      "time": "2026-08-18 21:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀表示，英偉達被低估，當前股價可能折價高達50%。"
+    },
+    {
+      "id": "5046209",
+      "time": "2026-08-18 21:52:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "新斯科舍省發行4億加元2036年到期債券，股價上漲45.5%。"
+    },
+    {
+      "id": "te:markets:576174",
+      "time": "2026-08-18 21:52:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Rising Yields and Geopolitical Risks — The S&P/TSX Composite Index edged lower to trade arround 36,500 on Tuesday amid rising global bond yields and continued uncertainty in the Middle East. Oil prices gained as hopes of a US-Iran peace deal faded, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, pressuring financials and the broader market. RBC and TD Bank shed nearly 1% each, while BMO, Scotiabank and CIBC lost more than 0.5%. Gold prices slipped, weighing on mining stocks. Barrick lost about 0.5%, WPM fell nearly 2%, and Franco-Nevada shed more than 1%. Elsewhere, NexGen Energy (-3.5%) is sharing information and “talking regularly” with mining giant BHP about its Rook I mining project in Saskatchewan, CEO Leigh Curyer said when asked about a potential equity stake. On the data front, home sales rose less than expected in July. Separately, Canada faces a new round of 50% US tariffs this week, with negotiators from the two countries still far from reaching a draft trade deal."
+    },
+    {
+      "id": "5046208",
+      "time": "2026-08-18 21:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江人形機器人創新中心釋出“協同進化論”】浙江人形機器人創新中心釋出“協同進化論”實踐路徑，提出以智慧演算法、硬體本體與開發工具鏈三者協同聯動，推動人形機器人從演示場景邁向規模化實際作業。"
+    },
     {
       "id": "5046207",
       "time": "2026-08-18 21:50:32",
@@ -138988,60 +139024,6 @@
         "XAUUSD"
       ],
       "text": "U.S. President Trump said the war is intended to prevent Iran from acquiring nuclear weapons."
-    },
-    {
-      "id": "mkt:019ff11a-fe93-7aab-8ff3-e52f0a913258",
-      "time": "2026-08-11 21:55:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Trump said if the U.S. does not strike Iran, Iran will acquire nuclear weapons."
-    },
-    {
-      "id": "mkt:019ff11a-9539-7aab-8ff3-dd07911f4b23",
-      "time": "2026-08-11 21:54:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market note: US President Trump said oil prices are lower than under Biden's presidency."
-    },
-    {
-      "id": "5036099",
-      "time": "2026-08-11 21:53:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據美國紐約聯儲資料，上個交易日（8月10日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
-    },
-    {
-      "id": "5036098",
-      "time": "2026-08-11 21:53:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報告：上半年全球自然災害所致經濟損失達千億美元】全球最大再保險公司之一瑞士再保險公司8月11日說，今年上半年全球自然災害造成的經濟損失據估算已達1000億美元，較去年同期的1520億美元大幅減少。但今年下半年，厄爾尼諾現象可能會加劇氣象災害的破壞力，風險不容忽視。（新華社）"
-    },
-    {
-      "id": "5036097",
-      "time": "2026-08-11 21:53:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空事故調查機構表示，法國航空事故調查局（BEA）將持續提供必要技術援助。"
-    },
-    {
-      "id": "5036096",
-      "time": "2026-08-11 21:52:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及衛生部11日發表宣告說，該國東北部當天發生一起交通事故，造成至少15人死亡。（新華社）"
     }
   ]
 }

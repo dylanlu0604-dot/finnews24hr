@@ -1,7 +1,43 @@
 {
   "date": "2026-08-18",
-  "count": 2420,
+  "count": 2424,
   "items": [
+    {
+      "id": "5046210",
+      "time": "2026-08-18 21:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀表示，英偉達被低估，當前股價可能折價高達50%。"
+    },
+    {
+      "id": "5046209",
+      "time": "2026-08-18 21:52:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "新斯科舍省發行4億加元2036年到期債券，股價上漲45.5%。"
+    },
+    {
+      "id": "te:markets:576174",
+      "time": "2026-08-18 21:52:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Rising Yields and Geopolitical Risks — The S&P/TSX Composite Index edged lower to trade arround 36,500 on Tuesday amid rising global bond yields and continued uncertainty in the Middle East. Oil prices gained as hopes of a US-Iran peace deal faded, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, pressuring financials and the broader market. RBC and TD Bank shed nearly 1% each, while BMO, Scotiabank and CIBC lost more than 0.5%. Gold prices slipped, weighing on mining stocks. Barrick lost about 0.5%, WPM fell nearly 2%, and Franco-Nevada shed more than 1%. Elsewhere, NexGen Energy (-3.5%) is sharing information and “talking regularly” with mining giant BHP about its Rook I mining project in Saskatchewan, CEO Leigh Curyer said when asked about a potential equity stake. On the data front, home sales rose less than expected in July. Separately, Canada faces a new round of 50% US tariffs this week, with negotiators from the two countries still far from reaching a draft trade deal."
+    },
+    {
+      "id": "5046208",
+      "time": "2026-08-18 21:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江人形機器人創新中心釋出“協同進化論”】浙江人形機器人創新中心釋出“協同進化論”實踐路徑，提出以智慧演算法、硬體本體與開發工具鏈三者協同聯動，推動人形機器人從演示場景邁向規模化實際作業。"
+    },
     {
       "id": "5046207",
       "time": "2026-08-18 21:50:32",
