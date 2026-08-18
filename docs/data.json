@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-19 04:10:04",
-  "count": 15107,
+  "updated": "2026-08-19 04:13:56",
+  "count": 15106,
   "items": [
+    {
+      "id": "te:markets:576227",
+      "time": "2026-08-19 04:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Keysight Technologies earnings above expectations at 3.07 USD — Keysight Technologies (KEYS) released earnings per share at 3.07 USD, compared to market expectations of 2.48 USD."
+    },
+    {
+      "id": "mkt:01a0167f-79a7-7aab-9081-d236aa97b080",
+      "time": "2026-08-19 04:10:47",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Sources: US-Canada tariff waiver plan submitted to Trump for approval】Sources said the US and Canada have agreed a temporary plan to spare some Canadian goods from proposed 50% tariffs and have submitted it to President Trump for approval. Trump will decide whether tariffs scheduled to take effect at midnight local time on Aug. 19 are implemented. Negotiators held intensive talks; the US is seeking removal of Canadian retaliatory measures on autos and alcohol and changes to dairy supply management, while Canada wants lower US tariffs on autos and other goods. Officials hope a limited deal could pave the way for broader USMCA talks, but auto tariffs remain the core dispute. If imposed, the measures would affect only part of bilateral trade but could jeopardize negotiations covering nearly $1tn in US‑Canada goods and services. Canadian Prime Minister Carney faces domestic political risk from concessions; US tariff action could add pre-midterm economic pressure in swing states such as Maine and Michigan."
+    },
+    {
+      "id": "te:markets:576226",
+      "time": "2026-08-19 04:10:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Slide on Chipmaker Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers and elevated bond yields. The S&P 500 fell 0.7%, the Nasdaq lost 1.7% and the Dow shed 116 points. Long-term yields slipped from recent peaks but remained near multi-year highs as inflation risks and surging bond issuance by AI companies fueled uncertainty over term premia. Inflation concerns were magnified by further increases in energy prices as the US signaled a prolonged blockade of Iranian tanker exports. Chipmakers tied to the AI trade posted sharp losses, with Nvidia down 2.3%, Broadcom shedding 3.2%, Micron losing 7% and AMD retreating 4.3%. Intel tumbled 6.6%, while Sandisk sank 9%. Other major AI companies also closed lower, with Meta losing 4.4%, Tesla down 0.7% and Oracle shedding 2.7%. Credit-sensitive financial stocks came under pressure, with Goldman Sachs (-1%) and Citigroup (-0.6%) closing lower. Home Depot shed 0.1% despite beating earnings estimates amid elevated borrowing and housing costs."
+    },
     {
       "id": "mkt:01a0167d-6a8f-7aab-9081-ca207c66ce2d",
       "time": "2026-08-19 04:08:33",
@@ -138455,44 +138492,6 @@
         "市場"
       ],
       "text": "Firefly Aerospace二季度營收1.177億美元，上年同期虧損0.155億美元。\n二季度調整後EBITDA虧損0.612億美元，分析師預期虧損0.479億美元。\n二季度每股虧損0.57美元，上年同期虧損5.78美元。\nFirefly美股盤後跌3.6%。"
-    },
-    {
-      "id": "te:markets:574511",
-      "time": "2026-08-12 04:13:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "CoreWeave earnings below expectations at -1.14 USD — CoreWeave (CRWV) released earnings per share at -1.14 USD, compared to market expectations of 0.03 USD."
-    },
-    {
-      "id": "5036376",
-      "time": "2026-08-12 04:11:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至 6 月 30 日，CoreWeave 營收待交付訂單約 1040 億美元。"
-    },
-    {
-      "id": "mkt:019ff273-539f-7aab-8ffa-53635766626c",
-      "time": "2026-08-12 04:11:12",
-      "tags": [
-        "MKT News",
-        "ORCL.O",
-        "Impact mixed"
-      ],
-      "text": "Business Insider reports Oracle may cut headcount in some business teams by double-digit percentages."
-    },
-    {
-      "id": "5036375",
-      "time": "2026-08-12 04:10:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoreWeave二季度營收25.8億美元，分析師預期25.6億美元。"
     }
   ]
 }
