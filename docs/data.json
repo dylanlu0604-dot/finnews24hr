@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-19 04:13:56",
-  "count": 15106,
+  "updated": "2026-08-19 04:17:45",
+  "count": 15107,
   "items": [
+    {
+      "id": "mkt:01a01683-c9bb-7aab-9081-e487c022f8ab",
+      "time": "2026-08-19 04:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry said the decision was taken against a backdrop of regional escalation that \"undermines regional and international peace and security\"."
+    },
+    {
+      "id": "5046480",
+      "time": "2026-08-19 04:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部宣告稱，鑑於地區局勢升級\"破壞地區及國際和平與安全\"，故作出此決定。"
+    },
+    {
+      "id": "mkt:01a01682-f528-7aab-9081-dee17a6efd8c",
+      "time": "2026-08-19 04:14:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UAE foreign ministry said it is suspending all commercial activity and financial transactions with Iran until further notice."
+    },
+    {
+      "id": "5046478",
+      "time": "2026-08-19 04:13:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿聯酋外交部宣告稱，直至另行通知前，阿聯酋已全面停止與伊朗的所有貿易、商業往來及金融交易。"
+    },
     {
       "id": "te:markets:576227",
       "time": "2026-08-19 04:11:44",
@@ -138462,36 +138500,6 @@
         "其他"
       ],
       "text": "通用汽車將在貸款協議中鎖定至多45億美元供應商庫存，以防供應紊亂。"
-    },
-    {
-      "id": "mkt:019ff278-02a5-7aab-8ffa-63c3dcdab45b",
-      "time": "2026-08-12 04:16:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister for U.S.-Canada trade LeBlanc met U.S. Trade Representative Greer in Washington on Tuesday and said Canada remains committed to negotiations and will continue to press and defend Canadian interests."
-    },
-    {
-      "id": "mkt:019ff276-bac0-7aab-8ffa-5e9e6ae88c1f",
-      "time": "2026-08-12 04:14:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. stocks closed lower on Tuesday, Aug. 11: Dow Jones Industrial Average fell 184.07 points (-0.34%) to 53,791.91; S&P 500 down 25.00 points (-0.32%) to 7,728.11; Nasdaq Composite declined 159.91 points (-0.60%) to 26,445.45."
-    },
-    {
-      "id": "5036377",
-      "time": "2026-08-12 04:14:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "Firefly Aerospace二季度營收1.177億美元，上年同期虧損0.155億美元。\n二季度調整後EBITDA虧損0.612億美元，分析師預期虧損0.479億美元。\n二季度每股虧損0.57美元，上年同期虧損5.78美元。\nFirefly美股盤後跌3.6%。"
     }
   ]
 }

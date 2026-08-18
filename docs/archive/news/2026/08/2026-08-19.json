@@ -1,7 +1,45 @@
 {
   "date": "2026-08-19",
-  "count": 228,
+  "count": 232,
   "items": [
+    {
+      "id": "mkt:01a01683-c9bb-7aab-9081-e487c022f8ab",
+      "time": "2026-08-19 04:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry said the decision was taken against a backdrop of regional escalation that \"undermines regional and international peace and security\"."
+    },
+    {
+      "id": "5046480",
+      "time": "2026-08-19 04:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部宣告稱，鑑於地區局勢升級\"破壞地區及國際和平與安全\"，故作出此決定。"
+    },
+    {
+      "id": "mkt:01a01682-f528-7aab-9081-dee17a6efd8c",
+      "time": "2026-08-19 04:14:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UAE foreign ministry said it is suspending all commercial activity and financial transactions with Iran until further notice."
+    },
+    {
+      "id": "5046478",
+      "time": "2026-08-19 04:13:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿聯酋外交部宣告稱，直至另行通知前，阿聯酋已全面停止與伊朗的所有貿易、商業往來及金融交易。"
+    },
     {
       "id": "te:markets:576227",
       "time": "2026-08-19 04:11:44",
