@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 07:32:53_
-_本檔包含 3162 則快訊，約 605540 字_
+_更新時間：2026-08-19 07:52:12_
+_本檔包含 3171 則快訊，約 604264 字_
+
+---
+
+### 2026-08-14 12:16:03  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #GS.O
+
+【Goldman in talks to join NVIDIA $500 billion AI financing plan - sources】Goldman Sachs is negotiating with potential investors to participate in NVIDIA’s roughly $500 billion third‑party capital raise for AI infrastructure, people familiar with the matter said. Sources said U.S. insurers, asset managers and banks are expected to form the core investor group, and asset managers plan to take a large share. NVIDIA on Aug. 10 said it had partnered with six major financial firms, including Goldman, to launch a computing platform aimed at raising over $500 billion for AI infrastructure. One source said Goldman Asset Management could supply subordinated capital and private credit, while Goldman’s investment banking arm could help allocate debt to private credit funds and ultimately into the public bond market.
+
+---
+
+### 2026-08-14 12:15:12  #Trading Economics #Economy #Malaysia #Foreign Direct Investment #Importance 1
+
+Malaysia Q2 FDI Inflows Fall to One-Year Low — Malaysia’s foreign direct investment (FDI) inflows dropped sharply to MYR 7.4 billion in Q2 2026 from MYR 22.8 billion in the previous quarter, marking the lowest level since Q2 2025. The sharp quarterly drop suggested that Malaysia’s FDI performance remained vulnerable to a more cautious global investment environment. By sector, FDI was mainly channelled into services, particularly the information & communication subsector, while manufacturing and construction were the next-largest recipients. Investment was led by China, Hong Kong and Singapore.
+
+---
+
+### 2026-08-14 12:14:45  #其他
+
+【湖南漣源市楊梅山煤礦發生一起瓦斯突出事故 7人失聯】2026年8月14日5時08分，湖南漣源市楊梅山煤礦發生一起瓦斯突出事故。初步查明，當班入井作業人員52人，安全出井44人，失聯7人，1人正在搶救。目前，市縣兩級已組織應急、衛健等相關部門現場開展應急救援處置工作，事故原因正在進一步調查。
+
+---
+
+### 2026-08-14 12:14:33  #市場 #國際
+
+印度盧比兌美元最新報95.40，較前收盤價95.44微幅走強。
+
+---
+
+### 2026-08-14 12:14:29  #央行 #國際
+
+交易員稱，印度央行可能賣出美元以支撐盧比。
+
+---
+
+### 2026-08-14 12:13:16  #MKT News
+
+According to the Financial Times, the head of U.S. asset manager T Rowe Price said reversing large fund outflows will take "several years", as competition from passive investing continues to put downward pressure on fees for active managers.
+
+---
+
+### 2026-08-14 12:12:31  #其他
+
+【淮河防總、淮委針對河南省淮北支流沙潁河、洪汝河水系提升防汛應急響應至二級】目前沙潁河、洪汝河部分河段超警、超保執行，預計高水位行洪仍將維持較長時間，堤防防守壓力大。根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委定於8月14日10時將河南省淮北支流沙潁河、洪汝河水系的防汛應急響應提升至二級、洪水防禦應急響應提升至Ⅱ級。
+
+---
+
+### 2026-08-14 12:11:51  #國際
+
+印尼總統：我決心以高效、改進的方式繼續推行免費餐食計劃。
+
+---
+
+### 2026-08-14 12:11:12  #公司
+
+【原山東鋼鐵集團房地產有限公司董事長王文學接受紀律審查和監察調查】8月14日，莒縣紀委監委通報，原山東鋼鐵集團房地產有限公司黨委書記、董事長、總經理王文學涉嫌嚴重違紀違法，目前正接受山東鋼鐵集團有限公司紀委紀律審查和莒縣監察委員會監察調查。
+
+---
+
+### 2026-08-14 12:10:56  #其他
+
+西聯匯款與INTERMEX將與加州金融保護與創新部接洽，尋求恢復批准。
+
+---
+
+### 2026-08-14 12:10:31  #公司 #國際
+
+【特朗普要五角大樓重振美國艦船工業 】美國白宮網站13日釋出訊息說，總統特朗普當天簽署一份國家安全總統備忘錄，指示國防部重振艦船工業，解決艦船製造和維護方面的長期問題，並恢復產能和競爭力。備忘錄要求國防部以“芬蘭模式”為基礎，對美國造船業的工業基礎加大直接投資。白宮表示，“芬蘭模式”首先被美國海岸警衛隊的中型破冰船專案所採用。根據這一模式，如外國造船商對美國造船廠進行大量持久的投資，且由此創造工作崗位並培訓美國勞動力，那麼這些外國造船商將被暫時允許在其位於美國境外的母公司為美方建造最多兩艘船。這些船將被快速交付以填補空缺，而美國防部訂單中的其他船隻將在“恢復活力”後的美國造船廠建造。備忘錄還指示國防部建立第五座海軍造船廠，以提升潛艇和航空母艦的維修能力。這將是美國80多年來第一次新建海軍造船廠。備忘錄還要求建立一個部件維修中心，以儲存和翻新關鍵的潛艇部件。
+
+---
+
+### 2026-08-14 12:09:53  #公司 #市場 #國際
+
+【京東擴大跌幅至逾10% 此前錄得上市以來首次季度營收下滑】京東周五在香港一度擴大跌幅至逾10%，股價重新整理一個月以來的低點。公司週四釋出的財報顯示第二季度營收下降2.9%，是京東自2014年在美國上市以來首次出現季度營收下滑。截至午間收盤，京東港股(9618 HK)下挫10.08%，報110.60港元；香港恒生指數跌0.9%。
+
+---
+
+### 2026-08-14 12:09:11  #MKT News
+
+Bank Negara Malaysia said El Niño effects typically lag and it expects to see greater impact next year.
+
+---
+
+### 2026-08-14 12:09:03  #MKT News #Market Regions #Emerging Markets
+
+Bank Negara Malaysia said El Niño impacts are typically lagged and it expects more pronounced effects next year.
+
+---
+
+### 2026-08-14 12:08:13  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hang Seng Falls to 3-Week Low — The Hang Seng Index fell about 0.9% to 25,160 on Friday, marking its fourth consecutive session of losses and hitting its lowest level since July 24, as technology stocks remained under pressure and investors stayed cautious amid lingering geopolitical uncertainty. Meituan fell 1.4%, while Alibaba and Tencent dropped 1.1% and 2.9%, respectively. Lenovo retreated 4.2% after reaching an all-time high in the previous session. In the broader market, JD.com plunged 6.5% at the open after the e-commerce giant reported a decline in interim profit, making it the worst-performing blue-chip stock, adding to pressure on tech sector. On the upside, Semiconductor Manufacturing rose 4.7% after reporting a sharp increase in second-quarter profit, making it the strongest-performing Hang Seng constituent at the open, while Shanghai Iluvatar rose 3.6%. On the data front, Hong Kong’s annual GDP growth rate for Q2 is due later today, with expectations of 4.3%, easing from 5.9% in the prior quarter.
+
+---
+
+### 2026-08-14 12:07:37  #央行 #國際
+
+馬來西亞央行：厄爾尼諾現象的影響通常存在滯後性，預計其影響明年會進一步顯現。
+
+---
+
+### 2026-08-14 12:07:27  #公司 #市場
+
+【港股午評：恒生指數跌0.93%，恒生科技指數跌1.79%】港股午間收盤，恒生指數跌0.93%，恒生科技指數跌1.79%。恒指港股通ETF銀華（159318）跌0.76%，港股通科技ETF鵬華（159751）跌1.21%。板塊方面，冶鋼原料、航空貨運板塊漲幅靠前；人力資源服務、藥店板塊跌幅靠前。個股方面，中國黃金國際漲12.93%，萬國資料-SW漲12.69%，邁富時漲11.42%，布魯可漲9.3%，納芯微漲8.66%；京東物流跌12.91%，龍旗科技跌12.57%，華虹宏力跌12.3%，京東集團-SWR跌10.29%，京東集團-SW跌10.08%。
+
+---
+
+### 2026-08-14 12:07:24  #國際
+
+【受日元干預擔憂影響 外國投資者連續第二週淨賣出日股】在截至8月8日止的一週，外國投資者連續第二週拋售日本股票，因市場預期當局將進一步採取支撐日元的措施，這削弱了投資人對日本股市的買盤意願。日本財務省資料顯示，該周外國投資者淨賣出價值3,685億日元（合23.1億美元）的日本股票，此前一週為淨賣出3,925億日元。上週，日本財務省表示，美國與日本已協同進行買入日元的干預行動，並將毫不猶豫地採取進一步措施。在干預行動後，日元上週一度觸及155.21日元兌1美元的近三個月高點。最新交易價為159.43日元兌1美元。日元升值會提高外國投資人所持日本資產的美元價值，但同時也會降低他們以美元購買新股的購買力。
+
+---
+
+### 2026-08-14 12:05:31  #觀點
+
+據英國金融時報報導，摩根大通去年因監管擔憂終止了與Polymarket的銀行業務關係。
+
+---
+
+### 2026-08-14 12:05:22  #公司 #觀點
+
+【高盛上調閃迪、應用材料目標價】加拿大皇家銀行將應用材料公司目標價從520美元上調至600美元；將閃迪目標股價從1300美元上調至1600美元。
+
+---
+
+### 2026-08-14 12:04:59  #MKT News
+
+Indonesia's president said this does not mean Danantara Sumberdaya will control all exports, but the company can monitor export volumes.
+
+---
+
+### 2026-08-14 12:04:36  #MKT News
+
+Indonesia's president said Danantara Sumberdaya will tighten oversight of strategic bulk commodity exports at 50 ports.
+
+---
+
+### 2026-08-14 12:04:06  #MKT News
+
+Indonesia's president said state-owned bulk-commodity manager Danantara Sumberdaya will, in the near term, manage all strategic export commodities, expanding its remit beyond palm oil, coal and ferroalloys.
+
+---
+
+### 2026-08-14 12:03:58  #公司
+
+【胖東來：鄭州店擬招聘100名退伍邊防軍人及20名刑滿釋放人員】8月14日，胖東來發布《胖東來鄭州店招聘退伍邊防軍人及刑釋人員提前公告》。其中提到，在本次招聘中，公司計劃招聘100名退伍邊防軍人，20名刑期5年以上的刑滿釋放人員，併為其設立專屬報名投遞通道。胖東來表示，希望各個群體的人們都能夠得到社會的尊重和關愛。
+
+---
+
+### 2026-08-14 12:03:17  #公司 #觀點 #國際
+
+【訊息人士：高盛在獲得關鍵職位後，正就英偉達融資交易與投資者進行磋商】知情人士透露，高盛集團正與潛在投資者就參與英偉達5000億美元人工智慧融資計劃進行磋商。此前，高盛憑藉與這家晶片製造商的長期合作關係，在該交易中爭取到了一個備受追捧的角色。其中一位知情人士稱，美國保險公司、資產管理公司和銀行預計將構成該融資計劃的核心投資者群體；而另一位訊息人士則表示，資產管理公司計劃保留該融資計劃中相當大的一份份額。英偉達於8月10日宣佈，已與包括高盛在內的六家主要金融機構合作，推出計算平臺，旨在為人工智慧基礎設施籌集超過5000億美元的第三方資本。此舉凸顯了人工智慧計算能力需求的激增如何吸引機構投資者，因為各國政府、企業和初創公司正競相擴建資料中心以支援人工智慧工作負載。第二位訊息人士稱，高盛可透過其資產管理部門提供次級資本和私募信貸融資，同時其投資銀行部門也可協助將相關債務置入私募信貸基金，並最終引入公開債務市場。
 
 ---
 
@@ -18947,101 +19097,5 @@ Spot silver fell below $65/oz, down 0.49% intraday.
 ### 2026-08-13 10:35:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
 
 US 10-Year Yield Eases Ahead of PPI Data — The yield on the 10-year US Treasury note eased to around 4.68% on Thursday as investors looked ahead to July’s producer inflation report for further clues on recent price trends. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Meanwhile, the government sold 10-year notes at a yield of 4.683%, the most since the global financial crisis. Inflation above the Federal Reserve’s target and widening budget deficits have contributed to elevated long-term yields, with investors demanding greater compensation to finance the US government.
-
----
-
-### 2026-08-13 10:34:32  #公司 #市場 #國際 #原創
-
-【韓國股市10天內上漲約23% 晶片股重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，韓國基準Kospi指數一度上漲4.8%，自7月30日低點以來的累計漲幅約23%。晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均漲超5%。今年迄今，受散戶資金推動，韓國Kospi指數已上漲逾60%，但較6月底的高點仍下跌約24%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。上個月的市場動盪導致交易暫停次數創下紀錄新高，韓國Kospi指數日內波幅超過5%的情況屢見不鮮。隨著波動率指標降至4月以來的最低水平，市場開始恢復冷靜。
-
----
-
-### 2026-08-13 10:34:12  #國際
-
-【機構：馬來西亞第二季度經濟可能增長5.9%】豐隆投行經濟學家Felicia Ling和Chong Lih Herng在一份報告中表示，馬來西亞第二季度經濟可能增長了5.9%，略高於5.8%的初步估計。他們表示，預計製造業和採礦業的產出，以及服務業和建築業的擴張，對經濟增長構成了支撐。他們補充說，製造業的勢頭是由強勁的電子產品生產和全球半導體需求推動的，而採礦業的增長則受到天然氣產出的支撐。豐隆預計，由於高基數效應，到下半年底經濟增長將放緩，儘管對電子產品的強勁外部需求和有韌性的國內需求應會繼續支撐馬來西亞經濟。
-
----
-
-### 2026-08-13 10:33:13  #MKT News #Important
-
-【16 countries to attend 2nd World Humanoid Robot Games; teams +138% YoY】The 2nd World Humanoid Robot Games will open on Aug. 22 at Beijing’s National Speed Skating Oval Ice Ribbon, hosted by the Beijing municipal government and China Media Group. The event attracted 666 teams from 16 countries across six continents with 2,056 robots, a 138% increase in teams and roughly a fourfold rise in robots YoY. International entrants include teams from the United States, Germany and Japan; Brazil fielded a national combined squad drawn from five robot-football World Cup champion teams. Domestic participation comprises 157 companies, 641 teams and 1,975 robots, including nearly all first‑tier robotics firms and 27 '985' universities covering 30 provinces, municipalities and SARs. Competition categories expanded from 26 to 51 events.
-
----
-
-### 2026-08-13 10:32:50  #MKT News
-
-Australian Mining and Energy Union says the new agreement resolves accident-compensation issues and includes other improvements sought by members.
-
----
-
-### 2026-08-13 10:32:37  #MKT News #BTU.O
-
-The Australian Mining and Energy Union said 19 workers at the Wybong joint coal wash plant have reached an agreement with Peabody that delivers an overall pay increase of about 4%.
-
----
-
-### 2026-08-13 10:32:30  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Stocks Retreat After MSCI Review — Indonesian equities slipped 58 points or 0.9% to 6,318 in Thursday morning trade, reversing a rally the day before. Losses were broad-based, led by basic materials, cyclicals, and healthcare. Sentiment soured after MSCI’s August review confirmed no new inclusions and 11 removals from its key indices, citing a strict global “freeze” policy. While Indonesia retains its Emerging Markets status, the weight of local equities has been trimmed, with changes effective after market close on August 31, 2026. Meanwhile, U.S.stock futures were mixed following Wall Street’s mostly higher close overnight, supported by softer inflation that eased Fed hike concerns. Domestically, downside was cushioned by reports that the government will reclaim part of state-company dividends to build a fiscal buffer fund. Notable laggards included ESSA Industries (-4.2%), Adaro Andalan (-2.8%), Merdeka Battery (-2.7%), and Sumber Alfaria Trijaya (-2.2%), underscoring the pressure across sectors.
-
----
-
-### 2026-08-13 10:31:07  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報148000元/噸，較上日16:30價格下跌250元/噸。
-
----
-
-### 2026-08-13 10:30:36  #其他
-
-美元指數DXY突破100，日內漲0.03%。
-
----
-
-### 2026-08-13 10:30:31  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-US dollar index (DXY) breached 100, up 0.03% intraday.
-
----
-
-### 2026-08-13 10:30:18  #國際
-
-【我國牽頭制定！智慧城市資料利用頂層框架國際標準釋出】國際標準化組織（ISO）和國際電工委員會（IEC）近日聯合釋出國際標準《資訊科技 智慧城市資料利用 第1部分：框架》。該國際標準由我國專家擔任專案負責人，聯合韓國、加拿大、日本、澳大利亞、德國、哈薩克、辛巴威、墨西哥等11個國家的專家共同制定完成，是我國在智慧城市國際標準化領域取得的又一項標誌性成果，為構建全球智慧城市資料利用共識提供了頂層框架。該國際標準首次構建起智慧城市資料利用的統一框架，從資料可用、資料有用、資料易用、資料善用和資料賦能五大方面，系統界定了智慧城市資料利用的核心特徵及內涵。透過將智慧城市資料利用視為有機整體，突破單一視角侷限，有效填補了該領域綜合性國際標準的空白。智慧城市資料利用是驅動城市從“經驗管理”邁向“資料治理”的關鍵生產要素。透過發揮資料要素疊加、倍增效應，可有力驅動城市治理體系和治理能力現代化建設，為推進城市全域數字化轉型、夯實數字中國建設根基提供核心引擎。該國際標準的釋出實施將啟用資料作為城市戰略資源和資產的核心價值，促進資料實現高效、可持續、全面、創新利用，發揮資料的基礎資源和創新引擎作用，推動城市精細化治理與服務升級，為全球智慧城市資料利用提供統一技術參考。
-
----
-
-### 2026-08-13 10:30:08  #Trading Economics #Markets #Commodity #Importance 1
-
-Soybeans Sideways Near Multi-Week Lows — Soybean futures hovered below $1,160 per bushel, trading in a sideways range near multi-week lows as markets weighed a lower US yield forecast against expectations for a record crop. The USDA cut its 2026 soybean yield estimate to 52.7 bushels per acre from 53, reflecting the impact of extreme heat and dryness in parts of the Midwest. However, higher planted acreage lifted projected production by 44 million bushels to a record 4.519 billion bushels, up 6% from 2025 and above the previous record set in 2021. The larger crop also pushed projected 2026/27 ending stocks up to 320 million bushels from 310 million previously. While recent heat and dryness supported prices, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects. Meanwhile, China provided a fresh demand boost, with the USDA confirming a sale of 244,000 metric tons of US soybeans for delivery in the 2026/27 marketing year.
-
----
-
-### 2026-08-13 10:27:36  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish
-
-China A-share MLCC sector traded higher on choppy action; Torch Electronics hit the daily trading limit, while Sanhuan Group, Shuangxing New Material, Boqian New Material and Fenghua Hi‑Tech also advanced.
-
----
-
-### 2026-08-13 10:27:26  #MKT News
-
-【Australian housing market cools; mortgage applications down at least 12%】Mortgage applications at Commonwealth Bank, Westpac and ANZ have fallen at least 12% since the government’s May budget paved the way to remove investor tax breaks, reflecting a cooling Australian housing market. The weakness has pushed bank shares lower and highlighted pressure on profitability. Earlier rises in borrowing costs had already damped demand and prices in Sydney and Melbourne are retreating. Commonwealth Bank CEO Matt Comyn said the bank has not yet seen the weakness spill over into household spending or broader activity. With the Middle East conflict lifting inflation and some firms remaining cautious, housing credit growth is expected to slow further next year.
-
----
-
-### 2026-08-13 10:26:35  #公司 #市場
-
-【MLCC概念走高，火炬電子漲停】MLCC概念走高，火炬電子漲停，三環集團、雙星新材、博遷新材跟漲。
-
----
-
-### 2026-08-13 10:26:21  #宏觀
-
-【“十五五”時期我國將構建更加精準、高效的現代化生態監管體系】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會，會上介紹，“十五五”時期，生態環境部將進一步加大生態監管力度，著力構建更加精準、高效的現代化生態監管體系。會上介紹，“十四五”期間，生態環境部努力加強生態監管，特別是加強了“衛片監管”，透過衛星遙感發現查處生態破壞問題，生態監管工作取得顯著成效。國家級自然保護區新增重點問題數量從2021年的131個下降至2025年的6個，面積從190.10公頃下降至8.22公頃。“十五五”時期，將重點在三方面發力：生態狀況評估工作“體系化”。系統開展全國、重點區域、自然保護地和生態保護紅線等多尺度生態狀況評估，全面掌握生態本底及變化趨勢，檢驗生態保護和修復工作的成效。生態破壞問題發現和處理“精準化”。持續最佳化“衛片監管”，提高發現生態破壞問題的準確度。開展“綠盾”行動，嚴厲查處各類生態破壞違法違規問題。健全生態破壞事件分級判定體系，明確判定的標準依據、工作流程和處置要求，實現全流程規範化管理。生態監測監管“數智化”。深化衛星遙感、AI影象解譯、環境DNA、聲紋識別、大模型及智慧體等新技術應用，推動國家生態保護與修復監管平臺迭代升級。持續最佳化生態質量綜合監測站和樣地佈局，提升生態質量和生物多樣性監測能力。以科技賦能生態監管，讓監管更精準、更高效、更智慧。
-
----
-
-### 2026-08-13 10:24:44  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Prices Ease but Remain Elevated — European natural gas prices fell below €60 per MWh on Thursday but remained more than 8% higher so far this week, as supply concerns persisted amid uncertainty over efforts to resolve the Middle East conflict and reopen the Strait of Hormuz. Talks between the US and Iran appear to have hit an impasse, with both sides taking a firmer stance and President Trump insisting that Washington has full control of the key waterway and intends to keep it that way. Shipping disruptions have sharply curtailed LNG flows from the Gulf, significantly delaying cargoes from major exporter Qatar and making it difficult for Europe to rebuild gas inventories ahead of winter. Analysts anticipate European gas prices will maintain a firm floor until storage levels show clearer signs of building before the heating season begins. At the same time, intense summer heatwaves across Southern and Central Europe have ramped up gas-fired power generation to meet cooling needs, diverting supplies from storage.
 
 ---

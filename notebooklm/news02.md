@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 07:32:53_
-_本檔包含 2840 則快訊，約 605069 字_
+_更新時間：2026-08-19 07:52:12_
+_本檔包含 2839 則快訊，約 604687 字_
+
+---
+
+### 2026-08-18 00:53:35  #國際
+
+惠譽評級：支付違約導致歐洲違約事件增多。
+
+---
+
+### 2026-08-18 00:52:01  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #XAUUSD
+
+Fitch Ratings said the US corporate default rate was broadly unchanged in July, but the overall volume of defaults is expected to increase going forward.
+
+---
+
+### 2026-08-18 00:51:17  #公司
+
+維多集團稱，其可再生能源子公司從Meridan Gridworks手中收購南卡羅來納州一處資料中心園區，這也是大型大宗商品交易商涉足人工智慧基礎設施領域的早期案例之一。
+
+---
+
+### 2026-08-18 00:50:06  #焦點 #國際
+
+惠譽評級：7月美國企業違約率基本持平，違約規模將上升。
+
+---
+
+### 2026-08-18 00:49:24  #宏觀 #國際
+
+【伊朗最高領袖顧問：美國的未來將由“家庭餐桌”而非“作戰室”決定】伊朗革命最高領袖一名高階顧問韋拉亞提批評美國政府針對伊朗民眾的威脅言論，表示美國的未來最終將由國內經濟現狀決定，而非軍事規劃室做出的決策。他援引美國官員近期表態：美國財政部長談及對伊朗實施經濟制裁，美國總統則重申“所有選項均擺在檯面上”。但韋拉亞提表示，美國民眾正在為本屆政府的敵對政策承擔代價。
+
+---
+
+### 2026-08-18 00:46:59  #國際
+
+哥倫比亞任命瑪麗亞·C·阿勞霍出任駐美國大使。
+
+---
+
+### 2026-08-18 00:46:44  #公司
+
+【微軟關聯 “奧德賽計劃” 債券以垃圾債級收益率吸引大量買家】代號為“奧德賽計劃”的企業債券發行規模有望上調至39億美元。這筆與微軟相關的資料中心融資債券，給出接近垃圾債的收益率，市場認購需求已超發行目標的兩倍。知情人士透露，該債券由黑石集團參股的QTS房地產信託有限責任公司旗下子公司發行，用於資助佐治亞州的一處專案。訊息人士稱，經過數日路演，市場需求突破80億美元，為這筆債券規模增加約10億美元創造條件。
+
+---
+
+### 2026-08-18 00:41:14  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+{"title":"US Treasury yields stay elevated; Castle Securities flags Fed as market risk","content":"Castle Securities said the Fed's reluctance to tighten further despite prolonged above-target inflation has left long-term Treasury yields at multi-year highs, posing broader market risk. Noshad Shah, head of EMEA fixed-income sales at Castle Securities, noted policy rates are roughly 175 bps below their peak while long-term Treasuries remain near 20-year highs. On Monday the 30-year Treasury yield rose above 5.28% to a 19-year high. Last week's data showing softer inflation and weaker consumer demand lowered market odds of a September Fed rate cut. Shah warned recent easing in inflation and labor-market cooling should not be taken as the removal of rate risk, noting more than 55% of core goods prices are still rising. He called next month's Fed meeting "a close contest.""}
+
+---
+
+### 2026-08-18 00:41:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran official says 'weeks' deadline for US on MOU, warns possible Strait of Hormuz escalation】A senior Iranian official told Refinitiv on Aug. 17 that Iran has set a deadline of several weeks for the US to fully implement a US-Iran memorandum of understanding and will not allow an indefinite US maritime blockade. The official said efforts to secure a permanent ceasefire have stalled and Iran has decided to shift its posture "from defensive to full offensive" — if diplomacy fails Tehran is prepared to escalate tensions in the Strait of Hormuz and the wider Middle East. Iran said its timeline will be conveyed to the US via mediators.
+
+---
+
+### 2026-08-18 00:39:07  #焦點 #國際
+
+【伊朗官員稱已為美設定最後期限】據路透社報道，一名伊朗高階官員8月17日在接受採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。該官員稱，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”——如果外交努力失敗，伊朗已準備好將升級霍爾木茲海峽及中東地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。” （CCTV國際時訊）
+
+---
+
+### 2026-08-18 00:38:51  #MKT News
+
+Canadian Prime Minister Carney said Canada will ensure financing support for the "Seagull Island power project".
+
+---
+
+### 2026-08-18 00:37:26  #其他
+
+加拿大總理卡尼表示，渥太華將為鷗島電力專案落實資金保障。
+
+---
+
+### 2026-08-18 00:36:38  #國際
+
+海事追蹤資料證實，一艘油輪因違反霍爾木茲海峽的有關規定而在伊朗的格什姆島附近被攔截。
+
+---
+
+### 2026-08-18 00:35:46  #MKT News
+
+Ukrainian President Zelenskiy said he is working with relevant task forces to push for a new prisoner exchange and hopes to see results soon.
+
+---
+
+### 2026-08-18 00:35:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Ease Further — European stocks closed marginally lower on Monday as the sustained increase in energy prices added to macroeconomic headwinds for the European economy. The Euro STOXX 50 eased 0.1% to 6,530 and the STOXX Europe 600 dropped 0.2% to 656. European natural gas prices extended their surge toward multi-year highs as the prolonged blockade of LNG tankers from the Middle East magnified shortages in renewable power generation in the central part of the continent, as low river-tides forced multiple nuclear power plants to shut down. Yields in major economies rose to multi-decade highs, pressuring banks consumer-sensitive luxury companies. Santander, Deutsche Bank, LVMH, and Adidas lost between 1% and 3.4%. On the other hand, ASML rose 2.6%, tracking US AI companies following strong results from Anthropic. Also, Argenx surged 1% after reporting a successful trial for its drug Vyvgart.
+
+---
+
+### 2026-08-18 00:33:59  #國際
+
+烏克蘭總統澤連斯基：我方正協同團隊推動新一輪戰俘交換，期待很快取得進展。
+
+---
+
+### 2026-08-18 00:33:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts.
+
+---
+
+### 2026-08-18 00:33:09  #國際
+
+中東和平委員會一名官員表示，哈馬斯全部輕重武器以及地下隧道都將被拆除。
+
+---
+
+### 2026-08-18 00:32:20  #國際
+
+美國駐敘利亞和伊拉克特使湯姆·布拉克：我們支援總理阿里·扎伊迪恢復伊拉克的主權，並確保武器與安全部隊始終處於國家權威之下。
+
+---
+
+### 2026-08-18 00:30:40  #其他
+
+阿聯酋6月M3貨幣供應量同比增長14.3%。
+
+---
+
+### 2026-08-18 00:30:33  #國際
+
+美國駐敘利亞和伊拉克特使湯姆·布拉克：譴責針對庫爾德斯坦地區總理及其在埃爾比勒辦公室的襲擊。
+
+---
+
+### 2026-08-18 00:27:13  #MKT News
+
+【Kushner meets Netanyahu to push Gaza peace plan】Jared Kushner, President Trump's son-in-law, met in Jerusalem on the 17th with Prime Minister Netanyahu and a member of a Gaza peace committee to advance a Gaza peace plan. Netanyahu agreed to establish two working groups: one to oversee disarmament and demilitarization of the Palestinian Islamic Resistance Movement (Hamas), which both sides said should be completed as soon as possible and before Gaza reconstruction begins; the other to address health, clean water and related basic services.
+
+---
+
+### 2026-08-18 00:26:36  #公司
+
+英國切爾西俱樂部股東馬克·沃爾特與託德·伯利正就向克萊爾萊克出售所持股份進行談判。
+
+---
+
+### 2026-08-18 00:24:54  #國際
+
+【庫什納見內塔尼亞胡 尋求推進“加沙和平計劃”】據以色列多家媒體17日報道，美國總統特朗普的女婿庫什納以及加沙地帶“和平委員會”成員當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，以期進一步推進所謂“加沙和平計劃”。以總理辦公室在會後發表宣告說，內塔尼亞胡與“和平委員會”討論後，同意成立兩個工作組，一個負責巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的裁軍和非軍事化，雙方認為這項工作須在加沙重建工作開始前儘快完成；另一個將重點關注加沙地帶的衛生、清潔水源等問題。（新華社）
+
+---
+
+### 2026-08-18 00:24:37  #國際
+
+上週美國戰略石油儲備的原油庫存下降約530萬桶，降至2.934億桶，為1982年以來最低水平。
+
+---
+
+### 2026-08-18 00:24:32  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. Strategic Petroleum Reserve crude stocks fell about 5.3 million barrels last week to 293.4 million barrels, the lowest level since 1982.
+
+---
+
+### 2026-08-18 00:24:25  #公司 #焦點 #國際
+
+【谷歌收購精神航空資料，助力AI技術升級】谷歌在破產拍賣中勝出，拿下破產廉價航司精神航空控股的大批脫敏業務資料、軟體程式碼與運營記錄，表示將利用該批資產改進人工智慧。紐約南區美國破產法院8月14日公告顯示，谷歌1000萬美元報價涵蓋該倒閉航司海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。法庭檔案顯示，本次交易不包含個人資訊與特權資料，例如精神航空9750萬份乘客檔案，以及約5020萬份自由忠誠會員專案記錄。法庭卷宗表明，全部資料會經過處理，消除與特定客戶的關聯。谷歌週一宣告稱，公司不會獲取任何個人資訊，資料在移交前將由第三方嚴格清除全部個人可識別資訊。
 
 ---
 
@@ -16935,173 +17097,5 @@ Saudi broadcaster Al Arabiya reported Yemen's military said Houthi forces fired 
 ### 2026-08-16 17:12:33  #公司 #市場
 
 【納指ETF嘉實：二級市場價格溢價 8月17日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.121元，收盤時基金份額參考淨值為1.9122元。為保護投資者利益，基金將於8月17日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。
-
----
-
-### 2026-08-16 17:12:21  #公司
-
-【華夏越秀高速公路REIT：2026年7月路費收入2021萬元 同比增3%】華夏越秀高速公路REIT公告稱，2026年7月1日至31日，湖北漢孝高速日均收費車流量35,618輛次，環比增長3.4%、同比增長1.5%；路費收入2021萬元，環比增長5.5%、同比增長3%。2026年累計日均收費車流量34,533輛次，同比增長0.2%；累計路費收入13,452萬元，同比增長1.8%。目前，基金投資運作正常，無應披露而未披露的重大資訊。
-
----
-
-### 2026-08-16 17:12:18  #公司
-
-【匯添富納斯達克100ETF：更新基金產品資料概要 基金經理變更】匯添富納斯達克100ETF公告稱，因基金經理變更，更新基金產品資料概要。新基金經理樂無穹於2026年8月12日上任，證券從業日期為2014年7月1日。基金主要採用完全複製法跟蹤納斯達克100指數，力爭日均跟蹤偏離度絕對值不超0.35%，年跟蹤誤差不超4%。投資涉及銷售、運作等費用，還揭示了市場、流動性等多種風險。
-
----
-
-### 2026-08-16 17:12:05  #公司 #市場
-
-【納指科技ETF景順：二級市場價格溢價 8月17日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.869元，參考淨值為2.3120元。為保護投資者利益，基金於8月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-08-16 17:10:47  #市場
-
-【平均業績比較基準下降！7月發行理財產品環比減少】日前，普益標準披露的資料顯示，7月全市場共新發2932款理財產品，環比減少197款。其中，新發開放式產品及封閉式產品平均業績比較基準均環比下跌。同時，7月份固收類產品區間收益率普遍下跌。《中國經營報》記者採訪瞭解到，固收類產品區間收益率普遍下跌，核心還在於債券市場的震盪行情。（中國經營報）
-
----
-
-### 2026-08-16 17:05:22  #其他
-
-【京東旗下24小時無人咖啡店落地北京】8月16日，京東旗下七鮮咖啡首家24小時智慧化無人咖啡店正式開業，落地北京市朝陽區銀河SOHO。 京東方面透露，該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。京東將透過AI大模型與具身智慧，依託咖啡茶飲消費場景，以AI技術實現場景賦能，這也是京東持續建設全球最大物理世界運營中心的組成部分。（新京報）
-
----
-
-### 2026-08-16 17:04:36  #國際
-
-馬來西亞民主行動黨投票決定繼續留在安瓦爾·易卜拉欣內閣。
-
----
-
-### 2026-08-16 17:03:59  #其他
-
-【2026新能源汽車下鄉活動長春站啟動】據中汽協訊息，8月15日，2026年新能源汽車下鄉活動——吉林長春站在長春農博園正式啟動。活動現場集中展示多款新能源車型，同步展出充電樁等配套設施，設定政策諮詢、以舊換新辦理、充電體驗、金融保險等一站式服務專區，並透過展板和講解清晰解讀購車補貼、申報流程等惠民政策，構建起覆蓋“看車—購車—用車”全鏈條的服務生態。此外，與長春站下鄉活動同步，長春市淨月高新區和南關區推出總額100萬元的汽車專項消費券補貼，進一步釋放區域汽車消費潛力，讓廣大城鄉居民在家門口享受實實在在的購車實惠。
-
----
-
-### 2026-08-16 17:03:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【IDF says it killed senior Hezbollah commander】Israel Defense Forces (IDF) said on the 16th that a strike on the 15th in southern Lebanon killed Abu Hassan Arra, a senior commander of Hezbollah’s Badr Unit. The IDF said Arra was involved in planning and directing multiple attacks on IDF troops deployed in the southern Lebanon "security zone" and for years led several Hezbollah operational units that attacked Israeli soldiers and civilians.
-
----
-
-### 2026-08-16 17:02:09  #MKT News #Important #Market Regions #Greater China
-
-【China summer 2026 box office tops 10 bln yuan】As of now, China’s 2026 summer-season film box office (including presales) has surpassed 10 bln yuan; daily box office has exceeded 100 mln yuan for 37 consecutive days.
-
----
-
-### 2026-08-16 17:00:12  #其他
-
-【暑期檔票房破100億】據網路平臺資料，截至8月16日，2026年暑期檔總票房（含預售）突破100億元。（央視新聞）
-
----
-
-### 2026-08-16 16:58:39  #宏觀
-
-【澳大利亞推出“槍支回收計劃”，新南威爾士州將率先施行】當地時間8月16日上午，澳大利亞總理阿爾巴尼斯和新南威爾士州州長宣佈澳聯邦政府和新州正式聯合推出“槍支回收計劃”。新州州長明斯表示，雖然回收計劃可能花費上千萬甚至上億澳元，“但這是值得付出的代價”。阿爾巴尼斯也稱讚該計劃。根據該計劃，從11月2日起，新州將有27.4萬支槍支被收繳，不同型別槍支的補償標準從每支450至1000澳元不等，到明年年初，市值超過3000澳元的槍支，補償標準將提高到1萬澳元。這是2025年12月悉尼邦迪海灘恐怖襲擊事件後新州出臺的新法律“第一階段”的一部分，新州也成為澳大利亞首個實施相關槍支回購計劃的州。（央視新聞）
-
----
-
-### 2026-08-16 16:57:35  #國際
-
-【普京登俄日爭議島嶼明確宣示主權】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。此舉引發日本方面的強烈抗議。日本首相高市早苗稱，北方四島是日本的“固有領土”，對普京此舉“絕對無法接受”。由於在島嶼歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。中國社科院日本研究所助理研究員孟明銘分析表示，普京以現任總統身份首次登上俄日爭議島嶼，並視察當地日常生活，這本身就是高度政治化的訊號。在俄羅斯看來，這些島嶼已經不是爭議領土，普京是用實際行動否定了這裡存在主權爭議。中國社會科學院俄羅斯東歐中亞研究所研究員張弘也表示，普京此行向外證明，俄羅斯依然保有維護遠東領土與海上安全的能力，打破西方炒作“俄軍深陷烏克蘭危機，無瑕顧及遠東”的西方外交敘事，告訴日本及其盟友，俄羅斯有能力兼顧東西兩線安全。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:53:13  #MKT News #Brent #Impact bullish #WTI
-
-Fars News reported the mayor of Mahshahr said explosions heard in Mahshahr minutes earlier were caused by the demolition of wartime ordnance in Iraq.
-
----
-
-### 2026-08-16 16:50:42  #國際
-
-美國國家颶風中心：拉拉颶風目前仍為颶風級別，並繼續沿夏威夷大島背風面向西北方向移動。
-
----
-
-### 2026-08-16 16:47:42  #公司
-
-【萬和電氣董事長盧宇聰：當下廚衛市場競爭邏輯已發生轉變】8月16日，萬和電氣(002543)董事長盧宇聰在公司釋出會上表示，當下廚衛市場的競爭邏輯已發生轉變，從單一產品比拼加速轉向全屋系統解決方案的價值競爭。基於這一判斷，萬和電氣正全面推進從“單一產品供應商”向“綜合解決方案提供者”的戰略轉型，打造覆蓋家用、商用全場景的熱水與採暖系統方案。
-
----
-
-### 2026-08-16 16:47:39  #國際
-
-【專家：普京登島 俄日關係或處於長期緊張狀態】中國現代國際關係研究院歐亞研究所副所長 陳宇：長期以來南千島群島，也就是日本所稱的北方四島歸屬的爭議，一直是俄日兩國幾十年來的結構性障礙。但過去由於雙方在經貿層面還有一定的相互需求，雙邊關係沒有達到很僵的程度，包括持續存在關於領土問題的一些對話。這也是為什麼普京此前一直沒有去南千島群島，也就是日本所稱北方四島的原因。但俄烏衝突後，俄羅斯和西方的關係破裂了，日本作為美國的盟友，緊跟著西方，對俄羅斯進行了全方位的制裁。包括其自身也不斷加速防務擴張，不斷強化美日同盟，俄日關係也因此迅速惡化。雙方原有的合作與對話也趨於停滯。去年，俄方也正式宣佈已經看不到俄日締結和平協議的可能性。本次普京正式登上了南千島群島，也是日本所稱的北方四島，說明過去曾經存在的和平條約的談判空間，目前已經凍結了。短期內不存在妥協的現實基礎，締結和平條約也遙遙無期。同時，由於長期存在此種制裁的原因，雙方經貿人文的往來也不斷萎縮，原本就有限的能源和漁業合作空間也持續壓縮，民間交流的渠道也在不斷收窄，過去的經濟紐帶也已經不復存在。此外，兩國間軍事安全對立的加劇，也決定了俄日關係在可預見的未來，將始終處於一個緊張的狀態。（央視新聞）
-
----
-
-### 2026-08-16 16:45:11  #國際
-
-【比利時發生大規模野火 數百居民被疏散】比利時東部地區日前發生大規模野火，截至15日晚，過火面積已超過2700公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。 這場野火14日在靠近德國邊境的一個自然保護區開始燒起，後迅速蔓延。當地政府說，過火面積已從14日的約80公頃迅速擴大至15日晚的2700多公頃。 歐洲森林火災資訊系統的資料顯示，此次火災過火面積幾乎兩倍於比利時2011年大火時近1400公頃的過火面積，為該國有記錄以來最大規模的野火。 （新華社）
-
----
-
-### 2026-08-16 16:43:47  #MKT News
-
-【Niu Lai cumulative box office tops 5 mln yuan】According to Lighthouse Professional, on its 12th day the film Niu Lai has a cumulative box office exceeding 5 mln yuan.
-
----
-
-### 2026-08-16 16:39:05  #國際
-
-【俄羅斯火箭航天中心遭襲】據德國新聞電影片道網站8月15日報道，烏克蘭軍方聲稱襲擊了位於俄羅斯薩馬拉的火箭航天中心。烏克蘭總統澤連斯基在“電報”軟體上宣佈，烏軍使用“火烈鳥”巡航導彈擊中了距離俄烏邊境約900公里、位於薩馬拉的火箭工廠。澤連斯基稱，此舉旨在進一步對俄羅斯政府施壓，以迫使其停戰。他在社交平臺X上寫道：“削弱俄羅斯的戰爭潛力至關重要。和平是必要的，必須透過對特定設施的具體破壞行動讓俄羅斯感受到這點。”烏克蘭武裝部隊總參謀部稱，位於俄羅斯薩馬拉州的“進步”火箭航天中心被擊中並起火。有關損失的更多細節尚未公佈。其首府薩馬拉市是俄羅斯航空航天業最重要的中心之一。這座城市在蘇聯時期發展成為生產運載火箭和衛星的航天技術基地。 （參考訊息）
-
----
-
-### 2026-08-16 16:36:53  #國際
-
-【印尼東努沙登加拉省宣佈進入災害緊急響應狀態】據印度尼西亞媒體16日報道，印尼東努沙登加拉省省長萊納簽署省長令，宣佈全省因15日發生的7.7級地震及多次餘震進入為期14天的災害緊急響應狀態。萊納表示，宣佈進入災害緊急響應狀態旨在提高災後處置效率、統籌調配資源、加強各部門協調溝通。災害緊急響應狀態從8月15日持續至8月28日。（新華社）
-
----
-
-### 2026-08-16 16:34:53  #國際
-
-伊朗陸軍總司令：伊朗軍人逮捕或者擊斃一名美國士兵可獲得3萬美元的獎勵。
-
----
-
-### 2026-08-16 16:31:39  #公司 #國際
-
-【烏克蘭克里沃羅格一鋼鐵廠遭襲，致2死13傷】烏克蘭克里沃羅格安賽樂米塔爾鋼鐵廠8月16日通報稱，該企業當天凌晨遭俄羅斯導彈襲擊，截至目前，已有2人死亡、13人受傷。襲擊導致企業主要設施受損，工廠部分生產流程暫停。目前，相關專家正在評估損失程度以及恢復生產的可能性。通報還稱，2022年該企業曾遭受俄軍導彈襲擊，當時軋鋼車間被摧毀，一名員工死亡。公司強調，該企業屬於冶金工業民用設施。（央視新聞）
-
----
-
-### 2026-08-16 16:28:35  #國際
-
-【日政要參拜靖國神社遭國際社會強烈反對】在日本宣佈無條件投降81週年之際，日本首相高市早苗15日以“自民黨總裁”身份，向供奉有二戰甲級戰犯的靖國神社供奉“玉串料”（祭祀費），並在出席日本政府舉辦的“全國戰歿者追悼儀式”前從會場停車場朝靖國神社所在方向“遙拜”。此外，日本防衛大臣小泉進次郎等多名政客分別前往靖國神社參拜，這是日本連續第7年有現任閣僚在這一天參拜靖國神社。日方錯誤行徑引發國際社會和日本國內愛好和平人士強烈反對。（新華社）
-
----
-
-### 2026-08-16 16:28:01  #國際
-
-【脫離民眾、部署混亂 航母風波凸顯美軍困境】美國“亞伯拉罕·林肯”號核動力航空母艦因長期部署被媒體曝出諸多問題後，許多輿論認為這艘航母的困境是美軍在伊朗戰事中陷入僵局的象徵。有媒體認為，美國政府的決策與士兵家屬的感受及民眾對戰事的態度脫節，同時也暴露出美國軍事資源快速消耗這一重大問題。 （新華社）
-
----
-
-### 2026-08-16 16:26:43  #國際
-
-【俄媒稱莫斯科遭最大規模無人機襲擊】俄羅斯莫斯科市長索比亞寧今天（8月16日）稱，當地時間15日晚至16日6時30分，飛向莫斯科的無人機數量達到600架塔斯社報道稱，這是近兩年來莫斯科遭到的規模最大的一次無人機襲擊。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:24:41  #公司
-
-【豐林集團：收到稅務通知 或繳回約2700萬元已退稅款】豐林集團公告稱，8月14日收到稅務機關《稅務事項通知書》，要求繳回2022年1月1日至2025年12月31日期間，不符合即徵即退增值稅優惠政策的已退稅款。公司初步估算繳回稅費約2700萬元，後續將進一步核算。該事項不涉及行政處罰和前期財務資料追溯調整，相關財務影響將計入2026年當期損益。公司將與稅務機關積極溝通，必要時申請行政複議或訴訟。
-
----
-
-### 2026-08-16 16:24:26  #其他
-
-【南海開漁季來了】今天（8月16日）中午12點，為期三個半月的南海伏季休漁結束。在廣東陽江，閘坡國家級中心漁港的800多艘漁船陸續出港，奔赴南海。 開漁後的第一網海鮮什麼時候能吃到？ 按照往年的作業節奏，近海漁船最快今晚到明天凌晨就會陸續返港，帶回海蝦、海蟹以及當地其他海魚。這些漁獲上岸後，一邊是進入港口市場、餐館和景區商鋪，另一邊則可能會進入預冷、鎖鮮、冷藏和加工環節，再透過冷鏈運往更遠的市場。 今天的開漁現場，不只是漁船集中出港。開漁令釋出前這裡還有非常豐富的表演活動，來自陽江各縣區以及港澳地區的13艘特色彩船在港池裡巡遊，昨天碼頭邊還舉行了漁家婚嫁非遺表演等15項系列活動，活動規模和種類均為歷屆最多。本屆開漁季活動期間，預計吸引客流將達100萬人次左右。（央視財經）
-
----
-
-### 2026-08-16 16:22:05  #MKT News #Market Regions #Europe & UK
-
-ZELENSKIY said Europe must not leave interceptor missiles sitting in warehouses.
 
 ---

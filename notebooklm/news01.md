@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 07:32:53_
-_本檔包含 3048 則快訊，約 605116 字_
+_更新時間：2026-08-19 07:52:12_
+_本檔包含 3046 則快訊，約 604692 字_
+
+---
+
+### 2026-08-19 07:50:25  #國際
+
+日本6月核心機械訂單同比 16.9%，預期 9.6%，前值 -1.9%。日本6月核心機械訂單環比 9.7%，預期 7.2%，前值 -12.4%。
+
+---
+
+### 2026-08-19 07:50:08  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan June core machinery orders +9.7% MoM vs 7.8% est; prior -12.4%.
+
+---
+
+### 2026-08-19 07:50:07  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Japan core machinery orders YoY (June) +16.9% vs consensus 10.8%; prior -1.9%.
+
+---
+
+### 2026-08-19 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Core Machinery Orders (YoY) (Jun) | actual 16.9% | consensus 10.8% | previous -1.90%
+
+---
+
+### 2026-08-19 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Core Machinery Orders (MoM) (Jun) | actual 9.7% | consensus 7.80% | previous -12.40%
+
+---
+
+### 2026-08-19 07:49:06  #其他 #焦點
+
+【重大突破！我國首次實現火箭陸地回收】今天（8月19日），朱雀三號遙二運載火箭在東風商業航天創新試驗區發射升空，火箭一子級按預定程式成功著陸於甘肅省民勤縣朱雀三號著陸場坪。這是我國在重複使用火箭關鍵技術上取得的又一重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。（央視）
+
+---
+
+### 2026-08-19 07:48:58  #公司
+
+【本週35只新基金啟動發行】本週（8月17日至8月23日）全市場共有35只新基金啟動募集，涉及廣發基金、天弘基金、易方達基金、招商基金、富國基金、銀華基金、匯添富基金、南方基金、鵬華基金等多家基金公司。
+
+---
+
+### 2026-08-19 07:46:42  #公司
+
+【鴻海增資越南子公司 計劃擴大墨西哥業務】鴻海在臺灣證券交易所公告稱，子公司Foxconn Singapore Pte Ltd取得FuKang Technology股權，交易金額為3.584億美元，用途為長期投資。FuKang Technology是鴻海在越南的子公司。另據公告，鴻海子公司Cloud Network Technology Singapore購買FII AMC MEXICO S. DE R.L. DE C.V.的股份，交易金額約2700萬美元。
+
+---
+
+### 2026-08-19 07:45:46  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.03點。
+
+---
+
+### 2026-08-19 07:45:36  #市場 #國際
+
+日本日經平均指數期貨早盤下跌2.0%。
+
+---
+
+### 2026-08-19 07:44:20  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Japanese corporate profits beat estimates by most in five years; rally may be broadening】Despite a sharp rise in oil costs, Japanese corporate profits beat analyst forecasts at the highest rate in five years, suggesting the equity rally may be entering a broader phase. For the quarter to June, roughly 71% of companies exceeded estimates and combined net profit for Japan's 500 largest firms rose to ¥21 tln (about $132 bln) from about ¥18 tln a year earlier. Profitability improved sharply: TOPIX constituents' profit margin is estimated at 9.3%, the highest in more than 30 years. While last quarter's gains were concentrated in tech and AI-related names, the latest results show earnings growth widening as firms pass higher costs to customers; a Resona Holdings strategist said domestic-demand companies also beat expectations and investor interest has broadened.
+
+---
+
+### 2026-08-19 07:43:53  #公司 #國際
+
+【日本企業財報季表現超分析師預期 日股漲勢有望擴充套件至AI板塊之外】儘管油價飆升，日本企業仍公佈了五年來最超預期的業績，這增強了人們對各行業強勁盈利增長勢頭將把股市漲勢擴充套件到人工智慧(AI)相關板塊之外的信心。資料顯示，截至6月的三個月，約71%的本地企業利潤超過分析師預期。其中500家最大企業的淨利潤總和突破21萬億日元（1320億美元），超越一年前創下的約18萬億日元的紀錄。企業盈利能力也大幅提升，東證指數成分股公司的利潤率預計達到創紀錄的9.3%，這是自三十多年前有可比資料以來的最高水平。
+
+---
+
+### 2026-08-19 07:42:57  #資料 #央行 #國際
+
+【債券交易員再度換擋 著手對沖美聯儲2027年或轉向降息的風險】債券交易員再次調整佈局。一系列經濟資料釋出後，市場幾乎完全排除了美聯儲今年餘下時間加息的可能性，如今期權市場的押注著手對沖美聯儲2027年轉向降息的風險。 上週公佈的資料顯示，7月通脹和消費者需求有所放緩，市場對9月16日政策會議加息的預期降低，此後期權市場活躍起來。期權交易員開始建立頭寸，押注未來數月掉期市場計入的加息幅度將被削弱。部分期權交易甚至開始對沖最早明年年中出現降息的風險。“交易員對加息的擔憂有所減少，”Constitution Capital的利率交易部門主管Jeff Schuh表示，並指出近期押注加息的倉位在被平倉。“我們看到許多9月和12月看跌期權的賣方放棄原有押注並且平倉。”Schuh表示，過去一週市場對9月加息的預期機率從兩週前的68%驟降一半，這“充分說明了市場對疲軟的非農資料和CPI資料的看法”。
+
+---
+
+### 2026-08-19 07:40:43  #國際
+
+【特朗普對伊朗戰爭採取新策略：脫離接觸】據報道，數週以來，美國總統唐納德・特朗普一直寄望美伊之間能出現積極進展，但收效甚微。據一名美國官員透露，週二他似乎轉向一套新策略。特朗普指示政府高階特使停止與伊朗的對話。另據知情訊息源稱，白宮官員近期向政治盟友表示，美方正在調整戰略：從 “儘快重拳打擊伊朗” 轉變為長期 “扼制伊朗”。自 6 月簽署的停火協議破裂後，特朗普曾反覆對外宣稱談判進展順利，新協議近在咫尺。而如今，他不再聲稱談判正在向好推進，而是宣佈美伊之間完全沒有開展任何外交磋商。
+
+---
+
+### 2026-08-19 07:39:09  #國際
+
+【蘋果下調歐洲應用商店費用，以解決與歐盟分歧】當地時間8月18日，蘋果宣佈調整歐盟地區應用業務條款，以解決與歐盟委員會圍繞業務條款和替代分發的分歧。新條款將歐盟地區所有應用開發者統一納入一套業務條款，並於10月1日起生效。根據新條款，使用蘋果應用內購買的App Store應用佣金為26%，符合相關開發者計劃條件的多數開發者及部分訂閱業務佣金為15%；使用替代支付方式的應用佣金為20%，符合相關條件的開發者為10%。蘋果還將取消核心技術費、初始獲取費和商店服務費，並允許開發者同時提供蘋果應用內購買和替代支付方式。
+
+---
+
+### 2026-08-19 07:39:02  #市場
+
+日經指數期貨在新加坡交易所開盤下跌1,595點，報66,075點。
+
+---
+
+### 2026-08-19 07:37:19  #公司
+
+【新股提示：貝特利、北交所新股金鈦股份今日申購】今日可申購貝特利和北交所新股金鈦股份，貝特利發行總數約6570萬股，網上發行約為1380萬股，發行市盈率27.39倍，申購程式碼為：301697，申購價格：12.10元，單一賬戶申購上限1.35萬股。金鈦股份發行總數約4500萬股，發行市盈率13.41倍，申購程式碼為：920071，申購價格：9.72元。
+
+---
+
+### 2026-08-19 07:36:01  #市場
+
+【黃金主題基金總規模突破4200億元】8月份以來，國際金價整體呈現走高態勢，其中紐約商品交易所（COMEX）黃金期貨12月合約近日達到4500美元/盎司高點；與此同時，國內黃金主題基金規模與淨值也出現明顯增長態勢。8月份以來，黃金主題基金除了淨值表現較好外，規模也呈現增長態勢。資料顯示，截至目前，53只黃金主題基金總規模已達4242億元，較月初增長268億元，較年初增長453億元；從單隻產品表現來看，有11只產品目前規模超過100億元，其中華安黃金ETF達1031億元，博時黃金ETF、易方達黃金ETF、國泰黃金ETF和博時黃金ETF聯接C分別為429.03億元、366.57億元、344.01億元、311.48億元。
+
+---
+
+### 2026-08-19 07:35:19  #公司
+
+【陸控：上半年淨虧損6.94億元】8月19日，陸控在港交所公告，2026年上半年營收124.89億元，同比下降11.30%；淨虧損6.94億元，去年同期為淨虧損5.19億元。
+
+---
+
+### 2026-08-19 07:35:05  #公司
+
+【北交所年內新增上市公司51家】今日，廣西雙英集團股份有限公司在北京證券交易所上市，成為北交所年內新增的第51家上市公司。資料統計，今年以來，北交所新增上市公司數量佔A股新增總量的比例超過50%，合計募資168.43億元。
+
+---
+
+### 2026-08-19 07:34:26  #市場
+
+【2026年融資淨買入額居前的醫療服務股梳理】8月以來，醫療服務板塊行情加速，申萬醫療服務指數月內累計上漲23.45%，年內漲幅達41.55%。成份股中，百奧賽圖、藥康生物、萬邦醫藥、益諾思今年以來累計漲幅均翻倍，龍頭藥明康德上漲87.38%。市場分析認為，本輪板塊行情，主要受益於政策紅利持續釋放，疊加行業基本面盈利拐點確認。板塊熱度同樣得到融資資金的印證。截至8月17日，昭衍新藥、藥康生物今年以來融資淨買入額均超2億元；萬邦醫藥、百奧賽圖、國際醫學、畢得醫藥4只個股融資淨買入額超過1億元，融資資金對板塊關注度顯著提升。業績方面，綜合半年報、快報、預告中值統計，8家企業上半年淨利潤突破1億元。其中藥明康德位居首位，淨利潤達110.8億元；康龍化成、昭衍新藥、通策醫療、九洲藥業淨利潤分別為7.5億元、7.5億元、4.58億元、3.87億元。
+
+---
+
+### 2026-08-19 07:34:10  #其他
+
+【超3000件展品亮相 2026世界機器人大會今日開幕】以“人機共生，產需共融”為主題的2026世界機器人大會今天在北京開幕。在為期五天的時間裡，這裡將成為全球機器人領域重大成果、新品首發和前沿技術交流的重要平臺，也是公眾零距離觸控前沿技術的互動視窗。2026世界機器人大會包含主論壇、博覽會，以及70餘場同期活動，得到30家國際機構支援。博覽會參展企業300餘家，較去年增加69%，預計展品超3000件，其中首發新品300餘件。世界機器人博覽會設4個展區，人形機器人整機廠商將集中亮相，圍繞“機器人+應用場景”集中呈現機器人在生產製造、餐飲零售、醫療康養、應急救援等場景下的應用解決方案，覆蓋機器人全產業鏈的核心零部件企業也將亮相博覽會。大會將發起“全球機器人應用探索計劃”，招募量產產品對接給全球創新團隊無償使用。首次打造的“機器人消費街”，將為觀眾帶來“科技+美食+文創”的沉浸體驗。
+
+---
+
+### 2026-08-19 07:33:48  #其他
+
+【國海證券：維持騰訊控股“買入”評級 目標價627港元】國海證券釋出研報稱，預計騰訊控股(00700)2026-2028年營收分別為8233/9015/9822億元，Non-IFRS口徑歸母淨利潤為2663/2743/2881億元，對應Non-IFRS口徑EPS為29/30/32元，對應Non-IFRS口徑PE為13.0/12.6/12.0x，根據SOTP估值方法，給予2026年騰訊控股各項業務合計目標市值5.0萬億元人民幣/5.7萬億港元，對應目標價627港元，維持“買入”評級。
+
+---
+
+### 2026-08-19 07:33:46  #市場 #焦點
+
+紐約期金失守4380美元/盎司，日內跌0.92%。
+
+---
+
+### 2026-08-19 07:33:10  #市場
+
+【A股科技板塊修復進入業績驗證期 內部輪動和個股分化進一步加快】8月以來，全球科技資產逐步走出去槓桿衝擊，半導體、儲存、光通訊等人工智慧硬體方向率先回暖。在海外產業趨勢對映和資金回補推動下，A股科技板塊同步修復，光通訊表現突出，行情也逐步向半導體、信創、機器人等方向擴散。不過，隨著前期超跌修復持續推進，科技板塊內部輪動和個股分化進一步加快。分析人士認為，A股科技產業趨勢並未逆轉，修復行情仍可期待，但市場定價邏輯正由資金驅動轉向基本面驗證，中報業績、在手訂單和產業需求能否持續兌現，將成為決定後續行情空間和結構的關鍵。（中國證券報）
 
 ---
 
@@ -18278,167 +18428,5 @@ IMF staff will visit Dakar, Senegal from Aug 19 to Sep 1.
 ### 2026-08-18 00:54:40  #MKT News
 
 A Ukrainian official said the Odesa region was struck again in a Russian attack, injuring four people including two children. The strike caused partial damage, ignited the roof of a private home and nearby hay, and its shockwave damaged surrounding buildings.
-
----
-
-### 2026-08-18 00:53:35  #國際
-
-惠譽評級：支付違約導致歐洲違約事件增多。
-
----
-
-### 2026-08-18 00:52:01  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #XAUUSD
-
-Fitch Ratings said the US corporate default rate was broadly unchanged in July, but the overall volume of defaults is expected to increase going forward.
-
----
-
-### 2026-08-18 00:51:17  #公司
-
-維多集團稱，其可再生能源子公司從Meridan Gridworks手中收購南卡羅來納州一處資料中心園區，這也是大型大宗商品交易商涉足人工智慧基礎設施領域的早期案例之一。
-
----
-
-### 2026-08-18 00:50:06  #焦點 #國際
-
-惠譽評級：7月美國企業違約率基本持平，違約規模將上升。
-
----
-
-### 2026-08-18 00:49:24  #宏觀 #國際
-
-【伊朗最高領袖顧問：美國的未來將由“家庭餐桌”而非“作戰室”決定】伊朗革命最高領袖一名高階顧問韋拉亞提批評美國政府針對伊朗民眾的威脅言論，表示美國的未來最終將由國內經濟現狀決定，而非軍事規劃室做出的決策。他援引美國官員近期表態：美國財政部長談及對伊朗實施經濟制裁，美國總統則重申“所有選項均擺在檯面上”。但韋拉亞提表示，美國民眾正在為本屆政府的敵對政策承擔代價。
-
----
-
-### 2026-08-18 00:46:59  #國際
-
-哥倫比亞任命瑪麗亞·C·阿勞霍出任駐美國大使。
-
----
-
-### 2026-08-18 00:46:44  #公司
-
-【微軟關聯 “奧德賽計劃” 債券以垃圾債級收益率吸引大量買家】代號為“奧德賽計劃”的企業債券發行規模有望上調至39億美元。這筆與微軟相關的資料中心融資債券，給出接近垃圾債的收益率，市場認購需求已超發行目標的兩倍。知情人士透露，該債券由黑石集團參股的QTS房地產信託有限責任公司旗下子公司發行，用於資助佐治亞州的一處專案。訊息人士稱，經過數日路演，市場需求突破80億美元，為這筆債券規模增加約10億美元創造條件。
-
----
-
-### 2026-08-18 00:41:14  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
-
-{"title":"US Treasury yields stay elevated; Castle Securities flags Fed as market risk","content":"Castle Securities said the Fed's reluctance to tighten further despite prolonged above-target inflation has left long-term Treasury yields at multi-year highs, posing broader market risk. Noshad Shah, head of EMEA fixed-income sales at Castle Securities, noted policy rates are roughly 175 bps below their peak while long-term Treasuries remain near 20-year highs. On Monday the 30-year Treasury yield rose above 5.28% to a 19-year high. Last week's data showing softer inflation and weaker consumer demand lowered market odds of a September Fed rate cut. Shah warned recent easing in inflation and labor-market cooling should not be taken as the removal of rate risk, noting more than 55% of core goods prices are still rising. He called next month's Fed meeting "a close contest.""}
-
----
-
-### 2026-08-18 00:41:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran official says 'weeks' deadline for US on MOU, warns possible Strait of Hormuz escalation】A senior Iranian official told Refinitiv on Aug. 17 that Iran has set a deadline of several weeks for the US to fully implement a US-Iran memorandum of understanding and will not allow an indefinite US maritime blockade. The official said efforts to secure a permanent ceasefire have stalled and Iran has decided to shift its posture "from defensive to full offensive" — if diplomacy fails Tehran is prepared to escalate tensions in the Strait of Hormuz and the wider Middle East. Iran said its timeline will be conveyed to the US via mediators.
-
----
-
-### 2026-08-18 00:39:07  #焦點 #國際
-
-【伊朗官員稱已為美設定最後期限】據路透社報道，一名伊朗高階官員8月17日在接受採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。該官員稱，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”——如果外交努力失敗，伊朗已準備好將升級霍爾木茲海峽及中東地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。” （CCTV國際時訊）
-
----
-
-### 2026-08-18 00:38:51  #MKT News
-
-Canadian Prime Minister Carney said Canada will ensure financing support for the "Seagull Island power project".
-
----
-
-### 2026-08-18 00:37:26  #其他
-
-加拿大總理卡尼表示，渥太華將為鷗島電力專案落實資金保障。
-
----
-
-### 2026-08-18 00:36:38  #國際
-
-海事追蹤資料證實，一艘油輪因違反霍爾木茲海峽的有關規定而在伊朗的格什姆島附近被攔截。
-
----
-
-### 2026-08-18 00:35:46  #MKT News
-
-Ukrainian President Zelenskiy said he is working with relevant task forces to push for a new prisoner exchange and hopes to see results soon.
-
----
-
-### 2026-08-18 00:35:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Ease Further — European stocks closed marginally lower on Monday as the sustained increase in energy prices added to macroeconomic headwinds for the European economy. The Euro STOXX 50 eased 0.1% to 6,530 and the STOXX Europe 600 dropped 0.2% to 656. European natural gas prices extended their surge toward multi-year highs as the prolonged blockade of LNG tankers from the Middle East magnified shortages in renewable power generation in the central part of the continent, as low river-tides forced multiple nuclear power plants to shut down. Yields in major economies rose to multi-decade highs, pressuring banks consumer-sensitive luxury companies. Santander, Deutsche Bank, LVMH, and Adidas lost between 1% and 3.4%. On the other hand, ASML rose 2.6%, tracking US AI companies following strong results from Anthropic. Also, Argenx surged 1% after reporting a successful trial for its drug Vyvgart.
-
----
-
-### 2026-08-18 00:33:59  #國際
-
-烏克蘭總統澤連斯基：我方正協同團隊推動新一輪戰俘交換，期待很快取得進展。
-
----
-
-### 2026-08-18 00:33:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts.
-
----
-
-### 2026-08-18 00:33:09  #國際
-
-中東和平委員會一名官員表示，哈馬斯全部輕重武器以及地下隧道都將被拆除。
-
----
-
-### 2026-08-18 00:32:20  #國際
-
-美國駐敘利亞和伊拉克特使湯姆·布拉克：我們支援總理阿里·扎伊迪恢復伊拉克的主權，並確保武器與安全部隊始終處於國家權威之下。
-
----
-
-### 2026-08-18 00:30:40  #其他
-
-阿聯酋6月M3貨幣供應量同比增長14.3%。
-
----
-
-### 2026-08-18 00:30:33  #國際
-
-美國駐敘利亞和伊拉克特使湯姆·布拉克：譴責針對庫爾德斯坦地區總理及其在埃爾比勒辦公室的襲擊。
-
----
-
-### 2026-08-18 00:27:13  #MKT News
-
-【Kushner meets Netanyahu to push Gaza peace plan】Jared Kushner, President Trump's son-in-law, met in Jerusalem on the 17th with Prime Minister Netanyahu and a member of a Gaza peace committee to advance a Gaza peace plan. Netanyahu agreed to establish two working groups: one to oversee disarmament and demilitarization of the Palestinian Islamic Resistance Movement (Hamas), which both sides said should be completed as soon as possible and before Gaza reconstruction begins; the other to address health, clean water and related basic services.
-
----
-
-### 2026-08-18 00:26:36  #公司
-
-英國切爾西俱樂部股東馬克·沃爾特與託德·伯利正就向克萊爾萊克出售所持股份進行談判。
-
----
-
-### 2026-08-18 00:24:54  #國際
-
-【庫什納見內塔尼亞胡 尋求推進“加沙和平計劃”】據以色列多家媒體17日報道，美國總統特朗普的女婿庫什納以及加沙地帶“和平委員會”成員當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，以期進一步推進所謂“加沙和平計劃”。以總理辦公室在會後發表宣告說，內塔尼亞胡與“和平委員會”討論後，同意成立兩個工作組，一個負責巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的裁軍和非軍事化，雙方認為這項工作須在加沙重建工作開始前儘快完成；另一個將重點關注加沙地帶的衛生、清潔水源等問題。（新華社）
-
----
-
-### 2026-08-18 00:24:37  #國際
-
-上週美國戰略石油儲備的原油庫存下降約530萬桶，降至2.934億桶，為1982年以來最低水平。
-
----
-
-### 2026-08-18 00:24:32  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Strategic Petroleum Reserve crude stocks fell about 5.3 million barrels last week to 293.4 million barrels, the lowest level since 1982.
-
----
-
-### 2026-08-18 00:24:25  #公司 #焦點 #國際
-
-【谷歌收購精神航空資料，助力AI技術升級】谷歌在破產拍賣中勝出，拿下破產廉價航司精神航空控股的大批脫敏業務資料、軟體程式碼與運營記錄，表示將利用該批資產改進人工智慧。紐約南區美國破產法院8月14日公告顯示，谷歌1000萬美元報價涵蓋該倒閉航司海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。法庭檔案顯示，本次交易不包含個人資訊與特權資料，例如精神航空9750萬份乘客檔案，以及約5020萬份自由忠誠會員專案記錄。法庭卷宗表明，全部資料會經過處理，消除與特定客戶的關聯。谷歌週一宣告稱，公司不會獲取任何個人資訊，資料在移交前將由第三方嚴格清除全部個人可識別資訊。
 
 ---

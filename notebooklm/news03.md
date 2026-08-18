@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 07:32:53_
-_本檔包含 3052 則快訊，約 605055 字_
+_更新時間：2026-08-19 07:52:12_
+_本檔包含 3055 則快訊，約 605045 字_
+
+---
+
+### 2026-08-16 17:12:21  #公司
+
+【華夏越秀高速公路REIT：2026年7月路費收入2021萬元 同比增3%】華夏越秀高速公路REIT公告稱，2026年7月1日至31日，湖北漢孝高速日均收費車流量35,618輛次，環比增長3.4%、同比增長1.5%；路費收入2021萬元，環比增長5.5%、同比增長3%。2026年累計日均收費車流量34,533輛次，同比增長0.2%；累計路費收入13,452萬元，同比增長1.8%。目前，基金投資運作正常，無應披露而未披露的重大資訊。
+
+---
+
+### 2026-08-16 17:12:18  #公司
+
+【匯添富納斯達克100ETF：更新基金產品資料概要 基金經理變更】匯添富納斯達克100ETF公告稱，因基金經理變更，更新基金產品資料概要。新基金經理樂無穹於2026年8月12日上任，證券從業日期為2014年7月1日。基金主要採用完全複製法跟蹤納斯達克100指數，力爭日均跟蹤偏離度絕對值不超0.35%，年跟蹤誤差不超4%。投資涉及銷售、運作等費用，還揭示了市場、流動性等多種風險。
+
+---
+
+### 2026-08-16 17:12:05  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 8月17日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價明顯高於基金份額參考淨值，出現較大幅度溢價，8月14日收盤價為2.869元，參考淨值為2.3120元。為保護投資者利益，基金於8月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-08-16 17:10:47  #市場
+
+【平均業績比較基準下降！7月發行理財產品環比減少】日前，普益標準披露的資料顯示，7月全市場共新發2932款理財產品，環比減少197款。其中，新發開放式產品及封閉式產品平均業績比較基準均環比下跌。同時，7月份固收類產品區間收益率普遍下跌。《中國經營報》記者採訪瞭解到，固收類產品區間收益率普遍下跌，核心還在於債券市場的震盪行情。（中國經營報）
+
+---
+
+### 2026-08-16 17:05:22  #其他
+
+【京東旗下24小時無人咖啡店落地北京】8月16日，京東旗下七鮮咖啡首家24小時智慧化無人咖啡店正式開業，落地北京市朝陽區銀河SOHO。 京東方面透露，該店所有咖啡飲品從研磨、萃取到製作、出杯全流程均由機器人執行，24小時不間斷營業。京東將透過AI大模型與具身智慧，依託咖啡茶飲消費場景，以AI技術實現場景賦能，這也是京東持續建設全球最大物理世界運營中心的組成部分。（新京報）
+
+---
+
+### 2026-08-16 17:04:36  #國際
+
+馬來西亞民主行動黨投票決定繼續留在安瓦爾·易卜拉欣內閣。
+
+---
+
+### 2026-08-16 17:03:59  #其他
+
+【2026新能源汽車下鄉活動長春站啟動】據中汽協訊息，8月15日，2026年新能源汽車下鄉活動——吉林長春站在長春農博園正式啟動。活動現場集中展示多款新能源車型，同步展出充電樁等配套設施，設定政策諮詢、以舊換新辦理、充電體驗、金融保險等一站式服務專區，並透過展板和講解清晰解讀購車補貼、申報流程等惠民政策，構建起覆蓋“看車—購車—用車”全鏈條的服務生態。此外，與長春站下鄉活動同步，長春市淨月高新區和南關區推出總額100萬元的汽車專項消費券補貼，進一步釋放區域汽車消費潛力，讓廣大城鄉居民在家門口享受實實在在的購車實惠。
+
+---
+
+### 2026-08-16 17:03:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【IDF says it killed senior Hezbollah commander】Israel Defense Forces (IDF) said on the 16th that a strike on the 15th in southern Lebanon killed Abu Hassan Arra, a senior commander of Hezbollah’s Badr Unit. The IDF said Arra was involved in planning and directing multiple attacks on IDF troops deployed in the southern Lebanon "security zone" and for years led several Hezbollah operational units that attacked Israeli soldiers and civilians.
+
+---
+
+### 2026-08-16 17:02:09  #MKT News #Important #Market Regions #Greater China
+
+【China summer 2026 box office tops 10 bln yuan】As of now, China’s 2026 summer-season film box office (including presales) has surpassed 10 bln yuan; daily box office has exceeded 100 mln yuan for 37 consecutive days.
+
+---
+
+### 2026-08-16 17:00:12  #其他
+
+【暑期檔票房破100億】據網路平臺資料，截至8月16日，2026年暑期檔總票房（含預售）突破100億元。（央視新聞）
+
+---
+
+### 2026-08-16 16:58:39  #宏觀
+
+【澳大利亞推出“槍支回收計劃”，新南威爾士州將率先施行】當地時間8月16日上午，澳大利亞總理阿爾巴尼斯和新南威爾士州州長宣佈澳聯邦政府和新州正式聯合推出“槍支回收計劃”。新州州長明斯表示，雖然回收計劃可能花費上千萬甚至上億澳元，“但這是值得付出的代價”。阿爾巴尼斯也稱讚該計劃。根據該計劃，從11月2日起，新州將有27.4萬支槍支被收繳，不同型別槍支的補償標準從每支450至1000澳元不等，到明年年初，市值超過3000澳元的槍支，補償標準將提高到1萬澳元。這是2025年12月悉尼邦迪海灘恐怖襲擊事件後新州出臺的新法律“第一階段”的一部分，新州也成為澳大利亞首個實施相關槍支回購計劃的州。（央視新聞）
+
+---
+
+### 2026-08-16 16:57:35  #國際
+
+【普京登俄日爭議島嶼明確宣示主權】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。此舉引發日本方面的強烈抗議。日本首相高市早苗稱，北方四島是日本的“固有領土”，對普京此舉“絕對無法接受”。由於在島嶼歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。中國社科院日本研究所助理研究員孟明銘分析表示，普京以現任總統身份首次登上俄日爭議島嶼，並視察當地日常生活，這本身就是高度政治化的訊號。在俄羅斯看來，這些島嶼已經不是爭議領土，普京是用實際行動否定了這裡存在主權爭議。中國社會科學院俄羅斯東歐中亞研究所研究員張弘也表示，普京此行向外證明，俄羅斯依然保有維護遠東領土與海上安全的能力，打破西方炒作“俄軍深陷烏克蘭危機，無瑕顧及遠東”的西方外交敘事，告訴日本及其盟友，俄羅斯有能力兼顧東西兩線安全。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 16:53:13  #MKT News #Brent #Impact bullish #WTI
+
+Fars News reported the mayor of Mahshahr said explosions heard in Mahshahr minutes earlier were caused by the demolition of wartime ordnance in Iraq.
+
+---
+
+### 2026-08-16 16:50:42  #國際
+
+美國國家颶風中心：拉拉颶風目前仍為颶風級別，並繼續沿夏威夷大島背風面向西北方向移動。
+
+---
+
+### 2026-08-16 16:47:42  #公司
+
+【萬和電氣董事長盧宇聰：當下廚衛市場競爭邏輯已發生轉變】8月16日，萬和電氣(002543)董事長盧宇聰在公司釋出會上表示，當下廚衛市場的競爭邏輯已發生轉變，從單一產品比拼加速轉向全屋系統解決方案的價值競爭。基於這一判斷，萬和電氣正全面推進從“單一產品供應商”向“綜合解決方案提供者”的戰略轉型，打造覆蓋家用、商用全場景的熱水與採暖系統方案。
+
+---
+
+### 2026-08-16 16:47:39  #國際
+
+【專家：普京登島 俄日關係或處於長期緊張狀態】中國現代國際關係研究院歐亞研究所副所長 陳宇：長期以來南千島群島，也就是日本所稱的北方四島歸屬的爭議，一直是俄日兩國幾十年來的結構性障礙。但過去由於雙方在經貿層面還有一定的相互需求，雙邊關係沒有達到很僵的程度，包括持續存在關於領土問題的一些對話。這也是為什麼普京此前一直沒有去南千島群島，也就是日本所稱北方四島的原因。但俄烏衝突後，俄羅斯和西方的關係破裂了，日本作為美國的盟友，緊跟著西方，對俄羅斯進行了全方位的制裁。包括其自身也不斷加速防務擴張，不斷強化美日同盟，俄日關係也因此迅速惡化。雙方原有的合作與對話也趨於停滯。去年，俄方也正式宣佈已經看不到俄日締結和平協議的可能性。本次普京正式登上了南千島群島，也是日本所稱的北方四島，說明過去曾經存在的和平條約的談判空間，目前已經凍結了。短期內不存在妥協的現實基礎，締結和平條約也遙遙無期。同時，由於長期存在此種制裁的原因，雙方經貿人文的往來也不斷萎縮，原本就有限的能源和漁業合作空間也持續壓縮，民間交流的渠道也在不斷收窄，過去的經濟紐帶也已經不復存在。此外，兩國間軍事安全對立的加劇，也決定了俄日關係在可預見的未來，將始終處於一個緊張的狀態。（央視新聞）
+
+---
+
+### 2026-08-16 16:45:11  #國際
+
+【比利時發生大規模野火 數百居民被疏散】比利時東部地區日前發生大規模野火，截至15日晚，過火面積已超過2700公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。 這場野火14日在靠近德國邊境的一個自然保護區開始燒起，後迅速蔓延。當地政府說，過火面積已從14日的約80公頃迅速擴大至15日晚的2700多公頃。 歐洲森林火災資訊系統的資料顯示，此次火災過火面積幾乎兩倍於比利時2011年大火時近1400公頃的過火面積，為該國有記錄以來最大規模的野火。 （新華社）
+
+---
+
+### 2026-08-16 16:43:47  #MKT News
+
+【Niu Lai cumulative box office tops 5 mln yuan】According to Lighthouse Professional, on its 12th day the film Niu Lai has a cumulative box office exceeding 5 mln yuan.
+
+---
+
+### 2026-08-16 16:39:05  #國際
+
+【俄羅斯火箭航天中心遭襲】據德國新聞電影片道網站8月15日報道，烏克蘭軍方聲稱襲擊了位於俄羅斯薩馬拉的火箭航天中心。烏克蘭總統澤連斯基在“電報”軟體上宣佈，烏軍使用“火烈鳥”巡航導彈擊中了距離俄烏邊境約900公里、位於薩馬拉的火箭工廠。澤連斯基稱，此舉旨在進一步對俄羅斯政府施壓，以迫使其停戰。他在社交平臺X上寫道：“削弱俄羅斯的戰爭潛力至關重要。和平是必要的，必須透過對特定設施的具體破壞行動讓俄羅斯感受到這點。”烏克蘭武裝部隊總參謀部稱，位於俄羅斯薩馬拉州的“進步”火箭航天中心被擊中並起火。有關損失的更多細節尚未公佈。其首府薩馬拉市是俄羅斯航空航天業最重要的中心之一。這座城市在蘇聯時期發展成為生產運載火箭和衛星的航天技術基地。 （參考訊息）
+
+---
+
+### 2026-08-16 16:36:53  #國際
+
+【印尼東努沙登加拉省宣佈進入災害緊急響應狀態】據印度尼西亞媒體16日報道，印尼東努沙登加拉省省長萊納簽署省長令，宣佈全省因15日發生的7.7級地震及多次餘震進入為期14天的災害緊急響應狀態。萊納表示，宣佈進入災害緊急響應狀態旨在提高災後處置效率、統籌調配資源、加強各部門協調溝通。災害緊急響應狀態從8月15日持續至8月28日。（新華社）
+
+---
+
+### 2026-08-16 16:34:53  #國際
+
+伊朗陸軍總司令：伊朗軍人逮捕或者擊斃一名美國士兵可獲得3萬美元的獎勵。
+
+---
+
+### 2026-08-16 16:31:39  #公司 #國際
+
+【烏克蘭克里沃羅格一鋼鐵廠遭襲，致2死13傷】烏克蘭克里沃羅格安賽樂米塔爾鋼鐵廠8月16日通報稱，該企業當天凌晨遭俄羅斯導彈襲擊，截至目前，已有2人死亡、13人受傷。襲擊導致企業主要設施受損，工廠部分生產流程暫停。目前，相關專家正在評估損失程度以及恢復生產的可能性。通報還稱，2022年該企業曾遭受俄軍導彈襲擊，當時軋鋼車間被摧毀，一名員工死亡。公司強調，該企業屬於冶金工業民用設施。（央視新聞）
+
+---
+
+### 2026-08-16 16:28:35  #國際
+
+【日政要參拜靖國神社遭國際社會強烈反對】在日本宣佈無條件投降81週年之際，日本首相高市早苗15日以“自民黨總裁”身份，向供奉有二戰甲級戰犯的靖國神社供奉“玉串料”（祭祀費），並在出席日本政府舉辦的“全國戰歿者追悼儀式”前從會場停車場朝靖國神社所在方向“遙拜”。此外，日本防衛大臣小泉進次郎等多名政客分別前往靖國神社參拜，這是日本連續第7年有現任閣僚在這一天參拜靖國神社。日方錯誤行徑引發國際社會和日本國內愛好和平人士強烈反對。（新華社）
+
+---
+
+### 2026-08-16 16:28:01  #國際
+
+【脫離民眾、部署混亂 航母風波凸顯美軍困境】美國“亞伯拉罕·林肯”號核動力航空母艦因長期部署被媒體曝出諸多問題後，許多輿論認為這艘航母的困境是美軍在伊朗戰事中陷入僵局的象徵。有媒體認為，美國政府的決策與士兵家屬的感受及民眾對戰事的態度脫節，同時也暴露出美國軍事資源快速消耗這一重大問題。 （新華社）
+
+---
+
+### 2026-08-16 16:26:43  #國際
+
+【俄媒稱莫斯科遭最大規模無人機襲擊】俄羅斯莫斯科市長索比亞寧今天（8月16日）稱，當地時間15日晚至16日6時30分，飛向莫斯科的無人機數量達到600架塔斯社報道稱，這是近兩年來莫斯科遭到的規模最大的一次無人機襲擊。（CCTV國際時訊）
+
+---
+
+### 2026-08-16 16:24:41  #公司
+
+【豐林集團：收到稅務通知 或繳回約2700萬元已退稅款】豐林集團公告稱，8月14日收到稅務機關《稅務事項通知書》，要求繳回2022年1月1日至2025年12月31日期間，不符合即徵即退增值稅優惠政策的已退稅款。公司初步估算繳回稅費約2700萬元，後續將進一步核算。該事項不涉及行政處罰和前期財務資料追溯調整，相關財務影響將計入2026年當期損益。公司將與稅務機關積極溝通，必要時申請行政複議或訴訟。
+
+---
+
+### 2026-08-16 16:24:26  #其他
+
+【南海開漁季來了】今天（8月16日）中午12點，為期三個半月的南海伏季休漁結束。在廣東陽江，閘坡國家級中心漁港的800多艘漁船陸續出港，奔赴南海。 開漁後的第一網海鮮什麼時候能吃到？ 按照往年的作業節奏，近海漁船最快今晚到明天凌晨就會陸續返港，帶回海蝦、海蟹以及當地其他海魚。這些漁獲上岸後，一邊是進入港口市場、餐館和景區商鋪，另一邊則可能會進入預冷、鎖鮮、冷藏和加工環節，再透過冷鏈運往更遠的市場。 今天的開漁現場，不只是漁船集中出港。開漁令釋出前這裡還有非常豐富的表演活動，來自陽江各縣區以及港澳地區的13艘特色彩船在港池裡巡遊，昨天碼頭邊還舉行了漁家婚嫁非遺表演等15項系列活動，活動規模和種類均為歷屆最多。本屆開漁季活動期間，預計吸引客流將達100萬人次左右。（央視財經）
+
+---
+
+### 2026-08-16 16:22:05  #MKT News #Market Regions #Europe & UK
+
+ZELENSKIY said Europe must not leave interceptor missiles sitting in warehouses.
 
 ---
 
@@ -18275,155 +18443,5 @@ Iron Ore Rises on Improving Fundamentals — Iron ore futures climbed above CNY 
 ### 2026-08-14 12:16:41  #MKT News #Star Stocks #JD.com #Hang Seng Index #Impact bearish #09618.HK #00001.HK
 
 【Hong Kong midday: Hang Seng slips 0.93% as JD.com falls over 10% post-results】Hang Seng Index extended weakness, opening about 200 points down, briefly cutting losses to under 100 before resuming decline; at the midday close the index fell 0.93% to 25,160.25. Hang Seng Tech Index lost 1.79% to 4,706.73. Market turnover was HKD 135.7 bln. Sector flows: gold and nonferrous metals outperformed, optical communications and memory-chip names popped then faded, while internet and innovative-drug stocks weakened. Notable movers: China Gold International (02099.HK) +12.93%, GigaDevice Semiconductor (03986.HK) +2.30%, SMIC (00981.HK) +1.92% after results, JD.com (09618.HK) -10.08% post-results, CK Hutchison (00001.HK) -5.12% post-results, Akeso (09926.HK) -6.08%.
-
----
-
-### 2026-08-14 12:16:03  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #GS.O
-
-【Goldman in talks to join NVIDIA $500 billion AI financing plan - sources】Goldman Sachs is negotiating with potential investors to participate in NVIDIA’s roughly $500 billion third‑party capital raise for AI infrastructure, people familiar with the matter said. Sources said U.S. insurers, asset managers and banks are expected to form the core investor group, and asset managers plan to take a large share. NVIDIA on Aug. 10 said it had partnered with six major financial firms, including Goldman, to launch a computing platform aimed at raising over $500 billion for AI infrastructure. One source said Goldman Asset Management could supply subordinated capital and private credit, while Goldman’s investment banking arm could help allocate debt to private credit funds and ultimately into the public bond market.
-
----
-
-### 2026-08-14 12:15:12  #Trading Economics #Economy #Malaysia #Foreign Direct Investment #Importance 1
-
-Malaysia Q2 FDI Inflows Fall to One-Year Low — Malaysia’s foreign direct investment (FDI) inflows dropped sharply to MYR 7.4 billion in Q2 2026 from MYR 22.8 billion in the previous quarter, marking the lowest level since Q2 2025. The sharp quarterly drop suggested that Malaysia’s FDI performance remained vulnerable to a more cautious global investment environment. By sector, FDI was mainly channelled into services, particularly the information & communication subsector, while manufacturing and construction were the next-largest recipients. Investment was led by China, Hong Kong and Singapore.
-
----
-
-### 2026-08-14 12:14:45  #其他
-
-【湖南漣源市楊梅山煤礦發生一起瓦斯突出事故 7人失聯】2026年8月14日5時08分，湖南漣源市楊梅山煤礦發生一起瓦斯突出事故。初步查明，當班入井作業人員52人，安全出井44人，失聯7人，1人正在搶救。目前，市縣兩級已組織應急、衛健等相關部門現場開展應急救援處置工作，事故原因正在進一步調查。
-
----
-
-### 2026-08-14 12:14:33  #市場 #國際
-
-印度盧比兌美元最新報95.40，較前收盤價95.44微幅走強。
-
----
-
-### 2026-08-14 12:14:29  #央行 #國際
-
-交易員稱，印度央行可能賣出美元以支撐盧比。
-
----
-
-### 2026-08-14 12:13:16  #MKT News
-
-According to the Financial Times, the head of U.S. asset manager T Rowe Price said reversing large fund outflows will take "several years", as competition from passive investing continues to put downward pressure on fees for active managers.
-
----
-
-### 2026-08-14 12:12:31  #其他
-
-【淮河防總、淮委針對河南省淮北支流沙潁河、洪汝河水系提升防汛應急響應至二級】目前沙潁河、洪汝河部分河段超警、超保執行，預計高水位行洪仍將維持較長時間，堤防防守壓力大。根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委定於8月14日10時將河南省淮北支流沙潁河、洪汝河水系的防汛應急響應提升至二級、洪水防禦應急響應提升至Ⅱ級。
-
----
-
-### 2026-08-14 12:11:51  #國際
-
-印尼總統：我決心以高效、改進的方式繼續推行免費餐食計劃。
-
----
-
-### 2026-08-14 12:11:12  #公司
-
-【原山東鋼鐵集團房地產有限公司董事長王文學接受紀律審查和監察調查】8月14日，莒縣紀委監委通報，原山東鋼鐵集團房地產有限公司黨委書記、董事長、總經理王文學涉嫌嚴重違紀違法，目前正接受山東鋼鐵集團有限公司紀委紀律審查和莒縣監察委員會監察調查。
-
----
-
-### 2026-08-14 12:10:56  #其他
-
-西聯匯款與INTERMEX將與加州金融保護與創新部接洽，尋求恢復批准。
-
----
-
-### 2026-08-14 12:10:31  #公司 #國際
-
-【特朗普要五角大樓重振美國艦船工業 】美國白宮網站13日釋出訊息說，總統特朗普當天簽署一份國家安全總統備忘錄，指示國防部重振艦船工業，解決艦船製造和維護方面的長期問題，並恢復產能和競爭力。備忘錄要求國防部以“芬蘭模式”為基礎，對美國造船業的工業基礎加大直接投資。白宮表示，“芬蘭模式”首先被美國海岸警衛隊的中型破冰船專案所採用。根據這一模式，如外國造船商對美國造船廠進行大量持久的投資，且由此創造工作崗位並培訓美國勞動力，那麼這些外國造船商將被暫時允許在其位於美國境外的母公司為美方建造最多兩艘船。這些船將被快速交付以填補空缺，而美國防部訂單中的其他船隻將在“恢復活力”後的美國造船廠建造。備忘錄還指示國防部建立第五座海軍造船廠，以提升潛艇和航空母艦的維修能力。這將是美國80多年來第一次新建海軍造船廠。備忘錄還要求建立一個部件維修中心，以儲存和翻新關鍵的潛艇部件。
-
----
-
-### 2026-08-14 12:09:53  #公司 #市場 #國際
-
-【京東擴大跌幅至逾10% 此前錄得上市以來首次季度營收下滑】京東周五在香港一度擴大跌幅至逾10%，股價重新整理一個月以來的低點。公司週四釋出的財報顯示第二季度營收下降2.9%，是京東自2014年在美國上市以來首次出現季度營收下滑。截至午間收盤，京東港股(9618 HK)下挫10.08%，報110.60港元；香港恒生指數跌0.9%。
-
----
-
-### 2026-08-14 12:09:11  #MKT News
-
-Bank Negara Malaysia said El Niño effects typically lag and it expects to see greater impact next year.
-
----
-
-### 2026-08-14 12:09:03  #MKT News #Market Regions #Emerging Markets
-
-Bank Negara Malaysia said El Niño impacts are typically lagged and it expects more pronounced effects next year.
-
----
-
-### 2026-08-14 12:08:13  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hang Seng Falls to 3-Week Low — The Hang Seng Index fell about 0.9% to 25,160 on Friday, marking its fourth consecutive session of losses and hitting its lowest level since July 24, as technology stocks remained under pressure and investors stayed cautious amid lingering geopolitical uncertainty. Meituan fell 1.4%, while Alibaba and Tencent dropped 1.1% and 2.9%, respectively. Lenovo retreated 4.2% after reaching an all-time high in the previous session. In the broader market, JD.com plunged 6.5% at the open after the e-commerce giant reported a decline in interim profit, making it the worst-performing blue-chip stock, adding to pressure on tech sector. On the upside, Semiconductor Manufacturing rose 4.7% after reporting a sharp increase in second-quarter profit, making it the strongest-performing Hang Seng constituent at the open, while Shanghai Iluvatar rose 3.6%. On the data front, Hong Kong’s annual GDP growth rate for Q2 is due later today, with expectations of 4.3%, easing from 5.9% in the prior quarter.
-
----
-
-### 2026-08-14 12:07:37  #央行 #國際
-
-馬來西亞央行：厄爾尼諾現象的影響通常存在滯後性，預計其影響明年會進一步顯現。
-
----
-
-### 2026-08-14 12:07:27  #公司 #市場
-
-【港股午評：恒生指數跌0.93%，恒生科技指數跌1.79%】港股午間收盤，恒生指數跌0.93%，恒生科技指數跌1.79%。恒指港股通ETF銀華（159318）跌0.76%，港股通科技ETF鵬華（159751）跌1.21%。板塊方面，冶鋼原料、航空貨運板塊漲幅靠前；人力資源服務、藥店板塊跌幅靠前。個股方面，中國黃金國際漲12.93%，萬國資料-SW漲12.69%，邁富時漲11.42%，布魯可漲9.3%，納芯微漲8.66%；京東物流跌12.91%，龍旗科技跌12.57%，華虹宏力跌12.3%，京東集團-SWR跌10.29%，京東集團-SW跌10.08%。
-
----
-
-### 2026-08-14 12:07:24  #國際
-
-【受日元干預擔憂影響 外國投資者連續第二週淨賣出日股】在截至8月8日止的一週，外國投資者連續第二週拋售日本股票，因市場預期當局將進一步採取支撐日元的措施，這削弱了投資人對日本股市的買盤意願。日本財務省資料顯示，該周外國投資者淨賣出價值3,685億日元（合23.1億美元）的日本股票，此前一週為淨賣出3,925億日元。上週，日本財務省表示，美國與日本已協同進行買入日元的干預行動，並將毫不猶豫地採取進一步措施。在干預行動後，日元上週一度觸及155.21日元兌1美元的近三個月高點。最新交易價為159.43日元兌1美元。日元升值會提高外國投資人所持日本資產的美元價值，但同時也會降低他們以美元購買新股的購買力。
-
----
-
-### 2026-08-14 12:05:31  #觀點
-
-據英國金融時報報導，摩根大通去年因監管擔憂終止了與Polymarket的銀行業務關係。
-
----
-
-### 2026-08-14 12:05:22  #公司 #觀點
-
-【高盛上調閃迪、應用材料目標價】加拿大皇家銀行將應用材料公司目標價從520美元上調至600美元；將閃迪目標股價從1300美元上調至1600美元。
-
----
-
-### 2026-08-14 12:04:59  #MKT News
-
-Indonesia's president said this does not mean Danantara Sumberdaya will control all exports, but the company can monitor export volumes.
-
----
-
-### 2026-08-14 12:04:36  #MKT News
-
-Indonesia's president said Danantara Sumberdaya will tighten oversight of strategic bulk commodity exports at 50 ports.
-
----
-
-### 2026-08-14 12:04:06  #MKT News
-
-Indonesia's president said state-owned bulk-commodity manager Danantara Sumberdaya will, in the near term, manage all strategic export commodities, expanding its remit beyond palm oil, coal and ferroalloys.
-
----
-
-### 2026-08-14 12:03:58  #公司
-
-【胖東來：鄭州店擬招聘100名退伍邊防軍人及20名刑滿釋放人員】8月14日，胖東來發布《胖東來鄭州店招聘退伍邊防軍人及刑釋人員提前公告》。其中提到，在本次招聘中，公司計劃招聘100名退伍邊防軍人，20名刑期5年以上的刑滿釋放人員，併為其設立專屬報名投遞通道。胖東來表示，希望各個群體的人們都能夠得到社會的尊重和關愛。
-
----
-
-### 2026-08-14 12:03:17  #公司 #觀點 #國際
-
-【訊息人士：高盛在獲得關鍵職位後，正就英偉達融資交易與投資者進行磋商】知情人士透露，高盛集團正與潛在投資者就參與英偉達5000億美元人工智慧融資計劃進行磋商。此前，高盛憑藉與這家晶片製造商的長期合作關係，在該交易中爭取到了一個備受追捧的角色。其中一位知情人士稱，美國保險公司、資產管理公司和銀行預計將構成該融資計劃的核心投資者群體；而另一位訊息人士則表示，資產管理公司計劃保留該融資計劃中相當大的一份份額。英偉達於8月10日宣佈，已與包括高盛在內的六家主要金融機構合作，推出計算平臺，旨在為人工智慧基礎設施籌集超過5000億美元的第三方資本。此舉凸顯了人工智慧計算能力需求的激增如何吸引機構投資者，因為各國政府、企業和初創公司正競相擴建資料中心以支援人工智慧工作負載。第二位訊息人士稱，高盛可透過其資產管理部門提供次級資本和私募信貸融資，同時其投資銀行部門也可協助將相關債務置入私募信貸基金，並最終引入公開債務市場。
 
 ---
