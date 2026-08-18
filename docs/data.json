@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-19 02:26:40",
-  "count": 15094,
+  "updated": "2026-08-19 02:30:33",
+  "count": 15090,
   "items": [
+    {
+      "id": "mkt:01a01622-20e1-7aab-9080-6416b800ab95",
+      "time": "2026-08-19 02:28:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Air-raid sirens sounded in Kyiv and several Ukrainian regions."
+    },
+    {
+      "id": "5046411",
+      "time": "2026-08-19 02:28:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔及多個地區釋出空襲警報。"
+    },
+    {
+      "id": "5046410",
+      "time": "2026-08-19 02:27:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：鑑於法國駐德黑蘭大使館兩名官員存在違反國際法的行為，外交部將此二人列為不受歡迎人員，禁止其進入伊朗境內。"
+    },
     {
       "id": "te:markets:576224",
       "time": "2026-08-19 02:25:13",
@@ -138304,65 +138331,6 @@
         "國際"
       ],
       "text": "美國原油期貨收於每桶83.20美元，上漲1.07美元，漲幅1.30%。"
-    },
-    {
-      "id": "te:markets:574508",
-      "time": "2026-08-12 02:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Appreciates by 1.86% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.86% increase."
-    },
-    {
-      "id": "5036321",
-      "time": "2026-08-12 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.25%，報549.40元人民幣/桶。滬金夜盤收跌0.28%，滬銀收跌0.42%。"
-    },
-    {
-      "id": "5036320",
-      "time": "2026-08-12 02:29:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方嚴斥美國炮製“彈道導彈發射通報”涉華共同發言】中國裁軍事務大使李馳江11日在日內瓦裁軍談判會議（簡稱裁談會）上嚴正駁斥美國代表所謂“彈道導彈發射通報”涉華共同發言，強調中國正當合理的國防現代化建設不容置疑，中方提前通報導彈發射的善意舉措不應被地緣政治算計所綁架；中方堅決反對個別國家濫用裁談會平臺搞政治操弄。（新華社）"
-    },
-    {
-      "id": "5036319",
-      "time": "2026-08-12 02:29:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局：斯波坎國際機場因附近發生火災，正在組織人員疏散。"
-    },
-    {
-      "id": "mkt:019ff215-bb29-7aab-8ff8-f18c92346b03",
-      "time": "2026-08-12 02:28:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela, Israel agree to restore consular services, Venezuelan minister says】Venezuela’s minister of foreign affairs and foreign trade, Plasencia, posted a government bulletin on social media on the 11th saying Venezuela and Israel have agreed to restore consular services and to set up a coordination mechanism to provide consular assistance to each other’s nationals when needed. Venezuela severed diplomatic relations with Israel on Jan. 14, 2009; then‑president Hugo Chávez expelled Israel’s ambassador the week before."
-    },
-    {
-      "id": "mkt:019ff215-0bf7-7aab-8ff8-ee9c7b57b774",
-      "time": "2026-08-12 02:28:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FAA: Spokane International Airport is conducting an evacuation due to a nearby fire."
-    },
-    {
-      "id": "5036318",
-      "time": "2026-08-12 02:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉外長：委以同意恢復領事服務】委內瑞拉外交與外貿部長普拉森西亞11日在社交媒體釋出政府公報稱，委內瑞拉和以色列同意恢復領事服務。公報稱：“兩國同意建立協調機制，以便在需要時為居住在對方國家的本國公民提供領事服務。”2009年1月14日，委內瑞拉時任總統查韋斯決定與以色列“斷絕一切關係”。此前一週，他驅逐以色列駐委大使，以表達對巴勒斯坦的支援。"
     }
   ]
 }
