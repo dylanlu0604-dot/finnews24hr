@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-18 23:57:44",
+  "updated": "2026-08-19 00:02:12",
   "count": 15184,
   "items": [
+    {
+      "id": "mkt:01a0159a-9d5f-7aab-907f-163fddcc5b64",
+      "time": "2026-08-19 00:00:49",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU."
+    },
+    {
+      "id": "5046354",
+      "time": "2026-08-19 00:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。"
+    },
+    {
+      "id": "5046353",
+      "time": "2026-08-19 00:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。"
+    },
+    {
+      "id": "5046352",
+      "time": "2026-08-18 23:58:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：我方譴責以色列對敘利亞阿布杜赫爾軍用機場發動的空襲。"
+    },
+    {
+      "id": "5046351",
+      "time": "2026-08-18 23:57:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方：烏方襲擊核電站以阻撓國際原子能機構來訪】針對扎波羅熱核電站一公交站18日發生無人機爆炸一事，俄羅斯外交部發言人扎哈羅娃當天釋出宣告說，此次襲擊由烏方發動，其目的是阻撓國際原子能機構總幹事格羅西原定於20日至21日對扎波羅熱核電站的訪問。扎哈羅娃說，烏方持續對扎波羅熱核電站及其工作人員發動襲擊，此次還對用於搭載國際原子能機構秘書處代表的交通工具發動襲擊，證明其罪行“沒有盡頭”。扎哈羅娃還表示，西方國家持續向烏克蘭提供政治支援，才使得此類事件接連上演，並慫恿烏方採取“更為魯莽的新行動”，製造核災難威脅，可能給全世界造成“災難性後果”。（新華社）"
+    },
     {
       "id": "mkt:01a01596-f255-7aab-907f-0bd377f16206",
       "time": "2026-08-18 23:56:48",
@@ -139269,50 +139311,6 @@
         "國際"
       ],
       "text": "【英特爾增發股票前曾尋求美國政府的批准】英特爾執行長陳立武在公司增發股票前，曾尋求美國政府的批准。英特爾上週準備宣佈股票發行計劃之際，陳立武致電美國商務部長霍華德·盧特尼克。美國政府最終決定不參與此次股票發行，但盧特尼克批准了這一計劃。"
-    },
-    {
-      "id": "mkt:019ff18e-4985-7aab-8ff6-054102531af3",
-      "time": "2026-08-12 00:01:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media outlet Fars News quoted an IRGC spokesman saying there were no US warships stationed in the Persian Gulf today."
-    },
-    {
-      "id": "5036226",
-      "time": "2026-08-12 00:00:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：倘若伊朗再度遭遇威脅，數十萬英里能源管道、數千座發電廠、全部美製及非美製系統，以及接入網際網路的全球基礎設施，都將面臨風險。"
-    },
-    {
-      "id": "te:markets:574489",
-      "time": "2026-08-11 23:59:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Retreats From Record High — The CAC 40 edged 0.1% lower to close at 8,715 on Tuesday, retreating from the record high reached in the previous session amid renewed geopolitical tensions. US President Donald Trump called on Iran to compensate victims of conflicts involving Tehran, following Iranian demands for reparations over damage caused by recent US and Israeli strikes. The escalating rhetoric reduced expectations of a near-term breakthrough and dimmed hopes for the reopening of the Strait of Hormuz, fueling concerns over continued energy supply disruptions and energy-driven inflation. Luxury stocks declined amid increased risk aversion, with LVMH down 0.8% and L’Oréal losing 1.2%. Industrial shares also fell, with Airbus shedding 1% and Safran down 0.5%, while financials weakened, led by a 1% decline in BNP Paribas. In contrast, TotalEnergies advanced 1.4% on higher oil prices."
-    },
-    {
-      "id": "5036225",
-      "time": "2026-08-11 23:59:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人：今日波斯灣海域沒有美國軍艦部署。"
-    },
-    {
-      "id": "5036224",
-      "time": "2026-08-11 23:57:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。"
     }
   ]
 }

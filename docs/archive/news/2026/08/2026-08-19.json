@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-19",
+  "count": 3,
+  "items": [
+    {
+      "id": "mkt:01a0159a-9d5f-7aab-907f-163fddcc5b64",
+      "time": "2026-08-19 00:00:49",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU."
+    },
+    {
+      "id": "5046354",
+      "time": "2026-08-19 00:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。"
+    },
+    {
+      "id": "5046353",
+      "time": "2026-08-19 00:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。"
+    }
+  ]
+}
