@@ -1,7 +1,225 @@
 {
-  "updated": "2026-08-18 13:59:41",
-  "count": 15158,
+  "updated": "2026-08-18 14:03:34",
+  "count": 15170,
   "items": [
+    {
+      "id": "5045303",
+      "time": "2026-08-18 14:02:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方電氣集團董事長羅乾宜當選中國電器工業協會會長】中國電器工業協會官網訊息，2026年8月14日，繼中國電器工業協會第七屆會員代表大會選舉產生新一屆理事會理事、監事會監事之後，第七屆理事會召開了第一次會議。大會遵照中電協章程規定，按照既定選舉流程，採取無記名投票的方式選舉第七屆常務理事，89個常務理事候選人全部當選；在此基礎上，中國東方電氣集團有限公司黨組書記、董事長羅乾宜當選第七屆理事會會長，簡靖文、白文波、黃玉明等32名同志當選副會長，白文波兼任中電協秘書長。（澎湃新聞）"
+    },
+    {
+      "id": "5045302",
+      "time": "2026-08-18 14:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長鑫科技成交額超200億元】8月18日下午，長鑫科技成交額超200億元，現跌4.6%。"
+    },
+    {
+      "id": "5045301",
+      "time": "2026-08-18 14:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【裕興股份等成立電子材料新公司】企查查APP顯示，近日，東莞裕簡電子材料有限公司成立，經營範圍包含：電子專用材料製造；電子專用材料研發；電子元器件零售；電子元器件批發等。企查查股權穿透顯示，該公司由裕興股份等共同持股。"
+    },
+    {
+      "id": "mkt:01a01376-b911-7aab-9070-947d08518cfc",
+      "time": "2026-08-18 14:02:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China July power and energy-storage battery sales down 5.5% MoM】China Automotive Power Battery Industry Innovation Alliance said July combined production of power and energy-storage batteries was 218.0 GWh, up 5.8% MoM and 62.9% YoY; Jan–Jul cumulative production 1,286.9 GWh, +54.9% YoY. Combined July sales were 185.2 GWh, down 5.5% MoM and up 45.5% YoY; Jan–Jul cumulative sales 1,164.6 GWh, +48.1% YoY. July power (traction) battery sales were 129.1 GWh (69.7% of total), down 3.3% MoM and up 41.6% YoY; energy-storage battery sales were 56.1 GWh (30.3%), down 10.3% MoM and up 55.4% YoY. Jan–Jul cumulative power battery sales 790.4 GWh (67.9%), +37.1% YoY; cumulative storage battery sales 374.2 GWh (32.1%), +78.6% YoY."
+    },
+    {
+      "id": "mkt:01a01375-9ae3-7aab-9070-89a5a678fa21",
+      "time": "2026-08-18 14:01:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Euro STOXX 50 futures fell 0.47%, Germany's DAX futures fell 0.42% and UK FTSE futures rose 0.07%."
+    },
+    {
+      "id": "mkt:01a01375-8261-7aab-9070-8611f869891f",
+      "time": "2026-08-18 14:01:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Nikkei 225"
+      ],
+      "text": "Japan 40-year government bond yield rose 7 bps to 4.205%."
+    },
+    {
+      "id": "mkt:01a01374-ee6e-7aab-9070-7f6509a6ef65",
+      "time": "2026-08-18 14:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK unemployment rate eased to 4.33% in July from 4.40% in June."
+    },
+    {
+      "id": "5045300",
+      "time": "2026-08-18 14:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國7月失業金申請人數 -1.1萬人，前值由0.67萬人修正為-0.64萬人。"
+    },
+    {
+      "id": "mkt:01a01374-d546-7aab-9070-757250948d69",
+      "time": "2026-08-18 14:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Unemployment Rate (Jul) | actual 4.33% | previous 4.40%"
+    },
+    {
+      "id": "mkt:01a01374-ca0c-7aab-9070-68fccb2ba269",
+      "time": "2026-08-18 14:00:15",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK three-month ILO employment change, June: +83k vs +129k expected; prior +147k."
+    },
+    {
+      "id": "mkt:01a01374-c5fe-7aab-9070-62c6fd55eeec",
+      "time": "2026-08-18 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK three-month ILO unemployment rate for June 4.9% vs 4.8% expected; prior 4.9%."
+    },
+    {
+      "id": "mkt:01a01374-bc3a-7aab-9070-5b43d86b3872",
+      "time": "2026-08-18 14:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK three-month average earnings including bonuses YoY 4.1% in June vs 4.0% expected; prior reading revised from 4.30% to 4.4%."
+    },
+    {
+      "id": "mkt:01a01374-bbf5-7aab-9070-565ae4ef0a6d",
+      "time": "2026-08-18 14:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK July change in jobless benefit claims -11,000; prior reading revised from +6,700 to -6,400."
+    },
+    {
+      "id": "5045299",
+      "time": "2026-08-18 14:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國6月三個月ILO失業率 4.9%，預期4.8%，前值4.90%。"
+    },
+    {
+      "id": "mkt:01a01374-b351-7aab-9070-4e0cb37b3028",
+      "time": "2026-08-18 14:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK three-month annual growth in average weekly earnings excluding bonuses (June) 3.5% vs 3.4% expected, 3.4% prior."
+    },
+    {
+      "id": "mkt:01a01374-9b8a-7aab-9070-41bca444ed61",
+      "time": "2026-08-18 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | ILO Unemployment Rate 3M (Jun) | actual 83000K | consensus 129000K | previous 147000K"
+    },
+    {
+      "id": "mkt:01a01374-9b33-7aab-9070-3edd809579fc",
+      "time": "2026-08-18 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | ILO Unemployment Rate 3M/3M (Jun) | actual 4.9% | consensus 4.8% | previous 4.90%"
+    },
+    {
+      "id": "mkt:01a01374-96c5-7aab-9070-33bea69690e1",
+      "time": "2026-08-18 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Average Earnings Excluding Bonus in 3 Months (YoY) (Jun) | actual 3.5% | consensus 3.40% | previous 3.40%"
+    },
+    {
+      "id": "mkt:01a01374-95fb-7aab-9070-2d75fb3f5577",
+      "time": "2026-08-18 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Average Earnings Including Bonus in 3 Months (YoY) (Jun) | actual 4.1% | consensus 4% | previous 4.30%"
+    },
+    {
+      "id": "mkt:01a01374-9184-7aab-9070-20eb68681003",
+      "time": "2026-08-18 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Jobless Claims Count (Jul) | actual -11000K | previous 6700K"
+    },
     {
       "id": "mkt:01a0136f-f376-7aab-9070-1dc130ed8036",
       "time": "2026-08-18 13:54:58",
@@ -138769,77 +138987,6 @@
         "MKT News"
       ],
       "text": "Reserve Bank of Australia Governor Bullock said he is not concerned about vulnerabilities in private credit."
-    },
-    {
-      "id": "mkt:019fef6b-39b9-7aab-8fe9-0382a6625995",
-      "time": "2026-08-11 14:03:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A local governor said an industrial plant in Russia's Orenburg region caught fire after being struck by an \"enemy drone\"."
-    },
-    {
-      "id": "5035134",
-      "time": "2026-08-11 14:03:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“雪龍”號順利完成12個冰站作業任務】由自然資源部組織的中國第16次北冰洋考察冰站調查作業正在開展。目前，“雪龍”號12個冰站調查作業任務已完成。本次考察，“雪龍”號共開展了12個冰站作業，為歷次北冰洋考察單船之最。在現場冰情和作業條件雙重限制下，考察隊透過周密籌劃，完成全部冰面科考物資的運輸保障，布放各類冰基浮標30餘套。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fef6a-e348-7aab-8fe8-fa22baa69871",
-      "time": "2026-08-11 14:03:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of Korea senior deputy governor: USD/KRW remains in the 1,400 range and is still \"very high\"."
-    },
-    {
-      "id": "5035132",
-      "time": "2026-08-11 14:02:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新里程在山東成立智慧機器人公司 註冊資本1.35億元】企查查APP顯示，山東新里程智慧機器人有限公司成立，法定代表人為朱鈿，註冊資本為1.35億元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；數控機床製造；工業機器人制造；服務消費機器人制造等。企查查股權穿透顯示，該公司由新里程間接全資持股。"
-    },
-    {
-      "id": "mkt:019fef6a-8759-7aab-8fe8-f2303ecc53c1",
-      "time": "2026-08-11 14:02:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Korea senior deputy governor said the central bank is more focused on demand-side inflationary pressure than supply-side factors and that further rate hikes will occur."
-    },
-    {
-      "id": "5035131",
-      "time": "2026-08-11 14:02:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50指數期貨下跌0.02%，德國DAX指數期貨上漲0.05%，富時指數期貨下跌0.11%。"
-    },
-    {
-      "id": "5035130",
-      "time": "2026-08-11 14:01:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鴻利秉一：成為南京匯聚MLCC一級代理商】鴻利智匯參股公司鴻利秉一官微訊息，鴻利秉一正式獲得南京淳瓷電子科技有限公司授權，成為匯聚品牌電子零件全系列MLCC貼片疊層陶瓷電容器一級代理商。"
-    },
-    {
-      "id": "5035129",
-      "time": "2026-08-11 14:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江波龍成交額超100億元】8月11日下午，江波龍成交額超100億元，現漲1.53%。"
     }
   ]
 }
