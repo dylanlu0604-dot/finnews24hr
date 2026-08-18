@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18 23:49:55",
-  "count": 15183,
+  "updated": "2026-08-18 23:53:52",
+  "count": 15181,
   "items": [
+    {
+      "id": "te:markets:576208",
+      "time": "2026-08-18 23:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica."
+    },
+    {
+      "id": "5046348",
+      "time": "2026-08-18 23:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。"
+    },
     {
       "id": "mkt:01a0158d-6826-7aab-907e-fe5740d9e4d0",
       "time": "2026-08-18 23:46:23",
@@ -139259,46 +139279,6 @@
         "焦點"
       ],
       "text": "【中國人保：提名譚炯為執行董事候選人並選舉其為董事長】中國人保告稱，公司董事會審議透過議案，提名譚炯為第五屆董事會執行董事候選人，並選舉其為公司董事長。"
-    },
-    {
-      "id": "5036221",
-      "time": "2026-08-11 23:52:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部表示，伊朗與阿曼就霍爾木茲海峽問題的會談已進入關鍵階段。"
-    },
-    {
-      "id": "mkt:019ff185-90d0-7aab-8ff5-f83f1d527bf5",
-      "time": "2026-08-11 23:51:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951."
-    },
-    {
-      "id": "5036220",
-      "time": "2026-08-11 23:51:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）"
-    },
-    {
-      "id": "mkt:019ff184-3e50-7aab-8ff5-f124bcad7869",
-      "time": "2026-08-11 23:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes."
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-08-18",
-  "count": 2655,
+  "count": 2657,
   "items": [
+    {
+      "id": "te:markets:576208",
+      "time": "2026-08-18 23:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica."
+    },
+    {
+      "id": "5046348",
+      "time": "2026-08-18 23:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。"
+    },
     {
       "id": "mkt:01a0158d-6826-7aab-907e-fe5740d9e4d0",
       "time": "2026-08-18 23:46:23",
