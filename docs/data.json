@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-19 00:13:52",
-  "count": 15138,
+  "updated": "2026-08-19 00:17:44",
+  "count": 15131,
   "items": [
+    {
+      "id": "5046363",
+      "time": "2026-08-19 00:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：葉門胡塞武裝知情人士否認有關向阿聯酋發動導彈襲擊的報道。"
+    },
     {
       "id": "te:markets:576219",
       "time": "2026-08-19 00:12:07",
@@ -138743,87 +138751,6 @@
         "國際"
       ],
       "text": "基輔釋出防空警報。"
-    },
-    {
-      "id": "5036246",
-      "time": "2026-08-12 00:17:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會考慮為高成本的市場追蹤資料庫提供直接資金支援。"
-    },
-    {
-      "id": "5036245",
-      "time": "2026-08-12 00:17:12",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：當前經濟面臨的最大問題是通脹。"
-    },
-    {
-      "id": "mkt:019ff19c-b4a9-7aab-8ff7-55c702788844",
-      "time": "2026-08-12 00:16:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Cochilco forecasts Chile's 2026 copper production at 5.27 million tonnes, down 2.6% YoY from 2025."
-    },
-    {
-      "id": "5036244",
-      "time": "2026-08-12 00:16:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：只要消費者保持穩健，經濟就會維持向好。"
-    },
-    {
-      "id": "mkt:019ff19c-344a-7aab-8ff7-483e4ef67acc",
-      "time": "2026-08-12 00:16:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "The EIA lowered its forecast for Texas electricity demand after the Texas governor announced a pause on new data center development."
-    },
-    {
-      "id": "mkt:019ff19b-67c6-7aab-8ff7-44d11c78d260",
-      "time": "2026-08-12 00:15:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Chilean Copper Commission Cochilco expects global copper production to reach 24.5 mln tonnes in 2027."
-    },
-    {
-      "id": "mkt:019ff19b-2538-7aab-8ff7-3f8ec37fac8f",
-      "time": "2026-08-12 00:15:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Chile's copper commission Cochilco forecasts global copper output of 23.5 mln tonnes in 2026, up 0.2% from 2025."
-    },
-    {
-      "id": "5036243",
-      "time": "2026-08-12 00:14:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利銅委員會預計，2026年全球銅礦產量將達到2350萬噸，較2025年增長0.2%。"
     }
   ]
 }
