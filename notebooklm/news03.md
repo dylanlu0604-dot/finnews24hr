@@ -1,7 +1,83 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:57:23_
-_本檔包含 3062 則快訊，約 604847 字_
+_更新時間：2026-08-19 05:32:28_
+_本檔包含 3063 則快訊，約 604700 字_
+
+---
+
+### 2026-08-16 13:31:02  #國際
+
+【美國關稅壓力之下 韓國產業部長再度前往華盛頓】訊息人士週日透露，在多項雙邊貿易懸而未決、韓國面臨美國與日俱增的關稅壓力背景下，韓國產業部長已於當日早些時候啟程前往華盛頓。產業部長金正官此次訪美正值雙邊貿易關係敏感節點，美國不斷施壓，要求韓國加快落實雙邊關稅協議項下的投資承諾。
+
+---
+
+### 2026-08-16 13:28:02  #其他
+
+【中國紅十字會總會向河南洪澇災區追加調撥救災物資】8月16日，針對河南洪澇災害救助進一步需求，中國紅十字會總會追加調撥賑濟家庭包、毛巾被等救災物資5500件，支援災區做好群眾轉移安置和生活保障工作。目前，中國紅十字會總會已累計向河南洪澇災區調撥救災物資9000件。（新華社）
+
+---
+
+### 2026-08-16 13:25:55  #國際
+
+【美媒體人：“海峽吞併言論”只是“政治止損口號”】8月16日，英國《泰晤士報》旗下播客欄目“TIMES NEWS”播出對美國《國會山報》（The Hill）副主編兼白宮專欄作家尼爾·斯坦納奇（Niall Stanage）的專訪。在被問及對美國總統特朗普近日在一次演講中聲稱“在擊敗伊朗後將宣佈霍爾木茲海峽為美國領土”這一言論的評價時，尼爾·斯坦納奇認為，上述言論只是“表演式的口號”。（央視）
+
+---
+
+### 2026-08-16 13:23:55  #國際
+
+印尼7.7級地震死亡人數升至51人。（央視新聞）
+
+---
+
+### 2026-08-16 13:14:10  #公司
+
+【電影《牛來》宣告：多平臺出現冒充賬號 嚴重損害影片與觀眾權益】電影《牛來》透過官方賬號釋出宣告。宣告內容提到，近期，我們發現多個社交平臺上出現冒充電影《牛來》官方團隊的賬號，這些賬號未經授權，擅自發布不實資訊、誤導大家，甚至進行商業活動，嚴重損害了影片與觀眾的權益。
+
+宣告稱，“為此，我們鄭重宣告：電影《牛來》官方團隊僅在以下平臺擁有唯一官方賬號(平臺名稱：抖音/微博/公眾號/小紅書：牛來電影官方團隊)。除以上認證賬號外，其他平臺的所有賬號均為冒充，與我們無任何關聯，所釋出的內容均不代表官方立場。”
+
+宣告指出，“請大家提高警惕，認準官方賬號，避免受到誤導，保護好自身的合法權益。對於任何冒用我方名義的行為，我們保留追究其法律責任的權利。”（新浪科技）
+
+---
+
+### 2026-08-16 13:12:12  #國際
+
+以色列軍方：對代爾阿扎拉尼實施打擊，擊斃黎巴嫩南部與真主黨有關聯的巴德爾部隊指揮官。
+
+---
+
+### 2026-08-16 13:11:48  #市場
+
+【Sorry勒索病毒發起攻擊】近日，國家計算機病毒應急處理中心、計算機病毒防治技術國家工程實驗室聯合釋出安全預警：我國境內已出現多起“Sorry”勒索病毒攻擊案例。該病毒入侵後會加密使用者裝置內全部重要檔案，統一追加“Sorry”字尾，同時留存勒索信。專家表示，這次的勒索病毒，與以往大多數需要欺騙網民主動安裝的程式不同，而是透過系統漏洞，直接登入伺服器，入侵過程使用者毫無感知。據網路安全專家表示，“Sorry”勒索病毒重點瞄準的是各類“資料量大”的企業主體。其中防護能力薄弱、資料資產密集的中小企業成為主要受害群體。同時該病毒採用高強度加密技術，一旦中招，資料破解恢復難度極大。當前全球勒索軟體攻擊態勢持續高發，資料顯示，今年上半年，全球勒索軟體攻擊索賠案例同比上漲25%，總數達4544起，活躍勒索軟體團伙多達146個。（央視財經）
+
+---
+
+### 2026-08-16 13:05:28  #國際
+
+【美媒稱特朗普再次要求修改新航母設計】美國《華盛頓郵報》15日援引多名美國官員訊息報道說，應美國總統特朗普要求，美國海軍再次考慮對“福特”級航母作出重大設計調整，將艦島向艦體中部移動，此舉預計將耗費數十億美元並延長交付週期。此前，特朗普要求新航母棄用電磁彈射系統。據知情官員透露，由於特朗普對“福特”級航母的外觀“存在擔憂”，希望其更接近二戰時期的航母設計，美國海軍正考慮將新航母上艦島位置從原來的位於後方調整為更靠近艦體中部。報道說，美國海軍方面認為這一改動可能花費高昂且耗時漫長。實際上，特朗普第一任期內美海軍已就該問題進行過研究。評估顯示，移動艦島位置預計將增加數十億美元的重新設計成本，並導致航母交付週期大幅延長。報道援引美官員的話說，艦島靠後可以為艦載機提供更多停放空間，縮短其起飛時間，並降低返航時遭遇的風險，提高著艦安全性。美國智庫哈得孫研究所專家布賴恩·克拉克說，改動艦島位置屬於“重大設計調整”，將影響航母的浮力和重量。這是特朗普推動的第二項重大航母設計改動。13日，他下令要求第四艘“福特”級航母棄用電磁彈射系統，恢復老式的蒸汽彈射。（新華社）
+
+---
+
+### 2026-08-16 13:01:19  #MKT News #HII.O #Impact bearish
+
+【US Navy weighing Ford‑class carrier redesign at Trump’s request, Washington Post says】The US Navy is considering redesigning upcoming Ford‑class aircraft carriers to reflect former President Trump’s aesthetic preferences, the Washington Post reports. Proposed changes include relocating the carriers’ multi‑level island command center to the ship’s midsection. Officials say the alteration could cost billions of dollars, exacerbate existing construction delays and forfeit three operational advantages: increased deck parking capacity, shorter intervals between catapult launches, and reduced turbulence on landings. The moves remain under study and could extend build timelines as the conflict with Iran has pushed carrier demand higher.
+
+---
+
+### 2026-08-16 12:59:47  #國際
+
+伊朗官員阿里・內赫班達尼警告，美國、以色列以及地區敵對勢力的挑釁行為，將招致代價更為沉重的報復。
+
+---
+
+### 2026-08-16 12:54:59  #MKT News
+
+According to Maoyan Pro data, the film Welcome to Long Restaurant has grossed over CNY 800 mln in its first six days of release.
+
+---
+
+### 2026-08-16 12:54:50  #公司 #市場
+
+【本週南向資金淨買入騰訊控股超70億港元 14股南向資金持股量環比增長超15%】本週（8月10日至14日）港股市場主要股指集體下跌，恒生指數累計跌2.15%，恒生科技指數跌3.1%，恒生中國企業指數跌2.24%。據證券時報·資料寶統計，本週南向資金合計成交淨買入0.89億港元。從本週上榜成交活躍股名單來看，本週共有19只個股上榜，騰訊控股本週港股通合計買賣總額最高，達到356.59億港元；智譜緊隨其後，為343.04億港元；其他還有MINIMAX-W、中芯國際、建滔積層板本周港股通買賣總額超過200億港元。從成交淨買入金額來看，本週南向資金對網際網路巨頭買賣不一，騰訊控股獲南向資金淨買入77.29億港元，小米集團-W獲南向資金淨買入9.65億港元，阿里巴巴-W淨賣出26.14億港元。其他還有美團-W遭南向資金淨賣出3.2億港元。從持股量變化來看，本週14股獲得南向資金持股量環比增長超15%，芯碁微裝居首，環比增長69.62%，其他還有南華期貨股份、明略科技-W、滬上阿姨持股量環比增幅居前，持股量環比增幅分別為55.26%、38.49%、33.61%。
 
 ---
 
@@ -18415,71 +18491,5 @@ Local governor said areas around Russia's Baltic port Ust-Luga suffered damage f
 ### 2026-08-14 10:51:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
 
 【LG to launch next-generation humanoid robot with NVIDIA in Q1 2027】LG Electronics said it plans to launch a next-generation bipedal humanoid robot in Q1 2027 built on NVIDIA’s robotics platform. The unit will use an NVIDIA Jetson Thor robotic chip module, be based on NVIDIA’s Isaac GR00T humanoid foundation model and run the Holoscan for Robotics safety system. LG will integrate technology from its subsidiaries — actuators from LG Electronics, sensors from LG Innotek and batteries from LG Energy Solution. The two companies said they will also collaborate across robotics, AI factory solutions and mobility.
-
----
-
-### 2026-08-14 10:50:57  #市場
-
-越南VN指數下跌1%至1747.88點。
-
----
-
-### 2026-08-14 10:50:03  #MKT News #Market Regions #Greater China
-
-【Qingdao Jan–Jul trade 554.87 bln yuan, +6.4% YoY】Qingdao Customs: Jan–Jul goods trade totaled 554.87 bln yuan, accounting for 26.1% of Shandong’s trade, up 6.4% YoY — 2.1pp faster than the province. Exports were 337.71 bln yuan, +8.3% YoY; imports 217.16 bln yuan, +3.5% YoY. July trade was 87.75 bln yuan, +10.5% YoY; exports 56.01 bln yuan, +16.3% YoY; imports 31.74 bln yuan, +1.5% YoY.
-
----
-
-### 2026-08-14 10:49:10  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-China A-share power sector extended losses; Huayin Power and Meiyan Jixiang approached limit-down, while Li New Energy, HENAN YUNENG HOLDINGS, Guangdong Electric Power A and Jingneng Power fell sharply.
-
----
-
-### 2026-08-14 10:48:53  #公司
-
-【永福股份簽約阿爾及利亞1406.017MW燃機電站設計專案】永福股份公眾號訊息，8月13日，永福股份與中國電力工程有限公司在福州正式簽署阿爾及利亞特貝薩1406.017MW燃氣電站專案設計服務合同。此專案為永福股份在阿爾及利亞市場的首個專案，也是公司迄今為止海外單機容量最大的燃氣電站專案。此次簽約標誌著公司國際化戰略在北非地區實現重要突破。該專案為阿爾及利亞國家級重點電力基礎設施工程，規劃新建兩套“二拖一”聯合迴圈機組，每套配置2臺GE 9F.04燃氣輪發電機組、2臺餘熱鍋爐、1臺汽輪發電機組及1臺空冷凝汽器，永福股份承擔本專案設計及管理服務工作。
-
----
-
-### 2026-08-14 10:48:01  #其他
-
-【青島今年前7個月進出口5548.7億元，同比增長6.4%】據青島海關統計，今年前7個月，青島市進出口5548.7億元，佔全省進出口總值的26.1%；同比增長6.4%，高於全省2.1個百分點。其中，出口3377.1億元，同比增長8.3%；進口2171.6億元，同比增長3.5%。7月份當月，青島市進出口877.5億元，同比增長10.5%。其中，出口560.1億元，同比增長16.3%；進口317.4億元，同比增長1.5%。
-
----
-
-### 2026-08-14 10:47:51  #其他
-
-【廣達：AI伺服器需求強勁 訂單可見度延續至2028年】廣達首席財務官楊俊烈表示，AI伺服器的需求強勁，訂單可見度將延續至2028年。廣達正大力投資擴大生產以滿足客戶需求，計劃到2026年底，新的AI伺服器容量預計將比去年翻一番，到2028年容量將再次翻倍。廣達還將今年資本支出從原先的300億新臺幣提高至400億新臺幣，增長超過33%。
-
----
-
-### 2026-08-14 10:47:45  #國際
-
-【小馬智行：擬擴大歐洲、中東運營範圍】8月14日，小馬智行與Uber宣佈，雙方將在歐洲五個城市部署超過2000輛小馬智行Robotaxi。此次合作將在克羅埃西亞薩格勒布現有商業化Robotaxi運營的基礎上，擴充套件至包括薩格勒布在內的5個歐洲城市，各城市具體落地計劃將在後續分階段公佈。雙方同時宣佈，薩格勒布服務即將接入Uber平臺。除歐洲外，雙方還將深化中東地區合作，擴大全球運營版圖。
-
----
-
-### 2026-08-14 10:46:44  #MKT News #Commodities #Energy #Market Regions #Greater China #WTI #Impact bearish #Brent
-
-【China set for fifth fuel-price cut of year as pricing window opens Aug 14】China's domestic retail refined-fuel pricing window will open at 24:00 on Aug 14, with market consensus pointing to the year's fifth price cut. Longzhong analyst Liu Bingjuan says that as of Aug 12 the cycle reference crude averaged $82.14/bbl, down 4.90% from the prior period, implying an approximate theoretical reduction of 210 yuan/ton for refined fuels (about 0.15 yuan/liter); a 70‑liter tank fill would save roughly 11 yuan.
-
----
-
-### 2026-08-14 10:46:37  #其他
-
-【加滿一箱油或少花約11元 油價將迎來年內第五次下調】國內成品油新一輪調價視窗將於8月14日24時開啟。綜合機構觀點，成品油價將迎來年內第五次下調。隆眾資訊成品油分析師劉炳娟介紹，截至8月12日，週期內參考原油均價為82.14美元/桶，較上一週期下調4.90%，預計調價視窗開啟時，對應成品油下調理論幅度在210元/噸附近，摺合升價大約0.15元，以70升的油箱來計算，私家車主加滿一箱油將少花約11元。（中新經緯）
-
----
-
-### 2026-08-14 10:43:34  #市場
-
-【期貨及衍生品策略私募產品7月平均收益率為-2.22%】私募排排網資料顯示，有業績記錄的1403只期貨及衍生品策略私募產品，7月平均收益率為-2.22%，今年以來收益率為2.80%，在五大策略中領跑。
-
----
-
-### 2026-08-14 10:43:28  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Shares Track First Weekly Decline in a Month — Indonesia's IDX Composite slipped 23 points or 0.4% to 6,282 in early Friday trade, extending weakness from the prior session as transport, healthcare, and financials weighed on sentiment. Traders stayed guarded ahead of President Prabowo’s address to parliament on the 2027 budget later today, expected to lean on consumption despite sliding approval and investor unease over commodity export curbs. Focus also turned to Bank Indonesia’s policy meeting next week, its first since Perry Warjiyo’s sudden departure, following a cumulative 100bps of hikes between May and June. Meanwhile, MSCI’s August review kept pressure on equities after confirming no new inclusions and 11 deletions effective after August 31. Mitra Adiperkasa (-2.3%), Indika Energy (-1.6%), Bank Central Asia (-1.2%) and Bumi Resources (-1.1%) led decliners. For the week, local shares are set to break a three-week winning streak, down about 0.4% so far.
 
 ---

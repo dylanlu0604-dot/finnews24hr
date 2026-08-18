@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:57:23_
-_本檔包含 3088 則快訊，約 605406 字_
+_更新時間：2026-08-19 05:32:28_
+_本檔包含 3088 則快訊，約 604692 字_
+
+---
+
+### 2026-08-19 05:31:52  #MKT News #GOOG.O
+
+According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers.
+
+---
+
+### 2026-08-19 05:30:46  #其他
+
+穆迪確認英偉達Aa1評級，展望維持正面。
+
+---
+
+### 2026-08-19 05:29:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook.
+
+---
+
+### 2026-08-19 05:25:54  #公司
+
+宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。
+
+---
+
+### 2026-08-19 05:25:50  #MKT News
+
+Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations.
+
+---
+
+### 2026-08-19 05:25:11  #國際
+
+加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。
+
+---
+
+### 2026-08-19 05:19:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil.
+
+---
+
+### 2026-08-19 05:15:28  #市場
+
+富時A50期指連續夜盤收跌0.32%，報15045點。
+
+---
+
+### 2026-08-19 05:13:32  #國際
+
+特朗普將於8月27日在休斯頓主持共和黨全國委員會籌款晚宴。
+
+---
+
+### 2026-08-19 05:13:23  #國際
+
+特朗普將出席共和黨全國委員會為肯·帕克斯頓舉辦的籌款活動。
+
+---
+
+### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
+
+【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
+
+---
+
+### 2026-08-19 05:06:43  #MKT News #Market Regions #Wall Street (US) #CSAN.N #Impact bearish
+
+According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS).
+
+---
+
+### 2026-08-19 05:03:14  #國際
+
+【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）
+
+---
+
+### 2026-08-19 05:01:23  #其他
+
+【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
+
+---
+
+### 2026-08-19 04:57:56  #國際
+
+【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）
 
 ---
 
@@ -18549,95 +18639,5 @@ Israel said it will address the disarmament of Hamas and public health and sanit
 ### 2026-08-17 22:52:14  #MKT News
 
 Israel says Gaza peace mediators will form two working groups.
-
----
-
-### 2026-08-17 22:52:00  #MKT News #Important #NKE.N #Impact bearish
-
-Nike (NKE.N) shares fell 2.9% to a nearly 12-year low.
-
----
-
-### 2026-08-17 22:51:39  #MKT News #Important #SNDK.O #Impact bullish #MU.O #WDC.O
-
-SanDisk (SNDK.O) shares rose more than 10%, Micron Technology (MU.O) gained 5.6%, and SK Hynix (SKHY.O) and Western Digital Corp (WDC.O) climbed over 6%.
-
----
-
-### 2026-08-17 22:51:38  #國際
-
-市場訊息：以色列表示，加沙和平斡旋方將設立兩個工作組。
-
----
-
-### 2026-08-17 22:51:22  #其他
-
-巴拿馬運河管理局：2025年10月至2026年7月共記錄到10623艘次通行，同比增加6.12%。
-
----
-
-### 2026-08-17 22:49:26  #市場
-
-美股儲存板塊進一步擴大漲幅，SK海力士股價上漲6.5%，美光科技股價上漲5.7%，閃迪股價上漲10.5%。
-
----
-
-### 2026-08-17 22:47:28  #宏觀 #國際
-
-市場訊息：美國財政部提出《GENIUS 法案》穩定幣監管規則。
-
----
-
-### 2026-08-17 22:47:10  #國際
-
-【伊朗官員：已為美國履行諒解備忘錄設定最後期限】一名伊朗高階官員17日在接受路透社採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了數週的最後期限，伊朗不會無限期等待美國繼續實施海上封鎖。該官員表示，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”。該官員說，如果外交努力失敗，“伊朗人已準備好將升級霍爾木茲海峽及（中東）地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。”美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿，由於在霍爾木茲海峽等問題上存在嚴重分歧，美伊談判陷入僵局，沒有取得實質性進展。（新華社）
-
----
-
-### 2026-08-17 22:47:06  #央行 #市場
-
-巴西央行續作全部 50000 份外匯互換合約。
-
----
-
-### 2026-08-17 22:46:41  #Trading Economics #Markets #commodity #Importance 0
-
-Heating Oil Hits 18-week High — Heating Oil increased to 4.38 USD/Gal, the highest since April 2026. Over the past 4 weeks, Heating Oil gained 6.18%, and in the last 12 months, it increased 95.21%.
-
----
-
-### 2026-08-17 22:46:32  #MKT News #DXY #Impact bearish
-
-Central Bank of Chile sold USD 64 mln of FX forward contracts at an average rate of 914.04 CLP per USD.
-
----
-
-### 2026-08-17 22:46:13  #市場 #國際
-
-【美國8月住宅建築商信心僅小幅改善 高成本繼續壓制樓市】美國住宅建築商信心8月僅小幅改善，高企的建築和借貸成本繼續壓制住房市場。美國全國住宅建築商協會（NAHB）和富國銀行週一公佈的資料顯示，整體住宅市場指數（HMI）本月上升1點至35。指數低於50意味著認為市場狀況不佳的建築商多於認為狀況良好的建築商，該指數自2024年5月以來一直低於50。“我們最新的建築商調查繼續顯示住宅建築市場疲軟，”NAHB首席經濟學家Robert Dietz在宣告中表示，“8月是連續第16個月至少有30%的建築商表示透過降價來支撐需求，同時也是HMI連續第16個月低於40。”分項指標中，一項當前銷售指標上升2點至39。未來銷售預期指標和潛在買家客流指標均與上月持平。建築商情緒低迷反映新房市場依賴各種優惠措施和抵押貸款利率補貼來刺激需求。30年期固定利率抵押貸款的合約利率徘徊在一年高點下方，該高點於7月底觸及。建築商一直透過各種優惠吸引潛在買家，這侵蝕了他們的利潤；與此同時，燃料價格上漲推高了材料成本。8月，63%的建築商表示使用了銷售優惠措施，與上月持平。35%的建築商表示降價，低於7月的37%。
-
----
-
-### 2026-08-17 22:43:28  #市場 #國際
-
-【日本國債遭遇拋售潮 日美聯手仍未扭轉日元跌勢】由於中東局勢再次緊張，加之近段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售。17 日，日本10年期國債收益率繼續上升，一度升至2.93%，創下近30年來的新高。與此同時，距離美國和日本聯手干預外匯市場僅過了兩週，日元匯率再度逼近1美元兌160日元的低位。業內分析稱，外匯干預可以暫時改變匯率，卻難以改變日本的經濟邏輯。在弱日元、低增長、高債務三大壓力下，日本經濟正面臨越來越嚴峻的考驗。有分析人士表示，日本越是試圖透過刺激託舉經濟，財政和匯率承受的壓力可能就越大。因此，能穩定日元匯率的，只有日本經濟增長模式、財政結構的最佳化。對日本政府而言，真正需要面對的，或許從來不只是“保衛日元”，而是日本經濟重新獲得持續增長的能力。（央視財經）
-
----
-
-### 2026-08-17 22:42:03  #市場 #國際
-
-【法國30年期國債收益率升至4.86% 重返近二十年最高水平】由於市場持續擔憂財政風險，超長期債券再次遭遇拋售，法國30年期國債收益率重新升至近20年來最高水平。法國30年期國債收益率上升1個基點，至4.86%，繼上週五觸及2008年以來最高水平後繼續攀升。其他歐洲國家的長期債券也受到衝擊。德國30年期國債收益率上漲1個基點，至3.74%，延續上週後段的升勢，至2011年以來最高水平。
-
----
-
-### 2026-08-17 22:41:43  #其他
-
-【理想汽車被曝或自研雲端推理晶片】近日，有訊息稱，理想汽車正在探索自研雲端推理晶片，專案仍處早期階段，並可能採用與其車端智駕晶片相近的資料流架構。對此，理想汽車方面表示：“暫時還沒有聽到這方面的訊息。”業內人士認為，隨著智慧駕駛大模型、車載智慧體和多模態互動功能持續演進，智慧汽車背後的雲端推理需求還會繼續增長。未來車企之間的智慧化競爭，或許不只取決於車上有多少算力，也取決於車企能否建立一套支撐模型持續迭代、低成本呼叫和規模化交付的雲端AI基礎設施。（每經）
-
----
-
-### 2026-08-17 22:41:39  #MKT News #Market Themes #AI Revolution #02015.HK
-
-【Li Auto reportedly exploring in-house cloud inference chip】Li Auto (02015.HK) is reportedly exploring an in-house cloud inference chip; the project is in an early stage and may adopt a dataflow architecture similar to its vehicle-side autonomous driving chip. Li Auto said: "We have not heard anything about this so far." Industry insiders say cloud inference demand will rise as autonomous-driving large models, in-car agents and multimodal interaction evolve. Future competition among automakers may hinge not only on in-vehicle compute but on the ability to build cloud AI infrastructure that supports continuous model iteration, low-cost invocation and scalable delivery.
 
 ---

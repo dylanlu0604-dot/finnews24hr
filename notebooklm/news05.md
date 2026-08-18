@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 04:57:23_
-_本檔包含 3034 則快訊，約 605012 字_
+_更新時間：2026-08-19 05:32:28_
+_本檔包含 3024 則快訊，約 604515 字_
+
+---
+
+### 2026-08-13 09:42:22  #MKT News
+
+【Counterpoint Research: 2025 global commercial cleaning robot shipments to exceed 50,000; revenue over $400m】Counterpoint Research projects global commercial cleaning robot shipments will exceed 50,000 units in 2025, with revenue above $400m. Pudu Robotics ranks first in both shipments and revenue; leading firms are beginning to show scale effects. Commercial cleaning robots combine multi-sensor suites, environmental perception, 3D mapping, autonomous path planning and intelligent obstacle avoidance. With cloud-based dispatch, devices can perform unattended, large-area cleaning and produce automated cleaning and maintenance reports. Unlike manual push or ride-on equipment, which remain operator-dependent, commercial robots function as autonomous agents whose cleaning standards and operational quality are enforced by AI algorithms and data systems, marking the start of a commercial cleaning industry 2.0.
+
+---
+
+### 2026-08-13 09:41:59  #其他
+
+【廣東：推進通訊網路、算力等新型基礎設施技術標準研製】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，夯實關鍵技術標準基礎。加快交通運輸、建築、水利、電力等傳統基礎設施核心關鍵技術、共性技術標準研製，完善現代工程技術標準體系。強化核心基礎零部件、先進基礎工藝、關鍵基礎材料與產業技術基礎標準建設。加強高階裝備製造標準化建設，加快推進工業機械、數控機床、電力裝備等技術標準研製與應用。強化新型基礎設施標準化建設，推進通訊網路、算力等新型基礎設施技術標準研製。
+
+---
+
+### 2026-08-13 09:41:32  #公司
+
+【房地產板塊盤初走弱 首開股份等跌超4%】房地產板塊盤初走弱，首開股份、新城控股等多股跌超4%，金融街、福星股份、我愛我家等跟跌。
+
+---
+
+### 2026-08-13 09:41:24  #其他
+
+【機構：2025年全球商用清潔機器人出貨量突破50000臺，營收超過4億美元】Counterpoint Research資料表明，2025年全球商用清潔機器人出貨量突破50,000臺，營收超過4億美元，出貨量和營收方面，普渡機器人均位居首位，行業頭部企業已經形成一定的規模效應。區別於傳統清潔裝置，商用清潔機器人整合多類感測器，具備環境感知、三維建圖、自主路徑規劃與智慧避障能力。依託雲端排程系統，裝置可實現無人值守大面積保潔作業，並自動輸出清潔運維報告。二者核心本質差異在於：傳統手推、駕駛式清潔方案仍屬於“人操作工具”，清潔效果高度受制於操作人員經驗與狀態；而商用清潔機器人是集感知、決策、執行於一體的獨立智慧體，清潔標準與作業質量由AI演算法和資料體系保障。商用清潔機器人的落地應用，正式開啟商用清潔行業2.0時代。
+
+---
+
+### 2026-08-13 09:40:50  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+A-share advertising and marketing sector surged, with Shengguang Group hitting the daily limit; Yinli Media, Tianlong Group, Yaowang Technology, Dianguang Media and BlueFocus also rose.
+
+---
+
+### 2026-08-13 09:40:36  #公司
+
+【南興股份等成立光聯科技公司 含光通訊裝置業務】企查查APP顯示，近日，廣東飛瑞光聯科技有限公司成立，經營範圍包含光通訊裝置製造；光通訊裝置銷售；通訊裝置製造；通訊裝置銷售等。企查查股權穿透顯示，該公司由南興股份等共同持股。
+
+---
+
+### 2026-08-13 09:40:15  #市場 #焦點
+
+南向資金淨買入額達20億港元。
+
+---
+
+### 2026-08-13 09:39:53  #其他
+
+【石油天然氣板塊繼續回撥 廣聚能源跌超3%】石油天然氣板塊繼續回撥，廣聚能源跌超3%，ST洲際、藍焰控股、泰山石油等跟跌。
+
+---
+
+### 2026-08-13 09:39:47  #公司 #市場
+
+【廣告營銷板塊直線拉昇，省廣集團漲停】廣告營銷板塊直線拉昇，省廣集團漲停，引力傳媒、天龍集團、遙望科技、電廣傳媒、藍色游標等紛紛走高。
+
+---
+
+### 2026-08-13 09:39:44  #公司 #市場
+
+【影視院線板塊短線拉昇，北京文化漲停】影視院線板塊短線拉昇，北京文化漲停，中廣天擇、文投控股、百納千成、華策影視、捷成股份等跟漲。
+
+---
+
+### 2026-08-13 09:39:14  #MKT News #Commodities #Energy #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+A-share green power stocks traded volatile then strengthened in early trade; Jin Kai New Energy and Tongli Tianqi both hit the limit-up, while Jingke Technology, Huadian Energy, HENAN YUNENG HOLDINGS and Yuedian Power A also advanced.
+
+---
+
+### 2026-08-13 09:38:17  #市場
+
+【綠電概念震盪拉昇 金開新能、同力天啟雙雙漲停】綠電概念震盪走強，金開新能、同力天啟雙雙漲停，晶科科技、華電能源、豫能控股、粵電力A跟漲。
+
+---
+
+### 2026-08-13 09:38:02  #市場
+
+資料中心電源概念開盤拉昇，麥格米特漲停，歐陸通漲超10%，中恆電氣、科士達、愛科賽博、科泰電源漲幅居前。
+
+---
+
+### 2026-08-13 09:37:16  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share electronic-chemicals sector spiked intraday; Haixing hit the daily price limit, while Fangbang, Tiantong, Ruilian New Materials, Sanfu Xinke and Zhongchuan Teqi also gained.
+
+---
+
+### 2026-08-13 09:37:04  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Near 3-Week High — The benchmark KOSPI rose nearly 4% to around 6,830 on Thursday, extending gains to its highest level in almost three weeks, as major chipmakers rallied following an overnight rise in US technology stocks. Samsung Electronics climbed more than 4%, and SK hynix surged over 7%, as renewed optimism over AI-related demand lifted sentiment across the semiconductor sector. Strong gains were also recorded in SK Square (9.0%), Hyundai Motor (3.4%), LG Energy Solution (2.1%), Hanwha Aerospace (2.9%), HD Hyundai Heavy Industries (1.0%), and Kia Corporation (1.7%). Additionally, a softer-than-expected US inflation reading reduced expectations for a September Federal Reserve rate hike, further supporting risk appetite and technology shares. Separately, the South Korean government’s plan to ease regulations for semiconductor and AI megaprojects, expected to generate KRW 4.2 trillion in investment, provided an additional positive backdrop.
+
+---
+
+### 2026-08-13 09:36:51  #公司 #市場
+
+【超節點概念震盪走強 共進股份漲停】早盤超節點概念震盪走強，共進股份漲停，華勤技術、智微智慧、紫光股份、星網銳捷、銳捷網路、浪潮資訊等跟漲。
 
 ---
 
@@ -18191,161 +18287,5 @@ CoreWeave 首席財務官：預計第三季度營收介於 34.5 億至 36 億美
 ### 2026-08-12 05:36:11  #其他
 
 CoreWeave 首席財務官： 預計年末在用電力規模將超過 1.85 吉瓦，高於此前給出的超 1.7 吉瓦指引。
-
----
-
-### 2026-08-12 05:32:18  #其他
-
-CoreWeave 首席財務官： 現有待交付訂單中，超 50% 對應的合同已啟動向客戶交付。
-
----
-
-### 2026-08-12 05:31:33  #其他
-
-澳大利亞聯邦銀行全財年淨利潤108.7億澳元，預估107.5億澳元。
-
----
-
-### 2026-08-12 05:31:02  #MKT News
-
-【U.S. judge blocks USPS from enforcing Trump order to curb mailed ballots】On the 11th, a U.S. federal judge ordered the U.S. Postal Service barred from enforcing President Trump’s executive order that would restrict mailed ballots. Trump issued the order on March 31 directing the Department of Homeland Security and the Social Security Administration to compile state-by-state lists of citizens eligible to vote and prohibiting the USPS from processing ballots from voters not on those lists. Twenty-three Democratic-led states and Washington, D.C., sued, arguing the order is unconstitutional. A Boston federal judge enjoined the order on June 25; the U.S. Court of Appeals for the First Circuit upheld that injunction on July 25. The administration subsequently filed an emergency appeal to the U.S. Supreme Court.
-
----
-
-### 2026-08-12 05:30:05  #國際
-
-【美法官叫停美郵政局執行特朗普涉限制郵寄選票的行政令】美國一名聯邦法官下令，禁止美國郵政總署依據美國總統特朗普的行政命令限制郵寄投票。美國共和黨籍總統特朗普3月31日頒佈行政令，責成國土安全部和社會保障管理局以州為單位編纂具備合法投票資格的公民名單，同時禁止美國郵政局處理非名單內選民寄出的選票。民主黨主政的23個州和首都華盛頓隨後以違憲為由對行政令提起訴訟。6月25日，美國波士頓地區一位聯邦法官叫停了特朗普此項行政令的實施。7月25日，美國第一聯邦巡迴上訴法院維持原判，繼續禁止行政令實施。特朗普政府隨後向聯邦最高法院提出緊急申請。 (央視新聞)
-
----
-
-### 2026-08-12 05:29:57  #公司
-
-CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。
-
----
-
-### 2026-08-12 05:29:44  #MKT News #SMCI.O #Impact bullish
-
-Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25.
-
----
-
-### 2026-08-12 05:29:42  #MKT News #SMCI.O #Impact bullish
-
-Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4.
-
----
-
-### 2026-08-12 05:29:06  #其他
-
-CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。
-
----
-
-### 2026-08-12 05:28:30  #其他
-
-CoreWeave 首席財務官：第二季度是我們利潤率出現拐點的季度，正如過去幾個季度所討論的，利潤率實現環比擴張。
-
----
-
-### 2026-08-12 05:27:23  #其他
-
-市場訊息：Kalshi 年化營收突破 40 億美元。Kalshi 正洽談融資，目標估值 400 億美元。
-
----
-
-### 2026-08-12 05:25:35  #MKT News #SPCX.O
-
-An SEC filing shows BlueCat Capital held 1.4 mln Class A common shares of SpaceX (SPCX.O) as of June 30, 2026.
-
----
-
-### 2026-08-12 05:24:09  #其他
-
-超微電腦CFO：第四季度毛利率環比改善，源於客戶與產品組合好於預期，同時部分合同遞延至 27 財年第一季度。
-
----
-
-### 2026-08-12 05:22:28  #MKT News
-
-US President Trump said Medicaid will no longer fund gender-confirmation surgeries or hormone treatments for minors.
-
----
-
-### 2026-08-12 05:22:23  #國際
-
-特朗普：醫療補助計劃將不再為未成年人的性別重置手術及激素治療提供資金。
-
----
-
-### 2026-08-12 05:22:12  #公司
-
-CoreWeave 執行長：預計國際市場將成為主要增長驅動力。
-
----
-
-### 2026-08-12 05:20:16  #其他
-
-超微電腦CFO：第四季度，企業及渠道客戶在升級計算、儲存與網路基礎設施方面的需求有所回暖。
-
----
-
-### 2026-08-12 05:19:28  #其他
-
-超微電腦首席財務官：26 財年有 9 家客戶各自貢獻營收超 10 億美元，而 25 財年僅為 4 家。
-
----
-
-### 2026-08-12 05:18:33  #MKT News #RTX.O #Impact bullish #LMT.O
-
-【US $185bn 'Golden Dome' space missile-defence program posts early progress】SpaceX and Northrop Grumman completed initial critical tests for the Trump-era $185 billion 'Golden Dome' space-based missile-defence program, including sensor-to-interceptor data links and spacecraft propulsion demonstrations, the US Space Force said. The project will enter a next phase to validate operation in the space environment, a Space Force admiral added. In April the Space Force awarded armed-satellite development contracts to 12 firms, including RTX, Anduril and Lockheed Martin; the government has invested $3.2 billion to date and future contract value could reach hundreds of billions of dollars.
-
----
-
-### 2026-08-12 05:15:24  #市場
-
-富時A50期指連續夜盤收跌0.09%，報14925點。
-
----
-
-### 2026-08-12 05:08:29  #公司
-
-CoreWeave 執行長： 短期算力產能實際上已全部售罄，由此達成的簽約承諾，合同條款正變得愈發有利。
-
----
-
-### 2026-08-12 05:07:26  #公司
-
-CoreWeave 執行長：第二季度簽署的客戶合同預期貢獻利潤率較近幾個季度新增合同高出 5‑10 個百分點。
-
----
-
-### 2026-08-12 05:07:07  #公司
-
-超微電腦CEO：受電力、散熱及網路業務部分客戶短期延遲影響，第四季度營收為 111 億美元。
-
----
-
-### 2026-08-12 05:03:17  #國際
-
-案件卷宗顯示：美國一名法官阻止美國郵政局依據特朗普總統的行政令對郵寄投票實施限制。
-
----
-
-### 2026-08-12 04:59:12  #市場
-
-週二（8月11日）紐約尾盤，現貨黃金跌0.50%，報4368.81美元/盎司。現貨白銀跌1.63%，報6.46705美元/盎司。COMEX銅期貨漲0.19%，報6.6285美元/磅。現貨鉑金跌0.82%，現貨鈀金跌1.20%。
-
----
-
-### 2026-08-12 04:57:34  #MKT News
-
-The US Commodity Futures Trading Commission (CFTC) has asked prediction platform Kalshi to continue operating.
-
----
-
-### 2026-08-12 04:57:25  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
-
-US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier.
 
 ---
