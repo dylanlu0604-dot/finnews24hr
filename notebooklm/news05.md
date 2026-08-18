@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 06:37:15_
-_本檔包含 3010 則快訊，約 603913 字_
+_更新時間：2026-08-19 06:56:41_
+_本檔包含 3017 則快訊，約 603867 字_
+
+---
+
+### 2026-08-13 09:57:13  #其他
+
+越南國家銀行：越南盾存貸缺口達 762 億美元。
+
+---
+
+### 2026-08-13 09:56:58  #公司 #市場
+
+【其他酒類板塊短線拉昇，會稽山漲停】其他酒類板塊短線拉昇，會稽山漲停，金楓酒業、古越龍山、張裕A、威龍股份、百潤股份等紛紛走高。
+
+---
+
+### 2026-08-13 09:56:30  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share cultural and media sector extended gains; Duke Culture hit a 20% limit-up, Fengyuzhu, Yinli Media, Shengguang Group and Chuban Media reached daily limit-ups, while Yidian Tianxia, CITIC Publishing and Guomai Culture also rose.
+
+---
+
+### 2026-08-13 09:56:26  #市場
+
+恒指盤中轉漲，恒生科技指數現漲0.46%。
+
+---
+
+### 2026-08-13 09:56:25  #MKT News #Market Regions #Hang Seng Index #Impact bullish #Hang Seng Tech Index
+
+Hang Seng Index turned positive intraday; Hang Seng Tech Index up 0.46%.
+
+---
+
+### 2026-08-13 09:55:58  #公司 #國際
+
+【豐田等日本企業在美遭消費者起訴，要求返還特朗普退稅費用】8月13日，據報道，包括豐田汽車、任天堂、索尼集團以及迅銷在內的日本企業美國子公司，近期相繼遭美國消費者起訴。原告稱，相關企業將“對等關稅”成本轉嫁至商品價格，在美國最高法院認定該關稅違法並啟動約1660億美元關稅退還後，企業若獲得退款卻未向消費者返還相應款項，將構成不當得利。
+
+---
+
+### 2026-08-13 09:55:44  #公司 #市場
+
+【文化傳媒板塊大幅拉昇，讀客文化20cm漲停】文化傳媒板塊大幅拉昇，讀客文化20cm漲停，風語築、引力傳媒、省廣集團、出版傳媒漲停，易點天下、中信出版、果麥文化跟漲。
+
+---
+
+### 2026-08-13 09:54:57  #MKT News #Market Regions #Greater China #03308.HK #Impact bullish #01191.HK #06869.HK
+
+Hong Kong-listed optical-communications stocks firmed: 03308.HK rose over 5%, 01191.HK rose over 3%; 06869.HK (Yangtze Optical Fibre & Cable) and 01347.HK also advanced.
+
+---
+
+### 2026-08-13 09:54:54  #其他
+
+【創新藥概念震盪走高 譽衡藥業5天4板】創新藥概念震盪走高，譽衡藥業5天4板，科拓生物、百普賽斯、熱景生物、君實生物跟漲。
+
+---
+
+### 2026-08-13 09:54:00  #市場 #焦點
+
+【A股大眾出版板塊異動拉昇】讀客文化、出版傳媒觸及漲停，中信出版、中國科傳、中國出版、中文線上、榮信文化跟漲。
+
+---
+
+### 2026-08-13 09:53:32  #MKT News #CSI300 #Impact bullish
+
+China A-share dairy sector rallied intraday; Yiming Food hit the daily limit, with Huang's Group earlier at the limit. Panda Dairy, Pinwo Food, Tianrun Dairy, Sunshine Dairy and Western Pastoral also advanced.
+
+---
+
+### 2026-08-13 09:53:24  #公司 #市場
+
+【關志鷗會見中國船舶集團董事長徐鵬】據湖北日報，8月12日下午，湖北省委書記關志鷗在武漢會見中國船舶集團有限公司黨組書記、董事長徐鵬。關志鷗說，中船集團是我國船舶工業發展的國家隊、主力軍。希望集團充分發揮龍頭企業帶動作用，進一步與湖北在戰略科技力量建設、科研成果轉化、綠色智慧船舶和應急特種裝備製造等領域深化合作，推動科技創新和產業創新深度融合，助力湖北爭做高質量發展“優等生”。我們將全力做好服務保障，支援中船集團等各類企業在鄂實現更好發展。
+
+---
+
+### 2026-08-13 09:52:38  #其他
+
+【八仙票房破15億】據燈塔專業版實時資料，截至8月13日9時51分，影片《八仙！》票房突破15億。
+
+---
+
+### 2026-08-13 09:51:16  #公司 #市場
+
+【乳品板塊短線拉昇，一鳴食品漲停】乳品板塊短線拉昇，一鳴食品漲停，皇氏集團此前封板，熊貓乳品、品渥食品、天潤乳業、陽光乳業、西部牧業等跟漲。
+
+---
+
+### 2026-08-13 09:50:44  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
+
+PBoC Pauses 7-Day Repos for 3rd Day, Plans Big Overnight Liquidity — The People’s Bank of China (PBoC) said Thursday, August 13, it conducted zero seven-day reverse repos for a third straight day, citing demand from primary dealers. Separately, the central bank announced it will carry out up to CNY 600 billion of overnight reverse repos per day on August 14 and August 17–19. The PBoC uses these short-term liquidity tools to “fine-tune cash conditions” in the banking system, balancing market demand with stability in funding.
 
 ---
 
@@ -18134,53 +18224,5 @@ South Korea | Unemployment Rate (Jul) | actual 2.8% | consensus 2.7% | previous 
 ### 2026-08-12 06:57:05  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX 50 Edges Higher in Morning Trade — New Zealand's stocks rose 28 points, or 0.2%, to 13,889 in Wednesday morning trade, after retreating in the previous session, mainly boosted by consumer discretionary, consumer staples, and utilities. However, rising oil prices amid uncertainty over the reopening of the Strait of Hormuz capped the gain, raising concerns over inflation and also raising questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Traders also awaited the release of the RBNZ's business inflation expectations for Q3, due on Thursday, after accelerating slightly in Q2. Among the early gainers were A2 Milk (1.2%), Infratil (0.9%), Westpac Banking Corp. (0.9%), Channel Infrastructure (0.6%), EBOS Group (0.5%), and F&C Investment (0.4%).
-
----
-
-### 2026-08-12 06:51:42  #其他
-
-【評級“分水嶺”顯現，中小銀行信用分層格局漸明】近日，多家評級機構密集釋出銀行2026年跟蹤評級報告。截至8月11日，已有重慶三峽銀行、陝西秦農農商行、浙江富陽農商行等7家中小銀行主體信用評級獲上調，其中重慶三峽銀行與陝西秦農農商行躋身AAA信用梯隊。與此同時，湖北孝感農商行、山西長子農商行等4家機構評級被下調。銀行信用評級有升有降的背後，是中小銀行在經營效益、資產質量、資本實力等方面的分化，中小銀行信用“分水嶺”正在顯現。業內人士認為，在淨息差持續收窄的背景下，中小銀行信用分層將成為長期趨勢，不同銀行需找準自身突圍路徑，夯實經營底盤。（中證報）
-
----
-
-### 2026-08-12 06:51:23  #公司
-
-【兩大龍頭中報披露在即，機構研判港股後市或轉入震盪整固期】在經歷一個多月的持續反彈後，近幾個交易日港股市場漲勢放緩，主要股指呈現區間震盪態勢。本週，騰訊控股、京東集團-SW等行業龍頭將披露的2026年中報是市場關注的重點，對於整個港股市場而言，中報季的盈利確定性將成為行情的主導變數。在業內人士看來，港股8月或轉入震盪整固期，隨著中報披露進入高峰期，市場定價邏輯正從情緒修復與資金輪動切換至基本面驗證與結構性再平衡，市場整體或仍以結構性行情為主。在具體配置上，在繼續將高股息紅利資產作為投資組合“穩定器”的同時，建議可適當增加對港股高彈性方向的關注。（中證報）
-
----
-
-### 2026-08-12 06:46:39  #其他
-
-【截至今年6月 我國可再生能源制氫產能規模超140萬噸】國家能源局昨天（11日）釋出的《中國氫能發展報告（2026）》顯示，截至今年6月，我國以電解水制氫為主要路線的建成和在建可再生能源制氫年產能規模已超140萬噸，氫能產業取得積極進展。當前，我國氫能基礎設施穩步建設。截至6月，全國累計建成加氫站約620座，建成投運純氫管道長度超350公里。
-
----
-
-### 2026-08-12 06:45:07  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Rises by 2.36% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 2.36% increase.
-
----
-
-### 2026-08-12 06:43:31  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-【TRUMP reportedly weighing capital gains tax cut to boost midterms】A senior White House economic adviser and a former administration official said President TRUMP is seeking new policy pledges ahead of the midterms that could include calling on Congress to cut the capital gains tax and creating an exclusion for certain home sales. HASSETT said TRUMP wants additional incentives to secure voter support in November. Former NEC director Larry Kudlow, a TRUMP ally, said he recently discussed indexing capital gains to inflation so gains would be taxed after inflation adjustment, and proposed exempting home sales of $2 million or less from capital gains tax, adding TRUMP is "very interested".
-
----
-
-### 2026-08-12 06:42:31  #其他
-
-【數量創近五年新高，單隻平均規模縮水，今年新發基金“細分賽道”撬動大市場】8月以來，公募基金髮行市場熱度不減。本週（8月10日至14日），49只基金進入發行期，被動指數型產品佔比超四成，硬科技與紅利策略成為主線。一方面是指數型產品聚焦細分賽道，另一方面是FOF產品顯著升溫。將時間軸拉長至今年年內，新基金成立數量創近五年新高，但單隻平均募集規模卻呈現下滑態勢。已成立產品的業績出現明顯分化，同一賽道的基金，因成立時點不同，收益差距較大。（中證報）
-
----
-
-### 2026-08-12 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Slumps by 5.07% — Top commodity losers are Cocoa (-5.07%) and Canola (-1.77%). Gains are led by Barley (2%), Sugar (1.59%) and Cotton (0.62%).
-
----
-
-### 2026-08-12 06:39:21  #其他
-
-【古特雷斯：對哥倫比亞地震造成人員傷亡感到“悲痛” 】聯合國秘書長古特雷斯11日透過副發言人哈克發表宣告表示，對哥倫比亞地震造成人員傷亡感到“悲痛”。（新華社）
 
 ---

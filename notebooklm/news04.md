@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 06:37:15_
-_本檔包含 3135 則快訊，約 603776 字_
+_更新時間：2026-08-19 06:56:41_
+_本檔包含 3136 則快訊，約 605003 字_
+
+---
+
+### 2026-08-14 11:11:04  #其他
+
+【快手短劇7月頭部十家版權分賬1300萬】快手內容消費中心資料顯示，原生短劇版權方7月分賬金額環比6月翻倍，單月規模創歷史新高。其中，Top10版權方分賬金額達1300萬，環比增幅113%。預計8月短劇分賬規模將再翻倍。
+
+---
+
+### 2026-08-14 11:10:36  #公司
+
+【東方甄選回應遭“薅羊毛式”黑灰產詐騙：犯罪嫌疑人已被採取刑事強制措施】東方甄選8月13日發文稱，近日，東方甄選在訂單資料日常監測中發現大量異常僅退款訂單，涉及金額較大，存在“薅羊毛式”黑灰產詐騙嫌疑。公司立即固定證據並向公安機關報案，全程配合調查取證。經警方縝密工作，目前，某張姓犯罪嫌疑人因涉嫌詐騙罪，已被警方依法採取刑事強制措施，案件正在進一步辦理中。未來，東方甄選將持續完善風控體系，加大對惡意退賠、職業索賠等行為的排查與打擊力度。
+
+---
+
+### 2026-08-14 11:10:24  #其他
+
+【人形機器人試驗方法系列國家標準編制工作啟動】據“中國光谷”訊息，8月13日，《人形機器人試驗方法》系列國家標準啟動會在光谷舉行。會上，總則、環境感知、決策規劃、運動控制等7項標準同步啟動編制。來自宇樹科技、小米機器人、魔法原子、中興通訊、雲深處科技、地平線、靈心巧手、銀河通用等國內頭部企業，和武漢大學、華中科技大學、南京航空航天大學、西北工業大學、中國計量大學、班貝格大學等高校的200多名行業代表參會。現場，湖北省電子資訊標準化技術委員會人形機器人與具身智慧標準工作組揭牌成立，首批委員涵蓋湖北人形機器人創新中心、湖北省計量測試技術研究院、武漢大學、華中科技大學等29家單位。
+
+---
+
+### 2026-08-14 11:09:59  #國際
+
+【外國企業對特定二次圓柱形電池、電池元件及包含該元件的產品提起337調查申請】2026年7月21日，韓國LG Energy Solution Ltd.、美國LG Energy Solution Arizona, Inc.根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）違反了美國337條款。
+
+---
+
+### 2026-08-14 11:09:52  #國際
+
+普拉博沃：印尼目標是在5-6年內實現肉類自給自足。
+
+---
+
+### 2026-08-14 11:09:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share food processing and manufacturing sector spiked intraday; Guifaxiang went straight to the daily limit-up, Lianhua Holdings had earlier hit the limit, and Sanquan Food, Black Sesame, Xianle Health, Qingdao Food and Anjoy Food also rose.
+
+---
+
+### 2026-08-14 11:09:13  #市場
+
+【食品加工製造板塊短線衝高，桂發祥直線漲停】食品加工製造板塊短線衝高，桂發祥直線漲停，蓮花控股此前漲停，三全食品、黑芝麻、仙樂健康、青島食品、安井食品跟漲。
+
+---
+
+### 2026-08-14 11:08:59  #公司 #國際
+
+【美國ITC釋出對墨盒及其元件II的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定墨盒及其元件II（調查編碼：337-TA-1452）作出337部分終裁：本案存在侵權，向侵權美國註冊專利號8,764,172、9,370,934、11,535,038、12,240,248、12,240,249的第1和第7項權利要求的涉案產品釋出普遍排除令，向列名被告美國Mountain Peak, Inc. d/b/a/ Billiontree Technology USA, Inc. d/b/a Toner Kingdom of China等釋出禁止令，本案調查終止。
+
+---
+
+### 2026-08-14 11:08:37  #MKT News #Commodities
+
+Indonesia's president said the country has achieved self-sufficiency this year in eight commodities, including rice and corn.
+
+---
+
+### 2026-08-14 11:08:30  #國際
+
+印尼總統普拉博沃：今年我們已在包括大米、玉米在內的八種大宗商品上實現自給自足。
+
+---
+
+### 2026-08-14 11:08:10  #公司
+
+【小米汽車標誌升降裝置專利獲授權】天眼查智慧財產權資訊顯示，小米汽車科技有限公司申請的“標誌升降裝置及車輛”專利獲授權。摘要顯示，本公開提供一種標誌升降裝置及車輛，涉及車輛技術領域。該標誌升降裝置包括：安裝架，包括移動塊和架體，架體與移動塊以第一方向所在的直線為軸轉動連線；第一標誌；第二標誌，第一標誌和第二標誌沿第二方向間隔設於架體上，且分別與架體以第一方向所在的直線為軸轉動連線；驅動元件，用於驅動移動塊沿第二方向移動，且包括導軌，導軌沿第二方向延伸，且具有沿第二方向連線的直線部和彎曲部，彎曲部朝向遠離所述移動塊的方向彎曲。可提高車輛的續航里程。
+
+---
+
+### 2026-08-14 11:06:53  #MKT News
+
+Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon.
+
+---
+
+### 2026-08-14 11:06:08  #國際
+
+普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。
+
+---
+
+### 2026-08-14 11:05:22  #國際
+
+印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。
+
+---
+
+### 2026-08-14 11:05:07  #市場 #焦點
+
+北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。
+
+---
+
+### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
+
+TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
 
 ---
 
@@ -18791,95 +18887,5 @@ A-share baijiu sector rallied; Kuaijishan hit the daily limit-up, Guyue Longshan
 ### 2026-08-13 09:57:42  #Trading Economics #Markets #China #Stock Market #Importance 1
 
 China Stocks Track Asian Peers Higher — The Shanghai Composite rose 0.3% to 3,957 on Thursday, while the Shenzhen Component climbed 1% to 14,554, extending gains from the previous session and tracking strength across Asian markets amid a renewed global AI-driven rally. Investor appetite for technology stocks continued to recover after last month’s sharp selloff, as strong earnings from major tech companies reinforced confidence in sustained spending on AI infrastructure and growing evidence that AI adoption is expanding across a wider range of applications. In China, attention remained firmly on Semiconductor Manufacturing International Corp., which is set to report earnings later on Thursday, with net profit expected to more than double from a year earlier. Cambricon Technologies (1.4%), SMIC (2%), Zhongji Innolight (3.8%), Eoptolink Technology (3.1%), and NAURA Technology (1.9%) were among the sector's top gainers. In contrast, energy stocks lagged, with PetroChina (-3.6%) and CNOOC (-2.5%) among the worst performers.
-
----
-
-### 2026-08-13 09:57:13  #其他
-
-越南國家銀行：越南盾存貸缺口達 762 億美元。
-
----
-
-### 2026-08-13 09:56:58  #公司 #市場
-
-【其他酒類板塊短線拉昇，會稽山漲停】其他酒類板塊短線拉昇，會稽山漲停，金楓酒業、古越龍山、張裕A、威龍股份、百潤股份等紛紛走高。
-
----
-
-### 2026-08-13 09:56:30  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share cultural and media sector extended gains; Duke Culture hit a 20% limit-up, Fengyuzhu, Yinli Media, Shengguang Group and Chuban Media reached daily limit-ups, while Yidian Tianxia, CITIC Publishing and Guomai Culture also rose.
-
----
-
-### 2026-08-13 09:56:26  #市場
-
-恒指盤中轉漲，恒生科技指數現漲0.46%。
-
----
-
-### 2026-08-13 09:56:25  #MKT News #Market Regions #Hang Seng Index #Impact bullish #Hang Seng Tech Index
-
-Hang Seng Index turned positive intraday; Hang Seng Tech Index up 0.46%.
-
----
-
-### 2026-08-13 09:55:58  #公司 #國際
-
-【豐田等日本企業在美遭消費者起訴，要求返還特朗普退稅費用】8月13日，據報道，包括豐田汽車、任天堂、索尼集團以及迅銷在內的日本企業美國子公司，近期相繼遭美國消費者起訴。原告稱，相關企業將“對等關稅”成本轉嫁至商品價格，在美國最高法院認定該關稅違法並啟動約1660億美元關稅退還後，企業若獲得退款卻未向消費者返還相應款項，將構成不當得利。
-
----
-
-### 2026-08-13 09:55:44  #公司 #市場
-
-【文化傳媒板塊大幅拉昇，讀客文化20cm漲停】文化傳媒板塊大幅拉昇，讀客文化20cm漲停，風語築、引力傳媒、省廣集團、出版傳媒漲停，易點天下、中信出版、果麥文化跟漲。
-
----
-
-### 2026-08-13 09:54:57  #MKT News #Market Regions #Greater China #03308.HK #Impact bullish #01191.HK #06869.HK
-
-Hong Kong-listed optical-communications stocks firmed: 03308.HK rose over 5%, 01191.HK rose over 3%; 06869.HK (Yangtze Optical Fibre & Cable) and 01347.HK also advanced.
-
----
-
-### 2026-08-13 09:54:54  #其他
-
-【創新藥概念震盪走高 譽衡藥業5天4板】創新藥概念震盪走高，譽衡藥業5天4板，科拓生物、百普賽斯、熱景生物、君實生物跟漲。
-
----
-
-### 2026-08-13 09:54:00  #市場 #焦點
-
-【A股大眾出版板塊異動拉昇】讀客文化、出版傳媒觸及漲停，中信出版、中國科傳、中國出版、中文線上、榮信文化跟漲。
-
----
-
-### 2026-08-13 09:53:32  #MKT News #CSI300 #Impact bullish
-
-China A-share dairy sector rallied intraday; Yiming Food hit the daily limit, with Huang's Group earlier at the limit. Panda Dairy, Pinwo Food, Tianrun Dairy, Sunshine Dairy and Western Pastoral also advanced.
-
----
-
-### 2026-08-13 09:53:24  #公司 #市場
-
-【關志鷗會見中國船舶集團董事長徐鵬】據湖北日報，8月12日下午，湖北省委書記關志鷗在武漢會見中國船舶集團有限公司黨組書記、董事長徐鵬。關志鷗說，中船集團是我國船舶工業發展的國家隊、主力軍。希望集團充分發揮龍頭企業帶動作用，進一步與湖北在戰略科技力量建設、科研成果轉化、綠色智慧船舶和應急特種裝備製造等領域深化合作，推動科技創新和產業創新深度融合，助力湖北爭做高質量發展“優等生”。我們將全力做好服務保障，支援中船集團等各類企業在鄂實現更好發展。
-
----
-
-### 2026-08-13 09:52:38  #其他
-
-【八仙票房破15億】據燈塔專業版實時資料，截至8月13日9時51分，影片《八仙！》票房突破15億。
-
----
-
-### 2026-08-13 09:51:16  #公司 #市場
-
-【乳品板塊短線拉昇，一鳴食品漲停】乳品板塊短線拉昇，一鳴食品漲停，皇氏集團此前封板，熊貓乳品、品渥食品、天潤乳業、陽光乳業、西部牧業等跟漲。
-
----
-
-### 2026-08-13 09:50:44  #Trading Economics #Economy #China #Reverse Repo Rate #Importance 1
-
-PBoC Pauses 7-Day Repos for 3rd Day, Plans Big Overnight Liquidity — The People’s Bank of China (PBoC) said Thursday, August 13, it conducted zero seven-day reverse repos for a third straight day, citing demand from primary dealers. Separately, the central bank announced it will carry out up to CNY 600 billion of overnight reverse repos per day on August 14 and August 17–19. The PBoC uses these short-term liquidity tools to “fine-tune cash conditions” in the banking system, balancing market demand with stability in funding.
 
 ---

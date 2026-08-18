@@ -1,7 +1,135 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 06:37:15_
-_本檔包含 3101 則快訊，約 604100 字_
+_更新時間：2026-08-19 06:56:41_
+_本檔包含 3099 則快訊，約 604511 字_
+
+---
+
+### 2026-08-19 06:55:51  #其他
+
+【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)
+
+---
+
+### 2026-08-19 06:50:41  #Trading Economics #Economy #New Zealand #PPI Input #Importance 1
+
+New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%).
+
+---
+
+### 2026-08-19 06:47:22  #其他
+
+據燈塔專業版實時資料，截至8月19日1時50分，影片《歡迎來龍餐館》票房突破11億。
+
+---
+
+### 2026-08-19 06:47:11  #公司
+
+【熱點城市土拍市場升溫，民營房企重拾拿地信心】 8月18日，海口市長秀片區XY0602061地塊經207輪競價成交，海南發展控股置業集團有限公司以23721.6061萬元競得，溢價率達27.52%。今年以來，國內熱點城市土地市場持續回暖，北上廣深、海口、杭州等城市集中出讓優質地塊，高溢價成交成為常態。伴隨市場修復，房企拿地活躍度穩步提升，行業投資信心出現邊際修復。（中證報）
+
+---
+
+### 2026-08-19 06:47:00  #資料 #市場 #央行 #國際
+
+【週三重要財經資訊提醒（以下均為北京時間）】 
+① 07:50 日本6月核心機械訂單；
+② 08:00 韓國新投資者買槓桿ETF須先完成模擬交易（新規實施）；
+③ 時間待定 朱雀三號遙二火箭確定8月19日清晨於酒泉發射，世界機器人大會在北京開幕（8月19日-23日），首爾人工智慧峰會開幕（8月19-21日）；
+④ 09:20 宇樹科技上市；
+⑤ 10:45 澳洲聯儲副主席Andrew Hauser參與一場爐邊閒聊；
+⑥ 14:00 英國7月CPI；
+⑦ 15:10 歐洲央行行長拉加德出席世界經濟論壇國際工商理事會 (IBC) 會議的“全球經濟展望”討論會；
+⑧ 15:20 印尼央行公佈利率決議；
+⑨ 港股收盤之後 快手釋出業績報告；
+⑩ 17:00 歐元區7月CPI終值；
+美股盤前 勞氏百貨、塔吉特等釋出業績報告；
+18:15 歐洲央行行長拉加德講話；
+22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
+次日02:00 美聯儲釋出FOMC會議紀要。
+
+---
+
+### 2026-08-19 06:46:27  #MKT News
+
+New Zealand Q2 input PPI YoY 4.1%, previous 1.8%.
+
+---
+
+### 2026-08-19 06:46:23  #MKT News
+
+New Zealand Q2 output PPI YoY 3.2%, prior 2.2%.
+
+---
+
+### 2026-08-19 06:46:22  #MKT News #Economic Calendar #Important
+
+New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%
+
+---
+
+### 2026-08-19 06:46:17  #MKT News #Economic Calendar #Important
+
+New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%
+
+---
+
+### 2026-08-19 06:45:07  #MKT News
+
+New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%).
+
+---
+
+### 2026-08-19 06:45:07  #MKT News
+
+New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter.
+
+---
+
+### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%
+
+---
+
+### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%
+
+---
+
+### 2026-08-19 06:44:01  #國際
+
+【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。
+
+---
+
+### 2026-08-19 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%).
+
+---
+
+### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
+
+【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
+
+---
+
+### 2026-08-19 06:38:17  #焦點 #國際
+
+【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。
+
+---
+
+### 2026-08-19 06:37:45  #其他
+
+【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)
+
+---
+
+### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
+
+【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
 
 ---
 
@@ -18591,131 +18719,5 @@ Brent Crude Fluctuates on Monday — Brent crude oil fluctuated around $88.5 a b
 ### 2026-08-17 23:12:52  #宏觀 #市場 #國際
 
 【銅逼倉行情加劇：價差飆升，價格逼近歷史紀錄】倫敦金屬交易所銅價向歷史紀錄攀升，價差大幅飆升，反映短期供應擠壓不斷加劇。銅現貨價格相對三個月期貨合約的升水一度高達每噸545美元，為2021年歷史性逼倉行情、交易所出臺緊急措施遏制價格瘋漲以來最大逆價差。其餘各期限價差同樣大幅衝高，期貨價格正逼近今年1月衝高時創下的14500美元/噸以上的峰值。當前供應緊張，一方面是市場預判美國或將出臺進口關稅，大量銅貨流向美國；另一方面市場近期供應吃緊，也吸引貨源流入。受此影響，自5月中旬以來，倫敦金屬交易所全球倉庫庫存已縮水近一半。
-
----
-
-### 2026-08-17 23:12:23  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Swings on Monday — Crude oil fluctuated around $82 a barrel on Monday as traders weighed continued geopolitical tensions against signs that more oil is moving through the Strait of Hormuz than initially expected. Gulf producers appear to be maintaining substantial shipments from the Persian Gulf despite the ongoing conflict, helping to limit concerns over an immediate supply shock. Meanwhile, diplomatic efforts between Iran and the US remain stalled. President Donald Trump reportedly threatened military action against Oman if it interferes with the US blockade of Iranian vessels, although oil prices showed little reaction to the statement. At the same time, Iran and Oman appeared to be making progress toward an agreement on managing traffic through Hormuz, but the US has not been involved in those discussions. Washington is unlikely to support any arrangement that does not guarantee unrestricted passage through the strategic shipping route.
-
----
-
-### 2026-08-17 23:11:34  #MKT News
-
-TASNIM News reports the US again sent a surveillance balloon over Erbil, Iraq.
-
----
-
-### 2026-08-17 23:11:22  #國際
-
-【伊朗戰事拖累選情 美總統被曝撥款支援共和黨候選人】據美國方面近日訊息，隨著美國中期選舉的臨近，共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。知情人士稱，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（央視新聞）
-
----
-
-### 2026-08-17 23:11:00  #公司 #國際
-
-【日本壽險公司債券浮虧創下960億美元紀錄】日本四大壽險公司國內債券未實現虧損激增60億美元，創下960億美元歷史新高。
-
----
-
-### 2026-08-17 23:09:55  #公司 #國際
-
-【超級富豪家族辦公室扎堆SpaceX 持股規模超過38億美元】為美洲、歐洲和中東的超級富豪進行投資的機構已建立了數十億美元的SpaceX投資敞口，凸顯出這些機構搶佔炙手可熱投資機會的能力。根據彙總的13F監管申報資料，截至6月底，凱悅酒店繼承人Nick Pritzker的一個家族理財室對這家由埃隆·馬斯克創立的火箭、衛星和人工智慧公司持有18億美元的投資，當時距離SpaceX首次公開募股僅過去數週。美國申報檔案顯示，Michael Platt旗下的BlueCrest Capital和巴西Moreira Salles金融家族披露的持股價值均超過1億美元，而阿布扎比統治者謝赫·穆罕默德·本·扎耶德·阿勒納哈揚的一家投資公司披露持有SpaceX近6,500萬美元股份。SpaceX於6月12日開始交易。申報檔案顯示，2026年上半年，十多家家族辦公室持有這家正式名稱為Space Exploration Technologies Corp.的公司合計至少38億美元的股份。其中一些機構，包括Pritzker旗下的Tao Capital，以及Moreira Salles家族，也是馬斯克商業帝國中另一家上市公司特斯拉的投資者。
-
----
-
-### 2026-08-17 23:08:54  #國際
-
-【英偉達將向OpenAI俄亥俄資料中心投資至多1050億美元】根據一份財務檔案，英偉達同意投入最高1050億美元支援俄亥俄州一座大型新資料中心園區。該園區未來將由OpenAI租用，此舉標誌著推動人工智慧熱潮的兩大主導力量正在進一步深化合作。OpenAI週一表示，已達成協議，將從位於Pike County的這座園區獲得最高約8吉瓦的算力，其中首批800兆瓦預計將在2028年前投入使用。1吉瓦電力在任一時點足以為最多75萬戶美國家庭供電。
-
----
-
-### 2026-08-17 23:08:11  #市場
-
-納斯達克100指數漲幅擴大至0.5%，創盤中新高。
-
----
-
-### 2026-08-17 23:07:48  #國際
-
-歐盟委員會主席馮德萊恩：哥倫比亞遭遇嚴重地震，我們將持續向當地民眾提供援助。德國、盧森堡、瑞典正運送數百頂帳篷、毛毯以及應急物資。歐盟200萬歐元資金已投入使用，為受災社群提供醫療、避難住所、潔淨水源與食品。我們將攜手助力哥倫比亞完成災後重建。
-
----
-
-### 2026-08-17 23:07:11  #央行 #焦點 #國際
-
-歐洲央行警告，人工智慧板塊股市回撥即將到來。
-
----
-
-### 2026-08-17 23:06:55  #MKT News #INTC.O #Impact bullish
-
-Intel (INTC.O) shares rose more than 3%.
-
----
-
-### 2026-08-17 23:05:52  #其他
-
-【多部門發文進一步保障農業灌溉用水安全】生態環境部會同工業和資訊化部、農業農村部等部門近日聯合印發通知，進一步加強工業、畜禽養殖等企業汙水汙染風險防範，保障農業灌溉用水安全。 生態環境部水生態環境司有關負責人17日介紹，近年來，一些工業企業及園區、畜禽養殖場等與農田相鄰，汙水排放管控不到位，農業灌溉用水安全隱患不容忽視。此次印發的通知以保障農業灌溉用水安全為核心，以源頭預防、過程把控、末端監管為主線，推動構建跨部門、全週期的風險防控體系。（新華社）
-
----
-
-### 2026-08-17 23:05:24  #國際
-
-俄羅斯稱襲擊了烏克蘭港口的兩艘貨船。
-
----
-
-### 2026-08-17 23:05:06  #國際
-
-美國8月13日當週大豆出口檢驗量270201噸（前值399201噸），玉米出口檢驗量191.1萬噸（前值174.0萬噸），小麥出口檢驗量493401噸（前值421277噸）。
-
----
-
-### 2026-08-17 23:04:38  #MKT News #XAUUSD #Impact bullish #Brent
-
-RIA reported Russia said it struck two cargo ships at a Ukrainian port.
-
----
-
-### 2026-08-17 23:04:11  #其他
-
-【荷蘭報告一例本土西尼羅病毒感染病例】荷蘭國家公共衛生與環境研究所17日通報，近日從一名獻血者的血液內檢測出西尼羅病毒，這是該國2020年以來首例確診的本土感染病例。(新華社)
-
----
-
-### 2026-08-17 23:03:31  #MKT News
-
-USGS reports a magnitude 5.0 earthquake 32 km north of Ruteng, Indonesia.
-
----
-
-### 2026-08-17 23:01:05  #MKT News #Market Themes #AI Revolution #SYF.O
-
-Synchrony Financial said it has entered an enterprise partnership with OpenAI to deploy GPT-5.6 Sol, Terra and Luna models and to launch a ChatGPT plugin.
-
----
-
-### 2026-08-17 23:00:49  #MKT News #Important #WTI #Impact bullish #Brent #CNH
-
-As of 23:00 close, China’s main futures contracts were mostly higher: ethylene glycol (EG) up nearly 3%, synthetic rubber up over 2%, liquefied petroleum gas (LPG) up nearly 2%. Fuel oil, bottle‑grade PET chips, benzene and asphalt rose above 1%; PTA up nearly 1%. Starch fell more than 1%.
-
----
-
-### 2026-08-17 23:00:36  #其他
-
-Synchrony 將部署 GPT‑5.6 SOL、TERRA、LUNA 模型。
-
----
-
-### 2026-08-17 23:00:22  #其他
-
-市場訊息：Synchrony 宣佈與 OpenAI 達成企業合作協議。
-
----
-
-### 2026-08-17 23:00:14  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.62% — Top currency gainers are Brazilian Real (0.62%), Swiss Franc (0.46%), Australian Dollar (0.41%), Euro (0.15%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed.
 
 ---

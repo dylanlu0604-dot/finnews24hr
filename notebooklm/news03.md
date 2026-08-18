@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 06:37:15_
-_本檔包含 3050 則快訊，約 604382 字_
+_更新時間：2026-08-19 06:56:41_
+_本檔包含 3048 則快訊，約 604413 字_
+
+---
+
+### 2026-08-16 14:42:30  #MKT News
+
+【Iran's foreign ministry condemns Israeli strike on southern Lebanon】On the 15th (local time), Iran's foreign ministry spokesman Baghaei strongly condemned an Israeli strike on southern Lebanon, saying Israel's continued attacks violate Lebanon's sovereignty and territorial integrity. Baghaei said Iran will stand with Lebanon to defend its sovereignty, independence and dignity.
+
+---
+
+### 2026-08-16 14:42:08  #國際
+
+伊朗最高領袖穆傑塔巴・哈梅內伊辦公室週日宣佈，伊朗前最高領袖阿里・哈梅內伊及其家屬的四十日悼念儀式將在德黑蘭、庫姆與馬什哈德舉辦。相關活動是為紀念阿里・哈梅內伊下葬滿四十天。
+
+---
+
+### 2026-08-16 14:41:22  #國際
+
+伊朗軍方失蹤事務主管稱，卡達應當允許伊朗空軍真相調查團入境。
+
+---
+
+### 2026-08-16 14:38:21  #其他
+
+據燈塔專業版，截至8月16日，影片《去你的島》票房突破1億。
+
+---
+
+### 2026-08-16 14:35:25  #其他
+
+【中國電建設計承建的西北兩座抽蓄電站透過驗收】據中國電建訊息，近日，中國電建設計承建的西北地區兩座百萬千瓦級抽水蓄能電站接連迎來重大節點，新疆阜康抽蓄電站透過工程竣工驗收，陝西鎮安抽蓄電站透過樞紐工程專項驗收。
+
+---
+
+### 2026-08-16 14:30:27  #國際
+
+當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）
+
+---
+
+### 2026-08-16 14:27:23  #MKT News #Market Themes #AI Revolution
+
+【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry.
+
+---
+
+### 2026-08-16 14:24:30  #公司
+
+【固德威與深算院達成戰略合作 共建AI+智慧能源聯合創新中心】據固德威訊息，8月16日，固德威技術股份有限公司（簡稱“固德威”）與深圳計算科學研究院（簡稱“深算院”）在蘇州固德威智慧能源大廈簽署戰略合作協議。同期，還舉行了“AI+智慧能源”聯合創新中心揭牌儀式，中心圍繞AI+資料+新型電力系統深度融合展開長期聯合研發，著力推進智慧能源行業的正規化躍遷。
+
+---
+
+### 2026-08-16 14:17:19  #其他
+
+莫斯科市長：從週六晚間至週日莫斯科時間6時30分，共有600架無人機飛向莫斯科地區，其中201架在莫斯科地區被摧毀。
+
+---
+
+### 2026-08-16 14:16:41  #國際
+
+【烏稱基輔遭導彈襲擊 3人受傷】烏克蘭首都基輔市市長克利奇科16日通報稱，俄軍當天凌晨使用彈道導彈襲擊了烏克蘭首都基輔，導致奧博隆區和霍洛西伊夫區發生火災，截至當地時間7時20分，已有3人受傷。（央視新聞）
+
+---
+
+### 2026-08-16 14:16:10  #公司
+
+【機械傷害事故致1死，深圳龍崗釋出調查報告：存在瞞報，建議對5人追究刑責】龍崗區應急管理局日前公佈《龍崗南灣“3·4”一般機械傷害死亡事故調查報告》。3月4日14時38分許，深圳市龍崗區南灣街道下李朗社群深圳國際綜合物流樞紐中心（C2）一標段專案發生一起機械傷害事故，造成1人死亡，直接經濟損失200萬元。經調查認定，上述事故是一起因施工人員違章作業，施工單位安全生產主體責任不落實，現場安全管理不到位，監理單位疏於監理造成的生產安全責任事故，且存在瞞報事故情形。調查報告顯示，國際物流中心（C2）一標段總承包專案執行經理卿某文等5人被建議追究刑事責任。中鐵二十五局集團有限公司廣東省專案主要負責人王某新、國際物流中心（C2）一標段總承包專案專案經理周某平等22人對事故發生負有責任，建議由相關部門對其進行調查處理。
+
+---
+
+### 2026-08-16 14:15:18  #MKT News
+
+【Six killed in Indiana storms and flooding】The U.S. state of Indiana emergency operations center and state officials said on Aug. 15 that consecutive strong storms and flooding have killed at least six people. Heavy rain over the past week raised river levels across multiple waterways and forced several hundred residents to evacuate. Indianapolis Mayor Joe Hogsett said the city is experiencing its worst flooding in more than 30 years. More than a dozen Indiana counties have declared local disaster; emergency crews and the National Guard are conducting rescue and relief operations. Earlier this week severe storms across the U.S. Midwest, also affecting Illinois, Kentucky and Ohio, spawned tornadoes, heavy rain and flash floods and temporarily cut power to nearly 1 million customers.
+
+---
+
+### 2026-08-16 14:11:55  #公司 #觀點
+
+【外資“喜好”變了，最新調倉動向揭曉】三季度以來，高盛、摩根士丹利、摩根大通、瑞銀、巴克萊等國際機構旗下QFII賬戶，明顯扎堆中小盤硬科技與高階製造。據已披露公告，高盛公司三季度新進大恆科技（機器視覺）、金智科技（智慧電網）、浩辰軟體（工業軟體）、鴻富瀚（消費電子）、朗坤科技（生物質能發電）、常潤股份（汽車維保裝置）等多家公司的十大流通股東。高盛國際則出現在熊貓乳品、中恆集團、蓮花控股、潤建股份、三友聯眾、鋒龍股份、寧波韻升等公司名單中。值得關注的是，多家機構集中出現在一批並不算“大白馬”的中小市值公司股東名單中。其中，摩根士丹利、瑞銀與高盛同步新進大恆科技十大流通股東；瑞銀、巴克萊與高盛同步新進常潤股份；摩根大通、瑞銀與高盛國際同步新進通合科技；摩根士丹利、巴克萊和高盛新進唯萬密封；摩根士丹利、摩根大通和瑞銀新進科安達。（21財經）
+
+---
+
+### 2026-08-16 14:08:27  #公司 #國際
+
+【韓國股市反彈 韓國投資者再度融資買入】市場資料週日顯示，隨著韓國股市自深度低點反彈，本土投資者再度大舉融資買入本國股票。 韓國金融投資協會（KOFIA）統計資料顯示，截至週四，用於買入股票的融資融券餘額（即保證金債務）達到30.93萬億韓元（摺合218億美元），高於8月3日的27.44萬億韓元。 此番融資規模攀升，背景是三星電子、SK海力士等市場權重股，從AI相關投資盈利擔憂引發的震盪行情中大幅回升。 分析師認為，鑑於AI投資相關憂慮有所緩解，韓國股市暫無即刻降溫跡象，融資規模或將在一段時間內繼續走高，有望創下新高。
 
 ---
 
@@ -18317,101 +18401,5 @@ JP Morgan cuts Honeywell price target to $255 from $262.
 ### 2026-08-14 11:11:17  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
 
 【Asian memory-chip makers gain after SanDisk's upbeat long-term outlook】Asian memory-chip stocks rose after SanDisk's upbeat long-term outlook. Kioxia Holdings jumped as much as 8.7% in Tokyo and SK Hynix rose as much as 6.5% in Seoul. The Bloomberg Asia Semiconductor Index climbed 1.6%, poised for a fifth straight session of gains. SanDisk said it expects revenue to grow 15–20% in 2028–2030, driven by long-term pricing agreements with customers. Ortus Advisors Japan equity strategist Andrew Jackson wrote that long-term contracts for NAND flash could help smooth the classic boom‑and‑bust cycle versus more volatile spot memory prices.
-
----
-
-### 2026-08-14 11:11:04  #其他
-
-【快手短劇7月頭部十家版權分賬1300萬】快手內容消費中心資料顯示，原生短劇版權方7月分賬金額環比6月翻倍，單月規模創歷史新高。其中，Top10版權方分賬金額達1300萬，環比增幅113%。預計8月短劇分賬規模將再翻倍。
-
----
-
-### 2026-08-14 11:10:36  #公司
-
-【東方甄選回應遭“薅羊毛式”黑灰產詐騙：犯罪嫌疑人已被採取刑事強制措施】東方甄選8月13日發文稱，近日，東方甄選在訂單資料日常監測中發現大量異常僅退款訂單，涉及金額較大，存在“薅羊毛式”黑灰產詐騙嫌疑。公司立即固定證據並向公安機關報案，全程配合調查取證。經警方縝密工作，目前，某張姓犯罪嫌疑人因涉嫌詐騙罪，已被警方依法採取刑事強制措施，案件正在進一步辦理中。未來，東方甄選將持續完善風控體系，加大對惡意退賠、職業索賠等行為的排查與打擊力度。
-
----
-
-### 2026-08-14 11:10:24  #其他
-
-【人形機器人試驗方法系列國家標準編制工作啟動】據“中國光谷”訊息，8月13日，《人形機器人試驗方法》系列國家標準啟動會在光谷舉行。會上，總則、環境感知、決策規劃、運動控制等7項標準同步啟動編制。來自宇樹科技、小米機器人、魔法原子、中興通訊、雲深處科技、地平線、靈心巧手、銀河通用等國內頭部企業，和武漢大學、華中科技大學、南京航空航天大學、西北工業大學、中國計量大學、班貝格大學等高校的200多名行業代表參會。現場，湖北省電子資訊標準化技術委員會人形機器人與具身智慧標準工作組揭牌成立，首批委員涵蓋湖北人形機器人創新中心、湖北省計量測試技術研究院、武漢大學、華中科技大學等29家單位。
-
----
-
-### 2026-08-14 11:09:59  #國際
-
-【外國企業對特定二次圓柱形電池、電池元件及包含該元件的產品提起337調查申請】2026年7月21日，韓國LG Energy Solution Ltd.、美國LG Energy Solution Arizona, Inc.根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）違反了美國337條款。
-
----
-
-### 2026-08-14 11:09:52  #國際
-
-普拉博沃：印尼目標是在5-6年內實現肉類自給自足。
-
----
-
-### 2026-08-14 11:09:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share food processing and manufacturing sector spiked intraday; Guifaxiang went straight to the daily limit-up, Lianhua Holdings had earlier hit the limit, and Sanquan Food, Black Sesame, Xianle Health, Qingdao Food and Anjoy Food also rose.
-
----
-
-### 2026-08-14 11:09:13  #市場
-
-【食品加工製造板塊短線衝高，桂發祥直線漲停】食品加工製造板塊短線衝高，桂發祥直線漲停，蓮花控股此前漲停，三全食品、黑芝麻、仙樂健康、青島食品、安井食品跟漲。
-
----
-
-### 2026-08-14 11:08:59  #公司 #國際
-
-【美國ITC釋出對墨盒及其元件II的337部分終裁】8月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定墨盒及其元件II（調查編碼：337-TA-1452）作出337部分終裁：本案存在侵權，向侵權美國註冊專利號8,764,172、9,370,934、11,535,038、12,240,248、12,240,249的第1和第7項權利要求的涉案產品釋出普遍排除令，向列名被告美國Mountain Peak, Inc. d/b/a/ Billiontree Technology USA, Inc. d/b/a Toner Kingdom of China等釋出禁止令，本案調查終止。
-
----
-
-### 2026-08-14 11:08:37  #MKT News #Commodities
-
-Indonesia's president said the country has achieved self-sufficiency this year in eight commodities, including rice and corn.
-
----
-
-### 2026-08-14 11:08:30  #國際
-
-印尼總統普拉博沃：今年我們已在包括大米、玉米在內的八種大宗商品上實現自給自足。
-
----
-
-### 2026-08-14 11:08:10  #公司
-
-【小米汽車標誌升降裝置專利獲授權】天眼查智慧財產權資訊顯示，小米汽車科技有限公司申請的“標誌升降裝置及車輛”專利獲授權。摘要顯示，本公開提供一種標誌升降裝置及車輛，涉及車輛技術領域。該標誌升降裝置包括：安裝架，包括移動塊和架體，架體與移動塊以第一方向所在的直線為軸轉動連線；第一標誌；第二標誌，第一標誌和第二標誌沿第二方向間隔設於架體上，且分別與架體以第一方向所在的直線為軸轉動連線；驅動元件，用於驅動移動塊沿第二方向移動，且包括導軌，導軌沿第二方向延伸，且具有沿第二方向連線的直線部和彎曲部，彎曲部朝向遠離所述移動塊的方向彎曲。可提高車輛的續航里程。
-
----
-
-### 2026-08-14 11:06:53  #MKT News
-
-Indonesia's president said food supplies remain guaranteed despite concerns over the El Niño weather phenomenon.
-
----
-
-### 2026-08-14 11:06:08  #國際
-
-普拉博沃：在厄爾尼諾現象引發擔憂之際，印尼糧食供應仍有保障。
-
----
-
-### 2026-08-14 11:05:22  #國際
-
-印尼總統普拉博沃：印尼已開始著手解決長期存在的問題。
-
----
-
-### 2026-08-14 11:05:07  #市場 #焦點
-
-北證50日內跌幅達1.00%，成分股中，諾思蘭德跌4.46%，森萱醫藥跌3.73%，廣信科技跌3.38%，萬通液壓跌3.28%。
-
----
-
-### 2026-08-14 11:05:04  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Tracks Wall Street Higher, Nears 6-Week High — The TAIEX, Taiwan’s benchmark stock index, climbed 201 points, or 0.4%, to 46,222, extending gains for the fifth straight session, tracking a rally on Wall Street overnight as expectations grew that the Fed would hike interest rates at its September meeting amid softer inflation. The broader index lingered at its highest level since July 6, mainly buoyed by gains in technology services, process industries, and producer manufacturing. Meanwhile, electronic technology stocks continued to rise, though edging up only 0.1%. MediaTek and Delta Electronics each rose 1.1%, while Hon Hai Precision Industry gained 0.2%. Nanya Technology, a major Taiwanese memory chip maker, advanced 1.8%. However, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.2%. Yageo Corporation, a world leader in electronic passive components, plunged 3.2%. However, traders were cautious ahead of China's interest rate decision due next week.
 
 ---

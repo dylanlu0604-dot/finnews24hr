@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 06:37:15_
-_本檔包含 2808 則快訊，約 604157 字_
+_更新時間：2026-08-19 06:56:41_
+_本檔包含 2815 則快訊，約 604396 字_
+
+---
+
+### 2026-08-17 23:12:23  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Swings on Monday — Crude oil fluctuated around $82 a barrel on Monday as traders weighed continued geopolitical tensions against signs that more oil is moving through the Strait of Hormuz than initially expected. Gulf producers appear to be maintaining substantial shipments from the Persian Gulf despite the ongoing conflict, helping to limit concerns over an immediate supply shock. Meanwhile, diplomatic efforts between Iran and the US remain stalled. President Donald Trump reportedly threatened military action against Oman if it interferes with the US blockade of Iranian vessels, although oil prices showed little reaction to the statement. At the same time, Iran and Oman appeared to be making progress toward an agreement on managing traffic through Hormuz, but the US has not been involved in those discussions. Washington is unlikely to support any arrangement that does not guarantee unrestricted passage through the strategic shipping route.
+
+---
+
+### 2026-08-17 23:11:34  #MKT News
+
+TASNIM News reports the US again sent a surveillance balloon over Erbil, Iraq.
+
+---
+
+### 2026-08-17 23:11:22  #國際
+
+【伊朗戰事拖累選情 美總統被曝撥款支援共和黨候選人】據美國方面近日訊息，隨著美國中期選舉的臨近，共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。知情人士稱，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（央視新聞）
+
+---
+
+### 2026-08-17 23:11:00  #公司 #國際
+
+【日本壽險公司債券浮虧創下960億美元紀錄】日本四大壽險公司國內債券未實現虧損激增60億美元，創下960億美元歷史新高。
+
+---
+
+### 2026-08-17 23:09:55  #公司 #國際
+
+【超級富豪家族辦公室扎堆SpaceX 持股規模超過38億美元】為美洲、歐洲和中東的超級富豪進行投資的機構已建立了數十億美元的SpaceX投資敞口，凸顯出這些機構搶佔炙手可熱投資機會的能力。根據彙總的13F監管申報資料，截至6月底，凱悅酒店繼承人Nick Pritzker的一個家族理財室對這家由埃隆·馬斯克創立的火箭、衛星和人工智慧公司持有18億美元的投資，當時距離SpaceX首次公開募股僅過去數週。美國申報檔案顯示，Michael Platt旗下的BlueCrest Capital和巴西Moreira Salles金融家族披露的持股價值均超過1億美元，而阿布扎比統治者謝赫·穆罕默德·本·扎耶德·阿勒納哈揚的一家投資公司披露持有SpaceX近6,500萬美元股份。SpaceX於6月12日開始交易。申報檔案顯示，2026年上半年，十多家家族辦公室持有這家正式名稱為Space Exploration Technologies Corp.的公司合計至少38億美元的股份。其中一些機構，包括Pritzker旗下的Tao Capital，以及Moreira Salles家族，也是馬斯克商業帝國中另一家上市公司特斯拉的投資者。
+
+---
+
+### 2026-08-17 23:08:54  #國際
+
+【英偉達將向OpenAI俄亥俄資料中心投資至多1050億美元】根據一份財務檔案，英偉達同意投入最高1050億美元支援俄亥俄州一座大型新資料中心園區。該園區未來將由OpenAI租用，此舉標誌著推動人工智慧熱潮的兩大主導力量正在進一步深化合作。OpenAI週一表示，已達成協議，將從位於Pike County的這座園區獲得最高約8吉瓦的算力，其中首批800兆瓦預計將在2028年前投入使用。1吉瓦電力在任一時點足以為最多75萬戶美國家庭供電。
+
+---
+
+### 2026-08-17 23:08:11  #市場
+
+納斯達克100指數漲幅擴大至0.5%，創盤中新高。
+
+---
+
+### 2026-08-17 23:07:48  #國際
+
+歐盟委員會主席馮德萊恩：哥倫比亞遭遇嚴重地震，我們將持續向當地民眾提供援助。德國、盧森堡、瑞典正運送數百頂帳篷、毛毯以及應急物資。歐盟200萬歐元資金已投入使用，為受災社群提供醫療、避難住所、潔淨水源與食品。我們將攜手助力哥倫比亞完成災後重建。
+
+---
+
+### 2026-08-17 23:07:11  #央行 #焦點 #國際
+
+歐洲央行警告，人工智慧板塊股市回撥即將到來。
+
+---
+
+### 2026-08-17 23:06:55  #MKT News #INTC.O #Impact bullish
+
+Intel (INTC.O) shares rose more than 3%.
+
+---
+
+### 2026-08-17 23:05:52  #其他
+
+【多部門發文進一步保障農業灌溉用水安全】生態環境部會同工業和資訊化部、農業農村部等部門近日聯合印發通知，進一步加強工業、畜禽養殖等企業汙水汙染風險防範，保障農業灌溉用水安全。 生態環境部水生態環境司有關負責人17日介紹，近年來，一些工業企業及園區、畜禽養殖場等與農田相鄰，汙水排放管控不到位，農業灌溉用水安全隱患不容忽視。此次印發的通知以保障農業灌溉用水安全為核心，以源頭預防、過程把控、末端監管為主線，推動構建跨部門、全週期的風險防控體系。（新華社）
+
+---
+
+### 2026-08-17 23:05:24  #國際
+
+俄羅斯稱襲擊了烏克蘭港口的兩艘貨船。
+
+---
+
+### 2026-08-17 23:05:06  #國際
+
+美國8月13日當週大豆出口檢驗量270201噸（前值399201噸），玉米出口檢驗量191.1萬噸（前值174.0萬噸），小麥出口檢驗量493401噸（前值421277噸）。
+
+---
+
+### 2026-08-17 23:04:38  #MKT News #XAUUSD #Impact bullish #Brent
+
+RIA reported Russia said it struck two cargo ships at a Ukrainian port.
+
+---
+
+### 2026-08-17 23:04:11  #其他
+
+【荷蘭報告一例本土西尼羅病毒感染病例】荷蘭國家公共衛生與環境研究所17日通報，近日從一名獻血者的血液內檢測出西尼羅病毒，這是該國2020年以來首例確診的本土感染病例。(新華社)
+
+---
+
+### 2026-08-17 23:03:31  #MKT News
+
+USGS reports a magnitude 5.0 earthquake 32 km north of Ruteng, Indonesia.
+
+---
+
+### 2026-08-17 23:01:05  #MKT News #Market Themes #AI Revolution #SYF.O
+
+Synchrony Financial said it has entered an enterprise partnership with OpenAI to deploy GPT-5.6 Sol, Terra and Luna models and to launch a ChatGPT plugin.
+
+---
+
+### 2026-08-17 23:00:49  #MKT News #Important #WTI #Impact bullish #Brent #CNH
+
+As of 23:00 close, China’s main futures contracts were mostly higher: ethylene glycol (EG) up nearly 3%, synthetic rubber up over 2%, liquefied petroleum gas (LPG) up nearly 2%. Fuel oil, bottle‑grade PET chips, benzene and asphalt rose above 1%; PTA up nearly 1%. Starch fell more than 1%.
+
+---
+
+### 2026-08-17 23:00:36  #其他
+
+Synchrony 將部署 GPT‑5.6 SOL、TERRA、LUNA 模型。
+
+---
+
+### 2026-08-17 23:00:22  #其他
+
+市場訊息：Synchrony 宣佈與 OpenAI 達成企業合作協議。
+
+---
+
+### 2026-08-17 23:00:14  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 0.62% — Top currency gainers are Brazilian Real (0.62%), Swiss Franc (0.46%), Australian Dollar (0.41%), Euro (0.15%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed.
 
 ---
 
@@ -16827,89 +16953,5 @@ TASNIM News reported Iran's official responsible for missing military personnel 
 ### 2026-08-16 14:42:38  #國際
 
 【伊朗外交部強烈譴責以色列對黎襲擊】當地時間15日，伊朗外交部發言人巴加埃強烈譴責以色列當天對黎巴嫩南部的襲擊。巴加埃指出，以色列持續對黎巴嫩進行襲擊，侵犯該國的國家主權和領土完整。他強調，伊朗將與黎巴嫩團結一致，共同捍衛該國的國家主權、獨立和尊嚴。（央視新聞）
-
----
-
-### 2026-08-16 14:42:30  #MKT News
-
-【Iran's foreign ministry condemns Israeli strike on southern Lebanon】On the 15th (local time), Iran's foreign ministry spokesman Baghaei strongly condemned an Israeli strike on southern Lebanon, saying Israel's continued attacks violate Lebanon's sovereignty and territorial integrity. Baghaei said Iran will stand with Lebanon to defend its sovereignty, independence and dignity.
-
----
-
-### 2026-08-16 14:42:08  #國際
-
-伊朗最高領袖穆傑塔巴・哈梅內伊辦公室週日宣佈，伊朗前最高領袖阿里・哈梅內伊及其家屬的四十日悼念儀式將在德黑蘭、庫姆與馬什哈德舉辦。相關活動是為紀念阿里・哈梅內伊下葬滿四十天。
-
----
-
-### 2026-08-16 14:41:22  #國際
-
-伊朗軍方失蹤事務主管稱，卡達應當允許伊朗空軍真相調查團入境。
-
----
-
-### 2026-08-16 14:38:21  #其他
-
-據燈塔專業版，截至8月16日，影片《去你的島》票房突破1億。
-
----
-
-### 2026-08-16 14:35:25  #其他
-
-【中國電建設計承建的西北兩座抽蓄電站透過驗收】據中國電建訊息，近日，中國電建設計承建的西北地區兩座百萬千瓦級抽水蓄能電站接連迎來重大節點，新疆阜康抽蓄電站透過工程竣工驗收，陝西鎮安抽蓄電站透過樞紐工程專項驗收。
-
----
-
-### 2026-08-16 14:30:27  #國際
-
-當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）
-
----
-
-### 2026-08-16 14:27:23  #MKT News #Market Themes #AI Revolution
-
-【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry.
-
----
-
-### 2026-08-16 14:24:30  #公司
-
-【固德威與深算院達成戰略合作 共建AI+智慧能源聯合創新中心】據固德威訊息，8月16日，固德威技術股份有限公司（簡稱“固德威”）與深圳計算科學研究院（簡稱“深算院”）在蘇州固德威智慧能源大廈簽署戰略合作協議。同期，還舉行了“AI+智慧能源”聯合創新中心揭牌儀式，中心圍繞AI+資料+新型電力系統深度融合展開長期聯合研發，著力推進智慧能源行業的正規化躍遷。
-
----
-
-### 2026-08-16 14:17:19  #其他
-
-莫斯科市長：從週六晚間至週日莫斯科時間6時30分，共有600架無人機飛向莫斯科地區，其中201架在莫斯科地區被摧毀。
-
----
-
-### 2026-08-16 14:16:41  #國際
-
-【烏稱基輔遭導彈襲擊 3人受傷】烏克蘭首都基輔市市長克利奇科16日通報稱，俄軍當天凌晨使用彈道導彈襲擊了烏克蘭首都基輔，導致奧博隆區和霍洛西伊夫區發生火災，截至當地時間7時20分，已有3人受傷。（央視新聞）
-
----
-
-### 2026-08-16 14:16:10  #公司
-
-【機械傷害事故致1死，深圳龍崗釋出調查報告：存在瞞報，建議對5人追究刑責】龍崗區應急管理局日前公佈《龍崗南灣“3·4”一般機械傷害死亡事故調查報告》。3月4日14時38分許，深圳市龍崗區南灣街道下李朗社群深圳國際綜合物流樞紐中心（C2）一標段專案發生一起機械傷害事故，造成1人死亡，直接經濟損失200萬元。經調查認定，上述事故是一起因施工人員違章作業，施工單位安全生產主體責任不落實，現場安全管理不到位，監理單位疏於監理造成的生產安全責任事故，且存在瞞報事故情形。調查報告顯示，國際物流中心（C2）一標段總承包專案執行經理卿某文等5人被建議追究刑事責任。中鐵二十五局集團有限公司廣東省專案主要負責人王某新、國際物流中心（C2）一標段總承包專案專案經理周某平等22人對事故發生負有責任，建議由相關部門對其進行調查處理。
-
----
-
-### 2026-08-16 14:15:18  #MKT News
-
-【Six killed in Indiana storms and flooding】The U.S. state of Indiana emergency operations center and state officials said on Aug. 15 that consecutive strong storms and flooding have killed at least six people. Heavy rain over the past week raised river levels across multiple waterways and forced several hundred residents to evacuate. Indianapolis Mayor Joe Hogsett said the city is experiencing its worst flooding in more than 30 years. More than a dozen Indiana counties have declared local disaster; emergency crews and the National Guard are conducting rescue and relief operations. Earlier this week severe storms across the U.S. Midwest, also affecting Illinois, Kentucky and Ohio, spawned tornadoes, heavy rain and flash floods and temporarily cut power to nearly 1 million customers.
-
----
-
-### 2026-08-16 14:11:55  #公司 #觀點
-
-【外資“喜好”變了，最新調倉動向揭曉】三季度以來，高盛、摩根士丹利、摩根大通、瑞銀、巴克萊等國際機構旗下QFII賬戶，明顯扎堆中小盤硬科技與高階製造。據已披露公告，高盛公司三季度新進大恆科技（機器視覺）、金智科技（智慧電網）、浩辰軟體（工業軟體）、鴻富瀚（消費電子）、朗坤科技（生物質能發電）、常潤股份（汽車維保裝置）等多家公司的十大流通股東。高盛國際則出現在熊貓乳品、中恆集團、蓮花控股、潤建股份、三友聯眾、鋒龍股份、寧波韻升等公司名單中。值得關注的是，多家機構集中出現在一批並不算“大白馬”的中小市值公司股東名單中。其中，摩根士丹利、瑞銀與高盛同步新進大恆科技十大流通股東；瑞銀、巴克萊與高盛同步新進常潤股份；摩根大通、瑞銀與高盛國際同步新進通合科技；摩根士丹利、巴克萊和高盛新進唯萬密封；摩根士丹利、摩根大通和瑞銀新進科安達。（21財經）
-
----
-
-### 2026-08-16 14:08:27  #公司 #國際
-
-【韓國股市反彈 韓國投資者再度融資買入】市場資料週日顯示，隨著韓國股市自深度低點反彈，本土投資者再度大舉融資買入本國股票。 韓國金融投資協會（KOFIA）統計資料顯示，截至週四，用於買入股票的融資融券餘額（即保證金債務）達到30.93萬億韓元（摺合218億美元），高於8月3日的27.44萬億韓元。 此番融資規模攀升，背景是三星電子、SK海力士等市場權重股，從AI相關投資盈利擔憂引發的震盪行情中大幅回升。 分析師認為，鑑於AI投資相關憂慮有所緩解，韓國股市暫無即刻降溫跡象，融資規模或將在一段時間內繼續走高，有望創下新高。
 
 ---
