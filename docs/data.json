@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-19 03:13:34",
-  "count": 15086,
+  "updated": "2026-08-19 03:17:25",
+  "count": 15092,
   "items": [
+    {
+      "id": "mkt:01a0164e-1639-7aab-9081-1196f048d26a",
+      "time": "2026-08-19 03:16:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "USD/CAD briefly fell over 10 pips, now 1.3896."
+    },
+    {
+      "id": "5046442",
+      "time": "2026-08-19 03:16:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金價格下跌3%，至每盎司1717.90美元。"
+    },
+    {
+      "id": "5046441",
+      "time": "2026-08-19 03:16:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。"
+    },
+    {
+      "id": "mkt:01a0164d-5488-7aab-9081-0ab8da275955",
+      "time": "2026-08-19 03:16:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada."
+    },
+    {
+      "id": "5046440",
+      "time": "2026-08-19 03:15:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普正考量是否給予加拿大關稅暫緩豁免】知情人士透露，美加之間一份旨在避免對加拿大商品加徵新關稅的協議，現已交由美國總統特朗普定奪。目前，是否於午夜按計劃正式開徵50%關稅，決定權掌握在特朗普手中。美、加官員連日展開不間斷談判。美方政府施壓，要求加拿大取消去年針對特朗普關稅出臺的報復性舉措，包括加拿大各省對美國酒類實施的禁令、針對美國汽車徵收的關稅；渥太華方面則希望美方下調針對汽車及其他商品的關稅。其中兩名知情人士稱，這份逐步成型的潛在協議，還包含加拿大在乳製品關稅配額方面作出讓步，該議題頻繁出現在特朗普批評加拿大貿易政策的公開表態中。"
+    },
+    {
+      "id": "mkt:01a0164c-5700-7aab-9081-001e397fe582",
+      "time": "2026-08-19 03:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dutch foreign minister says the Netherlands opposes recent US sanctions on officials and staff of the International Criminal Court."
+    },
+    {
+      "id": "mkt:01a0164b-afa5-7aab-9080-fa0c8d0221b5",
+      "time": "2026-08-19 03:14:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's ambassador to Kuwait met four Iranians who have been detained in Kuwait for three months."
+    },
+    {
+      "id": "5046439",
+      "time": "2026-08-19 03:13:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐科威特大使會見了三個月前被扣留在科威特的四名伊朗公民。"
+    },
+    {
+      "id": "5046438",
+      "time": "2026-08-19 03:13:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭外交大臣：荷蘭不認可美國近期針對國際刑事法院官員及工作人員實施的制裁。"
+    },
+    {
+      "id": "5046437",
+      "time": "2026-08-19 03:13:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：葉門穆哈港東南40海里海域一艘貨船遭多枚炮彈擊中，事發時該貨船船上無船員，船隻受損嚴重。有關部門正在開展調查。"
+    },
     {
       "id": "mkt:01a01649-7911-7aab-9080-f2817fa8309e",
       "time": "2026-08-19 03:11:48",
@@ -138260,49 +138349,6 @@
         "國際"
       ],
       "text": "美國疾控中心：針對接受 B 細胞耗竭或調節類藥物治療的患者，釋出蟲媒傳染病重症風險健康警示。目前尚無獲批的治療藥物、預防制劑以及人用疫苗，可預防美國本土流行的蟲媒傳染病。"
-    },
-    {
-      "id": "mkt:019ff241-001d-7aab-8ff9-bb3f0b610c1c",
-      "time": "2026-08-12 03:16:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A Houthi spokesperson said Yemeni armed forces attacked Saudi military assembly points, weapons depots and command headquarters in Mecca Province and Marib Province."
-    },
-    {
-      "id": "mkt:019ff240-5add-7aab-8ff9-b5b69c3fc472",
-      "time": "2026-08-12 03:15:31",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【Bank of France sees Q3 GDP +0.2%】Bank of France expects Q3 GDP to rise 0.2%, unchanged from Q2 and slightly above market consensus of 0.1%. Services — notably transport, information and communications — should continue to support activity; manufacturing rebounded in August. Energy output is expected to expand, while construction may weaken further amid fewer public project contracts. A survey of about 8,500 firms showed slower July increases in raw material costs and selling prices, suggesting the pass-through of spring input-cost rises to final prices may be near completion. The bank flagged significant uncertainty from Middle East geopolitics and extreme weather and noted mixed signals ahead of the presidential election: a Q2 rebound alongside unemployment at a near six-year high and persistent budget deficit pressures."
-    },
-    {
-      "id": "5036348",
-      "time": "2026-08-12 03:15:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝發言人：葉門武裝部隊襲擊了麥哈以及馬裡卜省境內的沙特軍隊集結點、武器庫與指揮總部。"
-    },
-    {
-      "id": "mkt:019ff23f-cb32-7aab-8ff9-a800e19784a6",
-      "time": "2026-08-12 03:14:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "A Houthi spokesman said Houthi forces will continue operations to strike any Saudi troops attempting to escalate the situation via Saudi troop assembly areas or to seize control of Yemen."
     }
   ]
 }
