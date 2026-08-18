@@ -1,7 +1,62 @@
 {
   "date": "2026-08-18",
-  "count": 2636,
+  "count": 2642,
   "items": [
+    {
+      "id": "mkt:01a01584-e995-7aab-907e-c9ca99165572",
+      "time": "2026-08-18 23:37:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude extends intraday gains to 1.00%, trading at $84.92/bbl."
+    },
+    {
+      "id": "5046343",
+      "time": "2026-08-18 23:36:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：美國官員稱，特朗普已指示其團隊，在伊朗準備簽署協議之前，不要與伊朗進行談判。該官員稱，與伊朗進行了積極討論，但特朗普決定等待。"
+    },
+    {
+      "id": "5046342",
+      "time": "2026-08-18 23:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉2026年工業產出較2025年二季度增長70%。"
+    },
+    {
+      "id": "mkt:01a01584-0c44-7aab-907e-c2e181026dc7",
+      "time": "2026-08-18 23:36:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera reports US officials say Trump has ordered his team not to negotiate with Iran until Tehran is prepared to sign an agreement; officials say there were active discussions with Iran but Trump opted to wait."
+    },
+    {
+      "id": "5046341",
+      "time": "2026-08-18 23:35:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破92美元/桶，日內漲1.24%。"
+    },
+    {
+      "id": "5046340",
+      "time": "2026-08-18 23:34:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "小米集團ADR現下跌4%，此前一度上漲2%，該公司早前公佈了第二季度財報。"
+    },
     {
       "id": "mkt:01a01581-5ede-7aab-907e-bef846f83265",
       "time": "2026-08-18 23:33:14",
