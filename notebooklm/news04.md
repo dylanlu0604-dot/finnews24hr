@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 01:57:01_
-_本檔包含 3149 則快訊，約 604945 字_
+_更新時間：2026-08-19 02:49:53_
+_本檔包含 3159 則快訊，約 604385 字_
+
+---
+
+### 2026-08-14 09:45:58  #其他
+
+【貴州印發非常規天然氣增儲上產三年攻堅行動方案】貴州省人民政府辦公廳印發《貴州省非常規天然氣增儲上產三年攻堅行動方案（2026—2028年）》，總體要求為，非常規天然氣2026年產量超9億立方米，2027年產量超17億立方米，2028年產量超22億立方米、自給率超40%，2030年自給率達到60%，2035年基本實現自給自足。
+
+---
+
+### 2026-08-14 09:45:51  #其他
+
+拉脫維亞武裝部隊在X平臺發文表示，拉脫維亞已解除空中威脅警報，盟軍戰鬥機在拉脫維亞領空擊落了一架無人機。
+
+---
+
+### 2026-08-14 09:45:20  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share innovative drug sector showed pockets of strength: Boji Pharma, Huasen Pharmaceutical and Zhongyuan Xiehe hit their daily trading limits; Xuantai Pharmaceutical, Guanhao Biotech, Zhongqi Co., Tigermed and Baiaotai also rose.
+
+---
+
+### 2026-08-14 09:45:19  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量668億元。
+
+---
+
+### 2026-08-14 09:45:19  #Trading Economics #Economy #Australia #Home Loans #Importance 1
+
+Australia Q2 Housing Lending Hits 3-Quarter Low — The value of new owner-occupier loan commitments for dwellings in Australia fell 1.9% quarter-on-quarter to AUD 60.5 billion in Q2 2026, the lowest in three quarters, easing from a downwardly revised 3.5% decline in Q1. First-home buyer demand edged up 0.2%, reversing a 4.8% contraction in the previous quarter, while lending to non-first-home buyers declined 3.1%, moderating from a 3.9% fall. On an annual basis, owner-occupier lending rose 0.6%. Meanwhile, investment lending for housing tumbled 10.2% to AUD 37.1 billion, its lowest level in a year, deepening from a 3.2% decline in Q1. Despite the quarterly weakness, investment loan values remained 8.1% higher year-on-year.
+
+---
+
+### 2026-08-14 09:45:07  #市場 #焦點
+
+南向資金淨買入額達20億港元。
+
+---
+
+### 2026-08-14 09:44:49  #公司 #市場
+
+【創新藥板塊區域性走高，博濟醫藥漲停】創新藥板塊區域性走高，博濟醫藥、華森製藥、中源協和漲停，宣泰醫藥、冠昊生物、中旗股份、泰格醫藥、百奧泰跟漲。
+
+---
+
+### 2026-08-14 09:43:51  #公司 #市場
+
+【算力租賃概念震盪下挫 城地香江跌停】早盤算力租賃概念震盪下挫，城地香江跌停，鴻博股份觸及跌停，甘諮詢、群興玩具、中鼎股份、立昂技術等快速跟跌。
+
+---
+
+### 2026-08-14 09:42:47  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Holds Near 2-Week Low — The New Zealand dollar steadied around $0.585 but remained near a two-week low as soft economic data raised fresh questions over the extent to which the Reserve Bank may continue tightening policy. New Zealand's manufacturing PMI fell to 54.3 in July from June's 60.1, with a majority of business comments turning negative. This followed data showing that one-year inflation expectations fell to 2.6% from 3.4% in the previous quarter, while the two-year measure, which the RBNZ watches most closely, eased to 2.3% from 2.5%. This signaled that inflation expectations remain contained and that there is a lower risk of higher oil prices spilling over into broader inflation. Still, traders continue to see a high probability of a September rate hike as the central bank repeatedly stressed the need to withdraw some of its policy support. The kiwi is down 0.6% so far this week, putting it on track to snap a two-week winning streak.
+
+---
+
+### 2026-08-14 09:42:45  #公司
+
+【超訊科技成立智算科技公司 含多項AI業務】企查查APP顯示，近日，超訊智算（廣西）科技有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；網路技術服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由超訊科技全資持股。
+
+---
+
+### 2026-08-14 09:42:43  #MKT News
+
+China A-share property sector opened lower; Jingtou Development fell over 7%, while Rongfeng Holdings, Huafa and Shoukai shares also slipped at the open.
+
+---
+
+### 2026-08-14 09:42:41  #國際
+
+【中方呼籲葉門各方保持冷靜剋制 避免局勢升級】當地時間13日，聯合國安理會舉行葉門問題公開會。中國常駐聯合國副代表孫磊表示，最近一個多月，葉門局勢驟然升溫，衝突烈度達到2022年4月停火協議簽署以來的最高水平。與此同時，紅海航道安全風險上升，引發國際社會廣泛擔憂。當前葉門緊張事態升級，是在中東整體局勢加劇動盪的背景下發生的，是地區衝突負面效應外溢的結果。當務之急是推動局勢降溫，防止衝突持續擴大，所有當事方都應保持冷靜剋制，避免局勢升級。
+
+---
+
+### 2026-08-14 09:42:08  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share components sector surged; Huazheng New Materials and Aihua Group hit daily trading limits, while Zhongying Technology, Weiergao, Nanya New Materials, Zecheng Electronics and Zhongfu Circuit also advanced.
+
+---
+
+### 2026-08-14 09:41:53  #公司 #市場
+
+【房地產板塊回撥 京投發展跌超7%】房地產板塊回撥，京投發展跌超7%，榮豐控股、華髮股份、首開股份等紛紛下跌。
+
+---
+
+### 2026-08-14 09:41:43  #市場
+
+【CRO概念反覆走強 博濟醫藥20cm2連板】CRO概念反覆走強，博濟醫藥20cm2連板，蘭衛醫學漲超10%，和元生物、宣泰醫藥、近岸蛋白、皓元醫藥跟漲。
+
+---
+
+### 2026-08-14 09:41:37  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Extend Rally — The benchmark KOSPI rose nearly 1% to around 6,870 on Friday, extending gains to its highest level in more than three weeks, as strength in US stocks and semiconductor shares lifted investor sentiment. The S&P 500 reached a fresh record high after US producer prices were unchanged in July, below expectations for an increase, easing concerns over accelerating inflation and reducing expectations for further Federal Reserve tightening. The improved risk sentiment supported Asian technology stocks, with SK hynix jumping more than 3%. Other notable performers included SK Square (1.7%), Hyundai Motor (5.5%), HD Hyundai Heavy Industries (1.8%), Kia Corporation (2.1%), and Hyundai Mobis (3.5%). Meanwhile, the US imposed a 15% tariff on South Korean drones and components and identified South Korea as a Tier 1 economy exposed to transshipment risks involving China-linked goods, adding a potential headwind for exporters.
+
+---
+
+### 2026-08-14 09:41:34  #公司
+
+【中芯國際趙海軍：二季度毛利率增加主要因為銷售單價提升與產能利用率好於預期】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度公司毛利率為25.3%，環比增加5.2個百分點，主要因為平均銷售單價上升與產能利用率好於預期，抵消了折舊增加對毛利率的拖累。從息稅折舊及攤銷前利潤率來看，環比提升近13個百分點，達到了70%。
+
+---
+
+### 2026-08-14 09:41:18  #MKT News #Macro & Rates
+
+Japan 20-year bond yield fell 1bp to 3.730%.
+
+---
+
+### 2026-08-14 09:40:47  #市場 #國際
+
+日本20年期國債<JP20YTN=JBTC>收益率下跌1個基點，至3.730%。
+
+---
+
+### 2026-08-14 09:39:37  #公司 #市場
+
+【元件板塊衝高，華正新材、艾華集團漲停】元件板塊衝高，華正新材、艾華集團漲停，中英科技、威爾高、南亞新材、則成電子、中富電路跟漲。
+
+---
+
+### 2026-08-14 09:39:20  #市場
+
+【先進封裝概念持續走強，華正新材漲停】先進封裝概念持續走強，華正新材漲停，藍箭電子漲超10%，驕成超聲、頎中科技、華海誠科、佰維儲存、光力科技等跟漲。
+
+---
+
+### 2026-08-14 09:39:00  #MKT News #CSI300 #Impact bearish
+
+China A-share food processing and manufacturing sector briefly slid; Anji Foods hit the daily limit-down, with Baihe, Gaishi Food, Haoxiangni and Haixin Food also falling.
+
+---
+
+### 2026-08-14 09:38:59  #其他
+
+【電力板塊走低 梅雁吉祥跌超8%】電力板塊走低，梅雁吉祥跌超8%，華銀電力、豫能控股、京能電力等跌幅居前。
+
+---
+
+### 2026-08-14 09:38:48  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish
+
+ChiNext index opened more than 1% higher, led by gains in storage-chip and CPO stocks.
+
+---
+
+### 2026-08-14 09:38:29  #市場 #焦點
+
+創業板指漲1.00%，現報3621.990點；上證指數跌0.08%，現報3923.875點；深證成指漲0.53%，現報14365.766點。
+
+---
+
+### 2026-08-14 09:38:29  #MKT News
+
+A-shares liquid-cooled server names rallied: Kangsheng hit the daily trading limit, Alade rose over 15%, and Jiebang Technology, Jintian, Jingyan Technology and Siquan New Materials also advanced.
+
+---
+
+### 2026-08-14 09:38:10  #公司 #市場
+
+【儲存晶片概念股拉昇 阿萊德漲超14%】儲存晶片概念股拉昇，阿萊德漲超14%，藍箭電子、中巨芯、恆爍股份等股跟漲。
+
+---
+
+### 2026-08-14 09:37:45  #市場
+
+華虹宏力A股下跌8%，港股跌近10%
+
+---
+
+### 2026-08-14 09:37:14  #MKT News #Important #01347.HK #Impact bearish
+
+Huahong Hongli (01347.HK) shares plunged after results, opening down nearly 10%. The company guided 2026 Q3 revenue at about $770m–$780m and a gross margin of 16–18%, versus market consensus of 16.6%.
+
+---
+
+### 2026-08-14 09:37:04  #公司 #市場
+
+【AI智慧體概念盤初走強，彩訊股份等多股漲停】AI智慧體概念盤初走強，彩訊股份、石基資訊、久其軟體漲停，漢得資訊、康力源、星環科技-U、每日互動、華盛昌等跟漲。
+
+---
+
+### 2026-08-14 09:36:54  #公司 #市場
+
+【食品加工製造板塊短線走低，安記食品觸及跌停】食品加工製造板塊短線走低，安記食品觸及跌停，百合股份、蓋世食品、好想你、海欣食品跟跌。
+
+---
+
+### 2026-08-14 09:36:32  #MKT News #Important #Market Themes #China Tech Giants #Star Stocks #JD.com #Meituan #09618.HK #Impact bearish #03690.HK
+
+Hang Seng Tech Index fell more than 1% in early trade as internet and tech names weakened; JD.com (09618.HK) slid over 8%, Meituan (03690.HK) dropped over 3%.
+
+---
+
+### 2026-08-14 09:36:18  #市場
+
+AI應用方向開盤拉昇，理工能科2連板，石基資訊、久其軟體直線漲停，大恆科技、合合資訊、達夢資料跟漲。
+
+---
+
+### 2026-08-14 09:36:14  #公司
+
+【超節點概念反覆活躍 共進股份2連板】超節點概念反覆活躍，共進股份2連板，星網銳捷、紫光股份、海達爾、菲菱科思、銳捷網路跟漲。
+
+---
+
+### 2026-08-14 09:35:39  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share dairy sector slid intraday; Huangshi Group and Yiming Food hit limit-down, Pinwo Food, Huanlejia and Panda Dairy also declined.
+
+---
+
+### 2026-08-14 09:35:28  #市場 #焦點
+
+恒生科技指數跌超1%，現報4744.310點；恒生指數現跌0.889%。
+
+---
+
+### 2026-08-14 09:35:23  #MKT News
+
+Cenc automatic detection: Aug 14 09:33 local time — M3.4 (approx.) quake near Longchang, Neijiang, Sichuan (29.24°N, 105.24°E). Final result pending formal bulletin.
+
+---
+
+### 2026-08-14 09:34:48  #公司 #市場
+
+【乳業板塊短線走低，一鳴食品、皇氏集團觸及跌停】乳業板塊短線走低，皇氏集團、一鳴食品觸及跌停，品渥食品、歡樂家、熊貓乳品跟跌。
+
+---
+
+### 2026-08-14 09:33:33  #其他
+
+【港股人工智慧股延續漲勢 智譜漲超5%】截至發稿，智譜(02513.HK)漲5.39%，MINIMAX-W(00100.HK)漲3.72%，迅策(03317.HK)漲2.38%。
+
+---
+
+### 2026-08-14 09:33:28  #公司 #市場
+
+【半導體板塊盤初走強 富信科技漲超8%】半導體板塊盤初走強，富信科技漲超8%，聯芸科技、普冉股份等漲幅居前。
+
+---
+
+### 2026-08-14 09:33:26  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share pharmaceutical distribution sector slipped intraday; Yaoyigou fell more than 7%, with Ruikang Pharmaceutical, Kaikai Industrial, Shuyu Pingmin and Huaren Health also down.
+
+---
+
+### 2026-08-14 09:33:12  #公司
+
+【中國鐵建簽約羅馬尼亞大型光伏電站專案】中國鐵建公眾號訊息，近日，中國鐵建與羅馬尼亞奧爾特尼亞能源集團聯合體正式簽署商務合同，標誌著羅馬尼亞戈爾日縣四座光伏電站EPC及運維專案全面落地。該專案位於羅馬尼亞西南部戈爾日縣，最大亮點為“火電舊址再造新能源”——四座光伏電站均選址於業主兩座火電廠原有灰渣堆場，實現傳統工業遺址向綠色能源基地的轉型升級。
+
+---
+
+### 2026-08-14 09:33:09  #其他
+
+【國家統計局：8月上旬液化石油氣為5790.9元/噸，環比下降3.5%】據國家統計局，8月上旬流通領域重要生產資料市場價格中液化石油氣為5790.9元/噸，環比下降3.5%；螺紋鋼為3062.7元/噸，環比下降1.9%；電解銅為107498.3元/噸，環比增長1.7%；液化天然氣為5539.5元/噸，環比增長0.3%；生豬（外三元）為10.4元/千克，環比持平；複合肥為3640.0元/噸，環比持平。
+
+---
+
+### 2026-08-14 09:32:55  #市場
+
+京東物流股價在第二季度業績公佈後下跌7.2%，至13.15港元。
+
+---
+
+### 2026-08-14 09:32:39  #市場
+
+中證轉債指數開盤上漲0.18%。玉禾轉債、炬申轉債、特寶轉債、申能轉債、錫振轉債漲幅居前，分別漲30.00%、20.00%、13.80%、4.90%、4.45%。曙26轉債、金25轉債、歐晶轉債、皓元轉債、明新轉債跌幅居前，分別跌1.03%、0.52%、0.47%、0.46%、0.41%。
+
+---
+
+### 2026-08-14 09:32:38  #市場 #焦點
+
+紐約期金失守4370美元/盎司，日內跌1.14%。
+
+---
+
+### 2026-08-14 09:32:38  #MKT News #CSI300 #Impact bullish
+
+China A-share supercapacitor sector spiked intraday; Kangsheng hit its daily up-limit. Jinshi Technology, Yifei Laser, Kangpeng Technology, Shangluo Electronics and Dongyangguang also advanced.
+
+---
+
+### 2026-08-14 09:32:34  #MKT News #Macro & Rates #Treasury Yields
+
+【Bond futures open — morning session】2-year bond futures (TS) main contract unchanged at the open; 5-year (TF) unchanged; 10-year (T) unchanged; 30-year (TL) down 0.06%.
+
+---
+
+### 2026-08-14 09:32:32  #公司 #市場
+
+【超級電容板塊短線拉昇，康盛股份漲停】超級電容板塊短線拉昇，康盛股份漲停，金時科技、逸飛鐳射、康鵬科技、商絡電子、東陽光等紛紛走高。
+
+---
+
+### 2026-08-14 09:32:32  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【Chinese stock index futures open lower】China stock index futures opened lower in the morning session: CSI 300 (IF) main contract down 0.13%, SSE 50 (IH) main contract down 0.12%, CSI 500 (IC) main contract down 0.15%, CSI 1000 (IM) main contract down 0.04%.
+
+---
+
+### 2026-08-14 09:32:31  #MKT News #00001.HK #Impact bearish
+
+CK Hutchison (00001.HK) slid further after results, dropping more than 5% at the open; 1H underlying net profit HKD 12.592 bln, up 6% YoY.
+
+---
+
+### 2026-08-14 09:32:17  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-08-14 09:32:12  #市場
+
+【港股半導體股走強 中芯國際漲近5%】截至發稿，中芯國際(00981.HK)漲4.74%，兆易創新(03986.HK)漲4.09%，天數智芯(.HK)漲3.64%。
+
+---
+
+### 2026-08-14 09:31:40  #其他
+
+【醫藥商業板塊短線走低，藥易購跌超7%】醫藥商業板塊短線走低，藥易購跌超7%，瑞康醫藥、開開實業、漱玉平民、華人健康等跟跌。
+
+---
+
+### 2026-08-14 09:31:32  #其他
+
+澳大利亞二季度整體住房融資額季度環比下降5.4%。
+
+---
+
+### 2026-08-14 09:31:27  #其他
+
+澳大利亞第二季度經季節調整後的住房貸款價值環比下降5.2%
+
+---
+
+### 2026-08-14 09:31:14  #央行 #國際
+
+韓國央行公佈資料顯示，7月韓國銀行業對家庭的淨新增貸款為5.4萬億韓元，6月該項資料為淨新增7.6萬億韓元。
+
+---
+
+### 2026-08-14 09:31:03  #市場 #國際
+
+30年期日本國債<JP30YTN=JBTC>收益率下跌0.5個基點，至4.005%。
+
+---
+
+### 2026-08-14 09:30:52  #其他
+
+【亮源新創完成數億元Pre-A輪融資】8月14日，亮源新創（Light Origins）宣佈完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資，資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設、軟硬體全棧平臺研發以及高人才密度的團隊擴張。
 
 ---
 
@@ -18670,299 +19024,5 @@ RBA's Kent said Reserve Bank of Australia Chair Bullock stressed uncertainty and
 ### 2026-08-13 08:31:14  #宏觀 #市場 #國際
 
 【美國7月預算赤字激增，聯邦支出加速增長】美國財政部當地時間8月12日公佈的資料顯示，由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元。資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。公共債務利息支出繼續成為推高赤字的重要因素。7月利息支出同比增加260億美元，本財年至今累計達到1.17萬億美元，同比增長15%，部分原因是美國國債收益率上升。經調整後，7月總支出較2025年7月增加370億美元，收入減少120億美元，收入下降部分反映出關稅退款持續進行。
-
----
-
-### 2026-08-13 08:31:01  #MKT News
-
-RBA assistant governor Kent said the board will carefully consider a range of factors affecting financial conditions.
-
----
-
-### 2026-08-13 08:30:36  #市場 #央行 #國際
-
-【美聯儲加息預期降溫，金價上漲】亞洲早盤金價上漲。澳新銀行研究部的分析師在一份報告中表示，在美國通脹資料公佈後，對美聯儲加息的預期有所降溫，隨著7月消費者物價較6月僅略有上漲。這些分析師表示，該資料表明美聯儲在下次會議上料將按兵不動，使得市場僅反映了40%的加息預期。他們補充說：“這延續了不斷湧現的資料趨勢，這些資料緩和了對貨幣緊縮的預期，並應在未來幾個月為黃金提供進一步支撐。“較高的利率環境通常會拖累黃金等無息資產。現貨黃金上漲0.5%，報每盎司4,433.11美元。
-
----
-
-### 2026-08-13 08:30:12  #市場
-
-上海證交所上日融資餘額上漲0.4%至13,552.4億元。
-
----
-
-### 2026-08-13 08:29:56  #央行 #其他
-
-澳大利亞儲備銀行肯特：央行董事會將審慎考量影響金融環境的各類廣泛因素。
-
----
-
-### 2026-08-13 08:29:50  #MKT News
-
-RBA's Kent: estimates of the neutral interest rate carry considerable uncertainty.
-
----
-
-### 2026-08-13 08:29:17  #MKT News #DXY #Impact bearish
-
-RBA's Kent said a stronger currency helps ease inflation by lowering domestic prices of imported goods.
-
----
-
-### 2026-08-13 08:28:36  #MKT News #Market Themes #AI Revolution #AUDUSD #Impact bullish #DXY #Impact bearish
-
-RBA's Kent said significant investment in data centres and AI-related infrastructure helps support aggregate demand growth.
-
----
-
-### 2026-08-13 08:28:36  #MKT News #Copper #Impact bearish
-
-RBA's Kent said Australia's housing market has clearly softened recently; tax changes in the federal budget appear to have reduced demand for existing homes.
-
----
-
-### 2026-08-13 08:28:29  #央行 #澳洲聯儲
-
-【澳洲聯儲助理主席肯特：利率上調正產生預期中的效果】澳洲聯儲助理主席肯特稱，現金利率接近我們根據各種模型估算出的中性利率中心估值範圍的上限。利率上調正產生預期中的效果。
-
----
-
-### 2026-08-13 08:28:26  #其他
-
-澳大利亞儲備銀行肯特：對資料中心及人工智慧相關基礎設施的大規模投資，為總需求增長提供了支撐。
-
----
-
-### 2026-08-13 08:28:17  #其他
-
-澳大利亞儲備銀行肯特：聯邦預算公佈的稅制調整似乎對存量房市場需求下滑起到了推動作用。
-
----
-
-### 2026-08-13 08:28:08  #MKT News #Macro & Rates
-
-RBA deputy governor Kent said rate hikes are having the expected effect.
-
----
-
-### 2026-08-13 08:28:03  #MKT News #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish
-
-RBA's Kent said the cash rate is close to the upper end of the central estimate range for the neutral rate derived from various models.
-
----
-
-### 2026-08-13 08:27:34  #其他
-
-澳大利亞儲備銀行肯特：近幾個月樓市狀況已顯著走軟。
-
----
-
-### 2026-08-13 08:27:24  #其他
-
-澳大利亞儲備銀行助理行長肯特：圍繞中性利率預估存在相當大的不確定性。
-
----
-
-### 2026-08-13 08:27:09  #資料
-
-澳大利亞儲備銀行助理行長肯特：現金利率處於我們估算的各種模型對中性利率中心預估區間的頂部附近。
-
----
-
-### 2026-08-13 08:26:47  #公司 #市場 #國際
-
-【韓國股市10天內漲逾22% 晶片重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，基準Kospi指數上漲4%，自7月30日低點以來的累計漲幅超過22%。記憶體晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均大幅上揚。隨著全球科技巨頭在最新財報中顯示出大規模AI支出繼續，市場對科技硬體股的熱情正在迴歸。這種情緒與過去幾個月形成了鮮明對比 —— 當時，因槓桿化晶片股頭寸被迫平倉，不僅導致交易暫停，還讓散戶投資者損失了數十億美元的財富。近期政府對單隻股票槓桿ETF的限制措施，以及投資者減少保證金債務的跡象，都有助於穩定市場。“一旦槓桿被解除，同一市場可能會出現劇烈反彈，”駐迪拜的Arkevium Capital首席投資官Maxence Visseau表示。“被迫拋售的投資者消失了。做空者獲利了結。交易商減少了下行對沖。”年迄今，韓國Kospi指數已上漲逾60%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。
-
----
-
-### 2026-08-13 08:26:09  #其他
-
-澳大利亞儲備銀行助理行長肯特：匯率上升透過降低進口商品的國內價格，有助於緩和通脹。
-
----
-
-### 2026-08-13 08:25:50  #MKT News
-
-【Mexico seeks lower auto tariffs in US trade talks】WSJ reported, citing people familiar with talks, that Mexico is pressing the US to lower tariffs on North American autos as part of discussions to revise the US‑Mexico‑Canada Agreement. The demand responds to the Trump administration’s prior push for more US‑made auto content; the administration currently applies a 25% tariff on the portion of a vehicle’s value attributable to parts not made in the US for autos from Canada and Mexico. Mexico’s recent proposal would broaden the range of tariff‑exempt parts and cut the peak North American auto tariff from 25% to a lower rate, possibly 5%–10%. Under the proposal the US would levy duties only on the value of parts produced outside North America, effectively exempting parts made in Mexico and Canada.
-
----
-
-### 2026-08-13 08:25:48  #公司
-
-【巴西最高法院維持了與亞馬遜雨林砍伐協議破裂相關的法律】巴西最高法院週三維持了各州的相關法律，這些法律實際上終結了一項具有里程碑意義的舉措——該舉措曾被認為有效遏制了為種植大豆而導致的亞馬遜雨林砍伐。大法官們駁回了農民關於這項實施了20年的自願性“大豆暫停令”違法的主張，從而使穀物貿易商和加工商免於承擔農民索賠的數十億雷亞爾潛在損害賠償。但法院支援各州採取的措施，例如馬託格羅索州去年撤銷參與該暫停令企業稅收優惠的舉措。
-
----
-
-### 2026-08-13 08:24:56  #其他
-
-澳大利亞儲備銀行助理行長肯特：指標利率上調正在產生預期效果。
-
----
-
-### 2026-08-13 08:24:25  #行業 #市場
-
-【零跑創始人談造車：已越過最難熬的節點】8月11日，他在A05上市釋出會後的溝通會上，罕見地用“快樂”來形容自己的造車心境，稱自己已經過了“最驚嚇的那一段”，進入了“感覺有點快樂的階段”。根據乘聯分會的最新資料，7月全國乘用車市場零售146.1萬輛，同比下降20.9%，環比下降8.8%；今年以來累計零售1017.3萬輛，同比下降20.3%。而在新勢力陣營中，頭部車企月銷突破10萬輛，腰部仍在3萬輛關口膠著，尾部則繼續下滑。在中國車市加速分化的競爭格局中，朱江明這樣的表態，具有一定的風向標意義。（一財）
-
----
-
-### 2026-08-13 08:23:13  #其他
-
-澳大利亞儲備銀行助理行長肯特：稅收政策變化似乎是導致房地產市場低迷的原因之一。
-
----
-
-### 2026-08-13 08:22:17  #公司 #國際
-
-【凱投宏觀：韓國由晶片驅動的繁榮或在2028年失去動力】凱投宏觀的Marcel Thieliant表示，儘管近期國內生產總值(GDP)增長存在上行風險，但韓國由半導體驅動的經濟繁榮可能會在兩年內失去動力。該經濟學家預計，美國人工智慧投資熱潮將在2028年失去動力，這可能會促使韓國晶片製造商開始削減資本支出，因為該行業具有高度週期性。Thieliant指出，三星電子和SK海力士宣佈了一項合計800萬億韓圓的投資計劃，將在韓國西南部建設新的晶片製造廠，不過時間表尚未披露。他指出，隨著疫情後的電子產品繁榮逆轉，SK海力士在2023年將其資本支出削減了三分之二。
-
----
-
-### 2026-08-13 08:22:04  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Edges Higher on Tame US Inflation Data — Silver rose to around $66 an ounce on Thursday, hovering near seven-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Precious metals also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement.
-
----
-
-### 2026-08-13 08:21:29  #國際
-
-【墨西哥在貿易談判中爭取降低汽車關稅】據知情人士透露，墨西哥政府正敦促美國降低北美產汽車的關稅，以此作為修訂《美墨加協定》談判的一部分。此舉是針對特朗普政府要求汽車提高美國產零部件佔比所提出的反提案。特朗普政府目前對加拿大、墨西哥進口汽車中的非美國產零部件部分徵收 25% 關稅。墨西哥近幾周提出提案，擬擴大汽車可享受零關稅的零部件範圍，並下調北美汽車的最高關稅稅率。參與談判的知情人士表示，按照墨西哥的方案，美國僅對北美以外地區生產的汽車零部件價值徵收關稅，來自墨西哥與加拿大的零部件均可享受免稅待遇。
-
----
-
-### 2026-08-13 08:21:00  #央行
-
-澳洲聯儲助理主席肯特：金融環境具有一些限制性。
-
----
-
-### 2026-08-13 08:20:36  #市場 #焦點
-
-現貨黃金突破4430美元/盎司，日內漲0.51%。
-
----
-
-### 2026-08-13 08:20:36  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed above $4,430/oz, up 0.51% intraday.
-
----
-
-### 2026-08-13 08:20:26  #市場 #焦點
-
-紐約期金突破4490美元/盎司，日內漲0.50%。
-
----
-
-### 2026-08-13 08:20:26  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Firm on Tame US Inflation Data — Gold held above $4,400 an ounce on Thursday, hovering near ten-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Gold also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement.
-
----
-
-### 2026-08-13 08:20:09  #其他
-
-【力拓旗下澳大利亞最大鋁冶煉廠獲長期電力供應保障】8月13日，力拓宣佈，Tomago鋁冶煉廠與澳大利亞政府、新南威爾士州政府達成協議，將透過一份為期10年的購電協議（PPA）獲得長期電力供應，協議覆蓋至2038年。該協議將於現有電力合同2028年12月31日到期後生效，2033年起電力將全部來自可再生能源。根據協議，Tomago鋁冶煉廠計劃到2038年投資11億澳元，其中1億澳元用於脫碳專案。Tomago鋁冶煉廠年產鋁最多59萬噸，約佔澳大利亞年產量的40%，直接僱用約1000人。力拓持有該合資企業51.55%股權。
-
----
-
-### 2026-08-13 08:19:42  #其他
-
-澳大利亞儲備銀行助理行長肯特：金融環境“略顯保守”。
-
----
-
-### 2026-08-13 08:19:42  #MKT News #Market Themes #The Trump Trade
-
-Wall Street Journal reports, citing sources, that Mexico is pushing to lower auto tariffs in USMCA negotiations.
-
----
-
-### 2026-08-13 08:19:14  #國際
-
-市場訊息：墨西哥在與美國貿易談判中力促降低汽車關稅。
-
----
-
-### 2026-08-13 08:17:47  #MKT News #Commodities #Precious Metals
-
-Spot silver is up 1.00% intraday at $65.97/oz.
-
----
-
-### 2026-08-13 08:17:03  #國際
-
-【特朗普在土耳其換機前 中情局對伊朗威脅評估 “可信度較低”】據報道，瞭解該份情報的美國現任及前官員稱，以色列向美方通報了一則伊朗針對美國總統唐納德・特朗普的暗殺威脅情報，該情報促使美方採取特殊秘密行動，讓特朗普搭乘另一架軍用飛機秘密離開土耳其，但美國情報官員當時對該威脅持懷疑態度。一名官員表示，以色列政府將這份暗殺威脅情報轉達給中央情報局，該局分析人員認為該情報說服力不足，並將這份質疑意見通報給特朗普政府官員。另一名官員稱，針對特朗普生命受到威脅的相關報告 “源自以色列，並非美方獲取，評估可信度較低”。
-
----
-
-### 2026-08-13 08:16:43  #市場
-
-現貨白銀日內漲1%，現報65.96美元/盎司。
-
----
-
-### 2026-08-13 08:15:50  #MKT News
-
-【Huatai Securities flags domestic substitution opportunity for aluminum nitride】Huatai Securities says AI compute expansion will increase optical-module power consumption, shifting aluminum nitride (AlN) — prized for high thermal conductivity, electrical insulation and thermal compatibility — from an optional to a likely required material. Huatai estimates optical modules could drive demand for high-end AlN powder to exceed 2,000 tonnes by 2027. On the supply side, Japanese suppliers are facing raw-material shortages tied to rare-earth controls, and tight downstream demand could create a supply shortfall and upward pressure on prices. Domestic manufacturers are accelerating capacity ramp-up and customer qualification, presenting a potential domestic-replacement opportunity.
-
----
-
-### 2026-08-13 08:15:46  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Russia struck Ukraine's Izmail port; port infrastructure caught fire after the attack.
-
----
-
-### 2026-08-13 08:15:23  #市場 #國際
-
-日本晶片相關股大幅上漲，鎧俠股價上漲6.2%，愛德萬測試上漲6.1%，Lasertec上漲4.3%。
-
----
-
-### 2026-08-13 08:14:32  #國際
-
-地方當局稱，俄羅斯襲擊了烏克蘭伊茲梅爾港。
-
----
-
-### 2026-08-13 08:13:37  #MKT News #Market Regions #Greater China
-
-【GBA Shiziyang Channel: Shiziyang Bridge anchorages complete today】The Guangdong‑Hong Kong‑Macao Greater Bay Area Shiziyang Channel project will complete the main construction of the east and west anchorages of Shiziyang Bridge today (Aug 13), finishing the bridge’s key load‑bearing anchor structures and clearing the way for subsequent catwalk and main‑cable installation. The 35 km channel runs west from Nansha, Guangzhou to Humen and Shatian towns in Dongguan. It is the GBA’s next major cross‑river link after the Hong Kong–Zhuhai–Macau Bridge and the Shenzhen–Zhongshan Link, and the Pearl River Estuary’s first double‑deck composite highway corridor; scheduled for completion and opening in 2029.
-
----
-
-### 2026-08-13 08:13:25  #市場
-
-WTI原油日內跌1%，現報82.41美元/桶。
-
----
-
-### 2026-08-13 08:12:48  #公司
-
-【雲知聲：近日正式釋出自研醫學影像多模態大模型（U2-RadiMed）】雲知聲公告，公司近日正式釋出自研醫學影像多模態大模型（U2-RadiMed）。該模型為國內首個深度融合醫學影像理解、報告生成、臨床推理決策與視覺問答的全鏈路影像大模型，支援單張、多張影像與文字的多模態混合輸入，全面覆蓋CXR（胸部X光）、CT、MRI等主流醫學影像型別，構建起報告生成、病灶檢測與定位、臨床推理、臨床決策、通用醫學VQA、高階醫學推理六大核心能力框架，可完成「看影像→調知識→做推理→出結論」的完整工作閉環。
-
----
-
-### 2026-08-13 08:12:46  #其他
-
-【大灣區重點工程獅子洋通道今天將完成錨碇主體施工】今天（8月13日），粵港澳大灣區重點工程獅子洋通道專案將迎來建設新進展。控制性工程獅子洋大橋的關鍵受力結構、堪稱大橋“定海神針”的東、西兩座錨碇將全部完成主體施工，為後續貓道及主纜的架設奠定基礎。獅子洋通道全長約35公里，西起廣州南沙，東至東莞虎門、沙田兩鎮，是繼港珠澳大橋、深中通道後，粵港澳大灣區又一座重要跨江通道，也是珠江口首條雙層複合公路通道，預計2029年建成通車。
-
----
-
-### 2026-08-13 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Tencent Holdings earnings above expectations at 7.43 CNY — Tencent Holdings (700) released earnings per share at 7.43 CNY, compared to market expectations of 7.39 CNY.
-
----
-
-### 2026-08-13 08:11:45  #Trading Economics #Markets #Japan #Earnings #Importance 0
-
-Tokio Marine earnings above expectations at 138.25 JPY — Tokio Marine (8766) released earnings per share at 138.25 JPY, compared to market expectations of 94.16 JPY.
-
----
-
-### 2026-08-13 08:11:18  #市場 #國際
-
-5年期日本國債收益率下跌1.0個基點，至2.095%。
 
 ---
