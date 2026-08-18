@@ -1,7 +1,76 @@
 {
   "date": "2026-08-18",
-  "count": 421,
+  "count": 428,
   "items": [
+    {
+      "id": "te:markets:575942",
+      "time": "2026-08-18 08:11:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Weak Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, pressured by persistent tensions in the Middle East and rising Treasury yields. In regular trading on Monday, the Dow fell 0.51%, the S&P 500 declined 0.52% and the Nasdaq Composite lost 0.32%. Ten of the 11 S&P sectors ended lower, led to the downside by communication services, consumer staples and financials. The declines came as oil prices climbed higher on fading prospects for a new peace agreement between the US and Iran, while efforts to reopen the Strait of Hormuz remained deadlocked. The 30-year Treasury yield also climbed to its highest level since 2007, reflecting concerns over inflation and rising government spending. Investors now turn their attention to retail earnings due this week from Home Depot, Lowe’s and Walmart for fresh insights on consumer strength."
+    },
+    {
+      "id": "mkt:01a01235-5e37-7aab-906a-c1fd910ca476",
+      "time": "2026-08-18 08:11:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Japan 5-year government bond yield rose 2 bps to 2.18%, a record high."
+    },
+    {
+      "id": "mkt:01a01235-5a1a-7aab-906a-b8a2215858b7",
+      "time": "2026-08-18 08:11:21",
+      "tags": [
+        "MKT News",
+        "ASX200",
+        "Impact bearish"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 8.00 points (-0.09%) at 9,065.20 on Aug 18 (Tuesday)."
+    },
+    {
+      "id": "5044876",
+      "time": "2026-08-18 08:11:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升2個基點至2.18%，創歷史新高。"
+    },
+    {
+      "id": "5044875",
+      "time": "2026-08-18 08:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部網安局公佈14起涉企網路謠言典型案例】 據公安部網安局訊息，公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。"
+    },
+    {
+      "id": "5044874",
+      "time": "2026-08-18 08:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞地震已造成289人死亡。"
+    },
+    {
+      "id": "5044873",
+      "time": "2026-08-18 08:07:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.06%，報9,067.70點。"
+    },
     {
       "id": "5044872",
       "time": "2026-08-18 08:07:38",

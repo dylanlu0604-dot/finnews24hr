@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-18 08:08:13",
-  "count": 15195,
+  "updated": "2026-08-18 08:12:08",
+  "count": 15191,
   "items": [
+    {
+      "id": "te:markets:575942",
+      "time": "2026-08-18 08:11:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Weak Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, pressured by persistent tensions in the Middle East and rising Treasury yields. In regular trading on Monday, the Dow fell 0.51%, the S&P 500 declined 0.52% and the Nasdaq Composite lost 0.32%. Ten of the 11 S&P sectors ended lower, led to the downside by communication services, consumer staples and financials. The declines came as oil prices climbed higher on fading prospects for a new peace agreement between the US and Iran, while efforts to reopen the Strait of Hormuz remained deadlocked. The 30-year Treasury yield also climbed to its highest level since 2007, reflecting concerns over inflation and rising government spending. Investors now turn their attention to retail earnings due this week from Home Depot, Lowe’s and Walmart for fresh insights on consumer strength."
+    },
+    {
+      "id": "mkt:01a01235-5e37-7aab-906a-c1fd910ca476",
+      "time": "2026-08-18 08:11:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Japan 5-year government bond yield rose 2 bps to 2.18%, a record high."
+    },
+    {
+      "id": "mkt:01a01235-5a1a-7aab-906a-b8a2215858b7",
+      "time": "2026-08-18 08:11:21",
+      "tags": [
+        "MKT News",
+        "ASX200",
+        "Impact bearish"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 8.00 points (-0.09%) at 9,065.20 on Aug 18 (Tuesday)."
+    },
+    {
+      "id": "5044876",
+      "time": "2026-08-18 08:11:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升2個基點至2.18%，創歷史新高。"
+    },
+    {
+      "id": "5044875",
+      "time": "2026-08-18 08:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部網安局公佈14起涉企網路謠言典型案例】 據公安部網安局訊息，公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。"
+    },
+    {
+      "id": "5044874",
+      "time": "2026-08-18 08:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞地震已造成289人死亡。"
+    },
+    {
+      "id": "5044873",
+      "time": "2026-08-18 08:07:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.06%，報9,067.70點。"
+    },
     {
       "id": "5044872",
       "time": "2026-08-18 08:07:38",
@@ -139147,98 +139216,6 @@
         "國際"
       ],
       "text": "【金價觸及每盎司4400美元 市場目光轉向美國通脹資料】美國即將釋出關鍵的通脹報告之際，金價週二盤中突破了每盎司4400美元。這份報告可能會提供有關美聯儲加息意願的新線索。繼之前兩個交易日累計上漲3.6%之後，金價早盤小幅走高。其週一突破100日移動均線，引發技術性買盤，繼抄底買家出現、中國黃金ETF獲得資金流入後再添復甦跡象。交易員們正將目光轉向週三將公佈的最新美國通脹資料。根據接受媒體調查的經濟學家的預測中值，備受關注的CPI 7月料上升0.1%，此前一個月為下降0.4%。在美國上週五公佈了疲軟的就業報告之後，物價漲幅溫和可能有助於緩解美聯儲的通脹焦慮。"
-    },
-    {
-      "id": "5034724",
-      "time": "2026-08-11 08:11:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1395.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019fee28-c974-7aab-8fe2-4a774d8884f4",
-      "time": "2026-08-11 08:11:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's Ministry of Trade and Industry (MTI) raised its 2026 GDP growth forecast to 4.5%-5.5% from 2.0%-4.0%."
-    },
-    {
-      "id": "5034723",
-      "time": "2026-08-11 08:11:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡將2026年非石油國內出口增長預測從3.0%-5.0%上調至14.0%-16.0%。"
-    },
-    {
-      "id": "5034722",
-      "time": "2026-08-11 08:10:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：矽基材料行業靜待修復 下游高增領域受益】中信證券研報表示，矽基材料行業目前處於週期底部盤整，供給端目前已經實質性放緩，但行業未經歷深度虧損，行業自發出清困難，當前“反內卷”力度或對價格支撐有限，2026下半年更加考驗供給與需求矛盾，預計2026下半年有機矽價格在11500—13000元/噸，仍處於相對低位。建議關注矽基材料行業向下遊高景氣賽道延伸拓展的公司。"
-    },
-    {
-      "id": "5034721",
-      "time": "2026-08-11 08:10:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證券交易委員會（SEC）週一在一份新聞稿中表示，已就對Adit Ventures Management及其創始人、三名合夥人提起的涉及Klarna和SpaceX等公司的IPO前投資的欺詐指控達成和解。美國證券交易委員會指控該投資顧問公司曾利用“虛假陳述和承諾”招攬對Adit管理基金的投資，並將客戶資金用於公司自身利益，包括在未向客戶披露的情況下，以優惠條件獲取無擔保貸款。美國證券交易委員會表示，Adit Ventures 雖未承認相關指控，但已同意接受一項同意令，其中包括支付追繳款和民事罰款。該同意令尚需聯邦法官批准。"
-    },
-    {
-      "id": "mkt:019fee27-c1f3-7aab-8fe2-44fedeed2007",
-      "time": "2026-08-11 08:10:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened up 8.3 points (+0.09%) at 9,240.90 on Aug 11 (Tuesday)."
-    },
-    {
-      "id": "5034720",
-      "time": "2026-08-11 08:10:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：算力突破電力邊界 SST開啟矽進銅退新週期】中信證券研報表示，AI晶片效能與密度提高帶來智算中心（AIDC）功耗躍升，傳統不間斷電源（UPS）架構在能耗、佔地等多方面已觸及瓶頸，AIDC供配電加速向高壓直流化演進。短期內，高壓直流輸電（HVDC）系統、巴拿馬電源有望作為過渡方案，長期看，800VDC+固態變壓器（SST）憑藉中壓直入、高頻隔離及“矽進銅退”優勢，或成為高密算力供電的終局解決方案。建議關注SST整機及SiC、高頻磁件、電容和固態斷路器等核心環節。"
-    },
-    {
-      "id": "5034719",
-      "time": "2026-08-11 08:08:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【天風證券：中長期來看 銅供需緊平衡格局仍有望延續】天風證券研報表示，供給擾動、庫存去化與美元走弱共振，銅價創歷史新高。天風證券認為核心驅動或來自礦端供給擾動、全球庫存下降以及美元走弱多重因素共振。第一，智利銅礦供給持續走弱。2026年二季度智利銅產量同比下降7.7%至約127萬噸，創2007年以來同期最低水平，礦山老化、礦石品位下降等結構性問題仍未改善。第二，剛果（金）進一步收緊銅精礦出口。政府8月釋出命令禁止銅、鈷精礦出口，但短期對全球精煉銅實際供應影響或有限。第三，全球銅庫存持續去化。主要交易所可交割庫存下降，現貨資源偏緊，使供給端擾動更容易向價格端傳導。第四，美元走弱進一步放大銅價的金融屬性。美元走弱降低非美元地區採購成本，並提升大宗商品金融屬性，進一步放大銅價上漲彈性。總體來看，天風證券認為本輪銅價創新高並非單純由需求復甦推動，而是“礦端擾動+庫存去化+美元走弱”共同作用的結果。短期來看，智利礦山生產、剛果（金）出口政策及全球庫存變化仍是銅價的核心變數；中長期來看，全球銅礦老化、新增產能週期較長，而AI算力、電網建設、新能源等領域持續拉動銅需求，銅供需緊平衡格局仍有望延續。"
-    },
-    {
-      "id": "mkt:019fee26-2b65-7aab-8fe2-39a197276980",
-      "time": "2026-08-11 08:08:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore Q2 GDP 1.4% QoQ, prior 1.1%."
-    },
-    {
-      "id": "mkt:019fee26-0db9-7aab-8fe2-33bb2b5b27e5",
-      "time": "2026-08-11 08:08:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Singapore | GDP (QoQ) (Q2) | actual 1.4% | previous 1.10%"
-    },
-    {
-      "id": "mkt:019fee25-f882-7aab-8fe2-28aa61c1bf64",
-      "time": "2026-08-11 08:08:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore Q2 GDP YoY 5.9% (consensus 5.9%; prior 5.7%)."
     }
   ]
 }
