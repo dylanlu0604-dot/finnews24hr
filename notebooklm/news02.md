@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 13:40:06_
-_本檔包含 3119 則快訊，約 605837 字_
+_更新時間：2026-08-18 13:59:41_
+_本檔包含 3123 則快訊，約 605953 字_
+
+---
+
+### 2026-08-17 12:04:58  #公司
+
+【吉利汽車2026年上半年淨利潤90.91億元 同比降2%】吉利汽車公告，2026年上半年收益1736億元，同比增長15%。母公司擁有人應占利潤90.91億元，同比下降2%。母公司擁有人應占核心利潤96.84億元，同比增長46%。不派中期股息。
+
+---
+
+### 2026-08-17 12:04:06  #央行 #國際
+
+【日本前外匯主管：日本央行應每次會議均加息】日本財務省一名前官員表示，日本央行應當在每次議息會議上上調基準利率，目標將利率提升至2%以上，以此縮小與美國的利差，緩解日元面臨的壓力。“即便日本已將政策利率上調至1%，實際利率依舊為負，而其他所有國家的實際利率均為正值。”2013年3月卸任財務省國際事務副大臣的中尾武彥，週一在東京電視臺節目中表示。中尾武彥補充稱，考慮到約2%的通脹水平，日本政策利率升至2.25%或2.5%並非異常。就在交易員密切關注日本央行後續加息時點與節奏之際，他發表了上述言論。日本央行7月將政策利率維持在1.00%不變，植田和男行長在決議後的新聞釋出會上提示通脹存在上行風險，為最早9月加息保留可能性。知情人士透露，高市早苗首相領導的政府同樣支援近期加息。截至東京週一午間，隔夜指數互換資料顯示，交易員定價日本央行9月18日貨幣政策會議加息機率為79%。
+
+---
+
+### 2026-08-17 12:03:12  #公司
+
+【為恆智慧完成數億元Pre-IPO輪融資】近日，為恆智慧完成數億元人民幣Pre-IPO輪融資，由央企中國機械工業集團有限公司旗下基金戰略投資，多家產業及財務投資機構共同參與。資金將重點用於核心技術研發、AI能力深化應用、全球市場拓展以及智慧製造產能升級。
+
+---
+
+### 2026-08-17 12:02:41  #MKT News #Market Regions #Greater China #00175.HK #Impact bearish
+
+Geely Automobile (00175.HK) reported profit attributable to owners of the parent for 1H 2026 of 9.091 bln yuan, down 2% YoY.
+
+---
+
+### 2026-08-17 12:01:29  #公司 #市場
+
+【港股午評：恒生指數漲1.61%，恒生科技指數漲2.01%】港股午間收盤，恒生指數漲1.61%，恒生科技指數漲2.01%。恒指港股通ETF銀華（159318）漲1.31%，港股通科技ETF鵬華（159751）漲2.01%。板塊方面，休閒設施、系統軟體板塊漲幅靠前；其他專業零售、IT諮詢與其他服務板塊跌幅靠前。個股方面，商湯-W漲10.68%，芯碁微裝漲9.27%，凱樂士科技漲8.93%，凱萊英漲8.57%，思摩爾國際漲8.22%；百奧賽圖-B跌7.54%，名創優品跌7.51%，粵港灣智算跌6.68%，禮邦醫藥-B跌6.57%，偉祿科技股份跌6.06%。
+
+---
+
+### 2026-08-17 12:01:26  #其他
+
+吉利汽車 上半年營收1,736億元；吉利汽車上半年淨利潤90.9億元人民幣，預估71.2億元。
+
+---
+
+### 2026-08-17 12:01:08  #其他
+
+【吉利汽車上半年銷售汽車及相關服務收入1,587.8億元人民幣】吉利汽車 上半年 銷售汽車及相關服務收入1,587.8億元人民幣。銷售汽車及相關服務收入1,587.8億元人民幣；銷售汽車零部件收入96.1億元人民幣。
+
+---
+
+### 2026-08-17 12:00:55  #MKT News #Market Themes #AI Revolution
+
+【IDC: By 2025 China AI video‑cloud market centers on two core tracks; combined size near 1 billion yuan】IDC's inaugural China AI Video Cloud Market Share, 2025 report projects that by 2025 the market will concentrate in two core tracks — real‑time AI audio/video interaction and intelligent media production and processing — with a combined market size near 1 billion yuan. IDC says the intelligent media production and processing segment is expanding fastest, with YoY growth as high as 427%.
+
+---
+
+### 2026-08-17 12:00:35  #MKT News
+
+Malaysia July CPI rose 1.8% YoY, flat MoM.
+
+---
+
+### 2026-08-17 12:00:20  #MKT News #Market Regions #Greater China
+
+【China’s Three-North afforestation push: central funding 88.9 bln yuan; annual construction >80 mln mu】The National Forestry and Grassland Administration said since the intensified Three-North campaign began authorities have allocated 88.9 bln yuan in central investment and implemented 544 key projects, completing on average more than 80 mln mu of construction annually. Project-area forest and grass coverage reached 40.76% (up 1.13 ppt versus 2020); the treatment rate of controllable desertified land rose to 67.82% (up 12.78 ppt). Mid-term targets of the program’s sixth-phase plan have been fully met.
+
+---
+
+### 2026-08-17 11:59:13  #市場
+
+【中國10年國債收益率重新整理逾一年低點】中國10年期國債活躍券260010最新成交在1.68%，較上日尾盤走低0.1個基點，盤中低點1.677%續創2025年7月下旬以來新低。
+
+---
+
+### 2026-08-17 11:59:09  #其他
+
+【“三北”工程攻堅戰年均完成建設任務8000萬畝以上】“三北”工程是我國生態文明建設的重要標誌性工程。記者從國家林草局瞭解到，“三北”工程攻堅戰啟動三年來，年均完成建設任務8000萬畝以上。“三北”工程攻堅戰啟動以來，國家林草局會同各地各部門，堅持系統觀念、科學施治，累計安排中央投資889億元，實施重點專案544個，年均完成建設任務8000萬畝以上，成為工程建設史上推進力度最大、建設成效最好的時期。
+
+---
+
+### 2026-08-17 11:58:59  #MKT News #DXY #Impact bearish
+
+Taiwan dollar (TWD) rose to 31.874 per US dollar, its strongest level since July 2.
+
+---
+
+### 2026-08-17 11:57:12  #國際
+
+【特朗普發帖後美韓按計劃開始軍演】美國東部時間8月16日下午，北京時間今天（8月17日）凌晨，美國總統特朗普在社交媒體平臺發文稱，鑑於他與朝鮮最高領導人金正恩的“良好關係”，他對美國此前同意參加與韓國的聯合軍事演習感到不滿。特朗普稱，“這些軍演不僅耗資巨大，並且大部分費用由美國承擔，更是在向一個在我擔任總統期間始終未具威脅性、且保持尊重的國家，發出完全不當且充滿敵意的訊號。”特朗普帖文釋出幾個小時後，美韓“乙支自由之盾”大規模聯合軍演開始，將持續到8月27日。特朗普在帖文中也稱，由於現在取消軍演為時已晚，他已“指示美國國防部長赫格塞思大幅縮減此次軍演”。 韓國國防部今天表示，“乙支自由之盾”聯合軍演正按計劃進行。據稱韓軍參演規模與往年相近，大約1.8萬人。演習期間計劃開展14項營級以上規模的野外機動訓練，較去年（17項）有所減少。韓聯社的報道稱，本次演習期間，韓美還將就移交戰時作戰指揮權相關內容開展評估。 朝鮮外務省此前表示，美韓聯合軍演的本質是侵略戰爭的預演。
+
+---
+
+### 2026-08-17 11:56:35  #其他
+
+【阿里Qwen3.8-27B登頂Hugging Face模型榜榜首，開源兩天下載破100萬次】8月17日，阿里Qwen3.8-27B登頂Hugging Face全球大模型趨勢榜，開源2天下載量便破100萬次。Hugging Face最新報告指出，阿里千問大模型（Qwen）已成為全球開源社群的基座模型。
+
+---
+
+### 2026-08-17 11:56:29  #Trading Economics #Economy #Philippines #Remittances #Importance 1
+
+Philippine Cash Remittances Up 1.7% in June — Cash remittances coursed through banks in the Philippines rose 1.7% year-on-year to USD 3.04 billion in June 2026, up from USD 2.99 billion a year earlier. This was the slowest annual growth in more than four years, but the monthly inflow reached its highest level since December last year. The US remained the largest source of remittances, followed by Singapore and Saudi Arabia. In the first half of the year, cash remittances increased by 2.4% to USD 17.15 billion from USD 16.75 billion in the corresponding period a year earlier. Meanwhile, personal remittances, which include transfers through banks, informal channels, and in-kind transfers, rose by 1.8% to USD 3.39 billion in June and increased by 2.4% to USD 19.12 billion on a year-to-date basis.
+
+---
+
+### 2026-08-17 11:55:21  #公司
+
+【釘釘全球商業總裁楊猛將離任，下一站螞蟻集團】在阿里加速AI商業化的背景下，集團對企業服務業務的收入增長和商業轉化提出了更高預期。釘釘新管理層完成組織調整不到兩個月，負責商業化多年的核心高管楊猛即將離任。記者從接近釘釘的知情人士處獲悉，釘釘全球商業總裁、客戶發展部負責人楊猛已完成離職相關內部流程，計劃加入螞蟻集團。阿里釘釘悟空副總裁任卿（花名“易統”）將接手楊猛負責的商業化工作。（21世紀經濟報道）
+
+---
+
+### 2026-08-17 11:55:03  #公司
+
+【海鷗住工：控股股東籌劃公司控制權變更事項】海鷗住工(002084)8月17日午間公告，公司控股股東中餘投資有限公司正在籌劃公司控制權變更相關事宜，該事項可能導致公司控股股東、實際控制人發生變更。公司股票自8月17日（星期一）開市起停牌，停牌時間預計不超過2個交易日。
+
+---
+
+### 2026-08-17 11:55:02  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
+
+【Shenzhou Semiconductor opens Central China HQ and R&D in Wuhan Optics Valley to develop RF power products】Shenzhou Semiconductor has established its Central China headquarters and an R&D center in Wuhan’s Optics Valley computing-storage innovation park to develop semiconductor RF power supplies and matching units. The company is registering a wholly owned Optics Valley subsidiary; the project is slated to begin operations in Q1 next year.
+
+---
+
+### 2026-08-17 11:54:35  #公司
+
+【神州半導體落子光谷 開展半導體射頻電源、匹配器等產品研發】據“中國光谷”公眾號訊息，近日，神州半導體科技股份有限公司（簡稱“神州半導體”）落戶光谷存算雙創園，建設華中總部及研發中心，開展半導體射頻電源、匹配器等產品研發。目前，神州半導體正在光谷註冊全資子公司，專案預計明年一季度正式投入運營。
+
+---
+
+### 2026-08-17 11:54:02  #其他
+
+芝加哥商品交易所（CME）表示，無本金交割遠期外匯交易（NDF）定價和結算日期問題已解決。
+
+---
+
+### 2026-08-17 11:53:28  #公司
+
+【中南文化：擬調整重組方案 新增購買江陰熱電50%股權】中南文化公告，公司在原收購蘇龍熱電57.30%股權的基礎上，新增購買江陰熱電50.00%股權，將江陰熱電50.00%股權納入本次重大資產重組交易標的範圍。收購完成後，蘇龍熱電、江陰熱電均成為公司控制的子公司。公司股票自2026年8月17 日（星期一）開市起開始停牌，預計在不超過5個交易日內披露變更後的交易方案。
+
+---
+
+### 2026-08-17 11:51:16  #其他
+
+【瓊州海峽一漁船起火 8名船員全部平安獲救】從交通運輸部海事局瞭解到，今天清晨瓊州海峽水域一艘漁船突發火情，船上8名船員陷入險境。海口海上搜救分中心立即排程執行“護航開漁”任務的兩艘海巡輪趕往現場，並聯動湛江漁政執法力量同步馳援，海南海事局透過船舶交通管理系統實時監控水域，持續播發航行警告，引導過往船舶避讓、協助救援。多方救援力量協同作戰，不到一小時成功撲滅火勢，所有遇險船員目前已安全轉移。
+
+---
+
+### 2026-08-17 11:51:15  #MKT News
+
+Al Jazeera reported Israeli forces launched two airstrikes on the Tuffah area in eastern Gaza, wounding multiple people.
+
+---
+
+### 2026-08-17 11:51:11  #MKT News
+
+【Ministry of Water Resources: 45 rivers nationwide remain above warning levels】The Ministry of Water Resources held consultations this morning on national flood control. As of 09:00, 45 rivers in Heilongjiang, Inner Mongolia, Henan, Zhejiang and other regions remained above warning levels, with a maximum exceedance of 3.51 metres; 11 rivers remained above guaranteed flood‑control levels.
+
+---
+
+### 2026-08-17 11:50:53  #其他
+
+【水利部：全國45條河流仍維持超警】今天上午，水利部舉行會商，分析研判全國的防汛形勢。截至今天9時，黑龍江、內蒙古、河南、浙江等地45條河流仍維持超警，最大超警幅度3.51米，其中11條河流維持超保。據預報，8月17日至18日，受降雨及上游來水影響，太湖將發生流域性大洪水，黑龍江上游幹流開庫康到三道卡河段將發生超警洪水，長江上游支流岷江、沱江、大渡河，西江上游支流南盤江、北盤江等主要河流將出現明顯漲水過程，暴雨區內部分中小河流可能發生超警洪水。今天8時至明天8時，四川中南部、雲南東北部發生山洪災害的可能性大，釋出山洪橙色預警。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。（央視新聞）
 
 ---
 
@@ -18721,137 +18877,5 @@ Iraq's oil minister said exports have reached 2.0 mln bpd since August.
 ### 2026-08-14 17:53:55  #MKT News #CNH #Impact bearish #CSI300 #Impact bullish #XAUUSD
 
 【Experts: monitor credit supply–demand via interest rates】PBOC data on Aug. 14 showed July corporate new-loan weighted-average rate just under 3.0%, about 20bps lower YoY. Experts note that in the current easing cycle policy rates have been cut about 1.15 percentage points while corporate loan averages have fallen roughly 2.6 percentage points, a larger move. Compared with the U.S. during its zero-rate period (average loan rates ~4.3%), Chinese loan rates are already low. Experts say future assessment of credit supply–demand should rely mainly on interest-rate signals; with China’s M2/GDP ratio elevated and credit supply able to meet real-economy financing needs, policy emphasis should shift from credit scale to price — i.e., market-rate changes.
-
----
-
-### 2026-08-14 17:53:38  #Trading Economics #Economy #Croatia #Inflation Rate #Importance 1
-
-Croatia Inflation Rate Lowest in 5 Months — The annual inflation rate in Croatia eased to 3.9% in July 2026 from 4.5% in the previous month, marking the lowest reading since February and confirming preliminary estimates. Price growth moderated for alcoholic beverages and tobacco (3.7% vs 7.1% in June), health (4.9% vs 5.2%), transport (8.2% vs 8.6%), recreation, sport and culture (2.8% vs 4.1%), and personal care, social protection, and miscellaneous goods and services (3.2% vs 3.3%). At the same time, costs declined for food and non-alcoholic beverages (-0.1% vs 0.8%) and furnishings, household equipment and routine maintenance (-1.1% vs -0.2%), while deflation deepened for clothing and footwear (-4.2% vs -2.8%) and education (-2.0% vs -1.9%). In contrast, prices accelerated in housing and utilities (12.2% vs 12.0%), information and communication (3.0% vs 2.9%), and restaurants and accommodation services (6.3% vs 5.8%). On a monthly basis, consumer prices fell 0.2% in July, following a 0.4% decline in the previous month.
-
----
-
-### 2026-08-14 17:53:34  #其他
-
-【中疾控：新冠在部分省份已出現下降趨勢】中國疾控中心網站日前釋出《全國急性呼吸道傳染病哨點監測情況（2026年第32周）》。監測結果顯示，當前處於本次疫情波動的高峰平臺期，總體上處於中流行水平，主要流行株仍為NB.1.8.1變異株譜系，部分省份已出現下降趨勢。新冠病毒感染乙類乙管以來，已成為常見多發的呼吸道傳染病，疾病嚴重程度未發生變化。 監測結果還顯示，目前流感活動強度處於低流行水平波動；鼻病毒、腸道病毒檢測陽性率波動下降；人偏肺病毒、副流感病毒檢測陽性率波動下降。其他監測的呼吸道病原體陽性率處於低水平。(新華社)
-
----
-
-### 2026-08-14 17:53:28  #國際
-
-市場訊息：布魯克菲爾德與三菱聯合收購 MHBF 獲得歐盟批准。
-
----
-
-### 2026-08-14 17:53:00  #MKT News #Market Regions
-
-【Experts: Differences between China M2 and TSF growth, and between loan and deposit growth, are normal】Industry experts say China’s M2 and total social financing (TSF) are different statistics with distinct scopes; a faster M2 growth rate versus TSF does not by itself indicate funds are idling in the banking system and has no clear policy implication. They caution that deposit growth exceeding loan growth is normal under a more diversified financing structure: historically loans were the primary channel for deposit creation, but bonds and other instruments now substitute for loans in creating deposits. As a result, slower loan growth amid faster deposit or bond issuance is not anomalous. Market participants should assess financial conditions using broader aggregates such as M2 and TSF rather than relying solely on loan growth or loan flows.
-
----
-
-### 2026-08-14 17:52:52  #Trading Economics #Economy #Kyrgyzstan #Industrial Production #Importance 1
-
-Kyrgyzstan Industrial Output Growth Rises to 6.3% — Industrial production in Kyrgyzstan rose 6.3% year-on-year in July 2026, up from 5.0% in the previous month. Production rebounded in mining and quarrying (38.5% vs -13.8% in June), while output continued to increase in electricity, gas, steam, and air conditioning supply (4.7% vs 2.3%), as well as water supply, waste treatment, and recovery of secondary raw materials (20.3% vs 19.7%). In contrast, manufacturing growth eased sharply (0.4% vs 9.6%), weighed down by declines in wood, paper products, and printing activities (-29.2% vs 92.3%), pharmaceutical products (-75.9% vs 96.0%), and other production, repair, and installation of machinery and equipment (-13.8% vs 11.6%). Over the January–July period, industrial output expanded 11.2%, slowing from 12.6% in the same period last year.
-
----
-
-### 2026-08-14 17:52:47  #國際
-
-市場訊息：斯特恩辭去以色列議會議員職務。
-
----
-
-### 2026-08-14 17:52:25  #MKT News #Star Stocks #Tencent
-
-【"One-word" limit-up then plunge; Qunxing Toys says prior compute-power leasing cooperation proceeding normally】Aug 14 — China-listed Qunxing Toys shares fell sharply, closing at 5.61 yuan, down 7.73% after a one-day "one-word" limit-up in the prior session. The company said secondary-market moves reflected multiple factors and yesterday's limit-up was mainly driven by interest in the compute-power sector; the firm's core business remains liquor sales (Moutai, Wuliangye) and continues to be the revenue base. On the Tencent compute-power leasing cooperation, the company said the previously signed leasing arrangement is progressing normally; any renewal will be disclosed if it meets information-disclosure thresholds.
-
----
-
-### 2026-08-14 17:52:19  #公司 #市場
-
-【“一字板”漲停後股價大跌，群興玩具回應：前期簽訂的算力租賃合作業務仍在正常推進中】8月14日，群興玩具股價大跌。截至收盤，公司股價報5.61元/股，收盤跌幅為7.73%。此前一個交易日，群興玩具股價“一字板”漲停。對於股價大跌，群興玩具方面回應稱，二級市場股價受多重因素影響，公司股價昨日“一字板”漲停主要受算力板塊影響，但公司主業還是酒類銷售，主要銷售的是茅臺、五糧液等品牌。目前，酒類銷售仍然是公司的基本盤。對於市場關心的與騰訊算力業務租賃業務是否續簽的問題，群興玩具方面告訴記者，前期簽訂的算力租賃合作業務仍在正常推進中。對於後續是否續簽，如果達到資訊披露標準，公司會及時披露。（中證金牛座）
-
----
-
-### 2026-08-14 17:51:45  #市場
-
-馬士基盤前股價漲幅進一步擴大，目前累計上漲6.8%，觸及2022年8月以來的最高點位。
-
----
-
-### 2026-08-14 17:50:47  #國際
-
-【業內專家：未來應主要透過利率來觀察信貸供需匹配情況】中國人民銀行8月14日釋出的資料顯示，7月份企業新發放貸款加權平均利率略低於3.0%，比上年同期低約0.2個百分點。專家表示，縱向對比看，本輪降息週期以來，政策利率累計下調1.15個百分點，而企業貸款平均利率降幅約為2.6個百分點，降幅明顯大於政策利率。橫向對比看，美國零政策利率時期，平均貸款利率還有4.3%左右，相對而言，我國貸款利率也已處於較低水平。“利率下行走勢，表明當前信貸供給充分滿足了市場需求，貨幣政策保持適度寬鬆。”上述專家表示，價格是反映供需關係的基礎性訊號。如果價格持續下降，表明商品處於供過於求的狀態。信貸也是如此，在信貸市場供需兩個方面的力量共同作用下，貸款利率呈現下行態勢，表明信貸投放已較為充分，滿足了市場需求。展望後續，上述專家表示，未來應主要透過利率來觀察信貸供需匹配情況。近年來，我國貫徹新發展理念、推動高質量發展取得積極成效，產業結構深度調整，增長動能新舊轉換，信貸供需形勢反映了經濟結構轉型。信貸和其他商品一樣，應以滿足人民群眾生產生活需要為宜，不需要過多關注規模增長。我國M2佔GDP比重已經不低，信貸供給能夠滿足實體經濟融資需求。未來要淡化對信貸規模的關注，更多關注價格，即市場利率的變化。(中證金牛座)
-
----
-
-### 2026-08-14 17:50:38  #公司
-
-【*ST天宜：預計2026年半年度淨利潤虧損1.5億元-1.78億元，同比減虧14.98%-28.35%】*ST天宜公告，預計2026年半年度歸屬於上市公司股東的淨利潤為-1.78億元到-1.5億元，與上年同期相比預計減虧14.98%到28.35%；預計營業收入為2.1億元到2.55億元，同比減少39.71%到50.35%。業績變動主要因光伏業務低迷、碳碳業務出貨量下滑、石英坩堝業務尚未復工，以及軌道交通、航空航天業務收入下降。
-
----
-
-### 2026-08-14 17:50:35  #公司
-
-【通策醫療：2026年上半年淨利潤4.58億元 同比增32.70%】通策醫療公告，2026年上半年營業收入15.86億元，同比增長4.10%。歸屬於上市公司股東的淨利潤4.58億元，同比增長32.70%。歸屬於上市公司股東的扣除非經常性損益的淨利潤3.25億元，同比增長5.74%。基本每股收益1.03元。
-
----
-
-### 2026-08-14 17:49:30  #市場
-
-交易商表示，受黑海出口受阻影響，以及期權到期前的技術面推動，泛歐交易所九月小麥期貨<BL2U6>上漲約3%。
-
----
-
-### 2026-08-14 17:49:26  #公司 #市場
-
-【蘇豪時尚：籌劃重大資產置換事項仍在推進中】蘇豪時尚公告稱，2025年12月8日，公司收到蘇豪控股集團《關於籌劃資產置換的告知函》，擬與公司進行資產置換，擬置入資產為蘇豪中嘉時尚54%股權，擬置出資產為舜天化工倉儲100%股權、錦泰期貨2.27%股權。截至公告披露日，盡職調查、財務審計、資產評估等工作正持續推進。本次交易尚處籌劃階段，存在不確定性，且未完全解決同業競爭問題。
-
----
-
-### 2026-08-14 17:49:17  #公司
-
-【達瑞電子：簽署維斯德剩餘股權收購及業務剝離補充協議】達瑞電子公告稱，公司於2025年7月31日以1.64億元取得維斯德80%股權，該公司成為控股子公司。2026年8月14日，公司簽署《剩餘股權收購之補充協議》《業務剝離補充協議》。前者約定，若滿足先決條件，公司將以9560萬元收購麥德坤持有的維斯德20%股權；後者明確將手錶業務等剝離，由麥德坤或其指定主體運營。補充協議有助於實現100%控股，釋放協同效應。
-
----
-
-### 2026-08-14 17:48:44  #公司
-
-【傳音控股港股上市獲中國證監會備案】中國證監會國際合作司釋出關於深圳傳音控股股份有限公司境外發行上市備案通知書，公司擬發行不超過132,386,200股境外上市普通股並在香港聯合交易所上市。
-
----
-
-### 2026-08-14 17:48:39  #市場
-
-【美光科技美股盤前漲超2%】美光科技美股盤前漲超2%，現報969.28美元。
-
----
-
-### 2026-08-14 17:48:36  #公司
-
-【獨家 | 浪潮集團架構調整：智慧終端併入智慧科技，董事長孫業志卸任】新浪科技獲悉，浪潮集團組織架構調整，旗下子公司浪潮智慧終端有限公司（以下簡稱“智慧終端”）業務已於近期併入浪潮智慧科技有限公司（以下簡稱“智慧科技”），孫業志卸任智慧終端董事長，轉任集團安徽區總經理。（新浪科技）
-
----
-
-### 2026-08-14 17:47:25  #其他
-
-三位訊息人士稱，NOVATEK位於烏斯季-盧加的天然氣凝析油加工廠在8月14日的無人機襲擊中受損。烏斯季-盧加港的石油出口裝船未受無人機襲擊影響。
-
----
-
-### 2026-08-14 17:46:38  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Three sources said Novatek's gas-condensate processing plant in Ust-Luga was damaged in a drone attack on Aug 14.
-
----
-
-### 2026-08-14 17:46:30  #其他
-
-【夏巴茲說中巴友誼高於喜馬拉雅】當地時間8月13日晚，在巴基斯坦獨立日前夕，巴基斯坦總統扎爾達里、總理夏巴茲、國防軍司令兼陸軍參謀長穆尼爾等在首都伊斯蘭堡，出席“勝利紀念碑”的揭幕儀式。夏巴茲發表講話感謝中國，重申中巴友誼高於喜馬拉雅山。（CCTV國際時訊）
-
----
-
-### 2026-08-14 17:46:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources said oil export loading at Ust-Luga port was not affected by a drone attack.
 
 ---

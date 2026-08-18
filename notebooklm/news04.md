@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 13:40:06_
-_本檔包含 3008 則快訊，約 606093 字_
+_更新時間：2026-08-18 13:59:41_
+_本檔包含 2988 則快訊，約 605344 字_
+
+---
+
+### 2026-08-13 17:09:24  #公司
+
+阿里巴巴持有的易居中國股份由7.27%降至6.90%。
+
+---
+
+### 2026-08-13 17:09:18  #公司
+
+【杭州公安偵破全國首起“護劇”敲詐勒索案】杭州市公安局通報，近日成功偵破全國首起以“護劇”為名實施網路輿情敲詐勒索案件，打掉了依託自媒體賬號操控輿論、脅迫影視劇組及藝人付費消災的職業化犯罪團伙。2026年5月2日，杭州公安網安民警在日常網路巡查中發現異常線索，多名影視類自媒體賬號在影視劇上線宣發節點集中釋出負面內容，待輿情發酵後又快速刪除，固定化的操作模式引起警方警覺。經專案組深入偵查，以李某、廖某為首的犯罪團伙逐漸浮出水面，該團伙運營一批粉絲總量達2020餘萬的微博賬號，專門瞄準新劇開播、綜藝宣發關鍵時段，捏造散佈不實負面資訊，多賬號聯動炒作話題、煽動粉絲對立製造輿論壓力。待影視公司、藝人經紀團隊主動溝通後，嫌疑人並不直接提“刪帖”，而是以“提供宣傳服務”“輿情最佳化合作”的名義進行談判，將刪帖包裝成“護劇”商業宣傳行為，開口索要高額費用，並透過加大發帖頻率、擴大傳播範圍的方式，形成持續輿論施壓，直至對方“花錢消災”平息風波。（央視新聞）
+
+---
+
+### 2026-08-13 17:09:13  #MKT News
+
+Turkey's Defense Ministry said allies plan to hold joint military exercises under an agreement.
+
+---
+
+### 2026-08-13 17:08:54  #公司 #市場
+
+【洛陽鉬業：將於8月21日召開2026年半年度業績說明會】洛陽鉬業公告稱，公司擬於8月19日盤後釋出2026年半年度報告，並於8月21日10:00 - 11:00舉行半年度業績說明會。會議將以網路互動形式在上海證券交易所上證路演中心進行。參加人員包括公司董事長、獨立董事、首席財務官及董事會秘書。投資者可在說明會期間線上參與提問，也可於8月14日至20日16:00前預徵集提問。說明會結束後，投資者可透過上證路演中心檢視情況及內容。
+
+---
+
+### 2026-08-13 17:08:47  #公司
+
+【中國神華：7月商品煤產量4340萬噸，同比-3.1%】中國神華公告，2026年7月商品煤產量4340萬噸，同比-3.1%，煤炭銷售量5310萬噸，同比-4.5%；總發電量27.22十億千瓦時，同比-5.3%，總售電量25.41十億千瓦時，同比-5.5%。航運貨運量1290萬噸，同比-53.4%。
+
+---
+
+### 2026-08-13 17:08:27  #國際
+
+【烏稱已提出結束衝突新建議 俄稱“不瞭解”】當地時間8月13日，俄羅斯副外長里亞布科夫表示，俄方不瞭解烏克蘭總統澤連斯基關於結束俄烏衝突的提議。里亞布科夫稱，美國總統特使威特科夫和特朗普女婿庫什納到訪俄羅斯一事仍在關注之中，一旦美方代表團的計劃明確，俄方能夠迅速安排接待。當天稍早前，烏克蘭總統澤連斯基再次強調，烏方已向美國提交俄烏衝突和平程序的新方案，目前尚未獲得美方的預期支援。澤連斯基還呼籲美方進一步介入相關和平談判、推動局勢降溫。此外，澤連斯基重申拒絕將烏軍撤出頓巴斯作為結束衝突的條件。（央視新聞）
+
+---
+
+### 2026-08-13 17:08:00  #公司
+
+【遠洋集團：7月協議銷售額約為人民幣8.5億元】遠洋集團8月13日公告，7月協議銷售額約為人民幣8.5億元；協議銷售樓面面積約為61,300平方米；協議銷售均價為每平方米約人民幣13,900元。前7月累計協議銷售額約為人民幣89.9億元；累計協議銷售樓面面積約為737,500平方米；累計協議銷售均價為每平方米約人民幣12,200元。
+
+---
+
+### 2026-08-13 17:07:51  #國際
+
+勃肯：儘管中東衝突持續在海灣地區造成不確定性，但衝突對本季度的影響比最初預期的更為有限。
+
+---
+
+### 2026-08-13 17:07:22  #國際
+
+美國將40多個國家列為存在非法轉運風險的國家。
+
+---
+
+### 2026-08-13 17:07:11  #觀點
+
+花旗銀行高管施蘭茨離職，加盟高盛。
+
+---
+
+### 2026-08-13 17:07:11  #MKT News
+
+【Shenzhen heatwave sets multiple records】Since Aug 6 and as of 16:00 on Aug 13 the heatwave has lasted eight days. The heat intensity index reached 22.1, the third-strongest since 2008 and in the top 5%, classified as extreme. Futian national basic meteorological station recorded four consecutive days at or above 35°C; Aug 8–10 saw three straight days of 36°C or higher — the third occurrence since continuous records began in 1953, tying the historical record.
+
+---
+
+### 2026-08-13 17:06:46  #公司 #觀點
+
+【高盛對中際旭創的多頭持倉比例降至10.89%】據香港交易所披露，高盛對中際旭創股份有限公司 - H股的多頭持倉比例於2026年8月7日從11.01%降至10.89%。
+
+---
+
+### 2026-08-13 17:06:39  #觀點
+
+【摩根大通對快手-W的多頭持倉比例降至5.83%】據香港交易所披露，摩根大通（JPMorgan）對快手科技 – W的多頭持倉比例於2026年8月10日從6.06%降至5.83%，交易的平均股價為44.37港元。
+
+---
+
+### 2026-08-13 17:06:31  #公司
+
+【北京市水務局與高德達成合作，近800個官方監測點接入“積水地圖”】近日，北京市水務局與阿里巴巴集團旗下高德達成合作，將近800個官方積水監測點位的資料接入高德“積水地圖”，實現積水深度實時更新並精確到釐米。（新浪科技）
+
+---
+
+### 2026-08-13 17:06:06  #市場
+
+布倫特原油日內跌2%，現報87.19美元/桶。
+
+---
+
+### 2026-08-13 17:05:32  #MKT News
+
+【Shanghai backs property managers to contract with eldercare providers and introduce professional care into residential communities】Shanghai Civil Affairs Bureau and Shanghai Housing Management Bureau issued an implementation plan to advance “property+eldercare” services. Districts and neighborhood offices will select suitably mature residential communities and guide property managers to develop locally adapted forms of property-plus-eldercare. The plan supports property managers signing cooperation agreements with professional eldercare institutions to bring trained services into residential communities. Property firms that wish to provide home-and-community eldercare are encouraged to set up dedicated eldercare departments or form independent home/community eldercare service entities to offer diversified, professional services to owners.
+
+---
+
+### 2026-08-13 17:05:30  #公司
+
+【華虹宏力：執行副總裁周衛平離任】華虹宏力公告，公司執行副總裁周衛平因工作原因，申請辭去公司相關工作及職務，離任後不再擔任公司及控股子公司其他職務。
+
+---
+
+### 2026-08-13 17:05:28  #其他
+
+【上海：支援物業服務企業與養老服務機構簽訂合作協議 將專業養老服務引入住宅小區】上海市民政局、上海市房屋管理局印發《關於進一步推進“物業+養老”服務的實施方案》。其中提到，各區、各街鎮結合實際，選取條件成熟的住宅小區，指導物業服務企業因地制宜發展多種形式的“物業+養老”服務。支援物業服務企業與養老服務機構簽訂合作協議，將專業養老服務引入住宅小區。鼓勵有意從事居家社群養老服務的物業服務企業，根據自身條件，透過設立養老服務部門、成立獨立的居家社群養老服務機構等方式，為業主提供多樣化、專業化的居家社群養老服務。
+
+---
+
+### 2026-08-13 17:05:24  #市場 #國際
+
+馬來西亞富時吉隆坡綜合指數收盤下跌0.4%，報1734.71點。
+
+---
+
+### 2026-08-13 17:04:56  #MKT News
+
+Turkey's defense ministry said a planned defense treaty with Pakistan and Saudi Arabia aims to create an institutionalized, sustainable framework for ties and will establish strategic political and military mechanisms based on agreements among the three countries' defense ministers, foreign ministers and military chiefs.
+
+---
+
+### 2026-08-13 17:03:57  #宏觀
+
+【李強簽署國務院令 公佈《國務院關於修改和廢止部分行政法規的決定》】國務院總理李強日前簽署國務院令，公佈《國務院關於修改和廢止部分行政法規的決定》，自2026年8月15日起施行。為全面有效貫徹實施《中華人民共和國生態環境法典》，確保生態環境法律制度體系邏輯統一、規則協調，國務院對涉及的行政法規進行了清理，決定對12部行政法規的部分條款予以修改，對3部行政法規予以廢止。修改《全國汙染源普查條例》、《生態環境監測條例》等行政法規，相關行政法規中引用的法律將於今年8月15日生態環境法典施行之日廢止的，相應將引用的法律名稱統一修改為生態環境法典；相關行政法規關於法律責任等具體事項的規定與生態環境法典不一致的，依照生態環境法典的規定作相應修改。廢止《中華人民共和國防治陸源汙染物汙染損害海洋環境管理條例》等行政法規，更好適應高質量發展和生態文明建設的新要求。 (新華社)
+
+---
+
+### 2026-08-13 17:03:15  #其他
+
+【匈牙利在多瑙河河床建壩 保障核電站執行】據央視新聞，匈牙利總理毛焦爾12日表示，匈牙利政府已下令在保克什和杜納聖貝內德克之間的多瑙河河床上建造水下導流壩，來保證保克什核電站在多瑙河低水位情況下的冷卻水供應。這項措施最終可能使當地水位上升約1米。此外，為防止核電站在導流壩建成前就被迫停運，匈牙利政府還準備了兩艘駁船作為臨時方案，必要時將沉沒這兩艘船，讓多瑙河水位暫時提高最多20釐米。保克什核電站位於匈牙利首都布達佩斯以南約100公里，是匈牙利唯一核電站，也是匈牙利重要的電力來源。此前由於多瑙河水位過低、冷卻水源不足，保克什核電站多個機組停運。
+
+---
+
+### 2026-08-13 17:02:54  #公司
+
+香港交易所公告：渣打銀行8月12日在其他交易所合計回購366,470股股份，總斥資810萬英鎊。
+
+---
+
+### 2026-08-13 17:02:27  #公司 #焦點
+
+【京東物流：2026年第二季度收入641.02億元，同比增長24.3%】京東物流公告，截至2026年6月30日止三個月，收入641.02億元，同比增長24.3%；期間利潤24.06億元，同比增長2.5%。截至2026年6月30日止六個月，收入1246.83億元，同比增長26.5%；期間利潤32.71億元，同比增長10.5%。董事會不建議派發中期股息。
+
+---
+
+### 2026-08-13 17:02:25  #市場
+
+WTI原油日內跌2%，現報81.60美元/桶。
+
+---
+
+### 2026-08-13 17:02:16  #央行 #中國央行
+
+【央行：8月14日開展10000億元買斷式逆回購操作】為保持銀行體系流動性充裕，2026年8月14日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展10000億元買斷式逆回購操作，期限為6個月（185天），到期日為2027年2月15日（遇節假日順延）。
+
+---
+
+### 2026-08-13 17:02:14  #其他
+
+京東物流 上半年毛利率8.9％。
+
+---
+
+### 2026-08-13 17:02:09  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish
+
+【PBOC to conduct CNY1 trillion 6-month buyout reverse repo on Aug 14, 2026】To keep bank-system liquidity ample, the People’s Bank of China will on Aug 14, 2026 conduct a CNY1 trillion buyout-style reverse repo via a fixed-quantity, interest-rate tender with multiple-price allotment. The operation carries a six-month (185-day) tenor and will mature on Feb 15, 2027 (business-day adjustment for holidays).
+
+---
+
+### 2026-08-13 17:02:01  #央行 #其他
+
+【央行：8月14日開展10000億元買斷式逆回購操作】為保持銀行體系流動性充裕，2026年8月14日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展10000億元買斷式逆回購操作，期限為6個月（185天），到期日為2027年2月15日（遇節假日順延）。
+
+---
+
+### 2026-08-13 17:01:56  #公司
+
+【上港集團：簽署7.8億洋山四期碼頭經營性資產租賃合同】上港集團公告稱，公司及尚東分公司與同盛集團8月12日簽署《洋山四期碼頭經營性資產租賃合同》，租賃期限自2026年1月1日至12月31日，租金7.80億元（不含增值稅），期滿無異議自動續期一年，次數不限。後續租金按公式動態調整，超董事會許可權需重新決策。本次交易構成關聯交易，不構成重大資產重組，已獲董事會等審議透過，無需股東會審議和外部部門批准。
+
+---
+
+### 2026-08-13 17:01:51  #公司
+
+【小熊電器：2026年上半年淨利潤1.2億元，同比下降41.30%】小熊電器公告，2026年上半年營業收入23.49億元，同比下降7.34%。歸屬於上市公司股東的淨利潤1.2億元，同比下降41.30%，2025年同期淨利潤2.05億元。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.09億元，同比下降41.59%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-13 17:01:47  #國際
+
+【貴安威邁爾今年已完成1800臺機器人生產】“這批AMR潛伏式搬運機器人是根據客戶產線的高度和重量定製的，相較以往的產品體積要大一些、身高高一些，可以實現1.2噸的載重運輸。”威邁爾科技公關事務部主任吳霖介紹，今年截至目前已完成1800臺機器人的生產，應用於汽車製造、3C電子等行業，部分產品銷往印尼、越南等海外市場。當前，全球機器人產業正加速向具身智慧方向發展，為進一步聚焦機器人技術創新與突破，8月以來，威邁爾科技正式啟動本地研發團隊組建工作，目前正面向社會及高校廣泛招聘相關技術人才。（貴州日報）
+
+---
+
+### 2026-08-13 17:01:47  #宏觀
+
+【整治食品新增劑濫用 2.3萬餘件超範圍、超限量使用案件被查處】自去年4月國務院食安辦等六部門聯合部署開展食品新增劑濫用問題綜合治理以來，各地市場監管部門聚焦重點食品品類和關鍵生產加工環節，整治食品新增劑濫用違法行為，綜合治理工作取得顯著成效。各地市場監管部門以乳製品、肉製品、水產製品、澱粉及澱粉製品、食用植物油、飲料、複合調味料為重點，聚焦食品生產和餐飲加工過程中食品新增劑超範圍、超限量使用突出問題，加大監督抽檢力度，嚴厲查處防腐劑、甜味劑、著色劑濫用等突出違法行為。全國共查辦超範圍、超限量使用食品新增劑案件23603件，涉案總金額4362萬元，罰沒金額1.45億元，其中278件移送公安機關依法追究刑事責任，對食品新增劑濫用等違法行為形成強大震懾。下一步，市場監管部門將結合監管中發現的突出問題，持續加大監督執法力度，聚焦奶茶、肉類熟食、糕點、麵食、酒類等重點品種深入推進綜合治理，持續推動企業落實食品安全主體責任，規範食品新增劑使用行為，依法查處重點案件、曝光典型案例，確保綜合治理取得實效。
+
+---
+
+### 2026-08-13 17:01:39  #央行 #國際
+
+據稱澤連斯基對烏克蘭央行行長失去信任。
+
+---
+
+### 2026-08-13 17:01:09  #經濟數據 #歐元區
+
+【歐元區6月份工業產值同比增長0.1% 預估為下降0.6%】歐元區6月份工業產值同比增長0.1%，預估為下降0.6%；環比持平，符合市場預期。
+
+---
+
+### 2026-08-13 17:00:56  #其他
+
+京東物流 上半年非國際財務準則盈利37.0億元人民幣。
+
+---
+
+### 2026-08-13 17:00:41  #其他
+
+京東物流 上半年營收1,246.8億元人民幣。
+
+---
+
+### 2026-08-13 17:00:32  #其他
+
+京東物流 上半年淨利潤32.9億元人民幣。
+
+---
+
+### 2026-08-13 17:00:16  #資料
+
+歐元區6月工業產出月率 0%，預期0%，前值由-0.20%修正為0.3%。
+
+---
+
+### 2026-08-13 17:00:11  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Eurozone industrial production YoY 0.1% in June, versus consensus -0.8%; May revised from -1.20% to -0.1%.
+
+---
+
+### 2026-08-13 17:00:08  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Depreciates by 0.45% — Top currency losers are New Zealand Dollar (-0.45%), South Korean Won (-0.38%), Norwegian Krone (-0.34%) and British Pound (-0.12%). Meanwhile, Dollar Index, Euro and Japanese Yen were little changed.
 
 ---
 
@@ -17776,371 +18022,5 @@ Super Micro Computer (SMCI.O) shares rose about 10.4% in U.S. premarket trading 
 ### 2026-08-12 16:05:28  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
 
 IEA monthly report: non-OPEC+ output rose 590,000 b/d in July, led mainly by Qatar.
-
----
-
-### 2026-08-12 16:05:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report: OPEC crude production rose by 1.5 mln b/d in July.
-
----
-
-### 2026-08-12 16:05:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Rises by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (2.24%) and Gold (0.87%).
-
----
-
-### 2026-08-12 16:05:07  #國際
-
-澤連斯基：‘昨晚，烏克蘭國防軍實施了一項獨特行動，目標是新羅西斯克海軍基地——這是俄羅斯黑海艦隊最後的重大據點，距離前線超過300公里。 我們的帕利亞尼察噴氣式無人機、海王星導彈以及無人海軍系統成功打擊了指定目標。已確認擊中防空陣地、碼頭和海港基礎設施。”
-
----
-
-### 2026-08-12 16:05:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report forecasts OPEC production will rise by 5.8 mln b/d in 2027.
-
----
-
-### 2026-08-12 16:04:56  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report forecasts non‑OPEC+ output will rise by 2.5 mln b/d in 2027.
-
----
-
-### 2026-08-12 16:04:51  #公司
-
-【天威視訊：控股子公司擬與控股股東籤不超1807萬元合作意向書】天威視訊公告稱，2026年8月11日，公司控股子公司天擎數字擬與控股股東深圳廣電集團簽訂《專項活動搭建服務專案合作意向書》，開展深圳廣電集團空間設計搭建專案，合作期內專案總金額不超1807萬元。本次交易構成關聯交易，已透過董事會及獨立董事專門會議審議，無需提交股東會，也不構成重大資產重組。2026年初至披露日，公司與深圳廣電集團累計關聯交易額3334.37萬元。
-
----
-
-### 2026-08-12 16:04:44  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report projects non-OPEC+ oil production will rise by 690,000 b/d in 2026.
-
----
-
-### 2026-08-12 16:04:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IEA monthly report forecasts OPEC production will fall by 5 mln b/d in 2026.
-
----
-
-### 2026-08-12 16:04:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IEA monthly report: Gulf supply in July was 8.3 mln bpd below pre-war levels.
-
----
-
-### 2026-08-12 16:03:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report: global oil supply rebounded by 2.4 mln bpd in July to 101.5 mln bpd.
-
----
-
-### 2026-08-12 16:03:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report: elevated fuel prices are weighing on oil demand.
-
----
-
-### 2026-08-12 16:03:41  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IEA monthly report forecasts 2027 global oil demand will be 2.4 mln b/d higher than its earlier projection of 1.9 mln b/d.
-
----
-
-### 2026-08-12 16:03:14  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Trades Little Changed — The FTSE MIB traded flat to slightly higher on Wednesday, extending the subdued session from the previous day, as markets remained cautious over the prospects of a deal to reopen the Strait of Hormuz. Markets also awaited the US CPI report, which could offer further insight into inflation trends and influence expectations for the Fed’s upcoming policy decisions. Tech-related stocks led gains, with Prysmian advancing 2.6% amid a broader global tech rally, while STMicroelectronics gained 0.7%. Another notable performer was Unipol, which added 1.1%, while Eni rose 0.2% after agreeing to take a 40% stake in Uruguay’s Off-6 oil and gas exploration block, with drilling of the first well scheduled for 2027. On the downside, DiaSorin fell 3.7%, while luxury names such as Moncler and Brunello Cucinelli lost over 1% each. On the data front, Italy’s annual inflation rate was revised up to 2.9% in July from a preliminary 2.8%, while monthly inflation was revised up to 0.3% from 0.2%.
-
----
-
-### 2026-08-12 16:02:56  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report: global oil demand fell by 4.9 mln bpd in Q2.
-
----
-
-### 2026-08-12 16:02:44  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Market sources: Foxconn will begin shipping NVIDIA's Vera Rubin platform in Q4.
-
----
-
-### 2026-08-12 16:02:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-International Energy Agency expects global oil demand to decline by 2.8 mln b/d in Q3.
-
----
-
-### 2026-08-12 16:02:40  #市場 #國際
-
-美國標普500微型E-迷你期貨上漲0.16%，納斯達克100期貨上漲0.46%，道瓊斯期貨持平。
-
----
-
-### 2026-08-12 16:02:32  #公司
-
-【長華化學旗下連雲港科技公司增資至10億，增幅約67%】天眼查工商資訊顯示，8月5日，長華化學科技（連雲港）有限公司發生工商變更，註冊資本由6億人民幣增至10億人民幣，增幅約67%。該公司成立於2023年9月，法定代表人為顧仁發，經營範圍包括危險廢物經營、化工產品生產、化工產品銷售等。股東資訊顯示，該公司由長華化學科技股份有限公司全資持股。
-
----
-
-### 2026-08-12 16:02:21  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-IEA monthly report: Global oil refining throughput in July fell by about 5 mln bpd year-on-year as idle capacity could not offset product supply bottlenecks.
-
----
-
-### 2026-08-12 16:02:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-IEA monthly report: expects global oil supply to fall 4.3 mln bpd in 2026, versus a prior forecast for a 3.7 mln bpd decline.
-
----
-
-### 2026-08-12 16:02:04  #公司
-
-【兆新股份在青海成立新能源公司 含儲能技術服務業務】企查查APP顯示，近日，青海兆晟新能源有限公司成立，法定代表人為劉鈺銘，經營範圍包含：發電業務、輸電業務、供（配）電業務；太陽能發電技術服務；光伏發電裝置租賃；儲能技術服務；發電技術服務等。企查查股權穿透顯示，該公司由兆新股份旗下深圳市永晟新能源有限公司全資持股。
-
----
-
-### 2026-08-12 16:01:58  #公司
-
-【通化東寶：控股股東3200萬股解押後再質押】通化東寶公告稱，8月11日，控股股東東寶集團將質押給交通銀行通化分行的3200萬股解押，又將相同數量股份再質押，質押期限至2028年2月6日，用途為補充流動資金。截至公告日，東寶集團及其一致行動人累計質押5.82億股，佔其持股總數的90.73%，佔公司總股本的29.71%。未來半年和一年內，東寶集團將到期質押股份分別對應融資餘額6.15億元、2.95億元，其具備資金償還能力。公司提示，東寶集團高比例質押存在一定風險。
-
----
-
-### 2026-08-12 16:01:55  #市場 #其他 #焦點
-
-倫敦金屬交易所銅庫存連續第40天下降，創2014年以來最長連跌紀錄。
-
----
-
-### 2026-08-12 16:01:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IEA monthly report projects renewed hostilities in the Middle East will create a Q3 oil supply shortfall of 1.8 mln b/d, versus a 0.8 mln b/d shortfall forecast in July.
-
----
-
-### 2026-08-12 16:01:30  #市場
-
-【美股中概股盤前多數下跌，盛美漲8%】美股中概股盤前多數下跌，盛美漲8%，攜程跌0.7%，京東、百度、蔚來跌1%，嗶哩嗶哩、阿里巴巴跌2%，網易跌4%。
-
----
-
-### 2026-08-12 16:01:28  #公司 #市場
-
-【美股大型科技股盤前多數上漲，SK海力士漲2%】美股大型科技股盤前多數上漲，SK海力士漲2%，美光科技漲1%，SpaceX漲0.8%，谷歌A漲0.5%，英偉達漲0.3%，特斯拉漲0.1%，Meta、蘋果持平，亞馬遜跌0.1%，微軟跌0.7%。超微電腦漲超10%，公司第一財季營收展望高於預期。AI算力租賃商CoreWeave美股盤前漲超15%，公司第二財季營收翻倍增長至25.8億美元。
-
----
-
-### 2026-08-12 16:01:25  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA monthly report forecasts global oil supply will exceed total demand by 4.61 mln b/d in 2027, versus a prior forecast of 4.62 mln b/d.
-
----
-
-### 2026-08-12 16:01:11  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IEA monthly report says global oil supply is expected to fall short of demand by 1.27 mln b/d in 2026, versus a prior estimated shortfall of 0.86 mln b/d.
-
----
-
-### 2026-08-12 16:01:08  #MKT News #Market Regions #Europe & UK
-
-Italy July harmonized CPI (final) y/y 2.9% (est. 2.9%; prev. 2.9%).
-
----
-
-### 2026-08-12 16:01:00  #公司
-
-【會通股份：持股5%以上股東質押5000萬股 佔總股本9.10%】會通股份公告稱，公司持股5%以上股東朗潤資產於2026年8月11日辦理完成5000萬股質押登記手續，佔公司總股本比例為9.10%。朗潤資產直接持有公司股份5084.97萬股，佔公司總股本比例為9.25%，本次質押完成後，累計質押公司股份為5000萬股。朗潤資產及其一致行動人筱璘先生共計持有公司股份8684.97萬股，佔公司總股本的15.80%，累計質押股份為5000萬股。
-
----
-
-### 2026-08-12 16:01:00  #MKT News #Economic Calendar #Important
-
-Italy | Harmonized CPI Final (YoY) (Jul) | actual 2.9% | consensus 2.9% | previous 2.90%
-
----
-
-### 2026-08-12 16:00:49  #資料
-
-義大利7月CPI環比終值 0.3%，預期 0.2%，初值 0.2%。義大利7月CPI同比終值 2.9%，預期 2.8%，初值 2.8%。義大利7月調和CPI環比終值 -1%，預期 -1%，初值 -1%。
-
----
-
-### 2026-08-12 16:00:48  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-LME inventories: tin down 50 tonnes, zinc down 1,725 tonnes, copper down 2,425 tonnes, nickel unchanged, lead down 3,225 tonnes, aluminium down 1,700 tonnes.
-
----
-
-### 2026-08-12 16:00:44  #其他
-
-倫敦金屬交易所(LME)：錫庫存減少50噸，鋅庫存減少1725噸，銅庫存減少2425噸，鎳庫存持平，鉛庫存減少3225噸，鋁庫存減少1700噸。
-
----
-
-### 2026-08-12 16:00:44  #MKT News #Important #Commodities #Energy #Brent #Impact mixed
-
-IEA monthly report projects 2026 global oil demand will decline by 1.6 mln bpd, versus a prior forecast of a 1.0 mln bpd drop, citing disruptions in the Strait of Hormuz and elevated oil prices.
-
----
-
-### 2026-08-12 16:00:37  #其他
-
-國際能源署表示，2026年全球石油供應量將減少430萬桶/日，此前預測為減少370萬桶/日。
-
----
-
-### 2026-08-12 16:00:31  #央行 #其他
-
-土耳其央行透過傳統方式開展1週期金換里拉賣方互換拍賣，拍賣規模為5噸。
-
----
-
-### 2026-08-12 16:00:23  #資料 #焦點 #國際
-
-國際能源署表示，7月初中東石油出口達到每日2000萬桶的峰值，但在當月下旬回落至每日1200萬桶。
-
----
-
-### 2026-08-12 16:00:17  #國際
-
-國際能源署（IEA）預計，受中東局勢再度激化影響，第三季度全球石油市場缺口將達到180萬桶/日，高於7月預測的80萬桶/日。
-
----
-
-### 2026-08-12 16:00:13  #其他
-
-國際能源署預測，2027年全球石油供應量將比總需求高出461萬桶/日，此前預測為高出462萬桶/日
-
----
-
-### 2026-08-12 16:00:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rises by 3.07% — Top commodity gainers are Natural Gas EU (3.07%), Natural Gas UK (3%), Crude Oil WTI (0.97%) and Brent Crude Oil (0.91%).
-
----
-
-### 2026-08-12 16:00:11  #其他
-
-國際能源署在月度報告中預測，2026年全球石油總供應將較需求低127萬桶/日，此前報告的預測值為供應較需求低86萬桶/日。
-
----
-
-### 2026-08-12 16:00:07  #其他
-
-國際能源署將第三季度石油短缺的預期提高了一倍。
-
----
-
-### 2026-08-12 15:59:53  #公司 #國際
-
-蒂森克虜伯海洋系統（TKMS）執行長表示：伊朗戰爭爆發後，我們看到中東地區需求有所上升，目前尚無法量化這一增量。
-
----
-
-### 2026-08-12 15:59:40  #其他
-
-飛行追蹤服務商FlightAware撤回對交易平臺Kalshi提起的與取消航班預測交易市場相關的訴訟。
-
----
-
-### 2026-08-12 15:59:26  #公司
-
-【匯成股份：2026年上半年營收9.59億元 擬4億元設合資公司】匯成股份公告稱，2026年上半年，公司營收9.59億元，同比增長10.67%；歸屬於上市公司股東的淨利潤501.23萬元，同比下降94.78%。此外，公司決定出資4億元與百瑞發控股、香港匯微整合共同設立合資公司合肥晶瑞旺電子，持股57.14%。合資公司將以零對價收購上海鄭隆芯創100%股權，作為HITS先進封裝工藝研發及量產平臺。該項投資尚處啟動階段，未對本報告期業績產生重大影響。
-
----
-
-### 2026-08-12 15:59:15  #公司
-
-【匯成股份：2026年半年度計提減值準備2753.43萬元】匯成股份公告，公司根據《企業會計準則》及相關規定，對截至2026年6月30日合併報表範圍內資產計提減值準備，2026年半年度共計提資產減值準備和信用減值準備2753.43萬元。其中信用減值損失423.36萬元（應收賬款壞賬損失420.12萬元、其他應收款壞賬損失32400元），存貨跌價損失2330.06萬元。本次計提對公司合併報表利潤總額影響約2753.43萬元，未經審計。
-
----
-
-### 2026-08-12 15:59:11  #公司 #其他 #焦點
-
-鴻海：將於第四季度開始出貨英偉達 Vera Rubin 平臺。
-
----
-
-### 2026-08-12 15:58:14  #MKT News
-
-An Indian government official said India's commerce secretary will visit Chile this month to hold talks on a trade agreement.
-
----
-
-### 2026-08-12 15:58:04  #MKT News
-
-Indian government officials said India will advance preferential trade agreements with Mexico, Brazil and Mercosur.
-
----
-
-### 2026-08-12 15:58:01  #公司 #國際
-
-蒂森克虜伯海洋系統（TKMS）執行長：我們正繼續與印度就潛艇交易進行談判，印度政府已為該採購專案批出預算。
-
----
-
-### 2026-08-12 15:57:49  #焦點 #國際
-
-伊朗革命衛隊發言人：如果伊朗再次面臨威脅，數十萬英里的能源傳輸線路、數千座發電站、 所有美國及非美國設施，甚至與網際網路相連的全球基礎設施都將面臨威脅。
-
----
-
-### 2026-08-12 15:57:29  #其他
-
-鴻海：網路通訊產品有望成為下一營收增長引擎。
-
----
-
-### 2026-08-12 15:57:07  #其他
-
-鴻海：光通訊行業市場規模有望突破1000億美元。
-
----
-
-### 2026-08-12 15:57:03  #公司
-
-【特力博與阿瓦隆機場達成戰略合作，設立澳洲樞紐完善大洋洲航空網路佈局】Capital A集團旗下物流子公司，東南亞跨境電商物流服務商特力博（Teleport）宣佈與墨爾本阿瓦隆機場（Avalon Airport Melbourne）簽署合作協議，計劃將阿瓦隆機場打造成為特力博全新區域運營樞紐。據悉，依託阿瓦隆機場專屬航空貨運基礎設施，本次合作將進一步拓寬特力博航空網路覆蓋範圍，最佳化亞洲核心貿易通道與大洋洲區域之間的貨物運輸及跨境電商物流鏈路。
-
----
-
-### 2026-08-12 15:56:49  #其他
-
-鴻海：未來幾年光通訊行業將迎來快速增長。
-
----
-
-### 2026-08-12 15:56:42  #國際
-
-印度政府官員：印度貿易秘書將於本月訪問智利，就貿易協定展開談判。
-
----
-
-### 2026-08-12 15:56:27  #公司
-
-【曉程科技：2026年上半年營收3.15億元 淨利潤同比增31.24%】曉程科技公告稱，2026年上半年，公司實現營業收入3.15億元，同比增長44.29%；歸屬於上市公司股東的淨利潤5570.83萬元，同比增長31.24%；扣除非經常性損益的淨利潤3994.14萬元，同比增長12.50%；經營活動產生的現金流量淨額1.13億元，同比增長138.88%。基本每股收益和稀釋每股收益均為0.20元/股，同比增長33.33%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-12 15:56:22  #國際
-
-印度政府官員：印度將推進與墨西哥、巴西以及南方共同市場簽署優惠貿易協定。
-
----
-
-### 2026-08-12 15:56:17  #公司
-
-【隆鑫通用：籌劃與宗申動力資產置換暨關聯交易進展披露】隆鑫通用公告稱，公司擬以通用機械業務相關資產與負債，與宗申動力持有的摩托車發動機業務相關資產與負債進行置換，差額以現金補足，本次交易構成關聯交易，預計不構成重大資產重組。目前，公司及交易對方正有序組織相關方對交易標的進行盡職調查，具體交易標的資產範圍、價格等要素未確定，雙方未籤協議，交易尚需履行必要決策和審批程式，存在不確定性。
-
----
-
-### 2026-08-12 15:55:40  #公司
-
-【小紅書：規範微短劇內容釋出，專項治理開展以來累計前置攔截、下架違規資訊3000餘條】8月12日，小紅書釋出關於規範微短劇內容釋出的公告：今年6月以來，平臺開展“微短劇有害低俗內容和侵權盜版專項治理”，依法依規集中治理部分微短劇存在的涉兒童有害、軟色情擦邊、拜金炫富、畸形婚戀觀、封建糟粕、暴力復仇、低俗片名、侵權盜版等8個重點問題，規範微短劇創作傳播行為。專項開展以來，依照網路視聽管理相關要求及社群規則，平臺累計前置攔截、下架違規資訊3000餘條，處置賬號43個。此外，平臺巡查發現，存在部分未取得許可證號、批准檔案編號或節目編號的微短劇正片內容（包括個人自制微短劇、從其他平臺轉發搬運的微短劇等）。依據微短劇行業管理相關規定，平臺已採取相關管理措施：對未完成稽核許可的微短劇，以及採用技術手段規避、對抗管理要求的行為，平臺將依據規則進行處置，包括但不限於下架違規內容、限制賬號釋出與經營功能、封禁相關賬號等措施；在創作者補充完成稽核許可，並按規定標註相應證號後，可重新發布。
 
 ---

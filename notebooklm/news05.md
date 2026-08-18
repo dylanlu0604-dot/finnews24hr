@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 13:40:06_
-_本檔包含 3038 則快訊，約 605609 字_
+_更新時間：2026-08-18 13:59:41_
+_本檔包含 3051 則快訊，約 605444 字_
+
+---
+
+### 2026-08-12 16:05:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: OPEC crude production rose by 1.5 mln b/d in July.
+
+---
+
+### 2026-08-12 16:05:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Rises by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (2.24%) and Gold (0.87%).
+
+---
+
+### 2026-08-12 16:05:07  #國際
+
+澤連斯基：‘昨晚，烏克蘭國防軍實施了一項獨特行動，目標是新羅西斯克海軍基地——這是俄羅斯黑海艦隊最後的重大據點，距離前線超過300公里。 我們的帕利亞尼察噴氣式無人機、海王星導彈以及無人海軍系統成功打擊了指定目標。已確認擊中防空陣地、碼頭和海港基礎設施。”
+
+---
+
+### 2026-08-12 16:05:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report forecasts OPEC production will rise by 5.8 mln b/d in 2027.
+
+---
+
+### 2026-08-12 16:04:56  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report forecasts non‑OPEC+ output will rise by 2.5 mln b/d in 2027.
+
+---
+
+### 2026-08-12 16:04:51  #公司
+
+【天威視訊：控股子公司擬與控股股東籤不超1807萬元合作意向書】天威視訊公告稱，2026年8月11日，公司控股子公司天擎數字擬與控股股東深圳廣電集團簽訂《專項活動搭建服務專案合作意向書》，開展深圳廣電集團空間設計搭建專案，合作期內專案總金額不超1807萬元。本次交易構成關聯交易，已透過董事會及獨立董事專門會議審議，無需提交股東會，也不構成重大資產重組。2026年初至披露日，公司與深圳廣電集團累計關聯交易額3334.37萬元。
+
+---
+
+### 2026-08-12 16:04:44  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report projects non-OPEC+ oil production will rise by 690,000 b/d in 2026.
+
+---
+
+### 2026-08-12 16:04:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report forecasts OPEC production will fall by 5 mln b/d in 2026.
+
+---
+
+### 2026-08-12 16:04:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report: Gulf supply in July was 8.3 mln bpd below pre-war levels.
+
+---
+
+### 2026-08-12 16:03:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: global oil supply rebounded by 2.4 mln bpd in July to 101.5 mln bpd.
+
+---
+
+### 2026-08-12 16:03:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: elevated fuel prices are weighing on oil demand.
+
+---
+
+### 2026-08-12 16:03:41  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report forecasts 2027 global oil demand will be 2.4 mln b/d higher than its earlier projection of 1.9 mln b/d.
+
+---
+
+### 2026-08-12 16:03:14  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Trades Little Changed — The FTSE MIB traded flat to slightly higher on Wednesday, extending the subdued session from the previous day, as markets remained cautious over the prospects of a deal to reopen the Strait of Hormuz. Markets also awaited the US CPI report, which could offer further insight into inflation trends and influence expectations for the Fed’s upcoming policy decisions. Tech-related stocks led gains, with Prysmian advancing 2.6% amid a broader global tech rally, while STMicroelectronics gained 0.7%. Another notable performer was Unipol, which added 1.1%, while Eni rose 0.2% after agreeing to take a 40% stake in Uruguay’s Off-6 oil and gas exploration block, with drilling of the first well scheduled for 2027. On the downside, DiaSorin fell 3.7%, while luxury names such as Moncler and Brunello Cucinelli lost over 1% each. On the data front, Italy’s annual inflation rate was revised up to 2.9% in July from a preliminary 2.8%, while monthly inflation was revised up to 0.3% from 0.2%.
+
+---
+
+### 2026-08-12 16:02:56  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report: global oil demand fell by 4.9 mln bpd in Q2.
+
+---
+
+### 2026-08-12 16:02:44  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Market sources: Foxconn will begin shipping NVIDIA's Vera Rubin platform in Q4.
+
+---
+
+### 2026-08-12 16:02:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+International Energy Agency expects global oil demand to decline by 2.8 mln b/d in Q3.
+
+---
+
+### 2026-08-12 16:02:40  #市場 #國際
+
+美國標普500微型E-迷你期貨上漲0.16%，納斯達克100期貨上漲0.46%，道瓊斯期貨持平。
+
+---
+
+### 2026-08-12 16:02:32  #公司
+
+【長華化學旗下連雲港科技公司增資至10億，增幅約67%】天眼查工商資訊顯示，8月5日，長華化學科技（連雲港）有限公司發生工商變更，註冊資本由6億人民幣增至10億人民幣，增幅約67%。該公司成立於2023年9月，法定代表人為顧仁發，經營範圍包括危險廢物經營、化工產品生產、化工產品銷售等。股東資訊顯示，該公司由長華化學科技股份有限公司全資持股。
+
+---
+
+### 2026-08-12 16:02:21  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+IEA monthly report: Global oil refining throughput in July fell by about 5 mln bpd year-on-year as idle capacity could not offset product supply bottlenecks.
+
+---
+
+### 2026-08-12 16:02:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report: expects global oil supply to fall 4.3 mln bpd in 2026, versus a prior forecast for a 3.7 mln bpd decline.
+
+---
+
+### 2026-08-12 16:02:04  #公司
+
+【兆新股份在青海成立新能源公司 含儲能技術服務業務】企查查APP顯示，近日，青海兆晟新能源有限公司成立，法定代表人為劉鈺銘，經營範圍包含：發電業務、輸電業務、供（配）電業務；太陽能發電技術服務；光伏發電裝置租賃；儲能技術服務；發電技術服務等。企查查股權穿透顯示，該公司由兆新股份旗下深圳市永晟新能源有限公司全資持股。
+
+---
+
+### 2026-08-12 16:01:58  #公司
+
+【通化東寶：控股股東3200萬股解押後再質押】通化東寶公告稱，8月11日，控股股東東寶集團將質押給交通銀行通化分行的3200萬股解押，又將相同數量股份再質押，質押期限至2028年2月6日，用途為補充流動資金。截至公告日，東寶集團及其一致行動人累計質押5.82億股，佔其持股總數的90.73%，佔公司總股本的29.71%。未來半年和一年內，東寶集團將到期質押股份分別對應融資餘額6.15億元、2.95億元，其具備資金償還能力。公司提示，東寶集團高比例質押存在一定風險。
+
+---
+
+### 2026-08-12 16:01:55  #市場 #其他 #焦點
+
+倫敦金屬交易所銅庫存連續第40天下降，創2014年以來最長連跌紀錄。
+
+---
+
+### 2026-08-12 16:01:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report projects renewed hostilities in the Middle East will create a Q3 oil supply shortfall of 1.8 mln b/d, versus a 0.8 mln b/d shortfall forecast in July.
+
+---
+
+### 2026-08-12 16:01:30  #市場
+
+【美股中概股盤前多數下跌，盛美漲8%】美股中概股盤前多數下跌，盛美漲8%，攜程跌0.7%，京東、百度、蔚來跌1%，嗶哩嗶哩、阿里巴巴跌2%，網易跌4%。
+
+---
+
+### 2026-08-12 16:01:28  #公司 #市場
+
+【美股大型科技股盤前多數上漲，SK海力士漲2%】美股大型科技股盤前多數上漲，SK海力士漲2%，美光科技漲1%，SpaceX漲0.8%，谷歌A漲0.5%，英偉達漲0.3%，特斯拉漲0.1%，Meta、蘋果持平，亞馬遜跌0.1%，微軟跌0.7%。超微電腦漲超10%，公司第一財季營收展望高於預期。AI算力租賃商CoreWeave美股盤前漲超15%，公司第二財季營收翻倍增長至25.8億美元。
+
+---
+
+### 2026-08-12 16:01:25  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IEA monthly report forecasts global oil supply will exceed total demand by 4.61 mln b/d in 2027, versus a prior forecast of 4.62 mln b/d.
+
+---
+
+### 2026-08-12 16:01:11  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IEA monthly report says global oil supply is expected to fall short of demand by 1.27 mln b/d in 2026, versus a prior estimated shortfall of 0.86 mln b/d.
+
+---
+
+### 2026-08-12 16:01:08  #MKT News #Market Regions #Europe & UK
+
+Italy July harmonized CPI (final) y/y 2.9% (est. 2.9%; prev. 2.9%).
+
+---
+
+### 2026-08-12 16:01:00  #公司
+
+【會通股份：持股5%以上股東質押5000萬股 佔總股本9.10%】會通股份公告稱，公司持股5%以上股東朗潤資產於2026年8月11日辦理完成5000萬股質押登記手續，佔公司總股本比例為9.10%。朗潤資產直接持有公司股份5084.97萬股，佔公司總股本比例為9.25%，本次質押完成後，累計質押公司股份為5000萬股。朗潤資產及其一致行動人筱璘先生共計持有公司股份8684.97萬股，佔公司總股本的15.80%，累計質押股份為5000萬股。
+
+---
+
+### 2026-08-12 16:01:00  #MKT News #Economic Calendar #Important
+
+Italy | Harmonized CPI Final (YoY) (Jul) | actual 2.9% | consensus 2.9% | previous 2.90%
+
+---
+
+### 2026-08-12 16:00:49  #資料
+
+義大利7月CPI環比終值 0.3%，預期 0.2%，初值 0.2%。義大利7月CPI同比終值 2.9%，預期 2.8%，初值 2.8%。義大利7月調和CPI環比終值 -1%，預期 -1%，初值 -1%。
+
+---
+
+### 2026-08-12 16:00:48  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+LME inventories: tin down 50 tonnes, zinc down 1,725 tonnes, copper down 2,425 tonnes, nickel unchanged, lead down 3,225 tonnes, aluminium down 1,700 tonnes.
+
+---
+
+### 2026-08-12 16:00:44  #其他
+
+倫敦金屬交易所(LME)：錫庫存減少50噸，鋅庫存減少1725噸，銅庫存減少2425噸，鎳庫存持平，鉛庫存減少3225噸，鋁庫存減少1700噸。
+
+---
+
+### 2026-08-12 16:00:44  #MKT News #Important #Commodities #Energy #Brent #Impact mixed
+
+IEA monthly report projects 2026 global oil demand will decline by 1.6 mln bpd, versus a prior forecast of a 1.0 mln bpd drop, citing disruptions in the Strait of Hormuz and elevated oil prices.
+
+---
+
+### 2026-08-12 16:00:37  #其他
+
+國際能源署表示，2026年全球石油供應量將減少430萬桶/日，此前預測為減少370萬桶/日。
+
+---
+
+### 2026-08-12 16:00:31  #央行 #其他
+
+土耳其央行透過傳統方式開展1週期金換里拉賣方互換拍賣，拍賣規模為5噸。
+
+---
+
+### 2026-08-12 16:00:23  #資料 #焦點 #國際
+
+國際能源署表示，7月初中東石油出口達到每日2000萬桶的峰值，但在當月下旬回落至每日1200萬桶。
+
+---
+
+### 2026-08-12 16:00:17  #國際
+
+國際能源署（IEA）預計，受中東局勢再度激化影響，第三季度全球石油市場缺口將達到180萬桶/日，高於7月預測的80萬桶/日。
+
+---
+
+### 2026-08-12 16:00:13  #其他
+
+國際能源署預測，2027年全球石油供應量將比總需求高出461萬桶/日，此前預測為高出462萬桶/日
+
+---
+
+### 2026-08-12 16:00:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rises by 3.07% — Top commodity gainers are Natural Gas EU (3.07%), Natural Gas UK (3%), Crude Oil WTI (0.97%) and Brent Crude Oil (0.91%).
+
+---
+
+### 2026-08-12 16:00:11  #其他
+
+國際能源署在月度報告中預測，2026年全球石油總供應將較需求低127萬桶/日，此前報告的預測值為供應較需求低86萬桶/日。
+
+---
+
+### 2026-08-12 16:00:07  #其他
+
+國際能源署將第三季度石油短缺的預期提高了一倍。
+
+---
+
+### 2026-08-12 15:59:53  #公司 #國際
+
+蒂森克虜伯海洋系統（TKMS）執行長表示：伊朗戰爭爆發後，我們看到中東地區需求有所上升，目前尚無法量化這一增量。
+
+---
+
+### 2026-08-12 15:59:40  #其他
+
+飛行追蹤服務商FlightAware撤回對交易平臺Kalshi提起的與取消航班預測交易市場相關的訴訟。
+
+---
+
+### 2026-08-12 15:59:26  #公司
+
+【匯成股份：2026年上半年營收9.59億元 擬4億元設合資公司】匯成股份公告稱，2026年上半年，公司營收9.59億元，同比增長10.67%；歸屬於上市公司股東的淨利潤501.23萬元，同比下降94.78%。此外，公司決定出資4億元與百瑞發控股、香港匯微整合共同設立合資公司合肥晶瑞旺電子，持股57.14%。合資公司將以零對價收購上海鄭隆芯創100%股權，作為HITS先進封裝工藝研發及量產平臺。該項投資尚處啟動階段，未對本報告期業績產生重大影響。
+
+---
+
+### 2026-08-12 15:59:15  #公司
+
+【匯成股份：2026年半年度計提減值準備2753.43萬元】匯成股份公告，公司根據《企業會計準則》及相關規定，對截至2026年6月30日合併報表範圍內資產計提減值準備，2026年半年度共計提資產減值準備和信用減值準備2753.43萬元。其中信用減值損失423.36萬元（應收賬款壞賬損失420.12萬元、其他應收款壞賬損失32400元），存貨跌價損失2330.06萬元。本次計提對公司合併報表利潤總額影響約2753.43萬元，未經審計。
+
+---
+
+### 2026-08-12 15:59:11  #公司 #其他 #焦點
+
+鴻海：將於第四季度開始出貨英偉達 Vera Rubin 平臺。
+
+---
+
+### 2026-08-12 15:58:14  #MKT News
+
+An Indian government official said India's commerce secretary will visit Chile this month to hold talks on a trade agreement.
+
+---
+
+### 2026-08-12 15:58:04  #MKT News
+
+Indian government officials said India will advance preferential trade agreements with Mexico, Brazil and Mercosur.
+
+---
+
+### 2026-08-12 15:58:01  #公司 #國際
+
+蒂森克虜伯海洋系統（TKMS）執行長：我們正繼續與印度就潛艇交易進行談判，印度政府已為該採購專案批出預算。
+
+---
+
+### 2026-08-12 15:57:49  #焦點 #國際
+
+伊朗革命衛隊發言人：如果伊朗再次面臨威脅，數十萬英里的能源傳輸線路、數千座發電站、 所有美國及非美國設施，甚至與網際網路相連的全球基礎設施都將面臨威脅。
+
+---
+
+### 2026-08-12 15:57:29  #其他
+
+鴻海：網路通訊產品有望成為下一營收增長引擎。
+
+---
+
+### 2026-08-12 15:57:07  #其他
+
+鴻海：光通訊行業市場規模有望突破1000億美元。
+
+---
+
+### 2026-08-12 15:57:03  #公司
+
+【特力博與阿瓦隆機場達成戰略合作，設立澳洲樞紐完善大洋洲航空網路佈局】Capital A集團旗下物流子公司，東南亞跨境電商物流服務商特力博（Teleport）宣佈與墨爾本阿瓦隆機場（Avalon Airport Melbourne）簽署合作協議，計劃將阿瓦隆機場打造成為特力博全新區域運營樞紐。據悉，依託阿瓦隆機場專屬航空貨運基礎設施，本次合作將進一步拓寬特力博航空網路覆蓋範圍，最佳化亞洲核心貿易通道與大洋洲區域之間的貨物運輸及跨境電商物流鏈路。
+
+---
+
+### 2026-08-12 15:56:49  #其他
+
+鴻海：未來幾年光通訊行業將迎來快速增長。
+
+---
+
+### 2026-08-12 15:56:42  #國際
+
+印度政府官員：印度貿易秘書將於本月訪問智利，就貿易協定展開談判。
+
+---
+
+### 2026-08-12 15:56:27  #公司
+
+【曉程科技：2026年上半年營收3.15億元 淨利潤同比增31.24%】曉程科技公告稱，2026年上半年，公司實現營業收入3.15億元，同比增長44.29%；歸屬於上市公司股東的淨利潤5570.83萬元，同比增長31.24%；扣除非經常性損益的淨利潤3994.14萬元，同比增長12.50%；經營活動產生的現金流量淨額1.13億元，同比增長138.88%。基本每股收益和稀釋每股收益均為0.20元/股，同比增長33.33%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-12 15:56:22  #國際
+
+印度政府官員：印度將推進與墨西哥、巴西以及南方共同市場簽署優惠貿易協定。
+
+---
+
+### 2026-08-12 15:56:17  #公司
+
+【隆鑫通用：籌劃與宗申動力資產置換暨關聯交易進展披露】隆鑫通用公告稱，公司擬以通用機械業務相關資產與負債，與宗申動力持有的摩托車發動機業務相關資產與負債進行置換，差額以現金補足，本次交易構成關聯交易，預計不構成重大資產重組。目前，公司及交易對方正有序組織相關方對交易標的進行盡職調查，具體交易標的資產範圍、價格等要素未確定，雙方未籤協議，交易尚需履行必要決策和審批程式，存在不確定性。
+
+---
+
+### 2026-08-12 15:55:40  #公司
+
+【小紅書：規範微短劇內容釋出，專項治理開展以來累計前置攔截、下架違規資訊3000餘條】8月12日，小紅書釋出關於規範微短劇內容釋出的公告：今年6月以來，平臺開展“微短劇有害低俗內容和侵權盜版專項治理”，依法依規集中治理部分微短劇存在的涉兒童有害、軟色情擦邊、拜金炫富、畸形婚戀觀、封建糟粕、暴力復仇、低俗片名、侵權盜版等8個重點問題，規範微短劇創作傳播行為。專項開展以來，依照網路視聽管理相關要求及社群規則，平臺累計前置攔截、下架違規資訊3000餘條，處置賬號43個。此外，平臺巡查發現，存在部分未取得許可證號、批准檔案編號或節目編號的微短劇正片內容（包括個人自制微短劇、從其他平臺轉發搬運的微短劇等）。依據微短劇行業管理相關規定，平臺已採取相關管理措施：對未完成稽核許可的微短劇，以及採用技術手段規避、對抗管理要求的行為，平臺將依據規則進行處置，包括但不限於下架違規內容、限制賬號釋出與經營功能、封禁相關賬號等措施；在創作者補充完成稽核許可，並按規定標註相應證號後，可重新發布。
 
 ---
 
@@ -18048,293 +18414,5 @@ Bank of Korea senior deputy governor said the central bank is more focused on de
 ### 2026-08-11 14:01:03  #其他
 
 【江波龍成交額超100億元】8月11日下午，江波龍成交額超100億元，現漲1.53%。
-
----
-
-### 2026-08-11 13:59:36  #MKT News #Important #Market Regions #Greater China #000300.SS #Impact bullish #000001.SS #399001.SZ
-
-China A-share reducer makers extended gains: Siling Zhiqu hit the daily limit; Fengguang Precision and Ruidi Zhiqu jumped more than 15%; Lvde Xiebo and Hongchang Technology rose over 10%; Kedali, Zhongda Lide and Haozhi Jidian also advanced.
-
----
-
-### 2026-08-11 13:58:31  #市場
-
-【減速器板塊持續走高，綠的諧波漲超10%】減速器板塊持續走高，斯菱智驅漲停，豐光精密、瑞迪智驅漲超15%，綠的諧波、宏昌科技漲超10%，科達利、中大力德、昊志機電跟漲。
-
----
-
-### 2026-08-11 13:57:18  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【July inf emerges as key variable for Fed policy; analysts split on further hikes】Last week's mixed July jobs report raised the market importance of July inf, analysts say. LPL Financial chief economist Jeffrey Roach said the Fed's rate path will depend on how long inf stays elevated; with the labor market cooling, inf could become the swing factor. A less certain inf outlook could support one hike this year but makes multiple hikes unlikely. Vanguard analyst Hicklin said July payrolls plus expected inf improvement bolster the case for the Fed to leave rates unchanged through year-end. Recent data have shifted Fed focus toward balancing labor-market signals and inf, increasing confidence policymakers will hold rates this year.
-
----
-
-### 2026-08-11 13:56:42  #MKT News
-
-Reserve Bank of Australia Governor Bullock said the weak housing market does not pose a material risk to financial stability.
-
----
-
-### 2026-08-11 13:55:57  #央行 #澳洲聯儲
-
-澳洲聯儲主席布洛克表示，很可能需要再次提高利率。
-
----
-
-### 2026-08-11 13:55:47  #其他
-
-【智譜：ZCode全面升級 GLM Coding Plan全體使用者額度已於今天13:00統一重置】智譜8月11日宣佈，今天，ZCode迎來重大升級，Goal、Subagents、Remote Control與閒時任務四大功能正式上線。作為百萬使用者里程碑的特別回饋，GLM Coding Plan全體使用者額度已於今天13:00統一重置，屆時全員額度全部回滿。
-
----
-
-### 2026-08-11 13:55:43  #MKT News #02513.HK
-
-【Zhipu (02513.HK) upgrades ZCode; resets GLM Coding Plan quotas for all users to full at 13:00】Zhipu (02513.HK) said on Aug. 11 it rolled out a major upgrade to its ZCode platform, launching four features: Goal, Subagents, Remote Control and idle-time tasks. As a one‑million‑user milestone reward, the company said GLM Coding Plan quotas for all users were uniformly reset to full at 13:00 today.
-
----
-
-### 2026-08-11 13:54:46  #MKT News #Commodities #Industrial Metals
-
-Coke main contract up >2.0% intraday, trading at 1,910 yuan/ton.
-
----
-
-### 2026-08-11 13:54:19  #MKT News #DXY #Impact bearish
-
-RESERVE BANK OF AUSTRALIA Governor BULLOCK said the bank may need to raise rates again.
-
----
-
-### 2026-08-11 13:54:18  #其他
-
-布洛克：我們很可能需要再次提高利率。
-
----
-
-### 2026-08-11 13:54:08  #央行 #國際
-
-印度央行：近期資本流動措施對印度經濟有利。
-
----
-
-### 2026-08-11 13:53:51  #央行 #澳洲聯儲
-
-【澳洲聯儲主席布洛克：若無物價上漲支撐 經濟難以提速增長】澳洲聯儲主席布洛克表示，若無物價上漲支撐，經濟難以提速增長；戰爭持續越久，企業越容易將漲價常態化、固化進定價體系；目前依舊認為現金利率水平略微偏緊。
-
----
-
-### 2026-08-11 13:53:32  #公司
-
-【悍高集團：隨著原材料價格走勢趨於平穩 公司盈利能力將得到進一步改善】悍高集團(001221)8月10日在電話會議中表示，當前下游家居五金行業正處於深度調整階段，市場呈現明顯結構性變化。隨著家居建材市場日趨成熟，存量房翻新及區域性改造需求逐步成為新的增長極。國產高階品牌憑藉較強的渠道滲透力與產品適應性，迎來良好發展機遇，國產替代程序全面加速，長期來看，市場資源向頭部企業集中將成為趨勢。此外，公司表示，下半年，公司經營目標將同時兼顧營業收入的增長與毛利率、淨利率等盈利指標的提升。隨著原材料價格走勢趨於平穩，並伴隨多款高階新品集中交付，公司盈利能力將得到進一步改善。
-
----
-
-### 2026-08-11 13:53:06  #市場 #焦點
-
-甲醇連續主力合約日內漲3%，現報2593.00元。
-
----
-
-### 2026-08-11 13:52:42  #MKT News #Important
-
-Soda ash most-active futures contract touched CNY1,000/tonne, up 4.28% intraday, the highest since July 27.
-
----
-
-### 2026-08-11 13:52:12  #MKT News #Important #Commodities #Industrial Metals #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bearish #Copper #CNH
-
-China A-shares weakened in the afternoon as the non-ferrous metals sector slid, led by precious metals. Luoyang Molybdenum, Western Mining and Chifeng Gold fell more than 6%; Zijin Mining, Zangge Mining, Sichuan Gold and Pengxin Resources were also among the largest decliners.
-
----
-
-### 2026-08-11 13:51:51  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
-
-Reserve Bank of Australia Governor Bullock said the economy needs to slow and labour-market tightness must ease.
-
----
-
-### 2026-08-11 13:51:44  #公司
-
-【皇氏集團成立智慧牧業公司】企查查APP顯示，近日，河南臻牛智慧牧業有限公司成立，法定代表人為石愛萍，註冊資本為3000萬元，經營範圍包含：牲畜飼養；牲畜銷售；穀物種植；蔬菜種植；油料種植；豆類種植；薯類種植；畜牧漁業飼料銷售等。企查查股權穿透顯示，該公司由皇氏集團旗下皇氏乳業集團有限公司及廣西臻牛畜牧有限公司共同持股。
-
----
-
-### 2026-08-11 13:51:39  #市場
-
-【有色板塊持續走弱 洛陽鉬業等多股跌超5%】午後有色板塊持續走弱，貴金屬方向領跌，洛陽鉬業、西部礦業、赤峰黃金跌超6%，紫金礦業、藏格礦業、四川黃金、鵬欣資源等跌幅靠前。
-
----
-
-### 2026-08-11 13:51:34  #其他
-
-布洛克：需要更低經濟增長、更高失業率來壓低通脹。
-
----
-
-### 2026-08-11 13:51:00  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish
-
-Spot gold extended losses, slipping below $4,370/oz and down 0.46% intraday.
-
----
-
-### 2026-08-11 13:50:35  #市場 #焦點
-
-現貨黃金失守4370美元/盎司，日內跌0.47%。
-
----
-
-### 2026-08-11 13:50:27  #市場 #焦點
-
-紐約期金失守4430美元/盎司，日內漲0.23%。
-
----
-
-### 2026-08-11 13:50:23  #MKT News #Star Stocks #Tencent
-
-【Tencent's WorkBuddy upgrades cross-device sync capabilities】WorkBuddy said it upgraded multi-end synchronization to enable real-time syncing of tasks, conversation records and outputs across PC, mobile app and mini-program, and to allow remote authorization and termination of PC tasks from mobile phones.
-
----
-
-### 2026-08-11 13:50:22  #其他
-
-【騰訊WorkBuddy升級多端同步能力】騰訊WorkBuddy宣佈升級多端同步功能，實現了PC、App、小程式三端的任務、對話記錄與產物的實時同步，並支援手機上遠端對電腦端任務進行授權與停止。
-
----
-
-### 2026-08-11 13:50:14  #資料
-
-布洛克：仍認為現金利率水平略偏緊縮。
-
----
-
-### 2026-08-11 13:49:38  #MKT News #DXY #Impact bearish
-
-Reserve Bank of Australia governor Bullock said the board has decided to wait for further information; a rate hike remains the primary consideration.
-
----
-
-### 2026-08-11 13:49:15  #其他
-
-布洛克：委員會決定等待更多資訊，加息仍在考慮之中。
-
----
-
-### 2026-08-11 13:48:35  #市場
-
-布洛克：衝突持續時間越長，企業越有可能將價格上漲轉嫁到產品中。
-
----
-
-### 2026-08-11 13:48:28  #市場 #焦點
-
-純鹼連續主力合約日內漲4%，現報998.00元。
-
----
-
-### 2026-08-11 13:48:14  #其他
-
-【馬斯克母子盛讚中國】8月11日，埃隆・馬斯克在社交平臺發文盛讚中國：“中國太棒了。我強烈鼓勵大家去那裡旅遊。”隨後，他的母親梅耶・馬斯克也在這條動態下留言表示贊同，並在評論中細緻描述了自己到訪中國的直觀體驗。 她提到，國內每一座城市都各具風情，擁有豐富多樣的人文古蹟可供遊覽。城市建築與街道環境乾淨整潔，基礎設施維護到位。當地民眾待人謙和有禮，勤懇務實，整體氛圍讓她充滿安全感，這也是她十分樂於到訪中國的重要原因。
-
----
-
-### 2026-08-11 13:48:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact bearish
-
-Reserve Bank of Australia Governor Bullock said reasons for raising rates include inf remaining too high and upside risks from the Middle East.
-
----
-
-### 2026-08-11 13:47:02  #MKT News #DXY #Impact bearish
-
-RBA Governor Bullock said the housing market will not constrain rate hikes.
-
----
-
-### 2026-08-11 13:46:59  #市場 #央行
-
-澳洲聯儲主席布洛克： 擔憂經濟若要提速，就難免引發物價上漲。
-
----
-
-### 2026-08-11 13:46:08  #MKT News
-
-Reserve Bank of Australia Governor Bullock said the housing market is not a reason for the bank to stand pat.
-
----
-
-### 2026-08-11 13:45:58  #公司 #國際
-
-SD Guthrie執行長：預計2026年剩餘時間毛棕櫚油價格將在每噸4,600至5,000馬來西亞林吉特之間。
-
----
-
-### 2026-08-11 13:45:41  #公司
-
-SD Guthrie執行長：厄爾尼諾現象或將影響2027年，甚至可能波及2028年的作物生產。
-
----
-
-### 2026-08-11 13:45:29  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks End Slightly Lower — New Zealand's stocks lost 28 points, or 0.2%, to close at 13,861 on Tuesday, tracking a decline on Wall Street overnight as rising oil prices amid uncertainty over the reopening of the Strait of Hormuz raised inflation concerns and doubts about whether the Fed will cut rates this year. Traders awaited the release of US inflation data this week for clues about the Fed's monetary policy at its upcoming meeting. Meanwhile, rising oil prices also raised questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the RBNZ's Q3 inflation expectations, due this week, after they accelerated in Q2. Energy, industrials, financials, and utilities mainly weighed on the index, with notable losses from Channel Infrastructure (-2.4%), Colonial Motor (-2.2%), Auckland International Airport (-1.6%), EBOS Group (-1.1%), Freightways Group (-1.1%), Infratil (-1.1%), Meridian Energy (-1.1%), ANZ Group (-0.6%), and A2 Milk (-0.6%).
-
----
-
-### 2026-08-11 13:45:22  #MKT News #Market Themes #AI Revolution
-
-Reserve Bank of India governor urged banks to inventory all AI models and implement board‑approved AI governance policies.
-
----
-
-### 2026-08-11 13:44:35  #央行 #國際
-
-印度央行行長敦促各銀行梳理全部人工智慧模型，建立經董事會批准的人工智慧治理政策。
-
----
-
-### 2026-08-11 13:43:54  #央行 #國際
-
-印度央行：銀行必須儲存完整的人工智慧模型清單。
-
----
-
-### 2026-08-11 13:43:38  #央行 #澳洲聯儲
-
-【澳洲聯儲主席：如有必要將再次加息】據報道，澳洲聯儲主席布洛克表示，委員會希望放緩經濟增長，認為通脹存在上行風險；如有必要，將再次加息。
-
----
-
-### 2026-08-11 13:42:22  #市場 #焦點
-
-焦煤連續主力合約日內漲4%，現報1325.50元。
-
----
-
-### 2026-08-11 13:42:18  #Trading Economics #Economy #Brunei #Inflation Rate #Importance 1
-
-Brunei Inflation Hits 2-1/2-Year High in June — Brunei’s annual inflation rose to 0.3% in June 2026 from 0.1% in each of the previous two months, marking the highest reading since December 2023. The latest result also marked the third consecutive month of rising consumer prices, with upward pressure broadening across several categories, including food and non-alcoholic beverages (1.5% vs 1.2% in May), clothing and footwear (3.5% vs -1.5%), furnishings and household maintenance (0.4% vs 0.2%), health (0.6% vs 0.4%), education (0.3% vs 0.3%), restaurants and hotels (0.5% vs 0.4%), recreation and culture (0.4% vs -1.0%). In the meantime, housing and utilities were almost flat (0.03% vs 0.2%), while prices fell further for communication (-0.2% vs -3.4%) and miscellaneous goods and services (-0.6% vs -0.6%). Also, transport cost fell 0.2%, shifting from a 0.4% gain in May. On a monthly basis, the CPI rose 0.2%, swinging from a 0.1% fall in May.
-
----
-
-### 2026-08-11 13:42:09  #公司
-
-【金溢科技在襄陽成立車路通科技公司】企查查APP顯示，近日，襄陽市車路通科技有限公司成立，法定代表人為吳國慶，註冊資本為1000萬元，經營範圍包含人工智慧應用軟體開發；物聯網技術研發；智慧車載裝置製造；通訊裝置製造；汽車零部件研發等。企查查股權穿透顯示，該公司由金溢科技間接全資持股。
-
----
-
-### 2026-08-11 13:41:50  #MKT News #Macro & Rates #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-【Analyst: Multiple indicators show Reserve Bank of Australia nearing end of tightening cycle】Analyst James Glynn says revised Reserve Bank of Australia forecasts point to a policy setting close to comfortable. The RBA has raised its unemployment path to 4.5% by December from 4.3% previously, cut its headline CPI forecast to 3.6% by December from 4.0%, and lowered trimmed‑mean inflation to 3.3% by December from 3.5%, with trimmed mean expected to reach 2.4% by June 2028. Glynn says the direction of these revisions is consistent with the RBA nearing the end of its tightening cycle.
-
----
-
-### 2026-08-11 13:41:23  #MKT News #Star Stocks #JD.com #Xiaomi #09618.HK #Impact bearish #01810.HK #09888.HK
-
-Hong Kong-listed tech shares weakened in choppy trading; JD.com (09618.HK) and Xiaomi Group (01810.HK) fell more than 3%, while Kuaishou (01024.HK) and Baidu (09888.HK) also slipped.
-
----
-
-### 2026-08-11 13:40:22  #MKT News
-
-Reserve Bank of Australia Governor Bullock said the board is carefully weighing the timing of a rate increase.
 
 ---
