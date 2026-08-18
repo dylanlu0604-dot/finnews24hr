@@ -1,7 +1,71 @@
 {
   "date": "2026-08-18",
-  "count": 1845,
+  "count": 1852,
   "items": [
+    {
+      "id": "mkt:01a01465-35bc-7aab-9077-2b4aaf23b1a0",
+      "time": "2026-08-18 18:22:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry spokesman said efforts are focused on easing the current crisis and restoring the memorandum of understanding (MoU)."
+    },
+    {
+      "id": "mkt:01a01464-f2c5-7aab-9077-2583fe949271",
+      "time": "2026-08-18 18:22:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【U.S. debt may hit $40 trillion months ahead of schedule】U.S. federal debt could breach $40.0 trillion this week, months earlier than previously projected, the Washington Post reports. The overturning of Trump-era tariffs has cost the Treasury billions in revenue, prompting accelerated borrowing to fund government outlays. Six months ago the CBO forecast fiscal-year debt at $39.4 trillion; Treasury data on Monday showed debt at $39.9 trillion and still rising. Faster accumulation could bring forward the deadline to raise the statutory debt limit — set at $41.1 trillion last year — and budget analysts say borrowing may hit that cap in early next year, forcing Congress to suspend or raise the limit to avoid default risk."
+    },
+    {
+      "id": "5045831",
+      "time": "2026-08-18 18:22:23",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【兆易創新：2026年半年度淨利潤同比增長1091.5%】兆易創新(603986.SH)釋出2026年半年度報告，實現營業收入115.66億元，同比增長178.67%；歸屬於上市公司股東的淨利潤68.57億元，同比增長1091.5%。公司Q2淨利潤53.96億，Q1淨利潤14.61億，據此計算，Q2淨利潤環比增長269%。"
+    },
+    {
+      "id": "5045830",
+      "time": "2026-08-18 18:22:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：敘利亞外交部長沙伊巴尼在伊斯坦布林會見美國特使湯姆・巴拉克，雙方就強化雙邊關係、解除對敘利亞剩餘制裁以及加快重建程序展開磋商。"
+    },
+    {
+      "id": "5045829",
+      "time": "2026-08-18 18:20:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星新材：控股子公司收到稅務催告書 涉稅款2123.91萬元】三星新材公告稱，公司控股子公司國華金泰近日收到主管稅務機關出具的《催告書》，其2025年1月1日至2026年8月11日期間合計2123.91萬元應繳稅款未在法定期限內繳納，稅務機關要求其自收到催告書之日起10日內繳清上述欠繳稅款及預估74.50萬元滯納金，逾期未履行將被依法強制執行。截至公告披露日，上述稅款及滯納金尚未繳納完畢，相關事項將影響公司2026年度歸母淨利潤，國華金泰存在被強制執行及業務無法正常開展的風險。"
+    },
+    {
+      "id": "mkt:01a01462-314c-7aab-9077-1a6627502b3a",
+      "time": "2026-08-18 18:19:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry spokesperson said mediators are awaiting a bilateral agreement between Oman and Iran on the Strait of Hormuz before resuming broader U.S.-Iran negotiations."
+    },
+    {
+      "id": "5045828",
+      "time": "2026-08-18 18:19:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達外交部發言人：調解方正等待阿曼與伊朗就霍爾木茲問題達成雙邊協議，之後才會重啟範圍更廣的美伊談判。"
+    },
     {
       "id": "mkt:01a01461-5096-7aab-9077-13bbe6775d06",
       "time": "2026-08-18 18:18:36",
