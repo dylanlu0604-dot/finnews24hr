@@ -1,7 +1,31 @@
 {
   "date": "2026-08-19",
-  "count": 137,
+  "count": 139,
   "items": [
+    {
+      "id": "mkt:01a01637-322f-7aab-9080-bc5ac1a51f50",
+      "time": "2026-08-19 02:51:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【U.S.-Canada tariff talks stall; chances of deal waning】Sources say the Trump administration is lowering market expectations that a last-minute deal will avert new tariffs due to take effect Wednesday. U.S. officials privately put the odds of a Tuesday agreement at about 50/50 or lower as negotiators head to a midnight deadline when billions of dollars of Canadian goods would face 50% tariffs. It is unclear whether the signals reflect genuine progress or a U.S. tactic to gain leverage; Trump is expected to speak again with Canadian Prime Minister Carney on Tuesday after a Monday call."
+    },
+    {
+      "id": "5046426",
+      "time": "2026-08-19 02:49:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥小麥期貨跌約1.8%，大豆油跌1.7%】週二（8月18日）紐約尾盤，彭博穀物分類指數跌0.55%，報32.2859點，美股開盤之前維持小幅上漲的狀態、之後持續下挫。CBOT玉米期貨跌0.36%，CBOT小麥期貨跌1.78%。CBOT大豆期貨跌0.06%，報12.1525美元/蒲式耳，豆粕期貨跌0.19%，豆油期貨跌1.71%。CBOT瘦肉豬期貨跌1.22%，活牛期貨漲0.17%，飼牛期貨漲0.44%。"
+    },
     {
       "id": "mkt:01a01632-f4f7-7aab-9080-b7d9bfb5cbdc",
       "time": "2026-08-19 02:47:13",
