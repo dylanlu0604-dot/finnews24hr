@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-19 03:46:47",
-  "count": 15108,
+  "updated": "2026-08-19 03:50:38",
+  "count": 15113,
   "items": [
+    {
+      "id": "mkt:01a0166c-29fc-7aab-9081-949272db6fd1",
+      "time": "2026-08-19 03:49:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "COMEX gold futures fell below $4,400/oz, down 1.64% intraday."
+    },
+    {
+      "id": "5046465",
+      "time": "2026-08-19 03:49:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。"
+    },
+    {
+      "id": "te:markets:576225",
+      "time": "2026-08-19 03:49:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%."
+    },
+    {
+      "id": "5046464",
+      "time": "2026-08-19 03:49:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報63.57美元/盎司。"
+    },
+    {
+      "id": "5046463",
+      "time": "2026-08-19 03:49:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4400美元/盎司，日內跌1.67%。"
+    },
+    {
+      "id": "mkt:01a01669-f8c8-7aab-9081-89d81bb2d23c",
+      "time": "2026-08-19 03:47:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions."
+    },
     {
       "id": "mkt:01a01668-0e61-7aab-9081-82fb3173f300",
       "time": "2026-08-19 03:45:13",
@@ -138478,18 +138533,6 @@
         "AI Revolution"
       ],
       "text": "Business Insider reports people familiar with the matter say former OpenAI chief product officer Kevin Weil is seeking a valuation of at least $750 mln for his newly founded AI science startup."
-    },
-    {
-      "id": "te:economy:574509",
-      "time": "2026-08-12 03:50:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Uruguay Industrial Output Rebounds in June — Uruguay's industrial production rose 5.4% year-on-year in June 2026 after falling 3.5% in the previous month, marking a strong rebound in manufacturing activity. The increase was driven primarily by a 7.8% rise in food products manufacturing, which contributed 3.2 percentage points to overall growth. Other food products manufacturing increased 6.3%. On a seasonally adjusted basis, industrial output climbed 8.0% month-on-month. Meanwhile, hours worked in the industrial sector rose 0.3% from a year earlier, while industrial employment declined 3.0%. On a year-to-date basis, industrial production increased 2.9%, while hours worked and employment fell 1.7% and 1.9%, respectively."
     }
   ]
 }
