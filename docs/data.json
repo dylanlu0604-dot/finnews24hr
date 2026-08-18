@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-18 12:49:56",
+  "updated": "2026-08-18 12:53:47",
   "count": 15200,
   "items": [
+    {
+      "id": "5045242",
+      "time": "2026-08-18 12:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國建築興業釋出中期業績 股東應占溢利1.33億港元 比減少65.48%】中國建築興業(00830)釋出截至2026年6月30日止6月中期業績，營業額30.54億港元，同比減少8.51%；股東應占溢利1.33億港元，同比減少65.48%；每股基本盈利5.91港仙。擬派發中期股息每股港幣1.8仙。"
+    },
+    {
+      "id": "5045241",
+      "time": "2026-08-18 12:51:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【361度釋出中期業績 權益持有人應占溢利9.26億元 比增長8.0%】361度(01361)釋出2026年度中期業績，收益61.6億元(人民幣，下同)，同比增長8.0%；權益持有人應占溢利9.26億元，同比增長8.0%；每股基本盈利44.4分。擬派發中期股息每股普通股22.2港仙。公告稱，於2026年6月30日，集團於中國內地共有5076間 361º品牌門店。按區域劃分，約76.3%的門店位於中國三線及以下城市，而5.3%及18.4%的門店分別位於中國一線及二線城市。集團鼓勵分銷商及授權零售商開設更大規模店面及升級至最新形象店，以及增加在商場、百貨及購物中心的新門店比例。2026年上半年，集團門店渠道結構持續最佳化，最新第十代店及第九代店佔比達74.9%。終端零售流水增長表現穩健，未來集團將持續推進門店平均店效穩定提升，體現渠道最佳化成效。"
+    },
     {
       "id": "mkt:01a01333-93ea-7aab-906f-4b076cbae544",
       "time": "2026-08-18 12:49:02",
@@ -139247,26 +139263,6 @@
         "Impact bullish"
       ],
       "text": "【Sources: GM to sell 50% stake in Indiana battery JV to Samsung SDI】Foreign media report GM will sell its 50% stake in a planned Indiana EV battery joint venture to partner Samsung SDI. Samsung SDI will acquire the 680-acre site, take control of the JV and own the planned battery plant in New Carlisle, Indiana. GM's exit from battery manufacturing is its latest strategic shift after EV demand fell short of expectations. People familiar say it is unclear how Samsung SDI will operate or dispose of the plant."
-    },
-    {
-      "id": "5035062",
-      "time": "2026-08-11 12:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哥倫比亞新政府宣佈承認以色列對戈蘭高地主權 】右翼的哥倫比亞新政府10日宣佈承認以色列對戈蘭高地擁有主權。此舉背離聯合國有關決議及國際社會長期立場。哥倫比亞外交部當天在社交媒體X發表宣告說，哥政府“承認以色列對這一地區的主權”，並認為以色列維持對戈蘭高地的控制“是其國家防禦的重要組成部分”。哥倫比亞成為繼美國後第二個作出這一承認的國家，美國於2019年宣佈承認以色列對戈蘭高地擁有主權。戈蘭高地是敘利亞西南部一塊狹長地帶，素有“中東水塔”之稱。以色列在1967年第三次中東戰爭中佔領這一戰略要地，此後保持實控並拒絕歸還敘利亞。"
-    },
-    {
-      "id": "te:markets:574292",
-      "time": "2026-08-11 12:51:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Extends Gains — The South Korean won traded around 1,414 per dollar, remaining near an over ten-month high touched last week, supported by persistent dollar-selling flows. The currency continued to benefit from the conversion of SK hynix's ADR proceeds into won, which has been a key factor behind its sharp appreciation in recent weeks. Additionally, chip exports surged 155.4% year-on-year in the first 10 days of August to $9.95 billion, reinforcing the won's underlying support from Korea's strong semiconductor-driven external position and robust global AI demand. Meanwhile, expectations for a September Federal Reserve rate hike have increased, lending some support to the dollar and limiting the won's gains ahead of key US inflation data. At the same time, uncertainty over the Strait of Hormuz and higher oil prices remained a headwind, raising concerns over Korea's import costs and inflation."
     }
   ]
 }
