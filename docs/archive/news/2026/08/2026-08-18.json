@@ -1,7 +1,132 @@
 {
   "date": "2026-08-18",
-  "count": 548,
+  "count": 561,
   "items": [
+    {
+      "id": "mkt:01a01278-07cf-7aab-906c-261b925a3e07",
+      "time": "2026-08-18 09:24:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【PBOC reverse repo operations net drain 95.8 bln yuan】The PBOC conducted 469.7 bln yuan of overnight reverse repos while 565.5 bln yuan of overnight reverse repos matured, producing a net withdrawal of 95.8 bln yuan. No other reverse-repo tenors were conducted today."
+    },
+    {
+      "id": "5044961",
+      "time": "2026-08-18 09:23:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行週二開展4697億元人民幣隔夜逆回購操作。"
+    },
+    {
+      "id": "5044960",
+      "time": "2026-08-18 09:23:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠958.0億元人民幣。"
+    },
+    {
+      "id": "5044959",
+      "time": "2026-08-18 09:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓執行長表示，冶金煤未來將成為高價值業務。"
+    },
+    {
+      "id": "5044958",
+      "time": "2026-08-18 09:22:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國債期貨<FGBLc1>下跌0.15%，法國國債期貨<FOATc1>下跌0.22%。"
+    },
+    {
+      "id": "5044957",
+      "time": "2026-08-18 09:21:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年8月18日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:01a01275-eba7-7aab-906c-1d56b60b7b4d",
+      "time": "2026-08-18 09:21:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC says the 7-day reverse repo operation on Aug 18, 2026 will be zero, based on primary dealers' demand."
+    },
+    {
+      "id": "5044956",
+      "time": "2026-08-18 09:21:44",
+      "tags": [],
+      "text": "港股恒指低開跌0.33％，國企指數跌0.29％，科指開跌0.28%。"
+    },
+    {
+      "id": "mkt:01a01275-c7de-7aab-906c-12fb94ce0aed",
+      "time": "2026-08-18 09:21:43",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's Hang Seng Index opened down 84.36 points (-0.33%) at 25,368.87 on Aug 18. Hang Seng TECH opened down 13.22 points (-0.28%) at 4,768.81. Hang Seng China Enterprises Index (HSCEI) opened down 24.59 points (-0.29%) at 8,415.38. Hang Seng Red Chip Index opened up 0.91 points (0.02%) at 4,162.39."
+    },
+    {
+      "id": "mkt:01a01275-b178-7aab-906c-0f40ec079089",
+      "time": "2026-08-18 09:21:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "00116.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hang Seng Index opened down 0.33% and the Hang Seng Tech Index opened down 0.28%. Chow Sang Sang (00116.HK) jumped about 11% at the open after saying it expects interim attributable profit of HKD 2.1–2.2 bln."
+    },
+    {
+      "id": "mkt:01a01275-0964-7aab-906c-04598bb2b3fa",
+      "time": "2026-08-18 09:20:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 20-year government bond yield rose 2.5 bps to 3.835%."
+    },
+    {
+      "id": "5044955",
+      "time": "2026-08-18 09:20:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升2.5個基點，至3.835%。"
+    },
+    {
+      "id": "5044954",
+      "time": "2026-08-18 09:20:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2771.00元。"
+    },
     {
       "id": "mkt:01a01272-a534-7aab-906b-f873a622aeb9",
       "time": "2026-08-18 09:18:18",

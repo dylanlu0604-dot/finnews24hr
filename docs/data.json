@@ -1,7 +1,132 @@
 {
-  "updated": "2026-08-18 09:21:01",
-  "count": 15195,
+  "updated": "2026-08-18 09:24:58",
+  "count": 15194,
   "items": [
+    {
+      "id": "mkt:01a01278-07cf-7aab-906c-261b925a3e07",
+      "time": "2026-08-18 09:24:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【PBOC reverse repo operations net drain 95.8 bln yuan】The PBOC conducted 469.7 bln yuan of overnight reverse repos while 565.5 bln yuan of overnight reverse repos matured, producing a net withdrawal of 95.8 bln yuan. No other reverse-repo tenors were conducted today."
+    },
+    {
+      "id": "5044961",
+      "time": "2026-08-18 09:23:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行週二開展4697億元人民幣隔夜逆回購操作。"
+    },
+    {
+      "id": "5044960",
+      "time": "2026-08-18 09:23:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠958.0億元人民幣。"
+    },
+    {
+      "id": "5044959",
+      "time": "2026-08-18 09:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓執行長表示，冶金煤未來將成為高價值業務。"
+    },
+    {
+      "id": "5044958",
+      "time": "2026-08-18 09:22:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國債期貨<FGBLc1>下跌0.15%，法國國債期貨<FOATc1>下跌0.22%。"
+    },
+    {
+      "id": "5044957",
+      "time": "2026-08-18 09:21:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年8月18日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:01a01275-eba7-7aab-906c-1d56b60b7b4d",
+      "time": "2026-08-18 09:21:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC says the 7-day reverse repo operation on Aug 18, 2026 will be zero, based on primary dealers' demand."
+    },
+    {
+      "id": "5044956",
+      "time": "2026-08-18 09:21:44",
+      "tags": [],
+      "text": "港股恒指低開跌0.33％，國企指數跌0.29％，科指開跌0.28%。"
+    },
+    {
+      "id": "mkt:01a01275-c7de-7aab-906c-12fb94ce0aed",
+      "time": "2026-08-18 09:21:43",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's Hang Seng Index opened down 84.36 points (-0.33%) at 25,368.87 on Aug 18. Hang Seng TECH opened down 13.22 points (-0.28%) at 4,768.81. Hang Seng China Enterprises Index (HSCEI) opened down 24.59 points (-0.29%) at 8,415.38. Hang Seng Red Chip Index opened up 0.91 points (0.02%) at 4,162.39."
+    },
+    {
+      "id": "mkt:01a01275-b178-7aab-906c-0f40ec079089",
+      "time": "2026-08-18 09:21:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "00116.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hang Seng Index opened down 0.33% and the Hang Seng Tech Index opened down 0.28%. Chow Sang Sang (00116.HK) jumped about 11% at the open after saying it expects interim attributable profit of HKD 2.1–2.2 bln."
+    },
+    {
+      "id": "mkt:01a01275-0964-7aab-906c-04598bb2b3fa",
+      "time": "2026-08-18 09:20:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 20-year government bond yield rose 2.5 bps to 3.835%."
+    },
+    {
+      "id": "5044955",
+      "time": "2026-08-18 09:20:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升2.5個基點，至3.835%。"
+    },
+    {
+      "id": "5044954",
+      "time": "2026-08-18 09:20:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2771.00元。"
+    },
     {
       "id": "mkt:01a01272-a534-7aab-906b-f873a622aeb9",
       "time": "2026-08-18 09:18:18",
@@ -139127,135 +139252,6 @@
         "公司"
       ],
       "text": "【王偉中包鋼會見中國能建董事長倪真】據內蒙古日報，8月10日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見中國能源建設集團有限公司黨委書記、董事長倪真一行。王偉中說，“十五五”時期，內蒙古基礎設施與產業專案投資建設空間廣闊、需求旺盛，希望中國能建加大投資力度，在能源、水利等基礎設施建設領域深化務實合作，圍繞綠色氫氨醇、新型儲能、綠色算力等新賽道謀劃佈局更多專案，加大研發投入和科技攻關力度，攜手推動地企合作實現更高水平互利共贏。同時，依託集團全球化市場佈局，聯合區屬國企開展規劃諮詢業務，更好帶動本地企業“走出去”。安全是發展的前提，希望中國能建繼續扛牢主體責任，守好安全生產底線。我們將持續最佳化營商環境，助力企業在內蒙古更好發展。"
-    },
-    {
-      "id": "mkt:019fee6b-f484-7aab-8fe3-562e7f5dcc66",
-      "time": "2026-08-11 09:24:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI index rose 1.00% intraday."
-    },
-    {
-      "id": "5034815",
-      "time": "2026-08-11 09:24:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奇瑞2027款艾瑞澤8 PRO正式上市】8月10日晚，奇瑞2027款艾瑞澤8 PRO正式上市。價格方面，1.6T舒適型、豪華型兩款車官方指導價11.39萬元、12.09萬元；2.0T豪華型、獵鷹500豪華型、獵鷹500尊享型三款車官方指導價12.99萬元、13.79萬元、14.59萬元。"
-    },
-    {
-      "id": "5034814",
-      "time": "2026-08-11 09:23:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國綜指漲幅擴大至1%，現報6365.61點。個股方面，三星電子漲超4%。"
-    },
-    {
-      "id": "5034813",
-      "time": "2026-08-11 09:23:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡海峽時報指數止跌回升；最新漲0.7%，報5736.28點。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608113837461354",
-      "time": "2026-08-11 09:23:08",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月11日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "5034812",
-      "time": "2026-08-11 09:22:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：上半年全球人形機器人出貨量增三倍 中國製造商佔97%】據市場研究機構Smart Analytics Global資料顯示，2026年上半年全球人形機器人出貨量約為19100臺，同比增長近三倍，中國人形機器人製造商佔全球97%以上的出貨量。其中，智元機器人首次超過宇樹科技，佔市場份額榜首，上半年出貨量達8400臺，佔全球出貨量的44%，而宇樹科技的出貨量為5900臺。出貨量遠超特斯拉及Figure AI等公司。此外，機構指出，工業及商業應用佔機器人總出貨量的70%以上，高於一年前的50%。"
-    },
-    {
-      "id": "5034811",
-      "time": "2026-08-11 09:22:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中煤在內蒙古成立清潔能源公司】企查查APP顯示，近日，中煤電力清潔能源（內蒙古）有限公司成立，經營範圍包含電氣裝置修理；新興能源技術研發；儲能技術服務；合同能源管理等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。"
-    },
-    {
-      "id": "5034810",
-      "time": "2026-08-11 09:21:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠465.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019fee69-37c9-7aab-8fe3-4f93fe6a57d7",
-      "time": "2026-08-11 09:21:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "PBOC said, citing open-market primary dealers' demand, the 7-day reverse repo on Aug 11, 2026 will be set at zero."
-    },
-    {
-      "id": "5034809",
-      "time": "2026-08-11 09:21:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4480美元/盎司，日內漲1.36%。"
-    },
-    {
-      "id": "5034808",
-      "time": "2026-08-11 09:21:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展了0億元7天期逆回購操作。"
-    },
-    {
-      "id": "mkt:019fee68-d299-7aab-8fe3-44621abcedcb",
-      "time": "2026-08-11 09:21:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong's HSI opened up 61.1 points (+0.24%) at 25,998.59 on Aug 11 (Tue). The Hang Seng Tech Index opened up 13.35 points (+0.27%) at 4,932.81. The H‑share index (HSCEI) opened up 32.22 points (+0.37%) at 8,654.06. The Red Chip Index opened up 9.4 points (+0.23%) at 4,152.25."
-    },
-    {
-      "id": "5034807",
-      "time": "2026-08-11 09:21:09",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.24％，國企指數漲0.37％，科指開漲0.27%，黃金股多股高開。"
-    },
-    {
-      "id": "mkt:019fee68-a17b-7aab-8fe3-3f501bd5b1f5",
-      "time": "2026-08-11 09:21:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish",
-        "02259.HK",
-        "06693.HK"
-      ],
-      "text": "Hong Kong stocks opened higher: Hang Seng Index +0.24%, Hang Seng Tech +0.27%. Gold miners led gains at the open; Zijin Gold International (02259.HK) +3.13%, Chifeng Gold (06693.HK) +2.55%."
     }
   ]
 }
