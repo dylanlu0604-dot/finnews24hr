@@ -1,7 +1,63 @@
 {
   "date": "2026-08-18",
-  "count": 1228,
+  "count": 1234,
   "items": [
+    {
+      "id": "5045408",
+      "time": "2026-08-18 15:15:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿聯酋港口巨頭Q2營收激增47%】阿聯酋最大港口運營商AD Ports Group財報顯示，在貿易路線多元化努力之下，該集團其二季度營收實現同比增長47%，達到19.3億美元。由於貿易要道霍爾木茲海峽頻繁受到封鎖干擾，該集團為確保貨物在動盪時期的正常流通，在第二季度全方位拓展了其在阿聯酋全境的海運、公路、鐵路及空運替代路線。貨物裝卸和支線運輸服務已經改道至阿曼灣的富查伊拉碼頭和霍爾法坎港。同時，AD Ports Group增配了400輛卡車，並與阿提哈德鐵路公司合作增加了鐵路服務班次，還推出了新的航空貨運解決方案。"
+    },
+    {
+      "id": "mkt:01a013b9-6a50-7aab-9072-046042ea8ee6",
+      "time": "2026-08-18 15:15:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Euro-area bonds join global selloff; yields hit multi-year highs】Euro-area government bond yields rose to multi-year highs on Tuesday, joining a global fixed-income selloff. German 10-year Bund yield climbed to 3.2478%, its highest since May 2011. French 10-year OAT yield rose to 4.0954%, the highest since November 2008. The German-French 10-year spread widened to 86bps, the largest since October 2025. Germany’s 30-year bond yield reached 3.7663%, the highest since July 2011. Markets said a prolonged Iran conflict could force governments to increase spending to offset Middle East energy-supply disruptions; a worsening geopolitical backdrop is also pushing up defence spending, further exacerbating concerns over public finances."
+    },
+    {
+      "id": "5045406",
+      "time": "2026-08-18 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.27%， 10年期主力合約漲0.07%， 5年期主力合約漲0.04%， 2年期主力合約漲0.03%。"
+    },
+    {
+      "id": "5045405",
+      "time": "2026-08-18 15:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【城堡證券：AI技術、應用和盈利三大賽道已開始分化，贏家各不相同】城堡證券近日指出，AI行業已不宜一概而論，不同維度的競爭格局已然出現分化。技術、應用、盈利三個賽道的勝出者未必是同一類市場參與者。城堡證券歐洲、中東與非洲地區固定收益主管Nohshad Shah近日撰文指出，AI資本週期正迎來實質性的成熟。舊有單一維度的評判框架已經失效，市場需要從不同視角分別審視行業參與者。"
+    },
+    {
+      "id": "5045404",
+      "time": "2026-08-18 15:13:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月18日滬深兩市漲停分析】滬指探底回升漲0.19%，農業、養殖業概念全線爆發。神奇製藥4連板，一圖看懂>>"
+    },
+    {
+      "id": "5045403",
+      "time": "2026-08-18 15:12:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月國內動力電池裝車量74.6GWh，同比增長33.5%】中國汽車動力電池產業創新聯盟公佈資料顯示，7月，國內動力電池裝車量74.6GWh，環比下降2.5%，同比增長33.5%。其中三元電池裝車量11.1GWh，佔總裝車量14.9%，環比下降12.1%，同比增長1.8%；磷酸鐵鋰電池裝車量63.1GWh，佔總裝車量84.6%，環比下降1.0%，同比增長40.5%。"
+    },
     {
       "id": "5045402",
       "time": "2026-08-18 15:11:51",
