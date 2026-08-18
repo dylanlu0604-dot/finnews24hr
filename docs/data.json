@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-18 22:15:36",
+  "updated": "2026-08-18 22:19:35",
   "count": 15142,
   "items": [
+    {
+      "id": "mkt:01a0153c-bce2-7aab-907c-db3f2150c089",
+      "time": "2026-08-18 22:18:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "【Volkswagen Anhui rolls out 100,000th smart EV in Hefei】Aug 18 — Volkswagen (Anhui) Co. rolled out its 100,000th smart electric vehicle in Hefei. The milestone marks Volkswagen Group’s first China joint venture dedicated to new-energy vehicles (NEVs) entering scaled production and a full product-matrix phase, bolstering Hefei’s NEV industrial cluster."
+    },
+    {
+      "id": "mkt:01a0153c-8e41-7aab-907c-d08ea59b1d19",
+      "time": "2026-08-18 22:18:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Documents show Ecuadorian diplomat Ivonne Baki has been nominated as a candidate for United Nations secretary-general."
+    },
+    {
+      "id": "5046243",
+      "time": "2026-08-18 22:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大不列顛哥倫比亞省發行6億加元2057年期債券，較基準利差+84.5個基點。"
+    },
+    {
+      "id": "5046242",
+      "time": "2026-08-18 22:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多外交官伊馮娜·巴基被提名為聯合國秘書長候選人。"
+    },
+    {
+      "id": "5046241",
+      "time": "2026-08-18 22:16:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾安徽第10萬輛智慧電動汽車在合肥下線】8月18日，大眾汽車（安徽）有限公司第10萬輛智慧電動汽車在合肥正式下線，標誌著這家大眾集團在華首家專注新能源汽車的合資企業邁入規模化生產、全矩陣佈局新階段，也為合肥新能源汽車產業叢集發展再添堅實支撐。（新華社）"
+    },
     {
       "id": "mkt:01a01539-7a68-7aab-907c-cfbb861508b8",
       "time": "2026-08-18 22:14:43",
@@ -138864,54 +138908,6 @@
         "MKT News"
       ],
       "text": "【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict."
-    },
-    {
-      "id": "te:markets:574464",
-      "time": "2026-08-11 22:18:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report."
-    },
-    {
-      "id": "5036131",
-      "time": "2026-08-11 22:17:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。"
-    },
-    {
-      "id": "5036130",
-      "time": "2026-08-11 22:17:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。"
-    },
-    {
-      "id": "te:economy:574463",
-      "time": "2026-08-11 22:16:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years."
-    },
-    {
-      "id": "5036129",
-      "time": "2026-08-11 22:15:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。"
     }
   ]
 }
