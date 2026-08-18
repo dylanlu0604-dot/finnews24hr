@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-19 05:28:36",
-  "count": 15114,
+  "updated": "2026-08-19 05:32:28",
+  "count": 15109,
   "items": [
+    {
+      "id": "mkt:01a016c9-b3a6-7aab-9083-00e33a05e9bf",
+      "time": "2026-08-19 05:31:52",
+      "tags": [
+        "MKT News",
+        "GOOG.O"
+      ],
+      "text": "According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers."
+    },
+    {
+      "id": "5046508",
+      "time": "2026-08-19 05:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪確認英偉達Aa1評級，展望維持正面。"
+    },
+    {
+      "id": "mkt:01a016c7-7d81-7aab-9082-fe2b6733610a",
+      "time": "2026-08-19 05:29:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook."
+    },
     {
       "id": "5046507",
       "time": "2026-08-19 05:25:54",
@@ -138505,74 +138536,6 @@
         "其他"
       ],
       "text": "CoreWeave 首席財務官： 預計年末在用電力規模將超過 1.85 吉瓦，高於此前給出的超 1.7 吉瓦指引。"
-    },
-    {
-      "id": "5036407",
-      "time": "2026-08-12 05:32:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoreWeave 首席財務官： 現有待交付訂單中，超 50% 對應的合同已啟動向客戶交付。"
-    },
-    {
-      "id": "5036406",
-      "time": "2026-08-12 05:31:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞聯邦銀行全財年淨利潤108.7億澳元，預估107.5億澳元。"
-    },
-    {
-      "id": "mkt:019ff2bc-6d39-7aab-8ffb-5080283dbcd6",
-      "time": "2026-08-12 05:31:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. judge blocks USPS from enforcing Trump order to curb mailed ballots】On the 11th, a U.S. federal judge ordered the U.S. Postal Service barred from enforcing President Trump’s executive order that would restrict mailed ballots. Trump issued the order on March 31 directing the Department of Homeland Security and the Social Security Administration to compile state-by-state lists of citizens eligible to vote and prohibiting the USPS from processing ballots from voters not on those lists. Twenty-three Democratic-led states and Washington, D.C., sued, arguing the order is unconstitutional. A Boston federal judge enjoined the order on June 25; the U.S. Court of Appeals for the First Circuit upheld that injunction on July 25. The administration subsequently filed an emergency appeal to the U.S. Supreme Court."
-    },
-    {
-      "id": "5036405",
-      "time": "2026-08-12 05:30:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美法官叫停美郵政局執行特朗普涉限制郵寄選票的行政令】美國一名聯邦法官下令，禁止美國郵政總署依據美國總統特朗普的行政命令限制郵寄投票。美國共和黨籍總統特朗普3月31日頒佈行政令，責成國土安全部和社會保障管理局以州為單位編纂具備合法投票資格的公民名單，同時禁止美國郵政局處理非名單內選民寄出的選票。民主黨主政的23個州和首都華盛頓隨後以違憲為由對行政令提起訴訟。6月25日，美國波士頓地區一位聯邦法官叫停了特朗普此項行政令的實施。7月25日，美國第一聯邦巡迴上訴法院維持原判，繼續禁止行政令實施。特朗普政府隨後向聯邦最高法院提出緊急申請。 (央視新聞)"
-    },
-    {
-      "id": "5036404",
-      "time": "2026-08-12 05:29:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。"
-    },
-    {
-      "id": "mkt:019ff2bb-3c76-7aab-8ffb-4c940b88b612",
-      "time": "2026-08-12 05:29:44",
-      "tags": [
-        "MKT News",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25."
-    },
-    {
-      "id": "mkt:019ff2bb-338f-7aab-8ffb-463032867192",
-      "time": "2026-08-12 05:29:42",
-      "tags": [
-        "MKT News",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4."
-    },
-    {
-      "id": "5036403",
-      "time": "2026-08-12 05:29:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。"
     }
   ]
 }

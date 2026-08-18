@@ -1,7 +1,38 @@
 {
   "date": "2026-08-19",
-  "count": 297,
+  "count": 300,
   "items": [
+    {
+      "id": "mkt:01a016c9-b3a6-7aab-9083-00e33a05e9bf",
+      "time": "2026-08-19 05:31:52",
+      "tags": [
+        "MKT News",
+        "GOOG.O"
+      ],
+      "text": "According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers."
+    },
+    {
+      "id": "5046508",
+      "time": "2026-08-19 05:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪確認英偉達Aa1評級，展望維持正面。"
+    },
+    {
+      "id": "mkt:01a016c7-7d81-7aab-9082-fe2b6733610a",
+      "time": "2026-08-19 05:29:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook."
+    },
     {
       "id": "5046507",
       "time": "2026-08-19 05:25:54",
