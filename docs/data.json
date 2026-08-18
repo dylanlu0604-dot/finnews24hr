@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-19 01:14:02",
-  "count": 15098,
+  "updated": "2026-08-19 01:17:55",
+  "count": 15097,
   "items": [
+    {
+      "id": "mkt:01a015df-f5c7-7aab-907f-a3ed08593def",
+      "time": "2026-08-19 01:16:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $155 million from six counterparties in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5046389",
+      "time": "2026-08-19 01:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋與美國兩國總統通電話 討論雙邊合作及地區局勢】當地時間18日，阿聯酋總統穆罕默德與美國總統特朗普通電話，就兩國合作及加強雙邊關係等議題進行了討論。當前，美國與伊朗的衝突仍在持續，為期兩個月的和平談判視窗期已於近日結束，未能就解決衝突取得任何進展。美方表示，伊朗在間接談判中拒絕做出讓步。（央視新聞）"
+    },
     {
       "id": "mkt:01a015dc-6043-7aab-907f-9bd6adb4b59a",
       "time": "2026-08-19 01:12:39",
@@ -138384,33 +138402,6 @@
         "其他"
       ],
       "text": "納斯達克100指數跌幅擴大至0.5%。"
-    },
-    {
-      "id": "5036292",
-      "time": "2026-08-12 01:16:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。"
-    },
-    {
-      "id": "mkt:019ff1d3-2852-7aab-8ff8-52465535ff09",
-      "time": "2026-08-12 01:16:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "mkt:019ff1d2-9f12-7aab-8ff8-49f3032b42bc",
-      "time": "2026-08-12 01:15:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234."
     }
   ]
 }
