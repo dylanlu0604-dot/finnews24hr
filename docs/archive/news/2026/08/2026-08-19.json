@@ -1,7 +1,53 @@
 {
   "date": "2026-08-19",
-  "count": 166,
+  "count": 171,
   "items": [
+    {
+      "id": "mkt:01a01651-5e23-7aab-9081-23bdb9e318b2",
+      "time": "2026-08-19 03:20:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026."
+    },
+    {
+      "id": "5046445",
+      "time": "2026-08-19 03:20:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。"
+    },
+    {
+      "id": "5046444",
+      "time": "2026-08-19 03:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。"
+    },
+    {
+      "id": "5046443",
+      "time": "2026-08-19 03:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。"
+    },
+    {
+      "id": "mkt:01a0164e-aacf-7aab-9081-1f90100f58ee",
+      "time": "2026-08-19 03:17:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again."
+    },
     {
       "id": "mkt:01a0164e-1639-7aab-9081-1196f048d26a",
       "time": "2026-08-19 03:16:51",

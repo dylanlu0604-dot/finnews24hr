@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-19 03:17:25",
-  "count": 15092,
+  "updated": "2026-08-19 03:21:14",
+  "count": 15095,
   "items": [
+    {
+      "id": "mkt:01a01651-5e23-7aab-9081-23bdb9e318b2",
+      "time": "2026-08-19 03:20:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026."
+    },
+    {
+      "id": "5046445",
+      "time": "2026-08-19 03:20:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。"
+    },
+    {
+      "id": "5046444",
+      "time": "2026-08-19 03:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。"
+    },
+    {
+      "id": "5046443",
+      "time": "2026-08-19 03:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。"
+    },
+    {
+      "id": "mkt:01a0164e-aacf-7aab-9081-1f90100f58ee",
+      "time": "2026-08-19 03:17:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again."
+    },
     {
       "id": "mkt:01a0164e-1639-7aab-9081-1196f048d26a",
       "time": "2026-08-19 03:16:51",
@@ -138333,22 +138379,6 @@
         "市場"
       ],
       "text": "週二（8月11日）紐約尾盤，ICE原糖期貨漲1.64%，ICE白糖期貨漲1.15%。ICE阿拉比卡咖啡期貨衝高回落最終漲0.08%，咖啡“C”期貨跌0.35%、報312.80美分/磅、北京時間18:50達到327.55美分。羅布斯塔咖啡期貨跌0.37%。紐約可可期貨跌4.97%，報5637美元/噸。倫敦可可期貨跌0.17%。芝加哥WCE雙低油菜籽期貨跌1.75%。ICE棉花期貨漲0.68%。"
-    },
-    {
-      "id": "5036350",
-      "time": "2026-08-12 03:20:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥比索繼續走強，匯率升至 1 美元兌 17.0862 比索，創 2 月以來最佳水平。"
-    },
-    {
-      "id": "5036349",
-      "time": "2026-08-12 03:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：針對接受 B 細胞耗竭或調節類藥物治療的患者，釋出蟲媒傳染病重症風險健康警示。目前尚無獲批的治療藥物、預防制劑以及人用疫苗，可預防美國本土流行的蟲媒傳染病。"
     }
   ]
 }
