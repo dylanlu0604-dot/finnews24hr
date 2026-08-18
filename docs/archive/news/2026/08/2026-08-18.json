@@ -1,7 +1,109 @@
 {
   "date": "2026-08-18",
-  "count": 1314,
+  "count": 1325,
   "items": [
+    {
+      "id": "5045463",
+      "time": "2026-08-18 15:47:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：目前食品通脹相對較低。"
+    },
+    {
+      "id": "mkt:01a013d6-7b51-7aab-9072-e36348e87bcd",
+      "time": "2026-08-18 15:46:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB chief economist Lane: inflation depends on energy prices."
+    },
+    {
+      "id": "mkt:01a013d6-6b44-7aab-9072-def9d5b830b2",
+      "time": "2026-08-18 15:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB chief economist LANE expects inflation to hover around 3% for the remainder of the year."
+    },
+    {
+      "id": "5045462",
+      "time": "2026-08-18 15:46:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：情況非常不明朗。"
+    },
+    {
+      "id": "5045461",
+      "time": "2026-08-18 15:46:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：預計今年剩餘時間通脹率將徘徊在3%左右。"
+    },
+    {
+      "id": "5045460",
+      "time": "2026-08-18 15:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本駐俄羅斯大使武藤顯被召見至俄羅斯外交部，停留25分鐘後離開，未對媒體發表任何評論。(CCTV國際時訊）"
+    },
+    {
+      "id": "5045459",
+      "time": "2026-08-18 15:46:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：通貨膨脹取決於能源價格。"
+    },
+    {
+      "id": "5045458",
+      "time": "2026-08-18 15:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天華新能：2026年半年度營收77.80億元 同比增125%】天華新能公告稱，2026年半年度實現營業收入77.80億元，同比增長125.00%；歸母淨利潤22.92億元，上年同期經調整後為淨虧損9085.97萬元，同比增幅2622.89%。公司2026年4月2日已向香港聯交所遞交H股發行並上市的申請。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a013d4-7dcc-7aab-9072-d2a19b930fa0",
+      "time": "2026-08-18 15:44:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Ukraine's foreign minister said Moscow should face rising costs for prolonging the conflict, including additional sanctions, diplomatic isolation and strict accountability for Russian crimes, for as long as it refuses peace."
+    },
+    {
+      "id": "5045457",
+      "time": "2026-08-18 15:44:44",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：美股倉位連續第三週改善】花旗策略師表示，受新增風險資金流入支撐，科技股集中的納斯達克100指數持續走高，美股配置水平連續第三週改善。戴維·周牽頭的研究團隊稱，標普500、納斯達克100以及羅素2000的整體倉位依舊偏向看多。“多個主要市場空頭敞口已回落，空頭擠壓效應的影響正在減弱。”團隊認為，倉位脆弱點集中在已經獲利的多頭組合，例如羅素2000以及部分歐洲市場。儘管面臨地緣政治與政策層面的不利因素，歐洲股市仍持續吸引新增風險資金流入。亞洲市場方面，韓國綜合指數出現大規模空頭回補，使市場倉位脫離極度看空區間。"
+    },
+    {
+      "id": "mkt:01a013d4-3739-7aab-9072-cc1d8bcba121",
+      "time": "2026-08-18 15:44:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Ukraine's foreign minister said Putin is continuing to prolong the conflict rather than accept Ukraine's realistic ceasefire proposal to end it."
+    },
     {
       "id": "5045456",
       "time": "2026-08-18 15:42:39",
