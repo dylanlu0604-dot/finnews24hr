@@ -1,7 +1,44 @@
 {
   "date": "2026-08-18",
-  "count": 834,
+  "count": 839,
   "items": [
+    {
+      "id": "5045153",
+      "time": "2026-08-18 11:25:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燒鹼連續主力合約日內漲3%，現報1951.00元。"
+    },
+    {
+      "id": "5045152",
+      "time": "2026-08-18 11:23:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4450美元/盎司，日內跌0.53%。"
+    },
+    {
+      "id": "te:markets:575985",
+      "time": "2026-08-18 11:22:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Falls in Broad Metals Retreat — Silver dropped toward $65 an ounce on Tuesday, reversing earlier gains amid a broad pullback across the metals market as investors locked in profits following a strong rally. Metals also faced pressure from rising oil prices, which kept inflationary risks and interest rate concerns in focus. The moves came as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Meanwhile, silver continued to find support from fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Silver also remained supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles, and artificial intelligence data center infrastructure."
+    },
+    {
+      "id": "5045151",
+      "time": "2026-08-18 11:22:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川：積極參與長江經濟帶多式聯運分散式協同資料鏈建設 打造“滬川多式聯運分散式資料服務中心”】四川省人民政府辦公廳近日印發《關於加快推進通道網、物流網、數聯網“三網”融合的實施意見》，意見提出，推動物流要素資料開放互聯。積極參與長江經濟帶多式聯運分散式協同資料鏈建設，打造“滬川多式聯運分散式資料服務中心”。制定省級物流公共資料共享開放清單並動態更新，開展面向場景應用的政務資料共享，依法合規推動物流公共資料有序開放。規範開展物流領域公共資料授權運營，擴大急用先行資料供給。支援物流企業、平臺企業等協同共建物流行業可信資料空間，建立健全企業資料採集、提取、應用、保護等機制，探索企業間資料共享共贏模式，促進物流資料流通利用。支援成都紮實推進物流資料開放互聯試點，探索建立公益性和市場化有機結合的物流資料流通利用機制。"
+    },
     {
       "id": "mkt:01a012e3-f1a2-7aab-906e-196c7c90b6dc",
       "time": "2026-08-18 11:22:03",
@@ -61,6 +98,15 @@
         "其他"
       ],
       "text": "中國7月份汽油出口42萬噸，同比降55.3%；1-7月累計汽油出口172萬噸，同比降64.4%。7月份柴油出口81萬噸，同比降0.4%；1-7月累計柴油出口353萬噸，同比降2.8%。7月份成品油進口248萬噸，同比降38.5%；1-7月累計成品油進口1,991萬噸，同比降14.9%。7月份石腦油進口121萬噸，同比降29%；1-7月累計石腦油進口770萬噸，同比降16.8%。7月份航空煤油進口0萬噸，同比增12.2%；1-7月累計航空煤油進口4萬噸，同比降81%。7月份液化天然氣進口550萬噸，同比增2.4%；1-7月累計液化天然氣進口3,379萬噸，同比降4.6%。7月份氣態天然氣進口510萬噸，同比降1.8%；1-7月累計氣態天然氣進口3,420萬噸，同比降1.3%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608183844363774",
+      "time": "2026-08-18 11:19:39",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "中國7月份稀土及其製品出口10,314噸，同比降16.9%，年累計稀土及其製品出口76,861噸，同比增7%。7月份氧化鋁出口30萬噸，同比增33%，年累計氧化鋁出口191萬噸，同比增21.7%。"
     },
     {
       "id": "5045146",
