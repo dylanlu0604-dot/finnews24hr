@@ -1,7 +1,40 @@
 {
   "date": "2026-08-18",
-  "count": 444,
+  "count": 448,
   "items": [
+    {
+      "id": "mkt:01a01243-4e0d-7aab-906a-ed1de8adaa7a",
+      "time": "2026-08-18 08:26:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: South Korea denied reports it discussed making semiconductors its first US investment."
+    },
+    {
+      "id": "mkt:01a01242-b652-7aab-906a-e135e9cdb02b",
+      "time": "2026-08-18 08:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen armed forces say 133 strikes against Houthi fighters in past 24 hours】Yemen armed forces said they carried out 133 strikes against Houthi fighters in the past 24 hours, targeting combat capabilities and personnel. The forces used rocket launchers, artillery and drones, with operations executed by units deployed on front-line positions."
+    },
+    {
+      "id": "5044890",
+      "time": "2026-08-18 08:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國否認有關正將晶片列為對美首項投資候選的報道】韓國總統府否認此前一則媒體報道，該報道稱儲存晶片正被商討作為韓國對美首項投資候選專案。韓國總統府發來簡訊表示，將晶片列為首個候選專案進行討論的說法 “並不屬實”；對於韓美之間的戰略投資磋商，總統府稱 “無法披露具體細節”。據韓國《中央日報》報道，韓國政府原計劃於本月晚些時候公佈的韓國對美首個投資專案，因美方突然提出要求韓方投資儲存晶片工廠，該專案前景陷入不確定性。該報援引多名未具名執政黨官員訊息稱，8 月 13 日在韓國總統府舉行的閉門貿易會議上，美方提出的儲存晶片投資要求是會議核心議題。"
+    },
+    {
+      "id": "5044889",
+      "time": "2026-08-18 08:24:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4430美元/盎司，日內漲0.33%。"
+    },
     {
       "id": "te:markets:575944",
       "time": "2026-08-18 08:23:22",
