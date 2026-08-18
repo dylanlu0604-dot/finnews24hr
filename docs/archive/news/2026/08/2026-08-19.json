@@ -1,7 +1,36 @@
 {
   "date": "2026-08-19",
-  "count": 232,
+  "count": 235,
   "items": [
+    {
+      "id": "5046482",
+      "time": "2026-08-19 04:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法庭檔案顯示，哈佛大學同意支付5300萬美元，就前停屍房主管盜竊遺體器官引發的家屬訴訟達成和解。"
+    },
+    {
+      "id": "mkt:01a01687-ffc3-7aab-9081-edda9395108d",
+      "time": "2026-08-19 04:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes."
+    },
+    {
+      "id": "5046481",
+      "time": "2026-08-19 04:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府正準備加大對伊朗的經濟施壓力度。"
+    },
     {
       "id": "mkt:01a01683-c9bb-7aab-9081-e487c022f8ab",
       "time": "2026-08-19 04:15:30",

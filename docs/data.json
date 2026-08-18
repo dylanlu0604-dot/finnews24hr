@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-19 04:17:45",
-  "count": 15107,
+  "updated": "2026-08-19 04:21:33",
+  "count": 15105,
   "items": [
+    {
+      "id": "5046482",
+      "time": "2026-08-19 04:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法庭檔案顯示，哈佛大學同意支付5300萬美元，就前停屍房主管盜竊遺體器官引發的家屬訴訟達成和解。"
+    },
+    {
+      "id": "mkt:01a01687-ffc3-7aab-9081-edda9395108d",
+      "time": "2026-08-19 04:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes."
+    },
+    {
+      "id": "5046481",
+      "time": "2026-08-19 04:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府正準備加大對伊朗的經濟施壓力度。"
+    },
     {
       "id": "mkt:01a01683-c9bb-7aab-9081-e487c022f8ab",
       "time": "2026-08-19 04:15:30",
@@ -138449,57 +138478,6 @@
         "公司"
       ],
       "text": "紐交所（NYSE）母公司洲際交易所（ICE）發行投資級債券，為收購MarketAxess融資37.5億美元。"
-    },
-    {
-      "id": "mkt:019ff27c-1d04-7aab-8ffa-71b25df3a202",
-      "time": "2026-08-12 04:20:47",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SEC filings show Musk close associate Gracias held a 6.5% passive ownership stake in SpaceX (SPCX.O) as of June 30, 2026."
-    },
-    {
-      "id": "5036379",
-      "time": "2026-08-12 04:20:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【法國央行預計第三季度經濟增長0.2%】當地時間8月11日，法國央行釋出最新經濟調查報告，預計法國今年第三季度國內生產總值（GDP）環比增長0.2%，與第二季度增速持平。法國央行表示，第三季度經濟增長預計主要受到市場服務業活動支撐。7月份，法國工業和市場服務業活動繼續增長，建築業活動總體保持穩定。法國央行預計，能源行業在連續兩個季度下滑後有望於第三季度反彈。法國央行同時指出，目前這一預測仍存在較大不確定性。未來可能出現的新一輪高溫天氣、中東局勢以及目前可獲得的三季度經濟資料仍較有限等因素，都可能影響經濟表現。法國國家統計與經濟研究所此前預計，法國第三季度GDP將增長0.1%。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ff27b-78f0-7aab-8ffa-6c51fa84b297",
-      "time": "2026-08-12 04:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "API weekly U.S. crude stock report for week ended Aug. 7 is due in 10 minutes."
-    },
-    {
-      "id": "te:markets:574512",
-      "time": "2026-08-12 04:18:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Slip as Oil Rebounds — US stocks closed lower on Tuesday as markets assessed energy prices and the prospects of a Federal Reserve rate hike this year. The S&P 500 lost 0.3%, the Nasdaq fell 0.3%, and the Dow shed 184 points. Crude oil prices were volatile amid conflicting signals over developments in the Middle East, paring earlier losses after Iran reiterated that it would keep the Strait of Hormuz closed until its demands are met. Treasury yields eased, but credit-sensitive hyperscalers declined, with Alphabet down 3.8%, Oracle losing 3.7%, Amazon shedding 2.1%, and SpaceX falling 3.9%. Intel (+0.2%) rose its planned stock offering by $5 billion to $20 billion. Nvidia (-0%) reportedly secured $500 billion in private financing from banks for AI infrastructure, increasing leverage across the sector. Investors now await Wednesday's CPI report after several FOMC members signaled a possible rate hike next month. SMCI (+0.4%) and CoreWeave (+2.4%) are scheduled to report after the bell."
-    },
-    {
-      "id": "5036378",
-      "time": "2026-08-12 04:18:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用汽車將在貸款協議中鎖定至多45億美元供應商庫存，以防供應紊亂。"
     }
   ]
 }
