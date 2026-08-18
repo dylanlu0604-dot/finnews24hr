@@ -1,7 +1,158 @@
 {
   "date": "2026-08-18",
-  "count": 1267,
+  "count": 1282,
   "items": [
+    {
+      "id": "mkt:01a013c8-2b13-7aab-9072-8d72b0bba440",
+      "time": "2026-08-18 15:31:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Per Yemen news agency, military sources say Houthi forces used drones to strike ARAMCO's Jazan refinery; Saudi authorities have not confirmed."
+    },
+    {
+      "id": "te:markets:576046",
+      "time": "2026-08-18 15:31:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.35% Lower — The DAX Index is losing 91 points. Losses were led by Infineon (-2.54%), Siemens Energy (-2.51%) and Siemens (-1.13%). Offsetting the fall, top gainers were Deutsche Post (1.14%), BASF (1.01%) and Deutsche Telekom (0.99%)."
+    },
+    {
+      "id": "5045435",
+      "time": "2026-08-18 15:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝控制的薩巴通訊社援引軍方訊息人士的話稱，該組織動用無人機襲擊了沙特阿美的吉贊煉油廠，沙特方面尚未對該訊息予以證實。"
+    },
+    {
+      "id": "5045434",
+      "time": "2026-08-18 15:30:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【交通運輸北斗定位模組強制性國標釋出 明年2月1日起實施】記者今天瞭解到，市場監管總局（國家標準委）批准釋出《交通運輸北斗衛星導航系統定位模組通用技術規範》強制性國家標準，將自2027年2月1日起實施。該標準的釋出實施將有效統一交通運輸行業北斗定位模組的產品技術規格，有力支撐行業數字化轉型與數智化升級，推動北斗系統在交通運輸領域規模化應用。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a013c7-48b8-7aab-9072-804dbe4556fb",
+      "time": "2026-08-18 15:30:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China's Shanghai Gold Exchange Gold T+D closed up 0.37% at 955.07 yuan/gram on Aug. 18 (Tuesday); Silver T+D closed down 0.64% at 15,899 yuan/kg."
+    },
+    {
+      "id": "mkt:01a013c7-3281-7aab-9072-79f8039844d3",
+      "time": "2026-08-18 15:30:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【Export-Import Bank of China new manufacturing loans near 500 billion yuan in Jan–Jul】The Export-Import Bank of China said it extended nearly 500 billion yuan of new manufacturing loans in Jan–Jul, increasing resource tilt to support high-quality manufacturing and build a modern industrial system led by advanced manufacturing. Loans to advanced manufacturing totaled about 200 billion yuan, roughly 40% of the total; remaining new lending focused on traditional industry upgrades, emerging industries and early-stage investment in future industries."
+    },
+    {
+      "id": "te:markets:576045",
+      "time": "2026-08-18 15:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.18% Lower — The CAC 40 Index is falling 16 points. Losses were driven by STMicroelectronics (-3.38%), Legrand (-1.81%) and Schneider Electric (-1.46%). Biggest rises came from TotalEnergies SE (1.33%), Dassault Systemes (1.08%) and ArcelorMittal (1.07%)."
+    },
+    {
+      "id": "mkt:01a013c6-d6e2-7aab-9072-763cba48ec03",
+      "time": "2026-08-18 15:29:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian media reported Yemeni drones attacked Saudi Aramco's Jazan refinery."
+    },
+    {
+      "id": "5045433",
+      "time": "2026-08-18 15:29:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國進出口銀行前7個月新發放製造業貸款近5000億元】記者今天（18日）瞭解到，今年以來，中國進出口銀行充分發揮政策性金融職能作用，加大資源傾斜力度，全力支援製造業高質量發展，助力構建以先進製造業為骨幹的現代化產業體系。今年1—7月，中國進出口銀行新發放製造業貸款近5000億元，重點支援了傳統產業轉型升級、新興產業發展壯大、未來產業提前佈局等領域，其中先進製造業貸款近2000億元，佔比40%。（央視新聞）"
+    },
+    {
+      "id": "5045432",
+      "time": "2026-08-18 15:29:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗方面報道：“葉門無人機襲擊沙特阿美吉贊煉油廠”。"
+    },
+    {
+      "id": "5045431",
+      "time": "2026-08-18 15:28:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海3宗待拍涉宅用地總起始價120.94億元】8月17日，上海土地交易市場釋出了九批次3宗涉宅用地的正式出讓公告，3宗地塊總土地出讓面積71648.45㎡，總規劃建築面積179032.66㎡，總起始價120.94億元，土拍時間為9月21日。其中，浦東新區宅地起始價15.21億元，起始樓面價40430元/㎡；黃浦區涉宅用地，起始價38.88億元，起始綜合樓面價96900元/㎡；靜安區宅地，起始價66.84億元，起始樓面價66000元/㎡。"
+    },
+    {
+      "id": "5045430",
+      "time": "2026-08-18 15:28:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技上市前獲加密市場熱捧】宇樹科技上市前獲加密市場熱捧，永續合約暗示股價漲幅或超300%。"
+    },
+    {
+      "id": "5045429",
+      "time": "2026-08-18 15:28:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "HUBER+SUHNER AG <HUBN.S>股價下跌10.9%，或將創下2020年3月以來最差單日表現。"
+    },
+    {
+      "id": "5045428",
+      "time": "2026-08-18 15:28:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝加哥商品交易所（CME）表示，原定於8月17日釋出的波動率指數將推遲釋出。"
+    },
+    {
+      "id": "te:markets:576043",
+      "time": "2026-08-18 15:28:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Fall Further on Tuesday — European stocks moved lower on Tuesday, with both the Stoxx 50 and Stoxx 600 slipping around 0.3% as markets pulled back further from recent record highs. Sentiment weakened after the US-Iran ceasefire expired and Tehran signaled a tougher military stance, raising concerns about renewed instability in the Middle East. Brent crude climbed toward $91 a barrel, increasing fears that higher energy costs could reignite inflation, while rising government bond yields added further pressure on equities. Basic resources stocks declined alongside weaker gold prices, whereas energy shares benefited from the rise in crude. Among major companies, ASML fell about 1.5% and Siemens lost 0.9%. In the UK, unemployment remained at 4.9% in the three months through June, slightly above expectations, while payroll employment increased by 83,000, below forecasts. Average weekly earnings rose 4.1% year-on-year. Investors now await ZEW sentiment surveys from Germany and the Euro Area."
+    },
     {
       "id": "mkt:01a013c4-8d92-7aab-9072-6891a87c61c7",
       "time": "2026-08-18 15:27:23",
