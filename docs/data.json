@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-19 00:42:37",
-  "count": 15105,
+  "updated": "2026-08-19 00:46:34",
+  "count": 15108,
   "items": [
+    {
+      "id": "mkt:01a015c2-27ae-7aab-907f-3fc78564818c",
+      "time": "2026-08-19 00:44:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources say ANTHROPIC's pre-IPO credit facility could exceed its $10 bln target."
+    },
+    {
+      "id": "5046376",
+      "time": "2026-08-19 00:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：預測市場的老闆們不會參加美國總統特朗普的白宮會議。"
+    },
+    {
+      "id": "mkt:01a015c1-6e76-7aab-907f-323229977129",
+      "time": "2026-08-19 00:43:13",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【UAE says ready to respond to any threat】UAE defence ministry said air-defence systems detected two ballistic missiles from the direction of Iran heading toward UAE; one fell outside territorial waters and the other inside, with no casualties or damage. The ministry said the country is on high alert, prepared to respond to any threat and will take measures to safeguard sovereignty, security and stability. It urged the public to obtain information only from official channels and avoid spreading unverified reports."
+    },
+    {
+      "id": "5046375",
+      "time": "2026-08-19 00:42:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱 Anthropic 要求各牽頭銀行分別提供約 12.5 億美元貸款，要求其餘主要參與銀行各提供約 10 億美元貸款。"
+    },
     {
       "id": "mkt:01a015c0-5620-7aab-907f-2b3935247479",
       "time": "2026-08-19 00:42:01",
@@ -138490,19 +138525,6 @@
         "其他"
       ],
       "text": "英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。"
-    },
-    {
-      "id": "mkt:019ff1b5-0121-7aab-8ff7-c5fb36e9cd45",
-      "time": "2026-08-12 00:43:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d."
     }
   ]
 }
