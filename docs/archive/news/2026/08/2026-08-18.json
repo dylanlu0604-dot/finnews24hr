@@ -1,7 +1,113 @@
 {
   "date": "2026-08-18",
-  "count": 561,
+  "count": 573,
   "items": [
+    {
+      "id": "mkt:01a0127b-ae67-7aab-906c-4ff3fb75d7f2",
+      "time": "2026-08-18 09:28:10",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share education sector opened higher; Xueda Education hit limit-up, while Angli Education, Kaiwen Education, Kede Education, Huatu Shanding and Chuanzhi Education also rose."
+    },
+    {
+      "id": "5044966",
+      "time": "2026-08-18 09:27:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊高開，學大教育漲停】教育板塊高開，學大教育漲停，昂立教育、凱文教育、科德教育、華圖山鼎、傳智教育跟漲。"
+    },
+    {
+      "id": "te:economy:575958",
+      "time": "2026-08-18 09:27:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Yield Scales Fresh 30-Year High — Japan’s 10-year government bond yield climbed to around 2.95% on Tuesday, reaching its highest levels since 1996 amid mounting fiscal concerns and growing expectations for an imminent interest rate hike from the Bank of Japan. The Takaichi administration’s plan to cut the consumption tax on food to 1% for two years has fueled market concerns, as the government has yet to identify an alternative revenue source and the measure is viewed as an ineffective response to inflation that may not deliver lasting price stability. Traders are also increasingly speculating on a BOJ rate hike as soon as September, after a growing number of policymakers called for a stronger response to mounting inflationary pressures. The central bank is also contending with persistent yen weakness and elevated energy costs driven by the Middle East conflict, which could further intensify inflationary pressures."
+    },
+    {
+      "id": "mkt:01a0127b-254a-7aab-906c-43e0e031cd93",
+      "time": "2026-08-18 09:27:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park spare cash? Short-term wealth-management yield snapshot】Tencent Licaitong (current + 7‑day annualized) ranged 0.7080%–1.3970%; WeChat Wallet LingqianTong 7‑day annualized ranged 0.8970%–1.0010%; Alipay Yu'ebao 7‑day annualized ranged 0.9010%–1.0280%."
+    },
+    {
+      "id": "mkt:01a0127a-e061-7aab-906c-3f1e09155e90",
+      "time": "2026-08-18 09:27:17",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened down 3.16 points (-0.08%) at 3979.49; Shenzhen Composite Index opened down 12.24 points (-0.08%) at 14692.03; CSI 300 Index opened down 7.02 points (-0.15%) at 4734.07; ChiNext Index opened down 9.17 points (-0.25%) at 3730.99; STAR 50 Index opened down 2.48 points (-0.14%) at 1786.37."
+    },
+    {
+      "id": "5044965",
+      "time": "2026-08-18 09:26:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "HSG尋求募集12億美元，作為自紅杉資本分拆以來的首支美元基金。"
+    },
+    {
+      "id": "mkt:01a0127a-1912-7aab-906c-33b78180b5db",
+      "time": "2026-08-18 09:26:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump's Tuesday schedule (Beijing time)】Beijing time Aug 18 20:00 — White House: handle administrative business. Beijing time Aug 18 23:00, Aug 19 00:00, 02:30, 04:00, 05:00 — Oval Office: series of policy meetings."
+    },
+    {
+      "id": "5044964",
+      "time": "2026-08-18 09:26:06",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【頻準鐳射上市首日開盤大漲超488%】頻準鐳射上市首日開盤漲488.61%，現報1100元，該股發行價為186.88元。按開盤價計算，投資者中一簽（500股）浮盈約45.66萬元。上海頻準鐳射科技股份有限公司的主營業務是精準鐳射器的研發、生產與銷售。"
+    },
+    {
+      "id": "5044963",
+      "time": "2026-08-18 09:26:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周大生漲超11% 預期中期淨利同比大增】截至發稿，周大生(001166.HK)漲11.02%。根據公告，公司預計來自持續經營業務的本公司擁有人應占溢利取得約21億港元至22億港元，而2025年同期為9.1億港元。"
+    },
+    {
+      "id": "mkt:01a01279-505d-7aab-906c-2ca3fbb34999",
+      "time": "2026-08-18 09:25:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-shares opened slightly lower: Shanghai Composite down 0.08%, Shenzhen Composite Index down 0.08%, ChiNext Index down 0.25%. The priciest A-share IPO this year, N Pinzhun, surged 488.61% on its debut, pushing the share price above 1,000 yuan."
+    },
+    {
+      "id": "5044962",
+      "time": "2026-08-18 09:25:17",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.08％，深成指跌0.08％，創業板跌0.25％。"
+    },
     {
       "id": "mkt:01a01278-07cf-7aab-906c-261b925a3e07",
       "time": "2026-08-18 09:24:11",
@@ -38,6 +144,15 @@
         "公司"
       ],
       "text": "必和必拓執行長表示，冶金煤未來將成為高價值業務。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608183844096850",
+      "time": "2026-08-18 09:22:50",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展4697億元隔夜逆回購操作】央行公告，根據公開市場業務一級交易商的需求，2026年8月18日7天期逆回購操作量為零。同時，開展了4697億元隔夜逆回購操作。"
     },
     {
       "id": "5044958",
