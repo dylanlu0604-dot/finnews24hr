@@ -1,7 +1,46 @@
 {
   "date": "2026-08-19",
-  "count": 289,
+  "count": 293,
   "items": [
+    {
+      "id": "5046505",
+      "time": "2026-08-19 05:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.32%，報15045點。"
+    },
+    {
+      "id": "5046504",
+      "time": "2026-08-19 05:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於8月27日在休斯頓主持共和黨全國委員會籌款晚宴。"
+    },
+    {
+      "id": "5046503",
+      "time": "2026-08-19 05:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將出席共和黨全國委員會為肯·帕克斯頓舉辦的籌款活動。"
+    },
+    {
+      "id": "mkt:01a016b8-461e-7aab-9082-e3b40f396e16",
+      "time": "2026-08-19 05:12:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase."
+    },
     {
       "id": "mkt:01a016b2-ae3d-7aab-9082-d8feb047434c",
       "time": "2026-08-19 05:06:43",
