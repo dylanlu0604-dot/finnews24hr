@@ -1,7 +1,82 @@
 {
   "date": "2026-08-18",
-  "count": 1339,
+  "count": 1348,
   "items": [
+    {
+      "id": "5045479",
+      "time": "2026-08-18 15:53:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉宣佈，特斯拉上海超級工廠第600萬個電池包下線。"
+    },
+    {
+      "id": "5045478",
+      "time": "2026-08-18 15:53:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達140億港元。"
+    },
+    {
+      "id": "te:markets:576057",
+      "time": "2026-08-18 15:53:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Log Sixth Straight Loss — The CAC 40 fell 0.4% to 8,544 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal and the reopening of the Strait of Hormuz continued to wane. With the temporary US-Iran ceasefire now expired, Tehran announced it would adopt a \"fully offensive\" military posture following Washington's decision not to extend the truce. Domestically, Prime Minister Sébastien Lecornu is set to unveil a 2027 budget aimed at reducing the deficit below 5%, warning that failure to secure an agreement could delay the fiscal plan until next year and push the deficit as high as 6.5%. Among individual stocks, Schneider Electric (-1.2%), Safran (-1.1%), and STMicroelectronics (-3.3%) led the declines. In contrast, TotalEnergies climbed 1.3% to its highest level in more than two months, supported by higher oil prices amid fading hopes for a Middle East peace deal and the reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "5045477",
+      "time": "2026-08-18 15:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠雲鈦業：取得招商銀行不超過2200萬元股票回購專項貸款承諾函】8月18日，惠雲鈦業釋出公告稱，公司於近日收到招商銀行股份有限公司佛山分行出具的《貸款承諾函》，貸款金額不超過2200萬元，且不超過實際回購金額的90%；貸款期限不超過3年；貸款用途專項用於本公司股票回購。此前，公司曾於2026年8月4日召開董事會，審議透過了第二期回購公司股份方案，同意使用不低於2000萬元且不超過3000萬元的自有資金或自籌資金，以集中競價方式回購部分公司A股股份，回購的股份將用於轉換上市公司發行的可轉換為股票的公司債券。"
+    },
+    {
+      "id": "mkt:01a013db-565c-7aab-9073-09f37e766a32",
+      "time": "2026-08-18 15:52:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【U.S.-Iran tensions lift oil; yen hits two-and-a-half-week low】Oil prices rose on renewed U.S.-Iran tensions after Trump said the U.S. will not seek to extend its memorandum of understanding with Iran and threatened to bomb Oman, claiming the Gulf state could block a peace deal. The yen weakened to its lowest in two-and-a-half weeks against the dollar as persistently low FX volatility has boosted demand for carry trades—borrowing low-yield currencies to invest in higher-yielding ones—continuing to pressure the yen, ING analyst Chris Turner said. USD/JPY traded as high as 159.77 intraday."
+    },
+    {
+      "id": "5045476",
+      "time": "2026-08-18 15:52:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溯聯股份：實控人韓宗俊增持計劃實施過半，已增持約1499.77萬元】溯聯股份公告，公司實際控制人、控股股東、董事長兼總經理韓宗俊先生此前披露的增持計劃實施期限已過半。截至公告日，韓宗俊透過集中競價方式累計增持公司股份40.08萬股，佔公司當前總股本（202,167,392股）的0.20%，增持金額合計約1499.77萬元。本次增持計劃金額區間為不低於2000萬元、不高於4000萬元。"
+    },
+    {
+      "id": "5045475",
+      "time": "2026-08-18 15:51:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：政府需要避免“過於籠統”的補貼計劃。"
+    },
+    {
+      "id": "5045474",
+      "time": "2026-08-18 15:51:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日出東方：2026年半年度營收2.10億元 淨利同比降11.27%】日出東方公告稱，2026年半年度實現營業收入2.10億元，同比增長12.85%；歸屬於上市公司股東的淨利潤3664.63萬元，同比下降11.27%。本報告期不進行利潤分配或公積金轉增股本。"
+    },
     {
       "id": "5045473",
       "time": "2026-08-18 15:50:40",
@@ -134,6 +209,15 @@
         "國際"
       ],
       "text": "歐洲央行首席經濟學家連恩：天氣事件會對通貨膨脹造成上行壓力。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608183844532092",
+      "time": "2026-08-18 15:47:14",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行首席經濟學家連恩：預計今年剩餘時間通脹率將徘徊在3%左右】歐洲央行首席經濟學家連恩稱，通貨膨脹取決於能源價格，預計今年剩餘時間通脹率將徘徊在3%左右。"
     },
     {
       "id": "5045463",
