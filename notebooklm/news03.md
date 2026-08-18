@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-18 23:42:04_
-_本檔包含 3111 則快訊，約 606379 字_
+_更新時間：2026-08-19 00:02:12_
+_本檔包含 3118 則快訊，約 605495 字_
+
+---
+
+### 2026-08-16 04:38:12  #國際
+
+伊朗譴責以色列持續襲擊黎巴嫩。
+
+---
+
+### 2026-08-16 04:33:05  #MKT News
+
+OpenAI CODEX product head said Sol can run an efficient Luna agent team, with the models highly familiar with one another and able to cooperate to achieve objectives at striking speed and efficiency.
+
+---
+
+### 2026-08-16 04:28:11  #MKT News
+
+Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'.
+
+---
+
+### 2026-08-16 04:22:29  #MKT News
+
+Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit.
+
+---
+
+### 2026-08-16 04:17:50  #其他
+
+利比亞發電站附近發生爆炸，多臺發電機組停止執行。
+
+---
+
+### 2026-08-16 04:09:56  #MKT News #Commodities #Energy
+
+Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion.
+
+---
+
+### 2026-08-16 03:47:12  #其他
+
+羅賓漢進一步深耕私募市場，設立規模2.255億美元的基金，允許個人投資者押注Y Combinator孵化的早期初創企業。
+
+---
+
+### 2026-08-16 03:46:55  #MKT News
+
+【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet "shadow liabilities" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions.
+
+---
+
+### 2026-08-16 03:28:19  #MKT News
+
+Al Arabiya TV cited Hamas sources saying a delegation led by Khaled al-Hayya will travel to Cairo tonight for consultations.
+
+---
+
+### 2026-08-16 03:16:32  #公司 #焦點
+
+【英偉達洽談向SB Energy投資30億美元，系OpenAI資料中心交易組成部分】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團支援，負責為OpenAI開發俄亥俄州大型資料中心專案。這筆投資談判，是英偉達與OpenAI、SB Energy談判的一部分；英偉達擬為規劃中的俄亥俄資料中心園區提供約1000億美元信貸支援。這類交易越來越多，英偉達憑藉自身雄厚財力扶持AI相關企業與專案，以此推動各家企業採購、使用英偉達硬體。
+
+---
+
+### 2026-08-16 03:15:44  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+The Information reports NVIDIA (NVDA.O) is in talks to invest $3 bln in SB Energy as part of an OpenAI data-center deal.
+
+---
+
+### 2026-08-16 03:15:14  #其他
+
+英偉達正洽談向SB Energy投資30億美元，作為OpenAI資料中心交易的一部分。
+
+---
+
+### 2026-08-16 03:07:31  #國際
+
+卡達外交部發言人：外交斡旋仍在推進之際，有關伊朗飛行員的誤導性言論令我方感到意外。
+
+---
+
+### 2026-08-16 03:04:07  #MKT News
+
+Al Arabiya TV quoted Marib local authorities saying an attack injured people and damaged civilians' homes, vehicles and other property.
+
+---
+
+### 2026-08-16 03:03:35  #MKT News
+
+Al Arabiya reported Marib, Yemen local authorities said Houthi forces fired four ballistic missiles and four drones at residential areas.
+
+---
+
+### 2026-08-16 02:46:12  #央行 #國際
+
+伊朗央行：由於美國與以色列的敵對軍事及網路行動，某境外服務商撤銷了部分網站的安全證書，導致使用者端出現 SSL 安全警告。自身基礎設施未遭到網路攻擊。
+
+---
+
+### 2026-08-16 02:45:05  #MKT News
+
+Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period.
+
+---
+
+### 2026-08-16 02:44:49  #MKT News
+
+Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded.
+
+---
+
+### 2026-08-16 02:43:13  #國際
+
+美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。
+
+---
+
+### 2026-08-16 02:42:49  #國際
+
+卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。
+
+---
+
+### 2026-08-16 02:42:43  #國際
+
+卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。
+
+---
+
+### 2026-08-16 02:42:40  #MKT News
+
+Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation.
+
+---
+
+### 2026-08-16 02:42:19  #MKT News
+
+Qatar's Foreign Ministry said it took necessary measures to defend its territory after an Iranian pilot violated Qatari airspace.
+
+---
+
+### 2026-08-16 02:41:49  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Qatar's foreign ministry said an Iranian pilot's aircraft violated Qatari airspace and failed to respond to Doha's attempts to make contact.
+
+---
+
+### 2026-08-16 02:41:11  #國際
+
+卡達否認扣押伊朗飛行員。
+
+---
+
+### 2026-08-16 02:40:18  #MKT News
+
+Qatar's foreign ministry denies detaining an Iranian pilot.
+
+---
+
+### 2026-08-16 02:35:17  #國際
+
+黎巴嫩媒體：以色列對塔盧薩鎮發動猛烈空襲。
+
+---
+
+### 2026-08-16 02:29:15  #國際
+
+伊朗外交部：以色列必須停止在黎巴嫩南部的侵略行動，並從被佔領地區撤出。
+
+---
+
+### 2026-08-16 02:29:04  #MKT News
+
+Iran's foreign ministry said it reiterated calls to halt Israeli aggression in southern Lebanon and for Israeli forces to withdraw from occupied territories.
+
+---
+
+### 2026-08-16 02:17:25  #MKT News
+
+Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front.
+
+---
+
+### 2026-08-16 02:17:22  #公司 #國際
+
+海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。
+
+---
+
+### 2026-08-16 02:16:33  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon.
+
+---
+
+### 2026-08-16 02:14:46  #國際
+
+以色列媒體：地方當局已通知上加利利居民，夜間會聽到爆炸聲，這是以軍在黎巴嫩開展軍事行動造成。
+
+---
+
+### 2026-08-16 02:04:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemeni sources said a fourth explosion struck Marib, caused by shelling from Houthi forces.
+
+---
+
+### 2026-08-16 02:04:04  #其他
+
+葉門：馬裡卜遭胡塞武裝炮擊，發生第四起爆炸。
+
+---
+
+### 2026-08-16 02:03:31  #國際
+
+【受美國海上封鎖影響，伊朗實際上已經停止汽油進口】伊朗議會能源委員會發言人禮薩·塞帕萬週六表示，受美國海上封鎖影響，伊朗實際上已經停止汽油進口。“我們目前面臨海上封鎖，汽油進口已經中斷。”塞帕萬警告，如果推行擬議中的國民身份證燃油配給方案，政府後續或將被迫按照國際市場及波斯灣離岸價進口汽油，進而推高成本，擴大財政赤字。他稱，受機動車保有量影響，伊朗正遭遇燃油供應難題。塞帕萬表示，伊朗汽油日產量已達峰值1.3億升，但日消耗量為1.37億升。他稱：“即便達到這一產出水平，我們依舊面臨燃油供應缺口。”
+
+---
+
+### 2026-08-16 01:59:47  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation.
+
+---
+
+### 2026-08-16 01:59:28  #MKT News #Brent #Impact bullish #WTI #DXY
+
+Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz.
+
+---
+
+### 2026-08-16 01:55:23  #MKT News
+
+Tajikistan’s energy and water resources minister and transport minister visited Tehran for talks with Iranian counterparts and met Iranian foreign minister Araghchi on Saturday evening, the Iranian foreign ministry said. Araghchi urged leveraging the countries’ existing diversified potential to develop and strengthen bilateral relations, particularly in economic and trade cooperation.
 
 ---
 
@@ -18558,197 +18792,5 @@ At the morning open, China’s main futures contracts were mixed. Coking coal, N
 ### 2026-08-14 08:53:59  #公司
 
 【中芯國際趙海軍：二季度晶圓平均銷售單價環比提升5.7%】8月14日上午，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度，公司晶圓量價齊升，單季收入突破三十億美元，各項核心經營資料同比與環比均實現了大幅增長。其中，出貨量環比增加了14.4%，晶圓平均銷售單價環比提升了5.7%；出貨量的增加主要源於人工智慧對配套晶片需求的激增與客戶的提拉出貨。當季公司新增晶圓8000片摺合12英寸月產能；產能利用率為93.7%，環比增長0.6個百分點。
-
----
-
-### 2026-08-14 08:53:28  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable.
-
----
-
-### 2026-08-14 08:53:26  #國際
-
-【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
-
----
-
-### 2026-08-14 08:52:59  #公司
-
-中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。
-
----
-
-### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
-
----
-
-### 2026-08-14 08:51:59  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization.
-
----
-
-### 2026-08-14 08:51:52  #其他
-
-中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。
-
----
-
-### 2026-08-14 08:51:22  #MKT News
-
-SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2.
-
----
-
-### 2026-08-14 08:50:58  #市場 #國際
-
-5年期日本國債收益率下跌1.5個基點，至2.105%。
-
----
-
-### 2026-08-14 08:50:12  #其他
-
-中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。
-
----
-
-### 2026-08-14 08:49:59  #公司
-
-中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。
-
----
-
-### 2026-08-14 08:49:27  #MKT News
-
-Spot silver slid to $64/oz, down 0.74% intraday.
-
----
-
-### 2026-08-14 08:49:08  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,330/oz, down 0.48% on the day.
-
----
-
-### 2026-08-14 08:48:55  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌0.78%。
-
----
-
-### 2026-08-14 08:48:54  #市場
-
-紐約期銀日內跌1%，現報64.33美元/盎司。
-
----
-
-### 2026-08-14 08:48:07  #MKT News
-
-Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; Melinda Cilento has been appointed to the RBA MPC for a five-year term beginning Sept. 1.
-
----
-
-### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
-
-【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
-
----
-
-### 2026-08-14 08:46:47  #其他
-
-【兩市融資餘額較上日增加23.89億元】截至8月13日，上交所融資餘額報13563.08億元，較前一交易日增加10.72億元；深交所融資餘額報12850.60億元，較前一交易日增加13.17億元；兩市合計26413.68億元，較前一交易日增加23.89億元。
-
----
-
-### 2026-08-14 08:46:15  #公司
-
-【維珍銀河新一代Delta級飛船首飛推遲至2027年】維珍銀河宣佈，其新一代Delta級亞軌道太空飛船的首次商業飛行將推遲至2027年2月。此前的計劃是在2026年第四季度開始商業運營。維珍銀河CEO邁克爾·科爾格拉齊爾表示，此次推遲並非由單一重大問題導致，而是在新飛船的組裝過程中遇到了“數百個相對較小但重要的安裝任務”的工期延長。
-
----
-
-### 2026-08-14 08:45:52  #MKT News
-
-Saudi outlet Hadas, citing Yemeni military sources, said Houthi forces used drones to strike the Huohe and Muha districts in western Yemen. Government forces said they successfully repelled a Houthi attack on the Bahh front east of Mocha.
-
----
-
-### 2026-08-14 08:44:48  #央行 #資料 #市場 #國際
-
-【中信期貨：白銀短線高位震盪執行，關注油價走勢和美國7月零售資料指引】日內白銀整體震盪偏弱執行，跌幅大於黃金，海內外銀價跌幅均超1%，其中COMEX白銀跌破65美元/盎司。美國7月PPI、核心PPI整體走軟幅度超市場預期，推動美元和美債收益率下行。而聯儲官員哈瑪克表示不確信通脹會繼續改善，疊加海峽持續封鎖，伊朗最高領袖顧問威脅若條件得不到滿足、或升級衝突，通脹前景充滿不確定性，引發部分資金獲利離場。據新華社報道，當地時間12日，伊朗“波斯灣海峽管理局”表示，霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。13日伊朗最高領袖顧問表態，若條件得不到滿足，或升級衝突。
-
----
-
-### 2026-08-14 08:43:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Crude ETF holdings report live; USO and BNO positions decline】Aug 13 — WTI (USO) nominal exposure ~22.248 mln barrels, down 3.571 mln barrels on the day; Brent (BNO) futures positions ~7.576 mln barrels, down 56,000 barrels.
-
----
-
-### 2026-08-14 08:43:39  #其他
-
-【上半年我國航空物流發展保持韌性】中國物流與採購聯合會近日釋出上半年航空物流發展情況分析報告。據介紹，今年以來，我國航空貨運展現了極強的抗週期韌性，航空物流貨物結構發生深刻變化，以人工智慧硬體為代表的高階製造業成為新的增長極。上半年，我國航空貨郵運輸量實現6.0%的正增長，特別是國際航線，上半年完成貨郵運輸量232萬噸，同比大幅增長13.9%，增速顯著高於全行業平均水平。國際航線在整體業務中的佔比持續攀升，不僅穩住了行業基本盤，更成為拉動我國航空物流逆勢上揚的核心引擎。
-
----
-
-### 2026-08-14 08:42:52  #公司
-
-【美聯新材：公司控股企業輝虹科技的EX電子材料銷量穩步增長】美聯新材(300586)8月14日在互動平臺表示，隨著下游需求增加，目前公司控股企業輝虹科技的EX電子材料銷量穩步增長。
-
----
-
-### 2026-08-14 08:42:02  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-08-14 08:41:55  #MKT News #HESAI-W.HK #Impact bearish
-
-Shenzhen Stock Exchange said Hesai-W will be removed from the Hong Kong Stock Connect eligible securities list, effective Aug 14.
-
----
-
-### 2026-08-14 08:41:24  #公司
-
-【深交所：禾賽－Ｗ被調出港股通標的證券名單】深交所公告，港股通標的證券名單發生調整並自2026年08月14日起生效，禾賽－Ｗ被調出。
-
----
-
-### 2026-08-14 08:41:01  #市場 #國際
-
-2年期日本國債收益率下跌1個基點至1.635%。
-
----
-
-### 2026-08-14 08:39:47  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index jumped 1.7% to above 69,400, while the broader Topix Index gained 0.5% to 4,196 on Friday, with Japanese shares extending their rally and following a strong lead from Wall Street as subdued US inflation data prompted traders to scale back expectations for a Federal Reserve rate hike in September. Markets are now pricing in around a 35% chance of a 25 basis point Fed rate hike in September, down from 55% a week earlier. Domestically, investors are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weak yen could add to inflationary pressures. Technology stocks led the gains, including Kioxia Holdings (5.2%), Advantest (5.1%) and SoftBank Group (5.5%). The Nikkei and Topix are on track to rise 6% and 3.5% for the week, respectively.
-
----
-
-### 2026-08-14 08:38:41  #其他
-
-【機構：2026年上半年中國智慧眼鏡市場銷量同比增長85.5%】 洛圖科技釋出的報告顯示，2026年上半年，中國智慧眼鏡市場的全渠道銷量為90.9萬臺，同比增長85.5%；銷售額為18.8億元，同比增長98.7%。2026年上半年，中國智慧眼鏡市場各細分品類的市場表現存在一定分化：AR眼鏡與拍攝眼鏡實現了大幅增長，AI音訊眼鏡的增長趨緩。
-
----
-
-### 2026-08-14 08:38:14  #其他
-
-【英國迎來今夏第五輪熱浪 高溫與乾旱疊加影響持續 】 近日，英國迎來今年夏天以來的第五輪熱浪。 英國大部分地區正在經歷高溫天氣和乾旱。英國今年已經有四天氣溫超過36攝氏度，為1884年有氣象記錄以來最多。英國氣象局稱，今年夏天或將成為有記錄以來最熱的夏天。此外，英格蘭和威爾士地區經歷了190年來最乾旱的7月，約有4500萬人受影響，2700萬人面臨用水限制。英國衛生部門上個月估計，今年英國已經有2877人死於高溫相關原因。
-
----
-
-### 2026-08-14 08:37:52  #其他
-
-【2025年我國安全應急裝備重點領域產業規模突破1萬億元 】 從中國電子資訊產業發展研究院瞭解到，“十四五”以來，我國安全應急裝備產業快速發展。2025年重點領域產業規模突破1萬億元，形成了覆蓋安全防範、應急處置和安全應急服務的產業體系。
-
----
-
-### 2026-08-14 08:37:29  #MKT News #CSI300
-
-【A-share valuation gauge: indicators enter volatile phase】Buffett indicator (CSI 300 market cap/GDP) fell to 92.59% on Aug 13. CSI 300 equity risk premium (ERP) was 5.26%, oscillating around 5.2% since July and sitting at the lower end of its range since Oct 2024, suggesting the market’s yield advantage over government bonds is modest. Historical thresholds: Buffett indicator 70–100% is typically viewed as normal (below = undervalued; above = overvalued). Over a 10-year sample the CSI 300 ERP is inversely correlated with the index; ERP ≥6% has coincided with market lows and stronger investment value, while ERP ≤4% has typically coincided with cyclical highs and reduced investment appeal, raising pullback risk.
 
 ---

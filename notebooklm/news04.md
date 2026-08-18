@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-18 23:42:04_
-_本檔包含 3108 則快訊，約 606129 字_
+_更新時間：2026-08-19 00:02:12_
+_本檔包含 3121 則快訊，約 605914 字_
+
+---
+
+### 2026-08-14 08:53:28  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable.
+
+---
+
+### 2026-08-14 08:53:26  #國際
+
+【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
+
+---
+
+### 2026-08-14 08:52:59  #公司
+
+中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。
+
+---
+
+### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
+
+---
+
+### 2026-08-14 08:51:59  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization.
+
+---
+
+### 2026-08-14 08:51:52  #其他
+
+中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。
+
+---
+
+### 2026-08-14 08:51:22  #MKT News
+
+SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2.
+
+---
+
+### 2026-08-14 08:50:58  #市場 #國際
+
+5年期日本國債收益率下跌1.5個基點，至2.105%。
+
+---
+
+### 2026-08-14 08:50:12  #其他
+
+中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。
+
+---
+
+### 2026-08-14 08:49:59  #公司
+
+中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。
+
+---
+
+### 2026-08-14 08:49:27  #MKT News
+
+Spot silver slid to $64/oz, down 0.74% intraday.
+
+---
+
+### 2026-08-14 08:49:08  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,330/oz, down 0.48% on the day.
+
+---
+
+### 2026-08-14 08:48:55  #市場 #焦點
+
+紐約期金失守4390美元/盎司，日內跌0.78%。
+
+---
+
+### 2026-08-14 08:48:54  #市場
+
+紐約期銀日內跌1%，現報64.33美元/盎司。
+
+---
+
+### 2026-08-14 08:48:07  #MKT News
+
+Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; Melinda Cilento has been appointed to the RBA MPC for a five-year term beginning Sept. 1.
+
+---
+
+### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
+
+【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
+
+---
+
+### 2026-08-14 08:46:47  #其他
+
+【兩市融資餘額較上日增加23.89億元】截至8月13日，上交所融資餘額報13563.08億元，較前一交易日增加10.72億元；深交所融資餘額報12850.60億元，較前一交易日增加13.17億元；兩市合計26413.68億元，較前一交易日增加23.89億元。
+
+---
+
+### 2026-08-14 08:46:15  #公司
+
+【維珍銀河新一代Delta級飛船首飛推遲至2027年】維珍銀河宣佈，其新一代Delta級亞軌道太空飛船的首次商業飛行將推遲至2027年2月。此前的計劃是在2026年第四季度開始商業運營。維珍銀河CEO邁克爾·科爾格拉齊爾表示，此次推遲並非由單一重大問題導致，而是在新飛船的組裝過程中遇到了“數百個相對較小但重要的安裝任務”的工期延長。
+
+---
+
+### 2026-08-14 08:45:52  #MKT News
+
+Saudi outlet Hadas, citing Yemeni military sources, said Houthi forces used drones to strike the Huohe and Muha districts in western Yemen. Government forces said they successfully repelled a Houthi attack on the Bahh front east of Mocha.
+
+---
+
+### 2026-08-14 08:44:48  #央行 #資料 #市場 #國際
+
+【中信期貨：白銀短線高位震盪執行，關注油價走勢和美國7月零售資料指引】日內白銀整體震盪偏弱執行，跌幅大於黃金，海內外銀價跌幅均超1%，其中COMEX白銀跌破65美元/盎司。美國7月PPI、核心PPI整體走軟幅度超市場預期，推動美元和美債收益率下行。而聯儲官員哈瑪克表示不確信通脹會繼續改善，疊加海峽持續封鎖，伊朗最高領袖顧問威脅若條件得不到滿足、或升級衝突，通脹前景充滿不確定性，引發部分資金獲利離場。據新華社報道，當地時間12日，伊朗“波斯灣海峽管理局”表示，霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。13日伊朗最高領袖顧問表態，若條件得不到滿足，或升級衝突。
+
+---
+
+### 2026-08-14 08:43:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Crude ETF holdings report live; USO and BNO positions decline】Aug 13 — WTI (USO) nominal exposure ~22.248 mln barrels, down 3.571 mln barrels on the day; Brent (BNO) futures positions ~7.576 mln barrels, down 56,000 barrels.
+
+---
+
+### 2026-08-14 08:43:39  #其他
+
+【上半年我國航空物流發展保持韌性】中國物流與採購聯合會近日釋出上半年航空物流發展情況分析報告。據介紹，今年以來，我國航空貨運展現了極強的抗週期韌性，航空物流貨物結構發生深刻變化，以人工智慧硬體為代表的高階製造業成為新的增長極。上半年，我國航空貨郵運輸量實現6.0%的正增長，特別是國際航線，上半年完成貨郵運輸量232萬噸，同比大幅增長13.9%，增速顯著高於全行業平均水平。國際航線在整體業務中的佔比持續攀升，不僅穩住了行業基本盤，更成為拉動我國航空物流逆勢上揚的核心引擎。
+
+---
+
+### 2026-08-14 08:42:52  #公司
+
+【美聯新材：公司控股企業輝虹科技的EX電子材料銷量穩步增長】美聯新材(300586)8月14日在互動平臺表示，隨著下游需求增加，目前公司控股企業輝虹科技的EX電子材料銷量穩步增長。
+
+---
+
+### 2026-08-14 08:42:02  #其他
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-08-14 08:41:55  #MKT News #HESAI-W.HK #Impact bearish
+
+Shenzhen Stock Exchange said Hesai-W will be removed from the Hong Kong Stock Connect eligible securities list, effective Aug 14.
+
+---
+
+### 2026-08-14 08:41:24  #公司
+
+【深交所：禾賽－Ｗ被調出港股通標的證券名單】深交所公告，港股通標的證券名單發生調整並自2026年08月14日起生效，禾賽－Ｗ被調出。
+
+---
+
+### 2026-08-14 08:41:01  #市場 #國際
+
+2年期日本國債收益率下跌1個基點至1.635%。
+
+---
+
+### 2026-08-14 08:39:47  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index jumped 1.7% to above 69,400, while the broader Topix Index gained 0.5% to 4,196 on Friday, with Japanese shares extending their rally and following a strong lead from Wall Street as subdued US inflation data prompted traders to scale back expectations for a Federal Reserve rate hike in September. Markets are now pricing in around a 35% chance of a 25 basis point Fed rate hike in September, down from 55% a week earlier. Domestically, investors are speculating about a possible Bank of Japan rate hike in September or October amid concerns that a weak yen could add to inflationary pressures. Technology stocks led the gains, including Kioxia Holdings (5.2%), Advantest (5.1%) and SoftBank Group (5.5%). The Nikkei and Topix are on track to rise 6% and 3.5% for the week, respectively.
+
+---
+
+### 2026-08-14 08:38:41  #其他
+
+【機構：2026年上半年中國智慧眼鏡市場銷量同比增長85.5%】 洛圖科技釋出的報告顯示，2026年上半年，中國智慧眼鏡市場的全渠道銷量為90.9萬臺，同比增長85.5%；銷售額為18.8億元，同比增長98.7%。2026年上半年，中國智慧眼鏡市場各細分品類的市場表現存在一定分化：AR眼鏡與拍攝眼鏡實現了大幅增長，AI音訊眼鏡的增長趨緩。
+
+---
+
+### 2026-08-14 08:38:14  #其他
+
+【英國迎來今夏第五輪熱浪 高溫與乾旱疊加影響持續 】 近日，英國迎來今年夏天以來的第五輪熱浪。 英國大部分地區正在經歷高溫天氣和乾旱。英國今年已經有四天氣溫超過36攝氏度，為1884年有氣象記錄以來最多。英國氣象局稱，今年夏天或將成為有記錄以來最熱的夏天。此外，英格蘭和威爾士地區經歷了190年來最乾旱的7月，約有4500萬人受影響，2700萬人面臨用水限制。英國衛生部門上個月估計，今年英國已經有2877人死於高溫相關原因。
+
+---
+
+### 2026-08-14 08:37:52  #其他
+
+【2025年我國安全應急裝備重點領域產業規模突破1萬億元 】 從中國電子資訊產業發展研究院瞭解到，“十四五”以來，我國安全應急裝備產業快速發展。2025年重點領域產業規模突破1萬億元，形成了覆蓋安全防範、應急處置和安全應急服務的產業體系。
+
+---
+
+### 2026-08-14 08:37:29  #MKT News #CSI300
+
+【A-share valuation gauge: indicators enter volatile phase】Buffett indicator (CSI 300 market cap/GDP) fell to 92.59% on Aug 13. CSI 300 equity risk premium (ERP) was 5.26%, oscillating around 5.2% since July and sitting at the lower end of its range since Oct 2024, suggesting the market’s yield advantage over government bonds is modest. Historical thresholds: Buffett indicator 70–100% is typically viewed as normal (below = undervalued; above = overvalued). Over a 10-year sample the CSI 300 ERP is inversely correlated with the index; ERP ≥6% has coincided with market lows and stronger investment value, while ERP ≤4% has typically coincided with cyclical highs and reduced investment appeal, raising pullback risk.
 
 ---
 
@@ -18604,140 +18796,5 @@ Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year i
 ### 2026-08-13 07:27:10  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Slips After Six-Day Advance — Brent fell toward $88 per barrel on Thursday, snapping a six-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
-
----
-
-### 2026-08-13 07:25:44  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Slips After Five-Day Advance — Crude oil fell below $83 per barrel on Thursday, snapping a five-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
-
----
-
-### 2026-08-13 07:24:13  #公司 #國際
-
-【美國國際貿易委員會對三星電子部分移動電子裝置發起337調查】8月12日，美國國際貿易委員會（USITC）宣佈對部分移動電子裝置發起“337調查”。調查源於日本麥克賽爾（Maxell）7月10日提交的申訴，後於7月24日提交修訂版申訴，指控相關產品在美國進口及銷售過程中侵犯其部分專利權，並要求釋出有限排除令和禁止令。此次調查物件包括三星電子及三星電子美國公司。USITC表示，目前尚未就案件實質作出裁決，後續將由行政法官舉行聽證並作出初步裁定。USITC將在啟動調查後45天內確定調查完成目標日期。
-
----
-
-### 2026-08-13 07:23:44  #國際
-
-【美戰略石油儲備不足3億桶 創43年來新低】美國能源資訊局12日釋出的周度石油庫存資料顯示，在截至本月7日的一週，美國戰略石油儲備規模進一步降至2.987億桶，為1983年1月以來的最低水平。
-
----
-
-### 2026-08-13 07:21:58  #公司
-
-【AI伺服器液冷投資向零部件縱深傳導 液冷產業鏈迎訂單驗證關鍵視窗】隨著AI晶片功耗和整櫃功率密度持續攀升，液冷正從資料中心的節能選項躍升為高密度算力叢集的基礎配置。強瑞技術日前公告擬定增募資不超過10.5億元，重點投向AI伺服器精密液冷部件及自動化組裝、檢測裝置產能建設；飛榮達上半年業績預告顯示液冷相關業務量價齊升，中航光電、鼎通科技等公司也在液冷聯結器、高速部件領域加速海外客戶認證。業內普遍認為，行業競爭正從早期的技術路線之爭，轉向部件一致性、自動化組裝能力、系統測試能力與海外批次交付資格的比拼，液冷產業鏈正迎來訂單驗證與產能兌現的關鍵視窗。
-
----
-
-### 2026-08-13 07:21:48  #國際
-
-美國白宮：在俄羅斯被拘留四年多後，美國公民羅伯特·吉爾曼終於回到了美國的土地上。 感謝特朗普政府，又一位美國人安全回到了他所屬的地方。
-
----
-
-### 2026-08-13 07:20:29  #MKT News
-
-【US media: Ukrainian drone units easily prevailed in U.S.-Ukraine joint exercise】The Wall Street Journal reports that during a joint military exercise in Germany earlier this year, called Combined Resolve, Ukrainian drone operators easily detected and defeated U.S. troops and armored vehicles rotated from Fort Hood, Texas.
-
----
-
-### 2026-08-13 07:19:47  #其他
-
-【人民日報金社平：培育更多“中國服務”品牌】培育更多“中國服務”品牌，是順應經濟發展規律、推動經濟轉型升級的必然選擇。當前中國經濟正處於從要素驅動向創新驅動、從投資拉動向消費拉動轉變的關鍵視窗期。預測顯示，“十五五”時期，服務業對國內生產總值增長的貢獻率將穩步提升，成為名副其實的經濟“主引擎”。這是回應百姓生活期待，擴大內需的關鍵所在。培育更多“中國服務”品牌，因地制宜、精準施策是基本的方法論。從“賣產品”到“賣服務”，從“中國製造”到“中國服務”，當100萬億元的服務業版圖徐徐展開，我們有理由相信，一張張閃亮的“中國服務”名片，必將匯聚成中國經濟高質量發展的澎湃動能。
-
----
-
-### 2026-08-13 07:18:00  #其他
-
-【和碩間接確認：iPhone18Pro今秋釋出 iPhone18標準版推遲至明年釋出】據臺灣地區《經濟日報》報道，蘋果供應商和碩今天間接確認，標準版 iPhone 18 將推遲到明年釋出。和碩透露，其某家客戶將調整以往的智慧手機出貨時間表。 和碩今天舉行了 2026 年第二季度業績電話會議。和碩在會議上表示，一家客戶將改變慣常的智慧手機出貨安排。正如外界此前廣泛預期的那樣，蘋果計劃於今年 9 月推出 iPhone 18 Pro、iPhone 18 Pro Max 以及可摺疊的“iPhone Ultra”，隨後在 2027 年第一季度推出標準版 iPhone 18。  （IT之家）
-
----
-
-### 2026-08-13 07:16:33  #公司 #市場
-
-【超70只基金淨值創歷史新高 有基金年內大漲超50%】最近，AI概念大漲後市場陷入震盪，板塊快速輪動，無論是股價高位的CPO、PCB等科技板塊，還是低位的地產、白酒、醫藥板塊，同步迎來力度可觀的修復反彈。賽道回暖帶動科技主題基金淨值持續回血，逐步向前期高點靠攏；不少前期深度回撥的基金亦順勢走出爬坑行情。截至8月11日，超70只來自方正富邦基金、萬家基金、國投瑞銀基金等公司的產品穿越了市場的極致分化，淨值創出歷史新高，有的年內大漲超50%，有的靠均衡防守穩穩爬坡。
-
----
-
-### 2026-08-13 07:16:28  #公司
-
-【Cerebras二季度核心營收同比翻倍至2.1億美元】當地時間8月12日，Cerebras Systems公佈2026年第二季度業績。公司核心營收同比增長103%至2.099億美元，其中核心雲及其他服務營收同比增長287%至1.277億美元；GAAP總營收同比增長74%至1.801億美元。公司表示，截至6月底，已簽約的資料中心容量超過600兆瓦，2026年製造產能預計擴大逾10倍，並將全年核心營收預期上調至8.8億至8.9億美元。Cerebras還稱，其已支援OpenAI GPT-5.6 Sol以每秒750個token執行，並與AMD、AWS擴大推理業務合作。
-
----
-
-### 2026-08-13 07:16:16  #市場
-
-【債市多頭情緒升溫 10年期國債收益率再跌破1.7%】近期，國內債券市場多頭情緒持續升溫，長端利率迎來關鍵突破。行情資料顯示，10年期國債收益率在1.7%附近震盪數日後，8月12日再次跌破1.7%關口，截至收盤，收益率報1.694%；與此同時，30年期國債收益率也同步走低，截至收盤報2.160%，處於年內低位水平。業內人士認為，本輪債市行情由寬鬆政策預期、資金面均衡偏松、機構資金接力加倉等多重因素驅動，但關鍵點位突破後市場多空博弈加劇，利率趨勢性下行的有效條件仍待進一步驗證。
-
----
-
-### 2026-08-13 07:15:29  #MKT News
-
-Iraq's prime minister said Iraq will not allow its territory to be used as a launchpad for attacks on neighboring countries.
-
----
-
-### 2026-08-13 07:15:13  #其他
-
-【從“搶BD”到重現金流 創新藥產業投資邏輯生變】據上證報，受科技板塊虹吸效應影響的創新藥賽道，終於迎來了自己的“夏天”。“此前的悲觀情緒已把很多優質資產打到了‘地板價’，但實地走訪一線產業，投資信心在一點點恢復。”滬上一位公募研究員對記者說。相較於上一輪盲目“搶BD”的投資邏輯，現階段機構更關注藥企現金儲備能否支撐多輪高額臨床投入、管線里程碑落地機率是否充足。業內人士認為，過往重視BD首付、“輕後端，重首付”的定價方式或被改寫，未來，更持續的現金流可能成為推動中國創新藥資產重估的重要引擎。
-
----
-
-### 2026-08-13 07:14:39  #公司 #國際
-
-【Truth Social提供付費提前檢視發帖服務，媒體控告"極度腐敗"】兩家媒體機構週三對美國總統特朗普提出訴訟，要求關閉一項新服務。該服務在特朗普旗下真相社交（Truth Social）平臺，向使用者販售總統發帖的付費訪問許可權，其中部分帖子可能對金融市場產生影響。由攔截(Intercept)與新聞自由基金會(Freedom of the Press Foundation)向曼哈頓聯邦法院提交的訴狀，對“Truth API”服務提出質疑。這項服務由特朗普媒體科技集團(TMTG) 提供，每月收費最高達10萬美元，使用者可提前取得10個Truth Social高知名度帳號的發帖內容，其中包括特朗普的帳號。訴訟中的其他被告還包括多名白宮官員，不過特朗普媒體科技集團並未被列為被告。特朗普長期利用Truth Social釋出可能影響市場的訊息，例如關稅政策與中東衝突相關資訊，這些訊息可能牽動股市、油市及其他市場價格。週三提起的這項訴訟尋求禁止白宮在付費推送功能存在期間，僅由Truth Social獨家釋出官方政府公告。原告在訴狀中表示，“Truth API”服務“極度腐敗”，因為當使用者付費訂閱時，總統將從中獲利。
-
----
-
-### 2026-08-13 07:12:56  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、到2030年，社會消費品零售總額達到60萬億元左右 5年10萬億元消費增量有支撐（經濟新方位·解碼“十五五”專項規劃）
-2、汽車出口連續兩月突破百萬輛 新能源汽車月度新車銷量佔比首超60%
-3、國產大飛機正式執飛國際商業航線
-4、電商物流指數7月為111.2點 倉儲指數連續兩月執行在擴張區間
-5、前7月京津冀地區進出口值創新高
-6、讓綠色能源成為市場優選（微觀）
-7、2026數智經濟論壇在河北廊坊舉行
-8、我國腦機介面強腦技術取得突破
-9、看好中國市場 加快新能源轉型 謀求更廣闊發展空間 合資續約，車企合作新模式開啟（經濟聚焦）
-10、財政部在香港發行150億元人民幣國債
-11、前7個月 粵港澳大灣區內地9市外貿增長超兩成
-12、中國銀行湖北省分行創新制度措施 金融助力科技產業發展
-13、2026暑期檔電影票房突破90億元
-14、市場監管總局強化民生計量監管 嚴查計量作弊、器具失準、監管缺位等問題
-15、中國品牌車型成尼泊爾車展亮點
-16、實施部分降稅免稅 計劃新增安置住房 英國出臺系列舉措紓解民生困局。
-
----
-
-### 2026-08-13 07:12:45  #宏觀
-
-今天《人民日報》頭版的主要內容有：
-1、中共中央 全國人大常委會 國務院 全國政協訃告 朱鎔基同志逝世
-2、中國全方位推動人工智慧全球治理走深走實
-3、各地區各部門各單位持續深入開展樹立和踐行正確政績觀學習教育——將學習教育成果固化為制度機制（樹立和踐行正確政績觀）
-4、培育更多“中國服務”品牌
-5、平陸運河實船試驗正式啟動。
-
----
-
-### 2026-08-13 07:11:35  #公司 #市場 #觀點 #國際
-
-【AI不缺需求缺算力 摩根士丹利警告供應瓶頸或持續數年】摩根士丹利的Michelle Weaver表示，企業對人工智慧的應用正日益產生實質性成效，但算力供應受限仍是制約增長的瓶頸。“我們的供應非常不足。我們看到算力在成為一種受限資源，”摩根士丹利美國主題研究策略師Weaver表示。“電力瓶頸、政治瓶頸、勞動力瓶頸——這些因素將在未來幾年制約供應。”隨著企業採用AI的步伐加快，Weaver接受採訪時作出上述判斷。她表示，25%的標普500指數成分股公司如今可以量化AI投資帶來的可衡量回報，高於一年前的14%。資料中心融資也十分充裕，英偉達與華爾街金融機構合作為AI基礎設施籌集5,000億美元就是例證。
-
----
-
-### 2026-08-13 07:11:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish
-
-CoreWeave warned investors that migrating workloads from NVIDIA chips to alternative processors would be difficult and could require substantial time and capital investment.
-
----
-
-### 2026-08-13 07:10:38  #Trading Economics #Economy #United Kingdom #RICS House Price Balance #Importance 1
-
-UK Housing Market Remains Subdued — The RICS UK Residential Market Survey showed that the house price balance edged up to -30% in July 2026 from -32% in June, remaining firmly negative as price falls continued to outnumber rises. New buyer enquiries were unchanged at -28%, while agreed sales held at -30%, indicating that demand and transactions remained subdued. New vendor instructions improved sharply to -4% from -23%, although the pipeline of new listings remained constrained. London, the South East and South West continued to report the weakest price balances, while Northern Ireland remained an outperformer. Looking ahead, three-month price expectations stayed weak at -31%, while the 12-month outlook turned slightly positive at +4%. Sales expectations also improved, with the 12-month balance rising to +3%. In the rental market, landlord instructions remained weak at -27%, keeping supply constrained, while 28% of respondents expected rents to rise over the next three months.
 
 ---

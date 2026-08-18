@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-18 23:42:04_
-_本檔包含 2749 則快訊，約 606202 字_
+_更新時間：2026-08-19 00:02:12_
+_本檔包含 2761 則快訊，約 605875 字_
+
+---
+
+### 2026-08-17 20:37:15  #其他
+
+【中國能建與中國海油共商深化合作】據中國能建訊息，8月17日，中國能建黨委書記、董事長倪真在京與中國海油黨組書記、董事長張傳江舉行會談。雙方圍繞深化海洋能源、氣電、氫基能源、海外業務、科技創新等領域合作進行深入交流。
+
+---
+
+### 2026-08-17 20:36:04  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
+
+German 10-year bond yield rose 1.5 bps intraday to 3.2138%, its highest level since May 2011.
+
+---
+
+### 2026-08-17 20:36:03  #市場
+
+德國10年期國債收益率<DE10YT=RR>攀升至3.2138%，上漲1.5個基點，創下2011年5月以來新高。
+
+---
+
+### 2026-08-17 20:35:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): SB Energy will operate the data center under a 20-year lease agreement with OpenAI.
+
+---
+
+### 2026-08-17 20:35:14  #其他
+
+英偉達：SB能源將根據20年租約運營資料中心，租予OpenAI。
+
+---
+
+### 2026-08-17 20:35:14  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): OpenAI will make an additional $40m contribution to a community welfare fund.
+
+---
+
+### 2026-08-17 20:35:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund.
+
+---
+
+### 2026-08-17 20:34:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project.
+
+---
+
+### 2026-08-17 20:34:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity.
+
+---
+
+### 2026-08-17 20:34:26  #MKT News #NVDA.O
+
+NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
+
+---
+
+### 2026-08-17 20:34:20  #其他
+
+市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。
+
+---
+
+### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
+
+---
+
+### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
+
+---
+
+### 2026-08-17 20:33:56  #國際
+
+8月17日，國內基金淨買入印度股票510億印度盧比。
+
+---
+
+### 2026-08-17 20:33:50  #資料 #市場 #國際
+
+加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
+
+---
+
+### 2026-08-17 20:33:45  #國際
+
+8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
+
+---
+
+### 2026-08-17 20:33:29  #公司
+
+【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 20:32:48  #其他
+
+【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
+
+---
+
+### 2026-08-17 20:32:38  #其他
+
+【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
+
+---
+
+### 2026-08-17 20:32:15  #公司
+
+【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
+
+---
+
+### 2026-08-17 20:31:22  #央行 #其他
+
+紐約聯儲隔夜回購操作未收到任何投標。
+
+---
+
+### 2026-08-17 20:31:04  #經濟數據 #加拿大
+
+加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
+
+---
+
+### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
+
+US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
+
+---
+
+### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
+
+---
+
+### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
+
+US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
+
+---
+
+### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
+
+---
+
+### 2026-08-17 20:30:36  #經濟數據 #美國
+
+美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
+
+---
+
+### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
+
+---
+
+### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
+
+United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
+
+---
+
+### 2026-08-17 20:30:22  #央行 #國際
+
+美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
+
+---
+
+### 2026-08-17 20:30:22  #MKT News
+
+Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
+
+---
+
+### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
+
+Canada July core CPI YoY 2.3% vs prev 2.1%.
+
+---
+
+### 2026-08-17 20:30:16  #資料
+
+加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
+
+---
+
+### 2026-08-17 20:30:15  #MKT News
+
+Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
+
+---
+
+### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
+
+Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
+
+---
+
+### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
+
+Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
+
+---
+
+### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
+
+---
+
+### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
+
+---
+
+### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
+
+---
+
+### 2026-08-17 20:29:33  #公司
+
+【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
+
+---
+
+### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
+
+A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
+
+---
+
+### 2026-08-17 20:28:47  #國際
+
+【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
+
+---
+
+### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
+
+---
+
+### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
+
+Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
 
 ---
 
@@ -16347,239 +16653,5 @@ Head of Iran's Energy Optimization Organization said Iran, as part of three gaso
 ### 2026-08-16 04:53:30  #MKT News #Market Themes #Chip Wars #AI Revolution #GBPUSD #Impact mixed
 
 【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices.
-
----
-
-### 2026-08-16 04:38:12  #國際
-
-伊朗譴責以色列持續襲擊黎巴嫩。
-
----
-
-### 2026-08-16 04:33:05  #MKT News
-
-OpenAI CODEX product head said Sol can run an efficient Luna agent team, with the models highly familiar with one another and able to cooperate to achieve objectives at striking speed and efficiency.
-
----
-
-### 2026-08-16 04:28:11  #MKT News
-
-Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'.
-
----
-
-### 2026-08-16 04:22:29  #MKT News
-
-Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit.
-
----
-
-### 2026-08-16 04:17:50  #其他
-
-利比亞發電站附近發生爆炸，多臺發電機組停止執行。
-
----
-
-### 2026-08-16 04:09:56  #MKT News #Commodities #Energy
-
-Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion.
-
----
-
-### 2026-08-16 03:47:12  #其他
-
-羅賓漢進一步深耕私募市場，設立規模2.255億美元的基金，允許個人投資者押注Y Combinator孵化的早期初創企業。
-
----
-
-### 2026-08-16 03:46:55  #MKT News
-
-【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet "shadow liabilities" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions.
-
----
-
-### 2026-08-16 03:28:19  #MKT News
-
-Al Arabiya TV cited Hamas sources saying a delegation led by Khaled al-Hayya will travel to Cairo tonight for consultations.
-
----
-
-### 2026-08-16 03:16:32  #公司 #焦點
-
-【英偉達洽談向SB Energy投資30億美元，系OpenAI資料中心交易組成部分】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團支援，負責為OpenAI開發俄亥俄州大型資料中心專案。這筆投資談判，是英偉達與OpenAI、SB Energy談判的一部分；英偉達擬為規劃中的俄亥俄資料中心園區提供約1000億美元信貸支援。這類交易越來越多，英偉達憑藉自身雄厚財力扶持AI相關企業與專案，以此推動各家企業採購、使用英偉達硬體。
-
----
-
-### 2026-08-16 03:15:44  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-The Information reports NVIDIA (NVDA.O) is in talks to invest $3 bln in SB Energy as part of an OpenAI data-center deal.
-
----
-
-### 2026-08-16 03:15:14  #其他
-
-英偉達正洽談向SB Energy投資30億美元，作為OpenAI資料中心交易的一部分。
-
----
-
-### 2026-08-16 03:07:31  #國際
-
-卡達外交部發言人：外交斡旋仍在推進之際，有關伊朗飛行員的誤導性言論令我方感到意外。
-
----
-
-### 2026-08-16 03:04:07  #MKT News
-
-Al Arabiya TV quoted Marib local authorities saying an attack injured people and damaged civilians' homes, vehicles and other property.
-
----
-
-### 2026-08-16 03:03:35  #MKT News
-
-Al Arabiya reported Marib, Yemen local authorities said Houthi forces fired four ballistic missiles and four drones at residential areas.
-
----
-
-### 2026-08-16 02:46:12  #央行 #國際
-
-伊朗央行：由於美國與以色列的敵對軍事及網路行動，某境外服務商撤銷了部分網站的安全證書，導致使用者端出現 SSL 安全警告。自身基礎設施未遭到網路攻擊。
-
----
-
-### 2026-08-16 02:45:05  #MKT News
-
-Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period.
-
----
-
-### 2026-08-16 02:44:49  #MKT News
-
-Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded.
-
----
-
-### 2026-08-16 02:43:13  #國際
-
-美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。
-
----
-
-### 2026-08-16 02:42:49  #國際
-
-卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。
-
----
-
-### 2026-08-16 02:42:43  #國際
-
-卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。
-
----
-
-### 2026-08-16 02:42:40  #MKT News
-
-Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation.
-
----
-
-### 2026-08-16 02:42:19  #MKT News
-
-Qatar's Foreign Ministry said it took necessary measures to defend its territory after an Iranian pilot violated Qatari airspace.
-
----
-
-### 2026-08-16 02:41:49  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Qatar's foreign ministry said an Iranian pilot's aircraft violated Qatari airspace and failed to respond to Doha's attempts to make contact.
-
----
-
-### 2026-08-16 02:41:11  #國際
-
-卡達否認扣押伊朗飛行員。
-
----
-
-### 2026-08-16 02:40:18  #MKT News
-
-Qatar's foreign ministry denies detaining an Iranian pilot.
-
----
-
-### 2026-08-16 02:35:17  #國際
-
-黎巴嫩媒體：以色列對塔盧薩鎮發動猛烈空襲。
-
----
-
-### 2026-08-16 02:29:15  #國際
-
-伊朗外交部：以色列必須停止在黎巴嫩南部的侵略行動，並從被佔領地區撤出。
-
----
-
-### 2026-08-16 02:29:04  #MKT News
-
-Iran's foreign ministry said it reiterated calls to halt Israeli aggression in southern Lebanon and for Israeli forces to withdraw from occupied territories.
-
----
-
-### 2026-08-16 02:17:25  #MKT News
-
-Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front.
-
----
-
-### 2026-08-16 02:17:22  #公司 #國際
-
-海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。
-
----
-
-### 2026-08-16 02:16:33  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon.
-
----
-
-### 2026-08-16 02:14:46  #國際
-
-以色列媒體：地方當局已通知上加利利居民，夜間會聽到爆炸聲，這是以軍在黎巴嫩開展軍事行動造成。
-
----
-
-### 2026-08-16 02:04:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemeni sources said a fourth explosion struck Marib, caused by shelling from Houthi forces.
-
----
-
-### 2026-08-16 02:04:04  #其他
-
-葉門：馬裡卜遭胡塞武裝炮擊，發生第四起爆炸。
-
----
-
-### 2026-08-16 02:03:31  #國際
-
-【受美國海上封鎖影響，伊朗實際上已經停止汽油進口】伊朗議會能源委員會發言人禮薩·塞帕萬週六表示，受美國海上封鎖影響，伊朗實際上已經停止汽油進口。“我們目前面臨海上封鎖，汽油進口已經中斷。”塞帕萬警告，如果推行擬議中的國民身份證燃油配給方案，政府後續或將被迫按照國際市場及波斯灣離岸價進口汽油，進而推高成本，擴大財政赤字。他稱，受機動車保有量影響，伊朗正遭遇燃油供應難題。塞帕萬表示，伊朗汽油日產量已達峰值1.3億升，但日消耗量為1.37億升。他稱：“即便達到這一產出水平，我們依舊面臨燃油供應缺口。”
-
----
-
-### 2026-08-16 01:59:47  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation.
-
----
-
-### 2026-08-16 01:59:28  #MKT News #Brent #Impact bullish #WTI #DXY
-
-Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz.
-
----
-
-### 2026-08-16 01:55:23  #MKT News
-
-Tajikistan’s energy and water resources minister and transport minister visited Tehran for talks with Iranian counterparts and met Iranian foreign minister Araghchi on Saturday evening, the Iranian foreign ministry said. Araghchi urged leveraging the countries’ existing diversified potential to develop and strengthen bilateral relations, particularly in economic and trade cooperation.
 
 ---

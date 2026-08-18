@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-18 23:42:04_
-_本檔包含 3105 則快訊，約 606061 字_
+_更新時間：2026-08-19 00:02:12_
+_本檔包含 3072 則快訊，約 606080 字_
+
+---
+
+### 2026-08-19 00:00:49  #MKT News #AAPL.O #Impact bullish
+
+Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU.
+
+---
+
+### 2026-08-19 00:00:44  #國際
+
+蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。
+
+---
+
+### 2026-08-19 00:00:22  #其他
+
+市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。
+
+---
+
+### 2026-08-18 23:58:28  #國際
+
+卡達外交部：我方譴責以色列對敘利亞阿布杜赫爾軍用機場發動的空襲。
+
+---
+
+### 2026-08-18 23:57:10  #國際
+
+【俄方：烏方襲擊核電站以阻撓國際原子能機構來訪】針對扎波羅熱核電站一公交站18日發生無人機爆炸一事，俄羅斯外交部發言人扎哈羅娃當天釋出宣告說，此次襲擊由烏方發動，其目的是阻撓國際原子能機構總幹事格羅西原定於20日至21日對扎波羅熱核電站的訪問。扎哈羅娃說，烏方持續對扎波羅熱核電站及其工作人員發動襲擊，此次還對用於搭載國際原子能機構秘書處代表的交通工具發動襲擊，證明其罪行“沒有盡頭”。扎哈羅娃還表示，西方國家持續向烏克蘭提供政治支援，才使得此類事件接連上演，並慫恿烏方採取“更為魯莽的新行動”，製造核災難威脅，可能給全世界造成“災難性後果”。（新華社）
+
+---
+
+### 2026-08-18 23:56:48  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+【Russia says Ukraine struck Zaporizhzhia NPP bus stop to disrupt planned IAEA visit】Russia’s foreign ministry spokeswoman Zakharova said a drone explosion at a bus stop at the Zaporizhzhia nuclear plant on the 18th was carried out by Ukrainian forces to obstruct an IAEA director‑general Grossi visit scheduled for the 20th–21st. Zakharova said Kyiv has repeatedly targeted the plant and its staff, and that the latest strike also hit vehicles carrying IAEA Secretariat representatives; she warned Western political support for Ukraine is encouraging “more reckless” actions that could raise the risk of a nuclear disaster with potentially catastrophic global consequences.
+
+---
+
+### 2026-08-18 23:56:33  #Trading Economics #Markets #commodity #Importance 0
+
+UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%.
+
+---
+
+### 2026-08-18 23:56:27  #其他
+
+蓋亞那總統：蓋亞那目前有權獲得斯塔布魯克區塊原油產量的 39.8%。
+
+---
+
+### 2026-08-18 23:55:48  #國際
+
+市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。
+
+---
+
+### 2026-08-18 23:54:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections.
+
+---
+
+### 2026-08-18 23:53:04  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica.
+
+---
+
+### 2026-08-18 23:49:22  #國際
+
+以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。
+
+---
+
+### 2026-08-18 23:46:23  #MKT News
+
+Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces.
+
+---
+
+### 2026-08-18 23:44:44  #國際
+
+加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。
+
+---
+
+### 2026-08-18 23:44:18  #MKT News
+
+Gaza sources say the death toll from an attack on Gaza port has risen to six.
+
+---
+
+### 2026-08-18 23:44:03  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas.
+
+---
+
+### 2026-08-18 23:43:36  #國際
+
+【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）
+
+---
+
+### 2026-08-18 23:42:55  #Trading Economics #Markets #Commodity #Importance 1
+
+Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations.
 
 ---
 
@@ -18442,311 +18550,5 @@ TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will d
 ### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
 
 Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
-
----
-
-### 2026-08-17 20:37:15  #其他
-
-【中國能建與中國海油共商深化合作】據中國能建訊息，8月17日，中國能建黨委書記、董事長倪真在京與中國海油黨組書記、董事長張傳江舉行會談。雙方圍繞深化海洋能源、氣電、氫基能源、海外業務、科技創新等領域合作進行深入交流。
-
----
-
-### 2026-08-17 20:36:04  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
-
-German 10-year bond yield rose 1.5 bps intraday to 3.2138%, its highest level since May 2011.
-
----
-
-### 2026-08-17 20:36:03  #市場
-
-德國10年期國債收益率<DE10YT=RR>攀升至3.2138%，上漲1.5個基點，創下2011年5月以來新高。
-
----
-
-### 2026-08-17 20:35:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): SB Energy will operate the data center under a 20-year lease agreement with OpenAI.
-
----
-
-### 2026-08-17 20:35:14  #其他
-
-英偉達：SB能源將根據20年租約運營資料中心，租予OpenAI。
-
----
-
-### 2026-08-17 20:35:14  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): OpenAI will make an additional $40m contribution to a community welfare fund.
-
----
-
-### 2026-08-17 20:35:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund.
-
----
-
-### 2026-08-17 20:34:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project.
-
----
-
-### 2026-08-17 20:34:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity.
-
----
-
-### 2026-08-17 20:34:26  #MKT News #NVDA.O
-
-NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
-
----
-
-### 2026-08-17 20:34:20  #其他
-
-市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。
-
----
-
-### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
-
----
-
-### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
-
----
-
-### 2026-08-17 20:33:56  #國際
-
-8月17日，國內基金淨買入印度股票510億印度盧比。
-
----
-
-### 2026-08-17 20:33:50  #資料 #市場 #國際
-
-加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
-
----
-
-### 2026-08-17 20:33:45  #國際
-
-8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
-
----
-
-### 2026-08-17 20:33:29  #公司
-
-【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 20:32:48  #其他
-
-【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
-
----
-
-### 2026-08-17 20:32:38  #其他
-
-【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
-
----
-
-### 2026-08-17 20:32:15  #公司
-
-【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
-
----
-
-### 2026-08-17 20:31:22  #央行 #其他
-
-紐約聯儲隔夜回購操作未收到任何投標。
-
----
-
-### 2026-08-17 20:31:04  #經濟數據 #加拿大
-
-加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
-
----
-
-### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
-
-US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
-
----
-
-### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
-
----
-
-### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
-
-US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
-
----
-
-### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
-
----
-
-### 2026-08-17 20:30:36  #經濟數據 #美國
-
-美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
-
-New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
-
----
-
-### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
-
-United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
-
----
-
-### 2026-08-17 20:30:22  #央行 #國際
-
-美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:22  #MKT News
-
-Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
-
----
-
-### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
-
-Canada July core CPI YoY 2.3% vs prev 2.1%.
-
----
-
-### 2026-08-17 20:30:16  #資料
-
-加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
-
----
-
-### 2026-08-17 20:30:15  #MKT News
-
-Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
-
-Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
-
-Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
-
----
-
-### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
-
----
-
-### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
-
----
-
-### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
-
----
-
-### 2026-08-17 20:29:33  #公司
-
-【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
-
----
-
-### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
-
-A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
-
----
-
-### 2026-08-17 20:28:47  #國際
-
-【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
-
----
-
-### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
-
----
-
-### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
-
-Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
 
 ---

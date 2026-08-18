@@ -1,7 +1,142 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-18 23:42:04_
-_本檔包含 3124 則快訊，約 605170 字_
+_更新時間：2026-08-19 00:02:12_
+_本檔包含 3112 則快訊，約 605624 字_
+
+---
+
+### 2026-08-13 07:25:44  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Slips After Five-Day Advance — Crude oil fell below $83 per barrel on Thursday, snapping a five-day advance as investors assessed the prospects prospects of any deal to reopen the Strait of Hormuz. President Donald Trump said the US had “total control” over the waterway amid escalating rhetoric between Washington and Tehran, with negotiations remaining deadlocked. The Trump administration is also moving toward imposing greater economic pressure on Iran as the US military campaign has so far failed to force the regime to capitulate. The measures include expanding economic sanctions and enforcing a naval blockade aimed at curbing Iranian oil exports. Meanwhile, the IEA’s monthly report indicated that the global oil market faces a shortfall of 1.8 million barrels a day this quarter as the conflict in the Middle East continues. Elsewhere, EIA data showed US crude inventories rose by 17.4 million barrels last week, marking their largest weekly increase since early 2023.
+
+---
+
+### 2026-08-13 07:24:13  #公司 #國際
+
+【美國國際貿易委員會對三星電子部分移動電子裝置發起337調查】8月12日，美國國際貿易委員會（USITC）宣佈對部分移動電子裝置發起“337調查”。調查源於日本麥克賽爾（Maxell）7月10日提交的申訴，後於7月24日提交修訂版申訴，指控相關產品在美國進口及銷售過程中侵犯其部分專利權，並要求釋出有限排除令和禁止令。此次調查物件包括三星電子及三星電子美國公司。USITC表示，目前尚未就案件實質作出裁決，後續將由行政法官舉行聽證並作出初步裁定。USITC將在啟動調查後45天內確定調查完成目標日期。
+
+---
+
+### 2026-08-13 07:23:44  #國際
+
+【美戰略石油儲備不足3億桶 創43年來新低】美國能源資訊局12日釋出的周度石油庫存資料顯示，在截至本月7日的一週，美國戰略石油儲備規模進一步降至2.987億桶，為1983年1月以來的最低水平。
+
+---
+
+### 2026-08-13 07:21:58  #公司
+
+【AI伺服器液冷投資向零部件縱深傳導 液冷產業鏈迎訂單驗證關鍵視窗】隨著AI晶片功耗和整櫃功率密度持續攀升，液冷正從資料中心的節能選項躍升為高密度算力叢集的基礎配置。強瑞技術日前公告擬定增募資不超過10.5億元，重點投向AI伺服器精密液冷部件及自動化組裝、檢測裝置產能建設；飛榮達上半年業績預告顯示液冷相關業務量價齊升，中航光電、鼎通科技等公司也在液冷聯結器、高速部件領域加速海外客戶認證。業內普遍認為，行業競爭正從早期的技術路線之爭，轉向部件一致性、自動化組裝能力、系統測試能力與海外批次交付資格的比拼，液冷產業鏈正迎來訂單驗證與產能兌現的關鍵視窗。
+
+---
+
+### 2026-08-13 07:21:48  #國際
+
+美國白宮：在俄羅斯被拘留四年多後，美國公民羅伯特·吉爾曼終於回到了美國的土地上。 感謝特朗普政府，又一位美國人安全回到了他所屬的地方。
+
+---
+
+### 2026-08-13 07:20:29  #MKT News
+
+【US media: Ukrainian drone units easily prevailed in U.S.-Ukraine joint exercise】The Wall Street Journal reports that during a joint military exercise in Germany earlier this year, called Combined Resolve, Ukrainian drone operators easily detected and defeated U.S. troops and armored vehicles rotated from Fort Hood, Texas.
+
+---
+
+### 2026-08-13 07:19:47  #其他
+
+【人民日報金社平：培育更多“中國服務”品牌】培育更多“中國服務”品牌，是順應經濟發展規律、推動經濟轉型升級的必然選擇。當前中國經濟正處於從要素驅動向創新驅動、從投資拉動向消費拉動轉變的關鍵視窗期。預測顯示，“十五五”時期，服務業對國內生產總值增長的貢獻率將穩步提升，成為名副其實的經濟“主引擎”。這是回應百姓生活期待，擴大內需的關鍵所在。培育更多“中國服務”品牌，因地制宜、精準施策是基本的方法論。從“賣產品”到“賣服務”，從“中國製造”到“中國服務”，當100萬億元的服務業版圖徐徐展開，我們有理由相信，一張張閃亮的“中國服務”名片，必將匯聚成中國經濟高質量發展的澎湃動能。
+
+---
+
+### 2026-08-13 07:18:00  #其他
+
+【和碩間接確認：iPhone18Pro今秋釋出 iPhone18標準版推遲至明年釋出】據臺灣地區《經濟日報》報道，蘋果供應商和碩今天間接確認，標準版 iPhone 18 將推遲到明年釋出。和碩透露，其某家客戶將調整以往的智慧手機出貨時間表。 和碩今天舉行了 2026 年第二季度業績電話會議。和碩在會議上表示，一家客戶將改變慣常的智慧手機出貨安排。正如外界此前廣泛預期的那樣，蘋果計劃於今年 9 月推出 iPhone 18 Pro、iPhone 18 Pro Max 以及可摺疊的“iPhone Ultra”，隨後在 2027 年第一季度推出標準版 iPhone 18。  （IT之家）
+
+---
+
+### 2026-08-13 07:16:33  #公司 #市場
+
+【超70只基金淨值創歷史新高 有基金年內大漲超50%】最近，AI概念大漲後市場陷入震盪，板塊快速輪動，無論是股價高位的CPO、PCB等科技板塊，還是低位的地產、白酒、醫藥板塊，同步迎來力度可觀的修復反彈。賽道回暖帶動科技主題基金淨值持續回血，逐步向前期高點靠攏；不少前期深度回撥的基金亦順勢走出爬坑行情。截至8月11日，超70只來自方正富邦基金、萬家基金、國投瑞銀基金等公司的產品穿越了市場的極致分化，淨值創出歷史新高，有的年內大漲超50%，有的靠均衡防守穩穩爬坡。
+
+---
+
+### 2026-08-13 07:16:28  #公司
+
+【Cerebras二季度核心營收同比翻倍至2.1億美元】當地時間8月12日，Cerebras Systems公佈2026年第二季度業績。公司核心營收同比增長103%至2.099億美元，其中核心雲及其他服務營收同比增長287%至1.277億美元；GAAP總營收同比增長74%至1.801億美元。公司表示，截至6月底，已簽約的資料中心容量超過600兆瓦，2026年製造產能預計擴大逾10倍，並將全年核心營收預期上調至8.8億至8.9億美元。Cerebras還稱，其已支援OpenAI GPT-5.6 Sol以每秒750個token執行，並與AMD、AWS擴大推理業務合作。
+
+---
+
+### 2026-08-13 07:16:16  #市場
+
+【債市多頭情緒升溫 10年期國債收益率再跌破1.7%】近期，國內債券市場多頭情緒持續升溫，長端利率迎來關鍵突破。行情資料顯示，10年期國債收益率在1.7%附近震盪數日後，8月12日再次跌破1.7%關口，截至收盤，收益率報1.694%；與此同時，30年期國債收益率也同步走低，截至收盤報2.160%，處於年內低位水平。業內人士認為，本輪債市行情由寬鬆政策預期、資金面均衡偏松、機構資金接力加倉等多重因素驅動，但關鍵點位突破後市場多空博弈加劇，利率趨勢性下行的有效條件仍待進一步驗證。
+
+---
+
+### 2026-08-13 07:15:29  #MKT News
+
+Iraq's prime minister said Iraq will not allow its territory to be used as a launchpad for attacks on neighboring countries.
+
+---
+
+### 2026-08-13 07:15:13  #其他
+
+【從“搶BD”到重現金流 創新藥產業投資邏輯生變】據上證報，受科技板塊虹吸效應影響的創新藥賽道，終於迎來了自己的“夏天”。“此前的悲觀情緒已把很多優質資產打到了‘地板價’，但實地走訪一線產業，投資信心在一點點恢復。”滬上一位公募研究員對記者說。相較於上一輪盲目“搶BD”的投資邏輯，現階段機構更關注藥企現金儲備能否支撐多輪高額臨床投入、管線里程碑落地機率是否充足。業內人士認為，過往重視BD首付、“輕後端，重首付”的定價方式或被改寫，未來，更持續的現金流可能成為推動中國創新藥資產重估的重要引擎。
+
+---
+
+### 2026-08-13 07:14:39  #公司 #國際
+
+【Truth Social提供付費提前檢視發帖服務，媒體控告"極度腐敗"】兩家媒體機構週三對美國總統特朗普提出訴訟，要求關閉一項新服務。該服務在特朗普旗下真相社交（Truth Social）平臺，向使用者販售總統發帖的付費訪問許可權，其中部分帖子可能對金融市場產生影響。由攔截(Intercept)與新聞自由基金會(Freedom of the Press Foundation)向曼哈頓聯邦法院提交的訴狀，對“Truth API”服務提出質疑。這項服務由特朗普媒體科技集團(TMTG) 提供，每月收費最高達10萬美元，使用者可提前取得10個Truth Social高知名度帳號的發帖內容，其中包括特朗普的帳號。訴訟中的其他被告還包括多名白宮官員，不過特朗普媒體科技集團並未被列為被告。特朗普長期利用Truth Social釋出可能影響市場的訊息，例如關稅政策與中東衝突相關資訊，這些訊息可能牽動股市、油市及其他市場價格。週三提起的這項訴訟尋求禁止白宮在付費推送功能存在期間，僅由Truth Social獨家釋出官方政府公告。原告在訴狀中表示，“Truth API”服務“極度腐敗”，因為當使用者付費訂閱時，總統將從中獲利。
+
+---
+
+### 2026-08-13 07:12:56  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、到2030年，社會消費品零售總額達到60萬億元左右 5年10萬億元消費增量有支撐（經濟新方位·解碼“十五五”專項規劃）
+2、汽車出口連續兩月突破百萬輛 新能源汽車月度新車銷量佔比首超60%
+3、國產大飛機正式執飛國際商業航線
+4、電商物流指數7月為111.2點 倉儲指數連續兩月執行在擴張區間
+5、前7月京津冀地區進出口值創新高
+6、讓綠色能源成為市場優選（微觀）
+7、2026數智經濟論壇在河北廊坊舉行
+8、我國腦機介面強腦技術取得突破
+9、看好中國市場 加快新能源轉型 謀求更廣闊發展空間 合資續約，車企合作新模式開啟（經濟聚焦）
+10、財政部在香港發行150億元人民幣國債
+11、前7個月 粵港澳大灣區內地9市外貿增長超兩成
+12、中國銀行湖北省分行創新制度措施 金融助力科技產業發展
+13、2026暑期檔電影票房突破90億元
+14、市場監管總局強化民生計量監管 嚴查計量作弊、器具失準、監管缺位等問題
+15、中國品牌車型成尼泊爾車展亮點
+16、實施部分降稅免稅 計劃新增安置住房 英國出臺系列舉措紓解民生困局。
+
+---
+
+### 2026-08-13 07:12:45  #宏觀
+
+今天《人民日報》頭版的主要內容有：
+1、中共中央 全國人大常委會 國務院 全國政協訃告 朱鎔基同志逝世
+2、中國全方位推動人工智慧全球治理走深走實
+3、各地區各部門各單位持續深入開展樹立和踐行正確政績觀學習教育——將學習教育成果固化為制度機制（樹立和踐行正確政績觀）
+4、培育更多“中國服務”品牌
+5、平陸運河實船試驗正式啟動。
+
+---
+
+### 2026-08-13 07:11:35  #公司 #市場 #觀點 #國際
+
+【AI不缺需求缺算力 摩根士丹利警告供應瓶頸或持續數年】摩根士丹利的Michelle Weaver表示，企業對人工智慧的應用正日益產生實質性成效，但算力供應受限仍是制約增長的瓶頸。“我們的供應非常不足。我們看到算力在成為一種受限資源，”摩根士丹利美國主題研究策略師Weaver表示。“電力瓶頸、政治瓶頸、勞動力瓶頸——這些因素將在未來幾年制約供應。”隨著企業採用AI的步伐加快，Weaver接受採訪時作出上述判斷。她表示，25%的標普500指數成分股公司如今可以量化AI投資帶來的可衡量回報，高於一年前的14%。資料中心融資也十分充裕，英偉達與華爾街金融機構合作為AI基礎設施籌集5,000億美元就是例證。
+
+---
+
+### 2026-08-13 07:11:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bullish
+
+CoreWeave warned investors that migrating workloads from NVIDIA chips to alternative processors would be difficult and could require substantial time and capital investment.
+
+---
+
+### 2026-08-13 07:10:38  #Trading Economics #Economy #United Kingdom #RICS House Price Balance #Importance 1
+
+UK Housing Market Remains Subdued — The RICS UK Residential Market Survey showed that the house price balance edged up to -30% in July 2026 from -32% in June, remaining firmly negative as price falls continued to outnumber rises. New buyer enquiries were unchanged at -28%, while agreed sales held at -30%, indicating that demand and transactions remained subdued. New vendor instructions improved sharply to -4% from -23%, although the pipeline of new listings remained constrained. London, the South East and South West continued to report the weakest price balances, while Northern Ireland remained an outperformer. Looking ahead, three-month price expectations stayed weak at -31%, while the 12-month outlook turned slightly positive at +4%. Sales expectations also improved, with the 12-month balance rising to +3%. In the rental market, landlord instructions remained weak at -27%, keeping supply constrained, while 28% of respondents expected rents to rise over the next three months.
 
 ---
 
@@ -18686,191 +18821,5 @@ US EIA August forecast: average WTI price for the year $80.88/bbl, prior $76.26/
 ### 2026-08-12 00:02:16  #公司 #焦點 #國際
 
 【英特爾增發股票前曾尋求美國政府的批准】英特爾執行長陳立武在公司增發股票前，曾尋求美國政府的批准。英特爾上週準備宣佈股票發行計劃之際，陳立武致電美國商務部長霍華德·盧特尼克。美國政府最終決定不參與此次股票發行，但盧特尼克批准了這一計劃。
-
----
-
-### 2026-08-12 00:01:01  #MKT News
-
-Iranian media outlet Fars News quoted an IRGC spokesman saying there were no US warships stationed in the Persian Gulf today.
-
----
-
-### 2026-08-12 00:00:47  #國際
-
-伊朗革命衛隊發言人：倘若伊朗再度遭遇威脅，數十萬英里能源管道、數千座發電廠、全部美製及非美製系統，以及接入網際網路的全球基礎設施，都將面臨風險。
-
----
-
-### 2026-08-11 23:59:47  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Retreats From Record High — The CAC 40 edged 0.1% lower to close at 8,715 on Tuesday, retreating from the record high reached in the previous session amid renewed geopolitical tensions. US President Donald Trump called on Iran to compensate victims of conflicts involving Tehran, following Iranian demands for reparations over damage caused by recent US and Israeli strikes. The escalating rhetoric reduced expectations of a near-term breakthrough and dimmed hopes for the reopening of the Strait of Hormuz, fueling concerns over continued energy supply disruptions and energy-driven inflation. Luxury stocks declined amid increased risk aversion, with LVMH down 0.8% and L’Oréal losing 1.2%. Industrial shares also fell, with Airbus shedding 1% and Safran down 0.5%, while financials weakened, led by a 1% decline in BNP Paribas. In contrast, TotalEnergies advanced 1.4% on higher oil prices.
-
----
-
-### 2026-08-11 23:59:40  #國際
-
-伊朗革命衛隊發言人：今日波斯灣海域沒有美國軍艦部署。
-
----
-
-### 2026-08-11 23:57:46  #國際
-
-歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。
-
----
-
-### 2026-08-11 23:55:16  #其他
-
-【霍爾木茲海峽重開預期升溫，卡達加大液化天然氣裝船作業】卡達液化天然氣裝船量攀升至3月以來最高水平，預示該國正在為霍爾木茲海峽可能重新開放做準備。拉斯拉凡港液化天然氣日均裝船量約8萬噸，但該規模仍較去年同期下降約60%。卡達14條液化天然氣生產線中有7條顯現開工跡象，表明受戰事幹擾後的生產正在逐步恢復。但出口能否全面復甦仍取決於霍爾木茲海峽航運通行，目前相關外交談判正在推進，但無法保證能夠達成協議。
-
----
-
-### 2026-08-11 23:54:18  #公司 #焦點
-
-【中國人保：提名譚炯為執行董事候選人並選舉其為董事長】中國人保告稱，公司董事會審議透過議案，提名譚炯為第五屆董事會執行董事候選人，並選舉其為公司董事長。
-
----
-
-### 2026-08-11 23:52:36  #國際
-
-卡達外交部表示，伊朗與阿曼就霍爾木茲海峽問題的會談已進入關鍵階段。
-
----
-
-### 2026-08-11 23:51:30  #MKT News #Market Regions #Japan & APAC
-
-【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951.
-
----
-
-### 2026-08-11 23:51:21  #國際
-
-【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）
-
----
-
-### 2026-08-11 23:50:03  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes.
-
----
-
-### 2026-08-11 23:49:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya.
-
----
-
-### 2026-08-11 23:49:41  #其他
-
-【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。
-
----
-
-### 2026-08-11 23:49:29  #國際
-
-英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。
-
----
-
-### 2026-08-11 23:48:31  #其他
-
-利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。
-
----
-
-### 2026-08-11 23:47:53  #國際
-
-伊朗最高國安委秘書：只要美國不改變自身行為、不接受伊朗提出的條件，霍爾木茲海峽就不會開放。
-
----
-
-### 2026-08-11 23:47:19  #國際
-
-伊朗最高國安委秘書：伊朗與阿曼就霍爾木茲海峽航運達成的任何協議，都將與海峽封鎖問題相互獨立。
-
----
-
-### 2026-08-11 23:47:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly lower. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened but credit-sensitive hyperscalers booked losses, with Oracle, Amazon, and SpaceX down more than 2%. Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. Still, Nvidia rose 1% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
-
----
-
-### 2026-08-11 23:47:06  #國際
-
-伊朗最高國安委秘書：其他（談判）條件已透過中間人進行轉達。
-
----
-
-### 2026-08-11 23:46:42  #國際
-
-伊朗最高國安委秘書：必須結束整個地區的戰爭，包括黎巴嫩與加沙。
-
----
-
-### 2026-08-11 23:46:10  #國際
-
-卡達稱以色列拒絕加沙和平方案，是在故意拖延程序。
-
----
-
-### 2026-08-11 23:46:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year.
-
----
-
-### 2026-08-11 23:45:37  #國際
-
-特朗普：伊朗人是善於耍花招的談判者，他們在談判中同意某些事項，隨後又在媒體面前予以否認。
-
----
-
-### 2026-08-11 23:44:56  #宏觀 #國際
-
-美國國務院發言人：我們正對伊朗實施最大施壓行動，以切斷其為活動提供資金的渠道。
-
----
-
-### 2026-08-11 23:44:39  #宏觀 #國際
-
-美國國務院發言人：我們正與財政部採取措施，繼續對伊朗實施極限施壓行動。
-
----
-
-### 2026-08-11 23:44:01  #MKT News
-
-A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran.
-
----
-
-### 2026-08-11 23:43:41  #國際
-
-伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。
-
----
-
-### 2026-08-11 23:43:19  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue.
-
----
-
-### 2026-08-11 23:42:59  #MKT News #Important #WTI #Impact bearish #DXY #XAUUSD
-
-Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds.
-
----
-
-### 2026-08-11 23:42:39  #市場 #國際
-
-【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.06%，歐洲斯托克指數上漲0.29%，歐元區藍籌股上漲0.26%。英國富時100指數下跌0.17%，德國DAX指數上漲0.27%，法國CAC 40指數下跌0.13%，西班牙IBEX指數上漲0.2%。
-
----
-
-### 2026-08-11 23:42:14  #MKT News
-
-U.S. President Trump said New York City must immediately stop levying a second-home tax.
 
 ---
