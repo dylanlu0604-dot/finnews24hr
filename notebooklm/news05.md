@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 02:49:53_
-_本檔包含 3020 則快訊，約 604779 字_
+_更新時間：2026-08-19 03:35:12_
+_本檔包含 3022 則快訊，約 604494 字_
+
+---
+
+### 2026-08-13 08:59:19  #宏觀 #公司 #國際
+
+【韓國將要求散戶參與個股槓桿ETF模擬交易】作為上月出臺抑制散戶ETF投資熱潮配套措施的一部分，韓國自8月19日起，要求散戶投資者完成模擬交易課程，方可交易個股槓桿型交易所交易基金（ETF）。韓國金融委員會週三釋出公告稱，除原有規定的三小時風險管理課程、最低3000萬韓元（摺合21250.97美元）准入資金門檻外，投資者還必須完成至少五輪模擬交易，每輪模擬交易時長不少於一小時。
+
+---
+
+### 2026-08-13 08:58:00  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
+
+【Reserve Bank of Australia frames pause as conditional; tightening working but peak not declared】Kent portrayed this week’s pause as a hawkish pause rather than a dovish shift: policy is now restrictive and earlier hikes are working, allowing time to assess effects. The RBA has tightened 75bps this year, lifting the cash rate to 4.35%. He said current rates are near the upper bound of many models’ neutral-rate estimates; housing is clearly weakening and AUD appreciation is reducing import prices, both helping ease inflation. However, weak productivity is constraining supply, core inflation remains 3.6% (above the 2–3% target band), and upside risks persist, so the door to further tightening is not closed.
+
+---
+
+### 2026-08-13 08:56:55  #國際
+
+韓國將要求個人投資者在交易單隻股票槓桿ETF前完成模擬交易。
+
+---
+
+### 2026-08-13 08:56:12  #央行 #中國央行
+
+【2026年二季度中國貨幣政策執行報告明確：淡化對貸款這個單一融資渠道的關注】8月12日，中國人民銀行披露2026年二季度中國貨幣政策執行報告，總結了2026年上半年貨幣政策執行情況。報告以專欄形式提出，淡化對貸款這個單一融資渠道的關注，把貸款和債券融資等合併觀察。
+
+---
+
+### 2026-08-13 08:56:05  #其他
+
+【浙江釋出地質災害氣象風險橙色預警】浙江省自然資源廳、浙江省氣象局2026年08月13日08時19分聯合更新發布地質災害氣象風險橙色預警：08月13日08時至08月14日08時，杭州市（蕭山區、臨平區）、溫州市（甌海區、平陽縣、瑞安市、樂清市）、湖州市（德清縣、安吉縣）、台州市（黃巖區、天台縣、溫嶺市、玉環市）等部分地區地質災害氣象風險高（橙色預警）；杭州市（拱墅區、餘杭區、富陽區、臨安區、淳安縣、建德市）、溫州市（鹿城區、永嘉縣、蒼南縣）、湖州市（吳興區）、紹興市（上虞區、新昌縣）、舟山市（定海區、普陀區、岱山縣）、台州市（椒江區）等部分地區地質災害氣象風險較高（黃色預警）。請密切關注雨量情況，做好地質災害防範工作！
+
+---
+
+### 2026-08-13 08:55:49  #其他
+
+【8月12日397股獲融資買入超億元 長鑫科技獲買入34.65億元居首】8月12日共有3517只個股獲融資資金買入，有397股買入金額超億元。其中，長鑫科技、中際旭創、兆易創新融資買入金額排名前三，分別獲買入34.65億元、33.43億元、29.48億元。
+
+---
+
+### 2026-08-13 08:55:05  #其他
+
+【沙潁河泥河窪蓄滯洪區啟用】根據沙潁河水系來水情況，河南省決定8月13日2時啟用泥河窪蓄滯洪區。泥河窪為98處國家蓄滯洪區之一，位於淮河流域沙潁河水系，地處河南省漯河市舞陽縣境內沙河與澧河之間，設計蓄洪容積2.38億立方米，是沙澧河防洪工程體系的重要組成部分。（央視）
+
+---
+
+### 2026-08-13 08:54:16  #其他
+
+【張雪機車獲紅杉中國獨家新一輪投資 今年營收有望增長2倍以上】記者獲悉，張雪機車近日獲得紅杉中國獨家投資，具體交易條款未予披露。據悉，張雪機車去年營收6.7億元，今年有望達到20–25億元，有望實現2倍以上增長；產能方面單月交付量已破萬臺。本輪融資完成後雙方未來將圍繞企業治理、人才建設、產業資源和全球化發展展開深度合作。
+
+---
+
+### 2026-08-13 08:54:00  #其他
+
+【臺積電部分CoWoS產品生產良率升至98%至99%】臺積電日前表示，其CoWoS先進封裝技術在AI晶片領域的應用取得突破，部分產品的生產良率已提升至98%至99%。據臺積電先進封裝技術與服務副總經理何軍透露，這一優異的良率表現主要針對基於5.5倍光罩尺寸（reticle size）的CoWoS封裝AI產品。目前5.5倍光罩尺寸CoWoS已進入量產，預計2029年將CoWoS擴大至14倍光罩尺寸。
+
+---
+
+### 2026-08-13 08:53:38  #央行 #其他
+
+澳大利亞儲備銀行肯特：央行委員會意識到，要讓通脹回落，需要幾個方面都進展順利。
+
+---
+
+### 2026-08-13 08:52:34  #其他
+
+中國地震臺網正式測定：08月13日08時47分在甘肅臨夏州永靖縣（北緯36.06度，東經103.55度）發生3.2級地震，震源深度11千米。
+
+---
+
+### 2026-08-13 08:52:09  #市場 #國際
+
+10年期日本國債收益率下跌1.0個基點至2.840%。
+
+---
+
+### 2026-08-13 08:51:39  #市場 #央行 #國際
+
+韓國央行在二季度進行了十三年來的首次黃金相關投資。
+
+---
+
+### 2026-08-13 08:51:18  #MKT News
+
+RBA's Kent said attention should be paid to adjusted historical average inflation data to enable focus on monthly CPI releases rather than quarterly data.
+
+---
+
+### 2026-08-13 08:50:41  #其他
+
+澳大利亞儲備銀行肯特：需觀測數年的截尾均值資料，或許三年時間。
+
+---
+
+### 2026-08-13 08:50:12  #MKT News
+
+【Trump's Thursday schedule (Beijing time)】Beijing time: Aug 13, 20:00 — administrative duties at the White House; Aug 13, 23:00 — intelligence briefing at the White House; Aug 14, 02:00 and 03:00 — signing ceremonies in the Oval Office; Aug 14, 05:00 — policy meeting in the Oval Office.
+
+---
+
+### 2026-08-13 08:49:57  #其他
+
+澳大利亞儲備銀行肯特：需關注截均值通脹的歷史走勢，因此應聚焦月度消費者物價指數報告而非季度報告。
+
+---
+
+### 2026-08-13 08:48:35  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Gain on Soft US CPI — The Nikkei 225 Index rose 1.1% to above 68,000 while the broader Topix Index climbed 1% to 4,180 on Thursday, with the latter hitting fresh record highs as subdued US inflation data eased pressure on the Federal Reserve to raise interest rates in the near term. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Technology and artificial intelligence-related stocks led the advance, with strong gains for Kioxia Holdings (6.2%), Taiyo Yuden (8.6%), Advantest (5.3%), Ibiden Co (7.3%) and Murata Manufacturing (7.4%). Bank stocks also performed well, including Mitsubishi UFJ (1.6%) and Mizuho Financial (1.7%).
+
+---
+
+### 2026-08-13 08:48:24  #其他
+
+【金鷹國際物業與海康威視簽署戰略合作協議】據海康威視訊息，近日，南京金鷹國際物業與海康威視簽署戰略合作協議，並宣佈成立“AI視覺空間聯合實驗室”。新成立的AI視覺空間聯合實驗室以“視覺AI空間感知”為核心能力，旨在提升商業空間運營效率、最佳化顧客服務體驗，打造更安全、更高效、更人性化的智慧服務生態。
+
+---
+
+### 2026-08-13 08:47:45  #其他
+
+【兩市融資餘額增加93.88億元】截至8月12日，上交所融資餘額報13552.37億元，較前一交易日增加48.13億元；深交所融資餘額報12837.43億元，較前一交易日增加45.75億元；兩市合計26389.8億元，較前一交易日增加93.88億元。
+
+---
+
+### 2026-08-13 08:47:42  #其他
+
+中國地震臺網正式測定：08月13日08時35分在克什米爾（北緯36.82度，東經74.45度）發生4.8級地震，震源深度10千米。
+
+---
+
+### 2026-08-13 08:47:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【China margin financing balances rise CNY9.388 bln】As of Aug 12, margin financing on the Shanghai Stock Exchange was CNY1.355237 trillion, up CNY4.813 billion from the prior trading day; Shenzhen was CNY1.283743 trillion, up CNY4.575 billion. Combined balances rose CNY9.388 billion to CNY2.63898 trillion.
+
+---
+
+### 2026-08-13 08:45:55  #MKT News
+
+RBA's Kent said there is currently no urgent need to convert FX reserves into other currencies.
+
+---
+
+### 2026-08-13 08:45:21  #其他
+
+【銀河證券：持續看好鐵路裝備高景氣延續】中國銀河證券研報稱，2026年上半年全國鐵路完成固定資產投資3632億元，同比+2.1%，在去年高位基礎上延續增長；投產新線355.2公里，同比+16.5%。上半年全國鐵路完成旅客傳送量23.48億人，同比+5%，創歷史同期新高；完成貨物傳送量26.22億噸，同比+2.5%。根據中國銀河證券對線路的梳理，2026年—2028年預計年均新投產里程有望超3000公里，其中2027年為通車高峰，未來三年動車組新車招標有望維持高位；同時，動車組維修按照修程修制推進，2024年起進入放量週期，中國銀河證券測算“十五五”時期年均高階修市場空間有望超500億元；持續看好鐵路裝備高景氣延續。
+
+---
+
+### 2026-08-13 08:44:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Hits Fresh 2-Month Peak — Platinum futures rose above $1,770 an ounce, reaching a fresh eight-week high as precious metals broadly advanced following a subdued US inflation report. US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. The data reduced expectations of tighter Fed policy at its September meeting, supporting non-yielding assets such as platinum. Precious metals also found support from lower oil prices amid prospects of a deal to reopen the Strait of Hormuz, potentially easing energy supply and inflation concerns. Meanwhile, AI and data-center expansion are emerging as potential new sources of platinum-group metals demand. Valterra Platinum estimates AI-related PGM demand at 200,000–400,000 ounces annually and sees it potentially growing fivefold by 2030. Still, the platinum market is expected to remain in deficit due to constrained mine output, particularly in South Africa, although higher prices could encourage recycling.
+
+---
+
+### 2026-08-13 08:43:33  #央行 #美聯儲
+
+【調查：美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。
+
+---
+
+### 2026-08-13 08:42:49  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+RBA's Kent said valuations in some equity markets do appear very generous.
+
+---
+
+### 2026-08-13 08:42:40  #國際
+
+美國地質調查局：薩爾瓦多奇里拉瓜地區發生5.5級地震。
+
+---
+
+### 2026-08-13 08:42:22  #公司 #市場
+
+【智譜納入MSCI中國指數】當地時間8月12日，明晟公司（MSCI）公佈了MSCI股票指數2026年8月指數審議結果。在本次調整中，MSCI中國指數新納入智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材等33只股票，剔除萬科A、智飛生物等32只股票。調整將於8月31日收盤後生效實施。本次調整中，MSCI全球標準指數將有55只證券被納入、92只證券被剔除。按公司總市值計算，本次被納入的新增成分股中，市值居前三位的標的為：閃迪、卡朋特科技和ATI。被納入MSCI新興市場指數的市值居前三位的新增成分股為：智譜、南亞科、鼎泰高科。在中國公司方面，MSCI中國指數本次新增33只標的，包括：智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材、風華高科、雅克科技、芯源微、綠的諧波、南亞新材、中船特氣、國瓷材料、深科技、精測電子等。（中證報）
+
+---
+
+### 2026-08-13 08:40:10  #公司 #國際
+
+【蘋果聘請美國航空前高管出任政府事務負責人】8月13日，據報道，蘋果已聘請美國航空集團前政府事務負責人內特·加滕（Nate Gatten）擔任公司政府事務副總裁，8月31日正式履新。現任政府事務負責人尼克·阿曼（Nick Ammann）等將轉向向加滕彙報。
+
+---
+
+### 2026-08-13 08:39:53  #其他
+
+市場訊息：Discovery Loop正就10億美元融資進行談判，估值達100億美元。
+
+---
+
+### 2026-08-13 08:39:04  #其他
+
+中國地震臺網自動測定：08月13日08時35分在新疆喀什地區塔什庫爾幹縣附近（北緯37.18度，東經75.00度）發生4.9級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-13 08:38:49  #觀點
+
+【花旗：將騰訊目標價上調至765港元 重申買入評級】花旗分析師Alicia Yap等在報告中將騰訊目標價上調至765港元，並重申買入評級，因騰訊的人工智慧計劃顯示出明顯成效，同時核心業務保持韌性。花旗將騰訊今明兩年的資本開支假設分別上調至2007億元人民幣和2350億元。
+
+---
+
+### 2026-08-13 08:38:26  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Impact bullish
+
+【Oil ETF holdings report goes live; USO down 463,000 barrels, BNO up 458,000 barrels on Aug 12】Aug 12 — USO (WTI) nominal exposure about 25,818,900 barrels, down 463,000 barrels intraday; BNO (Brent) futures exposure about 7,632,000 barrels, up 458,000 barrels intraday.
+
+---
+
+### 2026-08-13 08:38:17  #公司 #觀點
+
+【摩根士丹利：下調騰訊目標價逾15% AI投資力度加大短期料拖累盈利】摩根士丹利稱，騰訊堅實的核心基本面被人工智慧前置投資所抵消，預計公司下半年至2027年盈利將持平，將公司目標價下調逾15%至550港元，維持超配評級。分析師Gary Yu等在報告中指出，將騰訊2026-2027年的資本開支預測均上調至2000億元人民幣，將今明兩年的非國際財務報告準則下的經營利潤分別下調1.8%和12.3%。儘管AI投資力度加大可能對短期盈利構成壓力，但騰訊具備創造長期價值的良好基礎。若有需要，多餘的人工智慧基礎設施容量可以透過騰訊雲實現貨幣化，提供額外的下行保護。騰訊的核心業務是中國網際網路行業中最強的業務之一，得益於持久的競爭護城河，以及微信、遊戲和廣告領域不斷增強的人工智慧支援。
+
+---
+
+### 2026-08-13 08:38:07  #MKT News #DXY #Impact bearish #XAUUSD
+
+RBA Assistant Governor Kent said if risks materialize, interest rates may rise further.
+
+---
+
+### 2026-08-13 08:37:21  #其他
+
+澳大利亞儲備銀行肯特：若風險成真，存在進一步加息的可能性。
+
+---
+
+### 2026-08-13 08:36:56  #央行 #澳洲聯儲
+
+澳洲央行肯特表示，對資料中心和AI相關基礎設施的大量投資有助於支撐總需求增長。
+
+---
+
+### 2026-08-13 08:36:36  #公司
+
+【黑石據悉考慮放棄30億美元債務融資計劃】8月13日，據報道，黑石集團正在考慮放棄一項約30億美元的債務融資計劃，該計劃原本有助於公司向投資者返還部分資金。黑石數月來一直在為旗下一隻較早設立的私募股權二級市場基金籌劃所謂的基金抵押債務憑證（CFO），該基金約有700項底層投資。黑石一直難以為這筆交易的權益檔找到買家，而權益檔通常是此類交易中風險最高的部分。據悉，黑石高管仍在權衡各種選擇，公司可能決定繼續推進這筆CFO交易，也可能尋求其他方式向現有投資者返還資金。
+
+---
+
+### 2026-08-13 08:36:31  #MKT News #AUDUSD #Impact bullish
+
+RBA assistant governor Kent said productivity data was very disappointing, making it harder to control inflation.
+
+---
+
+### 2026-08-13 08:36:18  #MKT News
+
+RBA's Kent said Reserve Bank of Australia Chair Bullock stressed uncertainty and that inf risks are skewed to the upside.
+
+---
+
+### 2026-08-13 08:35:59  #其他
+
+澳大利亞儲備銀行肯特：布洛克行長強調了不確定性，且通脹風險大幅偏向上行。
+
+---
+
+### 2026-08-13 08:34:21  #市場 #焦點
+
+現貨黃金突破4440美元/盎司，日內漲0.86%。
+
+---
+
+### 2026-08-13 08:34:12  #市場
+
+紐約期銀日內漲1%，現報66.42美元/盎司。
+
+---
+
+### 2026-08-13 08:34:12  #市場 #焦點
+
+紐約期金突破4500美元/盎司，日內漲0.74%。
+
+---
+
+### 2026-08-13 08:34:06  #國際
+
+【峰飛航空與印尼Whitesky Aviation簽署戰略合作協議】據峰飛航空科技訊息，8月12日，峰飛航空與印度尼西亞直升機運營商Whitesky Aviation在雅加達正式簽署戰略合作及60架V2000EM盛世龍框架採購協議。
+
+---
+
+### 2026-08-13 08:33:17  #其他
+
+澳大利亞儲備銀行肯特：澳大利亞總需求增長似乎正在放緩。
+
+---
+
+### 2026-08-13 08:32:23  #其他
+
+澳大利亞儲備銀行肯特：人工智慧活動意味著短期內利率需要更高。
+
+---
+
+### 2026-08-13 08:32:17  #市場
+
+布倫特原油日內跌1%，現報88.09美元/桶。
+
+---
+
+### 2026-08-13 08:31:43  #市場
+
+【黃金ETF昨日淨流出2.69億 終結20天連續淨流入紀錄】據同花順iFinD資料，昨日黃金ETF持續淨流出2.69億元，其中華安黃金ETF(518880)淨流出3.07億元,終結了此前連續20個交易日申贖資金淨流入狀態，這是自3月以來的最長連漲紀錄，在此前反彈之前，黃金ETF在44個交易日中有38個交易日出現資金流出。自7月15日至8月11日，黃金ETF申贖資金累計淨流入累計超132億元。
+
+---
+
+### 2026-08-13 08:31:14  #宏觀 #市場 #國際
+
+【美國7月預算赤字激增，聯邦支出加速增長】美國財政部當地時間8月12日公佈的資料顯示，由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元。資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。公共債務利息支出繼續成為推高赤字的重要因素。7月利息支出同比增加260億美元，本財年至今累計達到1.17萬億美元，同比增長15%，部分原因是美國國債收益率上升。經調整後，7月總支出較2025年7月增加370億美元，收入減少120億美元，收入下降部分反映出關稅退款持續進行。
 
 ---
 
@@ -17975,299 +18281,5 @@ Uruguay Industrial Output Rebounds in June — Uruguay's industrial production r
 ### 2026-08-12 03:40:52  #公司
 
 知情人士：OpenAI 前高管為其初創公司尋求 7.5 億美元估值。
-
----
-
-### 2026-08-12 03:32:46  #MKT News
-
-【CME, Silicon Data to launch ComputeFutures on Oct. 5】CME Group and Silicon Data will launch ComputeFutures on Oct. 5, offering two contracts—Silicon Data H100 Lease Index futures and Silicon Data B200 Lease Index futures—that track hourly rental-cost indices for GPUs. The products are aimed at providing hedging and investment tools for firms seeking to manage compute costs. Contracts will be listed on CME and governed by NYMEX rules, effective only after regulatory approval.
-
----
-
-### 2026-08-12 03:32:13  #MKT News #WTI #Impact bullish #XAUUSD
-
-【Houthi movement says it struck multiple Saudi-linked military targets in Yemen】Houthi spokesman Yahya Sarea said on the 11th the movement deployed large numbers of ballistic missiles and unmanned aerial vehicles to hit Saudi-supported personnel concentrations, weapons depots and command posts in the Mocha area and the Tadaween military base in Marib province. He said the strikes "precisely hit targets," causing dozens of casualties including Saudi personnel, and added that Saudi military buildups aim to escalate the situation and control Yemen; the Houthis will continue to strike such positions.
-
----
-
-### 2026-08-12 03:30:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【International oil prices rose on the 11th】At the close, NYMEX September light crude settled up $1.07 at $83.20 a barrel, +1.3 pct; ICE Brent October settled up $1.19 at $88.91 a barrel, +1.36 pct.
-
----
-
-### 2026-08-12 03:30:18  #其他
-
-【胡塞武裝稱打擊葉門多地的與沙特相關軍事目標】葉門胡塞武裝發言人葉海亞11日表示，胡塞武裝動用大量彈道導彈和無人機，對沙特支援、在摩卡地區以及馬裡卜省塔達溫軍事基地的人員集結、武器庫和指揮部實施打擊。葉海亞稱，相關打擊“精準命中目標”，造成數十人死傷，其中包括沙特人員。他還表示，沙特方面的各類軍事集結旨在升級局勢並控制葉門，胡塞武裝將繼續對其實施打擊。（央視新聞）
-
----
-
-### 2026-08-12 03:29:45  #市場
-
-【國際油價11日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲1.07美元，收於每桶83.20美元，漲幅為1.3%；10月交貨的倫敦布倫特原油期貨價格上漲1.19美元，收於每桶88.91美元，漲幅為1.36%。
-
----
-
-### 2026-08-12 03:29:27  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-【US dollar index up on 11th】The US dollar index, tracking the dollar against six major currencies, rose 0.02% to 99.828 at the New York FX close. EUR/USD 1.1540, down from 1.1542; GBP/USD 1.3503, down from 1.3509; USD/JPY 159.26, up from 159.24; USD/CHF 0.8112, up from 0.8101; USD/CAD 1.3920, down from 1.3942; USD/SEK 9.5244, up from 9.5016.
-
----
-
-### 2026-08-12 03:29:17  #MKT News #Commodities #Energy
-
-【Libya western refinery hit by drone attack again】Libya National Oil Corporation said a tank at its Zawiya refinery, about 40 km west of Tripoli, was struck by a drone on Tuesday — the fifth such attack since Sunday. The strike caused a small fire that firefighters extinguished and the refinery remained operational; a separate attack occurred in the early hours of the same day. NOC said fuel supply was unaffected and daily deliveries to petrol stations continued as planned.
-
----
-
-### 2026-08-12 03:28:16  #市場
-
-【美元指數11日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.828。截至紐約匯市尾市，1歐元兌換1.1540美元，低於前一交易日的1.1542美元；1英鎊兌換1.3503美元，低於前一交易日的1.3509美元。1美元兌換159.26日元，高於前一交易日的159.24日元；1美元兌換0.8112瑞士法郎，高於前一交易日的0.8101瑞士法郎；1美元兌換1.3920加元，低於前一交易日的1.3942加元；1美元兌換9.5244瑞典克朗，高於前一交易日的9.5016瑞典克朗。
-
----
-
-### 2026-08-12 03:26:17  #公司
-
-【聯合海事資訊中心：阿曼灣一艘集裝箱船被直升機發射的導彈擊中】聯合海事資訊中心（JMIC）表示，一家航運公司報告，集裝箱船Vela Nova週二早些時候在距巴基斯坦海岸71海里處被一枚從直升機發射的導彈擊中。船長確認，船尾操舵艙被擊中，該船已無法被正常操縱。爆炸引發火災，火勢已被撲滅。所有船員均已確認安全，沒有人員受傷的報告。
-
----
-
-### 2026-08-12 03:23:43  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Mexican peso per US dollar rose to 17.0862, the highest level since February.
-
----
-
-### 2026-08-12 03:23:01  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-【Apple payments head Jennifer Bailey to retire in October】Jennifer Bailey, head of Apple’s payments and Wallet services, said she will retire and leave the company in October. The exit adds to a wave of senior executive departures at Apple — including Kate Adams and Lisa Jackson — and accelerates management turnover. Apple is also scheduled for a CEO transition on Sept. 1, when Tim Cook will step down and hardware chief John Ternus will succeed him.
-
----
-
-### 2026-08-12 03:22:08  #市場
-
-週二（8月11日）紐約尾盤，ICE原糖期貨漲1.64%，ICE白糖期貨漲1.15%。ICE阿拉比卡咖啡期貨衝高回落最終漲0.08%，咖啡“C”期貨跌0.35%、報312.80美分/磅、北京時間18:50達到327.55美分。羅布斯塔咖啡期貨跌0.37%。紐約可可期貨跌4.97%，報5637美元/噸。倫敦可可期貨跌0.17%。芝加哥WCE雙低油菜籽期貨跌1.75%。ICE棉花期貨漲0.68%。
-
----
-
-### 2026-08-12 03:20:40  #市場
-
-墨西哥比索繼續走強，匯率升至 1 美元兌 17.0862 比索，創 2 月以來最佳水平。
-
----
-
-### 2026-08-12 03:19:47  #國際
-
-美國疾控中心：針對接受 B 細胞耗竭或調節類藥物治療的患者，釋出蟲媒傳染病重症風險健康警示。目前尚無獲批的治療藥物、預防制劑以及人用疫苗，可預防美國本土流行的蟲媒傳染病。
-
----
-
-### 2026-08-12 03:16:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A Houthi spokesperson said Yemeni armed forces attacked Saudi military assembly points, weapons depots and command headquarters in Mecca Province and Marib Province.
-
----
-
-### 2026-08-12 03:15:31  #MKT News #EURUSD #Impact mixed #DXY
-
-【Bank of France sees Q3 GDP +0.2%】Bank of France expects Q3 GDP to rise 0.2%, unchanged from Q2 and slightly above market consensus of 0.1%. Services — notably transport, information and communications — should continue to support activity; manufacturing rebounded in August. Energy output is expected to expand, while construction may weaken further amid fewer public project contracts. A survey of about 8,500 firms showed slower July increases in raw material costs and selling prices, suggesting the pass-through of spring input-cost rises to final prices may be near completion. The bank flagged significant uncertainty from Middle East geopolitics and extreme weather and noted mixed signals ahead of the presidential election: a Q2 rebound alongside unemployment at a near six-year high and persistent budget deficit pressures.
-
----
-
-### 2026-08-12 03:15:12  #其他
-
-葉門胡塞武裝發言人：葉門武裝部隊襲擊了麥哈以及馬裡卜省境內的沙特軍隊集結點、武器庫與指揮總部。
-
----
-
-### 2026-08-12 03:14:54  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-A Houthi spokesman said Houthi forces will continue operations to strike any Saudi troops attempting to escalate the situation via Saudi troop assembly areas or to seize control of Yemen.
-
----
-
-### 2026-08-12 03:10:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
-
-【U.S. Central Command says it fired missiles at Panama-flagged merchant ship bound for Iranian port】Local time Aug. 11, U.S. Central Command said forces in the Gulf of Oman fired on the Panama-flagged merchant vessel Vela Nova as it headed for an Iranian port and attempted to breach a U.S. blockade. Central Command said the ship’s crew repeatedly ignored warnings, after which a U.S. Navy MH-60 helicopter fired two Hellfire missiles at the vessel’s engine room. The ship lost steering capability and stopped proceeding toward Iran. As of Aug. 11, Central Command said U.S. forces had forced 55 vessels attempting to breach the blockade to divert, rendered three noncompliant ships inoperable, and boarded and inspected two vessels. The blockade remains fully in effect.
-
----
-
-### 2026-08-12 03:09:26  #公司 #市場
-
-【城堡證券看好股市反彈 建議投資者為槓桿押注捲土重來做好準備】城堡證券認為，在經歷了一輪大規模股市去槓桿後，系統化買家正摩拳擦掌準備重新入場。“槓桿重置已經基本走到頭了，等到波動性下降就給系統化策略增加敞口創造了空間，” 城堡證券股票及衍生品策略主管Scott Rubner說，“廣度正在改善，相關性接近歷史低位，投資者越來越願意為上漲空間買單了。”城堡證券的資料顯示8月有望吸引買盤捲土重來，因槓桿ETF的管理資產上月暴跌至1540億美元，較6月底的2180億美元下降了近42%。降幅最大的板塊是半導體，目前槓桿ETF持有的相關資產約為310億美元。該公司表示，反彈的潛力正在積聚。“下一波有實質影響的機械性資金流可能是重新加槓桿而不是去槓桿，” Rubner在研報中寫道。他還說散戶也在迴歸，上週成了該公司平臺上的淨買入者，不過他們仍在花錢購買下行保護。與此同時財報季的結束意味著企業股票回購的視窗即將重新開啟。
-
----
-
-### 2026-08-12 03:09:26  #MKT News
-
-Iranian general Naqdi said all of Iran's military weapons are now domestically produced.
-
----
-
-### 2026-08-12 03:09:15  #MKT News
-
-As of June 30, Norway’s sovereign wealth fund held a 0.05% stake in SpaceX, valued at $1.22 billion.
-
----
-
-### 2026-08-12 03:09:07  #國際
-
-【美軍稱使用導彈襲擊一艘駛向伊朗港口的商船】當地時間8月11日，美國中央司令部表示，美軍當天在阿曼灣行動向一艘懸掛巴拿馬國旗、名為“維拉·諾瓦”號（Vela Nova）的貨輪開火。中央司令部稱，該船當時正駛向伊朗港口，試圖突破美國對伊朗實施的封鎖。美中央司令部稱，在“維拉·諾瓦”號船員多次無視美軍警告後，一架美國海軍MH-60直升機向該船發動機艙發射兩枚“地獄火”導彈。目前該船失去轉向能力，已停止駛往伊朗。美中央司令部還表示，截至8月11日，美軍已迫使55艘試圖突破封鎖的商船改道，使3艘拒不配合的船隻失去行動能力，並登臨檢查2艘船隻。美方稱，對伊朗的封鎖仍在全面實施。（央視新聞）
-
----
-
-### 2026-08-12 03:08:45  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bullish
-
-U.S. Treasury Secretary BESSENT welcomed Meta's release of Muse Glimmer as another win for U.S. innovation, saying U.S. AI leadership requires advancing both open-weight and closed-weight models and ensuring future systems are built on a trustworthy foundation.
-
----
-
-### 2026-08-12 03:08:17  #國際
-
-美國財長貝森特：我們歡迎 Meta 釋出 Muse Glimmer。
-
----
-
-### 2026-08-12 03:07:26  #MKT News #Important #Market Regions #Greater China #BILI.O #Impact bearish #NTES.O
-
-Nasdaq Golden Dragon China Index extended losses to 3%; Bilibili (BILI.O) fell over 5%; NetEase (NTES.O) fell nearly 4%.
-
----
-
-### 2026-08-12 03:07:00  #公司
-
-挪威主權財富基金：截至 6 月 30 日，持有SpaceX 0.05% 股份，價值 12.2 億美元。
-
----
-
-### 2026-08-12 03:05:27  #MKT News #Hang Seng Index #Impact bearish
-
-Hang Seng futures fell 0.37% in night trade to 25,533, trading about 120 points below the spot index.
-
----
-
-### 2026-08-12 03:05:09  #市場 #焦點
-
-納斯達克中國金龍指數跌超3%，騰訊音樂跌11.87%，1藥網跌8.29%，Tims中國跌8.05%，信也科技跌5.93%，陸金所控股跌5.72%。
-
----
-
-### 2026-08-12 03:04:10  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7466元，較週一夜盤收盤漲29點。成交量264.04億美元。
-
----
-
-### 2026-08-12 03:02:13  #MKT News
-
-U.S. Space Force General Gatlin said funding for the 'Golden Dome' must be resolved for 2027.
-
----
-
-### 2026-08-12 03:02:04  #公司 #市場 #國際
-
-美國芝加哥商業交易所集團（CME）將推出國家冰球聯盟（NHL）冰球期貨。
-
----
-
-### 2026-08-12 03:01:11  #MKT News #WTI #Impact bearish #Brent
-
-U.S. MILITARY says the vessel is no longer violating the U.S. blockade en route to Iran.
-
----
-
-### 2026-08-12 03:00:52  #MKT News
-
-U.S. military said a U.S. Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the cargo ship Vilanova.
-
----
-
-### 2026-08-12 03:00:03  #MKT News
-
-The U.S. military said earlier today that U.S. Central Command forces disabled the steering system of the Panama‑flagged cargo ship Villanova.
-
----
-
-### 2026-08-12 03:00:02  #市場
-
-恒指期貨夜盤收跌0.37%，報25531.96點，低水120.86點。
-
----
-
-### 2026-08-12 02:59:29  #MKT News
-
-As of Aug. 11 local time, the U.S. military said U.S. Central Command had redirected 55 merchant vessels attempting to breach the blockade, disabled three non-compliant ships and boarded and inspected two.
-
----
-
-### 2026-08-12 02:58:49  #國際
-
-美國軍方：（遭到攻擊後）該船隻不再違反美國封鎖令駛往伊朗。
-
----
-
-### 2026-08-12 02:58:15  #國際
-
-美國軍方：截至8月11日，中央司令部已引導55艘試圖突破封鎖的商船改變航線，迫使3艘違規船隻喪失航行能力，並對2艘船隻實施了登船檢查。
-
----
-
-### 2026-08-12 02:57:59  #其他
-
-美軍：今日早些時候，中央司令部部隊癱瘓了懸掛巴拿馬國旗的“維拉諾瓦”號貨輪的轉向系統。
-
----
-
-### 2026-08-12 02:57:52  #國際
-
-美軍：美國海軍MH-60直升機向“維拉諾瓦”號機艙發射了兩枚“地獄火”導彈。
-
----
-
-### 2026-08-12 02:57:34  #其他
-
-美軍摧毀了一艘懸掛巴拿馬國旗的船隻的轉向裝置。
-
----
-
-### 2026-08-12 02:57:24  #國際
-
-美國太空部隊蓋特萊因將軍：我們需要落實2027年“金色穹頂”專案的資金。
-
----
-
-### 2026-08-12 02:54:57  #資料 #央行 #國際
-
-【美國銀行：美元對CPI低於預期會更為敏感】美國銀行分析師認為，如果美國通貨膨脹報告意外低於預期，美元可能會出現相對而言更強烈的反應，因為這將“基本排除”美聯儲9月份加息的可能性，並對當前的市場定價構成挑戰。
-
----
-
-### 2026-08-12 02:54:24  #MKT News
-
-Canadian Prime Minister Carney said the government needs to build affordable housing quickly and at scale and has launched the "Build Canada Homes" project to achieve that.
-
----
-
-### 2026-08-12 02:53:23  #市場
-
-愛迪生國際股價上漲至盤中最高點3%。
-
----
-
-### 2026-08-12 02:52:35  #MKT News
-
-The FAA said the air traffic control tower at Spokane International Airport was evacuated after a building fire alarm; the alarm was later confirmed false. Flight operations were unaffected and the airport remained open.
-
----
-
-### 2026-08-12 02:50:57  #國際
-
-美國聯邦航空管理局（FAA）：斯波坎空中交通管制塔因樓宇火警警報疏散，經核實為誤報。航班執行未受影響，機場仍保持開放並正常運營。
-
----
-
-### 2026-08-12 02:50:47  #MKT News
-
-U.S. Space Force Gen. Gatelin said the Golden Dome program has successfully completed two tests.
 
 ---

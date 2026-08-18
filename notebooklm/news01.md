@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 02:49:53_
-_本檔包含 3063 則快訊，約 605120 字_
+_更新時間：2026-08-19 03:35:12_
+_本檔包含 3077 則快訊，約 605455 字_
+
+---
+
+### 2026-08-19 03:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic.
+
+---
+
+### 2026-08-19 03:33:51  #公司
+
+委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。
+
+---
+
+### 2026-08-19 03:33:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond.
+
+---
+
+### 2026-08-19 03:33:34  #國際
+
+阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。
+
+---
+
+### 2026-08-19 03:33:04  #MKT News
+
+U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it.
+
+---
+
+### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
+
+---
+
+### 2026-08-19 03:31:46  #國際
+
+美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。
+
+---
+
+### 2026-08-19 03:31:45  #國際
+
+美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。
+
+---
+
+### 2026-08-19 03:30:43  #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。
+
+---
+
+### 2026-08-19 03:27:33  #國際
+
+阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。
+
+---
+
+### 2026-08-19 03:27:08  #MKT News
+
+【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
+
+---
+
+### 2026-08-19 03:27:01  #國際
+
+【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）
+
+---
+
+### 2026-08-19 03:26:51  #國際
+
+市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。
+
+---
+
+### 2026-08-19 03:25:46  #國際
+
+【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。
+
+---
+
+### 2026-08-19 03:25:20  #MKT News
+
+Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%.
+
+---
+
+### 2026-08-19 03:24:55  #MKT News #Commodities #Energy
+
+【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery.
+
+---
+
+### 2026-08-19 03:24:05  #央行 #其他
+
+委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。
+
+---
+
+### 2026-08-19 03:24:04  #MKT News
+
+【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment.
+
+---
+
+### 2026-08-19 03:20:50  #國際
+
+遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。
+
+---
+
+### 2026-08-19 03:20:26  #MKT News
+
+Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026.
+
+---
+
+### 2026-08-19 03:20:03  #央行 #其他
+
+委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。
+
+---
+
+### 2026-08-19 03:19:40  #國際
+
+伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。
+
+---
+
+### 2026-08-19 03:18:02  #國際
+
+【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。
+
+---
+
+### 2026-08-19 03:17:29  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again.
+
+---
+
+### 2026-08-19 03:16:51  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
+
+USD/CAD briefly fell over 10 pips, now 1.3896.
+
+---
+
+### 2026-08-19 03:16:15  #市場
+
+現貨鉑金價格下跌3%，至每盎司1717.90美元。
+
+---
+
+### 2026-08-19 03:16:01  #其他
+
+市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。
+
+---
+
+### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
+
+Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
+
+---
+
+### 2026-08-19 03:15:27  #宏觀 #國際
+
+【特朗普正考量是否給予加拿大關稅暫緩豁免】知情人士透露，美加之間一份旨在避免對加拿大商品加徵新關稅的協議，現已交由美國總統特朗普定奪。目前，是否於午夜按計劃正式開徵50%關稅，決定權掌握在特朗普手中。美、加官員連日展開不間斷談判。美方政府施壓，要求加拿大取消去年針對特朗普關稅出臺的報復性舉措，包括加拿大各省對美國酒類實施的禁令、針對美國汽車徵收的關稅；渥太華方面則希望美方下調針對汽車及其他商品的關稅。其中兩名知情人士稱，這份逐步成型的潛在協議，還包含加拿大在乳製品關稅配額方面作出讓步，該議題頻繁出現在特朗普批評加拿大貿易政策的公開表態中。
+
+---
+
+### 2026-08-19 03:14:56  #MKT News
+
+Dutch foreign minister says the Netherlands opposes recent US sanctions on officials and staff of the International Criminal Court.
+
+---
+
+### 2026-08-19 03:14:13  #MKT News
+
+IRNA reported Iran's ambassador to Kuwait met four Iranians who have been detained in Kuwait for three months.
+
+---
+
+### 2026-08-19 03:13:53  #國際
+
+伊朗駐科威特大使會見了三個月前被扣留在科威特的四名伊朗公民。
+
+---
+
+### 2026-08-19 03:13:07  #國際
+
+荷蘭外交大臣：荷蘭不認可美國近期針對國際刑事法院官員及工作人員實施的制裁。
+
+---
+
+### 2026-08-19 03:13:00  #其他
+
+英國海上貿易行動辦公室：葉門穆哈港東南40海里海域一艘貨船遭多枚炮彈擊中，事發時該貨船船上無船員，船隻受損嚴重。有關部門正在開展調查。
+
+---
+
+### 2026-08-19 03:11:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Officials say Trump threatened Oman over proposed Iran-Oman Strait of Hormuz deal】Two regional officials told CBS on Tuesday that President Trump threatened to bomb Oman over a proposed Oman-Iran agreement to manage ship transit through the Strait of Hormuz. The officials said the Trump administration informed Oman it opposed parts of the not-yet-public deal, including arrangements for Iran and Oman to jointly manage exit lanes from the strait. U.S. officials viewed Oman as insufficiently tough in negotiations and objected to Oman's agreement to levy voluntary fees on vessels purportedly for security and marine-environment protection.
+
+---
+
+### 2026-08-19 03:11:33  #國際
+
+市場資訊：特朗普正在考慮暫緩對加拿大徵收關稅。
+
+---
+
+### 2026-08-19 03:11:14  #國際
+
+特朗普本週正在面試美國食品藥品監督管理局（FDA）最高職位的候選人。
+
+---
+
+### 2026-08-19 03:08:38  #MKT News
+
+WHO director-general TEDROS said the Ebola outbreak in the Democratic Republic of the Congo remains a public health emergency of international concern.
+
+---
+
+### 2026-08-19 03:07:37  #MKT News
+
+Former Ukrainian defense minister Fedorov called for wartime elections in Ukraine.
+
+---
+
+### 2026-08-19 03:06:34  #其他
+
+世衛組織總幹事譚德塞：剛果（金）埃博拉疫情仍構成國際關注的突發公共衛生事件。
+
+---
+
+### 2026-08-19 03:05:51  #國際
+
+被解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉。
+
+---
+
+### 2026-08-19 03:03:15  #國際
+
+【美加關稅談判進入最後關頭 特朗普政府淡化達成協議預期】據知情人士透露，特朗普政府正淡化外界對美加兩國在最後一刻達成協議以避免將於週三生效的新關稅的預期。美方私下表示，雙方週二達成協議的可能性只有五五開甚至更低。兩國需要在午夜截止期限前達成協議，否則美國將對價值數十億美元的加拿大商品徵收50%的關稅。
+
+---
+
+### 2026-08-19 03:02:44  #MKT News #Commodities #Energy #WTI
+
+U.S. Deputy Energy Secretary Haositeweit said roughly half of Venezuela's oil production is currently being exported to the United States.
+
+---
+
+### 2026-08-19 03:02:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Politico reports several US independent oil producers are expected to sign production contracts with Venezuela's state oil company PDVSA on Tuesday; three people familiar with the matter said the signing ceremony is scheduled for Tuesday evening in Houston.
+
+---
+
+### 2026-08-19 03:01:52  #公司 #國際
+
+【美國石油企業即將敲定委內瑞拉相關協議】數家美國獨立石油生產商預計將於週二同委內瑞拉國有石油公司PDVSA簽署生產合同。三名知情人士透露，簽約儀式定於週二晚間在休斯頓舉行。該系列協議或將標誌著美國在委內瑞拉的能源參與力度大幅提升。
+
+---
+
+### 2026-08-19 03:01:27  #國際
+
+美國能源部副部長豪斯特維特表示，委內瑞拉目前約有一半的石油產量出口至美國。
+
+---
+
+### 2026-08-19 03:01:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures night session closed down 0.28% at 25,371, trading 100 points below the cash index.
+
+---
+
+### 2026-08-19 03:00:02  #市場
+
+恒指期貨夜盤收跌0.29%，報25368.39點，低水102.76點。
+
+---
+
+### 2026-08-19 02:59:15  #公司 #國際
+
+【蓋茨支援的TerraPower將於今年宣佈第二座核電站】TerraPower LLC是美國唯一一家正在建設公用事業級核電站的公司，該公司預計將於今年宣佈其下一個專案——該專案計劃服務於一座資料中心。該公司執行長克里斯·勒貝克（Chris Levesque）表示，這將使這家由比爾·蓋茨支援的公司有望在2027年為其第二個專案破土動工。他拒絕透露客戶身份。
+
+---
+
+### 2026-08-19 02:54:52  #市場
+
+加元兌美元下跌0.3%，至日內低點1.3910加元兌1美元。
+
+---
+
+### 2026-08-19 02:54:15  #MKT News
+
+Colombian government statistics show the earthquake death toll has risen to 304.
+
+---
+
+### 2026-08-19 02:51:51  #MKT News #Important #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+【U.S.-Canada tariff talks stall; chances of deal waning】Sources say the Trump administration is lowering market expectations that a last-minute deal will avert new tariffs due to take effect Wednesday. U.S. officials privately put the odds of a Tuesday agreement at about 50/50 or lower as negotiators head to a midnight deadline when billions of dollars of Canadian goods would face 50% tariffs. It is unclear whether the signals reflect genuine progress or a U.S. tactic to gain leverage; Trump is expected to speak again with Canadian Prime Minister Carney on Tuesday after a Monday call.
+
+---
+
+### 2026-08-19 02:49:40  #市場
+
+【芝加哥小麥期貨跌約1.8%，大豆油跌1.7%】週二（8月18日）紐約尾盤，彭博穀物分類指數跌0.55%，報32.2859點，美股開盤之前維持小幅上漲的狀態、之後持續下挫。CBOT玉米期貨跌0.36%，CBOT小麥期貨跌1.78%。CBOT大豆期貨跌0.06%，報12.1525美元/蒲式耳，豆粕期貨跌0.19%，豆油期貨跌1.71%。CBOT瘦肉豬期貨跌1.22%，活牛期貨漲0.17%，飼牛期貨漲0.44%。
 
 ---
 
@@ -18255,239 +18573,5 @@ SpaceX 漲幅擴大至盤中高點 5.8%。
 ### 2026-08-17 21:57:49  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent #XAUUSD
 
 【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize.
-
----
-
-### 2026-08-17 21:57:03  #公司 #市場
-
-【美股半導體裝置股走高】美股半導體裝置股走高，AXT Inc大漲超11%，應用材料、艾馬克技術漲超5%，科磊、泰瑞達、泛林集團漲約2%。
-
----
-
-### 2026-08-17 21:55:01  #MKT News #Commodities #Energy
-
-Bolivia will increase diesel prices by 84% for purchases exceeding 120 liters per month.
-
----
-
-### 2026-08-17 21:54:56  #公司
-
-美股網路安全公司盤初集體走低，Cloudflare跌近3%，飛塔資訊跌2%，CrowdStrike跌超1%。
-
----
-
-### 2026-08-17 21:54:40  #市場
-
-現貨黃金15分鐘內拉昇逾20美元，現報4404美元/盎司。
-
----
-
-### 2026-08-17 21:54:35  #其他
-
-市場訊息：玻利維亞對月購買量超過 120 升的柴油，提價 84%。
-
----
-
-### 2026-08-17 21:54:34  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold jumped over $20 within 15 minutes to $4,404/oz.
-
----
-
-### 2026-08-17 21:54:21  #其他
-
-【三峽能源與國網天津電力座談】據三峽能源訊息，8月17日，三峽能源董事長、黨委書記朱承軍，總經理、黨委副書記劉姿赴天津與國網天津電力董事長、黨委書記錢慶林，董事、總經理、黨委副書記武登峰舉行座談，雙方就深化務實合作開展深入交流。座談中，雙方回顧了長期以來緊密協作、互信共贏的良好合作基礎，並表示將持續深化戰略協同，聚焦陸上新能源專案建設、海上風電開發、綠電消納等重點領域深耕務實合作，合力推進“十五五”時期新型電力系統建設。
-
----
-
-### 2026-08-17 21:54:03  #國際
-
-美國能源部長賴特：美國的天然氣產量位居全球首位。得益於特朗普總統推行的美國能源主導議程，未來數十年我們仍將保持領先地位。今日很高興來到得克薩斯州米德蘭市，這裡是二疊紀盆地油氣產業的核心地帶，該地自 2016 年以來石油產量增長了 250%。
-
----
-
-### 2026-08-17 21:53:52  #MKT News
-
-White House: Trump administration and TrumpRx are sharply lowering prescription drug prices; pledge fulfilled.
-
----
-
-### 2026-08-17 21:53:51  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Approaches 19-Year High — The yield on the 10-year US Treasury note rose past 4.7% on Monday, not far from the 19-month high of 4.75% tested last week as lingering concerns of inflation and increasing credit supply extended the aversion to bonds in the long end of the curve. Oil prices rose further as President Trump signaled there was no rush to end the blockade against Iran energy, preventing the flow of tankers from the Persian Gulf. Higher energy prices lifted underlying inflation this year, although a softer CPI cooled immediate worries. Still, concerns that the Federal Reserve may be complacent against inflation were reflected by the surge in long-dated yields. These were initially flagged by Fed Chair Warsh stating a rate hike may not be the preferred tool to combat higher prices. Lastly, debt issuance in the US soared as AI companies raised $1.5 trillion in bonds this year, lifting the supply of dollar-denominated fixed-income that could limit the relative appetite for Treasury securities.
-
----
-
-### 2026-08-17 21:53:34  #其他
-
-辛巴威警方：卡里巴湖8月11日沉船事故遇難人數在找到更多遺體後已升至92人。
-
----
-
-### 2026-08-17 21:53:22  #MKT News #Commodities #Energy
-
-U.S. Energy Secretary Wright said the United States is the world's leading natural gas producer and, thanks to President Trump's 'energy dominance' agenda, will remain so for decades.
-
----
-
-### 2026-08-17 21:53:19  #國際
-
-伊朗外交部發言人：美國新一輪制裁不會動搖伊朗的決心。
-
----
-
-### 2026-08-17 21:52:05  #公司
-
-【叮咚買菜在部分割槽域試點每筆訂單收取基礎包裝費，上海暫不收】叮咚買菜官方公告稱，自2026年8月24日起，每筆訂單收取0.6元基礎包裝費；若訂單包含需保溫配送的商品，在基礎包裝費上加收0.4元每單的保溫包裝費。澎湃新聞記者從叮咚買菜獲悉，目前，這一收費在江浙等部分割槽域試行，試行區域暫不包括上海。
-
----
-
-### 2026-08-17 21:51:10  #其他
-
-費城半導體指數漲2%，報12668.44點。
-
----
-
-### 2026-08-17 21:51:06  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-According to CNN, U.S. envoy Jared Kushner urged Israeli leader Benjamin Netanyahu to advance a Trump-backed Gaza ceasefire plan, saying "do not create obstacles".
-
----
-
-### 2026-08-17 21:50:57  #其他
-
-英格蘭銀行拍賣7.25億英鎊剩餘期限為3-7年的金邊債券，投標倍數為2.18。
-
----
-
-### 2026-08-17 21:50:52  #公司
-
-【TCL科技：20億元公司債券更名】TCL科技公告稱，公司此前獲證監會註冊發行不超過100億元公司債券，本期擬發行規模不超過20.00億元的債券，原名稱“TCL科技集團股份有限公司2025年面向專業投資者公開發行公司債券”，現變更為“TCL科技集團股份有限公司2026年面向專業投資者公開發行科技創新公司債券(數字經濟)(第二期)”。本次債券名稱變更不改變原發行相關法律檔案的效力，原簽署的相關法律檔案對更名後的債券繼續有效。
-
----
-
-### 2026-08-17 21:50:08  #其他
-
-【今年前7個月訪港旅客3122萬人次】香港旅遊發展局17日公佈的資料顯示，7月訪港旅客達450萬人次，同比上升3%。今年前7個月訪港旅客累計約3122萬人次，同比增加11%。今年7月，多項國際大型展會及盛事活動在港舉行，為部分客源市場增長提供支援。7月非內地旅客約89.7萬人次，同比上升2%。香港旅發局表示，下半年將推出多項盛事活動，涵蓋體育、美食等多個領域，包括“香港單車節”“香港美酒佳餚巡禮”等專案，以豐富的體驗吸引旅客訪港。此外，旅發局將聯合業界推出多元的推廣活動，鼓勵旅客深度探索香港，延長逗留時間，進一步帶動旅遊相關消費。（新華社）
-
----
-
-### 2026-08-17 21:50:05  #MKT News #WTI #Impact bearish
-
-Islamic Republic of Iran Broadcasting (IRIB) reported the Yemeni side said the only safe, low-cost way to resolve the crisis is to end the blockade and stop interfering in Yemen's internal affairs.
-
----
-
-### 2026-08-17 21:50:05  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-U.S. August NAHB housing market index due in 10 minutes.
-
----
-
-### 2026-08-17 21:49:43  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-IRIB reported Yemen said any Saudi action that escalates tensions will be met with a reciprocal response.
-
----
-
-### 2026-08-17 21:49:09  #公司
-
-【恆逸石化：擬提前全額贖回“恆逸轉2”】恆逸石化公告稱，2026年8月17日公司股票已觸發“恆逸轉2”有條件贖回條款，董事會決定行使提前贖回權利，贖回價格為100.25元/張（含息稅）。贖回安排如下：9月4日起“恆逸轉2”停止交易，9月8日為贖回登記日，9月9日為贖回日且當日起停止轉股，贖回完成後“恆逸轉2”將在深交所摘牌。截至9月8日收市後仍未轉股的“恆逸轉2”將被強制贖回，提醒持有人注意在限期內轉股，避免面臨損失。
-
----
-
-### 2026-08-17 21:48:55  #其他
-
-葉門：沙特但凡升級緊張局勢，必將予以對等回應。
-
----
-
-### 2026-08-17 21:47:45  #公司 #市場 #觀點 #央行 #國際
-
-【摩根大通：股票買盤群體範圍“廣泛”】由安德魯・泰勒牽頭的摩根大通市場情報團隊表示，未來數週，大批股票買方或將尋求重新提高總敞口、重新加槓桿。該團隊在研報中寫道，潛在買方包括計劃回購股份的企業、個人投資者以及量化交易機構。團隊維持 “戰術性看多” 觀點。他們稱：“市場繼續在擔憂聲浪中上行。” 本週市場關注點為週三美聯儲會議紀要，市場將從中挖掘主席凱文・沃什的政策思路線索；下週重點則是英偉達財報以及傑克遜霍爾全球央行年會。他們寫道，後兩項事件或將 “改變市場敘事”。上週市場擔憂因素包括通脹、零售銷售等增長資料，以及美債拍賣與美聯儲官員講話。上月末，摩根大通表示其內部指標 “發出買入訊號”，該訊號歷史上通常預示標普 500 指數即將上漲。自那以後，該基準指數已累計上漲約 5%。
-
----
-
-### 2026-08-17 21:46:53  #MKT News
-
-According to Saudi state television, Kushner and Mladenov told Netanyahu mediators are in full agreement that Hamas must be disarmed; under the agreement, all Hamas weapons will be removed from Gaza.
-
----
-
-### 2026-08-17 21:46:11  #MKT News
-
-Saudi state TV said a meeting on a Gaza plan involving Kushner, Mladenov (senior 'peace committee' representative for Gaza), Netanyahu and the Israeli president has concluded; Kushner and Mladenov delivered a message from Trump urging Netanyahu to move the plan into its implementation phase.
-
----
-
-### 2026-08-17 21:45:34  #公司
-
-【國能日新：公司已在人工智慧、平行計算等方向進行前瞻性資源佈局】國能日新8月17日在業績說明會上表示，公司已在人工智慧、平行計算等方向進行前瞻性資源佈局，建成多套由HPC與GPU叢集構成的高效能算力底座。硬體資源不僅支撐了大規模氣象模型與深度學習模型的訓練與推理，也為實時交易決策所需的密集計算提供堅實基礎，形成顯著的算力壁壘。
-
----
-
-### 2026-08-17 21:45:20  #央行 #其他
-
-巴西央行在附帶回購協議的美元拍賣中出售10億美元。
-
----
-
-### 2026-08-17 21:45:14  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
-
-Brazil's central bank sold $1 bln in a dollar auction backed by repurchase agreements.
-
----
-
-### 2026-08-17 21:44:38  #國際
-
-白宮新聞秘書：特朗普總統稱讚防務協議，稱中東地區正 “走向團結”。
-
----
-
-### 2026-08-17 21:44:12  #其他
-
-【美股光通訊板塊盤初走高】美股光通訊板塊盤初走高，邁威爾科技漲超6%，Coherent漲超4%，Lumentum漲超3%。
-
----
-
-### 2026-08-17 21:42:47  #MKT News #DXY #Impact mixed
-
-【CIBC economist says BoC likely to remain on hold】CIBC capital markets economist Andrew Grantham said the Bank of Canada is unlikely to rush to re-evaluate policy after July CPI accelerated to 3.0%, slightly above forecasts, driven by energy and World Cup-related travel costs. Core inflation excluding volatile items remained around 2%, and inflation excluding gasoline held at 2.2%. Grantham said the BoC has ample time to assess the impact of energy prices and US-Canada trade tensions before adjusting rates; the next decision is Sept. 2.
-
----
-
-### 2026-08-17 21:41:55  #國際
-
-俄羅斯 7 月工業產出同比增長 4.9%。
-
----
-
-### 2026-08-17 21:40:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.29% Lower — The Dow Jones Index is falling 158 points. Losses were driven by McDonalds (-1.81%), UnitedHealth (-1.63%) and Microsoft (-1.09%). Biggest rises came from Cisco Systems (1.49%), Caterpillar (0.70%) and Goldman Sachs (0.31%).
-
----
-
-### 2026-08-17 21:39:48  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Monday, rising about 0.5% to 2,878 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the second day, up 1.2% to 4,590 points; and the supramax index went up 0.4% to its highest level since July 28 at 1,628 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1% to its lowest since August 4 at 2,206 points.
-
----
-
-### 2026-08-17 21:38:54  #其他
-
-約旦國王阿卜杜拉二世接受新華社專訪。（新華社）
-
----
-
-### 2026-08-17 21:38:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
-
----
-
-### 2026-08-17 21:37:42  #國際
-
-【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）
 
 ---
