@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-19 02:15:01",
+  "updated": "2026-08-19 02:18:55",
   "count": 15095,
   "items": [
+    {
+      "id": "mkt:01a01617-8f4d-7aab-9080-5a417c1c9a8e",
+      "time": "2026-08-19 02:17:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran parliament speaker Ghalibaf lashes US officials, says BESSENT, Hegseth \"completely beyond their capabilities\"】Ghalibaf said on social media that US Treasury Secretary BESSENT and US Defense Secretary Hegseth were \"completely beyond their capabilities\" and accused Washington of assuming greater pressure would extract concessions that were never part of the deal. He said the Strait of Hormuz will remain closed until Washington meets Iran's conditions."
+    },
+    {
+      "id": "mkt:01a01617-8bdc-7aab-9080-5216195b62a8",
+      "time": "2026-08-19 02:17:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israeli forces continue strikes on Gaza; Palestinian health ministry reports 6 dead, 14 wounded】On the 18th the Israel Defense Forces said it continued strikes in the Gaza Strip, saying it struck several Hamas commanders in the Shati area and targeted a Nukhba unit meeting. The Palestinian health ministry said an airstrike on Gaza City's western port area killed six people, including a child, and wounded 14 (20 casualties total)."
+    },
+    {
+      "id": "5046408",
+      "time": "2026-08-19 02:16:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨日內漲超3.00%，現報2.771美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a01616-bcc9-7aab-9080-4dc7f1e1b5b9",
+      "time": "2026-08-19 02:16:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose over 3% intraday to $2.771/MMBtu."
+    },
+    {
+      "id": "te:markets:576222",
+      "time": "2026-08-19 02:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 3.81% — Top commodity gainers are Natural Gas EU (3.81%), Natural Gas UK (3.40%), Germany Natural Gas THE (3.19%) and Crude Oil WTI (0.37%). Biggest loser is Ethanol (-0.74%). Meanwhile Brent Crude Oil was little changed."
+    },
+    {
+      "id": "mkt:01a01615-68f1-7aab-9080-456988d5d3da",
+      "time": "2026-08-19 02:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Liberia has agreed to accept up to 1,200 third-country nationals deported from the United States, according to a statement."
+    },
     {
       "id": "mkt:01a01614-a1b0-7aab-9080-3aeb04024124",
       "time": "2026-08-19 02:14:05",
@@ -138310,70 +138372,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Falls by 1.72% — Top commodity losers are Silver (-1.72%) and Gold (-0.55%). Gains are led by Iron Ore CNY (1.12%), Silicon (0.58%) and Steel Rebar (0.53%)."
-    },
-    {
-      "id": "mkt:019ff20a-f847-7aab-8ff8-e51e95c8c7d5",
-      "time": "2026-08-12 02:17:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Nick Timiraos: Wosh skeptical of 'data-dependent' policy, old framework still dominates】WSJ's Nick Timiraos says markets will focus on Wednesday's July inflation MoM print as a rising number of FOMC officials treat upcoming monthly inflation readings as decisive for whether their forecast of inflation falling to 2% over the next two years remains achievable without further rate hikes. New Fed chair Wosh has expressed skepticism about linking policy-sensitive forecast revisions to high-frequency data, saying he sees little practical value in the Fed's current \"data-dependent\" approach. A working group set up by Wosh appears intended to help design a replacement framework, but until a new framework is clarified the old one still appears to be guiding policy."
-    },
-    {
-      "id": "te:markets:574505",
-      "time": "2026-08-12 02:16:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Thermo Fisher Scientific Stock Price Hits 27-week High — Thermo Fisher Scientific shares increased to 602.82 USD, the highest since January 2026. Over the past 4 weeks, Thermo Fisher Scientific gained 14.04%, and in the last 12 months, it increased 26.25%."
-    },
-    {
-      "id": "5036315",
-      "time": "2026-08-12 02:15:43",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會宣告：指控歌利亞風險投資公司及其執行長涉嫌實施4億美元詐騙。"
-    },
-    {
-      "id": "5036314",
-      "time": "2026-08-12 02:15:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱烏克蘭已向美國談判人員提交了終止俄烏衝突的方案提案。"
-    },
-    {
-      "id": "te:markets:574504",
-      "time": "2026-08-12 02:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Rises by 3.80% — Top commodity gainers are Methanol (3.80%), Heating Oil (1.42%), Crude Oil WTI (1.22%) and Brent Crude Oil (1.13%). Biggest losers are Germany Natural Gas THE (-3.47%), Natural Gas UK (-1.59%) and Natural Gas EU (-1.26%)."
-    },
-    {
-      "id": "mkt:019ff209-0f3c-7aab-8ff8-ddaa7500bf13",
-      "time": "2026-08-12 02:15:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Zelenskiy said Ukraine has submitted a proposal to the U.S. negotiating representative to end the war with Russia."
     }
   ]
 }
