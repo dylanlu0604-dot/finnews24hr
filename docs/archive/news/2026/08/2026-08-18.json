@@ -1,7 +1,58 @@
 {
   "date": "2026-08-18",
-  "count": 2657,
+  "count": 2662,
   "items": [
+    {
+      "id": "mkt:01a01596-f255-7aab-907f-0bd377f16206",
+      "time": "2026-08-18 23:56:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Russia says Ukraine struck Zaporizhzhia NPP bus stop to disrupt planned IAEA visit】Russia’s foreign ministry spokeswoman Zakharova said a drone explosion at a bus stop at the Zaporizhzhia nuclear plant on the 18th was carried out by Ukrainian forces to obstruct an IAEA director‑general Grossi visit scheduled for the 20th–21st. Zakharova said Kyiv has repeatedly targeted the plant and its staff, and that the latest strike also hit vehicles carrying IAEA Secretariat representatives; she warned Western political support for Ukraine is encouraging “more reckless” actions that could raise the risk of a nuclear disaster with potentially catastrophic global consequences."
+    },
+    {
+      "id": "te:markets:576209",
+      "time": "2026-08-18 23:56:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%."
+    },
+    {
+      "id": "5046350",
+      "time": "2026-08-18 23:56:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋亞那總統：蓋亞那目前有權獲得斯塔布魯克區塊原油產量的 39.8%。"
+    },
+    {
+      "id": "5046349",
+      "time": "2026-08-18 23:55:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。"
+    },
+    {
+      "id": "mkt:01a01595-25c9-7aab-907f-059ad080a6bc",
+      "time": "2026-08-18 23:54:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections."
+    },
     {
       "id": "te:markets:576208",
       "time": "2026-08-18 23:53:04",

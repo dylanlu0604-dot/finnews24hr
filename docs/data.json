@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-18 23:53:52",
-  "count": 15181,
+  "updated": "2026-08-18 23:57:44",
+  "count": 15184,
   "items": [
+    {
+      "id": "mkt:01a01596-f255-7aab-907f-0bd377f16206",
+      "time": "2026-08-18 23:56:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Russia says Ukraine struck Zaporizhzhia NPP bus stop to disrupt planned IAEA visit】Russia’s foreign ministry spokeswoman Zakharova said a drone explosion at a bus stop at the Zaporizhzhia nuclear plant on the 18th was carried out by Ukrainian forces to obstruct an IAEA director‑general Grossi visit scheduled for the 20th–21st. Zakharova said Kyiv has repeatedly targeted the plant and its staff, and that the latest strike also hit vehicles carrying IAEA Secretariat representatives; she warned Western political support for Ukraine is encouraging “more reckless” actions that could raise the risk of a nuclear disaster with potentially catastrophic global consequences."
+    },
+    {
+      "id": "te:markets:576209",
+      "time": "2026-08-18 23:56:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%."
+    },
+    {
+      "id": "5046350",
+      "time": "2026-08-18 23:56:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋亞那總統：蓋亞那目前有權獲得斯塔布魯克區塊原油產量的 39.8%。"
+    },
+    {
+      "id": "5046349",
+      "time": "2026-08-18 23:55:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。"
+    },
+    {
+      "id": "mkt:01a01595-25c9-7aab-907f-059ad080a6bc",
+      "time": "2026-08-18 23:54:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections."
+    },
     {
       "id": "te:markets:576208",
       "time": "2026-08-18 23:53:04",
@@ -139262,23 +139313,6 @@
         "國際"
       ],
       "text": "歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。"
-    },
-    {
-      "id": "5036223",
-      "time": "2026-08-11 23:55:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【霍爾木茲海峽重開預期升溫，卡達加大液化天然氣裝船作業】卡達液化天然氣裝船量攀升至3月以來最高水平，預示該國正在為霍爾木茲海峽可能重新開放做準備。拉斯拉凡港液化天然氣日均裝船量約8萬噸，但該規模仍較去年同期下降約60%。卡達14條液化天然氣生產線中有7條顯現開工跡象，表明受戰事幹擾後的生產正在逐步恢復。但出口能否全面復甦仍取決於霍爾木茲海峽航運通行，目前相關外交談判正在推進，但無法保證能夠達成協議。"
-    },
-    {
-      "id": "5036222",
-      "time": "2026-08-11 23:54:18",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【中國人保：提名譚炯為執行董事候選人並選舉其為董事長】中國人保告稱，公司董事會審議透過議案，提名譚炯為第五屆董事會執行董事候選人，並選舉其為公司董事長。"
     }
   ]
 }
