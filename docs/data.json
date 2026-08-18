@@ -1,7 +1,100 @@
 {
-  "updated": "2026-08-18 20:32:36",
-  "count": 15157,
+  "updated": "2026-08-18 20:36:35",
+  "count": 15163,
   "items": [
+    {
+      "id": "mkt:01a014df-186d-7aab-907a-6fc181d25b8f",
+      "time": "2026-08-18 20:36:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's cabinet will discuss the draft 2027 budget on Friday."
+    },
+    {
+      "id": "5046090",
+      "time": "2026-08-18 20:35:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭內閣將於週五審議2027年預算草案。"
+    },
+    {
+      "id": "mkt:01a014de-c080-7aab-907a-66511d71b9c8",
+      "time": "2026-08-18 20:35:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【US 10-year yield rises to highest since early 2025】A global bond selloff pushed the US 10-year Treasury yield to its highest level since early 2025 amid thin August trading, with investors wary of inflation and heavy corporate issuance. Sovereign bonds from Europe to Japan moved similarly as uncertainty over the inflation outlook and changes to bond-buying structures weighed on demand. Germany sold 30-year debt via banks earlier, sending yields to 15-year highs. BMO Capital Markets US rates strategist Ian Ling said the selloff \"has become a macro event.\" He said he does not expect a Fed hike next month but markets may not price a zero probability ahead of the decision; the cancellation of forward guidance has further complicated the policy outlook."
+    },
+    {
+      "id": "5046089",
+      "time": "2026-08-18 20:34:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【靈巧手從5萬降到萬元內 國內靈巧手賽道融資暴漲1500%】今年以來，國內人形機器人產業化提速，帶動核心零部件靈巧手市場加速發展。行業呈現銷量翻倍增長、產品大幅降價、觸覺感知加速普及三大變化，曾經的高階選配功能，正快速成為靈巧手的量產標配。深圳一家企業告訴央視財經記者：“前年靈巧手平均一隻5萬元，今年基本能做到1萬元以下，我們的六自由度靈巧手是6000到8000元。”資料顯示，2025年中國靈巧手市場銷量約1.92萬隻，預計2026年有望達7.02萬隻。到2030年，隨著人形機器人應用場景拓展、靈巧手技術突破和成本下降，預計中國靈巧手市場銷量有望突破43萬隻。 同時，靈巧手賽道也邁入產業化快車道。據瞭解，今年靈巧手賽道投融資熱度明顯升溫，核心在於行業正從“實驗室”邁向“場景落地”。但企業在成本、效能、穩定性和運算元據積累等方面仍需持續攻關。根據高工人形機器人不完全統計，截至2026年7月30日，國內靈巧手賽道累計融資金額突破80億元，較2025年同期5億元同比增長1500%。今年上半年，感測器領域包括柔性觸覺感測器等累計融資金額約30億，同比增長160.87％。（央視財經）"
+    },
+    {
+      "id": "5046088",
+      "time": "2026-08-18 20:34:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "EINRIDE執行長：受亞馬遜部署及特斯拉Semi初步推廣推動，預計年底車隊規模將接近400輛卡車。"
+    },
+    {
+      "id": "5046087",
+      "time": "2026-08-18 20:34:29",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST萃華：預計無法在2026年9月6日前披露2025年年報，觸及規範類退市情形】*ST萃華公告，公司因未在法定期限內披露2025年年度報告，且停牌兩個月內仍未披露，已被實施退市風險警示。因2025年年報涉及收入、存貨等事項需核實補充，且審計機構立信中聯被財政部暫停經營業務6個月，公司需變更審計機構，預計無法在退市風險警示之日起兩個月內（2026年9月6日前）披露過半數董事保證的2025年年報，將觸及規範類退市情形，深交所將決定終止其股票上市交易。此外，公司預計無法在法定期限內（2026年8月31日）披露2026年半年度報告，股票預計於2026年9月1日起停牌。2026年8月6日，公司收盤總市值為4.82億元，首次低於5億元，存在因市值指標被終止上市的風險。"
+    },
+    {
+      "id": "5046086",
+      "time": "2026-08-18 20:34:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利第二季度經常賬戶赤字4.41億美元。"
+    },
+    {
+      "id": "5046085",
+      "time": "2026-08-18 20:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美航母改造計劃遭多方質疑】據美國《新聞週刊》網站8月15日報道，美國總統特朗普力推對海軍最新型航空母艦進行改造，此舉引發了國防分析人士、承包商和前官員的警告。他們認為，擬議的改動可能會增加成本，延誤建造進度，並推翻海軍多年來實施的設計決策。 此前，特朗普於13日簽署了一份國家安全備忘錄，指示五角大樓和海軍在60天內製訂一項計劃，用蒸汽彈射器和液壓系統替換即將下水的“福特”級航空母艦“多里斯·米勒”號上的電磁彈射系統和先進武器升降機，上述擔憂因此產生。 “福特”級是美國海軍最新一代航空母艦，按計劃它將在未來幾十年內取代老舊的“尼米茲”級航母。 （參考訊息）"
+    },
+    {
+      "id": "te:economy:576140",
+      "time": "2026-08-18 20:33:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Building Permits",
+        "Importance 3"
+      ],
+      "text": "US Building Permits Higher than Expected — US building permits rose by 5% month-over-month to a seasonally adjusted annual rate of 1.443 million in July 2026, above market expectations of 1.37 million, preliminary figures showed. Permits for buildings with five or more units surged 9.1% to 490,000, and single-family permits increased 2.5% to 894,000. Regionally, permits rose in the Midwest (12.3% to 228,000), the South (6.6% to 755,000), and the West (0.3% to 309,000), but fell in the Northeast (-2.6% to 151,000)."
+    },
+    {
+      "id": "5046084",
+      "time": "2026-08-18 20:32:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑銀股份：2026年上半年營收16.32億元 淨利同比降65.08%】僑銀股份公告稱，2026年上半年實現營業收入16.32億元，同比下降12.76%；歸母淨利潤4356.65萬元，同比下降65.08%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。2025年度利潤分配方案已實施完畢，合計派發現金紅利4086.66萬元。"
+    },
     {
       "id": "mkt:01a014da-d3f1-7aab-907a-5af21d28bdb5",
       "time": "2026-08-18 20:31:20",
@@ -21,6 +114,15 @@
         "Impact bearish"
       ],
       "text": "Chile Q2 GDP contracted 0.2% YoY, versus market consensus for 0.1% growth."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608183844761994",
+      "time": "2026-08-18 20:30:49",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月新屋開工總數年化123.9萬戶，預估為134.4萬，前值為142.7萬。"
     },
     {
       "id": "mkt:01a014da-4cf3-7aab-907a-4b7a941fd6ad",
@@ -59,6 +161,15 @@
         "Impact mixed"
       ],
       "text": "US July building permits MoM +5.0% (prior -2.6%)."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608183844761783",
+      "time": "2026-08-18 20:30:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月進口價格環比下降0.4%，預估為增長0.1%，前值為增長0.3%。"
     },
     {
       "id": "mkt:01a014da-2648-7aab-907a-308b2608cdce",
@@ -138994,55 +139105,6 @@
         "市場"
       ],
       "text": "【鈦能化學：子公司擬54.62億元投建60萬噸前驅體專案】鈦能化學公告稱，公司於2026年8月11日召開董事會，審議透過全資子公司甘肅東方鈦業投資建設年產60萬噸【磷酸鐵鋰/磷酸鐵鈉】前驅體（磷酸鐵）專案的議案。專案分兩期建設，總投資預計54.62億元，資金來源為自有及自籌資金。專案建設地點為白銀高新區銀東工業園，一期預計18個月內完成並投入使用，二期將視情況決定。該專案有助於增強公司競爭力，但存在實施、融資及盈利等風險。"
-    },
-    {
-      "id": "5035959",
-      "time": "2026-08-11 20:34:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國核管理委員會：河灣核電站1號反應堆功率從2%提高到15%。"
-    },
-    {
-      "id": "5035958",
-      "time": "2026-08-11 20:34:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：塔塔集團正考慮回購控股公司股份。"
-    },
-    {
-      "id": "5035957",
-      "time": "2026-08-11 20:33:18",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【鈦能化學：擬投資超百億元建設兩大化工專案】鈦能化學公告稱，公司第八屆董事會第十四次（臨時）會議審議透過兩項投資議案。一是對控股子公司貴州中合磷化增資2.60億元，建設年產40萬噸鈦白粉及140萬噸七水硫酸亞鐵專案，預計總投資55.38億元；二是全資子公司甘肅東方鈦業投資建設年產60萬噸【磷酸鐵鋰/磷酸鐵鈉】前驅體（磷酸鐵）專案，預計總投資54.62億元。兩專案投資均不構成重大資產重組，無需提交股東會審議。"
-    },
-    {
-      "id": "5035956",
-      "time": "2026-08-11 20:32:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總理：迄今為止，烏克蘭已獲得‘烏克蘭計劃’提供的468億歐元資金中的295億歐元。"
-    },
-    {
-      "id": "mkt:019ff0cf-c32e-7aab-8ff2-0d85980fd204",
-      "time": "2026-08-11 20:32:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's prime minister said to date Ukraine has received €29.5bn of €46.8bn provided under the 'Ukraine Plan'."
-    },
-    {
-      "id": "5035955",
-      "time": "2026-08-11 20:32:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "KIDZ AI宣佈對A類和B類普通股進行15比1的反向股票分割。"
     }
   ]
 }
