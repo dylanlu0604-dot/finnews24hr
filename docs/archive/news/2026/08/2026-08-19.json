@@ -1,7 +1,106 @@
 {
   "date": "2026-08-19",
-  "count": 337,
+  "count": 348,
   "items": [
+    {
+      "id": "5046539",
+      "time": "2026-08-19 06:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月19日1時50分，影片《歡迎來龍餐館》票房突破11億。"
+    },
+    {
+      "id": "5046538",
+      "time": "2026-08-19 06:47:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【熱點城市土拍市場升溫，民營房企重拾拿地信心】 8月18日，海口市長秀片區XY0602061地塊經207輪競價成交，海南發展控股置業集團有限公司以23721.6061萬元競得，溢價率達27.52%。今年以來，國內熱點城市土地市場持續回暖，北上廣深、海口、杭州等城市集中出讓優質地塊，高溢價成交成為常態。伴隨市場修復，房企拿地活躍度穩步提升，行業投資信心出現邊際修復。（中證報）"
+    },
+    {
+      "id": "5046537",
+      "time": "2026-08-19 06:47:00",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本6月核心機械訂單；\n② 08:00 韓國新投資者買槓桿ETF須先完成模擬交易（新規實施）；\n③ 時間待定 朱雀三號遙二火箭確定8月19日清晨於酒泉發射，世界機器人大會在北京開幕（8月19日-23日），首爾人工智慧峰會開幕（8月19-21日）；\n④ 09:20 宇樹科技上市；\n⑤ 10:45 澳洲聯儲副主席Andrew Hauser參與一場爐邊閒聊；\n⑥ 14:00 英國7月CPI；\n⑦ 15:10 歐洲央行行長拉加德出席世界經濟論壇國際工商理事會 (IBC) 會議的“全球經濟展望”討論會；\n⑧ 15:20 印尼央行公佈利率決議；\n⑨ 港股收盤之後 快手釋出業績報告；\n⑩ 17:00 歐元區7月CPI終值；\n美股盤前 勞氏百貨、塔吉特等釋出業績報告；\n18:15 歐洲央行行長拉加德講話；\n22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n次日02:00 美聯儲釋出FOMC會議紀要。"
+    },
+    {
+      "id": "mkt:01a0170d-fdc0-7aab-9083-6b227e06b81e",
+      "time": "2026-08-19 06:46:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 input PPI YoY 4.1%, previous 1.8%."
+    },
+    {
+      "id": "mkt:01a0170d-ed9b-7aab-9083-6096a5bf086a",
+      "time": "2026-08-19 06:46:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 output PPI YoY 3.2%, prior 2.2%."
+    },
+    {
+      "id": "mkt:01a0170d-e6eb-7aab-9083-5bbac240e452",
+      "time": "2026-08-19 06:46:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%"
+    },
+    {
+      "id": "mkt:01a0170d-d587-7aab-9083-5254eb43d352",
+      "time": "2026-08-19 06:46:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%"
+    },
+    {
+      "id": "mkt:01a0170c-c485-7aab-9083-4c86ee4f7b37",
+      "time": "2026-08-19 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%)."
+    },
+    {
+      "id": "mkt:01a0170c-c2a4-7aab-9083-41a843f7d38a",
+      "time": "2026-08-19 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter."
+    },
+    {
+      "id": "mkt:01a0170c-a964-7aab-9083-386025b57abd",
+      "time": "2026-08-19 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a0170c-a947-7aab-9083-36e49ab045a4",
+      "time": "2026-08-19 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%"
+    },
     {
       "id": "5046536",
       "time": "2026-08-19 06:44:01",
