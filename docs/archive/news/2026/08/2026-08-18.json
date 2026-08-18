@@ -1,7 +1,88 @@
 {
   "date": "2026-08-18",
-  "count": 1039,
+  "count": 1048,
   "items": [
+    {
+      "id": "mkt:01a0136f-f376-7aab-9070-1dc130ed8036",
+      "time": "2026-08-18 13:54:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chengmai Technology surged, hitting a 20CM limit-up; trading turnover exceeded 300 mln yuan."
+    },
+    {
+      "id": "mkt:01a0136f-decf-7aab-9070-17283e6ae631",
+      "time": "2026-08-18 13:54:53",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China grain ETFs rally; nine Guozheng Grain Index trackers up >5%】Nine China-listed ETFs tracking the Guozheng Grain Index climbed more than 5% across the board. The index’s top-10 weights include Longping High‑Tech, Beidahuang, Noposion, Yasheng Group, Shennong Seed, Haida Group, Nongfa Seed, Zangge Mining, Suken Agricultural Development and Yuntianhua. By Shenwan third-level industry classification, the index’s largest sector exposures are potash fertilizers 29.53%, phosphate & phosphochemical 13.30%, and grain & oil processing 11.83%."
+    },
+    {
+      "id": "mkt:01a0136e-ccd5-7aab-9070-0e8ad4117990",
+      "time": "2026-08-18 13:53:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600536.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-shares domestic operating-system sector briefly rallied; Chengmai Technology rose over 9%, China Software gained over 5%, Feitian Technologies, Shensi Electronics and Transsion Holdings also advanced."
+    },
+    {
+      "id": "5045298",
+      "time": "2026-08-18 13:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【誠邁科技觸及漲停】誠邁科技觸及漲停，成交額2.69億元，漲幅20.01%。"
+    },
+    {
+      "id": "5045297",
+      "time": "2026-08-18 13:53:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【9只糧食ETF全線大漲】全市場跟蹤國證糧食指數的9只糧食ETF集體漲超5%，該指數前十大權重股分別為隆平高科、北大荒、諾普信、亞盛集團、神農種業、海大集團、農發種業、藏格礦業、蘇墾農發、雲天化。根據持倉股所屬申萬三級行業測算，國證糧食指數中分佈佔比前三的行業分別為：鉀肥行業佔比29.53%、磷肥及磷化工佔比13.30%、糧油加工佔比11.83%。"
+    },
+    {
+      "id": "5045296",
+      "time": "2026-08-18 13:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：全國40條河流仍維持超警】從水利部瞭解到，截至今天9時，黑龍江、內蒙古、河南、浙江等地40條河流仍維持超警，最大超警幅度2.37米，其中7條河流維持超保。據預報，8月18日至19日，受降雨及上游來水影響，黑龍江上游幹流洛古河至呼瑪江段將全線超警，太湖、黑龍江干流撫遠以下江段、淮河支流沙潁河維持超警，長江上游支流岷江及沱江、海南昌化江及南渡江等主要河流將出現明顯漲水過程。暴雨區內部分中小河流可能發生超警洪水。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。"
+    },
+    {
+      "id": "5045295",
+      "time": "2026-08-18 13:52:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達90億港元。"
+    },
+    {
+      "id": "5045294",
+      "time": "2026-08-18 13:52:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產作業系統板塊短線拉昇，誠邁科技漲超9%】國產作業系統板塊短線拉昇，誠邁科技漲超9%，中國軟體漲超5%，飛天誠信、神思電子、傳音控股跟漲。"
+    },
+    {
+      "id": "5045293",
+      "time": "2026-08-18 13:51:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅進一步擴大；最新報67632.66點，跌幅2.3%。"
+    },
     {
       "id": "5045292",
       "time": "2026-08-18 13:51:17",

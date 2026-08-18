@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-18 13:51:53",
-  "count": 15165,
+  "updated": "2026-08-18 13:55:46",
+  "count": 15164,
   "items": [
+    {
+      "id": "mkt:01a0136f-f376-7aab-9070-1dc130ed8036",
+      "time": "2026-08-18 13:54:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chengmai Technology surged, hitting a 20CM limit-up; trading turnover exceeded 300 mln yuan."
+    },
+    {
+      "id": "mkt:01a0136f-decf-7aab-9070-17283e6ae631",
+      "time": "2026-08-18 13:54:53",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China grain ETFs rally; nine Guozheng Grain Index trackers up >5%】Nine China-listed ETFs tracking the Guozheng Grain Index climbed more than 5% across the board. The index’s top-10 weights include Longping High‑Tech, Beidahuang, Noposion, Yasheng Group, Shennong Seed, Haida Group, Nongfa Seed, Zangge Mining, Suken Agricultural Development and Yuntianhua. By Shenwan third-level industry classification, the index’s largest sector exposures are potash fertilizers 29.53%, phosphate & phosphochemical 13.30%, and grain & oil processing 11.83%."
+    },
+    {
+      "id": "mkt:01a0136e-ccd5-7aab-9070-0e8ad4117990",
+      "time": "2026-08-18 13:53:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600536.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-shares domestic operating-system sector briefly rallied; Chengmai Technology rose over 9%, China Software gained over 5%, Feitian Technologies, Shensi Electronics and Transsion Holdings also advanced."
+    },
+    {
+      "id": "5045298",
+      "time": "2026-08-18 13:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【誠邁科技觸及漲停】誠邁科技觸及漲停，成交額2.69億元，漲幅20.01%。"
+    },
+    {
+      "id": "5045297",
+      "time": "2026-08-18 13:53:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【9只糧食ETF全線大漲】全市場跟蹤國證糧食指數的9只糧食ETF集體漲超5%，該指數前十大權重股分別為隆平高科、北大荒、諾普信、亞盛集團、神農種業、海大集團、農發種業、藏格礦業、蘇墾農發、雲天化。根據持倉股所屬申萬三級行業測算，國證糧食指數中分佈佔比前三的行業分別為：鉀肥行業佔比29.53%、磷肥及磷化工佔比13.30%、糧油加工佔比11.83%。"
+    },
+    {
+      "id": "5045296",
+      "time": "2026-08-18 13:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：全國40條河流仍維持超警】從水利部瞭解到，截至今天9時，黑龍江、內蒙古、河南、浙江等地40條河流仍維持超警，最大超警幅度2.37米，其中7條河流維持超保。據預報，8月18日至19日，受降雨及上游來水影響，黑龍江上游幹流洛古河至呼瑪江段將全線超警，太湖、黑龍江干流撫遠以下江段、淮河支流沙潁河維持超警，長江上游支流岷江及沱江、海南昌化江及南渡江等主要河流將出現明顯漲水過程。暴雨區內部分中小河流可能發生超警洪水。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。"
+    },
+    {
+      "id": "5045295",
+      "time": "2026-08-18 13:52:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達90億港元。"
+    },
+    {
+      "id": "5045294",
+      "time": "2026-08-18 13:52:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國產作業系統板塊短線拉昇，誠邁科技漲超9%】國產作業系統板塊短線拉昇，誠邁科技漲超9%，中國軟體漲超5%，飛天誠信、神思電子、傳音控股跟漲。"
+    },
+    {
+      "id": "5045293",
+      "time": "2026-08-18 13:51:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅進一步擴大；最新報67632.66點，跌幅2.3%。"
+    },
     {
       "id": "5045292",
       "time": "2026-08-18 13:51:17",
@@ -138821,105 +138902,6 @@
         "其他"
       ],
       "text": "【智譜：ZCode全面升級 GLM Coding Plan全體使用者額度已於今天13:00統一重置】智譜8月11日宣佈，今天，ZCode迎來重大升級，Goal、Subagents、Remote Control與閒時任務四大功能正式上線。作為百萬使用者里程碑的特別回饋，GLM Coding Plan全體使用者額度已於今天13:00統一重置，屆時全員額度全部回滿。"
-    },
-    {
-      "id": "mkt:019fef64-1f37-7aab-8fe8-d3a5769f961c",
-      "time": "2026-08-11 13:55:43",
-      "tags": [
-        "MKT News",
-        "02513.HK"
-      ],
-      "text": "【Zhipu (02513.HK) upgrades ZCode; resets GLM Coding Plan quotas for all users to full at 13:00】Zhipu (02513.HK) said on Aug. 11 it rolled out a major upgrade to its ZCode platform, launching four features: Goal, Subagents, Remote Control and idle-time tasks. As a one‑million‑user milestone reward, the company said GLM Coding Plan quotas for all users were uniformly reset to full at 13:00 today."
-    },
-    {
-      "id": "mkt:019fef63-3e4a-7aab-8fe8-c9f997e01c50",
-      "time": "2026-08-11 13:54:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Coke main contract up >2.0% intraday, trading at 1,910 yuan/ton."
-    },
-    {
-      "id": "mkt:019fef62-d3ae-7aab-8fe8-c44bcfa00f8c",
-      "time": "2026-08-11 13:54:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "RESERVE BANK OF AUSTRALIA Governor BULLOCK said the bank may need to raise rates again."
-    },
-    {
-      "id": "5035126",
-      "time": "2026-08-11 13:54:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "布洛克：我們很可能需要再次提高利率。"
-    },
-    {
-      "id": "5035125",
-      "time": "2026-08-11 13:54:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：近期資本流動措施對印度經濟有利。"
-    },
-    {
-      "id": "em:qqyh_ozlc:202608113837767795",
-      "time": "2026-08-11 13:53:51",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "【澳洲聯儲主席布洛克：若無物價上漲支撐 經濟難以提速增長】澳洲聯儲主席布洛克表示，若無物價上漲支撐，經濟難以提速增長；戰爭持續越久，企業越容易將漲價常態化、固化進定價體系；目前依舊認為現金利率水平略微偏緊。"
-    },
-    {
-      "id": "5035124",
-      "time": "2026-08-11 13:53:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【悍高集團：隨著原材料價格走勢趨於平穩 公司盈利能力將得到進一步改善】悍高集團(001221)8月10日在電話會議中表示，當前下游家居五金行業正處於深度調整階段，市場呈現明顯結構性變化。隨著家居建材市場日趨成熟，存量房翻新及區域性改造需求逐步成為新的增長極。國產高階品牌憑藉較強的渠道滲透力與產品適應性，迎來良好發展機遇，國產替代程序全面加速，長期來看，市場資源向頭部企業集中將成為趨勢。此外，公司表示，下半年，公司經營目標將同時兼顧營業收入的增長與毛利率、淨利率等盈利指標的提升。隨著原材料價格走勢趨於平穩，並伴隨多款高階新品集中交付，公司盈利能力將得到進一步改善。"
-    },
-    {
-      "id": "5035123",
-      "time": "2026-08-11 13:53:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲3%，現報2593.00元。"
-    },
-    {
-      "id": "mkt:019fef61-5b6d-7aab-8fe8-bc92c6b6647b",
-      "time": "2026-08-11 13:52:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Soda ash most-active futures contract touched CNY1,000/tonne, up 4.28% intraday, the highest since July 27."
-    },
-    {
-      "id": "mkt:019fef60-e719-7aab-8fe8-b2533a1fdce7",
-      "time": "2026-08-11 13:52:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "China A-shares weakened in the afternoon as the non-ferrous metals sector slid, led by precious metals. Luoyang Molybdenum, Western Mining and Chifeng Gold fell more than 6%; Zijin Mining, Zangge Mining, Sichuan Gold and Pengxin Resources were also among the largest decliners."
     }
   ]
 }
