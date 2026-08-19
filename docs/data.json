@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-20 00:50:02",
-  "count": 15528,
+  "updated": "2026-08-20 00:53:58",
+  "count": 15527,
   "items": [
+    {
+      "id": "mkt:01a01aee-bbf3-7aab-909d-e4c57cd312bd",
+      "time": "2026-08-20 00:50:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian General Nahdi said a ceasefire or talks are not the ultimate goal; the key is to build a deterrence mechanism that \"prevents opponents from daring to attack again.\""
+    },
+    {
+      "id": "mkt:01a01aee-54b4-7aab-909d-d88fb104f2a4",
+      "time": "2026-08-20 00:50:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed rate decision preview: inf concerns and policy dissent in focus】SGH Macro Advisors chief US economist Tim Duy says a rise in dissenting Fed votes has become more common amid economic strain and an unclear policy path. Ahead of the minutes, markets will key on how widespread officials’ inf concerns are — Duy says inf was clearly above target and policymakers feared it would not quickly return — and on whether a stabilizing labor market has led some officials to press for further rate hikes. The breadth of agreement on inf risks and the degree of disagreement over the policy path will be watched as a guide to future rate direction."
+    },
+    {
+      "id": "5048431",
+      "time": "2026-08-20 00:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷首都一機場因可疑包裹緊急疏散部分割槽域】阿根廷首都布宜諾斯艾利斯一座機場大廳19日發現一件可疑包裹，警方一度緊急疏散航站樓部分割槽域。 當地時間19日9時30分左右，布宜諾斯艾利斯豪爾赫紐伯裡機場大廳發現一件可疑包裹，機場警方緊急疏散機場中央大廳和餐飲區，並對該包裹進行查驗。 據機場警方訊息，經初步調查，該包裹對乘客和機場安全不構成威脅，目前機場已恢復正常運營。"
+    },
     {
       "id": "te:economy:576582",
       "time": "2026-08-20 00:48:20",
@@ -142012,45 +142047,6 @@
         "MKT News"
       ],
       "text": "【Etna eruption continues; Catania airport suspends flights】Etna volcano on Sicily has been erupting since early August. The Italian National Institute of Geophysics and Volcanology (INGV) reported on Aug 12 multiple new vents, lava flows advancing downslope and an ash cloud drifting south and southwest. Catania airport suspended all arrivals and departures on Aug 12; restrictions remained in place until Aug 13 16:00 local time."
-    },
-    {
-      "id": "mkt:019ff6e4-0c57-7aab-9011-622acd671236",
-      "time": "2026-08-13 00:52:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "【USITC opens Section 337 probe into Samsung mobile electronic devices】The US International Trade Commission said on Aug. 12 it has opened a Section 337 investigation into certain mobile electronic devices, naming Samsung Electronics Co. and Samsung Electronics America as respondents. The probe follows a July complaint by Kyoto-based Maxell alleging patent infringement in devices imported into and sold in the US and seeking a limited exclusion order and a cease-and-desist order under the Tariff Act of 1930, Section 337. The USITC said initiation does not imply a final determination. An administrative law judge will handle evidence and hearings and issue an initial determination; the commission will set the case schedule within 45 days and will issue a final determination after the record is developed."
-    },
-    {
-      "id": "5038049",
-      "time": "2026-08-13 00:52:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利埃特納火山持續噴發 航班受影響】本月初，位於義大利西西里島的埃特納火山發生噴發並持續至今。據義大利國家地球物理學與火山學研究所8月12日釋出的報告，埃特納火山先後出現多處新噴口，熔岩流向山下推進，火山灰雲主要向南及西南方向移動。島上的卡塔尼亞機場當天暫停所有航班降落和起飛，管控措施持續到當地時間13日16時。（央視新聞）"
-    },
-    {
-      "id": "5038048",
-      "time": "2026-08-13 00:51:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黑石考慮放棄30億美元債務融資計劃】知情人士稱，黑石集團正在考慮放棄一項約30億美元的債務融資計劃，該計劃原本有助於公司向投資者返還部分資金。知情人士稱，黑石數月來一直在為旗下一隻較早設立的私募股權二級市場基金籌劃所謂的基金抵押債務憑證（CFO），該基金約有700項底層投資。因相關資訊非公開，這些人士要求匿名。其中一些人士稱，黑石一直難以為這筆交易的權益檔找到買家，而權益檔通常是此類交易中風險最高的部分。知情人士稱，黑石高管仍在權衡各種選擇，公司可能決定繼續推進這筆CFO交易，也可能尋求其他方式向現有投資者返還資金。"
-    },
-    {
-      "id": "mkt:019ff6e1-b3d9-7aab-9011-5a0ba3155770",
-      "time": "2026-08-13 00:50:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Results for the U.S. 10-year Treasury auction dated Aug. 12 — stop-out yield and bid-cover ratio due in ten minutes."
     }
   ]
 }

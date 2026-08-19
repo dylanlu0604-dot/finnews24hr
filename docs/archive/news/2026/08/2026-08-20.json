@@ -1,7 +1,42 @@
 {
   "date": "2026-08-20",
-  "count": 68,
+  "count": 71,
   "items": [
+    {
+      "id": "mkt:01a01aee-bbf3-7aab-909d-e4c57cd312bd",
+      "time": "2026-08-20 00:50:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian General Nahdi said a ceasefire or talks are not the ultimate goal; the key is to build a deterrence mechanism that \"prevents opponents from daring to attack again.\""
+    },
+    {
+      "id": "mkt:01a01aee-54b4-7aab-909d-d88fb104f2a4",
+      "time": "2026-08-20 00:50:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed rate decision preview: inf concerns and policy dissent in focus】SGH Macro Advisors chief US economist Tim Duy says a rise in dissenting Fed votes has become more common amid economic strain and an unclear policy path. Ahead of the minutes, markets will key on how widespread officials’ inf concerns are — Duy says inf was clearly above target and policymakers feared it would not quickly return — and on whether a stabilizing labor market has led some officials to press for further rate hikes. The breadth of agreement on inf risks and the degree of disagreement over the policy path will be watched as a guide to future rate direction."
+    },
+    {
+      "id": "5048431",
+      "time": "2026-08-20 00:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷首都一機場因可疑包裹緊急疏散部分割槽域】阿根廷首都布宜諾斯艾利斯一座機場大廳19日發現一件可疑包裹，警方一度緊急疏散航站樓部分割槽域。 當地時間19日9時30分左右，布宜諾斯艾利斯豪爾赫紐伯裡機場大廳發現一件可疑包裹，機場警方緊急疏散機場中央大廳和餐飲區，並對該包裹進行查驗。 據機場警方訊息，經初步調查，該包裹對乘客和機場安全不構成威脅，目前機場已恢復正常運營。"
+    },
     {
       "id": "te:economy:576582",
       "time": "2026-08-20 00:48:20",
