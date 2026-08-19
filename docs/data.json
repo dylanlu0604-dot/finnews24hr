@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-19 11:13:13",
-  "count": 15186,
+  "updated": "2026-08-19 11:17:06",
+  "count": 15185,
   "items": [
+    {
+      "id": "5046935",
+      "time": "2026-08-19 11:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理辦公室：儘管仍有重要工作有待完成，但與美國的談判已取得重大進展。"
+    },
+    {
+      "id": "mkt:01a01805-33a8-7aab-9088-1c6ce545ebcc",
+      "time": "2026-08-19 11:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CARNEY said Canada and the US have held intensive talks in recent weeks to resolve outstanding trade issues."
+    },
+    {
+      "id": "mkt:01a01804-f2d4-7aab-9088-11fb9218cd84",
+      "time": "2026-08-19 11:16:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister's Office said negotiations with the United States have made significant progress but important work remains to be done."
+    },
+    {
+      "id": "mkt:01a01804-f16a-7aab-9088-09b9f2546f8d",
+      "time": "2026-08-19 11:16:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canadian prime minister Carney said the US has agreed to postpone implementation of 50% tariffs on a range of Canadian goods under Section 338 of the Tariff Act of 1930 until August 21."
+    },
+    {
+      "id": "5046934",
+      "time": "2026-08-19 11:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫦娥七號器箭組合體完成垂直轉運】今天，嫦娥七號探測器和長征五號遙十四運載火箭在中國文昌航天發射場完成技術區相關工作，器箭組合體已垂直轉運至發射區。 嫦娥七號探測器、長征五號遙十四運載火箭分別於4月、7月運抵發射場，先後完成了總裝、測試等準備工作。目前，發射場設施裝置狀態良好，後續將按計劃開展發射前各項功能檢查、聯合測試、推進劑加註等工作，計劃近日擇機實施發射。（央視新聞）"
+    },
+    {
+      "id": "5046933",
+      "time": "2026-08-19 11:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻鵠03星成功入軌 探索“批次產”衛星】2026年8月19日，由鴻擎科技自主研製的技術驗證衛星鴻鵠03星搭乘朱雀三號遙二運載火箭成功發射升空。衛星成功入軌後，衛星太陽翼順利展開，各項遙測引數正常，發射任務取得圓滿成功。隨著可回收火箭技術日益成熟，全球低軌星座規模化建設加速。衛星“批次化”生產有助於更好滿足高密度發射和快速組網需求。鴻擎科技董事長萬軍表示，鴻鵠03星的研發瞄準這一產業趨勢，從核心單機到整星系統，這顆衛星在設計階段便積極探索適合批次複製的技術路徑。（新華社）"
+    },
+    {
+      "id": "mkt:01a01802-c17f-7aab-9088-03703059611b",
+      "time": "2026-08-19 11:13:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【South Korea think‑tank KDI raises 2026 growth forecast to 3.2%, above government and IMF estimates】South Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% in May, citing strong global chip demand and AI-driven spillovers to the domestic economy. The projection exceeds the government’s 3.0% estimate and the IMF’s 2.6% forecast. KDI said expansion since H2 last year should continue as AI demand supports semiconductor exports, offsetting higher import costs from the Middle East war. KDI expects exports to rise 8.7% this year and 5.0% next year and is assessing how long elevated AI demand will persist."
+    },
     {
       "id": "mkt:01a01800-163d-7aab-9087-f958c05350a2",
       "time": "2026-08-19 11:10:53",
@@ -139098,87 +139159,6 @@
       "time": "2026-08-12 11:17:18",
       "tags": [],
       "text": "韓國綜合指數漲幅擴大至5％，三星電子、SK海力士均漲超8％。"
-    },
-    {
-      "id": "mkt:019ff3f9-184c-7aab-8fff-fb3b9917eceb",
-      "time": "2026-08-12 11:16:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI index surged 5.00% intraday to 6,665.78 points."
-    },
-    {
-      "id": "5036773",
-      "time": "2026-08-12 11:16:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲5%，至6665.78點。"
-    },
-    {
-      "id": "5036772",
-      "time": "2026-08-12 11:15:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：到2027年，腦機介面未來產業營收超過50億元】8月12日，浙江省人民政府辦公廳印發關於推進腦機介面產學研聯動的若干措施的通知。通知要求，聚焦腦機介面領域科技創新和產業創新深度融合，以醫療、消費、工業等重大應用場景建設為牽引，貫穿協同攻關、成果轉化、推廣應用、產業培育全鏈條，構建產業共培、資源統籌、風險共擔、利益共享的產學研聯動機制，建設腦機介面一流創新生態。到2027年，企業主導的產學研聯動機制有效執行，腦機介面核心軟硬體自主創新能力大幅提升，研發5個以上代表性產品並率先實現驗證應用，腦機介面未來產業營收超過50億元。到2030年，產學研聯動機制高效執行，腦機介面領域科技創新和產業創新深度融合，形成一批典型應用場景和商業化應用產品，培育一批科技領軍企業，建成具有較強國際競爭力的腦機介面技術和產業創新高地。"
-    },
-    {
-      "id": "5036771",
-      "time": "2026-08-12 11:15:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價延續漲勢，最新報154.1萬韓元，漲幅達8.1%。"
-    },
-    {
-      "id": "mkt:019ff3f7-5aed-7aab-8fff-f2cd7faf43af",
-      "time": "2026-08-12 11:15:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS",
-        "373220.KS"
-      ],
-      "text": "【AI optimism fuels chip rally; South Korea market gains for third day】South Korean stocks rose on Wednesday for a third straight session, led by a surge in chip shares on AI optimism; the KOSPI climbed more than 4% to 6,635 points, its highest level since Aug. 5. Kiwoom Securities analyst Han Ji-young said validation of strong AI infrastructure demand from CoreWeave and Supermicro should boost flows into the semiconductor sector and domestic AI-related names. Heavyweights Samsung Electronics and SK Hynix jumped over 7%; LG Energy Solution rose about 3%; Hyundai Motor and Kia gained roughly 2% and 1.5%, respectively."
-    },
-    {
-      "id": "mkt:019ff3f7-0cb3-7aab-8fff-e8bd463be82f",
-      "time": "2026-08-12 11:14:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O",
-        "AMZN.O"
-      ],
-      "text": "【Societe Generale: AI CapEx to accelerate in H2, peak could be H1 2027】Societe Generale strategist Manish Kabra’s team says recent extreme swings in semiconductors and momentum trades reflect concentrated de-leveraging and hedge fund unwind, not a synchronous weakening of AI fundamentals. They assess South Korea’s most acute de-leveraging phase is nearing an end and US momentum strategies have seen large-scale reductions. Hyperscaler cloud businesses remain in a strong upcycle in the latest results cycle; order backlogs are up about 15% and have pushed AI capital spending roughly 10% higher. The team expects AI CapEx to continue accelerating into H2 2026, with a potential peak in H1 2027. Societe Generale advises distinguishing trading-driven de-leveraging—which has cooled—from the still-expanding industrial CapEx cycle; until hyperscaler free cash flow materially improves, hardware, infrastructure and supply-chain suppliers that directly capture AI CapEx are likely more direct beneficiaries than high-spend customers."
-    },
-    {
-      "id": "5036770",
-      "time": "2026-08-12 11:13:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價延續漲勢；最新上漲7.6%，報257,750韓元."
-    },
-    {
-      "id": "5036769",
-      "time": "2026-08-12 11:13:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曝小紅書打造全新“AI導購”功能，官方暫無回應】今日有訊息稱，小紅書在打造全新的“AI導購”功能，依託對話互動模式，在問答場景中直接推送商品卡片、掛載下單跳轉連結，該專案由道玄（潘博遠）主導推進。對此訊息，向小紅書官方進行求證，截至發稿暫無回應。（新浪科技）"
     }
   ]
 }

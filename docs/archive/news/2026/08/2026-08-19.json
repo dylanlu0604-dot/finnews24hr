@@ -1,7 +1,68 @@
 {
   "date": "2026-08-19",
-  "count": 915,
+  "count": 922,
   "items": [
+    {
+      "id": "mkt:01a01805-33a8-7aab-9088-1c6ce545ebcc",
+      "time": "2026-08-19 11:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CARNEY said Canada and the US have held intensive talks in recent weeks to resolve outstanding trade issues."
+    },
+    {
+      "id": "5046935",
+      "time": "2026-08-19 11:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理辦公室：儘管仍有重要工作有待完成，但與美國的談判已取得重大進展。"
+    },
+    {
+      "id": "mkt:01a01804-f2d4-7aab-9088-11fb9218cd84",
+      "time": "2026-08-19 11:16:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister's Office said negotiations with the United States have made significant progress but important work remains to be done."
+    },
+    {
+      "id": "mkt:01a01804-f16a-7aab-9088-09b9f2546f8d",
+      "time": "2026-08-19 11:16:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canadian prime minister Carney said the US has agreed to postpone implementation of 50% tariffs on a range of Canadian goods under Section 338 of the Tariff Act of 1930 until August 21."
+    },
+    {
+      "id": "5046934",
+      "time": "2026-08-19 11:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫦娥七號器箭組合體完成垂直轉運】今天，嫦娥七號探測器和長征五號遙十四運載火箭在中國文昌航天發射場完成技術區相關工作，器箭組合體已垂直轉運至發射區。 嫦娥七號探測器、長征五號遙十四運載火箭分別於4月、7月運抵發射場，先後完成了總裝、測試等準備工作。目前，發射場設施裝置狀態良好，後續將按計劃開展發射前各項功能檢查、聯合測試、推進劑加註等工作，計劃近日擇機實施發射。（央視新聞）"
+    },
+    {
+      "id": "5046933",
+      "time": "2026-08-19 11:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻鵠03星成功入軌 探索“批次產”衛星】2026年8月19日，由鴻擎科技自主研製的技術驗證衛星鴻鵠03星搭乘朱雀三號遙二運載火箭成功發射升空。衛星成功入軌後，衛星太陽翼順利展開，各項遙測引數正常，發射任務取得圓滿成功。隨著可回收火箭技術日益成熟，全球低軌星座規模化建設加速。衛星“批次化”生產有助於更好滿足高密度發射和快速組網需求。鴻擎科技董事長萬軍表示，鴻鵠03星的研發瞄準這一產業趨勢，從核心單機到整星系統，這顆衛星在設計階段便積極探索適合批次複製的技術路徑。（新華社）"
+    },
+    {
+      "id": "mkt:01a01802-c17f-7aab-9088-03703059611b",
+      "time": "2026-08-19 11:13:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【South Korea think‑tank KDI raises 2026 growth forecast to 3.2%, above government and IMF estimates】South Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% in May, citing strong global chip demand and AI-driven spillovers to the domestic economy. The projection exceeds the government’s 3.0% estimate and the IMF’s 2.6% forecast. KDI said expansion since H2 last year should continue as AI demand supports semiconductor exports, offsetting higher import costs from the Middle East war. KDI expects exports to rise 8.7% this year and 5.0% next year and is assessing how long elevated AI demand will persist."
+    },
     {
       "id": "mkt:01a01800-163d-7aab-9087-f958c05350a2",
       "time": "2026-08-19 11:10:53",
