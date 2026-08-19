@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-20 00:46:13",
-  "count": 15532,
+  "updated": "2026-08-20 00:50:02",
+  "count": 15528,
   "items": [
+    {
+      "id": "te:economy:576582",
+      "time": "2026-08-20 00:48:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 0"
+      ],
+      "text": "Colombia Posts Largest Trade Deficit Since 2022 — Colombia’s trade deficit widened to $2.54 billion in June 2026, the largest deficit since August 2022, from $1.38 billion a year earlier. Imports surged 27% year-on-year to $6.78 billion, marking their fastest growth since 2022. The increase was driven by a 67.2% rise in purchases of fuels and extractive industry products, led by a 68.5% surge in petroleum and related products. Imports of manufactured goods also climbed 23.1%, supported by stronger purchases of machinery and transport equipment (33.6%) and chemical products (21.6%), while agricultural imports increased 23.4%. Meanwhile, exports rose at a slower 7% to $4.23 billion, supported by a 17.1% increase in shipments of fuels and extractive industry products, which accounted for 42.6% of total exports. Manufactured exports also increased 2.4%. In contrast, agricultural and food exports, which represented 25.8% of total shipments, fell 10.8%."
+    },
     {
       "id": "5048430",
       "time": "2026-08-20 00:44:58",
@@ -142039,46 +142051,6 @@
         "Impact mixed"
       ],
       "text": "Results for the U.S. 10-year Treasury auction dated Aug. 12 — stop-out yield and bid-cover ratio due in ten minutes."
-    },
-    {
-      "id": "mkt:019ff6e0-afc9-7aab-9011-56ee2f9bae97",
-      "time": "2026-08-13 00:49:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS: Russian authorities said they are working to redirect cargo flows to alternative routes."
-    },
-    {
-      "id": "5038047",
-      "time": "2026-08-13 00:48:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯農業部：備選運輸通道包括波羅的海、裡海、遠東地區的港口，以及各類陸路運輸線路。"
-    },
-    {
-      "id": "5038046",
-      "time": "2026-08-13 00:48:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯考慮為糧食出口開闢替代路線。"
-    },
-    {
-      "id": "5038045",
-      "time": "2026-08-13 00:48:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔斯社援引俄相關部門訊息：俄羅斯正著手將貨運流量轉向替代運輸線路。"
-    },
-    {
-      "id": "5038044",
-      "time": "2026-08-13 00:47:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭武裝部隊：2026 年 8 月 12 日夜，烏克蘭國防軍各部隊開展聯合行動，襲擊了俄羅斯克拉斯諾達爾邊疆區新羅西斯克海軍基地。"
     }
   ]
 }

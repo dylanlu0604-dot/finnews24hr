@@ -1,7 +1,19 @@
 {
   "date": "2026-08-20",
-  "count": 67,
+  "count": 68,
   "items": [
+    {
+      "id": "te:economy:576582",
+      "time": "2026-08-20 00:48:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 0"
+      ],
+      "text": "Colombia Posts Largest Trade Deficit Since 2022 — Colombia’s trade deficit widened to $2.54 billion in June 2026, the largest deficit since August 2022, from $1.38 billion a year earlier. Imports surged 27% year-on-year to $6.78 billion, marking their fastest growth since 2022. The increase was driven by a 67.2% rise in purchases of fuels and extractive industry products, led by a 68.5% surge in petroleum and related products. Imports of manufactured goods also climbed 23.1%, supported by stronger purchases of machinery and transport equipment (33.6%) and chemical products (21.6%), while agricultural imports increased 23.4%. Meanwhile, exports rose at a slower 7% to $4.23 billion, supported by a 17.1% increase in shipments of fuels and extractive industry products, which accounted for 42.6% of total exports. Manufactured exports also increased 2.4%. In contrast, agricultural and food exports, which represented 25.8% of total shipments, fell 10.8%."
+    },
     {
       "id": "5048430",
       "time": "2026-08-20 00:44:58",
