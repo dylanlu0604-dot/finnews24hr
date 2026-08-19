@@ -1,7 +1,51 @@
 {
   "date": "2026-08-19",
-  "count": 3096,
+  "count": 3101,
   "items": [
+    {
+      "id": "te:markets:576571",
+      "time": "2026-08-19 23:56:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips on Financials and Industrials Losses — The CAC 40 edged 0.1% lower to close at 8,502 on Wednesday, weighed down by losses in the industrial and financial sectors. Oil prices hit a three-week high as uncertainty over shipping through the Strait of Hormuz and ongoing supply disruptions persisted. Financials and the broader market remained under pressure amid energy-driven inflationary pressures stemming from the US-Iran conflict and ahead of the release of the US Fed’s July meeting minutes. France’s 10-year yield recently climbed to its highest level since 2008. BNP Paribas shed 2.4%, AXA lost 1.3%, Crédit Agricole was down 2.6% and Société Générale retreated 3.8%. Industrials also posted losses, with Airbus down 0.8%, Safran losing 1.1% and Thales shedding 2.3%. STMicroelectronics retreated 3.1%, as the selloff in US chipmakers extended. In contrast, TotalEnergies rose 1% on higher oil prices. Luxury stocks helped partially offset losses, with LVMH up 1.8%, L’Oréal adding 1.9%, Hermès rising 1.4% and Kering advancing 1.7%."
+    },
+    {
+      "id": "5048392",
+      "time": "2026-08-19 23:56:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易事務的加拿大部長：仍在努力敲定最終文字。"
+    },
+    {
+      "id": "5048391",
+      "time": "2026-08-19 23:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易事務的加拿大部長表示：對加拿大奶農將受到保護充滿信心。"
+    },
+    {
+      "id": "5048390",
+      "time": "2026-08-19 23:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：相信我們已達成一項強化北美經濟的協議。"
+    },
+    {
+      "id": "mkt:01a01abb-fb13-7aab-909d-08662d4550e1",
+      "time": "2026-08-19 23:55:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for U.S.-Canada trade Leblanc said he is still working to finalize the final text."
+    },
     {
       "id": "te:markets:576570",
       "time": "2026-08-19 23:53:45",

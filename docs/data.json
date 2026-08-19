@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-19 23:54:38",
-  "count": 15498,
+  "updated": "2026-08-19 23:58:55",
+  "count": 15501,
   "items": [
+    {
+      "id": "te:markets:576571",
+      "time": "2026-08-19 23:56:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips on Financials and Industrials Losses — The CAC 40 edged 0.1% lower to close at 8,502 on Wednesday, weighed down by losses in the industrial and financial sectors. Oil prices hit a three-week high as uncertainty over shipping through the Strait of Hormuz and ongoing supply disruptions persisted. Financials and the broader market remained under pressure amid energy-driven inflationary pressures stemming from the US-Iran conflict and ahead of the release of the US Fed’s July meeting minutes. France’s 10-year yield recently climbed to its highest level since 2008. BNP Paribas shed 2.4%, AXA lost 1.3%, Crédit Agricole was down 2.6% and Société Générale retreated 3.8%. Industrials also posted losses, with Airbus down 0.8%, Safran losing 1.1% and Thales shedding 2.3%. STMicroelectronics retreated 3.1%, as the selloff in US chipmakers extended. In contrast, TotalEnergies rose 1% on higher oil prices. Luxury stocks helped partially offset losses, with LVMH up 1.8%, L’Oréal adding 1.9%, Hermès rising 1.4% and Kering advancing 1.7%."
+    },
+    {
+      "id": "5048392",
+      "time": "2026-08-19 23:56:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易事務的加拿大部長：仍在努力敲定最終文字。"
+    },
+    {
+      "id": "5048391",
+      "time": "2026-08-19 23:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易事務的加拿大部長表示：對加拿大奶農將受到保護充滿信心。"
+    },
+    {
+      "id": "5048390",
+      "time": "2026-08-19 23:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：相信我們已達成一項強化北美經濟的協議。"
+    },
+    {
+      "id": "mkt:01a01abb-fb13-7aab-909d-08662d4550e1",
+      "time": "2026-08-19 23:55:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for U.S.-Canada trade Leblanc said he is still working to finalize the final text."
+    },
     {
       "id": "te:markets:576570",
       "time": "2026-08-19 23:53:45",
@@ -141778,26 +141822,6 @@
         "觀點"
       ],
       "text": "【Jane Street發行146億美元債券 10年期收益率逾8%】Jane Street發行146億美元債券，這家做市巨頭將把融資所得用於技術基礎設施並拓展交易策略。知情人士稱，Jane Street發行了2031年、2033年和2036年到期的高階擔保票據，規模分別為58.6億美元、51.3億美元和36.4億美元。其中期限最長的一檔債券定價收益率為8.088%。這筆由摩根大通牽頭的固定利率債券發行是Jane Street償還浮動利率貸款並重整110億美元債務負擔計劃的一部分。彭博此前報道，Jane Street一直在與品浩(PIMCO)等機構磋商，由後者提供相關融資。"
-    },
-    {
-      "id": "te:markets:574805",
-      "time": "2026-08-12 23:58:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.5% to close at 8,675 on Wednesday, extending losses from the previous session as luxury stocks weighed heavily on the index. The sector was pressured by a slowdown in global demand, with weaker Chinese consumer spending continuing to cloud the industry's outlook. A recent Kearney study forecasts that luxury spending per capita in China will fall by around 4% in 2026. LVMH shed 2.9%, L’Oréal lost 0.8%, Hermès fell 2.5%, and Kering retreated 3.8%. Meanwhile, Iran and the US remained at odds over efforts to reach a permanent end to the conflict in the Gulf. Iranian officials said there had been no progress in talks to revive the interim deal agreed in June or establish a timeline for its implementation. The comments further dampened hopes of a swift resolution, while attacks on regional shipping on Tuesday pushed oil prices higher. Industrials traded mixed, with Essilor down 4.3% and Air Liquide losing 0.8%, while defense stocks gained, led by a 1.5% rise in Thales."
-    },
-    {
-      "id": "5038022",
-      "time": "2026-08-12 23:55:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek官網API文件新增“DeepSeek-V4-Pro-0813”模型】DeepSeek官網“API 文件”上的“模型 & 價格”頁面中，模型版本新增了DeepSeek-V4-Pro-0813，其支援非思考與思考模式。不過，官方尚未釋出 DeepSeek-V4-Pro-0813 的更新日誌。"
     }
   ]
 }
