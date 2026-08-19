@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 04:10:10",
-  "count": 15679,
+  "updated": "2026-08-20 04:13:59",
+  "count": 15677,
   "items": [
     {
       "id": "mkt:01a01ba4-6a47-7aab-90a2-0e572ca748a3",
@@ -143658,30 +143658,6 @@
         "國際"
       ],
       "text": "伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。"
-    },
-    {
-      "id": "te:markets:574825",
-      "time": "2026-08-13 04:11:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD."
-    },
-    {
-      "id": "te:markets:574824",
-      "time": "2026-08-13 04:10:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise on AI Gains and Tame CPI — US stock indices closed mostly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to near its record close, the Nasdaq gained 0.7%, and the Dow closed nearly flat. CoreWeave surged 19.3% after posting stronger-than-expected sales results. SMCI soared 19% after its revenue forecast came in above expectations. Chip producers gained following strong results from Tencent, while Temasek took fresh stakes in SK Hynix and Samsung. The results injected fresh optimism into AI infrastructure stocks amid their volatile start to the third quarter. Nvidia (+3%), Oracle (+5.4%), and Micron (+4.9%) were up. Meanwhile, new inflation data showed relatively stable core inflation, easing pressure on the FOMC to raise interest rates. Still, uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Hyperscalers erased earlier gains, with Microsoft down 2.3%, Meta losing 3.4%, and Amazon shedding 1.8%."
     }
   ]
 }
