@@ -1,7 +1,113 @@
 {
-  "updated": "2026-08-19 13:50:07",
-  "count": 15237,
+  "updated": "2026-08-19 13:54:01",
+  "count": 15247,
   "items": [
+    {
+      "id": "5047073",
+      "time": "2026-08-19 13:52:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
+    {
+      "id": "5047072",
+      "time": "2026-08-19 13:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭反腐機構調查高階官員。"
+    },
+    {
+      "id": "mkt:01a01893-a4c5-7aab-908a-a9c584b56847",
+      "time": "2026-08-19 13:52:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Alphabet, Google’s parent, will for the first time sell A$5.5 bln of bonds via a Kangaroo offering."
+    },
+    {
+      "id": "mkt:01a01893-085d-7aab-908a-a56d9627c5a8",
+      "time": "2026-08-19 13:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's trade deficit widened to $7.48 billion in June."
+    },
+    {
+      "id": "5047071",
+      "time": "2026-08-19 13:51:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌母公司ALPHABET將首次透過“袋鼠式發行”（KANGAROO OFFER）出售 55 億澳元債券。"
+    },
+    {
+      "id": "mkt:01a01892-df98-7aab-908a-9c571dd5e394",
+      "time": "2026-08-19 13:51:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran singles out Persian Gulf states: verbal commitments must match actions】Iran's armed forces chief of staff said Gulf states that have publicly pledged not to allow US forces to use their territory against Iran must ensure their actions match those statements. He warned the large number of military aircraft, particularly tankers, appearing at regional bases 'without host-nation awareness' is implausible and said any assistance or facilitation to US forces will be treated as active coordination with the US military."
+    },
+    {
+      "id": "5047070",
+      "time": "2026-08-19 13:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及6月份貿易逆差擴大至74.8億美元。"
+    },
+    {
+      "id": "5047069",
+      "time": "2026-08-19 13:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多瑞醫藥等在北京成立醫藥貿易新公司】企查查APP顯示，近日，北京恆多瑞醫藥貿易有限公司成立，經營範圍包含：國內貿易代理；社會經濟諮詢服務；醫學研究和試驗發展；健康諮詢服務（不含診療服務）等。企查查股權穿透顯示，該公司由多瑞醫藥等共同持股。"
+    },
+    {
+      "id": "mkt:01a01891-d64e-7aab-908a-91246f8c25d1",
+      "time": "2026-08-19 13:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK July CPI and Retail Prices Index (RPI) month-on-month data due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a01891-a7f9-7aab-908a-8b3eacae791e",
+      "time": "2026-08-19 13:49:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing mayor: 1H industrial robot output +76%, service robots +2.3x】At the World Robot Conference, Beijing mayor Yin Yong said the city is prioritizing robotics, establishing an embodied-intelligence robot innovation center and five new R&D institutes. Beijing has completed a full layout of 14 key humanoid-robot components, built an OEM assembly line with 20,000 units/year capacity, and reported 1H industrial robot output up 76% and service robot output up 2.3-fold."
+    },
+    {
+      "id": "5047068",
+      "time": "2026-08-19 13:49:52",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【SK海力士晶片產出推動，韓國忠清北道第二季度礦業及製造業產出同比激增近28%】韓國統計表週三公佈的資料顯示，受SK海力士等企業晶片產量大增推動，韓國忠清北道今年第二季度的礦業及製造業產出同比激增27.8%，在韓國各地區當中增速位居首位。 韓國全國第二季度礦業及製造業產出同比增長 2%。 在忠清北道，半導體和電子元件產量同比增長70.9%，領跑整體增長，這主要得益於SK海力士在該地區的生產線。"
+    },
     {
       "id": "5047067",
       "time": "2026-08-19 13:47:22",
@@ -139679,14 +139785,6 @@
         "觀點"
       ],
       "text": "摩根士丹利將喜力目標價從78歐元上調至84歐元。"
-    },
-    {
-      "id": "5036909",
-      "time": "2026-08-12 13:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會主席：將在10天內釋出檔案應對散戶虧損問題。"
     }
   ]
 }
