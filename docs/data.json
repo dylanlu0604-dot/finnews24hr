@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-19 12:30:24",
-  "count": 15201,
+  "updated": "2026-08-19 12:34:17",
+  "count": 15204,
   "items": [
+    {
+      "id": "5047008",
+      "time": "2026-08-19 12:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長率團訪問伊拉克 旨在加強兩國戰略合作】當地時間8月19日，伊朗議會議長卡利巴夫率領代表團啟程前往伊拉克。此次訪問旨在就地區局勢進行對話，加強德黑蘭與巴格達之間的戰略合作，並探討共同的解決方案，以幫助維護西亞地區的穩定和安全。出發前，卡利巴夫在社交媒體表示，在這次訪問中，兩國將採取切實有效的措施，加強兩國共同的安全和福祉，並促進兩國的繁榮。（央視新聞）"
+    },
+    {
+      "id": "5047007",
+      "time": "2026-08-19 12:33:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Revolut 擬允許執行長斯托龍斯基以所持股權質押借款 2.5 億美元】英國《金融時報》援引其獲取的檔案報道，金融科技公司 Revolut 提議，將執行長尼克・斯托龍斯基（ Nik Storonsky）可透過所持公司股權質押獲得的借款額度提高五倍，最高至 2.5 億美元。這家金融科技企業上週致信投資者，申請批准該額度上調。同時提議取消大額股權質押需經董事會批准的相關要求。本次調整還將擴大可用於質押擔保的股份類別範圍。報道援引一位不願具名的知情人士稱，斯托龍斯基持有該集團約 29% 的股份。Revolut 表示，公司會定期修訂公司章程，確保其 “公司治理及管理條款匹配企業當前規模與估值水平”。"
+    },
+    {
+      "id": "te:markets:576333",
+      "time": "2026-08-19 12:32:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Losing Streak to Fourth Day — India’s BSE Sensex fell about 0.3% to 77,018 on Wednesday, extending losses to a fourth consecutive session and reaching its lowest level since July 28, as investors remained cautious amid elevated oil prices, rising global bond yields, and persistent foreign outflows. Brent crude hovered around $92 a barrel, raising concerns over India’s import bill and inflation, while higher US Treasury yields continued to pressure emerging-market assets. Foreign investors have sold a record $25 billion of Indian equities this year, despite returning to buying on Tuesday. Among individual stocks, Netweb (-4.5%), Himadri (-5.2%), Cupid (-1.8%), Paras Defence (-1.4%), and L&T Finance (-3.1%) declined. On the upside, RailTel gained 3.3% after securing a ?1.67 billion order from the Employees' Provident Fund Organisation. Mangalore Refinery & Petrochemicals (1.6%), Chennai Petroleum (3.4%), Milky Mist (10%), and Zaggle (10.4%) posted strong gains."
+    },
+    {
+      "id": "5047006",
+      "time": "2026-08-19 12:31:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港交易所第二季度淨利潤創紀錄 受惠於IPO及交易熱潮】受交易量強勁及首次公開募股(IPO)激增的推動，香港交易所第二季度淨利潤增長21%，超出市場預期。香港交易所週三釋出宣告稱，截至6月的三個月內，其淨利潤達到創紀錄的53.8億港元（6.86億美元）。資料顯示，這一數字高於市場普遍預期的49.1億港元。該交易所表示，由於交易和IPO延續了強勁勢頭，本季度核心業務收入增長了17%。“展望未來，儘管宏觀經濟和地緣政治的不確定性依然存在，但隨著全球資本日益尋求進入中國的創新經濟並把握亞洲的增長前景，香港交易所及香港的長期機遇依然充滿吸引力，”執行長陳翊庭表示。她本週已獲續簽，任期三年，自2027年3月起生效。"
+    },
+    {
+      "id": "5047005",
+      "time": "2026-08-19 12:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西南丹山體滑坡被困5人已確認遇難 】記者19日從廣西南丹縣相關部門獲悉，在南丹縣芒場鎮拉麻村黃祥坡屯17日發生的山體滑坡中被困5人已全部找到，均已無生命體徵。善後處置等後續工作正在推進，山體滑坡原因正在進一步調查。"
+    },
+    {
+      "id": "mkt:01a01849-37cb-7aab-9089-624cb8875224",
+      "time": "2026-08-19 12:30:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "HSBC upgraded its rating on South Korea's equity market to overweight."
+    },
     {
       "id": "5047004",
       "time": "2026-08-19 12:28:38",
@@ -139290,31 +139344,6 @@
         "Importance 1"
       ],
       "text": "Malaysia Retail Sales Growth Slows in June — Retail sales in Malaysia rose 6.6% year-on-year in June 2026, slowing from a 7.2% increase in the previous month. Growth moderated in retail sales in non-specialised stores (7.0% vs 8.2% in May), as well as sales of other household equipment in specialised stores (3.2% vs 3.4%), automotive fuel in specialised stores (10.8% vs 12.8%), and food, beverages and tobacco in specialised stores (6.6% vs 7.2%). On the other hand, sales grew at a faster pace for other goods in specialised stores (7.0% vs 6.7%) and information and communication equipment in specialised stores (4.7% vs 3.5%). On a monthly basis, retail sales edged up 0.2%, easing from a 1.3% increase in the previous month."
-    },
-    {
-      "id": "5036849",
-      "time": "2026-08-12 12:33:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤後上漲0.2%，至180,147.40點。"
-    },
-    {
-      "id": "5036848",
-      "time": "2026-08-12 12:33:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將GAP公司評級從買入下調至持有，目標價從29美元下調至23美元。"
-    },
-    {
-      "id": "5036847",
-      "time": "2026-08-12 12:32:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度電動腳踏車公司 YULU 獲得 9300 萬美元新融資。"
     }
   ]
 }
