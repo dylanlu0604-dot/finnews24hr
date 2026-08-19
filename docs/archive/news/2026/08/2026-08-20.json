@@ -1,7 +1,73 @@
 {
   "date": "2026-08-20",
-  "count": 193,
+  "count": 200,
   "items": [
+    {
+      "id": "5048492",
+      "time": "2026-08-20 02:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "優步、Verne及小馬智行計劃將自動駕駛出行服務擴充套件至更多歐洲城市。"
+    },
+    {
+      "id": "mkt:01a01b3c-7a8a-7aab-909f-c6c01035797e",
+      "time": "2026-08-20 02:15:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed minutes: Warsh proposed cutting annual FOMC meetings from eight to six】Federal Reserve minutes show Chair Kevin Warsh proposed reducing the Federal Open Market Committee's annual policy meetings from eight to six. Warsh said six meetings — roughly once every two months — would allow more information to accumulate between meetings and give policymakers and Fed staff more time for strategic research and consideration of monetary policy. He solicited committee views; the minutes state the meeting schedule will not change this year. The minutes note that fewer policy meetings would represent a significant change to how the Fed operates."
+    },
+    {
+      "id": "te:markets:576595",
+      "time": "2026-08-20 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Gains by 2.48% — Top commodity gainers are Methanol (2.48%), Crude Oil WTI (1.59%), Natural gas (1.53%) and Brent Crude Oil (1.01%). Biggest losers are Gasoline (-0.91%) and Germany Natural Gas THE (-0.52%)."
+    },
+    {
+      "id": "5048491",
+      "time": "2026-08-20 02:14:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "優步攜手Verne與小馬智行，在歐洲薩格勒布推出歐洲自動駕駛出行服務。"
+    },
+    {
+      "id": "5048490",
+      "time": "2026-08-20 02:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員約根森：電力供應狀況“穩定”，但預計在未來幾周內將“保持緊張”。"
+    },
+    {
+      "id": "mkt:01a01b3a-3da1-7aab-909f-bc53c59d1525",
+      "time": "2026-08-20 02:13:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EU Energy Commissioner Jorgensen said power supply is currently stable but is expected to remain tight over the coming weeks."
+    },
+    {
+      "id": "5048489",
+      "time": "2026-08-20 02:13:16",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲會議紀要：7月會議釋放鷹派訊號】美聯儲7月會議紀要顯示，多數美聯儲官員支援維持利率不變，但數位官員傾向加息25個基點。許多與會人員表示，如果通脹不能持續回落，可能需要進一步加息。部分官員稱立即加息有助於避免後續更大幅度的加息。部分美聯儲官員認為當前金融環境的緊縮力度不足以讓通脹回到2%的目標。數位委員指出，商品及服務的漲價已經呈現全面擴散態勢。通脹前景相較6月基本沒有變化，而經濟前景評估則略顯疲軟。幾乎所有委員支援堅守聯邦公開市場委員會“實現物價穩定”的承諾。美聯儲官員指出，強勁的經濟增長，疊加市場對美聯儲進一步收緊政策的預期，已經收緊了金融環境。美聯儲還探討過把年度政策會議縮減至6場，以便有更多時間積累經濟資料，但並未作出決議。"
+    },
     {
       "id": "mkt:01a01b39-03ac-7aab-909f-b6730a1375e3",
       "time": "2026-08-20 02:11:56",
