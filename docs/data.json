@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-19 08:11:46",
-  "count": 15130,
+  "updated": "2026-08-19 08:15:36",
+  "count": 15136,
   "items": [
+    {
+      "id": "5046644",
+      "time": "2026-08-19 08:15:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少5.42噸】截至2026年08月18日，全球最大的黃金ETF SPDR Gold Trust持倉量為1025.24噸，較前一個交易日減少5.42噸。"
+    },
+    {
+      "id": "5046643",
+      "time": "2026-08-19 08:14:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家電網與南方電網就加快新型電網建設簽署戰略合作框架協議】8月18日，國家電網與南方電網舉行會談，並簽署《落實“十五五”規劃 加快新型電網建設戰略合作框架協議》。雙方表示，要落實黨中央、國務院關於加快建設新型能源體系、新型電力系統、新型電網的決策部署，錨定“十五五”發展目標，共同做好電力供應保障，共同推進新型電力系統建設和重大電力工程建設，共同推進全國統一電力市場建設，共同推進能源電力科技創新。"
+    },
+    {
+      "id": "te:markets:576261",
+      "time": "2026-08-19 08:13:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "GigaDevice Semiconductor earnings above expectations at 4.76 CNY — GigaDevice Semiconductor (603986) released earnings per share at 4.76 CNY, compared to market expectations of 2.18 CNY."
+    },
+    {
+      "id": "te:markets:576260",
+      "time": "2026-08-19 08:13:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Xiaomi earnings above expectations at 0.36 CNY — Xiaomi (XMGP) released earnings per share at 0.36 CNY, compared to market expectations of 0.22 CNY."
+    },
+    {
+      "id": "mkt:01a0175d-9fc8-7aab-9084-1e61359eb4f0",
+      "time": "2026-08-19 08:13:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Kioxia shares fell 9%."
+    },
+    {
+      "id": "5046642",
+      "time": "2026-08-19 08:13:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠控股股價下跌9%。"
+    },
+    {
+      "id": "mkt:01a0175d-1f2e-7aab-9084-12f5e8f333ad",
+      "time": "2026-08-19 08:12:53",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korean media report that SK Hynix and its union have reached a preliminary wage agreement."
+    },
+    {
+      "id": "5046641",
+      "time": "2026-08-19 08:11:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數跌超6% 半導體股票追隨隔夜美股下跌】韓國股市Kospi基準指數一度下跌6.3%，受隔夜美股行情影響，半導體股票也隨之下跌。三星電子、SK海力士和SK Square拖累最大，均下跌至少7%。美國晶片股週二大跌，由於通脹擔憂和政府債務上升，債券收益率居高不下。韓國Kosdaq小盤股指數跌超3%。"
+    },
+    {
+      "id": "5046640",
+      "time": "2026-08-19 08:11:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士工會與公司達成初步薪資協議。"
+    },
     {
       "id": "5046639",
       "time": "2026-08-19 08:11:13",
@@ -138626,32 +138710,6 @@
         "DXY"
       ],
       "text": "Al Arabiya TV, citing sources, reported a drone attacked Libya's Zawiya power plant."
-    },
-    {
-      "id": "5036516",
-      "time": "2026-08-12 08:15:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海海域實彈射擊】據中國海事局網站訊息，珠海海事局釋出航行警告，8月12日和14日每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "5036515",
-      "time": "2026-08-12 08:14:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：AI重塑遊戲行業 重點推薦具備AI UGC平臺性機遇的公司】中信證券研報表示，2025年以來，生成式AI持續降低遊戲研發門檻，推動內容生產從“人力密集”走向“智慧增強”，行業供給側由此迎來顯著擴容。但市場並未因此線性進入“百花齊放”的價值兌現階段，相反，玩家注意力、產品差異化與長線運營能力變得更加稀缺。中信證券認為，AI不會簡單攤薄遊戲行業的價值，反而將推動行業價值錨點從“能否生產內容”轉向“能否持續創造精品、獲取流量並完成商業化兌現”。遊戲行業正在從“產能約束”時代，走向“稀缺性重估”時代，其中頭部公司最為受益。中信證券判斷，AI在遊戲產業鏈的價值釋放主要分為兩個階段：短期，AI進入頭部廠商研發管線，提升長青產品維護、高規格新品開發和全球化試錯能力；中長期，隨著模型能力提升、Token成本下降和平臺基礎設施完善，AI有望透過AI UGC擴大內容供給、透過AI Native創造新型體驗，進一步擴大市場規模。重點推薦全鏈路工業化能力領先的頭部公司，具備AI UGC平臺性機遇的公司，並建議關注具備內容平臺基礎的企業。"
-    },
-    {
-      "id": "5036514",
-      "time": "2026-08-12 08:14:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市有望連續第三個交易日上漲】週三，韓國股市開盤走高，受週二晚間Super Micro和CoreWeave股價飆升提振，市場情緒改善。如果韓國綜合股價指數（KOSPI）能夠守住早盤漲幅，那麼它將迎來自7月23日以來的首次三連漲。"
     }
   ]
 }
