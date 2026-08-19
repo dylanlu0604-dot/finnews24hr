@@ -1,7 +1,53 @@
 {
   "date": "2026-08-20",
-  "count": 455,
+  "count": 460,
   "items": [
+    {
+      "id": "5048684",
+      "time": "2026-08-20 07:00:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我同時宣佈，任何國家若放任本國金融機構、企業等向伊朗提供任何續命支援，該國自身也將承受極其嚴重的經濟後果。"
+    },
+    {
+      "id": "5048683",
+      "time": "2026-08-20 07:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：實施規模前所未有的經濟戰與孤立封鎖。"
+    },
+    {
+      "id": "5048682",
+      "time": "2026-08-20 06:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗未能接受協議。"
+    },
+    {
+      "id": "5048681",
+      "time": "2026-08-20 06:59:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：宣佈對伊朗實施最嚴厲的經濟制裁。"
+    },
+    {
+      "id": "te:markets:576619",
+      "time": "2026-08-20 06:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026."
+    },
     {
       "id": "5048680",
       "time": "2026-08-20 06:56:49",

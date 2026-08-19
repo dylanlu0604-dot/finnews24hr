@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-20 06:57:49",
-  "count": 15672,
+  "updated": "2026-08-20 07:03:35",
+  "count": 15664,
   "items": [
+    {
+      "id": "5048684",
+      "time": "2026-08-20 07:00:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我同時宣佈，任何國家若放任本國金融機構、企業等向伊朗提供任何續命支援，該國自身也將承受極其嚴重的經濟後果。"
+    },
+    {
+      "id": "5048683",
+      "time": "2026-08-20 07:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：實施規模前所未有的經濟戰與孤立封鎖。"
+    },
+    {
+      "id": "5048682",
+      "time": "2026-08-20 06:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗未能接受協議。"
+    },
+    {
+      "id": "5048681",
+      "time": "2026-08-20 06:59:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：宣佈對伊朗實施最嚴厲的經濟制裁。"
+    },
+    {
+      "id": "te:markets:576619",
+      "time": "2026-08-20 06:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026."
+    },
     {
       "id": "5048680",
       "time": "2026-08-20 06:56:49",
@@ -143521,126 +143567,6 @@
         "國際"
       ],
       "text": "【8月13日隔夜要聞一覽】\n1、伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。\n2、美國國際貿易委員會（USITC）對三星裝置啟動337條款調查。Maxell聲稱三星侵犯其移動裝置專利。\n3、美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。\n4、思科第四財季營收173億美元，市場預估為168.5億美元。思科預計第一財季營收為180億至182億美元，預估為168.4億美元；預計第一季度調整後每股收益為1.32至1.34美元，預估為1.17美元。\n5、美國汽車協會資料顯示，汽油和柴油價格均創歷年同期新高。8月第二週，美國汽油平均價格達到每加侖4美元，柴油則達到每加侖5.40美元，均創歷年同期新高。\n6、DeepSeek V4 Pro正式版API更新，多項測試效能接近Fable 5。\n7、SpaceXAI推出Grok 4.6，跑分與GPT-5.6 Sol Max持平。\n8、美國總統特朗普在社交平臺“真實社交”發文稱，白宮新聞秘書卡羅琳·萊維特將於本月底離任，以便花更多時間陪伴孩子和家人。"
-    },
-    {
-      "id": "5038194",
-      "time": "2026-08-13 07:03:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【分紅、回購、增持常態化推進 A股公司以實際行動穩市場強信心】時值A股上市公司半年報披露視窗期，上市公司公告中期利潤分配方案的案例漸次增多；同時，從回購、增持動作密集的情況看，上市公司回饋投資者意識顯著增強。分析人士認為，中期分紅落地數量擴容、登出式回購規模擴大、大手筆增持傳遞發展信心，疊加相關配套政策工具落地，上市公司正以實際行動提振市場信心。隨著分紅回購增持制度化、常態化深入推進，資本市場內生穩定機制有望進一步築牢，助力A股長期健康發展。（中國證券報）"
-    },
-    {
-      "id": "5038193",
-      "time": "2026-08-13 07:03:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央氣象臺釋出暴雨黃色預警】中央氣象臺8月13日06時釋出暴雨黃色預警：預計，8月13日08時至14日08時，河南南部、湖北北部和東部、安徽西北部和中南部、江蘇中南部、浙江北部以及江西北部和南部、廣東中西部、貴州東部等地部分地區有大到暴雨，其中，湖北東部、安徽南部、江蘇南部、浙江北部、廣東中部等地局地有大暴雨(100-180毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過70毫米），局地有雷暴大風等強對流天氣。"
-    },
-    {
-      "id": "5038192",
-      "time": "2026-08-13 07:03:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞地震265人遇難3494人傷】當地時間8月12日下午，哥倫比亞總統德拉埃斯普列亞宣佈該國進入“經濟緊急狀態”，以應對地震危機。德拉埃斯普列亞表示，這一緊急狀態旨在加快對災民的救助，為重建調撥資源，幷包含振興經濟措施。德拉埃斯普列亞還證實，8月10日的這場強震造成的遇難人數已升至265人，此外還有3494人受傷、496人失蹤。"
-    },
-    {
-      "id": "5038191",
-      "time": "2026-08-13 07:02:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西參議院透過法案，設立新的支出控制機制；法案文字將提交總統批准。"
-    },
-    {
-      "id": "mkt:019ff835-ca95-7aab-9014-463ed90cb63f",
-      "time": "2026-08-13 07:01:42",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "REUTERS SURVEY shows 75% of Japanese firms prioritize domestic over overseas investment."
-    },
-    {
-      "id": "mkt:019ff835-501a-7aab-9014-3a008efacdef",
-      "time": "2026-08-13 07:01:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Reuters survey shows over 80% of Japanese firms only partially use, or do not use, artificial intelligence (AI)."
-    },
-    {
-      "id": "mkt:019ff835-476f-7aab-9014-3695ab37a994",
-      "time": "2026-08-13 07:01:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK three-month RICS house price balance for July -30, vs -31 expected; prior revised to -32 from -33."
-    },
-    {
-      "id": "mkt:019ff835-2533-7aab-9014-2e98f1f3b816",
-      "time": "2026-08-13 07:01:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | RICS House Price Balance (Jul) | actual -30 | consensus -31 | previous -33.00"
-    },
-    {
-      "id": "5038190",
-      "time": "2026-08-13 07:00:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透調查顯示，日本五分之四的企業將本土投資置於海外投資之上。"
-    },
-    {
-      "id": "mkt:019ff835-15f4-7aab-9014-26fcd3713720",
-      "time": "2026-08-13 07:00:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "REUTERS SURVEY: More than half of Japanese companies plan to increase AI budgets in the near term; 31% remain undecided."
-    },
-    {
-      "id": "5038189",
-      "time": "2026-08-13 07:00:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西總統顧問批評美國政府釋出“門羅主義”影片】巴西總統首席特別顧問阿莫林12日批評美國政府釋出影片宣稱在拉丁美洲擁有“主導地位”，指出美國近期種種舉動表明其正企圖干涉包括巴西在內的拉美國家主權。 阿莫林當日在巴西聯邦眾議院一場會議上表示，美國正企圖讓拉丁美洲服從其利益，“任何看過那段影片的人都會明白，他們正試圖削弱拉美各國主權，當然也包括巴西”。 阿莫林指出，美國近期對巴西採取大幅加徵關稅等措施具有政治動機。他援引巴西總統盧拉的表態重申，巴西不會接受美國採取單邊措施削弱巴西主權或對巴施加經濟脅迫。（新華社）"
-    },
-    {
-      "id": "mkt:019ff833-4230-7aab-9014-1b84c0fd755c",
-      "time": "2026-08-13 06:58:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's Senate approved a bill to establish a new spending-control mechanism; the bill text will be sent to the president for approval."
-    },
-    {
-      "id": "5038188",
-      "time": "2026-08-13 06:58:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西參議院已透過設定全新支出管控機制的法案，法案文字現已提交總統批准生效。"
     }
   ]
 }
