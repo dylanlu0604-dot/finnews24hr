@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 03:54:29_
-_本檔包含 3228 則快訊，約 625553 字_
+_更新時間：2026-08-20 04:37:11_
+_本檔包含 3219 則快訊，約 625304 字_
+
+---
+
+### 2026-08-14 08:26:20  #市場 #焦點
+
+紐約期金失守4400美元/盎司，日內跌0.56%。
+
+---
+
+### 2026-08-14 08:25:41  #市場 #國際
+
+【中國電動卡車在南亞與東南亞銷量飆升】在伊朗戰爭推高燃料成本、加速區域電氣化程序之際，中國對其他亞洲國家的電動卡車出口大幅攀升。在美國與以色列於2月28日發動戰爭後的四個月內，中國重型電動卡車出口較去年同期增加逾一倍，達16,823輛。其中一半銷往南亞與東南亞，對南亞出口增加至原來的五倍以上，對東南亞出口增長至原來的近三倍。GlobalPetrolPrices.com資料顯示，自戰爭爆發以來，斯里蘭卡柴油價格上漲48%，菲律賓上漲57%
+
+---
+
+### 2026-08-14 08:25:35  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+【Yen steady; BOJ rate-hike bets may provide support】The yen was largely rangebound against other G10 and Asian currencies, but expectations of Bank of Japan tightening could lend support. Commonwealth Bank economist and FX strategist Carol Kong noted media reports that a government faction led by Sanae Takaichi supports near-term BOJ hikes, while Takaichi’s preference for lower rates is widely seen as constraining the BOJ’s pace. Markets assign about a 70% probability to a 25bp BOJ hike at the September meeting. USD/JPY was around 159.41, little changed.
+
+---
+
+### 2026-08-14 08:25:04  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.57噸】截至2026年08月13日，全球最大的黃金ETF SPDR Gold Trust持倉量為1023.24噸，較前一個交易日減少2.57噸。
+
+---
+
+### 2026-08-14 08:23:27  #公司
+
+【關志鷗在九州通醫藥集團調研時強調 更大力度促進民營經濟健康發展高質量發展 為加快建成支點提供堅實支撐】據湖北釋出，8月13日下午，湖北省委書記關志鷗到九州通醫藥集團股份有限公司調研民營經濟和產業發展工作，聽取意見建議。他強調，要持之以恆最佳化營商環境，更大力度促進全省民營經濟健康發展、高質量發展，為加快建成中部地區崛起的重要戰略支點提供堅實支撐。
+
+---
+
+### 2026-08-14 08:23:08  #其他
+
+【內蒙古1—7月出口機電產品126億元】昨天（8月13日），一批由內蒙古鄂爾多斯本土企業研發的智慧寬體礦用車，經二連浩特口岸陸續出口蒙古國，二連浩特海關、邊檢針對超高超寬重型成套裝備，開通大件貨物專屬通關通道，保障高階裝備高效順利出國。據呼和浩特海關資料顯示，今年前7個月，內蒙古出口機電產品達126億元，同比增長4.3%，智慧工程機械等高附加值產品出口勢頭強勁。
+
+---
+
+### 2026-08-14 08:22:28  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Steadies After Pulling Back — Silver steadied around $64.5 an ounce on Friday after pulling back in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures.
+
+---
+
+### 2026-08-14 08:22:06  #MKT News #Market Regions #Greater China #DXY #Impact bullish #CNH #Impact bearish #S&P500
+
+【Economic Daily: Targeted countermeasures help maintain normal competitive order】MOFCOM and other agencies announced retaliatory measures against recent US actions by the Federal Communications Commission and Department of Homeland Security, including tightened export controls on drone-related dual-use items bound for the US and placing six US entities, including Applied DNA Sciences, on a countermeasure list. Beijing said the package is legally grounded and intended to defend national interests; China reaffirmed commitment to stable US-China ties but warned that if the US implements further restrictive measures, it will impose additional countermeasures.
+
+---
+
+### 2026-08-14 08:21:15  #其他
+
+英國石油加入大型石油企業重返委內瑞拉的行列。英國石油已獲得加拉加斯方面頒發的許可，將勘探開發委內瑞拉近海一處氣田，這是該大型石油企業重返當地的最新訊號。
+
+---
+
+### 2026-08-14 08:20:33  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies After Sharp Drop — Gold steadied around $4,350 an ounce on Friday after falling sharply in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures.
+
+---
+
+### 2026-08-14 08:20:05  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.4%，英國富時指數期貨上漲0.4%。
+
+---
+
+### 2026-08-14 08:18:57  #MKT News
+
+South Korea's KOSPI intraday gain narrowed to 2.00%.
+
+---
+
+### 2026-08-14 08:18:15  #公司 #市場 #國際
+
+【韓國綜合股價指數連續第五個交易日上漲 跟隨美國股市漲勢】受美國晶片股上漲的帶動，韓國綜合股價指數（KOSPI）一度上漲2.9%，短暫突破7000點大關。SK海力士股價上漲超過6%，帶動股指走高，三星電子和SK Square也緊隨其後上漲。外國基金在早盤交易中買入KOSPI股票，而本地基金則賣出。該基準指數本週已上漲超過11%。韓國創業板小盤股指數上漲幅度高達2%。
+
+---
+
+### 2026-08-14 08:17:44  #MKT News #Market Themes #Chip Wars #9984.T #Impact bullish #6857.T
+
+Japanese chip-related stocks surged; Kioxia rose 6.9%, SoftBank Group gained 6.2% and Advantest rose 6.5%.
+
+---
+
+### 2026-08-14 08:17:30  #公司 #國際
+
+美股無人機概念股Unusual Machines夜盤漲超8%，Ondas漲超2%。美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。
+
+---
+
+### 2026-08-14 08:17:12  #MKT News #Macro & Rates #USDJPY #Impact bearish
+
+【Former senior Japanese FX diplomat, ex-IMF deputy says yen intervention could recur; Bank of Japan likely to hike in September】A former senior Japanese foreign-exchange diplomat and ex-IMF deputy managing director said the yen is noticeably weak and rising import costs are damaging the economy. He warned that if the yen returns to levels seen before last month’s coordinated intervention, Japan and the US could jointly intervene in the FX market again at any time, and any action would not be tied to specific levels such as JPY160 or JPY162. He said intervention only buys time; the fundamental remedy is faster Bank of Japan tightening. He expects a BoJ hike in September, a follow-up in December or January, and a terminal policy rate around 1.5–1.75% based on a neutral rate estimate of 1.1–2.5%. Further hikes could follow in the fiscal year starting April 2027 if growth persists.
+
+---
+
+### 2026-08-14 08:14:07  #公司 #市場 #央行 #國際
+
+【日經指數上漲1.8% 電子和科技股領漲】隨著對美聯儲可能加息的擔憂緩解，日本股市在早盤交易中走高。電子和科技股領漲。松下控股上漲4.5%，軟銀集團上漲6%。美元報159.46日元，週四東京股市收盤時為159.39日元。投資者正密切關注伊朗衝突的任何進展以及原油價格。日經指數上漲1.8%，報69,523.56點。
+
+---
+
+### 2026-08-14 08:13:05  #公司 #市場 #國際
+
+日本晶片相關股大幅上漲， 鎧俠股價上漲6.9%，軟銀集團上漲6.2%，愛德萬測試上漲6.5%。
+
+---
+
+### 2026-08-14 08:11:51  #公司
+
+【沈曉明走訪調研藍思科技股份有限公司】據湖南日報，8月13日，湖南省委書記沈曉明在長沙走訪調研藍思科技股份有限公司，瞭解企業規劃佈局，面對面聽取意見建議。他指出，要加強產業鏈協同，構建創新聯合體，著力打造更具競爭力的產業叢集，為推動湖南高質量發展作出更大貢獻。
+
+---
+
+### 2026-08-14 08:11:48  #其他
+
+【阿里雲縮短工期，100天造一座資料中心】8月12日，阿里雲靈駿真武M890超節點例項正式上線。首發地，就選在烏蘭察布。記者深入烏蘭察布，現場走訪了阿里巴巴資料中心。其作為阿里雲五大超級資料中心之一，綠電佔比約90%，可為高密度算力提供更低碳的執行環境。記者獲悉，在當地，阿里雲透過全模組化設計架構，已將大型AIDC資料中心的交付工期，縮短至100天。（21財經）
+
+---
+
+### 2026-08-14 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Semiconductor Manufacturing International earnings above expectations at 0.40 CNY — Semiconductor Manufacturing International (688981) released earnings per share at 0.40 CNY, compared to market expectations of 0.26 CNY.
+
+---
+
+### 2026-08-14 08:11:44  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
+
+Semiconductor Manufacturing International earnings above expectations at 0.06 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.06 USD, compared to market expectations of 0.04 USD.
 
 ---
 
@@ -19285,191 +19417,5 @@ Axios reports the Trump administration criticized Israeli Defense Minister KATZ'
 ### 2026-08-13 04:37:37  #資料 #國際
 
 美國經濟顧問委員會主席：CPI報告削弱了加息的理由。
-
----
-
-### 2026-08-13 04:35:13  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index fell 37 points or 0.07 percent on Wednesday to close at 53755 points. Leading the losses are Home Depot (-2.96%), Salesforce (-2.53%) and Microsoft (-2.30%). Top gainers were Nvidia (3.04%), Cisco Systems (2.69%) and Walmart (2.38%).
-
----
-
-### 2026-08-13 04:34:33  #國際
-
-美國最高法院目前暫停蘋果應用商店費率相關訴訟程式。
-
----
-
-### 2026-08-13 04:32:59  #國際
-
-特朗普的總統直升機海軍陸戰隊一號與商業航班近距離接近事件發生後，美國聯邦航空管理局計劃修復里根國家機場的通訊系統。
-
----
-
-### 2026-08-13 04:31:23  #國際
-
-伊朗官方駁斥特朗普有關美國完全掌控霍爾木茲海峽的說法。
-
----
-
-### 2026-08-13 04:29:25  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises to Record on Softer US Inflation — The S&P/TSX Composite Index added 0.5% to close at an all-time high of 36,662 on Wednesday, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC up 1.5% and TD Bank adding 1.7%. Most miners advanced amid higher gold prices, with Agnico Eagle rising 1.8% and Barrick advancing 3%. In contrast, Franco-Nevada fell 1.6% after missing earnings expectations. In tech, Celestica surged 9.2% amid a chipmaker rally in the US. Constellation Software tumbled 4.5% after revenue came in slightly below forecasts despite an EPS beat. Shopify fell 1.2%, tracking weakness in US hyperscalers.
-
----
-
-### 2026-08-13 04:24:13  #MKT News #Commodities #Energy
-
-DOE will no longer advance designation work for three proposed National Interest Electric Transmission Corridors that were selected for review in December 2024.
-
----
-
-### 2026-08-13 04:22:05  #國際
-
-美國能源部表示，不會繼續推進2024年12月選定的三條擬議國家利益輸電走廊，不再將其納入後續審查流程。
-
----
-
-### 2026-08-13 04:19:57  #國際
-
-【美國出行旺季汽油與柴油價格均創歷年同期新高】時值美國駕車出行旺季，汽油與柴油價格均升至歷年同期最高水平。美國汽車協會資料顯示，汽油和柴油價格均創歷年同期新高。8月第二週，美國汽油平均價格達到每加侖4美元，柴油則達到每加侖5.40美元，均創歷年同期新高。眼下正值出行旺季，通常有數以百萬計的美國人駕車外出度假或探親。去年同期，汽油價格為每加侖3.20美元，柴油為每加侖3.70美元。
-
----
-
-### 2026-08-13 04:19:27  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index rises 0.19% to 100.014 on 12th】The dollar index, measuring the dollar against six major currencies, rose 0.19% to 100.014 at the New York FX close on the 12th. EUR/USD 1.1521, down from 1.1540; GBP/USD 1.3488, down from 1.3503; USD/JPY 159.49, up from 159.26; USD/CHF 0.8137, up from 0.8112; USD/CAD 1.3947, up from 1.3920; USD/SEK 9.5858, up from 9.5244.
-
----
-
-### 2026-08-13 04:19:17  #市場
-
-【美元指數12日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於100.014。截至紐約匯市尾市，1歐元兌換1.1521美元，低於前一交易日的1.1540美元；1英鎊兌換1.3488美元，低於前一交易日的1.3503美元。1美元兌換159.49日元，高於前一交易日的159.26日元；1美元兌換0.8137瑞士法郎，高於前一交易日的0.8112瑞士法郎；1美元兌換1.3947加元，高於前一交易日的1.3920加元；1美元兌換9.5858瑞典克朗，高於前一交易日的9.5244瑞典克朗。
-
----
-
-### 2026-08-13 04:14:43  #國際
-
-伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。
-
----
-
-### 2026-08-13 04:11:51  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD.
-
----
-
-### 2026-08-13 04:10:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rise on AI Gains and Tame CPI — US stock indices closed mostly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to near its record close, the Nasdaq gained 0.7%, and the Dow closed nearly flat. CoreWeave surged 19.3% after posting stronger-than-expected sales results. SMCI soared 19% after its revenue forecast came in above expectations. Chip producers gained following strong results from Tencent, while Temasek took fresh stakes in SK Hynix and Samsung. The results injected fresh optimism into AI infrastructure stocks amid their volatile start to the third quarter. Nvidia (+3%), Oracle (+5.4%), and Micron (+4.9%) were up. Meanwhile, new inflation data showed relatively stable core inflation, easing pressure on the FOMC to raise interest rates. Still, uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Hyperscalers erased earlier gains, with Microsoft down 2.3%, Meta losing 3.4%, and Amazon shedding 1.8%.
-
----
-
-### 2026-08-13 04:09:37  #國際
-
-路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加320億立方英尺。
-
----
-
-### 2026-08-13 04:09:14  #其他
-
-思科第四財季來自超大規模雲服務商的AI訂單達40億美元。
-
----
-
-### 2026-08-13 04:07:42  #其他
-
-思科預計2027財年調整後每股收益5.05至5.11美元，市場預期4.84美元。
-
----
-
-### 2026-08-13 04:07:28  #市場
-
-思科2027財年銷售額指引超出市場預期，股價大漲7%。
-
----
-
-### 2026-08-13 04:06:09  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
-
-Aug 12 (Wed) close: Dow Jones Industrial Average down 21.69 pts (-0.04%) at 53,770.16; S&P 500 up 20.31 pts (+0.26%) at 7,748.51; Nasdaq Composite up 143.04 pts (+0.54%) at 26,588.49.
-
----
-
-### 2026-08-13 04:05:56  #其他
-
-航空導航資料顯示：阿聯酋王室專機（註冊號A6‑RJA）今日飛抵德黑蘭。該飛機昨日也曾飛往德黑蘭，停留一小時後返回阿聯酋。
-
----
-
-### 2026-08-13 04:03:14  #MKT News
-
-i24News reports that, at the request of Colombia’s disaster management agency, Israeli Prime Minister Netanyahu has sent an aid team.
-
----
-
-### 2026-08-13 04:02:34  #市場
-
-Nebius股價收盤上漲34%，創去年9月以來最大漲幅。
-
----
-
-### 2026-08-13 04:02:03  #市場 #焦點
-
-超微電腦收盤上漲19%，創7月22日以來最佳單日表現。
-
----
-
-### 2026-08-13 04:01:22  #MKT News #Important #Star Stocks #NVIDIA #Microsoft #Meta Platforms #Alibaba #Market Themes #Magnificent 7 #SKHY.O #Impact bullish #NVDA.O #BABA.N #Impact bearish
-
-【US close: major indexes mixed; SK Hynix up 9%】US stocks closed Wednesday mixed: Dow -0.04%, S&P 500 +0.26%, Nasdaq +0.54%. SpaceX (SPCX.O) +9.6%; NVIDIA (NVDA.O) +3%; SK Hynix (SKHY.O) +9%; Micron Technology (MU.O) +4.9%. Meta (META.O) -3%; Microsoft (MSFT.O) -2%. Nasdaq Golden Dragon China Index -2.4%; Alibaba (BABA.N) -2%; NetEase (NTES.O) -2.9%.
-
----
-
-### 2026-08-13 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指跌0.04%，標普500指數漲0.26%，納指漲0.54%。超微電腦漲18.77%，Lumentum Holdings Inc. Common Stock When Issued漲13.52%，Ciena科技漲11.48%，Texas Pacific Land Trust Sub Sha跌6.11%，CoreSite房產跌5.91%，第一太陽能跌5.87%。“七姐妹”方面：英偉達漲3.03%，谷歌跌0.20%，蘋果跌0.88%，特斯拉跌1.59%，亞馬遜跌1.83%，微軟跌2.26%，Meta Platforms跌3.38%。
-
----
-
-### 2026-08-13 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌2.45%】聲網跌4.28%，高途跌4.17%，新東方跌3.89%，BOSS直聘跌4.03%，唯品會跌3.74%。
-
----
-
-### 2026-08-13 03:56:27  #MKT News
-
-【WHO says US changes to childhood vaccination schedule depart from science】WHO Director-General Tedros said on the 12th that recent US adjustments to the childhood vaccination schedule depart from scientific evidence, warning that delaying or splitting vaccinations could leave children exposed to infectious-disease risk for longer. The remarks follow an executive order by Trump to reduce the number of childhood vaccinations; WHO said it is concerned.
-
----
-
-### 2026-08-13 03:55:48  #焦點 #國際
-
-【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。
-
----
-
-### 2026-08-13 03:55:40  #MKT News
-
-【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser.
-
----
-
-### 2026-08-13 03:54:56  #國際
-
-以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。
-
----
-
-### 2026-08-13 03:54:45  #國際
-
-美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。
-
----
-
-### 2026-08-13 03:54:41  #MKT News #WTI #Impact bullish #Brent
-
-【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's "Persian Gulf Strait Authority" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran.
 
 ---
