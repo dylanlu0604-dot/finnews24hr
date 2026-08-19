@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-19 12:10:39",
-  "count": 15216,
+  "updated": "2026-08-19 12:14:41",
+  "count": 15209,
   "items": [
+    {
+      "id": "5046994",
+      "time": "2026-08-19 12:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：提升生育醫療費用保障水平，全面建立長期護理保險制度】國家醫保局解讀《全民醫療保障“十五五”規劃》。其中提出，“十五五”時期是健全多層次醫療保障體系的關鍵階段，我們立足當前醫保發展現狀、民生就醫保障需求以及中長期改革任務，統籌接續“十四五”時期各項改革安排，對標新階段新形勢，整體工作思路概括為四個“更加註重”。一是更加註重強體系、補短板。持續織密築牢全民醫保制度框架，提升生育醫療費用保障水平，全面建立長期護理保險制度，最佳化多層次醫療保障體系，縮小區域、群體之間保障差距。二是更加註重推改革、促協同。縱深推進支付方式改革、醫藥價格治理、醫保目錄動態調整等重點改革，賦能醫藥機構發展，支援醫藥創新。三是更加註重精管理、優服務。常態化開展基金飛行檢查、日常核查和智慧監控，嚴厲打擊欺詐騙保行為，確保醫保基金安全。四是更加註重夯基礎、強支撐。強化法治建設、標準化建設等基礎工作，完善醫保資訊系統，延伸醫保公共服務觸角，夯實醫保事業長遠發展的硬體底座和能力支撐。"
+    },
+    {
+      "id": "5046993",
+      "time": "2026-08-19 12:12:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國AI初創公司稱其新模型可媲美阿里巴巴的Qwen 3.7 Max】韓國人工智慧(AI)初創公司Motif Technologies執行長Junghwan Lim稱，該公司利用價值2500萬美元的、由政府支援的英偉達B200 GPU開發出了其最新的大語言模型Motif 3。Motif 3在Artificial Analysis Intelligence Index中獲得47分，這一成績遠高於同類模型的平均水平，並與阿里巴巴的Qwen 3.7 Max持平。Motif正探索一種新型的代幣即服務(token-as-a-service)商業模式，該模式允許基礎設施提供商管理GPU叢集，而終端使用者只需根據其產生的輸入和輸出量付費。"
+    },
+    {
+      "id": "5046992",
+      "time": "2026-08-19 12:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國將發行至多 150 億泰銖可持續發展掛鉤債券。"
+    },
+    {
+      "id": "5046991",
+      "time": "2026-08-19 12:10:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "據英國金融時報，加拿大養老基金投資公司（CPP Investments）正透過向黑石集團、KKR及殷拓集團等巨頭注資，以共同出資人身份鎖定大型基礎設施交易。這一策略標誌著養老基金在基建領域從單打獨鬥轉向與私有資本巨頭“抱團”合作的模式。"
+    },
     {
       "id": "5046990",
       "time": "2026-08-19 12:09:31",
@@ -139383,110 +139416,6 @@
         "01698.HK"
       ],
       "text": "【Hong Kong midday: Hang Seng down 1.17%, tech names under pressure】Hang Seng extended yesterday's weakness, opening lower and sliding as much as 300 points intraday to a low of 25,323.33; it stood at 25,352.13 at the midday break, down 1.17%. Hang Seng Tech fell 1.17% to 4,767.88. Market turnover was HKD 117.01 bln. Sector movers: storage chips and optical-communications hardware outperformed; gold miners recovered; innovative-drug names stayed active; internet and tech names were broadly weak. Notable stock moves: Yangtze Optical Fibre & Cable (06869.HK) +7.86%, Zai Lab (09688.HK) +5.72%, GigaDevice Semiconductor (03986.HK) +5.61%, Chifeng Gold Mining (06693.HK) +3.14%; Tencent Music (01698.HK) -13.59% after results, Tencent Holdings (00700.HK) -2.93%."
-    },
-    {
-      "id": "5036834",
-      "time": "2026-08-12 12:14:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颱風“燦鴻”襲擊日本關東 多地交通受影響】11日，颱風“燦鴻”登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣。截至目前，“燦鴻”造成至少4人受傷。多地出現停電，交通受到影響。據日本氣象廳訊息，“燦鴻”11日晚在茨城縣南部登陸。這是自1951年日本開始進行相關統計以來，首次有颱風登陸茨城縣。"
-    },
-    {
-      "id": "5036833",
-      "time": "2026-08-12 12:13:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【啟明資訊：公司目前暫無紅旗H7車型前裝配套的汽車電子產品】啟明資訊(002232)8月12日在互動平臺表示，公司目前暫無紅旗H7車型前裝配套的汽車電子產品，主要為整車製造廠提供管理軟體、電子檢測服務、數字化工廠運維等產品及服務。紅旗H7車型作為公司客戶近期推出的新品，其銷量對公司業績可能產生非線性的拉動效果，具體影響程度受多種因素制約，難以量化，具有不確定性。"
-    },
-    {
-      "id": "5036832",
-      "time": "2026-08-12 12:13:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國銅箔生產商龍電華鑫將其美國首次公開募股發行價定為每股22美元，募資規模約為9500萬美元。"
-    },
-    {
-      "id": "5036831",
-      "time": "2026-08-12 12:12:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "加拿大帝國商業銀行將巴里克黃金公司目標價從64美元下調至57美元。"
-    },
-    {
-      "id": "5036830",
-      "time": "2026-08-12 12:12:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，印尼科技企業GoTo在MSCI指數季度稽核中面臨被剔除的風險。"
-    },
-    {
-      "id": "5036829",
-      "time": "2026-08-12 12:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本縣發生4.9級地震】據日本氣象廳訊息，當地時間12日13時05分左右，日本熊本縣天草、蘆北地區發生4.9級地震，最大震感為震度4，震源深度10公里。"
-    },
-    {
-      "id": "5036828",
-      "time": "2026-08-12 12:11:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔡崇信支援的藍池資本旗下新基金首輪募資3億美元 將押注對沖基金策略】知情人士稱，阿里巴巴集團主席蔡崇信支援的藍池資本（Blue Pool Capital）旗下新基金7月完成首輪募資，籌得3億美元，資金將用於投資對沖基金策略。知情人士稱，這隻新基金是Harborside系列的第二隻基金，目標是在年底前完成5億美元募資，投資者包括超高淨值個人和機構。"
-    },
-    {
-      "id": "te:markets:574601",
-      "time": "2026-08-12 12:11:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Mostly Rise — Asian equity markets mostly advanced on Wednesday, led by a more than 4% surge in South Korea’s KOSPI Composite Index as SK Hynix and Samsung Electronics rallied following reports that Singaporean state-owned investment firm Temasek Holdings plans to acquire stakes in the two companies. Sentiment was further supported by upbeat outlooks from CoreWeave and Super Micro Computer, as both companies continue to benefit from the ongoing artificial intelligence spending boom. Technology-heavy benchmarks in Japan and China also climbed, while shares in Australia and Hong Kong lagged. On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”"
-    },
-    {
-      "id": "mkt:019ff42a-9585-7aab-9000-65466266df53",
-      "time": "2026-08-12 12:10:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Financial Times reports Boston Fed President Collins would support a September rate hike if inf remains elevated."
-    },
-    {
-      "id": "5036827",
-      "time": "2026-08-12 12:10:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團在泰州成立新科技公司，註冊資本300萬美元】天眼查App顯示，8月10日，泰州海騎科技有限公司成立，法定代表人為孫可青，註冊資本300萬美元，企業型別為有限責任公司（港澳臺法人獨資）。公司經營範圍含軟體開發、網路與資訊保安軟體開發、共享腳踏車服務、電動腳踏車銷售等，註冊地址位於江蘇省泰州市姜堰區。股東資訊顯示，該公司由Xigua Limited全資持股，認繳出資300萬美元。據公開資訊，Xigua Limited為美團旗下公司。"
-    },
-    {
-      "id": "te:markets:574599",
-      "time": "2026-08-12 12:10:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Stays Near 4-Week High on Tech Sector Boost — The TAIEX, Taiwan’s benchmark stock index, climbed 343 points, or 0.8%, to 45,464 around noon on Wednesday, extending gains for the third consecutive session, mainly buoyed by electronic technology and producer manufacturing. The broader index lingered at its highest level since July 16, as traders capitalized on the upward momentum in the tech sector. Electronic technology stocks rose 1.0%, with TSMC, the world's largest contract chipmaker and a company that accounts for more than 40% of the market's total value, rising 0.4% after a 0.6% gain a day earlier. Delta Electronics gained 0.6%, while Hon Hai Precision Industry surged 2.5%. Yageo Corp., the world's third-largest multilayer ceramic capacitor (MLCC) maker, rose 0.3%. However, a decline on Wall Street overnight limited gains, as rising oil prices raised questions about the Fed's monetary policy at its upcoming meeting, while traders awaited the release of US inflation data later today."
     }
   ]
 }
