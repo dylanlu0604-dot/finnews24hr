@@ -1,7 +1,362 @@
 {
-  "updated": "2026-08-19 19:40:38",
-  "count": 15385,
+  "updated": "2026-08-19 19:57:10",
+  "count": 15388,
   "items": [
+    {
+      "id": "5047886",
+      "time": "2026-08-19 19:43:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【糧食ETF匯添富：8月20日起在深交所上市交易】糧食ETF匯添富公告稱，匯添富國證糧食產業交易型開放式指數證券投資基金於2026年08月20日開始在深圳證券交易所上市交易，基金程式碼159073，上市首日以基金份額參考淨值1.037元為開盤參考價。截至2026年08月19日，該基金投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的99.12%，投資組合比例符合相關規定及基金合同約定。"
+    },
+    {
+      "id": "mkt:01a019d5-1023-7aab-9095-9ca71f51cc92",
+      "time": "2026-08-19 19:43:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【ICAEW: UK inflation rebound raises chance of Bank of England rate hikes】ICAEW chief economist Suren Thiru said July CPI rose to 2.9%, increasing the odds of further Bank of England tightening. Drought-driven food-price rises and a surge in energy costs mean inflation could exceed 3.5% later this year, especially if disruptions in the Strait of Hormuz persist. The fall in services inflation likely reflects temporary VAT cuts for tourist sites and children’s meals rather than a cooling of underlying price pressures; the data are unlikely to prompt a September hike but raise the probability of additional tightening before end-2026."
+    },
+    {
+      "id": "mkt:01a019d4-dc8a-7aab-9095-964f746e0534",
+      "time": "2026-08-19 19:42:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Ningbo Bank 1H2026 net profit +12.12% YoY; proposes 4 yuan per 10 shares dividend】Ningbo Bank reported 1H2026 operating income 41.45 bln yuan, up 11.54% YoY; net profit attributable to shareholders 16.562 bln yuan, up 12.12% YoY; basic EPS 2.51 yuan. Board proposes cash dividend of 4 yuan per 10 shares (0.4 yuan per share, inclusive of tax)."
+    },
+    {
+      "id": "5047885",
+      "time": "2026-08-19 19:42:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【光大證券：2026年上半年淨利潤22.29億元，同比增長32.45%】光大證券公告，2026年上半年營業收入60.56億元，同比增長18.17%；歸屬於上市公司股東的淨利潤22.29億元，同比增長32.45%；扣非淨利潤20.62億元，同比增長33.64%。公司擬向全體股東每股派發現金股利0.17元（含稅）。"
+    },
+    {
+      "id": "te:markets:576491",
+      "time": "2026-08-19 19:41:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "TJX Companies earnings above expectations at 1.22 USD — TJX Companies (TJX) released earnings per share at 1.22 USD, compared to market expectations of 1.19 USD."
+    },
+    {
+      "id": "5047883",
+      "time": "2026-08-19 19:41:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：擬以10億元-20億元回購公司股份】恆瑞醫藥公告，擬以不低於10億元且不超過20億元回購公司A股股份，回購價格不超過81.78元/股。回購股份的用途為用於A股員工持股計劃；若公司未能在股份回購實施完成之後36個月內使用完畢已回購的股份，公司將依法對回購的股份予以登出。回購期限為自董事會審議透過回購方案之日起不超過12個月。"
+    },
+    {
+      "id": "5047882",
+      "time": "2026-08-19 19:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣聯航空：控股子公司簽訂約1.12億元銷售合同】廣聯航空公告稱，公司控股子公司天津躍峰與中海油能源發展股份有限公司簽署定製化工作筒本體物資採購主合同，為固定單價合同，含稅金額約1.12億元，實際採購金額以採購訂單結算金額為準，最終金額存在不確定性，約佔公司2025年經審計營業收入的11.09%。合同自主簽訂之日起三年內有效，採用“1+1+1”續約模式，預計將對公司履約年度經營業績產生積極影響。"
+    },
+    {
+      "id": "mkt:01a019d2-7fcf-7aab-9095-8b37cc8a1b10",
+      "time": "2026-08-19 19:40:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【US federal debt set to hit $40 tln in Aug 2026 as interest costs accelerate】U.S. federal debt is projected to reach $40 tln in August 2026, several months sooner than the CBO had forecast. Debt growth has accelerated since the global financial crisis and the COVID stimulus era; milestones include $10 tln (2008), $20 tln (2017) and $30 tln (Jan 2022). Drivers cited: crisis-related fiscal stimulus, revenue shortfalls tied to tariff policies and returned tariffs (one estimate of ~$200 bln), a 2025 Republican-led \"Big and Beautiful\" fiscal bill estimated at about $2 tln over five years, and a rising-interest-cost feedback loop as higher refinancing costs push debt-servicing needs higher. Market-relevant forecasts: Bank of America says U.S. debt could top $50 tln by July 2029 unless 5-year yields fall below 3.25%; if rates hold, annual interest costs could rise to $1.7 tln by Nov 2028. The Kobeissi Letter reports record interest outlays of $1.4 tln over the past 12 months and projects interest could become the single largest federal outlay by 2028. JP Morgan warns that, at current issuance rates through FY2027, short-term Treasury bills could comprise nearly 25% of debt—raising sensitivity to short-end rate moves."
+    },
+    {
+      "id": "5047881",
+      "time": "2026-08-19 19:39:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：2026年上半年營收154.56億元 淨利微增】恆瑞醫藥公告稱，2026年上半年實現營業收入154.56億元，同比下降1.94%；歸屬於上市公司股東的淨利潤44.65億元，同比增長0.34%；歸屬於上市公司股東的扣除非經常性損益的淨利潤37.30億元，同比下降12.71%。基本每股收益0.68元，同比下降2.86%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5047880",
+      "time": "2026-08-19 19:39:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：完成股份回購 累計回購金額10.04億元】恆瑞醫藥公告稱，公司股份回購實施期限屆滿，本次回購已完成。實際回購股份1659.10萬股，佔總股本的0.25%，回購價格區間為45.30元/股-70.00元/股，回購均價約60.51元/股，累計回購金額10.04億元，回購資金符合方案約定的10億元-20億元區間。本次回購股份將用於員工持股計劃，公司將在回購完成後36個月內完成授予或轉讓，未使用完畢的股份將予以登出。回購期間，公司董事、高階副總裁孫杰平因個人資金需求減持公司股份15.704萬股。"
+    },
+    {
+      "id": "5047879",
+      "time": "2026-08-19 19:39:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方正科技：2026年上半年淨利潤5.74億元，同比增長232.38%】方正科技公告，2026年上半年營業收入36.99億元，同比增長72.89%。歸屬於上市公司股東的淨利潤5.74億元，同比增長232.38%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5.56億元，同比增長237.92%。本報告期利潤分配預案或公積金轉增股本預案為不適用。"
+    },
+    {
+      "id": "5047878",
+      "time": "2026-08-19 19:39:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石藥集團：SYS6090注射液Ib/II期臨床在中國首家中心啟動】石藥集團公告，本集團開發的SYS6090注射液用於治療肝細胞癌的Ib/II期臨床試驗已於中國首家中心正式啟動。該產品為治療用生物製品1類，是一種重組全人源抗PD-1且融合IL-15的融合蛋白，臨床前研究顯示可顯著抑制腫瘤生長，安全耐受性良好。此前，本集團已於2026年7月獲國家藥監局簽發的藥物臨床試驗批准通知書。"
+    },
+    {
+      "id": "5047877",
+      "time": "2026-08-19 19:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius Group：淨收益將用於支援持續增長。部分收益將用於資料中心支出。"
+    },
+    {
+      "id": "5047876",
+      "time": "2026-08-19 19:38:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Nebius Group股價盤前下跌8.3%，此前該集團宣佈計劃非公開發行45億美元可轉換優先票據。"
+    },
+    {
+      "id": "mkt:01a019d0-c6e4-7aab-9095-8247d4be741d",
+      "time": "2026-08-19 19:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nebius Group said part of proceeds will be used for data-center spending."
+    },
+    {
+      "id": "mkt:01a019d0-99d7-7aab-9095-784e676e7af5",
+      "time": "2026-08-19 19:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nebius Group: net proceeds will be used to support continued growth."
+    },
+    {
+      "id": "mkt:01a019d0-6567-7aab-9095-7432b411f029",
+      "time": "2026-08-19 19:38:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Russian central bank: household inflation expectations 13.7% in August, down from 14.7% in July."
+    },
+    {
+      "id": "5047875",
+      "time": "2026-08-19 19:37:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：8月居民通脹預期為13.7%，前值為14.7%。"
+    },
+    {
+      "id": "5047874",
+      "time": "2026-08-19 19:36:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nebius美股盤前跌超7%。"
+    },
+    {
+      "id": "mkt:01a019cf-1697-7aab-9095-69c7f89db528",
+      "time": "2026-08-19 19:36:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nebius Group shares fell as much as 7% in pre-market trading."
+    },
+    {
+      "id": "5047873",
+      "time": "2026-08-19 19:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度大使館證實，一名在烏法的印度學生遭烏克蘭無人機襲擊受傷。"
+    },
+    {
+      "id": "5047870",
+      "time": "2026-08-19 19:35:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三夫戶外：子公司獲ODLO品牌國內獨家代理權】三夫戶外公告稱，公司全資子公司上海飛蛙商貿有限公司近期與Odlo International AG簽署獨家代理協議，取得ODLO品牌中國境內獨家代理權。協議自2026年8月10日起生效，有效期至2031年12月31日，到期前雙方覆盤無異議則合同延續5年。本次合作符合公司“自有品牌+獨家代理品牌”的戰略佈局，有助於豐富品牌結構、拓展多元銷售渠道，與現有業務形成協同。"
+    },
+    {
+      "id": "mkt:01a019ce-4291-7aab-9095-65b0bd57c9ba",
+      "time": "2026-08-19 19:35:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nebius Group to issue $4.5 bln convertible preferred notes."
+    },
+    {
+      "id": "5047868",
+      "time": "2026-08-19 19:35:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "Nebius 集團擬發行 45 億美元可轉換高階票據。"
+    },
+    {
+      "id": "mkt:01a019cd-c8e3-7aab-9095-5dcd999973da",
+      "time": "2026-08-19 19:35:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "TSLA.O"
+      ],
+      "text": "【Tesla launches Doubao large model】Tesla has launched the Doubao large model; the update is being progressively pushed to Tesla in-vehicle systems."
+    },
+    {
+      "id": "5047867",
+      "time": "2026-08-19 19:34:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波銀行：2026年半年度淨利潤同比增長12.12%】寧波銀行(002142.SZ)釋出2026年半年度報告，實現營業收入414.5億元，同比增長11.54%；歸屬於母公司股東的淨利潤165.62億元，同比增長12.12%。公司擬向全體普通股股東每10股派發現金紅利4元(含稅)。"
+    },
+    {
+      "id": "5047866",
+      "time": "2026-08-19 19:33:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【特斯拉上線豆包大模型】8月19日，據火山引擎訊息，特斯拉上線豆包大模型。據介紹，特斯拉車機現已陸續推送。"
+    },
+    {
+      "id": "mkt:01a019cb-fe94-7aab-9095-540924e1d02f",
+      "time": "2026-08-19 19:33:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xinhecheng 1H2026 revenue +18.3% YoY; net profit +11.3% YoY; proposes 2 yuan per 10 shares dividend】Xinhecheng reported 1H2026 revenue of 13.129 bln yuan, up 18.28% YoY. Net profit attributable to shareholders was 4.011 bln yuan, up 11.31% YoY; basic EPS 1.30 yuan. Company proposed a cash dividend of 2.00 yuan per 10 shares (tax included)."
+    },
+    {
+      "id": "5047865",
+      "time": "2026-08-19 19:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "坎託集團允許對沖基金參與Kalshi預測市場押注。"
+    },
+    {
+      "id": "5047864",
+      "time": "2026-08-19 19:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶光股份：2026年半年度淨利潤3869.44萬元，同比增長3.98%】寶光股份公告，2026年半年度營業收入7億元，同比增長9.56%；歸屬於上市公司股東的淨利潤3869.44萬元，同比增長3.98%；扣非淨利潤3885.89萬元，同比增長8.61%。利潤分配預案為每10股派發現金紅利0.352元（含稅）。"
+    },
+    {
+      "id": "5047863",
+      "time": "2026-08-19 19:31:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【韻達股份：7月快遞服務業務收入46.43億元 同比增長12.69%】韻達股份公告，7月快遞服務業務收入46.43億元，同比增長12.69%；完成業務量21.72億票，同比增長0.46%；快遞服務單票收入2.14元，同比增長12.04%。"
+    },
+    {
+      "id": "5047862",
+      "time": "2026-08-19 19:31:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率<IN069436G=CC>收於6.8170%；前一交易日收於6.8269%。"
+    },
+    {
+      "id": "mkt:01a019ca-80a2-7aab-9095-4a71794c0a7a",
+      "time": "2026-08-19 19:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【PBOC'S PAN meets Macau Banking Association delegation】Aug 19, 2026 — PBOC'S PAN met a Macau Banking Association delegation led by Huang Shanwen, chairman of the Administrative Committee of the Macau Monetary Authority. They discussed the current macro-financial outlook, steps to deepen mainland–Macau financial market interconnectivity, and support for Macau's economic development."
+    },
+    {
+      "id": "5047861",
+      "time": "2026-08-19 19:31:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【中國人民銀行行長潘功勝會見澳門銀行公會代表團】2026年8月19日，中國人民銀行行長潘功勝會見由澳門金融管理局行政管理委員會主席黃善文率領的澳門銀行公會代表團。雙方就當前宏觀經濟金融形勢、深化兩地金融市場互聯互通合作、支援澳門經濟繁榮發展等議題進行了交流。(央行)"
+    },
+    {
+      "id": "5047860",
+      "time": "2026-08-19 19:31:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住房公積金制度覆蓋面擴大至靈活就業群體】《國務院關於修改〈住房公積金管理條例〉的決定》自2026年9月20日起施行。決定將住房公積金提取情形由原有的6種拓展為9種，包括支付房租、購買、建造、翻建、大修自住住房、償還購房貸款本息、裝修自住住房、支付自住住房物業費等。同時，住房公積金制度覆蓋面擴大到靈活就業群體，個體工商戶、非全日制從業人員以及其他靈活就業人員可以自願繳存住房公積金。（新華社）"
+    },
+    {
+      "id": "5047859",
+      "time": "2026-08-19 19:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【計劃訓超大模型後，位元組 Seed 基模團隊調整了組織架構】位元組跳動的大模型部門 Seed 已於上週完成了新一輪的組織調整。 其中最關鍵的部分是 Seed Foundation Model （Seed 基礎模型）成立了四個新的一級部門： Pretrain Data，負責人李成剛。由原先分散在文字模型、程式設計、視覺理解和語音等方向的預訓練資料團隊合併而來，統一負責新 Omni 模型的多模態資料，以及超大模型預訓練所需的資料工作。 Horizon RL，負責人唐晟宇。整合了此前散落在後訓練、推理和視覺理解的後訓練團隊，主要負責強化學習，提升模型的基礎智慧上限。 Product Posttrain-Work，負責人秦禹嘉。新部門主要服務 B 端應用，負責 Agentic 模型的整合與釋出，並針對辦公場景最佳化模型的 Agentic 能力，包括支援豆包和 Dola 的任務模式。 原本由朱文佳負責的 Application 團隊繼續保留，並更名為 Product Posttrain-Chat，主要服務 C 端應用，負責對話模型的整合與釋出，與 Product Posttrain-Work 分工協作。 四個新部門的負責人均向吳永輝彙報。此外，Seed 還為 AI 安全及其他前沿探索方向分別任命了負責人。（晚點）"
+    },
+    {
+      "id": "5047855",
+      "time": "2026-08-19 19:29:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【廣州新房價格五連漲，廣州部分熱銷樓盤已提價】廣州新房房價已連漲5個月。 近日，國家統計局公佈的70個大中城市商品住宅銷售價格資料顯示，7月份，廣州一手住宅銷售價格環比指數100.1。這是自今年3月以來，廣州新建商品住宅價格連續第5個月環比上漲，市場企穩態勢持續鞏固。 這背後是不少新房專案在淡季超預期的市場表現。位於白雲區的保利雲瑞在6月底首開時去化即超9成，認購金額達到15億元，並在7月登上廣州網籤套數、金額、面積“三冠王”，單盤佔白雲區市場份額近三成；同樣熱銷的保利海韻在5月中旬首開時推出396套房源，開盤當日認購268套，認購率68%，並在7-8月網籤持續領跑海珠區。 良好的銷售勢頭之下，不少專案回收了此前的折扣。市場訊息顯示，7月，保利雲瑞就收回了此前開盤的98折優惠；保利置業旗下的荔灣怡璟灣也將單價上調了3%；同樣位於荔灣的聚龍灣·源舍近期加推的單價也上漲了2000元/平左右…… 7月底入市的萬科黃埔新城四期漫璟，主推建面約78-109平方米的三至四房，參考單價約2.5萬/平方米，而該專案此前的銷售均價大約在2.2萬元/平方米。即便單價上漲了大約2500元，此番新推房源即實現超9成去化。（第一財經）"
+    },
+    {
+      "id": "5047854",
+      "time": "2026-08-19 19:29:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【東方財富證券陳果： 今天這樣的整體急跌不會持續，大A後續依然充滿機會】東方財富證券研究所副所長、首席策略官陳果表示，很多朋友說今天市場是擔心海外國債利率上升，那我認為這個多數時候是個慢變數，不用恐慌，至少不太會因為這個因素天天急跌。對於海外利率恐慌也不用過於放大，也要看分子，關鍵還是要看資產價效比。"
+    },
+    {
+      "id": "5047853",
+      "time": "2026-08-19 19:28:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ANALOG DEVICES股價盤前上漲2.9%，此前該公司第四季度盈利預期超出預期。"
+    },
+    {
+      "id": "mkt:01a019c7-05f9-7aab-9095-43caa64ab262",
+      "time": "2026-08-19 19:27:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow gas stations have restricted gasoline sales, according to customer hotlines and Refinitiv."
+    },
     {
       "id": "mkt:01a019c6-be89-7aab-9095-3e2d997b7848",
       "time": "2026-08-19 19:27:30",
@@ -140657,338 +141012,6 @@
         "國際"
       ],
       "text": "【伊朗軍方轉向“進攻性”戰略 高層軍職調整釋放長期對抗訊號】伊朗正重組軍隊，在其與美以戰爭的背景下，使其在海外行動中更加靈活和更具攻擊性。此舉也顯示，即使當前衝突結束，伊朗仍在為長期對抗做準備。伊斯蘭革命衛隊將領、該部隊新任指揮官顧問Mohammad Reza Naqdi週二晚間接受國家電視臺採訪時表示，本週一系列軍方高層委任標誌著伊朗轉向“進攻性準則”。他說：“只要條件有利並且命令下達，我們就必須有能力把行動推進到敵方領土。”他稱，這與戰前“主要基於防禦和保衛國家”的準則形成對比。這些言論是迄今伊朗官員對最高領袖穆傑塔巴·哈梅內伊任命關鍵軍職背後戰略最詳細的解釋。此次獲晉升的多名革命衛隊軍官，在戰爭和霍爾木茲海峽問題上以強硬立場著稱。"
-    },
-    {
-      "id": "5037670",
-      "time": "2026-08-12 19:56:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【輝隆股份：2026年上半年營收85.47億元 分紅及回購超2億】輝隆股份公告稱，2026年上半年，公司聚焦主業，實現營收85.47億元，淨利潤1.13億元。公司注重股東回報，2026年上半年實施2025年度利潤分配，派發現金股利9191.36萬元，登出已回購股份對應金額10039.78萬元。此外，公司強化治理，完善4項管理制度，披露的《2025年度輝隆股份ESG報告》獲評A級。報告期內披露報告63份，接待投資者調研約15人次。"
-    },
-    {
-      "id": "5037669",
-      "time": "2026-08-12 19:56:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球首款機器人手機榮耀Robot Phone釋出】全球首款機器人手機榮耀Robot Phone今日釋出，採用鈦合金雲臺架構，讓手機首次擁有機器人級4DoF自由度，搭載7060mAh新一代青海湖電池和第五代驍龍8至尊版移動平臺。"
-    },
-    {
-      "id": "5037668",
-      "time": "2026-08-12 19:55:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SK海力士美股盤前漲超4%】SK海力士美股盤前漲超4%，現報147.324美元。"
-    },
-    {
-      "id": "5037667",
-      "time": "2026-08-12 19:55:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【知情人士稱特朗普秘密換乘飛機是因受到導彈威脅】當地時間8月12日，據知情人士稱，在上月底北約土耳其峰會最後一天，出現了針對“空軍一號”的威脅，涉及使用肩扛式導彈。美國官員隨後緊急制定計劃，準備讓美國總統特朗普搭乘另一架飛機秘密離開土耳其。知情人士稱，相關威脅具體到令官員擔心，如果特朗普搭乘原有“空軍一號”或卡達方面提供、此前用於前往峰會的飛機離境，其生命將面臨極大風險。（央視新聞）"
-    },
-    {
-      "id": "5037666",
-      "time": "2026-08-12 19:55:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外交部回應中國車企在西班牙建廠：願繼續深化兩國務實合作】2026年8月12日，外交部發言人郭嘉昆答記者問。有記者提問，據報道，中國車企上汽集團計劃在西班牙費羅爾建設其在歐洲的首家工廠，但由於廠址靠近當地軍事和造船相關敏感設施，西班牙政府正在從經濟、工業、就業、國家安全等方面評估這一投資專案。中方對此有何評論？外交部發言人 郭嘉昆：中方注意到西班牙中央和地方政府已作出積極表態。中方願同西班牙方面繼續本著相互尊重、互利共贏原則深化兩國務實合作，希望西班牙方面為中國企業提供公平、公正、非歧視的營商環境。（央視新聞）"
-    },
-    {
-      "id": "5037665",
-      "time": "2026-08-12 19:55:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中航西飛：公司作為C919機體結構供應商的地位及合作份額未發生變化】就“公司在中國商飛C919業務份額逐年下降？”的提問，中航西飛在互動平臺表示，公司承擔中國商飛C919相關工作包，並按照中國商飛年度採購需求持續推進產能建設與批產上量，近年來公司與中國商飛C919交付量逐年上升。C919供應商體系由中國商飛統籌管理，公司作為C919機體結構供應商的地位及合作份額未發生變化。"
-    },
-    {
-      "id": "mkt:019ff5d3-3852-7aab-9009-42d879dd2234",
-      "time": "2026-08-12 19:54:48",
-      "tags": [
-        "MKT News",
-        "Market Themes"
-      ],
-      "text": "【Thailand says US ties stable; will separate security cooperation from trade talks】Thailand on Wednesday reaffirmed long-standing military ties with the US and said security cooperation would be handled separately from ongoing talks over US tariffs and would not be used as bargaining leverage. A government spokesperson said Bangkok is carefully assessing proposals in the trade talks and seeks a reciprocal deal that delivers fair benefits. Earlier reports quoted a Thai official saying Bangkok was preparing to warn the Trump administration that high US tariffs could force Thailand to scale back military cooperation, including joint exercises, and that stance is expected to be part of Thailand's counterproposal when reciprocal trade talks resume later this month."
-    },
-    {
-      "id": "5037664",
-      "time": "2026-08-12 19:54:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中印邊境局勢總體穩定】8月12日，外交部發言人郭嘉昆答記者問。部分問答如下：彭博社記者：印度社交媒體上流傳的影片顯示，中方在中印邊境爭議地區加強了軍事活動，印政府發言人未否認發生了一起新的邊境事件。中方能否證實近期中印邊境地區發生了新的事件？中方是否加強了在爭議地區的軍事活動？（路透社亦問及）郭嘉昆：當前，中印邊境局勢總體穩定。上週，中印舉行了邊境事務磋商和協調工作機制第36次會議，同意保持外交軍事渠道溝通，共同維護邊境地區和平安寧。（外交部網站）"
-    },
-    {
-      "id": "mkt:019ff5d2-469f-7aab-9009-3f8be1164b21",
-      "time": "2026-08-12 19:53:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemeni government forces shot down four Houthi armed drones north of Marib."
-    },
-    {
-      "id": "5037663",
-      "time": "2026-08-12 19:53:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德祥地產：完成收購PYI Investment已發行股本20%】德祥地產公告，公司此前披露收購PYI Investment已發行股本20%及銷售貸款，並出售ITC Finance股份及ITC Finance銷售貸款。收購及出售已於2026年8月12日完成。收購完成後，公司持有PYI Investment全部已發行股本20%；出售完成後，公司不再持有ITC Finance任何股權，ITC Finance不再為附屬公司。公司已發行本金總額1.7億港元代價票據，佔收購代價50.49%。"
-    },
-    {
-      "id": "mkt:019ff5d1-ae97-7aab-9009-37645046ef40",
-      "time": "2026-08-12 19:53:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Storm near the Cape Verde Islands has an 80% probability of developing into a cyclone within 48 hours."
-    },
-    {
-      "id": "5037661",
-      "time": "2026-08-12 19:51:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗賈斯克縣發生爆炸。"
-    },
-    {
-      "id": "5037660",
-      "time": "2026-08-12 19:51:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寒武紀董事長談“存貨超82億”：將持續拓展市場，控制相關風險】今日舉辦的寒武紀2026年半年度業績說明會上，寒武紀董事長、總經理陳天石談及公司存貨超82億元（佔總資產比例45.32%）時直言，“公司根據客戶訂單需求及市場未來需求的預測情況制定採購計劃，若未來市場環境發生變化可能導致公司存貨跌價風險增加，對公司的盈利能力產生不利影響，公司將持續拓展市場，積極助力人工智慧應用落地，控制相關風險。”（新浪科技）"
-    },
-    {
-      "id": "mkt:019ff5cf-ff92-7aab-9009-2849131d3fb7",
-      "time": "2026-08-12 19:51:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Market sources report an explosion in Jask County, Iran."
-    },
-    {
-      "id": "5037658",
-      "time": "2026-08-12 19:51:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波遠洋：向特定物件發行股票獲證監會註冊批覆，12個月內有效】寧波遠洋公告，公司近日收到中國證監會出具的《關於同意寧波遠洋運輸股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1825號），同意公司向特定物件發行股票的註冊申請。本次發行應嚴格按照報送上海證券交易所的申報檔案和發行方案實施，批覆自同意註冊之日起12個月內有效。"
-    },
-    {
-      "id": "5037657",
-      "time": "2026-08-12 19:50:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【京澳首筆多邊央行數字貨幣橋跨境交易業務成功落地】8月12日，據人民銀行北京市分行官方微信，2026年7月，在人民銀行北京市分行統籌指導下，郵儲銀行北京分行成功落地北京市首筆面向澳門特別行政區多邊央行數字貨幣橋（以下簡稱“貨幣橋”）跨境交易業務。本次業務依託貨幣橋向澳門特別行政區某企業支付交通一卡通結算款，實現首都數字人民幣民生場景跨境應用全新突破。"
-    },
-    {
-      "id": "5037656",
-      "time": "2026-08-12 19:50:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【巴克萊銀行：對9月至12月歐洲期貨交易所債券展期持溫和看好態度】巴克萊銀行策略師對德國國債（Bund）、波本威士忌（Bobl）、沙茨（Schatz）、義大利國債（BTP）和奧地利國債（OAT）的展期持溫和看漲態度，此前他們在7月份的下跌行情中建立了空頭頭寸。策略師表示，隨著合約價格從7月下旬的低點反彈，部分空頭頭寸可能已於近期平倉。“就目前情況來看，我們認為CTA和動量投資者總體上可能會在許多近月合約中持有一定數量的空頭頭寸，”包括以下在內的策略師表示。 馬克斯·基特森 寫道：“任何將空頭頭寸展期至反向合約的操作都可能在首次通知期開始前給展期合約帶來更大的上漲壓力。”自7月初以來，德國國債期貨價格持續下跌，而未平倉合約量卻有所上升，表明空頭頭寸正在增加；部分空頭頭寸已被削減。巴克萊銀行表示，將剩餘的空頭頭寸滾動到反向合約可能會給滾動交易帶來更大的盈利壓力。"
-    },
-    {
-      "id": "mkt:019ff5ce-e902-7aab-9009-274bac495b54",
-      "time": "2026-08-12 19:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK"
-      ],
-      "text": "Tencent to start Q2 earnings conference call in 10 minutes."
-    },
-    {
-      "id": "5037655",
-      "time": "2026-08-12 19:49:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東南電子：擬1400萬-2800萬元回購股份用於激勵】東南電子公告稱，公司擬使用自有資金以集中競價方式回購股份，資金不低於1400萬元且不超過2800萬元。回購價格不超過23.21元/股，預計回購股份數量603,188 - 1,206,376股，約佔公司總股本的0.5%-1%。回購股份用於股權激勵或員工持股計劃，若三年內未使用完畢將依法登出。回購期限自董事會審議透過之日起12個月內。本次回購存在多種不確定性風險。"
-    },
-    {
-      "id": "mkt:019ff5ce-2782-7aab-9009-1c1327f6a447",
-      "time": "2026-08-12 19:49:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry: Allegations about China’s missile test are politically motivated】Foreign Ministry spokesperson Guo Jiakun said the US-led joint statement at the Aug. 11 Geneva disarmament talks—criticizing a recent Pacific missile launch for not following prior-notification norms and invoking the Hague Code of Conduct against Ballistic Missile Proliferation—was a political insinuation aimed at China. Guo called the move hypocritical and indicative of double standards, urged those states to stop abusing multilateral arms-control mechanisms, and said they should replace confrontation with sincere dialogue to create conditions for arms-control exchanges."
-    },
-    {
-      "id": "5037654",
-      "time": "2026-08-12 19:48:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：有關國家影射中方導彈試射活動 完全是出於政治目的】8月12日，外交部發言人郭嘉昆答記者問。有記者提問：在8月11日召開的日內瓦裁軍談判會議上，美國等國家共同發言，指責有關國家最近一次向太平洋發射導彈的試驗未遵循提前通報的標準做法，增加誤判風險，破壞地區穩定，宣稱相關國家應落實“防止彈道導彈擴散海牙行為準則”。外界認為，該共同發言系針對中方今年7月試射潛射戰略導彈。請問中方對此有何評論？郭嘉昆表示，美國等國家在日內瓦裁軍談判會議搞所謂共同發言，拿“防止彈道導彈擴散海牙行為準則”說事，影射中方導彈試射活動，完全是出於政治目的，充分暴露其虛偽面目和“雙重標準”做法。中方敦促有關國家停止濫用多邊軍控機制，以真誠對話取代無理對抗，為加強軍控領域對話交流創造必要條件。（央視新聞）"
-    },
-    {
-      "id": "5037653",
-      "time": "2026-08-12 19:48:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭8月11日的無人機襲擊迫使俄羅斯的奧爾斯克煉油廠在多個煉油裝置受損後停止加工。該設施年產能為576萬噸，或每天115,200桶。"
-    },
-    {
-      "id": "mkt:019ff5cc-d2ba-7aab-9009-15202bd33651",
-      "time": "2026-08-12 19:47:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRGC commander Naghdi said Iran’s vast territory contains hundreds of potential missile-production sites, and that many are already operational."
-    },
-    {
-      "id": "5037652",
-      "time": "2026-08-12 19:47:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：我有幸接受了來自葡萄牙、阿拉伯聯合大公國、美國和愛爾蘭的新任駐韓大使遞交的國書。我請求他們擔任堅實的橋樑，以便兩國能夠建立更深厚的友誼紐帶。 我衷心感謝各位大使對大韓民國的深厚感情以及對雙方合作的堅定意願。我期待著在各個領域共同創造出兩國人民能夠切實感受到的成果。 祝願各位新任大使在韓國任職期間結下許多美好的緣分並積累珍貴的回憶。再次衷心祝賀各位就任。"
-    },
-    {
-      "id": "mkt:019ff5cc-5ccc-7aab-9009-08b2f54e3694",
-      "time": "2026-08-12 19:47:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) commander Naghdi said Iran's current operational doctrine contrasts with the pre-war 'defense and national protection' military doctrine."
-    },
-    {
-      "id": "mkt:019ff5cb-e6f4-7aab-9009-01d632fd4b7c",
-      "time": "2026-08-12 19:46:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps commander Naghdi said if conditions are favorable and orders are given, the IRGC must be able to push operations into enemy territory."
-    },
-    {
-      "id": "mkt:019ff5cb-9fe3-7aab-9008-fa8a29d0b3f5",
-      "time": "2026-08-12 19:46:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRGC commander Naqdi said a series of senior military appointments this week signaled Iran has shifted to an \"offensive military operations concept\"."
-    },
-    {
-      "id": "mkt:019ff5ca-e77e-7aab-9008-f1fde939c9b1",
-      "time": "2026-08-12 19:45:43",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs to buy ETF provider NEOS for $2.3 billion."
-    },
-    {
-      "id": "mkt:019ff5ca-aefa-7aab-9008-ef785c3713a4",
-      "time": "2026-08-12 19:45:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukraine's prime minister said Ukraine and Moldova have agreed to allow a 50% discount on cargo transit fees."
-    },
-    {
-      "id": "5037651",
-      "time": "2026-08-12 19:45:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總理稱，烏克蘭與摩爾多瓦就貨物運輸過境享五折優惠達成協議。"
-    },
-    {
-      "id": "5037650",
-      "time": "2026-08-12 19:45:14",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將以 23 億美元收購 ETF 發行商 Neos。"
-    },
-    {
-      "id": "5037649",
-      "time": "2026-08-12 19:44:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國藥品和健康產品管理局：重申兒童疫苗接種的安全性。"
-    },
-    {
-      "id": "5037648",
-      "time": "2026-08-12 19:43:16",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【8月12日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】綜合立體交通網建設加快向西部縱深推進； 2.文獻紀錄片《江澤民》今晚繼續播出； 3.中共中央 全國人大常委會 國務院 全國政協訃告 朱鎔基同志逝世； 4.我國汽車出口延續強勁增長態勢； 5.核電工程建設穩步推進 總裝機規模居世界第一； 6.各地各部門積極應對強降雨天氣； 7.全國蔬菜供應總體形勢平穩； 8.國內聯播快訊： （1）今年我國13個重點區域加快推進排澇能力建設； （2）黃河實現連續27年不斷流； （3）我國建造的全球最大多用途重吊船交付； （4）國產大飛機C919正式執飛國際商業航線； （5）海軍第49批護航編隊起航赴亞丁灣； 9.哥倫比亞強震災情嚴重 救援加緊進行； 10.國際聯播快訊： （1）葉門胡塞武裝稱打擊與沙特有關的目標； （2）巴基斯坦內政部長訪伊 美伊談判受關注； （3）剛果（金）本輪埃博拉死亡病例超兩千例。"
-    },
-    {
-      "id": "5037647",
-      "time": "2026-08-12 19:43:08",
-      "tags": [
-        "資料",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗在美國 CPI 資料公佈前賣出美元兌蘭特三月期遠期合約。"
-    },
-    {
-      "id": "mkt:019ff5c8-7fa5-7aab-9008-e4ae303c69f2",
-      "time": "2026-08-12 19:43:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRGC commander Naqdi said Iran produces more missiles daily than it fires and that, even if the war lasts years, Iran's rockets will continue to be launched until the final day."
-    },
-    {
-      "id": "mkt:019ff5c8-7cc7-7aab-9008-d9213a8479a5",
-      "time": "2026-08-12 19:43:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry urges Spain to provide fair, non‑discriminatory business environment for Chinese firms】Foreign Ministry spokesman Guo Jiakun said China has noted reports that SAIC plans its first European factory in Ferrol and that Spanish authorities are reviewing the project on economic, industrial, employment and national security grounds because the site is near sensitive military and shipbuilding facilities. Guo said China has noted positive statements from Spain’s central and local governments, is willing to deepen pragmatic cooperation on the basis of mutual respect and win‑win outcomes, and urged Spain to provide Chinese firms a fair, just and non‑discriminatory business environment."
-    },
-    {
-      "id": "5037646",
-      "time": "2026-08-12 19:42:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Nebius第二季度營收5.823億美元高於市場預期 盤前漲幅擴大至14%】AI算力租賃商Nebius第二季度營收5.823億美元，預期5.57億美元；調整後淨虧損3320萬美元，預期虧損1.907億美元。Nebius盤前漲幅擴大至14%。"
     }
   ]
 }
