@@ -1,7 +1,48 @@
 {
   "date": "2026-08-20",
-  "count": 476,
+  "count": 482,
   "items": [
+    {
+      "id": "5048702",
+      "time": "2026-08-20 07:33:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股限售股解禁一覽：11.33億元市值限售股今日解禁】Wind資料顯示，週四（8月20日），共有6家公司限售股解禁，合計解禁量為1837.51萬股，按最新收盤價計算，合計解禁市值為11.33億元。從解禁量來看，乖寶寵物、英聯股份、奧普科技解禁量居前，解禁股數分別為1020.43萬股、500.0萬股、134.37萬股。從解禁市值來看，寒武紀、乖寶寵物、英聯股份解禁市值居前，解禁市值分別為6.28億元、4.01億元、5095.0萬元。從解禁股數佔總股本比例來看，乖寶寵物、酉立智慧、英聯股份解禁比例居前，解禁比例分別為2.55%、2.39%、1.19%。"
+    },
+    {
+      "id": "5048701",
+      "time": "2026-08-20 07:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【醫藥賽道內部分化加大 主題基金注重挖掘個股機會】近期，科技股調整帶來的資金虹吸效應逐步消退，市場資金重新分流，醫藥主題基金淨值迎來明顯修復。但與光模組、半導體賽道基金一榮俱榮的表現截然不同，醫藥板塊內部收益分化十分明顯。同樣是醫藥主題基金，部分產品2026年以來收益率逼近50%，但也有不少醫藥基金年內依舊處於虧損狀態。 多位業內人士也判斷，公募在創新藥賽道的投資中，個股選擇能力將決定醫藥基金的收益彈性，在行業貝塔削弱的背景下，主動權益基金在醫藥賽道的投資優勢逐步抬升。（證券時報）"
+    },
+    {
+      "id": "5048700",
+      "time": "2026-08-20 07:31:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：市場格局尚未定局，掌控稀缺資料與造數閉環能力的企業有望迎來核心溢價】中信建投研報指出，物理AI正接棒成為下一階段AI增長的核心變數。物理世界資料作為貫穿感知至反饋的關鍵引擎，面臨巨大需求剛性缺口。受制於保真、規模與成本的“不可能三角”，物理世界資料獲取倒逼行業有望迎來三重變革：商業模式端透過社會化眾包採數，技術正規化端依託世界模型虛擬造數，資產屬性端躍升為企業高溢價核心無形資產。供需失衡驅動物理資料資產價值重估，資本加速向資料基礎設施與評測集聚。市場格局尚未定局，掌控稀缺資料與造數閉環能力的企業有望迎來核心溢價。"
+    },
+    {
+      "id": "5048699",
+      "time": "2026-08-20 07:31:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【結束11日淨流出 昨日ETF資金整體大幅淨流入557.28億元】8月19日，ETF資金整體淨流入557.28億元，股票型淨流入529.07億元，寬基型淨流入394.09億元。當日ETF資金淨流入榜單排名前10中有8只為寬基ETF,前3依次為：華泰柏瑞滬深300ETF（510300）淨流入54.31億元，華夏上證科創板50成份ETF（588000）淨流入44.18億元，易方達創業板ETF（159915）淨流入43.38億元。"
+    },
+    {
+      "id": "5048698",
+      "time": "2026-08-20 07:26:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科技賽道企業密集使用 定向可轉債併購受青睞】在近年來不斷活躍的併購市場中，定向可轉債作為兼具債底保護與股性彈性的創新支付工具，越來越受上市公司青睞。8月15日，精測電子披露公告，擬以發行股份、可轉債搭配支付現金的方式，收購上海精測半導體技術有限公司41.17%股權。截至目前，該交易涉及的審計、評估、法律盡調等工作仍在推進。據證券時報記者不完全統計，今年以來已有至少12家上市公司釋出將定向可轉債作為併購支付工具相關預案或最新進展，電子資訊等領域相關案例居多。業內人士表示，定向可轉債透過“債底保護+股性彈性”的雙重設計，既能滿足交易對手對本金安全的需求，又可透過轉股條款分享企業成長紅利，尤其適用於輕資產、高研發投入的科技企業併購。"
+    },
     {
       "id": "5048697",
       "time": "2026-08-20 07:24:45",
@@ -4427,6 +4468,15 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Gains as Commodity Stocks Rally — The FTSE 100 edged higher on Wednesday, outperforming other European markets as strong gains in mining and energy stocks supported the index. Gold miners Fresnillo and Endeavour Mining surged more than 7% as gold prices jumped over 3%, boosted by the US Treasury’s decision to expand buybacks of longer-dated government debt. Mining giants Glencore and Anglo American gained almost 5%, while Antofagasta rose around 4% and Rio Tinto added 3.5%. Oil majors Shell and BP also advanced about 0.9% as crude prices continued to climb. AstraZeneca gained more than 2%, tracking strength across the pharmaceutical sector. In contrast, Smith & Nephew fell 3.8% after CFO John Rogers announced his departure for a US-based position. On the data front, UK inflation accelerated to 2.9% in July from 2.6% in June, matching expectations. The data led traders to modestly scale back expectations for a Bank of England rate increase this year."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608203846721293",
+      "time": "2026-08-20 00:15:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【7天期逆回購連續“零投放”不等於流動性收緊】截至8月19日，中國人民銀行已連續7個交易日將7天期逆回購操作量維持在“零投放”，引起市場廣泛關注。結合近期中國人民銀行一系列流動性操作、市場利率執行態勢，以及中國人民銀行的調控思路來看，筆者認為，7天期逆回購連續“零投放”不等於流動性收緊，而是中國人民銀行順應市場供需變化，實施精細化流動性管理的具體體現。"
     },
     {
       "id": "5048406",
