@@ -1,7 +1,60 @@
 {
   "date": "2026-08-19",
-  "count": 1048,
+  "count": 1054,
   "items": [
+    {
+      "id": "5047017",
+      "time": "2026-08-19 12:49:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保誠將擴充太古坊香港總部辦公空間】根據新聞公告，保誠和太古地產簽署租賃協議，將位於太古坊的總辦公樓面面積將增至約83,000平方英尺。作為其香港業務擴充套件計劃的一部分，保誠將擴充並整合公司營運至太古坊一座及港島東中心。"
+    },
+    {
+      "id": "5047016",
+      "time": "2026-08-19 12:48:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【三菱化學將在福岡建設膠體二氧化矽生產設施】三菱化學將在日本福岡縣的九州工廠新建生產設施，實現超高純度膠體二氧化矽的商業化量產。該膠體二氧化矽將用作半導體拋光劑原材料。專案將於 2028 年 10 月投產。"
+    },
+    {
+      "id": "mkt:01a01858-e579-7aab-9089-8383a6be27e1",
+      "time": "2026-08-19 12:47:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian officials said authorities are working to extinguish a small fire after a drone crashed in an industrial area in Ufa."
+    },
+    {
+      "id": "mkt:01a01857-727a-7aab-9089-7b72d5d5e3e8",
+      "time": "2026-08-19 12:46:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【HSBC: Bank of Japan may hike in September to support yen】HSBC Asia FX research head Joey Chew said renewed yen weakness could prompt a hawkish Bank of Japan hike at the September meeting to shore up the currency. Markets price roughly 80bp of BOJ tightening over the next 12 months to about a 1.8% policy rate; HSBC's economics team now expects two further hikes—in September and Q1 2027—taking the policy rate to 1.5% (up from a prior view of a single December hike). Chew said a sustained yen recovery depends on more attractive real rates, easing fiscal concerns and Japanese residents shifting assets from overseas into domestic markets."
+    },
+    {
+      "id": "mkt:01a01856-e328-7aab-9089-76e6a2aead3d",
+      "time": "2026-08-19 12:45:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ufa authorities in Russia said drones attacked an industrial facility."
+    },
+    {
+      "id": "5047015",
+      "time": "2026-08-19 12:45:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄當局稱，無人機襲擊了俄羅斯烏法的工業設施。"
+    },
     {
       "id": "5047014",
       "time": "2026-08-19 12:45:04",
