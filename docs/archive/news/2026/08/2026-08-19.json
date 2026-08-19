@@ -1,7 +1,69 @@
 {
   "date": "2026-08-19",
-  "count": 587,
+  "count": 594,
   "items": [
+    {
+      "id": "5046726",
+      "time": "2026-08-19 09:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日經225指數跌幅收窄至不到2%，此前一度跌超3%。韓國首爾綜指跌幅收窄至4.2%，此前一度跌超6%。"
+    },
+    {
+      "id": "5046725",
+      "time": "2026-08-19 09:13:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2847.00元。"
+    },
+    {
+      "id": "mkt:01a01794-133e-7aab-9084-d08bb5789732",
+      "time": "2026-08-19 09:12:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Yangtze Memory IPO counseling status moves to 'counseling acceptance'】CSRC website shows Yangtze Memory Holdings Co.'s IPO counseling status changed to 'counseling acceptance'; sponsoring brokers are Citic Securities and CSC Financial."
+    },
+    {
+      "id": "5046724",
+      "time": "2026-08-19 09:12:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【長江儲存IPO輔導狀態變更為“輔導驗收”】據證監會網站披露，長江儲存控股股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為中信證券和中信建投。"
+    },
+    {
+      "id": "5046723",
+      "time": "2026-08-19 09:12:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【菲律賓比索兌美元跌至紀錄新低 受油價上漲拖累】菲律賓比索兌美元跌至紀錄新低，油價上漲給比索匯率帶來壓力。\n美元/比索一度漲0.3%至61.985，突破了7月底創下的前紀錄高點61.85。"
+    },
+    {
+      "id": "mkt:01a01792-973e-7aab-9084-cf1d8ef71c3f",
+      "time": "2026-08-19 09:11:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhipu launches GLM-5.3 API】Zhipu said the GLM-5.3 API is live. The model is optimized for complex coding, defensive cybersecurity and long-horizon tasks. GLM-5.3 has been integrated with ZCode and included in the GLM Coding Plan. API access is open and pricing remains unchanged from GLM-5.2. Model weights will be open-sourced next Friday."
+    },
+    {
+      "id": "5046722",
+      "time": "2026-08-19 09:11:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%至5645點。"
+    },
     {
       "id": "5046721",
       "time": "2026-08-19 09:09:58",

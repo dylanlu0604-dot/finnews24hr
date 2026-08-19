@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-19 09:11:28",
+  "updated": "2026-08-19 09:15:19",
   "count": 15134,
   "items": [
+    {
+      "id": "5046726",
+      "time": "2026-08-19 09:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日經225指數跌幅收窄至不到2%，此前一度跌超3%。韓國首爾綜指跌幅收窄至4.2%，此前一度跌超6%。"
+    },
+    {
+      "id": "5046725",
+      "time": "2026-08-19 09:13:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2847.00元。"
+    },
+    {
+      "id": "mkt:01a01794-133e-7aab-9084-d08bb5789732",
+      "time": "2026-08-19 09:12:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Yangtze Memory IPO counseling status moves to 'counseling acceptance'】CSRC website shows Yangtze Memory Holdings Co.'s IPO counseling status changed to 'counseling acceptance'; sponsoring brokers are Citic Securities and CSC Financial."
+    },
+    {
+      "id": "5046724",
+      "time": "2026-08-19 09:12:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【長江儲存IPO輔導狀態變更為“輔導驗收”】據證監會網站披露，長江儲存控股股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為中信證券和中信建投。"
+    },
+    {
+      "id": "5046723",
+      "time": "2026-08-19 09:12:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【菲律賓比索兌美元跌至紀錄新低 受油價上漲拖累】菲律賓比索兌美元跌至紀錄新低，油價上漲給比索匯率帶來壓力。\n美元/比索一度漲0.3%至61.985，突破了7月底創下的前紀錄高點61.85。"
+    },
+    {
+      "id": "5046722",
+      "time": "2026-08-19 09:11:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%至5645點。"
+    },
+    {
+      "id": "mkt:01a01792-973e-7aab-9084-cf1d8ef71c3f",
+      "time": "2026-08-19 09:11:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhipu launches GLM-5.3 API】Zhipu said the GLM-5.3 API is live. The model is optimized for complex coding, defensive cybersecurity and long-horizon tasks. GLM-5.3 has been integrated with ZCode and included in the GLM Coding Plan. API access is open and pricing remains unchanged from GLM-5.2. Model weights will be open-sourced next Friday."
+    },
     {
       "id": "5046721",
       "time": "2026-08-19 09:09:58",
@@ -138619,68 +138681,6 @@
         "Impact bullish"
       ],
       "text": "Freeport Indonesia said its Gresik copper smelter halted operations from Aug 8 for furnace maintenance."
-    },
-    {
-      "id": "5036595",
-      "time": "2026-08-12 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.32%，報25546.68點，低水106.14點。"
-    },
-    {
-      "id": "5036594",
-      "time": "2026-08-12 09:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：伊朗局勢良好 美國控制著霍爾木茲海峽】美國總統特朗普在安德魯斯聯合基地向記者表示，伊朗方面局勢整體良好。在被問及伊朗衝突相關問題時特朗普稱：“我們完全掌控霍爾木茲海峽。”“目前，我們佔據極為有利的局面。”"
-    },
-    {
-      "id": "5036593",
-      "time": "2026-08-12 09:13:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江省水利廳、省氣象局8月12日8時聯合釋出山洪災害預警】據“浙江水利”公眾號訊息，浙江省水利廳、省氣象局8月12日8時聯合釋出山洪災害預警：根據省氣象臺未來降雨預報，預計8月12日8時至8月13日8時，北侖區、定海區、普陀區發生山洪災害可能性大（橙色預警），鄞州區、奉化區、象山縣、寧海縣、岱山縣發生山洪災害可能性較大（黃色預警），海曙區、餘姚市、吳興區、德清縣、長興縣、安吉縣、嵊泗縣、三門縣、溫嶺市、臨海市可能發生山洪災害（藍色預警）。"
-    },
-    {
-      "id": "mkt:019ff387-21cf-7aab-8ffd-5c03fe276505",
-      "time": "2026-08-12 09:12:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,390/oz, up 0.5% intraday; New York gold futures traded above $4,450/oz, up 0.5% intraday."
-    },
-    {
-      "id": "5036592",
-      "time": "2026-08-12 09:12:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4390美元/盎司，日內漲0.51%。"
-    },
-    {
-      "id": "5036591",
-      "time": "2026-08-12 09:12:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科藍軟體與圖靈量子達成深度戰略合作 共建金融量子安全與算力一體化產業底座】據科藍軟體訊息，8月5日，北京科藍軟體系統股份有限公司（簡稱“科藍軟體”）與上海圖靈智算量子科技股份有限公司（簡稱“圖靈量子”）正式簽署戰略合作協議，雙方將打通“量子底層硬體—量子安全基礎設施—金融算力服務—銀行業務系統”全產業鏈條，打造國內金融行業量子科技規模化落地標杆。"
-    },
-    {
-      "id": "5036590",
-      "time": "2026-08-12 09:12:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4450美元/盎司，日內漲0.20%。"
     }
   ]
 }
