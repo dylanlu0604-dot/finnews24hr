@@ -1,7 +1,76 @@
 {
   "date": "2026-08-19",
-  "count": 3071,
+  "count": 3078,
   "items": [
+    {
+      "id": "5048380",
+      "time": "2026-08-19 23:41:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：與伊朗談判或適時進行】當地時間8月19日，美國總統特朗普就伊朗問題表示，或許在某個時候會進行談判。特朗普18日在社交媒體上稱，目前和未來不會與伊朗進行任何會談或對話。此前，特朗普一直堅稱美國同伊朗正在進行談判，但遭到伊朗官員多次否認。"
+    },
+    {
+      "id": "5048379",
+      "time": "2026-08-19 23:39:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：各國正在尋找霍爾木茲海峽的替代供油渠道。要知道這些替代來源就是得克薩斯、阿拉斯加、路易斯安那。 各國正轉向美國採購石油。"
+    },
+    {
+      "id": "5048378",
+      "time": "2026-08-19 23:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國根據伊朗制裁制度新增7個制裁物件。"
+    },
+    {
+      "id": "mkt:01a01aac-e84d-7aab-909c-d151f90297c2",
+      "time": "2026-08-19 23:38:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK adds seven new designations under its Iran sanctions regime."
+    },
+    {
+      "id": "5048377",
+      "time": "2026-08-19 23:38:43",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【受熱帶低圧影響 海口“三港”將於明日16時起停運】海南省海口市交通運輸局8月19日23時釋出提示：受熱帶低壓影響，海口新海港、秀英港和鐵路南港將於8月20日16時起停運（指最後發船時間，請至少提前1至2小時到港檢票）。預計停運將持續至8月21日早上（具體復運時間視氣象情況而定）。請有過海需求的司機旅客合理安排行程，提前預約購票，避開停航時段過海。"
+    },
+    {
+      "id": "te:markets:576564",
+      "time": "2026-08-19 23:38:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Hits 9-week High — Platinum increased to 1798.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Platinum gained 12.04%, and in the last 12 months, it increased 34.69%."
+    },
+    {
+      "id": "mkt:01a01aac-6e52-7aab-909c-cae1e8e18f69",
+      "time": "2026-08-19 23:38:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Wed Aug 19—Major European equity indices closed mixed: Germany's DAX fell 59.64 pts (-0.23%) to 26,092.05; UK's FTSE 100 rose 10.76 pts (+0.10%) to 10,738.80; France's CAC 40 fell 7.45 pts (-0.09%) to 8,501.91; STOXX 50 fell 25.72 pts (-0.40%) to 6,442.45; Spain's IBEX 35 fell 109.83 pts (-0.55%) to 19,825.07; Italy's FTSE MIB fell 384.84 pts (-0.73%) to 52,633.00."
+    },
     {
       "id": "5048376",
       "time": "2026-08-19 23:37:12",
