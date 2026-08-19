@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 06:57:49_
-_本檔包含 3189 則快訊，約 626684 字_
+_更新時間：2026-08-20 07:26:30_
+_本檔包含 3175 則快訊，約 625961 字_
+
+---
+
+### 2026-08-19 07:50:08  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan June core machinery orders +9.7% MoM vs 7.8% est; prior -12.4%.
+
+---
+
+### 2026-08-19 07:50:07  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
+
+Japan core machinery orders YoY (June) +16.9% vs consensus 10.8%; prior -1.9%.
+
+---
+
+### 2026-08-19 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Core Machinery Orders (YoY) (Jun) | actual 16.9% | consensus 10.8% | previous -1.90%
+
+---
+
+### 2026-08-19 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Core Machinery Orders (MoM) (Jun) | actual 9.7% | consensus 7.80% | previous -12.40%
+
+---
+
+### 2026-08-19 07:49:06  #其他 #焦點
+
+【重大突破！我國首次實現火箭陸地回收】今天（8月19日），朱雀三號遙二運載火箭在東風商業航天創新試驗區發射升空，火箭一子級按預定程式成功著陸於甘肅省民勤縣朱雀三號著陸場坪。這是我國在重複使用火箭關鍵技術上取得的又一重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。（央視）
+
+---
+
+### 2026-08-19 07:48:58  #公司
+
+【本週35只新基金啟動發行】本週（8月17日至8月23日）全市場共有35只新基金啟動募集，涉及廣發基金、天弘基金、易方達基金、招商基金、富國基金、銀華基金、匯添富基金、南方基金、鵬華基金等多家基金公司。
+
+---
+
+### 2026-08-19 07:46:42  #公司
+
+【鴻海增資越南子公司 計劃擴大墨西哥業務】鴻海在臺灣證券交易所公告稱，子公司Foxconn Singapore Pte Ltd取得FuKang Technology股權，交易金額為3.584億美元，用途為長期投資。FuKang Technology是鴻海在越南的子公司。另據公告，鴻海子公司Cloud Network Technology Singapore購買FII AMC MEXICO S. DE R.L. DE C.V.的股份，交易金額約2700萬美元。
+
+---
+
+### 2026-08-19 07:45:46  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.03點。
+
+---
+
+### 2026-08-19 07:45:36  #市場 #國際
+
+日本日經平均指數期貨早盤下跌2.0%。
+
+---
+
+### 2026-08-19 07:44:20  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Japanese corporate profits beat estimates by most in five years; rally may be broadening】Despite a sharp rise in oil costs, Japanese corporate profits beat analyst forecasts at the highest rate in five years, suggesting the equity rally may be entering a broader phase. For the quarter to June, roughly 71% of companies exceeded estimates and combined net profit for Japan's 500 largest firms rose to ¥21 tln (about $132 bln) from about ¥18 tln a year earlier. Profitability improved sharply: TOPIX constituents' profit margin is estimated at 9.3%, the highest in more than 30 years. While last quarter's gains were concentrated in tech and AI-related names, the latest results show earnings growth widening as firms pass higher costs to customers; a Resona Holdings strategist said domestic-demand companies also beat expectations and investor interest has broadened.
+
+---
+
+### 2026-08-19 07:43:53  #公司 #國際
+
+【日本企業財報季表現超分析師預期 日股漲勢有望擴充套件至AI板塊之外】儘管油價飆升，日本企業仍公佈了五年來最超預期的業績，這增強了人們對各行業強勁盈利增長勢頭將把股市漲勢擴充套件到人工智慧(AI)相關板塊之外的信心。資料顯示，截至6月的三個月，約71%的本地企業利潤超過分析師預期。其中500家最大企業的淨利潤總和突破21萬億日元（1320億美元），超越一年前創下的約18萬億日元的紀錄。企業盈利能力也大幅提升，東證指數成分股公司的利潤率預計達到創紀錄的9.3%，這是自三十多年前有可比資料以來的最高水平。
+
+---
+
+### 2026-08-19 07:42:57  #資料 #央行 #國際
+
+【債券交易員再度換擋 著手對沖美聯儲2027年或轉向降息的風險】債券交易員再次調整佈局。一系列經濟資料釋出後，市場幾乎完全排除了美聯儲今年餘下時間加息的可能性，如今期權市場的押注著手對沖美聯儲2027年轉向降息的風險。 上週公佈的資料顯示，7月通脹和消費者需求有所放緩，市場對9月16日政策會議加息的預期降低，此後期權市場活躍起來。期權交易員開始建立頭寸，押注未來數月掉期市場計入的加息幅度將被削弱。部分期權交易甚至開始對沖最早明年年中出現降息的風險。“交易員對加息的擔憂有所減少，”Constitution Capital的利率交易部門主管Jeff Schuh表示，並指出近期押注加息的倉位在被平倉。“我們看到許多9月和12月看跌期權的賣方放棄原有押注並且平倉。”Schuh表示，過去一週市場對9月加息的預期機率從兩週前的68%驟降一半，這“充分說明了市場對疲軟的非農資料和CPI資料的看法”。
+
+---
+
+### 2026-08-19 07:40:43  #國際
+
+【特朗普對伊朗戰爭採取新策略：脫離接觸】據報道，數週以來，美國總統唐納德・特朗普一直寄望美伊之間能出現積極進展，但收效甚微。據一名美國官員透露，週二他似乎轉向一套新策略。特朗普指示政府高階特使停止與伊朗的對話。另據知情訊息源稱，白宮官員近期向政治盟友表示，美方正在調整戰略：從 “儘快重拳打擊伊朗” 轉變為長期 “扼制伊朗”。自 6 月簽署的停火協議破裂後，特朗普曾反覆對外宣稱談判進展順利，新協議近在咫尺。而如今，他不再聲稱談判正在向好推進，而是宣佈美伊之間完全沒有開展任何外交磋商。
+
+---
+
+### 2026-08-19 07:39:09  #國際
+
+【蘋果下調歐洲應用商店費用，以解決與歐盟分歧】當地時間8月18日，蘋果宣佈調整歐盟地區應用業務條款，以解決與歐盟委員會圍繞業務條款和替代分發的分歧。新條款將歐盟地區所有應用開發者統一納入一套業務條款，並於10月1日起生效。根據新條款，使用蘋果應用內購買的App Store應用佣金為26%，符合相關開發者計劃條件的多數開發者及部分訂閱業務佣金為15%；使用替代支付方式的應用佣金為20%，符合相關條件的開發者為10%。蘋果還將取消核心技術費、初始獲取費和商店服務費，並允許開發者同時提供蘋果應用內購買和替代支付方式。
+
+---
+
+### 2026-08-19 07:39:02  #市場
+
+日經指數期貨在新加坡交易所開盤下跌1,595點，報66,075點。
+
+---
+
+### 2026-08-19 07:37:19  #公司
+
+【新股提示：貝特利、北交所新股金鈦股份今日申購】今日可申購貝特利和北交所新股金鈦股份，貝特利發行總數約6570萬股，網上發行約為1380萬股，發行市盈率27.39倍，申購程式碼為：301697，申購價格：12.10元，單一賬戶申購上限1.35萬股。金鈦股份發行總數約4500萬股，發行市盈率13.41倍，申購程式碼為：920071，申購價格：9.72元。
+
+---
+
+### 2026-08-19 07:36:01  #市場
+
+【黃金主題基金總規模突破4200億元】8月份以來，國際金價整體呈現走高態勢，其中紐約商品交易所（COMEX）黃金期貨12月合約近日達到4500美元/盎司高點；與此同時，國內黃金主題基金規模與淨值也出現明顯增長態勢。8月份以來，黃金主題基金除了淨值表現較好外，規模也呈現增長態勢。資料顯示，截至目前，53只黃金主題基金總規模已達4242億元，較月初增長268億元，較年初增長453億元；從單隻產品表現來看，有11只產品目前規模超過100億元，其中華安黃金ETF達1031億元，博時黃金ETF、易方達黃金ETF、國泰黃金ETF和博時黃金ETF聯接C分別為429.03億元、366.57億元、344.01億元、311.48億元。
+
+---
+
+### 2026-08-19 07:35:19  #公司
+
+【陸控：上半年淨虧損6.94億元】8月19日，陸控在港交所公告，2026年上半年營收124.89億元，同比下降11.30%；淨虧損6.94億元，去年同期為淨虧損5.19億元。
+
+---
+
+### 2026-08-19 07:35:05  #公司
+
+【北交所年內新增上市公司51家】今日，廣西雙英集團股份有限公司在北京證券交易所上市，成為北交所年內新增的第51家上市公司。資料統計，今年以來，北交所新增上市公司數量佔A股新增總量的比例超過50%，合計募資168.43億元。
+
+---
+
+### 2026-08-19 07:34:26  #市場
+
+【2026年融資淨買入額居前的醫療服務股梳理】8月以來，醫療服務板塊行情加速，申萬醫療服務指數月內累計上漲23.45%，年內漲幅達41.55%。成份股中，百奧賽圖、藥康生物、萬邦醫藥、益諾思今年以來累計漲幅均翻倍，龍頭藥明康德上漲87.38%。市場分析認為，本輪板塊行情，主要受益於政策紅利持續釋放，疊加行業基本面盈利拐點確認。板塊熱度同樣得到融資資金的印證。截至8月17日，昭衍新藥、藥康生物今年以來融資淨買入額均超2億元；萬邦醫藥、百奧賽圖、國際醫學、畢得醫藥4只個股融資淨買入額超過1億元，融資資金對板塊關注度顯著提升。業績方面，綜合半年報、快報、預告中值統計，8家企業上半年淨利潤突破1億元。其中藥明康德位居首位，淨利潤達110.8億元；康龍化成、昭衍新藥、通策醫療、九洲藥業淨利潤分別為7.5億元、7.5億元、4.58億元、3.87億元。
+
+---
+
+### 2026-08-19 07:34:10  #其他
+
+【超3000件展品亮相 2026世界機器人大會今日開幕】以“人機共生，產需共融”為主題的2026世界機器人大會今天在北京開幕。在為期五天的時間裡，這裡將成為全球機器人領域重大成果、新品首發和前沿技術交流的重要平臺，也是公眾零距離觸控前沿技術的互動視窗。2026世界機器人大會包含主論壇、博覽會，以及70餘場同期活動，得到30家國際機構支援。博覽會參展企業300餘家，較去年增加69%，預計展品超3000件，其中首發新品300餘件。世界機器人博覽會設4個展區，人形機器人整機廠商將集中亮相，圍繞“機器人+應用場景”集中呈現機器人在生產製造、餐飲零售、醫療康養、應急救援等場景下的應用解決方案，覆蓋機器人全產業鏈的核心零部件企業也將亮相博覽會。大會將發起“全球機器人應用探索計劃”，招募量產產品對接給全球創新團隊無償使用。首次打造的“機器人消費街”，將為觀眾帶來“科技+美食+文創”的沉浸體驗。
+
+---
+
+### 2026-08-19 07:33:48  #其他
+
+【國海證券：維持騰訊控股“買入”評級 目標價627港元】國海證券釋出研報稱，預計騰訊控股(00700)2026-2028年營收分別為8233/9015/9822億元，Non-IFRS口徑歸母淨利潤為2663/2743/2881億元，對應Non-IFRS口徑EPS為29/30/32元，對應Non-IFRS口徑PE為13.0/12.6/12.0x，根據SOTP估值方法，給予2026年騰訊控股各項業務合計目標市值5.0萬億元人民幣/5.7萬億港元，對應目標價627港元，維持“買入”評級。
+
+---
+
+### 2026-08-19 07:33:46  #市場 #焦點
+
+紐約期金失守4380美元/盎司，日內跌0.92%。
+
+---
+
+### 2026-08-19 07:33:10  #市場
+
+【A股科技板塊修復進入業績驗證期 內部輪動和個股分化進一步加快】8月以來，全球科技資產逐步走出去槓桿衝擊，半導體、儲存、光通訊等人工智慧硬體方向率先回暖。在海外產業趨勢對映和資金回補推動下，A股科技板塊同步修復，光通訊表現突出，行情也逐步向半導體、信創、機器人等方向擴散。不過，隨著前期超跌修復持續推進，科技板塊內部輪動和個股分化進一步加快。分析人士認為，A股科技產業趨勢並未逆轉，修復行情仍可期待，但市場定價邏輯正由資金驅動轉向基本面驗證，中報業績、在手訂單和產業需求能否持續兌現，將成為決定後續行情空間和結構的關鍵。（中國證券報）
+
+---
+
+### 2026-08-19 07:32:12  #公司 #市場
+
+【新股市場表現亮眼 頻準鐳射上市首日突破千元】8月18日，頻準鐳射登陸科創板上市，開盤價即報1100元/股，成為A股史上首隻上市首日開盤價突破千元大關的新股，一舉打破此前聯訊儀器創下的736.92元/股開盤紀錄。盤中頻準鐳射最高觸及1300元/股，最高漲幅達595.63%，按此最高價計算，投資者中一簽（500股）浮盈高達55.66萬元，重新整理A股新股單籤盈利歷史紀錄。截至8月18日收盤，頻準鐳射最新價為1152元/股，總市值達到460.8億元。近年A股打新生態大幅改善。統計顯示，2025年新股市場“零破發”紀錄至今未被打破，打新賺錢效應持續強化。在此背景下，頻準鐳射、沐曦股份-U、聯訊儀器、長進光子四隻科創板新股表現尤為亮眼，以上市首日盤中最高價計算，單籤最高浮盈分別高達55.66萬元、39.52萬元、38.9萬元和32.4萬元。值得注意的是，這四隻個股均為2025年以來登陸科創板的“硬科技”企業，集中在量子科技、光通訊、積體電路幾大熱門賽道。新股賺錢效應迴歸，是政策引導、估值迴歸、賽道聚焦三重因素共振的結果。
+
+---
+
+### 2026-08-19 07:32:06  #宏觀
+
+【多地消費品以舊換新政策再加碼】三季度以來，已有北京市、青海省、甘肅省、重慶市、上海市、寧夏回族自治區等多地圍繞消費品以舊換新出臺了新的政策舉措。 中國消費經濟學會副理事長洪濤在接受記者採訪時表示，消費品以舊換新活動帶動效應強、惠及人群廣、民生成效實，是釋放消費潛力的重要抓手之一。地方持續發力消費品以舊換新，有助於進一步培育消費新熱點，更好地滿足群眾需求和企業期盼，從而在改善民生中擴大內需。 從本輪行動看，雖然地方相關部門推動消費品以舊換新政策最佳化實施的發力點各有側重，但整體來看主要有三個方向：最佳化實施機制、降低補貼門檻、擴大補貼品類範圍。其中，不少地方統籌兼顧了兩個或三個方向。（證券日報）
+
+---
+
+### 2026-08-19 07:32:02  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Extends Gains Amid US-Iran Stalemate — Brent crude strengthened above $91 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week.
+
+---
+
+### 2026-08-19 07:31:03  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Extends Gains Amid US-Iran Stalemate — Crude oil strengthened above $85 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week.
 
 ---
 
@@ -19034,257 +19202,5 @@ A Gaza Peace Committee official said Kushner's meeting with Netanyahu was length
 ### 2026-08-17 23:17:33  #公司
 
 【沃爾德：終止2026年度簡易程式定增】沃爾德公告稱，公司董事會審議透過《關於終止2026年度以簡易程式向特定物件發行股票的議案》，決定終止該次發行。
-
----
-
-### 2026-08-17 23:16:04  #MKT News
-
-Iranian Foreign Ministry spokesman BAGHAEI said that after two wars imposed on Iran by the US and Israel—particularly the most recent—the key regional shift is that states have concluded the US is an unreliable and untrustworthy partner.
-
----
-
-### 2026-08-17 23:15:26  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-According to the Iranian Students' News Agency, Iraqi Prime Minister Al-Zaidi said Iraq would be among the countries most affected if the Strait of Hormuz were closed, and that Iraq cannot rely on a single oil export route or remain dependent on a single corridor.
-
----
-
-### 2026-08-17 23:15:14  #國際
-
-伊朗外交部發言人：繼美國與以色列對伊朗發動兩場強加戰爭之後，尤其是在最近這場衝突過後，本地區發生的最重大變化是，地區各國得出結論，美國是一個不可靠、不值得信賴的合作伙伴。
-
----
-
-### 2026-08-17 23:14:22  #其他
-
-伊拉克總理扎伊迪：伊拉克石油出口不能依賴單一通道，不能受制於某一條運輸走廊。
-
----
-
-### 2026-08-17 23:13:48  #市場 #國際
-
-【BTIG警告美股將迎來季節性回撥】美國頭部獨立券商BTIG警示，美國股市正進入中期選舉年份歷史表現最弱的階段，當前估值處於高位，波動率接近2026年低點。自1990年以來，等權重標普500指數在中期選舉年份的8‑10月通常會出現至少7%的回撥。BTIG建議投資者降低風險敞口或對股票頭寸進行對沖。從歷史表現看醫療板塊抗跌性最強，半導體板塊技術面已經走弱。
-
----
-
-### 2026-08-17 23:13:04  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Fluctuates on Monday — Brent crude oil fluctuated around $88.5 a barrel on Monday as traders weighed continued geopolitical tensions against signs that more oil is moving through the Strait of Hormuz than initially expected. Gulf producers appear to be maintaining substantial shipments from the Persian Gulf despite the ongoing conflict, helping to limit concerns over an immediate supply shock. Meanwhile, diplomatic efforts between Iran and the US remain stalled. President Donald Trump reportedly threatened military action against Oman if it interferes with the US blockade of Iranian vessels, although oil prices showed little reaction to the statement. At the same time, Iran and Oman appeared to be making progress toward an agreement on managing traffic through Hormuz, but the US has not been involved in those discussions. Washington is unlikely to support any arrangement that does not guarantee unrestricted passage through the strategic shipping route.
-
----
-
-### 2026-08-17 23:12:52  #宏觀 #市場 #國際
-
-【銅逼倉行情加劇：價差飆升，價格逼近歷史紀錄】倫敦金屬交易所銅價向歷史紀錄攀升，價差大幅飆升，反映短期供應擠壓不斷加劇。銅現貨價格相對三個月期貨合約的升水一度高達每噸545美元，為2021年歷史性逼倉行情、交易所出臺緊急措施遏制價格瘋漲以來最大逆價差。其餘各期限價差同樣大幅衝高，期貨價格正逼近今年1月衝高時創下的14500美元/噸以上的峰值。當前供應緊張，一方面是市場預判美國或將出臺進口關稅，大量銅貨流向美國；另一方面市場近期供應吃緊，也吸引貨源流入。受此影響，自5月中旬以來，倫敦金屬交易所全球倉庫庫存已縮水近一半。
-
----
-
-### 2026-08-17 23:12:23  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Swings on Monday — Crude oil fluctuated around $82 a barrel on Monday as traders weighed continued geopolitical tensions against signs that more oil is moving through the Strait of Hormuz than initially expected. Gulf producers appear to be maintaining substantial shipments from the Persian Gulf despite the ongoing conflict, helping to limit concerns over an immediate supply shock. Meanwhile, diplomatic efforts between Iran and the US remain stalled. President Donald Trump reportedly threatened military action against Oman if it interferes with the US blockade of Iranian vessels, although oil prices showed little reaction to the statement. At the same time, Iran and Oman appeared to be making progress toward an agreement on managing traffic through Hormuz, but the US has not been involved in those discussions. Washington is unlikely to support any arrangement that does not guarantee unrestricted passage through the strategic shipping route.
-
----
-
-### 2026-08-17 23:11:34  #MKT News
-
-TASNIM News reports the US again sent a surveillance balloon over Erbil, Iraq.
-
----
-
-### 2026-08-17 23:11:22  #國際
-
-【伊朗戰事拖累選情 美總統被曝撥款支援共和黨候選人】據美國方面近日訊息，隨著美國中期選舉的臨近，共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。知情人士稱，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（央視新聞）
-
----
-
-### 2026-08-17 23:11:00  #公司 #國際
-
-【日本壽險公司債券浮虧創下960億美元紀錄】日本四大壽險公司國內債券未實現虧損激增60億美元，創下960億美元歷史新高。
-
----
-
-### 2026-08-17 23:09:55  #公司 #國際
-
-【超級富豪家族辦公室扎堆SpaceX 持股規模超過38億美元】為美洲、歐洲和中東的超級富豪進行投資的機構已建立了數十億美元的SpaceX投資敞口，凸顯出這些機構搶佔炙手可熱投資機會的能力。根據彙總的13F監管申報資料，截至6月底，凱悅酒店繼承人Nick Pritzker的一個家族理財室對這家由埃隆·馬斯克創立的火箭、衛星和人工智慧公司持有18億美元的投資，當時距離SpaceX首次公開募股僅過去數週。美國申報檔案顯示，Michael Platt旗下的BlueCrest Capital和巴西Moreira Salles金融家族披露的持股價值均超過1億美元，而阿布扎比統治者謝赫·穆罕默德·本·扎耶德·阿勒納哈揚的一家投資公司披露持有SpaceX近6,500萬美元股份。SpaceX於6月12日開始交易。申報檔案顯示，2026年上半年，十多家家族辦公室持有這家正式名稱為Space Exploration Technologies Corp.的公司合計至少38億美元的股份。其中一些機構，包括Pritzker旗下的Tao Capital，以及Moreira Salles家族，也是馬斯克商業帝國中另一家上市公司特斯拉的投資者。
-
----
-
-### 2026-08-17 23:08:54  #國際
-
-【英偉達將向OpenAI俄亥俄資料中心投資至多1050億美元】根據一份財務檔案，英偉達同意投入最高1050億美元支援俄亥俄州一座大型新資料中心園區。該園區未來將由OpenAI租用，此舉標誌著推動人工智慧熱潮的兩大主導力量正在進一步深化合作。OpenAI週一表示，已達成協議，將從位於Pike County的這座園區獲得最高約8吉瓦的算力，其中首批800兆瓦預計將在2028年前投入使用。1吉瓦電力在任一時點足以為最多75萬戶美國家庭供電。
-
----
-
-### 2026-08-17 23:08:11  #市場
-
-納斯達克100指數漲幅擴大至0.5%，創盤中新高。
-
----
-
-### 2026-08-17 23:07:48  #國際
-
-歐盟委員會主席馮德萊恩：哥倫比亞遭遇嚴重地震，我們將持續向當地民眾提供援助。德國、盧森堡、瑞典正運送數百頂帳篷、毛毯以及應急物資。歐盟200萬歐元資金已投入使用，為受災社群提供醫療、避難住所、潔淨水源與食品。我們將攜手助力哥倫比亞完成災後重建。
-
----
-
-### 2026-08-17 23:07:11  #央行 #焦點 #國際
-
-歐洲央行警告，人工智慧板塊股市回撥即將到來。
-
----
-
-### 2026-08-17 23:06:55  #MKT News #INTC.O #Impact bullish
-
-Intel (INTC.O) shares rose more than 3%.
-
----
-
-### 2026-08-17 23:05:52  #其他
-
-【多部門發文進一步保障農業灌溉用水安全】生態環境部會同工業和資訊化部、農業農村部等部門近日聯合印發通知，進一步加強工業、畜禽養殖等企業汙水汙染風險防範，保障農業灌溉用水安全。 生態環境部水生態環境司有關負責人17日介紹，近年來，一些工業企業及園區、畜禽養殖場等與農田相鄰，汙水排放管控不到位，農業灌溉用水安全隱患不容忽視。此次印發的通知以保障農業灌溉用水安全為核心，以源頭預防、過程把控、末端監管為主線，推動構建跨部門、全週期的風險防控體系。（新華社）
-
----
-
-### 2026-08-17 23:05:24  #國際
-
-俄羅斯稱襲擊了烏克蘭港口的兩艘貨船。
-
----
-
-### 2026-08-17 23:05:06  #國際
-
-美國8月13日當週大豆出口檢驗量270201噸（前值399201噸），玉米出口檢驗量191.1萬噸（前值174.0萬噸），小麥出口檢驗量493401噸（前值421277噸）。
-
----
-
-### 2026-08-17 23:04:38  #MKT News #XAUUSD #Impact bullish #Brent
-
-RIA reported Russia said it struck two cargo ships at a Ukrainian port.
-
----
-
-### 2026-08-17 23:04:11  #其他
-
-【荷蘭報告一例本土西尼羅病毒感染病例】荷蘭國家公共衛生與環境研究所17日通報，近日從一名獻血者的血液內檢測出西尼羅病毒，這是該國2020年以來首例確診的本土感染病例。(新華社)
-
----
-
-### 2026-08-17 23:03:31  #MKT News
-
-USGS reports a magnitude 5.0 earthquake 32 km north of Ruteng, Indonesia.
-
----
-
-### 2026-08-17 23:01:05  #MKT News #Market Themes #AI Revolution #SYF.O
-
-Synchrony Financial said it has entered an enterprise partnership with OpenAI to deploy GPT-5.6 Sol, Terra and Luna models and to launch a ChatGPT plugin.
-
----
-
-### 2026-08-17 23:00:49  #MKT News #Important #WTI #Impact bullish #Brent #CNH
-
-As of 23:00 close, China’s main futures contracts were mostly higher: ethylene glycol (EG) up nearly 3%, synthetic rubber up over 2%, liquefied petroleum gas (LPG) up nearly 2%. Fuel oil, bottle‑grade PET chips, benzene and asphalt rose above 1%; PTA up nearly 1%. Starch fell more than 1%.
-
----
-
-### 2026-08-17 23:00:36  #其他
-
-Synchrony 將部署 GPT‑5.6 SOL、TERRA、LUNA 模型。
-
----
-
-### 2026-08-17 23:00:22  #其他
-
-市場訊息：Synchrony 宣佈與 OpenAI 達成企業合作協議。
-
----
-
-### 2026-08-17 23:00:14  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.62% — Top currency gainers are Brazilian Real (0.62%), Swiss Franc (0.46%), Australian Dollar (0.41%), Euro (0.15%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-08-17 23:00:03  #市場
-
-【夜盤期貨收盤】乙二醇連續漲2.96%，液化石油氣連續漲1.83%，澱粉連續跌1.03%，燃料油連續漲1.00%，瀝青連續漲1.00%。
-
----
-
-### 2026-08-17 22:59:36  #MKT News
-
-【Goldman Sachs: Global bond issuance down 16% YoY last week】Goldman Sachs data show global bond issuance fell 16% YoY last week, though year-to-date issuance is 9% higher than the same period a year ago. By segment, investment-grade corporate issuance rose 60% YoY, high-yield fell 41% YoY and leveraged loan issuance plunged 88% YoY. Financial-sector bond issuance increased 38% YoY while structured finance issuance dropped 64% YoY. Assets in ETFs tracking the S&P and MSCI indices continued to expand, up 32% and 36%, respectively.
-
----
-
-### 2026-08-17 22:58:30  #國際
-
-【美媒稱美政府縮減對伊朗戰爭目標】美國有線電視新聞網在8月16日的一篇報道中分析稱，美國政府已進一步縮減對伊朗戰爭的目標，這表明美國可能準備退而求其次，甚至大幅降低預期。隨著美國中期選舉的臨近，伊朗戰事正在嚴重拖累共和黨的選情。共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。有知情人士透露，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（CCTV國際時訊）
-
----
-
-### 2026-08-17 22:58:00  #市場 #觀點
-
-【高盛：全球債券發行規模下滑 16%】高盛資料顯示，上週全球債務發行規模同比下降 16%，但年初至今發行規模仍高出 9%。投資級企業債券發行規模激增 60%，高收益債券發行下滑 41%，槓桿貸款大幅下跌 88%。金融行業債券發行規模上漲 38%，結構性金融產品發行下降 64%。與此同時，跟蹤標普以及明晟指數的 ETF 資產規模持續強勁增長，分別上漲 32% 和 36%。
-
----
-
-### 2026-08-17 22:57:24  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls for 6th Session — The FTSE 100 edged lower on Monday, extending its decline to a sixth consecutive session as weakness in consumer staples weighed on the index. Unilever fell nearly 2%, while British American Tobacco and Diageo dropped 1.6% and 2.8%, respectively. Tesco also lost almost 3%. In contrast, mining stocks benefited from stronger metals prices. Fresnillo and Endeavour Mining gained around 2% and 2.6%, supported by higher gold prices, while Antofagasta, Anglo American and Glencore also advanced as copper prices continued to rise. Pharmaceuticals provided some support, with AstraZeneca gaining about 1% and GSK rising more than 2%. Meanwhile, oil prices moved higher as renewed violence in the Middle East raised concerns about further escalation. Hopes for a diplomatic resolution weakened after President Donald Trump reportedly indicated he was in no rush to end the conflict with Iran, while fighting intensified again in Lebanon.
-
----
-
-### 2026-08-17 22:56:56  #其他
-
-德國聯邦鐵路表示，相關談判目前仍處於非常初期的非約束性階段。
-
----
-
-### 2026-08-17 22:56:49  #其他
-
-西班牙IBEX35指數失守20000點，日內跌幅0.78%。
-
----
-
-### 2026-08-17 22:56:49  #MKT News #Market Regions #Europe & UK
-
-Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
-
----
-
-### 2026-08-17 22:56:40  #公司
-
-德鐵發言人表示，我們確認正在就出售英國子公司德鐵信可英國(DB Cargo UK)的可能性進行討論。
-
----
-
-### 2026-08-17 22:55:24  #國際
-
-【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。
-
----
-
-### 2026-08-17 22:54:34  #MKT News
-
-Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border.
-
----
-
-### 2026-08-17 22:54:01  #其他
-
-市場訊息：沙烏地阿拉伯襲擊葉門邊境地區 。
-
----
-
-### 2026-08-17 22:53:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border.
-
----
-
-### 2026-08-17 22:53:31  #其他
-
-市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。
 
 ---
