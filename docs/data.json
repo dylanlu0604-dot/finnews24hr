@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-20 03:24:01",
-  "count": 15649,
+  "updated": "2026-08-20 03:27:55",
+  "count": 15650,
   "items": [
+    {
+      "id": "mkt:01a01b7d-c891-7aab-90a1-078f666376f2",
+      "time": "2026-08-20 03:27:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. quietly opens route through Strait of Hormuz, ships about 10 mln bpd】Two U.S. officials told Axios the U.S. military has quietly established a shipping lane through the Strait of Hormuz, moving roughly 10 million barrels per day into global energy markets. The operation has run for several weeks, with about 15–20 tankers using a southern route along Oman's coast. Officials said flows are roughly half of pre-war volumes; the U.S.-led action is easing a major war-related supply disruption that had driven crude sharply higher, and is already having a noticeable impact on global oil supply despite remaining below pre-war levels."
+    },
+    {
+      "id": "5048539",
+      "time": "2026-08-20 03:26:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 將於 2027 年或更早時間上市。"
+    },
+    {
+      "id": "mkt:01a01b7d-7557-7aab-90a0-fc850097e520",
+      "time": "2026-08-20 03:26:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Dollar index falls sharply on 19th】The dollar index, which measures the US currency against six major peers, fell 0.83% to 98.833 at the New York FX close on the 19th. EUR/USD rose to 1.1674 from 1.1576; GBP/USD to 1.3607 from 1.3534. USD/JPY fell to 158.32 from 159.60; USD/CHF to 0.7979 from 0.8125; USD/CAD to 1.3810 from 1.3906; USD/SEK to 9.4386 from 9.5395."
+    },
+    {
+      "id": "5048537",
+      "time": "2026-08-20 03:26:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數19日大幅下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.83%，在匯市尾市收於98.833。截至紐約匯市尾市，1歐元兌換1.1674美元，高於前一交易日的1.1576美元；1英鎊兌換1.3607美元，高於前一交易日的1.3534美元。1美元兌換158.32日元，低於前一交易日的159.60日元；1美元兌換0.7979瑞士法郎，低於前一交易日的0.8125瑞士法郎；1美元兌換1.3810加元，低於前一交易日的1.3906加元；1美元兌換9.4386瑞典克朗，低於前一交易日的9.5395瑞典克朗。"
+    },
+    {
+      "id": "5048536",
+      "time": "2026-08-20 03:25:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：美國開展行動透過霍爾木茲海峽運輸石油】兩名美國官員向Axios透露，美軍已在霍爾木茲海峽悄悄搭建起進出海峽的航運通道，每日可運輸數百萬桶石油。儘管大範圍戰事仍處於僵持狀態，但該行動已取得顯著成效。這項行動已開展數週，共有 15‑20 艘油輪沿著阿曼海岸的南部航道進出海峽。官員稱，每天約有 1000 萬桶石油經該海峽外運，流入全球能源市場，這一規模約為戰前運量的一半。官員稱，此次行動得以落地，得益於美國中央司令部近期為期兩週的軍事行動，該行動削弱了伊朗的雷達與海上監控系統。"
+    },
+    {
+      "id": "mkt:01a01b7c-301c-7aab-90a0-f4ffcf71e4b1",
+      "time": "2026-08-20 03:25:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell $0.30 intraday to $83.89/bbl."
+    },
+    {
+      "id": "mkt:01a01b7a-cdb9-7aab-90a0-ebd6e7ac85d5",
+      "time": "2026-08-20 03:23:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "According to Axios, the United States is secretly transporting oil through the Strait of Hormuz."
+    },
     {
       "id": "mkt:01a01b79-6ddc-7aab-90a0-e41098a686ea",
       "time": "2026-08-20 03:22:17",
@@ -143266,54 +143345,6 @@
         "MKT News"
       ],
       "text": "【International oil prices tick up on 12th】At the close on the 12th, NYMEX September WTI rose $0.07 to $83.27/bbl (+0.08%); ICE October Brent rose $0.07 to $88.98/bbl (+0.08%)."
-    },
-    {
-      "id": "5038091",
-      "time": "2026-08-13 03:27:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價12日微漲】國際油價12日微漲。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲7美分，收於每桶83.27美元，漲幅為0.08%；10月交貨的倫敦布倫特原油期貨價格上漲7美分，收於每桶88.98美元，漲幅為0.08%。"
-    },
-    {
-      "id": "mkt:019ff771-cc88-7aab-9012-c805cabfcc14",
-      "time": "2026-08-13 03:27:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of Defense Hegseth urged Latin American allies in Panama to withdraw from the International Criminal Court."
-    },
-    {
-      "id": "5038090",
-      "time": "2026-08-13 03:26:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思在巴拿馬發表講話，呼籲拉美盟友退出國際刑事法院。"
-    },
-    {
-      "id": "5038089",
-      "time": "2026-08-13 03:26:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：美國的藥物過量致死案例已大幅下降。芬太尼流入量大幅減少。我國西南邊境的非法越境人數已降至零。美國城市謀殺率處於近代歷史最低點，犯罪率出現歷史性下降。"
-    },
-    {
-      "id": "5038088",
-      "time": "2026-08-13 03:25:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克議會安全與國防委員會議員：一個親伊朗的伊拉克武裝組織每月透過卡車向伊朗轉移約4億美元現金。"
-    },
-    {
-      "id": "5038087",
-      "time": "2026-08-13 03:24:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震遇難人數升至241人】哥倫比亞媒體引述哥倫比亞國家災害風險管理局12日釋出的資料顯示，10日在該國西部發生的7.4級強震已造成241人死亡、3771人受傷。"
     }
   ]
 }
