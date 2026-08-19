@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-20 01:05:36",
-  "count": 15534,
+  "updated": "2026-08-20 01:09:26",
+  "count": 15532,
   "items": [
+    {
+      "id": "mkt:01a01aff-3fe5-7aab-909e-3c2ab44f987c",
+      "time": "2026-08-20 01:08:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said the new Mossad director, Roman Gofman, held a phone call with Syrian foreign minister Assad Shebani on Aug. 14 to discuss Turkey's military presence in Syria."
+    },
+    {
+      "id": "5048442",
+      "time": "2026-08-20 01:08:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，8月14日，以色列新任摩薩德局長羅曼·戈夫曼與敘利亞外交部長阿薩德·謝巴尼通電話，雙方討論了土耳其在敘利亞的軍事駐紮問題。"
+    },
+    {
+      "id": "5048441",
+      "time": "2026-08-20 01:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：伊朗與伊拉克具備在本地區創造空前機遇的潛力。"
+    },
     {
       "id": "mkt:01a01afb-163d-7aab-909e-329b019c8753",
       "time": "2026-08-20 01:04:17",
@@ -142059,59 +142083,6 @@
         "DXY"
       ],
       "text": "SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port."
-    },
-    {
-      "id": "5038056",
-      "time": "2026-08-13 01:09:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。"
-    },
-    {
-      "id": "mkt:019ff6f1-1c52-7aab-9011-b80a795e7348",
-      "time": "2026-08-13 01:07:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%."
-    },
-    {
-      "id": "5038055",
-      "time": "2026-08-13 01:06:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。"
-    },
-    {
-      "id": "mkt:019ff6f0-8aca-7aab-9011-b3116b222d70",
-      "time": "2026-08-13 01:06:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 10-year Treasury auction yield hits highest since 2007."
-    },
-    {
-      "id": "5038054",
-      "time": "2026-08-13 01:05:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬斯克：綜合智慧水平、速度與成本來看，Grok 4.6 客觀排名第一。"
     }
   ]
 }

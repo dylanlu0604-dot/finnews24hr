@@ -1,7 +1,31 @@
 {
   "date": "2026-08-20",
-  "count": 91,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:01a01aff-3fe5-7aab-909e-3c2ab44f987c",
+      "time": "2026-08-20 01:08:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said the new Mossad director, Roman Gofman, held a phone call with Syrian foreign minister Assad Shebani on Aug. 14 to discuss Turkey's military presence in Syria."
+    },
+    {
+      "id": "5048442",
+      "time": "2026-08-20 01:08:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，8月14日，以色列新任摩薩德局長羅曼·戈夫曼與敘利亞外交部長阿薩德·謝巴尼通電話，雙方討論了土耳其在敘利亞的軍事駐紮問題。"
+    },
+    {
+      "id": "5048441",
+      "time": "2026-08-20 01:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：伊朗與伊拉克具備在本地區創造空前機遇的潛力。"
+    },
     {
       "id": "mkt:01a01afb-163d-7aab-909e-329b019c8753",
       "time": "2026-08-20 01:04:17",
