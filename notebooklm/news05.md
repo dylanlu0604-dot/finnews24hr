@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 12:45:49_
-_本檔包含 2994 則快訊，約 607783 字_
+_更新時間：2026-08-19 13:42:16_
+_本檔包含 2981 則快訊，約 610539 字_
+
+---
+
+### 2026-08-13 15:29:35  #其他
+
+蒂森克虜伯首席財務官：若水位進一步下降且內河航運停擺，我們不排除業績會受到影響。
+
+---
+
+### 2026-08-13 15:27:41  #其他
+
+【機構：2026年上半年榮耀為全球增速最快的安卓中國廠商】榮耀最新分享階段經營成果，據IDC資料，今年上半年，榮耀是全球唯一實現出貨正增長的安卓中國廠商，並以9%的增速成為全球出貨增速最快的安卓中國廠商。
+
+---
+
+### 2026-08-13 15:26:34  #公司
+
+【北銀理財換帥】記者從知情人士處獲悉，北銀理財近日在公司內部宣佈一項人事任命：北京銀行金融市場總監、同業票據管理部總經理劉素勤已出任北銀理財黨委書記，待履行完相關程式後，將正式擔任北銀理財董事長。（21財經）
+
+---
+
+### 2026-08-13 15:25:53  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Trade Higher Near Record — European stocks traded close to record highs on Thursday, supported by a modest decline in oil and gas prices that helped ease concerns over energy costs. The STOXX 50 gained around 0.5%, while the broader STOXX 600 added 0.2%. Stabilising energy prices improved investor sentiment and reduced some of the pressure on inflation expectations. UK economic data also offered encouragement, showing that the region’s economies have so far proved resilient to the energy shock. UK GDP expanded by 0.4% in the second quarter, while growth strengthened in June. Corporate earnings provided an additional boost. Danish shipping giant Maersk surged around 8% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations.
+
+---
+
+### 2026-08-13 15:25:42  #公司 #市場
+
+【8月13日滬深兩市漲停分析】三大指數衝高回落集體收綠，醫藥醫療股逆勢走強。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>
+
+---
+
+### 2026-08-13 15:25:21  #MKT News
+
+Ukrainian Railways data show rail shipments of Ukrainian grain for export fell 76% YoY to 201,700 tonnes as of August.
+
+---
+
+### 2026-08-13 15:24:42  #公司 #國際
+
+【外資湧入日本晶片行業，投資規模已達6萬億日元】外國企業對日本晶片產業的投資規模已達到6萬億日元（約370億美元），隨著索尼集團和臺積電近期宣佈建設影象感測器工廠，這一數字進一步擴大。臺積電已向其在日本的兩座晶圓廠投資3萬億日元。其中，第一座晶圓廠已於2024年開始量產邏輯晶片，第二座目前正在建設中。美光科技上月啟動了廣島縣工廠擴建專案，計劃投資1.5萬億日元生產先進儲存晶片，這類晶片對於人工智慧資料中心至關重要。同樣在7月，以色列晶片製造商Tower Semiconductor宣佈將投資6000億日元，用於量產資料中心所使用的光通訊裝置晶片。
+
+---
+
+### 2026-08-13 15:24:14  #公司 #國際
+
+烏克蘭鐵路公司Ukrzaliznytsia表示，8月迄今為止烏克蘭出口糧食運輸量同比下降76%，至20.17萬噸。
+
+---
+
+### 2026-08-13 15:24:12  #MKT News #Market Themes #Chip Wars #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish #TSM.O
+
+【Foreign investment in Japan's chip sector hits 6 tln yen (~$37bn)】Foreign investment in Japan's semiconductor sector totals 6 tln yen (about $37bn); recent image‑sensor fab announcements from Sony and TSMC will add to overall sector investment. TSMC has committed 3 tln yen to two Japanese wafer fabs — the first began volume production of logic chips in 2024, the second is under construction. Micron last month started an expansion in Hiroshima, planning 1.5 tln yen to produce advanced memory chips for AI data centers. In July Tower Semiconductor said it will invest 600 bln yen to mass‑produce optical‑communication chips for data centers.
+
+---
+
+### 2026-08-13 15:24:02  #央行 #澳洲聯儲
+
+【澳大利亞國民銀行經濟學家：澳儲行將在一段時間內保持利率不動】澳大利亞國民銀行經濟學家表示，澳儲行將在一段時間內保持利率不動，不會繼續加息；貨幣政策正常化將從2027年年中啟動，透過有序降息，逐步削弱貨幣政策的緊縮效力。
+
+---
+
+### 2026-08-13 15:23:45  #MKT News #Important
+
+Tencent Holdings (00700.HK) fell nearly 5% at the close, briefly pushing its market capitalization below HKD 4 trillion.
+
+---
+
+### 2026-08-13 15:23:09  #公司
+
+【南非對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查】近日，南非國際貿易管理委員會（ITAC）（代表南部非洲聯盟-SACU，SACU包含國家為南非、波札那、奈米比亞、賴索托及史瓦濟蘭5國）釋出公告，應生產商Saint-Gobain Construction Products South Africa (Pty) Ltd提交的申請，對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查。涉案產品為未裝飾、僅用紙或紙板貼面或增強的石膏或石膏基製品的板、片、面板、磚及類似品。涉案產品的南非稅號為6809.11。本案傾銷調查期為2025年1月1日至2025年12月31日，損害調查期為2023年1月1日至2025年12月31日。
+
+---
+
+### 2026-08-13 15:23:03  #市場
+
+【騰訊市值跌破4萬億港元】騰訊控股低開低走，截至發稿跌超4%，報440.2港元/股，市值跌破4萬億港元。
+
+---
+
+### 2026-08-13 15:22:43  #Trading Economics #Markets #Commodity #Importance 1
+
+Iron Ore Falls on Demand Worries — Iron ore futures declined toward CNY 700 per ton, approaching 14-month lows as weak profitability among Chinese steelmakers continues to constrain the potential for a meaningful recovery in ore demand. Recent data also showed China imported 108.086 million tons of iron ore and concentrates in July, down 4.09% from June but still 3.5% higher than a year earlier. Meanwhile, slower consumer and producer inflation in China last month pointed to persistent weakness in domestic demand. On the supply side, however, tightening shipments continued to offer some support to prices. Industry data showed global iron ore shipments fell by 1.38 million tons in the week through August 9 to around 32 million tons, while volumes arriving at Chinese ports dropped by 13.1 million tons to 18.9 million tons.
+
+---
+
+### 2026-08-13 15:21:56  #其他
+
+【委內瑞拉公共部門縮短工時解電荒】委內瑞拉代總統德爾西·羅德里格斯12日宣佈，鑑於國內用電需求持續攀升、老舊電網不堪重負，政府將縮短公共部門工作時間，以減少電力消耗。羅德里格斯說，委內瑞拉目前的電力消費已達到10年來最高水平，11日全國用電需求達到今年峰值，約為15726兆瓦，而目前供電量僅約12000兆瓦。委公共部門工作人員將實行隔日上班制；同時，除在醫療保健等必要服務部門工作的人員外，實行半天輪班。（新華社）
+
+---
+
+### 2026-08-13 15:20:24  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
+
+【Triodos Bank: summer extreme heat could cost EU about €180bn】Dutch Triodos Bank estimates this summer's extreme heat will cause roughly €180bn of economic losses across EU countries, about 1% of 2025 EU GDP; estimate excludes losses linked to fatalities and injuries.
+
+---
+
+### 2026-08-13 15:20:18  #其他
+
+蒂森克虜伯首席財務官：我們受到了低水位的影響，但該情況並未對我們向客戶的供貨造成影響。
+
+---
+
+### 2026-08-13 15:19:27  #MKT News #DXY #Impact bearish #WTI #Impact bullish #S&P500 #Impact mixed
+
+【UOB economist: US inf may have peaked in Q2】UOB senior economist Alvin Liew said in a report US inf may have peaked in Q2, but energy-price uncertainty leaves a risk of renewed inflation. He said falling energy prices have helped cool inf, but energy remains elevated and a rebound in oil—especially if Middle East tensions intensify—could quickly reverse recent disinflation. UOB projects average US headline CPI and core CPI in 2026 of about 3.5% and 2.8%, respectively.
+
+---
+
+### 2026-08-13 15:19:03  #其他
+
+【Alo入華，其海外官網已對中國停售】在Alo正式官宣入華前，國內電商平臺早已存在大量以“Alo”名義銷售的商品。當下，一條Alo海外官網售價約千元的瑜伽褲，在部分店鋪售價不足500元，部分電商品牌甚至存在幾十元產品。開設天貓旗艦店後，Alo的價格也被重新拉回官方體系。與此同時，Alo也在主動切斷舊路徑。記者發現，其海外官網已經無法在中國內地直接下單。Alo客服表示，後續中國消費者可透過中國官方渠道購買。（第一財經）
+
+---
+
+### 2026-08-13 15:18:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iranian militia leader says Strait of Hormuz under Iran's control】Hussein Taeb, head of an Iranian militia organization, said on the 13th that the Strait of Hormuz "is under Iran's control and management."
+
+---
+
+### 2026-08-13 15:18:43  #焦點 #國際
+
+【伊朗民兵武裝：霍爾木茲海峽在伊朗控制下】伊朗法爾斯通訊社13日報道，伊朗民兵武裝組織負責人侯賽因·塔伊布稱，霍爾木茲海峽“在伊朗的控制和管理之下”。（法爾斯通訊社）
+
+---
+
+### 2026-08-13 15:18:00  #Trading Economics #Economy #Spain #Inflation Rate #Importance 1
+
+Spain July Inflation Rate Revised Slightly Up to 3.6% — Spain's annual inflation rate was revised slightly higher to 3.6% in July 2026 from a preliminary estimate of 3.5% and June's reading of 3.2%. This marked the highest rate since May 2024, mainly driven by fuel and lubricant prices for personal vehicles, which increased more than in July 2025. The core inflation rate, excluding unprocessed food and energy, also rose to 3.0% from 2.9% in June, in line with estimates and matching May’s near two-year peak. The EU-harmonized annual rate hit 3.9%, its highest since February 2023, up from 3.6% in June and above the preliminary estimate of 3.8%. On a monthly basis, consumer prices rose by 0.3%, up from the earlier estimate of 0.2%, but easing from the 0.6% increase recorded in June.
+
+---
+
+### 2026-08-13 15:17:02  #其他
+
+【開漁在即 瓊州海峽客滾船將於16日17時停運】8月13日，記者從湛江海事局瞭解到，瓊州海峽客滾船將於8月16日17時至17日5時30分全線停運，為即將到來的南海開漁讓出安全通道。屆時，粵桂瓊三地大量漁船將集中出海陸續經過瓊州海峽，海事部門同步開展“護航開漁”行動。（央視新聞）
+
+---
+
+### 2026-08-13 15:16:27  #其他
+
+蒂森克虜伯首席財務官：正就調整直接還原工廠支援計劃進行深入談判。
+
+---
+
+### 2026-08-13 15:16:23  #MKT News #Market Regions #Greater China #CNH
+
+【China bond futures midday close】At midday close, China bond futures most-active contracts: 2-year (TS) up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.06%, 30-year (TL) up 0.29%.
+
+---
+
+### 2026-08-13 15:16:19  #MKT News #Commodities #Energy
+
+Interfax reports Russia is interested in Indian investment in its oil and gas sector.
+
+---
+
+### 2026-08-13 15:16:02  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.50% Lower — The Shangai Composite Index dropped 20 points or 0.50 percent on Thursday to close at 3927 points. Losses were led by Aluminum Corporation of China (-5.63%), Zijin Mining (-4.14%) and Greenland Holdings (-3.70%). Offsetting the fall, top gainers were Datang Intl (10.02%), Bank Of China (2.06%) and Agricultural Bank of China (1.55%).
+
+---
+
+### 2026-08-13 15:15:02  #市場
+
+【國債期貨收盤】 30年期主力合約漲0.29%， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-13 15:14:39  #公司
+
+【駐約旦大使郭偉會見約皇家航空執行長】2026年8月12日，駐約旦大使郭偉會見約旦皇家航空執行長薩米爾·馬賈利。郭大使表示，約旦皇家航空享有良好聲譽，航線遍佈全球，是架通約旦和世界的空中走廊。中約航司傳統合作基礎好，未來拓展空間大，是增進兩國人員往來的重要紐帶。馬賈利表示，約航重視完善全球佈局，提升業界競爭力和美譽度，願加強對中國市場的開拓和深耕。
+
+---
+
+### 2026-08-13 15:13:43  #國際
+
+市場訊息：俄羅斯對印度在石油和天然氣領域的投資感興趣。
+
+---
+
+### 2026-08-13 15:12:22  #Trading Economics #Economy #Lithuania #Current Account #Importance 1
+
+Lithuania Current Account Surplus Widens in June — Lithuania’s current account surplus widened sharply to EUR 437.5 million in June 2026 from EUR 191.5 million in the same month a year earlier. The services account surplus increased to EUR 985.4 million from EUR 791.9 million, while the secondary income account shifted to a EUR 346.5 million surplus from a deficit of EUR 17.9 million. On the other hand, the goods account deficit widened to EUR 695.1 million from EUR 408.5 million, driven largely by a larger increase in imports, which rose by EUR 824.7 million to EUR 4,175.1 million, compared with a EUR 538.1 million increase in exports to EUR 3,480 million. The primary income deficit also rose to EUR 199.4 million from EUR 174 million a year ago.
+
+---
+
+### 2026-08-13 15:12:15  #Trading Economics #Economy #Turkey #Current Account #Importance 1
+
+Turkey Current Account Deficit Widens in June — Turkey's current account deficit widened to $4.19 billion in June 2026 from $2.27 billion in the same month a year earlier, but came in below the expected $5.0 billion shortfall. The goods deficit increased to $8.53 billion from $6.52 billion, while the services surplus rose to $6.85 billion from $6.09 billion. The primary income deficit widened to $1.79 billion from $1.76 billion, while the secondary income deficit increased to $0.73 billion from $0.08 billion. Excluding gold and energy, the current account recorded a $1.46 billion surplus. In the first half of the year, the cumulative current account deficit reached $34.55 billion. On an annualized basis, the current account deficit reached $38.9 billion in June, with the goods deficit at $76.5 billion and the services surplus at $63.7 billion.
+
+---
+
+### 2026-08-13 15:12:13  #市場
+
+現貨白銀日內跌1%，現報64.61美元/盎司。
+
+---
+
+### 2026-08-13 15:11:30  #MKT News #Important #0992.HK #Impact bullish
+
+Lenovo CEO targets US$100 billion in revenue for the current fiscal year.
+
+---
+
+### 2026-08-13 15:11:23  #公司
+
+【魯信集團成立新能源投資公司 註冊資本5億】天眼查App顯示，近日，山東省魯信新能源投資有限公司成立，法定代表人為李曉鵬，註冊資本5億人民幣，經營範圍包括以自有資金從事投資活動、風力發電技術服務、儲能技術服務、新興能源技術研發、太陽能發電技術服務、光伏裝置及元器件銷售等，由山東省魯信投資控股集團有限公司全資持股。
+
+---
+
+### 2026-08-13 15:10:53  #MKT News #Market Regions #Greater China
+
+【China issues 15th Five-Year plan for safety and emergency equipment industry】The Ministry of Industry and Information Technology and the Ministry of Emergency Management jointly issued a 15th Five-Year development plan for the safety and emergency equipment industry, targeting marked improvements in scale, technology, product quality and application breadth by 2030. The plan aims for key-area industry scale to reach 1.4 tln yuan by 2030, to secure breakthroughs in core technologies and deliver internationally leading flagship products, and to establish 10 competitive industrial clusters and 70 industry-specific parks. It directs wider deployment of high-tech emergency equipment — including increased household and community provisioning — and seeks to cultivate internationally competitive leading firms, specialized "small giant" enterprises and single-product manufacturing champions. The plan details 15 concrete tasks across four pillars: industry innovation, equipment application promotion, scaling industry players, and optimizing the industrial ecosystem.
 
 ---
 
@@ -17778,299 +17994,5 @@ China A-share film and cinema sector jumped; Ruyi Film hit the daily limit while
 ### 2026-08-12 13:42:44  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX 50 Erases Gains at Finish, Down 0.9% — New Zealand's stocks fell 123 points, or 0.9%, to close at 13,738 on Wednesday, reversing a morning gain and declining for the second straight session, touching their lowest level since August 3, tracking a decline on Wall Street overnight amid higher oil prices due to uncertainty over the reopening of the Strait of Hormuz. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Investors assessed a statement from New Zealand's Prime Minister Christopher Luxon after he survived a second confidence vote. He has underlined the need to defeat the Labour-led opposition. Materials, industrials, and financials mainly weighed on the index, with the bottom performers being Mainfreight (-3.7%), Colonial Motor (-1.7%), Westpac Banking Corp. (-1.6%), ANZ Group (-1.3%), F&C Investment (-1.3%), and Infratil (-1.2%).
-
----
-
-### 2026-08-12 13:41:53  #其他
-
-【香港特區政府醫務衛生局局長盧寵茂將訪海南深化醫療衛生交流合作】香港特區政府醫務衛生局局長盧寵茂今日（12日）率領代表團前往海南省進行為期3天的訪問，與當地醫療衛生官員會面，以持續深化香港與內地在醫療衛生方面的交流和合作，並會參觀海南博鰲樂城國際醫療旅遊先行區和當地醫藥企業，瞭解當地醫療服務和藥業的最新發展。（大灣區之聲）
-
----
-
-### 2026-08-12 13:40:58  #Trading Economics #Economy #Finland #Current Account #Importance 1
-
-Finland Current Account Surplus Largest on Record — Finland's current account surplus widened to EUR 2,830 million in June 2026 from EUR 1,282 million in the corresponding month of the previous year. This marked the largest current account surplus on record, largely as the goods account surplus climbed sharply to EUR 2,797 million in June from EUR 1,063 million a year earlier. At the same time, the primary income surplus increased to EUR 903 million from EUR 744 million in June 2025. Meanwhile, a wider deficit was recorded in the services account, which expanded to EUR 693 million from EUR 369 million, while the secondary income shortfall also rose to EUR 178 million from EUR 155 million.
-
----
-
-### 2026-08-12 13:40:50  #其他
-
-【四川多地釋出高溫紅色、橙色預警】截至8月12日12時，四川遂寧、德陽、南充、綿陽、廣元等地已陸續釋出高溫橙色預警，最高氣溫將升至35℃以上。樂山、綿陽、德陽部分割槽縣更新預警訊號為高溫紅色預警，最高氣溫將升至37℃以上。
-
----
-
-### 2026-08-12 13:39:37  #其他
-
-【利歐泵業中標中海油固定平臺多級離心式注水泵（BB5型）一級集採框架協議專案】利歐泵業公眾號訊息，近日，利歐泵業中標中海油2026—2027年度固定平臺多級離心式注水泵（BB5型）一級集採框架協議專案。專案集採範圍涵蓋多套多級離心式注水泵（BB5泵型），供貨裝置將廣泛服務於中國海油旗下渤海、東海、南海等海域的固定平臺、FPSO及其他浮式設施。
-
----
-
-### 2026-08-12 13:38:46  #其他
-
-【劍橋科技等在嘉興成立股權投資合夥企業】企查查APP顯示，近日，嘉興滬江股權投資合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由劍橋科技等共同出資。
-
----
-
-### 2026-08-12 13:38:14  #市場 #國際 #原創
-
-【印度散戶股票衍生品交易一年虧損96億美元 監管遏制措施成效有限】在截至3月的這一年中，印度散戶在股票期貨和期權交易中損失了9168.5億盧比（96億美元），說明監管部門為遏制個人投資者鉅額虧損採取的措施收效有限。印度官員Pankaj Chaudhary在書面回覆中表示，這段時期的虧損較上年的1.1萬億盧比略有減少，同期參與交易的投資者人數從980萬人降至不足800萬人。印度證券交易委員會此前發現，10名散戶衍生品交易者中有9人虧損，儘管監管機構此前曾多次警告，散戶與資金實力更雄厚、經驗更豐富的交易者競爭存在風險。然而，連續五年虧損凸顯了監管舉措的侷限性，以及勸阻個人投資者進行衍生品交易的挑戰。
-
----
-
-### 2026-08-12 13:36:24  #公司 #市場
-
-【房地產板塊午後繼續走強 *ST中迪漲超8%】房地產板塊午後繼續走強，*ST中迪漲超8%，福星股份、新城控股等股上漲。
-
----
-
-### 2026-08-12 13:35:06  #公司 #國際 #原創
-
-【AI程式設計初創公司Cognition據悉洽談新一輪融資 估值或達400億美元】據知情人士透露，Cognition AI正與投資者就新一輪融資進行早期磋商，該輪融資可能使這家人工智慧(AI)程式設計初創公司的估值提升50%以上，達到至少400億美元。知情人士稱，這家人工智慧企業在以260億美元估值籌得10億美元后不到三個月，潛在投資者便已開始圍攏過來，尋求入股這家業內最火熱賽道之一的領軍企業。知情人士還表示，該公司目前的年化收入執行率已接近10億美元，約為其上輪融資時披露數字的兩倍。其中一位知情人士稱，Cognition預計在本輪籌資將超過10億美元。但知情人士也提醒，公司仍可能決定不融資，或以不同條款尋求資金。
-
----
-
-### 2026-08-12 13:31:32  #國際
-
-韓國政府：計劃到2029年自主研發100量子位元的量子計算機，力爭到2035年成為量子晶片製造領域的領軍者。
-
----
-
-### 2026-08-12 13:31:03  #國際
-
-韓國政府稱目標在2030年前實現登月。
-
----
-
-### 2026-08-12 13:30:03  #國際
-
-韓國政府：韓國計劃到2035年實現本土小型模組化反應堆（SMR）商業化。
-
----
-
-### 2026-08-12 13:28:52  #其他
-
-【2026中國算力大會將於9月11日至13日在河北省廊坊市舉行】2026中國算力大會將於9月11日至13日在河北省廊坊市舉行。大會首次舉辦“算力首創首發釋出會”，設定技術、產業兩大單元，將集中釋出一批首創首發算力軟硬體新品，重點展示國產算力晶片、智慧體、綠色算力等突破性成果；圍繞人工智慧、具身智慧、算電協同、太空算力、Token新經濟等前沿熱點，舉辦10餘場專題分論壇，深度探討算力從“建好”到“用好”的價值轉化路徑。(澎湃新聞)
-
----
-
-### 2026-08-12 13:28:42  #公司
-
-【月之暗面增資至223萬】企查查APP顯示，近日，北京月之暗面科技股份有限公司發生工商變更，註冊資本由152.36萬元增至223.85萬元。企查查資訊顯示，該公司成立於2023年，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發等。
-
----
-
-### 2026-08-12 13:28:35  #其他
-
-【民政部：上半年結婚登記327.5萬對】8月12日，民政部網站釋出《2026年2季度民政統計資料》，其中有關婚姻登記的資料是：結婚登記327.5萬對，離婚登記138.3萬對。
-
----
-
-### 2026-08-12 13:27:47  #公司 #市場
-
-【百貨零售板塊短線拉昇，中興商業漲停】百貨零售板塊短線拉昇，中興商業漲停，寧波中百此前封板，百大集團、上海九百、永輝超市、銀座股份、東百集團等跟漲。
-
----
-
-### 2026-08-12 13:24:23  #其他
-
-大韓航空：將透過合併吸收韓亞航空。
-
----
-
-### 2026-08-12 13:22:00  #其他
-
-【星巴克中國回應“蜜雪冰城代工”傳聞：嚴重失實】8月12日，星巴克中國表示，對於網傳“星巴克紙杯吸管或由蜜雪冰城代工”、“更換咖啡豆供應商”等資訊，嚴重失實。“我們始終秉持可持續高質量發展理念，堅持開放姿態，和行業供應鏈夥伴們協同發展、互惠共生，致力於為顧客提供始終如一的高品質咖啡產品和星巴克服務體驗。”星巴克中國表示。（介面新聞）
-
----
-
-### 2026-08-12 13:21:41  #公司
-
-【中國長安汽車與華為簽署戰略合作框架協議】中國長安汽車集團有限公司與華為技術有限公司8月11日在深圳簽署戰略合作框架協議。根據協議內容，雙方將在AI產品及場景、通用及汽車垂直大模型、數字化底座、算力和軟硬體等方面進一步探索合作方向和場景，在數字能源、國際化、數智化人才規劃和培養等方向加強合作。
-
----
-
-### 2026-08-12 13:21:31  #公司 #市場
-
-【醫療器械板塊震盪反彈 寶萊特20cm漲停】午後醫療器械板塊震盪反彈，寶萊特20cm漲停，澳華內鏡漲超10%，鹿得醫療、康眾醫療、南衛股份、戴維醫療等跟漲。
-
----
-
-### 2026-08-12 13:20:56  #其他
-
-【力拓鋁冶煉廠將獲得澳大利亞政府救助】知情人士透露，經過長時間談判，湯瑪戈（Tomago）鋁冶煉廠的多數股東力拓及其合作伙伴將獲得澳大利亞聯邦政府和新南威爾士州政府提供的財政支援，相關援助方案預計將於週四公佈，其中包括更多資金支援細節以及該冶煉廠未來運營計劃。相關工廠目前正面臨高昂能源成本壓力。
-
----
-
-### 2026-08-12 13:19:49  #公司
-
-【中科海鈉： 鈉電牽引車登上工信部產品公告 鈉電技術加速商業化量產】中科海鈉8月12日官微訊息，近日，工業和資訊化部《道路機動車輛生產企業及產品》（第410批）正式釋出，由中科海鈉與一汽解放聯合研發的鈉離子電池換電牽引車名列其中。該車型是一汽解放旗下首款搭載鈉離子動力電池的重型卡車，也是中科海鈉在商用重卡領域取得的重要突破。此次與一汽解放合作的鈉電換電牽引車登上工信部公告，標誌著鈉離子電池技術已獲得主流車企的充分認可，正在加速進入商業化量產階段。2026年9月1日起，鈉離子電池開始免徵消費稅，鈉電重卡的成本優勢預期將進一步加強。
-
----
-
-### 2026-08-12 13:19:20  #國際
-
-韓國政府：韓國將在核能、量子技術、航天與生物技術領域啟動7項“種子”專案，以培育未來增長引擎。
-
----
-
-### 2026-08-12 13:18:43  #國際
-
-【白宮要求重新起訴“破壞倒影池”的前奧運選手】多名知情人士11日稱，白宮已要求司法部考慮對曾受控蓄意破壞美國首都華盛頓的重要地標——林肯紀念堂前倒影池的美國前奧運選手提起新指控。據美國方面訊息，白宮與司法部的討論屬於非正式的早期階段。司法部官員眼下正探尋，是否有可能對美國皮划艇運動員、前奧運選手戴維·赫恩提起輕罪指控。赫恩起初受輕罪指控，但檢方後續將罪名提升至重罪。不過，赫恩所涉案件的主審法官定於9月舉行聽證會，以裁定司法部是否不得再以同一犯罪行為起訴赫恩。
-
----
-
-### 2026-08-12 13:17:34  #其他
-
-【首單民營企業倉儲物流公募REIT首次擴募獲受理】8月12日，嘉實京東倉儲基礎設施REIT首次擴募獲上交所受理。該REIT是國內首單民營企業倉儲物流公募REIT，此次擴募是上市以來的首次擴募，擬納入位於合肥和西安的兩處倉儲物流資產，合計建築面積約25萬平方米。
-
----
-
-### 2026-08-12 13:15:08  #市場
-
-【醫藥商業板塊短線拉昇，瑞康醫藥漲停】醫藥商業板塊短線拉昇，瑞康醫藥漲停，第一醫藥、鷺燕醫藥、浙江震元、人民同泰、漱玉平民等紛紛走高。
-
----
-
-### 2026-08-12 13:15:07  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量1281億元。
-
----
-
-### 2026-08-12 13:14:10  #其他
-
-【利比亞局勢動盪加劇 國內政治程序恐受阻】利比亞西部城市扎維亞的石油設施近日連遭無人機襲擊，東部城市班加西10日發生的汽車炸彈襲擊致“國民軍”情報負責人死亡。分析人士認為，利比亞局勢近來動盪加劇，陷於停滯的國內政治程序恐進一步受阻。（新華社）
-
----
-
-### 2026-08-12 13:12:38  #其他
-
-【華為雲與滴普科技聯合釋出資料智慧解決方案】據華為雲訊息，8月12日，華為雲與滴普科技在北京聯合釋出資料智慧聯合解決方案。雙方將共同打造面向智慧製造、零售等行業的資料智慧聯合解決方案，幫助企業打通資料孤島，加速從資料治理到智慧體應用的一站式落地。
-
----
-
-### 2026-08-12 13:10:35  #國際
-
-【颱風浪卡生成 預計未來對我國無影響】據中國天氣訊息，今年第17號颱風“浪卡”生成。“浪卡”名字來源：馬來西亞；名稱意義：又名菠蘿蜜果，黃色橢圓形狀，是馬來西亞非常流行的一種水果。預計“浪卡”未來對我國無影響。另外，今年第16號颱風“琵鷺”已減弱為熱帶低壓，將逐漸減弱消失。
-
----
-
-### 2026-08-12 13:10:00  #其他
-
-【今年全球7月氣溫為有記錄以來第二高】當地時間8月11日，世界氣象組織發言人克萊爾·納利斯表示，西歐今年6月至7月經歷有記錄以來最熱時期，全球7月氣溫為有記錄以來第二高，全球海洋表面平均溫度則創同期最高紀錄。 此外，世界氣象組織氣候資訊主管約翰·肯尼迪表示，隨著全球氣候持續變暖，極端高溫天氣正變得更加頻繁、更加強烈，持續時間也更長。近幾個月的極端天氣是長期變暖與持續存在的高低氣壓交替模式共同作用的結果，目前沒有明確證據表明西歐今夏高溫與厄爾尼諾現象有關。隨著厄爾尼諾現象在太平洋地區持續發展，世界氣象組織預計全球氣溫將出現上升趨勢。
-
----
-
-### 2026-08-12 13:09:08  #公司
-
-【美團王莆中：不開線下藥店，堅持做醫藥商家AI轉型小幫手】8月12日，美團核心本地商業CEO王莆中在西普會演講中指出，企業AI變革是業務設計、組織變革與技術應用的系統工程。美團希望做行業夥伴的AI小幫手，將AI經營專家、CatPaw能力及工作流改造方法論開放給醫藥行業。王莆中透露，目前美團首批AI經營專家已在漱玉平民、科赴等企業應用，並正式面向行業開放；此外，其全場景 AI Agent平臺CatPaw也將面向醫藥商家啟動試點。基於25萬家藥店與近500家藥企的合作伙伴生態，美團正打造醫藥零售AI時代的新型基礎設施。
-
----
-
-### 2026-08-12 13:09:00  #公司 #國際
-
-【日本監管機構詢問銀行和保險公司有關國防融資的情況】據報道，日本金融廳已就政府認定具有戰略意義的國防產業的融資和投資情況，詢問了各大銀行和人壽保險公司。據知情人士透露，監管機構詢問了各銀行和保險公司對該行業的融資規模以及相關的內部政策。知情人士還表示，監管機構還詢問了各銀行和保險公司在向開發無人機等軍民兩用技術的初創企業提供資金方面是否存在任何限制。由於涉及私人事務，知情人士要求匿名。
-
----
-
-### 2026-08-12 13:07:50  #公司
-
-【中際旭創A股成交額超200億元】8月12日下午，中際旭創A股成交額超200億元，現漲4.51%。
-
----
-
-### 2026-08-12 13:07:07  #其他
-
-【英國首相伯納姆將主持召開關於野火和乾旱的緊急會議】據唐寧街釋出的一份宣告稱，英國首相安迪·伯納姆將於週三下午主持召開政府緊急委員會（COBR）會議，討論英國應對極端高溫、野火和乾旱的措施。
-
----
-
-### 2026-08-12 13:05:04  #其他
-
-貝倫貝格將諾和諾德目標股價從50美元下調至47美元。
-
----
-
-### 2026-08-12 13:04:49  #國際
-
-日本能源巨頭ENEOS表示，8月7日其麻里布煉油廠一套日加工能力為12.8萬桶的裝置發生非計劃停機。
-
----
-
-### 2026-08-12 13:03:36  #其他
-
-【7月共有321傢俬募管理規模實現躍升】私募排排網資料顯示，7月共有321傢俬募管理人在規模上實現了跨越，佔到總量的4.43%。
-
----
-
-### 2026-08-12 13:03:29  #公司
-
-【韓亞航空股東大會批准與大韓航空合併案】韓亞航空8月12日召開臨時股東大會，表決透過與大韓航空合併案。兩家公司將於今年12月17日正式合併為“大韓航空”。大韓航空2020年11月正式宣佈收購韓亞航空後，經過國內外競爭部門的企業合併審議，推進合併所需流程。韓亞航空表示，股東大會批准企業合併協議後，公司將據此切實推進各項跟進措施。
-
----
-
-### 2026-08-12 13:03:20  #市場
-
-A股光學元件板塊持續走高，光智科技、中潤光學漲超10%，東田微、激智科技、水晶光電、波長光電、戈碧迦等跟漲。
-
----
-
-### 2026-08-12 13:02:45  #國際
-
-【印度航班驚險突降91米，機長“被查出吸食大麻”】一架印度航空上週在飛行途中突然下降約300英尺（約91米）高度，造成17人受傷。一名知情者透露，機長事後在毒品檢測中被查出吸食大麻。（參考訊息）
-
----
-
-### 2026-08-12 13:02:06  #國際
-
-【韓國東南部乾旱嚴重 政府釋出國家消防動員令】由於韓國東南部地區今夏迎來罕見的持續高溫乾燥天氣，慶尚南道各地農業水庫近日開始乾涸，乾旱形勢日益嚴重。韓國政府為此釋出了國家消防動員令，自12日起向乾旱嚴重的慶尚南道提供200輛水罐車和400名消防人員，進行供水支援工作。據統計，截至12日，慶尚南道共有2121公頃農田遭受旱災；截至當天，在慶尚南道的18個市、郡中，密陽市、巨濟市和鹹安郡的農業用水處於“農業用水乾旱警戒”中最嚴重的“嚴重乾旱”階段。其中，乾旱最嚴重的密陽市農業用水蓄水率當天為25.7%，僅為常年標準的三分之一左右；而慶尚南道的平均蓄水率僅為33.3%，與常年相比下降了近一半。
-
----
-
-### 2026-08-12 13:01:23  #市場 #焦點
-
-創業板指漲2.04%，現報3621.538點；上證指數漲0.28%，現報3945.247點；深證成指漲1.38%，現報14456.671點。
-
----
-
-### 2026-08-12 13:00:59  #公司 #市場 #國際
-
-【情境感知增持日本太陽誘電股份】據上月險些破產的人工智慧對沖基金情境感知(Situational Awareness)提交的多份檔案顯示，該公司於6月下旬購入日本伺服器元件製造商太陽誘電(Taiyo Yuden Co.)的股份，隨後增持至11.62%。週三，太陽誘電股價一度上漲6.7%，此前該基金向日本財務省通報稱，其持有該公司超過5%的股份，比金融監管機構規定的披露期限晚了一個多月。隨後幾個小時內提交的檔案顯示，該基金在7月中旬之前繼續增持股份。太陽誘電的代表未能立即就情境感知的持股情況置評。
-
----
-
-### 2026-08-12 12:59:06  #其他
-
-【暑運以來深圳鐵路累計客流超2400萬人次】記者從深圳鐵路部門獲悉，7月1日至8月10日，深圳鐵路累計到發旅客2404.5萬人次，同比增加2.4萬人次，整體執行平穩有序。
-
----
-
-### 2026-08-12 12:55:50  #國際
-
-【駐日美軍一架“魚鷹”運輸機緊急著陸】據日本共同社12日報道，駐日美軍一架“魚鷹”運輸機10日在栃木縣的日本陸上自衛隊宇都宮機場緊急著陸。美方稱之為避免事故發生的“預防性著陸”。 報道稱，這架“魚鷹”運輸機隸屬位於東京的駐日美軍橫田基地，已於11日離開宇都宮機場，目前暫未收到人員傷亡或財產損失報告。 報道還稱，橫田基地的“魚鷹”運輸機曾多次緊急著陸。今年2月和5月分別在日本巖手縣的花捲機場和神奈川縣的駐日美軍厚木基地發生過類似情況。 “魚鷹”運輸機事故多發。2023年11月，美軍一架“魚鷹”運輸機在鹿兒島縣屋久島附近海域墜毀，機上8人全部死亡。(新華社)
-
----
-
-### 2026-08-12 12:55:02  #央行 #中國央行
-
-【央行連續第二天“零投放” 債市再迎“敲打” 30年國債上午再升0.6BP】債市收益率又迎“敲打”，繼昨日之後，央行今日再度執行公開市場操作“零投放”。上午，短期資金利率小幅抬升，10年國債在1.7%關口上午震盪，而此前強勢的30年國債則繼續承壓。業內分析認為，央行“零投放”實際影響有限，市場或正在重複歷史定價模式，但更多是情緒層面的修正。
-
----
-
-### 2026-08-12 12:50:18  #公司
-
-【凱龍高科子公司重結晶碳化矽載體獲上汽大通輕客專案定點】據凱龍高科訊息，近日，凱龍高科控股子公司江蘇觀藍新材料重結晶碳化矽載體，獲取上汽大通輕客專案定點意向書，正式成為上汽大通輕客車型DPF載體定點開發供應商。
-
----
-
-### 2026-08-12 12:49:45  #其他
-
-【國產武俠3A遊戲《影之刃零》開啟預購，國區標準版定價268元】8月12日，國產武俠3A遊戲《影之刃零》在Steam、PS5、Wegame等多平臺開啟預購，各平臺國區標準版定價268元，數字豪華版定價328元。正式發售日期為10月29日。
-
----
-
-### 2026-08-12 12:49:18  #宏觀 #公司 #國際
-
-【美國出售與委內瑞拉有關的油輪 此前該油輪在公海被扣押】據買家稱，美國政府已出售一艘與委內瑞拉有關的油輪。該油輪於今年1月被美國海岸警衛隊扣押，此前該油輪在大西洋上經歷了一場驚心動魄的追逐。這艘影子船隊船隻由此獲准拆解報廢。這艘名為“貝拉1號”（Bella 1）的油輪曾於去年年底逃離美國在加勒比海的封鎖，並因頻繁更改船名、在船體上噴塗俄羅斯國旗以尋求庇護而遭到當局數週的追捕。最終，該船在冰島附近被扣押。買家環球營銷系統公司（Global Marketing Systems，簡稱GMS）的運營總監約格什·雷哈尼（Yogesh Rehani）表示，這艘油輪——現名為“時代號”（Era）——已於上週晚些時候獲准拆解，同時獲准拆解的還有另一艘被列入黑名單並被扣押的阿芙拉型油輪“利萊奧號”（Lileo）。此前，美國財政部已為這兩艘油輪頒發了拆解許可證。海事資料庫Equasis顯示，GMS位於美國的子公司目前是這兩艘油輪的所有者。
 
 ---

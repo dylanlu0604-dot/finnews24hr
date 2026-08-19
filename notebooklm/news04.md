@@ -1,7 +1,367 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 12:45:49_
-_本檔包含 3189 則快訊，約 609111 字_
+_更新時間：2026-08-19 13:42:16_
+_本檔包含 3213 則快訊，約 609894 字_
+
+---
+
+### 2026-08-14 16:33:46  #MKT News #Macro & Rates
+
+【PBOC: July interbank lending weighted average rate 1.40%, down 1 bp MoM】Total interbank RMB market turnover via call loans, outright bond trades and pledged repos in July was 192.86 trillion yuan, averaging 8.39 trillion yuan/day, down 13.3% YoY. By instrument, daily averages: interbank call lending -24.3% YoY, outright bond trading -6.1% YoY, pledged repos -14.5% YoY. July weighted-average interbank lending rate 1.40% (down 1 bp MoM, 5 bps YoY); pledged repo weighted-average rate 1.42% (down 1 bp MoM, 4 bps YoY).
+
+---
+
+### 2026-08-14 16:33:33  #央行 #中國央行
+
+【央行：前七個月人民幣貸款增加10.38萬億元】央行資料顯示，7月末，本外幣貸款餘額286.07萬億元，同比增長5%。月末人民幣貸款餘額282.29萬億元，同比增長5.1%。前七個月人民幣貸款增加10.38萬億元。
+
+---
+
+### 2026-08-14 16:33:33  #經濟數據 #中國
+
+【央行：前七個月人民幣貸款增加10.38萬億元】央行資料顯示，7月末，本外幣貸款餘額286.07萬億元，同比增長5%。月末人民幣貸款餘額282.29萬億元，同比增長5.1%。前七個月人民幣貸款增加10.38萬億元。
+
+---
+
+### 2026-08-14 16:33:28  #央行 #其他
+
+【前七個月人民幣存款增加17.79萬億元】7月末，本外幣存款餘額354.49萬億元，同比增長8.1%。月末人民幣存款餘額346.47萬億元，同比增長8.1%。前七個月人民幣存款增加17.79萬億元。其中，住戶存款增加6.95萬億元，非金融企業存款增加1.57萬億元，財政性存款增加1.95萬億元，非銀行業金融機構存款增加5.76萬億元。7月末，外幣存款餘額1.18萬億美元，同比增長17.9%。前七個月外幣存款增加1212億美元。（央行）
+
+---
+
+### 2026-08-14 16:33:24  #央行 #其他
+
+【央行：初步統計，2026年7月末社會融資規模存量為463.27萬億元，同比增長7.4%】初步統計，2026年7月末社會融資規模存量為463.27萬億元，同比增長7.4%。其中，對實體經濟發放的人民幣貸款餘額278.57萬億元，同比增長5.2%；對實體經濟發放的外幣貸款摺合人民幣餘額1.19萬億元，同比下降1.7%；委託貸款餘額11.24萬億元，同比增長0.7%；信託貸款餘額4.6萬億元，同比增長3.2%；未貼現的銀行承兌匯票餘額1.97萬億元，同比增長2.7%；企業債券餘額36.47萬億元，同比增長9.2%；政府債券餘額102.68萬億元，同比增長14.1%；非金融企業境內股票餘額12.6萬億元，同比增長5.5%。
+
+---
+
+### 2026-08-14 16:33:24  #央行 #中國央行
+
+【央行：7月末廣義貨幣（M2）餘額同比增長7.7%】央行釋出2026年7月金融統計資料包告。7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。狹義貨幣（M1）餘額115.46萬億元，同比增長4%。流通中貨幣（M0）餘額14.82萬億元，同比增長11.6%。前七個月淨投放現金7255億元。
+
+---
+
+### 2026-08-14 16:33:24  #經濟數據 #中國
+
+【央行：7月末廣義貨幣（M2）餘額同比增長7.7%】央行釋出2026年7月金融統計資料包告。7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。狹義貨幣（M1）餘額115.46萬億元，同比增長4%。流通中貨幣（M0）餘額14.82萬億元，同比增長11.6%。前七個月淨投放現金7255億元。
+
+---
+
+### 2026-08-14 16:33:20  #其他
+
+【公安部：今年前7月偵辦破壞環境資源犯罪案逾2萬起】記者8月14日從公安部獲悉，今年前7個月，公安機關共偵辦破壞環境資源犯罪案件2.25萬起，抓獲犯罪嫌疑人3.56萬名。同日，在第四個全國生態日到來之際，公安部公佈4起破壞環境資源犯罪典型案例。這4起典型案例涉及大氣揚塵監測造假，非法採礦，危害珍貴、瀕危野生動物等。（新華社）
+
+---
+
+### 2026-08-14 16:33:04  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300
+
+【PBOC preliminary: China’s social financing stock 463.27 trillion yuan at end‑July 2026, +7.4% YoY】Preliminary PBOC figures show social financing stock at 463.27 trillion yuan at end‑July 2026, up 7.4% YoY; outstanding RMB loans to the real economy 278.57 trillion yuan (+5.2%); outstanding foreign‑currency loans to the real economy, converted to yuan, 1.19 trillion yuan (-1.7%); entrusted loans 11.24 trillion yuan (+0.7%); trust loans 4.60 trillion yuan (+3.2%); undiscounted bank acceptance bills 1.97 trillion yuan (+2.7%); corporate bonds 36.47 trillion yuan (+9.2%); government bonds 102.68 trillion yuan (+14.1%); domestic equity holdings of non‑financial enterprises 12.60 trillion yuan (+5.5%).
+
+---
+
+### 2026-08-14 16:32:50  #央行 #中國央行
+
+【央行：7月份同業拆借加權平均利率為1.4% 比上月低0.01個百分點】央行資料顯示，7月份銀行間人民幣市場以拆借、現券和回購方式合計成交192.86萬億元，日均成交8.39萬億元，日均成交同比下降13.3%。其中，同業拆借日均成交同比下降24.3%，現券日均成交同比下降6.1%，質押式回購日均成交同比下降14.5%。7月份同業拆借加權平均利率為1.4%，比上月低0.01個百分點，比上年同期低0.05個百分點。
+
+---
+
+### 2026-08-14 16:32:50  #經濟數據 #中國
+
+【央行：7月份同業拆借加權平均利率為1.4% 比上月低0.01個百分點】央行資料顯示，7月份銀行間人民幣市場以拆借、現券和回購方式合計成交192.86萬億元，日均成交8.39萬億元，日均成交同比下降13.3%。其中，同業拆借日均成交同比下降24.3%，現券日均成交同比下降6.1%，質押式回購日均成交同比下降14.5%。7月份同業拆借加權平均利率為1.4%，比上月低0.01個百分點，比上年同期低0.05個百分點。
+
+---
+
+### 2026-08-14 16:32:39  #國際
+
+印尼將 2027 年預算赤字目標設定為國內生產總值的 2.40%。
+
+---
+
+### 2026-08-14 16:32:36  #MKT News #CNH #Impact bearish #CSI300
+
+China's year-to-date new yuan loans through July totaled 10.38 tln yuan, below the 10.62 tln yuan expected and down from 10.72 tln yuan previously.
+
+---
+
+### 2026-08-14 16:32:35  #市場 #國際
+
+印尼總統：預算提案基於2027年盧比兌美元平均匯率為17500比1的假設。
+
+---
+
+### 2026-08-14 16:32:15  #央行 #其他
+
+【前七個月社會融資規模增量累計為22.25萬億元】初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。其中，對實體經濟發放的人民幣貸款增加10.17萬億元，同比少增2.14萬億元；對實體經濟發放的外幣貸款摺合人民幣增加1694億元，同比多增2419億元；委託貸款減少810億元，同比多減121億元；信託貸款減少672億元，同比多減2264億元；未貼現的銀行承兌匯票減少1786億元，同比少減410億元；企業債券淨融資2.52萬億元，同比多1.1萬億元；政府債券淨融資7.76萬億元，同比少1.15萬億元；非金融企業境內股票融資4061億元，同比多1847億元。（央行）
+
+---
+
+### 2026-08-14 16:32:12  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+China aggregate social financing YTD through July was 22.25 tln yuan, versus 21.93 tln expected and 20.84 tln prior.
+
+---
+
+### 2026-08-14 16:32:06  #央行 #其他 #焦點
+
+央行：前七個月人民幣貸款增加10.38萬億元，前七個月人民幣存款增加17.79萬億元。
+
+---
+
+### 2026-08-14 16:32:02  #國際
+
+印度尼西亞總統：理想情況下，財政赤字應越小越好，我們的目標是實現預算平衡。
+
+---
+
+### 2026-08-14 16:32:01  #Trading Economics #Economy #Taiwan #GDP Annual Growth Rate #Importance 1
+
+Taiwan Q2 GDP Growth Revised Slightly Higher — Taiwan's economy expanded 12.93% year-on-year in the second quarter of 2026, slightly higher than the preliminary estimate of 12.92% but easing from 15.43% in the previous quarter. The reading marked the slowest annual expansion since the third quarter of 2025, as the loss of momentum in external demand weighed on the overall economy. Exports of goods and services slowed sharply to 21.24% from 35.41% in the first quarter, while imports also decelerated to 18.25% from 25.41%. In contrast, domestic demand strengthened, growing to 8.83% from 5.73%, driven by stronger household consumption (5.91% vs 4.83%) and gross fixed capital formation (11.45% vs 8.04%), which more than offset slower growth in government spending (3.24% vs 4.29%). On a seasonally adjusted quarterly basis, the economy grew 1.39%, slowing from 2.46% in the previous three months and marking the weakest quarterly expansion since the first quarter of 2025.
+
+---
+
+### 2026-08-14 16:32:01  #MKT News #Important #CNH #Impact bullish
+
+PBOC said Jan-Jul RMB loans rose 10.38 trillion yuan; RMB deposits rose 17.79 trillion yuan.
+
+---
+
+### 2026-08-14 16:31:56  #其他
+
+中國香港將2026年GDP增長預期下調至3.5%至4.5%；此前預期為2.5%至3.5%。
+
+---
+
+### 2026-08-14 16:31:50  #MKT News #Market Regions #Greater China
+
+China July M0 money supply YoY 11.6% vs 11.8% prior.
+
+---
+
+### 2026-08-14 16:31:44  #MKT News #Economic Calendar #Important
+
+China | M0 Money Supply (YoY) (Jul) | actual 11.6% | previous 11.8%
+
+---
+
+### 2026-08-14 16:31:43  #資料 #焦點
+
+中國7月M2貨幣供應年率 7.7%，預期7.9%，前值8%。
+
+---
+
+### 2026-08-14 16:31:43  #MKT News
+
+China July M1 money supply YoY 4.0% (expected 3.9%; prior 4.0%).
+
+---
+
+### 2026-08-14 16:31:41  #央行 #中國央行
+
+【央行：前七個月社會融資規模增量累計為22.25萬億元 人民幣貸款增加10.38萬億元】初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。前七個月人民幣貸款增加10.38萬億元。
+
+---
+
+### 2026-08-14 16:31:41  #經濟數據 #中國
+
+【央行：前七個月社會融資規模增量累計為22.25萬億元 人民幣貸款增加10.38萬億元】初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。前七個月人民幣貸款增加10.38萬億元。
+
+---
+
+### 2026-08-14 16:31:40  #MKT News #Important #CNH #Impact bearish #CSI300 #Impact bullish #Hang Seng Index
+
+PBOC: End-July broad money (M2) 355.51 tln yuan, +7.7% YoY. Narrow money (M1) 115.46 tln yuan, +4.0% YoY. Currency in circulation (M0) 14.82 tln yuan, +11.6% YoY. Net cash injections Jan–Jul totaled 725.5 bln yuan.
+
+---
+
+### 2026-08-14 16:31:38  #央行 #其他 #焦點
+
+央行：7月末，廣義貨幣（M2）餘額355.51萬億元，同比增長7.7%。狹義貨幣（M1）餘額115.46萬億元，同比增長4%。流通中貨幣（M0）餘額14.82萬億元，同比增長11.6%。前七個月淨投放現金7255億元。
+
+---
+
+### 2026-08-14 16:31:37  #MKT News #Economic Calendar #Important
+
+China | M1 Money Supply (YoY) (Jul) | actual 4% | consensus 3.9% | previous 4%
+
+---
+
+### 2026-08-14 16:31:37  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #DXY #Impact bullish
+
+China July M2 money supply YoY 7.7%, below forecast 7.9% and down from prior 8.0%.
+
+---
+
+### 2026-08-14 16:31:31  #國際
+
+印尼將 2027 年國家收入目標設定為 3426 萬億印尼盾。
+
+---
+
+### 2026-08-14 16:31:31  #MKT News #Economic Calendar #Important
+
+China | M2 Money Supply (YoY) (Jul) | actual 7.7% | consensus 7.9% | previous 8%
+
+---
+
+### 2026-08-14 16:31:23  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Copper
+
+PBOC preliminary data show cumulative new total social financing (TSF) in Jan–Jul 2026 at 22.25 tln yuan, down 1.74 tln yuan YoY.
+
+---
+
+### 2026-08-14 16:31:21  #央行 #其他 #焦點
+
+央行：初步統計，2026年前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元。
+
+---
+
+### 2026-08-14 16:31:19  #MKT News
+
+Indonesia's president targets 2027 revenue at IDR 3,426 tln; projects a 2027 budget deficit of 2.4% of GDP.
+
+---
+
+### 2026-08-14 16:31:19  #MKT News #CNH #Impact bearish
+
+Onshore yuan closed at 6.7421 per USD at 16:30 on Aug 14, up 30 pips from the previous trading day.
+
+---
+
+### 2026-08-14 16:31:15  #國際
+
+印尼將把 2027 年國家支出目標定為 4097.2 萬億印尼盾。
+
+---
+
+### 2026-08-14 16:31:04  #資料
+
+中國香港第二季度GDP季率終值 -0.6%，預期-0.6%，前值-0.60%。
+
+---
+
+### 2026-08-14 16:31:01  #市場 #國際
+
+印度Nifty 50指數回升，最新上漲0.01%。
+
+---
+
+### 2026-08-14 16:30:57  #Trading Economics #Economy #Kazakhstan #GDP Annual Growth Rate #Importance 1
+
+Kazakhstan GDP Growth Slows in H1 2026 — Kazakhstan’s economy expanded 4.1% in the first half of 2026, slowing from 6.2% growth in the same period a year earlier. Services production increased 3.6%, accounting for just over half of total output, led by wholesale and retail trade and the repair of motor vehicles and motorcycles, which rose 5.7%. Real estate activity increased 1%, while transport and warehousing grew 7.1%. Meanwhile, goods production rose 5.1%, accounting for 36.4% of total output, supported by gains in manufacturing (9.8%) and electricity, gas, steam, hot water and air-conditioning supply (10.5%). Construction recorded the strongest growth, rising 15.2%. In contrast, mining and quarrying output declined 4%.
+
+---
+
+### 2026-08-14 16:30:53  #市場
+
+在岸人民幣兌美元收盤報6.7421，較上一交易日上漲30點。
+
+---
+
+### 2026-08-14 16:30:32  #其他
+
+中國香港2季度GDP終值同比增長4.3%; 預估為+4.3%。
+
+---
+
+### 2026-08-14 16:30:21  #MKT News #Hang Seng Index
+
+Hong Kong SAR Q2 GDP final YoY 4.3%, matching 4.3% forecast; prior 4.3%.
+
+---
+
+### 2026-08-14 16:30:21  #MKT News #Hang Seng Index
+
+Hong Kong Q2 GDP (q/q, final) -0.6%; consensus -0.6%; preliminary -0.6%.
+
+---
+
+### 2026-08-14 16:30:13  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Drops by 1.10% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a -1.10% decrease.
+
+---
+
+### 2026-08-14 16:30:12  #MKT News #Economic Calendar #Important
+
+Hong Kong | GDP (QoQ) (Q2) | actual -0.6% | consensus -0.6% | previous -0.60%
+
+---
+
+### 2026-08-14 16:30:12  #MKT News #Economic Calendar #Important
+
+Hong Kong | GDP (YoY) (Q2) | actual 4.3% | consensus 4.3% | previous 4.30%
+
+---
+
+### 2026-08-14 16:29:47  #公司
+
+【華銳精密：2026年上半年淨利潤2.38億元，同比增長178.32%】華銳精密公告，2026年上半年營業收入6.21億元，同比增長19.70%。歸屬於上市公司股東的淨利潤2.38億元，同比增長178.32%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.37億元，同比增長182.45%。
+
+---
+
+### 2026-08-14 16:29:25  #國際
+
+印尼總統：必須加強高價值領域的經濟轉型。
+
+---
+
+### 2026-08-14 16:29:18  #公司
+
+【ST雲城：重大資產重組已收回52.02億元 部分未完成工商登記】ST雲城公告稱，公司以公開掛牌方式對外出售多家子公司股權。截至目前，已收回昆明城海等12家標的公司全部股權款和債權款，合計約52.02億元，並與受讓方完成股權交割，其中10家公司已完成工商變更登記。剩餘台州商業等4家公司暫未完成工商變更登記，其中海南天利發展、寧波奉化未完成股權交割。公司已將台州商業、杭州西溪的股權管理權轉移給受讓方，不再是控股股東。公司將繼續推進後續實施工作。
+
+---
+
+### 2026-08-14 16:28:42  #其他
+
+【江蘇省攝影家協會：楊某宇一幅作品確非本人原創，取消入展資格】江蘇省攝影家協會8月14日通報，近日，“幸福鄉村  文藝賦美”江蘇省文聯文藝賦能鄉村振興影像展覽開幕。據影友反映，該展覽入選作品組照《美麗鄉村樂消遊》（作者楊某宇）中有一幅作品與網上已公佈的其他賽事中入圍的、署名為他人的作品畫面高度相似。江蘇省攝協對此高度重視，立即啟動緊急核查。經查實，作者楊某宇的組照《美麗鄉村樂消遊》其中一幅作品確非本人原創作品。對於在省攝協質詢時楊某宇提出的“誤操作”投稿解釋，省攝協經研判後不予認可。基於此，決定取消該作品的入選資格。鑑於該作者在投稿、調圖、核查期間的行為違反了誠信原則，經研究決定同時取消其在本次賽事中投稿的另一幅作品《煙雨中鄉村美景》的入選資格。
+
+---
+
+### 2026-08-14 16:28:28  #公司
+
+【保利聯合：新增36起訴訟仲裁 涉案金額1.15億元】保利聯合公告稱，前期兩起訴訟仲裁案，一起已判決駁回原告訴訟請求，另一起已受理待一審開庭。上一訴訟公告日（2026年7月7日）至本公告日，公司及控股子公司新增36起訴訟仲裁，涉案金額合計1.15億元，佔最近一期經審計歸屬於上市公司股東淨資產的10.49%。截至公告日，無應披露未披露的其他訴訟仲裁事項。新增案件對公司利潤影響不確定，公司將及時披露進展。
+
+---
+
+### 2026-08-14 16:27:50  #公司
+
+【天銀機電：2026年上半年淨利潤2482.48萬元，同比增長39.44%】天銀機電公告，2026年上半年營業收入4.04億元，同比增長5.34%。歸屬於上市公司股東的淨利潤2482.48萬元，同比增長39.44%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2308.15萬元，同比增長28.65%。
+
+---
+
+### 2026-08-14 16:27:22  #公司
+
+【滄州大化：2026年上半年營收21.53億元 淨利潤同比增330.75%】滄州大化公告稱，2026年上半年公司實現營業收入21.53億元，歸屬於上市公司股東的淨利潤1.01億元，同比增長330.75%；扣非淨利潤1.02億元，同比增長301.38%。公司聚焦核心主業，推進裝置運維與技改；培育新質生產力，推動產業升級；健全回報機制，2025年度權益分派已實施完畢；還在提升信披質量、暢通投資者溝通、推進ESG體系建設、強化治理效能等方面取得進展。行動方案後續執行或受政策、市場等因素影響。
+
+---
+
+### 2026-08-14 16:27:13  #公司 #觀點
+
+【大摩：CoreWeave單季新增500MW產能創紀錄，高負債與客戶集中度壓制估值】摩根士丹利8月Q2業績報告指出，CoreWeave單季新增淨活躍電力500MW，超過歷史上任何一個季度，同比超過上年同期的三倍，管理層重申2030年前至少達到8GW目標。FY26營收指引中值上調2%至124億-132億美元，ARR中值上調3%至185億-195億美元。公司上調全年資本開支指引中值12%至355億-390億美元，Q3資本開支指引115億-135億美元，高於市場預期的100億美元。Managed Inference平臺(託管推理平臺)ARR從100萬美元增長至超過1億美元，預計年底至少達2.5億美元。研報判斷，Q2調整後營業利潤率約8%高於預期，但Q3利潤率指引5.8%-7.2%低於市場預期，Q4利潤率需大幅提升才能實現全年指引。大摩預計CoreWeave FY27運營利潤率15.9%、FY28為22.4%，自由現金流至2028年仍為負，債務預計2026年底增至約380億美元。大摩維持Equal-weight(與大盤持平)評級和99美元目標價，認為GenAI資料中心需求強勁，但高負債與客戶集中度是估值無法突破的關鍵約束。
+
+---
+
+### 2026-08-14 16:27:05  #公司 #市場 #國際
+
+【美國無人機企業股價盤前上漲】特朗普政府擬對進口無人機加徵關稅後，部分美國無人機企業股價盤前上漲。奧瑞斯綠道控股股價上漲3.5%，克拉託斯防務與安全解決方案股價上漲0.8%。尤努蘇爾機器公司股價上漲12.9%，紅貓控股上漲6.2%， AeroVironment公司上漲2.2%。
+
+---
+
+### 2026-08-14 16:26:43  #行業
+
+【乘聯分會：輕型商用車2026全年銷量有望達到296萬輛】據乘聯分會訊息，2026年輕型商用車市場預計將在結構性調整中保持總體平穩，進入存量主導的新階段，銷量預計維持在特定區間，增長動力主要來自新能源轉型的深化和海外市場的拓展，在高質量發展的風向標下，新能源滲透持續加速，海外出口成為關鍵支柱，技術競爭聚焦智慧化。2025年輕型商用車完成290.3萬輛，同比增長6.5%，2026年全年銷量小幅增長2.0%，全年銷量有望達到296.0萬輛左右。
+
+---
+
+### 2026-08-14 16:26:25  #公司
+
+【中國交建：2026年上半年新籤合同額9029.49億元，同比-8.89%】中國交建公告，2026年1-6月新籤合同額為9029.49億元，同比下降8.89%，完成年度目標的47%；其中海外業務新籤合同額2416.78億元，同比增長20.61%，佔比提升至27%。
+
+---
+
+### 2026-08-14 16:26:25  #Trading Economics #Markets #Commodity #Importance 2
+
+Brent Rises, Set for Over 5% Weekly Gain — Brent crude rose above $88 a barrel on Friday, gaining more than 5% this week as the US increased economic pressure on Iran to reopen the Strait of Hormuz. Treasury Secretary Scott Bessent said Washington would impose unprecedented economic measures while maintaining its naval blockade of Iranian ports, with further announcements expected next week. The International Energy Agency also warned of a deeper global supply deficit, forecasting the widest shortfall in 2026 in five years. Meanwhile, Iran and Oman have yet to reach an agreement on reopening Hormuz, despite earlier optimism that a deal was close. US officials said American forces are increasing their ability to escort vessels through the strait, although shipping remains risky, with some tankers switching off transponders. In the Red Sea, Iran-backed Houthi militants also targeted Saudi Arabia’s Jazan refinery. Meanwhile, additional Middle Eastern crude is expected to reach the US, offering some relief to low inventories.
 
 ---
 
@@ -18991,221 +19351,5 @@ Slovakia Inflation Eases to 19-Month Low — Slovakia's annual inflation rate ea
 ### 2026-08-13 15:29:46  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
 
 India 10Y Yield Holds Near 4-Week Low — The yields on India’s 10-year G-Sec weakened to around 6.76%, hovering near four-week lows as inflation data from India and the US reinforced expectations that neither central bank is likely to raise rates soon. Market participants assessed India’s July CPI, which rose to 4.45% from 4.38% in June, below the 4.50% forecast and comfortably within the RBI’s tolerance range. Meanwhile, US annual inflation slowed to 3.4% in July from 3.5% in June, marginally reducing expectations of a Federal Reserve rate hike next month and supporting US Treasuries. However, the decline in Indian yields remained limited as Brent crude held around $88 per barrel, keeping inflation risks in focus for the world’s third-largest oil importer. The US 10-year Treasury yield also remained elevated, while market participants shifted their attention to Friday’s INR 320 billion government bond auction, which is expected to provide the next major direction for yields.
-
----
-
-### 2026-08-13 15:29:35  #其他
-
-蒂森克虜伯首席財務官：若水位進一步下降且內河航運停擺，我們不排除業績會受到影響。
-
----
-
-### 2026-08-13 15:27:41  #其他
-
-【機構：2026年上半年榮耀為全球增速最快的安卓中國廠商】榮耀最新分享階段經營成果，據IDC資料，今年上半年，榮耀是全球唯一實現出貨正增長的安卓中國廠商，並以9%的增速成為全球出貨增速最快的安卓中國廠商。
-
----
-
-### 2026-08-13 15:26:34  #公司
-
-【北銀理財換帥】記者從知情人士處獲悉，北銀理財近日在公司內部宣佈一項人事任命：北京銀行金融市場總監、同業票據管理部總經理劉素勤已出任北銀理財黨委書記，待履行完相關程式後，將正式擔任北銀理財董事長。（21財經）
-
----
-
-### 2026-08-13 15:25:53  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Trade Higher Near Record — European stocks traded close to record highs on Thursday, supported by a modest decline in oil and gas prices that helped ease concerns over energy costs. The STOXX 50 gained around 0.5%, while the broader STOXX 600 added 0.2%. Stabilising energy prices improved investor sentiment and reduced some of the pressure on inflation expectations. UK economic data also offered encouragement, showing that the region’s economies have so far proved resilient to the energy shock. UK GDP expanded by 0.4% in the second quarter, while growth strengthened in June. Corporate earnings provided an additional boost. Danish shipping giant Maersk surged around 8% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations.
-
----
-
-### 2026-08-13 15:25:42  #公司 #市場
-
-【8月13日滬深兩市漲停分析】三大指數衝高回落集體收綠，醫藥醫療股逆勢走強。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>
-
----
-
-### 2026-08-13 15:25:21  #MKT News
-
-Ukrainian Railways data show rail shipments of Ukrainian grain for export fell 76% YoY to 201,700 tonnes as of August.
-
----
-
-### 2026-08-13 15:24:42  #公司 #國際
-
-【外資湧入日本晶片行業，投資規模已達6萬億日元】外國企業對日本晶片產業的投資規模已達到6萬億日元（約370億美元），隨著索尼集團和臺積電近期宣佈建設影象感測器工廠，這一數字進一步擴大。臺積電已向其在日本的兩座晶圓廠投資3萬億日元。其中，第一座晶圓廠已於2024年開始量產邏輯晶片，第二座目前正在建設中。美光科技上月啟動了廣島縣工廠擴建專案，計劃投資1.5萬億日元生產先進儲存晶片，這類晶片對於人工智慧資料中心至關重要。同樣在7月，以色列晶片製造商Tower Semiconductor宣佈將投資6000億日元，用於量產資料中心所使用的光通訊裝置晶片。
-
----
-
-### 2026-08-13 15:24:14  #公司 #國際
-
-烏克蘭鐵路公司Ukrzaliznytsia表示，8月迄今為止烏克蘭出口糧食運輸量同比下降76%，至20.17萬噸。
-
----
-
-### 2026-08-13 15:24:12  #MKT News #Market Themes #Chip Wars #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish #TSM.O
-
-【Foreign investment in Japan's chip sector hits 6 tln yen (~$37bn)】Foreign investment in Japan's semiconductor sector totals 6 tln yen (about $37bn); recent image‑sensor fab announcements from Sony and TSMC will add to overall sector investment. TSMC has committed 3 tln yen to two Japanese wafer fabs — the first began volume production of logic chips in 2024, the second is under construction. Micron last month started an expansion in Hiroshima, planning 1.5 tln yen to produce advanced memory chips for AI data centers. In July Tower Semiconductor said it will invest 600 bln yen to mass‑produce optical‑communication chips for data centers.
-
----
-
-### 2026-08-13 15:24:02  #央行 #澳洲聯儲
-
-【澳大利亞國民銀行經濟學家：澳儲行將在一段時間內保持利率不動】澳大利亞國民銀行經濟學家表示，澳儲行將在一段時間內保持利率不動，不會繼續加息；貨幣政策正常化將從2027年年中啟動，透過有序降息，逐步削弱貨幣政策的緊縮效力。
-
----
-
-### 2026-08-13 15:23:45  #MKT News #Important
-
-Tencent Holdings (00700.HK) fell nearly 5% at the close, briefly pushing its market capitalization below HKD 4 trillion.
-
----
-
-### 2026-08-13 15:23:09  #公司
-
-【南非對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查】近日，南非國際貿易管理委員會（ITAC）（代表南部非洲聯盟-SACU，SACU包含國家為南非、波札那、奈米比亞、賴索托及史瓦濟蘭5國）釋出公告，應生產商Saint-Gobain Construction Products South Africa (Pty) Ltd提交的申請，對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查。涉案產品為未裝飾、僅用紙或紙板貼面或增強的石膏或石膏基製品的板、片、面板、磚及類似品。涉案產品的南非稅號為6809.11。本案傾銷調查期為2025年1月1日至2025年12月31日，損害調查期為2023年1月1日至2025年12月31日。
-
----
-
-### 2026-08-13 15:23:03  #市場
-
-【騰訊市值跌破4萬億港元】騰訊控股低開低走，截至發稿跌超4%，報440.2港元/股，市值跌破4萬億港元。
-
----
-
-### 2026-08-13 15:22:43  #Trading Economics #Markets #Commodity #Importance 1
-
-Iron Ore Falls on Demand Worries — Iron ore futures declined toward CNY 700 per ton, approaching 14-month lows as weak profitability among Chinese steelmakers continues to constrain the potential for a meaningful recovery in ore demand. Recent data also showed China imported 108.086 million tons of iron ore and concentrates in July, down 4.09% from June but still 3.5% higher than a year earlier. Meanwhile, slower consumer and producer inflation in China last month pointed to persistent weakness in domestic demand. On the supply side, however, tightening shipments continued to offer some support to prices. Industry data showed global iron ore shipments fell by 1.38 million tons in the week through August 9 to around 32 million tons, while volumes arriving at Chinese ports dropped by 13.1 million tons to 18.9 million tons.
-
----
-
-### 2026-08-13 15:21:56  #其他
-
-【委內瑞拉公共部門縮短工時解電荒】委內瑞拉代總統德爾西·羅德里格斯12日宣佈，鑑於國內用電需求持續攀升、老舊電網不堪重負，政府將縮短公共部門工作時間，以減少電力消耗。羅德里格斯說，委內瑞拉目前的電力消費已達到10年來最高水平，11日全國用電需求達到今年峰值，約為15726兆瓦，而目前供電量僅約12000兆瓦。委公共部門工作人員將實行隔日上班制；同時，除在醫療保健等必要服務部門工作的人員外，實行半天輪班。（新華社）
-
----
-
-### 2026-08-13 15:20:24  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
-
-【Triodos Bank: summer extreme heat could cost EU about €180bn】Dutch Triodos Bank estimates this summer's extreme heat will cause roughly €180bn of economic losses across EU countries, about 1% of 2025 EU GDP; estimate excludes losses linked to fatalities and injuries.
-
----
-
-### 2026-08-13 15:20:18  #其他
-
-蒂森克虜伯首席財務官：我們受到了低水位的影響，但該情況並未對我們向客戶的供貨造成影響。
-
----
-
-### 2026-08-13 15:19:27  #MKT News #DXY #Impact bearish #WTI #Impact bullish #S&P500 #Impact mixed
-
-【UOB economist: US inf may have peaked in Q2】UOB senior economist Alvin Liew said in a report US inf may have peaked in Q2, but energy-price uncertainty leaves a risk of renewed inflation. He said falling energy prices have helped cool inf, but energy remains elevated and a rebound in oil—especially if Middle East tensions intensify—could quickly reverse recent disinflation. UOB projects average US headline CPI and core CPI in 2026 of about 3.5% and 2.8%, respectively.
-
----
-
-### 2026-08-13 15:19:03  #其他
-
-【Alo入華，其海外官網已對中國停售】在Alo正式官宣入華前，國內電商平臺早已存在大量以“Alo”名義銷售的商品。當下，一條Alo海外官網售價約千元的瑜伽褲，在部分店鋪售價不足500元，部分電商品牌甚至存在幾十元產品。開設天貓旗艦店後，Alo的價格也被重新拉回官方體系。與此同時，Alo也在主動切斷舊路徑。記者發現，其海外官網已經無法在中國內地直接下單。Alo客服表示，後續中國消費者可透過中國官方渠道購買。（第一財經）
-
----
-
-### 2026-08-13 15:18:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iranian militia leader says Strait of Hormuz under Iran's control】Hussein Taeb, head of an Iranian militia organization, said on the 13th that the Strait of Hormuz "is under Iran's control and management."
-
----
-
-### 2026-08-13 15:18:43  #焦點 #國際
-
-【伊朗民兵武裝：霍爾木茲海峽在伊朗控制下】伊朗法爾斯通訊社13日報道，伊朗民兵武裝組織負責人侯賽因·塔伊布稱，霍爾木茲海峽“在伊朗的控制和管理之下”。（法爾斯通訊社）
-
----
-
-### 2026-08-13 15:18:00  #Trading Economics #Economy #Spain #Inflation Rate #Importance 1
-
-Spain July Inflation Rate Revised Slightly Up to 3.6% — Spain's annual inflation rate was revised slightly higher to 3.6% in July 2026 from a preliminary estimate of 3.5% and June's reading of 3.2%. This marked the highest rate since May 2024, mainly driven by fuel and lubricant prices for personal vehicles, which increased more than in July 2025. The core inflation rate, excluding unprocessed food and energy, also rose to 3.0% from 2.9% in June, in line with estimates and matching May’s near two-year peak. The EU-harmonized annual rate hit 3.9%, its highest since February 2023, up from 3.6% in June and above the preliminary estimate of 3.8%. On a monthly basis, consumer prices rose by 0.3%, up from the earlier estimate of 0.2%, but easing from the 0.6% increase recorded in June.
-
----
-
-### 2026-08-13 15:17:02  #其他
-
-【開漁在即 瓊州海峽客滾船將於16日17時停運】8月13日，記者從湛江海事局瞭解到，瓊州海峽客滾船將於8月16日17時至17日5時30分全線停運，為即將到來的南海開漁讓出安全通道。屆時，粵桂瓊三地大量漁船將集中出海陸續經過瓊州海峽，海事部門同步開展“護航開漁”行動。（央視新聞）
-
----
-
-### 2026-08-13 15:16:27  #其他
-
-蒂森克虜伯首席財務官：正就調整直接還原工廠支援計劃進行深入談判。
-
----
-
-### 2026-08-13 15:16:23  #MKT News #Market Regions #Greater China #CNH
-
-【China bond futures midday close】At midday close, China bond futures most-active contracts: 2-year (TS) up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.06%, 30-year (TL) up 0.29%.
-
----
-
-### 2026-08-13 15:16:19  #MKT News #Commodities #Energy
-
-Interfax reports Russia is interested in Indian investment in its oil and gas sector.
-
----
-
-### 2026-08-13 15:16:02  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 0.50% Lower — The Shangai Composite Index dropped 20 points or 0.50 percent on Thursday to close at 3927 points. Losses were led by Aluminum Corporation of China (-5.63%), Zijin Mining (-4.14%) and Greenland Holdings (-3.70%). Offsetting the fall, top gainers were Datang Intl (10.02%), Bank Of China (2.06%) and Agricultural Bank of China (1.55%).
-
----
-
-### 2026-08-13 15:15:02  #市場
-
-【國債期貨收盤】 30年期主力合約漲0.29%， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-08-13 15:14:39  #公司
-
-【駐約旦大使郭偉會見約皇家航空執行長】2026年8月12日，駐約旦大使郭偉會見約旦皇家航空執行長薩米爾·馬賈利。郭大使表示，約旦皇家航空享有良好聲譽，航線遍佈全球，是架通約旦和世界的空中走廊。中約航司傳統合作基礎好，未來拓展空間大，是增進兩國人員往來的重要紐帶。馬賈利表示，約航重視完善全球佈局，提升業界競爭力和美譽度，願加強對中國市場的開拓和深耕。
-
----
-
-### 2026-08-13 15:13:43  #國際
-
-市場訊息：俄羅斯對印度在石油和天然氣領域的投資感興趣。
-
----
-
-### 2026-08-13 15:12:22  #Trading Economics #Economy #Lithuania #Current Account #Importance 1
-
-Lithuania Current Account Surplus Widens in June — Lithuania’s current account surplus widened sharply to EUR 437.5 million in June 2026 from EUR 191.5 million in the same month a year earlier. The services account surplus increased to EUR 985.4 million from EUR 791.9 million, while the secondary income account shifted to a EUR 346.5 million surplus from a deficit of EUR 17.9 million. On the other hand, the goods account deficit widened to EUR 695.1 million from EUR 408.5 million, driven largely by a larger increase in imports, which rose by EUR 824.7 million to EUR 4,175.1 million, compared with a EUR 538.1 million increase in exports to EUR 3,480 million. The primary income deficit also rose to EUR 199.4 million from EUR 174 million a year ago.
-
----
-
-### 2026-08-13 15:12:15  #Trading Economics #Economy #Turkey #Current Account #Importance 1
-
-Turkey Current Account Deficit Widens in June — Turkey's current account deficit widened to $4.19 billion in June 2026 from $2.27 billion in the same month a year earlier, but came in below the expected $5.0 billion shortfall. The goods deficit increased to $8.53 billion from $6.52 billion, while the services surplus rose to $6.85 billion from $6.09 billion. The primary income deficit widened to $1.79 billion from $1.76 billion, while the secondary income deficit increased to $0.73 billion from $0.08 billion. Excluding gold and energy, the current account recorded a $1.46 billion surplus. In the first half of the year, the cumulative current account deficit reached $34.55 billion. On an annualized basis, the current account deficit reached $38.9 billion in June, with the goods deficit at $76.5 billion and the services surplus at $63.7 billion.
-
----
-
-### 2026-08-13 15:12:13  #市場
-
-現貨白銀日內跌1%，現報64.61美元/盎司。
-
----
-
-### 2026-08-13 15:11:30  #MKT News #Important #0992.HK #Impact bullish
-
-Lenovo CEO targets US$100 billion in revenue for the current fiscal year.
-
----
-
-### 2026-08-13 15:11:23  #公司
-
-【魯信集團成立新能源投資公司 註冊資本5億】天眼查App顯示，近日，山東省魯信新能源投資有限公司成立，法定代表人為李曉鵬，註冊資本5億人民幣，經營範圍包括以自有資金從事投資活動、風力發電技術服務、儲能技術服務、新興能源技術研發、太陽能發電技術服務、光伏裝置及元器件銷售等，由山東省魯信投資控股集團有限公司全資持股。
-
----
-
-### 2026-08-13 15:10:53  #MKT News #Market Regions #Greater China
-
-【China issues 15th Five-Year plan for safety and emergency equipment industry】The Ministry of Industry and Information Technology and the Ministry of Emergency Management jointly issued a 15th Five-Year development plan for the safety and emergency equipment industry, targeting marked improvements in scale, technology, product quality and application breadth by 2030. The plan aims for key-area industry scale to reach 1.4 tln yuan by 2030, to secure breakthroughs in core technologies and deliver internationally leading flagship products, and to establish 10 competitive industrial clusters and 70 industry-specific parks. It directs wider deployment of high-tech emergency equipment — including increased household and community provisioning — and seeks to cultivate internationally competitive leading firms, specialized "small giant" enterprises and single-product manufacturing champions. The plan details 15 concrete tasks across four pillars: industry innovation, equipment application promotion, scaling industry players, and optimizing the industrial ecosystem.
 
 ---
