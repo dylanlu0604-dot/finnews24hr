@@ -1,7 +1,56 @@
 {
   "date": "2026-08-20",
-  "count": 61,
+  "count": 67,
   "items": [
+    {
+      "id": "5048430",
+      "time": "2026-08-20 00:44:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會就算力衍生品合約的掛牌上市徵求公眾意見。"
+    },
+    {
+      "id": "mkt:01a01ae9-25a9-7aab-909d-d63a194bc34e",
+      "time": "2026-08-20 00:44:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Commodity Futures Trading Commission (CFTC) is seeking public comment on a proposed listing of computing‑power derivatives contracts."
+    },
+    {
+      "id": "mkt:01a01ae8-97ce-7aab-909d-c8517482e32d",
+      "time": "2026-08-20 00:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said Qatar and Saudi Arabia reiterated support for resolving differences through diplomatic means."
+    },
+    {
+      "id": "5048429",
+      "time": "2026-08-20 00:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達首相兼外交部長與沙特外交部長均表示支援透過外交途徑解決分歧。"
+    },
+    {
+      "id": "mkt:01a01ae7-b09f-7aab-909d-c7e5a2787958",
+      "time": "2026-08-20 00:43:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry said the Qatari prime minister and foreign minister met the Saudi foreign minister in Riyadh to discuss efforts to reduce regional tensions."
+    },
+    {
+      "id": "5048428",
+      "time": "2026-08-20 00:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受熱帶低壓影響 廣東徐聞港、海安新港客滾船將於今日停運】受南海熱帶低壓影響，廣東湛江徐聞港、海安新港客滾船將於8月20日16時起停運，復運時間將視氣象情況而定。交通部門提醒，受本次停航影響及需要過海的司機、旅客朋友們，請合理安排好行程，停運期間請勿前往港口。停運期間所購船票順延有效。(央視新聞)"
+    },
     {
       "id": "mkt:01a01ae6-2b0f-7aab-909d-b8f5946359db",
       "time": "2026-08-20 00:41:26",
