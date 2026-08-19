@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-19 11:54:14",
-  "count": 15213,
+  "updated": "2026-08-19 11:58:18",
+  "count": 15215,
   "items": [
+    {
+      "id": "mkt:01a0182a-1ef4-7aab-9089-14396317797b",
+      "time": "2026-08-19 11:56:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv reported that Asia-focused investor PAG plans a new buyout fund; the firm's fifth Asia buyout fund is expected to target about $4 billion."
+    },
+    {
+      "id": "mkt:01a01828-add0-7aab-9089-08451f03491f",
+      "time": "2026-08-19 11:55:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Per Refinitiv, US Tungsten & Antimony Co. was selected by the DOE to negotiate a potential ASCEND-SB contract worth up to 18 mln dlr."
+    },
+    {
+      "id": "mkt:01a01828-385f-7aab-9089-01b6d2da4877",
+      "time": "2026-08-19 11:54:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NHSA issues comprehensive medical security \"15th Five-Year\" plan】China’s National Healthcare Security Administration released the comprehensive medical security 15th Five-Year plan. Targets include keeping basic medical insurance participation at about 95% annually during the plan period; extending long-term care insurance coverage to all pooled jurisdictions; maintaining inpatient reimbursement within the basic medical insurance catalogue at roughly 80% for employee schemes and 70% for urban and rural resident schemes; increasing real-time settlement coverage of basic medical insurance fund expenditures from about 70% in 2025 to above 80%; and ensuring maternity allowances are paid directly to individuals across all pooled jurisdictions."
+    },
+    {
+      "id": "5046977",
+      "time": "2026-08-19 11:54:22",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【《全民醫療保障“十五五”規劃》釋出】國家醫保局今天（19日）釋出《全面醫療保障“十五五”規劃》。“十五五”期間基本醫療保險參保率每年保持在95%左右；長期護理保險制度覆蓋所有統籌地區；基本醫療保險目錄內住院費用基金支付比例職工基本醫療保險穩定在80%左右，城鄉居民基本醫療保險穩定在70%左右；即時結算基本醫療保險基金支出覆蓋率從2025年的70%左右提高到80%以上；所有統籌地區將實現生育津貼直接發放到個人。"
+    },
     {
       "id": "5046976",
       "time": "2026-08-19 11:53:34",
@@ -139428,22 +139465,6 @@
         "市場"
       ],
       "text": "【8月12日午間漲停分析】創業板指半日漲1.73%，算力硬體股集體走強。百花醫藥7連板，秦安股份4連板，一圖看懂>>"
-    },
-    {
-      "id": "5036809",
-      "time": "2026-08-12 11:57:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘇美達、南京新工投資集團成立國際貿易公司】企查查APP顯示，近日，南京國際貿易有限公司成立，法定代表人為黃濤，註冊資本為2000萬元，經營範圍包含：供應鏈管理服務；國際貨物運輸代理；國內貨物運輸代理；海上國際貨物運輸代理等。企查查股權穿透顯示，該公司由南京新工投資集團有限責任公司、蘇美達全資子公司江蘇蘇美達集團有限公司等共同持股。"
-    },
-    {
-      "id": "5036808",
-      "time": "2026-08-12 11:56:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁為股份全自動D2W混合鍵合裝置獲客戶追加訂單】近日，邁為股份全自動D2W（晶片對晶圓）混合鍵合裝置獲得國內客戶追加訂單。"
     }
   ]
 }
