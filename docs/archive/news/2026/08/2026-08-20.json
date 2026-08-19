@@ -1,7 +1,62 @@
 {
   "date": "2026-08-20",
-  "count": 134,
+  "count": 139,
   "items": [
+    {
+      "id": "5048465",
+      "time": "2026-08-20 01:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貨幣市場基金資產在截至8月18日的一週內增加261.8億美元。"
+    },
+    {
+      "id": "5048464",
+      "time": "2026-08-20 01:51:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達擬對其AI資料供應商Mercor進行投資，估值達200億美元】英偉達正在洽談投資資料標註服務商Mercor。這家企業協助該晶片廠商開發開源AI模型，本輪融資對應的企業估值為200億美元。現有投資方General Catalyst正洽談牽頭本輪融資。Mercor過往絕大部分收入來自OpenAI、谷歌、Anthropic等閉源AI模型廠商。但隨著英偉達重點佈局用於對標全球頂尖開源模型的Nemotron開源大模型，來自英偉達的業務收入正在增長。"
+    },
+    {
+      "id": "mkt:01a01b25-0388-7aab-909e-d8ef3fd4c771",
+      "time": "2026-08-20 01:50:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Nvidia (NVDA.O) is in talks to fund its AI data supplier Mercor at a $20 billion valuation."
+    },
+    {
+      "id": "mkt:01a01b24-fe19-7aab-909e-d5ee907e862e",
+      "time": "2026-08-20 01:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "The Fed will release FOMC minutes in 10 minutes."
+    },
+    {
+      "id": "5048463",
+      "time": "2026-08-20 01:48:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "紐柯鋼鐵公司股價下跌近5%，跌至盤中低點。"
+    },
     {
       "id": "5048462",
       "time": "2026-08-20 01:45:06",
