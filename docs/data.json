@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-19 23:14:11",
-  "count": 15466,
+  "updated": "2026-08-19 23:18:25",
+  "count": 15464,
   "items": [
+    {
+      "id": "mkt:01a01a99-65cf-7aab-909c-13619ce0dda8",
+      "time": "2026-08-19 23:17:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reports Iraq's president said the 'neither-war-nor-peace' state must end, that regional integrated security should be achieved by guaranteeing the security of regional states, and that Iraq, as a proponent of regional stability, will support Iran."
+    },
+    {
+      "id": "mkt:01a01a98-e820-7aab-909c-0c2902f392be",
+      "time": "2026-08-19 23:17:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reported Ghalibaf told Iraq’s president the US’ objective is to plunder Gulf states and that its presence in and near the Gulf is aimed at seizing resources. He said Iran and Iraq — and their peoples — now view the US as the primary challenge in regional affairs and that Americans have failed militarily and politically in attempting to impose a third war."
+    },
+    {
+      "id": "te:markets:576553",
+      "time": "2026-08-19 23:15:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Climbs to Two-Month Highs — Platinum futures rose above 1,780 per ounce, reaching a two-month high, as a drop in bond yields from multi-year highs boosted the appeal of non-yielding metals. The US Treasury announced it will increase its buyback operations, pushing borrowing costs lower and boosting demand for non-yielding metals. Meanwhile, uncertainty over shipments through the Strait of Hormuz kept industrial buyers cautious. Rising hybrid vehicle production has provided near-term support for autocatalyst consumption, although markets remain cautious about the broader shift toward EVs, which rose for a fifth consecutive monthly in July. On the supply side, concerns over power disruptions and maintenance bottlenecks at South African mines continued to underpin prices, with the platinum market expected to remain in deficit. Meanwhile, AI and data-center expansion are emerging as potential new sources of demand, with South Africa’s Valterra Platinum estimating AI-related demand could grow fivefold by 2030."
+    },
+    {
+      "id": "5048351",
+      "time": "2026-08-19 23:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中外科學家聯合實現真空漲落對超導的增強效應】記者8月19日從中國科學技術大學獲悉，中國科大教授曾長淦、教授程廣琿領銜的研究團隊，聯合上海交通大學副教授蔣慶東、麻省理工學院教授弗蘭克·維爾切克等合作者，在量子物態調控領域取得重要進展：首次利用暗腔實現了真空漲落增強超導。相關成果19日發表於國際學術期刊《自然》。（新華社）"
+    },
     {
       "id": "mkt:01a01a95-c6f9-7aab-909c-018ac227494b",
       "time": "2026-08-19 23:13:38",
@@ -141448,59 +141483,6 @@
         "Brent"
       ],
       "text": "Oman Environment Authority is monitoring an oil slick from a grounded vessel near Al Kibubriya Island; the oil could reach the coast of Masirah Island within hours."
-    },
-    {
-      "id": "5038004",
-      "time": "2026-08-12 23:18:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼環境局正在監測船隻在吉卜利耶島附近擱淺後產生的海面浮油。浮油或將在未來數小時內抵達馬西拉島海岸。"
-    },
-    {
-      "id": "5038003",
-      "time": "2026-08-12 23:17:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼環境局稱，此次原油洩漏最終或對拉斯馬德拉卡 40 公里海岸線造成影響。"
-    },
-    {
-      "id": "mkt:019ff68c-d5da-7aab-9010-3d8ab4a34cdb",
-      "time": "2026-08-12 23:17:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman Environment Authority says oil spill could affect up to 40 km of coastline at Ras Madrakah."
-    },
-    {
-      "id": "mkt:019ff68c-aabb-7aab-9010-3106c6e84435",
-      "time": "2026-08-12 23:17:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Oman Environment Authority said leaked oil has reached the country's southeastern coast."
-    },
-    {
-      "id": "5038002",
-      "time": "2026-08-12 23:17:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼環境局表示，原油洩漏已抵達該國東南部海岸。"
-    },
-    {
-      "id": "5038001",
-      "time": "2026-08-12 23:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬 6 月經濟活動同比增長 8.23%。"
     }
   ]
 }
