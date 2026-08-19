@@ -1,7 +1,85 @@
 {
   "date": "2026-08-19",
-  "count": 740,
+  "count": 749,
   "items": [
+    {
+      "id": "5046824",
+      "time": "2026-08-19 10:05:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "華虹半導體港股下跌8.0%，A股下跌6.2%。"
+    },
+    {
+      "id": "mkt:01a017c3-3455-7aab-9086-6c0ed7ef59b9",
+      "time": "2026-08-19 10:04:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GCL System Integration ramps mass shipments of BC modules overseas】GCL System Integration has started mass production shipments of BC modules to overseas markets. Since May, efficient BC module orders have continued to land abroad; cumulative contracts in Germany have exceeded 100 MW, and high-end, high-efficiency modules are expanding in Europe’s distributed-generation segment. As of June 30, 2026, the company has 30 GW of high-efficiency N-type module capacity; Hefei and Funing bases have completed partial upgrades to BC production lines."
+    },
+    {
+      "id": "5046823",
+      "time": "2026-08-19 10:03:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胖東來澄清：對刑滿釋放人員招聘不包含性侵犯罪者】近日，胖東來針對“無門檻招聘刑滿釋放人員”作出澄清。胖東來表示，並非無門檻接納，明確排除性侵、嚴重暴力等惡性犯罪前科人員，且刑釋人員需與其他應聘者走完全相同的報名面試流程，並設定6個月的雙向選擇試用期。首批入職人員也被優先安排在倉儲、物流等後臺崗位，以兼顧就業幫扶與安全管理。"
+    },
+    {
+      "id": "5046822",
+      "time": "2026-08-19 10:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒接受審查調查】據河南省紀委監委訊息，河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5046821",
+      "time": "2026-08-19 10:03:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【協鑫整合BC元件海外市場批次出貨】據悉，協鑫整合BC元件海外訂單已實現量產出貨。據瞭解，自今年5月以來，協鑫整合高效BC元件訂單在海外持續落地，其中德國市場累計簽約規模突破100兆瓦，高階高效產品在歐洲分散式賽道實現穩步放量。截至2026年6月底，協鑫整合擁有30GW高效N型元件產能，其中合肥基地與阜寧基地已完成部分BC產線的升級改造。"
+    },
+    {
+      "id": "5046820",
+      "time": "2026-08-19 10:02:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【減速器板塊大幅調整，巨輪智慧等多股跌停】減速器板塊大幅調整，巨輪智慧、中大力德、襄陽軸承跌停，豐光精密、綠的諧波、昊志機電等跌超10%。"
+    },
+    {
+      "id": "5046819",
+      "time": "2026-08-19 10:02:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指下跌1%至6384.12點。"
+    },
+    {
+      "id": "5046818",
+      "time": "2026-08-19 10:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行 兩岸青年交流季”上海站活動。（日月譚天）"
+    },
+    {
+      "id": "mkt:01a017c0-c371-7aab-9086-633648e9bc5f",
+      "time": "2026-08-19 10:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Beijing Stock Exchange 50 Index fell more than 3%, with only 2 constituents advancing."
+    },
     {
       "id": "5046817",
       "time": "2026-08-19 10:01:04",
