@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-19 12:14:41",
-  "count": 15209,
+  "updated": "2026-08-19 12:18:44",
+  "count": 15206,
   "items": [
+    {
+      "id": "5046996",
+      "time": "2026-08-19 12:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet 準備以接近 7% 的創紀錄利率發行長期澳元債券。"
+    },
+    {
+      "id": "5046995",
+      "time": "2026-08-19 12:13:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：將長期護理保險制度覆蓋統籌地區數量等納入“十五五”時期發展指標】國家醫保局解讀《全民醫療保障“十五五”規劃》。其中提到，將基本醫療保險參保率、基本醫療保險目錄內住院費用基金支付比例、公立醫療機構透過省級平臺採購藥品和高值醫用耗材金額佔比繼續納入“十五五”時期發展目標，確保規劃實施的連續性。同時，結合“十五五”時期改革發展任務和基金可持續發展要求，將長期護理保險制度覆蓋統籌地區數量、職工和居民基本醫療保險基金累計結餘可支付月數納入“十五五”時期發展指標。"
+    },
     {
       "id": "5046994",
       "time": "2026-08-19 12:13:35",
@@ -139362,60 +139378,6 @@
         "公司"
       ],
       "text": "【永達股份：公司生產的產品暫未應用於人形機器人領域】永達股份在互動平臺表示，公司控股子公司金源裝備主營業務為高速過載齒輪鍛件的研發、生產和銷售，公司生產的產品暫未應用於人形機器人領域。"
-    },
-    {
-      "id": "5036837",
-      "time": "2026-08-12 12:18:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【波士頓聯儲銀行行長柯林斯對9月加息持開放態度】據英國《金融時報》週三報道，美國波士頓聯邦儲備銀行行長蘇珊·柯林斯表示，如果通脹率持續居高不下，她將支援9月加息；目前，隨著伊朗戰爭加劇了生活成本壓力，美國低收入群體正艱難地“勉強維持生計”。柯林斯在接受採訪時表示，如果資料顯示有必要，她願意支援最早在9月加息。“我確實認為未來幾個月的經濟形勢可能需要收緊貨幣政策，在這種情況下，我準備加息，”她說。這位波士頓聯邦儲備銀行行長目前並非美聯儲負責制定利率的聯邦公開市場委員會（FOMC）的投票委員。"
-    },
-    {
-      "id": "5036836",
-      "time": "2026-08-12 12:17:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將歐萊雅目標股價從365歐元上調至375歐元。"
-    },
-    {
-      "id": "mkt:019ff430-389d-7aab-9000-76a27ed21133",
-      "time": "2026-08-12 12:17:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【FT: U.S. vice president asked Ukraine to halt attacks on tankers using Russian ports; Kyiv complied】The Financial Times reports Ukrainian officials said Kyiv ceased intensive drone strikes on tankers using key Black Sea ports after a July 31 call in which U.S. vice president Vance asked President Zelenskiy to stop. Attacks had targeted tankers calling at the Caspian Pipeline Consortium (CPC) terminal that move Kazakh crude to Novorossiysk; U.S. officials were said to be alarmed that the strikes were destabilising oil markets and harming U.S. commercial interests. Ukrainian and other sources say Kyiv has agreed not to target CPC infrastructure or non‑Russian vessels provided those ships are not under Ukrainian sanctions and are not carrying Russian oil or other Russian cargo; officials say a mechanism was set up to enforce the arrangement and there have been no further attacks near the CPC terminal since the call."
-    },
-    {
-      "id": "5036835",
-      "time": "2026-08-12 12:16:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傳星巴克中國烘焙產品將由百勝中國代工 百勝中國暫無回應】8月12日午間訊息，據媒體報道，原山姆中國首席採購官張青已於近期加入博裕資本，擔任運營合夥人，並將參與博裕與星巴克中國合資公司的業務運營。報道稱，張青近期開始規劃星巴克供應鏈改造的相關戰略。其中，星巴克中國的烘焙部分將由百勝中國代工，紙杯、吸管、抹茶粉將由蜜雪冰城代工。對此訊息，截至發稿，百勝中國暫無官方回應。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ff42e-32df-7aab-9000-6bfd9c1f1c45",
-      "time": "2026-08-12 12:14:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Star Stocks",
-        "Tencent",
-        "Hang Seng Index",
-        "Impact bearish",
-        "00700.HK",
-        "01698.HK"
-      ],
-      "text": "【Hong Kong midday: Hang Seng down 1.17%, tech names under pressure】Hang Seng extended yesterday's weakness, opening lower and sliding as much as 300 points intraday to a low of 25,323.33; it stood at 25,352.13 at the midday break, down 1.17%. Hang Seng Tech fell 1.17% to 4,767.88. Market turnover was HKD 117.01 bln. Sector movers: storage chips and optical-communications hardware outperformed; gold miners recovered; innovative-drug names stayed active; internet and tech names were broadly weak. Notable stock moves: Yangtze Optical Fibre & Cable (06869.HK) +7.86%, Zai Lab (09688.HK) +5.72%, GigaDevice Semiconductor (03986.HK) +5.61%, Chifeng Gold Mining (06693.HK) +3.14%; Tencent Music (01698.HK) -13.59% after results, Tencent Holdings (00700.HK) -2.93%."
     }
   ]
 }
