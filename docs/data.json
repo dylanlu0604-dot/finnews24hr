@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-20 06:27:06",
+  "updated": "2026-08-20 06:30:57",
   "count": 15680,
   "items": [
+    {
+      "id": "mkt:01a01c25-a149-7aab-90a2-dd50718561db",
+      "time": "2026-08-20 06:30:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. expands Treasury buybacks, called a 'shot in the arm'; Asian stocks set to rebound Thursday】Asian equities looked set to rebound after the U.S. announced expanded Treasury buybacks. In early Asian trade U.S. stock index futures ticked higher. On Wednesday the majority of S&P 500 components rose despite weakness in chipmakers. Japan, South Korea and Australia index futures pointed to higher opens, which would end a two-day slide for regional benchmarks. Elevated U.S. Treasury yields have kept borrowing costs high, weighing on growth and adding political risk for Trump and Republicans ahead of the November midterms. Investors demanding higher returns to offset inf risk triggered the recent bond selloff; markets are watching whether the Treasury measure will lower yields. Matt Maley, chief market strategist at Miller Tabak +, said the move reflects government concern about the bond market and is a 'shot in the arm' that could lift risk assets in the short term unless investors view it as a sign of economic weakness."
+    },
+    {
+      "id": "te:markets:576615",
+      "time": "2026-08-20 06:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Drops by 2.83% — Top commodity losers are Gasoline (-2.83%) and Germany Natural Gas THE (-0.52%). Gains are led by Propane (1.38%), Crude Oil WTI (0.92%), Liquefied Natural Gas Japan Korea (0.91%) and Brent Crude Oil (0.58%)."
+    },
+    {
+      "id": "5048672",
+      "time": "2026-08-20 06:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Hudson River Trading第二季度交易收入創紀錄 7月實現盈利】Hudson River Trading第二季度交易收入達到創紀錄的114億美元，並在7月實現盈利，扛住了AI股票暴跌的衝擊。知情人士透露，HRT季度交易收入較去年同期增長超過三倍，季度淨利潤為74億美元。第二季度調整後息稅折舊攤銷前利潤約為80億美元，較去年同期的17.5億美元增長超過350%。知情人士補充稱，HRT高管在與債券持有人的電話會議上表示，儘管7月市場受到Situational Awareness相關問題影響，但HRT並未直接投資於該基金，並且當月仍實現盈利。"
+    },
+    {
+      "id": "5048671",
+      "time": "2026-08-20 06:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios記者：敘利亞過渡政府外交部長希巴尼在八份書面答覆中的一份中表示，土耳其無意在該地設立基地，也不打算在此建立土耳其永久軍事存在或部署土耳其軍隊。"
+    },
     {
       "id": "5048670",
       "time": "2026-08-20 06:24:49",
@@ -143683,50 +143718,6 @@
         "其他"
       ],
       "text": "哥倫比亞總統德拉埃斯普列利亞宣佈地震後（該國）進入經濟緊急狀態。"
-    },
-    {
-      "id": "mkt:019ff819-9f5e-7aab-9013-ef53aede1c05",
-      "time": "2026-08-13 06:30:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Oil slips after five-day rally; traders watch Strait of Hormuz as IEA warns 1.8 mln bpd shortfall】Oil eased after a five-day rally, with WTI sliding below $82/bbl and Brent briefly dipping under $87 after a cumulative five-day gain of about 11%. Traders are waiting for signs of progress on reopening the Strait of Hormuz; there has been little movement and Trump said the US has \"complete control\" of the waterway. The IEA said that with the US‑Iran war continuing the global oil market faces roughly a 1.8 mln bpd supply gap this quarter—more than double its prior estimate—and warned 2026 could see the largest shortfall in five years. The American Automobile Association said US gasoline and diesel prices are at their highest for this time of year."
-    },
-    {
-      "id": "te:markets:574830",
-      "time": "2026-08-13 06:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Germany Natural Gas THE Gains by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas UK (3.13%) and Natural Gas EU (2.50%). Biggest losers are Methanol (-2.25%), Naphtha (-1.56%), Crude Oil WTI (-0.57%) and Brent Crude Oil (-0.47%)."
-    },
-    {
-      "id": "mkt:019ff818-5ae5-7aab-9013-e06d7b321ffb",
-      "time": "2026-08-13 06:29:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Codelco abandons copper output growth target after mine and project setbacks】Chile's state miner Codelco has abandoned a plan to raise this year's copper output to 1.34 mln t from last year's revised 1.307 mln t and now expects production to decline, sources said. The company ceded the world's top supplier spot to BHP last year; another annual drop would compound decades of weak output and soaring debt. Surging demand from data centers and electric vehicles is increasing development difficulty and costs, and Codelco's efforts to reform ageing assets have shown little progress, underscoring broader industry supply challenges."
-    },
-    {
-      "id": "5038174",
-      "time": "2026-08-13 06:29:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特：預計增產將在美國創造數千個直接和間接就業崗位。"
     }
   ]
 }

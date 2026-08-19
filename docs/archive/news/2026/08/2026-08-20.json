@@ -1,7 +1,42 @@
 {
   "date": "2026-08-20",
-  "count": 437,
+  "count": 441,
   "items": [
+    {
+      "id": "mkt:01a01c25-a149-7aab-90a2-dd50718561db",
+      "time": "2026-08-20 06:30:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. expands Treasury buybacks, called a 'shot in the arm'; Asian stocks set to rebound Thursday】Asian equities looked set to rebound after the U.S. announced expanded Treasury buybacks. In early Asian trade U.S. stock index futures ticked higher. On Wednesday the majority of S&P 500 components rose despite weakness in chipmakers. Japan, South Korea and Australia index futures pointed to higher opens, which would end a two-day slide for regional benchmarks. Elevated U.S. Treasury yields have kept borrowing costs high, weighing on growth and adding political risk for Trump and Republicans ahead of the November midterms. Investors demanding higher returns to offset inf risk triggered the recent bond selloff; markets are watching whether the Treasury measure will lower yields. Matt Maley, chief market strategist at Miller Tabak +, said the move reflects government concern about the bond market and is a 'shot in the arm' that could lift risk assets in the short term unless investors view it as a sign of economic weakness."
+    },
+    {
+      "id": "te:markets:576615",
+      "time": "2026-08-20 06:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Drops by 2.83% — Top commodity losers are Gasoline (-2.83%) and Germany Natural Gas THE (-0.52%). Gains are led by Propane (1.38%), Crude Oil WTI (0.92%), Liquefied Natural Gas Japan Korea (0.91%) and Brent Crude Oil (0.58%)."
+    },
+    {
+      "id": "5048672",
+      "time": "2026-08-20 06:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Hudson River Trading第二季度交易收入創紀錄 7月實現盈利】Hudson River Trading第二季度交易收入達到創紀錄的114億美元，並在7月實現盈利，扛住了AI股票暴跌的衝擊。知情人士透露，HRT季度交易收入較去年同期增長超過三倍，季度淨利潤為74億美元。第二季度調整後息稅折舊攤銷前利潤約為80億美元，較去年同期的17.5億美元增長超過350%。知情人士補充稱，HRT高管在與債券持有人的電話會議上表示，儘管7月市場受到Situational Awareness相關問題影響，但HRT並未直接投資於該基金，並且當月仍實現盈利。"
+    },
+    {
+      "id": "5048671",
+      "time": "2026-08-20 06:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios記者：敘利亞過渡政府外交部長希巴尼在八份書面答覆中的一份中表示，土耳其無意在該地設立基地，也不打算在此建立土耳其永久軍事存在或部署土耳其軍隊。"
+    },
     {
       "id": "5048670",
       "time": "2026-08-20 06:24:49",
