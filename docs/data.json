@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-19 13:46:12",
-  "count": 15236,
+  "updated": "2026-08-19 13:50:07",
+  "count": 15237,
   "items": [
+    {
+      "id": "5047067",
+      "time": "2026-08-19 13:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【殷勇：上半年北京市工業機器人、服務機器人產量分別增長76%和2.3倍】8月19日，2026世界機器人大會在京開幕。北京市市長殷勇在致辭中介紹，北京設立100億的機器人領域高精尖產業投資基金，已經帶動社會資本投入超過530億元。目前北京市擁有機器人企業近千家，7傢俱身智慧企業新晉獨角獸，數量居全國首位。殷勇指出，北京已建設具身智慧機器人創新中心和5家新型的研發機構，匯聚各類創新主體力量，強化核心技術攻關，在機器人本體、開源大腦、靈巧手等領域湧現出一大批標誌性的技術和產品。全面佈局14種人形機器人關鍵部件組成，建成年產能2萬臺的整機代工生產線。今年上半年工業機器人、服務機器人產量分別增長76%和2.3倍。殷勇表示，在各國家部委等的大力支援下，北京打造了世界機器人大會、世界人形機器人運動會、人形機器人半程馬拉松等“兩會一賽”的重要平臺。北京正是以這些標誌性的活動，引領行業規則的制定和標準的定義，機器人領域九成以上的國家標準由北京創新主體牽頭和參與編寫。（央廣網）"
+    },
+    {
+      "id": "mkt:01a0188e-fb5f-7aab-908a-879a3f2ac07b",
+      "time": "2026-08-19 13:46:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI demand lifts 1H operating profit of South Korean listed firms nearly 350% YoY】Korea Exchange data showed KOSPI constituent firms (720 companies) posted record 1H results driven by global demand for AI semiconductors. Consolidated operating profit rose 348.5% YoY to 275 trillion won (≈$195.2bn) in Jan–Jun. Consolidated revenue rose 34.5% YoY to 1,070 trillion won. Net profit jumped 330% YoY to 2,915 trillion won."
+    },
+    {
+      "id": "te:markets:576339",
+      "time": "2026-08-19 13:46:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 0.5% Higher on Earnings Results Boost — New Zealand's stocks rose 63 points, or 0.5%, to close at 13,930 on Wednesday, marking their highest level since August 6 and extending gains from the previous session, mainly buoyed by gains in healthcare and communication services. Positive earnings results from some companies lifted sentiment, while investors braced for further releases. However, a downbeat session on Wall Street overnight, due to a selloff in chipmaker-related stocks, rising Treasury yields, and higher oil prices, capped gains. On the data front, New Zealand's input and output prices rose 2.9% and 1.6%, respectively, quarter-on-quarter in Q2, marking the fastest increases since Q1 2025. EBOS Group surged 8.0% after reporting a 4.7% rise in net profit for the full year ended June 30, 2026, while Fletcher Building jumped 6.2% after the company recorded a profit following a loss in the previous quarter. Meanwhile, Spark NZ rose 3.3% ahead of the release of its earnings results on Thursday."
+    },
     {
       "id": "mkt:01a0188b-f802-7aab-908a-79aa236aea57",
       "time": "2026-08-19 13:43:41",
@@ -139657,22 +139687,6 @@
         "國際"
       ],
       "text": "印度證券交易委員會主席：將在10天內釋出檔案應對散戶虧損問題。"
-    },
-    {
-      "id": "5036908",
-      "time": "2026-08-12 13:47:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿拉伯鑽井公司：預計鑽井平臺恢復運營後，海上鑽井船隊利用率將在2026年第三季度末達到100%。"
-    },
-    {
-      "id": "5036907",
-      "time": "2026-08-12 13:47:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "大韓航空和韓亞航空獲准於12月17日合併。"
     }
   ]
 }
