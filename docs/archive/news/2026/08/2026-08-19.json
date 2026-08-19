@@ -1,7 +1,259 @@
 {
   "date": "2026-08-19",
-  "count": 1285,
+  "count": 1312,
   "items": [
+    {
+      "id": "mkt:01a018c1-5e8c-7aab-908d-04ce582e74a8",
+      "time": "2026-08-19 14:42:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Multiple robot ETFs extend losses to 9%】Humanoid-robot segment continued to weaken; Lvde Xiebo fell more than 18%. Robot ETFs managed by Fullgoal, GF Fund, Penghua and E Fund each declined over 9%."
+    },
+    {
+      "id": "5047155",
+      "time": "2026-08-19 14:41:51",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【多隻機器人ETF跌幅擴大至9%】人形機器人板塊持續走弱，綠的諧波跌超18%。機器人ETF富國（159272）、機器人ETF廣發（159050）、機器人ETF鵬華（159278）、機器人ETF易方達（159530）等多隻機器人ETF跌超9%。"
+    },
+    {
+      "id": "5047154",
+      "time": "2026-08-19 14:41:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士擬回購 40 萬億韓元股票。"
+    },
+    {
+      "id": "mkt:01a018c0-d37e-7aab-908c-ff6c951d3bdb",
+      "time": "2026-08-19 14:41:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi previews next-generation humanoid robot: ~1.7m, 66kg, 66 DOF】Xiaomi says its next-generation humanoid robot is about 1.7m tall, weighs 66kg and has 66 degrees of freedom (DOF), with roughly half the DOF concentrated in the hands. The unit is at prototype stage and will be exhibited in China first, then shown in Europe. In 2022 Xiaomi unveiled a full-size humanoid robot Tieda (1.77m, 52kg, 21 joint DOF), which debuted about two months before Tesla’s Optimus prototype; Xiaomi has issued few public robotics updates since."
+    },
+    {
+      "id": "5047153",
+      "time": "2026-08-19 14:41:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "維珍航空假期發言人：我們正在仔細審查英國競爭與市場管理局(CMA)提出的問題，並將全力配合其調查。"
+    },
+    {
+      "id": "5047152",
+      "time": "2026-08-19 14:41:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：港交所第二季業績表現穩健，目標價495港元】花旗發表報告指，港交所第二季股東應占溢利54億港元，環比升4%、同比升21%，較市場及該行預期分別高出13%及7%。核心收入環比升5%、同比升31%，較市場預期高8%，受惠股本證券成交強勁。投資收益13億港元，環比持平、同比跌17%，較市場預期高23%，惟扣除期內2.9億港元非上市股權投資收益後，投資收益則較市場預期低5%。中期股息每股7.43港元，派息比率維持約89%。花旗認為業績表現穩健，有助提振市場對該股情緒，目標價495港元，評級“買入”。"
+    },
+    {
+      "id": "mkt:01a018c0-268f-7aab-908c-f3656ca058a2",
+      "time": "2026-08-19 14:40:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03308.HK",
+        "Impact bearish"
+      ],
+      "text": "Zhongji Xuchuang A shares fell more than 10% on turnover near 30 bln yuan; H shares (03308.HK) slid over 13%."
+    },
+    {
+      "id": "mkt:01a018bf-c3e7-7aab-908c-e8d1a3ec0882",
+      "time": "2026-08-19 14:40:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said it struck fuel tanks at Ukraine's Chornomorsk port and a military dry-cargo ship in the Black Sea."
+    },
+    {
+      "id": "5047151",
+      "time": "2026-08-19 14:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【波士頓科學新一代前列腺增生治療裝置Rezūm EVO率先在華獲批】波士頓科學的新一代熱蒸汽治療裝置Rezūm EVO正式獲得中國國家藥監局批准，用於治療前列腺增生。中國也成為該產品全球首批獲批市場，該產品將在波士頓科學的上海臨港工廠進行本土化生產，並專門供應中國市場。"
+    },
+    {
+      "id": "5047150",
+      "time": "2026-08-19 14:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星動紀元物流機器人現場揀快遞，最快2000件/小時】今日，世界機器人大會（WRC 2026）於北京北人亦創國際會展中心開幕。開展首日，星動紀元研發的物流分揀具身機器人上演了高效分揀快遞的一幕。在勻速執行的快遞傳送帶上，機器人能夠自主識別不同規格、大小、材質和重量的快遞包裹，高效完成抓取、翻面、放置到傳送帶等一系列供包作業。“這款機器人目前分揀快遞的速度能達到1200件/小時，內部極限測試能夠達到2000件/小時。”現場人員表示。（新浪科技）"
+    },
+    {
+      "id": "5047149",
+      "time": "2026-08-19 14:39:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創盤中跌超10%】A股中際旭創盤中跌10.04%，現報888.88元。"
+    },
+    {
+      "id": "mkt:01a018bd-f80b-7aab-908c-e48de5921e7c",
+      "time": "2026-08-19 14:38:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's foreign ministry said it was \"deeply regrettable\" that the United States had sanctioned the International Criminal Court and its head, Akane Tomoko."
+    },
+    {
+      "id": "5047148",
+      "time": "2026-08-19 14:37:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華福證券：維持今世緣“買入”評級，經營及盈利趨勢有望進一步向上】華福證券研報指出，今世緣邊際改善，企穩初顯。上半年實現歸母淨利潤20.82億元，同比-6.60%；單Q2實現歸母淨利潤6.97億元，同比+19.17%。經營資料呈現明顯的邊際改善特徵。公司產品矩陣清晰。分品牌運作持續完善。深耕品牌分層，國緣V系列深耕高階圈層守護品牌價值；國緣開系鎖定江蘇300-600元主流價格帶守住市場份額；國緣淡雅深化消費者溝通實現持續放量；今世緣聚焦喜慶品牌標籤穩住基本盤；高溝品牌以正能量人文內容塑造品牌“標樣精神”。公司總體上堅持省內夯實基本盤、省外培育新增長極、新興渠道補充增量的思路，市場攻堅有序推進。公司憑藉自身向上的品牌勢能、逐步精細化的運營體系、以及前期主動調整的基礎，正明顯走向企穩修復狀態。隨著下半年消費需求的改善，公司經營及盈利趨勢有望進一步向上，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a018bd-14fa-7aab-908c-dfe7ef1b3e74",
+      "time": "2026-08-19 14:37:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukraine's Kherson regional governor said a Russian drone strike on a bus killed four people."
+    },
+    {
+      "id": "5047147",
+      "time": "2026-08-19 14:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭赫爾松州州長稱，俄羅斯無人機襲擊一輛公交車已造成四人死亡。"
+    },
+    {
+      "id": "5047146",
+      "time": "2026-08-19 14:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星展：上調中芯國際目標價至96港元，維持“買入”評級】星展發表報告指，中芯國際次季收入30.1億美元，同比升36%、環比升20%，較市場預期高5%；毛利率25.3%，遠超市場預期約4個百分點，受惠平均售價上升、產能利用率提升及產品組合改善。管理層預期第三季收入環比增長2%至4%，同比中位數計同比增長約30%，大致符合市場預期；毛利率指引26%至28%，高於市場預期約4.3個百分點。星展上調中芯2026至2028年各年盈利預測介乎13.4%至16.5%，目標價由90港元上調至96港元，維持“買入”評級。"
+    },
+    {
+      "id": "5047145",
+      "time": "2026-08-19 14:36:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本外務省表示，日本將繼續致力於在國際社會強化法治。"
+    },
+    {
+      "id": "5047144",
+      "time": "2026-08-19 14:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本外務省表示，日本一貫支援國際刑事法院起訴並懲處國際社會關注的最嚴重罪行。"
+    },
+    {
+      "id": "5047143",
+      "time": "2026-08-19 14:35:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊策略師上調歐洲全年盈利預期】巴克萊策略師目前預測，2026年歐洲企業盈利將大增16%，此前預期為12%，理由是預計下半年盈利增長動能將增強。由馬格什・庫馬爾・錢德拉塞卡蘭與埃馬紐埃爾・考領銜的團隊表示，分析師上調盈利預期的節奏正向美國靠攏，各行業盈利改善的覆蓋面也在擴大。“名義經濟增長走高仍是歐洲企業盈利的重要利好，油價形成支撐，匯率也轉為小幅利好因素。”但他們同時警示，能源價格仍是一大不確定變數，滯脹風險可能會令盈利預估承壓。"
+    },
+    {
+      "id": "5047142",
+      "time": "2026-08-19 14:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本：美國對國際刑事法院院長實施制裁非常令人遺憾。"
+    },
+    {
+      "id": "mkt:01a018ba-a5bf-7aab-908c-d59790d02b25",
+      "time": "2026-08-19 14:34:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【BofA: Optimism toward Europe back at pre-Iran-war highs】BofA says a surge in AI-driven capex and a stronger economic outlook have tilted investor preference toward European equities over US names. Its survey found ~47% of fund managers expect European stocks to slightly outperform US stocks over the next 12 months — the highest since February when the Iran war began. About 97% of respondents expect Europe to avoid recession, the strongest reading since 2007. More than three-quarters said further equity gains would be driven mainly by upward revisions to corporate earnings. BofA strategist Andreas Bruckner said the bank is refocusing on pro‑Europe themes that were temporarily stalled by the Iran war."
+    },
+    {
+      "id": "5047141",
+      "time": "2026-08-19 14:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眸深智慧完成近5億元Pre-A+輪融資】眸深智慧8月19日訊息，近日，眸深智慧正式完成近5億元Pre-A+輪融資。本輪由頭部國資基金深報一本基金、東方證券、陝西省高新技術產業投資有限公司，產業投資人安宇基金、天盟投資、建元天華聯合投資；以及老股東創合匯資本、徐匯資本、庚辛資本超額追投。"
+    },
+    {
+      "id": "5047140",
+      "time": "2026-08-19 14:34:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達40億港元。"
+    },
+    {
+      "id": "5047139",
+      "time": "2026-08-19 14:32:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓智庫上調今年韓國GDP增速預期至3.2%】韓國開發研究院（KDI）19日釋出《2026年8月經濟展望更新報告》，上調今年韓國國內生產總值（GDP）增速預期至3.2%，較5月預期值提升0.7個百分點，其中半導體產業的貢獻度達0.6個百分點。"
+    },
+    {
+      "id": "mkt:01a018b8-e013-7aab-908c-cc73bfe922d9",
+      "time": "2026-08-19 14:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks close lower; South Korea down nearly 6%】On Aug. 19, Japan's Nikkei 225 closed down 2,134.31 points (-3.16%) at 65,326.42. South Korea's KOSPI closed down 398.66 points (-5.8%) at 6,471.17."
+    },
+    {
+      "id": "mkt:01a018b8-983f-7aab-908c-c6708e16527c",
+      "time": "2026-08-19 14:32:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Shenzhen Composite Index fell more than 5%, ChiNext Index fell 6.3%, Shanghai Composite fell 2.6%, STAR 50 Index fell more than 7%."
+    },
+    {
+      "id": "5047138",
+      "time": "2026-08-19 14:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【小米新一代人形機器人劇透 雙足、1.7米左右、全身66個自由度】8月19日下午，記者從小米方面瞭解到，小米即將首次展示的下一代人形機器人身高約為1.7米，體重66公斤，全身有66個自由度，其中一半自由度集中在手部。目前，該款機器人為樣機階段，國內首展後會在歐洲展出。2022年，小米釋出全尺寸人形機器人“鐵大”，位元斯拉Optimus原型機亮相早了近兩個月。鐵大身高1.77米，體重52公斤，擁有21個關節自由度。此後小米少有機器人方面的訊息露出。（每日經濟新聞）"
+    },
     {
       "id": "5047137",
       "time": "2026-08-19 14:32:04",

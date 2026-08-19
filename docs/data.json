@@ -1,7 +1,259 @@
 {
-  "updated": "2026-08-19 14:32:44",
-  "count": 15266,
+  "updated": "2026-08-19 14:42:40",
+  "count": 15269,
   "items": [
+    {
+      "id": "mkt:01a018c1-5e8c-7aab-908d-04ce582e74a8",
+      "time": "2026-08-19 14:42:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Multiple robot ETFs extend losses to 9%】Humanoid-robot segment continued to weaken; Lvde Xiebo fell more than 18%. Robot ETFs managed by Fullgoal, GF Fund, Penghua and E Fund each declined over 9%."
+    },
+    {
+      "id": "5047155",
+      "time": "2026-08-19 14:41:51",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【多隻機器人ETF跌幅擴大至9%】人形機器人板塊持續走弱，綠的諧波跌超18%。機器人ETF富國（159272）、機器人ETF廣發（159050）、機器人ETF鵬華（159278）、機器人ETF易方達（159530）等多隻機器人ETF跌超9%。"
+    },
+    {
+      "id": "5047154",
+      "time": "2026-08-19 14:41:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士擬回購 40 萬億韓元股票。"
+    },
+    {
+      "id": "mkt:01a018c0-d37e-7aab-908c-ff6c951d3bdb",
+      "time": "2026-08-19 14:41:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi previews next-generation humanoid robot: ~1.7m, 66kg, 66 DOF】Xiaomi says its next-generation humanoid robot is about 1.7m tall, weighs 66kg and has 66 degrees of freedom (DOF), with roughly half the DOF concentrated in the hands. The unit is at prototype stage and will be exhibited in China first, then shown in Europe. In 2022 Xiaomi unveiled a full-size humanoid robot Tieda (1.77m, 52kg, 21 joint DOF), which debuted about two months before Tesla’s Optimus prototype; Xiaomi has issued few public robotics updates since."
+    },
+    {
+      "id": "5047153",
+      "time": "2026-08-19 14:41:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "維珍航空假期發言人：我們正在仔細審查英國競爭與市場管理局(CMA)提出的問題，並將全力配合其調查。"
+    },
+    {
+      "id": "5047152",
+      "time": "2026-08-19 14:41:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：港交所第二季業績表現穩健，目標價495港元】花旗發表報告指，港交所第二季股東應占溢利54億港元，環比升4%、同比升21%，較市場及該行預期分別高出13%及7%。核心收入環比升5%、同比升31%，較市場預期高8%，受惠股本證券成交強勁。投資收益13億港元，環比持平、同比跌17%，較市場預期高23%，惟扣除期內2.9億港元非上市股權投資收益後，投資收益則較市場預期低5%。中期股息每股7.43港元，派息比率維持約89%。花旗認為業績表現穩健，有助提振市場對該股情緒，目標價495港元，評級“買入”。"
+    },
+    {
+      "id": "mkt:01a018c0-268f-7aab-908c-f3656ca058a2",
+      "time": "2026-08-19 14:40:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03308.HK",
+        "Impact bearish"
+      ],
+      "text": "Zhongji Xuchuang A shares fell more than 10% on turnover near 30 bln yuan; H shares (03308.HK) slid over 13%."
+    },
+    {
+      "id": "mkt:01a018bf-c3e7-7aab-908c-e8d1a3ec0882",
+      "time": "2026-08-19 14:40:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said it struck fuel tanks at Ukraine's Chornomorsk port and a military dry-cargo ship in the Black Sea."
+    },
+    {
+      "id": "5047151",
+      "time": "2026-08-19 14:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【波士頓科學新一代前列腺增生治療裝置Rezūm EVO率先在華獲批】波士頓科學的新一代熱蒸汽治療裝置Rezūm EVO正式獲得中國國家藥監局批准，用於治療前列腺增生。中國也成為該產品全球首批獲批市場，該產品將在波士頓科學的上海臨港工廠進行本土化生產，並專門供應中國市場。"
+    },
+    {
+      "id": "5047150",
+      "time": "2026-08-19 14:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星動紀元物流機器人現場揀快遞，最快2000件/小時】今日，世界機器人大會（WRC 2026）於北京北人亦創國際會展中心開幕。開展首日，星動紀元研發的物流分揀具身機器人上演了高效分揀快遞的一幕。在勻速執行的快遞傳送帶上，機器人能夠自主識別不同規格、大小、材質和重量的快遞包裹，高效完成抓取、翻面、放置到傳送帶等一系列供包作業。“這款機器人目前分揀快遞的速度能達到1200件/小時，內部極限測試能夠達到2000件/小時。”現場人員表示。（新浪科技）"
+    },
+    {
+      "id": "5047149",
+      "time": "2026-08-19 14:39:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創盤中跌超10%】A股中際旭創盤中跌10.04%，現報888.88元。"
+    },
+    {
+      "id": "mkt:01a018bd-f80b-7aab-908c-e48de5921e7c",
+      "time": "2026-08-19 14:38:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's foreign ministry said it was \"deeply regrettable\" that the United States had sanctioned the International Criminal Court and its head, Akane Tomoko."
+    },
+    {
+      "id": "5047148",
+      "time": "2026-08-19 14:37:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華福證券：維持今世緣“買入”評級，經營及盈利趨勢有望進一步向上】華福證券研報指出，今世緣邊際改善，企穩初顯。上半年實現歸母淨利潤20.82億元，同比-6.60%；單Q2實現歸母淨利潤6.97億元，同比+19.17%。經營資料呈現明顯的邊際改善特徵。公司產品矩陣清晰。分品牌運作持續完善。深耕品牌分層，國緣V系列深耕高階圈層守護品牌價值；國緣開系鎖定江蘇300-600元主流價格帶守住市場份額；國緣淡雅深化消費者溝通實現持續放量；今世緣聚焦喜慶品牌標籤穩住基本盤；高溝品牌以正能量人文內容塑造品牌“標樣精神”。公司總體上堅持省內夯實基本盤、省外培育新增長極、新興渠道補充增量的思路，市場攻堅有序推進。公司憑藉自身向上的品牌勢能、逐步精細化的運營體系、以及前期主動調整的基礎，正明顯走向企穩修復狀態。隨著下半年消費需求的改善，公司經營及盈利趨勢有望進一步向上，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a018bd-14fa-7aab-908c-dfe7ef1b3e74",
+      "time": "2026-08-19 14:37:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukraine's Kherson regional governor said a Russian drone strike on a bus killed four people."
+    },
+    {
+      "id": "5047147",
+      "time": "2026-08-19 14:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭赫爾松州州長稱，俄羅斯無人機襲擊一輛公交車已造成四人死亡。"
+    },
+    {
+      "id": "5047146",
+      "time": "2026-08-19 14:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星展：上調中芯國際目標價至96港元，維持“買入”評級】星展發表報告指，中芯國際次季收入30.1億美元，同比升36%、環比升20%，較市場預期高5%；毛利率25.3%，遠超市場預期約4個百分點，受惠平均售價上升、產能利用率提升及產品組合改善。管理層預期第三季收入環比增長2%至4%，同比中位數計同比增長約30%，大致符合市場預期；毛利率指引26%至28%，高於市場預期約4.3個百分點。星展上調中芯2026至2028年各年盈利預測介乎13.4%至16.5%，目標價由90港元上調至96港元，維持“買入”評級。"
+    },
+    {
+      "id": "5047145",
+      "time": "2026-08-19 14:36:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本外務省表示，日本將繼續致力於在國際社會強化法治。"
+    },
+    {
+      "id": "5047144",
+      "time": "2026-08-19 14:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本外務省表示，日本一貫支援國際刑事法院起訴並懲處國際社會關注的最嚴重罪行。"
+    },
+    {
+      "id": "5047143",
+      "time": "2026-08-19 14:35:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊策略師上調歐洲全年盈利預期】巴克萊策略師目前預測，2026年歐洲企業盈利將大增16%，此前預期為12%，理由是預計下半年盈利增長動能將增強。由馬格什・庫馬爾・錢德拉塞卡蘭與埃馬紐埃爾・考領銜的團隊表示，分析師上調盈利預期的節奏正向美國靠攏，各行業盈利改善的覆蓋面也在擴大。“名義經濟增長走高仍是歐洲企業盈利的重要利好，油價形成支撐，匯率也轉為小幅利好因素。”但他們同時警示，能源價格仍是一大不確定變數，滯脹風險可能會令盈利預估承壓。"
+    },
+    {
+      "id": "5047142",
+      "time": "2026-08-19 14:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本：美國對國際刑事法院院長實施制裁非常令人遺憾。"
+    },
+    {
+      "id": "mkt:01a018ba-a5bf-7aab-908c-d59790d02b25",
+      "time": "2026-08-19 14:34:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【BofA: Optimism toward Europe back at pre-Iran-war highs】BofA says a surge in AI-driven capex and a stronger economic outlook have tilted investor preference toward European equities over US names. Its survey found ~47% of fund managers expect European stocks to slightly outperform US stocks over the next 12 months — the highest since February when the Iran war began. About 97% of respondents expect Europe to avoid recession, the strongest reading since 2007. More than three-quarters said further equity gains would be driven mainly by upward revisions to corporate earnings. BofA strategist Andreas Bruckner said the bank is refocusing on pro‑Europe themes that were temporarily stalled by the Iran war."
+    },
+    {
+      "id": "5047141",
+      "time": "2026-08-19 14:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眸深智慧完成近5億元Pre-A+輪融資】眸深智慧8月19日訊息，近日，眸深智慧正式完成近5億元Pre-A+輪融資。本輪由頭部國資基金深報一本基金、東方證券、陝西省高新技術產業投資有限公司，產業投資人安宇基金、天盟投資、建元天華聯合投資；以及老股東創合匯資本、徐匯資本、庚辛資本超額追投。"
+    },
+    {
+      "id": "5047140",
+      "time": "2026-08-19 14:34:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達40億港元。"
+    },
+    {
+      "id": "5047139",
+      "time": "2026-08-19 14:32:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓智庫上調今年韓國GDP增速預期至3.2%】韓國開發研究院（KDI）19日釋出《2026年8月經濟展望更新報告》，上調今年韓國國內生產總值（GDP）增速預期至3.2%，較5月預期值提升0.7個百分點，其中半導體產業的貢獻度達0.6個百分點。"
+    },
+    {
+      "id": "mkt:01a018b8-e013-7aab-908c-cc73bfe922d9",
+      "time": "2026-08-19 14:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks close lower; South Korea down nearly 6%】On Aug. 19, Japan's Nikkei 225 closed down 2,134.31 points (-3.16%) at 65,326.42. South Korea's KOSPI closed down 398.66 points (-5.8%) at 6,471.17."
+    },
+    {
+      "id": "mkt:01a018b8-983f-7aab-908c-c6708e16527c",
+      "time": "2026-08-19 14:32:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Shenzhen Composite Index fell more than 5%, ChiNext Index fell 6.3%, Shanghai Composite fell 2.6%, STAR 50 Index fell more than 7%."
+    },
+    {
+      "id": "5047138",
+      "time": "2026-08-19 14:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【小米新一代人形機器人劇透 雙足、1.7米左右、全身66個自由度】8月19日下午，記者從小米方面瞭解到，小米即將首次展示的下一代人形機器人身高約為1.7米，體重66公斤，全身有66個自由度，其中一半自由度集中在手部。目前，該款機器人為樣機階段，國內首展後會在歐洲展出。2022年，小米釋出全尺寸人形機器人“鐵大”，位元斯拉Optimus原型機亮相早了近兩個月。鐵大身高1.77米，體重52公斤，擁有21個關節自由度。此後小米少有機器人方面的訊息露出。（每日經濟新聞）"
+    },
     {
       "id": "5047137",
       "time": "2026-08-19 14:32:04",
@@ -139746,230 +139998,6 @@
         "公司"
       ],
       "text": "【極兔旗下上海極致供應鏈管理公司增資至26億 增幅30%】天眼查工商資訊顯示，近日，上海極兔極致供應鏈管理有限公司發生工商變更，註冊資本由20億人民幣增至26億人民幣，增幅30%。該公司成立於2019年10月，法定代表人為吳蓉眉，經營範圍包括道路貨物運輸、貨物或技術進出口、汽車租賃等。股東資訊顯示，該公司由重慶紜慶供應鏈管理有限公司全資持股。"
-    },
-    {
-      "id": "5036991",
-      "time": "2026-08-12 14:42:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光大同創與深圳大學推動高效能碳纖維及樹脂材料在具身智慧與消費電子領域加速應用】光大同創8月12日公眾號訊息，為加快高效能碳纖維複合材料研發及產業化應用，光大同創與深圳大學共同圍繞高模高強纖維、快速固化樹脂、碳纖維複合材料及一體成型工藝開展系統性攻關。雙方共同獲批深圳市技術攻關重大專項，相關研究成果正逐步匯入具身智慧及消費電子領域。碳纖維複合材料兼具輕質、高強、高模等特點，過去主要應用於航空航天、高階裝備等領域。隨著材料體系和成型工藝不斷成熟，其應用正在加快向具身智慧機器人、AI PC、摺疊屏手機及VR/AR裝置等終端產品延伸。"
-    },
-    {
-      "id": "mkt:019ff4b4-e068-7aab-9002-22f3e473b226",
-      "time": "2026-08-12 14:42:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Russia's Novorossiysk grain terminal has suspended operations."
-    },
-    {
-      "id": "5036990",
-      "time": "2026-08-12 14:41:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天億馬等成立新公司 含AI及積體電路晶片業務】企查查APP顯示，近日，廣東億拓詞元科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧通用應用系統；工程和技術研究和試驗發展；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由天億馬等共同持股。"
-    },
-    {
-      "id": "mkt:019ff4b4-939e-7aab-9002-18c53873ed27",
-      "time": "2026-08-12 14:41:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Russian Jemitra Holding Company said Novorossiysk port was attacked and the Novorossiysk grain terminal was damaged."
-    },
-    {
-      "id": "5036989",
-      "time": "2026-08-12 14:41:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【橋介數物完成新一輪億級融資 加速落地通用機器人作業系統】近日，橋介數物宣佈完成Pre-A+++輪融資。本輪融資由中國移動鏈長基金領投，老股東復星創富、深創投追加投資，融資規模達億元級。公司進一步明確了長期戰略方向：以運動控制為基石，構建“通用機器人作業系統”。本輪融資將用於加速戰略的落地，推動產品迭代和演算法研發的佈局進入下一階段。"
-    },
-    {
-      "id": "5036988",
-      "time": "2026-08-12 14:40:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【食品飲料板塊持續走高 蓋世食品觸及30cm漲停】食品飲料板塊漲勢擴大，蓋世食品觸及30cm漲停，此前一鳴食品、好想你、今世緣、安記食品漲停，一致魔芋、朱老六、潤普食品、古井貢酒等漲幅靠前。"
-    },
-    {
-      "id": "te:markets:574655",
-      "time": "2026-08-12 14:40:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Finishes in the Red — The ASX 200 fell 41 points, or 0.45%, to close at 9,209 on Wednesday, erasing the prior session’s modest gains as sharp losses in manufacturing, consumer non-durables, healthcare, and retail trade dragged the index to its weakest level in a week. Sentiment soured after the Reserve Bank of Australia held the cash rate steady at 4.35% on Tuesday but warned further tightening could follow if inflation lingers. Wall Street’s overnight slump added pressure, with escalating Middle East tensions and renewed attacks near key shipping routes stoking energy supply fears. Commonwealth Bank slipped 0.7% after reporting record annual cash earnings but flagged a sharp slowdown in mortgage demand post-tax changes. Rio Tinto eased 0.2% even as it secured government support to offset soaring energy costs. ASX tumbled 2.8% after a shareholder moved to file a Federal Court application against the bourse operator. Bucking the trend, AGL Energy surged 6.0% on stronger-than-expected 2027 earnings guidance."
-    },
-    {
-      "id": "5036987",
-      "time": "2026-08-12 14:40:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱即使戰爭持續多年導彈也夠用】據伊朗媒體8月11日報道，伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪表示，伊朗目前使用的所有武器都是自主研發的，導彈生產量遠超發射量，無人機也是如此。即使戰爭持續數年，伊朗的彈道導彈也能如雨般傾瀉在敵人頭上。（CCTV國際時訊）"
-    },
-    {
-      "id": "5036986",
-      "time": "2026-08-12 14:40:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯德米特拉控股公司：新羅西斯克港口遇襲，旗下新羅西斯克糧食碼頭受損；目前暫停運營。"
-    },
-    {
-      "id": "te:economy:574653",
-      "time": "2026-08-12 14:40:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "Norway Consumer Pessimism Eases in Q3 — Norway’s adjusted consumer confidence indicator improved to -16.6 in Q3 2026, up from a downwardly revised -18.1 in Q2. The improvement came alongside less pessimistic views of the country’s economic outlook, with expectations for the national economy over the next year improving to -24.6 from -34.9 in Q2 and assessments of its performance over the past year rising to -37.1 from -47.1. Households were also more optimistic about their own finances, with expectations for personal finances over the next year turning slightly positive at 0.8 from -3.5, while assessments of their financial situation over the past year improved to -2.6 from -9.4. Sentiment toward major purchases also strengthened to -8.7 from -15.8, while households said they would prioritize repaying loans or saving and investing if their financial situation improved, with both responses reaching record highs since the survey began in 1992. Meanwhile, the unadjusted indicator rose to -14.4 from -22.1."
-    },
-    {
-      "id": "5036985",
-      "time": "2026-08-12 14:39:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【毀滅性地震導致主要港口受阻 哥倫比亞咖啡出口基本停滯】一場毀滅性地震擾亂了哥倫比亞主要港口的運營，並導致主要高速公路沿線出現道路封鎖，據一家咖啡出口商協會負責人稱，該國的咖啡出口已基本暫停。Asoexport負責人Gustavo Gomez在接受採訪時表示，哥倫比亞主要咖啡出口港Buenaventura實際上無法進入，因為多條道路堵塞，尤其是Cali至Buenaventura高速公路沿線的隧道附近，這條高速公路是通往該國太平洋沿岸的主要路線。“咖啡相關作業目前已暫停。可能存在零星的作業，但目前咖啡出口作業已停止，”Gomez說，“目前尚無具體的官方通知說明道路何時能完全恢復通車。”"
-    },
-    {
-      "id": "5036984",
-      "time": "2026-08-12 14:39:50",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【對於今日市場流傳明日c企業集體開會訊息，真實性或有待核實】據SMM瞭解，國內某矽料廠家基於市場及成本考慮，將報價從37-38元/千克上調至40元/千克，目前其餘廠家及下游接受情況還有待觀察。除此外，對於今日市場流傳明日多晶矽企業集體開會訊息，從部分上游廠家人員瞭解來看，多表示“沒聽說”“領導還在公司”其真實性或有待核實。（SMM）"
-    },
-    {
-      "id": "mkt:019ff4b2-d437-7aab-9002-173d75be3be2",
-      "time": "2026-08-12 14:39:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Rumors of collective polysilicon producers' meeting tomorrow unverified】SMM said a Chinese polysilicon producer, citing market and cost factors, has raised its offer from 37-38 yuan/kg to 40 yuan/kg; acceptance by other producers and downstream buyers is unclear. Reports that polysilicon firms will hold a collective meeting tomorrow remain unverified—several upstream staff told SMM they had not heard of such a meeting and said management was still at their offices."
-    },
-    {
-      "id": "5036983",
-      "time": "2026-08-12 14:39:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大和：蘋果第三財季業績勝預期，目標價升至335美元】大和發表報告指，蘋果截至2026年6月底止第三財季業績勝預期，收入同比增長16%至1094億美元，每股盈利2.02美元，分別較市場預期高出7.66億美元及0.13美元；惟若扣除關稅退款約0.11美元，經調整每股盈利約1.91美元，僅較預期高出0.02美元。該行維持對其“跑贏大市”評級，目標價由325美元上調至335美元，相當於2027財年預測市盈率35倍。期內，iPhone收入同比增長22%至540億美元，Mac收入更大增29%至104億美元，服務收入亦增長12%至307億美元。管理層表示，iPhone、Mac及iPad需求強勁，公司未能獲得足夠的先進節點系統單晶片(SoC)以滿足需求，內部團隊更承認低估需求增長。不過，該行對2027財年前景轉趨審慎，因2026財年iPhone增長21%屬史無前例，參考過往超級週期後次年表現往往顯著回落；同時，9月新iPhone加價及儲存器成本上升，將對需求及盈利構成不確定性。"
-    },
-    {
-      "id": "mkt:019ff4b2-0b5b-7aab-9002-0ca3498da2a6",
-      "time": "2026-08-12 14:38:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "006400.KS",
-        "Impact bullish",
-        "TM.O",
-        "NSANY.O"
-      ],
-      "text": "【TrendForce: All-solid-state batteries enter 2026 engineering validation phase; vendors speed up automotive testing】TrendForce’s 2Q26 industry report says 2026 marks a key engineering-validation phase for all-solid-state batteries (ASSB). Toyota, Honda, Nissan and Samsung SDI are modestly ahead in small-scale pilot production; Japanese OEMs report partial validation of some automotive-grade performance metrics and are accelerating vehicle ASSB module performance evaluations."
-    },
-    {
-      "id": "5036982",
-      "time": "2026-08-12 14:38:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI“1號商務員工”將離職 年初至今已有十餘名高管離任】美東時間週二，OpenAI高管布拉德·萊特卡普（Brad Lightcap）表示，他將離開公司並開啟新專案（start something new）。萊特卡普稱得上是OpenAI的元老級高管，也是阿爾特曼長期的“心腹”夥伴。早在OpenAI創立之前，萊特卡普就已經與阿爾特曼在風險投資公司Y Combinator共事。而在OpenAI 2015年創立後，他也一直擔任阿爾特曼的最親密顧問角色。值得一提的是，年初至今，OpenAI內部已有十餘名高管陸續離職。"
-    },
-    {
-      "id": "5036981",
-      "time": "2026-08-12 14:37:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度客機空中驟降傷20餘人 機長毒檢陽性】印度航空公司一架客機上週在空中高度驟降，造成20名乘客和4名機組人員受傷。印度媒體披露，涉事機長接受藥檢，結果顯示為大麻陽性。這架空中客車A320型客機4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。在飛行途中，客機突然下降約90米。印度航空事故調查局11日釋出宣告說，正在調查這一事件，分析技術、醫學、人為因素等方面的證據。多家媒體援引訊息人士的話報道，機長在檢測中被查出大麻陽性，第二次毒檢依舊沒透過。（新華社）"
-    },
-    {
-      "id": "mkt:019ff4af-f39c-7aab-9002-018b5e8515d5",
-      "time": "2026-08-12 14:36:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "【AI demand drives FOXCONN Q2 profit up 35% YoY】FOXCONN said on Wednesday 1H revenue was TWD 4.65 trillion and 1H net profit TWD 109.9 billion. Q2 net profit rose 35% YoY to TWD 59.97 billion, above analysts' average forecast of TWD 58.8 billion. The company expects demand to remain strong, with sustained AI demand to support full-year growth, forecasts Q3 AI rack shipments to rise by high-double-digit pct QoQ, and plans further expansion of global AI production capacity."
-    },
-    {
-      "id": "5036980",
-      "time": "2026-08-12 14:35:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州粵科低空創業投資基金登記成立出資額4.5億】天眼查App顯示，近日，廣州粵科低空創業投資基金合夥企業（有限合夥）成立，執行事務合夥人為廣東粵科創業投資管理有限公司，出資額4.5億人民幣，經營範圍包括以私募基金從事股權投資、投資管理、資產管理等活動，由廣州開發區交通投資集團有限公司、廣東省新興產業投資基金合夥企業（有限合夥）等共同出資。"
-    },
-    {
-      "id": "5036979",
-      "time": "2026-08-12 14:35:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梁文鋒打新宇樹有望浮盈7億】繼參與戰略配售後，梁文鋒亦參與了宇樹科技的網下打新，其旗下量化機構寧波幻方量化155只產品獲得網下配售，其中包括幻方1000指數增強欣享1號私募證券投資基金、幻方滬深300普惠1號私募證券投資基金、幻方金選中性專享7號5期私募證券投資基金、幻方量化定製16號2期私募證券投資基金等產品，合計獲配19.5萬股，獲配金額約2940.77萬元。 此外，梁文鋒旗下另一家量化機構九章資產43只產品合計獲配6.32萬股，獲配金額約為952.97萬元。 梁文鋒透過旗下兩家主體合計198只私募產品獲得配售，合計獲配25.82萬股，合計配售金額約為3893.74萬元。\n\n此前，梁文鋒已透過旗下大模型公司DeepSeek參與了宇樹科技的戰略配售，共計獲配93.34萬股，獲配金額約為1.41億元，鎖定期為36個月。加上此次網下打新配售的部分，梁文鋒透過DeepSeek、寧波幻方量化、浙江九章資產三家主體共計獲配119.16萬股，共計獲配約1.799億元。若宇樹科技上市首日市值突破3000億元，梁文鋒有望賺得浮盈約7.04億元。（《財經》雜誌）"
-    },
-    {
-      "id": "5036978",
-      "time": "2026-08-12 14:34:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津：鼓勵“機器人6S店”新型商業體建設】近日，天津市工業和資訊化局、市發展改革委、市科技局聯合印發《天津市智慧機器人產業創新發展行動方案（2026—2028年）》（以下簡稱《行動方案》）， 《行動方案》從金融賦能、人才培養、探索新型商業模式、用好支援政策、營造良好氛圍和安全監管六個方面強化保障措施。提出研究設立市級機器人產業專項基金，探索智慧機器人以租代售、委託租賃、槓桿租賃等現代化科技租賃服務；支援高校設立機器人交叉學科，共建實訓基地；鼓勵“機器人6S店”新型商業體建設，支援跨境電商營銷中心建設，打造智慧機器人出海總部基地。 天津市未來3年將依託世界智慧產業博覽會、天津機器人大會等平臺，組織開展專題交流、展演展示、前沿論壇等系列活動，擦亮天津機器人產業名片，強化區域產業輻射帶動作用。依託“117專案”片區建設“機器人小鎮”，構建“信創底座+製造中試+場景驗證”的特色產業優勢，打造“機器人自主可信可控產業生態”策源地和天津市智慧機器人先行區。依託天開高教科創園核心區建設“天津市智慧機器人應用展示體驗中心”，開展產品展示和資源對接活動。"
-    },
-    {
-      "id": "te:economy:574650",
-      "time": "2026-08-12 14:34:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Total Vehicle Sales",
-        "Importance 1"
-      ],
-      "text": "China Car Sales Drop 0.3% in July — China's total vehicle sales fell 0.3% from a year earlier in July 2026, following a 3.2% decline in the previous month, according to data from the China Association of Automobile Manufacturers (CAAM). New energy vehicle (NEV) sales soared 23.7% year-on-year. For the first seven months of the year, vehicle sales dropped 3.7% year-on-year, compared with a 12.0% increase in the same period last year, while NEV sales climbed 9.6%. Last year, China's vehicle sales grew 9.4% year-on-year to a record high of 34.4 million units, accelerating from a 4.5% rise in 2024, while NEV sales surged 28.2%."
-    },
-    {
-      "id": "5036977",
-      "time": "2026-08-12 14:33:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津：2028年全市智慧機器人產業核心產值突破200億元】近日，天津市工業和資訊化局、市發展改革委、市科技局聯合印發《天津市智慧機器人產業創新發展行動方案（2026—2028年）》（以下簡稱《行動方案》），提出到2028年底，全市智慧機器人產業核心產值突破200億元，產值年均增速超過15%，京津冀區域配套率提升至60%以上，形成“研發—製造—應用—服務”全環節、“決策及控制—本體—核心零部件—整合服務”全鏈條產業生態。屆時，全市將建成1個智慧機器人創新聯合體，爭創1至2家國家級創新平臺，攻關智慧機器人主控晶片、作業系統、減速器、伺服電機等方面核心技術，形成20項技術產品；培育產值超10億元企業3家以上、國家級專精特新“小巨人”企業20家；建設天津市智慧機器人創新中心、天津市智慧機器人敏捷智造中心，打造一批展示體驗中心；建設不少於20個實景實訓空間，在工業製造、特種作業、民生服務等領域形成100個以上示範應用場景。 在核心技術攻關方面，將攻關端雲協同的晶片與作業系統，提升驅控一體控制器、輕量化高負重比仿生本體結構、高整合度關節等關鍵零部件效能與質量，最佳化迭代創新演算法模型，加強高質量資料集供給，提出研發工業類專用模型不少於200個，形成高質量資料集不少於100個。"
-    },
-    {
-      "id": "5036976",
-      "time": "2026-08-12 14:32:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達呼籲重新開放霍爾木茲海峽】卡達外交部發言人安薩里11日在新聞釋出會上表示，卡達正在關注伊朗與阿曼之間談判，最近幾天已聽到雙方積極的表態，並正在等待新的進展。安薩里稱，卡達現在的主要優先事項是重新開放霍爾木茲海峽，維持停火，並確保談判推進。卡達支援一切促使局勢緩和的努力，卡達現階段的最低要求是根據國際法恢復霍爾木茲海峽地區的海上航行自由。（央視新聞）"
     }
   ]
 }
