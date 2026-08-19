@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-20 07:18:52",
+  "updated": "2026-08-20 07:22:41",
   "count": 15650,
   "items": [
+    {
+      "id": "te:markets:576623",
+      "time": "2026-08-20 07:21:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Firm on Middle East Uncertainty — Crude oil held near $86 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month."
+    },
+    {
+      "id": "5048695",
+      "time": "2026-08-20 07:21:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上下游冷暖不一 上市鋁企上半年業績分化】近日，A股鋁產業上市公司陸續披露半年報，板塊上下游業績呈現顯著分化格局。受益於年內電解鋁價格持續走高，上游電解鋁企業盈利大幅修復，多家龍頭企業歸母淨利潤實現倍增；中游鋁加工企業盈利彈性相對偏弱，行業呈現清晰的結構性特徵；下游需求冷暖分化明顯，行業利潤進一步向高階鋁材賽道集中。（上海證券報）"
+    },
+    {
+      "id": "5048693",
+      "time": "2026-08-20 07:19:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【長景氣週期開啟 核電產業鏈訂單有望放量】“十五五”時期首批8臺機組獲核准，核電將逐步進入電力市場，政策規劃到2030年核電裝機約1.1億千瓦……近段時間以來，我國核電產業迎來多重利好。多位業內專家在接受記者採訪時認為，“十五五”時期，核電行業景氣度確定性較強。“核電建設已進入批次化、連續化推進階段，產業鏈企業訂單規模和產能利用率有望改善。”國金證券副所長、公用環保煤炭行業首席分析師姜濤對記者表示。（上海證券報）"
+    },
+    {
+      "id": "5048692",
+      "time": "2026-08-20 07:19:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【券業整合靜待“化學反應”】8月18日晚，中金公司、東興證券與信達證券同步披露關於重大資產重組申請的稽核問詢函回覆公告，標誌著“三合一”重組迎來關鍵節點。與此同時，東方證券收購上海證券、東吳證券收購東海證券等區域型券商合併重組事項正在有序推進。業內人士表示，合併重組能夠快速做大券商投行的規模與份額，但產業洞察、全週期服務、全球定價權等核心軟實力仍需要長期沉澱。（上證報）"
+    },
     {
       "id": "5048691",
       "time": "2026-08-20 07:17:57",
@@ -143416,38 +143452,6 @@
         "國際"
       ],
       "text": "【美戰略石油儲備不足3億桶 創43年來新低】美國能源資訊局12日釋出的周度石油庫存資料顯示，在截至本月7日的一週，美國戰略石油儲備規模進一步降至2.987億桶，為1983年1月以來的最低水平。"
-    },
-    {
-      "id": "5038216",
-      "time": "2026-08-13 07:21:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI伺服器液冷投資向零部件縱深傳導 液冷產業鏈迎訂單驗證關鍵視窗】隨著AI晶片功耗和整櫃功率密度持續攀升，液冷正從資料中心的節能選項躍升為高密度算力叢集的基礎配置。強瑞技術日前公告擬定增募資不超過10.5億元，重點投向AI伺服器精密液冷部件及自動化組裝、檢測裝置產能建設；飛榮達上半年業績預告顯示液冷相關業務量價齊升，中航光電、鼎通科技等公司也在液冷聯結器、高速部件領域加速海外客戶認證。業內普遍認為，行業競爭正從早期的技術路線之爭，轉向部件一致性、自動化組裝能力、系統測試能力與海外批次交付資格的比拼，液冷產業鏈正迎來訂單驗證與產能兌現的關鍵視窗。"
-    },
-    {
-      "id": "5038215",
-      "time": "2026-08-13 07:21:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：在俄羅斯被拘留四年多後，美國公民羅伯特·吉爾曼終於回到了美國的土地上。 感謝特朗普政府，又一位美國人安全回到了他所屬的地方。"
-    },
-    {
-      "id": "mkt:019ff846-fdd7-7aab-9014-619c3c03bfb4",
-      "time": "2026-08-13 07:20:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: Ukrainian drone units easily prevailed in U.S.-Ukraine joint exercise】The Wall Street Journal reports that during a joint military exercise in Germany earlier this year, called Combined Resolve, Ukrainian drone operators easily detected and defeated U.S. troops and armored vehicles rotated from Fort Hood, Texas."
-    },
-    {
-      "id": "5038214",
-      "time": "2026-08-13 07:19:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民日報金社平：培育更多“中國服務”品牌】培育更多“中國服務”品牌，是順應經濟發展規律、推動經濟轉型升級的必然選擇。當前中國經濟正處於從要素驅動向創新驅動、從投資拉動向消費拉動轉變的關鍵視窗期。預測顯示，“十五五”時期，服務業對國內生產總值增長的貢獻率將穩步提升，成為名副其實的經濟“主引擎”。這是回應百姓生活期待，擴大內需的關鍵所在。培育更多“中國服務”品牌，因地制宜、精準施策是基本的方法論。從“賣產品”到“賣服務”，從“中國製造”到“中國服務”，當100萬億元的服務業版圖徐徐展開，我們有理由相信，一張張閃亮的“中國服務”名片，必將匯聚成中國經濟高質量發展的澎湃動能。"
     }
   ]
 }
