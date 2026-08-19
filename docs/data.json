@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-20 07:45:07",
-  "count": 15645,
+  "updated": "2026-08-20 07:48:57",
+  "count": 15643,
   "items": [
+    {
+      "id": "5048716",
+      "time": "2026-08-20 07:47:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.19個點。"
+    },
+    {
+      "id": "5048715",
+      "time": "2026-08-20 07:47:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲1.3%。"
+    },
+    {
+      "id": "5048714",
+      "time": "2026-08-20 07:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬研發潛射高超聲速導彈】綜合共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容日前曝光。多名相關人士18日透露，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超聲速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。接受記者採訪的軍事問題專家19日表示，日本已徹底撕下其長期以來標榜的“和平國家”的偽裝，在極其危險的軍事擴張道路上狂飆。（環球時報）"
+    },
+    {
+      "id": "5048713",
+      "time": "2026-08-20 07:45:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中金：預計伺服器液冷泵作為核心動力元件有望迎來放量週期】中金研報指出，全球AI算力晶片功耗加速突破風冷散熱極限，資料中心向液冷架構演進，預計伺服器液冷泵作為核心動力元件有望迎來放量週期。國內汽車熱管理龍頭依託精密電子電機控制、高壓全密封等底層工藝跨界入局，展現競爭優勢。"
+    },
+    {
+      "id": "te:markets:576626",
+      "time": "2026-08-20 07:45:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged higher on Thursday after posting a modest rebound in the previous session, as a sharp decline in Treasury yields helped improve investor sentiment. In regular trading on Wednesday, the Dow and S&P 500 rose 0.22% and 0.21%, respectively, while the Nasdaq Composite advanced 0.16%, with all three benchmarks snapping a three-day losing streak. The consumer discretionary, materials and consumer staples sectors outperformed the broader market, while industrial, technology and financial stocks lagged. Yields on longer-dated US Treasurys pulled back from multi-year highs after the government announced plans to more than double repurchases of 10-, 20- and 30-year debt over the coming months. The move came after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Investors now turn their attention to retail giant Walmart’s earnings later in the global day, along with the latest weekly jobless claims data."
+    },
     {
       "id": "5048711",
       "time": "2026-08-20 07:40:29",
@@ -143327,71 +143373,6 @@
         "其他"
       ],
       "text": "【民政部：今年上半年全國民政事業支出2436億元】日前，民政部發布統計資料顯示，今年上半年，我國民政事業累計支出2436億元。其中，城市最低生活保障589.2萬人，農村最低生活保障3346.2萬人，城鄉特困人員救助供養493.7萬人，享受困難殘疾人生活補貼1202.7萬人，享受重度殘疾人生護理補貼1687.1萬人。"
-    },
-    {
-      "id": "5038241",
-      "time": "2026-08-13 07:46:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：電力裝置行業國內外景氣向上，板塊具備長期投資價值】中金公司研報表示，電力裝置行業2026年整體表現穩健向上，提示投資者重點關注結構性機遇。傳統電網方面，“十五五”新型能源體系明確電網“適配高比例新能源”定位，疊加國網“十五五”投資規劃出爐，電網投資長期可期；此外，全球AIDC基建步伐加快，相關電力裝置需求旺盛，中國電力裝置企業有望憑藉交付週期短、價效比高、售後服務到位等優勢獲得訂單。中金仍認為全球電力大週期開啟端倪初現，新型電力系統發展是一個長期、持續的過程，景氣度或可持續至2030年，而主要上市公司訂單、收入、盈利仍然在紮實的上升通道，歷經調整後當前估值已進入歷史低估區間，板塊具備長期投資價值。"
-    },
-    {
-      "id": "5038240",
-      "time": "2026-08-13 07:46:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：部署應對臺風“白海豚”殘餘環流影響】中央氣象臺預計，從今天起，我國大部分地區降水將逐步減弱，但黃淮南部、江淮、江南東部、華南等地部分地區仍有大到暴雨、局地大暴雨，降水範圍廣、強降雨分佈比較分散。水利部昨天舉行專題會商滾動分析今年第13號颱風“白海豚”殘餘環流影響態勢，深入研判突出風險，進一步安排部署颱風暴雨洪水防禦工作。"
-    },
-    {
-      "id": "5038239",
-      "time": "2026-08-13 07:46:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本公債期貨早盤上漲0.13點。"
-    },
-    {
-      "id": "5038238",
-      "time": "2026-08-13 07:45:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數期貨早盤上漲1.2%。"
-    },
-    {
-      "id": "5038237",
-      "time": "2026-08-13 07:45:33",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【對美聯儲加息的擔憂緩解，日經指數或上漲】得益於對美聯儲加息的擔憂緩解以及隔夜美國科技股的上漲，日本股市或將走高。新加坡交易所的日經指數期貨上漲1.2%，報68500點。美元報159.34日元，週三東京股市收盤時為159.40日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週三上漲0.8%，至67524.06點。"
-    },
-    {
-      "id": "te:economy:574839",
-      "time": "2026-08-13 07:45:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "GDP Annual Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Russia GDP Rebounds in Q2 — Russia’s economy expanded by 1.3% year-on-year in the second quarter of 2026, rebounding from a 0.2% contraction in the previous quarter and marking the strongest growth since the third quarter of 2025, preliminary estimates showed. The result exceeded forecasts from the Central Bank and Economy Ministry of 0.8% and 0.9%, respectively, with stable domestic demand and stronger consumer activity driving the recovery. Retail turnover rose 7.2% year-on-year, helping offset pressures from Ukrainian drone strikes on Russian oil refineries and e-commerce warehouses. Nevertheless, the economy continues to face high borrowing costs, labor shortages, inflation and Western sanctions, while the Bank of Russia has kept its key interest rate elevated at 14%. The central bank recently lowered its full-year GDP growth forecast to 0-1% from 0.4-1.3%, highlighting persistent structural pressures despite the stronger second-quarter performance."
-    },
-    {
-      "id": "5038236",
-      "time": "2026-08-13 07:45:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年海關查扣侵權嫌疑貨物逾3600萬件】從海關總署獲悉，今年上半年，全國海關對侵權重點領域進行專項治理，共查扣侵權嫌疑貨物1.3萬批次、3609萬件，海關總署稽核透過智慧財產權海關保護備案1.5萬件，辦理智慧財產權海關保護總擔保165件。"
     }
   ]
 }

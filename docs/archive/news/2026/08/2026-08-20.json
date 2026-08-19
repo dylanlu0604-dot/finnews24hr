@@ -1,7 +1,53 @@
 {
   "date": "2026-08-20",
-  "count": 491,
+  "count": 496,
   "items": [
+    {
+      "id": "5048716",
+      "time": "2026-08-20 07:47:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.19個點。"
+    },
+    {
+      "id": "5048715",
+      "time": "2026-08-20 07:47:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲1.3%。"
+    },
+    {
+      "id": "5048714",
+      "time": "2026-08-20 07:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬研發潛射高超聲速導彈】綜合共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容日前曝光。多名相關人士18日透露，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超聲速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。接受記者採訪的軍事問題專家19日表示，日本已徹底撕下其長期以來標榜的“和平國家”的偽裝，在極其危險的軍事擴張道路上狂飆。（環球時報）"
+    },
+    {
+      "id": "5048713",
+      "time": "2026-08-20 07:45:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中金：預計伺服器液冷泵作為核心動力元件有望迎來放量週期】中金研報指出，全球AI算力晶片功耗加速突破風冷散熱極限，資料中心向液冷架構演進，預計伺服器液冷泵作為核心動力元件有望迎來放量週期。國內汽車熱管理龍頭依託精密電子電機控制、高壓全密封等底層工藝跨界入局，展現競爭優勢。"
+    },
+    {
+      "id": "te:markets:576626",
+      "time": "2026-08-20 07:45:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged higher on Thursday after posting a modest rebound in the previous session, as a sharp decline in Treasury yields helped improve investor sentiment. In regular trading on Wednesday, the Dow and S&P 500 rose 0.22% and 0.21%, respectively, while the Nasdaq Composite advanced 0.16%, with all three benchmarks snapping a three-day losing streak. The consumer discretionary, materials and consumer staples sectors outperformed the broader market, while industrial, technology and financial stocks lagged. Yields on longer-dated US Treasurys pulled back from multi-year highs after the government announced plans to more than double repurchases of 10-, 20- and 30-year debt over the coming months. The move came after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Investors now turn their attention to retail giant Walmart’s earnings later in the global day, along with the latest weekly jobless claims data."
+    },
     {
       "id": "5048711",
       "time": "2026-08-20 07:40:29",
