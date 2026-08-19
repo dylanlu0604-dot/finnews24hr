@@ -1,7 +1,56 @@
 {
   "date": "2026-08-20",
-  "count": 35,
+  "count": 41,
   "items": [
+    {
+      "id": "mkt:01a01ad5-a0e3-7aab-909d-7e53b788bb24",
+      "time": "2026-08-20 00:23:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration proposes limits on immigrant eligibility for refundable tax credits; Treasury estimates $700m–$2.6bn annual savings】The Trump administration on Wednesday proposed a rule restricting eligibility for the refundable portions of four tax credits aimed at children, students, adoptive parents and low-income workers. Under the proposal only U.S. citizens and certain lawfully present foreigners — including lawful permanent residents, asylees and refugees — would qualify for refundable payments. Treasury Secretary Bessent said the move ends what the administration called improper access by illegal immigrants to taxpayer-funded benefits. The Treasury said the rule would cover undocumented immigrants and some immigrants legally authorized to work, and estimated savings of $700m–$2.6bn per year."
+    },
+    {
+      "id": "5048416",
+      "time": "2026-08-20 00:22:36",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：美國州級監管機構會對併購產生實質影響。"
+    },
+    {
+      "id": "5048415",
+      "time": "2026-08-20 00:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加拿大將在各個戰略行業爭取獲得（與美國貿易談判的）“最優條款”。"
+    },
+    {
+      "id": "5048414",
+      "time": "2026-08-20 00:20:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：企業並未圍繞中期大選投機開展併購交易。"
+    },
+    {
+      "id": "mkt:01a01ad3-5a74-7aab-909d-76de795a529f",
+      "time": "2026-08-20 00:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for Canada–U.S. trade, LeBlanc, said negotiations on a trade agreement with the U.S. remain ongoing."
+    },
+    {
+      "id": "5048413",
+      "time": "2026-08-20 00:19:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：人工智慧的利好效應對IPO有著顯著影響。"
+    },
     {
       "id": "mkt:01a01ad2-500f-7aab-909d-6f02e186d0b0",
       "time": "2026-08-20 00:19:45",
