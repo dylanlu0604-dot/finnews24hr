@@ -1,7 +1,37 @@
 {
   "date": "2026-08-20",
-  "count": 406,
+  "count": 409,
   "items": [
+    {
+      "id": "te:markets:576612",
+      "time": "2026-08-20 05:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%."
+    },
+    {
+      "id": "5048652",
+      "time": "2026-08-20 05:46:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。"
+    },
+    {
+      "id": "5048651",
+      "time": "2026-08-20 05:44:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "牙買加中央銀行將貸款利率維持在5.5%的水平。"
+    },
     {
       "id": "5048650",
       "time": "2026-08-20 05:42:14",
