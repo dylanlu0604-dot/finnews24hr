@@ -1,7 +1,145 @@
 {
   "date": "2026-08-20",
-  "count": 305,
+  "count": 319,
   "items": [
+    {
+      "id": "5048558",
+      "time": "2026-08-20 03:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（關於加拿大貿易）農民將不需要支付關稅。"
+    },
+    {
+      "id": "mkt:01a01b87-822d-7aab-90a1-964ccd01b7f5",
+      "time": "2026-08-20 03:37:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said the U.S. may reduce some tariffs on Canada to match levels applied to other countries, saying Canada is paying higher tariffs."
+    },
+    {
+      "id": "5048557",
+      "time": "2026-08-20 03:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：我們可能將部分關稅下調至其他國家的同等水平，因為加拿大此前被徵收更高關稅。"
+    },
+    {
+      "id": "mkt:01a01b87-324d-7aab-90a1-8c0c48f2a1a1",
+      "time": "2026-08-20 03:37:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the agreement with Iran had not delivered as claimed."
+    },
+    {
+      "id": "mkt:01a01b86-f9b3-7aab-90a1-813908337b4c",
+      "time": "2026-08-20 03:37:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said many vessels are currently transiting the Strait of Hormuz, but that traffic could slow at some point."
+    },
+    {
+      "id": "mkt:01a01b86-7884-7aab-90a1-78fbd95c6322",
+      "time": "2026-08-20 03:36:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US President Trump said the Strait of Hormuz will be less important than before."
+    },
+    {
+      "id": "5048555",
+      "time": "2026-08-20 03:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：考慮取消針對加拿大的鋼鋁關稅。"
+    },
+    {
+      "id": "mkt:01a01b86-105b-7aab-90a1-71e9f9d5f7ba",
+      "time": "2026-08-20 03:36:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs."
+    },
+    {
+      "id": "mkt:01a01b85-fb3f-7aab-90a1-6c5a4e308fe0",
+      "time": "2026-08-20 03:36:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said the U.S. may continue to blockade the Strait of Hormuz."
+    },
+    {
+      "id": "5048553",
+      "time": "2026-08-20 03:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。"
+    },
+    {
+      "id": "5048552",
+      "time": "2026-08-20 03:35:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。"
+    },
+    {
+      "id": "5048551",
+      "time": "2026-08-20 03:35:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗達成的協議結果並不像他們所說的那樣。"
+    },
+    {
+      "id": "mkt:01a01b85-6718-7aab-90a1-649f84cfdbea",
+      "time": "2026-08-20 03:35:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he supports term limits."
+    },
+    {
+      "id": "mkt:01a01b85-2f3b-7aab-90a1-5d532a1c3ff2",
+      "time": "2026-08-20 03:35:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran sanctions: we will wait and see."
+    },
     {
       "id": "mkt:01a01b84-f770-7aab-90a1-54053aa4ca27",
       "time": "2026-08-20 03:34:53",

@@ -1,7 +1,145 @@
 {
-  "updated": "2026-08-20 03:35:29",
-  "count": 15663,
+  "updated": "2026-08-20 03:39:18",
+  "count": 15669,
   "items": [
+    {
+      "id": "5048558",
+      "time": "2026-08-20 03:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（關於加拿大貿易）農民將不需要支付關稅。"
+    },
+    {
+      "id": "mkt:01a01b87-822d-7aab-90a1-964ccd01b7f5",
+      "time": "2026-08-20 03:37:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said the U.S. may reduce some tariffs on Canada to match levels applied to other countries, saying Canada is paying higher tariffs."
+    },
+    {
+      "id": "5048557",
+      "time": "2026-08-20 03:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：我們可能將部分關稅下調至其他國家的同等水平，因為加拿大此前被徵收更高關稅。"
+    },
+    {
+      "id": "mkt:01a01b87-324d-7aab-90a1-8c0c48f2a1a1",
+      "time": "2026-08-20 03:37:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the agreement with Iran had not delivered as claimed."
+    },
+    {
+      "id": "mkt:01a01b86-f9b3-7aab-90a1-813908337b4c",
+      "time": "2026-08-20 03:37:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said many vessels are currently transiting the Strait of Hormuz, but that traffic could slow at some point."
+    },
+    {
+      "id": "mkt:01a01b86-7884-7aab-90a1-78fbd95c6322",
+      "time": "2026-08-20 03:36:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US President Trump said the Strait of Hormuz will be less important than before."
+    },
+    {
+      "id": "5048555",
+      "time": "2026-08-20 03:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：考慮取消針對加拿大的鋼鋁關稅。"
+    },
+    {
+      "id": "mkt:01a01b86-105b-7aab-90a1-71e9f9d5f7ba",
+      "time": "2026-08-20 03:36:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs."
+    },
+    {
+      "id": "mkt:01a01b85-fb3f-7aab-90a1-6c5a4e308fe0",
+      "time": "2026-08-20 03:36:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said the U.S. may continue to blockade the Strait of Hormuz."
+    },
+    {
+      "id": "5048553",
+      "time": "2026-08-20 03:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。"
+    },
+    {
+      "id": "5048552",
+      "time": "2026-08-20 03:35:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。"
+    },
+    {
+      "id": "5048551",
+      "time": "2026-08-20 03:35:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗達成的協議結果並不像他們所說的那樣。"
+    },
+    {
+      "id": "mkt:01a01b85-6718-7aab-90a1-649f84cfdbea",
+      "time": "2026-08-20 03:35:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he supports term limits."
+    },
+    {
+      "id": "mkt:01a01b85-2f3b-7aab-90a1-5d532a1c3ff2",
+      "time": "2026-08-20 03:35:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran sanctions: we will wait and see."
+    },
     {
       "id": "mkt:01a01b84-f770-7aab-90a1-54053aa4ca27",
       "time": "2026-08-20 03:34:53",
@@ -143416,74 +143554,6 @@
         "MKT News"
       ],
       "text": "President Trump said Levitt will become one of his senior outside advisers and an influential voice within the Republican Party."
-    },
-    {
-      "id": "5038098",
-      "time": "2026-08-13 03:38:34",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利認為Grok聊天機器人是SpaceX拓展綜合人工智慧平臺的早期訊號；維持增持評級，目標價300美元。"
-    },
-    {
-      "id": "mkt:019ff77a-545f-7aab-9013-047cf5fa0343",
-      "time": "2026-08-13 03:36:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said White House press secretary Leavitt will resign to spend more time with family."
-    },
-    {
-      "id": "5038097",
-      "time": "2026-08-13 03:36:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：假新聞媒體一直試圖抹黑“南方之矛行動”，否定其正當性。同樣是這批聲音，在往屆政府任由邊境危機空前惡化、藥物過量死亡人數創下紀錄之時卻緘口不言。如今他們又矢口否認，極力貶低我們共同取得的成果。"
-    },
-    {
-      "id": "5038096",
-      "time": "2026-08-13 03:36:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：萊維特將成為我的頂級外部顧問之一。"
-    },
-    {
-      "id": "5038095",
-      "time": "2026-08-13 03:36:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：白宮新聞秘書萊維特將卸任，以便有更多時間陪伴家人。"
-    },
-    {
-      "id": "mkt:019ff779-8d5c-7aab-9012-fd2d6315ad6d",
-      "time": "2026-08-13 03:36:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said White House press secretary Leavitt will leave at the end of the month."
-    },
-    {
-      "id": "5038094",
-      "time": "2026-08-13 03:35:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：卡羅琳·萊維特將於本月底離職。"
-    },
-    {
-      "id": "mkt:019ff779-1451-7aab-9012-f431e0d9ef3c",
-      "time": "2026-08-13 03:35:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi mercenary positions at Mocha port."
     }
   ]
 }
