@@ -1,7 +1,716 @@
 {
-  "updated": "2026-08-19 20:46:58",
-  "count": 15336,
+  "updated": "2026-08-19 21:04:02",
+  "count": 15357,
   "items": [
+    {
+      "id": "5048082",
+      "time": "2026-08-19 20:49:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元GBP/USD日內漲超0.50%，現報1.3597。"
+    },
+    {
+      "id": "mkt:01a01a11-c1a6-7aab-9097-a67568395282",
+      "time": "2026-08-19 20:49:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "GBP/USD up over 0.50% intraday to 1.3597."
+    },
+    {
+      "id": "mkt:01a01a11-62ef-7aab-9097-9ca0d255c32a",
+      "time": "2026-08-19 20:49:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Dollar index (DXY) fell more than 0.50% intraday to 99.15. EUR/USD rose about 0.50% intraday to 1.1632."
+    },
+    {
+      "id": "5048081",
+      "time": "2026-08-19 20:48:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期美國國債收益率<US30YT=RR>一度下跌9個基點，至5.187%。"
+    },
+    {
+      "id": "5048080",
+      "time": "2026-08-19 20:48:33",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛研究發現：人工智慧目前每月造成美國流失 16000 個工作崗位】高盛研究估算，過去一年人工智慧使美國非農就業崗位增量每月減少約 16000 個，同時推高失業率約 0.1 個百分點。該數值為淨估算結果：人工智慧替代效應每月削減約 25000 個崗位，而人工智慧帶來的崗位增益效應，透過拉動勞動力需求抵消了約 9000 個崗位流失。該衝擊對年輕群體與入門級從業者影響尤為突出，集中在資料錄入、客戶服務、賬務結算以及行政支援類崗位。高盛提示，現階段衝擊範圍仍然相對有限；人工智慧也會透過提升生產效率、大規模建設資料中心及配套基礎設施創造就業崗位。"
+    },
+    {
+      "id": "5048078",
+      "time": "2026-08-19 20:47:51",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國30年期國債收益率繼續走低 短時跌8個基點】美國30年期國債收益率繼續走低，短時跌8個基點，現報5.19%。此前，美國財政部宣佈擴大長期名義國債回購規模。"
+    },
+    {
+      "id": "5048077",
+      "time": "2026-08-19 20:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stifel ：黑色素瘤疫苗相關訊息對 Maravai 而言 “理論層面利好”。"
+    },
+    {
+      "id": "5048076",
+      "time": "2026-08-19 20:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，黎巴嫩南部阿盧塞、巴尼哈揚地區傳出爆炸聲。"
+    },
+    {
+      "id": "5048075",
+      "time": "2026-08-19 20:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據傳 Nebius 為 2034 年期債券設定 45%‑50% 的轉股溢價。"
+    },
+    {
+      "id": "mkt:01a01a0e-d92a-7aab-9097-960cb8456c54",
+      "time": "2026-08-19 20:46:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "COMEX gold futures rose 2.00% intraday to $4,477.30/oz."
+    },
+    {
+      "id": "5048074",
+      "time": "2026-08-19 20:46:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "據傳 Nebius 擬為 2030 年期可轉換債券設定 0%‑0.5% 票面利率。"
+    },
+    {
+      "id": "5048073",
+      "time": "2026-08-19 20:46:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4420美元/盎司，日內漲1.99%。"
+    },
+    {
+      "id": "5048072",
+      "time": "2026-08-19 20:45:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康弘藥業：朗沐獲蓋亞那藥品註冊證書】康弘藥業公告，公司全資子公司康弘生物近日收到蓋亞那政府食品藥品監督管理局簽發的朗沐（康柏西普眼用注射液）藥品註冊證書/上市許可（註冊證編號：12R08126），標誌著該產品獲得蓋亞那市場準入資格，可用於治療溼性年齡相關性黃斑變性等適應症。"
+    },
+    {
+      "id": "mkt:01a01a0d-c783-7aab-9097-8bf07bc1297d",
+      "time": "2026-08-19 20:45:05",
+      "tags": [
+        "MKT News",
+        "TGT.N",
+        "Impact bullish"
+      ],
+      "text": "Target (TGT.N) CFO said the company expects to resume share repurchases in H2."
+    },
+    {
+      "id": "5048071",
+      "time": "2026-08-19 20:45:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1307.50美元/盎司。"
+    },
+    {
+      "id": "5048070",
+      "time": "2026-08-19 20:44:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局啟動重大氣象災害（暴雨）四級應急響應】據中央氣象臺，南海北部熱帶擾動8月19日下午發展為熱帶低壓，受其及西南季風影響，未來三天，海南島、廣西南部、廣東、福建臺灣島、浙江等地部分地區，有暴雨或大暴雨。經綜合研判和應急會商，中國氣象局啟動重大氣象災害（暴雨）四級應急響應。"
+    },
+    {
+      "id": "5048068",
+      "time": "2026-08-19 20:44:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天發展：2026年半年度淨利潤虧損2.24億元】航天發展公告，2026年半年度營業收入10.84億元，同比增長57.23%。歸屬於上市公司股東的淨利潤虧損2.24億元，上年同期虧損3.78億元。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2.34億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048067",
+      "time": "2026-08-19 20:43:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山金國際：2026年上半年淨利潤24.16億元，同比增長51.43%】山金國際公告，2026年上半年營業收入96.59億元，同比增長4.47%；歸屬於上市公司股東的淨利潤24.16億元，同比增長51.43%；扣非淨利潤23.85億元，同比增長49.23%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048066",
+      "time": "2026-08-19 20:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY一度跌至11周低點99.155，現報99.23。"
+    },
+    {
+      "id": "mkt:01a01a0c-9193-7aab-9097-806f9e304efd",
+      "time": "2026-08-19 20:43:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Copper"
+      ],
+      "text": "Dollar index (DXY) briefly fell to an 11-week low of 99.155; currently 99.23."
+    },
+    {
+      "id": "5048065",
+      "time": "2026-08-19 20:43:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金站上4420美元/盎司】現貨黃金站上4420美元/盎司，日內漲2.02%。"
+    },
+    {
+      "id": "5048063",
+      "time": "2026-08-19 20:43:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍襲擊了 10 月 7 日滲透進入以色列的哈馬斯指揮官。"
+    },
+    {
+      "id": "5048062",
+      "time": "2026-08-19 20:42:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔吉特預計母嬰、美妝、健康業務將實現持續銷售增長。"
+    },
+    {
+      "id": "mkt:01a01a0b-662b-7aab-9097-7e7a65d775a3",
+      "time": "2026-08-19 20:42:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Euro-area long-term bond yields retreated from multi-year highs; German 30-year Bund yield fell 2 bps, 10-year yield fell 1.5 bps."
+    },
+    {
+      "id": "5048061",
+      "time": "2026-08-19 20:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔吉特表示家居及服裝業務仍有諸多工作有待推進。"
+    },
+    {
+      "id": "5048060",
+      "time": "2026-08-19 20:41:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "歐元區長期債券收益率從多年高點回落：德國30年期國債收益率下跌2個基點，10年期國債收益率下跌1.5個基點。"
+    },
+    {
+      "id": "5048059",
+      "time": "2026-08-19 20:41:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨和納斯達克100指數期貨盤前上漲0.3%，創下新高。"
+    },
+    {
+      "id": "5048058",
+      "time": "2026-08-19 20:41:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克 600 指數漲幅擴大至 0.3%，創盤中新高。"
+    },
+    {
+      "id": "5048057",
+      "time": "2026-08-19 20:41:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西 B3 交易所：貝萊德將公司持股比例降至 9.959%。"
+    },
+    {
+      "id": "5048056",
+      "time": "2026-08-19 20:41:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破65美元/盎司，日內漲2.73%。"
+    },
+    {
+      "id": "5048055",
+      "time": "2026-08-19 20:41:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "新興市場外匯指數隨油價下跌觸及盤中高點。"
+    },
+    {
+      "id": "mkt:01a01a09-cba1-7aab-9097-77600a942abe",
+      "time": "2026-08-19 20:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government bonds continued to rise; 10-year Gilt yield fell 6 bps to 5.02%."
+    },
+    {
+      "id": "5048054",
+      "time": "2026-08-19 20:40:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股票指數上漲 1%，報 114459.30 點。"
+    },
+    {
+      "id": "5048053",
+      "time": "2026-08-19 20:40:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破65美元/盎司，日內漲1.50%。"
+    },
+    {
+      "id": "5048052",
+      "time": "2026-08-19 20:40:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債券漲幅擴大，10 年期收益率下行 6 個基點至 5.02%  。"
+    },
+    {
+      "id": "mkt:01a01a09-6acb-7aab-9097-6c172da2a4c7",
+      "time": "2026-08-19 20:40:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent both fell more than 1.00% intraday, now $89.26/bbl."
+    },
+    {
+      "id": "5048051",
+      "time": "2026-08-19 20:40:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國衛生部：7 月 3 日‑22 日熱浪期間超額死亡人數達 1243 人。"
+    },
+    {
+      "id": "mkt:01a01a08-d14d-7aab-9097-629cd985a413",
+      "time": "2026-08-19 20:39:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equity futures rose; S&P 500 and Nasdaq futures up 0.2% each, Dow futures up 0.4%."
+    },
+    {
+      "id": "5048050",
+      "time": "2026-08-19 20:39:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨走高：標普 500、納斯達克期貨各上漲 0.2%，道指期貨上漲 0.4%。"
+    },
+    {
+      "id": "mkt:01a01a08-3f0c-7aab-9097-5be3750480ed",
+      "time": "2026-08-19 20:39:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury yield curve flattened sharply after the Treasury announced repo-related plans."
+    },
+    {
+      "id": "5048049",
+      "time": "2026-08-19 20:39:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柘中股份：2026年半年度淨利潤3.2億元，同比增長118.53%】柘中股份公告，2026年上半年營業收入4.09億元，同比增長11.77%。歸屬於上市公司股東的淨利潤3.2億元，同比增長118.53%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5181.06萬元，同比增長24.91%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048048",
+      "time": "2026-08-19 20:38:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4470美元/盎司，日內漲1.12%。"
+    },
+    {
+      "id": "5048047",
+      "time": "2026-08-19 20:38:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4410美元/盎司，日內漲1.79%。"
+    },
+    {
+      "id": "5048046",
+      "time": "2026-08-19 20:38:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元觸及盤中低點，最新下跌0.82%，報158.33 <JPY=EBS>。"
+    },
+    {
+      "id": "5048045",
+      "time": "2026-08-19 20:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大 6 月失業保險領取人數環比下降 0.4%。"
+    },
+    {
+      "id": "5048044",
+      "time": "2026-08-19 20:38:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4464.82美元/盎司。"
+    },
+    {
+      "id": "5048043",
+      "time": "2026-08-19 20:37:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：目前每次操作20億美元的最大規模將上調至每次操作至少40億美元。"
+    },
+    {
+      "id": "5048042",
+      "time": "2026-08-19 20:37:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，日內漲1.53%。"
+    },
+    {
+      "id": "5048041",
+      "time": "2026-08-19 20:37:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報64.57美元/盎司。"
+    },
+    {
+      "id": "5048040",
+      "time": "2026-08-19 20:37:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4460美元/盎司，日內漲0.93%。"
+    },
+    {
+      "id": "5048039",
+      "time": "2026-08-19 20:37:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報64.69美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01a06-7143-7aab-9097-5179003bd70d",
+      "time": "2026-08-19 20:37:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "Marvell Technology (MRVL.O) U.S. pre-market shares rose 11% after the company reached an agreement with Google to develop custom chips."
+    },
+    {
+      "id": "5048038",
+      "time": "2026-08-19 20:37:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1300美元/盎司，日內漲0.42%。"
+    },
+    {
+      "id": "5048037",
+      "time": "2026-08-19 20:37:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數下跌0.4%，至當日低點。"
+    },
+    {
+      "id": "5048036",
+      "time": "2026-08-19 20:36:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年國債收益率快速走低，現報5.2%。美國財政部宣佈增加長期名義國債的發行規模。"
+    },
+    {
+      "id": "5048035",
+      "time": "2026-08-19 20:36:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4450美元/盎司，日內漲0.67%。"
+    },
+    {
+      "id": "mkt:01a01a05-d63a-7aab-9097-49d446027218",
+      "time": "2026-08-19 20:36:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "688256.SS",
+        "Impact bullish"
+      ],
+      "text": "【Korean QFIs buy ChangXin Memory Technologies】KSD/SEIBro data show Korean investors were the largest net buyers of a single A‑share in the month to Aug. 18, net purchasing about $45.32m (≈CNY307.5m) of the stock; it also ranks top over the past three months. Korean brokers trade as QFIs submit settlement instructions to KSD using ISINs and reportedly used a temporary virtual ISIN for this security, delaying public identification. SEIBro records show ChangXin Memory Technologies first appeared among Korean investors’ top weekly net buys on July 28 but was absent on July 27, implying purchases began no later than July 28, the stock’s second trading day after listing."
+    },
+    {
+      "id": "te:markets:576494",
+      "time": "2026-08-19 20:36:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lithium Rebounds to 1-Month High — Lithium prices in China rose to over CNY 150,000 per tonne in August, the highest in one month, as signs of growing demand offset the recent respite to supply. Chinese efforts at electrification of its economy drove local governments to pile on projects to develop electricity storage infrastructure in tandem with renewable power generation sources. Such projects were recently headlined by the Medog Hydropower Station and Beijing's announcement that it would double national EV charging capacity to 180 gigawatts by 2027. In turn, industry players highlighted uncertainty in the pace of operations to be restarted by CATL's Jianxiawo mine. Activity in the major lithium source was suspended last year as Beijing refrained from renewing its license, aligned with policymakers' efforts to combat producer deflation. Limiting the rebound, Mineral Resources will restart its Australian Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project."
+    },
+    {
+      "id": "5048034",
+      "time": "2026-08-19 20:36:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST步森：2026年上半年營收同比增55.62%】*ST步森公告稱，2026年上半年實現營業收入8084.69萬元，同比增長55.62%；歸屬於上市公司股東的淨虧損1331.57萬元，同比增虧27.30%；扣除非經常性損益的淨虧損1152.36萬元，同比增虧14.40%。2026年6月17日，公司控股股東變更為廣州延豐數字科技有限公司，實際控制人變更為王波，本次過戶股份2133.38萬股，佔總股本14.81%。2026年3月30日，公司完成對參股公司陝西步森服飾智造有限公司4900萬元定向減資，持股比例降至13.91%。"
+    },
+    {
+      "id": "5048033",
+      "time": "2026-08-19 20:36:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲1.30%。"
+    },
+    {
+      "id": "5048032",
+      "time": "2026-08-19 20:36:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天嶽先進：2026年上半年營收9.14億元 同比增15.10%】天嶽先進公告稱，2026年上半年實現營業收入9.14億元，同比增長15.10%；歸屬於上市公司股東的淨虧損5861.66萬元，同比下降638.75%；歸屬於上市公司股東的扣除非經常性損益的淨虧損8733.84萬元。基本每股收益-0.12元，加權平均淨資產收益率-0.82%，研發投入佔營業收入的比例為8.16%。報告期不涉及利潤分配預案或公積金轉增股本預案。"
+    },
+    {
+      "id": "5048031",
+      "time": "2026-08-19 20:36:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔吉特首席財務官：公司仍預計將於今年下半年重啟股票回購。"
+    },
+    {
+      "id": "5048030",
+      "time": "2026-08-19 20:35:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗 2026 年前四個月石油相關外匯收入達 75 億美元。該數值為去年同期的 1.5 倍。美伊以衝突於 2 月 28 日爆發，處於該統計週期的第二個月。"
+    },
+    {
+      "id": "mkt:01a01a04-f8bc-7aab-9097-453a6e11bc15",
+      "time": "2026-08-19 20:35:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "USD/JPY briefly dropped about 35 pips to 158.74."
+    },
+    {
+      "id": "5048029",
+      "time": "2026-08-19 20:35:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要指數BIST-100上漲1.8%，主要銀行股指數<.XBANK>上漲2.1%。"
+    },
+    {
+      "id": "5048028",
+      "time": "2026-08-19 20:35:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內漲0.44%。"
+    },
+    {
+      "id": "5048027",
+      "time": "2026-08-19 20:35:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "邁威爾股價盤前漲勢延續至12%。"
+    },
+    {
+      "id": "5048026",
+      "time": "2026-08-19 20:34:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金站上4380美元/盎司】現貨黃金站上4380美元/盎司，日內漲1.09%。"
+    },
+    {
+      "id": "mkt:01a01a04-5b09-7aab-9097-381c56f95242",
+      "time": "2026-08-19 20:34:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $15 intraday to $4,379/oz."
+    },
+    {
+      "id": "5048025",
+      "time": "2026-08-19 20:34:43",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國財政部宣佈：將長期國債回購操作規模至少擴大一倍】美國財政部宣佈，將至少翻倍擴大長期名義附息國債（10-20年期、20-30年期品種）的流動性支援回購操作規模。單輪操作上限將從此前的20億美元提升至至少40億美元。 該調整自2026年9月9日生效，適用本續發季度剩餘期間（至2026年11月4日）。財政部將在定於2026年11月4日舉行的下一季度續發公告中披露後續回購規模的進一步資訊。 本次上調回購操作規模，體現財政部希望為長期名義國債板塊提供更強流動性支援；該板塊一直獲得市場參與者的踴躍參與，佐證是財政部在長期國債回購中持續收到大量高質量報價。 更新後的財政部回購暫定時間表將於後續釋出。"
+    },
+    {
+      "id": "5048024",
+      "time": "2026-08-19 20:34:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.5%，報1美元兌158.81。"
+    },
+    {
+      "id": "5048023",
+      "time": "2026-08-19 20:34:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國不排除進一步制裁以色列定居者】法國外交部長巴羅今天（8月19日）在社交媒體上表示，法國不排除針對約旦河西岸以色列定居者採取進一步制裁措施，“所有選項都在考慮之中”。 巴羅表示，當前約旦河西岸發生的事情“令人不齒”，法國此前已推動對實施暴力的定居者以及為其提供支援的相關實體、企業和組織採取制裁。他表示，歐盟今年5月28日已第三次對有關以色列定居者實施制裁。 巴羅同時表示，以色列國家安全部長本-格維爾近期有關加沙的言論“令人無法接受且不人道”。法國此前已對本-格維爾實施制裁。（CCTV國際時訊）"
+    },
+    {
+      "id": "5048022",
+      "time": "2026-08-19 20:34:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破64美元/盎司，日內漲1.15%。"
+    },
+    {
+      "id": "5048021",
+      "time": "2026-08-19 20:34:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4380美元/盎司，日內漲1.11%。"
+    },
+    {
+      "id": "5048020",
+      "time": "2026-08-19 20:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報63.98美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01a03-cedb-7aab-9097-32421858277b",
+      "time": "2026-08-19 20:34:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhongtian Rocket said 1H 2026 revenue rose 27.05% YoY to 383 mln yuan; net profit attributable to shareholders was 16.93 mln yuan, up 329.31% YoY."
+    },
+    {
+      "id": "5048019",
+      "time": "2026-08-19 20:34:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4379.96美元/盎司。"
+    },
+    {
+      "id": "5048018",
+      "time": "2026-08-19 20:34:07",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【2026年個人資訊保護系列專項行動督促4000餘款App等完成合規整改】2026年個人資訊保護系列專項行動開展以來，中央網信辦、工業和資訊化部、公安部會同相關部門強化協調聯動，累計對2萬餘款App、SDK個人資訊收集使用情況開展核查檢測，督促4000餘款完成合規整改，對400餘款採取下架等處置處罰措施。系列專項行動針對個人資訊處理規則未明確收集個人資訊用於廣告、使用者畫像，未提供個性化廣告關閉選項等問題，對1000餘家企業和機構的相關產品開展核查檢測並督促整改。開展教育、交通、衛生健康、金融等領域個人資訊風險排查，累計摸排9萬餘家企業和機構，發現並督促整改各類隱患問題1.2萬餘個。此外，還加大個人資訊違法犯罪打擊力度，加強線索監測發現，嚴打涉資訊洩露、資訊倒賣等違法犯罪行為，嚴懲行業“內鬼”。下一步，中央網信辦、工業和資訊化部、公安部將深入推進個人資訊保護系列專項行動，加強典型違法違規問題治理，加快推進國家網路身份認證公共服務推廣應用，深化個人資訊保護宣傳教育，不斷夯實個人資訊保護工作基礎，有效維護公民合法權益。（新華社）"
+    },
     {
       "id": "5048017",
       "time": "2026-08-19 20:33:43",
@@ -139763,584 +140472,6 @@
         "MKT News"
       ],
       "text": "NATO’s North Atlantic Council expressed solidarity with affected allies and reiterated support for Ukraine."
-    },
-    {
-      "id": "mkt:019ff612-907a-7aab-900c-a68ef148cec3",
-      "time": "2026-08-12 21:03:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A NATO spokesperson said it will hold a meeting on Wednesday to discuss airspace incursions involving Poland and Romania and recent drone incidents."
-    },
-    {
-      "id": "5037827",
-      "time": "2026-08-12 21:03:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約理事會對受影響的盟國表示聲援，並重申對烏克蘭的支援。"
-    },
-    {
-      "id": "5037826",
-      "time": "2026-08-12 21:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約發言人：北大西洋理事會週三召開會議，討論波蘭、羅馬尼亞空域遭侵犯以及近期發生的無人機事件。"
-    },
-    {
-      "id": "mkt:019ff612-24c7-7aab-900c-9cdcc37921b9",
-      "time": "2026-08-12 21:03:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "NATO's North Atlantic Council condemned Russia's \"violation\" of Polish and Romanian airspace."
-    },
-    {
-      "id": "5037825",
-      "time": "2026-08-12 21:03:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST圍海：向深交所申請撤銷公司股票交易其他風險警示】ST圍海公告稱，公司於2026年8月12日召開董事會審議透過申請撤銷其他風險警示的議案，並已向深交所提交申請。2025年4月，公司因披露的年度報告財務指標存在虛假記載，股票被實施其他風險警示。目前，公司已對相應年度財務會計報告進行追溯重述，且自收到處罰決定書已滿12個月，符合撤銷條件。若申請獲批，公司股票簡稱將由“ST圍海”變更為“圍海股份”。該申請稽核批准存在不確定性。"
-    },
-    {
-      "id": "5037824",
-      "time": "2026-08-12 21:03:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海寧皮城：新能源公司擬2.26億元購買共計38家標的光伏公司股權】海寧皮城公告，公司全資子公司投資公司之全資子公司海寧皮城新能源開發有限公司（以下簡稱“新能源公司”）擬以2.26億元的價格購買浙江昇茂、海寧聚暉、海寧鑫傑下屬共計38家標的光伏公司股權（其中海寧聚暉和海寧鑫傑均為浙江昇茂全資子公司），並於2026年8月11日在浙江省海寧市簽署了相關股權轉讓協議。"
-    },
-    {
-      "id": "mkt:019ff611-de8e-7aab-900c-920772184ea8",
-      "time": "2026-08-12 21:03:13",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Timiraos cited US CPI data showing core goods prices rose 0.20% MoM in July, ending a two-month decline and marking the largest monthly gain since Sep 2025. Housing costs rose 0.14% MoM in July. Core services ex-housing rose 0.19% MoM, though that index remains below May’s level after a larger drop in June."
-    },
-    {
-      "id": "5037823",
-      "time": "2026-08-12 21:03:01",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：美國CPI資料顯示，7月核心商品價格環比上漲0.20%，結束此前連續兩個月的下跌。這是自2025年9月以來最大的月度漲幅。住房成本漲幅溫和，7月環比上漲0.14%。剔除住房後的核心服務價格環比上漲0.19%（由於6月降幅較大，該價格水平仍低於5月）。"
-    },
-    {
-      "id": "mkt:019ff611-7d6b-7aab-900c-8bac051bfdbc",
-      "time": "2026-08-12 21:02:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【Honor CEO Li Jian: Robot Phone pre-orders exceed 400,000 units】On the evening of Aug. 12 at the product launch, Honor CEO Li Jian said pre-orders for the Robot Phone have exceeded 400,000 units."
-    },
-    {
-      "id": "5037822",
-      "time": "2026-08-12 21:02:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中稀有色與廣東省礦產資源勘查院簽署戰略合作協議】據中稀有色訊息，8月11日，中稀有色與廣東省礦產資源勘查院在廣州簽署戰略合作協議，雙方就進一步深化合作、推動戰略性礦產資源保障等方面進行深入交流。"
-    },
-    {
-      "id": "5037821",
-      "time": "2026-08-12 21:02:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "貝爾德私人財富管理投資策略師羅斯·梅菲爾德：美國核心通脹比整體通脹更疲軟，再加上整個系統內確實看不到工資壓力，這兩點應該構成美聯儲9月按兵不動的基石。"
-    },
-    {
-      "id": "mkt:019ff611-39fc-7aab-900c-830bc663bb5a",
-      "time": "2026-08-12 21:02:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Baird Private Wealth Management investment strategist Ross Mayfield said U.S. core inflation is softer than headline inflation and there is no broad wage pressure; together these should form the basis for the Fed to hold rates steady in September."
-    },
-    {
-      "id": "5037820",
-      "time": "2026-08-12 21:01:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Bloom Energy美股盤前漲超10%】Bloom Energy美股盤前漲超10%，現報232.75美元。"
-    },
-    {
-      "id": "5037819",
-      "time": "2026-08-12 21:01:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【希捷科技美股盤前漲超5%】希捷科技美股盤前漲超5%，現報863.95美元。"
-    },
-    {
-      "id": "mkt:019ff610-27eb-7aab-900c-78f7f2f5f3f6",
-      "time": "2026-08-12 21:01:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish",
-        "NVDA.O",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【AI data-center boom reshaping inflation mix】The New York Times reports the surge in AI data-center construction is driving sharply higher demand for storage chips and adding upward pressure to prices. Software prices are up 21.2% YoY and 0.5% MoM; smartphone prices are falling."
-    },
-    {
-      "id": "5037818",
-      "time": "2026-08-12 21:01:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "家得寶執行長德克爾將臨時休醫療假。"
-    },
-    {
-      "id": "5037817",
-      "time": "2026-08-12 21:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將賽富時目標股價從185美元上調至210美元。"
-    },
-    {
-      "id": "mkt:019ff60f-9426-7aab-900c-70ebd4b9a3cb",
-      "time": "2026-08-12 21:00:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold surpassed $4,440/oz, the highest since June 5, rising 1.66% on the day."
-    },
-    {
-      "id": "5037816",
-      "time": "2026-08-12 21:00:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將英特爾目標股價從121美元下調至112美元。"
-    },
-    {
-      "id": "mkt:019ff60f-1ef5-7aab-900c-6f2694bf547d",
-      "time": "2026-08-12 21:00:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Night session opened: China’s main futures contracts were mostly higher. Shanghai silver led gains, up over 2%; synthetic rubber and pulp rose more than 1%. Shanghai zinc, tin, gold, ethylene glycol (EG) and cotton yarn advanced around 1%. Glass fell more than 1%."
-    },
-    {
-      "id": "5037815",
-      "time": "2026-08-12 21:00:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4500美元/盎司，日內漲1.33%。"
-    },
-    {
-      "id": "5037814",
-      "time": "2026-08-12 21:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報879.00元。"
-    },
-    {
-      "id": "5037813",
-      "time": "2026-08-12 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】多晶矽連續漲4.26%，碳酸鋰連續漲2.97%，集運指數歐線期貨連續漲2.75%，白銀連續漲2.34%，尿素連續跌1.29%。"
-    },
-    {
-      "id": "5037812",
-      "time": "2026-08-12 20:59:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示：8月11日美國有效聯邦基金利率為3.63%，當日交易規模為1090億美元；8月10日有效聯邦基金利率同為3.63%，當日交易規模為1080億美元。"
-    },
-    {
-      "id": "mkt:019ff60e-11e2-7aab-900c-61de2fed4e23",
-      "time": "2026-08-12 20:59:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Germany's solar generation hit a record 57,898 MW on Wednesday."
-    },
-    {
-      "id": "mkt:019ff60d-e7aa-7aab-900c-5a4ea274ca17",
-      "time": "2026-08-12 20:58:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. July electricity prices surge 4.2% YoY, may increase consumer pressure】U.S. Department of Labor data show electricity prices rose 4.2% YoY in July, the hottest month on record, as widespread air-conditioning boosted demand and bills. Electricity gains have outpaced overall inflation in recent months, adding to consumer energy spending pressure alongside rising gasoline costs."
-    },
-    {
-      "id": "mkt:019ff60d-e1ac-7aab-900c-544065bf2089",
-      "time": "2026-08-12 20:58:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【US inflation slows for second month; July CPI +3.4% YoY】US consumer prices rose 3.4% YoY in July, matching economists' forecasts and marking a second consecutive monthly deceleration, indicating easing price pressures. The Bureau of Labor Statistics reported July gasoline prices fell 2.9% MoM; Moody's Analytics chief economist Mark Zandi said average daily gasoline was about $0.10 lower than in June. Zandi added that, if there is no new escalation in the Iran conflict, inflation may have peaked and could continue to decline toward the Fed's 2% annual target by the same time next year."
-    },
-    {
-      "id": "5037811",
-      "time": "2026-08-12 20:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國太陽能發電量週三升至創紀錄的57,898兆瓦：歐洲能源交易所"
-    },
-    {
-      "id": "5037810",
-      "time": "2026-08-12 20:58:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力源資訊：上半年代理的村田產品銷售額佔公司代理產線銷售收入接近四分之一】力源資訊8月12日在互動平臺表示，公司是MURATA（村田）的主要授權分銷商，多年來村田一直為公司代理的第一大產品線，主要代理其MLCC產品及少量電感、磁珠、感測器、EMI濾波器等產品。目前公司代理的村田產品主要服務於AI算力（AI電源、光模組、伺服器、GPU、算力卡等）和新能源汽車等高階客戶，2026年上半年，公司代理的村田產品銷售額佔公司代理產線銷售收入接近四分之一，其MLCC銷售中，AI業務銷售額佔比約55%，汽車電子業務銷售額佔比約25%；其電感產品七月份已開始漲價。"
-    },
-    {
-      "id": "te:economy:574774",
-      "time": "2026-08-12 20:58:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Eases Further — The yield on the 10-year US Treasury note was at 4.65%, extending the pullback from last session after the US inflation rate refrained from surpassing expectations. Both headline and core inflation rates eased as expected in July, removing some of the pressure on FOMC to raise interest rates next month. Gauges of underlying consumer prices had risen sharply this year after the outbreak of war in Iran lifted energy costs and halted key supply chains. This prompted multiple FOMC members to deliver hawkish dissents in the Fed's last rate hold, with more policymakers signaling hawkish reaction functions in speeches since. Still, elevated energy prices were still being transmitted to price indices as President Trump hardened his stance on Iran, prompting Tehran to dismiss an imminent suspension on blockades that prevent trade. Concerns that the Fed will not raise rates to combat inflation had already drive long-yields to surge earlier in the month."
-    },
-    {
-      "id": "mkt:019ff60d-3580-7aab-900c-4d42f4e70623",
-      "time": "2026-08-12 20:58:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Closure of Strait of Hormuz lifts EM corporate bonds above US peers】Average borrowing costs for emerging-market corporates have fallen to their lowest level relative to US corporates since January as global bond investors diversify into higher-yielding assets, driving outperformance. The split has pushed the yield premium of EM corporate debt over US corporate debt to its lowest since Jan. 26. Alan Shaw, co-head of emerging-market corporate debt at Ninety One, said three factors are behind the rally: oil companies filling supply gaps from the Middle East conflict, duration-related technicals, and fund flows into high-yield assets; he added the asset class remains underweight and that strong YTD returns and attractive risk-adjusted returns make it an interesting allocation opportunity."
-    },
-    {
-      "id": "5037809",
-      "time": "2026-08-12 20:58:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大航空首席財務官表示：空客A321XLR與A220飛機的交付日期已推遲約三個月。"
-    },
-    {
-      "id": "5037808",
-      "time": "2026-08-12 20:56:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "博楓食品集團（Performance Food Group）股價盤前下跌約5%，此前該公司公佈的年度營收預測大幅低於市場預期。"
-    },
-    {
-      "id": "mkt:019ff60b-ae9e-7aab-900c-45fa529e2780",
-      "time": "2026-08-12 20:56:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【UBS on US July CPI: inflation peaked and is slowly declining】UBS said today’s US CPI report was broadly in line with expectations and consistent with its prior view that US inflation peaked in May and is slowly declining, though the slowdown may be uneven."
-    },
-    {
-      "id": "5037807",
-      "time": "2026-08-12 20:56:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：政府將對3000億盧比證券實施轉換/換券操作。"
-    },
-    {
-      "id": "5037806",
-      "time": "2026-08-12 20:55:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮耀Robot Phone預定量已超40萬臺】8月12日晚，榮耀Robot Phone正式釋出。榮耀終端股份有限公司CEO李健在釋出會上透露，目前榮耀Robot Phone預定量已超40萬臺。"
-    },
-    {
-      "id": "mkt:019ff60a-7867-7aab-900c-3d0c93776c05",
-      "time": "2026-08-12 20:55:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude-3.0 earthquake in Wenchuan, Aba, Sichuan — CENC】CENC measured a magnitude-3.0 earthquake at 20:48 on Aug 12 (Beijing time) in Wenchuan county, Aba prefecture, Sichuan province; focal depth 7 km."
-    },
-    {
-      "id": "5037804",
-      "time": "2026-08-12 20:54:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "NEBIUS集團高管：第二季度簽署的人工智慧雲協議，每兆瓦年度合同價值超過2000萬美元，將於第四季度末開始陸續上線。"
-    },
-    {
-      "id": "5037803",
-      "time": "2026-08-12 20:53:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆日科技：控股股東新疆晁駿擬轉讓14.18%股份，控制權擬發生變更】兆日科技公告，2026年8月12日，控股股東新疆晁駿與璟和珩簽署《股份轉讓協議》，約定璟和珩以協議轉讓方式受讓新疆晁駿持有的兆日科技4765.89萬股股份（持股比例14.18%），交易價格約為人民幣11.31元/股，交易對價合計人民幣5.39億元。本次轉讓完成後，璟和珩將成為控股股東，曲嘉麟將成為實際控制人。受讓方資金來源於自有資金及自籌資金，自有資金已足額到賬，自籌資金已取得招商銀行上海分行貸款意向函。本次轉讓尚需透過深交所合規性確認及辦理股份過戶手續。同日公司披露發行股份及支付現金購買資產預案，擬購買佰內科技部分股權並取得其控制權。"
-    },
-    {
-      "id": "mkt:019ff608-eaf3-7aab-900c-3187153488f9",
-      "time": "2026-08-12 20:53:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "【Analyst: Fed hawks won't find fresh support in inflation data】Chief FX strategist Audrey Freeman said July inflation printed in line with expectations and is unlikely to alter market pricing for the September Fed meeting. Policy hawks therefore lack new data support, which should be sufficient to sustain the recent yield-driven EUR/USD upside; the 1.1575-1.1600 area is back in view."
-    },
-    {
-      "id": "5037802",
-      "time": "2026-08-12 20:53:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【影石釋出全景相機X6】8月12日晚，影石Insta360釋出全景相機X6，現已在全球市場同步發售，中國大陸地區售價3999元起。"
-    },
-    {
-      "id": "5037801",
-      "time": "2026-08-12 20:53:06",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國7月CPI同比上漲3.4%】美國勞工部8月12日釋出的資料顯示，美國7月消費者價格指數（CPI）同比上漲3.4%，剔除食品和能源價格後，美國7月核心CPI同比上漲2.5%。 分析人士指出，受美伊衝突階段性緩和、油價大幅下跌等因素影響，美國6月通脹超預期下行。但7月原油價格再度震盪上行，紐商所原油期貨主力合約全月反彈超20%，地緣風險重新給通脹帶來上行壓力。目前美國通脹水平仍遠高於美聯儲2%的目標，對於美聯儲接下來可能的利率路徑，芝商所“美聯儲觀察工具”顯示，美聯儲在9月的議息會議上維持利率不變的機率為54.1%，加息25個基點的機率為45.9%。路透社指出，高企的生活成本削弱了不少美國民眾對特朗普政府的信心，通脹壓力可能在11月中期選舉中對共和黨選情形成不利影響。（央視財經）"
-    },
-    {
-      "id": "5037800",
-      "time": "2026-08-12 20:52:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆日科技：擬發行股份及支付現金收購佰內科技控制權，發行價6.07元/股】兆日科技公告，公司擬透過發行股份及支付現金方式購買深圳市佰內科技有限責任公司部分股權並取得其控制權，同時擬向不超過35名特定投資者發行股份募集配套資金。本次發行股份購買資產發行價格為6.07元/股，不低於定價基準日前20個交易日股票交易均價的80%。交易對方為上海拾內企業管理有限公司、馬瑞。本次交易預計構成關聯交易，不構成重組上市。本次交易實施以公司控制權變更完成為前提，控股股東晁駿投資擬將所持4765.89萬股股份（佔總股本14.18%）協議轉讓給璟和珩。截至預案簽署日，標的資產審計、評估工作尚未完成，交易價格尚未確定。"
-    },
-    {
-      "id": "5037799",
-      "time": "2026-08-12 20:51:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "據哥倫比亞媒體12日報道，哥倫比亞宣佈全國哀悼3天，以悼念地震遇難者。哥倫比亞西部地區10日發生7.4級強震，目前已造成188人死亡、1600多人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019ff606-f14b-7aab-900c-2bf5b714ee79",
-      "time": "2026-08-12 20:51:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Analyst: relief from easing energy prices unlikely to persist】Analyst David Uberti said the recent cooling in inf was partly driven by a small drop in gasoline prices, but the situation is likely to change in August. U.S. Labor Department data show July gasoline down 2.9% MoM and fuel oil down 1.7% MoM."
-    },
-    {
-      "id": "mkt:019ff606-c8d3-7aab-900c-26a9123c568d",
-      "time": "2026-08-12 20:51:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【CNBC: Energy-driven inflationary pressure easing】BLS: July CPI up 0.1% MoM SA; core CPI (ex food and energy) up 0.2% MoM. YoY headline CPI +3.4%, core +2.5%. CNBC reports the modest monthly prints, following a similarly soft June, indicate the earlier energy-driven pickup in inflation is easing and could reduce the Fed’s near-term rate-hike urgency. Inflation remains materially above the Fed’s 2% target, price moves are volatile and remain exposed to developments in the Middle East."
-    },
-    {
-      "id": "te:economy:574769",
-      "time": "2026-08-12 20:50:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "Canadian Building Permits Beat Forecasts — Canada’s building permits rose 18.5% month-over-month to C$14.9 billion in June 2026, rebounding sharply from a 1.7% decline in May and far exceeding forecasts for a 0.8% increase. This marks the highest reading in over two years. The value of non-residential building permits increased by C$1.8 billion to C$6.8 billion, led by the institutional component, which rose C$1.5 billion to C$3.2 billion. Industrial and commercial permits also increased, by C$268.8 million and C$67.9 million, respectively. Residential construction intentions climbed C$479.7 million, or 6.3%, to C$8.1 billion, driven by multi-unit projects, which rose C$283.7 million to C$5.3 billion, and single-family homes, up C$196 million to C$2.8 billion. In Q2 2026, the total value of building permits increased 3.7% quarter-over-quarter to C$40.4 billion."
-    },
-    {
-      "id": "mkt:019ff606-8303-7aab-900c-18b79dd0f74a",
-      "time": "2026-08-12 20:50:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Secretary of Iran's Supreme National Security Council says Iran and Pakistan are each other's \"strategic assets\"."
-    },
-    {
-      "id": "te:markets:574768",
-      "time": "2026-08-12 20:50:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rises Toward 10-Week High — Gold rose above $4,420 an ounce on Wednesday, approaching a 10-week high as investors weighed US inflation data, Federal Reserve policy expectations and developments surrounding the Strait of Hormuz. US consumer prices rose broadly in line with forecasts in July, easing concerns over an imminent Fed rate hike. Following last week’s weak jobs report, the softer inflation picture encouraged investors to reduce expectations for a September increase, supporting demand for gold. Geopolitical uncertainty also remained a key driver, with Pakistan’s defense minister saying the US and Iran were “close to some sort of arrangement” to reopen Hormuz, while President Donald Trump claimed the US had “total control” of the waterway. Meanwhile, central-bank buying continued to underpin gold demand. China’s central bank added around 20 tonnes to its reserves in July, marking its 21st consecutive month of purchases. Global central banks bought an estimated 289 tonnes in the second quarter."
-    },
-    {
-      "id": "5037798",
-      "time": "2026-08-12 20:50:24",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【由於交易員下調加息預期，收益率和美元走低】在CPI資料符合預期後，美國國債收益率和美元走低的趨勢更加明顯，而SOFR期貨收益率當日下跌4-5個基點。顯然，交易員此前已做好迎接高於預期資料的準備。交易員仍然預期今年會加息，但持續降低9月份加息的可能性。"
-    },
-    {
-      "id": "5037797",
-      "time": "2026-08-12 20:49:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球eSIM連線總量破13億 中國市場迎來“無卡化”拐點】日前，中國資訊通訊研究院（以下簡稱“中國信通院”）釋出《eSIM產業發展研究報告（2026年）》。報告顯示，截至2026年第一季度，全球累計eSIM連線總量已突破13億，全球eSIM產業正從早期試點逐步進入規模化部署週期。其中，北美市場預計佔全球39%，歐洲市場維持在27%—28%左右；隨著中國智慧手機eSIM試商用落地，中國市場佔比預計提升至13%。 報告指出，從全球來看，eSIM產業正在迎來一個重要轉折點：過去由運營商推動的網路側建設已經逐漸成熟，產業競爭開始從“有沒有eSIM”轉向“如何讓更多終端、使用者和場景使用eSIM”。中國市場則成為這一輪產業變化中的重要變數。 通訊分析師周桂軍向《中國經營報》記者表示，與全球市場相比，中國eSIM仍處於從“試商用”走向“規模化”的關鍵階段。終端適配、安全監管、使用者遷移以及運營商業務模式等問題，仍將決定這項技術究竟能夠多快變成智慧終端的標配功能。（中國經營報）"
-    },
-    {
-      "id": "5037796",
-      "time": "2026-08-12 20:49:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【能源可能在8月重新點燃通脹 】能源價格下跌幫助7月份通脹降溫，汽油環比下降2.9%，燃料油下跌1.7%。 但這種緩解可能是暫時的。 原油價格上漲和強勁的煉油利潤率已經開始推高燃料成本。 美國汽油現平均每加侖4.03美元，比一個月前的3.87美元上漲，這表明能源可能對8月通脹施加新的上行壓力。"
-    },
-    {
-      "id": "5037795",
-      "time": "2026-08-12 20:48:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元指數下跌0.1%，至日內低點。"
-    },
-    {
-      "id": "5037794",
-      "time": "2026-08-12 20:48:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度客機機長被曝“毒駕” 航班空中驟降傷數十人】印度航空公司一架客機上週在空中高度驟降，造成20名乘客和4名機組人員受傷。印度媒體披露，涉事機長接受藥檢，結果顯示為大麻陽性。 這架空中客車A320型客機4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。在飛行途中，客機突然下降約90米。 印度航空事故調查局11日釋出宣告說，正在調查這一事件，分析技術、醫學、人為因素等方面的證據。多家媒體援引訊息人士的話報道，機長在檢測中被查出大麻陽性，第二次毒檢依舊沒透過。（新華社）"
-    },
-    {
-      "id": "te:economy:574765",
-      "time": "2026-08-12 20:47:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Energy Inflation",
-        "Importance 0"
-      ],
-      "text": "US Energy Inflation Slows to 4-Month Low — US energy inflation moderated to 14.7% year-over-year in July 2026, the softest since March, down from 15.7% in the prior month. Prices slowed down further for energy commodities such as gasoline (24.6% vs 27.1% in June) and fuel oil (39.1% vs 42.9%). On the other hand, prices rose faster for piped gas service (4.3% vs 3%) and electricity (4.2% vs 4%). On a monthly basis, energy prices fell by 1.5%, after a 5.7% decline in the previous month."
-    },
-    {
-      "id": "5037793",
-      "time": "2026-08-12 20:47:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大鎳業公司宣佈進行非經紀私募配售，總融資額為1500萬加元。"
-    },
-    {
-      "id": "mkt:019ff603-3294-7aab-900c-167d3233e69f",
-      "time": "2026-08-12 20:47:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Goldman Sachs said U.S. July CPI was \"encouraging\"."
     }
   ]
 }
