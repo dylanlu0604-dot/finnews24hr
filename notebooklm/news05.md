@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 01:01:45_
-_本檔包含 3242 則快訊，約 619872 字_
+_更新時間：2026-08-20 01:36:30_
+_本檔包含 3225 則快訊，約 620765 字_
+
+---
+
+### 2026-08-14 07:30:12  #公司 #國際
+
+美國鋁業公司與EQUUS公司簽署天然氣銷售協議。
+
+---
+
+### 2026-08-14 07:29:17  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Decline Amid Hormuz Stalemate — Brent traded near $87 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision.
+
+---
+
+### 2026-08-14 07:29:13  #公司
+
+【國內兩大晶片巨頭二季度業績超預期】8月13日晚間，國內兩大晶片巨頭中芯國際和華虹宏力釋出今年第二季度未經稽核業績，雙雙超預期。據披露，中芯國際第二季度銷售收入為30億美元，季度環比增長20%，同比增長36.1%；第二季度毛利率為25.3%，第一季度毛利率為20.1%，2025年第二季度毛利率為20.4%。對比來看，在今年一季報中，中芯國際對第二季度給出的收入預期為環比增長14%到16%，毛利率預期為20%—22%。實際公佈的業績超此前預期。當晚，華虹宏力公佈的財報顯示，公司第二季度毛利率16.5%，同比上升5.6個百分點，環比上升3.5個百分點；銷售收入達7.175億美元，同比增長26.8%，環比增長8.6%；母公司擁有人應占利潤3860萬美元，同比上升385.9%，環比上升84.6%。對比來看，在今年一季報中，華虹宏力對第二季度給出的銷售收入預期約在6.9億美元至7億美元之間，毛利率預期約為14%—16%。實際公佈的業績也超過了此前預期。
+
+---
+
+### 2026-08-14 07:28:53  #公司 #國際
+
+【庫克亮相蘋果休斯頓工廠】週三，蘋果CEO蒂姆・庫克與美國商務部長霍華德・盧特尼克等政府官員共同出席得克薩斯州休斯頓全新制造工廠的揭牌儀式。蘋果表示，今年晚些時候，這座工廠將投產Mac Mini臺式電腦；廠區部分割槽域已經在組裝蘋果自用的AI伺服器。本次公開亮相正值庫克CEO任期的最後幾周。9月1日，庫克將轉任董事會執行主席，蘋果資深硬體高管約翰・特努斯接任CEO一職。（第一財經）
+
+---
+
+### 2026-08-14 07:28:30  #MKT News #XAUUSD #Impact bullish #WTI #Impact mixed #DXY
+
+Al Arabiya TV reported a drone was shot down over Erbil, the capital of Iraq's Kurdistan region.
+
+---
+
+### 2026-08-14 07:28:07  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Decline Amid Hormuz Stalemate — Crude oil traded near $81 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision.
+
+---
+
+### 2026-08-14 07:27:09  #其他
+
+哥倫比亞風險管理部門：哥倫比亞地震死亡人數升至281人。
+
+---
+
+### 2026-08-14 07:27:05  #MKT News
+
+Al Arabiya reports explosions in Erbil, Iraq.
+
+---
+
+### 2026-08-14 07:26:48  #市場 #國際
+
+【雙節臨近 長線遊預訂熱度攀升】中秋與國慶雙節臨近，今年“請3休13”的超長拼假方案，讓不少遊客選擇將年假與法定假期拼接，形成了近半個月的充裕出行視窗。受此拉動，假期出遊的規劃週期明顯拉長，暑期出行與“黃金週”的預訂實現了無縫銜接。 眾信旅遊資料顯示，截至8月12日，眾信旅遊“黃金週”期間出境遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%，反映出消費者長假出行意願高漲，提前規劃出遊的意識持續增強。 出境遊方向中，歐洲長線遊熱度攀升最為明顯。眾信旅遊資料顯示，截至8月12日，歐洲遊預訂量佔比接近整體出遊總量的一半，赴歐洲出遊人數同比增長達140%。（證券日報）
+
+---
+
+### 2026-08-14 07:25:40  #市場
+
+【年內熊貓債發行規模超2000億元創歷史新高】Wind資料顯示，截至8月13日，年內熊貓債發行規模達2024.75億元，同比上漲73.57%，這一資料也超過2025年全年的1835.6億元、2024年全年的1948億元，創歷史新高。“今年以來熊貓債市場的火熱態勢，是多重有利因素共同推動的結果。”中關村物聯網產業聯盟副秘書長袁帥表示，近年來監管層不斷簡化熊貓債的發行流程，降低了境外主體的發行門檻與制度性成本，讓更多境外機構有意願、有條件進入中國債券市場。同時，相較於部分發達經濟體的高利率環境，人民幣融資成本長期保持在相對合理的區間，能夠為境外發行主體降低融資成本，提升債務結構的穩定性。（證券日報）
 
 ---
 
@@ -19393,168 +19453,5 @@ Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed
 ### 2026-08-13 01:44:51  #國際
 
 阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。
-
----
-
-### 2026-08-13 01:35:16  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns.
-
----
-
-### 2026-08-13 01:34:37  #MKT News
-
-Sources say Google (GOOG.O) co-founder Sergey Brin has spent recent months urging staff to focus on returning the GEMINI model to the forefront of AI.
-
----
-
-### 2026-08-13 01:34:05  #公司
-
-市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。
-
----
-
-### 2026-08-13 01:32:28  #央行 #其他
-
-巴西央行：7 月美元資金淨流入規模達 19.38 億美元。
-
----
-
-### 2026-08-13 01:26:16  #MKT News
-
-Canada is weighing a proposal to keep exempting the value of U.S.-made parts in Canadian vehicle exports from auto tariffs, even as it seeks tariff waivers from the U.S., The Globe and Mail reports.
-
----
-
-### 2026-08-13 01:24:54  #國際
-
-該提案還將維持對加拿大出口汽車中美國產零部件價值的豁免條款。
-
----
-
-### 2026-08-13 01:24:34  #國際
-
-市場訊息：加拿大考慮在與美國的談判中提出汽車關稅建議。
-
----
-
-### 2026-08-13 01:23:30  #國際
-
-市場訊息：在德國舉行的一場大型軍事演習中，烏克蘭無人機操作人員壓制了美軍部隊。偵察無人機迅速鎖定美軍裝甲車輛，隨後攻擊無人機完成模擬 “擊毀”，實質上全殲一支美軍裝甲旅。
-
----
-
-### 2026-08-13 01:22:31  #MKT News
-
-The Wall Street Journal reported that Ukrainian drones defeated U.S. armored forces during military exercises in Germany this spring.
-
----
-
-### 2026-08-13 01:21:45  #市場 #國際
-
-【玉米期貨大漲 美國農業部大幅下調美國單產預期，降幅超市場預期】玉米期貨價格創下6月以來最大漲幅，此前美國農業部（USDA）大幅下調了美國玉米單產預期，降幅超過市場此前預期。芝加哥玉米期貨一度上漲4.1%，隨後漲幅有所收窄。週三早些時候，穀物價格已經開始上漲。俄羅斯一個重要糧食港口遭到襲擊，加劇了市場對俄烏衝突升級可能擾亂黑海地區糧食出口的擔憂。
-
----
-
-### 2026-08-13 01:21:19  #其他
-
-【科威特挫敗一起針對重要設施的恐襲圖謀 】科威特內政部12日宣佈，安全部門成功挫敗一起針對科威特一處重要設施的“恐怖襲擊圖謀”，並抓獲一名與“伊斯蘭國”組織有關聯的科威特公民。（新華社）
-
----
-
-### 2026-08-13 01:16:12  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $725 mln from one counterparty in a fixed-rate reverse repo operation.
-
----
-
-### 2026-08-13 01:12:10  #MKT News #Market Themes #AI Revolution
-
-Musk said Grok 4.6 ranks first overall for intelligence, runtime speed and usage cost.
-
----
-
-### 2026-08-13 01:09:42  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port.
-
----
-
-### 2026-08-13 01:09:10  #國際
-
-烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。
-
----
-
-### 2026-08-13 01:07:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%.
-
----
-
-### 2026-08-13 01:06:46  #市場 #國際
-
-美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。
-
----
-
-### 2026-08-13 01:06:27  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US 10-year Treasury auction yield hits highest since 2007.
-
----
-
-### 2026-08-13 01:05:52  #公司 #國際
-
-馬斯克：綜合智慧水平、速度與成本來看，Grok 4.6 客觀排名第一。
-
----
-
-### 2026-08-13 01:05:04  #市場 #國際
-
-美國10年期國債拍賣收益率創2007年以來新高。
-
----
-
-### 2026-08-13 01:03:38  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-US 10-year Treasury auction as of Aug 12: share of awards at the stop-out yield 65.27% (prior 40.29%).
-
----
-
-### 2026-08-13 01:03:29  #MKT News #Economic Calendar
-
-United States | 10-Year Note Auction Accepted at High (Aug.12) | actual 65.27% | previous 40.29%
-
----
-
-### 2026-08-13 01:03:29  #MKT News #Important #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-At the Aug 12 US 10-year Treasury auction, bid-cover ratio 2.53, versus 2.59 previously.
-
----
-
-### 2026-08-13 01:03:19  #MKT News #Economic Calendar
-
-United States | 10-Year Note Auction Bid/Cover Ratio (Aug.12) | actual 2.53 | previous 2.59
-
----
-
-### 2026-08-13 01:03:18  #市場 #國際
-
-美國至8月12日10年期國債競拍-得標利率 4.683%，前值4.58%。
-美國至8月12日10年期國債競拍-投標倍數 2.53，前值2.59。
-
----
-
-### 2026-08-13 01:03:17  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. 10-year Treasury auction on Aug 12: stop-out yield 4.683%, prior 4.58%.
-
----
-
-### 2026-08-13 01:03:10  #MKT News #Economic Calendar #Important
-
-United States | 10-Year Note Auction High Yield Rate (Aug.12) | actual 4.683% | previous 4.58%
 
 ---

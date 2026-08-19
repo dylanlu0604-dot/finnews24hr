@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 01:01:45_
-_本檔包含 3162 則快訊，約 619775 字_
+_更新時間：2026-08-20 01:36:30_
+_本檔包含 3156 則快訊，約 620679 字_
+
+---
+
+### 2026-08-19 01:29:09  #MKT News
+
+【Ecuador's Ivonne Baki enters race for next UN secretary-general】Ecuadorian diplomat Ivonne Baki has entered the race for UN secretary-general after being nominated by Tonga, UNGA president’s spokesperson Collins said. Other declared candidates are former Chilean president Michelle Bachelet; former UNGA president Maria Fernanda Espinosa (Ecuador); IAEA director-general Rafael Grossi (Argentina); UNCTAD secretary-general Rebeca Grynspan (Costa Rica); former UN deputy secretary-general Olara Otunnu (Uganda); Guyana’s permanent UN representative Caroline Rodrigues‑Birkett; and former Senegal president Macky Sall. Incumbent UN secretary-general Guterres’ term runs through Dec. 31.
+
+---
+
+### 2026-08-19 01:27:52  #MKT News #DXY #Impact bearish
+
+CBC News reports Canada and US trade negotiators are expected to meet again before a midnight tariff deadline.
+
+---
+
+### 2026-08-19 01:27:24  #國際
+
+市場訊息：加拿大與美國談判代表預計將在午夜關稅截止期限前再次會晤。
+
+---
+
+### 2026-08-19 01:26:54  #其他
+
+辛巴威渡輪事故遇難人數升至 94 人，政府證實該渡輪超載。
+
+---
+
+### 2026-08-19 01:26:36  #MKT News
+
+UK Maritime Trade Operations said it has received a report of an incident 40 nautical miles southeast of Mokha port, Yemen.
+
+---
+
+### 2026-08-19 01:25:46  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+UK Maritime Trade Operations said an unmanned cargo vessel was struck by multiple rounds of unknown ordnance and sustained damage.
+
+---
+
+### 2026-08-19 01:24:48  #其他
+
+英國海事貿易行動辦公室稱，一艘無人貨船遭多枚不明拋射物擊中，船體受損。
+
+---
+
+### 2026-08-19 01:23:52  #其他
+
+英國海事貿易行動辦公室稱，收到一則事件報告，事發地點位於葉門穆哈港東南 40 海里處。
+
+---
+
+### 2026-08-19 01:23:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Canadian Oil Sands Alliance chair says Canadian oil sands companies plan to take a final investment decision on the Pathways carbon-capture project by the end of next year.
+
+---
+
+### 2026-08-19 01:20:37  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週二使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。
+
+---
+
+### 2026-08-19 01:18:31  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【UAE, US leaders discuss regional security as US‑Iran talks stall】UAE President Mohammed bin Zayed spoke by phone with US President Trump on the 18th to discuss bilateral cooperation and the regional situation. The US‑Iran conflict remains ongoing; a two‑month window for peace talks recently ended with no progress, and the US says Iran refused to make concessions in indirect negotiations. On the 17th, Mohammed met Oman’s Sultan Haitham in Abu Dhabi to discuss regional security and deepen economic cooperation; both sides agreed to continue cooperating on shared regional challenges and to strengthen their partnership for security and stability.
+
+---
+
+### 2026-08-19 01:17:51  #央行 #國際
+
+週二（8月18日），美聯儲隔夜逆回購協議（RRP）使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。
+
+---
+
+### 2026-08-19 01:16:33  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $155 million from six counterparties in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-19 01:15:20  #國際
+
+【阿聯酋與美國兩國總統通電話 討論雙邊合作及地區局勢】當地時間18日，阿聯酋總統穆罕默德與美國總統特朗普通電話，就兩國合作及加強雙邊關係等議題進行了討論。當前，美國與伊朗的衝突仍在持續，為期兩個月的和平談判視窗期已於近日結束，未能就解決衝突取得任何進展。美方表示，伊朗在間接談判中拒絕做出讓步。（央視新聞）
+
+---
+
+### 2026-08-19 01:12:39  #MKT News
+
+An adviser to Turkish President ERDOGAN said, regarding the attack in Syria, that Turkey will continue to support Syrian sovereignty.
+
+---
+
+### 2026-08-19 01:10:28  #MKT News #WTI #Impact bearish #XAUUSD
+
+Israeli security sources say that given the current political situation they do not expect any progress on a Gaza agreement, and that no major action in the Gaza Strip will be taken before Israel's election.
+
+---
+
+### 2026-08-19 01:08:28  #國際
+
+市場訊息：襲擊發生後，土耳其總統埃爾多安顧問表示：“我們將繼續支援敘利亞的主權”。
+
+---
+
+### 2026-08-19 01:07:00  #宏觀 #國際
+
+一名安全訊息人士稱：鑑於當前政治局勢，我們預計加沙地帶的相關協議不會取得任何進展。在選舉結束之前，各方都不會在加沙採取重大行動。
+
+---
+
+### 2026-08-19 01:06:39  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Treasury says it has imposed new Venezuela-related sanctions.
+
+---
+
+### 2026-08-19 01:06:22  #宏觀 #國際
+
+美國財政部：美國出臺新一輪針對委內瑞拉的制裁，制裁物件為一家實體。
+
+---
+
+### 2026-08-19 01:05:21  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Markets, anticipating effects from global risk aversion, priced Argentina's country risk index at 500bps, the highest since June 10.
+
+---
+
+### 2026-08-19 01:04:27  #其他
+
+交易商：受全球風險規避情緒影響，阿根廷國家風險溢價攀升至 500 個基點，創 6 月 10 日以來新高。
+
+---
+
+### 2026-08-19 01:04:09  #MKT News
+
+U.S. Treasury announces new sanctions related to the International Criminal Court.
+
+---
+
+### 2026-08-19 01:03:51  #其他
+
+洛杉磯港7月貨物吞吐量接近歷史紀錄。
+
+---
+
+### 2026-08-19 01:03:46  #宏觀 #國際
+
+美國財政部：美國針對國際刑事法院出臺新一輪制裁。
+
+---
+
+### 2026-08-19 01:02:07  #MKT News
+
+Ghalibaf said Americans believe increased pressure on Iran will force concessions, but those concessions were never part of the agreement; he said US Treasury Secretary BESSENT and Defense Secretary Hegseth are powerless.
+
+---
+
+### 2026-08-19 01:02:00  #國際
+
+伊朗伊斯蘭議會議長卡利巴夫： 美國人以為對伊朗施加更大壓力，就能拿到協議中從未包含的讓步。貝森特與赫格塞斯完全不自量力。別再指望這群跳樑小醜能變出什麼奇蹟，趕緊收拾你們自己捅出來的爛攤子。
+
+---
+
+### 2026-08-19 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌1.06%，滬銅收跌0.89%，滬鋁收跌0.75%，滬鋅收跌1.07%，滬鉛收漲0.47%，滬鎳收跌0.25%，滬錫收跌1.21%。氧化鋁夜盤收跌0.07%，鋁合金收跌0.46%。不鏽鋼夜盤收漲0.25%。
+
+---
+
+### 2026-08-19 00:59:12  #其他
+
+塔斯尼姆通訊社：沙特僱傭兵襲擊葉門塔伊茲省多地。
+
+---
+
+### 2026-08-19 00:58:51  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Ukrainian forces launched an airstrike in Russia's Belgorod region, killing one and wounding three.
+
+---
+
+### 2026-08-19 00:58:13  #公司 #觀點
+
+【高盛一週內達成第二筆交易，收購LCN瞄準“省心收租”模式】高盛集團一週內達成第二筆交易，繼續推進擴大其4萬億美元資產管理業務的計劃。高盛財富與資產管理部門主管Marc Nachmann時表示，這家華爾街巨頭將支付不超4.1億美元，收購商業地產投資公司LCN Capital Partners。LCN主要業務是售後回租協議和“三重淨租賃”專案。
+
+---
+
+### 2026-08-19 00:57:46  #MKT News
+
+【Anthropic draws bank demand; pre-IPO revolving credit may top $10bn】Anthropic is expanding a planned revolving credit facility ahead of an IPO, with the size now expected to exceed about $10bn, sources said. The AI firm, developer of Claude, has pitched higher allocations to banks: lead arrangers were asked to commit roughly $1.25bn each, a second tier about $1.0bn, and less-active banks around $0.75bn or lower.
+
+---
+
+### 2026-08-19 00:54:04  #其他
+
+LME期銅收跌171美元，報13986美元/噸。LME期鋁收跌46美元，報3220美元/噸。LME期鋅收跌76美元，報3693美元/噸。LME期鉛收跌1美元，報1887美元/噸。LME期鎳收跌83美元，報16751美元/噸。LME期錫收跌951美元，報54819美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-08-19 00:53:49  #MKT News
+
+Market sources report a large explosion at a factory in Finland near the Russian border.
+
+---
+
+### 2026-08-19 00:52:27  #國際
+
+俄羅斯邊境附近的芬蘭工廠發生劇烈爆炸。
+
+---
+
+### 2026-08-19 00:51:16  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israel strikes Abu Zuhur airbase in NW Syria; Turkey denies troop presence, US expresses concern】Axios, citing an Israeli official, reported Israel struck the Abu Zuhur airbase in northwest Syria to prevent Turkey from expanding military facilities in the area. A Turkish official denied Turkish forces were stationed at the base and accused Israel of fabricating a pretext for the attack; the United States said it was deeply concerned.
+
+---
+
+### 2026-08-19 00:48:29  #MKT News #Market Themes #The Trump Trade
+
+Axios, citing White House sources, reports the White House will hold an event tomorrow with Trump and several tech leaders; prediction-market firms were not invited and will not attend.
+
+---
+
+### 2026-08-19 00:47:07  #MKT News
+
+Market sources: ANTHROPIC has asked lead banks to provide about $1.25 bln each in loans; other major participating banks are expected to provide about $1.0 bln each.
+
+---
+
+### 2026-08-19 00:44:00  #MKT News #Important
+
+Market sources say ANTHROPIC's pre-IPO credit facility could exceed its $10 bln target.
+
+---
+
+### 2026-08-19 00:43:55  #國際
+
+市場訊息：預測市場的老闆們不會參加美國總統特朗普的白宮會議。
+
+---
+
+### 2026-08-19 00:43:13  #MKT News #Brent #Impact bullish
+
+【UAE says ready to respond to any threat】UAE defence ministry said air-defence systems detected two ballistic missiles from the direction of Iran heading toward UAE; one fell outside territorial waters and the other inside, with no casualties or damage. The ministry said the country is on high alert, prepared to respond to any threat and will take measures to safeguard sovereignty, security and stability. It urged the public to obtain information only from official channels and avoid spreading unverified reports.
 
 ---
 
@@ -18808,287 +19054,5 @@ NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
 ### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
 
 Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
-
----
-
-### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
-
----
-
-### 2026-08-17 20:33:56  #國際
-
-8月17日，國內基金淨買入印度股票510億印度盧比。
-
----
-
-### 2026-08-17 20:33:50  #資料 #市場 #國際
-
-加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
-
----
-
-### 2026-08-17 20:33:45  #國際
-
-8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
-
----
-
-### 2026-08-17 20:33:29  #公司
-
-【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 20:32:48  #其他
-
-【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
-
----
-
-### 2026-08-17 20:32:38  #其他
-
-【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
-
----
-
-### 2026-08-17 20:32:15  #公司
-
-【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
-
----
-
-### 2026-08-17 20:31:22  #央行 #其他
-
-紐約聯儲隔夜回購操作未收到任何投標。
-
----
-
-### 2026-08-17 20:31:04  #經濟數據 #加拿大
-
-加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
-
----
-
-### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
-
-US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
-
----
-
-### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
-
----
-
-### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
-
-US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
-
----
-
-### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
-
----
-
-### 2026-08-17 20:30:36  #經濟數據 #美國
-
-美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
-
-New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
-
----
-
-### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
-
-United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
-
----
-
-### 2026-08-17 20:30:22  #央行 #國際
-
-美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:22  #MKT News
-
-Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
-
----
-
-### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
-
-Canada July core CPI YoY 2.3% vs prev 2.1%.
-
----
-
-### 2026-08-17 20:30:16  #資料
-
-加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
-
----
-
-### 2026-08-17 20:30:15  #MKT News
-
-Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
-
-Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
-
-Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
-
----
-
-### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
-
----
-
-### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
-
----
-
-### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
-
----
-
-### 2026-08-17 20:29:33  #公司
-
-【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
-
----
-
-### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
-
-A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
-
----
-
-### 2026-08-17 20:28:47  #國際
-
-【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
-
----
-
-### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
-
----
-
-### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
-
-Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
-
----
-
-### 2026-08-17 20:27:01  #MKT News #Market Themes #The Trump Trade
-
-Hamas told Al Jazeera that Trump's comments confirm his commitment to the ceasefire process and urged him to pressure the Israeli government to comply with the agreement and implement the second phase of the peace plan.
-
----
-
-### 2026-08-17 20:25:53  #公司
-
-【睿創微納：2026年半年度淨利潤12.59億元，同比增長258.78%】睿創微納公告，2026年半年度營業收入43.97億元，同比增長72.84%；歸屬於上市公司股東的淨利潤12.59億元，同比增長258.78%；歸屬於上市公司股東的扣除非經常性損益的淨利潤12.33億元，同比增長275.38%。公司擬向全體股東每10股派發現金紅利5元（含稅）。
-
----
-
-### 2026-08-17 20:23:15  #國際
-
-【特朗普要求伊朗舉白旗投降】據美國福克斯新聞今天（8月17日）報道，美國總統特朗普在接受其採訪時稱，結束與伊朗的戰爭“沒有時間表”，他“並不著急”，並要求伊朗“舉起白旗投降”。福克斯新聞記者稱，特朗普表示，他在解決這場戰爭問題上的考慮“與美國中期選舉無關”。（CCTV國際時訊）
-
----
-
-### 2026-08-17 20:22:31  #公司
-
-【寒武紀：調整2026年限制性股票激勵計劃首次授予名單】寒武紀公告稱，因1名激勵物件離職失去激勵資格，公司對2026年限制性股票激勵計劃首次授予激勵物件名單及授予人數作出調整，首次授予激勵物件人數由945人調整為944人，該離職人員原獲配股份數將調整至其他首次授予激勵物件，首次授予的限制性股票總數量保持不變。本次調整已履行相關審議程式，調整後的激勵物件仍屬於此前股東會審議透過的激勵物件範圍，不會對公司財務狀況和經營成果產生實質性影響。
-
----
-
-### 2026-08-17 20:22:21  #MKT News #UBER.N
-
-Uber (UBER.N) CEO said Uber and Zipline plan to achieve 1 million drone deliveries per day by end-2029.
-
----
-
-### 2026-08-17 20:21:53  #MKT News #UBER.N #Impact bullish
-
-Uber (UBER.N) CEO said Uber Eats will partner with Zipline on delivery services by year-end.
-
----
-
-### 2026-08-17 20:21:38  #MKT News #RTX.N #Impact bullish
-
-Raytheon Technologies (RTX.N) said its US Navy Tomahawk missile contract has a seven-year term.
-
----
-
-### 2026-08-17 20:21:32  #公司
-
-【盈新發展：擬募資17.79億元投向半導體相關專案】盈新發展公告稱，公司擬向特定物件發行股票，募集資金不超過17.79億元，扣除發行費用後，10.53億元用於先進封測及儲存模組製造專案，2.06億元用於儲存器主控晶片研發專案，5.20億元用於補充流動資金及償還銀行貸款。其中前兩個專案由公司控股子公司長興半導體實施，公司擬以向其提供借款的方式推進。募集資金到位前，公司可根據專案進度以自籌資金先行投入，後續按規定置換。若實際募集資金淨額少於擬使用金額，不足部分由公司自籌解決。
 
 ---

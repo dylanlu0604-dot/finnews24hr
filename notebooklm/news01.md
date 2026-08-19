@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 01:01:45_
-_本檔包含 3154 則快訊，約 620070 字_
+_更新時間：2026-08-20 01:36:30_
+_本檔包含 3157 則快訊，約 621082 字_
+
+---
+
+### 2026-08-20 01:34:59  #MKT News
+
+Brazil central bank said month-to-date net capital inflows through Aug. 14 totaled $1.504 bln; net inflows last week were $851 mln.
+
+---
+
+### 2026-08-20 01:33:30  #MKT News #WTI #Brent
+
+【Trump says U.S. may resume talks with Iran 'sometime'】At the White House on June 19, President Trump said the U.S. may resume talks with Iran 'sometime' but only if Tehran completely abandons nuclear weapons. Asked whether the U.S. would return to negotiations he said 'maybe sometime' and 'for now, I think the situation is very good.' He reiterated Iran must 'completely give up' nuclear arms, asserted the U.S. 'owns' and 'fully controls' the Strait of Hormuz, and said occasional Iranian drone launches 'do cause trouble.'
+
+---
+
+### 2026-08-20 01:30:27  #MKT News #Commodities #Energy #SLB.N #Impact bullish #WTI #Impact bearish
+
+Schlumberger (SLB.N) top executive said the company expects to recommission up to 15 oil rigs currently in Venezuela within less than a year.
+
+---
+
+### 2026-08-20 01:29:05  #公司 #焦點
+
+德意志銀行將芝商所集團目標股價從每股286美元下調至270美元，將芝商所集團評級從買入下調至持有。
+
+---
+
+### 2026-08-20 01:28:33  #公司
+
+Stripe收購OpenRouter的交易對價超過80億美元，大部分以股份支付。
+
+---
+
+### 2026-08-20 01:27:07  #MKT News #WTI #Impact bearish #Brent
+
+【Iraqi leaders meet Iran parliament speaker on bilateral ties, regional tensions】On the 19th in Baghdad, Iraqi Prime Minister Zaidi, President Amidi and Parliament Speaker Halbusi met visiting Iranian Islamic Consultative Assembly Speaker Qalibaf to discuss consolidating bilateral relations and easing regional tensions.
+
+---
+
+### 2026-08-20 01:27:02  #國際
+
+【伊拉克領導人會見伊朗議長 聚焦雙邊關係和地區局勢】伊拉克總理扎伊迪、總統阿米迪和國民議會議長哈勒布西19日分別在首都巴格達會見來訪的伊朗伊斯蘭議會議長卡利巴夫，就鞏固雙邊關係及緩和地區緊張局勢等議題交換意見。（新華社）
+
+---
+
+### 2026-08-20 01:25:27  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli Prime Minister Netanyahu said he will not tolerate a Turkish military presence in Syria that threatens Israel.
+
+---
+
+### 2026-08-20 01:24:53  #資料
+
+加拿大養老金計劃投資委員會(CPPIB)據稱有多位高層人員離職。
+
+---
+
+### 2026-08-20 01:24:42  #國際
+
+以色列總理內塔尼亞胡：我們絕不容忍土耳其在敘利亞的軍事存在威脅以色列。我們已經明確傳達了資訊，不要這樣做。看來他們沒聽清楚，所以我們確保他們徹底明白了。
+
+---
+
+### 2026-08-20 01:24:13  #其他
+
+露露樂蒙通訊主管錢德勒將離職。
+
+---
+
+### 2026-08-20 01:23:57  #MKT News
+
+Tariq Saleh, vice president of Yemen's Presidential Leadership Council, said his forces have cut maritime supply lines and smuggling routes between Iran and Houthi forces.
+
+---
+
+### 2026-08-20 01:23:29  #其他 #焦點
+
+【OpenAI預覽前沿模型私有安全處理功能】OpenAI正在預覽私有安全處理功能，該功能可監控複雜人工智慧互動，同時不留存客戶資料，也不違背企業安全合規義務。該系統基於零資料留存架構構建，確保提示詞與模型回覆不會被儲存，OpenAI工作人員也無法檢視。除非客戶明確選擇許可，企業客戶資料將不會用於模型訓練。該系統目前正在部分早期企業使用者中開展測試，計劃於9月全面推出，並同步釋出技術白皮書。
+
+---
+
+### 2026-08-20 01:23:26  #MKT News
+
+Yemen Presidential Council deputy chair Tariq Saleh said Houthi forces have so far launched 56 ballistic missiles and 44 drones at Yemen's west coast.
+
+---
+
+### 2026-08-20 01:22:23  #MKT News
+
+Yemen's Presidential Leadership Council vice chairman Tariq Saleh said the confrontation with Houthi forces has changed with the introduction of new weaponry, including drones.
+
+---
+
+### 2026-08-20 01:20:42  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY
+
+【CITIGROUP doubts 'hawkish' tilt in Fed minutes; JP Morgan highlights internal inflation split】Three Fed officials dissented at the July meeting, arguing for a hike because core inflation was 2.6%—well above the 2% target. August data have weakened that rationale: core CPI (ex food and energy) rose 2.5% YoY in July, the weakest since Mar 2021, and July payrolls showed a decline of 23,000 jobs. CITIGROUP US chief economist Andrew Hollenhorst said those prints will make it difficult for the minutes to materially raise the market’s reduced odds of further rate hikes. The minutes should still clarify how large the Fed’s internal “hawk” vs “dove” split was at the July meeting and may reveal how officials plan to define and assess inflation pressures going forward. JP Morgan chief US economist Michael Feroli said the minutes could show how much tolerance FOMC members have for inflation above the target.
+
+---
+
+### 2026-08-20 01:18:39  #MKT News #Market Themes #AI Revolution
+
+OpenAI launches preview of "Private Safety Processing" to bolster AI interaction safety without changing its zero-data-retention approach. The feature will be rolled out in phases starting in September and OpenAI will publish a technical white paper.
+
+---
+
+### 2026-08-20 01:18:06  #其他
+
+OpenAI：預覽私人安全處理功能，該功能在保持與零資料保留相容的同時，加強了互動過程中的安全防護。
+
+---
+
+### 2026-08-20 01:17:08  #其他
+
+OpenAI：將於9月推出私有安全處理功能。
+
+---
+
+### 2026-08-20 01:16:46  #其他
+
+OpenAI：零資料留存內容不會被留存，也不會用於模型訓練。
+
+---
+
+### 2026-08-20 01:16:26  #央行 #國際
+
+18家交易對手在美聯儲逆回購操作中獲得3.17億美元。
+
+---
+
+### 2026-08-20 01:16:14  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $317 mln from 18 counterparties in fixed-rate reverse repo operations.
+
+---
+
+### 2026-08-20 01:16:11  #其他
+
+OpenAI：前沿模型提供零資料留存功能。
+
+---
+
+### 2026-08-20 01:15:54  #國際
+
+俄羅斯國防部通報，當日俄防空部隊在俄境內各地區共攔截並擊落438架烏克蘭無人機。
+
+---
+
+### 2026-08-20 01:15:37  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Russian Defence Ministry said its air-defence forces shot down 438 Ukrainian drones in one day.
+
+---
+
+### 2026-08-20 01:11:33  #MKT News
+
+The office of Canada's minister for Canada-U.S. trade, LeBlanc, said he is returning to Ottawa to meet the Prime Minister and attend other meetings to push to finalize Canada-U.S. trade negotiations.
+
+---
+
+### 2026-08-20 01:11:03  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.67 basis points, and in the last 12 months, it increased 55.80 basis points.
+
+---
+
+### 2026-08-20 01:11:00  #市場
+
+WTI原油日內漲2%，現報85.75美元/桶。
+
+---
+
+### 2026-08-20 01:10:59  #國際
+
+加拿大負責美國貿易事務的部長多米尼克·勒布朗正返回渥太華，與總理會面並參加其他必要會議，以完成貿易談判。
+
+---
+
+### 2026-08-20 01:10:27  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Retreats From Three-Week High — US gasoline futures traded below $3.30 per gallon, retreating from a three-week high as traders weighed uncertainty surrounding the Strait of Hormuz against an unexpected build in domestic inventories. EIA data showed US gasoline stocks increased by 0.688 million barrels in the week ending August 14th, missing expectations for a 1.2 million-barrel draw. Inventories are now 5% below their seasonal average, narrowing from 6% the previous week. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, noting that refiners are operating at record levels. Still, fading hopes of a reopening of the Strait of Hormuz pushed oil prices higher. Trump said no talks were underway with Iran and that the waterway remained open, while Tehran said a US naval blockade was still in place. Tanker traffic remained subdued, with limited traffic still passing through the strategic route, as shipowners stayed cautious.
+
+---
+
+### 2026-08-20 01:09:55  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish
+
+【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details.
+
+---
+
+### 2026-08-20 01:09:10  #MKT News
+
+Sources said this was the first call between Syria's top diplomat and Israel's top foreign-intelligence official since Roman Gofman took office in June.
+
+---
+
+### 2026-08-20 01:08:54  #國際
+
+敘利亞最高外交官與以色列最高對外情報官員自去年6月以色列官員上任以來首次進行通話。
+
+---
+
+### 2026-08-20 01:08:50  #MKT News
+
+Sources said the new Mossad director, Roman Gofman, held a phone call with Syrian foreign minister Assad Shebani on Aug. 14 to discuss Turkey's military presence in Syria.
+
+---
+
+### 2026-08-20 01:08:32  #國際
+
+訊息人士稱，8月14日，以色列新任摩薩德局長羅曼·戈夫曼與敘利亞外交部長阿薩德·謝巴尼通電話，雙方討論了土耳其在敘利亞的軍事駐紮問題。
+
+---
+
+### 2026-08-20 01:07:23  #國際
+
+伊朗議長卡利巴夫：伊朗與伊拉克具備在本地區創造空前機遇的潛力。
+
+---
+
+### 2026-08-20 01:04:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 20-year Treasury yield was little changed after the auction, edging down 7.42 bps to 5.205%.
+
+---
+
+### 2026-08-20 01:03:27  #市場 #國際
+
+美國20年期國債中標收益率5.204%，高於拍賣前預發行（WI）收益率5.199%。
+
+---
+
+### 2026-08-20 01:03:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 20-year Treasury auction on Aug. 19 — stop-out yield 5.204%, prior 5.16%.
+
+---
+
+### 2026-08-20 01:03:06  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 20-year Treasury auction as of Aug 19: share allocated at the stop-out yield 65.58%, prior 15.13%.
+
+---
+
+### 2026-08-20 01:02:55  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction Accepted at High (Aug.19) | actual 65.58% | previous 15.13%
+
+---
+
+### 2026-08-20 01:02:49  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction High Yield Rate (Aug.19) | actual 5.204% | previous 5.16%
+
+---
+
+### 2026-08-20 01:02:45  #MKT News #US10Y #Impact bearish
+
+U.S. 20-year Treasury auction bid-cover ratio 2.53 as of Aug. 19; prior 2.64.
+
+---
+
+### 2026-08-20 01:02:36  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction Bid/Cover Ratio (Aug.19) | actual 2.53 | previous 2.64
 
 ---
 
@@ -18765,251 +19029,5 @@ A Yemen government-backed armed group said Houthi shelling in Hodeidah province'
 ### 2026-08-19 01:29:10  #其他
 
 【厄瓜多外交官巴基角逐下一任聯合國秘書長】聯大主席發言人柯林斯18日宣佈，厄瓜多外交官伊沃內·巴基角逐下一任聯合國秘書長。柯林斯說，巴基的候選人身份由湯加提名。目前，除巴基外，另有7人角逐下一任聯合國秘書長職位，分別為：智利前總統米歇爾·巴切萊特、來自厄瓜多的聯大前主席瑪麗亞·費爾南達·埃斯皮諾薩、來自阿根廷的現任國際原子能機構總幹事拉斐爾·格羅西、來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、來自烏干達的聯合國前副秘書長奧拉拉·奧通努、現任蓋亞那常駐聯合國代表卡羅琳·羅德里格斯-伯基特、塞內加爾前總統麥基·薩勒。現任聯合國秘書長古特雷斯的任期至今年12月31日。（新華社）
-
----
-
-### 2026-08-19 01:29:09  #MKT News
-
-【Ecuador's Ivonne Baki enters race for next UN secretary-general】Ecuadorian diplomat Ivonne Baki has entered the race for UN secretary-general after being nominated by Tonga, UNGA president’s spokesperson Collins said. Other declared candidates are former Chilean president Michelle Bachelet; former UNGA president Maria Fernanda Espinosa (Ecuador); IAEA director-general Rafael Grossi (Argentina); UNCTAD secretary-general Rebeca Grynspan (Costa Rica); former UN deputy secretary-general Olara Otunnu (Uganda); Guyana’s permanent UN representative Caroline Rodrigues‑Birkett; and former Senegal president Macky Sall. Incumbent UN secretary-general Guterres’ term runs through Dec. 31.
-
----
-
-### 2026-08-19 01:27:52  #MKT News #DXY #Impact bearish
-
-CBC News reports Canada and US trade negotiators are expected to meet again before a midnight tariff deadline.
-
----
-
-### 2026-08-19 01:27:24  #國際
-
-市場訊息：加拿大與美國談判代表預計將在午夜關稅截止期限前再次會晤。
-
----
-
-### 2026-08-19 01:26:54  #其他
-
-辛巴威渡輪事故遇難人數升至 94 人，政府證實該渡輪超載。
-
----
-
-### 2026-08-19 01:26:36  #MKT News
-
-UK Maritime Trade Operations said it has received a report of an incident 40 nautical miles southeast of Mokha port, Yemen.
-
----
-
-### 2026-08-19 01:25:46  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-UK Maritime Trade Operations said an unmanned cargo vessel was struck by multiple rounds of unknown ordnance and sustained damage.
-
----
-
-### 2026-08-19 01:24:48  #其他
-
-英國海事貿易行動辦公室稱，一艘無人貨船遭多枚不明拋射物擊中，船體受損。
-
----
-
-### 2026-08-19 01:23:52  #其他
-
-英國海事貿易行動辦公室稱，收到一則事件報告，事發地點位於葉門穆哈港東南 40 海里處。
-
----
-
-### 2026-08-19 01:23:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Canadian Oil Sands Alliance chair says Canadian oil sands companies plan to take a final investment decision on the Pathways carbon-capture project by the end of next year.
-
----
-
-### 2026-08-19 01:20:37  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週二使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。
-
----
-
-### 2026-08-19 01:18:31  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【UAE, US leaders discuss regional security as US‑Iran talks stall】UAE President Mohammed bin Zayed spoke by phone with US President Trump on the 18th to discuss bilateral cooperation and the regional situation. The US‑Iran conflict remains ongoing; a two‑month window for peace talks recently ended with no progress, and the US says Iran refused to make concessions in indirect negotiations. On the 17th, Mohammed met Oman’s Sultan Haitham in Abu Dhabi to discuss regional security and deepen economic cooperation; both sides agreed to continue cooperating on shared regional challenges and to strengthen their partnership for security and stability.
-
----
-
-### 2026-08-19 01:17:51  #央行 #國際
-
-週二（8月18日），美聯儲隔夜逆回購協議（RRP）使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。
-
----
-
-### 2026-08-19 01:16:33  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $155 million from six counterparties in a fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-19 01:15:20  #國際
-
-【阿聯酋與美國兩國總統通電話 討論雙邊合作及地區局勢】當地時間18日，阿聯酋總統穆罕默德與美國總統特朗普通電話，就兩國合作及加強雙邊關係等議題進行了討論。當前，美國與伊朗的衝突仍在持續，為期兩個月的和平談判視窗期已於近日結束，未能就解決衝突取得任何進展。美方表示，伊朗在間接談判中拒絕做出讓步。（央視新聞）
-
----
-
-### 2026-08-19 01:12:39  #MKT News
-
-An adviser to Turkish President ERDOGAN said, regarding the attack in Syria, that Turkey will continue to support Syrian sovereignty.
-
----
-
-### 2026-08-19 01:10:28  #MKT News #WTI #Impact bearish #XAUUSD
-
-Israeli security sources say that given the current political situation they do not expect any progress on a Gaza agreement, and that no major action in the Gaza Strip will be taken before Israel's election.
-
----
-
-### 2026-08-19 01:08:28  #國際
-
-市場訊息：襲擊發生後，土耳其總統埃爾多安顧問表示：“我們將繼續支援敘利亞的主權”。
-
----
-
-### 2026-08-19 01:07:00  #宏觀 #國際
-
-一名安全訊息人士稱：鑑於當前政治局勢，我們預計加沙地帶的相關協議不會取得任何進展。在選舉結束之前，各方都不會在加沙採取重大行動。
-
----
-
-### 2026-08-19 01:06:39  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Treasury says it has imposed new Venezuela-related sanctions.
-
----
-
-### 2026-08-19 01:06:22  #宏觀 #國際
-
-美國財政部：美國出臺新一輪針對委內瑞拉的制裁，制裁物件為一家實體。
-
----
-
-### 2026-08-19 01:05:21  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Markets, anticipating effects from global risk aversion, priced Argentina's country risk index at 500bps, the highest since June 10.
-
----
-
-### 2026-08-19 01:04:27  #其他
-
-交易商：受全球風險規避情緒影響，阿根廷國家風險溢價攀升至 500 個基點，創 6 月 10 日以來新高。
-
----
-
-### 2026-08-19 01:04:09  #MKT News
-
-U.S. Treasury announces new sanctions related to the International Criminal Court.
-
----
-
-### 2026-08-19 01:03:51  #其他
-
-洛杉磯港7月貨物吞吐量接近歷史紀錄。
-
----
-
-### 2026-08-19 01:03:46  #宏觀 #國際
-
-美國財政部：美國針對國際刑事法院出臺新一輪制裁。
-
----
-
-### 2026-08-19 01:02:07  #MKT News
-
-Ghalibaf said Americans believe increased pressure on Iran will force concessions, but those concessions were never part of the agreement; he said US Treasury Secretary BESSENT and Defense Secretary Hegseth are powerless.
-
----
-
-### 2026-08-19 01:02:00  #國際
-
-伊朗伊斯蘭議會議長卡利巴夫： 美國人以為對伊朗施加更大壓力，就能拿到協議中從未包含的讓步。貝森特與赫格塞斯完全不自量力。別再指望這群跳樑小醜能變出什麼奇蹟，趕緊收拾你們自己捅出來的爛攤子。
-
----
-
-### 2026-08-19 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌1.06%，滬銅收跌0.89%，滬鋁收跌0.75%，滬鋅收跌1.07%，滬鉛收漲0.47%，滬鎳收跌0.25%，滬錫收跌1.21%。氧化鋁夜盤收跌0.07%，鋁合金收跌0.46%。不鏽鋼夜盤收漲0.25%。
-
----
-
-### 2026-08-19 00:59:12  #其他
-
-塔斯尼姆通訊社：沙特僱傭兵襲擊葉門塔伊茲省多地。
-
----
-
-### 2026-08-19 00:58:51  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Ukrainian forces launched an airstrike in Russia's Belgorod region, killing one and wounding three.
-
----
-
-### 2026-08-19 00:58:13  #公司 #觀點
-
-【高盛一週內達成第二筆交易，收購LCN瞄準“省心收租”模式】高盛集團一週內達成第二筆交易，繼續推進擴大其4萬億美元資產管理業務的計劃。高盛財富與資產管理部門主管Marc Nachmann時表示，這家華爾街巨頭將支付不超4.1億美元，收購商業地產投資公司LCN Capital Partners。LCN主要業務是售後回租協議和“三重淨租賃”專案。
-
----
-
-### 2026-08-19 00:57:46  #MKT News
-
-【Anthropic draws bank demand; pre-IPO revolving credit may top $10bn】Anthropic is expanding a planned revolving credit facility ahead of an IPO, with the size now expected to exceed about $10bn, sources said. The AI firm, developer of Claude, has pitched higher allocations to banks: lead arrangers were asked to commit roughly $1.25bn each, a second tier about $1.0bn, and less-active banks around $0.75bn or lower.
-
----
-
-### 2026-08-19 00:54:04  #其他
-
-LME期銅收跌171美元，報13986美元/噸。LME期鋁收跌46美元，報3220美元/噸。LME期鋅收跌76美元，報3693美元/噸。LME期鉛收跌1美元，報1887美元/噸。LME期鎳收跌83美元，報16751美元/噸。LME期錫收跌951美元，報54819美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-08-19 00:53:49  #MKT News
-
-Market sources report a large explosion at a factory in Finland near the Russian border.
-
----
-
-### 2026-08-19 00:52:27  #國際
-
-俄羅斯邊境附近的芬蘭工廠發生劇烈爆炸。
-
----
-
-### 2026-08-19 00:51:16  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israel strikes Abu Zuhur airbase in NW Syria; Turkey denies troop presence, US expresses concern】Axios, citing an Israeli official, reported Israel struck the Abu Zuhur airbase in northwest Syria to prevent Turkey from expanding military facilities in the area. A Turkish official denied Turkish forces were stationed at the base and accused Israel of fabricating a pretext for the attack; the United States said it was deeply concerned.
-
----
-
-### 2026-08-19 00:48:29  #MKT News #Market Themes #The Trump Trade
-
-Axios, citing White House sources, reports the White House will hold an event tomorrow with Trump and several tech leaders; prediction-market firms were not invited and will not attend.
-
----
-
-### 2026-08-19 00:47:07  #MKT News
-
-Market sources: ANTHROPIC has asked lead banks to provide about $1.25 bln each in loans; other major participating banks are expected to provide about $1.0 bln each.
-
----
-
-### 2026-08-19 00:44:00  #MKT News #Important
-
-Market sources say ANTHROPIC's pre-IPO credit facility could exceed its $10 bln target.
-
----
-
-### 2026-08-19 00:43:55  #國際
-
-市場訊息：預測市場的老闆們不會參加美國總統特朗普的白宮會議。
-
----
-
-### 2026-08-19 00:43:13  #MKT News #Brent #Impact bullish
-
-【UAE says ready to respond to any threat】UAE defence ministry said air-defence systems detected two ballistic missiles from the direction of Iran heading toward UAE; one fell outside territorial waters and the other inside, with no casualties or damage. The ministry said the country is on high alert, prepared to respond to any threat and will take measures to safeguard sovereignty, security and stability. It urged the public to obtain information only from official channels and avoid spreading unverified reports.
 
 ---
