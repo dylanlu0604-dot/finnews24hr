@@ -1,7 +1,80 @@
 {
   "date": "2026-08-20",
-  "count": 49,
+  "count": 58,
   "items": [
+    {
+      "id": "mkt:01a01ae1-510f-7aab-909d-ad9f3fb594c7",
+      "time": "2026-08-20 00:36:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: the World Economic Forum is still courting ECB President Christine Lagarde to serve as its next chair."
+    },
+    {
+      "id": "5048426",
+      "time": "2026-08-20 00:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會就個性化定價政策徵求公眾意見。"
+    },
+    {
+      "id": "5048425",
+      "time": "2026-08-20 00:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉加德似乎已準備好擔任世界經濟論壇主席一職。"
+    },
+    {
+      "id": "5048424",
+      "time": "2026-08-20 00:34:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "世界經濟論壇仍在遊說歐洲央行行長拉加德出任下一任主席。"
+    },
+    {
+      "id": "5048423",
+      "time": "2026-08-20 00:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相兼外交部長在利雅得與沙特外交部長就緩和局勢的努力進行了磋商。"
+    },
+    {
+      "id": "mkt:01a01ade-fd58-7aab-909d-a0516180101a",
+      "time": "2026-08-20 00:33:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.7-magnitude quake strikes East Nusa Tenggara, Indonesia】Indonesia’s Meteorology, Climatology and Geophysics Agency reported a magnitude-5.7 earthquake at 23:17 on Aug. 19 local (Western Indonesia) time, centered 43 km northeast of Ruteng, Manggarai Regency, East Nusa Tenggara province, at a depth of 10 km."
+    },
+    {
+      "id": "5048422",
+      "time": "2026-08-20 00:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼東努沙登加拉省區域發生5.7級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼當地（西部）時間8月19日23時17分，印尼東努沙登加拉省芒加萊縣魯滕鎮東北43公里處發生5.7級地震，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "5048421",
+      "time": "2026-08-20 00:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統表示，儘管當前存在諸多困難與問題，伊朗政府仍將持續支援本國武裝力量。"
+    },
+    {
+      "id": "mkt:01a01ada-e9bd-7aab-909d-9a3aca996cf6",
+      "time": "2026-08-20 00:29:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman's foreign minister met Turkey's deputy foreign minister to review progress in bilateral ties, explore ways to deepen cooperation and exchange views on regional developments and issues of mutual concern."
+    },
     {
       "id": "5048420",
       "time": "2026-08-20 00:27:39",
