@@ -1,7 +1,108 @@
 {
   "date": "2026-08-20",
-  "count": 418,
+  "count": 429,
   "items": [
+    {
+      "id": "5048665",
+      "time": "2026-08-20 06:10:12",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國擴大國債回購規模前一天，投資者創紀錄押注長期美債ETF】就在美國財政部意外宣佈擴大長期國債回購規模、推動債市上漲的前一天，一名或多名投資者週二大舉買入一隻對美國長期國債收益率波動高度敏感的ETF。當天，規模達15億美元的PIMCO 25年以上期零息美國國債指數ETF吸引了創紀錄的1.23億美元資金流入，成交量則躍升至520萬股，接近2024年創下的此前峰值的兩倍。該ETF投資於所謂的“剝離式國債”（STRIPS），即將債券本金和利息支付分離後形成的零息證券，因此能夠放大對美國長期利率走勢的押注。該ETF週三上漲3.2%，為自2024年11月以來的最大漲幅。然而，由於通脹和財政赤字引發的擔憂影響了長期國債，今年該基金已累計下跌5.4%。該基金的債券持倉有效久期約為28年，這意味著收益率每下降1個百分點，其價格將上升約28%。"
+    },
+    {
+      "id": "5048664",
+      "time": "2026-08-20 06:08:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上證報：啟用民間投資，財政金融一攬子政策將發力】近期央地密集部署促進民間投資，一批務實管用的增量政策正謀劃出臺：加快落實“六張網”建設實施方案，創新投融資機制吸引社會資本；包括新型政策性金融工具在內的多路資金有望加快下達使用，加大對民間投資專案支援力度……多位專家表示，隨著政策加快落地，民間投資下行壓力有望緩解，逐步止跌回穩。從長期來看，投資結構將持續最佳化，民間投資將更多體現為“高質量、高技術”的結構性增長。"
+    },
+    {
+      "id": "5048663",
+      "time": "2026-08-20 06:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國警告：以色列定居點計劃威脅“兩國方案”】當地時間19日，聯合國秘書長發言人迪雅裡克表示，聯合國秘書長古特雷斯對有關以色列在約旦河西岸地區新建非法定居點前哨等行為深感震驚。古特雷斯表示，這一進展將實際上切斷約旦河西岸地區北部與南部之間的聯絡，呼籲以色列不要在這一問題上採取任何進一步行動，相關進展將嚴重影響被佔領巴勒斯坦領土的領土完整，並對“兩國方案”構成生存性威脅。（央視新聞）"
+    },
+    {
+      "id": "5048662",
+      "time": "2026-08-20 06:01:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月維持利率不變的機率為67.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為67.3%，累計加息25個基點的機率為32.7%。美聯儲到10月維持利率不變的機率為58.3%，累計加息25個基點的機率為37.3%，累計加息50個基點的機率為4.3%。"
+    },
+    {
+      "id": "5048661",
+      "time": "2026-08-20 06:00:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破67美元/盎司，日內漲0.18%。"
+    },
+    {
+      "id": "5048660",
+      "time": "2026-08-20 06:00:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破68美元/盎司，日內漲2.24%。"
+    },
+    {
+      "id": "mkt:01a01c0a-65d0-7aab-90a2-c6789040cd9f",
+      "time": "2026-08-20 06:00:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukrainian air force says Russian forces launch large-scale ballistic missile attack on Kyiv】The Ukrainian Air Force said on social media in the early hours of the 20th that Russian forces launched a new round of ballistic missile strikes targeting Kyiv. Around midnight it warned multiple ballistic missiles were heading toward Kyiv from Chernihiv and Poltava oblasts. Xinhua reporters heard several strong explosions in Kyiv and reported a short power outage in the Dnipro district; earlier they heard two separate rounds of sustained explosions. As of filing, Kyiv's air raid warning remained in effect."
+    },
+    {
+      "id": "5048659",
+      "time": "2026-08-20 06:00:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍開展秘密行動在霍爾木茲海峽打通運油航道】據美國阿克西奧斯新聞網站19日報道，美軍已悄悄建立一條進出霍爾木茲海峽的航運通道，確保每天有“數百萬桶”石油運出霍爾木茲海峽。報道援引兩名美國官員的話稱，這項行動已持續數週。過去兩週，每天有15到20艘油輪經由阿曼沿海一條南部航道進出該海峽。美官員稱，石油日均運輸量持續增長，目前已接近1000萬桶，某些夜晚從海灣運出的石油總量甚至達到1500萬至2000萬桶。美官員稱，雖然經由霍爾木茲海峽運出的石油量仍低於戰前水平，但它已對全球供應產生了明顯影響。（新華社）"
+    },
+    {
+      "id": "5048658",
+      "time": "2026-08-20 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報67.91美元/盎司。"
+    },
+    {
+      "id": "5048657",
+      "time": "2026-08-20 05:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏空軍稱俄軍對基輔發動大規模彈道導彈襲擊】烏克蘭空軍20日凌晨在社交媒體發文稱，俄軍對烏克蘭發動新一輪彈道導彈襲擊，俄軍的彈道導彈正在向烏首都基輔市方向移動。當天零時許，烏空軍發文提醒稱，多枚彈道導彈正在從切爾尼戈夫州和波爾塔瓦州向基輔市方向飛來。之後，新華社記者聽到基輔市響起多次強烈爆炸聲，隨後記者所在的第聶伯區電力供應出現短時間中斷。此前，記者已聽到基輔市響起兩輪強烈的持續爆炸聲。截至發稿時，基輔市空襲預警尚未解除。"
+    },
+    {
+      "id": "mkt:01a01c09-952b-7aab-90a2-ba7048e1d672",
+      "time": "2026-08-20 05:59:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says US has harsh sanctions options against Iran】On Aug. 19 at the White House, President Trump said the US has \"a lot\" of areas it can sanction and that it holds \"very severe\" measures, adding \"we'll see.\" He also said the US \"owns\" and \"fully controls\" the Strait of Hormuz and that Iran's occasional drone launches \"do cause trouble.\" Earlier Aug. 19 he said talks with Iran might resume \"at some point\" only if Iran fully abandons nuclear weapons; on Aug. 18 he said there were no talks or dialogue, contradicting his prior claim that negotiations were underway — a position Tehran has repeatedly denied."
+    },
     {
       "id": "5048656",
       "time": "2026-08-20 05:58:49",
