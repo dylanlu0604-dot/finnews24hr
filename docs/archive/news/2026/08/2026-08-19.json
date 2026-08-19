@@ -1,7 +1,540 @@
 {
   "date": "2026-08-19",
-  "count": 2357,
+  "count": 2418,
   "items": [
+    {
+      "id": "5047936",
+      "time": "2026-08-19 20:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "PayPal與 Venmo 透過全新整合拓展學費支付業務。"
+    },
+    {
+      "id": "5047933",
+      "time": "2026-08-19 19:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "醫護人員：以色列空襲造成加沙一處警察哨所內六名巴勒斯坦人死亡。"
+    },
+    {
+      "id": "mkt:01a019e2-d5dd-7aab-9096-167c5a1e7775",
+      "time": "2026-08-19 19:58:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Medics say an Israeli airstrike on a Gaza police post killed six Palestinians."
+    },
+    {
+      "id": "mkt:01a019e1-860d-7aab-9096-09dc1c62c0ec",
+      "time": "2026-08-19 19:56:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Saudi state television, Hamas has proposed that the \"Peace Committee\" establish a mechanism to protect its leaders in Gaza and ensure they will not be held accountable in the future. The \"Peace Committee\" is preparing a mechanism to investigate any incidents that occur in Gaza within 30 days."
+    },
+    {
+      "id": "5047931",
+      "time": "2026-08-19 19:56:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "META HEALTH：法律任凱肯尼斯從執行主席重新任命為非獨立非執行董事。"
+    },
+    {
+      "id": "mkt:01a019e0-740e-7aab-9096-041e8e6ed524",
+      "time": "2026-08-19 19:55:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "09618.HK",
+        "Impact bullish"
+      ],
+      "text": "【JD.com (09618.HK) launches robotics strategy, plans ten‑billion‑yuan investment by 2028 to help 100 brands top 1 bln yuan sales】JD.com said it will focus on supply‑chain, services and technology to accelerate commercialization and scenario deployment of robotics. The company plans to invest at the ten‑billion‑yuan level by 2028 and aims to help 100 brands each achieve standalone sales exceeding 1 billion yuan."
+    },
+    {
+      "id": "5047930",
+      "time": "2026-08-19 19:55:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【京東釋出機器人戰略 到2028年計劃投入百億級資源賦能百家品牌】京東(09618.HK)釋出機器人戰略，立足供應鏈、服務、技術三大維度，推動機器人產業加速實現商業化、場景化落地。根據規劃，到2028年，京東將在機器人領域投入百億級資源，助力100個品牌實現獨立銷售額突破10億元。"
+    },
+    {
+      "id": "5047929",
+      "time": "2026-08-19 19:55:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞 6 月經常賬戶逆差 8.8574 億歐元。"
+    },
+    {
+      "id": "5047928",
+      "time": "2026-08-19 19:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文健康公司拓展了其臨床人工智慧代理的功能範圍。"
+    },
+    {
+      "id": "mkt:01a019df-926e-7aab-9095-f85de1ebb6df",
+      "time": "2026-08-19 19:54:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ORCL.O"
+      ],
+      "text": "Oracle Health expands clinical AI agent capabilities."
+    },
+    {
+      "id": "5047927",
+      "time": "2026-08-19 19:54:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Moderna美股盤前漲超110%】Moderna美股盤前漲超110%，公司與默沙東宣佈黑色素瘤皮膚癌疫苗在大型試驗中達到目標影響。"
+    },
+    {
+      "id": "5047926",
+      "time": "2026-08-19 19:54:07",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【億緯鋰能：2026年上半年淨利潤33.01億元，同比增長105.66%】億緯鋰能公告，2026年上半年營業收入456.91億元，同比增長62.20%；歸屬於上市公司股東的淨利潤33.01億元，同比增長105.66%；扣非淨利潤24.51億元，同比增長111.89%。公司擬以21.73億股為基數，向全體股東每10股派發現金紅利2.3元（含稅）。"
+    },
+    {
+      "id": "5047925",
+      "time": "2026-08-19 19:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會（MPC）成員庫馬爾：在當前高度不確定的經濟環境中需極度謹慎；需警惕地緣政治、貿易政策以及季風相關的最新動態。"
+    },
+    {
+      "id": "5047924",
+      "time": "2026-08-19 19:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "META HEALTH ：任命NG YEAU CHONG為獨立非執行主席。"
+    },
+    {
+      "id": "5047923",
+      "time": "2026-08-19 19:52:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【28天直達英國 廣州港“北極中歐快航”首航】記者從廣州港集團瞭解到，8月19日，廣州港南沙港區“北極中歐快航”航線首航，標誌著華南地區經北冰洋至歐洲航線正式運作，為粵港澳大灣區外貿高質量發展注入新的強勁動能。據瞭解，此航線以北極東北航道為核心幹線，串聯我國華南、華東核心經貿腹地與歐洲市場。南沙港區作為該航線國內出口首發港，承擔華南出口貨物集結的重要職能。貨物自南沙港啟運至英國弗利克斯託港全程僅需28天，較繞行好望角航線壓縮運輸時間14天。廣州港集團相關負責人介紹，今後，經由南沙出運的貨物穿越北極圈抵達歐洲核心港口，網路進一步輻射北歐、東歐十餘個國家，拓展了華南外貿出海的全新路徑。（央視新聞）"
+    },
+    {
+      "id": "5047922",
+      "time": "2026-08-19 19:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "奢華旅遊機構 & Beyond 證實，一架搭載該機構遊客的直升機在肯亞桑布魯郡墜毀。"
+    },
+    {
+      "id": "te:markets:576492",
+      "time": "2026-08-19 19:52:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Extend Muted Decrease — Futures tracking US equities were mixed on Wednesday, holding losses from the previous session on more pressure from elevated bond yields. Contract for the S&P 500 and Dow were flat, while those for the tech-heavy Nasdaq 100 lost 0.5%. Tech giants were mostly lower premarket as worries of soaring aggregate credit supply lifted borrowing costs in the longer end of curves. Oracle, AMD, Micron, and Marvell were down. Borrowing costs were also lifted by high energy prices as hawkish rhetoric by both the US and Iran prolonged expectations on the suspension of oil from the Persian Gulf. The outlook on interest rates will be further tested after the release of FOMC minutes today. Meanwhile, TJX, Lowe's, and Target fell between 4% and 1% after the retail giants reported their second-quarter results. Conversely, Analog Materials outperformed other semiconductors on its strong guidance. Moderna stock doubled and Merck surged 10% after a trial on their joint vaccine cut recurrence in melanoma."
+    },
+    {
+      "id": "5047921",
+      "time": "2026-08-19 19:52:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億緯鋰能：擬繼續開展應收賬款無追索權保理業務】億緯鋰能公告稱，公司董事會審議透過議案，同意公司及子公司繼續開展應收賬款無追索權保理業務，累計發生額不超過30億元，業務期限為2026年8月19日起12個月內，具體每筆業務期限以單項合同約定期限為準，董事會授權公司管理層在批准額度範圍內負責具體組織實施並簽署相關協議及檔案。本次業務無需提交股東會審議，不構成關聯交易，不屬於重大資產重組。"
+    },
+    {
+      "id": "5047920",
+      "time": "2026-08-19 19:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會（MPC）成員庫馬爾：貨幣政策委員會會議紀要顯示，印度經濟增長與通脹前景略有改善，但不應因此自滿。"
+    },
+    {
+      "id": "5047918",
+      "time": "2026-08-19 19:51:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【動力源：2026年上半年淨利潤虧損5408.51萬元】動力源公告，2026年上半年營業收入2.19億元，同比增長8.94%。歸屬於上市公司股東的淨利潤虧損5408.51萬元，上年同期淨利潤虧損9135.66萬元。"
+    },
+    {
+      "id": "5047917",
+      "time": "2026-08-19 19:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：華盛頓的盟友也得出結論：美國 “不可靠”。"
+    },
+    {
+      "id": "mkt:01a019dc-3fdd-7aab-9095-f6a22087ed5c",
+      "time": "2026-08-19 19:50:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Fangzheng Technology 1H 2026 revenue 3.7 bln yuan; net profit 574 mln yuan, +232.38% YoY】Fangzheng Technology said in its 1H 2026 interim report revenue was 3.7 bln yuan, up 72.89% YoY, and net profit attributable to shareholders of the listed company was 574 mln yuan, up 232.38% YoY."
+    },
+    {
+      "id": "5047916",
+      "time": "2026-08-19 19:50:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人週三表示，該地區國家已將美國在西亞的軍事存在視作不安全的根源。"
+    },
+    {
+      "id": "5047915",
+      "time": "2026-08-19 19:50:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億緯鋰能：2026年中期擬每10股派2.3元】億緯鋰能公告，公司於2026年8月19日召開董事會審議透過2026年中期分紅方案，以現有總股本21.73億股為基數，向全體股東每10股派發現金股利人民幣2.3元（含稅），合計派發現金股利人民幣5億元（含稅），本次分配不送紅股，不以資本公積金轉增股本。"
+    },
+    {
+      "id": "5047914",
+      "time": "2026-08-19 19:50:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛合晶微：2026年上半年營收34.07億元 淨利同比增3.33%】盛合晶微公告稱，2026年上半年實現營業收入34.07億元，同比增長7.20%；歸屬於上市公司股東的淨利潤4.49億元，同比增長3.33%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.36億元，同比增長3.31%。基本每股收益0.27元/股，與上年同期持平。加權平均淨資產收益率2.80%，同比減少0.34個百分點。研發投入佔營業收入的比例為11.57%，同比增加0.04個百分點。經營活動產生的現金流量淨額14.74億元，同比下降13.34%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5047913",
+      "time": "2026-08-19 19:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，截至8月19日，2026年8月總票房（含預售）突破40億，《歡迎來龍餐館》《蜘蛛俠：嶄新之日》《八仙！》《奧德賽》《功夫女足》暫列8月票房榜前五！"
+    },
+    {
+      "id": "mkt:01a019db-3ce3-7aab-9095-ec04892ab31d",
+      "time": "2026-08-19 19:49:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.O"
+      ],
+      "text": "Moderna (MRNA.O) pre-market US shares jumped over 100% after the company and Merck (MRK.O) said their melanoma vaccine met the primary endpoint in a large trial."
+    },
+    {
+      "id": "5047912",
+      "time": "2026-08-19 19:49:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【USI America Inc.與Agile Robots簽署合作備忘錄】據環旭電子訊息，8月19日，USI America Inc.（USI）與德國智慧機器人企業Agile Robots SE簽署合作備忘錄，雙方擬在人形機器人產品、人機協作機器人與電子製造產線智慧化升級領域開展業務合作，共同評估Agile Robots人形機器人及其解決方案在USI全球化的製造服務體系中的應用，並探索相關機器人產品及元件的開發與量產。"
+    },
+    {
+      "id": "5047911",
+      "time": "2026-08-19 19:49:46",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會（MPC）成員辛格：未來的資料對於把握第二輪衝擊對CPI通脹的影響範圍與程度至關重要。"
+    },
+    {
+      "id": "5047910",
+      "time": "2026-08-19 19:49:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會（MPC）成員辛格：通脹走勢仍需密切監控。"
+    },
+    {
+      "id": "5047909",
+      "time": "2026-08-19 19:49:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "MODERNA股價盤前漲幅擴大至102%，默克股價盤前上漲8.3%。"
+    },
+    {
+      "id": "5047908",
+      "time": "2026-08-19 19:49:28",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【8月19日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平致電祝賀鮑卡就任匈牙利總統； 2.【新思想引領新徵程】建設更高水平自貿試驗區 打造改革開放新高地； 3.李強會見厄瓜多總統； 4.趙樂際會見厄瓜多總統； 5.【樹立和踐行正確政績觀】以學促幹 推動學習教育見行見效； 6.我國首次實現火箭陸地回收； 7.嫦娥七號飛行任務器箭組合體完成垂直轉運； 8.服務業擴能提質 助力中國製造提升全球競爭力； 9.各地做好田間管理 夯實糧食豐收基礎； 10.我國將構建約6萬公里精品自駕旅遊公路； 11.2026暑期檔電影觀影場次和人數再創新高 電影全產業鏈產值超4100億元； 12.國內聯播快訊： （1）中央宣傳部、國家衛生健康委聯合釋出“最美醫生”先進事蹟； （2）今年我國重點推進122個大中型灌區建設和現代化改造； （3）我國牽頭制定的全球首項鋼鐵行業智慧製造領域國際標準釋出； （4）2026世界機器人大會開幕 3000餘件展品亮相； （5）第三十三屆北京國際廣播電影電視展覽會在京舉行； （6）2026年“童聲裡的中國”全國少年兒童歌詠活動集中展演在遼寧舉辦； （7）總檯釋出2026年創新財經節目片單； （8）2026年中央廣播電視總檯七夕晚會今晚播出； 13.美總統稱不與伊朗進行任何對話 伊朗稱繼續關閉霍爾木茲海峽直至美方滿足條件 市場擔憂中東局勢影響 美30年期國債收益率創19年新高； 14.國際聯播快訊： （1）以軍空襲敘軍事基地 敘譴責以實施侵略； （2）剛果（金）埃博拉確診病例超五千例； （3）美接連發生能源和工業設施爆炸事故。"
+    },
+    {
+      "id": "5047907",
+      "time": "2026-08-19 19:49:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Moderna美股盤前漲近100%】Moderna美股盤前漲近100%，公司與默沙東宣佈黑色素瘤皮膚癌疫苗在大型試驗中達到目標影響。"
+    },
+    {
+      "id": "5047906",
+      "time": "2026-08-19 19:48:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行貨幣政策委員會委員辛格：國內經濟形勢要求密切關注通脹和增長兩方面。"
+    },
+    {
+      "id": "5047905",
+      "time": "2026-08-19 19:48:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員巴塔查里亞：這兩類因素的疊加可能引發持續性食品和燃料衝擊，這類衝擊會根深蒂固，最終導致通脹全面擴散。"
+    },
+    {
+      "id": "mkt:01a019d9-ddd8-7aab-9095-e16535f90a45",
+      "time": "2026-08-19 19:48:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "BAC.O"
+      ],
+      "text": "【BofA expands technology banking team】An internal memo shows BofA has hired two managing directors to deepen its technology-banking coverage. Asad Mahmood, formerly an MD at Barclays, will join in the autumn to lead semiconductor and quantum-computing coverage from Palo Alto, California. Gregory Reider joins this week to BofA’s Brazil technology investment banking team to cover Latin American tech and fintech; Reider was previously co-founder and managing partner of LatAm-focused VC firm Volpe Capital. A BofA spokesperson confirmed the memo."
+    },
+    {
+      "id": "5047904",
+      "time": "2026-08-19 19:47:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員巴塔查里亞：地緣政治衝突間歇性衝擊，加劇全球油價大幅雙向劇烈波動，導致短期前景不明朗。"
+    },
+    {
+      "id": "5047903",
+      "time": "2026-08-19 19:47:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員巴塔查里亞：應當將提前收緊政策的經濟成本，與通脹持續化的風險進行權衡。"
+    },
+    {
+      "id": "5047902",
+      "time": "2026-08-19 19:47:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：傾向於等待通脹走勢出現更多確定性後，再對政策利率進行任何重新調整。"
+    },
+    {
+      "id": "mkt:01a019d8-f93a-7aab-9095-dcba1307ae1f",
+      "time": "2026-08-19 19:47:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said he is more inclined to wait for greater certainty in the inflation trajectory before adjusting policy rates."
+    },
+    {
+      "id": "5047901",
+      "time": "2026-08-19 19:47:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員因德拉尼爾·巴塔查里亞：季風降水不均疊加厄爾尼諾現象持續發展，對降雨分佈與農業產量構成直接威脅。"
+    },
+    {
+      "id": "5047900",
+      "time": "2026-08-19 19:47:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會（MPC）成員索加塔·巴塔查里亞：高油價持續存在或將催生通脹第二輪傳導效應。"
+    },
+    {
+      "id": "5047899",
+      "time": "2026-08-19 19:46:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會（MPC）成員索加塔·巴塔查里亞：貨幣政策委員會會議紀要顯示，印度通脹與增長走勢仍不明朗。"
+    },
+    {
+      "id": "mkt:01a019d7-fed7-7aab-9095-d0c32a0e2adf",
+      "time": "2026-08-19 19:46:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF INDIA governor said there are signs that previously-moderate inflation is beginning to normalize."
+    },
+    {
+      "id": "5047898",
+      "time": "2026-08-19 19:46:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員因德拉尼爾·巴塔查里亞：物價飆升集中於波動較大的食品與能源類別；受此影響，更高的投入成本正溢位傳導至服務價格。"
+    },
+    {
+      "id": "5047897",
+      "time": "2026-08-19 19:46:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華醫療：一次性使用等離子手術電極獲三類醫療器械註冊證】新華醫療(600587)8月19日公告，公司子公司新華手術器械有限公司近日收到國家藥監局頒發的三類醫療器械註冊證，產品為“一次性使用等離子手術電極”。該產品與等離子手術裝置配合使用，用於耳鼻喉軟組織切割、凝血。截至目前，國內同行業有9家公司已取得同類產品註冊證。該產品上市後，將與公司現有內窺鏡攝像系統、微創腔鏡手術器械形成協同配套，拓展微創手術整體解決方案的服務邊界，增強公司在微創外科領域的綜合競爭力。"
+    },
+    {
+      "id": "5047896",
+      "time": "2026-08-19 19:45:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：迄今通脹一直處於溫和水平，目前已出現通脹正常化的跡象。"
+    },
+    {
+      "id": "mkt:01a019d7-9cca-7aab-9095-c9f28a673998",
+      "time": "2026-08-19 19:45:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Reserve Bank of India governor says an average oil price of about $90/bbl this year is reasonable."
+    },
+    {
+      "id": "5047895",
+      "time": "2026-08-19 19:45:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行副行長古普塔：預計今年油價平均約為每桶90美元是合理的。"
+    },
+    {
+      "id": "5047894",
+      "time": "2026-08-19 19:45:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫金銀行：南京市國資集團合計控制股權比例增至11.51%】紫金銀行公告稱，因國有資產整合重組，南京市國資委擬將其持有的東南集團100%股權作為資本金注入南京市國資集團。本次權益變動完成後，南京市國資集團合計控制紫金銀行的股權比例由8.96%增至11.51%，紫金集團持股比例未發生變動，仍為公司第一大股東，公司無控股股東及實際控制人的現狀未發生變化，本次權益變動不觸及要約收購。"
+    },
+    {
+      "id": "mkt:01a019d7-44cb-7aab-9095-c712486634c6",
+      "time": "2026-08-19 19:45:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF INDIA Deputy Governor Gupta said continued uncertainty from global developments and weather-related risks makes the best course to wait and observe; at present there appears to be no room for further monetary easing."
+    },
+    {
+      "id": "5047893",
+      "time": "2026-08-19 19:45:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行副行長古普塔：當前來看，似乎不存在進一步放寬政策的空間。"
+    },
+    {
+      "id": "5047892",
+      "time": "2026-08-19 19:45:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員因德拉尼爾·巴塔查里亞：儘管原油價格近期有所回落，但仍極易受到衝突突然升級的影響。"
+    },
+    {
+      "id": "5047891",
+      "time": "2026-08-19 19:45:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行副行長古普塔：貨幣政策委員會會議紀要顯示，受全球局勢發展帶來的持續不確定性以及天氣風險影響，當前最佳做法是再多觀察一段時間。"
+    },
+    {
+      "id": "mkt:01a019d6-cd36-7aab-9095-b9e9dc3653e8",
+      "time": "2026-08-19 19:45:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor expects inflation to peak in Q3 and then ease."
+    },
+    {
+      "id": "mkt:01a019d6-c8e9-7aab-9095-b10fe8bd3b3b",
+      "time": "2026-08-19 19:45:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF INDIA governor said inf expectations have edged up slightly but remain within a controllable range."
+    },
+    {
+      "id": "5047890",
+      "time": "2026-08-19 19:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行貨幣政策委員會辛格：通脹走勢需要密切關注。"
+    },
+    {
+      "id": "5047889",
+      "time": "2026-08-19 19:44:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行古普塔：進一步寬鬆的空間似乎已不存在。年內或出現加息理由。"
+    },
+    {
+      "id": "mkt:01a019d6-7643-7aab-9095-aebce26686c3",
+      "time": "2026-08-19 19:44:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said India's economy is expected to remain resilient."
+    },
+    {
+      "id": "5047888",
+      "time": "2026-08-19 19:44:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行貨幣政策委員會辛格：經濟逆風幾乎沒有變化。"
+    },
+    {
+      "id": "mkt:01a019d6-3479-7aab-9095-a28be393368b",
+      "time": "2026-08-19 19:44:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India released minutes of its August MPC meeting."
+    },
     {
       "id": "5047886",
       "time": "2026-08-19 19:43:21",
