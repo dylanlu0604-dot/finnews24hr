@@ -1,7 +1,177 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 23:42:15_
-_本檔包含 3236 則快訊，約 618079 字_
+_更新時間：2026-08-19 23:58:55_
+_本檔包含 3249 則快訊，約 618669 字_
+
+---
+
+### 2026-08-14 06:51:49  #Trading Economics #Economy #New Zealand #Tourist Arrivals #Importance 1
+
+New Zealand Tourist Arrivals Rise 8.1% in June — Visitor arrivals to New Zealand grew 8.1% year-on-year to 201,855 in June 2026, accelerating from a 6.7% rise in May, driven largely by gains from Australia. The increase was the largest in three months, although the number of visitors was lower than in May, underscoring the impact of rising oil prices due to the ongoing Middle East conflict.
+
+---
+
+### 2026-08-14 06:47:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered.
+
+---
+
+### 2026-08-14 06:47:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Energy Secretary wright said Iran is trying to hold the global economy hostage.
+
+---
+
+### 2026-08-14 06:47:53  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait.
+
+---
+
+### 2026-08-14 06:47:02  #其他
+
+紐西蘭 6 月短期入境遊客量同比增長 8.1%。
+
+---
+
+### 2026-08-14 06:40:22  #Trading Economics #Economy #New Zealand #Manufacturing PMI #Importance 2
+
+New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate.
+
+---
+
+### 2026-08-14 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%).
+
+---
+
+### 2026-08-14 06:39:21  #國際
+
+美國能源部長賴特：電價對通脹率的影響微乎其微。
+
+---
+
+### 2026-08-14 06:37:14  #市場 #焦點
+
+現貨黃金突破4360美元/盎司，日內漲0.21%。
+
+---
+
+### 2026-08-14 06:36:50  #國際
+
+美國能源部長賴特：霍爾木茲海峽石油運輸流量將持續走高。
+
+---
+
+### 2026-08-14 06:35:39  #國際
+
+美國能源部長賴特：美國護送、轉運物資的能力正在增強。
+
+---
+
+### 2026-08-14 06:35:12  #國際
+
+美國能源部長賴特：伊朗正試圖以全球經濟為要挾。
+
+---
+
+### 2026-08-14 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore CNY Falls by 2.15% — Top commodity losers are Iron Ore CNY (-2.15%), Platinum (-2.10%), Silver (-1.30%) and Gold (-1.16%).
+
+---
+
+### 2026-08-14 06:34:43  #焦點 #國際
+
+美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
+
+---
+
+### 2026-08-14 06:33:21  #國際
+
+美國能源部長賴特：美國掌握每日經由霍爾木茲海峽進出的船舶數量。
+
+---
+
+### 2026-08-14 06:32:53  #國際
+
+美國能源部長賴特：美國正與各方船隻開展溝通協調。
+
+---
+
+### 2026-08-14 06:32:07  #其他
+
+紐西蘭7月製造業表現指數 54.3，前值59.7。
+
+---
+
+### 2026-08-14 06:31:41  #資料 #央行 #國際
+
+【週五重要財經資訊提醒（以下均為北京時間）】
+① 07:30 澳洲聯儲主席布洛克出席聽證會；
+② 14:45 法國7月CPI終值；
+③ 待定 國內成品油開啟新一輪調價視窗；
+④ 16:30 中國香港第二季度GDP終值；
+⑤ 17:00 歐元區第二季度GDP修正值；
+⑥ 20:30 美國7月零售銷售，加拿大6月批發銷售；
+⑦ 22:00 美國8月密歇根大學消費者信心指數初值，美國6月商業庫存；
+⑧ 次日01:00 美國至8月14日當週石油鑽井總數。
+
+---
+
+### 2026-08-14 06:30:08  #MKT News #DXY #Impact bearish
+
+New Zealand July manufacturing performance index 54.3, prior 59.7.
+
+---
+
+### 2026-08-14 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Drops by 2.66% — Top commodity losers are Crude Oil WTI (-2.66%), Natural gas (-2.56%) and Brent Crude Oil (-2.36%).
+
+---
+
+### 2026-08-14 06:30:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7
+
+---
+
+### 2026-08-14 06:22:11  #國際
+
+【古巴強烈反對多明尼加驅逐其駐多使館人員】古巴外交部13日發表宣告，強烈反對多明尼加政府驅逐10名古巴駐多使館外交人員及其家屬的決定，稱此舉嚴重損害兩國政府間關係。（新華社）
+
+---
+
+### 2026-08-14 06:15:03  #公司 #市場
+
+【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)
+
+---
+
+### 2026-08-14 06:14:48  #公司 #市場
+
+【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）
+
+---
+
+### 2026-08-14 06:14:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE says U.S. economy remains stable.
+
+---
+
+### 2026-08-14 06:14:32  #央行 #國際
+
+美聯儲古爾斯比：美國經濟走勢穩定。
+
+---
+
+### 2026-08-14 06:13:19  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%.
 
 ---
 
@@ -19399,89 +19569,5 @@ Rosstat: Russia GDP rose 1.3% YoY in Q2, following a 0.2% YoY contraction in Q1.
 ### 2026-08-12 23:59:37  #市場 #觀點
 
 【Jane Street發行146億美元債券 10年期收益率逾8%】Jane Street發行146億美元債券，這家做市巨頭將把融資所得用於技術基礎設施並拓展交易策略。知情人士稱，Jane Street發行了2031年、2033年和2036年到期的高階擔保票據，規模分別為58.6億美元、51.3億美元和36.4億美元。其中期限最長的一檔債券定價收益率為8.088%。這筆由摩根大通牽頭的固定利率債券發行是Jane Street償還浮動利率貸款並重整110億美元債務負擔計劃的一部分。彭博此前報道，Jane Street一直在與品浩(PIMCO)等機構磋商，由後者提供相關融資。
-
----
-
-### 2026-08-12 23:58:46  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.5% to close at 8,675 on Wednesday, extending losses from the previous session as luxury stocks weighed heavily on the index. The sector was pressured by a slowdown in global demand, with weaker Chinese consumer spending continuing to cloud the industry's outlook. A recent Kearney study forecasts that luxury spending per capita in China will fall by around 4% in 2026. LVMH shed 2.9%, L’Oréal lost 0.8%, Hermès fell 2.5%, and Kering retreated 3.8%. Meanwhile, Iran and the US remained at odds over efforts to reach a permanent end to the conflict in the Gulf. Iranian officials said there had been no progress in talks to revive the interim deal agreed in June or establish a timeline for its implementation. The comments further dampened hopes of a swift resolution, while attacks on regional shipping on Tuesday pushed oil prices higher. Industrials traded mixed, with Essilor down 4.3% and Air Liquide losing 0.8%, while defense stocks gained, led by a 1.5% rise in Thales.
-
----
-
-### 2026-08-12 23:55:03  #其他
-
-【DeepSeek官網API文件新增“DeepSeek-V4-Pro-0813”模型】DeepSeek官網“API 文件”上的“模型 & 價格”頁面中，模型版本新增了DeepSeek-V4-Pro-0813，其支援非思考與思考模式。不過，官方尚未釋出 DeepSeek-V4-Pro-0813 的更新日誌。
-
----
-
-### 2026-08-12 23:49:52  #公司
-
-貿易商 SUCAFINA ：哥倫比亞布埃納文圖拉港因開展基礎設施評估，咖啡出口業務暫停。該公司正在評估備選運輸路線及物流方案，“儘可能維持咖啡貨運的連續性”。
-
----
-
-### 2026-08-12 23:49:01  #其他
-
-GOOGLE：推出 Google Pixel Tag， 產品將於 11 月 11 日上市，使用者可按 29 美元購買，或以 99 美元購入 4‑pack 套裝。
-
----
-
-### 2026-08-12 23:48:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google launches Pixel Tag.
-
----
-
-### 2026-08-12 23:48:14  #MKT News #BlueMoonMetals #Impact bearish
-
-Short-seller Viceroy Research says it is shorting Blue Moon Metals; the stock is down 8%.
-
----
-
-### 2026-08-12 23:47:19  #MKT News #BX.N #Impact bearish
-
-Blackstone is considering terminating a $3 billion equity-for-cash deal.
-
----
-
-### 2026-08-12 23:46:54  #其他
-
-軟商品貿易商 SUCAFINA 稱，受地震影響，哥倫比亞大部分產區的咖啡運輸 “嚴重受阻”。
-
----
-
-### 2026-08-12 23:45:27  #MKT News
-
-Musk said Grok 4.6 has an Elo rating of 1,336.
-
----
-
-### 2026-08-12 23:44:47  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Sources: Pakistan seeks extension of US-Iran 60-day ceasefire】Al Arabiya cited sources saying Pakistan is actively mediating to extend the 60-day ceasefire agreed under the US‑Iran memorandum of understanding. Mediators say they need more time to resolve remaining differences between Tehran and Washington; Pakistan is reportedly supportive.
-
----
-
-### 2026-08-12 23:43:50  #其他
-
-【渣打牽頭的Anchorpoint推出港元穩定幣】據一封電子郵件宣告顯示，渣打牽頭的持牌穩定幣發行機構Anchorpoint Financial宣佈推出港元穩定幣。港元穩定幣HKDAP透過測試接入面向機構分銷商和專業投資者推出。
-
----
-
-### 2026-08-12 23:43:28  #MKT News
-
-Israel Defense Forces says it killed a Hamas commander in northern Gaza.
-
----
-
-### 2026-08-12 23:43:09  #宏觀 #公司
-
-【瑞士擬立法強制延遲銀行高管獎金髮放 最長可達五年】瑞士政府希望把銀行高管獎金遞延數年發放的要求寫入法律，作為瑞信倒閉後加強金融監管的一攬子措施之一。瑞士政府週三公佈的方案顯示，這項措施將適用於包括瑞銀集團在內的大型銀行，可能要求將40%至60%的浮動薪酬遞延發放，最長可達五年。瑞士財政部長Karin Keller-Sutter在伯爾尼表示：“以犧牲金融穩定為代價換取短期回報，絕對不應得到獎勵。”
-
----
-
-### 2026-08-12 23:42:21  #國際
-
-【黎巴嫩政府軍指責以色列違反框架協議持續襲擊黎南 】黎巴嫩政府軍12日發表宣告說，以色列持續違反現有框架協議和國際法，對黎南部發動持續襲擊並炸燬多處建築，阻礙當地居民返回家園以及黎軍部署。（新華社）
 
 ---

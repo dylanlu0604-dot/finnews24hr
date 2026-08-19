@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 23:42:15_
-_本檔包含 3129 則快訊，約 617940 字_
+_更新時間：2026-08-19 23:58:55_
+_本檔包含 3111 則快訊，約 619048 字_
+
+---
+
+### 2026-08-15 18:12:37  #公司 #市場
+
+【劉益謙控股子公司新理益新進成為頎中科技第七大股東】頎中科技(688352.SH)週五晚間釋出2026年半年報，截至二季度末，新理益集團有限公司持有頎中科技400.22萬股，佔總股本比例0.34%，為公司的第七大股東。以頎中科技週五收盤價18.83元/股估算，新理益在頎中科技的持股市值約7536.14萬元。新理益系劉益謙的控股子公司。
+
+---
+
+### 2026-08-15 18:11:27  #公司 #國際
+
+【中方團隊在全球最大“人造太陽”壁處理領域實現技術鏈條貫通】據中核集團訊息，日前，中核集團核工業西南物理研究院團隊在國際熱核聚變實驗堆（ITER）裝置壁處理技術領域接連取得重要進展：不僅順利透過輝光放電清洗系統（GDC）永久電極專案補充設計最終評審（DeltaFDR），同時牽頭並聯閤中核二三成功中標並在法國簽署硼化系統與X射線晶體光譜儀（XRCS）供氣系統設計製造合同。這標誌著中方團隊在ITER裝置壁處理核心技術領域取得新拓展，業務範圍由原有的輝光放電清洗延伸至硼化壁處理，實現了從雜質清除到表面預處理的技術鏈條貫通，將為ITER裝置全鎢第一壁執行提供關鍵保障。
+
+---
+
+### 2026-08-15 18:10:48  #MKT News #Market Regions #Europe & UK
+
+【Iran intelligence says it uncovered French "termite plan" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to "pre-emptively" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called "termite plan" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the "reckless plot".
+
+---
+
+### 2026-08-15 18:04:10  #其他
+
+【商鋪低頻噪聲擾民被判擔責 生態環境法典施行第一案宣判】8月15日，我國第二部法典——《中華人民共和國生態環境法典》正式施行。當日，全國首例適用生態環境法典審理的噪聲汙染責任糾紛案在浙江省衢州市衢江區人民法院開庭並當庭宣判，新法迎來司法實踐“第一案”。法院依據《中華人民共和國生態環境法典》相關規定，結合現場勘查、醫療記錄等證據，按照經濟效益原則以及損害最小化原則當庭宣判：判決被告限期進行降噪、減振整改，賠償原告醫療費和精神損害撫慰金。（央視新聞）
+
+---
+
+### 2026-08-15 17:56:25  #國際
+
+【伊朗與塔吉克就剩餘石油產品和原油出口進行談判】伊朗石油部長帕克內賈德週六在德黑蘭會見塔吉克能源部長後表示，伊朗和塔吉克正就伊朗剩餘石油產品和原油出口至塔吉克煉油廠一事進行談判。帕克內賈德表示，目前正在著手起草一項長期出口協議的框架檔案。
+
+---
+
+### 2026-08-15 17:50:02  #國際
+
+【伊朗總統稱絕不會違抗最高領袖】當地時間8月14日，伊朗總統佩澤希齊揚表示，敵人如今破壞伊朗國家穩定的方式不僅僅是軍事手段，還企圖在伊朗內部製造分裂，破壞內部團結。他強調，無論他個人的想法如何，但他絕不會違抗伊朗最高領袖，因為團結遠比個人想法更為重要，他還表示，伊朗會繼續抗爭，絕不屈服於敵人的暴政與侵略。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 17:43:41  #MKT News #Important #Market Regions #Japan & APAC #XAUUSD #Impact bullish #Nikkei 225 #Impact bearish #Hang Seng Index
+
+【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a "new militarism" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning.
+
+---
+
+### 2026-08-15 17:41:27  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026.
+
+---
+
+### 2026-08-15 17:40:18  #焦點 #國際
+
+【國防部新聞發言人蔣斌就日本政要參拜靖國神社答記者問】記者：據報道，在日本戰敗投降日當天，日本首相高市早苗向靖國神社供奉祭祀費，日本防衛大臣小泉進次郎等前往參拜。請問對此有何評論？蔣斌：靖國神社是日本軍國主義發動對外侵略戰爭的精神工具和象徵，供奉有雙手沾滿亞太國家人民鮮血的戰犯。日本政客有關行徑公然褻瀆歷史正義，嚴重傷害亞太受害國人民感情，本質上是掩蓋否定侵略罪責，挑戰世界反法西斯戰爭勝利成果與戰後國際秩序。一邊嘴上標榜追求和平，一邊向戰爭罪魁禍首頂禮膜拜，這種虛偽的作派，充分暴露出日本右翼勢力嚴重扭曲的歷史觀和為軍國主義揚幡招魂的危險圖謀。（新華社）
 
 ---
 
@@ -18731,175 +18785,5 @@ Brazil has initiated reciprocal procedures with the US over trade tariffs, notif
 ### 2026-08-14 06:52:04  #MKT News #Market Themes #The Trump Trade
 
 【U.S. media: Kennedy Center to add Trump’s name to building exterior】U.S. media reported on the 13th that the board of the Kennedy Center for the Performing Arts voted to add wording bearing U.S. President Trump’s name to the building’s exterior and to close the main building for renovations.
-
----
-
-### 2026-08-14 06:51:49  #Trading Economics #Economy #New Zealand #Tourist Arrivals #Importance 1
-
-New Zealand Tourist Arrivals Rise 8.1% in June — Visitor arrivals to New Zealand grew 8.1% year-on-year to 201,855 in June 2026, accelerating from a 6.7% rise in May, driven largely by gains from Australia. The increase was the largest in three months, although the number of visitors was lower than in May, underscoring the impact of rising oil prices due to the ongoing Middle East conflict.
-
----
-
-### 2026-08-14 06:47:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered.
-
----
-
-### 2026-08-14 06:47:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US Energy Secretary wright said Iran is trying to hold the global economy hostage.
-
----
-
-### 2026-08-14 06:47:53  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait.
-
----
-
-### 2026-08-14 06:47:02  #其他
-
-紐西蘭 6 月短期入境遊客量同比增長 8.1%。
-
----
-
-### 2026-08-14 06:40:22  #Trading Economics #Economy #New Zealand #Manufacturing PMI #Importance 2
-
-New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate.
-
----
-
-### 2026-08-14 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%).
-
----
-
-### 2026-08-14 06:39:21  #國際
-
-美國能源部長賴特：電價對通脹率的影響微乎其微。
-
----
-
-### 2026-08-14 06:37:14  #市場 #焦點
-
-現貨黃金突破4360美元/盎司，日內漲0.21%。
-
----
-
-### 2026-08-14 06:36:50  #國際
-
-美國能源部長賴特：霍爾木茲海峽石油運輸流量將持續走高。
-
----
-
-### 2026-08-14 06:35:39  #國際
-
-美國能源部長賴特：美國護送、轉運物資的能力正在增強。
-
----
-
-### 2026-08-14 06:35:12  #國際
-
-美國能源部長賴特：伊朗正試圖以全球經濟為要挾。
-
----
-
-### 2026-08-14 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore CNY Falls by 2.15% — Top commodity losers are Iron Ore CNY (-2.15%), Platinum (-2.10%), Silver (-1.30%) and Gold (-1.16%).
-
----
-
-### 2026-08-14 06:34:43  #焦點 #國際
-
-美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
-
----
-
-### 2026-08-14 06:33:21  #國際
-
-美國能源部長賴特：美國掌握每日經由霍爾木茲海峽進出的船舶數量。
-
----
-
-### 2026-08-14 06:32:53  #國際
-
-美國能源部長賴特：美國正與各方船隻開展溝通協調。
-
----
-
-### 2026-08-14 06:32:07  #其他
-
-紐西蘭7月製造業表現指數 54.3，前值59.7。
-
----
-
-### 2026-08-14 06:31:41  #資料 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 07:30 澳洲聯儲主席布洛克出席聽證會；
-② 14:45 法國7月CPI終值；
-③ 待定 國內成品油開啟新一輪調價視窗；
-④ 16:30 中國香港第二季度GDP終值；
-⑤ 17:00 歐元區第二季度GDP修正值；
-⑥ 20:30 美國7月零售銷售，加拿大6月批發銷售；
-⑦ 22:00 美國8月密歇根大學消費者信心指數初值，美國6月商業庫存；
-⑧ 次日01:00 美國至8月14日當週石油鑽井總數。
-
----
-
-### 2026-08-14 06:30:08  #MKT News #DXY #Impact bearish
-
-New Zealand July manufacturing performance index 54.3, prior 59.7.
-
----
-
-### 2026-08-14 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Drops by 2.66% — Top commodity losers are Crude Oil WTI (-2.66%), Natural gas (-2.56%) and Brent Crude Oil (-2.36%).
-
----
-
-### 2026-08-14 06:30:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7
-
----
-
-### 2026-08-14 06:22:11  #國際
-
-【古巴強烈反對多明尼加驅逐其駐多使館人員】古巴外交部13日發表宣告，強烈反對多明尼加政府驅逐10名古巴駐多使館外交人員及其家屬的決定，稱此舉嚴重損害兩國政府間關係。（新華社）
-
----
-
-### 2026-08-14 06:15:03  #公司 #市場
-
-【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)
-
----
-
-### 2026-08-14 06:14:48  #公司 #市場
-
-【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）
-
----
-
-### 2026-08-14 06:14:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's GOOLSBEE says U.S. economy remains stable.
-
----
-
-### 2026-08-14 06:14:32  #央行 #國際
-
-美聯儲古爾斯比：美國經濟走勢穩定。
-
----
-
-### 2026-08-14 06:13:19  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%.
 
 ---

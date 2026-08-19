@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 23:42:15_
-_本檔包含 3147 則快訊，約 618453 字_
+_更新時間：2026-08-19 23:58:55_
+_本檔包含 3130 則快訊，約 618947 字_
+
+---
+
+### 2026-08-19 23:56:54  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Slips on Financials and Industrials Losses — The CAC 40 edged 0.1% lower to close at 8,502 on Wednesday, weighed down by losses in the industrial and financial sectors. Oil prices hit a three-week high as uncertainty over shipping through the Strait of Hormuz and ongoing supply disruptions persisted. Financials and the broader market remained under pressure amid energy-driven inflationary pressures stemming from the US-Iran conflict and ahead of the release of the US Fed’s July meeting minutes. France’s 10-year yield recently climbed to its highest level since 2008. BNP Paribas shed 2.4%, AXA lost 1.3%, Crédit Agricole was down 2.6% and Société Générale retreated 3.8%. Industrials also posted losses, with Airbus down 0.8%, Safran losing 1.1% and Thales shedding 2.3%. STMicroelectronics retreated 3.1%, as the selloff in US chipmakers extended. In contrast, TotalEnergies rose 1% on higher oil prices. Luxury stocks helped partially offset losses, with LVMH up 1.8%, L’Oréal adding 1.9%, Hermès rising 1.4% and Kering advancing 1.7%.
+
+---
+
+### 2026-08-19 23:56:32  #其他
+
+負責對美貿易事務的加拿大部長：仍在努力敲定最終文字。
+
+---
+
+### 2026-08-19 23:56:18  #其他
+
+負責對美貿易事務的加拿大部長表示：對加拿大奶農將受到保護充滿信心。
+
+---
+
+### 2026-08-19 23:55:33  #國際
+
+美國貿易代表格里爾：相信我們已達成一項強化北美經濟的協議。
+
+---
+
+### 2026-08-19 23:55:22  #MKT News
+
+Canada's minister for U.S.-Canada trade Leblanc said he is still working to finalize the final text.
+
+---
+
+### 2026-08-19 23:53:45  #Trading Economics #Markets #Commodity #Importance 1
+
+Silver Rises to 2-Month High — Silver prices rose to $65.5 per ounce on Wednesday, the highest in two months, after the US Treasury announced that it would double its buyback operations on long-term securities. The measure triggered a sharp decline in longer-term Treasury yields, aligned with other efforts to limit pressure the long-end of the curve by the department, such as intervening on the yen market and calling on the Federal Reserve to increase limits on the FIMA facility. Lower borrowing costs improve the appeal of holding precious metals that bear no interest payments. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th.
+
+---
+
+### 2026-08-19 23:53:21  #Trading Economics #Markets #Commodity #Importance 1
+
+Wheat Rises to Over 3-Week High — Wheat climbed to around $6.80 per bushel, moving toward the two-year high of $7.08 reached on July 22, as renewed concerns over Black Sea export disruptions supported the market. Continued Russian and Ukrainian attacks on shipping severely disrupted regional grain flows, with Ukraine’s agricultural exports falling sharply during the first half of August. Traders are increasingly concerned that prolonged restrictions on Black Sea ports could significantly reduce Ukrainian wheat shipments during the 2026/27 season. Ukraine’s wheat exports could fall to between 5 million and 10 million metric tons if attacks continue to restrict access to key ports. Wheat has also benefited from firmer soybean and corn prices, while ongoing geopolitical tensions are keeping global supply risks in focus. Although some traders have recently taken profits following the earlier rally, the disruption to Black Sea exports continues to provide an important floor for prices.
+
+---
+
+### 2026-08-19 23:52:40  #其他
+
+【中非共和國一金礦滑坡 逾百人遇難】據喀麥隆國家廣播電臺19日報道，中非共和國西部邊境地區一處金礦18日發生滑坡，初步統計已有逾百人遇難。（新華社）
+
+---
+
+### 2026-08-19 23:52:18  #MKT News
+
+U.S. Trade Representative Greer said the U.S. has removed some trade frictions with Canada over the past year.
+
+---
+
+### 2026-08-19 23:52:15  #國際
+
+美國貿易代表格里爾表示，美國在過去一年中已消除了與加拿大之間的一些摩擦因素。
+
+---
+
+### 2026-08-19 23:50:56  #國際
+
+【美機構警告不明駭客攻擊西門子水務基礎設施裝置】美國政府機構週三發出警告，身份不明的駭客正試圖入侵用於監控、運維水務設施及其他關鍵基礎設施的西門子裝置。近幾周，多個州的地方水務系統接連遭遇網路攻擊，網路安全專家懷疑襲擊與伊朗有關，此次警示便在此背景下發布。該預警並未鎖定這些企圖入侵西門子裝置的幕後駭客身份。
+
+---
+
+### 2026-08-19 23:50:38  #MKT News
+
+U.S. Trade Representative Greer said the agreement with Canada will protect U.S. workers, jobs and supply chains and bolster the North American economy.
+
+---
+
+### 2026-08-19 23:50:35  #國際
+
+美國貿易代表格里爾表示，與加拿大達成的協議將保護美國工人、就業崗位和供應鏈，並提振北美經濟。
+
+---
+
+### 2026-08-19 23:50:10  #其他
+
+負責對美貿易事務的加拿大部長表示，我們對乳製品供應體系維持強硬立場。
+
+---
+
+### 2026-08-19 23:49:29  #MKT News
+
+Canada's U.S.-Canada trade minister LeBlanc said Ottawa has maintained a tough stance on the dairy supply-management system.
+
+---
+
+### 2026-08-19 23:48:51  #MKT News
+
+Canada's minister responsible for US-Canada trade said the agreement will leave the agricultural supply management system unchanged.
+
+---
+
+### 2026-08-19 23:48:15  #其他
+
+負責對美貿易事務的加拿大部長表示，該協議將保留原有的農業供應管理體系不變。
+
+---
+
+### 2026-08-19 23:48:07  #Trading Economics #Markets #Canada #stocks #Importance 1
+
+CIBC Stock Price Hits 5-week Low — CIBC shares decreased to 162.76 CAD, the lowest since July 2026. Over the past 4 weeks, CIBC lost 1.59%, and in the last 12 months, it increased 60.53%.
+
+---
+
+### 2026-08-19 23:47:12  #其他
+
+【我國首次實現火箭陸地回收有何重要意義？專家解讀：中國航天發射的成本有望降低70%以上】央視新聞晚間釋出《我國首次實現火箭陸地回收有何重要意義？專家解讀》一文，文章引用北京航空航天大學航空專家王亞男的話提到，朱雀三號遙二運載火箭首次成功完成著陸腿陸上可控一子級回收。這次發射對於中國航天意義重大。這意味著中國航天發射的成本有望降低70%以上。在短短一個多月的時間裡，中國的火箭回收技術在兩個方向上分別實現了突破，分別是海上的網系回收和陸上的著陸腿緩衝回收。更深層次的意義在於兩個方面，中國未來大規模的空間設施的建設，需要火箭能夠以低成本、高效率的方式運作。這些技術的突破，為中國大規模空間設施的建設提供了能力保障。另外一方面，在未來全球的商業航天發射市場上，隨著中國火箭可回收技術以及重複使用技術的相繼突破和發展，中國航天將在未來的商業航天市場上獲得長足的競爭力。
+
+---
+
+### 2026-08-19 23:46:48  #其他
+
+比特幣暴漲至69000美元，60分鐘內11億美元加密貨幣空頭頭寸遭爆倉。
+
+---
+
+### 2026-08-19 23:43:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says many ships transited Strait of Hormuz, US has complete control】Trump said many ships transited the Strait of Hormuz overnight and that the US has complete control of the waterway, but oil flows through the strait will not be entirely smooth. He said oil prices will fall sharply when this ends. He said talks with Iran may occur at some point but Iran must not be allowed nuclear weapons because they would use them. On trade, Trump said he had a good call with Canadian Prime Minister CARNEY, that there are no tariffs on Canada and US farmers will no longer face tariffs under an agreement that awaits final documentation.
+
+---
+
+### 2026-08-19 23:43:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Pick Up to Over 3-Week High — Soybeans rose to around $12.20 per bushel, their highest level since the more than two-year peak of $12.50 reached on July 24, supported by growing concerns over the condition of the US Midwest crop. Recent field assessments pointed to below-average soybean pod counts in Indiana and Nebraska, while excessive rainfall in parts of the region has raised further doubts about potential yields. The USDA has also recently reduced its crop estimates and lowered condition ratings, adding to supply concerns. Demand prospects are providing additional support, particularly from China. The USDA confirmed a sale of 136,000 metric tons of US soybeans to China for delivery during the 2026/27 season, while traders reported that Chinese buyers have recently booked more than 7 million tons. Strong domestic demand is also reinforcing the positive outlook, with US soybean processing in July increasing 10.7% from a year earlier.
+
+---
+
+### 2026-08-19 23:42:12  #MKT News #Important
+
+【Trump says talks with Iran may occur at some point】U.S. President Trump said on Aug. 19 local time that talks with Iran may occur at some point. On Aug. 18 he posted on social media that there would be no talks or dialogue with Iran now or in the future. Trump had earlier insisted the U.S. was negotiating with Iran, a claim Iranian officials have repeatedly denied.
 
 ---
 
@@ -18729,245 +18867,5 @@ Al Jazeera reports US officials say Trump has ordered his team not to negotiate 
 ### 2026-08-18 23:33:14  #MKT News #Macro & Rates #Treasury Yields #US10Y
 
 US 6-week Treasury auction to Aug. 18: percentage of award at the winning yield 37.04%, prior 2.86%.
-
----
-
-### 2026-08-18 23:33:03  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 6-week Treasury bill auction on Aug 18: bid-cover ratio 2.97, prior 2.93.
-
----
-
-### 2026-08-18 23:32:55  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
-
-U.S. 6-week Treasury auction settling Aug. 18 awarded yield 3.645%, vs 3.67% previous.
-
----
-
-### 2026-08-18 23:32:42  #其他
-
-恆天然：奶粉各合同期FAS拍賣均價3,873美元/噸。批發奶粉價格指數漲3%，報3,591美元/噸。
-
----
-
-### 2026-08-18 23:32:22  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.645%，投標倍數2.97。
-
----
-
-### 2026-08-18 23:31:54  #MKT News
-
-New Zealand Global Dairy Trade price index to Aug. 4 up 2.3% (previous 0.1%).
-
----
-
-### 2026-08-18 23:31:45  #MKT News #Economic Calendar #Important
-
-New Zealand | Global Dairy Trade Price Index (MoM) (Aug.4) | actual 2.3% | previous 0.1%
-
----
-
-### 2026-08-18 23:31:38  #市場
-
-恆天然全球乳製品交易價格指數上漲 2.3%。
-
----
-
-### 2026-08-18 23:31:14  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude's intraday gain widened to 1.00%, trading at $90.66/bbl.
-
----
-
-### 2026-08-18 23:30:55  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Edges Up on Tuesday — The FTSE 100 edged higher on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 3% and 2%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. President Donald Trump said there were no talks scheduled with Iran and confirmed that the US naval blockade remained in place, adding to uncertainty over the conflict and the Strait of Hormuz. Lower gold prices weighed on mining stocks, with Fresnillo falling around 3% and Endeavour Mining declining 2.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations.
-
----
-
-### 2026-08-18 23:30:34  #國際
-
-【北約據報制定對俄陸戰構想戰略】德國《圖片報》8月17日報道稱，北約已經制定名為“北約陸戰構想”的戰略，以應對與俄羅斯可能爆發的衝突。（CCTV國際時訊）
-
----
-
-### 2026-08-18 23:30:16  #其他
-
-德國DAX 30指數初步收跌0.81%，報26124點。法國股指初步收跌0.73%，義大利股指初步收跌0.94%、銀行指數跌0.85%，英國股指初步收漲0.17%。
-
----
-
-### 2026-08-18 23:30:13  #國際
-
-歐洲STOXX 600指數初步收跌0.65%，報652.13點。歐元區STOXX 50指數初步收跌0.96%，報6468.00點。富時泛歐績優300指數初步收跌0.65%，報2607.03點。
-
----
-
-### 2026-08-18 23:30:05  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: South Korea 10Y Bond Yield Rises by 10 bps — Majority of government bonds yields are higher on Tuesday. Top gainers are South Korea 10Y (10.20bps), Germany 10Y (4.23bps) and Japan 10Y (1.34bps). Biggest losers are US 10Y (-0.80bps).
-
----
-
-### 2026-08-18 23:29:40  #MKT News
-
-UGI shares rose 11.3% after KKR made a $9 bln takeover offer for the U.S. energy distributor.
-
----
-
-### 2026-08-18 23:27:44  #公司 #央行 #國際
-
-【美銀調查：基金經理股票配置升至近五年最高 空頭幾乎絕跡】美國銀行的Michael Hartnett表示，全球投資者進一步提高股票持倉，股票配置升至近五年來最高水平，市場幾乎沒有給悲觀者留下空間。Hartnett為首的美銀策略師團隊在報告中寫道，美銀最新行業調查顯示，淨56%的基金經理超配股票，佔比為2021年11月以來最高。現金配置則降至“極低”的3.5%。報告稱，市場共識是經濟不會出現明顯“著陸”、美聯儲不會加息、AI資本開支不會削減、民主黨不會在中期選舉中大勝。他們認為當前倉位仍意味著投資者更應在風險資產內部撤退或輪動，而不是進一步加倉，報告重申了近期轉向更防禦性市場板塊的觀點。8月調查顯示，投資者預計美聯儲在11月中期選舉前不會加息，民主黨的選舉表現不足以削弱股市的強勁勢頭。基金經理的普遍看法是，經濟不會出現明顯惡化，而大舉投資人工智慧基礎設施的公司也會繼續維持支出。
-
----
-
-### 2026-08-18 23:27:18  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-US crude futures rose more than $1 intraday as prospects for a US-Iran peace deal faded.
-
----
-
-### 2026-08-18 23:23:36  #市場 #國際
-
-【資料中心反對聲浪漸成美國選舉敏感議題 華爾街擔憂美股面臨回撥風險】針對人工智慧(AI)以及支撐AI執行所需資料中心的反對聲浪，正在成為美國選舉中日益敏感的議題，以至於華爾街也開始被迫將這一因素納入股市投資建議。美國銀行策略師上週告訴客戶，如果共和黨在11月中期選舉中表現強勁，美股將會“大漲”。Michael Hartnett領導的團隊尤其關注德克薩斯州州長Greg Abbott能否連任，並警告稱，如果民主黨同時控制參議院並拿下德州州長職位，明年股市可能下跌逾10%，達到技術上回撥的定義。Evercore ISI和BCA Research此前也曾警告，針對AI的民粹主義反彈可能給股市帶來麻煩。
-
----
-
-### 2026-08-18 23:23:06  #MKT News #WTI #Impact bearish #Brent
-
-【US media: Pentagon weighing smaller Gulf military footprint after war】The Washington Post, citing eight people including officials, says the Pentagon is reassessing its Middle East military posture, indicating the Iran war could reshape the US footprint in the region. Two people familiar with the analysis said a central question is whether to withdraw forces from the Persian Gulf. US overseas bases in the region have been damaged by Iranian strikes for months, and that damage has given the Pentagon an opportunity to reconsider its posture. The Pentagon has said it may not rebuild some bases to their pre-war configurations. Officials said Hegseth has not ordered a formal review; the work is described as prudent planning that could inform decisions on whether to rebuild war-damaged facilities.
-
----
-
-### 2026-08-18 23:22:57  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli forces struck a café near Gaza City's port recently, killing one and wounding several. The Israeli military said the strike targeted a "terrorist".
-
----
-
-### 2026-08-18 23:21:38  #其他
-
-國際足聯副主席恰尼據稱撤回對因凡蒂諾的支援。
-
----
-
-### 2026-08-18 23:21:03  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #EURUSD #DXY #Impact bullish
-
-Italy's FTSE MIB index fell as much as 1.00% intraday.
-
----
-
-### 2026-08-18 23:21:01  #MKT News #UGI.O #Impact bullish
-
-Sources said KKR has proposed to acquire UGI, the Pennsylvania‑headquartered U.S. energy distributor, at $42.50 a share.
-
----
-
-### 2026-08-18 23:20:39  #國際
-
-【俄外交部：美方言論助長日本復仇主義和修正主義】當地時間18日，俄羅斯外交部就美國駐日本大使格拉斯涉南千島群島（日本稱北方四島）相關言論表示，美方言論毫無新意，只會助長日本的復仇主義和修正主義。（央視新聞）
-
----
-
-### 2026-08-18 23:20:16  #公司
-
-市場訊息：KKR 提出以每股 42.50 美元收購 UGI 公司。
-
----
-
-### 2026-08-18 23:20:06  #MKT News
-
-【Iran holds 40-day memorial for late supreme leader in Tehran】Iran held a 40-day memorial for the burial of the late supreme leader Ali Khamenei on the 18th at the courtyard outside Tehran's Imam Khomeini Mosque, Iranian sources said. Large crowds attended. Delegates present included Majlis Speaker Ghalibaf, Hassan Khomeini (grandson of Iran’s first supreme leader), and children of Ali Khamenei. Earlier Iranian reports said Supreme Leader Mujtaba Khamenei would preside in Tehran; live feeds had not shown him by the time of reporting.
-
----
-
-### 2026-08-18 23:20:03  #市場 #焦點
-
-紐約期金失守4410美元/盎司，日內跌1.45%。
-
----
-
-### 2026-08-18 23:19:48  #國際
-
-【報道：美國考慮戰爭結束後減少在海灣地區的軍事存在】據《華盛頓郵報》援引訊息人士稱，美國國防部正考慮在伊朗戰爭結束後縮減其海灣地區軍事部署，伊朗的打擊暴露了美國主要基地存在的防禦短板。 備選方案包括將兵力向西調往約旦、以色列或沙烏地阿拉伯，而非重建受損設施。尚未作出正式決定。
-
----
-
-### 2026-08-18 23:19:05  #市場 #焦點
-
-白銀連續主力合約日內跌3%，現報15612.00元。
-
----
-
-### 2026-08-18 23:18:20  #MKT News
-
-UAE Ministry of Defense told citizens that any sounds they hear are from air-defence intercepts.
-
----
-
-### 2026-08-18 23:17:13  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-The Washington Post reports sources say the Pentagon is evaluating whether to withdraw U.S. forces from the Persian Gulf. The report says major U.S. overseas bases have been struck by Iran for months and sustained significant damage, creating an opening for the Pentagon to reconsider its regional force posture.
-
----
-
-### 2026-08-18 23:15:12  #國際
-
-市場訊息：美國考慮戰爭結束後縮減海灣地區軍事部署規模。
-
----
-
-### 2026-08-18 23:15:07  #MKT News #Important #WTI #Impact bearish #Brent
-
-The Washington Post reports the US is considering reducing its military presence in the Gulf region once the war ends.
-
----
-
-### 2026-08-18 23:14:51  #MKT News #Commodities #Industrial Metals
-
-Market sources say iron ore trader Radiant World has started layoffs as it faces mounting pressure.
-
----
-
-### 2026-08-18 23:14:31  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot silver fell 3% intraday to $63.80/oz. Spot gold dropped below $4,360/oz, down 1.28% on the day.
-
----
-
-### 2026-08-18 23:14:24  #市場
-
-現貨白銀日內跌3%，現報63.72美元/盎司。
-
----
-
-### 2026-08-18 23:14:23  #市場 #焦點
-
-現貨黃金失守4360美元/盎司，日內跌1.29%。
-
----
-
-### 2026-08-18 23:12:19  #市場 #焦點
-
-紐約期銀失守64美元/盎司，日內跌3.37%。
-
----
-
-### 2026-08-18 23:12:16  #國際
-
-【伊朗舉行已故最高領袖下葬四十日紀念儀式】伊朗伊斯蘭共和國廣播電視臺18日報道，伊朗當天在首都德黑蘭伊瑪目霍梅尼清真寺建築外廣場舉行已故最高領袖阿里·哈梅內伊下葬四十日紀念儀式。（新華社）
-
----
-
-### 2026-08-18 23:11:02  #國際
-
-伊朗塔斯尼姆通訊社：迪拜傑貝阿里發生劇烈爆炸。
-
----
-
-### 2026-08-18 23:09:57  #MKT News
-
-【IRGC deputy commander says US considered using 'Venezuela model' on Iran but failed】Islamic Revolutionary Guard Corps deputy commander Mustafa Izadi told the IRGC's news site on 18 that the US had drawn up plans to overthrow and "dismember" Iran and had considered applying the "Venezuela model" to Iran, but ultimately failed to achieve its objectives and suffered setbacks across multiple areas.
 
 ---
