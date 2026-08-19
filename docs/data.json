@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-20 01:32:42",
-  "count": 15552,
+  "updated": "2026-08-20 01:36:30",
+  "count": 15551,
   "items": [
+    {
+      "id": "mkt:01a01b17-3183-7aab-909e-b7b6df108e05",
+      "time": "2026-08-20 01:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank said month-to-date net capital inflows through Aug. 14 totaled $1.504 bln; net inflows last week were $851 mln."
+    },
+    {
+      "id": "mkt:01a01b15-d642-7aab-909e-acc67a66484e",
+      "time": "2026-08-20 01:33:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Trump says U.S. may resume talks with Iran 'sometime'】At the White House on June 19, President Trump said the U.S. may resume talks with Iran 'sometime' but only if Tehran completely abandons nuclear weapons. Asked whether the U.S. would return to negotiations he said 'maybe sometime' and 'for now, I think the situation is very good.' He reiterated Iran must 'completely give up' nuclear arms, asserted the U.S. 'owns' and 'fully controls' the Strait of Hormuz, and said occasional Iranian drone launches 'do cause trouble.'"
+    },
     {
       "id": "mkt:01a01b13-08ec-7aab-909e-a122cae6113e",
       "time": "2026-08-20 01:30:27",
@@ -142247,35 +142265,6 @@
         "國際"
       ],
       "text": "阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。"
-    },
-    {
-      "id": "mkt:019ff70a-ed3c-7aab-9011-f1c2bc494201",
-      "time": "2026-08-13 01:35:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns."
-    },
-    {
-      "id": "mkt:019ff70a-574b-7aab-9011-ee4bd875fd25",
-      "time": "2026-08-13 01:34:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Google (GOOG.O) co-founder Sergey Brin has spent recent months urging staff to focus on returning the GEMINI model to the forefront of AI."
-    },
-    {
-      "id": "5038063",
-      "time": "2026-08-13 01:34:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。"
     }
   ]
 }

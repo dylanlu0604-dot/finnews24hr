@@ -1,7 +1,25 @@
 {
   "date": "2026-08-20",
-  "count": 125,
+  "count": 127,
   "items": [
+    {
+      "id": "mkt:01a01b17-3183-7aab-909e-b7b6df108e05",
+      "time": "2026-08-20 01:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank said month-to-date net capital inflows through Aug. 14 totaled $1.504 bln; net inflows last week were $851 mln."
+    },
+    {
+      "id": "mkt:01a01b15-d642-7aab-909e-acc67a66484e",
+      "time": "2026-08-20 01:33:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Trump says U.S. may resume talks with Iran 'sometime'】At the White House on June 19, President Trump said the U.S. may resume talks with Iran 'sometime' but only if Tehran completely abandons nuclear weapons. Asked whether the U.S. would return to negotiations he said 'maybe sometime' and 'for now, I think the situation is very good.' He reiterated Iran must 'completely give up' nuclear arms, asserted the U.S. 'owns' and 'fully controls' the Strait of Hormuz, and said occasional Iranian drone launches 'do cause trouble.'"
+    },
     {
       "id": "mkt:01a01b13-08ec-7aab-909e-a122cae6113e",
       "time": "2026-08-20 01:30:27",
