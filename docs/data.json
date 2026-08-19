@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-20 02:44:27",
-  "count": 15621,
+  "updated": "2026-08-20 02:48:21",
+  "count": 15627,
   "items": [
+    {
+      "id": "5048509",
+      "time": "2026-08-20 02:46:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗央行行長表示，截至目前，協議框架下被凍結的資產尚無資金獲得解凍。"
+    },
+    {
+      "id": "mkt:01a01b58-401a-7aab-90a0-42cb641bdbe5",
+      "time": "2026-08-20 02:46:03",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "Britain says it is willing to discuss its digital services tax (DST) with the United States and considers the levy on tech firms a temporary measure until a global solution is reached."
+    },
+    {
+      "id": "5048508",
+      "time": "2026-08-20 02:44:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶91.62美元，上漲60美分，漲幅0.66%。"
+    },
+    {
+      "id": "mkt:01a01b57-2d6a-7aab-90a0-3e78e3142e75",
+      "time": "2026-08-20 02:44:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $91.62 a barrel, up $0.60 or 0.66%."
+    },
+    {
+      "id": "mkt:01a01b56-f1f2-7aab-90a0-364dbd5204e6",
+      "time": "2026-08-20 02:44:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Fed minutes flag AI equity risk, note Treasury price-volatility risk】Fed minutes said some participants, in a financial stability discussion, flagged vulnerabilities tied to financing for rapid expansion of AI-related infrastructure. They noted elevated AI equity valuations reflect market optimism on long-term earnings and warned a sharp downgrade of those prospects could trigger broad asset repricing, tighten financial conditions and strain financial institutions with direct or indirect exposure. Two participants also discussed how heightened U.S. Treasury price volatility could harm the financial system and ways to reduce the likelihood of such events."
+    },
+    {
+      "id": "5048507",
+      "time": "2026-08-20 02:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱已使65艘商船改變航線】當地時間8月19日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月19日，美軍已引導65艘商船改變航向，使3艘商船喪失航行能力，並登臨檢查了2艘商船。"
+    },
+    {
+      "id": "te:markets:576604",
+      "time": "2026-08-20 02:44:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Erase Gains — The S&P/TSX Composite Index erased early gains and hovered marginally below the flatline at 36,650, as losses for heavyweight banks offset gains for gold producers, while markets assessed updates to trade policy. US President Trump paused the 50% tariffs on select Canadian goods and signaled that a trade deal with Canada was soon to be agreed upon. Still, reports indicated that metals will remain tariffed. Banks led the losses even though the US Treasury doubled the buyback amount on bonds and notes to limit recent pressure on North American bond yields. BMO, TD Bank, and RBC sank more than 3%. On the other hand, gold prices surged on the drop for the dollar and yields. Miners led the gains, with Agnico Eagle, Wheaton, and Barrick up between 10% and 5%."
+    },
     {
       "id": "mkt:01a01b54-33bf-7aab-90a0-2df01c268831",
       "time": "2026-08-20 02:41:38",
@@ -143004,17 +143082,6 @@
         "其他"
       ],
       "text": "市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。"
-    },
-    {
-      "id": "mkt:019ff74c-c573-7aab-9012-899ab7d631e2",
-      "time": "2026-08-13 02:47:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%."
     }
   ]
 }
