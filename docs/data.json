@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-19 12:53:39",
-  "count": 15206,
+  "updated": "2026-08-19 12:57:36",
+  "count": 15207,
   "items": [
+    {
+      "id": "mkt:01a01860-426e-7aab-9089-8a25b75bc462",
+      "time": "2026-08-19 12:55:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says countries without U.S. bases are safer】In an interview broadcast Aug. 18, Iran's foreign minister Araghchi said recent military clashes involving Iran, the U.S. and Israel demonstrate that reliance on external forces and bases cannot guarantee Gulf states' security. He said the presence of U.S. troops and bases not only fails to provide security but is a destabilising factor, and that countries without U.S. bases are safer. Araghchi added Iran is not seeking only a ceasefire but a complete end to the war, and does not want a cycle of short truces followed by renewed fighting."
+    },
+    {
+      "id": "5047021",
+      "time": "2026-08-19 12:53:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球首款 工業母機具身智慧模型在常州投產驗證】據常州釋出，8月18日，創造力（常州）機器人有限公司在武進國家高新區正式投產，同步宣佈全球首款面向工業母機應用場景的具身智慧模型進入驗證應用階段。該專案由創造力（上海）智慧科技、智元創新（上海）科技股份有限公司及常州國資創投平臺聯合組建。"
+    },
+    {
+      "id": "5047020",
+      "time": "2026-08-19 12:53:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下跌6個基點至3.785%。"
+    },
     {
       "id": "5047019",
       "time": "2026-08-19 12:51:54",
@@ -139344,23 +139369,6 @@
         "其他"
       ],
       "text": "【暑運以來深圳鐵路累計客流超2400萬人次】記者從深圳鐵路部門獲悉，7月1日至8月10日，深圳鐵路累計到發旅客2404.5萬人次，同比增加2.4萬人次，整體執行平穩有序。"
-    },
-    {
-      "id": "5036861",
-      "time": "2026-08-12 12:55:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【駐日美軍一架“魚鷹”運輸機緊急著陸】據日本共同社12日報道，駐日美軍一架“魚鷹”運輸機10日在栃木縣的日本陸上自衛隊宇都宮機場緊急著陸。美方稱之為避免事故發生的“預防性著陸”。 報道稱，這架“魚鷹”運輸機隸屬位於東京的駐日美軍橫田基地，已於11日離開宇都宮機場，目前暫未收到人員傷亡或財產損失報告。 報道還稱，橫田基地的“魚鷹”運輸機曾多次緊急著陸。今年2月和5月分別在日本巖手縣的花捲機場和神奈川縣的駐日美軍厚木基地發生過類似情況。 “魚鷹”運輸機事故多發。2023年11月，美軍一架“魚鷹”運輸機在鹿兒島縣屋久島附近海域墜毀，機上8人全部死亡。(新華社)"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839001196",
-      "time": "2026-08-12 12:55:02",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行連續第二天“零投放” 債市再迎“敲打” 30年國債上午再升0.6BP】債市收益率又迎“敲打”，繼昨日之後，央行今日再度執行公開市場操作“零投放”。上午，短期資金利率小幅抬升，10年國債在1.7%關口上午震盪，而此前強勢的30年國債則繼續承壓。業內分析認為，央行“零投放”實際影響有限，市場或正在重複歷史定價模式，但更多是情緒層面的修正。"
     }
   ]
 }
