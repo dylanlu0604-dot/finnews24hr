@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-20 03:04:20",
-  "count": 15635,
+  "updated": "2026-08-20 03:08:09",
+  "count": 15636,
   "items": [
+    {
+      "id": "5048521",
+      "time": "2026-08-20 03:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 曾嘗試收購 AI 程式設計初創企業 Cognition。"
+    },
+    {
+      "id": "mkt:01a01b6a-e2ca-7aab-90a0-985d7ac1d5b5",
+      "time": "2026-08-20 03:06:24",
+      "tags": [
+        "MKT News",
+        "ESLT.O",
+        "Impact bullish"
+      ],
+      "text": "Israel's Channel 12 reports Israel will begin establishing a production line for precision-guided munitions for fighter aircraft."
+    },
+    {
+      "id": "mkt:01a01b6a-3c48-7aab-90a0-961801c023af",
+      "time": "2026-08-20 03:05:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026."
+    },
+    {
+      "id": "5048520",
+      "time": "2026-08-20 03:04:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列 N12 新聞：以色列即將開始生產戰鬥機所用智慧炸彈。 此舉意在在與伊朗關係緊張的背景下，實現武器自主。"
+    },
+    {
+      "id": "mkt:01a01b68-1483-7aab-90a0-8b96a6dc24f7",
+      "time": "2026-08-20 03:03:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces says it will conduct a military exercise near Nahariya tomorrow as part of its 2026 training plan; the activity is not related to a security incident."
+    },
     {
       "id": "mkt:01a01b66-7b81-7aab-90a0-8008302368ba",
       "time": "2026-08-20 03:01:36",
@@ -143133,41 +143179,6 @@
         "MKT News"
       ],
       "text": "CENTCOM said as of local time Aug 12 US forces have forced 59 merchant vessels to divert, disabled three vessels and boarded and inspected two."
-    },
-    {
-      "id": "5038083",
-      "time": "2026-08-13 03:06:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大和美國尚未準備好達成關稅協議，加方對美方最新提案表示不滿。"
-    },
-    {
-      "id": "5038082",
-      "time": "2026-08-13 03:05:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍中央司令部：截至8月12日，美軍已對59艘商船實施改道，使3艘商船喪失航行能力，並登檢2艘商船，確保各方完全遵守封鎖規定。"
-    },
-    {
-      "id": "mkt:019ff75d-6641-7aab-9012-b00f73af06e8",
-      "time": "2026-08-13 03:05:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada and the United States are not ready to conclude a tariff agreement; Canada says it is dissatisfied with the US's latest proposal."
-    },
-    {
-      "id": "mkt:019ff75c-f387-7aab-9012-ac6a3f17d438",
-      "time": "2026-08-13 03:04:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Persian Gulf Strait Authority said US officials' repeated claims that the Strait of Hormuz is no longer obstructed do not change the facts: the strait remains blocked and will not reopen unless Iran's conditions are accepted."
     }
   ]
 }

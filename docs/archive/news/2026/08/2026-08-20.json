@@ -1,7 +1,53 @@
 {
   "date": "2026-08-20",
-  "count": 256,
+  "count": 261,
   "items": [
+    {
+      "id": "5048521",
+      "time": "2026-08-20 03:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 曾嘗試收購 AI 程式設計初創企業 Cognition。"
+    },
+    {
+      "id": "mkt:01a01b6a-e2ca-7aab-90a0-985d7ac1d5b5",
+      "time": "2026-08-20 03:06:24",
+      "tags": [
+        "MKT News",
+        "ESLT.O",
+        "Impact bullish"
+      ],
+      "text": "Israel's Channel 12 reports Israel will begin establishing a production line for precision-guided munitions for fighter aircraft."
+    },
+    {
+      "id": "mkt:01a01b6a-3c48-7aab-90a0-961801c023af",
+      "time": "2026-08-20 03:05:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026."
+    },
+    {
+      "id": "5048520",
+      "time": "2026-08-20 03:04:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列 N12 新聞：以色列即將開始生產戰鬥機所用智慧炸彈。 此舉意在在與伊朗關係緊張的背景下，實現武器自主。"
+    },
+    {
+      "id": "mkt:01a01b68-1483-7aab-90a0-8b96a6dc24f7",
+      "time": "2026-08-20 03:03:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces says it will conduct a military exercise near Nahariya tomorrow as part of its 2026 training plan; the activity is not related to a security incident."
+    },
     {
       "id": "mkt:01a01b66-7b81-7aab-90a0-8008302368ba",
       "time": "2026-08-20 03:01:36",
