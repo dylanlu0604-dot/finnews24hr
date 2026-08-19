@@ -1,7 +1,241 @@
 {
-  "updated": "2026-08-20 07:48:57",
-  "count": 15643,
+  "updated": "2026-08-20 07:52:46",
+  "count": 15656,
   "items": [
+    {
+      "id": "mkt:01a01c70-1f16-7aab-90a3-8886e1eb22cb",
+      "time": "2026-08-20 07:51:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Europe & UK",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Finance Ministry reported July exports to the US rose 22% YoY, to the EU rose 19.1% YoY and to Asia rose 24.5% YoY."
+    },
+    {
+      "id": "mkt:01a01c6f-8fdb-7aab-90a3-841a7c457467",
+      "time": "2026-08-20 07:51:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan bought foreign equities worth ¥1.3913 tln in the week to Aug. 14; the prior week's figure was revised down from ¥963.5 bln to ¥927.4 bln."
+    },
+    {
+      "id": "mkt:01a01c6f-8f88-7aab-90a3-7aecf4e83a39",
+      "time": "2026-08-20 07:51:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Foreign investors were net sellers of Japanese government bonds by 1.25 tln yen in the week to Aug. 14; the prior week's net sale was revised from 58.7 bln yen to 56.7 bln yen."
+    },
+    {
+      "id": "mkt:01a01c6f-6295-7aab-90a3-744093cd7db7",
+      "time": "2026-08-20 07:50:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Aug.14) | actual 1391300000000B | previous 963500000000B"
+    },
+    {
+      "id": "mkt:01a01c6f-5f04-7aab-90a3-6a109a030dc2",
+      "time": "2026-08-20 07:50:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Aug.14) | actual -1249900000000B | previous -58700000000B"
+    },
+    {
+      "id": "5048721",
+      "time": "2026-08-20 07:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省（MOF）資料顯示，7月日本動力煤進口量為881.6萬噸，同比下降9.1%。"
+    },
+    {
+      "id": "mkt:01a01c6f-35a0-7aab-90a3-665ba59837a0",
+      "time": "2026-08-20 07:50:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan July seasonally adjusted merchandise trade deficit 686.0 bln yen, versus forecast deficit 407.6 bln; prior deficit 881.9 bln."
+    },
+    {
+      "id": "5048719",
+      "time": "2026-08-20 07:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省資料顯示，7月液化天然氣進口量同比下降4.8%，至501.4萬噸。"
+    },
+    {
+      "id": "5048718",
+      "time": "2026-08-20 07:50:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省公佈：7月初步原油進口量同比增加5.5%。"
+    },
+    {
+      "id": "mkt:01a01c6f-00e0-7aab-90a3-5a0b796a5e3c",
+      "time": "2026-08-20 07:50:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Adjusted Merchandise Trade Balance (Jul) | actual -686009000000B | consensus -407600000000B | previous -881900000000B"
+    },
+    {
+      "id": "mkt:01a01c6e-ea38-7aab-90a3-508531d656cd",
+      "time": "2026-08-20 07:50:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan bought ¥1.1351 trillion of foreign bonds in the week to Aug. 14; prior figure revised from ¥1.6294 trillion to ¥1.6367 trillion."
+    },
+    {
+      "id": "5048717",
+      "time": "2026-08-20 07:50:23",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本7月出口同比 23.2%，預期 20.1%，前值 19.3%。\n日本7月進口同比 27.8%，預期 25.1%，前值 25.4%。\n日本7月未季調商品貿易帳 -6345億日元，預期 -6490億日元，前值 -4069億日元。\n日本7月季調後商品貿易帳 -6860.09億日元，預期 -4416億日元，前值 -8819億日元。\n日本至8月14日當週買進外國股票 13913億日元，前值由9635億日元修正為9274億日元。\n日本至8月14日當週外資買進日債 -12499億日元，前值由-587億日元修正為-567億日元。"
+    },
+    {
+      "id": "mkt:01a01c6e-ccec-7aab-90a3-4bd5f8a33d4b",
+      "time": "2026-08-20 07:50:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Net foreign purchases of Japanese equities totalled 621.2 bln yen in the week to Aug. 14; the prior week's net selling was revised from 368.5 bln yen to 368.6 bln yen."
+    },
+    {
+      "id": "mkt:01a01c6e-b45a-7aab-90a3-4263b4c7ed2c",
+      "time": "2026-08-20 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan July goods exports YoY 23.2% (expected 19.9%; prior 19.3%)."
+    },
+    {
+      "id": "mkt:01a01c6e-b450-7aab-90a3-3faf4555b77d",
+      "time": "2026-08-20 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan July merchandise trade balance (non-seasonally adjusted) -634.5 bln yen, vs. -680.0 bln expected. June trade balance revised from -406.9 bln to -409.9 bln."
+    },
+    {
+      "id": "mkt:01a01c6e-b3ec-7aab-90a3-35124502fc9e",
+      "time": "2026-08-20 07:50:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan July goods imports YoY 27.8% (expected 26.5%, prior 25.4%)."
+    },
+    {
+      "id": "mkt:01a01c6e-8758-7aab-90a3-2ad7b0180b16",
+      "time": "2026-08-20 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Aug.14) | actual 1135100000000B | previous 1629400000000B"
+    },
+    {
+      "id": "mkt:01a01c6e-8752-7aab-90a3-21262fde8e30",
+      "time": "2026-08-20 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Aug.14) | actual 621200000000B | previous -368500000000B"
+    },
+    {
+      "id": "mkt:01a01c6e-8658-7aab-90a3-1e43454cb03e",
+      "time": "2026-08-20 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Unadjusted Merchandise Trade Balance (Jul) | actual -634500000000B | consensus -680000000000B | previous -406900000000B"
+    },
+    {
+      "id": "mkt:01a01c6e-8608-7aab-90a3-15d4eaedc447",
+      "time": "2026-08-20 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Imports (Jul) | actual 27.8% | consensus 26.5% | previous 25.40%"
+    },
+    {
+      "id": "mkt:01a01c6e-85e2-7aab-90a3-0aa289100077",
+      "time": "2026-08-20 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Exports (Jul) | actual 23.2% | consensus 19.9% | previous 19.30%"
+    },
     {
       "id": "5048716",
       "time": "2026-08-20 07:47:08",
@@ -143299,80 +143533,6 @@
         "Importance 2"
       ],
       "text": "US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%."
-    },
-    {
-      "id": "5038244",
-      "time": "2026-08-13 07:52:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中船廣船國際：訂單生產排期至2030年】在全球船舶工業加快向高階化、綠色化、智慧化演進的背景下，地處廣州南沙的中國船舶集團廣船國際有限公司，正逐漸成長為我國高階船舶製造的重要力量。中船廣船國際營銷總監李濤介紹，中船廣船國際目前已形成油船、集裝箱船、滾裝船、高階客滾船、半潛船、極地船等“三優三特”產品矩陣，在多個細分市場居於全球前列。2025年，公司營收達202億元，手持訂單總額突破1000億元，國際化訂單佔比超90%，生產排期已排至2030年。（經參報）"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608133839734413",
-      "time": "2026-08-13 07:51:39",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月生產者價格同比增長7.2%，預估為7.4%。"
-    },
-    {
-      "id": "5038243",
-      "time": "2026-08-13 07:50:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本7月生產者價格環比增長0.1%，預估為+0.6%。日本7月生產者價格同比增長7.2%，預估為+7.4%。"
-    },
-    {
-      "id": "mkt:019ff862-37bc-7aab-9014-9ac795e14509",
-      "time": "2026-08-13 07:50:14",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan domestic corporate goods price index (YoY) 7.2% in July; expected 7.4%, prior 7.10%."
-    },
-    {
-      "id": "mkt:019ff862-3251-7aab-9014-94e60861660a",
-      "time": "2026-08-13 07:50:12",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan domestic corporate goods price index (MoM) +0.1%, est +0.6%, prior +0.4%."
-    },
-    {
-      "id": "mkt:019ff862-0a90-7aab-9014-8e42109753a0",
-      "time": "2026-08-13 07:50:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Goods Price Index (YoY) (Jul) | actual 7.2% | consensus 7.4% | previous 7.10%"
-    },
-    {
-      "id": "mkt:019ff862-0a8c-7aab-9014-85afb41a8e46",
-      "time": "2026-08-13 07:50:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Goods Price Index (MoM) (Jul) | actual 0.1% | consensus 0.60% | previous 0.40%"
-    },
-    {
-      "id": "5038242",
-      "time": "2026-08-13 07:48:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【民政部：今年上半年全國民政事業支出2436億元】日前，民政部發布統計資料顯示，今年上半年，我國民政事業累計支出2436億元。其中，城市最低生活保障589.2萬人，農村最低生活保障3346.2萬人，城鄉特困人員救助供養493.7萬人，享受困難殘疾人生活補貼1202.7萬人，享受重度殘疾人生護理補貼1687.1萬人。"
     }
   ]
 }
