@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 01:36:30_
-_本檔包含 3157 則快訊，約 621082 字_
+_更新時間：2026-08-20 01:52:17_
+_本檔包含 3163 則快訊，約 620878 字_
+
+---
+
+### 2026-08-20 01:51:31  #國際
+
+美國貨幣市場基金資產在截至8月18日的一週內增加261.8億美元。
+
+---
+
+### 2026-08-20 01:51:04  #公司
+
+【英偉達擬對其AI資料供應商Mercor進行投資，估值達200億美元】英偉達正在洽談投資資料標註服務商Mercor。這家企業協助該晶片廠商開發開源AI模型，本輪融資對應的企業估值為200億美元。現有投資方General Catalyst正洽談牽頭本輪融資。Mercor過往絕大部分收入來自OpenAI、谷歌、Anthropic等閉源AI模型廠商。但隨著英偉達重點佈局用於對標全球頂尖開源模型的Nemotron開源大模型，來自英偉達的業務收入正在增長。
+
+---
+
+### 2026-08-20 01:50:05  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+The Information reports Nvidia (NVDA.O) is in talks to fund its AI data supplier Mercor at a $20 billion valuation.
+
+---
+
+### 2026-08-20 01:50:04  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+The Fed will release FOMC minutes in 10 minutes.
+
+---
+
+### 2026-08-20 01:48:55  #公司 #市場
+
+紐柯鋼鐵公司股價下跌近5%，跌至盤中低點。
+
+---
+
+### 2026-08-20 01:45:06  #焦點 #國際
+
+【美國擬將加拿大鋼鋁關稅減半】據知情人士透露，美加一份暫定貿易協議擬將加拿大部分鋼鋁出口產品關稅下調至25%。相關細節尚未敲定，預計不會一刀切全面適用。部分含該類金屬的衍生品可能適用不同稅率。美國對加拿大數十億美元商品擬徵收50%關稅，美國總統特朗普暫緩落地，為談判留出更多時間，不到24小時之後，美加貿易顧問於週三繼續磋商。本次金屬關稅調整方案，有望促成一份長期協議，在週五截止日前規避大範圍加徵關稅。特朗普過往曾在最後一刻要求修改貿易協議，甚至直接推翻協議。
+
+---
+
+### 2026-08-20 01:44:51  #MKT News #Important #Commodities #Industrial Metals #S&P500 #Impact bullish
+
+Market sources say the US plans to halve tariffs on Canadian steel and aluminum as part of a trade agreement.
+
+---
+
+### 2026-08-20 01:43:54  #其他
+
+知情人士稱，美加關稅協議尚未最終敲定，金屬衍生品或將適用不同稅率。
+
+---
+
+### 2026-08-20 01:43:14  #MKT News
+
+Bahrain's Interior Ministry said it and the UK's Home Office held a joint security working-group meeting.
+
+---
+
+### 2026-08-20 01:43:10  #焦點 #國際
+
+根據貿易協議，美國將把對加拿大鋼鐵和鋁的關稅減半。
+
+---
+
+### 2026-08-20 01:38:36  #MKT News #MU.O #Impact bullish
+
+S&P upgraded Micron Technology (MU.O) to BBB+, citing increased confidence in the company's near-term demand outlook. Outlook is Positive.
+
+---
+
+### 2026-08-20 01:38:21  #其他 #焦點
+
+標普：美光科技評級上調至“BBB+”，因對短期需求信心增強。展望為正面。
 
 ---
 
@@ -18993,41 +19065,5 @@ Fox News reported Rep. Buddy Carter has held discussions with the White House ab
 ### 2026-08-19 01:43:41  #國際
 
 【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）
-
----
-
-### 2026-08-19 01:37:09  #MKT News
-
-【Zelenskiy discusses drone cooperation and €1.1bn 2026 aid with Belgian foreign minister】Ukrainian President Zelenskiy met Belgian Foreign Minister Maxime Prévot in Kyiv on Tuesday and said in a social media post that his team is drafting an agreement on bilateral drone cooperation and they discussed a possible signing date. He thanked Belgium for pledging more than €1.1 billion in aid to Ukraine in 2026.
-
----
-
-### 2026-08-19 01:36:59  #MKT News
-
-Israel Defense Forces said it struck a Hamas Nukhba commander in the Gaza Strip in response to an earlier attack today.
-
----
-
-### 2026-08-19 01:35:02  #其他
-
-【比特幣巨鯨豪擲27.5億美元重返市場掃貨】據CryptoQuant資料（其計算排除了交易所和礦池），過去60天內，比特幣巨鯨累計增持約4.3萬枚比特幣，按當前價格計算價值約27.5億美元。當比特幣價格開始交投於6萬美元附近時，大型持有者重新投入買入，所謂”海豚”（中等偏上持有者）的持倉餘額也在增長，持有100-1000枚比特幣的中型持有者更是掀起了一波買入狂潮。重量級投資者入場的趨勢，為市場正在築底並可能開啟新一輪牛市週期增添了訊號，但參與度偏低和信心不足仍是市場隱憂。
-
----
-
-### 2026-08-19 01:32:13  #MKT News
-
-A Yemen government-backed armed group said Houthi shelling in Hodeidah province's Khokha district killed three people, including a child.
-
----
-
-### 2026-08-19 01:30:25  #國際
-
-【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）
-
----
-
-### 2026-08-19 01:29:10  #其他
-
-【厄瓜多外交官巴基角逐下一任聯合國秘書長】聯大主席發言人柯林斯18日宣佈，厄瓜多外交官伊沃內·巴基角逐下一任聯合國秘書長。柯林斯說，巴基的候選人身份由湯加提名。目前，除巴基外，另有7人角逐下一任聯合國秘書長職位，分別為：智利前總統米歇爾·巴切萊特、來自厄瓜多的聯大前主席瑪麗亞·費爾南達·埃斯皮諾薩、來自阿根廷的現任國際原子能機構總幹事拉斐爾·格羅西、來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、來自烏干達的聯合國前副秘書長奧拉拉·奧通努、現任蓋亞那常駐聯合國代表卡羅琳·羅德里格斯-伯基特、塞內加爾前總統麥基·薩勒。現任聯合國秘書長古特雷斯的任期至今年12月31日。（新華社）
 
 ---

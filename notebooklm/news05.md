@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 01:36:30_
-_本檔包含 3225 則快訊，約 620765 字_
+_更新時間：2026-08-20 01:52:17_
+_本檔包含 3227 則快訊，約 620723 字_
+
+---
+
+### 2026-08-14 07:35:24  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+U.S. Treasury Secretary Bessent said the U.S. is exerting maximum pressure on Iran's global bank accounts and that those measures have caused Iran's banking sector to collapse.
+
+---
+
+### 2026-08-14 07:32:18  #國際
+
+美國總統特朗普將於美國東部時間週五下午3點在紐約發表講話。
+
+---
+
+### 2026-08-14 07:31:48  #公司
+
+【AI影視爆火催生多個新工種 人才需求正大幅攀升】AIGC導演、AI音訊編劇、AI生圖師、AI抽卡師（AI影片生成師）……在頭部短劇企業嘉興九州文化傳媒有限公司（下稱“九州文化”），AI內容創作相關的崗位已佔全員的60%，其中有不少這樣充滿特色的AI相關崗位。AI技術在影視行業的應用逐漸深化，AI短劇、AI漫劇等AI影視內容產量大幅提升。AI影視內容的火爆帶動了相關人才需求的增長。傳統影視企業的主要崗位包括策劃、剪輯、導演等，而在以生產AI影視內容為主的影視企業，一批頗具特色的新崗位對AI影視人才的需求正大幅攀升。九州文化相關人士向證券時報記者介紹，公司近一年來員工總數從約3000人快速擴張至9000餘人，淨增6000人，新增崗位幾乎全部集中於AI內容生產鏈條。
+
+---
+
+### 2026-08-14 07:31:42  #央行 #國際
+
+【貝萊德全球固定收益首席投資官：日元的反彈有賴於日本央行鷹派訊號】貝萊德全球固定收益首席投資官Rick Rieder表示，要支撐日元，僅靠政府幹預還不夠，日本央行還需要釋放鷹派訊號。日元本週再度向1美元兌160日元靠近，再次逼近四十年來最低水平。 Rieder接受媒體採訪時表示，外匯干預並不是推動日元反彈“最持久”的途徑。“這麼多年來，我見過不少干預，要奏效，就必須動用大量火力並持續下去，”Rieder表示，“貨幣政策必須達到這樣一種狀態，讓人們相信你會加息，需要鷹派時就會採取鷹派立場。我認為日本需要展現出這一點。”
+
+---
+
+### 2026-08-14 07:30:53  #市場 #央行 #國際
+
+【國泰海通：美國通脹延續溫和 加息擔憂暫緩】國泰海通釋出研報稱，7月美國通脹資料符合預期，結構上呈現商品偏強服務仍穩的特點，部分緩解了市場對美聯儲9月加息的擔憂。當前美國通脹仍延續溫和，但仍需警惕油價以及需求端韌性對通脹回落帶來的擾動。若8月通脹資料仍未超預期走強且美國就業維持低就業增長的狀態，美聯儲觀望視窗或將進一步延長，9月仍有可能維持利率不變。
 
 ---
 
@@ -19435,23 +19465,5 @@ Sources said Brazil's economic team inserted spending-cut provisions into an unr
 ### 2026-08-13 01:54:05  #MKT News
 
 Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace.
-
----
-
-### 2026-08-13 01:46:56  #市場
-
-芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。
-
----
-
-### 2026-08-13 01:46:33  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm.
-
----
-
-### 2026-08-13 01:44:51  #國際
-
-阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。
 
 ---
