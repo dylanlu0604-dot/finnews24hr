@@ -1,7 +1,157 @@
 {
   "date": "2026-08-19",
-  "count": 1222,
+  "count": 1238,
   "items": [
+    {
+      "id": "mkt:01a018a6-cac5-7aab-908c-31d7266b7dcc",
+      "time": "2026-08-19 14:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia says it struck a military cargo ship in the Black Sea."
+    },
+    {
+      "id": "mkt:01a018a5-bf46-7aab-908c-28aae001fb97",
+      "time": "2026-08-19 14:11:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf said his visit to Iraq today aims to strengthen a new regional order and accelerate cooperation among regional states without external interference."
+    },
+    {
+      "id": "5047109",
+      "time": "2026-08-19 14:11:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱其在黑海擊中一艘軍用貨船。"
+    },
+    {
+      "id": "5047108",
+      "time": "2026-08-19 14:11:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宇樹科技亮相2026世界機器人大會，G1款機器人現場展示乒乓球、舞蹈、格鬥等運動】2026世界機器人大會（WRC 2026）期間，宇樹科技攜多款最新發布的人形機器人、四足機器人亮相大會，透過多型別機器人協同演示、全自主 AI 叢集表演以及新一代動態運動能力展示，全面呈現機器人從單體智慧向群體智慧、從運動控制向自主協同加速演進的最新進展。（新浪科技）"
+    },
+    {
+      "id": "te:economy:576347",
+      "time": "2026-08-19 14:11:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "UK Producer Inflation at 4-Month Low of 3.1% — Factory gate prices for UK-manufactured goods advanced 3.1% year-on-year in July 2026, slowing from a 3.5% growth in June, marking the softest increase in four months. Eight of the 10 product groups made upward contributions to the annual rate, led by a jump in prices of coke and refined petroleum products (30.1% vs 41.3% in June) amid higher energy costs. Inflation accelerated for other manufactured products (4.6% vs 4.5% in June) and basic metals, fabricated metal products, and machinery (5.0% vs 5.2%). Meanwhile, motor vehicles and other transport equipment made the largest downward contribution, with prices declining 1.6%, followed by food products, where prices fell 0.8%. On a monthly basis, factory gate prices rose 0.2%, after inching down 0.1% in June."
+    },
+    {
+      "id": "5047107",
+      "time": "2026-08-19 14:11:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌3%，現報1006.00元。"
+    },
+    {
+      "id": "5047106",
+      "time": "2026-08-19 14:11:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【傳奇投資人庫珀曼預言：美經濟可能明年衰退，股市會下跌尤應避開科技股】日前，華爾街傳奇投資人、對沖基金大佬庫珀曼（Leon Cooperman）對美國經濟和市場前景做出了令人擔憂的預測，認為美國經濟可能在未來一年內陷入衰退。他在接受最新採訪時表示，當前市場的一些跡象與過去的繁榮與蕭條週期有相似之處，例如20世紀中期的“漂亮50”時代。庫珀曼指出，種種跡象表明當前的經濟週期即將結束，而隨著人工智慧（AI）熱潮逐漸消退，股市也可能迎來新一輪的動盪。“我認為明年某個時候我們將面臨經濟衰退，這可能會導致市場下跌，”庫珀曼說，並補充說他認為標普500指數的盈利預期被錯誤定價。"
+    },
+    {
+      "id": "mkt:01a018a4-f110-7aab-908c-20944cd8af30",
+      "time": "2026-08-19 14:10:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CSI 500 index futures (IC) front-month contract dropped below 7,700 points, down 3.94% intraday."
+    },
+    {
+      "id": "mkt:01a018a4-cfe1-7aab-908c-1aec3e02b66c",
+      "time": "2026-08-19 14:10:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "【UK inflation rises to 2.9% in July as Ofgem raises energy price cap】ONS said annual inflation rose to 2.9% in July, matching market expectations and up from 2.6% in June, mainly driven by a 13% increase in Ofgem’s price cap on household gas and electricity bills that took effect on July 1."
+    },
+    {
+      "id": "mkt:01a018a4-b58f-7aab-908c-16b4ff0af57e",
+      "time": "2026-08-19 14:10:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Speaker of Iran's parliament Ghalibaf said Iran's resistance forces have been vindicated and have become a global phenomenon."
+    },
+    {
+      "id": "5047105",
+      "time": "2026-08-19 14:10:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌4%，現報7701.20點。"
+    },
+    {
+      "id": "5047104",
+      "time": "2026-08-19 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：轉融券標的板塊淨流出超1153億】截至目前，今日主力資金淨流出1257.59億；淨流入體育產業、黃金、煤炭等板塊，其中體育產業板塊淨流入7.06億；淨流出轉融券標的、融資融券、TMT等板塊，其中轉融券標的板塊淨流出1153.75億。\n  \n個股方面，N宇樹淨買入19.79億元位居首位，金風科技、金田股份、斯達半導主力資金淨流入居前；中際旭創淨賣出40.95億元位居首位，兆易創新、新易盛、通富微電淨流出額居前。"
+    },
+    {
+      "id": "te:economy:576346",
+      "time": "2026-08-19 14:09:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "UK Core Inflation Holds at 2.6% for Third Month — The UK's annual core inflation rate remained at 2.6% in July 2026, unchanged for the third consecutive month. It stayed at its highest level since March and slightly above market expectations of 2.5%. The annual rate for CPI goods accelerated (2.2% vs 1.7% in June), while CPI services inflation eased (3.4% vs 3.6%). On a monthly basis, core consumer prices rose 0.2%, slowing from 0.3% increases in both June and May and marking the softest monthly reading since January."
+    },
+    {
+      "id": "mkt:01a018a3-5879-7aab-908c-0a3e996a7360",
+      "time": "2026-08-19 14:09:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Local governor said oil refinery infrastructure in Russia's Bashkortostan region was damaged in a Ukrainian drone attack."
+    },
+    {
+      "id": "5047103",
+      "time": "2026-08-19 14:09:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯巴什科爾託斯坦共和國州長稱，烏克蘭無人機襲擊導致該地區煉油廠基礎設施受損。"
+    },
+    {
+      "id": "5047102",
+      "time": "2026-08-19 14:09:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【頭部私募倉位升至88%以上】最新資料顯示，截至8月14日，股票私募倉位指數已達83.97%，較上一週小幅提升。其中，滿倉（倉位＞80%）股票私募佔比達70.39%，中等倉位（50%-80%）佔比為17.87%，低倉（20%-50%）和空倉（倉位＜20%）佔比分別為7.75%和3.99%。據統計，截至8月14日，頭部（50億元以上規模）、中型（10億元-50億元規模）和小型（10億元以下規模）私募的倉位指數分別為88.56%、83.96%和82.63%。其中，頭部私募倉位相較於上一週大幅加倉1.24個百分點，再度重新整理年內新高。 (上證報)"
+    },
     {
       "id": "mkt:01a018a3-1a49-7aab-908c-055885e5ca16",
       "time": "2026-08-19 14:08:57",
