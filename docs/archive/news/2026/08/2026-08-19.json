@@ -1,7 +1,97 @@
 {
   "date": "2026-08-19",
-  "count": 1149,
+  "count": 1160,
   "items": [
+    {
+      "id": "mkt:01a01898-6ade-7aab-908a-c3d40776f41f",
+      "time": "2026-08-19 13:57:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran will take concrete steps to strengthen relations with Iraq."
+    },
+    {
+      "id": "5047081",
+      "time": "2026-08-19 13:57:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【江蘇銀行股價創歷史新高】江蘇銀行盤中股價創歷史新高，現漲1.71%，報11.91元，總市值為2183.81億元。"
+    },
+    {
+      "id": "5047080",
+      "time": "2026-08-19 13:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將美元兌人民幣的年終預測從6.7下調至6.6。"
+    },
+    {
+      "id": "5047079",
+      "time": "2026-08-19 13:56:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量585億元。"
+    },
+    {
+      "id": "5047078",
+      "time": "2026-08-19 13:55:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥大豆期貨有望創下5月以來最長連漲紀錄】由於中西部作物考察報告結果不及預期，市場對大豆供應前景的擔憂加劇，芝加哥大豆期貨有望連續第四個交易日上漲，並創下自5月中旬以來最長連漲紀錄。芝加哥交投最活躍的大豆合約一度上漲0.7%，並帶動穀物和油籽市場走高。據Pro Farmer作物考察資料顯示，內布拉斯加州和印第安納州的大豆結莢數量均低於過去三年的平均水平；此前對俄亥俄州和南達科他州的調查結果也低於去年同期水平。"
+    },
+    {
+      "id": "mkt:01a01896-532e-7aab-908a-ba42cce84e82",
+      "time": "2026-08-19 13:54:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran deputy communications minister says fiber access registrations quadrupled over two years】Iran’s deputy communications minister said fiber access registrations rose from 350,000 to 1,000,000 over the past two years, about a fourfold increase. He said Iran Telecom Company is advancing a network upgrade program to replace copper with fiber to boost data transmission speeds and expand coverage."
+    },
+    {
+      "id": "5047077",
+      "time": "2026-08-19 13:54:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗：過去兩年光纖接入數量實現四倍增長】據伊朗塔斯尼姆通訊社報道，伊朗通訊部副部長表示：“ 過去兩年間，光纖接入登記數量已從35萬條增至今年的100萬條，使用者接入這一通訊技術的數量實現了四倍增長。 在光纖接入增加的同時，伊朗電信公司翻新計劃也在推進中，旨在以光纖網路替代銅纜網路，提升資料傳輸速度和通訊覆蓋係數。”"
+    },
+    {
+      "id": "5047076",
+      "time": "2026-08-19 13:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍夜間擊落453架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a01895-b030-7aab-908a-b339a0089699",
+      "time": "2026-08-19 13:54:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russia shot down 453 Ukrainian drones overnight."
+    },
+    {
+      "id": "5047075",
+      "time": "2026-08-19 13:54:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數收復失地；最新升0.1%，報25490.05點。"
+    },
+    {
+      "id": "5047074",
+      "time": "2026-08-19 13:53:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇神通：神通半導體真空控壓蝶閥已向國內龍頭襯底廠及光纖廠穩定批次供貨】江蘇神通近日接受機構調研時表示，在半導體領域，公司設立全資子公司神通半導體，聚焦積體電路、光伏、顯示面板等先進製造領域的精密管閥件加工製造。目前，其真空控壓蝶閥已向國內龍頭襯底廠及光纖廠穩定批次供貨，並在多家國內外頭部裝置廠商處完成驗證與匯入。"
+    },
     {
       "id": "5047073",
       "time": "2026-08-19 13:52:15",
