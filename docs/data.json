@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-19 12:34:17",
-  "count": 15204,
+  "updated": "2026-08-19 12:38:07",
+  "count": 15200,
   "items": [
+    {
+      "id": "5047009",
+      "time": "2026-08-19 12:34:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.2%，至178,274點。"
+    },
     {
       "id": "5047008",
       "time": "2026-08-19 12:33:30",
@@ -139300,50 +139308,6 @@
         "Importance 1"
       ],
       "text": "Sensex Falls for Second Day — India’s BSE Sensex fell about 0.3% to 77,957 on Wednesday, following the losses on the previous session as rising crude oil prices and caution ahead of domestic and US inflation data weighed on risk sentiment. Oil prices moved closer to $90 a barrel as concerns over tensions in the Middle East and uncertainty around the reopening of the Strait of Hormuz raised fears of higher energy costs. India’s annual inflation rate for July is also due later today, with forecasts pointing to a rise to 4.5% from 4.38%, which marked the highest rate since December 2024. Among stocks, Godrej Consumer Products was a major decliner. Its shares fell about 9.4% to their lowest level in more than three years after CEO Sudhir Sitapati unexpectedly resigned, just months after being reappointed, while Tata Group stocks also came under pressure following reports that Tata Sons Chairman N. Chandrasekaran may step down. Top losers included Dr. Agarwal’s (-5.7%), Tenneco Clean Air (-2.2%), and Manappuram (-1.7%)"
-    },
-    {
-      "id": "5036853",
-      "time": "2026-08-12 12:37:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【辰欣藥業等成立生物科技公司】企查查APP顯示，近日，濟寧辰啟生物科技有限公司成立，法定代表人為房慶賀，經營範圍包含食品網際網路銷售（僅銷售預包裝食品）；保健食品（預包裝）銷售；母嬰用品銷售；日用百貨銷售等。企查查股權穿透顯示，該公司由山東青蘅健康管理有限公司、辰欣藥業等共同持股。"
-    },
-    {
-      "id": "5036852",
-      "time": "2026-08-12 12:37:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【野村將開始在新加坡為富裕客戶提供實物黃金交易服務】野村控股的國際財富管理部門正在新加坡為其富裕客戶設立實物黃金交易和託管服務，此舉將有助於該國追求將自己打造為一個黃金樞紐的願景。野村週三釋出宣告稱，交易和託管服務將完全在新加坡開展，客戶可獲取大型金條以及公斤金條。這些大型金條重約400金衡盎司，是國際貿易結算的全球基準；公斤金條則是亞洲各個市場青睞的規格。“黃金已重新成為財富管理的一個基石，”野村國際財富管理投資產品及諮詢解決方案主管Akshay Prasad在宣告中表示。"
-    },
-    {
-      "id": "5036851",
-      "time": "2026-08-12 12:36:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安靠智電：公司暫未與東方電氣集團合作】安靠智電(300617)8月12日在互動平臺表示，公司暫未與東方電氣集團合作。"
-    },
-    {
-      "id": "5036850",
-      "time": "2026-08-12 12:35:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Omdia：AI需求激增 2026年半導體市場增幅上調至94.1%】Omdia發文稱，由於AI需求持續超過全球供應能力，推動DRAM和NAND市場實現強勁增長，Omdia將2026年全球半導體市場營收增長預測上調至同比增長94.1%。預計2026年儲存器晶片（Memory IC）收入將佔全球半導體總營收的50%以上。與此同時，AI需求已超出當前半導體產業的晶片製造和封裝能力，高頻寬記憶體（HBM）、先進封裝以及先進製程產能等關鍵環節的瓶頸預計至少將持續至2027年。"
-    },
-    {
-      "id": "te:economy:574612",
-      "time": "2026-08-12 12:34:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Malaysia Retail Sales Growth Slows in June — Retail sales in Malaysia rose 6.6% year-on-year in June 2026, slowing from a 7.2% increase in the previous month. Growth moderated in retail sales in non-specialised stores (7.0% vs 8.2% in May), as well as sales of other household equipment in specialised stores (3.2% vs 3.4%), automotive fuel in specialised stores (10.8% vs 12.8%), and food, beverages and tobacco in specialised stores (6.6% vs 7.2%). On the other hand, sales grew at a faster pace for other goods in specialised stores (7.0% vs 6.7%) and information and communication equipment in specialised stores (4.7% vs 3.5%). On a monthly basis, retail sales edged up 0.2%, easing from a 1.3% increase in the previous month."
     }
   ]
 }
