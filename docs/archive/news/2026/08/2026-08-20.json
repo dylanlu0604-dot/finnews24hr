@@ -1,7 +1,44 @@
 {
   "date": "2026-08-20",
-  "count": 400,
+  "count": 404,
   "items": [
+    {
+      "id": "5048649",
+      "time": "2026-08-20 05:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。"
+    },
+    {
+      "id": "5048648",
+      "time": "2026-08-20 05:38:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01bf5-ce3a-7aab-90a2-8f43cec48185",
+      "time": "2026-08-20 05:38:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London."
+    },
+    {
+      "id": "5048647",
+      "time": "2026-08-20 05:36:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。"
+    },
     {
       "id": "5048646",
       "time": "2026-08-20 05:34:29",
