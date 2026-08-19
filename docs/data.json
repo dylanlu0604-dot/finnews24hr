@@ -1,7 +1,130 @@
 {
-  "updated": "2026-08-19 15:03:05",
-  "count": 15258,
+  "updated": "2026-08-19 15:07:06",
+  "count": 15264,
   "items": [
+    {
+      "id": "5047199",
+      "time": "2026-08-19 15:05:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行代理行長：預計美國聯邦儲備理事會將在第四季度加息。"
+    },
+    {
+      "id": "5047198",
+      "time": "2026-08-19 15:05:52",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼央行代理行長：預計美國國債收益率將繼續上升。"
+    },
+    {
+      "id": "mkt:01a018d7-24e3-7aab-908d-b2782a89fdfb",
+      "time": "2026-08-19 15:05:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【A-shares close: ChiNext down 6.26%; over 5,000 stocks fall】A-shares closed sharply lower as risk-off swept the market. Shanghai Composite fell 2.40%, Shenzhen Composite dropped 5.01%, ChiNext plunged 6.26% and the STAR 50 Index fell 6.89%. Turnover across Shanghai and Shenzhen was 2.51 trillion yuan, up more than 110 billion yuan from the prior session. More than 5,000 stocks declined. MLCC names led losses, with Fenghua Hi‑Tech, Boqian New Materials, Jiemei Technology and Torch Electronics hitting lower limits. The CPO cohort tumbled; roughly 20 stocks hit limit down, including Yangtze Optical Fibre, Xingwang Ruijie, Anfu Technology, Tsinghua Unigroup and Tongyu Communication. Humanoid-robot names sold off sharply—Shangwei New Materials fell over 19%, and multiple peers were down more than 15%. Lithography, memory chips, glass-substrate and advanced packaging sectors also underperformed. Banks bucked the selloff: CITIC Bank rose about 4%, while Agricultural Bank of China, Nanjing Bank, Bank of Shanghai and Qingdao Bank gained over 2%. Coal sector remained active, with Baotailong, Shaanxi Heimao, Jinneng Technology, Suda, Dayou Energy and Meijin Energy hitting upper limits. New issue N Yushu surged 460.34% on its debut to 845 yuan, with turnover above 23 billion yuan."
+    },
+    {
+      "id": "mkt:01a018d6-d56c-7aab-908d-a8f293fe4a9a",
+      "time": "2026-08-19 15:05:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) U.S. after-hours shares rallied over 4% after earlier sliding more than 3%; the company said it has formally approved a 40 trillion won share buyback."
+    },
+    {
+      "id": "5047196",
+      "time": "2026-08-19 15:05:22",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國上半年風險投資達8.87萬億韓元，創歷史同期新高】韓國政府週三公佈的資料顯示，在人工智慧、機器人等前沿技術投資熱度高漲的背景下，2026 年上半年韓國對風險企業及初創公司的投資規模達到8.87 萬億韓元（約合 63.4 億美元），同比增長 54.3%，創下歷史同期新高。多筆規模超 1000 億韓元的大額投資集中流向人工智慧、半導體和機器人領域。資訊通訊技術（ICT）生產領域的投資同比增長143.3%；電子、機械及裝置行業緊隨其後，投資額同比增長90.4%；資訊通訊技術服務領域投資同比增長62.2%。"
+    },
+    {
+      "id": "5047195",
+      "time": "2026-08-19 15:05:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華源控股成立科技新公司 含積體電路相關業務】企查查APP顯示，近日，蘇州華源光通科技有限公司成立，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；積體電路晶片設計及服務；積體電路晶片及產品製造等。企查查股權穿透顯示，該公司由華源控股全資持股。"
+    },
+    {
+      "id": "5047194",
+      "time": "2026-08-19 15:05:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行代理行長：預計2026年全球經濟增長將維持疲軟態勢，增速為3%。"
+    },
+    {
+      "id": "mkt:01a018d4-33e3-7aab-908d-a1d5c8409845",
+      "time": "2026-08-19 15:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Aug 19 (Wed) — China's STAR 50 Index slid 6.89% to 1,667.52; ChiNext Index fell 6.26% to 3,473.49; Shenzhen Composite dropped 5.01% to 13,890.15; CSI 300 Index declined 2.90% to 4,588.70; Shanghai Composite fell 2.40% to 3,894.42."
+    },
+    {
+      "id": "mkt:01a018d3-cb23-7aab-908d-9dddfd9d6da6",
+      "time": "2026-08-19 15:02:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai and Shenzhen traded CNY 2.511 trillion on Aug. 19; Zhongji Xuchuang led turnover】On Aug. 19 Shanghai and Shenzhen bourses recorded combined turnover of CNY 2.511043 trillion, up CNY 110.268 billion from the prior session. Shanghai turnover was CNY 1.218108 trillion (prev. CNY 1.135188 trillion) with volume 572 mln lots (prev. 511 mln); Shenzhen turnover was CNY 1.292935 trillion (prev. CNY 1.265587 trillion) with volume 697 mln lots (prev. 675 mln). Top stock by turnover was Zhongji Xuchuang at CNY 32.882 bln, followed by Zhaoyi Innovation CNY 26.919 bln, Changxin Technology CNY 26.268 bln, N Yushu-W CNY 23.160 bln and Xinyisheng CNY 22.899 bln."
+    },
+    {
+      "id": "5047193",
+      "time": "2026-08-19 15:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4967.73億元，較昨日此時放量43.61億元】截至目前，ETF兩市成交額報4967.73億元，較昨日此時放量43.61億元，分型別來看，股票型ETF成交額2088.83億元，債券型ETF成交額1845.78億元，貨幣型ETF成交額284.63億元，商品型ETF成交額89.47億元，QDII型ETF成交額659.03億元。"
+    },
+    {
+      "id": "5047192",
+      "time": "2026-08-19 15:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價盤後交易中因股票回購而抹去了8.3%的跌幅。"
+    },
+    {
+      "id": "mkt:01a018d3-7cfb-7aab-908d-9295649cdddb",
+      "time": "2026-08-19 15:01:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European indices opened Wed Aug 19: Germany DAX down 3.12 pts (-0.01 pct) at 26,148.57; UK FTSE 100 down 0.76 pts (-0.01 pct) at 10,727.28; France CAC 40 up 9.78 pts (+0.11 pct) at 8,519.14; Euro STOXX 50 up 6.08 pts (+0.09 pct) at 6,474.25; Spain IBEX 35 down 0.31 pts (0.00 pct) at 19,934.59; Italy FTSE MIB up 49.16 pts (+0.09 pct) at 53,067.00."
+    },
     {
       "id": "mkt:01a018d3-7833-7aab-908d-8fe284a14bef",
       "time": "2026-08-19 15:01:47",
@@ -9,6 +132,15 @@
         "MKT News"
       ],
       "text": "【Equity index futures midday close】At midday, China's equity index futures main contracts were lower: CSI 300 (IF) -2.38%, SSE 50 (IH) -1.42%, CSI 500 (IC) -3.78%, CSI 1000 (IM) -4.26%."
+    },
+    {
+      "id": "5047191",
+      "time": "2026-08-19 15:01:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【收評：雙創指數均大跌超6%，全市僅400餘股紅盤】A股三大指數今日集體下跌，截至收盤，上證指數跌2.4%，深證成指跌5.01%，創業板指跌6.26%，北證50跌4.89%，科創50指數跌6.89%。全市場成交額25300億元，較上日放量1102億元，全市場超5000只個股下跌。板塊題材上，廚衛電器、銀行、煤炭開採加工、港口航運板塊上漲；MLCC概念、電子化學品、CPO、元件、半導體板塊跌幅居前。盤面上，廚衛電器板塊震盪走強，億田智慧、萬和電器、日出東方紛紛漲停，老闆電器、華帝股份、奧普科技跟漲。煤炭開採加工板塊表現活躍，寶泰隆、陝西黑貓、美錦能源、大有能源漲停，鄭州煤電、安泰集團、遼寧能源漲幅居前。電子化學品板塊持續走低，海星股份、天通股份、宏和科技觸及跌停，唯特偶、方邦股份、萊爾科技、國瓷材料、中石科技等多股跌超10%。人形機器人板塊重挫，上緯新材觸及20cm跌停，江蘇北人、豐光精密、綠的諧波、昊志機電均跌超15%。半導體板塊亦大幅下挫，芯原股份、芯朋微、長光華芯、華虹宏力、傑華特均跌超10%。"
     },
     {
       "id": "5047190",
@@ -139827,74 +139959,6 @@
         "SZSE Component"
       ],
       "text": "On Aug 12 (Wednesday) China's Shanghai Composite Index closed up 12.58 points (+0.32%) at 3,946.68; Shenzhen Composite Index closed up 154.99 points (+1.09%) at 14,414.43; CSI 300 Index closed up 27.13 points (+0.58%) at 4,690.92; ChiNext Index closed up 52.92 points (+1.49%) at 3,602.08; China STAR 50 Index closed up 27.49 points (+1.61%) at 1,736.99."
-    },
-    {
-      "id": "5037040",
-      "time": "2026-08-12 15:06:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【摩薩德前局長稱以方人員多次“踩點”伊朗核設施】以色列情報和特勤局（摩薩德）前局長約西·科亨11日稱，以色列秘密行動人員曾多次前往伊朗福爾道核設施。據《以色列時報》等媒體報道，科亨在以北部城市塞費德舉行的一場活動中說：“我們去過福爾道核設施許多次，以瞭解這一場所。”他沒有披露詳情，包括時間和具體行動。（新華社）"
-    },
-    {
-      "id": "5037039",
-      "time": "2026-08-12 15:06:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國品牌車型成尼泊爾車展亮點】“尼泊爾汽車進口商與製造商協會（NAIMA）2026年尼泊爾出行博覽會”11日在尼泊爾首都加德滿都開幕，匯聚全球數十個汽車品牌，面向公眾展示最新車型與出行科技。中國車企展臺吸引眾多觀眾駐足。(新華社)"
-    },
-    {
-      "id": "5037038",
-      "time": "2026-08-12 15:05:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃達康公司宣佈薩基·馬科佐馬將卸任董事長一職。"
-    },
-    {
-      "id": "mkt:019ff4ca-b0f8-7aab-9002-b28397da8691",
-      "time": "2026-08-12 15:05:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【Index futures arbitrage daily monitor — 12 Aug】Basis (futures minus spot): CSI 300 IF2608 discount 18.92 pts; SSE 50 IH2608 discount 8.39 pts; CSI 500 IC2608 discount 57.91 pts; CSI 1000 IM2608 discount 39.32 pts. Calendar spreads (Aug–Sep): IF2608-2609 +31.0 pts; IH2608-2609 +20.0 pts; IC2608-2609 +73.2 pts; IM2608-2609 +77.0 pts."
-    },
-    {
-      "id": "5037037",
-      "time": "2026-08-12 15:05:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "羅羅將為韓國鐵路公司（KORAIL）供應33臺MTU發動機。"
-    },
-    {
-      "id": "mkt:019ff4c9-ca64-7aab-9002-ab69d279dca8",
-      "time": "2026-08-12 15:04:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【China A-shares close: ChiNext up 1.49% after intraday rebound; consumer, property rally】China A-shares reversed a low open to finish higher after a midday rally. Shanghai Composite +0.32%, Shenzhen Composite Index +1.09%, ChiNext +1.49% (intraday peak >2%). Combined turnover on Shanghai and Shenzhen topped 2.1 tln yuan; more than 3,800 stocks advanced. Compute-hardware, fiber-optic and storage-chip sectors led gains. Consumer and property names surged in the afternoon, film & TV stocks were active. Oil & gas underperformed, posting the largest declines."
-    },
-    {
-      "id": "mkt:019ff4c8-dfc7-7aab-9002-a3961a96eb01",
-      "time": "2026-08-12 15:03:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver touched $66/oz, up 2.06% intraday."
     }
   ]
 }
