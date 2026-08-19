@@ -1,7 +1,58 @@
 {
   "date": "2026-08-19",
-  "count": 496,
+  "count": 501,
   "items": [
+    {
+      "id": "mkt:01a01765-c7ff-7aab-9084-344bb4498718",
+      "time": "2026-08-19 08:22:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources say ROK‑US Ulchi Freedom Shield schedule to be halved; South Korea's Defense Ministry cannot confirm】On the evening of the 18th local time, South Korean military sources said the ROK‑US Ulchi Freedom Shield joint exercise schedule would be shortened by half and end early after defensive operations conclude. South Korea's Defense Ministry on the 19th said it could not confirm the report."
+    },
+    {
+      "id": "5046655",
+      "time": "2026-08-19 08:21:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉石油部長：委內瑞拉與斯倫貝謝（SLB）簽署合同。"
+    },
+    {
+      "id": "5046654",
+      "time": "2026-08-19 08:21:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率下跌1.5個基點，至4.190%。"
+    },
+    {
+      "id": "te:markets:576262",
+      "time": "2026-08-19 08:19:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Decline on Bond Jitters — Gold traded below $4,350 an ounce on Wednesday after dropping nearly 2% in the previous session, pressured by elevated global bond yields amid growing fiscal concerns and persistent inflationary pressures. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades. The precious metal also faced pressure from rising oil prices as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. President Donald Trump said there were no ongoing talks with Tehran, while Iranian forces have intensified attacks on shipping in the Strait of Hormuz. Investors now await minutes from the Federal Reserve’s July meeting and remarks from Chairman Kevin Warsh at the annual Jackson Hole symposium for fresh clues on the monetary policy outlook."
+    },
+    {
+      "id": "mkt:01a01763-51db-7aab-9084-288fb98d5e80",
+      "time": "2026-08-19 08:19:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "8035.T",
+        "Nikkei 225"
+      ],
+      "text": "【Korean stocks open >6% lower; KOSPI sidecar pauses programmatic selling】Overnight US chip-sector rout and an ongoing Strait of Hormuz impasse sent Asian equities sharply lower Wednesday. KOSPI opened about 5% down then widened to 6%, triggering the KOSPI sidecar and pausing programmatic sell orders for five minutes. Samsung Electronics and SK Hynix fell about 7%. Japan's Nikkei 225 dropped over 3%; Tokyo Electron -4%, Kioxia -9%."
+    },
     {
       "id": "5046653",
       "time": "2026-08-19 08:18:06",
