@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-20 06:42:25",
-  "count": 15674,
+  "updated": "2026-08-20 06:46:16",
+  "count": 15671,
   "items": [
+    {
+      "id": "te:markets:576618",
+      "time": "2026-08-20 06:45:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Surges by 17.90% — Top crypto gainers are Ether (17.90%), Bitcoin (7.16%) and Binance (4.29%)."
+    },
+    {
+      "id": "5048676",
+      "time": "2026-08-20 06:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【解鎖AI算力新場景，科創債發行持續擴容提質】無錫高新區科創產業發展集團有限公司近期在上海證券交易所成功發行全國首單專項用於詞元（Token）算力工廠建設的科技創新公司債券。Wind資料顯示，今年以來，科創債發行擴容提質，發行規模超1.2萬億元。專家表示，當前科創債產品創新持續加碼、市場規模穩步攀升，精準對接科創領域融資需求，助力實體經濟與科創產業發展。（中證報）"
+    },
     {
       "id": "5048675",
       "time": "2026-08-20 06:40:17",
@@ -143619,52 +143638,6 @@
         "其他"
       ],
       "text": "【哥倫比亞地震已致265人遇難】哥倫比亞總統當地時間8月12日下午在記者會上證實，地震已造成265人遇難，目前仍有496人失蹤。"
-    },
-    {
-      "id": "5038184",
-      "time": "2026-08-13 06:45:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "淡水河谷預計，該（CPF）專案將使薩洛博工廠的年鐵礦石加工產能新增600萬公噸。"
-    },
-    {
-      "id": "te:markets:574833",
-      "time": "2026-08-13 06:45:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 1.12% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.12% decrease."
-    },
-    {
-      "id": "5038183",
-      "time": "2026-08-13 06:43:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西淡水河谷：薩洛博CPF專案推進至執行階段。"
-    },
-    {
-      "id": "5038182",
-      "time": "2026-08-13 06:43:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "淡水河谷：淡水河谷基礎金屬公司預計將在2028年上半年啟動該專案運營，較原計劃提前一年。"
-    },
-    {
-      "id": "mkt:019ff824-d611-7aab-9014-131bf9324635",
-      "time": "2026-08-13 06:43:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "ABC reports the US plans to withdraw all troops from Iraq before Sept. 30, ending its military presence dating to the 2003 invasion; Iraqi forces will assume full responsibility for combating Islamic State (ISIS)."
     }
   ]
 }
