@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-20 03:58:24",
-  "count": 15676,
+  "updated": "2026-08-20 04:02:35",
+  "count": 15678,
   "items": [
+    {
+      "id": "mkt:01a01b9d-f358-7aab-90a1-e59150aad41d",
+      "time": "2026-08-20 04:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US outstanding public debt has doubled since 2017. Of the increase, $11.6 tln was added during Trump’s two presidential terms and $8.4 tln was added during former president Biden’s term."
+    },
+    {
+      "id": "mkt:01a01b9c-c3c8-7aab-90a1-df0f55c201aa",
+      "time": "2026-08-20 04:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. federal government debt surpasses $40 trillion, Xinhua reports."
+    },
+    {
+      "id": "5048578",
+      "time": "2026-08-20 04:00:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國聯邦政府債務突破40萬億美元】美國財政部19日釋出的資料顯示，美國聯邦政府債務總額已突破40萬億美元。（新華社）"
+    },
+    {
+      "id": "5048577",
+      "time": "2026-08-20 04:00:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.22%，標普500指數漲0.22%，納指漲0.15%。Moderna漲176.97%，雅詩蘭黛漲16.39%，Strategy漲12.66%，默沙東漲12.62%，亞歷山大房地產漲10.30%，邁威爾科技漲9.91%。“七姐妹”方面：特斯拉漲4.23%，亞馬遜漲2.46%，蘋果漲2.12%，微軟漲0.55%，Meta Platforms漲0.46%，谷歌漲0.11%，英偉達跌1.08%。"
+    },
+    {
+      "id": "5048576",
+      "time": "2026-08-20 04:00:31",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部：美國未償還公共債務總額於週二首次突破 40 萬億美元。"
+    },
+    {
+      "id": "5048575",
+      "time": "2026-08-20 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.48%】金山雲漲13.98%，嘉楠科技漲11.38%，新氧漲8.14%，阿特斯漲6.99%，華住酒店集團漲5.77%。"
+    },
+    {
+      "id": "te:markets:576605",
+      "time": "2026-08-20 03:58:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 4-week High — Tesla shares increased to 351.27 USD, the highest since July 2026. Over the past 4 weeks, Tesla lost 5.05%, and in the last 12 months, it increased 8.34%."
+    },
     {
       "id": "mkt:01a01b98-bf6e-7aab-90a1-d1974786c481",
       "time": "2026-08-20 03:56:30",
@@ -143587,62 +143655,6 @@
         "MKT News"
       ],
       "text": "i24News reports that, at the request of Colombia’s disaster management agency, Israeli Prime Minister Netanyahu has sent an aid team."
-    },
-    {
-      "id": "5038107",
-      "time": "2026-08-13 04:02:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "Nebius股價收盤上漲34%，創去年9月以來最大漲幅。"
-    },
-    {
-      "id": "5038106",
-      "time": "2026-08-13 04:02:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "超微電腦收盤上漲19%，創7月22日以來最佳單日表現。"
-    },
-    {
-      "id": "mkt:019ff790-b111-7aab-9013-35f0ecb4988a",
-      "time": "2026-08-13 04:01:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Meta Platforms",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "SKHY.O",
-        "Impact bullish",
-        "NVDA.O",
-        "BABA.N",
-        "Impact bearish"
-      ],
-      "text": "【US close: major indexes mixed; SK Hynix up 9%】US stocks closed Wednesday mixed: Dow -0.04%, S&P 500 +0.26%, Nasdaq +0.54%. SpaceX (SPCX.O) +9.6%; NVIDIA (NVDA.O) +3%; SK Hynix (SKHY.O) +9%; Micron Technology (MU.O) +4.9%. Meta (META.O) -3%; Microsoft (MSFT.O) -2%. Nasdaq Golden Dragon China Index -2.4%; Alibaba (BABA.N) -2%; NetEase (NTES.O) -2.9%."
-    },
-    {
-      "id": "5038105",
-      "time": "2026-08-13 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.04%，標普500指數漲0.26%，納指漲0.54%。超微電腦漲18.77%，Lumentum Holdings Inc. Common Stock When Issued漲13.52%，Ciena科技漲11.48%，Texas Pacific Land Trust Sub Sha跌6.11%，CoreSite房產跌5.91%，第一太陽能跌5.87%。“七姐妹”方面：英偉達漲3.03%，谷歌跌0.20%，蘋果跌0.88%，特斯拉跌1.59%，亞馬遜跌1.83%，微軟跌2.26%，Meta Platforms跌3.38%。"
-    },
-    {
-      "id": "5038104",
-      "time": "2026-08-13 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.45%】聲網跌4.28%，高途跌4.17%，新東方跌3.89%，BOSS直聘跌4.03%，唯品會跌3.74%。"
     }
   ]
 }

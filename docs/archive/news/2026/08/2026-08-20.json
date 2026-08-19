@@ -1,7 +1,75 @@
 {
   "date": "2026-08-20",
-  "count": 336,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:01a01b9d-f358-7aab-90a1-e59150aad41d",
+      "time": "2026-08-20 04:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US outstanding public debt has doubled since 2017. Of the increase, $11.6 tln was added during Trump’s two presidential terms and $8.4 tln was added during former president Biden’s term."
+    },
+    {
+      "id": "mkt:01a01b9c-c3c8-7aab-90a1-df0f55c201aa",
+      "time": "2026-08-20 04:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. federal government debt surpasses $40 trillion, Xinhua reports."
+    },
+    {
+      "id": "5048578",
+      "time": "2026-08-20 04:00:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國聯邦政府債務突破40萬億美元】美國財政部19日釋出的資料顯示，美國聯邦政府債務總額已突破40萬億美元。（新華社）"
+    },
+    {
+      "id": "5048577",
+      "time": "2026-08-20 04:00:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.22%，標普500指數漲0.22%，納指漲0.15%。Moderna漲176.97%，雅詩蘭黛漲16.39%，Strategy漲12.66%，默沙東漲12.62%，亞歷山大房地產漲10.30%，邁威爾科技漲9.91%。“七姐妹”方面：特斯拉漲4.23%，亞馬遜漲2.46%，蘋果漲2.12%，微軟漲0.55%，Meta Platforms漲0.46%，谷歌漲0.11%，英偉達跌1.08%。"
+    },
+    {
+      "id": "5048576",
+      "time": "2026-08-20 04:00:31",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部：美國未償還公共債務總額於週二首次突破 40 萬億美元。"
+    },
+    {
+      "id": "5048575",
+      "time": "2026-08-20 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.48%】金山雲漲13.98%，嘉楠科技漲11.38%，新氧漲8.14%，阿特斯漲6.99%，華住酒店集團漲5.77%。"
+    },
+    {
+      "id": "te:markets:576605",
+      "time": "2026-08-20 03:58:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 4-week High — Tesla shares increased to 351.27 USD, the highest since July 2026. Over the past 4 weeks, Tesla lost 5.05%, and in the last 12 months, it increased 8.34%."
+    },
     {
       "id": "mkt:01a01b98-bf6e-7aab-90a1-d1974786c481",
       "time": "2026-08-20 03:56:30",
