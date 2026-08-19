@@ -1,7 +1,147 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 04:37:11_
-_本檔包含 3215 則快訊，約 625811 字_
+_更新時間：2026-08-20 05:02:02_
+_本檔包含 3215 則快訊，約 625695 字_
+
+---
+
+### 2026-08-19 06:56:55  #其他
+
+韓媒：美韓聯合軍演日程預計將縮減一半。
+
+---
+
+### 2026-08-19 06:56:38  #MKT News #S&P500 #Impact bullish #USDJPY #Impact bearish #XAUUSD
+
+According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved.
+
+---
+
+### 2026-08-19 06:55:51  #其他
+
+【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)
+
+---
+
+### 2026-08-19 06:50:41  #Trading Economics #Economy #New Zealand #PPI Input #Importance 1
+
+New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%).
+
+---
+
+### 2026-08-19 06:47:22  #其他
+
+據燈塔專業版實時資料，截至8月19日1時50分，影片《歡迎來龍餐館》票房突破11億。
+
+---
+
+### 2026-08-19 06:47:11  #公司
+
+【熱點城市土拍市場升溫，民營房企重拾拿地信心】 8月18日，海口市長秀片區XY0602061地塊經207輪競價成交，海南發展控股置業集團有限公司以23721.6061萬元競得，溢價率達27.52%。今年以來，國內熱點城市土地市場持續回暖，北上廣深、海口、杭州等城市集中出讓優質地塊，高溢價成交成為常態。伴隨市場修復，房企拿地活躍度穩步提升，行業投資信心出現邊際修復。（中證報）
+
+---
+
+### 2026-08-19 06:47:00  #資料 #市場 #央行 #國際
+
+【週三重要財經資訊提醒（以下均為北京時間）】 
+① 07:50 日本6月核心機械訂單；
+② 08:00 韓國新投資者買槓桿ETF須先完成模擬交易（新規實施）；
+③ 時間待定 朱雀三號遙二火箭確定8月19日清晨於酒泉發射，世界機器人大會在北京開幕（8月19日-23日），首爾人工智慧峰會開幕（8月19-21日）；
+④ 09:20 宇樹科技上市；
+⑤ 10:45 澳洲聯儲副主席Andrew Hauser參與一場爐邊閒聊；
+⑥ 14:00 英國7月CPI；
+⑦ 15:10 歐洲央行行長拉加德出席世界經濟論壇國際工商理事會 (IBC) 會議的“全球經濟展望”討論會；
+⑧ 15:20 印尼央行公佈利率決議；
+⑨ 港股收盤之後 快手釋出業績報告；
+⑩ 17:00 歐元區7月CPI終值；
+美股盤前 勞氏百貨、塔吉特等釋出業績報告；
+18:15 歐洲央行行長拉加德講話；
+22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
+次日02:00 美聯儲釋出FOMC會議紀要。
+
+---
+
+### 2026-08-19 06:46:27  #MKT News
+
+New Zealand Q2 input PPI YoY 4.1%, previous 1.8%.
+
+---
+
+### 2026-08-19 06:46:23  #MKT News
+
+New Zealand Q2 output PPI YoY 3.2%, prior 2.2%.
+
+---
+
+### 2026-08-19 06:46:22  #MKT News #Economic Calendar #Important
+
+New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%
+
+---
+
+### 2026-08-19 06:46:17  #MKT News #Economic Calendar #Important
+
+New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%
+
+---
+
+### 2026-08-19 06:45:07  #MKT News
+
+New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%).
+
+---
+
+### 2026-08-19 06:45:07  #MKT News
+
+New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter.
+
+---
+
+### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%
+
+---
+
+### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%
+
+---
+
+### 2026-08-19 06:44:01  #國際
+
+【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。
+
+---
+
+### 2026-08-19 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%).
+
+---
+
+### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
+
+【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
+
+---
+
+### 2026-08-19 06:38:17  #焦點 #國際
+
+【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。
+
+---
+
+### 2026-08-19 06:37:45  #其他
+
+【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)
+
+---
+
+### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
+
+【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
 
 ---
 
@@ -19275,131 +19415,5 @@ EQUINOR to acquire a partial stake in Lackawanna Energy Center.
 ### 2026-08-17 22:10:45  #MKT News
 
 Axios cited a source saying that during a meeting with Jared Kushner, Netanyahu brought Israel's Shin Bet chief David Zeni and Military Intelligence chief Shlomi Binder to brief Kushner on Hamas's violations in Gaza.
-
----
-
-### 2026-08-17 22:09:35  #其他
-
-加拿大總理卡尼：到2050年，加拿大的電力需求預計將翻倍。因此我們必須將電網的容量也翻倍。
-
----
-
-### 2026-08-17 22:09:15  #MKT News #Commodities #Energy #Copper #Impact bullish
-
-Canada's Prime Minister Carney said electricity demand is expected to double by 2050 and that grid capacity must be doubled accordingly.
-
----
-
-### 2026-08-17 22:08:34  #國際
-
-市場訊息：內塔尼亞胡‑庫什納會晤後，以色列與美國達成一致，哈馬斯第一階段上繳的武器將直接交由美軍銷燬。
-
----
-
-### 2026-08-17 22:07:46  #MKT News
-
-【Baltic Dry Index rises for second day】The Baltic Dry Index (BDI) rose for a second session, up 15 points (0.52%) to 2,878 as gains in Capesize freight outweighed weakness in Panamax rates. The Capesize index (BCI) climbed 52 points (1.2%) to 4,590; Capesize daily earnings rose $470 to $38,122. The Panamax index (BPI) fell 22 points (1%) to 2,206, its lowest since Aug. 4; Panamax daily earnings dropped $202 to $19,853. Supramax (BSI) added 6 points (0.4%) to 1,628, a high since July 28. Handysize (BHSI) slipped 2 points to 864.
-
----
-
-### 2026-08-17 22:06:48  #國際
-
-市場訊息：媒體表示用管道替代霍爾木茲海峽的方案可行性不大。 伊拉克‑敘利亞石油通道專案至少需要四年工期以及 150 億美元資金，而伊拉克資金短缺，且專案週期漫長。
-
----
-
-### 2026-08-17 22:06:30  #MKT News
-
-Glencore invested in Radiant World via a warrant transaction maturing end‑2025; Glencore has not exercised those warrants.
-
----
-
-### 2026-08-17 22:05:46  #Trading Economics #Economy #United States #Nahb Housing Market Index #Importance 1
-
-US Homebuilder Sentiment Recovers in August — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, inched up to 25 in August of 2026 from 34 in the previous month. The result contrasted with expectations that it would ease to 33. Current sales conditions rose by two points from the previous month to 39, while sales expectations over the next six months were unchanged at 43. Despite this, 35% of builders were forced to cut prices in August, down two percentage points from July. Among those, the average price reduction was 6%.
-
----
-
-### 2026-08-17 22:05:43  #公司
-
-嘉能可在 2025 年末透過認股權證交易支援 Radiant World 公司。
-
----
-
-### 2026-08-17 22:05:03  #公司
-
-汽車製造商斯泰蘭蒂斯表示，因無線電軟體可能導致倒車攝像頭無法顯示影像，該公司將召回95.5萬輛汽車。
-
----
-
-### 2026-08-17 22:04:23  #MKT News
-
-Iran's supreme leader said he will remain vigilant and actively safeguard Iran's interests.
-
----
-
-### 2026-08-17 22:01:59  #經濟數據 #美國
-
-美國8月份NAHB住宅建築商指數升至35；預估33。
-
----
-
-### 2026-08-17 22:01:47  #公司 #市場 #觀點
-
-【摩根士丹利給予亞馬遜 500 美元目標價】摩根士丹利表示，若亞馬遜雲科技增長提速，亞馬遜股價到 2027 年末有望觸及 500 美元，較當前水平近乎翻倍。該樂觀情景的前提是，在人工智慧算力需求與產能擴張的推動下，AWS 最終實現 1 萬億美元年度營收。亞馬遜近期將 2026 年人工智慧支出預期上調至 2200 億美元。摩根士丹利基準情景目標價仍為 335 美元，對應約 28% 的上漲空間。
-
----
-
-### 2026-08-17 22:01:19  #公司
-
-挪威國家石油公司：以9.4億美元從貝萊德旗下GIP手中收購賓夕法尼亞州一座燃氣發電廠的股份。
-
----
-
-### 2026-08-17 22:01:04  #MKT News
-
-【Saudi offers cargoes loaded off Oman coast; may be shifting to transshipment】Saudi Arabia is offering cargoes loaded off the coast of Oman, suggesting it may be following the UAE in routing more oil via transshipment rather than conventional Strait of Hormuz shipments. Sources say Aramco is supplying ship‑to‑ship cargoes loaded at Gulf of Oman ports such as Sohar. The cargoes are Arab Medium and Heavy grades, pointing to Persian Gulf origin. In March Aramco CEO Amin Nasser said the Yanbu pipeline mainly carries Arab Light and Extra Light, while near‑shore Persian Gulf fields supply the kingdom’s medium and heavy barrels. Aramco declined to comment.
-
----
-
-### 2026-08-17 22:01:03  #其他
-
-【閃迪股價漲幅擴大至8.7% 股價創7月14日以來新高】閃迪股價漲幅擴大至8.70%，報1784.159美元/股，股價創7月14日以來新高，總市值報2605億美元。
-
----
-
-### 2026-08-17 22:00:53  #MKT News #Commodities #Energy #EQNR.O
-
-Equinor to buy a stake in a Pennsylvania gas-fired power plant for $940m from GIP, a BlackRock affiliate.
-
----
-
-### 2026-08-17 22:00:12  #國際
-
-美國8月NAHB房產市場指數 35，預期 33，前值 34。
-
----
-
-### 2026-08-17 22:00:07  #MKT News #Important
-
-US NAHB housing market index for August 35, consensus 33, prior 34.
-
----
-
-### 2026-08-17 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34
-
----
-
-### 2026-08-17 21:59:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%.
-
----
-
-### 2026-08-17 21:58:56  #MKT News
-
-Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues.
 
 ---

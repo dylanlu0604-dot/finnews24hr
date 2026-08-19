@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 04:37:11_
-_本檔包含 3144 則快訊，約 626366 字_
+_更新時間：2026-08-20 05:02:02_
+_本檔包含 3137 則快訊，約 625615 字_
+
+---
+
+### 2026-08-20 05:01:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages.
+
+---
+
+### 2026-08-20 05:00:04  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Kyiv mayor says the city is under ballistic missile attack.
+
+---
+
+### 2026-08-20 04:59:42  #國際
+
+基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！
+
+---
+
+### 2026-08-20 04:58:43  #國際
+
+【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）
+
+---
+
+### 2026-08-20 04:57:53  #市場
+
+紐約期銀日內漲5%，現報67.28美元/盎司。
+
+---
+
+### 2026-08-20 04:55:46  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
+
+El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%).
+
+---
+
+### 2026-08-20 04:54:31  #市場 #焦點
+
+紐約期銀突破67美元/盎司，日內漲4.72%。
+
+---
+
+### 2026-08-20 04:54:00  #MKT News #Commodities #Precious Metals
+
+Spot palladium was up as much as 4% intraday at $1,335.58/oz.
+
+---
+
+### 2026-08-20 04:51:44  #焦點 #國際
+
+美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。
+
+---
+
+### 2026-08-20 04:51:13  #市場 #焦點
+
+以太坊升破2200美元，日內漲15.87%。
+
+---
+
+### 2026-08-20 04:50:34  #Trading Economics #Markets #commodity #Importance 0
+
+Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%.
+
+---
+
+### 2026-08-20 04:44:19  #其他
+
+哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。
+
+---
+
+### 2026-08-20 04:43:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%).
+
+---
+
+### 2026-08-20 04:40:45  #宏觀 #公司 #市場 #觀點 #國際
+
+【花旗稱貝森特出手令美元付出代價 建議客戶採用這些策略加以應對】花旗集團認為，美國財政部長斯科特·貝森特為壓低長期借貸成本而採取的最新舉措可能會導致美元在短期內走弱。財政部週三擴大10至30年期國債回購規模的公告導致長債收益率走低並推動美元跌至5月中以來的最低水平。花旗策略師Dirk Willer等人在研報中指出，遏制收益率的努力可能會使美元承受壓力。 “以如此方式降低利率的主要代價就是貨幣走弱，” 他們寫道。花旗建議客戶面對此舉利用美元為押注高收益新興市場貨幣融資，因後者“在當前環境下也應表現不錯”。該行此前青睞用加元和瑞士法郎作為融資貨幣。
 
 ---
 
@@ -18809,145 +18893,5 @@ New Zealand PPI Output Prices Rise More than Expected — Producer output prices
 ### 2026-08-19 06:58:49  #其他
 
 中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。
-
----
-
-### 2026-08-19 06:56:55  #其他
-
-韓媒：美韓聯合軍演日程預計將縮減一半。
-
----
-
-### 2026-08-19 06:56:38  #MKT News #S&P500 #Impact bullish #USDJPY #Impact bearish #XAUUSD
-
-According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved.
-
----
-
-### 2026-08-19 06:55:51  #其他
-
-【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)
-
----
-
-### 2026-08-19 06:50:41  #Trading Economics #Economy #New Zealand #PPI Input #Importance 1
-
-New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%).
-
----
-
-### 2026-08-19 06:47:22  #其他
-
-據燈塔專業版實時資料，截至8月19日1時50分，影片《歡迎來龍餐館》票房突破11億。
-
----
-
-### 2026-08-19 06:47:11  #公司
-
-【熱點城市土拍市場升溫，民營房企重拾拿地信心】 8月18日，海口市長秀片區XY0602061地塊經207輪競價成交，海南發展控股置業集團有限公司以23721.6061萬元競得，溢價率達27.52%。今年以來，國內熱點城市土地市場持續回暖，北上廣深、海口、杭州等城市集中出讓優質地塊，高溢價成交成為常態。伴隨市場修復，房企拿地活躍度穩步提升，行業投資信心出現邊際修復。（中證報）
-
----
-
-### 2026-08-19 06:47:00  #資料 #市場 #央行 #國際
-
-【週三重要財經資訊提醒（以下均為北京時間）】 
-① 07:50 日本6月核心機械訂單；
-② 08:00 韓國新投資者買槓桿ETF須先完成模擬交易（新規實施）；
-③ 時間待定 朱雀三號遙二火箭確定8月19日清晨於酒泉發射，世界機器人大會在北京開幕（8月19日-23日），首爾人工智慧峰會開幕（8月19-21日）；
-④ 09:20 宇樹科技上市；
-⑤ 10:45 澳洲聯儲副主席Andrew Hauser參與一場爐邊閒聊；
-⑥ 14:00 英國7月CPI；
-⑦ 15:10 歐洲央行行長拉加德出席世界經濟論壇國際工商理事會 (IBC) 會議的“全球經濟展望”討論會；
-⑧ 15:20 印尼央行公佈利率決議；
-⑨ 港股收盤之後 快手釋出業績報告；
-⑩ 17:00 歐元區7月CPI終值；
-美股盤前 勞氏百貨、塔吉特等釋出業績報告；
-18:15 歐洲央行行長拉加德講話；
-22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
-次日02:00 美聯儲釋出FOMC會議紀要。
-
----
-
-### 2026-08-19 06:46:27  #MKT News
-
-New Zealand Q2 input PPI YoY 4.1%, previous 1.8%.
-
----
-
-### 2026-08-19 06:46:23  #MKT News
-
-New Zealand Q2 output PPI YoY 3.2%, prior 2.2%.
-
----
-
-### 2026-08-19 06:46:22  #MKT News #Economic Calendar #Important
-
-New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%
-
----
-
-### 2026-08-19 06:46:17  #MKT News #Economic Calendar #Important
-
-New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%
-
----
-
-### 2026-08-19 06:45:07  #MKT News
-
-New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%).
-
----
-
-### 2026-08-19 06:45:07  #MKT News
-
-New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter.
-
----
-
-### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%
-
----
-
-### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%
-
----
-
-### 2026-08-19 06:44:01  #國際
-
-【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。
-
----
-
-### 2026-08-19 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%).
-
----
-
-### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
-
-【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
-
----
-
-### 2026-08-19 06:38:17  #焦點 #國際
-
-【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。
-
----
-
-### 2026-08-19 06:37:45  #其他
-
-【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)
-
----
-
-### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
-
-【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
 
 ---
