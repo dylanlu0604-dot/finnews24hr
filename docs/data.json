@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-20 05:05:59",
+  "updated": "2026-08-20 05:09:55",
   "count": 15668,
   "items": [
+    {
+      "id": "5048639",
+      "time": "2026-08-20 05:07:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。"
+    },
+    {
+      "id": "5048638",
+      "time": "2026-08-20 05:07:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2300美元，日內漲20.00%。"
+    },
     {
       "id": "5048635",
       "time": "2026-08-20 05:05:22",
@@ -143578,22 +143595,6 @@
         "Impact bullish"
       ],
       "text": "U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs."
-    },
-    {
-      "id": "5038142",
-      "time": "2026-08-13 05:08:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱霍爾木茲海峽使用者必須“彌補”海灣環境損害。"
-    },
-    {
-      "id": "5038141",
-      "time": "2026-08-13 05:07:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek V4 Pro正式版API更新：多項測試效能接近Fable 5】8月13日，DeepSeek官方把V4 Pro從預覽版正式轉正。官方定價頁上，模型版本號已經更新為DeepSeek-V4-Pro-0813。從官方群放出的評測對比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多項測試中接近 Fable 5 水平，相比之前的預覽版能力大幅提升。DeepSeek V4 Pro價格明顯高於V4-Flash。按每1M token計算，快取命中輸入0.025元，快取未命中輸入3元，輸出6元。相比之下，V4-Flash分別為0.02元、1元和2元。"
     }
   ]
 }
