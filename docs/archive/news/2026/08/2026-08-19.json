@@ -1,7 +1,153 @@
 {
   "date": "2026-08-19",
-  "count": 609,
+  "count": 625,
   "items": [
+    {
+      "id": "5046744",
+      "time": "2026-08-19 09:26:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【雙英集團上市首日開盤大漲超87%】雙英集團上市首日開盤漲87.6%，現報20.88元，該股發行價為11.13元。"
+    },
+    {
+      "id": "5046743",
+      "time": "2026-08-19 09:26:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技高開629% 總市值達4449億】宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。"
+    },
+    {
+      "id": "mkt:01a0179f-d255-7aab-9085-362d8ce91d3f",
+      "time": "2026-08-19 09:25:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yushu Technology IPO: 8,000x retail demand; offshore pricing ~176% above issue】Yushu Technology debuted on Shanghai’s STAR Market today at an issue price of 150.8 yuan, implying a post-issue market value of about 61 billion yuan. Based on 2025 estimates the IPO implies roughly 219x P/E and 36x P/S. Retail subscriptions exceeded 8,000x. Pre-listing offshore private trading priced the stock about 176% above the issue price, with derivatives priced even more aggressively, indicating initial trading is focused on the scarcity value of a leading humanoid-robot name. Refinitiv also noted large-scale replacement by humanoid robots remains constrained by cost and reliability: to achieve a two-year payback total cost would need to fall to roughly 160,000 yuan, while current prices are typically 300,000–500,000 yuan; 50–70% of humanoid robots this year may be deployed for training data collection rather than direct production value."
+    },
+    {
+      "id": "5046742",
+      "time": "2026-08-19 09:25:35",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.96％，深成指跌2.09％，創業板跌2.7％。"
+    },
+    {
+      "id": "5046741",
+      "time": "2026-08-19 09:25:29",
+      "tags": [],
+      "text": "N宇樹上市首日開漲629.44％，股價現報1100元，發行價為150.80元/股。"
+    },
+    {
+      "id": "5046740",
+      "time": "2026-08-19 09:25:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "N宇樹上市首日開漲629.44%，股價現報1100元，發行價為150.80元/股。"
+    },
+    {
+      "id": "mkt:01a0179f-85e1-7aab-9085-2e0d64588581",
+      "time": "2026-08-19 09:25:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share market opened: Shanghai Composite down 0.96%, Shenzhen Composite Index down 2.09%, ChiNext Index down 2.70%. N Yushu surged 629.44% on its debut; stock at 1,100 yuan, IPO price 150.80 yuan per share."
+    },
+    {
+      "id": "mkt:01a0179f-79b2-7aab-9085-208dae8092af",
+      "time": "2026-08-19 09:25:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pentagon says US training objectives will not be affected."
+    },
+    {
+      "id": "mkt:01a0179f-5b59-7aab-9085-1f7d765b07cd",
+      "time": "2026-08-19 09:25:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said South Korean and U.S. officials were previously unaware that the joint military exercises would be scaled back."
+    },
+    {
+      "id": "mkt:01a0179f-2fbe-7aab-9085-131c2bdb2bc6",
+      "time": "2026-08-19 09:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON says adjustments to joint exercises with South Korea aim to maintain readiness and training objectives."
+    },
+    {
+      "id": "mkt:01a0179e-d956-7aab-9085-0af18cf6b5c6",
+      "time": "2026-08-19 09:24:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China fuel oil front-month contract rose 6.00% intraday to 4,281 yuan/ton."
+    },
+    {
+      "id": "5046739",
+      "time": "2026-08-19 09:24:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部長：韓美官員此前對縮減聯合軍事演習一事毫不知情。"
+    },
+    {
+      "id": "5046738",
+      "time": "2026-08-19 09:24:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部官員：調整美韓聯合演習可保持戰備狀態與訓練目標。"
+    },
+    {
+      "id": "5046737",
+      "time": "2026-08-19 09:24:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "小米港股開盤漲3%，其第二季度智慧手機銷量超預期。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608193845439194",
+      "time": "2026-08-19 09:23:58",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:01a0179e-0bfb-7aab-9085-06360fcf656a",
+      "time": "2026-08-19 09:23:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI startup Temporal could be valued at at least $12 billion】Temporal is in talks for a new financing round of about $500m that would more than double its February valuation to at least $12bn. The round has not closed and terms remain subject to change."
+    },
     {
       "id": "mkt:01a0179c-e96d-7aab-9084-fdecf4652b50",
       "time": "2026-08-19 09:22:34",
