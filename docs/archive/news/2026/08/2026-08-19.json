@@ -1,7 +1,51 @@
 {
   "date": "2026-08-19",
-  "count": 1131,
+  "count": 1135,
   "items": [
+    {
+      "id": "mkt:01a0188b-f802-7aab-908a-79aa236aea57",
+      "time": "2026-08-19 13:43:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Goldman Sachs desk head: AI capex may top $1trn, crowding out non-AI economy】Goldman Sachs Delta-One desk head Rich Privorotsky warned global capital is being heavily absorbed by government financing and AI infrastructure investment. He expects annual AI capex could exceed $1 trillion and become increasingly debt-financed. With major economies still running large fiscal deficits, public spending and AI are drawing on the same capital pool, a squeeze already transmitting to the non-AI economy. Governments typically lack incentives to cut spending, so higher real rates may force more adjustment onto the private sector. Privorotsky cites large-cap re-rating as evidence—stock price action has lagged what EPS revisions alone would explain. On demand, he says fiscal stimulus was largely front-loaded, tariff-driven inventory rebuilds are mostly complete and some demand was pulled forward. As more funds flow to data centres and AI infrastructure, financing, investment and valuations in non-AI sectors could remain under pressure and market dispersion widen."
+    },
+    {
+      "id": "5047066",
+      "time": "2026-08-19 13:43:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京能清潔能源等成立新公司，含合同能源管理業務】企查查APP顯示，近日，北京市平谷區馬昌營清潔能源有限公司成立，經營範圍包含：儲能技術服務；合同能源管理；熱力生產和供應；資訊科技諮詢服務；光伏裝置及元器件製造等。企查查股權穿透顯示，該公司由京能清潔能源等共同持股。"
+    },
+    {
+      "id": "mkt:01a0188b-8acb-7aab-908a-71913eae69ef",
+      "time": "2026-08-19 13:43:13",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【MIIT vice minister Xin Guobin: 1H robot industry revenue 165.5 bln yuan, +24.5% YoY; 2025 above 300 bln yuan】At the World Robot Conference opening, MIIT vice minister Xin Guobin said 2025 revenue for China’s robot industry enterprises above designated size exceeded 300 bln yuan, with a five‑year CAGR above 20%. 1H revenue reached 165.5 bln yuan, up 24.5% YoY. The ministry will target agriculture, medical, elderly care and emergency response, organizing industry‑user pairing, field application trials and promotion of mature scenarios to drive large‑scale deployment and accelerate iteration of new technologies and products."
+    },
+    {
+      "id": "5047065",
+      "time": "2026-08-19 13:43:05",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【AI需求推動，韓國上市公司上半年合併營業利潤同比飆升近350%】週三公佈的資料顯示，今年上半年，韓國上市企業實現了創紀錄的盈利，主要受全球對人工智慧所用半導體的旺盛需求拉動。 根據韓國交易所釋出的資料，在1月至6月期間，韓國綜合股價指數（KOSPI）成分股上市公司720家企業的合併營業利潤同比增長348.5%，達到275萬億韓元（約合1952億美元）。其合併營收同比增長34.5%，達1070萬億韓元，淨利潤則飆升330%，達到2915萬億韓元。"
+    },
     {
       "id": "5047064",
       "time": "2026-08-19 13:41:34",
