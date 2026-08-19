@@ -1,7 +1,38 @@
 {
   "date": "2026-08-20",
-  "count": 122,
+  "count": 125,
   "items": [
+    {
+      "id": "mkt:01a01b13-08ec-7aab-909e-a122cae6113e",
+      "time": "2026-08-20 01:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SLB.N",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Schlumberger (SLB.N) top executive said the company expects to recommission up to 15 oil rigs currently in Venezuela within less than a year."
+    },
+    {
+      "id": "5048458",
+      "time": "2026-08-20 01:29:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "德意志銀行將芝商所集團目標股價從每股286美元下調至270美元，將芝商所集團評級從買入下調至持有。"
+    },
+    {
+      "id": "5048457",
+      "time": "2026-08-20 01:28:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "Stripe收購OpenRouter的交易對價超過80億美元，大部分以股份支付。"
+    },
     {
       "id": "mkt:01a01b0f-fc2a-7aab-909e-986ce85d8985",
       "time": "2026-08-20 01:27:07",

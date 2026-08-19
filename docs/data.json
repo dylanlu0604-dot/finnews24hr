@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-20 01:28:47",
-  "count": 15550,
+  "updated": "2026-08-20 01:32:42",
+  "count": 15552,
   "items": [
+    {
+      "id": "mkt:01a01b13-08ec-7aab-909e-a122cae6113e",
+      "time": "2026-08-20 01:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SLB.N",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Schlumberger (SLB.N) top executive said the company expects to recommission up to 15 oil rigs currently in Venezuela within less than a year."
+    },
+    {
+      "id": "5048458",
+      "time": "2026-08-20 01:29:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "德意志銀行將芝商所集團目標股價從每股286美元下調至270美元，將芝商所集團評級從買入下調至持有。"
+    },
+    {
+      "id": "5048457",
+      "time": "2026-08-20 01:28:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "Stripe收購OpenRouter的交易對價超過80億美元，大部分以股份支付。"
+    },
     {
       "id": "mkt:01a01b0f-fc2a-7aab-909e-986ce85d8985",
       "time": "2026-08-20 01:27:07",
@@ -142245,15 +142276,6 @@
         "公司"
       ],
       "text": "市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。"
-    },
-    {
-      "id": "5038062",
-      "time": "2026-08-13 01:32:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行：7 月美元資金淨流入規模達 19.38 億美元。"
     }
   ]
 }
