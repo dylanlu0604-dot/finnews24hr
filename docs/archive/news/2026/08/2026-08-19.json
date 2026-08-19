@@ -1,7 +1,533 @@
 {
   "date": "2026-08-19",
-  "count": 1543,
+  "count": 1596,
   "items": [
+    {
+      "id": "5047328",
+      "time": "2026-08-19 16:06:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【白雲山：子公司獲胞磷膽鹼鈉注射液補充申請批准通知書】白雲山公告，公司控股子公司天心製藥近日收到國家藥品監督管理局核准簽發的胞磷膽鹼鈉注射液（2ml:0.25g、4ml:0.5g）《藥品補充申請批准通知書》。該藥品透過仿製藥質量和療效一致性評價，同時獲批增加4ml:0.5g規格。2025年該藥品在國內公立醫院及網上藥店的銷售額為8031萬元，天心製藥2025年該藥品銷售收入為165.04萬元。"
+    },
+    {
+      "id": "mkt:01a0190f-111a-7aab-908f-df7ea13f43a0",
+      "time": "2026-08-19 16:06:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Asian FX index rose to its highest level since March on expectations of a dovish Fed stance."
+    },
+    {
+      "id": "mkt:01a0190f-067d-7aab-908f-d288bb53b760",
+      "time": "2026-08-19 16:06:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "S&P: SK Hynix's positive rating outlook reflects a high probability of substantial expansion in the memory industry's scale and profitability."
+    },
+    {
+      "id": "5047327",
+      "time": "2026-08-19 16:06:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【崧盛股份：擬出售參股公司6.25%股權 作價2406.25萬元】崧盛股份公告稱，公司擬以2406.25萬元的價格，將持有的參股公司重慶精剛傳動科技有限公司6.25%股權轉讓給浙江五洲新春集團股份有限公司。本次交易完成後，公司將不再持有重慶精剛傳動股權，不會導致公司合併報表範圍變更。本次交易不構成關聯交易，也不構成重大資產重組，無需提交公司股東會審議。"
+    },
+    {
+      "id": "5047326",
+      "time": "2026-08-19 16:06:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "受美聯儲鴿派立場預期提振，亞洲外匯指數升至3月以來最高水平。"
+    },
+    {
+      "id": "mkt:01a0190d-e9cf-7aab-908f-c9492a75936d",
+      "time": "2026-08-19 16:05:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "S&P says the likelihood of lower volatility in the memory chip market has increased and that long-term contracts will generate material revenue."
+    },
+    {
+      "id": "mkt:01a0190d-d3c3-7aab-908f-c4b5b0f98978",
+      "time": "2026-08-19 16:05:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME copper on-warrant stocks rose 35,650 tonnes, the largest increase so far in 2024."
+    },
+    {
+      "id": "mkt:01a0190d-956c-7aab-908f-bf9cb0cfd9d0",
+      "time": "2026-08-19 16:05:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【CPCA: Aug 1-16 China passenger NEV retail 399,000, -15% YoY】CPCA data: Aug 1-16 China passenger car retail 628,000, down 22% YoY and flat vs Jul 1-16; YTD retail 10.801 mln, down 20% YoY. Manufacturers' wholesale 583,000, down 25% YoY and down 1% vs Jul 1-16; YTD wholesale 15.393 mln, down 6% YoY. NEV retail 399,000, down 15% YoY and up 1% vs Jul 1-16; YTD NEV retail 6.067 mln, down 13% YoY. NEV wholesale 425,000, down 3% YoY and up 6% vs Jul 1-16; YTD NEV wholesale 8.673 mln, up 7% YoY. NEV retail penetration 63.6%; NEV wholesale penetration 72.9%."
+    },
+    {
+      "id": "te:markets:576414",
+      "time": "2026-08-19 16:05:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 1.21% — Top commodity losers are Lithium Carbonate (-1.21%) and Copper (-0.74%). Gains are led by Silicon (1.04%) and Gold (0.51%)."
+    },
+    {
+      "id": "mkt:01a0190d-7f17-7aab-908f-b51be15069de",
+      "time": "2026-08-19 16:05:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "S&P upgraded South Korea's SK Hynix to \"A-\" with a positive outlook, citing strong AI-driven business."
+    },
+    {
+      "id": "5047325",
+      "time": "2026-08-19 16:05:03",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：8月1-16日全國乘用車新能源市場零售39.9萬輛，同比下降15%】乘聯分會資料顯示，8月1-16日，全國乘用車市場零售62.8萬輛，同比去年8月同期下降22%，較上月同期增長0%，今年以來累計零售1,080.1萬輛，同比下降20%；8月1-16日,全國乘用車廠商批發58.3萬輛，同比去年8月同期下降25%，較上月同期下降1%，今年以來累計批發1,539.3萬輛，同比下降6%。8月1-16日，全國乘用車新能源市場零售39.9萬輛，同比去年8月同期下降15%，較上月同期增長1%，今年以來累計零售606.7萬輛，同比下降13%；8月1-16日，全國乘用車廠商新能源批發42.5萬輛，同比去年同期下降3%，較上月同期增長6%，今年以來累計批發867.3萬輛，同比去年同期增長7%。8月1-16日，全國乘用車市場新能源零售滲透率63.6%；8月1-16日，全國乘用車廠商新能源批發滲透率72.9%。"
+    },
+    {
+      "id": "5047324",
+      "time": "2026-08-19 16:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：SK海力士正面評級展望反映出我們認為儲存行業規模與盈利能力大幅擴張的可能性很高，行業波動性也有可能降低。"
+    },
+    {
+      "id": "5047323",
+      "time": "2026-08-19 16:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嚴查違規設立分支機構，民政部通報5起社會團體違法典型案例】其中包括，中華人民共和國國史學會違反規定設立分支機構、代表機構案；北京宜春企業商會違反規定設立分支機構案；山西省晉綏邊區歷史文化研究會超出業務範圍開展活動、不按照規定辦理變更登記、違反規定設立分支機構案；項城防水協會違反規定設立分支機構案；河北省民營經濟發展促進會對代表機構疏於管理案。"
+    },
+    {
+      "id": "5047322",
+      "time": "2026-08-19 16:03:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "倫敦金屬交易所（LME）銅合約庫存增加35650噸，創2024年以來新高。"
+    },
+    {
+      "id": "mkt:01a0190b-7da2-7aab-908f-aeba553f7b6d",
+      "time": "2026-08-19 16:02:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Eurozone bond yields edge lower, stabilizing after Tuesday sell-off】Eurozone government bond yields edged lower, tracking US Treasuries as global markets stabilized after Tuesday’s sell-off. Final July inflation data remain pending, limiting near-term data-driven moves. RBC Capital Markets said detail on July inflation drivers should prove relatively muted and expects preliminary readings to be confirmed. Germany will auction €6bn of 2036 bunds in August; Finland plans a new seven-year issue as scheduled. The 10-year German bund yield was down 0.2bp intraday at 3.253%, after hitting 3.272% on Tuesday."
+    },
+    {
+      "id": "te:markets:576412",
+      "time": "2026-08-19 16:02:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Rises for 4th Session — Brent crude climbed toward $92 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week."
+    },
+    {
+      "id": "5047321",
+      "time": "2026-08-19 16:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：儲存晶片市場波動性下降的可能性正在上升，長期協議將帶來可觀收入。"
+    },
+    {
+      "id": "5047320",
+      "time": "2026-08-19 16:02:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代汽車公司：（與殼牌）雙方已就強化未來出行領域合作、聯合研發、服務營銷及賽車業務達成協議。"
+    },
+    {
+      "id": "5047319",
+      "time": "2026-08-19 16:02:31",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "標普：AI驅動運營實力強勁，海力士信用評級上調至A-，評級展望為正面。"
+    },
+    {
+      "id": "5047318",
+      "time": "2026-08-19 16:02:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，唯品會漲2%】美股中概股盤前漲跌互現，唯品會漲2%，嗶哩嗶哩漲1%，攜程漲0.9%，百濟神州漲0.8%，百度漲0.4%，京東跌0.4%，阿里巴巴跌0.7%，蔚來跌1%。"
+    },
+    {
+      "id": "5047317",
+      "time": "2026-08-19 16:02:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙文互聯：董事長尤匡領因工作調動離任】浙文互聯公告稱，公司董事會近日收到尤匡領的書面辭職報告，因組織安排工作調動，尤匡領申請辭去公司董事、董事長、法定代表人、董事會審計委員會委員、董事會戰略委員會召集人職務，離任後不在公司及控股子公司擔任任何職務。辭職報告自送達董事會之日起生效，其辭職不會影響公司相關工作正常開展。截至公告披露日，尤匡領未持有公司股份，不存在未履行完畢的公開承諾。公司將盡快完成新任董事補選、新任董事長選舉及後續相關工作。"
+    },
+    {
+      "id": "5047316",
+      "time": "2026-08-19 16:02:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方光電：2026年上半年淨利潤8049.69萬元，同比下降4.31%】四方光電公告，2026年上半年營業收入5.42億元，同比增長6.72%。歸屬於上市公司股東的淨利潤8049.69萬元，同比下降4.31%。歸屬於上市公司股東的扣除非經常性損益的淨利潤7596.13萬元，同比下降0.78%。上年同期淨利潤8412.38萬元。"
+    },
+    {
+      "id": "5047315",
+      "time": "2026-08-19 16:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車與殼牌續簽五年期全球業務合作協議。"
+    },
+    {
+      "id": "5047314",
+      "time": "2026-08-19 16:01:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【跨境人口販賣17人被提起公訴】近日，上海市人民檢察院第二分院經依法審查，對盤踞緬甸妙瓦底地區，以出賣人口為目的，以出國務工為誘餌，誘騙中國境內公民王某等被害人至境外，依託武裝人員強行押送至緬甸妙瓦底地區，並對眾多被害人實施搶劫、毆打、非法拘禁，對其中部分女性被害人實施姦淫和強迫賣淫，並轉賣至緬甸電詐園區從事電詐活動的跨境人口販賣集團成員王某軍、張某飛、毋某龍等17人，根據《中華人民共和國刑法》《中華人民共和國刑事訴訟法》等相關規定，以涉嫌拐賣婦女罪、非法拘禁罪、搶劫罪、綁架罪等向上海市第二中級人民法院提起公訴。"
+    },
+    {
+      "id": "te:markets:576411",
+      "time": "2026-08-19 16:01:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hong Kong Exchanges earnings above expectations at 4.26 HKD — Hong Kong Exchanges (388) released earnings per share at 4.26 HKD, compared to market expectations of 3.60 HKD."
+    },
+    {
+      "id": "5047313",
+      "time": "2026-08-19 16:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：促進人工智慧、元宇宙、具身智慧等優勢賽道應用創新、聯動發展】上海市人民政府辦公廳關於印發《上海市“數字上海”建設“十五五”規劃》的通知。其中指出， 落實國家數字經濟創新發展試驗區（上海）各項改革任務，在制度探索、場景開發開放、資料合作機制、法規機制保障等方面攻堅突破。加快構建安全可靠、系統完備的數字化技術創新體系。鼓勵企業牽頭組建創新聯合體，打通產學研用融合創新堵點。做強模速空間、模力社群等功能載體，促進人工智慧、元宇宙、具身智慧等優勢賽道應用創新、聯動發展。開展第三代網際網路（Web3.0）創新試驗場機制研究。加快落實國家資料產業集聚區試點建設任務，推動區域資料產業創新發展。"
+    },
+    {
+      "id": "mkt:01a0190a-61dc-7aab-908f-a6d3c98191a8",
+      "time": "2026-08-19 16:01:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) U.S. premarket shares rose more than 6% after the company formally approved a ₩40 trillion share buyback."
+    },
+    {
+      "id": "5047312",
+      "time": "2026-08-19 16:01:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股盤前，儲存晶片股普漲，SK海力士漲約6%，公司擬回購登出40萬億韓元股份、承諾將至少50%現金流回饋股東。閃迪漲約2%，西部資料漲約2%，美光科技漲約2%，希捷科技漲約1%。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608193846247433",
+      "time": "2026-08-19 16:01:05",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區6月季調後經常帳351億歐元，前值251億歐元。"
+    },
+    {
+      "id": "mkt:01a01909-9ffb-7aab-908f-9f25a252157e",
+      "time": "2026-08-19 16:00:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME inventories: zinc +8,525 t, lead +9,575 t, copper +12,425 t, nickel +78 t, tin +260 t; aluminium unchanged."
+    },
+    {
+      "id": "5047310",
+      "time": "2026-08-19 16:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋅庫存增加8525噸，鉛庫存增加9575噸，銅庫存增加12425噸，鎳庫存增加78噸，錫庫存增加260噸，鋁庫存持平。"
+    },
+    {
+      "id": "mkt:01a01909-80b0-7aab-908f-907f2f170029",
+      "time": "2026-08-19 16:00:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 E-mini futures up 0.06%, Nasdaq-100 futures up 0.04%, Dow futures up 0.08%."
+    },
+    {
+      "id": "mkt:01a01909-764e-7aab-908f-8bf8d3f8ba44",
+      "time": "2026-08-19 16:00:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "The Central Bank of the Republic of Turkey (CBRT) offered a one-week gold-for-lira sell-side swap auction via the conventional method for 8 tonnes."
+    },
+    {
+      "id": "mkt:01a01909-629c-7aab-908f-820bb576df03",
+      "time": "2026-08-19 16:00:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Massachusetts man jailed 6 years for plot to assassinate Treasury secretary Bessent】A 26-year-old Massachusetts resident was sentenced on the 18th to six years and one month in prison after pleading guilty in March to two weapons charges, the Justice Department said. Prosecutors say he appeared at the U.S. Capitol on Jan. 27, 2025 carrying a folding knife, two homemade incendiary devices and a lighter and told officers he \"wanted to turn himself in.\" The visit coincided with the Senate confirmation vote on Bessent's nomination; AP reported Bessent was not at the Capitol when he arrived."
+    },
+    {
+      "id": "mkt:01a01909-6179-7aab-908f-7df3ae590835",
+      "time": "2026-08-19 16:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone non-seasonally adjusted current account for June: surplus EUR 46.9 bln; previous -EUR 6.2 bln."
+    },
+    {
+      "id": "5047309",
+      "time": "2026-08-19 16:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海市監局公佈一批兒童和學生用品質量違法案例，涉衣服、玩具、腳踏車等】其中包括閔行區市場監督管理局查處上海樂扣樂扣貿易有限公司生產不符合保障人體健康和人身、財產安全的標準和要求的蘑菇咬膠案；金山區市場監督管理局查處上海雲兮商貿有限公司生產不符合保障人體健康和人身、財產安全的國家標準的女童衛衣案；普陀區市場監督管理局查處上海普陀寶大祥青少年兒童購物有限公司銷售不符合保障人體健康和人身、財產安全國家標準的牛仔揹帶褲套案；楊浦區市場監督管理局查處上海遠欣貿易有限公司國和路分公司銷售不符合保障人體健康和人身、財產安全國家標準的兒童玩具案；寶山區市場監督管理局查處上海永久腳踏車有限公司生產不符合保障人體健康和人身、財產安全國家標準的兒童腳踏車案。"
+    },
+    {
+      "id": "mkt:01a01909-5231-7aab-908f-742fb7afd0c7",
+      "time": "2026-08-19 16:00:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Euro-area seasonally adjusted current account surplus EUR 35.1 bln in June, up from EUR 25.1 bln previously."
+    },
+    {
+      "id": "mkt:01a01909-2f98-7aab-908f-6d17b610cb93",
+      "time": "2026-08-19 16:00:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account USA (Jun) | actual 46900000000B | previous -6200000000B"
+    },
+    {
+      "id": "mkt:01a01909-1499-7aab-908f-62235f76a4d4",
+      "time": "2026-08-19 16:00:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account SA (Jun) | actual 35100000000B | previous 25100000000B"
+    },
+    {
+      "id": "mkt:01a01909-08c4-7aab-908f-5facc0d4cf1b",
+      "time": "2026-08-19 16:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai to expand 'negative list + operational guidelines' model for cross-border data exports across more industries】Shanghai municipal government office issued the Digital Shanghai 15th Five-Year Plan, calling to optimize cross-border data flow mechanisms and extend the 'negative list + operational guidelines' model to more industries for data exports. The plan proposes exploring interregional personal information transfer standards, building rule‑mutual‑recognition 'aggregate‑to‑aggregate' cross-border data transfer service facilities to scale standardized compliance services, accelerating service‑center deployment, strengthening policy consulting and preliminary verification of negative‑list materials, and advancing multilateral and bilateral pilot projects to facilitate cross-border data cooperation."
+    },
+    {
+      "id": "te:markets:576408",
+      "time": "2026-08-19 16:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Gains by 0.87% — Top commodity gainers are Heating Oil (0.87%), Crude Oil WTI (0.70%) and Brent Crude Oil (0.70%). Biggest losers are Natural Gas EU (-0.58%) and Natural Gas UK (-0.54%)."
+    },
+    {
+      "id": "5047308",
+      "time": "2026-08-19 16:00:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：深化滬港在數字身份和電子簽名互認方面的合作，拓展兩地政務服務對接功能】上海市人民政府辦公廳關於印發《上海市“數字上海”建設“十五五”規劃》的通知。其中指出， 深化滬港在數字身份和電子簽名互認方面的合作，拓展兩地政務服務對接功能，探索出入境證件辦理、文化旅遊、交通出行、登記註冊等場景應用。依託長三角資料專題合作機制，聚焦規則、資料、產業、服務、應用，創新區域一體化實踐。推進與福建三明、安徽六安、遼寧大連等對口合作協作城市在數字經濟、城市治理等領域合作。加強與新疆、雲南、西藏、青海等對口支援地區的數字協作。"
+    },
+    {
+      "id": "mkt:01a01908-b468-7aab-908f-553de427cc32",
+      "time": "2026-08-19 15:59:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai to deepen infrastructure, expand computing capacity】The Shanghai municipal government office issued the Digital Shanghai \"15th Five\" plan, directing deeper infrastructure build-out and expansion of computing capacity. The plan mandates strengthening privacy-preserving computing hardware, general-purpose compute and supporting storage, and improving cybersecurity and test/validation networks to enable on-chain business scale-up. It calls for coordinated construction of customs, tax and other ministries’ trusted data service centers, including overseas trusted data centers. The plan also requires common-platform capabilities for data resource access, use, management and security to support data-chain integration, plus a cloud‑chain integrated operations, maintenance, resource, disaster-recovery and scheduling/command management system. A distributed node management console will be built to enable simplified cross‑cloud, cross‑domain node deployment and access."
+    },
+    {
+      "id": "5047307",
+      "time": "2026-08-19 15:59:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：最佳化迭代新一代超異構融合晶片，滿足高併發計算需求】上海市人民政府辦公廳印發《上海市“數字上海”建設“十五五”規劃》。其中提出，推動國家區塊鏈網路上海樞紐提檔升級，強化隱私計算、聯邦學習、分散式數字身份等安全可信基礎支撐，健全標準化供給、靈活化適配的共性服務體系，建強跨境跨鏈基礎設施，構築技術先進、能級領先的區塊鏈賦能底座。完善鏈上安全監管能力體系。最佳化迭代新一代超異構融合晶片，滿足高併發計算需求。"
+    },
+    {
+      "id": "te:markets:576406",
+      "time": "2026-08-19 15:59:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls for 2nd Day — The FTSE MIB fell 0.2% to below 53,000 in early trading on Wednesday, extending losses from the previous session, as elevated global bond yields and higher oil prices continue to weigh on risk appetite. The index remained under pressure as long-term government bond yields climbed to fresh highs. Tensions in the Middle East has added to market concerns, raising the risk of prolonged energy-supply disruptions that could push inflation higher. Shares of STMicroelectronics dropped further, falling 1.2%, as tech stocks remained particularly vulnerable to rising yields. Prysmian dropped 1.1%, while banks also traded lower, with UniCredit down 1.0%, BPER Banca 0.8%, and FinecoBank 1.5%."
+    },
+    {
+      "id": "5047306",
+      "time": "2026-08-19 15:59:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市“數字上海”建設“十五五”規劃》：構建“通用+智慧+超算”三位一體的算力服務體系】上海市人民政府辦公廳印發《上海市“數字上海”建設“十五五”規劃》。其中指出，構建“通用+智慧+超算”三位一體的算力服務體系，推動雲、網、邊、端算力協同。打造整合公共服務、資源排程、能耗監測等功能的一體化算力服務樞紐平臺。持續推進浦東、金山、松江、青浦、臨港等區域智算中心建設。促進算力綠色化發展，推廣液冷技術與“源網荷儲”能源管理模式，新建智算中心綠電佔比達80%以上。深化長三角算力協同，推動建設全國一體化算力網國家樞紐節點（長三角）算力公共服務平臺和長三角（上海）算力互聯互通平臺。"
+    },
+    {
+      "id": "mkt:01a01908-4b27-7aab-908f-4996417ae334",
+      "time": "2026-08-19 15:59:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Shanghai to optimize and iterate next-generation ultra-heterogeneous converged chips to meet high-concurrency computing needs】Shanghai municipal government office issued the 'Digital Shanghai' 15th Five-Year Plan, directing an upgrade of the national blockchain network Shanghai hub and stronger support for privacy computing, federated learning and distributed digital identity. The plan calls for standardized, flexibly adaptable common services, reinforced cross-border and cross-chain infrastructure, and improved on-chain security regulatory capacity. It also mandates optimization and iteration of next-generation ultra-heterogeneous converged chips to meet high-concurrency computing demand."
+    },
+    {
+      "id": "5047305",
+      "time": "2026-08-19 15:59:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶地礦業：控股子公司備戰礦業因推進採選工程專案建設臨時停產】寶地礦業公告，公司控股子公司備戰礦業為推進1000萬噸/年採選工程專案建設，已取得采礦許可證，目前正推進安全設施設計審查，庫存礦石已加工完畢，經審慎研究決定臨時停產。公司將爭取早日透過審查並及時復產。"
+    },
+    {
+      "id": "5047304",
+      "time": "2026-08-19 15:59:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三安光電：公司生產的砷化鎵多結太陽能電池已應用於商用衛星電源等領域】三安光電8月19日在互動平臺表示，公司生產的砷化鎵多結太陽能電池已應用於商用衛星電源等領域，公司技術國際領先，已供應多家國內外客戶。"
+    },
+    {
+      "id": "mkt:01a01908-01b1-7aab-908f-464cad5bf3e9",
+      "time": "2026-08-19 15:59:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Shanghai issues \"Digital Shanghai\" construction 15th Five-Year Plan】Shanghai municipal government office published the \"Digital Shanghai\" construction 15th Five-Year Plan, targeting leapfrog development by 2030 with priorities on international connectivity, data monetization and intelligent applications. The plan aims to strengthen digital infrastructure and governance to boost economic and administrative capacity, drive deep changes in production methods and a productivity “leap,” and establish Shanghai as a regional digital benchmark. Commitments include upgrading the city’s digital base, advancing a blockchain development system, consolidating core infrastructure, accelerating digitalisation of maritime trade, and extending applications across all industry sectors. The plan also calls for expanded international data cooperation and secure, convenient cross‑border data infrastructure, diversified digital service platforms, and data‑ and AI‑led new growth drivers with deeper innovation in data use and tighter digital‑real economy integration."
+    },
+    {
+      "id": "te:markets:576405",
+      "time": "2026-08-19 15:59:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Trades Cautiously After Inflation — The FTSE 100 traded around the flatline on Wednesday as gains in commodity-related stocks were offset by weakness in banking shares. Lenders came under pressure as investors slightly reduced expectations for a Bank of England rate hike later this year. UK inflation accelerated to 2.9% year-on-year in July from 2.6% in June, in line with market expectations, although traders viewed the increase as largely anticipated due to higher energy costs. The data prompted a modest reduction in rate-hike bets. Smith & Nephew was among the biggest individual fallers, declining as much as 3.7% after CFO John Rogers announced his resignation to take up a position in the US. Meanwhile, energy and mining stocks provided support. BP gained around 1%, while Shell rose 0.6%. Anglo American and Rio Tinto added approximately 0.7% each, and Glencore advanced 0.5%."
+    },
+    {
+      "id": "5047303",
+      "time": "2026-08-19 15:58:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【意圖刺殺美財長 美一公民獲刑6年】美國馬薩諸塞州一名26歲居民被控攜帶自制燃燒彈前往國會大廈意圖刺殺財政部長貝森特，18日被判處6年零1個月監禁。美國司法部在一份宣告中說，被告英格利希於今年3月對兩項武器犯罪指控認罪。2025年1月27日，英格利希攜帶一把摺疊刀、兩枚自制燃燒彈和一個打火機出現在國會大廈，並向執勤警察表示“想自首”。據悉，當天正值美國國會參議院對貝森特提名財政部長進行確認投票，當英格利希抵達國會大廈時，貝森特並不在。英格利希雖然向警方承認此行目的就是刺殺貝森特，但自稱因濫用藥物精神異常，當時正處精神健康危機之中。（央視新聞）"
+    },
+    {
+      "id": "5047302",
+      "time": "2026-08-19 15:58:25",
+      "tags": [
+        "宏觀",
+        "其他"
+      ],
+      "text": "【《上海市“數字上海”建設“十五五”規劃》印發】上海市人民政府辦公廳印發《上海市“數字上海”建設“十五五”規劃》，到2030年，“數字上海”建設實現跨越式發展，“連結國際化、資料價值化、應用智慧化”成效凸顯，賦能經濟社會發展和治理能力提升，促進生產方式深層次變革和生產力革命性躍遷，全面建成區域帶動、廣域輻射的數字標杆城市。城市數字底座能級領先，區塊鏈發展體系推進，基礎設施全面夯實，航貿數字化加速突破，應用覆蓋全行業門類，資訊通訊網路、算力、空間智慧等新型基礎設施效能顯著提升。國際資料合作主動成勢，跨境資料基礎設施安全便利，數字服務載體多元豐富。新質發展動能數智引領，資料開發利用創新深入，數實融合不斷深化。城市治理模式智慧高效，全域數智治理效能持續強化，政務智慧體在複雜大場景應用中實戰管用。數字生活服務友好普惠，內涵不斷豐富，供給水平持續提升，基本建成全年齡全人群覆蓋、全生命週期貫穿的數智生活服務生態，打造有溫度、高質感、國際化、平等包容的數字友好城市。"
+    },
     {
       "id": "5047301",
       "time": "2026-08-19 15:56:52",
