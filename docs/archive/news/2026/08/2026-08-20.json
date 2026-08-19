@@ -1,7 +1,19 @@
 {
   "date": "2026-08-20",
-  "count": 397,
+  "count": 398,
   "items": [
+    {
+      "id": "mkt:01a01bee-d41e-7aab-90a2-786ee99f3f05",
+      "time": "2026-08-20 05:30:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "8002.T",
+        "Impact bullish"
+      ],
+      "text": "【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency."
+    },
     {
       "id": "mkt:01a01beb-3865-7aab-90a2-7048a3fbb021",
       "time": "2026-08-20 05:26:35",

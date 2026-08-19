@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-20 05:29:07",
-  "count": 15665,
+  "updated": "2026-08-20 05:32:56",
+  "count": 15664,
   "items": [
+    {
+      "id": "mkt:01a01bee-d41e-7aab-90a2-786ee99f3f05",
+      "time": "2026-08-20 05:30:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "8002.T",
+        "Impact bullish"
+      ],
+      "text": "【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency."
+    },
     {
       "id": "mkt:01a01beb-3865-7aab-90a2-7048a3fbb021",
       "time": "2026-08-20 05:26:35",
@@ -143552,22 +143564,6 @@
         "公司"
       ],
       "text": "【潘興廣場新增投資維薩、奈飛等標的】潘興廣場公司在致股東信中表示，自完成IPO以來，該基金已完成六筆新增投資。潘興廣場稱：“我們近期新建倉投資了維薩、萬事達卡、奈飛、標普全球、洲際交易所以及愛爾康，這些企業都是我們已密切跟蹤多年的公司。”潘興廣場表示，疊加上述新標的，以及原有持倉微軟、亞馬遜、Meta、優步、布魯克菲爾德、Restaurant Brands國際，將助力基金實現強勁的未來收益。"
-    },
-    {
-      "id": "5038154",
-      "time": "2026-08-13 05:30:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras首席財務官表示，如果不是因為透過租回更多自有系統來擴大雲容量導致成本上升，公司第二季度調整後毛利率本應高出500個基點。"
-    },
-    {
-      "id": "5038153",
-      "time": "2026-08-13 05:29:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：霍爾木茲海峽使用者必須“修復”海灣環境損害】伊朗外交部發言人巴加埃稱：“所有從霍爾木茲海峽商業航運中獲益的各方，在法律和道義上都有義務修復對波斯灣和阿曼海造成的環境損害。”巴加埃表示，“初步證據顯示一艘外國散貨船”是汙染來源。他表示，未來任何有關霍爾木茲海峽控制權的安排，都必須解決該水道的環境狀況。"
     }
   ]
 }
