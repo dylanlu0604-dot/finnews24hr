@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:02:02_
-_本檔包含 3212 則快訊，約 625406 字_
+_更新時間：2026-08-20 05:36:47_
+_本檔包含 3209 則快訊，約 626857 字_
+
+---
+
+### 2026-08-16 08:22:55  #國際
+
+【烏克蘭首都基輔響起多次爆炸聲】當地時間16日，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）
+
+---
+
+### 2026-08-16 08:21:03  #其他
+
+【三川智慧與華為鴻蒙生態召開戰略合作研討會】據三川智慧訊息，為持續深化開源鴻蒙生態合作，落地“鴻圖計劃”戰略佈局，8月14日下午，三川智慧與華為鴻蒙生態合作戰略研討會在三川國德會議室舉行。雙方圍繞智慧水務鴻蒙化升級、生態協同共建、標杆專案打造、產業模式創新等核心議題開展深度磋商，全面加速雙方戰略合作落地見效。
+
+---
+
+### 2026-08-16 08:20:29  #MKT News #WTI #Impact bullish #Brent
+
+【Analysts: US‑Iran war of words leaves Strait of Hormuz standoff unresolved】Iran foreign ministry spokesman Baghaei said on the 15th the current situation in the Strait of Hormuz is a direct result of what he called illegal actions by the United States and Israel. Analysts say the two sides’ sustained public confrontation makes near‑term resolution unlikely and full, unimpeded navigation in the Strait hard to achieve in the short term. They add the stalemate is unlikely to shift materially unless the US launches a new large‑scale military strike, and that proposals by Trump to "defeat Iran" or to treat the Strait as US territory will remain empty rhetoric.
+
+---
+
+### 2026-08-16 08:18:25  #國際
+
+馬斯克：在美國銷售的特斯拉汽車，是所有在售車型當中本土化製造程度最高的。
+
+---
+
+### 2026-08-16 08:17:41  #國際
+
+【分析人士：美伊大打口水戰 霍爾木茲海峽對峙難破】伊朗外交部發言人巴加埃15日表示，霍爾木茲海峽目前的局勢是美國和以色列“非法行動”的直接結果。日前，美伊雙方就霍爾木茲海峽問題展開激烈交鋒，雙方在這一問題上頻頻表態，互不相讓。對此，有分析人士指出，雙方持續對峙，分歧難彌，局勢或將陷入迴圈，霍爾木茲海峽短期內恐難以實現完全通航。分析人士認為，當前，美伊就霍爾木茲海峽問題持續對峙，雙方短期內在該問題上作出重大讓步的可能性較小。除非美方決定對伊朗發起新一輪大規模軍事打擊，否則持續博弈的僵局不會發生顯著變化，特朗普欲“擊敗伊朗”“將霍爾木茲海峽納為美國領土”的設想將成為空談。（央視新聞）
+
+---
+
+### 2026-08-16 08:14:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Yemen's Mocha port damaged in Houthi attacks; operations fully halted】Yemeni Houthi forces launched sustained missile and drone attacks on Mocha port, the port operator said on the 15th, causing severe infrastructure damage and a full suspension of operations. Mocha, one of Yemen's key ports, lies about 65 km from the Bab al-Mandeb Strait and roughly 6 km from the main international shipping lane linking the Indian Ocean/Arabian Sea to the Red Sea and Suez Canal. The operator said that between the 9th and 14th the port was struck by 40 ballistic missiles and 46 drones, and was also attacked by explosive-laden boats.
+
+---
+
+### 2026-08-16 08:12:45  #公司
+
+【傑瑞股份：資料中心業務目前尚處於起步階段 對公司經營業績影響較小】傑瑞股份(002353)在互動平臺表示，在資料中心業務領域方面，公司不僅致力於解決複雜應用場景下的發電保障需求，更將透過系統化技術整合，構建覆蓋發電、配電及能控管理的一體化解決方案。本業務目前尚處於起步階段，對公司經營業績影響較小。
+
+---
+
+### 2026-08-16 08:11:07  #其他
+
+【葉門摩卡港遭襲受損 運營活動全面停止】葉門胡塞武裝近日對葉門重要港口摩卡港持續發起大規模導彈和無人機襲擊。15日，摩卡港管理方對外介紹，襲擊造成港口基礎設施嚴重受損，港口運營活動已經全面停止。（央視新聞）
+
+---
+
+### 2026-08-16 08:10:37  #其他
+
+【福建：培育基礎設施與飛行保障、低空裝備與關鍵部件、低空經濟服務與應用三大領域】近日，福建省政府印發《福建省“十五五”新興產業和未來產業發展規劃》，明確推進九大未來產業發展。 其中， 緊扣福建“山海相容”特色，培育基礎設施與飛行保障、低空裝備與關鍵部件、低空經濟服務與應用三大領域，建立常態化的空域協同機制，建設具有全國特色的山海複合型低空飛行測試走廊。 基礎設施與飛行保障。搭建省級低空智慧網聯絡統，推進5G-A與衛星網際網路覆蓋，完善適航審定、檢驗檢測、維保等公共服務支撐。打造航空部件適航測試等場景，開展複雜環境下低空飛行管理、測控雷達、通訊導航等產品測試驗證。 低空裝備與關鍵部件。依託我省產業基礎，重點發展航空級動力電池、輕量材料、智慧感測器等優勢領域，積極培育中大型過載無人機生產製造，推進巡檢無人機、低空安全反制裝備發展。 低空經濟服務與應用。發展飛行員培訓、無人機研學與低空運維支援等專業服務。推動低空經濟與海洋經濟、文旅康養、應急與公共安全、城市治理、農林生產等融合，形成一批“低空+”應用特色解決方案。
 
 ---
 
@@ -19295,77 +19349,5 @@ SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer 
 ### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
-
----
-
-### 2026-08-14 08:51:59  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization.
-
----
-
-### 2026-08-14 08:51:52  #其他
-
-中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。
-
----
-
-### 2026-08-14 08:51:22  #MKT News
-
-SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2.
-
----
-
-### 2026-08-14 08:50:58  #市場 #國際
-
-5年期日本國債收益率下跌1.5個基點，至2.105%。
-
----
-
-### 2026-08-14 08:50:12  #其他
-
-中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。
-
----
-
-### 2026-08-14 08:49:59  #公司
-
-中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。
-
----
-
-### 2026-08-14 08:49:27  #MKT News
-
-Spot silver slid to $64/oz, down 0.74% intraday.
-
----
-
-### 2026-08-14 08:49:08  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,330/oz, down 0.48% on the day.
-
----
-
-### 2026-08-14 08:48:55  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌0.78%。
-
----
-
-### 2026-08-14 08:48:54  #市場
-
-紐約期銀日內跌1%，現報64.33美元/盎司。
-
----
-
-### 2026-08-14 08:48:07  #MKT News
-
-Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; Melinda Cilento has been appointed to the RBA MPC for a five-year term beginning Sept. 1.
-
----
-
-### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
-
-【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
 
 ---

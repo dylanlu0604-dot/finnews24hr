@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:02:02_
-_本檔包含 3215 則快訊，約 625290 字_
+_更新時間：2026-08-20 05:36:47_
+_本檔包含 3208 則快訊，約 624743 字_
+
+---
+
+### 2026-08-14 08:51:59  #MKT News #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization.
+
+---
+
+### 2026-08-14 08:51:52  #其他
+
+中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。
+
+---
+
+### 2026-08-14 08:51:22  #MKT News
+
+SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2.
+
+---
+
+### 2026-08-14 08:50:58  #市場 #國際
+
+5年期日本國債收益率下跌1.5個基點，至2.105%。
+
+---
+
+### 2026-08-14 08:50:12  #其他
+
+中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。
+
+---
+
+### 2026-08-14 08:49:59  #公司
+
+中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。
+
+---
+
+### 2026-08-14 08:49:27  #MKT News
+
+Spot silver slid to $64/oz, down 0.74% intraday.
+
+---
+
+### 2026-08-14 08:49:08  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,330/oz, down 0.48% on the day.
+
+---
+
+### 2026-08-14 08:48:55  #市場 #焦點
+
+紐約期金失守4390美元/盎司，日內跌0.78%。
+
+---
+
+### 2026-08-14 08:48:54  #市場
+
+紐約期銀日內跌1%，現報64.33美元/盎司。
+
+---
+
+### 2026-08-14 08:48:07  #MKT News
+
+Treasurer Chalmers said Ian will leave the Reserve Bank of Australia (RBA) MPC; Melinda Cilento has been appointed to the RBA MPC for a five-year term beginning Sept. 1.
+
+---
+
+### 2026-08-14 08:47:44  #MKT News #CSI300 #SSE Composite #SZSE Component
+
+【China margin balances across two exchanges rise 2.39 bln yuan】As of Aug 13, Shanghai Stock Exchange margin balance was 1,356.31 bln yuan, up 1.07 bln from the previous trading day; Shenzhen Stock Exchange margin balance was 1,285.06 bln yuan, up 1.32 bln. Combined margin balance totaled 2,641.37 bln yuan, up 2.39 bln.
 
 ---
 
@@ -19285,119 +19357,5 @@ Venezuelan central bank reports July inflation at 19.9%.
 ### 2026-08-13 05:37:57  #其他
 
 中國地震臺網正式測定：08月13日05時28分在青海海南州興海縣（北緯35.28度，東經99.54度）發生3.7級地震，震源深度10千米。
-
----
-
-### 2026-08-13 05:33:01  #公司
-
-【潘興廣場新增投資維薩、奈飛等標的】潘興廣場公司在致股東信中表示，自完成IPO以來，該基金已完成六筆新增投資。潘興廣場稱：“我們近期新建倉投資了維薩、萬事達卡、奈飛、標普全球、洲際交易所以及愛爾康，這些企業都是我們已密切跟蹤多年的公司。”潘興廣場表示，疊加上述新標的，以及原有持倉微軟、亞馬遜、Meta、優步、布魯克菲爾德、Restaurant Brands國際，將助力基金實現強勁的未來收益。
-
----
-
-### 2026-08-13 05:30:06  #公司
-
-Cerebras首席財務官表示，如果不是因為透過租回更多自有系統來擴大雲容量導致成本上升，公司第二季度調整後毛利率本應高出500個基點。
-
----
-
-### 2026-08-13 05:29:08  #國際
-
-【伊朗：霍爾木茲海峽使用者必須“修復”海灣環境損害】伊朗外交部發言人巴加埃稱：“所有從霍爾木茲海峽商業航運中獲益的各方，在法律和道義上都有義務修復對波斯灣和阿曼海造成的環境損害。”巴加埃表示，“初步證據顯示一艘外國散貨船”是汙染來源。他表示，未來任何有關霍爾木茲海峽控制權的安排，都必須解決該水道的環境狀況。
-
----
-
-### 2026-08-13 05:28:28  #其他
-
-思科預計2027財年人工智慧訂單將大幅增長。
-
----
-
-### 2026-08-13 05:26:05  #國際
-
-市場資訊：美國人工智慧監管框架預計很快將把開源模型納入管轄範圍。
-
----
-
-### 2026-08-13 05:24:40  #MKT News
-
-【U.S. Apache helicopter crashes near Fort Hood, two dead】Local police said on the 12th an Apache military helicopter crashed near Fort Hood, Texas, killing two people.
-
----
-
-### 2026-08-13 05:23:45  #其他
-
-思科：受Mythos帶來的威脅影響，各家企業正將預算重新投向網路安全領域。
-
----
-
-### 2026-08-13 05:20:21  #公司
-
-Cerebras執行長表示，目前254億美元的剩餘履約義務並未反映來自AWS或其他任何超大規模客戶的業務積壓情況。
-
----
-
-### 2026-08-13 05:17:21  #其他
-
-思科2026財年人工智慧相關訂單實現約40億美元營收。
-
----
-
-### 2026-08-13 05:16:06  #其他
-
-思科稱供應鏈並未出現明顯交期問題。
-
----
-
-### 2026-08-13 05:14:44  #其他
-
-思科表示其年度營收指引持審慎態度。
-
----
-
-### 2026-08-13 05:14:25  #公司 #焦點
-
-截至2026年6月30日，上市公司合計持有128萬枚比特幣（價值760億美元），佔比特幣總供給量的6.11%。Strategy仍是最大持有方，持倉846842枚比特幣。
-
----
-
-### 2026-08-13 05:12:46  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-US Commerce Secretary Lutnick said he will announce tomorrow local time that Apple (AAPL.O) will build a Mac mini plant in Texas.
-
----
-
-### 2026-08-13 05:11:25  #其他
-
-思科預計2027年核心業務增速約10%。
-
----
-
-### 2026-08-13 05:10:57  #其他
-
-思科預計2027年安全業務將實現高個位數增長。
-
----
-
-### 2026-08-13 05:10:42  #MKT News #Macro & Rates #US Economy #F.O #Impact bullish
-
-U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs.
-
----
-
-### 2026-08-13 05:08:19  #國際
-
-伊朗稱霍爾木茲海峽使用者必須“彌補”海灣環境損害。
-
----
-
-### 2026-08-13 05:07:33  #其他
-
-【DeepSeek V4 Pro正式版API更新：多項測試效能接近Fable 5】8月13日，DeepSeek官方把V4 Pro從預覽版正式轉正。官方定價頁上，模型版本號已經更新為DeepSeek-V4-Pro-0813。從官方群放出的評測對比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多項測試中接近 Fable 5 水平，相比之前的預覽版能力大幅提升。DeepSeek V4 Pro價格明顯高於V4-Flash。按每1M token計算，快取命中輸入0.025元，快取未命中輸入3元，輸出6元。相比之下，V4-Flash分別為0.02元、1元和2元。
-
----
-
-### 2026-08-13 05:02:58  #MKT News
-
-MSCI said the MSCI Global Index will add 55 securities and remove 92 securities.
 
 ---

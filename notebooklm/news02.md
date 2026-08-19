@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:02:02_
-_本檔包含 3215 則快訊，約 625695 字_
+_更新時間：2026-08-20 05:36:47_
+_本檔包含 3203 則快訊，約 625595 字_
+
+---
+
+### 2026-08-19 07:04:51  #宏觀
+
+【商務部：分層分級推動縣域商業設施提檔升級】昨天（18日）下午，國務院新聞辦舉行新聞釋出會，介紹《關於進一步激發下沉市場活力 活躍縣域消費的意見》有關情況。商務部有關負責人表示，把商品流通提檔升級作為活躍線下消費、增進民生福祉的重要抓手，協同推進設施改造和要素保障。商務部有關負責人介紹，流通設施建設更新堅持分層分級。在縣城，重點支援傳統百貨、老舊購物中心等升級改造。在鄉鎮，支援鄉鎮商貿中心、集（農）貿市場等建設升級，最佳化鄉鎮共配站點。在村級，支援產地倉等農產品商品化處理設施建設，標準化、規範化建設改造新型便利店、村級寄遞物流綜合服務站。（央視）
+
+---
+
+### 2026-08-19 07:04:10  #國際
+
+【伊朗舉行已故最高領袖下葬四十日紀念儀式】伊朗伊斯蘭共和國廣播電視臺18日報道，伊朗當天在首都德黑蘭伊瑪目霍梅尼清真寺建築外廣場舉行已故最高領袖阿里·哈梅內伊下葬四十日紀念儀式。報道說，許多民眾前來參加紀念儀式。此外，伊朗伊斯蘭議會議長卡利巴夫、伊朗第一任最高領袖霍梅尼的孫子哈桑·霍梅尼以及阿里·哈梅內伊的子女等出席紀念儀式。據伊朗塔斯尼姆通訊社當天早些時候報道，伊朗最高領袖穆傑塔巴·哈梅內伊即將在德黑蘭主持阿里·哈梅內伊下葬四十日紀念儀式。截至目前，新華社記者未在紀念儀式直播畫面中看到穆傑塔巴現身。（新華社）
+
+---
+
+### 2026-08-19 07:04:04  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Inventories Barely Decline — US crude oil inventories fell by 328,000 barrels in the week ending August 14th, following a 9.07 million-barrel increase in the previous week. Commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 18 weeks, while inventories are up 1.88 million barrels year-to-date. Another 5.3 million barrels left the SPR, bringing total reserves to 293.4 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories fell by 1.44 million barrels after rising 1.57 million barrels in the previous week. Meanwhile, US crude production edged up to 13.805 million bpd from 13.804 million bpd, up 521,000 bpd from a year earlier. Gasoline inventories increased by 1.08 million barrels, while distillate stocks fell by 2.80 million barrels, extending their decline to 3.39 million barrels over the past two weeks.
+
+---
+
+### 2026-08-19 07:02:04  #公司
+
+【看好AI投資機遇，QFII資金“廣撒網”】今年二季度，QFII資金積極關注AI投資機遇。根據目前已披露的A股上市公司2026年半年報，QFII資金二季度新增持有國瓷材料、宏發股份、中材科技的市值均在10億元以上，二季度國瓷材料、中材科技分別漲超230%、130%。同時，QFII資金也在持續挖掘中小市值個股的投資機會，外資機構二季度扎堆持有的美諾華、曉程科技等，7月以來均有明顯的反彈。
+
+---
+
+### 2026-08-19 06:59:38  #Trading Economics #Economy #New Zealand #Producer Price Inflation MoM #Importance 1
+
+New Zealand PPI Output Prices Rise More than Expected — Producer output prices in New Zealand increased 1.6% quarter-on-quarter in the June quarter of 2026, exceeding both the previous quarter’s 0.8% rise and market expectations of a 0.8% increase. It marked the fastest pace since the first quarter of 2025, boosted mainly by three sectors, with the largest contributions coming from electricity and gas supply (11.0%), dairy product manufacturing (3.9%), and road transport (8.4%).
+
+---
+
+### 2026-08-19 06:58:49  #其他
+
+中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。
 
 ---
 
@@ -19307,113 +19343,5 @@ Spot gold rose more than 1% intraday, breaking above $4,420/oz.
 ### 2026-08-17 22:18:02  #公司
 
 【*ST海華：2026年上半年營收1.90億元 淨虧損1427.76萬元】*ST海華公告稱，2026年上半年公司實現營業收入1.90億元，同比增長68.24%；歸屬於上市公司股東的淨利潤為-1427.76萬元，淨虧損1427.76萬元，上年同期淨虧損217.71萬元。2026年1月5日公司完成控股股東及實際控制人變更，新控股股東為朗寧宜和(杭州)企業管理合夥企業(有限合夥)，新實際控制人為祝鎵陽、佔舜迪、張棟。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-17 22:17:42  #其他
-
-幣安：旗下幣安支付已接入不丹DK銀行的二維碼支付網路。
-
----
-
-### 2026-08-17 22:17:28  #市場 #央行 #國際
-
-【歐洲央行警告人工智慧熱潮或將以回撥收場】歐洲央行經濟學家警告，市場對人工智慧的追捧將科技股估值推升至網際網路泡沫時期水平，股市估值或將迎來回撥。與 21 世紀初不同，倘若市場出現大幅下跌，政策制定者降息或實施財政刺激的操作空間已十分有限。歐洲央行表示，由於歐洲投資於美國 “七大科技巨頭”，且歐洲本土股票估值處於高位，歐洲面臨的風險尤為突出。
-
----
-
-### 2026-08-17 22:17:02  #MKT News #Market Regions #Europe & UK
-
-Ukraine's foreign minister said Kyiv has long warned European governments against any cooperation with Russian state nuclear firm Rosatom and urged a renewed, serious discussion on EU sanctions targeting the company.
-
----
-
-### 2026-08-17 22:16:49  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #DXY
-
-Ukraine's foreign minister said Russia's state nuclear company Rosatom is not a conventional energy firm but a tool Moscow uses to pursue monopoly in the global nuclear sector, and that new evidence has emerged demonstrating Rosatom is not a reliable partner.
-
----
-
-### 2026-08-17 22:15:57  #公司
-
-【搬運50公斤重物 香港科企釋出“生產力工具型”人形機器人】新一代產業級人形機器人“小睿G3”17日在香港釋出。該機器人對標成年人力作業能力，可完成過載搬運、物料轉運、精細操作等任務，具備產業價值。 據介紹，“小睿G3”依託香港公司九光技術全棧自研科技，產品搭載自研AI大腦和全身精密力控系統，突破傳統智慧裝置作業瓶頸，環境適配性與作業穩定性提升，適配各行業實體作業場景。 在釋出會的現場演示中，記者看到“小睿G3”響應語音指令，平穩完成50公斤槓鈴搬運、定點擺放等操作，全程動作流暢、姿態穩定。香港科技園公司行政總裁黃秉修表示，非常高興見證香港本土科技企業在具身智慧和人形機器人領域推出全新成果。人形機器人作為具身智慧的重要載體，是人工智慧和新材料等多學科交叉的前沿賽道，更是培育新生產力、推動新型工業化的關鍵方向。他期待九光立足香港，依託粵港澳大灣區完善的產業鏈，推動人形機器人走出實驗室，實現規模化、商業化應用。（新華社）
-
----
-
-### 2026-08-17 22:15:54  #MKT News
-
-Chile's central bank sold $64 million of FX forwards at an average rate of 913.67 Chilean pesos per USD.
-
----
-
-### 2026-08-17 22:15:08  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
-
-France's 30-year government bond yield climbed to 4.86%, the highest level in 18 years.
-
----
-
-### 2026-08-17 22:14:41  #其他
-
-比特幣ETFs在8月10日當週發生3.897億美元淨資金外流，創6月末以來最大單週外流。
-
----
-
-### 2026-08-17 22:14:37  #MKT News
-
-Israel Defense Forces (IDF) said overnight a Hamas explosive device detonated in the yellow-line area of the northern Gaza Strip and Hamas fired into the same sector; no Israeli personnel were injured. The IDF said it immediately struck the yellow-line area and called the incident a Hamas violation.
-
----
-
-### 2026-08-17 22:14:34  #市場 #焦點
-
-法國 30 年期國債收益率回升至 4.86%，創下 18 年新高。
-
----
-
-### 2026-08-17 22:14:14  #公司
-
-【杭州地產酒局上涉事的招商蛇口高管已被免職】據第一財經8月17日報道，業內知情人士透露，招商蛇口已將其浙江公司總經理趙海峰免職。 在今年七月杭州的一個商務酒局上，趙海峰涉嫌傷害一名女性。目前，趙仍在接受相關部門的調查。
-
----
-
-### 2026-08-17 22:13:46  #MKT News
-
-SoftBank has invested $200 million in construction startup Gravis Robotics.
-
----
-
-### 2026-08-17 22:12:44  #其他
-
-市場訊息：軟銀向建築初創企業 Gravis Robotics 投資 2 億美元。
-
----
-
-### 2026-08-17 22:11:53  #公司
-
-Equinor 將以 9.4 億美元收購拉克萬納能源中心 87.71% 的 A 類股份。
-
----
-
-### 2026-08-17 22:11:34  #MKT News #Commodities #Energy
-
-EQUINOR to acquire a partial stake in Lackawanna Energy Center.
-
----
-
-### 2026-08-17 22:11:30  #市場
-
-捷藍航空股價在海港研究將其股票評級下調至“中性”後下跌約3.5%。
-
----
-
-### 2026-08-17 22:11:17  #國際
-
-據知情人士透露，內塔尼亞胡在與庫什納會晤時，攜辛貝特（以色列國家安全總局）局長戴維・齊尼以及軍事情報局局長什洛米・賓德一同參會，向庫什納通報哈馬斯在加沙地帶的違規行為。
-
----
-
-### 2026-08-17 22:10:45  #MKT News
-
-Axios cited a source saying that during a meeting with Jared Kushner, Netanyahu brought Israel's Shin Bet chief David Zeni and Military Intelligence chief Shlomi Binder to brief Kushner on Hamas's violations in Gaza.
 
 ---
