@@ -1,7 +1,15 @@
 {
   "date": "2026-08-20",
-  "count": 395,
+  "count": 396,
   "items": [
+    {
+      "id": "mkt:01a01be6-a564-7aab-90a2-6ac24b5fdaf1",
+      "time": "2026-08-20 05:21:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks."
+    },
     {
       "id": "5048645",
       "time": "2026-08-20 05:20:52",

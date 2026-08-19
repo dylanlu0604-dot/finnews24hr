@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-20 05:21:26",
-  "count": 15667,
+  "updated": "2026-08-20 05:25:15",
+  "count": 15666,
   "items": [
+    {
+      "id": "mkt:01a01be6-a564-7aab-90a2-6ac24b5fdaf1",
+      "time": "2026-08-20 05:21:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks."
+    },
     {
       "id": "5048645",
       "time": "2026-08-20 05:20:52",
@@ -143564,22 +143572,6 @@
         "國際"
       ],
       "text": "市場資訊：美國人工智慧監管框架預計很快將把開源模型納入管轄範圍。"
-    },
-    {
-      "id": "mkt:019ff7dc-f37c-7aab-9013-c40ce771111c",
-      "time": "2026-08-13 05:24:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Apache helicopter crashes near Fort Hood, two dead】Local police said on the 12th an Apache military helicopter crashed near Fort Hood, Texas, killing two people."
-    },
-    {
-      "id": "5038150",
-      "time": "2026-08-13 05:23:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科：受Mythos帶來的威脅影響，各家企業正將預算重新投向網路安全領域。"
     }
   ]
 }
