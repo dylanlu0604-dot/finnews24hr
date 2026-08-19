@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:36:47_
-_本檔包含 3147 則快訊，約 626185 字_
+_更新時間：2026-08-20 05:55:59_
+_本檔包含 3153 則快訊，約 626427 字_
+
+---
+
+### 2026-08-20 05:54:17  #Trading Economics #Economy #Jamaica #Interest Rate #Importance 1
+
+Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%.
+
+---
+
+### 2026-08-20 05:53:51  #MKT News #Macro & Rates #US Economy
+
+【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026.
+
+---
+
+### 2026-08-20 05:46:55  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%.
+
+---
+
+### 2026-08-20 05:46:24  #宏觀 #市場 #國際
+
+【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。
+
+---
+
+### 2026-08-20 05:44:39  #其他
+
+牙買加中央銀行將貸款利率維持在5.5%的水平。
+
+---
+
+### 2026-08-20 05:42:14  #國際
+
+巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。
+
+---
+
+### 2026-08-20 05:41:09  #MKT News
+
+Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit.
+
+---
+
+### 2026-08-20 05:39:30  #公司
+
+谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。
+
+---
+
+### 2026-08-20 05:38:55  #市場
+
+週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。
+
+---
+
+### 2026-08-20 05:38:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London.
+
+---
+
+### 2026-08-20 05:36:43  #公司 #國際
+
+英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。
 
 ---
 
@@ -18923,35 +18989,5 @@ Spot silver fell below $63/oz, down 0.5% on the day.
 5、美國銀行認為，市場可能高估了英偉達圍繞人工智慧生態系統大規模投資所帶來的風險，導致其股價出現明顯折價。即使將相關融資風險考慮在內，英偉達目前的估值折價幅度仍可能達到34%至50%。
 6、蘋果週二宣佈，將把針對應用開發者的按安裝次數收費，調整為對透過App Store以外渠道分發的應用中的數字交易收取5%的佣金，以遵守歐盟《數字市場法》（DMA）。
 7、訊息稱Anthropic預計將在數週內啟動IPO流程。Anthropic上市前信貸額度規模或超100億美元目標。
-
----
-
-### 2026-08-19 07:09:48  #其他
-
-【經濟日報：酒店推廣“24小時退房”有點難】“能不能按照入住時間來退房，住滿24小時才算一天？”這是不少消費者的疑問，也是訴求。雖然酒店行業慣例“當日14點入住、次日12點退房”已延續多年，但也有部分酒店打破慣例，推出了“24小時退房制”，即從入住時起算，住滿24小時再退房。這無疑是對消費者呼聲的積極回應，也體現了其差異化競爭策略，消費者大都樂見其成。不過，這一模式要想在行業全面鋪開，絕非易事。24小時退房要在酒店行業全面推開，難度不小，但這並不妨礙酒店行業加速創新步伐。隨著消費形態變化，全天候、多時段入住逐漸成為常態，住宿需求呈現出更加靈活的特點；同時，酒店供給不斷增加，競爭更趨激烈，更多酒店開始從“管理優先”向“使用者優先”轉變，這是對市場需求的積極回應。做好服務消費，不是“我有什麼，你買什麼”，而是“你需要什麼，我提供什麼”。對酒店來說，明白這一點，才能在激烈的市場競爭中不掉隊。
-
----
-
-### 2026-08-19 07:07:37  #公司 #市場
-
-【萬國黃金集團擬發行本金總額55億港元的可換股債券】萬國黃金集團(03939)釋出公告，於2026年8月18日(交易時段後)，經辦人擬認購或促使認購(由其本身或透過其聯屬公司或分代理)並支付公司將予發行的本金總額為55億港元的債券，惟須受限於可換股債券認購協議條款並按其條款進行。債券的發行價應為債券本金總額的100%，且每份債券的面額應為200萬港元及其整數倍。初步換股價為每股15.62港元，較最後收市價溢價約20.15%。
-
----
-
-### 2026-08-19 07:06:21  #MKT News #XAUUSD #Impact bullish #DXY #Nikkei 225 #Impact bearish
-
-【KCNA: U.S.-South Korea Ulchi Freedom Shield drills push Korean Peninsula to 'brink' of war】North Korea's state news agency KCNA said in a commentary on the 19th that the U.S.-South Korea Ulchi Freedom Shield joint exercises constitute a direct threat to Pyongyang and the regional security environment, pushing the Korean Peninsula again to a critical point close to war. KCNA said the exercises are becoming progressively more dangerous—escalating in content, form, scale and training methods—to increase wartime realism, secure an advantage in the peninsula and the region, and that South Korea is being turned into a staging ground and rehearsal site for multinational invasion forces.
-
----
-
-### 2026-08-19 07:06:16  #其他
-
-朝中社19日發表評論說，“乙支自由之盾”美韓聯合軍演對朝鮮及地區的安全環境構成直接威脅，使本就惡劣的朝鮮半島局勢再次瀕臨戰爭爆發的“臨界點”。（新華社）
-
----
-
-### 2026-08-19 07:05:33  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Extends Gains on Healthcare Stocks Boost — New Zealand's stocks rose 33 points, or 0.2%, to 13,899 in Wednesday morning deals, extending gains from the previous session, mainly buoyed by gains in healthcare, real estate, and industrials. Optimism over earnings results continued to lift sentiment, with EBOS Group, Fletcher Building, and Spark New Zealand set to release their earnings reports later today. However, a downbeat session on Wall Street overnight, due to a selloff in chipmaker-related stocks, rising Treasury yields, and higher oil prices, capped gains. On the data front, New Zealand's input and output prices rose 2.9% and 1.6%, respectively, quarter-on-quarter in Q2, marking the fastest increases since Q1 2025. EBOS Group surged 4.1% after reporting a 4.7% rise in net profit for FY 2026, while Fletcher Building jumped 4.8% after the company recorded a profit following a loss in the previous quarter. Other early gainers included Gentrack Group (1.3%) and Fisher & Paykel (0.4%).
 
 ---

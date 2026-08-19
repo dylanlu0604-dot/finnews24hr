@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:36:47_
-_本檔包含 3209 則快訊，約 626857 字_
+_更新時間：2026-08-20 05:55:59_
+_本檔包含 3208 則快訊，約 626119 字_
+
+---
+
+### 2026-08-16 08:50:09  #MKT News
+
+Sky News, citing Yemeni sources, said Yemen's air defenses responded to an attack by Houthi armed drones over the city of Mokha in Hodeidah province.
+
+---
+
+### 2026-08-16 08:42:13  #其他
+
+【陝西首批農業生態產品價值轉化專案落地】8月15日，全國生態日當天，陝西首批農業生態產品價值轉化專案交易雙方正式簽約，省公共資源交易中心為各方頒發交易憑證。省公共資源交易中心副主任胡陽介紹，本批專案於8月12日成交，總成交額約145萬元。這是陝西首次將農產品供給、農田固碳調節和生態文旅經營權益分類設計為標準化標的，並透過陝西省公共資源交易平臺完成市場化交易。（陝西日報）
+
+---
+
+### 2026-08-16 08:41:38  #國際
+
+市場訊息： 近半數（48%）美國僱主已不再對部分崗位開展入職大麻篩查。
+
+---
+
+### 2026-08-16 08:40:59  #其他
+
+【四川等地區域性有大暴雨 下週江南多地熱力升級高溫增多】今天（8月16日），隨著低渦北上，東北地區多地降雨將增強，同時，甘肅、四川等地部分地區雨勢較強。明後天，華南多地也將遭遇強降雨，公眾需關注預警預報資訊，外出帶好雨具。同時，隨著副熱帶高壓西伸增強，南方高溫將再度增多，江南多地也將加入高溫陣營，需注意及時補水降溫，降低中暑風險。
+
+---
+
+### 2026-08-16 08:37:17  #公司
+
+【哈佛持有價值 22 億美元 SpaceX 股份】哈佛大學投資管理機構披露持有價值 22 億美元 SpaceX 股份。這家機構早年投資埃隆・馬斯克旗下火箭企業，在 SpaceX 重磅上市後收穫鉅額回報。哈佛管理公司於週五在監管申報檔案中披露該持倉。在其規模 43 億美元的美股投資組合裡，SpaceX 成為持倉市值最高的單一標的。這筆持倉充分體現：SpaceX 在 6 月創下紀錄的 IPO，為一眾大學捐贈基金帶來豐厚收益。不少高校捐贈基金早在十餘年前就透過風投渠道佈局這家公司。根據最新公開資料，截至 2025 年 6 月，哈佛管理公司管理資產規模約 570 億美元。並非只有哈佛受益於 SpaceX 登陸公開市場。加州大學旗下投資機構本週申報檔案顯示，持有價值約 10 億美元 SpaceX 股票；北卡羅來納大學、聖路易斯華盛頓大學同樣持有該公司投資。
+
+---
+
+### 2026-08-16 08:34:30  #MKT News
+
+Fox News reported Harvard University made up to a $2.2 bln investment in SpaceX (SPCX.O).
+
+---
+
+### 2026-08-16 08:33:03  #公司
+
+【餐館廢油“變身”後身價暴漲 出口訂單排到明年】在江蘇連雲港的新能源企業廠區，每天上百輛油罐車往返忙碌。全國各地餐廚垃圾處理廠的廢棄油脂，每天約2000噸集中運抵廠區，經過精細化加工實現華麗蛻變。這種再生原料用途極廣，可生產生物柴油、可持續航空燃料、洗滌劑、工業潤滑劑等，實現資源迴圈再利用。江蘇連雲港威勒斯新能源有限公司董事長顧光陽介紹，廢棄食用油進廠後，透過加熱、沉澱、離心、過濾等多道工藝，有效降低油脂中的金屬、磷、氯、氮等雜質，提純後成為高品質工業級混合油。據瞭解，今年以來，這家企業工業級混合油產量已超35萬噸，一半產品遠銷海外。顧光陽表示，企業上半年出口量同比增加20%，價格持續上行，年初每噸約7000元，7月漲到7800元，半年漲幅近10%。企業目前滿負荷生產，訂單已排至2027年。三期專案明年初投產，屆時年產能將接近100萬噸。（央視）
+
+---
+
+### 2026-08-16 08:28:06  #其他
+
+【雲南加快推進新型工業化建設】記者近日從省工信廳瞭解到，“十五五”期間，雲南省將立足資源稟賦、區位優勢與產業基礎，堅持以科技創新為引領，以智慧化、綠色化、融合化為方向，以先進製造業為骨幹，煥新升級傳統產業、培育壯大新興產業、因地制宜佈局未來產業，努力開創新型工業化新局面。
+
+加快產業結構最佳化升級。大力發展以鋁銅為主的有色金屬精深加工產業，以銦鍺鉑為主的稀貴金屬新材料產業，高效高值利用磷資源的新能源電池和精細磷化工產業，綠色食品和中藥材精深加工產業，以數字資訊大通道為牽引和以電子資訊製造業為主的數字產業。同時，推動菸草、鋼鐵、化工、建材、紡織等傳統產業轉型升級，培育壯大新材料、新能源、生物醫藥、低空裝備等新興產業，因地制宜佈局生物製造、氫能、具身智慧等未來產業，打造新的經濟增長點。
+
+提升產業創新能力。完善工業領域科技創新體系，強化工信部門與科技部門的協同聯動，重塑科技成果轉化機制，實現從研發、中試、場景應用到產業化的全鏈條閉環。鼓勵規上工業企業加強研發機構建設，支援產業鏈上下游企業協同開展共性技術研發攻關。加強製造業創新中心、企業技術中心、技術創新中心等創新平臺的建立和評價。依託教育部雲南高等研究院，深化產教融合，加快突破重點產業急需的關鍵核心技術。
+
+推動產業智慧化綠色化融合化發展。實施“人工智慧+製造”專項行動，加快製造業數字化轉型，建設一批高標準數字園區。實施綠色製造工程，推進重點行業節能降碳改造，持續培育綠色工廠和綠色工業園區，抓好磷石膏源頭減量和綜合利用，推進再生資源高效集約利用。大力發展軟體和資訊服務、工業設計等生產性服務業，提高現代服務業與先進製造業融合水平。
 
 ---
 
@@ -19295,59 +19349,5 @@ At the morning open, China’s main futures contracts were mixed. Coking coal, N
 ### 2026-08-14 08:57:20  #公司
 
 【獨家丨國科投資領投ChatGPT核心貢獻者，亮源新創穫數億元Pre-A輪融資】新浪科技獨家獲悉，由ChatGPT核心貢獻者姜旭創立的亮源新創（Light Origins），近期已完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資。 亮源新創成立於2024年底，是一家致力於將大模型能力從數字空間延伸至真實世界，並實現物理AGI的創新企業。據知情人士透露，本輪融資資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設及軟硬體全棧平臺研發，同時公司將進行相應的人才團隊擴張。（新浪科技）
-
----
-
-### 2026-08-14 08:56:26  #公司
-
-【德賽電池：子公司鈉離子電池產品已實現兆瓦級交付】德賽電池(000049)8月14日在互動平臺表示，公司子公司湖南電池開展了鈉離子電池產品的研發與試製，鈉離子電池產品已實現兆瓦級的交付。
-
----
-
-### 2026-08-14 08:55:28  #其他
-
-【颱風“白海豚”殘渦繼續東移 江南江淮等地仍有強降雨】8月14日至16日，隨著颱風“白海豚”殘渦東移，冷空氣南下，強降雨的範圍將不斷向東收縮，總體呈現減弱態勢，但在浙江、福建等地仍會有大到暴雨。同時，受冷空氣和陰雨天氣的共同影響，今明兩天，江南、華南等地部分地區高溫將明顯消減，但17日前後，隨著副熱帶高壓加強西伸，長江中下游一帶的高溫暑熱天氣又將返場，悶熱感迴歸。
-
----
-
-### 2026-08-14 08:55:15  #MKT News
-
-【SMIC co-CEO Zhao Haijun: Q2 wafer ASP +5.7% QoQ】China's SMIC said Q2 wafer shipments rose 14.4% QoQ and wafer average selling price increased 5.7% QoQ, lifting single-quarter revenue above $3bn and delivering strong YoY and QoQ gains across core operating metrics; SMIC attributed shipment growth to AI-driven demand for supporting chips and customer pull‑ins. The company added capacity equivalent to 8,000 12‑inch wafers per month in the quarter; capacity utilization was 93.7%, up 0.6 ppt QoQ.
-
----
-
-### 2026-08-14 08:54:19  #MKT News
-
-【Trump authorizes US Navy to build ships overseas】White House on Aug. 14 said President Trump has authorized the US Navy to construct ships overseas and ordered the Navy to abandon the electromagnetic aircraft-launch system (EMALS) on new carriers, reverting to steam catapults. A national security memorandum directs a design change to the fourth Ford-class carrier to drop EMALS used on the first three ships; the change is estimated to cost several hundred mln dlr.
-
----
-
-### 2026-08-14 08:53:59  #公司
-
-【中芯國際趙海軍：二季度晶圓平均銷售單價環比提升5.7%】8月14日上午，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度，公司晶圓量價齊升，單季收入突破三十億美元，各項核心經營資料同比與環比均實現了大幅增長。其中，出貨量環比增加了14.4%，晶圓平均銷售單價環比提升了5.7%；出貨量的增加主要源於人工智慧對配套晶片需求的激增與客戶的提拉出貨。當季公司新增晶圓8000片摺合12英寸月產能；產能利用率為93.7%，環比增長0.6個百分點。
-
----
-
-### 2026-08-14 08:53:28  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable.
-
----
-
-### 2026-08-14 08:53:26  #國際
-
-【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
-
----
-
-### 2026-08-14 08:52:59  #公司
-
-中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。
-
----
-
-### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
 
 ---

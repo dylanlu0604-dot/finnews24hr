@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:36:47_
-_本檔包含 3203 則快訊，約 625595 字_
+_更新時間：2026-08-20 05:55:59_
+_本檔包含 3192 則快訊，約 625555 字_
+
+---
+
+### 2026-08-19 07:09:48  #其他
+
+【經濟日報：酒店推廣“24小時退房”有點難】“能不能按照入住時間來退房，住滿24小時才算一天？”這是不少消費者的疑問，也是訴求。雖然酒店行業慣例“當日14點入住、次日12點退房”已延續多年，但也有部分酒店打破慣例，推出了“24小時退房制”，即從入住時起算，住滿24小時再退房。這無疑是對消費者呼聲的積極回應，也體現了其差異化競爭策略，消費者大都樂見其成。不過，這一模式要想在行業全面鋪開，絕非易事。24小時退房要在酒店行業全面推開，難度不小，但這並不妨礙酒店行業加速創新步伐。隨著消費形態變化，全天候、多時段入住逐漸成為常態，住宿需求呈現出更加靈活的特點；同時，酒店供給不斷增加，競爭更趨激烈，更多酒店開始從“管理優先”向“使用者優先”轉變，這是對市場需求的積極回應。做好服務消費，不是“我有什麼，你買什麼”，而是“你需要什麼，我提供什麼”。對酒店來說，明白這一點，才能在激烈的市場競爭中不掉隊。
+
+---
+
+### 2026-08-19 07:07:37  #公司 #市場
+
+【萬國黃金集團擬發行本金總額55億港元的可換股債券】萬國黃金集團(03939)釋出公告，於2026年8月18日(交易時段後)，經辦人擬認購或促使認購(由其本身或透過其聯屬公司或分代理)並支付公司將予發行的本金總額為55億港元的債券，惟須受限於可換股債券認購協議條款並按其條款進行。債券的發行價應為債券本金總額的100%，且每份債券的面額應為200萬港元及其整數倍。初步換股價為每股15.62港元，較最後收市價溢價約20.15%。
+
+---
+
+### 2026-08-19 07:06:21  #MKT News #XAUUSD #Impact bullish #DXY #Nikkei 225 #Impact bearish
+
+【KCNA: U.S.-South Korea Ulchi Freedom Shield drills push Korean Peninsula to 'brink' of war】North Korea's state news agency KCNA said in a commentary on the 19th that the U.S.-South Korea Ulchi Freedom Shield joint exercises constitute a direct threat to Pyongyang and the regional security environment, pushing the Korean Peninsula again to a critical point close to war. KCNA said the exercises are becoming progressively more dangerous—escalating in content, form, scale and training methods—to increase wartime realism, secure an advantage in the peninsula and the region, and that South Korea is being turned into a staging ground and rehearsal site for multinational invasion forces.
+
+---
+
+### 2026-08-19 07:06:16  #其他
+
+朝中社19日發表評論說，“乙支自由之盾”美韓聯合軍演對朝鮮及地區的安全環境構成直接威脅，使本就惡劣的朝鮮半島局勢再次瀕臨戰爭爆發的“臨界點”。（新華社）
+
+---
+
+### 2026-08-19 07:05:33  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Extends Gains on Healthcare Stocks Boost — New Zealand's stocks rose 33 points, or 0.2%, to 13,899 in Wednesday morning deals, extending gains from the previous session, mainly buoyed by gains in healthcare, real estate, and industrials. Optimism over earnings results continued to lift sentiment, with EBOS Group, Fletcher Building, and Spark New Zealand set to release their earnings reports later today. However, a downbeat session on Wall Street overnight, due to a selloff in chipmaker-related stocks, rising Treasury yields, and higher oil prices, capped gains. On the data front, New Zealand's input and output prices rose 2.9% and 1.6%, respectively, quarter-on-quarter in Q2, marking the fastest increases since Q1 2025. EBOS Group surged 4.1% after reporting a 4.7% rise in net profit for FY 2026, while Fletcher Building jumped 4.8% after the company recorded a profit following a loss in the previous quarter. Other early gainers included Gentrack Group (1.3%) and Fisher & Paykel (0.4%).
 
 ---
 
@@ -19247,101 +19277,5 @@ Refinitiv: Uranium miner NexGen Energy said it is sharing technical information 
 ### 2026-08-17 22:24:12  #公司
 
 【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。
-
----
-
-### 2026-08-17 22:23:36  #其他
-
-厄瓜多7月消費者價格環比下降0.09%。
-
----
-
-### 2026-08-17 22:23:24  #市場
-
-紐約期金日內漲1%，現報4481.81美元/盎司。
-
----
-
-### 2026-08-17 22:23:19  #市場 #焦點
-
-紐約期金突破4480美元/盎司，日內漲0.96%。
-
----
-
-### 2026-08-17 22:23:11  #國際
-
-【以色列總理與庫什納會晤 討論加沙下階段安排】當地時間17日，以色列總理內塔尼亞胡與來訪的美國總統特朗普的女婿庫什納、“和平委員會”高階官員會晤。據悉，雙方的會談持續了約4個小時。相關政治訊息人士稱，雙方重點討論了加沙下一階段的安排。雙方同意：在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）完全解除武裝之前，加沙地帶不會進行任何重建；哈馬斯必須在監督下交出所有武器並進行銷燬，同時以色列國防軍仍有行動自由，以持續進行針對性打擊，這是實現加沙地帶非軍事化的第一步；此外，在加沙實施必要衛生措施，以防止疫情蔓延。（央視新聞）
-
----
-
-### 2026-08-17 22:23:02  #MKT News
-
-The Jerusalem Post, citing sources, reported Israel and the US have agreed that in the initial phase of disarming Hamas, weapons surrendered by Hamas will be destroyed by an international stabilization force led by US Major General Jasper Jeffers, rather than handed to the proposed Palestinian technocratic government (NCAG).
-
----
-
-### 2026-08-17 22:22:34  #市場 #焦點
-
-滬銀2610成交額已超330億元，盤面短線上漲，最新報16145元/千克，漲幅0.91%，日內增倉近5400手，量倉活躍度同步抬升。
-
----
-
-### 2026-08-17 22:22:32  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver futures 2610 trading value has exceeded CNY33.0 bln; the contract is trading at CNY16,145/kg, up 0.91% intraday. Open interest rose by nearly 5,400 contracts, with volume and OI climbing in tandem.
-
----
-
-### 2026-08-17 22:21:54  #市場 #焦點
-
-現貨黃金突破4420美元/盎司，日內漲1.04%。
-
----
-
-### 2026-08-17 22:21:31  #公司 #市場
-
-【愛麗家居：8月18日開市起復牌 提示交易風險】愛麗家居公告稱，公司股票於2026年8月18日開市起復牌。2026年7月21日至8月10日期間公司股票累計11個交易日漲停，累計漲幅達185.56%，截至8月10日靜態市盈率385.03倍，遠高於行業28.40倍的估值水平，嚴重偏離基本面。公司預計2026年半年度歸母淨虧損3450萬元至4050萬元。目前擬現金收購歐康諾不低於77.08%股權的相關正式協議尚未簽署，尚需股東會審議，交易存在不確定性。
-
----
-
-### 2026-08-17 22:21:13  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-British American Tobacco Stock Price Hits 4-week Low — British American Tobacco shares decreased to 4135.00 GBp, the lowest since July 2026. Over the past 4 weeks, British American Tobacco lost 11.21%, and in the last 12 months, it decreased 2.88%.
-
----
-
-### 2026-08-17 22:20:23  #其他
-
-【無人車正在成為物流新運力 網約無人車來了】今年3月，深圳在全國率先向功能型無人車開放夜間路權。短短幾個月，無人配送從少數企業的嘗試，逐漸走進更多物流場景。深夜，深圳龍華勝立轉運中心依舊燈火通明。這裡每天日均吞吐量約15萬票，夜間每天執行60趟無人車，平均每10分鐘發出一趟。 [話筒]在深圳福田樞紐，全國首創的“無人車+地鐵”同城配送新模式已經開啟。無人車從網點裝滿快件後，駛入地鐵站口。經過標準化處理，貨箱被裝入地鐵11號線物流車廂，人貨分離、互不干擾。 無人車到達一般只需要十幾分鍾，門店之間調撥貨品更加方便，運營成本預計下降約30%。 資料顯示，7月深圳功能型無人車夜間行駛里程約4萬公里，夜間開通線路達到437條，環比增長32%；投入夜間運營車輛172臺，環比增長60%。廣東深圳交通運輸局智慧交通處一級主任科員曾乾瑜表示，隨著路網路權開放和技術成熟度提升，無人車將逐步觸達城市更多角落，並引導日間物流向夜間物流轉變。（央視財經）
-
----
-
-### 2026-08-17 22:19:51  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose more than 1% intraday, breaking above $4,420/oz.
-
----
-
-### 2026-08-17 22:19:28  #其他
-
-幣安：截至12月31日，國際使用者可使用幣安APP掃描DK銀行現有二維碼，符合條件的購匯交易可享零手續費。
-
----
-
-### 2026-08-17 22:18:39  #國際
-
-市場訊息：英國首相遭遇惡作劇電話事件後，白宮否認特朗普的首席顧問蘇西・懷爾斯的手機再度遭到駭客入侵。
-
----
-
-### 2026-08-17 22:18:14  #公司
-
-【*ST網達：2026年半年度營收1.75億元 同比增36.95%】*ST網達公告稱，2026年半年度實現營業收入1.75億元，同比增長36.95%；歸屬於上市公司股東的淨虧損1205.32萬元，上年同期為盈利482.38萬元。報告期內無利潤分配或公積金轉增股本預案，截至報告期末公司回購專用證券賬戶持有253.96萬股無限售條件流通股，佔公司總股本的0.94%。
-
----
-
-### 2026-08-17 22:18:02  #公司
-
-【*ST海華：2026年上半年營收1.90億元 淨虧損1427.76萬元】*ST海華公告稱，2026年上半年公司實現營業收入1.90億元，同比增長68.24%；歸屬於上市公司股東的淨利潤為-1427.76萬元，淨虧損1427.76萬元，上年同期淨虧損217.71萬元。2026年1月5日公司完成控股股東及實際控制人變更，新控股股東為朗寧宜和(杭州)企業管理合夥企業(有限合夥)，新實際控制人為祝鎵陽、佔舜迪、張棟。本報告期無利潤分配預案或公積金轉增股本預案。
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:36:47_
-_本檔包含 3208 則快訊，約 624743 字_
+_更新時間：2026-08-20 05:55:59_
+_本檔包含 3205 則快訊，約 625800 字_
+
+---
+
+### 2026-08-14 08:56:26  #公司
+
+【德賽電池：子公司鈉離子電池產品已實現兆瓦級交付】德賽電池(000049)8月14日在互動平臺表示，公司子公司湖南電池開展了鈉離子電池產品的研發與試製，鈉離子電池產品已實現兆瓦級的交付。
+
+---
+
+### 2026-08-14 08:55:28  #其他
+
+【颱風“白海豚”殘渦繼續東移 江南江淮等地仍有強降雨】8月14日至16日，隨著颱風“白海豚”殘渦東移，冷空氣南下，強降雨的範圍將不斷向東收縮，總體呈現減弱態勢，但在浙江、福建等地仍會有大到暴雨。同時，受冷空氣和陰雨天氣的共同影響，今明兩天，江南、華南等地部分地區高溫將明顯消減，但17日前後，隨著副熱帶高壓加強西伸，長江中下游一帶的高溫暑熱天氣又將返場，悶熱感迴歸。
+
+---
+
+### 2026-08-14 08:55:15  #MKT News
+
+【SMIC co-CEO Zhao Haijun: Q2 wafer ASP +5.7% QoQ】China's SMIC said Q2 wafer shipments rose 14.4% QoQ and wafer average selling price increased 5.7% QoQ, lifting single-quarter revenue above $3bn and delivering strong YoY and QoQ gains across core operating metrics; SMIC attributed shipment growth to AI-driven demand for supporting chips and customer pull‑ins. The company added capacity equivalent to 8,000 12‑inch wafers per month in the quarter; capacity utilization was 93.7%, up 0.6 ppt QoQ.
+
+---
+
+### 2026-08-14 08:54:19  #MKT News
+
+【Trump authorizes US Navy to build ships overseas】White House on Aug. 14 said President Trump has authorized the US Navy to construct ships overseas and ordered the Navy to abandon the electromagnetic aircraft-launch system (EMALS) on new carriers, reverting to steam catapults. A national security memorandum directs a design change to the fourth Ford-class carrier to drop EMALS used on the first three ships; the change is estimated to cost several hundred mln dlr.
+
+---
+
+### 2026-08-14 08:53:59  #公司
+
+【中芯國際趙海軍：二季度晶圓平均銷售單價環比提升5.7%】8月14日上午，中芯國際聯合CEO趙海軍在二季度業績會上介紹，二季度，公司晶圓量價齊升，單季收入突破三十億美元，各項核心經營資料同比與環比均實現了大幅增長。其中，出貨量環比增加了14.4%，晶圓平均銷售單價環比提升了5.7%；出貨量的增加主要源於人工智慧對配套晶片需求的激增與客戶的提拉出貨。當季公司新增晶圓8000片摺合12英寸月產能；產能利用率為93.7%，環比增長0.6個百分點。
+
+---
+
+### 2026-08-14 08:53:28  #MKT News #Market Themes #Chip Wars #0981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun expects Q3 wafer shipments to continue rising and wafer prices to remain stable.
+
+---
+
+### 2026-08-14 08:53:26  #國際
+
+【特朗普允許美海軍海外建造艦船】白宮當地時間8月14日宣佈，美國總統特朗普已允許美國海軍在海外建造艦船，並下令海軍在新建艦船時放棄電磁彈射系統，重新啟用蒸汽彈射技術。特朗普簽署的國家安全備忘錄要求，對“福特”級航母的四號艦進行設計變更，棄用前三艘艦所採用的電磁彈射系統。據估計，這一設計變更將耗資數億美元。
+
+---
+
+### 2026-08-14 08:52:59  #公司
+
+中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。
+
+---
+
+### 2026-08-14 08:52:06  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far.
 
 ---
 
@@ -19285,77 +19339,5 @@ Iraqi news agency said Iraq's intelligence service arrested four people in Baghd
 ### 2026-08-13 06:00:03  #市場 #焦點
 
 WTI原油突破83美元/桶，日內跌0.70%。
-
----
-
-### 2026-08-13 05:54:58  #國際
-
-【特朗普簽署備忘錄，針對跨國網路犯罪】據白宮情況說明檔案，特朗普今日簽署一份國家安全總統備忘錄，“授權美國聯邦執法機構使用網路工具，打擊設立於境外司法管轄區的跨國犯罪組織”。備忘錄指示國土安全特別工作組下屬國家網路指揮中心開展網路行動，打擊境外跨國犯罪組織。該備忘錄建立一套機制，允許私營企業與政府機構簽署協議，收集威脅情報，並提議開展網路行動以應對上述威脅。
-
----
-
-### 2026-08-13 05:54:25  #其他
-
-【庫克群島舉行議會選舉】當地時間12日，南太平洋島國庫克群島舉行新一屆議會選舉。據悉，投票自當天9時開始至18時結束。一名獨立議員因7月中旬提名截止時沒有其他競爭對手參選，自動獲得連任。其餘62名候選人將角逐議會剩餘23個席位。庫克群島陸地面積240平方公里，由15個小島組成。議會實行一院制，立法會議由經普選產生的24名議員組成，任期4年。議會選舉中獲得多數席位的政黨或聯盟負責組建新一屆政府。
-
----
-
-### 2026-08-13 05:52:17  #央行 #國際
-
-【美聯儲料維持準備金管理購買節奏】美聯儲預計將在週四公佈新一期準備金管理購買計劃時，繼續安排下一階段的國庫券購買。隨著未來數月流動性預計減少，決策者希望藉此充實準備金。巴克萊和德意志銀行等機構的策略師預計，除到期證券再投資購買外，美聯儲還將買入100億美元國庫券。同時，美國銀行認為，為抵消供應增加可能帶來的融資壓力，美聯儲可能將準備金管理購買規模提高至150億美元，不過也存在較大可能至少到9月中旬之前仍維持現有規模不變。
-
----
-
-### 2026-08-13 05:47:06  #MKT News
-
-White House says Trump signed a memorandum authorizing US law enforcement to use cyber tools to target criminal organizations operating in foreign jurisdictions.
-
----
-
-### 2026-08-13 05:46:03  #國際
-
-白宮：特朗普簽署備忘錄，授權美國執法部門利用網路工具擾亂活躍於境外司法管轄區的犯罪組織。
-
----
-
-### 2026-08-13 05:45:52  #國際
-
-特朗普簽署行政令，打擊境外網路犯罪網路。
-
----
-
-### 2026-08-13 05:45:27  #市場
-
-【估值低位疊加資金佈局 消費板塊迎結構性機會】近期市場風格出現再平衡，消費板塊重新獲得資金關注。中證主要消費指數7月以來累計上漲近10%。消費主題ETF規模近期也持續增長。業內人士認為，當前消費行情更多體現為資金配置再平衡和估值修復預期升溫，後續板塊表現仍需觀察內需恢復和企業盈利改善情況。從投資方向來看，傳統消費龍頭修復、消費品出海及新消費場景成為機構關注重點。（上證報）
-
----
-
-### 2026-08-13 05:44:40  #市場
-
-【高比例分紅難敵行情低迷 REITs吸引力有待進一步提升】8月12日，4只REITs產品在同一天進行場內分紅除息，分紅比例均超過99%。據統計，按照除息日（場內）口徑，今年已有超過70只REITs開啟分紅，其中七成以上的單次分紅規模佔可分配利潤比重超過99%。從二級市場表現來看，截至8月12日收盤，全市場88只已上市REITs中，約八成今年以來收跌，部分REITs跌幅甚至超過40%。即便是今年有過分紅的產品，收跌的產品數量比例也超過80%。 有業內人士分析，高比例分紅確實是REITs產品的一個重要特點，因此這類產品被不少投資者尤其是機構投資者視為類固收資產。不過，比起分紅比例，派息率（可分配金額/市值）以及填息效應其實是更應該關注的指標。對於REITs二級市場的表現，除了受底層資產經營情況影響外，也會因流動性不足而難以吸引資金青睞。（中證報）
-
----
-
-### 2026-08-13 05:43:35  #公司 #市場
-
-【從板塊輪動中脫穎而出 超70只基金淨值創歷史新高】最近，AI概念大漲後市場陷入震盪，板塊快速輪動，無論是股價高位的CPO、PCB等科技板塊，還是低位的地產、白酒、醫藥板塊，同步迎來力度可觀的修復反彈。 賽道回暖帶動科技主題基金淨值持續回血，逐步向前期高點靠攏；不少前期深度回撥的基金亦順勢走出爬坑行情。截至8月11日，超70只來自方正富邦基金、萬家基金、國投瑞銀基金等公司的產品穿越了市場的極致分化，淨值創出歷史新高，有的年內大漲超50%，有的靠均衡防守穩穩爬坡。（證券時報）
-
----
-
-### 2026-08-13 05:42:32  #MKT News
-
-Venezuelan central bank reports July inflation at 19.9%.
-
----
-
-### 2026-08-13 05:39:16  #央行 #其他
-
-委內瑞拉央行：7月通脹率達19.9%。
-
----
-
-### 2026-08-13 05:37:57  #其他
-
-中國地震臺網正式測定：08月13日05時28分在青海海南州興海縣（北緯35.28度，東經99.54度）發生3.7級地震，震源深度10千米。
 
 ---
