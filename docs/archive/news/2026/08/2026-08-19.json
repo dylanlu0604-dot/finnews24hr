@@ -1,7 +1,85 @@
 {
   "date": "2026-08-19",
-  "count": 3087,
+  "count": 3096,
   "items": [
+    {
+      "id": "te:markets:576570",
+      "time": "2026-08-19 23:53:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Rises to 2-Month High — Silver prices rose to $65.5 per ounce on Wednesday, the highest in two months, after the US Treasury announced that it would double its buyback operations on long-term securities. The measure triggered a sharp decline in longer-term Treasury yields, aligned with other efforts to limit pressure the long-end of the curve by the department, such as intervening on the yen market and calling on the Federal Reserve to increase limits on the FIMA facility. Lower borrowing costs improve the appeal of holding precious metals that bear no interest payments. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th."
+    },
+    {
+      "id": "te:markets:576569",
+      "time": "2026-08-19 23:53:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Rises to Over 3-Week High — Wheat climbed to around $6.80 per bushel, moving toward the two-year high of $7.08 reached on July 22, as renewed concerns over Black Sea export disruptions supported the market. Continued Russian and Ukrainian attacks on shipping severely disrupted regional grain flows, with Ukraine’s agricultural exports falling sharply during the first half of August. Traders are increasingly concerned that prolonged restrictions on Black Sea ports could significantly reduce Ukrainian wheat shipments during the 2026/27 season. Ukraine’s wheat exports could fall to between 5 million and 10 million metric tons if attacks continue to restrict access to key ports. Wheat has also benefited from firmer soybean and corn prices, while ongoing geopolitical tensions are keeping global supply risks in focus. Although some traders have recently taken profits following the earlier rally, the disruption to Black Sea exports continues to provide an important floor for prices."
+    },
+    {
+      "id": "5048389",
+      "time": "2026-08-19 23:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中非共和國一金礦滑坡 逾百人遇難】據喀麥隆國家廣播電臺19日報道，中非共和國西部邊境地區一處金礦18日發生滑坡，初步統計已有逾百人遇難。（新華社）"
+    },
+    {
+      "id": "mkt:01a01ab9-2dee-7aab-909d-078727de011e",
+      "time": "2026-08-19 23:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the U.S. has removed some trade frictions with Canada over the past year."
+    },
+    {
+      "id": "5048388",
+      "time": "2026-08-19 23:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾表示，美國在過去一年中已消除了與加拿大之間的一些摩擦因素。"
+    },
+    {
+      "id": "5048386",
+      "time": "2026-08-19 23:50:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美機構警告不明駭客攻擊西門子水務基礎設施裝置】美國政府機構週三發出警告，身份不明的駭客正試圖入侵用於監控、運維水務設施及其他關鍵基礎設施的西門子裝置。近幾周，多個州的地方水務系統接連遭遇網路攻擊，網路安全專家懷疑襲擊與伊朗有關，此次警示便在此背景下發布。該預警並未鎖定這些企圖入侵西門子裝置的幕後駭客身份。"
+    },
+    {
+      "id": "mkt:01a01ab7-a6d1-7aab-909c-fcafc2721144",
+      "time": "2026-08-19 23:50:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the agreement with Canada will protect U.S. workers, jobs and supply chains and bolster the North American economy."
+    },
+    {
+      "id": "5048385",
+      "time": "2026-08-19 23:50:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾表示，與加拿大達成的協議將保護美國工人、就業崗位和供應鏈，並提振北美經濟。"
+    },
+    {
+      "id": "5048384",
+      "time": "2026-08-19 23:50:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易事務的加拿大部長表示，我們對乳製品供應體系維持強硬立場。"
+    },
     {
       "id": "mkt:01a01ab6-9bab-7aab-909c-f286410f4346",
       "time": "2026-08-19 23:49:29",
