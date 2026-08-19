@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:55:59_
-_本檔包含 3205 則快訊，約 625800 字_
+_更新時間：2026-08-20 06:34:46_
+_本檔包含 3224 則快訊，約 626744 字_
+
+---
+
+### 2026-08-14 09:10:18  #公司
+
+【A股停牌提示：4股今日停牌】Wind資料顯示，8月14日，鴻特科技、瓦軸B、愛麗家居等4只個股停牌。
+
+---
+
+### 2026-08-14 09:10:12  #MKT News #Commodities #Industrial Metals
+
+Front-month coking coal futures rose more than 2.0% intraday to 1,347 yuan/ton.
+
+---
+
+### 2026-08-14 09:08:42  #公司
+
+【中芯國際趙海軍：客戶提前拉貨抵消了部分終端下行影響】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季晶圓收入以應用來看，智慧手機、電腦與平板、消費電子、互聯與可穿戴、工業與汽車收入佔比分別為17%、16%、44%、7%、17%，絕對值環比均有所提升。公司將產能更多調配給需求緊缺的領域，使得人工智慧配套、電腦與平板、工業與汽車收入絕對值環比增長在四成左右。其他應用，雖然終端整體下行，但客戶的提前拉貨抵消了部分影響，使得手機、消費、互聯與可穿戴收入絕對值實現了8%、16%和13%的成長。
+
+---
+
+### 2026-08-14 09:08:27  #MKT News #UBER.N #Impact bullish #02026.HK
+
+Pony.ai-W (02026.HK): Uber (UBER.N) expands cooperation with Pony.ai, planning to deploy over 2,000 robotaxis across five European cities.
+
+---
+
+### 2026-08-14 09:08:21  #MKT News #02026.HK #Impact bullish #UBER.O
+
+Pony.ai-W (02026.HK) to expand cooperation with Uber and deploy more than 2,000 autonomous taxis in Europe.
+
+---
+
+### 2026-08-14 09:07:48  #公司 #國際
+
+【中國小馬智行與優步將聯合在歐洲部署2,000多輛機器人計程車】中國自動駕駛公司小馬智行週五宣佈，計劃在與優步（Uber） 擴大合作框架下，在歐洲部署超過2,000輛自動駕駛計程車。據該公司宣告稱，這項始於2025年5月的合作將從目前在克羅埃西亞首都薩格勒布運營的商用自動駕駛計程車服務，擴充套件至歐洲的四個未公開名稱的城市。宣告未透露該部署計劃的具體完成時間表。宣告稱，此次合作擴充套件計劃還包括中東地區，但未提供進一步細節。
+
+---
+
+### 2026-08-14 09:07:44  #經濟數據 #中國
+
+【今年前7月蘇州工業園區進出口值首破萬億元】據新華日報，記者8月13日從蘇州工業園區海關獲悉，今年前7個月，蘇州工業園區外貿進出口值歷史首次突破1萬億元大關，達1.02萬億元，同比增長126.8%，規模超2025年全年。其中，儲存器、光模組等AI算力硬體產品佔比過半。
+
+---
+
+### 2026-08-14 09:07:19  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude rose above $86/bbl, up 0.18% on the day.
+
+---
+
+### 2026-08-14 09:06:48  #MKT News #Important #Market Themes #Chip Wars #981.HK #Impact bullish
+
+SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers.
+
+---
+
+### 2026-08-14 09:06:48  #國際
+
+【小馬智行與Uber擴大合作，計劃在歐洲5城部署超2000輛Robotaxi】8月14日，小馬智行與全球出行平臺Uber宣佈，雙方進一步擴大戰略合作，將在歐洲5個城市部署超過2000輛小馬智行Robotaxi。
+
+---
+
+### 2026-08-14 09:06:17  #公司 #市場 #國際
+
+【韓華海洋股價大漲，特朗普備忘錄為外國船廠建造美國海軍艦艇開啟口子】韓國韓華海洋週五早盤股價最高上漲 9.6%，創下六週盤中新高。美國總統特朗普指示美國戰爭部推進採購方案：外國造船企業若在美國本土船廠投資，最多可在其母公司船廠建造兩艘美軍艦艇，該計劃旨在擴大美國造船產能。該政策載於週四簽署的總統備忘錄及配套情況說明書，適用於兩類外國企業：在美國新建船廠，或是收購現有美國船廠、取得其多數股權的企業；後續艦艇則必須在美國本土建造。
+
+---
+
+### 2026-08-14 09:06:05  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
+
+【SMIC co-CEO Zhao Haijun: Q2 saw return of overseas orders; localized manufacturing strengthened】At SMIC's Q2 earnings meeting, co-CEO Zhao Haijun said sales by region were China 90%, the US 8% and Eurasia 2%. Revenues rose in all regions; China led with a 22% increase driven by strong demand for AI-related chips, return of overseas orders and expanded localized manufacturing. Wafer revenue by diameter was 12‑inch 78% and 8‑inch 22%; 12‑inch wafer revenue rose 24% QoQ and 8‑inch wafer revenue rose 11% QoQ.
+
+---
+
+### 2026-08-14 09:06:04  #公司
+
+【漢威科技等在上海成立智聯科技新公司】人民財訊8月14日電，企查查APP顯示，近日，上海漢宸智聯科技有限公司成立，經營範圍包含智慧儀器儀表銷售；工業自動控制系統裝置銷售；儀器儀表銷售；貨物進出口等。企查查股權穿透顯示，該公司由漢威科技等共同持股。
+
+---
+
+### 2026-08-14 09:05:26  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot silver fell 1.00% intraday to $63.81/oz.
+
+---
+
+### 2026-08-14 09:05:17  #市場 #焦點
+
+現貨黃金失守4330美元/盎司，日內跌0.49%。
+
+---
+
+### 2026-08-14 09:04:51  #國際
+
+小馬智行與優步擴大合作，將在歐洲部署超2000輛自動駕駛計程車。
+
+---
+
+### 2026-08-14 09:04:17  #公司
+
+【雷士照明與星網天合達成戰略合作 ，共建智慧空間一體化解決方案】國內照明行業品牌雷士照明與全球ICT+AIoT智慧空間解決方案提供商星網天合正式簽署戰略合作協議。雙方將圍繞智慧家居與智慧商用兩大板塊，以健康好光、AI與IoT能力的融合，推動智慧空間從單點裝置聯動走向一體化交付，從“連線空間”走向“理解人”，打造主動服務的智慧生活體驗。星網天合是星網銳捷的控股子公司。星網天合深耕智慧家庭、社群、園區等領域，與超100家知名房企達成合作，智慧社群批次前裝市場份額穩居前三。雷士照明擁有源自中國航天照明科技實驗室的伴生適然光技術，2026年4月啟動健康光源共享計劃，將核心健康光技術向全行業開放共享。（新浪科技）
+
+---
+
+### 2026-08-14 09:04:16  #MKT News #02026.HK #Impact bullish
+
+Pony.ai-W (02026.HK) will expand its existing commercial services in Zagreb to four additional European cities.
+
+---
+
+### 2026-08-14 09:03:19  #國際
+
+蓋洛普民調：韓國總統李在明支援率跌至創紀錄的44%。
+
+---
+
+### 2026-08-14 09:03:11  #MKT News #Commodities #Precious Metals
+
+Platinum most-active contract fell more than 3% to 419.8 yuan/gram.
+
+---
+
+### 2026-08-14 09:02:31  #其他
+
+【國家郵政局：加快構建與中國式現代化相適應的寄遞物流體系】8月13日，國家郵政局召開黨組會議，聽取2026年7月行業安全穩定形勢分析情況的彙報，審議《郵政管理系統加強新時代廉潔文化建設行動計劃》等檔案，研究樹立和踐行正確政績觀學習教育工作。會議強調，全系統要切實把思想和行動統一到黨中央關於當前經濟形勢的分析判斷和對經濟工作的決策部署上來，著力推動郵政快遞業持續向新向優向好發展，努力實現“十五五”良好開局。要積極搶抓“六張網”規劃建設、深入實施“兩重”“兩新”專案等戰略機遇，深化拓展郵政快遞服務場景，加快構建與中國式現代化相適應的寄遞物流體系，奮力譜寫加快建設交通強國郵政篇。
+
+---
+
+### 2026-08-14 09:02:24  #公司 #國際
+
+【中芯國際趙海軍：二季度海外訂單迴流 在地化製造繼續加強】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季銷售收入以地區分類看，中國區、美國區、歐亞區佔比分別為90%、8%和2%，從金額看均有增加，其中中國區增長幅度最大，達22%，主要原因為人工智慧配套晶片需求旺盛，海外訂單迴流，以及在地化製造繼續加強。晶圓收入按尺寸分，十二英寸和八英寸佔比分別為78%和22%；從金額來看，12英寸晶圓收入環比增長24%，8英寸晶圓收入環比增長11%。
+
+---
+
+### 2026-08-14 09:02:17  #公司
+
+中芯國際聯席CEO：最緊俏產能的晶圓價格已上調。
+
+---
+
+### 2026-08-14 09:01:58  #MKT News
+
+China-South Korea Semiconductor ETF will be suspended from market open on Aug 14, 2026 until 10:30 a.m.
+
+---
+
+### 2026-08-14 09:01:35  #公司
+
+【潤邦股份：目前未承接裂解爐裝置相關業務】潤邦股份(002483)8月14日在互動平臺表示，公司子公司潤邦海洋當前核心業務聚焦於船舶與海洋工程裝備業務。目前公司未承接裂解爐裝置相關業務。
+
+---
+
+### 2026-08-14 09:01:13  #MKT News #Market Regions #Greater China
+
+Taiwan weighted index (TAIEX) opened 332.18 points higher, up 0.72%, at 46,353.66 on Friday, Aug. 14.
+
+---
+
+### 2026-08-14 09:00:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D opened Friday Aug 14 down 1.38% at 941.31 yuan/gram; silver T+D opened down 2.05% at 15,605 yuan/kg.
+
+---
+
+### 2026-08-14 09:00:51  #MKT News #Market Themes #Chip Wars
+
+SMIC co-CEO Zhao Haijun said wafers that began processing or rolled off the line in Q3 were priced under a new pricing scheme.
+
+---
+
+### 2026-08-14 09:00:41  #其他
+
+【8月13日471股獲融資買入超億元 中際旭創穫買入42.70億元居首】8月13日共有3518只個股獲融資資金買入，有471股買入金額超億元。其中，中際旭創、兆易創新、勝宏科技融資買入金額排名前三，分別獲買入42.70億元、35.60億元、24.26億元。
+
+---
+
+### 2026-08-14 09:00:22  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish
+
+At the morning open, China’s main futures contracts were mixed. Coking coal, No.1 soybeans, pulp, live hogs, glass and soda ash rose >1%; palladium fell about 4%, Shanghai silver dropped >2%, and Europe‑route container freight, Shanghai gold, 20# rubber, low‑sulfur fuel oil (LU) and PTA fell >1%.
+
+---
+
+### 2026-08-14 09:00:19  #其他
+
+臺灣證交所加權股價指數開高0.2%報46,103.81。
+
+---
+
+### 2026-08-14 09:00:04  #市場 #焦點
+
+白銀連續主力合約日內跌2%，現報15694.00元。
+
+---
+
+### 2026-08-14 09:00:04  #市場 #焦點
+
+鈀連續主力合約日內跌4%，現報311.20元。
+
+---
+
+### 2026-08-14 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.07%。
+
+---
+
+### 2026-08-14 09:00:02  #市場
+
+【商品期貨開盤】鈀連續跌4.10%，白銀連續跌2.15%，鉑連續跌1.94%，焦煤連續漲1.81%，集運指數歐線期貨連續跌1.70%。
+
+---
+
+### 2026-08-14 08:58:34  #公司
+
+中國中芯國際聯合執行長表示：第三季度生產的晶圓已執行新定價。
+
+---
+
+### 2026-08-14 08:57:23  #公司
+
+【大港股份：目前未涉及算力硬體方面的佈局】大港股份(002077)8月14日在互動平臺表示，公司目前未涉及算力硬體方面的佈局。
+
+---
+
+### 2026-08-14 08:57:20  #公司
+
+【獨家丨國科投資領投ChatGPT核心貢獻者，亮源新創穫數億元Pre-A輪融資】新浪科技獨家獲悉，由ChatGPT核心貢獻者姜旭創立的亮源新創（Light Origins），近期已完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資。 亮源新創成立於2024年底，是一家致力於將大模型能力從數字空間延伸至真實世界，並實現物理AGI的創新企業。據知情人士透露，本輪融資資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設及軟硬體全棧平臺研發，同時公司將進行相應的人才團隊擴張。（新浪科技）
 
 ---
 
@@ -19225,119 +19453,5 @@ The Wall Street Journal, citing people familiar with the matter, reports Apple (
 ### 2026-08-13 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1%) and Gold (0.70%). Biggest loser is Aluminum Alloy (-0.66%).
-
----
-
-### 2026-08-13 06:34:32  #MKT News #F.N #Impact bullish
-
-Ford Motor (F.N) plans to increase U.S. production of Lincoln models starting in 2030.
-
----
-
-### 2026-08-13 06:34:05  #其他
-
-蘋果正洽談向出版商付費以改進人工智慧驅動的Siri。
-
----
-
-### 2026-08-13 06:33:56  #MKT News #Important #AAPL.O #Impact mixed
-
-Wall Street Journal sources say Apple (AAPL.O) is seeking new deals with publishers to use their content to develop its AI voice assistant Siri.
-
----
-
-### 2026-08-13 06:33:23  #其他
-
-蘋果已就向合作出版商支付款項的九位數預算展開討論。
-
----
-
-### 2026-08-13 06:31:21  #其他
-
-哥倫比亞總統德拉埃斯普列利亞宣佈地震後（該國）進入經濟緊急狀態。
-
----
-
-### 2026-08-13 06:30:56  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Oil slips after five-day rally; traders watch Strait of Hormuz as IEA warns 1.8 mln bpd shortfall】Oil eased after a five-day rally, with WTI sliding below $82/bbl and Brent briefly dipping under $87 after a cumulative five-day gain of about 11%. Traders are waiting for signs of progress on reopening the Strait of Hormuz; there has been little movement and Trump said the US has "complete control" of the waterway. The IEA said that with the US‑Iran war continuing the global oil market faces roughly a 1.8 mln bpd supply gap this quarter—more than double its prior estimate—and warned 2026 could see the largest shortfall in five years. The American Automobile Association said US gasoline and diesel prices are at their highest for this time of year.
-
----
-
-### 2026-08-13 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Gains by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas UK (3.13%) and Natural Gas EU (2.50%). Biggest losers are Methanol (-2.25%), Naphtha (-1.56%), Crude Oil WTI (-0.57%) and Brent Crude Oil (-0.47%).
-
----
-
-### 2026-08-13 06:29:33  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【Codelco abandons copper output growth target after mine and project setbacks】Chile's state miner Codelco has abandoned a plan to raise this year's copper output to 1.34 mln t from last year's revised 1.307 mln t and now expects production to decline, sources said. The company ceded the world's top supplier spot to BHP last year; another annual drop would compound decades of weak output and soaring debt. Surging demand from data centers and electric vehicles is increasing development difficulty and costs, and Codelco's efforts to reform ageing assets have shown little progress, underscoring broader industry supply challenges.
-
----
-
-### 2026-08-13 06:29:22  #國際
-
-福特：預計增產將在美國創造數千個直接和間接就業崗位。
-
----
-
-### 2026-08-13 06:21:32  #其他
-
-哥倫比亞總統德拉埃斯普列利亞表示，地震已造成265人死亡，另有496人仍下落不明。
-
----
-
-### 2026-08-13 06:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swedish Krona Drops by 0.64% — Top currency losers are Swedish Krona (-0.64%), New Zealand Dollar (-0.39%), South Korean Won (-0.37%), Euro (-0.15%), British Pound (-0.11%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.15%).
-
----
-
-### 2026-08-13 06:14:48  #公司 #市場
-
-【思科業績超華爾街預期 惟仍達不到投資者的期望】思科系統公司季度營收和利潤均超出預期，但未能滿足投資者被其前一季火爆業績吊起的胃口。該公司週三表示，營收在截至7月的第四財季同比增長18%達到173億美元。不計部分專案的每股收益報1.22美元。分析師此前預測的營收為168億美元，每股收益則在1.17美元。該股在紐約收於123.88美元，接著在盤後交易中下跌約5%。思科過去三個月上漲了近25%，因投資者認為其聚焦人工智慧的新戰略將帶來更強勁的銷售增長。全球最大的網路裝置製造商思科一直在進行重組，以期在全球人工智慧資料中心建設熱潮中獲得更多合同。這一新戰略幫助該公司爭取到了更多客戶。但它也面臨著來自博通和惠普等企業日益激烈的競爭，且投資者對其裝置從AI熱中獲利寄予厚望。第四財季的業績令思科對未來營收和獲利的強勁預期黯然失色。該公司在公告中預計，截至10月的第一財季營收將介於180億至182億美元。分析師的平均預估為168億美元。剔除部分專案的每股收益料在1.32至1.34美元，也高於市場預計的1.17美元。行業研究分析師Woo Jin Ho在報告中寫道：“我們預計人工智慧的勢頭將保持強勁。”
-
----
-
-### 2026-08-13 06:12:45  #公司 #市場
-
-【晶片製造商Cerebras硬體銷售下滑 盤後股價大跌】Cerebras Systems Inc.盤後下跌，此前該公司公佈硬體收入下降，顯示這家上市不久的公司在銷售採用新型晶片設計的計算機方面進展緩慢。該公司週三在宣告中表示，硬體銷售同比下降23%，至5410萬美元。這份財報的亮點在於，該公司利用其技術提供AI算力的雲業務部門收入飆升近三倍，達到1.26億美元。這份業績給投資者呈現出喜憂參半的局面。自5月首次公開募股以來，Cerebras股價累計上漲42%。該公司將自己定位為英偉達在AI晶片領域的挑戰者，但如今最大收入來源卻是雲端計算。財報公佈後，Cerebras股價下跌約14%。
-
----
-
-### 2026-08-13 06:12:09  #公司 #國際
-
-福特汽車CEO：計劃2030年將部分林肯車型生產轉移至美國。
-
----
-
-### 2026-08-13 06:06:57  #國際
-
-【伊朗拖美國入不對稱戰爭 “蝴蝶效應”波及日本捲簾門】當地時間12日，美國總統特朗普稱，美國已“完全控制霍爾木茲海峽”，這是特朗普3日內第二次宣稱控制該海峽。同日，伊朗方面駁斥相關言論稱，美方反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實，霍爾木茲海峽仍然關閉。國際能源署當天釋出報告稱，受海峽持續關閉、燃料價格高企以及中東局勢影響，全球石油供需受到明顯衝擊。有分析指出，伊朗戰事越來越向“爛尾”方向發展，在這種情況下，伊朗、美國以及世界經濟都無法承受。伊朗戰事導致的“蝴蝶效應”已波及日本製造業。石腦油是原油提煉過程中的重要衍生品，被廣泛用於製作塑膠、合成纖維、塗料、清洗劑等，與眾多製造業息息相關。受中東局勢影響，日本國內石腦油的供應大幅波動。（央視新聞）
-
----
-
-### 2026-08-13 06:06:14  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。
-
----
-
-### 2026-08-13 06:06:03  #MKT News
-
-Iraqi news agency said Iraq's intelligence service arrested four people in Baghdad and seized more than 20 domestically produced drones.
-
----
-
-### 2026-08-13 06:00:54  #市場 #焦點
-
-現貨黃金突破4410美元/盎司，日內漲0.03%。
-
----
-
-### 2026-08-13 06:00:03  #市場 #焦點
-
-WTI原油突破83美元/桶，日內跌0.70%。
 
 ---

@@ -1,7 +1,190 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:55:59_
-_本檔包含 3192 則快訊，約 625555 字_
+_更新時間：2026-08-20 06:34:46_
+_本檔包含 3194 則快訊，約 627190 字_
+
+---
+
+### 2026-08-19 07:21:09  #公司
+
+【向上遊挺進 光模組產業“嬗變”】日前，中際旭創宣佈擬17.47億元協議受讓中石科技10.47%股權，成為光模組公司向產業鏈上游佈局的又一案例。記者梳理發現，國內外光通訊公司普遍在沿著光元件、光晶片、外延片、襯底材料、高純金屬原材料的產業路線，加速往產業鏈上游佈局。有業內人士在接受記者採訪時表示，光通訊公司紛紛往上游延伸佈局的直接原因是，隨著智算中心（AIDC）對光模組需求的快速增長、技術高速迭代，光晶片成為整個產業鏈的產能瓶頸，也直接決定光模組效能，向上遊佈局的本質是鎖定晶片產能、縮短研發週期，以保障交付能力。從產業鏈價值角度來看，隨著光模組向800G、1.6T甚至3.2T迭代，光晶片的成本佔比快速上升，利潤快速向產業鏈中游的晶片環節集中，向上遊佈局、IDM模式，成為構建長期競爭力的護城河。（上海證券報）
+
+---
+
+### 2026-08-19 07:20:28  #其他
+
+【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。（上海證券報）
+
+---
+
+### 2026-08-19 07:20:01  #其他
+
+【澳大利亞交易報告與分析中心發現多家大型貸款機構存在協同房貸欺詐】據一份宣告，監管機構澳大利亞交易報告與分析中心（AUSTRAC）旗下金融情報聯盟（Fintel Alliance），偵破澳大利亞信貸行業存在協同房貸欺詐行為以及系統性漏洞。該機構對澳大利亞 10 家主要銀行的資料開展聯合分析，發現數億澳元規模的可疑欺詐貸款，相關涉案房產大多位於悉尼。涉嫌房貸欺詐手段包括虛報收入、偽造就職資訊，以及編造、無法核實的經營活動，以此騙取貸款審批。該專項專案還發現，有案件利用境外資金或第三方資金完成房產交割以及償還房貸。此類違規行為並非集中於某一家貸款機構或是某一類借款人群體。反覆出現的風險警示訊號包括：偽造、具有誤導性的檔案；多份貸款申請反覆使用同一批房貸經紀人、會計師以及律所。金融情報聯盟已經將涉嫌涉案的個人及機構名單移交執法部門與監管機構。
+
+---
+
+### 2026-08-19 07:19:44  #國際
+
+【全球資管巨頭二季度持倉“大洗牌” 科技股操作分歧顯著】隨著美國證券交易委員會（SEC）13F持倉檔案披露完成，全球頂級資管機構的投資“路線圖”浮出水面。最新資料顯示，以貝萊德、橋水為代表的華爾街巨頭在科技股，尤其是半導體產業鏈上，展開了激烈的多空博弈，調倉方向涇渭分明。與此同時，太空經濟以及多個AI產業鏈細分賽道正獲得越來越多長線資金的關注。（上海證券報）
+
+---
+
+### 2026-08-19 07:19:04  #其他
+
+【奮達科技聯合銀河通用打造的過載機器人實現量產落地】近日，奮達科技聯合具身智慧企業銀河通用官宣：雙方共同打造的S1過載具身智慧機器人已完成產業化批次交付，正式入駐製造業巨頭動力電池產線。目前，奮達科技與銀河通用正全力推進後續產能擴建與自動化產線升級，共同向更深層次的規模化交付發起衝擊。未來，雙方將繼續深化在硬體工程化、技術標準共建及供應鏈等方面的合作。
+
+---
+
+### 2026-08-19 07:18:41  #國際
+
+【國產動漫加速出海 中國VR體驗走向東南亞】本週，CMG電影文化嘉年華天津專場精彩繼續。今年暑期檔，《八仙！》等多部國產動畫電影上映以來票房穩步走高，口碑持續發酵，並先後登陸海外市場。在天津國家動漫產業綜合示範園，不少動漫企業正透過多元途徑，拓展動漫出海新空間。一家企業的VR裝置體驗專案已經在馬來西亞、越南、印度尼西亞等國落地運營，累計接待人數超過3萬人次，海外營收達500萬元。（央視）
+
+---
+
+### 2026-08-19 07:17:54  #公司
+
+【逾百家A股公司釋出半年度利潤分配方案 合計分紅金額超1000億元】隨著半年報披露步入高峰期，A股上市公司中期分紅預案密集出爐。截至目前，已有上百家公司釋出2026年半年度利潤分配方案，合計分紅金額達1018億元，高於去年同期水平。越來越多上市公司加入中期分紅行列，分紅規模同步走高。南開大學金融學教授田利輝認為，中期分紅走向常態化，將為投資者帶來持股體驗與估值邏輯的雙重變化。推行多次分紅機制，是上市公司用實際行動彰顯對自身現金流穩健性的充足信心，有助於引導市場調整價值評判標尺，逐步擺脫單純追逐淨利潤指標的慣性，更加聚焦企業真實分紅能力與現金回報水平。
+
+---
+
+### 2026-08-19 07:16:50  #其他
+
+【8月以來科技行情逐步修復 主動權益類基金淨值明顯回暖】近期，通訊、電子等科技板塊表現活躍，帶動主動權益類基金淨值大面積回暖，重倉光模組、CPO（共封裝光學）等AI產業鏈的基金漲幅居前。隨著相關板塊漲幅擴大，AI投資正由產業趨勢驅動逐步轉向業績驗證，個股表現和基金業績或進一步分化。業內人士認為，企業投資回報、盈利兌現及估值消化能力或成為後續關注重點。同時，基金持倉趨同可能帶來的淨值波動風險也值得警惕。（上海證券報）
+
+---
+
+### 2026-08-19 07:16:34  #其他
+
+澳大利亞交易報告與分析中心（AUSTRAC）查實多家大型貸款機構出現協同房貸欺詐行為。
+
+---
+
+### 2026-08-19 07:15:17  #其他
+
+【我學者破譯大黃魚錐體蟲基因組 】從福建省農科院獲悉，該院農業質量標準與檢測技術研究所羅士炎研究員團隊牽頭，首次破譯了大黃魚錐體蟲基因組，為危害百億大黃魚產業的寄生蟲繪製一張高精度“基因地圖”，也為尋找致病關鍵基因和潛在防控靶點提供新線索，相關研究成果近日線上發表在學術期刊《科學資料》。
+
+---
+
+### 2026-08-19 07:14:25  #公司
+
+【OpenAI二季度營收67億美元，環比增長18%但虧損擴大】8月19日，據報道，OpenAI第二季度營收67億美元，高於第一季度的57億美元，環比增長18%。與此同時，公司營業利潤率進一步下滑，虧損擴大。部分投資者對這一業績感到失望，原因是OpenAI營收增速落後於競爭對手Anthropic。Anthropic第二季度營收超過115億美元，並首次實現小幅營業盈利。上述業績公佈之際，OpenAI正為備受期待的首次公開募股（IPO）做準備。
+
+---
+
+### 2026-08-19 07:14:08  #MKT News
+
+【Yushu Technology lists on SSE STAR Market】Aug 19 — One IPO listed on the Shanghai Stock Exchange STAR Market: Yushu Technology. Total issue 40.4464 mln shares, including 9.707 mln shares sold via online issuance. IPO price 150.80 yuan/share; issue P/E 219.23x.
+
+---
+
+### 2026-08-19 07:14:07  #MKT News #Commodities #Precious Metals
+
+Spot silver fell below $63/oz, down 0.5% on the day.
+
+---
+
+### 2026-08-19 07:13:44  #MKT News
+
+【UK prime minister confirms messages with impostor posing as White House chief of staff】UK Prime Minister Burnham on Aug. 18 confirmed he exchanged messages with someone impersonating White House chief of staff Susie Wyles. Burnham said the exchanges were very brief, contained no sensitive material, and he reported the incident promptly. US President Trump told reporters on Aug. 17 he viewed it as a "communication misunderstanding" and said he has had several "good talks" with Burnham.
+
+---
+
+### 2026-08-19 07:13:24  #行業
+
+【部分上市銀行上半年業績向好，信貸投放量質齊升】8月18日，南京銀行釋出2026年半年度報告，營業收入、歸母淨利潤雙雙實現超8%的增長。繼浦發銀行、江蘇銀行、重慶銀行、渝農商行等銀行先後披露半年度業績快報、釋放上半年經營向好訊號之後，平安銀行率先交出半年報，拉開A股上市銀行半年報披露的大幕。從目前披露的資訊來看，多家銀行經營表現回暖，信貸投放持續向製造業、綠色金融、普惠小微傾斜，疊加負債端成本精細化管理成效逐步顯現，多重因素有望帶動行業盈利水平修復。（中證報）
+
+---
+
+### 2026-08-19 07:13:22  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、縣鄉消費佔社會消費品零售總額比重穩步提升 引導更多品牌連鎖企業向縣域下沉（權威釋出）
+2、全國碳排放計量技術體系進一步完善 為各行各業綠色低碳轉型提供支撐
+3、中老鐵路貨物運輸突破9000萬噸 開行貨物列車超8萬列
+4、英報告：中國綠色產業發展助力全球低碳轉型
+5、“三五”規劃正式公佈 澳門邁向高質量發展新階段
+6、江蘇出臺舉措助力科技成果轉化
+7、截至去年底，全國開通超1.1萬條服務線路，同比增長約25%——定製客運何以“加速跑”（大資料觀察）
+8、廣東三口岸最佳化“合作查驗，一次放行” 進一步便利粵港澳大灣區人員往來
+9、大豆垂直大模型“豐菽”2.0正式釋出
+10、更好滿足多樣化住房消費需求 住房公積金提取和使用範圍拓寬（經濟聚焦）
+11、“中國洋浦港”籍國際船舶突破100艘
+12、黑龍江啟動人工智慧教育教學研究中心建設
+13、一些國家探索加強適老化數字服務（國際視點）——來自韓國、法國、澳大利亞的實踐
+14、歐洲對華電動汽車認知逆轉的背後（環球走筆）。
+
+---
+
+### 2026-08-19 07:13:13  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、朱鎔基同志遺體在京火化 習近平李強趙樂際王滬寧蔡奇丁薛祥李希韓正等到八寶山革命公墓送別。胡錦濤送花圈表示哀悼 朱鎔基同志病重期間和逝世後，習近平李強趙樂際王滬寧蔡奇丁薛祥李希韓正胡錦濤等同志，前往醫院看望或透過各種形式對朱鎔基同志逝世表示沉痛哀悼並向其親屬表示深切慰問
+2、習近平同厄瓜多總統諾沃亞會談
+3、李強簽署國務院令 公佈《國務院關於修改〈住房公積金管理條例〉的決定》
+4、趙樂際主持召開十四屆全國人大常委會第七十一次委員長會議 決定十四屆全國人大常委會第二十四次會議8月25日至28日在京舉行
+5、前7月 縣鄉消費品零售額佔社零總額比重達39.1%
+6、上半年 機械工業規上企業增加值增長6.4%。
+
+---
+
+### 2026-08-19 07:13:11  #公司
+
+【今日新股上市：上交所科創板宇樹科技】8月19日，共1只新股啟動上市，為上交所科創板的宇樹科技。宇樹科技發行總數4044.64萬股，其中網上發行970.7萬股，IPO首發價為150.80元/股，發行市盈率為219.23倍。宇樹科技成立於2016年8月26日，法定代表人王興興。公司主營高效能通用人形機器人、四足機器人、機器人元件及具身智慧模型的研發、生產和銷售業務。公司控股股東、實際控制人為王興興，直接持股23.8216%，透過特別表決權安排控制公司68.7816%的表決權。此次發行後，有限售條件A股流通股佔比92.5611%，無限售條件A股流通股佔比7.4389%。在戰略配售方面，保薦人相關子公司、發行人高階管理人員與核心員工專項資產管理計劃以及其他戰略投資者參與配售，配售比例為20%。募集資金將主要用於研發投入、產能擴張和市場推廣等方面。2026年1-6月，公司實現營業收入115,224.56萬元，同比增長48.54%；淨利潤27,399.99萬元，去年同期為虧損3,202.45萬元；經營活動產生的現金流量淨額23,154.53萬元，同比下降32.53%。
+
+---
+
+### 2026-08-19 07:13:04  #公司
+
+【A股併購重組聚焦“補鏈強鏈”】截至8月18日，Wind資料顯示，以首次披露日期為口徑，今年以來A股市場超2500家上市公司披露併購重組進展。重組標的集中於半導體、人工智慧、高階裝備、生物醫藥、新能源等戰略性新興產業，精準契合新質生產力發展方向，促進了技術、資本、產業的深度融合。市場人士認為，從研究設立國家級併購基金到常態化實施併購重組“綠色通道”機制，在政策持續推動下，我國併購市場有望延續活躍態勢，符合現代化產業體系建設及新質生產力發展方向的領域成為發力重點，為經濟高質量發展持續注入新動能。（中證報）
+
+---
+
+### 2026-08-19 07:12:37  #公司 #市場 #觀點
+
+【公募REITs增持熱潮湧動，產業方真金白銀護盤】近日，中信建投瀋陽國際軟體園REIT與創金合信首農REIT釋出公告，宣佈原始權益人或關聯方啟動基金份額增持計劃。6月24日以來披露增持計劃的公募REITs已達7只，涵蓋4只產業園REITs和3只商業不動產REITs。產業方密集出手的背後，是公募REITs市場的持續調整。截至8月18日，中證REITs全收益指數報收931.36點，今年以來累計下跌7.77%，產業園REITs跌幅尤為明顯，多隻產品近60日跌幅超25%。業內人士認為，原始權益人集中增持訊號意義積極，短期能帶來增量資金、對沖非理性拋壓；長期看，產業方與投資者利益深度繫結，將推動REITs迴歸價值本源。經過此輪調整，部分REITs估值已回落至具備價效比的區間，配置價值逐步顯現。（中證報）
+
+---
+
+### 2026-08-19 07:12:26  #其他
+
+【“秘密遞表”釋放制度紅利，港交所向全球交易所“搶資產”】截至8月17日，8月僅有13家企業在港交所披露申請版本上市檔案，而7月1日至7月17日，卻有23家企業在港交所披露申請版本上市檔案。這並非赴港IPO降溫了，而是港股上市機制改革落地後的連鎖反應。7月24日，港交所修訂後的《上市規則》生效。本輪改革最受市場關注的變化，是將秘密遞表資格從特定型別企業擴充套件至所有新申請人。業內人士認為，港股IPO未來將呈現“公開遞表少，實際儲備多”的格局。（上證報）
+
+---
+
+### 2026-08-19 07:12:03  #其他
+
+【新系統讓機器人具備真實世界中自主執行任務能力】從成都人形機器人創新中心獲悉，該中心釋出了全球首個複雜語言指令集全自主（無遙控）超長視野機器人任務執行系統，解決了機器人在陌生環境無法自主完成決策規劃的難題，讓機器人擺脫實驗室的“預設擺拍”，走進複雜多變的真實場景中。相關技術已取得發明專利授權。
+
+---
+
+### 2026-08-19 07:11:52  #MKT News
+
+【At Trump's request, US-South Korea Ulchi Freedom Shield exercise ends early; schedule cut by about half】At US President Trump’s request, US and South Korean forces held emergency talks on the 18th and agreed to sharply compress the ongoing Ulchi Freedom Shield exercise. Launched on the 17th and originally scheduled through the 27th in two phases, the drill will end this week after only the first defensive phase (17–21) is conducted; the planned second-phase counterattack exercises (23–27) were canceled. South Korean military sources said US personnel will withdraw after the defensive phase and canceled training items will be replaced by alternative measures; overall training time is reduced by about half.
+
+---
+
+### 2026-08-19 07:11:29  #公司
+
+【中國向哥倫比亞提供的緊急人道主義地震救災援助物資運抵】2026年8月19日，國家國際發展合作署新聞發言人湯瑛表示，中國政府向哥倫比亞提供的緊急人道主義地震救災援助物資搭乘中國國際貨運航空公司包機運抵哥首都波哥大的埃爾多拉多國際機場。中國駐哥使館將會同哥方第一時間轉運至災區並分發至受災民眾。
+
+---
+
+### 2026-08-19 07:10:39  #其他
+
+【中鋼協：8月上旬重點鋼企冶煉產能穩步釋放】中國鋼鐵工業協會發布最新生產資料，8月上旬重點鋼企冶煉產能穩步釋放，粗鋼產出實現環比增長。最新統計資料顯示，8月上旬重點統計鋼鐵企業粗鋼平均日產197.3萬噸，環比提升5.8%，生鐵日均產量同步走高。
+
+---
+
+### 2026-08-19 07:09:57  #國際
+
+【8月19日隔夜要聞一覽】
+1、當地時間18日獲悉，一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。
+2、阿聯酋外交部19日凌晨宣佈，鑑於地區局勢持續升級破壞了地區和國際和平與安全，阿聯酋決定暫停與伊朗的一切貿易、商業往來和金融交易，恢復時間另行通知。
+3、伊朗伊斯蘭革命衛隊副總司令穆斯塔法·伊扎迪日前表示，美國曾考慮將“委內瑞拉”模式用於伊朗，但最終未能得逞。
+4、OpenAI表示，在Hugging Face事件發生後，立即暫停了研究叢集中可能執行程式碼的前沿模型推理任務。暫時放緩擴充套件速度，包括將對最新部署模型的強化學習訓練暫停兩週。
+5、美國銀行認為，市場可能高估了英偉達圍繞人工智慧生態系統大規模投資所帶來的風險，導致其股價出現明顯折價。即使將相關融資風險考慮在內，英偉達目前的估值折價幅度仍可能達到34%至50%。
+6、蘋果週二宣佈，將把針對應用開發者的按安裝次數收費，調整為對透過App Store以外渠道分發的應用中的數字交易收取5%的佣金，以遵守歐盟《數字市場法》（DMA）。
+7、訊息稱Anthropic預計將在數週內啟動IPO流程。Anthropic上市前信貸額度規模或超100億美元目標。
 
 ---
 
@@ -19133,149 +19316,5 @@ Central Bank of Chile sold USD 64 mln of FX forward contracts at an average rate
 ### 2026-08-17 22:40:23  #公司 #國際
 
 【英偉達聯手OpenAI鎖定12吉瓦算力基建，黃仁勳：即便OpenAI不續租，還可以給其他客戶】AI（人工智慧）晶片龍頭英偉達披露了在AI基礎設施戰略佈局上的最新動作。8月17日，英偉達CEO黃仁勳發表題為《保障智慧基礎設施安全》（Securing the Infrastructure of Intelligence）的署名文章稱，英偉達已與能源開發商SB Energy達成合作，鎖定位於美國俄亥俄州波特斯茅斯PORTS-Pike科技園區的土地、電力與廠房（LPS）資源。該場地將專門用於承載英偉達算力系統，而OpenAI將作為租戶在此建造並運營AI工廠。黃仁勳在文中指出，AI工廠是AI時代的決定性基礎設施。當前，基礎設施的競爭焦點已從先進晶片與封裝，延伸到了土地、電力與廠房。AI實驗室對訓練和推理算力的需求極其驚人，“更多的算力意味著更高的智慧、更多的產品、更多的使用者以及更高的收入”，但其發展正受到算力供給不足的嚴重製約。如果未來OpenAI無法繼續使用該園區，其算力可以轉售給英偉達全球生態系統中其他符合條件的租戶。黃仁勳強調，英偉達算力具備通用性與可互換性：“可互換性驅動了利用率和永續性，使英偉達算力成為一種可出租、可融資的生產性資產。”因此，PORTS-Pike這種優質場地的價值絕不侷限於單一客戶或單代算力。在文章的最後，黃仁勳梳理了英偉達的戰略進化路徑：從最初製造加速計算晶片，到擴充套件至系統、網路、CUDA軟體，再到全棧AI工廠，如今進一步延伸至幫助客戶鎖定建造這些工廠所需的關鍵底層資源。黃仁勳表示，英偉達未來在LPS上的佈局仍將保持“戰略性與自律性”，絕大多數客戶將繼續獨立獲取LPS資源，英偉達僅會選擇性地鎖定那些具備明確、持久需求且能承載多代算力升級的卓越場地。 隨後，黃仁勳為這項融資計劃正名，回應外界對“迴圈融資”的質疑。他指出，公司可能會為相關合作提供“最高達專案規模25%”的融資支援：“我們的作用是幫助解鎖龐大的獨立資本池，同時保持自律的風險敞口。”（澎湃）
-
----
-
-### 2026-08-17 22:40:16  #MKT News
-
-Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year.
-
----
-
-### 2026-08-17 22:38:21  #其他
-
-市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。
-
----
-
-### 2026-08-17 22:37:28  #宏觀 #國際
-
-印度市場監管機構：就社交媒體平臺展示實時交易策略向投資者發出警示。
-
----
-
-### 2026-08-17 22:37:01  #公司 #市場
-
-【耐克股價跌至 2014 年以來最低，最大跌幅達 3.2%】耐克股價面臨跌破 4 月以來形成的交易區間的風險。該股自 2021 年高點以來便處於長期下行通道，目前交易價格跌至 2014 年 9 月以來的最低水平。耐克公司今年以來總回報率為‑36.95%，而標普 500 指數總回報率為 14.33%。分析師對耐克公司給出 17 個買入評級、23 個持有評級、4 個賣出評級；平均目標價：50.65 美元。
-
----
-
-### 2026-08-17 22:36:18  #MKT News #Market Themes #The Trump Trade
-
-Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region.
-
----
-
-### 2026-08-17 22:34:25  #MKT News #Market Regions #Japan & APAC
-
-Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry on Tuesday.
-
----
-
-### 2026-08-17 22:34:10  #國際
-
-市場訊息：日本特使將於週二到訪俄羅斯外交部。
-
----
-
-### 2026-08-17 22:34:00  #市場
-
-Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。
-
----
-
-### 2026-08-17 22:33:17  #MKT News #Hang Seng Index #Impact bullish
-
-Market sources say Xiyin plans to seek a valuation of up to $27 bln in a Hong Kong IPO.
-
----
-
-### 2026-08-17 22:32:30  #其他
-
-市場訊息：據訊息稱希音（SHEIN） IPO 目標估值最高達 270 億美元。
-
----
-
-### 2026-08-17 22:32:17  #MKT News
-
-U.S. House Speaker Johnson said no illegal immigrants have been permitted to enter the country for 15 consecutive months and credited Republican policies with restoring security and stability.
-
----
-
-### 2026-08-17 22:31:13  #MKT News
-
-【Trump says secret channels with Iran's Revolutionary Guard open; IRGC calls claim a 'hallucination'】On the 17th, US President Trump said secret communications between US officials and Iran's Islamic Revolutionary Guard Corps (IRGC) remain open and urged Iran to "raise the white flag and surrender." He told Fox News the private channel persists despite Iran's public confrontational posture, said his approach is unrelated to the US midterm elections, and added "I have no timetable, I'm not in a hurry." The IRGC rejected the claim as a "hallucination," saying its officials have not held secret talks and calling Trump's statements a "lie" born of "war failures and despair."
-
----
-
-### 2026-08-17 22:29:27  #國際
-
-【颶風掠過夏威夷 22萬戶斷電】一場颶風上週末掠過美國夏威夷州南部近海，強風和暴雨造成洪水，至少100棟住宅受損，部分道路、橋樑和電力設施遭到破壞。根據當地電力供應網站16日資料，全州一度超過22萬戶斷電。（新華社）
-
----
-
-### 2026-08-17 22:28:31  #國際
-
-【韓美軍演引發韓國民間團體抗議】韓美軍方17日正式啟動“乙支自由之盾”聯合軍演，韓國民間團體當天在首爾示威抗議，呼籲停止韓美聯合軍演。韓國民間團體“和平統一開創者”當天在位於首爾市中心光化門廣場的美國駐韓國大使館前舉行抗議集會。該團體表示，韓國政府應立即、全面收回戰時作戰指揮權，並廢止美國對韓國提供的所謂“延伸威懾”安排。（新華社）
-
----
-
-### 2026-08-17 22:28:09  #MKT News #WTI #Impact bullish #Brent
-
-【Trump threatens to declare Strait of Hormuz US territory; experts say unlikely】President Trump last week said that after defeating Iran he would declare the Strait of Hormuz US territory and has previously asserted the US “owns” the waterway, despite parts lying within Iranian and Omani territorial seas. Maritime law experts say such a claim faces major legal obstacles. A City, University of London maritime-law professor said under US law a presidential proclamation or order alone would be insufficient to claim territory and would have to meet constitutional requirements. Under international law, annexation would violate the UN Charter; territory, including maritime areas, can only be acquired by treaty or cession. Occupation may give de facto control but does not confer legal title, a Swansea shipping-law professor said, and any transfer would require Iran’s consent, which is highly unlikely. The professor added a hypothetical US–Iran–Oman deal to open the strait and levy transit fees would also conflict with international law and UNCLOS. Experts emphasized Iran and Oman do not have absolute property rights over the strait; freedom of navigation is the governing legal principle and military control does not equal legal ownership.
-
----
-
-### 2026-08-17 22:27:46  #國際
-
-伊朗外交部：烏茲別克外交部副部長與伊朗外交部長阿拉格齊於當地時間週一下午舉行會晤。
-
----
-
-### 2026-08-17 22:27:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above $3.2 per pound, hovering near their highest since late July, supported by the slower pace of the Brazilian harvest and concerns about supply. Safras & Mercado reported on August 14 that the Brazil 2026/27 coffee harvest was 90% completed as of August 12, behind 97% last year and the 5-year average of 94%. Brazil's arabica coffee harvest was 86% complete, behind last year's 95%. In the meantime, latest data showed ICE arabica coffee inventories fell to a 2.75-year low of 231,445 bags. Meanwhile, market participants continued to assess the extent of disruptions to coffee exports from Colombia due to a devastating earthquake.
-
----
-
-### 2026-08-17 22:27:28  #其他
-
-【我國創新藥市場加速爆發】上半年，我國38個“全球新”創新藥獲批，與此同時，今年上半年，我國創新藥對外授權交易總額約1100億美元，已達到2025年全年總額的80%，創下歷史同期新高。從全球首款實體瘤CAR-T細胞藥獲批上市，到創新藥海外授權交易額創歷史同期新高，中國創新藥正在迎來新的發展階段。資料顯示，截至6月底，國家藥監局今年共批准藥品上市註冊申請2318件，其中“全球新”創新藥38個。今年上半年我國創新藥對外授權交易總額約1100億美元，已達到2025年全年總額的80%。從“跟跑”到“並跑”，從單個產品走向全產業鏈能力，中國創新藥正在加速走向世界。一款創新藥從實驗室走向市場，既需要源頭創新，也需要規模化、低成本的生產製造能力。如今，人工智慧已經深度嵌入藥物研發流程。在上海神經與腫瘤藥物研發全國重點實驗室，從靶點發現、分子設計到活性預測、毒理評估，AI正在幫助研發人員降低試錯成本。企業研發人員介紹，以往生成1000個小分子需要大約10天，如今藉助AI輔助藥物設計平臺，只需約2分鐘，篩選效率提高近30倍。如果說實驗室的創新是新藥誕生的源頭，那麼規模化、低成本的生產製造，就是創新藥惠及患者的“最後一公里”。 正如業內人士所說：中國創新藥正在從全球創新的跟隨者，走向可以與全球頂尖藥企並肩同行的共建者。 （央視財經）
-
----
-
-### 2026-08-17 22:27:16  #MKT News
-
-Iran's foreign ministry said Uzbekistan's deputy foreign minister met with Iran's foreign minister Araghchi on Monday afternoon local time.
-
----
-
-### 2026-08-17 22:26:35  #MKT News #SKX.O #Impact bearish
-
-Market sources: mutual fund FMI named lead plaintiff in lawsuit challenging Skechers' $9.4 billion take-private transaction.
-
----
-
-### 2026-08-17 22:25:55  #其他
-
-據 BLAW 訊息，斯凱奇 94 億美元私有化訴訟已確定首席原告。
-
----
-
-### 2026-08-17 22:24:32  #MKT News #Commodities #Industrial Metals #NXE.TO #Impact bullish #BHP.N #Impact mixed
-
-Refinitiv: Uranium miner NexGen Energy said it is sharing technical information with BHP (BHP.N) as it seeks to raise more than $1 billion to finance its Rook I project. BHP last year evaluated NexGen as a potential takeover target.
-
----
-
-### 2026-08-17 22:24:30  #市場
-
-紐約期銀日內漲2%，現報66.41美元/盎司。
-
----
-
-### 2026-08-17 22:24:12  #公司
-
-【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。
 
 ---

@@ -1,7 +1,165 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:55:59_
-_本檔包含 3208 則快訊，約 626119 字_
+_更新時間：2026-08-20 06:34:46_
+_本檔包含 3196 則快訊，約 626709 字_
+
+---
+
+### 2026-08-16 09:24:23  #市場 #國際
+
+【韓國家庭信貸料首次突破2000萬億韓元關口】行業訊息人士週日透露，受住房抵押貸款與股票質押貸款增長推動，韓國二季度家庭信貸規模料將首次突破2000萬億韓元（摺合1.41萬億美元）大關。訊息稱，3月末韓國家庭信貸規模達到1993萬億韓元的歷史新高，較去年年末增加14萬億韓元，實現連續七個季度增長，但增速連續第二個季度放緩。
+
+---
+
+### 2026-08-16 09:22:45  #其他
+
+SpaceX：獵鷹9號一級火箭已在40號著陸區完成著陸。
+
+---
+
+### 2026-08-16 09:21:22  #市場 #國際
+
+【韓國股市行情回暖賣空規模卻不降反升】週日公佈的資料顯示，儘管韓國股市從晶片及人工智慧相關個股暴跌引發的行情崩盤中大幅反彈，但股票賣空規模仍在持續走高。韓國交易所資料顯示，截至本週二，未平倉賣空頭寸規模約19萬億韓元（摺合134億美元），較上月底的16.73萬億韓元增加2.27萬億韓元，漲幅14%。2月末韓國股票賣空規模為15萬億韓元，3月初回落至12萬億韓元，6月初一度攀升至23萬億韓元。本月截至目前，韓國大盤韓國綜合指數（KOSPI）上漲6%，以科技股為主的二板市場科斯達克（KOSDAQ）指數大漲20%。上月，市場擔憂AI相關投資盈利前景惡化，晶片需求或將萎縮，韓國股市由此遭遇大跌。但投資者對本輪短期快速上漲心存顧慮，同時仍無法確定晶片行業是否已經見頂。
+
+---
+
+### 2026-08-16 09:18:54  #MKT News
+
+【US police arrest man linked to Virginia State University shooting】Chesterfield County police on Aug. 15 arrested 19-year-old Cameron Harris of Henrico in connection with a shooting at Virginia State University that injured five people. There were no fatalities; one victim is in critical condition. Authorities say Harris is not a student and has eight felony arrest warrants, including malicious wounding and using a firearm during the commission of a felony. Only one of the five wounded is a university student; the others are aged 17 to 23.
+
+---
+
+### 2026-08-16 09:17:51  #國際
+
+【美警方逮捕一名與弗吉尼亞州立大學槍擊案有關人員】央視記者獲悉，當地時間8月15日，美國弗吉尼亞州警方逮捕了一名19歲男子，該男子涉嫌參與當日發生的一起致五人受傷的槍擊事件。此次槍擊未造成人員死亡，但有一名受害者傷勢危急。據悉，切斯特菲爾德縣警方宣佈逮捕了來自弗吉尼亞州亨里科的卡姆倫·哈里斯。當局表示，此人並非該校學生。警方稱，已對該男子簽發了八項重罪逮捕令，罪名包括蓄意傷害罪以及在實施重罪期間使用槍支等。儘管槍擊事件發生在校園，但在五名傷者中，只有一人是該校學生。當局表示，其餘四名受害者的年齡在17歲至23歲之間。（央視新聞）
+
+---
+
+### 2026-08-16 09:17:00  #國際
+
+【美國知名寵物凍幹品牌VE試吃裝被曝“爬出活蟲”，涉事店鋪：正抽檢溯源】近日，多名消費者在社交平臺發帖稱，在淘寶天貓“Vital Essentials（簡稱VE）寵物海外旗艦店”購買的試吃裝凍幹（11.3克），開啟後爬出多條蠕動活蟲。店鋪僅同意退款，不願賠付。對此，涉事店鋪客服回覆稱，目前已針對該情況開展核查，並安排倉庫對相關批次進行抽檢溯源。（澎湃新聞）
+
+---
+
+### 2026-08-16 09:16:10  #公司
+
+【網傳追覓大家電解散，俞浩已賣掉私人飛機】今日早間，“網傳追覓大家電解散”相關話題登上微博熱搜，引發廣泛關注。據流出內容，疑似追覓AWE期間冰箱相關業務供應商存在未結款情況，打算組團維權，引發大量供應商評論並唱衰追覓。部分人員甚至牽扯提及追覓裁員縮減、創始人俞浩賣掉私人飛機等事。對於前述訊息，新浪科技向追覓方面求證，截至發稿公司暫無回應。新浪科技注意，目前釋出該帖子的供應商已經刪除相關內容。（新浪科技）
+
+---
+
+### 2026-08-16 09:14:44  #公司
+
+【英偉達正洽談向軟銀支援的SB Energy最高投資30億美元】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團扶持，該公司正在為OpenAI推進俄亥俄州大型資料中心專案。 一名知情人士表示，此次投資談判，是英偉達與OpenAI、SB Energy整體磋商的一部分。英偉達計劃為這座俄亥俄州資料中心園區提供約1000億美元信貸支援。此類交易越來越多，英偉達正藉助自身雄厚資金實力扶持AI相關企業與專案，以此推動企業採購、使用英偉達硬體產品。 知情人士稱，雙方討論的方案為：俄亥俄專案正式簽約時，英偉達先投放30億美元中的一半；剩餘一半將在SB Energy進行IPO時完成出資。 最高15億美元的出資規模，將使英偉達成為SB Energy本次IPO的主要投資方之一。一名訊息人士表示，SB Energy目標最早在下月上市，IPO募資規模至少50億美元。
+
+---
+
+### 2026-08-16 09:14:00  #公司
+
+【科大訊飛高階副總裁婁超到訪長江產業集團】據長江產業集團訊息，8月14日，科大訊飛高階副總裁婁超到訪長江產業集團，與集團黨委書記、董事長黎苑楚圍繞人工智慧技術創新、產業投資、場景應用等領域深化合作進行深入交流。黎苑楚表示，雙方戰略高度契合、合作空間廣闊，希望以本次座談為契機，建立常態化溝通機制，圍繞科教融合、醫療健康、算力基建、產業數字化等重點領域，統籌整合各類資源要素，探索構建省級公共AI服務平臺，推動人工智慧技術與實體經濟深度融合。加快推動基金合作、算力共建等重大事項對接磋商。
+
+---
+
+### 2026-08-16 09:13:29  #市場
+
+【認購率破400%、觸發積分搖號，上海4天兩個改善型樓盤“日光”】繼7月末徐匯濱江豪宅專案開盤售罄後，8月上旬，上海近郊改善專案熱度集中爆發，青浦徐涇、嘉定新城的兩個熱門改善盤接連實現日光。8月12日，位於青浦徐涇板塊的綠城·悅海棠迎來首次開盤，228套房源當天全部售罄。該專案認購階段就吸引了946組客戶參與認購，認購率達415%，成為市場少見的“千人搖”樓盤；同時專案觸發計分搖號排序程式，最終入圍分62.12分，這也是大虹橋板塊近三年來首個觸發積分的住宅專案。（澎湃）
+
+---
+
+### 2026-08-16 09:11:01  #市場 #焦點 #原創
+
+【飛天茅臺穩中有漲 五糧液普五八代創月新高】新浪財經“酒價內參”過去24小時收集的資料顯示，8月16日中國白酒業11大單品九漲一跌一平，贏家佔據明顯上風。上漲方面，飛天茅臺上漲2元，終端零售均價來到1787元，穩居價格高地；五糧液普五八代上漲3元至811元，價格重回上行通道，創下近一個月最高紀錄；五糧液1618上漲3元至830元，昨日短期休整後再度走高；國窖1573上漲4元至895元，登上近一個月最高點，三連陽後上探900元大關；洋河夢之藍M6+上漲1元至606元，三連漲後站穩600元關口；古井貢古20上漲1元至541元，價盤高臺鞏固；習酒君品上漲2元至636元，仍在區間內小幅振盪；青花郎上漲2元至698元，蓄力看向700元關口；青花汾20上漲2元至394元，創下近一個月新高。下跌方面，精品茅臺下跌3元至2498元，八連漲後步入短期技術休整。水晶劍南春今日持平於405元，價盤保持平穩。
+
+今日11大單品的終端零售總價反彈，昨日短時下行後基本恢復至前天水平，如果11大單品各取一瓶整體打包售賣，今日總售價為10101元，較昨日上漲17元，重上10100元整百關口。
+
+---
+
+### 2026-08-16 09:07:48  #其他
+
+【嵐圖董事長盧放：有車型說自己的座椅比邁巴赫多1度，我們比它多2度】在近日的嵐圖追光S釋出會上，嵐圖汽車董事長盧放發表演講。在講到嵐圖追光S的座椅時，他表示，“本來我不太想說這個，但是我們同事要求我一定要說。有車型說自己的座椅比邁巴赫多1度，那麼我們就比它多2度。”（新浪科技）
+
+---
+
+### 2026-08-16 09:06:50  #MKT News #Market Themes #China EV Leaders #NIO.O #Impact bullish
+
+NIO said as of today it has built 9,210 charging and battery-swap stations nationwide: 4,020 battery-swap stations, 5,190 charging stations and 29,915 charging piles, and has completed over 120 mln battery swaps.
+
+---
+
+### 2026-08-16 09:06:40  #公司
+
+【國家電網投了量子科技】記者獲悉，近日，安徽省國盛量子科技有限公司（簡稱“國盛量子”）完成數千萬元戰略融資，本次投資由國家電網旗下的國網創投基金實施。資金將主要用於金剛石NV色心量子測量技術迭代、量子感測產品矩陣擴容與產能建設，並加速技術在工業場景的產業化落地。（上證報）
+
+---
+
+### 2026-08-16 09:06:13  #其他
+
+【比利時發生大規模野火 數百居民被疏散】比利時東部地區日前發生大規模野火，截至15日晚，過火面積已超過2700公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。（新華社）
+
+---
+
+### 2026-08-16 09:04:01  #國際
+
+伊朗總統將本國經濟困境歸咎於美國對伊朗港口的封鎖以及石油收入下滑，他表示工業設施遭轟炸同樣重創了政府財政。
+
+---
+
+### 2026-08-16 09:01:41  #MKT News
+
+A CNN poll found 71% say President Trump has not done enough to lower prices of everyday goods, up from 58% a year earlier.
+
+---
+
+### 2026-08-16 09:01:32  #市場 #焦點
+
+美銅暗盤跌破6.8美元，日內跌幅0.6%。
+
+---
+
+### 2026-08-16 09:01:29  #MKT News
+
+【Harvard discloses $2.2 bln SpaceX stake】Harvard Management Company disclosed a $2.2 bln stake in SpaceX in a Friday regulatory filing, making SpaceX the largest single-stock holding in its $4.3 bln U.S. equity portfolio. SpaceX’s record June IPO delivered substantial gains to university endowments that held earlier VC positions. The University of California’s investment office this week disclosed roughly $1 bln in SpaceX holdings; the University of North Carolina and Washington University in St. Louis also report stakes.
+
+---
+
+### 2026-08-16 09:00:22  #其他
+
+蔚來汽車：截至今日，蔚來全國建成9,210座充換電站，其中換電站4,020座，充電站5,190座、充電樁29,915根，累計提供超1.2億次換電。
+
+---
+
+### 2026-08-16 09:00:07  #其他
+
+【浙江調整水旱災害防禦應急響應至三級】記者從浙江省水利廳瞭解到，當前，浙江苕溪流域瓶窯站水位6.64米，已降至保證水位以下，杭嘉湖東部平原嘉興站水位高位波動，緩慢回落。根據《浙江省水利廳水旱災害防禦應急工作預案》，浙江省水利廳決定於今日8時30分將水旱災害防禦應急響應調整至Ⅲ級（三級）。
+
+---
+
+### 2026-08-16 08:59:28  #其他
+
+市場訊息：葉門攔截邁哈市上空的胡塞武裝無人機。
+
+---
+
+### 2026-08-16 08:58:38  #其他
+
+【高瓴旗下HHLR披露最新美股持倉 二季度增持英偉達】近日，高瓴旗下專注二級市場投資的基金管理平臺HHLR Advisors（簡稱“HHLR”）公佈的最新美股持倉情況顯示，截至二季度末，HHLR美股持倉總市值約為8.32億美元，持倉數量為35只，生物科技繼續佔據組合重要位置。從加減倉動作來看，HHLR二季度增持了英偉達、Coherent、Corning及Lumentum等半導體和光通訊相關標的。
+
+---
+
+### 2026-08-16 08:56:57  #國際
+
+美國國家颶風中心（NHC）：破壞性大風與強降雨正席捲夏威夷大島。
+
+---
+
+### 2026-08-16 08:53:24  #國際
+
+【美軍司令登林肯號航母 長期部署致船員身心困境引爭議】據美國中央司令部訊息，負責對伊朗戰事的美國海軍上將於週六登上亞伯拉罕・林肯號航空母艦。該航母經過長時間戰時部署，正準備返航。 司令部表示，中央司令部司令布拉德・庫珀上將此次登艦，為其為期10天的出訪行程畫上句號。此行還到訪巴林、伊拉克、以色列、約旦、沙烏地阿拉伯以及阿聯酋。此前有報道稱，該航母連續9個月未停靠任何港口，艦上生活條件惡劣，部分船員出現心理健康問題，庫珀正是在這一背景下到訪林肯號。
+
+---
+
+### 2026-08-16 08:51:50  #市場
+
+【襄河全椒段洪峰過境，水位正在回落】受近期持續降雨及上游來水影響，滁河支流襄河安徽滁州全椒段水位一度快速上漲。昨天（8月15日）8時36分，襄河口閘水文站出現洪峰水位12.77米，超警戒水位1.77米。隨後，水位開始逐漸回落。今早6時，襄河口閘水文站水位已降至12.14米，回落趨勢穩定。據氣象部門預報，全椒縣未來一週以陰到多雲天氣為主，無明顯降水過程。目前，全椒縣河道加固、水庫堤壩巡堤查險等各項工作仍在持續開展。（央視新聞）
 
 ---
 
@@ -19121,233 +19279,5 @@ Shanghai gold main contract fell 2.00% intraday to 940.10 yuan/gram.
 ### 2026-08-14 09:10:27  #MKT News
 
 【SMIC co-CEO Zhao Haijun: customer pull-ins offset part of end-market downturn】On Aug. 14 at the Q2 results meeting, SMIC co-CEO Zhao Haijun said wafer revenue by end-market in Q2 was smartphones 17%, PCs & tablets 16%, consumer electronics 44%, connectivity & wearables 7%, and industrial & automotive 17%, with absolute revenue levels rising sequentially. The company shifted capacity to tight-demand areas, producing roughly 40% QoQ growth in AI-related, PC & tablet, and industrial & automotive revenue. Elsewhere, customer pull-ins partly offset end-market weakness, delivering QoQ absolute revenue gains of 8% for smartphones, 16% for consumer electronics and 13% for connectivity & wearables.
-
----
-
-### 2026-08-14 09:10:18  #公司
-
-【A股停牌提示：4股今日停牌】Wind資料顯示，8月14日，鴻特科技、瓦軸B、愛麗家居等4只個股停牌。
-
----
-
-### 2026-08-14 09:10:12  #MKT News #Commodities #Industrial Metals
-
-Front-month coking coal futures rose more than 2.0% intraday to 1,347 yuan/ton.
-
----
-
-### 2026-08-14 09:08:42  #公司
-
-【中芯國際趙海軍：客戶提前拉貨抵消了部分終端下行影響】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季晶圓收入以應用來看，智慧手機、電腦與平板、消費電子、互聯與可穿戴、工業與汽車收入佔比分別為17%、16%、44%、7%、17%，絕對值環比均有所提升。公司將產能更多調配給需求緊缺的領域，使得人工智慧配套、電腦與平板、工業與汽車收入絕對值環比增長在四成左右。其他應用，雖然終端整體下行，但客戶的提前拉貨抵消了部分影響，使得手機、消費、互聯與可穿戴收入絕對值實現了8%、16%和13%的成長。
-
----
-
-### 2026-08-14 09:08:27  #MKT News #UBER.N #Impact bullish #02026.HK
-
-Pony.ai-W (02026.HK): Uber (UBER.N) expands cooperation with Pony.ai, planning to deploy over 2,000 robotaxis across five European cities.
-
----
-
-### 2026-08-14 09:08:21  #MKT News #02026.HK #Impact bullish #UBER.O
-
-Pony.ai-W (02026.HK) to expand cooperation with Uber and deploy more than 2,000 autonomous taxis in Europe.
-
----
-
-### 2026-08-14 09:07:48  #公司 #國際
-
-【中國小馬智行與優步將聯合在歐洲部署2,000多輛機器人計程車】中國自動駕駛公司小馬智行週五宣佈，計劃在與優步（Uber） 擴大合作框架下，在歐洲部署超過2,000輛自動駕駛計程車。據該公司宣告稱，這項始於2025年5月的合作將從目前在克羅埃西亞首都薩格勒布運營的商用自動駕駛計程車服務，擴充套件至歐洲的四個未公開名稱的城市。宣告未透露該部署計劃的具體完成時間表。宣告稱，此次合作擴充套件計劃還包括中東地區，但未提供進一步細節。
-
----
-
-### 2026-08-14 09:07:44  #經濟數據 #中國
-
-【今年前7月蘇州工業園區進出口值首破萬億元】據新華日報，記者8月13日從蘇州工業園區海關獲悉，今年前7個月，蘇州工業園區外貿進出口值歷史首次突破1萬億元大關，達1.02萬億元，同比增長126.8%，規模超2025年全年。其中，儲存器、光模組等AI算力硬體產品佔比過半。
-
----
-
-### 2026-08-14 09:07:19  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude rose above $86/bbl, up 0.18% on the day.
-
----
-
-### 2026-08-14 09:06:48  #MKT News #Important #Market Themes #Chip Wars #981.HK #Impact bullish
-
-SMIC co-CEO Zhao Haijun said the company has raised prices for its most popular wafers.
-
----
-
-### 2026-08-14 09:06:48  #國際
-
-【小馬智行與Uber擴大合作，計劃在歐洲5城部署超2000輛Robotaxi】8月14日，小馬智行與全球出行平臺Uber宣佈，雙方進一步擴大戰略合作，將在歐洲5個城市部署超過2000輛小馬智行Robotaxi。
-
----
-
-### 2026-08-14 09:06:17  #公司 #市場 #國際
-
-【韓華海洋股價大漲，特朗普備忘錄為外國船廠建造美國海軍艦艇開啟口子】韓國韓華海洋週五早盤股價最高上漲 9.6%，創下六週盤中新高。美國總統特朗普指示美國戰爭部推進採購方案：外國造船企業若在美國本土船廠投資，最多可在其母公司船廠建造兩艘美軍艦艇，該計劃旨在擴大美國造船產能。該政策載於週四簽署的總統備忘錄及配套情況說明書，適用於兩類外國企業：在美國新建船廠，或是收購現有美國船廠、取得其多數股權的企業；後續艦艇則必須在美國本土建造。
-
----
-
-### 2026-08-14 09:06:05  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
-
-【SMIC co-CEO Zhao Haijun: Q2 saw return of overseas orders; localized manufacturing strengthened】At SMIC's Q2 earnings meeting, co-CEO Zhao Haijun said sales by region were China 90%, the US 8% and Eurasia 2%. Revenues rose in all regions; China led with a 22% increase driven by strong demand for AI-related chips, return of overseas orders and expanded localized manufacturing. Wafer revenue by diameter was 12‑inch 78% and 8‑inch 22%; 12‑inch wafer revenue rose 24% QoQ and 8‑inch wafer revenue rose 11% QoQ.
-
----
-
-### 2026-08-14 09:06:04  #公司
-
-【漢威科技等在上海成立智聯科技新公司】人民財訊8月14日電，企查查APP顯示，近日，上海漢宸智聯科技有限公司成立，經營範圍包含智慧儀器儀表銷售；工業自動控制系統裝置銷售；儀器儀表銷售；貨物進出口等。企查查股權穿透顯示，該公司由漢威科技等共同持股。
-
----
-
-### 2026-08-14 09:05:26  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot silver fell 1.00% intraday to $63.81/oz.
-
----
-
-### 2026-08-14 09:05:17  #市場 #焦點
-
-現貨黃金失守4330美元/盎司，日內跌0.49%。
-
----
-
-### 2026-08-14 09:04:51  #國際
-
-小馬智行與優步擴大合作，將在歐洲部署超2000輛自動駕駛計程車。
-
----
-
-### 2026-08-14 09:04:17  #公司
-
-【雷士照明與星網天合達成戰略合作 ，共建智慧空間一體化解決方案】國內照明行業品牌雷士照明與全球ICT+AIoT智慧空間解決方案提供商星網天合正式簽署戰略合作協議。雙方將圍繞智慧家居與智慧商用兩大板塊，以健康好光、AI與IoT能力的融合，推動智慧空間從單點裝置聯動走向一體化交付，從“連線空間”走向“理解人”，打造主動服務的智慧生活體驗。星網天合是星網銳捷的控股子公司。星網天合深耕智慧家庭、社群、園區等領域，與超100家知名房企達成合作，智慧社群批次前裝市場份額穩居前三。雷士照明擁有源自中國航天照明科技實驗室的伴生適然光技術，2026年4月啟動健康光源共享計劃，將核心健康光技術向全行業開放共享。（新浪科技）
-
----
-
-### 2026-08-14 09:04:16  #MKT News #02026.HK #Impact bullish
-
-Pony.ai-W (02026.HK) will expand its existing commercial services in Zagreb to four additional European cities.
-
----
-
-### 2026-08-14 09:03:19  #國際
-
-蓋洛普民調：韓國總統李在明支援率跌至創紀錄的44%。
-
----
-
-### 2026-08-14 09:03:11  #MKT News #Commodities #Precious Metals
-
-Platinum most-active contract fell more than 3% to 419.8 yuan/gram.
-
----
-
-### 2026-08-14 09:02:31  #其他
-
-【國家郵政局：加快構建與中國式現代化相適應的寄遞物流體系】8月13日，國家郵政局召開黨組會議，聽取2026年7月行業安全穩定形勢分析情況的彙報，審議《郵政管理系統加強新時代廉潔文化建設行動計劃》等檔案，研究樹立和踐行正確政績觀學習教育工作。會議強調，全系統要切實把思想和行動統一到黨中央關於當前經濟形勢的分析判斷和對經濟工作的決策部署上來，著力推動郵政快遞業持續向新向優向好發展，努力實現“十五五”良好開局。要積極搶抓“六張網”規劃建設、深入實施“兩重”“兩新”專案等戰略機遇，深化拓展郵政快遞服務場景，加快構建與中國式現代化相適應的寄遞物流體系，奮力譜寫加快建設交通強國郵政篇。
-
----
-
-### 2026-08-14 09:02:24  #公司 #國際
-
-【中芯國際趙海軍：二季度海外訂單迴流 在地化製造繼續加強】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，當季銷售收入以地區分類看，中國區、美國區、歐亞區佔比分別為90%、8%和2%，從金額看均有增加，其中中國區增長幅度最大，達22%，主要原因為人工智慧配套晶片需求旺盛，海外訂單迴流，以及在地化製造繼續加強。晶圓收入按尺寸分，十二英寸和八英寸佔比分別為78%和22%；從金額來看，12英寸晶圓收入環比增長24%，8英寸晶圓收入環比增長11%。
-
----
-
-### 2026-08-14 09:02:17  #公司
-
-中芯國際聯席CEO：最緊俏產能的晶圓價格已上調。
-
----
-
-### 2026-08-14 09:01:58  #MKT News
-
-China-South Korea Semiconductor ETF will be suspended from market open on Aug 14, 2026 until 10:30 a.m.
-
----
-
-### 2026-08-14 09:01:35  #公司
-
-【潤邦股份：目前未承接裂解爐裝置相關業務】潤邦股份(002483)8月14日在互動平臺表示，公司子公司潤邦海洋當前核心業務聚焦於船舶與海洋工程裝備業務。目前公司未承接裂解爐裝置相關業務。
-
----
-
-### 2026-08-14 09:01:13  #MKT News #Market Regions #Greater China
-
-Taiwan weighted index (TAIEX) opened 332.18 points higher, up 0.72%, at 46,353.66 on Friday, Aug. 14.
-
----
-
-### 2026-08-14 09:00:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D opened Friday Aug 14 down 1.38% at 941.31 yuan/gram; silver T+D opened down 2.05% at 15,605 yuan/kg.
-
----
-
-### 2026-08-14 09:00:51  #MKT News #Market Themes #Chip Wars
-
-SMIC co-CEO Zhao Haijun said wafers that began processing or rolled off the line in Q3 were priced under a new pricing scheme.
-
----
-
-### 2026-08-14 09:00:41  #其他
-
-【8月13日471股獲融資買入超億元 中際旭創穫買入42.70億元居首】8月13日共有3518只個股獲融資資金買入，有471股買入金額超億元。其中，中際旭創、兆易創新、勝宏科技融資買入金額排名前三，分別獲買入42.70億元、35.60億元、24.26億元。
-
----
-
-### 2026-08-14 09:00:22  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish
-
-At the morning open, China’s main futures contracts were mixed. Coking coal, No.1 soybeans, pulp, live hogs, glass and soda ash rose >1%; palladium fell about 4%, Shanghai silver dropped >2%, and Europe‑route container freight, Shanghai gold, 20# rubber, low‑sulfur fuel oil (LU) and PTA fell >1%.
-
----
-
-### 2026-08-14 09:00:19  #其他
-
-臺灣證交所加權股價指數開高0.2%報46,103.81。
-
----
-
-### 2026-08-14 09:00:04  #市場 #焦點
-
-白銀連續主力合約日內跌2%，現報15694.00元。
-
----
-
-### 2026-08-14 09:00:04  #市場 #焦點
-
-鈀連續主力合約日內跌4%，現報311.20元。
-
----
-
-### 2026-08-14 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.07%。
-
----
-
-### 2026-08-14 09:00:02  #市場
-
-【商品期貨開盤】鈀連續跌4.10%，白銀連續跌2.15%，鉑連續跌1.94%，焦煤連續漲1.81%，集運指數歐線期貨連續跌1.70%。
-
----
-
-### 2026-08-14 08:58:34  #公司
-
-中國中芯國際聯合執行長表示：第三季度生產的晶圓已執行新定價。
-
----
-
-### 2026-08-14 08:57:23  #公司
-
-【大港股份：目前未涉及算力硬體方面的佈局】大港股份(002077)8月14日在互動平臺表示，公司目前未涉及算力硬體方面的佈局。
-
----
-
-### 2026-08-14 08:57:20  #公司
-
-【獨家丨國科投資領投ChatGPT核心貢獻者，亮源新創穫數億元Pre-A輪融資】新浪科技獨家獲悉，由ChatGPT核心貢獻者姜旭創立的亮源新創（Light Origins），近期已完成數億元Pre-A輪融資。本輪融資由國科投資領投，招商局創投、襄禾資本等機構參與投資。 亮源新創成立於2024年底，是一家致力於將大模型能力從數字空間延伸至真實世界，並實現物理AGI的創新企業。據知情人士透露，本輪融資資金將主要用於超大規模具身智慧模型訓練、多模態資料基礎設施建設及軟硬體全棧平臺研發，同時公司將進行相應的人才團隊擴張。（新浪科技）
 
 ---

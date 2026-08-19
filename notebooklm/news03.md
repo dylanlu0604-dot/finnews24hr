@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-20 05:55:59_
-_本檔包含 2906 則快訊，約 625980 字_
+_更新時間：2026-08-20 06:34:46_
+_本檔包含 2904 則快訊，約 626203 字_
+
+---
+
+### 2026-08-17 22:40:16  #MKT News
+
+Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year.
+
+---
+
+### 2026-08-17 22:38:21  #其他
+
+市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。
+
+---
+
+### 2026-08-17 22:37:28  #宏觀 #國際
+
+印度市場監管機構：就社交媒體平臺展示實時交易策略向投資者發出警示。
+
+---
+
+### 2026-08-17 22:37:01  #公司 #市場
+
+【耐克股價跌至 2014 年以來最低，最大跌幅達 3.2%】耐克股價面臨跌破 4 月以來形成的交易區間的風險。該股自 2021 年高點以來便處於長期下行通道，目前交易價格跌至 2014 年 9 月以來的最低水平。耐克公司今年以來總回報率為‑36.95%，而標普 500 指數總回報率為 14.33%。分析師對耐克公司給出 17 個買入評級、23 個持有評級、4 個賣出評級；平均目標價：50.65 美元。
+
+---
+
+### 2026-08-17 22:36:18  #MKT News #Market Themes #The Trump Trade
+
+Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region.
+
+---
+
+### 2026-08-17 22:34:25  #MKT News #Market Regions #Japan & APAC
+
+Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry on Tuesday.
+
+---
+
+### 2026-08-17 22:34:10  #國際
+
+市場訊息：日本特使將於週二到訪俄羅斯外交部。
+
+---
+
+### 2026-08-17 22:34:00  #市場
+
+Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。
+
+---
+
+### 2026-08-17 22:33:17  #MKT News #Hang Seng Index #Impact bullish
+
+Market sources say Xiyin plans to seek a valuation of up to $27 bln in a Hong Kong IPO.
+
+---
+
+### 2026-08-17 22:32:30  #其他
+
+市場訊息：據訊息稱希音（SHEIN） IPO 目標估值最高達 270 億美元。
+
+---
+
+### 2026-08-17 22:32:17  #MKT News
+
+U.S. House Speaker Johnson said no illegal immigrants have been permitted to enter the country for 15 consecutive months and credited Republican policies with restoring security and stability.
+
+---
+
+### 2026-08-17 22:31:13  #MKT News
+
+【Trump says secret channels with Iran's Revolutionary Guard open; IRGC calls claim a 'hallucination'】On the 17th, US President Trump said secret communications between US officials and Iran's Islamic Revolutionary Guard Corps (IRGC) remain open and urged Iran to "raise the white flag and surrender." He told Fox News the private channel persists despite Iran's public confrontational posture, said his approach is unrelated to the US midterm elections, and added "I have no timetable, I'm not in a hurry." The IRGC rejected the claim as a "hallucination," saying its officials have not held secret talks and calling Trump's statements a "lie" born of "war failures and despair."
+
+---
+
+### 2026-08-17 22:29:27  #國際
+
+【颶風掠過夏威夷 22萬戶斷電】一場颶風上週末掠過美國夏威夷州南部近海，強風和暴雨造成洪水，至少100棟住宅受損，部分道路、橋樑和電力設施遭到破壞。根據當地電力供應網站16日資料，全州一度超過22萬戶斷電。（新華社）
+
+---
+
+### 2026-08-17 22:28:31  #國際
+
+【韓美軍演引發韓國民間團體抗議】韓美軍方17日正式啟動“乙支自由之盾”聯合軍演，韓國民間團體當天在首爾示威抗議，呼籲停止韓美聯合軍演。韓國民間團體“和平統一開創者”當天在位於首爾市中心光化門廣場的美國駐韓國大使館前舉行抗議集會。該團體表示，韓國政府應立即、全面收回戰時作戰指揮權，並廢止美國對韓國提供的所謂“延伸威懾”安排。（新華社）
+
+---
+
+### 2026-08-17 22:28:09  #MKT News #WTI #Impact bullish #Brent
+
+【Trump threatens to declare Strait of Hormuz US territory; experts say unlikely】President Trump last week said that after defeating Iran he would declare the Strait of Hormuz US territory and has previously asserted the US “owns” the waterway, despite parts lying within Iranian and Omani territorial seas. Maritime law experts say such a claim faces major legal obstacles. A City, University of London maritime-law professor said under US law a presidential proclamation or order alone would be insufficient to claim territory and would have to meet constitutional requirements. Under international law, annexation would violate the UN Charter; territory, including maritime areas, can only be acquired by treaty or cession. Occupation may give de facto control but does not confer legal title, a Swansea shipping-law professor said, and any transfer would require Iran’s consent, which is highly unlikely. The professor added a hypothetical US–Iran–Oman deal to open the strait and levy transit fees would also conflict with international law and UNCLOS. Experts emphasized Iran and Oman do not have absolute property rights over the strait; freedom of navigation is the governing legal principle and military control does not equal legal ownership.
+
+---
+
+### 2026-08-17 22:27:46  #國際
+
+伊朗外交部：烏茲別克外交部副部長與伊朗外交部長阿拉格齊於當地時間週一下午舉行會晤。
+
+---
+
+### 2026-08-17 22:27:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above $3.2 per pound, hovering near their highest since late July, supported by the slower pace of the Brazilian harvest and concerns about supply. Safras & Mercado reported on August 14 that the Brazil 2026/27 coffee harvest was 90% completed as of August 12, behind 97% last year and the 5-year average of 94%. Brazil's arabica coffee harvest was 86% complete, behind last year's 95%. In the meantime, latest data showed ICE arabica coffee inventories fell to a 2.75-year low of 231,445 bags. Meanwhile, market participants continued to assess the extent of disruptions to coffee exports from Colombia due to a devastating earthquake.
+
+---
+
+### 2026-08-17 22:27:28  #其他
+
+【我國創新藥市場加速爆發】上半年，我國38個“全球新”創新藥獲批，與此同時，今年上半年，我國創新藥對外授權交易總額約1100億美元，已達到2025年全年總額的80%，創下歷史同期新高。從全球首款實體瘤CAR-T細胞藥獲批上市，到創新藥海外授權交易額創歷史同期新高，中國創新藥正在迎來新的發展階段。資料顯示，截至6月底，國家藥監局今年共批准藥品上市註冊申請2318件，其中“全球新”創新藥38個。今年上半年我國創新藥對外授權交易總額約1100億美元，已達到2025年全年總額的80%。從“跟跑”到“並跑”，從單個產品走向全產業鏈能力，中國創新藥正在加速走向世界。一款創新藥從實驗室走向市場，既需要源頭創新，也需要規模化、低成本的生產製造能力。如今，人工智慧已經深度嵌入藥物研發流程。在上海神經與腫瘤藥物研發全國重點實驗室，從靶點發現、分子設計到活性預測、毒理評估，AI正在幫助研發人員降低試錯成本。企業研發人員介紹，以往生成1000個小分子需要大約10天，如今藉助AI輔助藥物設計平臺，只需約2分鐘，篩選效率提高近30倍。如果說實驗室的創新是新藥誕生的源頭，那麼規模化、低成本的生產製造，就是創新藥惠及患者的“最後一公里”。 正如業內人士所說：中國創新藥正在從全球創新的跟隨者，走向可以與全球頂尖藥企並肩同行的共建者。 （央視財經）
+
+---
+
+### 2026-08-17 22:27:16  #MKT News
+
+Iran's foreign ministry said Uzbekistan's deputy foreign minister met with Iran's foreign minister Araghchi on Monday afternoon local time.
+
+---
+
+### 2026-08-17 22:26:35  #MKT News #SKX.O #Impact bearish
+
+Market sources: mutual fund FMI named lead plaintiff in lawsuit challenging Skechers' $9.4 billion take-private transaction.
+
+---
+
+### 2026-08-17 22:25:55  #其他
+
+據 BLAW 訊息，斯凱奇 94 億美元私有化訴訟已確定首席原告。
+
+---
+
+### 2026-08-17 22:24:32  #MKT News #Commodities #Industrial Metals #NXE.TO #Impact bullish #BHP.N #Impact mixed
+
+Refinitiv: Uranium miner NexGen Energy said it is sharing technical information with BHP (BHP.N) as it seeks to raise more than $1 billion to finance its Rook I project. BHP last year evaluated NexGen as a potential takeover target.
+
+---
+
+### 2026-08-17 22:24:30  #市場
+
+紐約期銀日內漲2%，現報66.41美元/盎司。
+
+---
+
+### 2026-08-17 22:24:12  #公司
+
+【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。
 
 ---
 
@@ -17357,163 +17501,5 @@ Libyan sources told Arab satellite TV that the Al-Harsha power station in Zawara
 ### 2026-08-16 09:26:41  #Trading Economics #Markets #China #Earnings #Importance 0
 
 Hygon Information Technology earnings above expectations at 0.43 CNY — Hygon Information Technology (688041) released earnings per share at 0.43 CNY, compared to market expectations of 0.38 CNY.
-
----
-
-### 2026-08-16 09:24:23  #市場 #國際
-
-【韓國家庭信貸料首次突破2000萬億韓元關口】行業訊息人士週日透露，受住房抵押貸款與股票質押貸款增長推動，韓國二季度家庭信貸規模料將首次突破2000萬億韓元（摺合1.41萬億美元）大關。訊息稱，3月末韓國家庭信貸規模達到1993萬億韓元的歷史新高，較去年年末增加14萬億韓元，實現連續七個季度增長，但增速連續第二個季度放緩。
-
----
-
-### 2026-08-16 09:22:45  #其他
-
-SpaceX：獵鷹9號一級火箭已在40號著陸區完成著陸。
-
----
-
-### 2026-08-16 09:21:22  #市場 #國際
-
-【韓國股市行情回暖賣空規模卻不降反升】週日公佈的資料顯示，儘管韓國股市從晶片及人工智慧相關個股暴跌引發的行情崩盤中大幅反彈，但股票賣空規模仍在持續走高。韓國交易所資料顯示，截至本週二，未平倉賣空頭寸規模約19萬億韓元（摺合134億美元），較上月底的16.73萬億韓元增加2.27萬億韓元，漲幅14%。2月末韓國股票賣空規模為15萬億韓元，3月初回落至12萬億韓元，6月初一度攀升至23萬億韓元。本月截至目前，韓國大盤韓國綜合指數（KOSPI）上漲6%，以科技股為主的二板市場科斯達克（KOSDAQ）指數大漲20%。上月，市場擔憂AI相關投資盈利前景惡化，晶片需求或將萎縮，韓國股市由此遭遇大跌。但投資者對本輪短期快速上漲心存顧慮，同時仍無法確定晶片行業是否已經見頂。
-
----
-
-### 2026-08-16 09:18:54  #MKT News
-
-【US police arrest man linked to Virginia State University shooting】Chesterfield County police on Aug. 15 arrested 19-year-old Cameron Harris of Henrico in connection with a shooting at Virginia State University that injured five people. There were no fatalities; one victim is in critical condition. Authorities say Harris is not a student and has eight felony arrest warrants, including malicious wounding and using a firearm during the commission of a felony. Only one of the five wounded is a university student; the others are aged 17 to 23.
-
----
-
-### 2026-08-16 09:17:51  #國際
-
-【美警方逮捕一名與弗吉尼亞州立大學槍擊案有關人員】央視記者獲悉，當地時間8月15日，美國弗吉尼亞州警方逮捕了一名19歲男子，該男子涉嫌參與當日發生的一起致五人受傷的槍擊事件。此次槍擊未造成人員死亡，但有一名受害者傷勢危急。據悉，切斯特菲爾德縣警方宣佈逮捕了來自弗吉尼亞州亨里科的卡姆倫·哈里斯。當局表示，此人並非該校學生。警方稱，已對該男子簽發了八項重罪逮捕令，罪名包括蓄意傷害罪以及在實施重罪期間使用槍支等。儘管槍擊事件發生在校園，但在五名傷者中，只有一人是該校學生。當局表示，其餘四名受害者的年齡在17歲至23歲之間。（央視新聞）
-
----
-
-### 2026-08-16 09:17:00  #國際
-
-【美國知名寵物凍幹品牌VE試吃裝被曝“爬出活蟲”，涉事店鋪：正抽檢溯源】近日，多名消費者在社交平臺發帖稱，在淘寶天貓“Vital Essentials（簡稱VE）寵物海外旗艦店”購買的試吃裝凍幹（11.3克），開啟後爬出多條蠕動活蟲。店鋪僅同意退款，不願賠付。對此，涉事店鋪客服回覆稱，目前已針對該情況開展核查，並安排倉庫對相關批次進行抽檢溯源。（澎湃新聞）
-
----
-
-### 2026-08-16 09:16:10  #公司
-
-【網傳追覓大家電解散，俞浩已賣掉私人飛機】今日早間，“網傳追覓大家電解散”相關話題登上微博熱搜，引發廣泛關注。據流出內容，疑似追覓AWE期間冰箱相關業務供應商存在未結款情況，打算組團維權，引發大量供應商評論並唱衰追覓。部分人員甚至牽扯提及追覓裁員縮減、創始人俞浩賣掉私人飛機等事。對於前述訊息，新浪科技向追覓方面求證，截至發稿公司暫無回應。新浪科技注意，目前釋出該帖子的供應商已經刪除相關內容。（新浪科技）
-
----
-
-### 2026-08-16 09:14:44  #公司
-
-【英偉達正洽談向軟銀支援的SB Energy最高投資30億美元】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團扶持，該公司正在為OpenAI推進俄亥俄州大型資料中心專案。 一名知情人士表示，此次投資談判，是英偉達與OpenAI、SB Energy整體磋商的一部分。英偉達計劃為這座俄亥俄州資料中心園區提供約1000億美元信貸支援。此類交易越來越多，英偉達正藉助自身雄厚資金實力扶持AI相關企業與專案，以此推動企業採購、使用英偉達硬體產品。 知情人士稱，雙方討論的方案為：俄亥俄專案正式簽約時，英偉達先投放30億美元中的一半；剩餘一半將在SB Energy進行IPO時完成出資。 最高15億美元的出資規模，將使英偉達成為SB Energy本次IPO的主要投資方之一。一名訊息人士表示，SB Energy目標最早在下月上市，IPO募資規模至少50億美元。
-
----
-
-### 2026-08-16 09:14:00  #公司
-
-【科大訊飛高階副總裁婁超到訪長江產業集團】據長江產業集團訊息，8月14日，科大訊飛高階副總裁婁超到訪長江產業集團，與集團黨委書記、董事長黎苑楚圍繞人工智慧技術創新、產業投資、場景應用等領域深化合作進行深入交流。黎苑楚表示，雙方戰略高度契合、合作空間廣闊，希望以本次座談為契機，建立常態化溝通機制，圍繞科教融合、醫療健康、算力基建、產業數字化等重點領域，統籌整合各類資源要素，探索構建省級公共AI服務平臺，推動人工智慧技術與實體經濟深度融合。加快推動基金合作、算力共建等重大事項對接磋商。
-
----
-
-### 2026-08-16 09:13:29  #市場
-
-【認購率破400%、觸發積分搖號，上海4天兩個改善型樓盤“日光”】繼7月末徐匯濱江豪宅專案開盤售罄後，8月上旬，上海近郊改善專案熱度集中爆發，青浦徐涇、嘉定新城的兩個熱門改善盤接連實現日光。8月12日，位於青浦徐涇板塊的綠城·悅海棠迎來首次開盤，228套房源當天全部售罄。該專案認購階段就吸引了946組客戶參與認購，認購率達415%，成為市場少見的“千人搖”樓盤；同時專案觸發計分搖號排序程式，最終入圍分62.12分，這也是大虹橋板塊近三年來首個觸發積分的住宅專案。（澎湃）
-
----
-
-### 2026-08-16 09:11:01  #市場 #焦點 #原創
-
-【飛天茅臺穩中有漲 五糧液普五八代創月新高】新浪財經“酒價內參”過去24小時收集的資料顯示，8月16日中國白酒業11大單品九漲一跌一平，贏家佔據明顯上風。上漲方面，飛天茅臺上漲2元，終端零售均價來到1787元，穩居價格高地；五糧液普五八代上漲3元至811元，價格重回上行通道，創下近一個月最高紀錄；五糧液1618上漲3元至830元，昨日短期休整後再度走高；國窖1573上漲4元至895元，登上近一個月最高點，三連陽後上探900元大關；洋河夢之藍M6+上漲1元至606元，三連漲後站穩600元關口；古井貢古20上漲1元至541元，價盤高臺鞏固；習酒君品上漲2元至636元，仍在區間內小幅振盪；青花郎上漲2元至698元，蓄力看向700元關口；青花汾20上漲2元至394元，創下近一個月新高。下跌方面，精品茅臺下跌3元至2498元，八連漲後步入短期技術休整。水晶劍南春今日持平於405元，價盤保持平穩。
-
-今日11大單品的終端零售總價反彈，昨日短時下行後基本恢復至前天水平，如果11大單品各取一瓶整體打包售賣，今日總售價為10101元，較昨日上漲17元，重上10100元整百關口。
-
----
-
-### 2026-08-16 09:07:48  #其他
-
-【嵐圖董事長盧放：有車型說自己的座椅比邁巴赫多1度，我們比它多2度】在近日的嵐圖追光S釋出會上，嵐圖汽車董事長盧放發表演講。在講到嵐圖追光S的座椅時，他表示，“本來我不太想說這個，但是我們同事要求我一定要說。有車型說自己的座椅比邁巴赫多1度，那麼我們就比它多2度。”（新浪科技）
-
----
-
-### 2026-08-16 09:06:50  #MKT News #Market Themes #China EV Leaders #NIO.O #Impact bullish
-
-NIO said as of today it has built 9,210 charging and battery-swap stations nationwide: 4,020 battery-swap stations, 5,190 charging stations and 29,915 charging piles, and has completed over 120 mln battery swaps.
-
----
-
-### 2026-08-16 09:06:40  #公司
-
-【國家電網投了量子科技】記者獲悉，近日，安徽省國盛量子科技有限公司（簡稱“國盛量子”）完成數千萬元戰略融資，本次投資由國家電網旗下的國網創投基金實施。資金將主要用於金剛石NV色心量子測量技術迭代、量子感測產品矩陣擴容與產能建設，並加速技術在工業場景的產業化落地。（上證報）
-
----
-
-### 2026-08-16 09:06:13  #其他
-
-【比利時發生大規模野火 數百居民被疏散】比利時東部地區日前發生大規模野火，截至15日晚，過火面積已超過2700公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。（新華社）
-
----
-
-### 2026-08-16 09:04:01  #國際
-
-伊朗總統將本國經濟困境歸咎於美國對伊朗港口的封鎖以及石油收入下滑，他表示工業設施遭轟炸同樣重創了政府財政。
-
----
-
-### 2026-08-16 09:01:41  #MKT News
-
-A CNN poll found 71% say President Trump has not done enough to lower prices of everyday goods, up from 58% a year earlier.
-
----
-
-### 2026-08-16 09:01:32  #市場 #焦點
-
-美銅暗盤跌破6.8美元，日內跌幅0.6%。
-
----
-
-### 2026-08-16 09:01:29  #MKT News
-
-【Harvard discloses $2.2 bln SpaceX stake】Harvard Management Company disclosed a $2.2 bln stake in SpaceX in a Friday regulatory filing, making SpaceX the largest single-stock holding in its $4.3 bln U.S. equity portfolio. SpaceX’s record June IPO delivered substantial gains to university endowments that held earlier VC positions. The University of California’s investment office this week disclosed roughly $1 bln in SpaceX holdings; the University of North Carolina and Washington University in St. Louis also report stakes.
-
----
-
-### 2026-08-16 09:00:22  #其他
-
-蔚來汽車：截至今日，蔚來全國建成9,210座充換電站，其中換電站4,020座，充電站5,190座、充電樁29,915根，累計提供超1.2億次換電。
-
----
-
-### 2026-08-16 09:00:07  #其他
-
-【浙江調整水旱災害防禦應急響應至三級】記者從浙江省水利廳瞭解到，當前，浙江苕溪流域瓶窯站水位6.64米，已降至保證水位以下，杭嘉湖東部平原嘉興站水位高位波動，緩慢回落。根據《浙江省水利廳水旱災害防禦應急工作預案》，浙江省水利廳決定於今日8時30分將水旱災害防禦應急響應調整至Ⅲ級（三級）。
-
----
-
-### 2026-08-16 08:59:28  #其他
-
-市場訊息：葉門攔截邁哈市上空的胡塞武裝無人機。
-
----
-
-### 2026-08-16 08:58:38  #其他
-
-【高瓴旗下HHLR披露最新美股持倉 二季度增持英偉達】近日，高瓴旗下專注二級市場投資的基金管理平臺HHLR Advisors（簡稱“HHLR”）公佈的最新美股持倉情況顯示，截至二季度末，HHLR美股持倉總市值約為8.32億美元，持倉數量為35只，生物科技繼續佔據組合重要位置。從加減倉動作來看，HHLR二季度增持了英偉達、Coherent、Corning及Lumentum等半導體和光通訊相關標的。
-
----
-
-### 2026-08-16 08:56:57  #國際
-
-美國國家颶風中心（NHC）：破壞性大風與強降雨正席捲夏威夷大島。
-
----
-
-### 2026-08-16 08:53:24  #國際
-
-【美軍司令登林肯號航母 長期部署致船員身心困境引爭議】據美國中央司令部訊息，負責對伊朗戰事的美國海軍上將於週六登上亞伯拉罕・林肯號航空母艦。該航母經過長時間戰時部署，正準備返航。 司令部表示，中央司令部司令布拉德・庫珀上將此次登艦，為其為期10天的出訪行程畫上句號。此行還到訪巴林、伊拉克、以色列、約旦、沙烏地阿拉伯以及阿聯酋。此前有報道稱，該航母連續9個月未停靠任何港口，艦上生活條件惡劣，部分船員出現心理健康問題，庫珀正是在這一背景下到訪林肯號。
-
----
-
-### 2026-08-16 08:51:50  #市場
-
-【襄河全椒段洪峰過境，水位正在回落】受近期持續降雨及上游來水影響，滁河支流襄河安徽滁州全椒段水位一度快速上漲。昨天（8月15日）8時36分，襄河口閘水文站出現洪峰水位12.77米，超警戒水位1.77米。隨後，水位開始逐漸回落。今早6時，襄河口閘水文站水位已降至12.14米，回落趨勢穩定。據氣象部門預報，全椒縣未來一週以陰到多雲天氣為主，無明顯降水過程。目前，全椒縣河道加固、水庫堤壩巡堤查險等各項工作仍在持續開展。（央視新聞）
 
 ---
