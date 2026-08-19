@@ -1,7 +1,99 @@
 {
   "date": "2026-08-19",
-  "count": 749,
+  "count": 758,
   "items": [
+    {
+      "id": "5046828",
+      "time": "2026-08-19 10:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【智元全尺寸人形機器人遠征A3獲中、歐雙重認證】8月19日，介面新聞獲悉，智元旗下遠征A3全尺寸雙足人形機器人取得已取得中國CR及歐盟CE系列產品認證。此次認證由國家機器人檢測與評定中心（總部）與德國萊茵TÜV分別頒發，考核指標覆蓋電氣安全、機械安全、功能安全、網路安全等全球化市場準入核心維度。這一進展標誌著國產全尺寸人形機器人的整機安全性與可靠性獲得國際第三方評估體系認可，為其後續的出海及跨區域商業化落地解決了基礎合規問題。"
+    },
+    {
+      "id": "te:markets:576298",
+      "time": "2026-08-19 10:08:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Fall on Semiconductor Selloff — The Shanghai Composite slipped 1% to 3,953 on Wednesday, while the Shenzhen Component lost 2.2% to 14,301, as a broad selloff in semiconductor stocks weighed heavily on both benchmarks. Chipmakers came under pressure worldwide as government bond yields surged amid persistent inflation, elevated fiscal spending, and heavy debt issuance. At the same time, geopolitical tensions raised concerns about energy supply disruptions, adding to fears that inflation and financing costs may stay elevated for an extended period. The decline came despite strong earnings from GigaDevice, which reported H1 2026 revenue of RMB 11.57 billion, up 178.7% from a year earlier, while net profit attributable to shareholders surged 1,091.5% to RMB 6.86 billion. Investors continued to rotate out of the sector, with SMIC (-1.3%), Hygon Information Technology (-3%), GigaDevice (-1.6%), Hua Hong Semiconductor (-2%), Zhongji Innolight (-1.3%), and Eoptolink Technology (-3.1%) among the session’s biggest decliners."
+    },
+    {
+      "id": "mkt:01a017c5-eca0-7aab-9086-83a77a949cf4",
+      "time": "2026-08-19 10:07:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【VeriSilicon: YTD new orders CNY15.142 bln; 90% AI compute-related, 89% data-processing】VeriSilicon told an Aug. 17 conference call that new orders signed from Jan. 1–Aug. 17, 2026 totaled CNY15.142 bln. AI compute-related orders account for 90% and data-processing orders 89%. The company said the orders have clear conversion visibility but revenue conversion will take time: design-service contracts typically require a 9–12 month R&D cycle; mass-production service orders depend on customer shipment plans and foundry capacity scheduling and typically require a 6–18 month end-to-end production and delivery cycle from signing."
+    },
+    {
+      "id": "te:markets:576297",
+      "time": "2026-08-19 10:07:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 96 points, to 25,372 on Wednesday, as investors remained cautious following a selloff in US technology shares, elevated bond yields, rising oil prices and renewed Middle East tensions. Meanwhile, China’s financial regulator approved allowing mainland insurance funds to invest in Hong Kong-listed ETFs through Stock Connect, potentially providing an additional source of mainland institutional capital for Hong Kong equities. On the corporate front, China Unicom is down around 10% after reported first-half net profit attributable to shareholders of RMB9.5 billion, down 34.6% year-on-year, while operating revenue rose 0.6% to RMB201.4 billion. Tencent (-0.7%), SMIC (-1.4%), Lenovo (-1.2%), and Kingboard Laminates (-3.4%) led declines, while Xiaomi gained 4.4%. Investors are also awaiting HKEX’s interim results announcement today, with the exchange’s shares among the stocks to watch."
+    },
+    {
+      "id": "5046827",
+      "time": "2026-08-19 10:07:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4％，成分股中，芯原股份跌7.64％，華虹宏力跌6.86％，盛美上海跌6.35％，瀾起科技跌5.75％。"
+    },
+    {
+      "id": "mkt:01a017c5-8862-7aab-9086-7e8f83517af9",
+      "time": "2026-08-19 10:06:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CSI 500 index futures (IC) front contract down 2.00% intraday at 7,854.4 points. CSI 1000 index futures (IM) front contract fell below 7,600 points, down 2.58% intraday."
+    },
+    {
+      "id": "mkt:01a017c4-9563-7aab-9086-75761557124b",
+      "time": "2026-08-19 10:05:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China's CSI 300 index futures (IF) main contract touched 4,600, down 1.40% intraday."
+    },
+    {
+      "id": "5046826",
+      "time": "2026-08-19 10:05:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7862.00點。"
+    },
+    {
+      "id": "5046825",
+      "time": "2026-08-19 10:05:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯原股份：今年目前新簽訂單增長至151.42億元，AI算力相關訂單佔比90%】芯原股份8月17日在電話會議表示，2026年1月1日至8月17日，公司新簽訂單進一步增長至151.42億元，AI算力相關訂單佔比90%，資料處理領域訂單佔比89%。上述訂單具備明確轉化預期，但收入轉化需要一定時間週期。其中，設計服務訂單通常需9—12個月設計研發週期；量產服務業務訂單受客戶產品出貨規劃、合作晶圓廠產能排期等因素影響，從簽約開始通常需6—18個月完整生產交付週期。"
+    },
     {
       "id": "5046824",
       "time": "2026-08-19 10:05:03",
