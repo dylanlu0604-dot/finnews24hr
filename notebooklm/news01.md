@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 00:42:19_
-_本檔包含 3154 則快訊，約 620029 字_
+_更新時間：2026-08-20 01:01:45_
+_本檔包含 3154 則快訊，約 620070 字_
+
+---
+
+### 2026-08-20 01:00:24  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
+
+【Venezuela steps up oil licensing push, offers 916 blocks for production-sharing deals】Venezuela’s oil minister Paola Enau told investors in Houston Caracas seeks to sign production-sharing contracts to raise output from the country with the world’s largest crude reserves. She said 916 exploration and production blocks are available and that Venezuela must conclude such agreements to access the new blocks. This week Caracas signed deals with Schlumberger (SLB.N) and Hunt Oil; about 140 companies attended the investor session as Venezuela seeks more private investment to reverse a roughly 20-year decline in oil production.
+
+---
+
+### 2026-08-20 01:00:22  #市場 #國際
+
+美國國債20年期收益率在160億美元拍賣前為5.199%。
+
+---
+
+### 2026-08-20 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.40%，滬銅收漲0.23%，滬鋁收跌0.23%，滬鋅收跌0.16%，滬鉛收漲0.19%，滬鎳收漲1.89%，滬錫收漲0.92%。氧化鋁夜盤收漲0.34%，鋁合金收漲0.37%。不鏽鋼夜盤收漲0.84%。
+
+---
+
+### 2026-08-20 01:00:01  #公司
+
+環球音樂集團：蘋果公司與環球音樂集團宣佈達成標誌性全球電子商務與周邊商品合作，合作範圍涉及披頭士樂隊相關業務。
+
+---
+
+### 2026-08-20 00:59:52  #公司
+
+環球音樂集團：蘋果公司與環球音樂集團宣佈達成披頭士樂隊全球電子商務及周邊商品合作關係。
+
+---
+
+### 2026-08-20 00:59:08  #MKT News
+
+【Trump expects to meet Kim Jong Un later this year】U.S. President Trump told reporters at the White House on the 19th he expects to meet North Korean leader Kim Jong Un later this year. When asked about an autumn meeting he replied in the affirmative and said he knows Kim well and gets along with him.
+
+---
+
+### 2026-08-20 00:58:07  #國際
+
+【特朗普預計今年晚些時候會見金正恩】美國總統特朗普19日在白宮對媒體表示，他預計今年晚些時候將會見朝鮮領導人金正恩。特朗普當天視察了正在白宮南草坪新建的直升機停機坪工地。被問及今秋是否會與金正恩會晤時，特朗普作出肯定回答，並稱“非常瞭解金正恩”，“同他相處得很好”。(新華社)
+
+---
+
+### 2026-08-20 00:58:04  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Strengthens to 3-Month High — The euro strengthened to $1.167 on Wednesday, the highest in three months, and tracking the jump in G10 currencies after the US Treasury raised its bond buyback limits and triggered a plunge in the dollar. The US Treasury doubled the limit of long-term notes and bonds to be repurchased next financial quarter, likely raising dollar liquidity from the US Treasury General Account. The measures signaled that Washington is prioritizing lower long-term yields, opting instead to raise dollar supply to strengthen currencies in the DXY basket. Meanwhile, soaring natural gas prices in Europe due to the supply shortages from the Middle East were expected to maintain upside risks on inflation. The European Central Bank is expected to deliver more rate hikes this year to combat price growth.
+
+---
+
+### 2026-08-20 00:57:39  #國際
+
+土耳其部長稱，土耳其已做好在敘利亞勘探石油和天然氣的準備。
+
+---
+
+### 2026-08-20 00:55:18  #國際
+
+美國貨幣監理署（OCC）表示，將為加密貨幣穩定幣發行機構搭建監管框架。
+
+---
+
+### 2026-08-20 00:54:52  #國際
+
+美國食品藥品監督管理局（FDA）批准首款獨立抽血機器人Aletta上市。
+
+---
+
+### 2026-08-20 00:53:41  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian General Nahdi said the US failed to achieve its war aims of "overthrowing the Iranian regime" and "dividing Iran," and that subsequent operations have lost strategic direction. He said Iran's current priority is restoring deterrence to prevent further attacks.
+
+---
+
+### 2026-08-20 00:50:48  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian General Nahdi said a ceasefire or talks are not the ultimate goal; the key is to build a deterrence mechanism that "prevents opponents from daring to attack again."
+
+---
+
+### 2026-08-20 00:50:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【Fed rate decision preview: inf concerns and policy dissent in focus】SGH Macro Advisors chief US economist Tim Duy says a rise in dissenting Fed votes has become more common amid economic strain and an unclear policy path. Ahead of the minutes, markets will key on how widespread officials’ inf concerns are — Duy says inf was clearly above target and policymakers feared it would not quickly return — and on whether a stabilizing labor market has led some officials to press for further rate hikes. The breadth of agreement on inf risks and the degree of disagreement over the policy path will be watched as a guide to future rate direction.
+
+---
+
+### 2026-08-20 00:49:52  #其他
+
+【阿根廷首都一機場因可疑包裹緊急疏散部分割槽域】阿根廷首都布宜諾斯艾利斯一座機場大廳19日發現一件可疑包裹，警方一度緊急疏散航站樓部分割槽域。 當地時間19日9時30分左右，布宜諾斯艾利斯豪爾赫紐伯裡機場大廳發現一件可疑包裹，機場警方緊急疏散機場中央大廳和餐飲區，並對該包裹進行查驗。 據機場警方訊息，經初步調查，該包裹對乘客和機場安全不構成威脅，目前機場已恢復正常運營。
+
+---
+
+### 2026-08-20 00:48:20  #Trading Economics #Economy #Colombia #Balance of Trade #Importance 0
+
+Colombia Posts Largest Trade Deficit Since 2022 — Colombia’s trade deficit widened to $2.54 billion in June 2026, the largest deficit since August 2022, from $1.38 billion a year earlier. Imports surged 27% year-on-year to $6.78 billion, marking their fastest growth since 2022. The increase was driven by a 67.2% rise in purchases of fuels and extractive industry products, led by a 68.5% surge in petroleum and related products. Imports of manufactured goods also climbed 23.1%, supported by stronger purchases of machinery and transport equipment (33.6%) and chemical products (21.6%), while agricultural imports increased 23.4%. Meanwhile, exports rose at a slower 7% to $4.23 billion, supported by a 17.1% increase in shipments of fuels and extractive industry products, which accounted for 42.6% of total exports. Manufactured exports also increased 2.4%. In contrast, agricultural and food exports, which represented 25.8% of total shipments, fell 10.8%.
+
+---
+
+### 2026-08-20 00:44:58  #市場 #國際
+
+美國商品期貨交易委員會就算力衍生品合約的掛牌上市徵求公眾意見。
+
+---
+
+### 2026-08-20 00:44:42  #MKT News
+
+The U.S. Commodity Futures Trading Commission (CFTC) is seeking public comment on a proposed listing of computing‑power derivatives contracts.
+
+---
+
+### 2026-08-20 00:44:05  #MKT News
+
+Qatar's foreign ministry said Qatar and Saudi Arabia reiterated support for resolving differences through diplomatic means.
+
+---
+
+### 2026-08-20 00:43:17  #國際
+
+卡達外交部：卡達首相兼外交部長與沙特外交部長均表示支援透過外交途徑解決分歧。
+
+---
+
+### 2026-08-20 00:43:06  #MKT News
+
+Qatar foreign ministry said the Qatari prime minister and foreign minister met the Saudi foreign minister in Riyadh to discuss efforts to reduce regional tensions.
+
+---
+
+### 2026-08-20 00:41:41  #其他
+
+【受熱帶低壓影響 廣東徐聞港、海安新港客滾船將於今日停運】受南海熱帶低壓影響，廣東湛江徐聞港、海安新港客滾船將於8月20日16時起停運，復運時間將視氣象情況而定。交通部門提醒，受本次停航影響及需要過海的司機、旅客朋友們，請合理安排好行程，停運期間請勿前往港口。停運期間所購船票順延有效。(央視新聞)
 
 ---
 
@@ -18879,137 +19011,5 @@ Market sources say ANTHROPIC's pre-IPO credit facility could exceed its $10 bln 
 ### 2026-08-19 00:43:13  #MKT News #Brent #Impact bullish
 
 【UAE says ready to respond to any threat】UAE defence ministry said air-defence systems detected two ballistic missiles from the direction of Iran heading toward UAE; one fell outside territorial waters and the other inside, with no casualties or damage. The ministry said the country is on high alert, prepared to respond to any threat and will take measures to safeguard sovereignty, security and stability. It urged the public to obtain information only from official channels and avoid spreading unverified reports.
-
----
-
-### 2026-08-19 00:42:19  #其他
-
-據稱 Anthropic 要求各牽頭銀行分別提供約 12.5 億美元貸款，要求其餘主要參與銀行各提供約 10 億美元貸款。
-
----
-
-### 2026-08-19 00:42:01  #MKT News #WTI #Impact bullish #Brent #US10Y #Impact bearish
-
-【Global supply squeeze intensifies as US diesel margin tops $100/bbl】US diesel refining margin (diesel crack spread) has surged above $100/bbl, a record level amid tightening global fuel production. The diesel crack hovered around $100/bbl on Tuesday, slightly below a prior peak above $102/bbl; it first closed above $100/bbl on Monday. Before this year the metric had never exceeded $89/bbl; the previous record was set in October 2022 during a diesel shortage ahead of winter. A combination of factors has created a near "perfect storm" pushing diesel prices higher and may lift winter heating costs and add renewed inflationary pressure.
-
----
-
-### 2026-08-19 00:41:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Interfax reported Russian Foreign Minister Lavrov said Russia has the right to treat UK missile forces directly involved in strikes on Russia as participants in the conflict.
-
----
-
-### 2026-08-19 00:41:41  #公司 #其他 #焦點 #國際
-
-Anthropic 上市前信貸安排規模預計將突破 100 億美元目標。
-
----
-
-### 2026-08-19 00:38:51  #國際
-
-俄羅斯外長拉夫羅夫：我們有權將英國導彈部隊直接參與打擊俄羅斯的行為視作介入衝突。
-
----
-
-### 2026-08-19 00:35:51  #公司 #市場 #國際
-
-【歐洲股市錄得去年年末以來最長連跌 成交量接近年內最低水平】隨著美國與伊朗之間緊張局勢升溫，油價和債券收益率上漲，歐洲股市錄得今年以來的最長連跌。歐洲斯托克600指數週二收跌0.7%，連續第五個交易日走低。上一次出現這樣的連跌是在2025年11月。科技股表現最差，其中Soitec和Austria Technologie & Systemtechnik AG等硬體股領跌。能源股則上漲，布倫特原油升破每桶90美元，此前美國總統特朗普表示，目前沒有與伊朗進行談判。此輪下跌之前，強勁的財報季曾推動該指數創下紀錄高位。隨著企業財報釋出節奏放緩，投資者正在評估油價上漲帶來的通脹影響，以及人工智慧支出增加的影響。歐洲股市成交量目前接近年內最低水平，夏季流動性清淡可能進一步放大市場波動。
-
----
-
-### 2026-08-19 00:35:09  #其他
-
-阿聯酋國防部：一枚導彈落入領海以外海域，另一枚則墜入領海範圍內。
-
----
-
-### 2026-08-19 00:34:22  #焦點 #國際
-
-阿聯酋國防部稱，其探測到兩枚從伊朗發射的彈道導彈。
-
----
-
-### 2026-08-19 00:33:36  #國際
-
-【美銀指英偉達遭低估且折價或深達50%】美國銀行認為，英偉達的股價被嚴重低估，從而造就了“一個極具吸引力的機會”，因投資者誇大了這家AI晶片龍頭企業面臨的風險。分析師Vivek Arya在研報中寫道：““我們基於自由現金流用途的概念性分部估值法顯示，即便考慮進融資風險，該股仍有34%至50%的折讓”。美銀指出，對這種折讓的“最有力反推”可能是將更大比例的自由現金流用於股票回購來提高投資者的現金回報。但也表示若人工智慧需求放緩，英偉達的增長率和資產負債表都可能面臨壓力。
-
----
-
-### 2026-08-19 00:31:22  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Pull Back — European stocks closed firmly lower on Tuesday, tracking a negative session for global equities as longer-term bond yields extended their increase. The Euro STOXX 50 lost 0.9% to 6,473 and the STOXX Europe 600 fell 0.6% to 652. Sovereign yields in Europe's largest economies rose sharply in the session, tracking those in North America as soaring levels of debt issuance by AI giants took the market's forefront. This magnified stretched deficit spending both in the US and the Eurozone, adding to concerns of rate hikes by central banks. ASML sank 5% and Infineon lost more than 7%, erasing gains from the last sessions. Meanwhile, Schneider Electric and Siemens fell 4.5% and 2.3%, while Siemens Energy fell 5.5%, aligned with losses in AI infrastructure.
-
----
-
-### 2026-08-19 00:28:04  #國際
-
-據Axios記者：以色列一名高階官員聲稱，對伊德利卜地區敘利亞空軍基地發動襲擊，目的是阻止土耳其軍隊在該地構築陣地。土耳其一名高階官員回應：該空軍基地並無土耳其人員駐守。以色列編造藉口轟炸鄰國，破壞地區穩定。
-
----
-
-### 2026-08-19 00:27:23  #公司 #國際
-
-英國人工智慧企業 Quantera 執行長稱，公司正考慮赴英國或美國股市上市，也不排除兩地同時上市。
-
----
-
-### 2026-08-19 00:25:15  #市場
-
-【兩年期德債收益率漲5個基點，中長期德債收益率創2011年以來新高】週二（8月18日）歐市尾盤，德國10年期國債收益率漲3.8個基點，連續三個交易日走高（期內累計上漲12.8個基點），報3.259%，全天處於上漲狀態，北京時間14:29“高開”至3.240%，日內大部分時間持穩於3.255%附近，21:30美股開盤時達到3.272%，逼近2011年5月5日頂部3.333%、當年4月11日頂部3.505%、2008年9月22日頂部4.283%、以及208年7月23日頂部4.699%。兩年期德債收益率漲5.0個基點，報2.853%，日內交投於2.817%-2.861%區間；30年期德債收益率漲2.4個基點，最近三天漲13.0個基點，報3.770%，18:53達到3.782%，逼近2011年三季度頂部3.773%、2010年一季度頂部4.147%。2/10年期德債收益率利差跌1.229個基點，報+40.419個基點。
-
----
-
-### 2026-08-19 00:20:40  #市場 #國際
-
-【美國柴油利潤飆升至每桶100美元以上，創歷史新高】美國用原油生產柴油的利潤已飆升至每桶100美元以上，創下新的歷史最高紀錄。與此同時，全球煉油產能緊缺的局面仍在加劇燃料價格上漲。這一備受關注的指標——即柴油裂解價差——週二徘徊在每桶100美元附近，較此前超過102美元/桶的歷史高點小幅回落。該價差在週一首次收於三位數水平。在此之前，該指標從未突破每桶89美元，此前的歷史紀錄是在2022年10月創下的，當時全球正面臨進入俄烏衝突首個冬季前的燃料短缺問題。
-
----
-
-### 2026-08-19 00:20:27  #國際
-
-市場訊息：阿布扎比與華盛頓領導人通電話，商討阿聯酋與美國多領域合作及強化合作的途徑；此前一週，霍爾木茲海峽已發生三起涉及阿聯酋船隻的事件。
-
----
-
-### 2026-08-19 00:17:23  #MKT News
-
-Tasnim News Agency cites Houthi sources denying reports they launched a missile attack on the UAE.
-
----
-
-### 2026-08-19 00:15:24  #國際
-
-伊朗塔斯尼姆通訊社：葉門胡塞武裝知情人士否認有關向阿聯酋發動導彈襲擊的報道。
-
----
-
-### 2026-08-19 00:12:07  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 1.06% Lower — The FTSE MIB Index dropped 569 points or 1.06 percent on Tuesday to close at 53018 points. Losses were led by STMicroelectronics (-7.35%), Prysmian (-5.00%) and Buzzi Unicem (-3.35%).
-
----
-
-### 2026-08-19 00:11:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.80% Lower — The DAX Index decreased 210 points or 0.80 percent on Tuesday to close at 26128 points. The decline was led by Infineon (-7.15%), Siemens Energy (-5.23%) and HeidelbergCement (-2.65%). On the upside, the strongest performers were SAP (2.24%), Bayer (1.75%) and Deutsche Telekom (1.66%).
-
----
-
-### 2026-08-19 00:10:06  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 percent on Tuesday to close at 8514 points. Leading the losses are STMicroelectronics (-7.31%), Schneider Electric (-4.50%) and Legrand (-3.98%). Top gainers were Essilor (2.77%), Dassault Systemes (2.48%) and TotalEnergies SE (1.73%).
-
----
-
-### 2026-08-19 00:09:09  #公司
-
-英國石油公司BP參與委內瑞拉石油貿易，挑戰Trafigura、Vitol。
-
----
-
-### 2026-08-19 00:09:06  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.1% to 53,018 on Tuesday, weighed down by soaring bond yields. Sovereign yields climbed to multi-year highs across major economies as a prolonged conflict in the Middle East keeps inflation risks elevated, while technology firms increase bond issuance at longer maturities to finance AI investments. STMicroelectronics led the losses, plunging 7.6%, while Prysmian fell 4.9% as concerns over excessive AI spending persist. Financials also underperformed as higher sovereign yields weighed on their balance sheets, with FinecoBank, UniCredit, BPER Banca and Banco BPM falling more than 1%. Meanwhile, utilities outperformed, recovering from recent selling pressure. Nexi gained 2% as Stripe’s M&A activity improved sentiment across the digital payments sector.
 
 ---

@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 00:42:19_
-_本檔包含 3238 則快訊，約 619556 字_
+_更新時間：2026-08-20 01:01:45_
+_本檔包含 3242 則快訊，約 619872 字_
+
+---
+
+### 2026-08-14 07:24:00  #央行 #中國央行
+
+【二季度貨幣政策執行報告釋放了哪些新訊號？】中國銀河證券首席宏觀分析師張迪認為，“增強政策前瞻性靈活性針對性”，意味著下一階段的貨幣政策將更加強調前瞻發力並保持靈活，在宏觀政策中率先發力穩就業、穩企業、穩市場、穩預期。同時，貨幣政策工具的使用轉變為“綜合運用並適時調整貨幣政策工具”，釋放出下半年貨幣政策工具有望做出調整的政策訊號。
+
+---
+
+### 2026-08-14 07:23:59  #國際
+
+美國國家颶風中心表示，維德角群島附近的風暴在未來48小時內發展為颶風的機率為30%。
+
+---
+
+### 2026-08-14 07:23:52  #國際
+
+【報告：三大經濟因素或將推動電動汽車發展】知名研究機構伍德麥肯茲週四釋出的一份報告稱，三股新興的經濟力量有望推動全球電動汽車產量增長，並對石油、電力和金屬市場產生影響。報告指出，這三大力量分別是：產油國俄羅斯和伊朗各自陷入戰爭所引發的石油供應衝擊，迫使各國政府加快對供應鏈的投資；高昂的燃油價格促使消費者轉向電動汽車；以及技術創新。中國在電池技術方面正取得快速進展，包括5分鐘快充技術，以及鈉離子電池和磷酸鐵鋰電池。報告稱，西方國家可藉助政府支援來推動創新。德麥肯茲預測，由於美國國內石油供應充沛，電動汽車佔其市場份額僅將從目前的3%增至2040年的20%。而在石油進口依賴度較高的歐洲，電動汽車份額應會從2025年的3%上升至2040年的35%。
+
+---
+
+### 2026-08-14 07:22:13  #公司
+
+【上市公司頻現1元甩賣資產 被甩賣公司普遍資不抵債】據證券時報記者不完全統計，2026年以來，已有十餘家上市公司先後釋出公告，以1元的名義對價掛牌出售旗下子公司的股權。被低價甩賣的子公司股權的標的多數業績連續虧損，不少甚至處於資不抵債的狀態。在業內人士看來，這類“白菜價”轉讓的表層邏輯，主要是上市公司急於將虧損資產從合併報表中剝離，最佳化當期的財務報表，從而保住上市資格，維持自身在資本市場的正常融資能力，但交易邊界模糊，低價轉讓不良資產背後潛藏著更大的風險。
+
+---
+
+### 2026-08-14 07:20:38  #公司 #市場
+
+【銀湖資本據悉正就收購Workday進行談判】據報道，私募股權公司銀湖資本（Silver Lake）正就收購Workday進行談判。受此訊息影響，Workday股價週四上漲近18%。
+
+---
+
+### 2026-08-14 07:20:25  #其他
+
+【火箭密集發射帶動招聘熱潮 帶動史上規模最大招聘熱潮】今年以來，國內商業航天產業邁入火箭密集發射、新型號加速攻堅的新階段，隨著人才需求持續井噴，行業迎來史上規模最大、集聚度最高的招聘熱潮。 本輪商業航天招聘熱潮，是行業資本加碼、型號密集落地的必然結果。今年上半年，國內商業航天領域達成102起融資，總額177.09億元，資金主要投向火箭、衛星賽道，為相關企業“招兵買馬”增添了足夠底氣。 當前行業存在結構性人才缺口，液體可回收火箭全鏈條人才供需矛盾最為突出。 本輪集中招聘凸顯行業全新趨勢：航天資源不再高度集中於北京，逐步向全國擴散，海陽、無錫、濟南、廣州等航天新城快速崛起，全國產業佈局逐步成型。（證券時報）
+
+---
+
+### 2026-08-14 07:20:08  #MKT News #Important
+
+Reserve Bank of Australia governor BULLOCK will attend a House of Representatives Standing Committee on Economics hearing in 10 minutes.
+
+---
+
+### 2026-08-14 07:18:56  #市場
+
+【五糧液“挺價”新措施：經銷商不得低於800元拋售第八代五糧液，批價月內已明顯上漲】繼收緊渠道補貼政策之後，五糧液又推出“控貨挺價”措施。8月13日，市場訊息稱，五糧液近期向經銷商發出通知，不得以低於800元/瓶的價格低價拋售第八代五糧液，同時，酒廠也將加強對低價出貨和竄貨經銷商的處罰。對此，記者從五糧液經銷商處獲悉，上述訊息屬實。不過，目前五糧液方面尚未就上述訊息作出公開回應。記者還瞭解到，在終端市場上，不少專賣店、連鎖酒行第八代五糧液的零售價都在800元/瓶以上，個別專賣店價格高達850元/瓶。（澎湃新聞）
+
+---
+
+### 2026-08-14 07:17:23  #其他
+
+【當“固收+”產品買入AI 低波防線失守考驗投資策略】年內A股科技主線大幅波動，意外掀開了低波“固收+”產品運作的隱秘一角。部分主打低波穩健的“固收+”產品，在上半年悄然將權益倉位向光模組、半導體等熱門高彈性賽道傾斜。代價已然顯現：有產品淨值年內回撤超2%、最大回撤幅度突破5%，遠超同類產品平均波動水平。有業內人士表示，低波“固收+”的核心矛盾在於，將合同允許的最大風險當作實際運作的底線，而忽略了產品定位。當科技成長的高波動屬性與低波定位產生內在衝突，基金經理若僅依靠降低單一個股倉位而忽視風險因子的實質分散，極易陷入“假分散、真暴露”的陷阱。在“潛在收益誘惑”與“回撤風險控制”的博弈中，如何嚴守風險預算這本賬，正成為檢驗“固收+”產品成色的試金石。（中國證券報）
+
+---
+
+### 2026-08-14 07:16:55  #宏觀
+
+【多地密集落地新政 支援提取公積金用於自住住房裝修等】繼7月31日國務院常務會議審議透過《國務院關於修改〈住房公積金管理條例〉的決定（草案）》後，8月以來，多地密集落地新政，支援提取公積金用於自住住房裝修、物業費及更新改造等場景。據證券時報記者梳理，8月以來，多地新政密集落地。其中，北京明確對自住住房進行裝修裝飾可申請提取公積金；威海支援提取公積金支付住宅專項維修資金、契稅、物業費及取暖費；漢中則進一步將裝修、車位、物業費、契稅及住宅專項維修資金全部納入提取範圍。此外，南寧、通遼、玉溪、珠海等地也分別就自住房裝修、更新改造及物業費等場景出臺公積金支援新政，並於8月份正式實施。
+
+---
+
+### 2026-08-14 07:16:12  #央行 #公司 #市場
+
+【證券時報：隔夜逆回購提頻 短端利率管理更精準】本週二、週三，公開市場7天期逆回購連續兩日“零操作”，一度讓市場猜測央行此舉是否有意透過邊際收緊短端流動性投放，調控債市收益率下行節奏。然而，週三傍晚央行預告，未來將有4天開展隔夜逆回購操作，單日操作上限6000億元。訊息甫出，市場情緒提振，債市再度走強。從實際作用看，不同於前兩個月在月末時點操作，此番增加月中操作，可以精準對沖8月中旬稅期、繳準、政府債發行等疊加的資金擾動，保障資金面充裕有序；且公告中未提前明確具體操作規模，只提及操作上限，恰好契合彈性繳稅日期對銀行體系流動性影響的不確定性，保留貨幣政策操作的靈活適度。
+
+---
+
+### 2026-08-14 07:16:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Treasury Secretary Bessent said the US will take unprecedented measures against Iran.
+
+---
+
+### 2026-08-14 07:14:37  #宏觀 #國際
+
+美國財政部長貝森特在Newsmax上表示：我們將對伊朗實施前所未有的措施。
+
+---
+
+### 2026-08-14 07:14:37  #MKT News
+
+Iran's Fars news agency cited Palestinian sources saying Israeli forces launched attacks on multiple sites in eastern Gaza.
+
+---
+
+### 2026-08-14 07:14:24  #市場
+
+【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加22.49噸】截至2026年08月13日，全球最大的白銀ETF iShares Silver Trust持倉量為15336.03噸，較前一個交易日增加22.49噸。
+
+---
+
+### 2026-08-14 07:14:18  #其他
+
+【五年期大額存單重啟 銀行意圖穩長期負債】在停售數月後，四家國有大型銀行近期陸續重啟五年期大額存單發行，產品最高年利率為1.6%。記者實地走訪多家銀行營業網點發現，五年期大額存單額度充足，投資者認購熱情平淡，銀行客戶經理推廣意願也不強。業內人士認為，國有大行重啟五年期大額存單，意在鎖定長期資金，對沖巨量定期存款到期壓力，拉長負債久期，這是利率下行週期穩定負債的階段性操作，並非存款利率觸底反彈的訊號。受制於淨息差持續承壓，銀行業難以大規模發行長期限大額存單。（中國證券報）
+
+---
+
+### 2026-08-14 07:13:55  #國際
+
+【朝鮮外務省：美韓8月聯合軍演本質是侵略戰爭預演 】據朝中社14日報道，朝鮮外務省發言人13日發表談話說，美國和韓國宣佈將於8月17日開始進行2026“乙支自由之盾”大規模聯合軍演，此次軍演本質是侵略戰爭預演。 朝方說，美國公開表示，此次聯合軍演與過去5年的演習截然不同，將把重點放在熟練適應現代戰爭新模式的戰爭執行能力上，這表明軍演目的在於完善同朝鮮實際開展軍事對抗的準備。 朝方認為，此次軍演的挑釁性和危險性遠超去年，對朝鮮的國家安全以及地區的安全環境造成嚴重威脅。 朝方表示，朝鮮將以新遏制力應對新威脅，以堅決的正當防衛徹底粉碎任何挑釁。（新華社）
+
+---
+
+### 2026-08-14 07:12:55  #公司
+
+【紐約州批准了西聯匯款與Intermex的交易】紐約州州長凱茜・霍楚爾於週四釋出宣告稱，西聯匯款在收購國際匯款公司（Intermex）後，承諾繼續為紐約全州各社群提供服務，且交易完成後三年內將對手續費上調設定上限。紐約州金融服務局批准西聯匯款與 Intermex 的併購交易後，西聯達成上述相關協議。霍楚爾表示，完成對 Intermex 的收購後，西聯匯款將掌握紐約州客戶匯往厄瓜多、瓜地馬拉、宏都拉斯、墨西哥、尼加拉瓜以及秘魯的零售匯款業務的大量市場份額。根據與紐約州金融服務局及州總檢察長辦公室達成的協議，未來三年內，西聯匯款不得藉助本次收購 Intermex 之機，削減紐約消費者向上述六國匯款的相關服務。
+
+---
+
+### 2026-08-14 07:12:06  #公司
+
+【“科技成長+週期修復”驅動 龍頭公司半年報亮眼】Wind資料顯示，截至8月13日17時，已有358家A股上市公司披露2026年半年報，其中超七成公司實現營業收入和歸母淨利潤的同比增長。在這些公司中，半導體、化工、有色金屬等行業景氣度上行，AI算力產業鏈龍頭公司業績增幅顯著。市場人士認為，上述公司的業績增長整體呈“科技成長+週期修復”雙輪驅動態勢。隨著半年報進入密集披露期，市場邏輯正從估值驅動向盈利驗證切換，科技賽道的龍頭公司業績表現值得關注。（中國證券報）
 
 ---
 
@@ -19442,95 +19556,5 @@ U.S. 10-year Treasury auction on Aug 12: stop-out yield 4.683%, prior 4.58%.
 ### 2026-08-13 01:03:10  #MKT News #Economic Calendar #Important
 
 United States | 10-Year Note Auction High Yield Rate (Aug.12) | actual 4.683% | previous 4.58%
-
----
-
-### 2026-08-13 01:01:33  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-【Apple appoints Nate Gatten as VP, global government affairs】Apple (AAPL.O) appointed Nate Gatten, former head of government affairs at American Airlines Group and a former JP Morgan government-relations staffer, as vice president for global government affairs, effective Aug. 31. Sources said Apple seeks a government-relations lead able to maintain strong channels with the Trump administration to manage tariff and policy risks. The hire follows increased CEO Tim Cook engagement with the White House and is part of recent senior changes: Cook plans to step down as CEO on Sept. 1, to be succeeded by hardware chief John Ternus, while Cook will remain executive chairman.
-
----
-
-### 2026-08-13 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.36%，滬銅收跌0.36%，滬鋁收跌0.62%，滬鋅收漲0.19%，滬鉛收漲0.57%，滬鎳收漲0.18%，滬錫收跌0.43%。氧化鋁夜盤收跌0.81%，鋁合金收跌1.06%。不鏽鋼夜盤收跌0.10%。
-
----
-
-### 2026-08-13 00:58:08  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) rose to an intraday high, extending gains to 8.5%.
-
----
-
-### 2026-08-13 00:56:24  #其他
-
-SpaceX漲幅擴大至8%，總市值達1.9萬億美元，本月已累升逾32%。
-
----
-
-### 2026-08-13 00:55:19  #MKT News
-
-【Etna eruption continues; Catania airport suspends flights】Etna volcano on Sicily has been erupting since early August. The Italian National Institute of Geophysics and Volcanology (INGV) reported on Aug 12 multiple new vents, lava flows advancing downslope and an ash cloud drifting south and southwest. Catania airport suspended all arrivals and departures on Aug 12; restrictions remained in place until Aug 13 16:00 local time.
-
----
-
-### 2026-08-13 00:52:48  #MKT News #Market Regions #Wall Street (US) #005930.KS #Impact bearish
-
-【USITC opens Section 337 probe into Samsung mobile electronic devices】The US International Trade Commission said on Aug. 12 it has opened a Section 337 investigation into certain mobile electronic devices, naming Samsung Electronics Co. and Samsung Electronics America as respondents. The probe follows a July complaint by Kyoto-based Maxell alleging patent infringement in devices imported into and sold in the US and seeking a limited exclusion order and a cease-and-desist order under the Tariff Act of 1930, Section 337. The USITC said initiation does not imply a final determination. An administrative law judge will handle evidence and hearings and issue an initial determination; the commission will set the case schedule within 45 days and will issue a final determination after the record is developed.
-
----
-
-### 2026-08-13 00:52:40  #其他
-
-【義大利埃特納火山持續噴發 航班受影響】本月初，位於義大利西西里島的埃特納火山發生噴發並持續至今。據義大利國家地球物理學與火山學研究所8月12日釋出的報告，埃特納火山先後出現多處新噴口，熔岩流向山下推進，火山灰雲主要向南及西南方向移動。島上的卡塔尼亞機場當天暫停所有航班降落和起飛，管控措施持續到當地時間13日16時。（央視新聞）
-
----
-
-### 2026-08-13 00:51:51  #公司
-
-【黑石考慮放棄30億美元債務融資計劃】知情人士稱，黑石集團正在考慮放棄一項約30億美元的債務融資計劃，該計劃原本有助於公司向投資者返還部分資金。知情人士稱，黑石數月來一直在為旗下一隻較早設立的私募股權二級市場基金籌劃所謂的基金抵押債務憑證（CFO），該基金約有700項底層投資。因相關資訊非公開，這些人士要求匿名。其中一些人士稱，黑石一直難以為這筆交易的權益檔找到買家，而權益檔通常是此類交易中風險最高的部分。知情人士稱，黑石高管仍在權衡各種選擇，公司可能決定繼續推進這筆CFO交易，也可能尋求其他方式向現有投資者返還資金。
-
----
-
-### 2026-08-13 00:50:14  #MKT News #Important #US10Y #Impact mixed
-
-Results for the U.S. 10-year Treasury auction dated Aug. 12 — stop-out yield and bid-cover ratio due in ten minutes.
-
----
-
-### 2026-08-13 00:49:07  #MKT News
-
-TASS: Russian authorities said they are working to redirect cargo flows to alternative routes.
-
----
-
-### 2026-08-13 00:48:48  #國際
-
-俄羅斯農業部：備選運輸通道包括波羅的海、裡海、遠東地區的港口，以及各類陸路運輸線路。
-
----
-
-### 2026-08-13 00:48:14  #國際
-
-俄羅斯考慮為糧食出口開闢替代路線。
-
----
-
-### 2026-08-13 00:48:02  #國際
-
-塔斯社援引俄相關部門訊息：俄羅斯正著手將貨運流量轉向替代運輸線路。
-
----
-
-### 2026-08-13 00:47:34  #國際
-
-烏克蘭武裝部隊：2026 年 8 月 12 日夜，烏克蘭國防軍各部隊開展聯合行動，襲擊了俄羅斯克拉斯諾達爾邊疆區新羅西斯克海軍基地。
-
----
-
-### 2026-08-13 00:43:21  #Trading Economics #Economy #Germany #Current Account #Importance 0
-
-Germany Current Account Surplus Widens in July — Germany’s current account surplus reached €19 billion in June 2026, widening from a surplus of €17.2 in the same period a year earlier. The goods surplus increased to €17.3 billion from €15.4 billion, while the primary income surplus was broadly unchanged at €13.96 billion. The secondary income deficit narrowed slightly to €4.99 billion from €5.1 billion, partly offsetting a wider services deficit of €7.2 billion versus €7.1 billion a year earlier. In the first half of 2026, the current account surplus narrowed slightly to €106.3 billion from €107.2 billion in the same period of 2025.
 
 ---
