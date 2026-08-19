@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 23:58:55_
-_本檔包含 3111 則快訊，約 619048 字_
+_更新時間：2026-08-20 00:42:19_
+_本檔包含 3128 則快訊，約 619053 字_
+
+---
+
+### 2026-08-15 19:53:58  #其他
+
+暑期檔票房破97億。（央視財經）
+
+---
+
+### 2026-08-15 19:50:49  #宏觀 #焦點
+
+【8月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】法治護航美麗中國建設 築牢中華民族永續發展生態根基； 2.文獻紀錄片《江澤民》今晚繼續播出； 3.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】北京建設歷史文化名城 讓保護與發展相融共生； 4.日本無條件投降81週年 各地舉行活動銘記歷史緬懷先烈； 5.我國多措並舉加快綠色低碳發展； 6.多地出現強降雨天氣 防汛救災加緊進行； 7.各地創新舉措 推進完整社群建設； 8.【新聞特寫】中國，我還會再來！ 9.國內聯播快訊： （1）前7個月全國鐵路傳送旅客28億人次； （2）前7個月中國—中東歐國家經貿合作示範區貿易額超370億元； （3）我國進一步規範檢驗類醫療服務專案收費； （4）中消協釋出《中國消費者綠色消費指南（2026版）》； （5）中歐北極快航季節性航線開啟常態化運營； （6）“CMG電影文化嘉年華·天津專場”啟動； 10.日本民眾舉行集會 敦促日本政府反省侵略戰爭罪行； 11.國際人士批評日本歪曲歷史 加速“再軍事化”等危險舉動； 12.國際聯播快訊： （1）印尼發生7.7級強震 已致38人死亡； （2）伊朗稱美破壞停火 協議無法延長； （3）古巴譴責美對古實施極限施壓和經濟扼殺； （4）資料顯示8月美消費者信心指數顯著下滑； （5）乾旱持續 歐洲多條河流水位達新低。
+
+---
+
+### 2026-08-15 19:47:26  #MKT News #Important
+
+【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing.
+
+---
+
+### 2026-08-15 19:47:24  #國際
+
+【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。
+
+---
+
+### 2026-08-15 19:47:11  #國際
+
+【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）
+
+---
+
+### 2026-08-15 19:45:59  #其他
+
+【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）
+
+---
+
+### 2026-08-15 19:42:20  #國際
+
+美國地質調查局：印尼PEMATANGSIANTAR西北偏北15公里處發生6.9級地震。
+
+---
+
+### 2026-08-15 19:41:44  #國際
+
+【印尼7.7級地震死亡人數升至40人】印尼國家搜救局公佈的最新資料顯示，截至印尼雅加達時間18時30分（震區時間19時30分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至40人，另有50人受傷。
+
+---
+
+### 2026-08-15 19:40:32  #觀點
+
+【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）
+
+---
+
+### 2026-08-15 19:39:00  #MKT News
+
+cenc measured a magnitude-4.4 earthquake at 19:30 on Aug 15 offshore Yilan County, Taiwan, with a focal depth of 73 km.
+
+---
+
+### 2026-08-15 19:36:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian outlet Fars News reported military officials said three Iranian air force personnel, who went missing after a March operation targeting US bases, are now being held in Qatar.
+
+---
+
+### 2026-08-15 19:36:26  #國際
+
+伊朗軍方訊息人士稱，3月份針對美軍基地的行動中失蹤的三名伊朗空軍人員目前正被卡達扣押。
+
+---
+
+### 2026-08-15 19:34:04  #MKT News #Market Regions #Europe & UK #Commodities #Energy
+
+【Hungarian PM Magyar says controlled barge sinking begun to raise water and secure Paks nuclear plant】Hungarian Prime Minister Magyar said at a Paks nuclear plant briefing on the 15th that controlled sinking of barges has begun; although Danube main-channel levels remain lower, water at the plant’s pumping station has risen about 1 cm. He warned that without the intervention the Danube could fall to extremely low levels by the evening of the 16th, forcing one of the two operating turbines offline and possibly triggering a full shutdown. Magyar said the barge sinking and construction of a submerged weir are intended to prevent that outcome.
+
+---
+
+### 2026-08-15 19:33:46  #其他
+
+【匈牙利總理：已開始沉船作業抬升水位 保障核電站執行】匈牙利總理毛焦爾當地時間15日在保克什核電站舉行的新聞釋出會上表示，駁船的受控沉降工作已經開始，儘管多瑙河主河道的水位仍在下降，但核電站泵站處的水位已上升了一釐米。毛焦爾表示，若不採取這一干預措施，16日晚間，多瑙河水位將降至極低水平，迫使該核電站兩臺仍在執行的渦輪機中的一臺停機，並可能導致後續全面停機。他指出，沉降駁船和建造潛堰正是為了防止這種情況發生。（央視新聞）
+
+---
+
+### 2026-08-15 19:20:02  #其他
+
+【深圳釋出三預警，全市進入暴雨戒備狀態】深圳市氣象臺2026年08月15日18時49分發布全市雷電預警訊號，以及珠江口、深圳灣、南山區（南頭、南山、蛇口、招商街道）和寶安區（松崗、福永、西鄉、沙井、新安、航城、福海、新橋、燕羅街道）雷雨大風黃色預警訊號，和南山區、福田區、寶安區、光明區、龍華區、珠江口和深圳灣暴雨黃色預警訊號。預計19時前後深圳將自西向東出現雷雨，最大小時雨強30毫米左右，並伴有8級左右雷暴大風和強雷電。市民停留在安全地方。請落實各項防風防雨防雷電措施。全市進入暴雨戒備狀態。上述區域存在山洪風險，請注意防禦暴雨可能引發的區域性內澇、山洪等災害。
+
+---
+
+### 2026-08-15 19:19:38  #其他
+
+德國地球科學研究中心（GFZ）：巴布亞紐幾內亞北海岸附近發生5.81級地震。
+
+---
+
+### 2026-08-15 19:19:28  #其他
+
+【歡迎來龍餐館票房破7億】據貓眼專業版資料，電影 《歡迎來龍餐館》 上映5天， 總票房破7億。
+
+---
+
+### 2026-08-15 19:19:10  #公司 #市場
+
+【金價反彈黃金市場交易又火了 分析師：下半年金價波動可能會加大】最近，金價連日上漲，截至8月14日，國際黃金現貨價上漲8.36%，國內金價每克上漲超80元，各地黃金市場交易火熱。那麼，未來黃金走勢如何？菜百股份高階黃金投資分析師李洋判斷，如果中長期持有，我們看好未來走勢，但是從短期、下半年來看，黃金價格波動可能還會加大。國家高階黃金投資分析師宋蔣圳介紹，這輪反彈有“修補”成分，但也有紮實的基本面支撐。目前，金價已經在900元每克上方，面臨多空激辯和技術性震盪，不建議普通人在此位置投入過重倉位。（央視財經）
+
+---
+
+### 2026-08-15 19:17:19  #MKT News
+
+CENC recorded a magnitude 6.8 earthquake at 18:54 on Aug 15 near Sumatra, Indonesia; focal depth 170 km.
+
+---
+
+### 2026-08-15 19:15:57  #國際
+
+中國地震臺網正式測定：08月15日18時54分在印尼蘇門答臘島（北緯2.95度，東經99.05度）發生6.8級地震，震源深度170千米。
+
+---
+
+### 2026-08-15 19:15:52  #國際 #原創
+
+【伊朗稱已與阿曼就霍爾木茲海峽“航運地圖”達成一致，談判仍在進行中】伊朗外交部發言人巴加埃表示，伊朗和阿曼已就“航運地圖”達成一致，這是管理霍爾木茲海峽交通的更廣泛協議的一部分。巴加埃表示，伊朗和阿曼之間關於聯合宣告的討論仍在進行中。該協議被描述為“兩個沿海國家之間的一項獨立安排”，旨在確保“船舶安全透過”海峽，並“維護兩國的主權”。巴加埃表示：“下一階段的發展以及霍爾木茲海峽安全的恢復取決於多種因素。”
+
+---
+
+### 2026-08-15 19:09:00  #其他
+
+【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局8月15日18時聯合釋出黃色山洪災害氣象預警：預計8月15日20時至16日20時，四川北部、雲南西北部、西藏東北部和東南部、甘肅南部、青海南部、新疆東南部等地部分地區可能發生山洪災害（藍色預警），其中，四川北部、雲南西北部、西藏東北部和東南部、甘肅南部、新疆東南部局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-08-15 19:06:05  #MKT News
+
+cenc automatic determination: at 18:54 on Aug 15 an earthquake of approximately magnitude 6.4 occurred near Sumatra, Indonesia; final result subject to the official rapid report.
+
+---
+
+### 2026-08-15 19:05:43  #其他
+
+【於東來回應“再招聘刑滿釋放人員”：首批刑釋職工無一離職】8月15日，於東來在社交平臺發文回應“胖東來再招聘刑滿釋放人員”一事。於東來透露，胖東來第一批刑釋人員進入崗位以後沒有一人離開、都穩定開心地工作和健康地生活著。他表示，這就是充滿尊重、尊嚴、公平、友善、正義和愛的文化力量。
+
+---
+
+### 2026-08-15 19:05:04  #國際
+
+中國地震臺網自動測定：08月15日18時54分在印尼蘇門答臘島附近（北緯3.01度，東經98.91度）發生6.4級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-15 19:03:23  #MKT News
+
+Iran's Bandar Abbas International Airport resumed flight operations today, Iranian media Fars News reports. Scheduled services to Tehran, Mashhad and Isfahan will restart over the next few days.
+
+---
+
+### 2026-08-15 19:01:14  #其他
+
+德國地方當局表示，比利時邊境附近的德國野火已得到控制。
+
+---
+
+### 2026-08-15 19:00:09  #國際
+
+印尼蘇門達臘島發生6.4級地震。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 18:57:33  #公司 #市場
+
+【下週將有29只股解禁 2股解禁比例超50%】據統計，下週將有29只股解禁，按照最新收盤價計算，合計解禁市值超442億元。從解禁比例來看，下週面臨解禁的個股中有2股的解禁比例超50%。真蘭儀表的解禁比例最高，達75%；亞通精工的解禁比例次之，達63.34%；廣鋼氣體、中船科技、固高科技、英聯股份的解禁比例居前。下週將要解禁的這29只股票，8月以來股價平均上漲5.74%。其中，有7股釋出上半年業績相關資料，結合業績預告下限、快報、半年報來看，羅曼股份、鴻仕達、廣鋼氣體、英聯股份上半年業績盈利且同比呈現增長。
+
+---
+
+### 2026-08-15 18:56:46  #國際
+
+【伊朗與塔吉克達成長期石油合作協議】據伊朗方面訊息，伊朗和塔吉克在最新一輪石油談判中就能源領域的長期合作達成協議。該協議涵蓋兩大核心內容：一是向塔吉克出口伊朗石油產品，二是伊朗向塔吉克煉油廠供應所需的原油。（央視新聞）
+
+---
+
+### 2026-08-15 18:56:07  #國際
+
+【黎總理稱以色列的升級行動破壞了穩定局勢的努力】黎巴嫩總理納瓦夫·薩拉姆週六表示，以色列自拂曉以來在黎巴嫩南部採取的包括密集空襲和炮擊的升級行動“極其嚴重”，並破壞了穩定局勢的努力。“如果黎巴嫩境記憶體在任何軍事設施，處理這些設施的責任完全在於黎巴嫩，”薩拉姆表示。他指出，在安薩爾鎮空襲中遇難的7人“並非軍事設施，其中遇難的兒童和婦女也並非軍事目標”，軍事設施的存在“並不賦予以色列侵犯黎巴嫩領土或危及平民的權利”。以色列國防軍此前表示，為回應真主黨在安全區針對以軍採取的行動，於昨晚對黎巴嫩南部奈拜提耶和安薩爾的真主黨基礎設施實施了打擊。
+
+---
+
+### 2026-08-15 18:51:00  #國際 #原創
+
+【韓國表示與美國就戰略投資專案進行的磋商仍在進行中】韓國表示與美國就戰略投資專案進行的磋商仍在繼續，此前有媒體報道稱華盛頓正敦促首爾加快推進相關計劃。韓國總統辦公室一名官員週六回應關於該報道的詢問時表示，目前正透過多種渠道與美國進行磋商，韓國政府也在透過頻繁溝通應對雙邊貿易問題。週五有報道稱，華盛頓方面對韓國尚未公佈2000億美元戰略投資承諾下的具體專案表示不滿。該報稱，繼上月底的類似溝通後，美國商務部本週再次向韓國傳送電郵，要求首爾方面加快與對等關稅相關專案的推進。該報稱，郵件中暗示，若進一步拖延，此事可能會上報給美國總統特朗普。這位韓國總統府官員拒絕證實雙邊討論的具體細節以及政府內部的溝通和回應情況。
+
+---
+
+### 2026-08-15 18:49:12  #其他
+
+【魏牌V8X上市：搭載雙VLA原生AI艙駕智慧體，限時權益價22.68萬元】魏牌旗下五座旗艦SUV車型V8X正式上市，共有運動版Max、運動版Ultra、豪華家庭版Max、豪華家庭版Ultra、豪華家庭版Ultra+5個版本，限時權益價22.68萬-30.28萬元起。
+
+---
+
+### 2026-08-15 18:44:42  #MKT News #Commodities #Energy
+
+【Iran, Tajikistan sign long-term oil cooperation agreement】According to Iranian media Fars News, Iran and Tajikistan agreed in their latest oil talks to a long-term energy cooperation deal. The pact covers two main elements: Iran will export oil products to Tajikistan and will supply crude oil to Tajikistan's refineries.
+
+---
+
+### 2026-08-15 18:42:05  #國際
+
+以色列對黎巴嫩南部襲擊造成死亡人數升至九人。
+
+---
+
+### 2026-08-15 18:39:40  #MKT News #WTI #Impact bearish #Brent
+
+UAE foreign ministry said Iran must fully commit to ceasing all hostile actions and to fully, unconditionally reopening the Strait of Hormuz.
+
+---
+
+### 2026-08-15 18:39:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry said attacks by Iran pose a direct threat to regional stability, civilian safety and global energy security.
+
+---
+
+### 2026-08-15 18:38:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry condemned an Iranian attack on Abu Dhabi National Oil Company (ADNOC) vessels while transiting the Strait of Hormuz.
+
+---
+
+### 2026-08-15 18:38:52  #國際
+
+阿聯酋強調，必須確保伊朗完全致力於停止一切敵對行動，並全面、無條件地重新開放霍爾木茲海峽。
+
+---
+
+### 2026-08-15 18:38:41  #國際
+
+阿聯酋外交部：伊朗革命衛隊（IRGC）將針對商業航行和利用霍爾木茲海峽作為施壓或經濟勒索工具的行為被視為海盜行為。此次襲擊公然違反了安理會第2817號決議，該決議強調航行自由。阿聯酋強調伊朗必須停止這些侵略性襲擊。
+
+---
+
+### 2026-08-15 18:38:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is using commercial shipping as a tool of coercion or economic extortion, and that its actions in the Strait of Hormuz amount to piracy.
+
+---
+
+### 2026-08-15 18:37:36  #MKT News #DIS.O #Impact bullish
+
+【Disney new CEO: Streaming core to future growth】Disney's incoming CEO Josh D'Amaro said streaming service Disney+ is central to the company's future growth. He said Disney's scale gives it a direct relationship with consumers, allowing technical integration of data and unified messaging. He added the platform will deliver a "seamless user experience" to boost fan lifetime value and shareholder returns, and that successfully executing streaming presents "huge opportunity."
+
+---
+
+### 2026-08-15 18:37:20  #其他
+
+【淮河防總、淮委調整淮河流域應急響應】8月15日，淮河防汛抗旱總指揮部、水利部淮河水利委員會對淮河流域防汛應急響應實施調整，涉及河南省、安徽省、江蘇省和山東省。 根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委8月15日12時終止河南省淮河及以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省沙潁河、洪汝河水系防汛二級應急響應、洪水防禦Ⅱ級應急響應，將該省淮河以北其他地區防汛應急響應調整為四級、洪水防禦應急響應調整為Ⅳ級；終止安徽省淮河以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省淮河及以北地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應；針對江蘇省、山東省，終止其淮河流域（片）的防汛四級應急響應、洪水防禦Ⅳ級應急響應。（新華社）
+
+---
+
+### 2026-08-15 18:29:23  #國際
+
+【特朗普尚未明確支援內塔尼亞胡連任】今年10月以色列將舉行議會選舉，多家以色列媒體近期釋出的民調顯示，以色列總理內塔尼亞胡的支援率低迷。據美國阿克西奧斯新聞網站8月14日報道，截至目前，美國總統特朗普尚未在以色列大選中對內塔尼亞胡表示明確支援。報道還稱，內塔尼亞胡的幾位競爭對手都表示，擔心特朗普會支援這位現任總理。訊息人士透露，他們透過中間人向特朗普及其助手傳遞資訊，敦促特朗普保持中立。一位熟悉情況的前美國官員表示，內塔尼亞胡在民調中表現不佳，這打消了特朗普介入此事的念頭。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 18:24:22  #公司
+
+【榮耀阿爾法全球旗艦店煥新啟幕，完成門店IP化與AI場景化全面升級】8月15日，榮耀阿爾法全球旗艦店正式煥新啟幕，完成門店IP化與AI場景化的全面升級。升級後店內設有DIY互動區、AI遊戲互動區、AI影像創作等多個互動打卡區，打造沉浸式AI科技樂園。同時，在活動期間旗艦店還同步開設機器人展演、外籍網紅一日店長互動、開業趣味晚會多元活動。據介紹，榮耀透過“科技地標煥新”的方式，將前沿AI終端技術轉化為消費者可觸控、可感知的“新質生產力”體驗，有效激發暑期消費潛能，打造深圳灣商圈的“科技+文旅+消費”新名片。（新浪科技）
 
 ---
 
@@ -18588,202 +18858,5 @@ Iran's Fars news agency cited Palestinian sources saying Israeli forces launched
 ### 2026-08-14 07:12:06  #公司
 
 【“科技成長+週期修復”驅動 龍頭公司半年報亮眼】Wind資料顯示，截至8月13日17時，已有358家A股上市公司披露2026年半年報，其中超七成公司實現營業收入和歸母淨利潤的同比增長。在這些公司中，半導體、化工、有色金屬等行業景氣度上行，AI算力產業鏈龍頭公司業績增幅顯著。市場人士認為，上述公司的業績增長整體呈“科技成長+週期修復”雙輪驅動態勢。隨著半年報進入密集披露期，市場邏輯正從估值驅動向盈利驗證切換，科技賽道的龍頭公司業績表現值得關注。（中國證券報）
-
----
-
-### 2026-08-14 07:11:36  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【UNIFIL continues to monitor Lebanese airspace incursions】On the 13th the UN said the UN Interim Force in Lebanon (UNIFIL) has continued to monitor incursions into Lebanese airspace and Israeli ground military activity in southern Lebanon. Between the 10th and 12th UNIFIL logged 100 airspace violations involving drones and fighter jets and recorded 427 flight tracks, all attributed to the Israeli Defense Forces (IDF). UNIFIL also observed large-scale IDF ground operations within its declared "area of operations", including heavy armor deployments, engineering works, logistics movements, tactical patrols, force concentrations, and instances of tanks and artillery firing.
-
----
-
-### 2026-08-14 07:11:18  #國際
-
-【聯黎部隊持續監測到黎巴嫩領空遭侵犯事件】當地時間13日，聯合國方面表示，根據聯合國駐黎巴嫩臨時部隊（聯黎部隊）的報告，本週以來，聯黎部隊持續監測到黎巴嫩領空遭侵犯，以及以色列軍方在黎南部的地面軍事活動。在10日至12日期間，維和人員共發現100起黎巴嫩領空遭侵犯事件，涉及無人機和戰鬥機。同一時期，聯黎部隊記錄到427條飛行軌跡，均被認定來自以色列國防軍。此外，本週聯黎部隊持續觀察到以軍在其所謂“任務區”內開展大規模地面軍事活動，包括大規模裝甲部隊部署、工程作業、後勤調動、戰術巡邏以及兵力集結。還觀察到以軍部隊坦克、火炮等在區域內開火。
-
----
-
-### 2026-08-14 07:10:16  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、上半年生態環境質量持續向好、主要指標明顯改善 新一輪空氣質量持續改善行動方案正抓緊制定（權威釋出·開局起步“十五五”）
-2、江蘇立足製造業基礎開闢新賽道——“老家底”長出新產業（活力中國調研行）
-3、七月末民營企業再貸款餘額約八千億元 金融服務實體經濟質效不斷提升
-4、新能源汽車兩個“首次”突破，意味著什麼（子夜走筆）
-5、《安全應急裝備產業發展“十五五”規劃》印發 到2030年重點領域產業規模達1.4萬億元
-6、中國對所有非洲建交國全面實施零關稅，埃及鮮橙開啟更廣闊市場——一顆鮮橙“兩頭甜”
-7、第二屆世界人形機器人運動會將於8月22日開幕
-8、中泰警方聯合偵破一起跨國信用卡盜刷案
-9、北京三家外賣平臺試點騎手計時“紅燈停表”
-10、安徽強化打擊治理電信網路詐騙
-11、迭代種植技術 拉長產業鏈 實現規模發展 因地制宜，特色產業鋪就富民路（經濟聚焦·老區新產業）
-12、西康高鐵啟動試執行
-13、截至今年6月 我國建成在建可再生能源制氫產能超140萬噸/年
-14、安徽出臺措施加快數智供應鏈發展
-15、中國新能源企業在中東遇見“幸福的煩惱”（環球走筆）。
-
----
-
-### 2026-08-14 07:10:09  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“加強新時代廉潔文化建設”（總書記的人民情懷）
-2、寧波以科技創新塑造先進製造業新優勢（“十五五”開好局起好步）
-3、李強簽署國務院令 公佈《國務院關於修改和廢止部分行政法規的決定》
-4、伊春林區轉型記
-5、美麗中國建設成效考核怎樣體現群眾滿意程度（政策問答·回應關切）
-6、全國碳排放權交易市場累計成交量超九億噸。
-
----
-
-### 2026-08-14 07:09:03  #國際
-
-【美國能源部長賴特：美軍護航貨物透過霍爾木茲海峽地區的能力正在增強】美國能源部長克里斯·賴特表示，美軍護航和運輸貨物透過霍爾木茲海峽地區的能力正在增強。賴特在接受媒體時發表了講話。賴特表示，“我們將繼續看到霍爾木茲海峽的石油流量增加”。賴特表示，石油市場面臨的“瓶頸”在於煉油環節，而非原油交付環節。
-
----
-
-### 2026-08-14 07:08:21  #公司 #國際
-
-【導致讀者流失，存在錯誤風險，法國“綜合新聞聯盟”抗議谷歌“AI摘要”】據法國新聞網11日報道，代表近300家法國媒體的專業組織“綜合新聞聯盟”（APIG）抗議谷歌推出的“AI摘要”功能。該機構已投訴至法國競爭管理局，媒體普遍擔心谷歌這一新服務會分流媒體網站訪問量，進而影響廣告收入。事件起因是谷歌於7月22日在法國推出由人工智慧生成的“AI摘要”功能，該服務在使用者使用搜尋引擎時，透過AI對搜尋結果進行對話式概括。雖然這個功能方便使用者快速知曉搜尋結果，但在APIG看來，這反而會讓使用者放棄繼續點選搜尋頁的網站連結，這顯然會影響媒體網站的流量和廣告收入。APIG援引法國視聽和數字監管局（Arcom）的評估報告認為，一旦谷歌在歐洲市場推出“AI摘要”服務，可能造成33%至38%的流量流失。（環球網）
-
----
-
-### 2026-08-14 07:07:38  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Set to Close Week on Low Note — New Zealand's stocks fell 26 points, or 0.2%, to 13,799 in Friday morning trade, after gaining in the previous session, as manufacturing sector growth eased in July. The latest data showed New Zealand's factory activity grew for the 21st consecutive month, though at a softer rate, as all of the sub-indices expanded at a slower pace. Traders were also cautious ahead of food inflation data and private-sector figures, as well as China's interest rate decision due next week. However, an upbeat session on Wall Street capped the fall overnight amid easing expectations of a Fed interest rate hike at its upcoming meeting. Materials, healthcare, and financials mainly weighed on the index, with the biggest laggards being Westpac Banking Corp. (-0.8%), Fisher & Paykel (-0.7%), ANZ Group (-0.6%), and Chorus (-0.5%). For the week, the index is heading for a 0.1% fall, after rising in the previous week.
-
----
-
-### 2026-08-14 07:07:35  #國際
-
-【底特律車企憂心北美貿易協定修訂恐推高成本、削減競爭力】據報道，底特律汽車製造商計劃向特朗普政府表明，修訂北美貿易協定的提議，可能會讓這些車企付出數以十億計美元成本，並削弱其與外國對手的競爭力。美國車企目前仍在努力消化政府去年實施的一系列關稅措施，包括對鋼鐵、鋁、汽車零部件，以及從墨西哥與加拿大進口汽車徵收的關稅。它們也指出，日本、韓國與歐洲競爭對手面臨的關稅負擔較輕。如今，美國汽車業高管擔心，華府在下個月與墨西哥貿易官員展開會談前提出的方案，可能進一步推高成本。對車企而言，最具爭議的議題之一是華府要求汽車必須含有至少50%的美國製零部件，才能適用較低關稅，媒體5月曾報導此事。根據兩家車企的估算，這項要求，以及將北美地區車輛整體本土化比例從目前的75%提高的提議，將使底特律每家車企每年至少增加20億美元成本。上述支出將疊加在車企自去年以來因各項現行關稅措施而承擔的成本之上。美國貿易代表辦公室(USTR)未回應置評請求。政府官員則表示，相關關稅舉措旨在促進更多對美國工廠的投資與創造就業崗位。
-
----
-
-### 2026-08-14 07:06:38  #公司 #國際
-
-【“創新紅利”重塑估值邏輯 外資加速擁抱中國硬科技】國產儲存晶片龍頭長鑫科技成為海外儲存晶片主題ETF的重倉股，美國投資管理公司範達公司推出跟蹤中國半導體指數的ETF……近期發生的一系列事件表明，在全球資本重構與資產再定價的背景下，中國資本市場正經歷一輪由“市場紅利”向“創新紅利”驅動的估值調整，境外投資者正逐步將中國資產納入長期配置框架。分析人士認為，從制度突破到產品創新，從准入放寬到監管協同，中國資本市場高水平對外開放的各項舉措正陸續落地。在此過程中，海外資本對中國資產的認知從短期交易機會向長期戰略配置轉變，硬科技與高階製造領域有望成為外資持續關注的重點方向。（中國證券報）
-
----
-
-### 2026-08-14 07:06:26  #公司
-
-【中國市場“磁力” 躍升 外資消費龍頭在華業務回暖】近期，可口可樂、歐萊雅、寶潔等外資消費龍頭企業相繼釋出2026年第二季度或上半年財報。中國市場普遍成為增長引擎，多家跨國企業在華業績迎來拐點。記者採訪獲悉，此輪復甦是消費趨勢變化、政策紅利釋放與企業自身戰略調整等多重因素共振的結果。面對中國消費者日趨理性、多元的需求，消費細分賽道的各大龍頭正加速最佳化品牌矩陣與渠道佈局，並展現出持續深耕中國市場的信心。（上海證券報）
-
----
-
-### 2026-08-14 07:06:25  #Trading Economics #Economy #Peru #Interest Rate #Importance 1
-
-Peru Keeps Rates Steady for 11th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in August 2026, extending its pause for an eleventh consecutive meeting. Annual inflation rose to 4.1% in July from 4.0% in June, while core inflation increased to 4.6% from 4.5%, remaining above the 1–3% target range. However, excluding transportation, core inflation stood at 1.7% and has remained below 2% since April 2025. Twelve-month inflation expectations edged up to 3.0% from 2.8%, reaching the upper limit of the target range. The central bank expects inflation to return toward 2% as supply shocks fade, though a stronger El Niño and renewed Middle East tensions pose upside risks. Meanwhile, economic activity remained strong, with business sentiment improving and expectations firmly in optimistic territory. Global risks have moderated amid more normalized hydrocarbon supplies, although geopolitical and trade uncertainties persist.
-
----
-
-### 2026-08-14 07:05:14  #央行 #資料
-
-【芝加哥聯儲行長Goolsbee：近期通脹資料看起來有好轉】芝加哥聯邦儲備銀行行長Austan Goolsbee稱，雖然通脹依然高企，但近期資料有所好轉。“最近幾個月資料有所好轉，希望這種勢頭會繼續下去，”Goolsbee週四在接受採訪時表示。Goolsbee補充說，通脹率仍然過高。本週公佈的資料顯示，繼6月降溫之後，7月CPI核心通脹率依然溫和。週四釋出的報告顯示，PPI放緩幅度超過預期。
-
----
-
-### 2026-08-14 07:04:08  #國際
-
-加拿大代表勒布朗表示他已與美國貿易代表格里爾會面；談判仍在進行中。
-
----
-
-### 2026-08-14 07:03:20  #公司 #市場 #焦點 #國際
-
-【8月14日隔夜要聞一覽】
-1、美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
-2、當地時間8月13日，美國白宮發表宣告稱，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。
-3、谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。
-4、訊息人士稱，銀湖資本正洽談收購Workday，相關商議仍在進行中。此後Workday暴漲26%，創2012年以來最大漲幅。
-5、市場訊息：蘋果在休斯頓開設先進製造中心，啟動Mac Mini生產。
-6、當地時間8月13日，美軍中央司令部宣佈著手組建史上首支“多域、多國攻擊無人機特遣隊”。
-7、ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。
-8、美國30年期國債拍賣收益率創2001年以來新高。
-
----
-
-### 2026-08-14 07:02:15  #公司 #市場
-
-【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
-
----
-
-### 2026-08-14 07:02:03  #MKT News
-
-Central Reserve Bank of Peru left its policy rate unchanged at 4.25%.
-
----
-
-### 2026-08-14 07:01:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Wright, U.S. energy secretary, said U.S. sanctions have strangled Iran’s economy and weakened its regional influence, and that continued economic pressure will ultimately lead to the collapse of the Iranian regime.
-
----
-
-### 2026-08-14 07:01:00  #央行 #其他
-
-秘魯央行維持基準利率在 4.25% 不變。
-
----
-
-### 2026-08-14 07:00:01  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【N. Korea says U.S.-South Korea Aug. 17 Ulchi Freedom Shield war games are invasion rehearsal】N. Korea’s foreign ministry said the U.S. and South Korea will start the large-scale 2026 Ulchi Freedom Shield joint exercise on Aug. 17 and called the drills an invasion-war rehearsal. The ministry cited U.S. comments that the exercise differs from the past five years and will emphasize adapting war-execution capabilities to modern warfare, saying this signals preparation for actual military confrontation with N. Korea. Pyongyang warned the drills are more provocative and dangerous than last year and pose a serious threat to its national and regional security environment.
-
----
-
-### 2026-08-14 06:59:51  #國際
-
-【朝鮮外務省：美韓8月聯合軍演本質是侵略戰爭預演】據朝中社14日報道，朝鮮外務省發言人13日發表談話說，美國和韓國宣佈將於8月17日開始進行2026“乙支自由之盾”大規模聯合軍演，此次軍演本質是侵略戰爭預演。朝方說，美國公開表示，此次聯合軍演與過去5年的演習截然不同，將把重點放在熟練適應現代戰爭新模式的戰爭執行能力上，這表明軍演目的在於完善同朝鮮實際開展軍事對抗的準備。朝方認為，此次軍演的挑釁性和危險性遠超去年，對朝鮮的國家安全以及地區的安全環境造成嚴重威脅。（新華社）
-
----
-
-### 2026-08-14 06:59:29  #國際
-
-【美媒：肯尼迪中心決定將特朗普名字印在大樓外牆上 】美國媒體13日報道，肯尼迪表演藝術中心董事會當天舉行投票，決定在該中心大樓外牆新增含有美國總統特朗普名字的字句，並關閉中心主樓進行翻修。報道援引知情人士的話說，肯尼迪中心董事會當天召開線上會議，決定在中心大樓外牆主標牌下方新增“由唐納德·J·特朗普總統修復和翻新”的字樣。此外，董事會還投票決定關閉中心的主樓兩年以進行翻修，較新的劇院翼樓將繼續開放。（新華社）
-
----
-
-### 2026-08-14 06:58:44  #其他
-
-【DeepSeek Harness開發者預覽版釋出：開放原始碼，一切皆外掛】8月14日上午訊息，DeepSeek Harness 的開發者預覽版（v0.1 版本）最新面向全球 Harness 開發者開放測試，並同步以 MIT 協議開放原始碼。據悉，作為早期預覽版本，DeepSeek Harness 採用“一切皆外掛”的設計思路，透過外掛式開放架構來構建 Agent Harness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI 等所有 Agent 能力均由外掛組合而成，可自由替換、靈活重組。（新浪科技）
-
----
-
-### 2026-08-14 06:55:52  #公司 #市場
-
-【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
-
----
-
-### 2026-08-14 06:55:07  #MKT News #Market Themes #The Trump Trade
-
-Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations.
-
----
-
-### 2026-08-14 06:54:08  #其他
-
-巴西總統盧拉今日與墨西哥總統辛鮑姆通了電話。
-
----
-
-### 2026-08-14 06:53:12  #國際
-
-巴西正就該程式通知美國政府，並要求舉行外交磋商。
-
----
-
-### 2026-08-14 06:52:43  #國際
-
-巴西政府宣告：已啟動針對美國的貿易關稅對等反制程式。
-
----
-
-### 2026-08-14 06:52:04  #MKT News #Market Themes #The Trump Trade
-
-【U.S. media: Kennedy Center to add Trump’s name to building exterior】U.S. media reported on the 13th that the board of the Kennedy Center for the Performing Arts voted to add wording bearing U.S. President Trump’s name to the building’s exterior and to close the main building for renovations.
 
 ---

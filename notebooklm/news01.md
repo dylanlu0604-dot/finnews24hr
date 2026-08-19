@@ -1,7 +1,397 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 23:58:55_
-_本檔包含 3130 則快訊，約 618947 字_
+_更新時間：2026-08-20 00:42:19_
+_本檔包含 3154 則快訊，約 620029 字_
+
+---
+
+### 2026-08-20 00:41:26  #MKT News
+
+【WEF renews push to appoint ECB chief Lagarde as forum chair】The World Economic Forum’s board discussed this week efforts to recruit European Central Bank president Christine Lagarde as its next chair, people familiar with the matter said. Sources say Lagarde appears ready to accept but wants assurance that tensions with WEF founder and former chair Klaus Schwab have been fully resolved. Schwab abruptly resigned in April 2025 amid an investigation into alleged financial misconduct and was later cleared, but strains between him and the forum have persisted.
+
+---
+
+### 2026-08-20 00:40:02  #MKT News #Commodities #Energy #WTI
+
+Crossover Energy CEO said the company has finalized an oil deal with Venezuela’s state oil company.
+
+---
+
+### 2026-08-20 00:38:51  #國際
+
+卡達外交部：卡達首相兼外交部長與沙特外交部長強調，必須確保（霍爾木茲海峽）航行安全。
+
+---
+
+### 2026-08-20 00:36:08  #MKT News
+
+Sources: the World Economic Forum is still courting ECB President Christine Lagarde to serve as its next chair.
+
+---
+
+### 2026-08-20 00:35:47  #國際
+
+美國聯邦貿易委員會就個性化定價政策徵求公眾意見。
+
+---
+
+### 2026-08-20 00:35:28  #國際
+
+拉加德似乎已準備好擔任世界經濟論壇主席一職。
+
+---
+
+### 2026-08-20 00:34:23  #央行 #國際
+
+世界經濟論壇仍在遊說歐洲央行行長拉加德出任下一任主席。
+
+---
+
+### 2026-08-20 00:33:48  #國際
+
+卡達外交部：首相兼外交部長在利雅得與沙特外交部長就緩和局勢的努力進行了磋商。
+
+---
+
+### 2026-08-20 00:33:36  #MKT News
+
+【5.7-magnitude quake strikes East Nusa Tenggara, Indonesia】Indonesia’s Meteorology, Climatology and Geophysics Agency reported a magnitude-5.7 earthquake at 23:17 on Aug. 19 local (Western Indonesia) time, centered 43 km northeast of Ruteng, Manggarai Regency, East Nusa Tenggara province, at a depth of 10 km.
+
+---
+
+### 2026-08-20 00:30:44  #國際
+
+【印尼東努沙登加拉省區域發生5.7級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼當地（西部）時間8月19日23時17分，印尼東努沙登加拉省芒加萊縣魯滕鎮東北43公里處發生5.7級地震，震源深度10公里。（央視新聞）
+
+---
+
+### 2026-08-20 00:30:30  #國際
+
+伊朗總統表示，儘管當前存在諸多困難與問題，伊朗政府仍將持續支援本國武裝力量。
+
+---
+
+### 2026-08-20 00:29:09  #MKT News
+
+Oman's foreign minister met Turkey's deputy foreign minister to review progress in bilateral ties, explore ways to deepen cooperation and exchange views on regional developments and issues of mutual concern.
+
+---
+
+### 2026-08-20 00:27:39  #國際
+
+伊朗正在評估，一旦特朗普升級衝突，將直接打擊保加利亞等東南歐國家境內的美軍軍事資產。
+
+---
+
+### 2026-08-20 00:26:10  #央行 #國際
+
+歐洲央行行長拉加德仍受到世界經濟論壇招攬，希望其出任高層職務。
+
+---
+
+### 2026-08-20 00:25:53  #MKT News #Market Regions #Emerging Markets
+
+Mexico's main benchmark stock index extended gains, rising 1%.
+
+---
+
+### 2026-08-20 00:25:43  #MKT News
+
+GFZ reports a magnitude 5.76 earthquake in the Flores region of Indonesia.
+
+---
+
+### 2026-08-20 00:25:38  #市場
+
+惠譽評級：黃金增強了高加索及中亞地區的外部緩衝，但帶來集中度風險。
+
+---
+
+### 2026-08-20 00:25:25  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+Fitch: Gold has strengthened Central Asian countries' external buffers but heightened concentration risk.
+
+---
+
+### 2026-08-20 00:25:14  #市場
+
+墨西哥主要股指漲幅擴大，上漲1%。
+
+---
+
+### 2026-08-20 00:25:12  #Trading Economics #Economy #Colombia #Imports YoY #Importance 0
+
+Colombia Imports Rise at Fastest Pace Since 2022 — Colombia’s imports rose 27% year-on-year to $6.78 billion in June 2026, marking the strongest growth since August 2022, following a 10.2% increase in May. The rise was driven by higher purchases of fuels and extractive industry products, which increased 67.2%, led by a 68.5% surge in petroleum and related products. Imports of manufactured goods also rose 23.1%, supported by stronger purchases of machinery and transport equipment (33.6%) and chemical products (21.6%). Meanwhile, agricultural imports increased 23.4%, mainly due to a 29.3% rise in purchases of food products and live animals.
+
+---
+
+### 2026-08-20 00:23:22  #MKT News
+
+【Trump administration proposes limits on immigrant eligibility for refundable tax credits; Treasury estimates $700m–$2.6bn annual savings】The Trump administration on Wednesday proposed a rule restricting eligibility for the refundable portions of four tax credits aimed at children, students, adoptive parents and low-income workers. Under the proposal only U.S. citizens and certain lawfully present foreigners — including lawful permanent residents, asylees and refugees — would qualify for refundable payments. Treasury Secretary Bessent said the move ends what the administration called improper access by illegal immigrants to taxpayer-funded benefits. The Treasury said the rule would cover undocumented immigrants and some immigrants legally authorized to work, and estimated savings of $700m–$2.6bn per year.
+
+---
+
+### 2026-08-20 00:22:36  #觀點 #國際
+
+高盛投行聯合負責人麥克盧爾：美國州級監管機構會對併購產生實質影響。
+
+---
+
+### 2026-08-20 00:22:15  #國際
+
+加拿大總理卡尼：加拿大將在各個戰略行業爭取獲得（與美國貿易談判的）“最優條款”。
+
+---
+
+### 2026-08-20 00:20:58  #觀點
+
+高盛投行聯合負責人麥克盧爾：企業並未圍繞中期大選投機開展併購交易。
+
+---
+
+### 2026-08-20 00:20:53  #MKT News
+
+Canada's minister for Canada–U.S. trade, LeBlanc, said negotiations on a trade agreement with the U.S. remain ongoing.
+
+---
+
+### 2026-08-20 00:19:58  #觀點
+
+高盛投行聯合負責人麥克盧爾：人工智慧的利好效應對IPO有著顯著影響。
+
+---
+
+### 2026-08-20 00:19:45  #MKT News
+
+Canada's Prime Minister Carney said Ottawa is moving toward a trade agreement with the United States, with negotiations making significant progress.
+
+---
+
+### 2026-08-20 00:19:34  #焦點 #國際
+
+加拿大總理卡尼表示，加拿大正推進與美國達成貿易協定，談判已取得重大進展。
+
+---
+
+### 2026-08-20 00:19:18  #國際
+
+AI科學家李飛飛：美國AI反對聲浪恐給全球帶來風險。
+
+---
+
+### 2026-08-20 00:18:23  #觀點
+
+高盛投行聯合負責人麥克盧爾：中端市場併購是高盛的業務增長領域。
+
+---
+
+### 2026-08-20 00:18:02  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Lower — The FTSE MIB fell 0.8% to 52,618 on Wednesday, amid losses for banks and AI companies. STMicroelectronics dropped 2.8%, extending the previous session’s selling pressure, while Prysmian fell 0.8%. Financials also underperformed as Italian BTPs refrained from rebounding to the extent of US Treasuries after the US doubled its bond and note buyback. MPS fell 2% amid reports that it is considering potential takeover-defence options against Intesa’s(-1.4%) earlier bid, under which MPS’ insurance operations would be sold to Unipol (-2.6%), BPER Banca’s (-1.5%) largest shareholder. MPS CEO said the bank is also working on two potential share-swap offers for rival Banco BPM (-0.5%) and Generali-controlled (-1.4%) wealth manager Banca Generali. On the upside, Stellantis surged 5.9%, tracking gains across the European auto sector after the US president announced a three-day suspension of import tariffs on Canadian imports that were due to take effect today.
+
+---
+
+### 2026-08-20 00:17:58  #觀點
+
+高盛投行聯合負責人麥克盧爾：IPO市場對企業而言“機會完全敞開”。
+
+---
+
+### 2026-08-20 00:16:10  #觀點
+
+高盛投行聯合負責人麥克盧爾：有更多資金流向私有化交易。
+
+---
+
+### 2026-08-20 00:15:38  #觀點
+
+高盛投行聯合負責人麥克盧爾：私募股權併購出現復甦跡象.
+
+---
+
+### 2026-08-20 00:15:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Gains as Commodity Stocks Rally — The FTSE 100 edged higher on Wednesday, outperforming other European markets as strong gains in mining and energy stocks supported the index. Gold miners Fresnillo and Endeavour Mining surged more than 7% as gold prices jumped over 3%, boosted by the US Treasury’s decision to expand buybacks of longer-dated government debt. Mining giants Glencore and Anglo American gained almost 5%, while Antofagasta rose around 4% and Rio Tinto added 3.5%. Oil majors Shell and BP also advanced about 0.9% as crude prices continued to climb. AstraZeneca gained more than 2%, tracking strength across the pharmaceutical sector. In contrast, Smith & Nephew fell 3.8% after CFO John Rogers announced his departure for a US-based position. On the data front, UK inflation accelerated to 2.9% in July from 2.6% in June, matching expectations. The data led traders to modestly scale back expectations for a Bank of England rate increase this year.
+
+---
+
+### 2026-08-20 00:14:29  #公司 #觀點
+
+高盛投行聯合負責人麥克盧爾：企業意在透過交易擴大業務規模，執行長應對不確定性的能力有所提升。
+
+---
+
+### 2026-08-20 00:13:56  #MKT News
+
+U.S. President Trump nominated Dr. Heidi Overton to be the next commissioner of the U.S. Food and Drug Administration (FDA).
+
+---
+
+### 2026-08-20 00:13:43  #國際
+
+特朗普：提名海迪·奧弗頓為下一任美國食品藥品監督管理局局長。
+
+---
+
+### 2026-08-20 00:12:16  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.75% Lower — The FTSE MIB Index fell 400 points or 0.75 percent on Wednesday to close at 52618 points. Leading the losses are STMicroelectronics (-2.70%), Unipol Gruppo (-2.61%) and Amplifon (-2.28%). Top gainers were Stellantis N.V. (6.30%), Ferrari NV (1.47%) and Moncler (1.11%).
+
+---
+
+### 2026-08-20 00:11:56  #MKT News #Market Regions #Europe & UK
+
+【Excess deaths from two French heatwaves exceed 7,000】As of July 22, two successive heatwaves in France produced over 7,000 excess deaths, the French public health authority said. It recorded at least 5,764 excess deaths from June 17–July 2 and 1,243 from July 3–22. During the second wave, people aged 75 and older accounted for three quarters of deaths. The record-hot July — the hottest month since 1900 — strained industrial and public-health services, sparked severe wildfires and disrupted transport, food and energy production. A government minister earlier estimated the heatwaves could cost France up to €15 billion (US$17.5 billion).
+
+---
+
+### 2026-08-20 00:11:24  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+Israel Defense Forces said an airstrike in Gaza's Shati area killed four Hamas militant commanders.
+
+---
+
+### 2026-08-20 00:11:16  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.14% Lower — The DAX Index dropped 37 points or 0.14 percent on Wednesday to close at 26091 points. Losses were led by Infineon (-3.65%), Rheinmetall (-2.83%) and MTU Aero Engines AG (-2.19%). Offsetting the fall, top gainers were Volkswagen (2.44%), SAP (2.17%) and Porsche Automobil (2.03%).
+
+---
+
+### 2026-08-20 00:10:16  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.09% Lower — The CAC 40 Index decreased 7 points or 0.09 percent on Wednesday to close at 8502 points. The decline was led by STMicroelectronics (-3.91%), Societe Generale (-3.74%) and Credit Agricole (-2.59%). On the upside, the strongest performers were Stellantis NV (6.26%), Edenred (3.09%) and Capgemini (2.84%).
+
+---
+
+### 2026-08-20 00:09:58  #MKT News #Commodities #Precious Metals
+
+Spot platinum extended gains to 5.31%, trading at $1,799.19/oz.
+
+---
+
+### 2026-08-20 00:09:11  #國際
+
+土耳其總統埃爾多安：談判是解決伊朗與美國之間分歧的唯一途徑。
+
+---
+
+### 2026-08-20 00:08:19  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Inch Lower — European stocks closed slightly lower on Wednesday amid sharp losses for banks and AI stocks. The Euro STOXX 50 dropped 0.2% to 6,454 and the STOXX Europe 600 closed flat at 652. European banks tumbled in the session despite the pullback in long-term yields after the US Treasury doubled its buyback program. BNP Paribas and ING fell 2.4% each, while Santander, UniCredit, and Intesa Sanpaolo lost 1.3%. In the meantime, ASML dropped 2.2% and Infineon slumped 4%, tracking the AI infrastructure sector in the US after financial results from OpenAI refrained from keeping up with the sharp growth from Antropic. On the other hand, consumer cyclical companies closed higher with Inditex and LVMH gaining around 2% each. Also, the jump in gold prices from the Treasury intervention lifted miners in London, with Rio Tinto and Glencore adding 4% and 5%, respectively.
+
+---
+
+### 2026-08-20 00:07:17  #國際
+
+俄羅斯國防部：擊中了一艘運載武器的烏克蘭船隻。
+
+---
+
+### 2026-08-20 00:07:15  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.17% Higher — The FTSE 100 Index rose 18 points or 0.17 percent on Wednesday to close at 10746 points. Leading the gains are Fresnillo (7.64%), Endeavour (7.59%) and Croda International (5.47%). Top losers were Smith & Nephew (-3.87%), IG Group Holdings (-2.96%) and BAE Systems (-2.94%).
+
+---
+
+### 2026-08-20 00:07:00  #MKT News
+
+【Zelenskiy dismisses deputy presidential office head】Ukrainian President Zelenskiy on the 19th signed a decree dismissing deputy head of the presidential office Iryna Mudra; the presidential website gave no reason.
+
+---
+
+### 2026-08-20 00:06:21  #國際
+
+俄羅斯副外長：霍爾木茲海峽的航運應當保持自由。
+
+---
+
+### 2026-08-20 00:06:03  #公司 #國際
+
+【美國聯邦貿易委員會警告零售商不得利用消費者私人資料抬價】美國聯邦貿易委員會警告企業，若使用高度詳盡的個人資料生成個性化報價，必須予以披露。商家愈發擅長利用消費者個人資料，包括線上購物習慣、手機使用行為，測算單個消費者對高價的承受能力。如今美國聯邦貿易委員會向企業發出警示，該行為可能違反消費者保護相關法律。聯邦貿易委員會將於週三釋出一份全新執法公告，告知企業：若使用高度詳盡的個人資訊生成個性化報價，必須進行披露。這份新宣告，代表特朗普政府介入正在興起的監管浪潮，約束商家對定價演算法的使用。
+
+---
+
+### 2026-08-20 00:05:44  #MKT News #XAUUSD #Impact bullish #DXY #WTI #Impact mixed
+
+Foreign Minister Lavrov said Russia is entitled to regard the use of UK-made weapons in strikes on Russian territory as evidence of UK involvement in the Ukraine conflict.
+
+---
+
+### 2026-08-20 00:04:41  #國際
+
+【烏克蘭總統辦公室副主任被解職】據烏克蘭總統網站19日訊息，烏克蘭總統澤連斯基當天簽署法令，解除烏總統辦公室副主任伊琳娜·穆德拉職務。網站未說明解職原因。
+
+---
+
+### 2026-08-20 00:04:40  #MKT News #XLY #Impact mixed #XRT #AMZN.O
+
+Wall Street Journal reports the U.S. Federal Trade Commission (FTC) has warned retailers against using private consumer data to raise prices; firms adopting personalized pricing must disclose the practice or may face litigation.
+
+---
+
+### 2026-08-20 00:03:39  #焦點 #國際
+
+俄羅斯外交部長拉夫羅夫表示，如果英國製造的武器被直接用於襲擊俄羅斯領土，俄羅斯有權將其視作英國直接介入烏克蘭衝突。
+
+---
+
+### 2026-08-20 00:03:20  #市場 #焦點
+
+以太坊升破2100美元，日內漲9.63%。
+
+---
+
+### 2026-08-20 00:02:18  #MKT News #Important
+
+Spot silver briefly topped $66/oz, rising 4.24% intraday.
+
+---
+
+### 2026-08-20 00:01:13  #市場 #焦點
+
+現貨白銀突破66美元/盎司，日內漲4.27%。
+
+---
+
+### 2026-08-20 00:01:03  #資料 #市場 #國際
+
+俄羅斯統計局公佈資料：俄羅斯7月生產者物價指數（PPI）同比上漲6.6%，環比下降2.5%。
+
+---
+
+### 2026-08-20 00:00:39  #MKT News
+
+Russia's statistical agency said consumer prices declined 0.02% week-on-week in the week to Aug. 17, after a 0.06% week-on-week drop in the prior week.
+
+---
+
+### 2026-08-20 00:00:23  #國際
+
+俄羅斯統計部門：截至8月17日當週，俄羅斯周度消費者通縮為0.02%，此前一週為下降0.06%。
+
+---
+
+### 2026-08-19 23:59:31  #MKT News #Copper #Impact bullish
+
+U.S. Department of Transportation agreement includes small modular reactors, microgrids and propulsion systems.
+
+---
+
+### 2026-08-19 23:59:23  #國際
+
+美國交通部簽署協議，探索海事核能技術，協議涵蓋小型模組化反應堆、微電網及船舶推進系統。
+
+---
+
+### 2026-08-19 23:59:00  #MKT News
+
+U.S. Department of Transportation to explore nuclear maritime technology.
+
+---
+
+### 2026-08-19 23:58:01  #國際
+
+美國交通部與科珀斯克里斯蒂港達成協議簽署。
 
 ---
 
@@ -18621,251 +19011,5 @@ The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 
 ### 2026-08-19 00:09:06  #Trading Economics #Markets #Italy #Stock Market #Importance 0
 
 FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.1% to 53,018 on Tuesday, weighed down by soaring bond yields. Sovereign yields climbed to multi-year highs across major economies as a prolonged conflict in the Middle East keeps inflation risks elevated, while technology firms increase bond issuance at longer maturities to finance AI investments. STMicroelectronics led the losses, plunging 7.6%, while Prysmian fell 4.9% as concerns over excessive AI spending persist. Financials also underperformed as higher sovereign yields weighed on their balance sheets, with FinecoBank, UniCredit, BPER Banca and Banco BPM falling more than 1%. Meanwhile, utilities outperformed, recovering from recent selling pressure. Nexi gained 2% as Stripe’s M&A activity improved sentiment across the digital payments sector.
-
----
-
-### 2026-08-19 00:08:39  #公司 #市場 #觀點 #國際
-
-【摩根大通Santos警告："AI觸角"風險已蔓延至債券與股票市場】摩根大通資產管理公司美洲區首席市場策略師Gabriela Santos警告稱，”AI因子”集中度風險已從股票市場蔓延至固定收益市場，進一步加大了投資者保持謹慎的必要性。科技股的劇烈震盪凸顯了擁擠交易的風險，並強調了倉位規模、槓桿控制以及AI之外多元化配置的重要性。美國國債、黃金和核心房地產是為數不多能提供不同收益來源的領域，並建議對超大規模雲服務商發行的債券應逐一進行審慎研究。
-
----
-
-### 2026-08-19 00:07:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.14% Higher — The FTSE 100 Index gained 15 points or 0.14 percent on Tuesday to close at 10736 points. Gains were led by Relx (3.18%), BP (3.00%) and Burberry (2.81%). Biggest losers were Weir (-3.22%), Halma (-3.13%) and Fresnillo (-2.87%).
-
----
-
-### 2026-08-19 00:07:04  #市場
-
-【法意西希四國主權債收益率普遍漲約5個基點】週二（8月18日）歐市尾盤，法國10年期國債收益率漲4.8個基點，連續三個交易日走高，報4.114%，全天處於上漲狀態、北京時間21:30美股開盤時達到4.128%，逼近2008年11月6日頂部4.203%、當年9月22日頂部4.548%。兩年期法債收益率漲4.7個基點，30年期法債收益率漲2.9個基點。義大利10年期國債收益率漲5.8個基點，報4.073%。西班牙10年期國債收益率漲4.6個基點，報3.707%。希臘10年期國債收益率漲5.7個基點，報3.959%。
-
----
-
-### 2026-08-19 00:06:19  #其他
-
-市場訊息：伊拉克北部蘇萊曼尼亞省上空升起陣陣濃煙，起火原因尚不清楚。
-
----
-
-### 2026-08-19 00:06:06  #Trading Economics #Markets #Germany #Stock Market #Importance 0
-
-DAX Finishes at Near 2-Week Low — The DAX 40 extended early losses to close about 0.8% down at 26,152 on Tuesday, the lowest since August 5th, marking the second session of losses. Risk sentiment remained weak as stalled US-Iran talks raised fears of renewed escalation, sending oil prices and bond yields higher amid growing inflation concerns. Uncertainty increased after the memorandum of understanding expired, with Washington rejecting an extension and Iran warning of a tougher response if negotiations fail to progress. Rate-sensitive tech stocks, industrials and banks faced heavy selling pressure. Chipmaker Infineon Technologies plunged over 7%, making it the worst performer. AI-related stocks Siemens Energy (-4.4%) and Hochtief (-1.1%) also declined, amid profit-taking. Other top losers included Heidelberg Materials, Siemens, Airbu, MTU Aero Engines and Continental, down between 1.9% and 3.5%: On the upside, SAP (1.9%), Bayer (1.7%) and Deutsche Telekom (1.7%) emerged as the biggest gainers.
-
----
-
-### 2026-08-19 00:05:38  #國際
-
-歐盟發言人：相關調整預計將使應用開發者能夠為應用選擇多種分發渠道。歐盟委員會對蘋果調整 iPhone 與 iPad 第三方應用分發業務條款表示歡迎。開發者將擁有更大自主權，可引導應用商店使用者轉向其他平臺與支付系統。
-
----
-
-### 2026-08-19 00:05:06  #國際
-
-歐盟發言人：歐盟將監督新條款的有效落實。
-
----
-
-### 2026-08-19 00:03:25  #國際
-
-【應特朗普要求 韓美聯合軍演提前結束 訓練日程縮短約一半】據韓國方面訊息，在美國總統特朗普要求大幅縮減韓美聯合軍演規模後，韓美軍方18日舉行緊急會晤，決定大幅壓縮正在進行的“乙支自由護盾”聯合軍演日程，原計劃持續至27日的演習將提前至本週結束，第二階段反擊演練被取消。“乙支自由護盾”聯合軍演於17日啟動，原計劃分為兩個階段進行：第一階段為17日至21日，以應對攻擊和防禦為主要演練內容；第二階段原定於23日至27日舉行，重點內容為反擊作戰演練。韓國軍方訊息人士透露，韓美軍方18日在緊急協商後決定，本次演習僅進行第一階段的防禦作戰部分，結束後美軍人員將撤離；原計劃中未能實施的訓練專案將另行尋找替代方案。這一調整意味著“乙支自由護盾”演習的整體訓練時間比原計劃縮短了約一半。（央視新聞）
-
----
-
-### 2026-08-19 00:01:34  #國際
-
-【蘋果全面改革歐盟應用商店收費規則】蘋果將於 10 月 1 日修訂歐盟地區應用商店相關條款。核心技術費將予以取消，替換為對應用商店之外數字交易徵收 5% 的佣金。蘋果應用內購的歐盟佣金費率為 26%；採用替代支付方式費率為 20%；使用外部購買連結費率為 15%。蘋果還將進一步開放第三方應用分發渠道，並推出更多兒童安全防護舉措。
-
----
-
-### 2026-08-19 00:00:49  #MKT News #AAPL.O #Impact bullish
-
-Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU.
-
----
-
-### 2026-08-19 00:00:44  #國際
-
-蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。
-
----
-
-### 2026-08-19 00:00:22  #其他
-
-市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。
-
----
-
-### 2026-08-18 23:58:28  #國際
-
-卡達外交部：我方譴責以色列對敘利亞阿布杜赫爾軍用機場發動的空襲。
-
----
-
-### 2026-08-18 23:57:10  #國際
-
-【俄方：烏方襲擊核電站以阻撓國際原子能機構來訪】針對扎波羅熱核電站一公交站18日發生無人機爆炸一事，俄羅斯外交部發言人扎哈羅娃當天釋出宣告說，此次襲擊由烏方發動，其目的是阻撓國際原子能機構總幹事格羅西原定於20日至21日對扎波羅熱核電站的訪問。扎哈羅娃說，烏方持續對扎波羅熱核電站及其工作人員發動襲擊，此次還對用於搭載國際原子能機構秘書處代表的交通工具發動襲擊，證明其罪行“沒有盡頭”。扎哈羅娃還表示，西方國家持續向烏克蘭提供政治支援，才使得此類事件接連上演，並慫恿烏方採取“更為魯莽的新行動”，製造核災難威脅，可能給全世界造成“災難性後果”。（新華社）
-
----
-
-### 2026-08-18 23:56:48  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【Russia says Ukraine struck Zaporizhzhia NPP bus stop to disrupt planned IAEA visit】Russia’s foreign ministry spokeswoman Zakharova said a drone explosion at a bus stop at the Zaporizhzhia nuclear plant on the 18th was carried out by Ukrainian forces to obstruct an IAEA director‑general Grossi visit scheduled for the 20th–21st. Zakharova said Kyiv has repeatedly targeted the plant and its staff, and that the latest strike also hit vehicles carrying IAEA Secretariat representatives; she warned Western political support for Ukraine is encouraging “more reckless” actions that could raise the risk of a nuclear disaster with potentially catastrophic global consequences.
-
----
-
-### 2026-08-18 23:56:33  #Trading Economics #Markets #commodity #Importance 0
-
-UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%.
-
----
-
-### 2026-08-18 23:56:27  #其他
-
-蓋亞那總統：蓋亞那目前有權獲得斯塔布魯克區塊原油產量的 39.8%。
-
----
-
-### 2026-08-18 23:55:48  #國際
-
-市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。
-
----
-
-### 2026-08-18 23:54:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections.
-
----
-
-### 2026-08-18 23:53:04  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica.
-
----
-
-### 2026-08-18 23:49:22  #國際
-
-以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。
-
----
-
-### 2026-08-18 23:46:23  #MKT News
-
-Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces.
-
----
-
-### 2026-08-18 23:44:44  #國際
-
-加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。
-
----
-
-### 2026-08-18 23:44:18  #MKT News
-
-Gaza sources say the death toll from an attack on Gaza port has risen to six.
-
----
-
-### 2026-08-18 23:44:03  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas.
-
----
-
-### 2026-08-18 23:43:36  #國際
-
-【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）
-
----
-
-### 2026-08-18 23:42:55  #Trading Economics #Markets #Commodity #Importance 1
-
-Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations.
-
----
-
-### 2026-08-18 23:41:30  #Trading Economics #Economy #Colombia #GDP Annual Growth Rate #Importance 1
-
-Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter.
-
----
-
-### 2026-08-18 23:41:12  #MKT News #Commodities #Energy
-
-Interfax: Putin said Russia and Myanmar are discussing construction of an oil refinery.
-
----
-
-### 2026-08-18 23:40:58  #國際
-
-市場訊息：俄羅斯總統普京稱俄羅斯與緬甸已就煉油廠建設展開磋商。
-
----
-
-### 2026-08-18 23:39:55  #Trading Economics #Economy #Colombia #Leading Economic Index #Importance 1
-
-Colombia Economic Activity Growth Slows in June — Colombia’s leading economic index rose 3.51% year-on-year in June 2026, following an upwardly revised 4.24% increase in May. The index for tertiary activities rose 4.28%, while the index for secondary activities increased 3.21%. The index for primary activities edged up 0.58%.
-
----
-
-### 2026-08-18 23:39:25  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish #Euro STOXX 50
-
-European equities closed mixed on Tuesday, Aug 18: Germany's DAX fell 238.91 points, or 0.91%, to 26,130.75; the UK's FTSE 100 rose 5.09 points, or 0.05%, to 10,725.39; France's CAC 40 fell 70.24 points, or 0.82%, to 8,509.36; the Euro STOXX 50 fell 61.60 points, or 0.94%, to 6,468.85; Spain's IBEX 35 fell 52.08 points, or 0.26%, to 19,929.82; Italy's FTSE MIB fell 554.98 points, or 1.04%, to 53,032.00.
-
----
-
-### 2026-08-18 23:39:18  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources say Russia will reroute Kazakh oil exports from Ust-Luga to Novorossiysk to free up Baltic port capacity for additional Russian crude shipments.
-
----
-
-### 2026-08-18 23:38:53  #國際
-
-市場訊息：俄羅斯將哈薩克的石油出口從烏斯季‑盧加港改至新羅西斯克港，以便透過波羅的海港口外運更多本國石油。
-
----
-
-### 2026-08-18 23:37:07  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude extends intraday gains to 1.00%, trading at $84.92/bbl.
-
----
-
-### 2026-08-18 23:36:44  #國際
-
-據半島電視臺：美國官員稱，特朗普已指示其團隊，在伊朗準備簽署協議之前，不要與伊朗進行談判。該官員稱，與伊朗進行了積極討論，但特朗普決定等待。
-
----
-
-### 2026-08-18 23:36:32  #其他
-
-委內瑞拉2026年工業產出較2025年二季度增長70%。
-
----
-
-### 2026-08-18 23:36:10  #MKT News #Important
-
-Al Jazeera reports US officials say Trump has ordered his team not to negotiate with Iran until Tehran is prepared to sign an agreement; officials say there were active discussions with Iran but Trump opted to wait.
-
----
-
-### 2026-08-18 23:35:00  #市場 #焦點
-
-布倫特原油突破92美元/桶，日內漲1.24%。
-
----
-
-### 2026-08-18 23:34:13  #公司 #市場
-
-小米集團ADR現下跌4%，此前一度上漲2%，該公司早前公佈了第二季度財報。
-
----
-
-### 2026-08-18 23:33:14  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 6-week Treasury auction to Aug. 18: percentage of award at the winning yield 37.04%, prior 2.86%.
 
 ---
