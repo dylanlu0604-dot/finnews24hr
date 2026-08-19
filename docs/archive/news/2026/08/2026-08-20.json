@@ -1,7 +1,43 @@
 {
   "date": "2026-08-20",
-  "count": 326,
+  "count": 329,
   "items": [
+    {
+      "id": "mkt:01a01b8f-1a13-7aab-90a1-b94359369f1e",
+      "time": "2026-08-20 03:45:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says record US pipeline builds will reduce Strait of Hormuz importance】Trump said the US is building a record number of oil pipelines to reduce reliance on the Strait of Hormuz, and that the strait’s strategic importance will decline as alternative supply routes emerge and US control of the area strengthens. He added that prior forecasts of oil surging to $350 per barrel have not materialized; prices remain around $84–85/bbl."
+    },
+    {
+      "id": "5048564",
+      "time": "2026-08-20 03:42:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束白宮活動講話。"
+    },
+    {
+      "id": "mkt:01a01b8c-1aee-7aab-90a1-b221431475f1",
+      "time": "2026-08-20 03:42:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US President Trump said interest-rate levels are absurd."
+    },
     {
       "id": "5048563",
       "time": "2026-08-20 03:42:20",

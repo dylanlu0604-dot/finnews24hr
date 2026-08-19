@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-20 03:43:04",
-  "count": 15675,
+  "updated": "2026-08-20 03:46:53",
+  "count": 15676,
   "items": [
+    {
+      "id": "mkt:01a01b8f-1a13-7aab-90a1-b94359369f1e",
+      "time": "2026-08-20 03:45:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says record US pipeline builds will reduce Strait of Hormuz importance】Trump said the US is building a record number of oil pipelines to reduce reliance on the Strait of Hormuz, and that the strait’s strategic importance will decline as alternative supply routes emerge and US control of the area strengthens. He added that prior forecasts of oil surging to $350 per barrel have not materialized; prices remain around $84–85/bbl."
+    },
+    {
+      "id": "5048564",
+      "time": "2026-08-20 03:42:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束白宮活動講話。"
+    },
+    {
+      "id": "mkt:01a01b8c-1aee-7aab-90a1-b221431475f1",
+      "time": "2026-08-20 03:42:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US President Trump said interest-rate levels are absurd."
+    },
     {
       "id": "5048563",
       "time": "2026-08-20 03:42:20",
@@ -143593,22 +143629,6 @@
         "國際"
       ],
       "text": "【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。"
-    },
-    {
-      "id": "mkt:019ff783-36dd-7aab-9013-152640ecc63e",
-      "time": "2026-08-13 03:46:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House press secretary Leavitt said President Trump has asked him to continue serving externally as a senior adviser and that he will remain a steadfast advocate for MAGA and the Republican Party."
-    },
-    {
-      "id": "5038099",
-      "time": "2026-08-13 03:43:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "萊維特：特朗普已邀請我擔任外部顧問。"
     }
   ]
 }
