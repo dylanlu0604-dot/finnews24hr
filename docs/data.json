@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-20 05:09:55",
-  "count": 15668,
+  "updated": "2026-08-20 05:13:45",
+  "count": 15665,
   "items": [
+    {
+      "id": "5048640",
+      "time": "2026-08-20 05:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。"
+    },
     {
       "id": "5048639",
       "time": "2026-08-20 05:07:29",
@@ -143553,48 +143561,6 @@
         "焦點"
       ],
       "text": "截至2026年6月30日，上市公司合計持有128萬枚比特幣（價值760億美元），佔比特幣總供給量的6.11%。Strategy仍是最大持有方，持倉846842枚比特幣。"
-    },
-    {
-      "id": "mkt:019ff7d2-0f57-7aab-9013-bc9276308a99",
-      "time": "2026-08-13 05:12:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "US Commerce Secretary Lutnick said he will announce tomorrow local time that Apple (AAPL.O) will build a Mac mini plant in Texas."
-    },
-    {
-      "id": "5038144",
-      "time": "2026-08-13 05:11:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科預計2027年核心業務增速約10%。"
-    },
-    {
-      "id": "5038143",
-      "time": "2026-08-13 05:10:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科預計2027年安全業務將實現高個位數增長。"
-    },
-    {
-      "id": "mkt:019ff7d0-2b0f-7aab-9013-b2f164b904af",
-      "time": "2026-08-13 05:10:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "F.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs."
     }
   ]
 }
