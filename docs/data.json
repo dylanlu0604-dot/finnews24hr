@@ -1,7 +1,168 @@
 {
-  "updated": "2026-08-19 10:42:23",
-  "count": 15180,
+  "updated": "2026-08-19 10:46:11",
+  "count": 15194,
   "items": [
+    {
+      "id": "mkt:01a017e8-d599-7aab-9087-6e328363ec96",
+      "time": "2026-08-19 10:45:29",
+      "tags": [
+        "MKT News",
+        "06880.HK",
+        "Impact bullish",
+        "BB.O"
+      ],
+      "text": "【Momenta, XHEART and QNX team up to build production-grade safety-standard autonomous driving platform】On the 19th Momenta (06880.HK) said it will partner with XHEART and BlackBerry’s QNX unit to develop a production-ready autonomous driving platform meeting global functional safety standards. Momenta will supply full-stack driving algorithms, XHEART the automotive-grade SoC X7, and QNX a safety OS based on QNX SDP 8.0. The solution is aimed at helping global automakers accelerate intelligent-driving deployment while complying with global safety requirements."
+    },
+    {
+      "id": "mkt:01a017e8-81c9-7aab-9087-633af992fd7d",
+      "time": "2026-08-19 10:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "hauser, deputy governor of the RESERVE BANK OF AUSTRALIA, said the economy will not enter a recession and will only slow."
+    },
+    {
+      "id": "mkt:01a017e8-6c9c-7aab-9087-5ed18f18a241",
+      "time": "2026-08-19 10:45:03",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia deputy governor Hauser said he is concerned about inflation and that upside risks to inflation have increased."
+    },
+    {
+      "id": "5046905",
+      "time": "2026-08-19 10:44:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創新航聯合中外運完成純電卡車首發落地】據中創新航訊息，8月18日，中創新航聯合中外運，在中創新航合肥基地完成純電卡車首發落地。新一代純電貨運運力正式投入生產物流場景。本次投用的純電重卡，搭載中創新航自主研發的“至遠”商用動力電池產品，以零排放、低能耗的純電運力，全面替代傳統燃油車輛用於公司產品的廠際轉運與物流配送。"
+    },
+    {
+      "id": "5046904",
+      "time": "2026-08-19 10:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "豪澤：未看到經濟衰退，只是放緩。"
+    },
+    {
+      "id": "5046903",
+      "time": "2026-08-19 10:44:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建發股份等成立農業公司，註冊資本4500萬元】企查查APP顯示，近日，廈門鎮坤農業有限公司成立，法定代表人為吳欣欣，註冊資本為4500萬元，經營範圍包含：農副產品銷售；飼料原料銷售；豆及薯類銷售；穀物銷售；食用農產品批發；畜牧漁業飼料銷售等。企查查股權穿透顯示，該公司由廈門鎮海供應鏈管理有限公司、建發股份旗下廈門建發物產農業有限公司共同持股。"
+    },
+    {
+      "id": "5046902",
+      "time": "2026-08-19 10:44:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海張江高新技術產業開發區發展“十五五”規劃：支援符合標準的優質科技企業登陸科創板上市融資】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，完善科技投融資體系，強化專業化天使投資服務平臺功能，最佳化早期投資生態。健全創業投資退出渠道，大力佈局私募股權二級市場基金（S基金）、併購基金。支援打造股權投資集聚區。支援符合標準的優質科技企業登陸科創板上市融資。鼓勵企業利用併購貸款試點政策實施產業鏈併購，用好科技創新和技術改造再貸款等結構性貨幣政策。鼓勵科技企業發行創新創業公司債，投資機構發行科技創新債。推動金融科技產業融合示範區域建設。鼓勵民資、外資等各類社會資本參與園區建設與產業創新。"
+    },
+    {
+      "id": "mkt:01a017e7-c3a8-7aab-9087-50688b808207",
+      "time": "2026-08-19 10:44:19",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "hauser, deputy governor at the Reserve Bank of Australia, said monetary policy must reduce inflation, which requires cutting demand in the economy."
+    },
+    {
+      "id": "5046901",
+      "time": "2026-08-19 10:44:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "豪澤：澳大利亞面臨產能過剩壓力。"
+    },
+    {
+      "id": "mkt:01a017e7-5724-7aab-9087-4b68c25fab3a",
+      "time": "2026-08-19 10:43:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's benchmark stock index turned positive intraday."
+    },
+    {
+      "id": "5046900",
+      "time": "2026-08-19 10:43:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：對充當“臺獨”打手幫兇迫害陸配的人 將依法終身追責】國務院臺辦舉行例行新聞釋出會。有記者問：近日，民眾黨新住民委員會前主委、陸配徐春鶯涉所謂“違反‘反滲透法’”等罪，被判刑7年。臺灣地區內部事務主管部門聲稱正在辦理撤銷或廢止其在臺定居或永久居留資格。請問對此有何評論?發言人朱鳳蓮表示，徐春鶯案近日才宣判，但是大家看到民進黨的一些政客卻早在數個月之前就已經公然宣稱要在其服刑結束後將其強制遣送出境，這充分說明陸配被以所謂的安全理由起訴，完全是民進黨當局先射箭再畫靶的司法迫害。其羅列的所謂罪狀完全是欲加之罪，何患無辭。臺灣地區所謂的司法已經成為民進黨當局搞恐怖政治、綠色獨裁的工具。我們堅決反對民進黨當局以任何的形式迫害大陸配偶，支援兩岸婚姻家庭團結起來，維護自身的權益。希望廣大臺灣同胞反對民進黨當局的惡行，對充當“臺獨”打手幫兇，迫害陸配的人，我們將依法終身追責，絕不寬待。"
+    },
+    {
+      "id": "5046899",
+      "time": "2026-08-19 10:43:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行副行長豪澤：通脹水平仍然過高。"
+    },
+    {
+      "id": "mkt:01a017e6-f374-7aab-9087-435f8c5b00cf",
+      "time": "2026-08-19 10:43:26",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia deputy governor hauser says inflation is too high."
+    },
+    {
+      "id": "5046898",
+      "time": "2026-08-19 10:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Momenta、XHEART與QNX宣佈合作共建全球安全標準自動駕駛平臺】8月19日訊息，Momenta近日與新芯航途（XHEART）、BlackBerry有限公司旗下QNX業務部門宣佈，將共同建造面向量產的全球安全標準自動駕駛平臺。此次合作中，Momenta提供全棧自動駕駛演算法能力，新芯航途提供車規級SoC（系統級晶片）X7，QNX則提供基於QNX® SDP 8.0的安全作業系統。"
+    },
+    {
+      "id": "5046897",
+      "time": "2026-08-19 10:43:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指逆轉走勢，最新上漲0.3%。"
+    },
+    {
+      "id": "5046896",
+      "time": "2026-08-19 10:42:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "天孚通訊成交額達100億元，現跌3.37%。"
+    },
+    {
+      "id": "mkt:01a017e6-29ba-7aab-9087-3c1f925b4dd9",
+      "time": "2026-08-19 10:42:34",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. Trade Representative Greer said the agreement with Canada will include full market access for all U.S. goods, commitments on economic security and alignment on digital trade."
+    },
+    {
+      "id": "5046895",
+      "time": "2026-08-19 10:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海張江高新技術產業開發區發展“十五五”規劃：增強聚變裝置/堆總體設計能力 推進共性技術專用材料裝置研製與衍生技術應用】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，圍繞託卡馬克等裝置，強化高溫超導強場磁體、全域智慧控制、高重頻鐳射器等關鍵技術攻關。探索多元技術路線，增強聚變裝置/堆總體設計能力，推進共性技術專用材料裝置研製與衍生技術應用。建設共性技術研發服務平臺，推動科研設施與試驗能力共享。支援臨港園構建全產業鏈核聚變產業生態，閔行園探索“核心研發+配套製造+服務支撐”的商業化應用模式。"
+    },
     {
       "id": "5046894",
       "time": "2026-08-19 10:41:39",
@@ -139096,40 +139257,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲1%，現報84.06美元/桶。"
-    },
-    {
-      "id": "5036730",
-      "time": "2026-08-12 10:45:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電影《八仙！》延長上映至9月17日】電影《八仙！》宣佈金鑰延期，延長上映至2026年9月17日23:59。據燈塔專業版，影片當前累計票房14.79億。"
-    },
-    {
-      "id": "5036729",
-      "time": "2026-08-12 10:44:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普承認北約峰會返程換機，稱換乘的飛機“風險更大”】當地時間8月11日，美國總統特朗普表示，他上個月從土耳其結束北約峰會離開時轉乘的那架飛機“面臨的風險反而更大”。據報道，由於當時有訊息稱伊朗可能對特朗普實施暗殺，因此採取了臨時換機措施。特朗普當時被安排乘坐一輛餐飲服務車，在不同飛機之間秘密轉移。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ff3d9-f0a5-7aab-8fff-7066fb03122d",
-      "time": "2026-08-12 10:42:54",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY briefly touched 159.43, its highest level since August."
-    },
-    {
-      "id": "mkt:019ff3d9-9ec6-7aab-8fff-697c8636a74a",
-      "time": "2026-08-12 10:42:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Henan issues list of priority areas for government investment funds】Henan provincial development and reform commission said on Aug. 11 that, with provincial government approval, it has issued a list designating 78 sub-sectors across four pillars—emerging pillar industries, future industries, traditional advantaged industries and modern services—as priority targets for government investment funds. The future industries category covers six areas: artificial and embodied intelligence, hydrogen energy, bio-manufacturing, quantum technologies, next-generation information networks and brain-like intelligence/brain–computer interfaces, and specifically highlights investment in humanoid robots, general-purpose large models, full-chain hydrogen technologies, bio-breeding, quantum computing and 6G mobile communications."
     }
   ]
 }
