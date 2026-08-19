@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-19 11:36:34",
-  "count": 15202,
+  "updated": "2026-08-19 11:40:25",
+  "count": 15205,
   "items": [
+    {
+      "id": "mkt:01a0181a-a7a2-7aab-9088-c389ed308df5",
+      "time": "2026-08-19 11:39:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said ties with Iraq are rooted in wartime brotherhood, joint resistance to external interference and belief in a shared destiny, and that this past will guide future relations."
+    },
+    {
+      "id": "5046962",
+      "time": "2026-08-19 11:39:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "mkt:01a01819-be75-7aab-9088-bdb033e24788",
+      "time": "2026-08-19 11:38:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 4 bps to 2.895%."
+    },
+    {
+      "id": "mkt:01a01819-9fba-7aab-9088-b1904664b764",
+      "time": "2026-08-19 11:38:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【RBA deputy Hauser: inflation still too high, policy must continue to restrain demand】Reserve Bank of Australia deputy governor Hauser said inflation remains too high and monetary policy must continue to restrain demand until it returns to target. He warned further rate hikes remain on the table if inflation fails to decline. Hauser said the RBA board is not forecasting a recession, describing the economy as slowing rather than sharply contracting, but flagged upside risks to inflation. He reiterated that the RBA raised the cash rate to 4.35% through three hikes earlier this year, reflecting policymakers’ view that demand exceeded supply and that tightening would limit the eventual rise in unemployment."
+    },
+    {
+      "id": "5046961",
+      "time": "2026-08-19 11:38:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率<JP10YTN=JBTC>下跌4.0個基點，至2.895%。"
+    },
+    {
+      "id": "5046960",
+      "time": "2026-08-19 11:38:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西南丹山體滑坡5人遇難】記者19日從廣西南丹縣相關部門獲悉，17日在南丹縣芒場鎮拉麻村黃祥坡屯發生的山體滑坡，5名被困人員已全部找到，均已無生命體徵。目前，善後處置等後續工作有序推進，山體滑坡原因正在進一步深入調查。（新華社）"
+    },
+    {
+      "id": "mkt:01a01819-3dea-7aab-9088-aaf00a894b5f",
+      "time": "2026-08-19 11:38:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indian media reported on the 19th that an early-morning fire at a hotel in Kolkata, eastern India, killed 9 and injured several."
+    },
+    {
+      "id": "mkt:01a01819-1ad3-7aab-9088-a5976275ee26",
+      "time": "2026-08-19 11:38:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand Federation of Industries says industrial confidence index rose to 90.0 in July from 88.2 in June."
+    },
+    {
+      "id": "5046959",
+      "time": "2026-08-19 11:37:29",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "泰國工業聯合會：7月泰國工業信心指數為90.0，6月為88.2。"
+    },
     {
       "id": "mkt:01a01816-75c5-7aab-9088-9b9b5d359540",
       "time": "2026-08-19 11:35:20",
@@ -139287,55 +139369,6 @@
         "Energy"
       ],
       "text": "General Electricity Company of Libya (GECOL) said an attack on a substation south of Zawiya has caused widespread power outages across areas south of the city."
-    },
-    {
-      "id": "5036796",
-      "time": "2026-08-12 11:39:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞電力公司表示，扎維耶南部變電站遇襲導致該城市以南大片區域斷電。"
-    },
-    {
-      "id": "5036795",
-      "time": "2026-08-12 11:39:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "渣打集團營運長：人工智慧正在提升生產力。"
-    },
-    {
-      "id": "5036794",
-      "time": "2026-08-12 11:39:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鉑力特BLT-A320成功在印度Addblu完成部署並投入執行】鉑力特公眾號訊息，近日，鉑力特BLT-A320金屬增材製造系統在印度合作伙伴——代理商Addblu Innovators Pvt. Ltd（簡稱“Addblu”）正式部署並投入執行。代理商Addblu將藉助BLT-A320裝置，結合本地技術服務能力，為區域客戶提供應用諮詢、工藝開發、裝置培訓及售後支援，幫助更多製造企業深入探索金屬增材製造技術在航空航天、醫療、科研及汽車製造等領域的創新應用。"
-    },
-    {
-      "id": "mkt:019ff40c-d8cb-7aab-9000-3828010e07c7",
-      "time": "2026-08-12 11:38:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Libya's National Electricity Corporation said the South Zawiya substation was completely destroyed in an attack and has been taken offline."
-    },
-    {
-      "id": "5036793",
-      "time": "2026-08-12 11:37:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【網傳英偉達欲投資中際旭創、新易盛？公司緊急回應】近日，有市場傳聞稱英偉達計劃斥資20億美元戰略入股光模組龍頭中際旭創，資金用於新一代光模組研發、全球產能擴充以及泰國新工廠建設；同時英偉達有意成為新易盛港股IPO的基石投資者。8月12日，致電中際旭創，相關人士回應：對於該市場傳聞，公司並不瞭解，以公司相關公告為準。同時，新易盛回應稱：對於該傳聞，公司不便發表評論，有關於公司H股的事項，請投資者以公告為準。（財聞）"
-    },
-    {
-      "id": "5036792",
-      "time": "2026-08-12 11:37:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際金融協會（IIF）資料顯示，7月外國投資者向新興市場投資組合注入近190億美元，結束了連續兩個月的資金外流態勢，這得益於股市資金外流速度大幅放緩。"
     }
   ]
 }
