@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-20 00:24:20",
-  "count": 15515,
+  "updated": "2026-08-20 00:28:19",
+  "count": 15522,
   "items": [
+    {
+      "id": "5048420",
+      "time": "2026-08-20 00:27:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗正在評估，一旦特朗普升級衝突，將直接打擊保加利亞等東南歐國家境內的美軍軍事資產。"
+    },
+    {
+      "id": "5048419",
+      "time": "2026-08-20 00:26:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德仍受到世界經濟論壇招攬，希望其出任高層職務。"
+    },
+    {
+      "id": "mkt:01a01ad7-eda7-7aab-909d-964cc07c7d5c",
+      "time": "2026-08-20 00:25:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's main benchmark stock index extended gains, rising 1%."
+    },
+    {
+      "id": "mkt:01a01ad7-c520-7aab-909d-8e10e56d11c7",
+      "time": "2026-08-20 00:25:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ reports a magnitude 5.76 earthquake in the Flores region of Indonesia."
+    },
+    {
+      "id": "5048418",
+      "time": "2026-08-20 00:25:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠譽評級：黃金增強了高加索及中亞地區的外部緩衝，但帶來集中度風險。"
+    },
+    {
+      "id": "mkt:01a01ad7-7f91-7aab-909d-814d9c94dcb4",
+      "time": "2026-08-20 00:25:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Fitch: Gold has strengthened Central Asian countries' external buffers but heightened concentration risk."
+    },
+    {
+      "id": "5048417",
+      "time": "2026-08-20 00:25:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指漲幅擴大，上漲1%。"
+    },
+    {
+      "id": "te:economy:576581",
+      "time": "2026-08-20 00:25:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 0"
+      ],
+      "text": "Colombia Imports Rise at Fastest Pace Since 2022 — Colombia’s imports rose 27% year-on-year to $6.78 billion in June 2026, marking the strongest growth since August 2022, following a 10.2% increase in May. The rise was driven by higher purchases of fuels and extractive industry products, which increased 67.2%, led by a 68.5% surge in petroleum and related products. Imports of manufactured goods also rose 23.1%, supported by stronger purchases of machinery and transport equipment (33.6%) and chemical products (21.6%). Meanwhile, agricultural imports increased 23.4%, mainly due to a 29.3% rise in purchases of food products and live animals."
+    },
     {
       "id": "mkt:01a01ad5-a0e3-7aab-909d-7e53b788bb24",
       "time": "2026-08-20 00:23:22",
@@ -141929,16 +142004,6 @@
         "國際"
       ],
       "text": "【巴勒斯坦總統與土耳其總統會談 討論巴以局勢等】當地時間12日，巴勒斯坦總統阿巴斯在安卡拉同土耳其總統埃爾多安舉行正式會談。雙方就巴以局勢最新進展、雙邊關係及共同關心的問題深入交換意見。（央視新聞）"
-    },
-    {
-      "id": "5038038",
-      "time": "2026-08-13 00:27:50",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國際貿易委員會發起針對三星裝置的 337 條款調查。"
     }
   ]
 }
