@@ -1,7 +1,26 @@
 {
   "date": "2026-08-20",
-  "count": 398,
+  "count": 400,
   "items": [
+    {
+      "id": "5048646",
+      "time": "2026-08-20 05:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。"
+    },
+    {
+      "id": "mkt:01a01bf2-17e5-7aab-90a2-828b8b3eb6fe",
+      "time": "2026-08-20 05:34:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base."
+    },
     {
       "id": "mkt:01a01bee-d41e-7aab-90a2-786ee99f3f05",
       "time": "2026-08-20 05:30:31",

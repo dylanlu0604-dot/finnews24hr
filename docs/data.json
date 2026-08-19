@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-20 05:32:56",
-  "count": 15664,
+  "updated": "2026-08-20 05:36:47",
+  "count": 15665,
   "items": [
+    {
+      "id": "5048646",
+      "time": "2026-08-20 05:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。"
+    },
+    {
+      "id": "mkt:01a01bf2-17e5-7aab-90a2-828b8b3eb6fe",
+      "time": "2026-08-20 05:34:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base."
+    },
     {
       "id": "mkt:01a01bee-d41e-7aab-90a2-786ee99f3f05",
       "time": "2026-08-20 05:30:31",
@@ -143556,14 +143575,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：08月13日05時28分在青海海南州興海縣（北緯35.28度，東經99.54度）發生3.7級地震，震源深度10千米。"
-    },
-    {
-      "id": "5038155",
-      "time": "2026-08-13 05:33:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潘興廣場新增投資維薩、奈飛等標的】潘興廣場公司在致股東信中表示，自完成IPO以來，該基金已完成六筆新增投資。潘興廣場稱：“我們近期新建倉投資了維薩、萬事達卡、奈飛、標普全球、洲際交易所以及愛爾康，這些企業都是我們已密切跟蹤多年的公司。”潘興廣場表示，疊加上述新標的，以及原有持倉微軟、亞馬遜、Meta、優步、布魯克菲爾德、Restaurant Brands國際，將助力基金實現強勁的未來收益。"
     }
   ]
 }
