@@ -1,7 +1,54 @@
 {
   "date": "2026-08-20",
-  "count": 269,
+  "count": 274,
   "items": [
+    {
+      "id": "5048529",
+      "time": "2026-08-20 03:14:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國會需要透過《清晰法案》。（CLARITY Act：美國兩黨加密監管核心法案，與特朗普已經簽署的GENIUS Act配套使用，GENIUS 管穩定幣，CLARITY 管整體加密資產市場結構。）"
+    },
+    {
+      "id": "mkt:01a01b70-d73e-7aab-90a0-ced4594ace97",
+      "time": "2026-08-20 03:12:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver surged $3 intraday to $66.32 per ounce, up 4.74%."
+    },
+    {
+      "id": "mkt:01a01b70-4f0e-7aab-90a0-c7ef1ff5aebc",
+      "time": "2026-08-20 03:12:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. President Trump said he strongly hopes interest rates will fall."
+    },
+    {
+      "id": "mkt:01a01b6f-f121-7aab-90a0-bc1b05ef55cc",
+      "time": "2026-08-20 03:11:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Sources say a U.S.-Canada trade deal is expected to cut U.S. tariffs on Canadian steel and aluminum to 25%, but to include quota arrangements."
+    },
+    {
+      "id": "5048528",
+      "time": "2026-08-20 03:11:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：希望看到利率下降。"
+    },
     {
       "id": "5048527",
       "time": "2026-08-20 03:11:05",
