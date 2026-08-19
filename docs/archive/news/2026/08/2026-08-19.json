@@ -1,7 +1,74 @@
 {
   "date": "2026-08-19",
-  "count": 1267,
+  "count": 1274,
   "items": [
+    {
+      "id": "mkt:01a018b4-1faf-7aab-908c-a3d735a5e7c9",
+      "time": "2026-08-19 14:27:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 Index fell nearly 7%; the ChiNext Index dropped 6%, the Shenzhen Composite Index fell 4.8% and the Shanghai Composite Index declined 2.4%. More than 5,100 A-share stocks declined."
+    },
+    {
+      "id": "5047130",
+      "time": "2026-08-19 14:27:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光象科技Phi-Bot X1實現單臺機器人雙工位自主迴圈作業】8月19日，在2026世界機器人大會上，光象科技工業級自進化具身智慧機器人Phi-Bot X1現場真機演示不間斷執行焊接上下料與移動質檢任務，在行業首次實現單臺具身智慧機器人在不同作業型別異構工位間的自主迴圈作業。"
+    },
+    {
+      "id": "5047129",
+      "time": "2026-08-19 14:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年以來我國鄉村產業保持穩健發展勢頭】今年以來，我國透過做強農產品加工業，做精鄉村特色產業，做活新產業新業態，推進鄉村產業全環節提升、全鏈條增值，鄉村產業保持了穩健發展勢頭。今年以來，我國深入實施農產品加工業促進行動。上半年，規模以上農副食品加工業增加值同比增長4.8%，特別是果蔬和肉類加工業發展較快。全國農業產業化國家重點龍頭企業採購經理指數為55.1%，整體保持在擴張區間。（央視新聞）"
+    },
+    {
+      "id": "5047128",
+      "time": "2026-08-19 14:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魔芯科技完成新一輪5億元人民幣融資】8月19日訊息，4D世界模型研發和應用的魔芯科技日前完成新一輪5億元人民幣融資，估值已近40億元人民幣。過去8個月，該公司已連續完成4輪融資，投資方包括華為哈勃、深創投、浙創投、聯想控股、富瀚微、星睿資本、乾杯基金、晶科能源控股、中芯聚源、矽芯投資、傑華特等產業與國資資本。"
+    },
+    {
+      "id": "5047127",
+      "time": "2026-08-19 14:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦方面表示，沙特、埃及和土耳其外長將於本月晚些時候在伊斯坦布林舉行四方會議。"
+    },
+    {
+      "id": "mkt:01a018b2-829e-7aab-908c-9bb2999a42ec",
+      "time": "2026-08-19 14:25:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadaath reported Pakistan said the foreign ministers of Saudi Arabia, Egypt, Turkey and Pakistan will hold a four-party meeting in Istanbul later this month."
+    },
+    {
+      "id": "mkt:01a018b1-d77c-7aab-908c-920bfa407028",
+      "time": "2026-08-19 14:25:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ghalibaf, speaker of Iran's parliament, said U.S. forces are seeking a face-saving withdrawal from the region and that the Israeli regime has no future there; its ambitions will never be realized."
+    },
     {
       "id": "mkt:01a018b1-04c1-7aab-908c-8ea68ca91743",
       "time": "2026-08-19 14:24:09",

@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-19 14:25:03",
+  "updated": "2026-08-19 14:28:52",
   "count": 15270,
   "items": [
+    {
+      "id": "mkt:01a018b4-1faf-7aab-908c-a3d735a5e7c9",
+      "time": "2026-08-19 14:27:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 Index fell nearly 7%; the ChiNext Index dropped 6%, the Shenzhen Composite Index fell 4.8% and the Shanghai Composite Index declined 2.4%. More than 5,100 A-share stocks declined."
+    },
+    {
+      "id": "5047130",
+      "time": "2026-08-19 14:27:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光象科技Phi-Bot X1實現單臺機器人雙工位自主迴圈作業】8月19日，在2026世界機器人大會上，光象科技工業級自進化具身智慧機器人Phi-Bot X1現場真機演示不間斷執行焊接上下料與移動質檢任務，在行業首次實現單臺具身智慧機器人在不同作業型別異構工位間的自主迴圈作業。"
+    },
+    {
+      "id": "5047129",
+      "time": "2026-08-19 14:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年以來我國鄉村產業保持穩健發展勢頭】今年以來，我國透過做強農產品加工業，做精鄉村特色產業，做活新產業新業態，推進鄉村產業全環節提升、全鏈條增值，鄉村產業保持了穩健發展勢頭。今年以來，我國深入實施農產品加工業促進行動。上半年，規模以上農副食品加工業增加值同比增長4.8%，特別是果蔬和肉類加工業發展較快。全國農業產業化國家重點龍頭企業採購經理指數為55.1%，整體保持在擴張區間。（央視新聞）"
+    },
+    {
+      "id": "5047128",
+      "time": "2026-08-19 14:26:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魔芯科技完成新一輪5億元人民幣融資】8月19日訊息，4D世界模型研發和應用的魔芯科技日前完成新一輪5億元人民幣融資，估值已近40億元人民幣。過去8個月，該公司已連續完成4輪融資，投資方包括華為哈勃、深創投、浙創投、聯想控股、富瀚微、星睿資本、乾杯基金、晶科能源控股、中芯聚源、矽芯投資、傑華特等產業與國資資本。"
+    },
+    {
+      "id": "5047127",
+      "time": "2026-08-19 14:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦方面表示，沙特、埃及和土耳其外長將於本月晚些時候在伊斯坦布林舉行四方會議。"
+    },
+    {
+      "id": "mkt:01a018b2-829e-7aab-908c-9bb2999a42ec",
+      "time": "2026-08-19 14:25:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadaath reported Pakistan said the foreign ministers of Saudi Arabia, Egypt, Turkey and Pakistan will hold a four-party meeting in Istanbul later this month."
+    },
+    {
+      "id": "mkt:01a018b1-d77c-7aab-908c-920bfa407028",
+      "time": "2026-08-19 14:25:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ghalibaf, speaker of Iran's parliament, said U.S. forces are seeking a face-saving withdrawal from the region and that the Israeli regime has no future there; its ambitions will never be realized."
+    },
     {
       "id": "mkt:01a018b1-04c1-7aab-908c-8ea68ca91743",
       "time": "2026-08-19 14:24:09",
@@ -139947,67 +140014,6 @@
         "MKT News"
       ],
       "text": "Norway's Government Pension Fund Global (GPFG) recorded NOK 89 bln of inflows in 1H."
-    },
-    {
-      "id": "5036968",
-      "time": "2026-08-12 14:28:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月12日：“農產品批發價格200指數”比昨天上升0.16個點】據農業農村部監測，8月12日“農產品批發價格200指數”為114.43，比昨天上升0.16個點，“菜籃子”產品批發價格指數為114.75，比昨天上升0.20個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.85元/公斤，比昨天上升0.8%；牛肉67.42元/公斤，與昨天持平；羊肉65.08元/公斤，比昨天上升0.5%；雞蛋10.00元/公斤，比昨天上升0.6%；白條雞17.25元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.50元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.91元/公斤，比昨天上升0.9%。鯽魚20.31元/公斤，比昨天上升0.1%；鯉魚14.45元/公斤，比昨天上升0.8%；白鰱魚10.50元/公斤，比昨天上升0.5%；大帶魚41.13元/公斤，比昨天下降1.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、巨峰葡萄、油菜、菠菜和平菇，幅度分別為4.6%、2.6%、2.3%、2.3%和2.2%；價格降幅前五名的是西瓜、大黃花魚、香蕉、蔥頭和大帶魚，幅度分別為4.7%、2.4%、2.1%、1.9%和1.1%。"
-    },
-    {
-      "id": "te:economy:574646",
-      "time": "2026-08-12 14:28:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Romania Inflation Falls to One-Year Low — The annual inflation rate in Romania eased to 8.2% in July 2026 from 10.4% in June, remaining above market expectations of 7.9% but marking the lowest reading since July 2025. Inflation for non-food goods posted the sharpest slowdown, easing to 7.9% from 12.3% in June, largely due to a steep moderation in electricity price growth (2.9% vs 35.2%). Food inflation also slowed (5.0% vs 5.8%), reflecting softer price growth for vegetables, fruits, meat and meat products, milk and dairy products, and sugar. Meanwhile, service inflation was unchanged at 13.7%. On a monthly basis, consumer prices rose 0.58% in July, accelerating from 0.06% in June. Meanwhile, the HICP-based annual inflation rate eased to 8.2% from 9.2% in the previous month."
-    },
-    {
-      "id": "5036967",
-      "time": "2026-08-12 14:26:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "塔塔諮詢服務股價下跌 5.3%，集團董事長將不再尋求連任。"
-    },
-    {
-      "id": "5036966",
-      "time": "2026-08-12 14:26:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方財富旗下西藏創新資本公司增資至10億 增幅100%】天眼查工商資訊顯示，近日，西藏東方財富創新資本有限公司發生工商變更，註冊資本由5億人民幣增至10億人民幣，增幅100%。該公司成立於2019年5月，法定代表人為卞春山，經營範圍為從事《證券公司證券自營投資品種清單》所列品種以外的金融產品、股權等另類投資業務。股東資訊顯示，該公司由東方財富證券股份有限公司全資持股。"
-    },
-    {
-      "id": "5036965",
-      "time": "2026-08-12 14:26:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寒武紀成交額超100億元】8月12日下午，寒武紀成交額超100億元，現漲1.06%。"
-    },
-    {
-      "id": "mkt:019ff4a5-aa80-7aab-9001-b34d125ea00b",
-      "time": "2026-08-12 14:25:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign minister said three Pakistani nationals were killed in an attack on a vessel in the Red Sea."
-    },
-    {
-      "id": "5036964",
-      "time": "2026-08-12 14:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部長：三名巴基斯坦公民在紅海船隻襲擊事件中身亡。"
     }
   ]
 }
