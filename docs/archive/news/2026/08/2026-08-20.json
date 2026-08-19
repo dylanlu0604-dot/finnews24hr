@@ -1,7 +1,30 @@
 {
   "date": "2026-08-20",
-  "count": 430,
+  "count": 432,
   "items": [
+    {
+      "id": "mkt:01a01c18-1cf1-7aab-90a2-c8d9759b586b",
+      "time": "2026-08-20 06:15:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukrainian air force says Russia launched large-scale ballistic missile attack on Kyiv】Ukraine’s air force said in a social media post in the early hours of the 20th that Russian forces launched a new, large-scale round of ballistic missile strikes toward Kyiv. It warned multiple ballistic missiles were flying toward the capital from Chernihiv and Poltava regions. Multiple loud explosions were heard in Kyiv and a brief power outage hit the Dnipro district. Kyiv’s air-raid warning remained in force."
+    },
+    {
+      "id": "te:markets:576614",
+      "time": "2026-08-20 06:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swiss Franc Rises by 1.88% — Top currency gainers are Swiss Franc (1.88%), South Korean Won (1.82%), Swedish Krona (1.06%), Japanese Yen (0.97%), Euro (0.89%) and British Pound (0.55%). Biggest loser is Dollar Index (-0.88%)."
+    },
     {
       "id": "5048666",
       "time": "2026-08-20 06:12:27",
