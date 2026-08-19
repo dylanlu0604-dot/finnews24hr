@@ -1,7 +1,53 @@
 {
   "date": "2026-08-20",
-  "count": 200,
+  "count": 204,
   "items": [
+    {
+      "id": "mkt:01a01b40-c651-7aab-909f-cd6dcf570c6e",
+      "time": "2026-08-20 02:20:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed minutes: inf risks dominated officials' discussion of economic outlook】The Fed left rates unchanged in July, but minutes show inf risks dominated officials' outlook. Many officials said further hikes could be needed if inf does not cool; the Fed's use of \"many\" denotes a sizable bloc short of a majority. At the July meeting July inf and payrolls data were not yet available. Subsequent July data showed inf cooled and the labor market softened, prompting traders to trim odds of a September rate hike. Markets will see additional inf and jobs prints before the next Fed meeting."
+    },
+    {
+      "id": "te:markets:576597",
+      "time": "2026-08-20 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 4.42% — Top commodity gainers are Platinum (4.42%), Silver (3.67%) and Gold (3.45%). Biggest loser is Lithium Carbonate (-1.21%)."
+    },
+    {
+      "id": "te:economy:576596",
+      "time": "2026-08-20 02:19:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US Yields Hold Pullback — The yield on the 10-year US Treasury note fell to 4.65% on Wednesday from 20-month highs of 4.75% in the previous session after the Treasury announced it would double the size of buybacks on long-dated securities. The move only increased the limit on operations to $4 billion, but it consolidated the department's efforts on intervening against high yields to limit the market's exposure to duration. Other measures included a joint intervention with Japan to support the yen by selling euros, undercutting Tokyo's yen defense by selling Treasury notes and bonds. On top of that, Secretary Bessent called for the Fed to increase its FIMA facility past the threshold of $60 billion, which would allow Japan to access dollar liquidity without selling Treasuries. Treasury bonds plunged in August as soaring AI-debt issuance, higher deficit spending, and risks of elevated inflation raised estimates on term premia. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates."
+    },
+    {
+      "id": "5048493",
+      "time": "2026-08-20 02:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stripe上半年淨營收同比增長41%，上半年自由現金流同比增長43%。"
+    },
     {
       "id": "5048492",
       "time": "2026-08-20 02:15:56",

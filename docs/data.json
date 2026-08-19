@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-20 02:17:18",
-  "count": 15599,
+  "updated": "2026-08-20 02:21:25",
+  "count": 15600,
   "items": [
+    {
+      "id": "mkt:01a01b40-c651-7aab-909f-cd6dcf570c6e",
+      "time": "2026-08-20 02:20:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed minutes: inf risks dominated officials' discussion of economic outlook】The Fed left rates unchanged in July, but minutes show inf risks dominated officials' outlook. Many officials said further hikes could be needed if inf does not cool; the Fed's use of \"many\" denotes a sizable bloc short of a majority. At the July meeting July inf and payrolls data were not yet available. Subsequent July data showed inf cooled and the labor market softened, prompting traders to trim odds of a September rate hike. Markets will see additional inf and jobs prints before the next Fed meeting."
+    },
+    {
+      "id": "te:markets:576597",
+      "time": "2026-08-20 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 4.42% — Top commodity gainers are Platinum (4.42%), Silver (3.67%) and Gold (3.45%). Biggest loser is Lithium Carbonate (-1.21%)."
+    },
+    {
+      "id": "te:economy:576596",
+      "time": "2026-08-20 02:19:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US Yields Hold Pullback — The yield on the 10-year US Treasury note fell to 4.65% on Wednesday from 20-month highs of 4.75% in the previous session after the Treasury announced it would double the size of buybacks on long-dated securities. The move only increased the limit on operations to $4 billion, but it consolidated the department's efforts on intervening against high yields to limit the market's exposure to duration. Other measures included a joint intervention with Japan to support the yen by selling euros, undercutting Tokyo's yen defense by selling Treasury notes and bonds. On top of that, Secretary Bessent called for the Fed to increase its FIMA facility past the threshold of $60 billion, which would allow Japan to access dollar liquidity without selling Treasuries. Treasury bonds plunged in August as soaring AI-debt issuance, higher deficit spending, and risks of elevated inflation raised estimates on term premia. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates."
+    },
+    {
+      "id": "5048493",
+      "time": "2026-08-20 02:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stripe上半年淨營收同比增長41%，上半年自由現金流同比增長43%。"
+    },
     {
       "id": "5048492",
       "time": "2026-08-20 02:15:56",
@@ -142768,40 +142814,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%)."
-    },
-    {
-      "id": "te:markets:574820",
-      "time": "2026-08-13 02:20:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1.18%), Platinum (0.87%) and Gold (0.86%). Biggest loser is Aluminum Alloy (-0.66%)."
-    },
-    {
-      "id": "mkt:019ff733-b536-7aab-9012-6243fa01f504",
-      "time": "2026-08-13 02:19:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【U.S. July budget deficit surges to highest monthly since March 2021】The U.S. Treasury reported Wednesday that the July budget deficit surged to $432.3bn, the largest monthly shortfall since March 2021 and a record for July. For the first 10 months of FY26 the cumulative deficit is nearly $1.8tn, exceeding the same period in FY25. July Medicare outlays rose to $174.0bn from $103.0bn in June, taking year-to-date Medicare spending to $955.0bn. July’s largest single outlay exceeded Social Security payments of $141.0bn and net interest on the federal debt of $104.0bn. Tariff refunds reduced the budget by about $33.0bn, and a calendar effect—July 1 fell on a non-workday—trimmed receipts by roughly $99.0bn. The Treasury flagged rising Medicare costs and persistent interest expenses as key drivers of the fiscal deterioration. President Trump has urged the Fed to cut rates to lower borrowing costs and has eased public criticism of the Fed since his nominee took over as chair in May."
-    },
-    {
-      "id": "mkt:019ff731-9182-7aab-9012-5ad1d6fbc731",
-      "time": "2026-08-13 02:17:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: ALPHABET reorganises DeepMind to prioritise GEMINI】Refinitiv sources say ALPHABET is executing a major leadership reshuffle at Google DeepMind, moving some teams into Google’s corporate structure and reducing DeepMind’s autonomy. Google co‑founder Sergey Brin has in recent months pushed core AI staff to focus on GEMINI and on research into recursive self‑improvement. Demis Hassabis will become chairman; his deputy Koray Kavukcuoglu will assume operational leadership and will have final authority on major DeepMind decisions. Internal tests reportedly show the new flagship GEMINI model still trails rivals in programming and other tasks, prompting a roughly two‑month delay to its planned release. Analysts say the reorganisation aims to speed AI commercialisation and regain model competitiveness; some employees warn it may further erode DeepMind’s long‑term research independence."
     }
   ]
 }
