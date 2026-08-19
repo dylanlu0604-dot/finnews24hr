@@ -1,7 +1,40 @@
 {
   "date": "2026-08-19",
-  "count": 3078,
+  "count": 3081,
   "items": [
+    {
+      "id": "mkt:01a01ab1-41eb-7aab-909c-e4bf7527c711",
+      "time": "2026-08-19 23:43:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says many ships transited Strait of Hormuz, US has complete control】Trump said many ships transited the Strait of Hormuz overnight and that the US has complete control of the waterway, but oil flows through the strait will not be entirely smooth. He said oil prices will fall sharply when this ends. He said talks with Iran may occur at some point but Iran must not be allowed nuclear weapons because they would use them. On trade, Trump said he had a good call with Canadian Prime Minister CARNEY, that there are no tariffs on Canada and US farmers will no longer face tariffs under an agreement that awaits final documentation."
+    },
+    {
+      "id": "te:markets:576565",
+      "time": "2026-08-19 23:43:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Pick Up to Over 3-Week High — Soybeans rose to around $12.20 per bushel, their highest level since the more than two-year peak of $12.50 reached on July 24, supported by growing concerns over the condition of the US Midwest crop. Recent field assessments pointed to below-average soybean pod counts in Indiana and Nebraska, while excessive rainfall in parts of the region has raised further doubts about potential yields. The USDA has also recently reduced its crop estimates and lowered condition ratings, adding to supply concerns. Demand prospects are providing additional support, particularly from China. The USDA confirmed a sale of 136,000 metric tons of US soybeans to China for delivery during the 2026/27 season, while traders reported that Chinese buyers have recently booked more than 7 million tons. Strong domestic demand is also reinforcing the positive outlook, with US soybean processing in July increasing 10.7% from a year earlier."
+    },
+    {
+      "id": "mkt:01a01aaf-efad-7aab-909c-d95dacaa0c6c",
+      "time": "2026-08-19 23:42:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump says talks with Iran may occur at some point】U.S. President Trump said on Aug. 19 local time that talks with Iran may occur at some point. On Aug. 18 he posted on social media that there would be no talks or dialogue with Iran now or in the future. Trump had earlier insisted the U.S. was negotiating with Iran, a claim Iranian officials have repeatedly denied."
+    },
     {
       "id": "5048380",
       "time": "2026-08-19 23:41:00",

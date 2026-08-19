@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-19 23:42:15",
-  "count": 15492,
+  "updated": "2026-08-19 23:46:12",
+  "count": 15489,
   "items": [
+    {
+      "id": "mkt:01a01ab1-41eb-7aab-909c-e4bf7527c711",
+      "time": "2026-08-19 23:43:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says many ships transited Strait of Hormuz, US has complete control】Trump said many ships transited the Strait of Hormuz overnight and that the US has complete control of the waterway, but oil flows through the strait will not be entirely smooth. He said oil prices will fall sharply when this ends. He said talks with Iran may occur at some point but Iran must not be allowed nuclear weapons because they would use them. On trade, Trump said he had a good call with Canadian Prime Minister CARNEY, that there are no tariffs on Canada and US farmers will no longer face tariffs under an agreement that awaits final documentation."
+    },
+    {
+      "id": "te:markets:576565",
+      "time": "2026-08-19 23:43:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Pick Up to Over 3-Week High — Soybeans rose to around $12.20 per bushel, their highest level since the more than two-year peak of $12.50 reached on July 24, supported by growing concerns over the condition of the US Midwest crop. Recent field assessments pointed to below-average soybean pod counts in Indiana and Nebraska, while excessive rainfall in parts of the region has raised further doubts about potential yields. The USDA has also recently reduced its crop estimates and lowered condition ratings, adding to supply concerns. Demand prospects are providing additional support, particularly from China. The USDA confirmed a sale of 136,000 metric tons of US soybeans to China for delivery during the 2026/27 season, while traders reported that Chinese buyers have recently booked more than 7 million tons. Strong domestic demand is also reinforcing the positive outlook, with US soybean processing in July increasing 10.7% from a year earlier."
+    },
+    {
+      "id": "mkt:01a01aaf-efad-7aab-909c-d95dacaa0c6c",
+      "time": "2026-08-19 23:42:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump says talks with Iran may occur at some point】U.S. President Trump said on Aug. 19 local time that talks with Iran may occur at some point. On Aug. 18 he posted on social media that there would be no talks or dialogue with Iran now or in the future. Trump had earlier insisted the U.S. was negotiating with Iran, a claim Iranian officials have repeatedly denied."
+    },
     {
       "id": "5048380",
       "time": "2026-08-19 23:41:00",
@@ -141691,59 +141724,6 @@
         "其他"
       ],
       "text": "軟商品貿易商 SUCAFINA 稱，受地震影響，哥倫比亞大部分產區的咖啡運輸 “嚴重受阻”。"
-    },
-    {
-      "id": "mkt:019ff6a6-6628-7aab-9010-da68ff6cd252",
-      "time": "2026-08-12 23:45:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said Grok 4.6 has an Elo rating of 1,336."
-    },
-    {
-      "id": "mkt:019ff6a5-c8ec-7aab-9010-d592e19d4a87",
-      "time": "2026-08-12 23:44:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Sources: Pakistan seeks extension of US-Iran 60-day ceasefire】Al Arabiya cited sources saying Pakistan is actively mediating to extend the 60-day ceasefire agreed under the US‑Iran memorandum of understanding. Mediators say they need more time to resolve remaining differences between Tehran and Washington; Pakistan is reportedly supportive."
-    },
-    {
-      "id": "5038018",
-      "time": "2026-08-12 23:43:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渣打牽頭的Anchorpoint推出港元穩定幣】據一封電子郵件宣告顯示，渣打牽頭的持牌穩定幣發行機構Anchorpoint Financial宣佈推出港元穩定幣。港元穩定幣HKDAP透過測試接入面向機構分銷商和專業投資者推出。"
-    },
-    {
-      "id": "mkt:019ff6a4-9452-7aab-9010-cfd40263933a",
-      "time": "2026-08-12 23:43:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces says it killed a Hamas commander in northern Gaza."
-    },
-    {
-      "id": "5038017",
-      "time": "2026-08-12 23:43:09",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【瑞士擬立法強制延遲銀行高管獎金髮放 最長可達五年】瑞士政府希望把銀行高管獎金遞延數年發放的要求寫入法律，作為瑞信倒閉後加強金融監管的一攬子措施之一。瑞士政府週三公佈的方案顯示，這項措施將適用於包括瑞銀集團在內的大型銀行，可能要求將40%至60%的浮動薪酬遞延發放，最長可達五年。瑞士財政部長Karin Keller-Sutter在伯爾尼表示：“以犧牲金融穩定為代價換取短期回報，絕對不應得到獎勵。”"
-    },
-    {
-      "id": "5038016",
-      "time": "2026-08-12 23:42:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩政府軍指責以色列違反框架協議持續襲擊黎南 】黎巴嫩政府軍12日發表宣告說，以色列持續違反現有框架協議和國際法，對黎南部發動持續襲擊並炸燬多處建築，阻礙當地居民返回家園以及黎軍部署。（新華社）"
     }
   ]
 }
