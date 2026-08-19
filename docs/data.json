@@ -1,7 +1,291 @@
 {
-  "updated": "2026-08-19 22:10:22",
-  "count": 15384,
+  "updated": "2026-08-19 22:27:21",
+  "count": 15388,
   "items": [
+    {
+      "id": "5048252",
+      "time": "2026-08-19 22:13:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "默沙東公司股價創下2009年以來最大單日漲幅，上漲超過12%。"
+    },
+    {
+      "id": "mkt:01a01a5e-ad7f-7aab-9099-a2bd8fef57bd",
+      "time": "2026-08-19 22:13:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD up over 1.0% intraday, trading at 0.5932."
+    },
+    {
+      "id": "5048251",
+      "time": "2026-08-19 22:12:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "MODERNA股價創下盤中新高，漲幅高達138%。"
+    },
+    {
+      "id": "mkt:01a01a5d-eabd-7aab-9099-9f9f3f35206a",
+      "time": "2026-08-19 22:12:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China achieves key breakthrough in mid-to-heavy rare earths】China's Baotou Rare Earth Research Institute, Tianjin branch, has achieved a core technical breakthrough in the project to develop an ultra-dry anhydrous scandium chloride production process, successfully producing scandium chloride with water content below 50 ppm. The institute says it now masters full-series rare-earth anhydrous halide synthesis technology, filling a domestic gap in scandium-based high-end rare-earth functional materials. The ultra-dry scandium chloride can be used in laser crystal manufacture, specialty light sources, radiation detection equipment, fuel cells and high-safety lithium batteries, providing material support for China's low-altitude economy and new-energy system development."
+    },
+    {
+      "id": "mkt:01a01a5b-d1b2-7aab-9099-92eae080b819",
+      "time": "2026-08-19 22:10:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French foreign minister says further sanctions on West Bank settlers not ruled out】Aug 19 — French foreign minister Barro said on social media France does not rule out further sanctions targeting Israeli settlers in the West Bank, saying all options are under consideration. She called recent events in the West Bank appalling and said France has already pushed for sanctions on settlers who commit violence and on entities, companies and organizations that support them. Barro also described recent remarks by Israeli national security minister Ben-Gvir on Gaza as unacceptable and inhuman, and noted France has previously sanctioned Ben-Gvir."
+    },
+    {
+      "id": "mkt:01a01a5b-6db0-7aab-9099-89cae63846dc",
+      "time": "2026-08-19 22:09:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) shares hit a nearly three-week high, last up 2.1%."
+    },
+    {
+      "id": "5048249",
+      "time": "2026-08-19 22:09:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4530美元/盎司，日內漲2.47%。"
+    },
+    {
+      "id": "5048248",
+      "time": "2026-08-19 22:09:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【算電協同技術聯合研究院在廣州揭牌】8月19日，由國家新型儲能創新中心、南方電網科學研究院有限責任公司、南方電網電力科技股份有限公司、廣東東陽光科技控股股份有限公司、秦淮資料五方共同組建的算電協同技術聯合研究院在廣州揭牌。算電協同技術聯合研究院立足國家“雙碳”戰略與新型電力系統建設需求，以高可靠、低能耗、綠電驅動、智慧自治為核心導向，聚焦資料中心能源系統與供配電領域關鍵技術攻堅，目標打造國內領先的算電協同創新平臺、技術成果轉化基地與專業人才培養高地。活動現場，五方簽署合作協議，明確將圍繞四大核心領域開展聯合攻關：資料中心綠電直連與源網荷儲協同用電方案、先進直流配電與電能質量最佳化技術、新型儲能器件與系統整合裝備、算力中心智慧運維與系統可靠性管控。"
+    },
+    {
+      "id": "5048247",
+      "time": "2026-08-19 22:09:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價觸及近三週高位，最新上漲2.1%。"
+    },
+    {
+      "id": "mkt:01a01a5a-99f1-7aab-9099-8218d3d5fbad",
+      "time": "2026-08-19 22:09:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli medical personnel say two Israeli airstrikes killed 10 people in Gaza."
+    },
+    {
+      "id": "5048246",
+      "time": "2026-08-19 22:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：本雅明·內塔尼亞胡已批准對加沙地帶實施打擊。"
+    },
+    {
+      "id": "mkt:01a01a5a-4ede-7aab-9099-7f3a42b1a466",
+      "time": "2026-08-19 22:08:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai gold main contract rose 2.00% intraday to 968.60 yuan/gram."
+    },
+    {
+      "id": "5048245",
+      "time": "2026-08-19 22:08:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4470美元/盎司，日內漲3.14%。"
+    },
+    {
+      "id": "mkt:01a01a59-73d2-7aab-9099-72b9fda42bfa",
+      "time": "2026-08-19 22:07:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 20-year Treasury yield fell 10 bps ahead of a Treasury auction."
+    },
+    {
+      "id": "mkt:01a01a58-4d97-7aab-9099-690f0b95b5f6",
+      "time": "2026-08-19 22:06:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI: online software development platform Replit is rolling out a free tier powered by GPT-5.6 Luna."
+    },
+    {
+      "id": "5048244",
+      "time": "2026-08-19 22:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：線上軟體開發平臺Replit正在推出由GPT‑5.6 Luna驅動的免費模式。"
+    },
+    {
+      "id": "5048243",
+      "time": "2026-08-19 22:06:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期美國國債收益率在拍賣前下跌10個基點。"
+    },
+    {
+      "id": "5048242",
+      "time": "2026-08-19 22:05:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國工商銀行網路金融部高階專家張航宇被查】8月19日，中央紀委國家監委網站訊息，據中央紀委國家監委駐中國工商銀行紀檢監察組、北京市紀委監委訊息：中國工商銀行網路金融部高階專家張航宇涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國工商銀行紀檢監察組紀律審查和北京市監察委員會監察調查。（中證報）"
+    },
+    {
+      "id": "5048241",
+      "time": "2026-08-19 22:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【擴大軍事合作 日本計劃在澳試射遠端導彈】除了謀求修改“無核三原則”，日本政府也在同步與澳大利亞進一步加強軍事勾連。據日本方面18日訊息，日本防衛大臣小泉進次郎當天在澳大利亞首都堪培拉與澳副總理兼國防部長馬爾斯舉行會談，就一系列防務合作進行磋商。雙方就日本自衛隊為所謂“強化反擊能力”在澳境內試射遠端導彈事宜達成一致。訊息稱，澳大利亞方面將允許日本自衛隊利用澳境內試驗場，試射用於所謂“強化反擊能力”的遠端導彈等武器。澳大利亞媒體稱，這其中包括高超音速導彈。另外，雙方還同意進一步擴大防務裝備領域合作，包括推動澳方引進日本的升級版“最上”級護衛艦等。（央視新聞）"
+    },
+    {
+      "id": "5048240",
+      "time": "2026-08-19 22:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國中重稀土領域取得關鍵技術突破】據包鋼集團訊息，近日，包頭稀土研究院天津分院稀土晶體材料研發中心牽頭實施的《超幹無水氯化鈧製備工藝開發》專案取得核心技術突破，成功製備出水含量低於百萬分之五十的超幹無水氯化鈧產品。這一成果標誌著該院已全面掌握全系稀土無水鹵化物合成技術，填補了我國鈧系高階稀土功能材料開發空白。此次超幹無水氯化鈧產品的研發成功，完成了我國全系稀土無水鹵化物技術版圖的最後一塊拼圖，產品可廣泛應用於鐳射晶體制備、特種光源生產、輻射探測裝置、燃料電池及高安全鋰電池等產業賽道，為我國低空經濟發展、新能源體系建設提供關鍵材料支撐。"
+    },
+    {
+      "id": "mkt:01a01a56-2add-7aab-9099-60d1e5cc80e9",
+      "time": "2026-08-19 22:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs (GS.N) applied to convert 1.75 million shares of Turkish investment company EFOR Yatirim into tradable status."
+    },
+    {
+      "id": "5048239",
+      "time": "2026-08-19 22:03:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛申請將1.75億歐元的Efor Yatirim股份轉為可交易股份。"
+    },
+    {
+      "id": "5048238",
+      "time": "2026-08-19 22:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "國藥集團、中國醫藥集團擬出售國瑞藥業51%股權。"
+    },
+    {
+      "id": "mkt:01a01a54-d2d3-7aab-9099-5bc266f99344",
+      "time": "2026-08-19 22:02:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chang'e-7 to head for lunar south pole】China's Chang'e-7 is set to travel to the lunar south pole for a complex, high-risk comprehensive exploration. The mission aims to achieve multiple technical breakthroughs: high‑precision lunar soft landing, legged surface locomotion, short‑range surface hopping and in‑situ probing of permanently shadowed craters. Permanently shadowed regions at the south pole, which can remain sunless and at extremely low temperatures, may preserve billion‑year‑old water ice and are a primary target. Scientific objectives include characterising the surface environment, regolith water‑ice and volatile content; high‑resolution mapping of south‑polar morphology, composition and geology; probing shallow crustal structure, moonquakes, magnetic and thermal properties and the space environment; and conducting lunar‑based astronomy. The probe will carry multiple international payloads, and its south‑pole data are intended to provide key scientific support for Chang'e‑8 and the planned international lunar research station."
+    },
+    {
+      "id": "mkt:01a01a53-b9bc-7aab-9099-510cae136e92",
+      "time": "2026-08-19 22:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fannie Mae sold non-performing loans with an unpaid principal balance of $207.4 million."
+    },
+    {
+      "id": "5048237",
+      "time": "2026-08-19 22:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫦娥七號將赴月球南極】嫦娥七號即將奔赴充滿未知的月球南極，執行極具挑戰性的綜合探測任務。 工程層面，嫦娥七號將突破多項關鍵技術：高精度月面軟著陸、月面腿式行走、月面飛躍、永久陰影坑原位探測等等。 月球南極分佈大量永久陰影坑，坑內常年不見陽光，極低溫環境下，有可能儲存數十億年的水冰資源，這是未來月球駐留的寶貴資源，也是本次探測的重中之重。 嫦娥七號的科學目標清晰明確：探測月表環境、月壤水冰與揮發組分；開展月球南極形貌、物質成分、地質構造高精度探測；探測月殼淺層結構、月震、磁場、熱特性、空間環境；開展月基天文觀測，同時搭載多國合作載荷，推進月球探測國際合作。 嫦娥七號獲取的南極第一手資料，將為嫦娥八號建設國際月球科研站基本型，提供關鍵科學支撐，助力人類揭開月球南極的重重謎題。（央視財經）"
+    },
+    {
+      "id": "mkt:01a01a53-88db-7aab-9099-4a437cc0b8c4",
+      "time": "2026-08-19 22:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli forces detain 31 Palestinians, including PA Jerusalem affairs minister】Israeli forces carried out raids across the West Bank and Jerusalem on the 19th, detaining at least 31 Palestinians, Palestinian sources said. Among those arrested was Palestinian Authority Jerusalem affairs minister Ashraf al-Awar, seized at his home in the Silwan neighborhood south of the Al-Aqsa Mosque in the Old City. Al-Awar was barred from entering the West Bank in January, the PA said, calling the arrest the latest in a series of restrictions on Palestinian officials in Jerusalem. The Israeli military had not commented."
+    },
+    {
+      "id": "5048236",
+      "time": "2026-08-19 22:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯諾里爾斯克鎳業：董事會將於8月25日審議股息派發事宜。"
+    },
+    {
+      "id": "5048235",
+      "time": "2026-08-19 22:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "房利美宣佈出售不良貸款，其中包括第二十八批社群影響貸款池。"
+    },
+    {
+      "id": "5048234",
+      "time": "2026-08-19 21:59:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "禮來股價上漲5.3%，報1290美元/股，續刷記錄新高，總市值報1.21萬億美元。"
+    },
+    {
+      "id": "te:markets:576523",
+      "time": "2026-08-19 21:58:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "US Dollar Plunges on Larger Treasury Buyback — The US dollar index fell to 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The department raised the maximum Treasury security buyback amount to $4 billion on the period to November 4th. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets."
+    },
     {
       "id": "mkt:01a01a4f-a6c1-7aab-9099-4610721e260d",
       "time": "2026-08-19 21:57:02",
@@ -79,6 +363,16 @@
         "Importance 1"
       ],
       "text": "T-Mobile Us Stock Price Hits 4-week High — T-Mobile Us shares increased to 186.29 USD, the highest since July 2026. Over the past 4 weeks, T-Mobile Us lost 4.83%, and in the last 12 months, it decreased 27.89%."
+    },
+    {
+      "id": "5048231",
+      "time": "2026-08-19 21:54:02",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【公積金新政引關注，多家上市公司回應】近日，《國務院關於修改〈住房公積金管理條例〉的決定》正式公佈，自9月20日起施行。房地產服務板塊及物業管理板塊上市公司股價出現異動，對於股價漲停，我愛我家方面回應稱，股價受多重因素影響，公司除了佈局北京外，還重點佈局了上海、蘇州、杭州和南京等地區。世聯行方面回應稱，公司業務主要分為大交易和大資管。其中，大交易主要指的是一手房代理銷售。大資管指的是物業管理和公寓管理。一手房銷售主要涉及廣州、深圳、惠州等地區，地區之間分化較為嚴重。目前，公司業務不覆蓋二手房，北京地區的二手房受關注度比較大，房地產業務區域性特徵比較明顯。南都物業方面回應稱，公積金可以支付物業費的政策還沒有施行，暫時對公司基本面影響不大，業績情況以公司半年報為準。（中證金牛座）"
     },
     {
       "id": "5048230",
@@ -140496,255 +140790,6 @@
         "國際"
       ],
       "text": "彭博使用者預計美國原油庫存將減少140萬桶。"
-    },
-    {
-      "id": "mkt:019ff65e-bc34-7aab-900e-85721bde1111",
-      "time": "2026-08-12 22:27:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's defense minister Katz has instructed the Israel Defense Forces to prepare for a long-term deployment."
-    },
-    {
-      "id": "5037951",
-      "time": "2026-08-12 22:27:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱打擊了烏克蘭切爾諾莫爾斯克的燃料儲罐。"
-    },
-    {
-      "id": "mkt:019ff65e-a9b5-7aab-900e-78f1555b75d7",
-      "time": "2026-08-12 22:27:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Katz said the IDF will continue to garrison security zones in Lebanon, Syria and Gaza."
-    },
-    {
-      "id": "5037950",
-      "time": "2026-08-12 22:27:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：已指示以色列國防軍做好長期駐紮準備。"
-    },
-    {
-      "id": "5037949",
-      "time": "2026-08-12 22:26:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：以色列國防軍將駐守黎巴嫩、敘利亞以及加沙安全區。"
-    },
-    {
-      "id": "5037948",
-      "time": "2026-08-12 22:25:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍空襲敖德薩港口一艘船隻。"
-    },
-    {
-      "id": "mkt:019ff65d-548b-7aab-900e-718ec928ae1c",
-      "time": "2026-08-12 22:25:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry said Russian forces struck a vessel in the port of Odesa."
-    },
-    {
-      "id": "5037947",
-      "time": "2026-08-12 22:21:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：YUNO 完成 4500 萬美元 B 輪融資，用於擴大原生人工智慧作業系統業務規模。"
-    },
-    {
-      "id": "mkt:019ff658-4a7a-7aab-900e-6ebb48cf1dc1",
-      "time": "2026-08-12 22:20:09",
-      "tags": [
-        "MKT News",
-        "CLSK.O"
-      ],
-      "text": "Texas governor says CleanSpark will comply with state data-center standards."
-    },
-    {
-      "id": "mkt:019ff658-43ed-7aab-900e-6169506522fd",
-      "time": "2026-08-12 22:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. EIA crude inventories, Cushing crude inventories and Strategic Petroleum Reserve levels for the week to Aug. 7 are due in 10 minutes."
-    },
-    {
-      "id": "5037946",
-      "time": "2026-08-12 22:19:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普考慮削減資本利得稅以提升共和黨支援率】據一名高階經濟顧問和前政府官員稱，美國總統特朗普考慮在中期選舉前向選民做出新的政策承諾，其中或包括呼籲國會下調資本利得稅，並對部分住房出售給予免稅待遇。白宮國家經濟委員會主任凱文·哈塞特週二接受採訪時表示，特朗普希望為選民提供更多支援共和黨的理由。庫德洛在特朗普首個任期內曾領導國家經濟委員會，目前仍是其盟友。他表示，近期曾與特朗普討論資本利得稅指數化，也就是在計算應稅資本利得時剔除通脹因素。他還建議，對售價不超過200萬美元的住房出售給予資本利得稅豁免，並稱“老闆對這些想法很感興趣”。庫德洛說：“我跟他談過，他喜歡資本利得稅指數化這個想法，也喜歡擴大豁免範圍的想法。”哈塞特表示，特朗普正在尋找能夠幫助共和黨爭取選民的新政策構想。大多數稅制調整都需要國會立法，因此特朗普的這些設想不太可能在11月中期選舉前成為法律。包括特朗普第一任期在內的歷屆美國政府都曾研究在不經國會的情況下單方面將資本利得稅與通脹掛鉤，但法律專家認為，這樣做很可能面臨司法挑戰。國會共和黨人也曾提出資本利得稅指數化，不過這一議題尚未獲得黨內一致支援。但是無論是調整資本利得稅還是擴大售房免稅範圍，受益都將明顯偏向富裕人群，因此共和黨可能面臨政治攻擊。白宮發言人Kush Desai在被問及正在考慮的政策提案時表示，特朗普“一直在探索讓美國再次富裕的新想法，但任何政策宣佈都將由政府直接釋出”。"
-    },
-    {
-      "id": "te:economy:574792",
-      "time": "2026-08-12 22:19:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Germany 10-Year Bond Yield Swings at 3.1% — Germany’s 10-year Bund yield has been swinging around 3.1% in August, tracking US Treasury yields, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September."
-    },
-    {
-      "id": "mkt:019ff657-d9bf-7aab-900e-5e16844605c8",
-      "time": "2026-08-12 22:19:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Texas governor says Google and Rowan will comply with Texas data center standards."
-    },
-    {
-      "id": "mkt:019ff657-9bcb-7aab-900e-55d56e2f4beb",
-      "time": "2026-08-12 22:19:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The US has launched a plan to accelerate trade in AI products among allied countries."
-    },
-    {
-      "id": "5037945",
-      "time": "2026-08-12 22:19:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國得州州長Abbott：Cleanspark 需遵守資料中心相關標準。"
-    },
-    {
-      "id": "5037944",
-      "time": "2026-08-12 22:18:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國得州州長Abbott：谷歌、羅文公司需遵守資料中心相關標準。"
-    },
-    {
-      "id": "5037943",
-      "time": "2026-08-12 22:18:17",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院人工智慧產品相關專案是 “矽晶和平計劃” 的組成部分。"
-    },
-    {
-      "id": "5037942",
-      "time": "2026-08-12 22:17:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院推出專案，加快關鍵人工智慧產品的物流流轉。"
-    },
-    {
-      "id": "5037941",
-      "time": "2026-08-12 22:17:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國發起行動，加快盟國間人工智慧產品貿易。"
-    },
-    {
-      "id": "5037940",
-      "time": "2026-08-12 22:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Formlabs 與蘋果前硬體主管丹・裡喬展開合作。"
-    },
-    {
-      "id": "5037939",
-      "time": "2026-08-12 22:16:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電投水電與葛洲壩集團舉行會談】據電投水電訊息，8月11日，電投水電董事長、黨委書記姚小彥會見了葛洲壩集團董事長、黨委書記譚華，雙方圍繞深化清潔能源領域合作深入交流。姚小彥表示，葛洲壩集團綜合實力雄厚、水電業績突出，雙方合作基礎深厚，未來空間廣闊，期待雙方聚焦水電主業，拓展新能源、綠電直連、算電協同等領域，共同服務國家戰略。"
-    },
-    {
-      "id": "5037938",
-      "time": "2026-08-12 22:15:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海深圳房租上漲 求職畢業生在深圳可免費入住15天】在畢業季的帶動下，疊加家庭型租客換租等需求推動，上海、深圳近幾個月租金迎來上漲。 今年3月以來，上海市住宅租金已連續5個月出現環比上漲。業內人士表示，近期上海租賃市場量價齊升，一方面源於畢業季、陪讀季需求的集中釋放；另一方面也受到二手房市場企穩的帶動。7月上海二手房成交量約2.3萬套，同比上漲19%，並創下五年同期新高。深圳7月租房市場的成交量創下2019年以來同期新高。為吸引更多的大學畢業生來深工作，深圳為求職畢業生提供連續15天免費入住等人才安居補貼，同時不少園區及住房服務企業也推出實習期免費入住政策，多重舉措有效降低了青年人才來深初期的生活成本，也進一步帶動了租房需求。據研究機構統計，7月深圳租房成交量環比增長19.6%，而且市場成交熱度高於去年同期，同比增幅為2%。 （央視財經）"
-    },
-    {
-      "id": "mkt:019ff654-066a-7aab-900e-4dfe5476f36e",
-      "time": "2026-08-12 22:15:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【German firms expect AI to depress wages; junior employees most exposed】Munich-based Ifo Institute said a June survey of more than 3,000 German companies deploying AI found about half expect wages for employees with under five years’ experience to fall over the next five years as AI adoption expands. Around 40% of firms expect pay declines for more experienced staff, while university-educated employees are markedly more likely to see pay gains than non-degree workers. Ifo researcher Anna Ruffert said AI’s impact will not be uniform, with formal qualifications and greater experience more often linked to positive wage outcomes."
-    },
-    {
-      "id": "5037937",
-      "time": "2026-08-12 22:13:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多 7 月國際儲備為 113.46 億美元。"
-    },
-    {
-      "id": "te:markets:574791",
-      "time": "2026-08-12 22:13:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Extends Record Run — The S&P/TSX Composite Index edged higher to trade above 36,500, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC, TD Bank and BMO gaining more than 0.5%, while CIBC and Scotiabank rose nearly 1%. Most miners advanced amid higher gold prices, with Agnico Eagle and Barrick up more than 1.5%. Franco-Nevada fell 3% after missing earnings expectations. Constellation Software tumbled near 7% after revenue came in slightly below forecasts despite an EPS beat. Hydro One gained 2% after reporting higher profit, while Metro fell 2% after reporting weaker adjusted earnings in fiscal Q3."
-    },
-    {
-      "id": "5037936",
-      "time": "2026-08-12 22:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦總統抵達土耳其，與土耳其總統埃爾多安舉行會談。"
-    },
-    {
-      "id": "5037935",
-      "time": "2026-08-12 22:11:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：喬希・庫什納、鮑勃・艾格擬以 120 億美元收購湖人隊。"
-    },
-    {
-      "id": "5037934",
-      "time": "2026-08-12 22:10:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價漲幅擴大至8.25%，報153.335美元/股，總市值報1.12萬億美元。"
     }
   ]
 }
