@@ -1,7 +1,95 @@
 {
   "date": "2026-08-20",
-  "count": 296,
+  "count": 305,
   "items": [
+    {
+      "id": "mkt:01a01b84-f770-7aab-90a1-54053aa4ca27",
+      "time": "2026-08-20 03:34:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,510/oz, up 4.06% intraday."
+    },
+    {
+      "id": "5048550",
+      "time": "2026-08-20 03:34:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【皮尤調查：美國年輕人對AI態度日益敵視 擔心技術進步導致大規模失業】皮尤研究中心的一項調查顯示，美國勞動力市場中最年輕的一批人對人工智慧的疑慮日益增加，擔心這項技術的進步會導致大規模失業。6月資料顯示，自皮尤2021年開始進行這項調查以來，30歲以下成年人中首次有多數人表示對AI的擔憂多於興奮。這與大多數其他年齡群體的態度趨於一致，但變化尤其明顯的是，最年輕群體已從過去最看好AI潛力的一群人，轉變為如今對這項技術最持懷疑態度的群體之一。調查顯示，在這一年齡段中，接近四分之三的人還認為，AI將導致可獲得的工作崗位減少，佔比高於兩年前的61%。"
+    },
+    {
+      "id": "5048549",
+      "time": "2026-08-20 03:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗制裁後續情況我們拭目以待。"
+    },
+    {
+      "id": "mkt:01a01b84-ac4d-7aab-90a1-4c0e9b9bb4ec",
+      "time": "2026-08-20 03:34:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI CFO: Company to go public in 2027 or earlier】OpenAI CFO Sarah Friar told staff at an all‑hands the company expects to be a public company in 2027 but could list earlier if growth accelerates. She said an IPO is a milestone and a means to raise capital rather than an endpoint, and that OpenAI completed $122 bln of financing in March, giving it greater flexibility for future development."
+    },
+    {
+      "id": "5048548",
+      "time": "2026-08-20 03:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國已就儲備 “大規模” 比特幣及其他加密貨幣的相關計劃展開討論。"
+    },
+    {
+      "id": "5048546",
+      "time": "2026-08-20 03:32:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大貿易談判：我認為我們達成了一份對各方都有利的協議。"
+    },
+    {
+      "id": "mkt:01a01b82-a709-7aab-90a1-421cea8a1631",
+      "time": "2026-08-20 03:32:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Copper"
+      ],
+      "text": "Trump on Canada trade talks said he believes a deal has been reached that will be mutually beneficial."
+    },
+    {
+      "id": "5048545",
+      "time": "2026-08-20 03:32:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：可能和加拿大達成協議。"
+    },
+    {
+      "id": "mkt:01a01b82-88a5-7aab-90a1-3f4f5d370359",
+      "time": "2026-08-20 03:32:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said on trade talks with Canada that we may reach a deal."
+    },
     {
       "id": "mkt:01a01b81-655b-7aab-90a1-31151e3ea184",
       "time": "2026-08-20 03:30:59",
