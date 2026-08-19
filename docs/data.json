@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20 05:17:36",
-  "count": 15665,
+  "updated": "2026-08-20 05:21:26",
+  "count": 15667,
   "items": [
+    {
+      "id": "5048645",
+      "time": "2026-08-20 05:20:52",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。"
+    },
+    {
+      "id": "5048644",
+      "time": "2026-08-20 05:20:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。"
+    },
+    {
+      "id": "mkt:01a01be5-3c64-7aab-90a2-64a044553b6d",
+      "time": "2026-08-20 05:20:02",
+      "tags": [
+        "MKT News",
+        "8001.T",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan."
+    },
     {
       "id": "5048643",
       "time": "2026-08-20 05:16:47",
@@ -143552,14 +143580,6 @@
         "其他"
       ],
       "text": "思科：受Mythos帶來的威脅影響，各家企業正將預算重新投向網路安全領域。"
-    },
-    {
-      "id": "5038149",
-      "time": "2026-08-13 05:20:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras執行長表示，目前254億美元的剩餘履約義務並未反映來自AWS或其他任何超大規模客戶的業務積壓情況。"
     }
   ]
 }
