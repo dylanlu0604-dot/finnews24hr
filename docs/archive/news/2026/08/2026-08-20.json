@@ -1,7 +1,26 @@
 {
   "date": "2026-08-20",
-  "count": 127,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:01a01b1a-7e3e-7aab-909e-ba2f55d69d27",
+      "time": "2026-08-20 01:38:36",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "S&P upgraded Micron Technology (MU.O) to BBB+, citing increased confidence in the company's near-term demand outlook. Outlook is Positive."
+    },
+    {
+      "id": "5048459",
+      "time": "2026-08-20 01:38:21",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "標普：美光科技評級上調至“BBB+”，因對短期需求信心增強。展望為正面。"
+    },
     {
       "id": "mkt:01a01b17-3183-7aab-909e-b7b6df108e05",
       "time": "2026-08-20 01:34:59",
