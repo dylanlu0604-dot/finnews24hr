@@ -1,7 +1,23 @@
 {
   "date": "2026-08-20",
-  "count": 404,
+  "count": 406,
   "items": [
+    {
+      "id": "5048650",
+      "time": "2026-08-20 05:42:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。"
+    },
+    {
+      "id": "mkt:01a01bf8-8fee-7aab-90a2-9562942d1496",
+      "time": "2026-08-20 05:41:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit."
+    },
     {
       "id": "5048649",
       "time": "2026-08-20 05:39:30",
