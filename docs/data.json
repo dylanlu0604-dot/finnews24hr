@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-20 04:58:13",
-  "count": 15665,
+  "updated": "2026-08-20 05:02:02",
+  "count": 15668,
   "items": [
+    {
+      "id": "mkt:01a01bd4-39df-7aab-90a2-508c75b55008",
+      "time": "2026-08-20 05:01:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages."
+    },
+    {
+      "id": "mkt:01a01bd2-f2c5-7aab-90a2-4b89e9113613",
+      "time": "2026-08-20 05:00:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor says the city is under ballistic missile attack."
+    },
+    {
+      "id": "5048633",
+      "time": "2026-08-20 04:59:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！"
+    },
+    {
+      "id": "5048632",
+      "time": "2026-08-20 04:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "5048631",
+      "time": "2026-08-20 04:57:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲5%，現報67.28美元/盎司。"
+    },
     {
       "id": "te:economy:576611",
       "time": "2026-08-20 04:55:46",
@@ -143545,30 +143594,6 @@
         "MKT News"
       ],
       "text": "MSCI said the MSCI Global Index will add 55 securities and remove 92 securities."
-    },
-    {
-      "id": "mkt:019ff7c7-cb89-7aab-9013-a69c9714bd35",
-      "time": "2026-08-13 05:01:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fox Business: White House Council of Economic Advisers chair Furman said the US CPI report weakens the case for further rate hikes."
-    },
-    {
-      "id": "5038139",
-      "time": "2026-08-13 04:59:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "明晟（MSCI）：阿斯特拉有限公司（ASTRAL）、巴爾克里希納工業有限公司（BALKRISHNA INDUSTRIES）、印度國家銀行支付卡有限公司（SBI CARDS AND PAYMENT）將被剔除出明晟印度指數。"
     }
   ]
 }

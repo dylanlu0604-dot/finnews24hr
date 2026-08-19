@@ -1,7 +1,56 @@
 {
   "date": "2026-08-20",
-  "count": 379,
+  "count": 384,
   "items": [
+    {
+      "id": "mkt:01a01bd4-39df-7aab-90a2-508c75b55008",
+      "time": "2026-08-20 05:01:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages."
+    },
+    {
+      "id": "mkt:01a01bd2-f2c5-7aab-90a2-4b89e9113613",
+      "time": "2026-08-20 05:00:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor says the city is under ballistic missile attack."
+    },
+    {
+      "id": "5048633",
+      "time": "2026-08-20 04:59:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！"
+    },
+    {
+      "id": "5048632",
+      "time": "2026-08-20 04:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "5048631",
+      "time": "2026-08-20 04:57:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲5%，現報67.28美元/盎司。"
+    },
     {
       "id": "te:economy:576611",
       "time": "2026-08-20 04:55:46",
