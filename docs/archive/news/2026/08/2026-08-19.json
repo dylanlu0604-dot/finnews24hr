@@ -1,7 +1,663 @@
 {
   "date": "2026-08-19",
-  "count": 2835,
+  "count": 2901,
   "items": [
+    {
+      "id": "mkt:01a01a6e-816e-7aab-909a-d0c5e73484c9",
+      "time": "2026-08-19 22:30:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US EIA weekly motor gasoline implied demand for week ended Aug 14: 9.5404 mln b/d, prior 9.8169 mln b/d."
+    },
+    {
+      "id": "mkt:01a01a6e-7fcb-7aab-909a-ca60f17da054",
+      "time": "2026-08-19 22:30:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Aug.14) | actual 5553600M | previous 5392400M"
+    },
+    {
+      "id": "mkt:01a01a6e-6842-7aab-909a-c4adba277230",
+      "time": "2026-08-19 22:30:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied crude oil demand for the week to Aug. 14: 19.794 mln b/d, prior 18.655 mln b/d."
+    },
+    {
+      "id": "mkt:01a01a6e-63ba-7aab-909a-bf0d2ed699fc",
+      "time": "2026-08-19 22:30:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Aug.14) | actual 9540400M | previous 9816900M"
+    },
+    {
+      "id": "mkt:01a01a6e-6204-7aab-909a-b13d5edd7d46",
+      "time": "2026-08-19 22:30:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA net finished petroleum product imports for the week to Aug. 14: -258,000 b/d, prior 206,000 b/d."
+    },
+    {
+      "id": "mkt:01a01a6e-4d50-7aab-909a-ab192e75edb2",
+      "time": "2026-08-19 22:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. refinery utilization rate (EIA) for week to Aug 14 97.2%, prior 96.2%."
+    },
+    {
+      "id": "mkt:01a01a6e-4c89-7aab-909a-a33eb28207ad",
+      "time": "2026-08-19 22:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US EIA gasoline inventories rose 688,000 barrels in the week to Aug 14, versus a 968,000-barrel draw in the prior week."
+    },
+    {
+      "id": "mkt:01a01a6e-4bc9-7aab-909a-99803d2687fa",
+      "time": "2026-08-19 22:30:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories rose by 4.405 mln barrels in the week to Aug 14; prior +17.423 mln barrels."
+    },
+    {
+      "id": "mkt:01a01a6e-4bc8-7aab-909a-959d6d74fefb",
+      "time": "2026-08-19 22:30:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude oil imports for the week to Aug 14: -1.754 million barrels; prior: 1.768 million barrels."
+    },
+    {
+      "id": "mkt:01a01a6e-4b5d-7aab-909a-8bed798f7239",
+      "time": "2026-08-19 22:30:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US EIA reformulated gasoline stocks rose 3,000 barrels in the week to Aug 14, versus -3,000 barrels in the prior week."
+    },
+    {
+      "id": "mkt:01a01a6e-4b5b-7aab-909a-8644b1d0e35f",
+      "time": "2026-08-19 22:30:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve stocks fell 5.268 mln barrels in the week to Aug. 14, versus a 6.115 mln-barrel drawdown the prior week, EIA data showed."
+    },
+    {
+      "id": "mkt:01a01a6e-4912-7aab-909a-721648cc071a",
+      "time": "2026-08-19 22:30:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA refined product inventories fell 1.53 mln bbl in the week to Aug. 14; prior -0.01 mln bbl."
+    },
+    {
+      "id": "mkt:01a01a6e-39cb-7aab-909a-62849ca2cc18",
+      "time": "2026-08-19 22:30:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Implied Demand (Aug.14) | actual 19794000M | previous 18655000M"
+    },
+    {
+      "id": "mkt:01a01a6e-4ab0-7aab-909a-7faa82e360ac",
+      "time": "2026-08-19 22:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA heating oil inventories fell 537,000 barrels in the week to Aug. 14, versus a 192,000-barrel build in the prior week."
+    },
+    {
+      "id": "mkt:01a01a6e-30d9-7aab-909a-549a4c5f91e5",
+      "time": "2026-08-19 22:30:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA Cushing, Oklahoma crude inventories for week ended Aug 14: -1.314 mln barrels; prior +1.611 mln barrels."
+    },
+    {
+      "id": "mkt:01a01a6e-3bba-7aab-909a-6d1415583cd5",
+      "time": "2026-08-19 22:30:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA gasoline production rose by 143,000 b/d in the week to Aug. 14; previous week change -1,000 b/d."
+    },
+    {
+      "id": "mkt:01a01a6e-3130-7aab-909a-596cb0561f28",
+      "time": "2026-08-19 22:30:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA: crude oil brought online in the week to Aug 14 totaled 216,000 b/d, prior 26,000 b/d."
+    },
+    {
+      "id": "5048278",
+      "time": "2026-08-19 22:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國當週EIA庫存資料六大看點一覽】1. EIA報告：08月14日當週美國原油出口增加100.8萬桶/日至406.6萬桶/日。\n2. EIA報告：08月14日當週美國國內原油產量增加2.5萬桶至1383.0萬桶/日。\n3. EIA報告：除卻戰略儲備的商業原油庫存增加440.5萬桶至4.29億桶，增幅1.04%。\n4. EIA報告：美國原油產品四周平均供應量為2047.5萬桶/日，較去年同期減少2.93%。\n5. EIA報告：08月14日當週美國戰略石油儲備（SPR）庫存減少526.8萬桶至2.934億桶，降幅1.76%。\n6. EIA報告：08月14日當週美國除卻戰略儲備的商業原油進口659.3萬桶/日，較前一週減少74.6萬桶/日。"
+    },
+    {
+      "id": "mkt:01a01a6e-2787-7aab-909a-484615e56717",
+      "time": "2026-08-19 22:30:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA refined product production fell 54,000 b/d in the week to Aug. 14; prior +50,000 b/d."
+    },
+    {
+      "id": "mkt:01a01a6d-f76f-7aab-909a-438352a4de84",
+      "time": "2026-08-19 22:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Strategic Petroleum Reserve Stocks Change (Aug.14) | actual -5268000M | previous -6115000M"
+    },
+    {
+      "id": "mkt:01a01a6d-e7c0-7aab-909a-3f3301538952",
+      "time": "2026-08-19 22:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Refinery Utilization Rates (Aug.14) | actual 97.2% | previous 96.2%"
+    },
+    {
+      "id": "mkt:01a01a6d-dcab-7aab-909a-35bec9abcc27",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Aug.14) | actual 3000M | previous -3000M"
+    },
+    {
+      "id": "mkt:01a01a6d-dc0d-7aab-909a-2d92496e9ec9",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Gasoline Stocks Change (Aug.14) | actual 688000M | previous -968000M"
+    },
+    {
+      "id": "mkt:01a01a6d-db00-7aab-909a-2043448a054c",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Stocks Change (Aug.14) | actual -1530000M | previous -10000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d9f9-7aab-909a-1ff384b9acec",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Stocks Change (Aug.14) | actual 4405000M | previous 17423000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d9f2-7aab-909a-13bdd96f6bdc",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Imports Change (Aug.14) | actual -1754000M | previous 1768000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d9f0-7aab-909a-0b449b32740a",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Petroleum Products Imports Change (Aug.14) | actual -258000M | previous 206000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d8fb-7aab-909a-025bbcef2de3",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Heating Oil Stocks Change (Aug.14) | actual -537000M | previous 192000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d8f9-7aab-9099-fd69114c9038",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1314000M | previous 1611000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d8ea-7aab-9099-f4ca04c65317",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Distillate Production Change (Aug.14) | actual -54000M | previous 50000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d88b-7aab-9099-ee5dd78c1db8",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Gasoline Production (Aug.14) | actual 143000M | previous -1000M"
+    },
+    {
+      "id": "mkt:01a01a6d-d845-7aab-9099-e38512b4ee5f",
+      "time": "2026-08-19 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Input Into Refineries Change (Aug.14) | actual 216000M | previous 26000M"
+    },
+    {
+      "id": "5048277",
+      "time": "2026-08-19 22:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥外交部長： 已就墨西哥羈押死亡事件提起 20 起訴訟。"
+    },
+    {
+      "id": "5048276",
+      "time": "2026-08-19 22:29:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高市政策及醜聞持續拉低支援率】據日本《每日新聞》8月18日報道，該機構於7月進行的全國民意調查顯示，自民黨支援率較上月下降4個百分點，降至23%。這一支援率為高市內閣去年10月成立以來的最低水平。另外，共同社今天（19日）報道說，多家日本媒體的民調顯示，高市內閣的支援率下滑趨勢明顯。日本媒體分析認為，這主要與近期高市早苗在經濟民生政策、擴軍修憲動向等方面的爭議做法及其本人的政治醜聞有關。（CCTV國際時訊）"
+    },
+    {
+      "id": "5048275",
+      "time": "2026-08-19 22:28:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金龍魚：來自境外的銷售收入佔比很小 2026年上半年約為2.8%】金龍魚8月19日在互動平臺表示，中國國內市場需求巨大，公司目前主要專注於國內市場，所以來自境外的銷售收入佔比很小，2026年上半年約為2.8%。"
+    },
+    {
+      "id": "mkt:01a01a6c-00cf-7aab-9099-db15b12a2f01",
+      "time": "2026-08-19 22:28:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "According to CNBC, NVIDIA (NVDA.O) is seeking partners to expand operations in the Nordic region."
+    },
+    {
+      "id": "5048274",
+      "time": "2026-08-19 22:27:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首次實現火箭陸地回收有何重要意義？專家解讀：這意味著中國航天發射的成本有望降低70%以上】此次，朱雀三號遙二運載火箭飛行任務圓滿成功，首次實現火箭陸地回收，意義究竟有多重大？專家表示，隨著長征十號乙、朱雀三號可重複使用技術的突破，中國航天有望走出一條低成本、高效率的可持續發展路徑。"
+    },
+    {
+      "id": "5048273",
+      "time": "2026-08-19 22:27:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "名村造船計劃到2035年在日本西部佐賀縣伊萬里灣建造用於大型船舶建造的幹船塢。"
+    },
+    {
+      "id": "5048272",
+      "time": "2026-08-19 22:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本將建造2017年以來首個大型造船船塢 。"
+    },
+    {
+      "id": "5048271",
+      "time": "2026-08-19 22:27:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場預計美國原油庫存將減少70.7萬桶。"
+    },
+    {
+      "id": "5048270",
+      "time": "2026-08-19 22:26:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【超200家外資機構調研A股公司】國產儲存龍頭長鑫科技完成上市，折射出外資對我國半導體、AI基礎設施等硬科技板塊的高度關注。進入8月，相關行業升溫的背後，是全球資本正透過ETF渠道持續加碼中國科技資產。 美國景順亞太區客戶解決方案主管漢密爾頓介紹，許多中國科技企業的盈利趨勢向好，同時估值水平仍遠低於多數全球科技同行，這為全球投資者創造了頗具吸引力的風險收益比，投資者越來越認識到，中國不僅是AI技術的使用者，在AI大模型、雲基礎設施、半導體、智慧製造等領域同樣是重要的創新者。我們看到資金正有選擇性地佈局中國人工智慧、半導體、機器人和先進製造相關產業生態。ETF已成為落實這一投資思路的主要工具之一。 資料顯示，7月至8月中旬，共有217家外資機構累計調研163家A股公司達547家次，電子、機械裝置、電力裝置三大行業合計佔比近五成，積體電路、算力硬體、光模組等產業鏈環節成為機構調研的重點方向。 （央視財經）"
+    },
+    {
+      "id": "5048269",
+      "time": "2026-08-19 22:26:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英偉達尋求對接企業，推進在北歐地區的業務部署  。"
+    },
+    {
+      "id": "5048268",
+      "time": "2026-08-19 22:25:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4540美元/盎司，日內漲2.70%。"
+    },
+    {
+      "id": "5048267",
+      "time": "2026-08-19 22:25:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4480美元/盎司，日內漲3.37%。"
+    },
+    {
+      "id": "5048266",
+      "time": "2026-08-19 22:25:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國藥集團和國藥控股將向國藥現代出售國瑞藥業51%股權】國藥控股及其控股股東國藥集團同意向國藥現代出售國瑞藥業51%的股權，交易金額約為4.064億元人民幣。交易完成後，國藥控股將不再直接持有國瑞藥業的股份。"
+    },
+    {
+      "id": "5048265",
+      "time": "2026-08-19 22:24:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會對埃裡森處以五年交易禁令。"
+    },
+    {
+      "id": "mkt:01a01a68-a309-7aab-9099-d54a1bfd135d",
+      "time": "2026-08-19 22:24:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Moderna (MRNA.O) continued to surge, rising more than 150% intraday."
+    },
+    {
+      "id": "mkt:01a01a68-0cfd-7aab-9099-cfb1678f946c",
+      "time": "2026-08-19 22:23:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF chief inspects buffer zone in southern Syria】On the morning of the 19th (local time), IDF Chief of General Staff Zamir inspected the Israeli-controlled buffer zone in southern Syria. He received a security briefing with senior officers and met reservists deployed in the area."
+    },
+    {
+      "id": "5048264",
+      "time": "2026-08-19 22:22:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：我國牽頭制定的全球首個算電協同領域國際標準成功立項】據國家市場監督管理總局訊息，近日，由我國向國際電工委員會（IEC）提出的《資料中心微電網監控與能量管理系統技術規範》提案獲批立項。該標準是全球首個聚焦資料中心算電協同領域的IEC國際標準，由我國專家擔任專案負責人，聯合法國、德國、西班牙等多國專家共同制定。該標準的研製將系統性解決算電融合新興場景下算力與電力聯合監控與能量管理無據可依的行業難題，對推動全球算力產業綠色低碳轉型、提升能源數字融合發展水平具有重要意義。"
+    },
+    {
+      "id": "5048263",
+      "time": "2026-08-19 22:22:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【農夫山泉進軍電解質水賽道】今年，農夫山泉（09633.HK）於3月悄然上新的一款電解質飲料，刷屏國內不少核心城市的樓宇電梯。 農夫山泉的這款電解質飲料共有檸檬和西柚兩種風味，目前有550ml/瓶和950ml/瓶兩種規格，其中550ml×15瓶加上平臺補貼後售價55元，摺合售價約3.67元/瓶，950ml×12瓶優惠後售價60元，相當於5元/瓶。 “包裝飲用水一哥”發力電解質飲料，並非個例。 作為近幾年飲料市場增長最快的細分品類之一，電解質飲料正從小眾運動飲料走向大眾市場，甚至有成為“水替”的趨勢，是眾多水飲企業的必爭之地。 根據快消品線下監測機構“馬上贏”資料，元氣森林旗下電解質水品牌“外星人”卡位更早，2025年上半年以46.54%的市場份額拿下第一，東鵬飲料（605499.SH/09980.HK）旗下電解質水品牌“補水啦”與日本大冢製藥的“寶礦力水特”分列第二、第三位。（21財經）"
+    },
+    {
+      "id": "te:economy:576529",
+      "time": "2026-08-19 22:21:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Eases — South Africa’s 10-year government bond yield fell to around 8.64%, pulling back after reaching a high of 8.74% on August 18, the steepest since July 30. The retreat came as global bond markets recovered after the US Treasury moved to strengthen liquidity support for long-dated securities, helping reverse some of the recent selloff. Meanwhile, traders digested the latest domestic inflation data while awaiting the FOMC minutes for further guidance on interest rates. Headline inflation slowed more than expected to 4.3% in July from 5% in June, although core inflation accelerated slightly for the fifth month to 4.2%. However, the softer July reading may offer only temporary relief, as higher diesel prices in August and expected fuel price increases in September could push inflation higher again. This leaves the SARB’s September decision finely balanced between a hold and a 25-bps hike. The central bank left rates unchanged at 7% last month, citing an improved inflation outlook."
+    },
+    {
+      "id": "5048262",
+      "time": "2026-08-19 22:21:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：美國及其挑起的戰爭是地區安全缺失、阻礙正常貿易通道的根源。"
+    },
+    {
+      "id": "5048261",
+      "time": "2026-08-19 22:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺胞住房公積金跨境直付業務在崑山落地】這兩天，臺胞住房公積金跨境直付業務在江蘇崑山正式落地，這是大陸住房公積金首次實現直接劃轉至臺灣地區個人銀行賬戶，兩岸金融服務便利化再進一步。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01a64-bf9c-7aab-9099-c3c2af2c4f77",
+      "time": "2026-08-19 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly crude oil inventories, Cushing crude stocks and Strategic Petroleum Reserve levels for the week to Aug. 14 are due in 10 minutes."
+    },
+    {
+      "id": "5048260",
+      "time": "2026-08-19 22:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《空槍》上映1天 ，總票房破5000萬 。"
+    },
+    {
+      "id": "5048259",
+      "time": "2026-08-19 22:19:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【楊東寧調任中國人保專職副書記】記者8月19日從相關渠道獲悉，中國進出口銀行副行長楊東寧已調任中國人保，任專職副書記。"
+    },
+    {
+      "id": "5048258",
+      "time": "2026-08-19 22:18:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影 《空槍 》上映首日， 總票房破5000萬。"
+    },
+    {
+      "id": "te:markets:576528",
+      "time": "2026-08-19 22:18:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuitive Surgical Stock Price Hits 4-week High — Intuitive Surgical shares increased to 404.99 USD, the highest since July 2026. Over the past 4 weeks, Intuitive Surgical gained 14.62%, and in the last 12 months, it decreased 15.52%."
+    },
+    {
+      "id": "5048257",
+      "time": "2026-08-19 22:17:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌3%】費城半導體指數跌近3%。英偉達跌超1%，博通跌超5%，美光科技跌超2%，ARM跌超4%，英特爾跌超5%。"
+    },
+    {
+      "id": "mkt:01a01a62-1650-7aab-9099-bc178b60a655",
+      "time": "2026-08-19 22:17:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Survey: U.S. young workers increasingly hostile to AI, fear job losses】A Pew Research Center survey found U.S. adults under 30 have grown more negative toward AI and increasingly fear widespread job losses. For the first time since the poll began in 2021, more 30-and-under respondents said they were worried about AI than excited. Almost 75% of under-30s now expect AI will reduce job opportunities, up from 61% two years ago. The group — among the most skilled AI users — has swung from being the most optimistic to one of the most skeptical, citing threats to entry-level roles that traditionally provide an initial foothold in the labor market."
+    },
+    {
+      "id": "5048256",
+      "time": "2026-08-19 22:16:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美財政部擬擴大回購規模抑制國債收益率狂飆】美國財政部19日宣佈，將擴大對長期國債的回購規模，為債券市場提供更大流動性支援。根據宣告，美國財政部對長期國債的流動性支援回購規模將“至少擴大一倍”，由20億美元提高至40億美元，回購物件涵蓋10年期至30年期債券。近期，美國長期國債收益率持續走高。美國30年期國債收益率17日達5.31%，創下2007年6月以來新高。長期國債收益率上升意味著美國政府未來發行債券融資成本進一步增加。法國外貿銀行分析師約翰·布里格斯認為，美國財政部正透過擴大回購規模發出訊號，如果國債收益率過高，財政部會採取行動。美國財政部訊息釋出後，美國長期國債收益率顯著下跌。（新華社）"
+    },
+    {
+      "id": "5048255",
+      "time": "2026-08-19 22:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部長稱穀物收成接近1億噸。"
+    },
+    {
+      "id": "5048254",
+      "time": "2026-08-19 22:16:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報922.00元。"
+    },
+    {
+      "id": "5048253",
+      "time": "2026-08-19 22:15:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "LYNTRIS股票預計開盤價為16美元/17美元，IPO發行價為17.50美元。"
+    },
+    {
+      "id": "mkt:01a01a60-c30a-7aab-9099-b6e085025597",
+      "time": "2026-08-19 22:15:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US-Iran conflict could stretch to end of Trump term — market implications of a no-agreement outcome】A conflict once expected to last days or weeks is approaching six months, raising the risk Iran may delay any deal until the end of President Trump’s term in January 2029. Markets have largely abandoned a rapid resolution but have not fully priced a scenario extending to Jan 2029. An adviser to Iran’s parliamentary speaker said Trump would not reach a deal and Iran would “accompany” him but not sign a real agreement before his term ends. If fighting persists through Jan 2029, market, corporate and household expectations would have more time to adjust; oil and refined-products forward curves would likely reprice to reflect higher prices sustained for longer. Gulf exporters are expected to accelerate alternative export routes, efforts to bypass or reduce reliance on the Strait of Hormuz, or seek negotiated safe‑passage arrangements with Iran in exchange for cash or gold; some alternative routes are reportedly advanced. Iran may intensify pressure on energy and shipping, restricting crude and refined-product outflows and disrupting tanker flows. A prolonged stalemate could erode perceived US geopolitical credibility, prompting partners to seek security and economic alternatives — a trend with prior economic precedents after recent US trade actions. Broader geopolitical spillovers, including increased risk involving Russia, may rise. The petro‑dollar recycling dynamic could become less stable; while the dollar is likely to remain dominant, oil‑dollar flows may increasingly diversify or shift toward alternative arrangements."
+    },
+    {
+      "id": "mkt:01a01a60-6894-7aab-9099-a8e900943499",
+      "time": "2026-08-19 22:15:20",
+      "tags": [
+        "MKT News",
+        "MRK.O",
+        "Impact bullish"
+      ],
+      "text": "Merck (MRK.N) notched its largest intraday gain since 2009, climbing more than 12%."
+    },
     {
       "id": "5048252",
       "time": "2026-08-19 22:13:37",

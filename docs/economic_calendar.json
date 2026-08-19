@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-19 22:27:29",
+  "updated": "2026-08-19 22:44:12",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 421,
+  "count": 430,
   "history_summary": {
     "cached": 421,
-    "fetched": 0,
+    "fetched": 9,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 253,
+      "count": 262,
       "dates": [
         {
           "date": "2026-08-17",
@@ -5259,7 +5259,7 @@
         },
         {
           "date": "2026-08-19",
-          "count": 54,
+          "count": 63,
           "events": [
             {
               "id": "capital:1185209",
@@ -7820,8 +7820,8 @@
               "importance": 2,
               "previous": "161.1",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-131.4",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174686",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -7878,8 +7878,8 @@
               "importance": 3,
               "previous": "1742.3",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "440.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174685",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -7936,8 +7936,8 @@
               "importance": 1,
               "previous": "1865.5",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "1979.4",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174689",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -7982,6 +7982,354 @@
               "history_checked_at": "2026-08-09 00:03:14"
             },
             {
+              "id": "capital:1185333",
+              "fid": "1185333",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA原油進口(萬桶)",
+              "importance": 1,
+              "previous": "176.8",
+              "forecast": "--",
+              "actual": "-175.4",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185333",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "176.8",
+                  "forecast": "-",
+                  "previous": "29.7"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "29.7",
+                  "forecast": "-",
+                  "previous": "-23.7"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "-23.7",
+                  "forecast": "-",
+                  "previous": "48.5"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "48.5",
+                  "forecast": "-",
+                  "previous": "-39.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-39.9",
+                  "forecast": "-",
+                  "previous": "109.6"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "109.6",
+                  "forecast": "-",
+                  "previous": "37"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
+              "id": "capital:1185335",
+              "fid": "1185335",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "19.2",
+              "forecast": "--",
+              "actual": "-53.7",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185335",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "19.2",
+                  "forecast": "-",
+                  "previous": "-14.4"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-14.4",
+                  "forecast": "-",
+                  "previous": "30.8"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "30.8",
+                  "forecast": "-",
+                  "previous": "23.1"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "23.1",
+                  "forecast": "-",
+                  "previous": "3"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "3",
+                  "forecast": "-",
+                  "previous": "-42.7"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-42.7",
+                  "forecast": "-",
+                  "previous": "-31"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
+              "id": "capital:1185336",
+              "fid": "1185336",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "20.6",
+              "forecast": "--",
+              "actual": "-25.8",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185336",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "20.6",
+                  "forecast": "-",
+                  "previous": "-31.7"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-31.7",
+                  "forecast": "-",
+                  "previous": "18.6"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "18.6",
+                  "forecast": "-",
+                  "previous": "28"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "28",
+                  "forecast": "-",
+                  "previous": "1.3"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "1.3",
+                  "forecast": "-",
+                  "previous": "-27.4"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-27.4",
+                  "forecast": "-",
+                  "previous": "-3.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
+              "id": "capital:1185339",
+              "fid": "1185339",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA戰略石油儲備庫存(萬桶)",
+              "importance": 2,
+              "previous": "-611.5",
+              "forecast": "--",
+              "actual": "-526.8",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185339",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "-611.5",
+                  "forecast": "-",
+                  "previous": "-284.1"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-284.1",
+                  "forecast": "-",
+                  "previous": "-379.7"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "-379.7",
+                  "forecast": "-",
+                  "previous": "-505.7"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "-505.7",
+                  "forecast": "-",
+                  "previous": "-298.5"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-298.5",
+                  "forecast": "-",
+                  "previous": "-616.6"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-616.6",
+                  "forecast": "-",
+                  "previous": "-553.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
+              "id": "capital:1185338",
+              "fid": "1185338",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "2.6",
+              "forecast": "--",
+              "actual": "21.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185338",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "2.6",
+                  "forecast": "-",
+                  "previous": "-18.3"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-18.3",
+                  "forecast": "-",
+                  "previous": "27.1"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "27.1",
+                  "forecast": "-",
+                  "previous": "-5.8"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "-5.8",
+                  "forecast": "-",
+                  "previous": "9.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "9.9",
+                  "forecast": "-",
+                  "previous": "-17.2"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-17.2",
+                  "forecast": "-",
+                  "previous": "8.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
+              "id": "capital:1185334",
+              "fid": "1185334",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA新配方汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-0.3",
+              "forecast": "--",
+              "actual": "0.3",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185334",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "-0.3",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "0.3",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "-0.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
               "id": "capital:1174687",
               "fid": "1174687",
               "interval": "this_week",
@@ -7994,8 +8342,8 @@
               "importance": 1,
               "previous": "-96.8",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "68.8",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174687",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -8040,6 +8388,122 @@
               "history_checked_at": "2026-08-09 00:03:14"
             },
             {
+              "id": "capital:1185332",
+              "fid": "1185332",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA汽油產量(萬桶/日)",
+              "importance": 1,
+              "previous": "-0.1",
+              "forecast": "--",
+              "actual": "14.3",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185332",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "-30.9"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-30.9",
+                  "forecast": "-",
+                  "previous": "17.8"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "17.8",
+                  "forecast": "-",
+                  "previous": "6"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "6",
+                  "forecast": "-",
+                  "previous": "-9.6"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-9.6",
+                  "forecast": "-",
+                  "previous": "-23.3"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-23.3",
+                  "forecast": "-",
+                  "previous": "48.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
+              "id": "capital:1185331",
+              "fid": "1185331",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA精煉廠設備利用率",
+              "importance": 1,
+              "previous": "96.2 %",
+              "forecast": "-- %",
+              "actual": "97.2 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185331",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "96.2",
+                  "forecast": "96.4",
+                  "previous": "96.5"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "96.5",
+                  "forecast": "96.9",
+                  "previous": "97.2"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "97.2",
+                  "forecast": "95.9",
+                  "previous": "96.1"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "96.1",
+                  "forecast": "95.9",
+                  "previous": "96.2"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "96.2",
+                  "forecast": "95.6",
+                  "previous": "95.8"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "95.8",
+                  "forecast": "96.5",
+                  "previous": "96.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
               "id": "capital:1174688",
               "fid": "1174688",
               "interval": "this_week",
@@ -8052,8 +8516,8 @@
               "importance": 1,
               "previous": "-1",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "-153",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174688",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -8098,6 +8562,64 @@
               "history_checked_at": "2026-08-09 00:03:14"
             },
             {
+              "id": "capital:1185337",
+              "fid": "1185337",
+              "interval": "this_week",
+              "date": "2026-08-19",
+              "time": "22:30",
+              "datetime": "2026-08-19 22:30:00",
+              "display_time": "08/19 22:30",
+              "country": "美國",
+              "title": "美國至8月14日當週EIA精煉油產量(萬桶/日)",
+              "importance": 1,
+              "previous": "5",
+              "forecast": "--",
+              "actual": "-5.4",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185337",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/12",
+                  "actual": "5",
+                  "forecast": "-",
+                  "previous": "-13.4"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-13.4",
+                  "forecast": "-",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "07/29",
+                  "actual": "1.5",
+                  "forecast": "-",
+                  "previous": "9"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "9",
+                  "forecast": "-",
+                  "previous": "7.2"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "7.2",
+                  "forecast": "-",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "-4.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-19 22:44:05"
+            },
+            {
               "id": "capital:1174691",
               "fid": "1174691",
               "interval": "this_week",
@@ -8110,8 +8632,8 @@
               "importance": 1,
               "previous": "539.24",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "555.36",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174691",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -8168,8 +8690,8 @@
               "importance": 1,
               "previous": "981.69",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "954.04",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174690",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -32189,8 +32711,8 @@
       "importance": 2,
       "previous": "161.1",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-131.4",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174686",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32247,8 +32769,8 @@
       "importance": 3,
       "previous": "1742.3",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "440.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174685",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32305,8 +32827,8 @@
       "importance": 1,
       "previous": "1865.5",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "1979.4",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174689",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32351,6 +32873,354 @@
       "history_checked_at": "2026-08-09 00:03:14"
     },
     {
+      "id": "capital:1185333",
+      "fid": "1185333",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA原油進口(萬桶)",
+      "importance": 1,
+      "previous": "176.8",
+      "forecast": "--",
+      "actual": "-175.4",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185333",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "176.8",
+          "forecast": "-",
+          "previous": "29.7"
+        },
+        {
+          "date": "08/05",
+          "actual": "29.7",
+          "forecast": "-",
+          "previous": "-23.7"
+        },
+        {
+          "date": "07/29",
+          "actual": "-23.7",
+          "forecast": "-",
+          "previous": "48.5"
+        },
+        {
+          "date": "07/22",
+          "actual": "48.5",
+          "forecast": "-",
+          "previous": "-39.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "-39.9",
+          "forecast": "-",
+          "previous": "109.6"
+        },
+        {
+          "date": "07/08",
+          "actual": "109.6",
+          "forecast": "-",
+          "previous": "37"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
+      "id": "capital:1185335",
+      "fid": "1185335",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "19.2",
+      "forecast": "--",
+      "actual": "-53.7",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185335",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "19.2",
+          "forecast": "-",
+          "previous": "-14.4"
+        },
+        {
+          "date": "08/05",
+          "actual": "-14.4",
+          "forecast": "-",
+          "previous": "30.8"
+        },
+        {
+          "date": "07/29",
+          "actual": "30.8",
+          "forecast": "-",
+          "previous": "23.1"
+        },
+        {
+          "date": "07/22",
+          "actual": "23.1",
+          "forecast": "-",
+          "previous": "3"
+        },
+        {
+          "date": "07/15",
+          "actual": "3",
+          "forecast": "-",
+          "previous": "-42.7"
+        },
+        {
+          "date": "07/08",
+          "actual": "-42.7",
+          "forecast": "-",
+          "previous": "-31"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
+      "id": "capital:1185336",
+      "fid": "1185336",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "20.6",
+      "forecast": "--",
+      "actual": "-25.8",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185336",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "20.6",
+          "forecast": "-",
+          "previous": "-31.7"
+        },
+        {
+          "date": "08/05",
+          "actual": "-31.7",
+          "forecast": "-",
+          "previous": "18.6"
+        },
+        {
+          "date": "07/29",
+          "actual": "18.6",
+          "forecast": "-",
+          "previous": "28"
+        },
+        {
+          "date": "07/22",
+          "actual": "28",
+          "forecast": "-",
+          "previous": "1.3"
+        },
+        {
+          "date": "07/15",
+          "actual": "1.3",
+          "forecast": "-",
+          "previous": "-27.4"
+        },
+        {
+          "date": "07/08",
+          "actual": "-27.4",
+          "forecast": "-",
+          "previous": "-3.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
+      "id": "capital:1185339",
+      "fid": "1185339",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA戰略石油儲備庫存(萬桶)",
+      "importance": 2,
+      "previous": "-611.5",
+      "forecast": "--",
+      "actual": "-526.8",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185339",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "-611.5",
+          "forecast": "-",
+          "previous": "-284.1"
+        },
+        {
+          "date": "08/05",
+          "actual": "-284.1",
+          "forecast": "-",
+          "previous": "-379.7"
+        },
+        {
+          "date": "07/29",
+          "actual": "-379.7",
+          "forecast": "-",
+          "previous": "-505.7"
+        },
+        {
+          "date": "07/22",
+          "actual": "-505.7",
+          "forecast": "-",
+          "previous": "-298.5"
+        },
+        {
+          "date": "07/15",
+          "actual": "-298.5",
+          "forecast": "-",
+          "previous": "-616.6"
+        },
+        {
+          "date": "07/08",
+          "actual": "-616.6",
+          "forecast": "-",
+          "previous": "-553.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
+      "id": "capital:1185338",
+      "fid": "1185338",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "2.6",
+      "forecast": "--",
+      "actual": "21.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185338",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "2.6",
+          "forecast": "-",
+          "previous": "-18.3"
+        },
+        {
+          "date": "08/05",
+          "actual": "-18.3",
+          "forecast": "-",
+          "previous": "27.1"
+        },
+        {
+          "date": "07/29",
+          "actual": "27.1",
+          "forecast": "-",
+          "previous": "-5.8"
+        },
+        {
+          "date": "07/22",
+          "actual": "-5.8",
+          "forecast": "-",
+          "previous": "9.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "9.9",
+          "forecast": "-",
+          "previous": "-17.2"
+        },
+        {
+          "date": "07/08",
+          "actual": "-17.2",
+          "forecast": "-",
+          "previous": "8.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
+      "id": "capital:1185334",
+      "fid": "1185334",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA新配方汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-0.3",
+      "forecast": "--",
+      "actual": "0.3",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185334",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "-0.3",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "08/05",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "07/29",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "07/22",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0.3"
+        },
+        {
+          "date": "07/15",
+          "actual": "0.3",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "07/08",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "-0.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
       "id": "capital:1174687",
       "fid": "1174687",
       "interval": "this_week",
@@ -32363,8 +33233,8 @@
       "importance": 1,
       "previous": "-96.8",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "68.8",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174687",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32409,6 +33279,122 @@
       "history_checked_at": "2026-08-09 00:03:14"
     },
     {
+      "id": "capital:1185332",
+      "fid": "1185332",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA汽油產量(萬桶/日)",
+      "importance": 1,
+      "previous": "-0.1",
+      "forecast": "--",
+      "actual": "14.3",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185332",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "-30.9"
+        },
+        {
+          "date": "08/05",
+          "actual": "-30.9",
+          "forecast": "-",
+          "previous": "17.8"
+        },
+        {
+          "date": "07/29",
+          "actual": "17.8",
+          "forecast": "-",
+          "previous": "6"
+        },
+        {
+          "date": "07/22",
+          "actual": "6",
+          "forecast": "-",
+          "previous": "-9.6"
+        },
+        {
+          "date": "07/15",
+          "actual": "-9.6",
+          "forecast": "-",
+          "previous": "-23.3"
+        },
+        {
+          "date": "07/08",
+          "actual": "-23.3",
+          "forecast": "-",
+          "previous": "48.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
+      "id": "capital:1185331",
+      "fid": "1185331",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA精煉廠設備利用率",
+      "importance": 1,
+      "previous": "96.2 %",
+      "forecast": "-- %",
+      "actual": "97.2 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185331",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "96.2",
+          "forecast": "96.4",
+          "previous": "96.5"
+        },
+        {
+          "date": "08/05",
+          "actual": "96.5",
+          "forecast": "96.9",
+          "previous": "97.2"
+        },
+        {
+          "date": "07/29",
+          "actual": "97.2",
+          "forecast": "95.9",
+          "previous": "96.1"
+        },
+        {
+          "date": "07/22",
+          "actual": "96.1",
+          "forecast": "95.9",
+          "previous": "96.2"
+        },
+        {
+          "date": "07/15",
+          "actual": "96.2",
+          "forecast": "95.6",
+          "previous": "95.8"
+        },
+        {
+          "date": "07/08",
+          "actual": "95.8",
+          "forecast": "96.5",
+          "previous": "96.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
       "id": "capital:1174688",
       "fid": "1174688",
       "interval": "this_week",
@@ -32421,8 +33407,8 @@
       "importance": 1,
       "previous": "-1",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "-153",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174688",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32467,6 +33453,64 @@
       "history_checked_at": "2026-08-09 00:03:14"
     },
     {
+      "id": "capital:1185337",
+      "fid": "1185337",
+      "interval": "this_week",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "datetime": "2026-08-19 22:30:00",
+      "display_time": "08/19 22:30",
+      "country": "美國",
+      "title": "美國至8月14日當週EIA精煉油產量(萬桶/日)",
+      "importance": 1,
+      "previous": "5",
+      "forecast": "--",
+      "actual": "-5.4",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185337",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/12",
+          "actual": "5",
+          "forecast": "-",
+          "previous": "-13.4"
+        },
+        {
+          "date": "08/05",
+          "actual": "-13.4",
+          "forecast": "-",
+          "previous": "1.5"
+        },
+        {
+          "date": "07/29",
+          "actual": "1.5",
+          "forecast": "-",
+          "previous": "9"
+        },
+        {
+          "date": "07/22",
+          "actual": "9",
+          "forecast": "-",
+          "previous": "7.2"
+        },
+        {
+          "date": "07/15",
+          "actual": "7.2",
+          "forecast": "-",
+          "previous": "-0.1"
+        },
+        {
+          "date": "07/08",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "-4.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-19 22:44:05"
+    },
+    {
       "id": "capital:1174691",
       "fid": "1174691",
       "interval": "this_week",
@@ -32479,8 +33523,8 @@
       "importance": 1,
       "previous": "539.24",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "555.36",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174691",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -32537,8 +33581,8 @@
       "importance": 1,
       "previous": "981.69",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "954.04",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174690",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
