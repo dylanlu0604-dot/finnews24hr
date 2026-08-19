@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20 00:53:58",
-  "count": 15527,
+  "updated": "2026-08-20 00:57:50",
+  "count": 15528,
   "items": [
+    {
+      "id": "5048433",
+      "time": "2026-08-20 00:55:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貨幣監理署（OCC）表示，將為加密貨幣穩定幣發行機構搭建監管框架。"
+    },
+    {
+      "id": "5048432",
+      "time": "2026-08-20 00:54:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）批准首款獨立抽血機器人Aletta上市。"
+    },
+    {
+      "id": "mkt:01a01af1-5fc6-7aab-909d-ee53ff78601a",
+      "time": "2026-08-20 00:53:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian General Nahdi said the US failed to achieve its war aims of \"overthrowing the Iranian regime\" and \"dividing Iran,\" and that subsequent operations have lost strategic direction. He said Iran's current priority is restoring deterrence to prevent further attacks."
+    },
     {
       "id": "mkt:01a01aee-bbf3-7aab-909d-e4c57cd312bd",
       "time": "2026-08-20 00:50:48",
@@ -142031,22 +142059,6 @@
         "SPCX.O"
       ],
       "text": "SpaceX (SPCX.O) rose to an intraday high, extending gains to 8.5%."
-    },
-    {
-      "id": "5038050",
-      "time": "2026-08-13 00:56:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX漲幅擴大至8%，總市值達1.9萬億美元，本月已累升逾32%。"
-    },
-    {
-      "id": "mkt:019ff6e6-5c0a-7aab-9011-690305963a6c",
-      "time": "2026-08-13 00:55:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Etna eruption continues; Catania airport suspends flights】Etna volcano on Sicily has been erupting since early August. The Italian National Institute of Geophysics and Volcanology (INGV) reported on Aug 12 multiple new vents, lava flows advancing downslope and an ash cloud drifting south and southwest. Catania airport suspended all arrivals and departures on Aug 12; restrictions remained in place until Aug 13 16:00 local time."
     }
   ]
 }

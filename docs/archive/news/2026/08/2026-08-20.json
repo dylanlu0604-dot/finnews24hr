@@ -1,7 +1,35 @@
 {
   "date": "2026-08-20",
-  "count": 71,
+  "count": 74,
   "items": [
+    {
+      "id": "5048433",
+      "time": "2026-08-20 00:55:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貨幣監理署（OCC）表示，將為加密貨幣穩定幣發行機構搭建監管框架。"
+    },
+    {
+      "id": "5048432",
+      "time": "2026-08-20 00:54:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）批准首款獨立抽血機器人Aletta上市。"
+    },
+    {
+      "id": "mkt:01a01af1-5fc6-7aab-909d-ee53ff78601a",
+      "time": "2026-08-20 00:53:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian General Nahdi said the US failed to achieve its war aims of \"overthrowing the Iranian regime\" and \"dividing Iran,\" and that subsequent operations have lost strategic direction. He said Iran's current priority is restoring deterrence to prevent further attacks."
+    },
     {
       "id": "mkt:01a01aee-bbf3-7aab-909d-e4c57cd312bd",
       "time": "2026-08-20 00:50:48",
