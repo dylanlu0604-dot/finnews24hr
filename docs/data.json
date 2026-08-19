@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-20 04:50:27",
-  "count": 15672,
+  "updated": "2026-08-20 04:54:20",
+  "count": 15666,
   "items": [
+    {
+      "id": "5048626",
+      "time": "2026-08-20 04:51:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。"
+    },
+    {
+      "id": "5048625",
+      "time": "2026-08-20 04:51:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2200美元，日內漲15.87%。"
+    },
+    {
+      "id": "te:markets:576610",
+      "time": "2026-08-20 04:50:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%."
+    },
     {
       "id": "5048615",
       "time": "2026-08-20 04:44:19",
@@ -143544,82 +143573,6 @@
         "國際"
       ],
       "text": "明晟公司（MSCI）：按完全調整後市值計算，納入MSCI世界指數的三大新增成分股分別為美國公司閃迪、卡彭特技術公司（Carpenter Technology）以及美國鋁業公司（ATI）。"
-    },
-    {
-      "id": "5038134",
-      "time": "2026-08-13 04:54:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）：在本次指數審議中，明晟將繼續不對MSCI孟加拉國指數中歸類為孟加拉國的任何證券實施調整。"
-    },
-    {
-      "id": "mkt:019ff7c0-c892-7aab-9013-99d5967007ad",
-      "time": "2026-08-13 04:53:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's Chamber of Deputies approved a bill to establish a new expenditure-control mechanism; the bill will be sent to the Senate."
-    },
-    {
-      "id": "5038133",
-      "time": "2026-08-13 04:53:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：明日將宣佈蘋果得州Mac mini工廠相關訊息。"
-    },
-    {
-      "id": "5038132",
-      "time": "2026-08-13 04:52:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）：MSCI世界全股本指數將新增137只成分股，剔除73只成分股。"
-    },
-    {
-      "id": "5038131",
-      "time": "2026-08-13 04:51:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科預計2027財年AI業務收入75億美元。"
-    },
-    {
-      "id": "mkt:019ff7be-b159-7aab-9013-94e5ee173bbd",
-      "time": "2026-08-13 04:51:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "A top Codelco executive said the Chilean state miner is studying expanding the pit at the El Teniente copper mine to offset production delayed by seismic-risk concerns."
-    },
-    {
-      "id": "5038130",
-      "time": "2026-08-13 04:50:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：關稅使福特在美國創造了更多就業機會。"
-    },
-    {
-      "id": "5038129",
-      "time": "2026-08-13 04:50:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部長盧特尼克：福特正在將更多製造業轉移到美國。"
-    },
-    {
-      "id": "5038128",
-      "time": "2026-08-13 04:50:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利國家銅業公司高管：公司正研究擴建特尼恩特銅礦的坑採作業面，以彌補因地震風險推遲投產造成的產量損失。"
     }
   ]
 }

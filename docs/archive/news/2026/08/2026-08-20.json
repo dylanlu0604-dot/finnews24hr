@@ -1,7 +1,36 @@
 {
   "date": "2026-08-20",
-  "count": 373,
+  "count": 376,
   "items": [
+    {
+      "id": "5048626",
+      "time": "2026-08-20 04:51:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。"
+    },
+    {
+      "id": "5048625",
+      "time": "2026-08-20 04:51:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2200美元，日內漲15.87%。"
+    },
+    {
+      "id": "te:markets:576610",
+      "time": "2026-08-20 04:50:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%."
+    },
     {
       "id": "5048615",
       "time": "2026-08-20 04:44:19",
