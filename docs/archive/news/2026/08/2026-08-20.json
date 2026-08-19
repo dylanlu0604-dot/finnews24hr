@@ -1,7 +1,19 @@
 {
   "date": "2026-08-20",
-  "count": 396,
+  "count": 397,
   "items": [
+    {
+      "id": "mkt:01a01beb-3865-7aab-90a2-7048a3fbb021",
+      "time": "2026-08-20 05:26:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment."
+    },
     {
       "id": "mkt:01a01be6-a564-7aab-90a2-6ac24b5fdaf1",
       "time": "2026-08-20 05:21:35",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-20 05:25:15",
-  "count": 15666,
+  "updated": "2026-08-20 05:29:07",
+  "count": 15665,
   "items": [
+    {
+      "id": "mkt:01a01beb-3865-7aab-90a2-7048a3fbb021",
+      "time": "2026-08-20 05:26:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment."
+    },
     {
       "id": "mkt:01a01be6-a564-7aab-90a2-6ac24b5fdaf1",
       "time": "2026-08-20 05:21:35",
@@ -143556,22 +143568,6 @@
         "國際"
       ],
       "text": "【伊朗：霍爾木茲海峽使用者必須“修復”海灣環境損害】伊朗外交部發言人巴加埃稱：“所有從霍爾木茲海峽商業航運中獲益的各方，在法律和道義上都有義務修復對波斯灣和阿曼海造成的環境損害。”巴加埃表示，“初步證據顯示一艘外國散貨船”是汙染來源。他表示，未來任何有關霍爾木茲海峽控制權的安排，都必須解決該水道的環境狀況。"
-    },
-    {
-      "id": "5038152",
-      "time": "2026-08-13 05:28:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科預計2027財年人工智慧訂單將大幅增長。"
-    },
-    {
-      "id": "5038151",
-      "time": "2026-08-13 05:26:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國人工智慧監管框架預計很快將把開源模型納入管轄範圍。"
     }
   ]
 }
