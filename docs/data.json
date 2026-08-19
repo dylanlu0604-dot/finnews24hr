@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-20 02:29:05",
-  "count": 15615,
+  "updated": "2026-08-20 02:32:55",
+  "count": 15621,
   "items": [
+    {
+      "id": "mkt:01a01b4b-db43-7aab-90a0-21364b188ace",
+      "time": "2026-08-20 02:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed minutes: supporters of a hike say move could avert larger future tightening】Fed minutes said participants stressed that incoming data will be central to policy reviews. Many warned that if inflation does not continue to fall, further policy tightening may be needed; some said current financial conditions may be insufficient to bring inflation to 2%. Several participants noted financial conditions tightened over the past two meetings, partly reflecting strong growth and market pricing of more tightening. A minority who favored raising the federal funds rate target at this meeting argued a near-term hike could reduce the risk of larger, costlier tightening later."
+    },
+    {
+      "id": "5048504",
+      "time": "2026-08-20 02:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "Fractile新一輪6億美元融資洽談，距離其2.2億美元上輪融資僅過去三個月。"
+    },
+    {
+      "id": "5048503",
+      "time": "2026-08-20 02:32:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic與Fractile達成協議，擬採購約2.5億美元晶片。"
+    },
+    {
+      "id": "5048502",
+      "time": "2026-08-20 02:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士透露，AI晶片初創企業Fractile正在洽談融資，估值目標65億美元。"
+    },
+    {
+      "id": "mkt:01a01b4a-b0fe-7aab-90a0-19d690c13c5d",
+      "time": "2026-08-20 02:31:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session most-active contracts close】As of 02:30 close, SHFE gold most-active contract rose 2.13% to 970 yuan/gram; SHFE silver most-active contract rose 2.58% to 16,027 yuan/kg; SC crude oil most-active contract fell 0.70% to 581 yuan/barrel."
+    },
+    {
+      "id": "5048501",
+      "time": "2026-08-20 02:31:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶85.83美元，上漲89美分，漲幅1.05%。"
+    },
+    {
+      "id": "mkt:01a01b4a-6f37-7aab-90a0-13cfa49025f1",
+      "time": "2026-08-20 02:30:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 2.44% at 966.97 yuan/gram in the evening session on Wednesday, Aug. 19; Shanghai Gold Exchange silver T+D closed up 3.54% at 15,956.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a01b4a-5da1-7aab-90a0-0c152cc0fbf2",
+      "time": "2026-08-20 02:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $85.83 a barrel, up $0.89, or 1.05%."
+    },
+    {
+      "id": "te:markets:576602",
+      "time": "2026-08-20 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Soars by 8.84% — Top crypto gainers are Ether (8.84%), Bitcoin (5.56%) and Binance (2.17%)."
+    },
+    {
+      "id": "5048500",
+      "time": "2026-08-20 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.70%，報581.20元人民幣/桶。滬金夜盤收漲2.13%，滬銀收漲2.58%。"
+    },
+    {
+      "id": "mkt:01a01b49-0b99-7aab-90a0-03dea32f46ad",
+      "time": "2026-08-20 02:29:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India orders bulk sugar buyers to limit inventories to no more than 15 days' consumption."
+    },
     {
       "id": "te:markets:576601",
       "time": "2026-08-20 02:28:08",
@@ -142907,63 +143017,6 @@
         "MKT News"
       ],
       "text": "US crude futures settled at $83.27/bbl, up $0.07, or 0.08%."
-    },
-    {
-      "id": "mkt:019ff73e-9d1b-7aab-9012-7ccd478da620",
-      "time": "2026-08-13 02:31:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close】As of 02:30 close, SHFE main gold contract rose 0.36% to 959 yuan/gram; SHFE main silver contract rose 0.63% to 16,024 yuan/kg; SC crude oil main contract rose 0.63% to 556 yuan/barrel."
-    },
-    {
-      "id": "mkt:019ff73d-e5c0-7aab-9012-72081d615087",
-      "time": "2026-08-13 02:30:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed Wednesday evening (Aug 12) up 0.23 pct at 956.01 yuan/gram; Silver T+D closed up 0.23 pct at 15,988.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019ff73d-4727-7aab-9012-6a2f193a0332",
-      "time": "2026-08-13 02:30:15",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Canada may accept partial U.S. auto tariffs to secure cuts】The Globe and Mail reports Canada is weighing a deal to accept part of U.S. auto tariffs in return for lower duties on vehicles meeting USMCA rules. Under a proposal discussed by negotiators, the value of U.S.-made parts in Canadian-built cars would be excluded from the tariff base, preserving an existing exemption, while Section 232 tariffs imposed by the Trump administration — currently 25% on USMCA-eligible Canadian exports — could be reduced. Canadian cars contain roughly 50% U.S. content; automakers say excluding U.S. content could make a 10–15% tariff tolerable. Talks aim for an agreement by Aug. 19, though Canadian officials expect a temporary pause of the next tariff round is more likely than a full resolution before that date."
-    },
-    {
-      "id": "te:markets:574822",
-      "time": "2026-08-13 02:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Depreciates by 1.00% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1% decrease."
-    },
-    {
-      "id": "5038076",
-      "time": "2026-08-13 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲0.77%，報552.30元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲0.63%。"
     }
   ]
 }
