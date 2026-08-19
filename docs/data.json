@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-20 02:48:21",
-  "count": 15627,
+  "updated": "2026-08-20 02:52:12",
+  "count": 15629,
   "items": [
+    {
+      "id": "mkt:01a01b5d-3d8a-7aab-90a0-5e0b76f4de94",
+      "time": "2026-08-20 02:51:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's central bank governor said Iran-Iraq banking issues will be resolved within weeks. Iraq has agreed to issue letters of guarantee for Iranian contractors, using Iranian assets held in Iraqi banks as collateral, to speed bilateral economic cooperation."
+    },
+    {
+      "id": "mkt:01a01b5c-1a47-7aab-90a0-569e8051e5d1",
+      "time": "2026-08-20 02:50:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes: inf projections similar to June; economic outlook slightly weaker】Fed minutes said staff expect H2 overall inf to ease—largely driven by expected declines in retail gasoline—and for core inf to slow modestly. Staff project real GDP growth next year slightly above potential, with financial conditions and AI-related investment providing support; unemployment is forecast to remain near staff’s estimate of the long-run rate this year, edge down next year and fall slightly below the long-run rate by 2028. Compared with June projections, staff’s outlook for economic activity is a touch weaker, reflecting recent softer-than-expected data. Staff flagged sizable uncertainty from geopolitics and unclear economic effects of AI investment and adoption. Overall, risks to employment and real GDP are tilted to the downside while inf risks are tilted to the upside, including the risk that inf proves more persistent than staff anticipate."
+    },
+    {
+      "id": "5048510",
+      "time": "2026-08-20 02:50:05",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲會議紀要顯示 與會者強調聯邦基金利率是關鍵政策工具】美聯儲7月會議紀要顯示，許多美聯儲決策者重申，調整貨幣政策立場的主要手段應當是調整聯邦基金利率目標區間。7月28日至29日會議的紀要顯示，大多數與會者談到了資產負債表政策，他們指出，工作組的研究結果將為FOMC的審議提供“有益參考”，並表示未來的會議將為“全面討論”這一議題提供機會。多位與會者指出了可進一步探討的具體問題，包括與市場執行和金融穩定相關的考量、資產負債表政策對貨幣和金融狀況的影響，以及美聯儲所持美國國債的合理期限結構。"
+    },
+    {
+      "id": "mkt:01a01b5a-f7d6-7aab-90a0-4ed8d2a6316a",
+      "time": "2026-08-20 02:49:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's central bank governor said assets frozen under the agreement framework remain frozen and no funds have been released to date."
+    },
     {
       "id": "5048509",
       "time": "2026-08-20 02:46:55",
@@ -143066,22 +143107,6 @@
         "Impact bullish"
       ],
       "text": "Paramount (PSKY.O) trading volume surged; shares up 2.61%."
-    },
-    {
-      "id": "mkt:019ff751-4dd2-7aab-9012-931b55923a75",
-      "time": "2026-08-13 02:52:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to ensure CNN's independence."
-    },
-    {
-      "id": "5038078",
-      "time": "2026-08-13 02:49:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。"
     }
   ]
 }
