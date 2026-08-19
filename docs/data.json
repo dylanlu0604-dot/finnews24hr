@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-20 03:46:53",
-  "count": 15676,
+  "updated": "2026-08-20 03:50:41",
+  "count": 15678,
   "items": [
+    {
+      "id": "5048567",
+      "time": "2026-08-20 03:49:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4510美元/盎司，日內漲4.07%。"
+    },
+    {
+      "id": "mkt:01a01b91-dda4-7aab-90a1-c2ef9984d267",
+      "time": "2026-08-20 03:48:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Trump again urges Fed to cut rates】Trump again urged the Federal Reserve to cut rates promptly, saying US interest-rate costs are too high. He said each one percentage-point cut would reduce costs by about $600bn, called the current rate system \"unfair\", and said the Fed chair is performing well but is affected by the \"politicization of the Federal Reserve Board\"."
+    },
     {
       "id": "mkt:01a01b8f-1a13-7aab-90a1-b94359369f1e",
       "time": "2026-08-20 03:45:58",
