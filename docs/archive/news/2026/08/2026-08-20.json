@@ -1,7 +1,45 @@
 {
   "date": "2026-08-20",
-  "count": 354,
+  "count": 358,
   "items": [
+    {
+      "id": "5048590",
+      "time": "2026-08-20 04:20:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4570美元/盎司，日內漲3.38%。"
+    },
+    {
+      "id": "5048589",
+      "time": "2026-08-20 04:18:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人向半島電視臺表示，特朗普政府開啟有關敘利亞主權以及以色列自衛權的相關討論。"
+    },
+    {
+      "id": "5048588",
+      "time": "2026-08-20 04:18:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "UBER 確認出售 7200 萬股 AURORA INNOVATION 股份。"
+    },
+    {
+      "id": "te:markets:576606",
+      "time": "2026-08-20 04:17:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed — US stock indices closed mixed on Wednesday as losses in AI infrastructure and bank stocks offset gains in other sectors. The S&P 500 added 0.2% and the Dow gained 120 points, while the Nasdaq shed 0.2%. The Treasury doubled the limit on buybacks of long-term securities for next quarter, adding to a series of measures aimed at controlling the recent surge in longer-term benchmark borrowing costs. Alongside lower rates, the prospect of increased dollar liquidity from the Treasury’s intervention also supported equities. This was combined with FOMC minutes confirming that some policymakers believe rate hikes may be appropriate this year. Retail stocks were mostly higher after TJX (-4.2%), Target (+4.3%) and Lowe’s (+2%) reported earnings. The pharmaceutical sector rallied, with Merck up 12.6% and Moderna surging 177% after a trial of their joint vaccine reduced melanoma recurrence. Meanwhile, tepid results from OpenAI pressured chip producers, with AMD (-3.7%) and Intel (-4%) dropping."
+    },
     {
       "id": "5048587",
       "time": "2026-08-20 04:17:02",
