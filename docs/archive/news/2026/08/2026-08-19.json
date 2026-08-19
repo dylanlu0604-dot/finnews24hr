@@ -1,7 +1,70 @@
 {
   "date": "2026-08-19",
-  "count": 898,
+  "count": 904,
   "items": [
+    {
+      "id": "mkt:01a017fa-b9b8-7aab-9087-dd21733dae96",
+      "time": "2026-08-19 11:05:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% and its 2027 forecast to 2.2% from 1.7%."
+    },
+    {
+      "id": "mkt:01a017f9-c4c2-7aab-9087-d107ad8e03de",
+      "time": "2026-08-19 11:03:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Jan–Jul China's national railway freight 2.35 billion tonnes, up 0.7% YoY】China's national railway freight totaled 2.35 billion tonnes in Jan–Jul, up 0.7% YoY; average daily loaded wagons 187,000, up 2.1% YoY."
+    },
+    {
+      "id": "mkt:01a017f9-3122-7aab-9087-cf280bb64b8e",
+      "time": "2026-08-19 11:03:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Taiwan Affairs Office says 'Taiwan independence' greatest threat to cross‑strait peace after Han Kuang 42 drill】Aug. 19 — At a regular briefing the Taiwan Affairs Office was asked about Taiwan's Han Kuang 42 military exercise, which reporters said for the first time included a mobile‑network slowdown drill island sources have blamed for disrupting food delivery and card payments. Spokesperson Zhu Fenglian accused the Democratic Progressive Party authorities of persisting in a Taiwan‑independence stance and 'relying on force' to pursue independence, saying their actions have damaged social order and residents' welfare; she said the drills demonstrate, in Beijing's view, that 'Taiwan independence' is the greatest threat to cross‑strait peace and urged adherence to the 1992 Consensus and opposition to independence to preserve stability."
+    },
+    {
+      "id": "mkt:01a017f8-620e-7aab-9087-c5968acaf0b1",
+      "time": "2026-08-19 11:02:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "SOXX",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan: Tech flows intact, semiconductor ETFs facing concentrated selling】JP Morgan data show a clear bifurcation within US tech flows over the past week. QQQ drew about $3.0bn and Nasdaq-100 futures saw roughly $7.5bn net buying, while broad tech ETFs had about $3.4bn of outflows; semiconductor ETFs SOXL, SMH and SOXX together shed roughly $3.9bn. The split is larger over four weeks: QQQ cumulative inflows total $15.4bn versus $5.6bn of outflows from SOXX; last week SOXX and SMH lost $2.1bn and $1.3bn respectively. Investors are keeping exposure to large-cap Nasdaq names while trimming semiconductor positions — semiconductors remain central to the AI theme but crowded positioning and prior gains have prompted de-risking. If QQQ continues to attract funds while semiconductor outflows persist, intra-tech performance dispersion could widen."
+    },
+    {
+      "id": "mkt:01a017f7-aa24-7aab-9087-bd1087941975",
+      "time": "2026-08-19 11:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: household credit rose 1.3% MoM as of end-June, versus 0.7% at end-March."
+    },
+    {
+      "id": "mkt:01a017f7-82c0-7aab-9087-b412a62d9e1e",
+      "time": "2026-08-19 11:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: Household credit rose 3.6% YoY at end-June, unchanged from end-March."
+    },
     {
       "id": "5046926",
       "time": "2026-08-19 11:01:13",

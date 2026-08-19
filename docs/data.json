@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-19 11:01:45",
-  "count": 15188,
+  "updated": "2026-08-19 11:05:33",
+  "count": 15184,
   "items": [
+    {
+      "id": "mkt:01a017fa-b9b8-7aab-9087-dd21733dae96",
+      "time": "2026-08-19 11:05:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% and its 2027 forecast to 2.2% from 1.7%."
+    },
+    {
+      "id": "mkt:01a017f9-c4c2-7aab-9087-d107ad8e03de",
+      "time": "2026-08-19 11:03:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Jan–Jul China's national railway freight 2.35 billion tonnes, up 0.7% YoY】China's national railway freight totaled 2.35 billion tonnes in Jan–Jul, up 0.7% YoY; average daily loaded wagons 187,000, up 2.1% YoY."
+    },
+    {
+      "id": "mkt:01a017f9-3122-7aab-9087-cf280bb64b8e",
+      "time": "2026-08-19 11:03:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Taiwan Affairs Office says 'Taiwan independence' greatest threat to cross‑strait peace after Han Kuang 42 drill】Aug. 19 — At a regular briefing the Taiwan Affairs Office was asked about Taiwan's Han Kuang 42 military exercise, which reporters said for the first time included a mobile‑network slowdown drill island sources have blamed for disrupting food delivery and card payments. Spokesperson Zhu Fenglian accused the Democratic Progressive Party authorities of persisting in a Taiwan‑independence stance and 'relying on force' to pursue independence, saying their actions have damaged social order and residents' welfare; she said the drills demonstrate, in Beijing's view, that 'Taiwan independence' is the greatest threat to cross‑strait peace and urged adherence to the 1992 Consensus and opposition to independence to preserve stability."
+    },
+    {
+      "id": "mkt:01a017f8-620e-7aab-9087-c5968acaf0b1",
+      "time": "2026-08-19 11:02:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "SOXX",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan: Tech flows intact, semiconductor ETFs facing concentrated selling】JP Morgan data show a clear bifurcation within US tech flows over the past week. QQQ drew about $3.0bn and Nasdaq-100 futures saw roughly $7.5bn net buying, while broad tech ETFs had about $3.4bn of outflows; semiconductor ETFs SOXL, SMH and SOXX together shed roughly $3.9bn. The split is larger over four weeks: QQQ cumulative inflows total $15.4bn versus $5.6bn of outflows from SOXX; last week SOXX and SMH lost $2.1bn and $1.3bn respectively. Investors are keeping exposure to large-cap Nasdaq names while trimming semiconductor positions — semiconductors remain central to the AI theme but crowded positioning and prior gains have prompted de-risking. If QQQ continues to attract funds while semiconductor outflows persist, intra-tech performance dispersion could widen."
+    },
+    {
+      "id": "mkt:01a017f7-aa24-7aab-9087-bd1087941975",
+      "time": "2026-08-19 11:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: household credit rose 1.3% MoM as of end-June, versus 0.7% at end-March."
+    },
+    {
+      "id": "mkt:01a017f7-82c0-7aab-9087-b412a62d9e1e",
+      "time": "2026-08-19 11:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: Household credit rose 3.6% YoY at end-June, unchanged from end-March."
+    },
     {
       "id": "5046926",
       "time": "2026-08-19 11:01:13",
@@ -139094,103 +139157,6 @@
         "公司"
       ],
       "text": "【雲天勵飛、流利說等成立人智無限科技合夥企業】企查查APP顯示，近日，深圳人智無限科技合夥企業（有限合夥）成立，經營範圍包含以自有資金從事投資活動；企業管理諮詢；企業管理；資訊諮詢服務。企查查股權穿透顯示，該合夥企業由上海流利說資訊科技有限公司、雲天勵飛全資子公司深圳星芯投資有限公司等共同持股。"
-    },
-    {
-      "id": "5036763",
-      "time": "2026-08-12 11:04:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼龍船隻起火114人全部安全撤離】據印尼救援部門訊息，當地時間8月12日，一艘船隻在印尼龍目海峽航行過程中發生火災。事故發生後，救援人員迅速展開處置，船上114人已全部安全撤離。救援部門表示，目前暫無人員傷亡報告。火災原因仍在調查中。"
-    },
-    {
-      "id": "mkt:019ff3ed-21d1-7aab-8fff-d61c05766fe2",
-      "time": "2026-08-12 11:03:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【South Korea 30-year government bond yield hits record high as oil rises, insurer demand weakens】South Korea's 30-year government bond yield rose as high as 4.67% on Wednesday, the highest since the bond's 2012 launch, after rising oil prices tied to Middle East tensions and hawkish Bank of Korea commentary added pressure. A senior Bank of Korea official said semiconductor-led strong growth is lifting potential inflation and may require further rate hikes, weighing on ultra-long bond demand. Demand from life insurers — a key buyer of super-long paper — has eased after regulatory changes reduced the urgency to lengthen asset duration, cutting their purchases of ultra-long maturities."
-    },
-    {
-      "id": "5036762",
-      "time": "2026-08-12 11:03:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【印製電路板板塊走高，寶鼎科技漲停】印製電路板板塊走高，寶鼎科技漲停，金祿電子漲超10%，南亞新材、東山精密、鵬鼎控股、迅捷興、中英科技等跟漲。"
-    },
-    {
-      "id": "5036761",
-      "time": "2026-08-12 11:03:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：鼓勵腦機介面企業自主合理定價 開通醫用耗材掛網“綠色通道”】浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》的通知。其中提到，最佳化產品應用路徑。制定腦機介面產品醫療應用清單，根據產品獲批上市情況動態更新。鼓勵腦機介面企業自主合理定價，開通醫用耗材掛網“綠色通道”，在申報後10個工作日內辦結。鼓勵醫療機構根據臨床需要，按照“應配盡配”原則配備使用列入醫療應用清單的腦機介面產品，或設立臨時採購綠色通道。試點開展腦機介面創新醫療器械示範推廣應用專案，推動重點產品和典型場景申報國家高階醫療裝備推廣應用專案。"
-    },
-    {
-      "id": "5036760",
-      "time": "2026-08-12 11:03:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第二十九屆成都國際車展將展出約1600臺整車】記者從第二十九屆成都國際汽車展覽會組委會獲悉，本屆展會將於8月21日至30日在中國西部國際博覽城舉行，展覽規模將達到22萬平方米，集結近120個國內外主流汽車品牌、約1600臺整車展品。長城尤拉7、奇瑞星途EX6、上汽大眾全新車型等將迎來全球首發。展會首次設立“成都造”智慧網聯產業鏈專區，集中呈現三電系統與智慧網聯領域的最新產業化成果。（證券時報）"
-    },
-    {
-      "id": "te:economy:574588",
-      "time": "2026-08-12 11:02:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10-Year Yield Gains on Higher Oil Prices — Japan’s 10-year government bond yield rose to around 2.84% on Wednesday, reaching a one-week high as stronger oil prices intensified inflation concerns and bolstered expectations for a more aggressive policy tightening cycle from the Bank of Japan. Oil prices advanced amid renewed uncertainty in the Middle East, although Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.” Meanwhile, investors are assessing the likelihood of a BOJ rate hike in September after an increasing number of policymakers called for a stronger response to mounting inflation pressures. The central bank also faces persistent yen weakness, which has amplified the impact of higher oil prices and kept import costs elevated."
-    },
-    {
-      "id": "mkt:019ff3eb-c131-7aab-8fff-c8a63f6fbef1",
-      "time": "2026-08-12 11:02:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Tencent",
-        "Alibaba",
-        "JD.com",
-        "00700.HK",
-        "Impact bearish",
-        "09988.HK",
-        "09618.HK"
-      ],
-      "text": "Hong Kong tech stocks weakened in choppy trade: Tencent Holdings (00700.HK) fell more than 3%, Kuaishou (01024.HK) and Baidu (09888.HK) dropped over 2%, while Alibaba (09988.HK) and JD.com (09618.HK) also declined."
-    },
-    {
-      "id": "5036759",
-      "time": "2026-08-12 11:02:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "新易盛成交額達100億元，現漲4.74%。"
-    },
-    {
-      "id": "mkt:019ff3eb-892b-7aab-8fff-c0340ab9e30f",
-      "time": "2026-08-12 11:02:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot avg up 0.38% on Aug 12】TrendForce data: on Aug 12 spot average prices for memory dies rose from the previous day — DDR5 16Gb (2Gx8) 4800/5600 +0.38%; DDR4 16Gb (2Gx8) 3200 +0.56%; DDR4 8Gb (1Gx8) 3200 +0.25%."
-    },
-    {
-      "id": "5036758",
-      "time": "2026-08-12 11:01:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊港股跌3%。"
     }
   ]
 }
