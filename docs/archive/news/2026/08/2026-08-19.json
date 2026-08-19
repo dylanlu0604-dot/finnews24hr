@@ -1,7 +1,32 @@
 {
   "date": "2026-08-19",
-  "count": 1110,
+  "count": 1113,
   "items": [
+    {
+      "id": "5047054",
+      "time": "2026-08-19 13:24:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，KKR入股印度票務平臺BookMyShow，對應估值區間為6.67億至8.33億美元。"
+    },
+    {
+      "id": "5047053",
+      "time": "2026-08-19 13:24:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士：KKR斥資4000萬至5000萬美元購入印度票務平臺BookMyShow約6%的股份。"
+    },
+    {
+      "id": "mkt:01a01878-e2bd-7aab-908a-32e3d6e303aa",
+      "time": "2026-08-19 13:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reports Iranian parliament speaker Ghalibaf has arrived in Baghdad and will meet Iraqi officials."
+    },
     {
       "id": "5047052",
       "time": "2026-08-19 13:21:10",
