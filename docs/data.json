@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-20 05:52:11",
-  "count": 15665,
+  "updated": "2026-08-20 05:55:59",
+  "count": 15664,
   "items": [
+    {
+      "id": "te:economy:576613",
+      "time": "2026-08-20 05:54:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jamaica",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%."
+    },
+    {
+      "id": "mkt:01a01c04-2e38-7aab-90a2-9ce11e27e903",
+      "time": "2026-08-20 05:53:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026."
+    },
     {
       "id": "te:markets:576612",
       "time": "2026-08-20 05:46:55",
@@ -143559,31 +143581,6 @@
         "焦點"
       ],
       "text": "WTI原油突破83美元/桶，日內跌0.70%。"
-    },
-    {
-      "id": "5038165",
-      "time": "2026-08-13 05:54:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普簽署備忘錄，針對跨國網路犯罪】據白宮情況說明檔案，特朗普今日簽署一份國家安全總統備忘錄，“授權美國聯邦執法機構使用網路工具，打擊設立於境外司法管轄區的跨國犯罪組織”。備忘錄指示國土安全特別工作組下屬國家網路指揮中心開展網路行動，打擊境外跨國犯罪組織。該備忘錄建立一套機制，允許私營企業與政府機構簽署協議，收集威脅情報，並提議開展網路行動以應對上述威脅。"
-    },
-    {
-      "id": "5038164",
-      "time": "2026-08-13 05:54:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【庫克群島舉行議會選舉】當地時間12日，南太平洋島國庫克群島舉行新一屆議會選舉。據悉，投票自當天9時開始至18時結束。一名獨立議員因7月中旬提名截止時沒有其他競爭對手參選，自動獲得連任。其餘62名候選人將角逐議會剩餘23個席位。庫克群島陸地面積240平方公里，由15個小島組成。議會實行一院制，立法會議由經普選產生的24名議員組成，任期4年。議會選舉中獲得多數席位的政黨或聯盟負責組建新一屆政府。"
-    },
-    {
-      "id": "5038163",
-      "time": "2026-08-13 05:52:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲料維持準備金管理購買節奏】美聯儲預計將在週四公佈新一期準備金管理購買計劃時，繼續安排下一階段的國庫券購買。隨著未來數月流動性預計減少，決策者希望藉此充實準備金。巴克萊和德意志銀行等機構的策略師預計，除到期證券再投資購買外，美聯儲還將買入100億美元國庫券。同時，美國銀行認為，為抵消供應增加可能帶來的融資壓力，美聯儲可能將準備金管理購買規模提高至150億美元，不過也存在較大可能至少到9月中旬之前仍維持現有規模不變。"
     }
   ]
 }

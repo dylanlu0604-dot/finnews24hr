@@ -1,7 +1,29 @@
 {
   "date": "2026-08-20",
-  "count": 409,
+  "count": 411,
   "items": [
+    {
+      "id": "te:economy:576613",
+      "time": "2026-08-20 05:54:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jamaica",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%."
+    },
+    {
+      "id": "mkt:01a01c04-2e38-7aab-90a2-9ce11e27e903",
+      "time": "2026-08-20 05:53:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026."
+    },
     {
       "id": "te:markets:576612",
       "time": "2026-08-20 05:46:55",
