@@ -1,7 +1,103 @@
 {
-  "updated": "2026-08-20 00:04:06",
-  "count": 15500,
+  "updated": "2026-08-20 00:08:11",
+  "count": 15504,
   "items": [
+    {
+      "id": "5048403",
+      "time": "2026-08-20 00:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：擊中了一艘運載武器的烏克蘭船隻。"
+    },
+    {
+      "id": "te:markets:576574",
+      "time": "2026-08-20 00:07:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.17% Higher — The FTSE 100 Index rose 18 points or 0.17 percent on Wednesday to close at 10746 points. Leading the gains are Fresnillo (7.64%), Endeavour (7.59%) and Croda International (5.47%). Top losers were Smith & Nephew (-3.87%), IG Group Holdings (-2.96%) and BAE Systems (-2.94%)."
+    },
+    {
+      "id": "mkt:01a01ac6-a262-7aab-909d-42f64052dd53",
+      "time": "2026-08-20 00:07:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy dismisses deputy presidential office head】Ukrainian President Zelenskiy on the 19th signed a decree dismissing deputy head of the presidential office Iryna Mudra; the presidential website gave no reason."
+    },
+    {
+      "id": "5048402",
+      "time": "2026-08-20 00:06:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副外長：霍爾木茲海峽的航運應當保持自由。"
+    },
+    {
+      "id": "5048401",
+      "time": "2026-08-20 00:06:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國聯邦貿易委員會警告零售商不得利用消費者私人資料抬價】美國聯邦貿易委員會警告企業，若使用高度詳盡的個人資料生成個性化報價，必須予以披露。商家愈發擅長利用消費者個人資料，包括線上購物習慣、手機使用行為，測算單個消費者對高價的承受能力。如今美國聯邦貿易委員會向企業發出警示，該行為可能違反消費者保護相關法律。聯邦貿易委員會將於週三釋出一份全新執法公告，告知企業：若使用高度詳盡的個人資訊生成個性化報價，必須進行披露。這份新宣告，代表特朗普政府介入正在興起的監管浪潮，約束商家對定價演算法的使用。"
+    },
+    {
+      "id": "mkt:01a01ac5-7a7d-7aab-909d-3f3bb550de10",
+      "time": "2026-08-20 00:05:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Foreign Minister Lavrov said Russia is entitled to regard the use of UK-made weapons in strikes on Russian territory as evidence of UK involvement in the Ukraine conflict."
+    },
+    {
+      "id": "5048400",
+      "time": "2026-08-20 00:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭總統辦公室副主任被解職】據烏克蘭總統網站19日訊息，烏克蘭總統澤連斯基當天簽署法令，解除烏總統辦公室副主任伊琳娜·穆德拉職務。網站未說明解職原因。"
+    },
+    {
+      "id": "mkt:01a01ac4-8122-7aab-909d-3053916613c2",
+      "time": "2026-08-20 00:04:40",
+      "tags": [
+        "MKT News",
+        "XLY",
+        "Impact mixed",
+        "XRT",
+        "AMZN.O"
+      ],
+      "text": "Wall Street Journal reports the U.S. Federal Trade Commission (FTC) has warned retailers against using private consumer data to raise prices; firms adopting personalized pricing must disclose the practice or may face litigation."
+    },
+    {
+      "id": "5048399",
+      "time": "2026-08-20 00:03:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫表示，如果英國製造的武器被直接用於襲擊俄羅斯領土，俄羅斯有權將其視作英國直接介入烏克蘭衝突。"
+    },
+    {
+      "id": "5048398",
+      "time": "2026-08-20 00:03:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2100美元，日內漲9.63%。"
+    },
     {
       "id": "mkt:01a01ac2-55bd-7aab-909d-2df6184ea0df",
       "time": "2026-08-20 00:02:18",
@@ -141752,63 +141848,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：同亞美尼亞總理進行了交談。"
-    },
-    {
-      "id": "te:markets:574806",
-      "time": "2026-08-13 00:07:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.22% Lower — The FTSE 100 Index fell 23 points or 0.22 percent on Wednesday to close at 10821 points. Leading the losses are Burberry (-4.57%), Marks & Spencer (-3.78%) and Relx (-2.95%). Top gainers were Admiral (2.90%), Fresnillo (2.75%) and 3i (2.46%)."
-    },
-    {
-      "id": "5038031",
-      "time": "2026-08-13 00:06:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：將阿根廷2025/2026年度大豆產量預期從之前的5000萬噸下調至4950萬噸；將巴西2025/2026年度大豆產量預期從之前的1.8億噸上調至1.805億噸。維持阿根廷2025/2026年度玉米產量預期在6300萬噸不變；將巴西2025/2026年度玉米產量預期從之前的1.38億噸上調至1.4億噸。"
-    },
-    {
-      "id": "mkt:019ff6b8-83d6-7aab-9011-25ca543f49dd",
-      "time": "2026-08-13 00:05:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "USDA left Argentina's 2025/26 corn production forecast unchanged at 63 mln tonnes and raised Brazil's 2025/26 corn forecast to 140 mln tonnes from 138 mln tonnes."
-    },
-    {
-      "id": "mkt:019ff6b8-81d9-7aab-9011-1caf2e98a7ed",
-      "time": "2026-08-13 00:05:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "USDA cut Argentina's 2025/26 soybean production forecast to 49.5 mln t from 50.0 mln t and raised Brazil's to 180.5 mln t from 180.0 mln t."
-    },
-    {
-      "id": "5038030",
-      "time": "2026-08-13 00:04:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "MUFG 試點專案計劃於年底前完成，該項服務預計在 2027‑2029 財年間全面落地。"
-    },
-    {
-      "id": "5038029",
-      "time": "2026-08-13 00:04:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "CBOT 玉米期貨在美國農業部報告發布後擴大漲幅。"
     }
   ]
 }
