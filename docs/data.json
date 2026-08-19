@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-20 04:29:35",
-  "count": 15686,
+  "updated": "2026-08-20 04:33:24",
+  "count": 15685,
   "items": [
+    {
+      "id": "mkt:01a01bba-1517-7aab-90a2-3a4876d772e0",
+      "time": "2026-08-20 04:32:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US federal debt tops $40 trillion】US federal debt topped $40.0 trillion on Tuesday, the Treasury Department said on Wednesday. Debt rose about $3.0 trillion in the past year — the fastest annual increase outside the pandemic — as federal borrowing accelerated. The total has climbed from under $6.0 trillion at the turn of the century and has roughly doubled over the past decade. The Congressional Budget Office projects publicly held federal debt-to-GDP will exceed the post‑war peak of 106% around 2030 and reach about 120% by 2036. A senior director at the Committee for a Responsible Federal Budget said the pace is a clear signal the situation is out of control."
+    },
     {
       "id": "5048599",
       "time": "2026-08-20 04:27:04",
@@ -143725,22 +143734,6 @@
         "國際"
       ],
       "text": "美國最高法院目前暫停蘋果應用商店費率相關訴訟程式。"
-    },
-    {
-      "id": "5038118",
-      "time": "2026-08-13 04:32:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普的總統直升機海軍陸戰隊一號與商業航班近距離接近事件發生後，美國聯邦航空管理局計劃修復里根國家機場的通訊系統。"
-    },
-    {
-      "id": "5038117",
-      "time": "2026-08-13 04:31:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方駁斥特朗普有關美國完全掌控霍爾木茲海峽的說法。"
     }
   ]
 }
