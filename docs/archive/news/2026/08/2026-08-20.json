@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-20",
+  "count": 5,
+  "items": [
+    {
+      "id": "mkt:01a01ac2-55bd-7aab-909d-2df6184ea0df",
+      "time": "2026-08-20 00:02:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver briefly topped $66/oz, rising 4.24% intraday."
+    },
+    {
+      "id": "5048397",
+      "time": "2026-08-20 00:01:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破66美元/盎司，日內漲4.27%。"
+    },
+    {
+      "id": "5048396",
+      "time": "2026-08-20 00:01:03",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局公佈資料：俄羅斯7月生產者物價指數（PPI）同比上漲6.6%，環比下降2.5%。"
+    },
+    {
+      "id": "mkt:01a01ac0-d33d-7aab-909d-21a4833b97ec",
+      "time": "2026-08-20 00:00:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's statistical agency said consumer prices declined 0.02% week-on-week in the week to Aug. 17, after a 0.06% week-on-week drop in the prior week."
+    },
+    {
+      "id": "5048395",
+      "time": "2026-08-20 00:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計部門：截至8月17日當週，俄羅斯周度消費者通縮為0.02%，此前一週為下降0.06%。"
+    }
+  ]
+}

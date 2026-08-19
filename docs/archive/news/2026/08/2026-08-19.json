@@ -1,7 +1,41 @@
 {
   "date": "2026-08-19",
-  "count": 3101,
+  "count": 3105,
   "items": [
+    {
+      "id": "mkt:01a01abf-c7f8-7aab-909d-1915be8ca961",
+      "time": "2026-08-19 23:59:31",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "U.S. Department of Transportation agreement includes small modular reactors, microgrids and propulsion systems."
+    },
+    {
+      "id": "5048394",
+      "time": "2026-08-19 23:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部簽署協議，探索海事核能技術，協議涵蓋小型模組化反應堆、微電網及船舶推進系統。"
+    },
+    {
+      "id": "mkt:01a01abf-4fc9-7aab-909d-1469250489d8",
+      "time": "2026-08-19 23:59:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Transportation to explore nuclear maritime technology."
+    },
+    {
+      "id": "5048393",
+      "time": "2026-08-19 23:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部與科珀斯克里斯蒂港達成協議簽署。"
+    },
     {
       "id": "te:markets:576571",
       "time": "2026-08-19 23:56:54",
