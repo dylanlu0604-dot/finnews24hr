@@ -1,7 +1,135 @@
 {
   "date": "2026-08-19",
-  "count": 1312,
+  "count": 1325,
   "items": [
+    {
+      "id": "5047165",
+      "time": "2026-08-19 14:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：考慮透過派發固定股息和特別股息擴大派息規模。"
+    },
+    {
+      "id": "5047164",
+      "time": "2026-08-19 14:45:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達50億港元。"
+    },
+    {
+      "id": "5047163",
+      "time": "2026-08-19 14:45:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：美國秘密將墨西哥移民驅逐至其他國家】據美國哥倫比亞廣播公司（CBS）當地時間18日援引兩名美國國土安全部官員訊息報道，儘管墨西哥政府願意接收其所有公民回國，但特朗普政府仍在秘密地將來自墨西哥的移民驅逐到中美洲其他國家，即宏都拉斯和瓜地馬拉，而不是將他們遣返回本國，墨西哥政府對此表示反對。（環球網）"
+    },
+    {
+      "id": "5047162",
+      "time": "2026-08-19 14:45:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士：計劃將股東回報目標由原計劃的“不超過累計自由現金流的50%”上調至“超過50%”。"
+    },
+    {
+      "id": "mkt:01a018c4-3162-7aab-908d-24cb82665b44",
+      "time": "2026-08-19 14:45:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Dollar weakens ahead of Fed minutes】The dollar weakened as investors stayed cautious ahead of the Fed's July minutes. Recent US labor-market weakness and moderate inflation have led markets to scale back expectations for further rate hikes. Although Fed chair Kevin Warsh has avoided forward guidance, the minutes may offer clues on whether the Fed could tighten policy. The dollar index (DXY) fell about 0.2% to 99.472."
+    },
+    {
+      "id": "te:markets:576364",
+      "time": "2026-08-19 14:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX Extends Slide to 2-Week Low — The ASX 200 lost 16 points, or 0.2%, to close at 9,054 on Wednesday, marking a sixth straight decline and a two-week low. Sentiment remained downbeat as U.S. stock futures weakened, weighed by rising oil prices, elevated Treasury yields, and an extended drop in chip stocks on Wall Street. Locally, Q2 wages in Australia rose 3.2% yoy, unchanged from the prior quarter and the weakest pace in five quarters, while caution built ahead of July labor data due Thursday. Separately, RBA Deputy Governor Andrew Hauser warned cash rates may need to rise again if inflation risks persist, stressing price growth remains “too high.” Tech led losses, followed by consumers, logistics, and financials. Whitehaven Coal tumbled 2.4% on weak earnings, and Evolution Mining shed 0.9% despite stronger FY26 profit. Three of the big four banks eased 0.1%–1.4%. In contrast, Santos gained 2.5% on higher oil prices and an interim dividend aligned with estimates, reflecting its first-half operating free cash flow."
+    },
+    {
+      "id": "mkt:01a018c3-cd79-7aab-908d-1b71b9ee7857",
+      "time": "2026-08-19 14:44:40",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "Buoyed by buyback news, SK Hynix shares trimmed after-hours losses."
+    },
+    {
+      "id": "mkt:01a018c3-bd83-7aab-908d-12e2ffeb7e9d",
+      "time": "2026-08-19 14:44:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share humanoid-robot sector extended losses; Shangwei New Materials hit 20% limit down, while Jiangsu Beiren, Fengguang Precision, Lvde Harmonics, Haozhi Electromechanical, Suochen Technology and Changsheng Bearing fell more than 15%."
+    },
+    {
+      "id": "5047161",
+      "time": "2026-08-19 14:44:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股人形機器人板塊持續下挫，上緯新材20CM跌停，江蘇北人、豐光精密、綠的諧波、昊志機電、索辰科技、長盛軸承等跌超15%。"
+    },
+    {
+      "id": "5047160",
+      "time": "2026-08-19 14:44:02",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【“木頭姐”談為何不投SK海力士和美光：記憶體價格飛漲是警示訊號】Ark Invest執行長凱茜·伍德表示，她正避免投資依賴記憶體的人工智慧晶片股票，轉而青睞Cerebras Systems和Groq等公司（這兩家公司正在開發無需高頻寬記憶體的AI晶片），並稱記憶體短缺推高價格是警示訊號，而非投資的理由。伍德在一檔播客節目中解釋了為何Ark不持有儲存類股票，認為高頻寬記憶體是半導體產業鏈中最具週期性、最容易商品化的環節。她說，價格上漲三倍、四倍甚至十倍 “並非正常狀態”，應當被視作負面訊號而非利好。伍德將這一現象類比為特斯拉在電池設計中剔除鈷元素，以此規避供應鏈瓶頸，並稱晶片行業如今正 “透過技術設計擺脫對高頻寬記憶體的依賴”。"
+    },
+    {
+      "id": "5047159",
+      "time": "2026-08-19 14:43:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "受回購訊息提振，SK海力士股價盤後跌幅收窄。"
+    },
+    {
+      "id": "mkt:01a018c2-bfa2-7aab-908d-0bc4a87b8856",
+      "time": "2026-08-19 14:43:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix to buy back 40 trillion won of treasury shares."
+    },
+    {
+      "id": "5047156",
+      "time": "2026-08-19 14:42:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士：本次回購旨在登出股份，回報股東。"
+    },
     {
       "id": "mkt:01a018c1-5e8c-7aab-908d-04ce582e74a8",
       "time": "2026-08-19 14:42:00",
