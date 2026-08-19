@@ -1,7 +1,74 @@
 {
   "date": "2026-08-20",
-  "count": 15,
+  "count": 21,
   "items": [
+    {
+      "id": "mkt:01a01aca-ac0b-7aab-909d-53e3ece104ef",
+      "time": "2026-08-20 00:11:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel Defense Forces said an airstrike in Gaza's Shati area killed four Hamas militant commanders."
+    },
+    {
+      "id": "te:markets:576577",
+      "time": "2026-08-20 00:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.14% Lower — The DAX Index dropped 37 points or 0.14 percent on Wednesday to close at 26091 points. Losses were led by Infineon (-3.65%), Rheinmetall (-2.83%) and MTU Aero Engines AG (-2.19%). Offsetting the fall, top gainers were Volkswagen (2.44%), SAP (2.17%) and Porsche Automobil (2.03%)."
+    },
+    {
+      "id": "te:markets:576576",
+      "time": "2026-08-20 00:10:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.09% Lower — The CAC 40 Index decreased 7 points or 0.09 percent on Wednesday to close at 8502 points. The decline was led by STMicroelectronics (-3.91%), Societe Generale (-3.74%) and Credit Agricole (-2.59%). On the upside, the strongest performers were Stellantis NV (6.26%), Edenred (3.09%) and Capgemini (2.84%)."
+    },
+    {
+      "id": "mkt:01a01ac9-58e2-7aab-909d-4f471924f4f9",
+      "time": "2026-08-20 00:09:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum extended gains to 5.31%, trading at $1,799.19/oz."
+    },
+    {
+      "id": "5048404",
+      "time": "2026-08-20 00:09:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：談判是解決伊朗與美國之間分歧的唯一途徑。"
+    },
+    {
+      "id": "te:markets:576575",
+      "time": "2026-08-20 00:08:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Lower — European stocks closed slightly lower on Wednesday amid sharp losses for banks and AI stocks. The Euro STOXX 50 dropped 0.2% to 6,454 and the STOXX Europe 600 closed flat at 652. European banks tumbled in the session despite the pullback in long-term yields after the US Treasury doubled its buyback program. BNP Paribas and ING fell 2.4% each, while Santander, UniCredit, and Intesa Sanpaolo lost 1.3%. In the meantime, ASML dropped 2.2% and Infineon slumped 4%, tracking the AI infrastructure sector in the US after financial results from OpenAI refrained from keeping up with the sharp growth from Antropic. On the other hand, consumer cyclical companies closed higher with Inditex and LVMH gaining around 2% each. Also, the jump in gold prices from the Treasury intervention lifted miners in London, with Rio Tinto and Glencore adding 4% and 5%, respectively."
+    },
     {
       "id": "5048403",
       "time": "2026-08-20 00:07:17",
