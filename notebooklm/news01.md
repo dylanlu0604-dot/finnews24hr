@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 02:48:21_
-_本檔包含 3129 則快訊，約 624186 字_
+_更新時間：2026-08-20 03:31:42_
+_本檔包含 3150 則快訊，約 625328 字_
+
+---
+
+### 2026-08-20 03:30:59  #MKT News #Market Themes #AI Revolution
+
+【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln.
+
+---
+
+### 2026-08-20 03:30:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil rises on the 19th】By the close, NYMEX September light sweet crude (WTI) futures gained $0.89 to $85.83/bbl, +1.05%; ICE Brent October futures added $0.60 to $91.62/bbl, +0.66%.
+
+---
+
+### 2026-08-20 03:30:13  #市場
+
+現貨黃金日內漲4%，現報4507.62美元/盎司。
+
+---
+
+### 2026-08-20 03:29:54  #MKT News #Market Themes #AI Revolution
+
+US President Trump said he will meet next week with AI industry figures.
+
+---
+
+### 2026-08-20 03:29:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold jumped 4% intraday to $4,507.66/oz.
+
+---
+
+### 2026-08-20 03:29:32  #國際
+
+特朗普：下週將與 “AI 行業人士” 舉行會晤。
+
+---
+
+### 2026-08-20 03:29:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+New York gold futures jumped 4% intraday to $4,565.10/oz.
+
+---
+
+### 2026-08-20 03:29:03  #MKT News #Important #Market Themes #AI Revolution
+
+CNBC reports OpenAI's CFO said the company plans to go public in 2027 or earlier.
+
+---
+
+### 2026-08-20 03:29:00  #國際
+
+市場訊息：伊朗外長阿拉格齊於週三同巴基斯坦陸軍參謀長通電話，就地區最新局勢以及外交斡旋工作展開磋商。
+
+---
+
+### 2026-08-20 03:28:44  #市場
+
+【國際油價19日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲89美分，收於每桶85.83美元，漲幅為1.05%；10月交貨的倫敦布倫特原油期貨價格上漲60美分，收於每桶91.62美元，漲幅為0.66%。
+
+---
+
+### 2026-08-20 03:27:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【U.S. quietly opens route through Strait of Hormuz, ships about 10 mln bpd】Two U.S. officials told Axios the U.S. military has quietly established a shipping lane through the Strait of Hormuz, moving roughly 10 million barrels per day into global energy markets. The operation has run for several weeks, with about 15–20 tankers using a southern route along Oman's coast. Officials said flows are roughly half of pre-war volumes; the U.S.-led action is easing a major war-related supply disruption that had driven crude sharply higher, and is already having a noticeable impact on global oil supply despite remaining below pre-war levels.
+
+---
+
+### 2026-08-20 03:26:44  #其他
+
+市場訊息：OpenAI 將於 2027 年或更早時間上市。
+
+---
+
+### 2026-08-20 03:26:41  #MKT News #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+【Dollar index falls sharply on 19th】The dollar index, which measures the US currency against six major peers, fell 0.83% to 98.833 at the New York FX close on the 19th. EUR/USD rose to 1.1674 from 1.1576; GBP/USD to 1.3607 from 1.3534. USD/JPY fell to 158.32 from 159.60; USD/CHF to 0.7979 from 0.8125; USD/CAD to 1.3810 from 1.3906; USD/SEK to 9.4386 from 9.5395.
+
+---
+
+### 2026-08-20 03:26:15  #市場
+
+【美元指數19日大幅下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.83%，在匯市尾市收於98.833。截至紐約匯市尾市，1歐元兌換1.1674美元，高於前一交易日的1.1576美元；1英鎊兌換1.3607美元，高於前一交易日的1.3534美元。1美元兌換158.32日元，低於前一交易日的159.60日元；1美元兌換0.7979瑞士法郎，低於前一交易日的0.8125瑞士法郎；1美元兌換1.3810加元，低於前一交易日的1.3906加元；1美元兌換9.4386瑞典克朗，低於前一交易日的9.5395瑞典克朗。
+
+---
+
+### 2026-08-20 03:25:20  #焦點 #國際
+
+【報道：美國開展行動透過霍爾木茲海峽運輸石油】兩名美國官員向Axios透露，美軍已在霍爾木茲海峽悄悄搭建起進出海峽的航運通道，每日可運輸數百萬桶石油。儘管大範圍戰事仍處於僵持狀態，但該行動已取得顯著成效。這項行動已開展數週，共有 15‑20 艘油輪沿著阿曼海岸的南部航道進出海峽。官員稱，每天約有 1000 萬桶石油經該海峽外運，流入全球能源市場，這一規模約為戰前運量的一半。官員稱，此次行動得以落地，得益於美國中央司令部近期為期兩週的軍事行動，該行動削弱了伊朗的雷達與海上監控系統。
+
+---
+
+### 2026-08-20 03:25:18  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+WTI crude fell $0.30 intraday to $83.89/bbl.
+
+---
+
+### 2026-08-20 03:23:47  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+According to Axios, the United States is secretly transporting oil through the Strait of Hormuz.
+
+---
+
+### 2026-08-20 03:22:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #US10Y
+
+【Fed minutes: some participants say signs of labor-market slack persist】Federal Reserve minutes said participants judged labor-market conditions broadly stable and labor supply and demand roughly balanced, with unemployment steady over the past year and near most participants' estimates of its longer-run level. Some participants said uncertainty around AI development and current and expected productivity gains have kept both hiring and layoffs low; in industries building AI, demand for tech workers is strong and has driven sharp wage gains for those roles. Other participants flagged lingering slack, citing low employment rates and elevated long-term unemployment. Several described nominal wage growth as moderate and consistent with inflation moving toward 2%, though some warned of upside risk to future wage growth.
+
+---
+
+### 2026-08-20 03:22:11  #國際
+
+據Axios：美國正在開展秘密行動，經霍爾木茲海峽運輸石油。
+
+---
+
+### 2026-08-20 03:17:54  #MKT News
+
+CFTC Chair Selig said he will provide more details on the agency’s future regulatory path at a meeting tomorrow.
+
+---
+
+### 2026-08-20 03:17:22  #市場 #國際
+
+美國商品期貨交易委員會主席：明天，我將在會議上就後續監管路徑公佈更多細節。
+
+---
+
+### 2026-08-20 03:15:44  #MKT News
+
+President Trump: We need Congress to pass a clear bill.
+
+---
+
+### 2026-08-20 03:14:15  #國際
+
+特朗普：國會需要透過《清晰法案》。（CLARITY Act：美國兩黨加密監管核心法案，與特朗普已經簽署的GENIUS Act配套使用，GENIUS 管穩定幣，CLARITY 管整體加密資產市場結構。）
+
+---
+
+### 2026-08-20 03:12:54  #MKT News #Commodities #Precious Metals
+
+Spot silver surged $3 intraday to $66.32 per ounce, up 4.74%.
+
+---
+
+### 2026-08-20 03:12:20  #MKT News #Important #Macro & Rates #Treasury Yields
+
+U.S. President Trump said he strongly hopes interest rates will fall.
+
+---
+
+### 2026-08-20 03:11:56  #MKT News #Important
+
+Sources say a U.S.-Canada trade deal is expected to cut U.S. tariffs on Canadian steel and aluminum to 25%, but to include quota arrangements.
+
+---
+
+### 2026-08-20 03:11:53  #焦點 #國際
+
+特朗普：希望看到利率下降。
+
+---
+
+### 2026-08-20 03:11:05  #焦點 #國際
+
+訊息人士：美加貿易協議預計將美國對加拿大鋼鐵、鋁產品的最高名義關稅稅率降至 25%，同時協議還將包含部分配額安排。
+
+---
+
+### 2026-08-20 03:10:50  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish
+
+Sources say a US-Canada trade agreement is expected to cut the US maximum tariff rate on Canadian autos to 15%.
+
+---
+
+### 2026-08-20 03:10:34  #焦點 #國際
+
+市場訊息：知情談判人士稱，美加貿易協議預計將美國對加拿大汽車的最高名義關稅稅率降至 15%。
+
+---
+
+### 2026-08-20 03:09:33  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+【Spot gold climbs above $4,500/oz】Spot gold climbed above $4,500/oz for the first time since June 4, rising 3.83% on the day.
+
+---
+
+### 2026-08-20 03:09:31  #國際
+
+伊朗國家電視臺：伊朗表示，根據美伊諒解備忘錄，目前尚無凍結資金獲解凍。
+
+---
+
+### 2026-08-20 03:08:54  #市場 #焦點
+
+現貨黃金突破4500美元/盎司，日內漲3.89%。
+
+---
+
+### 2026-08-20 03:08:42  #市場 #焦點
+
+紐約期金突破4560美元/盎司，日內漲3.16%。
+
+---
+
+### 2026-08-20 03:08:32  #MKT News #Market Themes #AI Revolution #SPCX.O
+
+Market sources: SpaceX (SPCX.O) attempted to acquire AI programming startup Cognition.
+
+---
+
+### 2026-08-20 03:07:16  #其他
+
+SpaceX 曾嘗試收購 AI 程式設計初創企業 Cognition。
+
+---
+
+### 2026-08-20 03:06:24  #MKT News #ESLT.O #Impact bullish
+
+Israel's Channel 12 reports Israel will begin establishing a production line for precision-guided munitions for fighter aircraft.
+
+---
+
+### 2026-08-20 03:05:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026.
+
+---
+
+### 2026-08-20 03:04:24  #國際
+
+以色列 N12 新聞：以色列即將開始生產戰鬥機所用智慧炸彈。 此舉意在在與伊朗關係緊張的背景下，實現武器自主。
+
+---
+
+### 2026-08-20 03:03:20  #MKT News
+
+Israel Defense Forces says it will conduct a military exercise near Nahariya tomorrow as part of its 2026 training plan; the activity is not related to a security incident.
+
+---
+
+### 2026-08-20 03:01:36  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.94% at 25,699, trading 204 points above the cash index.
+
+---
+
+### 2026-08-20 03:00:34  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #EURUSD
+
+Iran's central bank governor said Iran has proposed establishing a financial corridor among BRICS countries to reduce reliance on other currencies.
+
+---
+
+### 2026-08-20 03:00:03  #市場
+
+恒指期貨夜盤收漲0.97%，報25704.94點，高水209.87點。
+
+---
+
+### 2026-08-20 02:59:46  #央行 #國際
+
+伊朗央行行長：我們已提議在金磚框架下設立金融走廊，我們必須降低對其他貨幣的依賴。
+
+---
+
+### 2026-08-20 02:58:50  #MKT News
+
+According to correspondence, the US will provide $206 million to fund a Gaza peacekeeping force.
+
+---
+
+### 2026-08-20 02:58:23  #MKT News #Market Themes #Chip Wars
+
+【AI chip startup Fractile seeks $6.5bn valuation after ANTHROPIC order】Fractile is seeking about $600m in a new funding round at a $6.5bn pre-money valuation, people familiar with the matter said — more than six times its roughly $1bn valuation after a May round. The startup has reached a preliminary agreement to sell about $250m of AI inference chips to ANTHROPIC, with both sides planning to expand the partnership; the chips are expected to enter service in 2027. Fractile, founded in 2022, designs low-latency AI inference chips aimed at challenging NVIDIA’s dominance in AI hardware.
+
+---
+
+### 2026-08-20 02:58:22  #國際
+
+檔案顯示：美國將向加沙維和部隊提供2.06億美元資金。
+
+---
+
+### 2026-08-20 02:56:42  #宏觀 #公司 #市場 #國際
+
+【美國財政部回購長期國債可能上不封頂 國庫券發行規模面臨更多變數】美國財政部擴大長期國債回購的決定使包括國庫券在內的短期證券發行前景變得更加複雜，因為市場預計財政部將透過發行短期國債為這項計劃融資。財政部計劃將“流動性支援型回購操作規模至少提高一倍”。而就在兩週前，該部還在季度再融資公告中表示，回購規模將維持不變，並預計隨著9月企業稅款流入，國庫券供應將出現季節性下降。週三的調整打亂了此前指引。由於擴大回購需要更多融資，而且回購規模沒有上限，財政部需要增加證券發行。
+
+---
+
+### 2026-08-20 02:55:00  #MKT News
+
+【Iran central bank governor says no frozen funds unfrozen so far】Iran's central bank governor said on Aug 19 local time that no frozen funds have been unfrozen so far, CCTV reported.
+
+---
+
+### 2026-08-20 02:54:57  #宏觀 #國際
+
+【厄瓜多情報機構負責人在肯亞直升機事故中死亡】當地時間8月19日，一架直升機在肯亞北部桑布魯郡奧洛洛克韋山墜毀，包括6名遊客和1名飛行員在內的機上7人全部遇難。厄瓜多交通部長稍後向外界證實，厄瓜多情報機構最高負責人米凱萊·森西-孔圖吉夫婦在此次事故中死亡。此外，美國國務院發表宣告稱，墜機事故死亡人員中有4人是美國公民。（央視新聞）
+
+---
+
+### 2026-08-20 02:52:19  #央行 #國際
+
+【伊朗央行行長：目前尚未有任何被凍結的資金解凍】總檯記者當地時間8月19日獲悉，伊朗央行行長表示，目前尚未有任何被凍結的資金解凍。（央視新聞）
+
+---
+
+### 2026-08-20 02:51:30  #MKT News
+
+Iran's central bank governor said Iran-Iraq banking issues will be resolved within weeks. Iraq has agreed to issue letters of guarantee for Iranian contractors, using Iranian assets held in Iraqi banks as collateral, to speed bilateral economic cooperation.
+
+---
+
+### 2026-08-20 02:50:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+【Fed minutes: inf projections similar to June; economic outlook slightly weaker】Fed minutes said staff expect H2 overall inf to ease—largely driven by expected declines in retail gasoline—and for core inf to slow modestly. Staff project real GDP growth next year slightly above potential, with financial conditions and AI-related investment providing support; unemployment is forecast to remain near staff’s estimate of the long-run rate this year, edge down next year and fall slightly below the long-run rate by 2028. Compared with June projections, staff’s outlook for economic activity is a touch weaker, reflecting recent softer-than-expected data. Staff flagged sizable uncertainty from geopolitics and unclear economic effects of AI investment and adoption. Overall, risks to employment and real GDP are tilted to the downside while inf risks are tilted to the upside, including the risk that inf proves more persistent than staff anticipate.
+
+---
+
+### 2026-08-20 02:50:05  #市場 #央行 #國際
+
+【美聯儲會議紀要顯示 與會者強調聯邦基金利率是關鍵政策工具】美聯儲7月會議紀要顯示，許多美聯儲決策者重申，調整貨幣政策立場的主要手段應當是調整聯邦基金利率目標區間。7月28日至29日會議的紀要顯示，大多數與會者談到了資產負債表政策，他們指出，工作組的研究結果將為FOMC的審議提供“有益參考”，並表示未來的會議將為“全面討論”這一議題提供機會。多位與會者指出了可進一步探討的具體問題，包括與市場執行和金融穩定相關的考量、資產負債表政策對貨幣和金融狀況的影響，以及美聯儲所持美國國債的合理期限結構。
+
+---
+
+### 2026-08-20 02:49:01  #MKT News
+
+Iran's central bank governor said assets frozen under the agreement framework remain frozen and no funds have been released to date.
 
 ---
 
@@ -18655,209 +18985,5 @@ Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close
 ### 2026-08-19 04:38:45  #國際
 
 【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
-
----
-
-### 2026-08-19 04:37:59  #MKT News #Market Themes #AI Revolution
-
-【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance.
-
----
-
-### 2026-08-19 04:35:43  #國際
-
-以色列：同意與敘利亞在安全方面維持現狀。
-
----
-
-### 2026-08-19 04:35:00  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.22% Lower — The Dow Jones Index dropped 116 points or 0.22 percent on Tuesday to close at 53344 points. Losses were led by Caterpillar (-4.31%), Nvidia (-2.37%) and Boeing (-1.36%). Offsetting the fall, top gainers were Salesforce (4.05%), J&J (3.30%) and Nike (2.46%).
-
----
-
-### 2026-08-19 04:33:38  #MKT News
-
-Central Bank of Uruguay kept its policy rate at 5.75%, unchanged from the previous setting.
-
----
-
-### 2026-08-19 04:33:34  #公司 #焦點
-
-【Anthropic籌備超級投票權，為IPO鋪路】據兩名知情人士透露，Anthropic計劃授予執行長達里奧·阿莫迪及其他聯合創始人一類具備超額投票權的股份，幫助他們抵禦外部股東施加的壓力。這將是Anthropic管理層首次獲得超級投票權；該機制在科技企業創始人中已十分普遍。另有訊息人士表示，對Anthropic而言此舉意義特殊：相比其他科技企業創始人，該公司創始人所持股權佔比相對較低。公司還計劃依託特殊類別的股票，保留現有的非股東受託人團體，由其選舉董事會多數席位，以此構建一道非傳統屏障，抵禦外部股東干預。
-
----
-
-### 2026-08-19 04:32:48  #MKT News
-
-According to The Information, Anthropic has been preparing to grant CEO Dario Amodei and other co-founders a new class of stock carrying additional voting rights.
-
----
-
-### 2026-08-19 04:32:01  #央行 #其他
-
-烏拉圭央行維持關鍵利率在5.75%不變。
-
----
-
-### 2026-08-19 04:31:46  #國際
-
-【阿聯酋宣佈暫停與伊朗的貿易金融往來】阿聯酋外交部19日發表宣告表示，阿聯酋暫停與伊朗的所有貿易、商業往來和金融交易。（新華社）
-
----
-
-### 2026-08-19 04:31:31  #其他
-
-【AI事故風險加劇：2025年前十月事件數已超2024全年】人工智慧造成危害的潛在風險正愈發凸顯。人工智慧事故資料庫（AI Incident Database）的資料顯示，2022‑2024年間，有記錄的AI相關事故同比上升50%；而截至2025年10月的前10個月，事故數量就已經超過2024年全年水平。
-
----
-
-### 2026-08-19 04:30:28  #MKT News #HE.O #Impact bearish
-
-Hawaiian Electric Co.: As of 7:00 AM local time, roughly 57,000 customers are without power due to tropical storm 'Lala'.
-
----
-
-### 2026-08-19 04:28:08  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Drops on Banking and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,368 on Tuesday, weighed down by losses in the mining and financial sectors amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with RBC losing 1.3%, TD Bank shedding 1.7%, BMO down 1.2%, CIBC losing 1.3% and Scotiabank retreating 1.1%. Miners also declined as gold prices slipped, with Agnico Eagle down 0.8%, Barrick losing 0.9% and WPM shedding 2.8%. Most technology stocks tumbled, tracking a selloff in US chipmakers, with Shopify losing 1.2% and Celestica sinking 8.4%. In contrast, energy stocks gained on rising oil prices, with Canadian Natural up 0.9% and Suncor adding 1.7%. NexGen Energy (-4.4%) is discussing a potential equity stake with BHP in its Rook I mining project in Saskatchewan, CEO Leigh Curyer said.
-
----
-
-### 2026-08-19 04:27:33  #MKT News #Important #Brent #Impact bullish #WTI #DXY
-
-【UAE suspends all trade, commercial and financial transactions with Iran】The UAE Foreign Ministry said it has suspended all trade, commercial and financial transactions with Iran until further notice amid regional escalation. The ministry’s director of strategic communications, Afra Mahash Al Hameli, dismissed reports questioning the state of UAE‑Iran economic ties.
-
----
-
-### 2026-08-19 04:26:06  #國際
-
-以色列總理辦公室表示，以色列不會容忍對其安全的威脅。
-
----
-
-### 2026-08-19 04:25:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Prime Minister's Office said Syria chose to ignore Israeli warnings about such deployments and that Israel will not tolerate threats to its security.
-
----
-
-### 2026-08-19 04:24:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli Prime Minister's Office said Syria, by allowing Turkish forces to deploy to an airbase near Aleppo, had "come close" to breaking the security status quo with Israel.
-
----
-
-### 2026-08-19 04:21:24  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌1.88%。
-
----
-
-### 2026-08-19 04:20:52  #國際
-
-美國法庭檔案顯示，哈佛大學同意支付5300萬美元，就前停屍房主管盜竊遺體器官引發的家屬訴訟達成和解。
-
----
-
-### 2026-08-19 04:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
-
-U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes.
-
----
-
-### 2026-08-19 04:19:41  #國際
-
-特朗普政府正準備加大對伊朗的經濟施壓力度。
-
----
-
-### 2026-08-19 04:15:30  #MKT News
-
-UAE Foreign Ministry said the decision was taken against a backdrop of regional escalation that "undermines regional and international peace and security".
-
----
-
-### 2026-08-19 04:14:58  #國際
-
-阿聯酋外交部宣告稱，鑑於地區局勢升級"破壞地區及國際和平與安全"，故作出此決定。
-
----
-
-### 2026-08-19 04:14:36  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-UAE foreign ministry said it is suspending all commercial activity and financial transactions with Iran until further notice.
-
----
-
-### 2026-08-19 04:13:36  #焦點 #國際
-
-阿聯酋外交部宣告稱，直至另行通知前，阿聯酋已全面停止與伊朗的所有貿易、商業往來及金融交易。
-
----
-
-### 2026-08-19 04:11:44  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Keysight Technologies earnings above expectations at 3.07 USD — Keysight Technologies (KEYS) released earnings per share at 3.07 USD, compared to market expectations of 2.48 USD.
-
----
-
-### 2026-08-19 04:10:47  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #EURUSD
-
-【Sources: US-Canada tariff waiver plan submitted to Trump for approval】Sources said the US and Canada have agreed a temporary plan to spare some Canadian goods from proposed 50% tariffs and have submitted it to President Trump for approval. Trump will decide whether tariffs scheduled to take effect at midnight local time on Aug. 19 are implemented. Negotiators held intensive talks; the US is seeking removal of Canadian retaliatory measures on autos and alcohol and changes to dairy supply management, while Canada wants lower US tariffs on autos and other goods. Officials hope a limited deal could pave the way for broader USMCA talks, but auto tariffs remain the core dispute. If imposed, the measures would affect only part of bilateral trade but could jeopardize negotiations covering nearly $1tn in US‑Canada goods and services. Canadian Prime Minister Carney faces domestic political risk from concessions; US tariff action could add pre-midterm economic pressure in swing states such as Maine and Michigan.
-
----
-
-### 2026-08-19 04:10:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Slide on Chipmaker Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers and elevated bond yields. The S&P 500 fell 0.7%, the Nasdaq lost 1.7% and the Dow shed 116 points. Long-term yields slipped from recent peaks but remained near multi-year highs as inflation risks and surging bond issuance by AI companies fueled uncertainty over term premia. Inflation concerns were magnified by further increases in energy prices as the US signaled a prolonged blockade of Iranian tanker exports. Chipmakers tied to the AI trade posted sharp losses, with Nvidia down 2.3%, Broadcom shedding 3.2%, Micron losing 7% and AMD retreating 4.3%. Intel tumbled 6.6%, while Sandisk sank 9%. Other major AI companies also closed lower, with Meta losing 4.4%, Tesla down 0.7% and Oracle shedding 2.7%. Credit-sensitive financial stocks came under pressure, with Goldman Sachs (-1%) and Citigroup (-0.6%) closing lower. Home Depot shed 0.1% despite beating earnings estimates amid elevated borrowing and housing costs.
-
----
-
-### 2026-08-19 04:08:33  #MKT News
-
-cenc measured a magnitude-5.1 earthquake in Afghanistan at 03:51 on Aug 19 at 36.45N, 70.80E; hypocenter depth 200 km.
-
----
-
-### 2026-08-19 04:08:10  #其他
-
-中國地震臺網正式測定：08月19日03時51分在阿富汗（北緯36.45度，東經70.80度）發生5.1級地震，震源深度200千米。
-
----
-
-### 2026-08-19 04:06:44  #其他
-
-沙特公共投資基金（PIF）去年管理資產規模縮水100億美元，降至約9000億美元。
-
----
-
-### 2026-08-19 04:05:48  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. stocks closed lower on Tuesday, August 18: Dow Jones Industrial Average down 116.20 points (-0.22%) at 53,343.58; S&P 500 down 53.15 points (-0.69%) at 7,691.91; Nasdaq Composite down 355.20 points (-1.33%) at 26,289.71.
-
----
-
-### 2026-08-19 04:02:40  #MKT News #Important #Star Stocks #NVIDIA #Alibaba #Market Themes #Magnificent 7 #MU.O #Impact bearish #SKHY.O #NVDA.O
-
-【US close: major indexes lower; SK Hynix down over 9%】U.S. stocks closed lower on Tuesday: the Dow Jones Industrial Average fell 0.2%, the S&P 500 dropped 0.69% and the Nasdaq Composite fell 1.33%. Semiconductor names led declines—SanDisk (SNDK.O) down 9%, Western Digital (WDC.O) down 7%, Micron Technology (MU.O) down 7% and SK Hynix (SKHY.O) down over 9%—while NVIDIA (NVDA.O) slipped 2%. The Nasdaq Golden Dragon China Index fell 1%; Alibaba (BABA.N) rose 2.8%.
-
----
-
-### 2026-08-19 04:01:40  #國際
-
-美國證券交易委員會（SEC）表示，就次級汽車貸款機構Tricolor涉19億美元倒閉事件，對多名前高管提起欺詐指控。
-
----
-
-### 2026-08-19 04:01:14  #公司 #國際
-
-敘利亞石油公司：初步調查顯示，爆炸是蓄意破壞行為的結果。
-
----
-
-### 2026-08-19 04:00:49  #MKT News #Commodities #Energy
-
-Syrian state news agency says Syria Petroleum Company reported an explosion on the gas export pipeline at the Jabusa gas plant, cutting gas flows. Preliminary investigation attributes the blast to deliberate sabotage; no casualties reported.
 
 ---

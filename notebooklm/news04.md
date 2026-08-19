@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-20 02:48:21_
-_本檔包含 3203 則快訊，約 623225 字_
+_更新時間：2026-08-20 03:31:42_
+_本檔包含 3209 則快訊，約 625256 字_
+
+---
+
+### 2026-08-16 05:57:48  #MKT News
+
+CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history.
+
+---
+
+### 2026-08-16 05:56:15  #MKT News
+
+CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel.
+
+---
+
+### 2026-08-16 05:55:36  #MKT News
+
+CENTCOM said Admiral Brad Cooper met with sailors and Marines aboard the USS Abraham Lincoln at sea, his second such meeting this year.
+
+---
+
+### 2026-08-16 05:54:48  #MKT News
+
+CENTCOM said Admiral Brad Cooper met senior military and political leaders in Bahrain, Iraq, Israel, Jordan, Saudi Arabia and the UAE and visited U.S. service members stationed there. More than 50,000 U.S. service members are currently carrying out missions across the Middle East.
+
+---
+
+### 2026-08-16 05:54:13  #MKT News
+
+CENTCOM said its commander ended a 10-day Middle East visit on Aug. 15, during which he visited six countries and inspected a U.S. Navy aircraft carrier operating in the Arabian Sea.
+
+---
+
+### 2026-08-16 05:53:55  #國際
+
+【美國中央司令部指揮官完成為期10天的中東之行】美國中央司令部指揮官於8月15日結束為期10天的中東行程，此行到訪六個國家，並登上部署於阿拉伯海的美國海軍航空母艦。布拉德·庫珀上將先後會見巴林、伊拉克、以色列、約旦、沙烏地阿拉伯、阿聯酋的軍政高層，同時慰問駐外美軍。目前有超5萬名美軍部署在中東地區，執行多項任務。
+
+---
+
+### 2026-08-16 05:42:43  #其他
+
+SpaceX：佛羅里達與加利福尼亞兩處發射場的獵鷹9號火箭均已豎立就位，準備於今日執行發射任務。
+
+---
+
+### 2026-08-16 05:42:00  #MKT News
+
+SpaceX (SPCX.O): Falcon 9 rockets are in position in Florida and California and ready for launches scheduled today.
+
+---
+
+### 2026-08-16 05:32:29  #國際
+
+伊朗稱霍爾木茲海峽實現完全安全，前提是美國解除封鎖、停止威脅。
+
+---
+
+### 2026-08-16 05:26:51  #國際
+
+市場資訊：週六，伊朗從格什姆島以及本國南部海岸朝霍爾木茲海峽與阿曼灣方向發射多枚反艦導彈。
+
+---
+
+### 2026-08-16 05:26:16  #MKT News #Market Regions #Greater China
+
+【Ecuadorian President Daniel Noboa arrives in Beijing, begins state visit】Ecuadorian President Daniel Noboa Azín arrived in Beijing on the morning of the 16th to begin an eight-day state visit to China, his first official visit to the country.
+
+---
+
+### 2026-08-16 05:26:03  #其他
+
+【厄瓜多總統諾沃亞抵達北京 開啟訪華行程】今天（16日）早晨，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛抵達北京，開始為期8天的訪華行程。此訪是諾沃亞總統首次對中國進行國事訪問。
+
+---
+
+### 2026-08-16 05:15:42  #國際
+
+市場資訊：特斯拉在美國最本土化生產的車輛中佔據前兩名，超越了福特和通用汽車。
+
+---
+
+### 2026-08-16 05:08:16  #MKT News
+
+【Severe storms and floods in Indiana kill at least five】As of Aug. 15 local time, Indiana officials said storms and flooding that swept the U.S. state this week have killed at least five people. Heavy rain over the past week pushed several rivers to record highs and forced residents onto higher ground. More than a dozen counties have declared local disaster; the latest damage is concentrated along the river corridor from Hamilton County into Indianapolis’s northern suburbs.
+
+---
+
+### 2026-08-16 05:00:45  #MKT News #Commodities #Energy
+
+Head of Iran's Energy Optimization Organization outlined three gasoline allocation options: 1) keep pump prices unchanged but cap total allocation at 121 mln litres; once the cap is reached pumps will close; 2) allocate daily production of 121 mln litres to vehicles, with any demand above quotas charged at free-market prices; 3) issue 30 litres per person per month quotas to the public, with quotas transferable and tradable.
+
+---
+
+### 2026-08-16 04:59:11  #國際
+
+【美國印第安納州遭遇惡劣天氣 至少5人死亡】美國印第安納州當局表示，本週席捲全州的強風暴和洪水已導致至少5人死亡。過去一週，該州連降暴雨，導致多條河流的水位創下歷史新高，迫使居民紛紛向高處轉移。目前已有十多個縣宣佈進入地方災害狀態，最新的災情主要集中在從漢密爾頓縣延伸至印第安納波利斯北部郊區的河道沿線。
+
+---
+
+### 2026-08-16 04:59:11  #MKT News
+
+Head of Iran's Energy Optimization Organization said Iran, as part of three gasoline-supply management plans under review, is considering a proposal to allocate 30 liters of gasoline per person per month, with the quota transferable and tradable.
+
+---
+
+### 2026-08-16 04:56:12  #焦點 #國際
+
+伊朗能源最佳化組織負責人：伊朗正在審議三套汽油供應管理方案，其中一項提案計劃向每位公民每月分配 30 升汽油配額，配額允許流轉、交易。
+
+---
+
+### 2026-08-16 04:54:12  #國際
+
+【特朗普釋放可能參與2028年大選的訊號】美國總統特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。圖片配文寫道：“我們必將取勝。”該帖再次公開釋放訊號，特朗普有意角逐2028年總統的又一屆任期。
+
+---
+
+### 2026-08-16 04:53:30  #MKT News #Market Themes #Chip Wars #AI Revolution #GBPUSD #Impact mixed
+
+【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices.
+
+---
+
+### 2026-08-16 04:38:12  #國際
+
+伊朗譴責以色列持續襲擊黎巴嫩。
+
+---
+
+### 2026-08-16 04:33:05  #MKT News
+
+OpenAI CODEX product head said Sol can run an efficient Luna agent team, with the models highly familiar with one another and able to cooperate to achieve objectives at striking speed and efficiency.
+
+---
+
+### 2026-08-16 04:28:11  #MKT News
+
+Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'.
+
+---
+
+### 2026-08-16 04:22:29  #MKT News
+
+Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit.
+
+---
+
+### 2026-08-16 04:17:50  #其他
+
+利比亞發電站附近發生爆炸，多臺發電機組停止執行。
+
+---
+
+### 2026-08-16 04:09:56  #MKT News #Commodities #Energy
+
+Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion.
+
+---
+
+### 2026-08-16 03:47:12  #其他
+
+羅賓漢進一步深耕私募市場，設立規模2.255億美元的基金，允許個人投資者押注Y Combinator孵化的早期初創企業。
+
+---
+
+### 2026-08-16 03:46:55  #MKT News
+
+【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet "shadow liabilities" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions.
 
 ---
 
@@ -19176,137 +19344,5 @@ Abu Dhabi National Energy earnings in line with market expectations at 0.02 AED 
 ### 2026-08-14 08:09:27  #國際
 
 【美否認林肯號水兵鬥毆致死自殺激增】美軍中央司令部今天（8月14日）在社交媒體平臺發帖稱，過去48小時內，多家媒體就“林肯”號航母部署中東期間的情況釋出了“虛假報道”。其中一則報道稱“有7名水兵在艦上鬥毆中喪生”，另一些報道則暗示“艦上水兵自殺念頭激增”——這些報道“純屬捏造”。美軍中央司令部稱，“林肯”號在所有美軍航母中，一直保持著“最高的人員續約率之一（84.4%）”。在海上連續部署超過260天、執行1萬架次飛行任務、投擲150萬磅彈藥之後，“林肯”號航母打擊群的海軍及海軍陸戰隊官兵依然“意志堅定、士氣高昂”。艦上“並無任何軍人死亡”，8月3日那名落水的水兵也已被迅速且安全地救起。（CCTV國際時訊）
-
----
-
-### 2026-08-14 08:09:11  #央行 #國際
-
-【日本財務省前財務官古澤滿宏：日本央行可能於9月加息，隨後於12月或明年1月再次加息】日本財務省前財務官古澤滿宏稱，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。日美協調幹預日元的行動隨時可能再次發生。如果日元再度回到7月底日美聯合干預前的水平，日本和美國可能再次進行干預。日本央行可能於9月加息，隨後於12月或明年1月再次加息。日本央行最終可能希望將利率提高至1.5%-1.75%左右。
-
----
-
-### 2026-08-14 08:08:18  #觀點
-
-【中信證券：隨著國產手術機器人與通用人形機器人的快速發展 行業有望迎來系統性降本】中信證券研報表示，機器人手術效益顯著，是醫學發展新趨勢，但高昂的手術費用導致滲透率長期偏低。中信證券認為隨著國產手術機器人與通用人形機器人的快速發展，行業有望迎來系統性降本，大幅提高滲透率。人形機器人或將從兩個方面推動行業發展：1.帶動上游供應鏈國產化+規模化，惠及下游大幅降本；2.Nature、Science等頂級期刊發表研究，人形機器人或能直接操縱器械進行外科手術，搭配具身智慧、物理世界AI，有望帶來新一輪手術革命。中信證券認為國產機器人有望在全球競爭中脫穎而出，或能孕育千億龍頭，建議關注能降本、有創新的機器人企業。同時中信證券也關注到器械龍頭在該領域的頻繁併購，或將帶來額外投資機遇。
-
----
-
-### 2026-08-14 08:05:26  #國際
-
-【外交部發言人就厄瓜多總統諾沃亞將訪華答記者問】據外交部網站訊息，8月14日，外交部發言人就厄瓜多總統諾沃亞將訪華答記者問。問：中方釋出了厄瓜多總統諾沃亞訪華的訊息，請問中方如何看待當前中厄關係？能否介紹此訪安排和中方期待？答：厄瓜多是拉美重要國家，中國和厄瓜多是全面戰略伙伴。近年來，在兩國元首戰略引領下，中厄關係保持良好發展勢頭，雙方簽署了共建“一帶一路”合作檔案和自由貿易協定，兩國各領域務實合作成果豐碩，人民友好不斷加深。此訪是諾沃亞總統首次對中國進行國事訪問。習近平主席將同諾沃亞總統舉行會談，李強總理、趙樂際委員長將分別同他會見。今年是中厄建立全面戰略伙伴關係十週年。中方期待透過此訪進一步夯實兩國政治互信，賡續傳統友誼，推動中厄全面戰略伙伴關係不斷取得新進展，更好造福兩國人民。
-
----
-
-### 2026-08-14 08:05:18  #央行 #觀點
-
-【中信證券：下階段央行或繼續加大金融對於實體經濟的支援力度】中信證券研報表示，央行2026年二季度貨政報告對國內經濟定調“穩定執行、向新向優”，國際方面強調對地緣風險和AI發展的關注。貨幣政策層面要求“綜合運用並適時調整貨幣政策工具”，定調略偏積極；流動性方面要求引導短端資金利率圍繞政策利率執行，而降成本層面則提及推動貸款定價基準多元化。總的來看，中信證券認為下階段央行或繼續加大金融對於實體經濟的支援力度。
-
----
-
-### 2026-08-14 08:04:40  #MKT News #Market Regions #Greater China
-
-【Ecuador president Daniel Noboa Azín to make state visit to China】China’s Foreign Ministry said Ecuador President Daniel Noboa Azín will make a state visit to China from Aug 16 to Aug 23 at the invitation of CHINA.
-
----
-
-### 2026-08-14 08:04:18  #其他
-
-【我國多型高階船舶及海工裝備集中交付】據中國船舶工業行業協會訊息，近期我國船舶工業在高階船舶與海工裝備領域再傳捷報，多艘極具特色的船舶及海工裝備相繼交付，標誌著中國在雙向航行自卸船、液氨運輸船、海纜施工船、風電安裝船等細分領域實現重要突破。
-
----
-
-### 2026-08-14 08:04:08  #公司 #觀點
-
-【華泰證券：算力升級下AI電源或呈現四大趨勢】華泰證券研報稱，在從“向外擴”Scale out走向“向內聚”Scale up的AI超節點機櫃趨勢下，AIDC功率密度迎來非線性增長。隨著下一代機櫃英偉達Kyber和位元組AI Rack 3.0功率突破500kW，在大電流下母線體積和散熱瓶頸或推動800V直流方案從優選走向必選，國內外800V產業化也有望齊頭並進。高密度、低損耗、高可控地送電到晶片訴求提升或帶來四大AI供配電趨勢，即更高電壓、多層備電、模組整合、升級前置。四大趨勢下，能夠提供HVDC/HV IBC的電源廠商有望受益；具備機電撬裝模組能力，以及SST技術積累的公司有望受益；車規400V/800V與AIDC互通性較強，因此相關車規半導體和功率半導體公司也將受益。
-
----
-
-### 2026-08-14 08:03:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
-
-A former senior Japanese foreign-exchange diplomat says the Bank of Japan may raise rates in September and again in December or January.
-
----
-
-### 2026-08-14 08:03:49  #央行 #日本央行
-
-【日本前高階外匯外交官：日本央行可能希望最終將利率提高至約1.5%至1.75%】日本前高階外匯外交官稱，如果日元回到7月底協調行動前的水平，日本和美國可能會再次干預。日本央行可能希望最終將利率提高至約1.5%至1.75%。
-
----
-
-### 2026-08-14 08:03:46  #MKT News
-
-A former senior Japanese foreign-exchange diplomat said the Bank of Japan may seek to eventually raise policy rates to about 1.5-1.75%.
-
----
-
-### 2026-08-14 08:03:46  #國際
-
-【中外科學家合作觀測到核子內部奇特結構】記者從中國科學技術大學獲悉，該校與美國肯特州立大學、布魯克海文國家實驗室等單位合作，透過高能原子核-原子核對撞實驗中淨重子數和淨電荷數的精確測量發現核子內部存在一種奇特結構。北京時間8月14日凌晨，研究結果發表於國際學術期刊《科學》。(新華社)
-
----
-
-### 2026-08-14 08:03:32  #市場
-
-SK海力士股價上漲6%。
-
----
-
-### 2026-08-14 08:03:29  #央行 #美聯儲
-
-【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。
-
----
-
-### 2026-08-14 08:03:13  #市場
-
-澳大利亞S&P/ASX 200指數開盤下跌0.6%，報9,130.50點。
-
----
-
-### 2026-08-14 08:02:48  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-A former senior Japanese foreign-exchange diplomat said if the yen returns to levels prevailing before the end-July coordinated action, Japan and the United States may intervene again.
-
----
-
-### 2026-08-14 08:02:05  #國際
-
-【厄瓜多總統諾沃亞將訪華】外交部發言人宣佈：應國家主席習近平邀請，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛將於8月16日至23日對中國進行國事訪問。
-
----
-
-### 2026-08-14 08:01:45  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 opened 438.23 points higher, up 0.64%, at 68,746.82 on Aug. 14 (Fri).
-
----
-
-### 2026-08-14 08:01:25  #央行 #國際
-
-日本前高階外匯外交官表示，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。
-
----
-
-### 2026-08-14 08:00:54  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲2.7%，至6995.67點。
-
----
-
-### 2026-08-14 08:00:51  #MKT News #Important #Market Regions #Japan & APAC #005930.KS #Impact bullish #000660.KS
-
-South Korean stocks opened higher: KOSPI +2.68% at the open; Samsung Electronics +2%; SK Hynix +6%.
-
----
-
-### 2026-08-14 08:00:19  #市場
-
-【日韓股市開盤】日經225指數上午開盤報68811.17點，漲幅0.74％。韓國綜合股價指數（KOSPI）開盤上漲2.7％，至6995.67點。三星電子漲2%，海力士漲6%。
-
----
-
-### 2026-08-14 08:00:14  #MKT News #CNH #Impact bearish #CSI300 #Impact bullish #SSE Composite
-
-【CITIC Securities: PBOC likely to step up financial support to the real economy】CITIC Securities says the PBOC's Q2 2026 monetary report sets domestic tone as "stable operation, shifting to new and better quality" and flags geopolitical risks and AI on the external front. The report calls for "comprehensive use and timely adjustment of monetary policy tools," indicating a slightly more active policy bias. It urges guiding short-term funding rates to trade around the policy rate and promotes diversification of loan pricing benchmarks to lower financing costs. CITIC concludes the PBOC may continue to increase financial support for the real economy in the next phase.
 
 ---

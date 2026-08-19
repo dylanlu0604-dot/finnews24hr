@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-20 02:48:21_
-_本檔包含 2871 則快訊，約 624664 字_
+_更新時間：2026-08-20 03:31:42_
+_本檔包含 2878 則快訊，約 625150 字_
+
+---
+
+### 2026-08-17 21:33:09  #國際
+
+以色列媒體：內塔尼亞胡與庫什納已達成協議，以色列軍隊將保持"行動自由”。
+
+---
+
+### 2026-08-17 21:33:06  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
+
+S&P 500 opened down 0.93 points (-0.01%) at 7,784.80 on Monday, Aug. 17; Dow Jones Industrial Average opened down 135.27 points (-0.25%) at 53,597.14; Nasdaq Composite opened up 47.27 points (0.18%) at 26,776.43.
+
+---
+
+### 2026-08-17 21:32:39  #其他
+
+富國銀行投資研究所將2027年末金價目標區間從此前預測的每盎司5800-6000美元下調至每盎司5400-5600美元。
+
+---
+
+### 2026-08-17 21:31:59  #其他
+
+費城半導體指數漲1.5%，報12610.92點。
+
+---
+
+### 2026-08-17 21:31:54  #公司 #國際
+
+市場訊息：泛大西洋投資集團近期已向美國證券交易委員會更新 IPO 申報檔案。
+
+---
+
+### 2026-08-17 21:31:52  #MKT News
+
+The US Supreme Court declined to hear Trump’s renewed bid to review his appeal of a $5 million judgment in favor of E. Jean Carroll.
+
+---
+
+### 2026-08-17 21:31:48  #市場
+
+英偉達(NVDA.O)上漲0.8%，OpenAI承諾將在2030年前大規模部署英偉達AI基礎設施。
+
+---
+
+### 2026-08-17 21:31:45  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%，華住酒店集團漲8.78%，亞朵集團漲2.19%，新東方漲2.23%，世紀互聯漲2.11%，小鵬汽車漲2.14%。
+
+---
+
+### 2026-08-17 21:31:42  #市場
+
+禮來以3.7億美元達成藥物發現合作，Omniab股價大漲19.5%。
+
+---
+
+### 2026-08-17 21:31:28  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) shares rose 0.8%. OpenAI pledged to deploy NVIDIA AI infrastructure at scale by 2030.
+
+---
+
+### 2026-08-17 21:31:25  #國際
+
+市場訊息：美國最高法院駁回特朗普關於就陪審團裁定伊·讓·卡羅爾獲賠500萬美元一案提起上訴的再次申請。
+
+---
+
+### 2026-08-17 21:30:51  #MKT News #Important #Dow #Impact bearish #Nasdaq100 #Impact bullish #MU.O
+
+U.S. open: Dow down 0.3%, S&P 500 near flat, Nasdaq +0.2%. Storage stocks led gains: Micron Technology (MU.O) +3.6%, SanDisk (SNDK.O) +4.5%. Alphabet (GOOG.O) +0.2%; Berkshire Hathaway continued adding to its Alphabet stake in Q2. Alibaba (BABA.N) +1.6% after agreeing to sell its gaming unit for $1.5 bln.
+
+---
+
+### 2026-08-17 21:30:49  #市場
+
+道瓊斯工業平均指數開盤後下跌122.81點，跌幅0.23%，報53609.60點。
+
+---
+
+### 2026-08-17 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.24%，標普500指數漲0.04%，納指漲0.19%。閃迪漲4.61%，美光漲3.76%，L3 HARRIS TECHNOLOGIES INC跌3.15%，工時公司跌2.42%。“七姐妹”方面：亞馬遜漲0.80%，英偉達漲0.79%，蘋果漲0.39%，谷歌漲0.20%，Meta Platforms跌0.70%，特斯拉跌1.00%，微軟跌1.04%。
+
+---
+
+### 2026-08-17 21:30:30  #市場
+
+多倫多S&P/TSX綜合股指開盤下跌42.89點，跌幅0.12%，報36687.38點。
+
+---
+
+### 2026-08-17 21:29:34  #公司 #國際
+
+【4家深企獲美國蓋倫獎提名】近日，享有“醫藥界諾貝爾獎”之稱的美國蓋倫獎（PrixGalienUSA）公佈2026年提名名單。深圳新銳科技企業萊芒生物、默達生物、瑞圖生物、深信生物入圍“最佳初創公司（BestStartup）”獎項。值得一提的是，萊芒生物、默達生物這兩家企業都是由晶泰科技孵化，也是繼2025年晶泰孵化企業希格生科獲得“最佳生物技術產品獎”提名後，晶泰生態圈企業連續第二年登上蓋倫獎榜單。（深圳釋出）
+
+---
+
+### 2026-08-17 21:29:12  #MKT News #Commodities #Energy
+
+Fullgoal Investment Research Institute upgraded its rating on the global energy sector to Neutral from Unfavorable.
+
+---
+
+### 2026-08-17 21:27:15  #市場
+
+【Evercore ISI：標普 500 指數或觸及 9000 點】Evercore ISI 策略師朱利安・伊曼紐爾表示，標普 500 指數有望在 12 個月內達到 9000 點，較當前水平大約有 16% 的上行空間。他認為，經濟衰退、長期收益率飆升、投資者極度追漲情緒這些傳統牛市終結因素目前尚未顯現。伊曼紐爾還指出，人工智慧熱潮、企業低槓桿水平以及投資者多元化持倉將帶來進一步上漲動力。其基準情景下標普 500 指數目標位仍為 7750 點。
+
+---
+
+### 2026-08-17 21:26:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD #Impact bullish #GOOG.O
+
+Alphabet (GOOG.O) plans to raise $3.6 billion in its inaugural Australian bond offering.
+
+---
+
+### 2026-08-17 21:25:33  #央行 #國際
+
+富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。美聯儲將在2027年加息25個基點，使基準利率升至4.00%-4.25%區間，此前預測為維持利率不變。
+
+---
+
+### 2026-08-17 21:25:19  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fuguo Investment Research Institute forecasts the Federal Reserve will hike the federal funds target by 25bp in 2027 to 4.00%-4.25%, reversing a prior projection that rates would be held steady.
+
+---
+
+### 2026-08-17 21:25:16  #央行 #美聯儲
+
+【富國投資研究所：美聯儲今年將加息25個基點】富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。
+
+---
+
+### 2026-08-17 21:24:30  #國際
+
+【伊朗革命衛隊否認與美有秘密渠道】針對美國總統特朗普今天（8月17日）在接受採訪時稱“正透過秘密渠道與伊朗伊斯蘭革命衛隊官員進行談判”一事，伊朗伊斯蘭革命衛隊發言人穆罕默迪回應稱：“革命衛隊官員與美國人之間根本沒有任何會談。特朗普的謊言純屬幻想，是其戰敗和絕望導致的妄想和噩夢。”穆罕默迪進一步表示：“革命衛隊是伊朗人民和伊斯蘭共和國力量的象徵，向來用行動發聲，而外交磋商屬於伊朗政府其他部門的職權範圍。”他還援引伊朗外交部的表態強調指出，鑑於美國屢屢背信棄義的不良記錄，目前伊朗與美國未進行任何對話。 穆罕默迪強調：“特朗普的幻想對他毫無幫助。他試圖透過這些言論暫時控制石油等能源價格。然而，他只有一條真正的出路，那就是接受失敗並執行伊朗提出的條件。因此，美國越早接受失敗並據此作出決定，就越能避免國家遭受更大更嚴重的損失。”
+
+---
+
+### 2026-08-17 21:23:30  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fullgoal Investment Research Institute now expects the Federal Reserve to raise rates by 25bps this year; it had previously forecast no change in policy rates.
+
+---
+
+### 2026-08-17 21:22:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Saudi outlet Alhadath, citing Israeli political sources, reports that Prime Minister Benjamin Netanyahu and Jared Kushner have agreed to halt any Gaza reconstruction plans.
+
+---
+
+### 2026-08-17 21:22:01  #MKT News #Market Themes #AI Revolution
+
+【Seedance 2.5 adds native 1080p; limited-time price cut to ~2.7 yuan/sec until Sep 17】Volcano Engine's website shows Seedance 2.5 now supports native 1080p video generation and the API is live. Seedance 2.5 is positioned for "cinematic long-form narrative" with improved realistic imagery and long-shot capability; it previously supported 480p and 720p. The 1080p upgrade increases image clarity and post-production flexibility, expanding professional use cases. Volcano Engine launched a first-month promotional price: 1080p image-to-video pricing drops from 3.7 yuan/sec to about 2.7 yuan/sec through Sep 17.
+
+---
+
+### 2026-08-17 21:21:55  #其他
+
+【Seedance2.5正式支援1080p 7.2折限時優惠已開啟】火山引擎官網顯示Seedance 2.5正式支援原生1080p影片生成，API同步上線。Seedance 2.5定位為“電影級長敘事”的真實畫面質感和長鏡頭能力，此前已支援480p、720p影片生成。隨著1080p能力上線，Seedance 2.5進一步提升畫面清晰度和影像質感，拓展後期製作的空間和專業場景的能力上限。火山引擎官網顯示，Seedance2.5 1080p API已開啟首月限時優惠。活動期間，1080p圖生影片價格由3.7元/秒降至約2.7元/秒，優惠持續至9月17日。
+
+---
+
+### 2026-08-17 21:19:59  #公司 #市場
+
+在匈牙利總理宣佈要重新審前政府時期國家與4IG公司簽署的所有合同後，匈牙利IT企業4IG股價週一下跌5.3%。
+
+---
+
+### 2026-08-17 21:19:29  #Trading Economics #Economy #Nigeria #Inflation Rate #Importance 1
+
+Nigeria Inflation Rate Slows to 4-Month Low in July — Nigeria’s annual inflation rate eased for the second month to 15.43% in July 2026, the lowest since March, compared to June's 15.91%. The continued relative stability in the naira helped to contain inflationary pressures. Price growth softened for some CPI items, including transportation (15.5% vs 15.6%); miscellaneous goods & services (15.6% vs 17.3%); restaurants & hotels (21.8% vs 23.6%) and clothing & footwear (4% vs 6.4%). However, food inflation, the largest component of the inflation basket, accelerated for the sixth month to 20.31% from 17.52% in June. Higher prices were also seen for housing & utilities (12.6% vs 11.2%). Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, also moderated for the second month to the lowest since May 2022 at 14.97%, down from June's 15.92%. On a monthly basis, the CPI rose by 1.57% in July, after a 1.66% increase in the previous month.
+
+---
+
+### 2026-08-17 21:18:20  #MKT News #4IG.BU #Impact bearish
+
+Hungary's prime minister Magyar said the government will review all contracts the state signed with 4iG during the previous government's term.
+
+---
+
+### 2026-08-17 21:17:54  #公司
+
+匈牙利總理：政府將審查前政府時期國家與4IG公司簽署的所有合同。
+
+---
+
+### 2026-08-17 21:17:04  #Trading Economics #Economy #Belarus #Industrial Production #Importance 1
+
+Belarus Industrial Activity Rebounds — Belarus’ industrial production edged up 0.1% year-on-year in the first seven months of 2026, improving from a 0.7% decline in the first half of the year and returning to positive growth after remaining in contraction for the last twelve months. Growth was supported by a 7.9% increase in electricity, gas, steam, hot water and air-conditioning supply, while mining and quarrying output rose 2.7%. Water supply, waste management and remediation activities also recorded modest growth of 1.8%. However, manufacturing output contracted 1.2%, offsetting gains across other sectors and remaining in contraction for a year.
+
+---
+
+### 2026-08-17 21:16:13  #國際
+
+伊朗方面報道：伊朗外交部一名外交官表示：如果我們重回談判，將以伊斯蘭堡協議為基礎，而非麥納麥會議。
+
+---
+
+### 2026-08-17 21:15:55  #其他
+
+市場訊息：RedCloud簽署阿根廷三年合作協議，預計透過其RedAI平臺實現營收2000萬美元，快速消費品貿易額達12億美元。
+
+---
+
+### 2026-08-17 21:14:38  #央行 #資料 #市場 #國際
+
+【加拿大通脹率升至3% 中東衝突繼續推升汽油價格】隨著中東衝突繼續推升汽油價格，加拿大通脹率小幅升至3%，但核心價格指標漲幅仍較溫和。加拿大統計局週一公佈，7月汽油價格同比上漲25.7%，高於6月的20.5%。剔除汽油後，消費者價格指數(CPI)連續第三個月上漲2.2%。CPI環比上漲0.5%。經濟學家此前預計，整體通脹率將從6月的2.8%小幅升至2.9%。儘管整體通脹率略高於預期，但最新資料表明通脹壓力仍受到控制，能源成本上升向經濟其他領域傳導的跡象仍然有限。加拿大央行偏好的通脹率指標平均為1.95%，較上月僅略有上升，仍低於2%的目標。不過，鑑於其他資料顯示經濟正在反彈，加拿大央行仍將密切關注核心通脹指標，以判斷情況是否會發生變化。
 
 ---
 
@@ -17154,173 +17364,5 @@ Colombian president asked U.S. President Trump on a call to temporarily suspend 
 ### 2026-08-16 05:58:42  #MKT News #WTI #Impact bullish #Brent
 
 CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support "Epic Rage", regional security missions and the U.S. maritime blockade against Iran.
-
----
-
-### 2026-08-16 05:57:48  #MKT News
-
-CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history.
-
----
-
-### 2026-08-16 05:56:15  #MKT News
-
-CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel.
-
----
-
-### 2026-08-16 05:55:36  #MKT News
-
-CENTCOM said Admiral Brad Cooper met with sailors and Marines aboard the USS Abraham Lincoln at sea, his second such meeting this year.
-
----
-
-### 2026-08-16 05:54:48  #MKT News
-
-CENTCOM said Admiral Brad Cooper met senior military and political leaders in Bahrain, Iraq, Israel, Jordan, Saudi Arabia and the UAE and visited U.S. service members stationed there. More than 50,000 U.S. service members are currently carrying out missions across the Middle East.
-
----
-
-### 2026-08-16 05:54:13  #MKT News
-
-CENTCOM said its commander ended a 10-day Middle East visit on Aug. 15, during which he visited six countries and inspected a U.S. Navy aircraft carrier operating in the Arabian Sea.
-
----
-
-### 2026-08-16 05:53:55  #國際
-
-【美國中央司令部指揮官完成為期10天的中東之行】美國中央司令部指揮官於8月15日結束為期10天的中東行程，此行到訪六個國家，並登上部署於阿拉伯海的美國海軍航空母艦。布拉德·庫珀上將先後會見巴林、伊拉克、以色列、約旦、沙烏地阿拉伯、阿聯酋的軍政高層，同時慰問駐外美軍。目前有超5萬名美軍部署在中東地區，執行多項任務。
-
----
-
-### 2026-08-16 05:42:43  #其他
-
-SpaceX：佛羅里達與加利福尼亞兩處發射場的獵鷹9號火箭均已豎立就位，準備於今日執行發射任務。
-
----
-
-### 2026-08-16 05:42:00  #MKT News
-
-SpaceX (SPCX.O): Falcon 9 rockets are in position in Florida and California and ready for launches scheduled today.
-
----
-
-### 2026-08-16 05:32:29  #國際
-
-伊朗稱霍爾木茲海峽實現完全安全，前提是美國解除封鎖、停止威脅。
-
----
-
-### 2026-08-16 05:26:51  #國際
-
-市場資訊：週六，伊朗從格什姆島以及本國南部海岸朝霍爾木茲海峽與阿曼灣方向發射多枚反艦導彈。
-
----
-
-### 2026-08-16 05:26:16  #MKT News #Market Regions #Greater China
-
-【Ecuadorian President Daniel Noboa arrives in Beijing, begins state visit】Ecuadorian President Daniel Noboa Azín arrived in Beijing on the morning of the 16th to begin an eight-day state visit to China, his first official visit to the country.
-
----
-
-### 2026-08-16 05:26:03  #其他
-
-【厄瓜多總統諾沃亞抵達北京 開啟訪華行程】今天（16日）早晨，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛抵達北京，開始為期8天的訪華行程。此訪是諾沃亞總統首次對中國進行國事訪問。
-
----
-
-### 2026-08-16 05:15:42  #國際
-
-市場資訊：特斯拉在美國最本土化生產的車輛中佔據前兩名，超越了福特和通用汽車。
-
----
-
-### 2026-08-16 05:08:16  #MKT News
-
-【Severe storms and floods in Indiana kill at least five】As of Aug. 15 local time, Indiana officials said storms and flooding that swept the U.S. state this week have killed at least five people. Heavy rain over the past week pushed several rivers to record highs and forced residents onto higher ground. More than a dozen counties have declared local disaster; the latest damage is concentrated along the river corridor from Hamilton County into Indianapolis’s northern suburbs.
-
----
-
-### 2026-08-16 05:00:45  #MKT News #Commodities #Energy
-
-Head of Iran's Energy Optimization Organization outlined three gasoline allocation options: 1) keep pump prices unchanged but cap total allocation at 121 mln litres; once the cap is reached pumps will close; 2) allocate daily production of 121 mln litres to vehicles, with any demand above quotas charged at free-market prices; 3) issue 30 litres per person per month quotas to the public, with quotas transferable and tradable.
-
----
-
-### 2026-08-16 04:59:11  #國際
-
-【美國印第安納州遭遇惡劣天氣 至少5人死亡】美國印第安納州當局表示，本週席捲全州的強風暴和洪水已導致至少5人死亡。過去一週，該州連降暴雨，導致多條河流的水位創下歷史新高，迫使居民紛紛向高處轉移。目前已有十多個縣宣佈進入地方災害狀態，最新的災情主要集中在從漢密爾頓縣延伸至印第安納波利斯北部郊區的河道沿線。
-
----
-
-### 2026-08-16 04:59:11  #MKT News
-
-Head of Iran's Energy Optimization Organization said Iran, as part of three gasoline-supply management plans under review, is considering a proposal to allocate 30 liters of gasoline per person per month, with the quota transferable and tradable.
-
----
-
-### 2026-08-16 04:56:12  #焦點 #國際
-
-伊朗能源最佳化組織負責人：伊朗正在審議三套汽油供應管理方案，其中一項提案計劃向每位公民每月分配 30 升汽油配額，配額允許流轉、交易。
-
----
-
-### 2026-08-16 04:54:12  #國際
-
-【特朗普釋放可能參與2028年大選的訊號】美國總統特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。圖片配文寫道：“我們必將取勝。”該帖再次公開釋放訊號，特朗普有意角逐2028年總統的又一屆任期。
-
----
-
-### 2026-08-16 04:53:30  #MKT News #Market Themes #Chip Wars #AI Revolution #GBPUSD #Impact mixed
-
-【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices.
-
----
-
-### 2026-08-16 04:38:12  #國際
-
-伊朗譴責以色列持續襲擊黎巴嫩。
-
----
-
-### 2026-08-16 04:33:05  #MKT News
-
-OpenAI CODEX product head said Sol can run an efficient Luna agent team, with the models highly familiar with one another and able to cooperate to achieve objectives at striking speed and efficiency.
-
----
-
-### 2026-08-16 04:28:11  #MKT News
-
-Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'.
-
----
-
-### 2026-08-16 04:22:29  #MKT News
-
-Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit.
-
----
-
-### 2026-08-16 04:17:50  #其他
-
-利比亞發電站附近發生爆炸，多臺發電機組停止執行。
-
----
-
-### 2026-08-16 04:09:56  #MKT News #Commodities #Energy
-
-Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion.
-
----
-
-### 2026-08-16 03:47:12  #其他
-
-羅賓漢進一步深耕私募市場，設立規模2.255億美元的基金，允許個人投資者押注Y Combinator孵化的早期初創企業。
-
----
-
-### 2026-08-16 03:46:55  #MKT News
-
-【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet "shadow liabilities" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions.
 
 ---

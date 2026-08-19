@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 02:48:21_
-_本檔包含 3240 則快訊，約 623857 字_
+_更新時間：2026-08-20 03:31:42_
+_本檔包含 3235 則快訊，約 625015 字_
+
+---
+
+### 2026-08-14 08:09:11  #央行 #國際
+
+【日本財務省前財務官古澤滿宏：日本央行可能於9月加息，隨後於12月或明年1月再次加息】日本財務省前財務官古澤滿宏稱，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。日美協調幹預日元的行動隨時可能再次發生。如果日元再度回到7月底日美聯合干預前的水平，日本和美國可能再次進行干預。日本央行可能於9月加息，隨後於12月或明年1月再次加息。日本央行最終可能希望將利率提高至1.5%-1.75%左右。
+
+---
+
+### 2026-08-14 08:08:18  #觀點
+
+【中信證券：隨著國產手術機器人與通用人形機器人的快速發展 行業有望迎來系統性降本】中信證券研報表示，機器人手術效益顯著，是醫學發展新趨勢，但高昂的手術費用導致滲透率長期偏低。中信證券認為隨著國產手術機器人與通用人形機器人的快速發展，行業有望迎來系統性降本，大幅提高滲透率。人形機器人或將從兩個方面推動行業發展：1.帶動上游供應鏈國產化+規模化，惠及下游大幅降本；2.Nature、Science等頂級期刊發表研究，人形機器人或能直接操縱器械進行外科手術，搭配具身智慧、物理世界AI，有望帶來新一輪手術革命。中信證券認為國產機器人有望在全球競爭中脫穎而出，或能孕育千億龍頭，建議關注能降本、有創新的機器人企業。同時中信證券也關注到器械龍頭在該領域的頻繁併購，或將帶來額外投資機遇。
+
+---
+
+### 2026-08-14 08:05:26  #國際
+
+【外交部發言人就厄瓜多總統諾沃亞將訪華答記者問】據外交部網站訊息，8月14日，外交部發言人就厄瓜多總統諾沃亞將訪華答記者問。問：中方釋出了厄瓜多總統諾沃亞訪華的訊息，請問中方如何看待當前中厄關係？能否介紹此訪安排和中方期待？答：厄瓜多是拉美重要國家，中國和厄瓜多是全面戰略伙伴。近年來，在兩國元首戰略引領下，中厄關係保持良好發展勢頭，雙方簽署了共建“一帶一路”合作檔案和自由貿易協定，兩國各領域務實合作成果豐碩，人民友好不斷加深。此訪是諾沃亞總統首次對中國進行國事訪問。習近平主席將同諾沃亞總統舉行會談，李強總理、趙樂際委員長將分別同他會見。今年是中厄建立全面戰略伙伴關係十週年。中方期待透過此訪進一步夯實兩國政治互信，賡續傳統友誼，推動中厄全面戰略伙伴關係不斷取得新進展，更好造福兩國人民。
+
+---
+
+### 2026-08-14 08:05:18  #央行 #觀點
+
+【中信證券：下階段央行或繼續加大金融對於實體經濟的支援力度】中信證券研報表示，央行2026年二季度貨政報告對國內經濟定調“穩定執行、向新向優”，國際方面強調對地緣風險和AI發展的關注。貨幣政策層面要求“綜合運用並適時調整貨幣政策工具”，定調略偏積極；流動性方面要求引導短端資金利率圍繞政策利率執行，而降成本層面則提及推動貸款定價基準多元化。總的來看，中信證券認為下階段央行或繼續加大金融對於實體經濟的支援力度。
+
+---
+
+### 2026-08-14 08:04:40  #MKT News #Market Regions #Greater China
+
+【Ecuador president Daniel Noboa Azín to make state visit to China】China’s Foreign Ministry said Ecuador President Daniel Noboa Azín will make a state visit to China from Aug 16 to Aug 23 at the invitation of CHINA.
+
+---
+
+### 2026-08-14 08:04:18  #其他
+
+【我國多型高階船舶及海工裝備集中交付】據中國船舶工業行業協會訊息，近期我國船舶工業在高階船舶與海工裝備領域再傳捷報，多艘極具特色的船舶及海工裝備相繼交付，標誌著中國在雙向航行自卸船、液氨運輸船、海纜施工船、風電安裝船等細分領域實現重要突破。
+
+---
+
+### 2026-08-14 08:04:08  #公司 #觀點
+
+【華泰證券：算力升級下AI電源或呈現四大趨勢】華泰證券研報稱，在從“向外擴”Scale out走向“向內聚”Scale up的AI超節點機櫃趨勢下，AIDC功率密度迎來非線性增長。隨著下一代機櫃英偉達Kyber和位元組AI Rack 3.0功率突破500kW，在大電流下母線體積和散熱瓶頸或推動800V直流方案從優選走向必選，國內外800V產業化也有望齊頭並進。高密度、低損耗、高可控地送電到晶片訴求提升或帶來四大AI供配電趨勢，即更高電壓、多層備電、模組整合、升級前置。四大趨勢下，能夠提供HVDC/HV IBC的電源廠商有望受益；具備機電撬裝模組能力，以及SST技術積累的公司有望受益；車規400V/800V與AIDC互通性較強，因此相關車規半導體和功率半導體公司也將受益。
+
+---
+
+### 2026-08-14 08:03:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
+
+A former senior Japanese foreign-exchange diplomat says the Bank of Japan may raise rates in September and again in December or January.
+
+---
+
+### 2026-08-14 08:03:49  #央行 #日本央行
+
+【日本前高階外匯外交官：日本央行可能希望最終將利率提高至約1.5%至1.75%】日本前高階外匯外交官稱，如果日元回到7月底協調行動前的水平，日本和美國可能會再次干預。日本央行可能希望最終將利率提高至約1.5%至1.75%。
+
+---
+
+### 2026-08-14 08:03:46  #MKT News
+
+A former senior Japanese foreign-exchange diplomat said the Bank of Japan may seek to eventually raise policy rates to about 1.5-1.75%.
+
+---
+
+### 2026-08-14 08:03:46  #國際
+
+【中外科學家合作觀測到核子內部奇特結構】記者從中國科學技術大學獲悉，該校與美國肯特州立大學、布魯克海文國家實驗室等單位合作，透過高能原子核-原子核對撞實驗中淨重子數和淨電荷數的精確測量發現核子內部存在一種奇特結構。北京時間8月14日凌晨，研究結果發表於國際學術期刊《科學》。(新華社)
+
+---
+
+### 2026-08-14 08:03:32  #市場
+
+SK海力士股價上漲6%。
+
+---
+
+### 2026-08-14 08:03:29  #央行 #美聯儲
+
+【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。
+
+---
+
+### 2026-08-14 08:03:13  #市場
+
+澳大利亞S&P/ASX 200指數開盤下跌0.6%，報9,130.50點。
+
+---
+
+### 2026-08-14 08:02:48  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+A former senior Japanese foreign-exchange diplomat said if the yen returns to levels prevailing before the end-July coordinated action, Japan and the United States may intervene again.
+
+---
+
+### 2026-08-14 08:02:05  #國際
+
+【厄瓜多總統諾沃亞將訪華】外交部發言人宣佈：應國家主席習近平邀請，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛將於8月16日至23日對中國進行國事訪問。
+
+---
+
+### 2026-08-14 08:01:45  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 opened 438.23 points higher, up 0.64%, at 68,746.82 on Aug. 14 (Fri).
+
+---
+
+### 2026-08-14 08:01:25  #央行 #國際
+
+日本前高階外匯外交官表示，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。
+
+---
+
+### 2026-08-14 08:00:54  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲2.7%，至6995.67點。
+
+---
+
+### 2026-08-14 08:00:51  #MKT News #Important #Market Regions #Japan & APAC #005930.KS #Impact bullish #000660.KS
+
+South Korean stocks opened higher: KOSPI +2.68% at the open; Samsung Electronics +2%; SK Hynix +6%.
+
+---
+
+### 2026-08-14 08:00:19  #市場
+
+【日韓股市開盤】日經225指數上午開盤報68811.17點，漲幅0.74％。韓國綜合股價指數（KOSPI）開盤上漲2.7％，至6995.67點。三星電子漲2%，海力士漲6%。
+
+---
+
+### 2026-08-14 08:00:14  #MKT News #CNH #Impact bearish #CSI300 #Impact bullish #SSE Composite
+
+【CITIC Securities: PBOC likely to step up financial support to the real economy】CITIC Securities says the PBOC's Q2 2026 monetary report sets domestic tone as "stable operation, shifting to new and better quality" and flags geopolitical risks and AI on the external front. The report calls for "comprehensive use and timely adjustment of monetary policy tools," indicating a slightly more active policy bias. It urges guiding short-term funding rates to trade around the policy rate and promotes diversification of loan pricing benchmarks to lower financing costs. CITIC concludes the PBOC may continue to increase financial support for the real economy in the next phase.
 
 ---
 
@@ -19381,167 +19513,5 @@ Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi me
 ### 2026-08-13 03:31:51  #MKT News
 
 Real Estate Institute of New Zealand said July adjusted median house price fell 0.6% year-on-year.
-
----
-
-### 2026-08-13 03:31:24  #MKT News
-
-New Zealand real estate association said seasonally adjusted median house price fell 0.5% month-on-month in July.
-
----
-
-### 2026-08-13 03:30:41  #公司
-
-據知情人士透露，派拉蒙已商討為CNN設立一個編輯委員會以及其他保障措施，以化解外界對該媒體新聞編輯獨立性的擔憂。相關磋商據稱早於那起反壟斷訴訟，該訴訟旨在阻撓派拉蒙計劃以810億美元收購CNN母公司華納兄弟探索公司。
-
----
-
-### 2026-08-13 03:30:06  #MKT News
-
-US Defense Secretary Hegseth said Colombia will join a US-led coalition against drug cartels and be authorized to conduct joint military operations with US forces.
-
----
-
-### 2026-08-13 03:29:00  #公司 #國際
-
-美國防長赫格塞思：哥倫比亞將加入美國反販毒集團聯盟，授權與美國開展聯合軍事行動。
-
----
-
-### 2026-08-13 03:27:58  #MKT News
-
-【International oil prices tick up on 12th】At the close on the 12th, NYMEX September WTI rose $0.07 to $83.27/bbl (+0.08%); ICE October Brent rose $0.07 to $88.98/bbl (+0.08%).
-
----
-
-### 2026-08-13 03:27:38  #市場
-
-【國際油價12日微漲】國際油價12日微漲。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲7美分，收於每桶83.27美元，漲幅為0.08%；10月交貨的倫敦布倫特原油期貨價格上漲7美分，收於每桶88.98美元，漲幅為0.08%。
-
----
-
-### 2026-08-13 03:27:37  #MKT News
-
-U.S. Secretary of Defense Hegseth urged Latin American allies in Panama to withdraw from the International Criminal Court.
-
----
-
-### 2026-08-13 03:26:44  #國際
-
-美國國防部長赫格塞思在巴拿馬發表講話，呼籲拉美盟友退出國際刑事法院。
-
----
-
-### 2026-08-13 03:26:09  #國際
-
-美國防長赫格塞思：美國的藥物過量致死案例已大幅下降。芬太尼流入量大幅減少。我國西南邊境的非法越境人數已降至零。美國城市謀殺率處於近代歷史最低點，犯罪率出現歷史性下降。
-
----
-
-### 2026-08-13 03:25:35  #國際
-
-伊拉克議會安全與國防委員會議員：一個親伊朗的伊拉克武裝組織每月透過卡車向伊朗轉移約4億美元現金。
-
----
-
-### 2026-08-13 03:24:12  #其他
-
-【哥倫比亞強震遇難人數升至241人】哥倫比亞媒體引述哥倫比亞國家災害風險管理局12日釋出的資料顯示，10日在該國西部發生的7.4級強震已造成241人死亡、3771人受傷。
-
----
-
-### 2026-08-13 03:22:59  #MKT News #Market Regions #Europe & UK
-
-Market news: Minouche Shafik, a former Bank of England deputy governor and IMF director, has stepped down as the UK prime minister's chief economic adviser.
-
----
-
-### 2026-08-13 03:20:50  #其他
-
-米努什·沙菲克卸任英國首相首席經濟顧問。
-
----
-
-### 2026-08-13 03:19:27  #國際
-
-【美軍稱已使59艘商船改變航線】當地時間8月12日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月12日，已經使59艘商業船隻改道，使3艘船隻失去行動能力，並登臨檢查2艘船隻。
-
----
-
-### 2026-08-13 03:18:59  #宏觀 #國際
-
-【美國7月預算赤字激增 聯邦支出加速增長】由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元，再次凸顯政府借款需求持續上升。美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。
-
----
-
-### 2026-08-13 03:08:16  #MKT News
-
-CENTCOM said as of local time Aug 12 US forces have forced 59 merchant vessels to divert, disabled three vessels and boarded and inspected two.
-
----
-
-### 2026-08-13 03:06:44  #國際
-
-加拿大和美國尚未準備好達成關稅協議，加方對美方最新提案表示不滿。
-
----
-
-### 2026-08-13 03:05:53  #其他
-
-美軍中央司令部：截至8月12日，美軍已對59艘商船實施改道，使3艘商船喪失航行能力，並登檢2艘商船，確保各方完全遵守封鎖規定。
-
----
-
-### 2026-08-13 03:05:21  #MKT News
-
-Canada and the United States are not ready to conclude a tariff agreement; Canada says it is dissatisfied with the US's latest proposal.
-
----
-
-### 2026-08-13 03:04:51  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Persian Gulf Strait Authority said US officials' repeated claims that the Strait of Hormuz is no longer obstructed do not change the facts: the strait remains blocked and will not reopen unless Iran's conditions are accepted.
-
----
-
-### 2026-08-13 03:03:30  #其他
-
-阿曼和沙烏地阿拉伯推出“安全綠色陸地走廊”，經魯卜哈利沙漠公路連線蘇哈爾港與SPARK內陸幹港，沙特境內路段約564公里，建設費用約5.33億美元。該專案旨在降低成本、加快貨物轉運，並繞開海上航運要道。
-
----
-
-### 2026-08-13 03:01:53  #國際
-
-伊朗波斯灣水道管理局：霍爾木茲海峽仍處於封鎖狀態，在伊朗提出的條件得到滿足之前不會重新開放。
-
----
-
-### 2026-08-13 03:00:42  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures closed the night session down 0.35% at 25,320, trading 120 points below the cash index.
-
----
-
-### 2026-08-13 03:00:01  #市場
-
-恒指期貨夜盤收跌0.35%，報25318.72點，低水121.45點。
-
----
-
-### 2026-08-13 02:54:22  #MKT News #PSKY.O #Impact bullish
-
-Paramount (PSKY.O) trading volume surged; shares up 2.61%.
-
----
-
-### 2026-08-13 02:52:08  #MKT News
-
-Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to ensure CNN's independence.
-
----
-
-### 2026-08-13 02:49:03  #其他
-
-市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。
 
 ---
