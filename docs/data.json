@@ -1,7 +1,180 @@
 {
-  "updated": "2026-08-19 14:58:22",
-  "count": 15263,
+  "updated": "2026-08-19 15:03:05",
+  "count": 15258,
   "items": [
+    {
+      "id": "mkt:01a018d3-7833-7aab-908d-8fe284a14bef",
+      "time": "2026-08-19 15:01:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Equity index futures midday close】At midday, China's equity index futures main contracts were lower: CSI 300 (IF) -2.38%, SSE 50 (IH) -1.42%, CSI 500 (IC) -3.78%, CSI 1000 (IM) -4.26%."
+    },
+    {
+      "id": "5047190",
+      "time": "2026-08-19 15:01:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：銀行ETF漲3.34%，科創機械ETF領跌9.24%】ETF收盤漲跌不一，杭州灣區ETF（512870）領漲9.38%，溢價率13.95%，銀行ETF（159253）漲3.34%，銀行ETF（512730）漲2.13%，科創機械ETF（588850）領跌9.24%，機器人ETF（159272）跌9.21%，機器人ETF（159048）跌9.18%。"
+    },
+    {
+      "id": "mkt:01a018d3-2ca1-7aab-908d-8694f91d207c",
+      "time": "2026-08-19 15:01:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the mid-session close in China, most-active domestic futures were higher. Fuel oil led gains, up more than 6%; coking coal rose over 3%; starch and methanol were nearly 3% higher; asphalt, synthetic rubber, coke and corn each climbed over 2%. On the downside, Shanghai silver fell more than 4%; lithium carbonate dropped over 3%; platinum and palladium were about 3% lower."
+    },
+    {
+      "id": "5047189",
+      "time": "2026-08-19 15:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦強烈譴責以色列襲擊敘利亞】當地時間8月19日，巴基斯坦外交部通報，巴基斯坦強烈譴責以色列對敘利亞伊德利卜省阿布杜胡爾空軍基地發動的無端襲擊。此類挑釁行為公然違反國際法，並可能進一步破壞地區和平與穩定。巴基斯坦表示堅定聲援敘利亞人民，並重申全力支援敘利亞的主權和領土完整，以及敘利亞的和平與繁榮。（央視新聞）"
+    },
+    {
+      "id": "5047188",
+      "time": "2026-08-19 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌2.40%，深證成指跌5.01%，創業板指跌6.26%。"
+    },
+    {
+      "id": "mkt:01a018d2-c529-7aab-908d-7a8bfe5e3bef",
+      "time": "2026-08-19 15:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member REHN said keeping inflation expectations stable is crucial."
+    },
+    {
+      "id": "5047187",
+      "time": "2026-08-19 15:00:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達60億港元。"
+    },
+    {
+      "id": "5047186",
+      "time": "2026-08-19 15:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量1041億元。"
+    },
+    {
+      "id": "5047185",
+      "time": "2026-08-19 15:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球首項！我國牽頭制定的鋼鐵行業智慧製造國際標準釋出】記者今天瞭解到，我國牽頭制定的全球首項鋼鐵行業智慧製造領域國際標準《鋼鐵行業智慧製造指南》近日釋出。該國際標準由我國專家擔任專案負責人，匯聚日本、荷蘭、法國等多國專家協同參與、聯合研製，為全球鋼鐵行業的數字化轉型搭建起互聯互通的通用技術底座。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a018d1-fa6b-7aab-908d-733c20b70899",
+      "time": "2026-08-19 15:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde to attend Global Economic Outlook discussion in ten minutes."
+    },
+    {
+      "id": "5047184",
+      "time": "2026-08-19 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.8%，英國富時100指數漲0.07%，法國CAC40指數跌0.82%，歐洲斯托克50指數跌0.95%，義大利富時MIB指數跌1.06%。"
+    },
+    {
+      "id": "5047183",
+      "time": "2026-08-19 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】白銀連續跌4.14%，焦煤連續漲3.42%，燃料油連續漲3.29%，碳酸鋰連續跌3.01%，甲醇連續漲2.89%。"
+    },
+    {
+      "id": "5047182",
+      "time": "2026-08-19 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌4.25%， 滬深300指數期貨連續跌2.33%， 中證500指數期貨連續跌3.74%， 上證50指數期貨連續跌1.44%。"
+    },
+    {
+      "id": "5047181",
+      "time": "2026-08-19 14:59:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海鳳凰等成立新公司 含新能源原動裝置製造業務】企查查APP顯示，近日，江蘇鳳瑞機車科技有限公司成立，經營範圍包含：新能源原動裝置製造；電池製造；電池零配件生產；電池銷售；電池零配件銷售；新能源原動裝置銷售等。企查查股權穿透顯示，該公司由上海鳳凰等共同持股。"
+    },
+    {
+      "id": "mkt:01a018d1-0a66-7aab-908d-6dcede060d20",
+      "time": "2026-08-19 14:59:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Several broad-based ETFs surge in late trade; Huatai‑PineBridge CSI 300 ETF >3.0 bln yuan in final 30 mins】Multiple broad-based ETFs posted heavy late-session flows. The Huatai‑PineBridge CSI 300 ETF traded over 3.0 bln yuan in the final 30 minutes. Southern’s CSI 1000 ETF, Southern’s CSI 500 ETF and GF Fund’s CSI 1000 ETF each traded more than 1.0 bln yuan in the last half hour."
+    },
+    {
+      "id": "5047180",
+      "time": "2026-08-19 14:59:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多隻寬基ETF顯著放量 滬深300ETF華泰柏瑞尾盤近半小時成交超30億元】尾盤多隻寬基ETF顯著放量，滬深300ETF華泰柏瑞（510300）尾盤近半小時成交超30億元，中證1000ETF南方（512100）、中證500ETF南方（510500）、中證1000ETF廣發（560010）尾盤半小時均成交超10億元。"
+    },
+    {
+      "id": "5047179",
+      "time": "2026-08-19 14:58:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：五角大樓評估減少在中東軍事存在】據多名要求匿名的知情人士18日向美國《華盛頓郵報》披露，五角大樓正就美軍在中東地區的軍事存在作非正式評估，其中一個關鍵領域是伊朗戰事結束後是否要從波斯灣撤軍。設在那裡的美軍基地在戰事中損毀嚴重，已有專家建議美軍將部隊和裝備西撤至約旦、以色列或沙特的紅海沿岸。（新華社）"
+    },
+    {
+      "id": "te:economy:576369",
+      "time": "2026-08-19 14:58:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Ireland 10Y Bond Yield Hits 12-1/2-year High — Ireland 10 Year Government Bond Yield increased to 3.46%, the highest since January 2014. Over the past 4 weeks, Ireland 10Y Bond Yield gained 8.04 basis points, and in the last 12 months, it increased 43.84 basis points."
+    },
+    {
+      "id": "mkt:01a018d0-230a-7aab-908d-628325e13486",
+      "time": "2026-08-19 14:58:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member REHN: wage growth and the wage outlook remain moderate; no clear signs of second‑round effects."
+    },
     {
       "id": "5047178",
       "time": "2026-08-19 14:56:13",
@@ -139722,250 +139895,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver touched $66/oz, up 2.06% intraday."
-    },
-    {
-      "id": "mkt:019ff4c7-f7eb-7aab-9002-9f6432f1f9b0",
-      "time": "2026-08-12 15:02:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC recorded a magnitude-3.6 earthquake at 14:57 on Aug 12 in Xinghai County, Hainan Prefecture, Qinghai (35.39N, 99.53E); focal depth 10 km."
-    },
-    {
-      "id": "5037035",
-      "time": "2026-08-12 15:02:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【平安證券：維持甘李藥業“推薦”評級，創新管線穩步推進】平安證券研報指出，甘李藥業加速海外戰略佈局，創新管線穩步推進。公司日前已與跨國生物製藥公司美納里尼集團（TheMenariniGroup，以下簡稱“Menarini”）簽署獨家許可協議。博凡格魯肽是甘李藥業自主研發的1類創新藥，該藥的核心競爭力在於其每兩週一次給藥的機制，相比傳統GLP-1RA周製劑注射頻次減少約50%，有望提升患者用藥依從性，助力患者長期體重管理。考慮到公司自2026年1月起增值稅由簡易徵收（3%）變更為一般計稅方法（13%），稅制口徑變化影響收入確認，但是公司加速海外佈局，創新管線陸續進入收穫期，調整2026-2028年盈利預測為歸母淨利潤14.53、16.89、24.54億元（原26、27年預測為15.30、18.34億元）。考慮到公司藉助胰島素續約加速國產替代步伐，海外佈局持續加速，維持“推薦”評級。"
-    },
-    {
-      "id": "mkt:019ff4c7-ca18-7aab-9002-90e094cfcf46",
-      "time": "2026-08-12 15:02:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China A‑share turnover CNY 2.1524 trillion on Aug 12; Zhongji Xuchuang highest turnover】Shanghai and Shenzhen traded CNY 2.1524 trillion in aggregate on Aug 12, down CNY 168.56 bln from the prior session. Shanghai turnover was CNY 986.12 bln (prev. CNY 1,066.74 bln), volume 503 mln lots (prev. 529 mln). Shenzhen turnover was CNY 1,166.30 bln (prev. CNY 1,254.25 bln), volume 625 mln lots (prev. 643 mln). Top stock by turnover was Zhongji Xuchuang at CNY 28.41 bln, followed by Changxin Technology CNY 27.16 bln, Xinyisheng CNY 18.75 bln, Zhaoyi Innovation CNY 18.75 bln and Dongshan Precision CNY 15.71 bln."
-    },
-    {
-      "id": "mkt:019ff4c7-9502-7aab-9002-8d14f1e7f3db",
-      "time": "2026-08-12 15:02:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Aug 12 (Wed) European cash open: Germany DAX +55.72 pts (+0.21%) at 26,451.09; UK FTSE 100 -0.55 pts (-0.01%) at 10,843.64; France CAC 40 +4.19 pts (+0.05%) at 8,719.13; Euro Stoxx 50 +17.93 pts (+0.27%) at 6,569.15; Spain IBEX 35 +60.38 pts (+0.30%) at 20,273.98; Italy FTSE MIB +171.79 pts (+0.32%) at 53,878.00."
-    },
-    {
-      "id": "5037034",
-      "time": "2026-08-12 15:01:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴斯夫股份公司：巴斯夫農業解決方案部門將投入數千萬歐元，在其位於林伯格霍夫的總部新建一座氣候研究中心。"
-    },
-    {
-      "id": "mkt:019ff4c6-bb5f-7aab-9002-855d871dfedd",
-      "time": "2026-08-12 15:01:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Street forecasts for US July CPI and core CPI YoY】US unadjusted July CPI YoY prior 3.5%; market consensus ~3.4%. Surveyed institutions cluster between 3.3–3.4% (many at 3.3% or 3.4%); a small number expect 3.5–3.6% at the high end. US unadjusted July core CPI YoY prior 2.6%; consensus ~2.5%. Most forecasts sit 2.4–2.5%, with a few outliers at 2.6–2.8%."
-    },
-    {
-      "id": "5037033",
-      "time": "2026-08-12 15:01:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：房地產ETF領漲4.97%，巴西ETF跌2.48%】ETF收盤漲跌不一，房地產ETF（159768）領漲4.97%，地產ETF（159707）漲4.66%，房地產ETF（512200）漲4.18%，石油ETF（159189）領跌2.87%，巴西ETF（520870）跌2.48%，港股網際網路ETF（513770）跌2.36%。"
-    },
-    {
-      "id": "mkt:019ff4c6-b11a-7aab-9002-7ef032d7ffc0",
-      "time": "2026-08-12 15:01:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【China stock index futures midday close】At the midday close, China stock index futures: CSI 300 (IF) main contract up 0.30%, SSE 50 (IH) up 0.05%, CSI 500 (IC) up 0.53%, CSI 1000 (IM) up 0.79%."
-    },
-    {
-      "id": "5037032",
-      "time": "2026-08-12 15:01:24",
-      "tags": [
-        "公司",
-        "資料",
-        "觀點",
-        "國際"
-      ],
-      "text": "【機構前瞻美國7月CPI及核心CPI年率】美國7月未季調CPI年率（前值：+3.5%，預期值：+3.4%）\n1. 澳新銀行：+3.3%；凱投宏觀：+3.3%；花旗集團：+3.3%；聯信銀行：+3.3%；斯巴達資本：+3.3%；\n2. 三井住友：+3.3%；先鋒領航：+3.3%；加皇銀行：+3.3%；法巴銀行：+3.4%；巴克萊銀行：+3.4%；\n3. 滙豐控股：+3.4%；美銀美林：+3.4%；德商銀行：+3.4%；星展銀行：+3.4%；丹斯克銀行：+3.4%；\n4. 高盛集團：+3.4%；貝倫貝格：+3.4%；高頻經濟：+3.4%；荷蘭國際：+3.4%；勞埃德銀行：+3.4%；\n5. 法興銀行：+3.4%；渣打銀行：+3.4%；北歐斯安：+3.4%；摩根大通：+3.4%；摩根士丹利：+3.4%；\n6. 瑞銀集團：+3.4%；裕信銀行：+3.4%；富國銀行：+3.4%；野村證券：+3.4%；國民西敏寺：+3.4%；\n7. 道明證券：+3.4%；帝商銀行：+3.4%；豐業銀行：+3.5%；蒙特利爾：+3.5%；斯蒂菲爾：+3.6%。\n美國7月未季調核心CPI年率（前值：+2.6%，預期值：+2.5%）\n1. 凱投宏觀：+2.4%；花旗集團：+2.4%；高頻經濟：+2.4%；野村證券：+2.4%；道明證券：+2.4%；\n2. 澳新銀行：+2.5%；蒙特利爾：+2.5%；法巴銀行：+2.5%；美銀美林：+2.5%；巴克萊銀行：+2.5%；\n3. 德商銀行：+2.5%；高盛集團：+2.5%；滙豐控股：+2.5%；帝商銀行：+2.5%；丹斯克銀行：+2.5%；\n4. 荷蘭國際：+2.5%；摩根大通：+2.5%；渣打銀行：+2.5%；富國銀行：+2.5%；國民西敏寺：+2.5%；\n5. 三井住友：+2.5%；北歐斯安：+2.5%；勞埃德銀行：+2.5%；法興銀行：+2.5%；斯巴達資本：+2.5%；\n6. 瑞銀集團：+2.5%；裕信銀行：+2.5%；摩根士丹利：+2.5%；豐業銀行：+2.6%；斯蒂菲爾：+2.8%。"
-    },
-    {
-      "id": "5037031",
-      "time": "2026-08-12 15:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華創證券：燃機迎全球景氣週期 國產供應商有望加速實現全球化替代】華創證券釋出研報稱，AI資料中心建設、電力供需矛盾加劇以及海外能源基礎設施升級，共同推動燃氣輪機進入新一輪成長週期。短期看，海外龍頭訂單增長帶動產業鏈景氣提升;長期看，國產供應商憑藉製造優勢和技術突破，有望加速實現全球化替代。建議關注燃機OEM、燃機整機、核心零部件以及HRSG環節標的。"
-    },
-    {
-      "id": "5037030",
-      "time": "2026-08-12 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.32%，深證成指漲1.09%，創業板指漲1.49%。"
-    },
-    {
-      "id": "mkt:019ff4c6-43ec-7aab-9002-7514d9ea7694",
-      "time": "2026-08-12 15:01:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At the midday close, China's main futures were mixed: polysilicon rose >4%, fuel oil gained >3%, lithium carbonate and Europe-route container freight nearly 3%, low-sulfur fuel oil (LU), synthetic rubber and coking coal >2%, and Shanghai silver about 2% higher. Decliners included glass nearly 2% lower, urea and palladium down >1%, and live hogs about 1% lower."
-    },
-    {
-      "id": "5037029",
-      "time": "2026-08-12 15:00:57",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：創業板指低開高走漲1.49%，大消費股午後活躍】A股三大指數今日集體上漲，截至收盤，上證指數漲0.32%，深證成指漲1.09%，創業板指漲1.49%，北證50漲0.23%，科創50指數漲1.61%。全市場成交額21672億元，較上日縮量1684億元，全市場超4100只個股上漲。板塊題材上，房地產、光纖概念、CPO、通訊裝置、教育板塊漲幅居前；油氣開採及服務、可燃冰、芬太尼、煤炭開採加工板塊跌幅居前。盤面上，房地產板塊午後持續拉昇，濱江集團、城建發展、榮盛發展、中交發展、首開股份等股漲停，特發服務、華遠控股、招商蛇口漲幅居前。光纖概念全天強勢，長進光子、炬光科技20cm漲停，至純科技、通鼎互聯、永鼎股份漲停，長盈通、致尚科技、光庫科技漲幅居前。食品加工製造板塊午後衝高，安吉影片、好想你、百合股份獲漲停，蓋世食品、蓮花控股、一致魔芋、朱老六漲幅居前。油氣開採及服務板塊全天低迷，首華燃氣、通源石油、科力股份跌幅居前。"
-    },
-    {
-      "id": "mkt:019ff4c6-155b-7aab-9002-69322fbdaa37",
-      "time": "2026-08-12 15:00:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【UBS preview July US CPI: DISINFLATION likely but inflation remains elevated】UBS global research economist Jonathan Pingel says US July inflation YoY is expected to ease, but the pace should remain well above pre-Iran-conflict levels and above last year’s rate, implying overall inflation remains elevated despite recent moderation. UBS expects core inflation to firm after an unexpectedly weak June reading, led by a rebound in core non-shelter services, with transport, medical and telecom services prices reverting to normal faster-paced increases."
-    },
-    {
-      "id": "te:markets:574663",
-      "time": "2026-08-12 15:00:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Siemens Energy Stock Price Hits 5-week High — Siemens Energy shares increased to 161.58 EUR, the highest since July 2026. Over the past 4 weeks, Siemens Energy AG gained 6.23%, and in the last 12 months, it increased 62.54%."
-    },
-    {
-      "id": "5037028",
-      "time": "2026-08-12 15:00:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿聯酋投入4億美元維修 力爭明年一季度將鋁產量恢復至戰前水平】阿聯酋公司Emirates Global Aluminium計劃在伊朗3月襲擊致其主要冶煉廠停產後，於明年初恢復生產，或有助於緩解因供應短缺而價格飆升的鋁市場壓力。EGA表示，公司正投入4億美元用於維修，力爭在明年第一季度將產量恢復至戰前水平，同時正努力加快這一進度。這將提振該地區的鋁供應前景——衝突前該地區約佔全球產量的10%。這家中東最大鋁生產商周三在宣告中稱，即便產量恢復，後續發貨仍將取決於霍爾木茲海峽的重新開放。自2月底美國和以色列襲擊伊朗以來，這個位於波斯灣入口的關鍵咽喉要道基本上一直處於關閉狀態。"
-    },
-    {
-      "id": "5037027",
-      "time": "2026-08-12 15:00:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達20億港元。"
-    },
-    {
-      "id": "5037026",
-      "time": "2026-08-12 15:00:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指收盤上漲0.6%，至6366.64點。"
-    },
-    {
-      "id": "5037025",
-      "time": "2026-08-12 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲0.26%，英國富時100指數跌0.17%，法國CAC40指數跌0.13%，歐洲斯托克50指數漲0.24%，義大利富時MIB指數漲0.08%。"
-    },
-    {
-      "id": "5037024",
-      "time": "2026-08-12 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】多晶矽連續漲4.26%，碳酸鋰連續漲2.97%，丁二烯橡膠連續漲2.76%，集運指數歐線期貨連續漲2.75%，低硫燃料油連續漲2.57%，燃料油連續漲2.49%，焦煤連續漲2.22%。"
-    },
-    {
-      "id": "5037023",
-      "time": "2026-08-12 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.79%， 滬深300指數期貨連續漲0.30%， 中證500指數期貨連續漲0.53%， 上證50指數期貨連續漲0.05%。"
-    },
-    {
-      "id": "te:economy:574662",
-      "time": "2026-08-12 14:59:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "US Inflation Rate Expected to Slow for 2nd Month — The annual inflation rate in the US is expected to slow for a second consecutive month to 3.4% in July 2026, from 3.5% in June, easing further from the 2023 high of 4.2% reached in May. On a monthly basis, the CPI is forecast to rise 0.1%, rebounding from a 0.4% decline in June, which marked the first monthly drop since May 2020. Gasoline prices are expected to have fallen nearly 3%, while airfares and jet fuel prices are also likely to have declined. New and used car prices, meanwhile, could see a slight uptick. Core consumer prices are expected to rise 0.2%, following a flat reading in June, while the annual core inflation rate is seen easing to 2.5% from 2.6% in the previous month. That would mark the smallest annual increase since February. Overall, the CPI report is likely to point to a further cooling in energy-related price pressures that intensified in the months immediately following the start of the US war with Iran."
-    },
-    {
-      "id": "5037022",
-      "time": "2026-08-12 14:59:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黑海港口頻頻遇襲 俄羅斯8月糧食出口量或降至十年來最低水平】行業分析師警告稱，由於黑海商船襲擊事件不斷升級，俄羅斯8月份糧食出口量可能降至十年來的最低水平。農業諮詢公司SovEcon預測，俄羅斯本月將出口300萬至340萬噸小麥——遠低於過去五年8月的500萬噸平均水平，並有可能創下自2016/17農業季以來小麥出口總量的最低紀錄。"
-    },
-    {
-      "id": "5037021",
-      "time": "2026-08-12 14:58:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中期選舉腳步漸近 特朗普醞釀“大招”：據悉考慮削減資本利得稅】隨著美國11月中期選舉腳步漸近，近日民調支援率持續下跌的美國總統特朗普正醞釀新一輪稅收刺激政策，以吸引選民支援，從而保住共和黨在美國參、眾兩院的控制權。據媒體週二援引白宮高階經濟顧問及前政府官員報道，特朗普目前正考慮呼籲國會削減資本利得稅，並考慮對特定房產銷售給予稅務豁免。曾在特朗普第一任期內領導白宮國家經濟委員會的庫德洛表示，他近期曾與總統討論資本利得稅通脹指數化問題，特朗普對此持開放態度。"
     }
   ]
 }
