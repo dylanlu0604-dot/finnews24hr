@@ -1,7 +1,89 @@
 {
   "date": "2026-08-19",
-  "count": 1213,
+  "count": 1222,
   "items": [
+    {
+      "id": "mkt:01a018a3-1a49-7aab-908c-055885e5ca16",
+      "time": "2026-08-19 14:08:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Lithium carbonate most-active contract fell more than 4.00% intraday, now quoted at 149,120 yuan/ton."
+    },
+    {
+      "id": "5047101",
+      "time": "2026-08-19 14:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：向美軍提供任何便利都等同於協同美軍行動】當地時間8月19日，伊朗武裝力量總參謀長阿里·阿卜杜拉希在社交平臺表示，波斯灣南部沿岸各國雖曾發表宣告，聲稱不會允許美國利用其領土攻擊伊朗，但大量軍用飛機（尤其是加油機）出現在該地區的基地內，所在國不可能毫不知情，伊朗對所有動向都瞭如指掌。阿卜杜拉希警告稱，任何向美軍提供的援助與便利，都等同於與美軍協同行動。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a018a2-4310-7aab-908b-fad5bd63e966",
+      "time": "2026-08-19 14:08:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Top private funds lift equity exposure above 88% amid buy-the-dip activity】As of Aug 14 the equity private‑fund exposure index stood at 83.97%, up marginally week‑on‑week. 70.39% of equity private funds are >80% invested; 17.87% at 50–80%; 7.75% at 20–50%; 3.99% below 20%. Positioning shows clear buy‑the‑dip behavior: during July’s sharp tech sell‑off managers increased exposure for five consecutive weeks, rising from 82.0% on June 26 to a year‑to‑date peak of 84.53% on July 31. After a strong market rebound in the first week of August funds slowed adding and exposure fell to 83.88%, but positions ticked up again in the second week as volatility resumed, led by large private‑fund buying."
+    },
+    {
+      "id": "te:economy:576345",
+      "time": "2026-08-19 14:07:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "UK Inflation Rises to 4-Month High — The annual inflation rate in the UK rose to 2.9% in July 2026, the highest in four months, from 2.6% in June and in line with market expectations. The largest upward contribution came from housing and household services (4.1% vs 2.7% in June), particularly gas and electricity. Prices of furniture and household goods (1% vs -0.2%) and clothing and footwear rebounded (0.5% vs -0.5%). On a monthly basis, the CPI increased 0.3%, following a 0.1% rise in the previous month."
+    },
+    {
+      "id": "mkt:01a018a1-77de-7aab-908b-f47f3de6e53c",
+      "time": "2026-08-19 14:07:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Yushu trading value exceeded 20 bln yuan; gains eased to 463.66% and the stock traded at 850 yuan."
+    },
+    {
+      "id": "5047100",
+      "time": "2026-08-19 14:07:06",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "N宇樹成交額破200億元，漲幅回落至463.66%，股價現報850元。"
+    },
+    {
+      "id": "mkt:01a018a0-f972-7aab-908b-eec6ec308c6c",
+      "time": "2026-08-19 14:06:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's SK Hynix shares extended losses to 10% at the close."
+    },
+    {
+      "id": "5047099",
+      "time": "2026-08-19 14:05:39",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至10%，晶片拋售潮加劇。"
+    },
     {
       "id": "5047098",
       "time": "2026-08-19 14:04:43",
@@ -90,6 +172,15 @@
         "國際"
       ],
       "text": "【日本核電站因事故或將推遲重啟】北海道電力公司表示，週二晚間，一名工人在泊核電站3號機組作業時，不慎跌入一個用於建造海堤的礫石筒倉內身亡。據報道，該公司此前計劃於2027年12月中旬重啟該反應堆。北海道電力公司在7月份表示，正在考慮泊核電站重啟的各種方案。北海道電力公司發言人稱，公司將在事故調查結束後“重新考慮重啟日期”。泊核電站是日本北海道島上唯一的核電站。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608193846075023",
+      "time": "2026-08-19 14:01:29",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國7月CPI環比增長0.3%，預期0.3%，前值0.1%。"
     },
     {
       "id": "mkt:01a0189c-2e96-7aab-908b-c7fd44f8b98a",

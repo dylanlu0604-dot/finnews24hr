@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-19 14:05:40",
-  "count": 15280,
+  "updated": "2026-08-19 14:09:35",
+  "count": 15281,
   "items": [
+    {
+      "id": "mkt:01a018a3-1a49-7aab-908c-055885e5ca16",
+      "time": "2026-08-19 14:08:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Lithium carbonate most-active contract fell more than 4.00% intraday, now quoted at 149,120 yuan/ton."
+    },
+    {
+      "id": "5047101",
+      "time": "2026-08-19 14:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：向美軍提供任何便利都等同於協同美軍行動】當地時間8月19日，伊朗武裝力量總參謀長阿里·阿卜杜拉希在社交平臺表示，波斯灣南部沿岸各國雖曾發表宣告，聲稱不會允許美國利用其領土攻擊伊朗，但大量軍用飛機（尤其是加油機）出現在該地區的基地內，所在國不可能毫不知情，伊朗對所有動向都瞭如指掌。阿卜杜拉希警告稱，任何向美軍提供的援助與便利，都等同於與美軍協同行動。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a018a2-4310-7aab-908b-fad5bd63e966",
+      "time": "2026-08-19 14:08:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Top private funds lift equity exposure above 88% amid buy-the-dip activity】As of Aug 14 the equity private‑fund exposure index stood at 83.97%, up marginally week‑on‑week. 70.39% of equity private funds are >80% invested; 17.87% at 50–80%; 7.75% at 20–50%; 3.99% below 20%. Positioning shows clear buy‑the‑dip behavior: during July’s sharp tech sell‑off managers increased exposure for five consecutive weeks, rising from 82.0% on June 26 to a year‑to‑date peak of 84.53% on July 31. After a strong market rebound in the first week of August funds slowed adding and exposure fell to 83.88%, but positions ticked up again in the second week as volatility resumed, led by large private‑fund buying."
+    },
+    {
+      "id": "te:economy:576345",
+      "time": "2026-08-19 14:07:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "UK Inflation Rises to 4-Month High — The annual inflation rate in the UK rose to 2.9% in July 2026, the highest in four months, from 2.6% in June and in line with market expectations. The largest upward contribution came from housing and household services (4.1% vs 2.7% in June), particularly gas and electricity. Prices of furniture and household goods (1% vs -0.2%) and clothing and footwear rebounded (0.5% vs -0.5%). On a monthly basis, the CPI increased 0.3%, following a 0.1% rise in the previous month."
+    },
+    {
+      "id": "mkt:01a018a1-77de-7aab-908b-f47f3de6e53c",
+      "time": "2026-08-19 14:07:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Yushu trading value exceeded 20 bln yuan; gains eased to 463.66% and the stock traded at 850 yuan."
+    },
+    {
+      "id": "5047100",
+      "time": "2026-08-19 14:07:06",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "N宇樹成交額破200億元，漲幅回落至463.66%，股價現報850元。"
+    },
+    {
+      "id": "mkt:01a018a0-f972-7aab-908b-eec6ec308c6c",
+      "time": "2026-08-19 14:06:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's SK Hynix shares extended losses to 10% at the close."
+    },
+    {
+      "id": "5047099",
+      "time": "2026-08-19 14:05:39",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至10%，晶片拋售潮加劇。"
+    },
     {
       "id": "5047098",
       "time": "2026-08-19 14:04:43",
@@ -90,6 +172,15 @@
         "國際"
       ],
       "text": "【日本核電站因事故或將推遲重啟】北海道電力公司表示，週二晚間，一名工人在泊核電站3號機組作業時，不慎跌入一個用於建造海堤的礫石筒倉內身亡。據報道，該公司此前計劃於2027年12月中旬重啟該反應堆。北海道電力公司在7月份表示，正在考慮泊核電站重啟的各種方案。北海道電力公司發言人稱，公司將在事故調查結束後“重新考慮重啟日期”。泊核電站是日本北海道島上唯一的核電站。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608193846075023",
+      "time": "2026-08-19 14:01:29",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國7月CPI環比增長0.3%，預期0.3%，前值0.1%。"
     },
     {
       "id": "mkt:01a0189c-2e96-7aab-908b-c7fd44f8b98a",
@@ -140028,79 +140119,6 @@
         "Importance 1"
       ],
       "text": "German July Inflation Confirmed at 3-Month High of 2.8% — Germany's annual inflation rate accelerated to 2.8% in July 2026, confirming preliminary estimates, up from 2.3% in June. It was the highest reading since April, driven by a sharp rise in energy inflation to 8.3% from 3.4%, as renewed Middle East tensions pushed oil prices higher. Meanwhile, services inflation eased to 2.9% from 3.1%, while food inflation remained unchanged at 0.4%. Core inflation, which excludes energy and unprocessed food, inched down to 2.4% from 2.5%. On a monthly basis, consumer prices rose 0.8% in July, rebounding from a 0.3% fall in June. The EU-harmonized inflation rate also accelerated to 2.8%, its highest level in three months and well above the European Central Bank's 2.0%"
-    },
-    {
-      "id": "te:economy:574629",
-      "time": "2026-08-12 14:09:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machine Tool Orders",
-        "Importance 1"
-      ],
-      "text": "Japan Machine Tool Orders Surge 50.4% in July — Japan’s machine tool orders climbed by 50.4% year-on-year to JPY 193,102 million in July 2026, following a 52.8% surge in the previous month. The increase reflected robust demand across both domestic and overseas markets. Foreign orders rose 50.5% year-on-year to JPY 139,864 million, following a 56.0% increase in June, while domestic orders advanced 50.2% to JPY 53,238 million, after rising 45.5% in the previous month. On a monthly basis, total machine tool orders declined 5.1% in July, reversing sharply from a 15% increase in June. For the first seven months of the year, machine tool orders totaled JPY 1,248,243 million, up 37.8% from the corresponding period a year earlier, with foreign and domestic orders increasing 42.3% and 26.5%, respectively."
-    },
-    {
-      "id": "5036927",
-      "time": "2026-08-12 14:08:35",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【財政部擬發行2026年記賬式貼現（五十期）國債】本期國債為期限91天的貼現債。本期國債競爭性招標面值總額300億元，進行甲類成員追加投標。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本期國債自2026年8月13日開始計息，於2026年11月12日（節假日順延）按面值償還。"
-    },
-    {
-      "id": "5036926",
-      "time": "2026-08-12 14:08:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼森林火災激增 厄爾尼諾推高幹旱風險】印度尼西亞正迎戰森林火災的激增，正在形成中的厄爾尼諾現象則可能給旱季高峰期帶來更乾燥天氣，從而加劇火災風險。林業部火點監測平臺SiPongi錄得本月迄今共1,612個火點，較整個7月的758個大幅跳升。這已是三年來8月最高讀數，而火情通常會在9月達到峰值。"
-    },
-    {
-      "id": "mkt:019ff496-1943-7aab-9001-2982ca02d32d",
-      "time": "2026-08-12 14:08:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "【Ministry of Finance plans to issue 2026 book-entry discount Treasury bond (Series 50)】91-day book-entry discount Treasury bond. Competitive tender total nominal 30.0 bln yuan; additional bids accepted from Category A members. Issue price to be set by competitive tender and issued at a discount to par. Accrues from Aug 13, 2026; redeemed at par on Nov 12, 2026 (holiday-adjusted)."
-    },
-    {
-      "id": "5036925",
-      "time": "2026-08-12 14:07:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中汽協：中國汽車出口之所以能夠保持高速增長，主要是中國擁有全球最完整的汽車產業鏈】中國汽車工業協會相關負責人表示，中國汽車出口之所以能夠保持高速增長，主要是中國擁有全球最完整的汽車產業鏈。從鋰礦加工、電池製造、電機電控到整車組裝，不僅產能充足、成本可控，而且供應鏈抗風險能力強。此外，我國汽車產業的智慧化形成了核心競爭力，智慧駕駛、座艙互動等功能能夠快速迭代，精準適配海外使用者的需求。中國汽車工業協會副秘書長陳士華表示，綜合來看，當前我國汽車市場呈現出“內需承壓、外貿強勁”的特徵，出口正在成為穩住行業大盤的關鍵力量和核心增長引擎。（央視新聞）"
-    },
-    {
-      "id": "5036924",
-      "time": "2026-08-12 14:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國政府12日表示，將向哥倫比亞地震災區提供100萬美元的人道主義援助。"
-    },
-    {
-      "id": "5036923",
-      "time": "2026-08-12 14:06:17",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【多隻地產ETF漲超4％】午後房地產板塊持續拉昇，地產ETF華寶（159707）、房地產ETF銀華（159768）、房地產ETF華夏（515060）漲超4％，此前濱江集團漲停，招商蛇口、新城控股等大幅拉昇。"
-    },
-    {
-      "id": "5036922",
-      "time": "2026-08-12 14:06:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明12日在總統府青瓦臺首次接見新任美國駐韓大使米歇爾·斯蒂爾，並對其履新表示歡迎。"
     }
   ]
 }
