@@ -1,7 +1,44 @@
 {
   "date": "2026-08-20",
-  "count": 248,
+  "count": 252,
   "items": [
+    {
+      "id": "mkt:01a01b63-f590-7aab-90a0-7799ca14b278",
+      "time": "2026-08-20 02:58:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to correspondence, the US will provide $206 million to fund a Gaza peacekeeping force."
+    },
+    {
+      "id": "mkt:01a01b63-8c90-7aab-90a0-6aa77f013dd6",
+      "time": "2026-08-20 02:58:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【AI chip startup Fractile seeks $6.5bn valuation after ANTHROPIC order】Fractile is seeking about $600m in a new funding round at a $6.5bn pre-money valuation, people familiar with the matter said — more than six times its roughly $1bn valuation after a May round. The startup has reached a preliminary agreement to sell about $250m of AI inference chips to ANTHROPIC, with both sides planning to expand the partnership; the chips are expected to enter service in 2027. Fractile, founded in 2022, designs low-latency AI inference chips aimed at challenging NVIDIA’s dominance in AI hardware."
+    },
+    {
+      "id": "5048517",
+      "time": "2026-08-20 02:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "檔案顯示：美國將向加沙維和部隊提供2.06億美元資金。"
+    },
+    {
+      "id": "5048516",
+      "time": "2026-08-20 02:56:42",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財政部回購長期國債可能上不封頂 國庫券發行規模面臨更多變數】美國財政部擴大長期國債回購的決定使包括國庫券在內的短期證券發行前景變得更加複雜，因為市場預計財政部將透過發行短期國債為這項計劃融資。財政部計劃將“流動性支援型回購操作規模至少提高一倍”。而就在兩週前，該部還在季度再融資公告中表示，回購規模將維持不變，並預計隨著9月企業稅款流入，國庫券供應將出現季節性下降。週三的調整打亂了此前指引。由於擴大回購需要更多融資，而且回購規模沒有上限，財政部需要增加證券發行。"
+    },
     {
       "id": "mkt:01a01b60-729b-7aab-90a0-6667660b927b",
       "time": "2026-08-20 02:55:00",
