@@ -1,7 +1,118 @@
 {
   "date": "2026-08-19",
-  "count": 1005,
+  "count": 1016,
   "items": [
+    {
+      "id": "mkt:01a01831-5207-7aab-9089-4f236174ffdb",
+      "time": "2026-08-19 12:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NHSA: to gradually include high-use, overpriced drugs and consumables in collective procurement】The NHSA, in its explanation of the universal medical security ’15th Five-Year Plan’, said it will steadily expand national collective procurement of drugs and high-value medical consumables and promote province-led, nationwide-alliance purchasing. It will deepen procurement coverage in traditional Chinese medicine, biologics and medical consumables and gradually bring high-clinical-volume, excessively priced drugs and consumables into procurement to lower patient costs. The agency said it will optimize procurement rules, improve alignment between procured products and clinical demand, coordinate with drug regulators on quality assurance for winning products, promote fair competition and crack down on bid-rigging and collusion."
+    },
+    {
+      "id": "5046987",
+      "time": "2026-08-19 12:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "據英國《金融時報》：貝萊德旗下部門、橡樹資本取得 MBS 集團控制權。"
+    },
+    {
+      "id": "mkt:01a01830-e990-7aab-9089-438fc79e2a0b",
+      "time": "2026-08-19 12:04:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Oil-price shock pushes Asian bond inflows to four-month low in July】Foreign inflows into major Asian local-currency bond markets fell to a four-month low in July as an oil-price shock from the Middle East conflict prompted investor caution, regulators and bond-market associations said. Net foreign purchases of local bonds in India, Indonesia, Malaysia, South Korea and Thailand totaled $2.03 billion in July, the smallest monthly net buy since March. IIF data showed emerging-market debt still drew $26.7 billion in July on high yields, improving fundamentals and diversification demand, while EM equities saw $7.8 billion of outflows. Analysts and participants cited Asian economies’ sensitivity to rising energy costs as weighing on the region’s bond appeal."
+    },
+    {
+      "id": "mkt:01a01830-e1c2-7aab-9089-3f59d72cfb92",
+      "time": "2026-08-19 12:04:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Tencent",
+        "Meituan",
+        "Xiaomi",
+        "09888.HK",
+        "Impact bearish",
+        "01810.HK",
+        "Impact bullish",
+        "00700.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng +0.24%; Baidu down ~12% after results】Hong Kong stocks recovered from an early dip; the Hang Seng Index was up 0.24% at 25,533.38 at mid-session while the Hang Seng TECH Index fell 0.82% to 4,700.55. Semiconductors led sector declines; electronic components and communications shares were weaker. High-dividend names, oil & gas and mainland property stocks outperformed. Big movers: Baidu (09888.HK) fell nearly 12% after results; China Unicom (00762.HK) dropped 7.8% post-results. Larger declines included Juxing Legend (06683.HK) -13.3%, Huahong Hongli (01347.HK) and Cambridge Technology (06166.HK) down over 12%, UBTECH (09880.HK) -10%, Zhongji Xuchuang (03308.HK) and Yangtze Optical Fibre & Cable (06869.HK) down over 9%, GigaDevice (03986.HK), MINIMAX-W (00100.HK) and Kingboard Laminates (01888.HK) down more than 7%. On the upside, Xiaomi Group (01810.HK) rose about 7%, Meituan (03690.HK) gained over 3%, Agricultural Bank of China (01288.HK), CITIC Bank (00998.HK) and PetroChina (00857.HK) were up around 2%, while Pop Mart (09992.HK) and Tencent Holdings (00700.HK) rose just over 1%."
+    },
+    {
+      "id": "mkt:01a01830-9bdc-7aab-9089-319ab742d2ba",
+      "time": "2026-08-19 12:03:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China NHSA to push commercial medical insurance development】The National Healthcare Security Administration, in its interpretation of the 15th Five-Year Plan for universal medical security, said it will vigorously promote commercial medical insurance to complement basic medical insurance. It will guide differentiated development, support insurers in expanding product supply focused on unmet needs outside the basic medical insurance catalogue, prioritize broadly inclusive products and coverage that backs pharmaceutical innovation, and position commercial insurance as a supplementary tier within China’s multi-level medical security system."
+    },
+    {
+      "id": "mkt:01a0182f-9c60-7aab-9089-284268e8d24d",
+      "time": "2026-08-19 12:02:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NHSA to add long-term care coverage and fund-reserve metrics to 15th Five-Year targets】China's National Healthcare Security Administration, in its interpretation of the national health security 15th Five-Year plan, said it will carry forward several existing indicators into the 15th Five-Year development targets — basic medical insurance participation rate; fund payment ratio for inpatient expenses within the basic medical insurance catalogue; and share of drugs and high‑value medical consumables procured by public medical institutions via provincial platforms — to ensure continuity of implementation. It said, given reform tasks and fund sustainability requirements, it will also include the number of jurisdictions covered by long‑term care insurance pooling and the number of months of cumulative reserves payable by employee and resident basic medical insurance funds as development indicators."
+    },
+    {
+      "id": "5046986",
+      "time": "2026-08-19 12:02:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲0.24%，恒生科技指數跌0.82%】港股午間收盤，恒生指數漲0.24%，恒生科技指數跌0.82%。恒指港股通ETF銀華（159318）漲0.23%，港股通科技ETF鵬華（159751）跌0.77%。板塊方面，環保裝置、手機板塊漲幅靠前；航空貨運、儀器儀表板塊跌幅靠前。個股方面，香港中華煤氣漲7.22%，小米集團-W漲6.95%，再鼎醫藥漲5.03%，珞石機器人漲5.01%，新東方-S漲4.27%；嘉耀控股跌21.69%，天數智芯跌12.85%，真健康醫療-B跌12.77%，華虹宏力跌12.72%，劍橋科技跌12.18%。"
+    },
+    {
+      "id": "5046984",
+      "time": "2026-08-19 12:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拓竹科技組建團隊，進軍消費級UV印表機賽道】從拓竹科技獲悉，拓竹已啟動消費級UV印表機（紫外線光固化噴墨印表機）專案，已規劃十餘個崗位方向，覆蓋從噴頭驅動、波形與墨路，到材料驗證和軟體協同的完整研發鏈路。首批招聘崗位已上線官網。8月13日，拓竹已預熱鐳射產品R1。此次UV印表機專案的正式啟動，意味著拓竹將同時推動3D列印、鐳射加工、UV列印三大技術路線的發展，向個人智造版圖進發。 (科創板日報)"
+    },
+    {
+      "id": "5046983",
+      "time": "2026-08-19 12:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【強降雨引發四川2處地質災害 提前避險轉移21784人】從四川省地質災害防治指揮部辦公室獲悉，8月18日8時至8月19日8時，四川成都、自貢等地降大到暴雨，區域性大暴雨，最大降雨量為眉山市東坡區舒林村六組舒林站118毫米。強降雨引發2處地質災害，其中甘孜州九龍縣1處，受災道路已恢復通行；阿壩州汶川縣1處，造成國道350中斷，屬地交通運輸部門已落實管控措施，仍在開展搶通作業。截至今天（19日）7時，24小時內四川13個市（州）64個縣（市、區）共提前轉移避險21784人（其中比較多的有：涼山7346人、綿陽3174人、雅安2400人）。至此，入汛以來，四川全省共提前轉移避險1102694人次。"
+    },
+    {
+      "id": "5046982",
+      "time": "2026-08-19 12:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所上半年收入及其他收益167.0億港元，預估161.5億港元。香港交易所 上半年淨利潤105.7億港元，預估101.5億港元。"
+    },
+    {
+      "id": "5046981",
+      "time": "2026-08-19 12:01:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所第二季度收入及其他收益85.0億港元，預估79.1億港元。香港交易所 第二季度淨利潤53.8億港元，預估49.1億港元。"
+    },
     {
       "id": "mkt:01a0182e-418c-7aab-9089-26a26a950970",
       "time": "2026-08-19 12:01:19",
