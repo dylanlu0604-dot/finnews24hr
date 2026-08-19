@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20 04:13:59",
-  "count": 15677,
+  "updated": "2026-08-20 04:17:46",
+  "count": 15679,
   "items": [
+    {
+      "id": "5048587",
+      "time": "2026-08-20 04:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：路透調查顯示，美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 190 億立方英尺。"
+    },
+    {
+      "id": "5048586",
+      "time": "2026-08-20 04:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Webull第二季度調整後淨利潤為4320萬美元，去年同期為1540萬美元。"
+    },
+    {
+      "id": "mkt:01a01ba9-8056-7aab-90a2-1539a0ad6115",
+      "time": "2026-08-20 04:14:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【OpenAI to tighten safety processes for paying customers】OpenAI said it will tighten safety processes for paying customers and has begun testing \"private safety processing\", a system designed to detect risk patterns across multiple interactions rather than individual prompts and replies. The move targets risks that emerge as AI handles longer-horizon, more autonomous tasks and is intended to guard against malicious users and attacks by misaligned AI agents while remaining compatible with zero-data-retention—customer content will not be accessible to OpenAI. The feature is expected to roll out in September, accompanied by a technical white paper; early tests are underway with Microsoft and Databricks."
+    },
     {
       "id": "mkt:01a01ba4-6a47-7aab-90a2-0e572ca748a3",
       "time": "2026-08-20 04:09:14",
@@ -143650,14 +143678,6 @@
         "市場"
       ],
       "text": "【美元指數12日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於100.014。截至紐約匯市尾市，1歐元兌換1.1521美元，低於前一交易日的1.1540美元；1英鎊兌換1.3488美元，低於前一交易日的1.3503美元。1美元兌換159.49日元，高於前一交易日的159.26日元；1美元兌換0.8137瑞士法郎，高於前一交易日的0.8112瑞士法郎；1美元兌換1.3947加元，高於前一交易日的1.3920加元；1美元兌換9.5858瑞典克朗，高於前一交易日的9.5244瑞典克朗。"
-    },
-    {
-      "id": "5038113",
-      "time": "2026-08-13 04:14:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。"
     }
   ]
 }

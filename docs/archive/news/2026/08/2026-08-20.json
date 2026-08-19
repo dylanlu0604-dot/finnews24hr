@@ -1,7 +1,35 @@
 {
   "date": "2026-08-20",
-  "count": 351,
+  "count": 354,
   "items": [
+    {
+      "id": "5048587",
+      "time": "2026-08-20 04:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：路透調查顯示，美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 190 億立方英尺。"
+    },
+    {
+      "id": "5048586",
+      "time": "2026-08-20 04:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Webull第二季度調整後淨利潤為4320萬美元，去年同期為1540萬美元。"
+    },
+    {
+      "id": "mkt:01a01ba9-8056-7aab-90a2-1539a0ad6115",
+      "time": "2026-08-20 04:14:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【OpenAI to tighten safety processes for paying customers】OpenAI said it will tighten safety processes for paying customers and has begun testing \"private safety processing\", a system designed to detect risk patterns across multiple interactions rather than individual prompts and replies. The move targets risks that emerge as AI handles longer-horizon, more autonomous tasks and is intended to guard against malicious users and attacks by misaligned AI agents while remaining compatible with zero-data-retention—customer content will not be accessible to OpenAI. The feature is expected to roll out in September, accompanied by a technical white paper; early tests are underway with Microsoft and Databricks."
+    },
     {
       "id": "mkt:01a01ba4-6a47-7aab-90a2-0e572ca748a3",
       "time": "2026-08-20 04:09:14",
