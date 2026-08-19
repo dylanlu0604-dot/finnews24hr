@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-20 06:30:57",
-  "count": 15680,
+  "updated": "2026-08-20 06:34:46",
+  "count": 15676,
   "items": [
+    {
+      "id": "mkt:01a01c27-d5b1-7aab-90a2-e0f7153ca2c6",
+      "time": "2026-08-20 06:32:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports Japan's Ministry of Economy, Trade and Industry (METI) will seek ¥7.7 trillion in its FY2027 budget."
+    },
     {
       "id": "mkt:01a01c25-a149-7aab-90a2-dd50718561db",
       "time": "2026-08-20 06:30:23",
@@ -143673,51 +143683,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1%) and Gold (0.70%). Biggest loser is Aluminum Alloy (-0.66%)."
-    },
-    {
-      "id": "mkt:019ff81c-ead9-7aab-9013-f964dada4e5b",
-      "time": "2026-08-13 06:34:32",
-      "tags": [
-        "MKT News",
-        "F.N",
-        "Impact bullish"
-      ],
-      "text": "Ford Motor (F.N) plans to increase U.S. production of Lincoln models starting in 2030."
-    },
-    {
-      "id": "5038177",
-      "time": "2026-08-13 06:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果正洽談向出版商付費以改進人工智慧驅動的Siri。"
-    },
-    {
-      "id": "mkt:019ff81c-5f1d-7aab-9013-f3cbcd6876a3",
-      "time": "2026-08-13 06:33:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "Wall Street Journal sources say Apple (AAPL.O) is seeking new deals with publishers to use their content to develop its AI voice assistant Siri."
-    },
-    {
-      "id": "5038176",
-      "time": "2026-08-13 06:33:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果已就向合作出版商支付款項的九位數預算展開討論。"
-    },
-    {
-      "id": "5038175",
-      "time": "2026-08-13 06:31:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統德拉埃斯普列利亞宣佈地震後（該國）進入經濟緊急狀態。"
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
   "date": "2026-08-20",
-  "count": 441,
+  "count": 442,
   "items": [
+    {
+      "id": "mkt:01a01c27-d5b1-7aab-90a2-e0f7153ca2c6",
+      "time": "2026-08-20 06:32:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports Japan's Ministry of Economy, Trade and Industry (METI) will seek ¥7.7 trillion in its FY2027 budget."
+    },
     {
       "id": "mkt:01a01c25-a149-7aab-90a2-dd50718561db",
       "time": "2026-08-20 06:30:23",
