@@ -1,7 +1,38 @@
 {
   "date": "2026-08-20",
-  "count": 333,
+  "count": 336,
   "items": [
+    {
+      "id": "mkt:01a01b98-bf6e-7aab-90a1-d1974786c481",
+      "time": "2026-08-20 03:56:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Trump says Treasury’s Bessent may unveil Iran sanctions this week】Trump said Treasury Secretary Bessent may unveil major sanctions on Iran this week and that Bessent “won’t play games.” He said the US has “very tough” sanctions options and is monitoring developments. Trump added the Strait of Hormuz is currently open with many vessels transiting, a fact he said is underreported, but that transit speeds could slow going forward."
+    },
+    {
+      "id": "5048572",
+      "time": "2026-08-20 03:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：我們將繼續為前沿模型提供零資料留存服務。隨著人工智慧承擔更長、自主性更強的工作，併為企業創造更高價值，安全系統也需要識別各類關聯互動中存在的風險。為應對上述風險，我們推出私有安全處理預覽版，該技術旨在提升安全防護水平，同時不讓 OpenAI 工作人員接觸底層原始內容。"
+    },
+    {
+      "id": "5048570",
+      "time": "2026-08-20 03:55:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈德遜河貿易公司第二季度交易營收創下 114 億美元歷史新高。"
+    },
     {
       "id": "mkt:01a01b94-69ae-7aab-90a1-cb92eb49396f",
       "time": "2026-08-20 03:51:46",

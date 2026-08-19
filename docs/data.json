@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-20 03:54:29",
-  "count": 15679,
+  "updated": "2026-08-20 03:58:24",
+  "count": 15676,
   "items": [
+    {
+      "id": "mkt:01a01b98-bf6e-7aab-90a1-d1974786c481",
+      "time": "2026-08-20 03:56:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Trump says Treasury’s Bessent may unveil Iran sanctions this week】Trump said Treasury Secretary Bessent may unveil major sanctions on Iran this week and that Bessent “won’t play games.” He said the US has “very tough” sanctions options and is monitoring developments. Trump added the Strait of Hormuz is currently open with many vessels transiting, a fact he said is underreported, but that transit speeds could slow going forward."
+    },
+    {
+      "id": "5048572",
+      "time": "2026-08-20 03:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：我們將繼續為前沿模型提供零資料留存服務。隨著人工智慧承擔更長、自主性更強的工作，併為企業創造更高價值，安全系統也需要識別各類關聯互動中存在的風險。為應對上述風險，我們推出私有安全處理預覽版，該技術旨在提升安全防護水平，同時不讓 OpenAI 工作人員接觸底層原始內容。"
+    },
+    {
+      "id": "5048570",
+      "time": "2026-08-20 03:55:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈德遜河貿易公司第二季度交易營收創下 114 億美元歷史新高。"
+    },
     {
       "id": "mkt:01a01b94-69ae-7aab-90a1-cb92eb49396f",
       "time": "2026-08-20 03:51:46",
@@ -143612,58 +143643,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌2.45%】聲網跌4.28%，高途跌4.17%，新東方跌3.89%，BOSS直聘跌4.03%，唯品會跌3.74%。"
-    },
-    {
-      "id": "mkt:019ff78c-3082-7aab-9013-2e73407c36ea",
-      "time": "2026-08-13 03:56:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WHO says US changes to childhood vaccination schedule depart from science】WHO Director-General Tedros said on the 12th that recent US adjustments to the childhood vaccination schedule depart from scientific evidence, warning that delaying or splitting vaccinations could leave children exposed to infectious-disease risk for longer. The remarks follow an executive order by Trump to reduce the number of childhood vaccinations; WHO said it is concerned."
-    },
-    {
-      "id": "5038103",
-      "time": "2026-08-13 03:55:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。"
-    },
-    {
-      "id": "mkt:019ff78b-7a8c-7aab-9013-21f5d91953bd",
-      "time": "2026-08-13 03:55:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser."
-    },
-    {
-      "id": "5038102",
-      "time": "2026-08-13 03:54:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。"
-    },
-    {
-      "id": "5038101",
-      "time": "2026-08-13 03:54:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。"
-    },
-    {
-      "id": "mkt:019ff78a-90dd-7aab-9013-199c16d108a4",
-      "time": "2026-08-13 03:54:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's \"Persian Gulf Strait Authority\" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran."
     }
   ]
 }
