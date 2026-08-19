@@ -1,7 +1,477 @@
 {
   "date": "2026-08-19",
-  "count": 2646,
+  "count": 2695,
   "items": [
+    {
+      "id": "5048164",
+      "time": "2026-08-19 21:23:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Marvell向谷歌發行認股權證 谷歌可購買至多122億美元Marvell股票】Marvell Technology Inc.和Alphabet Inc.旗下谷歌宣佈擴大晶片開發合作，其中包括，Marvell向谷歌發行認股權證，谷歌可據此購買多達122億美元的Marvell股票。Marvell週三在監管檔案中表示，谷歌可按每股206.58美元的價格購買多達58,970,907股Marvell股票。根據檔案，其中近140萬股將在認股權證生效後的第一年內按季度等額歸屬。其餘股份將根據Marvell從2027財年第三季度至2033財年末的“自主採購”情況歸屬，兩家公司共同開發的產品每產生5億美元收入，就有一批股份歸屬。根據宣告，兩家公司將在人工智慧推理加速器、儲存控制器、網路介面控制器、儲存介面控制器和近記憶體計算等領域展開合作。"
+    },
+    {
+      "id": "mkt:01a01a30-ea6f-7aab-9098-50a00f1d5cae",
+      "time": "2026-08-19 21:23:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "{\"title\":\"Allianz\\'s El-Erian: US Treasury buybacks lower long yields; watch for YIELD CONTROL risk, costs and short-lived effects\",\"content\":\"Allianz chief economist El-Erian said long Treasury yields fell after the US Treasury expanded bond buybacks. He noted the buyback size is small in absolute terms and relative to net issuance, so the key market question is whether this foreshadows wider use of YIELD CONTROL. He warned YIELD CONTROL can suppress long-end yields and lower mortgage and other financing costs in the short term but carries side effects and unintended consequences. Such financial-engineering effects are typically short-lived; absent deeper policy changes, any yield compression is unlikely to be sustained.\"}"
+    },
+    {
+      "id": "5048162",
+      "time": "2026-08-19 21:23:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "BITDEER AI：正就涵蓋A102設施剩餘部分及其他站點產能的額外合同進行積極談判。"
+    },
+    {
+      "id": "mkt:01a01a30-743f-7aab-9098-4efb9b638a3d",
+      "time": "2026-08-19 21:22:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's central bank governor said most proceeds from dividend-paying Argentine stocks have been repatriated."
+    },
+    {
+      "id": "5048161",
+      "time": "2026-08-19 21:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "BITDEER AI：AI雲基礎設施建設取得進一步進展，包括在馬來西亞資料中心部署基於NVIDIA GB300 NVL72的算力。"
+    },
+    {
+      "id": "5048158",
+      "time": "2026-08-19 21:22:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢天源中標新疆額敏縣生活垃圾焚燒發電專案】據武漢天源訊息，8月18日，新疆塔城地區公共資源交易中心釋出中標公告，確認武漢天源成功中標額敏縣生活垃圾焚燒發電專案。該專案總投資約3.49億元，採用BOT特許經營模式。"
+    },
+    {
+      "id": "mkt:01a01a2f-0fde-7aab-9098-43065ab4b7d8",
+      "time": "2026-08-19 21:21:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "4755.T"
+      ],
+      "text": "【Rakuten reported to partner on offensive drones; Japanese retailer withdraws from platform】Media report says Rakuten Group will partner with German firm Helsin to help supply offensive unmanned aerial vehicles to the Japan Self‑Defense Forces and to seek SDF procurement and domestic mass production. On the 18th, CatalogHouse — a company operating catalogues and shopping sites — said Rakuten’s involvement in offensive drones conflicted with its corporate values and it will close its store on Rakuten’s e‑commerce platform. Rakuten’s core businesses include e‑commerce, financial services and mobile communications."
+    },
+    {
+      "id": "5048157",
+      "time": "2026-08-19 21:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：在特別軍事行動結束後提前做好軍人返鄉的準備工作，包括為他們提供就業援助。"
+    },
+    {
+      "id": "mkt:01a01a2e-5fba-7aab-9098-3ae732420318",
+      "time": "2026-08-19 21:20:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract's intraday gain widened to 2.00%, trading at 15,937.00 yuan/kg."
+    },
+    {
+      "id": "5048156",
+      "time": "2026-08-19 21:20:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報15937.00元。"
+    },
+    {
+      "id": "mkt:01a01a2e-2b58-7aab-9098-302f0135b093",
+      "time": "2026-08-19 21:20:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday gain widened to 3.00%, trading at $65.22/oz."
+    },
+    {
+      "id": "5048155",
+      "time": "2026-08-19 21:20:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本樂天集團被曝涉足武器裝備 有日本企業取消合作】近日，有媒體曝出日本樂天集團（Rakuten Group）將與德國赫爾辛公司合作，推動後者向日本自衛隊供應進攻型無人機。對此，日本一家企業18日對日本樂天集團的這一做法表示反對，並取消入駐日本樂天集團旗下電商平臺。日本媒體近日報道，核心業務包括電商、金融、行動通訊等業務的日本樂天集團將與德國赫爾辛公司合作，協助其進攻型無人機進入日本市場，並爭取讓相關無人機被日本自衛隊引進、未來在日本國內實現量產。18日，經營商品目錄雜誌和購物網站等業務的日本CatalogHouse公司在官網發表宣告說，日本樂天集團涉足進攻型無人機領域的做法與CatalogHouse的企業理念不符，因此決定停止在日本樂天集團的平臺開店。（新華社）"
+    },
+    {
+      "id": "te:economy:576501",
+      "time": "2026-08-19 21:19:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Falls from 20-Month High — The yield on the 10-year US Treasury note fell to 4.65% on Tuesday after testing 20-month highs of 4.75% in the previous session after the Treasury announced it would double the size of buybacks on long-dated securities. The move would increase the maximum size of operations to at least $4 billion. This was in line with the department's sharp efforts to limit the recent surge in long-dated yields as soaring AI-debt issuance, higher deficit spending, and risks of elevated inflation. Recent measures by the Treasury included a joint intervention with Japan to support the yen by selling euros, as Tokyo's common defense of a weak currency is made of selling long-term Treasury notes and bonds. On top of that, Secretary Bessent called for the Fed to increase its FIMA facility past the threshold of $60 billion, which would allow Japan to access dollar liquidity without selling Treasuries. Meanwhile, minutes by the FOMC due shortly could add insight to the magnitude of a divided Fed."
+    },
+    {
+      "id": "mkt:01a01a2d-054e-7aab-9098-2889ff9f9805",
+      "time": "2026-08-19 21:19:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures extend intraday gains to 3.00%, trading at $2.860/MMBtu."
+    },
+    {
+      "id": "5048154",
+      "time": "2026-08-19 21:19:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：在美國總統唐納德·特朗普第二個任期內，獲准進入美國的難民數量已大幅下降。"
+    },
+    {
+      "id": "mkt:01a01a2c-64b4-7aab-9098-2312e13a6416",
+      "time": "2026-08-19 21:18:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold up 3% intraday】Spot gold rose 3% intraday to $4,464/oz, its highest since June 5. New York gold futures gained 3% to $4,521.30/oz."
+    },
+    {
+      "id": "5048153",
+      "time": "2026-08-19 21:18:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馭勢科技吳甘沙：99.9分安全=0分，天山國際機場無人車隊160萬公里運營零主責事故】8月19日晚間訊息，馭勢科技宣佈旗下L4級真無人自動駕駛車隊在天山國際機場累計運營里程突破160萬公里，在所有機場累計真無人駕駛運營里程超600萬公里，全程零主責事故。據馭勢科技聯合創始人、董事長兼CEO吳甘沙介紹，在烏魯木齊天山國際機場，目前已有近百臺公司無人車在機坪上穿梭，其中52臺無人駕駛牽引車承擔機場90%以上貨郵轉運，單日峰值800拖斗；20臺無人巴士佈設13個站點，覆蓋辦公區、道口與機坪。\"160萬公里是整個叢集在真實運營中跑出來的，比單車裡程有意義得多。”吳甘沙分享指出，把這組數字放在一個更苛刻的座標系裡：在機場，99.9分的安全等於0分。（新浪科技）"
+    },
+    {
+      "id": "5048152",
+      "time": "2026-08-19 21:18:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元/離岸人民幣短期下跌，現報6.7293】美元/離岸人民幣短期下跌，現報6.7293。"
+    },
+    {
+      "id": "5048151",
+      "time": "2026-08-19 21:18:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨金<XAU=>擴大漲幅，最新上漲近3%，報每盎司4,461.39美元。"
+    },
+    {
+      "id": "5048150",
+      "time": "2026-08-19 21:18:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "INNIO NV——將向沃基肖工廠投資逾3億美元，並創造逾500個就業崗位。"
+    },
+    {
+      "id": "5048148",
+      "time": "2026-08-19 21:17:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4520美元/盎司，日內漲2.26%。"
+    },
+    {
+      "id": "5048147",
+      "time": "2026-08-19 21:17:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滙豐香港：港元穩定幣落地準備工作如期推進 詳情將於短期內公佈】近日有市場觀點稱，首批兩張港元穩定幣牌照持有方態度分化，滙豐方面呈現消極態度，這或與其主營業務存在直接衝突有關。針對上述輿論，滙豐香港發言人回應，滙豐在香港數碼資產領域持續積極佈局。“我們按計劃於2026年下半年推出，準備工作正如期推進，詳情將於短期內公佈。”該發言人表示，滙豐香港決定發行港元穩定幣，源於市場對數碼貨幣的需求，以及提升支付效率，同時體現其服務數碼資產生態圈的承諾。初期階段，應用場景聚焦於讓滙豐客戶以安全穩妥的方式進行鏈上P2P及P2M支付，以及投資代幣化產品。雖然香港零售支付已相當高效，但穩定幣能為消費者提供額外選擇，有助他們參與不斷拓展的數碼生態。此舉將與滙豐香港現有的代幣化存款、數碼債券及黃金代幣互相補足，進一步完善產品組合。"
+    },
+    {
+      "id": "mkt:01a01a2b-46dd-7aab-9098-1ff04b67adae",
+      "time": "2026-08-19 21:17:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Poland's blue-chip index WIG20 extended gains, up 1.8%."
+    },
+    {
+      "id": "5048146",
+      "time": "2026-08-19 21:16:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國美國研究領域著名學者、北京外國語大學教授梅仁毅逝世】中國美國研究領域著名學者，北京外國語大學英語學院教授、博士生導師、前美國研究中心主任梅仁毅先生，於2026年8月19日在北京逝世，享年91週歲。（澎湃）"
+    },
+    {
+      "id": "5048145",
+      "time": "2026-08-19 21:16:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4460美元/盎司，日內漲2.91%。"
+    },
+    {
+      "id": "5048144",
+      "time": "2026-08-19 21:16:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【26西部05：第五期公司債票面利率確定為1.64%】26西部05公告稱，西部證券股份有限公司發行不超過180億元公司債券已獲證監會註冊，本期為2026年面向專業投資者公開發行的第五期公司債券，發行規模不超過（含）15億元。經網下向專業機構投資者詢價及與主承銷商協商，最終確定本期債券票面利率為1.64%，將於2026年8月20日至8月21日面向專業機構投資者網下發行。"
+    },
+    {
+      "id": "mkt:01a01a29-5f1a-7aab-9098-119a51851528",
+      "time": "2026-08-19 21:15:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Copper"
+      ],
+      "text": "Dollar index (DXY) fell to 99, its lowest since June, down 0.65% intraday."
+    },
+    {
+      "id": "5048143",
+      "time": "2026-08-19 21:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY向下觸及99，為6月以來首次，日內跌0.65%。"
+    },
+    {
+      "id": "mkt:01a01a28-246d-7aab-9098-0b72b990f9d1",
+      "time": "2026-08-19 21:13:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "USD/CAD hit its lowest level since June 3 at 1.3840."
+    },
+    {
+      "id": "mkt:01a01a27-e733-7aab-9098-0411e662a17e",
+      "time": "2026-08-19 21:13:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum rose nearly 3% intraday to $1,762.97/oz."
+    },
+    {
+      "id": "mkt:01a01a27-2b5b-7aab-9097-fb19891ce15d",
+      "time": "2026-08-19 21:12:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,450/oz, up 2.71% on the day."
+    },
+    {
+      "id": "5048140",
+      "time": "2026-08-19 21:12:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4450美元/盎司，日內漲2.78%。"
+    },
+    {
+      "id": "5048139",
+      "time": "2026-08-19 21:12:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4510美元/盎司，日內漲2.02%。"
+    },
+    {
+      "id": "5048138",
+      "time": "2026-08-19 21:12:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4510.03美元/盎司。"
+    },
+    {
+      "id": "te:markets:576498",
+      "time": "2026-08-19 21:12:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold Hits 10-week High — Gold increased to 4451.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Gold gained 10.94%, and in the last 12 months, it increased 32.93%."
+    },
+    {
+      "id": "mkt:01a01a26-c8bb-7aab-9097-f35d40ed3245",
+      "time": "2026-08-19 21:12:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "【Marvell expands chip-development tie-up with Google, grants warrant】Marvell and Google expanded their chip-development partnership; Marvell granted Google a warrant to buy up to $12.2 bln of Marvell stock — up to 58,970,907 shares at $206.58 per share, according to a regulatory filing. In the first year after signing, roughly 1.4 mln warrant shares will vest each quarter. Remaining shares vest between Marvell’s fiscal 2027 Q3 and fiscal 2033 year-end via discretionary purchases, with one tranche vesting for each $500 mln of collaboration product revenue. The collaboration targets AI inference accelerators, storage controllers, network interface controllers, memory interface controllers and near-memory computing."
+    },
+    {
+      "id": "5048137",
+      "time": "2026-08-19 21:12:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1319.84美元/盎司。"
+    },
+    {
+      "id": "5048136",
+      "time": "2026-08-19 21:11:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "安碩生物科技交易所交易基金上漲3.2%，道富集團SPDR標普生物科技交易所交易基金上漲2.9%。"
+    },
+    {
+      "id": "5048135",
+      "time": "2026-08-19 21:11:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "生物科技ETF盤前上漲，因莫德納與默沙東聯合開發的黑色素瘤疫苗大型臨床試驗取得成功。"
+    },
+    {
+      "id": "mkt:01a01a25-9808-7aab-9097-ea6aeec74c91",
+      "time": "2026-08-19 21:11:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures climbed above $4,500/oz, up 2.52% intraday. Spot gold rose 2.5% to $4,442/oz."
+    },
+    {
+      "id": "mkt:01a01a25-00df-7aab-9097-e24576a5c304",
+      "time": "2026-08-19 21:10:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran parliament speaker visits Baghdad; Iraq seeks special arrangements for oil exports via Strait of Hormuz】On Aug. 19 Iran’s parliament speaker visited Baghdad and urged a regional order without external interference. Iraq’s president met the speaker, saying Baghdad backs ending regional conflict through dialogue and diplomacy, stressed protecting national sovereignty, avoiding escalation and minimizing use of force. Iraq’s parliamentary speaker said Iraq is among the countries most affected by current regional tensions and urged Iran to recognise the special nature of bilateral ties and provide special arrangements for Iraqi oil exports via the Strait of Hormuz to protect Iraq’s economic interests."
+    },
+    {
+      "id": "5048130",
+      "time": "2026-08-19 21:10:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4500美元/盎司，日內漲1.80%。"
+    },
+    {
+      "id": "5048129",
+      "time": "2026-08-19 21:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長訪問巴格達 伊拉克重申主權與地區利益關切】當地時間8月19日，伊朗伊斯蘭議會議長卡利巴夫訪問伊拉克首都巴格達。卡利巴夫在抵達後首先前往伊朗伊斯蘭革命衛隊下屬“聖城旅”指揮官蘇萊曼尼和伊拉克什葉派民兵武裝“人民動員組織”副指揮官穆漢迪斯2020年在巴格達國際機場附近遭美軍襲擊身亡的地點，強調伊朗和伊拉克的雙邊關係發展及共同安全的重要性。卡利巴夫表示，希望建立“沒有外部力量干預”的地區秩序。（央視新聞）"
+    },
+    {
+      "id": "te:markets:576497",
+      "time": "2026-08-19 21:09:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 13-week High — Cotton increased to 86.77 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Cotton gained 9.81%, and in the last 12 months, it increased 30.34%."
+    },
+    {
+      "id": "5048128",
+      "time": "2026-08-19 21:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Abnormal AI：宣佈與OpenAI建立戰略合作伙伴關係，加快企業級人工智慧的落地應用。"
+    },
+    {
+      "id": "5048127",
+      "time": "2026-08-19 21:09:02",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國財政部提高較長期債券回購力度 長期美債收益率大幅走低】美國長期國債大幅上漲，此前美國財政部宣佈，將把較長期限國債的回購操作規模至少提高一倍。訊息公佈後，30年期美國國債擴大漲幅，收益率一度下跌9個基點至5.19%。此前全球長期債券遭到大舉拋售，美國30年期國債收益率本週一度升至2007年以來最高水平。交易員同時還在準備迎接160億美元20年期國債標售。美國財政部在宣告中表示：“提高回購操作規模，反映出財政部希望為較長期限名義國債提供更強的流動性支援。這些期限一直得到市場參與者強勁的參與，財政部在較長期國債回購操作中經常收到大量高質量報價，也印證了這一點。”"
+    },
+    {
+      "id": "mkt:01a01a23-8433-7aab-9097-d8a461b85a7e",
+      "time": "2026-08-19 21:08:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Abnormal AI announced a strategic partnership with OpenAI to accelerate enterprise AI adoption."
+    },
+    {
+      "id": "5048126",
+      "time": "2026-08-19 21:08:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德固特：公司目前沒有半導體相關的佈局或者規劃】德固特8月19日在互動平臺表示，公司目前沒有半導體相關的佈局或者規劃。"
+    },
+    {
+      "id": "5048125",
+      "time": "2026-08-19 21:08:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高樓像汽車一樣流水線生產了】在中國的一些智慧工廠裡，房子正像汽車一樣，在流水線上被製造出來，牆面、地板、水電、裝修全部在車間裡完成，最後運到現場只需要“拼”起來。吊車將模組化建築吊起來，這個“箱子”從地面到就位地點大概只需要20分鐘的時間。工人們只需要完成兩件事：擰螺絲、接管線。這層樓就算是拼完了。模組化建築，也被稱為“預製房”。工作人員告訴記者，模組從起吊到精準落位，平均兩天就能拼出一層樓。一棟16層高的建築，由298個模組拼接而成，從首次吊裝開始，僅需120天，模組化部分就可具備交付條件，相較於傳統建設工期縮短了60%。在深圳，這樣的模組化建築專案正在加速落地。安居景馨苑專案從首件模組吊裝到30層、近百米高樓精裝封頂，僅用了148天。記者從深圳市住建局瞭解到，截至目前，深圳市裝配式建築規模已突破1.5億平方米，2026年新開工專案裝配式建築佔比高達64.03%。（央視財經）"
+    },
     {
       "id": "5048124",
       "time": "2026-08-19 21:07:11",
