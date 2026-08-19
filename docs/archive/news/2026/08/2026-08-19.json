@@ -1,7 +1,485 @@
 {
   "date": "2026-08-19",
-  "count": 2901,
+  "count": 2952,
   "items": [
+    {
+      "id": "5048312",
+      "time": "2026-08-19 22:47:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率回落，美國住宅建築商股價大漲。"
+    },
+    {
+      "id": "5048311",
+      "time": "2026-08-19 22:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "SKG 健康科技遞交香港 IPO 申請。"
+    },
+    {
+      "id": "5048310",
+      "time": "2026-08-19 22:46:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大加美貿易事務部長多米尼克・勒布朗、加拿大首席對美貿易談判代表雅妮絲・沙雷特將於上午 11 點 15 分在華盛頓哥倫比亞特區會見美國貿易代表格里爾。"
+    },
+    {
+      "id": "mkt:01a01a7c-a79d-7aab-909b-512b50830a68",
+      "time": "2026-08-19 22:46:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 30-year Treasury yield fell 10bp intraday to 5.18%."
+    },
+    {
+      "id": "5048309",
+      "time": "2026-08-19 22:45:41",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "30年期美國國債收益率當日下跌10個基點至5.18%。"
+    },
+    {
+      "id": "5048308",
+      "time": "2026-08-19 22:45:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相稱讚哈馬斯接受路線圖，以完成協議第二階段的執行。"
+    },
+    {
+      "id": "mkt:01a01a7b-aba9-7aab-909b-4a4b8fb885bc",
+      "time": "2026-08-19 22:45:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. refinery crude oil inputs rose last week to the highest level since September 2019."
+    },
+    {
+      "id": "5048307",
+      "time": "2026-08-19 22:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，上週美國煉油廠原油淨進料量升至2019年9月以來最高水平。"
+    },
+    {
+      "id": "5048306",
+      "time": "2026-08-19 22:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞6月份進口額為67.76億美元；預計為66.8億美元。"
+    },
+    {
+      "id": "5048305",
+      "time": "2026-08-19 22:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞6月份貿易逆差為21.61億美元；此前預計為-19.35億美元。"
+    },
+    {
+      "id": "mkt:01a01a7a-d262-7aab-909b-4099d4528f7c",
+      "time": "2026-08-19 22:44:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "USD/KRW fell 2% to 1,384.30 won per dollar."
+    },
+    {
+      "id": "5048304",
+      "time": "2026-08-19 22:43:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報16094.00元。"
+    },
+    {
+      "id": "mkt:01a01a7a-3764-7aab-909b-3fe0779e4e6b",
+      "time": "2026-08-19 22:43:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 4% intraday at $65.85/oz."
+    },
+    {
+      "id": "5048303",
+      "time": "2026-08-19 22:43:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破66美元/盎司，日內漲3.07%。"
+    },
+    {
+      "id": "5048302",
+      "time": "2026-08-19 22:43:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲4%，現報65.86美元/盎司。"
+    },
+    {
+      "id": "5048301",
+      "time": "2026-08-19 22:43:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報65.98美元/盎司。"
+    },
+    {
+      "id": "5048300",
+      "time": "2026-08-19 22:43:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1332.94美元/盎司。"
+    },
+    {
+      "id": "5048299",
+      "time": "2026-08-19 22:42:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲3%，現報4553.45美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01a78-f13d-7aab-909b-3418d509869c",
+      "time": "2026-08-19 22:42:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. heating oil futures extended gains after EIA data showed a draw in distillate inventories; gasoline futures fell further after the EIA reported a build in gasoline stocks."
+    },
+    {
+      "id": "5048298",
+      "time": "2026-08-19 22:41:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【攜手美國最大美妝零售商Ulta Beauty，珀萊雅開啟中國美妝“品牌出海”新篇章】近日，珀萊雅股份旗下主品牌珀萊雅與美國最大的專業美容零售商Ulta Beauty正式達成全面合作伙伴關係，並計劃於今年11月在Ulta Beauty的400家美國核心門店及其線上平臺Ulta.com發售紅寶石和源力系列的核心產品。Ulta Beauty 是美國最大的專業美妝零售商，主營彩妝、香氛、護膚、護髮、健康護理產品及沙龍服務。（珀萊雅股份微信公號）"
+    },
+    {
+      "id": "5048297",
+      "time": "2026-08-19 22:41:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國取暖油期貨<HOc1>在EIA資料顯示餾分油庫存下降後擴大漲幅。"
+    },
+    {
+      "id": "5048296",
+      "time": "2026-08-19 22:41:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國汽油期貨在EIA資料顯示汽油庫存增加後進一步小幅走低。"
+    },
+    {
+      "id": "mkt:01a01a78-1d26-7aab-909b-28c2ee016590",
+      "time": "2026-08-19 22:41:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the board approved a $19.9 billion plan to redevelop Washington Dulles International Airport."
+    },
+    {
+      "id": "5048295",
+      "time": "2026-08-19 22:41:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "董事會批准斥資199億美元改造華盛頓杜勒斯機場的計劃。"
+    },
+    {
+      "id": "mkt:01a01a77-cc2c-7aab-909b-229404b4df76",
+      "time": "2026-08-19 22:40:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported Iraq's prime minister met Iranian parliament speaker Ghalibaf and praised Iran's support during the war."
+    },
+    {
+      "id": "5048294",
+      "time": "2026-08-19 22:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個火箭陸地回收場】距離朱雀三號發射工位約390公里的甘肅民勤，火箭的陸上回收場坪位於騰格裡沙漠腹地。場坪呈60×60米正方形，四周被沙漠包圍，遠離人口密集區。環境開闊、氣象條件穩定，且有道路交通體系。 這是我國首個正式投入使用的陸地火箭回收場。朱雀三號採用航區回收方式——利用火箭一二級分離後，一子級拋物線的運動慣性在專用回收場的方式來回收火箭。這樣所需燃料較少，對返回控制精度要求也相對較低。 藍箭航天朱雀三號火箭總指揮戴政介紹：回收場不僅是火箭落下來的地方，更承擔火箭著陸後推進劑後處理、著陸支腿拆卸、火箭倒平及運輸上車等一系列功能。（央視財經）"
+    },
+    {
+      "id": "5048293",
+      "time": "2026-08-19 22:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克綜合指數轉漲，現漲0.16%報26332.38點，此前一度下跌0.4%。"
+    },
+    {
+      "id": "mkt:01a01a77-1ad7-7aab-909b-1847573a28a0",
+      "time": "2026-08-19 22:40:08",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "ORTEX estimates short sellers in Moderna (MRNA.O) faced about $4.8 billion of unrealized losses after the stock rallied to $159 on Wednesday."
+    },
+    {
+      "id": "5048292",
+      "time": "2026-08-19 22:40:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，金山雲漲11.49%，金生遊樂漲6.30%，華住酒店集團漲6.09%，理想汽車漲4.54%，再鼎醫藥漲4.26%。"
+    },
+    {
+      "id": "5048291",
+      "time": "2026-08-19 22:39:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金上漲近3%，至每盎司1,328.68美元。"
+    },
+    {
+      "id": "mkt:01a01a75-927b-7aab-909b-17e133b4c298",
+      "time": "2026-08-19 22:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kim Yo‑jong says unaware of recent communications between North Korea and U.S. leaders】KCNA reported on the 19th that Kim Yo‑jong said she “knows nothing” about Washington reports of recent communications between North Korean and U.S. leaders. She said U.S. hostile policy toward North Korea has not changed and that the U.S. and its allies continue substantial hostile military activity, adding that, despite reportedly good relations between the leaders, North Korea’s sovereign measures to counter threats to its security are reasonable, appropriate and necessary."
+    },
+    {
+      "id": "5048290",
+      "time": "2026-08-19 22:38:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【金與正：對朝美領導人近期溝通事宜一無所知】據朝中社19日報道，朝鮮勞動黨中央委員會部長金與正說，對華盛頓方面關於朝美兩國領導人最近進行溝通的訊息，“我一無所知”。金與正說，美國對朝鮮的敵對政策並未改變，美國及其追隨者至今仍在大力開展對朝敵對軍事活動。因此，儘管朝美兩國領導人之間維繫著良好關係，但朝鮮為遏制威脅本國安全勢力而採取的主權行動是非常合理、恰當和必要的。（新華社）"
+    },
+    {
+      "id": "mkt:01a01a74-fc77-7aab-909b-0cc41a444741",
+      "time": "2026-08-19 22:37:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the finance ministry is paying very high rates on long-term bonds and must address the issue."
+    },
+    {
+      "id": "5048289",
+      "time": "2026-08-19 22:37:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財長：財政部長期債券所支付的利率處於極高水平，我們必須解決這一問題。"
+    },
+    {
+      "id": "5048288",
+      "time": "2026-08-19 22:37:25",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【小摩：下調Klarna目標價至18美元，評級降至“中性”】儘管第二季度業績超出預期，摩根大通仍將Klarna的評級由“增持”下調至“中性”，並將目標價從22美元下調至18美元。小摩指出，該公司下半年展望走弱、歐洲消費者支出持續惡化，加上管理層計劃出現人事變動，令市場對這家金融科技公司的增長前景感到憂慮。"
+    },
+    {
+      "id": "5048287",
+      "time": "2026-08-19 22:36:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：在巴西借貸成本太高了。"
+    },
+    {
+      "id": "5048286",
+      "time": "2026-08-19 22:36:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4550美元/盎司，日內漲2.93%。"
+    },
+    {
+      "id": "mkt:01a01a73-bc47-7aab-909b-005d5d7a0f6f",
+      "time": "2026-08-19 22:36:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Saudi foreign minister said Riyadh will continue to press for de-escalation and prevent renewed tensions or conflict, and called for the Strait of Hormuz, Bab al-Mandeb and all sea lanes to remain open and secure."
+    },
+    {
+      "id": "mkt:01a01a73-abbb-7aab-909a-fce62c44a90d",
+      "time": "2026-08-19 22:36:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Baltic Dry Index falls for second day, hits two-week low】Baltic Dry Index (BDI) fell for a second day, down 39 pts (1.4%) to 2,776 — its lowest since July 31. Capesize index (BCI) slid 76 pts (2%) to 4,376, also a July 31 low; Capesize daily earnings dropped $691 to $36,181. Panamax index (BPI) fell 48 pts (2.2%) to 2,107, lowest since July 31; Panamax daily earnings declined $427 to $18,964. Supramax index (BSI) rose 3 pts (0.2%) to 1,634, its highest since July 28. Handysize index (BHSI) rose 1 pt to 867."
+    },
+    {
+      "id": "te:markets:576539",
+      "time": "2026-08-19 22:36:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enbridge Stock Price Hits 25-week Low — Enbridge shares decreased to 70.07 CAD, the lowest since February 2026. Over the past 4 weeks, Enbridge lost 10.53%, and in the last 12 months, it increased 5.24%."
+    },
+    {
+      "id": "5048285",
+      "time": "2026-08-19 22:36:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：我們需要改善公共財政狀況 。"
+    },
+    {
+      "id": "mkt:01a01a73-5ec3-7aab-909a-f3960e4940bb",
+      "time": "2026-08-19 22:36:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures hit $4,550/oz, up 3.66% on the day."
+    },
+    {
+      "id": "mkt:01a01a73-27dc-7aab-909a-eb738a949ba9",
+      "time": "2026-08-19 22:35:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "USD/CHF fell more than 1.50% intraday to 0.7997."
+    },
+    {
+      "id": "5048284",
+      "time": "2026-08-19 22:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "在美國證券交易委員會（SEC）考慮監管規定之際，特朗普將接待加密行業高管，部分加密企業股價跳漲。"
+    },
+    {
+      "id": "5048283",
+      "time": "2026-08-19 22:34:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克生物科技指數上漲5.3%，創下歷史新高。"
+    },
+    {
+      "id": "5048282",
+      "time": "2026-08-19 22:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "據稱 Strategic Value Partners 考慮出售 APCOA 停車集團。"
+    },
+    {
+      "id": "5048281",
+      "time": "2026-08-19 22:34:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達在北歐“牽線搭橋”，撮合GPU客戶與資料中心】據知情人士訊息，英偉達正扮演“媒人”角色，試圖將持有其GPU的公司與北歐擁有可用容量的資料中心運營商對接。此舉反映英偉達正努力在晶片之外擴大在AI生態中的影響力，包括軟體、政府關係及基礎設施交易。北歐因電力充足、土地充裕且氣候涼爽，正吸引大規模AI資料中心專案。Nebius、微軟等已在該地區達成交易。知情人士稱，英偉達會主動接觸資料中心公司，探詢潛在算力買家，且往往不透露具體客戶名稱。該公司CFO科萊特·克雷斯今年6月曾表示，英偉達已參與“牽線”，幫助客戶更快獲得土地、電力和機房。 芬蘭、挪威近期宣佈多個百兆瓦級專案。挪威電網運營商Statnett資料顯示，目前有2.3吉瓦資料中心容量排隊等待併網。房地產機構Savills最新報告將奧斯陸、斯德哥爾摩、赫爾辛基列為全球未來資料中心發展潛力前六的城市。"
+    },
+    {
+      "id": "mkt:01a01a71-11ef-7aab-909a-e2861a42c0ed",
+      "time": "2026-08-19 22:33:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Nasdaq Biotechnology Index rose 5.3% to a record high."
+    },
+    {
+      "id": "5048280",
+      "time": "2026-08-19 22:32:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4490美元/盎司，日內漲3.60%。"
+    },
+    {
+      "id": "5048279",
+      "time": "2026-08-19 22:32:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "MODERNA股價創2024年5月以來新高，漲幅高達159%。"
+    },
+    {
+      "id": "mkt:01a01a6e-a3c0-7aab-909a-dce97109aaf4",
+      "time": "2026-08-19 22:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US EIA distillate fuel implied demand for the week to Aug. 14: 5.5536 mln b/d, up from 5.3924 mln b/d the prior week."
+    },
     {
       "id": "mkt:01a01a6e-816e-7aab-909a-d0c5e73484c9",
       "time": "2026-08-19 22:30:44",
