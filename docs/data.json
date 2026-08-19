@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-20 01:09:26",
-  "count": 15532,
+  "updated": "2026-08-20 01:13:22",
+  "count": 15538,
   "items": [
+    {
+      "id": "mkt:01a01b01-bbdb-7aab-909e-52834d3d766f",
+      "time": "2026-08-20 01:11:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The office of Canada's minister for Canada-U.S. trade, LeBlanc, said he is returning to Ottawa to meet the Prime Minister and attend other meetings to push to finalize Canada-U.S. trade negotiations."
+    },
+    {
+      "id": "te:economy:576587",
+      "time": "2026-08-20 01:11:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.67 basis points, and in the last 12 months, it increased 55.80 basis points."
+    },
+    {
+      "id": "5048445",
+      "time": "2026-08-20 01:11:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報85.75美元/桶。"
+    },
+    {
+      "id": "5048444",
+      "time": "2026-08-20 01:10:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗正返回渥太華，與總理會面並參加其他必要會議，以完成貿易談判。"
+    },
+    {
+      "id": "te:markets:576584",
+      "time": "2026-08-20 01:10:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Retreats From Three-Week High — US gasoline futures traded below $3.30 per gallon, retreating from a three-week high as traders weighed uncertainty surrounding the Strait of Hormuz against an unexpected build in domestic inventories. EIA data showed US gasoline stocks increased by 0.688 million barrels in the week ending August 14th, missing expectations for a 1.2 million-barrel draw. Inventories are now 5% below their seasonal average, narrowing from 6% the previous week. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, noting that refiners are operating at record levels. Still, fading hopes of a reopening of the Strait of Hormuz pushed oil prices higher. Trump said no talks were underway with Iran and that the waterway remained open, while Tehran said a US naval blockade was still in place. Tanker traffic remained subdued, with limited traffic still passing through the strategic route, as shipowners stayed cautious."
+    },
+    {
+      "id": "mkt:01a01b00-3d0e-7aab-909e-4a7e07589e2c",
+      "time": "2026-08-20 01:09:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details."
+    },
+    {
+      "id": "mkt:01a01aff-8cbc-7aab-909e-423f5c2f8214",
+      "time": "2026-08-20 01:09:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said this was the first call between Syria's top diplomat and Israel's top foreign-intelligence official since Roman Gofman took office in June."
+    },
+    {
+      "id": "5048443",
+      "time": "2026-08-20 01:08:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞最高外交官與以色列最高對外情報官員自去年6月以色列官員上任以來首次進行通話。"
+    },
     {
       "id": "mkt:01a01aff-3fe5-7aab-909e-3c2ab44f987c",
       "time": "2026-08-20 01:08:50",
@@ -142061,28 +142138,6 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $725 mln from one counterparty in a fixed-rate reverse repo operation."
-    },
-    {
-      "id": "mkt:019ff6f5-c87c-7aab-9011-cb3884dfbe50",
-      "time": "2026-08-13 01:12:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk said Grok 4.6 ranks first overall for intelligence, runtime speed and usage cost."
-    },
-    {
-      "id": "mkt:019ff6f3-87d7-7aab-9011-c73060a306ef",
-      "time": "2026-08-13 01:09:42",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port."
     }
   ]
 }
