@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 01:52:17_
-_本檔包含 3227 則快訊，約 620723 字_
+_更新時間：2026-08-20 02:48:21_
+_本檔包含 3240 則快訊，約 623857 字_
+
+---
+
+### 2026-08-14 08:00:02  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+Japan 10-year government bond yield fell 2.5 bps to 2.845%.
+
+---
+
+### 2026-08-14 07:59:39  #市場 #國際
+
+10年期日本國債收益率下跌2.5個基點，至2.845%。
+
+---
+
+### 2026-08-14 07:59:28  #國際
+
+【希臘西尼羅病毒感染病例激增 】希臘國家公共衛生組織12日說，希臘過去兩週感染西尼羅病毒的人數激增，感染病例總數增至110例。據法新社13日報道，義大利、西班牙、北馬其頓和羅馬尼亞等歐洲國家也發現西尼羅病毒感染病例。 希臘國家公共衛生組織在宣告中說，截至12日，希臘全國範圍內共發現西尼羅病毒感染病例110例，這一資料在7月底為42例。西尼羅病毒感染已導致9人死亡，死者均為65歲以上老人。
+
+---
+
+### 2026-08-14 07:59:10  #資料 #市場 #觀點 #央行 #國際
+
+【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。長期看，在油價穩定現狀的基準假設下，今年8月到明年2月美國CPI同比均值料在3.2%左右保持震盪，仍是因油價中樞抬升的脈衝所致。但明年3月—5月美國CPI同比增速料因油價脈衝結束導致的高基數效應顯著回落，分別跌至2.56%、2.03%、1.71%。因此，只要油價不出現顯著上行風險，2027年第二季度開始美聯儲將不再有加息的必要。策略方面，截至最新，交易員對今年12月、明年6月的加息預期分別為1.04、1.65次，較7月底的1.48、2.2次雖有回落，但仍有壓縮空間。東吳證券維持美聯儲今年不加息的觀點，當前隱含的全年26bps的加息預期料將回吐，對應2年美債利率&美元指數的走弱，黃金的走高。
+
+---
+
+### 2026-08-14 07:59:01  #其他
+
+【非洲豬瘟持續 芬蘭擬擴大疫情“核心區” 】芬蘭食品管理局12日說，因發現更多因感染非洲豬瘟病毒而死亡的野豬，將擴大此前劃定的疫情核心區，禁止在這一區域內進行狩獵等活動，以防止疫情進一步擴散。 芬蘭食品管理局7月30日證實，在該國東南部維羅拉赫蒂的死亡野豬體內檢測到非洲豬瘟病毒，這是該國首次發現非洲豬瘟病例。芬蘭食品管理局隨即宣佈以感染野豬發現地為中心、半徑約3公里區域為疫情核心區，禁止在這一區域內進行狩獵、採摘、林業作業等活動。
+
+---
+
+### 2026-08-14 07:58:43  #公司 #市場 #觀點 #國際
+
+【歐洲柴油價格一年多以來首超航煤，供應趨緊令市場擔憂】倫敦證交所集團（LSEG）資料顯示，歐洲柴油價格一年多以來首次超過航空煤油價格。這是因為歐洲能夠獲得其他供應來源替代來自中東的航空煤油，但在為工業和農業獲取更多柴油供應方面卻面臨困難。高盛分析師在報告中表示：“隨著冬季臨近，我們認為柴油價格持續出現稀缺性溢價的風險高於原油。LSEG資料顯示，本週柴油價格已超過航煤價格 。8月10日，運抵歐洲的航煤貨物報價較柴油期貨每噸低24美元。根據LSEG和Argus Media資料，這是自2025年7月以來的最大折價幅度。
+
+---
+
+### 2026-08-14 07:58:13  #Trading Economics #Economy #India #Total Vehicle Sales #Importance 1
+
+India Passenger Car Sales Jump 31.2% in July — Passenger vehicle sales in India surged 31.2% year-on-year in July 2026, accelerating sharply from an 18.2% rise in the previous month to 395,199 units, according to data from the Society of Indian Automobile Manufacturers (SIAM). The strong performance was attributed to supportive domestic demand, aided by lower Goods and Services Tax rates and the introduction of new models. “India’s auto industry delivered its strongest-ever July sales, with robust double-digit growth across passenger vehicles. This positive momentum, sustained over several months, has continued as the industry enters the festive season with expectations of strong consumer sentiment,” Rajesh Menon, Director General of SIAM, said.
+
+---
+
+### 2026-08-14 07:57:34  #觀點 #國際
+
+【中信證券：粘膠長絲行業有望進入供需偏緊與價格中樞上行階段】中信證券研報認為，出口需求持續增長、存量供給接近滿負荷執行，粘膠長絲行業有望進入供需偏緊與價格中樞上行階段。印度傳統服飾消費增長帶動中國粘膠長絲出口放量，2025年行業出口量同比增長18.2%至11.4萬噸，2026年上半年進一步同比增長30.9%；同時，2025年國內行業開工率已升至89.8%，半連續紡產能可能面臨政策淘汰、環保改造及搬遷壓力。我們預計2026-2028年行業將呈現供需缺口，產品價格具備向上彈性。重點推薦頭部企業。
+
+---
+
+### 2026-08-14 07:57:32  #觀點 #國際
+
+【中信建投：霍爾木茲海峽僵局持續 地緣風險溢價維持高位】中信建投研報表示，霍爾木茲海峽僵局短期內難以根本解決。美方“軍事速勝”計劃已然落空，對伊政策正從高強度軍事打擊轉向“邊施壓、邊談判”的拉鋸式博弈。伊朗不會輕易放棄霍爾木茲海峽這一對美反制的重要手段。短期看，海峽持續受阻利好油氣開採及能源板塊，利空航空、海運等用能企業；中期走勢取決於美伊談判進展及海峽實際通航恢復情況，地緣不確定性仍將主導油價波動。
+
+---
+
+### 2026-08-14 07:57:14  #市場
+
+【浙江省水利廳提升水旱災害防禦（防颱）應急響應至Ⅱ級】受強降雨影響，今日（8月14日）6時杭州市青山水庫水位上漲至30.44米，東苕溪瓶窯水文站水位上漲至6.76米。根據《浙江省水利廳水旱災害防禦應急工作預案》，省水利廳於今日6時30分將水旱災害防禦（防颱）應急響應提升至Ⅱ級（二級）。當前苕溪等江河高水位執行，相關地區水利部門要保持高度警惕，密切監視水情工情，科學排程水利工程，加強安全管理，做好水旱災害防禦工作。
+
+---
+
+### 2026-08-14 07:56:52  #公司
+
+【北京市就細胞與基因治療高質量發展徵求意見，相關上市公司積極佈局】據北京市政府官網訊息，日前，北京市科學技術委員會、中關村科技園區管理委員會發布《關於促進細胞與基因治療領域高質量發展的若干措施（徵求意見稿）》（以下簡稱《措施》），旨在推動細胞與基因治療（CGT）產業邁向高質量發展。《措施》圍繞創新、臨床、平臺、監管、產業五大維度，推出覆蓋CGT全產業鏈的9項支援舉措。其中特別提出，強化創新品種產業化全鏈條服務機制，醫保部門提前介入、提供醫療服務價格政策輔導，為技術獲批後及時具備合規收費條件做好準備。上市公司積極佈局細胞療法，在投資者互動平臺上透露在細胞治療上的佈局。中源協和表示，公司高度重視細胞治療業務的國際化發展。東富龍表示，公司深耕細胞治療領域。開能健康表示，公司對細胞行業的前景持積極態度。海南海藥表示，在細胞治療領域形成了“參股+合作”的協同佈局。復星醫藥表示，CAR-T細胞治療產品奕凱達獲納入首版商保創新藥品目錄。百普賽斯表示，公司開發的一系列CD19、BCMA、Her2等重組蛋白和抗獨特型抗體產品，可被廣泛用於CAR-T產品開發的過程和測試。資金面上，8月以來共有13股獲融資淨買入，藥明康德、百普賽斯、睿智醫藥融資淨買入金額居前，分別為3.42億元、1.77億元、0.48億元。
+
+---
+
+### 2026-08-14 07:56:01  #市場
+
+【國際金價再上4400美元 金飾漲價催生消費輕量化】時隔兩個月後，國際金價再度回到4400美元/盎司關口上方。國內金飾價格近日來也上漲明顯。卓創資訊研究員彭小真分析，高金價對黃金消費最直接的影響，是消費者的購買門檻明顯提高，但這並不意味著黃金消費會簡單地出現斷崖式下降，更值得關注的是消費結構發生了變化。“首先，消費者的到店諮詢可能仍然存在，但從‘看一看’到實際成交的轉化會有所下降，部分消費者會產生更強的觀望心理。其次，消費者可能透過降低購買克重來控制總預算。也就是說，高金價環境下，消費者並不一定完全不買黃金，而可能從過去購買較大克重的產品，轉向小克重、輕量化以及更加註重設計的產品。”彭小真認為，高金價下，剛需消費和非剛需消費的分化會更加明顯。婚嫁、節慶和部分傳統禮贈需求具有較強的剛性，即使價格上漲，消費者也很難無限期推遲，只是可能透過降低克重、調整款式等方式控制支出。而悅己消費以及非必要的裝飾性消費，價格彈性相對更高。這部分消費者更容易選擇等待價格回撥，或者減少購買克重。
+
+---
+
+### 2026-08-14 07:55:34  #國際
+
+美國中央司令部：在過去48小時內，多家媒體報道了與“亞伯拉罕·林肯”號航空母艦（CVN 72）部署中東相關的多項虛假宣告。其中一則報道聲稱有七名水兵在航母上的一場鬥毆中喪生，其他報道則最近暗示自殺意念激增。這些報道是虛假的。事實是：“亞伯拉罕·林肯”號一直保持著美國海軍所有航母中最高的船員續服率之一（84.4%）。亞伯拉罕·林肯航母打擊群的水兵和海軍陸戰隊員在海上超過260天、執行10,000次飛機飛行並消耗150萬磅彈藥後，依然保持著堅韌和決心。航母上沒有服役人員死亡，而8月3日有一名落水的水兵已被迅速且安全地救回。對“亞伯拉罕·林肯”號歷史性部署的肆意錯誤報道是對我們軍服人員及其親人的不公。
+
+---
+
+### 2026-08-14 07:54:33  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Flat After Strong Session — US stock futures were little changed on Friday after the major averages advanced in the previous session, with the S&P 500 reaching fresh record highs. In regular trading on Thursday, the S&P 500 and Nasdaq Composite rose 0.65% and 0.81%, respectively, putting both benchmarks on course for their third straight weekly gains. The Dow also climbed 70 points, although it remained set to finish the week lower. Seven of the 11 S&P sectors ended in positive territory, led by communication services, real estate and technology stocks. The gains came after headline and core producer prices rose less than expected in July, reinforcing the previous day’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Investors now turn their attention to July retail sales data for further clues on the strength of the economy. Meanwhile, no major earnings reports are scheduled for Friday.
+
+---
+
+### 2026-08-14 07:53:24  #宏觀
+
+【從行業倡議到立法破局 反內捲進入制度化治理新階段】2024年7月，中共中央政治局會議首次提出防止“內卷式”惡性競爭。兩年多來，“內卷式”競爭治理持續進階，從個別行業發起自律倡議，演進為制度規則、行業標準、監管執法多管齊下的綜合治理格局。綜合整治“內卷式”競爭，既是攻堅戰，也是持久戰。2026年7月召開的中共中央政治局會議提出“繼續綜合整治‘內卷式’競爭”，強調將“制定實施全國統一大市場建設條例”。受訪專家認為，隨著未來全國統一大市場建設條例出臺，整治“內卷式”競爭將進入制度化長效治理的關鍵階段。
+
+---
+
+### 2026-08-14 07:53:02  #市場 #國際
+
+美國白宮：恢復美國的海上主導地位。今天，特朗普總統簽署了一份國家安全總統備忘錄，以果斷引領一個新的海上黃金時代，擴大商業造船能力，打造具備抗壓能力的勞動力隊伍，並重振這一關鍵產業。
+
+---
+
+### 2026-08-14 07:50:54  #其他
+
+【浙江省水文管理中心8月14日4時釋出東苕溪瓶窯水文站洪水橙色預警】受短時降雨影響，瓶窯站水位回漲，將發生橙色預警級別的洪水，預警時間範圍8月14日至15日，影響範圍杭州市、餘杭區、湖州市、德清縣、嘉興市。請沿河居民、施工單位和過往船隻注意安全，防範洪水風險。
+
+---
+
+### 2026-08-14 07:50:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Foreign investors were net sellers of JGBs by 58.7 bln yen in the week to Aug 7, versus net purchases of 558.9 bln yen in the prior week.
+
+---
+
+### 2026-08-14 07:50:49  #國際
+
+日本8月7日當週淨買進國外債券 16294億日元，前值 4779億日元。日本8月7日當週淨買進國外股票 9635億日元，前值 -2764億日元。日本8月7日當週外資淨買進日本債券 -587億日元，前值 5589億日元。日本8月7日當週外資淨買進日本股票 -3685億日元，前值 -3925億日元。
+
+---
+
+### 2026-08-14 07:50:47  #MKT News #USDJPY #Impact bullish #DXY
+
+Japan bought foreign equities JPY 963.5 bln in the week to Aug. 7; prior week saw net sales of JPY 276.4 bln.
+
+---
+
+### 2026-08-14 07:50:39  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Bonds (Aug.7) | actual -58700000000B | previous 558900000000B
+
+---
+
+### 2026-08-14 07:50:36  #經濟數據 #日本
+
+日本至8月7日當週外資買進日股-3685億日元，前值-3925億日元。
+
+---
+
+### 2026-08-14 07:50:33  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Stocks Buying (Aug.7) | actual 963500000000B | previous -276400000000B
+
+---
+
+### 2026-08-14 07:50:30  #MKT News
+
+Al Arabiya reports the international coalition’s air-defence system was activated in Erbil, Iraq; Iraqi sources say the drone attack on Erbil originated from Nineveh province.
+
+---
+
+### 2026-08-14 07:50:14  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Japan bought JPY 1.63 trillion of foreign bonds in the week to Aug. 7, versus JPY 477.9 billion in the prior week.
+
+---
+
+### 2026-08-14 07:50:10  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Foreign investors' net purchases of Japanese equities in the week to Aug. 7 were -368.5 bln yen, compared with -392.5 bln yen in the prior week.
+
+---
+
+### 2026-08-14 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Bonds Buying (Aug.7) | actual 1629400000000B | previous 477900000000B
+
+---
+
+### 2026-08-14 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Stocks (Aug.7) | actual -368500000000B | previous -392500000000B
+
+---
+
+### 2026-08-14 07:49:42  #市場 #央行 #國際
+
+【隨著美聯儲潛在加息擔憂緩解，日經指數或上漲】隨著週四美國公佈批發價格資料後對美聯儲潛在加息的擔憂有所緩解，日本股市可能會上漲。新加坡交易所日經指數期貨上漲1.4%，報69310點。美元報159.47日元，週四東京股市收盤時為159.39日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週四上漲1.2%，至68308.59點。
+
+---
+
+### 2026-08-14 07:49:27  #MKT News
+
+CENTCOM said that over the past 48 hours multiple media reports related to the USS Abraham Lincoln (CVN 72) Middle East deployment were false. A report claiming seven sailors died in a brawl aboard the carrier and other pieces suggesting a spike in suicides on board were inaccurate.
+
+---
+
+### 2026-08-14 07:48:54  #公司
+
+【淡季來臨 鎢礦行業上市公司訂單以剛需為主】近期，鎢礦行業進入季節性淡季。中國證券報記者從多家上市公司處瞭解到，目前，55%以上品位鎢精礦價格大概為41萬元/噸，雖然價格相比年內最高點明顯回落，但依然處於歷史相對高位。“鎢行業每年都有淡季和旺季，目前處於季節性淡季。但訂單量仍處於正常水平，主要以剛需為主。”多家鎢行業上市公司證券部工作人員告訴記者。（中國證券報）
+
+---
+
+### 2026-08-14 07:47:57  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.25點。
+
+---
+
+### 2026-08-14 07:47:53  #市場 #國際
+
+日本日經指數期貨早盤上漲1.6%。
+
+---
+
+### 2026-08-14 07:47:40  #公司 #國際
+
+【美財長稱將對伊朗實施前所未見措施】美國財長貝森特當地時間8月13日晚表示，美國將對伊朗實施“前所未見”的措施。貝森特在接受採訪時稱，“這將結合前所未見的經濟孤立手段，以及針對霍爾木茲海峽的持續封鎖，從而切斷伊朗港口的所有進出通道——請密切關注下週即將釋出的更多公告。”
+
+---
+
+### 2026-08-14 07:47:28  #其他
+
+【哥倫比亞強震已致281人遇難】根據哥倫比亞國家災害風險管理局釋出的最新災情統計，截至當地時間8月13日17時，該國日前發生的地震已造成281人死亡、3971人受傷、379人失蹤，已有348人獲救。
+
+---
+
+### 2026-08-14 07:45:41  #市場 #觀點 #央行 #國際
+
+【高盛：如果日本央行加快升息 日元套利交易還有進一步平倉的空間】高盛表示，日本15年來最大規模的外匯干預引發了戰術性日元套利頭寸的大幅減少，其規模超過了2024年7月干預後最初的平倉量。不過，策略師Karen Reichgott Fishman在報告中指出，由於宏觀背景對日元的支撐力度仍不及2024年夏季，美元兌日元已回吐了初期跌幅的一半。儘管投機性頭寸大幅減少，但“若條件合適”，仍可能出現更多平倉；“若宏觀和市場環境支援日元走強”，頭寸甚至可能轉為淨多頭，正如2024年7月至8月的情況一樣。市場目前預計日本央行9月加息的機率約為75%，而更快的緊縮步伐可能使日元“在世界經濟增長環境未發生變化的情況下，在更長時間保持強勢”。
+
+---
+
+### 2026-08-14 07:44:12  #國際
+
+【美媒：美軍對伊戰事損失至少45架“死神” 總價超13億美元】據美國《華盛頓郵報》13日援引美國官員的話報道，美軍在與伊朗的戰事中損失至少45架MQ-9“死神”無人機，約佔美軍該型無人機總數的25%。報道說，美伊戰事爆發前美軍擁有約185架“死神”無人機。該型號無人機主要用於執行偵察和定點打擊任務，被頻繁用於霍爾木茲海峽附近。無人機通常低空飛行且速度慢，相對容易被防空系統擊落。不過，美官員表示，並非所有損失的“死神”無人機都是被擊落的，一部分是在與操作員失去聯絡後墜毀，但數量不詳。報道還說，根據所搭載的感測器和武器型別不同，一架“死神”無人機的造價在3000萬美元至5000萬美元之間。這意味著在伊朗戰事持續消耗美軍武器庫存之際，僅“死神”無人機一項的損失可能就已超過13億美元。（新華社）
+
+---
+
+### 2026-08-14 07:42:45  #公司
+
+【OpenAI年化營收有望突破400億美元 較2025年底大致翻倍】知情人士稱，按當前業績計算，OpenAI年化營收有望超過400億美元，較2025年底的水平大致翻倍，為該公司的華爾街上市計劃提供助力。因涉及未公開資訊而不願具名的知情人士透露，OpenAI近幾個月營收加速增長，部分得益於AI程式設計軟體業務的擴張。訂閱業務和仍處於起步階段的廣告業務也帶來增長，核心消費者業務繼續擴張。
+
+---
+
+### 2026-08-14 07:42:40  #MKT News
+
+【US media: US military has lost at least 45 MQ-9 Reapers; cost tops $1.3 bln】The Washington Post on Aug. 13, citing U.S. officials, reported the U.S. military has lost at least 45 MQ-9 Reaper drones in fighting with Iran, about 25% of the fleet. Depending on sensors and weapons, a single MQ-9 costs $30–50 mln, implying Reaper losses alone may exceed $1.3 bln as the Iran conflict continues to deplete U.S. weapons stocks.
+
+---
+
+### 2026-08-14 07:42:29  #國際
+
+【澳大利亞尋求豁免美國關稅】澳大利亞正尋求豁免美國關稅。澳大利亞總理安東尼·阿爾巴尼斯告訴記者，美國總統特朗普已表示他將考慮這一在通話中提出的請求。阿爾巴尼斯要求獲得全面豁免，或者至少不提高目前實施的12.5%的關稅。在交談中，他強調澳大利亞和美國維持自由貿易協定已超過20年，並指出美國對澳大利亞存在貿易順差。
+
+---
+
+### 2026-08-14 07:41:51  #其他
+
+【個人房貸利率降至“2字頭”？經濟日報：理性看待房貸利率市場化差異】個人住房貸款利率已降至“2字頭”了？近期部分借款人發現，自己的存量房貸利率已降至3%以下，一時間引發市場高度關注，相關討論聚焦房貸利率是否將進一步下行、房地產市場供需將如何變化等話題，看法眾說紛紜。近期出現的房貸利率降至“2字頭”現象，屬於在房貸利率市場化的背景下，部分地區的個別商業銀行的市場化行為，不必過度解讀。當前，我國房貸利率水平保持平穩。中國人民銀行最新發布的資料顯示，今年6月，新發放個人住房貸款利率約為3.1%，與上年同期基本持平。個別銀行之所以聚焦少數資信較好的借款人、推出“2字頭”低利率房貸，從經營管理角度看，其主要目的是以價換量，搶抓市場份額，穩定資產端規模。
+
+---
+
+### 2026-08-14 07:41:31  #公司
+
+【資本賦能 技術突圍 量子科技邁入產業化驗證新階段】量子科技加速從科研探索走向產業化驗證。在政策加持下，產業與資本形成雙向共振，量子科技企業上市梯隊逐步成型。8月11日，國儀公司掛牌上市，這是繼國盾量子之後又一家量子科技領域的上市公司。目前多家知名量子科技企業也開啟了資本化征程，本源量子計算科技（合肥）股份有限公司、北京玻色量子科技股份有限公司和上海圖靈智算量子科技股份有限公司等企業亦陸續完成上市輔導備案，2026年堪稱國內量子科技的“IPO元年”。記者調研瞭解到，以國盾量子、國儀公司和本源量子等公司為牽引的梯次上市格局初步成型，量子科技正作為新質生產力核心抓手，嘗試攻克生物醫藥、材料化學、金融科技等領域原本無解的難題，加速向新型基建與行業場景規模化落地。（中國證券報）
+
+---
+
+### 2026-08-14 07:40:21  #國際
+
+【日本千葉縣強降雨4死5傷】日本千葉縣政府今天（8月14日）釋出最新訊息稱，強降雨已造成當地4人死亡、1人失蹤、5人不同程度受傷。據日本氣象廳訊息，千葉縣自8月13日傍晚以後持續出現強降雨。其中，千葉市截至當地時間今天凌晨1點的12小時累計降雨量達到347毫米，為有記錄以來的最高值。半天內的降雨量已接近往年8月整個月平均降雨量的3倍。
+
+---
+
+### 2026-08-14 07:39:58  #公司 #國際
+
+【人民日報寰宇平：突破底線，日本“新型軍國主義”成勢為患】在領土主權和地區安全議題上，日本同樣屢屢突破底線、挑釁滋事。日本違反《開羅宣言》和《波茨坦公告》的規定，試圖非法侵佔中國固有領土釣魚島。在臺灣問題上，日本右翼政客發表不當言論，將“臺灣有事”與日本“存亡危機事態”相關聯。這違背了日本在《中日聯合宣告》中的承諾，是對中國內政的粗暴干涉，違反了《聯合國憲章》不干涉內政的基本原則。任何為侵略翻案、為戰犯招魂、縱容軍國主義復活的行徑，都站在歷史正義的對立面，也站在人類良知的對立面。80年後的今天，重溫東京審判的歷史警示，不僅是對受害者的告慰，更是對地區和國際和平未來的守護。國際社會必須高度警惕日本右翼勢力的危險動向，堅決捍衛二戰勝利成果和戰後國際秩序，絕不能讓歷史悲劇重演。
+
+---
+
+### 2026-08-14 07:39:04  #市場
+
+日經指數期貨在新加坡交易所開盤上漲890點，報69270點。
+
+---
+
+### 2026-08-14 07:38:18  #公司
+
+【李開復人民日報撰文：AI變革絕不是工業革命4.0，靠什麼贏在AI時代】文章稱，人工智慧（AI）的快速進展高頻次引發社會“震撼”，可人們似乎並沒看到社會因為AI而產生“鉅變”。這種強反差，正應了科創界那句廣為流傳的話：技術的力量往往在短期內被高估，在長期內被低估。可以肯定地說，AI變革絕不是簡單的工業革命4.0，它是科技、商業和文明的全新篇章，其影響也會比此前每一次工業革命都要大。看上去波瀾不驚，其實AI變革正在快速展開。一批AI原生企業已經成長為行業黑馬。月之暗面、DeepSeek、智譜等新興AI企業，估值均超千億元人民幣。和AI相關的電力、算力、儲存等行業也站上時代風口，長鑫科技市值突破3萬億元人民幣。近3個月新成立的短劇公司全都為AI原生模式，依託影片生成技術大幅壓縮製作成本，傳統劇組崗位需求大幅縮減。
+
+---
+
+### 2026-08-14 07:37:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Treasury Secretary Bessent said the US will continue to impose sanctions on Iran’s economy, maintain a sustained blockade of the Strait of Hormuz, and bar any goods from entering or leaving Iranian ports.
+
+---
+
+### 2026-08-14 07:36:16  #市場 #國際
+
+【在指向不一的訊號下油價小幅走低】在指向不一的訊號下，油價在早盤交易中小幅走低。澳新銀行研究部的分析師在一份研究報告中表示，一方面，有跡象表明石油供應正在增加。這些分析師表示：“據說阿聯酋和沙烏地阿拉伯等波斯灣產油國正在盡其所能保持出口暢通，包括切換應答器，以便在不被發現的情況下透過[霍爾木茲]海峽運輸貨物。“這些分析師補充說，另一方面，“有報道稱，伊朗支援的胡塞武裝將目標對準了沙特阿美位於紅海沿岸吉讚的煉油廠。“近月西得州中質油期貨下跌0.1%，報每桶81.20美元。
 
 ---
 
@@ -19255,215 +19543,5 @@ Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to 
 ### 2026-08-13 02:49:03  #其他
 
 市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。
-
----
-
-### 2026-08-13 02:47:11  #MKT News #Commodities #Energy #Brent
-
-Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%.
-
----
-
-### 2026-08-13 02:39:10  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
-
-Paraguay Trade Deficit Widens in July — Paraguay's trade deficit widened to $95.98 million in July 2026 from $89.07 million a year earlier, as imports grew faster than exports. Imports surged 30.6% year-on-year to $2.04 billion, led by increases in purchases of intermediate goods (36.9%), capital goods (36.7%), and consumer goods (18.2%). Meanwhile, exports rose 32% to $1.94 billion. Sales of primary products increased 27.7%, while agricultural manufacturing exports rose 24.2% and industrial manufacturing exports jumped 40.9%.
-
----
-
-### 2026-08-13 02:37:14  #其他
-
-SPACEX股價漲幅擴大至12%，創7月10日以來新高。
-
----
-
-### 2026-08-13 02:32:58  #MKT News
-
-US crude futures settled at $83.27/bbl, up $0.07, or 0.08%.
-
----
-
-### 2026-08-13 02:31:43  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
-
-【Night session main contracts close】As of 02:30 close, SHFE main gold contract rose 0.36% to 959 yuan/gram; SHFE main silver contract rose 0.63% to 16,024 yuan/kg; SC crude oil main contract rose 0.63% to 556 yuan/barrel.
-
----
-
-### 2026-08-13 02:30:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D closed Wednesday evening (Aug 12) up 0.23 pct at 956.01 yuan/gram; Silver T+D closed up 0.23 pct at 15,988.0 yuan/kg.
-
----
-
-### 2026-08-13 02:30:15  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish
-
-【Canada may accept partial U.S. auto tariffs to secure cuts】The Globe and Mail reports Canada is weighing a deal to accept part of U.S. auto tariffs in return for lower duties on vehicles meeting USMCA rules. Under a proposal discussed by negotiators, the value of U.S.-made parts in Canadian-built cars would be excluded from the tariff base, preserving an existing exemption, while Section 232 tariffs imposed by the Trump administration — currently 25% on USMCA-eligible Canadian exports — could be reduced. Canadian cars contain roughly 50% U.S. content; automakers say excluding U.S. content could make a 10–15% tariff tolerable. Talks aim for an agreement by Aug. 19, though Canadian officials expect a temporary pause of the next tariff round is more likely than a full resolution before that date.
-
----
-
-### 2026-08-13 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 1.00% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1% decrease.
-
----
-
-### 2026-08-13 02:30:02  #市場
-
-上期所原油期貨夜盤收漲0.77%，報552.30元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲0.63%。
-
----
-
-### 2026-08-13 02:25:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%).
-
----
-
-### 2026-08-13 02:20:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1.18%), Platinum (0.87%) and Gold (0.86%). Biggest loser is Aluminum Alloy (-0.66%).
-
----
-
-### 2026-08-13 02:19:48  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact mixed #S&P500
-
-【U.S. July budget deficit surges to highest monthly since March 2021】The U.S. Treasury reported Wednesday that the July budget deficit surged to $432.3bn, the largest monthly shortfall since March 2021 and a record for July. For the first 10 months of FY26 the cumulative deficit is nearly $1.8tn, exceeding the same period in FY25. July Medicare outlays rose to $174.0bn from $103.0bn in June, taking year-to-date Medicare spending to $955.0bn. July’s largest single outlay exceeded Social Security payments of $141.0bn and net interest on the federal debt of $104.0bn. Tariff refunds reduced the budget by about $33.0bn, and a calendar effect—July 1 fell on a non-workday—trimmed receipts by roughly $99.0bn. The Treasury flagged rising Medicare costs and persistent interest expenses as key drivers of the fiscal deterioration. President Trump has urged the Fed to cut rates to lower borrowing costs and has eased public criticism of the Fed since his nominee took over as chair in May.
-
----
-
-### 2026-08-13 02:17:28  #MKT News
-
-【Sources: ALPHABET reorganises DeepMind to prioritise GEMINI】Refinitiv sources say ALPHABET is executing a major leadership reshuffle at Google DeepMind, moving some teams into Google’s corporate structure and reducing DeepMind’s autonomy. Google co‑founder Sergey Brin has in recent months pushed core AI staff to focus on GEMINI and on research into recursive self‑improvement. Demis Hassabis will become chairman; his deputy Koray Kavukcuoglu will assume operational leadership and will have final authority on major DeepMind decisions. Internal tests reportedly show the new flagship GEMINI model still trails rivals in programming and other tasks, prompting a roughly two‑month delay to its planned release. Analysts say the reorganisation aims to speed AI commercialisation and regain model competitiveness; some employees warn it may further erode DeepMind’s long‑term research independence.
-
----
-
-### 2026-08-13 02:16:30  #Trading Economics #Economy #United States #Government Budget Value #Importance 1
-
-US Budget Deficit Widens in July — The US government posted a $432 billion budget deficit in July 2026, widening from a $291 billion shortfall a year earlier and exceeding forecasts for a $346 billion gap. Government outlays rose to $766 billion from $630 billion in July 2025, led by Medicare spending of $174 billion. Social Security costs reached $141 billion, while net interest accounted for $104 billion and national defense for $91 billion. Meanwhile, government receipts fell to $334 billion from $338 billion a year earlier, with individual income taxes contributing $173 billion and social insurance and retirement receipts totaling $139 billion.
-
----
-
-### 2026-08-13 02:15:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Rises by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas EU (3.20%) and Natural Gas UK (3.13%). Biggest losers are Methanol (-0.69%), Crude Oil WTI (-0.49%) and Brent Crude Oil (-0.30%).
-
----
-
-### 2026-08-13 02:13:25  #公司
-
-【新基金髮行近期明顯提速】Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。在經歷7月下旬的階段性低谷後，新基金髮行正在明顯提速。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。（證券時報）
-
----
-
-### 2026-08-13 02:05:47  #MKT News #WTI #Impact bullish #Brent
-
-【Iraq PM says Sept. 30 final deadline for coalition withdrawal】Iraq's prime minister told reporters after meeting visiting CENTCOM commander Cooper that Sept. 30 is the final deadline for international coalition forces to end their military mission and complete withdrawal from Iraq. He said Oct. 1 will mark the removal of all foreign military presence and the start of a new phase for Iraqi territorial sovereignty and strengthened security and military capabilities.
-
----
-
-### 2026-08-13 02:04:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. Treasury: YTD FY26 budget deficit $1.799 tln, versus $1.629 tln in the same period of FY25.
-
----
-
-### 2026-08-13 02:04:35  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact mixed #S&P500
-
-U.S. Treasury said July budget deficit was the largest since March 2021 and set a record for a July single-month deficit.
-
----
-
-### 2026-08-13 02:04:22  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. Treasury said July budget deficit was $432 bln, versus $346 bln expected and $291 bln in July a year earlier.
-
----
-
-### 2026-08-13 02:03:24  #國際
-
-美國 2026 財年截至目前赤字 1.799 萬億美元，2025 財年同期赤字為 1.629 萬億美元。
-
----
-
-### 2026-08-13 02:03:12  #MKT News #Macro & Rates #US Economy #US10Y
-
-U.S. Treasury: July government outlays $766 bln, highest July on record, vs $630 bln in July last year. July receipts $334 bln, down from $338 bln a year earlier.
-
----
-
-### 2026-08-13 02:03:01  #宏觀 #國際
-
-美國財政部：美國 7 月預算赤字為 2021 年 3 月以來最高，同時創下 7 月份歷史新高。
-
----
-
-### 2026-08-13 02:02:57  #宏觀 #國際
-
-美國財政部：7 月海關淨收入為‑85.5 億美元；海關總收入 248.4 億美元，退稅 333.8 億美元。
-
----
-
-### 2026-08-13 02:02:40  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury said July customs net receipts were negative $8.55 billion, total receipts $24.84 billion and refunds $33.38 billion.
-
----
-
-### 2026-08-13 02:02:23  #公司 #國際
-
-L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。
-
----
-
-### 2026-08-13 02:00:10  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-U.S. July federal budget deficit widened to $432 bln, vs. $346 bln expected; June deficit was $120 bln.
-
----
-
-### 2026-08-13 02:00:00  #MKT News #Economic Calendar #Important
-
-United States | Government Budget (Jul) | actual -432000000000B | consensus -346000000000B | previous -120000000000B
-
----
-
-### 2026-08-13 01:59:55  #其他
-
-【伊拉克總理：9月30日為國際聯盟撤軍最後期限】當地時間12日，據伊拉克總理媒體辦公室宣告，伊拉克總理扎伊迪當天會見了到訪的美軍中央司令部司令庫珀。會晤期間，扎伊迪重申了伊方對既定時間表的承諾，即9月30日是國際聯盟部隊結束在伊拉克軍事任務並完成撤軍的最終日期。扎伊迪表示，10月1日將是伊拉克歷史上嶄新的一天，屆時伊拉克將徹底擺脫所有外國軍事存在，實現本國領土主權，持續增強本國安全和軍事能力，維護自身安全與穩定。（央視新聞）
-
----
-
-### 2026-08-13 01:59:34  #MKT News
-
-Saudi outlet Alhadath reports a Yemeni government drone strike hit a Houthi assembly point in Al Jawf province.
-
----
-
-### 2026-08-13 01:59:18  #國際
-
-美國7月政府預算 -4323.08億美元，預期 -3460億美元，前值 -2911億美元。
-
----
-
-### 2026-08-13 01:57:26  #其他
-
-訊息人士：巴西經濟團隊將支出約束觸發條款寫入國會一項無關法案之中。擬議措施將在 2027 年實現約 100 億雷亞爾的支出節省。
-
----
-
-### 2026-08-13 01:56:53  #MKT News
-
-Sources said Brazil's economic team inserted spending-cut provisions into an unrelated bill filed with Congress; the measures would save about BRL 10 bln in 2027.
-
----
-
-### 2026-08-13 01:54:33  #其他
-
-葉門武裝部隊：無人機襲擊朱夫省胡塞武裝集結點。
-
----
-
-### 2026-08-13 01:54:05  #MKT News
-
-Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace.
 
 ---
