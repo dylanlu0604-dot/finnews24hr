@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-20 03:31:42_
-_本檔包含 3150 則快訊，約 625328 字_
+_更新時間：2026-08-20 03:54:29_
+_本檔包含 3162 則快訊，約 626102 字_
+
+---
+
+### 2026-08-20 03:51:46  #MKT News #XAUUSD #Impact bullish #DXY
+
+【Netanyahu warns Turkey against expanding military deployment in Syria】Israeli Prime Minister Netanyahu said in an interview on the 19th that Israel will not tolerate Turkey expanding military deployments in Syria, particularly any extension of Turkish forces into southern Syria that would "pose a threat" to Israel. He said Israel has issued a clear warning to Turkey and added, "The message has been conveyed, but apparently they did not listen, so we will make sure they understand it better."
+
+---
+
+### 2026-08-20 03:50:15  #國際
+
+【內塔尼亞胡警告土耳其勿在敘利亞擴大軍事部署】以色列總理內塔尼亞胡19日在接受採訪時表示，以色列不會容忍土耳其在敘利亞擴大軍事部署，特別是相關軍事力量向敘南部延伸並對以色列“構成威脅”。內塔尼亞胡說，以方已就此向土耳其發出明確警告。他說：“這一資訊已經傳達，但顯然他們沒有聽進去，所以我們確保他們更好地理解這一點。”（新華社）
+
+---
+
+### 2026-08-20 03:49:09  #市場 #焦點
+
+現貨黃金突破4510美元/盎司，日內漲4.07%。
+
+---
+
+### 2026-08-20 03:48:59  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
+
+【Trump again urges Fed to cut rates】Trump again urged the Federal Reserve to cut rates promptly, saying US interest-rate costs are too high. He said each one percentage-point cut would reduce costs by about $600bn, called the current rate system "unfair", and said the Fed chair is performing well but is affected by the "politicization of the Federal Reserve Board".
+
+---
+
+### 2026-08-20 03:45:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says record US pipeline builds will reduce Strait of Hormuz importance】Trump said the US is building a record number of oil pipelines to reduce reliance on the Strait of Hormuz, and that the strait’s strategic importance will decline as alternative supply routes emerge and US control of the area strengthens. He added that prior forecasts of oil surging to $350 per barrel have not materialized; prices remain around $84–85/bbl.
+
+---
+
+### 2026-08-20 03:42:56  #國際
+
+特朗普結束白宮活動講話。
+
+---
+
+### 2026-08-20 03:42:41  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+US President Trump said interest-rate levels are absurd.
+
+---
+
+### 2026-08-20 03:42:20  #國際
+
+特朗普：利率水平高得離譜。
+
+---
+
+### 2026-08-20 03:41:48  #MKT News #Market Themes #The Trump Trade
+
+Trump on bond market: Americans should not worry about volatility.
+
+---
+
+### 2026-08-20 03:41:34  #國際
+
+特朗普談及債券市場：美國人無需擔憂市場波動。
+
+---
+
+### 2026-08-20 03:39:25  #央行 #國際
+
+特朗普：我有權與一個國家切斷所有業務往來。認為美聯儲主席沃什的表現非常出色。
+
+---
+
+### 2026-08-20 03:39:18  #MKT News #Macro & Rates #The Fed (FOMC)
+
+President Trump said he regards Fed Chair Kevin Warsh's performance as very strong.
+
+---
+
+### 2026-08-20 03:39:03  #MKT News #Market Themes #The Trump Trade
+
+President Trump said he has the right to cut off all business dealings with a country.
+
+---
+
+### 2026-08-20 03:38:56  #國際
+
+特朗普談及伊朗：目前海峽處於開放狀態，大量船隻通行。媒體並未報道這件事。
+
+---
+
+### 2026-08-20 03:37:52  #國際
+
+特朗普：（關於加拿大貿易）農民將不需要支付關稅。
+
+---
+
+### 2026-08-20 03:37:40  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish
+
+U.S. President Trump said the U.S. may reduce some tariffs on Canada to match levels applied to other countries, saying Canada is paying higher tariffs.
+
+---
+
+### 2026-08-20 03:37:25  #國際
+
+特朗普談及加拿大：我們可能將部分關稅下調至其他國家的同等水平，因為加拿大此前被徵收更高關稅。
+
+---
+
+### 2026-08-20 03:37:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. President Trump said the agreement with Iran had not delivered as claimed.
+
+---
+
+### 2026-08-20 03:37:05  #MKT News #WTI #Impact bullish #Brent
+
+President Trump said many vessels are currently transiting the Strait of Hormuz, but that traffic could slow at some point.
+
+---
+
+### 2026-08-20 03:36:32  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+US President Trump said the Strait of Hormuz will be less important than before.
+
+---
+
+### 2026-08-20 03:36:26  #國際
+
+特朗普：考慮取消針對加拿大的鋼鋁關稅。
+
+---
+
+### 2026-08-20 03:36:05  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs.
+
+---
+
+### 2026-08-20 03:36:00  #MKT News #WTI #Impact bullish #Brent
+
+President Trump said the U.S. may continue to blockade the Strait of Hormuz.
+
+---
+
+### 2026-08-20 03:35:57  #國際
+
+特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。
+
+---
+
+### 2026-08-20 03:35:38  #國際
+
+特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。
+
+---
+
+### 2026-08-20 03:35:25  #國際
+
+特朗普：與伊朗達成的協議結果並不像他們所說的那樣。
+
+---
+
+### 2026-08-20 03:35:22  #MKT News
+
+President Trump said he supports term limits.
+
+---
+
+### 2026-08-20 03:35:08  #MKT News
+
+Trump on Iran sanctions: we will wait and see.
+
+---
+
+### 2026-08-20 03:34:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,510/oz, up 4.06% intraday.
+
+---
+
+### 2026-08-20 03:34:48  #國際
+
+【皮尤調查：美國年輕人對AI態度日益敵視 擔心技術進步導致大規模失業】皮尤研究中心的一項調查顯示，美國勞動力市場中最年輕的一批人對人工智慧的疑慮日益增加，擔心這項技術的進步會導致大規模失業。6月資料顯示，自皮尤2021年開始進行這項調查以來，30歲以下成年人中首次有多數人表示對AI的擔憂多於興奮。這與大多數其他年齡群體的態度趨於一致，但變化尤其明顯的是，最年輕群體已從過去最看好AI潛力的一群人，轉變為如今對這項技術最持懷疑態度的群體之一。調查顯示，在這一年齡段中，接近四分之三的人還認為，AI將導致可獲得的工作崗位減少，佔比高於兩年前的61%。
+
+---
+
+### 2026-08-20 03:34:36  #國際
+
+特朗普：伊朗制裁後續情況我們拭目以待。
+
+---
+
+### 2026-08-20 03:34:34  #MKT News #Market Themes #AI Revolution
+
+【OpenAI CFO: Company to go public in 2027 or earlier】OpenAI CFO Sarah Friar told staff at an all‑hands the company expects to be a public company in 2027 but could list earlier if growth accelerates. She said an IPO is a milestone and a means to raise capital rather than an endpoint, and that OpenAI completed $122 bln of financing in March, giving it greater flexibility for future development.
+
+---
+
+### 2026-08-20 03:34:15  #國際
+
+特朗普：美國已就儲備 “大規模” 比特幣及其他加密貨幣的相關計劃展開討論。
+
+---
+
+### 2026-08-20 03:32:39  #國際
+
+特朗普談及加拿大貿易談判：我認為我們達成了一份對各方都有利的協議。
+
+---
+
+### 2026-08-20 03:32:22  #焦點 #國際
+
+特朗普：可能和加拿大達成協議。
+
+---
+
+### 2026-08-20 03:32:22  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #WTI #Copper
+
+Trump on Canada trade talks said he believes a deal has been reached that will be mutually beneficial.
+
+---
+
+### 2026-08-20 03:32:14  #MKT News #Important #Market Themes #The Trump Trade
+
+U.S. President Trump said on trade talks with Canada that we may reach a deal.
 
 ---
 
@@ -18835,155 +19057,5 @@ Iran foreign ministry spokesman BAGHAEI urged regional actors not to make basele
 ### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
 
 Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
-
----
-
-### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
-
----
-
-### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
-
----
-
-### 2026-08-19 04:44:36  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
-
----
-
-### 2026-08-19 04:44:27  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
-
----
-
-### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
-
-US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
-
----
-
-### 2026-08-19 04:44:17  #國際
-
-伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
-
----
-
-### 2026-08-19 04:44:09  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
-
----
-
-### 2026-08-19 04:44:07  #MKT News
-
-API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
-
----
-
-### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
-
-US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
-
----
-
-### 2026-08-19 04:43:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
-
----
-
-### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
-
----
-
-### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
-
----
-
-### 2026-08-19 04:43:41  #國際
-
-美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
-
----
-
-### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
-
----
-
-### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
-
----
-
-### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
-
-US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
-
----
-
-### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
-
----
-
-### 2026-08-19 04:43:14  #國際
-
-惠譽評級：美國醫療保健網路風險日益增加。
-
----
-
-### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
-
----
-
-### 2026-08-19 04:42:50  #國際
-
-【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
-
----
-
-### 2026-08-19 04:42:30  #國際
-
-伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
-
----
-
-### 2026-08-19 04:41:37  #市場
-
-諾福克南方鐵路盤後上漲2.4%。
-
----
-
-### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
-
-Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
-
----
-
-### 2026-08-19 04:39:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed.
-
----
-
-### 2026-08-19 04:38:45  #國際
-
-【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
 
 ---

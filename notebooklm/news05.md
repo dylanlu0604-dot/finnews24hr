@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 03:31:42_
-_本檔包含 3235 則快訊，約 625015 字_
+_更新時間：2026-08-20 03:54:29_
+_本檔包含 3228 則快訊，約 625553 字_
+
+---
+
+### 2026-08-14 08:11:44  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
+
+China Mobile earnings above expectations at 1.84 HKD — China Mobile (941) released earnings per share at 1.84 HKD, compared to market expectations of 1.38 HKD.
+
+---
+
+### 2026-08-14 08:11:09  #MKT News #Market Regions #Japan & APAC
+
+Australia's S&P/ASX 200 opened down 53.3 points (-0.58%) at 9,135.2 on Aug 14 (Fri).
+
+---
+
+### 2026-08-14 08:10:55  #MKT News
+
+【U.S. denies reports of crew deaths, suicide surge aboard USS Abraham Lincoln】U.S. Central Command (CENTCOM) said on social media that multiple media reports in the past 48 hours about the USS Abraham Lincoln's Middle East deployment were "false." CENTCOM said claims that seven sailors died in a shipboard brawl and that onboard suicide ideation had surged were "fabricated," and that there have been no deaths aboard the carrier; a sailor who went overboard on Aug. 3 was rapidly and safely rescued. CENTCOM added the Lincoln has one of the Navy's highest re-enlistment rates and, after more than 260 days at sea, roughly 10,000 sorties and 1.5 million pounds of ordnance, the carrier strike group's sailors and Marines remain "resolute" with "high morale."
+
+---
+
+### 2026-08-14 08:10:52  #公司
+
+【早間公告：盛新鋰能向特定物件發行股票申請獲深交所受理】早間公告：①盛新鋰能：向特定物件發行股票申請獲深交所受理。②英可瑞：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。③天奇股份：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。④華天科技：發行股份及支付現金購買資產並募集配套資金暨關聯交易事項獲深交所併購重組稽核委員會稽核透過。
+
+---
+
+### 2026-08-14 08:09:51  #Trading Economics #Markets #United Arab Emirates #Earnings #Importance 0
+
+Abu Dhabi National Energy earnings in line with market expectations at 0.02 AED — Abu Dhabi National Energy (TAQA) released earnings per share at 0.02 AED.
+
+---
+
+### 2026-08-14 08:09:27  #國際
+
+【美否認林肯號水兵鬥毆致死自殺激增】美軍中央司令部今天（8月14日）在社交媒體平臺發帖稱，過去48小時內，多家媒體就“林肯”號航母部署中東期間的情況釋出了“虛假報道”。其中一則報道稱“有7名水兵在艦上鬥毆中喪生”，另一些報道則暗示“艦上水兵自殺念頭激增”——這些報道“純屬捏造”。美軍中央司令部稱，“林肯”號在所有美軍航母中，一直保持著“最高的人員續約率之一（84.4%）”。在海上連續部署超過260天、執行1萬架次飛行任務、投擲150萬磅彈藥之後，“林肯”號航母打擊群的海軍及海軍陸戰隊官兵依然“意志堅定、士氣高昂”。艦上“並無任何軍人死亡”，8月3日那名落水的水兵也已被迅速且安全地救起。（CCTV國際時訊）
 
 ---
 
@@ -19435,83 +19471,5 @@ Nebius股價收盤上漲34%，創去年9月以來最大漲幅。
 ### 2026-08-13 03:54:41  #MKT News #WTI #Impact bullish #Brent
 
 【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's "Persian Gulf Strait Authority" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran.
-
----
-
-### 2026-08-13 03:52:58  #國際
-
-【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。
-
----
-
-### 2026-08-13 03:46:39  #MKT News
-
-White House press secretary Leavitt said President Trump has asked him to continue serving externally as a senior adviser and that he will remain a steadfast advocate for MAGA and the Republican Party.
-
----
-
-### 2026-08-13 03:43:25  #國際
-
-萊維特：特朗普已邀請我擔任外部顧問。
-
----
-
-### 2026-08-13 03:39:25  #MKT News
-
-President Trump said Levitt will become one of his senior outside advisers and an influential voice within the Republican Party.
-
----
-
-### 2026-08-13 03:38:34  #觀點
-
-摩根士丹利認為Grok聊天機器人是SpaceX拓展綜合人工智慧平臺的早期訊號；維持增持評級，目標價300美元。
-
----
-
-### 2026-08-13 03:36:57  #MKT News
-
-U.S. President Trump said White House press secretary Leavitt will resign to spend more time with family.
-
----
-
-### 2026-08-13 03:36:48  #國際
-
-美國防長赫格塞思：假新聞媒體一直試圖抹黑“南方之矛行動”，否定其正當性。同樣是這批聲音，在往屆政府任由邊境危機空前惡化、藥物過量死亡人數創下紀錄之時卻緘口不言。如今他們又矢口否認，極力貶低我們共同取得的成果。
-
----
-
-### 2026-08-13 03:36:27  #國際
-
-特朗普：萊維特將成為我的頂級外部顧問之一。
-
----
-
-### 2026-08-13 03:36:10  #國際
-
-特朗普：白宮新聞秘書萊維特將卸任，以便有更多時間陪伴家人。
-
----
-
-### 2026-08-13 03:36:06  #MKT News #Important
-
-President Trump said White House press secretary Leavitt will leave at the end of the month.
-
----
-
-### 2026-08-13 03:35:42  #國際
-
-特朗普：卡羅琳·萊維特將於本月底離職。
-
----
-
-### 2026-08-13 03:35:35  #MKT News #WTI #Impact bullish #Brent
-
-Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi mercenary positions at Mocha port.
-
----
-
-### 2026-08-13 03:31:51  #MKT News
-
-Real Estate Institute of New Zealand said July adjusted median house price fell 0.6% year-on-year.
 
 ---

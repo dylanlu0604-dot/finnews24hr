@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-20 03:31:42_
-_本檔包含 3183 則快訊，約 625146 字_
+_更新時間：2026-08-20 03:54:29_
+_本檔包含 3199 則快訊，約 625382 字_
+
+---
+
+### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
+
+---
+
+### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
+
+---
+
+### 2026-08-19 04:44:36  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
+
+---
+
+### 2026-08-19 04:44:27  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
+
+---
+
+### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
+
+US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
+
+---
+
+### 2026-08-19 04:44:17  #國際
+
+伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
+
+---
+
+### 2026-08-19 04:44:09  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
+
+---
+
+### 2026-08-19 04:44:07  #MKT News
+
+API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
+
+US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
+
+---
+
+### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
+
+---
+
+### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:41  #國際
+
+美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
+
+---
+
+### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
+
+---
+
+### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
+
+US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
+
+---
+
+### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
+
+---
+
+### 2026-08-19 04:43:14  #國際
+
+惠譽評級：美國醫療保健網路風險日益增加。
+
+---
+
+### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
+
+---
+
+### 2026-08-19 04:42:50  #國際
+
+【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
+
+---
+
+### 2026-08-19 04:42:30  #國際
+
+伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
+
+---
+
+### 2026-08-19 04:41:37  #市場
+
+諾福克南方鐵路盤後上漲2.4%。
+
+---
+
+### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
+
+Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
+
+---
+
+### 2026-08-19 04:39:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed.
+
+---
+
+### 2026-08-19 04:38:45  #國際
+
+【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
 
 ---
 
@@ -19155,59 +19305,5 @@ The Dow Jones Index Opens 0.29% Lower — The Dow Jones Index is falling 158 poi
 ### 2026-08-17 21:39:48  #Trading Economics #Markets #Commodity #Importance 1
 
 Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Monday, rising about 0.5% to 2,878 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the second day, up 1.2% to 4,590 points; and the supramax index went up 0.4% to its highest level since July 28 at 1,628 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1% to its lowest since August 4 at 2,206 points.
-
----
-
-### 2026-08-17 21:38:54  #其他
-
-約旦國王阿卜杜拉二世接受新華社專訪。（新華社）
-
----
-
-### 2026-08-17 21:38:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
-
----
-
-### 2026-08-17 21:37:42  #國際
-
-【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）
-
----
-
-### 2026-08-17 21:35:50  #公司 #市場
-
-【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。
-
----
-
-### 2026-08-17 21:35:47  #MKT News #LUNR.O #Impact bullish
-
-Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m.
-
----
-
-### 2026-08-17 21:35:43  #公司 #市場
-
-直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。
-
----
-
-### 2026-08-17 21:35:38  #其他
-
-美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。
-
----
-
-### 2026-08-17 21:34:10  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises on Energy Gains — The Ibovespa rose more than 0.5% to trade close to 168,000 on Monday, rebounding from a seven-month low with support from the energy sector. Petrobras added over 1% as oil prices rose amid persistent tensions in the Middle East. Prio (+1%) and Brava (+1%) also gained. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round. Heavyweight shares also supported the index, with Axia and Sabesp rising over 1% and WEG adding nearly 1%. In contrast, financials traded lower amid energy-driven inflation concerns. Itaú, Banco do Brasil and Itaúsa shed about 0.5%, while Bradesco lost 1%. Vale edged lower despite higher iron ore prices.
-
----
-
-### 2026-08-17 21:33:47  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold.
 
 ---

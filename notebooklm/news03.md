@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-20 03:31:42_
-_本檔包含 2878 則快訊，約 625150 字_
+_更新時間：2026-08-20 03:54:29_
+_本檔包含 2868 則快訊，約 625692 字_
+
+---
+
+### 2026-08-17 21:38:54  #其他
+
+約旦國王阿卜杜拉二世接受新華社專訪。（新華社）
+
+---
+
+### 2026-08-17 21:38:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
+
+---
+
+### 2026-08-17 21:37:42  #國際
+
+【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 21:35:50  #公司 #市場
+
+【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。
+
+---
+
+### 2026-08-17 21:35:47  #MKT News #LUNR.O #Impact bullish
+
+Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m.
+
+---
+
+### 2026-08-17 21:35:43  #公司 #市場
+
+直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。
+
+---
+
+### 2026-08-17 21:35:38  #其他
+
+美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。
+
+---
+
+### 2026-08-17 21:34:10  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises on Energy Gains — The Ibovespa rose more than 0.5% to trade close to 168,000 on Monday, rebounding from a seven-month low with support from the energy sector. Petrobras added over 1% as oil prices rose amid persistent tensions in the Middle East. Prio (+1%) and Brava (+1%) also gained. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round. Heavyweight shares also supported the index, with Axia and Sabesp rising over 1% and WEG adding nearly 1%. In contrast, financials traded lower amid energy-driven inflation concerns. Itaú, Banco do Brasil and Itaúsa shed about 0.5%, while Bradesco lost 1%. Vale edged lower despite higher iron ore prices.
+
+---
+
+### 2026-08-17 21:33:47  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold.
 
 ---
 
@@ -17250,119 +17304,5 @@ Colombian president asked U.S. President Trump on a call to temporarily suspend 
 5、志願巡河護生態；
 6、廣東潮州推進古城保護利用 古城新“潮”；
 7、算好三本賬 走穩綠色路（今日談）。
-
----
-
-### 2026-08-16 07:13:32  #國際
-
-【金正恩回電普京：展望兩國美好未來時感到自豪】據朝中社16日報道，朝鮮國務委員長金正恩15日向俄羅斯總統普京回電，感謝其在朝鮮解放81週年之際發來賀電，並表示在展望朝俄兩國關係更加美好的未來時感到自豪。回電說，堅信俄羅斯軍民在普京的領導下將完成維護國家主權、安全利益和領土完整、建設強大俄羅斯的偉業，並衷心希望普京取得更大成就。（新華社）
-
----
-
-### 2026-08-16 07:13:11  #國際
-
-美國地質調查局（USGS）：密克羅尼西亞科洛尼亞東北19公里處發生5.4級地震。
-
----
-
-### 2026-08-16 06:59:04  #其他
-
-【上半年煤炭供應充足 迎峰度夏用能有保障】記者從中國煤炭工業協會瞭解到，今年上半年全國規模以上工業原煤日均產量達1307萬噸，為歷史同期第二高，煤炭作為主體能源的壓艙石作用持續發揮。目前，我國進入迎峰度夏用能高峰時期，全國大部分地區氣溫較常年同期偏高，部分地區出現了階段性高溫熱浪。為積極應對極端氣候，做好迎峰度夏煤炭保供工作，煤炭行業充分發揮大型現代化煤礦和智慧化煤礦優勢，全國煤炭生產供應平穩有序。（央視新聞）
-
----
-
-### 2026-08-16 06:53:02  #國際
-
-【俄稱控制一居民點 烏稱遠端打擊俄目標】俄羅斯國防部15日通報稱，俄軍控制了扎波羅熱地區的一個居民點。過去一天，俄軍對烏軍後勤中心、燃料能源和交通基礎設施、遠端無人機和無人艇組裝車間實施了打擊。此外，俄軍還對147個區域內的烏軍和外國僱傭軍臨時部署點實施了打擊。通報稱，俄軍繼續對服務於烏軍的烏克蘭港口基礎設施和船隻實施打擊。烏克蘭武裝部隊總參謀部15日通報稱，過去一天，前線地區發生233次戰鬥，烏軍在多個方向擊退俄軍進攻。烏軍對俄軍指揮所、兵力集結區、火炮系統以及無人機控制點等目標發動了打擊。（央視新聞）
-
----
-
-### 2026-08-16 06:45:49  #其他
-
-【經濟日報：“龍餐館”從容迎戰“奧德賽”】2026暑期檔熱浪奔湧，票房資料屢創新高。檔期後半程，本土現實題材影片《歡迎來龍餐館》與國外史詩大片《奧德賽》正面交鋒，市場熱度持續攀升。《歡迎來龍餐館》從容迎戰，這一場景放在多年前幾乎難以想象。那時，我國影視工業化建設尚處於爬坡階段，產業體系尚不成熟、型別創作不夠完善，面對海外成熟IP、國際知名導演打造的重磅工業化大片，國產影片普遍缺乏直面競爭的信心，大多透過提檔、延後調檔等方式規避正面比拼。經過多年積澱，國內影視工業化鏈條日趨完備，從劇本打磨、拍攝製作到後期特效、宣發排片全流程愈發規範成熟，大眾對本土故事的認同感、消費意願也持續攀升，電影產業生態得以全方位進步，這正是國產影片敢於主動和國際大片同臺較量的底氣所在。
-
----
-
-### 2026-08-16 06:45:29  #國際
-
-【伊朗稱與阿曼達成海峽通航協議 美證實繼續中東“航母接力”】在美國總統特朗普14日揚言“很快將宣佈霍爾木茲海峽為美國領土”後，伊朗就於15日宣佈已與阿曼達成了霍爾木茲海峽航道通航的協議。不過圍繞海峽的控制權，美伊雙方仍然在各說各話。與此同時，特朗普此前所說的，替換當前部署在中東地區的“林肯”號核動力航空母艦的“接班艦”也被曝光。（央視新聞）
-
----
-
-### 2026-08-16 06:42:28  #國際
-
-美國海軍第二艘傑拉爾德·R·福特級航空母艦——尚未正式服役的約翰·F·肯尼迪號，已完成接收試驗。
-
----
-
-### 2026-08-16 06:24:02  #其他
-
-【摩洛哥加強邊境管控 攔截294名企圖非法越境人員】摩洛哥當地媒體15日援引摩安全部門訊息人士的話報道，截至當地時間14時45分，摩安全部隊在靠近西班牙北非飛地休達的邊境地區攔截294名企圖非法越境人員，其中248人來自撒哈拉以南非洲國家，46人為摩洛哥人。（新華社）
-
----
-
-### 2026-08-16 06:20:23  #公司
-
-市場資訊：英國水務公司計劃在乾旱時期提高水費。
-
----
-
-### 2026-08-16 06:18:59  #國際
-
-哥倫比亞總統稱，他與特朗普通話時表示，已請求美國在地震後暫停對哥倫比亞產品加徵關稅。
-
----
-
-### 2026-08-16 06:17:11  #國際
-
-伊朗資深議員易卜拉欣·阿齊茲：美國總統與其就霍爾木茲海峽不斷虛張聲勢，不如操心自身安全，免得最後躲進食品卡車裡避難。
-
----
-
-### 2026-08-16 06:15:05  #國際
-
-以色列再度轟炸黎巴嫩南部。
-
----
-
-### 2026-08-16 06:11:16  #國際
-
-醫療部門訊息：加沙地帶遭以色列火力打擊，造成1名巴勒斯坦人死亡，7人受傷。
-
----
-
-### 2026-08-16 06:10:08  #其他
-
-英國首相伯納姆呼籲（英國）社會展開反思，此前一名遭抄襲指控的劍橋大學前教授離世。
-
----
-
-### 2026-08-16 06:06:04  #國際
-
-美國緊急事務官員表示，印第安納州遭遇風暴和洪水後已造成六人死亡。
-
----
-
-### 2026-08-16 06:01:42  #MKT News #Market Regions #Japan & APAC
-
-【Heavy rain in Chiba kills nine, floods over 1,000 homes】As of the 16th, heavy rain that began on the 13th in Chiba Prefecture, Japan, has killed nine people and flooded more than 1,000 homes, the prefectural government and police said.
-
----
-
-### 2026-08-16 06:00:22  #國際
-
-【日本千葉縣暴雨已致9人死亡 超千棟房屋被淹】據日本千葉縣政府和警方16日公佈的訊息，截至目前，千葉縣13日開始的暴雨已導致9人死亡，受淹房屋超過1000棟。
-
----
-
-### 2026-08-16 05:59:29  #國際
-
-美國中央司令部發布一張地圖，將加沙地帶與約旦河西岸標註為以色列領土。
-
----
-
-### 2026-08-16 05:58:42  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support "Epic Rage", regional security missions and the U.S. maritime blockade against Iran.
 
 ---
