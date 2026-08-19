@@ -1,7 +1,34 @@
 {
   "date": "2026-08-20",
-  "count": 58,
+  "count": 61,
   "items": [
+    {
+      "id": "mkt:01a01ae6-2b0f-7aab-909d-b8f5946359db",
+      "time": "2026-08-20 00:41:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WEF renews push to appoint ECB chief Lagarde as forum chair】The World Economic Forum’s board discussed this week efforts to recruit European Central Bank president Christine Lagarde as its next chair, people familiar with the matter said. Sources say Lagarde appears ready to accept but wants assurance that tensions with WEF founder and former chair Klaus Schwab have been fully resolved. Schwab abruptly resigned in April 2025 amid an investigation into alleged financial misconduct and was later cleared, but strains between him and the forum have persisted."
+    },
+    {
+      "id": "mkt:01a01ae4-e2c8-7aab-909d-b453a04f153c",
+      "time": "2026-08-20 00:40:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Crossover Energy CEO said the company has finalized an oil deal with Venezuela’s state oil company."
+    },
+    {
+      "id": "5048427",
+      "time": "2026-08-20 00:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達首相兼外交部長與沙特外交部長強調，必須確保（霍爾木茲海峽）航行安全。"
+    },
     {
       "id": "mkt:01a01ae1-510f-7aab-909d-ad9f3fb594c7",
       "time": "2026-08-20 00:36:08",
