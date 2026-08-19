@@ -1,7 +1,87 @@
 {
   "date": "2026-08-19",
-  "count": 938,
+  "count": 946,
   "items": [
+    {
+      "id": "5046948",
+      "time": "2026-08-19 11:27:55",
+      "tags": [
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【比特幣巨鯨重返市場 兩個月增持27.5億美元】比特幣連續數月低迷期間，不僅散戶交易員紛紛離場，加密貨幣基金流失數十億美元資金，就連市場上最大的買家之一也轉為賣家。如今，苦苦尋覓市場觸底跡象的投資者終於看到一絲久違的曙光：比特幣“巨鯨”又開始買入了。根據CryptoQuant的資料，過去60天持倉大戶增持約43,000枚比特幣，按當前價格計算價值約27.5億美元。CryptoQuant的統計剔除了交易所和礦池持倉。資料顯示，比特幣價格回升至60,000美元左右時，這些持倉大戶經歷數月拋售後重新買入，被稱為“海豚”的小戶持倉也在增長。"
+    },
+    {
+      "id": "mkt:01a0180f-9d20-7aab-9088-6453bbff7304",
+      "time": "2026-08-19 11:27:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "The Indian rupee was around 95.70 per US dollar on the interbank order-matching system ahead of the local spot market open."
+    },
+    {
+      "id": "mkt:01a0180f-7255-7aab-9088-5981611bdad3",
+      "time": "2026-08-19 11:27:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Traders said the Reserve Bank of India may be selling dollars to limit rupee depreciation."
+    },
+    {
+      "id": "5046947",
+      "time": "2026-08-19 11:27:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌5.01%，現報3519.888點；上證指數跌1.96%，現報3912.040點；深證成指跌4.00%，現報14038.153點。"
+    },
+    {
+      "id": "mkt:01a0180e-f36f-7aab-9088-55ecee6e34e3",
+      "time": "2026-08-19 11:27:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share bank stocks outperformed the broader market, with CITIC Bank up more than 4% and Agricultural Bank of China, Bank of Nanjing, Bank of Chengdu, Chongqing Rural Commercial Bank and Bank of Chongqing each rising over 2%."
+    },
+    {
+      "id": "5046946",
+      "time": "2026-08-19 11:25:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖板塊大幅調整，中材科技跌停】玻纖板塊大幅調整，中材科技跌停，宏和科技、再升科技、金安國紀、卓郎智慧、中國巨石、國際復材等跟跌。"
+    },
+    {
+      "id": "mkt:01a0180d-7e62-7aab-9088-4e3b10fe0974",
+      "time": "2026-08-19 11:25:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【U.S. ambassador: Israeli forces need not withdraw from Gaza until Hamas \"completely disarmed\"】The U.S. ambassador to Israel said on the 18th that Israeli forces need not withdraw from the Gaza Strip until Hamas is \"completely disarmed.\" He denied reports of a clash on the 17th between Prime Minister Netanyahu and Jared Kushner over the next phase of a Gaza peace plan, saying the U.S. does not expect Israel to withdraw while Hamas still holds weapons. He added the U.S. and Israel have reached a \"good\" agreement. President Trump has said Hamas must be disarmed and barred from future Gaza governance."
+    },
+    {
+      "id": "5046945",
+      "time": "2026-08-19 11:25:03",
+      "tags": [],
+      "text": "創業板指跌5％，深證成指跌近4％，滬指跌1.98％，科創50指數跌6％，MLCC概念、CPO板塊、儲存晶片板塊跌幅居前。"
+    },
     {
       "id": "mkt:01a0180c-85eb-7aab-9088-40f9c5906ae7",
       "time": "2026-08-19 11:24:28",
