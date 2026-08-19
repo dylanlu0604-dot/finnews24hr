@@ -1,7 +1,126 @@
 {
   "date": "2026-08-19",
-  "count": 1396,
+  "count": 1409,
   "items": [
+    {
+      "id": "mkt:01a018e1-49d8-7aab-908e-1264ecd8ab1d",
+      "time": "2026-08-19 15:16:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB President LAGARDE said Europe must not miss the AI revolution."
+    },
+    {
+      "id": "5047217",
+      "time": "2026-08-19 15:16:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東資料集團揭牌成立】據浪潮集團訊息，8月19日，山東資料集團有限公司（簡稱“山東資料集團”）在濟南正式揭牌成立。山東資料集團將重點開展資料資源開發利用、資料基礎設施建設運營、數字政府平臺建設運營、資料產業生態構建、數字經濟賦能增效以及資料科技創新與數字人才培養等工作，全力當好公共資料運營示範者、數字政府建設促進者、資料生態引領者，打造成為山東資料要素產業鏈的“鏈主”企業。"
+    },
+    {
+      "id": "mkt:01a018e0-dbff-7aab-908e-0c0c5836e2fb",
+      "time": "2026-08-19 15:16:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】2-year (TS) most-active contract unchanged; 5-year (TF) down 0.03%; 10-year (T) down 0.04%; 30-year (TL) down 0.27%."
+    },
+    {
+      "id": "te:markets:576373",
+      "time": "2026-08-19 15:16:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 2.51% Lower — The Shangai Composite Index decreased 100 points or 2.51 percent on Wednesday to close at 3890 points. The decline was led by Sanan Optoelectron (-8.02%), Yonghui Superstore (-4.89%) and China Molybdenum (-4.41%)."
+    },
+    {
+      "id": "5047216",
+      "time": "2026-08-19 15:16:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贊宇科技在杭州成立新材料公司】企查查APP顯示，近日，杭州贊宇新材料有限公司成立，經營範圍包含：新型有機活性材料銷售；工程塑膠及合成樹脂銷售；高效能纖維及複合材料銷售等。企查查股權穿透顯示，該公司由贊宇科技全資持股。"
+    },
+    {
+      "id": "mkt:01a018e0-1ca9-7aab-908e-0472b6096b88",
+      "time": "2026-08-19 15:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said intelligence sharing with the United States has resumed."
+    },
+    {
+      "id": "mkt:01a018e0-0d98-7aab-908d-fb4998afd093",
+      "time": "2026-08-19 15:15:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank Indonesia governor said the central bank will ensure adequate liquidity in the banking system and broader economy to meet the inf target."
+    },
+    {
+      "id": "5047215",
+      "time": "2026-08-19 15:15:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行代理行長：正與政府協作，確保通脹及糧食供應處於可控範圍，其中包括應對厄爾尼諾現象帶來的影響。"
+    },
+    {
+      "id": "5047214",
+      "time": "2026-08-19 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.27%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "te:economy:576372",
+      "time": "2026-08-19 15:15:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Slovakia Current Account Deficit Narrows in June — Slovakia's current account deficit narrowed to EUR 226.5 million in June 2026 from EUR 277.6 million in the corresponding month of the previous year. The goods account surplus widened to EUR 135.3 million from EUR 126.9 million in June 2025, while the primary income shortfall narrowed to EUR 299.0 million from EUR 354.4 million. In contrast, the services account surplus edged down to EUR 41.3 million from EUR 41.6 million, and the secondary income deficit widened to EUR 104.1 million from EUR 91.7 million. In the first half of the year, the country's current account deficit totaled EUR 944.7 million, down from EUR 2,699.5 million in the corresponding period of 2025."
+    },
+    {
+      "id": "5047213",
+      "time": "2026-08-19 15:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《牛來》票房破2500萬】據燈塔專業版實時資料，截至8月19日15時13分，影片《牛來》票房突破2500萬。"
+    },
+    {
+      "id": "5047212",
+      "time": "2026-08-19 15:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元力股份：超級電容炭等新能源碳材料已實現批次生產和銷售】元力股份8月19日在互動平臺表示，公司超級電容炭、硬碳、多孔碳等新能源碳材料已實現批次生產和銷售。"
+    },
+    {
+      "id": "mkt:01a018df-4e63-7aab-908d-f43854ec5409",
+      "time": "2026-08-19 15:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor says the central bank is coordinating with the government to keep inf and food supplies under control, including addressing El Niño-related impacts."
+    },
     {
       "id": "5047211",
       "time": "2026-08-19 15:13:40",

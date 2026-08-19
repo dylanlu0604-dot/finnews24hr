@@ -1,7 +1,126 @@
 {
-  "updated": "2026-08-19 15:15:00",
-  "count": 15265,
+  "updated": "2026-08-19 15:18:52",
+  "count": 15271,
   "items": [
+    {
+      "id": "mkt:01a018e1-49d8-7aab-908e-1264ecd8ab1d",
+      "time": "2026-08-19 15:16:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB President LAGARDE said Europe must not miss the AI revolution."
+    },
+    {
+      "id": "5047217",
+      "time": "2026-08-19 15:16:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東資料集團揭牌成立】據浪潮集團訊息，8月19日，山東資料集團有限公司（簡稱“山東資料集團”）在濟南正式揭牌成立。山東資料集團將重點開展資料資源開發利用、資料基礎設施建設運營、數字政府平臺建設運營、資料產業生態構建、數字經濟賦能增效以及資料科技創新與數字人才培養等工作，全力當好公共資料運營示範者、數字政府建設促進者、資料生態引領者，打造成為山東資料要素產業鏈的“鏈主”企業。"
+    },
+    {
+      "id": "mkt:01a018e0-dbff-7aab-908e-0c0c5836e2fb",
+      "time": "2026-08-19 15:16:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】2-year (TS) most-active contract unchanged; 5-year (TF) down 0.03%; 10-year (T) down 0.04%; 30-year (TL) down 0.27%."
+    },
+    {
+      "id": "te:markets:576373",
+      "time": "2026-08-19 15:16:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 2.51% Lower — The Shangai Composite Index decreased 100 points or 2.51 percent on Wednesday to close at 3890 points. The decline was led by Sanan Optoelectron (-8.02%), Yonghui Superstore (-4.89%) and China Molybdenum (-4.41%)."
+    },
+    {
+      "id": "5047216",
+      "time": "2026-08-19 15:16:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贊宇科技在杭州成立新材料公司】企查查APP顯示，近日，杭州贊宇新材料有限公司成立，經營範圍包含：新型有機活性材料銷售；工程塑膠及合成樹脂銷售；高效能纖維及複合材料銷售等。企查查股權穿透顯示，該公司由贊宇科技全資持股。"
+    },
+    {
+      "id": "mkt:01a018e0-1ca9-7aab-908e-0472b6096b88",
+      "time": "2026-08-19 15:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said intelligence sharing with the United States has resumed."
+    },
+    {
+      "id": "mkt:01a018e0-0d98-7aab-908d-fb4998afd093",
+      "time": "2026-08-19 15:15:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank Indonesia governor said the central bank will ensure adequate liquidity in the banking system and broader economy to meet the inf target."
+    },
+    {
+      "id": "5047215",
+      "time": "2026-08-19 15:15:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行代理行長：正與政府協作，確保通脹及糧食供應處於可控範圍，其中包括應對厄爾尼諾現象帶來的影響。"
+    },
+    {
+      "id": "5047214",
+      "time": "2026-08-19 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.27%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "te:economy:576372",
+      "time": "2026-08-19 15:15:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Slovakia Current Account Deficit Narrows in June — Slovakia's current account deficit narrowed to EUR 226.5 million in June 2026 from EUR 277.6 million in the corresponding month of the previous year. The goods account surplus widened to EUR 135.3 million from EUR 126.9 million in June 2025, while the primary income shortfall narrowed to EUR 299.0 million from EUR 354.4 million. In contrast, the services account surplus edged down to EUR 41.3 million from EUR 41.6 million, and the secondary income deficit widened to EUR 104.1 million from EUR 91.7 million. In the first half of the year, the country's current account deficit totaled EUR 944.7 million, down from EUR 2,699.5 million in the corresponding period of 2025."
+    },
+    {
+      "id": "5047213",
+      "time": "2026-08-19 15:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《牛來》票房破2500萬】據燈塔專業版實時資料，截至8月19日15時13分，影片《牛來》票房突破2500萬。"
+    },
+    {
+      "id": "5047212",
+      "time": "2026-08-19 15:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【元力股份：超級電容炭等新能源碳材料已實現批次生產和銷售】元力股份8月19日在互動平臺表示，公司超級電容炭、硬碳、多孔碳等新能源碳材料已實現批次生產和銷售。"
+    },
+    {
+      "id": "mkt:01a018df-4e63-7aab-908d-f43854ec5409",
+      "time": "2026-08-19 15:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor says the central bank is coordinating with the government to keep inf and food supplies under control, including addressing El Niño-related impacts."
+    },
     {
       "id": "5047211",
       "time": "2026-08-19 15:13:40",
@@ -139907,72 +140026,6 @@
         "其他"
       ],
       "text": "【小紅書RED LAND 2026官宣十月開幕：集結超百個熱門IP，探索區域擴至10萬平方米】今日，小紅書宣佈，RED LAND 2026將於10月2日至6日在上海楊浦復興島舉辦，這是RED LAND連續第二年落地復興島。據悉，本屆RED LAND將集結超過100個知名遊戲及動漫IP，數量較去年翻倍，包括《王者榮耀》《黑神話：悟空》《原神》《崩壞：星穹鐵道》等熱門遊戲IP，迪士尼旗下瘋狂動物城、漫威（Marvel）等全球知名流行文化IP，以及《賽博朋克2077》《巫師3：狂獵》等一眾海外單主機精品IP。更多IP及合作方正陸續公佈。（新浪科技）"
-    },
-    {
-      "id": "te:markets:574675",
-      "time": "2026-08-12 15:17:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Extends Gains on Hormuz Uncertainty — Brent crude strengthened above $89 per barrel on Wednesday, advancing for a sixth straight session as investors weighed conflicting signals surrounding a potential agreement between the US and Iran. President Donald Trump said the US had “total control over the Strait of Hormuz” as negotiations over the key waterway remain deadlocked. The increasingly confrontational rhetoric raised further doubts about the prospects of an immediate agreement to reopen the critical shipping route. Meanwhile, Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, industry data showed US crude inventories increased by 9.1 million barrels last week, marking their biggest weekly rise since February."
-    },
-    {
-      "id": "5037060",
-      "time": "2026-08-12 15:17:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【咖哩豬排指數顯示日元嚴重低估 建立人稱比巨無霸指數更貼切】隨著當局干預匯市的影響正在消退，紐約梅隆銀行一位高階策略師利用日本一道快餐主食的價格，以準確衡量日元的疲弱程度。Geoff Yu建立了咖哩豬排指數，作為《經濟學人》巨無霸指數(Big Mac Index)的替代指標。他認為，相較於大麥克這種漢堡，比較咖哩豬排飯的國際價格，更能反映日元貶值對日本民眾究竟是什麼感受。"
-    },
-    {
-      "id": "5037059",
-      "time": "2026-08-12 15:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "鴻海：將在美國（包括德克薩斯州和威斯康星州）增加產能。"
-    },
-    {
-      "id": "te:markets:574673",
-      "time": "2026-08-12 15:16:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.37% Higher — The Shangai Composite Index went up by 14 points or 0.37 percent on Wednesday to close at 3948 points. The rise was led by Greenland Holdings (3.85%), China Fortune (3.67%) and Poly Real Estate (2.82%). On the downside, the weakerst performers were Petrochina (-3.53%), Shaanxi Coal (-2.78%) and Sdic Power (-1.82%)."
-    },
-    {
-      "id": "5037058",
-      "time": "2026-08-12 15:16:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：AI伺服器的成長非常強勁。受人工智慧需求強勁推動，淡季已不復存在。將繼續增加資本支出。明年展望很正面，客戶對AI的需求非常強勁。"
-    },
-    {
-      "id": "5037057",
-      "time": "2026-08-12 15:15:49",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【C919首條國際航線開通】8月12日15時許，由國產大飛機C919執飛的國航CA723航班從北京首都國際機場起飛，前往蒙古國首都烏蘭巴托，標誌著C919首條國際航線正式開通。目前，國航已運營12架C919客機，開通北京至上海、廣州、香港、哈爾濱、重慶等航線，執飛超1.2萬班次，安全運送旅客超162萬人次。（新華社）"
-    },
-    {
-      "id": "5037056",
-      "time": "2026-08-12 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約跌0.07%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
     }
   ]
 }
