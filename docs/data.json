@@ -1,7 +1,201 @@
 {
-  "updated": "2026-08-19 23:30:25",
-  "count": 15479,
+  "updated": "2026-08-19 23:34:26",
+  "count": 15488,
   "items": [
+    {
+      "id": "5048374",
+      "time": "2026-08-19 23:33:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國拍賣17週期國庫券，最高中標利率為3.750%，高收益率區間中標量佔投標總量的25.88%。"
+    },
+    {
+      "id": "te:markets:576563",
+      "time": "2026-08-19 23:33:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "TD Bank Stock Price Hits 9-week Low — TD Bank shares decreased to 164.09 CAD, the lowest since June 2026. Over the past 4 weeks, TD Bank lost 2.98%, and in the last 12 months, it increased 60.67%."
+    },
+    {
+      "id": "mkt:01a01aa7-aeea-7aab-909c-aef683154465",
+      "time": "2026-08-19 23:33:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 4-month Treasury auction to Aug. 19: share of awards allocated at the stop-out rate 25.88%, prior 9.14%."
+    },
+    {
+      "id": "mkt:01a01aa7-9b6f-7aab-909c-a02080abcf37",
+      "time": "2026-08-19 23:33:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury bill auction to Aug. 19 bid-cover ratio 3.35, prior 3.16."
+    },
+    {
+      "id": "mkt:01a01aa7-744b-7aab-909c-9e09643e7356",
+      "time": "2026-08-19 23:32:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.19) | actual 3.35 | previous 3.16"
+    },
+    {
+      "id": "mkt:01a01aa7-7054-7aab-909c-92ba838376f8",
+      "time": "2026-08-19 23:32:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction on Aug 19: stop-out yield 3.75%, prior 3.76%."
+    },
+    {
+      "id": "5048373",
+      "time": "2026-08-19 23:32:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本民眾集會抗議高市政府錯誤歷史認知和危險動向】上萬名日本民眾19日晚在東京國會議事堂前舉行抗議集會，反對高市早苗政府近期在歷史認知、安全保障等領域的一系列危險動向。據組織方介紹，約1.5萬人現場參加集會，另有約2.5萬人線上參加。現場，抗議者手舉“反對軍事擴張”標語，高喊“守護和平憲法”“高市馬上下臺”等口號。集會的主題之一是“不反省戰爭、不正視加害歷史的政治家應立即下臺”。（新華社）"
+    },
+    {
+      "id": "mkt:01a01aa7-4d7f-7aab-909c-8a8d875dcffa",
+      "time": "2026-08-19 23:32:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.19) | actual 3.75% | previous 3.76%"
+    },
+    {
+      "id": "mkt:01a01aa7-0cca-7aab-909c-80662a1d28e9",
+      "time": "2026-08-19 23:32:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said oil prices will fall sharply once this is over."
+    },
+    {
+      "id": "5048372",
+      "time": "2026-08-19 23:32:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：等這一切結束後，油價會低得多。"
+    },
+    {
+      "id": "5048371",
+      "time": "2026-08-19 23:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：有多艘船隻正穿越我們完全掌控的霍爾木茲海峽，大量石油經由該海峽運輸。"
+    },
+    {
+      "id": "mkt:01a01aa6-5ac5-7aab-909c-7bbae2bce190",
+      "time": "2026-08-19 23:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said talks with Iran may take place at some point. He said Iran must not possess nuclear weapons because they would use them."
+    },
+    {
+      "id": "5048370",
+      "time": "2026-08-19 23:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：昨晚有很多船只經過霍爾木茲海峽。"
+    },
+    {
+      "id": "5048369",
+      "time": "2026-08-19 23:31:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗不能擁有核武器，因為他們會使用核武器。"
+    },
+    {
+      "id": "mkt:01a01aa5-f7b9-7aab-909c-750f22519d68",
+      "time": "2026-08-19 23:31:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli airstrike on Gaza kills nine】Hamas said on the 19th that an Israeli airstrike at midday on Gaza city police headquarters killed nine. The Israeli Defense Forces said the strike targeted a Hamas military commander. Hamas said most of the dead were police and staff, with more than ten civilians wounded, and called the attack — which it said followed US envoy Jared Kushner’s communications with Israel about advancing a ceasefire — “especially enraging,” accusing Israel of “deliberately undermining” diplomatic efforts and seeking to restart military operations in Gaza."
+    },
+    {
+      "id": "5048368",
+      "time": "2026-08-19 23:31:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談重啟伊朗談判：也許在某個時候會。"
+    },
+    {
+      "id": "5048367",
+      "time": "2026-08-19 23:31:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們完全控制了（霍爾木茲）海峽。"
+    },
+    {
+      "id": "5048366",
+      "time": "2026-08-19 23:30:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "比特幣漲幅擴大至7.7%。"
+    },
+    {
+      "id": "mkt:01a01aa5-44cc-7aab-909c-6c8d5d0b5e37",
+      "time": "2026-08-19 23:30:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said many ships transited the Strait of Hormuz last night."
+    },
     {
       "id": "mkt:01a01aa4-707d-7aab-909c-620b77a74da1",
       "time": "2026-08-19 23:29:39",
@@ -141502,106 +141696,6 @@
         "國際"
       ],
       "text": "美國至8月12日4個月國債競拍-投標倍數 3.16，前值3.19。\n美國至8月12日4個月國債競拍-得標利率配置百分比 9.14%，前值94.66%。\n美國至8月12日4個月國債競拍-得標利率 3.755%，前值3.79%。"
-    },
-    {
-      "id": "mkt:019ff69b-f2db-7aab-9010-9938bffbdb03",
-      "time": "2026-08-12 23:34:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 4-month Treasury auction Aug. 12 — stop-out yield 3.755%, prior 3.79%."
-    },
-    {
-      "id": "mkt:019ff69b-d5c7-7aab-9010-933eeb33d187",
-      "time": "2026-08-12 23:33:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.12) | actual 3.755% | previous 3.79%"
-    },
-    {
-      "id": "mkt:019ff69b-9741-7aab-9010-8b769fb22ef0",
-      "time": "2026-08-12 23:33:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. 4-month Treasury auction on Aug. 12 — percentage of allotment at the stop-out yield 9.14%, prior 94.66%."
-    },
-    {
-      "id": "mkt:019ff69a-acde-7aab-9010-83889a9c4f56",
-      "time": "2026-08-12 23:32:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US 4-month Treasury auction bid-cover ratio 3.16 on Aug. 12, down from 3.19 previously."
-    },
-    {
-      "id": "mkt:019ff69a-82f2-7aab-9010-7a1edf487b4b",
-      "time": "2026-08-12 23:32:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.12) | actual 3.16 | previous 3.19"
-    },
-    {
-      "id": "5038012",
-      "time": "2026-08-12 23:32:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【谷歌釋出新一代Pixel智慧手機 硬體和設計上小幅升級】Alphabet Inc.旗下谷歌釋出最新一代Pixel智慧手機，在硬體和設計上進行小幅升級。新系列包括Pixel 11 Pro XL，起售價1,299美元；Pixel 11 Pro，起售價1,099美元；Pixel 11，899美元。此外還有摺疊屏手機Pixel 11 Pro Fold，起售價1,899美元。新機帶來一些真正的新功能，例如“HiLight”，可把相機閃光燈變成更實用的通知指示燈。此外，還包括一些更務實的改進，例如提升抗刮效能和螢幕亮度。受前所未有的記憶體晶片供應緊張影響，這幾款手機的起售價均較去年上漲100美元。除了提價，谷歌還下調了Pixel 11 Pro和Pro XL基礎版本的記憶體，從去年的16GB降至12GB。高儲存版本仍保留16GB記憶體。不過，新機的基礎儲存容量有所增加，從128GB提高至256GB。"
-    },
-    {
-      "id": "5038011",
-      "time": "2026-08-12 23:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceXAI：Grok 4.6今日已在Cursor和Grok Build中上線。Grok 4.6定價為每百萬輸入Token收費2美元，每百萬輸出Token收費6美元。Grok 4.6也已透過API以及OpenRouter、Vercel和Cloudflare等合作伙伴平臺上線。"
-    },
-    {
-      "id": "5038010",
-      "time": "2026-08-12 23:31:17",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "阿拉比亞電視臺訊息人士：巴基斯坦調解方正尋求延長（美伊）60天停火期限。巴基斯坦調解方對 60 天期限得以延長持樂觀態度。"
-    },
-    {
-      "id": "mkt:019ff699-2f33-7aab-9010-76d51b07c528",
-      "time": "2026-08-12 23:31:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Grok 4.6 is now available via API and on partner platforms OpenRouter, Vercel and Cloudflare."
-    },
-    {
-      "id": "mkt:019ff698-cca9-7aab-9010-692f3e138e35",
-      "time": "2026-08-12 23:30:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SpaceX AI: Grok 4.6 priced at $2 per 1 million input tokens and $6 per 1 million output tokens."
     }
   ]
 }
