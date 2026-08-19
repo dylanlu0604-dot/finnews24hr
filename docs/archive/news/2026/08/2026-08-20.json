@@ -1,7 +1,41 @@
 {
   "date": "2026-08-20",
-  "count": 107,
+  "count": 111,
   "items": [
+    {
+      "id": "mkt:01a01b08-3a52-7aab-909e-6f6c884dfce8",
+      "time": "2026-08-20 01:18:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches preview of \"Private Safety Processing\" to bolster AI interaction safety without changing its zero-data-retention approach. The feature will be rolled out in phases starting in September and OpenAI will publish a technical white paper."
+    },
+    {
+      "id": "5048451",
+      "time": "2026-08-20 01:18:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：預覽私人安全處理功能，該功能在保持與零資料保留相容的同時，加強了互動過程中的安全防護。"
+    },
+    {
+      "id": "5048450",
+      "time": "2026-08-20 01:17:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將於9月推出私有安全處理功能。"
+    },
+    {
+      "id": "5048449",
+      "time": "2026-08-20 01:16:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：零資料留存內容不會被留存，也不會用於模型訓練。"
+    },
     {
       "id": "5048448",
       "time": "2026-08-20 01:16:26",
