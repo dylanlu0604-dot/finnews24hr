@@ -1,7 +1,48 @@
 {
   "date": "2026-08-19",
-  "count": 502,
+  "count": 507,
   "items": [
+    {
+      "id": "mkt:01a0176d-67e1-7aab-9084-4b721493dd9c",
+      "time": "2026-08-19 08:30:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators."
+    },
+    {
+      "id": "5046659",
+      "time": "2026-08-19 08:29:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與哈爾濱工業大學共建聯合研究中心】據上海電氣訊息，8月18日上午，上海電氣集團黨委書記、董事長吳磊赴哈爾濱工業大學，與哈爾濱工業大學黨委常委、校長韓傑才會面，雙方圍繞服務國家重大戰略需求，聚焦聯合攻關、人才培養、成果轉化等重點方向深入交流，並簽署共建“哈爾濱工業大學國家能源領域學院-上海電氣集團聯合研究中心”協議。"
+    },
+    {
+      "id": "mkt:01a0176c-5ce2-7aab-9084-43a5809c8deb",
+      "time": "2026-08-19 08:29:32",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "Sources say the SK Hynix union is finalizing the wording of a temporary wage agreement and will notify members of the terms this afternoon."
+    },
+    {
+      "id": "5046657",
+      "time": "2026-08-19 08:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國官員：政府將引入人工智慧工具測試系統網路安全漏洞】當地時間18日，法國預算部長阿米耶爾表示，法國政府將使用人工智慧工具來測試政府系統中的網路安全漏洞。此前，法國稅務部門遭到大規模駭客攻擊，約70萬名納稅人的資訊和資料被盜。"
+    },
+    {
+      "id": "mkt:01a0176a-7c31-7aab-9084-3e7138fc1f8b",
+      "time": "2026-08-19 08:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities: Spandex supply tightening, industry cycle likely to improve】Huatai Securities says spandex prices and company margins were pressured from 2022 by sustained capacity additions. With the current expansion cycle ending, exit of inefficient capacity and rising elastic-apparel demand and spandex penetration, supply-demand began to improve from 2025. Early-2026 inventory drawdown combined with geopolitically driven cost pressure triggered a sharp price rebound; as feedstock costs later eased, industry price spreads widened. Huatai expects limited new capacity and steady demand to push spandex toward a supply-tight market, supporting further price and spread expansion."
+    },
     {
       "id": "5046656",
       "time": "2026-08-19 08:26:06",

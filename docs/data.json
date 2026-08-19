@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-19 08:27:15",
-  "count": 15135,
+  "updated": "2026-08-19 08:31:11",
+  "count": 15136,
   "items": [
+    {
+      "id": "mkt:01a0176d-67e1-7aab-9084-4b721493dd9c",
+      "time": "2026-08-19 08:30:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators."
+    },
+    {
+      "id": "5046659",
+      "time": "2026-08-19 08:29:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣與哈爾濱工業大學共建聯合研究中心】據上海電氣訊息，8月18日上午，上海電氣集團黨委書記、董事長吳磊赴哈爾濱工業大學，與哈爾濱工業大學黨委常委、校長韓傑才會面，雙方圍繞服務國家重大戰略需求，聚焦聯合攻關、人才培養、成果轉化等重點方向深入交流，並簽署共建“哈爾濱工業大學國家能源領域學院-上海電氣集團聯合研究中心”協議。"
+    },
+    {
+      "id": "mkt:01a0176c-5ce2-7aab-9084-43a5809c8deb",
+      "time": "2026-08-19 08:29:32",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "Sources say the SK Hynix union is finalizing the wording of a temporary wage agreement and will notify members of the terms this afternoon."
+    },
+    {
+      "id": "5046657",
+      "time": "2026-08-19 08:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國官員：政府將引入人工智慧工具測試系統網路安全漏洞】當地時間18日，法國預算部長阿米耶爾表示，法國政府將使用人工智慧工具來測試政府系統中的網路安全漏洞。此前，法國稅務部門遭到大規模駭客攻擊，約70萬名納稅人的資訊和資料被盜。"
+    },
+    {
+      "id": "mkt:01a0176a-7c31-7aab-9084-3e7138fc1f8b",
+      "time": "2026-08-19 08:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities: Spandex supply tightening, industry cycle likely to improve】Huatai Securities says spandex prices and company margins were pressured from 2022 by sustained capacity additions. With the current expansion cycle ending, exit of inefficient capacity and rising elastic-apparel demand and spandex penetration, supply-demand began to improve from 2025. Early-2026 inventory drawdown combined with geopolitically driven cost pressure triggered a sharp price rebound; as feedstock costs later eased, industry price spreads widened. Huatai expects limited new capacity and steady demand to push spandex toward a supply-tight market, supporting further price and spread expansion."
+    },
     {
       "id": "5046656",
       "time": "2026-08-19 08:26:06",
@@ -138661,43 +138702,6 @@
         "其他"
       ],
       "text": "【家：哥倫比亞強震與委內瑞拉強震無直接關聯】當地時間11日，哥倫比亞地質局專家佛雷迪·託瓦爾·貝爾卡拉在接受總檯記者專訪時表示，此次發生在哥倫比亞的7.5級強地震是該國有地震監測記錄以來的最強地震之一。同時，此次地震與今年6月24日發生在委內瑞拉的強震沒有直接關聯。"
-    },
-    {
-      "id": "5036533",
-      "time": "2026-08-12 08:30:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海證交所上日融資餘額幾無變動，報13,504.2億元。"
-    },
-    {
-      "id": "5036532",
-      "time": "2026-08-12 08:29:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4440美元/盎司，日內跌0.02%。"
-    },
-    {
-      "id": "5036531",
-      "time": "2026-08-12 08:28:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【2026年8月11日ETF資金整體淨流出50.05億元】據同花順iFinD資料顯示，2026年8月11日，ETF資金整體淨流出50.05億元，股票型淨流出64.46億元，寬基型淨流出47.64億元。當日ETF資金淨流出榜單排名前3依次為：易方達創業板ETF（159915）淨流出14.56億元，南方中證1000ETF（512100）淨流出7.19億元，上證綜指ETF（510210）淨流出6.52億元。"
-    },
-    {
-      "id": "5036530",
-      "time": "2026-08-12 08:27:49",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本東證指數上漲 銀行股和服務業板塊領漲 提前加息預期提振銀行股】日本東證指數上漲，主要受銀行和服務業板塊上漲的帶動。東證指數上漲0.3%至4,112.59；日經指數下跌0.1%至66,886.70。市場對日本央行提早加息的預期升溫，提振銀行板塊，其中三菱日聯金融集團對東證指數的漲幅貢獻最大，上漲2.3%。該指數的1637只成分股中，942只上漲，608只下跌，87只持平。"
     }
   ]
 }
