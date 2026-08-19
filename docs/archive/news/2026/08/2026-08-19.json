@@ -1,7 +1,96 @@
 {
   "date": "2026-08-19",
-  "count": 600,
+  "count": 609,
   "items": [
+    {
+      "id": "mkt:01a0179c-e96d-7aab-9084-fdecf4652b50",
+      "time": "2026-08-19 09:22:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY 142.3 bln liquidity drain via reverse repos】The PBOC did not conduct standard reverse repo operations today but injected CNY 327.4 bln via overnight reverse repos; with CNY 469.7 bln of overnight reverse repos maturing, the net liquidity withdrawal was CNY 142.3 bln."
+    },
+    {
+      "id": "5046736",
+      "time": "2026-08-19 09:22:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百度港股開盤大跌12%，此前該公司公佈第二季度銷售額下滑，且資本支出增加。"
+    },
+    {
+      "id": "5046735",
+      "time": "2026-08-19 09:22:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠1,423億元人民幣。"
+    },
+    {
+      "id": "5046734",
+      "time": "2026-08-19 09:21:44",
+      "tags": [],
+      "text": "港股恒指低開跌0.49％，國企指數跌0.53％，科指跌1.27%。"
+    },
+    {
+      "id": "mkt:01a0179c-2117-7aab-9084-f1462614314a",
+      "time": "2026-08-19 09:21:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "Hong Kong open Aug 19 (Wed): HSI opened down 124.25 pts (-0.49%) at 25,346.9; Hang Seng Tech Index opened down 60.38 pts (-1.27%) at 4,678.8; Hang Seng China Enterprises Index (HSCEI) opened down 44.7 pts (-0.53%) at 8,408.5; Hang Seng Red Chip Index opened down 23.12 pts (-0.55%) at 4,159.92."
+    },
+    {
+      "id": "mkt:01a0179c-0f03-7aab-9084-e95b914e339f",
+      "time": "2026-08-19 09:21:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09888.HK",
+        "Impact bearish",
+        "00762.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong stocks opened lower: Hang Seng down 0.49%, Hang Seng Tech down 1.27%. Baidu (09888.HK) fell more than 12% after earnings; China Unicom (00762.HK) dropped 7.7% after reporting 1H net profit down 34.6% YoY."
+    },
+    {
+      "id": "mkt:01a0179b-c0dd-7aab-9084-e70c1eff75bf",
+      "time": "2026-08-19 09:21:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Aug 19, 2026 was zero. It conducted 327.4 bln yuan of overnight reverse repos."
+    },
+    {
+      "id": "5046733",
+      "time": "2026-08-19 09:21:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。"
+    },
+    {
+      "id": "5046732",
+      "time": "2026-08-19 09:19:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美東時間週三下午2:30在科技領袖陪同下發表講話。"
+    },
     {
       "id": "5046731",
       "time": "2026-08-19 09:17:08",
