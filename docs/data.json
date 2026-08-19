@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-20 04:02:35",
-  "count": 15678,
+  "updated": "2026-08-20 04:06:23",
+  "count": 15679,
   "items": [
+    {
+      "id": "mkt:01a01ba0-8e2c-7aab-90a1-f42fd4e45b30",
+      "time": "2026-08-20 04:05:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.N",
+        "MRVL.O"
+      ],
+      "text": "【US close: major indices higher; Moderna surges 176%】US stocks closed higher Wednesday. Dow Jones Industrial Average preliminary close +0.22%, S&P 500 +0.21%, Nasdaq +0.16%. Moderna (MRNA.O) surged 176%; Merck (MRK.N) +12.6%. Marvell Technology (MRVL.O) +9.8%. SK Hynix (SKHY.O) +0.35%. SanDisk (SNDK.O) -3.5%; Micron Technology (MU.O) -0.39%. Nasdaq Golden Dragon China Index +1.5%."
+    },
+    {
+      "id": "mkt:01a01ba0-848a-7aab-90a1-e801423b999c",
+      "time": "2026-08-20 04:04:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US stocks closed higher on Aug 19 (Wed): Dow Jones Industrial Average +119.71 pts (+0.22%) to 53,463.11; S&P 500 +16.50 pts (+0.21%) to 7,708.26; Nasdaq Composite +41.38 pts (+0.16%) to 26,331.09."
+    },
+    {
+      "id": "5048580",
+      "time": "2026-08-20 04:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "MODERNA 股價飆升創紀錄 177%，市值增加 440 億美元。"
+    },
+    {
+      "id": "5048579",
+      "time": "2026-08-20 04:03:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅詩蘭黛股價收漲16%，創2011年以來最大漲幅。"
+    },
     {
       "id": "mkt:01a01b9d-f358-7aab-90a1-e59150aad41d",
       "time": "2026-08-20 04:02:11",
@@ -143624,37 +143671,6 @@
         "市場"
       ],
       "text": "思科2027財年銷售額指引超出市場預期，股價大漲7%。"
-    },
-    {
-      "id": "mkt:019ff795-1218-7aab-9013-458902535458",
-      "time": "2026-08-13 04:06:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Aug 12 (Wed) close: Dow Jones Industrial Average down 21.69 pts (-0.04%) at 53,770.16; S&P 500 up 20.31 pts (+0.26%) at 7,748.51; Nasdaq Composite up 143.04 pts (+0.54%) at 26,588.49."
-    },
-    {
-      "id": "5038108",
-      "time": "2026-08-13 04:05:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "航空導航資料顯示：阿聯酋王室專機（註冊號A6‑RJA）今日飛抵德黑蘭。該飛機昨日也曾飛往德黑蘭，停留一小時後返回阿聯酋。"
-    },
-    {
-      "id": "mkt:019ff792-6607-7aab-9013-3820c9a68a5f",
-      "time": "2026-08-13 04:03:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24News reports that, at the request of Colombia’s disaster management agency, Israeli Prime Minister Netanyahu has sent an aid team."
     }
   ]
 }

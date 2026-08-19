@@ -1,7 +1,54 @@
 {
   "date": "2026-08-20",
-  "count": 343,
+  "count": 347,
   "items": [
+    {
+      "id": "mkt:01a01ba0-8e2c-7aab-90a1-f42fd4e45b30",
+      "time": "2026-08-20 04:05:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.N",
+        "MRVL.O"
+      ],
+      "text": "【US close: major indices higher; Moderna surges 176%】US stocks closed higher Wednesday. Dow Jones Industrial Average preliminary close +0.22%, S&P 500 +0.21%, Nasdaq +0.16%. Moderna (MRNA.O) surged 176%; Merck (MRK.N) +12.6%. Marvell Technology (MRVL.O) +9.8%. SK Hynix (SKHY.O) +0.35%. SanDisk (SNDK.O) -3.5%; Micron Technology (MU.O) -0.39%. Nasdaq Golden Dragon China Index +1.5%."
+    },
+    {
+      "id": "mkt:01a01ba0-848a-7aab-90a1-e801423b999c",
+      "time": "2026-08-20 04:04:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US stocks closed higher on Aug 19 (Wed): Dow Jones Industrial Average +119.71 pts (+0.22%) to 53,463.11; S&P 500 +16.50 pts (+0.21%) to 7,708.26; Nasdaq Composite +41.38 pts (+0.16%) to 26,331.09."
+    },
+    {
+      "id": "5048580",
+      "time": "2026-08-20 04:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "MODERNA 股價飆升創紀錄 177%，市值增加 440 億美元。"
+    },
+    {
+      "id": "5048579",
+      "time": "2026-08-20 04:03:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅詩蘭黛股價收漲16%，創2011年以來最大漲幅。"
+    },
     {
       "id": "mkt:01a01b9d-f358-7aab-90a1-e59150aad41d",
       "time": "2026-08-20 04:02:11",
