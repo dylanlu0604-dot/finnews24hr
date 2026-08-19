@@ -1,7 +1,154 @@
 {
   "date": "2026-08-19",
-  "count": 767,
+  "count": 782,
   "items": [
+    {
+      "id": "mkt:01a017ce-aa7e-7aab-9086-bdbdcd164843",
+      "time": "2026-08-19 10:16:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share coal mining and processing sector advanced; Shaanxi Black Cat hit limit-up. Meijin Energy, Dayou Energy and Baotailong earlier hit limit-up. Antai Group, Yunmei Energy, Zhengzhou Coal & Power, Shanxi Coking and Haohua Energy also gained."
+    },
+    {
+      "id": "5046842",
+      "time": "2026-08-19 10:16:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊走高，陝西黑貓漲停】煤炭開採加工板塊走高，陝西黑貓漲停，美錦能源、大有能源、寶泰隆此前封板，安泰集團、雲煤能源、鄭州煤電、山西焦化、昊華能源等跟漲。"
+    },
+    {
+      "id": "5046841",
+      "time": "2026-08-19 10:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股晶片股走低，天數智芯、華虹宏力跌超10%，芯智控股跌超7%，兆易創新跌近7%。"
+    },
+    {
+      "id": "mkt:01a017cd-59e2-7aab-9086-b7bb28c5128d",
+      "time": "2026-08-19 10:15:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "09903.HK",
+        "Impact bearish",
+        "01347.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong-listed chip stocks slid: 09903.HK down 11%, 01347.HK off more than 10%, 02166.HK down over 7%, and 03986.HK down 6.8%."
+    },
+    {
+      "id": "te:markets:576304",
+      "time": "2026-08-19 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Increases by 0.46% — Top currency gainers are South Korean Won (0.46%) and Japanese Yen (0.14%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5046840",
+      "time": "2026-08-19 10:14:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數下跌2%至4,631.22點。"
+    },
+    {
+      "id": "5046839",
+      "time": "2026-08-19 10:14:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【臺陸委會稱其工作是“抵禦中共統戰” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，臺陸委會近日稱，“統戰是中共奪取中國大陸政權的三大法寶之一，陸委會的工作從來不是搞統戰，而是抵禦中共統戰”。請問對此有何評論？國務院臺辦發言人朱鳳蓮表示，統一戰線簡稱統戰，其本質是大團結大聯合，是交朋友促團結，是求同存異、共謀發展。從抗日戰爭時期凝聚全民族力量，共禦外侮到今天團結海內外同胞共促民族復興，統戰工作始終堅守初心。臺灣同胞是我們的親人、家人。密切交流，促進加強團結，為他們謀利造福，天經地義，光明正大。她指出，民進黨當局企圖加深兩岸隔閡對立，阻撓破壞兩岸交流合作，為其“臺獨”分裂服務，行為卑劣、用心險惡。祖國統一、民族復興的大勢浩浩蕩蕩，不可阻擋。兩岸同胞走近走親、走到一起的大潮滾滾向前，不可逆轉。民進黨當局違背歷史大勢，違逆民心民意，必將遭到越來越多臺灣民眾的反對和唾棄。（新華社）"
+    },
+    {
+      "id": "mkt:01a017cc-66de-7aab-9086-ae0a12b16ad0",
+      "time": "2026-08-19 10:14:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【AI chip competition heats up, Japanese startup pivots to advanced materials】Tokyo University spin‑off Gaianixx is accelerating capacity expansion to capture rising AI-driven demand for chip materials. CEO Kento Nakao said the company will enlarge its Yamanashi technical centre southwest of Tokyo, which currently processes about 15,000 8‑inch wafers a year. Nakao said the firm’s most advanced project could enter trial production by year‑end, and that one Japanese customer and one overseas customer have committed to use Gaianixx materials to develop devices. The expansion comes as chipmakers increasingly seek performance gains from advanced materials amid slowing transistor‑scaling improvements."
+    },
+    {
+      "id": "5046838",
+      "time": "2026-08-19 10:13:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量92億元。"
+    },
+    {
+      "id": "5046837",
+      "time": "2026-08-19 10:13:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院臺辦介紹國共兩黨青年雙向交流機制化平臺情況】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮表示，為了貫徹落實習近平總書記會見中國國民黨主席鄭麗文時的重要講話精神，中共中央臺辦受權釋出10項促進兩岸交流合作的政策措施，其中包括建立國共兩黨青年雙向交流機制化平臺。8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行兩岸青年交流季”上海站活動。屆時兩岸青年將在主論壇上圍繞新興科技、中華文化、兩岸青年交流等主題進行深入交流研討。在潮流集市上打卡美食潮玩，一站式體驗夏夜閒適氣息，在聯歡晚會上與兩岸演藝明星們一起歡歌起舞，盡情展示青春的熱烈與昂揚。之後，兩岸青年還將赴上海、浙江等地參訪研習，走進學校鄉村企業等，探尋詩畫江南綠水青山，觸控AI機器人等前沿科技。（央視新聞）"
+    },
+    {
+      "id": "5046836",
+      "time": "2026-08-19 10:13:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌3%，現報7572.00點。"
+    },
+    {
+      "id": "mkt:01a017cb-3596-7aab-9086-a5cf879ba9c1",
+      "time": "2026-08-19 10:13:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Shenzhen Composite Index fell more than 3%, the ChiNext Index dropped 3.6% and the Shanghai Composite fell 1.62%; stocks tied to humanoid robots, memory chips and MLCCs led the declines."
+    },
+    {
+      "id": "5046835",
+      "time": "2026-08-19 10:13:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內AI高階覆銅板龍頭企業耀鴻電子完成超2億元戰略融資】8月19日，據泰合資本訊息，近日，國內AI高階覆銅板（CCL）龍頭企業江蘇耀鴻電子有限公司完成了由東瑞投資、沃衍資本、粵開資本、普華資本、嘉溢創投、金舵投資、黃海金控、好買股權母基金、華義創投等聯合參與的超2億元人民幣戰略融資，泰合資本擔任財務顧問。"
+    },
+    {
+      "id": "te:markets:576301",
+      "time": "2026-08-19 10:13:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Hovers Near 4-Year High — Zinc futures traded around $3,700 per tonne, near a four-year high, supported by tightening near-term supply, production disruptions, and low inventories. Heavy rainfall and flooding across parts of China, the world’s largest zinc producer, have threatened mining and smelting operations. On top of that, production adjustments at a mine in Southwest China are expected to reduce August zinc concentrate output by around 1,000 tonnes, while maintenance at a smelter in Central China could cut refined production by another 1,000–1,500 tonnes. Supply concerns have also spread to other major producers. Glencore’s own-sourced zinc production fell in the first half of 2026, while Boliden’s zinc concentrate output declined quarter-on-quarter and MMG’s production decreased year-on-year in Q2. Moreover, LME zinc inventories have dropped to their lowest level since December, while high canceled warrants and falling on-warrant stocks signal that less metal is readily available for immediate delivery."
+    },
+    {
+      "id": "te:economy:576300",
+      "time": "2026-08-19 10:12:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Eases Ahead of FOMC Minutes — The yield on the 10-year US Treasury note eased toward 4.7% on Wednesday, retreating from recent highs as investors awaited the minutes of the Federal Reserve’s July meeting for fresh insights into the monetary policy outlook. The Fed left interest rates unchanged last month, though three officials dissented in favor of a rate hike, a split that traders will scrutinize for further details. Earlier this week, Treasury yields surged, with the 30-year US Treasury yield reaching a 19-year high, as rising debt issuance and concerns about persistent inflation fueled a selloff in longer-dated bonds. US corporate bond issuance has also remained in focus, with estimates suggesting AI-related companies could issue as much as $1.5 trillion in debt this year. The surge in dollar-denominated fixed-income supply has added to concerns over expanding fiscal deficits in the US and other G10 economies, prompting investors to demand higher term premiums across global bond markets."
+    },
     {
       "id": "5046834",
       "time": "2026-08-19 10:12:55",
