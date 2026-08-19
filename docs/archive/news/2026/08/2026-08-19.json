@@ -1,7 +1,46 @@
 {
   "date": "2026-08-19",
-  "count": 1238,
+  "count": 1242,
   "items": [
+    {
+      "id": "5047111",
+      "time": "2026-08-19 14:16:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【方正證券：維持中信建投“推薦”評級，股權投資收入高增】方正證券研報指出，1H26中信建投實現營業收入162.3億/yoy+51.1%；實現歸母淨利潤76.4億/yoy+69.4%。單二季度看，公司2Q26經紀、投行、資管、淨利息、投資（含匯兌）收入分別為26.6、5.0、4.0、0.4、46.0億元，分別同比+66%、-34%、+23%、-78%、+73%。股權投資方面，中信建投投資上半年累計落地投資專案21個，總投資金額7.7億元，已投資專案新增IPO申報12單。1H26中信建投投資實現營業收入17.7億元/yoy+373%，佔公司整體10.9%；實現淨利潤13.2億元/yoy+375%，佔公司整體的17.2%。經紀業務方面，公司1H26新開發客戶202.65萬戶/yoy+143.92%，期末累計客戶總數突破1900萬戶，“蜻蜓點金”APP月活排名行業第7。兩融業務方面，公司1H26淨新增融資融券賬戶1.25萬戶/yoy+40.9%，期末融資融券餘額1086億元/較年初+27.6%，市佔率3.60%。維持“推薦”評級。"
+    },
+    {
+      "id": "mkt:01a018a9-69ac-7aab-908c-3f38ff98fad7",
+      "time": "2026-08-19 14:15:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Fubao Information: spot lithium carbonate down 2,800 yuan/ton; battery-grade at 150,300 yuan/ton】Fubao spot battery-carbonate basis index -290 yuan/ton (unchanged). Battery-grade lithium carbonate 150,300 yuan/ton (-2,800). Industrial-grade (composite) lithium carbonate 147,700 yuan/ton (-2,800). Premium battery-grade lithium carbonate 151,200 yuan/ton (-2,800). Lithium hydroxide index 138,333.33 yuan/ton (-3,500). Metallic lithium index 975,000 yuan/ton (unchanged). Brine-derived lithium (lithium sulfate) discount coefficient 75% (+1 ppt)."
+    },
+    {
+      "id": "te:markets:576349",
+      "time": "2026-08-19 14:14:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Lower Open — European equity markets were poised to open lower on Wednesday, tracking declines across global markets as investors remained concerned about elevated bond yields and rising oil prices. Renewed selling in chipmakers linked to the AI trade also weighed on sentiment, adding to pressure on regional stocks. In Europe, investors will focus on the latest UK and Eurozone inflation data, along with remarks from ECB President Christine Lagarde. On Tuesday, ECB chief economist Philip Lane said the region’s 3% inflation rate remains “too high” when considering potential adjustments to policy rates. Meanwhile, no major earnings reports are scheduled in Europe on Wednesday. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.2%."
+    },
+    {
+      "id": "5047110",
+      "time": "2026-08-19 14:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.2%，報9053.80點。"
+    },
     {
       "id": "mkt:01a018a6-cac5-7aab-908c-31d7266b7dcc",
       "time": "2026-08-19 14:12:59",

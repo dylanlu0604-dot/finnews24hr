@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-19 14:13:28",
-  "count": 15290,
+  "updated": "2026-08-19 14:17:19",
+  "count": 15281,
   "items": [
+    {
+      "id": "5047111",
+      "time": "2026-08-19 14:16:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【方正證券：維持中信建投“推薦”評級，股權投資收入高增】方正證券研報指出，1H26中信建投實現營業收入162.3億/yoy+51.1%；實現歸母淨利潤76.4億/yoy+69.4%。單二季度看，公司2Q26經紀、投行、資管、淨利息、投資（含匯兌）收入分別為26.6、5.0、4.0、0.4、46.0億元，分別同比+66%、-34%、+23%、-78%、+73%。股權投資方面，中信建投投資上半年累計落地投資專案21個，總投資金額7.7億元，已投資專案新增IPO申報12單。1H26中信建投投資實現營業收入17.7億元/yoy+373%，佔公司整體10.9%；實現淨利潤13.2億元/yoy+375%，佔公司整體的17.2%。經紀業務方面，公司1H26新開發客戶202.65萬戶/yoy+143.92%，期末累計客戶總數突破1900萬戶，“蜻蜓點金”APP月活排名行業第7。兩融業務方面，公司1H26淨新增融資融券賬戶1.25萬戶/yoy+40.9%，期末融資融券餘額1086億元/較年初+27.6%，市佔率3.60%。維持“推薦”評級。"
+    },
+    {
+      "id": "mkt:01a018a9-69ac-7aab-908c-3f38ff98fad7",
+      "time": "2026-08-19 14:15:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Fubao Information: spot lithium carbonate down 2,800 yuan/ton; battery-grade at 150,300 yuan/ton】Fubao spot battery-carbonate basis index -290 yuan/ton (unchanged). Battery-grade lithium carbonate 150,300 yuan/ton (-2,800). Industrial-grade (composite) lithium carbonate 147,700 yuan/ton (-2,800). Premium battery-grade lithium carbonate 151,200 yuan/ton (-2,800). Lithium hydroxide index 138,333.33 yuan/ton (-3,500). Metallic lithium index 975,000 yuan/ton (unchanged). Brine-derived lithium (lithium sulfate) discount coefficient 75% (+1 ppt)."
+    },
+    {
+      "id": "te:markets:576349",
+      "time": "2026-08-19 14:14:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Lower Open — European equity markets were poised to open lower on Wednesday, tracking declines across global markets as investors remained concerned about elevated bond yields and rising oil prices. Renewed selling in chipmakers linked to the AI trade also weighed on sentiment, adding to pressure on regional stocks. In Europe, investors will focus on the latest UK and Eurozone inflation data, along with remarks from ECB President Christine Lagarde. On Tuesday, ECB chief economist Philip Lane said the region’s 3% inflation rate remains “too high” when considering potential adjustments to policy rates. Meanwhile, no major earnings reports are scheduled in Europe on Wednesday. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.2%."
+    },
+    {
+      "id": "5047110",
+      "time": "2026-08-19 14:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.2%，報9053.80點。"
+    },
     {
       "id": "mkt:01a018a6-cac5-7aab-908c-31d7266b7dcc",
       "time": "2026-08-19 14:12:59",
@@ -140094,118 +140133,6 @@
         "其他"
       ],
       "text": "鴻海：預計第三季度營收同比將實現強勁增長。"
-    },
-    {
-      "id": "5036944",
-      "time": "2026-08-12 14:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計2026年營收將實現同比強勁增長，此前市場預期即為強勁增長。"
-    },
-    {
-      "id": "5036943",
-      "time": "2026-08-12 14:16:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武大靖出任中國短道速滑隊主教練】國家體育總局冬季運動管理中心剛剛宣佈，經公開選聘，冬奧冠軍武大靖出任中國短道速滑隊主教練。（新華社）"
-    },
-    {
-      "id": "5036942",
-      "time": "2026-08-12 14:16:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海第二季度營業利潤948.0億元新臺幣，預估805.3億元新臺幣。"
-    },
-    {
-      "id": "5036941",
-      "time": "2026-08-12 14:16:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海上半年營收4.65萬億元新臺幣。"
-    },
-    {
-      "id": "5036940",
-      "time": "2026-08-12 14:15:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海上半年營業利潤1,704.5億元新臺幣。"
-    },
-    {
-      "id": "te:economy:574637",
-      "time": "2026-08-12 14:15:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Household Spending MoM",
-        "Importance 1"
-      ],
-      "text": "Sweden Household Spending Rebounds in June — Household spending in Sweden jumped 1.6% month-on-month in June 2026, rebounding from a revised 0.3% decline in the previous month. It marked the biggest increase since January, driven by a rebound in spending on personal care, social protection, and miscellaneous goods and services (5.9% vs -3.9% in May), transportation (5.4% vs -4.1%), recreation, sports, and culture (4.9% vs -1.5%), healthcare (3.9% vs -4.4%), furniture, household equipment, and routine home maintenance (3.8% vs -2.3%), and alcoholic beverages, tobacco, and drugs (1.6% vs -2.1%). Consumers also spent more on information and communication (5.3% vs 1.3%), as well as clothing and footwear (3.5% vs 0.4%). Meanwhile, expenditure on food and non-alcoholic beverages (0.5% vs 0.7%) and housing and utilities (0.4% vs 1.6%) slowed. On a yearly basis, household consumption rose 4.3%, following a revised 2.0% increase in May."
-    },
-    {
-      "id": "5036939",
-      "time": "2026-08-12 14:15:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海第二季度淨利潤599.7億元新臺幣，預估583.8億元新臺幣。"
-    },
-    {
-      "id": "5036938",
-      "time": "2026-08-12 14:15:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海上半年淨利潤1,099億元新臺幣。"
-    },
-    {
-      "id": "5036937",
-      "time": "2026-08-12 14:15:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【河南、湖北等地遭遇強風雨天氣 部分列車停運】受颱風殘餘環流影響，河南、湖北等地目前仍處於強風雨天氣當中，鐵路部門啟動應急響應，對部分列車採取停運措施。根據鐵路部門公告，今天（12日），途經鄭州局管內的多趟列車採取臨時停運措施，主要涉及杭州至西安、西寧至杭州、大同至杭州、溫州至西安、上海至石家莊、長春至昆明、北京西至襄陽、石家莊至上海、溫州至鄭州方向。鄭州局管內始發的部分車次今天也相繼停運，相關車次包括：南陽至上海淞江、洛陽至寧波、鄭州至溫州、許昌至日照、新鄉至崑山方向。同時，今天武昌至海拉爾、西安至武昌、烏魯木齊至武昌、武昌至烏魯木齊、西安至武昌、深圳東至襄陽等方向52趟列車臨時停運。（央視新聞）"
-    },
-    {
-      "id": "te:markets:574635",
-      "time": "2026-08-12 14:14:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Holds Near 2-Month High — Palladium futures climbed toward $1,370 per ounce, remaining near more than two-month highs as reduced expectations for a Federal Reserve rate hike and broader strength across precious metals supported demand. Markets price in about a 50% chance of a September Fed hike, down from 60% before last week’s weaker-than-expected US jobs report, with lower rates generally supporting non-yielding precious metals. Meanwhile, heightened geopolitical tensions supported precious metals, as attacks on shipping by the US and Yemen’s Iran-aligned Houthis and uncertainty over the Iran conflict kept safe-haven demand elevated. On the supply front, concerns over disruptions in South Africa and uncertainty over Russian exports continue to support prices, with extended maintenance at South African processing facilities reducing refined PGM output amid tight inventories. Over the past month, palladium has risen 9.58% and is up 21.67% year-on-year."
-    },
-    {
-      "id": "5036936",
-      "time": "2026-08-12 14:14:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：滙豐銀行全球保險業務主管辭職。"
-    },
-    {
-      "id": "5036935",
-      "time": "2026-08-12 14:13:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "在人工智慧雲端計算服務需求激增的推動下，CoreWeave股價在Tradegate平臺大漲15.3%，此前該公司第二季度業績超出預期。"
-    },
-    {
-      "id": "5036934",
-      "time": "2026-08-12 14:13:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報1628.50點。"
     }
   ]
 }
