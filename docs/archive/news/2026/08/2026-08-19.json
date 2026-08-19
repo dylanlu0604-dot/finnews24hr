@@ -1,7 +1,321 @@
 {
   "date": "2026-08-19",
-  "count": 2281,
+  "count": 2317,
   "items": [
+    {
+      "id": "mkt:01a019c6-be89-7aab-9095-3e2d997b7848",
+      "time": "2026-08-19 19:27:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Changyuan Electric Power said 1H revenue was 6.859 bln yuan, up 3.70% YoY; net profit attributable to shareholders was 173 mln yuan, up 82.39% YoY."
+    },
+    {
+      "id": "5047852",
+      "time": "2026-08-19 19:26:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊顧問稱或對敵轉守為攻】在俄羅斯衛星通訊社今天（8月19日）釋出的採訪影片中，伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪表示，這場戰爭表明美國和以色列比想象中“弱得多”。此前伊朗一直堅持防禦性戰略，敵人才敢一再發動攻擊，或許伊朗應採取進攻策略，以實現對美國和以色列更高階別的威懾，迫使敵人撤退並剝奪其發動新攻擊的勇氣。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a019c3-22b8-7aab-9095-36680506efca",
+      "time": "2026-08-19 19:23:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources said the Iraqi parliament speaker, during a meeting with Iranian parliament speaker Ghalibaf, called for special status for Iraqi oil exported via the Strait of Hormuz."
+    },
+    {
+      "id": "5047851",
+      "time": "2026-08-19 19:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克議會議長在與伊朗議長卡利巴夫會晤時，呼籲伊拉克經霍爾木茲海峽出口的石油享有特殊地位。"
+    },
+    {
+      "id": "5047850",
+      "time": "2026-08-19 19:22:48",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【司法部新聞發言人就歐盟外國補貼調查相關做法構成不當域外管轄答記者問】問：2026年8月19日，司法部發布公告，認定歐盟利用其《外國補貼條例》在對京東調查中對中國實體採取的相關跨境調查做法構成不當域外管轄。請問有何考慮？\n答：近期，歐盟利用其《外國補貼條例》對京東進行調查，肆意向中國實體跨境索取廣泛的、非必要的中國境內資訊，是對相關實體施加的不當要求，是對國際法治的嚴重破壞。為維護國家主權、安全和發展利益，保護中國公民、法人或其他組織的合法權益，司法部根據《中華人民共和國反外國不當域外管轄條例》，會同商務部等有關部門依法識別，認定歐盟上述做法構成不當域外管轄措施，要求任何組織、個人不得執行或者協助執行該措施。希望歐方立即糾正錯誤做法，停止濫用“外國補貼”調查工具，為在歐投資經營企業營造公平、公正、可預期的市場環境。如歐方一意孤行，中方將堅決依法反制。"
+    },
+    {
+      "id": "5047849",
+      "time": "2026-08-19 19:22:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱賽生物：2026年上半年營收19.00億元 淨利同比增20.75%】凱賽生物公告稱，2026年上半年實現營業收入19.00億元，同比增長13.73%；歸屬於上市公司股東的淨利潤3.73億元，同比增長20.75%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.29億元，同比增長10.88%。基本每股收益0.52元，同比增長10.64%。經營活動產生的現金流量淨額7.51億元，同比增長121.21%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5047848",
+      "time": "2026-08-19 19:21:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【受利好訊息提振，美股生物科技股普漲】默沙東與Moderna聯合開發的個體化新抗原療法Intismeran Autogene聯用Keytruda在III期黑色素瘤試驗中達到主要終點，並將就上市申請與監管機構溝通。受利好訊息提振，美股生物科技股普漲。禮來盤前漲1%，強生盤前漲0.5%，艾伯維盤前漲0.3%，諾和諾德ADR盤前漲0.9%，Vertex盤前漲0.4%，默沙東盤前漲6.2%，moderna盤前漲66%，諾瓦瓦克盤前漲3.91%。"
+    },
+    {
+      "id": "5047847",
+      "time": "2026-08-19 19:20:56",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【司法部發布關於歐盟外國補貼調查相關做法構成不當域外管轄的公告】根據《中華人民共和國反外國不當域外管轄條例》第三條、第六條等規定，司法部會同商務部等有關部門調查認定，歐盟利用其《外國補貼條例》在對京東調查中對中國實體採取的相關跨境調查做法，構成不當域外管轄措施。任何組織、個人不得執行或者協助執行該不當域外管轄措施。本公告自公佈之日起實施。（央視新聞）"
+    },
+    {
+      "id": "5047846",
+      "time": "2026-08-19 19:20:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合(501046)將於2026年8月20日開盤起至當日10:30停牌。"
+    },
+    {
+      "id": "5047845",
+      "time": "2026-08-19 19:20:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "納指ETF國泰(513100)將於2026年8月20日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "5047844",
+      "time": "2026-08-19 19:20:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "中韓半導體ETF華泰柏瑞(513310)將於2026年8月20日開市起至當日10:30停牌。"
+    },
+    {
+      "id": "te:economy:576488",
+      "time": "2026-08-19 19:19:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "South Africa Retail Trade Growth Below Forecasts — Retail sales in South Africa rose by 1.6% year-on-year in June 2026, slowing from a downwardly revised 2.2% increase in May and missing market expectations of a 2.3% advance. The slowdown was reflected in pharmaceuticals and medical goods, cosmetics and toiletries, where sales growth eased to 1.4% from 1.8% in May, while hardware, paint and glass and textiles, clothing, footwear and leather goods recorded declines of 4% and 2.2%, respectively. More positively, robust sales were seen for household furniture, appliances and equipment (8.5% vs 7.6%); all other retailers (7.5% vs 6.4%); food, beverages & tobacco (3% vs -0.2%) and general dealers (1.8% vs 0.9%). On a seasonally adjusted monthly basis, retail sales shrank by 0.6%, after a revised flat reading the month before. Retail trade sales increased by 1.7% in the second quarter of 2026 compared with the second quarter of 2025."
+    },
+    {
+      "id": "mkt:01a019bf-1a98-7aab-9095-2c63c625c683",
+      "time": "2026-08-19 19:19:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Turkey's chief of general staff met with the US chairman of the Joint Chiefs of Staff."
+    },
+    {
+      "id": "5047843",
+      "time": "2026-08-19 19:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河通用全新人形機器人Galbot ET-1亮相2026WRC】在2026世界機器人大會上，銀河通用最新發布的人形機器人Galbot ET-1亮相，並與展臺其餘不同形態機器人完成互動。據企業介紹，該機核心技術依託自研底層架構——銀河首發的物理世界原生智慧體AstraBrain- Agent。該架構專門面向人形機器人，適配實時多模態互動與運動控制需求，支撐機器人完成環境感知、解析人類語言指令，並自主完成行為邏輯推演與動作序列規劃。（藍鯨新聞）"
+    },
+    {
+      "id": "5047842",
+      "time": "2026-08-19 19:17:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎泰高科：上半年淨利潤同比增長325.12% 擬10派10元】鼎泰高科(301377)8月19日披露半年報，2026年上半年，公司實現營業收入19.43億元，同比增長114.85%；歸屬於上市公司股東的淨利潤6.79億元，同比增長325.12%；基本每股收益1.66元。公司擬每10股派發現金紅利10元（含稅）。報告期內，隨著全球AI算力基礎設施的持續擴容，下游PCB客戶對精密刀具及研磨拋光材料的採購需求持續保持旺盛，公司緊抓行業景氣視窗，透過深化技術迭代與客戶協同，推動高附加值產品滲透率進一步提升，產品結構持續向高階化發展。同時，公司產能爬坡效率顯著改善，規模效應逐步釋放，共同驅動上半年業績實現高速增長。"
+    },
+    {
+      "id": "5047841",
+      "time": "2026-08-19 19:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪評級確認馬來西亞興業銀行（RHB BANK）A3 評級，展望穩定。"
+    },
+    {
+      "id": "5047840",
+      "time": "2026-08-19 19:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諶貽琴在調研第20屆亞運會備戰工作時強調 全力做好備戰參賽工作 為建設體育強國再立新功】國務委員諶貽琴19日到體育總局訓練局調研名古屋亞運會備戰工作，看望慰問運動員、教練員和工作人員，勉勵大家牢記黨和人民重託，全力做好備戰參賽工作，奪取運動成績和精神文明雙豐收，在新的奧運備戰週期打好基礎，為建設體育強國再立新功。 諶貽琴先後走進體操館、游泳館，觀看專案訓練，詢問運動員賽前訓練安排、身體狀態調整、後勤服務保障等情況，鼓勵大家堅持祖國至上、為國爭光，科學訓練、放平心態、頑強拼搏，力爭發揮出最佳水平。 諶貽琴強調，要著眼洛杉磯奧運會，提升亞運會練兵質效，系統開展衝刺階段針對性訓練，全面提升競技實力。強化服務保障，嚴格隊伍管理，讓運動員、教練員心無旁騖備戰比賽，堅決做到興奮劑問題“零出現”、“零容忍”，拿道德的金牌、風格的金牌、乾淨的金牌。樹牢底線思維，有效防範化解各類風險，確保備戰參賽安全。（新華社）"
+    },
+    {
+      "id": "mkt:01a019bc-1af2-7aab-9095-240f19bab4e8",
+      "time": "2026-08-19 19:15:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "German finance ministry spokesman said Germany's rising borrowing costs are linked to the need to increase defense spending amid the Russia-Ukraine conflict."
+    },
+    {
+      "id": "5047839",
+      "time": "2026-08-19 19:15:36",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "德國財政部發言人表示，烏克蘭戰爭推高德國國防開支需求，推高德國借貸成本。"
+    },
+    {
+      "id": "5047838",
+      "time": "2026-08-19 19:15:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東微半導：2026年上半年營收7.36億元 淨利同比增285.41%】東微半導公告稱，2026年上半年實現營業收入7.36億元，同比增長19.58%；歸屬於上市公司股東的淨利潤1.06億元，同比增長285.41%；基本每股收益0.87元/股，同比增長278.26%。研發費用投入5565.28萬元，同比增長31.78%。完成收購深圳慧能泰半導體科技有限公司控股權，慧能泰自2026年5月起納入合併報表，納入期間實現營收4330.48萬元、淨利潤227.94萬元。2025年度權益分派已實施完成，合計派發現金紅利924.22萬元，佔2025年歸母淨利潤比例為20%。"
+    },
+    {
+      "id": "5047837",
+      "time": "2026-08-19 19:15:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東微半導：披露前次募集資金使用情況】東微半導公告稱，公司前次IPO募集資金淨額20.07億元，截至2026年6月30日，累計使用募集資金19.89億元，尚未使用募集資金2358.20萬元，佔前次募集資金總額的1.18%。超募資金10.68億元已全部使用完畢，其中2601.86萬元用於回購股份，10.97億元用於永久補充流動資金。公司不存在變更募集資金投資專案的情況，募集資金實際使用情況與資訊披露內容一致。"
+    },
+    {
+      "id": "5047836",
+      "time": "2026-08-19 19:15:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻路鋼構：子公司擬15億元投建智慧製造基地專案】鴻路鋼構(002541.SZ)公告稱，公司全資子公司安徽鴻路智慧科技有限公司與渦陽縣人民政府簽訂投資合作協議，擬投資約15億元建設鴻路科技智慧製造基地專案，其中固定資產投資計劃11.28億元。"
+    },
+    {
+      "id": "5047835",
+      "time": "2026-08-19 19:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞一處已停用空軍基地的襲擊事件使以色列與土耳其的關係更趨緊張】土耳其與以色列之間的緊張關係升溫。此前有報道稱，以色列對敘利亞北部一處已停用的空軍基地發動了空襲，而不久之前一個土耳其代表團剛剛到訪。敘利亞官方媒體最先將週二對阿布杜胡爾軍用機場的襲擊歸因於以色列，美國隨後表示已確認是以色列所為。據敘利亞國營Ekhbariya電視臺報道，襲擊沒有造成人員傷亡。土耳其媒體報道稱，就在襲擊發生前數小時，一個土耳其代表團曾到訪位於伊德利卜省的該基地。法新社援引一名未具名安全訊息人士稱，這處設施自2012年以來一直處於停用狀態。土耳其和以色列的關係在2024年因加沙戰爭惡化，安卡拉隨後徹底中斷與以色列的關係。同年晚些時候，巴沙爾·阿薩德政權垮臺後，兩國都試圖擴大在敘利亞的影響力。敘利亞政府發言人週三未立即回應置評請求。敘利亞外交部週二發表宣告，譴責以色列的襲擊是“毫無正當理由的侵略行為，也是威脅地區安全與穩定的危險升級”。"
+    },
+    {
+      "id": "5047834",
+      "time": "2026-08-19 19:13:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華泰寶灣物流REIT：每10份派現0.994元 為2026年第2次分紅】華泰寶灣物流REIT公告稱，本次收益分配基準日為2026年6月30日，可供分配金額2982.25萬元，分紅比例99.9916%，應分配金額2982.00萬元，分紅方案為每10份基金份額派現0.9940元，系2026年度第2次分紅。本次分紅採取現金分紅方式，不支援紅利再投資，免收分紅手續費。權益登記日為2026年8月24日，場內除息日為2026年8月25日、場外為8月24日，場內現金紅利發放日為8月27日、場外為8月26日。權益分派期間（2026年8月20日至8月24日）暫停跨系統轉託管業務，公告披露當日上午開市起停牌一小時，十點三十分復牌。"
+    },
+    {
+      "id": "5047833",
+      "time": "2026-08-19 19:12:37",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【國中水務：回覆上交所年報監管問詢函】國中水務公告稱，公司及年審會計師就上交所2025年年報監管問詢函作出回覆。因無法獲取北京匯源完整可靠財務資訊，年審會計師對公司財報出具保留意見、對內控出具無法表示意見。公司2025年對北京匯源相關投資收益確認為0，計提資產減值損失1.55億元，將長期股權投資賬面價值減記至投資成本9.30億元。北京匯源2023-2025年累計扣非淨利潤未經專項審計測算為8.65億元，未達10億元已觸發回購條款，因文盛資產存在債務問題，公司暫未要求回購，後續將保留相關權利。"
+    },
+    {
+      "id": "5047832",
+      "time": "2026-08-19 19:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：國際刑事法院法官及官員必須能夠獨立履職，不受外部壓力干擾。"
+    },
+    {
+      "id": "mkt:01a019b8-bf8d-7aab-9095-1f46966a6a3a",
+      "time": "2026-08-19 19:12:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Brokerages' tech-innovation bond underwriting tops CNY 500.08 bln in 1H; scale expands sharply YoY】China Securities Association data show the technology narrative in the bond market strengthened and broker-led tech-innovation bond activity expanded in 1H 2026. In 1H 2026, 73 broker-dealers acted as lead underwriters or ABS managers on 553 tech-innovation bond issues totaling CNY 500.08 bln, versus 68 brokers, 380 issues and CNY 381.39 bln in 1H 2025."
+    },
+    {
+      "id": "5047831",
+      "time": "2026-08-19 19:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩：我堅定支援國際刑事法院院長及國際刑事法院全體官員。"
+    },
+    {
+      "id": "te:economy:576485",
+      "time": "2026-08-19 19:11:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Inch Down — The volume of mortgage applications in the US eased by 0.4% on the second week of August, trimming the two-month high rise from the earlier period, according to data compiled by the Mortgage Bankers Association. The muted change was aligned with the constant benchmark mortgage rate of 6.77% in the period, four basis points away from the one-year high in the last week of July, as yields in long-term Treasury bonds held close to a near-two-decade high. Applications to refinance a mortgage, which are sensitive to short-term changes in interest rates, rose by 1.5% from the previous week. In turn, applications for a mortgage to purchase a home, fell by 2%."
+    },
+    {
+      "id": "5047830",
+      "time": "2026-08-19 19:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【賓州收緊資料中心新建審批 AI擴張面臨監管新挑戰】美國賓夕法尼亞州州長喬什·夏皮羅當地時間週二簽署行政令，對在該州建設人工智慧(AI)資料中心提出了新的監管要求，這將限制AI產業的擴張。根據新規，相關企業必須滿足環境保護和資訊透明度方面的要求，同時還需獲得當地社群對專案的認可。例如，企業將承擔其資料中心設施產生的全部電力成本，並要求相當大比例的電力來自清潔能源。"
+    },
+    {
+      "id": "5047829",
+      "time": "2026-08-19 19:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【上半年券商科創債承銷規模破5000億元 同比大幅擴容】中證協釋出2026年上半年度券商債券承銷業務專項統計資料顯示，資本市場債市端科技敘事持續強化，券商科技創新債券業務顯著擴容。2026年上半年，作為科技創新債券主承銷商或ABS管理人的券商共計73家，承銷、管理553只產品，合計規模5000.78億元。對比2025年同期，參與券商68家、承銷380只、規模3813.91億元，發行數量、承銷金額均實現明顯增長。"
+    },
+    {
+      "id": "mkt:01a019b7-cbbb-7aab-9095-175019922422",
+      "time": "2026-08-19 19:11:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.O"
+      ],
+      "text": "【Moderna, Merck Phase III melanoma vaccine shows positive readout; Moderna premarket +60%】Merck and Moderna said their experimental personalized mRNA vaccine, given with Merck’s Keytruda, met the primary endpoint in a Phase III trial of more than 1,100 high‑risk or advanced melanoma patients, significantly extending recurrence‑free survival versus Keytruda alone and lowering risk of distant metastasis. The result builds on positive Phase II data earlier this year; the trial will continue to evaluate additional endpoints including overall survival. The companies plan to present data at an upcoming international medical meeting; no timing for a U.S. regulatory submission was disclosed. Merck shares were up about 8% premarket and Moderna shares rose more than 60% premarket."
+    },
+    {
+      "id": "5047828",
+      "time": "2026-08-19 19:11:10",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Moderna與默沙東聯合研發癌症疫苗展現積極效果 Moderna盤前暴漲60%】默沙東和Moderna週三宣佈，一款聯合研發的實驗性個性化癌症疫苗在首次晚期臨床試驗中取得積極初步結果，使得距離申請該治療方案獲批更近一步。這款基於mRNA的疫苗與默沙東的免疫療法Keytruda聯合使用，在針對1100多名高風險或晚期黑色素瘤患者的三期試驗中達到了關鍵目標，即與單獨使用Keytruda相比，顯著延長了患者黑色素瘤不復發的時間。該治療還降低了癌症擴散至身體其他部位的風險。這些結果建立在今年早些時候同一方案積極的二期試驗資料之上。三期臨床試驗將繼續評估其他療效指標，包括該療法對患者總體生存期的獲益。兩家公司計劃在即將召開的國際醫學會議上公佈相關資料，但目前尚不清楚他們何時計劃向美國提交上市申請。默沙東股價盤前現漲近8%，Moderna大漲逾60%。"
+    },
+    {
+      "id": "5047827",
+      "time": "2026-08-19 19:11:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍曉科技：2026年上半年淨利潤4.21億元，同比下降5.40%】藍曉科技公告，2026年上半年營業收入13.78億元，同比增長10.47%。歸屬於上市公司股東的淨利潤4.21億元，同比下降5.40%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4.14億元，同比下降5.20%。利潤分配預案為：每10股派發現金紅利1.18元（含稅）。"
+    },
+    {
+      "id": "5047826",
+      "time": "2026-08-19 19:10:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康強電子：2026年上半年營收15.26億元 同比增57.14%】康強電子公告稱，2026年上半年實現營業收入15.26億元，同比增長57.14%；歸屬於上市公司股東的淨利潤6331.61萬元，同比增長6.44%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6607.00萬元，同比增長77.03%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
     {
       "id": "mkt:01a019b7-9bd4-7aab-9095-0af40063f40d",
       "time": "2026-08-19 19:10:58",
@@ -117,6 +431,14 @@
         "公司"
       ],
       "text": "【銳新科技：終止重大資產重組事項 相關主體未買賣股票】銳新科技公告稱，公司決定終止發行股份及支付現金購買蕪湖德恆汽車裝備有限公司51%股權並募集配套資金暨關聯交易事項，向深圳證券交易所申請撤回本次交易申請檔案。經獨立財務顧問國元證券核查，本次交易內幕資訊知情人自查期間為2026年6月9日至2026年8月13日，核查範圍內的相關機構及自然人在自查期間內不存在買賣銳新科技股票的情況。"
+    },
+    {
+      "id": "5047815",
+      "time": "2026-08-19 19:08:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【龔正市長會見約旦國王阿卜杜拉二世，期待進一步加強交流合作】上海市市長龔正今天（8月19日）會見了約旦國王阿卜杜拉二世一行。龔正代表上海市人民政府，對阿卜杜拉二世到訪上海表示熱烈歡迎。龔正說，中國和約旦傳統友誼深厚，上海十分重視與約旦的友好往來，多年來雙方合作取得了積極成果。上海作為中國最大的經濟中心城市，正積極推進高水平對外開放，加強國際合作交流。我們將認真落實兩國元首達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。期待進一步加強與約旦在經貿、產業投資等方面的交流合作，實現更高水平的互利共贏，為兩地人民創造更大福祉。希望雙方以高質量共建“一帶一路”為契機，圍繞數字經濟、人工智慧、綠色能源、基礎設施建設等領域，支援優秀企業到對方投資興業，熱忱歡迎更多約旦企業亮相進博會。同時，希望雙方進一步加強在教育、文化、旅遊等領域的交流合作，推動雙方民眾加深瞭解、增進友誼。阿卜杜拉二世說，非常高興再度訪問中國和上海，上海這座美麗的城市給我們留下了深刻印象，很榮幸能見證上海發生的巨大變化。科技創新是上海的城市名片，我們在訪問期間與相關企業展開了深入交流，感受到廣闊的合作前景。我們非常願意進一步開啟與中國企業合作的大門，促進雙邊經貿投資往來，並加強人才交流、人文旅遊等領域的合作。約旦國王辦公廳主任阿萊·巴塔耶納，約旦工業、貿易與供給大臣雅魯布·古達，約旦駐華大使胡薩姆·侯賽尼，中國駐約旦大使郭偉參加會見。（上觀新聞）"
     },
     {
       "id": "5047814",
