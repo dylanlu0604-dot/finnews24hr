@@ -1,7 +1,134 @@
 {
   "date": "2026-08-19",
-  "count": 720,
+  "count": 734,
   "items": [
+    {
+      "id": "mkt:01a017b9-23b6-7aab-9086-5dff67b7c292",
+      "time": "2026-08-19 09:53:24",
+      "tags": [
+        "MKT News",
+        "SHEL.N",
+        "Impact bullish"
+      ],
+      "text": "Shell (SHEL.N) is investing in a new supply chain in Queensland, Australia; its QGC project will begin supplying gas in 2027."
+    },
+    {
+      "id": "5046811",
+      "time": "2026-08-19 09:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油委員會（MPOC）預測，9月份棕櫚油價格將維持在4600 RGT/噸以上。"
+    },
+    {
+      "id": "5046810",
+      "time": "2026-08-19 09:52:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5046809",
+      "time": "2026-08-19 09:51:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽意資訊成立智慧科技公司，含物聯網業務】企查查APP顯示，近日，廣州瀚曜智慧科技有限公司成立，經營範圍包含：工業控制計算機及系統銷售；工業網際網路資料服務；數字技術服務；物聯網技術服務等。企查查股權穿透顯示，該公司由賽意資訊全資持股。"
+    },
+    {
+      "id": "5046808",
+      "time": "2026-08-19 09:51:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中煤成立新能源公司，含生物質能技術業務】企查查APP顯示，近日，中煤電力（射陽）新能源有限公司成立，經營範圍包含：發電技術服務；風力發電技術服務；太陽能發電技術服務；生物質能技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。"
+    },
+    {
+      "id": "mkt:01a017b7-6959-7aab-9086-5670864b8db8",
+      "time": "2026-08-19 09:51:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Shuangying rallied more than 200%, triggering a second intraday trading suspension; turnover exceeded 350 million yuan."
+    },
+    {
+      "id": "5046807",
+      "time": "2026-08-19 09:51:29",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "N雙英漲超200%，觸發二次臨停，成交額超3.5億元。"
+    },
+    {
+      "id": "5046806",
+      "time": "2026-08-19 09:51:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "小馬智行港股公佈上半年業績後下跌4.8%。"
+    },
+    {
+      "id": "5046805",
+      "time": "2026-08-19 09:51:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本兩年期國債<JP2YTN=JBTC>收益率下跌0.5個基點至1.680%。"
+    },
+    {
+      "id": "5046804",
+      "time": "2026-08-19 09:50:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "五年期日本國債<JP5YTN=JBTC>收益率下跌1個基點，至2.140%。"
+    },
+    {
+      "id": "5046803",
+      "time": "2026-08-19 09:50:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峽能源四座光熱電站累計發電量突破1億千瓦時】三峽集團8月19日訊息， 截至2026年8月8日，三峽能源旗下位於甘肅、青海、新疆三省區的安懷、新燁、燎原、伊州四座百兆瓦級光熱電站累計發電量突破1億千瓦時大關。這一成績充分驗證了光熱發電作為穩定可調清潔電源的獨特價值，為電網調峰和新能源消納提供了有力支撐。據瞭解，四座電站分佈在甘肅、青海、新疆的戈壁荒漠地帶，所處環境高海拔、強風沙、寒暑極端，建設運維條件極為艱苦。專案採用雙技術路線並行佈局，多儲能模式協同發力，構建起規模化光熱儲能產業矩陣。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a017b6-9cd3-7aab-9086-4b04edc4273c",
+      "time": "2026-08-19 09:50:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Venezuela signs contracts with Schlumberger and Hunt Oil to boost production】Venezuela oil minister Paula Henao said on Tuesday the government signed oil-related contracts with Schlumberger and U.S. independent Hunt Oil to attract investment and raise crude output. The deals include an oil-and-gas production participation agreement with two field-development partners; Henao did not disclose expected investment or incremental production. Caracas also signed a framework agreement with Schlumberger for nationwide integrated reservoir studies. Politico reported several more U.S. independents are expected to sign production contracts with state company PDVSA in the coming days."
+    },
+    {
+      "id": "mkt:01a017b6-80c6-7aab-9086-42e3de62fec5",
+      "time": "2026-08-19 09:50:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Goldman Sachs: AI revenue still surging; market now trading the second derivative of growth】Goldman Sachs reports Anthropic's ARR topped $65bln in July 2026, versus $47bln in May and $9bln at end‑2025. ARR is still expanding at about 18% MoM despite the larger base. Goldman says markets have begun trading the \"second derivative\" — whether growth can further accelerate or will slow as the base rises. It warns that once ARR moves from sub‑$10bln into the hundreds‑of‑bln range, simply sustaining high percentage growth may deliver less marginal valuation support than earlier."
+    },
+    {
+      "id": "mkt:01a017b6-4041-7aab-9086-3e9b08b960c3",
+      "time": "2026-08-19 09:50:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology pop on Sci‑Tech debut lifts founder Wang’s stake above 100 billion yuan】Aug. 19 — Yushu Technology began trading on the Sci‑Tech Innovation Board, opening up more than 500% and valuing the company at over 350 billion yuan. The company prospectus shows chairman/GM/CTO Wang Xingxing directly holds 86.714964 million shares, equivalent to 21.4395% of post‑issue equity; he also held 9.5367% indirectly via equity‑incentive vehicle Shanghai Yuyi before the offering. Combined direct and indirect holdings are roughly 30%, worth in excess of 100 billion yuan, making Wang the richest entrepreneur born in the 1990s."
+    },
     {
       "id": "5046802",
       "time": "2026-08-19 09:48:44",
