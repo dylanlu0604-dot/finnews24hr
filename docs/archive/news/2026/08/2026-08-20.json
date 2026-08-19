@@ -1,7 +1,25 @@
 {
   "date": "2026-08-20",
-  "count": 358,
+  "count": 360,
   "items": [
+    {
+      "id": "mkt:01a01bb1-5a84-7aab-90a2-274bbc00c14f",
+      "time": "2026-08-20 04:23:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense."
+    },
+    {
+      "id": "mkt:01a01baf-8301-7aab-90a2-1943e40010e6",
+      "time": "2026-08-20 04:21:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CFTC seeks comment on compute-power futures】The U.S. Commodity Futures Trading Commission has opened a public comment on futures for compute power as industry players including CME, ICE and fintech Architect Financial Technologies plan contracts pending regulatory approval. Exchanges say compute futures would let end users and speculators hedge risks that could disrupt AI development, notably energy shortages. CFTC Chair Michael Selig said without a robust derivatives market for compute the U.S. cannot win the AI race and called the request for comment a first step to set clear rules for a U.S. compute market. The CFTC is soliciting input on how compute futures differ from other regulated derivatives and whether listing on CFTC-regulated venues would require standardizing variables affecting compute prices, including settlement reference price indices."
+    },
     {
       "id": "5048590",
       "time": "2026-08-20 04:20:37",

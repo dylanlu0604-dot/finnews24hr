@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-20 04:21:35",
+  "updated": "2026-08-20 04:25:23",
   "count": 15680,
   "items": [
+    {
+      "id": "mkt:01a01bb1-5a84-7aab-90a2-274bbc00c14f",
+      "time": "2026-08-20 04:23:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense."
+    },
+    {
+      "id": "mkt:01a01baf-8301-7aab-90a2-1943e40010e6",
+      "time": "2026-08-20 04:21:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CFTC seeks comment on compute-power futures】The U.S. Commodity Futures Trading Commission has opened a public comment on futures for compute power as industry players including CME, ICE and fintech Architect Financial Technologies plan contracts pending regulatory approval. Exchanges say compute futures would let end users and speculators hedge risks that could disrupt AI development, notably energy shortages. CFTC Chair Michael Selig said without a robust derivatives market for compute the U.S. cannot win the AI race and called the request for comment a first step to set clear rules for a U.S. compute market. The CFTC is soliciting input on how compute futures differ from other regulated derivatives and whether listing on CFTC-regulated venues would require standardizing variables affecting compute prices, including settlement reference price indices."
+    },
     {
       "id": "5048590",
       "time": "2026-08-20 04:20:37",
@@ -143669,24 +143687,6 @@
         "Importance 1"
       ],
       "text": "TSX Rises to Record on Softer US Inflation — The S&P/TSX Composite Index added 0.5% to close at an all-time high of 36,662 on Wednesday, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC up 1.5% and TD Bank adding 1.7%. Most miners advanced amid higher gold prices, with Agnico Eagle rising 1.8% and Barrick advancing 3%. In contrast, Franco-Nevada fell 1.6% after missing earnings expectations. In tech, Celestica surged 9.2% amid a chipmaker rally in the US. Constellation Software tumbled 4.5% after revenue came in slightly below forecasts despite an EPS beat. Shopify fell 1.2%, tracking weakness in US hyperscalers."
-    },
-    {
-      "id": "mkt:019ff7a5-9b85-7aab-9013-5409778f4cfe",
-      "time": "2026-08-13 04:24:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "DOE will no longer advance designation work for three proposed National Interest Electric Transmission Corridors that were selected for review in December 2024."
-    },
-    {
-      "id": "5038116",
-      "time": "2026-08-13 04:22:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部表示，不會繼續推進2024年12月選定的三條擬議國家利益輸電走廊，不再將其納入後續審查流程。"
     }
   ]
 }
