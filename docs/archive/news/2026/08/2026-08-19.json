@@ -1,7 +1,92 @@
 {
   "date": "2026-08-19",
-  "count": 711,
+  "count": 720,
   "items": [
+    {
+      "id": "5046802",
+      "time": "2026-08-19 09:48:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【功夫女足票房破23億】據貓眼專業版資料，電影 《功夫女足》 上映40天， 總票房破23億。"
+    },
+    {
+      "id": "mkt:01a017b4-aeae-7aab-9086-36dec6b2c283",
+      "time": "2026-08-19 09:48:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share humanoid-robot sector extended losses; Qin'an Co. hit its daily limit down. Lude Xiebo, Fengguang Precision, Haozhi Jidian and Shangwei New Materials dropped more than 10%; Zhongda Lide, Julun Intelligent, Changsheng Bearing, Jintuo and Siling Zhiqu also fell."
+    },
+    {
+      "id": "mkt:01a017b4-5e4b-7aab-9086-29e665ca9f5a",
+      "time": "2026-08-19 09:48:11",
+      "tags": [
+        "MKT News",
+        "02525.HK",
+        "Impact bearish"
+      ],
+      "text": "Hesai-W (02525.HK) fell more than 7% after reporting earnings."
+    },
+    {
+      "id": "te:markets:576288",
+      "time": "2026-08-19 09:48:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Stays Range-Bound — The Japanese yen traded around 159.5 per dollar on Wednesday, remaining range-bound for more than a week now after giving back about half of the gains made following the joint intervention by Tokyo and Washington at the end of July. The currency continues to face persistent weakness due to wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. On the monetary policy front, traders are increasingly speculating on a Bank of Japan interest rate hike in September to support the yen and curb inflation. Japan’s 10-year bond yield reached 30-year highs this week, reflecting expectations of an imminent BOJ rate increase and mounting fiscal concerns. Meanwhile, the latest data showed core machinery orders in Japan jumped 9.7% in June, exceeding forecasts and pointing to stronger capital spending among companies."
+    },
+    {
+      "id": "5046801",
+      "time": "2026-08-19 09:47:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報2875.00元。"
+    },
+    {
+      "id": "5046800",
+      "time": "2026-08-19 09:46:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7649.80點。"
+    },
+    {
+      "id": "5046799",
+      "time": "2026-08-19 09:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "禾賽科技港股在半年報公佈後跌7.3%。"
+    },
+    {
+      "id": "5046798",
+      "time": "2026-08-19 09:46:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪下挫 上緯新材多股跌超10%】早盤人形機器人概念震盪下挫，中大力德、巨輪智慧觸及跌停，上緯新材、豐光精密、綠的諧波、昊志機電多股跌超10%。"
+    },
+    {
+      "id": "mkt:01a017b2-59d2-7aab-9086-26f88545969c",
+      "time": "2026-08-19 09:45:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "N Yushu trading value topped CNY10 bln; shares at CNY900.8, gains pulled back to below 500%."
+    },
     {
       "id": "5046797",
       "time": "2026-08-19 09:45:46",
