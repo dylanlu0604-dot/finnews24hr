@@ -1,7 +1,427 @@
 {
-  "updated": "2026-08-19 20:13:46",
-  "count": 15395,
+  "updated": "2026-08-19 20:30:25",
+  "count": 15370,
   "items": [
+    {
+      "id": "mkt:01a019f4-2c46-7aab-9096-88d891762b9c",
+      "time": "2026-08-19 20:17:07",
+      "tags": [
+        "MKT News",
+        "HON.O"
+      ],
+      "text": "Honeywell (HON.O) appointed Bilal Hammoud as chief executive of its Process Technologies unit."
+    },
+    {
+      "id": "5047974",
+      "time": "2026-08-19 20:16:52",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨漲0.11%，標普500指數期貨漲0.05%，納指期貨跌0.09%。\n②德國DAX指數跌0.12%，英國富時100指數基本持平，法國CAC40指數漲0.37%，歐洲斯托克50指數漲0.02%。\n③WTI原油漲0.65%，報84.61美元/桶。布倫特原油漲0.56%，報91.53美元/桶。\n④約翰斯・霍普金斯大學經濟學家史蒂夫・漢克表示，在當前各大主要資產類別中，只有債券市場在合理定價風險，而債券市場所計價的前景並不樂觀。\n⑤高盛表示，人工智慧已經開始對主要發達經濟體勞動力市場形成壓力，德國、澳大利亞、美國這一現象尤其突出。\n⑥多家機構預計美國聯邦債務將於本週越過40萬億美元。國會預算辦公室2月展望曾估算本財年總債務高點約39.4萬億美元，實際進度已提前數月。\n⑦Moderna美股盤前漲超110%，公司與默沙東宣佈黑色素瘤皮膚癌疫苗在大型試驗中達到目標影響。\n⑧SK海力士漲約6%，公司擬回購登出40萬億韓元股份，承諾將至少50%現金流回饋股東。\n⑨Nebius Group股價盤前下跌8.3%，此前該集團宣佈計劃非公開發行45億美元可轉換優先票據。"
+    },
+    {
+      "id": "5047973",
+      "time": "2026-08-19 20:16:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南瑞麗：嚴禁將檳榔製品歸入食品類目展示售賣，嚴守未成年人禁售紅線】《瑞麗市市場監督管理局關於倡導市民減少食用檳榔、抵制違規檳榔製品的倡議書》指出，檳榔已被世界衛生組織國際癌症研究機構列為Ⅰ類致癌物，具備明確的人體致癌性和較強的生理成癮性，長期咀嚼會嚴重損害口腔黏膜、消化系統及神經系統，極易引發口腔病變、多臟器慢性損傷等不可逆健康危害，對人體身心健康造成極大威脅。當前，轄區部分商超、便利店及線上電商平臺仍存在檳榔製品食品化宣傳、與食品混放銷售等違規問題，尤其校園周邊違規陳列、售賣檳榔、向未成年人銷售檳榔等行為，嚴重侵害青少年身心健康，存在極大公共衛生安全隱患。倡議書提出，規範線上經營，各電商平臺常態化開展自查清理，及時下架違規檳榔商品，嚴禁將檳榔製品歸入食品類目展示售賣。"
+    },
+    {
+      "id": "5047971",
+      "time": "2026-08-19 20:16:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "霍尼韋爾科技任命胡安·皮孔為樓宇自動化業務總裁兼執行長，自2026年10月1日起生效。"
+    },
+    {
+      "id": "5047970",
+      "time": "2026-08-19 20:16:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "霍尼韋爾科技公司任命比拉爾·哈穆德為過程技術事業部總裁兼執行長，自2026年10月1日起生效。"
+    },
+    {
+      "id": "5047968",
+      "time": "2026-08-19 20:15:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾科技宣佈流程技術與樓宇自動化業務板塊人事調整。"
+    },
+    {
+      "id": "mkt:01a019f2-53db-7aab-9096-81f4b4ddc0b5",
+      "time": "2026-08-19 20:15:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's minister of agriculture said Ukraine exported 794,000 tonnes of agricultural products from Aug. 1-15, compared with 3.67 million tonnes exported in July."
+    },
+    {
+      "id": "5047966",
+      "time": "2026-08-19 20:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央企業聯合展區首次亮相2026世界機器人大會】8月19日，2026世界機器人大會在北京開幕。本屆大會上，中央企業聯合展區首次亮相，成為備受關注的一大亮點。據悉，中央企業聯合展區以“央企力量，共創未來”為主題，設定“全力投入、全鏈佈局、全景應用、全面攜手”四大板塊，系統化展示中央企業在機器人領域的核心技術攻關成果、全產業鏈佈局優勢、全場景落地應用成效，充分彰顯中央企業深耕新質生產力、推動機器人產業高水平科技自立自強的使命擔當。展會現場，參展中央企業以“十二時辰”為時間軸，沉浸式展現了中央企業機器人廣泛應用於太空深海探索、電力能源保供、智慧製造、礦山冶金等複雜實景工況，賦能千行百業的發展成就。據介紹，下一步，中央企業將持續立足國家戰略大局，緊抓人工智慧與機器人產業發展重大機遇，深化科技創新與產業創新深度融合，推動行業協同合作，為促進我國乃至全球機器人產業高質量發展持續貢獻央企力量。（新華社）"
+    },
+    {
+      "id": "5047965",
+      "time": "2026-08-19 20:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：此次襲擊並未造成災難性後果。"
+    },
+    {
+      "id": "mkt:01a019f2-067d-7aab-9096-7a58221f7bde",
+      "time": "2026-08-19 20:14:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said the attack did not cause serious consequences."
+    },
+    {
+      "id": "mkt:01a019f1-a454-7aab-9096-76c97f47c38c",
+      "time": "2026-08-19 20:14:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Putin says Russia's economy is enduring \"terrorist attacks\" on industrial facilities."
+    },
+    {
+      "id": "5047964",
+      "time": "2026-08-19 20:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯經濟正承受對工業設施的恐怖襲擊。"
+    },
+    {
+      "id": "5047963",
+      "time": "2026-08-19 20:14:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長表示，8月1日至15日期間，烏克蘭出口了79.4萬噸農產品，對比之下，7月全月的出口量為367萬噸。"
+    },
+    {
+      "id": "5047962",
+      "time": "2026-08-19 20:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓 7 月國際收支逆差 14.70 億美元。"
+    },
+    {
+      "id": "mkt:01a019f1-6d2f-7aab-9096-6b645a424677",
+      "time": "2026-08-19 20:14:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "PHILIPPINE C.BANK: Balance of payments recorded a $1.5 bln deficit in July 2026."
+    },
+    {
+      "id": "5047961",
+      "time": "2026-08-19 20:13:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南釋出颱風四級預警 熱帶低壓中心位於文昌偏東約270公里】海南省氣象局8月19日19時00分發布颱風四級預警：南海北部熱帶擾動已於今天（19日）下午加強為熱帶低壓，下午5點鐘其中心位於海南文昌偏東方向約270公里的海面上（北緯19.6度，東經113.4度），外圍最大風力有7級（15米/秒），中心最低氣壓為998百帕。預計，南海熱帶低壓今天夜間將在原地迴旋少動，20日將以每小時5~10公里的速度向偏西方向緩慢移動，穿過海南島後移入北部灣海面，強度變化不大。受其影響，19日夜間到20日白天，南海大部分海區及海南島沿海陣風有8～9級，請南海中北部海域過往船隻、海上作業平臺迅速採取避風措施。（央視新聞）"
+    },
+    {
+      "id": "5047960",
+      "time": "2026-08-19 20:13:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京主持召開俄羅斯經濟發展政府會議。"
+    },
+    {
+      "id": "mkt:01a019ef-dd88-7aab-9096-61bc1c599364",
+      "time": "2026-08-19 20:12:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "According to Al Arabiya, Israel's chief of staff is inspecting multiple locations in southern Syria."
+    },
+    {
+      "id": "mkt:01a019ef-aa97-7aab-9096-5dd7931ab17a",
+      "time": "2026-08-19 20:12:12",
+      "tags": [
+        "MKT News",
+        "01024.HK",
+        "Impact bullish"
+      ],
+      "text": "【Kuaishou CFO: Q2 free cash flow positive, aims to keep group FCF positive in H2】Kuaishou (01024.HK) CFO Jin Bing said Q2 free cash flow was positive and the company aims to maintain group-level free cash flow positivity in H2. Following independent financing of Keling AI, Kuaishou will adopt more flexible cash deployment for compute — including leasing — to optimize capital allocation and help improve group cash flow. The company will keep a prudent cash-management and capex stance; most capital spending was concentrated in 1H. Available liquidity (cash and equivalents, time deposits, financial assets and restricted cash) stood at 121.3 bln yuan as of June 30. Net cash from operating activities in Q2 was 5.9 bln yuan. Shareholder returns in 2026 YTD include ~HKD 2.0 bln of share buybacks and HKD 3.0 bln of cash dividends; total YTD returns are close to last year’s full-year level and are expected to exceed last year for 2026."
+    },
+    {
+      "id": "5047959",
+      "time": "2026-08-19 20:11:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快手CFO金秉：二季度自由現金流為正，下半年目標繼續保持】在快手2026年第二季度業績電話會上，快手(01024.HK)CFO金秉表示，公司二季度自由現金流為正，目標是下半年繼續維持集團層面的自由現金流為正。金秉表示，可靈AI完成獨立融資後，將在現金流支出上採用更加靈活的形式，包括透過租賃等方式解決更多算力需求，進一步最佳化資金配置，在一定程度上改善集團整體現金流情況。在現金管理與資本開支方面，快手將繼續堅持穩健的財務策略。按照執行節奏，公司大部分資本開支已經在上半年集中落地。截至2026年6月30日，快手現金及現金等價物、定期存款、金融資產和受限制現金等可利用資金合計達到1213億元，二季度經營活動所得現金淨額達到59億元。股東回報方面，2026年以來，快手累計完成約20億港元股份回購及30億港元現金分紅，股東回報總額已接近去年全年水平。金秉表示，在堅定推進AI戰略投入的同時，公司仍實現了股東回報力度的穩步提升，預計2026年全年股東回報總額將超過去年。"
+    },
+    {
+      "id": "5047958",
+      "time": "2026-08-19 20:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總參謀長正在敘利亞南部多個地區巡視。"
+    },
+    {
+      "id": "5047957",
+      "time": "2026-08-19 20:11:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商釋出26年寵物消費報告：縣域工廠成交額超九成】8月19日，抖音電商釋出《2026抖音電商寵物行業消費趨勢報告》顯示，過去一年超1.03億人在該平臺為寵物置辦日用品，縣域產業帶貢獻了超90%成交額，商家佔比超86%，縣域實體工廠撐起寵物日用品製造基石。過去一年，平臺上成交額從零躍升至百萬級的寵物產業帶商家超14萬家，495個縣域產業帶成交破億。"
+    },
+    {
+      "id": "5047956",
+      "time": "2026-08-19 20:10:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車：2026年上半年淨利潤虧損7.49億元，上年同期虧損7.73億元】江淮汽車公告，2026年上半年營業收入221.3億元，同比增長14.31%。歸屬於上市公司股東的淨利潤虧損7.49億元，上年同期虧損7.73億元；扣非淨利潤虧損9.91億元。本報告期未進行利潤分配。"
+    },
+    {
+      "id": "5047955",
+      "time": "2026-08-19 20:09:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "DATAVAULT AI完成對NYIAX的收購，為其數字資產和實物資產代幣化平臺增添機構級交易技術。"
+    },
+    {
+      "id": "5047954",
+      "time": "2026-08-19 20:09:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【心言主動智慧陪伴機器人“巴布”亮相WRC 首臺量產機已下線】8月19日，2026世界機器人大會（WRC 2026）在北京正式開幕。心言集團旗下家庭主動智慧陪伴機器人巴布（Bubbo 1）正式亮相，該產品呈65釐米毛絨形態，透過視聽等多路感測器識別使用者情緒，提供主動互動。"
+    },
+    {
+      "id": "5047953",
+      "time": "2026-08-19 20:07:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【涉金錢醜聞 日本自民黨地方資深政客將辭職】日本執政黨自由民主黨福岡縣分支機構被曝逼迫成員“進貢”大額資金的醜聞後，該事件關鍵人物藏內勇夫19日宣佈將辭去福岡縣議長職務。（央視新聞）"
+    },
+    {
+      "id": "5047952",
+      "time": "2026-08-19 20:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委召開“六張網”重大專案協調排程機制會 完善“六網協同”工作推進機制】2026年8月19日，國家發展改革委黨組成員、副主任嶽修虎同志主持召開“六張網”重大專案協調排程機制會，研究建立算力網、新型電網、新一代通訊網“2+3+N”（2家電網+3家電信運營商+N家算力相關企業）協調機制，加大統籌力度，形成工作合力，共同推動重大專案加快建設。國家電網、南方電網、中國電信、中國聯通、中國移動以及算力相關企業分別做了發言。國家發展改革委、工業和資訊化部、國家能源局有關司局負責同志參加會議。"
+    },
+    {
+      "id": "mkt:01a019eb-0976-7aab-9096-56b75d7c9375",
+      "time": "2026-08-19 20:07:08",
+      "tags": [
+        "MKT News",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "Salesforce (CRM.N) expands digital-commerce solution Headless 360."
+    },
+    {
+      "id": "5047951",
+      "time": "2026-08-19 20:06:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST萃華：連續10個交易日市值低於5億元 存退市風險】*ST萃華公告稱，截至2026年8月19日，公司股票收盤總市值3.66億元，已連續10個交易日低於5億元，若連續20個交易日收盤總市值均低於5億元，將被深交所終止上市交易，且該交易類強制退市情形不進入退市整理期。公司預計無法在法定期限內披露2026年半年度報告，股票預計將於2026年9月1日開市起停牌；預計無法在2026年9月6日前披露合規的2025年年度報告，將觸及規範類退市情形，股票預計自2026年9月7日起繼續停牌。此外，公司部分年度財務資訊涉嫌虛假記載，可能觸及重大違法強制退市情形，證監會調查尚在進行中。"
+    },
+    {
+      "id": "5047950",
+      "time": "2026-08-19 20:04:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "3M：終止2023年5月11日簽署的42.5億美元迴圈信貸協議。"
+    },
+    {
+      "id": "5047949",
+      "time": "2026-08-19 20:04:40",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【崑崙萬維：2026年上半年實現扭虧為盈，淨利潤10.88億元】崑崙萬維公告，2026年上半年營業收入53.59億元，同比增長43.55%。歸屬於上市公司股東的淨利潤10.88億元，上年同期虧損8.56億元，實現扭虧為盈。扣非淨利潤虧損4.58億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5047948",
+      "time": "2026-08-19 20:04:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利通電子：披露近五年被監管處罰及監管措施情況】利通電子公告稱，公司最近五年不存在被證券監管部門和證券交易所處罰的情況，也不存在被證券監管部門採取監管措施的情況。近五年公司曾三次收到上海證券交易所口頭警示，分別涉及日常關聯交易額度預計審議披露不及時、未及時披露2024年年報監管問詢函回覆、2024年年報及2025年一季報資訊披露錯誤，相關時任董秘、財務總監負有責任，公司已完成相應整改。"
+    },
+    {
+      "id": "mkt:01a019e8-90a2-7aab-9096-4833a67d512f",
+      "time": "2026-08-19 20:04:26",
+      "tags": [
+        "MKT News",
+        "MMM.N"
+      ],
+      "text": "3M (MMM.N) signs $4.25 billion revolving credit facility."
+    },
+    {
+      "id": "5047947",
+      "time": "2026-08-19 20:04:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利通電子：擬定增募資不超50億元投建智算中心等】利通電子公告稱，公司董事會審議透過2026年度向特定物件發行A股股票相關議案，本次發行物件不超過35名，發行數量不超過發行前總股本的30%，即不超過1.10億股，募集資金總額不超過50.00億元，扣除發行費用後擬40.00億元投智算中心建設專案、10.00億元補充流動資金。本次發行相關事項尚需股東會審議，後續需經上交所稽核透過及證監會同意註冊。此外，董事會同意聘任馬文蕾為證券事務代表。"
+    },
+    {
+      "id": "5047946",
+      "time": "2026-08-19 20:03:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高樂股份：2026年上半年營收1.65億元 淨虧損2903.64萬元】高樂股份公告稱，2026年上半年實現營業收入1.65億元，同比增長25.29%；歸屬於上市公司股東的淨虧損2903.64萬元，同比增虧3.88%；扣除非經常性損益的淨虧損2927.17萬元，同比減虧3.27%。2026年2月11日，公司控股股東變更為北京黎曼雲圖科創有限公司，實際控制人變更為王帆。報告期內公司主要業務為玩具業務，算力業務完成前期佈局並簽署首個訂單，將形成“玩具+AI算力”雙主業局面。"
+    },
+    {
+      "id": "5047945",
+      "time": "2026-08-19 20:02:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文健康部門推出升級款臨床人工智慧代理，新增自動編碼、語音轉錄文件及病歷稽核功能。"
+    },
+    {
+      "id": "5047942",
+      "time": "2026-08-19 20:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Network Bio與英偉達共同構建通用醫療智慧模型。"
+    },
+    {
+      "id": "mkt:01a019e6-615a-7aab-9096-45b93dd5dc0d",
+      "time": "2026-08-19 20:02:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Network Bio and NVIDIA (NVDA.O) will jointly develop a general-purpose medical AI model."
+    },
+    {
+      "id": "5047941",
+      "time": "2026-08-19 20:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【心言主動智慧陪伴機器人“巴布”亮相WRC，首臺量產機已下線】8月19日，2026世界機器人大會（WRC 2026）在北京正式開幕。心言集團旗下家庭主動智慧陪伴機器人巴布（Bubbo 1）正式亮相，該產品呈65釐米毛絨形態，透過視聽等多路感測器識別使用者情緒，提供主動互動。介面新聞據悉，其首臺量產機已於8月中旬下線，WRC期間該產品首度向公眾開放家庭全場景線下體驗。"
+    },
+    {
+      "id": "5047940",
+      "time": "2026-08-19 20:01:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "螢火蟲宇航公司：將在月球任務中交付澤諾電力公司的\"月夜生存\"元件。"
+    },
+    {
+      "id": "5047939",
+      "time": "2026-08-19 20:01:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海黃金交易所黃金T+D 8月19日（週三）晚盤盤初下跌0.97%報944.95元/克；上海黃金交易所白銀T+D 8月19日（週三）晚盤盤初上漲0.31%報15459.0元/千克。"
+    },
+    {
+      "id": "mkt:01a019e5-f6e6-7aab-9096-3b01ebe9e2f2",
+      "time": "2026-08-19 20:01:36",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "PayPal (PYPL.O) said it has reached new cooperation agreements with three major education payment platforms."
+    },
+    {
+      "id": "mkt:01a019e5-e448-7aab-9096-3032d6757644",
+      "time": "2026-08-19 20:01:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened the evening session on Wednesday Aug 19 down 0.97% at 944.95 yuan/gram; silver T+D opened the evening session up 0.31% at 15,459.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a019e5-8b97-7aab-9096-2abc27f7051f",
+      "time": "2026-08-19 20:01:08",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "PayPal and Venmo have expanded into tuition payments with a new integrated payments service."
+    },
+    {
+      "id": "5047938",
+      "time": "2026-08-19 20:01:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數下跌1.39%，至2776點。"
+    },
+    {
+      "id": "mkt:01a019e5-63b4-7aab-9096-25a5220fb677",
+      "time": "2026-08-19 20:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Burnham files first register of interests as UK prime minister】Andy Burnham’s first public register of interests as UK prime minister, covering donations back to June 2025, shows David Sainsbury gave more than £160,000 to support his Labour leadership campaign’s staffing, travel and office costs. The return also records £50,000 from a company linked to media executive Charlie Parsons and £35,000 from Sasha Lord, a former adviser during Burnham’s tenure as Greater Manchester mayor. Total declared donations and gifts are just over £345,000, from a mix of wealthy Labour backers, trade unions and private companies; this is Burnham’s first register since replacing Starmer in July."
+    },
+    {
+      "id": "5047937",
+      "time": "2026-08-19 20:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英媒：若美升級戰事，伊朗考慮打擊駐歐美軍設施】英國媒體19日披露，伊朗高層已在斟酌應對美國升級戰事的反擊方案，選項包括攻擊美國在歐洲的軍事目標、破壞霍爾木茲海峽海底光纖電纜。《金融時報》以伊朗政府內部兩名知情人士為訊息源報道，隨著美伊戰事陷入僵持階段，伊朗政府內部越來越多人認為，美國恢復對伊朗大規模軍事打擊“不是會不會發生，而是何時發生的問題”。伊朗伊斯蘭革命衛隊和軍方官員已警告稱，如果美伊之間爆發新一輪全面衝突，伊朗將擴大戰場，從先前只打擊美國在中東的軍事設施、海灣國家能源設施和其他基礎設施，到瞄準“更遠的目標”。這兩名知情人士稱，“更遠的目標”包括美國在保加利亞等東南歐國家的軍事設施，也可能波及塞普勒斯。另外一個潛在襲擊目標是霍爾木茲海峽海底光纜。海灣國家高度依賴該光纜傳輸跨境資料。保加利亞上月同意讓美軍在其東南部的貝茲梅爾空軍基地部署加油機。伊朗伊斯蘭革命衛隊曾警告，任何被美軍用作攻打伊朗的軍事基地將被伊朗視作合法打擊目標。按照《金融時報》說法，理論上，歐洲不少地區處在伊朗導彈射程範圍內。美國《華爾街日報》3月援引訊息人士的話報道，伊朗向位於印度洋中部查戈斯群島、距離伊朗大約4000公里的“美英聯合軍事基地”迪戈加西亞基地發射了兩枚中程彈道導彈。雖然這兩枚導彈沒有擊中目標，但此舉顯示伊朗有意願打擊中東地區以外的美軍目標。英國智庫“皇家三軍研究所”研究員西達爾特·考沙爾說，伊朗導彈對歐洲和其他地區構成的威脅“真實但有限”。考沙爾說，伊朗可對美國在南歐和東南歐的軍事設施發射“流星”系列等中程彈道導彈，但這些導彈在較遠射程殺傷力有限。（新華社）"
+    },
+    {
+      "id": "mkt:01a019e5-3f5d-7aab-9096-1c63fae692f0",
+      "time": "2026-08-19 20:00:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 1.39% to 2,776 points."
+    },
     {
       "id": "5047936",
       "time": "2026-08-19 20:00:33",
@@ -140344,693 +140764,6 @@
         "Economic Calendar"
       ],
       "text": "United States | Food Inflation Rate (YoY) (Jul) | actual 3% | previous 3%"
-    },
-    {
-      "id": "mkt:019ff5f3-c743-7aab-900a-f407e354aea5",
-      "time": "2026-08-12 20:30:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Energy Inflation Rate (YoY) (Jul) | actual 14.7% | previous 15.7%"
-    },
-    {
-      "id": "mkt:019ff5f3-c17b-7aab-900a-eb4e2052fc62",
-      "time": "2026-08-12 20:30:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "US real personal income m/m 0%; prior revised to 0.7% from 0.8%."
-    },
-    {
-      "id": "5037740",
-      "time": "2026-08-12 20:30:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國7月消費者物價指數環比上漲0.1%；預期上漲0.1%。"
-    },
-    {
-      "id": "mkt:019ff5f3-b9ec-7aab-900a-e6b70a4fd903",
-      "time": "2026-08-12 20:30:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US July CPI (not seasonally adjusted) 333.918, consensus 333.993, prior 333.952."
-    },
-    {
-      "id": "mkt:019ff5f3-b247-7aab-900a-dc63ef8072a8",
-      "time": "2026-08-12 20:30:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada building permits rose 18.5% MoM in June; May revised from -1.7% to -3.0%."
-    },
-    {
-      "id": "mkt:019ff5f3-afca-7aab-900a-ce4539d1b606",
-      "time": "2026-08-12 20:30:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "U.S. July core CPI (not seasonally adjusted) YoY 2.5% vs. 2.5% expected; prior 2.6%."
-    },
-    {
-      "id": "mkt:019ff5f3-af5f-7aab-900a-c272f025466f",
-      "time": "2026-08-12 20:30:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "US July CPI YoY (not seasonally adjusted) 3.4% vs 3.4% consensus; June 3.50%."
-    },
-    {
-      "id": "5037739",
-      "time": "2026-08-12 20:30:13",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "美國7月核心CPI同比上漲2.5%；預計+2.5%。"
-    },
-    {
-      "id": "5037738",
-      "time": "2026-08-12 20:30:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4430美元/盎司，日內漲1.46%。"
-    },
-    {
-      "id": "mkt:019ff5f3-afcb-7aab-900a-d5f5d01a560f",
-      "time": "2026-08-12 20:30:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US July core CPI (seasonally adjusted) MoM +0.2% vs 0.20% expected; prior 0.0%."
-    },
-    {
-      "id": "mkt:019ff5f3-a047-7aab-900a-bbfc52402dec",
-      "time": "2026-08-12 20:30:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US July seasonally adjusted CPI MoM 0.1% vs 0.1% expected; prior -0.4%."
-    },
-    {
-      "id": "mkt:019ff5f3-89e4-7aab-900a-b3c7ade135af",
-      "time": "2026-08-12 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Building Permits (MoM) (Jun) | actual 18.5% | previous -1.70%"
-    },
-    {
-      "id": "mkt:019ff5f3-83f7-7aab-900a-ab7761cc1b69",
-      "time": "2026-08-12 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Real Earnings All Private Workers (MoM) (Jul) | actual 0% | previous 0.8%"
-    },
-    {
-      "id": "mkt:019ff5f3-7f3a-7aab-900a-a44dbe9cff3d",
-      "time": "2026-08-12 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI (Jul) | actual 333.918 | consensus 333.993 | previous 333.952"
-    },
-    {
-      "id": "mkt:019ff5f3-7f37-7aab-900a-9e37a6b0daf2",
-      "time": "2026-08-12 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI excluding Food and Energy (YoY) (Jul) | actual 2.5% | consensus 2.50% | previous 2.60%"
-    },
-    {
-      "id": "mkt:019ff5f3-7f36-7aab-900a-9357269c443b",
-      "time": "2026-08-12 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI excluding Food and Energy (MoM) (Jul) | actual 0.2% | consensus 0.20% | previous 0.00%"
-    },
-    {
-      "id": "mkt:019ff5f3-7ed9-7aab-900a-89df2b8417af",
-      "time": "2026-08-12 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI (MoM) (Jul) | actual 0.1% | consensus 0.1% | previous -0.40%"
-    },
-    {
-      "id": "5037737",
-      "time": "2026-08-12 20:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4490美元/盎司，日內漲1.10%。"
-    },
-    {
-      "id": "mkt:019ff5f3-7bf0-7aab-900a-87b6c645cde2",
-      "time": "2026-08-12 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI (YoY) (Jul) | actual 3.4% | consensus 3.4% | previous 3.50%"
-    },
-    {
-      "id": "5037736",
-      "time": "2026-08-12 20:30:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行交易員調查顯示，預計12個月後該國基準利率將為4.5%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608123839378565",
-      "time": "2026-08-12 20:30:00",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月CPI同比增長3.4% 符合市場預期】美國7月消費者價格指數（CPI）同比增長3.4%，預估為3.4%，前值為3.5%。美國7月CPI環比增長0.1%，預估為增長0.1%，前值為下降0.4%。美國7月未季調核心CPI環比增長2.5%，預期2.50%，前值2.60%。環比增長0.2%，預期0.20%，前值0.00%。"
-    },
-    {
-      "id": "mkt:019ff5f2-f02c-7aab-900a-7a2345d2700f",
-      "time": "2026-08-12 20:29:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Morocco vows to take tough measures to crack down on illegal immigration."
-    },
-    {
-      "id": "5037735",
-      "time": "2026-08-12 20:29:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：一架軍用飛機在土耳其西北部進行訓練飛行時墜毀。"
-    },
-    {
-      "id": "5037734",
-      "time": "2026-08-12 20:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“零關稅”落地3個月，廣州海關關區自非洲進口享惠貨值超7.3億元】以廣州海關關區為例，截至7月31日，該關自53個非洲建交國進口享惠貨值超7.3億元，企業享受稅款減讓超0.8億元。"
-    },
-    {
-      "id": "5037733",
-      "time": "2026-08-12 20:28:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥承諾對非正常移民採取嚴厲措施。"
-    },
-    {
-      "id": "5037732",
-      "time": "2026-08-12 20:28:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：紐約市對 Polymarket 與 Kalshi 展開調查。"
-    },
-    {
-      "id": "5037731",
-      "time": "2026-08-12 20:27:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年廣深港高鐵跨境客流突破2000萬人次】記者從深圳鐵路部門獲悉，截至2026年8月10日，廣深港高鐵今年累計運送跨境旅客達2005.4萬人次，比去年提前11天突破2000萬人次大關。其中，內地前往香港客流達1032.7萬人次；香港前往內地客流達972.7萬人次，客流雙向流動旺盛。（南方+）"
-    },
-    {
-      "id": "5037730",
-      "time": "2026-08-12 20:27:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大航空首席財務官表示：預計下半年單位成本將增長4%至5%區間。"
-    },
-    {
-      "id": "mkt:019ff5f1-3ab2-7aab-900a-75cfac514713",
-      "time": "2026-08-12 20:27:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A military aircraft crashed during a training flight in northwest Turkey."
-    },
-    {
-      "id": "5037729",
-      "time": "2026-08-12 20:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯曾親自要求基輔方面停止對裡海管道聯盟基礎設施的打擊】烏克蘭官員稱，應美國副總統JD・萬斯上月底提出的要求，烏克蘭已經停止針對駛入黑海一處關鍵港口油輪的大規模無人機打擊行動。 烏克蘭此前持續襲擊油輪，目標是運送哈薩克原油的船隻——這些原油經管道輸往俄羅斯新羅西斯克港的裡海管道聯盟（CPC）終端。美方對此感到警惕，認為烏克蘭此舉會進一步擾亂石油市場，並損害美國企業利益。烏克蘭官員稱，烏方已同意，只要相關船舶不在烏克蘭制裁清單內、且不運載俄羅斯原油或其他俄貨，就不會打擊裡海管道聯盟基礎設施以及非俄羅斯籍船隻。"
-    },
-    {
-      "id": "5037728",
-      "time": "2026-08-12 20:27:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大東南：原定於8月投產的鍍膜產線將延遲至10月份投產】大東南在互動平臺表示，公司全資子公司寧波永珍因前期車間調整，原定於8月投產的鍍膜產線將延遲至10月份投產，公司將加快推進鍍膜產線的各項工作，爭取早日投產見效。"
-    },
-    {
-      "id": "5037727",
-      "time": "2026-08-12 20:27:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門維持對京津冀等地防汛四級應急響應受颱風“白海豚”殘餘環流影響，強降雨範圍繼續北擴，國家防總、應急管理部12日將針對河南的防汛應急響應由四級提升至三級，維持針對北京、天津、河北、山西、山東、湖北、上海、浙江、江蘇、安徽、黑龍江的防汛四級應急響應，5個工作組繼續在浙江、河北、河南、山東、黑龍江一線開展工作。颱風“白海豚”雖已停編，但在其殘餘環流和冷空氣共同影響下，強降雨範圍繼續北擴，覆蓋黃淮、江淮、江漢及華北等地多個省份，特別是河南受地形效應影響可能出現極端暴雨。此外，颱風暴雨導致太湖超警，部分城市發生內澇，防汛形勢嚴峻複雜。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ff5ef-0784-7aab-900a-6e7c6f983156",
-      "time": "2026-08-12 20:25:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Magyar, Hungary's prime minister, said nuclear safety is critical."
-    },
-    {
-      "id": "mkt:019ff5ee-f46a-7aab-900a-655d823b567b",
-      "time": "2026-08-12 20:25:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's YPF said it will begin exporting 180,000 bpd of oil starting in January."
-    },
-    {
-      "id": "mkt:019ff5ee-d520-7aab-900a-5ce254616d77",
-      "time": "2026-08-12 20:24:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Data show recent Saudi Red Sea crude loadings were carried out with vessel-tracking systems switched off, while Yemen's Houthi militants have launched additional attacks."
-    },
-    {
-      "id": "5037726",
-      "time": "2026-08-12 20:24:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大航空首席財務官在電話會議上表示：預計2026年下半年成本表現將有所改善。"
-    },
-    {
-      "id": "5037725",
-      "time": "2026-08-12 20:24:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "資料顯示，葉門胡塞武裝發動更多襲擊，沙特紅海近期原油裝貨作業全程關閉船舶定位追蹤。"
-    },
-    {
-      "id": "mkt:019ff5ee-7c06-7aab-900a-5432a0c7f536",
-      "time": "2026-08-12 20:24:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's sovereign wealth fund, the Government Pension Fund Global, received NOK 89 billion of inflows in 1H."
-    },
-    {
-      "id": "5037724",
-      "time": "2026-08-12 20:24:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾表示，多瑙河相關工程將立即啟動，實行24小時輪班作業。"
-    },
-    {
-      "id": "mkt:019ff5ed-c667-7aab-900a-4f7bed3fc21d",
-      "time": "2026-08-12 20:23:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's sovereign wealth fund posted a 12% return in Q2."
-    },
-    {
-      "id": "5037723",
-      "time": "2026-08-12 20:23:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "晨星資料顯示，2026年上半年，新興市場股票基金吸引了近70億美元淨流入，創有記錄以來最強的半年表現，與2025年的資金流出形成鮮明反差。"
-    },
-    {
-      "id": "mkt:019ff5ed-b32e-7aab-900a-44faa098deaa",
-      "time": "2026-08-12 20:23:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's sovereign wealth fund reported a 16% equity return in Q2."
-    },
-    {
-      "id": "5037722",
-      "time": "2026-08-12 20:23:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國副總統萬斯曾親自要求基輔方面停止對裡海管道聯盟基礎設施的打擊。"
-    },
-    {
-      "id": "te:economy:574750",
-      "time": "2026-08-12 20:23:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mauritius",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Mauritius Keeps Key Policy Rate at 4.75% — The Central Bank of Mauritius unanimously decided to leave its key repo rate steady at 4.75% on August 12, 2026, after raising it by 25 bps in May. Policymakers said the cautious stance reflects a highly uncertain environment, allowing the MPC to assess incoming data, inflation and growth risks, and the impact of previous measures."
-    },
-    {
-      "id": "5037721",
-      "time": "2026-08-12 20:22:38",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.12%，標普500指數期貨漲0.26%，納指期貨漲0.71%。\n②德國DAX指數漲0.35%，英國富時100指數跌0.04%，法國CAC40指數跌0.22%，歐洲斯托克50指數漲0.13%。\n③WTI原油漲0.49%，報83.61美元/桶。布倫特原油漲0.29%，報89.17美元/桶。\n④傳美伊目前沒有就延長停火進行任何討論。\n⑤IEA：儘管需求下降 但全球石油供應缺口仍將擴大。\n⑥韓國將要求個股槓桿ETF的新投資者完成模擬交易練習，進一步收緊針對這類放大市場波動的高風險產品的監管規定。\n⑦人工智慧雲端計算公司CoreWeave盤前大漲近18%，公司公佈第二季經營收入錄得25.8億美元，優於分析員預期的25.6億美元，同比急增112%。\n⑧超微電腦盤前大漲超10%，微電腦公佈，截至2026年6月30日的公司第四財季，淨銷售額111.2億美元，較分析師預期低約1.2%，但同比接近翻倍。\n⑨閃迪盤前漲4.4%，閃迪將於美東時間8月13日上午9點舉行2026年投資者日。"
-    },
-    {
-      "id": "5037720",
-      "time": "2026-08-12 20:22:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，士兵將協助建設工作"
-    },
-    {
-      "id": "mkt:019ff5ec-63b9-7aab-900a-3a7abfbb0c1f",
-      "time": "2026-08-12 20:22:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Magyar said no significant rainfall is expected over the next few weeks and Danube water levels are falling sharply."
-    },
-    {
-      "id": "5037719",
-      "time": "2026-08-12 20:21:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，還將部署兩艘駁船至該工廠，必要時可能將其沉入水中以調節河流。"
-    },
-    {
-      "id": "5037718",
-      "time": "2026-08-12 20:21:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【布魯可：2026年上半年淨利潤3.87億元，同比增長30.5%】布魯可公告，2026年上半年收入17.76億元，同比增長32.7%；毛利7.86億元，同比增長21.5%。期間利潤3.87億元，同比增長30.5%；經調整期間利潤4.01億元，同比增長25.1%。每股基本盈利1.56元。2025年同期收入13.38億元，期間利潤2.97億元。"
-    },
-    {
-      "id": "mkt:019ff5eb-a313-7aab-900a-3027181f4bc5",
-      "time": "2026-08-12 20:21:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungary's Prime Minister Magyar said a bottom weir will raise river levels to ensure cooling at the Paks nuclear power plant."
-    },
-    {
-      "id": "5037717",
-      "time": "2026-08-12 20:21:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鴻博股份：股價異動 上半年預計淨虧損4240萬-6280萬元】鴻博股份公告稱，公司股票於2026年8月11日、12日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營正常，無應披露未披露事項，董高人員在異動期間無買賣本公司股票情形。公司2026年上半年預計淨虧損4240萬元-6280萬元，業績預告暫無修正情況。"
-    },
-    {
-      "id": "5037716",
-      "time": "2026-08-12 20:21:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“白海豚”停編影響仍在 警惕降水疊加風險】中央氣象臺12日18時繼續釋出暴雨橙色預警。颱風“白海豚”8月11日已停止編號，但其殘餘環流與冷空氣、地形等因素疊加影響，12日20時至13日20時，多個省份有大到暴雨，河南南部、湖北北部、江蘇中部等地部分地區有大暴雨。 氣象專家提醒，一些地區降雨持續時間長、累計雨量大，需警惕降水疊加風險。 中央氣象臺首席預報員張芳華預計，12日至14日，強降水將持續影響河南、湖北、安徽、江蘇、上海、浙江等地。從13日起，我國大部分地區降水將逐步減弱，但黃淮南部、江淮、江南東部、華南等地部分地區仍有大到暴雨、局地大暴雨，降水範圍廣、強降雨分佈比較分散。 河南、湖北、安徽三省成為強降雨核心區，降雨長時間持續且強度居高不下。對此，張芳華解釋，“白海豚”登陸後引導氣流減弱，移動速度緩慢，加上季風水汽沒有完全北推，北方有冷空氣持續南下，導致殘餘渦旋環流中心在湖北、安徽、河南三省交界地區停滯、迴旋。（新華社）"
-    },
-    {
-      "id": "5037715",
-      "time": "2026-08-12 20:20:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月12日，收盤價為2.353元，收盤時基金份額參考淨值為2.1583元。若8月13日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "5037714",
-      "time": "2026-08-12 20:20:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【風華高科：登出952.28萬股回購股份 通知債權人申報債權】風華高科公告稱，公司已審議透過登出回購股份、減少註冊資本暨修訂《公司章程》的議案，將登出回購專用證券賬戶中的9,522,792股股份。登出完成後，公司總股本將由1,157,013,211股減至1,147,490,419股，註冊資本由1,157,013,211.00元減至1,147,490,419.00元。公司通知債權人，自公告披露日起45日內可申報債權，申報方式有現場、郵寄、郵件三種。"
-    },
-    {
-      "id": "5037713",
-      "time": "2026-08-12 20:20:24",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【招商基金：旗下部分公募基金參與宇樹科技A股申購】招商基金公告稱，旗下部分公募基金參與宇樹科技首次公開發行A股申購，此次發行主承銷商中信證券是部分公募基金託管人或託管人關聯方，發行價150.80元/股。涉及關聯關係的公募基金獲配資訊為：招商中證消費電子主題ETF獲配334股，金額50,367.2元；招商中證雲端計算與大資料主題ETF獲配869股，金額131,045.2元；招商上證科創板50成份增強策略ETF獲配200股，金額30,160元；招商中證500等權重指數增強型基金獲配1,170股，金額176,436元。"
-    },
-    {
-      "id": "mkt:019ff5ea-74eb-7aab-900a-2b4d60d69078",
-      "time": "2026-08-12 20:20:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "OPEC monthly report: OECD oil inventories fell 26.4 mln barrels in June to 2.73 bln barrels."
-    },
-    {
-      "id": "5037712",
-      "time": "2026-08-12 20:20:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國經濟體制改革研究會副會長樊綱：經歷多輪波動，房企對市場的敬畏心明顯提升】8月12日，觀點“2026博鰲系列活動”正式開幕，中國經濟體制改革研究會副會長、國民經濟研究所所長樊綱在演講中表示，中國已告別廉價勞動力比較優勢，但透過後發優勢成功轉化為創新能力，形成新增長動力。雖然當前增速放緩，但中國擁有新的增長點，新技術和產業正在成長。同時，要注意用好城市化政策，讓外來勞動人口真正融入城市，釋放需求潛力。總體看，中國經濟正處於新舊動能轉換期，具備持續發展的基礎，應當保持信心。（每經）"
-    },
-    {
-      "id": "mkt:019ff5ea-6545-7aab-900a-2789f4d167e2",
-      "time": "2026-08-12 20:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "U.S. July CPI due in 10 minutes: seasonally adjusted headline and core CPI MoM, and unadjusted headline and core CPI YoY."
-    },
-    {
-      "id": "5037711",
-      "time": "2026-08-12 20:19:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省公佈招標投標領域不正之風和腐敗問題典型案例】為進一步發揮典型案例警示教育作用，深化拓展招標投標領域突出問題系統整治成效，持續釋放以案促改、以案促治效能，不斷淨化招標投標市場環境，貴州省紀委監委12日通報了7起招標投標領域查處的典型案例。（新華社）"
-    },
-    {
-      "id": "mkt:019ff5e9-f93a-7aab-900a-1a2f54257665",
-      "time": "2026-08-12 20:19:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's Prime Minister Magyar said the government has decided to build a bottom weir on the Danube."
-    },
-    {
-      "id": "mkt:019ff5e9-c2d7-7aab-900a-15891d5f3a9f",
-      "time": "2026-08-12 20:19:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "OPEC monthly report revised down its 2026 demand estimate for crude from Declaration of Cooperation (DoC) members to 42.1 mln b/d."
-    },
-    {
-      "id": "mkt:019ff5e8-aca7-7aab-900a-0811b5b26396",
-      "time": "2026-08-12 20:18:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "WTI"
-      ],
-      "text": "OPEC monthly report maintained its 2027 forecast for OPEC crude demand at 43.6 mln b/d."
-    },
-    {
-      "id": "mkt:019ff5e8-9c06-7aab-900a-07a920934fc6",
-      "time": "2026-08-12 20:18:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "US10Y"
-      ],
-      "text": "【OPEC: Global refining margins jump to multi-year highs; diesel cracks lead gains】OPEC's monthly report shows July refining margins at the three major hubs (US Gulf, Rotterdam, Singapore) rose sharply to multi-year highs. Rotterdam margins surged $17.88/bbl MoM to $42.13/bbl, the largest monthly rise; US Gulf margins reached $45.70/bbl, the highest since Oct 2022. The report attributes the margin expansion to a rebound in middle-distillate (diesel) cracks after East European refinery outages, Russia's diesel export ban and Middle East geopolitical tensions tightened global diesel supply."
-    },
-    {
-      "id": "5037710",
-      "time": "2026-08-12 20:18:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "SCHOTT製藥股價下跌高達5.8%。"
-    },
-    {
-      "id": "5037709",
-      "time": "2026-08-12 20:18:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國對德進口依賴下降，歐洲多國加速補位】當德國對華出口陷入負增長，法國、義大利、匈牙利等國對華出口卻以兩位數增速逆勢上揚——中國從歐洲進口及整個對歐貿易版圖，正在被重新繪製。海關總署資料顯示，2026年1-6月，中國對歐洲進出口同比增長18.6%，出口增長14%，進口增長26.3%。同期，中國對德國進出口同比增長7.6%，其中出口增長14.8%，進口卻收縮1.7%。中國對德進口依賴下降的同時，歐洲多國加速補位。德國聯邦外貿與投資署（GTAI）近日公佈的初步資料也顯示，今年1-6月，德國對華出口同比下降超過12%，至略低於370億歐元，讓中國從2021年的德國第二大出口市場淪為其第九大市場。GTAI東亞專家科琳·阿貝爾認為，德國對華出口下降的原因是德國經濟疲軟以及中國越來越重視國內價值鏈。與此同時，德國企業現在越來越多地在中國國內生產並銷售。（第一財經）"
-    },
-    {
-      "id": "5037708",
-      "time": "2026-08-12 20:17:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大唐新能源：預計2026年上半年淨利潤同比減少約58%至60%】大唐新能源公告，根據截至2026年6月30日止六個月未經審計綜合管理賬目的初步測算，集團預期錄得歸屬於母公司所有者應占淨利潤介乎約人民幣6.75億元至7.05億元，較2025年同期減少約58%至60%。預期下降主要受2026年上半年部分割槽域風資源水平同比下降、部分割槽域消納形勢不及預期及市場交易電價波動等因素綜合影響所致。"
-    },
-    {
-      "id": "5037707",
-      "time": "2026-08-12 20:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京結束防汛二級應急響應】8月11日—12日，受強颱風“白海豚”及其殘渦暖溼氣流和北方冷空氣的影響，北京市遭遇一輪持續性強降雨天氣。全市平均降雨量34毫米，各區降雨量極不均勻，最大降雨量和最大雨強均出現在密雲區穆家峪鎮，為206毫米、96毫米/小時。順義、延慶等地短時雨強大，昌平小時雨強突破歷史極值。12日20時，氣象部門解除暴雨橙色預警，北京全市同步結束防汛二級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5037706",
-      "time": "2026-08-12 20:15:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "貝塔科技（BETA Technologies）股價在盤前交易中季度業績公佈後下跌2.6%。"
-    },
-    {
-      "id": "5037705",
-      "time": "2026-08-12 20:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "葉門武裝部隊：在達利省北部蓋特巴以西地區打擊了胡塞武裝的集結點。"
-    },
-    {
-      "id": "mkt:019ff5e4-e8cd-7aab-9009-fe208bb935af",
-      "time": "2026-08-12 20:14:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Ceasefire window spurs restart; Saudi July crude output up >1 MBD to 8.2 MBD】Saudi Arabia told OPEC a temporary ceasefire window in the Iran conflict allowed Gulf producers to restore flows, lifting its July crude output by more than 1 MBD to 8.2 MBD from 7.1 MBD in June. Saudi production remains several million b/d below pre-conflict levels. The IEA estimates Saudi domestic crude stocks rose by early August to at least their highest since 2016. The U.S.-Iran ceasefire has collapsed and renewed hostilities heighten risk to two key export routes—the Strait of Hormuz and Bab al-Mandeb—though Middle Eastern producers are still quietly exporting large volumes. Among seven OPEC members reporting directly to the secretariat, combined output rose 1.88 MBD, with most of the increase from Iraq and Saudi."
-    },
-    {
-      "id": "5037704",
-      "time": "2026-08-12 20:14:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【停火視窗推動復產 沙特7月原油產量大增】沙特向歐佩克報告稱，受伊朗戰爭短暫停火期間波斯灣產油國供應恢復推動，該國上月原油產量增加超過100萬桶/日。根據最新的歐佩克月報，沙特表示，其7月原油產量為820萬桶/日，高於6月的710萬桶/日。不過，這一水平仍比衝突前低數百萬桶/日。國際能源署在一份報告中估計，截至8月初，沙特國內原油庫存已升至至少2016年以來最高水平。美伊停火破裂並重新爆發敵對行動，使沙特兩條主要出口通道——波斯灣的霍爾木茲海峽和紅海的曼德海峽——面臨風險。不過，中東產油國仍在低調地將大量原油運出該地區。在直接向歐佩克秘書處報告產量資料的7個成員國中，原油產量合計增加188萬桶/日，其中大部分增量來自伊拉克和沙烏地阿拉伯。"
-    },
-    {
-      "id": "5037703",
-      "time": "2026-08-12 20:13:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Nebius 目前預計，2026 年末簽約電力規模將達 5 吉瓦。"
-    },
-    {
-      "id": "mkt:019ff5e4-b516-7aab-9009-f32196b18e95",
-      "time": "2026-08-12 20:13:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "OPEC monthly report showed Saudi Arabia produced 8.2 mln bpd of crude in July, up from 7.1 mln bpd in June."
     }
   ]
 }
