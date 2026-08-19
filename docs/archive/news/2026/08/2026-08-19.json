@@ -1,7 +1,224 @@
 {
   "date": "2026-08-19",
-  "count": 625,
+  "count": 648,
   "items": [
+    {
+      "id": "5046757",
+      "time": "2026-08-19 09:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.00%，現報3594.377點；上證指數跌0.95%，現報3952.409點；深證成指跌2.30%，現報14286.479點。"
+    },
+    {
+      "id": "5046756",
+      "time": "2026-08-19 09:30:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞二季度薪資價格指數（不包括獎金）季環比 0.8%，預期 0.8%，前值 0.8%。澳大利亞二季度薪資價格指數（不包括獎金）同比 3.2%，預期 3.2%，前值 3.3%。"
+    },
+    {
+      "id": "mkt:01a017a3-e6fb-7aab-9085-8794a46d8c39",
+      "time": "2026-08-19 09:30:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "C-frequency indicator opened down 13.17%; it closed up 516.44% yesterday."
+    },
+    {
+      "id": "mkt:01a017a3-d905-7aab-9085-7cd5c8c3be4b",
+      "time": "2026-08-19 09:30:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Australia Q2 seasonally adjusted Wage Price Index YoY 3.2% (expected 3.2%; prior 3.3%)."
+    },
+    {
+      "id": "mkt:01a017a3-d3e1-7aab-9085-771e3491c4b2",
+      "time": "2026-08-19 09:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q2 seasonally adjusted Wage Price Index q/q 0.8% (forecast 0.80%, prior 0.80%)."
+    },
+    {
+      "id": "5046755",
+      "time": "2026-08-19 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.05%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5046754",
+      "time": "2026-08-19 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.15%， 滬深300指數期貨連續跌1.29%， 中證500指數期貨連續跌1.09%， 上證50指數期貨連續跌0.74%。"
+    },
+    {
+      "id": "5046753",
+      "time": "2026-08-19 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.18%，成分股中，戈碧迦跌5.92%，國子軟體跌4.05%，艾融軟體跌3.68%，萬達軸承跌3.43%。"
+    },
+    {
+      "id": "5046752",
+      "time": "2026-08-19 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.90%，成分股中，源傑科技跌5.20%，佰維儲存跌4.99%，瀾起科技跌4.58%，盛科通訊跌4.17%。"
+    },
+    {
+      "id": "mkt:01a017a3-b94f-7aab-9085-68694fcb4a0d",
+      "time": "2026-08-19 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Wage Price Index (Seasonally Adjusted) (YoY) (Q2) | actual 3.2% | consensus 3.20% | previous 3.30%"
+    },
+    {
+      "id": "mkt:01a017a3-b947-7aab-9085-60f873e2c636",
+      "time": "2026-08-19 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Wage Price Index (Seasonally Adjusted) (QoQ) (Q2) | actual 0.8% | consensus 0.80% | previous 0.80%"
+    },
+    {
+      "id": "5046751",
+      "time": "2026-08-19 09:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓官員稱，美軍正大幅縮減與韓國的聯合軍演。"
+    },
+    {
+      "id": "5046750",
+      "time": "2026-08-19 09:29:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓官員稱，韓美聯合軍事演習將提前一週結束。"
+    },
+    {
+      "id": "mkt:01a017a2-04fa-7aab-9085-5a2dd86d3288",
+      "time": "2026-08-19 09:28:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China A-share CPO sector opened sharply lower; Tianyang New Materials hit the daily limit down, while Fuxin Technology, Qiangda Circuit, Zhongshi Technology and Tianfu Communications opened lower."
+    },
+    {
+      "id": "5046749",
+      "time": "2026-08-19 09:28:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "金風科技A股漲停，金風科技(02208.HK)H股開漲6.68%，訊息面上，朱雀三號實現火箭陸地回收，金風科技持有藍箭航天股份。"
+    },
+    {
+      "id": "mkt:01a017a1-fe4e-7aab-9085-566b84583833",
+      "time": "2026-08-19 09:28:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02208.HK",
+        "Impact bullish"
+      ],
+      "text": "Goldwind A-shares hit the daily limit; H-shares (02208.HK) opened up 6.68% after reports that Landspace's Zhuque-3 achieved a successful land recovery. Goldwind holds a stake in Landspace."
+    },
+    {
+      "id": "mkt:01a017a1-e417-7aab-9085-48b8711f1619",
+      "time": "2026-08-19 09:28:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on Aug 19 (Wednesday), China's CSI 300 Index fell 65.76 points (-1.39 pct) to 4,660.06; Shanghai Composite Index dropped 38.18 points (-0.96 pct) to 3,952.12; Shenzhen Composite Index slid 305.52 points (-2.09 pct) to 14,316.98; ChiNext Index declined 100.05 points (-2.70 pct) to 3,605.52; STAR 50 Index fell 51.96 points (-2.90 pct) to 1,738.91."
+    },
+    {
+      "id": "mkt:01a017a1-bc85-7aab-9085-400fcacb9910",
+      "time": "2026-08-19 09:27:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "Commercial aerospace-themed ETFs opened higher; satellite ETFs from E Fund and GF Fund rose more than 3%, while Penghua and Fullgoal satellite ETFs climbed over 2%. The moves followed news China reported a major breakthrough in reusable-rocket technology as Zhuque-3 became the first Chinese orbital launch vehicle to reach orbit and be recovered on land."
+    },
+    {
+      "id": "5046748",
+      "time": "2026-08-19 09:27:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "商業航天主題ETF高開，衛星ETF易方達、衛星ETF廣發雙雙漲超3%，衛星ETF鵬華、衛星ETF富國漲超2%。訊息面上，我國在重複使用火箭關鍵技術上取得重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。"
+    },
+    {
+      "id": "5046747",
+      "time": "2026-08-19 09:27:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊大幅低開，天洋新材跌停】CPO板塊大幅低開，天洋新材跌停，富信科技、強達電路、中石科技、天孚通訊紛紛低開。"
+    },
+    {
+      "id": "mkt:01a017a1-2e41-7aab-9085-3e2a39e8b87c",
+      "time": "2026-08-19 09:27:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【President Trump's Wednesday schedule】Beijing time Aug 19 20:00 — White House: handle executive business; 23:00 — Oval Office: policy meeting; Beijing time Aug 20 00:30 — Oval Office: policy meeting; 02:30 — Roosevelt Room: remarks to tech industry leaders; 04:00 — Oval Office: policy meeting."
+    },
+    {
+      "id": "5046746",
+      "time": "2026-08-19 09:27:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐委會批准賓士、寶馬、賽力斯共同控股超充合資公司逸安啟】歐盟中國商會訊息，據歐委會網站，8月13日，歐委會宣佈根據歐盟併購法規，正式批准梅賽德斯-賓士中國集團、華晨寶馬和賽力斯集團共同控股北京逸安啟新能源科技有限公司（逸安啟）。今年4月，寶馬與梅賽德斯-賓士在中國合資設立的超充公司逸安啟宣佈股權擴容：賽力斯集團以對等持股方式成為新投資方，旗下品牌問界正式加入。交易完成後，寶馬、梅賽德斯-賓士、賽力斯三方各持33.3%股份，共同推進國內超充網路建設與運營。"
+    },
+    {
+      "id": "5046745",
+      "time": "2026-08-19 09:26:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛麗家居競價跌停】愛麗家居競價跌停，此前走出13天12板，兩度停牌核查；上交所日前公告，部分投資者在交易該股過程中存在影響股票交易正常秩序的異常交易行為，上交所依規對相關投資者採取了暫停賬戶交易等自律監管措施。"
+    },
     {
       "id": "5046744",
       "time": "2026-08-19 09:26:21",
