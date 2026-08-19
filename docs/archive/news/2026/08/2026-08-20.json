@@ -1,7 +1,38 @@
 {
   "date": "2026-08-20",
-  "count": 376,
+  "count": 379,
   "items": [
+    {
+      "id": "te:economy:576611",
+      "time": "2026-08-20 04:55:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%)."
+    },
+    {
+      "id": "5048628",
+      "time": "2026-08-20 04:54:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破67美元/盎司，日內漲4.72%。"
+    },
+    {
+      "id": "mkt:01a01bcd-6326-7aab-90a2-45e5e66bfe29",
+      "time": "2026-08-20 04:54:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium was up as much as 4% intraday at $1,335.58/oz."
+    },
     {
       "id": "5048626",
       "time": "2026-08-20 04:51:44",
