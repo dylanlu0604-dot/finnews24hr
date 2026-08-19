@@ -1,7 +1,50 @@
 {
   "date": "2026-08-20",
-  "count": 347,
+  "count": 351,
   "items": [
+    {
+      "id": "mkt:01a01ba4-6a47-7aab-90a2-0e572ca748a3",
+      "time": "2026-08-20 04:09:14",
+      "tags": [
+        "MKT News",
+        "MRK.N",
+        "Impact bullish"
+      ],
+      "text": "Merck (MRK.N) shares closed up 12.6%, their largest one-day gain since March 2009."
+    },
+    {
+      "id": "mkt:01a01ba3-75ee-7aab-90a2-077232ad6500",
+      "time": "2026-08-20 04:08:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Argentina's economy minister said the government approved a $6.4 billion investment incentive package for Tecpetrol's Los Toldos II oil project in the Vaca Muerta shale basin."
+    },
+    {
+      "id": "5048581",
+      "time": "2026-08-20 04:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "默克股價收漲13%，創2009年3月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a01ba2-472f-7aab-90a1-fcb705810a2c",
+      "time": "2026-08-20 04:06:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Moderna (MRNA.O) shares jumped a record 177%, adding $44 billion to market value."
+    },
     {
       "id": "mkt:01a01ba0-8e2c-7aab-90a1-f42fd4e45b30",
       "time": "2026-08-20 04:05:01",

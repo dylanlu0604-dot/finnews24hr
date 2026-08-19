@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-20 04:06:23",
+  "updated": "2026-08-20 04:10:10",
   "count": 15679,
   "items": [
+    {
+      "id": "mkt:01a01ba4-6a47-7aab-90a2-0e572ca748a3",
+      "time": "2026-08-20 04:09:14",
+      "tags": [
+        "MKT News",
+        "MRK.N",
+        "Impact bullish"
+      ],
+      "text": "Merck (MRK.N) shares closed up 12.6%, their largest one-day gain since March 2009."
+    },
+    {
+      "id": "mkt:01a01ba3-75ee-7aab-90a2-077232ad6500",
+      "time": "2026-08-20 04:08:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Argentina's economy minister said the government approved a $6.4 billion investment incentive package for Tecpetrol's Los Toldos II oil project in the Vaca Muerta shale basin."
+    },
+    {
+      "id": "5048581",
+      "time": "2026-08-20 04:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "默克股價收漲13%，創2009年3月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a01ba2-472f-7aab-90a1-fcb705810a2c",
+      "time": "2026-08-20 04:06:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Moderna (MRNA.O) shares jumped a record 177%, adding $44 billion to market value."
+    },
     {
       "id": "mkt:01a01ba0-8e2c-7aab-90a1-f42fd4e45b30",
       "time": "2026-08-20 04:05:01",
@@ -143639,38 +143682,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Rise on AI Gains and Tame CPI — US stock indices closed mostly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to near its record close, the Nasdaq gained 0.7%, and the Dow closed nearly flat. CoreWeave surged 19.3% after posting stronger-than-expected sales results. SMCI soared 19% after its revenue forecast came in above expectations. Chip producers gained following strong results from Tencent, while Temasek took fresh stakes in SK Hynix and Samsung. The results injected fresh optimism into AI infrastructure stocks amid their volatile start to the third quarter. Nvidia (+3%), Oracle (+5.4%), and Micron (+4.9%) were up. Meanwhile, new inflation data showed relatively stable core inflation, easing pressure on the FOMC to raise interest rates. Still, uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Hyperscalers erased earlier gains, with Microsoft down 2.3%, Meta losing 3.4%, and Amazon shedding 1.8%."
-    },
-    {
-      "id": "5038112",
-      "time": "2026-08-13 04:09:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加320億立方英尺。"
-    },
-    {
-      "id": "5038111",
-      "time": "2026-08-13 04:09:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科第四財季來自超大規模雲服務商的AI訂單達40億美元。"
-    },
-    {
-      "id": "5038110",
-      "time": "2026-08-13 04:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科預計2027財年調整後每股收益5.05至5.11美元，市場預期4.84美元。"
-    },
-    {
-      "id": "5038109",
-      "time": "2026-08-13 04:07:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "思科2027財年銷售額指引超出市場預期，股價大漲7%。"
     }
   ]
 }
