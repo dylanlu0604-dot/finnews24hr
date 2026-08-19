@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-20 06:50:07",
+  "updated": "2026-08-20 06:53:58",
   "count": 15672,
   "items": [
+    {
+      "id": "mkt:01a01c39-fcc5-7aab-90a2-f26a599ad068",
+      "time": "2026-08-20 06:52:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Senators demand Kevin Warsh disclose calls with Trump despite blank schedule】Four Senate Democrats led by Chris Van Hollen have asked Fed Chair Kevin Warsh to publicly disclose his communications with President Trump after the Wall Street Journal reported multiple calls despite no entries on Warsh’s official schedule. The senators said nondisclosure could create the impression the White House is directing monetary policy and asked Warsh to confirm in writing whether he has had any contact with Trump since taking office or to amend his schedule to show such calls. Warsh did not directly answer Van Hollen last month. White House NEC Director Kevin Hassett said in early August that Trump did not press Warsh on rate decisions; Trump has said he spoke to Warsh only once briefly. By contrast, former Fed Chair Jerome Powell documented and disclosed several calls and face-to-face meetings with Trump."
+    },
+    {
+      "id": "5048679",
+      "time": "2026-08-20 06:52:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【黃金理財產品淨值回暖，理財公司看重黃金壓艙石價值】受近期黃金價格反彈影響，多隻含黃金策略理財產品淨值創出歷史新高，一度被市場冷落的“黃金+”理財產品再度引發投資者關注。在發行端，黃金主題理財產品近兩個月處於沉寂狀態，有理財機構人士透露，未來一段時間內不會發行黃金主題理財產品，現階段抓住市場視窗期，在固收增強類產品的投資組合中靈活配置黃金相關資產。調研發現，目前理財公司對黃金“壓艙石”的定位及其資產配置價值已形成較強共識，認為在多資產多策略的框架下，黃金是不可或缺的一環，後續將以更為靈活的節奏“逢低配置”。（中證報）"
+    },
     {
       "id": "5048678",
       "time": "2026-08-20 06:46:04",
@@ -143623,29 +143641,6 @@
         "其他"
       ],
       "text": "星鏈：星鏈高速低延遲網際網路現已在越南上線。"
-    },
-    {
-      "id": "te:markets:574834",
-      "time": "2026-08-13 06:51:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Tracks Wall Street Higher — New Zealand's stocks advanced 33 points, or 0.2%, to 13,771 in Thursday morning deals, halting losses from the previous two sessions, tracking a rise on Wall Street overnight as moderated inflation eased expectations of the Fed's tightening monetary policy decision at its upcoming meeting. The broader index moved from its lowest level since August 3, recorded a day earlier, mainly supported by gains from real estate, financials, materials, and energy. However, traders continued to monitor developments in the Middle East amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the release of the RBNZ's business inflation expectations for Q3 later today, after accelerating slightly in Q2. Among early gainers were Port of Tauranga (1.5%), Ebos Group (0.6%), South Port NZ (0.5%), Meridian Energy (0.5%), Freightways Group (0.4%), Infratil (0.4%), Chorus (0.4%), Mainfreight (0.3%), and Contact Energy (0.3%)."
-    },
-    {
-      "id": "5038186",
-      "time": "2026-08-13 06:50:36",
-      "tags": [
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 07:01 英國至7月三個月RICS房價指數；\n② 07:30 日本7月國內企業商品物價指數；\n③ 08:15 澳洲聯儲助理主席肯特參加一場爐邊談話；\n④ 14:00 英國第二季度GDP初值、6月GDP、6月工業產出、6月商品貿易帳；\n⑤ 17:00 歐元區6月工業產出；\n⑥ 20:00 京東二季度財報電話會；\n⑦ 20:15 美國2026年FOMC票委、克利夫蘭聯儲主席哈瑪克發表講話；\n⑧ 20:30 美國7月PPI、美國8月8日當週首次申請失業救濟人數；\n⑨ 20:40 美國2027年FOMC票委、里士滿主席巴爾金就經濟前景發表講話；\n⑩ 22:30 美國至8月7日當週EIA天然氣庫存。"
     }
   ]
 }
