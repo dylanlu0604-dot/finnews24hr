@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-19 18:34:25_
-_本檔包含 2933 則快訊，約 615863 字_
+_更新時間：2026-08-19 18:50:57_
+_本檔包含 2968 則快訊，約 616236 字_
+
+---
+
+### 2026-08-18 17:44:13  #Trading Economics #Economy #South Africa #Coincident Index #Importance 1
+
+South Africa Business Sentiment Up to 4-Month High: SACCI — The South African Chamber of Commerce and Industry (SACCI) business confidence index rose to 125.4 in July 2026, the highest reading since March, up from 123.5 in the prior month. Higher new vehicle sales, stronger merchandise export volumes and lower energy prices supported the improvement, while higher inflation and lower precious metal prices weighed on business confidence. Sacci added that the number of foreign travellers to South Africa remained a positive factor despite short-term instability linked to the Middle East conflict.
+
+---
+
+### 2026-08-18 17:43:46  #公司
+
+【金祿電子：清遠基地PCB擴建專案首條適配AI和算力產品的生產線預計將在第三季度內建成並投產】金祿電子(301282.SZ)釋出投資者關係活動記錄表公告，根據目前實際建設情況，廣東清遠生產基地PCB擴建專案首條適配AI和算力產品的生產線預計將在第三季度內建成並投產。
+
+---
+
+### 2026-08-18 17:43:16  #公司
+
+【中百集團：第一大股東及其一致行動人權益被動增加超1%】中百集團公告稱，公司已完成643.41萬股限制性股票回購登出手續，總股本由6.62億股變更為6.56億股。2026年8月17日，公司第一大股東武商聯及其一致行動人華漢投資持股數量不變，合計持股比例由35.98%被動增加至36.33%，權益變動觸及1%整數倍，本次權益變動不涉及資金來源。
+
+---
+
+### 2026-08-18 17:43:05  #其他
+
+【交通運輸部：20個地區連續降雨，公路交通存在高風險】根據交通運輸部與中國氣象局會商研判，結合氣象部門降雨資料，截至8月18日，安徽1個省份的1個縣區出現了降水天數15天以上、累計降雨量600毫米以上或累計降雨量300毫米以上且超過常年同期水平3倍的情況，浙江、安徽、湖北、廣東、廣西5省（區）的19個縣區出現了降水天數15天以上、累計降雨量300毫米以上且超過常年同期水平2倍的情況，公路交通存在高風險。交通運輸部要求相關省份交通運輸部門在地方人民政府領導下，做好連續降雨高風險區域的公路安全風險管控工作，嚴格落實災害風險隱患排查和公路巡查要求，提高力量預置的精準性和針對性，細化主動防禦管控措施，切實保障連續降雨期間人民群眾公路出行安全。
+
+---
+
+### 2026-08-18 17:42:57  #國際
+
+【駐韓美軍司令與韓國國防部長官舉行會談】駐韓國美軍司令澤維爾·布倫森當天與韓國國防部長官安圭伯舉行會談。外界推測，雙方可能就落實美國總統特朗普關於縮減美韓聯合軍演規模的要求等交換了意見。（新華社）
+
+---
+
+### 2026-08-18 17:42:49  #公司
+
+【思維列控：召開2026年半年度業績說明會】思維列控公告稱，公司於2026年8月18日召開2026年半年度業績說明會。2026年上半年公司總營收7.29億元，其中列控業務收入2.71億元，同比降3.90%；鐵路安全防護業務收入2.15億元，同比增13.16%；高鐵執行監測業務收入2.29億元，同比增13.37%。截至2026年6月30日，公司貨幣資金11.91億元，資產負債率5.57%，無有息負債。截至2026年8月10日，公司股東戶數為35592戶。公司將按2024-2026年分紅規劃擇機推進中期分紅，投資者提出的回購、控制權變更相關建議將由公司審慎評估。
+
+---
+
+### 2026-08-18 17:42:32  #公司
+
+【中國電建：1月至7月新籤合同6404.56億元，同比減少13.00%】中國電建公告，2026年1月至7月新籤合同金額合計6404.56億元，同比減少13.00%。其中，能源電力業務新籤合同金額4021.41億元，同比減少14.76%；水資源與環境業務587.09億元，同比減少21.76%；城市建設與基礎設施業務1623.7億元，同比增長7.09%；其他業務172.36億元，同比減少54.29%。按地區分，境內合同金額4396.41億元，同比減少24.21%；境外合同金額2008.15億元，同比增長28.66%。
+
+---
+
+### 2026-08-18 17:42:02  #MKT News #Market Regions #Emerging Markets
+
+【Vietnam to elevate Bac Ninh and Quang Ninh to centrally governed cities to spur high‑tech upgrade】Vietnam plans to upgrade its two largest FDI destinations, Bac Ninh and Quang Ninh, to centrally governed cities to accelerate development of Samsung’s manufacturing cluster and the Ha Long Bay area. The National Assembly is scheduled to vote on the proposal at the end of the month and the measure is widely expected to pass. Bac Ninh has been a key Samsung manufacturing base since the company opened its first phone plant there in 2008; Foxconn, GoerTek and Luxshare have also established factories in the province. Matthew Powell of CBRE says the change is intended to push Bac Ninh and Quang Ninh toward higher‑tech, higher value‑added industries and to unlock the next phase of capital growth potential.
+
+---
+
+### 2026-08-18 17:41:42  #公司
+
+【威帝股份：2026年上半年由盈轉虧，淨利潤虧損766.46萬元】威帝股份公告，2026年上半年營業收入6785.22萬元，同比下降8.25%。歸屬於上市公司股東的淨利潤虧損766.46萬元，上年同期淨利潤55.21萬元。本報告期不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-18 17:40:53  #央行 #其他
+
+英國央行開展流動性操作，投放 34.8 億英鎊，足額滿足銀行投標需求。
+
+---
+
+### 2026-08-18 17:40:04  #市場 #焦點
+
+【南向資金今日淨買入140.02億港元】港股通（滬）方面，盈富基金、阿里巴巴-W分別獲淨買入25.19億港元、22.82億港元；MINIMAX-W淨賣出額居首，金額為4.04億港元；港股通（深）方面，盈富基金、中芯國際分別獲淨買入9.89億港元、5.73億港元；騰訊控股淨賣出額居首，金額為3.74億港元。
+
+---
+
+### 2026-08-18 17:39:07  #MKT News
+
+【Macau publishes 2026-2030 five-year plan, targets economic diversification and Hengqin cooperation】The Macau SAR government published its third five-year economic and social development plan for 2026–2030, setting eight development goals and 35 core indicators. Market-relevant objectives include: full implementation of the national security concept and strengthened rule-of-law governance; substantive progress toward moderate economic diversification; high-quality advancement of the Hengqin cooperation zone; integrated development of education, science & technology and talent; effective protection and gradual optimization of resident welfare; notable progress on building a smart and environmentally attractive Macau; and closer integration with and service to the national development agenda.
+
+---
+
+### 2026-08-18 17:38:40  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #Copper
+
+MOODY'S affirmed Australia's issuer rating at Aaa and maintained a stable outlook.
+
+---
+
+### 2026-08-18 17:38:39  #公司
+
+【太陽電纜：持股5%以上股東減持計劃期限屆滿未減持】太陽電纜公告稱，截至2026年8月17日，公司持股5%以上股東廈門象嶼集團有限公司及其一致行動人的減持計劃期限已屆滿，期間未減持公司股份。截至公告披露日，上述股東及其一致行動人合計持有公司股份9778.51萬股，佔公司總股本13.54%，持股情況未發生變化。本次減持不存在違反減持計劃及相關承諾的情形，不會導致公司控股股東及實際控制人發生變化。
+
+---
+
+### 2026-08-18 17:38:23  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+MOODY'S says Australia’s economy remains resilient despite higher oil prices driven by global tariffs and the Middle East conflict.
+
+---
+
+### 2026-08-18 17:38:22  #其他
+
+穆迪：穩定展望反映出對澳大利亞經濟靈活性與政策有效性的信心。
+
+---
+
+### 2026-08-18 17:38:03  #國際
+
+穆迪：儘管存在全球關稅問題、以及中東衝突推高油價等影響，澳大利亞經濟仍保持韌性。
+
+---
+
+### 2026-08-18 17:38:01  #MKT News #S&P500 #Impact mixed #Nasdaq100
+
+Axios reports the FDA is considering a "capability-based" evaluation, modeled on physician assessments, for medical devices that incorporate generative AI.
+
+---
+
+### 2026-08-18 17:36:48  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+Three NATO reconnaissance aircraft were detected in the past two hours approaching the Kaliningrad region from Poland and Lithuania.
+
+---
+
+### 2026-08-18 17:36:20  #公司
+
+【小米集團：在OpenRouter平臺上，Xiaomi MiMo-V2.5周呼叫量3位 列第一】小米集團(01810.HK)公告，在2026年4月釋出的基座模型Xiaomi MiMo-V2.5 持續受到全球使用者的廣泛支援。在OpenRouter平臺上，Xiaomi MiMo-V2.5周呼叫量3位 列第一，達到10.5萬億token。2026年6月，我們正式釋出以Xiaomi MiMo大模型為核心 的全屋智慧AI開源方案Xiaomi Miloco 2.0。2026年6月，小米機器人 團隊在CVPR 2026 Workshops中的GigaBrain Challenge-RoboChallenge賽道和ICRA 2026 中的WBC賽道獲得雙料冠軍，反映小米機器人團隊在具身智慧領域的前沿研發水平。
+
+---
+
+### 2026-08-18 17:36:15  #其他
+
+穆迪對澳大利亞的評價：韌性將持續延續，其支撐因素為靈活的經濟、高效的制度以及反應及時的政策制定。
+
+---
+
+### 2026-08-18 17:36:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukrainian official says missile strike in Kharkiv region kills 10, wounds 8】Kharkiv regional military administration head Syniehubov said on social media on the 18th that a missile struck the town of Pechenehy, killing 10 and wounding 8. The attack damaged multiple buildings, including 10 homes, and at least seven cars. Injured are receiving treatment and rescue teams are on site.
+
+---
+
+### 2026-08-18 17:36:09  #公司
+
+【祥龍電業：披露2026年第二季度主要經營資料】祥龍電業公告稱，2026年第二季度公司水生產與供應板塊武漢地區供水量712.80萬噸，含稅均價1.94元/噸。建築板塊本季度新籤工程方面，房屋建設、基建工程、專業工程新籤數量及金額均為0，建築裝飾新籤數量及金額同比下降100%，其他類新籤2個、金額899.58萬元，同比分別下降33.33%、65.02%；本年累計建築板塊新籤工程總數量7個，總金額1338.42萬元。
+
+---
+
+### 2026-08-18 17:35:48  #其他
+
+【市場訊息：葉門導彈襲擊沙特僱傭兵指揮部】葉門訊息源報道，葉門軍隊以及安薩爾真主運動（胡塞武裝）對隸屬於利雅得方面的一處駐軍營地發動導彈襲擊後，馬裡卜省發生劇烈爆炸。
+
+---
+
+### 2026-08-18 17:35:39  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemeni sources report the Yemeni army and Houthi forces fired missiles at a mercenary headquarters and Riyadh-aligned troop camps in Marib province, triggering large explosions.
+
+---
+
+### 2026-08-18 17:35:23  #公司
+
+【盛航股份：控股股東增持股份觸及1%整數倍】盛航股份公告稱，2026年7月29日、7月30日及8月17日，公司控股股東萬達控股集團透過集中競價方式累計增持公司股份226.04萬股，佔公司總股本的1.20%，增持金額合計3092.17萬元。本次權益變動後，萬達控股集團及其一致行動人李桃元合計持有公司股份5303.31萬股，佔公司總股本比例由27.01%升至28.21%，觸及1%刻度線。本次增持在前期披露的增持計劃範圍內，增持計劃尚未實施完畢，不觸及要約收購，不會導致公司控制權發生變化。
+
+---
+
+### 2026-08-18 17:35:02  #公司
+
+【祥龍電業：2026年第二季度水供應量712.8萬噸，均價1.94元/噸】祥龍電業公告，公司2026年第二季度主要經營資料（未審計）顯示，水的生產與供應板塊在武漢地區供應量為712.8萬噸，均價為1.94元/噸。建築板塊中，其他類新籤工程2個，金額899.58萬元，數量同比下降33.33%，金額同比下降65.02%；本年累計其他類新籤工程7個，金額1338.42萬元。
+
+---
+
+### 2026-08-18 17:34:49  #國際
+
+【烏官員稱哈爾科夫州遭導彈襲擊致10死8傷】烏克蘭哈爾科夫州軍事行政長官西涅古博夫18日在社交媒體發文說，該州佩切涅吉鎮當天遭導彈襲擊，已造成10人死亡、8人受傷。西涅古博夫說，襲擊還造成包括10棟民宅在內的多處建築和至少7輛汽車受損。目前，傷者正在接受治療，救援人員已展開救援。（新華社）
+
+---
+
+### 2026-08-18 17:34:38  #MKT News #CNA.L
+
+Ofgem granted British Gas a limited exemption to launch pilot tariffs that reduce fixed (standing) charges; customers may opt in from 11 August until 10 August 2027.
+
+---
+
+### 2026-08-18 17:34:22  #公司
+
+【小米集團：智慧手機平均售價創歷史新高】小米集團表示，第二季度全球智慧手機出貨量為3120萬臺，智慧手機業務收入為人民幣421億元，毛利率為8.5%；智慧手機平均售價（「ASP」）同比增長25.9%，達到人民幣1,351元，創歷史新高。
+
+---
+
+### 2026-08-18 17:34:16  #MKT News
+
+ONGC says a framework agreement on follow-up actions for its Venezuelan assets is under discussion.
+
+---
+
+### 2026-08-18 17:34:04  #公司 #國際
+
+印度石油天然氣公司（ONGC）：目前正就委內瑞拉兩項資產後續行動框架協議展開磋商。
+
+---
+
+### 2026-08-18 17:33:55  #公司 #焦點
+
+【海鷗住工：籌劃控制權變更 8月19日起繼續停牌】海鷗住工公告稱，公司此前因控股股東中餘投資籌劃控制權變更事項，股票自2026年8月17日開市起停牌，預計無法在8月19日開市起復牌，經向深交所申請，公司股票自2026年8月19日開市起繼續停牌，預計停牌時間不超過3個交易日。目前各方仍在籌劃洽談相關方案，尚未簽署正式協議，本次控制權變更事項尚存在重大不確定性。
+
+---
+
+### 2026-08-18 17:33:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+ONGC said it has received US government approval to resume full operations in Venezuela and to seek operator status; the required approval was obtained in July 2026.
+
+---
+
+### 2026-08-18 17:33:05  #公司 #國際
+
+印度石油天然氣公司（ONGC Ltd）：已於2026年7月獲得美國政府所需的批准。
+
+---
+
+### 2026-08-18 17:32:53  #MKT News #Brent #Impact bullish #WTI
+
+RIA quoted the RUSSIAN DEFENCE MINISTRY saying that on the evening of Aug 17 attack drones struck fuel tanks used by Ukrainian forces at the port of Odesa.
+
+---
+
+### 2026-08-18 17:32:43  #公司 #國際
+
+印度石油天然氣公司就有關委內瑞拉業務獲美國許可的報道作出澄清。
+
+---
+
+### 2026-08-18 17:32:28  #公司
+
+【小米集團：智慧電動汽車收入為人民幣239億元】小米集團表示，2026年第二季度，我們的智慧電動汽車及AI等創新業務分部收入為人民幣249億元，同比增長17.1%。其中，智慧電動汽車收入為人民幣239億元，其他相關業務收入為人民幣10億元（包括Xiaomi MiMo大模型系列帶來的AI業務收入）。本季度，智慧電動汽車及AI等創新業務分部毛利率為19.2%。2026年第二季度，我們的智慧電動汽車及AI等創新業務分部經營虧損為人民幣26億元。
+
+---
+
+### 2026-08-18 17:32:11  #其他
+
+穆迪評級維持澳大利亞評級展望穩定。
+
+---
+
+### 2026-08-18 17:31:48  #MKT News #Star Stocks #Alibaba #Tencent #9988.HK #Impact bullish #0700.HK #Impact bearish #Hang Seng Index
+
+Southbound Stock Connect posted a net buy of CNY 14.002 billion today. Shanghai Connect: Tracker Fund of Hong Kong and Alibaba-W were net bought HKD 2.519 billion and HKD 2.282 billion respectively; the largest net sell was HKD 404 million. Shenzhen Connect: Tracker Fund and SMIC were net bought HKD 989 million and HKD 573 million respectively; Tencent was the largest net sell at HKD 374 million.
+
+---
+
+### 2026-08-18 17:31:44  #其他
+
+穆迪評級確認澳大利亞 Aaa 發行人評級。
+
+---
+
+### 2026-08-18 17:31:36  #公司
+
+【美格智慧：終止部分募投專案並調整剩餘募投計劃】美格智慧公告稱，公司擬終止“研發中心建設專案”，該專案原計劃投入募集資金5063.20萬元，截至2026年6月30日已投入627.90萬元，結餘募集資金4435.30萬元將全部轉入調整後的募投專案。原“5G+AIoT模組及解決方案產業化專案”更名為“AI研發及先進製造產業專案”，總投資5.71億元，擬投入募集資金4.37億元，專案預計達到可使用狀態時間延期至2030年12月31日。該事項已經董事會審議透過，尚需提交公司股東會審議。
+
+---
+
+### 2026-08-18 17:31:21  #公司
+
+市場訊息：人工智慧晶片初創公司Etched在由Jane Street領投的一輪融資中籌集7億美元，使公司估值達到210億美元。Etched已簽署Jane Street作為首個客戶，並已開始出貨晶片。
+
+---
+
+### 2026-08-18 17:31:14  #公司
+
+【中國聯通：披露聯通集團財務公司風險持續評估報告】中國聯通公告稱，公司對聯通集團財務公司開展風險持續評估。截至2026年6月30日，財務公司資產總額595.02億元，所有者權益69.19億元，2026年上半年實現營收5.41億元，淨利潤1.57億元，各項監管指標均符合規定要求，內部控制制度完整執行有效，風險管理無重大缺陷，未發生各類重大風險及違規受罰事項。截至該日公司在財務公司存款餘額472.64億元，貸款餘額為0，存款安全性與流動性良好。
+
+---
+
+### 2026-08-18 17:30:56  #宏觀
+
+【防作弊管控將融入電子計價秤生產全流程 市場監管總局最新部署】記者今天瞭解到，為保障消費者合法權益，遏制作弊秤違法違規行為，市場監管總局近日在浙江省永康市召開電子計價秤生產企業和經銷商行政指導會。電子計價秤計量是否精準，直接關乎群眾“菜籃子”“錢袋子”。針對當前作弊手段迭代升級，從傳統機械改裝轉為晶片植入、程式燒錄、遠端操控等新型方式，市場監管總局要求電子計價秤生產企業把防作弊管控融入產品生產全流程；嚴控感測器、主控晶片等核心零部件，配齊防篡改、鎖機、身份識別防護功能，嚴禁預留作弊改裝通道；加大技術研發力度，提升產品效能，抵制偷工減料與低價惡性競爭；銷售、維修主體應落實進貨查驗、購銷臺賬、實名登記制度，核驗產品資質與封印資訊，杜絕購銷改裝作弊秤，不得借維修實施非法改造；線上商戶禁止用暗語引流、私單交易等方式規避監管，發現違法線索須留存證據並上報。市場監管總局將強化跨區域線索協查、資料分析和風險預警，依法嚴厲查處生產、銷售、改裝、使用作弊秤等違法行為，對涉嫌犯罪的及時移送公安機關。（央視新聞）
+
+---
+
+### 2026-08-18 17:30:40  #MKT News #Important #Star Stocks #Xiaomi #01810.HK #Impact bearish
+
+Xiaomi Group (01810.HK) reported adjusted net profit for Q2 2026 of 6.219 bln yuan, down 42.6% YoY.
+
+---
+
+### 2026-08-18 17:30:35  #MKT News
+
+South African Chamber of Commerce: July business confidence index rose to 125.4 from June's 123.5.
+
+---
+
+### 2026-08-18 17:30:24  #資料
+
+南非 7 月商業信心指數為 125.4。
+
+---
+
+### 2026-08-18 17:30:08  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: South Korea 10Y Bond Yield Rises by 10 bps — Government bonds yields are higher on Tuesday. Top gainers are South Korea 10Y (10.20bps), Germany 10Y (3.61bps), Japan 10Y (1.34bps) and US 10Y (1.10bps).
+
+---
+
+### 2026-08-18 17:30:03  #公司
+
+小米集團：第二季度汽車交付總量104199輛。
+
+---
+
+### 2026-08-18 17:29:48  #公司
+
+【中國聯通：聘任邱寶華為公司高階副總裁】中國聯通公告稱，公司於2026年8月18日召開第八屆董事會第二十八次會議，審議透過聘任邱寶華為公司高階副總裁的議案，該議案已經董事會提名委員會事前審議透過。邱寶華具備豐富的電信行業管理從業經驗，符合相關監管要求的任職資格。
+
+---
+
+### 2026-08-18 17:29:36  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+RIA: Russian Defence Ministry said its forces captured two settlements in Ukraine's Donetsk region.
+
+---
+
+### 2026-08-18 17:29:35  #其他
+
+【澳門：推進對大三巴一帶保護性更新活化】澳門特區政府8月18日正式公佈《澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）》。澳門特區行政長官岑浩輝表示，將加快推進都市更新，建設美麗智慧澳門。在確保社會大局穩定的前提下，以破格的思維和行動加快推進都市更新。完善都市更新法律制度，統籌都市更新資金、資源及政策支援，構建可持續的都市更新機制。推進對大三巴一帶保護性更新活化，加快推動祐漢等舊區舊樓整體更新。（大灣區之聲）
+
+---
+
+### 2026-08-18 17:29:29  #公司
+
+【中國聯通：2026年上半年營收2013.64億元 淨虧損41.39億元】中國聯通公告稱，2026年上半年實現營業收入2013.64億元，同比增長0.6%；歸屬於上市公司股東的淨利潤41.39億元，同比下降34.8%。公司本年度不派發中期股息，董事會將根據全年業績情況提出年度股息派發方案建議提交股東會審議。
+
+---
+
+### 2026-08-18 17:29:06  #國際
+
+俄羅斯國防部稱俄軍已攻佔烏克蘭頓涅茨克地區兩處定居點。
+
+---
+
+### 2026-08-18 17:29:01  #國際
+
+據敘利亞國家通訊社18日報道，敘利亞西部塔爾圖斯省一座發電站發生爆炸，造成至少3人死亡，爆炸原因正在調查中。（新華社）
+
+---
+
+### 2026-08-18 17:28:51  #公司
+
+【中國聯通：截至2026年6月連線使用者累計達13.11億戶】中國聯通公告，截至2026年6月，公司連線使用者累計到達數13.11億戶，其中5G網路使用者累計到達數2.49億戶，物聯網終端連線累計到達數7.73億戶；聯通雲機構產業大客戶數49.1萬戶，雲智產品付費使用者數1.16億戶；當月智慧客服智慧服務佔比85.9%，客戶訴求解決滿意率96.0%。
+
+---
+
+### 2026-08-18 17:28:29  #MKT News #Important #Star Stocks #Xiaomi #01810.HK #Impact bearish
+
+Xiaomi Group (01810.HK) reported adjusted net profit of 12.291 billion yuan in 1H 2026, down 42.8% YoY.
+
+---
+
+### 2026-08-18 17:27:29  #公司
+
+小米集團：第二季度電動汽車及AI等創新業務經營虧損 26億元人民幣。
+
+---
+
+### 2026-08-18 17:27:22  #MKT News #Important #Star Stocks #Xiaomi #01810.HK #Impact bearish
+
+Xiaomi Group (01810.HK) said 1H2026 revenue was RMB 208.06 bln, down 8.4% YoY.
+
+---
+
+### 2026-08-18 17:27:20  #其他
+
+小米：智慧手機營收為421億元人民幣。
+
+---
+
+### 2026-08-18 17:27:02  #市場
+
+【美股儲存板塊主要個股盤前均跌超5%】美股儲存板塊盤前擴大跌幅，美光科技下跌5.00%，SK海力士下跌5.58%，閃迪下跌6.00%，西部資料下跌6.12%，希捷科技下跌5.70%。
+
+---
+
+### 2026-08-18 17:26:31  #公司
+
+【綠茵生態：連續12個月累計涉訴涉案金額3.08億元】綠茵生態公告稱，截至公告披露日，公司及控股子公司連續十二個月內累計訴訟、仲裁事項涉案金額合計約3.08億元，佔公司最近一期經審計淨資產的12.74%。上述案件共計35起，其中作為原告、申請人涉及21起，涉案金額合計3.04億元；作為被告、被申請人涉及14起，涉案金額合計387.07萬元。公司不存在單項涉案金額超1000萬元且佔最近一期經審計淨資產絕對值10%以上的重大訴訟、仲裁事項。部分案件尚未審結或執行完畢，對公司本期利潤或期後利潤的影響存在不確定性。
 
 ---
 
@@ -17515,173 +17893,5 @@ Hong Kong close: Hang Seng Index +1.34%, Hang Seng TECH Index +1.58%. Optical-co
 ### 2026-08-17 16:09:17  #MKT News #Commodities #Energy #Market Regions #Greater China #WTI #Impact mixed #Brent
 
 【China NDRC, NEA to bolster oil reserve system, step up supply‑demand monitoring】China's National Development and Reform Commission and National Energy Administration issued the Petroleum and Natural Gas Development "15th Five‑Year Plan", calling for an integrated national oil reserve system combining government strategic reserves, corporate social‑responsibility (CSR) reserves and enterprise operating inventories to materially strengthen risk resilience and energy security. The plan directs continued expansion of government strategic reserves, improvement of the CSR reserve framework, maintenance of reasonable operating inventories, encouragement of private capital to invest in and operate commercial storage facilities to expand reserve capacity, enhancement of reserve system and mechanisms, and stepped‑up monitoring of oil supply and demand.
-
----
-
-### 2026-08-17 16:09:13  #MKT News
-
-Iran will host a meeting of Caspian littoral states, Iranian foreign ministry spokesman Baghaei said.
-
----
-
-### 2026-08-17 16:09:02  #市場 #焦點
-
-【港股收盤：恒生指數漲1.339%，恒生科技指數漲1.581%】商湯-W漲8.897%，華虹宏力漲7.527%，東方海外國際漲7.292%，中芯國際漲6.215%，老鋪黃金漲5.636%，零跑汽車漲4.992%，吉利汽車漲4.770%。
-
----
-
-### 2026-08-17 16:08:19  #行業 #其他 #焦點
-
-【兩部門：研究完善成品油消費稅制度 完善成品油定價機制】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》。其中提出，推動上游供氣主體多元化。促進城鎮燃氣企業整合重組，規範化經營，落實好天然氣上下游價格聯動機制。規範供氣企業行為，更好發揮天然氣合同基礎性作用，完善儲氣調峰市場機制。加強民生用氣保障。研究完善成品油消費稅制度。完善成品油定價機制。定期校核跨省天然氣管道運輸價格。
-
----
-
-### 2026-08-17 16:07:56  #MKT News #Commodities #Energy
-
-【NDRC, NEA back provincial pipelines joining national trunk network】The National Development and Reform Commission and National Energy Administration issued the oil and natural gas 15th Five‑Year Plan, assigning State Pipeline Group primary responsibility for trunk‑line investment and construction while permitting private capital in non‑strategic pipelines and oil/gas storage. The plan requires all planned gas storage and LNG receiving terminals be connected to the national trunk network, signals active support for provincial energy plans’ pipelines to tie into the national trunk, seeks to compress pipeline transport tiers and foster market‑based integration of provincial networks, and allows direct trunk‑line supply to large users where conditions permit. It also calls for a unified nationwide pipeline operation and dispatch mechanism, exploration of market‑based gas balancing, and stronger fair‑access regulation to open pipeline facilities to eligible market participants.
-
----
-
-### 2026-08-17 16:07:55  #公司
-
-【五洲醫療：股東鄒愛英部分股份解除質押】五洲醫療公告稱，公司控股股東、實控人一致行動人鄒愛英於2026年8月14日完成152萬股股份解除質押手續，該部分股份佔其所持股份比例37.25%，佔公司總股本比例2.24%。截至公告披露日，鄒愛英持股408萬股，持股比例6.00%，剩餘質押股份190萬股，佔其所持股份比例46.57%，佔公司總股本比例2.79%。鄒愛英資信狀況良好，本次解押不存在違約情況，平倉風險較低，不會對公司生產經營、治理產生不利影響。
-
----
-
-### 2026-08-17 16:07:50  #公司
-
-【三星電氣：子公司預中標南方電網約2.05億元配網裝置招標專案】三星電氣公告稱，公司下屬全資子公司寧波奧克斯智慧科技股份有限公司在南方電網公司2026年配網裝置第一批框架招標專案中被推薦為中標候選人，預計中標金額約為2.05億元。目前公司尚未收到正式中標通知書，合同履行相關事項存在不確定性，敬請投資者注意投資風險。
-
----
-
-### 2026-08-17 16:07:46  #公司
-
-【中糧科工：連續十二月累計訴訟仲裁涉案金額2.41億元】中糧科工公告稱，截至公告披露日，公司及控股子公司連續十二個月內累計訴訟、仲裁案件涉案金額合計2.41億元，佔公司截至2025年12月31日經審計淨資產的10.46%。其中作為原告/申請人涉及涉案金額1.08億元，佔總金額44.84%；作為被告/被申請人/第三人涉及涉案金額1.33億元，佔總金額55.16%。不存在單項涉案金額超1000萬元且佔最近一期經審計淨資產絕對值10%以上的重大訴訟、仲裁事項，亦無其他應披露未披露的訴訟仲裁事項。部分案件尚未開庭或結案，對公司本期利潤或期後利潤的影響存在不確定性。
-
----
-
-### 2026-08-17 16:07:43  #公司
-
-【歌爾股份：2026年度第一期超短期融資券發行完成】歌爾股份公告稱，公司2026年度第一期超短期融資券實際發行總額10.00億元，發行利率1.44%，期限270日，募集資金已於2026年8月14日到賬。本次發行是在交易商協會註冊的不超過30.00億元超短期融資券額度內開展，此前該註冊額度下發行的25歌爾股份SCP001（科創債）10.00億元已完成兌付。
-
----
-
-### 2026-08-17 16:07:31  #MKT News #Market Regions #Greater China #Commodities #Energy
-
-【NDRC, NEA push R&D on high‑pressure pure‑hydrogen pipeline materials and safe transport】The National Development and Reform Commission and National Energy Administration issued the "15th Five-Year Plan for Petroleum and Natural Gas Development", directing technology R&D across infrastructure and end‑use. Infrastructure priorities include intelligent pipeline construction and inspection, pipeline-network simulation and operational optimization, and smart design/control and digital-twin tech for pipelines and stations to accelerate industry digitalization. The plan mandates R&D on high‑pressure pure‑hydrogen pipeline materials and safe transport, large‑scale hydrogen blending and repurposing of pipelines for hydrogen, aquifer gas storage and deep underground hydrogen storage, multi‑medium transport (methanol, liquid ammonia) and CCS/CCUS. End‑use priorities include accelerating domestic heavy gas-turbine production, improving in-service gas-turbine maintenance technology, developing high‑efficiency low‑emission vehicle and marine gas engines and high-end gas wall‑hung boilers for localization, and researching optimized, green low‑carbon refinery–petrochemical integration.
-
----
-
-### 2026-08-17 16:06:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【NDRC, NEA push ultra‑deep and deepwater tech in China 15th Five‑Year oil and gas plan】China's National Development and Reform Commission and National Energy Administration issued the petroleum and natural gas development 15th Five‑Year Plan. The plan targets breakthroughs in ultra‑deep hydrocarbon generation and accumulation mechanisms and high‑precision geomechanical modelling, and core exploration and development technologies for ultra‑deep carbonate and clastic reservoirs. It mandates development of major equipment including 15,000m‑class smart drilling rigs, intelligent managed‑pressure drilling systems and logging tools upgraded for ultra‑high‑temperature, ultra‑high‑pressure wells to enable onshore exploration and production at 10,000m depths. For deepwater fields the plan calls for breakthroughs in deepwater drilling, intelligent completions and testing and safe, efficient field development, and targets development of 3,000m‑class deepwater marine node acquisition systems, 3,000m deepwater blowout preventers with multi‑variable composite control systems, and 1,500m full‑electric subsea control system equipment.
-
----
-
-### 2026-08-17 16:06:43  #MKT News
-
-BAGHAEI, Iran's foreign ministry spokesman, said with regret that the United States has repeatedly reneged on its commitments and, as in the earlier Oman matter, has undermined Pakistan's role as mediator.
-
----
-
-### 2026-08-17 16:06:36  #其他
-
-【支付寶釋出國內首個智慧體商業底座】8月17日，支付寶方面透露，旗下超級服務智慧體“阿寶”已完成萬餘項服務AI化接入，服務跨端已支援5大手機品牌、16家主流車企；同時釋出首個全棧智慧體商業底座及多智慧體跨端互聯AHA協議體系，聯合千問、華為、OPPO、比亞迪、吉利等20餘家企業共建智慧體互聯生態。
-
----
-
-### 2026-08-17 16:06:19  #其他
-
-【《石油天然氣發展“十五五”規劃》：鼓勵社會資本加強商業儲備設施投資運營 進一步增加儲備規模】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，建成政府儲備、企業社會責任儲備和企業生產經營庫存有機結合、互為補充的大國石油儲備體系，風險抵禦和安全保障能力大幅提升。持續強化政府石油儲備建設，完善企業社會責任儲備體系，企業生產經營庫存保持合理水平。鼓勵社會資本加強商業儲備設施投資運營，進一步增加儲備規模。健全石油儲備體制機制。加強石油供需情況監測。
-
----
-
-### 2026-08-17 16:06:18  #MKT News #Commodities #Energy #Market Regions #Greater China #WTI #Impact bearish #Brent
-
-【NDRC, NEA to study commercialization of carbon‑neutral tech and advance underground energy storage industry】The NDRC and NEA in the Petroleum and Natural Gas Development ’15th Five‑Year Plan’ call for CCUS scale industrialization and regional CCUS clusters, coordinating increased oil output with carbon reduction. The plan backs pilot low‑carbon transitions for oil‑and‑gas hubs such as Dongying and Yulin and seeks further market‑oriented, industrialized deployment of carbon‑neutral technologies. It also directs development of new underground energy storage—using depleted reservoirs, salt caverns and pipelines—and exploration of compressed air energy storage, to pair with nearby renewable plants for capacity support and frequency/peak‑shaving services, improving regional system flexibility and stability.
-
----
-
-### 2026-08-17 16:06:11  #MKT News
-
-Iran's Foreign Ministry spokesman BAGHAEI said Iran and Pakistan, as neighboring countries, continue bilateral contacts. He said Pakistan is seeking to use its capabilities to mediate between Iran and the US.
-
----
-
-### 2026-08-17 16:05:57  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【NDRC, NEA issue 15th Five‑Year oil and gas plan; maintain capex intensity to back new capacity】The National Development and Reform Commission and the National Energy Administration issued the Fifteenth Five‑Year Plan for oil and gas development, directing sustained development investment intensity to support new capacity and accelerate scale‑efficient exploitation of deep and ultra‑deep oil and gas. The plan prioritises breakthroughs in unconventional resources, speeding reserve mobilisation and development to achieve scale efficiencies in shale oil, shale gas and deep coalbed methane. It mandates a marine oil and gas enhancement programme to lift marine output‑equivalent to the 100‑million‑tonne level, an old‑field stabilisation programme to sustain long‑term production at mature fields such as Daqing and Shengli, and accelerated commissioning and production at new fields including Bayannur and Jilantai.
-
----
-
-### 2026-08-17 16:05:50  #MKT News
-
-Iran Foreign Ministry spokesman Baghaei said Iran will expand economic and commercial ties with Afghanistan.
-
----
-
-### 2026-08-17 16:05:38  #MKT News
-
-Iran Foreign Ministry spokesman BAGHAEI said Iran will not forget the crimes committed by the aggressors in Minab, Lamerd and Qeshm Island.
-
----
-
-### 2026-08-17 16:05:25  #MKT News #Important #Commodities #Energy
-
-【NDRC, NEA set 2030 oil and gas targets: 440 mln t o.e. supply, 20,000 km added trunk pipeline】China’s National Development and Reform Commission and National Energy Administration issued the oil and gas development 15th Five-Year Plan, targeting by 2030 domestic oil and gas supply of 440 mln tonnes of oil equivalent; addition of 20,000 km of long-distance trunk pipeline to bring the national network to 220,000 km; gas storage capacity to exceed 13% of national consumption; LNG receiving capacity of 200 mln t/yr; onshore pipeline import capacity of 114 bcm/yr; and CCS/CCUS annual CO2 injection capacity of 10 mln tonnes.
-
----
-
-### 2026-08-17 16:05:19  #觀點
-
-【摩根士丹利：沙特股市持股改革視窗期正在收窄】摩根士丹利表示，隨著沙特資本市場管理局新任主席就任，該國擬放開外資持股上限的規則改革再度成為市場焦點。策略師馬修・阮在週一釋出的報告中指出，今年落地外資持股上限（FOL）改革的視窗期正在不斷收窄。若要讓 MSCI 在 11 月指數評估中納入外資持股上限調整的影響，相關政策必須在對應價格截止日之前生效，該截止日可能落在 10 月最後 10 個交易日中的任意一天。“即便政策如期生效，指數編制機構仍有可能推遲或分階段實施調整。”該行測算，若外資持股上限部分放寬至 75%，沙特股市將迎來 43 億美元被動資金流入；若完全取消該限制，則將流入 74 億美元被動資金。
-
----
-
-### 2026-08-17 16:05:16  #其他
-
-【千問辦公開源MyContext，為Agent打造全新上下文基礎設施】千問辦公於近日開源了全新的上下文基礎設施“MyContext”，它可以把海量異構的個人工作資料加工成Agent易理解的專屬工作檔案，讓Agent真正讀懂使用者和真實業務工作流，並最終在決策和執行等環節實現人機協同，提升Agent在工作場景下的表現。（新浪科技）
-
----
-
-### 2026-08-17 16:05:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silicon Falls by 1.43% — Top commodity losers are Silicon (-1.43%) and Iron Ore CNY (-0.77%). Gains are led by Silver (1.42%), Lithium Carbonate (0.99%), Copper (0.92%) and Gold (0.57%).
-
----
-
-### 2026-08-17 16:05:03  #其他
-
-【《石油天然氣發展“十五五”規劃》：設立鄂爾多斯、渤海灣、川渝、塔里木、松遼、準噶爾、柴達木盆地等油氣戰略保障基地】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，設立鄂爾多斯、渤海灣、川渝、塔里木、松遼、準噶爾、柴達木盆地等油氣戰略保障基地，支撐完成國內油氣產量目標任務。
-
----
-
-### 2026-08-17 16:04:30  #其他
-
-【《石油天然氣發展“十五五”規劃》：加快深層超深層油氣規模效益開發】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，保持開發投資強度支撐新建產能。加快深層超深層油氣規模效益開發。推動非常規油氣突破，加快儲量動用和開發建產，實現頁岩油、頁岩氣和深層煤層氣的規模效益開發。實施海洋油氣再提升工程，推動海洋油氣產量當量達億噸級規模。實施老油氣田壓艙石工程，推動大慶、勝利等老油田長期穩產。做好新區效益建產，推動巴彥、吉蘭泰等新油田加快上產。
-
----
-
-### 2026-08-17 16:03:59  #公司
-
-【華陽集團：光模組、高速聯結器等零部件業務已規模化生產】華陽集團8月17日在互動平臺表示，公司光模組、高速聯結器等零部件業務已規模化生產，且持續高速增長；正在不斷拓展資料中心伺服器機櫃、散熱等零部件業務，部分專案已量產。
-
----
-
-### 2026-08-17 16:03:45  #宏觀 #其他 #焦點
-
-【國家統計局：居民消費重點從“買商品”到“享服務、重體驗”轉變】8月17日，國家統計局新聞發言人、國民經濟綜合統計司副司長王冠華在國新辦新聞釋出會上表示，7月份颱風、暴雨、高溫等極端天氣頻發，給部分地區的線下消費造成了一些影響。但總的來看，服務消費增長仍然表現出了較強的穩定性，增速持續快於商品零售額，1—7月份服務零售額增長5.0%，快於商品零售額3.9個百分點，居民消費重點從“買商品”到“享服務、重體驗”轉變。
-
----
-
-### 2026-08-17 16:03:31  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks Little Changed to Start the Week — The CAC 40 traded little changed around 8,641 on Monday, following previous week's decline as investors further pared expectations of a near-term Federal Reserve rate hike. Soft US economic data reinforced the view that the Fed may keep interest rates unchanged in September, with markets now pricing in roughly a 67% probability of a pause, up from less than 50% a month ago. In Europe, attention is turning to the release of the ECB’s latest Monetary Policy Meeting Accounts later this week after policymakers left key interest rates unchanged in July. Meanwhile, investors largely brushed aside renewed geopolitical tensions in the Middle East, where Israel launched fresh strikes on Lebanon while President Donald Trump prepared additional sanctions against Iran. On the corporate front, STMicroelectronics surged 3.6%, tracking strength in global technology stocks. In contrast, Danone (-1.3%), Saint-Gobain (-1.1%), and Dassault Systèmes (-1.0%) ranked among the worst laggards.
-
----
-
-### 2026-08-17 16:03:20  #行業 #其他 #焦點
-
-【國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》】2030年，國內油氣供應量4.4億噸油當量，新增油氣長輸管道2萬公里，全國油氣長輸管網規模達22萬公里，天然氣儲備規模持續增長，佔全國消費比重超過13％，液化天然氣接收站接卸能力2億噸/年，陸上管道進口天然氣能力1140億立方米/年，二氧化碳捕集與封存/二氧化碳捕集利用與封存（CCS/CCUS）年注入二氧化碳達1000萬噸。
 
 ---

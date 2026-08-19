@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-19 18:34:25_
-_本檔包含 3020 則快訊，約 616231 字_
+_更新時間：2026-08-19 18:50:57_
+_本檔包含 2997 則快訊，約 616000 字_
+
+---
+
+### 2026-08-17 16:09:13  #MKT News
+
+Iran will host a meeting of Caspian littoral states, Iranian foreign ministry spokesman Baghaei said.
+
+---
+
+### 2026-08-17 16:09:02  #市場 #焦點
+
+【港股收盤：恒生指數漲1.339%，恒生科技指數漲1.581%】商湯-W漲8.897%，華虹宏力漲7.527%，東方海外國際漲7.292%，中芯國際漲6.215%，老鋪黃金漲5.636%，零跑汽車漲4.992%，吉利汽車漲4.770%。
+
+---
+
+### 2026-08-17 16:08:19  #行業 #其他 #焦點
+
+【兩部門：研究完善成品油消費稅制度 完善成品油定價機制】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》。其中提出，推動上游供氣主體多元化。促進城鎮燃氣企業整合重組，規範化經營，落實好天然氣上下游價格聯動機制。規範供氣企業行為，更好發揮天然氣合同基礎性作用，完善儲氣調峰市場機制。加強民生用氣保障。研究完善成品油消費稅制度。完善成品油定價機制。定期校核跨省天然氣管道運輸價格。
+
+---
+
+### 2026-08-17 16:07:56  #MKT News #Commodities #Energy
+
+【NDRC, NEA back provincial pipelines joining national trunk network】The National Development and Reform Commission and National Energy Administration issued the oil and natural gas 15th Five‑Year Plan, assigning State Pipeline Group primary responsibility for trunk‑line investment and construction while permitting private capital in non‑strategic pipelines and oil/gas storage. The plan requires all planned gas storage and LNG receiving terminals be connected to the national trunk network, signals active support for provincial energy plans’ pipelines to tie into the national trunk, seeks to compress pipeline transport tiers and foster market‑based integration of provincial networks, and allows direct trunk‑line supply to large users where conditions permit. It also calls for a unified nationwide pipeline operation and dispatch mechanism, exploration of market‑based gas balancing, and stronger fair‑access regulation to open pipeline facilities to eligible market participants.
+
+---
+
+### 2026-08-17 16:07:55  #公司
+
+【五洲醫療：股東鄒愛英部分股份解除質押】五洲醫療公告稱，公司控股股東、實控人一致行動人鄒愛英於2026年8月14日完成152萬股股份解除質押手續，該部分股份佔其所持股份比例37.25%，佔公司總股本比例2.24%。截至公告披露日，鄒愛英持股408萬股，持股比例6.00%，剩餘質押股份190萬股，佔其所持股份比例46.57%，佔公司總股本比例2.79%。鄒愛英資信狀況良好，本次解押不存在違約情況，平倉風險較低，不會對公司生產經營、治理產生不利影響。
+
+---
+
+### 2026-08-17 16:07:50  #公司
+
+【三星電氣：子公司預中標南方電網約2.05億元配網裝置招標專案】三星電氣公告稱，公司下屬全資子公司寧波奧克斯智慧科技股份有限公司在南方電網公司2026年配網裝置第一批框架招標專案中被推薦為中標候選人，預計中標金額約為2.05億元。目前公司尚未收到正式中標通知書，合同履行相關事項存在不確定性，敬請投資者注意投資風險。
+
+---
+
+### 2026-08-17 16:07:46  #公司
+
+【中糧科工：連續十二月累計訴訟仲裁涉案金額2.41億元】中糧科工公告稱，截至公告披露日，公司及控股子公司連續十二個月內累計訴訟、仲裁案件涉案金額合計2.41億元，佔公司截至2025年12月31日經審計淨資產的10.46%。其中作為原告/申請人涉及涉案金額1.08億元，佔總金額44.84%；作為被告/被申請人/第三人涉及涉案金額1.33億元，佔總金額55.16%。不存在單項涉案金額超1000萬元且佔最近一期經審計淨資產絕對值10%以上的重大訴訟、仲裁事項，亦無其他應披露未披露的訴訟仲裁事項。部分案件尚未開庭或結案，對公司本期利潤或期後利潤的影響存在不確定性。
+
+---
+
+### 2026-08-17 16:07:43  #公司
+
+【歌爾股份：2026年度第一期超短期融資券發行完成】歌爾股份公告稱，公司2026年度第一期超短期融資券實際發行總額10.00億元，發行利率1.44%，期限270日，募集資金已於2026年8月14日到賬。本次發行是在交易商協會註冊的不超過30.00億元超短期融資券額度內開展，此前該註冊額度下發行的25歌爾股份SCP001（科創債）10.00億元已完成兌付。
+
+---
+
+### 2026-08-17 16:07:31  #MKT News #Market Regions #Greater China #Commodities #Energy
+
+【NDRC, NEA push R&D on high‑pressure pure‑hydrogen pipeline materials and safe transport】The National Development and Reform Commission and National Energy Administration issued the "15th Five-Year Plan for Petroleum and Natural Gas Development", directing technology R&D across infrastructure and end‑use. Infrastructure priorities include intelligent pipeline construction and inspection, pipeline-network simulation and operational optimization, and smart design/control and digital-twin tech for pipelines and stations to accelerate industry digitalization. The plan mandates R&D on high‑pressure pure‑hydrogen pipeline materials and safe transport, large‑scale hydrogen blending and repurposing of pipelines for hydrogen, aquifer gas storage and deep underground hydrogen storage, multi‑medium transport (methanol, liquid ammonia) and CCS/CCUS. End‑use priorities include accelerating domestic heavy gas-turbine production, improving in-service gas-turbine maintenance technology, developing high‑efficiency low‑emission vehicle and marine gas engines and high-end gas wall‑hung boilers for localization, and researching optimized, green low‑carbon refinery–petrochemical integration.
+
+---
+
+### 2026-08-17 16:06:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【NDRC, NEA push ultra‑deep and deepwater tech in China 15th Five‑Year oil and gas plan】China's National Development and Reform Commission and National Energy Administration issued the petroleum and natural gas development 15th Five‑Year Plan. The plan targets breakthroughs in ultra‑deep hydrocarbon generation and accumulation mechanisms and high‑precision geomechanical modelling, and core exploration and development technologies for ultra‑deep carbonate and clastic reservoirs. It mandates development of major equipment including 15,000m‑class smart drilling rigs, intelligent managed‑pressure drilling systems and logging tools upgraded for ultra‑high‑temperature, ultra‑high‑pressure wells to enable onshore exploration and production at 10,000m depths. For deepwater fields the plan calls for breakthroughs in deepwater drilling, intelligent completions and testing and safe, efficient field development, and targets development of 3,000m‑class deepwater marine node acquisition systems, 3,000m deepwater blowout preventers with multi‑variable composite control systems, and 1,500m full‑electric subsea control system equipment.
+
+---
+
+### 2026-08-17 16:06:43  #MKT News
+
+BAGHAEI, Iran's foreign ministry spokesman, said with regret that the United States has repeatedly reneged on its commitments and, as in the earlier Oman matter, has undermined Pakistan's role as mediator.
+
+---
+
+### 2026-08-17 16:06:36  #其他
+
+【支付寶釋出國內首個智慧體商業底座】8月17日，支付寶方面透露，旗下超級服務智慧體“阿寶”已完成萬餘項服務AI化接入，服務跨端已支援5大手機品牌、16家主流車企；同時釋出首個全棧智慧體商業底座及多智慧體跨端互聯AHA協議體系，聯合千問、華為、OPPO、比亞迪、吉利等20餘家企業共建智慧體互聯生態。
+
+---
+
+### 2026-08-17 16:06:19  #其他
+
+【《石油天然氣發展“十五五”規劃》：鼓勵社會資本加強商業儲備設施投資運營 進一步增加儲備規模】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，建成政府儲備、企業社會責任儲備和企業生產經營庫存有機結合、互為補充的大國石油儲備體系，風險抵禦和安全保障能力大幅提升。持續強化政府石油儲備建設，完善企業社會責任儲備體系，企業生產經營庫存保持合理水平。鼓勵社會資本加強商業儲備設施投資運營，進一步增加儲備規模。健全石油儲備體制機制。加強石油供需情況監測。
+
+---
+
+### 2026-08-17 16:06:18  #MKT News #Commodities #Energy #Market Regions #Greater China #WTI #Impact bearish #Brent
+
+【NDRC, NEA to study commercialization of carbon‑neutral tech and advance underground energy storage industry】The NDRC and NEA in the Petroleum and Natural Gas Development ’15th Five‑Year Plan’ call for CCUS scale industrialization and regional CCUS clusters, coordinating increased oil output with carbon reduction. The plan backs pilot low‑carbon transitions for oil‑and‑gas hubs such as Dongying and Yulin and seeks further market‑oriented, industrialized deployment of carbon‑neutral technologies. It also directs development of new underground energy storage—using depleted reservoirs, salt caverns and pipelines—and exploration of compressed air energy storage, to pair with nearby renewable plants for capacity support and frequency/peak‑shaving services, improving regional system flexibility and stability.
+
+---
+
+### 2026-08-17 16:06:11  #MKT News
+
+Iran's Foreign Ministry spokesman BAGHAEI said Iran and Pakistan, as neighboring countries, continue bilateral contacts. He said Pakistan is seeking to use its capabilities to mediate between Iran and the US.
+
+---
+
+### 2026-08-17 16:05:57  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【NDRC, NEA issue 15th Five‑Year oil and gas plan; maintain capex intensity to back new capacity】The National Development and Reform Commission and the National Energy Administration issued the Fifteenth Five‑Year Plan for oil and gas development, directing sustained development investment intensity to support new capacity and accelerate scale‑efficient exploitation of deep and ultra‑deep oil and gas. The plan prioritises breakthroughs in unconventional resources, speeding reserve mobilisation and development to achieve scale efficiencies in shale oil, shale gas and deep coalbed methane. It mandates a marine oil and gas enhancement programme to lift marine output‑equivalent to the 100‑million‑tonne level, an old‑field stabilisation programme to sustain long‑term production at mature fields such as Daqing and Shengli, and accelerated commissioning and production at new fields including Bayannur and Jilantai.
+
+---
+
+### 2026-08-17 16:05:50  #MKT News
+
+Iran Foreign Ministry spokesman Baghaei said Iran will expand economic and commercial ties with Afghanistan.
+
+---
+
+### 2026-08-17 16:05:38  #MKT News
+
+Iran Foreign Ministry spokesman BAGHAEI said Iran will not forget the crimes committed by the aggressors in Minab, Lamerd and Qeshm Island.
+
+---
+
+### 2026-08-17 16:05:25  #MKT News #Important #Commodities #Energy
+
+【NDRC, NEA set 2030 oil and gas targets: 440 mln t o.e. supply, 20,000 km added trunk pipeline】China’s National Development and Reform Commission and National Energy Administration issued the oil and gas development 15th Five-Year Plan, targeting by 2030 domestic oil and gas supply of 440 mln tonnes of oil equivalent; addition of 20,000 km of long-distance trunk pipeline to bring the national network to 220,000 km; gas storage capacity to exceed 13% of national consumption; LNG receiving capacity of 200 mln t/yr; onshore pipeline import capacity of 114 bcm/yr; and CCS/CCUS annual CO2 injection capacity of 10 mln tonnes.
+
+---
+
+### 2026-08-17 16:05:19  #觀點
+
+【摩根士丹利：沙特股市持股改革視窗期正在收窄】摩根士丹利表示，隨著沙特資本市場管理局新任主席就任，該國擬放開外資持股上限的規則改革再度成為市場焦點。策略師馬修・阮在週一釋出的報告中指出，今年落地外資持股上限（FOL）改革的視窗期正在不斷收窄。若要讓 MSCI 在 11 月指數評估中納入外資持股上限調整的影響，相關政策必須在對應價格截止日之前生效，該截止日可能落在 10 月最後 10 個交易日中的任意一天。“即便政策如期生效，指數編制機構仍有可能推遲或分階段實施調整。”該行測算，若外資持股上限部分放寬至 75%，沙特股市將迎來 43 億美元被動資金流入；若完全取消該限制，則將流入 74 億美元被動資金。
+
+---
+
+### 2026-08-17 16:05:16  #其他
+
+【千問辦公開源MyContext，為Agent打造全新上下文基礎設施】千問辦公於近日開源了全新的上下文基礎設施“MyContext”，它可以把海量異構的個人工作資料加工成Agent易理解的專屬工作檔案，讓Agent真正讀懂使用者和真實業務工作流，並最終在決策和執行等環節實現人機協同，提升Agent在工作場景下的表現。（新浪科技）
+
+---
+
+### 2026-08-17 16:05:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silicon Falls by 1.43% — Top commodity losers are Silicon (-1.43%) and Iron Ore CNY (-0.77%). Gains are led by Silver (1.42%), Lithium Carbonate (0.99%), Copper (0.92%) and Gold (0.57%).
+
+---
+
+### 2026-08-17 16:05:03  #其他
+
+【《石油天然氣發展“十五五”規劃》：設立鄂爾多斯、渤海灣、川渝、塔里木、松遼、準噶爾、柴達木盆地等油氣戰略保障基地】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，設立鄂爾多斯、渤海灣、川渝、塔里木、松遼、準噶爾、柴達木盆地等油氣戰略保障基地，支撐完成國內油氣產量目標任務。
+
+---
+
+### 2026-08-17 16:04:30  #其他
+
+【《石油天然氣發展“十五五”規劃》：加快深層超深層油氣規模效益開發】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，保持開發投資強度支撐新建產能。加快深層超深層油氣規模效益開發。推動非常規油氣突破，加快儲量動用和開發建產，實現頁岩油、頁岩氣和深層煤層氣的規模效益開發。實施海洋油氣再提升工程，推動海洋油氣產量當量達億噸級規模。實施老油氣田壓艙石工程，推動大慶、勝利等老油田長期穩產。做好新區效益建產，推動巴彥、吉蘭泰等新油田加快上產。
+
+---
+
+### 2026-08-17 16:03:59  #公司
+
+【華陽集團：光模組、高速聯結器等零部件業務已規模化生產】華陽集團8月17日在互動平臺表示，公司光模組、高速聯結器等零部件業務已規模化生產，且持續高速增長；正在不斷拓展資料中心伺服器機櫃、散熱等零部件業務，部分專案已量產。
+
+---
+
+### 2026-08-17 16:03:45  #宏觀 #其他 #焦點
+
+【國家統計局：居民消費重點從“買商品”到“享服務、重體驗”轉變】8月17日，國家統計局新聞發言人、國民經濟綜合統計司副司長王冠華在國新辦新聞釋出會上表示，7月份颱風、暴雨、高溫等極端天氣頻發，給部分地區的線下消費造成了一些影響。但總的來看，服務消費增長仍然表現出了較強的穩定性，增速持續快於商品零售額，1—7月份服務零售額增長5.0%，快於商品零售額3.9個百分點，居民消費重點從“買商品”到“享服務、重體驗”轉變。
+
+---
+
+### 2026-08-17 16:03:31  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks Little Changed to Start the Week — The CAC 40 traded little changed around 8,641 on Monday, following previous week's decline as investors further pared expectations of a near-term Federal Reserve rate hike. Soft US economic data reinforced the view that the Fed may keep interest rates unchanged in September, with markets now pricing in roughly a 67% probability of a pause, up from less than 50% a month ago. In Europe, attention is turning to the release of the ECB’s latest Monetary Policy Meeting Accounts later this week after policymakers left key interest rates unchanged in July. Meanwhile, investors largely brushed aside renewed geopolitical tensions in the Middle East, where Israel launched fresh strikes on Lebanon while President Donald Trump prepared additional sanctions against Iran. On the corporate front, STMicroelectronics surged 3.6%, tracking strength in global technology stocks. In contrast, Danone (-1.3%), Saint-Gobain (-1.1%), and Dassault Systèmes (-1.0%) ranked among the worst laggards.
+
+---
+
+### 2026-08-17 16:03:20  #行業 #其他 #焦點
+
+【國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》】2030年，國內油氣供應量4.4億噸油當量，新增油氣長輸管道2萬公里，全國油氣長輸管網規模達22萬公里，天然氣儲備規模持續增長，佔全國消費比重超過13％，液化天然氣接收站接卸能力2億噸/年，陸上管道進口天然氣能力1140億立方米/年，二氧化碳捕集與封存/二氧化碳捕集利用與封存（CCS/CCUS）年注入二氧化碳達1000萬噸。
 
 ---
 
@@ -17942,311 +18110,5 @@ TSX Holds Near Record High — The S&P/TSX Composite Index was flat at the 36,80
 ### 2026-08-14 22:12:15  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
 
 【SK Hynix 1H device investment up 72.7% YoY, ramps AI storage capacity】On a consolidated basis SK Hynix spent 18.3288 tln won on purchases of tangible assets in 1H, up 72.7% YoY from 10.6157 tln won, according to its semiannual report, as it accelerates capacity expansion to meet rising demand for AI-focused HBM, server DRAM and enterprise SSDs. R&D spending rose 98.4% YoY to 6.0428 tln won in 1H, of which 5.8163 tln won was allocated to ongoing development costs.
-
----
-
-### 2026-08-14 22:11:55  #市場 #國際
-
-【美國股市上漲，強勁的企業盈利和利好資料推動漲勢】本週，美國股市延續漲勢，創下歷史新高。此前，一系列資料緩解了市場對加息的預期，強勁的盈利表現也提振了人們對人工智慧交易的信心。截至紐約時間上午10點，標普500指數上漲0.1%，此前該指數週四收於歷史新高。以科技股為主的納斯達克100指數上漲0.2%。兩大股指均有望連續第三週上漲，創下自5月以來的最長連漲紀錄。布倫特原油價格在隔夜短暫上漲2%後，目前約為每桶87美元，此前美國宣佈了徵稅計劃。 嚴厲的經濟措施 對伊朗的談判在過去一週陷入僵局，油價居高不下。
-
----
-
-### 2026-08-14 22:11:16  #其他
-
-據貓眼專業版資料，電影 《去你的島》 上映8天， 總票房破9000萬。
-
----
-
-### 2026-08-14 22:10:11  #國際
-
-【特朗普政府請求最高法院放行白宮宴會廳專案】特朗普政府於週五向美國最高法院提出申請，希望准許推進特朗普的白宮宴會廳建設，該專案將拆除並取代原有東翼。 這項規劃建築面積達9萬平方英尺的宴會廳專案，自去年10月總統拆除東翼起就陷入訴訟糾紛，拆除東翼是特朗普大規模改造白宮園區計劃的一部分。儘管法院對該專案合法性存疑，但此前仍允許特朗普繼續施工，近幾個月宴會廳主體工程持續推進。 此前上訴法院於8月7日作出裁定，認為特朗普在未獲得國會批准的情況下推進這項私人出資專案，極有可能越權。
-
----
-
-### 2026-08-14 22:09:32  #MKT News #CSCO.O #Impact bearish
-
-HSBC cut Cisco (CSCO.O) price target to $120 from $137 and downgraded its rating to Hold from Buy.
-
----
-
-### 2026-08-14 22:08:59  #公司 #市場
-
-【近岸蛋白：公司股價持續上漲積累了較多的獲利調整風險】近岸蛋白8月14日公告，公司股票於8月12日、8月13日、8月14日連續3個交易日內日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。近期，公司股價累計漲幅超過大部分同行業公司股價漲幅且顯著高於科創綜指、科創50、上證綜指等相關指數漲幅，公司股價持續上漲積累了較多的獲利調整風險。特別提醒廣大投資者注意二級市場交易風險，理性決策，審慎投資。
-
----
-
-### 2026-08-14 22:08:27  #市場
-
-【美股儲存板塊持續走強 閃迪漲超9％】希捷科技漲7.2％，西部資料漲4.5％，美光科技、sk海力士均漲超3.5％。
-
----
-
-### 2026-08-14 22:07:35  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish
-
-【US consumer sentiment down ~8% in August; Republicans hit hardest】University of Michigan consumer sentiment fell about 8% in August, ending a two-month improvement, survey director Joanne Hsu said. Views of personal finances deteriorated only slightly, but business-condition expectations plunged, with short-run expectations down 11% and long-run expectations down 17%. Declines were broad across political groups; Republicans posted the largest monthly drop and are now 19% below their level before the Iran conflict, at their weakest since the 2024 election. Weakness was concentrated among older, lower-income and non-college consumers, groups most exposed to inflation-driven purchasing-power losses. Only 8% of consumers expect their incomes to outpace inflation over the next year, down from 18% in December 2024. One-year inflation expectations rose to 4.3% in August from 4.2% in July, above the pre-conflict February reading of 3.4% and above all 2024 readings; long-run inflation expectations held at 3.3% for a third month, slightly above the 2024 range of 2.8–3.2%.
-
----
-
-### 2026-08-14 22:06:50  #Trading Economics #Economy #United States #Consumer Confidence #Importance 3
-
-US Consumer Sentiment Falls in August — The University of Michigan’s consumer sentiment index fell to 51 in early August 2026, down from 55.2 in July and below market expectations of 54.5, ending two consecutive months of improvement. Both major components weakened, with the current conditions index declining to 51.8 and the expectations measure falling to 50.6. The deterioration was broad-based across political and demographic groups, with particularly sharp declines among older, lower-income and less-educated consumers, who are more exposed to rising prices. Expectations for business conditions also worsened significantly, falling 11% over the next year and 17% over the longer term. Inflation concerns increased slightly, with year-ahead expectations rising to 4.3% from 4.2%, while the long-term outlook remained unchanged at 3.3%. Only 8% of consumers now expect their incomes to grow faster than inflation, down from 18% in December 2024.
-
----
-
-### 2026-08-14 22:06:49  #公司
-
-【山東高速集團與威海市政府簽署戰略合作協議】據山東高速集團訊息，8月14日，山東高速集團與威海市人民政府簽署戰略合作協議。山東高速集團董事長王其峰表示，下一步，山東高速集團將進一步發揮全產業鏈優勢，深化雙方在交通基礎設施建設、新能源開發、低空經濟、對外貿易、產融結合等領域合作。
-
----
-
-### 2026-08-14 22:06:40  #其他
-
-Rokos 旗下對沖基金著手鎖定客戶更長週期資金。
-
----
-
-### 2026-08-14 22:05:42  #其他
-
-【理想再自研晶片，仍採用資料流架構】從多個信源處獲悉，理想汽車正在探索自研雲端推理晶片，將採用與智駕晶片相同的資料流架構，專案還在早期階段。AI 資料中心普遍使用 GPU 完成模型訓練和推理，也有資料中心部署雲端推理晶片。一位晶片行業人士說，雲端推理晶片可以承接部分原本在 GPU 上執行的推理任務，例如智駕模型的資料處理、測試、模擬，以及大語言模型的請求處理。模型訓練中涉及引數更新的部分仍需訓練晶片。（晚點）
-
----
-
-### 2026-08-14 22:05:25  #Trading Economics #Economy #United States #Michigan Inflation Expectations #Importance 1
-
-US Year-Ahead Inflation Expectations Inch Higher — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, inched higher to 4.3% in August of 2026 from 4.2% in the previous month, according to a preliminary estimate. The result was mostly owed to the impact of higher energy prices as the war in Iran limited oil and fuel supply from the Middle East. Longer-run inflation expectations, measured by expectations of inflation in a five-year outlook, were at 3.3% for the third month.
-
----
-
-### 2026-08-14 22:03:37  #國際
-
-【俄外交部拒絕黑海停火提議：未收到正式方案，不接受僅給烏方喘息空間的折中措施】俄羅斯外交部發言人扎哈羅娃14日就土耳其提議在黑海實施停火一事作出回應。扎哈羅娃表示，俄方未透過官方渠道收到土耳其關於在黑海暫停軍事行動的具體正式提議，且當前沒有任何局勢改善的先決條件，因此俄方沒有理由採取只會讓烏克蘭政權獲得“喘息機會”的折中措施。
-
----
-
-### 2026-08-14 22:03:17  #公司
-
-【中控技術產品透過沙特國際電力和水務公司供應商資格審查】據中控技術訊息，近日，中控技術自主研發的DCS（集散控制系統）順利透過ACWA（沙特國際電力和水務公司）供應商資格審查，正式入圍其中國區域供應商體系。
-
----
-
-### 2026-08-14 22:02:20  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-U.S. consumer confidence index fell for the first time in three months.
-
----
-
-### 2026-08-14 22:01:57  #市場
-
-【強勢股追蹤 主力資金連續5日淨流入143股】資料寶統計，截至8月14日收盤，深滬北共143只個股連續5日或5日以上主力資金淨流入。中石科技連續12日主力資金淨流入，排名第一；博碩科技等連續11日主力資金淨流入，位列第二。從主力資金淨流入總規模來看，源傑科技主力資金淨流入金額最大，連續5天累計淨流入17.79億元，貴州茅臺緊隨其後，6天累計淨流入12.17億元。從主力資金淨流入佔成交額的比例來看，神奇製藥佔比排名居首，該股近5日上漲25.93%。
-
----
-
-### 2026-08-14 22:01:46  #公司
-
-【教師招聘面試成績被指篡改，海南樂東：未發現違規篡改分數、人為操控成績等情況】海南樂東黎族自治縣教育局8月14日釋出情況說明，近日，該局關注到網路平臺出現關於樂東縣2026年教師公開招聘面試成績存在篡改問題的相關言論，網上釋出資訊稱某考生面試當場簽字成績與公示成績不一致，質疑招聘工作公平性，認為考試存在內幕黑幕。對此，教育局高度重視，第一時間對該考場全部面試檔案、考官評分表、統分記錄、音影片資料進行逐一複核，現就有關情況說明如下：本次招聘面試全流程嚴格按照《海南省事業單位公開招聘工作人員面試工作規則》執行，考官均透過隨機抽籤產生，全程錄音錄影，計分、核分、監督崗位各司其職，所有檔案完整歸檔，未發現違規篡改分數、人為操控成績等情況。如各位考生對本人成績存有疑問，可在公示期內，按招聘公告規定渠道提交書面複核申請，教育局將依規開展成績複核。
-
----
-
-### 2026-08-14 22:01:10  #經濟數據 #美國
-
-密西根大學8月美國消費者5年通脹預期初值為3.3%。
-
----
-
-### 2026-08-14 22:00:23  #經濟數據 #美國
-
-美國8月一年期通脹率預期初值為4.3%，預估4.2%，前值4.2%。
-
----
-
-### 2026-08-14 22:00:20  #經濟數據 #美國
-
-美國8月密歇根大學消費者信心指數初值為51，預估為55，前值為55.2。
-
----
-
-### 2026-08-14 22:00:18  #資料 #國際
-
-美國6月商業庫存月率 0%，預期0.1%，前值由0.30%修正為0.4%。
-
----
-
-### 2026-08-14 22:00:17  #MKT News #Macro & Rates #US Economy
-
-US Aug initial 5-10y inflation expectations 3.3pct; consensus 3.3pct; prior 3.30pct.
-
----
-
-### 2026-08-14 22:00:15  #資料 #國際
-
-美國8月密歇根大學消費者信心指數初值 51，預期54.5，前值55.2。
-
----
-
-### 2026-08-14 22:00:15  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US preliminary one-year inflation expectations for August 4.3% vs 4.2% expected; prior 4.20%.
-
----
-
-### 2026-08-14 22:00:12  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-US preliminary Aug U. of Michigan consumer sentiment index 51, versus 54.5 expected and 55.2 prior.
-
----
-
-### 2026-08-14 22:00:10  #國際
-
-美國8月一年期通脹率預期初值 4.3%，預期4.2%，前值4.20%。
-
----
-
-### 2026-08-14 22:00:09  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
-
-US Aug University of Michigan preliminary current conditions index 51.8 vs estimate 55.0; prior 54.8.
-
----
-
-### 2026-08-14 22:00:08  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish
-
-U.S. University of Michigan preliminary August consumer expectations index 50.6, est. 55.2, prior 55.4.
-
----
-
-### 2026-08-14 22:00:08  #MKT News #Important #Macro & Rates #US Economy
-
-US June business inventories unchanged MoM at 0.0% vs 0.1% expected; May revised up from 0.3% to 0.4%.
-
----
-
-### 2026-08-14 22:00:01  #MKT News #Economic Calendar #Important
-
-United States | Expected Changes in Prices During the Next Five Years (Aug) | actual 3.3% | consensus 3.3% | previous 3.30%
-
----
-
-### 2026-08-14 22:00:01  #MKT News #Economic Calendar #Important
-
-United States | Expected Changes in Prices During the Next Year (Aug) | actual 4.3% | consensus 4.2% | previous 4.20%
-
----
-
-### 2026-08-14 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | University of Michigan Consumer Expectations Index Flash (Aug) | actual 50.6 | consensus 55.2 | previous 55.4
-
----
-
-### 2026-08-14 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | University of Michigan Current Conditions Index Flash (Aug) | actual 51.8 | consensus 55 | previous 54.8
-
----
-
-### 2026-08-14 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | University of Michigan Consumer Sentiment Index Flash (Aug) | actual 51 | consensus 54.5 | previous 55.2
-
----
-
-### 2026-08-14 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | Business Inventories (MoM) (Jun) | actual 0% | consensus 0.1% | previous 0.30%
-
----
-
-### 2026-08-14 21:59:40  #其他
-
-【法國野火九成火情由人為引發】法國內政部14日宣佈，自7月以來，全國已有474人因涉嫌蓄意或過失引發野火被捕，其中包括183名未成年人。 據官方初步統計，今年入夏以來，法國各地野火過火面積累計已達約12萬公頃。九成火情由人為引發。目前，西南部朗德省、西北部伊勒－維萊訥省等地的新發野火仍未撲滅。 入夏後接連來襲的熱浪也助長了野火的發生。當前法國正遭受新一輪極端高溫天氣，14日，本土96個省中有75個省釋出高溫橙色警報。 連續作業令法國消防力量不足的問題凸顯。本月13日，9個法國消防員工會聯合號召消防員罷工，要求法國政府解決消防資金不足、人手短缺、消防員職業健康缺乏保障等問題。（新華社）
-
----
-
-### 2026-08-14 21:58:43  #國際
-
-俄羅斯外交部長拉夫羅夫談俄羅斯的影子船隊： 歐盟很久以前就發明了這個概念。它未出現在任何法律檔案中。 他們實質上禁止了與俄羅斯能源資源的貿易，所有拒絕服從歐盟的船隻，無論其懸掛何種旗幟，都被宣佈為“影子船隊”的一部分。 他們實質上不僅允許自己攔截和檢查這些船隻，還允許扣押其貨物、出售貨物，並將所得款項轉給烏克蘭，以便其繼續加強其政權。
-
----
-
-### 2026-08-14 21:58:26  #MKT News #300750.SZ #Impact bullish
-
-【CATL named exclusive supplier to Australia’s largest operating battery storage project in NEM】CATL said Quinbrook’s Supernode energy storage Phase II has entered commercial operation and Phase III’s A$469m financing has closed. Phases I–II (520MW/1,858MWh) are now fully commercial; after Phase III the project’s total capacity will exceed 3GWh, making it the largest operating battery storage asset in Australia’s National Electricity Market (NEM). CATL is the project’s sole supplier; Phase III will exclusively deploy CATL’s Tianheng storage system and CATL and Quinbrook will jointly develop 8‑hour long-duration storage solutions. CATL has installed a unified standardized technical platform at the site to remove multi-phase equipment compatibility risks and support full-cycle safety and efficient operations.
-
----
-
-### 2026-08-14 21:58:03  #其他
-
-【嘉興升級釋出暴雨紅色預警】嘉興市氣象臺2026年08月14日21時40分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：目前秀洲區新塍鎮思古橋村站降雨已達60毫米以上，預計未來2小時秀洲區新塍鎮強降雨將持續，累計雨量將達到80-100毫米，請加強防範。
-
----
-
-### 2026-08-14 21:57:49  #市場
-
-英鎊兌美元上漲至三個月高點1.3561。
-
----
-
-### 2026-08-14 21:57:37  #MKT News #Important #GBPUSD #Impact bullish
-
-GBP/USD climbed to a three-month high of 1.3561.
-
----
-
-### 2026-08-14 21:57:14  #其他
-
-【整治修復海岸線207千米 北海區海洋生態保護修復公報釋出】8月14日，自然資源部北海局正式釋出《2025年北海區海洋生態保護修復公報》。公報顯示，“十四五”期間，北海區累計完成整治修復海岸線207千米、濱海溼地超2.7萬公頃。據介紹，公報由北海局會同三省一市及兩個計劃單列市自然資源（海洋）主管部門聯合編制。（央視新聞）
-
----
-
-### 2026-08-14 21:56:05  #MKT News
-
-The US Consumer Financial Protection Bureau (CFPB) will stop publishing unverified consumer complaint narratives.
-
----
-
-### 2026-08-14 21:55:49  #MKT News #Market Themes #AI Revolution
-
-【Gates in talks with SK and HD Hyundai on SMRs, targeting AI power demand】Bill Gates, founder of TerraPower, held meetings on the 14th with SK Group and HD Hyundai leaders to discuss cooperation on small modular reactors (SMRs) and power supply for AI data centers. In talks with SK’s chairman he focused on addressing rising electricity demand from AI data centers, next‑generation nuclear industry development and potential U.S.-Korea nuclear cooperation. SK and SK Innovation jointly invested $250m in TerraPower in 2022 and are TerraPower’s second-largest shareholders; SK Innovation on the same day signed a cooperation deal with TerraPower on a sodium‑cooled SMR. Gates also met HD Hyundai’s chairman and the CEO of Hyundai Engineering to review progress on previously signed commercial agreements; in May the three firms agreed to jointly commercialize sodium‑cooled SMRs and establish a division of labor.
-
----
-
-### 2026-08-14 21:55:23  #其他
-
-【寧德時代獨供澳大利亞國家電力市場規模最大的在運電池儲能專案，三期採用天恆儲能系統】寧德時代8月14日釋出訊息，近日，由Quinbrook開發的澳大利亞Supernode儲能專案二期正式投入商業運營，三期4.69億澳元融資同步完成交割。至此，專案一、二期（520MW/1858MWh）已全面商業化運營。三期建成後，總儲能規模將突破3GWh，成為澳大利亞國家電力市場（NEM）規模最大的在運電池儲能專案。
-
----
-
-### 2026-08-14 21:55:11  #公司 #國際
-
-【盛弘股份：充換電業務近年來保持穩定增長 海外市場是業務持續拓展的重要增長曲線之一】盛弘股份8月14日接受機構調研時表示，公司充換電業務近年來保持穩定增長，海外市場是業務持續拓展的重要增長曲線之一。目前公司已在歐洲、東南亞等區域形成一定市場積累，產品已陸續透過多地區的認證，為進入更多海外市場打下基礎。公司會積極拓展其他新興市場，並在部分海外重點市場設立子公司及本地服務團隊，提升產品本地化適配能力和售後響應速度。隨著新能源車出口資料的不斷提升，海外新能源車的存量不斷提升，對充電基礎設施的需求也日益增長。伴隨著海外相關政策和補貼的持續落地，公司會圍繞海外客戶需求加快推出適配產品，穩步擴大海外市場覆蓋範圍和業務規模。
-
----
-
-### 2026-08-14 21:55:08  #公司 #市場 #觀點
-
-【中金： 本輪迴調的本質，是AI產業趨勢、美元流動性和中國經濟這三大變數由推動轉為約束 】中金公司釋出研報稱，7月以來AI產業鏈引領全球股市回撥，市場對牛市的分歧加大。2026年上半年全球股票市場強勁上漲，但7月以來AI產業鏈引領全球股市共振回撥，市場對於牛市持續性的質疑聲音明顯增多。我們認為本輪迴調的本質，是AI產業趨勢、美元流動性和中國經濟這三大變數，從此前相對積極的“三重支撐”階段性變為不利於市場的“三重約束”，市場開始重新檢驗此前的樂觀假設。本篇報告我們將重點解析“三重約束”未來的演變方向，以及對於市場的展望，並提出當下在市場驗證期的應對策略。
-
----
-
-### 2026-08-14 21:53:00  #市場
-
-德國國債跌幅擴大，10年期國債收益率上升5個基點至3.18%。
-
----
-
-### 2026-08-14 21:52:21  #市場
-
-歐元兌美元日內漲幅達0.5%，現報1.1584。
-
----
-
-### 2026-08-14 21:51:42  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-EUR/USD rose 0.50% intraday to 1.1584.
-
----
-
-### 2026-08-14 21:51:29  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Slips Amid Middle East Tensions — The Ibovespa shed near 1% to below 166,000 on Friday, extending its seven-month low as the impasse in negotiations to end the war in the Middle East pushed oil prices higher. Oil and gas prices were on track for strong weekly gains as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares. Banco do Brasil, B3 and Caixa Econômica shed near 1%, while Itaúsa lost 0.5%. Utilities also traded lower, with Sabesp down over 1% and CPFL losing over 3% despite reporting an 21.3% annual rise in net profit, as growth in its industrial sector was modest and net debt rose 19.2%. Meanwhile, Cemig gained nearly 3% after reporting an 8.8% rise in EBITDA. Elsewhere, Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Braskem (+3%) reported net income of R$3.33 billion, reversing a loss. MBRF (+5%) reported net income of R$69 million in 2Q26.
 
 ---
