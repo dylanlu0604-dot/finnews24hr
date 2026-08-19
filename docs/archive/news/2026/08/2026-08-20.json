@@ -1,7 +1,294 @@
 {
   "date": "2026-08-20",
-  "count": 152,
+  "count": 177,
   "items": [
+    {
+      "id": "5048483",
+      "time": "2026-08-20 02:04:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：許多與會者表示曠日持久的中東戰爭可能推高通脹。"
+    },
+    {
+      "id": "5048482",
+      "time": "2026-08-20 02:04:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：數位與會者表示關稅傳導（導致的通脹）目前已基本完成。"
+    },
+    {
+      "id": "mkt:01a01b32-0312-7aab-909f-6ba80202f5e7",
+      "time": "2026-08-20 02:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve minutes: officials broadly saw upside risks to inf."
+    },
+    {
+      "id": "mkt:01a01b31-d2f4-7aab-909f-66f974bcbbf5",
+      "time": "2026-08-20 02:04:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve minutes: the meeting did not decide on the number of policy meetings. Fed Chair Kevin Warsh said the 2026 meeting schedule will not change."
+    },
+    {
+      "id": "5048481",
+      "time": "2026-08-20 02:03:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴比瑞亞前副總統朱厄爾·霍華德-泰勒被指控，案件涉及跨國販毒網路調查。"
+    },
+    {
+      "id": "mkt:01a01b31-4afc-7aab-909f-5bb6c5136d4d",
+      "time": "2026-08-20 02:03:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed minutes: nearly all FOMC participants judged it appropriate to retain the policy-statement language affirming the Committee \"will achieve price stability\"."
+    },
+    {
+      "id": "mkt:01a01b31-431b-7aab-909f-576d0e9e03b8",
+      "time": "2026-08-20 02:03:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed minutes: several officials said financial markets are bearing part of the Fed's policy tightening."
+    },
+    {
+      "id": "mkt:01a01b31-3c12-7aab-909f-4d20db5a48dd",
+      "time": "2026-08-20 02:03:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY"
+      ],
+      "text": "Fed minutes: Federal Reserve Chair Kevin Warsh said the Fed will schedule six policy meetings a year, about once every two months, to allow more information to accrue between meetings."
+    },
+    {
+      "id": "mkt:01a01b31-317f-7aab-909f-42b3d3d8cd6e",
+      "time": "2026-08-20 02:03:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: several participants who supported a rate hike at the meeting said a preemptive increase could help avoid the need for further rate hikes later."
+    },
+    {
+      "id": "mkt:01a01b31-3124-7aab-909f-397feef49470",
+      "time": "2026-08-20 02:03:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve minutes: some participants said financial conditions may not be sufficiently restrictive to achieve disinflation back to the Fed’s 2% target."
+    },
+    {
+      "id": "mkt:01a01b31-30f9-7aab-909f-36135fcbea94",
+      "time": "2026-08-20 02:03:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: Several participants said financial conditions tightened between the two meetings, reflecting strong economic growth and market expectations that the Fed will soon adopt a more restrictive policy stance."
+    },
+    {
+      "id": "mkt:01a01b31-30c7-7aab-909f-2b15e3b0b01f",
+      "time": "2026-08-20 02:03:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed minutes: At the July 28-29 meeting, most participants supported keeping the policy rate unchanged, but several officials favored a rate hike."
+    },
+    {
+      "id": "mkt:01a01b31-3099-7aab-909f-26c096ff0a21",
+      "time": "2026-08-20 02:03:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold was little changed after the Fed minutes; latest up 3.5% at $4,489.41/oz."
+    },
+    {
+      "id": "mkt:01a01b31-3059-7aab-909f-181dd212f2a7",
+      "time": "2026-08-20 02:03:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FOMC minutes showed most participants supported keeping policy rates unchanged, though several favored a rate hike."
+    },
+    {
+      "id": "5048480",
+      "time": "2026-08-20 02:03:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：主席沃什要求委員會就會議日程提供意見。"
+    },
+    {
+      "id": "mkt:01a01b31-17d5-7aab-909f-149879418cfd",
+      "time": "2026-08-20 02:03:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: many participants said if inf does not continue to decline, it may be necessary to keep policy rates higher."
+    },
+    {
+      "id": "5048479",
+      "time": "2026-08-20 02:03:03",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "現貨黃金在美聯儲會議紀要公佈後變動不大，最新上漲3.5%，報每盎司4489.41美元。"
+    },
+    {
+      "id": "5048478",
+      "time": "2026-08-20 02:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部發言人宣告：法國譴責美國對國際刑事法院（ICC）實施制裁。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608203846727682",
+      "time": "2026-08-20 02:02:25",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲7月28-29日會議紀要：多數與會者支援維持利率不變 但有數人贊成加息】美聯儲7月28-29日會議紀要顯示，多數與會者支援維持利率不變，但數人贊成加息。部分與會者表示金融環境可能不夠緊縮，不足以使通脹迴歸2%目標。許多與會者認為，若通脹不下行，則很可能有必要加息。多位與會者表示，兩次會議期間金融環境收緊反映了經濟增長強勁及市場預期美聯儲不久將採取更緊縮立場。少數贊成加息的與會者認為此舉可能有助於避免未來進一步加息。主席沃什表示，每年召開六次會議（大約每兩個月一次）可使會議之間有更多時間積累資訊。幾乎全體FOMC成員均同意保留政策宣告中的措辭，即FOMC“將實現物價穩定”。會議次數未做決定，沃什表示2026年日程不變。"
+    },
+    {
+      "id": "5048477",
+      "time": "2026-08-20 02:02:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲7月會議紀要公佈後，美國國債價格維持當日走勢。"
+    },
+    {
+      "id": "5048475",
+      "time": "2026-08-20 02:01:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：幾位贊成在本次會議加息的與會者認為，此次加息大機率有助於避免未來進一步加息的必要。"
+    },
+    {
+      "id": "5048474",
+      "time": "2026-08-20 02:01:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：多位與會者表示，議息間隔期內金融環境收緊，反映出經濟增長強勁，且市場預期美聯儲不久將採取更具限制性的政策立場。"
+    },
+    {
+      "id": "5048473",
+      "time": "2026-08-20 02:01:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：多位與會者評估認為，如果通脹未能下降，很可能有必要進一步加息。"
+    },
+    {
+      "id": "5048472",
+      "time": "2026-08-20 02:01:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲會議紀要：部分與會者認為，金融狀況可能尚未收緊到足以讓通脹回落至2%目標區間的水平。"
+    },
+    {
+      "id": "5048471",
+      "time": "2026-08-20 02:01:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "會議紀要顯示，美聯儲7月28-29日貨幣政策會議的多數參會者支援維持利率不變，但有數位參會者傾向於加息。"
+    },
     {
       "id": "5048470",
       "time": "2026-08-20 02:00:30",
