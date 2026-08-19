@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-20 03:16:09",
-  "count": 15648,
+  "updated": "2026-08-20 03:24:01",
+  "count": 15649,
   "items": [
+    {
+      "id": "mkt:01a01b79-6ddc-7aab-90a0-e41098a686ea",
+      "time": "2026-08-20 03:22:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Fed minutes: some participants say signs of labor-market slack persist】Federal Reserve minutes said participants judged labor-market conditions broadly stable and labor supply and demand roughly balanced, with unemployment steady over the past year and near most participants' estimates of its longer-run level. Some participants said uncertainty around AI development and current and expected productivity gains have kept both hiring and layoffs low; in industries building AI, demand for tech workers is strong and has driven sharp wage gains for those roles. Other participants flagged lingering slack, citing low employment rates and elevated long-term unemployment. Several described nominal wage growth as moderate and consistent with inflation moving toward 2%, though some warned of upside risk to future wage growth."
+    },
+    {
+      "id": "5048534",
+      "time": "2026-08-20 03:22:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：美國正在開展秘密行動，經霍爾木茲海峽運輸石油。"
+    },
+    {
+      "id": "mkt:01a01b75-691c-7aab-90a0-dde08f9d7687",
+      "time": "2026-08-20 03:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC Chair Selig said he will provide more details on the agency’s future regulatory path at a meeting tomorrow."
+    },
+    {
+      "id": "5048531",
+      "time": "2026-08-20 03:17:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會主席：明天，我將在會議上就後續監管路徑公佈更多細節。"
+    },
+    {
+      "id": "mkt:01a01b73-6d1e-7aab-90a0-d2787d4b043e",
+      "time": "2026-08-20 03:15:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump: We need Congress to pass a clear bill."
+    },
     {
       "id": "5048529",
       "time": "2026-08-20 03:14:15",
@@ -143266,41 +143314,6 @@
         "其他"
       ],
       "text": "【哥倫比亞強震遇難人數升至241人】哥倫比亞媒體引述哥倫比亞國家災害風險管理局12日釋出的資料顯示，10日在該國西部發生的7.4級強震已造成241人死亡、3771人受傷。"
-    },
-    {
-      "id": "mkt:019ff76d-8c93-7aab-9012-c3c8d9ed8eeb",
-      "time": "2026-08-13 03:22:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Market news: Minouche Shafik, a former Bank of England deputy governor and IMF director, has stepped down as the UK prime minister's chief economic adviser."
-    },
-    {
-      "id": "5038086",
-      "time": "2026-08-13 03:20:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "米努什·沙菲克卸任英國首相首席經濟顧問。"
-    },
-    {
-      "id": "5038085",
-      "time": "2026-08-13 03:19:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱已使59艘商船改變航線】當地時間8月12日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月12日，已經使59艘商業船隻改道，使3艘船隻失去行動能力，並登臨檢查2艘船隻。"
-    },
-    {
-      "id": "5038084",
-      "time": "2026-08-13 03:18:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國7月預算赤字激增 聯邦支出加速增長】由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元，再次凸顯政府借款需求持續上升。美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。"
     }
   ]
 }

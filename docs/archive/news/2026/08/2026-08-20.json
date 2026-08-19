@@ -1,7 +1,55 @@
 {
   "date": "2026-08-20",
-  "count": 274,
+  "count": 279,
   "items": [
+    {
+      "id": "mkt:01a01b79-6ddc-7aab-90a0-e41098a686ea",
+      "time": "2026-08-20 03:22:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Fed minutes: some participants say signs of labor-market slack persist】Federal Reserve minutes said participants judged labor-market conditions broadly stable and labor supply and demand roughly balanced, with unemployment steady over the past year and near most participants' estimates of its longer-run level. Some participants said uncertainty around AI development and current and expected productivity gains have kept both hiring and layoffs low; in industries building AI, demand for tech workers is strong and has driven sharp wage gains for those roles. Other participants flagged lingering slack, citing low employment rates and elevated long-term unemployment. Several described nominal wage growth as moderate and consistent with inflation moving toward 2%, though some warned of upside risk to future wage growth."
+    },
+    {
+      "id": "5048534",
+      "time": "2026-08-20 03:22:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：美國正在開展秘密行動，經霍爾木茲海峽運輸石油。"
+    },
+    {
+      "id": "mkt:01a01b75-691c-7aab-90a0-dde08f9d7687",
+      "time": "2026-08-20 03:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC Chair Selig said he will provide more details on the agency’s future regulatory path at a meeting tomorrow."
+    },
+    {
+      "id": "5048531",
+      "time": "2026-08-20 03:17:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會主席：明天，我將在會議上就後續監管路徑公佈更多細節。"
+    },
+    {
+      "id": "mkt:01a01b73-6d1e-7aab-90a0-d2787d4b043e",
+      "time": "2026-08-20 03:15:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump: We need Congress to pass a clear bill."
+    },
     {
       "id": "5048529",
       "time": "2026-08-20 03:14:15",
