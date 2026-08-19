@@ -1,7 +1,51 @@
 {
   "date": "2026-08-20",
-  "count": 252,
+  "count": 256,
   "items": [
+    {
+      "id": "mkt:01a01b66-7b81-7aab-90a0-8008302368ba",
+      "time": "2026-08-20 03:01:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.94% at 25,699, trading 204 points above the cash index."
+    },
+    {
+      "id": "mkt:01a01b65-89e3-7aab-90a0-7d46e44bd3fb",
+      "time": "2026-08-20 03:00:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Iran's central bank governor said Iran has proposed establishing a financial corridor among BRICS countries to reduce reliance on other currencies."
+    },
+    {
+      "id": "5048519",
+      "time": "2026-08-20 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.97%，報25704.94點，高水209.87點。"
+    },
+    {
+      "id": "5048518",
+      "time": "2026-08-20 02:59:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗央行行長：我們已提議在金磚框架下設立金融走廊，我們必須降低對其他貨幣的依賴。"
+    },
     {
       "id": "mkt:01a01b63-f590-7aab-90a0-7799ca14b278",
       "time": "2026-08-20 02:58:50",
