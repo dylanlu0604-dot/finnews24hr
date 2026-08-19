@@ -1,7 +1,74 @@
 {
   "date": "2026-08-20",
-  "count": 21,
+  "count": 28,
   "items": [
+    {
+      "id": "5048407",
+      "time": "2026-08-20 00:15:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：私募股權併購出現復甦跡象."
+    },
+    {
+      "id": "te:markets:576579",
+      "time": "2026-08-20 00:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Gains as Commodity Stocks Rally — The FTSE 100 edged higher on Wednesday, outperforming other European markets as strong gains in mining and energy stocks supported the index. Gold miners Fresnillo and Endeavour Mining surged more than 7% as gold prices jumped over 3%, boosted by the US Treasury’s decision to expand buybacks of longer-dated government debt. Mining giants Glencore and Anglo American gained almost 5%, while Antofagasta rose around 4% and Rio Tinto added 3.5%. Oil majors Shell and BP also advanced about 0.9% as crude prices continued to climb. AstraZeneca gained more than 2%, tracking strength across the pharmaceutical sector. In contrast, Smith & Nephew fell 3.8% after CFO John Rogers announced his departure for a US-based position. On the data front, UK inflation accelerated to 2.9% in July from 2.6% in June, matching expectations. The data led traders to modestly scale back expectations for a Bank of England rate increase this year."
+    },
+    {
+      "id": "5048406",
+      "time": "2026-08-20 00:14:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：企業意在透過交易擴大業務規模，執行長應對不確定性的能力有所提升。"
+    },
+    {
+      "id": "mkt:01a01acc-fd5b-7aab-909d-622435b73131",
+      "time": "2026-08-20 00:13:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump nominated Dr. Heidi Overton to be the next commissioner of the U.S. Food and Drug Administration (FDA)."
+    },
+    {
+      "id": "5048405",
+      "time": "2026-08-20 00:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：提名海迪·奧弗頓為下一任美國食品藥品監督管理局局長。"
+    },
+    {
+      "id": "te:markets:576578",
+      "time": "2026-08-20 00:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.75% Lower — The FTSE MIB Index fell 400 points or 0.75 percent on Wednesday to close at 52618 points. Leading the losses are STMicroelectronics (-2.70%), Unipol Gruppo (-2.61%) and Amplifon (-2.28%). Top gainers were Stellantis N.V. (6.30%), Ferrari NV (1.47%) and Moncler (1.11%)."
+    },
+    {
+      "id": "mkt:01a01acb-26af-7aab-909d-59589859e431",
+      "time": "2026-08-20 00:11:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Excess deaths from two French heatwaves exceed 7,000】As of July 22, two successive heatwaves in France produced over 7,000 excess deaths, the French public health authority said. It recorded at least 5,764 excess deaths from June 17–July 2 and 1,243 from July 3–22. During the second wave, people aged 75 and older accounted for three quarters of deaths. The record-hot July — the hottest month since 1900 — strained industrial and public-health services, sparked severe wildfires and disrupted transport, food and energy production. A government minister earlier estimated the heatwaves could cost France up to €15 billion (US$17.5 billion)."
+    },
     {
       "id": "mkt:01a01aca-ac0b-7aab-909d-53e3ece104ef",
       "time": "2026-08-20 00:11:24",
