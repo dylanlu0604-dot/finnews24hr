@@ -1,7 +1,135 @@
 {
   "date": "2026-08-20",
-  "count": 177,
+  "count": 188,
   "items": [
+    {
+      "id": "te:markets:576594",
+      "time": "2026-08-20 02:08:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Mixed — US stocks were mixed on Wednesday as losses for AI infrastructure and banks offset gains in other sectors. The S&P 500 and the Dow were 0.3% higher, while tech losses drove the Nasdaq 100 to the red. The Treasury doubled the limit on buybacks of long-term securities for next quarter, adding to a series of other measures it took to control the recent surge in longer benchmark borrowing costs. Besides reducing rates, the outlook of higher dollar liquidity from the Treasury's intervention also supported equities. This was combined with minutes from the FOMC confirming some calls that rate hikes may be appropriate this year. Retail stocks were mostly higher after TJX, Target, and Lowe's reported their earnings results. Meanwhile, the pharmaceutical sector surged, with Merck advancing 12% and Moderna surging 150% after a trial on their joint vaccine cut recurrence in melanoma. On the other hand, tepid results by OpenAI pressured chip producers with AMD and Intel dropping 4%."
+    },
+    {
+      "id": "5048486",
+      "time": "2026-08-20 02:07:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗與巴基斯坦兩國官員通電話，磋商近期局勢。"
+    },
+    {
+      "id": "mkt:01a01b34-b846-7aab-909f-9963db8d3d1b",
+      "time": "2026-08-20 02:07:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said as of Aug 19 it had forced 65 commercial vessels to divert course, rendered three vessels inoperative, and boarded two vessels for inspection to ensure compliance with relevant requirements."
+    },
+    {
+      "id": "5048485",
+      "time": "2026-08-20 02:06:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲會議紀要：多數支援維持利率不變，部分官員主張必要時加息】美聯儲會議紀要顯示，美聯儲7月28‑29日會議上，大多數與會者支援維持利率不變，但有數位與會者傾向加息；許多與會者評估，若通脹未能回落，則可能需要進一步加息，部分與會者表示，當前金融環境的緊縮力度或許不足以將通脹拉回2%目標。"
+    },
+    {
+      "id": "mkt:01a01b33-d262-7aab-909f-952b7455ff05",
+      "time": "2026-08-20 02:06:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Colombian peso rose 1.81% against the dollar to 3,039, its highest level since October 2018."
+    },
+    {
+      "id": "mkt:01a01b33-b2c8-7aab-909f-8931a96a6583",
+      "time": "2026-08-20 02:06:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: some officials noted a correction in AI-related equities could pose financial stability risks."
+    },
+    {
+      "id": "mkt:01a01b33-9129-7aab-909f-83dc5aa47c22",
+      "time": "2026-08-20 02:05:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed minutes: some participants said the Fed's ample-reserves framework helped maintain orderly market functioning during a brief payment-system outage between meetings."
+    },
+    {
+      "id": "mkt:01a01b33-262b-7aab-909f-79c0b4131287",
+      "time": "2026-08-20 02:05:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes: several participants said price increases over the past year were broad-based, spanning many categories of goods and services."
+    },
+    {
+      "id": "5048484",
+      "time": "2026-08-20 02:05:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至8月19日，美軍已勒令65艘商船改道，癱瘓3艘船隻，並登檢2艘，以確保各方遵守相關規定。"
+    },
+    {
+      "id": "te:economy:576593",
+      "time": "2026-08-20 02:05:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Fed Minutes Show Inflation Risks and Rate Hike Concerns — The Federal Reserve’s July meeting minutes showed that policymakers remained concerned about persistent inflation and the possibility that further rate increases could be required if price pressures fail to ease. Several officials judged that financial conditions may not have been restrictive enough, while others noted that tighter market conditions were already contributing to the Fed’s efforts to slow demand. A small group of policymakers who supported raising rates at the July meeting believed an immediate hike could have reduced the need for larger increases later. Officials generally viewed inflation risks as tilted to the upside, although some said financial markets were already doing part of the tightening work. Importantly, the meeting took place before subsequent data showed cooler employment and inflation, meaning the discussion may overstate the degree of tightening currently expected by markets."
+    },
+    {
+      "id": "mkt:01a01b32-f193-7aab-909f-72beefd5fe75",
+      "time": "2026-08-20 02:05:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed minutes: Fed staff's economic outlook shows inf forecasts largely unchanged from projections prepared for the June meeting, but the economic outlook is described as \"slightly weaker\"."
+    },
     {
       "id": "5048483",
       "time": "2026-08-20 02:04:45",
