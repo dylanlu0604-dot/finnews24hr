@@ -1,7 +1,67 @@
 {
   "date": "2026-08-19",
-  "count": 1631,
+  "count": 1637,
   "items": [
+    {
+      "id": "5047356",
+      "time": "2026-08-19 16:22:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "嘉士伯股價在公佈上半年業績後下跌3.3%，目前正邁向2026年3月以來最差單日表現。"
+    },
+    {
+      "id": "te:economy:576424",
+      "time": "2026-08-19 16:22:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Italy Current Account Surplus Narrows in June — Italy’s current account surplus amounted to EUR 5,838.8 million in June 2026, narrowing from EUR 6,639.4 million in the same month a year earlier, as surpluses in goods, services and primary income declined. The goods surplus fell to EUR 4,852.4 million from EUR 5,625.6 million, while the services surplus edged down to EUR 1,539.4 million from EUR 1,558.0 million. The primary income surplus also decreased to EUR 735.6 million from EUR 761.1 million. Meanwhile, the secondary income deficit narrowed slightly to EUR 1,288.7 million from EUR 1,305.2 million last year."
+    },
+    {
+      "id": "5047355",
+      "time": "2026-08-19 16:21:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天璣資料與海光資訊簽署戰略合作協議】8月18日，上海天璣資料技術有限公司與海光資訊簽署戰略合作協議。據悉，雙方將圍繞國產晶片與資料庫的軟硬協同與深度融合展開全面合作。"
+    },
+    {
+      "id": "5047354",
+      "time": "2026-08-19 16:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華盛鋰電：終止年處理14.4萬噸危廢處置投資專案】華盛鋰電公告稱，公司董事會審議透過議案，終止投資年處理144,000噸固液氣綜合危廢焚燒處置&資源化迴圈利用中心專案，該專案總投資約3.60億元，原計劃由公司與宜興福鼎、夢澤國投共同出資設立華烽綠能實施，公司持股70%。截至目前該專案僅開展部分前期籌備工作，尚未實際實施建設，前期投入資金規模較小，終止該專案不會對公司生產經營及財務狀況產生重大影響。"
+    },
+    {
+      "id": "5047353",
+      "time": "2026-08-19 16:20:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華盛鋰電：2026年上半年實現扭虧為盈，淨利潤為2.23億元】華盛鋰電公告，2026年上半年營業收入7.92億元，同比增長126.51%。歸屬於上市公司股東的淨利潤為2.23億元，上年同期淨利潤為-6340.65萬元，實現扭虧為盈。公司擬向全體股東每10股派發現金紅利3元（含稅）。"
+    },
+    {
+      "id": "mkt:01a0191a-89b5-7aab-9090-2f4c3f756ff5",
+      "time": "2026-08-19 16:19:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Themes",
+        "AI Revolution",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US yield surge knocks KOSPI 5.8%; foreigners, institutions sell KRW4.8tln, retail buys】US Treasury yields jumped, knocking risk appetite and prompting foreign and institutional investors to sell a combined KRW4.8 tln (~$3.5bn) of Korean equities. KOSPI closed at 6,471.17, down 5.80% after an intraday low of 6,400.81; retail investors were net buyers of KRW4.6367 tln. Samsung Electronics and SK Hynix fell more than 7% and 9%, respectively. Foreigners were net sellers of KRW3.5036 tln, the largest net outflow this month and the biggest single-day net sale since the 28th of last month (KRW4.5261 tln); institutions net sold KRW1.3244 tln. Analysts cited Middle East tensions and the US yield spike — including a rise in the 30-year Treasury yield to 5.33%, its highest since 2007 — and said failure to extend a US-Iran ceasefire lifted oil and inflation concerns. Higher rates are increasing AI-sector capex pressure and, together with worries over slow profit improvement at OpenAI and cooling storage-chip demand, have intensified profit-taking in previously strong chip names, Daishin Securities said."
+    },
     {
       "id": "5047351",
       "time": "2026-08-19 16:18:32",
