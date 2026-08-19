@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-20 04:25:23",
-  "count": 15680,
+  "updated": "2026-08-20 04:29:35",
+  "count": 15686,
   "items": [
+    {
+      "id": "5048599",
+      "time": "2026-08-20 04:27:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國商品期貨交易委員會（CFTC）就算力期貨合約公開徵求意見】美國商品期貨交易委員會（CFTC）正式啟動算力期貨監管意見徵集程式。CME芝商所、洲際交易所及金融科技公司Architect Financial Technologies等多家機構已宣佈，計劃在獲批後推出相關合約，助力AI開發者對沖能源短缺等風險。CFTC主席邁克爾·塞利格表示：”沒有強大的算力衍生品市場，美國就無法贏得AI競賽。” 並稱此次徵詢意見是建立算力市場明確規則的第一步。本次徵詢重點關注算力期貨與現有衍生品的差異，及結算價格指數等關鍵變數的統一標準問題。"
+    },
+    {
+      "id": "5048598",
+      "time": "2026-08-20 04:26:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4580美元/盎司，日內漲3.61%。"
+    },
+    {
+      "id": "5048597",
+      "time": "2026-08-20 04:26:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4520美元/盎司，日內漲4.30%。"
+    },
+    {
+      "id": "mkt:01a01bb3-941d-7aab-90a2-371cbc919afe",
+      "time": "2026-08-20 04:25:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,520/oz, up 4.29% on the day."
+    },
+    {
+      "id": "mkt:01a01bb3-0dce-7aab-90a2-291148ede290",
+      "time": "2026-08-20 04:25:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver jumped 5% intraday to $66.51/oz."
+    },
+    {
+      "id": "5048593",
+      "time": "2026-08-20 04:25:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲5%，現報66.51美元/盎司。"
+    },
+    {
+      "id": "5048592",
+      "time": "2026-08-20 04:24:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報66.61美元/盎司。"
+    },
     {
       "id": "mkt:01a01bb1-5a84-7aab-90a2-274bbc00c14f",
       "time": "2026-08-20 04:23:22",
@@ -143675,18 +143741,6 @@
         "國際"
       ],
       "text": "伊朗官方駁斥特朗普有關美國完全掌控霍爾木茲海峽的說法。"
-    },
-    {
-      "id": "te:markets:574826",
-      "time": "2026-08-13 04:29:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises to Record on Softer US Inflation — The S&P/TSX Composite Index added 0.5% to close at an all-time high of 36,662 on Wednesday, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC up 1.5% and TD Bank adding 1.7%. Most miners advanced amid higher gold prices, with Agnico Eagle rising 1.8% and Barrick advancing 3%. In contrast, Franco-Nevada fell 1.6% after missing earnings expectations. In tech, Celestica surged 9.2% amid a chipmaker rally in the US. Constellation Software tumbled 4.5% after revenue came in slightly below forecasts despite an EPS beat. Shopify fell 1.2%, tracking weakness in US hyperscalers."
     }
   ]
 }
