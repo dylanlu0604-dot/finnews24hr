@@ -1,7 +1,61 @@
 {
   "date": "2026-08-19",
-  "count": 514,
+  "count": 520,
   "items": [
+    {
+      "id": "5046666",
+      "time": "2026-08-19 08:38:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將百度ADR評級下調至減持，目標價80美元。"
+    },
+    {
+      "id": "mkt:01a01774-12de-7aab-9084-615b85a5b949",
+      "time": "2026-08-19 08:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Joint Chiefs of Staff said it will adjust the schedule and scale of the Ulchi Freedom Shield (UFS) military exercises, shortening the exercise period to Aug. 17-21."
+    },
+    {
+      "id": "5046665",
+      "time": "2026-08-19 08:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本打“機床牌”是“自戕式豪賭”】8月16日，日本新修訂的《輸出貿易管理令》正式生效。從高階五軸數控機床整機、高精度迴轉轉檯，到五軸數控系統設計製造技術，全鏈條都被劃入了第二類管制清單。這意味著，這些精密機床對華出口從批次許可變為“一事一議”，審批週期最長可能被拉至半年，尤其是在航空航天、軍工、半導體等重點行業，被駁回率可能將超過80%。 在業界，高階機床被稱為“工業母機”，例如航空發動機葉片、精密模具、半導體裝置，五軸聯動能力決定了這些產品的精度上限。在這一領域，日本話語權很重。全球高階五軸機床出口份額中，日本獨佔四成以上，在中國高階市場最高甚至曾拿下約七成份額。 明眼人都能看出，這既是對中國依法實施兩用物項出口管制、限制日本右翼“再軍事化”的還擊，也是向美國對華遏制戰略遞上的“投名狀”。日本指望打出這張“機床牌”卡住中國脖子，換取稀土供應等談判籌碼。然而，這注定是一場“自損一千”的戰略誤判，不僅沒法威脅到中國，還會自斷經脈、自食其果。歷史反覆證明，“卡脖子”卡不住中國。無論是天河、神威系列超算，還是刻蝕機、薄膜沉積等半導體技術，任何試圖透過技術封鎖遏制中國發展的企圖，最終都是倒逼中國完成自主可控，最終失去中國市場。病急亂投醫，日方不反思自身的病灶，反而在錯誤道路上狂飆突進，這場“自戕式豪賭”，其結果早已註定。（環球時報）"
+    },
+    {
+      "id": "mkt:01a01773-5441-7aab-9084-5f4b5478e654",
+      "time": "2026-08-19 08:37:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 1.5 bps to 2.920%."
+    },
+    {
+      "id": "te:markets:576267",
+      "time": "2026-08-19 08:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Fall on Bond Jitters — Silver fell below $63 an ounce on Wednesday, extending losses from the previous session, pressured by elevated global bond yields amid growing fiscal concerns and persistent inflationary pressures. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades. The precious metal also faced pressure from rising oil prices as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. President Donald Trump said there were no ongoing talks with Tehran, while Iranian forces have intensified attacks on shipping in the Strait of Hormuz. Investors now await minutes from the Federal Reserve’s July meeting and remarks from Chairman Kevin Warsh at the annual Jackson Hole symposium for fresh clues on the monetary policy outlook."
+    },
+    {
+      "id": "5046664",
+      "time": "2026-08-19 08:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超70家訓練場建成啟用 具身智慧加速產業落地】中國資訊通訊研究院昨天（18日）釋出《具身智慧訓練場研究報告（2026年）》。報告顯示，隨著各部門密集部署人形機器人中試基地和訓練場建設，我國具身智慧訓練場已經成為關鍵基礎設施，形成規模化叢集化佈局。報告顯示，目前，全國共建成啟用超過70傢俱身智慧訓練場，在建或規劃中的訓練場也有40多家，訓練場產業鏈已初步成形。訓練場建設依託具身智慧產業優勢形成長三角、京津冀、珠三角三大核心叢集，已覆蓋全國過半的省級行政區，並突破傳統人工智慧產業高度集聚一線城市的模式，向三線及以下城市延伸。"
+    },
     {
       "id": "mkt:01a01770-8964-7aab-9084-50d1dbd67793",
       "time": "2026-08-19 08:34:06",

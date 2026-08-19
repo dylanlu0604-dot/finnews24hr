@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-19 08:35:06",
-  "count": 15136,
+  "updated": "2026-08-19 08:38:58",
+  "count": 15138,
   "items": [
+    {
+      "id": "5046666",
+      "time": "2026-08-19 08:38:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將百度ADR評級下調至減持，目標價80美元。"
+    },
+    {
+      "id": "mkt:01a01774-12de-7aab-9084-615b85a5b949",
+      "time": "2026-08-19 08:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Joint Chiefs of Staff said it will adjust the schedule and scale of the Ulchi Freedom Shield (UFS) military exercises, shortening the exercise period to Aug. 17-21."
+    },
+    {
+      "id": "5046665",
+      "time": "2026-08-19 08:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本打“機床牌”是“自戕式豪賭”】8月16日，日本新修訂的《輸出貿易管理令》正式生效。從高階五軸數控機床整機、高精度迴轉轉檯，到五軸數控系統設計製造技術，全鏈條都被劃入了第二類管制清單。這意味著，這些精密機床對華出口從批次許可變為“一事一議”，審批週期最長可能被拉至半年，尤其是在航空航天、軍工、半導體等重點行業，被駁回率可能將超過80%。 在業界，高階機床被稱為“工業母機”，例如航空發動機葉片、精密模具、半導體裝置，五軸聯動能力決定了這些產品的精度上限。在這一領域，日本話語權很重。全球高階五軸機床出口份額中，日本獨佔四成以上，在中國高階市場最高甚至曾拿下約七成份額。 明眼人都能看出，這既是對中國依法實施兩用物項出口管制、限制日本右翼“再軍事化”的還擊，也是向美國對華遏制戰略遞上的“投名狀”。日本指望打出這張“機床牌”卡住中國脖子，換取稀土供應等談判籌碼。然而，這注定是一場“自損一千”的戰略誤判，不僅沒法威脅到中國，還會自斷經脈、自食其果。歷史反覆證明，“卡脖子”卡不住中國。無論是天河、神威系列超算，還是刻蝕機、薄膜沉積等半導體技術，任何試圖透過技術封鎖遏制中國發展的企圖，最終都是倒逼中國完成自主可控，最終失去中國市場。病急亂投醫，日方不反思自身的病灶，反而在錯誤道路上狂飆突進，這場“自戕式豪賭”，其結果早已註定。（環球時報）"
+    },
+    {
+      "id": "mkt:01a01773-5441-7aab-9084-5f4b5478e654",
+      "time": "2026-08-19 08:37:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 1.5 bps to 2.920%."
+    },
+    {
+      "id": "te:markets:576267",
+      "time": "2026-08-19 08:35:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Fall on Bond Jitters — Silver fell below $63 an ounce on Wednesday, extending losses from the previous session, pressured by elevated global bond yields amid growing fiscal concerns and persistent inflationary pressures. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades. The precious metal also faced pressure from rising oil prices as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. President Donald Trump said there were no ongoing talks with Tehran, while Iranian forces have intensified attacks on shipping in the Strait of Hormuz. Investors now await minutes from the Federal Reserve’s July meeting and remarks from Chairman Kevin Warsh at the annual Jackson Hole symposium for fresh clues on the monetary policy outlook."
+    },
+    {
+      "id": "5046664",
+      "time": "2026-08-19 08:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超70家訓練場建成啟用 具身智慧加速產業落地】中國資訊通訊研究院昨天（18日）釋出《具身智慧訓練場研究報告（2026年）》。報告顯示，隨著各部門密集部署人形機器人中試基地和訓練場建設，我國具身智慧訓練場已經成為關鍵基礎設施，形成規模化叢集化佈局。報告顯示，目前，全國共建成啟用超過70傢俱身智慧訓練場，在建或規劃中的訓練場也有40多家，訓練場產業鏈已初步成形。訓練場建設依託具身智慧產業優勢形成長三角、京津冀、珠三角三大核心叢集，已覆蓋全國過半的省級行政區，並突破傳統人工智慧產業高度集聚一線城市的模式，向三線及以下城市延伸。"
+    },
     {
       "id": "mkt:01a01770-8964-7aab-9084-50d1dbd67793",
       "time": "2026-08-19 08:34:06",
@@ -138677,42 +138731,6 @@
         "Importance 1"
       ],
       "text": "Australian Market Tracks Wall Street Losses — Australian equities retreated Wednesday, with the benchmark slipping 40 points or 0.5% to 9,207 in morning trade, erasing the prior day’s modest uptick after Wall Street’s overnight weakness and stalled Strait of Hormuz talks lifted oil prices ahead of key inflation data. Locally, the Reserve Bank kept the cash rate steady at 4.35% after three hikes this year, stressing inflation remains uncomfortably high and expectations elevated. Sectoral weakness was led by tech services, manufacturing, consumer services, and retail, though consumer durables and logistics offered partial support. The four major banks eased between 0.1% and 0.7%, while notable laggards included BHP Group (-0.5%), South32 (-2.7%), Computershare (-2.0%), and Bluescope Steel (-1.8%). Market focus now shifts to testimony from Governor Michele Bullock before parliament on Friday, preceded by Assistant Governor Chris Kent’s appearance Thursday, as investors weigh policy signals against persistent inflationary pressures."
-    },
-    {
-      "id": "5036542",
-      "time": "2026-08-12 08:38:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【星巴克中國並未取消14薪、門店規模還在擴張】相關傳聞提到，星巴克中國已開啟裁員和降低人工成本，比如取消14薪、修改員工合同，除店經理以外的大部分員工改為兼職合同、取消部分帶薪假期。對此，據記者多方確認，星巴克中國並未取消14薪、修改員工合同乃至取消部分帶薪假期。但要看到，隨著星巴克中國走向合資狀態，此前的員工持股計劃確實會出現一定變化。而基於此前星巴克全球與博裕投資的相關協議，種種變化會在下個財年落地。星巴克下個財年將於今年10月開啟。還有相關傳聞提及，在剛過去的財季（5月-7月）裡，星巴克中國門店首次出現了負增長。對此，據記者確認，星巴克中國門店規模處於增長區間。據星巴克年初發布的財務指引，其在中國本財年預計門店數量淨增長250家左右。亦要看到，星巴克上個財季為4-6月，尚未釋出與7月相關的經營資料。（21財經）"
-    },
-    {
-      "id": "mkt:019ff368-718f-7aab-8ffc-acee8d5cb3a8",
-      "time": "2026-08-12 08:38:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars"
-      ],
-      "text": "【South Korea to inject more than $700m into sovereign fund targeting AI, strategic industries next year】South Korea’s finance ministry expects to deploy 600 billion–1 trillion won (about $707m) of new capital into a sovereign-wealth fund targeting AI and other strategic industries next year, and the final amount could exceed initial estimates depending on selected targets and their funding needs, the ministry’s Innovation Growth Office head said on Tuesday. There are currently no plans for the fund to invest directly in Samsung Electronics or SK Hynix. In July Seoul said the Korea Investment Corporation would set up a “strategic industry investment account” with initial capital of at least 20 trillion won (about RMB94bn), targeting AI, semiconductors, data centres and overseas supply-chain core firms and due to be formally launched and operated next year. The fund will also target robotics, energy and battery and grid infrastructure; nuclear, space and quantum technologies are under consideration."
-    },
-    {
-      "id": "5036541",
-      "time": "2026-08-12 08:37:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沈曉明調研出海企業經營發展情況】據湖南日報，8月11日，湖南省委書記沈曉明在長沙調研出海企業經營發展情況，強調要持續深化體制機制改革，著力營造良好發展環境，千方百計為企業排憂解難，推動全省外資外貿高質量發展。"
-    },
-    {
-      "id": "5036540",
-      "time": "2026-08-12 08:36:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【西班牙政府力挺中企費羅爾工廠】據西班牙《國家報》10日報道，針對西班牙國防部與國家情報中心就中國車企在費羅爾設立工廠發出預警引發的輿論風波，西班牙中央和地方政府官員當天緊急出面回應，對這一專案明確表達支援。復旦大學國際問題研究院中歐關係研究中心主任簡軍波11日記者表示，圍繞費羅爾工廠的博弈，本質上是發展訴求與安全泛化的較量。西班牙政府的選擇表明，在切實的經濟利益與就業紅利面前，理性的商業邏輯終將佔據上風。 西班牙加利西亞自治區政府6月初宣佈，中國上汽集團將在加利西亞拉科魯尼亞省費羅爾市建設其在歐洲的首家電動汽車工廠。該自治區政府主席魯埃達當時表示，該專案初期投資額為2億歐元，預計將為當地創造超過2300個就業崗位。（環球時報）"
     }
   ]
 }
