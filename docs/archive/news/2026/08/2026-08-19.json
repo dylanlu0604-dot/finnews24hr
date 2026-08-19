@@ -1,7 +1,369 @@
 {
   "date": "2026-08-19",
-  "count": 2607,
+  "count": 2646,
   "items": [
+    {
+      "id": "5048124",
+      "time": "2026-08-19 21:07:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合宣告：德斯迪納斯、庫貝丁與OMT公司合作開發模組化海軍反無人機系統能力。"
+    },
+    {
+      "id": "5048123",
+      "time": "2026-08-19 21:06:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拓網路：前沿人工智慧防禦計劃擴容，新增 Anthropic、OpenAI、三菱、安訊士網路通訊四家合作方。"
+    },
+    {
+      "id": "5048121",
+      "time": "2026-08-19 21:06:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報5348.00元。"
+    },
+    {
+      "id": "5048119",
+      "time": "2026-08-19 21:06:05",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "One Point BFG 財富合夥人公司首席投資官彼得布克瓦爾針對美國財政部（擴大長債回購規模）公告稱：“我的判斷是，這部分被回購的供給，會由更多短端債券（尤其是短期國庫券）的發行來補足。這不是削減債務，僅僅是調整國債的到期期限結構。”"
+    },
+    {
+      "id": "te:markets:576496",
+      "time": "2026-08-19 21:05:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Down for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for a second session on Wednesday, falling about 1.4% to a fresh low since July 31 at 2,776 points. Larger declines in the bigger-size segments outweighed a mild increase in the smallest one. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, was also down for a second day, dropping by 1% to a new low since July 31 at 4,376 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, declined by 2.2% to its lowest since July 31 at 2,107 points. On the other hand, the supramax index rose by 0.2% to a fresh high since July 28 at 1,634 points."
+    },
+    {
+      "id": "5048118",
+      "time": "2026-08-19 21:05:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特： 非法移民領取納稅人出資福利的時代已經結束。聯邦法律規定十分明確，美國財政部 正在執行相關法律。美國納稅人不應被迫為那些依法無資格領取福利的人承擔福利開支。這些擬議法規將杜絕此類濫用行為，維護稅收體系的公正性，並把美國民眾的利益放在首位。"
+    },
+    {
+      "id": "5048116",
+      "time": "2026-08-19 21:04:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家航空公司：獲美國運輸部批准授予為期兩年的豁免權，有效期至2028年7月30日。"
+    },
+    {
+      "id": "5048115",
+      "time": "2026-08-19 21:04:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Rokos和Brevan 7月也出現虧損 市場動盪令多家對沖基金措手不及】對沖基金Rokos Capital Management和Brevan Howard Asset Management 7月也出現虧損，與多家同行一樣受到市場動盪衝擊，此前人工智慧(AI)股票經歷了普遍下跌和突然反彈。知情人士稱，Chris Rokos創辦的同名公司上月跌1.2%，延續6月的虧損，年迄今回報率收窄至8.1%。因談及非公開資訊而不願具名的知情人士稱，Brevan Howard的Master基金虧損1.2%，令今年前七個月的累計漲幅收窄至約0.9%。知情人士稱，Said Haidar旗下Jupiter基金7月估計虧損3.2%，年初至今估計虧損13%。"
+    },
+    {
+      "id": "mkt:01a01a1e-fdbd-7aab-9097-d37b26732242",
+      "time": "2026-08-19 21:03:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian peso rose about 1% to its strongest level since October 2018 as risk appetite recovered."
+    },
+    {
+      "id": "5048114",
+      "time": "2026-08-19 21:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "受風險偏好情緒提振，哥倫比亞比索上漲1%，創2018年10月以來最高水平。"
+    },
+    {
+      "id": "5048113",
+      "time": "2026-08-19 21:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，截至8月19日21時，《歡迎來龍餐館》成2025年七夕檔票房冠軍。 2026七夕檔票房TOP5: 1、《歡迎來龍餐館》 2、《空槍》 3、《奧德賽》 4、《八仙！》 5、《去你的島》"
+    },
+    {
+      "id": "5048112",
+      "time": "2026-08-19 21:01:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【敏芯股份：擬收購及增資取得光電器件公司浦丹光電54%股權】敏芯股份(688286.SH)公告稱，公司擬透過股權轉讓及增資方式合計取得北京浦丹光電股份有限公司54%股權，交易總金額1.77億元。其中以8288.45萬元受讓浦丹光電原股東合計持有的2486.50萬股股份，同時以9423.69萬元向浦丹光電增資取得3039.90萬股股份。本次交易完成後，浦丹光電將成為公司控股子公司。標的公司長期聚焦於光纖陀螺儀核心光電器件的研發、生產和銷售，目前核心產品包括整合光學多功能光波導調製器（MIOC）、超輻射發光管（SLD）、光接收元件（PIN-FET）及保偏光纖分束器（PMFS）等，覆蓋光纖陀螺儀主要核心元器件，相關產品已廣泛應用於航空航天、智慧裝備、海洋探測、軌道交通及工業測控等高可靠領域。"
+    },
+    {
+      "id": "mkt:01a01a1c-6359-7aab-9097-c9e86a9673d4",
+      "time": "2026-08-19 21:01:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Commodities",
+        "Energy",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【U.S. long yields retreat as bond sell-off eases】Bond sell-off has eased and U.S. long-term yields fell, though markets still face the risk of higher borrowing costs. A confrontation in the Strait of Hormuz has kept oil near $90, adding to inf concerns. Rising government debt and heavier issuance to finance data centers have heightened fixed-income volatility. Tonight’s 20-year Treasury auction will test demand for long-term paper. The 30-year yield slipped to 5.19% from Tuesday’s 5.284% settlement; the 10-year fell to 4.62% from 4.706%."
+    },
+    {
+      "id": "5048109",
+      "time": "2026-08-19 21:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【肯亞北部一直升機墜毀 7人死亡】肯亞警方19日證實，一架直升機當天在肯亞北部桑布魯郡奧洛洛克韋山墜毀，包括6名遊客和1名飛行員在內的機上7人全部遇難。 警方報告說，事發時，這架直升機正從肯亞中部萊基皮亞郡的索伊安飛往洛伊薩巴保護區。 目前尚不清楚事故原因。肯亞航空部門已對此展開調查。（新華社）"
+    },
+    {
+      "id": "mkt:01a01a1b-d8b8-7aab-9097-c491f54ec6c9",
+      "time": "2026-08-19 21:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "China night-session front-month futures opened mixed: low-sulfur fuel oil (LU) fell more than 1%; glass, Shanghai crude (SC), PTA, paraxylene (PX) and soda ash slipped about 1%. Shanghai gold and silver and coking coal gained over 1%; starch and Shanghai nickel rose roughly 1%."
+    },
+    {
+      "id": "te:markets:576495",
+      "time": "2026-08-19 21:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Inch Up as US Tariffs Are Paused — Futures tracking Canadian equities edged higher on Wednesday after US President Donald Trump paused new tariffs on Canadian goods. Trump announced late Tuesday that he was putting a three-day pause on the new 50% tariffs that were set to take effect on Canadian goods on Wednesday, saying the two countries had reached a deal. The prospect of a deal lent support to Canadian exporters. Oil prices hit a three-week high as uncertainty over shipping through the Strait of Hormuz and ongoing supply disruptions persisted, supporting energy producers. Gold prices were supported by a weaker dollar as global bond yields stabilized, supporting mining stocks. Meanwhile, financials and the broader index remained under pressure amid energy-driven inflationary pressures stemming from the Middle East conflict and ahead of the release of the US Federal Reserve’s July meeting minutes."
+    },
+    {
+      "id": "mkt:01a01a1b-757d-7aab-9097-bd3f36ec9341",
+      "time": "2026-08-19 21:00:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's He meets Chilean foreign minister Pérez】China's He met Chilean foreign minister Pérez on Aug. 19. He said bilateral political trust has deepened under leaders' strategic guidance and that China is prepared to step up economic cooperation with Chile—focusing on trade, investment and technology—under a high-quality Belt and Road framework to advance the comprehensive strategic partnership. Pérez said deepening ties with China is a Chilean diplomatic priority and will use the 10th anniversary of the bilateral comprehensive strategic partnership to expand cooperation."
+    },
+    {
+      "id": "5048107",
+      "time": "2026-08-19 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌3.01%，鉑連續跌2.86%，鈀連續跌2.71%，雞蛋連續跌1.90%，低硫燃料油連續跌1.80%。"
+    },
+    {
+      "id": "5048106",
+      "time": "2026-08-19 21:00:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥2026半年報：創新藥銷售收入持續增長，佔比躍升至63%】8月19日，恆瑞醫藥釋出2026年半年度報告。報告期內，公司實現營業收入154.56億元，其中產品銷售收入139.48億元，同比增長1.87%；歸母淨利潤44.65億元，同比增長0.34%。創新藥銷售收入88.09億元，同比增長16.38%，佔藥品銷售收入63.16%，其中非腫瘤創新藥銷售收入同比增長73.97%。公司持續保持較高研發投入，報告期內研發投入46.05億元，同比增長18.96%。"
+    },
+    {
+      "id": "5048105",
+      "time": "2026-08-19 20:59:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美聯儲資料顯示，8月18日美國有效聯邦基金利率為3.63%，成交規模為890億美元；8月17日有效利率同為3.63%，成交規模為930億美元。"
+    },
+    {
+      "id": "5048104",
+      "time": "2026-08-19 20:58:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【何立峰會見智利外長佩雷斯】中共中央政治局委員、國務院副總理何立峰8月19日下午在人民大會堂會見智利外長佩雷斯。何立峰表示，在兩國元首戰略引領下，中智雙方政治互信持續深化，各領域務實合作取得積極成果。中智經濟互補性強，中方願同智方賡續傳統友誼，加強經濟合作，在高質量共建“一帶一路”框架下深化貿易、投資、科技等各領域交流合作，推動中智全面戰略伙伴關係不斷向前發展。佩雷斯表示，發展對華關係是智利外交優先方向。智方願以智中建立全面戰略伙伴關係10週年為契機，深化雙邊各領域合作，推動智中關係邁上新臺階。（新華社）"
+    },
+    {
+      "id": "5048103",
+      "time": "2026-08-19 20:57:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4440美元/盎司，日內漲2.47%。"
+    },
+    {
+      "id": "mkt:01a01a19-0012-7aab-9097-b6de79df0b31",
+      "time": "2026-08-19 20:57:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold traded above $4,440/oz, rising over $100 intraday, a 2.44% gain."
+    },
+    {
+      "id": "5048100",
+      "time": "2026-08-19 20:56:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4430美元/盎司，日內漲2.27%。"
+    },
+    {
+      "id": "5048099",
+      "time": "2026-08-19 20:56:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4490美元/盎司，日內漲1.58%。"
+    },
+    {
+      "id": "mkt:01a01a17-bd28-7aab-9097-aaa0c91f22d5",
+      "time": "2026-08-19 20:55:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China Merchants Securities: market to shift toward earnings-led, more balanced rotation】China Merchants Securities said the risk-on lift from August’s macro- and micro-liquidity improvement and systemic repair looks to be tapering. With few near-term liquidity catalysts and the concentrated mid-year earnings disclosure window approaching, the market will focus more on earnings-driven structural opportunities. Style leadership may move from early-August growth dominance to more balanced rotation; watch CSI 1000 and the Shuangchuang (dual-innovation) index, with selective allocation to the Value 100 Index for balance. Insurance institutions’ equity exposure (stocks + funds) rose to 15.66% in 2026 Q2, second only to June 2015’s 16.07%."
+    },
+    {
+      "id": "5048097",
+      "time": "2026-08-19 20:55:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和勝股份：2026年半年度淨利潤8827.17萬元，同比增長102.82%】和勝股份公告，2026年半年度營業收入23.81億元，同比增長44.64%；歸屬於上市公司股東的淨利潤8827.17萬元，同比增長102.82%；扣非淨利潤8347.17萬元，同比增長119.24%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048096",
+      "time": "2026-08-19 20:55:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美金融公司坎特允許對沖基金在Kalshi預測市場大舉押注】坎託·菲茨傑拉德（Cantor Fitzgerald）計劃向投資基金開放Kalshi預測市場的交易許可權。 坎託約3000家機構客戶，涵蓋家族辦公室、對沖基金等，將可完整使用Kalshi全套事件類“是/否”二元合約，合約掛鉤天氣、大宗商品、企業業績等主題。 “我們對接過數十家投資者，它們都非常希望參與預測市場交易。”坎託聯席執行長兼全球股票業務主管帕斯卡爾·班德利耶表示。 Kalshi核心做市商為Susquehanna國際集團，該機構將為事件合約提供報價與流動性支援。"
+    },
+    {
+      "id": "5048095",
+      "time": "2026-08-19 20:55:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股期貨短線走高】美股期貨短線走高，納斯達克100指數期貨漲0.6%，標普500指數期貨漲0.6%，道指期貨漲0.6%。"
+    },
+    {
+      "id": "5048094",
+      "time": "2026-08-19 20:55:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商證券： 市場將更加聚焦於業績主線的結構性機會】招商證券釋出研報稱，8月以來由宏微觀流動性改善共振帶來的風險偏好回升和市場系統性修復或已接近尾聲，短期流動性缺少催化疊加中報業績集中披露視窗臨近，市場將更加聚焦於業績主線的結構性機會，風格層面或較8月前半月成長單邊佔優的局面更加均衡輪動，在重點關注中證1000、雙創指數的基礎上，可以區域性配置價值100指數進行平衡。2026Q2保險機構權益倉位（股票+基金）佔比15.66%，僅次於2015年6月的16.07%。"
+    },
+    {
+      "id": "5048093",
+      "time": "2026-08-19 20:55:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長虹美菱：2026年半年度淨利潤5798.26萬元，同比下降86.10%】長虹美菱公告，2026年半年度營業收入161.36億元，同比下降10.71%。歸屬於上市公司股東的淨利潤5798.26萬元，同比下降86.10%。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損896.11萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048092",
+      "time": "2026-08-19 20:54:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茂碩電源：2026年上半年淨利潤虧損3043.66萬元】茂碩電源公告，2026年上半年營業收入6.33億元，同比下降2.99%。淨利潤虧損3043.66萬元，上年同期虧損2252.99萬元。扣非淨利潤虧損3528.11萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048091",
+      "time": "2026-08-19 20:53:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順鈉股份：2026年上半年淨利潤5180.27萬元，同比增長27.93%】順鈉股份公告，2026年上半年營業收入14.25億元，同比增長32.82%。歸屬於上市公司股東的淨利潤5180.27萬元，同比增長27.93%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4413.7萬元，同比增長17.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5048089",
+      "time": "2026-08-19 20:52:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆為科技：公司OCS交換機目前尚無訂單】恆為科技在互動平臺表示，公司OCS交換機目前尚無訂單。"
+    },
+    {
+      "id": "5048088",
+      "time": "2026-08-19 20:52:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4421.64美元/盎司。"
+    },
+    {
+      "id": "5048086",
+      "time": "2026-08-19 20:52:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4480美元/盎司，日內漲1.36%。"
+    },
+    {
+      "id": "5048085",
+      "time": "2026-08-19 20:51:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元日內漲幅擴大至0.5%，現報1.1632。"
+    },
+    {
+      "id": "5048084",
+      "time": "2026-08-19 20:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝投商洛發電二期工程3號機組投運】據中國能建訊息，8月18日，中國能建西北院總承包的陝投商洛發電二期2×660兆瓦工程3號機組順利透過168小時滿負荷試執行，正式投入商業運營，為陝南地區清潔電力供應增添新動能。"
+    },
+    {
+      "id": "5048083",
+      "time": "2026-08-19 20:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔吉特首席財務官：二季度獲得絕大部分關稅退款。"
+    },
     {
       "id": "5048082",
       "time": "2026-08-19 20:49:29",
