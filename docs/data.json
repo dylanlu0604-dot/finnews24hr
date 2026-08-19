@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-19 10:09:34",
-  "count": 15156,
+  "updated": "2026-08-19 10:13:27",
+  "count": 15155,
   "items": [
+    {
+      "id": "5046834",
+      "time": "2026-08-19 10:12:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【紐約大學教授：SpaceX估值過高 只值10至30美元】紐約大學教授兼科技分析師、《紐約時報》的暢銷書作者斯科特·加洛韋（Scott Galloway）最新表示，SpaceX的股票交易價格遠高於其應有的價格，即使從峰值大幅下跌，也未能使其成為一項有吸引力的投資。他在週一釋出的播客節目中表示，SpaceX的股票價值在10美元到30美元之間。截至週二美股收盤，該股收跌1.98%，報143.34美元。加洛韋認為， SpaceX的估值部分是由異常有利的市場機制推動的。最初，SpaceX僅有約4%至5%的股票可供公開交易，供應有限。他還表示，SpaceX被納入納斯達克100指數也刺激了追蹤該指數的基金的需求。他還質疑投資者是否應該將SpaceX主要視為一家火箭和衛星公司。SpaceX上市不到兩週，就發行了250億美元的債券，儘管該公司此前披露的現金及現金等價物高達1008億美元。該公司表示，募集資金將主要用於償還一筆過渡貸款。加洛韋表示，此次債券發行表明投資者正在押注與SpaceX發射業務相關的AI基礎設施，而未來的擴張將越來越依賴於借貸。"
+    },
+    {
+      "id": "5046833",
+      "time": "2026-08-19 10:12:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌3.00%，現報14183.760點；上證指數跌1.61%，現報3926.058點；創業板指跌3.60%，現報3572.347點。"
+    },
+    {
+      "id": "mkt:01a017c9-a2be-7aab-9086-9978848c042c",
+      "time": "2026-08-19 10:11:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs TMT desk: US implied equity vol near five-year low; dealer positive gamma and buybacks dampen volatility】Goldman Sachs TMT trading desk says weekly implied US equity volatility is about 89bp, near a five-year low, with its panic reading at 0.36/10. The desk estimates option market makers hold roughly $15bn of positive-gamma hedges, near the 99th percentile, which biases dealers to sell into rallies and buy into dips and thus mutes short-term moves. It also estimates 96% of S&P 500 firms are in open repurchase windows and announced buyback authorizations exceed $1trln, implying corporate repurchases could absorb selling in summer’s thin liquidity. Macro risks remain—long-end yields are still rising and oil has resumed an uptrend—but derivatives markets are pricing very low near-term volatility. If dealer positive gamma and buybacks persist, US equity short-term volatility may stay suppressed; if those supports weaken, the current ultra-low vol will increase sensitivity to price re-expansion."
+    },
+    {
+      "id": "mkt:01a017c9-9fa2-7aab-9086-93aa4d903796",
+      "time": "2026-08-19 10:11:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year government bond yield fell 2.5 bps to 2.910%."
+    },
+    {
+      "id": "5046832",
+      "time": "2026-08-19 10:11:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本政府債券（JGB）收益率<JP10YTN=JBTC>下跌2.5個基點，至2.910%。"
+    },
+    {
+      "id": "5046831",
+      "time": "2026-08-19 10:09:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微納核芯研發中心落戶武漢未來科技城】近日，微納核芯電子科技有限公司（簡稱“微納核芯”）研發中心落戶武漢未來科技城，圍繞存算一體、近存計算等新型架構開展晶片研發。"
+    },
+    {
+      "id": "5046830",
+      "time": "2026-08-19 10:09:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀾存科技完成數千萬元Pre-A輪股權融資】8月19日，介面新聞獲悉，上海瀾存科技有限公司宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。本輪投後估值達到1.5億元。據悉，本輪資金將重點投入下一代AI具身智慧基座研發、核心人才擴充與產品矩陣升級，加快瀾卡LC-1.7系列標準模組、瀾存智慧平臺（Hardware AI Runtime）及核心技術體系的產業化迭代。"
+    },
+    {
+      "id": "5046829",
+      "time": "2026-08-19 10:09:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美好醫療：公司MT插芯產品尚處於樣品研發階段】美好醫療近日在電話會議中表示，公司MT插芯產品目前尚處於樣品研發階段，按照當前研發計劃，預計於2026年三季度末推出首批樣品。"
+    },
+    {
+      "id": "mkt:01a017c7-d8fd-7aab-9086-8bcff3e0488f",
+      "time": "2026-08-19 10:09:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Sci-Tech Innovation Board 50 Index fell more than 4% as chip stocks slid; Xinyuan Co. down 7.7% and Hua Hong Hongli down 6.7%."
+    },
     {
       "id": "5046828",
       "time": "2026-08-19 10:08:43",
@@ -138792,107 +138882,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4400美元/盎司，日內漲0.74%。"
-    },
-    {
-      "id": "5036690",
-      "time": "2026-08-12 10:13:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Google Gemma 4全球下載量突破3億】從Google I/O上海瞭解到，Google Gemma 4模型下載量已突破 3 億。今年4月，谷歌釋出Gemma 4系列模型，專為高階推理和智慧體(Agentic)工作流而設計。（介面新聞）"
-    },
-    {
-      "id": "5036689",
-      "time": "2026-08-12 10:13:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4460美元/盎司，日內漲0.43%。"
-    },
-    {
-      "id": "mkt:019ff3be-8720-7aab-8ffe-dbc703099bc9",
-      "time": "2026-08-12 10:12:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold touched $4,400/oz intraday, up 0.74%."
-    },
-    {
-      "id": "5036688",
-      "time": "2026-08-12 10:12:49",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【 中金：維持閱文集團(00772)跑贏行業評級 目標價29港元 】 中金髮布研報稱，維持閱文集團(00772)2026/2027年Non-IFRS歸母淨利潤8.50/13.11億元。現價對應2026/2027年21/14倍Non-IFRS市盈率。維持跑贏行業評級和目標價29港元，對應2026/2027年30/19倍Non-IFRS市盈率，較當前股價有39.8%的上行空間。"
-    },
-    {
-      "id": "5036687",
-      "time": "2026-08-12 10:12:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲5.9%，報253500韓元。"
-    },
-    {
-      "id": "mkt:019ff3bd-f3d6-7aab-8ffe-d72f0a9f81ce",
-      "time": "2026-08-12 10:12:19",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-share lithium-mining names jumped intraday; Yongshan Lithium hit the daily limit, while Shengxin Lithium Energy, Tianhua New Energy, Guocheng Mining, Dazhong Mining and Rongjie Shares also rose."
-    },
-    {
-      "id": "5036686",
-      "time": "2026-08-12 10:11:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【 瑞銀：下調中國鐵塔(00788)目標價至10港元 維持“中性”評級 】 瑞銀髮布研報稱，下調中國鐵塔(00788)目標價14%，從11.6港元降至10港元，維持“中性”評級。該行下調對該公司2026-2028年淨利潤和每股盈利預期10-14%，主要原因是電信業者最佳化移動網路導致鐵塔收入下降。根據該行新的盈利預測和77%派息比率，中國鐵塔目前的2026年預期股息率為6%，這應能為其估值提供支撐。"
-    },
-    {
-      "id": "mkt:019ff3bc-ebaf-7aab-8ffe-cadcf81b3b67",
-      "time": "2026-08-12 10:11:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share semiconductor materials sector rose; Oulai New Material jumped over 10%, while Youyan New Material, Xiandao Jidian, Kema Technology, Zhenbao Technology and Youyan Silicon also advanced."
-    },
-    {
-      "id": "5036685",
-      "time": "2026-08-12 10:10:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【半導體材料板塊走高，歐萊新材漲超10%】半導體材料板塊走高，歐萊新材漲超10%，有研新材、先導基電、珂瑪科技、臻寶科技、有研矽等跟漲。"
-    },
-    {
-      "id": "5036684",
-      "time": "2026-08-12 10:10:41",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【摩根大通上調新加坡海峽時報指數目標位至6500點】摩根大通上調新加坡海峽時報指數目標位至 6500點，稱“恰到好處”的經濟狀況將推動盈利增長，並賦予當局更大的財政靈活性。“我們認為，適宜的經濟環境應繼續支撐每股收益增長，併為財政騰出空間，”摩根大通分析師表示。“儘管估值已突破平均水平，但我們認為，隨著新加坡海峽時報指數在高收益率和貨幣穩定的推動下重新定價，向其他發達市場靠攏，這一水平將得以維持。”摩根大通還將新加坡海峽時報指數多空情景目標位分別上調至7000點/5000點。"
     }
   ]
 }
