@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-20 03:50:41",
-  "count": 15678,
+  "updated": "2026-08-20 03:54:29",
+  "count": 15679,
   "items": [
+    {
+      "id": "mkt:01a01b94-69ae-7aab-90a1-cb92eb49396f",
+      "time": "2026-08-20 03:51:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Netanyahu warns Turkey against expanding military deployment in Syria】Israeli Prime Minister Netanyahu said in an interview on the 19th that Israel will not tolerate Turkey expanding military deployments in Syria, particularly any extension of Turkish forces into southern Syria that would \"pose a threat\" to Israel. He said Israel has issued a clear warning to Turkey and added, \"The message has been conveyed, but apparently they did not listen, so we will make sure they understand it better.\""
+    },
+    {
+      "id": "5048569",
+      "time": "2026-08-20 03:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡警告土耳其勿在敘利亞擴大軍事部署】以色列總理內塔尼亞胡19日在接受採訪時表示，以色列不會容忍土耳其在敘利亞擴大軍事部署，特別是相關軍事力量向敘南部延伸並對以色列“構成威脅”。內塔尼亞胡說，以方已就此向土耳其發出明確警告。他說：“這一資訊已經傳達，但顯然他們沒有聽進去，所以我們確保他們更好地理解這一點。”（新華社）"
+    },
     {
       "id": "5048567",
       "time": "2026-08-20 03:49:09",
@@ -143645,14 +143664,6 @@
         "Brent"
       ],
       "text": "【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's \"Persian Gulf Strait Authority\" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran."
-    },
-    {
-      "id": "5038100",
-      "time": "2026-08-13 03:52:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。"
     }
   ]
 }

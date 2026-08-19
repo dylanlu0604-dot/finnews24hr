@@ -1,7 +1,26 @@
 {
   "date": "2026-08-20",
-  "count": 331,
+  "count": 333,
   "items": [
+    {
+      "id": "mkt:01a01b94-69ae-7aab-90a1-cb92eb49396f",
+      "time": "2026-08-20 03:51:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Netanyahu warns Turkey against expanding military deployment in Syria】Israeli Prime Minister Netanyahu said in an interview on the 19th that Israel will not tolerate Turkey expanding military deployments in Syria, particularly any extension of Turkish forces into southern Syria that would \"pose a threat\" to Israel. He said Israel has issued a clear warning to Turkey and added, \"The message has been conveyed, but apparently they did not listen, so we will make sure they understand it better.\""
+    },
+    {
+      "id": "5048569",
+      "time": "2026-08-20 03:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡警告土耳其勿在敘利亞擴大軍事部署】以色列總理內塔尼亞胡19日在接受採訪時表示，以色列不會容忍土耳其在敘利亞擴大軍事部署，特別是相關軍事力量向敘南部延伸並對以色列“構成威脅”。內塔尼亞胡說，以方已就此向土耳其發出明確警告。他說：“這一資訊已經傳達，但顯然他們沒有聽進去，所以我們確保他們更好地理解這一點。”（新華社）"
+    },
     {
       "id": "5048567",
       "time": "2026-08-20 03:49:09",
