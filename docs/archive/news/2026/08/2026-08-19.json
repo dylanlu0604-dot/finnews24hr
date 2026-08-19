@@ -1,7 +1,498 @@
 {
   "date": "2026-08-19",
-  "count": 2952,
+  "count": 3005,
   "items": [
+    {
+      "id": "5048343",
+      "time": "2026-08-19 23:09:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Scotts Miracle-Gro漲超6%。"
+    },
+    {
+      "id": "mkt:01a01a91-c126-7aab-909b-df7a7cbd9351",
+      "time": "2026-08-19 23:09:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "SMG.O",
+        "Impact bullish"
+      ],
+      "text": "Scotts Miracle-Gro shares jump more than 6% after Trump called it 'a great company'."
+    },
+    {
+      "id": "5048342",
+      "time": "2026-08-19 23:08:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：斯科茨奇蹟格羅公司是一家優秀企業。"
+    },
+    {
+      "id": "5048341",
+      "time": "2026-08-19 23:08:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同韓國外長趙顯會談】中共中央政治局委員、外交部長王毅19日在首爾同韓國外長趙顯舉行會談。王毅表示，中韓經貿合作基礎很好，已成為深度融合的利益共同體。中國超大市場為韓國提供“近水樓臺先得月”的巨大機遇。希望雙方不斷做大合作蛋糕，推動傳統產能合作向高附加值合作升級，挖掘人工智慧、綠色轉型、數字經濟、高階裝置、銀髮經濟等新的合作增長點，加快推進中韓自貿協定第二階段談判，深化互利共贏格局。繼續辦好青少年、媒體、體育、智庫、地方等領域交流，不斷改善兩國民意基礎。加強在國際和地區事務中的協調配合，維護地區和平穩定，推動構建更加公正合理的全球治理體系。中方願以今年主辦亞太經合組織領導人非正式會議為契機，同包括韓國在內的各方攜手構建亞太共同體，向國際社會發出積極訊號，為亞太乃至世界和平與發展注入新動力。（新華社）"
+    },
+    {
+      "id": "mkt:01a01a90-c04d-7aab-909b-d1e8c6d479d9",
+      "time": "2026-08-19 23:08:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China foreign minister Wang Yi meets South Korean foreign minister Zhao Xian】China foreign minister Wang Yi met South Korean foreign minister Zhao Xian in Seoul on the 19th. Wang said China–South Korea economic ties are deep and China’s large market gives Korean firms a proximity advantage. He urged expanding and upgrading cooperation toward higher value‑added sectors, highlighting AI, green transition, digital economy, high‑end equipment and the silver economy as new growth areas, and called for accelerated second‑phase negotiations of the China–South Korea free trade agreement. Wang also pushed for closer coordination on regional and international issues to preserve regional stability and promote a fairer global governance framework, and said China will use this year’s informal APEC leaders’ meeting to work with partners including South Korea to build an Asia‑Pacific community."
+    },
+    {
+      "id": "mkt:01a01a90-5597-7aab-909b-c8eac08a0af2",
+      "time": "2026-08-19 23:07:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TASS reports Russian Deputy Prime Minister Novak said Russia has begun importing fuel."
+    },
+    {
+      "id": "5048340",
+      "time": "2026-08-19 23:07:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯已開始進口燃料。"
+    },
+    {
+      "id": "mkt:01a01a90-239b-7aab-909b-c6f32bf945c1",
+      "time": "2026-08-19 23:07:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "SMG.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Scotts Miracle-Gro Co is a great company."
+    },
+    {
+      "id": "te:markets:576549",
+      "time": "2026-08-19 23:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "US Natgas Prices Rise to Over 3-Week High — US natural gas prices climbed above $2.80 per million British thermal units, reaching their highest level since July 24, as forecasts pointed to hotter weather across much of the country. Short-term temperature outlooks have turned more bullish, with Houston temperatures expected to average around 100°F (38°C) from August 20 to 23. Also, warmer-than-normal conditions are forecast through early September. However, abundant supply remains a key constraint on further gains. Lower-48 production averaged around 111.5 billion cubic feet per day so far in August, above July’s monthly record of 110.7 bcfd. Robust output and relatively mild spring weather have kept inventories above the five-year average since March, despite persistent summer heat. Meanwhile, gas flows to the nine major US LNG export facilities averaged 17.2 bcfd in August, unchanged from July and just below June’s record."
+    },
+    {
+      "id": "mkt:01a01a8f-d693-7aab-909b-be8b9e5b51c3",
+      "time": "2026-08-19 23:07:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "TASS reports several Russian refineries are nearing completion of maintenance."
+    },
+    {
+      "id": "5048339",
+      "time": "2026-08-19 23:06:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破2000美元，日內漲4.75%。"
+    },
+    {
+      "id": "5048338",
+      "time": "2026-08-19 23:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱多家煉油廠將很快完成維修工作。"
+    },
+    {
+      "id": "mkt:01a01a8f-8adc-7aab-909b-b777738fec6f",
+      "time": "2026-08-19 23:06:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said Brazil needs a mutually respectful dialogue with the United States."
+    },
+    {
+      "id": "te:markets:576548",
+      "time": "2026-08-19 23:06:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises to Over2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated Treasuries after the US Treasuries announced it would double the buyback of notes and bonds in the upcoming financial quarter. The Treasury Department stated it would raise its buyback limit to $4 billion on the quarter to November, another effort to contain soaring yields in the long-term of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, the Fed is due to release minutes from the Fed's last meeting. The resulting decision was of a rate hold, although three FOMC members dissented on the hawkish side."
+    },
+    {
+      "id": "5048337",
+      "time": "2026-08-19 23:04:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：俄烏黑海糧食出口實際上已陷入停滯。"
+    },
+    {
+      "id": "mkt:01a01a8c-a57b-7aab-909b-a9a308b235b3",
+      "time": "2026-08-19 23:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Texas grid operator ERCOT said it will issue an emergency notice of an extreme weather event from Thursday through next Tuesday as extreme heat is forecast across north-central and south-central Texas."
+    },
+    {
+      "id": "mkt:01a01a8b-4fce-7aab-909b-a64ecacf12d4",
+      "time": "2026-08-19 23:02:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Poland's Ministry of Finance said after Wednesday's bond auction the government has covered roughly 73% of its total 2026 financing needs."
+    },
+    {
+      "id": "5048335",
+      "time": "2026-08-19 23:01:56",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭財政部表示，在週三的國債拍賣結束後，波蘭已完成2026年總融資需求約73%的資金籌集。"
+    },
+    {
+      "id": "mkt:01a01a8a-25dc-7aab-909b-99f2100e1b36",
+      "time": "2026-08-19 23:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Energy"
+      ],
+      "text": "As of 23:00 local close, China’s main onshore futures front-month contracts were mostly higher. Ethylene glycol (EG) rose over 4%, fuel oil gained more than 3%, rapeseed oil climbed over 2%; asphalt, coke, soda ash, 20‑grade rubber, synthetic rubber and propylene were up over 1%. On the downside, PTA and iron ore fell over 1%, while paraxylene slipped about 1%."
+    },
+    {
+      "id": "5048334",
+      "time": "2026-08-19 23:00:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破66000美元，日內漲1.97%。"
+    },
+    {
+      "id": "mkt:01a01a89-c94e-7aab-909b-92eef1919742",
+      "time": "2026-08-19 23:00:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) now offers its Alexa+ service free on compatible Fire TV devices."
+    },
+    {
+      "id": "te:markets:576547",
+      "time": "2026-08-19 23:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 1.83% — Top currency gainers are South Korean Won (1.83%), Swiss Franc (1.34%), Polish Zloty (0.89%), Japanese Yen (0.80%), Euro (0.75%) and British Pound (0.57%). Biggest loser is Dollar Index (-0.75%)."
+    },
+    {
+      "id": "5048333",
+      "time": "2026-08-19 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續漲4.12%，菜油連續漲2.21%，瀝青連續漲1.65%，焦炭連續漲1.51%，純鹼連續漲1.27%。"
+    },
+    {
+      "id": "5048332",
+      "time": "2026-08-19 22:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "CVC 亞洲投資韓國美妝產品經銷商 Silicon2。"
+    },
+    {
+      "id": "5048331",
+      "time": "2026-08-19 22:59:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊軍高官：伊朗對敵戰略可能轉守為攻】在一條8月19日釋出的採訪影片中，伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪表示，這場戰爭表明美國和以色列比想象中“弱得多”。納格迪稱，此前伊朗一直堅持防禦性戰略，敵人才敢一再發動攻擊，或許伊朗應採取進攻策略，以實現對美國和以色列更高階別的威懾，迫使敵人撤退並剝奪其發動新攻擊的勇氣。（央視新聞）"
+    },
+    {
+      "id": "5048330",
+      "time": "2026-08-19 22:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海首票海鐵中轉多式聯運落地，實現“一箱到底”】日前，一批裝載服裝、小家電等出口貨物的集裝箱，搭乘鐵路班列自廣州運抵上海蘆潮港鐵路集裝箱中心站後，“無縫銜接”公路運輸並流轉至上海外高橋港區碼頭，直接登船出海。這標誌著上海海關首票“海鐵中轉多式聯運”海關監管新模式順利落地。與傳統海鐵聯運不同，新模式精簡了多次申報、分段辦理流程。上海海關運用數智監管手段，搭建安全智慧鎖在途監管體系，打通鐵路監管場站、海關監管平臺、碼頭作業平臺的資料鏈路。據介紹，出口企業只需在啟運地海關一次性提交多式聯運申請單，便可完成途中運輸全流程的線上申報，並一站式辦結報關、查驗手續，實現“啟運即放行”。全程無需開箱、無需重複辦理通關手續，“零延時、零等待”，實現“一箱到底”。（央視新聞）"
+    },
+    {
+      "id": "5048329",
+      "time": "2026-08-19 22:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：正在建設一座由西科斯基（美國直升機製造商）捐贈的白宮直升機停機坪。"
+    },
+    {
+      "id": "mkt:01a01a87-ec65-7aab-909b-8af6aa7f5af9",
+      "time": "2026-08-19 22:58:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said a White House helipad donated by Sikorsky, the US helicopter maker, is being built."
+    },
+    {
+      "id": "mkt:01a01a87-51f4-7aab-909b-808822e5edd7",
+      "time": "2026-08-19 22:57:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kim Yo-jong says Zelenskiy claim of North Korean troop deployment to Russia is baseless】KCNA on the 19th reported Kim Yo-jong said Zelenskiy's allegation that North Korea is sending troops to Russia to fight is baseless and a Kyiv \"self-made drama\"."
+    },
+    {
+      "id": "mkt:01a01a87-42f6-7aab-909b-7ce76c514002",
+      "time": "2026-08-19 22:57:47",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "RBC raised its price target for Moderna (MRNA.O) to $130 from $45."
+    },
+    {
+      "id": "mkt:01a01a86-dbd8-7aab-909b-72be71698b7f",
+      "time": "2026-08-19 22:57:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A minister said Turkey and Syria signed a memorandum of understanding on mining and energy cooperation."
+    },
+    {
+      "id": "5048328",
+      "time": "2026-08-19 22:57:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其部長：土耳其與敘利亞簽署礦業及能源合作諒解備忘錄。"
+    },
+    {
+      "id": "te:markets:576546",
+      "time": "2026-08-19 22:55:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of Montreal Stock Price Hits 6-week Low — Bank Of Montreal shares decreased to 245.95 CAD, the lowest since July 2026. Over the past 4 weeks, Bank Of Montreal lost 1.64%, and in the last 12 months, it increased 57.36%."
+    },
+    {
+      "id": "te:economy:576545",
+      "time": "2026-08-19 22:55:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Ecuador Trade Surplus Narrows Sharply in June — Ecuador’s trade surplus narrowed to $21.29 million in June 2026 from $564 million a year earlier. Exports declined 1.34% year-on-year to $3.28 billion, as non-oil exports fell 2.87%. Sales of traditional products declined 10.5%, led by cocoa and cocoa products (-49.7%), coffee and coffee products (-10.9%), tuna and fish (-21.4%), and bananas and plantains (-1%). In contrast, imports grew 18% to $3.26 billion. Purchases of consumer goods increased 13%, driven by a 43.3% rise in durable goods and a 4.6% increase in non-durable goods. Imports of fuels and lubricants rose 37.3%. Imports of raw materials increased 12.2%, led by industrial materials (+17.4%) and construction materials (+8.3%). Imports of capital goods rose 11.3%, with transport equipment up 16.2%, agricultural goods up 13.5% and industrial goods up 9%. Ecuador recorded a $2.34 billion trade surplus in the first half of 2026, down 44% from the same period of 2025."
+    },
+    {
+      "id": "5048327",
+      "time": "2026-08-19 22:55:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部長：我們繼續致力於緩和局勢、防止緊張局勢再度升級，並重申外交與對話始終是我們的優先事項。"
+    },
+    {
+      "id": "5048326",
+      "time": "2026-08-19 22:54:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：打擊一個烏克蘭武裝部隊儲備的軍需物資倉庫。"
+    },
+    {
+      "id": "5048325",
+      "time": "2026-08-19 22:53:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中非共和國一金礦發生滑坡 逾百人遇難】據喀麥隆國家廣播電臺19日報道，中非共和國西部邊境地區一金礦18日發生滑坡，初步統計顯示有超過百人遇難。（新華社）"
+    },
+    {
+      "id": "mkt:01a01a83-9073-7aab-909b-6e4c65c0f3c9",
+      "time": "2026-08-19 22:53:44",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "DAX"
+      ],
+      "text": "Politico reports the EU is pushing to relax state-aid rules to allow subsidies for small media outlets."
+    },
+    {
+      "id": "5048324",
+      "time": "2026-08-19 22:53:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部長：我們強調保護航運、確保霍爾木茲海峽、曼德海峽以及所有國際航道暢通安全的重要性。"
+    },
+    {
+      "id": "te:economy:576544",
+      "time": "2026-08-19 22:53:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Oil Inventories Rise for 3rd Week — US crude inventories rose by 4.405 million barrels to 428.8 million barrels in the week ended August 14, marking a third consecutive weekly increase. Crude stocks at the Cushing, Oklahoma, delivery hub fell by 1.314 million barrels in the week. Refinery crude runs rose by 216,000 barrels per day. Meanwhile, US gasoline stocks rose by 0.688 million barrels in the week to 209.4 million barrels. Distillate stockpiles, which include diesel and heating oil, fell by 1.53 million barrels to 105.6 million barrels. Net US crude imports fell by 1.754 million barrels per day."
+    },
+    {
+      "id": "5048323",
+      "time": "2026-08-19 22:52:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇索普：定增A股股票申請獲上交所受理】江蘇索普公告稱，公司於2026年8月19日收到上海證券交易所出具的通知，上交所對公司報送的滬市主機板上市公司發行證券的募集說明書及相關申請檔案進行核對後，認為申請檔案齊備、符合法定形式，決定受理公司向特定物件發行A股股票的申請並依法進行稽核。本次定增事項尚需經上交所稽核透過，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。"
+    },
+    {
+      "id": "5048322",
+      "time": "2026-08-19 22:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱，KME將委託貝倫貝格銀行和義大利聯合信貸銀行協助其CUNOVA部門的IPO。"
+    },
+    {
+      "id": "5048321",
+      "time": "2026-08-19 22:51:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "傑克亨利公司股價上漲10.3%，此前第四季度盈利超預期。"
+    },
+    {
+      "id": "5048320",
+      "time": "2026-08-19 22:51:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報5453.00元。"
+    },
+    {
+      "id": "mkt:01a01a81-07e3-7aab-909b-602cbe007c84",
+      "time": "2026-08-19 22:50:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to Interfax, Russia said it struck a merchant vessel at Ukraine's Chornomorsk port."
+    },
+    {
+      "id": "5048319",
+      "time": "2026-08-19 22:50:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱擊中停靠在烏克蘭切爾諾莫斯克港的一艘貨船。"
+    },
+    {
+      "id": "5048318",
+      "time": "2026-08-19 22:50:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【埃安Ray7全球首搭華為DriveONE晶片級驅制融合架構】8月19日，廣汽埃安全新車系Ray首款車型Ray7正式亮相，埃安還與華為簽約深化技術合作。Ray7定位中大型純電轎車，全球首搭華為DriveONE晶片級驅制融合架構及EMB全電線控制動系統，100km/h剎停距離33米。"
+    },
+    {
+      "id": "5048317",
+      "time": "2026-08-19 22:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【金與正：烏克蘭關於朝鮮增兵說法毫無根據】朝鮮勞動黨中央委員會部長金與正當天說，烏克蘭總統澤連斯基關於朝鮮向俄羅斯增兵參戰的說法毫無根據，完全是基輔的“自制劇”。（新華社）"
+    },
+    {
+      "id": "5048316",
+      "time": "2026-08-19 22:49:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相強調國際社會有必要向以色列施壓，促使其根據協議履行各項義務。"
+    },
+    {
+      "id": "5048315",
+      "time": "2026-08-19 22:49:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家文物區域性署立即開展博物館陳列展覽內容核查整改】近期，個別博物館展覽出現文字錯誤、表述不當等問題，引發社會高度關注。國家文物局19日發出通知，部署全面加強博物館陳列展覽內容稽核工作。通知提出，各省級文物行政部門要迅速行動，立即組織開展本轄區博物館陳列展覽內容專項核查整改工作，堅持即知即改、立行立改原則，確保問題動態清零。 根據通知，核查物件及範圍為：本轄區內所有已備案博物館的基本陳列、常設展覽及臨時展覽內容，以及各類導覽標識、通知公告、提示提醒等公眾服務資訊。核查重點為：博物館陳列展覽內容稽核制度建設及執行情況；是否存在展覽文字語句邏輯不嚴、錯字漏字、標點誤用等問題；是否存在展品基本資訊偏差、年代紀年標註失準、資料圖表引用錯誤等問題；地圖、歷史地圖、區域示意圖的繪製、標註、圖例是否規範；是否存在關於重大歷史事件、革命運動、著名人物，以及涉及民族、宗教、邊疆等內容表述不準確或導向不當等問題。 通知強調，各博物館應對在本館舉辦或以本館名義舉辦的陳列展覽的內容進行認真稽核，嚴格落實意識形態工作責任制，明確陳列展覽各環節責任主體，確保責任到人。展覽負責人應定期巡查展廳，發現展覽內容問題即時整改。展覽負責人核實陳列展覽內容確有錯誤的，應在當日內完成更正並做出反饋。（新華社）"
+    },
+    {
+      "id": "mkt:01a01a7e-b71e-7aab-909b-5cfe6187f909",
+      "time": "2026-08-19 22:48:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian trade ministers LeBlanc and Charette will meet U.S. Trade Representative Greer in Washington at 11:15 a.m. local time today (23:15 Beijing time)."
+    },
+    {
+      "id": "5048314",
+      "time": "2026-08-19 22:48:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "易慕峰生物重新遞交香港 IPO 申請。"
+    },
+    {
+      "id": "5048313",
+      "time": "2026-08-19 22:47:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "托爾兄弟股價上漲7.4%，KB Home上漲5.8%，霍頓公司上漲5.6%，帕爾迪集團上漲5.5%，萊納公司上漲5%。"
+    },
     {
       "id": "5048312",
       "time": "2026-08-19 22:47:21",
