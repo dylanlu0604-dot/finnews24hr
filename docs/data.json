@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-19 23:46:12",
+  "updated": "2026-08-19 23:50:06",
   "count": 15489,
   "items": [
+    {
+      "id": "mkt:01a01ab6-9bab-7aab-909c-f286410f4346",
+      "time": "2026-08-19 23:49:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's U.S.-Canada trade minister LeBlanc said Ottawa has maintained a tough stance on the dairy supply-management system."
+    },
+    {
+      "id": "mkt:01a01ab6-04ce-7aab-909c-ee8d75dd150f",
+      "time": "2026-08-19 23:48:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister responsible for US-Canada trade said the agreement will leave the agricultural supply management system unchanged."
+    },
+    {
+      "id": "5048383",
+      "time": "2026-08-19 23:48:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "負責對美貿易事務的加拿大部長表示，該協議將保留原有的農業供應管理體系不變。"
+    },
+    {
+      "id": "te:markets:576567",
+      "time": "2026-08-19 23:48:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CIBC Stock Price Hits 5-week Low — CIBC shares decreased to 162.76 CAD, the lowest since July 2026. Over the past 4 weeks, CIBC lost 1.59%, and in the last 12 months, it increased 60.53%."
+    },
+    {
+      "id": "5048382",
+      "time": "2026-08-19 23:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首次實現火箭陸地回收有何重要意義？專家解讀：中國航天發射的成本有望降低70%以上】央視新聞晚間釋出《我國首次實現火箭陸地回收有何重要意義？專家解讀》一文，文章引用北京航空航天大學航空專家王亞男的話提到，朱雀三號遙二運載火箭首次成功完成著陸腿陸上可控一子級回收。這次發射對於中國航天意義重大。這意味著中國航天發射的成本有望降低70%以上。在短短一個多月的時間裡，中國的火箭回收技術在兩個方向上分別實現了突破，分別是海上的網系回收和陸上的著陸腿緩衝回收。更深層次的意義在於兩個方面，中國未來大規模的空間設施的建設，需要火箭能夠以低成本、高效率的方式運作。這些技術的突破，為中國大規模空間設施的建設提供了能力保障。另外一方面，在未來全球的商業航天發射市場上，隨著中國火箭可回收技術以及重複使用技術的相繼突破和發展，中國航天將在未來的商業航天市場上獲得長足的競爭力。"
+    },
+    {
+      "id": "5048381",
+      "time": "2026-08-19 23:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "比特幣暴漲至69000美元，60分鐘內11億美元加密貨幣空頭頭寸遭爆倉。"
+    },
     {
       "id": "mkt:01a01ab1-41eb-7aab-909c-e4bf7527c711",
       "time": "2026-08-19 23:43:39",
@@ -141668,62 +141720,6 @@
         "其他"
       ],
       "text": "【DeepSeek官網API文件新增“DeepSeek-V4-Pro-0813”模型】DeepSeek官網“API 文件”上的“模型 & 價格”頁面中，模型版本新增了DeepSeek-V4-Pro-0813，其支援非思考與思考模式。不過，官方尚未釋出 DeepSeek-V4-Pro-0813 的更新日誌。"
-    },
-    {
-      "id": "5038021",
-      "time": "2026-08-12 23:49:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "貿易商 SUCAFINA ：哥倫比亞布埃納文圖拉港因開展基礎設施評估，咖啡出口業務暫停。該公司正在評估備選運輸路線及物流方案，“儘可能維持咖啡貨運的連續性”。"
-    },
-    {
-      "id": "5038020",
-      "time": "2026-08-12 23:49:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "GOOGLE：推出 Google Pixel Tag， 產品將於 11 月 11 日上市，使用者可按 29 美元購買，或以 99 美元購入 4‑pack 套裝。"
-    },
-    {
-      "id": "mkt:019ff6a9-0eff-7aab-9010-f2fb7f4e9dee",
-      "time": "2026-08-12 23:48:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google launches Pixel Tag."
-    },
-    {
-      "id": "mkt:019ff6a8-f160-7aab-9010-ecf6074d95f7",
-      "time": "2026-08-12 23:48:14",
-      "tags": [
-        "MKT News",
-        "BlueMoonMetals",
-        "Impact bearish"
-      ],
-      "text": "Short-seller Viceroy Research says it is shorting Blue Moon Metals; the stock is down 8%."
-    },
-    {
-      "id": "mkt:019ff6a8-18ef-7aab-9010-e4d0840b61a3",
-      "time": "2026-08-12 23:47:19",
-      "tags": [
-        "MKT News",
-        "BX.N",
-        "Impact bearish"
-      ],
-      "text": "Blackstone is considering terminating a $3 billion equity-for-cash deal."
-    },
-    {
-      "id": "5038019",
-      "time": "2026-08-12 23:46:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟商品貿易商 SUCAFINA 稱，受地震影響，哥倫比亞大部分產區的咖啡運輸 “嚴重受阻”。"
     }
   ]
 }
