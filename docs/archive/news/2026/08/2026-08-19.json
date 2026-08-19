@@ -1,7 +1,104 @@
 {
   "date": "2026-08-19",
-  "count": 1202,
+  "count": 1213,
   "items": [
+    {
+      "id": "5047098",
+      "time": "2026-08-19 14:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將於9月起重新審視加班時間上限。"
+    },
+    {
+      "id": "5047097",
+      "time": "2026-08-19 14:03:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國足協：對韓媒報道韓國足協“不當招待”中國足協工作人員一事展開調查】近日，有韓國媒體報道，2012年1月韓國足協曾“不當招待”赴韓進行裁判交流的3名中國足協工作人員，引發國內輿論關注。中國足球協會對此高度重視，已對相關情況展開調查，並將及時對外公佈調查結果，回應社會關切。"
+    },
+    {
+      "id": "mkt:01a0189e-192b-7aab-908b-e5ee83b67b06",
+      "time": "2026-08-19 14:03:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran and Iraq are taking significant steps toward self-reliant security and shared prosperity."
+    },
+    {
+      "id": "mkt:01a0189d-9e34-7aab-908b-dad527cd2ad6",
+      "time": "2026-08-19 14:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEBI chairman said the regulator is reviewing delisting regulations and rules for small-company IPOs."
+    },
+    {
+      "id": "5047096",
+      "time": "2026-08-19 14:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【齊安科技完成億級C輪融資】近日，浙江齊安資訊科技有限公司宣佈完成億級C輪戰略融資。本輪融資由鄂州臨空產業發展基金獨家投資，資金將用於齊安科技華中總部及低空經濟中心建設。"
+    },
+    {
+      "id": "mkt:01a0189c-e666-7aab-908b-d16e1af41a20",
+      "time": "2026-08-19 14:02:10",
+      "tags": [
+        "MKT News",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC CoWoS capacity oversubscribed】Reportedly TSMC’s advanced-packaging CoWoS capacity is oversubscribed and orders are fully booked. Some back-end advanced-packaging orders have spilled to an Intel-owned Malaysia plant under partial capacity-sharing to serve common major customers, breaking prior ecosystem norms. Market participants say the overflow should free front-end advanced-node capacity and accelerate TSMC node shipments. Suppliers overlapping both players’ chains — including ASE Technology Holding, substrate leader Unimicron Technology and other packaging groups — are expected to benefit. Industry sources on Aug. 18 said the global advanced-packaging bottleneck is that back-end ramp rates lag front-end output; more back-end suppliers joining capacity would help speed front-end deliveries."
+    },
+    {
+      "id": "mkt:01a0189c-c24a-7aab-908b-ced776802b42",
+      "time": "2026-08-19 14:02:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "SSE 50 index futures (IH) most-active contract fell over 2.00% intraday to 2,848.2 points."
+    },
+    {
+      "id": "5047095",
+      "time": "2026-08-19 14:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會主席：目前正在審議針對小型企業首次公開募股的退市監管規定與規則。"
+    },
+    {
+      "id": "5047094",
+      "time": "2026-08-19 14:01:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.18%，德國DAX指數期貨下跌0.16%，法國CAC 40指數期貨下跌0.12%，英國富時指數期貨下跌0.17%。"
+    },
+    {
+      "id": "5047093",
+      "time": "2026-08-19 14:01:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本核電站因事故或將推遲重啟】北海道電力公司表示，週二晚間，一名工人在泊核電站3號機組作業時，不慎跌入一個用於建造海堤的礫石筒倉內身亡。據報道，該公司此前計劃於2027年12月中旬重啟該反應堆。北海道電力公司在7月份表示，正在考慮泊核電站重啟的各種方案。北海道電力公司發言人稱，公司將在事故調查結束後“重新考慮重啟日期”。泊核電站是日本北海道島上唯一的核電站。"
+    },
+    {
+      "id": "mkt:01a0189c-2e96-7aab-908b-c7fd44f8b98a",
+      "time": "2026-08-19 14:01:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tomari nuclear restart may be delayed after fatal accident】Hokkaido Electric Power Co. said a worker died Tuesday night after falling into a gravel silo used to build a seawall while working on Unit 3 at the Tomari nuclear plant, the Hokkaido Shimbun reported. The company had planned to restart Unit 3 in mid‑December 2027. Hokkaido Electric said in July it was considering various restart scenarios; a company spokesman said it will \"reconsider the restart date\" after the accident investigation concludes. Tomari is Hokkaido’s only nuclear power station."
+    },
     {
       "id": "mkt:01a0189c-0820-7aab-908b-ba1155d4ea39",
       "time": "2026-08-19 14:01:13",

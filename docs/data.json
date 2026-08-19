@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-19 14:01:48",
-  "count": 15275,
+  "updated": "2026-08-19 14:05:40",
+  "count": 15280,
   "items": [
+    {
+      "id": "5047098",
+      "time": "2026-08-19 14:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將於9月起重新審視加班時間上限。"
+    },
+    {
+      "id": "5047097",
+      "time": "2026-08-19 14:03:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國足協：對韓媒報道韓國足協“不當招待”中國足協工作人員一事展開調查】近日，有韓國媒體報道，2012年1月韓國足協曾“不當招待”赴韓進行裁判交流的3名中國足協工作人員，引發國內輿論關注。中國足球協會對此高度重視，已對相關情況展開調查，並將及時對外公佈調查結果，回應社會關切。"
+    },
+    {
+      "id": "mkt:01a0189e-192b-7aab-908b-e5ee83b67b06",
+      "time": "2026-08-19 14:03:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran and Iraq are taking significant steps toward self-reliant security and shared prosperity."
+    },
+    {
+      "id": "mkt:01a0189d-9e34-7aab-908b-dad527cd2ad6",
+      "time": "2026-08-19 14:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEBI chairman said the regulator is reviewing delisting regulations and rules for small-company IPOs."
+    },
+    {
+      "id": "5047096",
+      "time": "2026-08-19 14:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【齊安科技完成億級C輪融資】近日，浙江齊安資訊科技有限公司宣佈完成億級C輪戰略融資。本輪融資由鄂州臨空產業發展基金獨家投資，資金將用於齊安科技華中總部及低空經濟中心建設。"
+    },
+    {
+      "id": "mkt:01a0189c-e666-7aab-908b-d16e1af41a20",
+      "time": "2026-08-19 14:02:10",
+      "tags": [
+        "MKT News",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC CoWoS capacity oversubscribed】Reportedly TSMC’s advanced-packaging CoWoS capacity is oversubscribed and orders are fully booked. Some back-end advanced-packaging orders have spilled to an Intel-owned Malaysia plant under partial capacity-sharing to serve common major customers, breaking prior ecosystem norms. Market participants say the overflow should free front-end advanced-node capacity and accelerate TSMC node shipments. Suppliers overlapping both players’ chains — including ASE Technology Holding, substrate leader Unimicron Technology and other packaging groups — are expected to benefit. Industry sources on Aug. 18 said the global advanced-packaging bottleneck is that back-end ramp rates lag front-end output; more back-end suppliers joining capacity would help speed front-end deliveries."
+    },
+    {
+      "id": "mkt:01a0189c-c24a-7aab-908b-ced776802b42",
+      "time": "2026-08-19 14:02:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "SSE 50 index futures (IH) most-active contract fell over 2.00% intraday to 2,848.2 points."
+    },
+    {
+      "id": "5047095",
+      "time": "2026-08-19 14:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會主席：目前正在審議針對小型企業首次公開募股的退市監管規定與規則。"
+    },
+    {
+      "id": "5047094",
+      "time": "2026-08-19 14:01:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.18%，德國DAX指數期貨下跌0.16%，法國CAC 40指數期貨下跌0.12%，英國富時指數期貨下跌0.17%。"
+    },
+    {
+      "id": "5047093",
+      "time": "2026-08-19 14:01:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本核電站因事故或將推遲重啟】北海道電力公司表示，週二晚間，一名工人在泊核電站3號機組作業時，不慎跌入一個用於建造海堤的礫石筒倉內身亡。據報道，該公司此前計劃於2027年12月中旬重啟該反應堆。北海道電力公司在7月份表示，正在考慮泊核電站重啟的各種方案。北海道電力公司發言人稱，公司將在事故調查結束後“重新考慮重啟日期”。泊核電站是日本北海道島上唯一的核電站。"
+    },
+    {
+      "id": "mkt:01a0189c-2e96-7aab-908b-c7fd44f8b98a",
+      "time": "2026-08-19 14:01:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tomari nuclear restart may be delayed after fatal accident】Hokkaido Electric Power Co. said a worker died Tuesday night after falling into a gravel silo used to build a seawall while working on Unit 3 at the Tomari nuclear plant, the Hokkaido Shimbun reported. The company had planned to restart Unit 3 in mid‑December 2027. Hokkaido Electric said in July it was considering various restart scenarios; a company spokesman said it will \"reconsider the restart date\" after the accident investigation concludes. Tomari is Hokkaido’s only nuclear power station."
+    },
     {
       "id": "mkt:01a0189c-0820-7aab-908b-ba1155d4ea39",
       "time": "2026-08-19 14:01:13",
@@ -140004,63 +140101,6 @@
         "國際"
       ],
       "text": "韓國總統李在明12日在總統府青瓦臺首次接見新任美國駐韓大使米歇爾·斯蒂爾，並對其履新表示歡迎。"
-    },
-    {
-      "id": "mkt:019ff493-64a2-7aab-9001-23f306bfa022",
-      "time": "2026-08-12 14:05:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea unveils seven strategic tech projects covering nuclear, quantum, space and biotech】South Korea on Wednesday unveiled an ambitious seven-project technology strategy targeting nuclear energy, quantum computing, space, biotechnology and related advanced sectors to seek growth engines beyond semiconductors and AI. Key targets include commercial deployment of domestically developed small modular reactors by 2035, a lunar landing by 2030, a domestic 100‑qubit quantum computer by 2029, and commercial brain‑computer interface products by 2035. The plan is framed as a response to slowing long-term growth and intensifying global tech competition; the science minister said the government will support these seed projects over the next 10–20 years."
-    },
-    {
-      "id": "em:jjsj_zgsj:202608123839078770",
-      "time": "2026-08-12 14:03:44",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "中汽協：7月汽車產銷分別完成257.3萬輛和258.4萬輛，環比分別下降6.8%和8%，同比分別下降0.7%和0.3%。"
-    },
-    {
-      "id": "mkt:019ff490-7e98-7aab-9001-1e616366a05a",
-      "time": "2026-08-12 14:02:17",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "Nikkei 225"
-      ],
-      "text": "Norway's sovereign wealth fund said performance was mainly driven by strong equity returns, particularly gains from Asian technology stocks."
-    },
-    {
-      "id": "mkt:019ff490-6363-7aab-9001-1015a6d82dec",
-      "time": "2026-08-12 14:02:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norway's sovereign wealth fund said its return for January–June beat its benchmark by 22 bps."
-    },
-    {
-      "id": "mkt:019ff490-2ff6-7aab-9001-0ea47e53bd2c",
-      "time": "2026-08-12 14:01:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China futures market cumulative turnover up 38.43% in first seven months】The China Futures Association said Jan–Jul nationwide futures trading totaled 6.107 billion lots and CNY 568.98 trillion in trading value, up 18.93% and 38.43% YoY respectively. In July, trading totaled 1.002 billion lots and CNY 86.28 trillion, with volume down 5.31% YoY and trading value up 20.99% YoY."
-    },
-    {
-      "id": "5036921",
-      "time": "2026-08-12 14:01:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【上半年中國人形機器人出貨量全球佔比超97%】最新行業研究資料顯示，今年上半年全球人形機器人出貨量總計約1.91萬臺，是去年同期5100臺的三倍多，中國人形機器人出貨量全球佔比達97%以上。在市場份額方面，智元機器人出貨量為8400臺，全球佔比44%，位列第一；宇樹科技的出貨量為5900臺，全球佔比31%，這兩家公司的出貨量遠超美國人形機器人頭部企業。另外三家中國企業銀河通用、優必選和樂聚出貨量全球佔比分別為5%、4%和3%。在用途方面，被用於工業和商業的人形機器人的數量超全球總出貨量七成，去年同期這一比例約為50%。預計今年全年全球人形機器人的出貨總量將增長至約6萬臺，到2030年將達50萬臺。 (央視財經)"
     }
   ]
 }
