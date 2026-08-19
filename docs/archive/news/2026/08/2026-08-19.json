@@ -1,7 +1,559 @@
 {
   "date": "2026-08-19",
-  "count": 2695,
+  "count": 2753,
   "items": [
+    {
+      "id": "5048205",
+      "time": "2026-08-19 21:40:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊：公司 CPO 相關配套產品已進入量產交付階段】天孚通訊在投資者關係活動記錄表表示，目前，公司 CPO 相關配套產品已進入量產交付階段，產品良率已滿足規模量產需要，公司會圍繞客戶需求預測提前準備產能，滿足客戶長期提產需求。"
+    },
+    {
+      "id": "te:markets:576509",
+      "time": "2026-08-19 21:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.24% Higher — The Dow Jones Index is gaining 130 points or 0.24 percent on Wednesday. Leading the gains are Merck (10.20%), Sherwin-Williams (2.79%) and Home Depot (1.95%). Top losers are Caterpillar (-2.18%), Goldman Sachs (-1.97%) and JPMorgan (-1.20%)."
+    },
+    {
+      "id": "5048204",
+      "time": "2026-08-19 21:39:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Moderna(MRNA.O)盤中漲幅達100％，總市值站上500億美元】公司與默沙東宣佈黑色素瘤疫苗研究取得成功。默沙東(MRK.N)上漲10％，BioNTech上漲17.6％。"
+    },
+    {
+      "id": "mkt:01a01a3f-aa98-7aab-9098-df0b91900d6e",
+      "time": "2026-08-19 21:39:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.N",
+        "BNTX.O"
+      ],
+      "text": "Moderna (MRNA.O) shares rose as much as 100% intraday, lifting the company's market capitalization above $50 bln after Moderna and Merck (MRK.N) announced successful melanoma vaccine research. Merck shares gained 10% and BioNTech shares rose 17.6%."
+    },
+    {
+      "id": "5048202",
+      "time": "2026-08-19 21:38:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍逮捕巴方耶路撒冷事務部長等31人】據巴勒斯坦通訊社報道，以色列軍隊19日在約旦河西岸和耶路撒冷多地開展軍事行動，逮捕至少31名巴勒斯坦人，其中包括巴勒斯坦民族權力機構耶路撒冷事務部長阿什拉夫·阿瓦爾。報道說，以方當天突襲阿瓦爾位於耶路撒冷老城阿克薩清真寺以南錫勒萬區的住所並將其逮捕。阿瓦爾曾於今年1月被以色列當局禁止進入約旦河西岸。（新華社）"
+    },
+    {
+      "id": "5048201",
+      "time": "2026-08-19 21:37:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "皮爾格林普萊德受 JBS 收購要約刺激大漲 11%，創 2021 年以來最大漲幅。"
+    },
+    {
+      "id": "5048200",
+      "time": "2026-08-19 21:37:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "勞氏股價盤前跌幅收窄轉漲，最新上漲約2%。"
+    },
+    {
+      "id": "5048199",
+      "time": "2026-08-19 21:37:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "赫伯羅特股份公司：赫伯羅特將收購馬士基碼頭公司馬斯弗萊克特二號碼頭25%的股權，並將助力該碼頭的未來發展與運營。"
+    },
+    {
+      "id": "5048198",
+      "time": "2026-08-19 21:37:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SK海力士美國上市股價在週二暴跌後上漲約3%；該公司將回購價值40萬億韓元的庫存股。"
+    },
+    {
+      "id": "te:markets:576507",
+      "time": "2026-08-19 21:36:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Verizon Stock Price Hits 19-week High — Verizon shares increased to 49.01 USD, the highest since April 2026. Over the past 4 weeks, Verizon gained 12.51%, and in the last 12 months, it increased 8.9%."
+    },
+    {
+      "id": "mkt:01a01a3c-edb9-7aab-9098-d61137fc5b46",
+      "time": "2026-08-19 21:36:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Education Department says this rule will break accreditation agencies' 'monopoly'."
+    },
+    {
+      "id": "5048195",
+      "time": "2026-08-19 21:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國教育部：該規則將打破認證領域的 “壟斷”。"
+    },
+    {
+      "id": "5048194",
+      "time": "2026-08-19 21:35:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克生物科技指數在Moderna和默沙東的黑色素瘤疫苗在大型試驗中取得成功後上漲3.2%。"
+    },
+    {
+      "id": "mkt:01a01a3c-3ae2-7aab-9098-c97b6ee91ba9",
+      "time": "2026-08-19 21:35:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. proposes simplifying recognition rules for higher-education accrediting agencies."
+    },
+    {
+      "id": "mkt:01a01a3b-c301-7aab-9098-c6db046b0f01",
+      "time": "2026-08-19 21:35:19",
+      "tags": [
+        "MKT News",
+        "MRK.O",
+        "Impact bullish",
+        "MRNA.O"
+      ],
+      "text": "The Nasdaq Biotechnology Index rose 3.2% after Moderna and Merck reported a successful large trial of a melanoma vaccine."
+    },
+    {
+      "id": "5048193",
+      "time": "2026-08-19 21:35:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【劉國中在天津調研時強調：建設優質高效醫療服務體系 更好滿足人民群眾健康需求】中共中央政治局委員、國務院副總理劉國中8月19日在天津調研。他強調，要深入學習貫徹習近平總書記關於健康中國建設的重要論述精神，堅定不移走中國特色衛生與健康發展道路，堅定不移貫徹新時代衛生與健康工作方針，堅持健康優先發展戰略，建設優質高效醫療服務體系，推動腦機介面等衛生健康領域新質生產力發展，更好滿足人民群眾全方位全週期健康需求。劉國中先後來到社群衛生服務中心、專科和綜合醫院，詳細瞭解基層醫療服務、臨床專科建設、緊急醫學救援隊伍建設、血液供應保障等情況。他強調，要深入實施醫療衛生強基工程，加強縣域醫共體和城市醫聯體建設，持續推動人員和服務下沉，不斷提升基層醫療衛生服務能力。要做實家庭醫生簽約服務，積極推動分級診療，引導群眾合理就醫。要擴大康復護理服務供給，支援精神、兒科、老年醫學、安寧療護等薄弱學科發展。要加強無償獻血宣傳動員，提升血液應急保障能力。要強化醫教協同，健全醫學人才培養體系，提高人才培養質量。劉國中還到相關實驗室和醫療機構，深入調研腦機介面研發、臨床試驗和應用情況。他強調，要加強腦科學基礎研究，推進關鍵核心技術攻關，提升原始創新能力。要做好統籌協調，引導各地立足自身科研和產業優勢，找準發展定位、拓展應用場景，探索形成各具特色的發展路徑。要健全標準體系，嚴格規範監管，牢牢守住安全底線。今天是第九個中國醫師節，主題是“鑄魂強基，德高技精”。調研期間，劉國中看望慰問一線醫務人員，向全國醫務工作者致以節日問候。他強調，廣大醫務工作者為保障人民健康作出了突出貢獻，是當之無愧的新時代健康衛士。要努力錘鍊過硬本領，傳承優良醫德醫風，為人民群眾提供更好的醫療衛生服務，為健康中國建設再立新功。要加強醫療衛生隊伍建設，關心關愛醫務人員，營造尊醫重衛的良好氛圍。 (新華社)"
+    },
+    {
+      "id": "5048192",
+      "time": "2026-08-19 21:35:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報5402.00元。"
+    },
+    {
+      "id": "5048191",
+      "time": "2026-08-19 21:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國有第二型可回收運載火箭了】朱雀三號遙二火箭飛行任務今天取得圓滿成功。朱雀三號遙二運載火箭高度有66.1米，直徑4.5米。從外觀看，它的箭體是不鏽鋼材質，和平時我們喝水用的保溫杯材料差不多。 朱雀三號回收要連過三關：超音速再入、高精度制導、最後一腳“剎車”。用一句話說，就是要讓一棟15層的高樓在超音速飛行中，用300多秒，把比子彈還快的速度硬生生降到零，輕盈落地，穩穩站住，並且保證完好無損。今天，當朱雀三號遙二運載火箭穩穩站住，火箭一子級實現我國首次陸地可控回收，它的意義非常重大。 第一，標誌著中國航天擁有了第二型可回收運載火箭；第二，隨著複用次數增多，它的發射成本有望降低70%；第三，衛星網際網路組網也有了“新班車”——它未來20噸級的運力，一次能送幾十顆衛星上天。暢想一下未來，當回收成為常態，你會看到越來越多中國運載火箭從太空歸來，相信那一天，不會太遠。（央視財經）"
+    },
+    {
+      "id": "te:markets:576506",
+      "time": "2026-08-19 21:34:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 4-week High — The Hong Kong Dollar touched 7.84 against the USD, the highest since July 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar lost 0.02%, and in the last 12 months, it increased 0.35%."
+    },
+    {
+      "id": "5048190",
+      "time": "2026-08-19 21:34:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "DATAVAULT AI宣佈發行可轉換票據後，股價下跌14.4%。"
+    },
+    {
+      "id": "mkt:01a01a3a-f2df-7aab-9098-bdc870b2519a",
+      "time": "2026-08-19 21:34:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nebius said it will issue $4.5 billion of convertible bonds to support AI business development; shares fell 6%."
+    },
+    {
+      "id": "5048189",
+      "time": "2026-08-19 21:34:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港交所中期業績再創新高 行政總裁陳翊庭：延長衍生品市場交易時段是優先發力的方向】8月19日，香港交易所（以下簡稱港交所，HK00388，股價414.600港元，市值5256億港元）公佈2026年中期業績。上半年，港交所收入及其他收益達167.02億港元，同比增長19%；股東應占溢利105.68億港元，同比增幅達24%；董事會宣派中期股息每股7.43港元，同比增長24%。這份成績單超越了2025年下半年創下的紀錄，成為港交所有史以來最高的半年度收入及利潤。港交所行政總裁陳翊庭表示：“受惠於市場氣氛回暖、科技及人工智慧相關企業融資需求強勁，以及海內外投資者的積極參與，我們的現貨市場、衍生產品市場及滬深港通的成交量均創半年度新高，充分彰顯香港市場的韌性及重要性。集團旗下大宗商品業務亦欣欣向榮，倫敦金屬交易所（LME）的成交量再創半年度新高。”（每經）"
+    },
+    {
+      "id": "te:markets:576505",
+      "time": "2026-08-19 21:34:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Broadcom Stock Price Hits 4-week Low — Broadcom shares decreased to 369.48 USD, the lowest since July 2026. Over the past 4 weeks, Broadcom Inc lost 1.42%, and in the last 12 months, it increased 26.4%."
+    },
+    {
+      "id": "5048187",
+      "time": "2026-08-19 21:32:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "KEYSIGHT TECHNOLOGIES 股價上漲1.9%，此前公司預測第四季度利潤和營收高於預期。"
+    },
+    {
+      "id": "5048186",
+      "time": "2026-08-19 21:32:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國礦業股票漲幅擴大：泛非資源上漲6.5%，弗雷斯尼洛上漲6.4%，霍赫希爾德上漲6%。"
+    },
+    {
+      "id": "mkt:01a01a39-685c-7aab-9098-b655ede2e676",
+      "time": "2026-08-19 21:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Preview: Fed July minutes — are three dissenters the tip of a larger hawkish bloc?】Markets will parse the Fed’s July minutes for signs the three officials who voted to raise rates were not the full extent of a hawkish cohort; evidence that more officials seriously considered a hike would prompt re-pricing of September policy. Key read-throughs: whether minutes show more officials weighing a rate increase even if they did not cast a dissenting vote, how many said the “next step should be a hike,” and whether any argued for consecutive hikes. Watch hawks’ inflation arguments — whether they link persistent upside risk to supply shocks (notably energy), AI-driven demand and tariffs, and whether they flagged Middle East risks to energy and inflation — and whether they judge the labor market sufficiently robust to tolerate tighter policy in service of price stability. Compare tone with June’s minutes, which set out two scenarios (disinflation vs. sustained upside risks); if wording on the hike scenario is firmer or broader and shows a majority seriously discussing hikes, that alone would be policy-relevant. Offsetting force: post-July jobs and inflation readings have weakened and retail sales and consumer confidence have softened, nudging market-implied September hike odds down to roughly 30%. Nonetheless, if minutes show most officials were close to hiking at the July meeting, markets may view September as an uncertain meeting where the hike option remains on the table unless subsequent data materially worsen."
+    },
+    {
+      "id": "mkt:01a01a39-400a-7aab-9098-a967e3dc076a",
+      "time": "2026-08-19 21:32:34",
+      "tags": [
+        "MKT News",
+        "HON.O",
+        "Impact bullish"
+      ],
+      "text": "Honeywell Aerospace shares rose 3.9% after Morgan Stanley upgraded the stock from Equal-Weight to Overweight."
+    },
+    {
+      "id": "mkt:01a01a39-010f-7aab-9098-a3d09f251b00",
+      "time": "2026-08-19 21:32:18",
+      "tags": [
+        "MKT News",
+        "EL.O",
+        "Impact bullish"
+      ],
+      "text": "Estée Lauder (EL.N) shares rose 12% after the company said it expects full-year profit to exceed expectations."
+    },
+    {
+      "id": "5048184",
+      "time": "2026-08-19 21:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅詩蘭黛股價上漲13%，創下3月11日以來最高盤中價格。"
+    },
+    {
+      "id": "5048183",
+      "time": "2026-08-19 21:32:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "博通股價下跌2%，此前馬威爾與谷歌達成定製晶片合作協議。"
+    },
+    {
+      "id": "mkt:01a01a38-c3fa-7aab-9098-98d368649615",
+      "time": "2026-08-19 21:32:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "NYSE Arca Gold Miners Index rose 5.18 points to its highest level since May."
+    },
+    {
+      "id": "mkt:01a01a38-bb13-7aab-9098-9758d609f2d2",
+      "time": "2026-08-19 21:32:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bearish",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) fell 2% after Marvell Technology struck a deal to supply custom chips to Google."
+    },
+    {
+      "id": "5048182",
+      "time": "2026-08-19 21:31:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "TJX股價下跌約4%，此前該公司公佈第三季度利潤預期低於市場預估。"
+    },
+    {
+      "id": "mkt:01a01a38-7574-7aab-9098-89e8ff2b8d49",
+      "time": "2026-08-19 21:31:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. opens Aug. 19 (Wed): Dow Jones Industrial Average +179.12 pts (+0.34%) to 53,522.52; S&P 500 +33.11 pts (+0.43%) to 7,725.08; Nasdaq Composite +106.33 pts (+0.40%) to 26,396.04."
+    },
+    {
+      "id": "5048181",
+      "time": "2026-08-19 21:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲3%，現報4464.95美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01a38-6a6c-7aab-9098-806dafc1bb24",
+      "time": "2026-08-19 21:31:39",
+      "tags": [
+        "MKT News",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "MARVELL (MRVL.O) shares rose 10.8%."
+    },
+    {
+      "id": "5048180",
+      "time": "2026-08-19 21:31:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約證券交易所ARCA黃金礦業指數上漲5.1%，創5月以來新高。"
+    },
+    {
+      "id": "mkt:01a01a38-3114-7aab-9098-7dda62a9fa6e",
+      "time": "2026-08-19 21:31:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "S&P/TSX Composite opened 0.7% higher after Trump delayed tariff measures."
+    },
+    {
+      "id": "5048179",
+      "time": "2026-08-19 21:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "MODERNA股價開盤飆升91%，創歷史新高。"
+    },
+    {
+      "id": "5048178",
+      "time": "2026-08-19 21:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數開盤上漲0.4%，納斯達克100指數上漲0.3%。"
+    },
+    {
+      "id": "5048177",
+      "time": "2026-08-19 21:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "默克股價上漲10%，創2021年以來最大漲幅，達到歷史新高。"
+    },
+    {
+      "id": "mkt:01a01a37-d8e6-7aab-9098-745e7fa26d89",
+      "time": "2026-08-19 21:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures extend intraday gains to 3.0%, trading at $65.33/oz."
+    },
+    {
+      "id": "5048176",
+      "time": "2026-08-19 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.42%，標普500指數漲0.42%，納指漲0.40%。Moderna漲83.75%，雅詩蘭黛漲11.97%，邁威爾科技漲10.69%，默沙東漲9.11%，紐曼礦業漲7.55%，傑克亨利漲5.15%。“七姐妹”方面：英偉達漲1.15%，亞馬遜漲0.99%，特斯拉漲0.81%，蘋果漲0.26%，谷歌跌0.29%，微軟跌0.30%，Meta Platforms跌0.49%。"
+    },
+    {
+      "id": "mkt:01a01a37-8bc1-7aab-9098-6b37c8b6fdbb",
+      "time": "2026-08-19 21:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.N",
+        "SKHY.O"
+      ],
+      "text": "US open: Dow +0.3%, S&P 500 +0.4%, Nasdaq +0.3%. Moderna (MRNA.O) surged 90% after Merck (MRK.N) reported Phase III success for an mRNA cancer vaccine, describing a historic breakthrough in melanoma treatment; Merck rose 8.4%. Marvell (MRVL.O) climbed 9.7% after issuing warrants to Google to buy up to 58.97 mln shares. SK Hynix (SKHY.O) advanced 4.2% after announcing plans to repurchase and cancel KRW 40 trillion of shares."
+    },
+    {
+      "id": "5048175",
+      "time": "2026-08-19 21:30:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海鋼聯：在AI領域已自主佈局“鋼聯宗師”模型、MyClaw等產品】上海鋼聯8月19日在互動平臺表示，公司投資參股上海普睿數智科技有限公司，是圍繞產業資料服務主業，加速拓展多元化資料應用場景。普睿數智聚焦房地產等領域的數智化產品，可與公司現有建材及產業鏈相關大宗商品資料形成協同，拓寬資料落地場景。同時，公司在AI領域已自主佈局“鋼聯宗師”模型、“小鋼”數字智慧助手及MyClaw等產品。"
+    },
+    {
+      "id": "mkt:01a01a37-4189-7aab-9098-64a20d8a8eea",
+      "time": "2026-08-19 21:30:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: live-fire exercises in South China Sea】Jieyang Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: Aug 19–21, daily 06:30–18:30, parts of the South China Sea will conduct live-fire exercises; vessels are prohibited from entering the affected waters."
+    },
+    {
+      "id": "5048174",
+      "time": "2026-08-19 21:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 南海海域實彈射擊】據中國海事局網站訊息，揭陽海事局釋出航行警告，8月19日至8月21日，每天6點30分至18點30分，南海部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "te:markets:576504",
+      "time": "2026-08-19 21:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 54-year High — Merck shares increased to 147.00 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 8.66%, and in the last 12 months, it increased 59.15%."
+    },
+    {
+      "id": "5048173",
+      "time": "2026-08-19 21:30:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報65.32美元/盎司。"
+    },
+    {
+      "id": "5048172",
+      "time": "2026-08-19 21:29:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報65.20美元/盎司。"
+    },
+    {
+      "id": "5048171",
+      "time": "2026-08-19 21:29:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛爾蘭大陸集團上半年營收 3.599 億歐元，同比增長 16%。"
+    },
+    {
+      "id": "mkt:01a01a36-30b5-7aab-9098-5a48e0d7f97c",
+      "time": "2026-08-19 21:29:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Universal Music Group signed a social-media licensing partnership agreement with music-technology firm Hook."
+    },
+    {
+      "id": "5048170",
+      "time": "2026-08-19 21:28:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科思儀：首次公開發行股票並在創業板上市提示】電科思儀公告稱，公司首次公開發行股票並在創業板上市申請已獲深交所上市委審議透過及中國證監會同意註冊。本次公開發行新股10206.9432萬股，佔發行後總股本的11.00%，採用戰略配售、網下詢價配售、網上定價發行相結合的方式。網上網下申購日均為2026年8月28日，申購時無需繳付申購資金；初步詢價時間為2026年8月25日。網下發行部分10%股份限售期為6個月，網上發行股份無流通限制。"
+    },
+    {
+      "id": "te:economy:576503",
+      "time": "2026-08-19 21:27:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Bond Yield",
+        "Importance 3"
+      ],
+      "text": "Treasury Boosts Long-Term Bond Buybacks — US Treasury yields fell sharply after the Treasury announced it would significantly expand its purchases of long-dated government debt. The department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years. The move came after 30-year Treasury yields recently climbed to their highest level since 2007, raising concerns about liquidity and market stability. Following the announcement, yields declined across the curve, with the 30-year rate falling as much as 9 basis points to 5.19%. The decision signals that Treasury officials are prepared to intervene if borrowing costs rise too sharply or market liquidity deteriorates. The announcement also came ahead of a $16 billion auction of new 20-year bonds, adding further focus to demand for longer-dated debt. Treasury Secretary Scott Bessent previously described the buyback program as an important tool for addressing market dislocations and supporting liquidity."
+    },
+    {
+      "id": "5048169",
+      "time": "2026-08-19 21:27:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【如祺出行上半年收入40.35億、毛利超5億】8月19日，港交所上市公司如祺出行釋出2026年中期業績公告，公司多項業績指標創歷史新高、盈利表現突出。毛利大增156.3%至超5億元，毛利率進一步提升至12.4%，利潤同比大幅改善45.2%。"
+    },
+    {
+      "id": "5048168",
+      "time": "2026-08-19 21:27:02",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美財政部意外宣佈擴大較長期債券回購規模 此前收益率創數十年高位】美國財政部意外宣佈加大較長期國債回購力度。此前，長債收益率升至多年高位。就在公佈本季度回購計劃僅兩週後，美國財政部週三表示，將把10年至30年期國債的流動性支援回購操作規模至少提高一倍。美國財政部長斯科特·貝森特去年曾提到這項回購計劃，稱如果有必要應對美國國債市場失序，這將是財政部“可以動用的大型工具箱”中的工具之一。Natixis北美美國利率策略主管John Briggs表示：“關鍵在於時機。在我看來，這絕非偶然，因此更重要的是它釋放出的訊號。如果收益率升得太高，財政部會設法加以應對，而現在我們也知道了哪些水平會令其感到壓力。”"
+    },
+    {
+      "id": "5048167",
+      "time": "2026-08-19 21:26:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部部長李國英會見聯合國糧農組織總幹事屈冬玉】8月19日，水利部黨組書記、部長李國英在京會見聯合國糧農組織總幹事屈冬玉，雙方就深化務實合作交換意見。李國英指出，當前，受氣候變化影響，全球農業水資源短缺問題日益凸顯。聯合國糧農組織在保障世界糧食安全、傳播先進技術和理念、促進全球水利和農業合作方面作出了重要貢獻。水利部願與聯合國糧農組織進一步深化農業節水增效政策、技術創新等方面加強合作。屈冬玉表示，希望雙方深化農業節水增效技術示範、全球水迴圈研究、雨洪資源利用等方面合作，與世界各國特別是全球南方國家分享水利保障糧食安全的中國經驗、中國方案、中國智慧。"
+    },
+    {
+      "id": "5048165",
+      "time": "2026-08-19 21:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "思摩爾國際上半年調整後利潤7.566億元人民幣，預估5.875億元人民幣。上半年營收72.1億元人民幣，預估71.1億元人民幣。上半年毛利率32.2％，預估33.5％。"
+    },
     {
       "id": "5048164",
       "time": "2026-08-19 21:23:40",
