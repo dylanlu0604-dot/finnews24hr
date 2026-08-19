@@ -1,7 +1,433 @@
 {
   "date": "2026-08-19",
-  "count": 1160,
+  "count": 1202,
   "items": [
+    {
+      "id": "mkt:01a0189c-0820-7aab-908b-ba1155d4ea39",
+      "time": "2026-08-19 14:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euro STOXX 50 futures fell 0.18%, DAX futures fell 0.16%, CAC 40 futures fell 0.12% and UK FTSE 100 futures fell 0.17%."
+    },
+    {
+      "id": "5047092",
+      "time": "2026-08-19 14:00:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團成立智寶科技公司，含AI相關業務】企查查APP顯示，近日，上海螞蟻智寶科技有限公司成立，經營範圍包含：玩具、動漫及遊藝用品銷售；數字內容製作服務（不含出版發行）；人工智慧通用應用系統；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由螞蟻科技集團股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a0189b-ae48-7aab-908b-b05f16b6a635",
+      "time": "2026-08-19 14:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【SAMR: 13 monopoly and abuse-of-dominance cases closed Jan–Jul】The State Administration for Market Regulation (SAMR) said it has closed 13 cases involving monopoly agreements and abuse of market dominance through July. In 1H SAMR intensified probes in public utilities, internet platforms, active pharmaceutical ingredients (APIs) and driver-training, applying case-by-case enforcement. It said it has normalized oversight of the platform economy, is conducting targeted investigations and assessments of e‑commerce platform subsidy practices and competition in food-delivery services, and is exploring measures to curb 'involution'-style excessive competition."
+    },
+    {
+      "id": "5047091",
+      "time": "2026-08-19 14:00:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國牽頭制定！全球首個針對客船塗裝技術的國際標準釋出】記者今天瞭解到，國際標準化組織近期釋出全球首個專門針對客船塗裝技術的國際標準《船舶與海洋技術—客船上建塗裝技術要求》。該標準由我國牽頭，匯聚了義大利、韓國、丹麥等多國專家的經驗與智慧，標誌著我國首次在高技術船舶客船塗裝領域作出重要貢獻。（央視新聞）"
+    },
+    {
+      "id": "5047090",
+      "time": "2026-08-19 14:00:40",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月CPI月率 0.3%，預期0.3%，前值0.10%。"
+    },
+    {
+      "id": "5047089",
+      "time": "2026-08-19 14:00:34",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月零售物價指數月率 0.6%，預期0.80%，前值0.30%。"
+    },
+    {
+      "id": "mkt:01a0189b-59e8-7aab-908b-ae6fd46d3f50",
+      "time": "2026-08-19 14:00:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July non-seasonally adjusted Input PPI YoY 4.9% vs consensus 6.6%; prior revised to 7.4% from 7.3%."
+    },
+    {
+      "id": "5047088",
+      "time": "2026-08-19 14:00:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：1至7月依法辦結壟斷協議和濫用市場支配地位案件13件】今年以來，市場監管部門依法查辦一批重大案件。截至7月，依法辦結壟斷協議和濫用市場支配地位案件13件。（央視）"
+    },
+    {
+      "id": "mkt:01a0189b-552a-7aab-908b-a0fb367a9bf8",
+      "time": "2026-08-19 14:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK retail price index (RPI) July MoM +0.6% vs 0.8% forecast, prior +0.3%."
+    },
+    {
+      "id": "mkt:01a0189b-51a8-7aab-908b-9e86533d3527",
+      "time": "2026-08-19 14:00:27",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "UK July CPI y/y 2.9% vs 2.9% expected; June 2.6%."
+    },
+    {
+      "id": "mkt:01a0189b-515b-7aab-908b-9415bffc72f2",
+      "time": "2026-08-19 14:00:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK July core CPI MoM +0.2% (consensus +0.1%); June +0.3%."
+    },
+    {
+      "id": "mkt:01a0189b-50e0-7aab-908b-8cc9db611a17",
+      "time": "2026-08-19 14:00:24",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July unadjusted input PPI MoM -1.7% (exp 0.0%); June revised to -1.9% from -2.0%."
+    },
+    {
+      "id": "mkt:01a0189b-50df-7aab-908b-83c068a68792",
+      "time": "2026-08-19 14:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK July CPI MoM 0.3% (expected 0.3%), prior 0.1%."
+    },
+    {
+      "id": "mkt:01a0189b-47e4-7aab-908b-7ddcca385dcd",
+      "time": "2026-08-19 14:00:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK output PPI (not seasonally adjusted) MoM +0.2% in July, matching consensus; prior revised from 0.0% to -0.1%."
+    },
+    {
+      "id": "mkt:01a0189b-4014-7aab-908b-6810f21090bd",
+      "time": "2026-08-19 14:00:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK July Retail Prices Index (RPI) YoY 3.2% vs 3.3% expected, 3.0% prior."
+    },
+    {
+      "id": "mkt:01a0189b-3fb0-7aab-908b-5983746bdaa5",
+      "time": "2026-08-19 14:00:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK July core RPI YoY 3.1%, prior 2.9%."
+    },
+    {
+      "id": "mkt:01a0189b-3f57-7aab-908b-530a17e58155",
+      "time": "2026-08-19 14:00:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK July core CPI YoY 2.6% vs 2.5% expected; prior 2.6%."
+    },
+    {
+      "id": "mkt:01a0189b-4015-7aab-908b-710d2a55cf9b",
+      "time": "2026-08-19 14:00:17",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK July unadjusted (NSA) core output PPI m/m 0.6%, prior 0.5%."
+    },
+    {
+      "id": "mkt:01a0189b-3fc3-7aab-908b-6233b536b6a5",
+      "time": "2026-08-19 14:00:17",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK output PPI (not seasonally adjusted) YoY July 3.1% vs 3.2% expected; prior 3.5%."
+    },
+    {
+      "id": "mkt:01a0189b-2c2b-7aab-908b-4c7145754231",
+      "time": "2026-08-19 14:00:13",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK not seasonally adjusted core output PPI y/y 2.8% in July, up from 2.6% in June."
+    },
+    {
+      "id": "mkt:01a0189b-1a2c-7aab-908b-44fdd9fb4195",
+      "time": "2026-08-19 14:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (MoM) (Jul) | actual 0.6% | consensus 0.80% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a0189b-0ee5-7aab-908b-38e1b2e5365b",
+      "time": "2026-08-19 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (MoM) (Jul) | actual 0.3% | consensus 0.3% | previous 0.10%"
+    },
+    {
+      "id": "mkt:01a0189b-0ee4-7aab-908b-30498e6890be",
+      "time": "2026-08-19 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (MoM) (Jul) | actual 0.2% | consensus 0.1% | previous 0.3%"
+    },
+    {
+      "id": "mkt:01a0189b-0ee4-7aab-908b-2e47795ffb8d",
+      "time": "2026-08-19 14:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Retail Price Index (YoY) (Jul) | actual 3.1% | previous 2.90%"
+    },
+    {
+      "id": "mkt:01a0189b-0ee3-7aab-908b-225411364789",
+      "time": "2026-08-19 14:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (YoY) (Jul) | actual 3.2% | consensus 3.3% | previous 3.00%"
+    },
+    {
+      "id": "mkt:01a0189b-0e1b-7aab-908b-1dcfb31ba754",
+      "time": "2026-08-19 14:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (YoY) (Jul) | actual 2.9% | consensus 2.9% | previous 2.60%"
+    },
+    {
+      "id": "mkt:01a0189b-0dd3-7aab-908b-1509475d14ab",
+      "time": "2026-08-19 14:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (YoY) (Jul) | actual 2.6% | consensus 2.50% | previous 2.60%"
+    },
+    {
+      "id": "mkt:01a0189a-ffa5-7aab-908b-0e4f69a454af",
+      "time": "2026-08-19 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (MoM) (Jul) | actual -1.7% | consensus 0% | previous -2.00%"
+    },
+    {
+      "id": "mkt:01a0189a-ffa4-7aab-908b-0225a39b7a9b",
+      "time": "2026-08-19 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (MoM) (Jul) | actual 0.6% | previous 0.5%"
+    },
+    {
+      "id": "mkt:01a0189a-ffa3-7aab-908a-fb0b69d716b2",
+      "time": "2026-08-19 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (YoY) (Jul) | actual 4.9% | consensus 6.6% | previous 7.30%"
+    },
+    {
+      "id": "mkt:01a0189a-ff42-7aab-908a-f77f585df5c2",
+      "time": "2026-08-19 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (YoY) (Jul) | actual 2.8% | previous 2.6%"
+    },
+    {
+      "id": "mkt:01a0189a-feec-7aab-908a-ede0d57360b3",
+      "time": "2026-08-19 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (YoY) (Jul) | actual 3.1% | consensus 3.2% | previous 3.50%"
+    },
+    {
+      "id": "mkt:01a0189a-feeb-7aab-908a-e482bb447e63",
+      "time": "2026-08-19 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (MoM) (Jul) | actual 0.2% | consensus 0.2% | previous 0.00%"
+    },
+    {
+      "id": "5047087",
+      "time": "2026-08-19 13:59:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉士伯預計財年有機營業利潤增長4%至6%，此前預期為增長5.34%。"
+    },
+    {
+      "id": "5047086",
+      "time": "2026-08-19 13:59:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【臺積電先進封裝CoWoS產能供不應求 訂單爆滿】據報道，臺積電先進封裝CoWoS產能供不應求，訂單爆滿。傳先進封裝後段部分訂單外溢到英特爾旗下馬來西亞廠，以部分產能合作支援，服務共同大客戶，打破過往生態系慣例。除了有利臺積電前段先進製程出貨，法人也看好，與兩大業者重疊的供應鏈日月光投控、載板龍頭欣興、家登集團等可望同步沾光。業界8月18日指出，全球先進封裝產能瓶頸在後段放量速度低於前段製程，預期臺積電對更多供應廠商加入後段的產能樂見其成，可讓前段製程加速出貨。 (臺灣經濟日報)"
+    },
+    {
+      "id": "mkt:01a01899-ef6a-7aab-908a-dcf58010c1d7",
+      "time": "2026-08-19 13:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's anti‑corruption agency says it is conducting an operation to expose a criminal organisation composed of current and former MPs that also involves senior officials in the presidential office."
+    },
+    {
+      "id": "5047085",
+      "time": "2026-08-19 13:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國談判代表稱，泰國尋求新途徑以結束致命的南部叛亂。"
+    },
+    {
+      "id": "5047084",
+      "time": "2026-08-19 13:58:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構主席：我們希望支援源自印度的全球基金管理業務。"
+    },
+    {
+      "id": "mkt:01a01899-8cad-7aab-908a-d2c56c7b8ef7",
+      "time": "2026-08-19 13:58:31",
+      "tags": [
+        "MKT News",
+        "600919.SS",
+        "Impact bullish"
+      ],
+      "text": "Bank of Jiangsu shares hit an intraday record, trading up 1.71% at 11.91 yuan; market capitalization 218.5 bln yuan."
+    },
+    {
+      "id": "5047083",
+      "time": "2026-08-19 13:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭反腐敗機構表示，他們正在開展一項行動，以揪出一個由現任及前任議員操控、且有總統府高階官員牽涉其中的“犯罪組織”。"
+    },
+    {
+      "id": "mkt:01a01898-ffac-7aab-908a-cee56f2445de",
+      "time": "2026-08-19 13:57:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【US share of Indian exports steady at ~20% despite Trump tariffs】Analysis of India’s commerce ministry data shows the US accounted for roughly 20% of Indian exports in the 12 months to July, largely unchanged despite a year of punitive tariffs imposed by US president Trump. US duties on Indian goods peaked at around 50% before being reduced to 18% in February and currently sit at 10%. India has pursued trade diversification through new agreements with other partners, but no bilateral trade deal with the US has been signed after months of high-level talks."
+    },
+    {
+      "id": "5047082",
+      "time": "2026-08-19 13:57:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工信部：將推動機器人產業聚焦2個關鍵環節、4個重點行業】據央廣網，8月19日，在2026世界機器人大會開幕式上，工業和資訊化部副部長辛國斌在致辭中介紹，2025年，機器人產業規模以上企業營業收入突破3000億元，近五年年均增速超20%；今年上半年達到1655億元，同比增長24.5%。辛國斌指出，當前，全球人工智慧技術創新空前活躍。智慧機器人作為人工智慧從數字世界走向物理世界的重要載體，正在以前所未有的速度賦能千行百業、走進千家萬戶。但也要清醒看到，智慧機器人產業發展仍面臨不少挑戰，智慧化水平不高、技能作業能力不強等問題較為突出。2026年是中國“十五五”規劃的開局之年。辛國斌表示，站在新的歷史起點上，工業和資訊化部將深入貫徹落實黨中央、國務院決策部署，緊緊把握“十五五”發展機遇，以智慧化為主線，以實用化為牽引，統籌技術攻關、產業培育、場景拓展與安全治理，推動機器人產業創新發展。將聚焦核心零部件、具身智慧等關鍵環節，打通產學研用創新鏈條。鼓勵中外科研機構、企業開展聯合攻關，打造一批先進、適用、易用的智慧機器人標誌性產品。將聚焦農業、醫療、養老、應急等應用空間廣、示範效應強的重點行業，分類組織開展產用結對攻關、實地應用驗證和成熟場景推廣，以新場景大規模應用加速新技術新產品迭代升級。同時，在推動機器人技術產業向前發展的同時，注重推動技術向善、科技為民，讓機器人更好服務人的生產生活，兼顧效率提升與就業保障，實現技術進步與人的發展相得益彰。"
+    },
     {
       "id": "mkt:01a01898-6ade-7aab-908a-c3d40776f41f",
       "time": "2026-08-19 13:57:16",
