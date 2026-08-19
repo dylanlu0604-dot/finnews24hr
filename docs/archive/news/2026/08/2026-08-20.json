@@ -1,7 +1,95 @@
 {
   "date": "2026-08-20",
-  "count": 83,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:01a01afb-163d-7aab-909e-329b019c8753",
+      "time": "2026-08-20 01:04:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 20-year Treasury yield was little changed after the auction, edging down 7.42 bps to 5.205%."
+    },
+    {
+      "id": "5048440",
+      "time": "2026-08-20 01:03:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國20年期國債中標收益率5.204%，高於拍賣前預發行（WI）收益率5.199%。"
+    },
+    {
+      "id": "mkt:01a01afa-0357-7aab-909e-2a634e4ba349",
+      "time": "2026-08-20 01:03:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 20-year Treasury auction on Aug. 19 — stop-out yield 5.204%, prior 5.16%."
+    },
+    {
+      "id": "mkt:01a01afa-019e-7aab-909e-279d333b070a",
+      "time": "2026-08-20 01:03:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 20-year Treasury auction as of Aug 19: share allocated at the stop-out yield 65.58%, prior 15.13%."
+    },
+    {
+      "id": "mkt:01a01af9-d510-7aab-909e-1fc177c57f58",
+      "time": "2026-08-20 01:02:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Accepted at High (Aug.19) | actual 65.58% | previous 15.13%"
+    },
+    {
+      "id": "mkt:01a01af9-be21-7aab-909e-13228ecd191d",
+      "time": "2026-08-20 01:02:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction High Yield Rate (Aug.19) | actual 5.204% | previous 5.16%"
+    },
+    {
+      "id": "mkt:01a01af9-acd4-7aab-909e-0aa227d65c7d",
+      "time": "2026-08-20 01:02:45",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 20-year Treasury auction bid-cover ratio 2.53 as of Aug. 19; prior 2.64."
+    },
+    {
+      "id": "mkt:01a01af9-8a51-7aab-909e-06fa84c0c4d5",
+      "time": "2026-08-20 01:02:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Aug.19) | actual 2.53 | previous 2.64"
+    },
     {
       "id": "mkt:01a01af7-85d3-7aab-909d-fdf292a1ae70",
       "time": "2026-08-20 01:00:24",

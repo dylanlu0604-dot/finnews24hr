@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-20 01:01:45",
+  "updated": "2026-08-20 01:05:36",
   "count": 15534,
   "items": [
+    {
+      "id": "mkt:01a01afb-163d-7aab-909e-329b019c8753",
+      "time": "2026-08-20 01:04:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 20-year Treasury yield was little changed after the auction, edging down 7.42 bps to 5.205%."
+    },
+    {
+      "id": "5048440",
+      "time": "2026-08-20 01:03:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國20年期國債中標收益率5.204%，高於拍賣前預發行（WI）收益率5.199%。"
+    },
+    {
+      "id": "mkt:01a01afa-0357-7aab-909e-2a634e4ba349",
+      "time": "2026-08-20 01:03:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 20-year Treasury auction on Aug. 19 — stop-out yield 5.204%, prior 5.16%."
+    },
+    {
+      "id": "mkt:01a01afa-019e-7aab-909e-279d333b070a",
+      "time": "2026-08-20 01:03:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 20-year Treasury auction as of Aug 19: share allocated at the stop-out yield 65.58%, prior 15.13%."
+    },
+    {
+      "id": "mkt:01a01af9-d510-7aab-909e-1fc177c57f58",
+      "time": "2026-08-20 01:02:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Accepted at High (Aug.19) | actual 65.58% | previous 15.13%"
+    },
+    {
+      "id": "mkt:01a01af9-be21-7aab-909e-13228ecd191d",
+      "time": "2026-08-20 01:02:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction High Yield Rate (Aug.19) | actual 5.204% | previous 5.16%"
+    },
+    {
+      "id": "mkt:01a01af9-acd4-7aab-909e-0aa227d65c7d",
+      "time": "2026-08-20 01:02:45",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 20-year Treasury auction bid-cover ratio 2.53 as of Aug. 19; prior 2.64."
+    },
+    {
+      "id": "mkt:01a01af9-8a51-7aab-909e-06fa84c0c4d5",
+      "time": "2026-08-20 01:02:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Aug.19) | actual 2.53 | previous 2.64"
+    },
     {
       "id": "mkt:01a01af7-85d3-7aab-909d-fdf292a1ae70",
       "time": "2026-08-20 01:00:24",
@@ -142024,95 +142112,6 @@
         "國際"
       ],
       "text": "馬斯克：綜合智慧水平、速度與成本來看，Grok 4.6 客觀排名第一。"
-    },
-    {
-      "id": "5038053",
-      "time": "2026-08-13 01:05:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債拍賣收益率創2007年以來新高。"
-    },
-    {
-      "id": "mkt:019ff6ed-f6a3-7aab-9011-a94a1158b95d",
-      "time": "2026-08-13 01:03:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury auction as of Aug 12: share of awards at the stop-out yield 65.27% (prior 40.29%)."
-    },
-    {
-      "id": "mkt:019ff6ed-d6ad-7aab-9011-a6d965103c4f",
-      "time": "2026-08-13 01:03:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 10-Year Note Auction Accepted at High (Aug.12) | actual 65.27% | previous 40.29%"
-    },
-    {
-      "id": "mkt:019ff6ed-d6a3-7aab-9011-9f2beabe3386",
-      "time": "2026-08-13 01:03:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "At the Aug 12 US 10-year Treasury auction, bid-cover ratio 2.53, versus 2.59 previously."
-    },
-    {
-      "id": "mkt:019ff6ed-afaa-7aab-9011-975d5a363d27",
-      "time": "2026-08-13 01:03:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 10-Year Note Auction Bid/Cover Ratio (Aug.12) | actual 2.53 | previous 2.59"
-    },
-    {
-      "id": "5038052",
-      "time": "2026-08-13 01:03:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國至8月12日10年期國債競拍-得標利率 4.683%，前值4.58%。\n美國至8月12日10年期國債競拍-投標倍數 2.53，前值2.59。"
-    },
-    {
-      "id": "mkt:019ff6ed-a792-7aab-9011-8b1a50f4954f",
-      "time": "2026-08-13 01:03:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 10-year Treasury auction on Aug 12: stop-out yield 4.683%, prior 4.58%."
-    },
-    {
-      "id": "mkt:019ff6ed-8ac9-7aab-9011-8226cd18865e",
-      "time": "2026-08-13 01:03:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | 10-Year Note Auction High Yield Rate (Aug.12) | actual 4.683% | previous 4.58%"
     }
   ]
 }
