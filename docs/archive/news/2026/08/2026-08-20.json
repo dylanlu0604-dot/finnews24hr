@@ -1,7 +1,91 @@
 {
   "date": "2026-08-20",
-  "count": 74,
+  "count": 83,
   "items": [
+    {
+      "id": "mkt:01a01af7-85d3-7aab-909d-fdf292a1ae70",
+      "time": "2026-08-20 01:00:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Venezuela steps up oil licensing push, offers 916 blocks for production-sharing deals】Venezuela’s oil minister Paola Enau told investors in Houston Caracas seeks to sign production-sharing contracts to raise output from the country with the world’s largest crude reserves. She said 916 exploration and production blocks are available and that Venezuela must conclude such agreements to access the new blocks. This week Caracas signed deals with Schlumberger (SLB.N) and Hunt Oil; about 140 companies attended the investor session as Venezuela seeks more private investment to reverse a roughly 20-year decline in oil production."
+    },
+    {
+      "id": "5048439",
+      "time": "2026-08-20 01:00:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債20年期收益率在160億美元拍賣前為5.199%。"
+    },
+    {
+      "id": "5048438",
+      "time": "2026-08-20 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.40%，滬銅收漲0.23%，滬鋁收跌0.23%，滬鋅收跌0.16%，滬鉛收漲0.19%，滬鎳收漲1.89%，滬錫收漲0.92%。氧化鋁夜盤收漲0.34%，鋁合金收漲0.37%。不鏽鋼夜盤收漲0.84%。"
+    },
+    {
+      "id": "5048437",
+      "time": "2026-08-20 01:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "環球音樂集團：蘋果公司與環球音樂集團宣佈達成標誌性全球電子商務與周邊商品合作，合作範圍涉及披頭士樂隊相關業務。"
+    },
+    {
+      "id": "5048436",
+      "time": "2026-08-20 00:59:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "環球音樂集團：蘋果公司與環球音樂集團宣佈達成披頭士樂隊全球電子商務及周邊商品合作關係。"
+    },
+    {
+      "id": "mkt:01a01af6-5dc1-7aab-909d-f0edfad857db",
+      "time": "2026-08-20 00:59:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump expects to meet Kim Jong Un later this year】U.S. President Trump told reporters at the White House on the 19th he expects to meet North Korean leader Kim Jong Un later this year. When asked about an autumn meeting he replied in the affirmative and said he knows Kim well and gets along with him."
+    },
+    {
+      "id": "5048435",
+      "time": "2026-08-20 00:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普預計今年晚些時候會見金正恩】美國總統特朗普19日在白宮對媒體表示，他預計今年晚些時候將會見朝鮮領導人金正恩。特朗普當天視察了正在白宮南草坪新建的直升機停機坪工地。被問及今秋是否會與金正恩會晤時，特朗普作出肯定回答，並稱“非常瞭解金正恩”，“同他相處得很好”。(新華社)"
+    },
+    {
+      "id": "te:markets:576583",
+      "time": "2026-08-20 00:58:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Strengthens to 3-Month High — The euro strengthened to $1.167 on Wednesday, the highest in three months, and tracking the jump in G10 currencies after the US Treasury raised its bond buyback limits and triggered a plunge in the dollar. The US Treasury doubled the limit of long-term notes and bonds to be repurchased next financial quarter, likely raising dollar liquidity from the US Treasury General Account. The measures signaled that Washington is prioritizing lower long-term yields, opting instead to raise dollar supply to strengthen currencies in the DXY basket. Meanwhile, soaring natural gas prices in Europe due to the supply shortages from the Middle East were expected to maintain upside risks on inflation. The European Central Bank is expected to deliver more rate hikes this year to combat price growth."
+    },
+    {
+      "id": "5048434",
+      "time": "2026-08-20 00:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其部長稱，土耳其已做好在敘利亞勘探石油和天然氣的準備。"
+    },
     {
       "id": "5048433",
       "time": "2026-08-20 00:55:18",
