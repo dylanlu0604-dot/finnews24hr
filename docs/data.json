@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-20 04:37:11",
-  "count": 15685,
+  "updated": "2026-08-20 04:46:31",
+  "count": 15680,
   "items": [
+    {
+      "id": "5048615",
+      "time": "2026-08-20 04:44:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。"
+    },
+    {
+      "id": "te:markets:576609",
+      "time": "2026-08-20 04:43:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%)."
+    },
+    {
+      "id": "5048611",
+      "time": "2026-08-20 04:40:45",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗稱貝森特出手令美元付出代價 建議客戶採用這些策略加以應對】花旗集團認為，美國財政部長斯科特·貝森特為壓低長期借貸成本而採取的最新舉措可能會導致美元在短期內走弱。財政部週三擴大10至30年期國債回購規模的公告導致長債收益率走低並推動美元跌至5月中以來的最低水平。花旗策略師Dirk Willer等人在研報中指出，遏制收益率的努力可能會使美元承受壓力。 “以如此方式降低利率的主要代價就是貨幣走弱，” 他們寫道。花旗建議客戶面對此舉利用美元為押注高收益新興市場貨幣融資，因後者“在當前環境下也應表現不錯”。該行此前青睞用加元和瑞士法郎作為融資貨幣。"
+    },
     {
       "id": "te:markets:576608",
       "time": "2026-08-20 04:35:09",
@@ -143657,87 +143689,6 @@
         "Chip Wars"
       ],
       "text": "【Cerebras Q2 mixed results; shares tumble 17% after hours】AI chipmaker Cerebras reported Q2 revenue $210m, up 103% YoY. Cloud revenue surged to $126m, nearly 4x YoY, while hardware sales fell 23% to $54.1m. The company posted a net loss of $450.5m in the quarter versus net income of $309.5m a year earlier. Cerebras raised full-year core revenue guidance to $880m–$890m from $855m–$865m previously. It said core gross margin will expand to 38–40% this quarter to address investor concerns. Shares fell more than 17% in after-hours trading. Since its May IPO the stock has risen about 42%. The company, originally positioned as a challenger to NVIDIA, now derives its largest revenue from cloud services."
-    },
-    {
-      "id": "5038123",
-      "time": "2026-08-13 04:46:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "思科執行長在電話會議上表示，未來六個月，公司有望拿下多項AI設計訂單，覆蓋G300、G200、P200 Silicon One晶片及光模組產品。"
-    },
-    {
-      "id": "5038122",
-      "time": "2026-08-13 04:46:09",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批評以色列國防部長卡茨，表示以色列在黎巴嫩南部的軍事部署違背相關協議；而卡茨稱以色列國防軍將在安全區保持長期駐軍。"
-    },
-    {
-      "id": "5038121",
-      "time": "2026-08-13 04:45:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面稱，有報告顯示格什姆島附近出現石油汙染，將此事歸咎於一艘外籍油輪，要求就波斯灣的環境破壞追究責任。"
-    },
-    {
-      "id": "mkt:019ff7b9-13d6-7aab-9013-6b189f2c36e1",
-      "time": "2026-08-13 04:45:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "SPGI.N"
-      ],
-      "text": "S&P Global expands its partnership with Microsoft (MSFT.O) to integrate its rich, key intelligence data into Microsoft 365 Copilot."
-    },
-    {
-      "id": "te:markets:574828",
-      "time": "2026-08-13 04:45:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Extends Losses — The Ibovespa shed 0.2% to close at 167,491 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Financials were mostly lower, with Itaú losing 1.5%. B3 fell 0.3% after reporting a 15.5% year-on-year increase in expenses. Banco do Brasil added 0.8% ahead of its earnings report due after the bell. Vale shed 1.6% as iron ore prices declined, while CSN rose 0.9% ahead of its earnings. Petrobras fell 0.5% as oil prices turned lower. Rede D’Or (-2%) and Sabesp (+0.5%) are scheduled to release results after the close. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer rates, and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target."
-    },
-    {
-      "id": "mkt:019ff7b4-7743-7aab-9013-64c81213d67e",
-      "time": "2026-08-13 04:40:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, a senior US State Department official said the US is urging all parties to abide by the framework agreement. The official said Israel has made clear it does not intend to occupy Lebanese territory and that prolonged Israeli deployments in southern Lebanon would breach the agreement and undermine long-term peace and security."
-    },
-    {
-      "id": "mkt:019ff7b3-a3dd-7aab-9013-5adc248f6322",
-      "time": "2026-08-13 04:39:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Axios reports the Trump administration criticized Israeli Defense Minister KATZ's remarks advocating continued occupation of southern Lebanon, saying the comments breach commitments in agreements Israel signed with the U.S. and Lebanon."
-    },
-    {
-      "id": "5038120",
-      "time": "2026-08-13 04:37:37",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國經濟顧問委員會主席：CPI報告削弱了加息的理由。"
     }
   ]
 }
