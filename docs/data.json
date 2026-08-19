@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-19 14:21:11",
-  "count": 15273,
+  "updated": "2026-08-19 14:25:03",
+  "count": 15270,
   "items": [
+    {
+      "id": "mkt:01a018b1-04c1-7aab-908c-8ea68ca91743",
+      "time": "2026-08-19 14:24:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said the Israeli regime's dirty actions have been exposed to people worldwide and that Israel is now regarded as an enemy of all humanity."
+    },
+    {
+      "id": "5047126",
+      "time": "2026-08-19 14:23:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌6.01%，現報3483.002點；上證指數跌2.39%，現報3895.092點；深證成指跌4.80%，現報13920.956點。"
+    },
+    {
+      "id": "mkt:01a018b0-8df2-7aab-908c-8094d2ff29cb",
+      "time": "2026-08-19 14:23:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tropical storm Saudel (No.18) forms; no impact on Chinese waters over next 5 days】Tropical storm Saudel, the 18th named storm of the year, formed this morning in the northwest Pacific. At 11:00 its center was about 1,160 km southeast of Guam at 8.2°N, 153.9°E. Maximum sustained winds near the center 18 m/s; central pressure 998 hPa; radius of 7-level winds 100–200 km. Saudel is moving NNW at 15–20 km/h, expected to strengthen and track toward waters east of the Ryukyu Islands. No impact on Chinese waters is expected over the next five days."
+    },
+    {
+      "id": "mkt:01a018b0-7a20-7aab-908c-7951ccc3c6b1",
+      "time": "2026-08-19 14:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said regional developments make clear who is winning."
+    },
+    {
+      "id": "5047125",
+      "time": "2026-08-19 14:23:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉士伯上半年營收增2.6%，上調全年盈利指引】嘉士伯8月19日釋出2026年上半年財報。集團上半年營收同比增長2.6%至470.53億丹麥克朗，營業利潤增長4.5%至74.48億丹麥克朗，淨利潤增長6.0%至42.88億丹麥克朗。嘉士伯將2026年有機營業利潤增長預期由此前的2%-6%收窄至4%-6%，向此前指引區間上限靠攏。"
+    },
+    {
+      "id": "5047124",
+      "time": "2026-08-19 14:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年第18號颱風“沙德爾”生成 未來5天對我國海域無影響】今年第18號颱風“沙德爾”（熱帶風暴級）已於今天（8月19日）上午在西北太平洋洋麵上生成，11點鐘其中心位於美國關島東南方向約1160公里的洋麵上，就是北緯8.2度、東經153.9度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為100~200公里。預計，“沙德爾”將以每小時15~20公里的速度向北偏西方向移動，強度逐漸增強，趨向琉球群島以東洋麵，未來5天對我國海域無影響。"
+    },
+    {
+      "id": "5047123",
+      "time": "2026-08-19 14:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眸深智慧完成近5億元Pre-A+輪融資】眸深智慧8月19日宣佈，完成近5億元Pre-A+輪融資。本輪由深報一本基金、東方證券、陝西省高新技術產業投資有限公司，產業投資人安宇基金、天盟投資、建元天華聯合投資。老股東創合匯資本、徐匯資本、庚辛資本追投。"
+    },
+    {
+      "id": "5047122",
+      "time": "2026-08-19 14:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀：印度股市取代印尼，成為亞洲最不受歡迎的股市】美國銀行對基金經理進行的一項調查顯示，印度股市取代印尼股市，成為亞洲最不受歡迎的股市。這表明，投資者對印度股市的謹慎情緒日益增長，該市場是今年全球表現最差的市場之一。調查顯示，缺乏明確的AI敞口仍是印度股市面臨的首要擔憂，疲弱的經濟增長則成為第二大風險。調查中有32%的受訪者對印度股票持淨低配立場。缺乏改革以及估值高企，也成為投資者看空這個亞洲第四大股票市場的原因。相比之下，投資者對印度尼西亞的情緒有所改善，27%的基金經理表示對該市場持淨低配立場，低於7月的32%。"
+    },
+    {
+      "id": "mkt:01a018ae-6d6b-7aab-908c-71c57ceae599",
+      "time": "2026-08-19 14:21:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BofA: India equities overtake Indonesia as Asia's most-unloved market】A BofA survey of fund managers shows India has replaced Indonesia as Asia's most-unloved equity market, underscoring rising investor caution; India is among this year's worst-performing markets globally. Respondents cited lack of clear AI exposure as the top concern, followed by weak economic growth. 32% of managers report being net underweight India equities, citing high valuations and a lack of reforms. Sentiment on Indonesia improved: 27% are net underweight there, down from 32% in July."
+    },
+    {
+      "id": "5047121",
+      "time": "2026-08-19 14:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會主席：若企業行動系統存在任何操縱行為，將更快發現並採取嚴厲措施。"
+    },
     {
       "id": "mkt:01a018ad-717d-7aab-908c-6c546d42bad3",
       "time": "2026-08-19 14:20:14",
@@ -139927,126 +140008,6 @@
         "國際"
       ],
       "text": "巴基斯坦外交部長：三名巴基斯坦公民在紅海船隻襲擊事件中身亡。"
-    },
-    {
-      "id": "te:markets:574643",
-      "time": "2026-08-12 14:24:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Flat Open — European equity markets were poised for a subdued open on Wednesday as investors remained cautious amid elevated oil prices and looked ahead to a key US inflation reading. Markets remained doubtful that an agreement to reopen the Strait of Hormuz could be reached, despite assurances from Pakistan’s defense minister that Washington and Tehran are moving closer to a deal. In Europe, investors will review final July inflation figures for Germany and Italy, alongside earnings from major companies including E.ON, Hannover Rueck, M&G and Brenntag, among others. Meanwhile, Dutch lender ABN Amro delivered better-than-expected quarterly earnings as increased fee income and stronger lending revenue boosted results, prompting the bank to upgrade its forecast for its largest source of revenue. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were little changed to slightly lower."
-    },
-    {
-      "id": "5036963",
-      "time": "2026-08-12 14:24:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颱風燦鴻登陸日本影響多地交通】據日本氣象廳訊息，8月11日晚，颱風“燦鴻”在茨城縣南部登陸，給日本關東地區帶來強風等惡劣天氣。截至目前，“燦鴻”造成至少4人受傷，多地出現停電。另據日本富士電視臺報道，日本兩大航司全日空和日本航空11日共有64個航班計劃取消，約1.2萬人出行受影響。部分鐵路線路也因停電、樹木傾倒等原因停運。 目前，颱風“燦鴻”已減弱為熱帶低壓，日本氣象廳表示強風天氣仍將持續一段時間，呼籲民眾繼續做好防災準備。（CCTV國際時訊）"
-    },
-    {
-      "id": "5036962",
-      "time": "2026-08-12 14:24:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬光股份等在崑山成立產投合夥企業】企查查APP顯示，近日，東證昆浦玉澄（崑山）產業投資合夥企業（有限合夥）成立，經營範圍包含以自有資金從事投資活動；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由滬光股份等共同出資。"
-    },
-    {
-      "id": "5036961",
-      "time": "2026-08-12 14:22:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報1641.50點。"
-    },
-    {
-      "id": "5036960",
-      "time": "2026-08-12 14:22:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：2026年AI伺服器機架出貨量將增長逾一倍。"
-    },
-    {
-      "id": "mkt:019ff4a2-b646-7aab-9001-afb6438f44ce",
-      "time": "2026-08-12 14:22:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt has launched a tender for 14 oil and gas concessions, according to a statement."
-    },
-    {
-      "id": "5036959",
-      "time": "2026-08-12 14:22:10",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【中科江南與中央財經大學達成戰略合作】北京中科江南8月12日公眾號訊息，近日，中科江南與中央財經大學達成戰略合作。雙方決定加強產學研合作，推動數字財政理論研究與實踐探索深度融合，助力財政科學管理，服務國家治理體系和治理能力現代化。"
-    },
-    {
-      "id": "mkt:019ff4a2-8776-7aab-9001-a57b78cf54f5",
-      "time": "2026-08-12 14:21:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "TME.N",
-        "Impact bearish"
-      ],
-      "text": "【MS downgrades Tencent Music US PT to $10.1; competitive outlook needs more clarity】Morgan Stanley cut its price target on Tencent Music (TME.N) to $10.1 from $10.5 and maintained a market-weight rating. The bank said synergies from the Himalaya acquisition are uncertain and could be a swing factor amid a prolonged competitive and earnings downgrade cycle. Accelerated share buybacks offer partial downside support but clearer visibility on competition is required. Morgan Stanley trimmed Tencent Music 2026–2028 EPS forecasts by 3–7% to reflect weaker subscription revenue. At current levels the stock trades at roughly 10x 2027E P/E and 6.6x ex-cash P/E; any valuation rerating depends on an improvement in the competitive landscape."
-    },
-    {
-      "id": "5036958",
-      "time": "2026-08-12 14:21:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及啟動14個油氣區塊開採權招標。"
-    },
-    {
-      "id": "mkt:019ff4a2-3e2c-7aab-9001-9ebd1c3d5360",
-      "time": "2026-08-12 14:21:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Foxconn expects strong AI demand to drive full-year growth."
-    },
-    {
-      "id": "mkt:019ff4a2-26d4-7aab-9001-96e6cec101f3",
-      "time": "2026-08-12 14:21:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "Foxconn expects AI rack shipments to rise by high-double-digit percent QoQ in Q3."
-    },
-    {
-      "id": "5036957",
-      "time": "2026-08-12 14:21:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計強勁的人工智慧需求將推動全年增長。"
-    },
-    {
-      "id": "5036956",
-      "time": "2026-08-12 14:21:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：第三季度人工智慧伺服器機架出貨量環比增幅將達到兩位數高位。"
     }
   ]
 }

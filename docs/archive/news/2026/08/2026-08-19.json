@@ -1,7 +1,88 @@
 {
   "date": "2026-08-19",
-  "count": 1257,
+  "count": 1267,
   "items": [
+    {
+      "id": "mkt:01a018b1-04c1-7aab-908c-8ea68ca91743",
+      "time": "2026-08-19 14:24:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said the Israeli regime's dirty actions have been exposed to people worldwide and that Israel is now regarded as an enemy of all humanity."
+    },
+    {
+      "id": "5047126",
+      "time": "2026-08-19 14:23:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌6.01%，現報3483.002點；上證指數跌2.39%，現報3895.092點；深證成指跌4.80%，現報13920.956點。"
+    },
+    {
+      "id": "mkt:01a018b0-8df2-7aab-908c-8094d2ff29cb",
+      "time": "2026-08-19 14:23:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tropical storm Saudel (No.18) forms; no impact on Chinese waters over next 5 days】Tropical storm Saudel, the 18th named storm of the year, formed this morning in the northwest Pacific. At 11:00 its center was about 1,160 km southeast of Guam at 8.2°N, 153.9°E. Maximum sustained winds near the center 18 m/s; central pressure 998 hPa; radius of 7-level winds 100–200 km. Saudel is moving NNW at 15–20 km/h, expected to strengthen and track toward waters east of the Ryukyu Islands. No impact on Chinese waters is expected over the next five days."
+    },
+    {
+      "id": "mkt:01a018b0-7a20-7aab-908c-7951ccc3c6b1",
+      "time": "2026-08-19 14:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said regional developments make clear who is winning."
+    },
+    {
+      "id": "5047125",
+      "time": "2026-08-19 14:23:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉士伯上半年營收增2.6%，上調全年盈利指引】嘉士伯8月19日釋出2026年上半年財報。集團上半年營收同比增長2.6%至470.53億丹麥克朗，營業利潤增長4.5%至74.48億丹麥克朗，淨利潤增長6.0%至42.88億丹麥克朗。嘉士伯將2026年有機營業利潤增長預期由此前的2%-6%收窄至4%-6%，向此前指引區間上限靠攏。"
+    },
+    {
+      "id": "5047124",
+      "time": "2026-08-19 14:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年第18號颱風“沙德爾”生成 未來5天對我國海域無影響】今年第18號颱風“沙德爾”（熱帶風暴級）已於今天（8月19日）上午在西北太平洋洋麵上生成，11點鐘其中心位於美國關島東南方向約1160公里的洋麵上，就是北緯8.2度、東經153.9度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為100~200公里。預計，“沙德爾”將以每小時15~20公里的速度向北偏西方向移動，強度逐漸增強，趨向琉球群島以東洋麵，未來5天對我國海域無影響。"
+    },
+    {
+      "id": "5047123",
+      "time": "2026-08-19 14:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眸深智慧完成近5億元Pre-A+輪融資】眸深智慧8月19日宣佈，完成近5億元Pre-A+輪融資。本輪由深報一本基金、東方證券、陝西省高新技術產業投資有限公司，產業投資人安宇基金、天盟投資、建元天華聯合投資。老股東創合匯資本、徐匯資本、庚辛資本追投。"
+    },
+    {
+      "id": "5047122",
+      "time": "2026-08-19 14:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀：印度股市取代印尼，成為亞洲最不受歡迎的股市】美國銀行對基金經理進行的一項調查顯示，印度股市取代印尼股市，成為亞洲最不受歡迎的股市。這表明，投資者對印度股市的謹慎情緒日益增長，該市場是今年全球表現最差的市場之一。調查顯示，缺乏明確的AI敞口仍是印度股市面臨的首要擔憂，疲弱的經濟增長則成為第二大風險。調查中有32%的受訪者對印度股票持淨低配立場。缺乏改革以及估值高企，也成為投資者看空這個亞洲第四大股票市場的原因。相比之下，投資者對印度尼西亞的情緒有所改善，27%的基金經理表示對該市場持淨低配立場，低於7月的32%。"
+    },
+    {
+      "id": "mkt:01a018ae-6d6b-7aab-908c-71c57ceae599",
+      "time": "2026-08-19 14:21:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BofA: India equities overtake Indonesia as Asia's most-unloved market】A BofA survey of fund managers shows India has replaced Indonesia as Asia's most-unloved equity market, underscoring rising investor caution; India is among this year's worst-performing markets globally. Respondents cited lack of clear AI exposure as the top concern, followed by weak economic growth. 32% of managers report being net underweight India equities, citing high valuations and a lack of reforms. Sentiment on Indonesia improved: 27% are net underweight there, down from 32% in July."
+    },
+    {
+      "id": "5047121",
+      "time": "2026-08-19 14:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會主席：若企業行動系統存在任何操縱行為，將更快發現並採取嚴厲措施。"
+    },
     {
       "id": "mkt:01a018ad-717d-7aab-908c-6c546d42bad3",
       "time": "2026-08-19 14:20:14",
