@@ -1,7 +1,201 @@
 {
-  "updated": "2026-08-19 09:30:51",
-  "count": 15149,
+  "updated": "2026-08-19 09:34:43",
+  "count": 15148,
   "items": [
+    {
+      "id": "5046767",
+      "time": "2026-08-19 09:34:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內漲1%，現報3251.00元。"
+    },
+    {
+      "id": "5046766",
+      "time": "2026-08-19 09:33:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農業板塊繼續逆勢活躍 金健米業3連板】早盤農業板塊繼續逆勢活躍，金健米業、農發種業、京糧控股3連板，萬向德農、亞盛集團、登海種業等跟漲。"
+    },
+    {
+      "id": "mkt:01a017a7-4287-7aab-9085-c364a867db0c",
+      "time": "2026-08-19 09:33:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 Index fell over 3% as semiconductor stocks weakened; Baiwei Storage slid nearly 5%."
+    },
+    {
+      "id": "mkt:01a017a7-419e-7aab-9085-be1bd03e655f",
+      "time": "2026-08-19 09:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park spare cash? Money-market yield snapshot】Licaitong Current+ 7-day annualized yield ranged 0.7070%–1.4040%. WeChat Lingqiantong 7-day annualized yield ranged 0.8940%–1.0060%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9010%–1.0530%."
+    },
+    {
+      "id": "5046765",
+      "time": "2026-08-19 09:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026APEC海關係列會議在大連舉辦】今年是APEC“中國年”，中國海關擔任APEC海關手續分委會主席。今天（19日），2026年亞太經合組織（APEC）海關係列會議將在大連舉辦，來自13個APEC經濟體的海關、相關國際組織、AEO企業的代表將參加今天的研討會。據瞭解，此次活動緊扣“建設亞太共同體，促進共同繁榮”年度主題及“開放、創新、合作”三大優先領域，旨在搭建高水平對話平臺，助力提升亞太區域海關治理能力。（央視新聞）"
+    },
+    {
+      "id": "5046764",
+      "time": "2026-08-19 09:33:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.01%，現報3950.141點；深證成指跌2.37%，現報14276.488點；創業板指跌3.04%，現報3592.817點。"
+    },
+    {
+      "id": "mkt:01a017a6-8e9e-7aab-9085-b1191b4016ad",
+      "time": "2026-08-19 09:33:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share real estate sector staged a brief intraday rally; Nandu Property hit the daily limit. I Love My Home, Zhongtian Service, Shibei Hi‑Tech, Jinke and Greenland Holdings also rose."
+    },
+    {
+      "id": "5046763",
+      "time": "2026-08-19 09:32:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多隻人氣股下挫 愛麗家居、一鳴食品雙雙跌停】早盤高位人氣股批次調整，愛麗家居、一鳴食品跌停。欣天科技、桂發祥、中石科技、天洋新材、金螳螂等跟跌。"
+    },
+    {
+      "id": "te:markets:576280",
+      "time": "2026-08-19 09:32:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Steadies Ahead of FOMC Minutes — The dollar index steadied around 99.6 on Wednesday after touching more than two-month lows earlier this week, as investors turned their attention to minutes from the Federal Reserve’s July meeting for fresh clues on the monetary policy outlook. The Fed left interest rates unchanged last month, although three officials dissented in favor of a rate hike, with traders looking for more details on the division within the central bank. Markets currently see a 65% chance that policymakers will keep rates unchanged in September following a string of weak US economic data, while expectations for a rate increase later this year have also faded. Investors will also watch Chairman Kevin Warsh’s remarks at the Fed’s annual Jackson Hole symposium later this month, where he could seek to reassure markets amid a global bond selloff. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades."
+    },
+    {
+      "id": "5046762",
+      "time": "2026-08-19 09:32:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊短線拉昇，南都物業漲停】房地產板塊短線拉昇，南都物業漲停，我愛我家、中天服務、市北高新、金科股份、綠地控股等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a017a5-d329-7aab-9085-ac2975e1c85b",
+      "time": "2026-08-19 09:32:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600256.SS",
+        "Impact bullish",
+        "600378.SS"
+      ],
+      "text": "China A-share coal mining and processing sector briefly surged intraday; Baotailong hit the daily limit, while Dayou Energy, Zhengzhou Coal, Huaibei Mining, Haohua Energy and Guanghui Energy advanced."
+    },
+    {
+      "id": "mkt:01a017a5-0cc8-7aab-9085-a1ab206120ad",
+      "time": "2026-08-19 09:31:27",
+      "tags": [
+        "MKT News",
+        "00762.HK",
+        "Impact bearish"
+      ],
+      "text": "China Unicom (00762.HK) shares fell more than 10% after the company reported 1H net profit down 34.6% YoY."
+    },
+    {
+      "id": "5046761",
+      "time": "2026-08-19 09:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊短線衝高，寶泰隆漲停】煤炭開採加工板塊短線衝高，寶泰隆漲停，大有能源、鄭州煤電、淮北礦業、昊華能源、廣匯能源跟漲。"
+    },
+    {
+      "id": "mkt:01a017a4-dcb7-7aab-9085-9f9dbfa0e14a",
+      "time": "2026-08-19 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Index futures morning open】China equity index futures opened lower: CSI300 (IF) most-active contract down 1.02%; SSE 50 (IH) down 0.59%; CSI500 (IC) down 1.12%; CSI1000 (IM) down 1.03%."
+    },
+    {
+      "id": "mkt:01a017a4-dc6f-7aab-9085-9364f0ca1754",
+      "time": "2026-08-19 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】2-year (TS) most-active contract down 0.01%; 5-year (TF) most-active contract down 0.01%; 10-year (T) most-active contract unchanged; 30-year (TL) most-active contract down 0.02%."
+    },
+    {
+      "id": "5046760",
+      "time": "2026-08-19 09:31:10",
+      "tags": [
+        "公司",
+        "觀點",
+        "原創"
+      ],
+      "text": "【花旗下調百度美股目標價6.2% AI雲基礎設施收入放緩削弱業績】百度營收連續第五個季度下滑，隔夜ADR大跌近13%。花旗表示，公司二季度業績略低於預期，儘管GPU（圖形處理器）營收加速增長，但因AI雲基礎設施增長缺乏持續性而抵消。花旗分析師Alicia Yap等人在報告中表示，ADR股價下跌反應了AI雲基礎設施收入增速放緩、淨利潤未達預期（因投資資產公允價值下降及匯兌因素）、擬議中的崑崙芯分拆上市時間表缺乏明確的能見度。鑑於業績預測調整及下調雲業務估值倍數，將百度ADR目標價由177美元下調至166美元。鑑於估值處於低位以及雙重主要上市轉換帶來的催化劑，維持該股“買入”評級。花旗表示，預計第三季度公百度通用業務收入將同比下降1.5%；AI驅動的收入將同比增長29%；AI雲基礎設施收入將同比增長65%至69.4億元人民幣。"
+    },
+    {
+      "id": "mkt:01a017a4-7aa5-7aab-9085-8aa5d809673e",
+      "time": "2026-08-19 09:30:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-shares opened lower and extended losses: ChiNext fell over 3%, the Shenzhen Composite Index dropped 2.26%, and the Shanghai Composite Index declined 0.9%."
+    },
+    {
+      "id": "5046759",
+      "time": "2026-08-19 09:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.05%，成分股中，華虹宏力跌4.59%，瀾起科技跌4.57%，拓荊科技跌4.48%，源傑科技跌4.46%。"
+    },
+    {
+      "id": "5046758",
+      "time": "2026-08-19 09:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.22%。賽斯轉債、勝藍轉02、泰坦轉債、金25轉債、微導轉債跌幅居前，分別跌3.50%、3.35%、3.14%、3.12%、3.11%。三鑫轉債、N奧普轉、天脈轉債、合金轉債、航宇轉債漲幅居前，分別漲30.00%、30.00%、14.56%、11.34%、6.76%。"
+    },
     {
       "id": "5046757",
       "time": "2026-08-19 09:30:17",
@@ -138622,200 +138816,6 @@
         "Importance 1"
       ],
       "text": "South Korean Shares Climb as Chip Stocks Rally — The benchmark KOSPI rose nearly 3% to around 6,530 on Wednesday, extending gains for a third straight session, led by major technology stocks. Samsung Electronics jumped more than 4%, and SK hynix gained over 2%, while optimism over strong AI-related demand and expectations of increased shareholder returns supported sentiment. Other notable gainers included SK Square (9.1%), Hyundai Motor (1.4%), LG Energy Solution (3.4%), Hanwha Aerospace (3.0%), KB Financial Group (1.0%), Kia Corporation (1.6%), and Doosan Enerbility (3.0%). Investors also looked ahead to the US July inflation report, with a softer-than-expected reading potentially easing concerns over a September Federal Reserve rate hike. Meanwhile, renewed tensions in the Middle East remained a risk to sentiment after hopes for a potential US-Iran peace deal faded, while the continued closure of the Strait of Hormuz pushed US crude prices above $83 a barrel, keeping inflationary pressures in focus."
-    },
-    {
-      "id": "mkt:019ff39b-7b7e-7aab-8ffe-2f7ac19d877a",
-      "time": "2026-08-12 09:34:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share innovative drug sector spiked intraday; Baihua Pharmaceutical hit the daily limit, marking a seventh consecutive limit-up. Wanbang Pharmaceutical, Hongbo Pharmaceutical, Longshen Rongfa, Yuheng Pharmaceutical, Harbin Pharmaceutical and Boji Pharmaceutical also advanced."
-    },
-    {
-      "id": "mkt:019ff39b-6723-7aab-8ffe-27fe86ac4905",
-      "time": "2026-08-12 09:34:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【New Zealand PM Christopher Luxon wins caucus confidence vote, remains National Party leader】Prime Minister Christopher Luxon won his National Party caucus confidence vote on the 12th and will remain party leader. Luxon said on social media on the 11th that media reports had increased speculation about his leadership and he called a caucus meeting for the 12th. New Zealand's parliamentary election is scheduled for Nov. 7."
-    },
-    {
-      "id": "mkt:019ff39b-530b-7aab-8ffe-1f8b55b76813",
-      "time": "2026-08-12 09:34:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China mobile-wallet cash yield snapshot】WeChat Licaitong (current+7-day) 7-day annualised yield ranged 0.6810%–1.0520%; WeChat Wallet Lingqiantong 7-day annualised yield ranged 0.9010%–1.0010%; Alipay Yu'ebao 7-day annualised yield ranged 0.9010%–1.0090%."
-    },
-    {
-      "id": "5036625",
-      "time": "2026-08-12 09:34:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國綜指漲幅擴大至3%，現報6535.98點。個股方面，三星電子漲超5%，SK海力士漲超2%。"
-    },
-    {
-      "id": "mkt:019ff39b-0483-7aab-8ffe-16eac38eaaf9",
-      "time": "2026-08-12 09:34:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index rose 3.00% intraday to 6,535.98 points."
-    },
-    {
-      "id": "mkt:019ff39a-f07c-7aab-8ffe-0fb2d89a6854",
-      "time": "2026-08-12 09:34:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share industrial \"mother machine\" theme stayed active: Huadong Numerical Control notched a third consecutive daily limit-up, Shenyang Machine Tool hit the daily limit, and Dongtu Technology, Ruike Laser, Kede Numerical Control and Dazhu Numerical Control also climbed."
-    },
-    {
-      "id": "5036624",
-      "time": "2026-08-12 09:33:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭國家黨領導人、聯合政府總理克里斯托弗·拉克森12日贏得本黨國會黨團信任投票，繼續擔任主要執政黨國家黨領導人。 紐西蘭將於11月7日舉行國會選舉。拉克森11日在社交媒體發文說，從媒體報道等中可以明顯看出，關於他領導地位的猜測正在增多，他宣佈召集國家黨12日舉行國會黨團會議討論此事。（新華社）"
-    },
-    {
-      "id": "te:markets:574559",
-      "time": "2026-08-12 09:33:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rises to 2-Week High — US gasoline futures rose to around $3.16 per gallon on Wednesday, a two-week high, tracking gains in crude prices as markets assessed the viability of efforts toward a potential deal on the Strait of Hormuz. Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the waterway, while Iran-Oman talks have reached an advanced stage, according to a Qatari official cited by Al Jazeera. Meanwhile, API data showed gasoline stocks fell by 1.531 million barrels in the week ending August 7, following a 156,000-barrel increase the prior week. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further energy disruptions after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027. At the pump, the EIA raised its retail gasoline price forecast for this year and 2027."
-    },
-    {
-      "id": "5036623",
-      "time": "2026-08-12 09:33:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國航將新開北京至羅馬尼亞、克羅埃西亞航線】從國航瞭解到，國航將於9月4日起新開北京-布加勒斯特-薩格勒布國際客運航線，每週一、三、五執行三個往返航班。該航線的開通將進一步豐富在中東歐航空市場的網路佈局，大幅縮短中國與中東歐腹地的時空距離。國航相關負責人介紹，國航持續在中歐市場最佳化網路佈局、加大運力投入，已通航27個歐洲航點，每週運營近260個航班。"
-    },
-    {
-      "id": "5036622",
-      "time": "2026-08-12 09:33:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.07%。N賽斯轉、奧飛轉債、愛迪轉債、雙良轉債、精測轉2漲幅居前，分別漲30.00%、2.36%、2.31%、1.89%、1.65%。久吾轉02、航宇轉債、永吉轉債、運機轉債、銀輪轉債跌幅居前，分別跌0.99%、0.99%、0.85%、0.64%、0.63%。"
-    },
-    {
-      "id": "5036621",
-      "time": "2026-08-12 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲3%，現報1487.50元。"
-    },
-    {
-      "id": "5036620",
-      "time": "2026-08-12 09:32:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Alpha Compute將斥資超5000萬美元，在美國賓州建天然氣資料中心園區】當地時間8月11日，人工智慧基礎設施公司Alpha Compute宣佈簽署有約束力意向書，計劃在美國賓夕法尼亞州收購天然氣資產，建設一座規劃容量200兆瓦、以天然氣供電的資料中心園區，並有可能擴建至1吉瓦。該資產的收購基準價格定為5500萬美元，在簽署最終協議後，Alpha Compute需支付300萬美元定金。"
-    },
-    {
-      "id": "5036619",
-      "time": "2026-08-12 09:32:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤炭板塊盤初走弱，新大洲A跌停】煤炭板塊盤初走弱，新大洲A跌停，大有能源、潞安環能、淮北礦業、山西焦化、蘭花科創、恆源煤電等跟跌。"
-    },
-    {
-      "id": "5036618",
-      "time": "2026-08-12 09:32:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【工業母機概念繼續活躍 華東數控3連板】早盤工業母機概念繼續活躍，華東數控3連板，鼎通科技、瀋陽機床、銳科鐳射、科德數控、大族數控跟漲。"
-    },
-    {
-      "id": "mkt:019ff399-324b-7aab-8ffe-006961121358",
-      "time": "2026-08-12 09:32:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Tech Index's early losses widened to 1%; Hang Seng Index is down 0.9%."
-    },
-    {
-      "id": "5036617",
-      "time": "2026-08-12 09:31:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇省首個Token運營中心在蘇州揭牌】據蘇州日報，8月11日，中國電信（江蘇）Token運營中心揭牌暨入駐蘇州國際資料港儀式在蘇州工業園區舉行。這是全省首個Token運營中心，目標打造國內領先、接軌國際的Token綜合服務樞紐。此次揭牌的中國電信（江蘇）Token運營中心將聚焦大模型詞元算力業務，整合國內AI應用場景，打通跨境AI服務雙向通道，實現詞元算力排程、交付、鑑證、管控等全生命週期管理。當天，涵蓋天翼雲、智譜、火山、阿里、騰訊、中國電信國際公司、新建元等國內外領軍企業的Token出海服務聯盟同步成立，初步形成從資源供給到場景應用、從智慧排程到跨境輸出的協同生態網路，可為出海企業提供“模型+合規+本地化”一站式服務。"
-    },
-    {
-      "id": "mkt:019ff398-4e8d-7aab-8ffd-ff55fd510e6f",
-      "time": "2026-08-12 09:31:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China index futures open】CSI 300 index futures (IF) most-active contract down 0.10%, SSE 50 index futures (IH) most-active contract down 0.17%, CSI 500 index futures (IC) most-active contract up 0.12%, CSI 1000 index futures (IM) most-active contract down 0.03%."
-    },
-    {
-      "id": "mkt:019ff398-4d27-7aab-8ffd-f076df92437d",
-      "time": "2026-08-12 09:31:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open】2-year government bond futures (TS) most-active contract flat at the morning open; 5-year (TF) down 0.01%, 10-year (T) down 0.02%, 30-year (TL) down 0.06%."
-    },
-    {
-      "id": "5036616",
-      "time": "2026-08-12 09:30:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "影視院線板塊高開，北京文化走出三連板，儒意電影漲超4%，金逸影視、中國電影等跟漲。"
-    },
-    {
-      "id": "mkt:019ff397-fc83-7aab-8ffd-e8dc78bec8e3",
-      "time": "2026-08-12 09:30:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share film exhibition sector opened higher. Beijing Culture extended its run to a third straight daily limit-up. Ruyi Film rose over 4%; Jinyi Film & TV and China Film also advanced."
     }
   ]
 }
