@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-20 01:24:57",
-  "count": 15546,
+  "updated": "2026-08-20 01:28:47",
+  "count": 15550,
   "items": [
+    {
+      "id": "mkt:01a01b0f-fc2a-7aab-909e-986ce85d8985",
+      "time": "2026-08-20 01:27:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraqi leaders meet Iran parliament speaker on bilateral ties, regional tensions】On the 19th in Baghdad, Iraqi Prime Minister Zaidi, President Amidi and Parliament Speaker Halbusi met visiting Iranian Islamic Consultative Assembly Speaker Qalibaf to discuss consolidating bilateral relations and easing regional tensions."
+    },
+    {
+      "id": "5048456",
+      "time": "2026-08-20 01:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克領導人會見伊朗議長 聚焦雙邊關係和地區局勢】伊拉克總理扎伊迪、總統阿米迪和國民議會議長哈勒布西19日分別在首都巴格達會見來訪的伊朗伊斯蘭議會議長卡利巴夫，就鞏固雙邊關係及緩和地區緊張局勢等議題交換意見。（新華社）"
+    },
+    {
+      "id": "mkt:01a01b0e-771d-7aab-909e-956c8370ed48",
+      "time": "2026-08-20 01:25:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he will not tolerate a Turkish military presence in Syria that threatens Israel."
+    },
+    {
+      "id": "5048455",
+      "time": "2026-08-20 01:24:53",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大養老金計劃投資委員會(CPPIB)據稱有多位高層人員離職。"
+    },
+    {
+      "id": "5048454",
+      "time": "2026-08-20 01:24:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們絕不容忍土耳其在敘利亞的軍事存在威脅以色列。我們已經明確傳達了資訊，不要這樣做。看來他們沒聽清楚，所以我們確保他們徹底明白了。"
+    },
     {
       "id": "5048453",
       "time": "2026-08-20 01:24:13",
@@ -142207,14 +142254,6 @@
         "其他"
       ],
       "text": "巴西央行：7 月美元資金淨流入規模達 19.38 億美元。"
-    },
-    {
-      "id": "mkt:019ff702-b305-7aab-9011-e2ea49534d13",
-      "time": "2026-08-13 01:26:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada is weighing a proposal to keep exempting the value of U.S.-made parts in Canadian vehicle exports from auto tariffs, even as it seeks tariff waivers from the U.S., The Globe and Mail reports."
     }
   ]
 }
