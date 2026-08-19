@@ -1,7 +1,138 @@
 {
-  "updated": "2026-08-20 01:52:17",
-  "count": 15560,
+  "updated": "2026-08-20 02:01:30",
+  "count": 15564,
   "items": [
+    {
+      "id": "5048470",
+      "time": "2026-08-20 02:00:30",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "會議紀要顯示，美聯儲多位官員表示，若通脹未能回落，則可能需要加息。"
+    },
+    {
+      "id": "5048469",
+      "time": "2026-08-20 02:00:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "會議紀要顯示，美聯儲政策制定者在7月會議上對通脹的擔憂有所加劇。"
+    },
+    {
+      "id": "te:markets:576592",
+      "time": "2026-08-20 01:58:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Tops $92 — Brent crude oil rose above $92 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month."
+    },
+    {
+      "id": "te:markets:576591",
+      "time": "2026-08-20 01:57:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Rises for 4th Session — Crude oil rose above $86 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month."
+    },
+    {
+      "id": "mkt:01a01b2a-a5e5-7aab-909f-0cd83995ffe3",
+      "time": "2026-08-20 01:56:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) announced the launch of a new Meta AI offering targeted at small businesses."
+    },
+    {
+      "id": "mkt:01a01b2a-4094-7aab-909f-00ec882f6cc8",
+      "time": "2026-08-20 01:55:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister said the Paks nuclear power plant could reach full-capacity operation next Thursday or Friday."
+    },
+    {
+      "id": "mkt:01a01b2a-21ca-7aab-909e-fc43b54d22b8",
+      "time": "2026-08-20 01:55:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister said the Paks nuclear power plant may begin restarting six idled turbines from Sunday."
+    },
+    {
+      "id": "mkt:01a01b29-5afb-7aab-909e-f44c63965bc1",
+      "time": "2026-08-20 01:54:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【U.S.-Canada talks could cut Canada steel, aluminum tariffs to 25%】U.S. and Canadian negotiators are discussing a temporary trade deal that would reduce U.S. tariffs on some Canadian steel and aluminum products to 25%, people familiar with the talks said. Details are not final and the cut would not apply to all steel and aluminum items; some derivative products containing steel or aluminum may carry different rates. Talks continued Wednesday after Trump paused planned 50% tariffs on billions of dollars of Canadian goods less than 24 hours earlier to allow more time for negotiations. The proposed adjustment could help secure a durable agreement and avert broader tariff measures ahead of a Friday deadline."
+    },
+    {
+      "id": "5048468",
+      "time": "2026-08-20 01:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：面向小型企業推出全新Meta AI功能。"
+    },
+    {
+      "id": "5048467",
+      "time": "2026-08-20 01:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理稱，帕克斯核電站可能於週日開始重啟六臺閒置的渦輪機。"
+    },
+    {
+      "id": "mkt:01a01b27-f08e-7aab-909e-edc9f09b6ade",
+      "time": "2026-08-20 01:53:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen defense ministry: Presidential Leadership Council ordered appointment of Hashim Abdullah Hussein Al-Ahmar as military adviser to the Supreme Commander of the Armed Forces and promoted him to lieutenant general."
+    },
+    {
+      "id": "5048466",
+      "time": "2026-08-20 01:52:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，多瑙河水位將保持足夠高度，保克什核電站避免停運。"
+    },
+    {
+      "id": "mkt:01a01b27-241b-7aab-909e-e6df527e6c2b",
+      "time": "2026-08-20 01:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister says the Paks nuclear power plant will avoid shutdown as Danube river levels are expected to remain sufficiently high."
+    },
     {
       "id": "5048465",
       "time": "2026-08-20 01:51:31",
@@ -142278,85 +142409,6 @@
         "國際"
       ],
       "text": "L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。"
-    },
-    {
-      "id": "mkt:019ff721-b8e0-7aab-9012-2334ff2a9f40",
-      "time": "2026-08-13 02:00:10",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. July federal budget deficit widened to $432 bln, vs. $346 bln expected; June deficit was $120 bln."
-    },
-    {
-      "id": "mkt:019ff721-942d-7aab-9012-1db4d9e5f609",
-      "time": "2026-08-13 02:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Government Budget (Jul) | actual -432000000000B | consensus -346000000000B | previous -120000000000B"
-    },
-    {
-      "id": "5038069",
-      "time": "2026-08-13 01:59:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊拉克總理：9月30日為國際聯盟撤軍最後期限】當地時間12日，據伊拉克總理媒體辦公室宣告，伊拉克總理扎伊迪當天會見了到訪的美軍中央司令部司令庫珀。會晤期間，扎伊迪重申了伊方對既定時間表的承諾，即9月30日是國際聯盟部隊結束在伊拉克軍事任務並完成撤軍的最終日期。扎伊迪表示，10月1日將是伊拉克歷史上嶄新的一天，屆時伊拉克將徹底擺脫所有外國軍事存在，實現本國領土主權，持續增強本國安全和軍事能力，維護自身安全與穩定。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ff721-2d0b-7aab-9012-1119e3946451",
-      "time": "2026-08-13 01:59:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reports a Yemeni government drone strike hit a Houthi assembly point in Al Jawf province."
-    },
-    {
-      "id": "5038068",
-      "time": "2026-08-13 01:59:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月政府預算 -4323.08億美元，預期 -3460億美元，前值 -2911億美元。"
-    },
-    {
-      "id": "5038067",
-      "time": "2026-08-13 01:57:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：巴西經濟團隊將支出約束觸發條款寫入國會一項無關法案之中。擬議措施將在 2027 年實現約 100 億雷亞爾的支出節省。"
-    },
-    {
-      "id": "mkt:019ff71e-baa0-7aab-9012-0ae808bede0b",
-      "time": "2026-08-13 01:56:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Brazil's economic team inserted spending-cut provisions into an unrelated bill filed with Congress; the measures would save about BRL 10 bln in 2027."
-    },
-    {
-      "id": "5038066",
-      "time": "2026-08-13 01:54:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門武裝部隊：無人機襲擊朱夫省胡塞武裝集結點。"
-    },
-    {
-      "id": "mkt:019ff71c-270c-7aab-9012-02842891b76f",
-      "time": "2026-08-13 01:54:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace."
     }
   ]
 }
