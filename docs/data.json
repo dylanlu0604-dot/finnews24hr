@@ -1,7 +1,655 @@
 {
-  "updated": "2026-08-19 18:17:53",
-  "count": 15304,
+  "updated": "2026-08-19 18:34:25",
+  "count": 15322,
   "items": [
+    {
+      "id": "5047676",
+      "time": "2026-08-19 18:21:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜(AMZN.O)：Prime Air服務擴充套件將使現有業務規模增加六倍。"
+    },
+    {
+      "id": "mkt:01a01989-b050-7aab-9093-6a85a8f37a61",
+      "time": "2026-08-19 18:20:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) said expansion of its Prime Air service will increase the scale of its existing business sixfold."
+    },
+    {
+      "id": "5047675",
+      "time": "2026-08-19 18:20:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【圓通速遞：2026年7月快遞產品收入59.67億元，同比增11.10%】圓通速遞公告，2026年7月快遞產品收入59.67億元，同比變動11.10%；業務完成量28.95億票，同比變動12.07%；快遞產品單票收入2.06元，同比變動-0.86%。"
+    },
+    {
+      "id": "mkt:01a01988-d9c4-7aab-9093-6174da78d275",
+      "time": "2026-08-19 18:19:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NAFMII issues serious warning to Shengda Futures】On Aug 19 the China Interbank Market Dealers Association (NAFMII) issued a disciplinary notice giving Shengda Futures a serious warning. NAFMII found that, as an interbank bond-market trading institution, Shengda lent trading instant‑messaging accounts to personnel, failed to carry out active management of related products, did not ensure full transaction traceability for bond trades, and lacked front‑office/back‑office segregation. The sanction was imposed after review under interbank bond‑market self‑discipline rules."
+    },
+    {
+      "id": "5047674",
+      "time": "2026-08-19 18:19:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【駿成科技：股票交易異常波動 正籌劃重大資產重組】駿成科技公告稱，公司股票連續2個交易日（2026年8月18日、8月19日）收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。經核查，公司近期經營情況正常，除擬透過現金方式購買江蘇新通達電子科技股份有限公司50%股份的籌劃事項外，不存在應披露而未披露的重大事項。本次交易尚在推進中，存在終止風險，能否順利實施尚存在不確定性，公司股票不停牌。控股股東、實際控制人及其一致行動人在股票異動期間不存在買賣公司股票的行為。"
+    },
+    {
+      "id": "5047673",
+      "time": "2026-08-19 18:19:36",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【申通快遞：2026年7月業務量26.03億票，同比增長19.34%】申通快遞公告，2026年7月快遞服務業務收入53.7億元，同比增長25.26%；完成業務量26.03億票，同比增長19.34%；快遞服務單票收入2.06元，同比增長4.57%。"
+    },
+    {
+      "id": "5047672",
+      "time": "2026-08-19 18:19:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電計量：獲准公開發行不超過10億元科技創新公司債券】廣電計量公告，公司近日收到中國證監會批覆，同意公司向專業投資者公開發行面值總額不超過10億元科技創新公司債券的註冊申請。該批覆自同意註冊之日起24個月內有效，公司可在註冊有效期內分期發行。"
+    },
+    {
+      "id": "5047671",
+      "time": "2026-08-19 18:19:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三元生物：擬不超3000萬元參與標的公司增資專案】三元生物公告稱，公司擬作為意向投資方參與中材人工晶體研究院（山東）有限公司增資專案，擬投資金額不超過3000萬元，最終投資金額及持股比例將根據北京產權交易所交易規則確定。本次投資在公司經營管理層審批許可權內，無需提交董事會和股東會審議，不構成關聯交易及重大資產重組。標的公司聚焦紅外光學材料及製品產業，2025年營收1.45億元、淨利潤1818.53萬元。本次投資能否成功存在較大不確定性。"
+    },
+    {
+      "id": "te:markets:576468",
+      "time": "2026-08-19 18:18:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Latvia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Latvia Hit 25-month High — Riga increased to 943.34 Index Points, the highest since July 2024. Over the past 4 weeks, Latvia Stock Market Index (Riga) gained 2.67%, and in the last 12 months, it increased 1.89%."
+    },
+    {
+      "id": "5047670",
+      "time": "2026-08-19 18:18:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖諾生物：2026年上半年淨利潤1.35億元 同比增51.98%】聖諾生物公告，2026年上半年營業收入5.07億元，同比增長50.27%。歸屬於上市公司股東的淨利潤1.35億元，同比增長51.98%，上年同期淨利潤8895.67萬元。扣除非經常性損益的淨利潤1.34億元，同比增長50.19%。"
+    },
+    {
+      "id": "5047669",
+      "time": "2026-08-19 18:17:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【採納股份：股東協議轉讓股份簽署補充協議】採納股份公告稱，公司股東陸軍、陸維煒、趙紅、煒達爾、維達豐、維達元與湃肽醫藥此前簽署協議，擬合計轉讓公司2201.10萬股股份（佔總股本18.01%）給湃肽醫藥。近日各方簽署補充協議，調整第四期付款時限，明確其最遲不晚於標的股份過戶登記完成之日起30個工作日內支付；同時修改協議解除終止後的相關處置條款，其餘條款保持不變。本次協議轉讓尚需深交所合規性確認後方可辦理過戶，存在不確定性。"
+    },
+    {
+      "id": "5047668",
+      "time": "2026-08-19 18:17:31",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【圓通速遞：2026年7月快遞產品收入59.67億元，同比增11.10%】圓通速遞公告，2026年7月快遞產品收入59.67億元，同比變動11.10%；業務完成量28.95億票，同比變動12.07%；快遞產品單票收入2.06元，同比變動-0.86%。"
+    },
+    {
+      "id": "5047667",
+      "time": "2026-08-19 18:17:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST寧科：股票交易異常波動 提示相關風險】ST寧科公告稱，公司股票於2026年8月17日、8月18日、8月19日連續三個交易日收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動情形。經核查，公司目前基本面未發生重大變化，不存在應披露而未披露的重大資訊，控股股東及實控人不存在籌劃重大事項，異常波動期間相關主體未買賣公司股票。公司2026年第一季度營收1.18億元，淨虧損6431.55萬元；預計2026年半年度淨虧損1.20億元至1.50億元。公司已於2026年8月15日向上交所申請撤銷其他風險警示，能否獲批尚不確定；與上海凱賽的訴訟涉及核心產品技術，可能對經營造成不利影響，敬請投資者注意風險。"
+    },
+    {
+      "id": "5047666",
+      "time": "2026-08-19 18:17:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交易商協會：對盛達期貨予以嚴重警告】中國銀行間市場交易商協會8月19日釋出自律處分資訊：盛達期貨有限公司作為銀行間債券市場交易機構，向相關人員出借交易即時通訊工具賬戶，未就相關產品切實履行主動管理職責，同時存在未按規定實現債券交易業務全程留痕、前後臺業務崗位未相互分離的情況。"
+    },
+    {
+      "id": "mkt:01a01986-68fb-7aab-9093-5899cd39a434",
+      "time": "2026-08-19 18:17:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine parliament approves Andriy Serbyha as foreign minister】Ukraine's parliament (Rada) on Aug. 19, 2026 approved Andriy Serbyha as foreign minister with 266 votes. Serbyha first took the post in Sept. 2024 and served as acting foreign minister in July 2026 after members of the previous government resigned; President Zelenskiy renominated him on Aug. 18, 2026."
+    },
+    {
+      "id": "mkt:01a01985-fbd5-7aab-9093-52fc0f8ca5d2",
+      "time": "2026-08-19 18:16:46",
+      "tags": [
+        "MKT News",
+        "HON.O",
+        "Impact bullish"
+      ],
+      "text": "Honeywell shares rose 2.7% in premarket trade after Morgan Stanley upgraded the aerospace unit to Overweight from Equal-Weight."
+    },
+    {
+      "id": "5047665",
+      "time": "2026-08-19 18:16:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭最高拉達批准任命瑟比加為外交部長】烏克蘭最高拉達（議會）19日以266票贊成批准任命安德烈·瑟比加為外交部長。瑟比加於2024年9月首次出任烏克蘭外交部長。2026年7月，因前一屆政府成員辭職，他暫時代理外交部長職務。2026年8月18日，烏克蘭總統澤連斯基再次提名瑟比加為新一屆內閣外交部長。（央視新聞）"
+    },
+    {
+      "id": "5047664",
+      "time": "2026-08-19 18:16:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4420美元/盎司，日內跌0.01%。"
+    },
+    {
+      "id": "5047663",
+      "time": "2026-08-19 18:15:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思瑞浦：2026年上半年營收16.06億元 淨利同比增368.52%】思瑞浦公告稱，2026年上半年實現營業收入16.06億元，同比增長69.19%；歸母淨利潤3.08億元，同比增長368.52%；歸母扣非淨利潤2.70億元，同比增長617.36%；綜合毛利率49.00%，較上年同期增加2.62個百分點。研發投入3.55億元，佔營收22.11%。上半年實施分紅2128.15萬元，公司董事長等多名董監高及持股5%以上股東蘇州金櫻創業投資合夥企業（有限合夥）自願承諾2026年3月25日至2027年3月24日不減持公司股份。"
+    },
+    {
+      "id": "5047662",
+      "time": "2026-08-19 18:15:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳華內鏡：2026年上半年淨利潤虧損8561.96萬元】澳華內鏡公告，2026年上半年營業收入2.8億元，同比增長7.37%。歸屬於上市公司股東的淨利潤虧損8561.96萬元，上年同期虧損4076.52萬元。"
+    },
+    {
+      "id": "5047661",
+      "time": "2026-08-19 18:14:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北方稀土：披露包鋼集團財務公司風險持續評估報告】北方稀土公告稱，公司對包鋼集團財務有限責任公司開展風險評估，截至2026年6月30日，財務公司資產總額131.92億元，2026年上半年營收9984.89萬元、淨利潤3282.52萬元；各項監管指標均符合規定，內控健全，風險可控。截至2026年6月30日，公司在財務公司存款餘額29.17億元，佔公司存款總額62.13%；貸款餘額0.45億元，佔公司貸款總額0.59%，存款安全性和流動性良好。"
+    },
+    {
+      "id": "5047660",
+      "time": "2026-08-19 18:14:44",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【北方稀土：2026年上半年營收257.99億元 淨利同比增120.46%】北方稀土公告稱，2026年上半年實現營業收入257.99億元，同比增長36.75%；歸屬於上市公司股東的淨利潤20.53億元，同比增長120.46%；歸屬於上市公司股東的扣除非經常性損益的淨利潤20.51億元，同比增長128.79%。基本每股收益0.5679元/股。報告期公司不進行利潤分配及公積金轉增股本。"
+    },
+    {
+      "id": "5047659",
+      "time": "2026-08-19 18:14:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中觸媒：2026年半年度淨利潤8049.2萬元，同比減少36.54%】中觸媒公告，2026年半年度營業收入4.59億元，同比減少0.45%。歸屬於上市公司股東的淨利潤8049.2萬元，同比減少36.54%。扣非淨利潤7835.12萬元，同比減少36.07%。公司擬向全體股東每10股派發現金紅利1.2元（含稅）。"
+    },
+    {
+      "id": "5047658",
+      "time": "2026-08-19 18:14:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶萊特：衢威齊宸擬增持5000萬元至1億元公司股份】寶萊特公告，持股5%以上股東衢威智合的關聯方衢威齊宸，擬自本公告披露日起6個月內，透過集中競價交易方式增持公司股份，金額不低於人民幣5000萬元，不高於人民幣1億元。本次增持未設定價格區間，資金來源為自有或合法自籌資金。增持前，衢威齊宸未持有公司股份。"
+    },
+    {
+      "id": "5047657",
+      "time": "2026-08-19 18:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度靛藍航空網站目前無法預訂機票，顯示\"無可用資料\"。"
+    },
+    {
+      "id": "mkt:01a01983-55f2-7aab-9093-4ad0b5f1d68b",
+      "time": "2026-08-19 18:13:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY dismissed Deputy Head of the Presidential Office Mudra by presidential decree."
+    },
+    {
+      "id": "5047655",
+      "time": "2026-08-19 18:13:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力鼎光電：將回購登出4.60萬股限制性股票】力鼎光電公告稱，因2025年限制性股票激勵計劃的8名原激勵物件離職，不再具備激勵資格，公司將回購登出其已獲授但尚未解除限售的限制性股票合計4.60萬股，其中首次授予部分4.30萬股，回購價格9.29元/股；預留授予部分0.30萬股，回購價格8.68元/股。本次回購登出預計於2026年8月24日完成，完成後公司總股本將由4.11億股變更為4.11億股（減少4.60萬股）。"
+    },
+    {
+      "id": "5047654",
+      "time": "2026-08-19 18:13:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京商旅：間接收購後國資集團間接控制公司34.78%股份】南京商旅公告，公司實際控制人南京市國資委擬以其持有的城建集團等企業股權向國資集團增資。增資完成後，國資集團成為文旅集團控股股東，從而成為南京商旅間接控股股東，間接控制公司34.78%股份，構成對公司的間接收購。本次收購前後，公司控股股東均為文旅集團，實際控制人均為南京市國資委，未發生變化。本次收購符合免於發出要約情形。"
+    },
+    {
+      "id": "5047653",
+      "time": "2026-08-19 18:13:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【獨家 | 陳國平已任幸福人壽副總裁】8月19日訊息，金融一線獨家獲悉，陳國平已任幸福人壽副總裁，相關任職資格已獲批。此前，有媒體報道稱，陳國平曾以幸福人壽黨委書記的身份，參與該公司經營管理工作。（金融一線）"
+    },
+    {
+      "id": "5047652",
+      "time": "2026-08-19 18:13:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基解除總統辦公室副主任穆德拉的職務。"
+    },
+    {
+      "id": "5047651",
+      "time": "2026-08-19 18:13:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【明略科技首次進軍具身智慧，攜手海康機器人推進商用規模化落地】2026世界機器人大會（WRC）期間，明略科技首次進軍具身智慧領域，攜手海康機器人展示商業服務、工業物流及智慧巡邏方案，呈現AI與機器人在真實作業環境下的融合落地成果。"
+    },
+    {
+      "id": "5047650",
+      "time": "2026-08-19 18:12:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勤技術：擬回購登出39.84萬股限制性股票】華勤技術公告稱，因2023年、2025年限制性股票激勵計劃共104名激勵物件離職或個人績效考核未達標/降職，公司擬回購登出前述物件已獲授但尚未解除限售的A股限制性股票398,431股。本次回購登出已取得現階段必要授權批准，尚需履行資訊披露、減資及股份登出登記等手續。回購完成後，公司總股本將由15.16億股降至15.16億股，2023年、2025年激勵計劃剩餘限制性股票分別為281,909股、3,083,323股。"
+    },
+    {
+      "id": "5047649",
+      "time": "2026-08-19 18:12:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金山雲：2026年第二季度總收入同比增長30.8%至30.72億元】金山雲公告，公司截至2026年6月30日止三個月未經審計財務業績顯示，第二季度總收入達人民幣30.72億元，同比增長30.8%，創歷史新高；公有云服務收入為人民幣23.58億元，同比增長45.1%；經營利潤為人民幣2300萬元，去年同期為經營虧損人民幣3.27億元；淨虧損為人民幣9300萬元，較去年同期收窄79.6%。"
+    },
+    {
+      "id": "te:economy:576465",
+      "time": "2026-08-19 18:11:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Portugal Current Account Swings to Deficit in June — Portugal’s current account balance swung to a €303.42 million deficit in June 2026, compared with a €346.64 million surplus in the same month a year earlier. The deterioration was mainly driven by a sharp widening of the goods deficit, which increased by 32.8% to €3,109 million.This was partly offset by a 0.1% increase in the services surplus to €2,799 millionMeanwhile, the secondary income surplus widened by 13.2% to €435 million, supported by a 2.5% rise in remittances to €375 million. The primary income deficit narrowed by 13% to €428 million."
+    },
+    {
+      "id": "mkt:01a01981-14ae-7aab-9093-412e245ca5fc",
+      "time": "2026-08-19 18:11:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Poland's prime minister TUSK says a 32% personal income tax rate will apply to incomes above 150,000 zloty."
+    },
+    {
+      "id": "5047648",
+      "time": "2026-08-19 18:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：32%個人所得稅稅率將適用於超過15萬茲羅提的收入。"
+    },
+    {
+      "id": "5047647",
+      "time": "2026-08-19 18:10:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵建：中標13項重大專案 合計金額443.10億元】中國鐵建公告稱，公司近期中標13項單體15億元以上重大專案，涵蓋城中村改造、礦山智慧運輸、海上風電、高速公路、鐵路、城際鐵路、地塊開發等領域，專案金額合計443.10億元，佔公司2025年度經審計營業收入比例為4.30%。"
+    },
+    {
+      "id": "5047646",
+      "time": "2026-08-19 18:10:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【登海種業：股票交易異常波動 無應披露未披露事項】登海種業公告稱，公司股票於2026年8月17日、8月18日、8月19日連續三個交易日收盤價格漲幅偏離值達到20.23%，屬於股票交易異常波動情形。經自查及向控股股東、實際控制人核實，公司前期披露資訊不存在需更正、補充之處，未發現近期公共傳媒報道可能對公司股價產生較大影響的未公開重大資訊，近期經營情況及內外部經營環境未發生重大變化，公司、控股股東和實際控制人不存在應披露而未披露的重大事項，股票異常波動期間控股股東、實際控制人不存在買賣公司股票的情形。"
+    },
+    {
+      "id": "5047645",
+      "time": "2026-08-19 18:10:31",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【賽力斯：2026年上半年營收574.93億元 同比降7.87%】賽力斯公告稱，2026年上半年實現營業收入574.93億元，同比下降7.87%；歸屬於上市公司股東的淨虧損17.17億元，同比下降158.38%；歸屬於上市公司股東的扣除非經常性損益的淨虧損23.79億元，同比下降196.12%。業績變動主要系產品銷售結構變化，二季度主力車型處於產品迭代過渡期，產能及銷售規模效應未充分釋放，疊加新能源汽車核心零部件價格階段性上漲、相關資產減值計提綜合影響。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5047644",
+      "time": "2026-08-19 18:10:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海口釋出暴雨紅色預警訊號 多地將有最大180毫米降水】海南海口市氣象臺2026年8月19日17時37分變更暴雨橙色預警訊號為暴雨紅色預警訊號。受對流雲團影響，市區萬綠園附近過去24小時降雨量已達273毫米，預計未來24小時，海口市區、長流鎮、西秀鎮、靈山鎮仍將有90~180毫米的降水，其餘地區仍將有60~100毫米的降水，建議有關單位和人員做好防範工作。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01980-01cc-7aab-9093-38a3222a4061",
+      "time": "2026-08-19 18:10:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhongju High-Tech reported 1H revenue of 2.542 billion yuan, up 19.23% YoY; net profit attributable to shareholders rose 61.25% YoY to 414 million yuan."
+    },
+    {
+      "id": "mkt:01a0197f-fb98-7aab-9093-32cf598fe428",
+      "time": "2026-08-19 18:10:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Nomura plans to build a dedicated large-vessel terminal by 2035."
+    },
+    {
+      "id": "5047643",
+      "time": "2026-08-19 18:10:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠康生化：擬出售綠安生物90.0003%股權，交易作價3158.11萬元】綠康生化公告，公司於2026年8月18日召開董事會審議透過出售控股子公司福建綠安生物農藥有限公司90.0003%股權的議案，透過邀請招標結合協商方式轉讓給山西新源華康生物科技股份有限公司，對應交易作價確定為3158.11萬元。本次交易不構成重大資產出售，亦不構成關聯交易，相關股權轉讓協議尚未正式簽訂，尚存在不確定性。"
+    },
+    {
+      "id": "mkt:01a0197f-9207-7aab-9093-2c57a32da824",
+      "time": "2026-08-19 18:09:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish Prime Minister Tusk said the tax burden on the \"hardworking\" middle class will be reduced."
+    },
+    {
+      "id": "5047642",
+      "time": "2026-08-19 18:09:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中青旅：董事長倪陽平辭職 趙朋代行職責】中青旅公告稱，公司收到董事長倪陽平遞交的書面辭職報告，因工作調動，倪陽平申請辭去公司第十屆董事會董事長、董事及董事會戰略與可持續發展委員會主任委員、委員職務，辭職報告自送達公司之日起生效，辭職後不再擔任公司任何職務。在新任董事長選舉產生前，由公司副董事長趙朋代為履行董事長職責。本次辭職不會導致公司董事會低於法定人數，不會影響公司正常經營發展。"
+    },
+    {
+      "id": "mkt:01a0197e-fee8-7aab-9093-2393b3b63bfc",
+      "time": "2026-08-19 18:09:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Prime Minister Tusk says tax reform will make Poland's system fairer."
+    },
+    {
+      "id": "mkt:01a0197e-fe5a-7aab-9093-18cca7be81f1",
+      "time": "2026-08-19 18:09:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Prime Minister TUSK said the government proposes raising the solidarity tax rate by one percentage point."
+    },
+    {
+      "id": "5047641",
+      "time": "2026-08-19 18:08:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天準科技：2026年半年度淨利潤扭虧為盈，淨利潤9848.26萬元】天準科技公告，2026年上半年營業收入8.87億元，同比增長48.63%。歸屬於上市公司股東的淨利潤9848.26萬元，上年同期淨利潤-1419.23萬元，實現扭虧為盈。"
+    },
+    {
+      "id": "mkt:01a0197e-cad5-7aab-9093-136a34419296",
+      "time": "2026-08-19 18:08:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Prime Minister TUSK proposed raising the corporate tax rate to 22% from 19% for companies with annual revenue above EUR 50 million."
+    },
+    {
+      "id": "5047640",
+      "time": "2026-08-19 18:08:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期公債收益率<DE10YT=RR>升至15年新高，上漲1個基點至3.2725%。"
+    },
+    {
+      "id": "5047639",
+      "time": "2026-08-19 18:08:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：我們提議將團結稅提高1個百分點。"
+    },
+    {
+      "id": "mkt:01a0197e-72c9-7aab-9093-0c2943fcbf66",
+      "time": "2026-08-19 18:08:32",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "【Airbus A350F orders top 100; first deliveries expected H2 2027】Airbus freighter-market head Crawford Hamilton said in Beijing on Aug. 18 that the new-generation widebody freighter A350F has secured 107 confirmed orders from 14 customers since the program launched in July 2021. Airbus is preparing first-flight tests and expects to deliver the first aircraft in H2 2027."
+    },
+    {
+      "id": "mkt:01a0197e-6836-7aab-9093-03b2dcf5be62",
+      "time": "2026-08-19 18:08:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German 10-year bond yield rose 1bp to 3.2725%, a 15-year high."
+    },
+    {
+      "id": "5047638",
+      "time": "2026-08-19 18:08:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭Fire Point執行長：丹麥火箭燃料工廠專案推遲一年，計劃於2027年底投產。"
+    },
+    {
+      "id": "5047637",
+      "time": "2026-08-19 18:08:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【空客A350F訂單破百 預計2027年下半年交付】空客貨機市場負責人Crawford Hamilton 8月18日在京披露了全新一代大型寬體貨機A350F的最新進展。這款全貨機專案自2021年7月啟動以來市場表現亮眼，目前已獲得全球14家客戶共107架確認訂單。空客正在緊鑼密鼓籌備首飛測試，首架飛機預計於2027年下半年正式交付客戶。 (21財經)"
+    },
+    {
+      "id": "5047636",
+      "time": "2026-08-19 18:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西高院：2026年上半年淨利潤1.39億元，同比增4.87%】西高院公告，2026年上半年營業收入4.41億元，同比增長5.07%。歸屬於上市公司股東的淨利潤1.39億元，同比增長4.87%。扣非淨利潤1.28億元，同比增長3.86%。公司擬每10股派發現金紅利2.44元（含稅）。"
+    },
+    {
+      "id": "5047635",
+      "time": "2026-08-19 18:07:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "勞氏公司股價盤前下跌1%，此前該公司下調了年度業績預期。"
+    },
+    {
+      "id": "5047634",
+      "time": "2026-08-19 18:07:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢邦科技：2026年上半年營收4.18億元 淨利增59.72%】漢邦科技公告稱，2026年上半年實現營業收入4.18億元，同比增長19.75%；歸屬於上市公司股東的淨利潤4439.80萬元，同比增長59.72%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4002.61萬元，同比增長61.58%。經營活動產生的現金流量淨額7105.93萬元，同比增長772.11%。基本每股收益0.39元，同比增長26.44%。研發投入佔營業收入的比例為5.41%，同比減少0.61個百分點。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "mkt:01a0197d-6ea2-7aab-9092-ff9443b53c03",
+      "time": "2026-08-19 18:07:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France 30-year government bond yield rose 2 bps intraday to 4.9163%, marking an 18-year high."
+    },
+    {
+      "id": "5047633",
+      "time": "2026-08-19 18:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭將部分企業的企業所得稅稅率由19%上調至22%。"
+    },
+    {
+      "id": "5047632",
+      "time": "2026-08-19 18:07:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英特爾美股盤前跌超2%】英特爾美股盤前跌超2%，現報94.75美元。"
+    },
+    {
+      "id": "5047631",
+      "time": "2026-08-19 18:06:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國30年期公債收益率<FR30YT=RR>升至18年新高，上漲2個基點至4.9163%。"
+    },
+    {
+      "id": "5047630",
+      "time": "2026-08-19 18:06:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股19日漲0.09% 收報25495.07點】香港恒生指數19日漲23.92點，漲幅0.09%，收報25495.07點。全日主機板成交2531.75億港元。（新華社）"
+    },
+    {
+      "id": "te:markets:576463",
+      "time": "2026-08-19 18:06:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lowe's Companies earnings above expectations at 4.40 USD — Lowe's Companies (LOW) released earnings per share at 4.40 USD, compared to market expectations of 4.25 USD."
+    },
+    {
+      "id": "5047629",
+      "time": "2026-08-19 18:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：政府將第二檔個人所得稅起徵點上調至13萬茲羅提。"
+    },
+    {
+      "id": "5047628",
+      "time": "2026-08-19 18:06:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：波蘭將把第一檔個人所得稅稅率適用門檻從12萬茲羅提提高至13萬茲羅提。將推出新的24%個人所得稅稅率。"
+    },
+    {
+      "id": "mkt:01a0197c-35fe-7aab-9092-f75a036bd7e6",
+      "time": "2026-08-19 18:06:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish Prime Minister Tusk said Poland will raise the threshold for the lowest personal income tax band from 120,000 zloty to 130,000 zloty and introduce a new 24% personal income tax rate."
+    },
+    {
+      "id": "5047627",
+      "time": "2026-08-19 18:05:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中炬高新：2026年半年度淨利潤4.14億元，同比增長61.25%】中炬高新公告，2026年上半年營業收入25.42億元，同比增長19.23%；歸屬於上市公司股東的淨利潤4.14億元，同比增長61.25%；扣非淨利潤3.66億元，同比增長39.38%。本報告期利潤分配預案為無。"
+    },
+    {
+      "id": "mkt:01a0197b-b5a0-7aab-9092-ebd14a630f4c",
+      "time": "2026-08-19 18:05:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhongwei Co. said 1H2026 net profit was 2.825 bln yuan, up 300.22% YoY."
+    },
+    {
+      "id": "mkt:01a0197b-aa0f-7aab-9092-e2398f81cc95",
+      "time": "2026-08-19 18:05:29",
+      "tags": [
+        "MKT News",
+        "EL.O",
+        "Impact bullish"
+      ],
+      "text": "Estee Lauder (EL.N) shares rose about 8% in premarket trading after the company said it expects full-year profit to exceed expectations."
+    },
+    {
+      "id": "5047626",
+      "time": "2026-08-19 18:05:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中炬高新：2026年上半年調味品主營收入增16.02%】中炬高新公告稱，2026年上半年下屬調味品公司主營收入合計23.12億元，同比增長16.02%。分產品看，醬油收入13.79億元，同比增6.29%；雞精雞粉收入3.34億元，同比增30.69%；食用油收入2.14億元，同比增96.55%。分銷售模式看，分銷收入21.50億元，同比增13.66%；直銷收入1.62億元，同比增60.48%。截至報告期末，經銷商合計2765家，報告期內新增195家、減少254家。"
+    },
+    {
+      "id": "5047625",
+      "time": "2026-08-19 18:05:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：波蘭政府計劃改革個人所得稅。個人所得稅改革將惠及350萬名納稅人。波蘭中產階級受到最高稅率檔影響。"
+    },
+    {
+      "id": "5047624",
+      "time": "2026-08-19 18:05:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國30年期國債收益率<DE30YT=RR>升至15年來新高，上行1個基點，報3.7844%。"
+    },
+    {
+      "id": "mkt:01a0197b-5304-7aab-9092-dad27662df9e",
+      "time": "2026-08-19 18:05:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's 30-year government bond yield rose 1bp to 3.7844%, marking a 15-year high."
+    },
     {
       "id": "mkt:01a0197b-09f7-7aab-9092-d42f69724bc1",
       "time": "2026-08-19 18:04:48",
@@ -139803,550 +140451,6 @@
         "國際"
       ],
       "text": "印度政府公佈：該國7月基於消費者價格指數的食品通脹同比為5.52%。"
-    },
-    {
-      "id": "5037519",
-      "time": "2026-08-12 18:34:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行：金融支援實體經濟已由更加註重規模擴張轉向更加註重質量和效率，融資渠道更加豐富，資源配置更加最佳化，金融適配性不斷增強】央行釋出2026年第二季度中國貨幣政策執行報告。金融對實體經濟的支援不僅是宏觀金融總量的持續擴張，更多體現為質效的不斷提升。一方面，隨著適度寬鬆的貨幣政策有力實施，金融機構服務實體經濟的能力不斷增強，實體企業融資感受不斷提升、融資成本持續下行。另一方面，融資結構持續最佳化。社融、M2 存量已分別超過 460 萬億元、350 萬億元，貸款規模也超過 280 萬億元，提高存量資金使用效率和最佳化新增融資投向一樣，都對實體經濟發揮了積極作用。房地產和地方政府融資平臺貸款到期償還規模較大，新發放貸款更多投向代表經濟新動能的高效領域，此消彼長之間，貸款增量沒有原來多，但信貸結構持續最佳化，普惠小微貸款、科技貸款、綠色貸款增速已連續多年高於各項貸款增速。特別是金融資源向科技創新、先進製造等重點領域加速集聚，深刻賦能新一輪科技革命和產業變革的程序，A 股上市的“專精特新”企業達 2000 多家，債券市場“科技板”落地一年多來，科技創新債券已累計發行超過 2.8 萬億元。總的看，金融支援實體經濟已由更加註重規模擴張轉向更加註重質量和效率，融資渠道更加豐富，資源配置更加最佳化，金融適配性不斷增強。在此背景下，觀察金融支援實體經濟的力度和質效不宜再侷限於貸款的單一渠道、規模與增速的單一視角，而是需要更加多維全面，科學分析金融體系為高質量發展提供的全方位支援。"
-    },
-    {
-      "id": "mkt:019ff589-40f0-7aab-9007-93fda2f1a590",
-      "time": "2026-08-12 18:34:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【PBOC to conduct MLF as needed, provide timely SLF support】The PBOC released its Q2 2026 monetary policy implementation report, saying it will conduct medium-term lending facility (MLF) operations as appropriate to ensure medium- and long-term liquidity and will carry out standing lending facility (SLF) operations in a timely manner. 1H MLF operations totaled 3.5 tln yuan, all with one-year tenors; end-June MLF outstanding was 7.4 tln yuan, up 1.15 tln from the start of the year. MLF is conducted via fixed-quantity, interest-rate bidding with multi-price allotment to better match institutions’ differing funding needs. 1H SLF operations totaled 4.9 bln yuan; end-June SLF outstanding was 1.0 bln yuan. SLF provides on-demand, full short-term liquidity support to local financial institutions to promote money-market stability. End-June SLF rates were: overnight 2.25%, 7-day 2.40%, 1-month 2.75%."
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839282745",
-      "time": "2026-08-12 18:33:33",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：把促進經濟穩定增長、物價合理回升作為貨幣政策的重要考量】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，保持金融總量合理增長。繼續實施好適度寬鬆的貨幣政策，發揮增量政策和存量政策整合效應。增強貨幣政策前瞻性靈活性針對性，把促進經濟穩定增長、物價合理回升作為貨幣政策的重要考量，根據國內外經濟金融形勢和金融市場執行情況，把握好政策實施的力度、節奏和時機，持續營造適宜的貨幣金融環境。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839278881",
-      "time": "2026-08-12 18:33:28",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：保持銀行體系流動性充裕 金融總量合理增長】中國人民銀行釋出2026年第二季度中國貨幣政策執行報告。保持銀行體系流動性充裕，金融總量合理增長。綜合運用逆回購、中期借貸便利、國債買賣操作等多種貨幣政策工具，保持流動性充裕。完善短端利率調控機制，在公開市場操作中增加隔夜逆回購操作品種，並將臨時正、逆回購操作區間寬度由70個基點收窄至50個基點，增強貨幣市場利率調控的精準性、有效性。"
-    },
-    {
-      "id": "5037518",
-      "time": "2026-08-12 18:33:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行：淡化對貸款這個單一融資渠道的關注，把貸款和債券融資等合併觀察】中國人民銀行釋出2026年第二季度中國貨幣政策執行報告。專欄內容提出，淡化對貸款這個單一融資渠道的關注，把貸款和債券融資等合併觀察。近年來，房地產、基礎設施建設等資金密集行業持續調整，而新質生產力更加輕型，單位經濟增長所需的銀行貸款相應下降，貸款需求天然減少。同時，債券、股票等其他渠道重要性上升。特別是科技型企業在不同成長階段具有差異化的風險收益特徵，需要包括債券、股權融資在內的多元化融資渠道提供全生命週期的資金支援，金融體系與產業結構轉型升級更加適配。今年上半年，企業債券和股票淨融資2.4萬億元，同比多約1萬億元。如果把企業貸款、企業債券和股票合併起來看，今年上半年增加13.5萬億元，同比多約6000億元。"
-    },
-    {
-      "id": "mkt:019ff588-88ad-7aab-9007-88ad6b57d336",
-      "time": "2026-08-12 18:33:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【PBOC: De-emphasize loans as sole financing channel; monitor loans alongside bond financing】The PBOC’s 2Q2026 monetary policy implementation report said authorities should de-emphasize focusing on loans as a single funding channel and instead monitor loans together with bond and other financing. The report cited a structural shift—capital‑intensive sectors such as property and infrastructure have been contracting while new productive capacity is less loan‑intensive, reducing natural bank loan demand and raising the relative importance of bonds and equities; it said tech firms require diversified, lifecycle financing including bonds and equity. Data: 1H corporate bond and equity net financing totaled 2.4 trln yuan, roughly 1.0 trln yuan higher YoY; combined corporate loans, corporate bonds and equities rose by 13.5 trln yuan in 1H, about 600 bln yuan higher YoY."
-    },
-    {
-      "id": "5037517",
-      "time": "2026-08-12 18:32:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部滾動部署應對臺風“白海豚”殘餘環流影響】水利部12日舉行專題會商，滾動分析今年第13號颱風“白海豚”殘餘環流影響態勢，深入研判突出風險，進一步安排部署颱風暴雨洪水防禦工作。 記者瞭解到，颱風“白海豚”雖已停止編號，但其殘餘環流與冷空氣結合，仍將造成大範圍持續性強降雨，持續影響太湖流域、長江中下游、淮河流域西部南部、黃河中游小花區間、海河流域南部、遼河流域東北部。據預報，8月12日至16日，太湖及周邊河網地區河流將持續維持超警；長江下游支流滁河、巢湖，漢江中下游幹流，淮河上中游幹流及支流淠河、洪汝河、沙潁河、渦河，海河流域衛河等主要河湖將出現明顯漲水過程，其中，沙潁河、洪汝河、滁河將發生編號洪水，淮河中游幹流、漢江中下游幹流接近警戒水位；暴雨區內部分中小河流可能發生超警以上洪水，山洪災害風險高。 面對汛情，水利部相關負責人要求做好七個方面重點工作。一要強化監測預報預警，二要突出抓好山洪災害防禦，三要強化流域水工程統一聯合排程，四要確保水庫安全度汛，五要強化堤防巡查防守，六要統籌做好城市外洪內澇防禦，七要確保南水北調中線工程安全。（新華社）"
-    },
-    {
-      "id": "mkt:019ff588-2854-7aab-9007-81b725f69bd2",
-      "time": "2026-08-12 18:32:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【PBOC to continue re-lending for stock buybacks and shareholder purchases】The PBOC's Q2 2026 monetary policy implementation report says China will maintain a moderately accommodative monetary stance and promote stable capital-market functioning by continuing re-lending for stock buybacks and shareholder purchases. The central bank will guide financial institutions to provide loans to eligible listed companies and major shareholders and encourage use of buybacks and shareholder purchases for market-value management. As of end-June, financial institutions had signed re-lending contracts exceeding CNY390bn and disbursed over CNY210bn."
-    },
-    {
-      "id": "5037516",
-      "time": "2026-08-12 18:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府公佈：7月基於消費者價格指數的食品通脹同比為5.52%。"
-    },
-    {
-      "id": "5037515",
-      "time": "2026-08-12 18:31:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國6月份經常賬戶盈餘190.34億歐元。"
-    },
-    {
-      "id": "5037514",
-      "time": "2026-08-12 18:31:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度7月消費者價格同比上漲4.45%；預計+4.40%。"
-    },
-    {
-      "id": "5037513",
-      "time": "2026-08-12 18:31:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【湖南白銀：副董事長郭慶鋒因工作調整辭職】湖南白銀公告稱，公司董事會近日收到董事、副董事長郭慶鋒書面辭職報告，其因組織工作調整，申請辭去相關職務，原定任期至2027年3月18日。此次辭職不會影響董事會正常執行，但會使審計委員會成員低於法定最低人數，郭慶鋒將繼續履職至新委員就任。公司將盡快補選相關職位。截至披露日，郭慶鋒未持股，無未履行承諾事項。"
-    },
-    {
-      "id": "mkt:019ff586-a0a0-7aab-9007-7a1e97ee6929",
-      "time": "2026-08-12 18:31:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【PBOC: TSF and M2 growth still exceed nominal GDP growth; monetary conditions relatively loose】The People’s Bank of China released its Q2 2026 Monetary Policy Implementation Report, saying total social financing (TSF) and broad money (M2) are broad macro‑financial aggregates that capture diverse financing channels. The report notes that, mathematically, rising bond financing can cause M2 or deposit growth to diverge from loan growth and that such divergence does not necessarily indicate weaker support for the real economy or idle funds. Compared with nominal GDP growth, TSF and M2 growth remain higher, indicating monetary and financial conditions are relatively loose."
-    },
-    {
-      "id": "mkt:019ff586-97a6-7aab-9007-74a151665abc",
-      "time": "2026-08-12 18:31:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【PBOC: Strengthen financial support for domestic demand, tech innovation and SMEs】The PBOC released its 2Q26 Monetary Policy Implementation Report, saying it will continue a moderately loose monetary stance, deploy policy tools to manage both aggregate and structural liquidity, implement earlier measures and refine tool design. It will step up financial support for expanding domestic demand, technological innovation and small-and‑micro enterprises. The bank reaffirmed a managed floating exchange rate against a basket, will maintain exchange-rate flexibility and use the rate as an automatic stabilizer to support macro and external balance, while taking measures to bolster FX-market resilience, stabilize expectations and prevent exchange-rate overshooting to keep the renminbi broadly stable at a reasonable equilibrium. The PBOC said it will expand central bank macroprudential and financial stability functions, innovate tools to maintain market orderly functioning and firmly prevent systemic financial risks."
-    },
-    {
-      "id": "5037512",
-      "time": "2026-08-12 18:31:01",
-      "tags": [
-        "公司",
-        "央行"
-      ],
-      "text": "【中國央行釋出2026年第二季度中國貨幣政策執行報告：進一步提升跨境投融資便利化水平】進一步提升跨境投融資便利化水平。正式實施境外直接上市資金管理新規，進一步便利境內企業在境外金融市場高效融資。推進跨國公司本外幣一體化資金池業務試點改革，滿足不同型別跨國公司跨境資金集中運營需求，切實提高跨境資金管理政策服務實體經濟能力。完善境內銀行境外貸款政策，提高境外貸款餘額上限，最佳化間接方式貸款管理要求，支援商業銀行穩定、持續地為離岸人民幣市場提供流動性，更好發揮跨境金融服務實體經濟作用。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839278910",
-      "time": "2026-08-12 18:30:58",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：綜合運用並適時調整貨幣政策工具 保持流動性充裕和社會融資條件相對寬鬆】央行釋出2026年第二季度中國貨幣政策執行報告，繼續實施好適度寬鬆的貨幣政策。增強政策前瞻性靈活性針對性，根據國內外經濟金融形勢和金融市場執行情況，把握好政策實施的力度、節奏和時機，加強與財政政策協同配合，支援經濟穩定增長、高質量發展和金融市場平穩執行。綜合運用並適時調整貨幣政策工具，保持流動性充裕和社會融資條件相對寬鬆，引導社會融資規模、貨幣供應量增長同經濟增長、價格總水平預期目標相匹配。"
-    },
-    {
-      "id": "mkt:019ff586-3340-7aab-9007-6a9a8a7705fb",
-      "time": "2026-08-12 18:30:40",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【PBOC: Steadily, orderly advance reforms to monetary-policy operations framework】The PBOC, in its Q2 2026 monetary policy implementation report, said it will continue a moderately loose monetary policy and steadily, orderly reform the operating framework to better anchor short-term money-market rates around the policy rate. It will lean on market-based pricing discipline, strengthen interest-rate policy execution and supervision, promote diversification of loan-pricing benchmarks and guide banks to improve rate-pricing capabilities. The bank will continue pushing explicit disclosure of corporate loan comprehensive financing costs, reduce intermediation fees and support low overall social financing costs."
-    },
-    {
-      "id": "5037511",
-      "time": "2026-08-12 18:30:34",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "【中國央行釋出2026年第二季度中國貨幣政策執行報告】完善以市場供求為基礎、參考一籃子貨幣進行調節、有管理的浮動匯率制度。堅持市場在匯率形成中起決定作用，發揮匯率調節宏觀經濟、國際收支的自動穩定器和減震器功能。綜合採取措施，強化預期管理，防範匯率超調風險，保持人民幣匯率在合理均衡水平上的基本穩定。2026 年上半年，人民幣對美元匯率中間價最強為6.8088元，最弱為 7.0230 元，116 個交易日中 60 個交易日升值、1 個交易日持平、55 個交易日貶值。最大單日升值幅度為0.26%（176 點），最大貶值幅度為 0.21%（145 點）。人民幣對國際主要貨幣匯率升值。2026年 6 月末，人民幣對美元、歐元、英鎊、日元匯率分別較2025年末升值 3.2%、6.0%、4.7%和 6.5%。2005 年人民幣匯率形成機制改革以22來至 2026 年 6 月末，人民幣對美元、歐元、英鎊、日元匯率分別累計升值 21.5%、28.9%、59.9%和 73.8%。銀行間外匯市場人民幣直接交易成交較為活躍，流動性平穩，降低了企業的匯兌成本，促進了雙邊貿易和投資。"
-    },
-    {
-      "id": "te:markets:574728",
-      "time": "2026-08-12 18:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.34% Lower — The SENSEX Index dropped 264 points or 0.34 percent on Wednesday to close at 77890 points. Losses were led by Tata Consultancy (-4.36%), Tata Steel (-1.73%) and Tata Motors (-1.61%). Offsetting the fall, top gainers were Indusind Bank (1.36%), UltraTech Cement (0.47%) and Power Grid (0.39%)."
-    },
-    {
-      "id": "mkt:019ff585-689c-7aab-9007-61c175ae85c1",
-      "time": "2026-08-12 18:29:48",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "A UK Treasury official projected that if the Strait of Hormuz remains closed, UK GDP growth in 2027 could be as low as 0.3% in a worst-case scenario."
-    },
-    {
-      "id": "mkt:019ff585-2ae4-7aab-9007-5a83abc66a0a",
-      "time": "2026-08-12 18:29:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【PBOC: Use comprehensive tools and adjust as needed to keep liquidity ample and social financing relatively loose】The PBOC released its Q2 2026 monetary policy implementation report, saying it will continue a moderately loose monetary stance. It will enhance forward-looking, flexible and targeted policy calibration and adjust monetary-policy tools as needed to keep liquidity ample and social financing conditions relatively loose, guiding growth of social financing and money supply to match economic growth and price-level expectations. The bank said it will calibrate policy strength, timing and pace based on domestic and external economic and financial conditions and market developments, and strengthen coordination with fiscal policy to support stable growth, high-quality development and financial-market stability."
-    },
-    {
-      "id": "5037510",
-      "time": "2026-08-12 18:29:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行：以市場化方式引導地方法人金融機構加大對民營企業的信貸投放】中國人民銀行釋出2026年第二季度中國貨幣政策執行報告。其中提出，當前，民營企業融資仍存在結構性不均衡。民營大型企業的融資能力相對較強，民營小微企業相關融資支援政策較多。而民營中型企業雖然是民營經濟的中堅力量，但在融資條件上處於“夾心層”，他們既沒有大型企業的多元化融資渠道，又無法享受小微企業的政策支援，融資難題相對突出。下一步，中國人民銀行將繼續發揮民營企業再貸款的激勵作用，以市場化方式引導地方法人金融機構加大對民營企業的信貸投放，提升民營中小微企業融資可得性。"
-    },
-    {
-      "id": "5037509",
-      "time": "2026-08-12 18:29:11",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "【央行：綜合運用並適時調整貨幣政策工具，保持流動性充裕和社會融資條件相對寬鬆，引導社會融資規模、貨幣供應量增長同經濟增長、價格總水平預期目標相匹配】央行釋出2026年第二季度中國貨幣政策執行報告。繼續實施好適度寬鬆的貨幣政策。增強政策前瞻性靈活性針對性，根據國內外經濟金融形勢和金融市場執行情況，把握好政策實施的力度、節奏和時機，加強與財政政策協同配合，支援經濟穩定增長、高質量發展和金融市場平穩執行。綜合運用並適時調整貨幣政策工具，保持流動性充裕和社會融資條件相對寬鬆，引導社會融資規模、貨幣供應量增長同經濟增長、價格總水平預期目標相匹配。平穩有序推動貨幣政策操作框架改革完善，更好引導貨幣市場短端利率圍繞政策利率平穩執行。發揮市場利率定價自律機制作用，加強利率政策執行和監督，推動貸款定價基準多元化，引導金融機構提高利率定價能力，持續深化明示企業貸款綜合融資成本工作，降低融資中間費用，促進社會綜合融資成本低位執行。發揮好貨幣政策工具總量和結構雙重功能，落實好年初出臺的一系列貨幣金融政策，不斷完善工具設計和管理，紮實做好金融“五篇大文章”，加強對擴大內需、科技創新、中小微企業等重點領域的金融支援。堅持以市場供求為基礎、參考一籃子貨幣進行調節、有管理的浮動匯率制度，保持匯率彈性，發揮匯率調節宏觀經濟和國際收支自動穩定器功能，綜合施策，增強外匯市場韌性，穩定市場預期，防範匯率超調風險，保持人民幣匯率在合理均衡水平上的基本穩定。拓展豐富中央銀行宏觀審慎和金融穩定功能，創新金融工具，維護金融市場平穩執行，堅決守住不發生系統性金融風險的底線。"
-    },
-    {
-      "id": "5037508",
-      "time": "2026-08-12 18:28:51",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "【央行：我國經濟高質量發展取得新成效，後勁持續增強，經濟長期向好的內在支撐更加堅實】央行釋出2026年第二季度中國貨幣政策執行報告。當前外部環境更加複雜多變，世界經濟增長動能疲弱，地緣衝突和經貿摩擦多發頻發，供給衝擊和輸入型通脹壓力影響仍在持續，全球通脹水平有所抬升，主要經濟體央行貨幣政策趨向調整。我國經濟高質量發展取得新成效，後勁持續增強，經濟長期向好的內在支撐更加堅實，制度優勢和大國優勢不斷彰顯，要堅定信心，保持高質量發展戰略定力，切實鞏固拓展經濟穩中向好態勢。下階段，中國人民銀行將堅持以習近平新時代中國特色社會主義思想為指導，全面貫徹落實黨的二十屆四中全會、中央經濟工作會議和全國“兩會”精神，牢牢把握高質量發展首要任務，紮實推進中國式現代化，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，推動經濟持續向新向優向好發展。堅定不移走中國特色金融發展之路，進一步深化金融改革和高水平對外開放，加快建設金融強國，完善中央銀行制度，構建科學穩健的貨幣政策體系和覆蓋全面的宏觀審慎管理體系，暢通貨幣政策傳導機制。"
-    },
-    {
-      "id": "mkt:019ff584-81db-7aab-9007-5269f48741ad",
-      "time": "2026-08-12 18:28:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "【PBOC to use market-based measures to steer local lenders to boost credit to private firms】The PBOC said in its Q2 2026 Monetary Policy Implementation Report that financing for private firms remains structurally uneven: large private firms have relatively strong access, small and micro firms receive multiple support measures, while mid-sized private firms are a ‘squeezed’ layer lacking diversified funding and policy support. The central bank will continue to leverage re-lending incentives and use market-based guidance to push local financial institutions to increase credit to private firms and improve financing access for private SMEs and mid-sized enterprises."
-    },
-    {
-      "id": "5037507",
-      "time": "2026-08-12 18:28:31",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【央行：適度寬鬆的貨幣政策效果持續顯現，社會融資條件較為寬鬆，金融服務實體經濟質效不斷提升】央行釋出2026年第二季度中國貨幣政策執行報告。適度寬鬆的貨幣政策效果持續顯現，社會融資條件較為寬鬆，金融服務實體經濟質效不斷提升。金融總量保持合理增長，6月末社會融資規模存量、廣義貨幣供應量（M2）同比分別增長7.4%和8.0%。銀行體系流動性充裕，貨幣市場隔夜利率DR001前6個月均值為1.31%，總體執行平穩。社會綜合融資成本低位執行，6月新發放企業貸款利率約為3.0%，較上年同期低約20個基點；新發放個人住房貸款利率約為3.1%，與上年同期基本持平。信貸資金投向繼續最佳化，6月末科技貸款、綠色貸款、普惠貸款、養老產業貸款、數字經濟產業貸款分別同比增長12.6%、14.5%、7.8%、23.5%、15.1%，持續高於全部貸款增速。外匯市場供求基本平穩，人民幣匯率在合理均衡水平上保持基本穩定，6月末，人民幣對美元匯率收盤價為6.7852元，較上年末升值3%，中國外匯交易中心（CFETS）人民幣匯率指數為102.59，較上年末升值4.7%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839277092",
-      "time": "2026-08-12 18:28:22",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：及時謀劃出臺務實管用的增量政策 加大逆週期調節力度】央行釋出2026年第二季度中國貨幣政策執行報告。中國人民銀行將及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，推動經濟持續向新向優向好發展。堅定不移走中國特色金融發展之路，進一步深化金融改革和高水平對外開放，加快建設金融強國，完善中央銀行制度，構建科學穩健的貨幣政策體系和覆蓋全面的宏觀審慎管理體系，暢通貨幣政策傳導機制。"
-    },
-    {
-      "id": "mkt:019ff583-e33f-7aab-9007-4d7b0e9a22d8",
-      "time": "2026-08-12 18:28:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【PBOC to promptly design pragmatic incremental policies, step up countercyclical adjustment】In its Q2 2026 monetary policy report, the People’s Bank of China said it will promptly design and roll out pragmatic incremental policies and intensify countercyclical measures to support demand and optimize supply. The PBOC said it will expand domestic demand, deepen financial reform and high‑level opening, accelerate building China into a financial power, improve central bank institutional arrangements, establish a scientific and prudent monetary policy framework and a comprehensive macroprudential regime, and smooth monetary policy transmission."
-    },
-    {
-      "id": "5037506",
-      "time": "2026-08-12 18:28:03",
-      "tags": [
-        "央行",
-        "宏觀",
-        "市場"
-      ],
-      "text": "【2026年第二季度中國貨幣政策執行報告】一是保持銀行體系流動性充裕，金融總量合理增長。綜合運用逆回購、中期借貸便利、國債買賣操作等多種貨幣政策工具，保持流動性充裕。完善短端利率調控機制，在公開市場操作中增加隔夜逆回購操作品種，並將臨時正、逆回購操作區間寬度由70個基點收窄至50個基點，增強貨幣市場利率調控的精準性、有效性。創設境外央行回購工具，便利境外央行類機構的人民幣流動性管理和人民幣債券資產配置。引導金融機構信貸均衡投放，有力支援實體經濟有效信貸需求。二是推動社會綜合融資成本低位執行。下調結構性貨幣政策工具利率0.25個百分點，持續推進明示企業貸款綜合融資成本工作，降低融資中間費用。更好發揮市場利率定價自律機制作用，維護市場公平競爭秩序，提升銀行自主理性定價能力。三是激勵引導金融機構加大對重點領域的支援力度。出臺並落實好一系列結構性貨幣政策措施，擴大工具規模和支援範圍，完善政策要素，合併使用支農支小再貸款與再貼現額度，增加支農支小再貸款以及科技創新和技術改造再貸款額度，單設1萬億元民營企業再貸款，合併設立科技創新與民營企業債券風險分擔工具，進一步助力經濟結構轉型最佳化。積極穩妥實施一次性信用修復政策，支援符合條件的逾期人群高效便捷重塑信用。四是保持匯率基本穩定。堅持市場供求在匯率形成中起決定性作用，發揮好匯率對宏觀經濟、國際收支的調節功能，綜合施策，保持人民幣匯率在合理均衡水平上的基本穩定。鼓勵金融機構提升匯率避險服務水平。在上海自貿區開展離岸人民幣外匯交易，促進在岸和離岸人民幣市場融合。五是穩妥有序推動重點領域風險處置。穩步推進重點機構和重點區域金融風險處置。銀行間市場資料包告庫正式掛牌，提升對金融市場的穿透監測能力。"
-    },
-    {
-      "id": "5037505",
-      "time": "2026-08-12 18:27:56",
-      "tags": [
-        "宏觀",
-        "央行"
-      ],
-      "text": "【中國央行釋出2026年第二季度中國貨幣政策執行報告】繼續實施好適度寬鬆的貨幣政策。增強政策前瞻性靈活性針對性，根據國內外經濟金融形勢和金融市場執行情況，把握好政策實施的力度、節奏和時機，加強與財政政策協同配合，支援經濟穩定增長、高質量發展和金融市場平穩執行。綜合運用並適時調整貨幣政策工具，保持流動性充裕和社會融資條件相對寬鬆，引導社會融資規模、貨幣供應量增長同經濟增長、價格總水平預期目標相匹配。平穩有序推動貨幣政策操作框架改革完善，更好引導貨幣市場短端利率圍繞政策利率平穩執行。發揮市場利率定價自律機制作用，加強利率政策執行和監督，推動貸款定價基準多元化，引導金融機構提高利率定價能力，持續深化明示企業貸款綜合融資成本工作，降低融資中間費用，促進社會綜合融資成本低位執行。發揮好貨幣政策工具總量和結構雙重功能，落實好年初出臺的一系列貨幣金融政策，不斷完善工具設計和管理，紮實做好金融“五篇大文章”，加強對擴大內需、科技創新、中小微企業等重點領域的金融支援。堅持以市場供求為基礎、參考一籃子貨幣進行調節、有管理的浮動匯率制度，保持匯率彈性，發揮匯率調節宏觀經濟和國際收支自動穩定器功能，綜合施策，增強外匯市場韌性，穩定市場預期，防範匯率超調風險，保持人民幣匯率在合理均衡水平上的基本穩定。拓展豐富中央銀行宏觀審慎和金融穩定功能，創新金融工具，維護金融市場平穩執行，堅決守住不發生系統性金融風險的底線。"
-    },
-    {
-      "id": "te:markets:574727",
-      "time": "2026-08-12 18:27:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Falls for 2nd Day — India’s BSE Sensex finished about 0.2% down at 77,966 on Wednesday, marking the second day of losses. Caution ahead of the upcoming Indian and US inflation reports was heightened by US-Iran tensions and the continued uncertainty over the reopening of the Strait of Hormuz, supporting higher crude oil prices. Meanwhile, foreign inflows persisted. Tata Group stocks led the decline, with Tata Consultancy Services (TCS) plunging 3.7% and acting as a major drag."
-    },
-    {
-      "id": "mkt:019ff582-e823-7aab-9007-43be306829ad",
-      "time": "2026-08-12 18:27:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Tianwan Unit 7 begins first fuel loading】China National Nuclear Corporation (CNNC) said initial fuel loading has begun at Tianwan nuclear plant Unit 7, marking the first domestic fuel loading of a VVER-1200 reactor. The 1.265 GW unit has a 60-year design life, is expected to generate nearly 10 bln kWh annually and is slated for commercial operation in 2026. When all eight Tianwan units are online, site capacity will exceed 9 GW, annual output will top 70 bln kWh and CO2 emissions will be cut by about 57.4 mln tonnes per year."
-    },
-    {
-      "id": "5037504",
-      "time": "2026-08-12 18:26:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔汽車計劃透過漲價來應對大宗商品通脹壓力。"
-    },
-    {
-      "id": "5037503",
-      "time": "2026-08-12 18:26:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "翰宇藥業：與三生蔓迪簽署司美格魯肽注射液合作協議。"
-    },
-    {
-      "id": "5037502",
-      "time": "2026-08-12 18:26:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【田灣核電7號機組開始首次裝料工作】記者今天（12日）從中核集團獲悉，中核集團田灣核電7號機組首次裝料正式開始，本次裝料也是VVER-1200型機組國內首堆首次裝料。（央視新聞）"
-    },
-    {
-      "id": "5037501",
-      "time": "2026-08-12 18:25:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔塔汽車：計劃在第二季度進一步加快交付印尼訂單。"
-    },
-    {
-      "id": "5037500",
-      "time": "2026-08-12 18:25:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，截至8月12日18時，2026年暑期檔（6月1日-8月31日）總票房超90億，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》分列暑期檔票房榜前三位。"
-    },
-    {
-      "id": "5037499",
-      "time": "2026-08-12 18:25:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "塔塔汽車：受中東危機影響，公司計劃在第二季度增加其他市場的需求引流。"
-    },
-    {
-      "id": "5037498",
-      "time": "2026-08-12 18:25:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "OPC能源有限公司目前正在美國和以色列建設兩個專案，預計到2029-2030年將新增220萬千瓦運營裝機容量。"
-    },
-    {
-      "id": "5037497",
-      "time": "2026-08-12 18:24:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "塔塔汽車有限公司：隨著行業需求上升，預計第二季度將透過針對性消除供應鏈瓶頸來解決供應鏈難題。"
-    },
-    {
-      "id": "5037496",
-      "time": "2026-08-12 18:24:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "鴻海精密工業表示，公司斥資新臺幣10.5億元收購富康科技股權。"
-    },
-    {
-      "id": "5037495",
-      "time": "2026-08-12 18:24:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "嘉信理財提交申請，擬發行26億美元高階債券。"
-    },
-    {
-      "id": "5037494",
-      "time": "2026-08-12 18:24:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將超微電腦目標價從38美元上調至39美元。"
-    },
-    {
-      "id": "5037493",
-      "time": "2026-08-12 18:24:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦駐莫斯科大使：與沙特和土耳其達成的協議並非針對任何國家的敵對協議，而是試圖建立區域安全架構。"
-    },
-    {
-      "id": "5037492",
-      "time": "2026-08-12 18:23:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曝李寧將簽約姆巴佩】據報道，李寧將簽約法國球星姆巴佩。一位知情人士告訴36氪，這不是一份傳統的代言合同，李寧計劃參考費德勒與昂跑的投資合作模式，以及安德瑪與庫裡的子品牌模式：姆巴佩將出資持有相關股份，李寧則負責打造一個以姆巴佩為核心的獨立個人品牌。 上述知情人士同時確認，姆巴佩與耐克解約的傳聞屬實。姆巴佩與耐克的合同於今年7月31日到期，此前《隊報》多次報道稱，耐克內部曾加緊推動續約談判，但最終未能挽回合作，姆巴佩自7月31日起已經停止穿著耐克產品。（36氪）"
-    },
-    {
-      "id": "5037491",
-      "time": "2026-08-12 18:22:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉陶琳：俗話說百聞不如一見。不僅僅是馬斯克和梅耶女士對中國讚賞有加，過去這些年裡我有不少機會跟國外同事們在中國走訪、交流，無論是源遠流長的歷史文化，還是各地獨特的風土人情，日新月異的城市發展，都讓大家印象深刻，流連忘返。真心歡迎世界各地的朋友們多來中國走走看看。"
-    },
-    {
-      "id": "5037490",
-      "time": "2026-08-12 18:22:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香港否認計劃將附帶權益優惠稅制擴大至自營交易公司】香港政府就媒體有關附帶權益優惠稅制的查詢釋出宣告，稱香港沒有計劃進一步擴大優惠措施的適用範圍。香港財經事務及庫務局在宣告中表示，為一般商業或工業目的而經營的業務實體並不符合“基金”的定義。因此，以自有資金、為其本身買賣或持有資產賺取收益的業務（一般稱為“自營交易業務”並不符合相關“基金”定義），其分發的酬金亦因而不符合《條例草案》中建議的免稅資格。"
-    },
-    {
-      "id": "5037489",
-      "time": "2026-08-12 18:22:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【卓然股份與君恆共建可持續航空燃料升級改造專案】據卓然股份訊息，近日，卓然股份與河南省君恆實業集團生物科技有限公司正式簽署“100萬噸/年廢棄油脂加工可持續航空燃料升級改造專案”合作協議。雙方整合裝備整合、工藝研發與生物質資源化產業優勢，合力推進生物航油規模化落地，共同佈局能源綠色轉型新賽道。"
-    },
-    {
-      "id": "5037488",
-      "time": "2026-08-12 18:22:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國媒體監管機構認定谷歌、蘋果違反應用內支付相關法規】韓國媒體通訊委員會週三作出認定，美國谷歌公司與蘋果公司濫用各自應用商店的市場支配地位，違反相關法律。韓國媒體通訊委員會在當日下午的例行會議上表示，具體處罰措施將擇期另行敲定。"
-    },
-    {
-      "id": "5037487",
-      "time": "2026-08-12 18:22:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中歐班列“中通道”年內通行量突破3000列】1295次中歐班列8月12日從內蒙古二連浩特鐵路口岸緩緩駛出，標誌著該口岸年內通行中歐班列數量突破3000列，口岸跨境運輸效能實現穩步提升。截至8月11日，二連浩特鐵路口岸年內通行中歐班列2999列，運送貨物283.22萬噸，班列數、貨運量分別同比增長11.57%、26.74%，為暢通國際物流通道提供了重要支撐。二連浩特鐵路口岸是中歐班列“中通道”唯一出入境鐵路口岸。目前，經二連浩特鐵路口岸執行的中歐班列線路達76條，通達德國、波蘭等10餘個國家的70餘個樞紐站點，覆蓋國內中歐班列大部分首發城市。運輸貨物結構持續最佳化，從早期以金屬、化工、輕工產品為主，逐步升級為新能源汽車、電子家電等高附加值產品。"
-    },
-    {
-      "id": "mkt:019ff57d-0c48-7aab-9007-3fe84aff8640",
-      "time": "2026-08-12 18:20:40",
-      "tags": [
-        "MKT News",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "Barclays raises Super Micro Computer (SMCI.O) PT to $39 from $38."
-    },
-    {
-      "id": "mkt:019ff57c-20ad-7aab-9007-337e84497aca",
-      "time": "2026-08-12 18:19:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Metzler Bank: Tonight's inf print likely limited for Fed's September decision】US inf data due tonight could move markets short term, but Metzler Bank analysts say it is unlikely to materially influence the Fed's September rate decision. After weaker-than-expected June core inf, markets will watch whether July continues the trend or June was an outlier. Metzler says the Fed is likely to wait for additional data — PPI, PCE — and developments in the Middle East before deciding on rates."
-    },
-    {
-      "id": "5037486",
-      "time": "2026-08-12 18:19:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行將賽富時目標股價從200美元上調至205美元；ServiceNow目標股價從160美元上調至175美元。"
-    },
-    {
-      "id": "te:economy:574725",
-      "time": "2026-08-12 18:19:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Serbia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Serbia Inflation Slows to Lowest Since 2021 — The inflation rate in Serbia eased to 1.9% year-on-year in July 2026 from 2.7% in the previous month. The latest figure marked the weakest growth since March 2021, as prices grew at a softer pace for clothing and footwear (1.2% vs 1.4% in June), furnishings and household equipment (0.6% vs 0.8%), transportation (7.1% vs 7.7%), education (1.2% vs 1.8%), restaurants and hotels (6.1% vs 6.2%), insurance and financial services (3.9% vs 4.1%), and miscellaneous goods and services (0.7% vs 2.5%). At the same time, costs declined further for food and non-alcoholic beverages (-6.1% vs -3.7%). In contrast, prices increased for alcoholic beverages and tobacco (6.5% vs 5.2%), housing and utilities (9.7% vs 9.5%), recreation and culture (10.0% vs 9.7%), information and communication (1.9% vs 1.6%), and health (7.9% vs 7.6%). On a monthly basis, consumer prices fell by 0.2%, following a 0.2% rise in the preceding period."
-    },
-    {
-      "id": "5037485",
-      "time": "2026-08-12 18:19:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行將微軟目標股價從650美元上調至700美元。"
-    },
-    {
-      "id": "5037484",
-      "time": "2026-08-12 18:18:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部與中國氣象局8月12日18時聯合釋出橙色地質災害氣象風險預警】自然資源部與中國氣象局8月12日18時聯合釋出橙色地質災害氣象風險預警：預計，8月12日20時至13日20時，北京西部和東北部、天津北部、河北西部和東部、山西東部、浙江東部、安徽西部、河南中西部、湖北北部和西部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，浙江東部、河南中部、湖北西北部等地部分地區發生地質災害的氣象風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。橙色預警區內高風險隱患點和風險區受威脅人員請根據當地防災部門組織立即撤離前往附近避險安置點，臨坡臨崖臨溝臨水人員根據撤離訊號及時撤離前往附近避險安置點；黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。"
     }
   ]
 }
