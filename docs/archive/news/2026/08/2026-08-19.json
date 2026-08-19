@@ -1,7 +1,127 @@
 {
   "date": "2026-08-19",
-  "count": 452,
+  "count": 465,
   "items": [
+    {
+      "id": "5046629",
+      "time": "2026-08-19 08:07:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1個基點至2.925%。"
+    },
+    {
+      "id": "mkt:01a01757-f6fc-7aab-9083-fd77b83e6f89",
+      "time": "2026-08-19 08:07:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Korea Exchange activated the KOSPI sidecar mechanism, suspending programmatic sell orders for 5 minutes."
+    },
+    {
+      "id": "5046628",
+      "time": "2026-08-19 08:07:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：穩健者加大算力投入力度，應用飛輪閉環優於預期】中信建投研報稱，2026年以來，AI產業投資邏輯正從模型能力與資本開支競賽，逐步轉向訂單、收入及盈利的商業化驗證。海外Agent產品率先形成收入增量，雲廠商高強度算力投入仍有云收入和在手訂單支撐；國內模型在Coding及Agent任務上的能力差距快速收窄，推理效率、Token呼叫量及產品收入同步提升。展望未來一至兩個季度，國產模型迭代、Agent產品升級和旗艦模型重新定價有望共同推進，建議持續關注算力服務、國產晶片與超節點，以及具備場景、資料和企業交付能力的B端AI應用廠商。"
+    },
+    {
+      "id": "5046627",
+      "time": "2026-08-19 08:06:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
+    },
+    {
+      "id": "te:economy:576259",
+      "time": "2026-08-19 08:06:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Machinery Orders",
+        "Importance 2"
+      ],
+      "text": "Japan Machinery Orders Rebound More than Expected — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric utilities, jumped 9.7% month-on-month to JPY 1.06 trillion in June 2026, shifting from a 12.4% drop in the prior month and exceeding market forecasts of a 7.8% gain. It was the third time of increase so far this year, also marking the fastest pace since February, reflecting broad-based recovery in business investment. Orders from manufacturers bounced back 19.9% (vs -14.9% in May), while non-manufacturing orders improved (4.5% vs 9.3%). Among manufacturers, the strongest growth came from non-ferrous metals (225.3%), shipbuilding (94.9%), chemicals (39.0%), and petroleum and coal (32.9%). In the non-manufacturing sector, orders strengthened in real estate (253.1%), agriculture (33.0%), and mining, quarrying (23.7%). On an annual basis, machinery orders expanded 16.9%, swinging from May's 1.9% decline and topping estimates for a 10.8% rise and pointing to the fastest rise in four months."
+    },
+    {
+      "id": "5046626",
+      "time": "2026-08-19 08:06:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青島—溫哥華航線將於10月2日復航】據“青島釋出”，由首都航空執飛的杭州—青島—溫哥華航線將於10月2日復航，每週五執行一班，機型為空客A330寬體機，目前已在各大平臺公開售票。這是加拿大交通部今年4月宣佈大幅增加中加直航配額後，又一條重啟的中加航線。復航後，該航線將成為山東省內唯一直飛北美洲的客運航線。今年1至7月，青島機場國際及地區旅客量達210萬人次，同比增長12%，位列全國機場第10位。"
+    },
+    {
+      "id": "mkt:01a01756-a35a-7aab-9083-f4f0c431a019",
+      "time": "2026-08-19 08:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI intraday losses widened to 6.00%, trading at 6,454.44 points."
+    },
+    {
+      "id": "5046625",
+      "time": "2026-08-19 08:05:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報6454.44點。個股方面，SK海力士跌超8%，三星電子跌超7%。"
+    },
+    {
+      "id": "5046624",
+      "time": "2026-08-19 08:04:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價早盤下跌8.2%，至1,525,500韓元。"
+    },
+    {
+      "id": "5046623",
+      "time": "2026-08-19 08:04:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數下跌2%。"
+    },
+    {
+      "id": "5046622",
+      "time": "2026-08-19 08:04:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓媒稱韓美聯合軍演日程將減半 韓國防部稱無法確認 】韓國廣播公司18日晚援引軍方人士訊息報道稱，韓美“乙支自由之盾”聯合軍演日程將縮短一半，在防禦作戰結束後提前結束。韓國國防部19日表示，對此無法確認。（新華社）"
+    },
+    {
+      "id": "5046621",
+      "time": "2026-08-19 08:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數大跌5.5%，晶片股重挫。"
+    },
+    {
+      "id": "mkt:01a01754-f081-7aab-9083-eb424bf7602e",
+      "time": "2026-08-19 08:03:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
+    },
     {
       "id": "mkt:01a01754-22b2-7aab-9083-e4448b65674d",
       "time": "2026-08-19 08:03:04",
