@@ -1,7 +1,204 @@
 {
-  "updated": "2026-08-19 13:09:20",
-  "count": 15220,
+  "updated": "2026-08-19 13:18:50",
+  "count": 15233,
   "items": [
+    {
+      "id": "5047049",
+      "time": "2026-08-19 13:17:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達4.01%，成分股中，三協電機跌12.30%，萬達軸承跌9.67%，鼎智科技跌9.43%，戈碧迦跌7.41%。"
+    },
+    {
+      "id": "5047048",
+      "time": "2026-08-19 13:16:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安好醫生2026半年報：歸母淨利潤增長63.5%，朱友剛出任董事會主席】平安好醫生公佈2026年半年報，期內公司實現總收入24.84億元，歸母利潤為2.19億元，利潤同比增長63.5%，AI業務貢獻毛利佔比約4.6%。同日，公司宣佈朱友剛出任董事會主席。"
+    },
+    {
+      "id": "5047047",
+      "time": "2026-08-19 13:16:33",
+      "tags": [],
+      "text": "滬指失守3900點，跌超2.3％，創指跌超5.7％。機器人、CPO、光通訊等板塊跌幅靠前。"
+    },
+    {
+      "id": "mkt:01a01872-b6cb-7aab-908a-2ef6f96a9311",
+      "time": "2026-08-19 13:16:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share humanoid-robot sector slid further in the afternoon; more than 10 stocks hit daily limit-down, including Julun Intelligent, Wuzhou Xinchun, Qinchuan Machine Tool and Meihu Co. Lvde Xiebo, Jiangsu Beiren, Fengguang Precision and Shangwei New Materials fell more than 15%."
+    },
+    {
+      "id": "5047046",
+      "time": "2026-08-19 13:16:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達7％，成分股中，盛美上海跌13.20％，芯原股份跌12.56％，盛科通訊跌12.24％，華虹宏力跌11.54％。"
+    },
+    {
+      "id": "5047045",
+      "time": "2026-08-19 13:15:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人板塊重挫，綠的諧波跌超15%】人形機器人板塊重挫，巨輪智慧、五洲新春、秦川機床、美湖股份等10餘股觸及跌停，綠的諧波、江蘇北人、豐光精密、上緯新材跌超15%。"
+    },
+    {
+      "id": "mkt:01a01871-cfba-7aab-908a-274cc18f7e08",
+      "time": "2026-08-19 13:15:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite fell below 3,900 points, down more than 2.3% intraday."
+    },
+    {
+      "id": "te:markets:576338",
+      "time": "2026-08-19 13:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 1.07% — Top currency gainers are South Korean Won (1.07%), Japanese Yen (0.18%), Euro (0.08%) and British Pound (0.06%). Biggest losers are Australian Dollar (-0.26%) and Dollar Index (-0.13%)."
+    },
+    {
+      "id": "5047044",
+      "time": "2026-08-19 13:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：嘉信理財計劃到2027年將印度技術中心員工規模擴大至2000人。"
+    },
+    {
+      "id": "mkt:01a01870-eda9-7aab-908a-1dc5015b5c90",
+      "time": "2026-08-19 13:14:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Rocket Street commercial space intelligent TT&C center opens】On Aug. 19 Dongfeng Commercial Aerospace's Zhuque-3 reusable launch vehicle placed the Honghu-03 satellite into its planned orbit and completed China’s first land recovery of a launcher's first-stage landing legs. The Beijing Rocket Street Commercial Space Intelligent Telemetry, Tracking and Command (TT&C) Center in Yizhuang — the country’s first open commercial TT&C shared platform and located more than 1,000 km from the launch site — entered service the same day and handled full-process satellite and rocket TT&C for the mission."
+    },
+    {
+      "id": "mkt:01a01870-cc7d-7aab-908a-149e17ecc114",
+      "time": "2026-08-19 13:14:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Yen volatility rises, investors shift to Swiss franc-funded carry trades】Rising intervention risk and higher rates have weakened yen funding, pushing carry traders toward Swiss franc financing. CFTC data for the week to Aug. 11 show hedge funds’ net short positions in the franc near a two-month high while they trimmed yen shorts for a second consecutive week. Tobias Jungmann, head of FX options at BofA in New York, said markets have increased franc short exposure to finance FX carry trades and that options are attractive given the franc’s vol-to-carry profile, allowing exposure with capped downside. The franc’s appeal rests on near-zero Swiss interest rates and the Swiss National Bank’s willingness to limit appreciation; by contrast, a late-July Japan–U.S. joint intervention raised yen volatility and curbed yen-funded trades."
+    },
+    {
+      "id": "mkt:01a01870-3c5f-7aab-908a-087085d0fce5",
+      "time": "2026-08-19 13:13:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【18th typhoon Shadol forms; no impact on Chinese waters over next five days】China’s Central Meteorological Observatory said at 12:34 on Aug. 19 that Typhoon No.18, Shadol, formed in the northwest Pacific. At 11:00 the centre was at 8.2°N, 153.9°E, about 1,160 km southeast of Guam. Maximum winds near the centre were 18 m/s, central pressure 998 hPa, with a radius of gale-force (≥7) winds of 100–200 km. Shadol is moving NNW at 15–20 km/h, expected to strengthen and track toward waters east of the Ryukyu Islands; no impact on Chinese waters is expected over the next five days."
+    },
+    {
+      "id": "5047042",
+      "time": "2026-08-19 13:12:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京火箭大街商業航天智慧測運控中心正式啟用】據“北京亦莊”公眾號訊息，8月19日，朱雀三號重複使用運載火箭在東風商業航天創新試驗區成功將“鴻鵠03星”送入預定軌道，並完成我國首次運載火箭一子級陸地支腿回收。在距離發射場1000多公里的北京亦莊，全國首個開放式商業航天測運控共享平臺——北京火箭大街商業航天智慧測運控中心於當天正式啟用，並開展了此次歷史性發射任務的全過程星、箭測控，實現了“亦莊箭、亦莊星、亦莊測”。北京火箭大街商業航天智慧測運控中心由北京亦莊企業航天長征火箭技術有限公司建設，是北京經開區重點打造的北京火箭大街六大共性服務平臺之一。中心面向全球提供商業航天測運控服務，覆蓋低軌、高軌、地月空間，具備每年不低於200次商業火箭發射/回收測控、不低於5000顆商業衛星的測運控服務能力。"
+    },
+    {
+      "id": "5047041",
+      "time": "2026-08-19 13:12:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【嫦娥七號器箭組合體完成垂直轉運 】8月19日上午，嫦娥七號探測器和長征五號遙十四運載火箭在中國文昌航天發射場完成技術區相關工作，器箭組合體垂直轉運至發射區。據中國載人航天工程辦公室介紹，嫦娥七號探測器、長征五號遙十四運載火箭分別於4月、7月運抵發射場，先後完成了總裝、測試等準備工作。目前，發射場設施裝置狀態良好，後續將按計劃開展發射前各項功能檢查、聯合測試、推進劑加註等工作，計劃近日擇機實施發射。"
+    },
+    {
+      "id": "mkt:01a0186f-64a9-7aab-908a-04c386dd1c2d",
+      "time": "2026-08-19 13:12:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Jiangsu issues 'AI+' industrial software action plan (2026–28)】The Jiangsu Provincial Department of Industry and Information Technology issued the Jiangsu \"AI+\" Industrial Software Breakthrough Development Action Plan for 2026–2028, outlining five priority tracks: building industrial software development capacity, upgrading software vendors with AI, using industrial software to empower manufacturing, cultivating innovation carriers, and optimizing the industrial-software ecosystem. Key measures include targeted R&D on core underlying AI+ industrial software technologies and tighter integration of AI capabilities into industrial software; development of new service formats—model-as-a-service, agent-as-a-service and outcome-as-a-service—and promotion of result-based and usage-based billing models; construction of high-quality industrial datasets and data–model co‑optimization; accelerated establishment of industrial software research institutes and local innovation centres for pilot testing, compatibility/adaptation and application promotion; and incentives such as compute, model and token vouchers to lower barriers to enterprise AI adoption."
+    },
+    {
+      "id": "5047040",
+      "time": "2026-08-19 13:12:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "5047039",
+      "time": "2026-08-19 13:11:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第18號颱風沙德爾生成 未來5天對我國海域無影響】8月19日12時34分，中央氣象臺介紹，今年第18號颱風“沙德爾”（熱帶風暴級；英文名稱：Saudel；名字來源：密克羅尼西亞；名稱意義：密克羅尼西亞波納佩島（Pohnpei）傳說中的將領“蘇迪羅”信任的衛兵）已於今天（19日）上午在西北太平洋洋麵上生成，11點鐘其中心位於美國關島東南方向約1160公里的洋麵上，就是北緯8.2度、東經153.9度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為100-200公里。 預計，“沙德爾”將以每小時15-20公里的速度向北偏西方向移動，強度逐漸增強，趨向琉球群島以東洋麵，未來5天對我國海域無影響。"
+    },
+    {
+      "id": "mkt:01a0186e-8c8f-7aab-9089-fd1e98208254",
+      "time": "2026-08-19 13:11:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "China's CSI 1000 index futures (IM) main contract fell below 7,500, down 3.87% intraday."
+    },
+    {
+      "id": "5047038",
+      "time": "2026-08-19 13:10:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【繞開海峽 伊拉克批准原油出口新機制】伊拉克政府18日說，伊政府已批准相關機制，允許透過專業的國際和本地公司，經過多個口岸出口原油。路透社援引伊拉克政府宣告報道，新出口機制下的合同自9月1日起生效，期限為3個月。伊拉克政府尚未公佈入選公司、該機制下計劃出口原油的數量以及出口口岸等具體細節。今年2月底伊朗戰事爆發前，伊拉克日均原油產量約400萬桶，月均出口約1.05億桶，其中大部分從伊南部巴士拉石油終端、經霍爾木茲海峽外運。霍爾木茲海峽通行受阻後，伊拉克為減少對海灣航線的依賴，加大開發包括途經土耳其和敘利亞的替代出口路線。"
+    },
+    {
+      "id": "5047037",
+      "time": "2026-08-19 13:10:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1280.00美元/盎司。"
+    },
+    {
+      "id": "5047036",
+      "time": "2026-08-19 13:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南擁有12個國家區域醫療中心 數量居全國首位】河南目前已獲批 12個國家區域醫療中心，專案數量穩居全國首位。這些醫療中心對接北京、上海等地的頂尖國家級醫院，涵蓋心血管、腫瘤、兒童、中醫等多個重點專業，讓群眾在家門口就能看好大病、重病。（河南日報）"
+    },
     {
       "id": "5047035",
       "time": "2026-08-19 13:07:41",
@@ -139435,71 +139632,6 @@
         "國際"
       ],
       "text": "韓國政府：韓國將在核能、量子技術、航天與生物技術領域啟動7項“種子”專案，以培育未來增長引擎。"
-    },
-    {
-      "id": "5036883",
-      "time": "2026-08-12 13:18:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮要求重新起訴“破壞倒影池”的前奧運選手】多名知情人士11日稱，白宮已要求司法部考慮對曾受控蓄意破壞美國首都華盛頓的重要地標——林肯紀念堂前倒影池的美國前奧運選手提起新指控。據美國方面訊息，白宮與司法部的討論屬於非正式的早期階段。司法部官員眼下正探尋，是否有可能對美國皮划艇運動員、前奧運選手戴維·赫恩提起輕罪指控。赫恩起初受輕罪指控，但檢方後續將罪名提升至重罪。不過，赫恩所涉案件的主審法官定於9月舉行聽證會，以裁定司法部是否不得再以同一犯罪行為起訴赫恩。"
-    },
-    {
-      "id": "5036882",
-      "time": "2026-08-12 13:17:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首單民營企業倉儲物流公募REIT首次擴募獲受理】8月12日，嘉實京東倉儲基礎設施REIT首次擴募獲上交所受理。該REIT是國內首單民營企業倉儲物流公募REIT，此次擴募是上市以來的首次擴募，擬納入位於合肥和西安的兩處倉儲物流資產，合計建築面積約25萬平方米。"
-    },
-    {
-      "id": "5036881",
-      "time": "2026-08-12 13:15:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥商業板塊短線拉昇，瑞康醫藥漲停】醫藥商業板塊短線拉昇，瑞康醫藥漲停，第一醫藥、鷺燕醫藥、浙江震元、人民同泰、漱玉平民等紛紛走高。"
-    },
-    {
-      "id": "5036880",
-      "time": "2026-08-12 13:15:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1281億元。"
-    },
-    {
-      "id": "5036879",
-      "time": "2026-08-12 13:14:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【利比亞局勢動盪加劇 國內政治程序恐受阻】利比亞西部城市扎維亞的石油設施近日連遭無人機襲擊，東部城市班加西10日發生的汽車炸彈襲擊致“國民軍”情報負責人死亡。分析人士認為，利比亞局勢近來動盪加劇，陷於停滯的國內政治程序恐進一步受阻。（新華社）"
-    },
-    {
-      "id": "5036878",
-      "time": "2026-08-12 13:12:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為雲與滴普科技聯合釋出資料智慧解決方案】據華為雲訊息，8月12日，華為雲與滴普科技在北京聯合釋出資料智慧聯合解決方案。雙方將共同打造面向智慧製造、零售等行業的資料智慧聯合解決方案，幫助企業打通資料孤島，加速從資料治理到智慧體應用的一站式落地。"
-    },
-    {
-      "id": "5036877",
-      "time": "2026-08-12 13:10:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颱風浪卡生成 預計未來對我國無影響】據中國天氣訊息，今年第17號颱風“浪卡”生成。“浪卡”名字來源：馬來西亞；名稱意義：又名菠蘿蜜果，黃色橢圓形狀，是馬來西亞非常流行的一種水果。預計“浪卡”未來對我國無影響。另外，今年第16號颱風“琵鷺”已減弱為熱帶低壓，將逐漸減弱消失。"
-    },
-    {
-      "id": "5036876",
-      "time": "2026-08-12 13:10:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年全球7月氣溫為有記錄以來第二高】當地時間8月11日，世界氣象組織發言人克萊爾·納利斯表示，西歐今年6月至7月經歷有記錄以來最熱時期，全球7月氣溫為有記錄以來第二高，全球海洋表面平均溫度則創同期最高紀錄。 此外，世界氣象組織氣候資訊主管約翰·肯尼迪表示，隨著全球氣候持續變暖，極端高溫天氣正變得更加頻繁、更加強烈，持續時間也更長。近幾個月的極端天氣是長期變暖與持續存在的高低氣壓交替模式共同作用的結果，目前沒有明確證據表明西歐今夏高溫與厄爾尼諾現象有關。隨著厄爾尼諾現象在太平洋地區持續發展，世界氣象組織預計全球氣溫將出現上升趨勢。"
     }
   ]
 }
