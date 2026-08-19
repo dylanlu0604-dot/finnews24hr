@@ -1,7 +1,161 @@
 {
-  "updated": "2026-08-19 15:38:18",
-  "count": 15305,
+  "updated": "2026-08-19 15:42:13",
+  "count": 15311,
   "items": [
+    {
+      "id": "5047265",
+      "time": "2026-08-19 15:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中歐班列（深圳）六週年 開行數量年均增長近五成】18日，中歐班列（深圳）迎來開行六週年。深圳海關資料顯示，截至目前，中歐班列（深圳）已累計發運1122列，開行數量年均增長49.9%；出口貨值達289億元，單趟班列貨值均價達3300萬元。（新華社）"
+    },
+    {
+      "id": "5047264",
+      "time": "2026-08-19 15:40:48",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本東證指數創3月以來最大跌幅 債券收益率飆升衝擊AI板塊】日本股市週三重挫，東證指數錄得3月以來最大跌幅。隨著債券收益率攀升至數十年來高位，市場對融資成本上升和日本央行加息的擔憂加劇，AI相關股票首當其衝遭到拋售。受電子和銀行板塊拖累，東證指數下跌3.1%。科技股權重較高的日經225指數也下跌3.2%，其中儲存晶片製造商鎧俠控股和光纖電纜製造商古河電氣跌幅居前。日本10年期國債收益率週三雖小幅回落，但仍接近數十年來高位。此前該收益率週二上行至1996年以來未見水平。對通脹的擔憂以及市場對日本央行可能於下月加息的猜測，一直在打壓債券價格。Iwai Cosmo Securities高階分析師Shoichi Arisawa表示，對借貸成本上升的擔憂正促使投資者拋售科技股，而其中許多個股的估值本已偏高。“市場對債券收益率的整體焦慮正在壓制AI和晶片相關股票，”他說，並補充稱，日本央行短期內可能加息所帶來的不確定性進一步加劇了市場的避險情緒。"
+    },
+    {
+      "id": "5047263",
+      "time": "2026-08-19 15:40:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗迪集團：擬授權管理層使用不超1.80億元專項資金用於股權投資業務】朗迪集團8月19日公告， 公司當天召開第八屆董事會第四次會議，審議透過《關於授權管理層對外投資額度的議案》，為提高決策效率，在投資風險可控且不影響公司正常經營的情況下，擬授權管理層使用不超過人民幣1.80億元（關聯交易除外）專項資金用於股權投資業務，其中單項投資金額原則上不超過1億元，使用期限自董事會審議透過之日起12個月內有效，在上述額度及期限內，資金可以滾動使用。上述授權額度及範圍不包括根據相關法律法規及《公司章程》等規定需經董事會或股東會審議批准後方可實施的對外投資事項。"
+    },
+    {
+      "id": "te:markets:576395",
+      "time": "2026-08-19 15:40:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Little Changed on Wednesday — European shares were broadly flat on Wednesday as investors remained cautious amid uncertainty in the Middle East and awaited the minutes of the Federal Reserve’s July meeting for further guidance on interest rates. Gains in basic resources stocks, supported by firmer gold prices, provided some stability, with the sector rising around 0.6%. In contrast, technology stocks were the weakest performers, falling about 0.4% as higher bond yields weighed on growth-sensitive shares. Semiconductor stocks also came under pressure after reports that Anthropic’s annual revenue run rate reached $65 billion, falling short of some elevated market expectations. Soitec dropped 4.4%, while Nordic Semiconductor and Scout24 lost more than 2% each. Geopolitical tensions remained in focus after President Donald Trump said there were no ongoing talks with Iran and claimed the Strait of Hormuz was open. Meanwhile, UK inflation accelerated to 2.9% in July from 2.6% in June, exceeding expectations."
+    },
+    {
+      "id": "mkt:01a018f6-676d-7aab-908f-08f4b6252ea1",
+      "time": "2026-08-19 15:39:56",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources: Samsung targets completion of 1d nm DRAM R&D by Sep 2026】Industry sources say Samsung Electronics aims to complete R&D on 1d nm DRAM by September 2026, move to production-transfer in December 2026, begin production-line construction in 1H 2027, and is expected to reach first mass production by end-2027."
+    },
+    {
+      "id": "5047262",
+      "time": "2026-08-19 15:39:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：7月貸款增長強勁，增速超過13%，我們將努力維持這一增長勢頭。"
+    },
+    {
+      "id": "5047261",
+      "time": "2026-08-19 15:39:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【里昂：智譜GLM-5.3後訓練能力顯著提升 維持“跑贏大市”評級】里昂發表研究報告指，智譜(02513.HK) GLM-5.3 API即日起開放呼叫，在複雜編碼及長週期代理任務方面展現國內同業中領先效能，雖然引數規模較小，但在一眾基準測試中都取得開放權重SOTA表現，並在Artificial Analysis智慧指數中獲得60分，與Kimi 3持平，超越通義千問3.8 Max。該行估算GLM模型的OpenRouter收入份額已從今年1月的1%升至7月的7%，領先DeepSeek的6%及月之暗面的3%。認為DeepSeek近期加價反映行業競爭健康，而GLM 5.3已重奪帕累託前沿地位。近期股價疲弱或反映市場對Anthropic年化經常性收入減速的過度反應，維持智譜“跑贏大市”評級，目標價為2061港元。"
+    },
+    {
+      "id": "te:economy:576394",
+      "time": "2026-08-19 15:39:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Eases From Two-Week High — The yield on India’s 10-year G-Sec weakened to around 6.8%, retreating from recent gains as easing US Treasury yields and bargain buying after a two-day selloff supported demand for government bonds. The US 10-year Treasury yield eased to 4.686%, offering some relief to Indian debt, while foreign investors continued to show demand, buying $3.04 billion of Indian bonds in July, their second consecutive monthly inflow after India scrapped capital gains tax on interest and sales of government securities for overseas investors. The decline in yields was limited by elevated oil prices and renewed geopolitical risks, with Brent crude rising to around $92 a barrel as uncertainty over the Strait of Hormuz persisted. The benchmark bond yield had climbed to a two-week high on Tuesday following the RBI’s early withdrawal of its discounted forex swap facility for banks hedging diaspora deposits. Investors were also awaiting the RBI’s policy minutes for fresh interest-rate cues."
+    },
+    {
+      "id": "mkt:01a018f5-eae2-7aab-908f-0072ea2ae25c",
+      "time": "2026-08-19 15:39:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "【CLSA: Zhipu GLM-5.3 shows marked capability gains; keeps Outperform, HK$2,061 TP】CLSA says Zhipu AI (02513.HK) has opened API access to GLM‑5.3, which leads domestic peers on complex coding and long‑horizon agent tasks. Despite a smaller parameter count, GLM‑5.3 posts open‑weight SOTA across benchmarks and scores 60 on the Artificial Analysis AI Index—level with Kimi 3 and above Alibaba’s Tongyi Qianwen 3.8 Max. CLSA estimates GLM models’ OpenRouter revenue share rose to 7% in July from 1% in January, ahead of DeepSeek at 6% and Moonshot AI at 3%; it views DeepSeek’s recent price increases as a sign of healthy competition and says GLM‑5.3 has reclaimed the Pareto frontier. CLSA flags that recent stock weakness may reflect an overreaction to slower annualized recurring revenue at Anthropic, and maintains an Outperform rating with a HK$2,061 target price."
+    },
+    {
+      "id": "mkt:01a018f5-e044-7aab-908e-fd248e96f53a",
+      "time": "2026-08-19 15:39:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank Indonesia governor said the central bank is working to keep the rupiah stable while monitoring spillovers to inflation."
+    },
+    {
+      "id": "5047260",
+      "time": "2026-08-19 15:39:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬市科創板88家公司已披露半年報 收入增三成 利潤增逾一倍】截至8月19日，滬市科創板已有88家公司披露2026年半年度報告，合計實現營業收入2043億元，同比增長32%；實現淨利潤189億元，同比增長154%。其中，71家公司實現盈利，51家公司利潤增長，11家公司扭虧為盈。龍頭企業“壓艙石”作用尤為突出。已披露半年報的12家科創50指數成份股公司合計實現營業收入1174億元，同比增長25%；實現淨利潤92億元，同比增長216%，貢獻了板塊已披露半年報公司近六成的營業收入和近半數的淨利潤。"
+    },
+    {
+      "id": "mkt:01a018f5-4d92-7aab-908e-f29c5965e9b0",
+      "time": "2026-08-19 15:38:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Iran's discussions are currently limited to Oman on matters related to the Strait of Hormuz."
+    },
+    {
+      "id": "5047259",
+      "time": "2026-08-19 15:38:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：我們正全力維持印尼盾匯率穩定，同時監測溢位效應對通脹的影響。"
+    },
+    {
+      "id": "5047258",
+      "time": "2026-08-19 15:38:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達90億港元。"
+    },
+    {
+      "id": "5047257",
+      "time": "2026-08-19 15:37:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：我們推出的激勵措施為投資者提供了頗具吸引力的利差。"
+    },
+    {
+      "id": "te:economy:576392",
+      "time": "2026-08-19 15:37:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Polish Consumer Morale Weakens in August — Poland’s current consumer confidence indicator fell to -11.3 in August 2026, worsening from -10.2 in the previous month. Evaluations of current major purchases deteriorated the most (-4.9 vs -1.6), while expectations for the country’s future economic situation also weakened (-19.3 vs -17.3). Expectations for households’ financial situation over the next 12 months declined (-3.1 vs -2.7), as did assessments of the country’s current economic situation (-23.8 vs -23.4). Meanwhile, households’ financial situation over the last 12 months improved (-5.4 vs -6.0). The leading consumer confidence indicator also deteriorated, falling to -7.6 from -7.3 in July, with expectations for future savings (-14.1 vs 16.3) and the country’s future economic situation (-19.3 vs -17.3) weakening, while expectations for unemployment improved (-22.2 vs -25.3)."
+    },
     {
       "id": "mkt:01a018f4-3198-7aab-908e-ea6d948a59d4",
       "time": "2026-08-19 15:37:31",
@@ -140306,86 +140460,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：俄羅斯注意到多個國家的當局正試圖限制俄羅斯船隻的航行。"
-    },
-    {
-      "id": "5037106",
-      "time": "2026-08-12 15:41:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【容大感光：劉長青宣告符合獨立董事任職資格】容大感光公告稱，獨立董事候選人劉長青宣告，其與公司不存在影響獨立性的關係，符合相關法規及深交所業務規則對獨立董事任職資格及獨立性的要求。劉長青承諾宣告及材料真實準確完整，任職期間將遵守規定、勤勉盡責，若不符任職資格將及時報告並辭職。"
-    },
-    {
-      "id": "5037105",
-      "time": "2026-08-12 15:41:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇有線：副總經理李冠軍因工作調整離任】江蘇有線公告稱，公司董事會近日收到副總經理李冠軍書面辭呈，其因工作調整，於2026年8月11日辭去該職務，原定任期至2027年6月26日。辭呈自送達董事會之日起生效，李冠軍已做好交接，辭任不會對公司日常經營產生不利影響。其離任後將繼續在公司任專家，截至公告披露日，未持有公司股份，無未履行完畢的承諾事項。"
-    },
-    {
-      "id": "5037104",
-      "time": "2026-08-12 15:40:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南極電商：重大訴訟涉案金額變更 一審正在審理中】南極電商公告稱，公司與上海新和兆、和兆品牌管理公司商標使用許可合同糾紛一案，公司向上海市青浦區人民法院申請變更原訴訟請求，金額從8169.07萬元變更為2.96億元（暫計）。此外，上海新和兆起訴公司所涉訴訟金額（變更後）為3.13億元（不含利息）。兩案均在一審審理中，對公司利潤影響存在不確定性。"
-    },
-    {
-      "id": "5037103",
-      "time": "2026-08-12 15:40:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曲美家居：過去 12 個月與關聯人趙澤龍發生 32.44 萬元關聯交易】曲美家居公告稱，公司實際控制人、控股股東趙瑞海之子趙澤龍，過去 12 個月透過櫥窗帶貨等形式推廣公司產品，公司按抖音平臺規則向其支付服務費，累計關聯交易金額 32.44 萬元。交易定價遵循公平原則，價格公允。該關聯交易已獲獨立董事專門會議和董事會審議透過，對公司生產經營等不構成重大影響，不會影響公司獨立性和持續經營能力。"
-    },
-    {
-      "id": "5037102",
-      "time": "2026-08-12 15:40:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海思科：創新藥HSK60002片獲藥物臨床試驗批准】海思科公告稱，公司近日收到國家藥監局下發的HSK60002片《藥物臨床試驗批准通知書》，同意開展臨床試驗。該藥品為公司自主研發的口服小分子製劑，擬用於炎症性疾病治療，臨床前研究顯示其在相關動物模型中藥效顯著、機制明確，有開發價值和轉化前景。創新藥研發風險高，公司將及時披露後續進展。"
-    },
-    {
-      "id": "5037101",
-      "time": "2026-08-12 15:40:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鼎股份等成立新能源科技公司 含電子專用材料研發業務】企查查APP顯示，近日，安徽中鼎碳芯新能源科技有限公司成立，法定代表人為蔣偉堅，註冊資本為3000萬元，經營範圍包含：新材料技術推廣服務；新材料技術研發；電子專用材料研發；電子專用材料製造；電池製造等。企查查股權穿透顯示，該公司由中鼎股份、合肥國科碳芯科技有限公司共同持股。"
-    },
-    {
-      "id": "5037100",
-      "time": "2026-08-12 15:39:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京靈智康簽約落地合肥高新區】“合肥高新發布”微信公眾號訊息，近日，合肥京靈智康科技有限責任公司正式簽約落地高新區。該公司是靈心巧手在民生康復賽道的核心戰略載體，主要從事智慧仿生靈巧手的研發與生產。"
-    },
-    {
-      "id": "5037099",
-      "time": "2026-08-12 15:38:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東風股份：2026年7月汽車銷量7509輛，新能源銷量3397輛】東風股份公告，2026年7月汽車合計產量8799輛，本年累計77704輛，累計同比增長10.18%；銷量7509輛，本年累計76694輛，累計同比減少1.15%。其中新能源汽車本月產量4771輛，銷量3397輛，本年累計銷量21999輛，累計同比增長97.69%。東風康明斯發動機本月銷量20355臺。"
-    },
-    {
-      "id": "5037098",
-      "time": "2026-08-12 15:38:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "檔案顯示，越南石油天然氣集團正考慮啟動液化天然氣招標，計劃簽訂一份為期五年的採購合同，年採購量最高為45萬噸，交貨自明年1月起開始。"
-    },
-    {
-      "id": "5037097",
-      "time": "2026-08-12 15:38:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯普京：北約正在滲透亞太地區，北極地區緊張局勢正在加劇."
     }
   ]
 }
