@@ -1,7 +1,110 @@
 {
-  "updated": "2026-08-20 02:25:16",
-  "count": 15605,
+  "updated": "2026-08-20 02:29:05",
+  "count": 15615,
   "items": [
+    {
+      "id": "te:markets:576601",
+      "time": "2026-08-20 02:28:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PNC Stock Price Hits 6-week Low — PNC shares decreased to 246.59 USD, the lowest since July 2026. Over the past 4 weeks, PNC lost 1.37%, and in the last 12 months, it increased 26.52%."
+    },
+    {
+      "id": "5048499",
+      "time": "2026-08-20 02:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府釋出命令：將散裝食糖採購商庫存限制為15天用量。"
+    },
+    {
+      "id": "te:markets:576600",
+      "time": "2026-08-20 02:27:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "DXY Falls to Over 2-Month Low — The US dollar index fell below 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates."
+    },
+    {
+      "id": "mkt:01a01b47-8416-7aab-909f-fe06e5e08f37",
+      "time": "2026-08-20 02:27:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Fed minutes show no support for rate cuts】Fed minutes contained no views supporting rate cuts, marking a clear shift in policy discussion versus a year ago. Markets had expected cuts as inf cooled, but price pressures have persisted — amplified after the Trump administration's involvement in the Israel–Iran conflict — and oil and gas flows via the Strait of Hormuz remain constrained nearly six months after the outbreak. Recent data show a modest easing in inf and an unexpected payroll decline in July, leaving markets priced for the Fed to hold at the Sept. 15–16 meeting. Officials remain divided on the need for further hikes but are more cautious on labour-market strength and risks to achieving full employment; the Fed chair's reluctance to outline his policy path leaves markets without clear guidance."
+    },
+    {
+      "id": "mkt:01a01b47-7ee0-7aab-909f-f39e1fc94cda",
+      "time": "2026-08-20 02:27:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India orders inventory limits on bulk sugar consumers, effective Sept 1 through Nov 30."
+    },
+    {
+      "id": "5048498",
+      "time": "2026-08-20 02:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府令：印度對食糖大宗消費商實施存糖限額，該規定自9月1日起生效，有效期至11月30日。"
+    },
+    {
+      "id": "mkt:01a01b45-c9f1-7aab-909f-ed6599575ce8",
+      "time": "2026-08-20 02:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian official data shows the earthquake death toll has risen to 312."
+    },
+    {
+      "id": "te:markets:576599",
+      "time": "2026-08-20 02:25:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated US Treasuries after the Treasury Department doubled the buyback of notes and bonds in the upcoming financial quarter. It marked another effort by Washington to contain soaring yields in the longer portion of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, minutes of the Federal Reserve's rate-setting meeting confirmed that a portion of policymakers argued that raising rates this year could prevent sharper inflationary pressure later on."
+    },
+    {
+      "id": "mkt:01a01b45-2cae-7aab-909f-e3070b911291",
+      "time": "2026-08-20 02:25:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Russian deputy PM: Russia has begun importing fuel】Russian Deputy Prime Minister Novak told Russian news channel website reported on the 19th that Russia has begun importing fuel and has enacted necessary regulations to permit production of certain lower-emission-grade fuels."
+    },
+    {
+      "id": "te:markets:576598",
+      "time": "2026-08-20 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%)."
+    },
     {
       "id": "5048497",
       "time": "2026-08-20 02:24:32",
