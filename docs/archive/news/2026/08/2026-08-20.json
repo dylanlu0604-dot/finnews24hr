@@ -1,7 +1,70 @@
 {
   "date": "2026-08-20",
-  "count": 319,
+  "count": 326,
   "items": [
+    {
+      "id": "5048563",
+      "time": "2026-08-20 03:42:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：利率水平高得離譜。"
+    },
+    {
+      "id": "mkt:01a01b8b-4a2a-7aab-90a1-acfb15669e82",
+      "time": "2026-08-20 03:41:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump on bond market: Americans should not worry about volatility."
+    },
+    {
+      "id": "5048561",
+      "time": "2026-08-20 03:41:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及債券市場：美國人無需擔憂市場波動。"
+    },
+    {
+      "id": "5048560",
+      "time": "2026-08-20 03:39:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：我有權與一個國家切斷所有業務往來。認為美聯儲主席沃什的表現非常出色。"
+    },
+    {
+      "id": "mkt:01a01b88-ffa4-7aab-90a1-a38f91e8a05e",
+      "time": "2026-08-20 03:39:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "President Trump said he regards Fed Chair Kevin Warsh's performance as very strong."
+    },
+    {
+      "id": "mkt:01a01b88-c666-7aab-90a1-9919a6472fd2",
+      "time": "2026-08-20 03:39:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he has the right to cut off all business dealings with a country."
+    },
+    {
+      "id": "5048559",
+      "time": "2026-08-20 03:38:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：目前海峽處於開放狀態，大量船隻通行。媒體並未報道這件事。"
+    },
     {
       "id": "5048558",
       "time": "2026-08-20 03:37:52",
