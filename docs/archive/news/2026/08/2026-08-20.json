@@ -1,7 +1,55 @@
 {
   "date": "2026-08-20",
-  "count": 102,
+  "count": 107,
   "items": [
+    {
+      "id": "5048448",
+      "time": "2026-08-20 01:16:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "18家交易對手在美聯儲逆回購操作中獲得3.17億美元。"
+    },
+    {
+      "id": "mkt:01a01b06-06dd-7aab-909e-67cc5c3231a9",
+      "time": "2026-08-20 01:16:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $317 mln from 18 counterparties in fixed-rate reverse repo operations."
+    },
+    {
+      "id": "5048447",
+      "time": "2026-08-20 01:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：前沿模型提供零資料留存功能。"
+    },
+    {
+      "id": "5048446",
+      "time": "2026-08-20 01:15:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報，當日俄防空部隊在俄境內各地區共攔截並擊落438架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a01b05-74f6-7aab-909e-5ee6ea4d2413",
+      "time": "2026-08-20 01:15:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russian Defence Ministry said its air-defence forces shot down 438 Ukrainian drones in one day."
+    },
     {
       "id": "mkt:01a01b01-bbdb-7aab-909e-52834d3d766f",
       "time": "2026-08-20 01:11:33",
