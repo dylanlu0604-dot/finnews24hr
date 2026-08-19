@@ -1,7 +1,66 @@
 {
   "date": "2026-08-20",
-  "count": 517,
+  "count": 525,
   "items": [
+    {
+      "id": "mkt:01a01c71-eb17-7aab-90a3-a027bd40dcb1",
+      "time": "2026-08-20 07:53:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year bond yield fell 3.5 bps to 2.855%."
+    },
+    {
+      "id": "mkt:01a01c71-4ece-7aab-90a3-99dbf8cf338b",
+      "time": "2026-08-20 07:53:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Japan's Finance Ministry said July thermal coal imports fell 9.1% YoY to 8.816 mln tonnes."
+    },
+    {
+      "id": "5048722",
+      "time": "2026-08-20 07:52:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華能與招商局集團簽署戰略合作協議】中國華能集團有限公司與招商局集團在深圳簽署戰略合作協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞交通物流、清潔能源、綜合金融、科技創新、產業協同等領域開展戰略合作，採用高效務實、創新的合作模式，構建雙贏、可持續發展的戰略合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a01c71-00c9-7aab-90a3-93980499ade1",
+      "time": "2026-08-20 07:52:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Japan's Ministry of Finance said July crude oil imports rose 5.5% YoY, while LNG imports fell 4.8% YoY to 5.014 million tonnes."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846936943",
+      "time": "2026-08-20 07:52:28",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月14日當週外資買進日債-12499億日元，前值由-587億日元修正為-567億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846936532",
+      "time": "2026-08-20 07:51:50",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月14日當週外資買進日股6212億日元，前值由-3685億日元修正為-3686億日元。"
+    },
     {
       "id": "mkt:01a01c70-1f16-7aab-90a3-8886e1eb22cb",
       "time": "2026-08-20 07:51:45",
@@ -17,6 +76,15 @@
         "Impact bullish"
       ],
       "text": "Japan's Finance Ministry reported July exports to the US rose 22% YoY, to the EU rose 19.1% YoY and to Asia rose 24.5% YoY."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846936427",
+      "time": "2026-08-20 07:51:27",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月份出口同比增長23.2%，預估為20.1%。日本7月份進口同比增長27.8%，預估為25.1%。"
     },
     {
       "id": "mkt:01a01c6f-8fdb-7aab-90a3-841a7c457467",
@@ -71,6 +139,14 @@
         "國際"
       ],
       "text": "日本財務省（MOF）資料顯示，7月日本動力煤進口量為881.6萬噸，同比下降9.1%。"
+    },
+    {
+      "id": "5048720",
+      "time": "2026-08-20 07:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：日本7月進口熱能煤881.6萬噸，同比減少9.1%。"
     },
     {
       "id": "mkt:01a01c6f-35a0-7aab-90a3-665ba59837a0",

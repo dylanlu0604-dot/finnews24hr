@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-20 07:52:46",
-  "count": 15656,
+  "updated": "2026-08-20 07:56:36",
+  "count": 15659,
   "items": [
+    {
+      "id": "mkt:01a01c71-eb17-7aab-90a3-a027bd40dcb1",
+      "time": "2026-08-20 07:53:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 10-year bond yield fell 3.5 bps to 2.855%."
+    },
+    {
+      "id": "mkt:01a01c71-4ece-7aab-90a3-99dbf8cf338b",
+      "time": "2026-08-20 07:53:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Japan's Finance Ministry said July thermal coal imports fell 9.1% YoY to 8.816 mln tonnes."
+    },
+    {
+      "id": "5048722",
+      "time": "2026-08-20 07:52:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華能與招商局集團簽署戰略合作協議】中國華能集團有限公司與招商局集團在深圳簽署戰略合作協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞交通物流、清潔能源、綜合金融、科技創新、產業協同等領域開展戰略合作，採用高效務實、創新的合作模式，構建雙贏、可持續發展的戰略合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a01c71-00c9-7aab-90a3-93980499ade1",
+      "time": "2026-08-20 07:52:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Japan's Ministry of Finance said July crude oil imports rose 5.5% YoY, while LNG imports fell 4.8% YoY to 5.014 million tonnes."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846936943",
+      "time": "2026-08-20 07:52:28",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月14日當週外資買進日債-12499億日元，前值由-587億日元修正為-567億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846936532",
+      "time": "2026-08-20 07:51:50",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月14日當週外資買進日股6212億日元，前值由-3685億日元修正為-3686億日元。"
+    },
     {
       "id": "mkt:01a01c70-1f16-7aab-90a3-8886e1eb22cb",
       "time": "2026-08-20 07:51:45",
@@ -17,6 +76,15 @@
         "Impact bullish"
       ],
       "text": "Japan's Finance Ministry reported July exports to the US rose 22% YoY, to the EU rose 19.1% YoY and to Asia rose 24.5% YoY."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846936427",
+      "time": "2026-08-20 07:51:27",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月份出口同比增長23.2%，預估為20.1%。日本7月份進口同比增長27.8%，預估為25.1%。"
     },
     {
       "id": "mkt:01a01c6f-8fdb-7aab-90a3-841a7c457467",
@@ -71,6 +139,14 @@
         "國際"
       ],
       "text": "日本財務省（MOF）資料顯示，7月日本動力煤進口量為881.6萬噸，同比下降9.1%。"
+    },
+    {
+      "id": "5048720",
+      "time": "2026-08-20 07:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：日本7月進口熱能煤881.6萬噸，同比減少9.1%。"
     },
     {
       "id": "mkt:01a01c6f-35a0-7aab-90a3-665ba59837a0",
@@ -143486,53 +143562,6 @@
         "國際"
       ],
       "text": "【美最高法院簽發一日臨時暫停令，蘋果獲延期提交App Store費率方案】當地時間8月12日，美國最高法院大法官埃琳娜·卡根簽發了一項行政暫停令，宣佈暫時凍結加州聯邦地區法院關於蘋果公司與《堡壘之夜》開發商Epic Games之間長期反壟斷訴訟的下級審理程式。此舉旨在為最高法院爭取更多審議時間，以決定是否批准蘋果提出的長期暫停下級法院進一步訴訟行動的申請。不過，這項臨時暫停令僅為期一天，將訴訟程式凍結至華盛頓時間13日下午5點，使蘋果暫時免於在原定12日截止日前向地區法院提交費率方案。"
-    },
-    {
-      "id": "5038248",
-      "time": "2026-08-13 07:56:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉政府和反對派同意改革最高法院法律。"
-    },
-    {
-      "id": "5038247",
-      "time": "2026-08-13 07:55:17",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【印度7月通脹率升至4.45% 但不太可能促使央行在未來幾個月加息】受食品價格上漲推動，印度7月份的零售通脹率上升，但仍不太可能促使印度央行在未來幾個月內加息。7月消費者物價指數較上年同期上漲4.45%，連續第二個月高於印度央行設定的4%中期目標，且與媒體此前預測的4.5%基本持平。不過，7月份的通脹率仍在印度央行設定的2%-6%容忍區間內。印度央行上週維持指標政策利率不變，等待更明確的證據以判斷通脹壓力是否已變得更為廣泛。這使印度與印尼、菲律賓等地區經濟體形成對比，這些經濟體因能源價格上漲和匯率波動已相繼加息。“印度央行眼下仍有條件保持耐心，但不會一直如此，”牛津經濟研究院的首席經濟學家Alexandra Hermann Prasad表示。“越來越多證據表明，第二輪通脹效應正在形成，中期通脹預期也在上升，這使得供給衝擊越來越難以被忽視。我們預計政策制定者將在10月按兵不動，但會在12月加息25個基點。”"
-    },
-    {
-      "id": "5038246",
-      "time": "2026-08-13 07:54:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4470美元/盎司，日內漲0.04%。"
-    },
-    {
-      "id": "5038245",
-      "time": "2026-08-13 07:53:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉國民議會主席豪爾赫·羅德里格斯：政府與反對派首輪會談結束。"
-    },
-    {
-      "id": "te:markets:574840",
-      "time": "2026-08-13 07:52:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%."
     }
   ]
 }
