@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-20 01:44:18",
+  "updated": "2026-08-20 01:48:24",
   "count": 15555,
   "items": [
+    {
+      "id": "5048462",
+      "time": "2026-08-20 01:45:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國擬將加拿大鋼鋁關稅減半】據知情人士透露，美加一份暫定貿易協議擬將加拿大部分鋼鋁出口產品關稅下調至25%。相關細節尚未敲定，預計不會一刀切全面適用。部分含該類金屬的衍生品可能適用不同稅率。美國對加拿大數十億美元商品擬徵收50%關稅，美國總統特朗普暫緩落地，為談判留出更多時間，不到24小時之後，美加貿易顧問於週三繼續磋商。本次金屬關稅調整方案，有望促成一份長期協議，在週五截止日前規避大範圍加徵關稅。特朗普過往曾在最後一刻要求修改貿易協議，甚至直接推翻協議。"
+    },
+    {
+      "id": "mkt:01a01b20-3910-7aab-909e-cbf6665266d7",
+      "time": "2026-08-20 01:44:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Market sources say the US plans to halve tariffs on Canadian steel and aluminum as part of a trade agreement."
+    },
+    {
+      "id": "5048461",
+      "time": "2026-08-20 01:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士稱，美加關稅協議尚未最終敲定，金屬衍生品或將適用不同稅率。"
+    },
     {
       "id": "mkt:01a01b1e-bf8e-7aab-909e-c39d895e30b8",
       "time": "2026-08-20 01:43:14",
@@ -142272,35 +142302,6 @@
         "MKT News"
       ],
       "text": "Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace."
-    },
-    {
-      "id": "5038065",
-      "time": "2026-08-13 01:46:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。"
-    },
-    {
-      "id": "mkt:019ff715-41b5-7aab-9011-f8032d79f3d4",
-      "time": "2026-08-13 01:46:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm."
-    },
-    {
-      "id": "5038064",
-      "time": "2026-08-13 01:44:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。"
     }
   ]
 }
