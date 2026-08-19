@@ -1,7 +1,601 @@
 {
-  "updated": "2026-08-19 18:34:25",
-  "count": 15322,
+  "updated": "2026-08-19 18:50:57",
+  "count": 15348,
   "items": [
+    {
+      "id": "mkt:01a01999-44f3-7aab-9094-10800f97b023",
+      "time": "2026-08-19 18:37:50",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Saudi Arabia has offered full oil allocations to at least three European customers, according to market sources."
+    },
+    {
+      "id": "5047719",
+      "time": "2026-08-19 18:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 沙特向至少三家歐洲客戶提供全額石油配額。"
+    },
+    {
+      "id": "te:markets:576471",
+      "time": "2026-08-19 18:36:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Target earnings above expectations at 4.11 USD — Target (TGT) released earnings per share at 4.11 USD, compared to market expectations of 2.26 USD."
+    },
+    {
+      "id": "5047718",
+      "time": "2026-08-19 18:36:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南裕能：2026年上半年淨利潤29.1億元，同比增長853.51%】湖南裕能公告，2026年上半年營業收入348.77億元，同比增長142.92%。歸屬於上市公司股東的淨利潤29.1億元，同比增長853.51%。歸屬於上市公司股東的扣除非經常性損益的淨利潤29.58億元，同比增長854.20%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5047717",
+      "time": "2026-08-19 18:36:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天祿科技：持股5%以上股東所持股份被輪候凍結】天祿科技公告稱，公司持股5%以上股東陳凌持有公司股份2303.22萬股，佔公司總股本的20.88%，其持有的全部公司股份被常州市武進區人民法院輪候凍結，凍結起始日為2026年8月18日，到期日為2029年8月17日，凍結原因系其個人債務糾紛。截至公告披露日，陳凌累計被凍結股份數量佔其所持股份比例為100.00%，佔公司總股本比例為20.88%。陳凌為公司原控股股東、實際控制人之一，2026年7月1日起其與梅坦的一致行動關係終止，不再是公司控股股東、實際控制人。"
+    },
+    {
+      "id": "5047716",
+      "time": "2026-08-19 18:36:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南裕能：2026年半年度關聯資金往來餘額83.56億元】湖南裕能公告稱，2026年半年度公司與子公司存在非經營性關聯資金往來，期初往來餘額79.09億元，半年度累計發生額46.21億元，利息1056.10萬元，累計償還41.85億元，期末往來餘額83.56億元。往來形成原因包括募集資金款項、往來暫借款、統借統還利息款、貴州裕能分立轉入往來款等，不存在控股股東、實際控制人及其附屬企業非經營性資金佔用情形。"
+    },
+    {
+      "id": "mkt:01a01997-f5b6-7aab-9094-0ea75897c728",
+      "time": "2026-08-19 18:36:24",
+      "tags": [
+        "MKT News",
+        "TGT.N",
+        "Impact bearish"
+      ],
+      "text": "Target (TGT.N) shares fell 4% in premarket trading after the company reported results."
+    },
+    {
+      "id": "mkt:01a01997-9b3e-7aab-9094-015bd4f6b60b",
+      "time": "2026-08-19 18:36:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK"
+      ],
+      "text": "Semiconductor Manufacturing International Corp (00981.HK) said its board approved the release of interim results on Aug 27, 2026."
+    },
+    {
+      "id": "5047715",
+      "time": "2026-08-19 18:36:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金山軟體：2026年第二季度淨利潤5.48億元，同比增長3%】金山軟體公告，2026年第二季度收益25.1億元，同比增長9%。母公司擁有人應占溢利5.48億元，上年同期為5.32億元，同比增長3%。2026年上半年收益49.27億元，同比增長6%；母公司擁有人應占溢利16.39億元，同比增長101%。"
+    },
+    {
+      "id": "5047714",
+      "time": "2026-08-19 18:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽意資訊：簽訂64.5億元高效能算力服務銷售合同】賽意資訊公告，公司與W公司簽訂兩份《算力服務合同》，合同含稅總金額為64.5億元，佔公司2025年度經審計營業收入的311.11%。合同服務期限為60個月，乙方向甲方提供高效能算力服務，預計三個月內完成全部部署、除錯、上線交付，按月形成持續穩定的營業收入。"
+    },
+    {
+      "id": "5047713",
+      "time": "2026-08-19 18:35:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "塔吉特股價逆轉走勢，盤前最新下跌約4%。"
+    },
+    {
+      "id": "5047712",
+      "time": "2026-08-19 18:35:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際：董事會批准2026年8月27日釋出中期業績】中芯國際公告，公司董事會謹訂於2026年8月27日審議批准刊發本公司截至2026年6月30日止六個月未經審計中期業績公告。"
+    },
+    {
+      "id": "5047711",
+      "time": "2026-08-19 18:35:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南華期貨：8月19日回購7.5萬股H股股份】南華期貨公告稱，公司於2026年8月19日透過香港聯交所回購7.5萬股H股股份，每股最低迴購價6.395港元，每股最高回購價6.415港元，回購總金額48.02萬港元，所回購股份擬持作庫存股份。本次回購所用授權於2026年7月16日獲透過，授權可回購股份總數為1076.59萬股，截至2026年8月19日累計已回購79.8萬股，佔授權透過日已發行股份（不含庫存股）的0.7412%。本次回購後新股發行、庫存股出售或轉讓的暫止期截至2026年9月18日。"
+    },
+    {
+      "id": "5047710",
+      "time": "2026-08-19 18:35:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西昌電力：2026年上半年淨利潤657.01萬元，同比增102.69%】西昌電力公告，2026年上半年營業收入6.88億元，同比下降5.33%。歸屬於上市公司股東的淨利潤657.01萬元，同比增長102.69%，上年同期淨利潤324.15萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤409.43萬元，同比增長29.02%。本報告期不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5047709",
+      "time": "2026-08-19 18:34:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "金山軟體：第二季度營收25.1億元人民幣。"
+    },
+    {
+      "id": "5047708",
+      "time": "2026-08-19 18:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "金山軟體：第二季度淨利潤5.480億元人民幣。"
+    },
+    {
+      "id": "5047707",
+      "time": "2026-08-19 18:34:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST中巖：2026年上半年淨利潤虧損1.72億元，同比增虧8.54%】*ST中巖公告，2026年上半年營業收入1.42億元，同比下降61.09%。歸屬於上市公司股東的淨利潤虧損1.72億元，上年同期虧損1.58億元，同比增虧8.54%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a01995-a8cb-7aab-9093-fc430bc7a192",
+      "time": "2026-08-19 18:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says President Putin discussed security and cooperation with Mali's leaders."
+    },
+    {
+      "id": "mkt:01a01995-755d-7aab-9093-f727d5b16204",
+      "time": "2026-08-19 18:33:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's parliament approved Yevhenii Khmara as the new defense minister."
+    },
+    {
+      "id": "5047706",
+      "time": "2026-08-19 18:33:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉澤新能：2026年上半年營收12.10億元 淨利同比降48.40%】嘉澤新能公告稱，2026年上半年實現營業收入12.10億元，同比下降7.64%；歸屬於上市公司股東的淨利潤2.37億元，同比下降48.40%；扣除非經常性損益的淨利潤2.55億元，同比下降44.77%。報告期內不進行利潤分配，也不實施公積金轉增股本。公司確立“綠色能源+綠色化工燃料”雙主業發展模式，下屬公司投建的黑龍江雞西30萬噸綠氫醇航油化工聯產專案計劃總投資35.57億元，目前正穩步推進。"
+    },
+    {
+      "id": "5047705",
+      "time": "2026-08-19 18:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉澤新能：2026年上半年發電量同比降4.29%】嘉澤新能公告稱，2026年1-6月公司累計發電量291333.51萬千瓦時，同比下降4.29%；累計上網電量280858.59萬千瓦時，同比下降3.50%；上半年上網電價為0.4418元/千瓦時。河南、河北、山東、內蒙區域發電量及上網電量同比下降，主要因氣象資源波動、風速同比降低等；黑龍江區域相關資料同比大增，主要因併網容量同比增加。上半年分散式光伏結算電量10740.12萬千瓦時，儲能電站專案結算電量4281.21萬千瓦時。"
+    },
+    {
+      "id": "mkt:01a01995-33bd-7aab-9093-e97936af65f4",
+      "time": "2026-08-19 18:33:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia projects loan growth of 8-12% in 2026."
+    },
+    {
+      "id": "5047704",
+      "time": "2026-08-19 18:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：知情人士透露，微軟人工智慧首席營銷官安德里亞·馬拉德將離職。"
+    },
+    {
+      "id": "mkt:01a01994-e543-7aab-9093-e7f6205b2de3",
+      "time": "2026-08-19 18:33:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Foreign media, citing insiders, report Microsoft (MSFT.O) AI chief marketing officer Andrea Mallard will depart the company."
+    },
+    {
+      "id": "mkt:01a01994-6f1d-7aab-9093-d9dcbbd2b734",
+      "time": "2026-08-19 18:32:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "LSEG IBES analyst estimates show European companies' Q2 earnings are expected to rise 24.1% YoY, up from a 23.4% projection a week earlier."
+    },
+    {
+      "id": "5047703",
+      "time": "2026-08-19 18:32:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議會投票批准葉夫根尼・赫馬拉出任國防部長。"
+    },
+    {
+      "id": "5047702",
+      "time": "2026-08-19 18:32:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行宣告：預計 2026 年貸款增速為 8%-12%。"
+    },
+    {
+      "id": "mkt:01a01994-4249-7aab-9093-d7e3b380d7b4",
+      "time": "2026-08-19 18:32:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "LSEG IBES analyst expectations show European companies' Q2 revenue growth is forecast at 11.2%, down from 11.4% a week earlier."
+    },
+    {
+      "id": "mkt:01a01994-19ad-7aab-9093-c9900b11a603",
+      "time": "2026-08-19 18:32:11",
+      "tags": [
+        "MKT News",
+        "TGT.N"
+      ],
+      "text": "Target (TGT.N): Prices for more than 10,000 frequently purchased items fell over the past year."
+    },
+    {
+      "id": "5047701",
+      "time": "2026-08-19 18:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜正將無人機配送業務拓展至芝加哥與亞特蘭大郊區，這是這項已歷時十年的研發專案邁向商業化服務的最新舉措。"
+    },
+    {
+      "id": "mkt:01a01993-f953-7aab-9093-c03e59298b5f",
+      "time": "2026-08-19 18:32:02",
+      "tags": [
+        "MKT News",
+        "TGT.O",
+        "Impact bullish"
+      ],
+      "text": "Target (TGT.N): Q2 results included a $994 mln pre-tax tariff reimbursement benefit, recorded in gross margin and operating profit."
+    },
+    {
+      "id": "5047700",
+      "time": "2026-08-19 18:31:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "塔吉特在上調年度銷售預測後反轉跌勢，盤前股價最新上漲2%。"
+    },
+    {
+      "id": "mkt:01a01993-b076-7aab-9093-bc11605be42d",
+      "time": "2026-08-19 18:31:44",
+      "tags": [
+        "MKT News",
+        "TGT.N",
+        "Impact bullish"
+      ],
+      "text": "Target (TGT.N) reported second-quarter net sales of $26.54 bln, versus $26.11 bln expected."
+    },
+    {
+      "id": "mkt:01a01993-a951-7aab-9093-b1c1f3e52bd5",
+      "time": "2026-08-19 18:31:42",
+      "tags": [
+        "MKT News",
+        "TGT.N",
+        "Impact bullish"
+      ],
+      "text": "Target (TGT.N) said consolidated sales rose 3.8% in Q2, versus a market consensus estimate of 2.43%."
+    },
+    {
+      "id": "5047699",
+      "time": "2026-08-19 18:31:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔吉特第二季度淨利潤 18.77 億美元，IBES 預期 10.61 億美元。第二季度銷售額 265.39 億美元，IBES 預期 261.41 億美元。第二季度每股收益 4.11 美元。第二季度毛利率 33.7%。第二季度調整後每股收益 4.11 美元。"
+    },
+    {
+      "id": "te:markets:576470",
+      "time": "2026-08-19 18:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.42% Lower — The SENSEX Index dropped 327 points or 0.42 percent on Wednesday to close at 76908 points. Losses were led by Power Grid (-1.98%), Bajaj Finance (-1.29%) and ITC (-1.26%). Offsetting the fall, top gainers were HCL Tech (1.85%), Eternal Limited (1.33%) and Sun Pharmaceuticals (1.27%)."
+    },
+    {
+      "id": "te:economy:576469",
+      "time": "2026-08-19 18:29:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "House Price Index YoY",
+        "Importance 1"
+      ],
+      "text": "Ireland Property Prices Hit Over 2-Year Low — Residential property prices increased 5.6% year-on-year in June 2026, easing from a revised 6.1% in the previous month and hitting its lowest reading since January 2024. House price growth eased to 3.9% from 4.7%, while apartment price inflation increased to 7.0% from 6.2%. By region, annual property price growth in Dublin slowed to 4.6% from 5.0%, while prices outside the capital also eased to 6.4% from 7.0%. Within Dublin, the strongest growth was recorded in Dún Laoghaire-Rathdown at 4.8%, down from 6.1% in the previous month, followed by Fingal at 3.2%. Price levels continued to vary across regions, with Dún Laoghaire-Rathdown recording the highest median dwelling price at €682,334, while Longford remained the lowest at €198,000. On a monthly basis, residential property prices rose 0.5% in June, up from a revised 0.4% in the previous month and marking the highest reading since December."
+    },
+    {
+      "id": "mkt:01a01991-7514-7aab-9093-af8cef85da99",
+      "time": "2026-08-19 18:29:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Former US official says UAE embargo on Iran could be more disruptive than US naval blockade】After accusing Iran of firing two ballistic missiles, the UAE on the early hours of the 19th announced it will suspend all trade, commercial and financial transactions with Iran until further notice. Retired US Brig. Gen. and former assistant secretary of state Mark Kimmitt told Al Jazeera the move could have greater economic impact on Iran than the US maritime blockade, given the UAE’s role as Iran’s largest import source and Dubai’s position as a transit and financial hub. About one-third of Iranian imports are transshipped via Dubai, and Dubai has long provided channels used to circumvent international sanctions. The US has imposed a maritime blockade on Iranian ports since mid-April."
+    },
+    {
+      "id": "5047698",
+      "time": "2026-08-19 18:29:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方A：公司OLED業務仍面臨較大經營壓力】京東方A8月19日在互動平臺表示，受市場需求不景氣、產線折舊壓力大、行業競爭激烈等多方面因素影響，公司OLED業務仍面臨較大經營壓力。公司將持續提高產品競爭力和高階產品佔比，並透過精益管理以降低成本，改善OLED盈利能力。"
+    },
+    {
+      "id": "5047697",
+      "time": "2026-08-19 18:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國前高官：阿聯酋對伊朗禁運或甚於美國海上封鎖】在指控伊朗向其發射兩枚彈道導彈後，阿聯酋於19日凌晨宣佈決定暫停與伊朗的一切貿易、商業往來和金融交易，恢復時間另行通知。一名美國前高階官員稱，鑑於阿聯酋對伊朗經濟的意義，這一決定可能比美國的海上封鎖影響更大。（新華社）"
+    },
+    {
+      "id": "5047696",
+      "time": "2026-08-19 18:28:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿拉丁：2026年半年度淨利潤6790.83萬元，同比增長138.58%】阿拉丁公告，2026年半年度營業收入3.71億元，同比增長34.80%；歸屬於上市公司股東的淨利潤6790.83萬元，同比增長138.58%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6783.64萬元，同比增長143.98%。本報告期利潤分配預案或公積金轉增股本預案為無。"
+    },
+    {
+      "id": "mkt:01a01990-55f0-7aab-9093-a2a693d65d5a",
+      "time": "2026-08-19 18:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Mainland Chinese visitors to Japan down 56.3% in Jan–Jul】Japan National Tourism Organization data released Aug. 19 showed mainland Chinese arrivals to Japan fell 56.3% YoY in the first seven months of the year; July dropped 56.1% YoY, the eighth consecutive monthly decline. Mainland flows have weakened since Prime Minister Takaichi's remarks on Taiwan. Mainland visitors made up 10.1% of Japan's inbound tourists in Jan–Jul, versus 22.8% in the same period in 2025. Total foreign arrivals to Japan also fell YoY in the first seven months. Analysts say, if current trends persist, full-year 2026 inbound arrivals could be below 2025, the first annual decline in five years."
+    },
+    {
+      "id": "5047695",
+      "time": "2026-08-19 18:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇瞳光學：完成登出242.9萬股回購專戶庫存股】宇瞳光學公告稱，公司已在中國證券登記結算有限責任公司深圳分公司辦理完成回購專戶庫存股登出手續，本次登出股份數量共計242.9萬股，佔登出前總股本的0.46%。本次回購股份成交總金額為2109.02萬元（不含交易費用），最高成交價8.89元/股，最低成交價8.27元/股。登出完成後公司總股本由5.23億股降至5.20億股，後續將辦理註冊資本及公司章程工商變更登記等相關事項。"
+    },
+    {
+      "id": "5047694",
+      "time": "2026-08-19 18:27:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST三木：兩起金融借款合同糾紛訴訟達成和解】ST三木公告稱，公司及全資子公司三木建發與中信銀行福州分行的兩起金融借款合同糾紛，經法院主持調解達成和解，已收到民事調解書。其中公司涉案欠付本金700萬元及對應利息，需於2027年2月14日前償還，2026年12月31日前支付律師費1.4萬元；三木建發涉案欠付本金7000萬元及對應利息，需分三期於2027年2月25日前還清，2026年12月31日前支付律師費2.8萬元、財產保全費5000元。公司對三木建發債務在本金最高額7000萬元限額內承擔連帶清償責任，相關方提供最高額抵押擔保。兩案對公司利潤影響尚存在不確定性。"
+    },
+    {
+      "id": "5047693",
+      "time": "2026-08-19 18:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克石油產品經伊朗克爾曼沙赫啟動鐵路過境運輸，目的地為土耳其與阿富汗】伊朗媒體報道， 伊拉克首批5萬噸石油產品已正式啟程，透過伊朗克爾曼沙赫省的鐵路網路進行過境運輸，最終目的地為土耳其和阿富汗。這標誌著該條跨國鐵路過境運輸線路的正式啟動。"
+    },
+    {
+      "id": "5047692",
+      "time": "2026-08-19 18:27:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【順豐控股：2026年7月合計營收263.68億元 同比增6.12%】順豐控股公告稱，2026年7月速運物流業務、供應鏈及國際業務合計營收263.68億元，同比增長6.12%。其中速運物流業務營收191.47億元，同比增長2.63%，業務量13.25億票，同比下降3.78%，單票收入14.45元，同比增長6.64%；供應鏈及國際業務營收72.21億元，同比增長16.66%。速運物流業務單票收入已連續五個月同比回升。"
+    },
+    {
+      "id": "5047691",
+      "time": "2026-08-19 18:27:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年前7個月中國內地訪日遊客數量同比降56.3%】日本政府觀光局19日公佈的資料顯示，今年前7個月，中國內地訪日遊客數量同比下降56.3%，其中，7月同比下降56.1%，是連續第8個月同比下降。自日本首相高市早苗發表涉臺錯誤言論以來，中國內地赴日遊客數量持續走低。據《日本經濟新聞》19日報道，今年前7個月，中國內地遊客佔訪日外國遊客總數的10.1%，遠低於2025年同期的22.8%。今年前7個月，訪日外國遊客總數也出現同比下降。有分析認為，按目前趨勢，2026年全年訪日外國遊客數量或將低於上年，時隔5年再次下降。（新華社）"
+    },
+    {
+      "id": "mkt:01a0198f-7b92-7aab-9093-99e4cde18335",
+      "time": "2026-08-19 18:27:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Minnesota attorney general sues Texas governor】Minnesota Attorney General Keith Ellison on the 18th sued Texas Governor Greg Abbott in federal court in Brownsville, alleging Abbott refused to transfer an ICE agent suspected of shooting an immigrant and seeking a court order compelling Abbott to sign paperwork to effect the agent’s transfer and advance prosecution of the case."
+    },
+    {
+      "id": "5047690",
+      "time": "2026-08-19 18:26:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國明尼蘇達州檢察長起訴得州州長】美國明尼蘇達州檢察長基思·埃利森18日起訴得克薩斯州州長格雷格·阿博特，指控後者拒絕向明尼蘇達州移交一名涉嫌槍擊移民的移民與海關執法局(ICE)執法人員，並要求阿博特簽署命令以推進人員移交和案件審理。（新華社）"
+    },
+    {
+      "id": "5047689",
+      "time": "2026-08-19 18:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓強降雨已致27人遇難】菲律賓民防局19日通報說，近期持續強降雨天氣已導致菲律賓全國約539萬人受災，已確認的遇難人數上升至27人，另有17人受傷、1人失蹤。（央視新聞）"
+    },
+    {
+      "id": "5047688",
+      "time": "2026-08-19 18:24:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元USD/JPY失守159，日內跌幅0.37%。"
+    },
+    {
+      "id": "mkt:01a0198c-e496-7aab-9093-941aeb99ec3a",
+      "time": "2026-08-19 18:24:18",
+      "tags": [
+        "MKT News",
+        "600111.SS"
+      ],
+      "text": "【Northern Rare Earth H1 report shows Zhang Jianping exits top-10 shareholders】Northern Rare Earth’s 2026 half-year report shows Zhang Jianping is no longer among the top-10 shareholders as of June 30, 2026. In the company’s Q1 report dated March 31, 2026, Zhang held 72.2544 mln shares and was the fourth-largest shareholder."
+    },
+    {
+      "id": "5047687",
+      "time": "2026-08-19 18:23:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中汽股份：預計10個交易日觸發轉債轉股價格向下修正條件】中汽股份公告，自2026年7月9日至2026年8月19日，公司股票已有10個交易日的收盤價低於當期轉股價格5.99元/股的85%，預計觸發“中汽轉債”轉股價格向下修正條件。若觸發條件，公司將按相關規定及時履行審議程式和資訊披露義務。"
+    },
+    {
+      "id": "mkt:01a0198c-8295-7aab-9093-8b243d804e68",
+      "time": "2026-08-19 18:23:53",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY slipped below 159, down 0.37% on the day."
+    },
+    {
+      "id": "mkt:01a0198c-7295-7aab-9093-807386976abf",
+      "time": "2026-08-19 18:23:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Prime Minister Tusk said the government will not take any measures to increase the deficit."
+    },
+    {
+      "id": "5047686",
+      "time": "2026-08-19 18:23:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華綠生物：股票交易異常波動 無應披露未披露事項】華綠生物公告稱，公司股票於2026年8月18日至8月19日連續兩個交易日內日收盤價漲幅偏離值累計達30%，屬於股票交易異常波動情形。經核查，公司前期披露資訊不存在需更正、補充之處，未發現近期公共傳媒報道可能對公司股價產生較大影響的未公開重大資訊，近期經營情況及內外部經營環境無重大變化，控股股東及實際控制人不存在應披露而未披露的重大事項，也未在異常波動期間買賣公司股票，公司不存在違反公平資訊披露的情形。公司提醒廣大投資者注意投資風險，理性決策。"
+    },
+    {
+      "id": "5047685",
+      "time": "2026-08-19 18:23:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迪安診斷：控股股東辦理1600萬股股份質押續期】迪安診斷公告稱，公司控股股東陳海斌將其持有的1600萬股公司股份辦理質押續期，佔其所持股份比例9.73%，佔公司總股本比例2.56%，質權人為招商證券股份有限公司，質押用途為歸還前次質押借款，質押期限自2026年8月18日至2027年8月18日。本次質押為前期質押續期，不涉及新增融資。截至公告披露日，陳海斌及其一致行動人合計質押股份6180萬股，佔其所持股份比例35.30%，佔公司總股本比例9.89%，不存在平倉或強制過戶風險，不會導致公司實際控制權變更。"
+    },
+    {
+      "id": "5047684",
+      "time": "2026-08-19 18:23:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華綠生物：2026年上半年營收6.94億元 同比增39.18%】華綠生物公告稱，2026年上半年實現營業收入6.94億元，同比增長39.18%；歸屬於上市公司股東的淨利潤4609.63萬元，上年同期為淨虧損5369.47萬元，同比增長185.85%；扣非淨利潤4455.87萬元，上年同期為淨虧損5420.82萬元，同比增長182.20%。公司報告期不派發現金紅利，不送紅股，不以公積金轉增股本。截至報告期末，公司回購專用證券賬戶持股234.66萬股，佔總股本1.48%。2026年股權激勵計劃已完成授予，目前處於等待期。"
+    },
+    {
+      "id": "mkt:01a0198b-c4a1-7aab-9093-7e323192e46f",
+      "time": "2026-08-19 18:23:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's finance minister Domanski said tax changes have had almost no impact on the budget deficit."
+    },
+    {
+      "id": "5047683",
+      "time": "2026-08-19 18:22:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京與馬裡總統舉行電話會談。"
+    },
+    {
+      "id": "mkt:01a0198b-8ae7-7aab-9093-7757ebb05c38",
+      "time": "2026-08-19 18:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reported President Putin spoke by phone with Mali's president."
+    },
+    {
+      "id": "5047682",
+      "time": "2026-08-19 18:22:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海家化：擬7000萬歐元出售絲芙蘭上海及北京各19%股權】上海家化公告，公司擬以7000萬歐元（折合約人民幣5.55億元）向Sephora Asia出售所持絲芙蘭上海19%股權及絲芙蘭北京19%股權。本次交易已獲公司九屆九次董事會審議透過，尚需提交股東會審議並完成國家外匯管理機構外匯登記手續。"
+    },
+    {
+      "id": "5047681",
+      "time": "2026-08-19 18:21:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海家化：2026年上半年淨利潤3.81億元，同比增43.35%】上海家化公告，2026年上半年營業收入37.91億元，同比增長8.99%；歸屬於上市公司股東的淨利潤3.81億元，同比增長43.35%；扣非淨利潤3.52億元，同比增長58.92%。上年同期淨利潤2.66億元。利潤分配預案為每股派發0.056元現金紅利（含稅）。"
+    },
+    {
+      "id": "5047680",
+      "time": "2026-08-19 18:21:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉健任河南電信總經理】中國電信浙江分公司原副總經理劉健，已升任中國電信河南分公司總經理。（人民郵電報）"
+    },
+    {
+      "id": "5047679",
+      "time": "2026-08-19 18:21:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北方稀土半年報顯示章建平退出十大股東名單 一季度曾位列第四大股東】根據北方稀土(600111.SH)2026年半年報，截至2026年6月30日，十大股東名單未見章建平的身影；而根據北方稀土2026年一季報，截至2026年3月31日，章建平持有公司7225.44萬股股份，為公司第四大股東。"
+    },
+    {
+      "id": "5047678",
+      "time": "2026-08-19 18:21:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新里程：2026年上半年營收14.08億元 淨利同比降4.24%】新里程公告稱，2026年上半年實現營業收入14.08億元，同比下降11.54%；歸屬於上市公司股東的淨利潤918.01萬元，同比下降4.24%；扣除非經常性損益的淨利潤1008.12萬元，同比下降19.96%。扣除股份支付影響後的淨利潤為2285.75萬元，同比增長10.01%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。報告期內控股股東、實際控制人均未發生變更。"
+    },
+    {
+      "id": "5047677",
+      "time": "2026-08-19 18:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "全球基金在前一交易日淨買入價值293億盧比的印度股票。"
+    },
     {
       "id": "5047676",
       "time": "2026-08-19 18:21:04",
@@ -140073,384 +140667,6 @@
         "公司"
       ],
       "text": "【中光防雷：2026年上半年營收2.67億元 淨利潤同比增12.82%】中光防雷公告稱，2026年上半年營收2.67億元，同比增長22.69%；歸屬於上市公司股東的淨利潤1204.79萬元，同比增長12.82%；扣非淨利潤847.04萬元，同比增長65.20%；經營活動產生的現金流量淨額629.74萬元，同比減少9.91%。基本每股收益0.0370元/股，同比增長12.80%。報告期末總資產12.40億元，較上年度末增長4.15%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "mkt:019ff598-65d7-7aab-9007-e277d4e4a374",
-      "time": "2026-08-12 18:50:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A senior Iranian source said one issue under discussion is the U.S. rejoining the memorandum of understanding and setting a timeframe to fulfill its commitments."
-    },
-    {
-      "id": "mkt:019ff598-204f-7aab-9007-d8c46b197640",
-      "time": "2026-08-12 18:50:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "A senior Iranian source said the U.S. breached the interim agreement within 48 hours and withdrew from it a few days later."
-    },
-    {
-      "id": "5037542",
-      "time": "2026-08-12 18:49:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗高階訊息人士：伊朗和美國之間沒有就延長停火進行任何討論。從伊朗的角度來看，停火協議沒有生效日期，因此不存在延長停火協議的必要。"
-    },
-    {
-      "id": "mkt:019ff597-b973-7aab-9007-d2b0f28af83a",
-      "time": "2026-08-12 18:49:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Senior Iranian source: there have been no talks with the US to extend the ceasefire. From Iran's perspective the ceasefire agreement has no effective date, so there is no need to extend it."
-    },
-    {
-      "id": "5037541",
-      "time": "2026-08-12 18:49:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據俄羅斯方面訊息：烏克蘭武裝部隊計劃襲擊大諾夫哥羅德一處Dronnitsa作戰無人機操作人員集會。主辦方宣佈，該活動已無限期推遲。"
-    },
-    {
-      "id": "5037540",
-      "time": "2026-08-12 18:49:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西省鷹潭市人民政府黨組成員、副市長陳敏接受紀律審查和監察調查】西省紀委監委12日通報，鷹潭市人民政府黨組成員、副市長陳敏涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受江西省紀委監委紀律審查和監察調查。（新華社）"
-    },
-    {
-      "id": "mkt:019ff596-e21b-7aab-9007-ce271d1bf16e",
-      "time": "2026-08-12 18:48:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Insurers in six provinces including Shanghai report nearly 130,000 claims from Typhoon White Dolphin】The National Financial Regulatory Administration said after Typhoon White Dolphin made landfall it instructed insurers to open green channels, provide proactive on-site service, expedite valid payouts and make reasonable prepayments, and to coordinate with local governments on warnings, rescue and claims handling. As of 15:00 on Aug. 12, insurers in Zhejiang, Shanghai, Jiangsu, Jiangxi, Anhui and Henan reported nearly 130,000 claims, with estimated losses of 1.75 bln yuan and paid (including prepayments) 80 mln yuan."
-    },
-    {
-      "id": "5037539",
-      "time": "2026-08-12 18:48:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海等六省份保險業接到颱風“白海豚”相關損失報案近13萬件】記者今天（12日）從金融監管總局瞭解到，今年第13號颱風“白海豚”登陸後，金融監管總局指導保險業全力應對，開通綠色通道，主動靠前服務，能賠快賠、應賠盡賠、合理預賠，並配合當地黨委政府和有關部門開展預警救援和保險理賠等服務工作。截至8月12日15時，浙江、上海、江蘇、江西、安徽、河南等6省份轄內保險機構共接報案近13萬件，估損17.5億元，已賠付（含預賠付）0.8億元。（央視新聞）"
-    },
-    {
-      "id": "5037538",
-      "time": "2026-08-12 18:47:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗將騰訊音樂目標價從18美元下調至15美元。"
-    },
-    {
-      "id": "5037537",
-      "time": "2026-08-12 18:47:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國興業銀行：人工智慧可能擴大貧富差距】根據法國興業銀行的分析，人工智慧可能加速K型經濟的發展，在這種經濟模式下，收益越來越向已經處於頂端的人群集中。 雖然人工智慧可以透過幫助低專業化工人完成更復雜的任務來縮小工資差距，但其對財富的影響可能截然不同。 人工智慧獎勵計算能力、模型、資料和金融資產的所有權，這可能會進一步集中財富。 這一趨勢已經在股市和企業利潤中日益佔據主導地位的人工智慧贏家身上顯現出來。"
-    },
-    {
-      "id": "5037536",
-      "time": "2026-08-12 18:46:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "BRINKER股價下跌4.2%，此前該公司公佈的第四季度調整後每股收益不及預期。"
-    },
-    {
-      "id": "5037535",
-      "time": "2026-08-12 18:46:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普路通：發行股份及支付現金購買資產交易工作仍在推進】普路通公告稱，公司擬發行股份及支付現金，購買CMC Lollipop Holdings Limited等持有的Leqee Group Limited 100%股份及劉楷、蔣莉莉等持有的樂麥資訊科技（杭州）有限公司8.26%股權，並向關聯人募資。該交易預計構成重大資產重組。公司股票於2025年12月4日起停牌，12月18日復牌。截至公告披露日，交易涉及的盡職調查、審計、評估等工作未完成，後續尚需經董事會、股東會審議及監管機構批准。"
-    },
-    {
-      "id": "te:markets:574732",
-      "time": "2026-08-12 18:45:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Amcor earnings above expectations at 1.23 USD — Amcor (AMCR) released earnings per share at 1.23 USD, compared to market expectations of 1.19 USD."
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839293063",
-      "time": "2026-08-12 18:45:17",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：增強外匯市場韌性 穩定市場預期 防範匯率超調風險】8月12日，央行釋出2026年第二季度中國貨幣政策執行報告。報告提出，下階段把握好利率、匯率內外均衡。做好跨境資金流動的監測分析，堅持底線思維，綜合施策，增強外匯市場韌性，穩定市場預期，防範匯率超調風險，保持人民幣匯率在合理均衡水平上的基本穩定。引導企業和金融機構增強“風險中性”理念，指導金融機構積極為中小微企業提供匯率避險服務。"
-    },
-    {
-      "id": "te:markets:574731",
-      "time": "2026-08-12 18:44:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Hits 52-week High — Sugar increased to 16.88 USd/Lbs, the highest since August 2025. Over the past 4 weeks, Sugar gained 14.28%, and in the last 12 months, it increased 0.04%."
-    },
-    {
-      "id": "mkt:019ff592-711d-7aab-9007-c170163dd999",
-      "time": "2026-08-12 18:44:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Iraqi senior security delegation will visit Saudi Arabia tomorrow to discuss a range of security issues, market sources said."
-    },
-    {
-      "id": "5037534",
-      "time": "2026-08-12 18:43:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華大智造與瑞沃德達成戰略合作】據華大智造訊息，近日，華大智造與深圳市瑞沃德生命科技股份有限公司（簡稱“瑞沃德”）達成戰略合作，同時宣佈單細胞全流程自動化解決方案正式釋出。雙方將圍繞單細胞懸液製備儀等相關產品，透過華大智造成熟的全球渠道與客戶體系協同，在中國區及部分亞太、歐洲地區展開深度合作，共同推動核心產品的國際化佈局與業務拓展。"
-    },
-    {
-      "id": "mkt:019ff591-682e-7aab-9007-bed3277b8cf0",
-      "time": "2026-08-12 18:42:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Germany June unadjusted current account surplus €19.0 bln, prior €10.4 bln."
-    },
-    {
-      "id": "mkt:019ff591-4bac-7aab-9007-b48cebabc4a9",
-      "time": "2026-08-12 18:42:47",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Current Account USA (Jun) | actual 19000000000B | previous 10400000000B"
-    },
-    {
-      "id": "5037533",
-      "time": "2026-08-12 18:42:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：將於8月21日召開2026年半年度業績說明會】中信建投公告稱，公司將於8月18日披露2026年半年度報告，並於8月21日15:30-16:30召開半年度業績說明會，地點為上證路演中心，採用網路互動方式。參加人員包括董事長劉成、執行董事金劍華等。投資者可在說明會期間登入網站提問，也可於8月14日至20日16:00前透過網站或郵箱預徵集問題。說明會結束後可在該網站檢視情況。"
-    },
-    {
-      "id": "mkt:019ff591-1739-7aab-9007-afa1fa98199a",
-      "time": "2026-08-12 18:42:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Finance reallocation platform saves nearly RMB 1.6 bln】The Ministry of Finance said its national reallocation-and-sharing platform for administrative and public institutions, launched January 2025, has cut fiscal outlays by about RMB 1.59 bln at original asset value. By end-June 2026 the platform had logged 710,000 asset-transfer and demand records and completed reallocation of roughly 90,000 items of equipment and furniture. The ministry noted shared large research instruments have supported technology innovation."
-    },
-    {
-      "id": "5037532",
-      "time": "2026-08-12 18:42:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【駐伊朗大使叢培武應約會見伊朗最高國家安全委員會秘書雷扎伊】據“中國駐伊朗大使館”公眾號訊息，8月11日，駐伊朗大使叢培武應約會見伊朗最高國家安全委員會秘書雷扎伊。叢大使宣介了習近平主席就維護和促進中東和平穩定提出的4點主張，強調中方將繼續為恢復中東和海灣地區和平穩定作出積極貢獻。雷扎伊表示，伊方高度認同習近平主席提出的4點主張，讚賞中方始終秉持公道正義立場，歡迎中方為促進地區和平穩定發揮建設性作用。雙方還就中伊關係和地區局勢交換了意見。"
-    },
-    {
-      "id": "5037531",
-      "time": "2026-08-12 18:41:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行：加強對擴大內需、科技創新、中小微企業等重點領域的金融支援】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，充分發揮貨幣信貸政策導向作用。用好各類結構性貨幣政策工具，不斷完善工具設計和管理，紮實做好金融“五篇大文章”，加強對擴大內需、科技創新、中小微企業等重點領域的金融支援。發揮科技創新和技術改造再貸款、債券市場“科技板”作用，強化科技金融資料共享，加快構建高水平的區域科技金融生態，推動加強科技創新全鏈條全生命週期金融服務。最佳化綠色金融標準，持續健全碳核算制度體系，豐富綠色金融產品譜系，完善金融支援零碳園區建設政策舉措。健全民營中小企業增信制度，進一步開展金融服務能力提升工程，助力民營和小微企業融資發展。創新鄉村振興投融資機制，推進鄉村全面振興。實施好創業擔保貸款、國家助學貸款政策，支援重點群體創業就業和就學。推動金融機構加大養老產業信貸支援，支援金融機構研發符合養老需求、具有長期限特徵和一定收益率的養老金融產品，提升金融適老化水平。強化金融支援提振和擴大消費作用，推動服務業擴能提質。"
-    },
-    {
-      "id": "mkt:019ff59b-9e72-7aab-9007-f6ca336fd55a",
-      "time": "2026-08-12 18:41:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【PBOC: Policy adjustments by major central banks expected to be relatively moderate】The PBOC said in its Q2 2026 China Monetary Policy Implementation Report that Middle East tensions lifted international oil and commodity prices and pushed up inflation in major economies, and recent monetary policy moves or shifts abroad could spill over to the global economy and financial markets. As of end‑July, the ECB and BoJ have tightened while the Fed has kept rates unchanged but signalled hawkishness; the PBOC expects this round of major central bank policy adjustments to be relatively moderate with smaller spillovers than in past cycles."
-    },
-    {
-      "id": "5037530",
-      "time": "2026-08-12 18:40:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗將COREWEAVE目標價從100美元上調至115美元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839289088",
-      "time": "2026-08-12 18:40:33",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：加強對擴大內需、科技創新、中小微企業等重點領域的金融支援】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，充分發揮貨幣信貸政策導向作用。用好各類結構性貨幣政策工具，不斷完善工具設計和管理，紮實做好金融“五篇大文章”，加強對擴大內需、科技創新、中小微企業等重點領域的金融支援。"
-    },
-    {
-      "id": "te:economy:574729",
-      "time": "2026-08-12 18:40:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "India Inflation Rises to 20-Month High — The headline inflation rate in India rose to 4.45% in July of 2026 from 4.38% in the previous month, the highest since December of 2024, and aligned with market expectations of 4.5%. The increase reflected fresh inflationary pressures from the surge in energy prices since the outbreak of war in the Middle East, magnified by the consequent pressure on the rupee. Still, the rate remained comfortably within the RBI's tolerance range of 2 percentage points away from 4%. Inflation was elevated for food and beverages (5.52%) and transportation (4.43%), both impacted by the war and adverse weather conditions for key crops. In turn, inflation was more muted for housing and utilities (2.16%) and recreation, sport, and culture (1.6%). From the previous month, the Indian CPI rose by 0.88%."
-    },
-    {
-      "id": "5037529",
-      "time": "2026-08-12 18:39:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一架俄羅斯的沙赫德攻擊無人機飛過基輔市中心，就在剛才。它是在警報響起幾分鐘後出現的。烏克蘭防空系統現在已經啟動。"
-    },
-    {
-      "id": "5037528",
-      "time": "2026-08-12 18:39:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部國有資產調劑平臺顯效：國有資產調劑平臺省下近16億】為了提高行政事業單位國有資產資源配置效率、效益，減少不必要財政支出，財政部在2025年1月推出全國行政事業單位國有資產調劑共享平臺（下稱“調劑共享平臺”），在全國範圍內推動資產跨部門、跨級次、跨地區調劑共享。 8月12日，財政部資產管理司在《中國財政》稱，調劑共享平臺執行成效良好，已成為推進資產跨部門、跨級次、跨地區調劑共享的“寶庫”。 根據財政部資料，截至2026年6月底，調劑共享平臺已匯聚71萬條資產調劑共享和需求資訊。累計完成9萬臺（套）裝置、傢俱用具等各類資產的調劑工作，按資產原值已節約預算資金約15.9億元，共享的大型科研儀器有力支撐了科技創新。（一財）"
-    },
-    {
-      "id": "5037527",
-      "time": "2026-08-12 18:38:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翰宇藥業：與三生蔓迪簽署司美格魯肽注射液（血糖控制適應症）合作協議】翰宇藥業(300199)8月12日公告，鑑於公司司美格魯肽注射液（血糖控制適應症、減重適應症）國內三期臨床試驗均已完成，其中司美格魯肽注射液（減重適應症）已與三生蔓迪合作並聯合申報CDE獲受理。近日，公司與三生蔓迪簽署了《司美格魯肽注射液——成人2型糖尿病患者的血糖控制合作協議》及《委託生產和供應協議》。雙方就司美格魯肽注射液（血糖控制適應症）在中國區域的開發、註冊、生產及商業化達成合作。"
-    },
-    {
-      "id": "5037526",
-      "time": "2026-08-12 18:37:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿提哈德航空宣佈，自2026年12月17日起開通阿布扎比與哥德堡之間的全新季節性航線。"
-    },
-    {
-      "id": "mkt:019ff58c-6b47-7aab-9007-a779ad5c89f0",
-      "time": "2026-08-12 18:37:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【PBOC to build comprehensive macroprudential framework, expand policy toolkit】People's Bank of China released its Q2 2026 monetary policy implementation report, flagging a push to build a comprehensive macroprudential management system and enrich the macroprudential policy toolkit. From macro, countercyclical and contagion‑prevention perspectives it will strengthen monitoring, assessment and early‑warning of systemic financial risks and broaden macroprudential coverage. The central bank said it will expand macroprudential and financial‑stability functions, innovate financial instruments to preserve market stability, and deepen macroprudential oversight of systemically important financial institutions, progressively extending additional supervisory measures into the non‑bank sector. For systemically important banks it will reinforce add‑on supervision, require selected banks to improve recovery and resolution plans, explore forward‑looking risk‑management guidance, and bolster cross‑border crisis‑management group arrangements and supervisory information‑sharing for global systemically important banks."
-    },
-    {
-      "id": "5037525",
-      "time": "2026-08-12 18:36:44",
-      "tags": [
-        "央行",
-        "公司",
-        "焦點"
-      ],
-      "text": "【央行：支援更多符合條件的境外主體發行熊貓債券】央行釋出2026年第二季度中國貨幣政策執行報告，其中提到，加快金融市場制度建設和高水平對外開放。持續增強債券市場功能和服務實體經濟能力。高質量建設債券市場“科技板”，用好科技創新與民營企業債券風險分擔工具，支援更多民營科技型企業、民營股權投資機構發債融資。推動公司債券法制建設。加快多層次債券市場發展，穩慎推進櫃檯債券業務發展。持續規範發行定價、承銷做市等行為，加強重點領域和行業風險監測。支援更多符合條件的境外主體發行熊貓債券。持續最佳化跨境人民幣政策體系，整合、最佳化早期釋出的跨境人民幣結算政策，提高政策的可理解性、可操作性。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839283822",
-      "time": "2026-08-12 18:36:25",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：支援更多符合條件的境外主體發行熊貓債券】央行釋出2026年第二季度中國貨幣政策執行報告，其中提到，加快金融市場制度建設和高水平對外開放。持續增強債券市場功能和服務實體經濟能力。支援更多符合條件的境外主體發行熊貓債券。持續最佳化跨境人民幣政策體系，整合、最佳化早期釋出的跨境人民幣結算政策，提高政策的可理解性、可操作性。"
-    },
-    {
-      "id": "5037524",
-      "time": "2026-08-12 18:36:21",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "挪威央行行長：經歷這樣一輪上漲之後，市場會變得更加謹慎緊張。"
-    },
-    {
-      "id": "5037523",
-      "time": "2026-08-12 18:35:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將戴姆勒卡車控股目標價從50歐元上調至54歐元。"
-    },
-    {
-      "id": "5037522",
-      "time": "2026-08-12 18:35:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豐林集團：累計回購股份佔總股本2.06% 金額達5226.26萬元】豐林集團公告稱，截至2026年8月12日，公司以集中競價交易方式累計回購股份2312.65萬股，佔公司總股本11.21億股的2.06%，購買最低價為2.04元/股、最高價為2.62元/股，已支付總金額為5226.26萬元（不含交易費用）。本次回購資金總額不低於8000萬元、不超過1.20億元，回購期限為2026年7月21日至2026年10月20日，用途為維護公司價值及股東權益。"
-    },
-    {
-      "id": "mkt:019ff58a-834c-7aab-9007-9856b1bf3009",
-      "time": "2026-08-12 18:35:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【PBOC backs policy and development finance institutions to advance new policy financial tools, prioritising digital economy, AI, consumption infrastructure and urban renewal】PBOC released its Q2 2026 monetary policy implementation report, saying it will continue a moderately loose monetary policy and support major project investment. The central bank has arranged PSL quota to back policy and development finance institutions in issuing new policy-style financial instruments to supplement capital for major projects, with priority for the digital economy, artificial intelligence, consumption infrastructure and urban renewal projects including transport, energy and underground utility network upgrades. PSL outstanding at end-June: 0.8 tln yuan."
-    },
-    {
-      "id": "em:qqyh_zgyh:202608123839283127",
-      "time": "2026-08-12 18:35:23",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：拓展豐富中央銀行宏觀審慎與金融穩定功能 創新金融工具 維護金融市場平穩執行】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，積極穩妥防範化解金融風險。構建覆蓋全面的宏觀審慎管理體系，完善系統性金融風險防範處置機制。從宏觀、逆週期和防傳染的視角，強化系統性金融風險的監測、評估和預警，不斷拓展宏觀審慎管理覆蓋範圍，豐富宏觀審慎政策工具箱。拓展豐富中央銀行宏觀審慎與金融穩定功能，創新金融工具，維護金融市場平穩執行。"
-    },
-    {
-      "id": "5037521",
-      "time": "2026-08-12 18:35:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【碩貝德：擬募資不超10.96億元用於多個專案】碩貝德公告稱，公司擬向特定物件發行A股股票，募集資金總額不超10.96億元，扣除發行費用後，淨額擬用於伺服器散熱模組、智慧眼鏡輕量化射頻元件、低軌衛星通訊天線及模組專案，分別投入3.75億元、2.31億元、1.89億元，另3億元用於補充流動資金。目前各專案備案及環評手續尚在辦理中。本次發行有助於公司提升技術水平和生產效率，改善財務狀況，但短期內可能攤薄每股收益。"
-    },
-    {
-      "id": "5037520",
-      "time": "2026-08-12 18:34:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府公佈：該國7月基於消費者價格指數的食品通脹同比為5.52%。"
     }
   ]
 }
