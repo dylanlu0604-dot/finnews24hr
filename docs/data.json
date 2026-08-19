@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-20 04:33:24",
+  "updated": "2026-08-20 04:37:11",
   "count": 15685,
   "items": [
+    {
+      "id": "te:markets:576608",
+      "time": "2026-08-20 04:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index rose 89 points or 0.17 percent on Wednesday to close at 53433 points. Leading the gains are Merck (12.68%), Salesforce (4.80%) and Amgen (3.08%). Top losers were Caterpillar (-3.09%), Goldman Sachs (-1.78%) and Honeywell International (-1.66%)."
+    },
+    {
+      "id": "te:markets:576607",
+      "time": "2026-08-20 04:33:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher as Miners Rally — The S&P/TSX Composite Index edged 0.1% higher to close at 36,402 on Wednesday, lifted by a rally in mining stocks. Gold prices rose to their highest level since early June, tracking a rally in long-dated US Treasuries after the Treasury Department doubled its buyback of notes and bonds for the upcoming financial quarter. Major gold miners gained up to 12%, with Agnico Eagle surging 10.5%, Barrick adding 6.7% and WPM soaring 10.4%. Meanwhile, financials weighed on the index as oil prices extended gains, fueling inflation concerns. RBC shed 3.1%, TD Bank lost 3.5%, BMO fell 4.4%, CIBC retreated 3.7% and Scotiabank dropped 3.3%. Energy stocks posted losses despite higher oil prices, with Canadian Natural down 0.7% and Suncor losing 1%. Elsewhere, US President Trump paused 50% tariffs on select Canadian goods and signaled a trade deal with Canada was near. Still, reports indicated metals would remain tariffed. Industrials posted losses, with Enbridge down 2.7%."
+    },
     {
       "id": "mkt:01a01bba-1517-7aab-90a2-3a4876d772e0",
       "time": "2026-08-20 04:32:54",
@@ -143714,26 +143738,6 @@
         "國際"
       ],
       "text": "美國經濟顧問委員會主席：CPI報告削弱了加息的理由。"
-    },
-    {
-      "id": "te:markets:574827",
-      "time": "2026-08-13 04:35:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index fell 37 points or 0.07 percent on Wednesday to close at 53755 points. Leading the losses are Home Depot (-2.96%), Salesforce (-2.53%) and Microsoft (-2.30%). Top gainers were Nvidia (3.04%), Cisco Systems (2.69%) and Walmart (2.38%)."
-    },
-    {
-      "id": "5038119",
-      "time": "2026-08-13 04:34:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院目前暫停蘋果應用商店費率相關訴訟程式。"
     }
   ]
 }
