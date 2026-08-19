@@ -1,7 +1,291 @@
 {
   "date": "2026-08-19",
-  "count": 1762,
+  "count": 1792,
   "items": [
+    {
+      "id": "mkt:01a01941-fbd8-7aab-9091-723a9f9e95f6",
+      "time": "2026-08-19 17:02:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's 2026 personal data protection campaign shows interim results】China's Cyberspace Administration, MIIT and Ministry of Public Security said the 2026 personal information protection campaign has produced interim results: authorities inspected data-collection/use in more than 20,000 apps and SDKs, pressed 4,000+ to complete compliance fixes, publicly named 1,100+ apps/SDKs for violations and removed or penalized about 400. Targeting unclear data use for advertising and user profiling and lack of personalized-ad opt-outs, regulators audited products from 1,000+ firms and ordered remediation."
+    },
+    {
+      "id": "mkt:01a01941-d7da-7aab-9091-6d91344694d4",
+      "time": "2026-08-19 17:02:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's anti-corruption agency said it uncovered a ring involving a deputy head of the Office of the President and a former lawmaker that laundered funds used to pay bail in an energy-sector corruption case."
+    },
+    {
+      "id": "mkt:01a01941-d5c5-7aab-9091-60cf2aab5973",
+      "time": "2026-08-19 17:02:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "03896.HK",
+        "Impact mixed"
+      ],
+      "text": "Kingsoft Cloud (03896.HK) reported 1H 2026 revenue of RMB 5.776 bln, up 33.7% YoY; net loss attributable to shareholders RMB 437 mln, widening 43.4% YoY."
+    },
+    {
+      "id": "5047465",
+      "time": "2026-08-19 17:02:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "金山雲(03896.HK)：2026年上半年營收為人民幣57.76億元，同比增長33.7%；公司應占淨虧損4.37億元，同比增加43.4%。"
+    },
+    {
+      "id": "mkt:01a01941-8d30-7aab-9091-584a87b38c14",
+      "time": "2026-08-19 17:02:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI spot topped $85/bbl, up 0.84% on the day. Brent and US crude futures climbed over 1% on the day to their highest levels since end‑July."
+    },
+    {
+      "id": "5047463",
+      "time": "2026-08-19 17:01:40",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【中澳（大利亞）兩國央行續簽雙邊本幣互換協議】經國務院批准，近日中國人民銀行與澳大利亞儲備銀行續簽了雙邊本幣互換協議，互換規模由原來的2000億元人民幣/410億澳大利亞元擴大至2200億元人民幣/460億澳大利亞元，協議有效期五年，經雙方同意可以展期。雙方再次續簽雙邊本幣互換協議並擴大規模，有助於進一步深化兩國貨幣金融合作，促進雙邊貿易和投資便利化，維護金融市場穩定。（中國人民銀行）"
+    },
+    {
+      "id": "5047462",
+      "time": "2026-08-19 17:01:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【進一步完善全國碳排放計量技術體系 三部門聯合印發指導目錄】市場監管總局、國家發展改革委、生態環境部近日聯合印發《碳排放計量能力建設指導目錄（2026版）》。作為2024版目錄的更新版本，2026版目錄進一步健全完善全國碳排放計量技術體系，為我國碳市場的發展提供明確的計量指南。相較於2024版目錄，2026版目錄實現全方位擴容、系統性最佳化，技術覆蓋範圍擴大，標準規範體系完備度大幅提升。其中，關鍵測量引數由39個增至58個，檢測標準方法從82種擴充套件至169種，測量儀器裝置由108種增至229種，國家計量技術規範從85項增至156項，社會公用計量標準從55項擴充套件至115項。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01941-04f4-7aab-9091-554a55c7723b",
+      "time": "2026-08-19 17:01:26",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Euro area labour costs YoY 3.1% in Q2, down from 3.20% previously."
+    },
+    {
+      "id": "5047461",
+      "time": "2026-08-19 17:01:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國衛星：2026年上半年淨利潤3465.58萬元，實現扭虧為盈】中國衛星公告，2026年上半年營業收入18.85億元，同比增長42.72%。歸屬於上市公司股東的淨利潤3456.58萬元，上年同期虧損3049.15萬元，實現扭虧為盈。扣非淨利潤2934.27萬元，上年同期虧損3584.03萬元。"
+    },
+    {
+      "id": "5047460",
+      "time": "2026-08-19 17:01:18",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【財政部副部長廖岷會見福特汽車全球執行副總裁柯立】2026年7月21日下午，財政部副部長廖岷在北京會見福特汽車全球執行副總裁柯立，就中美經貿關係等問題交換了意見。(財政部)"
+    },
+    {
+      "id": "mkt:01a01940-de4f-7aab-9091-4ff3f7accce3",
+      "time": "2026-08-19 17:01:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Labor Cost (YoY) (Q2) | actual 3.1% | previous 3.20%"
+    },
+    {
+      "id": "5047459",
+      "time": "2026-08-19 17:01:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯影醫療：2026年半年度淨利潤8.97億元，同比下降10.12%】聯影醫療公告，2026年上半年營業收入70.52億元，同比增長17.22%。歸屬於上市公司股東的淨利潤8.97億元，同比下降10.12%；扣非淨利潤8.27億元，同比下降14.38%。公司擬每10股派發現金紅利1.3元（含稅），合計擬派發現金紅利1.06億元。"
+    },
+    {
+      "id": "5047458",
+      "time": "2026-08-19 17:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年個人資訊保護系列專項行動取得階段性成效】2026年個人資訊保護系列專項行動開展以來，中央網信辦、工業和資訊化部、公安部會同相關部門，加強系統謀劃部署，強化協調聯動，持續開展巡查檢測，加強典型問題公開通報和督促整改，各項任務取得階段性成效。一是累計對2萬餘款App、SDK個人資訊收集使用情況開展核查檢測，督促4000餘款完成合規整改，公開通報1100餘款存在違法違規問題的App、SDK，對400餘款採取下架等處置處罰措施。二是針對個人資訊處理規則未明確收集個人資訊用於廣告、使用者畫像，未提供個性化廣告關閉選項等問題，對1000餘家企業和機構的相關產品開展核查檢測並督促整改。三是開展教育、交通、衛生健康、金融等領域個人資訊風險排查，累計摸排9萬餘家企業和機構，發現並督促整改各類隱患問題1.2萬餘個。四是加大個人資訊違法犯罪打擊力度，加強線索監測發現，嚴打涉資訊洩露、資訊倒賣等違法犯罪行為，嚴懲行業“內鬼”。（中國網信網）"
+    },
+    {
+      "id": "mkt:01a01940-b7ef-7aab-9091-461cacf735b5",
+      "time": "2026-08-19 17:01:06",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China, Australia central banks renew bilateral local-currency swap agreement】China's State Council approved the People's Bank of China and the Reserve Bank of Australia have renewed a bilateral local-currency swap, expanding the line from CNY200 billion/AUD41 billion to CNY220 billion/AUD46 billion. The five-year agreement is extendable by mutual consent and is intended to deepen monetary and financial cooperation, facilitate bilateral trade and investment, and support financial market stability."
+    },
+    {
+      "id": "5047457",
+      "time": "2026-08-19 17:00:34",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【快手： 第二季度平均月活躍使用者8億】快手科技第二季度營收355.4億元人民幣，預估355.1億元人民幣。第二季度淨利潤31.5億元人民幣，預估31.2億元人民幣。第二季度調整後淨利潤39.1億元人民幣，預估38.9億元人民幣。第二季度調整後息稅折舊及攤銷前利潤71.2億元人民幣，預估67.9億元人民幣。第二季度線上營銷服務收入206.4億元人民幣，預估210.1億元人民幣。第二季度直播收入86.9億元人民幣，預估86.4億元人民幣。第二季度其他服務收入62.1億元人民幣，預估58.3億元人民幣。第二季度研發支出45.8億元人民幣，預估40.7億元人民幣。第二季度平均月活躍使用者8億，預估7.4億。第二季度銷售費用99.2億元人民幣，預估102.8億元人民幣。"
+    },
+    {
+      "id": "5047456",
+      "time": "2026-08-19 17:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆力石化：2026年上半年淨利潤72.06億元，同比增136.25%】恆力石化公告，2026年上半年營業收入982.21億元，同比下降5.45%。歸屬於上市公司股東的淨利潤72.06億元，同比增長136.25%；扣非淨利潤53.36億元，同比增長132.35%。報告期內不進行利潤分配或資本公積金轉增股本。"
+    },
+    {
+      "id": "5047455",
+      "time": "2026-08-19 17:00:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華秦科技：2026年上半年淨利潤1.71億元同比增17.55%】華秦科技公告，2026年上半年營業收入7.34億元，同比增長42.12%；歸屬於上市公司股東的淨利潤1.71億元，同比增長17.55%；扣非淨利潤1.5億元，同比增長15.38%。公司擬向全體股東每10股派發現金紅利0.9元（含稅）。"
+    },
+    {
+      "id": "5047454",
+      "time": "2026-08-19 17:00:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保變電氣：2026年上半年淨利潤1.34億元，同比增77.34%】保變電氣公告，2026年上半年營業收入38.46億元，同比增長28.43%。歸屬於上市公司股東的淨利潤1.34億元，同比增長77.34%；扣非淨利潤1.26億元，同比增長76.58%。"
+    },
+    {
+      "id": "5047453",
+      "time": "2026-08-19 17:00:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區7月CPI月率終值 0.2%，預期0.20%，前值0.20%。歐元區7月CPI年率終值 2.9%，預期2.90%，前值2.90%。歐元區7月核心CPI月率終值 0%，前值0%。歐元區7月核心CPI年率終值 2.2%，前值2.2%。"
+    },
+    {
+      "id": "te:markets:576447",
+      "time": "2026-08-19 17:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 1.24% — Top currency gainers are South Korean Won (1.24%), Japanese Yen (0.28%), Euro (0.19%) and British Pound (0.15%). Biggest loser is Dollar Index (-0.20%)."
+    },
+    {
+      "id": "mkt:01a0193f-ed89-7aab-9091-3aad65fa60ba",
+      "time": "2026-08-19 17:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Eurozone July CPI final YoY 2.9%, in line with consensus and the prior 2.9%."
+    },
+    {
+      "id": "mkt:01a0193f-dd8f-7aab-9091-37ae71eb1d23",
+      "time": "2026-08-19 17:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Eurozone July CPI final monthly rate 0.2%, in line with 0.20% estimate and June's 0.20%."
+    },
+    {
+      "id": "mkt:01a0193f-db30-7aab-9091-2f0bce48213a",
+      "time": "2026-08-19 17:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Eurozone final July core CPI YoY 2.2%, unchanged from prior 2.2%."
+    },
+    {
+      "id": "mkt:01a0193f-dad8-7aab-9091-263cd44da280",
+      "time": "2026-08-19 17:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Eurozone July core CPI (final, MoM) 0.0%; prior 0.0%."
+    },
+    {
+      "id": "mkt:01a0193f-b60a-7aab-9091-1fac3f1c19fe",
+      "time": "2026-08-19 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Jul) | actual 2.9% | consensus 2.90% | previous 2.90%"
+    },
+    {
+      "id": "mkt:01a0193f-b5d9-7aab-9091-13f5a2b1a684",
+      "time": "2026-08-19 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Jul) | actual 2.2% | previous 2.2%"
+    },
+    {
+      "id": "mkt:01a0193f-b5cf-7aab-9091-08f01310c997",
+      "time": "2026-08-19 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Jul) | actual 0% | previous 0%"
+    },
+    {
+      "id": "te:markets:576445",
+      "time": "2026-08-19 16:59:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South African Rand Holds Firm — The South African rand traded around 16.2 per USD, holding near its highest since early March, supported by a subdued dollar and rising prices of gold. Meanwhile, the latest domestic inflation figures signaled a moderation in price pressures. South Africa's annual inflation rate decelerated to 4.3% in July from a two-year high of 5% in June, below the expected 4.5%. However, the core measure quickened for the fifth month to 4.2%, the highest since July 2024, up from 4.1% in June."
+    },
+    {
+      "id": "5047452",
+      "time": "2026-08-19 16:59:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福斯特：2026年半年度淨利潤8.42億元，同比增長69.89%】福斯特公告，2026年上半年營業收入69.88億元，同比下降12.20%。歸屬於上市公司股東的淨利潤8.42億元，同比增長69.89%；扣除非經常性損益的淨利潤7.3億元，同比增長62.57%。公司擬每10股派發1.2元（含稅）現金紅利。"
+    },
+    {
+      "id": "5047451",
+      "time": "2026-08-19 16:58:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【包鋼股份：2026年上半年淨利潤2.79億元同比增84.61%】包鋼股份公告，2026年上半年營業收入280.34億元，同比下降10.52%；歸屬於上市公司股東的淨利潤2.79億元，同比增長84.61%；扣非淨利潤4.45億元，同比增長316.37%。本報告期公司無利潤分配預案。"
+    },
     {
       "id": "mkt:01a0193e-7e8c-7aab-9091-03bb6595d601",
       "time": "2026-08-19 16:58:41",
