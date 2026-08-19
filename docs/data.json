@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-20 07:07:24",
-  "count": 15661,
+  "updated": "2026-08-20 07:11:14",
+  "count": 15655,
   "items": [
+    {
+      "id": "5048686",
+      "time": "2026-08-20 07:08:33",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：儘管出現洩密訊息，蘋果帶攝像頭的 AirPods 仍計劃於 2027 年推出。"
+    },
+    {
+      "id": "mkt:01a01c47-2852-7aab-90a3-015a9d3c5ac3",
+      "time": "2026-08-20 07:07:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump announces toughest-ever economic sanctions on Iran】U.S. President Trump announced the toughest-ever economic sanctions on Iran and urged allies to join in isolating the country. He warned any state that allows its banks, companies, airports or government entities to provide any form of assistance to Iran will face severe economic consequences. He specifically said oil smuggling, swap lines, cash transfers, currency-exchange firms, vessel registration and shell companies must stop. Trump reiterated that Iran will not be allowed to develop nuclear weapons."
+    },
     {
       "id": "5048685",
       "time": "2026-08-20 07:02:56",
@@ -143470,83 +143491,6 @@
         "國際"
       ],
       "text": "【AI不缺需求缺算力 摩根士丹利警告供應瓶頸或持續數年】摩根士丹利的Michelle Weaver表示，企業對人工智慧的應用正日益產生實質性成效，但算力供應受限仍是制約增長的瓶頸。“我們的供應非常不足。我們看到算力在成為一種受限資源，”摩根士丹利美國主題研究策略師Weaver表示。“電力瓶頸、政治瓶頸、勞動力瓶頸——這些因素將在未來幾年制約供應。”隨著企業採用AI的步伐加快，Weaver接受採訪時作出上述判斷。她表示，25%的標普500指數成分股公司如今可以量化AI投資帶來的可衡量回報，高於一年前的14%。資料中心融資也十分充裕，英偉達與華爾街金融機構合作為AI基礎設施籌集5,000億美元就是例證。"
-    },
-    {
-      "id": "mkt:019ff83e-5889-7aab-9014-506ae932157c",
-      "time": "2026-08-13 07:11:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "CoreWeave warned investors that migrating workloads from NVIDIA chips to alternative processors would be difficult and could require substantial time and capital investment."
-    },
-    {
-      "id": "te:economy:574835",
-      "time": "2026-08-13 07:10:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "RICS House Price Balance",
-        "Importance 1"
-      ],
-      "text": "UK Housing Market Remains Subdued — The RICS UK Residential Market Survey showed that the house price balance edged up to -30% in July 2026 from -32% in June, remaining firmly negative as price falls continued to outnumber rises. New buyer enquiries were unchanged at -28%, while agreed sales held at -30%, indicating that demand and transactions remained subdued. New vendor instructions improved sharply to -4% from -23%, although the pipeline of new listings remained constrained. London, the South East and South West continued to report the weakest price balances, while Northern Ireland remained an outperformer. Looking ahead, three-month price expectations stayed weak at -31%, while the 12-month outlook turned slightly positive at +4%. Sales expectations also improved, with the 12-month balance rising to +3%. In the rental market, landlord instructions remained weak at -27%, keeping supply constrained, while 28% of respondents expected rents to rise over the next three months."
-    },
-    {
-      "id": "5038204",
-      "time": "2026-08-13 07:10:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【物理AI進入規模化驗證期 場景和資料成投資方關注點】具身智慧龍頭宇樹科技的首次公開發行（IPO），標誌著物理人工智慧（AI）賽道已邁入產業化驗證和資本市場公開定價的新階段。在此過程中，首程控股作為宇樹科技的核心戰略投資方，在即將兌現前期投入的同時，聯合多方設立35億元前沿科創新興未來產業股權投資基金，專項重倉物理AI全產業鏈。據不完全統計，最近18個月，已有超百億美元資金湧入物理AI賽道，僅8月份，就有飛捷科思、西湖數智、慧侖科技等公司密集拿到數億元融資；值得關注的是，2025年物理AI行業50%的融資仍然是投向早期初創，2026年首輪融資佔比則降至8%，92%的資金集中投向了擁有落地訂單、成熟產品的頭部企業。首程控股資本市場部經理康雨向證券時報記者表示，當下，物理AI行業不缺資金，真正稀缺的是訂單、線下場景和真實的互動資料。"
-    },
-    {
-      "id": "5038203",
-      "time": "2026-08-13 07:10:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【A股“再平衡”進行時 從賽道集中到行業均衡】據中證報，近期，A股市場持續輪動，領漲板塊持續變動，市場出現“再平衡”，從上半年AI硬體及上游板塊的“一枝獨秀”到近期市場的“多點開花”。分析人士認為，這種“再平衡”屬於存量資金高低切換的階段性風格收斂，既不是成長主線的徹底終結，也不是價值板塊的全面上行行情。短期內，A股市場或繼續反彈。秋季行情逐漸進入佈局階段，市場已從單一科技抱團轉向多條配置主線共同展開。"
-    },
-    {
-      "id": "5038202",
-      "time": "2026-08-13 07:09:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【8月第二週50只基金啟動發行 創7月以來單週新高】新基金髮行近期明顯提速。Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。從產品類別看，本週新發基金中，股票型基金數量最多，達到23只；混合型基金和債券型基金分別有11只和10只，另有5只FOF基金和1只QDII基金啟動發行。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。"
-    },
-    {
-      "id": "mkt:019ff83c-79fb-7aab-9014-49c11ffaf1bf",
-      "time": "2026-08-13 07:09:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Colombia declares economic emergency after major quake】Colombian President De la Espriella on the 12th (local time) declared an economic emergency following a major earthquake. The measure is aimed at speeding relief to affected residents, reallocating resources for reconstruction and includes measures to revive the economy."
-    },
-    {
-      "id": "5038201",
-      "time": "2026-08-13 07:08:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【市場變化考驗公募定增策略 “折價拿貨”並非穩賺不賠】定增策略歷來是公募基金增厚收益的有效方式之一，公募機構以“折扣價”買入，往往能幫助基金組合賺取確定性相對較高的收益。然而，近期A股行情極致切換，定增策略的有效性遭遇挑戰。江波龍、路維光電、思泉新材等一批科技公司恰逢6月啟動定增，多家公募機構參與獲配，隨後7月科技板塊行情大幅回撥，定增發行價高於二級市場現價，即倒掛的情況接連出現，甚至部分個股定增價格倒掛幅度超過28%，公募機構出現浮虧。記者採訪瞭解到，定增採用競價發行，價格優先原則在股價處於上行週期時，容易讓參與方為了確保獲配而報出高價，進一步推高發行價；一旦市場風向轉變，缺乏安全墊的定增價格就會首當其衝受到影響。近期市場風格較為極致，定增策略的執行難度持續增大，業內機構認為，應從賽道邏輯轉向基本面邏輯，重視倉位分散和交易規則。（中國證券報）"
-    },
-    {
-      "id": "5038200",
-      "time": "2026-08-13 07:08:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【CoreWeave新增風險提示：若需從英偉達晶片轉向其他晶片將面臨困難】CoreWeave Inc.警告投資者，若要改變目前只使用英偉達人工智慧(AI)晶片的狀況，可能需要投入大量時間和資金。CoreWeave週三在申報檔案中表示，客戶需求的變化可能要求公司投入“時間、資金和資源”，以獲取英偉達圖形處理器（GPU）的替代產品。公司警告稱，這最終可能影響其向客戶提供所需產品的能力。"
     }
   ]
 }

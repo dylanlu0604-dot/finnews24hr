@@ -1,7 +1,28 @@
 {
   "date": "2026-08-20",
-  "count": 462,
+  "count": 464,
   "items": [
+    {
+      "id": "5048686",
+      "time": "2026-08-20 07:08:33",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：儘管出現洩密訊息，蘋果帶攝像頭的 AirPods 仍計劃於 2027 年推出。"
+    },
+    {
+      "id": "mkt:01a01c47-2852-7aab-90a3-015a9d3c5ac3",
+      "time": "2026-08-20 07:07:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump announces toughest-ever economic sanctions on Iran】U.S. President Trump announced the toughest-ever economic sanctions on Iran and urged allies to join in isolating the country. He warned any state that allows its banks, companies, airports or government entities to provide any form of assistance to Iran will face severe economic consequences. He specifically said oil smuggling, swap lines, cash transfers, currency-exchange firms, vessel registration and shell companies must stop. Trump reiterated that Iran will not be allowed to develop nuclear weapons."
+    },
     {
       "id": "5048685",
       "time": "2026-08-20 07:02:56",
