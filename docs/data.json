@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-19 23:22:25",
-  "count": 15463,
+  "updated": "2026-08-19 23:26:24",
+  "count": 15467,
   "items": [
+    {
+      "id": "te:markets:576560",
+      "time": "2026-08-19 23:25:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Rebounds — Palladium futures rose above $1,320 per ounce, rebounding from recent lows, as a drop in bond yields from multi-year highs boosted the appeal of non-yielding metals. The US Treasury announced it will increase its buyback operations, pushing borrowing costs lower and boosting demand for non-yielding metals. On the supply side, concerns over power supply disruptions and uncertainty surrounding Russian exports continued to underpin prices. Meanwhile, uncertainty over shipments through the Strait of Hormuz kept industrial buyers cautious. Although rising hybrid vehicle demand has provided near-term support for autocatalyst consumption, markets remain cautious amid the broader shift in demand toward EVs, which recorded a fifth consecutive monthly increase in July, as the palladium market could still record a global surplus."
+    },
+    {
+      "id": "5048355",
+      "time": "2026-08-19 23:24:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破67000美元，日內漲3.84%。"
+    },
+    {
+      "id": "mkt:01a01a9f-dc1e-7aab-909c-2c9f624bf41f",
+      "time": "2026-08-19 23:24:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zambian opposition leader Brian Mundubile said he will legally challenge the presidential election result."
+    },
+    {
+      "id": "5048354",
+      "time": "2026-08-19 23:23:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：伊朗、伊拉克及人民已經認識到，本地區所有問題的最大根源和主要因素就是美國。"
+    },
+    {
+      "id": "mkt:01a01a9e-1e60-7aab-909c-20925add42fc",
+      "time": "2026-08-19 23:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNN, Trump said of the White House refurbishment, \"Interestingly, I haven't been criticized at all,\" and added, \"This will become the world's greatest military complex and banquet hall.\""
+    },
+    {
+      "id": "mkt:01a01a9d-944e-7aab-909c-19fadc607bf6",
+      "time": "2026-08-19 23:22:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported Egypt announced it has opened diplomatic contacts with Iran to ease tensions."
+    },
     {
       "id": "5048353",
       "time": "2026-08-19 23:21:17",
@@ -141454,22 +141506,6 @@
         "Important"
       ],
       "text": "Pakistani mediators are seeking to extend the US-Iran 60-day ceasefire, Saudi Al Arabiya TV reports."
-    },
-    {
-      "id": "5038008",
-      "time": "2026-08-12 23:25:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至8月12日23時20分，影片《奧德賽》點映及預售總票房突破1億。"
-    },
-    {
-      "id": "5038007",
-      "time": "2026-08-12 23:24:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人：今日早些時候，參謀長就凱齊拉地區正在發生的事態，與中央司令部司令、作戰局局長及作戰處處長再次舉行局勢評估會議。"
     }
   ]
 }
