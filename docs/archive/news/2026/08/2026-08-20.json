@@ -1,7 +1,107 @@
 {
   "date": "2026-08-20",
-  "count": 286,
+  "count": 296,
   "items": [
+    {
+      "id": "mkt:01a01b81-655b-7aab-90a1-31151e3ea184",
+      "time": "2026-08-20 03:30:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln."
+    },
+    {
+      "id": "mkt:01a01b81-12be-7aab-90a1-2aade77e6e22",
+      "time": "2026-08-20 03:30:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil rises on the 19th】By the close, NYMEX September light sweet crude (WTI) futures gained $0.89 to $85.83/bbl, +1.05%; ICE Brent October futures added $0.60 to $91.62/bbl, +0.66%."
+    },
+    {
+      "id": "5048544",
+      "time": "2026-08-20 03:30:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲4%，現報4507.62美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01b80-6728-7aab-90a1-27e21e498013",
+      "time": "2026-08-20 03:29:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump said he will meet next week with AI industry figures."
+    },
+    {
+      "id": "mkt:01a01b80-3b8d-7aab-90a1-19102a7ba66a",
+      "time": "2026-08-20 03:29:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold jumped 4% intraday to $4,507.66/oz."
+    },
+    {
+      "id": "5048543",
+      "time": "2026-08-20 03:29:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：下週將與 “AI 行業人士” 舉行會晤。"
+    },
+    {
+      "id": "mkt:01a01b7f-f929-7aab-90a1-163989625069",
+      "time": "2026-08-20 03:29:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures jumped 4% intraday to $4,565.10/oz."
+    },
+    {
+      "id": "mkt:01a01b7f-a085-7aab-90a1-0f894bc03f77",
+      "time": "2026-08-20 03:29:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CNBC reports OpenAI's CFO said the company plans to go public in 2027 or earlier."
+    },
+    {
+      "id": "5048542",
+      "time": "2026-08-20 03:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊於週三同巴基斯坦陸軍參謀長通電話，就地區最新局勢以及外交斡旋工作展開磋商。"
+    },
+    {
+      "id": "5048541",
+      "time": "2026-08-20 03:28:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價19日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲89美分，收於每桶85.83美元，漲幅為1.05%；10月交貨的倫敦布倫特原油期貨價格上漲60美分，收於每桶91.62美元，漲幅為0.66%。"
+    },
     {
       "id": "mkt:01a01b7d-c891-7aab-90a1-078f666376f2",
       "time": "2026-08-20 03:27:03",
