@@ -1,7 +1,65 @@
 {
   "date": "2026-08-20",
-  "count": 204,
+  "count": 210,
   "items": [
+    {
+      "id": "5048497",
+      "time": "2026-08-20 02:24:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo：Ojai自動駕駛計程車已正式在舊金山、鳳凰城、洛杉磯上路，向所有乘客開放。"
+    },
+    {
+      "id": "mkt:01a01b44-33db-7aab-909f-dec793f52915",
+      "time": "2026-08-20 02:24:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed minutes: officials discuss governor's push for operating reforms; many reiterate fed funds target as primary tool】Fed minutes show officials have begun discussing a governor’s broader agenda, including potential reforms to the Fed’s operating framework. Participants said the upcoming balance-sheet-management review is an opportunity for a comprehensive discussion, but many attendees reiterated that adjusting the federal funds target range should remain the primary means of changing policy stance rather than altering the Fed’s asset holdings. The governor asked the C.BANK to consider cutting annual policy meetings from eight to six to allow two full months of data between meetings; no decision has been taken and the 2026 meeting schedule will not change."
+    },
+    {
+      "id": "5048496",
+      "time": "2026-08-20 02:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞地震遇難人數升至312人。"
+    },
+    {
+      "id": "5048495",
+      "time": "2026-08-20 02:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄副總理：俄羅斯已開始進口燃料】據俄羅斯新聞頻道網站19日報道，俄羅斯副總理諾瓦克表示，俄羅斯已經開始進口燃料，並透過必要法規允許生產部分低排放等級的燃料。（新華社）"
+    },
+    {
+      "id": "mkt:01a01b43-2493-7aab-909f-d13405039d3b",
+      "time": "2026-08-20 02:23:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes show officials' inflation concerns intensified at July meeting】Minutes published Wednesday show Fed officials' inflation concerns deepened at the July meeting. Several policymakers were prepared to raise rates, and many said raising borrowing costs would be necessary if inflation does not return to the Fed's 2% target. Officials favoring hikes said price pressures appeared broad-based and urged a more restrictive policy stance to secure price stability and maximum employment, warning that failure to act could require a later sequence of larger, costlier tightenings. A broad set of participants indicated policy would likely need to tighten further if inflation does not fall."
+    },
+    {
+      "id": "5048494",
+      "time": "2026-08-20 02:21:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國油價再創新高】美國加油站油價已創下新高，達到每加侖5.47美元。最新資料顯示，美國柴油與原油之間的價差也首次突破102.20美元，創歷史新高。美國柴油價格的上漲始於對伊朗的戰爭之後，並持續至今；去年平均價格為每加侖3.69美元，如今已上漲了49%。 美國八大農業與工業重鎮對交通運輸依賴極深，此次價格飆升推高了卡車司機與農民的運營成本，再度加劇通脹。"
+    },
     {
       "id": "mkt:01a01b40-c651-7aab-909f-cd6dcf570c6e",
       "time": "2026-08-20 02:20:24",
