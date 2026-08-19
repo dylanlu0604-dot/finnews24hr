@@ -1,7 +1,61 @@
 {
   "date": "2026-08-20",
-  "count": 111,
+  "count": 117,
   "items": [
+    {
+      "id": "5048453",
+      "time": "2026-08-20 01:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "露露樂蒙通訊主管錢德勒將離職。"
+    },
+    {
+      "id": "mkt:01a01b0d-1582-7aab-909e-8bbcd09a555e",
+      "time": "2026-08-20 01:23:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tariq Saleh, vice president of Yemen's Presidential Leadership Council, said his forces have cut maritime supply lines and smuggling routes between Iran and Houthi forces."
+    },
+    {
+      "id": "5048452",
+      "time": "2026-08-20 01:23:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【OpenAI預覽前沿模型私有安全處理功能】OpenAI正在預覽私有安全處理功能，該功能可監控複雜人工智慧互動，同時不留存客戶資料，也不違背企業安全合規義務。該系統基於零資料留存架構構建，確保提示詞與模型回覆不會被儲存，OpenAI工作人員也無法檢視。除非客戶明確選擇許可，企業客戶資料將不會用於模型訓練。該系統目前正在部分早期企業使用者中開展測試，計劃於9月全面推出，並同步釋出技術白皮書。"
+    },
+    {
+      "id": "mkt:01a01b0c-9c89-7aab-909e-80f8dc25097d",
+      "time": "2026-08-20 01:23:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen Presidential Council deputy chair Tariq Saleh said Houthi forces have so far launched 56 ballistic missiles and 44 drones at Yemen's west coast."
+    },
+    {
+      "id": "mkt:01a01b0b-a6a1-7aab-909e-7aeb720edb88",
+      "time": "2026-08-20 01:22:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's Presidential Leadership Council vice chairman Tariq Saleh said the confrontation with Houthi forces has changed with the introduction of new weaponry, including drones."
+    },
+    {
+      "id": "mkt:01a01b0a-1b41-7aab-909e-747ec8b4ae91",
+      "time": "2026-08-20 01:20:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【CITIGROUP doubts 'hawkish' tilt in Fed minutes; JP Morgan highlights internal inflation split】Three Fed officials dissented at the July meeting, arguing for a hike because core inflation was 2.6%—well above the 2% target. August data have weakened that rationale: core CPI (ex food and energy) rose 2.5% YoY in July, the weakest since Mar 2021, and July payrolls showed a decline of 23,000 jobs. CITIGROUP US chief economist Andrew Hollenhorst said those prints will make it difficult for the minutes to materially raise the market’s reduced odds of further rate hikes. The minutes should still clarify how large the Fed’s internal “hawk” vs “dove” split was at the July meeting and may reveal how officials plan to define and assess inflation pressures going forward. JP Morgan chief US economist Michael Feroli said the minutes could show how much tolerance FOMC members have for inflation above the target."
+    },
     {
       "id": "mkt:01a01b08-3a52-7aab-909e-6f6c884dfce8",
       "time": "2026-08-20 01:18:39",
