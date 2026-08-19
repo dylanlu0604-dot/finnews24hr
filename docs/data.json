@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-19 23:10:12",
-  "count": 15457,
+  "updated": "2026-08-19 23:14:11",
+  "count": 15466,
   "items": [
+    {
+      "id": "mkt:01a01a95-c6f9-7aab-909c-018ac227494b",
+      "time": "2026-08-19 23:13:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US cybersecurity officials warned Siemens equipment used in water utilities and other critical infrastructure faces an active cyber threat."
+    },
+    {
+      "id": "5048350",
+      "time": "2026-08-19 23:13:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國網路安全官員警告，供水設施及其他基礎設施所使用的西門子裝置正面臨活躍威脅。"
+    },
+    {
+      "id": "5048349",
+      "time": "2026-08-19 23:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：政府目前正在解決各地區出現的燃油問題。"
+    },
+    {
+      "id": "mkt:01a01a95-0b6a-7aab-909b-fb7a9e77cab1",
+      "time": "2026-08-19 23:12:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said relevant authorities are currently addressing fuel problems that have emerged across several regions."
+    },
+    {
+      "id": "5048348",
+      "time": "2026-08-19 23:12:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：如果最高法院對你的宴會廳專案作出不利裁決，你會如何應對？\n特朗普：我們希望不會出現這種情況。我無法想象會發生這種事。"
+    },
+    {
+      "id": "5048347",
+      "time": "2026-08-19 23:12:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "奈飛股價漲幅擴大至4%，現報80.86美元，總市值突破3300億美元關口。"
+    },
+    {
+      "id": "5048346",
+      "time": "2026-08-19 23:12:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "優步股價下跌8%，源於市場擔憂Waymo會侵蝕其網約車業務，但公司訂單總額仍保持20%以上的增速。其外賣業務擴張速度遠快於網約車業務，同時優步相較DoorDash存在大幅估值折價。"
+    },
+    {
+      "id": "mkt:01a01a94-2c42-7aab-909b-f076b5b46aeb",
+      "time": "2026-08-19 23:11:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceXAI launched Grok 4.6 on Amazon Bedrock."
+    },
+    {
+      "id": "5048345",
+      "time": "2026-08-19 23:11:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceXAI在亞馬遜雲科技Bedrock平臺釋出Grok 4.6大模型。"
+    },
+    {
+      "id": "mkt:01a01a93-b797-7aab-909b-ea77539a1aab",
+      "time": "2026-08-19 23:11:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iraq's national security adviser told Saudi outlet Alhadath that Baghdad will press ahead with weapons-control measures and strengthen security agreements, and will not allow armed groups that threaten neighboring countries' security."
+    },
+    {
+      "id": "5048344",
+      "time": "2026-08-19 23:10:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普： 斯科茨奇蹟格羅是一家很棒的公司。說實話，他們確實給我的競選活動捐過款，你們之後會明白其中緣由。 有人說，這是全球規模最大的草坪養護企業。"
+    },
+    {
+      "id": "mkt:01a01a92-5663-7aab-909b-e6d0f113565a",
+      "time": "2026-08-19 23:09:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Scotts Miracle-Gro provided lawn free of charge."
+    },
     {
       "id": "5048343",
       "time": "2026-08-19 23:09:16",
@@ -141390,35 +141501,6 @@
         "其他"
       ],
       "text": "巴拿馬 6 月經濟活動同比增長 8.23%。"
-    },
-    {
-      "id": "mkt:019ff689-25e3-7aab-9010-2b6a74e85293",
-      "time": "2026-08-12 23:13:30",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "VIX briefly hit a seven-month low; latest down 0.44 points to 14.84."
-    },
-    {
-      "id": "5038000",
-      "time": "2026-08-12 23:13:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所波動率指數短暫觸及七個多月低點；最新下跌 0.44 點，報 14.84。"
-    },
-    {
-      "id": "5037999",
-      "time": "2026-08-12 23:11:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國推出新計劃 加快盟友間AI關鍵物資流通】特朗普政府宣佈一項新計劃，旨在加速美國與其最緊密貿易伙伴之間在AI發展關鍵物資方面的運輸。美國國務院週三表示，將在巴拿馬建立一個試點平臺，以加快AI關鍵產品的貿易流通。該平臺是美國主導的“矽和平”倡議的一部分，旨在加強盟友之間的供應鏈。國務院在宣告中表示，將提供最高5,000萬美元的對外援助資金，用於開發和部署該平臺，並利用AI技術加快物流流程。"
     }
   ]
 }
