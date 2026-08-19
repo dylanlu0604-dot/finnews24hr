@@ -1,7 +1,62 @@
 {
   "date": "2026-08-20",
-  "count": 188,
+  "count": 193,
   "items": [
+    {
+      "id": "mkt:01a01b39-03ac-7aab-909f-b6730a1375e3",
+      "time": "2026-08-20 02:11:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Fed minutes: Iran conflict escalation casts shadow over inf outlook】Federal Reserve minutes said officials view the inf outlook as \"highly uncertain\" and that renewed escalation of the Iran war \"casts a shadow\" over that outlook. Officials judged the labor market stable, with labor demand and supply in balance. The post-meeting statement largely reused June wording and reaffirmed the Fed's commitment to price stability. Officials described growth as \"solid\" and noted strong capital investment and productivity gains. The July vote marked the Fed's fifth consecutive meeting holding rates unchanged following three cuts at end-2025."
+    },
+    {
+      "id": "5048488",
+      "time": "2026-08-20 02:10:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將家得寶的目標股價從每股385美元上調至390美元，維持家得寶“跑贏大盤”評級。"
+    },
+    {
+      "id": "mkt:01a01b36-fae2-7aab-909f-ac0030d19c4d",
+      "time": "2026-08-20 02:09:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Fed minutes: Several officials signaled hikes may be needed if inflation does not fall】Fed minutes from the July meeting showed several officials leaned toward a rate hike and many said policy would need to tighten further if inflation fails to decline. Uncertainty remained high and participants emphasized that incoming data will be central to policy decisions. The FOMC voted 9-3 to hold the policy rate at 3.50%-3.75%; three dissents favored a 25bp increase, and two non-voting regional presidents said they would have supported a hike. Most participants expected inflation to ease this year as tariff and earlier energy-price effects fade, but many flagged a material risk that inflation stays elevated."
+    },
+    {
+      "id": "5048487",
+      "time": "2026-08-20 02:09:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空航天局（NASA）與Katalyst Space公司取消了為雨燕空間望遠鏡提升軌道的計劃，原因是在軌救援飛行器出現技術問題。"
+    },
+    {
+      "id": "mkt:01a01b36-293b-7aab-909f-a7ed740de62b",
+      "time": "2026-08-20 02:08:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister held a phone call with Pakistan's army chief to discuss the regional situation and recent diplomatic developments and to push for political and diplomatic solutions. Both sides emphasized strengthening communication and cooperation."
+    },
     {
       "id": "te:markets:576594",
       "time": "2026-08-20 02:08:23",
