@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-20 02:40:37",
-  "count": 15620,
+  "updated": "2026-08-20 02:44:27",
+  "count": 15621,
   "items": [
+    {
+      "id": "mkt:01a01b54-33bf-7aab-90a0-2df01c268831",
+      "time": "2026-08-20 02:41:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "AI chip startup Fractile will sell about $250 mln of chips to Anthropic; post-deal Fractile plans to seek a roughly $6.5 bln valuation."
+    },
     {
       "id": "5048506",
       "time": "2026-08-20 02:36:23",
