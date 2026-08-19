@@ -1,7 +1,24 @@
 {
   "date": "2026-08-20",
-  "count": 129,
+  "count": 131,
   "items": [
+    {
+      "id": "mkt:01a01b1e-bf8e-7aab-909e-c39d895e30b8",
+      "time": "2026-08-20 01:43:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said it and the UK's Home Office held a joint security working-group meeting."
+    },
+    {
+      "id": "5048460",
+      "time": "2026-08-20 01:43:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "根據貿易協議，美國將把對加拿大鋼鐵和鋁的關稅減半。"
+    },
     {
       "id": "mkt:01a01b1a-7e3e-7aab-909e-ba2f55d69d27",
       "time": "2026-08-20 01:38:36",
