@@ -1,7 +1,90 @@
 {
   "date": "2026-08-20",
-  "count": 261,
+  "count": 269,
   "items": [
+    {
+      "id": "5048527",
+      "time": "2026-08-20 03:11:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：美加貿易協議預計將美國對加拿大鋼鐵、鋁產品的最高名義關稅稅率降至 25%，同時協議還將包含部分配額安排。"
+    },
+    {
+      "id": "mkt:01a01b6e-f0fa-7aab-90a0-b0f65d3ec215",
+      "time": "2026-08-20 03:10:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Sources say a US-Canada trade agreement is expected to cut the US maximum tariff rate on Canadian autos to 15%."
+    },
+    {
+      "id": "5048526",
+      "time": "2026-08-20 03:10:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：知情談判人士稱，美加貿易協議預計將美國對加拿大汽車的最高名義關稅稅率降至 15%。"
+    },
+    {
+      "id": "mkt:01a01b6d-c43e-7aab-90a0-ad47c2b8fa23",
+      "time": "2026-08-20 03:09:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold climbs above $4,500/oz】Spot gold climbed above $4,500/oz for the first time since June 4, rising 3.83% on the day."
+    },
+    {
+      "id": "5048525",
+      "time": "2026-08-20 03:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗表示，根據美伊諒解備忘錄，目前尚無凍結資金獲解凍。"
+    },
+    {
+      "id": "5048524",
+      "time": "2026-08-20 03:08:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4500美元/盎司，日內漲3.89%。"
+    },
+    {
+      "id": "5048523",
+      "time": "2026-08-20 03:08:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4560美元/盎司，日內漲3.16%。"
+    },
+    {
+      "id": "mkt:01a01b6c-d6a0-7aab-90a0-a15d35e2f078",
+      "time": "2026-08-20 03:08:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SPCX.O"
+      ],
+      "text": "Market sources: SpaceX (SPCX.O) attempted to acquire AI programming startup Cognition."
+    },
     {
       "id": "5048521",
       "time": "2026-08-20 03:07:16",
