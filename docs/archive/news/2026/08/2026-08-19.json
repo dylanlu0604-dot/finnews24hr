@@ -1,7 +1,35 @@
 {
   "date": "2026-08-19",
-  "count": 3021,
+  "count": 3024,
   "items": [
+    {
+      "id": "5048353",
+      "time": "2026-08-19 23:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及宣佈已與伊朗恢復外交接觸，以緩解緊張局勢。"
+    },
+    {
+      "id": "5048352",
+      "time": "2026-08-19 23:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：美國的目的是掠奪本地區國家，既非戰爭也非和平的局面必須結束。"
+    },
+    {
+      "id": "te:markets:576554",
+      "time": "2026-08-19 23:20:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Royal Bank of Canada Stock Price Hits 6-week Low — Royal Bank of Canada shares decreased to 289.17 CAD, the lowest since July 2026. Over the past 4 weeks, Royal Bank of Canada lost 2.21%, and in the last 12 months, it increased 52.75%."
+    },
     {
       "id": "mkt:01a01a99-65cf-7aab-909c-13619ce0dda8",
       "time": "2026-08-19 23:17:35",

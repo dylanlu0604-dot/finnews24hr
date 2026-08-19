@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-19 23:18:25",
-  "count": 15464,
+  "updated": "2026-08-19 23:22:25",
+  "count": 15463,
   "items": [
+    {
+      "id": "5048353",
+      "time": "2026-08-19 23:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及宣佈已與伊朗恢復外交接觸，以緩解緊張局勢。"
+    },
+    {
+      "id": "5048352",
+      "time": "2026-08-19 23:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：美國的目的是掠奪本地區國家，既非戰爭也非和平的局面必須結束。"
+    },
+    {
+      "id": "te:markets:576554",
+      "time": "2026-08-19 23:20:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Royal Bank of Canada Stock Price Hits 6-week Low — Royal Bank of Canada shares decreased to 289.17 CAD, the lowest since July 2026. Over the past 4 weeks, Royal Bank of Canada lost 2.21%, and in the last 12 months, it increased 52.75%."
+    },
     {
       "id": "mkt:01a01a99-65cf-7aab-909c-13619ce0dda8",
       "time": "2026-08-19 23:17:35",
@@ -141442,47 +141470,6 @@
         "國際"
       ],
       "text": "以色列國防軍發言人：今日早些時候，參謀長就凱齊拉地區正在發生的事態，與中央司令部司令、作戰局局長及作戰處處長再次舉行局勢評估會議。"
-    },
-    {
-      "id": "5038006",
-      "time": "2026-08-12 23:22:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列國防軍襲擊加沙地帶北部拜特哈利亞地區。"
-    },
-    {
-      "id": "mkt:019ff68f-d9fd-7aab-9010-4c754b7510f5",
-      "time": "2026-08-12 23:20:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "JIOFIN.NS",
-        "Impact bullish"
-      ],
-      "text": "BofA will acquire a 49.9% stake in a Jio Financial subsidiary for about $1.9 billion."
-    },
-    {
-      "id": "5038005",
-      "time": "2026-08-12 23:20:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國銀行將斥資約19億美元收購JIO金融部門49.9%的股份。"
-    },
-    {
-      "id": "mkt:019ff68d-d59f-7aab-9010-452cdd1ab435",
-      "time": "2026-08-12 23:18:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Oman Environment Authority is monitoring an oil slick from a grounded vessel near Al Kibubriya Island; the oil could reach the coast of Masirah Island within hours."
     }
   ]
 }
