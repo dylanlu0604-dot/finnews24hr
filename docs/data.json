@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-20 02:52:12",
-  "count": 15629,
+  "updated": "2026-08-20 02:56:03",
+  "count": 15631,
   "items": [
+    {
+      "id": "mkt:01a01b60-729b-7aab-90a0-6667660b927b",
+      "time": "2026-08-20 02:55:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran central bank governor says no frozen funds unfrozen so far】Iran's central bank governor said on Aug 19 local time that no frozen funds have been unfrozen so far, CCTV reported."
+    },
+    {
+      "id": "5048512",
+      "time": "2026-08-20 02:54:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【厄瓜多情報機構負責人在肯亞直升機事故中死亡】當地時間8月19日，一架直升機在肯亞北部桑布魯郡奧洛洛克韋山墜毀，包括6名遊客和1名飛行員在內的機上7人全部遇難。厄瓜多交通部長稍後向外界證實，厄瓜多情報機構最高負責人米凱萊·森西-孔圖吉夫婦在此次事故中死亡。此外，美國國務院發表宣告稱，墜機事故死亡人員中有4人是美國公民。（央視新聞）"
+    },
+    {
+      "id": "5048511",
+      "time": "2026-08-20 02:52:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【伊朗央行行長：目前尚未有任何被凍結的資金解凍】總檯記者當地時間8月19日獲悉，伊朗央行行長表示，目前尚未有任何被凍結的資金解凍。（央視新聞）"
+    },
     {
       "id": "mkt:01a01b5d-3d8a-7aab-90a0-5e0b76f4de94",
       "time": "2026-08-20 02:51:30",
@@ -143097,16 +143123,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.35%，報25318.72點，低水121.45點。"
-    },
-    {
-      "id": "mkt:019ff753-57e5-7aab-9012-9b66217bc2d0",
-      "time": "2026-08-13 02:54:22",
-      "tags": [
-        "MKT News",
-        "PSKY.O",
-        "Impact bullish"
-      ],
-      "text": "Paramount (PSKY.O) trading volume surged; shares up 2.61%."
     }
   ]
 }
