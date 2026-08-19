@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-19 23:34:26",
-  "count": 15488,
+  "updated": "2026-08-19 23:38:21",
+  "count": 15489,
   "items": [
+    {
+      "id": "5048376",
+      "time": "2026-08-19 23:37:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯農業運輸公司預計，俄羅斯8月份小麥出口量將降至16年來的最低水平。"
+    },
+    {
+      "id": "mkt:01a01aa9-51b2-7aab-909c-c19298bb7231",
+      "time": "2026-08-19 23:34:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 reports IDF Chief of General Staff Zamir, while inspecting Syria, said Israel will use force when and where necessary."
+    },
+    {
+      "id": "5048375",
+      "time": "2026-08-19 23:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 局面不會盡善盡美，但會有大量石油流出，規模十分可觀。 各方都感到震驚。"
+    },
+    {
+      "id": "mkt:01a01aa8-9de1-7aab-909c-bd31af088085",
+      "time": "2026-08-19 23:34:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "US President Trump said the United States has full control of the strait."
+    },
+    {
+      "id": "mkt:01a01aa8-6dec-7aab-909c-b32952947150",
+      "time": "2026-08-19 23:34:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said oil flows through the Strait of Hormuz will not be entirely smooth."
+    },
     {
       "id": "5048374",
       "time": "2026-08-19 23:33:46",
@@ -141654,48 +141710,6 @@
         "MKT News"
       ],
       "text": "【Iran says U.S. Congress should probe increases in Trump’s assets during the conflict】IRGC commander Naghdi said it is clear U.S. military leaders and senior commanders adjusted the tempo of the war to their own interests, and that the U.S. Congress should investigate increases in Trump’s and his associates’ assets during the conflict."
-    },
-    {
-      "id": "mkt:019ff69e-8aae-7aab-9010-b02450b0f012",
-      "time": "2026-08-12 23:36:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities closed on Wednesday Aug 12: Germany's DAX fell 53.75 points (-0.20%) to 26,341.62; the UK's FTSE 100 dropped 7.55 points (-0.07%) to 10,836.64; France's CAC 40 slid 40.00 points (-0.46%) to 8,674.94; the Euro STOXX 50 lost 15.87 points (-0.24%) to 6,535.35; Spain's IBEX 35 eased 8.44 points (-0.04%) to 20,205.16; Italy's FTSE MIB was essentially flat, up 0.79 points (0.00%) at 53,707.00."
-    },
-    {
-      "id": "mkt:019ff69e-32d0-7aab-9010-af3291abffea",
-      "time": "2026-08-12 23:36:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRGC commander Nakdi said Iran has endured 73 years of US attacks, withstood the pressure, remained united and preserved its territorial integrity, preventing the enemy from achieving its objectives."
-    },
-    {
-      "id": "mkt:019ff69d-b583-7aab-9010-a4f41165a0b8",
-      "time": "2026-08-12 23:35:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps commander Naghdi said the US military is weaker than previously thought."
-    },
-    {
-      "id": "5038013",
-      "time": "2026-08-12 23:35:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國至8月12日4個月國債競拍-投標倍數 3.16，前值3.19。\n美國至8月12日4個月國債競拍-得標利率配置百分比 9.14%，前值94.66%。\n美國至8月12日4個月國債競拍-得標利率 3.755%，前值3.79%。"
     }
   ]
 }

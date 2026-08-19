@@ -1,7 +1,63 @@
 {
   "date": "2026-08-19",
-  "count": 3066,
+  "count": 3071,
   "items": [
+    {
+      "id": "5048376",
+      "time": "2026-08-19 23:37:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯農業運輸公司預計，俄羅斯8月份小麥出口量將降至16年來的最低水平。"
+    },
+    {
+      "id": "mkt:01a01aa9-51b2-7aab-909c-c19298bb7231",
+      "time": "2026-08-19 23:34:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 reports IDF Chief of General Staff Zamir, while inspecting Syria, said Israel will use force when and where necessary."
+    },
+    {
+      "id": "5048375",
+      "time": "2026-08-19 23:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 局面不會盡善盡美，但會有大量石油流出，規模十分可觀。 各方都感到震驚。"
+    },
+    {
+      "id": "mkt:01a01aa8-9de1-7aab-909c-bd31af088085",
+      "time": "2026-08-19 23:34:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "US President Trump said the United States has full control of the strait."
+    },
+    {
+      "id": "mkt:01a01aa8-6dec-7aab-909c-b32952947150",
+      "time": "2026-08-19 23:34:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said oil flows through the Strait of Hormuz will not be entirely smooth."
+    },
     {
       "id": "5048374",
       "time": "2026-08-19 23:33:46",
