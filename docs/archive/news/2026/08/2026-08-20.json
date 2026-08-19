@@ -1,7 +1,68 @@
 {
   "date": "2026-08-20",
-  "count": 28,
+  "count": 35,
   "items": [
+    {
+      "id": "mkt:01a01ad2-500f-7aab-909d-6f02e186d0b0",
+      "time": "2026-08-20 00:19:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said Ottawa is moving toward a trade agreement with the United States, with negotiations making significant progress."
+    },
+    {
+      "id": "5048412",
+      "time": "2026-08-20 00:19:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，加拿大正推進與美國達成貿易協定，談判已取得重大進展。"
+    },
+    {
+      "id": "5048411",
+      "time": "2026-08-20 00:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "AI科學家李飛飛：美國AI反對聲浪恐給全球帶來風險。"
+    },
+    {
+      "id": "5048410",
+      "time": "2026-08-20 00:18:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：中端市場併購是高盛的業務增長領域。"
+    },
+    {
+      "id": "te:markets:576580",
+      "time": "2026-08-20 00:18:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.8% to 52,618 on Wednesday, amid losses for banks and AI companies. STMicroelectronics dropped 2.8%, extending the previous session’s selling pressure, while Prysmian fell 0.8%. Financials also underperformed as Italian BTPs refrained from rebounding to the extent of US Treasuries after the US doubled its bond and note buyback. MPS fell 2% amid reports that it is considering potential takeover-defence options against Intesa’s(-1.4%) earlier bid, under which MPS’ insurance operations would be sold to Unipol (-2.6%), BPER Banca’s (-1.5%) largest shareholder. MPS CEO said the bank is also working on two potential share-swap offers for rival Banco BPM (-0.5%) and Generali-controlled (-1.4%) wealth manager Banca Generali. On the upside, Stellantis surged 5.9%, tracking gains across the European auto sector after the US president announced a three-day suspension of import tariffs on Canadian imports that were due to take effect today."
+    },
+    {
+      "id": "5048409",
+      "time": "2026-08-20 00:17:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：IPO市場對企業而言“機會完全敞開”。"
+    },
+    {
+      "id": "5048408",
+      "time": "2026-08-20 00:16:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：有更多資金流向私有化交易。"
+    },
     {
       "id": "5048407",
       "time": "2026-08-20 00:15:38",

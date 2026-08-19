@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-20 00:16:16",
-  "count": 15506,
+  "updated": "2026-08-20 00:20:16",
+  "count": 15512,
   "items": [
+    {
+      "id": "mkt:01a01ad2-500f-7aab-909d-6f02e186d0b0",
+      "time": "2026-08-20 00:19:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said Ottawa is moving toward a trade agreement with the United States, with negotiations making significant progress."
+    },
+    {
+      "id": "5048412",
+      "time": "2026-08-20 00:19:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，加拿大正推進與美國達成貿易協定，談判已取得重大進展。"
+    },
+    {
+      "id": "5048411",
+      "time": "2026-08-20 00:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "AI科學家李飛飛：美國AI反對聲浪恐給全球帶來風險。"
+    },
+    {
+      "id": "5048410",
+      "time": "2026-08-20 00:18:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：中端市場併購是高盛的業務增長領域。"
+    },
+    {
+      "id": "te:markets:576580",
+      "time": "2026-08-20 00:18:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.8% to 52,618 on Wednesday, amid losses for banks and AI companies. STMicroelectronics dropped 2.8%, extending the previous session’s selling pressure, while Prysmian fell 0.8%. Financials also underperformed as Italian BTPs refrained from rebounding to the extent of US Treasuries after the US doubled its bond and note buyback. MPS fell 2% amid reports that it is considering potential takeover-defence options against Intesa’s(-1.4%) earlier bid, under which MPS’ insurance operations would be sold to Unipol (-2.6%), BPER Banca’s (-1.5%) largest shareholder. MPS CEO said the bank is also working on two potential share-swap offers for rival Banco BPM (-0.5%) and Generali-controlled (-1.4%) wealth manager Banca Generali. On the upside, Stellantis surged 5.9%, tracking gains across the European auto sector after the US president announced a three-day suspension of import tariffs on Canadian imports that were due to take effect today."
+    },
+    {
+      "id": "5048409",
+      "time": "2026-08-20 00:17:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：IPO市場對企業而言“機會完全敞開”。"
+    },
+    {
+      "id": "5048408",
+      "time": "2026-08-20 00:16:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛投行聯合負責人麥克盧爾：有更多資金流向私有化交易。"
+    },
     {
       "id": "5048407",
       "time": "2026-08-20 00:15:38",
@@ -141858,14 +141919,6 @@
         "Importance 1"
       ],
       "text": "DAX Snaps 4-Day Advance — The DAX 40 gave up early gains to close about 0.2% lower on Wednesday after hitting a fresh intraday record of 26,574, ending a four-day rally as investors took profits amid uncertainty over the Iran conflict and Strait of Hormuz reopening. Focus also remained on economic data and earnings. Software, consumer cyclicals, telecoms, utilities and autos came under pressure, while industrials and tech stocks advanced. E.ON fell nearly 3% after modest first-half earnings growth, with its CEO warning of potential attacks on the country’s energy infrastructure. Brenntag dropped 2.2% after JPMorgan maintained its Sell rating even after solid Q2 performance and an improved full-year earnings outlook. Rheinmetall led gainers with a 2.3% rise, followed by Siemens Energy (+1.9%) and Infineon Technologies (+1.1%). TKMS surged 8.5% after strong results and an upgraded full-year revenue outlook."
-    },
-    {
-      "id": "mkt:019ff6c4-49f1-7aab-9011-3b8251ef4505",
-      "time": "2026-08-13 00:18:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently."
     }
   ]
 }
