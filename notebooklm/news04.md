@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-19 13:42:16_
-_本檔包含 3213 則快訊，約 609894 字_
+_更新時間：2026-08-19 14:01:48_
+_本檔包含 3220 則快訊，約 611974 字_
+
+---
+
+### 2026-08-14 16:39:34  #其他 #焦點
+
+【7月貸款利率保持低位水平】今年以來，我國貸款利率保持低位水平，7月延續下行態勢。7月份，企業新發放貸款加權平均利率略低於3%，比上年同期低約0.2個百分點；個人住房新發放貸款加權平均利率約3.1%，與上年同期基本持平。（新華社）
+
+---
+
+### 2026-08-14 16:39:34  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Impact bearish
+
+【July loan rates remain low】Year-to-date Chinese loan rates have stayed low and extended their decline into July. In July the weighted-average rate on new corporate loans was just under 3%, about 20bps lower YoY; the weighted-average rate on new home mortgages was about 3.1%, broadly unchanged YoY.
+
+---
+
+### 2026-08-14 16:39:13  #公司 #市場 #國際
+
+【SK海力士因可交換債換股及股價上漲確認3.98萬億韓元損失】根據監管檔案，SK海力士在2026年上半年確認與2023年4月發行的可交換債券相關的衍生品交易損失3.98萬億韓元。該損失源於相關債券持有人行使換股權，以及SK海力士在韓國上市股票價格上漲。SK海力士表示，上述會計損失不會導致實際現金流出；同時，當可交換債券轉換為股份時確認的庫存股處置收益，已基本抵消相關損失。
+
+---
+
+### 2026-08-14 16:38:49  #公司
+
+【安妮股份：控股股東變更為晟世天安 實控人變為李寧和王磊】安妮股份公告稱，2026年8月13日，公司原控股股東林旭曦、張傑向晟世天安協議轉讓9229.15萬股（佔總股本15.92%）的過戶登記手續辦理完畢，控股股東變更為晟世天安，實際控制人變為李寧和王磊。同時，張傑放棄2887.16萬股（佔總股本4.98%）表決權。晟世天安承諾在協議轉讓股份過戶登記完成之日起36個月內，不轉讓受讓股份。本次控制權變更不會對公司持續經營產生不利影響。
+
+---
+
+### 2026-08-14 16:38:10  #公司
+
+【冀衡醫藥：2026年上半年營收2.41億元 淨虧損2013.85萬元】冀衡醫藥公告稱，2026年上半年營收2.41億元，同比下降50.51%；淨虧損2013.85萬元，虧損幅度較上年同期收窄84.62%。經營活動產生的現金流量淨額為-6692.55萬元，同比下降1035.96%。此外，公司向浦發銀行等申請的借款本息合計3.26億元將不予留債清償，子公司已就可能承擔的連帶擔保責任確認負債1.36億元。公司持有的遼源市百康藥業、重慶春瑞醫藥化工部分股權質押借款，截至6月30日，借款餘額分別為6557.48萬元、4.03億元。
+
+---
+
+### 2026-08-14 16:37:49  #公司
+
+【安泰科技中標1億元核聚變採購專案】8月14日，安徽公共資源交易集團網站顯示，安泰科技為“遮蔽包層系統第一壁採購-2標段”的中標人，中標價為1.09億元，該專案採購人為聚變新能（安徽）有限公司。
+
+---
+
+### 2026-08-14 16:37:46  #MKT News #Commodities #Energy
+
+【Antai Technology wins CNY109 mln fusion procurement contract】Aug 14 — Anhui Public Resource Trading Group posted that Antai Technology won the Lot 2 contract to supply the first wall of a shielding/blanket system for Fusion New Energy (Anhui) Co., at CNY109 mln.
+
+---
+
+### 2026-08-14 16:37:21  #市場 #國際
+
+受 2027 年預算赤字目標影響，印尼 10 年期國債收益率延續跌勢。
+
+---
+
+### 2026-08-14 16:37:08  #公司
+
+滙豐控股8月13日於香港交易所回購34萬股股份，斥資5520萬港元。
+
+---
+
+### 2026-08-14 16:36:47  #公司
+
+【承德露露：2026年上半年淨利潤2.98億元，同比增15.28%】承德露露公告，2026年上半年營業收入15.4億元，同比增長11.29%。歸屬於上市公司股東的淨利潤2.98億元，同比增長15.28%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.96億元，同比增長14.51%。經營活動產生的現金流量淨額-1.86億元，同比下降524.34%。基本每股收益0.29元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-14 16:36:47  #MKT News #Market Regions #Greater China #CNH
+
+【PBOC: July cross‑border renminbi current‑account settlements 1.75 tln yuan】The PBOC said cross‑border renminbi settlements under the current account totaled 1.75 tln yuan in July, with goods trade at 1.32 tln yuan and services/other current items at 0.43 tln yuan. Cross‑border renminbi settlements for direct investment were 0.63 tln yuan, split into 0.22 tln yuan outbound direct investment and 0.41 tln yuan inbound foreign direct investment.
+
+---
+
+### 2026-08-14 16:36:33  #其他
+
+【香港上半年實質本地生產總值按年增長5.1%】香港特區政府今日（14日）發表《2026年半年經濟報告》和2026年第二季度的本地生產總值修訂數字。特區政府經濟顧問範婉兒闡述2026年第二季度的經濟表現，以及最新的2026年全年本地生產總值和物價預測。受對外貿易蓬勃和內部需求強韌所支援，香港經濟在2026第二季度繼續蓬勃擴張。實質本地生產總值在第二季按年增長4.3%，上一季增長5.9%。2026年上半年，實質本地生產總值按年增長5.1%，是近五年來最強勁的半年度表現。（大灣區之聲）
+
+---
+
+### 2026-08-14 16:36:30  #公司
+
+【證監會：截至2026年4月30日，共5517家上市公司披露了2025年年度財務報告】中國證監會發布上市公司2025年年度財務報告會計監管報告。截至2026年4月30日，共5,517家上市公司披露了2025年年度財務報告，其中主機板3,201家、創業板1,397家、科創板608家、北交所311家。按期披露年度財務報告的上市公司中，214家被出具非標準審計意見，其中被出具帶強調事項段或持續經營事項段的無保留意見109家，保留意見87家，無法表示意見18家。
+
+---
+
+### 2026-08-14 16:36:26  #宏觀 #公司
+
+【證監會：針對市場熱點難點會計實務問題加強實踐指導】中國證監會組織專門力量抽樣審閱了上市公司2025年年度財務報告，在此基礎上形成了《上市公司2025年年度財務報告會計監管報告》。總體而言，上市公司能夠較好地理解並執行企業會計準則和財務資訊披露規則，但仍有部分上市公司在收入、金融工具、長期股權投資與企業合併、資產減值、研發支出等方面，存在會計處理或財務資訊披露錯誤。針對上述問題，中國證監會下一步將重點推進以下工作：一是深入貫徹落實黨中央、國務院各項決策部署，不斷完善上市公司財務資訊披露監管工作機制，持續提升監管效能。二是持續跟進上市公司財務報告審閱發現的各類問題，依法依規做好後續監管處理。三是圍繞監管工作發現的重點共性問題，強化監管協調，統一監管口徑。四是針對市場熱點難點會計實務問題加強實踐指導，不斷增強資本市場執行企業會計準則與財務資訊披露規則的一致性、有效性。
+
+---
+
+### 2026-08-14 16:36:24  #MKT News #Hang Seng Index #Impact bullish
+
+【Hong Kong 1H real GDP up 5.1% YoY】HONG KONG GOVT released its 2026 half-year economic report and revised Q2 GDP figures: Q2 real GDP rose 4.3% YoY versus 5.9% in Q1. Supported by robust external trade and resilient domestic demand, 1H real GDP was up 5.1% YoY, the strongest half-year in five years. The report includes updated 2026 full-year GDP and inflation forecasts.
+
+---
+
+### 2026-08-14 16:36:22  #國際
+
+俄羅斯國防部稱其部隊在烏克蘭頓涅茨克地區再拿下兩個定居點。
+
+---
+
+### 2026-08-14 16:36:18  #MKT News #Market Regions #Greater China #CNH #Impact mixed
+
+【PBOC: RMB deposits up 17.79 tln yuan Jan–Jul; end‑July RMB deposits 346.47 tln yuan, +8.1% YoY】PBOC data: end‑July total deposits (RMB and foreign currency) 354.49 tln yuan, up 8.1% YoY. End‑July RMB deposits 346.47 tln yuan, up 8.1% YoY. Jan–Jul RMB deposits increased 17.79 tln yuan — household deposits +6.95 tln, non‑financial corporate deposits +1.57 tln, fiscal deposits +1.95 tln, non‑bank financial institution deposits +5.76 tln. End‑July foreign‑currency deposits $1.18 tln, up 17.9% YoY; Jan–Jul foreign‑currency deposits rose $121.2 bln.
+
+---
+
+### 2026-08-14 16:36:16  #公司 #焦點
+
+【違法違規收集使用個人資訊 75款移動應用被點名】根據中央網信辦、工業和資訊化部、公安部聯合釋出的《關於開展2026年個人資訊保護系列專項行動的公告》，依據《網路安全法》《個人資訊保護法》《網路資料安全管理條例》《App違法違規收集使用個人資訊行為認定方法》等法律法規和有關規定，經國家計算機病毒應急處理中心檢測，75款移動應用存在一項或者多項違法違規收集使用個人資訊情況。（央視新聞）
+
+---
+
+### 2026-08-14 16:36:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Russian Defence Ministry says it has captured Oletskoye and Novonikolaevka in Donetsk.
+
+---
+
+### 2026-08-14 16:35:55  #MKT News #Market Regions #Greater China #CSI300 #Impact mixed #SSE Composite
+
+【CSRC: 5,517 listed firms disclosed 2025 annual reports as of Apr 30, 2026】The CSRC published its accounting supervision report on listed companies' 2025 annual financial reports. As of Apr 30, 2026, 5,517 listed firms had disclosed 2025 annual reports — Main Board 3,201; ChiNext 1,397; STAR Market 608; Beijing Stock Exchange 311. Among companies that filed on time, 214 received non-standard audit opinions: 109 received unqualified opinions with emphasis-of-matter or going-concern paragraphs, 87 received qualified opinions, and 18 received disclaimers of opinion.
+
+---
+
+### 2026-08-14 16:35:24  #MKT News #CSI300 #Impact mixed #SSE Composite
+
+【CSRC to strengthen practical guidance on complex accounting issues】The CSRC said it sampled listed companies’ 2025 annual financial reports and issued an Accounting Regulatory Report. While most issuers demonstrated broad understanding and compliance with accounting standards and disclosure rules, the review identified accounting or disclosure errors in revenue recognition, financial instruments, long‑term equity investments and business combinations, asset impairment and R&D expense. The CSRC said it will implement directives from the Party Central Committee and the State Council and refine the supervisory framework for listed‑company financial disclosure; pursue follow‑up enforcement on review findings in line with law and regulation; coordinate regulators to unify supervisory standards on common problem areas; and step up practical guidance on market high‑profile and complex accounting issues to improve consistency and effectiveness in applying accounting standards and disclosure rules.
+
+---
+
+### 2026-08-14 16:35:17  #其他
+
+【恒生港美科技指數及恒生科技美股半導體指數的編算方法調整】恒生港美科技指數及恒生科技美股半導體指數的編算方法調整，1、恒生港美科技指數的編算方法將有以下更新：更改比重上限，更新臨時指數調整機制。2、恒生科技美股半導體指數的編算方法將有以下更新：新增臨時指數調整機制。
+
+---
+
+### 2026-08-14 16:35:02  #公司
+
+【亞盛集團：乾旱或影響2026年經營業績】亞盛集團公告稱，今年6月以來，甘肅持續晴熱少雨、河流來水偏少，公司位於張掖、酒泉等地的種植基地出現旱情，個別地區旱情嚴重，對農作物生長產生不同程度影響。公司已啟動乾旱應急預案，降低乾旱對生產經營的影響。本次旱情預計對2026年經營業績有一定不利影響，具體以經審計的財務報告為準。
+
+---
+
+### 2026-08-14 16:34:41  #國際
+
+印尼將 2027 年公開失業率目標設定為 4.30%‑4.87%。
+
+---
+
+### 2026-08-14 16:34:37  #公司 #市場
+
+【中國黃金：2026年上半年計提減值、確認損益及收益增利194.47萬元】中國黃金公告稱，2026年半年度，公司計提壞賬準備-53.11萬元、存貨跌價準備53,800.80萬元；確認公允價值變動損益26,221.90萬元、投資收益27,720.26萬元，合計增加公司合併報表利潤總額194.47萬元。金價波動對當期整體損益影響有限，本次計提後能更公允反映公司狀況，不影響主營盈利能力與長期穩定性。資料為初步測算，以審計確認資料為準。
+
+---
+
+### 2026-08-14 16:34:10  #央行 #中國央行
+
+【央行：前七個月人民幣存款增加17.79萬億元】8月14日，央行資料顯示，7月末，本外幣存款餘額354.49萬億元，同比增長8.1%。月末人民幣存款餘額346.47萬億元，同比增長8.1%。前七個月人民幣存款增加17.79萬億元。
+
+---
+
+### 2026-08-14 16:34:10  #經濟數據 #中國
+
+【央行：前七個月人民幣存款增加17.79萬億元】8月14日，央行資料顯示，7月末，本外幣存款餘額354.49萬億元，同比增長8.1%。月末人民幣存款餘額346.47萬億元，同比增長8.1%。前七個月人民幣存款增加17.79萬億元。
+
+---
+
+### 2026-08-14 16:33:59  #央行 #中國央行
+
+【央行：7月份經常項下跨境人民幣結算金額為1.75萬億元】央行資料顯示，7月份，經常項下跨境人民幣結算金額為1.75萬億元，其中貨物貿易、服務貿易及其他經常專案分別為1.32萬億元、0.43萬億元；直接投資跨境人民幣結算金額為0.63萬億元，其中對外直接投資、外商直接投資分別為0.22萬億元、0.41萬億元。
+
+---
+
+### 2026-08-14 16:33:59  #經濟數據 #中國
+
+【央行：7月份經常項下跨境人民幣結算金額為1.75萬億元】央行資料顯示，7月份，經常項下跨境人民幣結算金額為1.75萬億元，其中貨物貿易、服務貿易及其他經常專案分別為1.32萬億元、0.43萬億元；直接投資跨境人民幣結算金額為0.63萬億元，其中對外直接投資、外商直接投資分別為0.22萬億元、0.41萬億元。
+
+---
+
+### 2026-08-14 16:33:55  #國際
+
+印尼將 2027 年貧困率目標定為 6%‑6.5%。
+
+---
+
+### 2026-08-14 16:33:50  #公司 #國際
+
+【AMD發行47.5億美元債券 AMD創最高規模發債紀錄】央視財經訊息，美國晶片製造商超威半導體，也就是AMD，當地時間13日發行債券，將籌集資金47.5億美元。這也創下公司最高規模發債紀錄，預計債券於8月17日完成交割。分析指出此次發債凸顯出，半導體企業愈發依靠資本市場融資，加緊佈局人工智慧相關投資、擴建資料中心以及推進製造專案。近期，AMD公佈了與Anthropic、微軟達成的多項合作，相關合作將擴大其晶片應用範圍。市場分析顯示，AMD今年營收預計較2025年增長47%，有望突破510億美元。（央視財經）
+
+---
+
+### 2026-08-14 16:33:47  #Trading Economics #Markets #Commodity #Importance 2
+
+Wheat Climbs as Black Sea Supply Risks Mount — Wheat prices climbed more than 2% to above $6.60 a bushel on Friday, bringing weekly gains to over 4%, the strongest performance since mid-July. The rally was driven by growing concerns over disruptions to Black Sea exports amid the Russia-Ukraine conflict. Russia and Ukraine remain critical to the global wheat market, together accounting for almost 30% of projected world wheat exports in the 2026/27 season, leaving prices particularly vulnerable to prolonged interruptions. Supply concerns intensified after Russia halted grain loadings at its main Black Sea and Azov Sea ports. Operations at all three major terminals in Novorossiysk have now been suspended following Ukrainian drone attacks earlier in the week. The disruptions could force Russia to reduce exports further this month, tightening global availability. However, there were signs of a possible diplomatic opening, with Ukraine reportedly proposing that both sides stop attacks on civilian targets in the Black Sea.
 
 ---
 
@@ -19201,155 +19393,5 @@ CBRT governor says Turkey's Q1 economic growth continued to slow.
 ### 2026-08-13 15:35:48  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Falls for 4th Session — The FTSE 100 traded lower on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 0.4% and 1%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 5%, Rio Tinto dropped 4.5% and Anglo American declined 3%. Precious-metal miners Fresnillo and Endeavour also lost more than 3% each. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations.
-
----
-
-### 2026-08-13 15:35:30  #其他
-
-【貴州：加快5G網路、千兆光網、算力網路建設佈局】貴州資訊通訊業2026年上半年總經理座談會在貴陽召開。會議強調，高質量推進行業“十五五”發展規劃落地實施，加快5G網路、千兆光網、算力網路建設佈局，穩步推進萬兆光網試點和5G-A升級建設，提升通訊供給水平和保障能力。搶抓“人工智慧+”機遇，在賦能千行百業轉型升級上展現作為。聚焦貴州新型工業化和“六大產業叢集”，深耕“5G+工業網際網路”和“人工智慧+工業網際網路”，探索人工智慧在政務、醫療、教育、文旅等領域的創新應用，打造一批具有貴州特色的智慧化應用標杆。
-
----
-
-### 2026-08-13 15:35:26  #公司
-
-【成都先導：股東深圳鈞天減持352.41萬股 套現1.30億元】成都先導公告稱，股東深圳鈞天原計劃於2026年5月13日至8月12日，減持不超1006.78萬股（佔總股本2.51%）。截至8月13日減持期屆滿，其完成減持352.41萬股，減持比例0.88%，減持價格35.00 - 39.03元/股，減持總金額1.30億元。減持後，深圳鈞天持有654.37萬股，佔總股本1.63%。本次減持符合相關規定，與減持計劃一致。
-
----
-
-### 2026-08-13 15:35:23  #公司
-
-【百聯股份：籌劃終止聯華超市股權託管 尚處籌劃階段】百聯股份公告稱，公司擬與控股股東百聯集團終止對其持有的聯華超市61,416.00萬股股份（佔總股本的41.51%）的受託管理，完成後公司有權行使的聯華超市表決權比例將由56.66%降至15.15%，不再將其納入合併報表。本次交易預計構成重大資產重組，不涉及發行股份，也不會導致控股股東和實控人變更。截至公告日，公司尚未簽署相關協議，方案待論證協商，交易尚處籌劃階段，能否達成和實施存在不確定性。
-
----
-
-### 2026-08-13 15:35:16  #MKT News
-
-Maersk CEO said elevated freight rates are caused by port congestion rather than disruptions in the Strait of Hormuz.
-
----
-
-### 2026-08-13 15:35:03  #公司
-
-馬士基執行長：高運費源於港口擁堵，而非霍爾木茲海峽問題。
-
----
-
-### 2026-08-13 15:34:48  #公司
-
-【恆力重工集團旗下大連造船公司增資至190億 增幅約53%】天眼查App顯示，恆力造船（大連）有限公司完成工商變更，註冊資本由124億人民幣增至190億人民幣，增幅約53%。該公司成立於2022年7月，法定代表人為安錦香，經營範圍包括非金屬船舶製造、船舶製造、船舶修理等，由恆力重工集團有限公司全資持股。
-
----
-
-### 2026-08-13 15:34:32  #公司 #觀點
-
-【高盛：聯想集團首財季業績遠超預期，維持“買入”評級】高盛發表研報指，聯想集團2027財年首季業績遠超預期，收入同比增長43%至約270億美元，較該行及市場預期分別高出22%及20%。經調整純利同比增長176%至約11億美元，較該行及市場預測分別高出48%及68%。毛利率進一步擴張至16.5%，亦高於該行及市場預期。期內智慧裝置業務集團(IDG)收入同比增長27%至170億美元，佔總收入63%。基礎設施方案業務集團(ISG)收入同比增長98%至85億美元，佔總收入32%，AI伺服器訂單升至540億美元。高盛維持聯想的“買入”評級，目標價31港元，對應2027年預測市盈率約17.3倍。
-
----
-
-### 2026-08-13 15:33:54  #其他
-
-哈薩克計劃發行熊貓債籌資不超過66億元，承銷商詢問投資者意向。
-
----
-
-### 2026-08-13 15:32:57  #MKT News #Market Regions #Emerging Markets
-
-Turkey's central bank governor said the bank will deploy all available tools to combat inflation.
-
----
-
-### 2026-08-13 15:32:47  #MKT News
-
-Turkey's central bank governor says the bank will maintain a restrictive monetary policy stance.
-
----
-
-### 2026-08-13 15:32:43  #央行 #其他
-
-土耳其央行行長：將動用一切可用工具推進抗通脹程序。
-
----
-
-### 2026-08-13 15:32:41  #公司
-
-【贛粵高速：2026年7月車輛通行服務收入3.27億元】贛粵高速公告稱，2026年7月公司車輛通行服務收入為326,668,893.70元，約3.27億元。其中，昌九高速收入98,567,085.27元，昌樟高速收入61,125,405.50元等。上述資料未經審計，通行服務收入含增值稅。
-
----
-
-### 2026-08-13 15:32:36  #MKT News
-
-Turkey central bank governor said the bank is closely monitoring how geopolitical developments could affect the pace of inflation easing.
-
----
-
-### 2026-08-13 15:32:31  #央行 #其他
-
-土耳其央行行長：將維持緊縮政策立場。
-
----
-
-### 2026-08-13 15:32:04  #MKT News #WTI #Impact bullish #Brent
-
-【Former Iranian diplomat: US has 'fallen into Strait of Hormuz trap'】Former Iranian diplomat Abbas Khameyar said the United States has failed its "economic and military tests" against Iran and has "fallen into the Strait of Hormuz trap." He said Iran will not yield to US conditions or ambitions, that control of the Strait has become a "successful deterrent" which has altered the course of aggression and reset rules of engagement, and that the US has broken its commitments; only serious, sincere negotiations can secure compliance.
-
----
-
-### 2026-08-13 15:32:03  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.47% Lower — The FTSE 100 Index is losing 51 points. Losses were led by Antofagasta (-5.05%), Rio Tinto (-4.56%) and Fresnillo (-3.78%). Offsetting the fall, top gainers were Scottish Mortgage (1.56%), Aviva (1.28%) and Spirax-Sarco Engineering (1.11%).
-
----
-
-### 2026-08-13 15:32:01  #其他
-
-【吉林省延長出租從業年限，長春女駕駛員年限高出其他地區7歲】據吉林省運輸管理局2026年8月12日訊息，日前，吉林省交通運輸廳“延長出租從業年限，拓寬群眾就業渠道”工作被選入10個省級“法治為民辦實事”專案，已透過省委依法治省辦面向社會公佈，出租汽車駕駛員年齡由女55週歲、男60週歲，延長至女58週歲（長春65週歲）、男63週歲（長春65週歲）。（澎湃新聞）
-
----
-
-### 2026-08-13 15:31:39  #公司 #國際
-
-【摩洛哥對涉華木塊芯膠合板作出反傾銷初裁】摩洛哥工業和貿易部發布第DDC/11/2026號公告，對原產於中國和印度尼西亞的木塊芯膠合板作出反傾銷初裁，建議徵收臨時反傾銷稅，其中，中國生產商/出口商稅率為82%、印度尼西亞生產商/出口商稅率為55%。涉案產品的摩洛哥稅號為44.12.51.91.00、44.12.51.99.10、44.12.51.99.21、44.12.51.99.22、44.12.51.99.28等。
-
----
-
-### 2026-08-13 15:31:36  #央行 #宏觀
-
-土耳其央行行長：正監測地緣政治局勢發展對去通脹程序的影響。
-
----
-
-### 2026-08-13 15:31:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.40% Higher — The DAX Index is up by 105 points or 0.40 percent on Thursday. Top gainers are Fresenius (1.77%), Qiagen NV (1.11%) and Commerzbank (1.04%). Biggest losses came from Brenntag (-1.60%), BASF (-1.03%) and Hannover Rueck (-0.80%).
-
----
-
-### 2026-08-13 15:31:03  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed down 0.48% at 949.2 yuan/gram on Aug 13 (Thursday); silver T+D closed down 1.32% at 15,741.0 yuan/kg.
-
----
-
-### 2026-08-13 15:30:33  #市場
-
-【著手AI成本可預見性 Compute Exchange推出詞元遠期合約】海量資金即將湧入晶片與資料中心賽道，各家企業持續大手筆投入AI技術自研，幾乎所有相關參與方都在想方設法，提升自身投入與收益的可預測性。據報道，初創算力交易平臺Compute Exchange原本業務是撮合GPU持有方與短期租用者，現在拓展同類撮合業務，推出詞元遠期合約（Token forwards）。這屬於場外私下協商合約，允許企業最長鎖定未來六個月的詞元採購價格，對沖後續AI使用成本波動風險。 詞元遠期合約的定價模式和GPU合約存在區別：GPU合約一般鎖定執行AI模型所需算力的小時單價；詞元合約則在更長週期內鎖定統一價格，交易標的也是企業日常業務真正消耗的資源。 客戶可選擇六家簽約推理服務商提供的多款主流開源權重模型。遠期合約和CME籌備的標準化場內期貨並不完全等同，但標誌著金融市場套保機制，進一步延伸到更多型別AI成本專案。
-
----
-
-### 2026-08-13 15:30:03  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.13% Higher — The CAC 40 Index is gaining 11 points or 0.13 percent on Thursday. Leading the gains are Societe Generale (1.03%), Eurofins Scientific SE (0.98%) and Accor (0.93%). Top losers are STMicroelectronics (-2.16%), Dassault Systemes (-1.68%) and TP (-0.61%).
-
----
-
-### 2026-08-13 15:29:50  #Trading Economics #Economy #Slovakia #Inflation Rate #Importance 1
-
-Slovakia Inflation Eases to 19-Month Low — Slovakia's annual inflation rate eased to 3.3% in July 2026 from 3.5% in June, remaining above market expectations of 3%. It was the lowest reading since December 2024, largely due to a deeper decline in food and non-alcoholic beverage prices (-2.1% vs -0.5%). Inflation also slowed for alcoholic beverages, tobacco and narcotics (1.8% vs 3.1%), insurance and financial services (4.6% vs 4.9%), and miscellaneous goods and services (2.6% vs 3.2%). Meanwhile, price growth accelerated for housing and utilities (7.4% vs 7.3%), transport (7.0% vs 5.3%), clothing and footwear (0.8% vs 0.6%), health (5.1% vs 4.9%), information and communication (2.2% vs 2.0%), and recreation, sport and culture (5.2% vs 4.8%). On a monthly basis, consumer prices rose 0.1%, compared with market expectations and the previous month's 0.1% decline. Core inflation, which excludes regulated prices, edged down to 1.7% from 1.9% in June, marking its lowest level since March 2021.
-
----
-
-### 2026-08-13 15:29:46  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10Y Yield Holds Near 4-Week Low — The yields on India’s 10-year G-Sec weakened to around 6.76%, hovering near four-week lows as inflation data from India and the US reinforced expectations that neither central bank is likely to raise rates soon. Market participants assessed India’s July CPI, which rose to 4.45% from 4.38% in June, below the 4.50% forecast and comfortably within the RBI’s tolerance range. Meanwhile, US annual inflation slowed to 3.4% in July from 3.5% in June, marginally reducing expectations of a Federal Reserve rate hike next month and supporting US Treasuries. However, the decline in Indian yields remained limited as Brent crude held around $88 per barrel, keeping inflation risks in focus for the world’s third-largest oil importer. The US 10-year Treasury yield also remained elevated, while market participants shifted their attention to Friday’s INR 320 billion government bond auction, which is expected to provide the next major direction for yields.
 
 ---

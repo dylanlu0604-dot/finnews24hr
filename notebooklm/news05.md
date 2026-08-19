@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-19 13:42:16_
-_本檔包含 2981 則快訊，約 610539 字_
+_更新時間：2026-08-19 14:01:48_
+_本檔包含 2975 則快訊，約 611538 字_
+
+---
+
+### 2026-08-13 15:35:30  #其他
+
+【貴州：加快5G網路、千兆光網、算力網路建設佈局】貴州資訊通訊業2026年上半年總經理座談會在貴陽召開。會議強調，高質量推進行業“十五五”發展規劃落地實施，加快5G網路、千兆光網、算力網路建設佈局，穩步推進萬兆光網試點和5G-A升級建設，提升通訊供給水平和保障能力。搶抓“人工智慧+”機遇，在賦能千行百業轉型升級上展現作為。聚焦貴州新型工業化和“六大產業叢集”，深耕“5G+工業網際網路”和“人工智慧+工業網際網路”，探索人工智慧在政務、醫療、教育、文旅等領域的創新應用，打造一批具有貴州特色的智慧化應用標杆。
+
+---
+
+### 2026-08-13 15:35:26  #公司
+
+【成都先導：股東深圳鈞天減持352.41萬股 套現1.30億元】成都先導公告稱，股東深圳鈞天原計劃於2026年5月13日至8月12日，減持不超1006.78萬股（佔總股本2.51%）。截至8月13日減持期屆滿，其完成減持352.41萬股，減持比例0.88%，減持價格35.00 - 39.03元/股，減持總金額1.30億元。減持後，深圳鈞天持有654.37萬股，佔總股本1.63%。本次減持符合相關規定，與減持計劃一致。
+
+---
+
+### 2026-08-13 15:35:23  #公司
+
+【百聯股份：籌劃終止聯華超市股權託管 尚處籌劃階段】百聯股份公告稱，公司擬與控股股東百聯集團終止對其持有的聯華超市61,416.00萬股股份（佔總股本的41.51%）的受託管理，完成後公司有權行使的聯華超市表決權比例將由56.66%降至15.15%，不再將其納入合併報表。本次交易預計構成重大資產重組，不涉及發行股份，也不會導致控股股東和實控人變更。截至公告日，公司尚未簽署相關協議，方案待論證協商，交易尚處籌劃階段，能否達成和實施存在不確定性。
+
+---
+
+### 2026-08-13 15:35:16  #MKT News
+
+Maersk CEO said elevated freight rates are caused by port congestion rather than disruptions in the Strait of Hormuz.
+
+---
+
+### 2026-08-13 15:35:03  #公司
+
+馬士基執行長：高運費源於港口擁堵，而非霍爾木茲海峽問題。
+
+---
+
+### 2026-08-13 15:34:48  #公司
+
+【恆力重工集團旗下大連造船公司增資至190億 增幅約53%】天眼查App顯示，恆力造船（大連）有限公司完成工商變更，註冊資本由124億人民幣增至190億人民幣，增幅約53%。該公司成立於2022年7月，法定代表人為安錦香，經營範圍包括非金屬船舶製造、船舶製造、船舶修理等，由恆力重工集團有限公司全資持股。
+
+---
+
+### 2026-08-13 15:34:32  #公司 #觀點
+
+【高盛：聯想集團首財季業績遠超預期，維持“買入”評級】高盛發表研報指，聯想集團2027財年首季業績遠超預期，收入同比增長43%至約270億美元，較該行及市場預期分別高出22%及20%。經調整純利同比增長176%至約11億美元，較該行及市場預測分別高出48%及68%。毛利率進一步擴張至16.5%，亦高於該行及市場預期。期內智慧裝置業務集團(IDG)收入同比增長27%至170億美元，佔總收入63%。基礎設施方案業務集團(ISG)收入同比增長98%至85億美元，佔總收入32%，AI伺服器訂單升至540億美元。高盛維持聯想的“買入”評級，目標價31港元，對應2027年預測市盈率約17.3倍。
+
+---
+
+### 2026-08-13 15:33:54  #其他
+
+哈薩克計劃發行熊貓債籌資不超過66億元，承銷商詢問投資者意向。
+
+---
+
+### 2026-08-13 15:32:57  #MKT News #Market Regions #Emerging Markets
+
+Turkey's central bank governor said the bank will deploy all available tools to combat inflation.
+
+---
+
+### 2026-08-13 15:32:47  #MKT News
+
+Turkey's central bank governor says the bank will maintain a restrictive monetary policy stance.
+
+---
+
+### 2026-08-13 15:32:43  #央行 #其他
+
+土耳其央行行長：將動用一切可用工具推進抗通脹程序。
+
+---
+
+### 2026-08-13 15:32:41  #公司
+
+【贛粵高速：2026年7月車輛通行服務收入3.27億元】贛粵高速公告稱，2026年7月公司車輛通行服務收入為326,668,893.70元，約3.27億元。其中，昌九高速收入98,567,085.27元，昌樟高速收入61,125,405.50元等。上述資料未經審計，通行服務收入含增值稅。
+
+---
+
+### 2026-08-13 15:32:36  #MKT News
+
+Turkey central bank governor said the bank is closely monitoring how geopolitical developments could affect the pace of inflation easing.
+
+---
+
+### 2026-08-13 15:32:31  #央行 #其他
+
+土耳其央行行長：將維持緊縮政策立場。
+
+---
+
+### 2026-08-13 15:32:04  #MKT News #WTI #Impact bullish #Brent
+
+【Former Iranian diplomat: US has 'fallen into Strait of Hormuz trap'】Former Iranian diplomat Abbas Khameyar said the United States has failed its "economic and military tests" against Iran and has "fallen into the Strait of Hormuz trap." He said Iran will not yield to US conditions or ambitions, that control of the Strait has become a "successful deterrent" which has altered the course of aggression and reset rules of engagement, and that the US has broken its commitments; only serious, sincere negotiations can secure compliance.
+
+---
+
+### 2026-08-13 15:32:03  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.47% Lower — The FTSE 100 Index is losing 51 points. Losses were led by Antofagasta (-5.05%), Rio Tinto (-4.56%) and Fresnillo (-3.78%). Offsetting the fall, top gainers were Scottish Mortgage (1.56%), Aviva (1.28%) and Spirax-Sarco Engineering (1.11%).
+
+---
+
+### 2026-08-13 15:32:01  #其他
+
+【吉林省延長出租從業年限，長春女駕駛員年限高出其他地區7歲】據吉林省運輸管理局2026年8月12日訊息，日前，吉林省交通運輸廳“延長出租從業年限，拓寬群眾就業渠道”工作被選入10個省級“法治為民辦實事”專案，已透過省委依法治省辦面向社會公佈，出租汽車駕駛員年齡由女55週歲、男60週歲，延長至女58週歲（長春65週歲）、男63週歲（長春65週歲）。（澎湃新聞）
+
+---
+
+### 2026-08-13 15:31:39  #公司 #國際
+
+【摩洛哥對涉華木塊芯膠合板作出反傾銷初裁】摩洛哥工業和貿易部發布第DDC/11/2026號公告，對原產於中國和印度尼西亞的木塊芯膠合板作出反傾銷初裁，建議徵收臨時反傾銷稅，其中，中國生產商/出口商稅率為82%、印度尼西亞生產商/出口商稅率為55%。涉案產品的摩洛哥稅號為44.12.51.91.00、44.12.51.99.10、44.12.51.99.21、44.12.51.99.22、44.12.51.99.28等。
+
+---
+
+### 2026-08-13 15:31:36  #央行 #宏觀
+
+土耳其央行行長：正監測地緣政治局勢發展對去通脹程序的影響。
+
+---
+
+### 2026-08-13 15:31:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.40% Higher — The DAX Index is up by 105 points or 0.40 percent on Thursday. Top gainers are Fresenius (1.77%), Qiagen NV (1.11%) and Commerzbank (1.04%). Biggest losses came from Brenntag (-1.60%), BASF (-1.03%) and Hannover Rueck (-0.80%).
+
+---
+
+### 2026-08-13 15:31:03  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D closed down 0.48% at 949.2 yuan/gram on Aug 13 (Thursday); silver T+D closed down 1.32% at 15,741.0 yuan/kg.
+
+---
+
+### 2026-08-13 15:30:33  #市場
+
+【著手AI成本可預見性 Compute Exchange推出詞元遠期合約】海量資金即將湧入晶片與資料中心賽道，各家企業持續大手筆投入AI技術自研，幾乎所有相關參與方都在想方設法，提升自身投入與收益的可預測性。據報道，初創算力交易平臺Compute Exchange原本業務是撮合GPU持有方與短期租用者，現在拓展同類撮合業務，推出詞元遠期合約（Token forwards）。這屬於場外私下協商合約，允許企業最長鎖定未來六個月的詞元採購價格，對沖後續AI使用成本波動風險。 詞元遠期合約的定價模式和GPU合約存在區別：GPU合約一般鎖定執行AI模型所需算力的小時單價；詞元合約則在更長週期內鎖定統一價格，交易標的也是企業日常業務真正消耗的資源。 客戶可選擇六家簽約推理服務商提供的多款主流開源權重模型。遠期合約和CME籌備的標準化場內期貨並不完全等同，但標誌著金融市場套保機制，進一步延伸到更多型別AI成本專案。
+
+---
+
+### 2026-08-13 15:30:03  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.13% Higher — The CAC 40 Index is gaining 11 points or 0.13 percent on Thursday. Leading the gains are Societe Generale (1.03%), Eurofins Scientific SE (0.98%) and Accor (0.93%). Top losers are STMicroelectronics (-2.16%), Dassault Systemes (-1.68%) and TP (-0.61%).
+
+---
+
+### 2026-08-13 15:29:50  #Trading Economics #Economy #Slovakia #Inflation Rate #Importance 1
+
+Slovakia Inflation Eases to 19-Month Low — Slovakia's annual inflation rate eased to 3.3% in July 2026 from 3.5% in June, remaining above market expectations of 3%. It was the lowest reading since December 2024, largely due to a deeper decline in food and non-alcoholic beverage prices (-2.1% vs -0.5%). Inflation also slowed for alcoholic beverages, tobacco and narcotics (1.8% vs 3.1%), insurance and financial services (4.6% vs 4.9%), and miscellaneous goods and services (2.6% vs 3.2%). Meanwhile, price growth accelerated for housing and utilities (7.4% vs 7.3%), transport (7.0% vs 5.3%), clothing and footwear (0.8% vs 0.6%), health (5.1% vs 4.9%), information and communication (2.2% vs 2.0%), and recreation, sport and culture (5.2% vs 4.8%). On a monthly basis, consumer prices rose 0.1%, compared with market expectations and the previous month's 0.1% decline. Core inflation, which excludes regulated prices, edged down to 1.7% from 1.9% in June, marking its lowest level since March 2021.
+
+---
+
+### 2026-08-13 15:29:46  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Holds Near 4-Week Low — The yields on India’s 10-year G-Sec weakened to around 6.76%, hovering near four-week lows as inflation data from India and the US reinforced expectations that neither central bank is likely to raise rates soon. Market participants assessed India’s July CPI, which rose to 4.45% from 4.38% in June, below the 4.50% forecast and comfortably within the RBI’s tolerance range. Meanwhile, US annual inflation slowed to 3.4% in July from 3.5% in June, marginally reducing expectations of a Federal Reserve rate hike next month and supporting US Treasuries. However, the decline in Indian yields remained limited as Brent crude held around $88 per barrel, keeping inflation risks in focus for the world’s third-largest oil importer. The US 10-year Treasury yield also remained elevated, while market participants shifted their attention to Friday’s INR 320 billion government bond auction, which is expected to provide the next major direction for yields.
 
 ---
 
@@ -17808,191 +17958,5 @@ Norway's sovereign wealth fund said its return for January–June beat its bench
 ### 2026-08-12 14:01:53  #公司 #國際
 
 【上半年中國人形機器人出貨量全球佔比超97%】最新行業研究資料顯示，今年上半年全球人形機器人出貨量總計約1.91萬臺，是去年同期5100臺的三倍多，中國人形機器人出貨量全球佔比達97%以上。在市場份額方面，智元機器人出貨量為8400臺，全球佔比44%，位列第一；宇樹科技的出貨量為5900臺，全球佔比31%，這兩家公司的出貨量遠超美國人形機器人頭部企業。另外三家中國企業銀河通用、優必選和樂聚出貨量全球佔比分別為5%、4%和3%。在用途方面，被用於工業和商業的人形機器人的數量超全球總出貨量七成，去年同期這一比例約為50%。預計今年全年全球人形機器人的出貨總量將增長至約6萬臺，到2030年將達50萬臺。 (央視財經)
-
----
-
-### 2026-08-12 14:01:43  #MKT News
-
-Norway's sovereign wealth fund posted a profit of 1,7530 billion Norwegian kroner in Jan–Jun.
-
----
-
-### 2026-08-12 14:01:27  #市場 #焦點
-
-【前7個月我國期貨市場累計成交額同比增長38.43%】記者今天（12日）從中國期貨業協會瞭解到，以單邊計算，今年1-7月全國期貨市場累計成交量為61.07億手，累計成交額為568.98萬億元，同比分別增長18.93%和38.43%。其中7月全國期貨市場成交量為10.02億手，成交額為86.28萬億元，同比分別下降5.31%和增長20.99%。（央視新聞）
-
----
-
-### 2026-08-12 14:01:11  #MKT News #Market Regions #Europe & UK #ESTX50 #Impact bullish #DAX #Impact bearish #FTSE100
-
-Euro Stoxx 50 futures rose 0.02%; DAX futures fell 0.02%; FTSE 100 futures fell 0.24%.
-
----
-
-### 2026-08-12 14:00:55  #MKT News #Important #CNH #Impact bullish #CSI300 #Copper
-
-【China auto exports 1.043 mln in July, second month above 1 mln; NEV exports 553,000】China Association of Automobile Manufacturers says July auto exports were 1,043,000 units, +0.6% MoM and +81.3% YoY. New-energy vehicle exports were 553,000 units, +5.7% MoM and +145.5% YoY.
-
----
-
-### 2026-08-12 14:00:39  #行業 #其他 #焦點
-
-【連續兩個月突破100萬輛 我國汽車出口延續強勁增長態勢】記者今天（12日）從中國汽車工業協會獲悉，7月份我國汽車出口表現亮眼，延續強勁增長態勢。 最新發布的資料顯示，今年7月份，汽車出口104.3萬輛，環比增長0.6%，同比增長81.3%。其中，新能源汽車出口55.3萬輛，環比增長5.7%，同比增長145.5%。記者注意到，自今年4月、5月連續兩個月汽車出口超過90萬輛後，6月、7月出口邁上新臺階，出口連續兩個月突破100萬輛。不僅如此，新能源汽車出口佔比已連續兩個月突破百分之五十。 中國汽車工業協會相關負責人表示，中國汽車出口之所以能夠保持高速增長，主要是中國擁有全球最完整的汽車產業鏈。從鋰礦加工、電池製造、電機電控到整車組裝，不僅產能充足、成本可控，而且供應鏈抗風險能力強。此外，我國汽車產業的智慧化形成了核心競爭力，智慧駕駛、座艙互動等功能能夠快速迭代，精準適配海外使用者的需求。 中國汽車工業協會副秘書長陳士華表示，綜合來看，當前我國汽車市場呈現出“內需承壓、外貿強勁”的特徵，出口正在成為穩住行業大盤的關鍵力量和核心增長引擎。
-
----
-
-### 2026-08-12 14:00:39  #經濟數據 #歐元區
-
-德國7月CPI環比增長0.8%，預期0.8%；7月CPI同比增長2.8%，預期2.8%。
-
----
-
-### 2026-08-12 14:00:15  #MKT News #EURUSD #DAX
-
-Germany harmonized CPI (HICP) final for July MoM 0.9% (consensus 0.9%); previous (June) 0.90%.
-
----
-
-### 2026-08-12 14:00:11  #MKT News #Important #Market Regions #Europe & UK
-
-Germany July CPI final MoM +0.8% (consensus +0.8%; prior +0.8%).
-
----
-
-### 2026-08-12 14:00:11  #MKT News #EURUSD #DAX
-
-Germany harmonized CPI (HICP) final July YoY 2.8%, in line with 2.8% expected; prior 2.80%.
-
----
-
-### 2026-08-12 14:00:11  #MKT News #Market Regions #Europe & UK
-
-Germany July CPI final y/y 2.8%, in line with consensus 2.8% and unchanged from June's 2.8%.
-
----
-
-### 2026-08-12 14:00:04  #MKT News #Economic Calendar #Important
-
-Germany | Harmonized CPI Final (MoM) (Jul) | actual 0.9% | consensus 0.9% | previous 0.90%
-
----
-
-### 2026-08-12 14:00:04  #MKT News #Economic Calendar #Important
-
-Germany | Harmonized CPI Final (YoY) (Jul) | actual 2.8% | consensus 2.8% | previous 2.80%
-
----
-
-### 2026-08-12 14:00:04  #MKT News #Economic Calendar #Important
-
-Germany | CPI Final (MoM) (Jul) | actual 0.8% | consensus 0.8% | previous 0.80%
-
----
-
-### 2026-08-12 14:00:04  #MKT News #Economic Calendar #Important
-
-Germany | CPI Final (YoY) (Jul) | actual 2.8% | consensus 2.8% | previous 2.80%
-
----
-
-### 2026-08-12 13:59:40  #其他
-
-【航行警告！東海進行軍事演練】寧波海事局釋出航行警告，8月13日7時至10時，東海部分海域進行軍事演練活動，禁止駛入。（中國海事局網站）
-
----
-
-### 2026-08-12 13:59:21  #公司 #市場
-
-【房地產板塊持續拉昇，濱江集團漲停】房地產板塊持續拉昇，濱江集團漲停，此前中交發展、榮盛發展等股漲停，招商蛇口、京能置業、特發服務跟漲。
-
----
-
-### 2026-08-12 13:59:16  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share film and cinema sector jumped; Ruyi Film hit the daily limit while Beijing Culture earlier sealed the board to record a third straight limit-up. China Film, Jinyi Film, Zhongguang Tianze, Xingfu Lanhai and Hengdian Film also rose.
-
----
-
-### 2026-08-12 13:59:14  #公司
-
-【大連重工陸上風機核心鑄件成功交付】大連重工公眾號訊息，近日，大連重工下屬鑄業公司為國內某客戶研製的15兆瓦雙饋陸上風機軸承座、底座鑄件正式下線，一次性透過客戶驗收，順利完成交付。該產品配套陸上風電機組，機組平臺採用模組化設計理念，可實現13至16兆瓦功率柔性調節，適配不同風資源稟賦；風輪直徑覆蓋240至260米，搭配135至190米高塔筒，最大掃風面積達53000平方米，整機效能指標處於全球行業頂尖水平。
-
----
-
-### 2026-08-12 13:57:04  #公司
-
-【中國航天等在杭州成立四維太空智慧科技公司，註冊資本20億】天眼查App顯示，8月8日，杭州四維太空智慧科技有限公司成立，法定代表人為常明，註冊資本20億人民幣，企業型別為其他有限責任公司。公司經營範圍含軟體開發、衛星遙感資料處理、衛星遙感應用系統整合、衛星技術綜合應用系統整合、通訊裝置製造等。股東資訊顯示，該公司由6家股東共同出資，其中杭州西湖雲創集團有限公司持股26%、中國四維測繪技術有限公司持股25%、航天投資控股有限公司持股24%、杭實創新（杭州）投資發展集團有限公司持股15%、浙江省創新數字發展有限公司及浙江省金投科創母基金三期創業投資合夥企業（有限合夥）各持股5%。
-
----
-
-### 2026-08-12 13:56:28  #市場
-
-【矽片價格正式報漲】8月12日，SMM瞭解到已有兩家頭部矽片企業陸續恢復報價，最新價格為N型矽片—183mm為0.9元/片；N型矽片—210R為1.0元/片；N型矽片—210mm為1.1元/片；矽片新一輪報價較此前上漲0.1元/片，SMM分析本輪矽片漲價與成本政策密切相關，矽片企業實際採購成本上移，對應投爐成本上升，因此矽片漲價屬情理之中。（SMM）
-
----
-
-### 2026-08-12 13:56:27  #MKT News #Important
-
-【Silicon wafer prices rise】Aug 12 — SMM said two leading N-type wafer producers have resumed quoting. Latest prices: 183mm N-type 0.9 yuan/wafer; 210R N-type 1.0 yuan/wafer; 210mm N-type 1.1 yuan/wafer. The new round of quotes is 0.1 yuan/wafer higher than previously. SMM said the rise is closely linked to cost-side policies and higher procurement costs, which have pushed up furnace processing costs.
-
----
-
-### 2026-08-12 13:55:22  #其他
-
-【廣西海洋經濟發展“十五五”規劃：建設平陸運河經濟帶】廣西壯族自治區人民政府辦公廳近日印發《廣西海洋經濟發展“十五五”規劃》，規劃提出，建設平陸運河經濟帶。以沿海、平陸運河沿線、西江航運幹線和左右江河谷沿線的33個縣（市、區）作為先導區域，強化設施聯通和產業協同，推動人口、產業及生產要素向先導區域集聚，形成全域向海發展主軸，並延伸向其他區域聯動發展，全面對接東盟和共建“一帶一路”國家，著力打造中心集聚、輻射拓展的“葉脈式”向海產業佈局。加快南寧都市圈建設，發揮南寧首府核心引領作用，以跨境金融、數字經濟、科技研發等賦能向海產業高質量發展，建設面向東盟開放合作的國際化大都市。推動平陸運河經濟帶與西江向海經濟帶、北部灣沿海經濟帶聯動發展。
-
----
-
-### 2026-08-12 13:54:52  #其他
-
-【影視板塊再度活躍 儒意電影3天2板】午後影視板塊再度活躍，儒意電影3天2板，此前北京文化3連板，中國電影、金逸影視、幸福藍海、光線傳媒跟漲。
-
----
-
-### 2026-08-12 13:54:21  #市場
-
-【白酒板塊震盪走高，今世緣漲停】白酒板塊震盪走高，今世緣漲停，迎駕貢酒、古井貢酒、捨得酒業、老白乾酒跟漲。
-
----
-
-### 2026-08-12 13:54:01  #觀點
-
-摩根士丹利將喜力目標價從78歐元上調至84歐元。
-
----
-
-### 2026-08-12 13:50:12  #國際
-
-印度證券交易委員會主席：將在10天內釋出檔案應對散戶虧損問題。
-
----
-
-### 2026-08-12 13:47:27  #公司
-
-阿拉伯鑽井公司：預計鑽井平臺恢復運營後，海上鑽井船隊利用率將在2026年第三季度末達到100%。
-
----
-
-### 2026-08-12 13:47:02  #其他
-
-大韓航空和韓亞航空獲准於12月17日合併。
-
----
-
-### 2026-08-12 13:44:02  #市場
-
-【休閒食品板塊短線拉昇，好想你漲停】休閒食品板塊短線拉昇，好想你漲停，三隻松鼠、黑芝麻、煌上煌、甘源食品、良品鋪子等紛紛走高。
-
----
-
-### 2026-08-12 13:43:55  #國際 #原創
-
-【中東局勢持續緊張，霍爾木茲海峽船隻通行量降至一週低點】航運資料顯示，週二霍爾木茲海峽被追蹤到的船舶通行數量降至一週最低水平。中東局勢持續緊張，船隻紛紛避開這條關鍵水道。Kpler資料顯示，週二進入海峽的船隻總數為八艘，低於10日均值約12艘，並創下8月5日以來的最低日統計數。其中僅有一艘煤炭運輸船駛離海峽，其餘船隻仍在透過途中。進入海峽的七艘船隻均選擇了伊朗側航線。倫敦證券交易所集團(LSEG)資料顯示，週二有11艘船隻透過海峽，低於前一天的14艘。在伊朗關閉該水道之前，通常每天約有130至140艘船隻透過該海峽。Kpler資料顯示，週二穿越紅海南端曼德海峽的船隻數量為30艘，高於10天平均值25艘。
-
----
-
-### 2026-08-12 13:42:44  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Erases Gains at Finish, Down 0.9% — New Zealand's stocks fell 123 points, or 0.9%, to close at 13,738 on Wednesday, reversing a morning gain and declining for the second straight session, touching their lowest level since August 3, tracking a decline on Wall Street overnight amid higher oil prices due to uncertainty over the reopening of the Strait of Hormuz. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Investors assessed a statement from New Zealand's Prime Minister Christopher Luxon after he survived a second confidence vote. He has underlined the need to defeat the Labour-led opposition. Materials, industrials, and financials mainly weighed on the index, with the bottom performers being Mainfreight (-3.7%), Colonial Motor (-1.7%), Westpac Banking Corp. (-1.6%), ANZ Group (-1.3%), F&C Investment (-1.3%), and Infratil (-1.2%).
 
 ---

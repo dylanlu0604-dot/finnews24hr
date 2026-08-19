@@ -1,7 +1,433 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-19 13:42:16_
-_本檔包含 2963 則快訊，約 610866 字_
+_更新時間：2026-08-19 14:01:48_
+_本檔包含 3005 則快訊，約 612547 字_
+
+---
+
+### 2026-08-19 14:01:13  #MKT News
+
+Euro STOXX 50 futures fell 0.18%, DAX futures fell 0.16%, CAC 40 futures fell 0.12% and UK FTSE 100 futures fell 0.17%.
+
+---
+
+### 2026-08-19 14:00:51  #公司
+
+【螞蟻集團成立智寶科技公司，含AI相關業務】企查查APP顯示，近日，上海螞蟻智寶科技有限公司成立，經營範圍包含：玩具、動漫及遊藝用品銷售；數字內容製作服務（不含出版發行）；人工智慧通用應用系統；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由螞蟻科技集團股份有限公司全資持股。
+
+---
+
+### 2026-08-19 14:00:50  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #SSE Composite
+
+【SAMR: 13 monopoly and abuse-of-dominance cases closed Jan–Jul】The State Administration for Market Regulation (SAMR) said it has closed 13 cases involving monopoly agreements and abuse of market dominance through July. In 1H SAMR intensified probes in public utilities, internet platforms, active pharmaceutical ingredients (APIs) and driver-training, applying case-by-case enforcement. It said it has normalized oversight of the platform economy, is conducting targeted investigations and assessments of e‑commerce platform subsidy practices and competition in food-delivery services, and is exploring measures to curb 'involution'-style excessive competition.
+
+---
+
+### 2026-08-19 14:00:48  #國際
+
+【我國牽頭制定！全球首個針對客船塗裝技術的國際標準釋出】記者今天瞭解到，國際標準化組織近期釋出全球首個專門針對客船塗裝技術的國際標準《船舶與海洋技術—客船上建塗裝技術要求》。該標準由我國牽頭，匯聚了義大利、韓國、丹麥等多國專家的經驗與智慧，標誌著我國首次在高技術船舶客船塗裝領域作出重要貢獻。（央視新聞）
+
+---
+
+### 2026-08-19 14:00:40  #資料
+
+英國7月CPI月率 0.3%，預期0.3%，前值0.10%。
+
+---
+
+### 2026-08-19 14:00:34  #資料
+
+英國7月零售物價指數月率 0.6%，預期0.80%，前值0.30%。
+
+---
+
+### 2026-08-19 14:00:29  #宏觀
+
+【市場監管總局：1至7月依法辦結壟斷協議和濫用市場支配地位案件13件】今年以來，市場監管部門依法查辦一批重大案件。截至7月，依法辦結壟斷協議和濫用市場支配地位案件13件。（央視）
+
+---
+
+### 2026-08-19 14:00:29  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK July non-seasonally adjusted Input PPI YoY 4.9% vs consensus 6.6%; prior revised to 7.4% from 7.3%.
+
+---
+
+### 2026-08-19 14:00:28  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #Impact bullish
+
+UK retail price index (RPI) July MoM +0.6% vs 0.8% forecast, prior +0.3%.
+
+---
+
+### 2026-08-19 14:00:27  #MKT News #GBPUSD
+
+UK July CPI y/y 2.9% vs 2.9% expected; June 2.6%.
+
+---
+
+### 2026-08-19 14:00:27  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #Impact bearish
+
+UK July core CPI MoM +0.2% (consensus +0.1%); June +0.3%.
+
+---
+
+### 2026-08-19 14:00:24  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+UK July unadjusted input PPI MoM -1.7% (exp 0.0%); June revised to -1.9% from -2.0%.
+
+---
+
+### 2026-08-19 14:00:24  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+UK July CPI MoM 0.3% (expected 0.3%), prior 0.1%.
+
+---
+
+### 2026-08-19 14:00:24  #MKT News #Market Regions #Europe & UK
+
+UK output PPI (not seasonally adjusted) MoM +0.2% in July, matching consensus; prior revised from 0.0% to -0.1%.
+
+---
+
+### 2026-08-19 14:00:22  #MKT News #GBPUSD #Impact bullish #FTSE100
+
+UK July Retail Prices Index (RPI) YoY 3.2% vs 3.3% expected, 3.0% prior.
+
+---
+
+### 2026-08-19 14:00:22  #MKT News #GBPUSD #Impact bullish
+
+UK July core RPI YoY 3.1%, prior 2.9%.
+
+---
+
+### 2026-08-19 14:00:22  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK July core CPI YoY 2.6% vs 2.5% expected; prior 2.6%.
+
+---
+
+### 2026-08-19 14:00:17  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK July unadjusted (NSA) core output PPI m/m 0.6%, prior 0.5%.
+
+---
+
+### 2026-08-19 14:00:17  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact bullish
+
+UK output PPI (not seasonally adjusted) YoY July 3.1% vs 3.2% expected; prior 3.5%.
+
+---
+
+### 2026-08-19 14:00:13  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK not seasonally adjusted core output PPI y/y 2.8% in July, up from 2.6% in June.
+
+---
+
+### 2026-08-19 14:00:12  #MKT News #Economic Calendar #Important
+
+United Kingdom | Retail Price Index (MoM) (Jul) | actual 0.6% | consensus 0.80% | previous 0.30%
+
+---
+
+### 2026-08-19 14:00:10  #MKT News #Economic Calendar #Important
+
+United Kingdom | CPI (MoM) (Jul) | actual 0.3% | consensus 0.3% | previous 0.10%
+
+---
+
+### 2026-08-19 14:00:10  #MKT News #Economic Calendar #Important
+
+United Kingdom | Core CPI (MoM) (Jul) | actual 0.2% | consensus 0.1% | previous 0.3%
+
+---
+
+### 2026-08-19 14:00:09  #MKT News #Economic Calendar #Important
+
+United Kingdom | Retail Price Index (YoY) (Jul) | actual 3.2% | consensus 3.3% | previous 3.00%
+
+---
+
+### 2026-08-19 14:00:09  #MKT News #Economic Calendar #Important
+
+United Kingdom | Core Retail Price Index (YoY) (Jul) | actual 3.1% | previous 2.90%
+
+---
+
+### 2026-08-19 14:00:09  #MKT News #Economic Calendar #Important
+
+United Kingdom | Core CPI (YoY) (Jul) | actual 2.6% | consensus 2.50% | previous 2.60%
+
+---
+
+### 2026-08-19 14:00:09  #MKT News #Economic Calendar #Important
+
+United Kingdom | CPI (YoY) (Jul) | actual 2.9% | consensus 2.9% | previous 2.60%
+
+---
+
+### 2026-08-19 14:00:06  #MKT News #Economic Calendar #Important
+
+United Kingdom | Core Output PPI (Unadjusted) (MoM) (Jul) | actual 0.6% | previous 0.5%
+
+---
+
+### 2026-08-19 14:00:06  #MKT News #Economic Calendar #Important
+
+United Kingdom | Input PPI (Unadjusted) (YoY) (Jul) | actual 4.9% | consensus 6.6% | previous 7.30%
+
+---
+
+### 2026-08-19 14:00:06  #MKT News #Economic Calendar #Important
+
+United Kingdom | Input PPI (Unadjusted) (MoM) (Jul) | actual -1.7% | consensus 0% | previous -2.00%
+
+---
+
+### 2026-08-19 14:00:05  #MKT News #Economic Calendar #Important
+
+United Kingdom | Core Output PPI (Unadjusted) (YoY) (Jul) | actual 2.8% | previous 2.6%
+
+---
+
+### 2026-08-19 14:00:05  #MKT News #Economic Calendar #Important
+
+United Kingdom | Output PPI (Unadjusted) (MoM) (Jul) | actual 0.2% | consensus 0.2% | previous 0.00%
+
+---
+
+### 2026-08-19 14:00:05  #MKT News #Economic Calendar #Important
+
+United Kingdom | Output PPI (Unadjusted) (YoY) (Jul) | actual 3.1% | consensus 3.2% | previous 3.50%
+
+---
+
+### 2026-08-19 13:59:44  #其他
+
+嘉士伯預計財年有機營業利潤增長4%至6%，此前預期為增長5.34%。
+
+---
+
+### 2026-08-19 13:59:17  #公司 #國際
+
+【臺積電先進封裝CoWoS產能供不應求 訂單爆滿】據報道，臺積電先進封裝CoWoS產能供不應求，訂單爆滿。傳先進封裝後段部分訂單外溢到英特爾旗下馬來西亞廠，以部分產能合作支援，服務共同大客戶，打破過往生態系慣例。除了有利臺積電前段先進製程出貨，法人也看好，與兩大業者重疊的供應鏈日月光投控、載板龍頭欣興、家登集團等可望同步沾光。業界8月18日指出，全球先進封裝產能瓶頸在後段放量速度低於前段製程，預期臺積電對更多供應廠商加入後段的產能樂見其成，可讓前段製程加速出貨。 (臺灣經濟日報)
+
+---
+
+### 2026-08-19 13:58:56  #MKT News
+
+Ukraine's anti‑corruption agency says it is conducting an operation to expose a criminal organisation composed of current and former MPs that also involves senior officials in the presidential office.
+
+---
+
+### 2026-08-19 13:58:55  #國際
+
+泰國談判代表稱，泰國尋求新途徑以結束致命的南部叛亂。
+
+---
+
+### 2026-08-19 13:58:40  #宏觀 #國際
+
+印度市場監管機構主席：我們希望支援源自印度的全球基金管理業務。
+
+---
+
+### 2026-08-19 13:58:31  #MKT News #600919.SS #Impact bullish
+
+Bank of Jiangsu shares hit an intraday record, trading up 1.71% at 11.91 yuan; market capitalization 218.5 bln yuan.
+
+---
+
+### 2026-08-19 13:58:19  #國際
+
+烏克蘭反腐敗機構表示，他們正在開展一項行動，以揪出一個由現任及前任議員操控、且有總統府高階官員牽涉其中的“犯罪組織”。
+
+---
+
+### 2026-08-19 13:57:55  #MKT News #Market Themes #The Trump Trade
+
+【US share of Indian exports steady at ~20% despite Trump tariffs】Analysis of India’s commerce ministry data shows the US accounted for roughly 20% of Indian exports in the 12 months to July, largely unchanged despite a year of punitive tariffs imposed by US president Trump. US duties on Indian goods peaked at around 50% before being reduced to 18% in February and currently sit at 10%. India has pursued trade diversification through new agreements with other partners, but no bilateral trade deal with the US has been signed after months of high-level talks.
+
+---
+
+### 2026-08-19 13:57:41  #宏觀
+
+【工信部：將推動機器人產業聚焦2個關鍵環節、4個重點行業】據央廣網，8月19日，在2026世界機器人大會開幕式上，工業和資訊化部副部長辛國斌在致辭中介紹，2025年，機器人產業規模以上企業營業收入突破3000億元，近五年年均增速超20%；今年上半年達到1655億元，同比增長24.5%。辛國斌指出，當前，全球人工智慧技術創新空前活躍。智慧機器人作為人工智慧從數字世界走向物理世界的重要載體，正在以前所未有的速度賦能千行百業、走進千家萬戶。但也要清醒看到，智慧機器人產業發展仍面臨不少挑戰，智慧化水平不高、技能作業能力不強等問題較為突出。2026年是中國“十五五”規劃的開局之年。辛國斌表示，站在新的歷史起點上，工業和資訊化部將深入貫徹落實黨中央、國務院決策部署，緊緊把握“十五五”發展機遇，以智慧化為主線，以實用化為牽引，統籌技術攻關、產業培育、場景拓展與安全治理，推動機器人產業創新發展。將聚焦核心零部件、具身智慧等關鍵環節，打通產學研用創新鏈條。鼓勵中外科研機構、企業開展聯合攻關，打造一批先進、適用、易用的智慧機器人標誌性產品。將聚焦農業、醫療、養老、應急等應用空間廣、示範效應強的重點行業，分類組織開展產用結對攻關、實地應用驗證和成熟場景推廣，以新場景大規模應用加速新技術新產品迭代升級。同時，在推動機器人技術產業向前發展的同時，注重推動技術向善、科技為民，讓機器人更好服務人的生產生活，兼顧效率提升與就業保障，實現技術進步與人的發展相得益彰。
+
+---
+
+### 2026-08-19 13:57:16  #MKT News
+
+Iranian parliament speaker Ghalibaf said Iran will take concrete steps to strengthen relations with Iraq.
+
+---
+
+### 2026-08-19 13:57:08  #市場
+
+【江蘇銀行股價創歷史新高】江蘇銀行盤中股價創歷史新高，現漲1.71%，報11.91元，總市值為2183.81億元。
+
+---
+
+### 2026-08-19 13:57:06  #國際
+
+美國銀行將美元兌人民幣的年終預測從6.7下調至6.6。
+
+---
+
+### 2026-08-19 13:56:52  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時放量585億元。
+
+---
+
+### 2026-08-19 13:55:56  #市場
+
+【芝加哥大豆期貨有望創下5月以來最長連漲紀錄】由於中西部作物考察報告結果不及預期，市場對大豆供應前景的擔憂加劇，芝加哥大豆期貨有望連續第四個交易日上漲，並創下自5月中旬以來最長連漲紀錄。芝加哥交投最活躍的大豆合約一度上漲0.7%，並帶動穀物和油籽市場走高。據Pro Farmer作物考察資料顯示，內布拉斯加州和印第安納州的大豆結莢數量均低於過去三年的平均水平；此前對俄亥俄州和南達科他州的調查結果也低於去年同期水平。
+
+---
+
+### 2026-08-19 13:54:59  #MKT News
+
+【Iran deputy communications minister says fiber access registrations quadrupled over two years】Iran’s deputy communications minister said fiber access registrations rose from 350,000 to 1,000,000 over the past two years, about a fourfold increase. He said Iran Telecom Company is advancing a network upgrade program to replace copper with fiber to boost data transmission speeds and expand coverage.
+
+---
+
+### 2026-08-19 13:54:55  #公司 #國際
+
+【伊朗：過去兩年光纖接入數量實現四倍增長】據伊朗塔斯尼姆通訊社報道，伊朗通訊部副部長表示：“ 過去兩年間，光纖接入登記數量已從35萬條增至今年的100萬條，使用者接入這一通訊技術的數量實現了四倍增長。 在光纖接入增加的同時，伊朗電信公司翻新計劃也在推進中，旨在以光纖網路替代銅纜網路，提升資料傳輸速度和通訊覆蓋係數。”
+
+---
+
+### 2026-08-19 13:54:27  #國際
+
+俄羅斯國防部：俄軍夜間擊落453架烏克蘭無人機。
+
+---
+
+### 2026-08-19 13:54:18  #MKT News
+
+Russian Defence Ministry said Russia shot down 453 Ukrainian drones overnight.
+
+---
+
+### 2026-08-19 13:54:06  #市場
+
+恒生指數收復失地；最新升0.1%，報25490.05點。
+
+---
+
+### 2026-08-19 13:53:52  #公司
+
+【江蘇神通：神通半導體真空控壓蝶閥已向國內龍頭襯底廠及光纖廠穩定批次供貨】江蘇神通近日接受機構調研時表示，在半導體領域，公司設立全資子公司神通半導體，聚焦積體電路、光伏、顯示面板等先進製造領域的精密管閥件加工製造。目前，其真空控壓蝶閥已向國內龍頭襯底廠及光纖廠穩定批次供貨，並在多家國內外頭部裝置廠商處完成驗證與匯入。
+
+---
+
+### 2026-08-19 13:52:15  #市場 #焦點
+
+南向資金淨賣出額達30億港元。
+
+---
+
+### 2026-08-19 13:52:06  #國際
+
+烏克蘭反腐機構調查高階官員。
+
+---
+
+### 2026-08-19 13:52:04  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Alphabet, Google’s parent, will for the first time sell A$5.5 bln of bonds via a Kangaroo offering.
+
+---
+
+### 2026-08-19 13:51:24  #MKT News
+
+Egypt's trade deficit widened to $7.48 billion in June.
+
+---
+
+### 2026-08-19 13:51:15  #公司 #國際
+
+谷歌母公司ALPHABET將首次透過“袋鼠式發行”（KANGAROO OFFER）出售 55 億澳元債券。
+
+---
+
+### 2026-08-19 13:51:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran singles out Persian Gulf states: verbal commitments must match actions】Iran's armed forces chief of staff said Gulf states that have publicly pledged not to allow US forces to use their territory against Iran must ensure their actions match those statements. He warned the large number of military aircraft, particularly tankers, appearing at regional bases 'without host-nation awareness' is implausible and said any assistance or facilitation to US forces will be treated as active coordination with the US military.
+
+---
+
+### 2026-08-19 13:50:30  #國際
+
+埃及6月份貿易逆差擴大至74.8億美元。
+
+---
+
+### 2026-08-19 13:50:12  #公司
+
+【多瑞醫藥等在北京成立醫藥貿易新公司】企查查APP顯示，近日，北京恆多瑞醫藥貿易有限公司成立，經營範圍包含：國內貿易代理；社會經濟諮詢服務；醫學研究和試驗發展；健康諮詢服務（不含診療服務）等。企查查股權穿透顯示，該公司由多瑞醫藥等共同持股。
+
+---
+
+### 2026-08-19 13:50:05  #MKT News #Important #GBPUSD #Impact bullish #FTSE100 #Impact bearish
+
+UK July CPI and Retail Prices Index (RPI) month-on-month data due in 10 minutes.
+
+---
+
+### 2026-08-19 13:49:53  #MKT News #Market Regions #Greater China
+
+【Beijing mayor: 1H industrial robot output +76%, service robots +2.3x】At the World Robot Conference, Beijing mayor Yin Yong said the city is prioritizing robotics, establishing an embodied-intelligence robot innovation center and five new R&D institutes. Beijing has completed a full layout of 14 key humanoid-robot components, built an OEM assembly line with 20,000 units/year capacity, and reported 1H industrial robot output up 76% and service robot output up 2.3-fold.
+
+---
+
+### 2026-08-19 13:49:52  #國際 #原創
+
+【SK海力士晶片產出推動，韓國忠清北道第二季度礦業及製造業產出同比激增近28%】韓國統計表週三公佈的資料顯示，受SK海力士等企業晶片產量大增推動，韓國忠清北道今年第二季度的礦業及製造業產出同比激增27.8%，在韓國各地區當中增速位居首位。 韓國全國第二季度礦業及製造業產出同比增長 2%。 在忠清北道，半導體和電子元件產量同比增長70.9%，領跑整體增長，這主要得益於SK海力士在該地區的生產線。
+
+---
+
+### 2026-08-19 13:47:22  #其他
+
+【殷勇：上半年北京市工業機器人、服務機器人產量分別增長76%和2.3倍】8月19日，2026世界機器人大會在京開幕。北京市市長殷勇在致辭中介紹，北京設立100億的機器人領域高精尖產業投資基金，已經帶動社會資本投入超過530億元。目前北京市擁有機器人企業近千家，7傢俱身智慧企業新晉獨角獸，數量居全國首位。殷勇指出，北京已建設具身智慧機器人創新中心和5家新型的研發機構，匯聚各類創新主體力量，強化核心技術攻關，在機器人本體、開源大腦、靈巧手等領域湧現出一大批標誌性的技術和產品。全面佈局14種人形機器人關鍵部件組成，建成年產能2萬臺的整機代工生產線。今年上半年工業機器人、服務機器人產量分別增長76%和2.3倍。殷勇表示，在各國家部委等的大力支援下，北京打造了世界機器人大會、世界人形機器人運動會、人形機器人半程馬拉松等“兩會一賽”的重要平臺。北京正是以這些標誌性的活動，引領行業規則的制定和標準的定義，機器人領域九成以上的國家標準由北京創新主體牽頭和參與編寫。（央廣網）
+
+---
+
+### 2026-08-19 13:46:58  #MKT News #Market Themes #AI Revolution
+
+【AI demand lifts 1H operating profit of South Korean listed firms nearly 350% YoY】Korea Exchange data showed KOSPI constituent firms (720 companies) posted record 1H results driven by global demand for AI semiconductors. Consolidated operating profit rose 348.5% YoY to 275 trillion won (≈$195.2bn) in Jan–Jun. Consolidated revenue rose 34.5% YoY to 1,070 trillion won. Net profit jumped 330% YoY to 2,915 trillion won.
+
+---
+
+### 2026-08-19 13:46:07  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Ends 0.5% Higher on Earnings Results Boost — New Zealand's stocks rose 63 points, or 0.5%, to close at 13,930 on Wednesday, marking their highest level since August 6 and extending gains from the previous session, mainly buoyed by gains in healthcare and communication services. Positive earnings results from some companies lifted sentiment, while investors braced for further releases. However, a downbeat session on Wall Street overnight, due to a selloff in chipmaker-related stocks, rising Treasury yields, and higher oil prices, capped gains. On the data front, New Zealand's input and output prices rose 2.9% and 1.6%, respectively, quarter-on-quarter in Q2, marking the fastest increases since Q1 2025. EBOS Group surged 8.0% after reporting a 4.7% rise in net profit for the full year ended June 30, 2026, while Fletcher Building jumped 6.2% after the company recorded a profit following a loss in the previous quarter. Meanwhile, Spark NZ rose 3.3% ahead of the release of its earnings results on Thursday.
+
+---
+
+### 2026-08-19 13:43:41  #MKT News #Market Themes #AI Revolution #US10Y #Impact bullish #S&P500 #Impact bearish #DXY
+
+【Goldman Sachs desk head: AI capex may top $1trn, crowding out non-AI economy】Goldman Sachs Delta-One desk head Rich Privorotsky warned global capital is being heavily absorbed by government financing and AI infrastructure investment. He expects annual AI capex could exceed $1 trillion and become increasingly debt-financed. With major economies still running large fiscal deficits, public spending and AI are drawing on the same capital pool, a squeeze already transmitting to the non-AI economy. Governments typically lack incentives to cut spending, so higher real rates may force more adjustment onto the private sector. Privorotsky cites large-cap re-rating as evidence—stock price action has lagged what EPS revisions alone would explain. On demand, he says fiscal stimulus was largely front-loaded, tariff-driven inventory rebuilds are mostly complete and some demand was pulled forward. As more funds flow to data centres and AI infrastructure, financing, investment and valuations in non-AI sectors could remain under pressure and market dispersion widen.
+
+---
+
+### 2026-08-19 13:43:14  #公司
+
+【京能清潔能源等成立新公司，含合同能源管理業務】企查查APP顯示，近日，北京市平谷區馬昌營清潔能源有限公司成立，經營範圍包含：儲能技術服務；合同能源管理；熱力生產和供應；資訊科技諮詢服務；光伏裝置及元器件製造等。企查查股權穿透顯示，該公司由京能清潔能源等共同持股。
+
+---
+
+### 2026-08-19 13:43:13  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【MIIT vice minister Xin Guobin: 1H robot industry revenue 165.5 bln yuan, +24.5% YoY; 2025 above 300 bln yuan】At the World Robot Conference opening, MIIT vice minister Xin Guobin said 2025 revenue for China’s robot industry enterprises above designated size exceeded 300 bln yuan, with a five‑year CAGR above 20%. 1H revenue reached 165.5 bln yuan, up 24.5% YoY. The ministry will target agriculture, medical, elderly care and emergency response, organizing industry‑user pairing, field application trials and promotion of mature scenarios to drive large‑scale deployment and accelerate iteration of new technologies and products.
+
+---
+
+### 2026-08-19 13:43:05  #公司 #國際 #原創
+
+【AI需求推動，韓國上市公司上半年合併營業利潤同比飆升近350%】週三公佈的資料顯示，今年上半年，韓國上市企業實現了創紀錄的盈利，主要受全球對人工智慧所用半導體的旺盛需求拉動。 根據韓國交易所釋出的資料，在1月至6月期間，韓國綜合股價指數（KOSPI）成分股上市公司720家企業的合併營業利潤同比增長348.5%，達到275萬億韓元（約合1952億美元）。其合併營收同比增長34.5%，達1070萬億韓元，淨利潤則飆升330%，達到2915萬億韓元。
 
 ---
 
@@ -17715,179 +18141,5 @@ Palm Oil Hits Over 4-Month High Above MYR 4,800 — Malaysian palm oil futures e
 ### 2026-08-18 11:34:53  #MKT News #Important #SSE Composite #Impact bearish #SZSE Component
 
 【A-shares midday: ChiNext down 1.3%; grain and seed stocks extend rally】A-share indices opened lower, rallied briefly then slid; at midday the Shanghai Composite fell 0.39%, the Shenzhen Composite dropped 1.09% and the ChiNext index eased 1.3%. Turnover across Shanghai and Shenzhen was 1.64 trillion yuan, up 139.3 billion yuan from the prior session. More than 3,900 stocks were down. Grain-related names extended gains, with genetically modified/seed stocks leading—several seed producers including Qiule Seed, Nongfa Seed, Jingliang Holdings, Wanxiang Denong, Denghai Seed and Yasheng Group hit daily limits. Pork names were active: Luoniushan posted a second consecutive limit-up and Tianbang Foods hit the limit. Fertilizer, dairy and glass-substrate sectors outperformed. AI-related names underperformed, with Daheng Technology, Zhongguang Tianze and Kaipu Cloud among decliners. Compute-rental names plunged; Hongbo fell over 9%, and Xingyun Technology, Jinkai New Energy, Huijin and Qunxing Toys each fell more than 5%. Software development, cloud office and gaming sectors were also among the day’s laggards.
-
----
-
-### 2026-08-18 11:34:41  #公司
-
-【深圳市與中國電信簽署戰略合作框架協議】據深視新聞，8月18日，深圳市人民政府與中國電信集團有限公司簽署戰略合作框架協議。根據協議，雙方將在新型基礎設施建設、人工智慧、衛星通訊、城市數字化治理等領域開展深度合作。當天，現場還見證了深圳市機場（集團）有限公司與中國電信集團投資有限公司簽署合作備忘錄。
-
----
-
-### 2026-08-18 11:34:16  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-【ING: US-Iran truce expiry to prolong bearish tone in US Treasury market】US Treasury Department data show foreign holdings of US Treasuries fell to $9.299 trillion in June from $9.371 trillion in May, though holdings are still up 2.3% YoY. Japan remains the largest non-US holder but cut holdings 2.3% to $1.116 trillion (well below the Nov 2021 peak of $1.325 trillion). Foreign investors net sold about $72 billion of Treasuries in June; Japan, China and some custody centres were net sellers while Canada, Belgium and Switzerland were net buyers. Foreigners have been net sellers of $56 billion over the past three months but net buyers of $205 billion over the past 12 months; total US inflows including equities were $173 billion in June. ING says with the 60-day US‑Iran truce due to expire unresolved and ongoing heavy corporate issuance, the Treasury market bias remains bearish and could drive yields higher. ING attributes recent real-yield rises to a reversion toward pre‑global‑financial‑crisis norms rather than market dislocation. In the euro area, ECB balance-sheet runoff is tightening liquidity, reinforcing a structural bearish case for German Bunds.
-
----
-
-### 2026-08-18 11:33:43  #其他
-
-【北京：1-7月，全市市場總消費額同比增長1.8%】據北京市統計局訊息，1-7月，全市房地產開發投資同比下降11.6%，房屋施工面積9356.9萬平方米，下降6.3%，其中住宅施工面積4684.9萬平方米，下降5.3%。全市商品房銷售面積609.1萬平方米，同比增長1.4%，其中，住宅銷售面積447.7萬平方米，增長14.9%，保障性住宅是主要帶動因素。1-7月，全市市場總消費額同比增長1.8%。其中，服務性消費額增長4.6%，資訊、交通、體育等領域較快增長；實現社會消費品零售總額7517.5億元，下降2%，降幅比上半年收窄0.2個百分點。社會消費品零售總額中，按消費形態分，商品零售6776.6億元，下降2.3%；餐飲收入740.9億元，增長0.6%。
-
----
-
-### 2026-08-18 11:33:29  #MKT News #Market Regions #Greater China
-
-【Beijing Jan–Jul: total market consumption +1.8% YoY】Beijing statistics bureau: Jan–Jul real estate development investment -11.6% YoY. Total housing construction area 93.57 mln sqm, -6.3% YoY; residential construction 46.85 mln sqm, -5.3% YoY. Commodity housing sales area 6.091 mln sqm, +1.4% YoY; residential sales area 4.477 mln sqm, +14.9% YoY, led by affordable housing. Jan–Jul total market consumption +1.8% YoY; services consumption +4.6%, with faster growth in information, transport and sports. Retail sales of consumer goods 751.75 bln yuan, -2.0% YoY (decline narrowed 0.2ppt vs 1H); goods retail 677.66 bln yuan, -2.3%; catering revenue 74.09 bln yuan, +0.6%.
-
----
-
-### 2026-08-18 11:32:45  #其他
-
-【千問團隊啟動校園招聘，開放25類崗位】8月18日，據千問大模型訊息，千問（Qwen）團隊啟動校園招聘，向全球高校在讀學生髮出正式邀請。據介紹，本次招聘開放25類崗位，幾乎覆蓋大模型研發的完整鏈路，包括基模前沿演算法、預訓練、Infra、後訓練、多模態、Agent、AI 安全、AI for Science/Engineering等。
-
----
-
-### 2026-08-18 11:32:19  #MKT News #DXY #Impact bearish #USDJPY #EURUSD #Impact bullish
-
-Traders say the Reserve Bank of India may sell dollars to limit rupee depreciation.
-
----
-
-### 2026-08-18 11:32:14  #市場
-
-納斯達克100指數期貨下跌0.8%。
-
----
-
-### 2026-08-18 11:31:27  #MKT News
-
-【China government bond futures morning session close】2-year (TS) most-active contract rose 0.03%, 5-year (TF) rose 0.07%, 10-year (T) rose 0.09%, 30-year (TL) rose 0.34%.
-
----
-
-### 2026-08-18 11:31:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-【Stock index futures morning close】CSI 300 index futures (IF) most-active contract fell 1.02%; SSE 50 index futures (IH) fell 0.85%; CSI 500 index futures (IC) fell 1.20%; CSI 1000 index futures (IM) fell 1.17% at the morning session close.
-
----
-
-### 2026-08-18 11:31:18  #市場 #焦點
-
-南向資金淨買入額達70億港元。
-
----
-
-### 2026-08-18 11:31:10  #公司
-
-【大元泵業：公司具備多年遮蔽泵製造和溫控技術積累 目前已與國內、北美等地區部分客戶開展接觸】大元泵業近日在電話會議上表示，溫控業務行業自去年底至今年上半年逐步呈現出較為明確的需求趨勢，尤其是北美市場液冷相關需求有所上升，能效要求提升帶動相關產品應用空間擴大。公司具備多年遮蔽泵製造和溫控技術積累，目前已與國內、北美等地區部分客戶開展接觸。基於現有產品線佈局及技術儲備，公司具備一定卡位優勢，目前在穩步推進相關拓展工作。現階段相關行業仍處於早期階段，相關業務對收入貢獻很小。
-
----
-
-### 2026-08-18 11:31:07  #公司 #市場 #A股
-
-【午評：創業板指衝高回落跌1.3%，種業及糧食概念股集體爆發】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.39%，深證成指跌1.09%，創業板指跌1.3%，北證50漲2.09%，科創50指數跌0.71%。全市場成交額16494億元，較上日放量1424億元，全市場超3900只個股下跌。板塊題材上，轉基因、種植業與林業、糧食概念、豬肉、油氣開採及服務板塊漲幅居前；算力租賃、AI語料、雲辦公、軟體開發、遊戲板塊跌幅居前。盤面上，受“厄爾尼諾現象”來襲的影響，糧食概念板塊大漲，金健米業、農發種業、京糧控股、黑芝麻等股漲停，秋樂種業一度30cm漲停，康農種業、神農種業、大北農漲幅居前。豬肉板塊表現活躍，天邦食品、羅牛山漲停，大禹生物、傲農生物、新希望漲幅居前。油氣開採及服務板塊高開震盪，海油工程、科力股份、石化油服漲幅居前。算力租賃板塊低開低走，鴻博股份、行雲科技、匯金股份跌幅居前。軟體開發板塊亦走勢疲軟，大恆科技、迪普科技、綠盟科技領跌。
-
----
-
-### 2026-08-18 11:31:02  #MKT News #Important #Commodities #Energy #Industrial Metals #Market Regions #Greater China #WTI #Impact bullish #Copper #Impact bearish
-
-At the morning close, China's most-active futures were mixed. Energy and petrochemicals led gains: Shanghai crude (SC) up over 5%, liquefied petroleum gas (LPG) near 5%, fuel oil above 4%; low-sulfur fuel oil (LU), ethylene glycol (EG) and synthetic rubber rose over 3%, benzene nearly 3%. Lagging were metals and other industrials: Shanghai tin, international copper, Shanghai copper and polysilicon fell more than 1%; Shanghai zinc, industrial silicon and egg futures were down about 1%.
-
----
-
-### 2026-08-18 11:30:57  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 decline widened to 2%.
-
----
-
-### 2026-08-18 11:30:56  #其他
-
-日經225指數跌幅擴大至2%。
-
----
-
-### 2026-08-18 11:30:04  #國際
-
-莫斯科州州長稱，俄羅斯電商Wildberries倉庫遭無人機襲擊。
-
----
-
-### 2026-08-18 11:30:03  #市場
-
-【商品期貨早盤收盤】液化石油氣連續漲4.84%，燃料油連續漲4.18%，上海原油連續漲4.09%，低硫燃料油連續漲3.46%，乙二醇連續漲3.16%，丁二烯橡膠連續漲3.11%，純苯連續漲2.80%，燒鹼連續漲2.75%，豆二連續漲2.69%，瀝青連續漲2.24%。
-
----
-
-### 2026-08-18 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續跌1.16%， 滬深300指數期貨連續跌1.02%， 中證500指數期貨連續跌1.20%， 上證50指數期貨連續跌0.86%。
-
----
-
-### 2026-08-18 11:30:02  #市場
-
-【國債期貨早盤收盤】 30年期主力合約漲0.35%， 10年期主力合約漲0.09%， 5年期主力合約漲0.07%， 2年期主力合約漲0.03%。
-
----
-
-### 2026-08-18 11:28:04  #MKT News #Market Regions #Greater China #Copper #Impact bullish
-
-【Sichuan pushes unmanned logistics expansion, green logistics upgrade】Sichuan provincial government office issued implementation opinions to accelerate integration of corridor, logistics and data networks and to orderly expand unmanned logistics across urban-rural delivery, trunk transport, park short‑haul, warehousing/sorting and loading operations. The plan promotes air‑ground smart coordination scenarios combining unmanned vehicles and drones and mixed manned‑vehicle/drone operations. It prioritises supply chains for lithium batteries, PV modules and new‑energy vehicles and calls for government‑market collaboration to build carbon emissions accounting and carbon‑footprint management systems, guiding firms to establish carbon‑asset management and participate in carbon trading to drive green transformation across production, distribution and consumption.
-
----
-
-### 2026-08-18 11:27:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-【DBS says BOJ could speed up hikes to every 3-4 months】DBS Group Research says the Bank of Japan could accelerate its rate-hike cadence from about one every six months to one every 3–4 months. DBS has moved its expected next BOJ hike forward to September and forecasts two further hikes in Q1 and Q2 2027, taking the overnight call rate to 1.75% by mid-2027. Analysts note BOJ rhetoric has turned more hawkish and the government appears less opposed to earlier tightening. DBS raises Japan GDP forecasts to 0.9% for 2026 (from 0.5%) and 1.0% for 2027 (from 0.5%).
-
----
-
-### 2026-08-18 11:26:44  #其他
-
-【四川：有序推進無人物流培育拓展 積極推進綠色物流轉型升級】四川省人民政府辦公廳近日印發《關於加快推進通道網、物流網、數聯網“三網”融合的實施意見》，意見提出，有序推進無人物流培育拓展。在城鄉配送、幹線運輸、園區短駁、倉儲分揀、裝卸搬運等領域，有序拓展無人物流場景。積極培育“無人車+無人機”“有人車+無人機”空地智慧協同場景。積極推進綠色物流轉型升級。依託骨幹物流通道、綠色氫路、零碳運輸走廊，完善充換電站、加氫站等補能網路，推動新能源重卡規模化應用。支援打造零碳貨運樞紐。重點瞄準鋰電池、光伏元件、新能源汽車等“新三樣”產品，推動政府與市場協同構建碳排放核算與碳足跡管理體系，引導企業建立碳資產管理體系並參與碳交易，帶動生產、流通、消費全行業綠色低碳轉型。
-
----
-
-### 2026-08-18 11:25:47  #市場 #焦點
-
-燒鹼連續主力合約日內漲3%，現報1951.00元。
-
----
-
-### 2026-08-18 11:23:45  #市場 #焦點
-
-紐約期金失守4450美元/盎司，日內跌0.53%。
-
----
-
-### 2026-08-18 11:22:53  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Falls in Broad Metals Retreat — Silver dropped toward $65 an ounce on Tuesday, reversing earlier gains amid a broad pullback across the metals market as investors locked in profits following a strong rally. Metals also faced pressure from rising oil prices, which kept inflationary risks and interest rate concerns in focus. The moves came as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Meanwhile, silver continued to find support from fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Silver also remained supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles, and artificial intelligence data center infrastructure.
-
----
-
-### 2026-08-18 11:22:49  #其他
-
-【四川：積極參與長江經濟帶多式聯運分散式協同資料鏈建設 打造“滬川多式聯運分散式資料服務中心”】四川省人民政府辦公廳近日印發《關於加快推進通道網、物流網、數聯網“三網”融合的實施意見》，意見提出，推動物流要素資料開放互聯。積極參與長江經濟帶多式聯運分散式協同資料鏈建設，打造“滬川多式聯運分散式資料服務中心”。制定省級物流公共資料共享開放清單並動態更新，開展面向場景應用的政務資料共享，依法合規推動物流公共資料有序開放。規範開展物流領域公共資料授權運營，擴大急用先行資料供給。支援物流企業、平臺企業等協同共建物流行業可信資料空間，建立健全企業資料採集、提取、應用、保護等機制，探索企業間資料共享共贏模式，促進物流資料流通利用。支援成都紮實推進物流資料開放互聯試點，探索建立公益性和市場化有機結合的物流資料流通利用機制。
-
----
-
-### 2026-08-18 11:22:03  #MKT News
-
-【Sichuan launches action to attract and cultivate leading modern logistics firms】Sichuan provincial government office issued guidance to accelerate integration of transport corridors, logistics networks and data networks and to launch an action to recruit and cultivate leading modern logistics firms. The policy seeks to attract large domestic and international logistics and supply‑chain companies to set up regional headquarters and marketing centers in Sichuan, and encourages consolidation via M&A and equity partnerships. It mandates a joint-growth program linking transport-logistics firms and manufacturers to develop regionally competitive integrated logistics providers in multimodal transport, supply‑chain services and international logistics. The guidance also directs firms to accelerate upgrades to intelligent, green facilities and to expand into smart logistics, cold‑chain and unmanned logistics and other specialized, innovative niches.
-
----
-
-### 2026-08-18 11:21:45  #其他
-
-【四川：實施現代化物流龍頭企業招引培育行動】四川省人民政府辦公廳近日印發《關於加快推進通道網、物流網、數聯網“三網”融合的實施意見》，意見提出，實施現代化物流龍頭企業招引培育行動。推動國際國內大型現代物流與供應鏈企業在川設立區域總部、營銷中心。鼓勵大中型物流企業透過兼併重組、股權合作等方式進行資源整合，實施交通物流企業和生產製造企業“共同成長計劃”，在多式聯運、供應鏈服務、國際物流等領域形成一批具有區域競爭力的“綜合物流整合商”。引導企業大力推進現代化智慧綠色設施裝置更新迭代，加快向智慧物流、冷鏈物流、無人物流等專精特新方向發展。
-
----
-
-### 2026-08-18 11:21:23  #MKT News
-
-【Sichuan to back Chengdu in boosting international logistics capacity and standards】Sichuan provincial government issued implementation opinions to accelerate integration of corridor, logistics and data networks and to build an efficient, resilient modern logistics service network. The plan directs support for Chengdu to upgrade international logistics service capacity, reinforce its role as a national logistics hub and a national backbone cold‑chain logistics base, and deepen efforts to shore up and strengthen national comprehensive freight hubs. It calls for accelerating Chengdu’s development as a global international postal and express hub and improving hub connectivity, transfer and aggregation functions. Authorities will boost operating efficiency of China‑Europe (Asia) freight trains, Western Land‑Sea New Corridor trains, Yangtze River trains, Greater Bay Area trains and northbound trains; enhance logistics organization along Beijing–Kunming, Chengdu–Chongqing and riverside corridors; and strengthen supply‑assurance capacity on strategic routes to Xinjiang and Tibet. The plan mandates a province‑wide single logistics network map aligned with industry clusters, trade flows and tourism consumption, accelerates construction of Belt and Road import‑export commodity distribution centers and specialty import hubs (eg, salmon, durian), and speeds up smart port construction and customs facilitation to improve clearance convenience.
 
 ---
