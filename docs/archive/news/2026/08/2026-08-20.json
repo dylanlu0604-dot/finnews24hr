@@ -1,7 +1,37 @@
 {
   "date": "2026-08-20",
-  "count": 1128,
+  "count": 1132,
   "items": [
+    {
+      "id": "5049092",
+      "time": "2026-08-20 13:41:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞聲科技：上半年收入145.1億元，同比增長8.9%】瑞聲科技8月20日在港交所公告，上半年收入再創新高至人民幣145.1億元，同比增長8.9%，其中聲學及電磁傳動業務、車載聲學業務以及散熱業務貢獻主要增量。集團毛利率為22.4%，同比提升1.7個百分點，主要得益於更優的產品結構以及更高的運營效率。呈報淨利潤同比增長2.9%至人民幣9.01億元，而剔除與公允價值損益相關的其他收益及損失後，2026年上半年淨利潤的增長率為37.4%。"
+    },
+    {
+      "id": "mkt:01a01db0-4ab1-7aab-90a9-90ebcbbdc774",
+      "time": "2026-08-20 13:41:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share semiconductor materials sector extended losses; Shanghai Silicon Industry dropped over 8%, with Xi'an Yicai, Youyan Silicon, Youyan New Materials and Kaide Quartz also down."
+    },
+    {
+      "id": "5049091",
+      "time": "2026-08-20 13:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全總：8月起將以電商主播為重點在10城開展建會入會試點工作】8月20日，中華全國總工會召開第三季度新聞釋出會，通報工會工作階段性成效。全國總工會副主席、書記處書記、新聞發言人鄭玄波表示，電商主播作為近些年湧現的新就業形態勞動者群體，同樣也是工會組織關注和服務的物件。為穩妥推進這一群體的建會入會工作，全國總工會黨組經認真研究，遴選了10個城市開展相關試點工作。目的是想透過先行先試總結可複製、可推廣的經驗做法，為在全國層面規範推進電商主播建會入會工作打下重要基礎。“今年8月起，全國總工會將以電商主播為重點，在浙江省杭州市等10個城市開展建會入會工作。”（澎湃新聞）"
+    },
     {
       "id": "mkt:01a01dad-9d23-7aab-90a9-8d7f8f9d7f4d",
       "time": "2026-08-20 13:38:32",
@@ -10,6 +40,14 @@
         "Important"
       ],
       "text": "Afternoon A-share session retreated: Shanghai Composite slipped into negative territory, Shenzhen Composite Index +0.2%, ChiNext +0.11%; more than 3,700 stocks advanced."
+    },
+    {
+      "id": "5049090",
+      "time": "2026-08-20 13:38:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大股指午後回落，滬指翻綠，深證成指現漲0.2%，創業板指漲0.11%，全市場超3700只個股上漲。"
     },
     {
       "id": "5049089",
