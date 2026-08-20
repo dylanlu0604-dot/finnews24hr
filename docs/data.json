@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-20 09:52:10",
-  "count": 15680,
+  "updated": "2026-08-20 09:56:08",
+  "count": 15681,
   "items": [
+    {
+      "id": "5048894",
+      "time": "2026-08-20 09:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "王興興：真實人類資料對訓練人形機器人至關重要。"
+    },
+    {
+      "id": "mkt:01a01ce0-5ac7-7aab-90a6-da984de99470",
+      "time": "2026-08-20 09:54:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Beijing Yizhuang to accelerate 100,000‑unit scale mass production of embodied‑intelligence robots】At the World Robot Conference in Beijing Yizhuang on Aug. 19, Li Quan, committee member and deputy director of the Beijing Economic‑Technological Development Area management committee, unveiled \"Beijing Jiyu,\" a plan for a human‑machine integrated embodied‑intelligence society. Beijing Yizhuang said it will speed development of 100 commercially deployable specialist robot models and push applications across 1,000 niche use cases; accelerate mass production of embodied‑intelligence robots at a 100,000‑unit scale; and build production capacity for 1 million sets of key core components."
+    },
+    {
+      "id": "5048893",
+      "time": "2026-08-20 09:54:12",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "黃金概念持續走高，赤峰黃金漲停，興業銀錫、寶鼎科技、深中華A此前漲停，盛達資源、招金黃金、山東黃金漲超9%，曉程科技、潮宏基、中金黃金等跟漲。"
+    },
+    {
+      "id": "mkt:01a01ce0-364e-7aab-90a6-d6c066a0cb35",
+      "time": "2026-08-20 09:54:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China A-share gold sector continued to rally. Chifeng Gold hit the daily limit; Xingye Silver-Tin, Baoding Technology and Shen Zhonghua A earlier hit the limit. Shengda Resources, Zhaojin Gold and Shandong Gold rose more than 9%. Xiaocheng Technology, Chaohongji and Zhongjin Gold also gained."
+    },
+    {
+      "id": "5048892",
+      "time": "2026-08-20 09:53:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京亦莊：將加快實現10萬臺套級具身智慧機器人規模量產】據“北京亦莊”公眾號訊息，8月19日，2026世界機器人大會在北京亦莊開幕。在“開放合作”主論壇上，北京經開區工委委員、管委會副主任李全釋出“北京機域”——人機共融具身智慧新社會建設構想。北京亦莊將加快打造100款可實際落地的特色機器人產品，推動其在1000種細分領域實現應用；加快實現10萬臺套級具身智慧機器人規模量產，形成100萬套關鍵核心零部件生產能力。"
+    },
+    {
+      "id": "5048891",
+      "time": "2026-08-20 09:53:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【藥明康德盤中漲超5%】A股藥明康德盤中漲5.0%，現報172.20元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203847403059",
+      "time": "2026-08-20 09:53:27",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本7月晶片等電子部件出口同比增長49.1%】日本財務省資料顯示，日本7月晶片等電子部件出口同比增長49.1%，半導體制造裝置出口同比增長40.9%。"
+    },
+    {
+      "id": "5048890",
+      "time": "2026-08-20 09:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "王興興：在生產線上已實現“用機器人生產機器人”。"
+    },
+    {
+      "id": "mkt:01a01cde-5c89-7aab-90a6-ce5b0e7a7bf3",
+      "time": "2026-08-20 09:52:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid-robot theme weakened again: Zhongda Lide and Zhengyu Industrial hit daily down-limits for a second straight day, Yushu Technology fell more than 15%, and Jintuo, Wolong Electric Drive, Estun and Shangwei New Materials each tumbled over 7%."
+    },
     {
       "id": "5048889",
       "time": "2026-08-20 09:50:00",
@@ -143760,82 +143849,6 @@
         "Hang Seng Tech Index"
       ],
       "text": "Hang Seng Index turned positive intraday; Hang Seng Tech Index up 0.46%."
-    },
-    {
-      "id": "5038440",
-      "time": "2026-08-13 09:55:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【豐田等日本企業在美遭消費者起訴，要求返還特朗普退稅費用】8月13日，據報道，包括豐田汽車、任天堂、索尼集團以及迅銷在內的日本企業美國子公司，近期相繼遭美國消費者起訴。原告稱，相關企業將“對等關稅”成本轉嫁至商品價格，在美國最高法院認定該關稅違法並啟動約1660億美元關稅退還後，企業若獲得退款卻未向消費者返還相應款項，將構成不當得利。"
-    },
-    {
-      "id": "5038439",
-      "time": "2026-08-13 09:55:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【文化傳媒板塊大幅拉昇，讀客文化20cm漲停】文化傳媒板塊大幅拉昇，讀客文化20cm漲停，風語築、引力傳媒、省廣集團、出版傳媒漲停，易點天下、中信出版、果麥文化跟漲。"
-    },
-    {
-      "id": "mkt:019ff8d4-6731-7aab-9016-ab99a2ca8a54",
-      "time": "2026-08-13 09:54:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "03308.HK",
-        "Impact bullish",
-        "01191.HK",
-        "06869.HK"
-      ],
-      "text": "Hong Kong-listed optical-communications stocks firmed: 03308.HK rose over 5%, 01191.HK rose over 3%; 06869.HK (Yangtze Optical Fibre & Cable) and 01347.HK also advanced."
-    },
-    {
-      "id": "5038438",
-      "time": "2026-08-13 09:54:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【創新藥概念震盪走高 譽衡藥業5天4板】創新藥概念震盪走高，譽衡藥業5天4板，科拓生物、百普賽斯、熱景生物、君實生物跟漲。"
-    },
-    {
-      "id": "5038437",
-      "time": "2026-08-13 09:54:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股大眾出版板塊異動拉昇】讀客文化、出版傳媒觸及漲停，中信出版、中國科傳、中國出版、中文線上、榮信文化跟漲。"
-    },
-    {
-      "id": "mkt:019ff8d3-1b94-7aab-9016-a7c3c3885240",
-      "time": "2026-08-13 09:53:32",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share dairy sector rallied intraday; Yiming Food hit the daily limit, with Huang's Group earlier at the limit. Panda Dairy, Pinwo Food, Tianrun Dairy, Sunshine Dairy and Western Pastoral also advanced."
-    },
-    {
-      "id": "5038436",
-      "time": "2026-08-13 09:53:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【關志鷗會見中國船舶集團董事長徐鵬】據湖北日報，8月12日下午，湖北省委書記關志鷗在武漢會見中國船舶集團有限公司黨組書記、董事長徐鵬。關志鷗說，中船集團是我國船舶工業發展的國家隊、主力軍。希望集團充分發揮龍頭企業帶動作用，進一步與湖北在戰略科技力量建設、科研成果轉化、綠色智慧船舶和應急特種裝備製造等領域深化合作，推動科技創新和產業創新深度融合，助力湖北爭做高質量發展“優等生”。我們將全力做好服務保障，支援中船集團等各類企業在鄂實現更好發展。"
-    },
-    {
-      "id": "5038435",
-      "time": "2026-08-13 09:52:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【八仙票房破15億】據燈塔專業版實時資料，截至8月13日9時51分，影片《八仙！》票房突破15億。"
     }
   ]
 }
