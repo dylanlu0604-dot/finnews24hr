@@ -1,7 +1,284 @@
 {
   "date": "2026-08-20",
-  "count": 633,
+  "count": 662,
   "items": [
+    {
+      "id": "mkt:01a01cb2-3a60-7aab-90a5-24229aa34e51",
+      "time": "2026-08-20 09:03:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,500/oz, down 0.51% intraday."
+    },
+    {
+      "id": "5048801",
+      "time": "2026-08-20 09:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【不滿高市消極應對，日本前防衛大臣要求高市嚴正抗議美國製裁赤根智子】據日本共同社、《朝日新聞》8月20日報道，針對美國政府制裁國際刑事法院（ICC）院長赤根智子一事，日本首相高市早苗的消極態度受到日本輿論抨擊。自民黨籍眾議員、前防衛大臣中谷元就此發表緊急宣告，要求高市就制裁赤根智子一事向美國政府提出嚴正抗議。（環球網）"
+    },
+    {
+      "id": "mkt:01a01cb1-3ec4-7aab-90a5-1c33c788f902",
+      "time": "2026-08-20 09:02:52",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【ACFTU '15th Five-Year' plan targets delivery riders and gig workers' rights】The All-China Federation of Trade Unions on the 20th released its '15th Five-Year' work plan, directing sustained efforts over the next five years to organize, enroll and protect workers in new forms of employment—notably delivery riders—and provide targeted services. The plan orders unions to strengthen rights protection and employment management for gig workers and to promote platform companies' participation in collective bargaining to achieve mutually beneficial outcomes between platforms and new-form workers."
+    },
+    {
+      "id": "5048800",
+      "time": "2026-08-20 09:02:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數站上6800點，日內漲5.24%。"
+    },
+    {
+      "id": "mkt:01a01cb1-3328-7aab-90a5-115b163508eb",
+      "time": "2026-08-20 09:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI rose above 6,800 points, up 5.24% intraday."
+    },
+    {
+      "id": "5048799",
+      "time": "2026-08-20 09:02:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4500美元/盎司，日內跌0.55%。"
+    },
+    {
+      "id": "5048798",
+      "time": "2026-08-20 09:01:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4560美元/盎司，日內漲0.32%。"
+    },
+    {
+      "id": "mkt:01a01cb0-0989-7aab-90a5-0bf83ece69a7",
+      "time": "2026-08-20 09:01:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China fuel oil front-month futures rallied 4.00% intraday to 4,383 yuan/ton."
+    },
+    {
+      "id": "5048797",
+      "time": "2026-08-20 09:01:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞吉隆坡綜合指數開盤變化不大，報1732.11。"
+    },
+    {
+      "id": "mkt:01a01caf-bd96-7aab-90a5-068a4172a4ec",
+      "time": "2026-08-20 09:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) opened up 372.73 points, or 0.83%, at 45,092.08 on Aug. 20 (Thursday)."
+    },
+    {
+      "id": "5048796",
+      "time": "2026-08-20 09:01:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數開盤下跌0.4%，至5670.24點。"
+    },
+    {
+      "id": "5048795",
+      "time": "2026-08-20 09:01:00",
+      "tags": [
+        "資料",
+        "其他",
+        "焦點"
+      ],
+      "text": "中國7月Swift人民幣在全球支付中佔比 3.1%，前值3.10%。"
+    },
+    {
+      "id": "mkt:01a01caf-815f-7aab-90a4-fe5f9c993116",
+      "time": "2026-08-20 09:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's renminbi accounted for 3.1% of global SWIFT payments in July, versus 3.10% previously."
+    },
+    {
+      "id": "mkt:01a01caf-343d-7aab-90a4-f4539c6d53d4",
+      "time": "2026-08-20 09:00:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【One-year and five-year LPR unchanged】The PBOC left the one-year and five-year loan prime rates (LPR) unchanged at 3.00% and 3.50%, respectively."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608203847063274",
+      "time": "2026-08-20 09:00:37",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。"
+    },
+    {
+      "id": "mkt:01a01caf-272f-7aab-90a4-eec0ef8dea5c",
+      "time": "2026-08-20 09:00:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "On Thursday Aug. 20, Shanghai Gold Exchange gold T+D rose 3.11% to 973.28 yuan/gram in early trade; silver T+D gained 5.15% to 16,204.0 yuan/kg."
+    },
+    {
+      "id": "5048794",
+      "time": "2026-08-20 09:00:34",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。"
+    },
+    {
+      "id": "5048793",
+      "time": "2026-08-20 09:00:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【富時中國A50指數期貨盤初漲0.50%】富時中國A50指數期貨在上一交易日夜盤收漲0.39%的基礎上高開，盤初漲0.50%。"
+    },
+    {
+      "id": "mkt:01a01cae-faaa-7aab-90a4-e3cff3c6f779",
+      "time": "2026-08-20 09:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China 5-year Loan Prime Rate (LPR) 3.50% as of Aug 20; expected 3.50%, prior 3.50%."
+    },
+    {
+      "id": "mkt:01a01cae-f4d5-7aab-90a4-da6bf65eb8a2",
+      "time": "2026-08-20 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "China 1-year loan prime rate (LPR) as of Aug 20: 3.00% (expected 3.00%, prior 3.00%)."
+    },
+    {
+      "id": "5048792",
+      "time": "2026-08-20 09:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【事關外賣騎手等勞動權益保障，工會工作“十五五”規劃釋出】今天（20日），全國總工會發布了《中國工運事業和工會工作“十五五”規劃》，《規劃》聚焦推動高質量發展，在動員激勵廣大職工群眾建功立業、創新創造上作出了一系列重要部署。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01cae-daf8-7aab-90a4-d47019b22b96",
+      "time": "2026-08-20 09:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Early trade: China’s main futures contracts were mostly higher. Platinum and ethylene glycol (EG) rose over 4%; Shanghai silver and palladium near 4%; fuel oil up ~3%; Shanghai gold and rapeseed oil >2%; Shanghai nickel ~2%. Decliners: eggs down ~2%; low-sulfur fuel oil (LU) and PTA off >1%; paraxylene and iron ore down ~1%."
+    },
+    {
+      "id": "mkt:01a01cae-d52a-7aab-90a4-cbc7a2ca7e4f",
+      "time": "2026-08-20 09:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | 1-Year Loan Prime Rate (Aug.20) | actual 3% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:01a01cae-d521-7aab-90a4-c2beb1fb4f96",
+      "time": "2026-08-20 09:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "China | 5-Year Loan Prime Rate (Aug.20) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "5048791",
+      "time": "2026-08-20 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報1037.00元。"
+    },
+    {
+      "id": "5048790",
+      "time": "2026-08-20 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲4%，現報444.00元。"
+    },
+    {
+      "id": "5048789",
+      "time": "2026-08-20 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報16279.00元。"
+    },
+    {
+      "id": "5048788",
+      "time": "2026-08-20 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鉑連續漲4.67%，乙二醇連續漲4.12%，白銀連續漲4.11%，鈀連續漲3.00%，線材連續漲2.89%，黃金連續漲2.73%，菜油連續漲2.06%。"
+    },
+    {
+      "id": "5048787",
+      "time": "2026-08-20 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.48%。"
+    },
     {
       "id": "5048786",
       "time": "2026-08-20 08:59:52",
