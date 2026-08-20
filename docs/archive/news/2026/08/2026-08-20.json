@@ -1,7 +1,78 @@
 {
   "date": "2026-08-20",
-  "count": 546,
+  "count": 553,
   "items": [
+    {
+      "id": "5048738",
+      "time": "2026-08-20 08:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局對“藥品限二線使用”規則對應部分知識點進行調整】智慧監管“兩庫”釋出以來，受到了社會各界的普遍歡迎和關注，近期，我們收到了一些對智慧監管“兩庫”的意見建議。經研究，現就“藥品限二線使用”規則對應的部分知識點調整如下：一是增加阿布昔替尼片、昂戈瑞西單抗注射液、吡洛西利片、司普奇拜單抗注射液、替爾泊肽注射液、鹽酸替那帕諾片、伊努西單抗注射液、英克司蘭鈉注射液等8種藥品。二是刪除賽沃替尼片。"
+    },
+    {
+      "id": "mkt:01a01c7d-9888-7aab-90a3-d86037a911df",
+      "time": "2026-08-20 08:06:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY"
+      ],
+      "text": "Japan 10-year bond yield fell 4.5 bps to 2.845%."
+    },
+    {
+      "id": "mkt:01a01c7d-8313-7aab-90a3-d262603be71a",
+      "time": "2026-08-20 08:06:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China International Capital Co: A-share recovery since end-July likely to continue】China International Capital Co said external narratives driving the market remain short-term and stage-specific, and the A-share recovery that began in late July is likely to continue. Market volatility has risen from external shocks; dividend-yielding stocks outperformed on the 19th. As risk appetite gradually recovers and the earnings peak approaches, focus on areas and companies with higher earnings certainty. Two main themes: 1) Selective growth exposure in technology: post-correction crowding in tech has eased. High-growth subsectors where revenue-side expansion can offset denominator pressure—AI infrastructure-related links such as optical communications and PCB—retain strong near-term visibility; semiconductor and compute names require careful alignment of fundamentals and valuations, and tech growth may increasingly diverge. Innovation-stage drugmakers entering clinical-data validation merit bottom-up selection. 2) Cyclical recovery: an expanding set of sectors are rebounding from cycle troughs; factor in geopolitics and capacity-cycle positions and favour areas with improving earnings and tighter supply-demand, including power-grid equipment, petrochemicals/chemicals, construction machinery, and non-bank financials that benefit from stronger capital markets. Nonferrous metals, after heavy adjustment, also deserve attention. Pure domestic-demand sectors show slower recovery and require further observation."
+    },
+    {
+      "id": "5048737",
+      "time": "2026-08-20 08:05:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：繼續看好鋰電裝置與固態電池板塊配置價值】中信建投研報稱，鋰電裝置方面，鋰電排產創新高，固態邁入裝車新階段。一是鋰電排產景氣高，8月中國鋰電全市場總排產約304GWh、環比+7.4%，超出月初預判3%—5%區間，儲能電芯排產125GWh、環比淨增約10GWh，海外大儲專案集中備貨推動儲能躍升第一增長引擎。二是固態產業化加速，多項里程碑密集落地。三是裝置兌現端，先惠技術與清陶能源聯合研發的全固態幹法輥壓裝置已完成交付，固態裝備前瞻卡位開啟第二增長曲線。產業化節奏上，2026年為全固態驗證元年，廣汽啟動混合固液電池裝車驗證，寧德時代、比亞迪分別規劃2027年全固態小批次生產與示範裝車，硫化物電解質成本已下降超35%，推動從“技術可行”走向“經濟可行”。當前板塊處於“排產高景氣+固態裝車驗證+裝置兌現”三重共振視窗期，繼續看好鋰電裝置與固態電池板塊配置價值。"
+    },
+    {
+      "id": "te:economy:576629",
+      "time": "2026-08-20 08:04:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Japan Trade Gap Widens Sharply — Japan's trade deficit widened sharply to JPY 634.5 billion in July 2026 from JPY 156.3 billion in the same month a year earlier, but was below market forecasts of JPY 680 billion. It was the third straight month of deficit and the largest since January as imports grew faster than exports. Imports surged 27.8% yoy to a new record JPY 12,146.3 billion, accelerating from June's 25.4% rise, beating estimates of 26.5%, and posting the strongest growth since November 2022. The sharp rise reflected solid domestic demand, boosted by the government's late-2025 stimulus. Crude oil imports jumped 53.5% as Japan diversified energy buying away from the Strait of Hormuz amid ongoing tensions. Exports rose at a softer 23.2% to a new peak of JPY 11,511.8 billion, the strongest gain since October 2022, topping consensus of 19.9%. Exports rose for the 11th month, lifted by a weaker yen and robust demand for AI-related chips, despite risks from supply chain disruptions due to the Middle East conflict."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846939760",
+      "time": "2026-08-20 08:04:13",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本7月份出口同比增長23.2%】日本7月份出口同比增長23.2%，預期為20.1%，前值為19.3%；日本7月份進口同比增長27.8%，預期為25.1%，前值為25.4%。"
+    },
+    {
+      "id": "te:markets:576628",
+      "time": "2026-08-20 08:03:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains on Lower Treasury Yields — Silver traded around $67 an ounce on Thursday after surging nearly 6% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus."
+    },
     {
       "id": "mkt:01a01c7a-f568-7aab-90a3-c9fd2a4ed433",
       "time": "2026-08-20 08:03:35",

@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-20 08:04:17",
-  "count": 15663,
+  "updated": "2026-08-20 08:08:07",
+  "count": 15664,
   "items": [
+    {
+      "id": "5048738",
+      "time": "2026-08-20 08:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局對“藥品限二線使用”規則對應部分知識點進行調整】智慧監管“兩庫”釋出以來，受到了社會各界的普遍歡迎和關注，近期，我們收到了一些對智慧監管“兩庫”的意見建議。經研究，現就“藥品限二線使用”規則對應的部分知識點調整如下：一是增加阿布昔替尼片、昂戈瑞西單抗注射液、吡洛西利片、司普奇拜單抗注射液、替爾泊肽注射液、鹽酸替那帕諾片、伊努西單抗注射液、英克司蘭鈉注射液等8種藥品。二是刪除賽沃替尼片。"
+    },
+    {
+      "id": "mkt:01a01c7d-9888-7aab-90a3-d86037a911df",
+      "time": "2026-08-20 08:06:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY"
+      ],
+      "text": "Japan 10-year bond yield fell 4.5 bps to 2.845%."
+    },
+    {
+      "id": "mkt:01a01c7d-8313-7aab-90a3-d262603be71a",
+      "time": "2026-08-20 08:06:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China International Capital Co: A-share recovery since end-July likely to continue】China International Capital Co said external narratives driving the market remain short-term and stage-specific, and the A-share recovery that began in late July is likely to continue. Market volatility has risen from external shocks; dividend-yielding stocks outperformed on the 19th. As risk appetite gradually recovers and the earnings peak approaches, focus on areas and companies with higher earnings certainty. Two main themes: 1) Selective growth exposure in technology: post-correction crowding in tech has eased. High-growth subsectors where revenue-side expansion can offset denominator pressure—AI infrastructure-related links such as optical communications and PCB—retain strong near-term visibility; semiconductor and compute names require careful alignment of fundamentals and valuations, and tech growth may increasingly diverge. Innovation-stage drugmakers entering clinical-data validation merit bottom-up selection. 2) Cyclical recovery: an expanding set of sectors are rebounding from cycle troughs; factor in geopolitics and capacity-cycle positions and favour areas with improving earnings and tighter supply-demand, including power-grid equipment, petrochemicals/chemicals, construction machinery, and non-bank financials that benefit from stronger capital markets. Nonferrous metals, after heavy adjustment, also deserve attention. Pure domestic-demand sectors show slower recovery and require further observation."
+    },
+    {
+      "id": "5048737",
+      "time": "2026-08-20 08:05:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：繼續看好鋰電裝置與固態電池板塊配置價值】中信建投研報稱，鋰電裝置方面，鋰電排產創新高，固態邁入裝車新階段。一是鋰電排產景氣高，8月中國鋰電全市場總排產約304GWh、環比+7.4%，超出月初預判3%—5%區間，儲能電芯排產125GWh、環比淨增約10GWh，海外大儲專案集中備貨推動儲能躍升第一增長引擎。二是固態產業化加速，多項里程碑密集落地。三是裝置兌現端，先惠技術與清陶能源聯合研發的全固態幹法輥壓裝置已完成交付，固態裝備前瞻卡位開啟第二增長曲線。產業化節奏上，2026年為全固態驗證元年，廣汽啟動混合固液電池裝車驗證，寧德時代、比亞迪分別規劃2027年全固態小批次生產與示範裝車，硫化物電解質成本已下降超35%，推動從“技術可行”走向“經濟可行”。當前板塊處於“排產高景氣+固態裝車驗證+裝置兌現”三重共振視窗期，繼續看好鋰電裝置與固態電池板塊配置價值。"
+    },
+    {
+      "id": "te:economy:576629",
+      "time": "2026-08-20 08:04:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Japan Trade Gap Widens Sharply — Japan's trade deficit widened sharply to JPY 634.5 billion in July 2026 from JPY 156.3 billion in the same month a year earlier, but was below market forecasts of JPY 680 billion. It was the third straight month of deficit and the largest since January as imports grew faster than exports. Imports surged 27.8% yoy to a new record JPY 12,146.3 billion, accelerating from June's 25.4% rise, beating estimates of 26.5%, and posting the strongest growth since November 2022. The sharp rise reflected solid domestic demand, boosted by the government's late-2025 stimulus. Crude oil imports jumped 53.5% as Japan diversified energy buying away from the Strait of Hormuz amid ongoing tensions. Exports rose at a softer 23.2% to a new peak of JPY 11,511.8 billion, the strongest gain since October 2022, topping consensus of 19.9%. Exports rose for the 11th month, lifted by a weaker yen and robust demand for AI-related chips, despite risks from supply chain disruptions due to the Middle East conflict."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846939760",
+      "time": "2026-08-20 08:04:13",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本7月份出口同比增長23.2%】日本7月份出口同比增長23.2%，預期為20.1%，前值為19.3%；日本7月份進口同比增長27.8%，預期為25.1%，前值為25.4%。"
+    },
+    {
+      "id": "te:markets:576628",
+      "time": "2026-08-20 08:03:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains on Lower Treasury Yields — Silver traded around $67 an ounce on Thursday after surging nearly 6% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus."
+    },
     {
       "id": "mkt:01a01c7a-f568-7aab-90a3-c9fd2a4ed433",
       "time": "2026-08-20 08:03:35",
@@ -143539,61 +143610,6 @@
         "S&P500"
       ],
       "text": "【CITIC Securities: Derivatives pricing of Fed rate hikes has further downside】CITIC Securities said in a research note that July US CPI met expectations, core inflation remained mild and second‑round effects were weak, easing inflation risks. The firm judges US inflation is not highly sticky and expects headline CPI YoY to continue moderating through Q3, trough in September, rebound slightly in Q4 and then fall rapidly by March next year. CITIC still forecasts the Fed will keep policy unchanged this year and sees further room for derivatives to reprice lower on rate‑hike expectations."
-    },
-    {
-      "id": "5038264",
-      "time": "2026-08-13 08:07:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4420美元/盎司，日內漲0.26%。"
-    },
-    {
-      "id": "5038263",
-      "time": "2026-08-13 08:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月13日08時01分在內蒙古錫林郭勒盟蘇尼特左旗（北緯42.95度，東經114.69度）發生3.3級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019ff870-cfaf-7aab-9014-cfb82f3cfd18",
-      "time": "2026-08-13 08:06:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration."
-    },
-    {
-      "id": "5038262",
-      "time": "2026-08-13 08:06:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價早盤上漲6.3%，至1,599,000韓元。"
-    },
-    {
-      "id": "5038261",
-      "time": "2026-08-13 08:05:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【調查：絕大多數日本企業尚未全面採用人工智慧】路透週四公佈的一項調查顯示，超過80%的日本企業在運營中僅在有限範圍內使用人工智慧（AI），或根本未採用，這一趨勢可能阻礙政府提高生產率的努力。約60%受訪者表示，AI僅應用於公司部分業務或以其他有限方式使用。另有18%表示尚未決定是否將AI引入工作場所，6%甚至未考慮採用AI。調查顯示，其餘16%的企業已將AI作為不可或缺的工具部署在整個公司。“我們已開始在全公司範圍內使用AI，但其應用僅限於建立文件等任務。”某批發商的經理在調查中寫道。另一家房地產公司的主管表示，“我們不知該如何將它投入使用。”政府今年的一份報告顯示，日本在AI應用方面落後於其他工業強國：有86.4%日企至少在一項任務中使用生成式AI；而中國為98.1%、德國為91.6%、美國為90.9%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608133839782532",
-      "time": "2026-08-13 08:04:48",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。"
     }
   ]
 }
