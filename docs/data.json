@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-20 22:03:41",
-  "count": 15930,
+  "updated": "2026-08-20 22:07:49",
+  "count": 15932,
   "items": [
+    {
+      "id": "5050368",
+      "time": "2026-08-20 22:06:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Moderna跌超20%】Moderna跌超20%，該股昨日暴漲超176%。"
+    },
+    {
+      "id": "mkt:01a01f7e-9d31-7aab-90b9-6b90b8a044c6",
+      "time": "2026-08-20 22:06:25",
+      "tags": [
+        "MKT News",
+        "WMT.O",
+        "Impact bearish"
+      ],
+      "text": "【Walmart CFO: Weak consumer demand and higher costs prompt cautious guidance adjustment】Walmart shares fell more than 8% intraday after the retailer's updated annual outlook failed to impress investors. CFO John David Rainey told analysts the new forecast reflects over $2bn of incremental costs this year from higher fuel prices and, compared with the firm's February outlook, an arguably weaker consumer environment—so management opted for only a modest guidance increase and a cautious stance."
+    },
+    {
+      "id": "5050367",
+      "time": "2026-08-20 22:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓產業部長：對美投資談判取得重要進展】韓國產業通商部長官金正官20日下午結束訪美行程返回韓國。在仁川國際機場接受記者採訪時，他表示，韓美圍繞韓方對美投資事宜取得“相當有意義的進展”。雙方目前正商討首個投資專案，主要涉及能源領域，預計將於9月對外公佈。據金正官介紹，訪美期間，他同美國商務部長盧特尼克連續兩天舉行會談，多項爭議問題得到化解。鑑於工作層面仍有若干分歧懸而未決，雙方決定轉由部長級直接磋商，力求敲定最終方案。雙方下週將繼續舉行視訊會議，爭取解決剩餘問題。"
+    },
+    {
+      "id": "5050366",
+      "time": "2026-08-20 22:05:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE原糖期貨<SBc1>交投於2024年6月以來最高價位。"
+    },
+    {
+      "id": "mkt:01a01f7d-7dbc-7aab-90b9-67507b69d005",
+      "time": "2026-08-20 22:05:12",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares fell; decline percentage not specified."
+    },
+    {
+      "id": "5050365",
+      "time": "2026-08-20 22:04:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "胡塞武裝稱，該組織在沙特納季蘭機場和納季蘭沙特阿美公司襲擊了“敏感”目標。沙特方面暫未立即確認。"
+    },
+    {
+      "id": "mkt:01a01f7c-3bbc-7aab-90b9-595f87c7bd87",
+      "time": "2026-08-20 22:03:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthi forces said they struck \"sensitive\" targets at Najran airport and an ARAMCO facility in Najran; Saudi authorities did not immediately confirm."
+    },
+    {
+      "id": "5050364",
+      "time": "2026-08-20 22:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "DEEL攜手MESH，稱欲為全球勞動力提供安全穩定幣支付解決方案。"
+    },
+    {
+      "id": "5050363",
+      "time": "2026-08-20 22:03:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部：透過發行美元計價債券和伊斯蘭債券借款35.3億美元。"
+    },
     {
       "id": "5050362",
       "time": "2026-08-20 22:02:58",
@@ -145680,70 +145760,6 @@
         "Brent"
       ],
       "text": "Shanghai crude (SC) main futures fell across the board: SC crude down 1.80% at 544.2 yuan/barrel; low-sulfur fuel oil (LU) down 1.85% at 4,560 yuan/ton; fuel oil down 0.72% at 3,741 yuan/ton; asphalt down 0.02% at 4,310 yuan/ton."
-    },
-    {
-      "id": "5039709",
-      "time": "2026-08-13 22:07:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級預測，2026年7月美國私人信貸違約率仍將維持在歷史高位。"
-    },
-    {
-      "id": "te:markets:575132",
-      "time": "2026-08-13 22:06:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Holds Record on Earnings and Lower Oil — The S&P/TSX Composite Index traded near flat above 36,500, holding onto yesterday's record amid a fresh batch of corporate earnings and lower oil prices. Brookfield (+0.5%) reported higher second-quarter distributable earnings per share. Hydro One (+1%) reported higher profit and EPS of C$0.62, beating forecasts. Metro (+1%) posted 4.1% sales growth and 8.8% adjusted EPS growth, although same-store food sales remained modest and fiscal third-quarter adjusted earnings were weaker. CCL Industries (-1.2%) posted 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver (-7%) reported 38% revenue growth and strong free cash flow, although EPS of $0.73 came in below expectations. . Meanwhile, oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC and TD Bank added 0.5%, while CICB gained 1%. Miners fell on lower gold prices, with Agnico Eagle down 1.5%."
-    },
-    {
-      "id": "5039708",
-      "time": "2026-08-13 22:06:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：7 月 PCE 通脹預期為 3.6%】牛津經濟研究院預計，美聯儲青睞的通脹指標 —— 整體個人消費支出物價指數 (PCE) 7 月同比上漲 3.6%，較 6 月的 3.7% 小幅回落。鑑於服務業通脹降溫，勞動力市場幾乎沒有過熱跡象，牛津經濟研究院預計美聯儲 2026 年剩餘時間將維持利率不變。"
-    },
-    {
-      "id": "5039707",
-      "time": "2026-08-13 22:04:21",
-      "tags": [
-        "觀點",
-        "其他",
-        "焦點"
-      ],
-      "text": "美銀全球研究將2030年伺服器CPU總可用市場規模預測從之前的1700億美元上調至2100億美元以上。"
-    },
-    {
-      "id": "mkt:019ffb70-15ef-7aab-9027-93704c4f2209",
-      "time": "2026-08-13 22:04:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Carney says Canada’s sovereignty is rooted in a strong, secure North."
-    },
-    {
-      "id": "5039706",
-      "time": "2026-08-13 22:04:05",
-      "tags": [
-        "資料"
-      ],
-      "text": "哥倫比亞7月消費者信心指數為20.7。"
-    },
-    {
-      "id": "5039705",
-      "time": "2026-08-13 22:03:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【行雲科技：公司所有核心長單無集中兌現風險 業績釋放平穩可持續】行雲科技8月13日接受機構調研時表示，公司所有核心長單均採用按月交付、按月回款、逐月確認收入的常態化模式，無集中兌現風險，業績釋放平穩可持續。2026年下半年，三筆核心訂單中V客戶的首批交付已經完成驗收和逐月租金收入確認，其他兩個客戶的首批交付也預計在8月份完成驗收並開始確認收入，預計年內也有部分Token分成收入，算力板塊營收與利潤將實現顯著環比提升；2027年所有長單將進入全面穩定結算週期，高毛利算力業務及Token分成營收佔比持續提升，成為公司核心增長支柱。疊加公司已獲批180.24億元綜合授信、102.64億元落地授信，疊加破產重整募集資金（約10億元）、股權激勵增發融資（約20億元）及預留償債股票（約5000萬股），未來三年可用自有資金體量較大，充沛資金可完全支撐訂單履約與產能擴張，中長期業績增長確定性較強。"
     }
   ]
 }
