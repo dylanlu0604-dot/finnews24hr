@@ -1,7 +1,146 @@
 {
   "date": "2026-08-20",
-  "count": 1375,
+  "count": 1390,
   "items": [
+    {
+      "id": "mkt:01a01e08-89a7-7aab-90ac-439d747a6009",
+      "time": "2026-08-20 15:17:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WTI crude traded above $85/bbl, up 0.9% on the day."
+    },
+    {
+      "id": "5049252",
+      "time": "2026-08-20 15:17:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河南以舊換新再增7類補貼產品 每件最高補1500元】河南省商務廳、河南省發展和改革委員會、河南省財政廳釋出公告，實施2026年消費品以舊換新地方自主品類補貼活動。補貼品類包括家用灶具（含整合灶）、吸油煙機、淨水器（含直飲機、管線機）、洗碗機、乾衣機、智慧清潔機器人（含掃洗地機、擦窗機器人）、數碼相機（含運動相機）等7類。參與補貼活動的產品須有69碼、SN碼；如有能效、水效標準的產品須為1級能效或水效標準。補貼標準方面，按產品最終銷售價格（剔除所有折扣優惠後）的15%給予補貼，每件補貼不超過1500元。每位消費者每類產品省內可補貼1件。"
+    },
+    {
+      "id": "mkt:01a01e07-c490-7aab-90ac-3a5c0c14ca9e",
+      "time": "2026-08-20 15:17:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Foreign Ministry responds to U.S. announcement of \"destructive economic action\" against Iran】U.S. President Trump on the 19th announced \"destructive economic action\" against Iran. Foreign Ministry spokesman Lin Jian said at a routine press briefing on the 20th that sanctions and pressure do not help resolve the issue. China urged relevant parties to act responsibly and seek a political and diplomatic resolution."
+    },
+    {
+      "id": "5049251",
+      "time": "2026-08-20 15:16:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊息稱LG Display計劃在坡州E4產線進行FLiPP OLED量產驗證】LG Display計劃在其坡州E4生產線進行FMM-less OLED技術FLiPP的量產驗證。坡州E4是一條G8.5 OLED產線，目前用於製造電視面板等大尺寸產品，利用率相對低下。"
+    },
+    {
+      "id": "mkt:01a01e07-2aed-7aab-90ac-31b29328baad",
+      "time": "2026-08-20 15:16:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures midday close: 2-year main contract (TS) down 0.01%, 5-year main contract (TF) down 0.04%, 10-year main contract (T) down 0.07%, 30-year main contract (TL) down 0.24%."
+    },
+    {
+      "id": "5049249",
+      "time": "2026-08-20 15:16:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報85.24美元/桶。"
+    },
+    {
+      "id": "5049248",
+      "time": "2026-08-20 15:16:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部回應美國宣佈對伊朗實施“毀滅性經濟行動”】據報道，美國總統特朗普19日宣佈對伊朗實施“毀滅性經濟行動”。外交部發言人林劍20日在例行記者會上答問時表示，制裁、施壓無助於問題的解決。中方呼籲相關各方採取負責任舉措，透過政治外交途徑解決問題。（新華社）"
+    },
+    {
+      "id": "te:markets:576765",
+      "time": "2026-08-20 15:16:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.26% Higher — The Shangai Composite Index gained 10 points or 0.26 percent on Thursday to close at 3904 points. Gains were led by Guangzhou Automobile (8.18%), Zijin Mining (4.46%) and Sh Fosun Pharma (4.32%). Biggest losers were Jiangsu Hengrui (-6.32%), Jiangsu Lianyungang (-3.72%) and Aluminum Corporation of China (-1.93%)."
+    },
+    {
+      "id": "5049247",
+      "time": "2026-08-20 15:16:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱將於11月同金正恩會晤，外交部回應】8月20日，外交部發言人林劍主持例行記者會。法新社記者提問，美國總統特朗普19日表示，他將於今年晚些時候同朝鮮領導人金正恩會晤。據《華爾街日報》報道，特朗普正考慮借11月在深圳舉辦的亞太經合組織（APEC）峰會舉行此次會面。請問發言人，中國作為峰會主辦方，同時與有關各方關係密切，對美方表態有何評論？對此，林劍表示：“關於你提到的朝美接觸的事宜，我不掌握具體資訊，對此不做評論。”（澎湃）"
+    },
+    {
+      "id": "mkt:01a01e06-ca3f-7aab-90ac-2e6d63534167",
+      "time": "2026-08-20 15:15:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Macro & Rates",
+        "Treasury Yields",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "US10Y"
+      ],
+      "text": "【South Korea stocks rebound sharply; chipmakers surge on shareholder-return plans】South Korea's KOSPI closed up nearly 6% on Thursday, rebounding from the prior session's selloff as semiconductor stocks led gains. SK Hynix jumped 12.73% after announcing a buyback and retirement of treasury shares and a plan to allocate more than 50% of free cash flow in 2025–27 to shareholder returns. Samsung Electronics rose 9.49% amid media reports it may announce a shareholder-return plan by month-end. U.S. Treasury proposals to support long-term Treasuries temporarily eased a recent spike in long-term U.S. Treasury yields and steadied investor sentiment, Future Asset Securities' Seo Sang-young said."
+    },
+    {
+      "id": "5049246",
+      "time": "2026-08-20 15:15:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海特高新回應組織百人“搶奪公章”：系海威華芯五股東聯合“取章”，指控大股東偽造檔案、拒不執行裁決】8月20日，針對旗下參股公司成都海威華芯科技有限公司（下稱“海威華芯”）微信公眾號釋出文章，稱公司“公章、合同章、黨委印章被海特高新（002023.SZ）搶走”一事，海特高新董秘辦在接受採訪時表示：8月18日行動系除大股東青島海嶽外，其餘五家股東協商一致所為，並非“搶奪”。8月19日下午，海威華芯透過微信公眾號“海威華芯Hiwafer”釋出題為《成都海威華芯科技有限公司印章被搶公告》，文章核心指控“四川海特高新組織百餘名社會人員及內部員工，強勢闖入海威華芯辦公場地，突破辦公區域管控，暴力撬開公司保險櫃”。（藍鯨新聞）"
+    },
+    {
+      "id": "5049245",
+      "time": "2026-08-20 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.24%， 10年期主力合約跌0.07%， 5年期主力合約跌0.04%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5049244",
+      "time": "2026-08-20 15:15:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海威華芯公告】8月19日，海威華芯釋出公告稱，公司印章已被上市公司海特高新搶走。8月20日，“搶公章”話題衝上微博熱搜，引發廣泛關注。截至發稿，海特高新尚未就該事項進行公開回應。 8月19日，海威華芯釋出公告稱，8月18日16時許，海特高新組織的社會不明人員及海特員工等百餘人，強行闖入公司，撬開辦公室內保險櫃，強行搶走公司黨委印章、公司公章、合同專用章、“馬曉力”字樣手寫體簽章各1枚。公司報警後，警務人員到達現場，截至公告日，印章尚未被追回。 海威華芯宣告稱，自2026年8月18日16時起，任何單位和個人不得再以上述印章與公司發生業務往來或簽署任何檔案、合同、協議及其他法律文書。自2026年8月18日16時起，凡使用上述遺失印章所簽署的一切檔案、合同、協議及辦理的一切事務，公司一律不予認可，均不承擔任何法律責任。由此產生的一切法律後果及經濟損失，由擅自動用者自行承擔。公司已就上述印章被搶事宜向公安機關報案。印章被追回或新印章啟用後將另行公告。 （中國基金報）"
+    },
+    {
+      "id": "5049243",
+      "time": "2026-08-20 15:14:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財信證券：維持貴州茅臺“買入”評級，持續市場化改革，直營佔比提升】財信證券研報指出，貴州茅臺持續市場化改革，直營佔比提升。2026年上半年實現營收/歸母淨利潤/扣非歸母淨利潤分別為922.78/445.17/444.64億元，同比+1.30%/-1.95%/-2.04%。收入端：茅臺酒表現穩健，i茅臺保持高速增長，直營渠道佔比提升明顯。利潤端：產品結構影響公司毛利率，費用率整體保持平穩。公司作為高階白酒龍頭企業，品牌資源稀缺，需求不景氣下公司積極調整佈局高質量發展，經過產品、渠道策略調整後，長期仍有發展空間。公司於2024年11月27日召開的臨時股東大會上正式透過《2024—2026年度現金分紅回報規劃》，承諾2024—2026年每年現金分紅總額不低於當年歸母淨利潤的75%，基於我們盈利預測以及公司分紅承諾，測算公司2026年股息率為3.85%，考慮公司龍頭地位以及長期競爭優勢，維持公司“買入”評級。"
+    },
+    {
+      "id": "5049242",
+      "time": "2026-08-20 15:14:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏德股份在南通成立新能源技術開發公司】企查查APP顯示，近日，南通宏安新能源技術開發有限公司成立，經營範圍包含：太陽能發電技術服務；太陽能熱發電裝備銷售；太陽能熱利用裝備銷售；新興能源技術研發等。企查查股權穿透顯示，該公司由宏德股份全資持股。"
+    },
     {
       "id": "5049241",
       "time": "2026-08-20 15:13:31",
