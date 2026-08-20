@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-20 17:59:36",
+  "updated": "2026-08-20 18:04:11",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 430,
+  "count": 432,
   "history_summary": {
     "cached": 430,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 262,
+      "count": 264,
       "dates": [
         {
           "date": "2026-08-17",
@@ -8913,7 +8913,7 @@
         },
         {
           "date": "2026-08-20",
-          "count": 57,
+          "count": 59,
           "events": [
             {
               "id": "capital:1174694",
@@ -10712,6 +10712,122 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-09 00:08:28"
+            },
+            {
+              "id": "capital:1185328",
+              "fid": "1185328",
+              "interval": "this_week",
+              "date": "2026-08-20",
+              "time": "18:00",
+              "datetime": "2026-08-20 18:00:00",
+              "display_time": "08/20 18:00",
+              "country": "英國",
+              "title": "英國8月CBI工業物價預期差值",
+              "importance": 1,
+              "previous": "11",
+              "forecast": "14",
+              "actual": "22",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185328",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/23",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "22"
+                },
+                {
+                  "date": "06/23",
+                  "actual": "22",
+                  "forecast": "-",
+                  "previous": "38"
+                },
+                {
+                  "date": "05/21",
+                  "actual": "38",
+                  "forecast": "-",
+                  "previous": "32"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "32",
+                  "forecast": "-",
+                  "previous": "12"
+                },
+                {
+                  "date": "03/20",
+                  "actual": "12",
+                  "forecast": "29",
+                  "previous": "26"
+                },
+                {
+                  "date": "02/19",
+                  "actual": "26",
+                  "forecast": "-",
+                  "previous": "29"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-20 18:04:09"
+            },
+            {
+              "id": "capital:1185327",
+              "fid": "1185327",
+              "interval": "this_week",
+              "date": "2026-08-20",
+              "time": "18:00",
+              "datetime": "2026-08-20 18:00:00",
+              "display_time": "08/20 18:00",
+              "country": "英國",
+              "title": "英國8月CBI工業訂單差值",
+              "importance": 2,
+              "previous": "-45",
+              "forecast": "-40",
+              "actual": "-25",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185327",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/23",
+                  "actual": "-45",
+                  "forecast": "-",
+                  "previous": "-45"
+                },
+                {
+                  "date": "06/23",
+                  "actual": "-45",
+                  "forecast": "-",
+                  "previous": "-41"
+                },
+                {
+                  "date": "05/21",
+                  "actual": "-41",
+                  "forecast": "-40",
+                  "previous": "-38"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "-38",
+                  "forecast": "-34",
+                  "previous": "-27"
+                },
+                {
+                  "date": "03/20",
+                  "actual": "-27",
+                  "forecast": "-30",
+                  "previous": "-28"
+                },
+                {
+                  "date": "02/19",
+                  "actual": "-28",
+                  "forecast": "-",
+                  "previous": "-30"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-20 18:04:09"
             },
             {
               "id": "capital:1183499",
@@ -35597,6 +35713,122 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-09 00:08:28"
+    },
+    {
+      "id": "capital:1185328",
+      "fid": "1185328",
+      "interval": "this_week",
+      "date": "2026-08-20",
+      "time": "18:00",
+      "datetime": "2026-08-20 18:00:00",
+      "display_time": "08/20 18:00",
+      "country": "英國",
+      "title": "英國8月CBI工業物價預期差值",
+      "importance": 1,
+      "previous": "11",
+      "forecast": "14",
+      "actual": "22",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185328",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/23",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "22"
+        },
+        {
+          "date": "06/23",
+          "actual": "22",
+          "forecast": "-",
+          "previous": "38"
+        },
+        {
+          "date": "05/21",
+          "actual": "38",
+          "forecast": "-",
+          "previous": "32"
+        },
+        {
+          "date": "04/23",
+          "actual": "32",
+          "forecast": "-",
+          "previous": "12"
+        },
+        {
+          "date": "03/20",
+          "actual": "12",
+          "forecast": "29",
+          "previous": "26"
+        },
+        {
+          "date": "02/19",
+          "actual": "26",
+          "forecast": "-",
+          "previous": "29"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-20 18:04:09"
+    },
+    {
+      "id": "capital:1185327",
+      "fid": "1185327",
+      "interval": "this_week",
+      "date": "2026-08-20",
+      "time": "18:00",
+      "datetime": "2026-08-20 18:00:00",
+      "display_time": "08/20 18:00",
+      "country": "英國",
+      "title": "英國8月CBI工業訂單差值",
+      "importance": 2,
+      "previous": "-45",
+      "forecast": "-40",
+      "actual": "-25",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185327",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/23",
+          "actual": "-45",
+          "forecast": "-",
+          "previous": "-45"
+        },
+        {
+          "date": "06/23",
+          "actual": "-45",
+          "forecast": "-",
+          "previous": "-41"
+        },
+        {
+          "date": "05/21",
+          "actual": "-41",
+          "forecast": "-40",
+          "previous": "-38"
+        },
+        {
+          "date": "04/23",
+          "actual": "-38",
+          "forecast": "-34",
+          "previous": "-27"
+        },
+        {
+          "date": "03/20",
+          "actual": "-27",
+          "forecast": "-30",
+          "previous": "-28"
+        },
+        {
+          "date": "02/19",
+          "actual": "-28",
+          "forecast": "-",
+          "previous": "-30"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-20 18:04:09"
     },
     {
       "id": "capital:1183499",
