@@ -1,7 +1,47 @@
 {
   "date": "2026-08-20",
-  "count": 562,
+  "count": 566,
   "items": [
+    {
+      "id": "5048746",
+      "time": "2026-08-20 08:13:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合康新能：向特定物件發行股票申請獲深交所受理】合康新能公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。"
+    },
+    {
+      "id": "te:markets:576631",
+      "time": "2026-08-20 08:11:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Jiangsu Hengrui earnings above expectations at 0.39 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.39 CNY, compared to market expectations of 0.38 CNY."
+    },
+    {
+      "id": "te:markets:576630",
+      "time": "2026-08-20 08:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "China Molybdenum earnings above expectations at 0.36 CNY — China Molybdenum (603993) released earnings per share at 0.36 CNY, compared to market expectations of 0.35 CNY."
+    },
+    {
+      "id": "5048745",
+      "time": "2026-08-20 08:11:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "受疑似資料洩露事件影響，Sakura Internet股價下跌10%。"
+    },
     {
       "id": "5048744",
       "time": "2026-08-20 08:11:18",

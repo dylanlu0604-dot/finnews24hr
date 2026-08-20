@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-20 08:11:58",
-  "count": 15654,
+  "updated": "2026-08-20 08:15:48",
+  "count": 15651,
   "items": [
+    {
+      "id": "5048746",
+      "time": "2026-08-20 08:13:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合康新能：向特定物件發行股票申請獲深交所受理】合康新能公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。"
+    },
+    {
+      "id": "te:markets:576631",
+      "time": "2026-08-20 08:11:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Jiangsu Hengrui earnings above expectations at 0.39 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.39 CNY, compared to market expectations of 0.38 CNY."
+    },
+    {
+      "id": "te:markets:576630",
+      "time": "2026-08-20 08:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "China Molybdenum earnings above expectations at 0.36 CNY — China Molybdenum (603993) released earnings per share at 0.36 CNY, compared to market expectations of 0.35 CNY."
+    },
+    {
+      "id": "5048745",
+      "time": "2026-08-20 08:11:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "受疑似資料洩露事件影響，Sakura Internet股價下跌10%。"
+    },
     {
       "id": "5048744",
       "time": "2026-08-20 08:11:18",
@@ -143443,70 +143483,6 @@
         "MKT News"
       ],
       "text": "【Huatai Securities flags domestic substitution opportunity for aluminum nitride】Huatai Securities says AI compute expansion will increase optical-module power consumption, shifting aluminum nitride (AlN) — prized for high thermal conductivity, electrical insulation and thermal compatibility — from an optional to a likely required material. Huatai estimates optical modules could drive demand for high-end AlN powder to exceed 2,000 tonnes by 2027. On the supply side, Japanese suppliers are facing raw-material shortages tied to rare-earth controls, and tight downstream demand could create a supply shortfall and upward pressure on prices. Domestic manufacturers are accelerating capacity ramp-up and customer qualification, presenting a potential domestic-replacement opportunity."
-    },
-    {
-      "id": "mkt:019ff879-9b53-7aab-9014-e910b43fdc1a",
-      "time": "2026-08-13 08:15:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Russia struck Ukraine's Izmail port; port infrastructure caught fire after the attack."
-    },
-    {
-      "id": "5038283",
-      "time": "2026-08-13 08:15:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股大幅上漲，鎧俠股價上漲6.2%，愛德萬測試上漲6.1%，Lasertec上漲4.3%。"
-    },
-    {
-      "id": "5038281",
-      "time": "2026-08-13 08:14:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "地方當局稱，俄羅斯襲擊了烏克蘭伊茲梅爾港。"
-    },
-    {
-      "id": "mkt:019ff877-a217-7aab-9014-e38f872ee0c7",
-      "time": "2026-08-13 08:13:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【GBA Shiziyang Channel: Shiziyang Bridge anchorages complete today】The Guangdong‑Hong Kong‑Macao Greater Bay Area Shiziyang Channel project will complete the main construction of the east and west anchorages of Shiziyang Bridge today (Aug 13), finishing the bridge’s key load‑bearing anchor structures and clearing the way for subsequent catwalk and main‑cable installation. The 35 km channel runs west from Nansha, Guangzhou to Humen and Shatian towns in Dongguan. It is the GBA’s next major cross‑river link after the Hong Kong–Zhuhai–Macau Bridge and the Shenzhen–Zhongshan Link, and the Pearl River Estuary’s first double‑deck composite highway corridor; scheduled for completion and opening in 2029."
-    },
-    {
-      "id": "5038280",
-      "time": "2026-08-13 08:13:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報82.41美元/桶。"
-    },
-    {
-      "id": "5038279",
-      "time": "2026-08-13 08:12:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲知聲：近日正式釋出自研醫學影像多模態大模型（U2-RadiMed）】雲知聲公告，公司近日正式釋出自研醫學影像多模態大模型（U2-RadiMed）。該模型為國內首個深度融合醫學影像理解、報告生成、臨床推理決策與視覺問答的全鏈路影像大模型，支援單張、多張影像與文字的多模態混合輸入，全面覆蓋CXR（胸部X光）、CT、MRI等主流醫學影像型別，構建起報告生成、病灶檢測與定位、臨床推理、臨床決策、通用醫學VQA、高階醫學推理六大核心能力框架，可完成「看影像→調知識→做推理→出結論」的完整工作閉環。"
-    },
-    {
-      "id": "5038278",
-      "time": "2026-08-13 08:12:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大灣區重點工程獅子洋通道今天將完成錨碇主體施工】今天（8月13日），粵港澳大灣區重點工程獅子洋通道專案將迎來建設新進展。控制性工程獅子洋大橋的關鍵受力結構、堪稱大橋“定海神針”的東、西兩座錨碇將全部完成主體施工，為後續貓道及主纜的架設奠定基礎。獅子洋通道全長約35公里，西起廣州南沙，東至東莞虎門、沙田兩鎮，是繼港珠澳大橋、深中通道後，粵港澳大灣區又一座重要跨江通道，也是珠江口首條雙層複合公路通道，預計2029年建成通車。"
     }
   ]
 }
