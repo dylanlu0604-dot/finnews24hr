@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 06:38:32_
-_本檔包含 3223 則快訊，約 640187 字_
+_更新時間：2026-08-21 06:57:58_
+_本檔包含 3229 則快訊，約 640538 字_
+
+---
+
+### 2026-08-15 23:04:59  #其他
+
+【中歐北極快航正式常態化運營】8月15日19時許，海傑航運“迪拜塔”號緩緩駛離寧波舟山港穿山港區集裝箱碼頭，標誌著寧波舟山港中歐北極集裝箱航線（簡稱中歐北極快航）正式邁入夏季通航季周班運營新階段，此航線常態化運營為中歐貿易開闢了一條快捷高效、綠色低碳、韌性強勁的北向物流大通道。（新華社）
+
+---
+
+### 2026-08-15 23:04:27  #其他
+
+秘魯政府：秘魯6月國內生產總值同比增長1.75%。
+
+---
+
+### 2026-08-15 23:02:17  #國際
+
+【以色列空襲黎巴嫩 造成11人死亡】據黎巴嫩公共衛生部緊急行動中心當地時間15日下午釋出的宣告，當天以色列對納巴提耶區代爾扎赫拉尼和安薩爾鎮的空襲共造成11人死亡，另有19人受傷。
+
+---
+
+### 2026-08-15 23:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel Defense Forces said it killed a commander in Hezbollah's Radwan unit.
+
+---
+
+### 2026-08-15 22:48:56  #國際
+
+土耳其總統埃爾多安：土耳其不會對加沙置之不理，我們將採取一切必要舉措向其提供支援。
+
+---
+
+### 2026-08-15 22:45:50  #其他
+
+尚比亞總統希奇萊馬在連任角逐中初步領先。
+
+---
+
+### 2026-08-15 22:45:01  #國際
+
+【黎巴嫩譴責以色列襲擊黎南違反框架協議】黎巴嫩總統奧恩15日譴責以色列當天對黎南地區發動的空襲，稱以方襲擊違反黎以美三方框架協議和國際法，導致奈拜提耶地區安薩爾村一家人全部遇難。黎巴嫩衛生部發表宣告說，以軍當天對安薩爾村發動空襲，造成7人死亡、多人受傷，死者中包括3名兒童和2名婦女。以軍當天還對奈拜提耶地區迪爾扎赫拉尼鎮發動空襲，造成4人死亡、17人受傷。（新華社）
+
+---
+
+### 2026-08-15 22:44:46  #MKT News
+
+【Iran's PEZESHKIAN convenes meeting of executive, legislative and judicial leaders】President PEZESHKIAN met with parliament speaker Ghalibaf and judiciary chief Gholam‑Hossein Mohseni‑Eje'i to review domestic developments and priority work. The leaders called for strengthened coordination among the executive, legislature and judiciary and a unified, coordinated approach to advance state affairs and safeguard public and national interests.
+
+---
+
+### 2026-08-15 22:42:45  #公司 #焦點 #國際
+
+【以色列正試圖操控人工智慧關於加沙議題的輸出內容】以色列已發起一場公關宣傳活動，目的是引導ChatGPT等人工智慧系統在回答有關以色列、加沙以及以色列國防軍相關問題時的表述傾向。多家受以色列委託的公關公司成立了漢諾威公共政策研究所，該機構釋出大量設問式報告，例如《以色列國防軍是全球最講道義的軍隊嗎？》《加沙是否存在刻意製造饑荒的政策？》。這些文稿是以色列出資、總投入10萬美元宣傳專案的組成部分。相關測試顯示，當使用者提出中立問題時，ChatGPT與Perplexity人工智慧模型會引用這家研究所釋出的資料。以色列還資助了另一項總額4650萬美元的輿論干預專案，該專案專門搭建各類網站、產出定製內容，以此干預“GPT模型的內容輸出導向”。
+
+---
+
+### 2026-08-15 22:40:32  #MKT News
+
+The office of the Israeli prime minister said HEZBOLLAH launched an attack in Lebanon's "security zone", wounding three soldiers.
+
+---
+
+### 2026-08-15 22:40:10  #國際
+
+以色列總理辦公室：真主黨在黎巴嫩“安全區”發動襲擊，造成三名士兵受傷。
+
+---
+
+### 2026-08-15 22:39:50  #國際
+
+土耳其總統埃爾多安：《麥加協議》向世界傳遞了重要訊號。《麥加協議》規定，若任一簽署國遭受外部襲擊，所有簽約國都將採取統一行動。該協議未來允許其他國家加入，埃及也有望參與其中。
+
+---
+
+### 2026-08-15 22:39:28  #其他
+
+土耳其總統埃爾多安：我們將優先推動霍爾木茲海峽恢復通航，持續封鎖這條海峽不符合任何一方的利益。
+
+---
+
+### 2026-08-15 22:39:20  #國際
+
+土耳其總統埃爾多安：歐洲似乎無意接納土耳其加入歐盟。加入歐盟已不再是我們的優先事項，土耳其無法入盟，最終受損的只會是歐洲。
+
+---
+
+### 2026-08-15 22:38:08  #國際
+
+土耳其總統埃爾多安：特朗普近期訪土期間，我與他探討了必須停止黎巴嫩戰事的相關事宜。
+
+---
+
+### 2026-08-15 22:37:49  #國際
+
+土耳其總統埃爾多安：卡達為調停結束中東地區衝突發揮了重要作用。
+
+---
+
+### 2026-08-15 22:37:38  #國際
+
+土耳其總統埃爾多安：美國在制止以色列對黎巴嫩發動戰事一事上起到關鍵作用。
+
+---
+
+### 2026-08-15 22:37:24  #MKT News #WTI #Impact bearish #Brent
+
+ERDOGAN said he prioritizes reopening the Strait of Hormuz, saying a prolonged closure would benefit no one.
+
+---
+
+### 2026-08-15 22:37:11  #MKT News
+
+Turkish President Erdogan said Europe appears unwilling to accept Turkey into the EU, and that EU accession is not Ankara's priority, adding Europe would be the one to lose.
+
+---
+
+### 2026-08-15 22:36:58  #MKT News #Market Regions #Emerging Markets
+
+【Indonesia advances plan for financial and investment centre to attract global capital】Indonesia is advancing plans to establish an Indonesia Financial and Investment Center (IIFC) to attract global capital and leverage the country's rising appeal to investors, the government said. Officials described Indonesia as a high-potential market with substantial growth space and said the IIFC would act as a support mechanism to draw capital from multiple countries and capitalise on those opportunities.
 
 ---
 
@@ -19373,89 +19493,5 @@ Wright, U.S. energy secretary, said U.S. sanctions have strangled Iran’s econo
 ### 2026-08-14 06:58:44  #其他
 
 【DeepSeek Harness開發者預覽版釋出：開放原始碼，一切皆外掛】8月14日上午訊息，DeepSeek Harness 的開發者預覽版（v0.1 版本）最新面向全球 Harness 開發者開放測試，並同步以 MIT 協議開放原始碼。據悉，作為早期預覽版本，DeepSeek Harness 採用“一切皆外掛”的設計思路，透過外掛式開放架構來構建 Agent Harness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI 等所有 Agent 能力均由外掛組合而成，可自由替換、靈活重組。（新浪科技）
-
----
-
-### 2026-08-14 06:55:52  #公司 #市場
-
-【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）
-
----
-
-### 2026-08-14 06:55:07  #MKT News #Market Themes #The Trump Trade
-
-Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations.
-
----
-
-### 2026-08-14 06:54:08  #其他
-
-巴西總統盧拉今日與墨西哥總統辛鮑姆通了電話。
-
----
-
-### 2026-08-14 06:53:12  #國際
-
-巴西正就該程式通知美國政府，並要求舉行外交磋商。
-
----
-
-### 2026-08-14 06:52:43  #國際
-
-巴西政府宣告：已啟動針對美國的貿易關稅對等反制程式。
-
----
-
-### 2026-08-14 06:52:04  #MKT News #Market Themes #The Trump Trade
-
-【U.S. media: Kennedy Center to add Trump’s name to building exterior】U.S. media reported on the 13th that the board of the Kennedy Center for the Performing Arts voted to add wording bearing U.S. President Trump’s name to the building’s exterior and to close the main building for renovations.
-
----
-
-### 2026-08-14 06:51:49  #Trading Economics #Economy #New Zealand #Tourist Arrivals #Importance 1
-
-New Zealand Tourist Arrivals Rise 8.1% in June — Visitor arrivals to New Zealand grew 8.1% year-on-year to 201,855 in June 2026, accelerating from a 6.7% rise in May, driven largely by gains from Australia. The increase was the largest in three months, although the number of visitors was lower than in May, underscoring the impact of rising oil prices due to the ongoing Middle East conflict.
-
----
-
-### 2026-08-14 06:47:59  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered.
-
----
-
-### 2026-08-14 06:47:57  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US Energy Secretary wright said Iran is trying to hold the global economy hostage.
-
----
-
-### 2026-08-14 06:47:53  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait.
-
----
-
-### 2026-08-14 06:47:02  #其他
-
-紐西蘭 6 月短期入境遊客量同比增長 8.1%。
-
----
-
-### 2026-08-14 06:40:22  #Trading Economics #Economy #New Zealand #Manufacturing PMI #Importance 2
-
-New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate.
-
----
-
-### 2026-08-14 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%).
-
----
-
-### 2026-08-14 06:39:21  #國際
-
-美國能源部長賴特：電價對通脹率的影響微乎其微。
 
 ---

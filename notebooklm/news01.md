@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 06:38:32_
-_本檔包含 3344 則快訊，約 640643 字_
+_更新時間：2026-08-21 06:57:58_
+_本檔包含 3353 則快訊，約 640718 字_
+
+---
+
+### 2026-08-21 06:57:19  #其他
+
+【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。（央視新聞）
+
+---
+
+### 2026-08-21 06:57:03  #Trading Economics #Economy #New Zealand #Exports #Importance 1
+
+New Zealand Exports Rise 13.5% in July — Exports increased 13.5% yoy to NZD 7.39 billion in July 2026, mainly driven by higher sales of milk powder, butter, and cheese (6.4%); meat and edible offal (34.0%); aluminum and aluminum articles (43.0%); and fruit (15.0%).
+
+---
+
+### 2026-08-21 06:55:56  #MKT News #Market Regions #Japan & APAC #000660.KS
+
+【Report: SK Hynix to build memory fab in Miyagi, Japan】South Korea's SK Hynix is reportedly seeking to build a memory-chip manufacturing plant in Miyagi prefecture, Japan, marking the first production base by a South Korean chipmaker in Japan. Investment could reach tens of trillions of won. Industry sources said SK Group chairman Chey Tae-won recently visited the area. SK Hynix said any site with necessary infrastructure could be a candidate but no decision has been made.
+
+---
+
+### 2026-08-21 06:55:28  #國際
+
+【特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星】當地時間8月20日，白宮表示，美國總統特朗普已簽署一份備忘錄，提出到2030年，美國太空運輸靶場和相關設施應具備支援每年超過1000次發射和再入任務的能力。備忘錄稱，美國將擴大和改善太空發射及再入基礎設施，要求有關部門推動聯邦發射場向商業使用者開放，鼓勵商業投資、公私合作以及基礎設施共同開發，並加快設施許可和環境審查。NASA還被要求制定商業化月球物流架構，探索商業機器人登陸火星，以及商業載人往返火星的相關架構。（央視新聞）
+
+---
+
+### 2026-08-21 06:53:24  #Trading Economics #Economy #New Zealand #Balance of Trade #Importance 2
+
+New Zealand Trade Gap Largest in Near 2 Years — New Zealand's trade deficit widened to NZD 1.94 billion in July 2026, up from NZD 0.76 billion in the same month a year earlier and surpassing estimates of NZD 0.32 billion. It was the largest trade deficit since September 2024, as exports grew less than imports.
+
+---
+
+### 2026-08-21 06:51:04  #MKT News #Important #GBPUSD #Impact mixed #FTSE100
+
+U.K. August GfK consumer confidence index due in 10 minutes.
+
+---
+
+### 2026-08-21 06:45:17  #MKT News #Market Regions #Japan & APAC #DXY #Impact bullish
+
+New Zealand July trade balance: deficit NZD 1.949 bln; June balance revised from a NZD 23 mln surplus to a NZD 237 mln deficit.
+
+---
+
+### 2026-08-21 06:45:11  #其他
+
+紐西蘭7月12個月貿易帳 -52.36億紐元，前值 -37.46億紐元。
+
+---
+
+### 2026-08-21 06:45:11  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+New Zealand 12-month trade balance for July: -NZD5.24bln; prior -NZD3.746bln revised to -NZD4.05bln.
+
+---
+
+### 2026-08-21 06:45:10  #MKT News #DXY #Impact bullish #USDJPY
+
+New Zealand July exports NZD 7.39 bln; previous value revised from NZD 8.09 bln to NZD 7.83 bln.
+
+---
+
+### 2026-08-21 06:45:10  #MKT News
+
+New Zealand July imports NZ$9.34 bln, previous NZ$8.07 bln.
+
+---
+
+### 2026-08-21 06:45:05  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Surges by 14.00% — Top crypto gainers are XRP (14%), Bitcoin (5.05%), Binance (4.59%) and Ether (2.87%).
+
+---
+
+### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Exports (Jul) | actual 7390000000.000001B | previous 8090000000.000001B
+
+---
+
+### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Imports (Jul) | actual 9340000000B | previous 8070000000B
+
+---
+
+### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | 12-Month Trade Balance (Jul) | actual -5240000000B | previous -3746000000B
+
+---
+
+### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Trade Balance (Jul) | actual -1949000000B | previous 23000000B
+
+---
+
+### 2026-08-21 06:43:00  #市場 #焦點
+
+紐約期金突破4580美元/盎司，日內漲0.17%。
+
+---
+
+### 2026-08-21 06:40:49  #MKT News #WTI #Impact bullish #Brent
+
+U.S. President Trump said Iran possesses some missiles and drones but has limited production capacity.
+
+---
+
+### 2026-08-21 06:40:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Falls by 2.79% — Top commodity losers are Oat (-2.79%) and Rapeseed (-1.26%). Gains are led by Rubber (1.51%) and Palm Oil (1.39%).
 
 ---
 
@@ -20144,74 +20258,5 @@ NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks 
 ### 2026-08-20 06:52:37  #MKT News #Macro & Rates
 
 【Senators demand Kevin Warsh disclose calls with Trump despite blank schedule】Four Senate Democrats led by Chris Van Hollen have asked Fed Chair Kevin Warsh to publicly disclose his communications with President Trump after the Wall Street Journal reported multiple calls despite no entries on Warsh’s official schedule. The senators said nondisclosure could create the impression the White House is directing monetary policy and asked Warsh to confirm in writing whether he has had any contact with Trump since taking office or to amend his schedule to show such calls. Warsh did not directly answer Van Hollen last month. White House NEC Director Kevin Hassett said in early August that Trump did not press Warsh on rate decisions; Trump has said he spoke to Warsh only once briefly. By contrast, former Fed Chair Jerome Powell documented and disclosed several calls and face-to-face meetings with Trump.
-
----
-
-### 2026-08-20 06:52:13  #公司 #市場
-
-【黃金理財產品淨值回暖，理財公司看重黃金壓艙石價值】受近期黃金價格反彈影響，多隻含黃金策略理財產品淨值創出歷史新高，一度被市場冷落的“黃金+”理財產品再度引發投資者關注。在發行端，黃金主題理財產品近兩個月處於沉寂狀態，有理財機構人士透露，未來一段時間內不會發行黃金主題理財產品，現階段抓住市場視窗期，在固收增強類產品的投資組合中靈活配置黃金相關資產。調研發現，目前理財公司對黃金“壓艙石”的定位及其資產配置價值已形成較強共識，認為在多資產多策略的框架下，黃金是不可或缺的一環，後續將以更為靈活的節奏“逢低配置”。（中證報）
-
----
-
-### 2026-08-20 06:46:04  #公司
-
-【“六張網”建設提速，上市公司掘金新機遇】8月19日，國家發展改革委副主任嶽修虎主持召開“六張網”重大專案協調排程機制會，研究建立算力網、新型電網、新一代通訊網“2+3+N”（2家電網+3家電信運營商+N家算力相關企業）協調機制，加大統籌力度，形成工作合力，共同推動重大專案加快建設。近期，紮實推進“六張網”規劃建設的政策訊號持續釋放。隨著“規劃圖”逐步落地為“施工圖”，相關產業鏈上下游公司頻頻中標專案、簽約訂單。專家認為，“六張網”建設投資空間巨大，將為相關產業增長提供長期確定性支撐。（中證報）
-
----
-
-### 2026-08-20 06:45:53  #市場
-
-【“固收+”產品業績急剎車，上半年績優品種回撤明顯】經歷了上半年的規模與業績雙豐收後，“固收+”產品7月以來遭遇明顯回撤。截至8月18日，上半年回報率超1%的產品裡已有50只年內回報轉負，上半年回報率超過20%的29只產品7月以來全部出現負回報。本輪迴撤主要源於權益部分科技板塊大幅下跌，債券部分收益較薄，無法形成有效對沖。部分產品二季度大幅抬升股票倉位，且持倉集中於AI產業鏈，這一佈局導致在科技板塊回撥階段進一步放大了淨值波動。業內人士認為，下半年市場風格有望趨於均衡，“固收+”產品的基金管理人應更加重視倉位與風險等級的匹配及跨資產配置能力。（中證報）
-
----
-
-### 2026-08-20 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Surges by 17.90% — Top crypto gainers are Ether (17.90%), Bitcoin (7.16%) and Binance (4.29%).
-
----
-
-### 2026-08-20 06:42:38  #公司
-
-【解鎖AI算力新場景，科創債發行持續擴容提質】無錫高新區科創產業發展集團有限公司近期在上海證券交易所成功發行全國首單專項用於詞元（Token）算力工廠建設的科技創新公司債券。Wind資料顯示，今年以來，科創債發行擴容提質，發行規模超1.2萬億元。專家表示，當前科創債產品創新持續加碼、市場規模穩步攀升，精準對接科創領域融資需求，助力實體經濟與科創產業發展。（中證報）
-
----
-
-### 2026-08-20 06:40:17  #其他
-
-阿根廷經濟部長：阿根廷就貝爾格拉諾貨運鐵路網 50 年特許經營權啟動招標。
-
----
-
-### 2026-08-20 06:40:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cotton Gains by 3.18% — Top commodity gainers are Cotton (3.18%), Palm Oil (2.92%) and Wheat (2.37%). Biggest loser is Coffee (-1.33%).
-
----
-
-### 2026-08-20 06:36:39  #宏觀 #公司 #市場 #央行 #國際
-
-【8月20日隔夜要聞一覽】
-1、美國政府債務突破40萬億美元，十年間翻逾一倍。
-2、特朗普週三表示，對美聯儲（7月）沒有降息表示不滿，堅稱穩健的經濟資料不應阻止央行採取更寬鬆的政策立場。
-3、美聯儲7月會議紀要顯示：若通脹不降溫，美聯儲官員認為需加息。
-4、美國擬在貿易協議中將加拿大汽車關稅降至15%。
-5、OpenAI首席財務官莎拉·弗萊爾週三在全體員工大會上告訴員工，將在2027年上市，但如果業務持續向好，也可能更早。
-6、Moderna股價飆升170%，與默沙東合作的黑色素瘤疫苗在大規模試驗中取得成功。
-7、Marvell Technology股價上漲9%，該公司達成了一項允許谷歌購買至多122億美元公司股份的交易。
-8、伊朗央行行長：目前尚未有任何被凍結的資金解凍。
-9、美國財政部週三表示，將把政府債務回購規模提高一倍以上。
-
----
-
-### 2026-08-20 06:35:42  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
-
-【Carney presses provinces to lift US alcohol bans to secure US-Canada trade deal】Canadian Prime Minister Mark Carney urged provincial premiers in a Wednesday call to restore US wine and spirits sales in local stores after a US-Canada trade agreement is finalized, Nova Scotia Premier Tim Houston said. Provinces set alcohol retail rules; most pulled US alcohol last year in retaliation for US tariffs, sharply reducing US wine and distilled spirits exports. Major provinces including Ontario, Quebec and British Columbia still maintain bans. It is unclear whether premiers will comply; if they refuse, the preliminary trade deal announced by Trump could be jeopardized. The White House has said ending the bans is a core pillar of any US-Canada agreement.
-
----
-
-### 2026-08-20 06:35:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Surges by 5.67% — Top commodity gainers are Silver (5.67%), Platinum (5.39%) and Gold (4.23%). Biggest loser is Lithium Carbonate (-1.21%).
 
 ---

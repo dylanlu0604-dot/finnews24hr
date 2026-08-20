@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 06:38:32_
-_本檔包含 2985 則快訊，約 640834 字_
+_更新時間：2026-08-21 06:57:58_
+_本檔包含 2985 則快訊，約 640533 字_
+
+---
+
+### 2026-08-17 21:33:47  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold.
+
+---
+
+### 2026-08-17 21:33:09  #國際
+
+以色列媒體：內塔尼亞胡與庫什納已達成協議，以色列軍隊將保持"行動自由”。
+
+---
+
+### 2026-08-17 21:33:06  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
+
+S&P 500 opened down 0.93 points (-0.01%) at 7,784.80 on Monday, Aug. 17; Dow Jones Industrial Average opened down 135.27 points (-0.25%) at 53,597.14; Nasdaq Composite opened up 47.27 points (0.18%) at 26,776.43.
+
+---
+
+### 2026-08-17 21:32:39  #其他
+
+富國銀行投資研究所將2027年末金價目標區間從此前預測的每盎司5800-6000美元下調至每盎司5400-5600美元。
+
+---
+
+### 2026-08-17 21:31:59  #其他
+
+費城半導體指數漲1.5%，報12610.92點。
+
+---
+
+### 2026-08-17 21:31:54  #公司 #國際
+
+市場訊息：泛大西洋投資集團近期已向美國證券交易委員會更新 IPO 申報檔案。
+
+---
+
+### 2026-08-17 21:31:52  #MKT News
+
+The US Supreme Court declined to hear Trump’s renewed bid to review his appeal of a $5 million judgment in favor of E. Jean Carroll.
+
+---
+
+### 2026-08-17 21:31:48  #市場
+
+英偉達(NVDA.O)上漲0.8%，OpenAI承諾將在2030年前大規模部署英偉達AI基礎設施。
+
+---
+
+### 2026-08-17 21:31:45  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%，華住酒店集團漲8.78%，亞朵集團漲2.19%，新東方漲2.23%，世紀互聯漲2.11%，小鵬汽車漲2.14%。
+
+---
+
+### 2026-08-17 21:31:42  #市場
+
+禮來以3.7億美元達成藥物發現合作，Omniab股價大漲19.5%。
+
+---
+
+### 2026-08-17 21:31:28  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) shares rose 0.8%. OpenAI pledged to deploy NVIDIA AI infrastructure at scale by 2030.
+
+---
+
+### 2026-08-17 21:31:25  #國際
+
+市場訊息：美國最高法院駁回特朗普關於就陪審團裁定伊·讓·卡羅爾獲賠500萬美元一案提起上訴的再次申請。
+
+---
+
+### 2026-08-17 21:30:51  #MKT News #Important #Dow #Impact bearish #Nasdaq100 #Impact bullish #MU.O
+
+U.S. open: Dow down 0.3%, S&P 500 near flat, Nasdaq +0.2%. Storage stocks led gains: Micron Technology (MU.O) +3.6%, SanDisk (SNDK.O) +4.5%. Alphabet (GOOG.O) +0.2%; Berkshire Hathaway continued adding to its Alphabet stake in Q2. Alibaba (BABA.N) +1.6% after agreeing to sell its gaming unit for $1.5 bln.
+
+---
+
+### 2026-08-17 21:30:49  #市場
+
+道瓊斯工業平均指數開盤後下跌122.81點，跌幅0.23%，報53609.60點。
+
+---
+
+### 2026-08-17 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.24%，標普500指數漲0.04%，納指漲0.19%。閃迪漲4.61%，美光漲3.76%，L3 HARRIS TECHNOLOGIES INC跌3.15%，工時公司跌2.42%。“七姐妹”方面：亞馬遜漲0.80%，英偉達漲0.79%，蘋果漲0.39%，谷歌漲0.20%，Meta Platforms跌0.70%，特斯拉跌1.00%，微軟跌1.04%。
+
+---
+
+### 2026-08-17 21:30:30  #市場
+
+多倫多S&P/TSX綜合股指開盤下跌42.89點，跌幅0.12%，報36687.38點。
+
+---
+
+### 2026-08-17 21:29:34  #公司 #國際
+
+【4家深企獲美國蓋倫獎提名】近日，享有“醫藥界諾貝爾獎”之稱的美國蓋倫獎（PrixGalienUSA）公佈2026年提名名單。深圳新銳科技企業萊芒生物、默達生物、瑞圖生物、深信生物入圍“最佳初創公司（BestStartup）”獎項。值得一提的是，萊芒生物、默達生物這兩家企業都是由晶泰科技孵化，也是繼2025年晶泰孵化企業希格生科獲得“最佳生物技術產品獎”提名後，晶泰生態圈企業連續第二年登上蓋倫獎榜單。（深圳釋出）
+
+---
+
+### 2026-08-17 21:29:12  #MKT News #Commodities #Energy
+
+Fullgoal Investment Research Institute upgraded its rating on the global energy sector to Neutral from Unfavorable.
+
+---
+
+### 2026-08-17 21:27:15  #市場
+
+【Evercore ISI：標普 500 指數或觸及 9000 點】Evercore ISI 策略師朱利安・伊曼紐爾表示，標普 500 指數有望在 12 個月內達到 9000 點，較當前水平大約有 16% 的上行空間。他認為，經濟衰退、長期收益率飆升、投資者極度追漲情緒這些傳統牛市終結因素目前尚未顯現。伊曼紐爾還指出，人工智慧熱潮、企業低槓桿水平以及投資者多元化持倉將帶來進一步上漲動力。其基準情景下標普 500 指數目標位仍為 7750 點。
+
+---
+
+### 2026-08-17 21:26:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD #Impact bullish #GOOG.O
+
+Alphabet (GOOG.O) plans to raise $3.6 billion in its inaugural Australian bond offering.
 
 ---
 
@@ -17886,125 +18006,5 @@ Yemen's Mokha port manager said the port suspended operations after an attack by
 ### 2026-08-15 23:08:54  #其他
 
 【哥倫比亞強震已致294人遇難】據哥倫比亞國家災害風險管理局截至當地時間8月15日6時30分發布的最新統計，哥倫比亞地震已造成294人死亡、3935人受傷、320人失蹤，另有353人獲救。據中國地震臺網正式測定，北京時間10日晚上（哥倫比亞當地時間10日上午），哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。
-
----
-
-### 2026-08-15 23:04:59  #其他
-
-【中歐北極快航正式常態化運營】8月15日19時許，海傑航運“迪拜塔”號緩緩駛離寧波舟山港穿山港區集裝箱碼頭，標誌著寧波舟山港中歐北極集裝箱航線（簡稱中歐北極快航）正式邁入夏季通航季周班運營新階段，此航線常態化運營為中歐貿易開闢了一條快捷高效、綠色低碳、韌性強勁的北向物流大通道。（新華社）
-
----
-
-### 2026-08-15 23:04:27  #其他
-
-秘魯政府：秘魯6月國內生產總值同比增長1.75%。
-
----
-
-### 2026-08-15 23:02:17  #國際
-
-【以色列空襲黎巴嫩 造成11人死亡】據黎巴嫩公共衛生部緊急行動中心當地時間15日下午釋出的宣告，當天以色列對納巴提耶區代爾扎赫拉尼和安薩爾鎮的空襲共造成11人死亡，另有19人受傷。
-
----
-
-### 2026-08-15 23:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel Defense Forces said it killed a commander in Hezbollah's Radwan unit.
-
----
-
-### 2026-08-15 22:48:56  #國際
-
-土耳其總統埃爾多安：土耳其不會對加沙置之不理，我們將採取一切必要舉措向其提供支援。
-
----
-
-### 2026-08-15 22:45:50  #其他
-
-尚比亞總統希奇萊馬在連任角逐中初步領先。
-
----
-
-### 2026-08-15 22:45:01  #國際
-
-【黎巴嫩譴責以色列襲擊黎南違反框架協議】黎巴嫩總統奧恩15日譴責以色列當天對黎南地區發動的空襲，稱以方襲擊違反黎以美三方框架協議和國際法，導致奈拜提耶地區安薩爾村一家人全部遇難。黎巴嫩衛生部發表宣告說，以軍當天對安薩爾村發動空襲，造成7人死亡、多人受傷，死者中包括3名兒童和2名婦女。以軍當天還對奈拜提耶地區迪爾扎赫拉尼鎮發動空襲，造成4人死亡、17人受傷。（新華社）
-
----
-
-### 2026-08-15 22:44:46  #MKT News
-
-【Iran's PEZESHKIAN convenes meeting of executive, legislative and judicial leaders】President PEZESHKIAN met with parliament speaker Ghalibaf and judiciary chief Gholam‑Hossein Mohseni‑Eje'i to review domestic developments and priority work. The leaders called for strengthened coordination among the executive, legislature and judiciary and a unified, coordinated approach to advance state affairs and safeguard public and national interests.
-
----
-
-### 2026-08-15 22:42:45  #公司 #焦點 #國際
-
-【以色列正試圖操控人工智慧關於加沙議題的輸出內容】以色列已發起一場公關宣傳活動，目的是引導ChatGPT等人工智慧系統在回答有關以色列、加沙以及以色列國防軍相關問題時的表述傾向。多家受以色列委託的公關公司成立了漢諾威公共政策研究所，該機構釋出大量設問式報告，例如《以色列國防軍是全球最講道義的軍隊嗎？》《加沙是否存在刻意製造饑荒的政策？》。這些文稿是以色列出資、總投入10萬美元宣傳專案的組成部分。相關測試顯示，當使用者提出中立問題時，ChatGPT與Perplexity人工智慧模型會引用這家研究所釋出的資料。以色列還資助了另一項總額4650萬美元的輿論干預專案，該專案專門搭建各類網站、產出定製內容，以此干預“GPT模型的內容輸出導向”。
-
----
-
-### 2026-08-15 22:40:32  #MKT News
-
-The office of the Israeli prime minister said HEZBOLLAH launched an attack in Lebanon's "security zone", wounding three soldiers.
-
----
-
-### 2026-08-15 22:40:10  #國際
-
-以色列總理辦公室：真主黨在黎巴嫩“安全區”發動襲擊，造成三名士兵受傷。
-
----
-
-### 2026-08-15 22:39:50  #國際
-
-土耳其總統埃爾多安：《麥加協議》向世界傳遞了重要訊號。《麥加協議》規定，若任一簽署國遭受外部襲擊，所有簽約國都將採取統一行動。該協議未來允許其他國家加入，埃及也有望參與其中。
-
----
-
-### 2026-08-15 22:39:28  #其他
-
-土耳其總統埃爾多安：我們將優先推動霍爾木茲海峽恢復通航，持續封鎖這條海峽不符合任何一方的利益。
-
----
-
-### 2026-08-15 22:39:20  #國際
-
-土耳其總統埃爾多安：歐洲似乎無意接納土耳其加入歐盟。加入歐盟已不再是我們的優先事項，土耳其無法入盟，最終受損的只會是歐洲。
-
----
-
-### 2026-08-15 22:38:08  #國際
-
-土耳其總統埃爾多安：特朗普近期訪土期間，我與他探討了必須停止黎巴嫩戰事的相關事宜。
-
----
-
-### 2026-08-15 22:37:49  #國際
-
-土耳其總統埃爾多安：卡達為調停結束中東地區衝突發揮了重要作用。
-
----
-
-### 2026-08-15 22:37:38  #國際
-
-土耳其總統埃爾多安：美國在制止以色列對黎巴嫩發動戰事一事上起到關鍵作用。
-
----
-
-### 2026-08-15 22:37:24  #MKT News #WTI #Impact bearish #Brent
-
-ERDOGAN said he prioritizes reopening the Strait of Hormuz, saying a prolonged closure would benefit no one.
-
----
-
-### 2026-08-15 22:37:11  #MKT News
-
-Turkish President Erdogan said Europe appears unwilling to accept Turkey into the EU, and that EU accession is not Ankara's priority, adding Europe would be the one to lose.
-
----
-
-### 2026-08-15 22:36:58  #MKT News #Market Regions #Emerging Markets
-
-【Indonesia advances plan for financial and investment centre to attract global capital】Indonesia is advancing plans to establish an Indonesia Financial and Investment Center (IIFC) to attract global capital and leverage the country's rising appeal to investors, the government said. Officials described Indonesia as a high-potential market with substantial growth space and said the IIFC would act as a support mechanism to draw capital from multiple countries and capitalise on those opportunities.
 
 ---
