@@ -1,7 +1,113 @@
 {
   "date": "2026-08-20",
-  "count": 1116,
+  "count": 1128,
   "items": [
+    {
+      "id": "mkt:01a01dad-9d23-7aab-90a9-8d7f8f9d7f4d",
+      "time": "2026-08-20 13:38:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Afternoon A-share session retreated: Shanghai Composite slipped into negative territory, Shenzhen Composite Index +0.2%, ChiNext +0.11%; more than 3,700 stocks advanced."
+    },
+    {
+      "id": "5049089",
+      "time": "2026-08-20 13:37:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.04%，成分股中，滬矽產業跌8.54%，時代電氣跌4.50%，芯原股份跌4.19%，海光資訊跌3.89%。"
+    },
+    {
+      "id": "5049088",
+      "time": "2026-08-20 13:37:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農業板塊區域性回暖 海南橡膠漲停】午後農業板塊區域性回暖，海南橡膠漲停，此前金健米業4連板，中糧糖業、冠農股份、宏輝果蔬跟漲，神農種業、秋樂種業、康農種業等跌幅收窄。"
+    },
+    {
+      "id": "5049087",
+      "time": "2026-08-20 13:37:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技王興興：公司正在推進讓物理AI機器人模型自進化】8月19日至23日，2026世界機器人大會（WRC）在北京亦莊北人亦創國際會展中心舉行。宇樹科技董事長王興興在論壇上表示，過去多年，AI多用於程式設計和開發，但在機器人領域的應用仍顯不足。所以公司最近一段時間在推動的事情就是，直接讓物理AI機器人模型自進化。“就是使用目前最前沿的頂尖AI大模型來驅動，然後我們自己定一些規則，定一些經驗，包括定一些約束和工具，讓它自己去網上搜尋最新的一些論文，最好的一些研究成果，最好的一些各種的一些開源方案，讓它自己去程式設計，生成自己的機器的控制程式碼。”王興興說，控制程式碼生成以後，它可以在模擬環境裡面執行，或者去生成一些、呼叫一些大模型，然後去控制一個實物機器人，在實物機器上做一些部署測試，然後進行評價和打分。"
+    },
+    {
+      "id": "mkt:01a01dac-1baa-7aab-90a9-835e3cfd15b8",
+      "time": "2026-08-20 13:36:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【2026 World Power Battery Conference set for Sept. 3-4 in Yibin, Sichuan】The State Council has approved the 2026 World Power Battery Conference, to be hosted by the Sichuan provincial government in Yibin on Sept. 3-4. Market-focused programming includes eight themed sessions on industry policy, frontier technologies, innovative applications, new energy storage and battery recycling. Organizers will publish a Power Battery Industry Development Index (2026), a Power Battery Technology Roadmap and a package of 2026 sector innovation technology results."
+    },
+    {
+      "id": "5049086",
+      "time": "2026-08-20 13:36:36",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "馬斯克：看樣子，我們大概再過幾個月就能完成飛船對接海上塔架的回收。如果當時海上就建有用於飛船降落演練的塔架，這次就已經回收成功了。飛船的首次復飛將在今年年底或明年初。這將是人類邁向星際征程的歷史分水嶺。"
+    },
+    {
+      "id": "mkt:01a01dab-c134-7aab-90a9-7ad8e8da2e58",
+      "time": "2026-08-20 13:36:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel defence minister says Erdogan is dragging Turkey into a dangerous Syria 'adventure'】Israeli defense minister Katz accused Turkish President Erdogan of dragging Turkey into a dangerous 'adventure' in Syria, saying Erdogan should confine himself to parliamentary rhetoric rather than test Israel's resolve to defend itself. Katz added Israel will not allow any state or group to threaten its security. Turkey had no immediate response."
+    },
+    {
+      "id": "5049085",
+      "time": "2026-08-20 13:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長：埃爾多安正將土耳其“拖入敘利亞的危險冒險中”】當地時間20日，以色列國防部長卡茨發表宣告，指責土耳其總統埃爾多安正將土耳其“拖入敘利亞的危險冒險中”。卡茨表示，“對埃爾多安來說，最好是繼續在土耳其議會發錶針對以色列的空洞、妄想的演講，而不是來試探以色列自衛的決心。”卡茨稱，以色列絕不允許任何國家和組織威脅其安全。土耳其方面對此暫未回應。（央視新聞）"
+    },
+    {
+      "id": "5049084",
+      "time": "2026-08-20 13:35:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4480美元/盎司，日內跌0.95%。"
+    },
+    {
+      "id": "mkt:01a01daa-9caa-7aab-90a9-70bc87f081f5",
+      "time": "2026-08-20 13:35:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed up 214.39 points, or 0.48%, at 44,933.74 on Thursday, Aug. 20."
+    },
+    {
+      "id": "5049083",
+      "time": "2026-08-20 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.5%報44,933.74。"
+    },
+    {
+      "id": "5049082",
+      "time": "2026-08-20 13:34:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2026世界動力電池大會將於9月3日至4日在四川宜賓舉辦】據四川釋出，8月20日，省政府新聞辦在四川新聞釋出廳舉行新聞釋出會。會上，省政府副秘書長田成川介紹，世界動力電池大會是經國家批准，由四川省人民政府主辦的全國唯一、具有世界影響力的動力電池產業國際性會議。經國務院批准，2026世界動力電池大會將於9月3日至4日在四川省宜賓市舉辦。大會圍繞行業政策、前沿技術、創新應用、新型儲能、電池回收等設定8個專題會議，聚焦關鍵技術、產業轉型開展深度對話，將釋出《動力電池產業發展指數（2026）》《動力電池技術路線圖》、2026年動力電池領域創新技術等成果。"
+    },
     {
       "id": "5049081",
       "time": "2026-08-20 13:34:15",
