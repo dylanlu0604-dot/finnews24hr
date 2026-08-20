@@ -1,7 +1,61 @@
 {
   "date": "2026-08-20",
-  "count": 2954,
+  "count": 2960,
   "items": [
+    {
+      "id": "5050350",
+      "time": "2026-08-20 21:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "西門子：最高法院駁回稅務部門提交的特別許可申請；訴訟以西門子勝訴告終。"
+    },
+    {
+      "id": "5050349",
+      "time": "2026-08-20 21:53:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "VIRTU FINANCIAL股價下跌5.4%。"
+    },
+    {
+      "id": "5050348",
+      "time": "2026-08-20 21:53:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：政府立法事務主任詹姆斯·佈雷德將於九月離開白宮。"
+    },
+    {
+      "id": "mkt:01a01f72-4563-7aab-90b8-e58c18ee9da3",
+      "time": "2026-08-20 21:52:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said White House director of legislative affairs James Breed will leave in September."
+    },
+    {
+      "id": "mkt:01a01f71-2529-7aab-90b8-d8700ea28d25",
+      "time": "2026-08-20 21:51:43",
+      "tags": [
+        "MKT News",
+        "VIRT.O",
+        "Impact bearish"
+      ],
+      "text": "Virtu Financial fell to an intraday low after erasing earlier gains."
+    },
+    {
+      "id": "te:markets:576895",
+      "time": "2026-08-20 21:51:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Coca-Cola Stock Price Hits 50-1/2-year High — Coca-Cola shares increased to 90.92 USD, the highest since February 1976. Over the past 4 weeks, Coca-Cola gained 10.81%, and in the last 12 months, it increased 28.55%."
+    },
     {
       "id": "5050347",
       "time": "2026-08-20 21:50:30",
