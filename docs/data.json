@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-21 03:58:33",
-  "count": 16104,
+  "updated": "2026-08-21 04:02:24",
+  "count": 16103,
   "items": [
+    {
+      "id": "5050779",
+      "time": "2026-08-21 04:01:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。"
+    },
+    {
+      "id": "5050778",
+      "time": "2026-08-21 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌1.31%，標普500指數跌0.86%，納指跌1.00%。Moderna跌23.55%，沃爾瑪跌9.15%，直覺外科跌5.86%，CrowdStrike跌5.61%。“七姐妹”方面：Meta Platforms跌0.03%，英偉達跌0.33%，微軟跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，蘋果跌1.75%，亞馬遜跌2.16%。"
+    },
+    {
+      "id": "mkt:01a020c3-010b-7aab-90c0-b709ec1150db",
+      "time": "2026-08-21 04:00:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them."
+    },
+    {
+      "id": "5050777",
+      "time": "2026-08-21 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.12%】Tims中國跌11.81%，萬物新生跌11.00%，愛奇藝跌9.29%，金山雲跌7.64%，亞朵集團跌7.50%。"
+    },
+    {
+      "id": "5050776",
+      "time": "2026-08-21 03:58:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：現代汽車將提升其佐治亞州新工廠的美國本土產能。"
+    },
     {
       "id": "te:markets:576957",
       "time": "2026-08-21 03:56:46",
@@ -147308,59 +147355,6 @@
         "MKT News"
       ],
       "text": "Spot palladium fell more than 4.0% intraday, trading at $1,309.61/oz."
-    },
-    {
-      "id": "mkt:019ffcb7-b0b0-7aab-902d-153c79669886",
-      "time": "2026-08-14 04:02:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Micron Ventures launches $250m fund to invest in next-generation artificial intelligence technologies."
-    },
-    {
-      "id": "5040008",
-      "time": "2026-08-14 04:01:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光科技：美光風投基金總承諾出資規模增至 5.5 億美元。"
-    },
-    {
-      "id": "mkt:019ffcb6-fe94-7aab-902d-0bc495303f34",
-      "time": "2026-08-14 04:01:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US close: major indices rise as memory stocks rally】US stocks closed higher on Thursday: the Dow Jones Industrial Average rose 0.13%, the S&P 500 gained 0.65% and the Nasdaq Composite climbed 0.8%. Memory-sector names led gains — Micron +4%, SanDisk +13.6%, SK Hynix +7% — while the Nasdaq Golden Dragon China Index fell 1.85%; Alibaba declined 2% and JD.com dropped 7%."
-    },
-    {
-      "id": "5040007",
-      "time": "2026-08-14 04:01:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "WORKDAY股價收盤上漲18%，創2016年以來最佳單日表現。"
-    },
-    {
-      "id": "5040006",
-      "time": "2026-08-14 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.13%，標普500指數漲0.65%，納指漲0.82%。工時公司漲17.78%，閃迪漲13.67%，GoDaddy漲9.41%，科斯塔漲8.36%，The Trade Desk漲7.93%。“七姐妹”方面：特斯拉漲3.80%，Meta Platforms漲2.74%，蘋果漲1.01%，微軟漲0.90%，英偉達漲0.56%，谷歌漲0.44%，亞馬遜跌0.80%。"
-    },
-    {
-      "id": "5040005",
-      "time": "2026-08-14 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。"
     }
   ]
 }
