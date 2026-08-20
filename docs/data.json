@@ -1,7 +1,205 @@
 {
-  "updated": "2026-08-20 23:27:58",
-  "count": 15998,
+  "updated": "2026-08-20 23:32:04",
+  "count": 16002,
   "items": [
+    {
+      "id": "mkt:01a01fcc-17f0-7aab-90bc-861c22b7a9b9",
+      "time": "2026-08-20 23:31:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Musalem said a super El Niño could be the next supply shock."
+    },
+    {
+      "id": "te:economy:576915",
+      "time": "2026-08-20 23:31:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "UK 10-Year Gilt Yield Moves Higher — The UK 10-year gilt yield rose to around 5.06% as higher oil prices reinforced concerns about inflation and the outlook for monetary policy. The increase in energy costs is particularly significant for the UK, a net oil importer that has struggled to bring inflation sustainably back to target. Consumer price inflation accelerated to a four-month high in July, although recent labour-market data pointed to some cooling in employment conditions. Markets continue to anticipate tighter monetary policy, with traders pricing in one Bank of England rate increase by the end of this year and another quarter-point hike by April next year. Rising gilt yields also reflected broader pressure across global bond markets, following a similar move in US Treasuries as the initial boost from the US Treasury’s expanded buyback programme faded."
+    },
+    {
+      "id": "5050543",
+      "time": "2026-08-20 23:30:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國CAC 40指數下跌0.38%；西班牙IBEX指數下跌0.15%。"
+    },
+    {
+      "id": "5050542",
+      "time": "2026-08-20 23:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.36%，報25997.94點。法國股指初步收跌0.39%，義大利股指初步收漲0.20%、銀行指數漲0.54%，英國股指初步收漲0.14%。"
+    },
+    {
+      "id": "te:markets:576914",
+      "time": "2026-08-20 23:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Stock Price Hits 5-week High — Progressive shares increased to 223.24 USD, the highest since July 2026. Over the past 4 weeks, Progressive gained 8.33%, and in the last 12 months, it decreased 10.4%."
+    },
+    {
+      "id": "5050541",
+      "time": "2026-08-20 23:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.04%，報650.90點。歐元區STOXX 50指數初步收跌0.17%，報6433.60點。富時泛歐績優300指數初步收跌0.02%，報2603.40點。"
+    },
+    {
+      "id": "mkt:01a01fcb-671e-7aab-90bc-7d6e7875161d",
+      "time": "2026-08-20 23:30:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's MUSALEM: firms face elevated input costs."
+    },
+    {
+      "id": "mkt:01a01fcb-3f85-7aab-90bc-703af152938e",
+      "time": "2026-08-20 23:30:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve official MUSALEM said the public's primary concern is inflation."
+    },
+    {
+      "id": "mkt:01a01fcb-1d52-7aab-90bc-6904fde9c173",
+      "time": "2026-08-20 23:29:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Fed's MUSALEM said financial conditions are currently fairly loose."
+    },
+    {
+      "id": "5050540",
+      "time": "2026-08-20 23:29:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：公眾最關切的問題是通脹。"
+    },
+    {
+      "id": "mkt:01a01fca-e826-7aab-90bc-61e27255ac47",
+      "time": "2026-08-20 23:29:46",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's MUSALEM says monetary policy is currently neutral to accommodative."
+    },
+    {
+      "id": "mkt:01a01fca-b7a4-7aab-90bc-5df837a2cd9c",
+      "time": "2026-08-20 23:29:33",
+      "tags": [
+        "MKT News",
+        "WMT.N"
+      ],
+      "text": "Walmart (WMT.N) will expand its first-party commerce intelligence platform and plans to introduce Scintilla to Sam's Club by 2027."
+    },
+    {
+      "id": "5050539",
+      "time": "2026-08-20 23:29:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：目前金融環境相當寬鬆。"
+    },
+    {
+      "id": "5050538",
+      "time": "2026-08-20 23:29:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：目前貨幣政策處於中性或寬鬆狀態。"
+    },
+    {
+      "id": "5050537",
+      "time": "2026-08-20 23:29:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：美聯儲致力於確保貨幣政策獨立於財政政策。"
+    },
+    {
+      "id": "mkt:01a01fca-4b69-7aab-90bc-56d0ceea0b49",
+      "time": "2026-08-20 23:29:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Musalem said the central bank is focused on keeping monetary policy independent of fiscal policy."
+    },
+    {
+      "id": "5050536",
+      "time": "2026-08-20 23:28:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：美聯儲的可信度不存在問題。"
+    },
+    {
+      "id": "mkt:01a01fc9-a96c-7aab-90bc-4a1b98db65c7",
+      "time": "2026-08-20 23:28:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve official MUSALEM said strong growth and investment are affecting the bond market and that the Fed's credibility remains intact."
+    },
+    {
+      "id": "5050535",
+      "time": "2026-08-20 23:27:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪將於 2027 年把 Scintilla 引入山姆會員店。"
+    },
     {
       "id": "mkt:01a01fc8-a868-7aab-90bc-46264ad84d3d",
       "time": "2026-08-20 23:27:18",
@@ -146161,153 +146359,6 @@
         "國際"
       ],
       "text": "市場訊息：美國八週期國庫券的投標/承銷比率為2.85，高於上一次拍賣的2.74。"
-    },
-    {
-      "id": "mkt:019ffbc0-4987-7aab-9029-c9ccf8dfc52e",
-      "time": "2026-08-13 23:31:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England chief economist Pill said recent UK GDP data make him more confident the economy will avoid a sharp downturn."
-    },
-    {
-      "id": "mkt:019ffbc0-329a-7aab-9029-c1c28701525f",
-      "time": "2026-08-13 23:31:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "SanDisk (SNDK.O) top executive said Meta Platforms (META.O) will join an industry group to co-develop open standards for high-bandwidth flash (HBF)."
-    },
-    {
-      "id": "5039839",
-      "time": "2026-08-13 23:31:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：新的航空母艦將取代林肯號航母。"
-    },
-    {
-      "id": "5039838",
-      "time": "2026-08-13 23:31:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲STOXX指數上漲0.18%；歐元區藍籌股上漲0.16%。"
-    },
-    {
-      "id": "5039837",
-      "time": "2026-08-13 23:31:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國CAC 40指數下跌0.29%；西班牙IBEX指數下跌0.1%。"
-    },
-    {
-      "id": "5039836",
-      "time": "2026-08-13 23:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國富時100指數下跌0.69%；德國DAX指數下跌0.15%。"
-    },
-    {
-      "id": "mkt:019ffbbf-4827-7aab-9029-ba9f8c55da37",
-      "time": "2026-08-13 23:30:44",
-      "tags": [
-        "MKT News",
-        "HII.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal reports a new aircraft carrier will replace the Lincoln."
-    },
-    {
-      "id": "5039835",
-      "time": "2026-08-13 23:30:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國法官駁回特朗普政府指控哈佛大學未能保護猶太學生的訴訟。"
-    },
-    {
-      "id": "5039834",
-      "time": "2026-08-13 23:30:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪高管稱，Meta將加入聯盟，共同制定高頻寬快閃記憶體開放標準。"
-    },
-    {
-      "id": "5039833",
-      "time": "2026-08-13 23:30:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "京東在美國上市的股票跌幅擴大，最新下跌7.9%。"
-    },
-    {
-      "id": "5039832",
-      "time": "2026-08-13 23:29:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，京東跌7.87%，盛豐物流跌6.28%，中比能源跌4.81%，Tims中國跌4.71%，滿幫跌4.64%。"
-    },
-    {
-      "id": "5039831",
-      "time": "2026-08-13 23:29:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貨幣政策委員會委員就英國GDP資料發表看法：這朝著讓我確信我們並未陷入急劇衰退的方向發展。"
-    },
-    {
-      "id": "mkt:019ffbbd-da89-7aab-9029-b3209b7fab67",
-      "time": "2026-08-13 23:29:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The U.S. will deploy a new aircraft carrier to the Middle East."
-    },
-    {
-      "id": "mkt:019ffbbd-9200-7aab-9029-ac2bc3ffeb70",
-      "time": "2026-08-13 23:28:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Reports of a Houthi attack on an ARAMCO refinery pushed diesel crack spreads above $98, their highest on record."
-    },
-    {
-      "id": "5039830",
-      "time": "2026-08-13 23:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國將向中東派遣新型航空母艦。"
     }
   ]
 }

@@ -1,7 +1,205 @@
 {
   "date": "2026-08-20",
-  "count": 3255,
+  "count": 3274,
   "items": [
+    {
+      "id": "mkt:01a01fcc-17f0-7aab-90bc-861c22b7a9b9",
+      "time": "2026-08-20 23:31:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Musalem said a super El Niño could be the next supply shock."
+    },
+    {
+      "id": "te:economy:576915",
+      "time": "2026-08-20 23:31:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "UK 10-Year Gilt Yield Moves Higher — The UK 10-year gilt yield rose to around 5.06% as higher oil prices reinforced concerns about inflation and the outlook for monetary policy. The increase in energy costs is particularly significant for the UK, a net oil importer that has struggled to bring inflation sustainably back to target. Consumer price inflation accelerated to a four-month high in July, although recent labour-market data pointed to some cooling in employment conditions. Markets continue to anticipate tighter monetary policy, with traders pricing in one Bank of England rate increase by the end of this year and another quarter-point hike by April next year. Rising gilt yields also reflected broader pressure across global bond markets, following a similar move in US Treasuries as the initial boost from the US Treasury’s expanded buyback programme faded."
+    },
+    {
+      "id": "5050543",
+      "time": "2026-08-20 23:30:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國CAC 40指數下跌0.38%；西班牙IBEX指數下跌0.15%。"
+    },
+    {
+      "id": "te:markets:576914",
+      "time": "2026-08-20 23:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Stock Price Hits 5-week High — Progressive shares increased to 223.24 USD, the highest since July 2026. Over the past 4 weeks, Progressive gained 8.33%, and in the last 12 months, it decreased 10.4%."
+    },
+    {
+      "id": "5050542",
+      "time": "2026-08-20 23:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.36%，報25997.94點。法國股指初步收跌0.39%，義大利股指初步收漲0.20%、銀行指數漲0.54%，英國股指初步收漲0.14%。"
+    },
+    {
+      "id": "5050541",
+      "time": "2026-08-20 23:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.04%，報650.90點。歐元區STOXX 50指數初步收跌0.17%，報6433.60點。富時泛歐績優300指數初步收跌0.02%，報2603.40點。"
+    },
+    {
+      "id": "mkt:01a01fcb-671e-7aab-90bc-7d6e7875161d",
+      "time": "2026-08-20 23:30:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's MUSALEM: firms face elevated input costs."
+    },
+    {
+      "id": "mkt:01a01fcb-3f85-7aab-90bc-703af152938e",
+      "time": "2026-08-20 23:30:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve official MUSALEM said the public's primary concern is inflation."
+    },
+    {
+      "id": "mkt:01a01fcb-1d52-7aab-90bc-6904fde9c173",
+      "time": "2026-08-20 23:29:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Fed's MUSALEM said financial conditions are currently fairly loose."
+    },
+    {
+      "id": "5050540",
+      "time": "2026-08-20 23:29:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：公眾最關切的問題是通脹。"
+    },
+    {
+      "id": "mkt:01a01fca-e826-7aab-90bc-61e27255ac47",
+      "time": "2026-08-20 23:29:46",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's MUSALEM says monetary policy is currently neutral to accommodative."
+    },
+    {
+      "id": "mkt:01a01fca-b7a4-7aab-90bc-5df837a2cd9c",
+      "time": "2026-08-20 23:29:33",
+      "tags": [
+        "MKT News",
+        "WMT.N"
+      ],
+      "text": "Walmart (WMT.N) will expand its first-party commerce intelligence platform and plans to introduce Scintilla to Sam's Club by 2027."
+    },
+    {
+      "id": "5050539",
+      "time": "2026-08-20 23:29:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：目前金融環境相當寬鬆。"
+    },
+    {
+      "id": "5050538",
+      "time": "2026-08-20 23:29:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：目前貨幣政策處於中性或寬鬆狀態。"
+    },
+    {
+      "id": "mkt:01a01fca-4b69-7aab-90bc-56d0ceea0b49",
+      "time": "2026-08-20 23:29:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Musalem said the central bank is focused on keeping monetary policy independent of fiscal policy."
+    },
+    {
+      "id": "5050537",
+      "time": "2026-08-20 23:29:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：美聯儲致力於確保貨幣政策獨立於財政政策。"
+    },
+    {
+      "id": "5050536",
+      "time": "2026-08-20 23:28:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：美聯儲的可信度不存在問題。"
+    },
+    {
+      "id": "mkt:01a01fc9-a96c-7aab-90bc-4a1b98db65c7",
+      "time": "2026-08-20 23:28:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve official MUSALEM said strong growth and investment are affecting the bond market and that the Fed's credibility remains intact."
+    },
+    {
+      "id": "5050535",
+      "time": "2026-08-20 23:27:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪將於 2027 年把 Scintilla 引入山姆會員店。"
+    },
     {
       "id": "mkt:01a01fc8-a868-7aab-90bc-46264ad84d3d",
       "time": "2026-08-20 23:27:18",
