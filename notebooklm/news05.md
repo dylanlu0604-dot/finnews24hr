@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 12:49:45_
-_本檔包含 3295 則快訊，約 627177 字_
+_更新時間：2026-08-20 13:42:56_
+_本檔包含 3278 則快訊，約 628268 字_
+
+---
+
+### 2026-08-14 15:20:55  #公司 #觀點
+
+【中金：中國移動需求旺盛CAPEX同比增長，維持AH股“跑贏行業”評級】中金公司研報指出，中國移動1H26收入符合預期，利潤好於預期。1H26基礎通訊業務承壓、算力服務增長明顯、智慧服務基本穩定。Token 經營、算力業務等新業務契合市場旺盛需求、發展迅速，伴隨新業務發展，上半年資本開支同比增長並且結構顯著向算力傾斜。認為客戶算力需求旺盛，公司資本開支提升及結構變化與業務發展匹配；展望全年，一方面，公司或將進行資料中心、算力資源適度前置投入；一方面，考慮到通訊網路資源仍能承載使用者流量提升後的網路需求，支援資本開支金額總體可控。公司重視股東回報，淨利潤下滑壓力下，每股股息仍提升。採用SOTP估值法，A股維持“跑贏行業”評級和118元目標價，港股維持“跑贏行業”評級和102港元目標價。
+
+---
+
+### 2026-08-14 15:20:45  #Trading Economics #Economy #Switzerland #GDP Growth Rate #Importance 2
+
+Swiss Q2 GDP Growth Strongest Since 2021 — Switzerland's economy expanded by 1.5% quarter-on-quarter in the three months to June 2026, accelerating sharply from 0.4% growth in the previous period, according to flash estimates. The reading marked the strongest quarterly expansion since the third quarter of 2021, underscoring the country's ability to withstand headwinds, including elevated energy costs linked to Middle East tensions and persistent trade uncertainty. The latter stems from the absence of a legally binding trade agreement with the US, even after Switzerland secured a preliminary deal last November that capped tariffs at 15%. Growth was driven primarily by the industrial sector, with the chemical and pharmaceutical industry providing the largest boost to economic activity. The services sector also expanded, further supporting the broad-based improvement in output.
+
+---
+
+### 2026-08-14 15:20:26  #其他
+
+【浙江長興突發山洪泥石流致1死3失聯】受突發短時強降雨極端天氣影響，8月14日6時30分許，浙江長興縣和平鎮灘龍橋村發生泥石流，初步判定為山洪引發，致一棟民房垮塌。險情發生後，長興縣第一時間啟動應急響應，立即組織應急、資規、消防、公安、衛健等部門趕赴現場開展人員搜救、醫療救治等應急救援工作。截至14日14時30分，經初步核實，災情造成1人死亡、3人失聯。應急救援工作正在全力有序開展。（新華社）
+
+---
+
+### 2026-08-14 15:20:05  #其他
+
+北約軍事總部發言人就今日早些時候拉脫維亞無人機事件發表宣告：經確認身份後，一架義大利“颱風”戰鬥機在無人區域將這一潛在威脅擊毀。
+
+---
+
+### 2026-08-14 15:19:44  #宏觀 #公司
+
+【李樂成調研鹽湖產業和工業綠色低碳發展】近日，工業和資訊化部黨組書記、部長李樂成赴青海、甘肅、寧夏等地調研鹽湖產業和工業綠色低碳發展情況。在青海格爾木市，李樂成先後到青海鹽湖鎂業、鉀肥、鋰電公司，調研鹽湖金屬鎂一體化、鉀肥、鋰鹽等專案生產情況。他強調，要深入貫徹落實習近平總書記關於加快建設世界級鹽湖產業基地的重要指示精神，落實黨中央、國務院決策部署，把建設世界級鹽湖產業基地作為推進新型工業化、發展新質生產力的重大任務，為維護國家糧食和能源資源安全、加快建設現代化產業體系提供堅實保障。要科學謀劃鹽湖產業發展戰略，加強政策支援和要素保障，做優做強企業，促進資源整合和產業協同，攻堅鹽湖資源開發關鍵核心技術，提高鉀、鋰、鎂等資源開發利用效率和精深加工水平，打造特色優勢產業鏈，構建技術先進、保障有力、綠色智慧、效益一流的產業體系，全面提升產業國際競爭力，推動鹽湖產業高質量發展邁上新臺階。李樂成還深入青海清潔能源和綠色算力排程中心、甘肅資源綜合利用有關企業、寧夏寧東能源化工基地以及六盤山實驗室等，實地察看算力電力協同和綠色算力產業發展、廢舊新能源汽車動力電池回收再利用產業情況，詳細瞭解寧東200萬千瓦複合光伏專案、寧東煤化工基地建設以及儀器儀表領域中試驗證平臺能力建設情況。他強調，要發揮碳達峰碳中和戰略牽引作用，堅持智慧化、綠色化、融合化方向，統籌推進產業綠色化和綠色產業化，以務實舉措培育壯大綠色生產力。(工信微報)
+
+---
+
+### 2026-08-14 15:18:54  #市場 #國際
+
+印尼股市基準指數上漲1%，至6366.68美元。
+
+---
+
+### 2026-08-14 15:18:45  #Trading Economics #Markets #Commodity #Importance 0
+
+UK Natural Gas Hovers Near Multi-Week Highs — UK natural gas prices steadied at 148.4 pence a therm on Friday, hovering near a more than two-week high, amid persistent concerns over Europe’s gas supply security ahead of winter. The US on Thursday threatened to maintain its naval blockade of Iran indefinitely, increasing pressure on Tehran as ceasefire talks have stalled. The standoff has heightened uncertainty around the Strait of Hormuz, with both sides making competing claims of control over the strategic waterway. The disruption has severely delayed LNG cargoes from Qatar, forcing European buyers to compete aggressively with Asian importers for limited supplies. This is making it harder and more costly for Europe to rebuild gas inventories before winter, with storage facilities currently only 59% full, below historical averages. Meanwhile, heatwaves across Southern and Central Europe have boosted gas-fired power generation to meet cooling demand, diverting supplies from storage. UK gas prices have risen over 9% this week.
+
+---
+
+### 2026-08-14 15:18:24  #Trading Economics #Markets #Commodity #Importance 1
+
+European Gas Hovers Near Multi-Week Highs — European natural gas prices steadied at €60.4 per MWh on Friday, hovering near a more than two-week high, amid persistent concerns over Europe’s gas supply security ahead of winter. The US on Thursday threatened to maintain its naval blockade of Iran indefinitely, increasing pressure on Tehran as ceasefire talks have stalled. The standoff has heightened uncertainty around the Strait of Hormuz, with both sides making competing claims of control over the strategic waterway. The disruption has severely delayed LNG cargoes from Qatar, forcing European buyers to compete aggressively with Asian importers for limited supplies. This is making it harder and more costly for Europe to rebuild gas inventories before winter, with storage facilities currently only 59% full, below historical averages. Meanwhile, heatwaves across Southern and Central Europe have boosted gas-fired power generation to meet cooling demand, diverting supplies from storage. European gas prices have risen over 8% this week.
+
+---
+
+### 2026-08-14 15:18:15  #MKT News
+
+【US media: White House communications director Zhang Zhenxi emerges as candidate to replace press secretary Karoline Leavitt】The New York Post reported on Aug. 12 that White House communications director Zhang Zhenxi is a leading candidate to replace outgoing press secretary Karoline Leavitt. Zhang, a California native, previously worked for then‑Governor Arnold Schwarzenegger. Press secretaries are often promoted from inside the White House communications team. As of the afternoon of Aug. 12, prediction market Kalshi put Zhang’s probability of succeeding Leavitt at 13%.
+
+---
+
+### 2026-08-14 15:17:55  #市場
+
+布倫特原油期貨漲幅超1%，盤中觸及每桶88.64美元的高點。
+
+---
+
+### 2026-08-14 15:17:44  #市場 #觀點
+
+【全球光收發器銷售額暴增74%，創業板人工智慧ETF華寶（159363）8月以來漲14.48%】8月14日，創業板人工智慧ETF華寶（159363）強勢上漲3%，自8月以來漲幅14.48%。訊息面上，LightCounting統計2025年全球光收發器銷售額約268億美元，同比增長74%；高盛預測全球光模組TAM將從2025年的342億美元增至2027年的726億美元。Lumentum確認CPO量產計劃按推進，已獲數億美元訂單，鐳射器缺口仍在30%以上。新易盛上半年淨利潤預計同比增長77.56%至102.93%，800G光模組已成主力出貨產品，1.6T光模組Q2放量加速。全球九大雲服務商2026年合計資本支出約8300億美元，同比增長79%。創業板人工智慧ETF華寶（159363）跟蹤指數的一半權重集中在光模組CPO板塊，另一半權重覆蓋國產算力、AI軟體應用領域，形成“硬體+應用”的均衡佈局。全方位把握AI主題機會，關注全市場首隻創業板人工智慧ETF華寶（159363）及場外聯接 （023407.OF，023408.OF）。
+
+---
+
+### 2026-08-14 15:17:35  #國際
+
+現代汽車韓國工會：將於8月18日與資方重啟薪資談判。
+
+---
+
+### 2026-08-14 15:17:24  #市場 #國際
+
+美國原油期貨漲幅持續擴大，上漲超 2%，盤中最高觸及每桶 82.99 美元。
+
+---
+
+### 2026-08-14 15:17:19  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
+
+AIA Stock Price Hits 4-week Low — AIA shares decreased to 70.55 HKD, the lowest since July 2026. Over the past 4 weeks, AIA Group lost 7.35%, and in the last 12 months, it decreased 5.8%.
+
+---
+
+### 2026-08-14 15:17:08  #Trading Economics #Economy #Moldova #Balance of Trade #Importance 1
+
+Moldova Trade Deficit Widens in June — Moldova’s trade deficit widened to USD 620.9 million in June 2026 from USD 586.9 million in the corresponding month a year earlier, though it marked the lowest deficit in five months. Imports rose 9.8% year-on-year to USD 936.6 million, driven by higher purchases from CIS countries (35.1%), EU countries (9.4%), and other markets (9.2%). Meanwhile, exports increased 18.7% to USD 315.7 million, supported by higher shipments to CIS countries (15.2%), EU countries (19.5%), and other markets (17.2%). For the January-June period, the trade gap widened to USD 3,891.3 million from USD 3,515 million in the same period last year, as exports rose 20.3% and imports increased 13.7%.
+
+---
+
+### 2026-08-14 15:16:17  #MKT News #Market Regions #Greater China
+
+【Chinese government bond futures midday close】2-year government bond futures (TS) most-active contract up 0.01%, 5-year (TF) up 0.05%, 10-year (T) up 0.06%, 30-year (TL) up 0.09% at midday close.
+
+---
+
+### 2026-08-14 15:16:11  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.07% Higher — The Shangai Composite Index rose 3 points or 0.07 percent on Friday to close at 3930 points. Leading the gains are Fuyao Glass Indu (2.66%), Avic Aviation Engine (1.63%) and Baosteel (1.41%). Top losers were Datang Intl (-6.21%), Greenland Holdings (-3.05%) and Yonghui Superstore (-2.44%).
+
+---
+
+### 2026-08-14 15:15:39  #公司 #國際
+
+【戰爭擾亂供應，印度煉油商提前數月搶購原油】受烏克蘭襲擊俄羅斯能源設施以及霍爾木茲海峽局勢僵持影響，印度國有煉油企業正一反常態，大幅提前採購現貨原油。印度石油公司、印度斯坦石油公司等企業已敲定部分十月原油供應，目前還在尋求 11 月的原油船貨。美國有可能對包括印度在內的俄羅斯油氣採購方實施制裁，這也助推本輪搶購潮，印度企業計劃在未來數週釋出更多招標。
+
+---
+
+### 2026-08-14 15:15:27  #MKT News #Market Regions #Japan & APAC
+
+【China defense ministry warns Japan's 'new militarism' poses regional risk】On Aug. 14 China's Ministry of National Defense spokesman Chen Xi said post-war Japan has not fully learned from history, has long tolerated right-wing revisionism and is undermining its pacifist constitution and 'exclusively defense' principle. He accused Tokyo of using so‑called "external threats" to justify sharp increases in defense spending, development of offensive capabilities and expansion of its defense-industrial base, calling this a 'new militarism' that threatens regional stability. Chen urged Japan to repent, cease remilitarization and abide by the post‑war international order, warning further missteps would bring more painful defeat and a more thorough reckoning.
+
+---
+
+### 2026-08-14 15:15:21  #其他
+
+【水利部迅即安排部署賈魯河堤防險情應急處置工作】國家防總副總指揮、水利部部長李國英強調，一要加強雨水情監測預報，密切關注降雨和賈魯河上游洪水演進過程，精準把握洪峰流量、水位、歷時和洪水總量，及時將預報預警資訊直達地方防禦一線。二要立即開展地毯式排查，第一時間撤離洪水淹沒區受影響人員；根據地形條件加快構築第二道防線，儘量縮小洪水淹沒影響範圍。三要加強賈魯河沿線及下游沙潁河干流等河道堤防巡查防守，配足人員、料物和裝置，緊盯穿堤、交叉建築物等重點河段部位，及時排查並處置管湧、滲漏等險情，確保沿線城市和堤防防洪安全。會商會後，李國英即赴河南指導防汛搶險工作。
+
+---
+
+### 2026-08-14 15:15:03  #市場
+
+【國債期貨收盤】 30年期主力合約漲0.09%， 10年期主力合約漲0.06%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-14 15:14:46  #經濟數據 #澳洲
+
+【澳大利亞新增住房貸款較第一季度下降5.2%】截至6月的三個月內，澳大利亞新增住房貸款較第一季度下降5.2%，創2022年底以來最大降幅，購房者借貸意願持續減弱。
+
+---
+
+### 2026-08-14 15:14:26  #市場
+
+【瑞銀：上調中國移動目標價至83港元，維持“中性”評級】瑞銀髮表報告指，中國移動第二季服務收入同比跌4.8%至2330億元，EBITDA同比跌7.9%至970億元，純利同比跌7.5%至500億元，較瑞銀及市場預期低1%至9%，主要受增值稅調整及宏觀經濟逆風影響。雲與AI相關業務表現強勁。資料中心收入同比增13.2%，雲端計算服務收入同比增18%。累計AIDC合約容量達7GW，其中5GW為上半年新增。中期股息每股2.51元，同比持平，瑞銀認為此預示全年股息穩定。瑞銀微調預測，並將估值模型延伸六個月，目標價由81港元上調至83港元，維持“中性”評級，認為現價對應2026年預測股息率約6%至7%，可為股價提供支援。
+
+---
+
+### 2026-08-14 15:13:42  #國際
+
+【美媒：張振熙或接任白宮新聞秘書 】據美國《紐約郵報》網站8月12日報道，白宮通訊主任張振熙是有望接替即將離任的白宮新聞秘書卡羅琳·萊維特的熱門人選之一，他是一名加利福尼亞州人，曾效力於時任州長阿諾德·施瓦辛格。 評論人士稱，張振熙是該職位的合適人選。萊維特休產假期間，張振熙曾代管她的部分工作。（參考訊息）
+
+---
+
+### 2026-08-14 15:13:27  #其他
+
+北約軍事總部發言人：已確認，一架未識別無人機進入拉脫維亞領空後，北約盟國已緊急出動戰機。
+
+---
+
+### 2026-08-14 15:13:22  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+NATO's military headquarters confirmed allied jets were scrambled after a drone entered Latvian airspace.
+
+---
+
+### 2026-08-14 15:13:22  #經濟數據 #英國
+
+【英國二季度GDP同比增長0.4%】英國二季度GDP同比增長0.4%，資訊通訊業貢獻近一半增幅，AI相關軟體諮詢業務連續兩個季度高速增長。
+
+---
+
+### 2026-08-14 15:13:01  #市場
+
+WTI原油日內漲2%，現報82.88美元/桶。
+
+---
+
+### 2026-08-14 15:11:37  #公司
+
+【招商證券國際：看好騰訊AI產品及生態護城河，目標價降至620港元】招商證券國際發表研報指，騰訊第二季業績略勝預期，國內遊戲及廣告業務增長超出預期，剔除新AI產品投入後，經營溢利同比增19%，核心主業盈利質量仍在提升。另一方面，騰訊明確四大AI策略，支援更激進的資本開支。該行指出，AI賦能核心業務盈利釋放為AI投入提供支援，看好騰訊的AI產品及生態護城河，續予“增持”評級，目標價由632港元下調至620港元。該行上調騰訊2026及27年資本開支預測至2157億及2600億元，由於折舊費用上升，下調公司2026至28年核心淨利潤5至9%，預計2026及27年核心淨利潤增長率分別為2%和3%。該行認為，資本開支增加將會在短期為騰訊帶來一定的財務壓力，但可透過核心主業盈利提升而有所緩解，且AI投資具備明確下行保護。
+
+---
+
+### 2026-08-14 15:11:10  #其他
+
+群創：上半年淨利潤61.6億元新臺幣。
+
+---
+
+### 2026-08-14 15:10:25  #國際
+
+【美國向土耳其出售F-35戰機程序陷入停滯】美國總統特朗普7月7日釋放可能向土耳其出售F-35隱形戰鬥機訊號後，一個多月以來相關計劃未取得實質進展。據美國方面8月13日訊息，土耳其裝備俄製S-400防空系統是軍售障礙之一。美國國會部分議員認為，土耳其只有放棄這一系統才能獲得F-35戰機。美國聯邦參議員裡克·斯科特說，土耳其“只要仍持有S-400系統，就不能獲得F-35戰機”。此外，以色列方面也公開反對這項軍售。（央視新聞）
+
+---
+
+### 2026-08-14 15:10:23  #MKT News
+
+【China's Ministry of National Defense: 'Taiwan independence' a dead end that cannot win or be changed】On Aug 14 Senior Colonel Chen Xi, spokesperson for China's Ministry of National Defense, criticised Taiwan's Han Kuang 42 exercise, citing reports that Lai Ching‑te rehearsed a 'wartime escape' route, a tank lost components, a fighter overran a runway, and simulated communications slowdowns and staged network outages provoked public panic. Chen accused the DPP of manufacturing war panic and exposing civilians by turning cities into battlefields, warned that 'Taiwan independence' is a dead end that cannot win or be changed, and said the PLA remains on constant alert, steadily enhancing real-world anti‑secession and anti‑interference combat capabilities to defend national sovereignty and maintain Taiwan Strait stability.
+
+---
+
+### 2026-08-14 15:10:04  #市場
+
+越南VN指數下跌2%，報1730.25點。
+
+---
+
+### 2026-08-14 15:10:04  #MKT News #Market Regions #Greater China #DXY #Impact bullish #XAUUSD #CNH #Impact bearish
+
+【China will continue law-enforcement operations near Ren'ai Reef, ministry says】On Aug. 14 Ministry of National Defense spokesman Colonel Chen Xi said China will continue rights-protection law-enforcement operations in waters near Ren'ai Reef. He rejected Philippine and Australian accusations after their defense ministers issued a joint statement expressing "serious concern" about recent China Coast Guard actions at the reef. The coast guard has published what Beijing says is evidence of a Philippine deliberate provocation and an attack on Chinese personnel; China says it took necessary, professional and restrained measures. Chen reiterated Ren'ai Reef is part of China’s Nansha (Spratly) Islands and called on the Philippines to remove the illegally grounded vessel No.57. Beijing urged other states to stop hyping and stoking confrontation and to refrain from damaging regional peace and stability.
+
+---
+
+### 2026-08-14 15:09:50  #公司
+
+【LG伊諾特上半年蘋果相關營收達62.4億美元 創歷史新高】LG集團旗下電子零部件廠商LG伊諾特週五釋出半年報稱，上半年來自蘋果公司的營收創下歷史紀錄。1至6月期間，該單一客戶貢獻營收達8.84萬億韓元（摺合62.4億美元），業務涵蓋光學產品與封裝板塊，營收佔LG伊諾特總銷售額比重超10%。LG伊諾特並未正式披露該客戶名稱。但結合營收體量與公司業務佈局來看，業界普遍認定該客戶即為蘋果。LG伊諾特為蘋果iPhone供應攝像頭模組、基板等核心零部件。
+
+---
+
+### 2026-08-14 15:08:25  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【China express delivery development index up 2.4% YoY in July】The State Post Bureau said China’s express delivery development index rose 2.4% YoY in July. Continued rollout of the Express-to-Villages program is stimulating rural consumption and widening villagers’ access to online shopping.
+
+---
+
+### 2026-08-14 15:08:13  #其他
+
+【7月中國快遞發展指數同比增長2.4%】記者14日從國家郵政局獲悉，7月中國快遞發展指數同比增長2.4%。“快遞進村”工程的持續深入，正不斷激發農村消費活力，讓越來越多村民享受到便捷的網購服務。（央視新聞）
+
+---
+
+### 2026-08-14 15:07:36  #國際
+
+【國防部：日本“新型軍國主義”禍患不得不防】8月14日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。
+
+記者：明天就是8月15日，81年前日本宣佈無條件投降。但現在日本右翼勢力不斷篡改歷史、擴軍備武，日防衛省即將提交的2027財年防衛預算申請總額約8.9萬億日元，再創歷史新高。請問有何評論？
+
+陳曦：81年前，在中國和世界反法西斯力量的沉重打擊下，日本宣佈無條件投降。當年日本軍國主義曾將整個亞洲拖入血與火的深淵，南京大屠殺、巴丹死亡行軍、泰緬死亡鐵路等暴行給亞洲和世界人民帶來深重災難，日本人民也深受其害。然而，戰敗後的日本沒有真正汲取歷史教訓，長期縱容右翼勢力歪曲否定侵略罪行，千方百計突破“和平憲法”和“專守防衛”原則，妄圖挑戰戰後國際秩序，成為地區和平穩定的破壞力量。近來，日方更以所謂“外部威脅”為藉口，大幅提升防衛預算，大力發展進攻性力量，大舉擴張軍工產業，日本“新型軍國主義”可謂是圖窮匕見、禍患不得不防。
+
+歷史真相不能遺忘，正義和平不容褻瀆。我們敦促日方深刻反省、認罪贖罪，嚴格恪守戰後國際秩序，停止“再軍事化”的危險行徑，再入歧途只會遭受更慘痛的失敗、更徹底的清算。（央視新聞）
+
+---
+
+### 2026-08-14 15:06:43  #國際
+
+【國防部：中方將繼續在仁愛礁附近海域開展維權執法行動】8月14日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。記者：據報道，菲律賓和澳大利亞近期舉行防長會並發表聯合宣告，對中國海警近期位仁愛礁採取的行動表達“嚴重關切”，敦促各方“專業、安全地”開展行動。請問有何評論？陳曦：我們堅決反對菲澳對中方的無端指責和攻擊抹黑。關於菲方在仁愛礁蓄意挑釁、襲擊中方人員一事，中國海警已經發布了訊息，並公佈了現場證據。中方採取必要應對措施，專業剋制、無可非議。需要強調的是，仁愛礁是中國南沙群島的一部分，是中國固有領土，菲方不管說什麼、做什麼都改變不了這一事實。菲方應該做的就是儘快拖走非法“坐灘”的57號艦。中方將繼續開展維權執法行動，堅決挫敗一切侵權挑釁，維護國家領土主權和海洋權益。我們敦促有關國家停止渲染炒作、挑動對抗，停止損害地區和平穩定。
+
+---
+
+### 2026-08-14 15:06:15  #其他
+
+上海航運交易所資料顯示，截至8月14日，上海出口集裝箱運價指數（綜合指數）報3355.24點，與上期相比漲79.1點。中國出口集裝箱運價綜合指數CCFI報1846.96點，與上期相比漲0.4%。
+
+---
+
+### 2026-08-14 15:06:10  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+【China A-shares close: major indices rebound in afternoon; ChiNext +1.12%; CPO sector strong all day】China A-shares ended mixed after an afternoon rebound. Shanghai Composite +0.01%, Shenzhen Composite +0.45%, ChiNext Index +1.12%. Turnover on Shanghai and Shenzhen topped 2.1 trillion yuan; over 2,300 stocks advanced. Sector flow: electronic chemicals and rare-earth permanent magnets rallied; CPO sector outperformed throughout the session. Power and retail underperformed.
+
+---
+
+### 2026-08-14 15:04:50  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300 #SSE Composite
+
+China's Shanghai Composite Index closed up 0.21 points (+0.01%) at 3,927.18 on Friday, Aug. 14; Shenzhen Composite Index closed up 64.86 points (+0.45%) at 14,354.31; CSI 300 Index closed up 1.93 points (+0.04%) at 4,665.88; ChiNext Index closed up 40.25 points (+1.12%) at 3,626.30; STAR 50 Index closed down 0.07 points (0.00%) at 1,717.68.
+
+---
+
+### 2026-08-14 15:04:47  #市場
+
+馬士基歐股股價延續昨日漲勢，盤初上漲2%。
+
+---
+
+### 2026-08-14 15:04:42  #MKT News #Market Regions #Greater China
+
+【China stocks turnover CNY 2.143 trillion on Aug 14; Changxin Technology leads volumes】Aug 14 — Total turnover on the Shanghai and Shenzhen exchanges was CNY 2.143 trillion, down CNY 408.074 billion from the previous session. Shanghai turnover was CNY 990.372 billion (prev. CNY 1.164203 trillion) with trading volume of 500 mln lots (prev. 573 mln); Shenzhen turnover was CNY 1.152471 trillion (prev. CNY 1.386714 trillion) with volume of 643 mln lots (prev. 738 mln). Changxin Technology recorded the largest turnover at CNY 19.862 billion, followed by GigaDevice CNY 19.699 billion, Hengtong Optics CNY 19.197 billion, Zhongji Xuchuang CNY 18.691 billion and Xinyisheng CNY 17.152 billion.
 
 ---
 
@@ -19477,371 +19747,5 @@ NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 p
 ### 2026-08-13 13:43:01  #公司
 
 【獨家 | 五糧液向經銷商髮禁令：第八代五糧液不得低於800元拋售，低價出貨將被處罰】8月13日，繼收緊渠道補貼後，五糧液再度加碼市場管控。《酒業內參》從經銷商等多方獨家獲悉，五糧液近期向經銷商通知，不得以低於800元/瓶的價格低價拋售第八代五糧液。同時，酒廠也將加強對低價出貨和竄貨經銷商的處罰，進一步穩固區域秩序。截至發稿前，五糧液暫無回應。 此前，《酒業內參》曾報道，7月底，五糧液收緊了對渠道經銷商的多項補貼投入，經銷商的第八代五糧液整體成本對比收緊前成本提高了約50元/瓶。 批發價格方面，彼時，第八代五糧液單箱批價大約浮動在4485元-4500元，單瓶批價約748元-750元/瓶。 或基於新政影響，截止目前，第八代五糧液單箱批價已升至約4600元-4650元，單瓶批價約767元-775元/瓶。
-
----
-
-### 2026-08-13 13:42:20  #其他
-
-【中保研發布最新汽車零整比研究結果：新能源汽車維修負擔指數降約14%】中保研今日釋出第21期汽車零整比體系指標研究結果（資料採集日期為2025年12月31日），指標包括汽車零整比係數、汽車零整比100指數、維修負擔指數等。結果顯示，最新一期燃油車“汽車零整比100指數”為390.77%，較上期略降0.3個百分點。新能源汽車“汽車零整比100指數”為311.42%，較上期下降0.82個百分點。與保險賠付緊密相關的新能源汽車“維修負擔100指數”為23.81，較上期下降3.85，降幅為13.92%。其中，動力電池價格下降是本期新能源汽車維修負擔100指數下降的主要因素。
-
----
-
-### 2026-08-13 13:41:29  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
-
-【Sichuan to bolster compute-park infrastructure, preemptively expand smart compute facilities】Sichuan published interim policies to advance compute-network construction, directing upgrades to compute-park infrastructure and urging direct connections between backbone and metro communications networks and compute parks. The province will accelerate a “millisecond computing” action plan, coordinate primary and backup power and support intelligent microgrids for parks. Financing for qualifying compute-park infrastructure will be prioritised via local government special bonds and policy financial tools. The plan backs shared compute services — including scheduling platforms, compute marketplaces and token factories — and aims to boost high-quality compute supply. For large-model training/inference and industry-model development, Sichuan calls for appropriately ahead-of-demand deployment of smart compute, accelerated construction of 10,000-card smart-compute clusters, and balanced allocation between general-purpose, smart and supercomputing resources to raise the smart-compute share. Key universities, research institutes, industry leaders and AI firms are encouraged to prioritise provincial compute resources; eligible users may receive compute vouchers.
-
----
-
-### 2026-08-13 13:41:19  #MKT News #Market Themes #AI Revolution
-
-【Sichuan to build 10,000+‑card compute clusters, explore high‑security facilities】Sichuan issued interim measures to accelerate its computing‑power network, backing construction of 10,000+‑card intelligent compute clusters. The province will target major telecom carriers and leading model developers to locate clusters in the Chengdu Plain compute core and the Panxi–NW Sichuan electricity‑compute integration belt, and will use fiscal, financial and green‑power policy tools to support large and extra‑large facilities while seeking inclusion in national special support. It will also explore high‑security compute facilities in tunnels and other concealed environments, inviting telecom SOEs and central enterprises to deploy modular, green, high‑density, high‑security computing sites.
-
----
-
-### 2026-08-13 13:41:02  #國際
-
-俄羅斯國防部：俄羅斯夜間擊落362架烏克蘭無人機。
-
----
-
-### 2026-08-13 13:41:02  #MKT News
-
-Russian Defence Ministry says Russian forces shot down 362 Ukrainian drones overnight.
-
----
-
-### 2026-08-13 13:40:46  #其他
-
-【四川：建強成都平原算力核心區 打造攀西—川西北算電融合發展帶】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，建強成都平原算力核心區。做強天府資料中心叢集，聚焦成渝國家算力樞紐節點，著力推進成都、雅安、綿陽、德陽為主要承載地的算力核心區建設；打造攀西—川西北算電融合發展帶。支援涼山、甘孜、阿壩、攀枝花依託清潔能源資源，統籌佈局“源網荷儲”一體化大型算力設施，打造重點承接模型訓練、大資料分析、影視渲染、資料備份等非實時、可遷移算力需求的算電融合發展帶。
-
----
-
-### 2026-08-13 13:40:43  #其他
-
-【四川：佈局建設萬卡級以上智算叢集，探索建設高安全算力設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，支援建設萬卡叢集。重點招引基礎電信運營商、頭部模型大廠在成都平原算力核心區、攀西—川西北算電融合發展帶佈局建設萬卡級以上智算叢集，綜合應用財政、金融、綠色電力等政策工具支援大型、超大型算力設施專案落地；探索建設高安全算力設施。支援利用隧洞等可用安全隱蔽環境，積極引入基礎電信運營商等專業央企，探索佈局模組化、綠色化、高密度、高安全算力設施。積極爭取有關專案納入國家專項支援。
-
----
-
-### 2026-08-13 13:40:36  #其他
-
-【四川：完善算力園區基礎設施建設 適度超前佈局智算設施】《四川省推進算力網建設的若干政策措施（試行）》釋出。其中提到，完善算力園區基礎設施建設。推動通訊骨幹網、都會網路與算力園區直連，加快實施“毫秒用算”專項行動計劃。統籌佈局算力園區主供電源和備用電源，支援算力園區建設智慧微電網。透過地方政府專項債券、政策性金融工具等優先支援符合條件的算力園區基礎設施建設。支援建設算力排程平臺、算力超市、詞元（Token）工廠等算力公共服務設施。加強高質量算力供給。圍繞大模型訓練推理、行業模型開發等需求，適度超前佈局智算設施，加快建設萬卡級智算叢集，合理配置通算、智算、超算比例，不斷提高智算佔比。鼓勵重點高校、科研機構、行業龍頭企業及人工智慧領域重點企業優先使用省內算力資源，符合條件的可享受“算力券”支援政策。
-
----
-
-### 2026-08-13 13:40:36  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-Russian Defence Ministry said Russian forces struck Ukrainian military and port infrastructure overnight at the Danube ports of Reni and Izmail.
-
----
-
-### 2026-08-13 13:38:12  #國際
-
-俄羅斯國防部稱，俄軍夜間襲擊了多瑙河沿岸烈尼港和伊茲梅爾港的烏克蘭軍事和港口基礎設施。
-
----
-
-### 2026-08-13 13:37:23  #公司
-
-斯堪斯卡公司簽署價值2.38億美元的弗吉尼亞州資料中心合同。
-
----
-
-### 2026-08-13 13:37:06  #MKT News #Market Regions #Greater China
-
-China A-share power-grid equipment sector spiked briefly, with Wangbian Electric hitting the daily limit; Liangxin Shares had earlier hit the limit. Yubang Power, Huashengchang, Jinpan Technology, Great Wall Technology and Mingyang Electric also advanced.
-
----
-
-### 2026-08-13 13:36:57  #觀點 #國際
-
-【摩根士丹利：電力、勞動力瓶頸等因素將在未來幾年持續制約算力供應】摩根士丹利美國主題研究策略師Michelle Weaver日前表示，企業對AI的應用正加速落地，但算力供應受限仍是制約行業增長的瓶頸。"當前算力供應嚴重不足。算力正在成為一種稀缺資源，" Weaver週三在接受媒體採訪時表示。Weaver指出，算力瓶頸主要有兩個原因：一是缺少建設資料中心所需的勞動力，二是為資料中心供電的電力不足。人工智慧資料中心耗電量巨大，而新建發電設施、輸電網路及相關基礎設施需要數年時間。即使考慮到將比特幣挖礦設施改造利用、燃料電池等創新供電方案，Weaver估計仍存在10%至20%的電力缺口，這意味著未來數年算力仍將是受限且高價值的資源。這意味著，即便企業擁有足夠資金購買AI晶片並建設資料中心，但電力或勞動力不足也可能阻礙實際算力上線。除了電力和勞動力不足，政治因素也是AI算力供應擴張的阻力之一。Weaver還指出，隨著中期選舉臨近，日益高漲的反資料中心情緒給該行業帶來了挑戰。
-
----
-
-### 2026-08-13 13:36:51  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index (TAIEX) closed up 503.41 points, or 1.11%, at 46,021.48 on Thursday, Aug. 13.
-
----
-
-### 2026-08-13 13:36:18  #公司 #市場
-
-【電網裝置板塊短線拉昇，望變電氣漲停】電網裝置板塊短線拉昇，望變電氣漲停，良信股份此前漲停，煜邦電力、華盛昌、金盤科技、長城科技、明陽電氣跟漲。
-
----
-
-### 2026-08-13 13:35:43  #其他
-
-臺灣證交所加權股價指數收高1.1%報46,021.48點。
-
----
-
-### 2026-08-13 13:35:20  #公司
-
-【“兩彈一星”元勳王希季逝世 享年105歲】中國共產黨優秀黨員，我國航天事業開拓者之一，著名空間技術專家，中國科學院院士，國家“兩彈一星功勳獎章”獲得者，中國航天科技集團有限公司科學技術委員會原顧問，中國空間技術研究院技術顧問王希季同志，因病醫治無效，於2026年8月12日在北京逝世，享年105歲。（央視新聞）
-
----
-
-### 2026-08-13 13:31:06  #國際
-
-印度7月乘用車銷量為457,810輛。
-
----
-
-### 2026-08-13 13:30:56  #MKT News
-
-A-share Shenzhen SOE reform sector briefly rallied intraday; Shenzhen Zhenye A hit the daily limit, while Shahe Co., Shenzhen Property A, Shenzhen Textile A, SEG and Shenzhen Urban Transport also advanced.
-
----
-
-### 2026-08-13 13:30:52  #其他
-
-【廣東電網系統負荷今年第五次創新高】據“廣東電網”訊息，8月12日13時41分，廣東電網系統負荷今年第五次創新高，成為首個突破1.8億千瓦的省級電網。
-
----
-
-### 2026-08-13 13:30:32  #MKT News #Commodities #Energy
-
-Guangdong power grid said at 13:41 on Aug 12 its system load hit a fifth record high this year, reaching 180 million kilowatts (180 GW), making it the first provincial grid to exceed 180 million kW.
-
----
-
-### 2026-08-13 13:30:22  #國際
-
-【泰國呵叻府發生傷人事件 6人受傷】12日晚，泰國東北部呵叻府一處市場發生一起持刀和槍擊傷人事件，造成6人受傷。據現場目擊者稱，一個盜竊團伙12日晚在事發市場附近偷盜摩托車時被車主發現，團伙中一人逃跑後又帶同夥返回，他們持刀傷人，並用自制霰彈槍向人群射擊，共造成6人受傷，其中一人傷勢嚴重。警方接到報案後趕赴現場並逮捕一名嫌疑人。泰國總理阿努廷13日上午接受媒體採訪時對這一事件表示震驚，強調必須對泰國槍支援有制度進行結構性改革。
-
----
-
-### 2026-08-13 13:30:03  #公司 #市場
-
-【深圳國企改革板塊短線拉昇，深振業A漲停】深圳國企改革板塊短線拉昇，深振業A漲停，沙河股份、深物業A、深紡織A、深賽格、深城交等紛紛走高。
-
----
-
-### 2026-08-13 13:30:03  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報2657.00元。
-
----
-
-### 2026-08-13 13:29:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russia said it struck Ukraine's Reni port.
-
----
-
-### 2026-08-13 13:28:30  #國際
-
-俄羅斯稱襲擊了烏克蘭烈尼港。
-
----
-
-### 2026-08-13 13:24:19  #MKT News
-
-South Korea's President Lee said the property bubble must not be allowed to continue expanding, warning the issue can no longer be ignored and that real estate is a key concern for all regions.
-
----
-
-### 2026-08-13 13:22:48  #公司
-
-【多趟途經鄭州的列車折返，有列車中途臨停兩個半小時，12306：受極端天氣影響，可辦理退票或改簽】8月13日，多名網友發文稱，自己乘坐火車在臨近鄭州時折返或提前下車。“鐵路鄭州站”當天在官方微博釋出停運公告，稱因地質災害風險導致多趟列車停運。12306客服人員回應稱，受天氣影響，部分列車停運，旅客可在12306APP查詢停運列車資訊，並免費辦理退票。（極目新聞）
-
----
-
-### 2026-08-13 13:21:28  #公司 #國際
-
-【印度謀求參與法國六代機研發專案】據《西班牙人報》網站8月10日報道，法國、德國、西班牙聯合研發未來空中作戰系統（FCAS）的三方合作宣告破裂後，只有法國率先明確推出後續方案。法國達索公司對外表態，如果德國與西班牙執意單獨推進自研路線，法國將獨立完成六代機研發工作。 與此同時，印度正全力爭取加入法國六代機專案。 印度國防部向印度議會國防常設委員會提交了專項進展報告。《新印度快報》援引報告內容稱，印方已“協同開展各項籌備工作，謀求加入”法國FCAS專案。（環球網）
-
----
-
-### 2026-08-13 13:19:06  #公司 #國際
-
-任天堂選擇Salim集團作為其在印度尼西亞的經銷商。
-
----
-
-### 2026-08-13 13:18:29  #公司
-
-【中集安瑞科旗下企業與上海聯風達成蒸發氣（BOG）提氦專案合作】中集安瑞科公眾號訊息，近期公司投資企業—山西天浩清潔能源有限公司（簡稱“山西天浩”），與上海聯風氣體股份有限公司（簡稱“上海聯風”）簽訂了相關合作協議。雙方將發揮各自優勢，建立戰略合作伙伴關係，投資建設蒸發氣（BOG）提氦專案，實現資源綜合利用與經濟效益最大化。未來山西天浩與上海聯風將共同拓展蒸發氣（BOG）提氦專案的資源綜合利用效率，實現經濟效益最大化。此次簽約專案投產後年產能預計為11萬m³99.999%（5N）高純氦氣。
-
----
-
-### 2026-08-13 13:17:54  #公司 #資料 #國際
-
-【韓國SK Shipping與H-Line置換船隻，將締造亞洲最大液化天然氣運營商】Hahn & Co.旗下的兩家韓國公司SK Shipping和H-Line Shipping正在進行船隻和合同置換，此項交易將締造亞洲最大的液化天然氣(LNG)運輸船運營商。總部位於首爾的私募股權投資公司Hahn & Co.週四表示，SK Shipping將從H-Line接收16艘液化天然氣運輸船及相關長期合同，作為交換，SK Shipping將向H-Line提供12艘油輪及其合同，外加約3億美元現金。該交易將使SK Shipping的液化天然氣船隊規模增長一倍，達到32艘運輸船，使其成為全球第三大、亞洲最大的液化天然氣運輸船運營商。
-
----
-
-### 2026-08-13 13:16:27  #MKT News #Market Regions #Emerging Markets
-
-【Vietnam central bank warns $77 billion funding gap could threaten financial stability】Vietnam’s central bank warned a funding shortfall that exceeds banks’ ability to raise funds could jeopardize financial stability, saying VND loan balances exceed deposits by roughly VND 20,000 billion (about $77 billion), a mismatch that poses risks to liquidity, interest rates and the safety of banking institutions. The government is pressing banks to ramp up lending to support a near-12% H2 growth target on the way to a double-digit 2026 growth goal; the prime minister met banking executives on Thursday.
-
----
-
-### 2026-08-13 13:15:58  #公司 #資料 #國際
-
-【菲律賓First Gen或將以27億美元估值接受KKR的私有化要約】菲律賓First Gen公司週四表示，KKR提出的強制要約將使這家電力生產商的估值達到約1,654.4億比索(即27億美元)。First Gen週三披露稱，KKR提議從其母公司First Philippine Holdings 手中收購該公司8.43%的股份。這家電力生產商補充稱，此舉可能會觸發KKR對First Gen全部11.67%流通股（即36億股已發行普通股）發起強制要約收購。該要約收購將 支援 First Gen向菲律賓證券交易所 提交的 自願退市 申請。
-
----
-
-### 2026-08-13 13:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.45% — Top currency loser is New Zealand Dollar (-0.45%). Gains are led by Japanese Yen (0.08%).
-
----
-
-### 2026-08-13 13:13:20  #其他
-
-【銳捷網路股價創新高】銳捷網路漲10.51%，報139.5元/股，股價再創新高，總市值突破1500億元，成交額達31.42億元。
-
----
-
-### 2026-08-13 13:13:07  #國際
-
-韓國總統李在明：房地產泡沫已不容忽視。
-
----
-
-### 2026-08-13 13:11:08  #國際
-
-韓國總統李在明：房地產是影響所有地區的關鍵問題。
-
----
-
-### 2026-08-13 13:10:56  #國際
-
-韓國總統李在明：不能再讓房地產泡沫繼續蔓延了。
-
----
-
-### 2026-08-13 13:10:52  #MKT News #Market Regions #Japan & APAC #XAUUSD #Impact bullish
-
-【Japan protests Putin visit to disputed Northern Territories (Southern Kurils)】MOTEGI lodged a strong protest on the 13th after Putin landed on Etorofu Island in the Northern Territories (the Southern Kurils in Russian) and inspected a seafood-processing plant. The Kremlin said Putin spoke with workers, posed for photos and sampled local caviar; it was his first visit to the islands. The sovereignty dispute has prevented Russia and Japan from signing a post-World War II peace treaty.
-
----
-
-### 2026-08-13 13:09:58  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Stocks in China Hit 4-week High — SHANGHAI increased to 3968.00 Index Points, the highest since July 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.01%, and in the last 12 months, it increased 8.19%.
-
----
-
-### 2026-08-13 13:09:09  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite
-
-China A-share AI PC sector ticked higher briefly; Chunqiu Electronics hit the daily limit-up, Huaqin Technology had earlier hit limit-up, and Zhongshi Technology, Xinghuan Technology and Lianyun Technology also advanced.
-
----
-
-### 2026-08-13 13:08:36  #國際
-
-【日本強烈抗議普京登上日俄爭議島嶼】13日，日本外務大臣茂木敏充就俄羅斯總統普京登上北方四島（俄稱南千島群島）的擇捉島（俄稱伊圖魯普島）提出強烈抗議。當天稍早前，普京登上南千島群島（日本稱北方四島），並視察了伊圖魯普島（日本稱擇捉島）上一家水產品加工廠。克里姆林宮在社交媒體釋出訊息說，普京與水產品加工廠員工交談，並與他們合影留念。他還品嚐了當地生產的魚子醬。這是普京首次登上南千島群島。因在南千島群島（日本稱北方四島）的歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。（央視新聞）
-
----
-
-### 2026-08-13 13:07:49  #其他
-
-聯想在公佈營收超預期後，股價漲幅擴大至17%。
-
----
-
-### 2026-08-13 13:06:44  #其他
-
-【太空算力硬體成本降至幾百元 全國產化太空伺服器亮相】太空算力，是將地面資料中心的人工智慧算力節點部署至太空軌道，利用太空充足太陽能與天然低溫環境，破解地面算力面臨的能耗、散熱和土地資源瓶頸。當前，全球算力需求持續增長，各國低軌衛星星座加速佈局，太空算力正成為新質生產力重要突破口。昨天（12日）《新質生產力發展大會——太空算力產業》在北京舉行，活動探討技術突破與產業發展，推動我國太空算力加速落地。活動現場，一家企業展示自主研發的航天級算力專用GPU晶片，把太空算力硬體成本從數萬元降至幾千元甚至幾百元。現場還亮相了全國產化太空伺服器，搭載雙核心星載作業系統，當遭遇宇宙高能粒子干擾時，可毫秒級切換備用核心，保障在軌算力不停機。（央視財經）
-
----
-
-### 2026-08-13 13:06:13  #MKT News #Important #Market Themes #China Tech Giants #00992.HK #Impact bullish
-
-Hang Seng Tech Index rallied sharply in afternoon trade, up just over 1%; Lenovo Group (00992.HK) led components, jumping more than 16%.
-
----
-
-### 2026-08-13 13:05:34  #市場 #焦點
-
-恒生科技指數漲超1%，現報4825.140點；恒生指數現漲0.142%。
-
----
-
-### 2026-08-13 13:05:30  #市場
-
-【CPO概念持續走強，劍橋科技漲停】CPO概念持續走強，劍橋科技漲停，天孚通訊、德科立、源傑科技、光迅科技、銳捷網路、新易盛等跟漲。
-
----
-
-### 2026-08-13 13:02:25  #公司 #市場
-
-聯想集團(00992.HK)午後直線拉昇漲超12%。
-
----
-
-### 2026-08-13 13:02:21  #MKT News #Important #0992.HK #Impact bullish
-
-Lenovo Group (00992.HK) shares jumped over 12% in afternoon trade after the company released first fiscal-quarter results at midday: adjusted profit attributable to equity holders rose 176% YoY; AI-related revenue climbed 60% YoY to RMB 63.4 bln, a record high.
-
----
-
-### 2026-08-13 13:02:12  #公司
-
-【奧尼電子：英偉達目前不是公司客戶】奧尼電子(301189)8月13日在互動平臺表示，公司採購英偉達Jetson Thor晶片模組等核心物料，依託該晶片打造龍蝦工作站A2000等AI推理算力產品，相關產品已釋出並穩步推進落地；英偉達目前不是公司客戶。
-
----
-
-### 2026-08-13 13:01:53  #公司 #國際
-
-【普京：俄日和平條約談判陷入僵局原因在日方】據日本《讀賣新聞》8月13日報道，根據俄羅斯總統府釋出的訊息，俄羅斯總統普京12日表示，包含“北方領土（俄稱‘南千島群島’）”問題在內的日俄和平條約談判之所以陷入停滯，原因在於日方因俄烏衝突而對俄羅斯實施制裁。這一表態是他在訪問俄羅斯遠東薩哈林州時，在與俄太平洋艦隊軍官的會議上作出的。 普京再次強調其立場，認為庫里爾群島（即千島群島）因第二次世界大戰的結果而成為俄羅斯領土。在此基礎上，圍繞和平條約談判，他主張：“俄羅斯曾與包括前首相安倍晉三在內的日本領導人建立了建設性關係，但現在日本方面的立場發生了變化。” 普京還指出，“北約正在向亞太地區滲透，新的軍政集團正在形成”。（參考訊息）
-
----
-
-### 2026-08-13 13:00:47  #MKT News #Commodities #Energy
-
-【First 10‑million‑ton‑class crude pipeline of China’s 15th Five‑Year Plan commissioned】State Pipeline Network Group said on Aug. 13 the Lianyungang–Yizheng pipeline’s Lianyungang–Huaian segment entered service in one phase. The line, the first 10‑million‑ton‑class crude pipeline to start operating in the 15th Five‑Year Plan period, links to existing trunk lines to deliver crude to the eastern hub at Yizheng. Peak daily throughput is 70,000 tonnes; the pipeline will supply Jiangsu and Yangtze‑river refineries, widen supply channels, and support unified allocation of imported crude and optimization of the national oil‑and‑gas “one network” across central‑eastern China and the Yangtze Delta.
-
----
-
-### 2026-08-13 13:00:03  #市場 #焦點
-
-創業板指漲1.61%，現報3660.252點；上證指數漲0.42%，現報3963.152點；深證成指漲0.76%，現報14524.172點。
-
----
-
-### 2026-08-13 12:59:04  #公司 #國際
-
-【“十五五”首條千萬噸級原油管道投產】國家管網集團8月13日宣佈，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連雲港至淮安段投產一次成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。連儀管道連淮段投產後，與已投運的日儀管道聯通，將原油最終輸送至我國東部原油樞紐儀徵站，日輸量最高可達7萬噸，服務保障江蘇省及長江沿線煉化企業，有效提升長江沿線使用者用能多通道資源保障能力，對我國長三角區域油氣管網布局最佳化、進口原油資源統一調配等發揮重要作用。（新華社）
-
----
-
-### 2026-08-13 12:54:53  #市場 #央行 #國際
-
-【日元走強 據稱日本政府將支援加快日本央行加息步伐】知情人士透露，首相高市早苗領導的政府支援日本央行近期加息，預計下一次加息可能在9月或10月，受此訊息影響，日元兌美元走強，日本國債下跌。日元兌美元匯率上漲0.1%，至159.19。日本國債期貨下跌9個基點至126.48。
-
----
-
-### 2026-08-13 12:53:12  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-【Japanese government reportedly backs faster Bank of Japan rate hikes】Japanese Prime Minister Takaichi reportedly supports the Bank of Japan moving to raise rates sooner, with the next action possibly in September or October. The shift reflects BOJ concern that a weak yen is pushing up prices and the government's desire to reinforce the recent US-Japan coordinated FX intervention; the two sides are said to be aligning on the need for near-term hikes. The prime minister's office said monetary policy measures, including any rate changes, remain the BOJ's decision but called for close coordination to stabilise progress toward the 2% inflation target.
-
----
-
-### 2026-08-13 12:52:44  #MKT News #Market Themes #AI Revolution #0992.HK #Impact bullish
-
-【Lenovo AI server backlog surges】Lenovo Group (00992.HK) said in Q1 FY2026/27 results its AI server backlog rose to RMB360 billion from RMB140 billion in the prior quarter. AI-related revenue jumped 60% YoY to RMB63.4 billion, a record and roughly 35% of group revenue. AI services revenue increased 141% YoY.
-
----
-
-### 2026-08-13 12:52:33  #MKT News
-
-【TrendForce: Q2 2026 global OLED monitor shipments +26.1% QoQ, +98% YoY】TrendForce reports global OLED monitor shipments rose 26.1% QoQ in Q2 2026 and 98% YoY. The firm attributes the gain to new model launches, pull‑forward demand from China’s 618 mid‑year e‑commerce sales festival, and rising penetration and promotion of 27‑inch QHD models. TrendForce says the results reflect accelerating OLED adoption in esports and high‑end display segments.
-
----
-
-### 2026-08-13 12:52:07  #公司
-
-【聯想AI伺服器儲備訂單大增】8月13日，聯想集團披露2026/27財年第一財季業績顯示，AI伺服器儲備訂單從上一財季的1400億元，大幅提高至3600億元人民幣。第一財季聯想集團AI相關業務收入同比增長60%，達到634億元人民幣，創歷史新高，佔集團整體營收約35%；AI服務收入同比增長141%。
-
----
-
-### 2026-08-13 12:51:32  #市場
-
-【機構：第二季度全球OLED顯示器出貨季增26.1%】根據TrendForce集邦諮詢最新調查，2026年第二季全球OLED顯示器市場展現強勁的成長韌性。在各大品牌廠商陸續推出新機種、帶動整體出貨量的同時，適逢“618”年度大型電商節慶促銷檔期的拉貨效益加持，加上市場主力27英寸QHD規格機種持續滲透與積極推廣，整體產業鏈動能全面升溫。這波多重利好的疊加，推升第二季OLED顯示器出貨量季增26.1%，與2025年同期相比，年增率更高達98%，幾乎實現翻倍成長，反映出OLED顯示技術在電競與高階顯示市場的滲透率正在快速擴大。（介面新聞）
 
 ---
