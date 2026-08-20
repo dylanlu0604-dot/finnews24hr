@@ -1,7 +1,307 @@
 {
   "date": "2026-08-20",
-  "count": 2735,
+  "count": 2766,
   "items": [
+    {
+      "id": "mkt:01a01f2e-17e9-7aab-90b7-5931aaf99e92",
+      "time": "2026-08-20 20:38:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【US initial jobless claims dip to 206,000】US initial jobless claims fell 6,000 to 206,000 in the week ended Aug. 15, the US Department of Labor said Thursday, remaining near historic lows and signaling limited layoffs. The median economist estimate was 210,000. Continuing claims rose to 1.80 million."
+    },
+    {
+      "id": "mkt:01a01f2e-0e96-7aab-90b7-5354d90e1195",
+      "time": "2026-08-20 20:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Climate Prediction Center (CPC) says El Nifio is strengthening and the probability of an exceptionally strong event this autumn and winter exceeds 90%."
+    },
+    {
+      "id": "5050228",
+      "time": "2026-08-20 20:38:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：沃爾瑪上調財年銷售展望反映出上半年業績表現，且下半年銷售將稍優於此前指引。"
+    },
+    {
+      "id": "mkt:01a01f2d-c2b0-7aab-90b7-4e0f7b248f5e",
+      "time": "2026-08-20 20:38:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DALY said she does not currently see the labor market driving inflation."
+    },
+    {
+      "id": "5050227",
+      "time": "2026-08-20 20:37:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：暫無跡象表明勞動力市場正在推高通脹。"
+    },
+    {
+      "id": "mkt:01a01f2d-64da-7aab-90b7-43e51f479c81",
+      "time": "2026-08-20 20:37:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY: Recent employment and inflation data have not changed the outlook."
+    },
+    {
+      "id": "mkt:01a01f2d-56be-7aab-90b7-3af230deb268",
+      "time": "2026-08-20 20:37:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY says she is looking for more concerning signs of inf but has not yet seen them."
+    },
+    {
+      "id": "mkt:01a01f2d-2e6a-7aab-90b7-3396ff85f615",
+      "time": "2026-08-20 20:37:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY warned of the cumulative effects of multiple inflation shocks."
+    },
+    {
+      "id": "5050226",
+      "time": "2026-08-20 20:37:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空：溫得和克機場目前起飛時間未受影響，所有從奈米比亞出發的航班將按計劃執飛。"
+    },
+    {
+      "id": "5050225",
+      "time": "2026-08-20 20:37:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：近期就業與通脹資料目前尚未改變（利率）前景。"
+    },
+    {
+      "id": "te:economy:576864",
+      "time": "2026-08-20 20:36:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Fall More Than Expected — The number of people claiming unemployment benefits in the US fell by 6,000 to 206,000 on the second week of August, below market expectations of 210,000. The result maintained the streak of low initial claim counts since reaching the near 60-year low of 189,000 in the middle of July. Meanwhile, continuing claims, a gauge of outstanding unemployment in the US, rose by 18,000 to 1,799,000 in the previous week. The data extended the period of resilience in the US labor market despite the unexpected contraction in payrolls per the latest BLS data, aligned with the view from some FOMC members that the US is in full employment. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 48 to 449."
+    },
+    {
+      "id": "mkt:01a01f2c-a8f9-7aab-90b7-2a2cc1464387",
+      "time": "2026-08-20 20:36:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Daly said she is \"very supportive\" of the Federal Reserve holding policy rates steady in July."
+    },
+    {
+      "id": "5050224",
+      "time": "2026-08-20 20:36:47",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國 30 年期國債回吐國債回購公告帶來的全部漲幅。"
+    },
+    {
+      "id": "5050223",
+      "time": "2026-08-20 20:36:34",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲戴利：我“非常支援”美聯儲7月維持利率不變的決定。"
+    },
+    {
+      "id": "mkt:01a01f2c-4267-7aab-90b7-24ef27ac056d",
+      "time": "2026-08-20 20:36:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz oil flows nearly quadrupled during Islamabad memorandum window, Kpler says】Kpler said the Islamabad memorandum’s 60-day window expired on Aug. 17 with no deal, extension or ongoing talks; Tehran is pushing for a licensing-and-fees regime for the strait and Washington has rejected it. The memorandum boosted flows but did not restore normal transit. During the window roughly 374 mln barrels were cleared from the Middle East Gulf, averaging about 6.1 mln bpd; by contrast outbound volumes from April to the memorandum’s signing averaged about 2.3 mln bpd. Kpler defines cleared volume as non-Iran Strait of Hormuz transits plus Gulf of Oman net exports to avoid double counting. Even at the peak, exports equaled only about 40% of a 2025 Strait of Hormuz average of roughly 15 mln bpd; more than half of the window’s flows occurred in the first three weeks after the memorandum took effect, and flows had become sporadic, harder to track and re-accumulating behind the chokepoint by the window’s end."
+    },
+    {
+      "id": "mkt:01a01f2c-2875-7aab-90b7-197a7f40b59c",
+      "time": "2026-08-20 20:36:22",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "DALY: Looking ahead, expects inf shock to gradually abate."
+    },
+    {
+      "id": "mkt:01a01f2c-06f6-7aab-90b7-1299e0f1da0e",
+      "time": "2026-08-20 20:36:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Daly said policy is in a good place and she sees no evidence that interest-rate hikes need to be brought forward."
+    },
+    {
+      "id": "5050222",
+      "time": "2026-08-20 20:36:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "漢莎航空集團：目前其供應商在奈米比亞溫得和克機場出現區域性性臨時航空燃油短缺。"
+    },
+    {
+      "id": "5050221",
+      "time": "2026-08-20 20:36:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：爾瑪正將關稅退稅款重新投入客戶體驗最佳化與價格調控，優先佈局食品雜貨及日用商品品類。"
+    },
+    {
+      "id": "mkt:01a01f2b-adda-7aab-90b7-0dfee83e856a",
+      "time": "2026-08-20 20:35:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) plans to invest more than $250 billion in the United States and create over 90,000 jobs. The company will launch the Micron Research Laboratory, a U.S.-based long-term R&D center focused on memory/storage and artificial intelligence, committing $10 billion over the next decade."
+    },
+    {
+      "id": "5050220",
+      "time": "2026-08-20 20:35:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "ENOVIX：韓國擴產專案一期將使無人機產能翻倍。"
+    },
+    {
+      "id": "5050219",
+      "time": "2026-08-20 20:35:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：基準情景預期通脹衝擊將會消退。"
+    },
+    {
+      "id": "5050218",
+      "time": "2026-08-20 20:35:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：沃爾瑪已領取符合資格的29億美元關稅退稅中幾乎全部款項。"
+    },
+    {
+      "id": "5050217",
+      "time": "2026-08-20 20:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美國對伊朗“經濟戰”推行有難度】美國總統特朗普19日宣佈對伊朗採取“嚴厲經濟行動”，稱這將是一場規模空前的“經濟戰和經濟孤立”。阿聯酋同日宣佈，決定暫停與伊朗的一切貿易、商業往來和金融交易。美國媒體同一天評論，特朗普政府因美伊局勢陷入僵局而轉變策略，試圖以經濟施壓方式迫使伊朗屈服；阿聯酋的最新決定在事實上配合了美國對伊朗的“經濟扼殺”。然而，在實際操作中，徹底切斷阿聯酋與伊朗的金融和貿易往來難度不小。（新華社）"
+    },
+    {
+      "id": "5050216",
+      "time": "2026-08-20 20:35:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：當前貨幣政策處於良好態勢，正在密切關注市場動。"
+    },
+    {
+      "id": "5050215",
+      "time": "2026-08-20 20:35:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：未見有證據支援實施預防性加息。"
+    },
+    {
+      "id": "5050214",
+      "time": "2026-08-20 20:35:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：美聯儲當前政策處於適宜狀態。"
+    },
+    {
+      "id": "mkt:01a01f2a-dcf7-7aab-90b7-0577a9fbb23c",
+      "time": "2026-08-20 20:34:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "DALY: Short-term yields indicate markets understand the Fed's reaction function."
+    },
+    {
+      "id": "5050213",
+      "time": "2026-08-20 20:34:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：短期收益率顯示市場理解美聯儲的反應函式。"
+    },
     {
       "id": "5050212",
       "time": "2026-08-20 20:34:34",
@@ -166,6 +466,15 @@
       "text": "洲際交易所（ICE）CEO：並非一定在考慮推出永續期貨。"
     },
     {
+      "id": "em:jjsj_jndsj:202608203848025722",
+      "time": "2026-08-20 20:31:14",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大7月工業產品價格環比上漲0.6%】加拿大7月工業產品價格環比上漲0.6%，此前預期為下降0.5%；7月原材料價格環比下跌2.2%，此前預期下跌2.0%。"
+    },
+    {
       "id": "5050198",
       "time": "2026-08-20 20:31:12",
       "tags": [
@@ -313,6 +622,15 @@
         "Important"
       ],
       "text": "U.S. Philadelphia Fed manufacturing index (Aug) 47.4 vs. expected 25.0; prior 41.4."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608203848026180",
+      "time": "2026-08-20 20:30:26",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月費城聯儲製造業指數為47.4。"
     },
     {
       "id": "5050195",
