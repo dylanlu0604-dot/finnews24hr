@@ -1,7 +1,143 @@
 {
   "date": "2026-08-20",
-  "count": 1602,
+  "count": 1617,
   "items": [
+    {
+      "id": "te:markets:576799",
+      "time": "2026-08-20 16:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Gains by 1.29% — Top commodity gainers are Palm Oil (1.29%), Corn (1.11%) and Sugar (0.81%). Biggest loser is Oat (-0.76%)."
+    },
+    {
+      "id": "te:markets:576798",
+      "time": "2026-08-20 16:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Snaps 2-Day Decline — The FTSE MIB edged higher to around 52,800 on Thursday, snapping a two-day decline and outperforming most of its regional peers. Lower US Treasury yields following the US Treasury’s decision to at least double buyback operations for long-dated bonds provided a supportive backdrop for risk assets. Financial stocks mostly traded in positive territory, with UniCredit rising 1%, Intesa Sanpaolo gaining 0.8% and Generali adding 0.7%. Monte dei Paschi di Siena also advanced 0.7% as its board prepared to discuss defensive options against Intesa Sanpaolo’s €36 billion takeover bid. Autos also gained, with Ferrari up about 1% and Stellantis rising around 0.4%, tracking a broader recovery in European automakers. Meanwhile, investors remained cautious amid geopolitical uncertainty, as negotiations to resolve the US-Iran conflict remained deadlocked and the Trump administration pursued intensified economic pressure on Tehran."
+    },
+    {
+      "id": "mkt:01a01e38-422c-7aab-90ad-e36ff46055f3",
+      "time": "2026-08-20 16:09:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong stocks closed higher: Hang Seng Index +0.8%, Hang Seng Tech Index +0.39%. Kuaishou (01024.HK) fell over 11% after earnings. Biotech sector surged—Yunding Xinyao (01952.HK) rose about 41%, CanSino Biologics (06185.HK) climbed about 37%."
+    },
+    {
+      "id": "5049411",
+      "time": "2026-08-20 16:09:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆源煤電：2026年上半年淨利潤1.61億元，上年同期虧損1.29億元】 恆源煤電公告，2026年上半年營業收入34.43億元，同比增長44.82%。歸屬於上市公司股東的淨利潤1.61億元，上年同期為-1.29億元。歸屬於上市公司股東的扣除非經常性損益的淨利潤7593.43萬元，上年同期為-1.42億元。本報告期利潤分配預案為無。"
+    },
+    {
+      "id": "5049410",
+      "time": "2026-08-20 16:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部電子商務司負責人介紹2026年1-7月我國電子商務發展情況】2026年1-7月，我國電子商務穩定創新發展，線上線下融合激發消費潛能，數智化賦能產業轉型升級，拓展國際經貿合作廣度深度，助力做強做優做大實體經濟。\n\n促進消費市場執行穩定。據國家統計局資料，1-7月全國網上商品和服務零售額增長4.8%，據商務部測算，對社會商品和服務零售額增長貢獻率超5成。線上渠道拓展商品消費範圍，提升服務消費便利性，據國家統計局資料，1-7月限額以上單位透過網際網路實現的商品零售額佔比28.7%，比上年同期提高2.5個百分點；商務部重點監測電商平臺上，1-7月線上旅遊、線上生活服務銷售額分別增長24.9%和16.3%。\n\n賦能三大產業轉型升級。電子商務發揮創新技術、海量資料和多元場景等優勢，推動農業、工業和服務業數智化轉型。“數商興農”不斷深入，推動數字技術與農業農村發展深度融合，據商務大資料監測，1-7月農產品和農村商品網上零售額分別增長12.8%和5%。指導各地培育“電商+產業帶”，組織電商平臺對接特色產業集聚區，據商務大資料監測，1-7月工業品和化工產品產業電商交易額分別增長1.4%和1.2%。網路購物、數字內容等拉動相關服務業快速增長，據國家郵政局資料，1-7月我國快遞業務收入增長7.4%；據工業和資訊化部資料，1-6月我國移動網際網路流量增長17.7%。\n\n拓展經貿合作廣度深度。“絲路電商惠全球”主題活動持續推進，雲上大講堂阿拉伯專場在埃及、摩洛哥首設兩個海外分會場，吸引21個阿拉伯國家近千名電商從業者參與。新疆、河北、陝西、江蘇等地舉辦“絲路雲品”系列活動助力優質商品“出口中國”。1-7月商務大資料重點監測跨境電商進口平臺上，塞爾維亞葡萄酒、孟加拉咖啡豆、紐西蘭黃油銷售額分別增長122.5%、112.2%和69.4%。"
+    },
+    {
+      "id": "5049409",
+      "time": "2026-08-20 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.907%，恒生科技指數漲0.451%】中國生物製藥漲12.526%，石藥集團漲9.499%，老鋪黃金漲8.353%，MINIMAX-W漲6.361%，理想汽車-W漲5.637%，周大福漲5.604%，紫金礦業漲5.501%。"
+    },
+    {
+      "id": "5049408",
+      "time": "2026-08-20 16:08:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻蒙智行：享界G9 42.98萬元起。"
+    },
+    {
+      "id": "5049407",
+      "time": "2026-08-20 16:07:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "微牛證券盤前股價上漲14%，此前該公司公佈第二季度營收高於上年同期，且由上年同期虧損轉為盈利。"
+    },
+    {
+      "id": "mkt:01a01e36-3980-7aab-90ad-dbae80dd5e3a",
+      "time": "2026-08-20 16:07:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russia-Ukraine Black Sea grain exports near halt】A British report on the 19th said grain exports from Russia and Ukraine in the Black Sea and Azov Sea are virtually halted, with export capacity losses exceeding 97%. The report said Ukraine struck Russia's Novorossiysk port last week, forcing suspension of three major grain terminals (NZT, NKHP and KSK). Ukraine's Odesa port has been largely closed since late July. Ukrainian Agriculture Minister Taras Vysotsky said no new ships had entered ports by mid‑August; Ukrainian Black Sea ports currently have no commercial cargo operations. A small Russian grain terminal at Tuapse remains nominally open with roughly 160,000 tonnes/month capacity. Kazakhstan Grain Union head Yevgeny Karabanov said civilian Black Sea shipping is almost at a standstill."
+    },
+    {
+      "id": "5049406",
+      "time": "2026-08-20 16:07:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "據TrendForce集邦諮詢顯示器研究中心最新調研資料顯示，2026年8月，電視面板價格下調，顯示器與筆電面板價格持平。"
+    },
+    {
+      "id": "mkt:01a01e35-f5ae-7aab-90ad-d00729727ad7",
+      "time": "2026-08-20 16:07:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said supply shortages in the Black Sea region could raise global wheat prices by about $80/tonne."
+    },
+    {
+      "id": "5049405",
+      "time": "2026-08-20 16:07:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新化股份：2026年半年度淨利潤1.62億元，同比增長9.49%】新化股份公告，2026年上半年營業收入16.98億元，同比增長14.60%。歸屬於上市公司股東的淨利潤1.62億元，同比增長9.49%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.57億元，同比增長10.77%。公司擬向全體股東每10股派發現金紅利2元（含稅）。"
+    },
+    {
+      "id": "5049404",
+      "time": "2026-08-20 16:07:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破70000美元，日內漲0.99%。"
+    },
+    {
+      "id": "5049403",
+      "time": "2026-08-20 16:07:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "烏克蘭農業部預測，受黑海地區供應短缺影響，全球小麥價格每噸可能上漲80美元。"
+    },
+    {
+      "id": "5049402",
+      "time": "2026-08-20 16:06:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部發布洪水黃色預警】記者從水利部瞭解到，水利部資訊中心20日釋出洪水黃色預警，提醒海南、廣東、廣西、福建、浙江、上海、江蘇、山東、黑龍江等省份相關地區社會公眾注意防範。（新華社）"
+    },
     {
       "id": "5049401",
       "time": "2026-08-20 16:05:56",
