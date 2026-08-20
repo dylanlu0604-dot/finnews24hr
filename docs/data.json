@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-20 22:47:34",
-  "count": 15888,
+  "updated": "2026-08-20 22:51:29",
+  "count": 15885,
   "items": [
+    {
+      "id": "te:markets:576898",
+      "time": "2026-08-20 22:50:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Climbs to Over Two-Year High — Cotton futures traded above 88 cents per pound, reaching its highest level in over two years, as crop conditions deteriorate. The latest USDA crop progress report showed conditions worsening to 38% rated good-to-excellent, down from 40% last week and 46% two weeks prior. Deteriorating weather across key producing regions, marked by drought and rising temperatures, raises the risk of lower yields and tighter global supplies, supporting prices. In Brazil, exports surged 19% in July. Meanwhile, El Niño conditions are projected to strengthen through September, keeping temperatures elevated and threatening yields. In India, plantings have largely recovered following normal July rains that offset a dry June, though August and September precipitation remains critical for final output. Still, the rally has left cotton vulnerable to profit-taking as traders lock in gains."
+    },
+    {
+      "id": "5050422",
+      "time": "2026-08-20 22:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍據報打通霍爾木茲海峽秘密航道】據美國阿克西奧斯新聞網站8月19日報道，兩名美國官員稱，美軍已悄悄建立一條進出霍爾木茲海峽的航運通道，確保每天有“數百萬桶”石油運出霍爾木茲海峽。對於相關報道，伊朗方面目前沒有作出回應。 (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:01a01fa5-008e-7aab-90ba-332f91fea545",
+      "time": "2026-08-20 22:48:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "YONHAP reports Lee Jae-myung reportedly discussed with the SK Group chairman three South Korea mega-projects centered on semiconductors and AI, including SK Hynix investment in the country’s southwest region."
+    },
     {
       "id": "mkt:01a01fa3-a090-7aab-90ba-2dba6eb3f8f3",
       "time": "2026-08-20 22:46:52",
@@ -145239,74 +145271,6 @@
         "國際"
       ],
       "text": "【油價轉跌 市場觀望霍爾木茲海峽石油通行規模】油價終結近期上漲行情，伊朗衝突相關協議進展有限，交易商密切關注霍爾木茲海峽石油通行量。西德克薩斯輕質原油（WTI）跌至每桶81美元下方，此前五個交易日累計上漲10%。期貨市場對白宮就該航道發表的言論敏感度不斷下降；在近期價格衝高後，週四市場出現獲利了結跡象。加拿大帝國商業銀行私人財富集團資深能源交易員麗貝卡·巴賓表示：“今早行情更像是買方觀望，而非市場真正篤定看空。疊加昨日美國原油庫存大幅增加，當下幾乎沒有利好因素吸引買方入場。”交易商正在評估當前霍爾木茲海峽的石油通行規模。美國能源部長克里斯·賴特週二稱，過去一週海峽石油日均通行量為900萬桶，遠高於多家行業機構預估，令市場對供應缺口規模產生新的疑問。與此同時，美國能源資訊署資料顯示，上週原油庫存增加1740萬桶，或在短期內對油價形成一定緩衝。"
-    },
-    {
-      "id": "te:markets:575148",
-      "time": "2026-08-13 22:50:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil Drops Below $87 — Brent crude oil fell below $87 a barrel on Thursday, after five consecutive sessions of gains, as investors shifted attention toward weakening demand prospects and continued disruption around the Strait of Hormuz. Traders are closely monitoring how much oil is moving through the key waterway, as diplomatic efforts to end the Iran war and restore normal shipping remain stalled. Meanwhile, major producers including Saudi Arabia and the UAE are seeking alternative ways to maintain exports, with some vessels reportedly switching off transponders while navigating the strait. The International Energy Agency lowered its global oil demand outlook, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. The agency estimates the global market could face a supply deficit of 1.8 million barrels per day this quarter, more than twice its previous forecast. US crude inventories also surged by 17.4 million barrels last week."
-    },
-    {
-      "id": "te:markets:575147",
-      "time": "2026-08-13 22:50:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Pulls Back on Thursday — Crude oil fell below $81 a barrel on Thursday, after five consecutive sessions of gains, as investors shifted attention toward weakening demand prospects and continued disruption around the Strait of Hormuz. Traders are closely monitoring how much oil is moving through the key waterway, as diplomatic efforts to end the Iran war and restore normal shipping remain stalled. Meanwhile, major producers including Saudi Arabia and the UAE are seeking alternative ways to maintain exports, with some vessels reportedly switching off transponders while navigating the strait. The International Energy Agency lowered its global oil demand outlook, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. The agency estimates the global market could face a supply deficit of 1.8 million barrels per day this quarter, more than twice its previous forecast. US crude inventories also surged by 17.4 million barrels last week."
-    },
-    {
-      "id": "5039786",
-      "time": "2026-08-13 22:49:54",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲巴爾金：勞動力市場並不像資料顯示的那樣強勁】美聯儲巴爾金表示，企業對企業銷售的公司對定價能力充滿信心；企業對消費者銷售的公司則不太確定能否轉嫁成本，美聯儲目前並未處於“前瞻性指引”狀態。他認為勞動力市場並不像資料顯示的那樣強勁，認為其較為脆弱，確實擔心低端消費者支出能維持多久。巴爾金表示，確實相信如果幫助人們理解反應函式，有助於市場發揮其作用，但也認為過於謹慎的指引會導致約束。巴爾金稱，企業通常不喜歡裁員，即使對招聘持謹慎態度，也更傾向於避免裁員。巴爾金表示，糾結於應關注通脹已逾五年高於目標，還是應關注其經歷兩輪跳升後正在放緩。整體通脹持續放緩的程度越高，就越有助於控制通脹預期。許多人工智慧應用案例似乎尚未成熟到足以導致員工人數大幅減少。人工智慧對就業的淨影響，不如其可能引發的就業崗位重新分配問題更值得關注。巴爾金表示，鑑於任何模型都存在標準誤差，很難判斷政策是否具有限制性。"
-    },
-    {
-      "id": "mkt:019ffb98-7ee0-7aab-9028-f393c66bdbd4",
-      "time": "2026-08-13 22:48:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Barkin said many AI applications currently appear insufficiently mature to trigger large-scale layoffs."
-    },
-    {
-      "id": "mkt:019ffb98-3128-7aab-9028-ef24835c84f2",
-      "time": "2026-08-13 22:48:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed Governor Barkin said the net impact of AI on total employment is not the main concern; the greater market-relevant issue is the potential reallocation of jobs across occupations."
-    },
-    {
-      "id": "mkt:019ffb98-16cc-7aab-9028-e0f64bb6bf39",
-      "time": "2026-08-13 22:47:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Fed's Barkin said firms selling to corporate clients are confident in their pricing power, while consumer-facing firms are less certain they can pass rising costs on to consumers."
     }
   ]
 }

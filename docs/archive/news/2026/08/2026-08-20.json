@@ -1,7 +1,39 @@
 {
   "date": "2026-08-20",
-  "count": 3072,
+  "count": 3075,
   "items": [
+    {
+      "id": "te:markets:576898",
+      "time": "2026-08-20 22:50:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Climbs to Over Two-Year High — Cotton futures traded above 88 cents per pound, reaching its highest level in over two years, as crop conditions deteriorate. The latest USDA crop progress report showed conditions worsening to 38% rated good-to-excellent, down from 40% last week and 46% two weeks prior. Deteriorating weather across key producing regions, marked by drought and rising temperatures, raises the risk of lower yields and tighter global supplies, supporting prices. In Brazil, exports surged 19% in July. Meanwhile, El Niño conditions are projected to strengthen through September, keeping temperatures elevated and threatening yields. In India, plantings have largely recovered following normal July rains that offset a dry June, though August and September precipitation remains critical for final output. Still, the rally has left cotton vulnerable to profit-taking as traders lock in gains."
+    },
+    {
+      "id": "5050422",
+      "time": "2026-08-20 22:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍據報打通霍爾木茲海峽秘密航道】據美國阿克西奧斯新聞網站8月19日報道，兩名美國官員稱，美軍已悄悄建立一條進出霍爾木茲海峽的航運通道，確保每天有“數百萬桶”石油運出霍爾木茲海峽。對於相關報道，伊朗方面目前沒有作出回應。 (CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:01a01fa5-008e-7aab-90ba-332f91fea545",
+      "time": "2026-08-20 22:48:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "YONHAP reports Lee Jae-myung reportedly discussed with the SK Group chairman three South Korea mega-projects centered on semiconductors and AI, including SK Hynix investment in the country’s southwest region."
+    },
     {
       "id": "mkt:01a01fa3-a090-7aab-90ba-2dba6eb3f8f3",
       "time": "2026-08-20 22:46:52",
