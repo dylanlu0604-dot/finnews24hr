@@ -1,7 +1,29 @@
 {
   "date": "2026-08-21",
-  "count": 434,
+  "count": 436,
   "items": [
+    {
+      "id": "mkt:01a02155-8d57-7aab-90c2-394e9930dfcd",
+      "time": "2026-08-21 06:40:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said Iran possesses some missiles and drones but has limited production capacity."
+    },
+    {
+      "id": "te:markets:576967",
+      "time": "2026-08-21 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 2.79% — Top commodity losers are Oat (-2.79%) and Rapeseed (-1.26%). Gains are led by Rubber (1.51%) and Palm Oil (1.39%)."
+    },
     {
       "id": "5050841",
       "time": "2026-08-21 06:36:45",
