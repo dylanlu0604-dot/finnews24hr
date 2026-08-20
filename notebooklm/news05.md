@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:38:12_
-_本檔包含 3248 則快訊，約 639991 字_
+_更新時間：2026-08-21 05:57:35_
+_本檔包含 3242 則快訊，約 640029 字_
+
+---
+
+### 2026-08-15 21:34:16  #公司
+
+【程福波到中國石油調研強調：堅決扛牢能源安全使命 加快建設世界一流綜合效能源化工企業】國務院國資委黨委書記、主任程福波8月14日到中國石油調研保障能源安全、科技創新和產業發展、深化改革和黨的建設等工作，強調要深入學習貫徹習近平總書記關於國家能源安全的重要論述，全面落實“四個革命、一個合作”能源安全新戰略，更好統籌發展和安全，樹牢底線思維、極限思維，全力強創新、促轉型、穩增長、防風險，持續加大油氣勘探開發力度，提升能源高效供給能力，推進產業綠色轉型與佈局最佳化，加快打造基業長青的世界一流綜合效能源與化工公司，為推進能源革命、保障能源安全提供有力支撐。程福波深入瞭解企業智慧運營中心執行情況，與集團領導班子座談交流，並聽取工作意見建議。他指出，中國石油的發展史是一部艱苦奮鬥的創業史，見證了我國石油工業從弱到強發展歷程。特別是近年來企業堅決落實黨中央、國務院決策部署，積極應對國際局勢動盪、行業形勢變化，持續加強油氣勘探開發和增儲上產，形成國內原油產量、國內天然氣產量當量、海外油氣權益產量當量“三個1億噸”格局並不斷鞏固，有力保供應、穩市場，高質量發展邁出堅實步伐，充分彰顯了能源保供“頂樑柱”作用。程福波強調，中國石油要堅持以習近平總書記重要指示精神為統領，突出抓好能源保供，加大增儲上產力度，統籌高效勘探和效益開發，著力增強優質資源獲取能力，把能源飯碗端得更牢；抓好轉型升級，找準發展方向，提升自主創新能力，在深地深海能源、高階化工新材料等領域加強應用基礎研究和基礎研究，強化關鍵核心技術攻關，推動傳統產業智慧化、綠色化、融合化發展，因地制宜發展新興產業，培育壯大新動能新優勢；紮實推進穩增長提效益，保持對市場供應跟蹤研判，及時調整經營策略，狠抓降本增效，合理擴大有效投資，提升高質量發展成色；抓好新一輪國資國企改革方案落地見效，加快構建與世界一流企業相適應的體制機制，進一步加強穿透式監管，壓緊壓實生態環境保護責任，堅決守住安全生產風險底線。要堅持黨的領導加強黨的建設，持續樹牢和踐行正確政績觀，弘揚石油精神和大慶精神、鐵人精神，縱深推進全面從嚴治黨，充分發揮高質量黨建引領保障作用。國務院國資委有關廳局負責同志參加調研。
+
+---
+
+### 2026-08-15 21:29:24  #其他
+
+【中國20家行業協會發布綠色低碳行動倡議】今年8月15日是中國第四個全國生態日。當日，中國商業聯合會、中國鋼鐵工業協會等20家行業協會，共同發出綠色低碳行動倡議並承諾，引導會員企業積極開展能源結構轉型，逐步提高可再生能源利用比例，不斷降低碳排放強度。
+
+---
+
+### 2026-08-15 21:27:06  #國際
+
+【伊朗戰事延宕 美航母部署時長恐將再刷紀錄】美國總統特朗普證實在中東地區長時間部署的“林肯”號核動力航空母艦將被替換後，美國有線電視新聞網15日報道，接替“林肯”號的將是“喬治·華盛頓”號航母，而“林肯”號可能在返回其位於加利福尼亞州的母港途中打破“福特”號航母今年創下的越南戰爭後美航母連續海上部署最長紀錄。此前，參與伊朗戰事的“福特”號航母於今年5月16日返回其位於美國弗吉尼亞州的母港諾福克海軍基地，創下越戰後美國航母連續海上部署最長時間紀錄，連續執行任務326天。（新華社）
+
+---
+
+### 2026-08-15 21:20:12  #國際
+
+伊朗總統佩澤希齊揚向印度總理莫迪祝賀印度第80個獨立日，並補充說，伊朗決心加強與印度的全面關係。
+
+---
+
+### 2026-08-15 21:19:50  #國際
+
+【印尼地震死亡人數上升至47人】根據印尼國家抗災署公佈的最新資料，截至印尼雅加達時間今天18時48分（北京時間19時48分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至47人。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 21:19:01  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+【Iran, Oman appear to agree shipping routes through Strait of Hormuz】Foreign reports say Iran and Oman appear to have agreed on shipping routes through the Strait of Hormuz as part of talks on managing the chokepoint. Iran foreign ministry spokesman Baghaei said a finalized "shipping map" would form part of a broader arrangement and an independent bilateral pact to protect sovereignty and ensure safe passage. State media gave no details on transit fees or security measures and said further negotiations are planned. The move follows recent attacks in the strait; the United States was not involved and is unlikely to accept any deal that does not restore free navigation.
 
 ---
 
@@ -19543,77 +19579,5 @@ RBNZ maintains current loan-to-value ratio (LVR) settings.
 ### 2026-08-14 05:58:39  #公司 #焦點 #國際
 
 【白宮宣佈對進口無人機及零部件徵收關稅】美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。（新華社）
-
----
-
-### 2026-08-14 05:56:03  #MKT News #Market Themes #AI Revolution
-
-【Sources: OpenAI annualized revenue tops $40 bln】Sources say OpenAI's current annualized revenue has exceeded $40 billion, roughly double its level at end-2025, bolstering the company's IPO preparations. Revenue acceleration in recent months is driven by rapid expansion of its AI programming business (notably CODEX), rising subscriptions, nascent ad revenue contribution and steady consumer growth. OpenAI is competing fiercely with ANTHROPIC for enterprise customers; both firms have quietly filed IPO paperwork, and ANTHROPIC could list as soon as this autumn, potentially ahead of OpenAI. OpenAI co‑founder and president Greg Brockman said July annualized revenue rose more than 20% month‑on‑month. Demand for AI agents has increased, with flagship products including CODEX and ChatGPT Work, and OpenAI has cut prices on some models to respond to ANTHROPIC and other competitors.
-
----
-
-### 2026-08-14 05:48:10  #MKT News #Market Themes #The Trump Trade
-
-Australian Prime Minister Albanese said U.S. President Trump has agreed to consider a request on tariffs.
-
----
-
-### 2026-08-14 05:47:16  #國際
-
-澳大利亞總理阿爾巴尼斯： 特朗普同意將考慮我方的關稅豁免請求。
-
----
-
-### 2026-08-14 05:46:41  #MKT News
-
-Australian Prime Minister Albanese said he discussed tariffs with U.S. President Trump and urged him to consider granting a full exemption.
-
----
-
-### 2026-08-14 05:45:23  #國際
-
-澳大利亞總理阿爾巴尼斯：已向特朗普提及關稅問題，敦促特朗普考慮給予全面豁免。
-
----
-
-### 2026-08-14 05:43:37  #MKT News
-
-Australian Prime Minister Albanese said the US-UK-Australia trilateral security partnership AUKUS is continuing to advance at full speed.
-
----
-
-### 2026-08-14 05:42:53  #MKT News
-
-Prime Minister Albanese reviewed progress on the AUKUS trilateral security partnership's defense agreement.
-
----
-
-### 2026-08-14 05:42:45  #國際
-
-澳大利亞總理阿爾巴尼斯： 與特朗普就中東、太平洋地區局勢交換了意見，覆盤了澳英美三邊安全夥伴關係（AUKUS）的進展情況，澳英美三邊安全夥伴關係（AUKUS）仍在 “全力推進”。
-
----
-
-### 2026-08-14 05:40:58  #公司
-
-【阿聯酋阿布扎比國家石油公司稱兩艘船隻在霍爾木茲海峽遭襲】當地時間14日凌晨，阿聯酋阿布扎比國家石油公司釋出宣告稱，13日晚間，該公司兩艘船隻在透過霍爾木茲海峽時遭到襲擊。該公司表示，事件未造成人員受傷。阿布扎比國家石油公司是阿聯酋國有石油和天然氣企業，是全球最大的石油和天然氣生產商之一。（央視新聞）
-
----
-
-### 2026-08-14 05:40:45  #公司 #國際
-
-【美國將對無人機及其零部件徵收關稅 最高稅率100%】白宮發文稱，美國總統特朗普簽署公告，將對部分無人機及其零部件徵收不同稅率的關稅。措施包括，對大型無人機以及被認為構成特定國家安全風險的無人機徵收100%的從價關稅，對較小型無人機徵收25%的關稅。來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及無人機零部件適用15%的關稅。來自英國的無人機適用10%的關稅。白宮稱：“相關關稅將在簽署21天后生效。其他並非特別敏感的無人機零部件，關稅將在簽署180天后生效。”
-
----
-
-### 2026-08-14 05:40:35  #MKT News #Market Themes #The Trump Trade
-
-Australia's prime minister Albanese spoke overnight with US President Trump.
-
----
-
-### 2026-08-14 05:38:26  #MKT News #Important #Market Themes #AI Revolution
-
-Market sources say OpenAI's annualized revenue exceeded $40 bln ahead of its IPO.
 
 ---

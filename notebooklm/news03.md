@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:38:12_
-_本檔包含 3269 則快訊，約 639366 字_
+_更新時間：2026-08-21 05:57:35_
+_本檔包含 3281 則快訊，約 640069 字_
+
+---
+
+### 2026-08-19 06:14:24  #宏觀
+
+英國首相伯納姆表示，作為權力移交的一部分，北部唐寧街10號將從財政部手中接管經濟增長相關權責。
+
+---
+
+### 2026-08-19 06:07:09  #國際
+
+以色列再次轟炸黎巴嫩南部地區。
+
+---
+
+### 2026-08-19 06:03:15  #市場
+
+現貨白銀日內跌1%，現報62.17美元/盎司。
+
+---
+
+### 2026-08-19 06:03:08  #其他
+
+中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。
+
+---
+
+### 2026-08-19 06:02:01  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
+
+---
+
+### 2026-08-19 06:01:56  #市場
+
+紐約期銀日內跌1%，現報63.39美元/盎司。
+
+---
+
+### 2026-08-19 06:00:45  #市場 #焦點
+
+現貨白銀突破63美元/盎司，日內跌0.51%。
+
+---
+
+### 2026-08-19 06:00:08  #公司 #國際
+
+美國地面運輸委員會：決定啟動評估聯合太平洋鐵路公司與諾福克南方鐵路公司擬議合併交易價值的程式。
+
+---
+
+### 2026-08-19 05:58:28  #公司 #焦點 #國際
+
+美國地面運輸委員會：採納聯合太平洋鐵路公司與諾福克南方鐵路公司合併審議程式時間表，將該合併程式移出擱置狀態。
+
+---
+
+### 2026-08-19 05:48:18  #其他
+
+中國地震臺網正式測定：08月19日05時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。
+
+---
+
+### 2026-08-19 05:48:12  #國際
+
+美國商務部長盧特尼克：美國商務部人口普查局剛剛釋出的分析報告顯示，2020年大選中有超過24000名非公民非法投票。這批人不只是完成選民登記，而是確確實實進行了非法投票。而這僅僅是開始。未來數週內，還有超過3200萬條選民記錄將接受分析，這些記錄很可能還會查出數萬名額外的非法投票者。
+
+---
+
+### 2026-08-19 05:41:36  #國際
+
+伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。
+
+---
+
+### 2026-08-19 05:40:20  #其他 #焦點
+
+中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-19 05:33:23  #公司
+
+【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”
+
+---
+
+### 2026-08-19 05:33:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'.
+
+---
+
+### 2026-08-19 05:31:52  #MKT News #GOOG.O
+
+According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers.
+
+---
+
+### 2026-08-19 05:30:46  #其他
+
+穆迪確認英偉達Aa1評級，展望維持正面。
+
+---
+
+### 2026-08-19 05:29:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook.
+
+---
+
+### 2026-08-19 05:25:54  #公司
+
+宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。
+
+---
+
+### 2026-08-19 05:25:50  #MKT News
+
+Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations.
+
+---
+
+### 2026-08-19 05:25:11  #國際
+
+加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。
+
+---
+
+### 2026-08-19 05:19:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil.
+
+---
+
+### 2026-08-19 05:15:28  #市場
+
+富時A50期指連續夜盤收跌0.32%，報15045點。
+
+---
+
+### 2026-08-19 05:13:32  #國際
+
+特朗普將於8月27日在休斯頓主持共和黨全國委員會籌款晚宴。
+
+---
+
+### 2026-08-19 05:13:23  #國際
+
+特朗普將出席共和黨全國委員會為肯·帕克斯頓舉辦的籌款活動。
+
+---
+
+### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
+
+【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
 
 ---
 
@@ -19641,89 +19797,5 @@ Belarus Industrial Activity Rebounds — Belarus’ industrial production edged 
 ### 2026-08-17 21:15:55  #其他
 
 市場訊息：RedCloud簽署阿根廷三年合作協議，預計透過其RedAI平臺實現營收2000萬美元，快速消費品貿易額達12億美元。
-
----
-
-### 2026-08-17 21:14:38  #央行 #資料 #市場 #國際
-
-【加拿大通脹率升至3% 中東衝突繼續推升汽油價格】隨著中東衝突繼續推升汽油價格，加拿大通脹率小幅升至3%，但核心價格指標漲幅仍較溫和。加拿大統計局週一公佈，7月汽油價格同比上漲25.7%，高於6月的20.5%。剔除汽油後，消費者價格指數(CPI)連續第三個月上漲2.2%。CPI環比上漲0.5%。經濟學家此前預計，整體通脹率將從6月的2.8%小幅升至2.9%。儘管整體通脹率略高於預期，但最新資料表明通脹壓力仍受到控制，能源成本上升向經濟其他領域傳導的跡象仍然有限。加拿大央行偏好的通脹率指標平均為1.95%，較上月僅略有上升，仍低於2%的目標。不過，鑑於其他資料顯示經濟正在反彈，加拿大央行仍將密切關注核心通脹指標，以判斷情況是否會發生變化。
-
----
-
-### 2026-08-17 21:13:45  #公司 #國際
-
-【臉書照片牆被控誘導青少年成癮 Meta被全美29州起訴】美國元公司因涉嫌針對青少年設計成癮性產品，遭到美國多州的聯合訴訟。案件定於18日，也就是明天在加利福尼亞州奧克蘭開庭審理。法庭檔案顯示，加利福尼亞、科羅拉多、肯塔基和新澤西4個州指控，“元”公司刻意將旗下的臉書、照片牆設計為容易讓未成年人成癮的模式，並刻意隱瞞平臺對青少年心理健康造成的負面影響，涉嫌誤導公眾、侵害未成年人權益，向“元”公司尋求約2000億美元的賠償。目前，全美有29個州起訴“元”公司，多數州指控其違反《兒童線上隱私保護法》，在未經父母同意的情況下非法收集兒童個人資訊。除“元”公司外，其他社交媒體平臺也面臨數千起類似訴訟。（央視財經）
-
----
-
-### 2026-08-17 21:11:24  #MKT News #Nikkei 225 #Impact bullish
-
-JP Morgan raised its end-2026 target for Japan's TOPIX to 4,600 from 4,400.
-
----
-
-### 2026-08-17 21:10:52  #觀點 #國際
-
-摩根大通將日本東證股價指數2026年年終點位目標從4400點上調至4600點。
-
----
-
-### 2026-08-17 21:10:32  #其他
-
-【葉門胡塞武裝稱襲擊沙特軍艦】當地時間17日，葉門胡塞武裝發言人葉海亞·薩雷亞在社交媒體發文稱，該組織向紅海海域“一艘沙特軍艦及其四艘護衛船隻”發動了導彈襲擊。沙特方面尚未對此作出回應。（央視新聞）
-
----
-
-### 2026-08-17 21:10:11  #國際
-
-俄羅斯堪察加彼得羅巴甫洛夫斯克以東 72 公里處發生 5.8 級地震。
-
----
-
-### 2026-08-17 21:09:49  #MKT News
-
-OpenAI said the Ports-Pike project is expected to create 35,000 construction jobs during a six-year build ending in 2032 and 2,500 long-term operations jobs.
-
----
-
-### 2026-08-17 21:09:31  #其他
-
-OPENAI：PORTS-PIKE專案預計在截至2032年的六年建設期內創造35,000個建築崗位，以及2,500個長期運營崗位。
-
----
-
-### 2026-08-17 21:09:11  #MKT News
-
-【IRGC denies secret-channel talks with US】Iran's Islamic Revolutionary Guard Corps (IRGC) said its officials did not engage in secret-channel talks with the United States, Iranian media reported on 17.
-
----
-
-### 2026-08-17 21:08:48  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Traders say strong demand has pushed October-delivered Russian ESPO blend cargoes back into a premium to ICE Brent.
-
----
-
-### 2026-08-17 21:08:31  #焦點 #國際
-
-據伊朗媒體17日報道，伊朗伊斯蘭革命衛隊發言人說，革命衛隊官員並未與美國方面透過秘密渠道進行對話。（新華社）
-
----
-
-### 2026-08-17 21:08:11  #國際
-
-交易商稱，10月裝船的俄羅斯ESPO混合原油實貨已恢復對ICE布倫特原油的升水。
-
----
-
-### 2026-08-17 21:07:45  #市場 #觀點
-
-【高盛：標普 500 指數成分股營收增速創五年新高】高盛表示，剔除能源板塊後，標普 500 成分股二季度營收同比增長 6.4%，為五年來最快增速。大型科技企業成為增長主力；剔除科技板塊後，標普 500 成分股營收中位數僅增長 3%。企業盈利同比大漲近 50%，部分源於科技企業上調私人投資估值。與此同時，企業收到超 1000 億美元關稅退款，這筆意外收益被用於營銷、緩解成本壓力以及下調產品售價。
-
----
-
-### 2026-08-17 21:06:21  #公司
-
-【OpenAI總裁回應高管流失潮：並非十分反常】OpenAI總裁格雷格・布羅克曼於週一回應，淡化市場對這家人工智慧公司高管流失的擔憂，他認為這一輪離職潮“實際上並非十分反常”。 布羅克曼表示：“我其實覺得，OpenAI和其他機構的區別在於我們處在極高的聚光燈下，每一次人員離職都會受到格外審視，而普通企業的人員變動不會遭遇這樣的待遇。” 就在上週，OpenAI營收負責人丹尼斯・德雷瑟突然離職，其任職僅8個月。她此前的核心工作是擴張企業業務板塊，該業務利潤率較高，目標是直接對標主要競爭對手Anthropic。 德雷瑟離職的兩天前，另一位資深高管布拉德・萊特卡普宣佈結束在這家ChatGPT開發公司長達八年的任職，準備“開啟新事業”。今年4月，OpenAI宣布萊特卡普不再擔任營運長，轉崗負責“專項專案”，德雷瑟接手了他手中的大部分工作。
 
 ---

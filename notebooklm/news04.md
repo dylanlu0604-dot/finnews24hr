@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:38:12_
-_本檔包含 2979 則快訊，約 640121 字_
+_更新時間：2026-08-21 05:57:35_
+_本檔包含 2987 則快訊，約 640088 字_
+
+---
+
+### 2026-08-17 21:14:38  #央行 #資料 #市場 #國際
+
+【加拿大通脹率升至3% 中東衝突繼續推升汽油價格】隨著中東衝突繼續推升汽油價格，加拿大通脹率小幅升至3%，但核心價格指標漲幅仍較溫和。加拿大統計局週一公佈，7月汽油價格同比上漲25.7%，高於6月的20.5%。剔除汽油後，消費者價格指數(CPI)連續第三個月上漲2.2%。CPI環比上漲0.5%。經濟學家此前預計，整體通脹率將從6月的2.8%小幅升至2.9%。儘管整體通脹率略高於預期，但最新資料表明通脹壓力仍受到控制，能源成本上升向經濟其他領域傳導的跡象仍然有限。加拿大央行偏好的通脹率指標平均為1.95%，較上月僅略有上升，仍低於2%的目標。不過，鑑於其他資料顯示經濟正在反彈，加拿大央行仍將密切關注核心通脹指標，以判斷情況是否會發生變化。
+
+---
+
+### 2026-08-17 21:13:45  #公司 #國際
+
+【臉書照片牆被控誘導青少年成癮 Meta被全美29州起訴】美國元公司因涉嫌針對青少年設計成癮性產品，遭到美國多州的聯合訴訟。案件定於18日，也就是明天在加利福尼亞州奧克蘭開庭審理。法庭檔案顯示，加利福尼亞、科羅拉多、肯塔基和新澤西4個州指控，“元”公司刻意將旗下的臉書、照片牆設計為容易讓未成年人成癮的模式，並刻意隱瞞平臺對青少年心理健康造成的負面影響，涉嫌誤導公眾、侵害未成年人權益，向“元”公司尋求約2000億美元的賠償。目前，全美有29個州起訴“元”公司，多數州指控其違反《兒童線上隱私保護法》，在未經父母同意的情況下非法收集兒童個人資訊。除“元”公司外，其他社交媒體平臺也面臨數千起類似訴訟。（央視財經）
+
+---
+
+### 2026-08-17 21:11:24  #MKT News #Nikkei 225 #Impact bullish
+
+JP Morgan raised its end-2026 target for Japan's TOPIX to 4,600 from 4,400.
+
+---
+
+### 2026-08-17 21:10:52  #觀點 #國際
+
+摩根大通將日本東證股價指數2026年年終點位目標從4400點上調至4600點。
+
+---
+
+### 2026-08-17 21:10:32  #其他
+
+【葉門胡塞武裝稱襲擊沙特軍艦】當地時間17日，葉門胡塞武裝發言人葉海亞·薩雷亞在社交媒體發文稱，該組織向紅海海域“一艘沙特軍艦及其四艘護衛船隻”發動了導彈襲擊。沙特方面尚未對此作出回應。（央視新聞）
+
+---
+
+### 2026-08-17 21:10:11  #國際
+
+俄羅斯堪察加彼得羅巴甫洛夫斯克以東 72 公里處發生 5.8 級地震。
+
+---
+
+### 2026-08-17 21:09:49  #MKT News
+
+OpenAI said the Ports-Pike project is expected to create 35,000 construction jobs during a six-year build ending in 2032 and 2,500 long-term operations jobs.
+
+---
+
+### 2026-08-17 21:09:31  #其他
+
+OPENAI：PORTS-PIKE專案預計在截至2032年的六年建設期內創造35,000個建築崗位，以及2,500個長期運營崗位。
+
+---
+
+### 2026-08-17 21:09:11  #MKT News
+
+【IRGC denies secret-channel talks with US】Iran's Islamic Revolutionary Guard Corps (IRGC) said its officials did not engage in secret-channel talks with the United States, Iranian media reported on 17.
+
+---
+
+### 2026-08-17 21:08:48  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Traders say strong demand has pushed October-delivered Russian ESPO blend cargoes back into a premium to ICE Brent.
+
+---
+
+### 2026-08-17 21:08:31  #焦點 #國際
+
+據伊朗媒體17日報道，伊朗伊斯蘭革命衛隊發言人說，革命衛隊官員並未與美國方面透過秘密渠道進行對話。（新華社）
+
+---
+
+### 2026-08-17 21:08:11  #國際
+
+交易商稱，10月裝船的俄羅斯ESPO混合原油實貨已恢復對ICE布倫特原油的升水。
+
+---
+
+### 2026-08-17 21:07:45  #市場 #觀點
+
+【高盛：標普 500 指數成分股營收增速創五年新高】高盛表示，剔除能源板塊後，標普 500 成分股二季度營收同比增長 6.4%，為五年來最快增速。大型科技企業成為增長主力；剔除科技板塊後，標普 500 成分股營收中位數僅增長 3%。企業盈利同比大漲近 50%，部分源於科技企業上調私人投資估值。與此同時，企業收到超 1000 億美元關稅退款，這筆意外收益被用於營銷、緩解成本壓力以及下調產品售價。
+
+---
+
+### 2026-08-17 21:06:21  #公司
+
+【OpenAI總裁回應高管流失潮：並非十分反常】OpenAI總裁格雷格・布羅克曼於週一回應，淡化市場對這家人工智慧公司高管流失的擔憂，他認為這一輪離職潮“實際上並非十分反常”。 布羅克曼表示：“我其實覺得，OpenAI和其他機構的區別在於我們處在極高的聚光燈下，每一次人員離職都會受到格外審視，而普通企業的人員變動不會遭遇這樣的待遇。” 就在上週，OpenAI營收負責人丹尼斯・德雷瑟突然離職，其任職僅8個月。她此前的核心工作是擴張企業業務板塊，該業務利潤率較高，目標是直接對標主要競爭對手Anthropic。 德雷瑟離職的兩天前，另一位資深高管布拉德・萊特卡普宣佈結束在這家ChatGPT開發公司長達八年的任職，準備“開啟新事業”。今年4月，OpenAI宣布萊特卡普不再擔任營運長，轉崗負責“專項專案”，德雷瑟接手了他手中的大部分工作。
 
 ---
 
@@ -17934,41 +18018,5 @@ Turkish President Erdogan said Europe appears unwilling to accept Turkey into th
 ### 2026-08-15 21:35:11  #MKT News
 
 【Yushu Technology IPO: OTC scalper allocation rumours unfounded; underwriter flags legal and market risk】Market chatter claimed scalpers were buying Yushu Technology IPO allocations off‑market and some intermediaries were quoting well above the offer price. Institutional investors, private funds and brokers contacted said they found no evidence and described the reports as largely unfounded. Such private OTC arrangements may be legally questionable and could expose investors to losses, the sources warned. CITIC Securities, the IPO's lead underwriter, reminded market participants that securities trading must comply with laws and market rules, be conducted via authorised channels and real‑name accounts, and urged against speculative bandwagoning while advising careful risk assessment.
-
----
-
-### 2026-08-15 21:34:16  #公司
-
-【程福波到中國石油調研強調：堅決扛牢能源安全使命 加快建設世界一流綜合效能源化工企業】國務院國資委黨委書記、主任程福波8月14日到中國石油調研保障能源安全、科技創新和產業發展、深化改革和黨的建設等工作，強調要深入學習貫徹習近平總書記關於國家能源安全的重要論述，全面落實“四個革命、一個合作”能源安全新戰略，更好統籌發展和安全，樹牢底線思維、極限思維，全力強創新、促轉型、穩增長、防風險，持續加大油氣勘探開發力度，提升能源高效供給能力，推進產業綠色轉型與佈局最佳化，加快打造基業長青的世界一流綜合效能源與化工公司，為推進能源革命、保障能源安全提供有力支撐。程福波深入瞭解企業智慧運營中心執行情況，與集團領導班子座談交流，並聽取工作意見建議。他指出，中國石油的發展史是一部艱苦奮鬥的創業史，見證了我國石油工業從弱到強發展歷程。特別是近年來企業堅決落實黨中央、國務院決策部署，積極應對國際局勢動盪、行業形勢變化，持續加強油氣勘探開發和增儲上產，形成國內原油產量、國內天然氣產量當量、海外油氣權益產量當量“三個1億噸”格局並不斷鞏固，有力保供應、穩市場，高質量發展邁出堅實步伐，充分彰顯了能源保供“頂樑柱”作用。程福波強調，中國石油要堅持以習近平總書記重要指示精神為統領，突出抓好能源保供，加大增儲上產力度，統籌高效勘探和效益開發，著力增強優質資源獲取能力，把能源飯碗端得更牢；抓好轉型升級，找準發展方向，提升自主創新能力，在深地深海能源、高階化工新材料等領域加強應用基礎研究和基礎研究，強化關鍵核心技術攻關，推動傳統產業智慧化、綠色化、融合化發展，因地制宜發展新興產業，培育壯大新動能新優勢；紮實推進穩增長提效益，保持對市場供應跟蹤研判，及時調整經營策略，狠抓降本增效，合理擴大有效投資，提升高質量發展成色；抓好新一輪國資國企改革方案落地見效，加快構建與世界一流企業相適應的體制機制，進一步加強穿透式監管，壓緊壓實生態環境保護責任，堅決守住安全生產風險底線。要堅持黨的領導加強黨的建設，持續樹牢和踐行正確政績觀，弘揚石油精神和大慶精神、鐵人精神，縱深推進全面從嚴治黨，充分發揮高質量黨建引領保障作用。國務院國資委有關廳局負責同志參加調研。
-
----
-
-### 2026-08-15 21:29:24  #其他
-
-【中國20家行業協會發布綠色低碳行動倡議】今年8月15日是中國第四個全國生態日。當日，中國商業聯合會、中國鋼鐵工業協會等20家行業協會，共同發出綠色低碳行動倡議並承諾，引導會員企業積極開展能源結構轉型，逐步提高可再生能源利用比例，不斷降低碳排放強度。
-
----
-
-### 2026-08-15 21:27:06  #國際
-
-【伊朗戰事延宕 美航母部署時長恐將再刷紀錄】美國總統特朗普證實在中東地區長時間部署的“林肯”號核動力航空母艦將被替換後，美國有線電視新聞網15日報道，接替“林肯”號的將是“喬治·華盛頓”號航母，而“林肯”號可能在返回其位於加利福尼亞州的母港途中打破“福特”號航母今年創下的越南戰爭後美航母連續海上部署最長紀錄。此前，參與伊朗戰事的“福特”號航母於今年5月16日返回其位於美國弗吉尼亞州的母港諾福克海軍基地，創下越戰後美國航母連續海上部署最長時間紀錄，連續執行任務326天。（新華社）
-
----
-
-### 2026-08-15 21:20:12  #國際
-
-伊朗總統佩澤希齊揚向印度總理莫迪祝賀印度第80個獨立日，並補充說，伊朗決心加強與印度的全面關係。
-
----
-
-### 2026-08-15 21:19:50  #國際
-
-【印尼地震死亡人數上升至47人】根據印尼國家抗災署公佈的最新資料，截至印尼雅加達時間今天18時48分（北京時間19時48分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至47人。（CCTV國際時訊）
-
----
-
-### 2026-08-15 21:19:01  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-【Iran, Oman appear to agree shipping routes through Strait of Hormuz】Foreign reports say Iran and Oman appear to have agreed on shipping routes through the Strait of Hormuz as part of talks on managing the chokepoint. Iran foreign ministry spokesman Baghaei said a finalized "shipping map" would form part of a broader arrangement and an independent bilateral pact to protect sovereignty and ensure safe passage. State media gave no details on transit fees or security measures and said further negotiations are planned. The move follows recent attacks in the strait; the United States was not involved and is unlikely to accept any deal that does not restore free navigation.
 
 ---

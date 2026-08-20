@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:38:12_
-_本檔包含 3230 則快訊，約 640650 字_
+_更新時間：2026-08-21 05:57:35_
+_本檔包含 3213 則快訊，約 639976 字_
+
+---
+
+### 2026-08-20 06:00:32  #國際
+
+【美媒：美軍開展秘密行動在霍爾木茲海峽打通運油航道】據美國阿克西奧斯新聞網站19日報道，美軍已悄悄建立一條進出霍爾木茲海峽的航運通道，確保每天有“數百萬桶”石油運出霍爾木茲海峽。報道援引兩名美國官員的話稱，這項行動已持續數週。過去兩週，每天有15到20艘油輪經由阿曼沿海一條南部航道進出該海峽。美官員稱，石油日均運輸量持續增長，目前已接近1000萬桶，某些夜晚從海灣運出的石油總量甚至達到1500萬至2000萬桶。美官員稱，雖然經由霍爾木茲海峽運出的石油量仍低於戰前水平，但它已對全球供應產生了明顯影響。（新華社）
+
+---
+
+### 2026-08-20 06:00:03  #市場
+
+紐約期銀日內漲2%，現報67.91美元/盎司。
+
+---
+
+### 2026-08-20 05:59:54  #國際
+
+【烏空軍稱俄軍對基輔發動大規模彈道導彈襲擊】烏克蘭空軍20日凌晨在社交媒體發文稱，俄軍對烏克蘭發動新一輪彈道導彈襲擊，俄軍的彈道導彈正在向烏首都基輔市方向移動。當天零時許，烏空軍發文提醒稱，多枚彈道導彈正在從切爾尼戈夫州和波爾塔瓦州向基輔市方向飛來。之後，新華社記者聽到基輔市響起多次強烈爆炸聲，隨後記者所在的第聶伯區電力供應出現短時間中斷。此前，記者已聽到基輔市響起兩輪強烈的持續爆炸聲。截至發稿時，基輔市空襲預警尚未解除。
+
+---
+
+### 2026-08-20 05:59:45  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【Trump says US has harsh sanctions options against Iran】On Aug. 19 at the White House, President Trump said the US has "a lot" of areas it can sanction and that it holds "very severe" measures, adding "we'll see." He also said the US "owns" and "fully controls" the Strait of Hormuz and that Iran's occasional drone launches "do cause trouble." Earlier Aug. 19 he said talks with Iran might resume "at some point" only if Iran fully abandons nuclear weapons; on Aug. 18 he said there were no talks or dialogue, contradicting his prior claim that negotiations were underway — a position Tehran has repeatedly denied.
+
+---
+
+### 2026-08-20 05:58:49  #公司 #市場
+
+澳大利亞黃金礦業公司Northern Star預計2027財年黃金產量為150萬至165萬盎司。
+
+---
+
+### 2026-08-20 05:58:13  #國際
+
+特朗普稱將出席 9 月 9‑10 日的共和黨中期代表大會。
+
+---
+
+### 2026-08-20 05:57:40  #國際
+
+【特朗普稱掌握可嚴厲制裁伊朗措施】當地時間8月19日下午，美國總統特朗普在白宮回答媒體有關將如何制裁伊朗的提問時稱，“我們有很多可以制裁的領域，我們手裡有非常嚴厲的制裁手段，我們拭目以待。”當天早些時候特朗普還曾對媒體表示，可能在“某個時候”恢復與伊朗的談判，但伊朗必須徹底放棄核武器。 特朗普還再次聲稱美國“擁有”並“完全控制”霍爾木茲海峽，並稱伊朗“偶爾發射無人機確實會帶來麻煩”。 特朗普8月18日在社交媒體上稱，目前沒有和伊朗進行任何會談或對話。此前，他一直堅稱美國同伊朗正在進行談判，但遭到伊朗方面多次否認。（CCTV國際時訊）
+
+---
+
+### 2026-08-20 05:57:13  #MKT News
+
+Colombian president says earthquake death toll has reached 314; 262 people remain missing.
+
+---
+
+### 2026-08-20 05:56:27  #MKT News
+
+【Analysis: Rising U.S. debt becomes focus of midterm elections】Michael Peterson, CEO of the Peter G. Peterson Foundation, said rising U.S. debt has become a midterm-election focal point and framed the issue as a cost-of-living problem. He warned higher debt raises interest costs — interest outlays now exceed defense spending — and said each $1 trillion of additional debt pushes up interest rates and inflation, increasing mortgage, auto and credit-card payments. He added rising debt undermines economic growth and slows wage growth while living costs rise.
 
 ---
 
@@ -19309,161 +19363,5 @@ FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Ze
 ### 2026-08-19 06:14:56  #其他
 
 【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
-
----
-
-### 2026-08-19 06:14:24  #宏觀
-
-英國首相伯納姆表示，作為權力移交的一部分，北部唐寧街10號將從財政部手中接管經濟增長相關權責。
-
----
-
-### 2026-08-19 06:07:09  #國際
-
-以色列再次轟炸黎巴嫩南部地區。
-
----
-
-### 2026-08-19 06:03:15  #市場
-
-現貨白銀日內跌1%，現報62.17美元/盎司。
-
----
-
-### 2026-08-19 06:03:08  #其他
-
-中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。
-
----
-
-### 2026-08-19 06:02:01  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
-
----
-
-### 2026-08-19 06:01:56  #市場
-
-紐約期銀日內跌1%，現報63.39美元/盎司。
-
----
-
-### 2026-08-19 06:00:45  #市場 #焦點
-
-現貨白銀突破63美元/盎司，日內跌0.51%。
-
----
-
-### 2026-08-19 06:00:08  #公司 #國際
-
-美國地面運輸委員會：決定啟動評估聯合太平洋鐵路公司與諾福克南方鐵路公司擬議合併交易價值的程式。
-
----
-
-### 2026-08-19 05:58:28  #公司 #焦點 #國際
-
-美國地面運輸委員會：採納聯合太平洋鐵路公司與諾福克南方鐵路公司合併審議程式時間表，將該合併程式移出擱置狀態。
-
----
-
-### 2026-08-19 05:48:18  #其他
-
-中國地震臺網正式測定：08月19日05時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。
-
----
-
-### 2026-08-19 05:48:12  #國際
-
-美國商務部長盧特尼克：美國商務部人口普查局剛剛釋出的分析報告顯示，2020年大選中有超過24000名非公民非法投票。這批人不只是完成選民登記，而是確確實實進行了非法投票。而這僅僅是開始。未來數週內，還有超過3200萬條選民記錄將接受分析，這些記錄很可能還會查出數萬名額外的非法投票者。
-
----
-
-### 2026-08-19 05:41:36  #國際
-
-伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。
-
----
-
-### 2026-08-19 05:40:20  #其他 #焦點
-
-中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-19 05:33:23  #公司
-
-【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”
-
----
-
-### 2026-08-19 05:33:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'.
-
----
-
-### 2026-08-19 05:31:52  #MKT News #GOOG.O
-
-According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers.
-
----
-
-### 2026-08-19 05:30:46  #其他
-
-穆迪確認英偉達Aa1評級，展望維持正面。
-
----
-
-### 2026-08-19 05:29:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook.
-
----
-
-### 2026-08-19 05:25:54  #公司
-
-宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。
-
----
-
-### 2026-08-19 05:25:50  #MKT News
-
-Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations.
-
----
-
-### 2026-08-19 05:25:11  #國際
-
-加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。
-
----
-
-### 2026-08-19 05:19:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil.
-
----
-
-### 2026-08-19 05:15:28  #市場
-
-富時A50期指連續夜盤收跌0.32%，報15045點。
-
----
-
-### 2026-08-19 05:13:32  #國際
-
-特朗普將於8月27日在休斯頓主持共和黨全國委員會籌款晚宴。
-
----
-
-### 2026-08-19 05:13:23  #國際
-
-特朗普將出席共和黨全國委員會為肯·帕克斯頓舉辦的籌款活動。
-
----
-
-### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
-
-【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
 
 ---

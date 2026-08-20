@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:38:12_
-_本檔包含 3339 則快訊，約 640657 字_
+_更新時間：2026-08-21 05:57:35_
+_本檔包含 3334 則快訊，約 640264 字_
+
+---
+
+### 2026-08-21 05:55:56  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+【Fed foreign reverse repo balance rises to highest since Oct 2022】Usage of the Federal Reserve's reverse repo (RRP) facility by foreign central banks and other monetary authorities has climbed for a second consecutive week, signalling overseas official entities are boosting dollar cash reserves. As of Aug 19, foreign holders parked $373bn in the Fed's RRP pool, up from $357bn a week earlier; the facility has gained about $56bn since Aug 5, the largest two-week increase since Oct 2022. Market participants are watching RRP flows for signs that Japan, after last month's yen-supporting FX intervention, may be re-accumulating dollar liquidity.
+
+---
+
+### 2026-08-21 05:53:21  #公司 #國際
+
+【美國得州石油大亨浮出水面，成古巴鎳礦商神秘競標者】阿爾伯特·赫德爾斯頓（Albert Huddleston）是嘉能可（Glencore Plc.）及其他方收購加拿大謝里特國際公司（Sherritt International Corp.）控股權提案中的錨定投資者。該財團的提案將為謝里特提供新資金，以換取公司完全稀釋後至少55%的股份。謝里特目前正與吉倫資本（Gillon Capital LLC）進行獨家談判，但以嘉能可為首的財團——其中包括謝里特最大的債權人之一——正在法庭上對謝里特發起挑戰，並要求進行股東投票。
+
+---
+
+### 2026-08-21 05:45:21  #MKT News
+
+【Citigroup may join core underwriting group for Anthropic IPO】Citigroup may join the lead underwriting team for AI firm Anthropic’s IPO alongside Morgan Stanley, Goldman and JP Morgan. Anthropic could file with regulators as early as the end of this month. Core bookrunner status would generate significant fees and improve a bank’s equity capital markets ranking; Citigroup is already high in U.S. IPO league tables after participating in SpaceX’s record $86.2 bln deal. IPO preparations are ongoing and the final syndicate could change, with additional banks possible.
+
+---
+
+### 2026-08-21 05:40:03  #央行 #國際
+
+【美聯儲外國逆回購資金池使用量升至10月以來最高】外國央行及其他貨幣當局使用的一項關鍵美聯儲流動性工具的餘額連續第二週上升，表明各國官員仍在繼續增加現金儲備。截至8月19日的資料顯示，這些貨幣官員在美聯儲的逆回購協議（RRP）資金池中存放了3730億美元，高於一週前的3570億美元。自8月5日以來，使用量增加了約560億美元，為2022年10月以來最大的兩週增幅。市場參與者正密切關注外國逆回購資金池的使用情況，以尋找日本在上月干預以捍衛日元后正在重建現金儲備的跡象。
 
 ---
 
@@ -20111,59 +20135,5 @@ FX Updates: Swiss Franc Rises by 1.88% — Top currency gainers are Swiss Franc 
 ### 2026-08-20 06:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 【Ukrainian air force says Russian forces launch large-scale ballistic missile attack on Kyiv】The Ukrainian Air Force said on social media in the early hours of the 20th that Russian forces launched a new round of ballistic missile strikes targeting Kyiv. Around midnight it warned multiple ballistic missiles were heading toward Kyiv from Chernihiv and Poltava oblasts. Xinhua reporters heard several strong explosions in Kyiv and reported a short power outage in the Dnipro district; earlier they heard two separate rounds of sustained explosions. As of filing, Kyiv's air raid warning remained in effect.
-
----
-
-### 2026-08-20 06:00:32  #國際
-
-【美媒：美軍開展秘密行動在霍爾木茲海峽打通運油航道】據美國阿克西奧斯新聞網站19日報道，美軍已悄悄建立一條進出霍爾木茲海峽的航運通道，確保每天有“數百萬桶”石油運出霍爾木茲海峽。報道援引兩名美國官員的話稱，這項行動已持續數週。過去兩週，每天有15到20艘油輪經由阿曼沿海一條南部航道進出該海峽。美官員稱，石油日均運輸量持續增長，目前已接近1000萬桶，某些夜晚從海灣運出的石油總量甚至達到1500萬至2000萬桶。美官員稱，雖然經由霍爾木茲海峽運出的石油量仍低於戰前水平，但它已對全球供應產生了明顯影響。（新華社）
-
----
-
-### 2026-08-20 06:00:03  #市場
-
-紐約期銀日內漲2%，現報67.91美元/盎司。
-
----
-
-### 2026-08-20 05:59:54  #國際
-
-【烏空軍稱俄軍對基輔發動大規模彈道導彈襲擊】烏克蘭空軍20日凌晨在社交媒體發文稱，俄軍對烏克蘭發動新一輪彈道導彈襲擊，俄軍的彈道導彈正在向烏首都基輔市方向移動。當天零時許，烏空軍發文提醒稱，多枚彈道導彈正在從切爾尼戈夫州和波爾塔瓦州向基輔市方向飛來。之後，新華社記者聽到基輔市響起多次強烈爆炸聲，隨後記者所在的第聶伯區電力供應出現短時間中斷。此前，記者已聽到基輔市響起兩輪強烈的持續爆炸聲。截至發稿時，基輔市空襲預警尚未解除。
-
----
-
-### 2026-08-20 05:59:45  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Trump says US has harsh sanctions options against Iran】On Aug. 19 at the White House, President Trump said the US has "a lot" of areas it can sanction and that it holds "very severe" measures, adding "we'll see." He also said the US "owns" and "fully controls" the Strait of Hormuz and that Iran's occasional drone launches "do cause trouble." Earlier Aug. 19 he said talks with Iran might resume "at some point" only if Iran fully abandons nuclear weapons; on Aug. 18 he said there were no talks or dialogue, contradicting his prior claim that negotiations were underway — a position Tehran has repeatedly denied.
-
----
-
-### 2026-08-20 05:58:49  #公司 #市場
-
-澳大利亞黃金礦業公司Northern Star預計2027財年黃金產量為150萬至165萬盎司。
-
----
-
-### 2026-08-20 05:58:13  #國際
-
-特朗普稱將出席 9 月 9‑10 日的共和黨中期代表大會。
-
----
-
-### 2026-08-20 05:57:40  #國際
-
-【特朗普稱掌握可嚴厲制裁伊朗措施】當地時間8月19日下午，美國總統特朗普在白宮回答媒體有關將如何制裁伊朗的提問時稱，“我們有很多可以制裁的領域，我們手裡有非常嚴厲的制裁手段，我們拭目以待。”當天早些時候特朗普還曾對媒體表示，可能在“某個時候”恢復與伊朗的談判，但伊朗必須徹底放棄核武器。 特朗普還再次聲稱美國“擁有”並“完全控制”霍爾木茲海峽，並稱伊朗“偶爾發射無人機確實會帶來麻煩”。 特朗普8月18日在社交媒體上稱，目前沒有和伊朗進行任何會談或對話。此前，他一直堅稱美國同伊朗正在進行談判，但遭到伊朗方面多次否認。（CCTV國際時訊）
-
----
-
-### 2026-08-20 05:57:13  #MKT News
-
-Colombian president says earthquake death toll has reached 314; 262 people remain missing.
-
----
-
-### 2026-08-20 05:56:27  #MKT News
-
-【Analysis: Rising U.S. debt becomes focus of midterm elections】Michael Peterson, CEO of the Peter G. Peterson Foundation, said rising U.S. debt has become a midterm-election focal point and framed the issue as a cost-of-living problem. He warned higher debt raises interest costs — interest outlays now exceed defense spending — and said each $1 trillion of additional debt pushes up interest rates and inflation, increasing mortgage, auto and credit-card payments. He added rising debt undermines economic growth and slows wage growth while living costs rise.
 
 ---
