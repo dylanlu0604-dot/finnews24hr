@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-20 16:34:43",
-  "count": 15674,
+  "updated": "2026-08-20 16:38:43",
+  "count": 15676,
   "items": [
+    {
+      "id": "te:economy:576815",
+      "time": "2026-08-20 16:37:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Taiwan Current Account Surplus Widens in Q2 — Taiwan’s current account surplus widened to USD 58.49 billion in the second quarter of 2026 from USD 37.20 billion in the corresponding period of the previous year. The increase was primarily driven by a larger goods trade surplus, which rose to USD 52.76 billion from USD 37.26 billion, as exports expanded amid sustained demand for emerging technology applications. The primary income surplus also widened to USD 9.71 billion from USD 6.37 billion, reflecting higher investment income from residents' overseas investments. Meanwhile, the services deficit narrowed to USD 2.53 billion from USD 4.43 billion, due to lower construction-related expenditures and higher receipts from computer and information services. The secondary income deficit also narrowed to USD 1.44 billion from USD 2.00 billion, mainly due to higher receipts from gifts and samples."
+    },
+    {
+      "id": "5049484",
+      "time": "2026-08-20 16:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特：上半年The Monsters（怪物樂園）IP收入佔總營收比重為26.0%，去年同期為34.7%。"
+    },
+    {
+      "id": "5049483",
+      "time": "2026-08-20 16:37:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST廣糖：副總經理陸興愈去世】*ST廣糖8月20日公告，公司接到副總經理陸興愈家屬通知，陸興愈於2026年8月19日突發心梗，經醫院搶救無效不幸去世。"
+    },
+    {
+      "id": "5049482",
+      "time": "2026-08-20 16:36:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【萬科A：2026年至今到期的公開債已全部完成展期】萬科A8月20日在互動平臺表示，2026年至今到期的公開債已全部完成展期，並且已完成首筆分期兌付，目前公開債均沒有逾期，相關展期事項已在深交所和銀行間市場交易商協會網站公告。公司將繼續秉持公平對待投資人的原則推進後續工作，並與債權人保持密切溝通協商，以維護各方的長遠利益。"
+    },
+    {
+      "id": "mkt:01a01e50-eeb4-7aab-90ae-8fb27d1d17d7",
+      "time": "2026-08-20 16:36:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "09899.HK",
+        "Impact mixed"
+      ],
+      "text": "NetEase Cloud Music (09899.HK) said 1H revenue rose 3.4% YoY to 3.959 billion yuan; adjusted net profit fell 55.8% YoY to 860 million yuan."
+    },
+    {
+      "id": "5049481",
+      "time": "2026-08-20 16:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "網易雲音樂：上半年營收人民幣39.59億元，同比增長3.4%；經調整淨利潤8.6億元，同比減少55.8%。"
+    },
+    {
+      "id": "5049480",
+      "time": "2026-08-20 16:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東省菏澤市副市長、鄆城縣委書記楊新勝接受審查調查】中央紀委國家監委網站8月20日通報，據山東省紀委監委訊息：山東省菏澤市政府黨組成員、副市長，鄆城縣委書記楊新勝涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5049479",
+      "time": "2026-08-20 16:36:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至 8 月 19 日當週，新加坡成品油庫存減少 76.8 萬桶，降至 3770 萬桶。"
+    },
+    {
+      "id": "mkt:01a01e4f-f14c-7aab-90ae-8054d119bd1d",
+      "time": "2026-08-20 16:35:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry will hold a market assessment meeting at 08:00 local time on Friday."
+    },
+    {
+      "id": "5049478",
+      "time": "2026-08-20 16:35:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：與相關報道相反，政治領導層並未批准國際部隊進入加沙地帶。以色列明確表示，在哈馬斯徹底解除武裝之前，加沙地帶不會開展重建工作。"
+    },
+    {
+      "id": "5049477",
+      "time": "2026-08-20 16:34:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部將於週五上午8點舉行市場審查會議。"
+    },
+    {
+      "id": "mkt:01a01e4e-9390-7aab-90ae-797032d51370",
+      "time": "2026-08-20 16:34:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "EQUINOR has agreed to sell crude oil to Poland’s Orlen, covering deliveries to Orlen refineries in Poland, Lithuania and the Czech Republic. The three-year agreement begins in early September and raises annual supply to over 9 mln tonnes from 5 mln tonnes."
+    },
     {
       "id": "mkt:01a01e4d-f6c4-7aab-90ae-71ed47ed62ec",
       "time": "2026-08-20 16:33:40",
@@ -143516,92 +143628,6 @@
         "市場"
       ],
       "text": "【ST興化：持股5%以上股東增持計劃時間過半 已增持4184.73萬元】ST興化公告稱，持股5%以上股東興化集團自2026年5月12日起6個月內，擬增持不低於4000萬元、不超過7000萬元公司股份。截至8月12日，增持計劃實施期限過半，興化集團以集中競價方式累計增持1401.37萬股，增持金額4184.73萬元。截至當日收盤，興化集團持股2.36億股，持股比例18.53%。本次增持計劃尚未實施完畢，可能因市場變化無法達預期，公司將及時披露。"
-    },
-    {
-      "id": "5038979",
-      "time": "2026-08-13 16:38:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "中芯國際：預計第三季度營收環比增長2%-4%，毛利率介於26%-28%。"
-    },
-    {
-      "id": "mkt:019ffa45-d4d3-7aab-901f-669bf0d475ff",
-      "time": "2026-08-13 16:38:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00981.HK",
-        "Impact bullish"
-      ],
-      "text": "Semiconductor Manufacturing International Corp (00981.HK) reported Q2 2026 revenue of $3.006 bln, up 36.1% YoY from $2.209 bln a year earlier."
-    },
-    {
-      "id": "5038978",
-      "time": "2026-08-13 16:38:12",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【中芯國際：第二季度銷售收入30.06億美元，同比增長36.1%】中芯國際公告，2026年第二季度銷售收入30.06億美元，環比增長20.0%，同比增長36.1%。毛利7.61億美元，毛利率25.3%，環比上升5.2個百分點。本期利潤7.33億美元，同比增長399.9%。公司預計2026年第三季度收入環比增長2%至4%，毛利率介於26%至28%之間。"
-    },
-    {
-      "id": "5038977",
-      "time": "2026-08-13 16:38:05",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中芯國際：第二季度淨利潤4.792億美元，預估2.567億美元。"
-    },
-    {
-      "id": "5038976",
-      "time": "2026-08-13 16:37:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國核電總裝機規模居世界第一 中國核電交出亮眼綠色答卷】今年，我國加大核電專案建設力度，57臺機組核准在建，在運和核準在建總裝機達1.35億千瓦。核電工程建設規模穩居世界第一。作為推動經濟社會綠色轉型的重要能源，我國核電以在全國電力裝機中不到2%的佔比，貢獻了近5%的發電量。廣東、福建、遼寧、海南等4個省份的核電發電量佔比均超過15%。核電已成為東部沿海地區重要的清潔能源供給來源。7月底，我國又新核准8臺核電機組，這也是“十五五”時期首批核准的核電專案。“十五五”期間，我國核電建設繼續保持“積極安全有序發展”的原則，穩步推進東部沿海核電帶建設，因地制宜推進核能綜合利用，穩步提升核電在能源電力消費中的比重。（央視財經）"
-    },
-    {
-      "id": "5038974",
-      "time": "2026-08-13 16:36:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【北特科技：股票交易異常波動 不存在應披露未披露重大資訊】北特科技公告稱，8月11日至8月13日，公司股票連續三個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。經自查及向控股股東、實控人核實，截至目前，不存在應披露而未披露的重大資訊，公司生產經營正常，未發現需澄清的媒體報道或市場傳聞。此外，公司提醒投資者注意交易、商譽減值等風險。"
-    },
-    {
-      "id": "5038973",
-      "time": "2026-08-13 16:35:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昇輝科技：新增熱管理、智慧換電兩大業務板塊】據昇輝科技訊息，近日，公司持續深化產業佈局、拓寬業務版圖，在原有成熟業務基礎上，全新增設熱管理與智慧換電兩大業務板塊。公司原有核心業務涵蓋智慧電氣成套裝置、綜合安全系統（自響應防滅火貼片、智慧滅火系統）、新能源等板塊。"
-    },
-    {
-      "id": "5038972",
-      "time": "2026-08-13 16:35:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百邦科技：定增申請獲深交所受理】百邦科技公告，公司近日收到深交所出具的《關於受理北京百華悅邦科技股份有限公司向特定物件發行股票申請檔案的通知》，深交所認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊後方可實施。"
-    },
-    {
-      "id": "5038971",
-      "time": "2026-08-13 16:35:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西藏藥業：2026年半年度淨利潤6.08億元同比增7.16%】西藏藥業公告，2026年半年度營業收入15.54億元，同比下降5.83%；歸屬於上市公司股東的淨利潤6.08億元，同比增長7.16%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.4億元，同比下降19.00%。公司擬以總股本扣除回購專戶股份為基數，向全體股東每股派發現金紅利1.15元（含稅）。"
-    },
-    {
-      "id": "5038970",
-      "time": "2026-08-13 16:34:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊茵集團執行長：北萊茵-威斯特法倫州的退出煤炭發電已有明確法律期限，我們尚未收到政府的最新通知。"
     }
   ]
 }

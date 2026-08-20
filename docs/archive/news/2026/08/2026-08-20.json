@@ -1,7 +1,119 @@
 {
   "date": "2026-08-20",
-  "count": 1704,
+  "count": 1716,
   "items": [
+    {
+      "id": "te:economy:576815",
+      "time": "2026-08-20 16:37:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Taiwan Current Account Surplus Widens in Q2 — Taiwan’s current account surplus widened to USD 58.49 billion in the second quarter of 2026 from USD 37.20 billion in the corresponding period of the previous year. The increase was primarily driven by a larger goods trade surplus, which rose to USD 52.76 billion from USD 37.26 billion, as exports expanded amid sustained demand for emerging technology applications. The primary income surplus also widened to USD 9.71 billion from USD 6.37 billion, reflecting higher investment income from residents' overseas investments. Meanwhile, the services deficit narrowed to USD 2.53 billion from USD 4.43 billion, due to lower construction-related expenditures and higher receipts from computer and information services. The secondary income deficit also narrowed to USD 1.44 billion from USD 2.00 billion, mainly due to higher receipts from gifts and samples."
+    },
+    {
+      "id": "5049484",
+      "time": "2026-08-20 16:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特：上半年The Monsters（怪物樂園）IP收入佔總營收比重為26.0%，去年同期為34.7%。"
+    },
+    {
+      "id": "5049483",
+      "time": "2026-08-20 16:37:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST廣糖：副總經理陸興愈去世】*ST廣糖8月20日公告，公司接到副總經理陸興愈家屬通知，陸興愈於2026年8月19日突發心梗，經醫院搶救無效不幸去世。"
+    },
+    {
+      "id": "5049482",
+      "time": "2026-08-20 16:36:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【萬科A：2026年至今到期的公開債已全部完成展期】萬科A8月20日在互動平臺表示，2026年至今到期的公開債已全部完成展期，並且已完成首筆分期兌付，目前公開債均沒有逾期，相關展期事項已在深交所和銀行間市場交易商協會網站公告。公司將繼續秉持公平對待投資人的原則推進後續工作，並與債權人保持密切溝通協商，以維護各方的長遠利益。"
+    },
+    {
+      "id": "mkt:01a01e50-eeb4-7aab-90ae-8fb27d1d17d7",
+      "time": "2026-08-20 16:36:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "09899.HK",
+        "Impact mixed"
+      ],
+      "text": "NetEase Cloud Music (09899.HK) said 1H revenue rose 3.4% YoY to 3.959 billion yuan; adjusted net profit fell 55.8% YoY to 860 million yuan."
+    },
+    {
+      "id": "5049481",
+      "time": "2026-08-20 16:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "網易雲音樂：上半年營收人民幣39.59億元，同比增長3.4%；經調整淨利潤8.6億元，同比減少55.8%。"
+    },
+    {
+      "id": "5049480",
+      "time": "2026-08-20 16:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東省菏澤市副市長、鄆城縣委書記楊新勝接受審查調查】中央紀委國家監委網站8月20日通報，據山東省紀委監委訊息：山東省菏澤市政府黨組成員、副市長，鄆城縣委書記楊新勝涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5049479",
+      "time": "2026-08-20 16:36:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至 8 月 19 日當週，新加坡成品油庫存減少 76.8 萬桶，降至 3770 萬桶。"
+    },
+    {
+      "id": "mkt:01a01e4f-f14c-7aab-90ae-8054d119bd1d",
+      "time": "2026-08-20 16:35:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry will hold a market assessment meeting at 08:00 local time on Friday."
+    },
+    {
+      "id": "5049478",
+      "time": "2026-08-20 16:35:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：與相關報道相反，政治領導層並未批准國際部隊進入加沙地帶。以色列明確表示，在哈馬斯徹底解除武裝之前，加沙地帶不會開展重建工作。"
+    },
+    {
+      "id": "5049477",
+      "time": "2026-08-20 16:34:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部將於週五上午8點舉行市場審查會議。"
+    },
+    {
+      "id": "mkt:01a01e4e-9390-7aab-90ae-797032d51370",
+      "time": "2026-08-20 16:34:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "EQUINOR has agreed to sell crude oil to Poland’s Orlen, covering deliveries to Orlen refineries in Poland, Lithuania and the Czech Republic. The three-year agreement begins in early September and raises annual supply to over 9 mln tonnes from 5 mln tonnes."
+    },
     {
       "id": "mkt:01a01e4d-f6c4-7aab-90ae-71ed47ed62ec",
       "time": "2026-08-20 16:33:40",
