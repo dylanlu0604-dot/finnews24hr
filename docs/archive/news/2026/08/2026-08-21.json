@@ -1,7 +1,97 @@
 {
   "date": "2026-08-21",
-  "count": 462,
+  "count": 470,
   "items": [
+    {
+      "id": "mkt:01a0216d-55e8-7aab-90c2-d94d5606396f",
+      "time": "2026-08-21 07:06:48",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "【UK consumer confidence rises to two-year high】GfK's UK consumer confidence index rose to -14 in August, its highest since Aug 2024, aided by continued good weather and a new prime minister's \"Burnham effect.\" The index had climbed 6 pts in July under the same influences. GfK head of consumer insights Neil Bellamy warned the uptick may be short-lived as resurgent inf and persistent Middle East and other geopolitical risks will test household resilience."
+    },
+    {
+      "id": "te:economy:576974",
+      "time": "2026-08-21 07:06:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Australia Services Growth Eases — The S&P Global Flash Australia Services PMI Business Activity Index declined to 52.9 in August 2026 from July’s six-month high of a final 53.6. The latest reading marked a third consecutive month of growth, as activity and new business continued to grow, though at slightly softer rates."
+    },
+    {
+      "id": "em:jjsj_ygsj:202608213848281867",
+      "time": "2026-08-21 07:04:44",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國8月Gfk消費者信心指數為-14，為2024年8月以來最高水平。"
+    },
+    {
+      "id": "te:economy:576973",
+      "time": "2026-08-21 07:04:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Composite PMI Slips from 6-Month High — Australia’s S&P Global Composite PMI fell to 52.5 in August 2026 from a final 53.2 in July, flash data showed. Still, private sector activity rose for the fourth time in five months, with the expansion concentrating in the service sector amid a slight dip in manufacturing output"
+    },
+    {
+      "id": "te:economy:576972",
+      "time": "2026-08-21 07:02:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Jump 28.4% — Imports to New Zealand surged 28.4% year-on-year to NZD 9.34 billion in July 2026, following a downwardly revised 27.5% jump in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 127.0%)."
+    },
+    {
+      "id": "mkt:01a02168-940f-7aab-90c2-d4c425736842",
+      "time": "2026-08-21 07:01:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK GfK consumer confidence major purchases index rose to its highest level since December 2021."
+    },
+    {
+      "id": "mkt:01a02168-848f-7aab-90c2-cd397c3d4e87",
+      "time": "2026-08-21 07:01:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK GfK consumer confidence index for August was -14, the highest level since August 2024."
+    },
+    {
+      "id": "5050848",
+      "time": "2026-08-21 07:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國 GFK 消費者信心大額採購指數升至 2021 年 12 月以來最高水平。"
+    },
     {
       "id": "5050847",
       "time": "2026-08-21 07:01:08",
