@@ -1,7 +1,116 @@
 {
   "date": "2026-08-21",
-  "count": 6,
+  "count": 18,
   "items": [
+    {
+      "id": "te:markets:576928",
+      "time": "2026-08-21 00:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.12% Higher — The FTSE 100 Index went up by 13 points or 0.12 percent on Thursday to close at 10756 points. The rise was led by Weir (3.79%), Fresnillo (3.74%) and Endeavour (2.59%). On the downside, the weakerst performers were JD Sports Fashion (-14.17%), Investec (-4.21%) and Legal & General (-3.83%)."
+    },
+    {
+      "id": "mkt:01a01fec-68fc-7aab-90bd-b01f0e5be3b6",
+      "time": "2026-08-21 00:06:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Central African Republic has closed an informal gold mine after a collapse killed at least 49 people."
+    },
+    {
+      "id": "5050591",
+      "time": "2026-08-21 00:05:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國農業部：美國密西西比河糧食運輸量下降，駁船運費下跌。"
+    },
+    {
+      "id": "5050590",
+      "time": "2026-08-21 00:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "MONTEA 上半年淨租金收入 7460 萬歐元，同比增長 9.9% 。"
+    },
+    {
+      "id": "mkt:01a01feb-2bf9-7aab-90bd-a8e03204babc",
+      "time": "2026-08-21 00:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Common App report: international applicants to U.S. colleges declined by nearly 16,000."
+    },
+    {
+      "id": "mkt:01a01fea-b468-7aab-90bd-a7d0d14a0ffc",
+      "time": "2026-08-21 00:04:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Common App's U.S. college application trends report shows applications from international students to U.S. colleges fell 10% year-on-year."
+    },
+    {
+      "id": "te:economy:576927",
+      "time": "2026-08-21 00:04:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Falls to 6.65% — US 30-year fixed mortgage rates declined to 6.65% as of August 20, 2026, down from 6.67% the previous week. Freddie Mac Chief Economist Sam Khater said the decline provided modest relief for homebuyers, while noting that borrowers can potentially save thousands by shopping around for the best mortgage rate. A year earlier, the 30-year fixed-rate mortgage averaged 6.58%. Meanwhile, the 15-year fixed-rate mortgage averaged 5.95%, down from 5.96% the previous week."
+    },
+    {
+      "id": "mkt:01a01fea-45de-7aab-90bd-9d790096ee7c",
+      "time": "2026-08-21 00:04:01",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Walmart Inc (WMT.N) fell to an intraday low, down nearly 10%."
+    },
+    {
+      "id": "5050589",
+      "time": "2026-08-21 00:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADVANCE AUTO的股價跌幅創下2023年以來最大單日跌幅。"
+    },
+    {
+      "id": "5050588",
+      "time": "2026-08-21 00:03:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADVANCE AUTO業績大幅不及預期，股價跌幅擴大至25%。"
+    },
+    {
+      "id": "mkt:01a01fe9-c14d-7aab-90bd-9746e9178c93",
+      "time": "2026-08-21 00:03:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "According to the French General Inspectorate of Finance, if France fails to adopt a budget before the election it faces a risk of its deficit spiraling out of control."
+    },
+    {
+      "id": "5050587",
+      "time": "2026-08-21 00:02:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "今年申請美國大學的國際生人數下降10%。"
+    },
     {
       "id": "mkt:01a01fe7-fdfc-7aab-90bd-89b3ef8dd0e2",
       "time": "2026-08-21 00:01:32",
