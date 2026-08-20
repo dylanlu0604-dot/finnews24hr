@@ -1,7 +1,167 @@
 {
   "date": "2026-08-21",
-  "count": 46,
+  "count": 64,
   "items": [
+    {
+      "id": "mkt:01a02004-57af-7aab-90be-189c0e904070",
+      "time": "2026-08-21 00:32:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN: Two UN national staff detained by Afghan authorities were released on Thursday, are in good health, and charges against them have been withdrawn."
+    },
+    {
+      "id": "5050618",
+      "time": "2026-08-21 00:32:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球疫苗免疫聯盟（GAVI）：將提供700萬美元，資助向剛果民主共和國（DRC）運送7萬劑埃爾維博（ERVEBO）埃博拉疫苗。"
+    },
+    {
+      "id": "5050617",
+      "time": "2026-08-21 00:32:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球疫苗免疫聯盟（GAVI）：首輪應急響應基金撥付的600萬美元，將用於協助各國及合作伙伴保障常規免疫接種工作，併為未來的埃博拉疫苗接種工作做好準備。"
+    },
+    {
+      "id": "5050616",
+      "time": "2026-08-21 00:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "冰島航空集團：冰島航空已簽署協議，收購一家持有馬耳他航空運營許可證公司49%的股權。"
+    },
+    {
+      "id": "mkt:01a02003-ada3-7aab-90be-106ce0170bd2",
+      "time": "2026-08-21 00:31:46",
+      "tags": [
+        "MKT News",
+        "UAL.O"
+      ],
+      "text": "United Airlines (UAL.O) completed phase-one expansion of the world’s largest pilot training facility. Phase two will begin next year and is expected to be operational in 2030."
+    },
+    {
+      "id": "5050615",
+      "time": "2026-08-21 00:31:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國表示，兩名被阿富汗事實上掌權當局拘留的聯合國本國工作人員已於週四獲釋，身體狀況良好，針對兩人的指控已撤銷。"
+    },
+    {
+      "id": "5050614",
+      "time": "2026-08-21 00:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯航：第二階段擴建工程將於明年動工，2030年投入運營。"
+    },
+    {
+      "id": "5050613",
+      "time": "2026-08-21 00:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列已將其阿帕奇攻擊直升機部署至敘利亞邊境。"
+    },
+    {
+      "id": "5050612",
+      "time": "2026-08-21 00:30:13",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特淡化赤字擔憂，但市場貌似並不買賬】除了強調財政部願意擴大債券回購規模外，財政部長斯科特·貝森特週四還試圖安撫債券市場，他表示對預算赤字的擔憂被誇大了。貝森特表示，目前的赤字上升主要是由關稅退稅推動的，但2026年的關稅收入最終應與2025年持平。他還稱，由於企業投資稅收激勵政策，稅收收入受到了衝擊，但這些激勵措施從長遠來看應該會有回報。貝森特對財政前景的安撫似乎並未對市場產生立竿見影的效果，美國國債收益率在當天交易中仍維持漲幅。"
+    },
+    {
+      "id": "mkt:01a02000-8696-7aab-90be-0dc15b888949",
+      "time": "2026-08-21 00:28:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Yemen government forces say they launched 81 operations against Houthi rebels】Yemen government forces said they conducted 81 \"high-quality\" military operations over the past 24 hours against Houthi fighters as part of retaliatory measures. A military spokesman said the strikes killed multiple Houthi commanders and destroyed equipment and vehicles, and said Houthis continue to attack Mokha port, the Al-Di anchorage in the Bab al-Mandeb Strait and residential areas in Marib."
+    },
+    {
+      "id": "5050611",
+      "time": "2026-08-21 00:26:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球疫苗免疫聯盟：宣佈追加資金以支援本迪布焦病毒病疫情應對。"
+    },
+    {
+      "id": "te:markets:576940",
+      "time": "2026-08-21 00:26:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes at Near 3-Week Low — The DAX 40 finished about 0.4% down at 25,983 on Thursday, the lowest since July 31 and extending losses for the fourth session. Further increases in oil prices due to the Iran war and rising yields in the bond markets weighed on market sentiment. Against the backdrop of deadlocked negotiations with Tehran, US President Trump threatened Iran with an \"economic war\". Retailers Adidas (-2.7%) and Puma (-1.8%) were among the top losers, tracking losses in US retail giant Walmart after its disappointing results and cautious outlook. Other laggards included MTU Aero Engines (-2%), Scout24 (-1.9%), Rheinmetall (-1.7%), Airbus (-1.5%) and Deutsche Telekom (-1.4%). Brenntag fell 1.2% after Bank of America resumed coverage with an Underperform rating and a €55 price target. On the flip side, Qiagen NV outperformed, rising 3.1%, with Symrise (+1.9%) also advancing solidly."
+    },
+    {
+      "id": "mkt:01a01ffe-36a8-7aab-90be-01264b5ffdaa",
+      "time": "2026-08-21 00:25:48",
+      "tags": [
+        "MKT News",
+        "DIS.N"
+      ],
+      "text": "According to court filings, the U.S. Department of Justice (DOJ) urged a judge not to schedule an emergency hearing in Disney (DIS.N)'s authorization-renewal lawsuit."
+    },
+    {
+      "id": "5050610",
+      "time": "2026-08-21 00:25:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部在一份提交法庭的檔案中敦促法官不要就迪士尼針對牌照續期程式提起的訴訟安排緊急聽證會。"
+    },
+    {
+      "id": "mkt:01a01ffd-b734-7aab-90bd-ff133ec5d7a2",
+      "time": "2026-08-21 00:25:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【KYIV business center fire from drone debris kills 1, injures 2 — KYIV MAYOR KLITSCHKO】KYIV MAYOR KLITSCHKO said on the 20th a Kyiv business center caught fire after drone debris fell, killing one person and injuring two."
+    },
+    {
+      "id": "5050609",
+      "time": "2026-08-21 00:24:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏基輔一商務中心因無人機殘骸墜落起火 致1死2傷】烏克蘭基輔市長克利奇科20日表示，當天基輔市一棟商務中心因無人機殘骸墜落起火，造成1人死亡、2人受傷。（央視新聞）"
+    },
+    {
+      "id": "5050608",
+      "time": "2026-08-21 00:23:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國表示，60%的天然氣儲存目標足以應對冬季需求】德國經濟部表示，冬季開始時天然氣儲存水平在 60% 到 70% 之間就足夠了，這意味著歐洲最大的能源消費國德國應對供應中斷的緩衝能力很弱。該部週四在一份宣告中表示，“冬季伊始，庫存水平預計在60%至70%之間，加上額外的進口能力，通常足以滿足冬季平均需求。”宣告還補充說，如果供應安全受到威脅，政府“能夠而且將會採取應對措施”。"
+    },
+    {
+      "id": "mkt:01a01ffc-4bf6-7aab-90bd-f12e35b56b6e",
+      "time": "2026-08-21 00:23:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. Treasury to hold Aug 24 briefing on actions targeting Iran】On Aug 20, U.S. Treasury Secretary Bessent said he will hold a press briefing on Aug 24 to outline U.S. actions targeting Iran. President Trump warned on Aug 19 that any country providing 'any form of lifeline' to Iran would face economic consequences. Bessent said the Treasury has asymmetric information and questioned why oil has become the focus; he added that applying maximum economic pressure would make large-scale military conflict less likely."
+    },
     {
       "id": "5050607",
       "time": "2026-08-21 00:23:00",
