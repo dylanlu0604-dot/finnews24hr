@@ -1,7 +1,15 @@
 {
   "date": "2026-08-21",
-  "count": 366,
+  "count": 367,
   "items": [
+    {
+      "id": "mkt:01a020ef-4809-7aab-90c1-74b1407edb5b",
+      "time": "2026-08-21 04:49:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vucic says Serbia's parliamentary election to be held in late October】On the evening of the 20th (local time) President Vucic told Serbian Radio Television (RTS) that Serbia's parliamentary election will be held on Oct. 18 or Oct. 25; the final date will be confirmed in coming days."
+    },
     {
       "id": "mkt:01a020ed-8ab8-7aab-90c1-6dd8112215ce",
       "time": "2026-08-21 04:47:13",
