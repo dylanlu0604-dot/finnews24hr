@@ -1,7 +1,115 @@
 {
   "date": "2026-08-20",
-  "count": 3075,
+  "count": 3087,
   "items": [
+    {
+      "id": "5050430",
+      "time": "2026-08-20 22:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：太平洋中部形成新的熱帶低氣壓。"
+    },
+    {
+      "id": "5050429",
+      "time": "2026-08-20 22:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《空槍》票房突破8000萬】據燈塔專業版實時資料，截至8月20日22時21分，影片《空槍》票房突破8000萬。"
+    },
+    {
+      "id": "mkt:01a01fa9-aed5-7aab-90ba-4e10a52a8856",
+      "time": "2026-08-20 22:53:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: India loosens rules on rupee-denominated trade and rupee settlement."
+    },
+    {
+      "id": "5050428",
+      "time": "2026-08-20 22:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度放寬盧比貿易開票及結算相關規定。"
+    },
+    {
+      "id": "5050427",
+      "time": "2026-08-20 22:53:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【袁家軍陳新武在重慶通用人工智慧研究院調研並召開座談會】據重慶日報，8月20日下午，重慶市委書記袁家軍，市委副書記、市長陳新武前往南岸區，調研重慶通用人工智慧研究院建設運營情況並召開專題座談會。袁家軍在講話中指出，要突出做實主抓手、主平臺、主載體，強化通用人工智慧架構關鍵核心作用，聚焦智慧網聯新能源汽車、智慧製造、具身智慧、智慧家居、低空智慧等重點領域，積極探索高價值應用場景，加快取得突破性進展。要強化人工智慧與數字重慶雙向賦能，加快打造通用人工智慧公共服務平臺，積極探索智慧體開發及應用新模式，更好推動“1361”各系統體系能力提質拓面。"
+    },
+    {
+      "id": "te:markets:576899",
+      "time": "2026-08-20 22:52:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cocoa Futures at Over 1-Month High — Cocoa futures traded above $5,900 per tonne, holding close to the highest since early July, amid a subdued US dolar and ongoing concerns over the upcoming West African crop. Although the 2025/26 season has seen a substantial recovery in supply amid improved weather, traders are becoming more cautious about the 2026/27 outlook as weather risks increase. A potentially strong El Niño could delay rainfall and extend dry conditions in major producers in West Africa, while hotter and wetter conditions in Ecuador could increase disease risks. Hedgepoint Global Markets now projects the global cocoa surplus to narrow 66% to 111,000 tons in 2026/27, from 325,000 tons this season. Production forecasts for Côte d’Ivoire and Ghana have also been lowered, with Ghana expecting output to fall 13% to 650,000 tons next season, while Côte d’Ivoire’s crop is seen declining by more than 10%."
+    },
+    {
+      "id": "5050426",
+      "time": "2026-08-20 22:52:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破68美元/盎司，日內漲1.54%。"
+    },
+    {
+      "id": "mkt:01a01fa9-1a5b-7aab-90ba-440a059f0d80",
+      "time": "2026-08-20 22:52:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose above $68/oz, gaining 1.49% on the day."
+    },
+    {
+      "id": "5050425",
+      "time": "2026-08-20 22:52:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報16596.00元。"
+    },
+    {
+      "id": "5050424",
+      "time": "2026-08-20 22:52:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財政部：特朗普賬戶資金僅限投向跟蹤指數、重倉美國本土企業的權益類基金，基金投資費率上限為賬戶資產的 0.1%】美國財政部週四公佈新規細則，明確去年稅改法案設立的兒童 “特朗普賬戶” 投資要求。賬戶資金僅限投向跟蹤指數、重倉美國本土企業的權益類基金，基金投資費率上限為賬戶資產的 0.1%。新規禁止 ESG 主題基金入場，將其認定為法規不允許的板塊型基金。託管機構收取的賬戶服務費不受費率上限約束，財政部正徵集公眾意見，評估是否限制或取締該類費用。同時官方徵求方案，探索允許增值股票捐贈轉入賬戶的路徑。"
+    },
+    {
+      "id": "mkt:01a01fa7-d4f7-7aab-90ba-3b4f5df85cec",
+      "time": "2026-08-20 22:51:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russia said it hit two cargo vessels in Chornomorsk, Ukraine."
+    },
+    {
+      "id": "5050423",
+      "time": "2026-08-20 22:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱襲擊了烏克蘭切爾諾莫爾斯克港的兩艘貨船。"
+    },
     {
       "id": "te:markets:576898",
       "time": "2026-08-20 22:50:40",
