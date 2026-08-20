@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-20 08:27:19",
-  "count": 15649,
+  "updated": "2026-08-20 08:31:09",
+  "count": 15642,
   "items": [
+    {
+      "id": "5048760",
+      "time": "2026-08-20 08:29:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【開源證券：資料中心電力裝置迎來增量機遇】開源證券研報表示，2025年10月英偉達釋出800V白皮書1.0，系統論證了高壓直流配電的技術必要性與可行性；白皮書2.0進一步明確，隨著GPU機櫃功率由數百kw向MW級演進，傳統415/480VAC供電在電纜數量、機櫃介面、轉換層級和佔地等方面逐步承壓，且800VDC並非替代現有交流架構而是與其長期共存、按需匯入的新增部署選項。開源證券認為，AI資料中心功率密度升級將同時拉動高壓直流裝置、儲能變流及系統整合、直流保護、液冷散熱與高壓連線部件的技術迭代，具備高壓大功率產品能力、可靠性驗證與頭部客戶匯入優勢的企業有望優先受益。"
+    },
+    {
+      "id": "mkt:01a01c92-1ed5-7aab-90a4-5f02200bcb51",
+      "time": "2026-08-20 08:28:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,510/oz, down 0.29% on the day."
+    },
+    {
+      "id": "mkt:01a01c91-d539-7aab-90a4-502fcab8c8ed",
+      "time": "2026-08-20 08:28:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【CITIC Securities: Visibility on China’s domestic compute orders set to improve; focus on leading supply‑chain names】CITIC Securities says Tencent’s Q2 2026 Capex ran well above expectations and the company will continue to ramp AI infrastructure and procure domestic compute. Into H2 2026, order visibility for China’s domestic compute is expected to strengthen and supply‑chain stocking to accelerate. Firm recommends monitoring leading domestic compute supply‑chain vendors."
+    },
+    {
+      "id": "mkt:01a01c91-c387-7aab-90a4-4f810068e4f2",
+      "time": "2026-08-20 08:28:29",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "South Korean media report Samsung Electronics has, in 1H, accelerated full repayment of a 20 tln won loan borrowed from Samsung Display during the 2023 semiconductor downturn. Samsung repaid 10 tln won on April 23; media estimate the remaining 10 tln won was repaid in late May."
+    },
+    {
+      "id": "5048759",
+      "time": "2026-08-20 08:28:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4510美元/盎司，日內跌0.30%。"
+    },
+    {
+      "id": "5048758",
+      "time": "2026-08-20 08:27:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：國產算力訂單預期清晰度有望進一步增強 建議關注國產算力產業鏈頭部廠商】中信證券研報稱，2026年第二季度騰訊Capex大超預期，且後續將持續加強AI基建建設及國產算力採購。展望2026年下半年，國產算力訂單預期清晰度有望進一步增強，供應鏈備貨節奏加速，建議關注國產算力產業鏈頭部廠商。"
+    },
+    {
+      "id": "mkt:01a01c90-6ae6-7aab-90a4-43f4cd5e2f9a",
+      "time": "2026-08-20 08:27:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600519.SS",
+        "Impact bullish",
+        "000858.SZ",
+        "000568.SZ"
+      ],
+      "text": "【CITIC Securities: China baijiu sector entering recovery; watch Mid-Autumn peak-season sell-through】CITIC Securities says the China baijiu sector is undergoing a valuation recovery after a deep 1H sell-off driven by sentiment and fund flows; July-to-date the sector is up 13.8% versus the CSI 300 INDEX +0.7%. The broker sees fundamentals stabilizing: wholesale prices have steadied under inventory controls, sell-through is marginally recovering from a low base, and inventories have started to decline. Since August demand for consumption occasions such as graduation/banquets has improved month-on-month, which may ease channel pessimism ahead of the Mid-Autumn peak selling season. CITIC recommends buying on dips, favoring leading liquor producers."
+    },
     {
       "id": "mkt:01a01c90-5983-7aab-90a4-397fd20c2356",
       "time": "2026-08-20 08:26:57",
@@ -9,6 +83,14 @@
         "MKT News"
       ],
       "text": "OpenAI said registration and login on Chatgpt.com are disrupted and it is working to restore the functions."
+    },
+    {
+      "id": "5048757",
+      "time": "2026-08-20 08:26:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河順利完成企石樞紐到青年樞紐實船試驗】8月19日，平陸運河實船試驗持續推進，5000噸級過載、5000噸級空載、3000噸級過載、1000噸級過載四艘代表船型集結編隊，開展企石樞紐至青年樞紐下行航道綜合科目試驗，全方位檢驗航道、錨地、青年樞紐船閘的實際通航表現，為9月如期通航提供有效實測資料。（央視新聞）"
     },
     {
       "id": "mkt:01a01c8f-f903-7aab-90a4-34c7e3a12ca2",
@@ -143348,146 +143430,6 @@
         "國際"
       ],
       "text": "【美國7月預算赤字激增，聯邦支出加速增長】美國財政部當地時間8月12日公佈的資料顯示，由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元。資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。公共債務利息支出繼續成為推高赤字的重要因素。7月利息支出同比增加260億美元，本財年至今累計達到1.17萬億美元，同比增長15%，部分原因是美國國債收益率上升。經調整後，7月總支出較2025年7月增加370億美元，收入減少120億美元，收入下降部分反映出關稅退款持續進行。"
-    },
-    {
-      "id": "mkt:019ff887-9146-7aab-9015-48bb12add2a0",
-      "time": "2026-08-13 08:31:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBA assistant governor Kent said the board will carefully consider a range of factors affecting financial conditions."
-    },
-    {
-      "id": "5038307",
-      "time": "2026-08-13 08:30:36",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲加息預期降溫，金價上漲】亞洲早盤金價上漲。澳新銀行研究部的分析師在一份報告中表示，在美國通脹資料公佈後，對美聯儲加息的預期有所降溫，隨著7月消費者物價較6月僅略有上漲。這些分析師表示，該資料表明美聯儲在下次會議上料將按兵不動，使得市場僅反映了40%的加息預期。他們補充說：“這延續了不斷湧現的資料趨勢，這些資料緩和了對貨幣緊縮的預期，並應在未來幾個月為黃金提供進一步支撐。“較高的利率環境通常會拖累黃金等無息資產。現貨黃金上漲0.5%，報每盎司4,433.11美元。"
-    },
-    {
-      "id": "5038306",
-      "time": "2026-08-13 08:30:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額上漲0.4%至13,552.4億元。"
-    },
-    {
-      "id": "5038305",
-      "time": "2026-08-13 08:29:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行肯特：央行董事會將審慎考量影響金融環境的各類廣泛因素。"
-    },
-    {
-      "id": "mkt:019ff886-7c76-7aab-9015-421b3e902228",
-      "time": "2026-08-13 08:29:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBA's Kent: estimates of the neutral interest rate carry considerable uncertainty."
-    },
-    {
-      "id": "mkt:019ff885-f9b7-7aab-9015-3dbee8480e6a",
-      "time": "2026-08-13 08:29:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "RBA's Kent said a stronger currency helps ease inflation by lowering domestic prices of imported goods."
-    },
-    {
-      "id": "mkt:019ff885-5b5e-7aab-9015-3526042e5a84",
-      "time": "2026-08-13 08:28:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "RBA's Kent said significant investment in data centres and AI-related infrastructure helps support aggregate demand growth."
-    },
-    {
-      "id": "mkt:019ff885-57eb-7aab-9015-2c15ee8eccc3",
-      "time": "2026-08-13 08:28:36",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "RBA's Kent said Australia's housing market has clearly softened recently; tax changes in the federal budget appear to have reduced demand for existing homes."
-    },
-    {
-      "id": "em:qqyh_ozlc:202608133839791476",
-      "time": "2026-08-13 08:28:29",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "【澳洲聯儲助理主席肯特：利率上調正產生預期中的效果】澳洲聯儲助理主席肯特稱，現金利率接近我們根據各種模型估算出的中性利率中心估值範圍的上限。利率上調正產生預期中的效果。"
-    },
-    {
-      "id": "5038304",
-      "time": "2026-08-13 08:28:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行肯特：對資料中心及人工智慧相關基礎設施的大規模投資，為總需求增長提供了支撐。"
-    },
-    {
-      "id": "5038303",
-      "time": "2026-08-13 08:28:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行肯特：聯邦預算公佈的稅制調整似乎對存量房市場需求下滑起到了推動作用。"
-    },
-    {
-      "id": "mkt:019ff884-eae7-7aab-9015-22fa2c573cd6",
-      "time": "2026-08-13 08:28:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "RBA deputy governor Kent said rate hikes are having the expected effect."
-    },
-    {
-      "id": "mkt:019ff884-d7ea-7aab-9015-1f27406495c0",
-      "time": "2026-08-13 08:28:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "RBA's Kent said the cash rate is close to the upper end of the central estimate range for the neutral rate derived from various models."
-    },
-    {
-      "id": "5038302",
-      "time": "2026-08-13 08:27:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行肯特：近幾個月樓市狀況已顯著走軟。"
-    },
-    {
-      "id": "5038301",
-      "time": "2026-08-13 08:27:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：圍繞中性利率預估存在相當大的不確定性。"
     }
   ]
 }

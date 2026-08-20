@@ -1,7 +1,81 @@
 {
   "date": "2026-08-20",
-  "count": 588,
+  "count": 596,
   "items": [
+    {
+      "id": "5048760",
+      "time": "2026-08-20 08:29:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【開源證券：資料中心電力裝置迎來增量機遇】開源證券研報表示，2025年10月英偉達釋出800V白皮書1.0，系統論證了高壓直流配電的技術必要性與可行性；白皮書2.0進一步明確，隨著GPU機櫃功率由數百kw向MW級演進，傳統415/480VAC供電在電纜數量、機櫃介面、轉換層級和佔地等方面逐步承壓，且800VDC並非替代現有交流架構而是與其長期共存、按需匯入的新增部署選項。開源證券認為，AI資料中心功率密度升級將同時拉動高壓直流裝置、儲能變流及系統整合、直流保護、液冷散熱與高壓連線部件的技術迭代，具備高壓大功率產品能力、可靠性驗證與頭部客戶匯入優勢的企業有望優先受益。"
+    },
+    {
+      "id": "mkt:01a01c92-1ed5-7aab-90a4-5f02200bcb51",
+      "time": "2026-08-20 08:28:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,510/oz, down 0.29% on the day."
+    },
+    {
+      "id": "mkt:01a01c91-d539-7aab-90a4-502fcab8c8ed",
+      "time": "2026-08-20 08:28:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【CITIC Securities: Visibility on China’s domestic compute orders set to improve; focus on leading supply‑chain names】CITIC Securities says Tencent’s Q2 2026 Capex ran well above expectations and the company will continue to ramp AI infrastructure and procure domestic compute. Into H2 2026, order visibility for China’s domestic compute is expected to strengthen and supply‑chain stocking to accelerate. Firm recommends monitoring leading domestic compute supply‑chain vendors."
+    },
+    {
+      "id": "mkt:01a01c91-c387-7aab-90a4-4f810068e4f2",
+      "time": "2026-08-20 08:28:29",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "South Korean media report Samsung Electronics has, in 1H, accelerated full repayment of a 20 tln won loan borrowed from Samsung Display during the 2023 semiconductor downturn. Samsung repaid 10 tln won on April 23; media estimate the remaining 10 tln won was repaid in late May."
+    },
+    {
+      "id": "5048759",
+      "time": "2026-08-20 08:28:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4510美元/盎司，日內跌0.30%。"
+    },
+    {
+      "id": "5048758",
+      "time": "2026-08-20 08:27:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：國產算力訂單預期清晰度有望進一步增強 建議關注國產算力產業鏈頭部廠商】中信證券研報稱，2026年第二季度騰訊Capex大超預期，且後續將持續加強AI基建建設及國產算力採購。展望2026年下半年，國產算力訂單預期清晰度有望進一步增強，供應鏈備貨節奏加速，建議關注國產算力產業鏈頭部廠商。"
+    },
+    {
+      "id": "mkt:01a01c90-6ae6-7aab-90a4-43f4cd5e2f9a",
+      "time": "2026-08-20 08:27:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600519.SS",
+        "Impact bullish",
+        "000858.SZ",
+        "000568.SZ"
+      ],
+      "text": "【CITIC Securities: China baijiu sector entering recovery; watch Mid-Autumn peak-season sell-through】CITIC Securities says the China baijiu sector is undergoing a valuation recovery after a deep 1H sell-off driven by sentiment and fund flows; July-to-date the sector is up 13.8% versus the CSI 300 INDEX +0.7%. The broker sees fundamentals stabilizing: wholesale prices have steadied under inventory controls, sell-through is marginally recovering from a low base, and inventories have started to decline. Since August demand for consumption occasions such as graduation/banquets has improved month-on-month, which may ease channel pessimism ahead of the Mid-Autumn peak selling season. CITIC recommends buying on dips, favoring leading liquor producers."
+    },
     {
       "id": "mkt:01a01c90-5983-7aab-90a4-397fd20c2356",
       "time": "2026-08-20 08:26:57",
@@ -9,6 +83,14 @@
         "MKT News"
       ],
       "text": "OpenAI said registration and login on Chatgpt.com are disrupted and it is working to restore the functions."
+    },
+    {
+      "id": "5048757",
+      "time": "2026-08-20 08:26:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河順利完成企石樞紐到青年樞紐實船試驗】8月19日，平陸運河實船試驗持續推進，5000噸級過載、5000噸級空載、3000噸級過載、1000噸級過載四艘代表船型集結編隊，開展企石樞紐至青年樞紐下行航道綜合科目試驗，全方位檢驗航道、錨地、青年樞紐船閘的實際通航表現，為9月如期通航提供有效實測資料。（央視新聞）"
     },
     {
       "id": "mkt:01a01c8f-f903-7aab-90a4-34c7e3a12ca2",
