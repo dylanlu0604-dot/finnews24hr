@@ -1,7 +1,163 @@
 {
   "date": "2026-08-20",
-  "count": 3031,
+  "count": 3048,
   "items": [
+    {
+      "id": "mkt:01a01f95-2fcf-7aab-90ba-0406b07a2e37",
+      "time": "2026-08-20 22:31:05",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "Boeing, Raytheon Technologies and Northrop Grumman are the primary contractors on Qatar arms-sale contracts."
+    },
+    {
+      "id": "mkt:01a01f94-ceda-7aab-90b9-fad075c42c5b",
+      "time": "2026-08-20 22:30:40",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. State Department approved sale of KC-46A aerial refueling tankers to Qatar, expected transaction value about $4.5 billion."
+    },
+    {
+      "id": "mkt:01a01f94-962c-7aab-90b9-f17133567f21",
+      "time": "2026-08-20 22:30:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly gas report — week ending Aug 14: U.S. working gas in storage 3,169 Bcf, +16 Bcf week/week, -28 Bcf YoY (-0.9%), and +185 Bcf versus the 5‑year average (+6.2%)."
+    },
+    {
+      "id": "mkt:01a01f94-8dfb-7aab-90b9-ec81229e4668",
+      "time": "2026-08-20 22:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell more than 3% intraday to $2.729/MMBtu."
+    },
+    {
+      "id": "mkt:01a01f94-6bc5-7aab-90b9-e7f77f5ca63e",
+      "time": "2026-08-20 22:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for week ending Aug. 14: injection 16 bcf vs. forecast 19 bcf; prior 36 bcf."
+    },
+    {
+      "id": "5050402",
+      "time": "2026-08-20 22:30:12",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署：截至8月14日當週，美國天然氣庫存總量為31690億立方英尺，較此前一週增加160億立方英尺，較去年同期減少280億立方英尺，同比降幅0.9%，同時較5年均值高1850億立方英尺，增幅6.2%。"
+    },
+    {
+      "id": "5050401",
+      "time": "2026-08-20 22:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音、RTX和諾斯羅普·格魯曼是卡達合同的主要承包商。"
+    },
+    {
+      "id": "mkt:01a01f94-3439-7aab-90b9-dbd449fab789",
+      "time": "2026-08-20 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Aug.14) | actual 16000000000B | consensus 19000000000B | previous 36000000000B"
+    },
+    {
+      "id": "5050400",
+      "time": "2026-08-20 22:29:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院就KC-46A加油機出售發表評論，預計售價為45億美元。"
+    },
+    {
+      "id": "5050399",
+      "time": "2026-08-20 22:29:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪爾公司預計2027年農業裝置行業週期將迎來“溫和復甦”。"
+    },
+    {
+      "id": "mkt:01a01f93-74ef-7aab-90b9-d7402d088b0f",
+      "time": "2026-08-20 22:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department approved a potential $4.5 billion sale of military equipment to Qatar."
+    },
+    {
+      "id": "5050398",
+      "time": "2026-08-20 22:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞一艘超載船隻傾覆，約40具遺體已找到。"
+    },
+    {
+      "id": "5050397",
+      "time": "2026-08-20 22:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國批准擬向卡達出售加油機。"
+    },
+    {
+      "id": "5050396",
+      "time": "2026-08-20 22:28:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會研究：連續參與交易四年或以上的交易者中，虧損比例從第一年交易者中的約91%升至95%以上。"
+    },
+    {
+      "id": "5050395",
+      "time": "2026-08-20 22:28:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准向卡達出售價值45億美元的軍火。"
+    },
+    {
+      "id": "5050394",
+      "time": "2026-08-20 22:28:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【泡泡瑪特人氣IP“星星人”新品上線秒罄，隱藏款溢價高達14倍】今晚22:00，泡泡瑪特旗下人氣IP“星星人”首個搪膠毛絨系列“動物農場”正式發售，首發即引發搶購熱潮，線上多渠道上架後秒罄。其中，該系列隱藏款較129元的官方發售價漲價近14倍，超過今年LABUBU復古理髮店系列同期水平。據新浪科技觀察，在得物App上，開售前該系列的預約人數已超過2.4萬，正式開售後庫存秒磬。值得注意的是，該系列隱藏款“不醜小鴨”當前最高出價達1799元，較發售價上漲近14倍，是今年暑期潮玩市場溢價表現最突出的新品之一；常規款中“溫暖小羊”成交價位居前列，當前市場成交價最高達299元；“倔強牛仔”“天真小豬”“相信小狗”等款式也保持著較高流通熱度。（新浪科技）"
+    },
+    {
+      "id": "5050393",
+      "time": "2026-08-20 22:28:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪爾公司2027年訂單較去年實現中個位數增長。"
+    },
     {
       "id": "mkt:01a01f91-9cb9-7aab-90b9-cbde818f06f2",
       "time": "2026-08-20 22:27:11",
