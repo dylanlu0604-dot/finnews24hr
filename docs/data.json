@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-20 21:03:39",
+  "updated": "2026-08-20 21:07:36",
   "count": 15962,
   "items": [
+    {
+      "id": "5050291",
+      "time": "2026-08-20 21:06:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "超微電腦盤前股價衝高至盤前高點。"
+    },
+    {
+      "id": "5050290",
+      "time": "2026-08-20 21:06:36",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【TS Lombard：美國的債券回購計劃很像收益率曲線控制 美元面臨風險】TS Lombard表示，美國財政部回購超長期國債之舉“聽起來很像”收益率曲線控制（YCC），並稱人為壓低收益率的做法將削弱美元。首席經濟學家Freya Beamish在一份報告中寫道：“美國正在實施順週期財政政策，本應加息，這將利好美元。長期債券投資者希望獲得補償，而財政部正在干預以壓低收益率，並在債務平均期限本已較短的情況下進一步縮短期限。”“這聽起來很像YCC”她補充稱，在實施順週期財政政策並加息的同時縮短債務期限，“是導致美元走弱的一個配方”。“如果你的債務平均期限本來就短，而短端又將有更多大量債券發行，同時利率還在上升，這對財政狀況也不利——市場將贏得這場較量”“唯一的問題是，市場將以何種方式獲勝：是繼續給長期收益率施壓，使美聯儲充當那個負責任的人，比市場目前預期更早加息；抑或是美元遭拋售。美聯儲最終將會加息”常駐倫敦的Beamish指出，美聯儲所處的局面與英國形成鮮明對比。英國債務平均期限長得多，達到14年，政府一直在推進財政整固，而且利率應該下降“在這裡，縮短期限是合理的，也不會讓政府面臨過度的利率風險。”"
+    },
+    {
+      "id": "5050289",
+      "time": "2026-08-20 21:06:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦出口管制違規相關董事會調查得出無問題結論。"
+    },
+    {
+      "id": "5050287",
+      "time": "2026-08-20 21:04:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic合資公司Ode收購AI諮詢商拓展Claude企業市場】Anthropic聯合黑石等華爾街機構成立的合資企業完成自7月成立以來的首筆收購，此舉意在推動旗下聊天機器人Claude在企業端的業務增長。 據Ode方面訊息，Anthropic這家合資公司Ode計劃於週四宣佈收購AI諮詢公司Casper Studios。Casper Studios主要幫助企業開發AI應用。當前企業高管正探索如何最大化發揮AI價值，同時對這項新技術帶來日益走高的賬單心存顧慮，Ode選擇在這一節點完成本次收購。 “藉助Anthropic基於大模型搭建的全套工具，企業實際上可以完成絕大多數業務需求。”Ode執行長、聯合創始人克里斯·泰勒表示。 成立已有四年的Casper Studios擁有十餘名技術諮詢顧問。該公司服務過奈飛、百事可樂、多傢俬募股權以及對沖基金。本次收購交易價格未對外披露。"
+    },
+    {
+      "id": "5050286",
+      "time": "2026-08-20 21:04:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神奇製藥：控股股東一致行動人張之君完成減持2.69%股份】神奇製藥公告稱，公司控股股東的一致行動人張之君減持計劃已實施完畢。減持期間為2026年5月28日至2026年8月20日，張之君累計減持公司股份1436.235萬股，佔公司總股本的2.69%，減持總金額9755.75萬元。其中集中競價減持534.07萬股，佔總股本1%，價格區間5.14~8.13元/股；大宗交易減持902.165萬股，佔總股本1.69%。本次減持完成後，張之君持有公司股份數量為0。"
+    },
+    {
+      "id": "mkt:01a01f44-c756-7aab-90b8-50385c2f04f0",
+      "time": "2026-08-20 21:03:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BMY.O",
+        "Impact bullish"
+      ],
+      "text": "Chai Discovery has signed an antibody R&D collaboration with Bristol Myers Squibb; BMS will use Chai’s AI models to support antibody discovery."
+    },
+    {
+      "id": "5050285",
+      "time": "2026-08-20 21:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大外交部長將於週四訪問華盛頓。"
+    },
+    {
+      "id": "mkt:01a01f44-7d1d-7aab-90b8-4d5b2bd5ff15",
+      "time": "2026-08-20 21:02:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "SC crude oil main contract intraday gains widened to 2.00%, trading at 596.60 yuan/barrel."
+    },
+    {
+      "id": "5050284",
+      "time": "2026-08-20 21:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "康蒂聯邦公司獲得價值6760萬美元的合同，負責擴建西西里那哥內拉海軍航空站的彈藥儲存設施。"
+    },
+    {
+      "id": "mkt:01a01f44-27cc-7aab-90b8-4034cb0bb85e",
+      "time": "2026-08-20 21:02:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "Qualcomm (QCOM.O) appointed Sergio Buniac as general manager of its mobile, computing and personal AI business."
+    },
     {
       "id": "mkt:01a01f43-e877-7aab-90b8-3ec7153dfc29",
       "time": "2026-08-20 21:02:19",
@@ -145887,108 +145984,6 @@
         "焦點"
       ],
       "text": "WTI原油失守81美元/桶，日內跌2.74%。"
-    },
-    {
-      "id": "5039599",
-      "time": "2026-08-13 21:06:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【荷蘭鹿特丹港發生爆炸致1死多傷】據荷蘭媒體報道，鹿特丹港一家能源公司的廠區13日發生爆炸，造成至少1人死亡、多人受傷。據荷蘭公共廣播公司援引該能源公司發言人的話報道，爆炸發生時，一支維修隊正在廠區內的儲油罐附近維修管道，“可能在拆卸管道時出現問題”。鹿特丹警方表示，爆炸原因仍在調查中。應急救援人員已在現場開展救援工作。（新華社）"
-    },
-    {
-      "id": "mkt:019ffb3a-f424-7aab-9026-7ff6f293bad0",
-      "time": "2026-08-13 21:06:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【DeepSeek launches Harness public beta, opens NPM plugin ecosystem】DeepSeek launched a public beta of its code agent framework Harness and simultaneously opened a companion NPM plugin ecosystem; the GitHub repository remains private. Harness is positioned as a direct competitor to OpenAI CODEX and ANTHROPIC Claude Code, aimed at programming and office productivity use cases."
-    },
-    {
-      "id": "5039598",
-      "time": "2026-08-13 21:06:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【劉小濤會見中金公司董事長陳亮】8月12日，江蘇省長劉小濤在南京會見中國國際金融股份有限公司董事長陳亮。劉小濤對陳亮一行表示歡迎。他說，江蘇正加快培育發展新質生產力、促進科技創新和產業創新深度融合，需要更大力度的多層次、專業化金融賦能。希望中金公司發揮全球資源優勢，充分連結國際主權基金、頂尖投資機構和長期耐心資本，聚焦新興支柱產業和未來產業提供全方位、定製化綜合金融服務，引導更多優質科創專案落地，進一步提升江蘇資本市場的集聚效應和核心能級。我們將持續最佳化投融資生態，攜手搭建精準對接平臺，共同提升金融服務實體經濟質效。（微訊江蘇）"
-    },
-    {
-      "id": "mkt:019ffb3a-09c1-7aab-9026-77367586c8b6",
-      "time": "2026-08-13 21:05:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Hammack says the Fed needs to lower inf to 2% more quickly."
-    },
-    {
-      "id": "5039597",
-      "time": "2026-08-13 21:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字會總會向河南災區調撥救災物資】8月13日，針對河南省多地洪澇災害，中國紅十字會總會啟動應急響應，根據當地救災需求緊急向受災地區調撥賑濟家庭包3500個，用於災區群眾轉移安置和生活保障工作。（央視新聞）"
-    },
-    {
-      "id": "5039596",
-      "time": "2026-08-13 21:04:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油擴大與艾默生的合作，以最大限度提升天然氣回收及加工效率。"
-    },
-    {
-      "id": "te:markets:575116",
-      "time": "2026-08-13 21:04:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "DXY After PPI Report — The dollar index fell to around 99.9 on Thursday after softer-than-expected US producer inflation eased concerns over renewed price pressures and strengthened expectations for a cautious Federal Reserve policy stance. The Producer Price Index was unchanged in July, missing forecasts for a 0.2% increase, while recent consumer price data also pointed to moderating inflation. As a result, traders increased bets that the Fed will leave interest rates unchanged at its September 15-16 meeting, with markets pricing around a 65% probability of a hold. The latest figures suggest that the initial inflationary impact of the Middle East conflict and higher energy costs may be fading. However, renewed tensions in the region continue to pose risks to the inflation outlook. Meanwhile, weekly jobless claims increased but remained historically low, although recent employment data indicated that the US labor market has been weaker than previously estimated."
-    },
-    {
-      "id": "5039595",
-      "time": "2026-08-13 21:03:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國郵政與寧德時代達成戰略合作】近日，中國郵政集團與寧德時代正式簽署戰略合作協議。雙方將發揮各自優勢，以綠色金融促進物流行業低碳化轉型，共同踐行高質量發展：構建物流“電池銀行”生態、打造零碳物流示範體系、提供嵌入式供應鏈物流服務、深化綠色金融與生態協同。"
-    },
-    {
-      "id": "mkt:019ffb38-a271-7aab-9026-6b896a68afe1",
-      "time": "2026-08-13 21:03:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Fed's Hammack: I do not believe inf will continue to improve】Hammack said the last two inf reports were encouraging but he is not confident inf will continue to improve and that Americans face real pressure from inf. He added that private credit and whether AI is in a bubble merit attention, employment data is noisy, and with large amounts of leverage being used to buy Treasuries he watches Treasuries for financial-stability risk."
-    },
-    {
-      "id": "5039594",
-      "time": "2026-08-13 21:03:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈康生命：2026年上半年淨利潤6739.59萬元，同比增9.01%】盈康生命公告，2026年上半年營業收入10.16億元，同比增長20.56%。歸屬於上市公司股東的淨利潤6739.59萬元，同比增長9.01%；扣非淨利潤6375.17萬元，同比增長5.22%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
     }
   ]
 }
