@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-21 04:10:08",
-  "count": 16100,
+  "updated": "2026-08-21 04:14:02",
+  "count": 16104,
   "items": [
+    {
+      "id": "mkt:01a020cd-f981-7aab-90c0-fca416a4d36c",
+      "time": "2026-08-21 04:12:44",
+      "tags": [
+        "MKT News",
+        "AVGO.O"
+      ],
+      "text": "Broadcom (AVGO.O) is discussing providing guarantees for some senior secured notes."
+    },
+    {
+      "id": "te:markets:576959",
+      "time": "2026-08-21 04:12:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall as Inflation Concerns Mount — US stock indices closed lower on Thursday amid concerns that the Treasury’s plan to curb borrowing costs may provide only a short-term fix, while higher energy prices stoked inflation worries. The S&P 500 lost 0.9%, the Nasdaq fell 0.7% and the Dow shed 704 points. Treasury yields rose across the curve as investors worried that the Treasury’s efforts to support notes and bonds could worsen the inflationary backdrop amid ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump said the US had entered an “economic war” with Iran, prolonging blockades of tankers crossing the Persian Gulf. Financials were mostly lower, with JPMorgan down 1.6% and Morgan Stanley losing 3.2%. AI hyperscalers also mostly declined following tepid financial results from OpenAI, which failed to grow at the same pace as rival Anthropic. Walmart sank 9.1%, its sharpest single-session decline in four years, after second-quarter sales fell short of expectations."
+    },
+    {
+      "id": "mkt:01a020cd-6236-7aab-90c0-f4be31745715",
+      "time": "2026-08-21 04:12:05",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "APO.O"
+      ],
+      "text": "Market sources say Blackstone (BX.N) and Apollo are in talks to participate in semiconductor financing."
+    },
+    {
+      "id": "mkt:01a020cc-8be7-7aab-90c0-ea277c29ea15",
+      "time": "2026-08-21 04:11:11",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) rose more than 1% in after-hours trading."
+    },
+    {
+      "id": "mkt:01a020cc-10dc-7aab-90c0-e6ccae44e7e6",
+      "time": "2026-08-21 04:10:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AVGO.O",
+        "Impact mixed"
+      ],
+      "text": "Broadcom (AVGO.O) is seeking to raise more than $60 bln in its latest AI-focused debt transaction, market sources said."
+    },
+    {
+      "id": "5050783",
+      "time": "2026-08-21 04:09:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石和阿波羅據悉正就參與晶片融資進行談判。"
+    },
     {
       "id": "5050782",
       "time": "2026-08-21 04:08:42",
@@ -147324,26 +147384,6 @@
         "國際"
       ],
       "text": "萬斯：伊朗有時不履行承諾."
-    },
-    {
-      "id": "5040014",
-      "time": "2026-08-14 04:12:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "據公司備忘錄，泰森食品將關閉其位於伊利諾伊州喬斯林（Joslin）的牛肉屠宰廠以及位於猶他州的即食（case-ready）肉類加工廠，將提高其得克薩斯州牛肉加工廠的屠宰量。"
-    },
-    {
-      "id": "te:markets:575183",
-      "time": "2026-08-14 04:10:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow."
     }
   ]
 }
