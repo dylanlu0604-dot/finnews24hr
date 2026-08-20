@@ -1,7 +1,344 @@
 {
   "date": "2026-08-20",
-  "count": 715,
+  "count": 751,
   "items": [
+    {
+      "id": "mkt:01a01ccb-8a2b-7aab-90a6-35856ee51c61",
+      "time": "2026-08-20 09:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China equity index futures open】CSI 300 index futures (IF) main contract up 0.55%; SSE 50 index futures (IH) main contract up 0.40%; CSI 500 index futures (IC) main contract up 0.84%; CSI 1000 index futures (IM) main contract up 0.86%."
+    },
+    {
+      "id": "mkt:01a01ccb-88f8-7aab-90a6-2c227e54ddb7",
+      "time": "2026-08-20 09:31:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.05%, 30-year (TL) down 0.13%."
+    },
+    {
+      "id": "5048850",
+      "time": "2026-08-20 09:31:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞ASX 200指數在就業資料公佈後上漲0.4%。"
+    },
+    {
+      "id": "mkt:01a01ccb-5ddb-7aab-90a6-265c40aa6432",
+      "time": "2026-08-20 09:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Money-market yield tracker】Tencent Licaitong (Current+) 7-day annualized yield ranged 0.7050%–1.4020%; WeChat Lingqiantong 7-day annualized yield ranged 0.8780%–1.0010%; Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0600%."
+    },
+    {
+      "id": "mkt:01a01ccb-54c4-7aab-90a6-1a665b861925",
+      "time": "2026-08-20 09:31:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South China Sea tropical depression makes landfall in Wenchang, Hainan】A tropical depression in the South China Sea made landfall near Longlou town, Wenchang, Hainan at about 05:40 on the 20th, with maximum winds near the center of 6 on the scale (12 m/s) and central pressure 997 hPa. The system is forecast to move westward across Wenchang, Haikou, Chengmai, Lingao and Danzhou and enter the Beibu Gulf by the afternoon to evening of the 20th, bringing heavy rain to northern and western Hainan."
+    },
+    {
+      "id": "em:jjsj_ozsj:202608203847220614",
+      "time": "2026-08-20 09:31:17",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【澳大利亞7月季調後失業率為4.5%】澳大利亞7月季調後失業率為4.5%，預期為4.40%，前值為4.40%。"
+    },
+    {
+      "id": "mkt:01a01ccb-3969-7aab-90a6-14311a40dad0",
+      "time": "2026-08-20 09:31:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "C Yushu shares fell over 10%, hitting a low of 750 yuan, on turnover above 600 mln yuan."
+    },
+    {
+      "id": "5048849",
+      "time": "2026-08-20 09:31:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "C宇樹跌超10%，股價最低觸及750元，成交額超6億元。"
+    },
+    {
+      "id": "5048848",
+      "time": "2026-08-20 09:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南海熱帶低壓在海南文昌登陸】從海南省氣象局瞭解到，南海熱帶低壓已於20日5時40分前後在海南省文昌市龍樓鎮沿海登陸，登陸時中心附近最大風力6級（12m/s），中心附近最低氣壓997hPa。預計，該低壓將向偏西方向移動，先後穿過文昌、海口、澄邁、臨高、儋州等市縣，於20日下午到夜間移入北部灣海面。受其影響，海南島北部和西部將有強降水。"
+    },
+    {
+      "id": "mkt:01a01cca-b38e-7aab-90a6-0ef09b269b72",
+      "time": "2026-08-20 09:30:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Precious-metals thematic ETFs opened higher; Guotou Silver LOF rose more than 4%, gold-themed LOF and Harvest Gold LOF each gained over 3%, and Gold LOF was up nearly 3%. Earlier, spot gold topped $4,500 for the first time since June 4."
+    },
+    {
+      "id": "mkt:01a01cca-9bbf-7aab-90a6-0431e284a940",
+      "time": "2026-08-20 09:30:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia July part-time employment +32,200, prior +47,000."
+    },
+    {
+      "id": "5048847",
+      "time": "2026-08-20 09:30:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.27%，成分股中，森萱醫藥漲24.75%，諾思蘭德漲7.38%，德源藥業漲5.35%，錦波生物漲4.82%。"
+    },
+    {
+      "id": "mkt:01a01cca-7e5c-7aab-90a5-f8446740637a",
+      "time": "2026-08-20 09:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Part-Time Employment (Jul) | actual -32200.000000000004K | previous 47000K"
+    },
+    {
+      "id": "5048846",
+      "time": "2026-08-20 09:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞7月份就業人數下降15,800人；預估12,000。"
+    },
+    {
+      "id": "mkt:01a01cca-4eb2-7aab-90a5-f2142f85544b",
+      "time": "2026-08-20 09:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share grain sector opened lower; Wanxiang Denong and Nongfa Seed hit limit-down, while Qiule Seed, Jingliang Holdings, Kangnong Seed, Beidahuang and Heizhima declined."
+    },
+    {
+      "id": "mkt:01a01cca-44f3-7aab-90a5-efd35f4ad097",
+      "time": "2026-08-20 09:30:12",
+      "tags": [
+        "MKT News",
+        "AUDUSD"
+      ],
+      "text": "Australia July seasonally adjusted labour force participation rate 66.9% vs 66.9% expected, 67.0% prior."
+    },
+    {
+      "id": "mkt:01a01cca-3680-7aab-90a5-e24002e410f8",
+      "time": "2026-08-20 09:30:09",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia July employment change -15.8k vs est. +15.0k; prior +76.3k."
+    },
+    {
+      "id": "5048845",
+      "time": "2026-08-20 09:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞7月季調後失業率 4.5%，預期4.40%，前值4.40%。"
+    },
+    {
+      "id": "mkt:01a01cca-361f-7aab-90a5-db627405c304",
+      "time": "2026-08-20 09:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia July seasonally adjusted unemployment rate 4.5% (consensus 4.4%; June 4.4%)."
+    },
+    {
+      "id": "mkt:01a01cca-3104-7aab-90a5-d251772cbcb6",
+      "time": "2026-08-20 09:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia July full-time employment +16.3k jobs, prior +29.3k."
+    },
+    {
+      "id": "5048844",
+      "time": "2026-08-20 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.08%，成分股中，惠泰醫療漲9.99%，百利天恆漲3.52%，艾力斯漲2.59%，生益電子漲2.51%。"
+    },
+    {
+      "id": "5048843",
+      "time": "2026-08-20 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲1.09%， 滬深300指數期貨連續漲0.77%， 中證500指數期貨連續漲1.09%， 上證50指數期貨連續漲0.60%。"
+    },
+    {
+      "id": "5048842",
+      "time": "2026-08-20 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.05%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "mkt:01a01cca-15af-7aab-90a5-caed72784560",
+      "time": "2026-08-20 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Labour Force Participation Rate SA (Jul) | actual 66.9% | consensus 66.90% | previous 67.00%"
+    },
+    {
+      "id": "mkt:01a01cca-15a3-7aab-90a5-c48e05e3f242",
+      "time": "2026-08-20 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Full-Time Employment (Jul) | actual 16299.999999999998K | previous 29300K"
+    },
+    {
+      "id": "mkt:01a01cca-1597-7aab-90a5-b9951dec3811",
+      "time": "2026-08-20 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Employment (Jul) | actual -15800K | consensus 15000K | previous 76300K"
+    },
+    {
+      "id": "mkt:01a01cca-158c-7aab-90a5-b3ee1713f3ed",
+      "time": "2026-08-20 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Unemployment Rate SA (Jul) | actual 4.5% | consensus 4.40% | previous 4.40%"
+    },
+    {
+      "id": "5048841",
+      "time": "2026-08-20 09:29:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.28%。三鑫轉債、微芯轉債、皓元轉債、奧銳轉債、天準轉債漲幅居前，分別漲11.25%、5.60%、5.00%、4.89%、4.18%。億田轉債、美錦轉債、江農轉債、平煤轉債、曉鳴轉債跌幅居前，分別跌4.08%、1.82%、0.81%、0.44%、0.36%。"
+    },
+    {
+      "id": "mkt:01a01cc9-29f6-7aab-90a5-a840a3a8e4e6",
+      "time": "2026-08-20 09:29:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bullish",
+        "MRK.N"
+      ],
+      "text": "【China innovative-drug stocks surge; Hansen Pharma, Ha Sanlian notch second straight limit-ups】A-share innovative-drug sector opened sharply higher after Moderna jumped 177% overnight when it and Merck said a melanoma vaccine met the primary endpoint in a large trial. Hansen Pharma and Ha Sanlian posted second straight daily limit-ups. Haixin, Zhongguancun, Laimei Pharma, Watson Bio, Jiankai Technology, Shuanglu Pharma, Kangchen Pharma and Yuekang hit daily price limits. Sanyuan Gene rose >20%; Zhifei Bio and Shiyao Innovation gained >15%; Xinkaiyuan, Anke Biotech and Kangtai Biotech rallied >10%."
+    },
+    {
+      "id": "5048840",
+      "time": "2026-08-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7789.60點。"
+    },
+    {
+      "id": "5048839",
+      "time": "2026-08-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7550.00點。"
+    },
+    {
+      "id": "5048838",
+      "time": "2026-08-20 09:28:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬爾霍特拉稱印度央行的政策仍旨在抑制過度波動。"
+    },
+    {
+      "id": "5048837",
+      "time": "2026-08-20 09:28:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【糧食概念板塊低開，萬向德農、農發種業觸及跌停】糧食概念板塊低開，萬向德農、農發種業觸及跌停，秋樂種業、京糧控股、康農種業、北大荒、黑芝麻跟跌。"
+    },
+    {
+      "id": "5048836",
+      "time": "2026-08-20 09:28:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【疫苗主題ETF大漲】疫苗主題ETF大漲，疫苗ETF鵬華、疫苗ETF招商均漲停，疫苗ETF嘉實、疫苗ETF富國雙雙漲超9%，疫苗ETF國泰漲超7%；訊息面上，默沙東(MRK.N)與莫德納(MRNA.O)週三宣佈，聯合研發的黑色素瘤皮膚癌疫苗在首次晚期臨床試驗中取得積極初步結果。"
+    },
+    {
+      "id": "mkt:01a01cc8-89b0-7aab-90a5-a197ff216d99",
+      "time": "2026-08-20 09:28:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "MRK.N",
+        "Impact bullish",
+        "MRNA.O"
+      ],
+      "text": "【Vaccine-themed ETFs surge】China vaccine-themed ETFs jumped: Penghua and China Merchants vaccine ETFs hit daily limit; Harvest and Fullgoal vaccine ETFs rose over 9%; Guotai vaccine ETF climbed more than 7%. Merck (MRK.N) and Moderna (MRNA.O) on Wednesday said their jointly developed melanoma skin‑cancer vaccine produced positive preliminary results in the first late‑stage trial."
+    },
+    {
+      "id": "5048835",
+      "time": "2026-08-20 09:28:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊大幅高開，漢森製藥、哈三聯2連板】創新藥板塊大幅高開，漢森製藥、哈三聯2連板，海欣股份、中關村、萊美藥業、沃森生物、鍵凱科技、雙鷺藥業、康辰藥業、悅康藥業漲停，三元基因漲超20%，智飛生物、石藥創新漲超15%，新開源、安科生物、康泰生物漲超10%。"
+    },
     {
       "id": "mkt:01a01cc8-1fcd-7aab-90a5-9b995d3ea4ef",
       "time": "2026-08-20 09:27:52",
