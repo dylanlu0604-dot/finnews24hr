@@ -1,7 +1,440 @@
 {
   "date": "2026-08-20",
-  "count": 2665,
+  "count": 2712,
   "items": [
+    {
+      "id": "mkt:01a01f26-eb38-7aab-90b6-cce0b7a9898e",
+      "time": "2026-08-20 20:30:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Shipments Index (Aug) | actual 27.7 | previous 33.7"
+    },
+    {
+      "id": "mkt:01a01f26-e829-7aab-90b6-c4d1e3011010",
+      "time": "2026-08-20 20:30:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada raw materials price index YoY 18.1% in July, down from 20.7% previously."
+    },
+    {
+      "id": "mkt:01a01f26-d550-7aab-90b6-b8cd13e11933",
+      "time": "2026-08-20 20:30:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Prices Received Index (Aug) | actual 17.7 | previous 27.4"
+    },
+    {
+      "id": "mkt:01a01f26-d550-7aab-90b6-b6bb8a9265cf",
+      "time": "2026-08-20 20:30:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada July industrial product price index MoM +0.6% (est. -0.5%), prior -1.4%."
+    },
+    {
+      "id": "mkt:01a01f26-d160-7aab-90b6-aa93c9985d96",
+      "time": "2026-08-20 20:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada July Raw Materials Price Index MoM -2.2% (est -2.0%; prior -6.9%)."
+    },
+    {
+      "id": "mkt:01a01f26-d09d-7aab-90b6-a419ac856c53",
+      "time": "2026-08-20 20:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada new housing price index July MoM -0.1%; prior -0.1%."
+    },
+    {
+      "id": "mkt:01a01f26-d09c-7aab-90b6-9d2c9113d532",
+      "time": "2026-08-20 20:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Philadelphia Fed manufacturing new orders index (Aug) 30.1, prior 37."
+    },
+    {
+      "id": "mkt:01a01f26-d039-7aab-90b6-93e3e7a2271c",
+      "time": "2026-08-20 20:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada July industrial product price index YoY 12.4% (prev 12.4%)."
+    },
+    {
+      "id": "mkt:01a01f26-d038-7aab-90b6-890c7e30660b",
+      "time": "2026-08-20 20:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Philadelphia Fed manufacturing employment index for August 27.9, prior 10.0."
+    },
+    {
+      "id": "mkt:01a01f26-cfd6-7aab-90b6-83fb2fe06dc1",
+      "time": "2026-08-20 20:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Philadelphia Fed manufacturing prices-paid index (August) 40.9; prior 53.9."
+    },
+    {
+      "id": "5050196",
+      "time": "2026-08-20 20:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "加拿大7月工業產品價格環比上漲0.6%；此前預期為下降0.5%。"
+    },
+    {
+      "id": "mkt:01a01f26-cf6f-7aab-90b6-784841c1e8ce",
+      "time": "2026-08-20 20:30:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Philadelphia Fed manufacturing index (Aug) 47.4 vs. expected 25.0; prior 41.4."
+    },
+    {
+      "id": "5050195",
+      "time": "2026-08-20 20:30:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "加拿大7月原材料價格環比下跌2.2%；此前預期下跌2.0%。"
+    },
+    {
+      "id": "mkt:01a01f26-b98f-7aab-90b6-77907a99c688",
+      "time": "2026-08-20 20:30:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US continuing unemployment claims for week ending Aug 8: 1.799 mln, vs. 1.79 mln expected; prior revised to 1.781 mln from 1.777 mln."
+    },
+    {
+      "id": "5050194",
+      "time": "2026-08-20 20:30:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國8月費城聯儲工廠指數為47.4；預期值為24.8。"
+    },
+    {
+      "id": "mkt:01a01f26-a222-7aab-90b6-69dd16a6eeb2",
+      "time": "2026-08-20 20:30:14",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US initial jobless claims four-week moving average for week to Aug 15: 204,000; prior revised from 199,000 to 199,750."
+    },
+    {
+      "id": "mkt:01a01f26-8bfb-7aab-90b6-6296d9cda366",
+      "time": "2026-08-20 20:30:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (MoM) (Jul) | actual -2.2% | consensus -2% | previous -6.90%"
+    },
+    {
+      "id": "mkt:01a01f26-8bec-7aab-90b6-5d2c1acaf54c",
+      "time": "2026-08-20 20:30:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (YoY) (Jul) | actual 18.1% | previous 20.7%"
+    },
+    {
+      "id": "mkt:01a01f26-89e8-7aab-90b6-539e4ddbcf9b",
+      "time": "2026-08-20 20:30:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ended Aug. 15: 206,000 vs. 210,000 expected; prior week revised to 212,000 from 209,000."
+    },
+    {
+      "id": "mkt:01a01f26-8158-7aab-90b6-4994388a450e",
+      "time": "2026-08-20 20:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (YoY) (Jul) | actual 12.4% | previous 12.4%"
+    },
+    {
+      "id": "mkt:01a01f26-810e-7aab-90b6-44ced865892d",
+      "time": "2026-08-20 20:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (MoM) (Jul) | actual 0.6% | consensus -0.5% | previous -1.40%"
+    },
+    {
+      "id": "5050193",
+      "time": "2026-08-20 20:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上週首次申領失業救濟人數為206,000人；預估為210,000人。"
+    },
+    {
+      "id": "mkt:01a01f26-6b6f-7aab-90b6-3bbfa4d3a065",
+      "time": "2026-08-20 20:30:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | New Housing Price Index (MoM) (Jul) | actual -0.1% | previous -0.1%"
+    },
+    {
+      "id": "mkt:01a01f26-64d5-7aab-90b6-32788fba5824",
+      "time": "2026-08-20 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Employment Index (Aug) | actual 27.9 | previous 10"
+    },
+    {
+      "id": "mkt:01a01f26-64d0-7aab-90b6-2daf5bcb44dd",
+      "time": "2026-08-20 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed New Orders Index (Aug) | actual 30.1 | previous 37"
+    },
+    {
+      "id": "mkt:01a01f26-64cd-7aab-90b6-2641959f90e1",
+      "time": "2026-08-20 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Prices Paid Index (Aug) | actual 40.9 | previous 53.9"
+    },
+    {
+      "id": "mkt:01a01f26-64cc-7aab-90b6-182e803f6ed2",
+      "time": "2026-08-20 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Manufacturing Index (Aug) | actual 47.4 | consensus 25 | previous 41.4"
+    },
+    {
+      "id": "mkt:01a01f26-5c00-7aab-90b6-128f96d8d53f",
+      "time": "2026-08-20 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Aug.8) | actual 1799000K | consensus 1790000K | previous 1777000K"
+    },
+    {
+      "id": "mkt:01a01f26-5ab4-7aab-90b6-0abfce71684b",
+      "time": "2026-08-20 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Aug.15) | actual 204000K | previous 199000K"
+    },
+    {
+      "id": "mkt:01a01f26-5956-7aab-90b6-041214d99859",
+      "time": "2026-08-20 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Aug.15) | actual 206000K | consensus 210000K | previous 209000K"
+    },
+    {
+      "id": "mkt:01a01f26-1236-7aab-90b5-ff02e0928f6a",
+      "time": "2026-08-20 20:29:43",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bullish"
+      ],
+      "text": "Walmart (WMT.N) top executive says price cuts are driving accelerating and sustained market-share gains."
+    },
+    {
+      "id": "5050192",
+      "time": "2026-08-20 20:29:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "洲際交易所（ICE）CEO：能源行業尚不具備週末交易的執行條件。"
+    },
+    {
+      "id": "5050191",
+      "time": "2026-08-20 20:29:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪降價推動市場份額實現 “加速且持續” 的增長。"
+    },
+    {
+      "id": "5050190",
+      "time": "2026-08-20 20:29:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翰宇藥業：2026年上半年淨利潤2.37億元，同比增長62.72%】翰宇藥業公告，2026年上半年營業收入6.88億元，同比增長25.27%。歸屬於上市公司股東的淨利潤2.37億元，同比增長62.72%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.29億元，同比增長85.90%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050189",
+      "time": "2026-08-20 20:29:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿里巴巴ADR盤前跌幅擴大至5.5%，該公司今天公佈了第二季度財報。"
+    },
+    {
+      "id": "5050188",
+      "time": "2026-08-20 20:29:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：近期運營環境受短期宏觀逆風因素影響。"
+    },
+    {
+      "id": "5050187",
+      "time": "2026-08-20 20:28:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中俄開啟第四次北極聯合科考】第四次中俄北極聯合科學考察20日在俄遠東城市符拉迪沃斯託克啟動。中俄兩國科考人員將在西北太平洋-北冰洋圍繞北極快速氣候演變開展重大前沿基礎科學研究。（新華社）"
+    },
+    {
+      "id": "5050186",
+      "time": "2026-08-20 20:28:50",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌，道指期貨跌0.72%，標普500指數期貨跌0.50%，納指期貨跌0.74%。\n②德國DAX指數跌0.61%，英國富時100指數跌0.47%，法國CAC40指數跌0.43%，歐洲斯托克50指數跌0.51%。\n③WTI原油漲3.68%，報87.49美元/桶。布倫特原油漲3.18%，報94.53美元/桶。此前美國方面誓言要對伊朗實施經濟打擊，並要懲罰伊朗的支持者；同時阿聯酋宣佈暫停與德黑蘭的貿易往來。\n④美國財政部週三提出擴大國債回購後引發的反彈亦逐漸失去動能，30年期美債收益率在前一交易日下跌9個基點後重新升破5.2%。\n⑤經濟學家Tuomas Malinen警告美國經濟瀕臨衰退，指出企業破產數創疫情以來新高、私人部門收益率曲線逼近“反轉歸零”為兩大關鍵警號。\n⑥美聯儲最新政策投票會議紀要凸顯，多位美國央行官員擔憂，持續高企的通脹會讓物價快速上漲的態勢在美國這一全球最大經濟體中形成固化。\n⑦沃爾瑪盤前下跌7%，此前全年盈利指引低於預期。\n⑧迪爾股價盤前上漲2.3%，此前該公司上調了2026年淨利潤預期區間的下限。\n⑨加密股盤前上漲，因比特幣價格攀升2.3%，觸及兩個多月來新高。ProShares比特幣策略交易所交易基金上漲3.9%，iShares比特幣信託上漲3.8%。riot平臺股價上漲2.4%，HUT 8礦業上漲2.3%，瑪拉控股上漲3.4%。"
+    },
+    {
+      "id": "5050185",
+      "time": "2026-08-20 20:28:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興森科技：2026年上半年淨利潤1.11億元，同比增長283.27%】興森科技公告，2026年上半年營業收入40.38億元，同比增長17.86%；歸屬於上市公司股東的淨利潤1.11億元，同比增長283.27%；扣除非經常性損益的淨利潤1.25億元，同比增長166.90%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050184",
+      "time": "2026-08-20 20:28:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛美客：2026年上半年淨利潤5.93億元，同比下降24.84%】愛美客公告，2026年上半年營業收入12.16億元，同比下降6.42%。歸屬於上市公司股東的淨利潤5.93億元，同比下降24.84%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5.31億元，同比下降24.48%。公司擬以3.01億股為基數，向全體股東每10股派發現金紅利10元（含稅）。"
+    },
+    {
+      "id": "5050183",
+      "time": "2026-08-20 20:28:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏潤建設：2026年上半年淨利潤1.12億元，同比降22.01%】宏潤建設公告，2026年上半年營業收入24.75億元，同比下降13.77%。歸屬於上市公司股東的淨利潤1.12億元，同比下降22.01%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.11億元，同比下降19.58%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a01f24-68be-7aab-90b5-f110a19ce4f9",
+      "time": "2026-08-20 20:27:54",
+      "tags": [
+        "MKT News",
+        "WMT.O",
+        "Impact bearish"
+      ],
+      "text": "Walmart (WMT.N) top executive said U.S. Q2 brick-and-mortar comparable-store sales fell in the low single digits."
+    },
+    {
+      "id": "mkt:01a01f24-3077-7aab-90b5-e8a2c3e0706c",
+      "time": "2026-08-20 20:27:40",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bullish"
+      ],
+      "text": "Walmart (WMT.N) executive says annual guidance assumes H2 sales will be slightly above prior targets, driven mainly by pricing investments."
+    },
+    {
+      "id": "5050182",
+      "time": "2026-08-20 20:27:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：得益於價格投資，年度業績預測假設下半年銷售額將略高於此前目標。。"
+    },
+    {
+      "id": "5050181",
+      "time": "2026-08-20 20:27:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾瑪 CEO：沃爾瑪第二季度美國門店同店銷售額低個位數下滑。"
+    },
+    {
+      "id": "5050180",
+      "time": "2026-08-20 20:27:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：使用Sparky購物的顧客每單消費高出40% 。"
+    },
+    {
+      "id": "5050179",
+      "time": "2026-08-20 20:26:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【網易嚴選Q2：犬糧、寵物零食保持雙位數增長，香氛同比增超50%】網易釋出2026年第二季度財報。財報顯示，網易Q2淨收入301億元。在電商等業務帶動下，創新板塊淨收入16億元，環比增長6%。寵物品類方面，網易嚴選斬獲京東、淘系渠道TOP3、TOP5，貓糧、犬糧、寵物零食、寵物用品四大細分品類全面增長，其中犬糧、寵物零食同比保持兩位數增長。618期間，網易嚴選包攬各大平臺寵物品牌及貓糧、犬糧銷量榜單前列。其中，鮮蒸寵糧憑藉首創乳化鮮蒸技術和鮮肉配方，上市以來暢銷超600萬袋，斬獲橙點獎、iBrandi品創產品獎等多項大獎。空氣除味香氛賽道Q2銷售額同比保持兩位數增長，空氣除味香氛、冰箱除味、香氛除溼除味三大系列全線飄紅，同比增幅超50%。第二季度，網易嚴選首次亮相美博會，並受邀成為\"CBE品牌聯盟家清專業委員會\"成員。居家賽道方面，乳膠枕穩居拼多多行業TOP1、淘系行業前三；記憶棉枕斬獲京東新品榜TOP2；果凍被獲京東、拼多多、抖音三渠道相關榜單TOP1；牛奶絲席獲抖音涼蓆人氣榜TOP1。（新浪科技）"
+    },
     {
       "id": "5050178",
       "time": "2026-08-20 20:26:00",
