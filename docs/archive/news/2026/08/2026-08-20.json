@@ -1,7 +1,112 @@
 {
   "date": "2026-08-20",
-  "count": 936,
+  "count": 948,
   "items": [
+    {
+      "id": "mkt:01a01d1d-25dc-7aab-90a7-a82309ccbdff",
+      "time": "2026-08-20 11:00:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said short-term external debt was $198.5 bln at end-June, up from $183.6 bln at end-March."
+    },
+    {
+      "id": "5048980",
+      "time": "2026-08-20 11:00:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至6月底韓國外債總額為8128億美元，3月底為7744億美元。"
+    },
+    {
+      "id": "mkt:01a01d1c-f87a-7aab-90a7-a69cab86830d",
+      "time": "2026-08-20 11:00:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said total external debt stood at $812.8 bln at end-June, up from $774.4 bln at end-March."
+    },
+    {
+      "id": "5048979",
+      "time": "2026-08-20 11:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞士銀行計劃首次發行熊貓債不超過20億元】瑞士銀行有限公司公告，計劃首次發行熊貓債，籌資不超過20億元人民幣。募集資金說明書顯示，發行期限5年期，預計不超過30%的募集資金淨額將用於境內業務，剩餘部分預計將由發行人以離岸人民幣的形式匯往境外。"
+    },
+    {
+      "id": "mkt:01a01d1c-d43e-7aab-90a7-9b57ee1d0757",
+      "time": "2026-08-20 11:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: short-term external debt accounted for 46.5% of foreign-exchange reserves at end-June, vs. 43.3% at end-March."
+    },
+    {
+      "id": "5048978",
+      "time": "2026-08-20 11:00:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至6月末韓國短期外債佔外匯儲備的比例為46.5%，3月末該比例為43.3%。"
+    },
+    {
+      "id": "5048977",
+      "time": "2026-08-20 11:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至6月底，韓國短期外債增至1985億美元。"
+    },
+    {
+      "id": "5048976",
+      "time": "2026-08-20 10:59:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪拉昇 仕佳光子、德科立均漲超10%】CPO概念震盪拉昇，仕佳光子、德科立均漲超10%，劍橋科技、匯綠生態、源傑科技、羅博特科、光庫科技跟漲。"
+    },
+    {
+      "id": "mkt:01a01d1b-dc7f-7aab-90a7-923eb12866e3",
+      "time": "2026-08-20 10:59:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector rose; Fuxing Co. hit the daily trading limit, while Rongan Real Estate, Chengtou Holdings, Urban Construction Development, Shenzhen Zhenye A and Jingtou Development also gained."
+    },
+    {
+      "id": "5048975",
+      "time": "2026-08-20 10:59:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊走高，福星股份漲停】房地產板塊走高，福星股份漲停，榮安地產、城投控股、城建發展、深振業A、京投發展跟漲。"
+    },
+    {
+      "id": "5048974",
+      "time": "2026-08-20 10:59:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞航空公司一架飛機在日本成田機場中止起飛，現場出現煙霧。"
+    },
+    {
+      "id": "5048973",
+      "time": "2026-08-20 10:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：五角大樓更新美軍最新傷亡資料，“美伊戰事以來已有18名士兵死亡、757名士兵受傷”】據美國有線電視新聞網（CNN）報道，五角大樓當地時間19日更新了其戰爭傷亡資料庫，新增50多名受傷士兵。根據該資料庫，美伊戰事開始以來，受傷美軍士兵人數已超過750人。 美國國防部網站7月26日新新增一個名為“海外行動傷亡數字”的網頁，將7月7日以來最新一輪美伊互襲以來的傷亡資料單獨列出，不計入之前的統計。 CNN稱，將“海外行動傷亡數字”網頁的統計資料和美國對伊朗“史詩怒火”軍事行動的統計資料合併後，顯示自今年2月美伊戰事開始以來，已有18名美軍士兵死亡、757名士兵受傷。 （環球網）"
+    },
     {
       "id": "5048972",
       "time": "2026-08-20 10:55:58",

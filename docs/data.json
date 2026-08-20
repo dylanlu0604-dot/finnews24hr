@@ -1,7 +1,112 @@
 {
-  "updated": "2026-08-20 10:58:07",
+  "updated": "2026-08-20 11:02:00",
   "count": 15691,
   "items": [
+    {
+      "id": "mkt:01a01d1d-25dc-7aab-90a7-a82309ccbdff",
+      "time": "2026-08-20 11:00:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said short-term external debt was $198.5 bln at end-June, up from $183.6 bln at end-March."
+    },
+    {
+      "id": "5048980",
+      "time": "2026-08-20 11:00:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至6月底韓國外債總額為8128億美元，3月底為7744億美元。"
+    },
+    {
+      "id": "mkt:01a01d1c-f87a-7aab-90a7-a69cab86830d",
+      "time": "2026-08-20 11:00:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said total external debt stood at $812.8 bln at end-June, up from $774.4 bln at end-March."
+    },
+    {
+      "id": "5048979",
+      "time": "2026-08-20 11:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞士銀行計劃首次發行熊貓債不超過20億元】瑞士銀行有限公司公告，計劃首次發行熊貓債，籌資不超過20億元人民幣。募集資金說明書顯示，發行期限5年期，預計不超過30%的募集資金淨額將用於境內業務，剩餘部分預計將由發行人以離岸人民幣的形式匯往境外。"
+    },
+    {
+      "id": "mkt:01a01d1c-d43e-7aab-90a7-9b57ee1d0757",
+      "time": "2026-08-20 11:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: short-term external debt accounted for 46.5% of foreign-exchange reserves at end-June, vs. 43.3% at end-March."
+    },
+    {
+      "id": "5048978",
+      "time": "2026-08-20 11:00:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：截至6月末韓國短期外債佔外匯儲備的比例為46.5%，3月末該比例為43.3%。"
+    },
+    {
+      "id": "5048977",
+      "time": "2026-08-20 11:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至6月底，韓國短期外債增至1985億美元。"
+    },
+    {
+      "id": "5048976",
+      "time": "2026-08-20 10:59:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪拉昇 仕佳光子、德科立均漲超10%】CPO概念震盪拉昇，仕佳光子、德科立均漲超10%，劍橋科技、匯綠生態、源傑科技、羅博特科、光庫科技跟漲。"
+    },
+    {
+      "id": "mkt:01a01d1b-dc7f-7aab-90a7-923eb12866e3",
+      "time": "2026-08-20 10:59:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector rose; Fuxing Co. hit the daily trading limit, while Rongan Real Estate, Chengtou Holdings, Urban Construction Development, Shenzhen Zhenye A and Jingtou Development also gained."
+    },
+    {
+      "id": "5048975",
+      "time": "2026-08-20 10:59:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊走高，福星股份漲停】房地產板塊走高，福星股份漲停，榮安地產、城投控股、城建發展、深振業A、京投發展跟漲。"
+    },
+    {
+      "id": "5048974",
+      "time": "2026-08-20 10:59:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬來西亞航空公司一架飛機在日本成田機場中止起飛，現場出現煙霧。"
+    },
+    {
+      "id": "5048973",
+      "time": "2026-08-20 10:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：五角大樓更新美軍最新傷亡資料，“美伊戰事以來已有18名士兵死亡、757名士兵受傷”】據美國有線電視新聞網（CNN）報道，五角大樓當地時間19日更新了其戰爭傷亡資料庫，新增50多名受傷士兵。根據該資料庫，美伊戰事開始以來，受傷美軍士兵人數已超過750人。 美國國防部網站7月26日新新增一個名為“海外行動傷亡數字”的網頁，將7月7日以來最新一輪美伊互襲以來的傷亡資料單獨列出，不計入之前的統計。 CNN稱，將“海外行動傷亡數字”網頁的統計資料和美國對伊朗“史詩怒火”軍事行動的統計資料合併後，顯示自今年2月美伊戰事開始以來，已有18名美軍士兵死亡、757名士兵受傷。 （環球網）"
+    },
     {
       "id": "5048972",
       "time": "2026-08-20 10:55:58",
@@ -143815,111 +143920,6 @@
         "宏觀"
       ],
       "text": "【“十五五”時期生態環境監測和執法將大力推進數智化轉型】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期，生態環境部圍繞監測、執法，將採取更大力度推進數智化轉型，進一步提升生態環境監管的質效。會上介紹，生態環境部將對大氣、水、海洋等傳統領域，全面實施數智化升級工程，推進國控站點儀器裝置的智慧化更新改造。在大氣方面，將加大人工智慧預測模型應用，升級空氣質量預報平臺，預計到2030年，全國72小時PM2.5超標天預報準確率將提升至80%以上。在水方面，將新建一批自動取樣站，組建海洋無人船編隊，全面革新傳統監測作業模式。在固體廢物、新汙染物等新興領域，將加快新技術、新模式的應用推廣。如利用米級和亞米級衛星開展常態化遙感排查，精準鎖定固廢違法堆放點位。新汙染物監測則依託現有的地表水、海洋等監測站點，同步取樣送樣，以較低成本實現多介質、多指標監測的協同增效。"
-    },
-    {
-      "id": "5038514",
-      "time": "2026-08-13 11:01:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "VINGROUP：票息上限為年利率8%，視市場情況而定。"
-    },
-    {
-      "id": "5038513",
-      "time": "2026-08-13 11:01:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "VINGROUP：預計2026年第三至第四季度發行韓元債券，尚待批准"
-    },
-    {
-      "id": "mkt:019ff911-9321-7aab-9017-9514e07c0677",
-      "time": "2026-08-13 11:01:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ survey: New Zealand Q3 two-year average inflation expectations at 2.34%."
-    },
-    {
-      "id": "5038512",
-      "time": "2026-08-13 11:01:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "越南企業集團Vingroup計劃面向韓國投資者私募發行規模最高達4550億韓元（合3.214億美元）、以韓元計價的3年期普通債券。"
-    },
-    {
-      "id": "mkt:019ff911-519e-7aab-9017-88446a6d4275",
-      "time": "2026-08-13 11:01:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ survey: New Zealand Q3 one-year-ahead average inflation expectations at 2.6%."
-    },
-    {
-      "id": "5038511",
-      "time": "2026-08-13 11:01:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥商業板塊拉昇，藥易購漲超13%】醫藥商業板塊拉昇，藥易購漲超13%，百洋醫藥、人民同泰、華人健康、建發致新、漱玉平民跟漲。"
-    },
-    {
-      "id": "5038510",
-      "time": "2026-08-13 11:00:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭三季度2年通脹預期 2.34%，前值 2.53%。"
-    },
-    {
-      "id": "5038509",
-      "time": "2026-08-13 11:00:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中泰警方聯合偵破一起跨國信用卡盜刷案】近日，公安部與泰國皇家警察總署密切協作，同步對一起專門針對中國公民的重大跨國信用卡盜刷案開展收網行動，摧毀多個犯罪窩點，分別抓獲4名中國籍犯罪嫌疑人和5名泰國籍犯罪嫌疑人，取得重大戰果。2025年，公安部經偵局指導協調上海公安經偵部門研判發現一個針對我國公民實施信用卡盜刷的跨國犯罪團伙，並及時將案件情況和協查請求通報泰國警方，開展國際執法合作。經查，2024年，犯罪嫌疑人計某與肖某共謀，由計某在泰國開設果乾店為幌子，以使用銀聯卡消費打折為誘餌，非法獲取受害人信用卡資訊。隨後，由肖某製作偽卡，招募刷手實施盜刷和銷贓牟利。截至目前，已查明涉案金額達500餘萬元人民幣。今年7月初，公安部派工作組赴泰國，與泰警方開展聯合辦案，精準研判該犯罪團伙組織架構、核心骨幹、作案窩點，全面掌握其作案模式和資金流向。近日，兩國警方同步開展收網，實現案件全環節部署、全要素蒐證、全鏈條打擊。公安部有關負責人表示，此次收網系中泰兩國警方近年來在打擊經濟犯罪領域首次同步開展的聯合執法行動，有效震懾了跨國經濟犯罪活動。下步，雙方將持續鞏固本次聯合行動成果，探索建立打擊跨境經濟犯罪常態化協作機制，不斷深化線索共享、經驗互通、聯合研判、追逃追贓等執法合作。"
-    },
-    {
-      "id": "5038508",
-      "time": "2026-08-13 11:00:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%】TrendForce資料顯示，8月13日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.42%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
-    },
-    {
-      "id": "5038507",
-      "time": "2026-08-13 10:58:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【重大資產重組，股價4天翻倍，藍盾光電回應】8月13日，藍盾光電再度“20CM”一字漲停開盤，實現4連板，自8月10日復牌以來，該股4個交易日累計漲幅已達107.31%，實現翻倍。針對股價持續漲停一事，記者以投資者身份致電藍盾光電，接線工作人員回應，相關事項資訊均以已披露公告為準，本次併購重組尚處於前期階段；若無特殊事項，後續暫無停牌安排，股票正常交易，本次交易對上市公司業績的影響目前無法作出答覆。(21世紀經濟報道)"
-    },
-    {
-      "id": "te:economy:574886",
-      "time": "2026-08-13 10:58:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yield climbed to around 2.86% on Thursday, reaching its highest level in more than a month as markets assessed the likelihood of a Bank of Japan interest rate hike in September after a growing number of policymakers called for a stronger response to mounting inflation pressures. Meanwhile, producer prices in Japan continued to rise at an elevated pace in July, keeping cost pressures on companies high. Producer inflation rose 7.2% in July, easing slightly from 7.3% in June, which was the highest level since March 2023. The BOJ recently attributed the rise in producer prices partly to higher oil costs following the Middle East conflict, along with increases in nonferrous metal and machinery prices amid stronger global demand linked to the artificial intelligence boom. Tight labor market conditions have also continued to drive wage pressures as companies compete to attract and retain workers."
-    },
-    {
-      "id": "te:markets:574885",
-      "time": "2026-08-13 10:58:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects."
     }
   ]
 }
