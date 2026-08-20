@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-20 08:15:48",
-  "count": 15651,
+  "updated": "2026-08-20 08:19:39",
+  "count": 15652,
   "items": [
+    {
+      "id": "mkt:01a01c88-f0af-7aab-90a4-0e8d606b3a0e",
+      "time": "2026-08-20 08:18:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "AI Revolution",
+        "USDJPY",
+        "Impact mixed",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Japan July exports +23.2% YoY, semiconductor equipment exports +49.1%; trade deficit ¥634.5bn】Japan July exports rose 23.2% YoY, above the 19.9% forecast, marking the fifth consecutive month of acceleration and the fastest pace since Oct 2022. Semiconductor equipment exports jumped 49.1% YoY, attributed to AI-driven demand. Imports climbed 27.8% YoY (vs. 26.5% expected), the highest since Nov 2022. The trade deficit stood at ¥634.5bn, below the ¥680.0bn forecast but wider than June’s ¥409.9bn. Petroleum imports surged 87.8% YoY amid higher oil prices linked to the Iran war."
+    },
+    {
+      "id": "5048750",
+      "time": "2026-08-20 08:18:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "DownDetector：使用者反饋顯示 OpenAI 出現故障。"
+    },
+    {
+      "id": "mkt:01a01c87-6a09-7aab-90a4-0769214ee508",
+      "time": "2026-08-20 08:17:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific index rose 1%."
+    },
+    {
+      "id": "5048749",
+      "time": "2026-08-20 08:17:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：當前保險板塊具備顯著配置價值】中信建投指出，當前保險板塊處於“負債端量增質優、資產端盈利修復確定性高、估值卻仍在低位”的錯配狀態，具備顯著配置價值。負債端來看，港險收益徵稅後部分需求可能迴流至內地，看好規模增長與結構最佳化共振。長期來看，地產財富效應弱化+資管新規推動理財淨值化+低利率共振驅動儲蓄險新單增長。"
+    },
+    {
+      "id": "5048748",
+      "time": "2026-08-20 08:15:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至273.27點。"
+    },
+    {
+      "id": "5048747",
+      "time": "2026-08-20 08:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲1%，至65981.03點。"
+    },
     {
       "id": "5048746",
       "time": "2026-08-20 08:13:34",
@@ -143441,48 +143503,6 @@
         "The Trump Trade"
       ],
       "text": "Wall Street Journal reports, citing sources, that Mexico is pushing to lower auto tariffs in USMCA negotiations."
-    },
-    {
-      "id": "5038286",
-      "time": "2026-08-13 08:19:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：墨西哥在與美國貿易談判中力促降低汽車關稅。"
-    },
-    {
-      "id": "mkt:019ff87b-71eb-7aab-9014-fd6e9d11a4cf",
-      "time": "2026-08-13 08:17:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver is up 1.00% intraday at $65.97/oz."
-    },
-    {
-      "id": "5038285",
-      "time": "2026-08-13 08:17:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普在土耳其換機前 中情局對伊朗威脅評估 “可信度較低”】據報道，瞭解該份情報的美國現任及前官員稱，以色列向美方通報了一則伊朗針對美國總統唐納德・特朗普的暗殺威脅情報，該情報促使美方採取特殊秘密行動，讓特朗普搭乘另一架軍用飛機秘密離開土耳其，但美國情報官員當時對該威脅持懷疑態度。一名官員表示，以色列政府將這份暗殺威脅情報轉達給中央情報局，該局分析人員認為該情報說服力不足，並將這份質疑意見通報給特朗普政府官員。另一名官員稱，針對特朗普生命受到威脅的相關報告 “源自以色列，並非美方獲取，評估可信度較低”。"
-    },
-    {
-      "id": "5038284",
-      "time": "2026-08-13 08:16:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報65.96美元/盎司。"
-    },
-    {
-      "id": "mkt:019ff879-a8da-7aab-9014-f10e83903f51",
-      "time": "2026-08-13 08:15:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huatai Securities flags domestic substitution opportunity for aluminum nitride】Huatai Securities says AI compute expansion will increase optical-module power consumption, shifting aluminum nitride (AlN) — prized for high thermal conductivity, electrical insulation and thermal compatibility — from an optional to a likely required material. Huatai estimates optical modules could drive demand for high-end AlN powder to exceed 2,000 tonnes by 2027. On the supply side, Japanese suppliers are facing raw-material shortages tied to rare-earth controls, and tight downstream demand could create a supply shortfall and upward pressure on prices. Domestic manufacturers are accelerating capacity ramp-up and customer qualification, presenting a potential domestic-replacement opportunity."
     }
   ]
 }
