@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-21 06:54:08",
-  "count": 16056,
+  "updated": "2026-08-21 06:57:58",
+  "count": 16057,
   "items": [
+    {
+      "id": "5050845",
+      "time": "2026-08-21 06:57:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。（央視新聞）"
+    },
+    {
+      "id": "te:economy:576970",
+      "time": "2026-08-21 06:57:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Exports Rise 13.5% in July — Exports increased 13.5% yoy to NZD 7.39 billion in July 2026, mainly driven by higher sales of milk powder, butter, and cheese (6.4%); meat and edible offal (34.0%); aluminum and aluminum articles (43.0%); and fruit (15.0%)."
+    },
+    {
+      "id": "mkt:01a02163-621a-7aab-90c2-8d6855852b61",
+      "time": "2026-08-21 06:55:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "000660.KS"
+      ],
+      "text": "【Report: SK Hynix to build memory fab in Miyagi, Japan】South Korea's SK Hynix is reportedly seeking to build a memory-chip manufacturing plant in Miyagi prefecture, Japan, marking the first production base by a South Korean chipmaker in Japan. Investment could reach tens of trillions of won. Industry sources said SK Group chairman Chey Tae-won recently visited the area. SK Hynix said any site with necessary infrastructure could be a candidate but no decision has been made."
+    },
+    {
+      "id": "5050844",
+      "time": "2026-08-21 06:55:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星】當地時間8月20日，白宮表示，美國總統特朗普已簽署一份備忘錄，提出到2030年，美國太空運輸靶場和相關設施應具備支援每年超過1000次發射和再入任務的能力。備忘錄稱，美國將擴大和改善太空發射及再入基礎設施，要求有關部門推動聯邦發射場向商業使用者開放，鼓勵商業投資、公私合作以及基礎設施共同開發，並加快設施許可和環境審查。NASA還被要求制定商業化月球物流架構，探索商業機器人登陸火星，以及商業載人往返火星的相關架構。（央視新聞）"
+    },
     {
       "id": "te:economy:576969",
       "time": "2026-08-21 06:53:24",
@@ -146870,33 +146909,6 @@
         "其他"
       ],
       "text": "【DeepSeek Harness開發者預覽版釋出：開放原始碼，一切皆外掛】8月14日上午訊息，DeepSeek Harness 的開發者預覽版（v0.1 版本）最新面向全球 Harness 開發者開放測試，並同步以 MIT 協議開放原始碼。據悉，作為早期預覽版本，DeepSeek Harness 採用“一切皆外掛”的設計思路，透過外掛式開放架構來構建 Agent Harness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI 等所有 Agent 能力均由外掛組合而成，可自由替換、靈活重組。（新浪科技）"
-    },
-    {
-      "id": "5040107",
-      "time": "2026-08-14 06:55:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）"
-    },
-    {
-      "id": "mkt:019ffd56-2136-7aab-902f-450b2ae8863f",
-      "time": "2026-08-14 06:55:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations."
-    },
-    {
-      "id": "5040106",
-      "time": "2026-08-14 06:54:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉今日與墨西哥總統辛鮑姆通了電話。"
     }
   ]
 }
