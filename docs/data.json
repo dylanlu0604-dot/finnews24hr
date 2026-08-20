@@ -1,7 +1,102 @@
 {
-  "updated": "2026-08-20 21:43:21",
-  "count": 15932,
+  "updated": "2026-08-20 21:47:22",
+  "count": 15933,
   "items": [
+    {
+      "id": "5050343",
+      "time": "2026-08-20 21:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打銀行：渣打成為首家在Euroclear D-FMI上發行數字原生票據的全球系統重要性銀行（G-SIB）。"
+    },
+    {
+      "id": "te:markets:576893",
+      "time": "2026-08-20 21:45:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rebounds — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, snapped a two-day losing streak on Thursday, rising about 0.5% to 2,791 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, increased by 1.2% to 4,429 points; and the supramax index went up 0.2% to a fresh high since July 28 at 1,637 points. By contrast, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell 1% to a new low since July 31 at 2,088 points."
+    },
+    {
+      "id": "mkt:01a01f6b-9682-7aab-90b8-c600b72e4dda",
+      "time": "2026-08-20 21:45:39",
+      "tags": [
+        "MKT News",
+        "VIRT.O",
+        "Impact bullish"
+      ],
+      "text": "Reportedly, Virtu is exploring a sale of its brokerage unit for more than $3.5 billion. Virtu Financial shares rose to an intraday high, up as much as 5.8%."
+    },
+    {
+      "id": "5050342",
+      "time": "2026-08-20 21:45:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "VIRTU FINANCIAL股價飆升至盤中高點，漲幅高達5.8%。"
+    },
+    {
+      "id": "te:markets:576892",
+      "time": "2026-08-20 21:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chubb Stock Price Hits 4-week Low — Chubb shares decreased to 340.68 USD, the lowest since July 2026. Over the past 4 weeks, Chubb lost 3.19%, and in the last 12 months, it increased 22.02%."
+    },
+    {
+      "id": "5050341",
+      "time": "2026-08-20 21:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "VIRTU表示將考慮以35億美元以上的價格出售其經紀業務部門。"
+    },
+    {
+      "id": "5050340",
+      "time": "2026-08-20 21:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首創環保：董事、總經理王征戍因個人原因辭任】首創環保公告稱，公司董事會收到董事、總經理王征戍的辭任報告，因個人原因，王征戍申請辭去公司董事、總經理等職務，辭任報告自送達公司董事會之日起生效，辭任後其不再擔任公司及控股子公司任何職務。王征戍原定任期到期日為2027年2月25日，不存在未履行完畢的公開承諾。本次離任未導致公司董事會成員低於法定最低人數，不會影響董事會正常運作及公司日常運營，公司將盡快履行補選董事、聘任總經理的相關程式。"
+    },
+    {
+      "id": "5050339",
+      "time": "2026-08-20 21:43:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首創環保：擬投資2.54億元建設垃圾焚燒供熱供汽專案】首創環保公告，公司子公司前海首創擬投資建設河南省新鄉市延津縣垃圾焚燒供熱供汽專案，垃圾處理規模500噸/日，專案總投資為人民幣2.54億元；同時由前海首創全資設立子公司延津縣首創供熱有限公司，前海首創現金出資7625萬元，持有其100%股權。本次交易已透過董事會審議，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:01a01f69-48b0-7aab-90b8-bcb4b1a1b049",
+      "time": "2026-08-20 21:43:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "SHFE silver 2610 turnover exceeded CNY 23.4 bln; intraday gain 2.05%, last CNY 16,443/kg. Open interest rose by more than 6,000 lots intraday; volume and open-interest activity increased in tandem."
+    },
+    {
+      "id": "5050338",
+      "time": "2026-08-20 21:43:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報906.00元。"
+    },
     {
       "id": "te:economy:576888",
       "time": "2026-08-20 21:41:55",
@@ -145662,87 +145757,6 @@
         "其他"
       ],
       "text": "【廣東海警局查獲特大跨區域非法捕撈案 涉案金額約4000萬元】今天（8月13日）記者從廣東海警局獲悉，廣東海警局聯合廣東省公安廳、廣東省海洋綜合執法總隊，成功查獲一起特大跨區域非法捕撈案。現場抓獲涉案人員55名，查扣涉案漁船6艘、運輸車輛9臺，查扣非法捕撈漁獲物約5噸、蟹籠3600餘個，初步查實涉案金額約4000萬元。（央視新聞）"
-    },
-    {
-      "id": "5039674",
-      "time": "2026-08-13 21:47:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本關東地區遭遇強降雨】受暖溼氣流與冷空氣影響，包括東京在內的日本關東地區13日遭遇強降雨，導致數萬戶使用者停電，併發生山體滑坡。日本氣象廳當晚對千葉縣的多個市釋出5級大雨特別警報，這是日本降雨預警系統中的最高階別警報。氣象廳說，截至當地時間19時的一個小時內，千葉縣八千代市附近的降雨量達到約120毫米，四街道市附近的降雨量達約100毫米。（新華社）"
-    },
-    {
-      "id": "mkt:019ffb60-9072-7aab-9027-34ac032fed51",
-      "time": "2026-08-13 21:47:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US-Iran talks deadlock as control of Strait of Hormuz becomes key impasse】US-Iran negotiations to end the conflict have stalled after terms of a June interim peace accord collapsed over control of the Strait of Hormuz. Iran says it will only fully reopen the strait after receiving war reparations and sets six conditions: no threats or insults to Iran, a permanent end to hostilities against Iran and its allies, removal of the US naval blockade, payment of war damages, lifting of sanctions, and unfreezing of Iranian assets. Trump has demanded Iran compensate for what he describes as US casualties. Iran says it is finalizing a new bilateral shipping channel with Oman; Trump asserts the US Navy has full control of the waterway."
-    },
-    {
-      "id": "5039673",
-      "time": "2026-08-13 21:46:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Q2業績不及預期 Cerebras Systems開盤大跌超15%】週四，“英偉達挑戰者”Cerebras Systems開盤大跌超15%，現報226.20美元。訊息面上，AI晶片新星Cerebras Systems公佈不及預期的第二季度業績。資料顯示，該公司Q2營收同比增長74%至1.801億美元，分析師此前預期1.94億美元;每股虧損2.98美元，分析師此前預期每股虧損0.17美元。按業務劃分，第二季度硬體營收同比下降23%，至5410萬美元。這表明這家採用創新晶片設計架構的初創企業在商業化推廣程序中仍面臨挑戰。不過，雲及其他服務營收創歷史新高，達 1.26 億美元，同比增長281%。第二季度核心毛利率為41%，比上年同期提高了約940個基點。"
-    },
-    {
-      "id": "mkt:019ffb5f-c10e-7aab-9027-2e5eb74865b1",
-      "time": "2026-08-13 21:46:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ExxonMobil said the power outage at its Rotterdam refinery has been resolved and operations have returned to normal."
-    },
-    {
-      "id": "5039672",
-      "time": "2026-08-13 21:45:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊高開高走】西部資料漲超2.5％，閃迪漲逾2％，sk海力士漲超2％，美光科技漲1.8％。"
-    },
-    {
-      "id": "5039671",
-      "time": "2026-08-13 21:45:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一名俄軍人員在克里米亞遇襲身亡】俄羅斯聯邦安全域性13日釋出訊息說，一名俄軍人員當天在克里米亞地區的黑海港口城市塞瓦斯托波爾被炸身亡，烏克蘭情報部門指使實施此次襲擊。俄聯邦安全域性的訊息說，一名俄羅斯籍女性嫌疑人當天在塞瓦斯托波爾實施爆炸襲擊，導致一名俄軍人員死亡。在當地民眾幫助下，該嫌疑人在案發後不久被抓獲。初步調查顯示，這名嫌疑人在烏克蘭情報部門指使下實施了這起爆炸案。目前執法人員已封鎖案發現場，並繼續調查。（新華社）"
-    },
-    {
-      "id": "mkt:019ffb5e-b51e-7aab-9027-2590a5601720",
-      "time": "2026-08-13 21:45:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Zhejiang live‑streaming economy firms top 170,000】Zhejiang's live‑commerce transaction volume reached 673.4 bln yuan in 2025, with the province hosting about 70% of China’s leading MCN agencies. As of 1H this year, live‑economy related companies in Zhejiang exceeded 170,000."
-    },
-    {
-      "id": "5039670",
-      "time": "2026-08-13 21:45:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚發言人稱，鹿特丹煉油廠的斷電故障已得到解決，目前運營一切正常。"
-    },
-    {
-      "id": "5039669",
-      "time": "2026-08-13 21:44:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股黃金礦業股盤初下跌】美股黃金礦業股盤初下跌，泛美白銀跌超7%，哈莫尼黃金跌超3%，科爾黛倫礦業跌超2%，紐曼礦業跌近3%。"
     }
   ]
 }

@@ -1,7 +1,102 @@
 {
   "date": "2026-08-20",
-  "count": 2937,
+  "count": 2947,
   "items": [
+    {
+      "id": "5050343",
+      "time": "2026-08-20 21:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打銀行：渣打成為首家在Euroclear D-FMI上發行數字原生票據的全球系統重要性銀行（G-SIB）。"
+    },
+    {
+      "id": "te:markets:576893",
+      "time": "2026-08-20 21:45:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rebounds — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, snapped a two-day losing streak on Thursday, rising about 0.5% to 2,791 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, increased by 1.2% to 4,429 points; and the supramax index went up 0.2% to a fresh high since July 28 at 1,637 points. By contrast, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell 1% to a new low since July 31 at 2,088 points."
+    },
+    {
+      "id": "mkt:01a01f6b-9682-7aab-90b8-c600b72e4dda",
+      "time": "2026-08-20 21:45:39",
+      "tags": [
+        "MKT News",
+        "VIRT.O",
+        "Impact bullish"
+      ],
+      "text": "Reportedly, Virtu is exploring a sale of its brokerage unit for more than $3.5 billion. Virtu Financial shares rose to an intraday high, up as much as 5.8%."
+    },
+    {
+      "id": "5050342",
+      "time": "2026-08-20 21:45:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "VIRTU FINANCIAL股價飆升至盤中高點，漲幅高達5.8%。"
+    },
+    {
+      "id": "te:markets:576892",
+      "time": "2026-08-20 21:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chubb Stock Price Hits 4-week Low — Chubb shares decreased to 340.68 USD, the lowest since July 2026. Over the past 4 weeks, Chubb lost 3.19%, and in the last 12 months, it increased 22.02%."
+    },
+    {
+      "id": "5050341",
+      "time": "2026-08-20 21:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "VIRTU表示將考慮以35億美元以上的價格出售其經紀業務部門。"
+    },
+    {
+      "id": "5050340",
+      "time": "2026-08-20 21:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首創環保：董事、總經理王征戍因個人原因辭任】首創環保公告稱，公司董事會收到董事、總經理王征戍的辭任報告，因個人原因，王征戍申請辭去公司董事、總經理等職務，辭任報告自送達公司董事會之日起生效，辭任後其不再擔任公司及控股子公司任何職務。王征戍原定任期到期日為2027年2月25日，不存在未履行完畢的公開承諾。本次離任未導致公司董事會成員低於法定最低人數，不會影響董事會正常運作及公司日常運營，公司將盡快履行補選董事、聘任總經理的相關程式。"
+    },
+    {
+      "id": "5050339",
+      "time": "2026-08-20 21:43:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首創環保：擬投資2.54億元建設垃圾焚燒供熱供汽專案】首創環保公告，公司子公司前海首創擬投資建設河南省新鄉市延津縣垃圾焚燒供熱供汽專案，垃圾處理規模500噸/日，專案總投資為人民幣2.54億元；同時由前海首創全資設立子公司延津縣首創供熱有限公司，前海首創現金出資7625萬元，持有其100%股權。本次交易已透過董事會審議，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:01a01f69-48b0-7aab-90b8-bcb4b1a1b049",
+      "time": "2026-08-20 21:43:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "SHFE silver 2610 turnover exceeded CNY 23.4 bln; intraday gain 2.05%, last CNY 16,443/kg. Open interest rose by more than 6,000 lots intraday; volume and open-interest activity increased in tandem."
+    },
+    {
+      "id": "5050338",
+      "time": "2026-08-20 21:43:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報906.00元。"
+    },
     {
       "id": "te:economy:576888",
       "time": "2026-08-20 21:41:55",
