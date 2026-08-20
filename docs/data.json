@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-21 06:19:18",
-  "count": 16044,
+  "updated": "2026-08-21 06:23:10",
+  "count": 16048,
   "items": [
+    {
+      "id": "5050830",
+      "time": "2026-08-21 06:22:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超30家上市公司十大流通股東中出現券商身影 】A股上市公司2026年半年報進入密集披露期，券商的重倉股也逐漸浮現。Wind資料顯示，截至8月20日中國證券報記者發稿時，超過30家上市公司十大流通股東中出現券商身影。從持倉變動情況看，2026年二季度，東莞控股獲得券商大股東增持逾170萬股，江山歐派、新天然氣等公司也獲得券商大股東加倉。億聯網路、東方電纜、羚銳製藥十大流通股東中新出現券商身影，截至二季度末，其券商大股東持倉市值均在1億元以上。（中證報）"
+    },
+    {
+      "id": "5050829",
+      "time": "2026-08-21 06:21:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【低利率疊加高波動 多資產多策略配置成破局關鍵 】當前，債券收益率中樞處於低位，傳統固收資產票息空間收窄。同時，全球股市結構分化加劇，債券市場對通脹、財政和貨幣政策變化更為敏感，原油、黃金、有色金屬等商品價格波動也有所放大。不同市場之間的聯動增強，使單純依靠股債搭配獲取穩健回報的難度上升。多位受訪人士認為，面對收益中樞下移和不確定性上升，投資者需要適當降低對單一資產的收益預期，從傳統股債組合逐步轉向多資產、多策略配置，透過拓寬收益來源、強化風險預算和動態管理，提升組合在不同市場環境下的適應能力。（中證報）"
+    },
+    {
+      "id": "mkt:01a02143-af22-7aab-90c2-12bf1a086e90",
+      "time": "2026-08-21 06:21:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "【U.S. Treasuries resume slide; Asian shares set to open lower on Friday】Oil and U.S. benchmark Treasury yields rose, and investors bet Treasury measures to curb borrowing costs may only provide short-lived relief, leaving Asian shares set to follow U.S. weakness on Friday. The U.S. Treasury may expand long-term bond repo operations and is poised to unveil a new fiscal plan, but the 30-year Treasury yield still climbed. The S&P 500 closed down 0.9%, with Walmart plunging after sales missed expectations in its largest drop since 2022; the Nasdaq 100 fell 0.7% for a fifth straight session. Index futures signalled likely lower opens in Japan, South Korea and Australia, while U.S. futures were largely flat in early trade."
+    },
+    {
+      "id": "5050828",
+      "time": "2026-08-21 06:20:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【險資7月以來“摸底”上市公司超千家次 硬科技是關注重點 】7月以來，保險機構開啟密集調研模式，積極尋找投資機會。據Wind資料統計，7月以來已有超百家保險及保險資管公司合計調研A股上市公司超1200家次。其中，電子元件、通訊裝置、積體電路等行業備受險資青睞。業內人士認為，保險資管作為長期資金的重要管理者，應堅持長期投資、價值投資，守住風險底線，以耐心資本助力高質量發展。（中證報）"
+    },
+    {
+      "id": "5050827",
+      "time": "2026-08-21 06:19:16",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【7天期逆回購持續零投放 央行靈活精準調控流動性】8月20日，央行釋出公告稱，根據公開市場業務一級交易商的需求，7天期逆回購操作量為零。當日有3274億元隔夜逆回購到期，因此，公開市場實現淨回籠3274億元。專家表示，近期7天期逆回購持續零投放，不代表流動性收緊，央行保持流動性充裕的基調沒有變化，後續有望更加註重運用多種貨幣政策工具，保持流動性充裕。（中證報）"
+    },
     {
       "id": "5050826",
       "time": "2026-08-21 06:18:22",
@@ -146767,14 +146814,6 @@
         "Important"
       ],
       "text": "New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7"
-    },
-    {
-      "id": "5040092",
-      "time": "2026-08-14 06:22:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴強烈反對多明尼加驅逐其駐多使館人員】古巴外交部13日發表宣告，強烈反對多明尼加政府驅逐10名古巴駐多使館外交人員及其家屬的決定，稱此舉嚴重損害兩國政府間關係。（新華社）"
     }
   ]
 }
