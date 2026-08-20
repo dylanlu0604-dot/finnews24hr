@@ -1,7 +1,68 @@
 {
   "date": "2026-08-20",
-  "count": 3323,
+  "count": 3329,
   "items": [
+    {
+      "id": "mkt:01a01fd6-5a65-7aab-90bd-6723b318c5d0",
+      "time": "2026-08-20 23:42:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq fell 1.0%, the Dow declined 0.8% and the S&P 500 slipped 0.4%."
+    },
+    {
+      "id": "5050566",
+      "time": "2026-08-20 23:41:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報26067.703點；道指跌0.80%，現報53036.680點；標普500指數跌0.43%，現報7674.710點。"
+    },
+    {
+      "id": "5050565",
+      "time": "2026-08-20 23:40:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續跌勢，納斯達克綜合指數<.IXIC>下跌1.00%。"
+    },
+    {
+      "id": "5050564",
+      "time": "2026-08-20 23:40:35",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【貝森特暗示或採取激進舉措以壓低收益率 】在財政部長斯科特·貝森特強調即將進行的長期國債回購規模可能超過每次40億美元后，美債收益率走勢震盪。在財政部宣佈將增加長期國債回購的次日，貝森特接受採訪。他表示，政府擁有“豐富的政策工具”來壓低收益率，並稱當前收益率並未反映經濟基本面。在貝森特開始講話後，美債收益率一度下跌，但隨後回吐了部分跌幅。"
+    },
+    {
+      "id": "te:markets:576917",
+      "time": "2026-08-20 23:39:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises to Over 2-Month High — Gold prices rose to $4,530 per ounce on Thursday, holding yesterday's rally at the highest since June as the US Treasury's intervention on bond markets lowered the dollar and reignited the debasement trade. The Treasury Department at least doubled the buyback of notes and bonds in the upcoming financial quarter. It marked another effort by Washington to contain soaring yields in the longer portion of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. The looming increase in deficit spending combined with expectations that the US government is actively suppressing borrowing costs strengthened calls that precious metals are the ideal protection to downside risks to the dollar's purchasing power."
+    },
+    {
+      "id": "5050563",
+      "time": "2026-08-20 23:39:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數大致持平，報397.84點。在十個板塊中，北歐工業板塊漲幅最大。生物解決方案公司Novonesis Novozymes（諾維信）漲9.7%，在一眾北歐個股裡領跑。"
+    },
     {
       "id": "5050562",
       "time": "2026-08-20 23:38:58",
