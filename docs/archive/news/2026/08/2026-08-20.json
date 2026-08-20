@@ -1,7 +1,119 @@
 {
   "date": "2026-08-20",
-  "count": 2497,
+  "count": 2509,
   "items": [
+    {
+      "id": "mkt:01a01efb-6cae-7aab-90b4-bb51f800a870",
+      "time": "2026-08-20 19:43:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Hermes: Inflation still Fed's primary policy concern】Karen Manner, fixed-income strategist and portfolio manager at Hermes Investment Management, said in a report that US inflation remains the Federal Reserve's primary policy concern and Fed officials have been notably consistent on this point. Policymakers now generally view the US labor market as less a source of inflationary pressure and closer to balance, shifting the policy focus from labor-market risks to inflation as the main variable."
+    },
+    {
+      "id": "5050062",
+      "time": "2026-08-20 19:43:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南華鐵：2026年上半年淨利潤2.38億元，同比降30.27%】海南華鐵公告，2026年上半年營業收入31.79億元，同比增長13.32%。歸屬於上市公司股東的淨利潤2.38億元，同比下降30.27%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2.36億元，同比下降20.57%。本報告期利潤分配預案或公積金轉增股本預案為無。"
+    },
+    {
+      "id": "5050061",
+      "time": "2026-08-20 19:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江釋出暴雨紅色預警】黑龍江省氣象臺2026年8月20日19時20分發布暴雨紅色預警訊號：過去2小時呼瑪部分鄉鎮降水量已達60～80毫米，預計未來1小時仍有20～40毫米的降水，累計雨量將超過100毫米，請注意防範。"
+    },
+    {
+      "id": "5050060",
+      "time": "2026-08-20 19:42:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成飛整合：2026年上半年淨利潤虧損5891.11萬元，同比增虧294.83%】成飛整合公告，2026年上半年營業收入10.99億元，同比增長10.80%。歸屬於上市公司股東的淨利潤虧損5891.11萬元，上年同期虧損1492.08萬元，虧損同比擴大294.83%。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5990.41萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a01efa-9de1-7aab-90b4-b192d436e4fe",
+      "time": "2026-08-20 19:42:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "09988.HK",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba's Wu Yongming: AI annualized revenue tops RMB49.5 bln】Alibaba (09988.HK) said on its fiscal 2027 Q1 analyst call that AI has become the core growth engine for Alibaba Cloud. AI-related products generated annualized recurring revenue (ARR) above RMB49.5 billion (USD7.3 billion) this quarter, accounting for 35% of Alibaba Cloud’s external commercial revenue; AI product gross margins are materially higher than the cloud average."
+    },
+    {
+      "id": "5050059",
+      "time": "2026-08-20 19:41:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無錫銀行：參與投資設立徐州農商行】8月20日，無錫銀行(600908)召開2026年第一次臨時董事會，審議透過參與投資設立江蘇徐州農村商業銀行股份有限公司的議案。根據議案，徐州轄內6家農商銀行將透過新設合併方式組建江蘇徐州農商行。無錫銀行作為股東，其所持股份將根據清產核資和資產評估結果轉換為徐州農商行股份。"
+    },
+    {
+      "id": "5050058",
+      "time": "2026-08-20 19:41:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青島食品：2026年半年度淨利潤6560.93萬元，同比增長1.37%】青島食品公告，2026年半年度營業收入2.91億元，同比增長5.39%；歸屬於上市公司股東的淨利潤6560.93萬元，同比增長1.37%；扣非淨利潤6225.46萬元，同比增長1.21%。公司擬向全體股東每10股派發現金紅利1.1元（含稅）。"
+    },
+    {
+      "id": "mkt:01a01efa-0e68-7aab-90b4-ad3b0600bfde",
+      "time": "2026-08-20 19:41:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell 1% intraday to $4,477.46/oz."
+    },
+    {
+      "id": "5050057",
+      "time": "2026-08-20 19:41:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中順潔柔：2026年上半年淨利潤2.25億元，同比增長50.13%】中順潔柔公告，2026年上半年營業收入44.1億元，同比增長1.85%。歸屬於上市公司股東的淨利潤2.25億元，同比增長50.13%；扣非淨利潤2.24億元，同比增長52.77%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050056",
+      "time": "2026-08-20 19:41:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4477.33美元/盎司。"
+    },
+    {
+      "id": "5050055",
+      "time": "2026-08-20 19:40:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吳泳銘：平頭哥AI晶片下半年將持續放量】8月20日，阿里巴巴集團釋出2027財年第一季度財報。在分析師電話會上，集團CEO吳泳銘表示，基於新一代平頭哥晶片真武M890的超節點例項，近日已上線阿里雲進行規模化銷售，下半年將持續放量以滿足客戶的旺盛需求。此前財報披露，平頭哥已建立覆蓋GPU、CPU、網路晶片的全棧自研晶片組合。真武晶片到8月初已經服務了超過650家客戶。"
+    },
+    {
+      "id": "5050054",
+      "time": "2026-08-20 19:39:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴吳泳銘：阿里AI年化收入突破495億元】8月20日，阿里巴巴集團釋出2027財年第一季度財報。在分析師電話會上，集團CEO吳泳銘表示，AI已成為阿里雲加速增長的核心引擎。本季度，阿里AI相關產品年化收入（ARR）突破495億元人民幣（73億美元），在阿里雲外部商業化收入中的佔比升至35%。AI相關產品毛利率顯著高於雲產品平均水平。"
+    },
     {
       "id": "mkt:01a01ef7-c91b-7aab-90b4-a6e6e60be13e",
       "time": "2026-08-20 19:39:10",
