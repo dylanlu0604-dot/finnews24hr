@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-20 09:48:14",
-  "count": 15673,
+  "updated": "2026-08-20 09:52:10",
+  "count": 15680,
   "items": [
+    {
+      "id": "5048889",
+      "time": "2026-08-20 09:50:00",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【直擊WRC丨宇樹科技王興興：目前人形機器人的效能相對較低，技術精進後會大規模推廣】2026世界機器人大會（WRC 2026）期間，宇樹科技創始人、董事長髮布主題演講。王興興現場解答為什麼其產品沒有進行在工廠，家庭等場景大規模推廣，“其實最主要的原因就是目前整體的效率和它的能力還是不夠，簡單來說就是雖然目前我們機器人能做一些工作，但是它的效率其實跟人比起來還是低一些。”此外，他還表示，現在人形機器人當有一些新任務時，要重新進行訓練，導致效率相對更低一點，“所以我們還是希望把技術做到更加泛化，能力更加精準，再在具體場景中進行大規模推進。”（新浪科技）"
+    },
+    {
+      "id": "5048888",
+      "time": "2026-08-20 09:49:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4490美元/盎司，日內跌0.74%。"
+    },
+    {
+      "id": "mkt:01a01cdc-4483-7aab-90a6-c03adde2f864",
+      "time": "2026-08-20 09:49:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,490/oz, down 0.73% on the day."
+    },
+    {
+      "id": "mkt:01a01cdc-43d8-7aab-90a6-beff64170ec0",
+      "time": "2026-08-20 09:49:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Unitree Robotics chairman, general manager and CTO Wang Xingxing said robotics development may accelerate beyond his prior estimates, representing a fresh starting point for the industry."
+    },
+    {
+      "id": "5048887",
+      "time": "2026-08-20 09:49:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念再度走弱 中大力德2連跌停】早盤人形機器人概念再度走弱，中大力德、正裕工業連續2日跌停，宇樹科技跌超14%，晉拓股份、臥龍電驅、埃斯頓、上緯新材均跌超7%。"
+    },
+    {
+      "id": "5048886",
+      "time": "2026-08-20 09:49:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鈦動科技宣佈完成新一輪融資】8月20日，AI營銷科技公司鈦動科技宣佈完成新一輪融資。本輪融資由華泰泛大西洋基金領投，鯤鵬光遠、廣汽資本、金沙江創投等機構跟投。鈦動科技也是華泰泛大西洋基金的首個人民幣投資專案。據悉，本輪融資資金將重點用於鈦動科技鈦極專業大模型和Navos多智慧體等AI技術的打磨，以及AI人才的引進。未來鈦動科技將圍繞智慧體商業（Agentic Commerce）、智慧體協作（Agent-to-Agent, A2A）與生成式引擎最佳化（GEO）全面佈局。"
+    },
+    {
+      "id": "5048885",
+      "time": "2026-08-20 09:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "王興興：可能未來機器人發展比我預估的還會更快一點，是一個全新的起點，全新的開始。"
+    },
+    {
+      "id": "mkt:01a01cda-ecb4-7aab-90a6-b6abbf1cf8cb",
+      "time": "2026-08-20 09:48:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Unitree Robotics chairman, general manager and CTO Wang Xingxing said the company expects a new era of rapid autonomous evolution in humanoid robots."
+    },
+    {
+      "id": "5048884",
+      "time": "2026-08-20 09:48:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞西南部一礦井發生爆炸，至少3人死亡】當地時間8月19日晚，哥倫比亞國家災害風險管理局納里尼奧省負責人加夫列爾·奧卡尼亞表示，該省波利卡爾帕市一處礦井發生爆炸事故，根據初步統計，目前已造成3人死亡、7人受傷，另有8人失蹤。納里尼奧省省長路易斯·阿方索·埃斯科瓦爾在其社交媒體表示，正協調波利卡爾帕市政府調動相關部門力量處置事故，並安排災害風險管理局人員趕赴現場。（央視新聞）"
+    },
+    {
+      "id": "5048883",
+      "time": "2026-08-20 09:47:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "王興興：未來十年，在人工智慧熱潮的推動下，機器人的進化程序將加速。"
+    },
     {
       "id": "5048882",
       "time": "2026-08-20 09:47:28",
@@ -143747,35 +143836,6 @@
         "其他"
       ],
       "text": "【八仙票房破15億】據燈塔專業版實時資料，截至8月13日9時51分，影片《八仙！》票房突破15億。"
-    },
-    {
-      "id": "5038434",
-      "time": "2026-08-13 09:51:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【乳品板塊短線拉昇，一鳴食品漲停】乳品板塊短線拉昇，一鳴食品漲停，皇氏集團此前封板，熊貓乳品、品渥食品、天潤乳業、陽光乳業、西部牧業等跟漲。"
-    },
-    {
-      "id": "te:economy:574873",
-      "time": "2026-08-13 09:50:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Reverse Repo Rate",
-        "Importance 1"
-      ],
-      "text": "PBoC Pauses 7-Day Repos for 3rd Day, Plans Big Overnight Liquidity — The People’s Bank of China (PBoC) said Thursday, August 13, it conducted zero seven-day reverse repos for a third straight day, citing demand from primary dealers. Separately, the central bank announced it will carry out up to CNY 600 billion of overnight reverse repos per day on August 14 and August 17–19. The PBoC uses these short-term liquidity tools to “fine-tune cash conditions” in the banking system, balancing market demand with stability in funding."
-    },
-    {
-      "id": "5038433",
-      "time": "2026-08-13 09:49:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：鼓勵社會資本以市場化方式建立支援企業標準創新專項基金】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，激發企業標準化創新活力。聚焦戰略性新興產業、未來產業和優勢產業，鼓勵重點產業鏈上下游企業，制定共同使用的企業標準，推動“創新鏈—標準鏈—產業鏈”融合發展。鼓勵社會資本以市場化方式建立支援企業標準創新專項基金。支援將先進企業標準化成果納入社會組織、企業等設立的社會科技獎獎勵範疇。"
     }
   ]
 }
