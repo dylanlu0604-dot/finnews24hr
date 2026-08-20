@@ -1,7 +1,192 @@
 {
   "date": "2026-08-20",
-  "count": 3153,
+  "count": 3173,
   "items": [
+    {
+      "id": "mkt:01a01fba-6637-7aab-90bb-35baade53813",
+      "time": "2026-08-20 23:11:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said core inflation has declined in both goods and services."
+    },
+    {
+      "id": "mkt:01a01fba-2244-7aab-90bb-2efa23bfed9b",
+      "time": "2026-08-20 23:11:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Washington will implement coordinated economic isolation measures."
+    },
+    {
+      "id": "5050485",
+      "time": "2026-08-20 23:11:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就伊朗問題表態：若有國家堅持與伊朗開展業務，美國將對其採取執法行動。"
+    },
+    {
+      "id": "5050484",
+      "time": "2026-08-20 23:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：目前未見武力層面 “重啟” 跡象。"
+    },
+    {
+      "id": "mkt:01a01fb9-f282-7aab-90bb-27f183da6598",
+      "time": "2026-08-20 23:11:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said on Iran that maximum economic pressure suggests military action may not be resumed, and that the oil market has misread the implications of that pressure."
+    },
+    {
+      "id": "5050483",
+      "time": "2026-08-20 23:11:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就伊朗問題表示：將採取協同一致的經濟孤立措施。"
+    },
+    {
+      "id": "5050482",
+      "time": "2026-08-20 23:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：可繼續經由南部航道派出船隻。"
+    },
+    {
+      "id": "5050480",
+      "time": "2026-08-20 23:10:30",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及伊朗問題：最大限度施加經濟壓力意味著大機率不會重啟軍事行動。"
+    },
+    {
+      "id": "mkt:01a01fb9-03f2-7aab-90bb-1e0c326b75dc",
+      "time": "2026-08-20 23:10:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent will hold a press conference on Monday to discuss actions related to Iran economic sanctions."
+    },
+    {
+      "id": "5050479",
+      "time": "2026-08-20 23:10:02",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及伊朗問題：將於週一召開新聞釋出會討論相關應對舉措。"
+    },
+    {
+      "id": "mkt:01a01fb8-bd49-7aab-90bb-128a5fd905df",
+      "time": "2026-08-20 23:09:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Bessent: U.S. Treasury will adjust to any form the Federal Reserve adopts for reducing its Treasury holdings."
+    },
+    {
+      "id": "5050478",
+      "time": "2026-08-20 23:09:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及通脹：市場指標顯示未來通脹將下行。"
+    },
+    {
+      "id": "5050477",
+      "time": "2026-08-20 23:09:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝森特講話後收益率短暫下跌：30年期國債收益率最新上漲3.16個基點，報5.227%。"
+    },
+    {
+      "id": "5050476",
+      "time": "2026-08-20 23:09:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：巴西國家石油公司簽署石油焦出口協議。"
+    },
+    {
+      "id": "mkt:01a01fb8-1bac-7aab-90bb-0a026faa3281",
+      "time": "2026-08-20 23:09:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "USTR says it is confident it can commence negotiations on reciprocal trade with Colombia."
+    },
+    {
+      "id": "5050475",
+      "time": "2026-08-20 23:08:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特：我們將應對美聯儲任何形式的縮表（美債到期回籠）  。"
+    },
+    {
+      "id": "mkt:01a01fb7-389d-7aab-90bb-0549893789f1",
+      "time": "2026-08-20 23:08:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said interest rates are unrelated to repo decisions."
+    },
+    {
+      "id": "5050474",
+      "time": "2026-08-20 23:08:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：利率與回購決定無關。"
+    },
+    {
+      "id": "mkt:01a01fb7-05c8-7aab-90ba-fd69c7e70e2e",
+      "time": "2026-08-20 23:08:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury and the Federal Reserve will coordinate on any changes to the balance sheet."
+    },
     {
       "id": "mkt:01a01fb6-e627-7aab-90ba-f52f6a62aa56",
       "time": "2026-08-20 23:07:55",
@@ -9,6 +194,15 @@
         "MKT News"
       ],
       "text": "U.S. Treasury Secretary Bessent said Vice President Vance's anti-fraud task force could save hundreds of billions of dollars."
+    },
+    {
+      "id": "5050473",
+      "time": "2026-08-20 23:07:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特表示：我們將做出調整。"
     },
     {
       "id": "mkt:01a01fb6-a3c4-7aab-90ba-e84b4c6cf531",
