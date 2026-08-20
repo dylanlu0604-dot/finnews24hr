@@ -1,7 +1,99 @@
 {
   "date": "2026-08-20",
-  "count": 1212,
+  "count": 1221,
   "items": [
+    {
+      "id": "mkt:01a01dd0-ec14-7aab-90aa-9f5b697b3777",
+      "time": "2026-08-20 14:17:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Russian Pacific Fleet fires missiles off Southern Kurils in scheduled drill】On Aug. 20 the Russian Defence Ministry said the Pacific Fleet in a planned exercise struck targets off the Southern Kurils (Japan’s Northern Territories). Targets simulated enemy ships at ranges beyond 300 km. Guided‑missile cruiser Varyag launched two Vulkan anti-ship missiles and nuclear-powered submarine Omsk fired Granit cruise missiles. The Bastion coastal-defence system on the Kurils also struck with missiles the ministry identified as \"Gaomanao\"."
+    },
+    {
+      "id": "5049147",
+      "time": "2026-08-20 14:16:28",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美債回購或許只能放緩收益率上行步伐 但難扭轉大勢】全球債券週四普遍上揚，此前美國財政部長釋放出“不惜一切代價”的訊號，力求遏制長期國債收益率持續攀升，這一表態迅速在全球市場引發漣漪。然而，只要美國經濟保持韌性，AI相關資本支出持續推動企業發行長期債券，以及高居不下的大宗商品價格再次推升通脹，美國財政部的國債回購操作或許只能改變收益率上升的速度，而無法改變其最終走勢。"
+    },
+    {
+      "id": "mkt:01a01dd0-13e0-7aab-90aa-902fa19cd8aa",
+      "time": "2026-08-20 14:16:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung accelerates construction of second Taylor fab in US】Samsung Electronics is accelerating expansion of its US advanced wafer fab capacity and is pushing equipment partners to secure SEMI certification ahead of a planned groundbreaking for a second Taylor fab by year-end, industry sources said on the 20th."
+    },
+    {
+      "id": "5049146",
+      "time": "2026-08-20 14:15:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：美為轉移自身財政問題而對伊進行新一輪經濟威脅】當地時間20日，伊朗外交部長阿拉格齊在社交媒體就美國針對伊朗的新一輪經濟威脅作出回應。阿拉格齊表示，有關對伊朗“啟動經濟行動”的威脅，意在轉移美國國內對財政問題的關注，包括高額債務和利息支出上升等。他稱，繼續堅持此前針對伊朗的相關政策，只會帶來更多失敗，並加劇伊朗民眾對美方的不滿。當地時間8月19日，美國總統特朗普在其社交媒體平臺“真實社交”發文稱，伊朗未能抓住達成協議的機會，因此他宣佈對伊朗採取“針對任何國家實施過的最嚴厲經濟行動”，稱這將是一場規模空前的“經濟戰和經濟孤立”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01dcf-49f7-7aab-90aa-8c3ef729cf72",
+      "time": "2026-08-20 14:15:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Switzerland's gold exports fell 11% MoM to 155 tonnes in July."
+    },
+    {
+      "id": "5049144",
+      "time": "2026-08-20 14:15:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“大空頭”伯裡唱空英偉達 力挺AI晶片新秀Etched】“大空頭”邁克爾·伯裡再次唱空英偉達，稱AI晶片公司Etched是其嚴峻競爭對手，後者晶片效能提升10倍、成本更低。Etched約15%員工來自英偉達，8月18日完成7億美元融資估值210億美元，其晶片僅用44天投入執行。"
+    },
+    {
+      "id": "mkt:01a01dcf-0603-7aab-90aa-80447f7671ff",
+      "time": "2026-08-20 14:15:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix publishes next-generation CPO roadmap; CPO to extend to memory interface】On Aug 20, SK Hynix and researchers from the University of Virginia published a paper in Nature Electronics outlining a roadmap for co-packaged optics (CPO) in high-performance computing and AI, including plans to extend CPO to the memory interface. This is SK Hynix’s first public disclosure of its AI interconnect architecture at this journal level."
+    },
+    {
+      "id": "5049143",
+      "time": "2026-08-20 14:14:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電子加快建設其在美國的第二座泰勒工廠 要求裝置商進行“預先認證”】三星電子正在加速擴大其在美國的先進晶圓代工廠產能。在今年年底泰勒晶圓廠第二座工廠破土動工之前，該公司正積極推進其合作伙伴裝置引進的預先認證工作。據業內人士20日透露，三星電子正在要求其主要合作伙伴獲得SEMI認證。"
+    },
+    {
+      "id": "5049142",
+      "time": "2026-08-20 14:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海力士釋出下一代CPO路線圖：CPO將延伸至記憶體介面】8月20日，SK海力士與弗吉尼亞大學等機構的研究人員在頂級科學期刊《自然·電子學》（Nature Electronics）聯合發表論文，系統闡述了共封裝光學（CPO）技術在高效能運算與AI領域的發展路線圖。這是SK海力士首次在該級別期刊公開其AI互聯架構的技術藍圖。"
+    },
     {
       "id": "5049141",
       "time": "2026-08-20 14:13:27",
