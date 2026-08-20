@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-20 07:56:36",
+  "updated": "2026-08-20 08:00:27",
   "count": 15659,
   "items": [
+    {
+      "id": "5048726",
+      "time": "2026-08-20 07:59:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：半導體裝置全球景氣週期持續確認 關注出海程序】中信建投研報稱，半導體裝置方面，全球景氣週期持續確認，關注出海程序。SEMI更新預測、預計半導體裝置未來3年持續增長。SEMI預計2026年全球半導體制造裝置銷售額將創下1659億美元的歷史新高，同比+23.2%。增長勢頭預計將持續至2028年，總裝置銷售額有望達到創紀錄的2295億美元，實現連續五年增長。全球半導體裝置零部件正經歷一輪歷史罕見的全鏈條漲價潮。半導體產業鏈的定價權正從晶片終端向裝置與零部件環節結構性上移。零部件企業規模較小、固定成本佔比高，漲價直接轉化為利潤；同時產線擴產週期長達12—18個月，供給彈性最差。重視閥門管路、陶瓷件、射頻電源、GAS BOX等海外供應商交期延長帶來的國產替代訴求與漲價邏輯。"
+    },
+    {
+      "id": "5048725",
+      "time": "2026-08-20 07:59:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海啟動百業千企10×100 AI場景共創計劃 培養複合型人才】近日，上海交通大學聯合上海市人工智慧協會、上海市人工智慧研究院等單位，共同發起成立AI時代商科人才培養聯盟，並啟動百業千企10×100 AI場景共創計劃，為人工智慧技術產業落地培養既懂技術又善管理的複合型人才。（央視新聞）"
+    },
+    {
+      "id": "5048724",
+      "time": "2026-08-20 07:58:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下跌6個基點至3.715%。日本10年期國債收益率下降3.5個基點，報2.855%。"
+    },
+    {
+      "id": "5048723",
+      "time": "2026-08-20 07:58:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：A股自7月底以來的修復行情仍有望延續】中金公司指出，影響市場的幾項外部敘事仍偏短期、階段性，A股自7月底以來的修復行情仍有望延續。配置層面，外部衝擊下市場波動加大，紅利風格19日重新佔優。後續隨著市場風險偏好逐步修復和業績高峰期臨近，我們建議關注業績確定性較強的領域和企業。關注兩大主線：1、景氣成長仍需要精挑細選：科技板塊經過調整後擁擠度已明顯回落，景氣度足夠高的產業能夠實現分子端高增長對沖分母端拖累的效果，AI基礎設施相關環節，如光通訊、PCB等環節，高景氣狀態在今年確定性仍較強，半導體及算力等領域較多公司則仍需要關注基本面與估值的匹配程度，科技成長後市或呈現分化走勢；創新藥較多公司進入臨床資料驗證階段，值得自下而上關注。2、週期改善：越來越多領域基本面正從週期底部回升，我們建議綜合考慮地緣局勢與產能週期位置，關注業績向好及供需格局改善的領域，如電網裝置、石化化工、工程機械，以及受益資本市場向好的非銀金融等行業；有色金屬金屬板塊經歷較多調整後也值得關注。純內需行業的基本面回升進展仍然相對偏緩，需要進一步觀察。（第一財經）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608203846937834",
+      "time": "2026-08-20 07:57:11",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月對美國出口較上年同期增長22.0%；日本7月對歐洲出口較上年同期增長19.1%。"
+    },
+    {
+      "id": "mkt:01a01c74-3f52-7aab-90a3-aebb3019e89a",
+      "time": "2026-08-20 07:56:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SNOW.O",
+        "Impact bullish",
+        "MSFT.O",
+        "NVDA.O"
+      ],
+      "text": "【CSC Financial: Physical AI seen as core variable for next-phase AI growth】A CSC Financial research note says physical AI is set to become the core driver of the next phase of AI growth. Physical-world data — the perception-to-feedback engine — faces a large, inelastic demand shortfall. Constrained by a fidelity–scale–cost trilemma, data acquisition is likely to prompt three market shifts: business models toward crowdsourced data collection, technical paradigms toward world-model–based synthetic data generation, and the reclassification of physical data as high-value intangible corporate assets. The supply–demand imbalance should reprice physical-data assets and accelerate capital into data infrastructure and evaluation datasets. Market leadership is unresolved; firms that control scarce physical data and closed-loop synthetic-data capabilities are likely to capture premium valuations."
+    },
     {
       "id": "mkt:01a01c71-eb17-7aab-90a3-a027bd40dcb1",
       "time": "2026-08-20 07:53:42",
@@ -143507,61 +143564,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。"
-    },
-    {
-      "id": "5038252",
-      "time": "2026-08-13 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報68033.17點，漲幅0.75％。韓國綜合股價指數（KOSPI）開盤上漲3％，至6773.92點。"
-    },
-    {
-      "id": "5038251",
-      "time": "2026-08-13 08:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破89美元/桶，日內跌0.66%。"
-    },
-    {
-      "id": "5038250",
-      "time": "2026-08-13 07:58:33",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：海峽通航風險難以徹底化解】中信證券研報認為，美以伊衝突已延宕逾五個月，針對近期市場關注的伊朗-阿曼潛在通航協議，我們認為該協議無法徹底化解海峽通航風險，中東局勢或仍將處於特朗普在 “TACO式退讓”與“惱羞成怒式升級”之間反覆迴圈的僵局之中。究其原因，一來該協議本質是伊朗對美施壓工具，但其強硬態度將直接危及特朗普的政治遺產，因而雙方談判難有進展。二來各方圍繞海峽控制權仍存在結構性矛盾，或難形成長期穩定的管理制度。綜合來看，後續真正具有觀測意義的訊號是美國是否正式啟動制裁豁免、資產解凍及海上封鎖調整。展望後續影響，在中短期，即使各方達成海峽管理安排並解除封鎖，通航量也未必能夠迅速、完全恢復至戰前水平。在有限通航情景下，全球通脹壓力仍在，但極端風險可控。在長期，圍繞霍爾木茲海峽的博弈顯示美國維護全球秩序的能力和意願正加速衰落，並將推動中東地緣格局與全球供應鏈加速重構。"
-    },
-    {
-      "id": "te:economy:574841",
-      "time": "2026-08-13 07:58:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Japan Producer Prices Rise Less than Estimated — Japan’s producer prices rose 7.2% year-on-year in July 2026, easing slightly from a marginally revised 7.3% increase in the prior month, which had been the fastest pace in more than three years. The latest reading came in slightly below market expectations of 7.4%. On a monthly basis, producer prices edged up 0.1%, slowing sharply from an upwardly revised 0.5% gain in June and marking the weakest monthly gain in five months."
-    },
-    {
-      "id": "mkt:019ff869-a70e-7aab-9014-a116c2860a6e",
-      "time": "2026-08-13 07:58:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Washington Post, citing US officials, reports that during President Trump’s visit to Turkey Israel provided intelligence indicating his life was at risk; officials say the warnings may have been intended to influence his decision-making."
-    },
-    {
-      "id": "5038249",
-      "time": "2026-08-13 07:57:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美最高法院簽發一日臨時暫停令，蘋果獲延期提交App Store費率方案】當地時間8月12日，美國最高法院大法官埃琳娜·卡根簽發了一項行政暫停令，宣佈暫時凍結加州聯邦地區法院關於蘋果公司與《堡壘之夜》開發商Epic Games之間長期反壟斷訴訟的下級審理程式。此舉旨在為最高法院爭取更多審議時間，以決定是否批准蘋果提出的長期暫停下級法院進一步訴訟行動的申請。不過，這項臨時暫停令僅為期一天，將訴訟程式凍結至華盛頓時間13日下午5點，使蘋果暫時免於在原定12日截止日前向地區法院提交費率方案。"
     }
   ]
 }
