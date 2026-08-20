@@ -1,7 +1,144 @@
 {
-  "updated": "2026-08-20 08:00:27",
-  "count": 15659,
+  "updated": "2026-08-20 08:04:17",
+  "count": 15663,
   "items": [
+    {
+      "id": "mkt:01a01c7a-f568-7aab-90a3-c9fd2a4ed433",
+      "time": "2026-08-20 08:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department: U.S. Secretary of State Rubio will meet with Canada’s foreign minister on Thursday."
+    },
+    {
+      "id": "5048736",
+      "time": "2026-08-20 08:03:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯創電子：2026年上半年營收31.93億元 淨虧損3.58億元】聯創電子公告稱，2026年上半年實現營業收入31.93億元，同比下降24.34%；歸屬於上市公司股東的淨虧損3.58億元，同比下降1585.66%；扣除非經常性損益的淨虧損3.71億元，同比下降1060.43%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。此外，公司控股股東江西鑫盛擬向壽縣新橋轉讓7.27%公司股份，轉讓完成後公司控股股東及實際控制人將發生變更。"
+    },
+    {
+      "id": "5048735",
+      "time": "2026-08-20 08:03:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創益通：2026年度定增股票申請獲深交所受理】創益通公告稱，公司近日收到深交所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。"
+    },
+    {
+      "id": "5048734",
+      "time": "2026-08-20 08:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技：發行股份購買資產獲證監會註冊批覆】TCL科技公告稱，公司擬發行股份及支付現金購買廣東恆健投資控股有限公司、廣州城發星光投資合夥企業（有限合夥）、科學城（廣州）投資集團有限公司合計持有的廣州華星光電半導體顯示技術有限公司45.00%股權。公司於2026年8月19日收到證監會出具的同意本次發行股份購買資產註冊的批覆，批覆自下發之日起12個月內有效。公司將在規定期限內辦理本次交易相關事宜。"
+    },
+    {
+      "id": "5048733",
+      "time": "2026-08-20 08:02:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【天山鋁業：二季度氧化鋁生產成本較一季度略有下降】天山鋁業8月19日在業績說明會表示，二季度氧化鋁生產成本較一季度略有下降，主要得益於去年的高價鋁土礦庫存的逐步消化，若後續鋁土礦採購價尤其是海運費下降，將對氧化鋁成本下降產生積極影響。預焙陽極方面，受石油焦價格同比上漲的影響，二季度成本較一季度略有增加。電力方面，二季度成本較一季度略有下降。"
+    },
+    {
+      "id": "te:markets:576627",
+      "time": "2026-08-20 08:02:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Rally on Lower Treasury Yields — Gold held above $4,500 an ounce on Thursday after surging more than 4% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus."
+    },
+    {
+      "id": "5048732",
+      "time": "2026-08-20 08:02:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：魯比奧將於週四下午1點30分（北京時間週五凌晨1:30）會見加拿大外交部長。"
+    },
+    {
+      "id": "mkt:01a01c79-aa53-7aab-90a3-c2e81cbf8408",
+      "time": "2026-08-20 08:02:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea stock indices open higher】Aug 20 (Thu) Japan's Nikkei 225 opened up 461.11 points (+0.71%) at 65,787.53; South Korea's KOSPI opened 3.2% higher."
+    },
+    {
+      "id": "5048731",
+      "time": "2026-08-20 08:01:45",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士股價在首爾上漲逾7%，此前該公司宣佈了回購計劃。"
+    },
+    {
+      "id": "mkt:01a01c79-1619-7aab-90a3-bb73144b7aa3",
+      "time": "2026-08-20 08:01:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk, responding to reports that SpaceX sought to acquire Cognition, said discussions with Cognition were limited to ensuring Grok could meet their needs."
+    },
+    {
+      "id": "5048730",
+      "time": "2026-08-20 08:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克就SpaceX試圖收購Cognition的報道回應：除了確保Grok能很好地滿足他們的需求外，我們未與Cognition進行任何其他商談。"
+    },
+    {
+      "id": "mkt:01a01c78-afda-7aab-90a3-b42adb17e9af",
+      "time": "2026-08-20 08:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Market Regions",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year government bond yield fell 6 bps to 3.715%."
+    },
+    {
+      "id": "5048729",
+      "time": "2026-08-20 08:00:58",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市高開】日經225指數高開0.6%，韓國首爾綜指高開3.2%。"
+    },
+    {
+      "id": "5048728",
+      "time": "2026-08-20 08:00:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊：正積極配合客戶推進下一代更高密度、更多通道的光連線解決方案開發】天孚通訊8月19日在機構現場參觀時表示，公司面向CPO應用的FAU、ELS外接光源等相關產品目前處於交付狀態。依託在光學耦合、精密製造及批次交付方面的長期積累，公司相關產品在效能、良率及交付保障等方面具備較好的基礎。同時，公司研發團隊正積極配合客戶推進下一代更高密度、更多通道的光連線解決方案開發。"
+    },
+    {
+      "id": "5048727",
+      "time": "2026-08-20 08:00:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊：第三季度起，相關物料短缺狀況已逐步得到緩解】天孚通訊8月19日在機構現場參觀時表示，上半年，個別物料階段性供給緊缺，對公司有源光器件產品提產造成了一定影響。針對相關臨時性短缺情況，公司及時採取了積極應對措施，包括匯入新供應商，以保障相關核心物料的穩定交付。從目前情況看，自2026年第三季度起，相關物料短缺狀況已逐步得到緩解，供應情況整體呈改善趨勢。後續，公司將持續加強風險物料的供應鏈管理，以“保交付”為核心，提升物料保障能力，更好支援客戶提產需求。"
+    },
     {
       "id": "5048726",
       "time": "2026-08-20 07:59:40",
@@ -143457,113 +143594,6 @@
         "美聯儲"
       ],
       "text": "【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。"
-    },
-    {
-      "id": "mkt:019ff86e-9425-7aab-9014-c7fc187b9cc8",
-      "time": "2026-08-13 08:03:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "South Korea's KOSPI jumped 4.00% intraday to 6,843.21 points."
-    },
-    {
-      "id": "5038260",
-      "time": "2026-08-13 08:03:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲4%，至6843.21點。"
-    },
-    {
-      "id": "5038259",
-      "time": "2026-08-13 08:03:16",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。"
-    },
-    {
-      "id": "5038257",
-      "time": "2026-08-13 08:02:08",
-      "tags": [],
-      "text": "三星電子漲4％，SK海力士漲5％。"
-    },
-    {
-      "id": "mkt:019ff86c-e18a-7aab-9014-bcf88f22652f",
-      "time": "2026-08-13 08:01:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened up 580.21 points, or 0.86%, at 68,104.27 on Thursday, Aug. 13."
-    },
-    {
-      "id": "mkt:019ff86c-cebc-7aab-9014-b7082cd523cb",
-      "time": "2026-08-13 08:01:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13."
-    },
-    {
-      "id": "5038256",
-      "time": "2026-08-13 08:01:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲超4%。"
-    },
-    {
-      "id": "mkt:019ff86c-a589-7aab-9014-adf7e0a33813",
-      "time": "2026-08-13 08:01:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI up 3.38% in early trade; Samsung Electronics +4%, SK Hynix +5%."
-    },
-    {
-      "id": "5038255",
-      "time": "2026-08-13 08:01:17",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）較7月30日低點上漲20%。"
-    },
-    {
-      "id": "5038254",
-      "time": "2026-08-13 08:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經指數在交易時段內升至68000點以上，為自7月16日以來首次。"
-    },
-    {
-      "id": "5038253",
-      "time": "2026-08-13 08:00:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。"
     }
   ]
 }
