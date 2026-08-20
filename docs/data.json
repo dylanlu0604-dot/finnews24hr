@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-21 00:57:00",
-  "count": 16059,
+  "updated": "2026-08-21 01:00:55",
+  "count": 16056,
   "items": [
+    {
+      "id": "5050647",
+      "time": "2026-08-21 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.19%，滬銅收漲0.04%，滬鋁收跌0.47%，滬鋅收漲0.79%，滬鉛收漲1.10%，滬鎳收跌0.94%，滬錫收漲0.79%。氧化鋁夜盤收漲0.45%，鋁合金收跌0.33%。不鏽鋼夜盤收跌1.39%。"
+    },
+    {
+      "id": "5050646",
+      "time": "2026-08-21 00:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：媒體從未提到，當弗洛伊德（美國著名社會案件弗洛伊德案當事人）抱怨呼吸困難時，警察立即叫了救護車。 對“兇手”來說，這可真是反常的行為。"
+    },
+    {
+      "id": "5050645",
+      "time": "2026-08-21 00:59:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.740美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a0201b-bcf6-7aab-90be-79f43301d8d9",
+      "time": "2026-08-21 00:58:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "According to Russian Business Daily, President Putin said Russia plans to build new nuclear power plants, including small modular reactor (SMR) projects, targeting an additional 30 GW of generation capacity."
+    },
+    {
+      "id": "5050644",
+      "time": "2026-08-21 00:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：很高興接待日本防衛大臣小泉進次郎。就深化印度與日本之間的防務和安全聯絡進行會談。我們特殊的戰略與全球夥伴關係是廣泛區域和平、穩定與繁榮的重要支柱。"
+    },
     {
       "id": "5050643",
       "time": "2026-08-21 00:55:01",
@@ -146895,81 +146938,6 @@
         "公司"
       ],
       "text": "谷歌：3.7 Flash模型將以每百萬輸入token0.75美元、每百萬輸出token3.75美元的推介價格提供，直至年底。"
-    },
-    {
-      "id": "mkt:019ffc11-d396-7aab-902b-4b9f429d8a4e",
-      "time": "2026-08-14 01:00:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) launches the Gemini 3.7 Flash model."
-    },
-    {
-      "id": "5039908",
-      "time": "2026-08-14 01:00:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：推出GEMINI 3.7 FLASH。"
-    },
-    {
-      "id": "5039907",
-      "time": "2026-08-14 01:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦儲備理事會(FED)資料顯示，8月12日當週，經非季節性調整的美國商業票據未償還金額減少11億美元。"
-    },
-    {
-      "id": "5039906",
-      "time": "2026-08-14 01:00:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國聯邦儲備理事會(美聯儲/FED)資料顯示，8月12日當週，經非季節性調整的美國外國金融商業票據未償還餘額增加109億美元。。"
-    },
-    {
-      "id": "5039905",
-      "time": "2026-08-14 01:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦儲備理事會(FED)資料顯示，8月12日當週經季節調整的美國商業票據未償還餘額增加16億美元。"
-    },
-    {
-      "id": "5039904",
-      "time": "2026-08-14 01:00:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國機器人吸塵器品牌MATIC新增全語音控制選項。"
-    },
-    {
-      "id": "5039903",
-      "time": "2026-08-14 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收跌0.03%，滬鋁收跌0.62%，滬鋅收跌0.04%，滬鉛收跌0.81%，滬鎳收跌0.88%，滬錫收漲0.07%。氧化鋁夜盤收漲0.26%，鋁合金收跌0.90%。不鏽鋼夜盤收跌0.83%。"
-    },
-    {
-      "id": "mkt:019ffc10-d42d-7aab-902b-401a9f97a49f",
-      "time": "2026-08-14 00:59:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US forms first multinational UAS task force to bolster Middle East strike capability】CENTCOM announced on Aug. 13 it has formed a multi-domain, multinational unmanned systems strike task force, Falcon Strike, to integrate unmanned combat capability across the Middle East. Falcon Strike will field air, surface and subsurface one-way attack unmanned systems operated jointly by US and regional partner forces. The unit follows CENTCOM’s first dedicated UAS strike task force, Scorpion Strike, stood up nine months earlier; Scorpion achieved milestones including the first ship-launched aerial attack UAS in December and deployments in Operation Epic Anger and July strikes on Iranian port facilities. CENTCOM commander Brad Cooper said Falcon Strike will build on Scorpion Strike’s experience to integrate new US and partner capabilities into a unified multi-domain, multinational deterrent."
     }
   ]
 }
