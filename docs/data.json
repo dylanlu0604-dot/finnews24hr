@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-21 01:04:51",
-  "count": 16051,
+  "updated": "2026-08-21 01:08:49",
+  "count": 16054,
   "items": [
+    {
+      "id": "mkt:01a02024-302a-7aab-90be-a0cbcd110681",
+      "time": "2026-08-21 01:07:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury yields were little changed after a 30-year TIPS auction; the 30-year TIPS yield rose 2.9 bps to 2.99%."
+    },
+    {
+      "id": "5050658",
+      "time": "2026-08-21 01:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN：自8月20日起，KRAKEN不再支援透過ARBITRUM NOVA網路進行存取款。"
+    },
+    {
+      "id": "mkt:01a02023-5d23-7aab-90be-9e602643a517",
+      "time": "2026-08-21 01:06:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EPA: U.S. generated 796 mln biodiesel (D4) RINs in July, down from 841 mln in June. U.S. generated 1.29 bln ethanol (D6) RINs in July, up from 1.28 bln in June."
+    },
+    {
+      "id": "5050657",
+      "time": "2026-08-21 01:05:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期通脹保值國債拍賣後，美國國債收益率基本持平；30年期通脹保值國債收益率上漲2.9個基點，報2.99%。"
+    },
+    {
+      "id": "5050656",
+      "time": "2026-08-21 01:04:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署（EPA）資料顯示，7月美國生成了12.9億單位D6乙醇調合信用額，6月該數值為12.8億單位。"
+    },
+    {
+      "id": "5050655",
+      "time": "2026-08-21 01:04:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署（EPA）資料顯示，7月美國生成了7.96億加侖生物柴油（D4）調合額度，6月該數值為8.41億加侖。"
+    },
+    {
+      "id": "5050654",
+      "time": "2026-08-21 01:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：交易金額未披露，據信規模達數十億日元（接上條）。"
+    },
     {
       "id": "5050653",
       "time": "2026-08-21 01:04:16",
@@ -146844,42 +146907,6 @@
         "Impact bullish"
       ],
       "text": "Google (GOOG.O): GEMINI 3.7 Flash outperforms GEMINI 3.6 Flash on complex document processing."
-    },
-    {
-      "id": "5039917",
-      "time": "2026-08-14 01:08:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。"
-    },
-    {
-      "id": "mkt:019ffc17-c526-7aab-902b-9234d06e21c1",
-      "time": "2026-08-14 01:07:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Star Stocks",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) says Gemini Spark will use Gemini 3.7 Flash effective today."
-    },
-    {
-      "id": "5039916",
-      "time": "2026-08-14 01:06:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國食品藥品監督管理局授予藥物緊急使用授權，用於治療犬類新世界螺旋蠅感染。"
-    },
-    {
-      "id": "5039915",
-      "time": "2026-08-14 01:06:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。"
     }
   ]
 }

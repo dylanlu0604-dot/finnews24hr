@@ -1,7 +1,70 @@
 {
   "date": "2026-08-21",
-  "count": 114,
+  "count": 121,
   "items": [
+    {
+      "id": "mkt:01a02024-302a-7aab-90be-a0cbcd110681",
+      "time": "2026-08-21 01:07:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury yields were little changed after a 30-year TIPS auction; the 30-year TIPS yield rose 2.9 bps to 2.99%."
+    },
+    {
+      "id": "5050658",
+      "time": "2026-08-21 01:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN：自8月20日起，KRAKEN不再支援透過ARBITRUM NOVA網路進行存取款。"
+    },
+    {
+      "id": "mkt:01a02023-5d23-7aab-90be-9e602643a517",
+      "time": "2026-08-21 01:06:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EPA: U.S. generated 796 mln biodiesel (D4) RINs in July, down from 841 mln in June. U.S. generated 1.29 bln ethanol (D6) RINs in July, up from 1.28 bln in June."
+    },
+    {
+      "id": "5050657",
+      "time": "2026-08-21 01:05:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期通脹保值國債拍賣後，美國國債收益率基本持平；30年期通脹保值國債收益率上漲2.9個基點，報2.99%。"
+    },
+    {
+      "id": "5050656",
+      "time": "2026-08-21 01:04:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署（EPA）資料顯示，7月美國生成了12.9億單位D6乙醇調合信用額，6月該數值為12.8億單位。"
+    },
+    {
+      "id": "5050655",
+      "time": "2026-08-21 01:04:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署（EPA）資料顯示，7月美國生成了7.96億加侖生物柴油（D4）調合額度，6月該數值為8.41億加侖。"
+    },
+    {
+      "id": "5050654",
+      "time": "2026-08-21 01:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：交易金額未披露，據信規模達數十億日元（接上條）。"
+    },
     {
       "id": "5050653",
       "time": "2026-08-21 01:04:16",
