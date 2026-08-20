@@ -1,7 +1,82 @@
 {
   "date": "2026-08-20",
-  "count": 898,
+  "count": 906,
   "items": [
+    {
+      "id": "5048953",
+      "time": "2026-08-20 10:34:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【新加坡當局開始調查鐵礦石貿易商Radiant World】新加坡警方一位發言人週四表示，在收到有關鐵礦石貿易商Radiant World的報告後，當局已開始對該公司展開調查。據知情人士此前透露，由於部分交易對手擔心Radiant World曾向銀行提供與鐵礦石交易相關的偽造檔案，美國司法部正在調查該公司的業務。部分知情人士稱，美國商品期貨交易委員會也在審查涉及Radiant World及其債權人的交易。Radiant World尚未被指控存在任何不當行為，而調查也不一定會導致正式指控。該公司上週晚些時候表示，尚未獲悉美國方面正在進行的任何調查。"
+    },
+    {
+      "id": "5048952",
+      "time": "2026-08-20 10:33:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【文化傳媒概念板塊短線拉昇，百納千成漲超10%】文化傳媒概念板塊短線拉昇，百納千成漲超10%，凱撒文化、吉視傳媒、歡瑞世紀、因賽集團、天龍集團等跟漲。"
+    },
+    {
+      "id": "5048951",
+      "time": "2026-08-20 10:32:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數漲1%，東證指數漲0.9%。"
+    },
+    {
+      "id": "te:markets:576692",
+      "time": "2026-08-20 10:31:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Fortescue Metals earnings above expectations at 0.55 USD — Fortescue Metals (FMG) released earnings per share at 0.55 USD, compared to market expectations of 0.54 USD."
+    },
+    {
+      "id": "te:economy:576691",
+      "time": "2026-08-20 10:31:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Lingers Near 1-Year Low — China's 10-year government bond yield rose toward 1.69% on Thursday but remained near its lowest level since July 2025 after the People's Bank of China left its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The central bank left the one-year loan prime rate (LPR) at 3.0% and the five-year LPR at 3.5%, signaling a measured policy approach as it reiterated its commitment to maintaining an accommodative monetary stance. Meanwhile, expectations for additional stimulus measures remain elevated following a string of weak July economic indicators, including softer industrial output, retail sales, and fixed-asset investment data. Looking ahead, markets are turning their attention to the National People's Congress Standing Committee meeting in Beijing from August 25 to 28, where investors will watch closely for fresh policy guidance and potential stimulus measures to support economic recovery."
+    },
+    {
+      "id": "5048950",
+      "time": "2026-08-20 10:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震死亡人數升至319人】哥倫比亞國家災害風險管理局19日晚公佈的最新資料顯示，截至當地時間19日18時30分，該國西部強震已造成319人死亡、4469人受傷、260人失蹤，另有364人獲救。資料顯示，哥倫比亞全國有15個省的476個市鎮受到此次地震影響，受災人數達27.2萬人。"
+    },
+    {
+      "id": "mkt:01a01d01-cfb0-7aab-90a7-5613542a5875",
+      "time": "2026-08-20 10:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV quoted the U.S. ambassador to Israel as saying he did not believe the Mecca Defense Agreement signed by Saudi Arabia, Turkey and Pakistan would undermine regional stability, noting the three countries view enhanced security cooperation as beneficial and appear to have no intent to provoke conflict."
+    },
+    {
+      "id": "5048949",
+      "time": "2026-08-20 10:30:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統簽署法令，宣佈進入為期30天的經濟緊急狀態。"
+    },
     {
       "id": "mkt:01a01d01-413c-7aab-90a7-48e9eb7b4444",
       "time": "2026-08-20 10:30:16",
