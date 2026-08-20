@@ -1,7 +1,66 @@
 {
   "date": "2026-08-21",
-  "count": 280,
+  "count": 287,
   "items": [
+    {
+      "id": "mkt:01a020a0-83eb-7aab-90c0-5a03e722a75f",
+      "time": "2026-08-21 03:23:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Oil and data centers vie for power in West Texas; Permian faces outage risk】Surging power demand from oil and gas producers in West Texas, alongside tech firms building data centers in the Permian, is sharply increasing local electricity needs. Diamondback, one of the Permian’s largest oil producers, says its power consumption could double over the next decade even if output stays flat. A Citigroup analyst warned Thursday the region could face blackouts as soon as next summer. Executives from the Texas grid operator and state utility regulators testified this week to the Texas House State Affairs Committee on the need to add transmission lines."
+    },
+    {
+      "id": "5050765",
+      "time": "2026-08-21 03:21:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會（ICI）資料：美國貨幣市場基金規模升至 7.93 萬億美元。"
+    },
+    {
+      "id": "5050764",
+      "time": "2026-08-21 03:20:42",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗調查：預計 2026 年末墨西哥比索兌美元匯率為1美元兌17.68比索，預計 2027 年末為1美元兌18.24比索。"
+    },
+    {
+      "id": "5050763",
+      "time": "2026-08-21 03:17:36",
+      "tags": [
+        "資料",
+        "觀點"
+      ],
+      "text": "花旗調查：墨西哥 2026 年消費者物價指數（CPI）預期為 4.00%，此前預期 4.02%。"
+    },
+    {
+      "id": "5050762",
+      "time": "2026-08-21 03:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：兩名幣安員工在阿聯酋遭警方調查期間被拘留。"
+    },
+    {
+      "id": "5050761",
+      "time": "2026-08-21 03:15:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：“亞伯拉罕・林肯” 號航母於週四啟程返回聖地亞哥母港，結束為期九個月的部署任務，該部署大部分時間用於支援美國針對伊朗的軍事行動。駐日部署的 “喬治・華盛頓” 號航母已接替林肯號進駐中東。"
+    },
+    {
+      "id": "mkt:01a02098-2592-7aab-90c0-57b08158e467",
+      "time": "2026-08-21 03:13:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN, citing sources, reports the US aircraft carrier USS Abraham Lincoln has begun returning to port but remains in the US Fifth Fleet area of operations."
+    },
     {
       "id": "mkt:01a0208f-f712-7aab-90c0-4f5214a7117c",
       "time": "2026-08-21 03:05:00",
