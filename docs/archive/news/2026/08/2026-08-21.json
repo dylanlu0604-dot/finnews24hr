@@ -1,7 +1,79 @@
 {
   "date": "2026-08-21",
-  "count": 121,
+  "count": 129,
   "items": [
+    {
+      "id": "te:markets:576946",
+      "time": "2026-08-21 01:11:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Rises to 2-Month High — Silver prices rose to $68.2 per ounce on Wednesday, the highest in two months, on strong industrial demand and support from a reignition in the debasement trade. The US Treasury announced it would double the buyback of long-term maturities, adding to other efforts that limit the surge in longer ends of the curve. Besides lowering borrowing costs, the signal that the federal government is actively attempting to supress yields lifted the outlook on dollar liquidity, raised risks on higher deficit spending, and turned investors to repivot toward hard assets that defend across a lower purchasing power. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes, in line with an expanding production for solar panels and electricity grids to accommodate for the soaring electrification trend pushed by the central government."
+    },
+    {
+      "id": "5050663",
+      "time": "2026-08-21 01:11:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國發布新的伊朗相關制裁。"
+    },
+    {
+      "id": "mkt:01a02028-111f-7aab-90be-b744260dfbc6",
+      "time": "2026-08-21 01:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury issues general licenses related to Cuba."
+    },
+    {
+      "id": "5050662",
+      "time": "2026-08-21 01:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基： 澤連斯基要求加強國防協同——審計國際協議、強化防空並最佳化軍隊管理 】澤連斯基：“我期望國防部與我們的國防及安全部隊能夠協同作戰。對所有與國際夥伴達成的協議進行全面審計至關重要，必須明確哪些已經落實，哪些仍在等待執行。防空與反導能力是我們的首要任務，尤其是在冬季來臨之前。葉夫根尼·赫馬拉（Yevhenii Khmara）在我們國家安全域性（SSU）任職期間，在縱深打擊行動方面積累了豐富經驗。我期望未來能開展更多此類行動，並且我相信赫馬拉將繼續親自負責監督這一事務。"
+    },
+    {
+      "id": "mkt:01a02027-e6d0-7aab-90be-aad35cb3a26f",
+      "time": "2026-08-21 01:11:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury announces new Iran-related sanctions."
+    },
+    {
+      "id": "5050661",
+      "time": "2026-08-21 01:09:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國、法國、義大利和英國領導人聯合宣告：我們要求以色列立即撤回E1專案，並停止在約旦河西岸的定居點擴張。"
+    },
+    {
+      "id": "5050660",
+      "time": "2026-08-21 01:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【12306汽車託運訂單爆了】自駕新疆玩一圈，幾千公里開回來太累？現在有個新玩法——你坐飛機回家，讓你的車坐火車。旅遊平臺資料顯示，自今年6月獨庫公路恢復通車後，相關關鍵詞搜尋量環比暴漲166%，伊犁環線遊、南疆深度遊等長線自駕客流顯著增長，鐵路部門直接開了11條託運線路，烏魯木齊到北京、成都、重慶、西安，專列直達。車內還能塞行李和新疆特產，人先走，車後到。 怎麼辦？全程操作超簡單！12306 App搜“汽車託運”，線上預約、線下驗車交接、到站簽收三步搞定。車輛全程密閉車廂運輸，專業固定防護，安全又穩妥。截至目前全國鐵路已經開通46條汽車託運線路，覆蓋北京、廣州、成都、烏魯木齊等熱門旅遊城市，今年暑期以來，全國汽車託運訂單超過1萬輛，同比增長70.5%，其中新疆、西藏是熱門地區，訂單量同比增長2.7倍。（央視財經）"
+    },
+    {
+      "id": "5050659",
+      "time": "2026-08-21 01:08:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 蒙特德伊帕斯基銀行準備對忠利銀行、Banco BPM 提交收購報價。"
+    },
     {
       "id": "mkt:01a02024-302a-7aab-90be-a0cbcd110681",
       "time": "2026-08-21 01:07:17",
