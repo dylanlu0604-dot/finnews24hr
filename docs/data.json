@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-20 09:16:27",
-  "count": 15642,
+  "updated": "2026-08-20 09:20:22",
+  "count": 15646,
   "items": [
+    {
+      "id": "5048820",
+      "time": "2026-08-20 09:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國中鐵總裁趙佃龍會見強腦科技客人】據中國中鐵訊息，8月17日，中國中鐵總裁、黨委副書記趙佃龍會見強腦科技合夥人何熙昱錦一行，雙方就加強推動傳統產業轉型升級、未來產業創新培育開展深入交流，並對企業數智化、融合化發展進行廣泛研討。"
+    },
+    {
+      "id": "mkt:01a01cc0-0a65-7aab-90a5-3d6dd042e9d6",
+      "time": "2026-08-20 09:19:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Polish military says it has launched precautionary military air operations after Russian air strikes on Ukraine."
+    },
+    {
+      "id": "5048819",
+      "time": "2026-08-20 09:18:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方在X平臺表示，在俄羅斯對烏克蘭發動打擊期間，波蘭啟動預防性軍事航空行動。"
+    },
+    {
+      "id": "te:markets:576658",
+      "time": "2026-08-20 09:18:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Firm — The New Zealand dollar hovered around $0.593 after rising 1% in the previous session to a two-and-a-half-month high, as the US dollar tumbled and Treasury yields retreated from multi-year highs. The U.S. Treasury announced plans to double its buybacks of longer-dated government debt, a move aimed at improving liquidity and stabilizing the bond market. The resulting decline in US yields helped ease pressure on risk-sensitive currencies despite ongoing uncertainty surrounding the Middle East conflict. Meanwhile, minutes from the Federal Reserve’s July meeting showed that policymakers remained concerned about persistent inflation, with several officials open to further interest-rate hikes. This could provide some support for the greenback and limit the kiwi's upside. Still, the kiwi remains supported by expectations of another rate hike from the Reserve Bank of New Zealand in September."
+    },
+    {
+      "id": "5048818",
+      "time": "2026-08-20 09:17:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭俄導彈襲擊 已致5死23傷】烏克蘭首都基輔市長克利奇科稱，當地時間8月19日深夜至20日凌晨，俄軍彈道導彈襲擊基輔，目前已造成5人死亡、23人受傷，部分地區斷電。有目擊者稱，較短時間內聽到了十餘次爆炸聲。"
+    },
+    {
+      "id": "5048817",
+      "time": "2026-08-20 09:15:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【2026年8月20日銀行間外匯市場人民幣匯率中間價】\n人民幣兌美元中間價較上日調升46點至6.7808，中間價升值至2023年2月8日以來最高。\n美元/人民幣報6.7808，下調（人民幣升值）46點； 歐元/人民幣報7.8815，上調487點；\n港元/人民幣報0.86476，下調2.6點； 英鎊/人民幣報9.1793，上調207點；\n澳元/人民幣報4.8041，上調126點； 加元/人民幣報4.8840，上調182點；\n100日元/人民幣報4.2636，上調191點； 人民幣/俄羅斯盧布報12.5119，下調790點；\n紐西蘭元/人民幣報4.0016，上調285點； 人民幣/林吉特報0.59964，上調4.9點；\n瑞士法郎/人民幣報8.4634，上調1300點； 新加坡元/人民幣報5.3128，上調193點。"
+    },
     {
       "id": "mkt:01a01cbc-ea7b-7aab-90a5-32e99c3b9f66",
       "time": "2026-08-20 09:15:37",
@@ -143447,24 +143506,6 @@
         "Impact bearish"
       ],
       "text": "The PBOC said that, based on demand from primary dealers in open market operations, the 7-day reverse repo on Aug. 13, 2026 was set at zero."
-    },
-    {
-      "id": "5038368",
-      "time": "2026-08-13 09:18:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌3%，現報861.00元。"
-    },
-    {
-      "id": "5038367",
-      "time": "2026-08-13 09:18:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：豐田及其他幾家日本公司因美國關稅退款問題被起訴。"
     }
   ]
 }
