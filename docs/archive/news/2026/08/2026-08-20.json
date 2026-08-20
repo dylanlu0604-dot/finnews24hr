@@ -1,7 +1,147 @@
 {
   "date": "2026-08-20",
-  "count": 751,
+  "count": 767,
   "items": [
+    {
+      "id": "mkt:01a01ccf-6a20-7aab-90a6-57d3bd184ccb",
+      "time": "2026-08-20 09:35:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SK Hynix gains widened to 11%; Samsung Electronics gains widened to 7%."
+    },
+    {
+      "id": "5048861",
+      "time": "2026-08-20 09:35:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價漲幅擴大至7%，SK海力士股價漲幅擴大至11%。"
+    },
+    {
+      "id": "5048860",
+      "time": "2026-08-20 09:34:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊衝高，寶泰隆觸及漲停】煤炭開採加工板塊衝高，寶泰隆觸及漲停，淮北礦業、昊華能源、蘭花科創、新大洲A、甘肅能化跟漲。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608203847244086",
+      "time": "2026-08-20 09:34:47",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【LPR連續15個月“按兵不動” 降息還有戲嗎？】中國人民銀行授權全國銀行間同業拆借中心公佈，2026年8月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。"
+    },
+    {
+      "id": "5048859",
+      "time": "2026-08-20 09:34:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇樹科技盤中一度跌超17%】宇樹科技短線走低，盤中一度跌超17%。"
+    },
+    {
+      "id": "mkt:01a01ccd-8249-7aab-90a6-4b59899a830f",
+      "time": "2026-08-20 09:33:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysian Ringgit rose to 4.04 per US dollar, the strongest level since mid-June."
+    },
+    {
+      "id": "5048858",
+      "time": "2026-08-20 09:33:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞林吉特<MYR=>兌美元升至4.04，創6月中旬以來新高。"
+    },
+    {
+      "id": "5048857",
+      "time": "2026-08-20 09:33:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率下跌9.5個基點至4.055%。"
+    },
+    {
+      "id": "5048856",
+      "time": "2026-08-20 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、派林生物、上海萊士跟漲。"
+    },
+    {
+      "id": "5048855",
+      "time": "2026-08-20 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股病毒檢測板塊異動拉昇】貝瑞基因、達安基因觸及漲停，新開源、安科生物、華大基因、博暉創新、艾德生物跟漲。"
+    },
+    {
+      "id": "5048854",
+      "time": "2026-08-20 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、科華生物、華蘭生物、派林生物、健帆生物跟漲。"
+    },
+    {
+      "id": "mkt:01a01ccc-a5dd-7aab-90a6-4337a3204066",
+      "time": "2026-08-20 09:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NMPA approves two innovative drugs】China’s National Medical Products Administration approved two new drugs: 1) Anfuliqita monoclonal antibody injection (subcutaneous), marketed as Yisaina, from Sansheng Guojian Pharmaceutical (Shanghai) Co., Ltd., for acute gouty arthritis in adults who are contraindicated, intolerant of, or unresponsive to NSAIDs and/or colchicine, or who are unsuitable for repeated steroid use. 2) Fumarate likangkepan capsules, marketed as HengYouDa, from Chengdu Shengdi Pharmaceutical Co., Ltd., approved under the NMPA’s priority review for treatment of adult paroxysmal nocturnal hemoglobinuria (PNH) patients not previously treated with complement inhibitors."
+    },
+    {
+      "id": "5048853",
+      "time": "2026-08-20 09:32:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "快手<1024.HK>股價下跌逾10%。"
+    },
+    {
+      "id": "5048852",
+      "time": "2026-08-20 09:32:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "宇樹科技創始人兼CEO王興興：我們尚未對人形機器人進行大規模推廣，因為這類機器人的效率與通用能力仍不夠完善。"
+    },
+    {
+      "id": "mkt:01a01ccc-3b9f-7aab-90a6-38f1f3e91cc7",
+      "time": "2026-08-20 09:32:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01024.HK",
+        "Impact bearish"
+      ],
+      "text": "Kuaishou (01024.HK) shares fell over 10% after the company reported 1H adjusted net profit of 7.287 bln yuan, down 28.5% YoY."
+    },
+    {
+      "id": "5048851",
+      "time": "2026-08-20 09:32:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局批准三生國健藥業（上海）股份有限公司申報的安弗利奇塔單抗注射液（皮下注射）（商品名：益賽那）上市，適用於對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的，以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該品種的上市為相關患者提供了新的治療選擇。近日，國家藥品監督管理局透過優先審評審批程式，批准成都盛迪醫藥有限公司申報的1類創新藥富馬酸立康可泮膠囊（商品名稱：恆優達）上市，該藥用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。該藥品上市為患者提供了新的治療選擇。"
+    },
     {
       "id": "mkt:01a01ccb-8a2b-7aab-90a6-35856ee51c61",
       "time": "2026-08-20 09:31:36",
