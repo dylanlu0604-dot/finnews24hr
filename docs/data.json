@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-21 00:37:10",
-  "count": 16048,
+  "updated": "2026-08-21 00:41:06",
+  "count": 16052,
   "items": [
+    {
+      "id": "5050626",
+      "time": "2026-08-21 00:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞訊息人士：敘利亞邊境目擊到以色列2輛坦克及3輛軍用車輛。"
+    },
+    {
+      "id": "mkt:01a02009-a6a2-7aab-90be-3bf2bbbf8043",
+      "time": "2026-08-21 00:38:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local sources report a boat capsized in Nigeria, killing more than 50 people."
+    },
+    {
+      "id": "mkt:01a02009-1905-7aab-90be-357be5f1dc23",
+      "time": "2026-08-21 00:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France, Germany, Italy and the UK issued a joint statement reiterating their commitment to achieving a two-state solution."
+    },
+    {
+      "id": "5050625",
+      "time": "2026-08-21 00:37:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TD Cowen維持默沙東“持有”評級，認為癌症疫苗成功未完全消除不確定性】TD Cowen維持默沙東“持有”評級，認為癌症疫苗成功未完全消除不確定性儘管製藥巨頭默沙東（Merck）本週三宣佈其癌症疫苗在大型試驗中取得成功，但TD Cowen依然維持對該股的“持有”評級。TD Cowen分析師Steve Scala在週四給客戶的一份報告中指出：“鑑於此前強勁的二期臨床資料，此次成功並不令人感到意外。積極的結果確實起到了驗證作用，但其潛在應用的廣度目前仍屬未知。”目前，TD Cowen為默沙東設定的目標價為137美元，而該股在週三的收盤價為152.20美元。"
+    },
+    {
+      "id": "mkt:01a02008-560c-7aab-90be-2ec8036c8939",
+      "time": "2026-08-21 00:36:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "France, Germany, Italy and the United Kingdom said Israel's decision to publish tenders for new construction in the West Bank \"E1\" settlement area is unacceptable."
+    },
     {
       "id": "5050624",
       "time": "2026-08-21 00:36:27",
@@ -146844,14 +146890,6 @@
         "MKT News"
       ],
       "text": "US President Trump will visit the Nassau County Police Academy in New York tomorrow."
-    },
-    {
-      "id": "5039891",
-      "time": "2026-08-14 00:39:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將於明日訪問拿騷縣警察學院。"
     }
   ]
 }
