@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-20 15:06:26",
-  "count": 15635,
+  "updated": "2026-08-20 15:10:23",
+  "count": 15629,
   "items": [
+    {
+      "id": "5049234",
+      "time": "2026-08-20 15:08:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖元環保：正在大力發展牛磺酸大健康新業務】聖元環保8月20日在互動平臺表示，公司正在大力發展牛磺酸大健康新業務，市場營銷及品牌推廣相關工作正按既定規劃穩步推進中。"
+    },
+    {
+      "id": "5049233",
+      "time": "2026-08-20 15:08:28",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持光大證券“買入”評級，盈利受益於市場回暖，財富管理築牢底盤】東吳證券研報指出，光大證券盈利受益於市場回暖，財富管理築牢底盤。26H1公司實現歸母淨利潤22.3億元，同比+32.5%；第二季度實現歸母淨利潤10.6億元，同比+23.1%。經紀業務受益市場行情回暖，投行業務呈現債強股弱格局，資管板塊打磨多元產品矩陣，自營投資堅守絕對收益思路。結合公司2026H1經營情況，我們小幅上調此前盈利預測，預計2026-2028年公司歸母淨利潤分別為42/44/46億元（前值分別為41/43/45億元），對應同比增速分別為13%/4%/4%，對應EPS分別為0.91/0.95/0.99元/股。當前市值對應PB估值分別為0.88x/0.84x/0.81x。公司聚焦主業穩健發展，看好持續強化競爭力，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a01dff-40b5-7aab-90ac-01389ca0eb44",
+      "time": "2026-08-20 15:07:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bearish",
+        "CNH",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Commerce ministry responds to U.S. tariffs on drones】At a routine briefing on the 20th, MOFCOM spokesman He Yadong said China noted the U.S. decision to impose Section 232 tariffs on drones and parts. He described the 232 measures as unilateral, protectionist and an overbroad use of national security; said Chinese drone exports to the U.S. are largely civilian—agriculture, equipment inspection and film/entertainment; and said the U.S. action applies differentiated tariffs that discriminate against Chinese products, severely damages Chinese firms, disrupts the global drone supply chain and undermines fair competition. China firmly opposes the measures and urged the U.S. to immediately revoke the Section 232 tariffs."
+    },
+    {
+      "id": "5049232",
+      "time": "2026-08-20 15:07:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部回應美徵收無人機關稅問題】商務部新聞發言人何亞東在20日舉行的例行新聞釋出會上回應有關美徵收無人機關稅的提問時說，我們注意到美方對無人機及零部件徵收232關稅的決定。中方一貫認為，美方232措施是以“國家安全”為名實施單邊主義、保護主義。事實上，中國對美出口無人機主要應用於農業、裝置巡檢、影視娛樂等民用場景。何亞東表示，美方232措施泛化國家安全概念，對貿易伙伴實施差異化關稅稅率，歧視性對待中國相關產品，嚴重損害中國企業利益，擾亂全球無人機產供鏈合作秩序，進一步破壞公平競爭的市場環境，中方對此堅決反對。我們敦促美方立即撤銷232相關關稅措施。（新華社）"
+    },
+    {
+      "id": "5049231",
+      "time": "2026-08-20 15:07:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國一小飛機與警用直升機相撞 致1人死亡】美國賓夕法尼亞州費城附近一個小型機場19日發生飛機相撞事故，一架輕型飛機與一架警用直升機相撞，造成輕型飛機飛行員死亡。據美國方面訊息，事故發生在費城西北方向約170公里的卡萊爾鎮上一個小機場。美國聯邦航空局說，涉事飛機包括一架雙座塞斯納150型輕型飛機和一架賓夕法尼亞州警察局的貝爾407直升機。（央視新聞）"
+    },
+    {
+      "id": "5049230",
+      "time": "2026-08-20 15:06:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：據悉希音正洽談引入博裕資本、瑞銀作為 IPO 基石投資者。騰訊與泛大西洋投資集團也在洽談參與希音 IPO 投資。"
+    },
+    {
+      "id": "mkt:01a01dfd-fd74-7aab-90ab-f8c385cbecd2",
+      "time": "2026-08-20 15:06:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【China A-shares close: ChiNext up 0.64% after intraday retreat; innovative drug sector rallies】Chinese stocks closed higher with mixed internals. Shanghai Composite +0.24%, Shenzhen Composite (Shenzhen Composite Index) +0.59%, ChiNext +0.64% after an intraday run-up and pullback. Turnover across Shanghai and Shenzhen was 2.08 trillion yuan, down more than 430 billion yuan vs. the prior session. About 4,100 stocks gained. Biotech theme led gains—vaccines, innovative drugs and CROs surged, with more than 20 names hitting daily limits including Watson Biotech, Kangtai Biotech and Zhifei Biological. Apple supply-chain plays climbed, several stocks hit limit up and some rose >10%. Gold-related names spiked then faded; Shandong Gold and Chifeng Gold were among winners and a few small miners hit limit up. Real estate names rose in the afternoon; Chengtou Holdings and Jingtou Development hit daily limits. Underperformers included phosphate and fluorochemical chemicals, lab-grown diamonds and aero-engine parts. Small metals slid; several names hit limits down and Northern Rare Earths was weak. Memory/storage chips fell sharply—multiple suppliers dropped over 8%. Newly listed C Yushu fell 18.7% on its second trading day with turnover exceeding 9 billion yuan."
+    },
     {
       "id": "mkt:01a01dfc-6437-7aab-90ab-f7d6904234ac",
       "time": "2026-08-20 15:04:34",
@@ -143247,140 +143320,6 @@
         "市場"
       ],
       "text": "恒生科技指數尾盤再度轉跌，午後一度漲逾1%，恒指現跌0.4%。"
-    },
-    {
-      "id": "5038791",
-      "time": "2026-08-13 15:09:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "曼達頓公司股價在公佈第二季度財報並宣佈收購後上漲8%，目前有望創下2025年2月以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019ff9f4-8993-7aab-901c-88108ff04ecf",
-      "time": "2026-08-13 15:09:40",
-      "tags": [
-        "MKT News",
-        "0992.HK",
-        "Impact bullish"
-      ],
-      "text": "Lenovo CEO says the company will develop more powerful PCs and edge computing products."
-    },
-    {
-      "id": "5038790",
-      "time": "2026-08-13 15:08:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：到2030年 安全應急裝備重點領域產業規模達到1.4萬億元】工業和資訊化部、應急管理部印發《安全應急裝備產業發展“十五五”規劃》，到2030年，安全應急裝備產業規模、技術水平、產品質量、應用深度和廣度顯著提升。重點領域產業規模達到1.4萬億元。突破一批關鍵核心技術，形成一批國際領先的標誌性產品。建設一批安全應急裝備重點應用場景，推廣一批具有高技術水平和顯著應用成效的安全應急裝備，促進家庭社群安全應急產品配備水平進一步提升。建設10個競爭力強的安全應急裝備產業叢集、70個安全應急裝備產業特色園區。形成一批國際競爭力強的龍頭企業，培育一批專精特新“小巨人”企業和製造業單項冠軍企業。"
-    },
-    {
-      "id": "mkt:019ff9f3-b8d5-7aab-901c-867c20345a80",
-      "time": "2026-08-13 15:08:47",
-      "tags": [
-        "MKT News",
-        "992.HK",
-        "Impact bullish"
-      ],
-      "text": "Lenovo CEO says personal AI devices will become the primary driver of PC demand."
-    },
-    {
-      "id": "mkt:019ff9f3-8f90-7aab-901c-7a07a1da6729",
-      "time": "2026-08-13 15:08:36",
-      "tags": [
-        "MKT News",
-        "0992.HK",
-        "Impact mixed"
-      ],
-      "text": "Lenovo CEO says PC demand will be subdued in H2 2026; benefiting from higher product pricing, the company expects revenue to still increase."
-    },
-    {
-      "id": "te:markets:574969",
-      "time": "2026-08-13 15:08:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Aluminum Extends Decline — Aluminum futures in the UK fell to around $3,270 per tonne, retreating further from a seven-week high, after Emirates Global Aluminium reaffirmed its timeline to restore full production at the Al Taweelah smelter by Q1 next year, easing concerns over supply from the Gulf. The company was forced to cut output after the smelter was hit by Iranian missiles and drones during the early stages of the war. The restoration is expected to improve supply prospects from the Middle East, which accounted for around 10% of global aluminum production prior to the conflict. Prices had jumped recently amid lower feedstock production at Norsk Hydro’s plant in Brazil, adding to concerns over Gulf supply as uncertainty persisted over a deal that could reopen the Strait of Hormuz, a key export route for regional smelters. Further easing supply fears, the owners of Australia’s largest aluminum smelter secured a $1.8 billion government bailout, allowing operations to continue."
-    },
-    {
-      "id": "te:markets:574968",
-      "time": "2026-08-13 15:08:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ICICI Bank Stock Price Hits 4-week Low — ICICI Bank shares decreased to 1411.00 INR, the lowest since July 2026. Over the past 4 weeks, ICICI Bank gained 0.4%, and in the last 12 months, it decreased 0.97%."
-    },
-    {
-      "id": "mkt:019ff9f2-e75f-7aab-901c-70e1bcdb1297",
-      "time": "2026-08-13 15:07:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "MOFCOM said it will continue imposing anti-dumping duties on imports of single-mode optical fiber originating in India, effective Aug 14, 2026, for a five-year period."
-    },
-    {
-      "id": "te:markets:574966",
-      "time": "2026-08-13 15:07:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Ends 1.1% Higher at Over 5-Week High — The TAIEX, Taiwan’s benchmark stock index, rose 503 points, or 1.1%, to close at 46,021, gaining for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders maintained the upward momentum in the technology sector. Electronic technology stocks advanced 1.5%, following a 1.1% rise on Wednesday. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, advanced 0.8%. MediaTek and Delta Electronics surged 5.4% and 4.8%, respectively. Meanwhile, Yageo Corporation, a world leader in electronic passive components, soared 10% after the company became the fifth-largest holding of Norway's sovereign wealth fund. A rally on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting."
-    },
-    {
-      "id": "mkt:019ff9f2-6d5b-7aab-901c-6deb70f60a39",
-      "time": "2026-08-13 15:07:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China A-shares close: ChiNext down 0.45% as base metals lead losses】China A-shares opened higher but finished weaker, with late selling pushing all three major indexes into the red. At the close the Shanghai Composite fell 0.50%, the Shenzhen Composite Index fell 0.87% and the ChiNext Index fell 0.45% after erasing an early ~2% gain. Turnover across the two markets exceeded 2.5 trillion yuan and more than 4,000 stocks declined. CRO-related names outperformed and power stocks jumped intraday; compute-power leasing and CPO segments spiked then retreated. Base metals led sector losses across multiple subsectors, while education stocks' declines widened into the close."
-    },
-    {
-      "id": "5038789",
-      "time": "2026-08-13 15:07:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長楊元慶：聯想將開發效能更強的個人電腦與邊緣計算產品。"
-    },
-    {
-      "id": "5038788",
-      "time": "2026-08-13 15:07:03",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【商務部公告2026年第35號 公佈對原產於印度的進口單模光纖所適用反傾銷措施的期終複審裁定】依據《反傾銷條例》第五十條的規定，商務部根據調查結果向國務院關稅稅則委員會提出繼續實施反傾銷措施的建議。國務院關稅稅則委員會根據商務部的建議作出決定，自2026年8月14日起，對原產於印度的進口單模光纖繼續徵收反傾銷稅，實施期限為5年。徵收反傾銷稅的產品範圍是原反傾銷措施所適用的產品，與商務部2014年第56號公告和2020年第29號公告的產品範圍一致。"
-    },
-    {
-      "id": "5038787",
-      "time": "2026-08-13 15:06:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【依託本土企業盈利向好 韓國今年上半年稅收總收入同比增加33萬億韓元】韓國企劃財政部週四公佈資料，受稅收收入大幅增收帶動，今年1至6月韓國財政收支狀況較去年同期改善，財政赤字收窄至三年來最低水平。企劃財政部資料顯示，衡量財政穩健度的核心指標——統籌財政收支餘額（統計標準更為嚴苛），截至6月末赤字規模為84.4萬億韓元（摺合595億美元），相較2025年同期赤字縮減9.9萬億韓元。財政部相關官員表示：“該時段統籌財政收支赤字創下新低，上一次低點為2023年的83萬億韓元。”今年上半年韓國稅收總收入達223萬億韓元，同比增加33萬億韓元；依託本土企業盈利向好，企業所得稅入庫規模同比增收4.3萬億韓元。"
     }
   ]
 }
