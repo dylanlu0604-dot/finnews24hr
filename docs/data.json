@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-21 03:04:12",
-  "count": 16104,
+  "updated": "2026-08-21 03:08:08",
+  "count": 16102,
   "items": [
+    {
+      "id": "mkt:01a0208f-f712-7aab-90c0-4f5214a7117c",
+      "time": "2026-08-21 03:05:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures closed flat in the night session at 25,696, trading 2 points below the cash index."
+    },
+    {
+      "id": "5050760",
+      "time": "2026-08-21 03:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美聯邦調查局稱挫敗針對紐約州議會大廈襲擊圖謀】當地時間8月20日，美國聯邦調查局（FBI）當天逮捕一名女子，指控其策劃襲擊位於紐約州首府城市奧爾巴尼的紐約州議會大廈。FBI在刑事訴狀中稱，35歲的傑西卡·鮑伊（Jessica Bowie）曾在網路交流中宣誓效忠“伊斯蘭國”，並於今年7月開始策劃相關襲擊。（央視新聞）"
+    },
+    {
+      "id": "5050759",
+      "time": "2026-08-21 03:03:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7260元，較週三夜盤收盤漲42點。成交量455.00億美元。"
+    },
     {
       "id": "mkt:01a0208c-f7c2-7aab-90c0-438e83138e71",
       "time": "2026-08-21 03:01:44",
@@ -147315,51 +147342,6 @@
         "其他"
       ],
       "text": "沙烏地阿拉伯國防部：多國海上防禦聯盟第三次規劃會議于吉達召開，共有 39 個國家參與。"
-    },
-    {
-      "id": "mkt:019ffc86-46be-7aab-902c-ae614ff78184",
-      "time": "2026-08-14 03:08:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Arabia's defense ministry said 39 countries participated in the third planning meeting of a multinational maritime defense coalition held in Jeddah."
-    },
-    {
-      "id": "5039988",
-      "time": "2026-08-14 03:05:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7450元，較上一交易日夜盤收盤漲9個基點。"
-    },
-    {
-      "id": "5039987",
-      "time": "2026-08-14 03:05:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲：交易臺計劃進行約170億美元的再投資購買；8月14日至9月14日期間不進行儲備管理購買。"
-    },
-    {
-      "id": "mkt:019ffc83-9d61-7aab-902c-a08d4f3993b3",
-      "time": "2026-08-14 03:05:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "New York Fed trading desk plans roughly $17 bln of reinvestment purchases; will not conduct reserve-management purchases from Aug. 14 through Sept. 14."
-    },
-    {
-      "id": "5039986",
-      "time": "2026-08-14 03:05:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院裁定，特朗普可終止低價商品的關稅豁免。"
     }
   ]
 }
