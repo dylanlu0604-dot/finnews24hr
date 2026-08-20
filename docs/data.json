@@ -1,7 +1,145 @@
 {
-  "updated": "2026-08-20 13:05:22",
-  "count": 15667,
+  "updated": "2026-08-20 13:15:22",
+  "count": 15668,
   "items": [
+    {
+      "id": "5049071",
+      "time": "2026-08-20 13:14:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱， SK海力士 員工獎金將以現金形式發放40%，剩餘60%將配發公司股票。"
+    },
+    {
+      "id": "mkt:01a01d96-d119-7aab-90a9-27ebb32ccd85",
+      "time": "2026-08-20 13:13:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Ukraine says Kyiv struck by Russian missile attack; 8 dead】Kyiv Mayor Vitali Klitschko said on Aug. 20 that Russian ballistic missile strikes overnight on Aug. 19-20 killed eight people, wounded others and cut power to parts of the capital."
+    },
+    {
+      "id": "mkt:01a01d96-c921-7aab-90a9-1da3711d02ff",
+      "time": "2026-08-20 13:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATZ, Israel's defense minister, said Israel will 'never allow any entity to threaten its national security'."
+    },
+    {
+      "id": "5049070",
+      "time": "2026-08-20 13:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，以色列“絕不允許任何實體威脅其國家安全”。"
+    },
+    {
+      "id": "5049069",
+      "time": "2026-08-20 13:12:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨稱，埃爾多安“正將土耳其拖入敘利亞的危險冒險之中”。"
+    },
+    {
+      "id": "mkt:01a01d95-4cc1-7aab-90a9-1078e080e353",
+      "time": "2026-08-20 13:11:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister Katz said Turkish President Erdogan is dragging Turkey into a dangerous venture in Syria."
+    },
+    {
+      "id": "mkt:01a01d95-2591-7aab-90a9-091a9b312624",
+      "time": "2026-08-20 13:11:48",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Jefferies raises Moderna (MRNA.O) PT to $150 from $60."
+    },
+    {
+      "id": "5049068",
+      "time": "2026-08-20 13:10:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭俄導彈襲擊 已致8人死亡】當地時間20日，烏克蘭首都基輔市市長克利奇科通報稱，俄方襲擊已導致8人死亡。基輔市長克利奇科稱，當地時間8月19日深夜至20日凌晨，俄軍彈道導彈襲擊基輔，造成人員死傷，部分地區斷電。"
+    },
+    {
+      "id": "mkt:01a01d93-6a7b-7aab-90a9-07f3a77c8e6c",
+      "time": "2026-08-20 13:09:55",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "Market sources: SK Hynix has reached a preliminary agreement with its union on wages and bonuses."
+    },
+    {
+      "id": "5049067",
+      "time": "2026-08-20 13:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士與工會就薪酬和獎金達成初步協議。"
+    },
+    {
+      "id": "5049066",
+      "time": "2026-08-20 13:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙擬將500名滯留休達的未成年移民送至本土】西班牙包容、社會保障與移民大臣埃爾瑪·賽斯19日說，政府計劃將滯留在北非飛地休達的大約500名無人陪伴未成年移民送至西班牙本土。賽斯在接受西班牙國家廣播電臺採訪時說，中央政府正與休達地方政府及西班牙各自治區政府合作制定安置計劃，以便將這些兒童交由西班牙本土的兒童保護組織照料。依照西班牙媒體說法，該計劃設想由西班牙“所有地區”對未成年人進行接收，並安排他們入住寄養家庭。500人為暫定數，可能會有變動。"
+    },
+    {
+      "id": "mkt:01a01d8f-a6a1-7aab-90a8-fe93c3d88d7a",
+      "time": "2026-08-20 13:05:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Russian Defence Ministry said late Wednesday Russia also struck warehouses in the Black Sea port of Chornomorsk and in Pivdenne."
+    },
+    {
+      "id": "mkt:01a01d8f-6608-7aab-90a8-f32c177b803b",
+      "time": "2026-08-20 13:05:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector briefly rallied; Chengtou Holdings hit the daily limit, Fuxing Co. was earlier at limit-up, and Tefa Service, Xinda Real Estate, Shibei Hi‑Tech, Huafa and Shanghai Industrial Development also gained."
+    },
+    {
+      "id": "te:markets:576726",
+      "time": "2026-08-20 13:05:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Firms as Dollar Weakness Continues — The Indonesian rupiah strengthened to below IDR 17,800 per U.S. dollar on Thursday, extending recent gains as the dollar index hovered near a three-month low. The greenback remained under pressure after the U.S. unveiled measures to contain long-term borrowing costs, including expanded bond buybacks. Domestically, Bank Indonesia reaffirmed its focus on currency stability at its first policy meeting under acting Governor Destry Damayanti, following Perry Warjiyo’s abrupt exit. As expected, the central bank held its key rate at 5.75% for a second month, signaling policy continuity after a total 100bp hike since May. Officials stressed the policy mix would prioritise rupiah stability and guard against imported inflation, while liquidity tools would support growth. The rupiah has gained about 0.4% this week, adding to strength from the prior two weeks, though upside remains capped by caution ahead of Q2 current account data, after Q1’s deficit hit its largest since 2019 on weaker trade."
+    },
+    {
+      "id": "5049065",
+      "time": "2026-08-20 13:05:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥生物板塊持續爆發 多隻疫苗ETF漲停】午後醫藥生物板塊持續爆發，疫苗ETF招商（561920）、疫苗ETF富國（159645）、疫苗ETF嘉實（562860）、疫苗ETF鵬華（159657）漲停，創業板醫藥ETF國泰（159377）、生物醫藥ETF華安（159508）等多隻ETF漲超8%。"
+    },
     {
       "id": "5049064",
       "time": "2026-08-20 13:04:12",
@@ -143659,140 +143797,6 @@
         "國際"
       ],
       "text": "【菲律賓First Gen或將以27億美元估值接受KKR的私有化要約】菲律賓First Gen公司週四表示，KKR提出的強制要約將使這家電力生產商的估值達到約1,654.4億比索(即27億美元)。First Gen週三披露稱，KKR提議從其母公司First Philippine Holdings 手中收購該公司8.43%的股份。這家電力生產商補充稱，此舉可能會觸發KKR對First Gen全部11.67%流通股（即36億股已發行普通股）發起強制要約收購。該要約收購將 支援 First Gen向菲律賓證券交易所 提交的 自願退市 申請。"
-    },
-    {
-      "id": "te:markets:574909",
-      "time": "2026-08-13 13:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Drops by 0.45% — Top currency loser is New Zealand Dollar (-0.45%). Gains are led by Japanese Yen (0.08%)."
-    },
-    {
-      "id": "5038631",
-      "time": "2026-08-13 13:13:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銳捷網路股價創新高】銳捷網路漲10.51%，報139.5元/股，股價再創新高，總市值突破1500億元，成交額達31.42億元。"
-    },
-    {
-      "id": "5038630",
-      "time": "2026-08-13 13:13:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：房地產泡沫已不容忽視。"
-    },
-    {
-      "id": "5038629",
-      "time": "2026-08-13 13:11:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：房地產是影響所有地區的關鍵問題。"
-    },
-    {
-      "id": "5038628",
-      "time": "2026-08-13 13:10:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：不能再讓房地產泡沫繼續蔓延了。"
-    },
-    {
-      "id": "mkt:019ff987-c7b0-7aab-9018-dcbb62a6f868",
-      "time": "2026-08-13 13:10:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Japan protests Putin visit to disputed Northern Territories (Southern Kurils)】MOTEGI lodged a strong protest on the 13th after Putin landed on Etorofu Island in the Northern Territories (the Southern Kurils in Russian) and inspected a seafood-processing plant. The Kremlin said Putin spoke with workers, posed for photos and sampled local caviar; it was his first visit to the islands. The sovereignty dispute has prevented Russia and Japan from signing a post-World War II peace treaty."
-    },
-    {
-      "id": "te:markets:574908",
-      "time": "2026-08-13 13:09:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 4-week High — SHANGHAI increased to 3968.00 Index Points, the highest since July 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.01%, and in the last 12 months, it increased 8.19%."
-    },
-    {
-      "id": "mkt:019ff986-33d6-7aab-9018-d503c05b1242",
-      "time": "2026-08-13 13:09:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share AI PC sector ticked higher briefly; Chunqiu Electronics hit the daily limit-up, Huaqin Technology had earlier hit limit-up, and Zhongshi Technology, Xinghuan Technology and Lianyun Technology also advanced."
-    },
-    {
-      "id": "5038627",
-      "time": "2026-08-13 13:08:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本強烈抗議普京登上日俄爭議島嶼】13日，日本外務大臣茂木敏充就俄羅斯總統普京登上北方四島（俄稱南千島群島）的擇捉島（俄稱伊圖魯普島）提出強烈抗議。當天稍早前，普京登上南千島群島（日本稱北方四島），並視察了伊圖魯普島（日本稱擇捉島）上一家水產品加工廠。克里姆林宮在社交媒體釋出訊息說，普京與水產品加工廠員工交談，並與他們合影留念。他還品嚐了當地生產的魚子醬。這是普京首次登上南千島群島。因在南千島群島（日本稱北方四島）的歸屬問題上存在爭議，俄日在二戰結束後至今未締結和平條約。（央視新聞）"
-    },
-    {
-      "id": "5038626",
-      "time": "2026-08-13 13:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯想在公佈營收超預期後，股價漲幅擴大至17%。"
-    },
-    {
-      "id": "5038625",
-      "time": "2026-08-13 13:06:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【太空算力硬體成本降至幾百元 全國產化太空伺服器亮相】太空算力，是將地面資料中心的人工智慧算力節點部署至太空軌道，利用太空充足太陽能與天然低溫環境，破解地面算力面臨的能耗、散熱和土地資源瓶頸。當前，全球算力需求持續增長，各國低軌衛星星座加速佈局，太空算力正成為新質生產力重要突破口。昨天（12日）《新質生產力發展大會——太空算力產業》在北京舉行，活動探討技術突破與產業發展，推動我國太空算力加速落地。活動現場，一家企業展示自主研發的航天級算力專用GPU晶片，把太空算力硬體成本從數萬元降至幾千元甚至幾百元。現場還亮相了全國產化太空伺服器，搭載雙核心星載作業系統，當遭遇宇宙高能粒子干擾時，可毫秒級切換備用核心，保障在軌算力不停機。（央視財經）"
-    },
-    {
-      "id": "mkt:019ff983-8285-7aab-9018-cda9b7d88d4e",
-      "time": "2026-08-13 13:06:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "00992.HK",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Tech Index rallied sharply in afternoon trade, up just over 1%; Lenovo Group (00992.HK) led components, jumping more than 16%."
-    },
-    {
-      "id": "5038624",
-      "time": "2026-08-13 13:05:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4825.140點；恒生指數現漲0.142%。"
-    },
-    {
-      "id": "5038623",
-      "time": "2026-08-13 13:05:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念持續走強，劍橋科技漲停】CPO概念持續走強，劍橋科技漲停，天孚通訊、德科立、源傑科技、光迅科技、銳捷網路、新易盛等跟漲。"
     }
   ]
 }

@@ -1,7 +1,145 @@
 {
   "date": "2026-08-20",
-  "count": 1081,
+  "count": 1096,
   "items": [
+    {
+      "id": "5049071",
+      "time": "2026-08-20 13:14:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱， SK海力士 員工獎金將以現金形式發放40%，剩餘60%將配發公司股票。"
+    },
+    {
+      "id": "mkt:01a01d96-d119-7aab-90a9-27ebb32ccd85",
+      "time": "2026-08-20 13:13:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Ukraine says Kyiv struck by Russian missile attack; 8 dead】Kyiv Mayor Vitali Klitschko said on Aug. 20 that Russian ballistic missile strikes overnight on Aug. 19-20 killed eight people, wounded others and cut power to parts of the capital."
+    },
+    {
+      "id": "mkt:01a01d96-c921-7aab-90a9-1da3711d02ff",
+      "time": "2026-08-20 13:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATZ, Israel's defense minister, said Israel will 'never allow any entity to threaten its national security'."
+    },
+    {
+      "id": "5049070",
+      "time": "2026-08-20 13:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，以色列“絕不允許任何實體威脅其國家安全”。"
+    },
+    {
+      "id": "5049069",
+      "time": "2026-08-20 13:12:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨稱，埃爾多安“正將土耳其拖入敘利亞的危險冒險之中”。"
+    },
+    {
+      "id": "mkt:01a01d95-4cc1-7aab-90a9-1078e080e353",
+      "time": "2026-08-20 13:11:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister Katz said Turkish President Erdogan is dragging Turkey into a dangerous venture in Syria."
+    },
+    {
+      "id": "mkt:01a01d95-2591-7aab-90a9-091a9b312624",
+      "time": "2026-08-20 13:11:48",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Jefferies raises Moderna (MRNA.O) PT to $150 from $60."
+    },
+    {
+      "id": "5049068",
+      "time": "2026-08-20 13:10:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔遭俄導彈襲擊 已致8人死亡】當地時間20日，烏克蘭首都基輔市市長克利奇科通報稱，俄方襲擊已導致8人死亡。基輔市長克利奇科稱，當地時間8月19日深夜至20日凌晨，俄軍彈道導彈襲擊基輔，造成人員死傷，部分地區斷電。"
+    },
+    {
+      "id": "mkt:01a01d93-6a7b-7aab-90a9-07f3a77c8e6c",
+      "time": "2026-08-20 13:09:55",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "Market sources: SK Hynix has reached a preliminary agreement with its union on wages and bonuses."
+    },
+    {
+      "id": "5049067",
+      "time": "2026-08-20 13:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士與工會就薪酬和獎金達成初步協議。"
+    },
+    {
+      "id": "5049066",
+      "time": "2026-08-20 13:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙擬將500名滯留休達的未成年移民送至本土】西班牙包容、社會保障與移民大臣埃爾瑪·賽斯19日說，政府計劃將滯留在北非飛地休達的大約500名無人陪伴未成年移民送至西班牙本土。賽斯在接受西班牙國家廣播電臺採訪時說，中央政府正與休達地方政府及西班牙各自治區政府合作制定安置計劃，以便將這些兒童交由西班牙本土的兒童保護組織照料。依照西班牙媒體說法，該計劃設想由西班牙“所有地區”對未成年人進行接收，並安排他們入住寄養家庭。500人為暫定數，可能會有變動。"
+    },
+    {
+      "id": "mkt:01a01d8f-a6a1-7aab-90a8-fe93c3d88d7a",
+      "time": "2026-08-20 13:05:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Russian Defence Ministry said late Wednesday Russia also struck warehouses in the Black Sea port of Chornomorsk and in Pivdenne."
+    },
+    {
+      "id": "mkt:01a01d8f-6608-7aab-90a8-f32c177b803b",
+      "time": "2026-08-20 13:05:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector briefly rallied; Chengtou Holdings hit the daily limit, Fuxing Co. was earlier at limit-up, and Tefa Service, Xinda Real Estate, Shibei Hi‑Tech, Huafa and Shanghai Industrial Development also gained."
+    },
+    {
+      "id": "te:markets:576726",
+      "time": "2026-08-20 13:05:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Firms as Dollar Weakness Continues — The Indonesian rupiah strengthened to below IDR 17,800 per U.S. dollar on Thursday, extending recent gains as the dollar index hovered near a three-month low. The greenback remained under pressure after the U.S. unveiled measures to contain long-term borrowing costs, including expanded bond buybacks. Domestically, Bank Indonesia reaffirmed its focus on currency stability at its first policy meeting under acting Governor Destry Damayanti, following Perry Warjiyo’s abrupt exit. As expected, the central bank held its key rate at 5.75% for a second month, signaling policy continuity after a total 100bp hike since May. Officials stressed the policy mix would prioritise rupiah stability and guard against imported inflation, while liquidity tools would support growth. The rupiah has gained about 0.4% this week, adding to strength from the prior two weeks, though upside remains capped by caution ahead of Q2 current account data, after Q1’s deficit hit its largest since 2019 on weaker trade."
+    },
+    {
+      "id": "5049065",
+      "time": "2026-08-20 13:05:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥生物板塊持續爆發 多隻疫苗ETF漲停】午後醫藥生物板塊持續爆發，疫苗ETF招商（561920）、疫苗ETF富國（159645）、疫苗ETF嘉實（562860）、疫苗ETF鵬華（159657）漲停，創業板醫藥ETF國泰（159377）、生物醫藥ETF華安（159508）等多隻ETF漲超8%。"
+    },
     {
       "id": "5049064",
       "time": "2026-08-20 13:04:12",
