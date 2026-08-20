@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-20 08:23:27",
-  "count": 15648,
+  "updated": "2026-08-20 08:27:19",
+  "count": 15649,
   "items": [
+    {
+      "id": "mkt:01a01c90-5983-7aab-90a4-397fd20c2356",
+      "time": "2026-08-20 08:26:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said registration and login on Chatgpt.com are disrupted and it is working to restore the functions."
+    },
+    {
+      "id": "mkt:01a01c8f-f903-7aab-90a4-34c7e3a12ca2",
+      "time": "2026-08-20 08:26:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "SpaceX's Starlink has applied to Indian regulators for approval to operate a satellite network using direct-to-device technology, the Financial Times reports."
+    },
+    {
+      "id": "5048756",
+      "time": "2026-08-20 08:26:07",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：白酒板塊迎來修復 關注中秋旺季動銷】中信證券研報稱，白酒板塊在上半年經歷了由情緒面與資金面共振驅動的深度錯殺後，7月以來受益市場風格和流動性變化，板塊迎來估值修復行情。7月至今白酒板塊累計上漲13.8%，滬深300指數僅+0.7%。中信證券認為白酒行業基本面在底部逐漸企穩，並呈現出批價在控貨下企穩、動銷在低基數下邊際修復、庫存開始去化等特點，8月以來伴隨升學宴等消費場景升溫，白酒動銷環比出現一定改善，預計渠道對今年中秋旺季動銷預期的悲觀情緒或有所改善。看好白酒板塊修復行情，建議逢低增配白酒行業的頭部酒企。"
+    },
+    {
+      "id": "5048755",
+      "time": "2026-08-20 08:26:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 稱Chatgpt.com註冊、登入功能中斷，正在修復  。"
+    },
+    {
+      "id": "5048754",
+      "time": "2026-08-20 08:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃隆·馬斯克的星鏈重新申請印度批准，尋求搭載裝置直連技術的衛星網路許可。"
+    },
+    {
+      "id": "5048753",
+      "time": "2026-08-20 08:24:08",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【看圖：日本出口增速創近四年來最快 受晶片和汽車強勁需求以及日元貶值提振】日本出口增速創下2022年10月以來最快，受晶片和汽車強勁需求以及日元貶值提振。日本財務省週四公佈的資料顯示，7月出口額同比增長23.2%，高於6月份19.3%的增幅，也高於經濟學家的預測中值20.1%。日本7月進口額同比上升27.8%，高於6月份25.4%的升幅，也高於經濟學家預測中值25.1%。未經調整的貿易逆差從6月修正後的4099億日元擴大至6345億日元，連續第三個月錄得逆差。貿易資料顯示日本製造商迄今為止基本經受住了中東戰爭帶來的衝擊，在國內需求不足導致第二季度經濟增速不及預期之後顯示令人鼓舞的跡象。全球對於人工智慧相關產品的強勁需求成為推動日本出口的主要動力。包括半導體在內的電子產品出口增長約49%，乘用車出口增長21%。日元疲軟也增強了日本產品在海外市場的競爭力。日元兌美元匯率上月觸及40年來的最低水平。"
+    },
+    {
+      "id": "5048752",
+      "time": "2026-08-20 08:23:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【當前TGV產業化過程中主要瓶頸在哪裡？帝爾鐳射回應】關於“當前TGV產業化過程中主要瓶頸在哪裡？是否會影響公司裝置匯入？”的問題，帝爾鐳射8月19日在機構電話會議表示，根據與客戶溝通，公司TGV鐳射改質技術能夠滿足客戶在良率和技術指標方面的相關需求。當前玻璃基板產業化的主要難點更多來自後續金屬化、膜層及材料複合的工藝良率和微裂紋等問題。行業內相關客戶、材料廠商和裝置廠商正在共同推進解決方案。"
+    },
+    {
+      "id": "te:markets:576637",
+      "time": "2026-08-20 08:23:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi UFJ Financial Stock Price Hits 4-week Low — Mitsubishi UFJ Financial shares decreased to 3425.00 JPY, the lowest since July 2026. Over the past 4 weeks, Mitsubishi UFJ Financial lost 3.99%, and in the last 12 months, it increased 52.45%."
+    },
     {
       "id": "te:economy:576636",
       "time": "2026-08-20 08:22:22",
@@ -143416,65 +143488,6 @@
         "其他"
       ],
       "text": "澳大利亞儲備銀行助理行長肯特：圍繞中性利率預估存在相當大的不確定性。"
-    },
-    {
-      "id": "5038300",
-      "time": "2026-08-13 08:27:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：現金利率處於我們估算的各種模型對中性利率中心預估區間的頂部附近。"
-    },
-    {
-      "id": "5038299",
-      "time": "2026-08-13 08:26:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市10天內漲逾22% 晶片重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，基準Kospi指數上漲4%，自7月30日低點以來的累計漲幅超過22%。記憶體晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均大幅上揚。隨著全球科技巨頭在最新財報中顯示出大規模AI支出繼續，市場對科技硬體股的熱情正在迴歸。這種情緒與過去幾個月形成了鮮明對比 —— 當時，因槓桿化晶片股頭寸被迫平倉，不僅導致交易暫停，還讓散戶投資者損失了數十億美元的財富。近期政府對單隻股票槓桿ETF的限制措施，以及投資者減少保證金債務的跡象，都有助於穩定市場。“一旦槓桿被解除，同一市場可能會出現劇烈反彈，”駐迪拜的Arkevium Capital首席投資官Maxence Visseau表示。“被迫拋售的投資者消失了。做空者獲利了結。交易商減少了下行對沖。”年迄今，韓國Kospi指數已上漲逾60%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。"
-    },
-    {
-      "id": "5038298",
-      "time": "2026-08-13 08:26:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：匯率上升透過降低進口商品的國內價格，有助於緩和通脹。"
-    },
-    {
-      "id": "mkt:019ff882-d022-7aab-9015-10c749329105",
-      "time": "2026-08-13 08:25:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mexico seeks lower auto tariffs in US trade talks】WSJ reported, citing people familiar with talks, that Mexico is pressing the US to lower tariffs on North American autos as part of discussions to revise the US‑Mexico‑Canada Agreement. The demand responds to the Trump administration’s prior push for more US‑made auto content; the administration currently applies a 25% tariff on the portion of a vehicle’s value attributable to parts not made in the US for autos from Canada and Mexico. Mexico’s recent proposal would broaden the range of tariff‑exempt parts and cut the peak North American auto tariff from 25% to a lower rate, possibly 5%–10%. Under the proposal the US would levy duties only on the value of parts produced outside North America, effectively exempting parts made in Mexico and Canada."
-    },
-    {
-      "id": "5038297",
-      "time": "2026-08-13 08:25:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴西最高法院維持了與亞馬遜雨林砍伐協議破裂相關的法律】巴西最高法院週三維持了各州的相關法律，這些法律實際上終結了一項具有里程碑意義的舉措——該舉措曾被認為有效遏制了為種植大豆而導致的亞馬遜雨林砍伐。大法官們駁回了農民關於這項實施了20年的自願性“大豆暫停令”違法的主張，從而使穀物貿易商和加工商免於承擔農民索賠的數十億雷亞爾潛在損害賠償。但法院支援各州採取的措施，例如馬託格羅索州去年撤銷參與該暫停令企業稅收優惠的舉措。"
-    },
-    {
-      "id": "5038296",
-      "time": "2026-08-13 08:24:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：指標利率上調正在產生預期效果。"
-    },
-    {
-      "id": "5038295",
-      "time": "2026-08-13 08:24:25",
-      "tags": [
-        "行業",
-        "市場"
-      ],
-      "text": "【零跑創始人談造車：已越過最難熬的節點】8月11日，他在A05上市釋出會後的溝通會上，罕見地用“快樂”來形容自己的造車心境，稱自己已經過了“最驚嚇的那一段”，進入了“感覺有點快樂的階段”。根據乘聯分會的最新資料，7月全國乘用車市場零售146.1萬輛，同比下降20.9%，環比下降8.8%；今年以來累計零售1017.3萬輛，同比下降20.3%。而在新勢力陣營中，頭部車企月銷突破10萬輛，腰部仍在3萬輛關口膠著，尾部則繼續下滑。在中國車市加速分化的競爭格局中，朱江明這樣的表態，具有一定的風向標意義。（一財）"
     }
   ]
 }

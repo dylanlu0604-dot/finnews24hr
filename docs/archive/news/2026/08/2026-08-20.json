@@ -1,7 +1,79 @@
 {
   "date": "2026-08-20",
-  "count": 580,
+  "count": 588,
   "items": [
+    {
+      "id": "mkt:01a01c90-5983-7aab-90a4-397fd20c2356",
+      "time": "2026-08-20 08:26:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said registration and login on Chatgpt.com are disrupted and it is working to restore the functions."
+    },
+    {
+      "id": "mkt:01a01c8f-f903-7aab-90a4-34c7e3a12ca2",
+      "time": "2026-08-20 08:26:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "SpaceX's Starlink has applied to Indian regulators for approval to operate a satellite network using direct-to-device technology, the Financial Times reports."
+    },
+    {
+      "id": "5048756",
+      "time": "2026-08-20 08:26:07",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：白酒板塊迎來修復 關注中秋旺季動銷】中信證券研報稱，白酒板塊在上半年經歷了由情緒面與資金面共振驅動的深度錯殺後，7月以來受益市場風格和流動性變化，板塊迎來估值修復行情。7月至今白酒板塊累計上漲13.8%，滬深300指數僅+0.7%。中信證券認為白酒行業基本面在底部逐漸企穩，並呈現出批價在控貨下企穩、動銷在低基數下邊際修復、庫存開始去化等特點，8月以來伴隨升學宴等消費場景升溫，白酒動銷環比出現一定改善，預計渠道對今年中秋旺季動銷預期的悲觀情緒或有所改善。看好白酒板塊修復行情，建議逢低增配白酒行業的頭部酒企。"
+    },
+    {
+      "id": "5048755",
+      "time": "2026-08-20 08:26:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 稱Chatgpt.com註冊、登入功能中斷，正在修復  。"
+    },
+    {
+      "id": "5048754",
+      "time": "2026-08-20 08:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃隆·馬斯克的星鏈重新申請印度批准，尋求搭載裝置直連技術的衛星網路許可。"
+    },
+    {
+      "id": "5048753",
+      "time": "2026-08-20 08:24:08",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【看圖：日本出口增速創近四年來最快 受晶片和汽車強勁需求以及日元貶值提振】日本出口增速創下2022年10月以來最快，受晶片和汽車強勁需求以及日元貶值提振。日本財務省週四公佈的資料顯示，7月出口額同比增長23.2%，高於6月份19.3%的增幅，也高於經濟學家的預測中值20.1%。日本7月進口額同比上升27.8%，高於6月份25.4%的升幅，也高於經濟學家預測中值25.1%。未經調整的貿易逆差從6月修正後的4099億日元擴大至6345億日元，連續第三個月錄得逆差。貿易資料顯示日本製造商迄今為止基本經受住了中東戰爭帶來的衝擊，在國內需求不足導致第二季度經濟增速不及預期之後顯示令人鼓舞的跡象。全球對於人工智慧相關產品的強勁需求成為推動日本出口的主要動力。包括半導體在內的電子產品出口增長約49%，乘用車出口增長21%。日元疲軟也增強了日本產品在海外市場的競爭力。日元兌美元匯率上月觸及40年來的最低水平。"
+    },
+    {
+      "id": "5048752",
+      "time": "2026-08-20 08:23:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【當前TGV產業化過程中主要瓶頸在哪裡？帝爾鐳射回應】關於“當前TGV產業化過程中主要瓶頸在哪裡？是否會影響公司裝置匯入？”的問題，帝爾鐳射8月19日在機構電話會議表示，根據與客戶溝通，公司TGV鐳射改質技術能夠滿足客戶在良率和技術指標方面的相關需求。當前玻璃基板產業化的主要難點更多來自後續金屬化、膜層及材料複合的工藝良率和微裂紋等問題。行業內相關客戶、材料廠商和裝置廠商正在共同推進解決方案。"
+    },
+    {
+      "id": "te:markets:576637",
+      "time": "2026-08-20 08:23:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi UFJ Financial Stock Price Hits 4-week Low — Mitsubishi UFJ Financial shares decreased to 3425.00 JPY, the lowest since July 2026. Over the past 4 weeks, Mitsubishi UFJ Financial lost 3.99%, and in the last 12 months, it increased 52.45%."
+    },
     {
       "id": "te:economy:576636",
       "time": "2026-08-20 08:22:22",
