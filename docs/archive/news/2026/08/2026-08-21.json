@@ -1,7 +1,61 @@
 {
   "date": "2026-08-21",
-  "count": 228,
+  "count": 234,
   "items": [
+    {
+      "id": "5050727",
+      "time": "2026-08-21 02:23:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月21日02時00分在秘魯（南緯14.70度，西經73.30度）發生6.7級地震，震源深度100千米。"
+    },
+    {
+      "id": "5050726",
+      "time": "2026-08-21 02:23:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國務卿魯比奧宣佈制裁古巴相關機構及實體，警告金融機構停止支援 】美國國務卿魯比奧在社交平臺發文稱，。今天，他宣佈對“古巴人民研究所”（ICAP）的領導層實施制裁，該組織是參與上述行動的主要機構之一，其成員包括已被定罪的“古巴間諜”費爾南多·岡薩雷斯·略爾特（Fernando González Llort）。此外，還有9個為古巴政權提供維持和資金的實體也一併受到制裁。魯比奧警告稱，任何支援、贊助或向這些被制裁物件提供服務的個人或機構，都面臨被連帶制裁的風險。他敦促外國銀行及其他為這些實體提供服務或持有其資金的公司立即採取行動，切斷對它們的支援。"
+    },
+    {
+      "id": "mkt:01a02068-2eb6-7aab-90bf-e68d3eda548e",
+      "time": "2026-08-21 02:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Approx M6.5 earthquake near Peru】cenc automatic determination: at 02:00 on Aug 21 a magnitude ~6.5 earthquake occurred near Peru (14.68°S, 73.62°W). Final parameters pending formal bulletin."
+    },
+    {
+      "id": "mkt:01a02067-b004-7aab-90bf-dc857ad95b9e",
+      "time": "2026-08-21 02:21:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Russia urges Japan to fully acknowledge WWII outcome, stop whitewashing wartime aggression】Russia Foreign Ministry spokeswoman Zakharova told a regular briefing on the 20th that Japan has for decades refused to acknowledge the outcome of World War II and called on Tokyo to fully accept the war’s result and stop whitewashing its wartime aggression. She said Japan has not publicly admitted its invasions in the Asia‑Pacific, has not sincerely apologized to victimized neighbors, has failed to uphold its constitution’s peace clause, and is pursuing a path of remilitarization. Zakharova cited Prime Minister Takaichi’s remarks at the national war‑dead memorial, government offerings to Yasukuni Shrine, and visits by the defense minister and other officials to the shrine as evidence of that trend."
+    },
+    {
+      "id": "te:markets:576948",
+      "time": "2026-08-21 02:20:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.45% — Top commodity gainers are Silver (1.45%) and Platinum (1.05%). Biggest losers are Silicon (-0.74%) and Iron Ore CNY (-0.70%). Meanwhile Gold was little changed."
+    },
+    {
+      "id": "5050725",
+      "time": "2026-08-21 02:20:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯附近發生6.5級左右地震】中國地震臺網自動測定：8月21日2時00分，在秘魯附近（南緯14.68度，西經73.62度）發生6.5級左右地震。最終結果以正式速報為準。（央視新聞）"
+    },
     {
       "id": "mkt:01a02065-d4b0-7aab-90bf-d74a2de40598",
       "time": "2026-08-21 02:18:59",
