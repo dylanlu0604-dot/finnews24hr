@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-21 04:06:17",
-  "count": 16098,
+  "updated": "2026-08-21 04:10:08",
+  "count": 16100,
   "items": [
+    {
+      "id": "5050782",
+      "time": "2026-08-21 04:08:42",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "博通擬透過最新 AI 相關債務融資，籌措逾 600 億美元資金。"
+    },
+    {
+      "id": "mkt:01a020ca-34c6-7aab-90c0-d93621f54dfc",
+      "time": "2026-08-21 04:08:37",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bullish"
+      ],
+      "text": "CNBC: Hyundai Motor CEO said the company will raise U.S. production capacity at its new Georgia factory."
+    },
+    {
+      "id": "5050781",
+      "time": "2026-08-21 04:07:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代汽車執行長表示，公司計劃到 2028 年，將佐治亞州超級工廠規劃產能從 50 萬輛提升至 70‑80 萬輛。"
+    },
+    {
+      "id": "te:markets:576958",
+      "time": "2026-08-21 04:06:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) released earnings per share at 2.66 USD, compared to market expectations of 1.94 USD."
+    },
     {
       "id": "mkt:01a020c7-0cf3-7aab-90c0-d6f06afe4078",
       "time": "2026-08-21 04:05:10",
@@ -147304,26 +147344,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow."
-    },
-    {
-      "id": "5040013",
-      "time": "2026-08-14 04:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "Axios援引 5 位知情人士訊息：賈裡德・庫什納計劃下週訪問以色列，就加沙問題展開磋商。"
-    },
-    {
-      "id": "te:markets:575182",
-      "time": "2026-08-14 04:06:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Applied Materials earnings above expectations at 3.50 USD — Applied Materials (AMAT) released earnings per share at 3.50 USD, compared to market expectations of 3.40 USD."
     }
   ]
 }
