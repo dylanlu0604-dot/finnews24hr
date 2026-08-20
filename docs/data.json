@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21 03:23:31",
+  "updated": "2026-08-21 03:27:27",
   "count": 16094,
   "items": [
+    {
+      "id": "mkt:01a020a0-afe7-7aab-90c0-65eea7a1b154",
+      "time": "2026-08-21 03:23:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ICI: US money market fund assets rose to $7.93 trillion."
+    },
     {
       "id": "mkt:01a020a0-83eb-7aab-90c0-5a03e722a75f",
       "time": "2026-08-21 03:23:05",
@@ -147250,14 +147260,6 @@
         "市場"
       ],
       "text": "【國際油價13日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.02美元，收於每桶81.25美元，跌幅為2.43%；10月交貨的倫敦布倫特原油期貨價格下跌1.91美元，收於每桶87.07美元，跌幅為2.15%。"
-    },
-    {
-      "id": "mkt:019ffc95-487f-7aab-902c-ee3518537a79",
-      "time": "2026-08-14 03:24:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC: Canadian Investment Markets Association (CIMPA) and CDS have launched a pilot \"failure fee framework\" for Canadian government securities trades."
     }
   ]
 }
