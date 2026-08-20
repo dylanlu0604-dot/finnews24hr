@@ -1,7 +1,71 @@
 {
   "date": "2026-08-20",
-  "count": 986,
+  "count": 992,
   "items": [
+    {
+      "id": "5049011",
+      "time": "2026-08-20 11:36:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債拍賣認購倍數3.98，過去12個月均值為3.66。"
+    },
+    {
+      "id": "mkt:01a01d3d-45de-7aab-90a8-11995bb12ceb",
+      "time": "2026-08-20 11:35:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "MRNA.O",
+        "Impact bullish",
+        "SZSE Component",
+        "XAUUSD"
+      ],
+      "text": "【A-share midday: ChiNext +1% as biotech/vaccine names surge to multiple limit-ups】Shanghai Composite +0.28% at midday, Shenzhen Composite +0.97%, ChiNext +1.03%. Shanghai- and Shenzhen-listed turnover 1.37 tln yuan, down 246.9 bln vs prior session. About 4,400 stocks advanced. Moderna (MRNA.O) cancer vaccine news lifted the vaccine/biotech and innovative drug complex and CROs, with more than 20 stocks hitting daily limit-ups, including Sanyuan Gene, Shiyao Chuangxin, Watson Biotech, Shuanglu Pharmaceutical and Wantai Biological. Gold-related names rallied, several to limit-up (Nankuang Group, Baoding Technology, Shen Zhonghua A); Xinye Silver-Tin, Chifeng Gold and Shandong Gold also gained. Palm oil (CPO) names recovered, with Changyingtong and Zhongjing Electronics on limit-up. Planting and forestry sectors pulled back; Hualv Biotech fell over 13% intraday while Wanxiang Denong, Agricultural Development Seeds and Beidahuang were among the largest decliners. Fluorochemical, coal and phosphate chemical sectors led losses."
+    },
+    {
+      "id": "5049010",
+      "time": "2026-08-20 11:35:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯創光電持股公司成立超導技術公司】企查查APP顯示，近日，江西星磁超導技術有限公司成立，法定代表人為伍晅，註冊資本為1000萬元，經營範圍包含：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，超導材料製造，超導材料銷售。企查查股權穿透顯示，該公司由江西聯創超導技術有限公司全資持股，後者由江西省電子集團有限公司、聯創光電等共同持股。"
+    },
+    {
+      "id": "mkt:01a01d3c-97e1-7aab-90a8-0f184b0c80df",
+      "time": "2026-08-20 11:35:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Romanian Defence Ministry says a drone crashed into Romanian territory during Russia's attack on neighboring Ukraine."
+    },
+    {
+      "id": "5049009",
+      "time": "2026-08-20 11:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部表示，在俄羅斯襲擊鄰國烏克蘭期間，一架無人機墜落在羅馬尼亞領土上。"
+    },
+    {
+      "id": "5049008",
+      "time": "2026-08-20 11:33:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度5年期國債收益率上漲5個基點至6.50%。"
+    },
     {
       "id": "5049007",
       "time": "2026-08-20 11:32:18",

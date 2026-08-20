@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-20 11:33:04",
-  "count": 15687,
+  "updated": "2026-08-20 11:36:56",
+  "count": 15685,
   "items": [
+    {
+      "id": "5049011",
+      "time": "2026-08-20 11:36:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債拍賣認購倍數3.98，過去12個月均值為3.66。"
+    },
+    {
+      "id": "mkt:01a01d3d-45de-7aab-90a8-11995bb12ceb",
+      "time": "2026-08-20 11:35:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "MRNA.O",
+        "Impact bullish",
+        "SZSE Component",
+        "XAUUSD"
+      ],
+      "text": "【A-share midday: ChiNext +1% as biotech/vaccine names surge to multiple limit-ups】Shanghai Composite +0.28% at midday, Shenzhen Composite +0.97%, ChiNext +1.03%. Shanghai- and Shenzhen-listed turnover 1.37 tln yuan, down 246.9 bln vs prior session. About 4,400 stocks advanced. Moderna (MRNA.O) cancer vaccine news lifted the vaccine/biotech and innovative drug complex and CROs, with more than 20 stocks hitting daily limit-ups, including Sanyuan Gene, Shiyao Chuangxin, Watson Biotech, Shuanglu Pharmaceutical and Wantai Biological. Gold-related names rallied, several to limit-up (Nankuang Group, Baoding Technology, Shen Zhonghua A); Xinye Silver-Tin, Chifeng Gold and Shandong Gold also gained. Palm oil (CPO) names recovered, with Changyingtong and Zhongjing Electronics on limit-up. Planting and forestry sectors pulled back; Hualv Biotech fell over 13% intraday while Wanxiang Denong, Agricultural Development Seeds and Beidahuang were among the largest decliners. Fluorochemical, coal and phosphate chemical sectors led losses."
+    },
+    {
+      "id": "5049010",
+      "time": "2026-08-20 11:35:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯創光電持股公司成立超導技術公司】企查查APP顯示，近日，江西星磁超導技術有限公司成立，法定代表人為伍晅，註冊資本為1000萬元，經營範圍包含：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，超導材料製造，超導材料銷售。企查查股權穿透顯示，該公司由江西聯創超導技術有限公司全資持股，後者由江西省電子集團有限公司、聯創光電等共同持股。"
+    },
+    {
+      "id": "mkt:01a01d3c-97e1-7aab-90a8-0f184b0c80df",
+      "time": "2026-08-20 11:35:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Romanian Defence Ministry says a drone crashed into Romanian territory during Russia's attack on neighboring Ukraine."
+    },
+    {
+      "id": "5049009",
+      "time": "2026-08-20 11:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部表示，在俄羅斯襲擊鄰國烏克蘭期間，一架無人機墜落在羅馬尼亞領土上。"
+    },
+    {
+      "id": "5049008",
+      "time": "2026-08-20 11:33:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度5年期國債收益率上漲5個基點至6.50%。"
+    },
     {
       "id": "5049007",
       "time": "2026-08-20 11:32:18",
@@ -143831,85 +143895,6 @@
         "國際"
       ],
       "text": "【美防長慫恿美洲反販毒集團聯盟國家退出國際刑事法院】美國國防部長赫格塞思12日表示，拒絕國際刑事法院對美國等國的軍事人員和軍事行動行使管轄權，並慫恿參加美洲反販毒集團聯盟的國家退出該法院。 當天在巴拿馬城舉行的美洲反販毒集團聯盟會議上，赫格塞思為美國在拉美地區針對所謂“販毒恐怖分子”採取的軍事行動進行辯護，稱相關行動符合武裝衝突法。他還聲稱，國際刑事法院欲對美國及其夥伴國家軍事人員和軍事行動行使管轄權的做法“沒有合法依據”，並稱該聯盟的成員應退出國際刑事法院。 美國不是《國際刑事法院羅馬規約》締約國。特朗普政府曾對國際刑事法院有關人員實施制裁。"
-    },
-    {
-      "id": "5038546",
-      "time": "2026-08-13 11:36:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟通動力中標哈電集團財務公司核心業務系統信創升級改造專案】據軟通動力訊息，近日，軟通動力成功中標哈爾濱電氣集團財務有限責任公司核心業務系統信創升級改造專案。"
-    },
-    {
-      "id": "5038545",
-      "time": "2026-08-13 11:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【速賣通全面加碼“海外託管”，上半年新入駐超2萬商家】速賣通當前全面加碼“海外託管”出海模式，正加速招商。2026年上半年，速賣通海外託管模式新入駐商家已超2萬家。海外託管是速賣通目前重點推廣的出海模式，即賣家負責本地備貨發貨；平臺負責定價、營銷、售後等全鏈路經營託管。目前其海外託管已覆蓋全球30多個國家與地區。"
-    },
-    {
-      "id": "te:economy:574892",
-      "time": "2026-08-13 11:36:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Full Year GDP Growth",
-        "Importance 1"
-      ],
-      "text": "PBoC Signals Targeted Support, No Major Easing — The People's Bank of China pledged to roll out “practical and effective” policy support promptly, while avoiding signals of major easing. In its quarterly monetary policy report released Wednesday, the central bank said it will intensify countercyclical adjustments, boost domestic demand, and channel more resources toward technological innovation and smaller firms. It vowed to conduct overnight reverse repo operations more frequently to fine-tune short-term rates, and urged that loans and bond financing be assessed together rather than focusing solely on credit growth. The PBoC noted that capital-heavy sectors like real estate and infrastructure have cooled, while emerging “new productive forces” are more asset-light, reducing traditional loan demand. It also stressed that global monetary recalibration is not a “drastic U-turn,” warning that history shows rapid tightening after massive easing tends to deliver sharper shocks to markets."
-    },
-    {
-      "id": "5038544",
-      "time": "2026-08-13 11:36:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Shein據悉考慮8月28日左右在香港上市交易】據知情人士透露， Shein計劃最早於 8 月 20 日開始接受投資者對其期待已久的香港首次公開募股（IPO）的認購，並於 8 月 28 日左右在香港上市。據知情人士透露，Shein原本計劃在此次IPO中實現約300億美元的估值——僅為其巔峰時期的一小部分——但遭到了投資者的反對，估值可能進一步下調。知情人士還表示，現有股東可能會認購約一半的股份。此次發行預計將籌集 20 億至 30 億美元。知情人士表示，相關討論仍在進行中，規模、估值和時間等細節可能會有所變化。"
-    },
-    {
-      "id": "mkt:019ff930-8de6-7aab-9017-f9b6e962bb2d",
-      "time": "2026-08-13 11:35:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【A-share midday: ChiNext opens higher, closes up 1.61% as innovative drug stocks rebound】All three A-share indexes opened higher; ChiNext rose over 2% intraday before paring gains to close up 1.61%. Shanghai Composite was up 0.42% and Shenzhen Composite Index rose 0.73%. Combined turnover on the two exchanges exceeded CNY 1.5 trillion and roughly 2,200 stocks advanced. Innovative drug stocks dipped early then rebounded to lead gains. The CPO sector was active. Compute-power leasing names spiked then pulled back. Precious metals eased, oil & gas exploration and services remained weak, and photovoltaic stocks retraced."
-    },
-    {
-      "id": "5038543",
-      "time": "2026-08-13 11:34:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shein據悉考慮8月28日在香港上市交易。"
-    },
-    {
-      "id": "5038542",
-      "time": "2026-08-13 11:33:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Shein計劃最早於 8 月 20 日開啟 IPO 認購。"
-    },
-    {
-      "id": "te:markets:574890",
-      "time": "2026-08-13 11:33:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Hits Over 5-Week High as Tech Leads — The TAIEX, Taiwan’s benchmark stock index, climbed 471 points, or 1.0%, to 45,989 in Thursday morning trade, up for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders tried to maintain the upward momentum in the technology sector. Electronic technology stocks rose 1.2%, following a 1.1% gain on Wednesday, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, advancing 0.8%. Hon Hai Precision Industry soared 2.7%, while Unimicron rose 0.8%. Meanwhile, Foxconn Technology, the world's largest contract electronics maker, rose 0.5% after posting a 35% jump in Q2 profit, beating analyst forecasts, supported by continued strong AI demand. An upbeat session on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting."
     }
   ]
 }
