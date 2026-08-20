@@ -1,7 +1,202 @@
 {
-  "updated": "2026-08-20 19:59:22",
-  "count": 15912,
+  "updated": "2026-08-20 20:03:16",
+  "count": 15920,
   "items": [
+    {
+      "id": "5050112",
+      "time": "2026-08-20 20:02:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1320.50美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01f0d-047d-7aab-90b5-4c0569f7b343",
+      "time": "2026-08-20 20:02:21",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley: UK inflation pressures less severe than headline CPI suggests】Morgan Stanley economists say domestic inflation pressures in the UK appear less severe than headline CPI suggests. July CPI rose to 2.9% from 2.6% in June, but services inflation slowed to 3.4% YoY from 3.6% and private‑sector wage growth remains weak as core services inflation decelerates. A competitive retail environment is limiting pass‑through to food prices. While a persistent energy shock could raise indirect and second‑round inflation risks, weaker wages and mild services inflation are likely to absorb most of the pressure."
+    },
+    {
+      "id": "5050111",
+      "time": "2026-08-20 20:02:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4460美元/盎司，日內跌1.40%。"
+    },
+    {
+      "id": "5050110",
+      "time": "2026-08-20 20:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：目前受損實際金額仍在核查當中，預計不會造成重大損失。"
+    },
+    {
+      "id": "5050109",
+      "time": "2026-08-20 20:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "POWERCOMPUTE披露，截至2026年7月31日，其持有的比特幣財庫規模為315.1枚比特幣，價值2020萬美元。"
+    },
+    {
+      "id": "5050108",
+      "time": "2026-08-20 20:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲0.54%，至2791點。"
+    },
+    {
+      "id": "mkt:01a01f0c-53d2-7aab-90b5-41f2738773fa",
+      "time": "2026-08-20 20:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Baltic Dry Index (BDI) rose 0.54% to 2,791."
+    },
+    {
+      "id": "5050107",
+      "time": "2026-08-20 20:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車業務：薩南德工廠已恢復正常運營。"
+    },
+    {
+      "id": "5050106",
+      "time": "2026-08-20 20:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥統計局初步估計，墨西哥經濟在七月份同比增長2.7%。"
+    },
+    {
+      "id": "mkt:01a01f0c-3039-7aab-90b5-3e437a63aae3",
+      "time": "2026-08-20 20:01:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver slipped below $66/oz, down 1.50% intraday."
+    },
+    {
+      "id": "5050105",
+      "time": "2026-08-20 20:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康龍化成：2026年半年度淨利潤7.5億元，同比增長6.96%】康龍化成公告，2026年半年度營業收入75.95億元，同比增長17.92%；歸屬於上市公司股東的淨利潤7.5億元，同比增長6.96%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6.93億元，同比增長8.87%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:economy:576857",
+      "time": "2026-08-20 20:01:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits Near 18-year High — France 10 Year Government Bond Yield increased to 4.15%, the highest since November 2008. Over the past 4 weeks, France 10Y Bond Yield gained 17.55 basis points, and in the last 12 months, it increased 67.09 basis points."
+    },
+    {
+      "id": "mkt:01a01f0b-edce-7aab-90b5-37780479dda1",
+      "time": "2026-08-20 20:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Africa's main stock index fell 1%."
+    },
+    {
+      "id": "mkt:01a01f0b-b0dc-7aab-90b5-2b2d03dc8d53",
+      "time": "2026-08-20 20:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's statistics agency preliminarily estimates the economy expanded 2.7% YoY in July."
+    },
+    {
+      "id": "5050104",
+      "time": "2026-08-20 20:00:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4520美元/盎司，日內跌0.56%。"
+    },
+    {
+      "id": "mkt:01a01f0b-59c3-7aab-90b5-221226cb382e",
+      "time": "2026-08-20 20:00:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "In the Shanghai Gold Exchange evening session on Aug 20, gold T+D opened 2.54% higher at 967.9 yuan/gram; silver T+D opened 5.06% higher at 16,191 yuan/kg."
+    },
+    {
+      "id": "5050103",
+      "time": "2026-08-20 20:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉斯加航空宣佈新開飛往雅典與巴黎的直飛航線。"
+    },
+    {
+      "id": "mkt:01a01f0b-2e61-7aab-90b5-1a4fa8ce718f",
+      "time": "2026-08-20 20:00:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says USS George Washington carrier strike group deployed to Middle East】CENTCOM confirmed the USS George Washington carrier strike group has been deployed to the Middle East. The strike group arrived in CENTCOM’s area of responsibility yesterday and is currently conducting operations in the region; the move follows an earlier extended deployment of the USS Lincoln that heightened tensions."
+    },
+    {
+      "id": "5050101",
+      "time": "2026-08-20 19:59:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌 1%，報 114885.90 點。"
+    },
+    {
+      "id": "5050100",
+      "time": "2026-08-20 19:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：按照當前的平均毛利率粗略計算，我們可在三年內實現人工智慧相關資本支出回本。"
+    },
+    {
+      "id": "mkt:01a01f0a-659d-7aab-90b5-156d9ab3acca",
+      "time": "2026-08-20 19:59:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq futures extended losses to 0.5%."
+    },
+    {
+      "id": "5050099",
+      "time": "2026-08-20 19:59:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至0.5%。"
+    },
     {
       "id": "mkt:01a01f09-edf0-7aab-90b5-0ebf114b4b07",
       "time": "2026-08-20 19:58:59",
@@ -145578,139 +145773,6 @@
         "其他"
       ],
       "text": "塔塔汽車乘用車部門高管談及大宗商品價格壓力時表示：第二季度我們將受到嚴重衝擊，受衝擊的不僅是我們，而是整個行業。"
-    },
-    {
-      "id": "5039454",
-      "time": "2026-08-13 20:02:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【北京專設全國首例“老字號發展處” 出臺18條硬核舉措】近日，北京市商務局等6部門聯合印發了《北京市促進餐飲和食品領域老字號傳承發展若干措施》，北京市商務局相關處室加掛“老字號發展處”牌子，這也是目前全國商務系統中的首例。此次出臺的《若干措施》包括18條舉措，圍繞老字號保護、傳承、創新、發展和管理服務展開，推動傳統老品牌守正創新、提質煥新。北京市圍繞餐飲和食品類老字號人才、技藝、商標、史料、博物館建設等關鍵環節，持續加大政策扶持力度。透過緊扣消費升級趨勢與市場結構變化，北京正引導老字號企業主動適配現代消費場景，聚焦產品研發、品牌聯名、場景融合、業態創新等領域深耕突破。此外，北京市商務部門聯合文旅、市場監管、智慧財產權等多個部門，提出推進老字號傳統技藝活化傳承、梳理保護老字號文脈史料等專項舉措，切實築牢老字號傳承發展的核心根基。下一步，北京市相關部門將統籌用好各類宣傳平臺與優質資源，深入挖掘、集中展示老字號創新發展的生動實踐與典型案例，講好老字號匠心傳承、創新發展故事，推動更多老字號在傳承中創新、在創新中發展，持續煥發時代新活力。（央視新聞）"
-    },
-    {
-      "id": "5039453",
-      "time": "2026-08-13 20:02:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文與亞馬遜雲科技深化戰略合作，企業端加速採用甲骨文 AI 資料庫。"
-    },
-    {
-      "id": "mkt:019ffb00-9404-7aab-9023-919295de5be0",
-      "time": "2026-08-13 20:02:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "ORCL.N",
-        "Impact bullish",
-        "AMZN.O"
-      ],
-      "text": "Oracle (ORCL.N) and Amazon Web Services (AWS) deepen strategic cooperation."
-    },
-    {
-      "id": "5039452",
-      "time": "2026-08-13 20:02:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍色能源專案計劃部署通用電氣可再生能源（GE Vernova）7HA.02燃氣輪機與GVH BWRX-300小型模組化反應堆，最終投資決策擬於2027年作出。"
-    },
-    {
-      "id": "5039451",
-      "time": "2026-08-13 20:02:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文公司：基於Exasscale基礎架構的Exadata資料庫服務現已正式釋出。"
-    },
-    {
-      "id": "mkt:019ffb00-4c59-7aab-9023-8d26c05640ee",
-      "time": "2026-08-13 20:02:08",
-      "tags": [
-        "MKT News",
-        "ORCL.O",
-        "Impact bullish"
-      ],
-      "text": "Oracle Corp said its Exadata Database Service built on Exascale infrastructure is now generally available."
-    },
-    {
-      "id": "5039450",
-      "time": "2026-08-13 20:01:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨運價指數下跌3.23%，至2844點。"
-    },
-    {
-      "id": "mkt:019ffaff-a26f-7aab-9023-86473d92f1b2",
-      "time": "2026-08-13 20:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index fell 3.23% to 2,844 points."
-    },
-    {
-      "id": "5039449",
-      "time": "2026-08-13 20:01:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西 6 月零售銷售同比增長 2.9%；市場預期 + 2.0%。"
-    },
-    {
-      "id": "5039448",
-      "time": "2026-08-13 20:01:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西 6 月零售銷售環比上漲 0.5%；市場預期 0%。"
-    },
-    {
-      "id": "mkt:019ffafe-d31e-7aab-9023-7d3a0ac5b459",
-      "time": "2026-08-13 20:00:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D opened the Aug 13 Thursday evening session down 0.48% at 949.2 yuan/gram; Silver T+D opened down 1.32% at 15,741.0 yuan/kg."
-    },
-    {
-      "id": "5039447",
-      "time": "2026-08-13 20:00:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "藍色能源公司與通用電氣日立能源集團簽署協議，啟動德克薩斯州“天然氣+核能”專案下一階段。"
-    },
-    {
-      "id": "5039446",
-      "time": "2026-08-13 20:00:01",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國股指期貨小幅走高 交易員等待PPI資料】美股期貨在紀錄高位附近交投，美國國債上漲，油價回落。交易員等待美國生產者價格資料，以尋找有關美聯儲利率路徑的更多線索。紐約時間7:33，美國三大股指期貨均上漲0.2%。10年期美國國債收益率下跌3個基點至4.67%。韓國晶片股延續漲勢，但思科盤前下跌5.8%，此前公司業績展望令投資者失望。Cerebras Systems Inc.大跌17%，因其硬體業務銷售額下降。市場焦點正轉向美國生產者價格資料，這是美聯儲看重的通脹指標的重要輸入類別。交易員還將關注250億美元30年期美國國債標售結果，預計發行收益率將創25年來新高。iForex高階市場分析師Michael Hewson表示：“很多東西都會變得貴得多，這將成為各國央行未來面臨的一項挑戰。”"
-    },
-    {
-      "id": "te:markets:575087",
-      "time": "2026-08-13 19:59:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Trade in Tight Range — US equity futures were muted ahead of key price data, while major AI companies held their strong momentum from recent sessions. The S&P 500 inched up to a record, while the Nasdaq 100 and the Dow were close to the flatline. Chip stocks and companies with exposure to AI infrastructure held their strong gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and its recent purchase of Decart AI continued to underpin the outlook for compute expenditures. Micron, Nvidia, and Amazon were higher. Meanwhile, producer prices are expected to rebound after June's lower reading, although a soft increase could consolidate the case for a rate hold by the Fed next month after the release tame consumer inflation."
     }
   ]
 }

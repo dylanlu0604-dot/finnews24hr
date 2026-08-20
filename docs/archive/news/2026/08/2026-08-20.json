@@ -1,7 +1,202 @@
 {
   "date": "2026-08-20",
-  "count": 2555,
+  "count": 2577,
   "items": [
+    {
+      "id": "5050112",
+      "time": "2026-08-20 20:02:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1320.50美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01f0d-047d-7aab-90b5-4c0569f7b343",
+      "time": "2026-08-20 20:02:21",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley: UK inflation pressures less severe than headline CPI suggests】Morgan Stanley economists say domestic inflation pressures in the UK appear less severe than headline CPI suggests. July CPI rose to 2.9% from 2.6% in June, but services inflation slowed to 3.4% YoY from 3.6% and private‑sector wage growth remains weak as core services inflation decelerates. A competitive retail environment is limiting pass‑through to food prices. While a persistent energy shock could raise indirect and second‑round inflation risks, weaker wages and mild services inflation are likely to absorb most of the pressure."
+    },
+    {
+      "id": "5050111",
+      "time": "2026-08-20 20:02:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4460美元/盎司，日內跌1.40%。"
+    },
+    {
+      "id": "5050110",
+      "time": "2026-08-20 20:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：目前受損實際金額仍在核查當中，預計不會造成重大損失。"
+    },
+    {
+      "id": "5050109",
+      "time": "2026-08-20 20:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "POWERCOMPUTE披露，截至2026年7月31日，其持有的比特幣財庫規模為315.1枚比特幣，價值2020萬美元。"
+    },
+    {
+      "id": "5050108",
+      "time": "2026-08-20 20:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲0.54%，至2791點。"
+    },
+    {
+      "id": "mkt:01a01f0c-53d2-7aab-90b5-41f2738773fa",
+      "time": "2026-08-20 20:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Baltic Dry Index (BDI) rose 0.54% to 2,791."
+    },
+    {
+      "id": "5050107",
+      "time": "2026-08-20 20:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車業務：薩南德工廠已恢復正常運營。"
+    },
+    {
+      "id": "5050106",
+      "time": "2026-08-20 20:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥統計局初步估計，墨西哥經濟在七月份同比增長2.7%。"
+    },
+    {
+      "id": "mkt:01a01f0c-3039-7aab-90b5-3e437a63aae3",
+      "time": "2026-08-20 20:01:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver slipped below $66/oz, down 1.50% intraday."
+    },
+    {
+      "id": "5050105",
+      "time": "2026-08-20 20:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康龍化成：2026年半年度淨利潤7.5億元，同比增長6.96%】康龍化成公告，2026年半年度營業收入75.95億元，同比增長17.92%；歸屬於上市公司股東的淨利潤7.5億元，同比增長6.96%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6.93億元，同比增長8.87%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:economy:576857",
+      "time": "2026-08-20 20:01:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits Near 18-year High — France 10 Year Government Bond Yield increased to 4.15%, the highest since November 2008. Over the past 4 weeks, France 10Y Bond Yield gained 17.55 basis points, and in the last 12 months, it increased 67.09 basis points."
+    },
+    {
+      "id": "mkt:01a01f0b-edce-7aab-90b5-37780479dda1",
+      "time": "2026-08-20 20:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Africa's main stock index fell 1%."
+    },
+    {
+      "id": "mkt:01a01f0b-b0dc-7aab-90b5-2b2d03dc8d53",
+      "time": "2026-08-20 20:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's statistics agency preliminarily estimates the economy expanded 2.7% YoY in July."
+    },
+    {
+      "id": "5050104",
+      "time": "2026-08-20 20:00:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4520美元/盎司，日內跌0.56%。"
+    },
+    {
+      "id": "mkt:01a01f0b-59c3-7aab-90b5-221226cb382e",
+      "time": "2026-08-20 20:00:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "In the Shanghai Gold Exchange evening session on Aug 20, gold T+D opened 2.54% higher at 967.9 yuan/gram; silver T+D opened 5.06% higher at 16,191 yuan/kg."
+    },
+    {
+      "id": "5050103",
+      "time": "2026-08-20 20:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉斯加航空宣佈新開飛往雅典與巴黎的直飛航線。"
+    },
+    {
+      "id": "mkt:01a01f0b-2e61-7aab-90b5-1a4fa8ce718f",
+      "time": "2026-08-20 20:00:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says USS George Washington carrier strike group deployed to Middle East】CENTCOM confirmed the USS George Washington carrier strike group has been deployed to the Middle East. The strike group arrived in CENTCOM’s area of responsibility yesterday and is currently conducting operations in the region; the move follows an earlier extended deployment of the USS Lincoln that heightened tensions."
+    },
+    {
+      "id": "5050101",
+      "time": "2026-08-20 19:59:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌 1%，報 114885.90 點。"
+    },
+    {
+      "id": "5050100",
+      "time": "2026-08-20 19:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：按照當前的平均毛利率粗略計算，我們可在三年內實現人工智慧相關資本支出回本。"
+    },
+    {
+      "id": "mkt:01a01f0a-659d-7aab-90b5-156d9ab3acca",
+      "time": "2026-08-20 19:59:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq futures extended losses to 0.5%."
+    },
+    {
+      "id": "5050099",
+      "time": "2026-08-20 19:59:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至0.5%。"
+    },
     {
       "id": "mkt:01a01f09-edf0-7aab-90b5-0ebf114b4b07",
       "time": "2026-08-20 19:58:59",
