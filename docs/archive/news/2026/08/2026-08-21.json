@@ -1,7 +1,47 @@
 {
   "date": "2026-08-21",
-  "count": 18,
+  "count": 22,
   "items": [
+    {
+      "id": "te:markets:576930",
+      "time": "2026-08-21 00:11:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.41% Lower — The DAX Index fell 108 points or 0.41 percent on Thursday to close at 25983 points. Leading the losses are Adidas (-3.14%), Rheinmetall (-1.80%) and MTU Aero Engines AG (-1.59%). Top gainers were Qiagen NV (3.25%), Symrise (2.03%) and Continental (1.13%)."
+    },
+    {
+      "id": "te:markets:576929",
+      "time": "2026-08-21 00:10:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.42% Lower — The CAC 40 Index dropped 35 points or 0.42 percent on Thursday to close at 8466 points. Losses were led by Stellantis NV (-3.88%), Kering (-3.52%) and LVMH (-2.46%). Offsetting the fall, top gainers were Eurofins Scientific SE (3.06%), Veolia (1.08%) and Michelin (1.03%)."
+    },
+    {
+      "id": "mkt:01a01fee-78fe-7aab-90bd-bd25ac392246",
+      "time": "2026-08-21 00:08:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said that as of Aug 20 it had forced 67 merchant vessels to divert course, disabled three ships and boarded and inspected two vessels to ensure compliance with applicable requirements."
+    },
+    {
+      "id": "5050592",
+      "time": "2026-08-21 00:07:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《給阿嬤的情書》在緬甸首映】中國電影《給阿嬤的情書》20日在緬甸仰光首映，中緬兩國各界人士200餘人觀影。據悉，該影片由緬甸院線引進，配有中英緬三語字幕，21日將在仰光和曼德勒的多家影院公映。（新華社）"
+    },
     {
       "id": "te:markets:576928",
       "time": "2026-08-21 00:07:06",
