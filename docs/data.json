@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-21 05:34:22",
-  "count": 16064,
+  "updated": "2026-08-21 05:38:12",
+  "count": 16065,
   "items": [
+    {
+      "id": "mkt:01a0211a-94ae-7aab-90c1-eed545723b92",
+      "time": "2026-08-21 05:36:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Brazil's central bank said it will not hold an FX swap rollover auction on Aug 21."
+    },
+    {
+      "id": "5050818",
+      "time": "2026-08-21 05:35:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與加拿大外長阿南德就北極安全、古巴改革展開磋商。"
+    },
+    {
+      "id": "5050817",
+      "time": "2026-08-21 05:34:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行宣告表示，不會在 8 月 21 日舉行外匯互換展期拍賣。"
+    },
+    {
+      "id": "5050816",
+      "time": "2026-08-21 05:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與加拿大外長阿南德重申半球共同優先事項。"
+    },
     {
       "id": "mkt:01a02115-eb65-7aab-90c1-e7c42245c0a5",
       "time": "2026-08-21 05:31:19",
@@ -146939,30 +146974,6 @@
         "AI Revolution"
       ],
       "text": "Market sources say OpenAI's annualized revenue exceeded $40 bln ahead of its IPO."
-    },
-    {
-      "id": "5040071",
-      "time": "2026-08-14 05:37:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI 上市前年化營收突破 400 億美元】據知情人士透露，按照當前業務表現，OpenAI 年化營收有望突破 400 億美元，較 2025 年末的年化營收大致翻倍，也為該公司登陸華爾街的計劃提供支撐。 OpenAI近幾月營收增長提速，部分來自 AI 編碼軟體業務的拉動，訂閱業務銷售與尚在起步的廣告業務同樣帶來增長動能，核心 C 端業務也持續擴張。"
-    },
-    {
-      "id": "5040070",
-      "time": "2026-08-14 05:35:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 上市前年化營收突破 400 億美元。"
-    },
-    {
-      "id": "mkt:019ffd0d-315d-7aab-902e-a7946c2d916c",
-      "time": "2026-08-14 05:35:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports Kushner is expected to travel to Cairo next week to meet with Egyptian mediators."
     }
   ]
 }
