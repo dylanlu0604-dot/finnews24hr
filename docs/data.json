@@ -1,7 +1,178 @@
 {
-  "updated": "2026-08-20 20:43:11",
-  "count": 15971,
+  "updated": "2026-08-20 20:47:07",
+  "count": 15978,
   "items": [
+    {
+      "id": "mkt:01a01f35-92da-7aab-90b7-a89709b123df",
+      "time": "2026-08-20 20:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY said the Fed remains well positioned to monitor incoming data."
+    },
+    {
+      "id": "te:markets:576869",
+      "time": "2026-08-20 20:46:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip on Inflation Concerns — Futures tracking Canada's stock market moved lower on Thursday as rising oil prices increased inflation concerns and falling gold prices pressured mining stocks. Oil prices climbed after US President Donald Trump announced a sweeping package of economic measures targeting Iran. Financials and the broader market came under pressure as yields rose amid inflation concerns. Gold prices fell as investors took profits following a climb to a more than two-month high, likely weighing on miners after Wednesday's rally. The Canadian producer inflation soared 12.4% in July, underscoring the impact of high energy prices on wholesale prices and in line with the elevated levels for yields. On the trade front, the US and Canada are reportedly nearing a deal."
+    },
+    {
+      "id": "5050251",
+      "time": "2026-08-20 20:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲意電氣：終止實施半導體分立器件研發及產業化專案】雲意電氣(300304.SZ)公告稱，公司董事會審議透過議案，擬終止實施2022年規劃的半導體分立器件研發及產業化專案，並將已建成廠房統籌調配用於全資子公司智慧雨刮系統專案建設。原專案計劃總投資6.81億元，廠房建設實際投入8196.36萬元，佔預計總投資12.03%。"
+    },
+    {
+      "id": "mkt:01a01f34-cd68-7aab-90b7-a2b091fe670e",
+      "time": "2026-08-20 20:45:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DALY said she does not believe AI investment will push overall inflation higher."
+    },
+    {
+      "id": "5050250",
+      "time": "2026-08-20 20:45:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪高管表示，降價活動已於7月底啟動，對返校季開局表現感到滿意。"
+    },
+    {
+      "id": "5050249",
+      "time": "2026-08-20 20:45:30",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲戴利：尚未觀察到 AI 建設帶來大範圍的通脹外溢效應。"
+    },
+    {
+      "id": "5050248",
+      "time": "2026-08-20 20:45:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "CONDUENT與谷歌雲展開合作，拓展企業人工智慧戰略，推出生成式 AI 驅動的電子證據開示解決方案。"
+    },
+    {
+      "id": "5050247",
+      "time": "2026-08-20 20:44:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【城發環境：擬申請註冊發行不超30億元債務融資工具】城發環境公告稱，公司擬向中國銀行間市場交易商協會申請統一註冊發行債務融資工具（PDFI），註冊規模不超過30億元，發行品種包括超短期融資券、短期融資券、中期票據、永續中票等，募集資金擬用於償還有息負債、補充流動資金等。本次事項已經公司第八屆董事會第七次會議審議透過，尚需提交公司股東會審議批准，並經中國銀行間市場交易商協會註冊後方可實施。"
+    },
+    {
+      "id": "5050246",
+      "time": "2026-08-20 20:44:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST西旅：2026年上半年營收2.04億元 淨虧損擴大】*ST西旅公告稱，2026年上半年實現營業收入2.04億元，同比下降6.51%；歸屬於上市公司股東的淨虧損5847.68萬元，同比擴大4.44%；扣除非經常性損益的淨虧損6622.55萬元，同比擴大18.40%。截至本報告期末，歸屬於上市公司股東的淨資產為-1.13億元，較上年度末下降107.23%。公司不派發現金紅利，不送紅股，不以公積金轉增股本。報告期內公司控股股東未發生變更，自2026年4月27日起證券簡稱由“西安旅遊”變更為“*ST西旅”。"
+    },
+    {
+      "id": "mkt:01a01f33-8280-7aab-90b7-9d3ea37e47f0",
+      "time": "2026-08-20 20:44:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's DALY: U.S. labor market is showing an unsettling stability."
+    },
+    {
+      "id": "5050245",
+      "time": "2026-08-20 20:44:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "ROBINHOOD執行長：休會期間仍將為推動《清晰度法案》多方遊說。"
+    },
+    {
+      "id": "mkt:01a01f33-2b67-7aab-90b7-9353db14b7aa",
+      "time": "2026-08-20 20:44:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "DALY said she sees no signs of labor-market weakening."
+    },
+    {
+      "id": "5050244",
+      "time": "2026-08-20 20:43:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：未看到勞動力市場出現走弱的任何跡象。"
+    },
+    {
+      "id": "te:economy:576867",
+      "time": "2026-08-20 20:43:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "South Africa Building Permits Jump in June — Building plans approved in South Africa surged by 30.5% from a year ago to around 9,868 million in June 2026, following a revised 12.9% slump in the previous month. This was the strongest increase since January 2025, underpinned by a strong recovery in plans approved for non-residential buildings (136.7% vs -10.5% in May). Additional support came from residential buildings (7.8% vs -13%) and additions & alterations (8.9% vs -14.2%)."
+    },
+    {
+      "id": "5050242",
+      "time": "2026-08-20 20:43:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想集團與海爾集團達成戰略合作，全方位推動算力與場景深度融合】8月20日，聯想集團與海爾集團在北京聯想全球總部正式簽署戰略合作協議。根據協議，雙方將圍繞算力基礎設施共建、核心技術聯合攻關、產業場景共創、供應鏈雙向賦能、行業標準協同共建等領域展開深度合作，打造可複製、可推廣的產業合作樣板，共同助力數字中國建設與“雙碳”目標實現。"
+    },
+    {
+      "id": "5050241",
+      "time": "2026-08-20 20:43:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【城發環境：2026年上半年淨利潤5.71億元，同比降3.12%】城發環境公告，2026年上半年營業收入32.7億元，同比增長1.67%。歸屬於上市公司股東的淨利潤5.71億元，同比下降3.12%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5.35億元，同比下降3.68%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050240",
+      "time": "2026-08-20 20:42:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "ROBINHOOD執行長：已與特朗普商討如何推動《清晰度法案》落地。"
+    },
     {
       "id": "mkt:01a01f31-e379-7aab-90b7-8cf0ac455151",
       "time": "2026-08-20 20:42:38",
@@ -145987,115 +146158,6 @@
         "國際"
       ],
       "text": "【伊朗外長：美國“誤判”霍爾木茲海峽局勢】伊朗外交部長阿拉格齊13日在社交媒體上發文說，美國因情報失誤在伊朗戰事、霍爾木茲海峽局勢等問題上存在“誤判”。 阿拉格齊寫道，“美國長期以來因情報失誤而誤判”，針對伊朗的戰爭就是“典型案例”，美國如今在霍爾木茲海峽問題上存在“更大的誤判”。他還說，美方應“小心假情報”。 美國總統特朗普12日在社交媒體上發文稱，“美國完全控制著霍爾木茲海峽……伊朗對此束手無策”。特朗普還寫道：“我認為我們會繼續控制它！” 據伊朗法爾斯通訊社13日報道，伊朗民兵武裝“動員窮人組織”負責人侯賽因·塔伊布當天表示，霍爾木茲海峽處於伊朗管理與控制之下。（新華社）"
-    },
-    {
-      "id": "5039547",
-      "time": "2026-08-13 20:46:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 交易員仍完全定價年內將加息，但目前 9 月加息機率略超三分之一，一週前該機率高於 50%。"
-    },
-    {
-      "id": "te:markets:575103",
-      "time": "2026-08-13 20:46:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Antofagasta earnings below expectations at 0.86 USD — Antofagasta (ANTO) released earnings per share at 0.86 USD, compared to market expectations of 0.93 USD."
-    },
-    {
-      "id": "mkt:019ffb28-fd5a-7aab-9025-98f1e36f41e9",
-      "time": "2026-08-13 20:46:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Fed official Harmack: Fed must raise rates now】Fed official Harmack said the Fed must raise rates now, arguing current policy is not restrictive and recent shocks have pushed inflation higher. He warned rapid growth could add further price pressure; rate hikes may be painful but are necessary to prevent economic overheating. Inflation is broad-based, not confined to specific sectors, and the Fed must be accountable to inflation data."
-    },
-    {
-      "id": "5039546",
-      "time": "2026-08-13 20:46:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲哈馬克：美聯儲現在必須加息】美聯儲官員哈瑪克最新表示：“美聯儲現在必須加息，因為現在的政策並具不限制性，近期衝擊下通脹上升。過快的增長可能會對價格施加額外壓力。加息可能會帶來痛苦，但不能讓經濟增長和投資過快，以至於經濟過熱。當下的通貨膨脹是廣泛存在的，不僅僅侷限於某些行業。美聯儲必須對通脹資料負責，這一點非常重要。”"
-    },
-    {
-      "id": "5039545",
-      "time": "2026-08-13 20:46:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈馬克：貨幣政策需要保持一定剋制才能壓低通脹。"
-    },
-    {
-      "id": "mkt:019ffb28-7c32-7aab-9025-97b95c762cb5",
-      "time": "2026-08-13 20:46:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Fed official Hammack said firms have adapted to tariff and oil shocks, showing resilience and investment potential."
-    },
-    {
-      "id": "5039544",
-      "time": "2026-08-13 20:45:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲巴爾金：就業市場持續支撐家庭支出】美聯儲巴爾金未說明他是否認為利率需要上調，但指出美聯儲\"許多\"官員認為當前利率水平已足夠限制性，能夠降低通脹。巴爾金表示：美國經濟某些方面仍是個謎，消費者和整體活動抵禦衝擊。巴爾金表示：就業市場持續支撐家庭支出，而擁有房產或股票的人群財富實現了\"顯著\"增長。鑑於薪酬壓力溫和，且關稅、油價及其他衝擊可能消退，有充分理由認為通脹將緩解。有理由認為價格壓力已根植於經濟之中，要麼需求走弱、要麼需要加息才能實現美聯儲的目標。巴爾金表示：企業投資似乎對利率、成本或不確定性“無動於衷”。人工智慧使企業得以嘗試減少員工數量，但由於盈利強勁，裁員壓力很小。"
-    },
-    {
-      "id": "5039543",
-      "time": "2026-08-13 20:43:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase在阿布扎比設立代幣化中心，已獲金融服務監管局（FSRA）頒發金融服務許可。"
-    },
-    {
-      "id": "te:markets:575101",
-      "time": "2026-08-13 20:43:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Higher on Earnings and Lower Oil — Futures tracking Canadian equities edged higher amid a fresh batch of corporate earnings and lower oil prices. Brookfield reported higher second-quarter distributable earnings per share. CCL Industries posted 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver reported 38% revenue growth and strong free cash flow, although EPS of $0.73 came in below expectations. Hydro One reported higher profit and EPS of C$0.62, beating forecasts. Metro posted 4.1% sales growth and 8.8% adjusted EPS growth, although same-store food sales remained modest and fiscal third-quarter adjusted earnings were weaker. Meanwhile, oil prices fell on weakening demand prospects. Easing inflationary pressures, following tame US PPI data, supported financials and other credit-sensitive shares, while lower oil and gold prices pressured commodity-related stocks."
-    },
-    {
-      "id": "mkt:019ffb26-1ef7-7aab-9025-8a005f12722e",
-      "time": "2026-08-13 20:43:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's Hammack said rate hikes may cause pain, but officials cannot allow growth and investment to accelerate to the point of economic overheating."
     }
   ]
 }
