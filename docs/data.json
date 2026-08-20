@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-20 14:37:44",
-  "count": 15640,
+  "updated": "2026-08-20 14:41:41",
+  "count": 15642,
   "items": [
+    {
+      "id": "te:markets:576750",
+      "time": "2026-08-20 14:40:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Recovers from Recent Weakness — Australia’s ASX 200 rose 30 points, or 0.3%, to close at 9,084 on Thursday, snapping a six-day losing streak. Gains in consumer durables, non-energy minerals, and healthcare helped lift sentiment, aided by a modest rise in U.S. futures after the Treasury said it would double longer-term debt purchases to ease yields. Local markets rebounded from a two-week low as top trading partner China kept lending rates at record lows for a 15th month to support growth. However, domestic headwinds capped momentum: July employment unexpectedly fell, pushing the jobless rate to a three-month high, while August inflation expectations rose from July’s six-month low, underscoring sticky price pressures with trimmed mean CPI up 3.6% yoy in June, the fastest since September 2024. Miners advanced, led by BHP (2.5%) and Rio Tinto (1.6%), while Northern Star Resources surged 5.9% on a 24% profit jump. In contrast, the big four banks slid 1.5% and 2.5%. Traders now await Friday’s flash PMI prints for August."
+    },
+    {
+      "id": "5049182",
+      "time": "2026-08-20 14:40:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音推出饞貓外賣 點外賣實為攢錢遊戲】抖音近期低調上線了一個名為“饞貓外賣”的小遊戲，它模擬點外賣，但遊戲中的訂單並不會真實產生和送達。使用者支付的金額，會存進饞貓錢罐，隨時可提現。"
+    },
+    {
+      "id": "5049181",
+      "time": "2026-08-20 14:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月20日：“農產品批發價格200指數”比昨天下降0.04個點】據農業農村部監測，8月20日“農產品批發價格200指數”為115.64，比昨天下降0.04個點，“菜籃子”產品批發價格指數為116.18，比昨天下降0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.13元/公斤，比昨天上升0.2%；牛肉68.62元/公斤，比昨天上升0.2%；羊肉65.84元/公斤，比昨天上升0.5%；雞蛋10.57元/公斤，比昨天下降0.2%；白條雞17.23元/公斤，比昨天下降0.6%。重點監測的28種蔬菜平均價格為4.63元/公斤，比昨天下降1.7%；重點監測的6種水果平均價格為6.83元/公斤，比昨天上升0.7%。鯽魚20.30元/公斤，比昨天上升1.1%；鯉魚14.40元/公斤，比昨天上升0.1%；白鰱魚10.60元/公斤，比昨天下降0.8%；大帶魚41.75元/公斤，比昨天上升1.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、菠菜、大黃花魚、蓮藕和平菇，幅度分別為2.9%、2.4%、2.3%、1.9%和1.9%；價格降幅前五名的是花鰱魚、鴨梨、富士蘋果、白鰱魚和南瓜，幅度分別為1.9%、1.5%、1.1%、0.8%和0.8%。"
+    },
+    {
+      "id": "mkt:01a01de6-10f7-7aab-90ab-524514eff980",
+      "time": "2026-08-20 14:40:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish",
+        "UBER.O"
+      ],
+      "text": "【Baidu's Apollo Go launches on Uber in Dubai】Baidu said its Apollo Go fully autonomous vehicles are now available on the Uber app in Dubai, with the fleet operated by New Horizon Luxury Transport. The rollout is the first live deployment under a multi-year strategic partnership; the companies had previously planned to integrate thousands of Apollo Go vehicles onto Uber's platform across multiple global markets."
+    },
+    {
+      "id": "mkt:01a01de6-052b-7aab-90ab-4e2d647e1d2c",
+      "time": "2026-08-20 14:40:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00291.HK",
+        "Impact mixed"
+      ],
+      "text": "【JP Morgan cuts China Resources Beer PT to HKD28, maintains Overweight】JP Morgan cut its target price for China Resources Beer (00291.HK) to HKD28 from HKD34 and kept an Overweight rating. The bank said 1H revenue rose 1.2% YoY v. market +2.2% and net profit fell 11% YoY v. consensus roughly flat. Average selling price rose just 0.5% (vs. expected 2%), implying the group is prioritizing market share and mass-market volume over premium-led price gains. JP Morgan sees an attractive risk/reward with the stock trading at about 10x 2027E P/E and a c.5.5% dividend yield, and reduced its target multiple to 14x from 15x to align with global peers."
+    },
+    {
+      "id": "mkt:01a01de5-b86b-7aab-90ab-423b4b197ee4",
+      "time": "2026-08-20 14:39:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Report: Samsung to convert Pyeongtaek fabs to three-story wafer plants】Samsung Electronics plans to expand and add P5-1 and P5-2 at its Pyeongtaek semiconductor complex, upgrading existing two-story wafer fabs to three-story facilities to maximize capacity amid an AI semiconductor and memory supercycle. The site-plan amendment requires review by the Gyeonggi provincial governor and final approval from the Ministry of Land, Infrastructure and Transport’s Industrial Site Policy Review Committee before taking effect."
+    },
+    {
+      "id": "5049180",
+      "time": "2026-08-20 14:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗的雷扎伊：對特朗普升級經濟戰的最佳回應就是退出《不擴散核武器條約》。"
+    },
+    {
+      "id": "mkt:01a01de4-e2a1-7aab-90ab-3b7cb2d5ba70",
+      "time": "2026-08-20 14:38:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Investors are optimistic about the Malaysian ringgit for the first time in nearly three months."
+    },
+    {
+      "id": "5049179",
+      "time": "2026-08-20 14:38:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "從業內獲悉的調研資料顯示，截至2025年末，保險資金配置的信託計劃存量規模降至8000億元左右，同比減少超兩成。險資配置信託計劃存量規模，2021年首次出現負增長，到2025年已連續5年收縮。最新規模降至萬億元以下，也是2017年以來的首次。（新華財經）"
+    },
+    {
+      "id": "mkt:01a01de4-d144-7aab-90ab-375e5e39457f",
+      "time": "2026-08-20 14:38:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Bullish bets on the Korean won (KRW) reached their highest level since mid-June 2025; short positions on the Indonesian rupiah (IDR) fell to their lowest since September 2025."
+    },
+    {
+      "id": "5049178",
+      "time": "2026-08-20 14:38:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人Hossein Mohebbi稱：葉門胡塞武裝的能力與日俱增，若爆發新戰爭，將動用更具毀滅性的武器。"
+    },
+    {
+      "id": "mkt:01a01de3-eee6-7aab-90ab-2bfd093b7063",
+      "time": "2026-08-20 14:37:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran should withdraw from the Nuclear Non-Proliferation Treaty (NPT) in response to Trump's economic pressure."
+    },
+    {
+      "id": "5049177",
+      "time": "2026-08-20 14:37:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星擬將平澤工廠擴建為三層廠房】三星電子將擴建並新建位於京畿道平澤半導體基地核心的“P5 1 和 2 工廠”，將現有的“雙層晶圓廠”結構升級為“三層晶圓廠”。此舉旨在順應全球人工智慧半導體和儲存器“超級週期”的趨勢，最大限度地提高產能。該產業園區規劃修正案需經京畿道知事稽核，並由國土交通部產業選址政策審議委員會批准後方可最終生效。"
+    },
+    {
+      "id": "te:markets:576749",
+      "time": "2026-08-20 14:37:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Resumes Gains — UK natural gas prices rose toward 157 pence per therm on Thursday, recouping the previous session’s losses as restrictions on shipping through the Strait of Hormuz continued to raise concerns over global LNG supplies. President Donald Trump vowed on Wednesday to impose “tremendous punishment” on countries that help or do business with Iran, ramping up economic pressure on Tehran to reopen the critical waterway. His threats came a day after he said there were no ongoing talks and that the naval blockade of Iran remained in force, while Tehran maintained that the waterway remained closed. The blockade has halted Qatari LNG deliveries, forcing European utilities to compete aggressively for available cargoes. Reduced LNG inflows, combined with heatwave-driven cooling demand, have slowed Europe’s seasonal gas storage injections. This has amplified concerns that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices."
+    },
+    {
+      "id": "mkt:01a01de3-9bd3-7aab-90ab-24ccd12d41cd",
+      "time": "2026-08-20 14:37:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC: Houthi capabilities rising; new war could see \"more destructive\" weapons】Islamic Revolutionary Guard Corps spokesman Hossein Mohebbi told state news agency IRNA that Houthi forces in Yemen have grown stronger and that, if a new conflict erupts, they would employ more destructive weapons. He said Iran’s weapons production and R&D are continuously advancing and that Tehran is producing more precise, more destructive and more advanced weapons; differences could appear in warhead types, strike accuracy, missile range or other characteristics. Mohebbi also claimed recent Saudi strikes have been met by multiple retaliatory attacks."
+    },
     {
       "id": "mkt:01a01de3-3253-7aab-90ab-193f53ab8091",
       "time": "2026-08-20 14:37:03",
@@ -143351,134 +143499,6 @@
         "Greater China"
       ],
       "text": "ChiNext index turned negative in the afternoon after rising more than 2% in early trade."
-    },
-    {
-      "id": "te:markets:574941",
-      "time": "2026-08-13 14:41:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Eases Ahead of US PPI Data — Silver slipped below $65 an ounce on Thursday after reaching a seven-week high earlier in the session, as investors adopted a cautious stance ahead of US producer inflation data for further insights on recent price trends. Data released Wednesday showed US consumer inflation eased for a second consecutive month to 3.4% in July, while increasing just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Precious metals also remained under pressure from elevated oil prices as hopes for a deal to reopen the Strait of Hormuz stayed limited. Escalating rhetoric between the US and Iran amid stalled negotiations further reduced expectations for an imminent agreement."
-    },
-    {
-      "id": "5038745",
-      "time": "2026-08-13 14:41:15",
-      "tags": [
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【創業板指翻綠 此前一度漲超2%】指數午後大幅回落，創業板指翻綠，早盤一度漲超2%；滬指、深成指跌超0.3%，滬深京三市下跌個股近4100只。"
-    },
-    {
-      "id": "5038744",
-      "time": "2026-08-13 14:41:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆易創新A股成交額超200億元】8月13日下午，兆易創新A股成交額超200億元，現跌1.37%。"
-    },
-    {
-      "id": "te:markets:574940",
-      "time": "2026-08-13 14:39:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Pulls Back Ahead of US PPI Data — Gold slipped below $4,400 an ounce on Thursday after reaching a ten-week high earlier in the session, as investors adopted a cautious stance ahead of US producer inflation data for further insights on recent price trends. Data released Wednesday showed US consumer inflation eased for a second consecutive month to 3.4% in July, while increasing just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Gold also remained under pressure from elevated oil prices as hopes for a deal to reopen the Strait of Hormuz stayed limited. Escalating rhetoric between the US and Iran amid stalled negotiations further reduced expectations for an imminent agreement."
-    },
-    {
-      "id": "5038743",
-      "time": "2026-08-13 14:39:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月共38家中國遊戲廠商佔全球百強近四成收入】8月13日，Sensor Tower 商店情報平臺顯示，2026年7月共38箇中國廠商入圍全球手遊發行商收入榜 TOP 100，合計吸金23億美元，佔本期全球 TOP 100手遊發行商收入42.6%。7月中國手遊 Top 5發行商收入均過億（美元），騰訊、網易、米哈遊實現兩位數增長，其中米哈遊收入環比大增71%，增幅位居 Top 30發行商前列；沐瞳科技、心動網路、Modo Global等多家發行商在暑期內容與活動推動下實現收入顯著增長。"
-    },
-    {
-      "id": "mkt:019ff9d9-35e6-7aab-901b-96b7697f3533",
-      "time": "2026-08-13 14:39:49",
-      "tags": [
-        "MKT News",
-        "0992.HK"
-      ],
-      "text": "Lenovo CEO says the company will flexibly adjust consumer-electronics pricing depending on supply conditions."
-    },
-    {
-      "id": "mkt:019ff9d8-b57d-7aab-901b-8ab2177519bb",
-      "time": "2026-08-13 14:39:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "0992.HK"
-      ],
-      "text": "Lenovo CEO says the company, in collaboration with NVIDIA (NVDA.O), plans to launch an AI PC powered by RTX chips later this year."
-    },
-    {
-      "id": "mkt:019ff9d8-7fc4-7aab-901b-808463fe6db8",
-      "time": "2026-08-13 14:39:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Jinan 1H financial sector value added 77.53 bln yuan, up 14.7% YoY】Jinan's financial sector value added was 77.53 bln yuan in 1H, up 14.7% YoY and accounting for 11% of GDP. As of end-June, total social financing outstanding stood at 5.63 tln yuan (+8.6% YoY); domestic and foreign-currency deposits 3.40 tln yuan (+5.8% YoY); and domestic and foreign-currency loans 3.67 tln yuan (+8.0% YoY)."
-    },
-    {
-      "id": "5038742",
-      "time": "2026-08-13 14:38:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【因多瑙河水位持續下降 羅馬尼亞唯一核電站停運】當地時間8月13日，羅馬尼亞核電公司釋出公告稱，鑑於多瑙河水位持續顯著下降，該國已正式啟動切爾納沃德核電站2號機組的受控停機程式。當地核電站專家將根據未來多瑙河水位的預測走勢，擇機決定重新併網的時間。受罕見低水位影響，該核電站1號機組已於7月下旬實施受控停機。（央視新聞）"
-    },
-    {
-      "id": "5038741",
-      "time": "2026-08-13 14:38:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【濟南：上半年金融業增加值775.3億元 同比增長14.7%】記者8月13日從濟南市新聞辦舉行的新聞釋出會上獲悉，上半年，濟南市金融業增加值完成775.3億元，同比增長14.7%，佔地區生產總值的比重為11%。截至6月末，濟南市社會融資規模餘額5.63萬億元，同比增長8.6%；本外幣存款餘額3.4萬億元，同比增長5.8%；本外幣貸款餘額3.67萬億元，同比增長8%。（上證報）"
-    },
-    {
-      "id": "5038740",
-      "time": "2026-08-13 14:38:14",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "聯想執行長：正與英偉達合作，將於今年下半年推出搭載RTX晶片的AI個人電腦。"
-    },
-    {
-      "id": "5038739",
-      "time": "2026-08-13 14:38:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長：將根據供應情況靈活調整消費電子產品價格。"
-    },
-    {
-      "id": "5038738",
-      "time": "2026-08-13 14:37:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長：記憶體短缺背景下，我們正盡全力保障充足的記憶體供應。"
     }
   ]
 }

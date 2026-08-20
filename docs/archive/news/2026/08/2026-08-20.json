@@ -1,7 +1,155 @@
 {
   "date": "2026-08-20",
-  "count": 1273,
+  "count": 1288,
   "items": [
+    {
+      "id": "te:markets:576750",
+      "time": "2026-08-20 14:40:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Recovers from Recent Weakness — Australia’s ASX 200 rose 30 points, or 0.3%, to close at 9,084 on Thursday, snapping a six-day losing streak. Gains in consumer durables, non-energy minerals, and healthcare helped lift sentiment, aided by a modest rise in U.S. futures after the Treasury said it would double longer-term debt purchases to ease yields. Local markets rebounded from a two-week low as top trading partner China kept lending rates at record lows for a 15th month to support growth. However, domestic headwinds capped momentum: July employment unexpectedly fell, pushing the jobless rate to a three-month high, while August inflation expectations rose from July’s six-month low, underscoring sticky price pressures with trimmed mean CPI up 3.6% yoy in June, the fastest since September 2024. Miners advanced, led by BHP (2.5%) and Rio Tinto (1.6%), while Northern Star Resources surged 5.9% on a 24% profit jump. In contrast, the big four banks slid 1.5% and 2.5%. Traders now await Friday’s flash PMI prints for August."
+    },
+    {
+      "id": "5049182",
+      "time": "2026-08-20 14:40:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音推出饞貓外賣 點外賣實為攢錢遊戲】抖音近期低調上線了一個名為“饞貓外賣”的小遊戲，它模擬點外賣，但遊戲中的訂單並不會真實產生和送達。使用者支付的金額，會存進饞貓錢罐，隨時可提現。"
+    },
+    {
+      "id": "5049181",
+      "time": "2026-08-20 14:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月20日：“農產品批發價格200指數”比昨天下降0.04個點】據農業農村部監測，8月20日“農產品批發價格200指數”為115.64，比昨天下降0.04個點，“菜籃子”產品批發價格指數為116.18，比昨天下降0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.13元/公斤，比昨天上升0.2%；牛肉68.62元/公斤，比昨天上升0.2%；羊肉65.84元/公斤，比昨天上升0.5%；雞蛋10.57元/公斤，比昨天下降0.2%；白條雞17.23元/公斤，比昨天下降0.6%。重點監測的28種蔬菜平均價格為4.63元/公斤，比昨天下降1.7%；重點監測的6種水果平均價格為6.83元/公斤，比昨天上升0.7%。鯽魚20.30元/公斤，比昨天上升1.1%；鯉魚14.40元/公斤，比昨天上升0.1%；白鰱魚10.60元/公斤，比昨天下降0.8%；大帶魚41.75元/公斤，比昨天上升1.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、菠菜、大黃花魚、蓮藕和平菇，幅度分別為2.9%、2.4%、2.3%、1.9%和1.9%；價格降幅前五名的是花鰱魚、鴨梨、富士蘋果、白鰱魚和南瓜，幅度分別為1.9%、1.5%、1.1%、0.8%和0.8%。"
+    },
+    {
+      "id": "mkt:01a01de6-10f7-7aab-90ab-524514eff980",
+      "time": "2026-08-20 14:40:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish",
+        "UBER.O"
+      ],
+      "text": "【Baidu's Apollo Go launches on Uber in Dubai】Baidu said its Apollo Go fully autonomous vehicles are now available on the Uber app in Dubai, with the fleet operated by New Horizon Luxury Transport. The rollout is the first live deployment under a multi-year strategic partnership; the companies had previously planned to integrate thousands of Apollo Go vehicles onto Uber's platform across multiple global markets."
+    },
+    {
+      "id": "mkt:01a01de6-052b-7aab-90ab-4e2d647e1d2c",
+      "time": "2026-08-20 14:40:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00291.HK",
+        "Impact mixed"
+      ],
+      "text": "【JP Morgan cuts China Resources Beer PT to HKD28, maintains Overweight】JP Morgan cut its target price for China Resources Beer (00291.HK) to HKD28 from HKD34 and kept an Overweight rating. The bank said 1H revenue rose 1.2% YoY v. market +2.2% and net profit fell 11% YoY v. consensus roughly flat. Average selling price rose just 0.5% (vs. expected 2%), implying the group is prioritizing market share and mass-market volume over premium-led price gains. JP Morgan sees an attractive risk/reward with the stock trading at about 10x 2027E P/E and a c.5.5% dividend yield, and reduced its target multiple to 14x from 15x to align with global peers."
+    },
+    {
+      "id": "mkt:01a01de5-b86b-7aab-90ab-423b4b197ee4",
+      "time": "2026-08-20 14:39:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Report: Samsung to convert Pyeongtaek fabs to three-story wafer plants】Samsung Electronics plans to expand and add P5-1 and P5-2 at its Pyeongtaek semiconductor complex, upgrading existing two-story wafer fabs to three-story facilities to maximize capacity amid an AI semiconductor and memory supercycle. The site-plan amendment requires review by the Gyeonggi provincial governor and final approval from the Ministry of Land, Infrastructure and Transport’s Industrial Site Policy Review Committee before taking effect."
+    },
+    {
+      "id": "5049180",
+      "time": "2026-08-20 14:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗的雷扎伊：對特朗普升級經濟戰的最佳回應就是退出《不擴散核武器條約》。"
+    },
+    {
+      "id": "mkt:01a01de4-e2a1-7aab-90ab-3b7cb2d5ba70",
+      "time": "2026-08-20 14:38:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Investors are optimistic about the Malaysian ringgit for the first time in nearly three months."
+    },
+    {
+      "id": "mkt:01a01de4-d144-7aab-90ab-375e5e39457f",
+      "time": "2026-08-20 14:38:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Bullish bets on the Korean won (KRW) reached their highest level since mid-June 2025; short positions on the Indonesian rupiah (IDR) fell to their lowest since September 2025."
+    },
+    {
+      "id": "5049179",
+      "time": "2026-08-20 14:38:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "從業內獲悉的調研資料顯示，截至2025年末，保險資金配置的信託計劃存量規模降至8000億元左右，同比減少超兩成。險資配置信託計劃存量規模，2021年首次出現負增長，到2025年已連續5年收縮。最新規模降至萬億元以下，也是2017年以來的首次。（新華財經）"
+    },
+    {
+      "id": "5049178",
+      "time": "2026-08-20 14:38:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人Hossein Mohebbi稱：葉門胡塞武裝的能力與日俱增，若爆發新戰爭，將動用更具毀滅性的武器。"
+    },
+    {
+      "id": "mkt:01a01de3-eee6-7aab-90ab-2bfd093b7063",
+      "time": "2026-08-20 14:37:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said Iran should withdraw from the Nuclear Non-Proliferation Treaty (NPT) in response to Trump's economic pressure."
+    },
+    {
+      "id": "5049177",
+      "time": "2026-08-20 14:37:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星擬將平澤工廠擴建為三層廠房】三星電子將擴建並新建位於京畿道平澤半導體基地核心的“P5 1 和 2 工廠”，將現有的“雙層晶圓廠”結構升級為“三層晶圓廠”。此舉旨在順應全球人工智慧半導體和儲存器“超級週期”的趨勢，最大限度地提高產能。該產業園區規劃修正案需經京畿道知事稽核，並由國土交通部產業選址政策審議委員會批准後方可最終生效。"
+    },
+    {
+      "id": "te:markets:576749",
+      "time": "2026-08-20 14:37:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Resumes Gains — UK natural gas prices rose toward 157 pence per therm on Thursday, recouping the previous session’s losses as restrictions on shipping through the Strait of Hormuz continued to raise concerns over global LNG supplies. President Donald Trump vowed on Wednesday to impose “tremendous punishment” on countries that help or do business with Iran, ramping up economic pressure on Tehran to reopen the critical waterway. His threats came a day after he said there were no ongoing talks and that the naval blockade of Iran remained in force, while Tehran maintained that the waterway remained closed. The blockade has halted Qatari LNG deliveries, forcing European utilities to compete aggressively for available cargoes. Reduced LNG inflows, combined with heatwave-driven cooling demand, have slowed Europe’s seasonal gas storage injections. This has amplified concerns that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices."
+    },
+    {
+      "id": "mkt:01a01de3-9bd3-7aab-90ab-24ccd12d41cd",
+      "time": "2026-08-20 14:37:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC: Houthi capabilities rising; new war could see \"more destructive\" weapons】Islamic Revolutionary Guard Corps spokesman Hossein Mohebbi told state news agency IRNA that Houthi forces in Yemen have grown stronger and that, if a new conflict erupts, they would employ more destructive weapons. He said Iran’s weapons production and R&D are continuously advancing and that Tehran is producing more precise, more destructive and more advanced weapons; differences could appear in warhead types, strike accuracy, missile range or other characteristics. Mohebbi also claimed recent Saudi strikes have been met by multiple retaliatory attacks."
+    },
     {
       "id": "mkt:01a01de3-3253-7aab-90ab-193f53ab8091",
       "time": "2026-08-20 14:37:03",
