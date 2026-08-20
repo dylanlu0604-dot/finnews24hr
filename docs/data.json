@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-21 01:56:43",
-  "count": 16095,
+  "updated": "2026-08-21 02:00:43",
+  "count": 16093,
   "items": [
+    {
+      "id": "mkt:01a02053-9d0a-7aab-90bf-7d01b3d4ff37",
+      "time": "2026-08-21 01:59:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Sources say Anthropic's IPO is expected to match or exceed SpaceX's record size. The company plans to prepare IPO filing documents as early as the end of August. Anthropic reported Q2 revenue above $11.5 bln and July annualized revenue of $65 bln."
+    },
+    {
+      "id": "5050704",
+      "time": "2026-08-21 01:57:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：Anthropic預計最快於10月上市。"
+    },
     {
       "id": "5050703",
       "time": "2026-08-21 01:55:52",
@@ -147243,41 +147261,6 @@
         "MKT News"
       ],
       "text": "【Iran's foreign ministry again condemns U.S., Israel for violating international humanitarian law】On the 13th, marking the 77th anniversary of the Fourth Geneva Convention, Iran's foreign ministry issued a statement condemning the U.S. and Israel for violations of international humanitarian law and urging the international community to ensure compliance with the Geneva Conventions. The statement accused Israel of committing violations in Palestine, Lebanon and Syria in recent years and said U.S. support for Israel has further exacerbated those violations."
-    },
-    {
-      "id": "5039941",
-      "time": "2026-08-14 02:00:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部再次譴責美以違反國際人道法】當地時間13日，在《日內瓦第四公約》透過77週年之際，伊朗外交部發表宣告，譴責美國和以色列違反國際人道法，並呼籲國際社會採取行動，確保《日內瓦公約》得到遵守。伊朗外交部在宣告中譴責以色列過去數年在巴勒斯坦、黎巴嫩和敘利亞實施違反國際人道法的行為，並稱美國對以色列的支援進一步加劇了相關問題。（央視新聞）"
-    },
-    {
-      "id": "5039940",
-      "time": "2026-08-14 02:00:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列方面訊息：美國海軍上將呼籲對伊朗天然氣、石油及電力基礎設施重新發動打擊。"
-    },
-    {
-      "id": "5039939",
-      "time": "2026-08-14 01:59:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特方面訊息：葉門胡塞武裝用兩枚彈道導彈襲擊了位於曼德海峽附近的哈里基亞重要設施。"
-    },
-    {
-      "id": "mkt:019ffc45-5fd1-7aab-902b-ef679580d8ee",
-      "time": "2026-08-14 01:57:12",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Saudi outlet Alhadath reported Yemen's Houthi forces launched two ballistic missiles at an important facility in Harikiyah near the Bab al-Mandeb Strait."
     }
   ]
 }
