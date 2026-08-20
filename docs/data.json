@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-21 04:29:28",
-  "count": 16110,
+  "updated": "2026-08-21 04:33:17",
+  "count": 16107,
   "items": [
+    {
+      "id": "mkt:01a020df-97b0-7aab-90c1-5789f905989b",
+      "time": "2026-08-21 04:31:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "AVGO.O",
+        "Impact mixed",
+        "NVDA.O"
+      ],
+      "text": "【Sources: Broadcom in talks to raise over $60bn debt for AI-chip deal】Broadcom (AVGO.O) is negotiating with lenders to raise more than $60bn of debt to finance an AI‑chip transaction that would benefit Anthropic and other AI firms, people familiar with the matter said. The package, still being finalised, could include a roughly $30bn subordinated tranche; under the proposal Broadcom would guarantee part of the secured debt—potentially $60–70bn—with the total programme possibly reaching about $100bn. The agreement would accelerate AI infrastructure financing as Broadcom seeks to expand chip and data‑centre equipment sales to challenge NVIDIA."
+    },
+    {
+      "id": "5050797",
+      "time": "2026-08-21 04:31:22",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至8月14日當週外國央行持有美國國債 -106.71億美元，前值-342.57億美元。"
+    },
+    {
+      "id": "mkt:01a020de-e53e-7aab-90c1-48c27b8591d9",
+      "time": "2026-08-21 04:31:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries fell $10.67bn in the week to Aug. 14, versus a $34.26bn decline in the prior week."
+    },
+    {
+      "id": "mkt:01a020de-c00d-7aab-90c1-443e619365f0",
+      "time": "2026-08-21 04:31:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Aug.14) | actual -10671000000B | previous -34257000000B"
+    },
+    {
+      "id": "5050796",
+      "time": "2026-08-21 04:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "建材巨頭Holcim據稱將收購James Hardie的部分歐洲業務。"
+    },
     {
       "id": "te:markets:576960",
       "time": "2026-08-21 04:28:58",
@@ -147360,84 +147416,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%)."
-    },
-    {
-      "id": "5040027",
-      "time": "2026-08-14 04:33:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "泛林集團計劃在未來五年內投資超過30億美元，以擴大其全球實驗室網路，目標是將實驗產能提升50%以上。"
-    },
-    {
-      "id": "5040026",
-      "time": "2026-08-14 04:32:33",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團：花旗美國消費信用卡業務宣佈已達成協議收購 Kard Financial, Inc."
-    },
-    {
-      "id": "5040025",
-      "time": "2026-08-14 04:31:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長稱可“無限期維持”對伊朗海上封鎖】美國國防部長赫格塞思13日表示，美軍擁有足夠的軍事力量，可以“無限期維持”對伊朗的海上封鎖。據美國大全新聞網報道，赫格塞思當天在巴拿馬向一艘美國軍艦上的官兵發表講話後對媒體說，“美國海軍完全有能力無限期地維持這種封鎖，因為我們會像過去那樣，繼續輪換艦船”。（新華社）"
-    },
-    {
-      "id": "mkt:019ffcd2-40e4-7aab-902d-8c2cedfc9f4d",
-      "time": "2026-08-14 04:31:05",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Foreign official holdings of U.S. Treasuries fell $34.26 bln in the week to Aug. 7, versus a $25.53 bln decline in the prior week."
-    },
-    {
-      "id": "5040024",
-      "time": "2026-08-14 04:31:04",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至8月7日當週外國央行持有美國國債 -342.57億美元，前值-255.34億美元。"
-    },
-    {
-      "id": "mkt:019ffcd2-10b0-7aab-902d-8236487866bd",
-      "time": "2026-08-14 04:30:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Aug.7) | actual -34257000000B | previous -25534000000B"
-    },
-    {
-      "id": "mkt:019ffcd1-dc0b-7aab-902d-7c1150655b68",
-      "time": "2026-08-14 04:30:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Abu Dhabi National Oil Co (ADNOC) said two vessels were attacked on Thursday while transiting the Strait of Hormuz; no injuries were reported."
-    },
-    {
-      "id": "5040023",
-      "time": "2026-08-14 04:29:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋阿布扎比國家石油公司（ADNOC）表示，旗下兩艘船隻週四在霍爾木茲海峽通行途中遭到襲擊，暫無人員受傷報告。"
     }
   ]
 }
