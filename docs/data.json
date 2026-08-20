@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-21 03:27:27",
-  "count": 16094,
+  "updated": "2026-08-21 03:31:21",
+  "count": 16098,
   "items": [
+    {
+      "id": "mkt:01a020a6-5415-7aab-90c0-7b8e4c252520",
+      "time": "2026-08-21 03:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for Canada-U.S. trade, LeBlanc, said they will remain in Washington until deal details are finalised."
+    },
+    {
+      "id": "5050767",
+      "time": "2026-08-21 03:28:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大美加貿易事務部長勒布朗：加拿大與美國已非常接近達成協議，我們仍在持續取得進展。在敲定協議具體細節之前，我們將繼續在此談判。"
+    },
+    {
+      "id": "mkt:01a020a5-0316-7aab-90c0-72a0b9f9c8f2",
+      "time": "2026-08-21 03:28:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Canada's minister for Canada-U.S. trade, LeBlanc, said Canada and the United States are very close to reaching an agreement and are continuing to make progress."
+    },
+    {
+      "id": "mkt:01a020a4-a0b0-7aab-90c0-686b406d3cdf",
+      "time": "2026-08-21 03:27:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada-U.S. trade minister Leblanc said Canada and the United States are continuing negotiations on a possible agreement."
+    },
+    {
+      "id": "5050766",
+      "time": "2026-08-21 03:27:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大美加貿易事務部長勒布朗：加美兩國仍在就潛在協議持續開展談判。"
+    },
     {
       "id": "mkt:01a020a0-afe7-7aab-90c0-65eea7a1b154",
       "time": "2026-08-21 03:23:16",
@@ -147252,14 +147296,6 @@
         "Brent"
       ],
       "text": "【International oil prices fall on 13th】NYMEX September light sweet crude fell $2.02 to $81.25 a barrel, down 2.43%. Brent October fell $1.91 to $87.07 a barrel, down 2.15%."
-    },
-    {
-      "id": "5039997",
-      "time": "2026-08-14 03:31:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價13日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.02美元，收於每桶81.25美元，跌幅為2.43%；10月交貨的倫敦布倫特原油期貨價格下跌1.91美元，收於每桶87.07美元，跌幅為2.15%。"
     }
   ]
 }
