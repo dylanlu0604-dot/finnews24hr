@@ -1,7 +1,425 @@
 {
   "date": "2026-08-20",
-  "count": 1544,
+  "count": 1589,
   "items": [
+    {
+      "id": "5049389",
+      "time": "2026-08-20 16:02:11",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【馬斯克稱中國在火箭技術和AI領域都是“最強競爭對手”】馬斯克週三在X上發帖稱，“中國也是迄今為止人工智慧領域的最強競爭對手”，回應了他15年前的一則預言，即中國最終將成為SpaceX在火箭技術方面最重要的對手。馬斯克是在回應科技評論人士布萊恩・羅梅勒翻出的他在 2011 年釋出的一條推文，當時馬斯克寫道：“在火箭技術方面，SpaceX已接近擊敗波音、洛克希德・馬丁、歐洲（阿麗亞娜系列）以及俄羅斯（質子號 / 聯盟號）。最終較量的關鍵將是中國。”"
+    },
+    {
+      "id": "mkt:01a01e31-2032-7aab-90ad-ca964a28befb",
+      "time": "2026-08-20 16:02:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "London Metal Exchange stocks: copper +3,950 tonnes, nickel +2,946 tonnes; zinc -650 tonnes, lead -1,475 tonnes, tin -130 tonnes; aluminium unchanged."
+    },
+    {
+      "id": "5049388",
+      "time": "2026-08-20 16:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋅庫存減少650噸，鉛庫存減少1475噸，錫庫存減少130噸，鋁庫存持平，鎳庫存增加2946噸，銅庫存增加3950噸。"
+    },
+    {
+      "id": "5049387",
+      "time": "2026-08-20 16:02:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "EQUINOR與ORLEN透過原油協議加強能源合作。"
+    },
+    {
+      "id": "5049386",
+      "time": "2026-08-20 16:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺8月20日16時釋出海浪藍色警報：受南海熱帶低壓的影響，預計：8月20日夜間到21日下午，南海北部、中部、北部灣將出現2.5到3.8米的大浪區；海南近岸海域將出現2到3.2米的中浪到大浪，近岸海域海浪預警級別為藍色。"
+    },
+    {
+      "id": "5049385",
+      "time": "2026-08-20 16:01:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數上漲，SK海力士漲4%】美股大型科技股盤前多數上漲，SK海力士漲4%，美光科技漲1%，Meta、英偉達漲0.6%，亞馬遜漲0.1%，SpaceX、谷歌A持平，微軟、特斯拉跌0.1%，蘋果跌0.4%。"
+    },
+    {
+      "id": "5049384",
+      "time": "2026-08-20 16:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，嗶哩嗶哩跌3%】美股中概股盤前漲跌互現，理想汽車漲2%，百度、百濟神州漲1%，阿里巴巴漲0.6%，京東跌0.2%，攜程跌0.6%，網易跌2%，嗶哩嗶哩跌3%。"
+    },
+    {
+      "id": "5049383",
+      "time": "2026-08-20 16:01:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深交所：深入開展發行上市稽核領域提質增效專項行動】8月20日，在2026世界機器人大會“亦企贏·把握創業板改革機遇，助力經開區企業深交所上市專場活動”上，深交所相關負責人表示，去年以來深交所稽核效率持續提升，今年將以創業板改革為契機，深入開展發行上市稽核領域提質增效專項行動，不斷提升稽核工作的透明度和可預期性，讓更多優質創新企業快速高效進入資本市場。（新華財經）"
+    },
+    {
+      "id": "mkt:01a01e30-af1a-7aab-90ad-c0db927ad265",
+      "time": "2026-08-20 16:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen Stock Exchange to deepen campaign to raise quality and efficiency of issuance and listing reviews】On Aug 20 at the 2026 World Robot Conference, the Shenzhen Stock Exchange (SZSE) said it will use the ChiNext reform as an opportunity to launch a targeted campaign this year to improve quality and efficiency in issuance and listing reviews. SZSE said review efficiency has risen since last year and the initiative will boost transparency and predictability to help more high-quality innovative firms enter China’s capital markets quickly and efficiently."
+    },
+    {
+      "id": "5049382",
+      "time": "2026-08-20 16:01:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500微型E-迷你股指期貨上漲0.02%，納斯達克100股指期貨上漲0.27%，道瓊斯股指期貨下跌0.09%。"
+    },
+    {
+      "id": "5049381",
+      "time": "2026-08-20 16:01:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）警告消費者警惕高風險迷你債券與票據。"
+    },
+    {
+      "id": "5049380",
+      "time": "2026-08-20 16:00:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方向黎巴嫩南部多個城鎮發射炮彈。"
+    },
+    {
+      "id": "5049379",
+      "time": "2026-08-20 16:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前，儲存晶片股普漲】SK海力士漲約5％，閃迪漲約3％，西部資料漲約2％，美光科技漲約2％，希捷科技漲約2％。"
+    },
+    {
+      "id": "5049378",
+      "time": "2026-08-20 16:00:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【社會救助方式升級 物質+服務為困難群眾撐起“暖心傘”】今天（20日），民政部、財政部聯合公佈《關於積極發展服務類社會救助的指導意見》。這是《中華人民共和國社會救助法》自今年7月施行以來出臺的首個配套政策，推動我國社會救助從單一物質救助方式向“物質+服務”綜合救助模式轉變。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01e2f-56bc-7aab-90ad-be40983cd4b3",
+      "time": "2026-08-20 16:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan July export orders YoY 61.9% (expected 54.6%; prior 59.4%)."
+    },
+    {
+      "id": "mkt:01a01e2f-4b17-7aab-90ad-b2b6a6a30755",
+      "time": "2026-08-20 16:00:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "【Barclays: SK Hynix buyback a \"strong signal\"; sees ~15% market-cap return 2025-27, PT $300】Barclays calls SK Hynix's buyback a \"strong signal\" and keeps an overweight rating on SK Hynix ADR (SKHY.O) with a USD300 price target. Analyst Simon Coles forecasts shareholder returns equal to about 15% of current market capitalization over 2025-27. Barclays says strong cash flow should allow the company to raise shareholder returns without cutting capacity expansion, and raises its 2027 dividend forecasts to KRW2,500 per quarter and KRW10,000 year-end. Assuming a KRW200 trillion buyback in 2027, Barclays estimates roughly 51% of cumulative free cash flow for 2025-27 would be returned to shareholders; the split between dividends and buybacks remains a variable, and Barclays views buybacks as preferable when the stock is undervalued given semiconductor earnings volatility."
+    },
+    {
+      "id": "mkt:01a01e2f-31fc-7aab-90ad-ae6a3889054e",
+      "time": "2026-08-20 16:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Annual Export Orders (Jul) | actual 61.9% | consensus 54.6% | previous 59.40%"
+    },
+    {
+      "id": "te:markets:576792",
+      "time": "2026-08-20 16:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 2.21% — Top commodity losers are Natural gas (-2.21%), Gasoline (-1.39%) and Heating Oil (-0.81%). Gains are led by Brent Crude Oil (1.52%), Crude Oil WTI (1.52%) and Natural Gas UK (1.06%)."
+    },
+    {
+      "id": "5049377",
+      "time": "2026-08-20 15:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中澳執法部門聯合偵破一起跨國菸草走私案】記者20日從公安部獲悉，近日，中國海關緝私部門與澳大利亞邊境執法部門開展聯合執法行動，成功偵破一起跨國菸草走私案件。中澳執法部門共查獲走私捲菸9000餘萬支，取得聯合打擊跨國菸草走私重大戰果。今年以來，為嚴厲整治菸草走私、製假售假等突出問題，在海關總署緝私局統一部署下，湛江海關緝私局開展“利劍2026-2”專項行動，成功打掉非法捲菸走私團伙9個，查封倉儲窩點9個，查扣涉案走私捲菸3200餘萬支、電子煙1100餘盒。經循線追蹤，海關緝私部門查清了走私犯罪團伙企圖將境外製造的假冒煙草製品夾藏於正規貨物，經我境內轉運至澳大利亞的走私網路。為實現全鏈條打擊整治，海關總署緝私局透過中澳海關緝私執法合作渠道及時將相關線索通報澳大利亞邊境執法相關部門。隨後，雙方同步開展聯合執法行動，成功破獲該跨國菸草走私案，澳方查獲走私捲菸6000餘萬支、菸葉60公斤。（新華社）"
+    },
+    {
+      "id": "mkt:01a01e2e-762e-7aab-90ad-a2b98b898e16",
+      "time": "2026-08-20 15:59:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【ING: Dollar extends decline after U.S. Treasury ups long-term repo; risk appetite lifts EMs】Dollar fell to a three-month low after the U.S. Treasury increased the size of long-term Treasury repos, ING strategist Chris Turner said, lifting market risk appetite. Turner said the move indicates Treasury secretary Bessent is willing to act to curb rising long-term borrowing costs, reducing a key summer downside risk for risk assets, weakening the dollar's safe-haven bid and supporting emerging-market currencies; the dollar index hit 98.708 and, if risk assets continue to rise on further Treasury intervention, could slip toward 98.65."
+    },
+    {
+      "id": "mkt:01a01e2e-4a8b-7aab-90ad-9d2932098136",
+      "time": "2026-08-20 15:59:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Zhangyuan Tungsten posts long-term purchase quotes for second half of August 2026】Zhangyuan Tungsten published long-term purchase quotes for the second half of August 2026: 55% black tungsten concentrate 415,000 yuan/tonne; 55% white tungsten concentrate 414,000 yuan/tonne; ammonium paratungstate (national standard, grade 0) 600,000 yuan/tonne. Prices include 13% VAT."
+    },
+    {
+      "id": "te:economy:576791",
+      "time": "2026-08-20 15:59:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Poland Corporate Wage Growth at 7-Month High — Poland’s corporate sector wages rose 6.8% year-on-year to PLN 9,509.02 in July 2026, beating expectations of 6.2% and accelerating from 5.9% in June. This marked the strongest annual growth since December 2025, driven by faster wage growth across several sectors, including agriculture, forestry and fishing (26.2% vs. 1.9% in June), mining and quarrying (21.9% vs. 2.4%), electricity, gas, steam and air conditioning supply (13.4% vs. 2.4%), water supply, sewerage, waste management and remediation (7.3% vs. 7.1%), and information and communication (7.2% vs. 5.9%). On a monthly basis, average gross wages increased 1.1% in July, slowing from 2.5% in June. The increase was driven by additional payments, including bonuses and awards such as quarterly, annual and discretionary bonuses, as well as Forester’s Day awards, jubilee awards and retirement severance payments. Year to date, corporate sector wages have risen 5.9%."
+    },
+    {
+      "id": "5049376",
+      "time": "2026-08-20 15:58:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【9月裝船美國原油對亞洲銷量環比大漲約64%】據知情交易商透露，已有大量美國原油售予亞洲煉油廠，計劃9月裝船；部分交易仍在磋商，銷量還有進一步上行空間。本次成交約3600萬桶，8月裝船成交量為2200萬桶，環比上漲64%。但該規模仍低於伊朗衝突爆發初期的6000餘萬桶出口量，彼時亞洲煉油企業四處尋找替代油源。"
+    },
+    {
+      "id": "5049375",
+      "time": "2026-08-20 15:58:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【章源鎢業公佈2026年8月下半月長單採購報價】章源鎢業公佈2026年8月下半月長單採購報價：55%黑鎢精礦：41.50萬元/標噸；55%白鎢精礦：41.40萬元/標噸；仲鎢酸銨(國標零級)：60.00萬元/噸。注：以上單價含13%增值稅。"
+    },
+    {
+      "id": "5049374",
+      "time": "2026-08-20 15:58:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "希臘央行公佈，希臘6月經常賬戶餘額為逆差6.03億歐元，2025年同期逆差為11.95億歐元。"
+    },
+    {
+      "id": "5049373",
+      "time": "2026-08-20 15:58:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構 ： 扎波羅熱核電站僅剩的一條場外供電線路 ——330 千伏費羅斯普拉夫納‑1 輸電線於當地時間今日 00:44 斷開，再次出現失去場外電力的情況。經初步評估，線路受損位置位於第聶伯河北岸。 嘗試手動恢復線路供電未果；受持續軍事行動影響，技術人員目前無法確定停電原因。應急柴油發電機已自動啟動，為核電站關鍵安全系統供電。駐站的國際原子能機構工作組仍在評估事態。"
+    },
+    {
+      "id": "mkt:01a01e2d-450d-7aab-90ad-92558e3dd501",
+      "time": "2026-08-20 15:57:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Greece said data show June Greek tourism receipts rose to €3.476 bln from €3.435 bln in June 2025."
+    },
+    {
+      "id": "mkt:01a01e2c-ef78-7aab-90ad-8edd8c6ddcd0",
+      "time": "2026-08-20 15:57:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD rose to 1.3631, a three-month high."
+    },
+    {
+      "id": "5049372",
+      "time": "2026-08-20 15:57:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元GBP/USD漲至1.3631，為3個月來高點。"
+    },
+    {
+      "id": "5049371",
+      "time": "2026-08-20 15:57:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海欣股份：2026年半年度淨利潤1.29億元，同比增20.30%】海欣股份公告，2026年半年度營業收入3.12億元，同比下降16.22%；歸屬於上市公司股東的淨利潤1.29億元，同比增長20.30%；扣非淨利潤1.27億元，同比增長21.14%。本報告期未進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a01e2c-c307-7aab-90ad-85554ec486fc",
+      "time": "2026-08-20 15:57:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "IAEA said each interruption to external power underscores the extreme fragility of safety and security at the ZAPORIZHZHIA NUCLEAR PLANT and urged all parties to exercise maximum restraint and protect the plant's external power supply."
+    },
+    {
+      "id": "mkt:01a01e2c-ad84-7aab-90ad-7d973ce23e5a",
+      "time": "2026-08-20 15:57:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "IAEA said the Zaporizhzhia nuclear plant's sole external power line has been disconnected, leaving the nuclear safety situation extremely fragile."
+    },
+    {
+      "id": "5049370",
+      "time": "2026-08-20 15:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東風汽車與中央廣播電視總檯簽署戰略合作協議】據東風汽車訊息，8月19日，中央廣播電視總檯與東風汽車“品牌強國工程”融媒體傳播服務專案合作簽約儀式在北京舉行。雙方將圍繞品牌形象塑造、技術實力展示、全球形象傳播、汽車市場營銷、央企社會責任等方向深度協同。"
+    },
+    {
+      "id": "5049369",
+      "time": "2026-08-20 15:56:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比格披薩在吉林成立新公司 註冊資本200萬】天眼查App顯示，近日，吉林比格餐飲管理有限責任公司成立，法定代表人為李廣文，註冊資本200萬人民幣，經營範圍包括餐飲管理、餐飲服務、食品銷售、企業管理等，由北京比格餐飲管理有限責任公司全資持股。"
+    },
+    {
+      "id": "5049368",
+      "time": "2026-08-20 15:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦譴責美駐印大使涉爭議地區的失實言論】巴基斯坦外交部19日發表宣告說，巴外交部當天召見美國駐巴基斯坦臨時代辦，就美國駐印度大使在訪問查謨和克什米爾地區期間發表的關於該爭議地區地位的失實言論，向美方提出嚴正交涉。宣告說，巴方強烈譴責並堅決拒絕將查謨和克什米爾地區稱為“印度的一部分”。宣告強調，美國駐印度大使不負責任的言論否定了美方在查謨和克什米爾爭端問題上的立場，同時也違背了美方對於遵循國際法和《聯合國憲章》的承諾。（新華社）"
+    },
+    {
+      "id": "5049367",
+      "time": "2026-08-20 15:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家衛生健康委：基本藥物優先配備使用】2026年版國家基本藥物目錄已正式釋出。為更好落實《關於完善國家基本藥物制度的意見》《關於進一步加強公立醫療衛生機構基本藥物配備使用管理的通知》等政策要求，國家衛生健康委今天釋出通知，指導醫療衛生機構做好基本藥物優先配備使用工作，促進基本藥物公平可及、合理使用。地方各級衛生健康行政部門要指導本轄區醫療衛生機構健全用藥供應目錄評估機制，持續最佳化和規範用藥結構，促進上下級醫療衛生機構用藥銜接。（央視新聞）"
+    },
+    {
+      "id": "5049366",
+      "time": "2026-08-20 15:56:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金誠信：簽署合計3.60億元磷礦開採工程合同】金誠信公告稱，公司近日與貴州開磷集團股份有限公司簽署開陽洋水礦區東翼深部磷礦開採工程專案一期工程二標段（二區）相關合同，包含施工總承包（基建）及施工總承包（基建採切）兩項，簽約預估含稅合同價分別為2.02億元、1.58億元，合計3.60億元，合同工期均為599日曆天，最終金額按實際完成工作量及合同單價計算。本次交易不構成關聯交易，合同履行將對公司業績產生一定影響，存在履約、不可抗力等風險。"
+    },
+    {
+      "id": "5049365",
+      "time": "2026-08-20 15:55:43",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美財政部擴大國債回購 效果永續性遭質疑】美國財政部19日宣佈，將擴大對長期國債的回購規模，為債券市場提供更大流動性支援。根據宣告，美國財政部對長期國債的流動性支援回購規模將“至少擴大一倍”，回購物件涵蓋10年期至30年期債券。美國財政部訊息釋出後，美國長期國債收益率出現下跌。據英國方面訊息，擴大國債回購雖然有助於緩和長期債券市場壓力，但這種緩和可能是短暫的。市場人士認為，財政部的行動掩蓋但是並沒有真正解決根本的結構性問題。美國方面訊息稱，與美國國債市場的規模相比，美國財政部的回購規模相對較小，重要的是其象徵意義，即美國財政部願意動用工具緩解國債市場所面臨的壓力。（央視新聞）"
+    },
+    {
+      "id": "te:markets:576789",
+      "time": "2026-08-20 15:55:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Falls for 4th Day — The DAX 40 fell about 0.3% to below 26,000 on Thursday, the lowest since late July, marking the fourth session of losses. Investors stayed cautious cautious amid inflation concerns and geopolitical uncertainty, despite a surprise move by the US Treasury that helped reduce pressure on government bonds worldwide. Negotiations to resolve the US-Iran conflict remained deadlocked, with the Trump administration turning away from military intervention and instead pursuing a strategy of intensified economic pressure on Tehran. Weakness in software, chemical and telecom stocks more than offset gains in autos, chipmakers and utilities companies."
+    },
+    {
+      "id": "mkt:01a01e2a-4960-7aab-90ad-72d6421d7c65",
+      "time": "2026-08-20 15:54:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT approves Zhejiang Shikong Daoyu for two-year commercial satellite IoT trial】The Ministry of Industry and Information Technology (MIIT) has approved Zhejiang Shikong Daoyu Technology Co. to run a two-year commercial trial of satellite IoT services. During the trial the company may pilot satellite IoT operations using the Geely Future Mobility constellation (Phase I) to provide wide‑coverage, low‑power, high‑reliability IoT connectivity. Targeted applications include smart transport, marine fisheries, energy and water management, enabling 24/7 intelligent data collection and remote interaction."
+    },
+    {
+      "id": "5049364",
+      "time": "2026-08-20 15:54:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達90億港元。"
+    },
+    {
+      "id": "5049363",
+      "time": "2026-08-20 15:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工業和資訊化部批覆浙江時空道宇科技有限公司開展衛星物聯網業務商用試驗】工業和資訊化部近日批覆浙江時空道宇科技有限公司（以下簡稱時空道宇）開展衛星物聯網業務商用試驗，試驗期為兩年。在此期間，時空道宇可依法試點經營衛星物聯網業務，依託“吉利未來出行星座（一期）”為使用者提供廣覆蓋、低功耗、高可靠的物聯網連線服務，在智慧交通、海洋漁業、能源水利等領域實現全天候、智慧化的資料採集與遠端互動。（工信部）"
+    },
+    {
+      "id": "5049362",
+      "time": "2026-08-20 15:54:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【深交所首單酒店REITs落地：華住安住REIT正式獲批】2026年8月17日，華泰紫金華住安住封閉式商業不動產證券投資基金（下稱“華住安住REIT”）正式獲批，成為深交所首單酒店型商業不動產REITs，也是國內首單由民營酒店集團主導的酒店公募REITs。該產品的基金管理人為華泰證券（上海）資產管理有限公司，品牌方為華住集團，原始權益人為華住集團牽頭設立的酒店和公寓投資資產管理平臺上海安住此間商務資訊諮詢有限公司。（第一財經）"
+    },
+    {
+      "id": "te:markets:576788",
+      "time": "2026-08-20 15:53:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls, JD Sports Down 10% — The FTSE 100 declined on Thursday, ending a two-session advance. JD Sports was the biggest drag, plunging more than 10% after the sportswear retailer lowered its profit outlook, citing challenging trading conditions during the second quarter. Mining stocks also moved lower, with Rio Tinto falling 0.7% and Anglo American losing 0.8%, while oil majors Shell and BP edged down slightly. Persistent concerns over elevated oil prices and their potential impact on inflation continued to weigh on sentiment, although a recovery in global bond markets following intervention by the US Treasury provided some support. Investors also remained focused on developments in the Middle East. President Donald Trump warned that countries providing any form of support to Iran could face economic consequences as Washington seeks to resolve the conflict."
+    },
+    {
+      "id": "5049361",
+      "time": "2026-08-20 15:53:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月週末客流連破紀錄！廣東城際暑期人人人】資料顯示，7月1日至8月19日，廣惠、廣肇、廣清、廣州東環、琶蓮和穗深城際鐵路累計傳送旅客641.6萬人次，日均傳送量達12.8萬人次，較2025年同期增長49.8%。（廣州日報）"
+    },
     {
       "id": "5049360",
       "time": "2026-08-20 15:53:12",
