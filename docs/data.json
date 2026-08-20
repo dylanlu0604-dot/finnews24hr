@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20 08:42:46",
-  "count": 15633,
+  "updated": "2026-08-20 08:46:39",
+  "count": 15631,
   "items": [
+    {
+      "id": "te:markets:576645",
+      "time": "2026-08-20 08:45:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1.3% to above 66,000 while the broader Topix Index advanced 0.8% to 4,045 on Thursday, snapping a two-day decline as Japanese shares tracked a positive lead from Wall Street amid a pullback in global bond yields from multi-year highs. The US Treasury Department said it will more than double repurchases of 10-, 20- and 30-year debt over the coming months after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Japan’s 10-year government bond yield also eased to around 2.84% after hitting a 30-year high of 2.95% earlier this week. Meanwhile, data showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips. Notable gains came from index heavyweights including Kioxia Holdings (3.8%), Advantest (1.8%), SoftBank Group (3.2%), Nintendo (3.2%) and Toyota Motor (3%)."
+    },
+    {
+      "id": "5048773",
+      "time": "2026-08-20 08:44:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澄天偉業：液冷業務當前訂單能見度較前期有所提升】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務源於在半導體封裝材料領域的技術積累，憑藉在精密金屬加工領域的工藝能力，在行業需求興起之初，公司就與臺灣核心客戶持續進行共同開發、持續打樣等小批次生產，當前業務處於從驗證匯入向規模化交付過渡的關鍵階段。公司主要為客戶提供GPU液冷模組及機櫃內部歧管等核心部件，目前該產品線將跟隨客戶量產節奏推進，整體放量節奏與客戶的交付排期高度關聯。當前訂單能見度較前期有所提升。"
+    },
+    {
+      "id": "mkt:01a01c9f-191b-7aab-90a4-8995d481ce4e",
+      "time": "2026-08-20 08:43:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Samsung to unveil new Galaxy S26 model on Aug. 27】Samsung Electronics said on Thursday it will hold an online launch for its Galaxy S26 smartphone line on Aug. 27. The firm did not name the product; leaks identify it as the Galaxy S26 FE. Leaked specs include a 6.7-inch Dynamic AMOLED 2X display, an Exynos 2500 SoC, up to 50 hours battery life per charge (about 7.5 hours longer than the Galaxy S25 FE) and a rear camera array of 50MP main, 12MP ultrawide and 8MP telephoto."
+    },
     {
       "id": "5048772",
       "time": "2026-08-20 08:41:17",
@@ -143305,54 +143333,6 @@
         "SZSE Component"
       ],
       "text": "【China margin financing balances rise CNY9.388 bln】As of Aug 12, margin financing on the Shanghai Stock Exchange was CNY1.355237 trillion, up CNY4.813 billion from the prior trading day; Shenzhen was CNY1.283743 trillion, up CNY4.575 billion. Combined balances rose CNY9.388 billion to CNY2.63898 trillion."
-    },
-    {
-      "id": "mkt:019ff895-348c-7aab-9015-7f51f3df043b",
-      "time": "2026-08-13 08:45:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBA's Kent said there is currently no urgent need to convert FX reserves into other currencies."
-    },
-    {
-      "id": "5038327",
-      "time": "2026-08-13 08:45:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：持續看好鐵路裝備高景氣延續】中國銀河證券研報稱，2026年上半年全國鐵路完成固定資產投資3632億元，同比+2.1%，在去年高位基礎上延續增長；投產新線355.2公里，同比+16.5%。上半年全國鐵路完成旅客傳送量23.48億人，同比+5%，創歷史同期新高；完成貨物傳送量26.22億噸，同比+2.5%。根據中國銀河證券對線路的梳理，2026年—2028年預計年均新投產里程有望超3000公里，其中2027年為通車高峰，未來三年動車組新車招標有望維持高位；同時，動車組維修按照修程修制推進，2024年起進入放量週期，中國銀河證券測算“十五五”時期年均高階修市場空間有望超500億元；持續看好鐵路裝備高景氣延續。"
-    },
-    {
-      "id": "te:markets:574859",
-      "time": "2026-08-13 08:44:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Hits Fresh 2-Month Peak — Platinum futures rose above $1,770 an ounce, reaching a fresh eight-week high as precious metals broadly advanced following a subdued US inflation report. US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. The data reduced expectations of tighter Fed policy at its September meeting, supporting non-yielding assets such as platinum. Precious metals also found support from lower oil prices amid prospects of a deal to reopen the Strait of Hormuz, potentially easing energy supply and inflation concerns. Meanwhile, AI and data-center expansion are emerging as potential new sources of platinum-group metals demand. Valterra Platinum estimates AI-related PGM demand at 200,000–400,000 ounces annually and sees it potentially growing fivefold by 2030. Still, the platinum market is expected to remain in deficit due to constrained mine output, particularly in South Africa, although higher prices could encourage recycling."
-    },
-    {
-      "id": "em:qqyh_mlc:202608133839799132",
-      "time": "2026-08-13 08:43:33",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【調查：美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。"
-    },
-    {
-      "id": "mkt:019ff892-5e78-7aab-9015-7138aafe5dad",
-      "time": "2026-08-13 08:42:49",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "RBA's Kent said valuations in some equity markets do appear very generous."
     }
   ]
 }
